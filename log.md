@@ -750,3 +750,34 @@ Y cruzado con H4: aquella vez su respuesta a *"si quieres marcharte"* fue bajars
 > Si la villa es una dirección pública, **la unión invisible cambia de régimen** — y con ella, la arquitectura de seguridad del imperio entero.
 
 **Archivos tocados:** `06_Relationships/Hitos` (H8), `05_Locations/La_Villa` (reescrita), `05_Locations/La_Casa`, `05_Locations/El_Penthouse`, `06_Relationships/Cole_y_Chiara`, `INDEX.md`.
+
+---
+
+## Sesión 2026-08-23 (16) | H1 en la villa, el Tasador como incendiario, y control de versiones
+
+### Dos resoluciones de canon
+
+**1. H1 — El regreso a casa ocurre en [[05_Locations/La_Villa]], la casa final.** No en el loft del barrio, que para entonces ya ardió. La piscina donde se lava la sangre, la habitación de los dos y el baño están en la villa. Actualizados `Hitos`, `La_Villa` y `La_Casa`.
+
+Queda una pregunta derivada, anotada como pendiente: la costumbre del barrio de callar sobre ellos venía de la etapa del loft. **En la villa, otro barrio y otro régimen** — y que la violencia llegue hasta su baño puede ser precisamente el precio de haber subido.
+
+**2. Quien incendió el loft fue [[02_Characters/Silas_Crowe]]**, por un cargamento que Cole no entregó a tiempo cuando todavía trabajaba para él. **Cole aún no era autónomo, pero estaba empezando a serlo — y eso es lo que el Tasador castiga de verdad.**
+
+Es la mejor jugada del antagonista y por tres razones, ya instaladas en su ficha y en H8:
+
+- **Es su tesis ejecutada sin misericordia.** *Todo vale algo; la única diferencia es quién pone el precio.* Aquí le pone precio a un hogar, y el precio es un retraso. **Una casa a cambio de un cargamento tarde: la tasación definitiva.**
+- **Quema justo lo único de la vida de Cole que no estaba en venta.** El código de Cole nació contra este hombre; Silas contesta incendiando la prueba.
+- **Su propia ficha ya lo anunciaba:** *si alguien empieza a ganar demasiado sin él, aparece una cuota nueva.* El incendio es esa cuota, escalada hasta lo irreversible.
+
+**Y el costo que casi nadie va a contar:** Silas saca a Cole de la Almendra. **El hombre que protege al barrio termina desplazado de él**, y el barrio que lo cubría en silencio se queda sin nadie a quien cubrir. Es la única victoria real del Tasador en toda la novela, y probablemente ni la registre como tal.
+
+### Control de versiones
+
+Montado igual que el vault de *Memories Of A Ghost*:
+
+- **El repositorio vive fuera de Google Drive**, en `C:\Users\avada\git-repos\seda-y-polvora.git`, y el vault sólo tiene un archivo `.git` que apunta ahí (`--separate-git-dir`). Así Drive no sincroniza los objetos de git ni corrompe el repo.
+- `.gitignore` adaptado del otro vault: `desktop.ini`, `Thumbs.db`, `.DS_Store`, y el estado local de Obsidian.
+- Config local: autor Víctor Paz, `gc.auto=0`, `maintenance.auto=false`, `core.filemode=false`, `core.symlinks=false`.
+- **Ramas `main` y `develop`**, trabajando en `develop`, igual que el otro vault.
+- **Commit inicial:** 40 archivos versionados, ningún `desktop.ini` colado.
+- **Sin remoto todavía** — pendiente de que el autor cree el repositorio en GitHub.
