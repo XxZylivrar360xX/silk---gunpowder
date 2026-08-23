@@ -1,0 +1,10 @@
+# ── Google Drive / Windows (basura del sistema de archivos) ──
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# ── Obsidian: estado de UI local y caché (no es contenido) ──
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
