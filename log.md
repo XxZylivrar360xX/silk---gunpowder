@@ -781,3 +781,367 @@ Montado igual que el vault de *Memories Of A Ghost*:
 - **Ramas `main` y `develop`**, trabajando en `develop`, igual que el otro vault.
 - **Commit inicial:** 40 archivos versionados, ningún `desktop.ini` colado.
 - **Sin remoto todavía** — pendiente de que el autor cree el repositorio en GitHub.
+
+---
+
+## Sesión 2026-08-23 (17) | H9 — La carrera de máscaras
+
+Nuevo hito canon recibido e integrado como **H9** por orden de recepción, aunque cronológicamente va **entre H4 y H5**, antes del incidente de las caballerizas.
+
+**La secuencia:** Cole pregunta *"¿Qué es lo más ilegal que te han atrapado haciendo?"* → Chiara admite que de adolescente terminó un par de veces en la comisaría en Italia, nada grave → él le dice *"bueno, ponte algo cómodo porque vamos a ir a dar una vuelta"* → pasa por ella en el **Peugeot 106 XSi rojo** → van a una tienda de máscaras para cubrir identidades → carrera callejera ilegal en la zona del aeropuerto → la policía se involucra → Cole se zafa por velocidad y conocimiento de calle → queda **séptimo** → la deja en el casino y ella sonríe genuinamente, sin aparentar, porque se divirtió haciendo algo que jamás se habría visto haciendo.
+
+**Hallazgos instalados:**
+
+- Es el reverso callejero de H4: en el golf, Chiara lo mete a un mundo donde él está disfrazado; aquí Cole la mete al suyo — velocidad, calle, riesgo, ruido e improvisación.
+- Que Cole quede **séptimo** importa: la escena no demuestra invencibilidad, sino escape. El punto no era ganar, sino darle a Chiara una noche que no habría sabido pedir.
+- Las máscaras son prácticas y temáticas a la vez: en una novela sobre versiones públicas, Chiara usa una máscara literal para hacer algo que ninguna versión aceptable de ella haría.
+- Cole no la corrompe: le presta una noche sin administración. La sonrisa final es el centro del hito.
+- La policía queda cargada como amenaza práctica y posible rima futura con Blake Stanton.
+
+**Infraestructura de agentes:** creado `AGENTS.md` como guía operativa para Codex y agentes futuros. No sustituye a `CLAUDE.md`; lo resume y apunta a él como fuente completa. Añadido enlace desde `README.md`.
+
+**Archivos tocados:** `06_Relationships/Hitos`, `INDEX.md`, `README.md`, `AGENTS.md`, `log.md`.
+
+**Pendientes nuevos:** nombre de la tienda de máscaras; geografía exacta de la zona del aeropuerto; qué máscara elige cada uno; quién organiza la carrera; si alguna patrulla identifica el Peugeot rojo.
+
+---
+
+## Sesión 2026-08-23 (18) | Primer bloque de fichas de personajes
+
+Antes de pasar a los momentos de tensión fuertes de la pareja, se abrió el trabajo de fichas de reparto.
+
+**Fichas nuevas creadas:**
+
+- `02_Characters/Nadir_Amrani.md` — mejor amigo de Cole; lo ayudó primero en prisión y por eso no funciona como subordinado ni deudor.
+- `02_Characters/Daniel_Hayes.md` — Danny; amigo del barrio, dueño de Rocco y testigo temprano de la relación invisible.
+- `02_Characters/Marisol_Grayson.md` — hija de Michael; Cole se hizo cargo de ella. Termómetro moral de en qué se está convirtiendo.
+- `02_Characters/Michael_Grayson.md` — viejo amigo militar de Cole, muerto de cáncer; su muerte deja a Marisol en la vida de Cole.
+- `02_Characters/README.md` — mapa operativo de personajes con fichas existentes, nombres reservados y funciones pendientes.
+
+**Correcciones de continuidad:**
+
+- `INDEX.md` ya no lista a Nadir y Danny como "con nombre y sin ficha".
+- `Almendra_Towing` ya no dice que la mano derecha de Cole no tiene nombre: está resuelto como [[02_Characters/Hector_Navarro]].
+- `Cole_Mercer` y `Hitos` enlazan a las fichas nuevas donde aplica.
+
+**Pendientes prioritarios de personajes:** socio del casino; médica de confianza de Chiara; dos periodistas de *El Faro*; contacto ruso; núcleo del patio; organizador de carreras.
+
+---
+
+## Sesión 2026-08-23 (19) | Núcleo ampliado de Almendra Towing
+
+El autor entregó nuevos miembros canon de la organización, procedentes del material anterior, y se rediseñaron para *Seda y Pólvora* — San Aurelio, Cole, Chiara y Almendra Towing.
+
+**Fichas nuevas creadas:**
+
+- `02_Characters/Harper_Walker.md` — Harper "Sparks" Walker, 27. Empleada ganadera del norte; protegida operativa de Cole. Él la instruye en conducción y trucos de calle. Se diferencia de Marisol: Harper es formación de oficio, no termómetro moral.
+- `02_Characters/Tyler_Brooks.md` — Tyler "Switch" Brooks, organizador de carreras callejeras, 21, el miembro más joven. Resuelve parte del pendiente de H9 y funciona como puente entre carreras ilegales y Almendra Towing.
+- `02_Characters/Mei_Lin_Zhao.md` — china, 24, antigua corredora de una banda rival desintegrada. Entra con Riley y trae memoria táctica de una organización que falló.
+- `02_Characters/Riley_Bennett.md` — 23, antigua corredora de la misma banda rival. Se vuelve protegida de Chiara, que le enseña lectura de escenarios, reconducción y la posibilidad de un futuro lejos de la calle.
+- `02_Characters/Ren_Wei.md` — chino, cocinero de cocaína y metanfetaminas. Último en entrar; consolida a Cole como proveedor por calidad y pureza del producto. El apodo **El Afinador** queda marcado como apodo de oficio.
+
+**Integración estructural:**
+
+- `Almendra_Towing` ahora distingue el núcleo del barrio y el núcleo que llega desde carreras/norte.
+- La entrada de Ren queda marcada como frontera moral: Cole pasa de controlar movimiento a tocar suministro.
+- `02_Characters/README.md` e `INDEX.md` actualizados con el núcleo ampliado.
+- En H9 queda parcialmente resuelto el pendiente de organizador de carreras: Tyler organiza carreras, falta confirmar si esa carrera específica es suya.
+
+**Pendientes nuevos:** propiedad rural del norte; banda rival desintegrada de Mei-Lin y Riley; relación exacta de Harper con el taller del norte; costo moral y operativo de incorporar a Ren.
+
+---
+
+## Sesión 2026-08-23 (20) | Policía local y FBI
+
+Se diseñó el lado institucional antes de entrar a las tensiones fuertes de la pareja.
+
+### Policía de San Aurelio
+
+Creada `03_Factions/Departamento_de_Policia_de_San_Aurelio.md`.
+
+Decisión de nomenclatura: evitar usar `S.A.P.D.` como marca narrativa principal por similitud con otras siglas externas. En prosa queda como **el Departamento**, **la Policía de San Aurelio** o **el Departamento de San Aurelio**.
+
+La policía local queda alineada con [[00_Biblia/Reglas_del_Mundo]], regla 5: no se compra con dinero directo, se negocia con **casos**. Blake Stanton queda conectado como pieza interna pendiente de unidad/facción.
+
+### FBI — Fuerza de Tarea Meridian
+
+Creada `03_Factions/Fuerza_de_Tarea_Meridian.md` y `02_Characters/Andrew_Callahan.md`.
+
+El rol que en el material previo ocupaba David Walker queda rediseñado como **Andrew Callahan**, agente especial supervisor del FBI. No usar el nombre heredado.
+
+**Canon nuevo instalado en Chiara:** el FBI tiene pasado directo con ella. En una redada contra Corrado Ardizzone, la estabilidad de su hogar se rompe; Corrado muere, y por burocracia de investigación le niegan a Chiara verlo o enterrarlo. La culpa de fondo era del Consorcio, pero la mano visible fue federal.
+
+Frase guía:
+
+> **Para Chiara, el FBI no representa justicia. Representa el día en que una institución le explicó que su duelo era evidencia.**
+
+### Diferencia estructural
+
+- Policía local: mercado de casos, presupuesto y prensa.
+- FBI/Meridian: patrones federales, jurisdicción, lavado, rutas internacionales y paciencia burocrática.
+
+**Regla instalada:** Cole puede volverse indispensable para la policía local; no puede volverse indispensable para un expediente federal. Chiara puede mover la versión de la ciudad, pero no borra igual de fácil una orden sellada.
+
+**Archivos tocados:** `03_Factions/Departamento_de_Policia_de_San_Aurelio`, `03_Factions/Fuerza_de_Tarea_Meridian`, `02_Characters/Andrew_Callahan`, `02_Characters/Chiara_Bellandi`, `00_Biblia/Reglas_del_Mundo`, `05_Locations/San_Aurelio`, `03_Factions/Il_Consorzio`, `02_Characters/README`, `INDEX.md`, `log.md`.
+
+**Pendientes nuevos:** jefe/a del Departamento; facciones internas policiales; dos agentes más de Meridian; operación federal contra Corrado; si Callahan participó o sólo hereda el daño institucional; detonante exacto de entrada federal contra Cole.
+
+---
+
+## Corrección de continuidad (2026-08-23) | Almendra Towing no es la cara criminal
+
+Corrección del autor: **Almendra Towing es la primera empresa de Cole**, pero **no es la cara de la organización criminal**. Son capas separadas.
+
+Instalado en `03_Factions/Almendra_Towing`:
+
+- **Almendra Towing** — taller, patio de grúas, convenio municipal, primera empresa y base logística.
+- **La red criminal de Cole** — favores, rutas, protección, suministro y deuda.
+- **La cara pública de esa organización** — pendiente de diseño.
+- **El nombre de calle** — pendiente de diseño; no lo elige Cole y Chiara decide después qué significa.
+
+También corregido en `INDEX.md`, `02_Characters/Cole_Mercer` y `03_Factions/Fuerza_de_Tarea_Meridian`.
+
+**Regla nueva:** si un personaje dice "Almendra Towing", habla de la empresa o de su base operativa, no de toda la organización criminal como entidad pública.
+
+### Voz privada de Chiara
+
+Canon añadido: en privado, Chiara llama al núcleo joven de Cole **"los niños del Patio"**.
+
+No es nombre público, no es marca criminal y no aparece en expedientes. Es voz íntima de Chiara para Harper, Tyler, Mei-Lin, Riley y la generación joven que orbita el patio. Funciona porque los integra emocionalmente sin convertirlos en empleados, y porque muestra que Chiara entiende el patio como casa ampliada de Cole.
+
+Regla de uso: sólo en boca de Chiara o narración pegada a su punto de vista. Si alguien más lo usa, tiene que ser porque se lo oyó a ella.
+
+---
+
+## Sesión 2026-08-23 (21) | El Patio / Patio Almendra
+
+Creado `03_Factions/El_Patio.md` para separar por fin la red criminal/comunitaria de la primera empresa legal.
+
+**Decisión de capas:**
+
+- `Almendra_Towing` — primera empresa legal, taller, grúas, convenio municipal y base logística.
+- **El Patio / los del Patio** — nombre vivo de la red: favores, rutas, protección, deuda, carreras y luego suministro.
+- **Patio Almendra** — posible etiqueta institucional para policía, FBI o prensa.
+- **Cara pública final** — pendiente de diseño.
+
+El documento incluye miembros, jerarquía, giro, alcance por fases, relación con Chiara, policía y FBI. También fija que **"los niños del Patio"** es voz privada de Chiara para el núcleo joven.
+
+Actualizados `Almendra_Towing`, `Cole_Mercer`, `01_Timeline/00_Estructura_del_Ascenso` e `INDEX.md`.
+
+**Pendientes prioritarios:** confirmar si El Patio queda como nombre de calle principal; diseñar la cara pública final; definir el negocio legal que marca el salto; crear quien lleva las cuentas; fijar el primer costo con nombre del salto a suministro con Ren.
+
+---
+
+## Sesión 2026-08-23 (22) | Caras públicas de El Patio
+
+Rediseñados e incorporados los dos roles públicos de la organización de Cole:
+
+- **[[02_Characters/Russell_Whitaker]]** — reemplaza la función de Harry Madison. Ex veterano de la rotación de Cole, herido de una pierna, camina con bastón y aspira a alcalde de San Aurelio. Es la cara política de El Patio.
+- **[[02_Characters/Garrett_Cross]]** — reemplaza la función de Marcus Cane. Administra dinero, recursos y activos; es testaferro de Cole y la persona que puede decirle "no" con números.
+- **[[03_Factions/Cross_River_Consolidated]]** — reemplaza Cane K.R. Consolidated. Holding de activos y negocios visibles donde Cole no debe aparecer en papel.
+
+Canon instalado: la cara pública de El Patio no es una sola máscara sino dos carriles: **Russell Whitaker** para política municipal y **Cross River Consolidated / Garrett Cross** para la arquitectura financiera. [[03_Factions/Almendra_Towing]] sigue siendo sólo la primera empresa y base logística.
+
+Actualizados `03_Factions/El_Patio`, `03_Factions/Almendra_Towing`, `02_Characters/Cole_Mercer`, `02_Characters/Chiara_Bellandi`, `02_Characters/README`, `01_Timeline/00_Estructura_del_Ascenso` e `INDEX.md`.
+
+**Pendientes:** cargo inicial de Russ antes de la alcaldía; cómo conoce Cole a Garrett; primer "no" financiero de Garrett; negocios de isla que entran primero a Cross River; primer documento que el FBI conecta.
+
+---
+
+## Sesión 2026-08-23 (23) | Estado político y criminal de San Aurelio
+
+Creado `05_Locations/Estado_de_la_Ciudad.md` como tablero de mundo para conectar elecciones municipales, conflictos en los barrios del sur, mercado criminal y dinámica de poder de Dario con las bandas.
+
+Canon instalado:
+
+- San Aurelio entra al ascenso con elecciones municipales en horizonte, alcaldía débil, barrios del sur en disputa y mercado criminal sostenido por miedo.
+- [[02_Characters/Dario_Valcora]] gobierna a las bandas por miedo administrativo: concede territorios menores, deja que se desgasten, interviene cuando el desorden amenaza sus negocios grandes y amenaza con liquidación o tortura como herramienta de gobierno.
+- [[02_Characters/Cole_Mercer]] contrasta a largo plazo: asciende por utilidad, deuda y respeto. Da oportunidades de más, pero cuando alguien abusa de la confianza y ya no deja salida, dispara.
+- [[02_Characters/Russell_Whitaker]] usa el deterioro urbano y la violencia del sur como materia electoral; no debe ser marioneta, quiere la alcaldía de verdad.
+
+Actualizados `05_Locations/San_Aurelio`, `02_Characters/Dario_Valcora`, `03_Factions/El_Patio`, `02_Characters/Russell_Whitaker`, `00_Biblia/Reglas_del_Mundo` e `INDEX.md`.
+
+**Pendientes:** nombres de barrios del sur; nombres y giros de bandas menores; detonante público de la campaña de Russ; primer abuso de confianza que Cole perdona/negocia/castiga; escena donde una banda compare miedo a Dario con respeto a Cole.
+
+---
+
+## Sesión 2026-08-23 (24) | Bandas menores y centro blindado
+
+Canon instalado en esta primera pasada: San Aurelio tiene un bloque inicial de organizaciones menores relevantes para el ascenso de Cole:
+
+- **Sur:** [[03_Factions/Los_Calderos]] en Las Calderas; [[03_Factions/La_Ronda_del_Canal]] en Canal Seco; [[03_Factions/Cuadra_Nueve]] en Nueve Puentes; [[03_Factions/Los_Bravos_de_Santa_Brigida]] en Santa Brígida.
+- **Norte:** [[03_Factions/Los_Marcadores_de_Milla]] en las rutas rurales/carreras; [[03_Factions/Alamo_Salvage]] en Los Álamos.
+
+Creado [[03_Factions/Bandas_Menores_de_San_Aurelio]] como mapa paraguas.
+
+Regla nueva: nadie sostiene territorio criminal permanente en el centro viejo / Calle Corona porque ahí se concentran hospitales, Ayuntamiento, juzgados, comisarías, prensa y cámaras. Se puede operar puntualmente; no poseer mercado.
+
+Actualizados `05_Locations/Estado_de_la_Ciudad`, `05_Locations/San_Aurelio`, `02_Characters/Dario_Valcora`, `03_Factions/El_Patio`, `00_Biblia/Reglas_del_Mundo`, `03_Factions/Departamento_de_Policia_de_San_Aurelio` e `INDEX.md`.
+
+**Pendientes de esa pasada:** líderes con nombre, cuál banda será primer ejemplo de Dario, cuál empujará a Cole a disparar, relación exacta de Tyler con Los Marcadores y si Álamo Salvage será rival, proveedor o compra de Cross River. Resuelto/ampliado en la sesión 25 con líderes y la banda costera.
+
+---
+
+## Sesión 2026-08-23 (25) | Mujeres al mando, costa y mapa de conflicto
+
+Corrección de diseño: las bandas menores no quedan masculinizadas por defecto. Se instalaron mujeres con autoridad real:
+
+- **Marina "Mack" Calderon** — cabeza de [[03_Factions/Los_Calderos]].
+- **Irene Salcedo** — cabeza de [[03_Factions/La_Ronda_del_Canal]].
+- **Maya Rios** — cabeza de [[03_Factions/Cuadra_Nueve]].
+- **Avery "Ace" Monroe** — primera versión de cabeza de [[03_Factions/Los_Marcadores_de_Milla]], corregida después a **Evan "Ace" Monroe**.
+- **Pamela "Pam" Rusk** — primera versión de cabeza de [[03_Factions/Alamo_Salvage]], corregida después a operadora contractual bajo **Morris Vale**.
+- **Naomi "Nox" Ward** — presidenta de [[03_Factions/Breakwater_Saints_MC]].
+
+Creado [[03_Factions/Breakwater_Saints_MC]]: banda motociclista costera de La Isla, dedicada principalmente a seguridad de piso, puertas, estacionamientos, clubes y bares antes de que Cole abra el flujo de cocaína. Cuando [[03_Factions/El_Patio]] se consolida como proveedor de la mayoría de la isla, los Saints se vuelven una pieza inevitable porque controlan piso y acceso al cliente final.
+
+Creado [[03_Factions/Mapa_de_Conflicto_Activo]] para ordenar enemistades, treguas y dependencias:
+
+- Los Calderos vs El Patio: enemistad abierta temprana.
+- La Ronda del Canal vs El Patio: tregua tensa.
+- Cuadra Nueve vs El Patio: dependencia en formación.
+- Los Bravos vs El Patio: enemistad probable y candidatos al límite violento de Cole.
+- Los Marcadores vs El Patio: dependencia en formación por Tyler y las carreras.
+- Álamo Salvage vs El Patio: neutralidad vigilada.
+- Breakwater Saints vs El Patio: tregua tensa costera.
+
+Actualizados `Bandas_Menores_de_San_Aurelio`, las seis fichas de bandas existentes, `San_Aurelio`, `Estado_de_la_Ciudad`, `El_Patio`, `Dario_Valcora` e `INDEX.md`.
+
+**Pendientes:** fichas individuales para líderes que escalen a escena; decidir si Los Bravos o los Saints son la primera banda que intenta vender producto de Cole sin permiso; definir quién rompe primero una tregua de Dario.
+
+### Ajuste de balance de liderazgos
+
+Corrección posterior: al corregir el sesgo masculino, el mapa quedó demasiado inclinado hacia liderazgos femeninos. Se ajustó a balance mixto:
+
+- [[03_Factions/Los_Marcadores_de_Milla]] queda bajo **Evan "Ace" Monroe**; **Avery Shaw** pasa a cronometradora/contacto de apuestas.
+- [[03_Factions/Alamo_Salvage]] queda bajo **Morris Vale**; **Pamela "Pam" Rusk** pasa a operadora contractual fuerte.
+
+Balance activo: cuatro liderazgos femeninos — Marina, Irene, Maya y Naomi — y tres masculinos — Rafe, Evan y Morris.
+
+---
+
+## Sesión 2026-08-23 (26) | Equipo de la Fuerza Meridian
+
+Diseñada la estructura completa de [[03_Factions/Fuerza_de_Tarea_Meridian]]:
+
+- [[02_Characters/Andrew_Callahan]] — agente especial supervisor, Organized Crime / RICO. Comandante. Su obsesión inicial es [[02_Characters/Dario_Valcora]], no Cole; frase guía: **Mercer no importa. Valcora importa.**
+- [[02_Characters/Mara_Ellison]] — agente especial principal, Violent Crime / case agent. Verdadera antagonista personal de Cole: aprende su patrón.
+- [[02_Characters/Priya_Nair]] — intelligence analyst, link/pattern analysis. Primera en sospechar que la historia oficial de Cole no explica a Cole.
+- [[02_Characters/Nora_Whitcomb]] — forensic accountant, lavado / asset tracing. Rival técnica de Garrett y Cross River.
+- [[02_Characters/Leah_Park]] — crimen digital y vigilancia técnica. No hackea mágicamente: cierra espacios siguiendo errores periféricos.
+- [[02_Characters/Victor_Reyes]] — operaciones encubiertas / manejo de informantes. Ataca la red humana de El Patio.
+- [[02_Characters/Sofia_Alvarez]] — trata de personas / explotación. Encuentra la contradicción de traficantes muertos y víctimas recuperadas.
+- [[02_Characters/Grant_Maddox]] — enlace táctico / SWAT, exmilitar. Reconoce que Cole no aprendió a disparar en la calle.
+
+Recurrentes externos:
+
+- [[02_Characters/Nina_Caldwell]] — Assistant U.S. Attorney. Convierte investigación en cargos, órdenes y juicio.
+- [[02_Characters/Luis_Ortega]] — detective local de homicidios/crimen organizado. Traduce San Aurelio para los federales.
+
+Actualizados `Fuerza_de_Tarea_Meridian`, `Andrew_Callahan`, `Departamento_de_Policia_de_San_Aurelio`, `02_Characters/README` e `INDEX.md`.
+
+**Pendientes:** detonante exacto de entrada de Meridian; primer documento que Nora conecta con El Patio; primer error digital que Leah explota; informante de Victor; víctima que obliga a Sofia a reabrir la teoría sobre Cole; si Luis respeta o desprecia a Cole.
+
+---
+
+## Sesión 2026-08-23 (27) | Departamento de Policía y fiscalía local
+
+Reestructurado [[03_Factions/Departamento_de_Policia_de_San_Aurelio]] para que no compita con la especialización del FBI. La policía local queda como institución terrenal: responde primero, mantiene la ciudad funcionando, toma homicidios, coordina escenas y acaba cruzándose con Meridian cuando la escala cambia.
+
+Canon instalado:
+
+- Al inicio del libro, [[02_Characters/Raymond_Keene]], jefe de policía anterior, es asesinado por orden de [[02_Characters/Dario_Valcora]]. Probable colusión: Keene estaba comprado o comprometido y se volvió problema.
+- Entra [[02_Characters/Elena_Vega]] como nueva Chief. Edad 45. Disciplina moral, reputación de incorruptible y frase guía: **La ley no necesita ser perfecta para ser mejor que la venganza.**
+- Vega y Cole quedan como choque ideológico: ambos detestan depredadores, pero Vega no acepta que un individuo se convierta en juez.
+
+Estructura policial fijada:
+
+- Chief: [[02_Characters/Elena_Vega]].
+- Ex Chief asesinado: [[02_Characters/Raymond_Keene]].
+- Deputy Chief: Martin Cho.
+- Captain / precinct commander: Thomas Reade.
+- Watch Commander: Rosa Ramirez.
+- Sergeants recurrentes: Miguel Arroyo y Dana Collins.
+- Patrulla/tránsito: [[02_Characters/Blake_Stanton]], Mateo Cruz, Jenna Bell, Eli Warren.
+- Detective Lieutenant: Denise Harrow.
+- Detective 1 / Homicidios: [[02_Characters/Luis_Ortega]].
+- Detective 2 / crimen organizado-vice: [[02_Characters/Gloria_Chen]].
+- Detective 3 / generalista joven: [[02_Characters/Noah_Pierce]].
+
+Creada [[03_Factions/Fiscalia_de_San_Aurelio]]:
+
+- District Attorney: Katherine Rowe.
+- First Assistant / Chief Deputy DA: Paul Desai.
+- ADA principal: [[02_Characters/Claire_Han]], antagonista jurídico local de Cole.
+- ADA junior opcional: Zoe Palmer.
+
+Actualizados `Departamento_de_Policia_de_San_Aurelio`, `Fiscalia_de_San_Aurelio`, `Elena_Vega`, `Raymond_Keene`, `Luis_Ortega`, `Blake_Stanton`, `Dario_Valcora`, `Estado_de_la_Ciudad`, `Fuerza_de_Tarea_Meridian`, `02_Characters/README` e `INDEX.md`.
+
+**Pendientes:** cuánto sabía Martin Cho de Keene; primer conflicto Claire Han/Nina Caldwell; si Katherine Rowe está limpia u oportunista; qué expediente local permite entrada federal.
+
+---
+
+## Sesión 2026-08-23 (28) | Auditoría de reparto
+
+Creado [[02_Characters/Auditoria_Reparto]].
+
+Diagnóstico honesto: el reparto ya es grande y sólo funciona si no todos reciben arco completo. Se fijaron niveles de uso:
+
+- **A — Motor:** protagonistas y relación.
+- **B — Eje:** personajes que cambian decisiones importantes.
+- **C — Funcional recurrente:** aparecen varias veces con voz, pero sin arco completo.
+- **D — Aparición puntual:** cumplen función y salen.
+- **E — Sombra:** pesan por ausencia, pasado o expediente.
+
+Veredicto instalado:
+
+> **Los protagonistas tienen arco. Las instituciones tienen representantes. Las bandas tienen funciones. Los muertos tienen peso.**
+
+El documento distribuye el reparto por fases 0-V y recomienda no introducir FBI completo, bandas menores completas ni fiscalía antes de que la trama necesite esa escala.
+
+Prioridades inmediatas sugeridas: médica de confianza de Chiara, equipo mínimo de El Faro, socio del casino de H2, facción formal de Dario, una banda menor desarrollada y un informante federal.
+
+## Sesión 2026-08-23 (29) | Hospital Santa Aurelia y medicina por fuera
+
+Se cerró el pendiente de la médica de confianza de Chiara y se diseñó el hospital como institución de ciudad, no sólo como escenario.
+
+**Nuevo canon instalado:**
+
+- [[05_Locations/Hospital_Santa_Aurelia]] es el hospital central de Calle Corona: trauma, urgencias, UCI, cámaras, expedientes y reportes obligatorios.
+- H5 ocurre ahí después del ataque en las caballerizas: Chiara entra como víctima legítima; Cole y Dario se cruzan en un espacio lleno de rastro.
+- H1 no puede ocurrir ahí porque los hospitales están vigilados. Por eso Chiara llama a [[02_Characters/Camila_Rivas]].
+- [[02_Characters/Camila_Rivas]] es la médica de confianza de Chiara. Le debe una historia enterrada: Chiara evitó que la destruyeran por atender fuera de protocolo a una menor explotada.
+- [[02_Characters/Owen_Kincaid]] es el segundo médico por fuera: no funciona desde deuda moral, sino desde mercado. Vende discreción clínica y puede convertirse en informante, cadáver o expediente.
+
+**Regla médica nueva:** ningún médico por fuera salva lo imposible. Pueden estabilizar, suturar, controlar hemorragia, conseguir tiempo y dejar deuda. Si una herida exige quirófano mayor o UCI, la escena debe pagar ese costo.
+
+**Archivos tocados:** `05_Locations/Hospital_Santa_Aurelia.md` (nuevo), `02_Characters/Camila_Rivas.md` (nuevo), `02_Characters/Owen_Kincaid.md` (nuevo), `02_Characters/Chiara_Bellandi.md`, `05_Locations/San_Aurelio.md`, `06_Relationships/Hitos.md`, `02_Characters/README.md`, `02_Characters/Auditoria_Reparto.md`, `INDEX.md`.
+
+## Sesión 2026-08-23 (30) | Vida civil y red de chismes de Chiara
+
+Se diseñó el lado civil de San Aurelio como sistema nervioso de la ciudad: tiendas, restaurantes, salones, iglesias, valet, cocinas, lavanderías y barras donde la información aparece antes de ser noticia, expediente o guerra.
+
+**Nuevo canon instalado:**
+
+- [[05_Locations/Vida_Civil_de_San_Aurelio]] no es fondo: es donde la ciudad habla.
+- [[03_Factions/Red_Civil_de_Chiara]] es la red informal de chismes, rumores y detalles que Chiara aprende a direccionar.
+- [[02_Characters/Mabel_Ortiz]] es el primer nodo humano fuerte: mujer mayor, dueña de tienda/cafetería, capaz de notar qué cambió antes de que alguien lo nombre.
+- La regla estratégica de Chiara queda fijada: **los conflictos no se ganan reteniendo información, sino direccionándola.**
+- La mancuerna con Cole se precisó: Cole ejecuta consecuencias; Chiara administra hacia dónde debe correr el dato para que la consecuencia ocurra.
+
+**Archivos tocados:** `05_Locations/Vida_Civil_de_San_Aurelio.md` (nuevo), `03_Factions/Red_Civil_de_Chiara.md` (nuevo), `02_Characters/Mabel_Ortiz.md` (nuevo), `02_Characters/Chiara_Bellandi.md`, `06_Relationships/Cole_y_Chiara.md`, `04_Concepts/El_Territorio_y_El_Relato.md`, `00_Biblia/Reglas_del_Mundo.md`, `05_Locations/San_Aurelio.md`, `03_Factions/El_Faro.md`, `02_Characters/README.md`, `02_Characters/Auditoria_Reparto.md`, `INDEX.md`.
+
+## Sesión 2026-08-23 (31) | Fe católica, velas y retorno a casa
+
+Se instaló la fe católica de Chiara como eje íntimo y ritual, no como adorno cultural.
+
+**Nuevo canon instalado:**
+
+- [[02_Characters/Chiara_Bellandi]] es católica devota. Su fe es disciplina, culpa, promesa, costumbre y una forma privada de miedo.
+- Cada vez que [[02_Characters/Cole_Mercer]] sale a trabajar, Chiara detiene lo que está haciendo y enciende una vela para pedir que Dios lo cuide y lo traiga a casa.
+- Cole no es tan católico, pero respeta la religión de Chiara: no se burla, no interrumpe, no la apura.
+- Cuando Cole está realmente aterrado por el resultado de algo, él mismo va a [[05_Locations/Iglesia_Santa_Lucia]], prende una vela y se sienta en silencio.
+- [[04_Concepts/Fe_y_Velas]] articula el ritual: la vela es lo que ella hace cuando él se va; el collar de **RETORNA A CASA** es lo que él lleva cuando ya se fue.
+- [[05_Locations/Iglesia_Santa_Lucia]] queda como parroquia católica antigua de San Aurelio, en frontera entre Calle Corona y barrios bajos.
+
+**Archivos tocados:** `04_Concepts/Fe_y_Velas.md` (nuevo), `05_Locations/Iglesia_Santa_Lucia.md` (nuevo), `02_Characters/Chiara_Bellandi.md`, `02_Characters/Cole_Mercer.md`, `06_Relationships/Cole_y_Chiara.md`, `06_Relationships/Hitos.md`, `05_Locations/San_Aurelio.md`, `05_Locations/Vida_Civil_de_San_Aurelio.md`, `00_Biblia/Temas.md`, `INDEX.md`.

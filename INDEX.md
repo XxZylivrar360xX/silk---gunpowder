@@ -19,7 +19,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 *Leer antes de escribir cualquier cosa.*
 
 - [[00_Biblia/Vision]] — qué historia es, su núcleo emocional, lo que no es, y la estructura en tres movimientos
-- [[00_Biblia/Temas]] — los diez pilares temáticos, con su uso práctico como filtro de escena
+- [[00_Biblia/Temas]] — los once pilares temáticos, con su uso práctico como filtro de escena
 - [[00_Biblia/Principios_Narrativos]] — las dieciséis reglas que gobiernan toda decisión de escritura
 - [[00_Biblia/Reglas_del_Mundo]] — cómo funcionan de verdad el crimen, la prensa, la policía y el dinero en esta ciudad
 
@@ -27,6 +27,8 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 
 # Protagonistas
 
+- [[02_Characters/README]] — mapa operativo de personajes: fichas existentes, nombres reservados y funciones pendientes de nombre
+- [[02_Characters/Auditoria_Reparto]] — auditoría honesta del reparto: prioridad, desarrollo estimado, personajes principales/esporádicos y distribución por fases
 - [[02_Characters/Cole_Mercer]] — *el Gancho.* Ex-militar, mecánico, dueño del taller y las grúas. Comprado de bebé, sin origen documentado. Se vuelve lo que cada habitación necesita, y se construyó una fachada de empresario intachable para que el barrio pudiera moverse. **El hombre que se ofrece de puente para que otros crucen, minimizando el costo para él.** Toma el territorio.
 - [[02_Characters/Chiara_Bellandi]] — siciliana, usa el apellido de su madre. Contención de prensa y gestión de imagen. Nunca miente en lo pequeño, para que la mentira grande entre sin resistencia. **Su función en el libro: no dejar que Cole se borre.** Toma el relato.
 - [[06_Relationships/Cole_y_Chiara]] — la relación como entidad con arco propio: los dos conflictos, la unión invisible, el ritual del collar, la incomodidad de estar cómodos, las fases, la grieta y la prueba de autenticidad de escena
@@ -40,15 +42,31 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[02_Characters/Dario_Valcora]] — **antagonista principal.** Cabeza de la mafia de San Aurelio (*todo pasa por él*) y socio mayoritario del casino. Políticamente correcto, criminalmente despiadado. El jefe de Chiara, y el destino que le espera a Cole si nadie lo detiene.
 - [[02_Characters/Walter_Keegan]], *Walt* — amigo del padre de Cole; lo conoció de niño. Diez años preso por obra de Silas Crowe, **y sale justo cuando empieza la novela.** *Héctor le enseñó a Cole cómo ser hombre; Walt le enseña quién fue su padre.*
 - [[02_Characters/Hector_Navarro]] — el viejo mentor de Cole, su figura paterna y su mano derecha. **La única persona que lo quiere sin deberle nada.**
+- [[02_Characters/Nadir_Amrani]] — mejor amigo de Cole. Lo conoció en prisión y fue quien lo ayudó primero; por eso es una de las pocas personas que no le debe nada.
+- [[02_Characters/Daniel_Hayes]] — Danny. Amigo del barrio y dueño de Rocco, el perro. Testigo temprano de la relación invisible.
+- [[02_Characters/Marisol_Grayson]] — hija de Michael Grayson. Cole se hizo cargo de ella; estudia y reside en la universidad. **Su conciencia con piernas.**
+- [[02_Characters/Michael_Grayson]] — viejo amigo militar de Cole, muerto de cáncer. Su muerte deja a Marisol en la vida de Cole.
 - [[02_Characters/Blake_Stanton]] — policía. Con quien Chiara sale al llegar. Rubio de ojos azules: el hombre equivocado con la cara correcta. No es un rival — es un error de identificación.
+- [[02_Characters/Elena_Vega]] — Chief of Police de San Aurelio tras el asesinato de Raymond Keene. Disciplina moral; no puede comprarse.
+- [[02_Characters/Raymond_Keene]] (†) — jefe de policía anterior, asesinado por orden de Valcora; probable colusión convertida en problema.
+- [[02_Characters/Luis_Ortega]] · [[02_Characters/Noah_Pierce]] · [[02_Characters/Gloria_Chen]] — detectives locales: Homicidios, compañero joven y crimen organizado/vice.
+- [[02_Characters/Claire_Han]] — fiscal principal local para homicidios relacionados con Cole.
+- [[02_Characters/Camila_Rivas]] — médica de confianza de Chiara; salva a Cole en H1 y prueba que la red de Chiara es infraestructura.
+- [[02_Characters/Owen_Kincaid]] — médico por fuera; vende discreción clínica como mercancía.
+- [[02_Characters/Mabel_Ortiz]] — mujer mayor, dueña de tienda/cafetería; nodo civil de la red de chismes de Chiara.
+- [[02_Characters/Harper_Walker]] · [[02_Characters/Tyler_Brooks]] · [[02_Characters/Mei_Lin_Zhao]] · [[02_Characters/Riley_Bennett]] · [[02_Characters/Ren_Wei]] — núcleo ampliado de Almendra Towing: norte rural, carreras, banda rival desintegrada y consolidación del mercado.
+- [[02_Characters/Russell_Whitaker]] · [[02_Characters/Garrett_Cross]] — caras públicas de El Patio: política municipal y administración financiera/legal.
+- [[02_Characters/Andrew_Callahan]] — agente especial supervisor del FBI; comandante RICO de Meridian. Su obsesión inicial es Valcora, no Cole.
+- [[02_Characters/Mara_Ellison]] · [[02_Characters/Priya_Nair]] · [[02_Characters/Nora_Whitcomb]] · [[02_Characters/Leah_Park]] · [[02_Characters/Victor_Reyes]] · [[02_Characters/Sofia_Alvarez]] · [[02_Characters/Grant_Maddox]] — equipo interno de la Fuerza Meridian: violencia, análisis, lavado, digital, informantes, trata y táctica.
+- [[02_Characters/Nina_Caldwell]] · [[02_Characters/Luis_Ortega]] — recurrentes externos de Meridian: fiscal federal y detective local.
 
-*Con nombre y sin ficha, por decisión del autor:* **Nadir Amrani** (mejor amigo de Cole) · **Daniel "Danny" Hayes** (dueño de **Rocco**, el perro).
+*Nombre reservado, sin ficha por decisión del autor:* **Héctor Duarte** — otro personaje distinto, todavía por definir. No usar para Michael Grayson ni para Héctor Navarro.
 
 ---
 
 # Hitos
 
-- [[06_Relationships/Hitos]] — **eventos obligatorios definidos por el autor.** Las anclas del libro; la trama se construye alrededor de ellos. **H2 — El apretón de manos** (el encuentro y la cadena de favores) · **H2-a — La primera cena** (el perro, la camioneta rentada, la fragancia) · **H2-b — La noche que todo cambió** (el penthouse, las canciones, la calavera) · **H3 — La noche del ladrillo** (el florero, las calcetas blancas, el ladrillo de arcilla) · **H4 — El día nublado** (la cita del golf: *¿alguna vez has quitado una vida?*, el silencio, y *anda, hay que subir*. **Aquí se define la relación**) · **H5 — El hipódromo** (*arco de la tensión, parte 1*: el ataque, las armas en el hospital, el loft, el jacuzzi, y la amenaza de Valcora) · **H6 — El pacto** (*parte 2*: el ultimátum de Halbrook, Cole entra a la mafia, y las cascadas) · **H7 — El río** (*parte 3, el cierre en calma*: la pesca, el atardecer y *vamos a casa*) · **H8 — El incendio, la mentira y la villa** (queman el loft; él dice que fue una fuga de gas; *queremos esta*) · **H1 — El regreso a casa** (secuencia climática en siete movimientos). Todas con sus líneas de diálogo canon.
+- [[06_Relationships/Hitos]] — **eventos obligatorios definidos por el autor.** Las anclas del libro; la trama se construye alrededor de ellos. **H2 — El apretón de manos** (el encuentro y la cadena de favores) · **H2-a — La primera cena** (el perro, la camioneta rentada, la fragancia) · **H2-b — La noche que todo cambió** (el penthouse, las canciones, la calavera) · **H3 — La noche del ladrillo** (el florero, las calcetas blancas, el ladrillo de arcilla) · **H4 — El día nublado** (la cita del golf: *¿alguna vez has quitado una vida?*, el silencio, y *anda, hay que subir*. **Aquí se define la relación**) · **H9 — La carrera de máscaras** (el Peugeot rojo, la tienda de máscaras, la carrera ilegal cerca del aeropuerto, la persecución policial y la primera sonrisa genuina de Chiara) · **H5 — El hipódromo** (*arco de la tensión, parte 1*: el ataque, las armas en el hospital, el loft, el jacuzzi, y la amenaza de Valcora) · **H6 — El pacto** (*parte 2*: el ultimátum de Halbrook, Cole entra a la mafia, y las cascadas) · **H7 — El río** (*parte 3, el cierre en calma*: la pesca, el atardecer y *vamos a casa*) · **H8 — El incendio, la mentira y la villa** (queman el loft; él dice que fue una fuga de gas; *queremos esta*) · **H1 — El regreso a casa** (secuencia climática en siete movimientos). Todas con sus líneas de diálogo canon.
 
 **REGLA DURA:** pase lo que pase, **no se separan** — pero el lector tiene que llegar a creer que sí. La salida nunca es esquivar el conflicto: es evolucionar y salir distintos.
 
@@ -63,24 +81,40 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 # Mundo
 
 - [[05_Locations/San_Aurelio]] — la ciudad. Puerto medio en la costa de California, partida en dos alturas. Mapa de barrios y geografía moral.
+- [[05_Locations/Estado_de_la_Ciudad]] — tablero electoral y criminal: elecciones municipales, barrios del sur, mercado, gobierno de miedo de Valcora y contraste con el ascenso de El Patio.
+- [[05_Locations/Hospital_Santa_Aurelia]] — hospital central de Calle Corona: trauma, urgencias, expedientes, cámaras y el contraste entre medicina oficial y medicina por fuera.
+- [[05_Locations/Iglesia_Santa_Lucia]] — parroquia católica antigua; velas de Chiara, silencio de Cole y vida civil alrededor de funerales, misas y rumores.
+- [[05_Locations/Vida_Civil_de_San_Aurelio]] — calles, tiendas, restaurantes y vida cotidiana; el sistema nervioso donde nacen los rumores antes de ser noticia o expediente.
 - [[05_Locations/El_Penthouse]] — la zona segura de la primera etapa, encima del casino. Prestada, y por eso importa: es el ensayo de la casa.
 - [[05_Locations/La_Casa]] — **el loft del barrio**, la vieja casa de sus padres que Chiara rediseñó sin saber que sería de los dos. El hogar de verdad, y la catástrofe cargada del libro.
 - [[05_Locations/La_Villa]] — **la casa oficial**, en la zona de prestigio. Existe porque alguien quemó el loft. Él la compró sin que ella dijera una palabra; ella la construyó como una leona.
 - [[04_Concepts/El_Territorio_y_El_Relato]] — el concepto raíz: por qué las dos columnas tienen que avanzar juntas o el capítulo está incompleto
 - [[04_Concepts/Quien_Decide_Quien_Soy]] — **la pregunta que ordena a los tres antagonistas.** Cole contra el que monetizó su barrio; Chiara contra la institución que monetizó su apellido; los dos contra el que cree que eso ni se discute.
+- [[04_Concepts/Fe_y_Velas]] — fe católica de Chiara, respeto de Cole y ritual de encender una vela para que Dios lo cuide y lo traiga a casa.
 
 ---
 
 # Facciones
 
-- [[03_Factions/Almendra_Towing]] — el patio de grúas de Cole. La infraestructura de movimiento más discreta de la ciudad, y el núcleo de la organización.
+- [[03_Factions/Almendra_Towing]] — primera empresa legal de Cole: patio de grúas, taller y base logística. **No es la cara de la organización criminal**; esa función empieza a dividirse entre Russ Whitaker y Cross River.
+- [[03_Factions/El_Patio]] — red criminal y comunitaria nacida alrededor de Almendra Towing: miembros, jerarquía, giro y alcance por etapas. `El Patio` como nombre vivo; `Patio Almendra` como posible etiqueta institucional.
+- [[03_Factions/Cross_River_Consolidated]] — holding de activos administrado por Garrett Cross; cara financiera/legal que permite que Cole no aparezca en papel.
+- [[03_Factions/Red_Civil_de_Chiara]] — red informal de chismes, comercios, élite y calle; Chiara no retiene información, la direcciona.
+- [[03_Factions/Bandas_Menores_de_San_Aurelio]] — mapa de siete organizaciones menores: cuatro bandas del sur, dos del norte y una banda motociclista costera. El centro viejo no tiene territorio de banda permanente.
+- [[03_Factions/Mapa_de_Conflicto_Activo]] — enemistades, treguas, dependencias y conflictos entre El Patio, Valcora y las bandas menores.
+- [[03_Factions/Los_Calderos]] · [[03_Factions/La_Ronda_del_Canal]] · [[03_Factions/Cuadra_Nueve]] · [[03_Factions/Los_Bravos_de_Santa_Brigida]] — bandas menores del sur.
+- [[03_Factions/Los_Marcadores_de_Milla]] · [[03_Factions/Alamo_Salvage]] — organizaciones menores del norte.
+- [[03_Factions/Breakwater_Saints_MC]] — banda motociclista costera; seguridad de piso en La Isla antes del flujo de cocaína de Cole.
+- [[03_Factions/Departamento_de_Policia_de_San_Aurelio]] — policía municipal. No usar `S.A.P.D.` como marca principal; en prosa, el Departamento o la Policía de San Aurelio.
+- [[03_Factions/Fiscalia_de_San_Aurelio]] — fiscalía local: decide qué homicidios se pueden probar antes de que el FBI convierta el patrón en caso federal.
+- [[03_Factions/Fuerza_de_Tarea_Meridian]] — fuerza del FBI contra crimen organizado transnacional. Entra cuando los negocios de Cole ya no caben en escala municipal; carga la herida de Chiara por la redada contra Corrado.
 - [[03_Factions/El_Casino]] — la posición de partida de Chiara, y no es suya. Primera organización que la máquina de Cole se come, delante del lector.
 - [[03_Factions/El_Faro]] — diario viejo, quebrado y todavía creído. El territorio real de Chiara.
 - [[02_Characters/Alessio_Lusardi]] († ) — el marido de Chiara. Ella lo apuñaló y murió; alguien construyó la versión que la salvó. **Nunca se sabrá si Valenti la creyó.**
 - [[02_Characters/Leone_Valenti]], *Il Consigliere* — **la cara del Consorcio.** Elegante, contenido, y sin ninguna necesidad de demostrar que es peligroso. *No amenaza: produce consecuencias.*
 - [[03_Factions/Il_Consorzio]] — **antagonista de Chiara.** Infraestructura criminal internacional que suena a institución financiera. No la odia: la tiene asignada como *Chiara Ardizzone Bellandi*.
 
-> **PENDIENTE:** falta el nombre de la organización de Valcora (base: el puerto), y las demás bandas menores de San Aurelio.
+> **PENDIENTE:** confirmar si **El Patio** queda como nombre de calle definitivo frente a **Patio Almendra** como etiqueta institucional; también falta el nombre de la organización de Valcora (base: el puerto) y fichas individuales para líderes de bandas que escalen a escena.
 
 ---
 
@@ -116,10 +150,12 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 
 **Personajes que ya existen en canon y todavía no tienen ficha — por orden de urgencia:**
 
-1. **La mano derecha de Cole** — su figura paterna, viejo amigo del barrio. Tercer personaje del libro.
-2. **El socio del casino** que abre la puerta de toda la novela (H2).
-3. **La médica de confianza de Chiara** — la prueba de que su red es infraestructura.
-4. Marisol Grayson · el resto del núcleo del patio · los dos periodistas de *El Faro*.
+1. **El socio del casino** que abre la puerta de toda la novela (H2).
+2. **Los dos periodistas de *El Faro*** — el veterano y la joven.
+3. **El contacto ruso** que consiguió los papeles de Nadir.
+4. **La propiedad rural del norte** conectada con Harper, carreras y taller.
+5. **La banda rival desintegrada** de Mei-Lin y Riley.
+6. El resto del núcleo del patio: quien lleva las cuentas — la única persona que le dice que no a Cole.
 
 **Y lo demás:**
 
