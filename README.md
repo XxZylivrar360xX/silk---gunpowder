@@ -43,3 +43,6 @@ Lo marcado como **CANON DEL AUTOR** dentro del vault es intocable. Lo marcado co
 
 `99_Reference/` contiene material de inspiración externo. No es canon, no debe copiarse a la novela y no gobierna el proyecto.
 
+## Agentes
+
+Para continuar el trabajo con Codex u otros agentes, lee [`AGENTS.md`](AGENTS.md) y luego [`CLAUDE.md`](CLAUDE.md).
