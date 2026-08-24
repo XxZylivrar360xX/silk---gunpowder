@@ -25,12 +25,12 @@ Descubren qué son juntos: él mueve, ella explica. Primera organización rival 
 
 ## Fase III — Autonomía
 
-Dinero propio, gente propia, historia propia ([[00_Biblia/Reglas_del_Mundo]], regla 3). La calle le pone nombre a la organización. Chiara toma [[03_Factions/El_Faro]].
+Dinero propio, gente propia, historia propia ([[00_Biblia/Reglas_del_Mundo]], regla 3). La calle empieza a llamar **[[03_Factions/El_Patio|el Patio]]** a lo que crece alrededor de la primera empresa. Chiara toma [[03_Factions/El_Faro]].
 **Termina cuando:** alguien importante deja de tratarlos como proveedores y empieza a tratarlos como amenaza.
 
 ## Fase IV — La ciudad
 
-Expansión abierta. Aquí vive el conflicto grande y aquí se paga el primer precio con nombre.
+Expansión abierta. Aquí vive el conflicto grande y aquí se paga el primer precio con nombre. La red ya tiene caras públicas: [[02_Characters/Russell_Whitaker]] como carril político y [[03_Factions/Cross_River_Consolidated]] como estructura de activos.
 **Termina cuando:** ya no queda nadie por encima.
 
 ## Fase V — La factura

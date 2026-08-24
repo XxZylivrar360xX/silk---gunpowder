@@ -27,6 +27,14 @@ Nadie "toma" un barrio a tiros. Se toma así:
 
 **Éste es el método de Cole y el motor estructural de la novela.** Cada arco de expansión sigue esas cuatro fases. Si un territorio cambia de manos de otra forma, tiene que ser una excepción con motivo explícito.
 
+Contraste de gobierno criminal:
+
+- [[02_Characters/Dario_Valcora]] gobierna a las bandas por miedo preventivo: amenaza con liquidar, torturar o borrar para que nadie olvide quién permite operar.
+- [[02_Characters/Cole_Mercer]] asciende por utilidad, deuda y respeto. Da oportunidades de más porque prefiere reconducir antes que cerrar una puerta.
+- Cuando Cole dispara, tiene que ser porque ya agotó las salidas que su propio método le exigía intentar. Si dispara para parecer duro, la escena traiciona el libro.
+
+Ver [[05_Locations/Estado_de_la_Ciudad]].
+
 ## 3. Nadie es autónomo hasta que puede pagar su propia protección
 
 Una organización es "autónoma" cuando ya no necesita el permiso de otra para operar. Se llega a eso teniendo tres cosas al mismo tiempo: **dinero propio, gente propia y una historia propia**. Faltando cualquiera de las tres, sigues siendo empleado de alguien aunque cobres bien.
@@ -44,11 +52,23 @@ Reglas del juego mediático:
 - **Una fuente es un activo con dueño.** Los periodistas pertenecen a alguien, y ellos rara vez lo saben.
 - **La versión oficial no tiene que ser creíble para todos.** Basta con que sea la única disponible cuando la gente decide qué opinar.
 
+Antes de la prensa está la [[03_Factions/Red_Civil_de_Chiara]]: la vida diaria de tiendas, restaurantes, salones, valet, iglesias, cocinas y pasillos donde los rumores aparecen primero. Chiara no gana porque guarde más información que todos, sino porque sabe dirigirla.
+
+Regla derivada:
+
+- **Un rumor no vale por ser cierto. Vale por lo que mueve cuando llega a la persona correcta.**
+
 ## 5. La policía no es un enemigo: es un mercado
 
-El Departamento de San Aurelio está partido en facciones que compiten entre sí por presupuesto y prensa. Casi nadie es comprable con dinero directo; casi todos son negociables con **casos**. Le das un arresto que le sirve a su carrera, y a cambio no mira otra cosa.
+El [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento de San Aurelio]] está partido en facciones que compiten entre sí por presupuesto y prensa. Casi nadie es comprable con dinero directo; casi todos son negociables con **casos**. Le das un arresto que le sirve a su carrera, y a cambio no mira otra cosa.
 
 Consecuencia: **la moneda con la policía es información, no efectivo**, y eso vuelve a Chiara más valiosa que cualquier maletín.
+
+El FBI es otra física. La [[03_Factions/Fuerza_de_Tarea_Meridian]] no negocia con casos locales sino con **patrones federales**: rutas, jurisdicción, lavado, suministro, crimen organizado transnacional. Cuando entra, no busca ganar una rueda de prensa municipal; busca cerrar un mapa.
+
+Consecuencia narrativa: **Cole puede volverse indispensable para la policía local; no puede volverse indispensable para un expediente federal.** Y Chiara puede mover la versión de la ciudad, pero no borra igual de fácil una orden sellada.
+
+El centro viejo de [[05_Locations/San_Aurelio]] no sostiene territorio de banda: hospitales, Ayuntamiento, juzgados, comisarías, prensa y cámaras hacen que operar ahí de forma permanente sea demasiado caro. Se puede cruzar el centro; no poseerlo.
 
 ## 6. El dinero tiene que poder explicarse
 

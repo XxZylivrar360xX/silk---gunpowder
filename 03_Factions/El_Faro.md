@@ -46,6 +46,10 @@ Las reglas del juego están en [[00_Biblia/Reglas_del_Mundo]], regla 4. Resumen:
 - **Nadie desmiente. Se sustituye.**
 - **El favor de que algo no salga es la moneda más cara de la ciudad**, y es lo que hace que gente muy por encima de Chiara termine debiéndole algo sin haber firmado nada.
 
+Pero *El Faro* no es el origen de toda la información. Antes está la [[03_Factions/Red_Civil_de_Chiara]]: tiendas, restaurantes, cocinas, valet, salones, iglesias y gente que habla sin creer que está moviendo poder.
+
+El diario convierte algunos rumores en hechos públicos. Otros los mata. Otros ni siquiera los toca: Chiara los direcciona hacia la persona exacta para provocar movimiento.
+
 ---
 
 ## La tensión que este lugar genera
@@ -56,4 +60,4 @@ Las reglas del juego están en [[00_Biblia/Reglas_del_Mundo]], regla 4. Resumen:
 
 ---
 
-Ver también: [[02_Characters/Chiara_Bellandi]] · [[00_Biblia/Reglas_del_Mundo]] · [[00_Biblia/Temas]]
+Ver también: [[02_Characters/Chiara_Bellandi]] · [[00_Biblia/Reglas_del_Mundo]] · [[00_Biblia/Temas]] · [[03_Factions/Red_Civil_de_Chiara]]

@@ -25,13 +25,31 @@ Clima: sol seco casi todo el año, niebla marina de madrugada que borra las call
 
 **La Almendra** — barrio bajo del este, junto a las vías. Casas de una planta, talleres, patios de chatarra. Donde creció Cole y donde está [[03_Factions/Almendra_Towing]]. Es el único lugar de la ciudad que él llamaría casa, y pasa buena parte del libro dejando de pertenecerle.
 
+**[[05_Locations/Vida_Civil_de_San_Aurelio|Vida civil de San Aurelio]]** — tiendas, restaurantes, salones, iglesias, lavanderías, valet, cocinas y barras donde la ciudad habla antes de convertirse en noticia, expediente o guerra. Base de la [[03_Factions/Red_Civil_de_Chiara]].
+
 **El Puerto Viejo** — muelles, aduana, bodegas. Todo lo que entra y sale de San Aurelio pasa por aquí, y por lo tanto todo el poder criminal de la ciudad se explica por quién controla qué muelle.
 
 **Cuesta Bonita** — la colina. Dinero viejo, casas con vista, el club. Es donde Chiara puede entrar sola y Cole no.
 
 **El Distrito Marino** — dinero nuevo. Torres, restaurantes, la parte de la ciudad que sale en las fotos. El campo de batalla real: quien controla lo que se construye aquí, controla el futuro.
 
-**Calle Corona** — el centro viejo. Ayuntamiento, juzgados, la redacción de [[03_Factions/El_Faro]]. Territorio de Chiara.
+**La Isla** — zona costera de ocio, clubes, bares, marinas pequeñas y hoteles de fin de semana. Territorio de piso de [[03_Factions/Breakwater_Saints_MC]] antes de que Cole abra el flujo de cocaína.
+
+**Calle Corona** — el centro viejo. Ayuntamiento, juzgados, hospitales, comisarías y la redacción de [[03_Factions/El_Faro]]. Territorio de Chiara.
+
+> **CANON DE DISEÑO (2026-08-23):** nadie sostiene territorio criminal permanente en Calle Corona ni en el centro viejo: hospitales, Ayuntamiento, juzgados, comisarías, prensa y cámaras vuelven demasiado cara cualquier operación estable. Puede haber trabajos puntuales; no mercado fijo.
+
+**[[05_Locations/Hospital_Santa_Aurelia|Hospital Santa Aurelia]]** — hospital central de Calle Corona. Trauma, urgencias, UCI, cámaras, expedientes y reportes obligatorios. En H5 recibe a Chiara tras el ataque del hipódromo; en H1 queda descartado porque los hospitales están vigilados.
+
+**[[05_Locations/Iglesia_Santa_Lucia|Iglesia Santa Lucía]]** — parroquia católica antigua en la frontera entre Calle Corona y los barrios bajos. Lugar de velas, funerales, rumores civiles y silencios. Chiara enciende velas por Cole; Cole va cuando está demasiado aterrado para convertir el miedo en plan.
+
+**Las Calderas** — sur industrial de talleres, patios de chatarra y autopartes. Territorio de [[03_Factions/Los_Calderos]].
+
+**Canal Seco** — sur bajo alrededor del canal de drenaje y mercados nocturnos. Territorio de [[03_Factions/La_Ronda_del_Canal]].
+
+**Nueve Puentes** — conjuntos viejos, pasos elevados y corredores juveniles. Territorio de [[03_Factions/Cuadra_Nueve]].
+
+**Santa Brígida** — bares, mercados, iglesias pequeñas y negocios que pagan protección para sobrevivir. Territorio de [[03_Factions/Los_Bravos_de_Santa_Brigida]].
 
 **Gabriella's** — antro. Escenario completo de [[06_Relationships/Hitos]], H3: la fiesta de blanco, la puerta donde Cole entra con las calcetas, y el corredor de los baños del ladrillo. **PENDIENTE:** en qué barrio está y de quién es.
 
@@ -49,7 +67,9 @@ Clima: sol seco casi todo el año, niebla marina de madrugada que borra las call
 
 **El complejo militar** — donde los civiles no tienen acceso. La fuente del armamento largo. **PENDIENTE:** ubicación.
 
-**Los Álamos** — el norte muerto de las refinerías. Barato, vacío, contaminado, y por eso mismo el sitio donde alguien va a querer construir algo enorme. Motor de trama a mitad de novela.
+**Los Álamos** — el norte muerto de las refinerías. Barato, vacío, contaminado, y por eso mismo el sitio donde alguien va a querer construir algo enorme. Territorio de [[03_Factions/Alamo_Salvage]]. Motor de trama a mitad de novela.
+
+**Rutas de Milla** — carreteras rurales, salidas de aeropuerto y caminos donde se corren apuestas ilegales. Territorio de [[03_Factions/Los_Marcadores_de_Milla]].
 
 ---
 
@@ -59,7 +79,10 @@ Ver [[00_Biblia/Reglas_del_Mundo]] para las reglas completas. Resumen operativo:
 
 - **El puerto manda.** Todas las organizaciones grandes son, en el fondo, negocios de movimiento.
 - **La política es municipal y por lo tanto comprable.** Alcaldía, licencias de construcción, permisos de puerto: ahí está el dinero de verdad, y ahí es donde el crimen se vuelve otra cosa.
+- **La elección municipal vuelve visible la guerra.** Ver [[05_Locations/Estado_de_la_Ciudad]]: Russ Whitaker, los barrios del sur, Valcora y el ascenso de El Patio se cruzan en el mismo tablero.
+- **El centro viejo no se ocupa.** Nadie opera de forma permanente donde se concentran hospitales, Ayuntamiento, juzgados y comisarías. El crimen cruza el centro; no lo habita.
 - **La policía compite consigo misma.** Se negocia con casos, no con efectivo.
+- **El FBI entra cuando la ciudad deja de bastar.** La [[03_Factions/Fuerza_de_Tarea_Meridian]] aparece cuando los negocios de Cole tocan rutas internacionales; no responde a la lógica municipal, y por eso es más difícil de comprar, distraer o narrar.
 - **Un solo diario tiene credibilidad real.** Ver [[03_Factions/El_Faro]].
 
 ---
@@ -77,7 +100,7 @@ Ver [[00_Biblia/Reglas_del_Mundo]] para las reglas completas. Resumen operativo:
 
 > **PARCIALMENTE RESUELTO (2026-08-23):** la organización dominante es la de **[[02_Characters/Dario_Valcora]]** — *todo pasa por él* —, y controla [[03_Factions/El_Casino]]. Falta su nombre y su ficha de facción.
 
-> **PENDIENTE:** las otras dos o tres organizaciones, sus territorios y qué mueve cada una. Sin eso no hay mapa de expansión completo.
+> **RESUELTO (2026-08-23):** las organizaciones menores están en [[03_Factions/Bandas_Menores_de_San_Aurelio]]: cuatro bandas del sur, dos del norte y una banda motociclista costera.
 
 > **PENDIENTE:** decidir si el proyecto de Los Álamos es el motor del tercer acto.
 
