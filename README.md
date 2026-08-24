@@ -28,6 +28,7 @@ Para entender el proyecto en orden:
 - `05_Locations/` — lugares de San Aurelio.
 - `06_Relationships/` — relación de Cole y Chiara e hitos obligatorios.
 - `10_Chapters/` — espacio para prosa.
+- `11_Books/` — montaje editorial del libro y mapa operativo para EPUB.
 - `12_Craft_Policies/` — reglas de oficio y voz.
 - `99_Reference/` — referencia externa no canónica.
 

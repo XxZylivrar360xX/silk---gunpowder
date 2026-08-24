@@ -1,0 +1,55 @@
+body {
+  font-family: "Bookerly", "Georgia", "Palatino Linotype", serif;
+  line-height: 1.5;
+  text-align: justify;
+  margin: 0 5%;
+}
+
+h1 {
+  font-family: "Georgia", serif;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+  page-break-before: always;
+}
+
+h2 {
+  font-family: "Georgia", serif;
+  font-style: italic;
+  font-weight: normal;
+  text-align: center;
+  font-size: 1.1em;
+  margin-top: 2.5em;
+  margin-bottom: 1em;
+}
+
+p {
+  margin: 0 0 0.9em 0;
+  text-indent: 1.2em;
+  orphans: 2;
+  widows: 2;
+}
+
+h1 + p,
+h2 + p,
+h3 + p,
+blockquote p {
+  text-indent: 0;
+}
+
+hr {
+  border: none;
+  text-align: center;
+  margin: 1.5em 0;
+}
+
+nav#toc ol {
+  list-style: none;
+  padding-left: 0;
+}
+
+nav#toc li {
+  margin-bottom: 0.4em;
+}
+

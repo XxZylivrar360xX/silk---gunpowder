@@ -16,7 +16,7 @@
 
 ## Apariencia
 
-Alto, uno noventa y tantos de esos que se notan en los marcos de las puertas. Rubio oscuro, ojos azules de un tono lavado, mandíbula ancha. Cuerpo de trabajo físico, no de gimnasio: hombros de levantar cosas, manos con las uñas imposibles de dejar limpias del todo. **Una cicatriz le cruza la mejilla derecha** (canon; ver [[06_Relationships/Hitos]], H5). Es lo primero que la gente le mira y lo último que le pregunta. **PENDIENTE:** su historia — Cole se la cuenta a Chiara la noche del jacuzzi, y es de las pocas cosas que cuenta de sí mismo sin que se las pidan.
+Alto, uno noventa y tantos de esos que se notan en los marcos de las puertas. Rubio, ojos azules de un tono lavado, mandíbula ancha y rasgos nórdicos que vienen de su verdadero origen noruego, aunque su vida pública no tenga cómo nombrarlo. Cuerpo de trabajo físico, no de gimnasio: hombros de levantar cosas, manos con las uñas imposibles de dejar limpias del todo. **Una cicatriz le cruza la mejilla derecha desde la comisura de la boca hasta el rabillo del ojo** (canon; ver [[06_Relationships/Hitos]], H5). Es lo primero que la gente le mira y lo último que le pregunta. **PENDIENTE:** su historia — Cole se la cuenta a Chiara la noche del jacuzzi, y es de las pocas cosas que cuenta de sí mismo sin que se las pidan.
 
 Tatuajes. El principal, y el único que importa: **una calavera que le cubre media espalda** (canon; ver [[06_Relationships/Hitos]], H2-b). Además, un blackout que le come el antebrazo derecho — hecho para tapar otra cosa que nunca explica — y nada en las manos ni en el cuello. Un arete pequeño en la oreja izquierda que no se ha quitado en quince años.
 
@@ -31,7 +31,7 @@ Se lo dice a Chiara la primera noche, acordándose de Afganistán. Es lo más os
 
 **Y, desde cierta Navidad, un collar.** Una placa de oro grabada: **RETORNA A CASA**. No se lo quita nunca — ni para trabajar, ni para dormir, ni para meterse a una piscina desangrándose. Es el único objeto de la novela que importa, y para un hombre que casi no usa joyas, llevar algo al cuello ya lo dice todo. Ver [[06_Relationships/Cole_y_Chiara]], "El ritual".
 
-Se viste como si el día pudiera terminar debajo de un coche, porque normalmente termina así: oscuro, holgado, botas. Cuando lo obligan a ponerse traje se ve bien y se siente disfrazado, y **se le nota exactamente cuánto lo odia** — dato que Chiara aprende a usar y después a proteger.
+Se viste como si el día pudiera terminar debajo de un coche, porque normalmente termina así: oscuro, holgado, botas. Cuando lo obligan a ponerse traje se ve bien y se siente disfrazado, y **se le nota exactamente cuánto lo odia** — dato que Chiara aprende a usar y después a proteger. En la primera noche del Monarch llega con **traje azul ajustado y tenis blancos**, presentable sin entregar del todo el cuerpo al disfraz.
 
 ---
 
@@ -98,17 +98,17 @@ Y cuando una situación lo aterra incluso a él, va en persona a [[05_Locations/
 
 ### El origen que no está
 
-Cole fue comprado. No adoptado: comprado, de bebé, a través de una red que movía niños del este de Europa hacia la costa oeste a finales de los noventa. Los papeles que existen son falsos y él lo sabe desde los veinte. Lo único que puede ser real es una pulsera de hospital de una ciudad que nunca ha visitado.
+Cole fue comprado. No adoptado: comprado, de bebé, a través de una red que movía niños desde el norte de Europa hacia la costa oeste a finales de los noventa. **Su verdadero origen es Noruega.** Los papeles que existen son falsos y él lo sabe desde los veinte. Lo único que puede ser real es una pulsera de hospital de una ciudad que nunca ha visitado.
 
 Nunca ha ido a buscar. Dice que es porque no le interesa. La verdad es más simple y peor: **tiene miedo de que allá tampoco haya nadie.**
 
-> **PENDIENTE:** decidir la ciudad de nacimiento. Propuesta: Gdansk, Polonia — coherente con la ruta de tráfico y con el tipo físico. No es material a resolver en el libro; es un hueco que debe seguir siendo un hueco casi hasta el final.
+> **PENDIENTE:** decidir la ciudad exacta de nacimiento en Noruega. No es material a resolver en el libro; es un hueco que debe seguir siendo un hueco casi hasta el final.
 
 ### La casa que no era una casa
 
 Lo criaron Dale y Ruth Mercer, en el barrio de la Almendra. Ruth quería un hijo y no podía tenerlo; Dale nunca lo quiso y nunca fingió lo contrario, pero le enseñó todo lo útil que Cole sabe: abrir un coche sin llave, leer a un hombre antes de que hable, no deber nunca dinero a nadie que sepa dónde duermes.
 
-Dale se fue cuando Cole tenía quince años, por una deuda que no era de negocio. Ruth aguantó dos años más. Cole se quedó solo a los diecisiete en una casa que ya no podía pagar.
+Dale se fue cuando Cole tenía quince años, por una deuda que no era de negocio. Ruth aguantó dos años más. Cole se quedó solo a los diecisiete en una casa que ya no podía pagar. Para el inicio de la novela, Ruth y Dale están enterrados en [[05_Locations/Cementerio_Santa_Lucia]]; Cole visita a Ruth con una rosa blanca tomada del ramo de Michael y evita tocar la tumba de Dale.
 
 > **PENDIENTE:** definir exactamente qué se llevó a Ruth y cuánto vio Cole. Restricción de diseño: **no puede ser una escena de la que él hable nunca.** Se filtra en conducta (regla 9 de [[00_Biblia/Principios_Narrativos]]).
 
@@ -244,7 +244,7 @@ Guardarraíles. Si un borrador lo empuja hacia aquí, está mal escrito:
 - **[[02_Characters/Daniel_Hayes|Daniel "Danny" Hayes]]** — del barrio, dueño del perro al que Cole le enseñó a dar la pata. El otro testigo de H2-a.
 - **[[02_Characters/Marisol_Grayson]]** — hija de [[02_Characters/Michael_Grayson]]. Cole se hizo cargo de ella cuando su padre murió. Estudia y reside en la universidad. **Su conciencia con piernas.**
 - **[[02_Characters/Michael_Grayson]]** (†) — viejo amigo del ejército, retirado. Muere de cáncer poco después de que Cole vuelva. Le deja a su hija.
-- Dale Mercer — padre adoptivo, vivo o muerto **por decidir**. Recomendación: vivo, y que aparezca tarde — para que el contraste con el padre elegido tenga dónde caer.
+- Dale Mercer (†) — padre adoptivo. Está enterrado junto a Ruth en [[05_Locations/Cementerio_Santa_Lucia]], pero Cole evita tocar su tumba. El contraste con el padre elegido cae en [[02_Characters/Hector_Navarro]] y en la memoria de [[02_Characters/Michael_Grayson]].
 
 ---
 

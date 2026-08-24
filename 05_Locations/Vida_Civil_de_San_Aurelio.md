@@ -122,14 +122,15 @@ La tercera es la más peligrosa, porque parece casualidad.
 
 ---
 
-## Lugares civiles prioritarios por crear
+## Lugares civiles prioritarios
 
-1. **La Esquina de Mabel** — tienda/cafetería de barrio; nodo de [[03_Factions/Red_Civil_de_Chiara]].
-2. **Il Gelsomino** — restaurante italiano de H2-a; acuerdo con Cole pendiente.
-3. **La tienda de máscaras** — H9; lugar menor pero muy útil para textura de ciudad.
-4. **Un salón/barbería de La Almendra** — donde el barrio procesa a Cole y a Chiara sin decirlo.
-5. **Una taquería nocturna cerca de Rutas de Milla** — carreras, patrullas, Tyler y rumores de bandas.
-6. **[[05_Locations/Iglesia_Santa_Lucia]]** — velas, funerales, señoras de barrio, policías cansados y el ritual religioso de Chiara.
+1. **[[05_Locations/La_Esquina_de_Mabel]]** — tienda/cafetería de barrio; nodo de [[03_Factions/Red_Civil_de_Chiara]].
+2. **[[05_Locations/Il_Gelsomino]]** — restaurante italiano de H2-a; acuerdo con Cole sembrado desde el primer capítulo.
+3. **[[05_Locations/Lote_Almendra]]** — lote de autos y motos usados; vida civil alrededor del taller.
+4. **La tienda de máscaras** — H9; lugar menor pero muy útil para textura de ciudad.
+5. **Un salón/barbería de La Almendra** — donde el barrio procesa a Cole y a Chiara sin decirlo.
+6. **Una taquería nocturna cerca de Rutas de Milla** — carreras, patrullas, Tyler y rumores de bandas.
+7. **[[05_Locations/Iglesia_Santa_Lucia]]** — velas, funerales, señoras de barrio, policías cansados y el ritual religioso de Chiara.
 
 ---
 

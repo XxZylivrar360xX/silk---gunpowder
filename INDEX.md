@@ -29,7 +29,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 
 - [[02_Characters/README]] — mapa operativo de personajes: fichas existentes, nombres reservados y funciones pendientes de nombre
 - [[02_Characters/Auditoria_Reparto]] — auditoría honesta del reparto: prioridad, desarrollo estimado, personajes principales/esporádicos y distribución por fases
-- [[02_Characters/Cole_Mercer]] — *el Gancho.* Ex-militar, mecánico, dueño del taller y las grúas. Comprado de bebé, sin origen documentado. Se vuelve lo que cada habitación necesita, y se construyó una fachada de empresario intachable para que el barrio pudiera moverse. **El hombre que se ofrece de puente para que otros crucen, minimizando el costo para él.** Toma el territorio.
+- [[02_Characters/Cole_Mercer]] — *el Gancho.* Ex-militar, mecánico, dueño del taller y las grúas. Comprado de bebé, con origen real noruego reservado y papeles falsos. Se vuelve lo que cada habitación necesita, y se construyó una fachada de empresario intachable para que el barrio pudiera moverse. **El hombre que se ofrece de puente para que otros crucen, minimizando el costo para él.** Toma el territorio.
 - [[02_Characters/Chiara_Bellandi]] — siciliana, usa el apellido de su madre. Contención de prensa y gestión de imagen. Nunca miente en lo pequeño, para que la mentira grande entre sin resistencia. **Su función en el libro: no dejar que Cole se borre.** Toma el relato.
 - [[06_Relationships/Cole_y_Chiara]] — la relación como entidad con arco propio: los dos conflictos, la unión invisible, el ritual del collar, la incomodidad de estar cómodos, las fases, la grieta y la prueba de autenticidad de escena
 - [[06_Relationships/Momentos_de_Fractura]] — conflictos que casi lo rompen todo: la mentira bajo la lluvia, Año Nuevo en Washington, los frenos y el destierro de Riley con la muerte de Mei-Lin.
@@ -57,8 +57,12 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[02_Characters/Camila_Rivas]] — médica de confianza de Chiara; salva a Cole en H1 y prueba que la red de Chiara es infraestructura.
 - [[02_Characters/Owen_Kincaid]] — médico por fuera; vende discreción clínica como mercancía.
 - [[02_Characters/Mabel_Ortiz]] — mujer mayor, dueña de tienda/cafetería; nodo civil de la red de chismes de Chiara.
+- [[02_Characters/Rafa_Luna]] — civil cotidiano de La Almendra; repartidor de farmacia que compra una moto en Lote Almendra.
 - [[02_Characters/Harper_Walker]] · [[02_Characters/Tyler_Brooks]] · [[02_Characters/Mei_Lin_Zhao]] · [[02_Characters/Riley_Bennett]] · [[02_Characters/Ren_Wei]] — núcleo ampliado de Almendra Towing: norte rural, carreras, banda rival desintegrada y consolidación del mercado.
 - [[02_Characters/Russell_Whitaker]] · [[02_Characters/Garrett_Cross]] — caras públicas de El Patio: política municipal y administración financiera/legal.
+- [[02_Characters/Matteo_Bellacorte]] — socio del Monarch que abre la puerta de H2: conoce a Cole durante el día y lo cita por la noche con los socios.
+- [[02_Characters/Fabrizio_Rinaldi]] — provisional; viejo amigo italiano de Chiara dentro del grupo del Monarch.
+- [[02_Characters/Tommaso_Lusardi]] — provisional; hermano de Alessio Lusardi y presencia incómoda del pasado de Chiara.
 - [[02_Characters/Andrew_Callahan]] — agente especial supervisor del FBI; comandante RICO de Meridian. Su obsesión inicial es Valcora, no Cole.
 - [[02_Characters/Mara_Ellison]] · [[02_Characters/Priya_Nair]] · [[02_Characters/Nora_Whitcomb]] · [[02_Characters/Leah_Park]] · [[02_Characters/Victor_Reyes]] · [[02_Characters/Sofia_Alvarez]] · [[02_Characters/Grant_Maddox]] — equipo interno de la Fuerza Meridian: violencia, análisis, lavado, digital, informantes, trata y táctica.
 - [[02_Characters/Nina_Caldwell]] · [[02_Characters/Luis_Ortega]] — recurrentes externos de Meridian: fiscal federal y detective local.
@@ -90,6 +94,11 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[05_Locations/Hospital_Santa_Aurelia]] — hospital central de Calle Corona: trauma, urgencias, expedientes, cámaras y el contraste entre medicina oficial y medicina por fuera.
 - [[05_Locations/Iglesia_Santa_Lucia]] — parroquia católica antigua; velas de Chiara, silencio de Cole y vida civil alrededor de funerales, misas y rumores.
 - [[05_Locations/Vida_Civil_de_San_Aurelio]] — calles, tiendas, restaurantes y vida cotidiana; el sistema nervioso donde nacen los rumores antes de ser noticia o expediente.
+- [[05_Locations/La_Esquina_de_Mabel]] — tienda/cafetería de barrio; primer cruce entre Cole y Matteo, y futuro nodo civil de Chiara.
+- [[05_Locations/Il_Gelsomino]] — restaurante italiano; acuerdo práctico con Cole y futura terraza de H2-a.
+- [[05_Locations/Lote_Almendra]] — lote de autos y motos usados junto al taller; cara legal cotidiana de Cole.
+- [[05_Locations/Casa_Comunitaria_De_La_Almendra]] — casa común de La Almendra; donde Cole se cambia antes de ir al Monarch en el Peugeot.
+- [[05_Locations/Cementerio_Santa_Lucia]] — cementerio asociado a Santa Lucía; lugar donde Cole habla con Michael sobre Marisol.
 - [[05_Locations/El_Penthouse]] — la zona segura de la primera etapa, encima del casino. Prestada, y por eso importa: es el ensayo de la casa.
 - [[05_Locations/La_Casa]] — **el loft del barrio**, la vieja casa de sus padres que Chiara rediseñó sin saber que sería de los dos. El hogar de verdad, y la catástrofe cargada del libro.
 - [[05_Locations/La_Villa]] — **Villa Candelaria**, la casa oficial en Lomas de San Jacinto, zona residencial del norte. Existe porque alguien quemó el loft. Él la compró sin que ella dijera una palabra; ella la construyó como una leona.
@@ -131,13 +140,22 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[01_Timeline/00_Estructura_del_Ascenso]] — las seis fases del ascenso, ordenadas por qué controlan al terminar
 - [[01_Timeline/01_Primer_Borrador_Beats]] — semi borrador estructural de la novela: beats por fase, funcion dramatica, factura emocional y pendientes criticos antes de pasar a capitulos
 - [[10_Chapters/README]] — prosa (vacío; el protocolo previo a escribir está ahí)
+- [[11_Books/README]] — montaje editorial del libro y flujo EPUB
+- [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] — mapa operativo del libro activo
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]] — Capítulo 1 provisional: día normal de Cole, llegada de Chiara, Matteo como bisagra y primer apretón de manos
 
 ---
 
 # Oficio
 
-- [[12_Craft_Policies/README]] — cómo se acumulan las reglas de oficio
+- [[12_Craft_Policies/README]] — sistema operativo de craft policies rescatado de *Memories Of A Ghost*: precedencia, flujo y reglas activas
+- [[12_Craft_Policies/Redaccion_De_Capitulos]] — política base para capítulos provisionales
+- [[12_Craft_Policies/revelations/Book_01_Seda_y_Polvora]] — ledger de revelaciones, mentiras, rituales y pagos del libro activo
+- [[12_Craft_Policies/revelations/SAGA_LEVEL]] — secretos globales: origen de Cole, redada de Corrado, verdad de Alessio
+- [[12_Craft_Policies/milestones/INDEX]] — índice cronológico de hitos ya fijados
 - `12_Craft_Policies/voice/TEMPLATE.md` — plantilla de ficha de voz
+- `12_Craft_Policies/dialogue_rules/` — anti-patrones de diálogo adaptados desde *Memories Of A Ghost*
+- `12_Craft_Policies/staging_rules/` — anti-patrones de puesta en escena adaptados desde *Memories Of A Ghost*
 
 ---
 

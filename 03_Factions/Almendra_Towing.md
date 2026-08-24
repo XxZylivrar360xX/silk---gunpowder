@@ -11,7 +11,7 @@
 
 ## Qué hace
 
-Legalmente: remolca coches, los arregla, los guarda. Tiene convenio municipal para retirar vehículos de la vía pública, que es la pieza que lo cambia todo.
+Legalmente: remolca coches, los arregla, los guarda. Tiene convenio municipal para retirar vehículos de la vía pública, que es la pieza que lo cambia todo. Pegado al taller opera [[05_Locations/Lote_Almendra]], un lote pequeño de autos y motos usados que convierte reparaciones y papeles limpios en ventas cotidianas.
 
 Realmente: **es la infraestructura de movimiento más discreta de la ciudad.** Una grúa puede entrar a cualquier calle, levantar cualquier cosa y salir a plena luz del día sin que un solo peatón levante la vista. Ninguna otra organización de San Aurelio tiene un vehículo con ese privilegio. Ver [[00_Biblia/Reglas_del_Mundo]], regla 1.
 
@@ -36,6 +36,7 @@ Las capas deben mantenerse separadas:
 | Capa | Qué es | Estado |
 |---|---|---|
 | **Almendra Towing** | taller, patio de grúas, convenio municipal, primera empresa | canon |
+| **[[05_Locations/Lote_Almendra]]** | lote de autos/motos usados junto al taller | canon de primer capítulo |
 | **[[03_Factions/El_Patio|El Patio]]** | favores, rutas, protección, suministro y deuda | en desarrollo |
 | **[[02_Characters/Russell_Whitaker|Russell Whitaker]] / [[03_Factions/Cross_River_Consolidated]]** | política municipal, negocios, imagen y activos que la ciudad puede mirar sin ver el crimen | canon de diseño |
 | **[[03_Factions/El_Patio|El Patio]] / los del Patio** | cómo la ciudad empieza a bautizar lo que Cole construyó | canon de diseño; pendiente confirmación final |

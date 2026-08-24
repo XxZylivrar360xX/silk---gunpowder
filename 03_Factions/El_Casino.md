@@ -53,13 +53,18 @@ Consecuencias narrativas que están servidas:
 
 ## Los socios
 
-**CANON:** llegan de Italia junto con Chiara. Uno de ellos es quien cita a Cole a la reunión inicial — la puerta de entrada de toda la novela.
+**CANON:** llegan de Italia junto con Chiara. [[02_Characters/Matteo_Bellacorte]] es quien cita a Cole a la reunión inicial — la puerta de entrada de toda la novela.
 
 **CANON:** después de la reunión, los socios **rechazan a Cole por ser "demasiado listo"** y no quieren hacer negocios con él. Chiara opina lo contrario, y contrata por debajo lo que sus jefes rechazaron.
 
-> **PENDIENTE, PRIORITARIO:** el socio que abre la puerta. Nombre y ficha.
+**Socios visibles al abrir la novela:**
 
-> **PENDIENTE:** los demás socios, y qué relación tienen con Chiara — familia, empleadores, socios de su padre. Su grado de autoridad sobre ella es el reloj de la primera parte del libro.
+- [[02_Characters/Matteo_Bellacorte]] — socio que abre la puerta a Cole.
+- [[02_Characters/Fabrizio_Rinaldi]] — nombre provisional para el viejo amigo italiano de Chiara.
+- [[02_Characters/Tommaso_Lusardi]] — nombre provisional para el hermano de Alessio Lusardi.
+- [[02_Characters/Dario_Valcora]] — socio mayoritario local.
+
+> **PENDIENTE:** confirmar nombres definitivos de Fabrizio Rinaldi y Tommaso Lusardi, y qué relación exacta tiene cada socio con Chiara — familia, empleadores, socios de su padre o Consorcio. Su grado de autoridad sobre ella es el reloj de la primera parte del libro.
 
 > **RESUELTO DE DISEÑO (2026-08-23):** el casino sí es negocio verdadero, pero su valor mayor es ser infraestructura de relato: azar, entretenimiento, hospedaje, eventos, pérdidas plausibles, ganadores convenientes y dinero que puede salir pareciendo suerte. No es una lavadora mágica; es una máquina de versiones públicas.
 

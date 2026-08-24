@@ -1330,3 +1330,85 @@ Se reviso el documento externo `C:\Users\avada\Downloads\ahorro-tokens-claude-co
 **Regla instalada:** no leer `log.md` completo por defecto; usar `rg` y abrir solo archivos especificos de la tarea.
 
 **Archivos tocados:** `CLAUDE.md`, `AGENTS.md`, `INDEX.md`, `log.md`, `98_Agent_Handoff/`.
+
+## Sesion 2026-08-24 (01) | Capitulo 1 provisional y craft policies
+
+Se monto el primer capitulo provisional del libro en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]].
+
+**Canon / decisiones nuevas:**
+
+- [[02_Characters/Matteo_Bellacorte]] queda como el socio del Monarch que abre H2: conoce a Cole durante el dia en [[05_Locations/La_Esquina_de_Mabel]] y lo cita esa noche para presentarlo a los socios.
+- El capitulo instala el dia normal de Cole revisando Almendra, su visita a [[05_Locations/Cementerio_Santa_Lucia]] para hablar con Michael sobre Marisol, la llegada de Chiara a Kingsley Field y el primer apreton de manos en el Monarch.
+- [[02_Characters/Fabrizio_Rinaldi]] y [[02_Characters/Tommaso_Lusardi]] quedan como nombres provisionales para dos funciones dadas por el autor: viejo amigo italiano de Chiara y hermano de Alessio Lusardi.
+- [[02_Characters/Dario_Valcora]] aparece desde el primer capitulo provisional; H3-b deja de ser su primera aparicion si este montaje se conserva.
+
+**Craft policies creadas:**
+
+- [[12_Craft_Policies/Redaccion_De_Capitulos]]
+- voces minimas para Cole, Chiara, Matteo, Dario, Mabel, Tommaso y Fabrizio en `12_Craft_Policies/voice/`.
+
+**Archivos tocados:** `11_Books/`, `12_Craft_Policies/`, `02_Characters/`, `05_Locations/`, `03_Factions/El_Casino.md`, `06_Relationships/Hitos.md`, `INDEX.md`, `98_Agent_Handoff/`.
+
+## Sesion 2026-08-24 (02) | Rescate de craft policies desde Memories
+
+Se rescato la arquitectura de `12_Craft_Policies/` de *Memories Of A Ghost* y se adapto a *Seda y Polvora*.
+
+**Estructura creada/adaptada:**
+
+- `12_Craft_Policies/revelations/` — ledger de secretos, semillas, mentiras, rituales y pagos.
+- `12_Craft_Policies/milestones/INDEX.md` — indice cronologico de hitos para no repetir o adelantar cambios.
+- `12_Craft_Policies/dialogue_rules/` — cuatro anti-patrones iniciales adaptados: interrogatorio terapeutico escalonado, identidad como funcion, antitesis limpia y resumen perfecto del otro.
+- `12_Craft_Policies/staging_rules/` — dos anti-patrones iniciales adaptados: tesis sin espacio fisico y encuentro grande resuelto por resumen funcional.
+- `12_Craft_Policies/voice/TEMPLATE.md` — plantilla ampliada de voz.
+
+**Decision:** no se rescata `powers/`; en esta novela no hay sistema de poderes. La equivalencia de oficio vive en logistica, violencia, favor, relato y ciudad.
+
+**Archivos tocados:** `12_Craft_Policies/`, `INDEX.md`, `98_Agent_Handoff/`, `log.md`.
+
+## Sesion 2026-08-24 (03) | Enriquecimiento del Capitulo 1 prototipo
+
+Se hizo una pasada de enriquecimiento sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]] aplicando las craft policies nuevas.
+
+**Ajustes de prosa:**
+
+- La Almendra queda mas fisica: rutas del patio, gruas como explicacion publica, papeles/fachada legal de Cole.
+- La Esquina de Mabel gana lectura social: el coche de Matteo no pertenece, el local mide al forastero, Mabel advierte a Cole sin convertirlo en exposicion.
+- Kingsley Field y el trayecto al Monarch ganan permisos, formularios, lectores de placas y transicion de clase.
+- La llegada de Dario muestra jerarquia sin anunciarla: gerente esperando permiso, lobby bajando volumen, mujer de carpeta congelada.
+- La entrada de Cole al casino agrega su aversion al azar como conducta/lectura, no como explicacion de pasado.
+- El primer encuentro con Chiara conserva las lineas canon y suma espacio: otros fumadores, marquesina, puerta y presencia fisica de ella.
+
+**Build:** EPUB regenerado en `tools/epub-build/output/Seda_y_Polvora.epub`.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
+
+## Sesion 2026-08-24 (04) | Llegada de Chiara, descripcion visual y canon Mercer
+
+Se enriquecio el Capitulo 1 prototipo con la llegada de Chiara desde el avion: San Aurelio vista por ventanilla como escala provisional que terminara siendo anos.
+
+**Canon / ajustes nuevos:**
+
+- Chiara llega con blusa roja sin mangas, pantalon de vestir negro, tacones rojos, abrigo corto de felpa blanco, chongo elegante y gargantilla visible; rasgos italianos, cabello negro largo hasta media espalda y ojos almendrados con tonos verdes.
+- Cole llega al Monarch en su Peugeot 106 XSi rojo, con traje azul ajustado y tenis blancos; se fija en prosa la cicatriz desde la comisura de la boca hasta el rabillo del ojo.
+- Origen real de Cole fijado como Noruega; en prosa temprana solo se siembra con rasgos nordicos y papeles falsos.
+- En el cementerio, Cole toma una rosa blanca del ramo de Michael, la deja en la tumba de Ruth y evita tocar la tumba de Dale.
+
+**Build:** EPUB regenerado en `tools/epub-build/output/Seda_y_Polvora.epub`.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable.md`, `02_Characters/Cole_Mercer.md`, `02_Characters/Chiara_Bellandi.md`, `05_Locations/Cementerio_Santa_Lucia.md`, `12_Craft_Policies/revelations/SAGA_LEVEL.md`, `INDEX.md`, `98_Agent_Handoff/`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
+
+## Sesion 2026-08-24 (05) | Circuito diurno ampliado de Cole
+
+Se amplio el Capitulo 1 prototipo para que el dia normal de Cole tenga mas estaciones con identidad propia antes del panteon y del Monarch.
+
+**Beats nuevos / reordenados:**
+
+- Cole visita [[05_Locations/Il_Gelsomino]], entra por cocina y bromea con Enzo, el mesero de turno; queda sembrado el acuerdo practico que luego permite la terraza de H2-a.
+- Vuelve al taller y supervisa la llegada de autopartes de reparacion; detecta piezas faltantes y ordena lo urgente como ruta, favor o advertencia.
+- Cruza a [[05_Locations/Lote_Almendra]] y vende una Honda vieja a [[02_Characters/Rafa_Luna]], cliente cotidiano/repartidor de farmacia.
+- Despues pasa al panteon, luego a [[05_Locations/La_Esquina_de_Mabel]] para comprar comida; ahi conoce a Matteo Bellacorte.
+- Finalmente va a [[05_Locations/Casa_Comunitaria_De_La_Almendra]] a vestirse. Nadir le dice: "Oh, te llevas el de los negocios, ¿quieres llevarte la Jeep?". Cole rechaza la Jeep y se lleva el Peugeot al Monarch.
+
+**Build:** EPUB regenerado en `tools/epub-build/output/Seda_y_Polvora.epub`.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/`, `02_Characters/Rafa_Luna.md`, `02_Characters/Matteo_Bellacorte.md`, `03_Factions/Almendra_Towing.md`, `05_Locations/Il_Gelsomino.md`, `05_Locations/Lote_Almendra.md`, `05_Locations/Casa_Comunitaria_De_La_Almendra.md`, `05_Locations/La_Esquina_de_Mabel.md`, `05_Locations/San_Aurelio.md`, `05_Locations/Vida_Civil_de_San_Aurelio.md`, `INDEX.md`, `98_Agent_Handoff/`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.

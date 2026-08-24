@@ -59,11 +59,13 @@ Clima: sol seco casi todo el año, niebla marina de madrugada que borra las call
 
 **Gabriella's** — antro. Escenario completo de [[06_Relationships/Hitos]], H3: la fiesta de blanco, la puerta donde Cole entra con las calcetas, y el corredor de los baños del ladrillo. **PENDIENTE:** en qué barrio está y de quién es.
 
-**Il Gelsomino** — restaurante italiano. Cole tiene un acuerdo con la casa; reserva la terraza entera en H2-a. **PENDIENTE:** cuál es el acuerdo.
+**[[05_Locations/Il_Gelsomino|Il Gelsomino]]** — restaurante italiano. Cole tiene un acuerdo con la casa; reserva la terraza entera en H2-a. En el primer capítulo se siembra el acuerdo por cocina, filtros, factura y terraza disponible.
 
 **El hipódromo** — propiedad del casino. Chiara monta a caballo ahí. En sus caballerizas la atacan ([[06_Relationships/Hitos]], H5). **PENDIENTE:** ficha propia.
 
-**La casa comunitaria** — en la Almendra. Cole vive ahí antes del loft, y presta un cuarto de visitas a Chiara dos noches. **PENDIENTE:** ficha propia; es donde el barrio la ve llegar por primera vez.
+**[[05_Locations/Lote_Almendra|Lote Almendra]]** — lote de autos y motos usados junto al taller. Cara legal cotidiana de Cole: papeles limpios, motores revisados, tratos repetibles.
+
+**[[05_Locations/Casa_Comunitaria_De_La_Almendra|La casa comunitaria]]** — en la Almendra. Cole vive o se mueve ahí antes del loft, y presta un cuarto de visitas a Chiara dos noches. Es donde el barrio la ve llegar por primera vez.
 
 **[[05_Locations/Norte_Rural_de_San_Aurelio|Norte rural de San Aurelio]]** — eje de Lomas de San Jacinto, Bellandi Ridge, Kingsley Field, Rutas de Milla, Cedar Flats y Camp Alder. Donde la ciudad deja de parecer ciudad, pero sigue funcionando como infraestructura.
 

@@ -314,8 +314,8 @@ Estas escenas deben mantener esencia, pero probablemente mejorar si se rearman d
 
 # Pendientes Criticos Para Pasar A Capitulos
 
-1. Nombrar al socio del Monarch que abre H2.
-2. Definir el equipo minimo de El Faro.
+1. Definir el equipo minimo de El Faro.
+2. Confirmar nombres definitivos y peso narrativo de [[02_Characters/Fabrizio_Rinaldi]] y [[02_Characters/Tommaso_Lusardi]].
 3. Decidir que auto se dana en F1 y quien delata a Chiara.
 4. Confirmar si Mei-Lin traiciono realmente o si solo dejo demasiada duda.
 5. Definir el favor exacto que cobra Anya en Washington.

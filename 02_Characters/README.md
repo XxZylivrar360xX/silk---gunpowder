@@ -37,6 +37,9 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 - [[02_Characters/Ren_Wei]] — El Afinador; cocinero de cocaína y metanfetaminas; consolida a Cole como proveedor.
 - [[02_Characters/Russell_Whitaker]] — Russ; ex veterano con bastón, aspirante a alcalde y cara política de El Patio.
 - [[02_Characters/Garrett_Cross]] — administrador financiero, testaferro y cara legal de activos.
+- [[02_Characters/Matteo_Bellacorte]] — socio del Monarch; abre la puerta a Cole en H2.
+- [[02_Characters/Fabrizio_Rinaldi]] — provisional; viejo amigo italiano de Chiara dentro del grupo del Monarch.
+- [[02_Characters/Tommaso_Lusardi]] — provisional; hermano de Alessio Lusardi y presencia incómoda del pasado de Chiara.
 
 ## Antagonistas y presión externa
 
@@ -67,7 +70,7 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 
 ## Funciones Pendientes De Nombre
 
-1. **El socio del casino** — abre la puerta de toda la novela en H2.
+1. ~~**El socio del casino**~~ — resuelto como [[02_Characters/Matteo_Bellacorte]].
 2. ~~**La médica de confianza de Chiara**~~ — resuelta como [[02_Characters/Camila_Rivas]].
 3. **El veterano de El Faro** — treinta años en la redacción; conciencia del edificio.
 4. **La joven periodista de El Faro** — aprendiz/instrumento de Chiara; posible espejo futuro.
@@ -80,9 +83,9 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 
 Antes de pasar a los momentos de tensión fuertes de la pareja, conviene crear en este orden:
 
-1. Socio del casino.
-2. Veterano de El Faro.
-3. Joven periodista de El Faro.
+1. Veterano de El Faro.
+2. Joven periodista de El Faro.
+3. Confirmar nombres definitivos / funciones de [[02_Characters/Fabrizio_Rinaldi]] y [[02_Characters/Tommaso_Lusardi]].
 4. ~~Contacto ruso.~~ Resuelto: [[02_Characters/Anya_Voronina]].
 5. Propiedad rural del norte.
 6. Banda rival desintegrada.

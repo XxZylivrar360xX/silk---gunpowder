@@ -16,9 +16,11 @@
 
 ## Apariencia
 
-Pelo negro, largo, con una ondulación que no le cuesta nada y que a ella le consta que vale dinero. Ojos avellana con verde adentro, del tipo que cambia según la luz de la habitación — detalle que ha usado profesionalmente y que le parece un poco ridículo que funcione. Piel aceitunada, nariz recta, un lunar sobre el labio que en las fotos siempre sale del mismo lado porque siempre ofrece el mismo perfil.
+Pelo negro, largo hasta media espalda cuando lo lleva suelto, con una ondulación que no le cuesta nada y que a ella le consta que vale dinero. Ojos almendrados con tonos verdes adentro, del tipo que cambia según la luz de la habitación — detalle que ha usado profesionalmente y que le parece un poco ridículo que funcione. Rasgos italianos/sicilianos, piel aceitunada, nariz recta, un lunar sobre el labio que en las fotos siempre sale del mismo lado porque siempre ofrece el mismo perfil.
 
 Se viste con una precisión que no es lujo sino cálculo: **cada prenda está elegida para decirle a la habitación quién es antes de abrir la boca.** Sabe exactamente cuánto vale parecer cara y en qué barrios eso es un error. Tacones que puede correr con ellos. Un bolso grande, siempre — y adentro, siempre, una pistola pequeña que jamás ha disparado en público.
+
+En su llegada a San Aurelio viste **blusa roja sin mangas, pantalón de vestir negro, tacones rojos y abrigo corto de felpa blanco**. Lleva el cabello en un chongo elegante que despeja el cuello y deja visible la gargantilla.
 
 El único tic que no controla: cuando algo la sorprende de verdad, se toca el anular izquierdo. **Ahí llevó un anillo de matrimonio.** Ya no está, y la mano no lo ha aceptado.
 

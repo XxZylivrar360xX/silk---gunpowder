@@ -49,11 +49,11 @@ Para eso abre un taller de automóviles **en la vieja bodega de su padre**.
 
 ## Cómo llegan a cruzarse
 
-Son esos negocios los que ese día lo llevan a conocer a **[un socio del casino]**, que lo cita esa misma noche a una reunión.
+Son esos negocios los que ese día lo llevan a conocer a **[[02_Characters/Matteo_Bellacorte]]**, socio del casino, que lo cita esa misma noche a una reunión.
 
 Lo que Cole va a buscar: **un porcentaje a cambio de servicios de reparación y mantenimiento de los coches del casino**, más la posibilidad de entrar en los negocios lícitos donde ese hombre ya tiene parte. Networking. Está construyendo la red, no un golpe.
 
-> **PENDIENTE:** el socio. Nombre y ficha. Es quien abre la puerta de toda la novela.
+> **RESUELTO (2026-08-24):** el socio es [[02_Characters/Matteo_Bellacorte]]. Es quien abre la puerta de toda la novela.
 
 ## El encuentro
 
