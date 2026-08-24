@@ -81,6 +81,12 @@ De la propuesta que le lleva a Chiara semanas después de conocerse (H2, continu
 
 Esto último es la frase clave de toda su carrera: existe un espacio entre lo que un negocio necesita y lo que un negocio puede hacer, y Cole se ofrece a ser ese espacio. **De ahí sale todo el imperio.**
 
+## Lo que Chiara ve aquí
+
+En el Capítulo 2, Chiara propone torneos de poker como herramienta de flujo y relato: entrada alta, invitados visibles, hospedaje, cobertura social y **10% limpio para la casa**. La utilidad no es sólo ganar más: es convertir movimiento de dinero en evento público, con historia presentable.
+
+Ese mismo día empieza a detectar huecos de administración del casino: proveedores, seguridad, calendario, registros, invitados, prensa y el modo en que una mesa de juego puede servir de excusa legítima para dinero que necesita parecer ganancia.
+
 ---
 
 Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Cole_Mercer]] · [[06_Relationships/Hitos]] · [[03_Factions/El_Faro]]

@@ -40,11 +40,11 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 ## Paso del usted al tu
 
 - **Que es:** H2 empieza con "Encantado de conocerla", de usted. El cruce al tu es umbral relacional.
-- **Se revela en:** pendiente.
+- **Se revela en:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/06_Ambos]].
 - **Quien ya lo sabe:** no aplica; es un cambio de trato.
-- **Quien NO debe hacerlo antes de tiempo:** Cole no debe tutear a Chiara por descuido antes del umbral. Chiara puede cruzarlo primero si se confirma.
+- **Quien NO debe hacerlo antes de tiempo:** Cole no debe tutear a Chiara por descuido antes del umbral. En el borrador actual, el cruce ocurre tarde, cansado y sin solemnidad con la linea canon "Eres increible"; Chiara lo acepta y responde "Ambos somos increibles".
 - **Lineas o gestos prohibidos:** alternancia accidental de usted/tu en escenas previas.
-- **Estado:** pendiente critico.
+- **Estado:** resuelto en borrador provisional; revisar si el autor prefiere mover el umbral.
 
 ---
 
@@ -56,4 +56,3 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Quien NO debe saberlo/insinuarlo todavia:** no adelantar contra quien es ni por que Cole tiene que entrar en persona hasta que este sembrada la amenaza.
 - **Lineas o gestos prohibidos:** hacer que la operacion parezca set piece generico; debe nacer de una deuda, amenaza o consecuencia acumulada.
 - **Estado:** pendiente.
-

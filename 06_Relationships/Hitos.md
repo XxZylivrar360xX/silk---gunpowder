@@ -54,6 +54,8 @@ Son esos negocios los que ese día lo llevan a conocer a **[[02_Characters/Matte
 Lo que Cole va a buscar: **un porcentaje a cambio de servicios de reparación y mantenimiento de los coches del casino**, más la posibilidad de entrar en los negocios lícitos donde ese hombre ya tiene parte. Networking. Está construyendo la red, no un golpe.
 
 > **RESUELTO (2026-08-24):** el socio es [[02_Characters/Matteo_Bellacorte]]. Es quien abre la puerta de toda la novela.
+>
+> **RESUELTO (2026-08-24):** antes de conocer a Matteo, el mismo dia Cole se reune con [[02_Characters/Raymond_Keene]] en el [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento]] para proponer una renta mensual de mantenimiento y reparaciones financiadas para unidades policiales. Esto muestra la fachada legal funcionando con institucion publica antes de que intente vender un paquete parecido al Monarch.
 
 ## El encuentro
 
@@ -88,6 +90,8 @@ Y **ella lo ve a él primero.** El camaleón, que se pasa la vida leyendo habita
 Durante la reunión Cole se muestra **astuto e inteligente**, y eso **capta la atención de ella**. Chiara concluye que podría ser un activo útil para el casino.
 
 **Los socios no.** Les parece **demasiado listo** y no quieren hacer negocios con él.
+
+> **RESUELTO (2026-08-24):** en el Capitulo 1 ampliado hay dos reuniones distintas: una interna de socios con Dario, sin Cole, para revisar apertura/proveedores; despues Dario se retira por una diligencia en el centro, ocurre el primer apreton de manos y la reunion formal con Cole se hace sin Dario, con su silla vacia pesando sobre la mesa. Termina en el rechazo.
 
 > **DISEÑO.** Dos cosas que esto instala y no hay que desaprovechar:
 >
@@ -190,9 +194,9 @@ Cole es el hombre que se vuelve lo que cada habitación necesita, y aquí **no l
 - **Ella se da cuenta de todo.** Chiara lee gente para vivir: sabe perfectamente lo que es esta noche. Y **le sigue la corriente**, que es una forma de ternura y también su primera concesión.
 - **Cole nunca menciona lo que le costó nada de esto.** Ni el restaurante, ni la camioneta, ni la tarde con el perro.
 
-> **PENDIENTE:** de qué hablan en la terraza. Restricción: no puede ser una escena de revelaciones — eso es H2-b. Aquí todavía se están conociendo con las máscaras puestas, y lo que avanza es el hecho de estar ahí, no lo que dicen.
+> **RESUELTO EN BORRADOR (2026-08-24):** en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/05_Una_Amiga]], la terraza conversa sin revelaciones limpias: comida, San Aurelio, Palermo, cafe, version/piezas, y silencios comodos. Lo que avanza es el hecho de estar ahi.
 
-> **PENDIENTE:** qué acuerdo tiene Cole con *Il Gelsomino*. Es la primera vez que usa su red para algo personal. *(Nota: gelsomino = jazmín. El vault ya tenía el jazmín como olor de Cuesta Bonita — coincidencia útil, no forzarla.)*
+> **RESUELTO EN BORRADOR (2026-08-24):** el acuerdo con *Il Gelsomino* queda sembrado desde Capitulo 1: Cole arregla/atiende camioneta refrigerada, extractor, filtros y cerradura trasera; Claudio le deja la terraza disponible cuando la pida. *(Nota: gelsomino = jazmín. El vault ya tenía el jazmín como olor de Cuesta Bonita — coincidencia útil, no forzarla.)*
 
 *(El perro se llama **Rocco**.)*
 
@@ -387,6 +391,8 @@ La noche en que todo cambia es **la única noche del libro en que no puede condu
 - **Nadie dice que la noche fue especial.** Terminan chocando el puño y a dormir en cuartos distintos.
 
 > **RESUELTO (2026-08-23):** las canciones (*Un anno d'amore* / *The World Is Yours*), que **fuman los dos**, y la ficha del penthouse — creada en [[05_Locations/El_Penthouse]].
+
+> **RESUELTO EN BORRADOR (2026-08-24):** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/06_Ambos]] ejecuta H2-b y coloca el paso del usted al tu al final, con la linea canon *Eres increible / Ambos somos increibles*.
 
 > **PENDIENTE:** dónde vuelve *Un anno d'amore*. Ahora que se sabe que es la casa de sus padres, tiene dos destinos posibles y opuestos: en la Fase V señala lo que están perdiendo; al final, lo que consiguieron. **Elegir uno.**
 

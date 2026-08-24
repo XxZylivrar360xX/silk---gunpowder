@@ -55,16 +55,19 @@ Las capas deben mantenerse separadas:
 
 Lo que ya se sabe de él: estuvo ahí siempre, opera con Cole en lo pesado, y **es el único que se dio cuenta de que Cole volvía herido de la operación de [[06_Relationships/Hitos]] (H1) — y lo dejó irse solo a casa.** Es la única persona que quiere a Cole sin deberle nada, lo que le da la única autoridad real que existe sobre él.
 
+En la operación diaria del taller, Héctor es el filtro de personal. Garrett puede preparar papeles limpios, nóminas y estructura; Héctor decide si alguien sirve para el puesto, especialmente cuando Cole empieza a buscar gente para turno nocturno. Cole delega esa responsabilidad porque confía en su lectura de personas y oficio.
+
 > **RESUELTO (2026-08-23):** es [[02_Characters/Hector_Navarro]]. La ficha existe.
 
 ### Los del barrio, con nombre
 
 - **[[02_Characters/Nadir_Amrani]]** — el mejor amigo de Cole.
 - **[[02_Characters/Daniel_Hayes|Daniel “Danny” Hayes]]** — dueño del perro de [[06_Relationships/Hitos]], H2-a.
+- **[[02_Characters/Garrett_Cross]]** — apoyo temprano de cuentas, nóminas y papeles limpios; después escala a administrador financiero/activos cuando nace Cross River.
 
 Los dos son los testigos de la historia desde afuera: son quienes ven a Cole perfumado y nervioso la noche de la primera cena, y quienes empiezan — sin decir nada — la costumbre del barrio de callar.
 
-> **PENDIENTE:** resto del núcleo humano. Además de él hacen falta mínimo dos nombres antes de escribir prosa: el conductor joven que haría cualquier cosa por Cole, y quien lleva las cuentas — la única persona que le dice que no.
+> **PENDIENTE:** resto del núcleo humano. Además de los ya nombrados hace falta mínimo el conductor joven que haría cualquier cosa por Cole. Garrett cubre la función temprana de cuentas/nóminas, aunque su peso mayor llega al escalar a Cross River.
 
 Principio de diseño: **nadie aquí firmó nada.** La lealtad se sostiene por favores acumulados, y eso funciona hasta el día que alguien calcula cuánto debe y decide que es demasiado.
 

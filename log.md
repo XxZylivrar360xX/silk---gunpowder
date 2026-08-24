@@ -1412,3 +1412,57 @@ Se amplio el Capitulo 1 prototipo para que el dia normal de Cole tenga mas estac
 **Build:** EPUB regenerado en `tools/epub-build/output/Seda_y_Polvora.epub`.
 
 **Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/`, `02_Characters/Rafa_Luna.md`, `02_Characters/Matteo_Bellacorte.md`, `03_Factions/Almendra_Towing.md`, `05_Locations/Il_Gelsomino.md`, `05_Locations/Lote_Almendra.md`, `05_Locations/Casa_Comunitaria_De_La_Almendra.md`, `05_Locations/La_Esquina_de_Mabel.md`, `05_Locations/San_Aurelio.md`, `05_Locations/Vida_Civil_de_San_Aurelio.md`, `INDEX.md`, `98_Agent_Handoff/`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
+
+## Sesion 2026-08-24 (06) | Capitulo 1 ampliado y limpieza EPUB
+
+Se amplio [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]] para resolver continuidad del casino y cerrar el capitulo con espejo emocional discreto.
+
+**Canon / estructura nueva:**
+
+- Cole se reune muy temprano con [[02_Characters/Raymond_Keene]] en el [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento]] para proponer renta mensual de mantenimiento, prioridad de reparacion y reparaciones financiadas a noventa dias para unidades policiales; Keene acepta un piloto parcial.
+- Nadir queda informado explicitamente de que Cole va al Monarch por invitacion de Matteo, sin recibir los detalles.
+- La reunion de socios del Monarch queda dentro del Capitulo 1 y se divide en dos: reunion interna con Dario sin Cole, y reunion formal posterior con Cole.
+- La reunion formal ejecuta el rechazo canon: los socios lo ven "demasiado listo"; Chiara detecta valor y discrepa.
+- El cierre paralelo deja a Cole en el catre del despacho del taller, con saco/camisa fuera y llaves del Peugeot en el escritorio; Chiara en el penthouse abre la tina con burbujas. Ambos registran al otro como dato/radar, no como inicio consciente de romance.
+
+**EPUB:**
+
+- Se retiraron encabezados internos tipo beat del Capitulo 1, sustituidos por separadores.
+- El generador omite `00_Front_Matter` por defecto cuando ya existen capitulos, filtra comentarios HTML, baja el TOC a nivel 1 y usa CSS menos comprimido.
+- EPUB regenerado en `tools/epub-build/output/Seda_y_Polvora.epub`.
+
+**Archivos tocados:** `11_Books/`, `03_Factions/Departamento_de_Policia_de_San_Aurelio.md`, `06_Relationships/Hitos.md`, `12_Craft_Policies/milestones/INDEX.md`, `98_Agent_Handoff/`, `tools/epub-build/`, `INDEX.md`, `log.md`.
+
+## Sesion 2026-08-24 (07) | Capitulos 2-6 y avance temprano de Cole/Chiara
+
+Se corrigio el Capitulo 1 para que Dario no este presente en la reunion formal con Cole: se retira de la reunion interna por una diligencia en el centro, que el Capitulo 2 cobra con el titular de Keene ejecutado en Plaza Corona.
+
+**Capitulo 2 creado:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Los_Viejos_Dias]]
+
+- Keene aparece ejecutado con tres tiros, sentado en una banca como si estuviera dormido.
+- Cole y Hector reciben a Walt al salir de prision.
+- Cole conoce a Harper en una cafeteria del norte.
+- Cole, Hector y Walt prometen traer de vuelta los viejos dias de La Almendra, renovados y con sangre nueva.
+- Chiara propone torneos de poker como flujo/blanqueo con 10% limpio para el casino.
+- Chiara conoce a Blake en una cafeteria del centro y acepta una fiesta para recuperar una vibra de salida, no por Blake como eleccion profunda.
+
+**Capitulos 3-6 creados:**
+
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_La_Primera_Llamada]] — Blake exhibe a Chiara en La Isla; primera llamada a Cole; primer favor bajo la mesa con el Mercedes de Varga.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/04_La_Casa_No_Quiere_Ruido]] — cadena de favores, factura ensenable, visitas de Cole al Monarch y roce de Tommaso con el pasado de Alessio.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/05_Una_Amiga]] — H2-a: Rocco, camioneta rentada, terraza de Il Gelsomino, Nadir/Danny como testigos.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/06_Ambos]] — H2-b: costumbre de contarse el dia, penthouse, hamburguesas/malteadas, hierba, canciones, calavera, habitaciones separadas, primer tu y choque de punos.
+
+**Decision provisional:** el paso del usted al tu ocurre al final de Capitulo 6 con la linea canon "Eres increible / Ambos somos increibles". Revisar si el autor quiere mover ese umbral.
+
+**Archivos tocados:** `11_Books/`, `02_Characters/`, `03_Factions/El_Casino.md`, `06_Relationships/Hitos.md`, `12_Craft_Policies/`, `98_Agent_Handoff/`, `INDEX.md`, `log.md`.
+
+## Sesion 2026-08-24 (08) | Garrett y presion de turno nocturno
+
+Se ajusto el arranque de [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]] con un intercambio entre Hector y Cole: el trabajo se acumula, faltan manos para turno nocturno y Cole ya hablo con Garrett para buscar gente al regresar de vacaciones en un par de dias, a tiempo para nominas.
+
+**Canon / continuidad:** Garrett Cross ya orbita a Cole desde la etapa temprana de Almendra Towing como apoyo de nominas, papeles limpios y contratacion. Su escala mayor sigue siendo Cross River/activos cuando la red crece. Hector queda como filtro humano del taller: Garrett prepara papeles, pero Hector decide si un empleado sirve para el puesto. Cole confia en Garrett al nivel de confiarle su vida por lo vivido junto a Russell y Garrett.
+
+**Build:** EPUB regenerado en `tools/epub-build/output/Seda_y_Polvora.epub`.
+
+**Archivos tocados:** `11_Books/.../01_Un_Hombre_De_Negocios_Intachable.md`, `02_Characters/Garrett_Cross.md`, `03_Factions/Almendra_Towing.md`, `98_Agent_Handoff/DECISIONS.md`, `log.md`, `tools/epub-build/output/Seda_y_Polvora.epub`.

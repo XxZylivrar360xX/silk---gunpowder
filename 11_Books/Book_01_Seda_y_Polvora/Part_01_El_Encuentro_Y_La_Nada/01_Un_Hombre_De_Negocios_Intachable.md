@@ -2,13 +2,11 @@
 Estado: borrador provisional.
 Protagonistas: Cole Mercer, Chiara Bellandi.
 Ventana temporal: Fase 0, el dia en que llegan los socios del Monarch y ocurre H2.
-Lugares: La Almendra, Il Gelsomino, Lote Almendra, La Esquina de Mabel, Cementerio Santa Lucia, Casa Comunitaria de la Almendra, Kingsley Field, The Monarch Casino & Hotel.
-Funcion: instalar el dia normal de Cole, la llegada de Chiara, Matteo Bellacorte como bisagra y el primer apreton de manos.
+Lugares: La Almendra, Departamento de Policia de San Aurelio, Il Gelsomino, Lote Almendra, La Esquina de Mabel, Cementerio Santa Lucia, Casa Comunitaria de la Almendra, Kingsley Field, The Monarch Casino & Hotel.
+Funcion: instalar el dia normal de Cole, la llegada de Chiara, Matteo Bellacorte como bisagra, la reunion interna del Monarch, el primer apreton de manos, el rechazo de los socios y el cierre paralelo de radar mutuo.
 -->
 
 # Capítulo 1 — Un hombre de negocios intachable
-
-## I. La Almendra
 
 A las siete y doce de la mañana, Cole Mercer ya había firmado tres hojas que no decían la verdad completa.
 
@@ -74,6 +72,86 @@ Héctor hizo un ruido con la garganta.
 
 Héctor sonrió apenas. En él, eso contaba como carcajada.
 
+Después miró las dos grúas quietas junto al portón y dejó de sonreír.
+
+—El trabajo se está acumulando.
+
+Cole siguió revisando el gancho.
+
+—Sí.
+
+—No era pregunta.
+
+—Tampoco la respuesta.
+
+Héctor se limpió las manos con el trapo y señaló hacia la calle, donde un sedán con una llanta baja llevaba media hora estacionado en zona roja sin que nadie se atreviera a moverlo.
+
+—Anoche entraron tres llamadas después de medianoche. Omar no puede partirse en dos y Danny se duerme parado si lo dejas sin azúcar. Necesitamos gente para turno nocturno antes de que un trabajo bueno se nos pudra por no tener quién lo levante.
+
+Cole enderezó la espalda.
+
+—Ya lo hablé con Garrett.
+
+Héctor hizo un ruido con la garganta.
+
+—Garrett está de vacaciones.
+
+—Regresa en un par de días.
+
+—Qué bonito. El trabajo puede esperarlo con una toalla en la playa.
+
+Cole miró el patio, las grúas, los coches que esperaban piezas y los dos muchachos que fingían no escuchar mientras trabajaban más lento para escuchar mejor.
+
+—Cuando vuelva se pone con eso. Turno nocturno, dos nombres buenos, papeles limpios. También llega a tiempo para nóminas.
+
+—Si no llega?
+
+Cole volvió a tomar la pieza marcada.
+
+—Llega.
+
+Héctor lo miró de lado.
+
+—Confías mucho en un hombre que cuenta dinero ajeno.
+
+Cole dejó la pieza en el banco.
+
+—Héctor, a Garrett le confiaría mi vida. Como ya le he hecho muchas veces.
+
+Héctor no se rió.
+
+—Eso fue con Russell.
+
+—Y con Garrett.
+
+—Russ sabe recibir un balazo.
+
+—Garrett sabe evitar que llegue.
+
+Héctor sostuvo la mirada un segundo más. Después señaló el patio con el trapo.
+
+—Los papeles los ve Garrett. La gente la veo yo.
+
+—Por eso te lo estoy diciendo.
+
+—No me traigas muchachos que sólo quieran manejar de noche porque creen que la grúa impresiona.
+
+—No.
+
+—Ni primos de alguien que te debe dinero.
+
+—Tampoco.
+
+—Si no me gustan, no entran.
+
+Cole tomó otra vez la pieza y la giró hacia la luz.
+
+—Si no te gustan, no pasan del portón.
+
+Héctor soltó una risa breve.
+
+—Entonces sí estás aprendiendo.
+
 El resto de la mañana fue lo que en la Almendra pasaba por normalidad. Una señora de la calle Cedro llegó con el radiador echando vapor y un nieto dormido en el asiento de atrás. Cole le llenó el depósito, le dijo que no prendiera el aire acondicionado hasta la tarde y no le cobró. Un carnicero le pidió que le moviera una camioneta que llevaba tres días tapándole la entrada; Cole mandó a Omar y le recordó que el mes pasado alguien le había guardado cajas en una cámara fría sin hacer preguntas. Un hombre con camisa demasiado blanca apareció preguntando por convenios de flotilla, miró el patio como si esperara ver otra cosa y se fue con una tarjeta.
 
 Cada conversación dejaba algo.
@@ -85,6 +163,170 @@ Y a veces dejaba otra cosa: la cara que Cole necesitaba que la ciudad viera. Due
 La fachada funcionaba porque no era falsa del todo.
 
 Eso la hacía más cara.
+
+A las nueve y cuatro, Cole estacionó una grúa blanca frente al Departamento de Policía de San Aurelio y dejó el motor encendido.
+
+Calle Corona ya estaba despierta. Los juzgados abrían sus puertas, un camión de mensajería bloqueaba media banqueta, dos empleados del Ayuntamiento fumaban junto a una jardinera y una patrulla con la defensa vencida esperaba en doble fila como si también tuviera cita. El centro viejo olía a café de oficina, escape caliente, papel húmedo y desinfectante. No era olor a ley. Era olor a gente intentando que la ley alcanzara para todo.
+
+Cole bajó con una carpeta bajo el brazo.
+
+El oficial de recepción levantó la vista, reconoció el logo de Almendra Towing y luego reconoció a Cole. Ese orden le dijo más que cualquier saludo.
+
+—Mercer.
+
+—Morning.
+
+—El chief lo espera.
+
+—Qué raro.
+
+El oficial miró la grúa por la ventana.
+
+—Dejó eso prendido.
+
+—También los carros de ustedes.
+
+El hombre no sonrió, pero empujó el registro hacia él.
+
+La oficina de Raymond Keene estaba al fondo de un pasillo con demasiadas fotos enmarcadas: ceremonias, promociones, una visita escolar, el alcalde con la mano sobre el hombro de un cadete que ya no debía ser cadete. En cada imagen, la ciudad fingía que el uniforme bastaba para ordenar lo que pasaba fuera del encuadre.
+
+Keene no se levantó cuando Cole entró.
+
+Tenía la camisa perfectamente planchada, la corbata floja apenas lo suficiente para parecer humano y una taza de café que no había tocado. Sobre el escritorio había tres carpetas abiertas, una radio apagada y una fotografía familiar mirando hacia él, no hacia las visitas.
+
+—Señor Mercer.
+
+—Chief.
+
+Keene señaló la silla.
+
+Cole se sentó sin acomodarse demasiado. En las paredes había diplomas, un mapa de distritos y una pizarra con turnos de patrulla escritos a mano. Nadie escribía turnos a mano si le alcanzaba el presupuesto para que el sistema funcionara.
+
+—Me dicen que quiere cobrarnos antes de arreglar algo —dijo Keene.
+
+Cole dejó la carpeta sobre el escritorio.
+
+—Quiero que dejen de pagar cada avería como emergencia.
+
+Keene abrió la carpeta con dos dedos. Contrato de servicio. Anexo de unidades. Calendario de mantenimiento. Tarifa mensual. Línea separada para reparaciones financiadas. Todo con el membrete azul de Almendra Towing y suficiente lenguaje administrativo para aburrir a un auditor.
+
+—Renta mensual —leyó Keene.
+
+—Mantenimiento preventivo de patrullas asignadas. Revisión de frenos, suspensión, llantas, batería, fluidos. Prioridad de reparación. Piezas financiadas a noventa días cuando el presupuesto no alcance el mismo mes.
+
+—Qué generoso.
+
+—Qué barato sale no perder una unidad por tres semanas.
+
+Keene lo miró por encima de la hoja.
+
+—No necesito que un mecánico me explique presupuesto municipal.
+
+—No. Necesita que alguien le dé una factura que presupuesto municipal pueda aprobar.
+
+La radio del pasillo soltó una clave y volvió a callarse. Keene no miró hacia la puerta. Cole sí, sin mover la cabeza.
+
+—¿Y qué compra usted con esto? —preguntó Keene.
+
+—Un cliente que paga cada mes.
+
+—Intente otra vez.
+
+Cole apoyó los antebrazos en las rodillas.
+
+—Compra que mis grúas no sean sorpresa cuando estén cerca de una patrulla. Compra que si una unidad truena en Santa Brígida no espere dos horas por un remolque del condado. Compra que sus oficiales no anden manejando coches que chillan al frenar frente a medio barrio.
+
+Keene cerró la carpeta.
+
+—Eso suena a favor.
+
+—Suena a servicio.
+
+—En esta ciudad la diferencia importa.
+
+—Por eso traje contrato.
+
+Keene sostuvo la carpeta cerrada con la palma. Tenía manos de hombre que había usado uniforme de calle antes de aprender escritorio, pero ya no hacía trabajo que dejara grasa debajo de las uñas. Cole notó un raspón mínimo en el nudillo derecho. Reciente. No de oficina.
+
+—Almendra Towing ya tiene llamadas municipales —dijo Keene.
+
+—Por rotación.
+
+—Quiere preferencia.
+
+—Quiero estabilidad.
+
+—Todos quieren estabilidad cuando empiezan a crecer.
+
+Cole no respondió de inmediato. Afuera, una sirena se encendió dos segundos y se apagó; alguien apartando tráfico para salir de la cuadra, no una emergencia real.
+
+—Tiene doce unidades con más de ciento veinte mil millas —dijo Cole—. Cuatro con llantas que no pasan lluvia fuerte. Dos Crown Victoria que siguen rodando porque nadie quiere firmar que ya murieron. Y una Tahoe negra que pierde aceite desde hace seis meses pero todavía la mandan a eventos porque se ve bien en fotos.
+
+Keene abrió la carpeta otra vez, aunque no hacía falta.
+
+—¿Quién le dio ese inventario?
+
+—Sus coches.
+
+—Los coches no hablan.
+
+—Hablan todo el tiempo. Nomás no en inglés.
+
+Keene casi sonrió. Casi.
+
+—Noventa días para piezas.
+
+—Con límite.
+
+—¿Interés?
+
+—Menor que el de dejar una unidad parada.
+
+—No pregunté eso.
+
+Cole sacó una hoja del final de la carpeta y la puso encima.
+
+—Ahí está.
+
+Keene leyó. Luego leyó otra vez. La cifra no era caridad. Eso ayudó. A los hombres como Keene les tranquilizaba más que alguien cobrara bien a que alguien pareciera bueno.
+
+—Puedo autorizar un piloto —dijo al fin—. Tres meses. Seis unidades. Si mi gente se queja, se acaba.
+
+—Su gente se va a quejar aunque funcione.
+
+—Entonces si se queja con razón.
+
+Cole asintió.
+
+—Se arregla.
+
+Keene tomó una pluma.
+
+—No significa que seamos socios, Mercer.
+
+Cole miró la pluma, luego al jefe de policía.
+
+—Mejor. Los socios salen más caros.
+
+Keene firmó la primera hoja y dejó las demás sin tocar.
+
+—Legal lo revisa.
+
+—Claro.
+
+—Y si alguno de sus muchachos usa una grúa con logo municipal para hacer algo que no deba, la primera llamada no va a ser a usted.
+
+Cole tomó la carpeta.
+
+—Si alguno de mis muchachos hace algo con mi logo sin que yo lo sepa, yo voy a llegar antes que su llamada.
+
+Keene lo sostuvo con la mirada. No era aprobación. Era cálculo.
+
+—Eso espero.
+
+Cole salió con una firma, tres objeciones previsibles y la certeza de que Keene había aceptado menos por presupuesto que por visibilidad. Una patrulla que entraba al taller de la Almendra dejaba de ser sospecha si lo hacía cada martes a las diez.
+
+Eso también era relato.
 
 A las once y veintiocho, Cole manejó hacia Il Gelsomino con una caja de filtros de aceite en el asiento del copiloto y una factura doblada en la visera.
 
@@ -250,7 +492,7 @@ Los favores que parecían favores salían carísimos.
 
 Los tratos limpios, en cambio, podían repetirse.
 
-## II. Flores
+***
 
 Cole compró las flores en una tienda sin nombre junto a Camino Santa Lucía. No eligió las más caras. Eligió las que no parecían pedir disculpas por existir.
 
@@ -520,6 +762,32 @@ Cole llegó con las bolsas de Mabel y las dejó sobre la mesa larga. Dos adolesc
 
 Eso también era cuidado.
 
+Nadir sí preguntó, pero lo hizo cuando ya no había nadie más en el pasillo.
+
+—¿Qué casino?
+
+Cole dejó una bolsa sobre la mesa del cuarto de atrás.
+
+—El Monarch.
+
+—¿El nuevo?
+
+—Hay otro?
+
+Nadir apoyó el hombro en la pared, con esa manera suya de parecer cómodo justo cuando estaba haciendo cuentas.
+
+—¿Quién te invitó?
+
+—Matteo Bellacorte. Socio.
+
+—Eso no responde cuánto sabe.
+
+Cole abrió el clóset.
+
+—Sabe suficiente para invitarme.
+
+Nadir no insistió. Eso también era cuidado, pero de otra clase: dejar la puerta abierta sin atravesarla.
+
 En el cuarto del fondo, el traje azul esperaba colgado de una puerta que no cerraba bien.
 
 Cole se lavó otra vez las manos. La grasa seguía en las orillas de las uñas, una sombra mínima que ni el jabón ni el agua caliente lograban sacar. Se puso la camisa limpia, el pantalón, el saco. El traje le ajustó los hombros como una corrección. Los tenis blancos, alineados bajo la cama, eran la única parte de la noche que todavía parecía suya.
@@ -568,7 +836,7 @@ Nadir se apartó de la puerta.
 
 Cole pasó junto a él y salió por la cocina, no por la puerta principal. Afuera, el Peugeot rojo esperaba bajo una farola que todavía no encendía. Pequeño, bajo, absurdo para un casino y exacto para él.
 
-## III. Kingsley Field
+***
 
 Antes de que San Aurelio tuviera calles para ella, fue una mancha de luz bajo el ala del avión.
 
@@ -774,7 +1042,143 @@ La mujer de la carpeta bajó por fin el bolígrafo.
 
 Chiara escuchó el clic.
 
-## IV. Nueve en punto
+La primera reunión empezó sin Cole Mercer.
+
+Eso, decidió Chiara al sentarse, era el dato más honesto de la tarde.
+
+La sala privada del Monarch quedaba en el segundo nivel, detrás de una puerta de madera oscura que no tenía letrero. Desde la ventana se veía el piso de juego todavía incompleto: técnicos revisando máquinas, alfombra nueva, un hombre de seguridad caminando líneas que nadie más había dibujado. El casino no estaba abierto de verdad, pero ya practicaba su manera de mirar.
+
+Dario tomó la cabecera sin que nadie se la ofreciera. Matteo se sentó a su derecha. Fabrizio eligió una silla lateral, cerca de Chiara, con la familiaridad útil de quien sabe cuándo un aliado no debe parecerlo demasiado. Tommaso ocupó el otro extremo de la mesa y dejó el teléfono boca abajo frente a él, como si con eso demostrara discreción.
+
+Sobre la mesa había carpetas con pestañas de colores: licencias, proveedores, seguridad, valet, contratos temporales, personal. La mujer del bolígrafo se llamaba Elise, según el gafete, y escribía sólo cuando Dario terminaba una frase. Chiara archivó eso también.
+
+—La apertura privada sigue en pie —dijo Dario—. No vamos a moverla por nervios de proveedor.
+
+—No son nervios —dijo Matteo—. Son retrasos. La lavandería no confirmó capacidad para eventos dobles. Dos autos ejecutivos fallaron esta semana. Y el valet sigue sin entender que el Distrito Marino no es Las Vegas.
+
+—El valet se reemplaza —dijo Tommaso.
+
+—La primera semana todo se reemplaza hasta que algo sale en prensa —dijo Chiara.
+
+Tommaso sonrió tarde.
+
+—Por eso estás aquí.
+
+No dijo *por eso te trajimos*. No le hizo falta.
+
+Chiara no miró el anular izquierdo. Miró las carpetas.
+
+—La prensa no es el primer problema. La primera semana sólo necesita tres cosas: que nadie espere demasiado, que nadie pierda una maleta y que ningún empleado tenga una historia mejor que la nuestra.
+
+Fabrizio soltó una risa baja.
+
+—Eso último ya suena a Palermo.
+
+—Palermo habría pedido cuatro cosas.
+
+Matteo tocó con dos dedos la carpeta de proveedores.
+
+—Conozco a alguien para una parte.
+
+Dario lo miró.
+
+—¿Una parte?
+
+—Grúas, taller, mantenimiento. Tiene reputación limpia en La Almendra y suficientes rutas para que media ciudad no se sorprenda si lo ve llegar.
+
+—¿Nombre? —preguntó Tommaso.
+
+—Cole Mercer.
+
+El nombre no produjo nada en la mesa. Chiara notó justamente eso: no era un apellido de poder, ni de familia, ni de puerto. Un nombre sin peso visible podía ser basura o ventaja. A veces las dos cosas se parecían al principio.
+
+Dario abrió una carpeta sin prisa.
+
+—La Almendra no es el Distrito Marino.
+
+—Por eso sirve —dijo Matteo—. Los problemas no se quedan en el distrito que los produce.
+
+Chiara levantó la vista.
+
+—¿Lo revisaste?
+
+—Lo conocí hoy. En una cafetería del barrio.
+
+—Eso no es revisar.
+
+—No. Eso fue verlo funcionar.
+
+Dario cerró la carpeta.
+
+—Explíquelo.
+
+Matteo dejó de sonreír. Cuando no sonreía, la simpatía se le quitaba de encima como una chaqueta.
+
+—Todos en la habitación lo estaban escuchando sin parecer que lo escuchaban. La dueña lo corrigió delante de mí y él la dejó. Un muchacho con casco nuevo se quedó a mirar si él aceptaba. Nadie pidió permiso para enterarse y todos salieron sabiendo algo. Ese hombre no tiene empleados solamente. Tiene testigos.
+
+La palabra dejó una marca pequeña en la mesa.
+
+Chiara pensó que Matteo había traído el dato correcto por la razón equivocada. No era confianza. Era circulación. Un hombre que movía coches podía mover más cosas; un hombre que aceptaba ser corregido por una mujer mayor delante de extraños quizá entendía que la autoridad no siempre necesitaba silla.
+
+Dario la miró un segundo.
+
+—¿Le parece interesante, signora Bellandi?
+
+—Me parece prematuro.
+
+—No le pregunté si era momento.
+
+Chiara apoyó las manos sobre la carpeta.
+
+—Entonces sí.
+
+Fabrizio bajó la mirada para esconder una sonrisa. Tommaso no escondió nada.
+
+—Interesante no significa conveniente —dijo él.
+
+—Casi nunca —contestó Chiara.
+
+Dario no sonrió.
+
+—Que venga esta noche. Lo escuchamos. Nada se promete.
+
+Matteo asintió.
+
+—Ya está citado a las nueve.
+
+Esta vez el silencio sí tuvo forma.
+
+Dario sostuvo a Matteo con la mirada el tiempo exacto para recordar quién autorizaba qué en esa sala.
+
+—Entonces escuchemos lo que usted ya decidió poner frente a nosotros.
+
+Matteo aceptó el golpe con una inclinación pequeña de cabeza.
+
+El teléfono de Dario vibró sobre la mesa.
+
+Nadie miró la pantalla. Todos esperaron a que él decidiera si aquello existía.
+
+Dario leyó el mensaje sin cambiar la cara y guardó el teléfono en el bolsillo interior del saco.
+
+—No podré estar en esa reunión.
+
+Matteo abrió la boca y la cerró tarde.
+
+—¿Quiere que la movamos?
+
+—No. Tengo una diligencia en el centro. Ustedes escuchen. Si el señor Mercer es tan útil como dice, mañana habrá tiempo para decidir cuánto nos conviene.
+
+—¿Y si no? —preguntó Tommaso.
+
+Dario se levantó.
+
+—Entonces habremos perdido una hora. San Aurelio cobra cosas peores.
+
+Chiara volvió a mirar el piso de juego a través del vidrio. Abajo, una máquina encendió sus luces de prueba y celebró una ganancia falsa con música breve.
+
+Pensó que un casino nuevo tenía algo indecente: fingía experiencia antes de haber perdido a nadie.
+
+***
 
 A las nueve menos seis, Cole estacionó el Peugeot 106 XSi rojo frente al Monarch y dejó las llaves en su bolsillo antes de que el valet pudiera abrir la mano.
 
@@ -802,7 +1206,7 @@ El espejo negro de la puerta giratoria le devolvió una cara que nunca terminaba
 
 Si querían hablar con el dueño de Almendra Towing, podían conocer al dueño de Almendra Towing. Traje o no, eso no cambiaba.
 
-Matteo apareció por la entrada antes de que Cole llegara a la puerta giratoria.
+Matteo apareció bajo la marquesina antes de que Cole tocara la puerta giratoria.
 
 —Puntual.
 
@@ -818,15 +1222,15 @@ Matteo sonrió.
 
 —Entonces la noche va bien.
 
-Subieron por la entrada principal, no por carga. Cole lo notó y no dijo nada. A cada lado, cámaras pequeñas seguían ángulos limpios. Guardias con saco miraban manos, no caras. Una mujer en recepción levantó la vista hacia Matteo y después hacia Cole, calculando en menos de un segundo que uno pertenecía y el otro venía invitado por alguien que pertenecía.
+Matteo hizo ademán de llevarlo adentro, pero no cruzó la puerta.
 
-El lobby olía a flores blancas, madera pulida y dinero nuevo.
+—Entramos por principal —dijo—. No por carga.
 
-Cole oyó las máquinas antes de verlas. Campanas, monedas digitales, voces, una risa demasiado alta, el murmullo de hombres explicándose suerte a sí mismos.
+Cole miró el vidrio, las cámaras pequeñas sobre las columnas, los guardias con saco que miraban manos antes que caras, la puerta de servicio mal disimulada detrás de un arreglo floral demasiado grande.
 
-Una pareja pasó junto a él con vasos largos y ojos brillantes. Ella llevaba los zapatos en la mano; él contaba billetes con una concentración triste. Más allá, un guardia retiró de una mesa a un hombre que todavía sonreía mientras dos amigos evitaban mirarlo. Nadie gritó. El casino no necesitaba escándalos para expulsar a alguien. Le bastaba con moverlo hacia una puerta donde la música ya no lo cubría.
+—Eso ya lo decidió usted.
 
-Cole miró la ruta sin girar la cabeza: entrada principal, recepción, pasillo lateral, salida al valet, cámaras sobre las columnas, dos guardias con radio en la oreja izquierda, una puerta de servicio mal disimulada detrás de un arreglo floral demasiado grande.
+—Lo decidieron ellos.
 
 Matteo lo vio contar.
 
@@ -840,19 +1244,19 @@ Cole miró una cámara y luego a él.
 
 —Entonces no me están pagando suficiente.
 
-Matteo lo condujo hacia un corredor lateral.
+Matteo sonrió, pero miró hacia la entrada como si esperara a alguien.
 
-—Están reunidos en la sala privada.
+—La sala privada está lista.
 
 —¿Todos?
 
-—Casi.
+—Casi. Dario tuvo que salir.
 
-Cole siguió caminando, pero algo en Matteo había cambiado. Una espera mínima. Una pequeña demora que no era logística.
+Algo en Matteo había cambiado. Una espera mínima. Una pequeña demora que no era logística.
 
-El corredor desembocaba otra vez hacia la marquesina, donde el aire de la costa entraba cada vez que las puertas giratorias abrían. Afuera, los motores de los coches caros sonaban contenidos, como si hasta el ruido tuviera que pasar por recepción.
+Cole no preguntó quién era Dario. Si importaba, la sala se lo iba a decir.
 
-Al salir al frente de la entrada principal, la vio.
+Entonces la vio.
 
 Estaba afuera, bajo la marquesina, con un cigarro entre los dedos. El abrigo corto de felpa blanco le cubría los hombros sin cerrar del todo y dejaba ver la blusa roja sin mangas, el negro impecable del pantalón de vestir y la línea fina de una gargantilla que el chongo hacía imposible no notar. El pelo negro no se movía con el aire de la costa; estaba recogido con una precisión que convertía cualquier mechón suelto en decisión. Los tacones rojos tocaban el suelo como si el valet, la entrada y la ciudad entera hubieran sido puestos ahí para medir su ruido.
 
@@ -887,3 +1291,345 @@ Cole tomó su mano.
 El ruido del casino siguió detrás de ellos. Una máquina celebró una pérdida. Un coche frenó junto al valet. Matteo, por una vez, no dijo nada.
 
 —Encantado de conocerla.
+
+Ella no retiró la mano de inmediato.
+
+No fue íntimo. Fue práctico. Un segundo más para medir temperatura, fuerza, decisión. Cole lo entendió y no apretó más. Tampoco aflojó primero.
+
+Chiara bajó la mirada a los tenis blancos.
+
+—Eligió zapatos cómodos.
+
+—Planeo salir caminando.
+
+Matteo hizo un ruido que pudo haber sido risa o alivio.
+
+—La sala está lista.
+
+Chiara soltó la mano de Cole.
+
+—Entonces no la hagamos esperar.
+
+Entraron juntos, pero no como grupo. Matteo iba adelante, hablando de la ruta como si las cámaras no estuvieran siguiendo cada paso. Chiara caminó a su lado sin tocarlo. Cole quedó medio paso atrás, lo suficiente para no fingir pertenencia y no bastante para parecer escolta.
+
+En el pasillo, el olor del casino cambió. Menos flores. Más alfombra nueva, electricidad caliente, barniz, café de oficina y hielo derretido en una cubeta de servicio. Cole contó dos puertas con cerradura magnética, una escalera de emergencia a la izquierda, una cámara escondida en el detector de humo y una salida de carga que no aparecía en la ruta amable de Matteo.
+
+Chiara lo vio mirar.
+
+No dijo nada.
+
+La sala privada ya tenía a todos sentados.
+
+La cabecera estaba vacía.
+
+Eso, más que una presencia, le dijo a Cole qué clase de hombre faltaba. Fabrizio Rinaldi saludó con una cordialidad amplia, Tommaso Lusardi con una cortesía que no gastaba calor. Elise, la mujer del bolígrafo, abrió una página nueva.
+
+—Señor Mercer —dijo Tommaso—. Gracias por venir.
+
+Cole no se acercó hasta que Matteo le indicó una silla. Tampoco esperó demasiado.
+
+—Me invitaron.
+
+—Y aun así llegó puntual.
+
+—Nueve es nueve.
+
+Fabrizio sonrió.
+
+—Matteo dijo que diría algo así.
+
+—Matteo habla demasiado.
+
+Matteo se llevó una mano al pecho.
+
+—Me hieren en mi propia casa.
+
+Chiara miró a Cole. Él no estaba jugando al gracioso. Estaba quitándole brillo a la mesa para ver qué quedaba debajo.
+
+Tommaso entrelazó los dedos.
+
+—Nos dicen que su empresa resuelve problemas de movilidad.
+
+—Mi empresa arregla coches, mueve coches y guarda coches hasta que alguien tiene permiso de sacarlos.
+
+—Eso suena limitado.
+
+—Es una forma de cobrar menos impuestos por decir lo mismo.
+
+Elise levantó el bolígrafo y luego decidió no escribir. Chiara notó que Cole también lo había visto.
+
+Tommaso apoyó la espalda en la silla.
+
+—¿Y qué cree que puede hacer por un casino, señor Mercer?
+
+Cole miró la mesa antes de contestar. No por nervios. Por orden.
+
+—Depende de qué problema tenga el casino.
+
+—Hable en general.
+
+—En general nadie paga bien por soluciones generales.
+
+Fabrizio se rió. Esta vez no lo escondió.
+
+Tommaso mantuvo la voz igual.
+
+—Hablemos de necesidades concretas, entonces.
+
+Cole asintió.
+
+—Flotilla ejecutiva. Mantenimiento preventivo, no sólo reparaciones cuando ya quedaron mal con un huésped. Servicio de emergencia para valet y proveedores. Un corralón privado para coches que no quieren ver afuera de la entrada. Taller con factura limpia. Gente que llega por carga y no pregunta por qué el cliente se fue por recepción.
+
+Matteo dejó de tocar el respaldo de su silla.
+
+—Eso era lo que le decía.
+
+Cole siguió sin mirarlo.
+
+—También tienen una puerta de servicio mal puesta.
+
+El silencio bajó de golpe.
+
+Tommaso no cambió de expresión.
+
+—¿Perdón?
+
+—La que está detrás del arreglo floral grande, junto al pasillo del lobby. La cámara la toma de frente, pero no cubre el ángulo de la mano. Si alguien trae gafete falso y sabe caminar sin prisa, entra con una charola vacía.
+
+Elise escribió algo.
+
+Tommaso se inclinó hacia delante.
+
+—¿Está señalando una falla de seguridad en una primera reunión?
+
+—Me preguntaron qué problema tenían.
+
+—No le preguntamos eso.
+
+Cole lo miró por primera vez.
+
+—Entonces fui generoso.
+
+Chiara sintió el gesto antes de pensarlo: la atención, limpia, completa. No admiración. No todavía. Algo más útil. Alguien había entrado a la sala y había rechazado el papel que le dieron sin hacer escándalo. No por orgullo. Por precisión.
+
+Tommaso dejó pasar un segundo.
+
+—La seguridad del Monarch está cubierta.
+
+—Entonces no tienen ese problema.
+
+—¿Está retirando la observación?
+
+—No. Estoy retirando la discusión.
+
+Fabrizio bajó la vista a sus manos. Matteo miró a Chiara como si quisiera saber si eso acababa de salir bien o de salir carísimo.
+
+Chiara no le dio respuesta.
+
+—¿Qué porcentaje pediría? —preguntó ella.
+
+Cole volteó hacia ella. No parecía sorprendido de que hubiera hablado; parecía haber estado esperando que la pregunta correcta saliera de algún lado.
+
+—Sobre mantenimiento, fijo mensual y piezas aparte. Sobre remolques, tarifa preferente por volumen. Sobre problemas que no sean de coches, no doy porcentaje sin saber qué estoy comprando con mi nombre.
+
+—No dijo cobrando —dijo Chiara—. Dijo comprando.
+
+—Mi nombre va en la factura.
+
+La respuesta le gustó por un motivo incómodo: era de alguien que entendía la versión pública como activo, no como decoración. Un mecánico del sur que hablaba de su nombre como quien habla de una garantía. Un hombre vestido de empresario que no parecía creer del todo en el traje, pero sí en la firma.
+
+Tommaso miró la cabecera vacía.
+
+—Demasiado listo.
+
+Lo dijo bajo, pero no lo bastante.
+
+Cole lo oyó. Chiara también. Dario, incluso ausente, no necesitaba oír para saber que la frase ya estaba en la mesa.
+
+—La inteligencia no es un defecto —dijo Fabrizio.
+
+—Depende de quién la administre —dijo Tommaso.
+
+Cole se acomodó el saco. Fue un gesto mínimo, pero a Chiara le pareció que el traje le pesaba más desde hacía tres minutos.
+
+—Si buscan a alguien que no vea, hay talleres más baratos.
+
+Tommaso le concedió una sonrisa de cortesía.
+
+—Buscamos continuidad, señor Mercer. Orden. Confianza.
+
+—La confianza no se compra en paquete.
+
+—No. Se autoriza.
+
+Ahí estaba. La sala entera obedeció a la palabra sin moverse.
+
+Cole no discutió. Chiara agradeció eso antes de preguntarse por qué. Un hombre menos listo habría confundido la frase con invitación a empujar. Cole la leyó como pared y buscó la puerta.
+
+—Entonces autoricen una prueba —dijo—. Treinta días. Dos unidades. Mantenimiento y emergencias. Si llego tarde una vez, llaman a otro. Si alguno de mis hombres habla, llaman a otro. Si una factura no sirve, llaman a otro. Si todo funciona, hablamos de lo demás.
+
+Matteo abrió la boca.
+
+Tommaso levantó una mano mínima y lo cerró.
+
+—Lo discutiremos internamente.
+
+La reunión había terminado aunque nadie se hubiera levantado.
+
+Cole asintió una vez.
+
+—Claro.
+
+No vendió más. No pidió otra oportunidad. No ofreció bajar el precio. Eso fue, para Chiara, el segundo dato.
+
+Matteo lo acompañó hacia la puerta con una prisa social que intentaba convertir el rechazo en pausa.
+
+—Te llamo mañana.
+
+—Si hay algo que llamar.
+
+—Siempre hay algo.
+
+Cole miró una vez hacia Chiara. No buscó complicidad. No buscó ayuda. Sólo registró que ella seguía ahí, sentada en una mesa que acababa de preferir no verlo.
+
+—Señora Bellandi.
+
+Ella sostuvo su mirada.
+
+—Señor Mercer.
+
+La puerta se cerró detrás de él.
+
+Matteo no volvió a sentarse.
+
+—Podemos usarlo.
+
+—Podemos usar a veinte como él —dijo Tommaso.
+
+Chiara dejó que la frase respirara antes de tocarla.
+
+—No hay veinte como él en esta ciudad.
+
+Tommaso giró apenas la cabeza.
+
+—¿Eso es criterio profesional?
+
+—Sí.
+
+—Entonces mi criterio profesional es que un proveedor que detecta una falla de seguridad antes de firmar contrato detectará veinte más después. Y después sabrá cuánto vale callarlas.
+
+—O cuánto vale arreglarlas —dijo Chiara.
+
+Tommaso sonrió tarde.
+
+—Qué optimista.
+
+—No. Conveniente.
+
+Tommaso se levantó. Los demás lo hicieron medio segundo después, menos Chiara. Ella dejó que ese medio segundo también quedara archivado.
+
+—No habrá contrato con Mercer por ahora —dijo Tommaso—. Matteo, busque una opción menos creativa. Chiara, mañana revisaremos prensa local y lista de invitados.
+
+—Por supuesto.
+
+Tommaso salió sin despedirse de Elise. Fabrizio esperó a que la puerta se cerrara.
+
+—No te conviene pelear ésta el primer día —dijo en voz baja.
+
+—No estoy peleando.
+
+Fabrizio la conocía lo bastante para no creerle.
+
+—Chiara.
+
+Ella cerró la carpeta.
+
+—Sólo estoy haciendo inventario.
+
+***
+
+Cole volvió al taller después de medianoche.
+
+La Almendra dormía a medias, que era la única forma en que ese barrio dormía. Una televisión seguía prendida detrás de una cortina. En la esquina, un perro ladró una vez y decidió que el Peugeot no valía el esfuerzo. El portón del taller estaba cerrado, pero la cadena tenía el candado puesto del modo flojo que Héctor dejaba cuando sabía que Cole iba a regresar tarde.
+
+Cole metió el coche sin encender las luces del patio.
+
+El despacho olía a papel viejo, metal, café frío y el aceite que se quedaba en la madera aunque uno pintara encima. Era el mismo cuarto de block de la mañana, pero de noche parecía más pequeño. En una esquina, junto al archivero, estaba el catre donde dormía cuando no valía la pena cruzar la ciudad ni inventar una casa que todavía no tenía. Una cobija gris, una almohada plana, una bolsa de ropa limpia debajo. No era hogar. Era una respuesta temporal que llevaba demasiado tiempo contestando.
+
+Dejó las llaves del Peugeot sobre el escritorio.
+
+El sonido fue mínimo. Aun así llenó el cuarto.
+
+Se quitó el saco y lo colgó en el respaldo de la silla. Después la camisa, despacio, porque el cuello le había marcado la piel. La dejó doblada sobre una caja de recibos, no por orden, sino porque la ropa buena todavía le parecía algo que podía arruinarse con sólo tocar el lugar equivocado.
+
+En camiseta blanca, con los zapatos junto al catre y los calcetines todavía puestos, se tumbó boca arriba.
+
+El techo tenía una grieta fina que empezaba encima del foco y se perdía hacia la pared de la ventana. Cole la había visto cientos de veces. Esa noche la siguió como si fuera una ruta nueva.
+
+Demasiado listo.
+
+No le molestó la frase. No exactamente. La gente desconfiaba de lo que funcionaba demasiado rápido. Él también. Lo interesante no había sido el rechazo, sino la mujer que hizo la pregunta del porcentaje como si estuviera probando una llave en una cerradura ajena.
+
+Chiara Bellandi.
+
+Italiano primero. Español después. Mano firme. Ojos que no miraron el traje para decidir si creerlo. Miraron lo que el traje no tapaba.
+
+Cole cerró los ojos.
+
+No era inicio de nada. No se dijo eso. No habría sabido qué hacer con una idea tan inútil.
+
+Era sólo un dato.
+
+Alguien en esa mesa había entendido que su nombre también era una pieza del negocio.
+
+Eso bastaba para dejarla en el radar.
+
+Lo raro era no saber por qué seguía ahí después de haber apagado la luz.
+
+***
+
+En la Torre Norte del Monarch, Chiara abrió el grifo de la tina y esperó a que el agua golpeara el mármol con suficiente ruido para tapar el silencio del penthouse.
+
+La suite era prestada con demasiada elegancia. Tenía sala amplia, vista al mar, cocina que nadie esperaba que ella usara y un dormitorio donde las sábanas estaban tan tensas que parecían una instrucción. El baño era más grande que algunas habitaciones de Palermo y olía a jabón caro, cloro ligero y flores blancas puestas por alguien que no sabía qué flores le gustaban.
+
+Chiara vertió jabón de burbujas bajo el chorro.
+
+La espuma empezó a subir de inmediato, obediente, perfecta, absurda.
+
+Se quitó los aretes primero. Luego la gargantilla. Después dejó el abrigo blanco sobre una silla y se desabrochó la blusa roja frente al espejo sin mirarse del todo. Había pasado el día entero siendo útil en habitaciones ajenas. El cansancio le llegó tarde, cuando ya no había nadie que pudiera verlo y convertirlo en dato.
+
+Entró a la tina cuando el agua todavía estaba un poco más caliente de lo prudente.
+
+El cuerpo protestó y luego aceptó.
+
+Chiara apoyó la cabeza en el borde de mármol y miró el techo. Blanco, liso, sin grietas. Un techo de hotel. Un techo que no sabía nada.
+
+Cole Mercer.
+
+No era el hombre más peligroso de la sala. Dario seguía ocupando esa categoría con una comodidad casi institucional. Cole tampoco era el más poderoso, ni el más rico, ni el mejor vestido, aunque el traje azul había hecho lo suyo y los tenis blancos habían arruinado justo lo necesario para que la imagen respirara.
+
+Demasiado listo, había dicho Tommaso.
+
+Chiara hundió una mano en la espuma.
+
+No. No era eso.
+
+Listo era barato. San Aurelio debía estar llena de hombres listos, todos convencidos de que ver un hueco equivalía a merecerlo. Lo que Cole había hecho era distinto: había visto la falla, había medido el costo de decirla y la había dicho sin pedir aplauso ni perdón. Después, cuando la mesa cerró, no se humilló intentando volver a abrirla.
+
+Eso era raro.
+
+Más raro todavía: no había mirado su apellido como si fuera puerta. La miró a ella como si pudiera estar usando una.
+
+Chiara cerró los ojos.
+
+No era inicio de nada. Apenas había llegado a la ciudad. Tenía un casino que ordenar, un jefe que la cotizaba como activo, un Lusardi sentado demasiado cerca de su pasado y un penthouse hermoso que no era suyo.
+
+Cole Mercer era un dato.
+
+Un dato incómodo.
+
+Entraste a mi radar, pensó, sin mover los labios.
+
+Y luego, con fastidio mínimo, porque la pregunta no tenía utilidad inmediata:
+
+¿Por qué?

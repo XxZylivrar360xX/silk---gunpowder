@@ -40,6 +40,8 @@ La otra mitad:
 
 Es **policía**. En una ciudad donde con la policía se negocia con casos y no con efectivo ([[00_Biblia/Reglas_del_Mundo]], regla 5), eso lo convierte en una pieza cargada: un hombre del Departamento que conoce personalmente a Chiara, y que en algún momento va a saber que lo dejaron por alguien.
 
+En el Capítulo 2, Chiara lo conoce en una cafetería del centro, después de salir del Monarch por un roce con Tommaso. Blake la invita a una fiesta en La Isla; ella acepta no por él como persona, sino para recuperar por unas horas la vibra de salidas de Palermo o Nueva York.
+
 En [[06_Relationships/Hitos]], H3-a, presume sus habilidades al volante y la infamia del conductor del Peugeot rojo — **sin saber que le está hablando a ella del hombre en el que está pensando**.
 
 ---

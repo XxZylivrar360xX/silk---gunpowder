@@ -19,6 +19,7 @@ VAULT_ROOT = Path(__file__).resolve().parents[2]
 SCRIPT_DIR = Path(__file__).resolve().parent
 
 WIKILINK_RE = re.compile(r"\[\[([^\]|#]+)?(?:#[^\]|]+)?(?:\|([^\]]+))?\]\]")
+HTML_COMMENT_RE = re.compile(r"<!--.*?-->\s*", re.DOTALL)
 
 
 def clean_wikilinks(text: str) -> str:
@@ -55,6 +56,7 @@ def strip_yaml_frontmatter(text: str) -> str:
 def read_markdown(path: Path) -> str:
     text = path.read_text(encoding="utf-8-sig")
     text = strip_yaml_frontmatter(text)
+    text = HTML_COMMENT_RE.sub("", text)
     text = clean_wikilinks(text)
     return text.strip() + "\n"
 
@@ -73,16 +75,8 @@ def collect_folder(folder: Path, include_divider: bool) -> list[str]:
     return sections
 
 
-def collect_manuscript(book_dir: Path) -> str:
-    if not book_dir.exists():
-        raise SystemExit(f"Book folder not found: {book_dir}")
-
-    sections: list[str] = []
-    front_matter = book_dir / "00_Front_Matter"
-    if front_matter.exists():
-        print("[00_Front_Matter]")
-        sections.extend(collect_folder(front_matter, include_divider=False))
-
+def collect_part_sections(book_dir: Path) -> list[str]:
+    part_sections: list[str] = []
     part_dirs = sorted(
         d for d in book_dir.iterdir()
         if d.is_dir() and d.name.lower().startswith("part_")
@@ -91,7 +85,22 @@ def collect_manuscript(book_dir: Path) -> str:
         collected = collect_folder(part_dir, include_divider=True)
         if collected:
             print(f"[{part_dir.name}]")
-            sections.extend(collected)
+            part_sections.extend(collected)
+    return part_sections
+
+
+def collect_manuscript(book_dir: Path, include_front_matter: bool) -> str:
+    if not book_dir.exists():
+        raise SystemExit(f"Book folder not found: {book_dir}")
+
+    sections: list[str] = []
+    part_sections = collect_part_sections(book_dir)
+    front_matter = book_dir / "00_Front_Matter"
+    if front_matter.exists() and (include_front_matter or not part_sections):
+        print("[00_Front_Matter]")
+        sections.extend(collect_folder(front_matter, include_divider=False))
+
+    sections.extend(part_sections)
 
     if not sections:
         raise SystemExit(
@@ -120,7 +129,7 @@ def run_pandoc(manuscript_path: Path, output_path: Path, cover: Path | None,
         "-o",
         str(output_path),
         "--toc",
-        "--toc-depth=2",
+        "--toc-depth=1",
         "--split-level=1",
         "--standalone",
     ]
@@ -147,6 +156,11 @@ def main() -> None:
     parser.add_argument("--css", default="tools/epub-build/epub_style.css")
     parser.add_argument("--output-name", default="Seda_y_Polvora")
     parser.add_argument("--keep-manuscript", action="store_true")
+    parser.add_argument(
+        "--include-front-matter",
+        action="store_true",
+        help="Include 00_Front_Matter even when prose chapters exist.",
+    )
     args = parser.parse_args()
 
     book_dir = (VAULT_ROOT / args.book).resolve()
@@ -157,7 +171,7 @@ def main() -> None:
 
     print(f"Building manuscript from {book_dir} ...")
     manuscript = build_frontmatter(args.title, args.subtitle, args.author, args.lang)
-    manuscript += collect_manuscript(book_dir)
+    manuscript += collect_manuscript(book_dir, args.include_front_matter)
 
     manuscript_path = out_dir / f"{args.output_name}.manuscript.md"
     manuscript_path.write_text(manuscript, encoding="utf-8")
@@ -174,4 +188,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

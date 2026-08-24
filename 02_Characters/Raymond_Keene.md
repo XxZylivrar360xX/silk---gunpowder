@@ -17,6 +17,10 @@ Raymond Keene era el jefe de policía al inicio de la novela.
 
 Muere asesinado por orden de [[02_Characters/Dario_Valcora]]. La versión pública puede presentarlo como una tragedia institucional, pero la verdad narrativa debe ser más sucia: Keene probablemente estaba coludido, aceptó demasiadas concesiones y se volvió un problema.
 
+**Canon de apertura:** la mañana del Capítulo 2, Cole despierta con el titular: Keene fue encontrado en Plaza Corona, sentado en una banca como si estuviera dormido, ejecutado con tres tiros.
+
+El día anterior, Keene había recibido a [[02_Characters/Cole_Mercer]] para oír una propuesta de renta mensual de mantenimiento y reparaciones financiadas para unidades del Departamento. Aceptó un piloto parcial antes de morir.
+
 Su muerte sirve para presentar la cara de Valcora:
 
 > Si un jefe de policía deja de ser útil, también puede convertirse en mensaje.

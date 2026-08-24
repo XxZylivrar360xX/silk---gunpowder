@@ -112,6 +112,8 @@ Dentro de la policía local, Luis es Detective 1 / Homicidios: el principal anta
 
 Al inicio, la relación es de ceguera práctica: una grúa con convenio municipal parece una herramienta del orden, no un vector criminal.
 
+En el primer capítulo, [[02_Characters/Cole_Mercer]] se reúne muy temprano con [[02_Characters/Raymond_Keene]] para proponer un acuerdo de renta mensual: mantenimiento preventivo, prioridad de reparación y reparaciones financiadas a noventa días para unidades de la comisaría. Keene acepta un piloto parcial. La utilidad real para Cole no es sólo el ingreso: una patrulla entrando al taller cada semana vuelve normal que Almendra Towing esté cerca del Departamento.
+
 Después pasa a negociación indirecta: Cole puede darles casos, coches, culpables menores, información parcial. Chiara puede decidir qué arresto conviene que parezca importante.
 
 El Departamento cree que usa a Cole como fuente. Cole cree que usa al Departamento como válvula. Chiara sabe que la ciudad cree lo que vea impreso al día siguiente.

@@ -93,8 +93,13 @@ Material base: H8, formalizacion pendiente, primera Navidad/collar, mudanza, cla
 
 ## Capítulos en montaje
 
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]] — Capítulo 1 provisional. Instala el día normal de Cole en La Almendra con circuito de negocios: Il Gelsomino, taller/autopartes, Lote Almendra, panteón, Mabel, casa común, Matteo Bellacorte como bisagra, la llegada de Chiara y el primer apretón de manos.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]] — Capítulo 1 provisional ampliado. Instala el día normal de Cole en La Almendra con circuito de negocios: reunión temprana con Raymond Keene en el Departamento, Il Gelsomino, taller/autopartes, Lote Almendra, panteón, Mabel, casa común, Matteo Bellacorte como bisagra, llegada de Chiara, reunión interna del Monarch con Dario, primer apretón de manos, reunión formal con Cole, rechazo por "demasiado listo" y cierre paralelo de radar mutuo.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Los_Viejos_Dias]] — Capítulo 2 provisional. Abre con el titular de Keene ejecutado en Plaza Corona; Cole y Héctor reciben a Walt al salir de prisión; Cole conoce a Harper en una cafetería del norte; los tres hombres prometen traer de vuelta los viejos días renovados; Chiara propone torneos de poker, choca con Tommaso y conoce a Blake en el centro.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_La_Primera_Llamada]] — Capítulo 3 provisional. Blake exhibe a Chiara en La Isla; Matteo la llama por un problema de estacionamiento; Chiara llama a Cole por primera vez y él resuelve el retiro de un Mercedes sin convertirlo en escándalo del casino.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/04_La_Casa_No_Quiere_Ruido]] — Capítulo 4 provisional. La factura enseña que Cole entiende el relato; los favores se vuelven cadena; Chiara administra cuándo llamar y cuándo no; Tommaso roza el pasado de Alessio; nace la excusa cotidiana de pasar por el Monarch.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/05_Una_Amiga]] — Capítulo 5 provisional. Ejecuta H2-a: Rocco aprende a dar la pata, camioneta rentada, terraza de Il Gelsomino, Nadir/Danny detectan a Cole demasiado arreglado y ninguno llama cita a la noche.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/06_Ambos]] — Capítulo 6 provisional. Ejecuta H2-b: nace la costumbre de contarse el día, reto del penthouse, hamburguesas/malteadas, hierba, canciones, calavera, silencios cómodos, habitación separada, primer tú y choque de puños.
 
 ## Proximo paso
 
-Auditar el Capítulo 1 provisional contra [[12_Craft_Policies/Redaccion_De_Capitulos]] y decidir si la reunión con los socios continúa en el Capítulo 2 o si entra como segunda mitad ampliada del Capítulo 1.
+Auditar Capítulos 1-2 contra [[12_Craft_Policies/Redaccion_De_Capitulos]] y revisar ritmo de lectura EPUB después de la expansión.

@@ -23,6 +23,8 @@ El barrio le debe favores. Chiara lo ama. Los chicos lo siguen. **Navarro simple
 
 Peso temático: Cole fue comprado por una familia y se construyó una. Navarro es la prueba adulta de eso, y el espejo de lo que Cole hace con Marisol.
 
+En el taller, Héctor funciona como filtro humano: Cole puede delegarle el visto bueno de quién sirve para trabajar y quién no. Garrett puede ordenar papeles y nóminas, pero si Héctor dice que alguien no pasa del portón, Cole lo respeta.
+
 ---
 
 ## Lo que ya hizo en canon

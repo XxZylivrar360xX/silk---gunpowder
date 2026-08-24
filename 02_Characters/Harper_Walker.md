@@ -38,6 +38,7 @@ La instruye, le enseña trucos para conducir, leer terreno, perder patrullas, en
 Lo que opera hoy:
 
 - Trabaja con ganado en el norte rural de San Aurelio.
+- Entra primero en escena como chica seria que atiende la barra de comida rápida en una cafetería del norte; no intenta caer bien, lee clientes como si fueran motores con ruido raro y dice de Keene que matarlo en la plaza fue "decirle a todo el mundo dónde puede sentarse".
 - Entra al radio de Cole cuando él compra, usa o absorbe esa propiedad.
 - Cole detecta que sabe moverse en terreno difícil y empieza a enseñarle conducción práctica.
 - Se vuelve una protegida operativa: alguien a quien Cole forma con sus propios trucos.

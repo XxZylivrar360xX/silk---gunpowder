@@ -19,7 +19,26 @@ Decisiones compactas para relevo. No reemplaza `log.md`.
 - Matteo Bellacorte queda fijado como el socio del Monarch que abre H2: conoce a Cole durante el dia y lo cita esa noche para presentarlo a los socios.
 - El primer capitulo provisional existe en `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable.md`.
 - El arranque alterna el dia normal de Cole en La Almendra, su circuito de negocios, su visita a la tumba de Michael, la llegada de Chiara a Kingsley Field y el primer apreton de manos en el Monarch.
-- Orden canon del circuito diurno de Cole en Capitulo 1: Il Gelsomino, taller/autopartes, Lote Almendra, panteon, La Esquina de Mabel, Casa Comunitaria de La Almendra, Peugeot al Monarch.
+- Orden canon del circuito diurno de Cole en Capitulo 1: reunion temprana con Raymond Keene/Departamento por contrato mensual de mantenimiento policial, Il Gelsomino, taller/autopartes, Lote Almendra, panteon, La Esquina de Mabel, Casa Comunitaria de La Almendra, Peugeot al Monarch.
+- La reunion con los socios del Monarch queda dentro del Capitulo 1 ampliado, no como Capitulo 2: primero reunion interna con Dario sin Cole, luego primer apreton de manos, reunion formal con Cole y rechazo por "demasiado listo".
+- Nadir queda informado explicitamente de que Cole va al Monarch esa noche; no conoce los detalles del negocio, pero si el nombre del casino y que Matteo lo invito.
+- El cierre del Capitulo 1 queda paralelo: Cole en el catre del despacho del taller y Chiara en la tina del penthouse registran al otro como dato/radar mutuo, no como inicio consciente de romance.
+- El EPUB omite `00_Front_Matter` por defecto cuando ya hay capitulos, filtra comentarios HTML, usa TOC nivel 1 y CSS menos comprimido.
+- Dario se retira de la reunion interna del Monarch por una diligencia en el centro; no esta presente en la reunion formal con Cole. El Capitulo 2 cobra el guino con el titular de Keene ejecutado en Plaza Corona.
+- Capitulo 2 provisional creado: [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Los_Viejos_Dias]].
+- Keene aparece muerto con tres tiros, sentado en una banca de Plaza Corona aparentando estar dormido; Cole lo lee como cambio de presion de la ciudad.
+- Walt sale de prision en Capitulo 2; quiere cuidar su libertad condicional y mantenerse legal, pero respondera si hay problema. Con Cole y Hector promete traer de vuelta los viejos dias de La Almendra renovados y con sangre nueva.
+- Harper entra primero como la chica seria de barra en una cafeteria del norte; Cole registra su lectura de la muerte de Keene.
+- Chiara propone torneos de poker para flujo/blanqueo con 10% limpio para el casino; roza con Tommaso y conoce a Blake en una cafeteria del centro. Acepta una fiesta para recuperar vibra de salidas de Palermo/Nueva York, no por eleccion profunda de Blake.
+- Capitulos 3-6 provisionales creados para construir el avance temprano de Cole/Chiara: primer favor bajo la mesa, cadena de favores, primera cena H2-a y penthouse H2-b.
+- El primer favor de Chiara a Cole es llamar por el Mercedes de Varga en el estacionamiento de empleados; Cole lo resuelve con grua y factura ensenable.
+- La cadena de favores se vuelve costumbre de pasar por el Monarch con excusas de trabajo; Chiara intenta pagar y aceptar favores le cuesta.
+- H2-a queda en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/05_Una_Amiga]]: Rocco, camioneta rentada, terraza de Il Gelsomino, Nadir/Danny detectan a Cole arreglado y con fragancia.
+- H2-b queda en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/06_Ambos]]: hamburguesas, malteadas, hierba, canciones, calavera, habitaciones separadas y choque de punos.
+- Paso del usted al tu resuelto provisionalmente al final de Capitulo 6 con la linea canon "Eres increible / Ambos somos increibles".
+- Garrett Cross ya orbita a Cole desde la etapa temprana de Almendra Towing: ayuda con nominas, papeles limpios y contratacion; en Capitulo 1 esta de vacaciones y Cole ya hablo con el para buscar turno nocturno al volver.
+- Hector Navarro es el filtro humano del taller: Garrett puede preparar papeles/nominas, pero Hector decide si alguien sirve para el puesto o no. Cole respeta ese visto bueno.
+- Cole confia en Garrett al nivel de confiarle su vida por lo vivido junto a Russell y Garrett; no es solo "un hombre que cuenta dinero ajeno".
 - Fabrizio Rinaldi y Tommaso Lusardi son nombres provisionales para dos socios definidos por funcion: viejo amigo italiano de Chiara y hermano de Alessio Lusardi.
 - Dario Valcora aparece desde el primer capitulo provisional; H3-b deja de ser su primera aparicion si se conserva este montaje.
 - `12_Craft_Policies/` queda expandido con la arquitectura rescatada de *Memories Of A Ghost*: `revelations/`, `milestones/`, `dialogue_rules/`, `staging_rules/`, README con precedencia y plantilla de voz ampliada.
