@@ -118,5 +118,5 @@ Convención de marcado, y hay que respetarla siempre: **CANON DEL AUTOR** es int
 - **Fase:** cimientos avanzados. Sin prosa todavía.
 - **Nombres confirmados (2026-08-23):** el título *Seda y Pólvora*, **Cole Mercer**, **Chiara Ardizzone Bellandi**, **San Aurelio, California**. No queda ningún provisional.
 - **Hitos canon recibidos:** H2 (el encuentro y la cadena de favores), H2-a (la primera cena), H2-b (la noche que todo cambió), H3 (la noche del ladrillo), H4 (el día nublado), H9 (la carrera de máscaras), H5-H8 (arco de la tensión: hipódromo, pacto, río, incendio/villa), H1 (el regreso a casa — clímax).
-- **Lo que más falta:** personajes que ya son canon y no tienen ficha — el socio del casino, el equipo mínimo de El Faro y el contacto ruso. También falta la facción formal de Dario y el conflicto que haga creer al lector que esto se acaba.
+- **Lo que más falta:** personajes que ya son canon y no tienen ficha — el socio del casino y el equipo mínimo de El Faro. También falta la facción formal de Dario, fijar cuáles momentos de fractura entran como hitos numerados, y cerrar pendientes operativos de Anya/Monarch/norte rural.
 - **Última actualización:** 2026-08-23

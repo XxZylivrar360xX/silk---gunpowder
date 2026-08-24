@@ -1145,3 +1145,137 @@ Se instaló la fe católica de Chiara como eje íntimo y ritual, no como adorno 
 - [[05_Locations/Iglesia_Santa_Lucia]] queda como parroquia católica antigua de San Aurelio, en frontera entre Calle Corona y barrios bajos.
 
 **Archivos tocados:** `04_Concepts/Fe_y_Velas.md` (nuevo), `05_Locations/Iglesia_Santa_Lucia.md` (nuevo), `02_Characters/Chiara_Bellandi.md`, `02_Characters/Cole_Mercer.md`, `06_Relationships/Cole_y_Chiara.md`, `06_Relationships/Hitos.md`, `05_Locations/San_Aurelio.md`, `05_Locations/Vida_Civil_de_San_Aurelio.md`, `00_Biblia/Temas.md`, `INDEX.md`.
+
+## Sesión 2026-08-23 (32) | Mapa operativo de San Aurelio
+
+Se creó [[05_Locations/Mapa_Operativo_de_San_Aurelio]] para pasar del mapa moral de la ciudad a una geografía utilizable en escena.
+
+**Nuevo canon instalado:**
+
+- San Aurelio queda orientada con el Pacífico al oeste, Calle Corona en el centro viejo, La Almendra al este bajo, los barrios conflictivos al sur, Cuesta Bonita en la colina noreste, Los Álamos al norte industrial, Rutas de Milla en el borde rural/aeropuerto y las cascadas fuera del territorio de todos.
+- Se fijaron rutas principales de trabajo: CA-19 / Autopista Costera, Bulevar Corona, Avenida Almendra, Terminal Road, Vía de las Refinerías, Carretera de Milla, Ronda Exterior, Subida de Cuesta, Canal Road y Camino Santa Lucía.
+- Se añadieron tiempos narrativos aproximados entre lugares clave: Almendra, casino, hospital, hipódromo, puerto, La Villa, Rutas de Milla, La Isla, cascadas y complejo militar.
+- Se definieron puntos de cierre para policía, puerto, costa, sur, La Almendra, Cuesta Bonita y rutas rurales.
+- Se ordenaron rutas de El Patio por fases y rutas de Dario Valcora por tipo de poder.
+- Se propuso ubicación para lugares pendientes: casino, Il Gelsomino, Gabriella's, hipódromo, taller del norte, mansión de Valcora, cascadas, complejo militar, La Esquina de Mabel, tienda de máscaras y La Villa.
+
+**Regla nueva:** no hay persecución ni traslado genérico. Toda escena de movimiento debe tener ruta, visibilidad, cierre posible y ventaja territorial.
+
+**Archivos tocados:** `05_Locations/Mapa_Operativo_de_San_Aurelio.md` (nuevo), `05_Locations/San_Aurelio.md`, `INDEX.md`, `log.md`.
+
+**Pendientes:** confirmar nombre y ubicación exacta del casino; decidir si La Villa queda en Cuesta Bonita o Distrito Marino; nombrar aeropuerto; confirmar nombres definitivos de rutas; dibujar un mapa interno simple cuando el trazado ya no cambie.
+
+## Sesión 2026-08-23 (33) | Monarch, Villa Candelaria y eje norte rural
+
+El autor trajo una propuesta de segunda capa ficticia inspirada en Los Ángeles: conservar textura reconocible de ciudad real, pero crear lugares propios para controlar narrativa, clase social, poder y recorridos.
+
+**Nuevo canon instalado:**
+
+- [[03_Factions/El_Casino]] queda nombrado como **The Monarch Casino & Hotel**. En diálogo: **el Monarch**. Está en el borde del Distrito Marino, tocando La Isla sin pertenecerle, con fachada pública hacia Paseo Pacífica y acceso de servicio hacia Terminal Road.
+- [[05_Locations/El_Penthouse]] está en la Torre Norte del Monarch.
+- [[05_Locations/La_Villa]] queda resuelta como **Villa Candelaria**, en **Lomas de San Jacinto**, la zona residencial del norte dentro de la franja alta de Cuesta Bonita. No es costa de dinero nuevo: es prestigio residencial, privacidad y exposición distinta.
+- Se creó [[05_Locations/Norte_Rural_de_San_Aurelio]] como eje macro: Lomas de San Jacinto, Kingsley Field, Rutas de Milla, Bellandi Ridge, Cedar Flats y Camp Alder.
+- El aeropuerto queda bautizado como **Kingsley Field**, en el borde norte/interior. H9 ocurre en sus vías de servicio, tramos perimetrales y la Carretera de Milla; no en pista activa.
+- Los viñedos de Chiara quedan bautizados como [[05_Locations/Bellandi_Ridge_Vineyards]]. En privado, Chiara puede llamarlos *la tenuta*. Son propiedad legítima vinculada al apellido Bellandi y deben mantenerse separados de El Patio como base criminal.
+- El complejo militar queda bautizado como [[05_Locations/Camp_Alder]], al noreste de San Aurelio. Es la entrada que Cole ofrece a Valcora para sacar armamento largo.
+- El pueblo lejano del norte queda bautizado como [[05_Locations/Cedar_Flats]]. Sus parcelas no explican la cocaína; sirven para cobertura, almacenamiento, discreción, vehículos, químicos o dinero convertido en tierra.
+- [[03_Factions/El_Patio]] queda físicamente ubicado en La Almendra, en Avenida Almendra y Calle Esparza, cerca de la Ronda Exterior y las vías de carga.
+
+**Reglas nuevas:**
+
+- San Aurelio puede inspirarse en Los Ángeles, pero los lugares narrativos principales deben ser ficticios y propios.
+- Bellandi Ridge no debe contaminarse gratis: si alguien lo usa como escondite, amenaza o infraestructura criminal, la escena debe pagar la profanación.
+- Camp Alder cambia la escala de cualquier escena: policía local queda fuera de profundidad; FBI y pasado militar entran naturalmente.
+- El norte rural no es vacío: menos cámaras significa más memoria humana.
+
+**Archivos tocados:** `03_Factions/El_Casino.md`, `05_Locations/La_Villa.md`, `05_Locations/Norte_Rural_de_San_Aurelio.md` (nuevo), `05_Locations/Bellandi_Ridge_Vineyards.md` (nuevo), `05_Locations/Camp_Alder.md` (nuevo), `05_Locations/Cedar_Flats.md` (nuevo), `05_Locations/Mapa_Operativo_de_San_Aurelio.md`, `05_Locations/San_Aurelio.md`, `03_Factions/El_Patio.md`, `03_Factions/Mapa_de_Conflicto_Activo.md`, `02_Characters/Chiara_Bellandi.md`, `03_Factions/Cross_River_Consolidated.md`, `06_Relationships/Hitos.md`, `02_Characters/Dario_Valcora.md`, `05_Locations/El_Penthouse.md`, `INDEX.md`, `log.md`.
+
+**Pendientes:** nombre legal de la sociedad operadora del Monarch; socio italiano que abre H2; carretera interior Lomas/Bellandi/Cedar; taller del norte y dueño; si Harper nació en Cedar Flats o sólo trabaja cerca; primera etiqueta de vino de Chiara; qué parcelas pasan indirectamente por Cross River.
+
+## Sesión 2026-08-23 (34) | Momentos de fractura de la relación
+
+El autor describió tres conflictos intensos de la historia original para adaptarlos a Cole y Chiara. Se creó [[06_Relationships/Momentos_de_Fractura]] como documento separado de [[06_Relationships/Hitos]]: no son todavía hitos numerados, sino fracturas mayores que ponen a prueba la regla dura de que no se separan.
+
+**Nuevo canon de diseño instalado:**
+
+- **F1 - La mentira bajo la lluvia:** Chiara ayuda a Elliot Price, un hombre autista, se sobrecorrige al defenderlo, termina encubriendo el daño a un auto de Cole y le miente. La discusión ocurre bajo la lluvia en [[05_Locations/Bellandi_Ridge_Vineyards]], vestidos para una fiesta importante. Línea adaptada: **No me duele que lo hayas elegido a él. Me duele que me hayas mentido.**
+- **F2 - El destierro de Riley y la muerte de Mei-Lin:** Cole pone a prueba a [[02_Characters/Mei_Lin_Zhao]] y [[02_Characters/Riley_Bennett]]. Mei-Lin deja una duda de lealtad que arrastra a Riley. Mei-Lin es ejecutada y su cuerpo termina en el mar; Riley es enviada al norte, sacada hacia Nueva York y luego Chiara organiza su salida a Italia bajo el alias **Riley Colombo**.
+- **F3 - Los frenos:** Chiara sufre un accidente cuando fallan sus frenos por sabotaje, probablemente ligado al [[03_Factions/Il_Consorzio]]. Queda grave y sufre un paro cardiaco. Cole se quiebra por primera vez y dice **te amo** mientras ella está inconsciente y no puede oírlo.
+
+**Reglas nuevas:**
+
+- Elliot no debe funcionar como obstáculo romántico ni como carga infantil; el daño de F1 es la mentira de Chiara, no él.
+- F2 sólo funciona si Riley y Mei-Lin importan antes. Mei-Lin no puede morir como figurante.
+- F3 no compite con H1: la prepara. Cole dice la verdad cuando Chiara no puede oírla; en H1, Chiara la dice cuando Cole sí puede oírla.
+
+**Archivos tocados:** `06_Relationships/Momentos_de_Fractura.md` (nuevo), `02_Characters/Riley_Bennett.md`, `02_Characters/Mei_Lin_Zhao.md`, `06_Relationships/Cole_y_Chiara.md`, `06_Relationships/Hitos.md`, `INDEX.md`, `log.md`.
+
+**Pendientes:** confirmar Elliot Price; decidir qué auto se daña; quién delata a Chiara; si Mei-Lin traicionó o sólo dejó duda; nombre de la pista clandestina; confirmar Riley Colombo; ejecutor del sabotaje de frenos; secuelas físicas de Chiara.
+
+## Sesión 2026-08-23 (35) | Anya Voronina y Año Nuevo en Washington
+
+El autor añadió una cuarta fractura importante: el Año Nuevo y cumpleaños de Cole, cuando debe viajar a Washington para reunirse con la mujer contacto rusa que consiguió los papeles de Nadir.
+
+**Nuevo canon de diseño instalado:**
+
+- La contacto rusa queda nombrada como [[02_Characters/Anya_Voronina]].
+- Anya fue un amor pasado de Cole durante la época de Afganistán, cuando él no creía en el amor auténtico y leía casi toda relación como transacción.
+- Anya consiguió los papeles de [[02_Characters/Nadir_Amrani]], y ese favor vuelve como deuda.
+- El cumpleaños de Cole queda fijado el **1 de enero**.
+- [[06_Relationships/Momentos_de_Fractura]] suma **F4 - Año Nuevo en Washington**: Cole viaja por deuda justo en el primer Año Nuevo que iba a pasar con Chiara. Ella lo entiende y lo minimiza, pero le rompe el corazón.
+- Ambos pasan Año Nuevo solos: Chiara borracha bailando en el penthouse; Cole en una habitación de hotel en Washington, incapaz de ir a la fiesta o reunirse bien con Anya porque no deja de pensar en la mirada de Chiara.
+- De esa fractura nace el ritual de la vela: Chiara empieza a pedir que Dios lo cuide, le dé buena fortuna y lo traiga de vuelta.
+- Se instaló la escena posterior del día de campo: Cole recuerda que Anya le dijo **"Llegará el día en que llegue la persona que te haga creer"**; Chiara pregunta **"¿Y ahora qué piensas?"**; Cole responde **"Ya llegó"** y la besa.
+
+**Función narrativa:** Anya no es rival romántica barata. Es la prueba de que Cole tuvo una vida afectiva antes de Chiara, pero también de que Chiara es la primera persona que lo hizo creer.
+
+**Archivos tocados:** `02_Characters/Anya_Voronina.md` (nuevo), `06_Relationships/Momentos_de_Fractura.md`, `04_Concepts/Fe_y_Velas.md`, `02_Characters/Cole_Mercer.md`, `02_Characters/Nadir_Amrani.md`, `02_Characters/Chiara_Bellandi.md`, `06_Relationships/Cole_y_Chiara.md`, `06_Relationships/Hitos.md`, `02_Characters/README.md`, `INDEX.md`, `CLAUDE.md`, `log.md`.
+
+**Pendientes:** definir qué favor exacto cobra Anya en Washington; decidir si Chiara y Anya se conocen; fijar si Anya sabe algo de Halbrook o del convoy; decidir cuándo Harper le dice a Chiara que también está preocupada por Cole.
+
+## Sesión 2026-08-23 (36) | Los Tres Días después de la lluvia
+
+El autor aportó desde Descargas `LOS_TRES_DIAS_CONTEXTO.md`, documento de referencia del one-shot original posterior al reclamo bajo la lluvia.
+
+**Acción tomada:**
+
+- Se leyó el documento completo desde `C:\Users\avada\Downloads\LOS_TRES_DIAS_CONTEXTO.md`.
+- Se intentó conservar una copia intacta en `99_Reference/`, pero Windows/Google Drive devolvió acceso denegado al escribir el destino. No se dejó copia parcial.
+- Se creó [[06_Relationships/Los_Tres_Dias]] como adaptación propia para Cole y Chiara.
+
+**Nuevo canon de diseño instalado:**
+
+- Los tres días ocurren después de [[06_Relationships/Momentos_de_Fractura]], F1 - La mentira bajo la lluvia.
+- No son separación formal ni castigo: son reconstrucción de domesticidad.
+- La tesis queda fijada: **regresar no es lo mismo que volver a casa**.
+- Estructura emocional:
+  - **Día 1 - Regresar:** la pregunta invisible es *¿seguimos siendo nosotros?*
+  - **Día 2 - Recordar:** la pregunta invisible es *¿podemos volver a vivir así?*
+  - **Día 3 - Quedarse:** la pregunta deja de ser si volvió y pasa a ser si puede quedarse.
+- Motivos adaptados: **Ya estamos**, **Aquí duermo mejor**, **Todavía hay lugar**, **No era el auto**.
+- La domesticidad queda como acontecimiento: cama, café, desayuno, llaves, distancia física, humor cotidiano y sueño.
+
+**Archivos tocados:** `06_Relationships/Los_Tres_Dias.md` (nuevo), `06_Relationships/Momentos_de_Fractura.md`, `INDEX.md`, `log.md`.
+
+**Pendientes:** decidir si los tres días ocurren en La Casa, el penthouse o Bellandi Ridge; elegir quién dice **Ya estamos**; decidir si **Aquí duermo mejor** aparece literal o queda como subtexto; resolver qué auto se dañó en F1.
+
+## Sesión 2026-08-23 (37) | Bellissima en Villa Candelaria
+
+El autor recuperó una escena doméstica tardía: Chiara bailando **Bellissima** con audífonos en el cuarto de la villa mientras Cole sale de la ducha y la descubre sin que ella se dé cuenta.
+
+**Nuevo canon de diseño instalado:**
+
+- La escena ocurre en [[05_Locations/La_Villa|Villa Candelaria]], antes de dormir.
+- Cole no interrumpe a Chiara: sonríe, se rasca la cabeza y la mira.
+- Cuando ella se da cuenta, ocurre el intercambio:
+  - **Chiara:** ¿Todo bien con la ducha?
+  - **Cole:** Sí, sí, estuvo movida.
+- La broma funciona porque no habla de la ducha, sino de haberla visto bailar.
+- La escena continúa con humor doméstico sobre el short viejo de Cole y sus playeras encogidas.
+- Cierra con:
+  - **Cole:** Descansa, bella.
+  - **Chiara:** Buona notte, amore.
+
+**Función narrativa:** ejemplo de intimidad accidental. Cole ve a Chiara cuando ella no administra ninguna versión de sí misma y no usa esa vulnerabilidad para burlarse ni sexualizarla. Sólo se queda.
+
+**Archivos tocados:** `06_Relationships/Los_Tres_Dias.md`, `05_Locations/La_Villa.md`, `06_Relationships/Cole_y_Chiara.md`, `log.md`.

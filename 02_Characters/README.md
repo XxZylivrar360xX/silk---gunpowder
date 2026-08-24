@@ -15,6 +15,7 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 
 - [[02_Characters/Hector_Navarro]] — figura paterna de Cole y mano derecha.
 - [[02_Characters/Nadir_Amrani]] — mejor amigo de Cole; lo ayudó primero.
+- [[02_Characters/Anya_Voronina]] — contacto rusa de Washington; amor pasado de Cole en Afganistán y deuda por los papeles de Nadir.
 - [[02_Characters/Daniel_Hayes]] — Danny; amigo del barrio y dueño de Rocco.
 - [[02_Characters/Walter_Keegan]] — amigo del padre de Cole, recién salido de prisión.
 - [[02_Characters/Marisol_Grayson]] — hija de Michael; termómetro moral de Cole.
@@ -70,7 +71,7 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 2. ~~**La médica de confianza de Chiara**~~ — resuelta como [[02_Characters/Camila_Rivas]].
 3. **El veterano de El Faro** — treinta años en la redacción; conciencia del edificio.
 4. **La joven periodista de El Faro** — aprendiz/instrumento de Chiara; posible espejo futuro.
-5. **El contacto ruso** — consiguió los papeles de Nadir; deuda pendiente.
+5. ~~**El contacto ruso**~~ — resuelta como [[02_Characters/Anya_Voronina]].
 6. ~~**La persona que lleva las cuentas en Almendra Towing**~~ — resuelto a escala de organización en [[02_Characters/Garrett_Cross]]. No es contador del taller, sino administrador financiero de activos.
 7. **Propiedad rural del norte** — vinculada a Harper y al taller/carreras.
 8. **Banda rival desintegrada** — origen de Mei-Lin y Riley.
@@ -82,7 +83,7 @@ Antes de pasar a los momentos de tensión fuertes de la pareja, conviene crear e
 1. Socio del casino.
 2. Veterano de El Faro.
 3. Joven periodista de El Faro.
-4. Contacto ruso.
+4. ~~Contacto ruso.~~ Resuelto: [[02_Characters/Anya_Voronina]].
 5. Propiedad rural del norte.
 6. Banda rival desintegrada.
 7. Definir apoyo administrativo menor de Almendra, si hace falta alguien debajo de Garrett.
