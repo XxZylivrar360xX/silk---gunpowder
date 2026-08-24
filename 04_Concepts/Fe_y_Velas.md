@@ -39,6 +39,28 @@ La oración no necesita escribirse completa cada vez. La frase interna del ritua
 
 **Esto no es superstición.** Para Chiara, la vela no garantiza nada. La vela es su manera de no fingir que no tiene miedo.
 
+### Origen
+
+El ritual nace después de [[06_Relationships/Momentos_de_Fractura]], **F4 - Año Nuevo en Washington**.
+
+Cole viaja a Washington, D.C. para reunirse con [[02_Characters/Anya_Voronina]], la contacto rusa que consiguió los papeles de [[02_Characters/Nadir_Amrani]]. Lo hace por deuda, en Año Nuevo y cumpleaños suyo, justo cuando Chiara esperaba pasar con él su primer Año Nuevo juntos.
+
+Chiara entiende la razón. Ese es el problema: la entiende y aun así le duele.
+
+La primera vela no nace de una escena limpia ni tranquila. Nace de impotencia, de amor, de daño y de una frase que todavía no tiene la forma final de H1:
+
+> que Dios lo cuide;
+>
+> que tenga buena fortuna;
+>
+> que vuelva.
+
+Con el tiempo, la petición se concentra:
+
+> **Dios, cuídalo y tráelo a casa.**
+
+**Regla:** la primera vela debe escribirse con la herida todavía abierta. Si parece un ritual bonito desde el principio, está mal.
+
 ---
 
 ## El ritual de Cole
@@ -114,7 +136,7 @@ La vela existe en ese hueco.
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** decidir cuál es la primera escena donde el lector ve a Chiara encender la vela.
+> **RESUELTO DE DISEÑO (2026-08-23):** la primera vela nace después de F4, el Año Nuevo en Washington. Ver [[06_Relationships/Momentos_de_Fractura]].
 
 > **PENDIENTE:** decidir cuál es la primera vez que Cole la ve hacerlo y no sabe qué decir.
 

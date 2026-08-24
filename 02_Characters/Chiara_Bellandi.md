@@ -56,6 +56,8 @@ Cada vez que Cole sale a "trabajar", ella detiene lo que estaba haciendo y encie
 
 **Regla:** la vela no lo absuelve a él ni la absuelve a ella. Sólo revela cuánto cuesta esperar.
 
+El ritual nace después del Año Nuevo en Washington: la noche en que Cole viaja por una deuda con [[02_Characters/Anya_Voronina]] y Chiara entiende, con demasiada claridad, que amarlo también significa verlo elegir obligaciones que lo destruyen. Ver [[06_Relationships/Momentos_de_Fractura]], F4.
+
 ### Su función en la novela: no dejar que Cole se borre
 
 Si hubiera que reducir a Chiara a un solo movimiento repetido, es éste: **Cole se quita a sí mismo del cuadro, y ella lo devuelve.**
@@ -163,6 +165,8 @@ La mandan. No huye — o al menos ésa es la versión, y la versión la escribi�
 
 Lo que no estaba en las instrucciones: que la ciudad tuviera un diario viejo, moribundo y todavía creído, y que nadie se hubiera dado cuenta de lo que eso vale. **El casino es de otros; el diario va a ser suyo.** Ése es su arco entero, dicho en propiedad. Ver [[03_Factions/El_Faro]].
 
+Más adelante, cuando San Aurelio deja de ser sólo encargo y se vuelve elección, aparece [[05_Locations/Bellandi_Ridge_Vineyards]]: los viñedos de Chiara en la ladera norte. No son la base criminal de Cole ni una simple fachada. Son el apellido Bellandi convertido en tierra, una forma de decir que ella también puede construir algo que no dependa de instrucciones ajenas.
+
 ---
 
 ## Método: cómo crece
@@ -201,6 +205,7 @@ Ahí es donde supera a Cole en escala. Él acumula deudas, nombres y rutas hasta
 - **Se queda.** Es la regla que manda sobre todas las demás. Cuando ya eligió, permanece — y ninguna escena puede contradecir eso sin que sea el acontecimiento del capítulo.
 - **En privado llama al núcleo joven de Cole "los niños del Patio".** No es un nombre público ni una broma cruel: es la forma en que los integra a su mapa afectivo sin dejar de verlos con precisión.
 - **Enciende una vela cada vez que Cole sale a trabajar.** No es superstición ni decoración: es su manera de pedir que vuelva a casa. Ver [[04_Concepts/Fe_y_Velas]].
+- **Bellandi Ridge no se contamina gratis.** Si alguien usa sus viñedos como escondite, amenaza o infraestructura criminal, debe sentirse como una profanación de algo suyo.
 
 ---
 
@@ -228,8 +233,10 @@ Guardarraíles. Si un borrador la empuja hacia aquí, está mal escrita:
 - **[[02_Characters/Dario_Valcora]]** — su jefe. Cabeza de la mafia de la ciudad y socio mayoritario del casino. La ve como un activo político reemplazable.
 - **[[02_Characters/Andrew_Callahan]]** — agente especial supervisor del FBI. Entra cuando la organización de Cole escala a nivel internacional; representa una herida federal anterior aunque quizá no la haya causado personalmente.
 - **[[02_Characters/Garrett_Cross]]** — administrador financiero de El Patio. Colabora con ella en el casino para que el dinero tenga una versión pública creíble.
+- **[[02_Characters/Anya_Voronina]]** — contacto rusa de Cole y amor pasado de Afganistán. No es rival simple; es la prueba de que Chiara no fue la primera mujer que conoció a Cole, sino la primera que lo hizo creer.
 - **[[03_Factions/Cross_River_Consolidated]]** — estructura financiera que necesita de su talento para el relato: no basta mover dinero, hay que hacerlo parecer inevitable.
 - **[[03_Factions/Red_Civil_de_Chiara]]** — su red de chismes e información dirigida. No es una red formal de espías; es la ciudad civil hablando antes de convertirse en noticia o expediente.
+- **[[05_Locations/Bellandi_Ridge_Vineyards]]** — sus viñedos en el norte. Propiedad legítima, apellido materno hecho lugar y puente hacia el mundo rural de San Aurelio.
 - **[[02_Characters/Mabel_Ortiz]]** — mujer mayor, dueña de tienda/cafetería y nodo principal de la red civil. Le da detalles, no conclusiones.
 - **[[02_Characters/Blake_Stanton]]** — con quien sale al llegar a la ciudad. Rubio, ojos azules: el hombre equivocado con la cara correcta.
 - **[[02_Characters/Camila_Rivas]]** — su médica de confianza. Atiende fuera de los registros cuando la razón moral o la deuda lo justifican, y le contesta el teléfono a Chiara a cualquier hora. Es quien mantiene vivo a Cole en [[06_Relationships/Hitos]], H1, y por lo tanto **la prueba de que la red de Chiara es infraestructura real y no contactos sociales.**

@@ -9,7 +9,7 @@
 **Oficio:** corredora callejera; aprendiz operativa de lectura de escenarios.
 **Rol:** secundaria importante; protegida de Chiara.
 **Alias:** pendiente.
-**Estado:** viva.
+**Estado:** viva al abrir; exiliada bajo identidad nueva si se canoniza F2.
 
 ---
 
@@ -47,6 +47,7 @@ Lo que opera hoy:
 - Se integra a la organización junto con Mei-Lin.
 - Se acerca a Chiara y termina bajo su protección.
 - Su arco apunta a un futuro mejor lejos de la calle.
+- En [[06_Relationships/Momentos_de_Fractura]], F2, Cole la destierra para salvarle la vida: sale hacia Nueva York y después Chiara organiza su llegada a Italia bajo el alias **Riley Colombo**.
 
 ---
 
@@ -69,6 +70,7 @@ Ese aprendizaje la vuelve peligrosa de una forma nueva: una corredora que aprend
 - **Su relación principal es con Chiara.** Cole puede proteger la estructura; Chiara la forma.
 - **No debe romantizarse su pasado callejero.** Salir de ahí cuesta.
 - **No es sombra de Chiara.** Su arco propio tiene que pesar aunque Chiara sea su instructora.
+- **Si vive, paga el precio de desaparecer.** El exilio no es premio: es supervivencia con pérdida de nombre, ciudad y vínculo cotidiano con Chiara.
 
 ---
 
@@ -91,6 +93,8 @@ Ese aprendizaje la vuelve peligrosa de una forma nueva: una corredora que aprend
 > **PENDIENTE:** qué situación difícil reconduce por primera vez usando lo que Chiara le enseñó.
 
 > **PENDIENTE:** si Mei-Lin quiere salir también o si eso crea tensión entre ellas.
+
+> **PENDIENTE:** confirmar si **Riley Colombo** queda como alias definitivo en Italia.
 
 ---
 

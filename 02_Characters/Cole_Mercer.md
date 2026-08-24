@@ -6,6 +6,7 @@
 
 **Nacionalidad:** estadounidense (nacimiento fuera del país, sin registro fiable)
 **Edad al abrir la novela:** 31
+**Cumpleaños:** 1 de enero.
 **Oficio:** mecánico y operador de grúas — dueño de [[03_Factions/Almendra_Towing]]
 **Rol:** protagonista. El que toma el territorio.
 **Alias:** *el Gancho* (como lo llama la calle) · *el camaleón* (como se llama él, una sola vez, y sólo delante de ella)
@@ -141,11 +142,11 @@ En prisión conoce a **Nadir Amrani** — que en ese momento **no era soldado ni
 
 **Y fue Nadir quien lo ayudó a salir.**
 
-En agradecimiento, Cole lo ayudó a **entrar a Estados Unidos**, consiguiéndole papeles **con ayuda de un contacto ruso**. Los dos regresan a San Aurelio.
+En agradecimiento, Cole lo ayudó a **entrar a Estados Unidos**, consiguiéndole papeles **con ayuda de [[02_Characters/Anya_Voronina]]**, una contacto rusa de su época de Afganistán. Los dos regresan a San Aurelio.
 
 > **DISEÑO:** ésta es la única relación importante de la vida de Cole donde **el favor lo recibió él primero.** Todas las demás empiezan con Cole dando; ésta empieza con Cole debiendo — y pagándolo entero. Por eso Nadir no le debe nada, y por eso es su mejor amigo.
 
-> **PENDIENTE, PRIORITARIO:** el contacto ruso. Nombre, y qué le costó ese favor a Cole. En este libro las deudas vuelven.
+> **RESUELTO DE DISEÑO (2026-08-23):** la contacto rusa es [[02_Characters/Anya_Voronina]]. Lo que le costó vuelve en [[06_Relationships/Momentos_de_Fractura]], F4: Año Nuevo en Washington.
 
 ### El regreso, y Michael
 
@@ -239,6 +240,7 @@ Guardarraíles. Si un borrador lo empuja hacia aquí, está mal escrito:
 - **[[02_Characters/Dario_Valcora]]** — la cima del poder criminal de la ciudad. **Cole entra a su organización** en [[06_Relationships/Hitos]], H6 — para proteger a Chiara, y para comérsela desde dentro.
 - **[[02_Characters/Walter_Keegan]]**, *Walt* — amigo de su padre. Lo conoció de niño. Uno de los dos únicos hombres del libro que **no le deben nada**. Sale de prisión al empezar la novela, tras diez años que le armó Silas Crowe.
 - **[[02_Characters/Nadir_Amrani]]** — su mejor amigo. Se conocieron **en prisión**: Nadir era un mercader acusado de robo, y **fue quien lo ayudó a salir**. Una de las pocas relaciones de su vida que no empezó con un favor. Uno de los dos que lo ven perfumado y nervioso en [[06_Relationships/Hitos]], H2-a.
+- **[[02_Characters/Anya_Voronina]]** — contacto rusa y amor pasado de la época de Afganistán. Consiguió los papeles de Nadir y representa la versión de Cole que todavía no creía en el amor auténtico.
 - **[[02_Characters/Daniel_Hayes|Daniel "Danny" Hayes]]** — del barrio, dueño del perro al que Cole le enseñó a dar la pata. El otro testigo de H2-a.
 - **[[02_Characters/Marisol_Grayson]]** — hija de [[02_Characters/Michael_Grayson]]. Cole se hizo cargo de ella cuando su padre murió. Estudia y reside en la universidad. **Su conciencia con piernas.**
 - **[[02_Characters/Michael_Grayson]]** (†) — viejo amigo del ejército, retirado. Muere de cáncer poco después de que Cole vuelva. Le deja a su hija.

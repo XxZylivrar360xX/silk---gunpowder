@@ -712,7 +712,7 @@ Las máscaras son prácticas, no románticas: sirven para cubrir sus identidades
 
 ## La carrera
 
-Van a la zona del **aeropuerto**, donde empieza una **carrera callejera ilegal**.
+Van a la zona de **Kingsley Field**, el aeropuerto del norte/interior de San Aurelio, donde empieza una **carrera callejera ilegal** por las carreteras perimetrales y la Carretera de Milla.
 
 Es divertido y arriesgado. La policía se involucra. La persecución escala, pero Cole logra zafarse por la velocidad del coche y por conocer mejor la calle que quien lo persigue.
 
@@ -754,7 +754,7 @@ Esa sonrisa es el centro del hito.
 
 > **PENDIENTE:** nombre y ubicación de la tienda de máscaras.
 
-> **PENDIENTE:** precisar la zona del aeropuerto: si es una vía de servicio, una pista abandonada, un tramo industrial o una carretera perimetral.
+> **RESUELTO DE DISEÑO (2026-08-23):** la carrera ocurre alrededor de **Kingsley Field**, en vías de servicio, tramos perimetrales y la Carretera de Milla. No usan pista activa.
 
 > **PENDIENTE:** qué máscara elige cada uno. No es color superficial: dice qué versión se permiten usar esa noche.
 
@@ -901,7 +901,7 @@ Justo después de entregarle el loft terminado.
 - la historia de **la cicatriz que le cruza la mejilla derecha**;
 - **lo de los niños, y que por eso cayó en prisión.**
 
-Y el resto de esa historia: **fue Nadir quien lo ayudó a salir.** En agradecimiento, Cole lo ayudó a entrar a Estados Unidos, **con ayuda de un contacto ruso** que le consiguió papeles.
+Y el resto de esa historia: **fue Nadir quien lo ayudó a salir.** En agradecimiento, Cole lo ayudó a entrar a Estados Unidos, **con ayuda de [[02_Characters/Anya_Voronina]]**, la contacto rusa que le consiguió papeles.
 
 > **Y esa noche, sin quererlo, crea un arco en cascada.**
 
@@ -913,7 +913,7 @@ Y el resto de esa historia: **fue Nadir quien lo ayudó a salir.** En agradecimi
 
 > **PENDIENTE:** la historia de la cicatriz de la mejilla derecha.
 
-> **PENDIENTE, PRIORITARIO:** el contacto ruso. Es un hilo suelto con nombre pendiente y con deuda pendiente — y en este libro las deudas vuelven.
+> **RESUELTO DE DISEÑO (2026-08-23):** la contacto rusa es [[02_Characters/Anya_Voronina]]. La deuda vuelve en [[06_Relationships/Momentos_de_Fractura]], F4 - Año Nuevo en Washington.
 
 ---
 
@@ -1067,7 +1067,7 @@ Y por el camino Cole encuentra el modo de salvar también a Nadir.
 
 **Cole ofrece trabajar para Valcora, como parte de la organización.** A cambio: **seguridad para Chiara.**
 
-Y trae con qué pagarlo — **el medio para conseguir lo que Halbrook maneja**: una **entrada al complejo militar** donde los civiles no tienen acceso, para sacar armas y venderlas en la ciudad. **Armamento largo**, que a Valcora le sirve.
+Y trae con qué pagarlo — **el medio para conseguir lo que Halbrook maneja**: una **entrada a [[05_Locations/Camp_Alder]]**, el complejo militar donde los civiles no tienen acceso, para sacar armas y venderlas en la ciudad. **Armamento largo**, que a Valcora le sirve.
 
 **Valcora acepta**, y con eso **desvía momentáneamente la atención de Chiara.**
 
@@ -1135,7 +1135,7 @@ Y ahí **le cuenta todo lo sucedido.**
 
 ## Pendientes de H6
 
-> **PENDIENTE:** el complejo militar necesita entrada en `05_Locations/`. Y decidir dónde está.
+> **RESUELTO DE DISEÑO (2026-08-23):** el complejo militar es [[05_Locations/Camp_Alder]], al noreste de San Aurelio, más allá de Kingsley Field.
 
 > **PENDIENTE:** ¿qué gana Halbrook exactamente con que Cole vuelva? Y qué relación real tiene con Valcora, si es que la tiene.
 
@@ -1577,12 +1577,12 @@ Regla de [[06_Relationships/Cole_y_Chiara]]: lo que los salva siempre es algo qu
 - **La formalización** — incómoda y graciosa, nunca solemne. Fase 3-bis.
 - **El paso del usted al tú.** Umbral, no descuido. Ver H2.
 - **La primera Navidad y el collar.** Obligatorio: es donde nace el ritual que sostiene H1, y es la única vez en su vida adulta que Cole acepta un regalo sin convertirlo en transacción.
-- **La primera vela.** Obligatorio: primera vez que el lector ve a Chiara detenerlo todo para pedir que Dios cuide a Cole y lo traiga a casa.
+- **La primera vela.** **Resuelta de diseño:** nace después de [[06_Relationships/Momentos_de_Fractura]], F4, el Año Nuevo en Washington. Falta escribir la escena exacta.
 - **La mudanza.** Cuándo y cómo Chiara pasa a vivir en [[05_Locations/La_Casa]]. Para estos dos, mudarse pesa más que casarse.
 - **Las clases de italiano** — canon obligatorio, porque H1 las cobra. Domésticas, repetidas, cómicas.
 - **La reparación** — Fase 5.
 
-> **PENDIENTE, PRIORITARIO:** el conflicto que hace creer al lector, de verdad, que esto se acaba. Sin al menos uno, la regla dura no vale nada.
+> **PARCIALMENTE RESUELTO (2026-08-23):** los conflictos que hacen creer al lector que esto puede acabarse están diseñados en [[06_Relationships/Momentos_de_Fractura]]. Falta decidir cuáles entran como hitos numerados y en qué fase exacta caen.
 
 ---
 

@@ -12,6 +12,8 @@
 
 Y van a pasar por cosas que tensen la relación hasta lo indecible. Ésa es la gracia.
 
+Los conflictos mayores que casi lo rompen todo están ordenados en [[06_Relationships/Momentos_de_Fractura]]: la mentira bajo la lluvia, el Año Nuevo en Washington, los frenos y el destierro de Riley con la muerte de Mei-Lin.
+
 ### Qué implica, en la práctica
 
 - **El lector sí tiene que creer que van a separarse.** Varias veces, y de verdad. La regla dura es sobre lo que ocurre, no sobre lo que se teme: hay conflictos que parecen terminales y tienen que doler como terminales. Lo que no puede pasar es que se separen.
@@ -167,6 +169,8 @@ Las primeras veces de cada gesto doméstico traen esa doble capa: la comodidad e
 
 **Y desaparece.** Con la repetición, la incomodidad se gasta y queda sólo la comodidad. Que se gaste **es el progreso de la relación medido en página** — y es también, mucho después, exactamente lo que van a echar de menos.
 
+Un ejemplo tardio en [[05_Locations/La_Villa|Villa Candelaria]]: Chiara baila **Bellissima** con audifonos mientras Cole sale de la ducha y la ve sin que ella lo sepa. No la interrumpe, no la sexualiza, no se burla cruelmente. Sonrie, se rasca la cabeza y se queda. Cuando ella pregunta si todo bien con la ducha, el contesta: **"Si, si, estuvo movida."** Esa escena es intimidad accidental: ser visto sin haber decidido mostrarse, y descubrir que el otro se queda.
+
 ---
 
 ## El encuentro — la clave de la dama y el vagabundo
@@ -230,6 +234,8 @@ Cada vez que él sale a "trabajar", ella enciende una vela. La petición es simp
 > **Dios, cuídalo y tráelo a casa.**
 
 Este ritual no compite con el collar. Lo sostiene.
+
+**Origen:** nace después de F4, el Año Nuevo en Washington. Chiara enciende la primera vela no porque todo esté bien, sino porque ya entendió que habrá noches en que amar a Cole signifique esperar sin poder controlar nada.
 
 | La vela | El collar |
 |---|---|

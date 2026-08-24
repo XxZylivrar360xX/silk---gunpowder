@@ -9,7 +9,7 @@
 **Oficio:** corredora callejera; operadora de rutas pendiente.
 **Rol:** secundaria; núcleo de la organización.
 **Alias:** pendiente.
-**Estado:** viva.
+**Estado:** viva al abrir; candidata a morir ejecutada en F2.
 
 ---
 
@@ -39,6 +39,7 @@ Lo que opera hoy:
 - Esa banda se desintegró.
 - Se integra a la organización de Cole junto con Riley Bennett.
 - Su entrada conecta el circuito de carreras con la expansión de Almendra Towing.
+- En [[06_Relationships/Momentos_de_Fractura]], F2, su lealtad dudosa arrastra a Riley y la convierte en la muerte que marca una frontera moral para El Patio.
 
 ---
 
@@ -59,6 +60,7 @@ Como conductora, debe tener una técnica distinta de Cole y Harper:
 - **No duplica a Riley.** Mei-Lin trae memoria táctica de la banda caída; Riley trae arco de protección y futuro.
 - **Tiene lealtad lenta.** Si confía, tarda.
 - **Su pasado rival tiene que volver.** Una banda que se desintegra deja deudas, enemigos y gente sin sitio.
+- **Si muere, no debe morir como figurante.** Su ejecución sólo funciona si antes tuvo valor, voz y una posibilidad real de quedarse.
 
 ---
 
@@ -81,6 +83,8 @@ Como conductora, debe tener una técnica distinta de Cole y Harper:
 > **PENDIENTE:** qué conserva Mei-Lin de su antigua banda.
 
 > **PENDIENTE:** quién la busca después de que se integra a Cole.
+
+> **PENDIENTE:** definir si realmente traicionó o si sólo dejó una duda imposible de sostener.
 
 ---
 

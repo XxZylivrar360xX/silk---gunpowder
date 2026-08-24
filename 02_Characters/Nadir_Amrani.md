@@ -31,7 +31,7 @@ Eso los deja en una posición rarísima dentro de la novela:
 
 > **Nadir no le debe nada a Cole.**
 
-Cole después le paga esa ayuda metiéndolo a Estados Unidos con papeles conseguidos mediante un contacto ruso, pero esa deuda no convierte a Nadir en subordinado. Lo vuelve una de las pocas personas que pueden estar cerca de Cole sin formar parte de su contabilidad moral.
+Cole después le paga esa ayuda metiéndolo a Estados Unidos con papeles conseguidos mediante [[02_Characters/Anya_Voronina]], pero esa deuda no convierte a Nadir en subordinado. Lo vuelve una de las pocas personas que pueden estar cerca de Cole sin formar parte de su contabilidad moral.
 
 ---
 
@@ -41,7 +41,7 @@ Lo que opera hoy:
 
 - Conoce a Cole en prisión.
 - Lo ayuda a salir.
-- Cole le consigue entrada a Estados Unidos con papeles obtenidos por un contacto ruso.
+- Cole le consigue entrada a Estados Unidos con papeles obtenidos por [[02_Characters/Anya_Voronina]].
 - Vuelve con Cole a San Aurelio.
 - Está presente en la primera etapa del vínculo con Chiara: ve a Cole perfumado y nervioso en [[06_Relationships/Hitos]], H2-a.
 - En [[06_Relationships/Hitos]], H6, [[02_Characters/Warren_Halbrook]] amenaza a Cole con deportar a Nadir si no vuelve a trabajar para él.
@@ -71,6 +71,7 @@ Lo mínimo ya instalado: Nadir entiende el valor práctico de las cosas antes qu
 ## Conexiones
 
 - [[02_Characters/Cole_Mercer]] — mejor amigo. Fue quien lo ayudó primero; Cole le pagó consiguiéndole papeles.
+- [[02_Characters/Anya_Voronina]] — contacto rusa que consiguió sus papeles; su favor vuelve como deuda en Año Nuevo.
 - [[02_Characters/Warren_Halbrook]] — usa su estatus migratorio como correa contra Cole.
 - [[02_Characters/Daniel_Hayes]] — testigo junto con él de la primera cena de Cole y Chiara.
 - [[02_Characters/Hector_Navarro]] — parte del núcleo que aparece con Cole en Gabriella's.
@@ -86,9 +87,8 @@ Lo mínimo ya instalado: Nadir entiende el valor práctico de las cosas antes qu
 
 > **PENDIENTE:** si los papeles se arreglan del todo en H6 o queda una correa pendiente.
 
-> **PENDIENTE, PRIORITARIO:** el contacto ruso que consiguió sus papeles. Nombre, costo y deuda.
+> **RESUELTO DE DISEÑO (2026-08-23):** la contacto rusa es [[02_Characters/Anya_Voronina]]. El costo vuelve en [[06_Relationships/Momentos_de_Fractura]], F4.
 
 ---
 
 Ver también: [[02_Characters/Cole_Mercer]] · [[06_Relationships/Hitos]] · [[03_Factions/Almendra_Towing]]
-
