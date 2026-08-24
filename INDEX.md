@@ -129,6 +129,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 # Estructura
 
 - [[01_Timeline/00_Estructura_del_Ascenso]] — las seis fases del ascenso, ordenadas por qué controlan al terminar
+- [[01_Timeline/01_Primer_Borrador_Beats]] — semi borrador estructural de la novela: beats por fase, funcion dramatica, factura emocional y pendientes criticos antes de pasar a capitulos
 - [[10_Chapters/README]] — prosa (vacío; el protocolo previo a escribir está ahí)
 
 ---
@@ -137,6 +138,15 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 
 - [[12_Craft_Policies/README]] — cómo se acumulan las reglas de oficio
 - `12_Craft_Policies/voice/TEMPLATE.md` — plantilla de ficha de voz
+
+---
+
+# Relevo entre agentes
+
+- [[98_Agent_Handoff/README]] — protocolo compacto para handoff entre Codex, Claude Code u otros agentes
+- [[98_Agent_Handoff/CURRENT_BRIEF]] — estado vivo para continuar la sesion sin releer toda la bitacora
+- [[98_Agent_Handoff/PENDING]] — pendientes activos y siguiente trabajo recomendado
+- [[98_Agent_Handoff/DECISIONS]] — decisiones recientes en formato corto
 
 ---
 

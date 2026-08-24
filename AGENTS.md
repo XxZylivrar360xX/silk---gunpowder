@@ -34,6 +34,17 @@ Cuando integres material nuevo del usuario, trátalo como canon del autor si lo 
 - [`06_Relationships/Cole_y_Chiara.md`](06_Relationships/Cole_y_Chiara.md): arquitectura de la relación central.
 - [`00_Biblia/`](00_Biblia): visión, temas, principios narrativos y reglas del mundo.
 
+## Relevo Entre Agentes
+
+Usa `98_Agent_Handoff/` para handoffs compactos.
+
+- `CURRENT_BRIEF.md`: estado actual en una pagina.
+- `PENDING.md`: decisiones abiertas y trabajo siguiente.
+- `DECISIONS.md`: decisiones recientes en formato corto.
+- `sessions/`: notas breves por sesion sustantiva.
+
+Al cerrar una sesion, actualiza `CURRENT_BRIEF.md` si cambio el foco de trabajo. Si hubo una decision importante, agregala tambien a `DECISIONS.md`.
+
 ## Flujo De Trabajo
 
 Antes de editar:

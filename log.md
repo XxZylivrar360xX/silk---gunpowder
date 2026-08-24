@@ -1279,3 +1279,39 @@ El autor recuperó una escena doméstica tardía: Chiara bailando **Bellissima**
 **Función narrativa:** ejemplo de intimidad accidental. Cole ve a Chiara cuando ella no administra ninguna versión de sí misma y no usa esa vulnerabilidad para burlarse ni sexualizarla. Sólo se queda.
 
 **Archivos tocados:** `06_Relationships/Los_Tres_Dias.md`, `05_Locations/La_Villa.md`, `06_Relationships/Cole_y_Chiara.md`, `log.md`.
+
+## Sesion 2026-08-23 (38) | Primer borrador de beats
+
+Se creo [[01_Timeline/01_Primer_Borrador_Beats]] como semi borrador estructural de la novela.
+
+**Decision de oficio instalada:**
+
+Las escenas heredadas del canon original no deben copiarse literalmente. Deben conservar su **funcion emocional** y redisenar causas, escenario, participantes y consecuencias para que nazcan de San Aurelio, El Patio, The Monarch, Valcora, Meridian, la fe de Chiara o el metodo de Cole.
+
+**Contenido del documento:**
+
+- Cinco fases y una reparacion: Antes, Primer Favor, Formula, Autonomia, Ciudad, Factura y Reparacion.
+- 90 beats breves con funcion narrativa.
+- Integracion de H2, H2-a, H2-b, H3, H4, H9, H5, H6, H7, H8 y H1.
+- Integracion de F1, F4, F3 y F2 como fracturas de relacion ubicadas dentro del ascenso.
+- Primer acomodo de policia, fiscalia, FBI, bandas menores, red civil, hospital, El Faro, Cross River, Camp Alder, Bellandi Ridge, Cedar Flats, Villa Candelaria y The Monarch.
+- Lista de escenas que conviene redisenar desde el canon original manteniendo esencia.
+- Pendientes criticos antes de pasar a capitulos.
+
+**Archivos tocados:** `01_Timeline/01_Primer_Borrador_Beats.md` (nuevo), `INDEX.md`, `log.md`.
+
+## Sesion 2026-08-23 (39) | Handoff compacto entre agentes
+
+Se creo `98_Agent_Handoff/` como capa breve de relevo entre Codex, Claude Code u otros agentes.
+
+**Archivos creados:**
+
+- `98_Agent_Handoff/README.md`
+- `98_Agent_Handoff/CURRENT_BRIEF.md`
+- `98_Agent_Handoff/PENDING.md`
+- `98_Agent_Handoff/DECISIONS.md`
+- `98_Agent_Handoff/sessions/2026-08-23_codex_primer_borrador_beats.md`
+
+**Regla:** `log.md` sigue siendo la bitacora larga; `98_Agent_Handoff/` es el brief vivo y compacto.
+
+**Archivos tocados:** `98_Agent_Handoff/`, `AGENTS.md`, `CLAUDE.md`, `INDEX.md`, `log.md`.
