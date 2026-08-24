@@ -57,6 +57,14 @@ El tema no se resuelve con una declaración: se resuelve — o no — en la repe
 
 Ninguno de los dos tiene casa en el sentido que la gente le da a esa palabra. Lo que terminan construyendo no es un sitio: es un estado — **un espacio donde bajar las defensas**. Puede ser una cocina, un coche, una llamada a las dos de la mañana. Lo importante del tema es que se puede perder sin que nadie lo destruya: basta con dejar de usarlo.
 
+## 11. La fe como forma de espera
+
+Chiara es católica devota y su fe no absuelve la vida que lleva: la vuelve más cara. Cada vela que enciende por Cole dice lo que ella no puede controlar con relato, contactos ni versiones.
+
+Cole no comparte esa fe con la misma naturalidad, pero la respeta porque es de ella. Y cuando él mismo va a la iglesia, prende una vela y se queda sentado en silencio, el tema queda invertido: el hombre que siempre actúa por fin admite miedo sin convertirlo en acción.
+
+Ver [[04_Concepts/Fe_y_Velas]].
+
 ---
 
 ## Uso práctico

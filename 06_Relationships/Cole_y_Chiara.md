@@ -79,6 +79,14 @@ La pareja funciona porque tiene dos motores de tensión que corren en paralelo y
 
 Él cree que las cosas existen porque las tocó. Ella cree que existen porque la ciudad las cree. Los dos tienen razón a medias. Ver [[04_Concepts/El_Territorio_y_El_Relato]].
 
+La consagración profesional de la pareja llega cuando Cole descubre el límite de su propio método: sabe demasiado. Tiene deudas, rutas, rumores, nombres, placas y amenazas acumuladas, pero no siempre sabe qué hacer con todo eso sin actuar de más.
+
+Chiara le enseña que la información no se administra como bodega, sino como tráfico:
+
+> **no se gana reteniéndola, sino direccionándola.**
+
+Él ejecuta consecuencias. Ella decide hacia dónde debe correr el dato para que la consecuencia ocurra. Ver [[03_Factions/Red_Civil_de_Chiara]].
+
 ### El conflicto íntimo — la asimetría
 
 Es el corazón del libro y hay que poder decirlo en dos frases:
@@ -213,6 +221,24 @@ Toda la relación se puede medir en quién se mueve hacia el idioma del otro. **
 
 **El primer cruce lo hace ella. El último, él.** Y entre medias está el paso del usted al tú, todavía por colocar.
 
+### CANON — La vela
+
+Chiara es católica devota. Cole no comparte la fe con la misma naturalidad, pero la respeta porque es de ella.
+
+Cada vez que él sale a "trabajar", ella enciende una vela. La petición es simple:
+
+> **Dios, cuídalo y tráelo a casa.**
+
+Este ritual no compite con el collar. Lo sostiene.
+
+| La vela | El collar |
+|---|---|
+| lo que ella hace cuando él se va | lo que él lleva cuando ya se fue |
+| petición a Dios | promesa entre ellos |
+| espera | regreso |
+
+Cuando Cole está realmente aterrado por una salida, él mismo va a [[05_Locations/Iglesia_Santa_Lucia]], prende una vela y se sienta en una banca en silencio. Eso no lo vuelve más católico que antes. Lo vuelve más honesto sobre el miedo.
+
 ### CANON — El apellido que él nunca ofrece
 
 **Cole jamás le propone a Chiara que se llame Mercer.** Ni una vez, ni en broma, ni al final del libro.
@@ -230,6 +256,8 @@ Ver [[04_Concepts/Quien_Decide_Quien_Soy]] y [[06_Relationships/Hitos]], H4.
 > **RETORNA A CASA**
 
 Regalo de la primera Navidad que pasaron juntos. El mensaje, dicho sin decirse: **ella siempre lo va a estar esperando después de las "misiones" de su organización.**
+
+Ese objeto convive con otro ritual más viejo y más silencioso: **la vela.** Cada vez que Cole sale a trabajar, Chiara detiene lo que está haciendo y enciende una vela para pedir que Dios lo cuide y lo traiga a casa. Ver [[04_Concepts/Fe_y_Velas]].
 
 > **Y el collar no inventa esa palabra: la graba.** *Casa* la dijo él primero, volviendo mojado de un río, sin darle ninguna importancia — *vamos a casa* ([[06_Relationships/Hitos]], H7). **Chiara le devolvió en oro lo que él le había dado sin darse cuenta.**
 

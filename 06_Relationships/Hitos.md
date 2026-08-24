@@ -13,10 +13,11 @@ Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni
 | 3 | **H2-b** — La noche que todo cambió |
 | 4 | **H3** — La noche del ladrillo *(a: el florero · b: las calcetas blancas · c: el ladrillo)* |
 | 5 | **H4** — El día nublado *(la cita del golf; aquí se define la relación)* |
-| 6 | **H5** — El hipódromo *(arco de la tensión, parte 1)* |
-| 7 | **H6** — El pacto *(arco de la tensión, parte 2)* |
-| 8 | **H7** — El río *(arco de la tensión, parte 3 — el cierre)* |
-| 9 | **H8** — El incendio, la mentira y la villa |
+| 6 | **H9** — La carrera de máscaras *(la primera salida fuera de la zona de confort de Chiara)* |
+| 7 | **H5** — El hipódromo *(arco de la tensión, parte 1)* |
+| 8 | **H6** — El pacto *(arco de la tensión, parte 2)* |
+| 9 | **H7** — El río *(arco de la tensión, parte 3 — el cierre)* |
+| 10 | **H8** — El incendio, la mentira y la villa |
 | … | *(formalización, primera Navidad, mudanza — por recibir)* |
 | Clímax | **H1** — El regreso a casa |
 
@@ -150,7 +151,7 @@ Se toma trabajo:
 
 **Sin que ninguno lo admita, ésta es su primera cita.**
 
-Al salir del restaurante se cruzan con **dos amigos del barrio — Nadir Amrani, su mejor amigo, y Daniel “Danny” Hayes**, dueño del perro —, que los saludan y notan que Cole está **demasiado bien arreglado, hasta con fragancia**. Eso lo pone nervioso.
+Al salir del restaurante se cruzan con **dos amigos del barrio — [[02_Characters/Nadir_Amrani]], su mejor amigo, y [[02_Characters/Daniel_Hayes|Daniel “Danny” Hayes]]**, dueño del perro —, que los saludan y notan que Cole está **demasiado bien arreglado, hasta con fragancia**. Eso lo pone nervioso.
 
 **Y los chicos nunca en la vida habían visto a Cole nervioso.**
 
@@ -180,7 +181,7 @@ Cole es el hombre que se vuelve lo que cada habitación necesita, y aquí **no l
 
 **Y es el arranque de la unión invisible.** El barrio lo sabe desde la primera noche, mucho antes de que exista nada que saber. Que después callen durante años ([[05_Locations/La_Casa]]) empieza aquí, con dos tipos que vieron a su amigo perfumado y no dijeron nada más.
 
-> **DISEÑO:** Nadir y Danny deberían ser recurrentes, no figurantes. Son los testigos de toda la historia desde afuera, y los únicos que pueden llevar la cuenta. *(El autor pidió no profundizar en ellos por ahora: quedan como nombres, sin ficha.)* Ver [[03_Factions/Almendra_Towing]].
+> **DISEÑO:** [[02_Characters/Nadir_Amrani|Nadir]] y [[02_Characters/Daniel_Hayes|Danny]] deberían ser recurrentes, no figurantes. Son los testigos de toda la historia desde afuera, y los únicos que pueden llevar la cuenta. *(El autor pidió no profundizar todavía; las fichas existen en versión compacta.)* Ver [[03_Factions/Almendra_Towing]].
 
 ## Restricciones de escritura
 
@@ -437,7 +438,7 @@ Antes de entrar se encuentra con **[[02_Characters/Dario_Valcora]]** — magnate
 
 Y el mismo Peugeot vuelve a pasar, esta vez en dirección contraria, y **se mete en un callejón** cerca del local.
 
-**A los dos minutos aparecen cuatro figuras:** Cole, **Nadir Amrani**, **Danny Hayes** y el viejo mentor de Cole, **[[02_Characters/Hector_Navarro]]**. Llegan a la puerta listos para entrar, **todos con ropa demasiado casual para el evento** — cosa que el portero les hace saber.
+**A los dos minutos aparecen cuatro figuras:** Cole, **[[02_Characters/Nadir_Amrani]]**, **[[02_Characters/Daniel_Hayes|Danny Hayes]]** y el viejo mentor de Cole, **[[02_Characters/Hector_Navarro]]**. Llegan a la puerta listos para entrar, **todos con ropa demasiado casual para el evento** — cosa que el portero les hace saber.
 
 Cole contesta:
 
@@ -677,11 +678,97 @@ Y es también **la primera vez que se quedan dormidos juntos**, sin que pase nad
 
 ---
 
+# H9 — La carrera de máscaras
+
+> **CANON DEL AUTOR (2026-08-23).** Uno de los primeros momentos en que Cole saca a Chiara de su zona de confort. Ocurre **antes de [[#H5 — El hipódromo *(Arco de la tensión, parte 1)*]]**, cuando ya son amigos.
+
+## La pregunta
+
+El precedente empieza con una pregunta de Cole:
+
+> **— ¿Qué es lo más ilegal que te han atrapado haciendo?**
+
+Chiara contesta que un par de veces, de adolescente, sí terminó en la comisaría en Italia, pero nada grave.
+
+Cole no hace un discurso ni explica el plan. Sólo le dice:
+
+> **— Bueno, ponte algo cómodo porque vamos a ir a dar una vuelta.**
+
+## El Peugeot rojo
+
+Cole pasa por ella en el **Peugeot 106 XSi rojo**.
+
+No llega con una camioneta rentada ni con un decorado para parecer de su mundo. Llega con el coche que ya es una leyenda menor de San Aurelio — el mismo que en [[#H3 — La noche del ladrillo]] era *el terror de la policía*.
+
+> **DISEÑO:** esta salida es el reverso callejero de [[#H4 — El día nublado]]. En el golf, Chiara lo llevó a un mundo donde él estaba disfrazado y miserable con pantalones blancos. Aquí él la lleva al suyo: velocidad, calle, riesgo, ruido, improvisación. Los dos hitos hacen lo mismo desde lados opuestos: uno saca a Cole de su terreno; el otro saca a Chiara del suyo.
+
+## La tienda de máscaras
+
+Antes de ir a la carrera, pasan por una **tienda de máscaras**.
+
+Las máscaras son prácticas, no románticas: sirven para cubrir sus identidades si la policía los persigue.
+
+> **DISEÑO:** en una novela sobre versiones públicas, nombres elegidos y gente que aprende a sobrevivir administrando lo que otros ven, esta escena no puede tratar las máscaras como accesorio. Son el chiste y el concepto entero: Chiara, profesional de la imagen, usando una máscara literal para poder hacer algo que jamás aparecería en ninguna versión aceptable de ella.
+
+## La carrera
+
+Van a la zona del **aeropuerto**, donde empieza una **carrera callejera ilegal**.
+
+Es divertido y arriesgado. La policía se involucra. La persecución escala, pero Cole logra zafarse por la velocidad del coche y por conocer mejor la calle que quien lo persigue.
+
+Cole queda **séptimo** en la carrera.
+
+### Por qué importa que quede séptimo
+
+No es una escena para demostrar que Cole es invencible al volante. Si gana, la escena se vuelve fantasía de dominio. **Que quede séptimo la mantiene humana y mucho más útil:** el punto no era ganar una carrera, sino darle a Chiara una noche que no habría sabido pedir.
+
+Además, el séptimo lugar dice algo muy preciso de Cole: puede no ganar y aun así salir entero, con ella riéndose, con la policía atrás y con el coche todavía respondiendo. Su talento no es el trofeo. Es el escape.
+
+## La sonrisa
+
+Cuando Cole la deja en el casino y se marcha, Chiara sonríe genuinamente, sin aparentar.
+
+Para ella fue cuestionable. Fue imprudente. Fue ilegal. Y aun así **se divirtió haciendo algo que jamás se habría visto haciendo.**
+
+Esa sonrisa es el centro del hito.
+
+> **DISEÑO:** Cole no la "corrompe"; le presta una noche donde no tiene que administrar la versión de Chiara Bellandi. La salida no la convierte en otra persona. Le muestra que debajo de la mujer correcta, impecable y peligrosa también existe alguien capaz de reírse con una máscara puesta en un Peugeot rojo perseguido por patrullas.
+
+## Qué instala
+
+- **Cole aprende que puede darle aire a Chiara sacándola de una habitación, no sólo resolviéndole un problema.**
+- **Chiara descubre una forma de libertad que no controla.** No la produce, no la negocia, no la explica. Sólo se sube.
+- **El Peugeot rojo queda cargado como objeto de intimidad**, no sólo como vehículo de trabajo o fuga.
+- **La policía entra como amenaza práctica y como rima futura con Blake Stanton.** No hace falta cobrarlo aquí, pero el libro ya tiene un policía ligado a Chiara.
+- **La diversión también es riesgo.** Esta pareja no sólo baja los escudos en peligro: a veces necesita peligro para permitirse divertirse.
+
+## Restricciones de escritura
+
+- **No se romantiza la ilegalidad como si no tuviera costo.** La escena es divertida porque salen vivos y no los atrapan, no porque el riesgo sea falso.
+- **Cole no le da una lección de vida.** La invita, la lleva, conduce, se ríe. La escena no necesita moraleja.
+- **Chiara no actúa como adolescente.** Se divierte, pero sigue siendo ella: observa, calcula, entiende exactamente lo que están haciendo.
+- **La máscara no se explica en diálogo más de lo necesario.** Su función práctica basta; el peso simbólico lo hace el lector.
+- **La sonrisa final no se subraya en voz alta.** Nadie le dice que sonrió distinto. El lector lo ve.
+
+## Pendientes de H9
+
+> **PENDIENTE:** nombre y ubicación de la tienda de máscaras.
+
+> **PENDIENTE:** precisar la zona del aeropuerto: si es una vía de servicio, una pista abandonada, un tramo industrial o una carretera perimetral.
+
+> **PENDIENTE:** qué máscara elige cada uno. No es color superficial: dice qué versión se permiten usar esa noche.
+
+> **PARCIALMENTE RESUELTO (2026-08-23):** [[02_Characters/Tyler_Brooks]] es organizador de carreras callejeras y termina integrándose a la organización. **PENDIENTE:** confirmar si él organizó específicamente esta carrera de H9 y qué facción menor la respaldaba antes de Cole.
+
+> **PENDIENTE:** si alguna patrulla identifica el Peugeot rojo aunque no identifique a Cole y Chiara. Esto puede cargar una consecuencia futura.
+
+---
+
 # H5 — El hipódromo *(Arco de la tensión, parte 1)*
 
 > **CANON DEL AUTOR (2026-08-23).** Primera parte del arco de mayor tensión de la novela. **Partes 2 y 3 por recibir.**
 
-Ocurre **días después** de [[#H4 — El día nublado]].
+Ocurre después de [[#H9 — La carrera de máscaras]].
 
 ---
 
@@ -707,7 +794,7 @@ Hasta que ve **las botas de montar de Chiara en el vestidor** y se acuerda de qu
 
 Baja al **hipódromo**, propiedad del casino, y en las caballerizas la encuentra **en el suelo, sangrando por un costado de la cabeza, inconsciente.**
 
-**Sin dudar un minuto** la mueve con cuidado y sale a toda velocidad al hospital.
+**Sin dudar un minuto** la mueve con cuidado y sale a toda velocidad al [[05_Locations/Hospital_Santa_Aurelia|Hospital Santa Aurelia]].
 
 > **DISEÑO:** aquí conduce él, y por una vez la regla dura de su ficha (*conduce él, siempre*) deja de ser manía y se vuelve la única cosa que puede hacer.
 
@@ -723,7 +810,7 @@ Registra a un sospechoso que no le da buena espina, **hasta el grado de secuestr
 
 ## 5. Las armas en el cuarto de hospital
 
-Vuelve al hospital, entra al cuarto — ella sedada — **y se encuentra con [[02_Characters/Dario_Valcora]].**
+Vuelve al [[05_Locations/Hospital_Santa_Aurelia|hospital]], entra al cuarto — ella sedada — **y se encuentra con [[02_Characters/Dario_Valcora]].**
 
 La tensión entre los dos escala hasta que **se apuntan con sus armas, culpándose mutuamente de lo que le pasó a Chiara.**
 
@@ -810,7 +897,7 @@ Justo después de entregarle el loft terminado.
 **Él le cuenta:**
 
 - su salida abrupta del ejército;
-- cómo conoció a **Nadir Amrani**;
+- cómo conoció a **[[02_Characters/Nadir_Amrani]]**;
 - la historia de **la cicatriz que le cruza la mejilla derecha**;
 - **lo de los niños, y que por eso cayó en prisión.**
 
@@ -1320,6 +1407,8 @@ No le pide que tenga cuidado. No le pregunta a dónde va. Le da una sola instruc
 
 **La mano en el pecho está tocando la placa.** Cole lleva al cuello un collar con una placa de oro grabada con esa frase — regalo de la primera Navidad que pasaron juntos, y la promesa de que ella siempre lo esperaría al volver de las "misiones". El gesto no es ternura genérica: es tocar el objeto. Y esta despedida es la repetición número no-se-sabe-cuántas de un ritual que el lector ya vio muchas veces. Ver [[06_Relationships/Cole_y_Chiara]], "El ritual".
 
+Y antes o después de ese gesto, según la escena final, **ella enciende una vela**. Es el otro ritual: cada vez que Cole sale a trabajar, Chiara pide que Dios lo cuide y lo traiga a casa. Ver [[04_Concepts/Fe_y_Velas]].
+
 ### 2. La operación imposible
 
 Cole entra a sacar a **todos los miembros de su organización** — su barrio, que es su familia. Los saca a todos. Sale con **un tiro en el costado**.
@@ -1346,7 +1435,7 @@ Iba a limpiarse y entrar como si nada. **Desangrándose, sigue administrando la 
 
 Chiara dice que hay que llevarlo a un hospital. Él contesta que lo más probable es que los hospitales estén vigilados por lo que acaba de pasar.
 
-Ella llama a **su médica de confianza** para que lo atienda en casa.
+Ella llama a **[[02_Characters/Camila_Rivas]], su médica de confianza**, para que lo atienda en casa.
 
 ### 6. La vigilia
 
@@ -1418,8 +1507,9 @@ Es también la respuesta a la pregunta que Cole lleva haciendo sin palabras toda
 - **Para entonces viven juntos**, en la casa que él le compró sin que ella dijera una palabra y que ella levantó frasco por frasco.
 - **La violencia llega al lugar más privado que tienen.** El baño de su cuarto.
 - **Su organización es su barrio y su barrio es su familia**, y él entra a sacarlos a todos sin excepción. Confirma el motor de [[03_Factions/Almendra_Towing]].
-- **Chiara tiene una médica de confianza.** Necesita ficha. Es la prueba de que su red es infraestructura real, no contactos sociales.
+- **Chiara tiene a [[02_Characters/Camila_Rivas]], su médica de confianza.** Es la prueba de que su red es infraestructura real, no contactos sociales.
 - **Ella le está enseñando italiano.** Canon: hay escenas domésticas previas de eso, y son exactamente el capital acumulado que esta secuencia cobra.
+- **Chiara encendió una vela antes de que saliera.** Canon de ritual: su fe no evita el peligro, sólo hace visible la espera.
 - **La operación tuvo heat suficiente para que los hospitales estén vigilados.** Fija la escala del conflicto y la fase del ascenso.
 
 ---
@@ -1430,7 +1520,7 @@ Regla de [[06_Relationships/Cole_y_Chiara]]: lo que los salva siempre es algo qu
 
 > **Su territorio lo hizo llegar. La red de ella lo mantuvo vivo.**
 
-Él no puede ir a un hospital porque su columna del poder — la calle, el territorio, la operación — es justamente lo que lo tiene marcado. Lo salva la columna de ella: una médica que le debe algo, o que confía en ella, y que existe porque Chiara pasó años volviéndose la persona a la que la gente le contesta el teléfono.
+Él no puede ir a un hospital porque su columna del poder — la calle, el territorio, la operación — es justamente lo que lo tiene marcado. Lo salva la columna de ella: [[02_Characters/Camila_Rivas|Camila Rivas]], una médica que le debe algo, que confía en ella, y que existe porque Chiara pasó años volviéndose la persona a la que la gente le contesta el teléfono.
 
 **Territorio sin relato es un pleito de barrio.** La tesis del libro cobrada en carne. Ver [[04_Concepts/El_Territorio_y_El_Relato]].
 
@@ -1447,9 +1537,9 @@ Regla de [[06_Relationships/Cole_y_Chiara]]: lo que los salva siempre es algo qu
 - **Es la única persona del libro con autoridad para reclamárselo**, porque es la única que lo quiere sin deberle nada. El barrio le debe favores. Chiara lo ama. El viejo simplemente lo crió — y eso es la única posición desde la que se le puede decir a Cole que es un idiota y que lo escuche.
 - **Y probablemente es quien llama a Chiara.** O quien decide no llamarla. Cualquiera de las dos cosas es una escena.
 
-**Peso temático:** Cole fue comprado por una familia y se construyó una. Este hombre es el padre que eligió, contra Dale Mercer, que fue el que le tocó. Es la versión adulta de lo mismo que él hace con Marisol Grayson. Ver [[02_Characters/Cole_Mercer]].
+**Peso temático:** Cole fue comprado por una familia y se construyó una. Este hombre es el padre que eligió, contra Dale Mercer, que fue el que le tocó. Es la versión adulta de lo mismo que él hace con [[02_Characters/Marisol_Grayson]]. Ver [[02_Characters/Cole_Mercer]].
 
-> **PENDIENTE, PRIORITARIO:** nombre y ficha. Es el tercer personaje en importancia del libro y todavía no existe en el vault. Seed en [[03_Factions/Almendra_Towing]].
+> **RESUELTO (2026-08-23):** es [[02_Characters/Hector_Navarro]]. La ficha existe. Es el tercer personaje en importancia del libro. Seed en [[03_Factions/Almendra_Towing]].
 
 ---
 
@@ -1474,7 +1564,7 @@ Regla de [[06_Relationships/Cole_y_Chiara]]: lo que los salva siempre es algo qu
 >
 > **PENDIENTE:** ¿quién sabe dónde viven ahora, y quién sigue callándolo? Si la villa es una dirección conocida, **la arquitectura de seguridad del imperio cambió** — y que la violencia llegue hasta su baño puede ser precisamente el precio de haber subido.
 
-> **PENDIENTE:** la médica de confianza — nombre, ficha, y qué le debe a Chiara.
+> **RESUELTO (2026-08-23):** la médica de confianza es [[02_Characters/Camila_Rivas]]. Le debe a Chiara haber matado una historia que habría destruido su carrera por atender fuera de protocolo a una menor explotada.
 
 > **RESUELTO (2026-08-22):** ¿quién lo notó? **Su figura paterna** — viejo amigo del barrio y su mano derecha en las operaciones. Fue el único. Ver abajo.
 
@@ -1487,6 +1577,7 @@ Regla de [[06_Relationships/Cole_y_Chiara]]: lo que los salva siempre es algo qu
 - **La formalización** — incómoda y graciosa, nunca solemne. Fase 3-bis.
 - **El paso del usted al tú.** Umbral, no descuido. Ver H2.
 - **La primera Navidad y el collar.** Obligatorio: es donde nace el ritual que sostiene H1, y es la única vez en su vida adulta que Cole acepta un regalo sin convertirlo en transacción.
+- **La primera vela.** Obligatorio: primera vez que el lector ve a Chiara detenerlo todo para pedir que Dios cuide a Cole y lo traiga a casa.
 - **La mudanza.** Cuándo y cómo Chiara pasa a vivir en [[05_Locations/La_Casa]]. Para estos dos, mudarse pesa más que casarse.
 - **Las clases de italiano** — canon obligatorio, porque H1 las cobra. Domésticas, repetidas, cómicas.
 - **La reparación** — Fase 5.

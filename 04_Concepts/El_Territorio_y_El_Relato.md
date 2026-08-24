@@ -19,6 +19,25 @@ Porque decide la estructura. Cada arco de expansión tiene que avanzar en las do
 
 Un capítulo que sólo mueve una de las dos columnas es un capítulo incompleto.
 
+## La información como tráfico
+
+El relato no empieza en el periódico. Empieza en la vida civil: tiendas, restaurantes, cocinas, valet, salones, iglesias, pasillos de hospital y filas donde alguien habla porque cree que no está diciendo nada importante. Ver [[05_Locations/Vida_Civil_de_San_Aurelio]] y [[03_Factions/Red_Civil_de_Chiara]].
+
+La regla de Chiara:
+
+> **Los conflictos no se ganan reteniendo información. Se ganan direccionándola.**
+
+Cole tiende a acumular información como acumula favores. Eso funciona hasta que la escala lo supera. Chiara convierte la información en movimiento: decide quién debe saber, quién no, quién debe saber tarde y quién debe saber sólo una parte.
+
+Ahí se completa la fórmula:
+
+| Cole | Chiara |
+|---|---|
+| toma territorio | toma relato |
+| acumula favor | direcciona información |
+| ejecuta consecuencias | administra percepción |
+| mueve gente | mueve versiones |
+
 ## Dónde falla
 
 Cada uno cree que su columna es la real:
@@ -34,4 +53,4 @@ Cole construye una organización que nunca se nombra a sí misma — la bautiza 
 
 ---
 
-Ver también: [[00_Biblia/Temas]] · [[00_Biblia/Reglas_del_Mundo]] · [[06_Relationships/Cole_y_Chiara]]
+Ver también: [[00_Biblia/Temas]] · [[00_Biblia/Reglas_del_Mundo]] · [[06_Relationships/Cole_y_Chiara]] · [[03_Factions/Red_Civil_de_Chiara]]
