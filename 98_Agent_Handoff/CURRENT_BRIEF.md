@@ -4,16 +4,15 @@
 
 - Proyecto: *Seda y Polvora*, vault de Obsidian, sin prosa todavia.
 - Rama actual: `develop`.
-- Ultimo bloque trabajado: primer borrador macro de beats.
-- Documento nuevo clave: [[01_Timeline/01_Primer_Borrador_Beats]].
+- Ultimo bloque trabajado: optimizacion de contexto para ahorrar tokens en Claude Code/Codex.
+- Documento nuevo clave: [[98_Agent_Handoff/START_HERE]].
 
 ## Leer Primero
 
-1. [[00_Biblia/Vision]]
-2. [[06_Relationships/Cole_y_Chiara]]
-3. [[06_Relationships/Hitos]]
-4. [[06_Relationships/Momentos_de_Fractura]]
-5. [[01_Timeline/01_Primer_Borrador_Beats]]
+1. [[98_Agent_Handoff/START_HERE]]
+2. [[98_Agent_Handoff/PENDING]]
+3. [[INDEX]]
+4. Archivos especificos de la tarea
 
 ## Estado Narrativo
 
@@ -31,6 +30,8 @@
 - Camp Alder es la base militar.
 - Cedar Flats es el pueblo agricola del norte.
 - Kingsley Field es el aeropuerto/ruta de carreras.
+- `CLAUDE.md` fue adelgazado: ahora es guia corta de arranque.
+- `START_HERE.md` concentra la tabla de rutas para no leer `log.md` completo.
 
 ## Siguiente Trabajo Recomendado
 
@@ -40,4 +41,3 @@ Expandir [[01_Timeline/01_Primer_Borrador_Beats]] por bloques de capitulo, marca
 - relacion;
 - ciudad;
 - consecuencia.
-

@@ -6,9 +6,9 @@ Este repositorio es un vault de Obsidian para la novela original *Seda y Pólvor
 
 ## Regla Principal
 
-Lee [`CLAUDE.md`](CLAUDE.md) al inicio de cualquier sesión sustantiva. Ese archivo contiene la guía completa heredada del trabajo previo con Claude Code y gobierna el estilo, la estructura del vault, las reglas narrativas y la convención de canon.
+Lee [`CLAUDE.md`](CLAUDE.md) y [`98_Agent_Handoff/START_HERE.md`](98_Agent_Handoff/START_HERE.md) al inicio de cualquier sesión sustantiva. `CLAUDE.md` debe mantenerse corto; el contexto operativo vive en `98_Agent_Handoff/`.
 
-Este archivo no sustituye a `CLAUDE.md`; lo resume para agentes.
+No leas `log.md` completo salvo petición explícita. Usa `rg` para ubicar entradas concretas.
 
 ## Idioma
 
@@ -29,7 +29,10 @@ Cuando integres material nuevo del usuario, trátalo como canon del autor si lo 
 ## Archivos Clave
 
 - [`INDEX.md`](INDEX.md): índice maestro del vault. Actualízalo si agregas archivos o hitos mayores.
-- [`log.md`](log.md): bitácora de sesiones. Registra decisiones relevantes, archivos tocados y pendientes nuevos.
+- [`98_Agent_Handoff/START_HERE.md`](98_Agent_Handoff/START_HERE.md): protocolo barato de arranque y tabla de rutas.
+- [`98_Agent_Handoff/CURRENT_BRIEF.md`](98_Agent_Handoff/CURRENT_BRIEF.md): estado vivo para relevo.
+- [`98_Agent_Handoff/PENDING.md`](98_Agent_Handoff/PENDING.md): pendientes activos.
+- [`log.md`](log.md): bitácora larga. No es lectura de arranque.
 - [`06_Relationships/Hitos.md`](06_Relationships/Hitos.md): documento central de hitos obligatorios. La trama se construye alrededor de estos hitos.
 - [`06_Relationships/Cole_y_Chiara.md`](06_Relationships/Cole_y_Chiara.md): arquitectura de la relación central.
 - [`00_Biblia/`](00_Biblia): visión, temas, principios narrativos y reglas del mundo.
@@ -39,6 +42,7 @@ Cuando integres material nuevo del usuario, trátalo como canon del autor si lo 
 Usa `98_Agent_Handoff/` para handoffs compactos.
 
 - `CURRENT_BRIEF.md`: estado actual en una pagina.
+- `START_HERE.md`: ruta barata de lectura.
 - `PENDING.md`: decisiones abiertas y trabajo siguiente.
 - `DECISIONS.md`: decisiones recientes en formato corto.
 - `sessions/`: notas breves por sesion sustantiva.
@@ -50,9 +54,10 @@ Al cerrar una sesion, actualiza `CURRENT_BRIEF.md` si cambio el foco de trabajo.
 Antes de editar:
 
 1. Revisa `CLAUDE.md`.
-2. Revisa `INDEX.md`.
-3. Lee los archivos directamente relacionados con la solicitud.
-4. Verifica pendientes existentes con búsqueda de texto si hace falta.
+2. Revisa `98_Agent_Handoff/START_HERE.md`.
+3. Revisa `98_Agent_Handoff/CURRENT_BRIEF.md`.
+4. Usa `INDEX.md` para ubicar archivos.
+5. Lee solo los archivos directamente relacionados con la solicitud.
 
 Al editar:
 

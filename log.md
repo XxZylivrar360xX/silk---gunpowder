@@ -1315,3 +1315,18 @@ Se creo `98_Agent_Handoff/` como capa breve de relevo entre Codex, Claude Code u
 **Regla:** `log.md` sigue siendo la bitacora larga; `98_Agent_Handoff/` es el brief vivo y compacto.
 
 **Archivos tocados:** `98_Agent_Handoff/`, `AGENTS.md`, `CLAUDE.md`, `INDEX.md`, `log.md`.
+
+## Sesion 2026-08-23 (40) | Ahorro de tokens para Claude Code
+
+Se reviso el documento externo `C:\Users\avada\Downloads\ahorro-tokens-claude-code.md` y se aplico su principio principal al vault: lo caro no es la respuesta, sino cargar contexto largo en cada turno.
+
+**Cambios:**
+
+- `CLAUDE.md` quedo reducido a guia corta de arranque.
+- Se creo `98_Agent_Handoff/START_HERE.md` con orden barato de lectura y tabla de rutas.
+- `AGENTS.md`, `INDEX.md`, `CURRENT_BRIEF.md`, `DECISIONS.md` y `README.md` del handoff ahora apuntan al flujo compacto.
+- Se agrego nota de sesion en `98_Agent_Handoff/sessions/2026-08-23_codex_ahorro_tokens_claude.md`.
+
+**Regla instalada:** no leer `log.md` completo por defecto; usar `rg` y abrir solo archivos especificos de la tarea.
+
+**Archivos tocados:** `CLAUDE.md`, `AGENTS.md`, `INDEX.md`, `log.md`, `98_Agent_Handoff/`.

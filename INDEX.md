@@ -144,6 +144,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 # Relevo entre agentes
 
 - [[98_Agent_Handoff/README]] — protocolo compacto para handoff entre Codex, Claude Code u otros agentes
+- [[98_Agent_Handoff/START_HERE]] — entrada barata: orden de lectura, tabla de rutas y reglas para no cargar contexto innecesario
 - [[98_Agent_Handoff/CURRENT_BRIEF]] — estado vivo para continuar la sesion sin releer toda la bitacora
 - [[98_Agent_Handoff/PENDING]] — pendientes activos y siguiente trabajo recomendado
 - [[98_Agent_Handoff/DECISIONS]] — decisiones recientes en formato corto
