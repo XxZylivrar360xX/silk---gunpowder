@@ -46,6 +46,16 @@ Por eso es tan buena leyendo a Cole: **no confunde su dificultad para decir las 
 
 Y por eso es tan cara la contradicción: la única persona a la que Chiara necesita no mentirle es la única a la que podría mentirle mejor que a nadie.
 
+### La fe
+
+Chiara es católica devota.
+
+No como adorno cultural ni como contradicción simple con el mundo criminal. La fe en ella es disciplina, costumbre, culpa, promesa y una forma privada de miedo. Cree, reza, enciende velas y no siente necesidad de justificarlo.
+
+Cada vez que Cole sale a "trabajar", ella detiene lo que estaba haciendo y enciende una vela para pedir que Dios lo cuide y lo traiga a casa. Si puede, lo hace en [[05_Locations/Iglesia_Santa_Lucia]]. Si no, lo hace en casa.
+
+**Regla:** la vela no lo absuelve a él ni la absuelve a ella. Sólo revela cuánto cuesta esperar.
+
 ### Su función en la novela: no dejar que Cole se borre
 
 Si hubiera que reducir a Chiara a un solo movimiento repetido, es éste: **Cole se quita a sí mismo del cuadro, y ella lo devuelve.**
@@ -82,6 +92,14 @@ Corrado y Marta se quisieron treinta años. De verdad, sin adorno, eligiéndose 
 Y también vio la otra mitad: que el mundo de su padre fue lo que se llevó a su madre, y que Marta lo supo siempre y se quedó de todos modos.
 
 De ahí sale entera: Chiara sabe exactamente cuánto cuesta quedarse, y se queda igual. **Eso no es ingenuidad, es su forma de valentía**, y es lo único de ella que no es técnica. El cambio de apellido no fue rechazar al padre: fue quedarse con la parte de la herencia que quería y dejarle la otra a él, con la firma como reproche permanente.
+
+**CANON DEL AUTOR (2026-08-23):** el FBI destruyó la estabilidad final de esa casa en una redada contra Corrado. Corrado murió, y por burocracia de investigación Chiara no pudo verlo ni enterrarlo cuando tenía derecho a hacerlo.
+
+La culpa de fondo era del [[03_Factions/Il_Consorzio]]: el Consorcio puso las condiciones, los intereses y la trampa. Pero la mano visible fue federal.
+
+> **Para Chiara, el FBI no representa justicia. Representa el día en que una institución le explicó que su duelo era evidencia.**
+
+Eso no vuelve inocente a Corrado ni convierte al FBI en villano simple. Vuelve personal cualquier entrada de la [[03_Factions/Fuerza_de_Tarea_Meridian]] a San Aurelio.
 
 ### Lo que aprendió en esa casa, y lo que ha estado buscando desde entonces
 
@@ -158,6 +176,16 @@ Chiara no compra periodistas. **Se vuelve su mejor fuente.** Ésa es toda la té
 
 Su moneda más cara no es publicar: es **matar**. Que algo no salga vale más que cualquier titular, y es el favor que hace que gente muy poderosa le deba algo sin haber firmado nada.
 
+Pero el periódico no es el origen de su información. Es el instrumento que convierte una parte de esa información en hecho público.
+
+Antes de [[03_Factions/El_Faro]] está la [[03_Factions/Red_Civil_de_Chiara]]: tiendas, restaurantes, salones, valet, cocinas, mujeres mayores, asistentes, meseras, choferes y rumores de barrio. Chiara entiende que el chisme no es ruido si sabes dirigirlo.
+
+Su regla:
+
+> **La información no se gana reteniéndola. Se gana direccionándola.**
+
+Ahí es donde supera a Cole en escala. Él acumula deudas, nombres y rutas hasta saber demasiado; ella decide quién debe enterarse, cuándo y en qué forma para producir una consecuencia.
+
 **Lo que no ve:** cree que controlar la versión es controlar el hecho. La ciudad va a enseñarle que no — probablemente con un muerto que ninguna versión suya alcanza a tapar.
 
 ---
@@ -171,6 +199,8 @@ Su moneda más cara no es publicar: es **matar**. Que algo no salga vale más qu
 - **Se cambió la edad en los documentos** y lo sostiene con una naturalidad total. Cuando alguien lo descubre, no se disculpa: pregunta por qué le importa.
 - **No acepta que le paguen la cuenta.** Por costumbre y por doctrina: quien paga, cree que compró algo.
 - **Se queda.** Es la regla que manda sobre todas las demás. Cuando ya eligió, permanece — y ninguna escena puede contradecir eso sin que sea el acontecimiento del capítulo.
+- **En privado llama al núcleo joven de Cole "los niños del Patio".** No es un nombre público ni una broma cruel: es la forma en que los integra a su mapa afectivo sin dejar de verlos con precisión.
+- **Enciende una vela cada vez que Cole sale a trabajar.** No es superstición ni decoración: es su manera de pedir que vuelva a casa. Ver [[04_Concepts/Fe_y_Velas]].
 
 ---
 
@@ -190,13 +220,20 @@ Guardarraíles. Si un borrador la empuja hacia aquí, está mal escrita:
 ## Conexiones
 
 - [[02_Characters/Cole_Mercer]] — el otro motor. Ver [[06_Relationships/Cole_y_Chiara]].
+- [[04_Concepts/Fe_y_Velas]] — su fe católica, el ritual de las velas y la petición de que Cole vuelva a casa.
+- [[05_Locations/Iglesia_Santa_Lucia]] — parroquia donde su fe tiene lugar físico en San Aurelio.
 - [[03_Factions/El_Faro]] — el diario. Su territorio real.
 - **[[03_Factions/Il_Consorzio]]** — **su antagonista.** La red que la ve como *Chiara Ardizzone Bellandi* antes que como Chiara. No la odia: la tiene asignada.
 - **[[02_Characters/Leone_Valenti]]**, *Il Consigliere* — la cara del Consorcio. Cordial de verdad, y por eso mucho peor. **No amenaza: produce consecuencias.** Es ella misma treinta años después, a escala de instituciones.
 - **[[02_Characters/Dario_Valcora]]** — su jefe. Cabeza de la mafia de la ciudad y socio mayoritario del casino. La ve como un activo político reemplazable.
+- **[[02_Characters/Andrew_Callahan]]** — agente especial supervisor del FBI. Entra cuando la organización de Cole escala a nivel internacional; representa una herida federal anterior aunque quizá no la haya causado personalmente.
+- **[[02_Characters/Garrett_Cross]]** — administrador financiero de El Patio. Colabora con ella en el casino para que el dinero tenga una versión pública creíble.
+- **[[03_Factions/Cross_River_Consolidated]]** — estructura financiera que necesita de su talento para el relato: no basta mover dinero, hay que hacerlo parecer inevitable.
+- **[[03_Factions/Red_Civil_de_Chiara]]** — su red de chismes e información dirigida. No es una red formal de espías; es la ciudad civil hablando antes de convertirse en noticia o expediente.
+- **[[02_Characters/Mabel_Ortiz]]** — mujer mayor, dueña de tienda/cafetería y nodo principal de la red civil. Le da detalles, no conclusiones.
 - **[[02_Characters/Blake_Stanton]]** — con quien sale al llegar a la ciudad. Rubio, ojos azules: el hombre equivocado con la cara correcta.
-- **Su médica de confianza** — **pendiente de ficha, prioritaria.** Atiende fuera de los registros y le contesta el teléfono a Chiara a cualquier hora. Es quien mantiene vivo a Cole en [[06_Relationships/Hitos]], H1, y por lo tanto **la prueba de que la red de Chiara es infraestructura real y no contactos sociales.** Definir qué le debe, o por qué confía en ella.
-- Corrado Ardizzone — el padre. **Pendiente de ficha.** Recomendación de diseño: nunca aparece en persona hasta muy tarde, y cuando aparece no es un villano — es un hombre que quiso a su mujer treinta años y no supo protegerla de lo que él mismo era.
+- **[[02_Characters/Camila_Rivas]]** — su médica de confianza. Atiende fuera de los registros cuando la razón moral o la deuda lo justifican, y le contesta el teléfono a Chiara a cualquier hora. Es quien mantiene vivo a Cole en [[06_Relationships/Hitos]], H1, y por lo tanto **la prueba de que la red de Chiara es infraestructura real y no contactos sociales.**
+- Corrado Ardizzone — el padre. **Pendiente de ficha.** Muere en una redada federal; no debe escribirse como villano plano ni como inocente limpio. Fue un hombre que quiso a su mujer treinta años y no supo proteger su casa de lo que su mundo era.
 - Marta Bellandi (†) — la madre. El apellido, y el modelo entero de lo que Chiara entiende por amar.
 
 ---

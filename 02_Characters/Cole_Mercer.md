@@ -81,6 +81,16 @@ Por eso la intimidad le resulta más difícil que cosas objetivamente más pelig
 
 **Regla de escritura:** Cole no verbaliza nada de esto. Jamás. Su vulnerabilidad funciona por silencios, por decisiones, por quedarse, por gestos pequeños, por respuestas incompletas — y sobre todo por dejar que Chiara vea cosas que nadie más ve. Si un borrador lo tiene explicando su herida, el borrador está mal.
 
+### La fe que respeta
+
+Cole no es tan católico como Chiara. No tiene su educación religiosa, su soltura en una iglesia ni su manera de hablar con Dios.
+
+Pero respeta su fe porque es de ella.
+
+No la apura cuando enciende una vela. No hace bromas. No discute si sirve o no sirve. Aprende a quedarse quieto mientras ella pide que Dios lo cuide y lo traiga a casa.
+
+Y cuando una situación lo aterra incluso a él, va en persona a [[05_Locations/Iglesia_Santa_Lucia]], prende una vela y se sienta en silencio. No porque de pronto se vuelva devoto, sino porque hay miedos que no sabe convertir en plan.
+
 ---
 
 ## Historia
@@ -139,11 +149,11 @@ En agradecimiento, Cole lo ayudó a **entrar a Estados Unidos**, consiguiéndole
 
 ### El regreso, y Michael
 
-Y Cole vuelve en un momento emocionalmente terrible: **su viejo amigo del ejército **Michael Grayson**, ya retirado, se está muriendo de cáncer.**
+Y Cole vuelve en un momento emocionalmente terrible: **su viejo amigo del ejército [[02_Characters/Michael_Grayson|Michael Grayson]]**, ya retirado, se está muriendo de cáncer.
 
-**Marisol Grayson** es su hija. Cole se hace cargo de ella. Hoy **estudia y reside en la universidad.**
+**[[02_Characters/Marisol_Grayson]]** es su hija. Cole se hace cargo de ella. Hoy **estudia y reside en la universidad.**
 
-> **PENDIENTE:** ficha propia de Marisol. Función narrativa: es la única persona a la que Cole protege sin obtener nada, y por lo tanto el único termómetro fiable de en qué se está convirtiendo. Y es quien acaba diciéndole en la cara que protegerla no era lo mismo que dejarla decidir.
+> **RESUELTO (2026-08-23):** ficha propia creada en [[02_Characters/Marisol_Grayson]]. Función narrativa: es la única persona a la que Cole protege sin obtener nada, y por lo tanto el único termómetro fiable de en qué se está convirtiendo. Y es quien acaba diciéndole en la cara que protegerla no era lo mismo que dejarla decidir.
 >
 > Que **viva en la universidad y no en la casa** pesa: Cole la sacó del barrio. Le dio exactamente lo que a él nadie le dio — un sitio donde nadie sabe de dónde viene — y el precio es que casi no la ve.
 
@@ -196,6 +206,7 @@ Cosas que no cambian sin decisión explícita del autor:
 - **Nunca le ofrece su apellido a Chiara.** Ni una vez, ni en broma, ni al final. *Mercer* no necesita sustituir a *Bellandi* para que él sea su familia, y él lo entiende sin que nadie se lo explique: **respeta las decisiones que ella ya tomó.** Ver [[06_Relationships/Hitos]], H4.
 - **La violencia es lo último.** Vive en un mundo que la contiene, pero para Cole es la herramienta que queda cuando ya no hay otras — nunca un sustituto de carácter. Su terquedad humana es justamente lo que lo distingue en esta ciudad.
 - **Su palabra vale.** Es lo único que heredó sin que nadie se lo diera. Si Cole dice que va a hacer algo, ocurre, y esa reputación es la mitad de su poder real.
+- **Respeta la fe de Chiara.** No la entiende del todo, pero jamás la ridiculiza. Cuando él mismo va a la iglesia, es señal de miedo real. Ver [[04_Concepts/Fe_y_Velas]].
 
 ---
 
@@ -214,24 +225,30 @@ Guardarraíles. Si un borrador lo empuja hacia aquí, está mal escrito:
 ## Conexiones
 
 - [[02_Characters/Chiara_Bellandi]] — el otro motor. Ver [[06_Relationships/Cole_y_Chiara]].
-- [[03_Factions/Almendra_Towing]] — su base y su tapadera; después, el núcleo de la organización.
+- [[04_Concepts/Fe_y_Velas]] — el ritual de las velas: Chiara pide que vuelva; Cole aprende a respetar esa forma de miedo.
+- [[05_Locations/Iglesia_Santa_Lucia]] — el lugar donde Cole, en sus peores momentos, prende una vela y se sienta sin hablar.
+- [[03_Factions/Almendra_Towing]] — su primera empresa legal y base logística. No es la cara de la organización criminal; esa función empieza a dividirse entre Russ Whitaker y Cross River.
+- [[03_Factions/El_Patio]] — la red que nace alrededor del taller: favores, rutas, protección, deuda, carreras y después suministro.
+- [[02_Characters/Russell_Whitaker]] — ex veterano de su rotación; cara política de la red cuando El Patio necesita licencias, relato municipal y aspiración a alcaldía.
+- [[02_Characters/Garrett_Cross]] — administrador financiero y testaferro. Es quien convierte activos en papel limpio y puede decirle que no con números.
+- [[03_Factions/Cross_River_Consolidated]] — holding de activos donde Cole no debe aparecer como beneficiario visible.
 - **[[02_Characters/Hector_Navarro]]** — su viejo mentor y figura paterna, y su mano derecha en las operaciones. **El padre que eligió**, contra Dale Mercer, que fue el que le tocó. Es la única persona que lo quiere sin deberle nada, y por lo tanto la única con autoridad para reclamarle algo y que él escuche. El único que se dio cuenta de que estaba herido en [[06_Relationships/Hitos]], H1.
 - [[05_Locations/La_Casa]] — lo único que construye que no sirve para nada.
 - **[[02_Characters/Warren_Halbrook]]** — **su verdugo.** El general cuya red descubrió, y para quien Cole no es un héroe sino un desertor que sabe demasiado.
 - **[[02_Characters/Silas_Crowe]]**, *el Tasador* — **su antagonista inicial.** El hombre que le puso precio a la Almendra. Contra él construye su código.
 - **[[02_Characters/Dario_Valcora]]** — la cima del poder criminal de la ciudad. **Cole entra a su organización** en [[06_Relationships/Hitos]], H6 — para proteger a Chiara, y para comérsela desde dentro.
 - **[[02_Characters/Walter_Keegan]]**, *Walt* — amigo de su padre. Lo conoció de niño. Uno de los dos únicos hombres del libro que **no le deben nada**. Sale de prisión al empezar la novela, tras diez años que le armó Silas Crowe.
-- **Nadir Amrani** — su mejor amigo. Se conocieron **en prisión**: Nadir era un mercader acusado de robo, y **fue quien lo ayudó a salir**. Una de las pocas relaciones de su vida que no empezó con un favor. Uno de los dos que lo ven perfumado y nervioso en [[06_Relationships/Hitos]], H2-a.
-- **Daniel "Danny" Hayes** — del barrio, dueño del perro al que Cole le enseñó a dar la pata. El otro testigo de H2-a.
-- **Marisol Grayson** — hija de Michael Grayson. Cole se hizo cargo de ella cuando su padre murió. Estudia y reside en la universidad. **Su conciencia con piernas.** Pendiente de ficha.
-- **Michael Grayson** (†) — viejo amigo del ejército, retirado. Muere de cáncer poco después de que Cole vuelva. Le deja a su hija.
+- **[[02_Characters/Nadir_Amrani]]** — su mejor amigo. Se conocieron **en prisión**: Nadir era un mercader acusado de robo, y **fue quien lo ayudó a salir**. Una de las pocas relaciones de su vida que no empezó con un favor. Uno de los dos que lo ven perfumado y nervioso en [[06_Relationships/Hitos]], H2-a.
+- **[[02_Characters/Daniel_Hayes|Daniel "Danny" Hayes]]** — del barrio, dueño del perro al que Cole le enseñó a dar la pata. El otro testigo de H2-a.
+- **[[02_Characters/Marisol_Grayson]]** — hija de [[02_Characters/Michael_Grayson]]. Cole se hizo cargo de ella cuando su padre murió. Estudia y reside en la universidad. **Su conciencia con piernas.**
+- **[[02_Characters/Michael_Grayson]]** (†) — viejo amigo del ejército, retirado. Muere de cáncer poco después de que Cole vuelva. Le deja a su hija.
 - Dale Mercer — padre adoptivo, vivo o muerto **por decidir**. Recomendación: vivo, y que aparezca tarde — para que el contraste con el padre elegido tenga dónde caer.
 
 ---
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** ¿cómo se llama su organización cuando deja de ser sólo el taller, y quién le pone ese nombre? La tesis del vault dice que se lo pone la calle y que Chiara decide después qué significa (ver `CLAUDE.md`, "La ironía que sostiene el libro"). Falta el nombre.
+> **RESUELTO PARCIAL (2026-08-23):** la red recibe el nombre vivo de [[03_Factions/El_Patio|El Patio]] / **los del Patio**, con **Patio Almendra** como posible etiqueta institucional. La cara pública se divide entre [[02_Characters/Russell_Whitaker]] en política y [[03_Factions/Cross_River_Consolidated]] / [[02_Characters/Garrett_Cross]] en activos. **PENDIENTE:** confirmar si El Patio queda como nombre definitivo de calle.
 
 > **PENDIENTE:** ¿mata alguien Cole en esta novela, y en qué página? La respuesta define el género real del libro.
 

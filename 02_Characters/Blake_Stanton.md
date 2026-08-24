@@ -5,7 +5,7 @@
 > **CANON DEL AUTOR (2026-08-23).** Ficha compacta: registra lo definido y espera.
 
 **Rol:** el hombre con el que Chiara sale al llegar a la ciudad. **No es un rival: es un error de identificación.**
-**Oficio:** policía de [[05_Locations/San_Aurelio]].
+**Oficio:** oficial de patrulla/tránsito de [[05_Locations/San_Aurelio]].
 **Estado:** vivo.
 
 ---
@@ -50,7 +50,7 @@ En [[06_Relationships/Hitos]], H3-a, presume sus habilidades al volante y la inf
 
 > **PENDIENTE:** ¿vuelve? Un policía despechado con acceso a Chiara es la clase de pieza que este libro debería cobrar.
 
-> **PENDIENTE:** su lugar en el Departamento, y de qué facción interna es.
+> **RESUELTO (2026-08-23):** su lugar en el Departamento es patrulla/tránsito. Funciona cerca de controles, persecuciones, orgullo al volante y escenas donde la policía llega primero, no como detective del caso central.
 
 ---
 

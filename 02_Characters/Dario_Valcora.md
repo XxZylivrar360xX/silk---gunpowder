@@ -41,9 +41,43 @@ Egocéntrico. Y **misógino disimulado** — lo importante es *disimulado*: jam�
 
 ---
 
+## Cómo gobierna a las bandas
+
+Valcora gobierna hacia abajo con miedo administrativo. No todas las bandas de [[05_Locations/San_Aurelio]] trabajan para él de forma limpia, pero todas saben que operan bajo su clima.
+
+Su método:
+
+- concede territorio menor mientras no estorbe negocios grandes;
+- deja que las bandas del sur se peleen por mercado, deuda y esquinas;
+- interviene sólo cuando el desorden amenaza puerto, casino, política o prensa;
+- amenaza con liquidar grupos completos si necesita cortar una guerra;
+- usa la posibilidad de tortura como rumor de gobierno: no tiene que mostrarla cada vez, sólo recordar que existe.
+
+La obediencia que produce es rápida y profunda, pero no leal. Las bandas no lo respetan: calculan cuánto miedo le tienen.
+
+Las organizaciones menores relevantes están en [[03_Factions/Bandas_Menores_de_San_Aurelio]]: cuatro del sur, dos del norte y una banda motociclista costera. Valcora no las maneja como empleados; las maneja como clima.
+
+El centro viejo queda fuera de ese reparto. Nadie sostiene mercado permanente junto a hospitales, Ayuntamiento, juzgados y comisarías: demasiado uniforme, demasiada cámara, demasiada prensa cerca.
+
+> **DISEÑO:** el contraste con [[02_Characters/Cole_Mercer]] tiene que crecer lento. Dario gobierna porque todos creen que puede destruirlos. Cole asciende porque cada vez más gente cree que, con él, puede seguir operando sin ser humillada de entrada. Eso no vuelve inocente a Cole: cuando agota las salidas, dispara.
+
+Ver también [[05_Locations/Estado_de_la_Ciudad]] y [[03_Factions/Mapa_de_Conflicto_Activo]].
+
+---
+
 ## Lo que ya sabe hacer contra ellos
 
 Nada, todavía. Y ése es el punto: cuando lo haga, sabrá **exactamente dónde tocar**, porque conoce a Chiara desde antes que Cole.
+
+---
+
+## El asesinato de Keene
+
+Al iniciar la novela, Valcora manda matar o permite matar a [[02_Characters/Raymond_Keene]], el jefe de policía anterior.
+
+La utilidad narrativa no es sólo quitar a un funcionario. Es mostrar cómo gobierna Valcora: si una pieza institucional estuvo coludida y después se volvió problema, se convierte en mensaje.
+
+La llegada de [[02_Characters/Elena_Vega]] es una consecuencia que Valcora subestima al principio.
 
 > **DISEÑO:** Valcora ya está a medio camino — entendió que hay una aventura. Es el candidato natural a descubrir la unión invisible entera. Y es también el candidato natural a ser quien rechazó a Cole por "demasiado listo" en H2 — lo que convertiría todo el ascenso en la consecuencia de un error suyo.
 
