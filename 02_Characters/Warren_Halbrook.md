@@ -88,7 +88,7 @@ Y con una crueldad que el texto no necesita señalar: **Nadir está en este paí
 
 ### Lo que Halbrook mueve, y lo que Cole hace con ello
 
-El activo es **una entrada al complejo militar** donde los civiles no tienen acceso: **armamento largo**, para sacar y vender en la ciudad.
+El activo es **una entrada a [[05_Locations/Camp_Alder]]**, donde los civiles no tienen acceso: **armamento largo**, para sacar y vender en la ciudad.
 
 Y **Cole convierte el chantaje en moneda de cambio.** Lo van a obligar de todos modos; lo único que decide es qué compra con eso — y compra la seguridad de Chiara y los papeles de Nadir, entrando a la organización de [[02_Characters/Dario_Valcora]] con las armas como dote.
 

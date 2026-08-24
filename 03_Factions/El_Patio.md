@@ -5,7 +5,7 @@
 > **CANON DE DISEÑO (2026-08-23):** **El Patio** es el nombre vivo de la red que nace alrededor de [[03_Factions/Almendra_Towing]]. No es una empresa legal, no es la cara pública final y no necesariamente es el nombre que aparecería en un expediente. Es cómo se empieza a nombrar el lugar, la gente y la fuerza de Cole cuando ya no caben dentro del taller.
 
 **Qué es:** red criminal y comunitaria nacida alrededor del patio de grúas de Cole.
-**Territorio:** [[05_Locations/San_Aurelio]] — La Almendra, rutas de grúas, carreras del norte, aeropuerto, y progresivamente corredores de puerto.
+**Territorio:** [[05_Locations/San_Aurelio]] — La Almendra, rutas de grúas, carreras del norte, Kingsley Field, [[05_Locations/Cedar_Flats]], y progresivamente corredores de puerto.
 **Cabeza:** [[02_Characters/Cole_Mercer]].
 **Estado al abrir la novela:** todavía no existe como organización; existe como taller, favores y gente alrededor de Cole.
 
@@ -23,6 +23,20 @@ No confundir:
 | Caras públicas | [[02_Characters/Russell_Whitaker|Russell "Russ" Whitaker]] / [[03_Factions/Cross_River_Consolidated]] | política municipal, negocios respetables, imagen, relato y lavado a escala |
 
 **Regla:** Almendra Towing es una empresa. El Patio es la red. Patio Almendra es una etiqueta externa. Las caras públicas son lo que permite que el Patio parezca ciudad, campaña y holding.
+
+---
+
+## Ubicación Física
+
+El Patio nace en La Almendra, en el cruce operativo de **Avenida Almendra** y **Calle Esparza**, bajo la sombra de la Ronda Exterior y cerca de las vías de carga. No es una guarida: es un patio de grúas, taller, estacionamiento, bodega, punto de reunión y excusa legal para que entren y salgan vehículos todo el día.
+
+Esa ubicación le da tres ventajas:
+
+- queda lo bastante cerca de Calle Corona para responder rápido a hospitales, comisarías y juzgados;
+- queda lo bastante lejos de la costa para no parecer parte del negocio nocturno de Valcora;
+- tiene salida natural hacia Ronda Exterior, Puerto Viejo, Kingsley Field y el norte rural.
+
+**Regla visual:** El Patio no debe sentirse cinematográficamente secreto. Debe sentirse útil. Si alguien mira desde fuera, ve grúas, aceite, metal, perros, coches retenidos y gente trabajando. La organización está en la lectura de esos movimientos, no en un letrero.
 
 ---
 
@@ -60,7 +74,7 @@ El Patio no empieza vendiendo violencia. Empieza vendiendo **movimiento confiabl
 - carreras como red de reclutamiento y prueba;
 - protección de negocios;
 - intercambio de información con policía local mediante casos;
-- conexión con puerto, aeropuerto, norte rural, costa y bandas menores. Ver [[03_Factions/Bandas_Menores_de_San_Aurelio]] y [[03_Factions/Mapa_de_Conflicto_Activo]].
+- conexión con puerto, Kingsley Field, [[05_Locations/Norte_Rural_de_San_Aurelio|norte rural]], costa y bandas menores. Ver [[03_Factions/Bandas_Menores_de_San_Aurelio]] y [[03_Factions/Mapa_de_Conflicto_Activo]].
 
 ### Lo que lo cambia de escala
 
@@ -161,7 +175,7 @@ El método se vuelve repetible: detectar problema, resolverlo, volverse indispen
 
 Dinero propio, gente propia, historia propia. Aquí la calle empieza a decir **los del Patio**.
 
-**Alcance:** La Almendra, rutas de grúas, carreras, norte rural, primeras piezas de puerto.
+**Alcance:** La Almendra, rutas de grúas, carreras, Kingsley Field, norte rural, primeras piezas de puerto.
 
 **Riesgo:** alguien importante deja de verlo como proveedor y empieza a verlo como amenaza.
 
@@ -169,7 +183,7 @@ Dinero propio, gente propia, historia propia. Aquí la calle empieza a decir **l
 
 El Patio ya no sólo mueve: decide qué puede moverse.
 
-**Alcance:** puerto, aeropuerto, suministros, policía local por casos, [[03_Factions/Cross_River_Consolidated]] y negocios de fachada.
+**Alcance:** puerto, Kingsley Field, Cedar Flats, suministros, policía local por casos, [[03_Factions/Cross_River_Consolidated]] y negocios de fachada.
 
 **Riesgo:** el FBI empieza a tener jurisdicción narrativa. Ver [[03_Factions/Fuerza_de_Tarea_Meridian]].
 

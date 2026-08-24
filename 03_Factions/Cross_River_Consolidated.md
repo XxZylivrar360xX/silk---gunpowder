@@ -11,7 +11,7 @@
 
 ## Qué hace
 
-Legalmente: compra, administra y participa en negocios respetables: inmuebles, servicios, contratos, propiedades de isla, participaciones minoritarias y sociedades que no parecen conectadas entre sí.
+Legalmente: compra, administra y participa en negocios respetables: inmuebles, servicios, contratos, propiedades de isla, participaciones minoritarias, parcelas alrededor de [[05_Locations/Cedar_Flats]] y sociedades que no parecen conectadas entre sí.
 
 Realmente: es una de las caras públicas de [[03_Factions/El_Patio]]. No sustituye a [[03_Factions/Almendra_Towing]]; la supera en escala. Almendra explica el primer dinero. Cross River explica el dinero que ya no cabe en un taller.
 
@@ -57,6 +57,15 @@ El casino es una lavadora narrativa antes que una máquina mágica. En manos de 
 
 El texto no necesita explicar mecánicas; necesita mostrar consecuencias: quién firma, quién calla, quién gana demasiado, quién pierde justo cuando conviene.
 
+## Relación con Bellandi Ridge
+
+[[05_Locations/Bellandi_Ridge_Vineyards]] no debe figurar como activo central de Cross River. Garrett puede blindar papeles, revisar estructuras o proteger compras periféricas, pero los viñedos de Chiara tienen que conservar una separación visible del Patio.
+
+Esa separación es útil por dos razones:
+
+- emocionalmente, Bellandi Ridge es de Chiara y del apellido que eligió;
+- legalmente, si el FBI conecta los viñedos demasiado pronto con Cross River, pierde fuerza la idea de que Chiara está construyendo algo propio.
+
 ---
 
 ## Preguntas abiertas
@@ -64,5 +73,7 @@ El texto no necesita explicar mecánicas; necesita mostrar consecuencias: quién
 > **PENDIENTE:** confirmar si Cross River es la cara pública principal de la organización o sólo su brazo financiero.
 
 > **PENDIENTE:** qué negocios de la isla entran primero bajo Cross River.
+
+> **PENDIENTE:** qué parcelas de Cedar Flats quedan bajo control indirecto de Cross River y cuáles siguen siendo de terceros útiles.
 
 > **PENDIENTE:** primer documento que Andrew Callahan logra conectar con El Patio.

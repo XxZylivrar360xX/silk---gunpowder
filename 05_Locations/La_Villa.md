@@ -1,4 +1,4 @@
-# La Villa
+# La Villa / Villa Candelaria
 
 *Ficha de Lugar — la casa oficial*
 
@@ -6,11 +6,28 @@
 >
 > **CORRECCIÓN:** este documento decía antes que la villa podía ser una fachada pública mientras el hogar real seguía en el barrio. **Falso.** La villa es la casa oficial **y es la casa de verdad**, y existe por una razón muy concreta: **el loft se quemó.**
 
-**Qué es:** una **villa en la zona de prestigio de San Aurelio**. La casa de Cole y Chiara cuando los dos ya son alguien en la ciudad.
+**Nombre público discreto:** **Villa Candelaria**.
+**Cómo la llaman ellos:** la villa.
+**Qué es:** una villa en **Lomas de San Jacinto**, la zona residencial del norte de San Aurelio, dentro de la franja alta de Cuesta Bonita. La casa de Cole y Chiara cuando los dos ya son alguien en la ciudad.
 **Por qué existe:** porque **[[02_Characters/Silas_Crowe]] incendió [[05_Locations/La_Casa]]**, el loft del barrio, por un cargamento que Cole no entregó a tiempo.
 **Qué ocurre aquí:** **el clímax de la novela.** [[06_Relationships/Hitos]], H1.
 
 ---
+
+## Ubicación
+
+**Lomas de San Jacinto** no es el Distrito Marino. No es dinero nuevo, playa, cristal ni torre. Es norte residencial: calles curvas, jacarandas viejas, muros bajos, seguridad privada que no parece seguridad, casas grandes separadas por pendiente, y vistas largas hacia la ciudad.
+
+Eso resuelve la lectura de clase:
+
+- **No se compraron una postal.** Se compraron una casa de verdad, apartada de la costa y de la noche.
+- **No fueron aceptados del todo por el dinero viejo.** La zona los tolera porque ya no puede ignorarlos.
+- **Cole queda fuera de lugar sin estar expulsado.** Esa incomodidad sirve mejor que una mansión de playa.
+- **Chiara puede construir hogar sin vivir encima del casino.** La subida física al norte marca el cambio de régimen.
+
+La villa queda a unos treinta minutos de La Almendra en condiciones normales, y a unos quince minutos de [[05_Locations/Bellandi_Ridge_Vineyards]] por la carretera interior.
+
+**Regla de seguridad:** la casa no es invisible. Es defendible, hermosa y demasiado conocida para que la unión invisible siga funcionando igual. Cuando llegan aquí, ya no están escondidos: están expuestos de otra manera.
 
 ## Cómo la compran
 
@@ -75,11 +92,39 @@ Ojo con la ironía: la casa que ella construyó frasco por frasco puede ser exac
 
 ---
 
+## Escena domestica - Bellissima
+
+> **CANON DE DISEÑO (2026-08-23):** escena tardia de intimidad accidental en la villa.
+
+Una noche, antes de dormir, Cole se esta duchando y Chiara baila **Bellissima** en medio del cuarto con audifonos. Esta en su propio mundo, sin producir imagen para nadie, sin saber que el ya salio del baño.
+
+Cole se queda mirandola. Sonrie, se rasca la cabeza y no la interrumpe.
+
+Cuando Chiara se da cuenta de que esta ahi:
+
+> **Chiara:** ¿Todo bien con la ducha?
+>
+> **Cole:** Si, si, estuvo movida.
+
+El sarcasmo funciona porque evidentemente no habla de la ducha. Habla de verla bailar, pero no necesita decirlo.
+
+La escena sigue con bromas domesticas sobre el short viejo de Cole y las playeras encogidas, y termina en calma:
+
+> **Cole:** Descansa, bella.
+>
+> **Chiara:** Buona notte, amore.
+
+**Funcion de la escena:** demostrar que Villa Candelaria tambien puede ser casa, no solo escenario del climax. Cole ve a Chiara cuando ella no esta administrando ninguna version de si misma, y no usa esa vulnerabilidad para burlarse ni para sexualizarla. Solo se queda.
+
+Ver [[06_Relationships/Los_Tres_Dias]] para el principio que esta escena cobra: la domesticidad como verdadero lenguaje romantico.
+
+---
+
 ## Pendientes
 
 > **RESUELTO (2026-08-23): el clímax de la novela ocurre aquí.** [[06_Relationships/Hitos]], **H1 — El regreso a casa** pasa en esta casa: la piscina donde se lava la sangre, la habitación de los dos, y el baño donde ella le contesta. **La casa final.**
 
-> **PENDIENTE:** en qué zona exactamente — Cuesta Bonita (dinero viejo) o el Distrito Marino (dinero nuevo). **Cuesta Bonita significa que los aceptaron; el Distrito Marino, que se la compraron.**
+> **RESUELTO (2026-08-23):** queda en **Lomas de San Jacinto**, zona residencial del norte dentro de la franja alta de Cuesta Bonita. No es la costa de dinero nuevo; es una casa de prestigio residencial, defendible y apartada.
 
 > **RESUELTO:** **sí tiene piscina** — es donde Cole se mete a lavarse la sangre en H1, con el collar puesto.
 

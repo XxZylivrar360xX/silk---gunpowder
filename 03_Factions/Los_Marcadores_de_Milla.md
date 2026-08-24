@@ -3,7 +3,7 @@
 *Ficha de Facción — organización menor del norte*
 
 **Qué es:** circuito de carreras, apuestas, pilotos y rutas rurales del norte.  
-**Territorio:** norte rural de [[05_Locations/San_Aurelio]], carreteras secundarias, zona del aeropuerto y taller ilegal del norte.  
+**Territorio:** norte rural de [[05_Locations/San_Aurelio]], carreteras secundarias, Kingsley Field y taller ilegal del norte.  
 **Cabeza:** Evan "Ace" Monroe.  
 **Estado al abrir la novela:** todavía parece cultura de velocidad antes que infraestructura criminal.
 

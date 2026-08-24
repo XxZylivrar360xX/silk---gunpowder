@@ -2,7 +2,7 @@
 
 *Ficha de Lugar — la zona segura de la primera etapa*
 
-**Qué es:** el penthouse encima de [[03_Factions/El_Casino]]. Donde vive Chiara al llegar a la ciudad.
+**Qué es:** el penthouse en la Torre Norte de [[03_Factions/El_Casino|The Monarch Casino & Hotel]]. Donde vive Chiara al llegar a la ciudad.
 **Dónde:** [[05_Locations/San_Aurelio]].
 **De quién es:** del casino. O sea: de otros. Y ése es el punto.
 

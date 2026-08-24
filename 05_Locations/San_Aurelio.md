@@ -7,6 +7,8 @@
 **Qué es:** ciudad ficticia de la costa de California. Puerto medio, población de alrededor de un millón, fundación española y decadencia industrial encima.
 **Función narrativa:** no es escenario. Es la tercera protagonista, y el premio por el que compiten los dos primeros.
 
+**Mapa operativo:** ver [[05_Locations/Mapa_Operativo_de_San_Aurelio]] para carreteras, tiempos narrativos, puntos de cierre, rutas de El Patio, rutas de Valcora y ubicación recomendada de lugares pendientes.
+
 ---
 
 ## Cómo es
@@ -31,7 +33,11 @@ Clima: sol seco casi todo el año, niebla marina de madrugada que borra las call
 
 **Cuesta Bonita** — la colina. Dinero viejo, casas con vista, el club. Es donde Chiara puede entrar sola y Cole no.
 
+**Lomas de San Jacinto** — franja residencial del norte, dentro de la parte alta de Cuesta Bonita. Casas grandes, privacidad cara, seguridad privada y calles curvas. Aquí está [[05_Locations/La_Villa|Villa Candelaria]], la casa final de Cole y Chiara.
+
 **El Distrito Marino** — dinero nuevo. Torres, restaurantes, la parte de la ciudad que sale en las fotos. El campo de batalla real: quien controla lo que se construye aquí, controla el futuro.
+
+**[[03_Factions/El_Casino|The Monarch Casino & Hotel]]** — hotel-casino en el borde del Distrito Marino, tocando La Isla sin pertenecerle. Fachada pública hacia Paseo Pacífica; espalda operativa hacia Terminal Road. El penthouse de Chiara está en su Torre Norte.
 
 **La Isla** — zona costera de ocio, clubes, bares, marinas pequeñas y hoteles de fin de semana. Territorio de piso de [[03_Factions/Breakwater_Saints_MC]] antes de que Cole abra el flujo de cocaína.
 
@@ -59,17 +65,25 @@ Clima: sol seco casi todo el año, niebla marina de madrugada que borra las call
 
 **La casa comunitaria** — en la Almendra. Cole vive ahí antes del loft, y presta un cuarto de visitas a Chiara dos noches. **PENDIENTE:** ficha propia; es donde el barrio la ve llegar por primera vez.
 
-**El taller del norte** — taller ilegal de las carreras callejeras, en lo más lejano del norte rural. Donde Valcora amenaza a Chiara. **PENDIENTE:** ficha propia y dueño.
+**[[05_Locations/Norte_Rural_de_San_Aurelio|Norte rural de San Aurelio]]** — eje de Lomas de San Jacinto, Bellandi Ridge, Kingsley Field, Rutas de Milla, Cedar Flats y Camp Alder. Donde la ciudad deja de parecer ciudad, pero sigue funcionando como infraestructura.
+
+**El taller del norte** — taller ilegal de las carreras callejeras, cerca de Kingsley Field y las Rutas de Milla. Donde Valcora amenaza a Chiara. **PENDIENTE:** ficha propia y dueño.
 
 **La mansión de Valcora** — donde Cole se le ofrece, en el patio ([[06_Relationships/Hitos]], H6). **PENDIENTE:** ficha propia.
 
 **Las cascadas** — apartado, con ruido de naturaleza y sin interrupciones. **El primer lugar del libro que no es territorio de nadie**, y donde Cole y Chiara sellan su pacto. **PENDIENTE:** nombre y ubicación.
 
-**El complejo militar** — donde los civiles no tienen acceso. La fuente del armamento largo. **PENDIENTE:** ubicación.
+**[[05_Locations/Camp_Alder|Camp Alder]]** — complejo militar al noreste, donde los civiles no tienen acceso. La fuente del armamento largo que Cole ofrece a Valcora en H6.
 
 **Los Álamos** — el norte muerto de las refinerías. Barato, vacío, contaminado, y por eso mismo el sitio donde alguien va a querer construir algo enorme. Territorio de [[03_Factions/Alamo_Salvage]]. Motor de trama a mitad de novela.
 
-**Rutas de Milla** — carreteras rurales, salidas de aeropuerto y caminos donde se corren apuestas ilegales. Territorio de [[03_Factions/Los_Marcadores_de_Milla]].
+**Kingsley Field** — aeropuerto del borde norte/interior de San Aurelio. No es sólo terminal de pasajeros: carga, hangares, servicios, lectores de placas y carreteras perimetrales donde H9 puede ocurrir.
+
+**Rutas de Milla** — carreteras rurales, salidas de Kingsley Field y caminos donde se corren apuestas ilegales. Territorio de [[03_Factions/Los_Marcadores_de_Milla]].
+
+**[[05_Locations/Bellandi_Ridge_Vineyards|Bellandi Ridge Vineyards]]** — los viñedos de Chiara, en la ladera norte entre Lomas de San Jacinto y [[05_Locations/Cedar_Flats]]. Propiedad legítima vinculada al apellido Bellandi; no es la base criminal de Cole.
+
+**[[05_Locations/Cedar_Flats]]** — pueblo agrícola lejano del norte. Parcelas de cultivo, bodegas rurales, camiones, trabajo estacional y cobertura logística posible.
 
 ---
 
@@ -98,7 +112,7 @@ Ver [[00_Biblia/Reglas_del_Mundo]] para las reglas completas. Resumen operativo:
 
 ## Preguntas abiertas
 
-> **PARCIALMENTE RESUELTO (2026-08-23):** la organización dominante es la de **[[02_Characters/Dario_Valcora]]** — *todo pasa por él* —, y controla [[03_Factions/El_Casino]]. Falta su nombre y su ficha de facción.
+> **PARCIALMENTE RESUELTO (2026-08-23):** la organización dominante es la de **[[02_Characters/Dario_Valcora]]** — *todo pasa por él* —, y controla [[03_Factions/El_Casino|The Monarch Casino & Hotel]]. Falta su facción formal propia.
 
 > **RESUELTO (2026-08-23):** las organizaciones menores están en [[03_Factions/Bandas_Menores_de_San_Aurelio]]: cuatro bandas del sur, dos del norte y una banda motociclista costera.
 

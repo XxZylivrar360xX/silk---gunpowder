@@ -1,14 +1,28 @@
-# El Casino
+# The Monarch Casino & Hotel
 
 *Ficha de Facción*
 
-> **Nombre pendiente.** El lugar existe en canon ([[06_Relationships/Hitos]], H2), pero todavía no tiene nombre propio ni fichas de sus socios.
+> **NOMBRE CANON DE DISEÑO (2026-08-23): The Monarch Casino & Hotel.** En diálogo: **el Monarch**. El archivo conserva el nombre `El_Casino.md` porque su función narrativa empezó antes que su nombre.
 
-**Qué es:** el casino de [[05_Locations/San_Aurelio]]. Propiedad de un grupo de socios italianos recién llegados, con [[02_Characters/Chiara_Bellandi]] entre ellos.
-**Territorio:** pendiente de ubicar en el mapa de la ciudad.
+**Qué es:** hotel-casino de [[05_Locations/San_Aurelio]], construido sobre un hotel costero de los años veinte y ampliado con una torre moderna de juego, suites y eventos. Propiedad de un grupo de socios italianos recién llegados, con [[02_Characters/Chiara_Bellandi]] entre ellos, y con [[02_Characters/Dario_Valcora]] como socio mayoritario local.
+**Territorio:** borde del Distrito Marino, tocando La Isla sin pertenecerle. Fachada pública hacia Paseo Pacífica; acceso discreto de carga hacia Terminal Road / Ruta de Muelles.
 **Estado al abrir la novela:** llegando. Los socios aterrizan de Italia el mismo día en que Cole conoce a Chiara.
 
 ---
+
+## Ubicación
+
+El Monarch está donde San Aurelio quiere verse cara: costa, cristal, valet, restaurantes, música, luces y cámaras privadas. Pero su espalda mira hacia la ciudad que lo sostiene: cocinas, lavandería, carga, estacionamientos de empleados, proveedores, rutas de muelle y seguridad contratada.
+
+**Colocación exacta:** frontera Distrito Marino / La Isla, sobre Paseo Pacífica, con salida de servicio a Terminal Road. Eso permite tres cosas:
+
+- Chiara pertenece al mundo visible de la entrada principal.
+- Cole entra por la puerta de proveedores sin dejar de poder aparecer en el lobby cuando hace falta.
+- Los [[03_Factions/Breakwater_Saints_MC]] no controlan el casino, pero sí controlan buena parte del piso nocturno que lo rodea.
+
+**El penthouse** queda en la Torre Norte del Monarch. Ver [[05_Locations/El_Penthouse]].
+
+**Regla de escena:** nadie "desaparece" en el Monarch sin pagar costo. Hay demasiadas cámaras, valet, empleados, guardias, ascensores, registros y gente que vive de recordar caras.
 
 ## Qué es en la estructura del libro
 
@@ -17,6 +31,8 @@
 El casino es la Fase 0 a II. El diario es la Fase III en adelante. Ver [[01_Timeline/00_Estructura_del_Ascenso]].
 
 **Y es la primera organización que la máquina de Cole se come**, a escala pequeña, delante del lector. La cadena de favores (H2, continuación) es literalmente las fases 1 y 2 del método de expansión ([[00_Biblia/Reglas_del_Mundo]], regla 2) ejecutadas en la primera veintena de capítulos.
+
+El nombre importa: **The Monarch** suena a poder antiguo aunque sea una ampliación nueva. Es perfecto para Valcora porque no parece criminal; parece una institución. Para Chiara, en cambio, empieza siendo una jaula elegante: el lugar tiene corona antes de que ella tenga reino propio.
 
 ---
 
@@ -45,7 +61,7 @@ Consecuencias narrativas que están servidas:
 
 > **PENDIENTE:** los demás socios, y qué relación tienen con Chiara — familia, empleadores, socios de su padre. Su grado de autoridad sobre ella es el reloj de la primera parte del libro.
 
-> **PENDIENTE:** ¿el casino es el negocio verdadero, o es la fachada de otra cosa? Lo segundo es más interesante y encaja con [[00_Biblia/Reglas_del_Mundo]], regla 6.
+> **RESUELTO DE DISEÑO (2026-08-23):** el casino sí es negocio verdadero, pero su valor mayor es ser infraestructura de relato: azar, entretenimiento, hospedaje, eventos, pérdidas plausibles, ganadores convenientes y dinero que puede salir pareciendo suerte. No es una lavadora mágica; es una máquina de versiones públicas.
 
 ---
 

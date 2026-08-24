@@ -5,7 +5,7 @@
 > **CANON DEL AUTOR (2026-08-23).** Ficha compacta: registra lo definido y espera. No inventar biografía.
 
 **Rol:** antagonista principal. La cima del poder criminal de [[05_Locations/San_Aurelio]].
-**Qué es:** magnate de la ciudad y **cabeza de la mafia vigente — todo pasa por él**. Además, **socio mayoritario de [[03_Factions/El_Casino]]**.
+**Qué es:** magnate de la ciudad y **cabeza de la mafia vigente — todo pasa por él**. Además, **socio mayoritario de [[03_Factions/El_Casino|The Monarch Casino & Hotel]]**.
 **Estado:** vivo.
 
 ---
@@ -104,7 +104,7 @@ Todo en [[06_Relationships/Hitos]], H5:
 
 En [[06_Relationships/Hitos]], H6: **Cole se ofrece a trabajar para él, como parte de la organización.**
 
-A cambio, Cole pide **seguridad para Chiara**. Y trae con qué pagarlo: **una entrada al complejo militar** para sacar armamento largo y venderlo en la ciudad.
+A cambio, Cole pide **seguridad para Chiara**. Y trae con qué pagarlo: **una entrada a [[05_Locations/Camp_Alder]]** para sacar armamento largo y venderlo en la ciudad.
 
 **Valcora acepta** — y con eso **desvía momentáneamente su atención de Chiara.**
 

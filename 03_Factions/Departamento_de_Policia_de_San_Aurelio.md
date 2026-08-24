@@ -94,7 +94,7 @@ Su valor estructural no es ser policía en abstracto: es un hombre del Departame
 
 ### Tránsito y carreras
 
-El Peugeot rojo de [[02_Characters/Cole_Mercer]] ya tiene reputación entre policías. Las carreras ilegales del norte y la zona del aeropuerto le dan al Departamento una entrada temprana al mundo de Cole sin entender todavía qué están mirando.
+El Peugeot rojo de [[02_Characters/Cole_Mercer]] ya tiene reputación entre policías. Las carreras ilegales del norte y la zona de Kingsley Field le dan al Departamento una entrada temprana al mundo de Cole sin entender todavía qué están mirando.
 
 Ver [[06_Relationships/Hitos]], H9.
 

@@ -36,7 +36,7 @@
 |---|---|---|
 | [[03_Factions/Los_Calderos]] vs [[03_Factions/Los_Bravos_de_Santa_Brigida]] | **Conflicto activo** | Los Bravos cobran protección a talleres que Los Calderos consideran suyos. |
 | [[03_Factions/La_Ronda_del_Canal]] vs [[03_Factions/Cuadra_Nueve]] | **Tregua frágil** | La Ronda necesita corredores; Cuadra Nueve necesita rutas. Se usan y se culpan. |
-| [[03_Factions/Los_Marcadores_de_Milla]] vs [[03_Factions/Breakwater_Saints_MC]] | **Rivalidad de reputación** | Carreras, motos, apuestas y control de noche se cruzan cerca de la costa y aeropuerto. |
+| [[03_Factions/Los_Marcadores_de_Milla]] vs [[03_Factions/Breakwater_Saints_MC]] | **Rivalidad de reputación** | Carreras, motos, apuestas y control de noche se cruzan entre la costa, La Isla y las rutas hacia Kingsley Field. |
 | [[03_Factions/Alamo_Salvage]] vs [[03_Factions/Los_Calderos]] | **Competencia silenciosa** | Chatarra industrial contra autopartes urbanas: mercados distintos hasta que una carga vale demasiado. |
 | [[03_Factions/Breakwater_Saints_MC]] vs [[03_Factions/Los_Bravos_de_Santa_Brigida]] | **Enemistad de piso** | Los Bravos quieren cobrar músculo donde los Saints ya venden seguridad. |
 

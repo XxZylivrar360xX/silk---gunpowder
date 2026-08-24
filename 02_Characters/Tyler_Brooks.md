@@ -38,7 +38,7 @@ Lo que opera hoy:
 - Es miembro organizador de carreras callejeras.
 - A los 21 años es el más joven del grupo importante.
 - Entra a la organización de Cole por utilidad, no por ceremonia.
-- Su circuito conecta con la zona del aeropuerto y el taller ilegal del norte.
+- Su circuito conecta con Kingsley Field, las Rutas de Milla y el taller ilegal del norte.
 
 ---
 
