@@ -208,7 +208,7 @@ Chiara cerró los ojos.
 
 —Por favor, no me dé otro problema.
 
-—Ya lo tenía. Yo nomás lo señalé.
+—Ya lo tenía. Yo solo lo señalé.
 
 Quiso reírse. No lo hizo.
 
@@ -404,7 +404,7 @@ Nadir levantó la vista.
 
 Cole le tiró una factura doblada. Nadir la atrapó riéndose.
 
-—Te estás poniendo sensible.
+—Te estás poniendo sensible, khoya.
 
 —Estoy cansado.
 

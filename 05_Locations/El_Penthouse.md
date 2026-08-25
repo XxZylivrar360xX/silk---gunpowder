@@ -32,7 +32,7 @@ La ruta de [[06_Relationships/Hitos]], H2-b, recorre el penthouse entero, y el o
 
 **La silla de estética**, para cortar el pelo. Cole **casi deja que ella se lo corte**; ella le dice que el corte que trae le va muy bien. Coquetería disimulada de manual: le niega el favor y le regala el cumplido.
 
-**El vestidor principal.** Donde cae la chamarra, y con ella la primera verdad de la noche. Ver H2-b.
+**El vestidor principal.** Donde cae la chaqueta, y con ella la primera verdad de la noche. Ver H2-b.
 
 ---
 

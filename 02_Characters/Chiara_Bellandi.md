@@ -233,6 +233,7 @@ Guardarraíles. Si un borrador la empuja hacia aquí, está mal escrita:
 - **[[03_Factions/Il_Consorzio]]** — **su antagonista.** La red que la ve como *Chiara Ardizzone Bellandi* antes que como Chiara. No la odia: la tiene asignada.
 - **[[02_Characters/Leone_Valenti]]**, *Il Consigliere* — la cara del Consorcio. Cordial de verdad, y por eso mucho peor. **No amenaza: produce consecuencias.** Es ella misma treinta años después, a escala de instituciones.
 - **[[02_Characters/Dario_Valcora]]** — su jefe. Cabeza de la mafia de la ciudad y socio mayoritario del casino. La ve como un activo político reemplazable.
+- [[02_Characters/Nadir_Amrani]] — amigo íntimo de Cole. La relación empieza incómoda: Nadir desconfía de ella y Chiara lo tolera porque sabe que forma parte de la vida de Cole; ninguno de los dos le concede confianza automática al otro.
 - **[[02_Characters/Andrew_Callahan]]** — agente especial supervisor del FBI. Entra cuando la organización de Cole escala a nivel internacional; representa una herida federal anterior aunque quizá no la haya causado personalmente.
 - **[[02_Characters/Garrett_Cross]]** — administrador financiero de El Patio. Colabora con ella en el casino para que el dinero tenga una versión pública creíble.
 - **[[02_Characters/Anya_Voronina]]** — contacto rusa de Cole y amor pasado de Afganistán. No es rival simple; es la prueba de que Chiara no fue la primera mujer que conoció a Cole, sino la primera que lo hizo creer.

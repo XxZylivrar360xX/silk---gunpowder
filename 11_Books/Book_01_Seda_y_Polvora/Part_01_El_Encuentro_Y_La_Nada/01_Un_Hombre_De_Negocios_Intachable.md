@@ -8,7 +8,61 @@ Funcion: instalar el dia normal de Cole, la llegada de Chiara, Matteo Bellacorte
 
 # Capítulo 1 — Un hombre de negocios intachable
 
-A las siete y doce de la mañana, Cole Mercer ya había firmado tres hojas que no decían la verdad completa.
+San Aurelio despertaba por capas.
+
+Primero los camiones de basura, pesados y malhumorados, levantaban las tapas de los callejones. Luego las persianas de metal subían una por una en la Almendra, los autobuses empezaban a escupir trabajadores en Calle Corona y el olor del pan de la mañana se mezclaba con el escape de los coches que todavía llevaban la noche pegada en los asientos. Más arriba, hacia Cuesta Bonita, las ventanas se abrían sin ruido y la ciudad fingía que el día empezaba limpio.
+
+En la oficina de Almendra Towing, Cole Mercer leía una carta de Walt.
+
+El sobre estaba abierto junto a la taza de café. El papel había pasado por demasiadas manos antes de llegar a la suya: funcionario, sello, reclusorio, correo. Aun así, la letra de Walt seguía inclinándose igual, como si diez años encerrado no hubieran conseguido enderezarla.
+
+> Cole:
+>
+> Me dieron la libertad condicional.
+>
+> No te voy a mentir: estoy cansado. Cansado de las paredes, de los horarios, de que todos los hombres aquí sepan exactamente cuándo tienen que mirar al suelo. Pero también estoy emocionado. Más de lo que debería estar un viejo que ya aprendió a no esperar demasiado.
+>
+> La última audiencia es el **próximo lunes**. Si puedes, acompáñame. Me gustaría verte ahí cuando salga. Y si Héctor puede estar, dile que no se haga el duro conmigo. Lo extraño más de lo que sé decir en una carta.
+>
+> Espero que mi hijo esté ahí también. No sé si vendrá, pero uno puede esperar hasta el último minuto, ¿no? Después de diez años, supongo que todavía me toca hacerme ilusiones de vez en cuando.
+>
+> El juez dice que no puedo meterme en problemas. Puedes decirle que ya entendí. Pero que no se emocione demasiado: todavía queda Viejo Walt para rato.
+>
+> Nos vemos pronto, muchacho.
+>
+> **Walt**
+
+El juez había aprobado su libertad condicional. Walt iba a salir.
+
+La esperanza de Walt le recordó a Jim.
+
+Cole lo había visto marcharse una noche con las cosas amontonadas en la camioneta de su padre: dos bolsas negras, una caja de herramientas, ropa doblada sin cuidado y una lámpara envuelta en una cobija. Jim había cerrado la puerta de la caja y se había quedado junto a la defensa, mirando la Almendra como si ya no reconociera ninguna de sus calles.
+
+—San Aurelio es una cloaca de desgracias —había dicho—. Ya no queda nada para mí aquí.
+
+Cole le había contestado que el barrio estaría para él. Que podía volver cuando quisiera. Que siempre habría una cama, trabajo y alguien que contestara el teléfono.
+
+Jim había negado con la cabeza.
+
+—No es suficiente.
+
+La camioneta se había ido dejando una nube de polvo detrás. Cole se quedó en la calle hasta que las luces dejaron de verse, decepcionado de Jim y, por alguna razón que entonces no supo nombrar, también de sí mismo. Al recordarlo, tragó saliva. El polvo seguía ahí, en algún lugar detrás de la garganta.
+
+Cole volvió a leer esa parte, aunque ya la sabía de memoria. No decía que el tiempo pudiera devolverse. No decía que el juez hubiera visto la verdad. Walt había estado diez años encerrado por un crimen que no cometió; Silas Crowe había puesto la culpa donde le convenía y la ciudad había aceptado el expediente porque un expediente era más fácil de soportar que un culpable verdadero.
+
+La noticia le abrió demasiadas puertas a la vez.
+
+Pensó en Nadir, que habría preguntado primero cuánto costaba la libertad y después qué iban a comer. Pensó en Héctor, que no hablaba de Walt desde hacía años porque hablar de él era aceptar que seguía encerrado. Pensó en Russ y en Garrett, en los hombres que habían ayudado a mantener la estructura de pie mientras Cole aprendía a convertir una deuda en negocio.
+
+Y pensó en Danny.
+
+Nadir le había contado que lo encontró consumiendo metanfetaminas en un cuarto trasero del taller. Al principio Danny decía que era para aguantar los turnos, que podía dejarla cuando quisiera, que no era distinto de cualquier otra cosa que la gente usaba para atravesar la semana. Pero ya no eran dosis recreativas ni una mala decisión de madrugada. Se estaban volviendo una cosa más oscura, más frecuente, más nociva. Cole había escuchado en silencio mientras Nadir hablaba. Los dos estaban preocupados; ninguno sabía todavía cómo acercarse sin hacer que Danny levantara una pared.
+
+La carta crujió entre sus dedos.
+
+Cole la dobló con cuidado, la guardó en el bolsillo interior de su chaqueta de mezclilla y apoyó la mano encima un instante, como si pudiera mantener a Walt dentro del papel hasta que llegara el momento de verlo.
+
+A las siete y doce de la mañana, ya había firmado tres hojas que no decían la verdad completa.
 
 Decían **Almendra Towing** arriba, con el membrete azul que Danny había diseñado en una computadora prestada y que a Cole todavía le parecía demasiado bonito para una empresa que olía a aceite quemado. Decían *servicio municipal*, *retiro de vehículo*, *resguardo temporal*. Decían todo lo que tenía que decir un papel para que una grúa pudiera llevarse un coche de cualquier calle de San Aurelio a plena luz del día sin que nadie levantara la voz.
 
@@ -18,7 +72,7 @@ Eso Cole lo guardaba en otro libro.
 
 No estaba escrito.
 
-—El Ford de Santa Brígida volvió a tronar —dijo Nadir desde la puerta de la oficina, con un vaso de café en una mano y una carpeta en la otra—. El dueño dice que ahora sí nos paga el viernes.
+—El Ford de Santa Brígida volvió a tronar, khoya —dijo Nadir desde la puerta de la oficina, con un vaso de café en una mano y una carpeta en la otra—. El dueño dice que ahora sí nos paga el viernes.
 
 Cole levantó la vista de las facturas.
 
@@ -166,7 +220,7 @@ Eso la hacía más cara.
 
 A las nueve y cuatro, Cole estacionó una grúa blanca frente al Departamento de Policía de San Aurelio y dejó el motor encendido.
 
-Calle Corona ya estaba despierta. Los juzgados abrían sus puertas, un camión de mensajería bloqueaba media banqueta, dos empleados del Ayuntamiento fumaban junto a una jardinera y una patrulla con la defensa vencida esperaba en doble fila como si también tuviera cita. El centro viejo olía a café de oficina, escape caliente, papel húmedo y desinfectante. No era olor a ley. Era olor a gente intentando que la ley alcanzara para todo.
+Calle Corona ya estaba despierta. Los juzgados abrían sus puertas, un camión de mensajería bloqueaba media acera, dos empleados del Ayuntamiento fumaban junto a una jardinera y una patrulla con la defensa vencida esperaba en doble fila como si también tuviera cita. El centro viejo olía a café de oficina, escape caliente, papel húmedo y desinfectante. No era olor a ley. Era olor a gente intentando que la ley alcanzara para todo.
 
 Cole bajó con una carpeta bajo el brazo.
 
@@ -232,6 +286,10 @@ La radio del pasillo soltó una clave y volvió a callarse. Keene no miró hacia
 
 —Intente otra vez.
 
+Cole miró la taza de café intacta, la fotografía familiar vuelta hacia Keene y las carpetas abiertas sobre el escritorio. El chief no estaba preguntando por el precio. Quería saber qué problema podía admitir sin convertirlo en una confesión: coches viejos, presupuesto corto, oficiales que ya habían aprendido a no reportar cada ruido porque reportarlo también podía ser culpa de alguien.
+
+Cole podía darle una respuesta que sonara a negocio y le dejara una salida que pareciera decisión propia.
+
 Cole apoyó los antebrazos en las rodillas.
 
 —Compra que mis grúas no sean sorpresa cuando estén cerca de una patrulla. Compra que si una unidad truena en Santa Brígida no espere dos horas por un remolque del condado. Compra que sus oficiales no anden manejando coches que chillan al frenar frente a medio barrio.
@@ -246,6 +304,24 @@ Keene cerró la carpeta.
 
 —Por eso traje contrato.
 
+Keene dejó la mano sobre la carpeta.
+
+—¿Y qué quiere que diga si alguien pregunta por qué sus grúas aparecen antes que las demás?
+
+Cole no contestó de inmediato. La pregunta no era legal. Era política. Keene necesitaba una frase que pudiera repetir sin que pareciera que había entregado una puerta.
+
+—Diga que está probando un sistema de mantenimiento —respondió—. Seis unidades. Tres meses. Fechas, kilometraje, piezas y tiempos de respuesta. Si no funciona, lo cancela con números en la mano. Si funciona, no tendrá que explicar por qué dejó que sus patrullas siguieran muriéndose en la calle.
+
+Keene lo miró por encima de la carpeta.
+
+—¿Por qué seis?
+
+—Porque doce parece contrato. Seis parece que usted todavía manda.
+
+La radio del pasillo soltó una clave y volvió a callarse. Keene no miró hacia la puerta. Cole sí, sin mover la cabeza.
+
+El chief cerró la carpeta, pero ya no para terminar la conversación. La cerró para decidir dónde ponerla.
+
 Keene sostuvo la carpeta cerrada con la palma. Tenía manos de hombre que había usado uniforme de calle antes de aprender escritorio, pero ya no hacía trabajo que dejara grasa debajo de las uñas. Cole notó un raspón mínimo en el nudillo derecho. Reciente. No de oficina.
 
 —Almendra Towing ya tiene llamadas municipales —dijo Keene.
@@ -258,7 +334,13 @@ Keene sostuvo la carpeta cerrada con la palma. Tenía manos de hombre que había
 
 —Todos quieren estabilidad cuando empiezan a crecer.
 
-Cole no respondió de inmediato. Afuera, una sirena se encendió dos segundos y se apagó; alguien apartando tráfico para salir de la cuadra, no una emergencia real.
+Cole dejó que la palabra creciera entre ellos. No la negó. Negarla habría sonado a defensa; aceptarla le permitía escoger qué significaba.
+
+—Estabilidad para usted —dijo—. No preferencia para mí. Si las seis unidades entran el martes y salen el mismo día, su gente deja de improvisar y yo dejo de perseguir facturas como si estuviera pidiendo un favor.
+
+Keene lo observó en silencio. Cole había vuelto a mover la conversación: de quién recibía ventaja a quién cargaba con el costo de que nada funcionara.
+
+Afuera, una sirena se encendió dos segundos y se apagó; alguien apartando tráfico para salir de la cuadra, no una emergencia real.
 
 —Tiene doce unidades con más de ciento veinte mil millas —dijo Cole—. Cuatro con llantas que no pasan lluvia fuerte. Dos Crown Victoria que siguen rodando porque nadie quiere firmar que ya murieron. Y una Tahoe negra que pierde aceite desde hace seis meses pero todavía la mandan a eventos porque se ve bien en fotos.
 
@@ -270,9 +352,17 @@ Keene abrió la carpeta otra vez, aunque no hacía falta.
 
 —Los coches no hablan.
 
-—Hablan todo el tiempo. Nomás no en inglés.
+—Hablan todo el tiempo. Solo que no en inglés.
 
 Keene casi sonrió. Casi.
+
+—Usted viene preparado.
+
+—Vengo a no hacerle perder la mañana.
+
+—Eso dicen los hombres que ya decidieron cuánto van a cobrar.
+
+—Por eso se lo estoy diciendo antes de que me lo pregunte.
 
 —Noventa días para piezas.
 
@@ -289,6 +379,8 @@ Cole sacó una hoja del final de la carpeta y la puso encima.
 —Ahí está.
 
 Keene leyó. Luego leyó otra vez. La cifra no era caridad. Eso ayudó. A los hombres como Keene les tranquilizaba más que alguien cobrara bien a que alguien pareciera bueno.
+
+Cole no bajó la mirada. Había puesto el precio en la hoja y la salida en la boca de Keene. Lo demás era dejar que el hombre creyera que la decisión todavía se estaba formando en su escritorio.
 
 —Puedo autorizar un piloto —dijo al fin—. Tres meses. Seis unidades. Si mi gente se queja, se acaba.
 
@@ -328,9 +420,47 @@ Cole salió con una firma, tres objeciones previsibles y la certeza de que Keene
 
 Eso también era relato.
 
+En cuanto dobló hacia Paseo Corona, Cole pulsó el botón del manos libres. El sol rebotaba en los parabrisas del tráfico de media mañana y convertía las ventanas de los juzgados en placas blancas. Detrás de él, la comisaría se encogió entre camiones de mensajería, policías fumando junto a la entrada y una patrulla que salió demasiado rápido para no tener prisa.
+
+La grúa blanca no tenía aire acondicionado. El tablero despedía un calor de plástico viejo y el volante vibraba cada vez que Cole pasaba sobre una junta del pavimento. Bajó la ventanilla; entraron olor a escape, café derramado y el golpe seco de una obra en alguna calle lateral. Entonces pulsó el número de Nadir.
+
+—Hermano, voy saliendo de la comisaría.
+
+La voz de Nadir llegó entre estática y ruido de taller. Al fondo sonó una herramienta neumática, luego alguien gritó que no dejaran una defensa junto a la puerta. Nadir no estaba sentado esperando la llamada: estaba haciendo algo con las manos, como siempre.
+
+—Wallah, ¿cómo te fue con el puerco?
+
+—Conseguí tres meses.
+
+—Hamdulillah. Al menos con eso tenemos ingreso fijo para las máquinas de pintura.
+
+Cole miró el semáforo que acababa de ponerse en rojo. Tres meses no eran una fortuna, pero alcanzaban para comprar la primera máquina sin pedirle dinero a nadie. Mientras esperaba, un repartidor cruzó entre los coches con una charola de vasos y una motocicleta le pitó desde el carril de al lado.
+
+—¿Sigues con eso de la estética de los autos?
+
+—¿Estás bromeando o qué? Un auto no es perfecto hasta que no lo mejoras con un buen alerón y una mano buena de pintura.
+
+—Un auto es perfecto cuando no te falla al tomar una curva cerrada, y eso no lo logra la pintura.
+
+—Es fácil para ti decirlo. Además, eso sólo pasó una vez, safi. Mi Taurus ya se recuperó de los rayones de ese malvado arbusto.
+
+Cole soltó una risa breve. Recordaba el Taurus detenido junto a una jardinera, el cofre hundido y Nadir examinando las ramas como si el arbusto hubiera actuado con premeditación. El arbusto había sido una advertencia; Nadir lo había convertido en argumento de ventas.
+
+—Voy al Gelsomino. ¿Te llevo algo?
+
+—Odio la comida italiana, wallah. Mejor, si pasas con Mabel, tráeme lo que tenga mejor pinta. Ah, y también para los chicos.
+
+—Vale. Hasta entonces.
+
+—Hasta entonces.
+
+La llamada terminó con un clic pequeño. Cole dejó el teléfono en el soporte y esperó a que cambiara el semáforo. Cuando avanzó, una bicicleta se metió por su punto ciego y tuvo que frenar; la caja vacía que llevaba detrás golpeó contra la reja de la grúa.
+
+Nadir no había preguntado por la comisaría después de oír la cifra; había hecho cuentas. Era una de las razones por las que Cole confiaba en él. Nadir podía escuchar una buena noticia y convertirla en una compra, una reparación o comida para seis personas antes de que el resto terminara de celebrarla. Cole nunca lo dejaba cerca de los libros que importaban. No porque Nadir no supiera contar dinero, sino porque sabía demasiado bien cómo hacer que una cuenta terminara favoreciéndolo.
+
 A las once y veintiocho, Cole manejó hacia Il Gelsomino con una caja de filtros de aceite en el asiento del copiloto y una factura doblada en la visera.
 
-El restaurante italiano quedaba en una calle que San Aurelio había decidido llamar pintoresca después de subirle la renta. Tenía toldo verde, mesas estrechas en la banqueta y una buganvilia empeñada en entrar por una ventana aunque nadie la hubiera invitado. Por las mañanas olía a ajo dorándose, café fuerte, pan tibio y cloro recién pasado por el piso. De noche, Cole lo sabía, el mismo lugar olía a vino caro y promesas que nadie pensaba escribir.
+El restaurante italiano quedaba en una calle que San Aurelio había decidido llamar pintoresca después de subirle la renta. Tenía toldo verde, mesas estrechas en la acera y una buganvilia empeñada en entrar por una ventana aunque nadie la hubiera invitado. Por las mañanas olía a ajo dorándose, café fuerte, pan tibio y cloro recién pasado por el piso. De noche, Cole lo sabía, el mismo lugar olía a vino caro y promesas que nadie pensaba escribir.
 
 No entró por la puerta principal.
 
@@ -390,7 +520,27 @@ La puerta principal tenía campanilla. La de servicio tenía una bisagra que nec
 
 Confiaba más en la bisagra.
 
-Volvió al taller poco después del mediodía, justo cuando el camión de autopartes intentaba meterse al patio como si trajera porcelana y no defensas usadas. El chofer se detuvo a media entrada, miró los coches apilados, las grúas, a Héctor con una llave inglesa en la mano, y entendió tarde que ya no estaba en la ruta limpia de los concesionarios.
+Volvió al taller poco después del mediodía. El sol había subido sobre las láminas del patio y el aire olía a caucho caliente, pintura vieja y sopa recalentada. Héctor estaba junto al elevador dos, con la llave inglesa todavía en la mano, deteniendo al chofer de un camión de autopartes que había entrado al patio como si trajera porcelana y no defensas usadas.
+
+Cole esperó a que el chofer terminara de mover la camioneta. Después sacó la carta del bolsillo interior de su chaqueta de mezclilla.
+
+—Llegó esto.
+
+Héctor miró el sobre antes de mirarlo a él. El ruido del patio siguió alrededor: una llave cayendo sobre el concreto, un motor que no quería encender, Danny cerrando demasiado fuerte una puerta al fondo.
+
+Cole le tendió la carta.
+
+—Es de Walt. El juez aprobó la libertad condicional. Va a salir.
+
+Héctor tomó el papel con las dos manos. Lo leyó una vez. Luego otra, más despacio. La mandíbula se le movió como si estuviera masticando algo que no podía tragar. Cuando bajó la carta, tenía los ojos llenos de lágrimas.
+
+Héctor Navarro había pasado diez años hablando de Walt en pasado porque era la única forma de soportar que un hombre inocente siguiera encerrado. Ahora se limpió la cara con el dorso de la mano, furioso con las lágrimas y demasiado cansado para esconderlas.
+
+—Gracias por contármelo, muchacho.
+
+Cole no respondió. Héctor le devolvió la carta y volvió hacia el camión, pero tardó un momento en levantar la llave inglesa. Durante esos segundos, el taller entero pareció trabajar alrededor de una ausencia que acababa de recibir fecha de regreso.
+
+El chofer miró los coches apilados, las grúas y a Héctor con una llave inglesa en la mano. Entendió tarde que ya no estaba en la ruta limpia de los concesionarios.
 
 —¿Dónde descargo?
 
@@ -484,7 +634,7 @@ Rafa se quedó mirando las llaves como si no entendiera que algo tan pequeño pu
 
 —Es tuya si no te matas antes del lunes.
 
-Rafa soltó una risa nerviosa, breve, casi infantil. En la banqueta, dos niños dejaron de patear una lata para mirar la moto. Un vecino que nunca compraba nada se acercó lo suficiente para opinar sobre el motor y no lo suficiente para ayudar a revisarlo. El lote empezó a hacer lo que hacían los lugares vivos: reunir testigos sin convocarlos.
+Rafa soltó una risa nerviosa, breve, casi infantil. En la acera, dos niños dejaron de patear una lata para mirar la moto. Un vecino que nunca compraba nada se acercó lo suficiente para opinar sobre el motor y no lo suficiente para ayudar a revisarlo. El lote empezó a hacer lo que hacían los lugares vivos: reunir testigos sin convocarlos.
 
 Cole firmó el recibo y no escribió descuento en ninguna parte.
 
@@ -530,15 +680,25 @@ Eso era lo bueno del lugar. Nadie le corregía las versiones.
 
 Cole se quedó un minuto más, leyendo el nombre como si pudiera encontrar ahí una instrucción que no hubiera visto antes. Luego dobló el recibo y lo guardó.
 
-—Tengo una junta en un casino.
+—Traje dos.
+
+Sacó dos cervezas del abrigo, todavía frías, y dejó una recargada contra la base de la lápida, tapa hacia arriba, como si Mike fuera a destaparla con el filo de un encendedor que ya no tenía.
+
+Abrió la suya y le dio un trago largo antes de seguir hablando.
+
+—El taller sigue de pie. Estable. Desde que volví, el barrio está tranquilo. Movido, pero nada como antes.
+
+Bajó la botella y la giró entre los dedos, mirando la humedad despegar la etiqueta.
+
+—Y no me gusta que esté tranquilo así. Quiero que cambie. Quiero que El Patio vuelva a estar en el juego, que la gente que vive aquí tenga algo parecido a una vida decente. Y sobre todo seguridad, que hoy es lo más difícil de conseguir en el sur. O proteges, o te protegen. Nunca hay paz sin una de las dos.
 
 El silencio no cambió.
 
-—Sí. Ya sé.
+Cole se quedó mirando la condensación resbalar sobre el nombre grabado en la piedra.
+
+—Como siempre. Nunca me dices si tengo razón.
 
 Se limpió las manos en el pantalón, aunque no estaban sucias.
-
-—No voy a jugar.
 
 Y por primera vez en todo el día, se quedó quieto.
 
@@ -546,9 +706,9 @@ No mucho.
 
 Lo suficiente.
 
-Había una diferencia entre entrar a un lugar que odiaba y dejar que ese lugar lo leyera. Michael habría entendido eso. O se habría reído primero, que era una forma más soportable de entenderlo.
+Michael habría entendido eso. O se habría reído primero, que era una forma más soportable de entenderlo.
 
-—Te aviso cómo sale.
+—Te aviso cómo va.
 
 Antes de irse, tomó una rosa blanca del ramo nuevo de Michael.
 
@@ -560,25 +720,41 @@ Cole no la tocó.
 
 Ni siquiera rozó la grava de ese lado al girarse.
 
+La mandíbula se le tensó un segundo, el mismo segundo de siempre, y se le pasó antes de que nadie hubiera podido preguntarle por qué.
+
 Se fue antes de que las campanas pudieran marcar otra hora.
 
 A las cuatro y media, Cole cruzó dos calles hasta La Esquina de Mabel para comprar comida.
 
 No era el lugar más cercano. Era el que no hacía preguntas cuando alguien pedía seis órdenes para llevar y sólo una servilleta extra. La campanita de la puerta sonó tarde, como si también estuviera cansada, y el aire de adentro lo recibió con café recalentado, aceite limpio, sopa del día y ese olor a pan tostado que se quedaba en las paredes aunque nadie estuviera comiendo pan.
 
-—Llegas cuando ya casi recojo —dijo Mabel Ortiz desde atrás del mostrador.
+Mabel Ortiz lo vio entrar y no perdió tiempo en saludos.
 
-—Nunca recoges.
+—Tú me dices qué quieres, rápido, porque hoy ando sola —dijo desde atrás del mostrador, sin levantar la vista de la plancha—. El chico se reportó enfermo esta mañana y aquí nadie más sabe cobrar sin regalar el cambio.
 
-—Porque gente como tú llega cuando ya casi recojo.
+Se limpió las manos en el delantal y recitó el menú como quien ya lo había dicho demasiadas veces ese día:
 
-Cole dejó el recibo de las flores sobre la mesa junto a la ventana, la que no cojeaba si uno ponía el pie derecho sobre la base. No pidió nada. Mabel ya estaba metiendo arroz, frijoles, carne guisada y tortillas en recipientes de unicel con una eficiencia que parecía enojo y casi siempre era cariño.
+—Arroz con pollo, milanesa, sopa de tortilla, guisado de res. El guisado ya se acabó.
+
+—¿Entonces para qué lo mencionas?
+
+—Porque yo decido si lo sirvo o no. Tú nada más escuchas.
+
+Cole levantó las manos, medio rendido.
+
+—Vale, Mab. Hoy no bromas.
+
+—Entonces dime.
+
+—Lo de siempre para mí. Y agrega para los chicos, seis raciones. Nadir jura que odia la comida italiana, así que dale lo que tenga mejor pinta hoy.
+
+Cole dejó el recibo de las flores sobre la mesa junto a la ventana, la que no cojeaba si uno ponía el pie derecho sobre la base. Mabel ya estaba metiendo arroz, frijoles, carne guisada y tortillas en recipientes de unicel con una eficiencia que parecía enojo y casi siempre era cariño.
 
 Había cuatro personas más en el local: dos trabajadores de la lavandería, una mujer con uniforme de farmacia comiendo sopa sin levantar la vista, Rafa Luna con casco nuevo sobre las rodillas y un hombre que no pertenecía ahí.
 
 Cole lo vio antes de verlo.
 
-No por la ropa, aunque la ropa ayudaba: saco claro, camisa abierta en el cuello, zapatos que no habían aprendido la banqueta de la Almendra. Era más bien la manera en que miraba el techo, las esquinas, la puerta trasera, como si cada lugar tuviera que explicarle sus salidas antes de permitirle sentarse. Los de San Aurelio miraban primero a Mabel. Después al café. Después, si sobraba tiempo, al resto.
+No por la ropa, aunque la ropa ayudaba: saco claro, camisa abierta en el cuello, zapatos que no habían aprendido la acera de la Almendra. Era más bien la manera en que miraba el techo, las esquinas, la puerta trasera, como si cada lugar tuviera que explicarle sus salidas antes de permitirle sentarse. Los de San Aurelio miraban primero a Mabel. Después al café. Después, si sobraba tiempo, al resto.
 
 También estaba el coche. No pegaba con la cuadra: negro, recién lavado, estacionado demasiado cerca de la esquina y demasiado lejos de la sombra. Un coche de alguien que sabía pagar valet pero no sabía dónde podía dejarse una puerta sin que le arrancaran el espejo.
 
@@ -603,6 +779,14 @@ Cole le dio la mano. Matteo tenía una palma seca, cuidada, pero apretó como al
 —Cole Mercer.
 
 —Lo sé.
+
+—¿Y cómo?
+
+Matteo se tocó la propia mejilla con dos dedos, sin perder la sonrisa, como si ya esperara la pregunta.
+
+—La cicatriz. Le pedí a quien me habló de usted algo más útil que rubio, ojos azules. Resopló y me dijo que eso, en este país, es como pedirme que encuentre la diferencia entre dos gotas de agua. La cicatriz, en cambio, no la comparte nadie más en esta cuadra.
+
+Lo dijo con la calma de un hombre que explica por qué siempre gana la misma mano: sin prisa, sin necesidad de convencer a nadie, porque ya sabía que el otro se iba a quedar a escuchar el resto.
 
 Cole señaló la silla frente a él con dos dedos.
 
@@ -647,6 +831,8 @@ Cole dejó la taza.
 —Por ahora, reputación. Después, quizás coches. Flotillas, mantenimiento, servicio de emergencia, proveedores que no nos dejen tirados un sábado a las dos de la mañana. El casino abre demasiado pronto para estar improvisando con mecánicos que creen que discreción significa cobrar en efectivo.
 
 Cole miró por la ventana. En la acera de enfrente, un niño empujaba una bicicleta sin cadena. Un hombre salió de la barbería y se quedó mirando el coche de Matteo, estacionado demasiado derecho para la calle. Rafa Luna fingía mirar su casco y escuchaba con todo el cuerpo.
+
+Ya tenía la comisaría. Ya tenía el barrio. El Distrito Marino era el único cuarto de la casa donde todavía no había entrado con permiso.
 
 —No trabajo con casinos.
 
@@ -736,7 +922,7 @@ Mabel tomó la taza vacía y la llenó de nuevo.
 
 —Yo no dije nada.
 
-—Nomás me pusiste café.
+—Solo me pusiste café.
 
 —Exacto.
 
@@ -794,7 +980,7 @@ Cole se lavó otra vez las manos. La grasa seguía en las orillas de las uñas, 
 
 Nadir apareció en el marco de la puerta con una tortilla doblada en la mano y lo miró dos segundos más de lo necesario.
 
-—Oh, te llevas el de los negocios —dijo—. ¿Quieres llevarte la Jeep?
+—Te llevas el de los negocios, yak —dijo—. ¿Quieres llevarte la Jeep?
 
 Cole ajustó el puño de la camisa.
 
@@ -843,6 +1029,54 @@ Antes de que San Aurelio tuviera calles para ella, fue una mancha de luz bajo el
 Chiara Bellandi miró por la ventanilla mientras la costa de California subía hacia ellos con una paciencia falsa. Primero vio el mar, demasiado ancho para parecer íntimo. Después la franja pálida de playa, las carreteras que cortaban la tierra seca, los techos bajos de los barrios industriales y, más lejos, el brillo vertical de una ciudad que había aprendido a venderse desde arriba.
 
 Desde el aire, todo parecía limpio. Hasta las zonas feas tenían una geometría obediente: almacenes alineados, patios de camiones, avenidas rectas, canales de concreto que recogían una lluvia que no estaba. Chiara sabía que los lugares mentían mejor cuando se miraban desde lejos. Palermo también podía parecer una postal si uno elegía la altura correcta.
+
+La primera vez que entendió que una habitación podía mirarla de vuelta tenía seis años.
+
+Había encontrado una caja de colores y estaba dibujando una casa en la pared del pasillo, justo donde Marta acababa de limpiar. El trazo azul le había salido torcido. El amarillo se había convertido en una ventana demasiado grande. Chiara estaba inclinada sobre el muro, concentrada en corregir el techo, cuando su madre la descubrió.
+
+—Chiara, non sporcare il muro; l'ho appena pulito.
+
+—Non la sto macchiando.
+
+—Siempre dices lo mismo.
+
+Corrado estaba sentado en una silla, mirando la escena con el café entre las manos.
+
+—Déjala, Marta. Si se cae la casa por unas cuantas huellas, no es una buena casa.
+
+—Claro, porque tú no limpias.
+
+Corrado se rió. Marta lo había atrapado y él no tenía una defensa que no sonara a confesión.
+
+—¿Qué dibujas?
+
+—Una casa más grande.
+
+—¿Y esta ya no te gusta?
+
+Chiara levantó la cara. Miró la pared, luego a sus padres.
+
+—Sí. Esta me gusta de verdad mucho.
+
+Corrado abrió un espacio a su lado, como si la pared pudiera recibir una decisión más.
+
+—Bueno, dibujamos dentro a los tres. Así cualquier casa me vale.
+
+La memoria cambió de luz.
+
+La misma tarde, o quizá otra de la que sólo había sobrevivido el ruido, Chiara sostenía una cámara de video vieja y pesada contra el pecho. La fiesta estaba llena de adultos que hablaban demasiado alto, niños que corrían entre las piernas y música que hacía vibrar los vasos sobre la mesa. Vitto le había pisado un pie. Ella no había dejado de grabar.
+
+Corrado y Marta bailaban en el centro del salón. No bailaban bien. Bailaban como si eso no tuviera ninguna relación con hacerlo bien.
+
+—No bailes tan seria, Chiara, y deja la cámara.
+
+—Sono concentrata y Vitto me ha pisado.
+
+Corrado extendió una mano hacia el objetivo, pero Chiara se apartó justo a tiempo. La imagen se inclinó, atrapó el techo, volvió a encontrar a su madre y después el rostro de su padre, que sonreía con la paciencia de quien sabe que va a ser obedecido más tarde.
+
+—En la vida no se baila concentrada —dijo—. Y una Ardizzone baila aunque le pisen los pies.
+
+Marta le gritó algo desde fuera del encuadre. Corrado no dejó de bailar. Chiara tampoco dejó de grabar.
 
 Apoyó dos dedos en el borde de la ventanilla y siguió el trazo de una carretera que nacía cerca del aeropuerto y se perdía hacia el norte. Pensó que San Aurelio sería eso: una escala con nombre propio. Unos días para ordenar un casino, medir a unos socios, firmar lo necesario y volver a casa con la sensación profesional de haber dejado algo funcionando mejor de lo que lo encontró.
 
@@ -1601,6 +1835,46 @@ Se quitó los aretes primero. Luego la gargantilla. Después dejó el abrigo bla
 Entró a la tina cuando el agua todavía estaba un poco más caliente de lo prudente.
 
 El cuerpo protestó y luego aceptó.
+
+En la maleta pequeña, debajo de la ropa doblada y de una carpeta con documentos que todavía olían a avión, Chiara llevaba un sobre de cartón. No lo había abierto durante el viaje. En Palermo podía dejarlo en un cajón y fingir que eso era guardarlo; en una habitación nueva, con el mar detrás del vidrio y ninguna voz conocida al otro lado de la puerta, el sobre parecía haber estado esperando.
+
+Lo sacó y puso las fotografías sobre el mármol.
+
+La primera era de Corrado y Marta bailando en el salón, desenfocados por el movimiento. La segunda mostraba a Chiara con seis años, sosteniendo la cámara demasiado grande para sus brazos, el ojo derecho cerrado y la boca apretada de concentración. En la tercera, Marta miraba fuera del encuadre mientras Corrado señalaba algo con una mano; los dos parecían estar a punto de reírse.
+
+Chiara pasó el pulgar por el borde de esa última foto.
+
+Recordó otra conversación, una de esas que los adultos creen que los niños olvidan porque no entienden todas las palabras.
+
+—¿Y si no se cumple?
+
+Marta estaba sentada frente a ella. Tenía las manos ocupadas con algo pequeño —un hilo, una aguja, quizá sólo la costumbre de no dejarlas quietas— y hablaba con la serenidad de quien no promete que el mundo vaya a obedecer.
+
+—No es para que se cumpla.
+
+—Entonces, ¿para qué?
+
+—Es para que tu mente esté más tranquila.
+
+Chiara había mirado a Corrado.
+
+—¿Tú haces lo mismo, papá?
+
+—Yo no, tesoro mío.
+
+—¿Por qué?
+
+Corrado había dejado lo que tenía en las manos y se había acercado a ellas.
+
+—Porque prefiero arreglarlo personalmente. No te preocupes tanto por todo.
+
+—¿Y si pasa algo?
+
+—Ya lo iremos viendo. Siempre hay tiempo. Ven acá un momento. Siempre igual, no pasa nada, ya lo arreglo yo. Ya entenderás cuando tengas mi edad, ya verás. Quédate detrás de mí.
+
+La niña había obedecido. No porque creyera que su padre podía arreglarlo todo, sino porque por un instante bastaba con que él estuviera delante.
+
+Chiara dejó la fotografía boca abajo.
 
 Chiara apoyó la cabeza en el borde de mármol y miró el techo. Blanco, liso, sin grietas. Un techo de hotel. Un techo que no sabía nada.
 

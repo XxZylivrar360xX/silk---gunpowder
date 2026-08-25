@@ -1,7 +1,7 @@
 body {
   font-family: "Bookerly", "Georgia", "Palatino Linotype", serif;
   line-height: 1.45;
-  text-align: left;
+  text-align: justify;
   margin: 0;
   padding: 0;
   hyphens: auto;
@@ -45,6 +45,10 @@ h2 + p,
 h3 + p,
 blockquote p {
   text-indent: 0;
+}
+
+blockquote {
+  text-align: left;
 }
 
 hr {

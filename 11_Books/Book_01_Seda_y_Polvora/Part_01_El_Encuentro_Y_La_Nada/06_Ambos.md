@@ -88,7 +88,7 @@ Ella miró sus pies descalzos y luego a él.
 
 —Claro.
 
-Traía chamarra de mezclilla con cuello de borrego. Sin camisa debajo, porque en esa etapa de su vida Cole parecía haber decidido que el clima era una sugerencia y las normas de vestimenta una negociación menor. Tenía el pelo revuelto, la mandíbula cansada y una bolsa de papel en la mano.
+Traía chaqueta de mezclilla con cuello de borrego. Sin camisa debajo, porque en esa etapa de su vida Cole parecía haber decidido que el clima era una sugerencia y las normas de vestimenta una negociación menor. Tenía el pelo revuelto, la mandíbula cansada y una bolsa de papel en la mano.
 
 —¿Qué trae?
 
@@ -366,7 +366,7 @@ El silencio no se rompió. Cambió de cuarto con ellos.
 
 ***
 
-En el vestidor principal, Cole se manchó la chamarra con tinta.
+En el vestidor principal, Cole se manchó la chaqueta con tinta.
 
 Fue culpa de un bolígrafo sin tapa sobre una isla de cajones. Chiara lo había dejado ahí por la mañana y lo olvidó. Cole apoyó la manga, levantó el brazo y encontró una línea negra atravesando la mezclilla.
 
@@ -380,11 +380,11 @@ Fue culpa de un bolígrafo sin tapa sobre una isla de cajones. Chiara lo había 
 
 —Exacto. Nada con ambición.
 
-Cole se quitó la chamarra.
+Cole se quitó la chaqueta.
 
 No llevaba camisa debajo.
 
-Chiara lo sabía en abstracto. La chamarra abierta ya lo sugería desde hacía semanas. Verlo de golpe fue otra cosa. Espalda ancha, hombros de trabajo, piel marcada por sol, golpes y años que no pedían permiso. Y la calavera.
+Chiara lo sabía en abstracto. La chaqueta abierta ya lo sugería desde hacía semanas. Verlo de golpe fue otra cosa. Espalda ancha, hombros de trabajo, piel marcada por sol, golpes y años que no pedían permiso. Y la calavera.
 
 Le cubría media espalda.
 
@@ -400,7 +400,7 @@ Ella dio un paso más cerca.
 
 —Llevas a la muerte detrás.
 
-Cole miró la chamarra en sus manos. Luego, sin voltear del todo:
+Cole miró la chaqueta en sus manos. Luego, sin voltear del todo:
 
 —No, yo soy la muerte caminando.
 
@@ -410,7 +410,7 @@ Eso lo volvió peor.
 
 Chiara no preguntó por Afganistán. No preguntó por la calavera. No preguntó qué clase de hombre decía algo así en un vestidor, medio desnudo, después de hamburguesas y canciones, sin que la voz se le rompiera.
 
-Sólo tocó la tinta de la chamarra con un pañuelo.
+Sólo tocó la tinta de la chaqueta con un pañuelo.
 
 —Esto no sale fácil.
 

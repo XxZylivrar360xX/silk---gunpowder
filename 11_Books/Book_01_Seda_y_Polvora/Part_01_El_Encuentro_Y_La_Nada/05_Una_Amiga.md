@@ -28,7 +28,7 @@ Nadir, desde la puerta de la oficina, soltó un silbido bajo.
 
 —Ese perro negocia mejor que medio barrio.
 
-—Es tu perro —dijo Cole.
+—Es tu perro, Danny —dijo Cole.
 
 Danny levantó las manos.
 
@@ -80,7 +80,7 @@ Danny se sentó sobre una defensa.
 
 Nadir cruzó los brazos.
 
-—Una amiga italiana, del casino, a la que le vas a llevar mi perro.
+—Wallah, una amiga italiana, del casino, a la que le vas a llevar mi perro.
 
 —Tu perro no. El de Danny.
 
@@ -368,7 +368,7 @@ La respuesta le gustó a ella porque no era explicación. Le gustó más porque 
 
 ***
 
-Al salir, Nadir y Danny estaban en la banqueta.
+Al salir, Nadir y Danny estaban en la acera.
 
 No debían estar ahí.
 
@@ -386,7 +386,7 @@ Chiara miró al perro, luego a Cole.
 
 Nadir abrió los brazos.
 
-—Qué fuerte, Mercer.
+—Wallah, qué fuerte, Mercer.
 
 Danny señaló a Rocco.
 

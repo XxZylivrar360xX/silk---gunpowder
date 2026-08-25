@@ -734,7 +734,7 @@ Calle Corona tenía juzgados, bancos viejos, oficinas municipales, cafeterías c
 
 Chiara no se acercó.
 
-Pagó el taxi una cuadra antes y caminó sin prisa, sólo para sentir la ciudad debajo de los tacones. Palermo sabía empujar desde los balcones. Nueva York desde la banqueta. San Aurelio empujaba desde los bordes: una patrulla mal estacionada, una mujer vendiendo flores frente a un edificio público, un hombre con traje barato que no dejaba de mirar su teléfono, una reportera acomodándose el cabello antes de salir en vivo.
+Pagó el taxi una cuadra antes y caminó sin prisa, sólo para sentir la ciudad debajo de los tacones. Palermo sabía empujar desde los balcones. Nueva York desde la acera. San Aurelio empujaba desde los bordes: una patrulla mal estacionada, una mujer vendiendo flores frente a un edificio público, un hombre con traje barato que no dejaba de mirar su teléfono, una reportera acomodándose el cabello antes de salir en vivo.
 
 Entró a una cafetería sin elegirla demasiado.
 

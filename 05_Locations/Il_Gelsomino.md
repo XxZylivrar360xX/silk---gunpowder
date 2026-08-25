@@ -10,7 +10,7 @@
 
 ## Como es
 
-Toldo verde, mesas estrechas en la banqueta, buganvilia en la ventana, cocina con vapor, ajo, cafe fuerte, pan tibio y cloro de manana. De noche cambia de piel: vino, manteles, terraza, propinas y conversaciones que la gente cree privadas.
+Toldo verde, mesas estrechas en la acera, buganvilia en la ventana, cocina con vapor, ajo, cafe fuerte, pan tibio y cloro de manana. De noche cambia de piel: vino, manteles, terraza, propinas y conversaciones que la gente cree privadas.
 
 La puerta principal tiene campanilla. La de servicio tiene una bisagra que necesita grasa. Cole entra por la segunda.
 

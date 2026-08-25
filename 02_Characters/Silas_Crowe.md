@@ -67,6 +67,16 @@ La diferencia — y el libro tiene que ganársela, no declararla — es **para q
 
 ---
 
+## Lo que le hizo a Dale Mercer, mucho antes — CANON
+
+**RESUELTO DE DISEÑO (2026-08-25).** Antes de ser "el Tasador" para todo el barrio, Crowe ya era el hombre que le prestaba fácil a Dale Mercer, padre de Cole. Dale jugaba, perdía y pedía más. Cuando la deuda superó lo que Dale podía cubrir, Crowe se la cobró poniéndolo a trabajar en algo que salió mal — y Dale terminó preso, después de años en los que la casa de los Mercer se volvió un lugar donde Ruth y un Cole niño aprendían a leer su humor antes de que él abriera la puerta.
+
+**Es el primer boceto de su tesis, ensayado en privado años antes de convertirla en filosofía pública.** Todo vale algo, y él decide cuánto — incluso un hombre roto por sus propias apuestas. Crowe nunca sabe que esto conecta directamente con el origen de Cole (a Cole lo compraron una vez, como se paga una apuesta); si lo supiera, tendría todavía más motivos para sentir que su tesis es correcta.
+
+**Restricción de diseño:** esto no se dramatiza como escena — Cole nunca lo cuenta. Se filtra en conducta, igual que el resto de lo que le pasó a Ruth. Ver [[02_Characters/Cole_Mercer]].
+
+---
+
 ## Lo que le hizo a [[02_Characters/Walter_Keegan]] — CANON
 
 Walt pertenecía a la generación anterior del barrio: una en la que había robos, contrabando, apuestas y protección, **pero todavía existían reglas informales sobre a quién no se explotaba.**

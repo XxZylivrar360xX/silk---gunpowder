@@ -12,7 +12,7 @@
 
 Un local de esquina con cafetera cansada, vitrina de pan dulce, comida caliente a mediodia, dos mesas cojas y una campanita sobre la puerta que ya no suena igual para todos.
 
-Huele a cafe recalentado, plancha, cloro barato y pan. Afuera se oye Avenida Almendra: camiones, talleres, frenos, gritos de banqueta y una patrulla que pasa siempre con prisa cuando ya no hace falta.
+Huele a cafe recalentado, plancha, cloro barato y pan. Afuera se oye Avenida Almendra: camiones, talleres, frenos, gritos de acera y una patrulla que pasa siempre con prisa cuando ya no hace falta.
 
 Cole entra como alguien de casa. La gente no deja de hablar por el; baja el volumen medio tono y sigue.
 

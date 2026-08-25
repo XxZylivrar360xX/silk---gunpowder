@@ -27,7 +27,7 @@ Tatuajes. El principal, y el único que importa: **una calavera que le cubre med
 
 Se lo dice a Chiara la primera noche, acordándose de Afganistán. Es lo más oscuro que dice en toda la novela, y lo dice cuando no hay absolutamente nada en juego. Ver la regla de abajo.
 
-**El estilo cambia con el libro.** En la etapa temprana: chamarra de mezclilla con cuello de borrego **sin camisa debajo**. Es un marcador de época — cuando el atuendo de Cole empiece a cambiar, el lector tiene que poder fechar en qué momento del ascenso está sin que nadie se lo diga.
+**El estilo cambia con el libro.** En la etapa temprana: chaqueta de mezclilla con cuello de borrego **sin camisa debajo**. Es un marcador de época — cuando el atuendo de Cole empiece a cambiar, el lector tiene que poder fechar en qué momento del ascenso está sin que nadie se lo diga.
 
 **Y, desde cierta Navidad, un collar.** Una placa de oro grabada: **RETORNA A CASA**. No se lo quita nunca — ni para trabajar, ni para dormir, ni para meterse a una piscina desangrándose. Es el único objeto de la novela que importa, y para un hombre que casi no usa joyas, llevar algo al cuello ya lo dice todo. Ver [[06_Relationships/Cole_y_Chiara]], "El ritual".
 
@@ -108,9 +108,11 @@ Nunca ha ido a buscar. Dice que es porque no le interesa. La verdad es más simp
 
 Lo criaron Dale y Ruth Mercer, en el barrio de la Almendra. Ruth quería un hijo y no podía tenerlo; Dale nunca lo quiso y nunca fingió lo contrario, pero le enseñó todo lo útil que Cole sabe: abrir un coche sin llave, leer a un hombre antes de que hable, no deber nunca dinero a nadie que sepa dónde duermes.
 
-Dale se fue cuando Cole tenía quince años, por una deuda que no era de negocio. Ruth aguantó dos años más. Cole se quedó solo a los diecisiete en una casa que ya no podía pagar. Para el inicio de la novela, Ruth y Dale están enterrados en [[05_Locations/Cementerio_Santa_Lucia]]; Cole visita a Ruth con una rosa blanca tomada del ramo de Michael y evita tocar la tumba de Dale.
+Dale jugaba — no por diversión, sino porque necesitaba que algo en su vida siguiera siendo incierto. Apostaba y pedía prestado a **[[02_Characters/Silas_Crowe]]**, mucho antes de que el barrio entero conociera al Tasador por ese apodo: para Dale, Crowe era sólo el hombre que prestaba fácil y cobraba después. Cuando perdía más de lo que podía cubrir, la casa se volvía un lugar donde Ruth y Cole aprendían a leer su humor antes de que abriera la puerta. Dale no golpeaba a Cole por Cole: golpeaba por lo que acababa de perder.
 
-> **PENDIENTE:** definir exactamente qué se llevó a Ruth y cuánto vio Cole. Restricción de diseño: **no puede ser una escena de la que él hable nunca.** Se filtra en conducta (regla 9 de [[00_Biblia/Principios_Narrativos]]).
+Dale se fue cuando Cole tenía quince años, arrastrado por esa misma deuda que no era de negocio: Crowe terminó cobrándosela poniéndolo a trabajar para él en algo que salió mal, y Dale terminó preso. Ruth aguantó dos años más, sola con lo que quedaba. Cole se quedó solo a los diecisiete en una casa que ya no podía pagar. Para el inicio de la novela, Ruth y Dale están enterrados en [[05_Locations/Cementerio_Santa_Lucia]]; Cole visita a Ruth con una rosa blanca tomada del ramo de Michael y evita tocar la tumba de Dale.
+
+> **RESUELTO DE DISEÑO (2026-08-25):** qué se llevó a Ruth y cuánto vio Cole: la ludopatía de Dale y su deuda con Crowe, que derivó en golpes a Ruth y a Cole y terminó con Dale preso. Es una segunda capa, autobiográfica y nunca verbalizada, de por qué Cole aborrece el juego de azar — se suma a "lo compraron de bebé" (más abajo), no la reemplaza. Restricción de diseño intacta: **no puede ser una escena de la que él hable nunca.** Se filtra en conducta (regla 9 de [[00_Biblia/Principios_Narrativos]]).
 
 ### El uniforme
 
@@ -198,7 +200,7 @@ Su instrumento es **el favor no solicitado**: hace la cosa antes de que se la pi
 
 Cosas que no cambian sin decisión explícita del autor:
 
-- **Aborrece el juego de azar.** No lo explica. La razón real es que a él lo pagaron una vez, como se paga una apuesta, y no soporta ver dinero cambiar de manos por suerte.
+- **Aborrece el juego de azar.** No lo explica, y son dos razones apiladas, ninguna dicha en voz alta: a él lo pagaron una vez, como se paga una apuesta; y antes de eso, la ludopatía de Dale con Silas Crowe fue lo que le costó una casa segura, los golpes que él y Ruth aguantaron, y finalmente al propio Dale, que Crowe terminó cobrándose metiéndolo preso. No soporta ver dinero cambiar de manos por suerte.
 - **No consume drogas duras. Casi no bebe.** Fuma exactamente cuando está a punto de tomar una mala decisión — es la señal física para el lector, y nadie en el libro se lo dice.
 - **Los animales.** Se queda con lo que aparece en el patio. En el momento de escribir esta ficha hay tres perros y nadie los ha nombrado formalmente.
 - **Nunca deja que le regalen nada.** Convierte cualquier regalo en transacción en menos de un minuto — devuelve el gesto, paga la cuenta, hace un favor mayor. No es orgullo: es que deber algo a alguien lo aterra más que perderlo.

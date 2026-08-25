@@ -13,6 +13,12 @@ Decisiones compactas para relevo. No reemplaza `log.md`.
 - El rango probable para novela amplia es 280-380 beats; si se escribe con ciudad viva, 400-520 beats es viable.
 - La ventaja del proyecto es que el inicio y H1 ya estan claros.
 - La regla de adaptacion queda fijada: conservar esencia emocional del canon original, redisenar mecanismo y contexto.
+- En el Capitulo 1, Cole llama a Nadir con manos libres al salir de la comisaria: el piloto de mantenimiento policial por tres meses financia las maquinas de pintura de Nadir y queda instalado su choque de filosofia automotriz. No anticipar en prosa la tension Nadir-Chiara; debe construirse despues de la presentacion de ella.
+- Nadir es materialista y le atrae la ganancia facil. Su experiencia como mercader en Medio Oriente le da habilidad para comerciar y decidir en caliente; Cole lo mantiene lejos de las finanzas centrales porque puede hacer que una cuenta termine favoreciendolo.
+- El Capitulo 1 abre con la ciudad y la carta de Walt en la oficina de Cole. Walt tiene aprobada la libertad condicional tras diez anos por un crimen que no cometio y que Crowe le cargo. Cole guarda la carta en la chaqueta de mezclilla y se la muestra a Hector al volver del Gelsomino; Hector llora y dice: "Gracias por contarmelo, muchacho". Danny queda sembrado como preocupacion activa por su consumo nocivo de metanfetaminas.
+- La carta se muestra directamente en escena: Walt esta cansado y emocionado, extraña a Cole y Hector, espera que su hijo este presente aunque no ocurrira, pide que Cole lo acompañe a la ultima audiencia y afirma que aun queda "Viejo Walt para rato". Walt no menciona a Nadir, Russ, Garrett ni Danny: seran presentaciones nuevas. **PENDIENTE:** fecha exacta de la audiencia.
+- La esperanza de Walt activa el recuerdo canon de Jim: se marcha en la camioneta de su padre, llama a San Aurelio "una cloaca de desgracias" y dice que ya no queda nada para él. Cole ofrece que el barrio estara para él; Jim responde "no es suficiente". La escena funciona como precedente emocional de largo alcance; no convertir la nota en spoiler explicativo.
+- Canon reservado: Cole y Jim se reencuentran en Afganistan y Jim no vuelve. La noticia se revela en el Capitulo 2 al llevar Cole y Hector a Walt a su tumba. En el Capitulo 1, el eco se limita a que Cole traga saliva; no nombrar Afganistan ni la muerte en la prosa.
 
 ## 2026-08-24
 

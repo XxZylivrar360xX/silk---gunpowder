@@ -256,7 +256,7 @@ Llega con **dos hamburguesas y dos malteadas** para la cena, y una dotación de 
 
 > **DISEÑO:** coquetería disimulada de manual — le niega el favor y le regala el cumplido. Y hay un dato debajo: **dejar que alguien te corte el pelo es una de las intimidades más grandes que existen**, y Cole estuvo a punto. Propuesta fuerte: **que ella sí le corte el pelo mucho después**, ya viviendo juntos, y que esa escena sea el eco de ésta. Es exactamente el tipo de gesto doméstico repetido que este libro necesita.
 
-**5. El vestidor principal.** Donde cae la chamarra. Ver abajo.
+**5. El vestidor principal.** Donde cae la chaqueta. Ver abajo.
 
 ### La música — lo que cada uno le enseña al otro
 
@@ -298,9 +298,9 @@ Y hay una tercera cosa: **ninguna de las dos está en español.** Cada uno le po
 
 > **PENDIENTE:** ¿vuelve alguna de las dos canciones más adelante? *Un anno d'amore* en la Fase V sería demoledor.
 
-### La chamarra y la calavera
+### La chaqueta y la calavera
 
-Se mancha con tinta. Por eso se quita **la chamarra de mezclilla con cuello de borrego** — y no lleva camisa debajo, porque ése era su estilo en esa época.
+Se mancha con tinta. Por eso se quita **la chaqueta de mezclilla con cuello de borrego** — y no lleva camisa debajo, porque ése era su estilo en esa época.
 
 Al quitársela, ella le ve **la calavera que le cubre media espalda**.
 

@@ -206,7 +206,7 @@ Cole no pidió repetir nada.
 
 —No pregunté dónde está usted.
 
-Chiara se quedó quieta en la banqueta.
+Chiara se quedó quieta en la acera.
 
 No era grosería. Era precisión. Él había separado el problema de ella con una limpieza que Blake no habría sabido imitar aunque le dieran instrucciones.
 
@@ -452,7 +452,7 @@ Cole abrió un cajón, sacó una libreta y anotó matrícula, hora y nombre.
 
 —El problema llamó.
 
-—Qué bonito. ¿Traía acento?
+—Qué bonito, wallah. ¿Traía acento?
 
 Cole levantó la vista.
 

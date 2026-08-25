@@ -1466,3 +1466,77 @@ Se ajusto el arranque de [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_
 **Build:** EPUB regenerado en `tools/epub-build/output/Seda_y_Polvora.epub`.
 
 **Archivos tocados:** `11_Books/.../01_Un_Hombre_De_Negocios_Intachable.md`, `02_Characters/Garrett_Cross.md`, `03_Factions/Almendra_Towing.md`, `98_Agent_Handoff/DECISIONS.md`, `log.md`, `tools/epub-build/output/Seda_y_Polvora.epub`.
+
+## Sesion 2026-08-24 (09) | Llamada de Cole y Nadir en el Capitulo 1
+
+Se rescato en el Capitulo 1 la escena canon en la que Cole sale de la comisaria y llama a Nadir con manos libres mientras conduce. El piloto policial de tres meses queda ligado al ingreso para las maquinas de pintura de Nadir; el intercambio sobre la estetica de los autos y el Taurus rayado por un arbusto conserva el humor y la diferencia entre ambos.
+
+La llamada no anticipa la tension entre Nadir y Chiara. Esa relacion se construira despues de la presentacion de ella, en escena.
+
+**Archivos tocados:** `11_Books/.../01_Un_Hombre_De_Negocios_Intachable.md`, `02_Characters/Nadir_Amrani.md`, `02_Characters/Chiara_Bellandi.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/DECISIONS.md`, `log.md`.
+
+**Revision:** la llamada se enriquecio con trafico de Calle Corona, la cabina sin aire acondicionado, el ruido del taller y acciones fisicas de Cole y Nadir para que funcione como escena dramatica y no como intercambio aislado.
+
+## Sesion 2026-08-24 (10) | Nueva apertura del Capitulo 1
+
+Se reescribio la apertura del Capitulo 1 para comenzar con San Aurelio despertando y Cole leyendo la carta de Walt en la oficina. El juez aprobo la libertad condicional de Walt despues de diez anos por un crimen que no cometio y que Silas Crowe le cargo. Cole piensa en su nucleo —Nadir, Hector, Russ, Garrett— y se queda mas tiempo en Danny por el consumo de metanfetaminas que ya se volvio nocivo.
+
+Al regresar de Il Gelsomino, Cole le muestra la carta a Hector en el taller. Hector no consigue contener las lagrimas y responde: "Gracias por contarmelo, muchacho". La escena queda integrada antes de la descarga de autopartes y convierte la noticia de Walt en acontecimiento emocional del dia.
+
+**Archivos tocados:** `11_Books/.../01_Un_Hombre_De_Negocios_Intachable.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/DECISIONS.md`, `log.md`.
+
+**Revision:** la carta de Walt ahora aparece completa dentro del manuscrito: cansancio, emocion por ver a Cole y Hector, expectativa equivocada sobre su hijo, invitacion a la ultima audiencia y cierre con "Viejo Walt para rato". Nadir, Russ, Garrett y Danny no aparecen en la carta porque Walt los conocera por primera vez despues de salir. La fecha exacta queda marcada como pendiente.
+
+Se añadio el recuerdo de Jim marchándose de San Aurelio en la camioneta de Walt. Jim llama a la ciudad "una cloaca de desgracias", rechaza la oferta de Cole de que el barrio estara para él con "no es suficiente" y deja a Cole decepcionado. El eco posterior queda registrado como nota de diseño, sin explicarlo como spoiler en el manuscrito.
+
+**Continuidad reservada:** Cole y Jim se reencuentran en Afganistan y Jim no vuelve. La noticia se dara en el Capitulo 2 cuando Cole y Hector lleven a Walt a la tumba de Jim. En el Capitulo 1 sólo queda la accion de Cole tragando saliva, sin explicacion textual.
+
+**Afinacion de Nadir:** se fija como materialista y atraido por la ganancia facil. Su experiencia como mercader en Medio Oriente explica su habilidad para comerciar y decidir en caliente. Cole lo mantiene lejos de las finanzas centrales, aunque confia en él para negociar piezas y oportunidades.
+
+Se afino la reunion de Cole con Raymond Keene. Cole ahora lee el problema politico detras de la pregunta, le entrega al chief una formulacion publica para defender el acuerdo, convierte la preferencia en un piloto medible y reduce el alcance a seis unidades: "Porque doce parece contrato. Seis parece que usted todavía manda." Los tres meses quedan ganados por lectura de la sala, precio y control de la salida.
+
+## Sesion 2026-08-25 | Recuerdos de infancia de Chiara
+
+Se enriquecio el POV de Chiara en el Capitulo 1. En el vuelo aparecen dos recuerdos encadenados: Corrado y Marta con Chiara niña dibujando una casa en la pared, y la fiesta donde Chiara graba con una camara vieja, Vitto le pisa el pie y Corrado le enseña que una Ardizzone baila aunque le pisen los pies.
+
+En el penthouse, Chiara saca fotografias de su infancia y el objeto activa la escena mas densa: la conversacion con Marta sobre preocuparse y la respuesta de Corrado, "quédate detrás de mí". El pasado queda materializado frente al techo blanco y ajeno del Monarch.
+
+**EPUB:** regenerado en `tools/epub-build/output/Seda_y_Polvora.epub`.
+
+Se ajusto `tools/epub-build/epub_style.css` para justificar el texto narrativo del EPUB. Los bloques de carta conservan alineacion izquierda para no deformar su lectura; titulos y subtitulos mantienen su alineacion propia.
+
+**Archivos tocados:** `11_Books/.../01_Un_Hombre_De_Negocios_Intachable.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`, `tools/epub-build/output/Seda_y_Polvora.epub`.
+
+## Sesion 2026-08-25 (2) | Correccion de continuidad: escena del panteon
+
+Se detecto un error de continuidad en la escena del Capitulo 1 donde Cole visita la tumba de Michael Grayson: mencionaba "tengo una junta en un casino" antes de que la invitacion al Monarch ocurra en la trama. Se retiro esa mencion.
+
+En su lugar, Cole lleva dos cervezas a la tumba: deja una recargada en la lapida para Mike y abre la suya para hablar. Cuenta que el taller sigue estable y que el barrio esta tranquilo desde que volvio —movido, pero nada como antes— y declara que quiere que eso cambie: quiere que El Patio vuelva a estar en el juego para que la gente que vive ahi tenga calidad de vida y, sobre todo, seguridad, dificil de conseguir hoy en los barrios del sur. Cierra con la linea "o proteges, o te protegen; nunca hay paz sin una de las dos". El cierre de la escena ("Te aviso como va") queda generico, ya no atado al casino.
+
+**Archivos tocados:** `11_Books/.../01_Un_Hombre_De_Negocios_Intachable.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## Sesion 2026-08-25 (3) | Textura de escenas, voz de Nadir y origen de la aversion al juego
+
+Se le dio mas textura a La Esquina de Mabel: ella ve entrar a Cole y le exige pedir rapido porque anda sola (el chico que la ayuda se reporto enfermo), recita el menu con el guisado ya agotado, y cuando Cole la cuestiona ella responde que decide si lo sirve o no; Cole cede con "Vale, Mab. Hoy no bromas" y pide en voz alta lo suyo mas seis raciones para los chicos, citando el pedido de Nadir hecho antes por telefono.
+
+Se añadio como Matteo identifico a Cole: no por "rubio, ojos azules" (su contacto resoplo que eso en este pais es como buscar la diferencia entre dos gotas de agua) sino por la cicatriz de la mejilla — siembra temprana de los rasgos nordicos de Cole sin quemar el reveal de Noruega, y fija el tono arrogante-pero-seguro de Matteo.
+
+Se sembro el instinto de "camaleon" de Cole dentro de la misma escena: cuando Matteo menciona el Monarch, Cole procesa en silencio que ya tiene la comisaria y el barrio, y que el Distrito Marino es el unico cuarto de la casa al que todavia no ha entrado con permiso, antes de rechazar la oferta en voz alta.
+
+Se fijo la fecha de la audiencia de libertad condicional de Walt como "el proximo lunes" en su carta (antes pendiente).
+
+**Limpieza de regionalismos:** se quitaron tres usos de "nomas" en dialogos de Cole (Capitulos 1 y 4) y uno en la ficha de voz de Mabel, reemplazados por "solo", para que el espanol suene menos marcadamente mexicano/latinoamericano. Queda pendiente de decision del autor si tambien hay que neutralizar vocabulario narrativo mas amplio y ya extendido por varios capitulos, como "banqueta" o "chamarra".
+
+**Nacionalidad de Nadir resuelta: marroqui.** Se creo la ficha de voz `12_Craft_Policies/voice/Nadir_Amrani.md`: espanol de mercader magrebi salpicado de darija (khoya, wallah, yak, safi, hamdulillah, inshallah, yallah, bezaf) y frances suelto (voila, dossier, d'accord, bon), nunca jerga latinoamericana. Se aplico con moderacion a sus dialogos en los Capitulos 1, 3, 4 y 5. La ficha de personaje `02_Characters/Nadir_Amrani.md` se actualizo: nacionalidad y "como habla" pasan de pendiente a resueltos.
+
+**Nuevo canon: segunda capa de por que Cole aborrece el juego de azar.** Dale Mercer era ludopata y le pedia prestado a Silas Crowe desde antes de que el barrio lo conociera como "el Tasador"; cuando la deuda superaba lo que podia cubrir, golpeaba a Ruth y a Cole. Crowe termino cobrandose la deuda poniendo a Dale a trabajar en algo que salio mal, y Dale termino preso — asi es como "se fue" cuando Cole tenia quince años. Esto resuelve el pendiente que ya existia en la ficha de Cole sobre que le paso a Ruth y cuanto vio Cole, y se suma (no sustituye) a la razon ya canonica de que a Cole "lo compraron de bebe, como se paga una apuesta". Restriccion de diseño: nunca se dramatiza ni Cole lo verbaliza en el texto; se filtra en conducta. Actualizadas `02_Characters/Cole_Mercer.md` y `02_Characters/Silas_Crowe.md` (nueva seccion "Lo que le hizo a Dale Mercer, mucho antes"). En el manuscrito solo se agrego un beat fisico minimo junto a la tumba de Dale en el Capitulo 1, sin exposicion.
+
+**Archivos tocados:** `11_Books/.../01_Un_Hombre_De_Negocios_Intachable.md`, `11_Books/.../03_La_Primera_Llamada.md`, `11_Books/.../04_La_Casa_No_Quiere_Ruido.md`, `11_Books/.../05_Una_Amiga.md`, `02_Characters/Cole_Mercer.md`, `02_Characters/Silas_Crowe.md`, `02_Characters/Nadir_Amrani.md`, `12_Craft_Policies/voice/Nadir_Amrani.md`, `12_Craft_Policies/voice/Mabel_Ortiz.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## Sesion 2026-08-25 (4) | Neutralizar "banqueta"/"chamarra" y fix de atribucion en Capitulo 5
+
+A peticion del autor, se completo la limpieza de regionalismos mexicanos iniciada en la sesion anterior: "banqueta" a "acera" en los Capitulos 1, 2, 3 y 5 y en las fichas de lugar `Il_Gelsomino` y `La_Esquina_de_Mabel`; "chamarra" a "chaqueta" en todo el Capitulo 6 y en `02_Characters/Cole_Mercer.md`, `05_Locations/El_Penthouse.md` y `06_Relationships/Hitos.md` (incluye el titulo de seccion, ahora "La chaqueta y la calavera"). El Capitulo 1 ya decia "chaqueta de mezclilla" en dos pasajes; con esto el termino queda unificado en todo el libro.
+
+Al revisar esos pasajes, el autor detecto una ambiguedad de atribucion en el Capitulo 5: la linea "—Es tu perro —dijo Cole." aparecia justo despues de una linea de Nadir, por lo que podia leerse como si Rocco fuera su perro. El canon (`02_Characters/Daniel_Hayes.md`) confirma que Rocco es de Danny, y la misma escena lo reafirma mas adelante ("Tu perro no. El de Danny."). Se corrigio a "—Es tu perro, Danny —dijo Cole." para quitar la ambiguedad.
+
+**Archivos tocados:** `11_Books/.../01_Un_Hombre_De_Negocios_Intachable.md`, `11_Books/.../02_Los_Viejos_Dias.md`, `11_Books/.../03_La_Primera_Llamada.md`, `11_Books/.../05_Una_Amiga.md`, `11_Books/.../06_Ambos.md`, `02_Characters/Cole_Mercer.md`, `05_Locations/Il_Gelsomino.md`, `05_Locations/La_Esquina_de_Mabel.md`, `05_Locations/El_Penthouse.md`, `06_Relationships/Hitos.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.

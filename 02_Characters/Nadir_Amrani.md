@@ -4,7 +4,7 @@
 
 > **CANON DEL AUTOR (2026-08-23).** Ficha compacta. No inventar nacionalidad, familia ni biografía fuera de lo definido.
 
-**Nacionalidad:** pendiente.
+**Nacionalidad:** marroquí.
 **Edad al abrir la novela:** pendiente.
 **Oficio:** mercader; actividad actual pendiente.
 **Rol:** secundario.
@@ -54,7 +54,11 @@ La amenaza de deportación funciona porque Nadir es el único problema que Cole 
 
 > **PENDIENTE:** definir su método presente.
 
-Lo mínimo ya instalado: Nadir entiende el valor práctico de las cosas antes que su valor simbólico. Fue mercader; sabe negociar, medir riesgo y leer cuándo una salida vale más que una victoria.
+Nadir es materialista en el sentido más directo: le gusta el dinero, le gusta verlo llegar y le gusta todavía más cuando llega fácil. No lo disfraza de ambición ni de proyecto. Para él, una ganancia limpia es una ganancia inteligente, y una oportunidad que exige sufrir de más probablemente está mal negociada.
+
+Su experiencia como mercader en Marruecos le enseñó a moverse con lo que hubiera disponible: comprar rápido, vender antes de que cambiara el precio, leer una cara mientras la otra mano ya estaba buscando la salida. Es bueno comerciando y tomando decisiones en caliente; no necesita tener toda la información para saber cuándo alguien está a punto de ceder.
+
+Cole lo mantiene lejos de las finanzas centrales de Almendra Towing. No porque Nadir no sepa contar dinero, sino porque sabe demasiado bien cómo hacer que una cuenta termine favoreciéndolo. Puede negociar una pieza, rescatar una compra o encontrar una salida imposible; los libros, las nóminas y el dinero que debe permanecer quieto pasan por otras manos.
 
 ---
 
@@ -75,13 +79,15 @@ Lo mínimo ya instalado: Nadir entiende el valor práctico de las cosas antes qu
 - [[02_Characters/Warren_Halbrook]] — usa su estatus migratorio como correa contra Cole.
 - [[02_Characters/Daniel_Hayes]] — testigo junto con él de la primera cena de Cole y Chiara.
 - [[02_Characters/Hector_Navarro]] — parte del núcleo que aparece con Cole en Gabriella's.
-- [[02_Characters/Chiara_Bellandi]] — al principio la ve desde fuera, como uno de los primeros testigos del vínculo invisible.
+- [[02_Characters/Chiara_Bellandi]] — al principio desconfía de ella; tolera su presencia por Cole y le exige demostrar que no es una complicación pasajera. La incomodidad empieza antes de que se conozcan.
 
 ---
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** nacionalidad, edad, oficio actual y cómo habla.
+> **RESUELTO DE DISEÑO (2026-08-25):** nacionalidad marroquí. Habla español de mercader magrebí: sintaxis directa y comercial, salpicada de darija (khoya, wallah, yak, safi, hamdulillah, inshallah, yallah, bezaf) y algo de francés suelto (voila, dossier, d'accord, bon). Nunca jerga latinoamericana ("nomas", "ahorita", "órale"). Ficha completa en [[12_Craft_Policies/voice/Nadir_Amrani]].
+
+> **PENDIENTE:** edad y oficio actual (mas alla de mercader/socio en Almendra Towing).
 
 > **PENDIENTE:** qué delito exacto le imputaron y si era culpable.
 
