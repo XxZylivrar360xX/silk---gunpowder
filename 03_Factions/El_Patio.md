@@ -19,7 +19,7 @@ No confundir:
 |---|---|---|
 | Empresa legal inicial | [[03_Factions/Almendra_Towing]] | taller, grúas, convenio municipal, explicación legal temprana |
 | Red real | **El Patio** / **los del Patio** | favores, rutas, protección, deuda, gente |
-| Nombre institucional externo | **Patio Almendra** | cómo podrían nombrarlo policía, FBI o prensa cuando intentan convertirlo en fenómeno |
+| Nombre institucional externo | **Patio Almendra** | cómo podrían nombrarlo policía, federales o prensa cuando intentan convertirlo en fenómeno |
 | Caras públicas | [[02_Characters/Russell_Whitaker|Russell "Russ" Whitaker]] / [[03_Factions/Cross_River_Consolidated]] | política municipal, negocios respetables, imagen, relato y lavado a escala |
 
 **Regla:** Almendra Towing es una empresa. El Patio es la red. Patio Almendra es una etiqueta externa. Las caras públicas son lo que permite que el Patio parezca ciudad, campaña y holding.
@@ -45,7 +45,7 @@ Esa ubicación le da tres ventajas:
 - **El barrio:** *el patio*, *los del Patio*.
 - **La gente cercana:** *el patio de Cole*, aunque cada vez menos hace falta decir de quién.
 - **Chiara, en privado:** *los niños del Patio* para el núcleo joven.
-- **Policía/FBI/prensa:** *Patio Almendra* cuando necesitan una etiqueta que parezca objetiva.
+- **Policía/federales/prensa:** *Patio Almendra* cuando necesitan una etiqueta que parezca objetiva.
 - **Cole:** probablemente evita nombrarlo como organización. Dice *la gente*, *los muchachos*, *el trabajo*, *el taller*.
 
 > **PENDIENTE:** confirmar cuándo aparece por primera vez “Patio Almendra” en boca institucional.
@@ -185,7 +185,7 @@ El Patio ya no sólo mueve: decide qué puede moverse.
 
 **Alcance:** puerto, Kingsley Field, Cedar Flats, suministros, policía local por casos, [[03_Factions/Cross_River_Consolidated]] y negocios de fachada.
 
-**Riesgo:** el FBI empieza a tener jurisdicción narrativa. Ver [[03_Factions/Fuerza_de_Tarea_Meridian]].
+**Riesgo:** los federales empiezan a tener jurisdicción narrativa. Ver [[03_Factions/Fuerza_de_Tarea_Meridian]].
 
 ### Fase V — La factura
 
@@ -209,13 +209,13 @@ Su frase privada, **"los niños del Patio"**, marca el punto en que deja de mira
 
 ---
 
-## Relación Con La Policía Y El FBI
+## Relación Con La Policía Y Los Federales
 
 La policía local puede negociar con El Patio porque necesita casos, movimiento e información. Ver [[03_Factions/Departamento_de_Policia_de_San_Aurelio]].
 
-El FBI no necesita negociar igual. Cuando El Patio toca rutas internacionales, [[03_Factions/Fuerza_de_Tarea_Meridian]] puede convertirlo en patrón federal.
+Los federales no necesitan negociar igual. Cuando El Patio toca rutas internacionales, [[03_Factions/Fuerza_de_Tarea_Meridian]] puede convertirlo en patrón federal.
 
-> **Regla:** la policía local puede mirar al Patio como fuente. El FBI lo mira como estructura.
+> **Regla:** la policía local puede mirar al Patio como fuente. Los federales lo miran como estructura.
 
 ---
 

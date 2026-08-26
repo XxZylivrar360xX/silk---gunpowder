@@ -184,7 +184,7 @@ El Patio nace como nombre de calle. La pareja se formaliza, construye casa, red 
 
 ## Funcion
 
-El Patio deja de ser una solucion local y se vuelve estructura de poder. Dario, policia, fiscalia y FBI empiezan a leer el mismo fenomeno desde angulos distintos.
+El Patio deja de ser una solucion local y se vuelve estructura de poder. Dario, policia, fiscalia y federales empiezan a leer el mismo fenomeno desde angulos distintos.
 
 ## Beats
 
@@ -204,7 +204,7 @@ El Patio deja de ser una solucion local y se vuelve estructura de poder. Dario, 
 
 56. **Luis Ortega y Noah Pierce persiguen cadaveres.** La policia local no persigue una conspiracion: persigue muertos. Poco a poco los nombres conducen a Valcora, luego a Cole.
 
-57. **Meridian entra por escala.** El FBI no llega por un tiroteo aislado. Llega porque Valcora, Camp Alder, rutas, lavado y posible trafico transnacional ya producen patron federal.
+57. **Meridian entra por escala.** Los federales no llegan por un tiroteo aislado. Llega porque Valcora, Camp Alder, rutas, lavado y posible trafico transnacional ya producen patron federal.
 
 58. **Callahan mira a Valcora, Mara mira a Cole.** Andrew Callahan insiste en que Mercer no importa, Valcora importa. Mara Ellison empieza a reconocer que Cole no es separable del caso.
 
@@ -218,7 +218,7 @@ El Patio deja de ser una solucion local y se vuelve estructura de poder. Dario, 
 
 63. **Valcora decide educar a la ciudad.** Dario castiga a alguien no por el dano causado, sino por el mensaje. Quiere recordarles a todos que el miedo es mas antiguo que la deuda.
 
-64. **El Consorcio toca a Chiara.** Leone Valenti o su red activan el pasado de Corrado Ardizzone, Alessio Lusardi o la herida del FBI. Chiara entiende que su apellido sigue siendo territorio disputado.
+64. **El Consorcio toca a Chiara.** Leone Valenti o su red activan el pasado de Corrado Ardizzone, Alessio Lusardi o la herida federal. Chiara entiende que su apellido sigue siendo territorio disputado.
 
 ---
 
@@ -242,7 +242,7 @@ No agregar mundo: cobrarlo. El imperio funciona. Eso es precisamente lo que empi
 
 70. **Nora sigue el dinero hasta Cross River.** Garrett Cross queda bajo presion. El imperio legal que protegia a Cole empieza a producir su propia vulnerabilidad documental.
 
-71. **Chiara y el FBI.** La investigacion federal toca la herida de su padre: la redada, la muerte, la burocracia que le nego verlo o enterrarlo. Chiara no puede mirar a Meridian como institucion neutral.
+71. **Chiara y los federales.** La investigacion federal toca la herida de su padre: la redada, la muerte, la burocracia que le nego verlo o enterrarlo. Chiara no puede mirar a Meridian como institucion neutral.
 
 72. **Vega y Chiara se cruzan.** Vega no es enemiga moral de Chiara, pero representa un sistema que Chiara no perdona del todo. La conversacion debe ser educada, precisa y mas violenta que un grito.
 
@@ -278,7 +278,7 @@ Como la regla dura prohibe la separacion, la novela debe pagar lo que eso exige:
 
 ## Beats
 
-84. **La ciudad interpreta la operacion.** Policia, FBI, prensa, bandas y vecinos producen versiones incompatibles. Chiara debe decidir cual deja correr y cual mata.
+84. **La ciudad interpreta la operacion.** Policia, federales, prensa, bandas y vecinos producen versiones incompatibles. Chiara debe decidir cual deja correr y cual mata.
 
 85. **Cole no puede volver a ser solo herramienta.** Sobrevive, pero ya no puede sostener la ficcion de que su cuerpo es costo administrativo. Hector, Chiara y Marisol pueden cobrarle esa verdad desde lugares distintos.
 

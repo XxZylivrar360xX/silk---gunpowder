@@ -83,7 +83,7 @@ Esto último es la frase clave de toda su carrera: existe un espacio entre lo qu
 
 ## Lo que Chiara ve aquí
 
-En el Capítulo 2, Chiara propone torneos de poker como herramienta de flujo y relato: entrada alta, invitados visibles, hospedaje, cobertura social y **10% limpio para la casa**. La utilidad no es sólo ganar más: es convertir movimiento de dinero en evento público, con historia presentable.
+En el Capítulo 3, Chiara propone torneos de poker como herramienta de flujo y relato: entrada alta, invitados visibles, hospedaje, cobertura social y **10% limpio para la casa**. La utilidad no es sólo ganar más: es convertir movimiento de dinero en evento público, con historia presentable.
 
 Ese mismo día empieza a detectar huecos de administración del casino: proveedores, seguridad, calendario, registros, invitados, prensa y el modo en que una mesa de juego puede servir de excusa legítima para dinero que necesita parecer ganancia.
 

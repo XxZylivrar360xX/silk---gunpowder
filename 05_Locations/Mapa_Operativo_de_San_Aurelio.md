@@ -19,7 +19,7 @@ Antes de escribir una escena con traslado, persecucion, entrega, vigilancia o hu
 3. **Jurisdiccion:** policia local, puerto, aeropuerto, hospital, municipalidad o federal.
 4. **Ventaja:** quien conoce el atajo, quien puede cerrar el paso y quien pierde tiempo por no pertenecer al lugar.
 
-Cole suele ganar por conocimiento fisico de la ciudad. Chiara suele ganar por saber a quien avisarle, que rumor empujar y que puerta social abrir. El FBI gana cuando convierte esas rutas en patrones.
+Cole suele ganar por conocimiento fisico de la ciudad. Chiara suele ganar por saber a quien avisarle, que rumor empujar y que puerta social abrir. Los federales ganan cuando convierten esas rutas en patrones.
 
 ---
 
@@ -172,7 +172,7 @@ Su debilidad aparece cuando Cole controla rutas chicas que Dario siempre conside
 4. Las motos de los Breakwater Saints dominan La Isla y la costa, pero pierden ventaja en Cuesta Bonita y zonas con cierres policiales densos.
 5. Las camionetas de Valcora imponen presencia, pero se vuelven faciles de recordar en barrios donde no pertenecen.
 6. La policia local puede cerrar Bulevar Corona, accesos de hospital y puentes del sur. Le cuesta mas cerrar patios privados, rutas de carga y caminos rurales.
-7. El FBI no necesita perseguir mejor: necesita probar que el mismo patron se repite en rutas distintas.
+7. Los federales no necesitan perseguir mejor: necesitan probar que el mismo patron se repite en rutas distintas.
 
 ---
 

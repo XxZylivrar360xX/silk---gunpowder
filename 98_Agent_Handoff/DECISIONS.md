@@ -18,30 +18,32 @@ Decisiones compactas para relevo. No reemplaza `log.md`.
 - El Capitulo 1 abre con la ciudad y la carta de Walt en la oficina de Cole. Walt tiene aprobada la libertad condicional tras diez anos por un crimen que no cometio y que Crowe le cargo. Cole guarda la carta en la chaqueta de mezclilla y se la muestra a Hector al volver del Gelsomino; Hector llora y dice: "Gracias por contarmelo, muchacho". Danny queda sembrado como preocupacion activa por su consumo nocivo de metanfetaminas.
 - La carta se muestra directamente en escena: Walt esta cansado y emocionado, extraña a Cole y Hector, espera que su hijo este presente aunque no ocurrira, pide que Cole lo acompañe a la ultima audiencia y afirma que aun queda "Viejo Walt para rato". Walt no menciona a Nadir, Russ, Garrett ni Danny: seran presentaciones nuevas. **PENDIENTE:** fecha exacta de la audiencia.
 - La esperanza de Walt activa el recuerdo canon de Jim: se marcha en la camioneta de su padre, llama a San Aurelio "una cloaca de desgracias" y dice que ya no queda nada para él. Cole ofrece que el barrio estara para él; Jim responde "no es suficiente". La escena funciona como precedente emocional de largo alcance; no convertir la nota en spoiler explicativo.
-- Canon reservado: Cole y Jim se reencuentran en Afganistan y Jim no vuelve. La noticia se revela en el Capitulo 2 al llevar Cole y Hector a Walt a su tumba. En el Capitulo 1, el eco se limita a que Cole traga saliva; no nombrar Afganistan ni la muerte en la prosa.
+- Canon reservado: Cole y Jim se reencuentran en Afganistan y Jim no vuelve. La noticia se revela en el Capitulo 3 al llevar Cole y Hector a Walt a su tumba. En el Capitulo 1, el eco se limita a que Cole traga saliva; no nombrar Afganistan ni la muerte en la prosa.
 
 ## 2026-08-24
 
 - Matteo Bellacorte queda fijado como el socio del Monarch que abre H2: conoce a Cole durante el dia y lo cita esa noche para presentarlo a los socios.
+- (2026-08-26) Convencion de nombre: la sigla FBI no se usa en ninguna parte del vault. En prosa y en fichas se dice **"los federales"** cuando actuan como colectivo, **"federal"** como adjetivo de cargo o unidad (agente especial supervisor federal, fuerza de tarea federal, redada federal, equipo federal) y **"la agencia federal"** cuando hace falta nombrarla como institucion. La barrida se aplico a las 81 menciones de los archivos del vault; `log.md` queda intacto por ser registro historico. [[03_Factions/Fuerza_de_Tarea_Meridian]] es la ficha de los federales.
 - El primer capitulo provisional existe en `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable.md`.
+- (2026-08-26) El Capitulo 1 se partio en dos: Capitulo 1 cierra con Cole saliendo hacia el Monarch en el Peugeot; el nuevo Capitulo 2 `02_Demasiado_Listo.md` arranca con la llegada de Chiara y contiene el Monarch completo. Los capitulos 2-6 se renumeraron a 3-7.
 - El arranque alterna el dia normal de Cole en La Almendra, su circuito de negocios, su visita a la tumba de Michael, la llegada de Chiara a Kingsley Field y el primer apreton de manos en el Monarch.
 - Orden canon del circuito diurno de Cole en Capitulo 1: reunion temprana con Raymond Keene/Departamento por contrato mensual de mantenimiento policial, Il Gelsomino, taller/autopartes, Lote Almendra, panteon, La Esquina de Mabel, Casa Comunitaria de La Almendra, Peugeot al Monarch.
-- La reunion con los socios del Monarch queda dentro del Capitulo 1 ampliado, no como Capitulo 2: primero reunion interna con Dario sin Cole, luego primer apreton de manos, reunion formal con Cole y rechazo por "demasiado listo".
+- La reunion con los socios del Monarch vive en el Capitulo 2: primero reunion interna con Dario sin Cole, luego primer apreton de manos, reunion formal con Cole y rechazo por "demasiado listo".
 - Nadir queda informado explicitamente de que Cole va al Monarch esa noche; no conoce los detalles del negocio, pero si el nombre del casino y que Matteo lo invito.
-- El cierre del Capitulo 1 queda paralelo: Cole en el catre del despacho del taller y Chiara en la tina del penthouse registran al otro como dato/radar mutuo, no como inicio consciente de romance.
+- El cierre del Capitulo 2 queda paralelo: Cole en el catre del despacho del taller y Chiara en la tina del penthouse registran al otro como dato/radar mutuo, no como inicio consciente de romance.
 - El EPUB omite `00_Front_Matter` por defecto cuando ya hay capitulos, filtra comentarios HTML, usa TOC nivel 1 y CSS menos comprimido.
-- Dario se retira de la reunion interna del Monarch por una diligencia en el centro; no esta presente en la reunion formal con Cole. El Capitulo 2 cobra el guino con el titular de Keene ejecutado en Plaza Corona.
-- Capitulo 2 provisional creado: [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Los_Viejos_Dias]].
+- Dario se retira de la reunion interna del Monarch por una diligencia en el centro; no esta presente en la reunion formal con Cole. El Capitulo 3 cobra el guino con el titular de Keene ejecutado en Plaza Corona.
+- Capitulo 3 provisional creado: [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias]].
 - Keene aparece muerto con tres tiros, sentado en una banca de Plaza Corona aparentando estar dormido; Cole lo lee como cambio de presion de la ciudad.
-- Walt sale de prision en Capitulo 2; quiere cuidar su libertad condicional y mantenerse legal, pero respondera si hay problema. Con Cole y Hector promete traer de vuelta los viejos dias de La Almendra renovados y con sangre nueva.
+- Walt sale de prision en Capitulo 3; quiere cuidar su libertad condicional y mantenerse legal, pero respondera si hay problema. Con Cole y Hector promete traer de vuelta los viejos dias de La Almendra renovados y con sangre nueva.
 - Harper entra primero como la chica seria de barra en una cafeteria del norte; Cole registra su lectura de la muerte de Keene.
 - Chiara propone torneos de poker para flujo/blanqueo con 10% limpio para el casino; roza con Tommaso y conoce a Blake en una cafeteria del centro. Acepta una fiesta para recuperar vibra de salidas de Palermo/Nueva York, no por eleccion profunda de Blake.
-- Capitulos 3-6 provisionales creados para construir el avance temprano de Cole/Chiara: primer favor bajo la mesa, cadena de favores, primera cena H2-a y penthouse H2-b.
+- Capitulos 4-7 provisionales creados para construir el avance temprano de Cole/Chiara: primer favor bajo la mesa, cadena de favores, primera cena H2-a y penthouse H2-b.
 - El primer favor de Chiara a Cole es llamar por el Mercedes de Varga en el estacionamiento de empleados; Cole lo resuelve con grua y factura ensenable.
 - La cadena de favores se vuelve costumbre de pasar por el Monarch con excusas de trabajo; Chiara intenta pagar y aceptar favores le cuesta.
-- H2-a queda en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/05_Una_Amiga]]: Rocco, camioneta rentada, terraza de Il Gelsomino, Nadir/Danny detectan a Cole arreglado y con fragancia.
-- H2-b queda en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/06_Ambos]]: hamburguesas, malteadas, hierba, canciones, calavera, habitaciones separadas y choque de punos.
-- Paso del usted al tu resuelto provisionalmente al final de Capitulo 6 con la linea canon "Eres increible / Ambos somos increibles".
+- H2-a queda en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/06_Una_Amiga]]: Rocco, camioneta rentada, terraza de Il Gelsomino, Nadir/Danny detectan a Cole arreglado y con fragancia.
+- H2-b queda en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos]]: hamburguesas, malteadas, hierba, canciones, calavera, habitaciones separadas y choque de punos.
+- Paso del usted al tu resuelto provisionalmente al final de Capitulo 7 con la linea canon "Eres increible / Ambos somos increibles".
 - Garrett Cross ya orbita a Cole desde la etapa temprana de Almendra Towing: ayuda con nominas, papeles limpios y contratacion; en Capitulo 1 esta de vacaciones y Cole ya hablo con el para buscar turno nocturno al volver.
 - Hector Navarro es el filtro humano del taller: Garrett puede preparar papeles/nominas, pero Hector decide si alguien sirve para el puesto o no. Cole respeta ese visto bueno.
 - Cole confia en Garrett al nivel de confiarle su vida por lo vivido junto a Russell y Garrett; no es solo "un hombre que cuenta dinero ajeno".

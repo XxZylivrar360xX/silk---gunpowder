@@ -35,7 +35,7 @@ Por la mañana huele a tierra caliente y hojas. De noche, las luces de San Aurel
 
 **Con Cole:** no debe invadirlo. Si Cole convierte Bellandi Ridge en almacén o base, rompe algo. Puede protegerlo, financiarlo o visitarlo, pero la finca no existe para absorberse al Patio.
 
-**Con Cross River:** Garrett puede ordenar papeles o blindar compras laterales, pero Bellandi Ridge no debe aparecer como activo principal de [[03_Factions/Cross_River_Consolidated]]. Esa separación importa ante el FBI.
+**Con Cross River:** Garrett puede ordenar papeles o blindar compras laterales, pero Bellandi Ridge no debe aparecer como activo principal de [[03_Factions/Cross_River_Consolidated]]. Esa separación importa ante los federales.
 
 **Con Il Gelsomino:** candidato natural para que el restaurante sirva una etiqueta propia de Chiara cuando ella ya no trabaja sólo para el casino.
 

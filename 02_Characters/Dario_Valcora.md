@@ -116,7 +116,7 @@ A cambio, Cole pide **seguridad para Chiara**. Y trae con qué pagarlo: **una en
 
 ## Apariciones canon
 
-- **[[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]]** — Chiara lo conoce al llegar al Monarch, en el primer capítulo provisional. Primera aparición del lector bajo el nuevo montaje.
+- **[[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo]]** — Chiara lo conoce al llegar al Monarch, en el segundo capítulo provisional. Primera aparición del lector bajo el nuevo montaje.
 - **[[06_Relationships/Hitos]], H3-b** — conversación con Chiara en la entrada de Gabriella's, de salida, justo antes de que aparezca Cole. Ya no es su primera aparición, pero sigue siendo su primera escena de presión directa sobre ella si el montaje actual se conserva.
 
 ---

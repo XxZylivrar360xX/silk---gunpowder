@@ -15,7 +15,7 @@
 
 Sofia Alvarez investiga trata, explotación y víctimas que las organizaciones tratan como mercancía.
 
-Para el caso de Cole, es enorme porque encuentra una contradicción que incomoda al FBI:
+Para el caso de Cole, es enorme porque encuentra una contradicción que incomoda a los federales:
 
 > En lugares donde Mercer aparece, algunos traficantes mueren, pero algunos niños desaparecidos reaparecen vivos.
 

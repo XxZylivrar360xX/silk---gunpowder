@@ -4,7 +4,7 @@
 
 **Nacionalidad:** estadounidense.  
 **Edad al abrir la novela:** pendiente.  
-**Oficio:** forensic accountant del FBI; lavado de dinero / asset tracing.  
+**Oficio:** forensic accountant federal; lavado de dinero / asset tracing.  
 **Rol:** contadora forense de Meridian.  
 **Alias:** pendiente.  
 **Estado:** viva.

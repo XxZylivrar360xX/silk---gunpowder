@@ -6,7 +6,7 @@
 
 **Nacionalidad:** estadounidense.
 **Edad al abrir la novela:** pendiente.
-**Oficio:** agente especial supervisor del FBI; Organized Crime / RICO.
+**Oficio:** agente especial supervisor federal; Organized Crime / RICO.
 **Rol:** antagonista institucional.
 **Alias:** pendiente.
 **Estado:** vivo.
@@ -21,7 +21,7 @@
 
 ## Quién es
 
-Andrew Callahan dirige [[03_Factions/Fuerza_de_Tarea_Meridian]] cuando el FBI entra a San Aurelio por la escala internacional de los negocios de Cole.
+Andrew Callahan dirige [[03_Factions/Fuerza_de_Tarea_Meridian]] cuando los federales entran a San Aurelio por la escala internacional de los negocios de Cole.
 
 Su obsesión inicial no es Cole. Es [[02_Characters/Dario_Valcora]].
 
@@ -72,7 +72,7 @@ Eso lo vuelve un adversario raro para Cole y Chiara:
 - **No es David Walker.** Ese nombre pertenece al material anterior y queda descartado.
 - **No es corrupto por defecto.** Su daño viene de método, jurisdicción y burocracia.
 - **No grita.** Un federal que grita pierde la escena. Callahan gana hablando poco.
-- **No debe parecer más poderoso que el FBI realista.** Su fuerza es proceso, no omnisciencia.
+- **No debe parecer más poderoso que unos federales realistas.** Su fuerza es proceso, no omnisciencia.
 - **Debe tocar la herida de Chiara sin entenderla del todo.** Esa ignorancia es parte del daño.
 
 ---
@@ -85,7 +85,7 @@ Eso lo vuelve un adversario raro para Cole y Chiara:
 - [[02_Characters/Mara_Ellison]] — case agent de Violent Crime; ella empieza a ver a Cole como patrón personal antes que él.
 - [[02_Characters/Nina_Caldwell]] — fiscal federal que convierte el mapa de Callahan en cargos posibles.
 - [[03_Factions/Departamento_de_Policia_de_San_Aurelio]] — aliado incómodo y competidor por crédito.
-- [[03_Factions/Il_Consorzio]] — posible verdadero origen de pruebas o daños que el FBI leyó mal.
+- [[03_Factions/Il_Consorzio]] — posible verdadero origen de pruebas o daños que los federales leyeron mal.
 
 ---
 

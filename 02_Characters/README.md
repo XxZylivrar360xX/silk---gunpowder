@@ -59,7 +59,7 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 - [[02_Characters/Victor_Reyes]] — operaciones encubiertas y manejo de informantes.
 - [[02_Characters/Sofia_Alvarez]] — trata de personas y explotación.
 - [[02_Characters/Grant_Maddox]] — enlace táctico / SWAT, exmilitar.
-- [[02_Characters/Nina_Caldwell]] — AUSA; fiscal federal recurrente, externa al FBI.
+- [[02_Characters/Nina_Caldwell]] — AUSA; fiscal federal recurrente, externa a la agencia.
 - [[02_Characters/Luis_Ortega]] — detective local de Homicidios y enlace incómodo con Meridian.
 
 ## Nombrados o Reservados Sin Ficha

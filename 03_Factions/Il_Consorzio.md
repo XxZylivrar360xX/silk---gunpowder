@@ -123,7 +123,7 @@ Porque llega el momento en que Chiara empieza a **construir poder como Bellandi 
 
 > **RESUELTO (2026-08-23):** la cara del Consorcio es **[[02_Characters/Leone_Valenti]]**, *Il Consigliere*. Educado, contenido, inamovible. **No amenaza: produce consecuencias.**
 
-> **PARCIALMENTE RESUELTO (2026-08-23):** Corrado Ardizzone murió tras una redada del FBI. La culpa de fondo era del Consorcio, aunque la mano visible fue federal. **PENDIENTE:** qué relación exacta tenía Corrado con el Consorcio: víctima, miembro, moneda o una mezcla peor.
+> **PARCIALMENTE RESUELTO (2026-08-23):** Corrado Ardizzone murió tras una redada federal. La culpa de fondo era del Consorcio, aunque la mano visible fue federal. **PENDIENTE:** qué relación exacta tenía Corrado con el Consorcio: víctima, miembro, moneda o una mezcla peor.
 
 > **PENDIENTE:** la famiglia Lusardi dentro del Consorcio. *Los Lusardi quieren explicaciones.*
 

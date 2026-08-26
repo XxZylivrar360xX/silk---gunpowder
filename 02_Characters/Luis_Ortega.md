@@ -13,7 +13,7 @@
 
 ## Quién es
 
-Luis Ortega pertenece al [[03_Factions/Departamento_de_Policia_de_San_Aurelio]], no al FBI.
+Luis Ortega pertenece al [[03_Factions/Departamento_de_Policia_de_San_Aurelio]], no a los federales.
 
 Es Detective 1 / Homicidios: el principal policía local que termina llevando el caso Mercer porque hay gente muerta.
 

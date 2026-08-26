@@ -4,7 +4,7 @@
 
 **Nacionalidad:** estadounidense.  
 **Edad al abrir la novela:** pendiente.  
-**Oficio:** intelligence analyst del FBI; link analysis / pattern analysis.  
+**Oficio:** intelligence analyst federal; link analysis / pattern analysis.  
 **Rol:** analista de Meridian.  
 **Alias:** pendiente.  
 **Estado:** viva.

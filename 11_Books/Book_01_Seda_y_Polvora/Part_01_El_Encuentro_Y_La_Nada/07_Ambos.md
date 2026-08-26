@@ -6,7 +6,7 @@ Lugares: The Monarch Casino & Hotel, El Penthouse.
 Funcion: ejecutar H2-b, la noche del penthouse, canciones, calavera, silencios comodos, primer cruce al tu y choque de punos.
 -->
 
-# Capítulo 6 — Ambos
+# Capítulo 7 — Ambos
 
 La costumbre nació sin pedir permiso.
 

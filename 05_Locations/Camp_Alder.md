@@ -40,7 +40,7 @@ La entrada que le ofrece a [[02_Characters/Dario_Valcora]] en H6 no es sólo una
 Camp Alder cambia la escala de cualquier escena.
 
 - Si aparece la policía local, está fuera de profundidad.
-- Si aparece el FBI, la historia entra en terreno federal.
+- Si aparecen los federales, la historia entra en terreno federal.
 - Si aparece Halbrook, el libro recuerda que Cole no nació del barrio solamente.
 - Si Valcora recibe armas de ahí, deja de ser un problema municipal.
 

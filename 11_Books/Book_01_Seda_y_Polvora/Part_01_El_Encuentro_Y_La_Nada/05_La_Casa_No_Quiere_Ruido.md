@@ -6,7 +6,7 @@ Lugares: The Monarch Casino & Hotel, La Almendra, centro de San Aurelio.
 Funcion: convertir el favor en cadena, mostrar a Cole como telefono recurrente y a Chiara aprendiendo a dirigir informacion.
 -->
 
-# Capítulo 4 — La casa no quiere ruido
+# Capítulo 5 — La casa no quiere ruido
 
 La factura llegó a las ocho y diecisiete de la mañana.
 
@@ -14,11 +14,7 @@ Chiara la abrió en el escritorio del penthouse, con café, cabello húmedo y un
 
 **Vehículo obstruía acceso operativo marcado. Retiro ejecutado sin contacto físico con propietario.**
 
-Era impecable.
-
-Aburrida.
-
-Enseñable.
+Era impecable, aburrida y enseñable.
 
 Eso la irritó un poco menos de lo que la tranquilizó.
 
@@ -30,9 +26,7 @@ El problema era que el dinero no cerraba la cuenta.
 
 Cole no había cobrado el momento en que Varga bajó la voz. No había cobrado el ángulo desde el que se colocó entre el hombre y la grúa. No había cobrado haber entendido que el problema no era el coche sino el video, la mesera llorando, la puerta de carga bloqueada y el nombre de Dario a punto de usarse como arma barata.
 
-La factura cobraba metal.
-
-El resto quedaba flotando.
+La factura cobraba metal; el resto quedaba flotando.
 
 Chiara odiaba las deudas que no sabían ponerse un número.
 
@@ -164,9 +158,7 @@ Cuando Tommaso preguntó si había contratado a Mercer por debajo, ella dijo:
 
 —No hay contrato.
 
-También era verdad.
-
-No suficiente.
+Eso también era cierto, y Tommaso lo aceptó porque una negación exacta es más difícil de discutir que una mentira. Chiara se quedó con la parte que no dijo: que no hacía falta contrato para que ya hubiera cuenta.
 
 La tercera regla nació sin que la escribiera: Cole no entraba por el lobby salvo que fuera indispensable.
 
@@ -240,7 +232,7 @@ Chiara recuperó la cara antes de que el gesto se volviera demasiado privado.
 
 —No es suyo.
 
-La frase fue simple. Demasiado simple.
+Fue una frase simple, dicha sin intención de herir, y por eso llegó hasta el fondo.
 
 Chiara no contestó.
 
@@ -254,7 +246,43 @@ Ella asintió y subió por el elevador de servicio, molesta con él por haber di
 
 Cole empezó a pasar por el Monarch sin que hubiera siempre una emergencia.
 
-Al principio era trabajo. Una firma. Una factura. Un coche. Un nombre que debía dejar de estar en una lista o aparecer en otra. Después empezó a llevar pequeñas cosas que no parecían regalos porque venían disfrazadas de utilidad: una bisagra mejor para la puerta de carga, un contacto de lavandería que sí contestaba de madrugada, el número de una empresa de hielo que no duplicaba recibos.
+Al principio era trabajo. Una firma. Una factura. Un coche. Un nombre que debía dejar de estar en una lista o aparecer en otra. Después empezó a llevar pequeñas cosas que no parecían regalos porque venían disfrazadas de utilidad: un contacto de lavandería que sí contestaba de madrugada, el número de una empresa de hielo que no duplicaba recibos.
+
+Y una bisagra.
+
+La dejó una tarde sobre el escritorio del área administrativa, envuelta en un pedazo de trapo, sin nota.
+
+—¿Qué es esto?
+
+—Una bisagra.
+
+—Eso lo veo.
+
+—Para la puerta de servicio del pasillo del lobby. La que tienen cierra sola pero se queda medio centímetro afuera y no engancha. Ésta engancha.
+
+Chiara la levantó. Pesaba más de lo que parecía.
+
+—Ésa es la puerta que usted mencionó en la reunión.
+
+—Sí.
+
+—La reunión en la que le dijeron que no.
+
+—Ésa.
+
+—¿Y aun así trae la bisagra?
+
+Cole se acomodó la chaqueta para irse.
+
+—La puerta no estuvo en la reunión.
+
+Chiara la dejó sobre el escritorio con más cuidado del que pensaba tener.
+
+—¿Sabe cuánto costó la alfombra del piso de juego?
+
+—Sí. Por eso le traje una bisagra y no una alfombra.
+
+Cuando se fue, ella se quedó un rato con el trapo vacío en la mano. La pieza podía justificarse en una hoja de mantenimiento sin que a nadie se le moviera una ceja, y ése era exactamente el problema.
 
 Chiara intentó pagar cada cosa.
 
@@ -272,7 +300,7 @@ No aceptó cuando no había concepto.
 
 —Cuando yo soy la que queda debiendo, sí.
 
-Cole sostuvo el vaso de café con las dos manos. No por frío. Por tener algo que hacer.
+Cole sostuvo el vaso de café con las dos manos, no por frío sino por tener algo que hacer.
 
 —No me debe nada.
 
@@ -381,6 +409,24 @@ Chiara no le dio el gusto de tocarse el anular.
 —No hablaba de proveedores.
 
 —Yo sí.
+
+Tommaso se acomodó el puño de la camisa sin prisa.
+
+—Valcora me preguntó por ti la semana pasada. Por Palermo. Por cómo llegaste a estar disponible para este trabajo.
+
+Chiara no se movió.
+
+—¿Y?
+
+—Le di la versión.
+
+Lo dijo sin énfasis, como quien devuelve un objeto prestado. No dijo *la verdad*. No dijo *lo que pasó*. Dijo la versión, y dejó la palabra ahí, en el pasillo, para que ella la recogiera sola.
+
+—Es la única que hay —dijo Chiara.
+
+—Por supuesto. Y la repito muy bien. Llevo años repitiéndola.
+
+No la había acusado de nada. No había preguntado nada. Ni siquiera había dicho que no le creyera. Sólo había dejado sobre la mesa que la versión que la sostenía dependía, en una parte pequeña y perfectamente educada, de un hombre cada vez menos contento con ella en las juntas. El nombre había sido un timbre; esto era una mano puesta en la llave.
 
 Pasó junto a él y entró al elevador antes de que la furia se le acomodara demasiado bien en la cara.
 

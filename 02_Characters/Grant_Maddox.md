@@ -4,7 +4,7 @@
 
 **Nacionalidad:** estadounidense.  
 **Edad al abrir la novela:** pendiente.  
-**Oficio:** agente táctico / enlace SWAT del FBI; exmilitar.  
+**Oficio:** agente táctico / enlace SWAT federal; exmilitar.  
 **Rol:** espejo físico de Cole.  
 **Alias:** pendiente.  
 **Estado:** vivo.

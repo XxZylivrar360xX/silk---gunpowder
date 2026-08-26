@@ -47,12 +47,12 @@ La muerte de Keene abre la puerta a [[02_Characters/Elena_Vega]].
 
 ## Estructura
 
-La policía local no compite narrativamente con el FBI. Su función es mantener la ciudad funcionando, responder primero a los delitos de Cole y terminar cruzándose con la investigación federal.
+La policía local no compite narrativamente con los federales. Su función es mantener la ciudad funcionando, responder primero a los delitos de Cole y terminar cruzándose con la investigación federal.
 
 ### Mando
 
 - **[[02_Characters/Elena_Vega|Chief Elena Vega]]** — jefa de policía. Maneja política, presupuesto, alcaldía y presión mediática. No investiga escenas; dirige una institución bajo crisis.
-- **Martin Cho** — Deputy Chief. Enlace de alto nivel con FBI y fiscalía cuando los federales piden cooperación.
+- **Martin Cho** — Deputy Chief. Enlace de alto nivel con los federales y la fiscalía cuando piden cooperación.
 - **Thomas Reade** — Captain / precinct commander. Recurrente de estación. Su problema no es "atrapar a Cole": es que alguien prendió otro incendio en su distrito.
 - **Rosa Ramirez** — Lieutenant / watch commander. Controla turnos, unidades, cierres de calles, perímetros y primeras coordinaciones.
 
@@ -81,7 +81,7 @@ La fórmula narrativa:
 - Teniente: coordinó recursos.
 - Detective: conectó homicidios.
 - Capitán: midió el incendio político del distrito.
-- Deputy Chief: recibió la llamada del FBI.
+- Deputy Chief: recibió la llamada de los federales.
 - Chief Vega: decidió qué costo institucional acepta pagar.
 
 ### Blake Stanton
@@ -104,7 +104,7 @@ Ver [[06_Relationships/Hitos]], H9.
 
 No representa al Departamento entero. Representa una memoria de calle que los federales no tienen: familias, clubes, cadáveres, favores viejos y mentiras que suenan locales.
 
-Dentro de la policía local, Luis es Detective 1 / Homicidios: el principal antagonista policial de Cole antes de que el FBI cambie la escala.
+Dentro de la policía local, Luis es Detective 1 / Homicidios: el principal antagonista policial de Cole antes de que los federales cambien la escala.
 
 ---
 
@@ -120,9 +120,9 @@ El Departamento cree que usa a Cole como fuente. Cole cree que usa al Departamen
 
 ---
 
-## Relación con el FBI
+## Relación con los federales
 
-La Policía de San Aurelio resiente al FBI porque los federales llegan cuando el caso ya tiene presupuesto, cámaras o escala internacional.
+La Policía de San Aurelio resiente a los federales porque llegan cuando el caso ya tiene presupuesto, cámaras o escala internacional.
 
 Eso crea un ángulo útil: cuando la fuerza federal entra contra Cole, el Departamento no necesariamente coopera por obediencia. Coopera, compite, filtra o estorba según quién gane con el crédito.
 
@@ -148,7 +148,7 @@ La policía necesita encontrar y detener. La fiscalía necesita probar. Esa dife
 
 > **PENDIENTE:** si Blake Stanton vuelve como amenaza seria, víctima de su propio orgullo o fuente útil sin saberlo.
 
-> **PENDIENTE:** qué expediente local permite que el FBI entre por primera vez a la historia de Cole.
+> **PENDIENTE:** qué expediente local permite que los federales entren por primera vez a la historia de Cole.
 
 ---
 

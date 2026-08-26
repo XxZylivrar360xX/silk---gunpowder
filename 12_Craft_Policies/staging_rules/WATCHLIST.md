@@ -8,7 +8,7 @@ Riesgo heredado de montaje: usar `---` o cortes de seccion para saltar rutas, re
 
 ## Reuniones de poder sin jerarquia visible
 
-Riesgo: escribir juntas del casino, fiscalia, FBI o puerto como intercambio de informacion entre iguales. El poder debe verse en quien se sienta, quien espera, quien sirve, quien interrumpe y a quien se le permite no contestar.
+Riesgo: escribir juntas del casino, fiscalia, federales o puerto como intercambio de informacion entre iguales. El poder debe verse en quien se sienta, quien espera, quien sirve, quien interrumpe y a quien se le permite no contestar.
 
 ## Ciudad nombrada, no cruzada
 

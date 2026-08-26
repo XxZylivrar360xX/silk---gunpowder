@@ -13,7 +13,7 @@
 
 ## Quién es
 
-Nina Caldwell no pertenece al FBI, pero puede volver reales meses de investigación.
+Nina Caldwell no pertenece a la agencia federal, pero puede volver reales meses de investigación.
 
 Convierte patrones en cargos, sospechas en órdenes, entrevistas en cooperating witnesses y teoría federal en juicio posible. Si Callahan ve organizaciones, Nina decide qué se puede probar sin que el caso se caiga.
 
@@ -35,7 +35,7 @@ Pregunta:
 
 ## Conexiones
 
-- [[03_Factions/Fuerza_de_Tarea_Meridian]] — fiscal federal recurrente, externa al FBI.
+- [[03_Factions/Fuerza_de_Tarea_Meridian]] — fiscal federal recurrente, externa a la agencia.
 - [[02_Characters/Andrew_Callahan]] — tensión útil: él quiere mapa completo; ella quiere cargos sostenibles.
 - [[02_Characters/Nora_Whitcomb]] — convierte rastreo financiero en decomiso, órdenes y cargos.
 - [[02_Characters/Cole_Mercer]] — decide si perseguirlo fortalece o debilita el caso contra Valcora.
@@ -44,4 +44,4 @@ Pregunta:
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** qué cargo menor permite meter legalmente al FBI en una parte del imperio de Cole.
+> **PENDIENTE:** qué cargo menor permite meter legalmente a los federales en una parte del imperio de Cole.

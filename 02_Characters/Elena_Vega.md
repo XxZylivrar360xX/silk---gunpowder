@@ -89,7 +89,7 @@ La respuesta de Vega:
 - [[02_Characters/Raymond_Keene]] — jefe anterior asesinado; su muerte abre la crisis.
 - [[02_Characters/Dario_Valcora]] — el poder criminal que prueba si una jefa incorruptible puede sobrevivir San Aurelio.
 - [[02_Characters/Cole_Mercer]] — conflicto ideológico: justicia institucional contra justicia individual.
-- [[03_Factions/Fuerza_de_Tarea_Meridian]] — fricción de jurisdicción cuando el FBI entra.
+- [[03_Factions/Fuerza_de_Tarea_Meridian]] — fricción de jurisdicción cuando entran los federales.
 
 ---
 

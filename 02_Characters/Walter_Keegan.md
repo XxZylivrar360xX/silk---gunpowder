@@ -73,7 +73,7 @@ Y Silas Crowe entiende al instante lo que significa: **uno de los pocos hombres 
 >
 > Es la mejor prueba posible de la tesis del Tasador y su contraria a la vez: Silas cree que todo tiene precio, y lo que lo pone nervioso es **un hombre que no le debe nada.**
 
-**CANON DEL AUTOR (2026-08-24):** en el Capítulo 2, Cole y Héctor van a recibirlo cuando sale de prisión. Walt vuelve queriendo cuidar su libertad condicional y mantenerse del lado legal de la vida, aunque deja claro que si llega a haber problema, responderá. En el porche, con cervezas, menciona que sigue un poco resentido con "el joyero", pero ahora valora más estar afuera.
+**CANON DEL AUTOR (2026-08-24):** en el Capítulo 3, Cole y Héctor van a recibirlo cuando sale de prisión. Walt vuelve queriendo cuidar su libertad condicional y mantenerse del lado legal de la vida, aunque deja claro que si llega a haber problema, responderá. En el porche, con cervezas, menciona que sigue un poco resentido con "el joyero", pero ahora valora más estar afuera.
 
 Esa primera tarde, Walt, Héctor y Cole prometen traer de vuelta los viejos días de La Almendra, renovados y con sangre nueva.
 

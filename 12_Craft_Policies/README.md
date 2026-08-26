@@ -58,6 +58,7 @@ En caso de conflicto:
 |---|---|
 | [01-vineta-de-tesis-sin-encarnacion-espacial](staging_rules/01-vineta-de-tesis-sin-encarnacion-espacial.md) | La tesis llega antes que el lugar. |
 | [02-encuentro-grande-resuelto-por-resumen-funcional](staging_rules/02-encuentro-grande-resuelto-por-resumen-funcional.md) | Una reunión, golpe, amenaza u operación se resume por función sin beats físicos/sociales intermedios. |
+| [03-presentacion-por-catalogo-en-vez-de-gesto](staging_rules/03-presentacion-por-catalogo-en-vez-de-gesto.md) | Un personaje o su pasado entran por inventario físico en vez de por un gesto que se le escapa al cuerpo. |
 
 ## Fichas de voz existentes
 

@@ -130,7 +130,7 @@ El mercado de San Aurelio no es una pirámide simple. Es una red de dependencias
 - Bandas menores controlan calles, cobros, venta local, músculo, carreras, seguridad de piso y bodegas grises. Ver [[03_Factions/Bandas_Menores_de_San_Aurelio]].
 - La policía local negocia con casos y zonas de tolerancia.
 - El Ayuntamiento necesita que el crimen no se vuelva noticia de campaña.
-- El FBI todavía no entra porque el patrón internacional no es visible.
+- Los federales todavía no entran porque el patrón internacional no es visible.
 
 La tensión del libro empieza cuando esa red deja de parecer estable.
 
@@ -201,7 +201,7 @@ Este estado de ciudad permite varios frentes simultáneos:
 - Cole empieza resolviendo problemas que Dario no quiere tocar.
 - El Patio gana reputación antes de ganar territorio.
 - Los [[03_Factions/Breakwater_Saints_MC|Breakwater Saints MC]] obligan a definir si la costa entra por tregua, compra o guerra.
-- El FBI entra después, cuando esa reputación se convierte en patrón.
+- Los federales entran después, cuando esa reputación se convierte en patrón.
 
 La elección y la guerra del sur deben cruzarse. Si ocurren en carriles separados, la ciudad se siente decorativa.
 

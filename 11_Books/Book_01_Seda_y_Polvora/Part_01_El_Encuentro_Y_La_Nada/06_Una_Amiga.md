@@ -6,7 +6,7 @@ Lugares: Almendra Towing, Monarch, Il Gelsomino.
 Funcion: ejecutar H2-a, la primera cena que ninguno llama cita.
 -->
 
-# Capítulo 5 — Una amiga
+# Capítulo 6 — Una amiga
 
 Cole pasó la tarde enseñándole a Rocco a dar la pata.
 

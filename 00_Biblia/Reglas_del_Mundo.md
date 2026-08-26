@@ -64,7 +64,7 @@ El [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento de San Aure
 
 Consecuencia: **la moneda con la policía es información, no efectivo**, y eso vuelve a Chiara más valiosa que cualquier maletín.
 
-El FBI es otra física. La [[03_Factions/Fuerza_de_Tarea_Meridian]] no negocia con casos locales sino con **patrones federales**: rutas, jurisdicción, lavado, suministro, crimen organizado transnacional. Cuando entra, no busca ganar una rueda de prensa municipal; busca cerrar un mapa.
+Los federales son otra física. La [[03_Factions/Fuerza_de_Tarea_Meridian]] no negocia con casos locales sino con **patrones federales**: rutas, jurisdicción, lavado, suministro, crimen organizado transnacional. Cuando entra, no busca ganar una rueda de prensa municipal; busca cerrar un mapa.
 
 Consecuencia narrativa: **Cole puede volverse indispensable para la policía local; no puede volverse indispensable para un expediente federal.** Y Chiara puede mover la versión de la ciudad, pero no borra igual de fácil una orden sellada.
 

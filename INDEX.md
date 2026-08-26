@@ -63,7 +63,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[02_Characters/Matteo_Bellacorte]] — socio del Monarch que abre la puerta de H2: conoce a Cole durante el día y lo cita por la noche con los socios.
 - [[02_Characters/Fabrizio_Rinaldi]] — provisional; viejo amigo italiano de Chiara dentro del grupo del Monarch.
 - [[02_Characters/Tommaso_Lusardi]] — provisional; hermano de Alessio Lusardi y presencia incómoda del pasado de Chiara.
-- [[02_Characters/Andrew_Callahan]] — agente especial supervisor del FBI; comandante RICO de Meridian. Su obsesión inicial es Valcora, no Cole.
+- [[02_Characters/Andrew_Callahan]] — agente especial supervisor federal; comandante RICO de Meridian. Su obsesión inicial es Valcora, no Cole.
 - [[02_Characters/Mara_Ellison]] · [[02_Characters/Priya_Nair]] · [[02_Characters/Nora_Whitcomb]] · [[02_Characters/Leah_Park]] · [[02_Characters/Victor_Reyes]] · [[02_Characters/Sofia_Alvarez]] · [[02_Characters/Grant_Maddox]] — equipo interno de la Fuerza Meridian: violencia, análisis, lavado, digital, informantes, trata y táctica.
 - [[02_Characters/Nina_Caldwell]] · [[02_Characters/Luis_Ortega]] — recurrentes externos de Meridian: fiscal federal y detective local.
 
@@ -123,8 +123,8 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[03_Factions/Los_Marcadores_de_Milla]] · [[03_Factions/Alamo_Salvage]] — organizaciones menores del norte.
 - [[03_Factions/Breakwater_Saints_MC]] — banda motociclista costera; seguridad de piso en La Isla antes del flujo de cocaína de Cole.
 - [[03_Factions/Departamento_de_Policia_de_San_Aurelio]] — policía municipal. No usar `S.A.P.D.` como marca principal; en prosa, el Departamento o la Policía de San Aurelio.
-- [[03_Factions/Fiscalia_de_San_Aurelio]] — fiscalía local: decide qué homicidios se pueden probar antes de que el FBI convierta el patrón en caso federal.
-- [[03_Factions/Fuerza_de_Tarea_Meridian]] — fuerza del FBI contra crimen organizado transnacional. Entra cuando los negocios de Cole ya no caben en escala municipal; carga la herida de Chiara por la redada contra Corrado.
+- [[03_Factions/Fiscalia_de_San_Aurelio]] — fiscalía local: decide qué homicidios se pueden probar antes de que los federales conviertan el patrón en caso federal.
+- [[03_Factions/Fuerza_de_Tarea_Meridian]] — fuerza federal contra crimen organizado transnacional. Entra cuando los negocios de Cole ya no caben en escala municipal; carga la herida de Chiara por la redada contra Corrado.
 - [[03_Factions/El_Casino]] — **The Monarch Casino & Hotel**, la posición de partida de Chiara, y no es suya. Primera organización que la máquina de Cole se come, delante del lector.
 - [[03_Factions/El_Faro]] — diario viejo, quebrado y todavía creído. El territorio real de Chiara.
 - [[02_Characters/Alessio_Lusardi]] († ) — el marido de Chiara. Ella lo apuñaló y murió; alguien construyó la versión que la salvó. **Nunca se sabrá si Valenti la creyó.**
@@ -142,12 +142,13 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[10_Chapters/README]] — prosa (vacío; el protocolo previo a escribir está ahí)
 - [[11_Books/README]] — montaje editorial del libro y flujo EPUB
 - [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] — mapa operativo del libro activo
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]] — Capítulo 1 provisional ampliado: día normal de Cole, acuerdo temprano con Keene/Departamento, llegada de Chiara, reunión interna del Monarch, Matteo como bisagra, primer apretón de manos, rechazo de socios y cierre paralelo de radar mutuo
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Los_Viejos_Dias]] — Capítulo 2 provisional: titular de Keene, salida de prisión de Walt, primer cruce con Harper, porche de La Almendra, torneos de poker de Chiara y primer encuentro con Blake
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_La_Primera_Llamada]] — Capítulo 3 provisional: fiesta de Blake, primera llamada de Chiara a Cole y primer favor bajo la mesa del casino
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/04_La_Casa_No_Quiere_Ruido]] — Capítulo 4 provisional: cadena de favores, factura enseñable, roces con Tommaso y comienzo de la costumbre de pasar por el Monarch
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/05_Una_Amiga]] — Capítulo 5 provisional: H2-a, primera cena no nombrada como cita, Rocco, camioneta rentada e Il Gelsomino
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/06_Ambos]] — Capítulo 6 provisional: H2-b, penthouse, canciones, calavera, silencios cómodos y primer cruce al tú
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]] — Capítulo 1 provisional: día normal de Cole, carta de Walt, acuerdo temprano con Keene/Departamento, Matteo como bisagra e invitación al Monarch
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo]] — Capítulo 2 provisional: llegada de Chiara a San Aurelio, Fabrizio/Tommaso/Dario, reunión interna sin Cole, primer apretón de manos, rechazo por "demasiado listo" y cierre paralelo de radar mutuo
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias]] — Capítulo 3 provisional: titular de Keene, salida de prisión de Walt, primer cruce con Harper, porche de La Almendra, torneos de poker de Chiara y primer encuentro con Blake
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/04_La_Primera_Llamada]] — Capítulo 4 provisional: fiesta de Blake, primera llamada de Chiara a Cole y primer favor bajo la mesa del casino
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/05_La_Casa_No_Quiere_Ruido]] — Capítulo 5 provisional: cadena de favores, factura enseñable, roces con Tommaso y comienzo de la costumbre de pasar por el Monarch
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/06_Una_Amiga]] — Capítulo 6 provisional: H2-a, primera cena no nombrada como cita, Rocco, camioneta rentada e Il Gelsomino
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos]] — Capítulo 7 provisional: H2-b, penthouse, canciones, calavera, silencios cómodos y primer cruce al tú
 
 ---
 
@@ -161,6 +162,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - `12_Craft_Policies/voice/TEMPLATE.md` — plantilla de ficha de voz
 - `12_Craft_Policies/dialogue_rules/` — anti-patrones de diálogo adaptados desde *Memories Of A Ghost*
 - `12_Craft_Policies/staging_rules/` — anti-patrones de puesta en escena adaptados desde *Memories Of A Ghost*
+- [[12_Craft_Policies/staging_rules/03-presentacion-por-catalogo-en-vez-de-gesto]] — gesto antes que catálogo: cómo entrar un personaje o una herida sin inventario físico
 
 ---
 

@@ -6,7 +6,7 @@ Lugares: taller de Almendra Towing, carcel del condado, norte rural, La Almendra
 Funcion: cobrar el guino de Dario/Keene, presentar la salida de Walt, sembrar a Harper, mostrar a Chiara detectando huecos del casino y abrir la salida con Blake.
 -->
 
-# Capítulo 2 — Los viejos días
+# Capítulo 3 — Los viejos días
 
 Cole despertó antes de que sonara el teléfono, con la misma incomodidad exacta con la que se había dormido.
 
@@ -44,11 +44,11 @@ Legal lo revisa.
 
 Cole se pasó una mano por la cara. No pensó en duelo. No conocía a Keene lo suficiente para eso. Pensó en la grúa blanca estacionada frente al Departamento, en el oficial de recepción reconociendo primero el logo y después la cara, en las doce unidades con demasiadas millas y en la Tahoe negra que perdía aceite pero seguía saliendo en fotos.
 
-Pensó también en Dario Valcora.
+Después pensó en la calle Almendra.
 
-No por prueba. Por temperatura.
+Un jefe de policía era un mapa: qué zonas tenía marcadas, qué favores debía, a quién le contestaba el teléfono a las tres de la mañana. Alguien acababa de borrar ese mapa antes del amanecer. Ahora cada cuadra de San Aurelio iba a tener que averiguar otra vez quién decidía qué patrulla pasaba lento y cuál no pasaba, y ese cálculo no se hacía en las mismas mesas en todas partes: en el Distrito Marino se resolvía en una junta con carpetas, en la Almendra se resolvía en la calle y siempre lo pagaba el mismo tipo de gente.
 
-Una ciudad cambiaba de presión cuando alguien podía dejar al jefe de policía sentado en una banca de la plaza principal con tres tiros y permitir que pareciera dormido hasta que amaneciera.
+Pensó también en Dario Valcora, no por prueba sino por temperatura.
 
 El teléfono vibró otra vez.
 
@@ -78,19 +78,9 @@ Cole se puso de pie. El cuerpo protestó tarde.
 
 —Y yo te escuché.
 
-—Eso no es lo mismo.
-
-—Nunca dije que fuera lo mismo.
-
-Cole miró la camisa del día anterior y decidió que no.
-
-—Dame veinte.
-
-—Te doy quince.
-
 Héctor colgó.
 
-Cole dejó el teléfono en el escritorio y abrió la bolsa de ropa limpia bajo el catre. Sacó una camiseta oscura, jeans, botas. Nada que pareciera reunión. Nada que pareciera casino. Mientras se cambiaba, la noticia siguió ocupando el cuarto aunque la pantalla estuviera apagada.
+Cole dejó el teléfono en el escritorio, miró la camisa del día anterior y decidió que no. Abrió la bolsa de ropa limpia bajo el catre y sacó una camiseta oscura, jeans, botas. Nada que pareciera reunión. Nada que pareciera casino. Mientras se cambiaba, la noticia siguió ocupando el cuarto aunque la pantalla estuviera apagada.
 
 Keene en una banca.
 
@@ -312,7 +302,7 @@ Harper cerró la caja.
 
 —También.
 
-Cole asintió una vez. No era simpatía. Era archivo.
+Cole asintió una vez.
 
 Walt tomó su café y bebió demasiado pronto. Hizo una mueca.
 
@@ -338,9 +328,15 @@ Harper se dio cuenta de que los tres la estaban mirando y volvió a la plancha.
 
 Cole llevó las tazas a la mesa.
 
-No dijo nada.
+No dijo nada. Pero se quedó con dos cosas.
 
-Pero se acordó del nombre.
+La primera: lo había dicho delante de tres desconocidos, uno de ellos recién salido de la cárcel, sin bajar la voz y sin revisar después las caras para ver si le había salido bien. La gente que acierta por accidente revisa las caras.
+
+La segunda: la camioneta con lodo hasta media puerta seguía atrás, con el remolque vacío y los postes de cerca todavía sin subir. Nadie deja un trabajo a medias en un camino de tierra para venir a servir café por gusto.
+
+Una mujer que leía la ciudad desde una plancha de carretera, en el único lugar del mundo donde nadie iba a preguntarle nunca su opinión.
+
+Cole se acordó del nombre.
 
 ***
 
@@ -584,9 +580,11 @@ Chiara empezó la mañana con el titular de Keene y una taza de café que sabía
 
 La pantalla del teléfono descansaba junto al plato de fruta intacto. Plaza Corona. Tres tiros. Jefe de policía ejecutado en una banca. La versión pública todavía buscaba palabras: atentado, crimen, investigación, comunidad consternada. Chiara leyó cada una y descartó casi todas.
 
-La ciudad no estaba consternada.
+Lo que le interesaba no era quién había disparado. Era el calendario.
 
-La ciudad estaba recibiendo instrucciones.
+Un casino a punto de abrir necesitaba que la palabra San Aurelio significara costa, dinero nuevo y un fin de semana caro. Desde esa mañana significaba un jefe de policía con tres tiros en la plaza principal. Cada nota que se escribiera sobre el Monarch en las próximas semanas iba a llevar esa fotografía pegada detrás aunque nadie la imprimiera, y los invitados de fuera no cancelarían por miedo: cancelarían porque cancelar los hacía verse prudentes.
+
+Quien lo hizo eligió la plaza, la hora y la banca. Eso no era rabia. Era un comunicado escrito en otro alfabeto, publicado encima del suyo.
 
 Recordó a Dario dejando la reunión del día anterior por una diligencia en el centro y no permitió que la conclusión se formara completa. No porque le diera miedo pensarla. Porque una conclusión sin prueba era un lujo, y ella no pagaba por lujos inútiles.
 
@@ -708,9 +706,7 @@ Fabrizio no sonreía.
 
 —No le regales el resto del día.
 
-Ella cerró la carpeta despacio.
-
-No era retirada. No era obediencia. Era administración de daño.
+Ella cerró la carpeta despacio. No era retirada ni obediencia: era administración de daño.
 
 —Revisen los números —dijo—. Vuelvo después de comer.
 
@@ -726,9 +722,7 @@ Pidió un taxi.
 
 ***
 
-El centro de San Aurelio no intentaba seducirla.
-
-Eso le gustó.
+El centro de San Aurelio no intentaba seducirla. Eso le gustó.
 
 Calle Corona tenía juzgados, bancos viejos, oficinas municipales, cafeterías con mesas demasiado juntas, gente que caminaba rápido aunque no pareciera ir a ningún lugar bueno y patrullas todavía estacionadas alrededor de Plaza Corona. La banca donde habían encontrado a Keene estaba cubierta y lejos, convertida en punto ciego por cinta, cuerpos y cámaras.
 
@@ -812,11 +806,7 @@ Justamente por eso no dijo no.
 
 Extrañó, con una punzada breve y ridícula, la sensación de salir en Palermo sin que todo fuera expediente. Nueva York, con sus bares demasiado caros, sus taxis amarillos, sus noches donde una podía fingir dos horas que nadie esperaba nada de ella salvo que eligiera otra copa. La vibra de moverse porque sí. De aceptar una invitación porque el cuerpo necesitaba recordar que también existía fuera de las mesas.
 
-Blake no era eso.
-
-Pero podía servir de imitación barata.
-
-Y a veces una imitación barata alcanzaba para pasar la noche.
+Blake no era eso, pero podía servir de imitación barata. Y a veces una imitación barata alcanzaba para pasar la noche.
 
 —¿A qué hora?
 

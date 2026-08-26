@@ -46,7 +46,7 @@ Esa noche hace que Cole llegue al casino para conocer a los socios. No sabe que 
 
 ## Pendientes
 
-> **PENDIENTE:** grado exacto de participacion accionaria en el Monarch.
+> **RESUELTO DE DISEÑO (2026-08-25):** Matteo es el administrador con mayor participacion entre los socios operativos del Monarch (Tommaso, Fabrizio) — distinto de Dario, que es dueño/socio mayoritario pero no administrador. Por eso la "sala privada" donde se reune con Cole es, en el papel, el despacho principal de Matteo. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo]].
 
 > **PENDIENTE:** si Matteo sigue siendo aliado util, pieza desechada por Dario o primer socio que entiende tarde que Cole era demasiado listo.
 

@@ -1437,7 +1437,7 @@ Se amplio [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un
 
 Se corrigio el Capitulo 1 para que Dario no este presente en la reunion formal con Cole: se retira de la reunion interna por una diligencia en el centro, que el Capitulo 2 cobra con el titular de Keene ejecutado en Plaza Corona.
 
-**Capitulo 2 creado:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Los_Viejos_Dias]]
+**Capitulo 2 creado:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias]]
 
 - Keene aparece ejecutado con tres tiros, sentado en una banca como si estuviera dormido.
 - Cole y Hector reciben a Walt al salir de prision.
@@ -1448,10 +1448,10 @@ Se corrigio el Capitulo 1 para que Dario no este presente en la reunion formal c
 
 **Capitulos 3-6 creados:**
 
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_La_Primera_Llamada]] — Blake exhibe a Chiara en La Isla; primera llamada a Cole; primer favor bajo la mesa con el Mercedes de Varga.
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/04_La_Casa_No_Quiere_Ruido]] — cadena de favores, factura ensenable, visitas de Cole al Monarch y roce de Tommaso con el pasado de Alessio.
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/05_Una_Amiga]] — H2-a: Rocco, camioneta rentada, terraza de Il Gelsomino, Nadir/Danny como testigos.
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/06_Ambos]] — H2-b: costumbre de contarse el dia, penthouse, hamburguesas/malteadas, hierba, canciones, calavera, habitaciones separadas, primer tu y choque de punos.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/04_La_Primera_Llamada]] — Blake exhibe a Chiara en La Isla; primera llamada a Cole; primer favor bajo la mesa con el Mercedes de Varga.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/05_La_Casa_No_Quiere_Ruido]] — cadena de favores, factura ensenable, visitas de Cole al Monarch y roce de Tommaso con el pasado de Alessio.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/06_Una_Amiga]] — H2-a: Rocco, camioneta rentada, terraza de Il Gelsomino, Nadir/Danny como testigos.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos]] — H2-b: costumbre de contarse el dia, penthouse, hamburguesas/malteadas, hierba, canciones, calavera, habitaciones separadas, primer tu y choque de punos.
 
 **Decision provisional:** el paso del usted al tu ocurre al final de Capitulo 6 con la linea canon "Eres increible / Ambos somos increibles". Revisar si el autor quiere mover ese umbral.
 
@@ -1540,3 +1540,117 @@ A peticion del autor, se completo la limpieza de regionalismos mexicanos iniciad
 Al revisar esos pasajes, el autor detecto una ambiguedad de atribucion en el Capitulo 5: la linea "—Es tu perro —dijo Cole." aparecia justo despues de una linea de Nadir, por lo que podia leerse como si Rocco fuera su perro. El canon (`02_Characters/Daniel_Hayes.md`) confirma que Rocco es de Danny, y la misma escena lo reafirma mas adelante ("Tu perro no. El de Danny."). Se corrigio a "—Es tu perro, Danny —dijo Cole." para quitar la ambiguedad.
 
 **Archivos tocados:** `11_Books/.../01_Un_Hombre_De_Negocios_Intachable.md`, `11_Books/.../02_Los_Viejos_Dias.md`, `11_Books/.../03_La_Primera_Llamada.md`, `11_Books/.../05_Una_Amiga.md`, `11_Books/.../06_Ambos.md`, `02_Characters/Cole_Mercer.md`, `05_Locations/Il_Gelsomino.md`, `05_Locations/La_Esquina_de_Mabel.md`, `05_Locations/El_Penthouse.md`, `06_Relationships/Hitos.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## Sesion 2026-08-25 (5) | Ingles suelto y nuevo pitch del sorteo en la reunion del Monarch
+
+Se corrigio un "—Morning." fuera de lugar en el saludo de Cole al oficial de recepcion antes de la reunion con Keene (Capitulo 1): quedo como "—Buen día." completo, a peticion del autor. Se dejo intacto "Chief" como forma en que Cole se dirige a Keene, por ser un uso consistente en toda la escena y no un desliz aislado.
+
+A propuesta del autor, se añadio un pitch nuevo de Cole en la reunion formal con los socios del Monarch: ofrece financiar y suministrar desde Lote Almendra el vehiculo del sorteo de apertura del casino, buscando ser proveedor tanto del sorteo como del mantenimiento de flotilla en la misma jugada. Va colocado justo despues de que Cole señala la falla de seguridad de la puerta de servicio, antes de la pregunta de Chiara sobre el porcentaje. Tommaso reacciona primero con una linea nueva, "Sus aspiraciones son altas, señor Mercer", y luego, tras la pregunta de Chiara, con el "Demasiado listo" ya existente. Se verifico que "Demasiado listo" tiene dos ecos mas adelante en el capitulo (la reflexion de Cole esa noche en el taller y la reflexion de Chiara en la tina, que retoma literalmente la palabra "listo") — por eso esa frase no se toco, y la nueva linea del autor se uso como golpe adicional en vez de reemplazo.
+
+**Archivos tocados:** `11_Books/.../01_Un_Hombre_De_Negocios_Intachable.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+---
+
+## [2026-08-26] edit | Pasada de correccion sobre el Capitulo 1: corte en dos, poda de valle y de tic
+
+Se atendieron seis observaciones de lectura sobre el antiguo Capitulo 1.
+
+**1. Corte en dos capitulos.** El antiguo Capitulo 1 se partio en el salto de POV, donde Cole sale hacia el Monarch.
+
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]] — Capitulo 1, ~8,100 palabras. Dia de Cole completo; cierra con el Peugeot bajo la farola.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo]] — Capitulo 2 nuevo, ~7,100 palabras. Llegada de Chiara a Kingsley Field, lobby del Monarch, reunion interna sin Cole, primer apreton de manos (H2), reunion formal, rechazo por "demasiado listo" y cierre paralelo de radar mutuo. El titulo sale de la linea de Tommaso, que ahora remata las dos escenas finales.
+
+Los capitulos posteriores se renumeraron con `git mv`: 02 a 03, 03 a 04, 04 a 05, 05 a 06, 06 a 07. Se actualizaron encabezados internos, INDEX, 00_Book_Map, milestones/INDEX (lista renumerada 1-18), fichas de Dario y Matteo, CURRENT_BRIEF, DECISIONS y los enlaces historicos de este log. El build de EPUB toma capitulos por orden de nombre de archivo, asi que no requirio cambios.
+
+**2. Poda del valle narrativo de la manana.** Il Gelsomino baja de ~700 a ~360 palabras: se conserva la entrada por cocina, el sobre de Claudio, la oferta de la terraza —que se cobra en el Capitulo 6— y el remate de la bisagra; se corta el ida y vuelta largo con Enzo. Lote Almendra pierde descripcion de escaparate pero conserva entero el trato con Rafa y "reunir testigos sin convocarlos", que Matteo cita despues.
+
+**3. Poda del tic de frase corta de remate.** En Capitulo 1 se absorbieron o eliminaron ocho remates ("Eso la hacia mas cara", "Eso tambien era relato", "Los tratos limpios...", "No mucho / Lo suficiente", "Cole lo vio antes de verlo", "Eso tambien era cuidado", "Esa era la diferencia con Nadir"). Sobreviven cuatro: "No estaba escrito", "Confiaba mas en la bisagra", "Nadie le corregia las versiones" y "No podia despreciar la puerta". En Capitulo 2 se recorto la duplicacion del recurso "No dijo X / No hizo falta" (aparecia dos veces) y se quito el conteo "el segundo dato". Se conservan los dos cierres de radar, que son el par estructural del capitulo.
+
+**4. Entrada de Chiara por accion.** Se elimino el retrato de vestuario en el aterrizaje y se sustituyo por su lectura de la fila de migracion: elige la ventanilla del oficial mas joven, ordena los papeles como se los van a pedir y sale con "la primera medida del pais". El retrato fisico completo queda una sola vez, en POV de Cole bajo la marquesina, donde es primer encuentro y no catalogo.
+
+**5. Escalonamiento de nombres secundarios.** Russ y Garrett salen de la ensonacion de la primera pagina. Garrett conserva su mencion en el dialogo con Hector, donde si tiene funcion inmediata, con una linea que explica quien es. El parrafo de Danny se comprimio.
+
+**6. Ritmo de la escena del Monarch.** Se elimino un parrafo que repetia literalmente los gestos descritos en el parrafo anterior (anillo, vaso, ventanal) y dos ecos cercanos ("dejo pasar un segundo" dos veces, "Matteo acepto el golpe con una inclinacion pequena de cabeza" en dos escenas).
+
+**Bug de continuidad corregido de paso:** en la escena con Keene, el parrafo "La radio del pasillo solto una clave y volvio a callarse..." aparecia dos veces identico. Se dejo la primera.
+
+**Convencion nueva:** la sigla FBI deja de usarse en todo el vault. Se dice "los federales" cuando actuan como colectivo, "federal" como adjetivo de cargo o unidad (agente especial supervisor federal, fuerza de tarea federal, redada federal, equipo federal) y "la agencia federal" cuando hace falta nombrarla como institucion. Se barrieron las 81 menciones repartidas en 34 archivos del vault, incluidos bloques CANON DEL AUTOR de [[02_Characters/Chiara_Bellandi]] y [[03_Factions/Fuerza_de_Tarea_Meridian]] — el cambio es de termino, no de contenido canon. `log.md` queda intacto por ser registro historico, asi que las entradas viejas siguen diciendo FBI. En los capitulos escritos no habia ninguna mencion, asi que la prosa no cambio.
+
+**Archivos tocados:** `11_Books/.../01_Un_Hombre_De_Negocios_Intachable.md`, `11_Books/.../02_Demasiado_Listo.md`, renombres de `03_Los_Viejos_Dias.md` a `07_Ambos.md`, `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `INDEX.md`, `12_Craft_Policies/milestones/INDEX.md`, `02_Characters/Dario_Valcora.md`, `02_Characters/Matteo_Bellacorte.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/DECISIONS.md`, `log.md`, y los 34 archivos de la barrida FBI a federales (`00_Biblia/`, `01_Timeline/`, `02_Characters/`, `03_Factions/`, `05_Locations/`, `06_Relationships/`, `12_Craft_Policies/`, `INDEX.md`).
+
+---
+
+## [2026-08-26] edit | Pasada de correccion sobre el Capitulo 3, mas regla de oficio nueva
+
+Cinco observaciones de lectura sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias]] (4,940 palabras).
+
+**1. Beat de reaccion a Harper.** La escena de la cafeteria de carretera cerraba en "Cole asintio una vez... se acordo del nombre" y saltaba al corte. Ahora Cole se queda con dos cosas concretas: que Harper solto su lectura del asesinato delante de tres desconocidos sin revisar despues las caras ("la gente que acierta por accidente revisa las caras"), y que la camioneta enlodada de atras sigue con el remolque vacio y los postes de cerca sin subir — o sea que trabaja ese camino de tierra entre turno y turno. La siembra deja de ser cameo.
+
+**2. Lecturas diferenciadas del asesinato de Keene.** Cole y Chiara llegaban a la misma conclusion ("la ciudad no esta consternada, esta recibiendo un mensaje") con pocas paginas de distancia, y Harper decia lo mismo una tercera vez. Ahora cada quien lo lee desde su oficio:
+
+- **Cole, territorio.** Un jefe de policia es un mapa; alguien lo borro antes del amanecer y cada cuadra tiene que averiguar otra vez quien decide que patrulla pasa lento. En el Distrito Marino ese calculo se hace en una junta con carpetas; en la Almendra se hace en la calle y lo paga el mismo tipo de gente.
+- **Chiara, reputacion y calendario.** No le interesa quien disparo: le interesa que cada nota sobre el Monarch va a llevar esa fotografia pegada detras, y que los invitados de fuera no van a cancelar por miedo sino porque cancelar los hace verse prudentes. "Un comunicado escrito en otro alfabeto, publicado encima del suyo."
+- **Harper** queda como la unica que lo nombra como mensaje puro. Esa linea ahora es suya y es exactamente lo que hace que Cole se acuerde de ella.
+
+**3. Apertura telefonica comprimida.** El regateo "Dame veinte / Te doy quince" diluia el peso del titular. Queda solo la resistencia de Hector: "Te dije que pasaba por ti" / "Y yo te escuche", y cuelga.
+
+**4. Poda de remates, continuacion de la pasada del Capitulo 1.** Se absorbieron cuatro ("No por prueba. Por temperatura", "No era simpatia. Era archivo", "No era retirada. No era obediencia. Era administracion de dano", y el trio de la imitacion barata) mas el "Eso le gusto" del centro. Sobreviven los que pesan: "No todas. Una", "No duro mucho. Pero alcanzo" (Walt sonriendo por primera vez), el gesto del anillo, "Walt no se disculpo. Hector no se lo pidio", "El nombre cambio el aire del porche", "No el principal" y "El espresso se enfrio".
+
+**5. Regla de oficio nueva:** [[12_Craft_Policies/staging_rules/03-presentacion-por-catalogo-en-vez-de-gesto]]. El anular izquierdo de Chiara —la yema del pulgar sobre la piel donde ya no hay anillo, y el fastidio de haberlo hecho delante de Tommaso— funciono mucho mejor que el retrato de vestuario que tenia en el Capitulo 1. Queda fijado como recurso por defecto para entradas de personaje y revelaciones de pasado, con las cuatro condiciones del gesto util (involuntario, fisico y pequeno, legible sin nota al pie, costoso) y la excepcion: el catalogo vale cuando la imagen misma es el instrumento de poder de la escena. Registrada en `12_Craft_Policies/README.md` e `INDEX.md`.
+
+**Archivos tocados:** `11_Books/.../03_Los_Viejos_Dias.md`, `12_Craft_Policies/staging_rules/03-presentacion-por-catalogo-en-vez-de-gesto.md` (nuevo), `12_Craft_Policies/README.md`, `INDEX.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`, `tools/epub-build/output/Seda_y_Polvora.epub`.
+
+---
+
+## [2026-08-26] edit | Pasada de correccion sobre el Capitulo 4, ledger del Peugeot y deriva de numeracion
+
+Cinco observaciones sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/04_La_Primera_Llamada]] (2,422 palabras).
+
+**1. Momento de gracia de Blake.** Pasaba de encantador vanidoso a posesivo sin punto intermedio. Ahora, antes de llegar a la mesa, le adelanta a Chiara que uno de sus amigos le va a preguntar por la mafia y otro va a jurar que estuvo en Sicilia ("estuvo en Cancun"), y cierra burlandose de si mismo: "yo ya gaste mi frase de Roma". Chiara se rie antes de decidir si quiere. Se nombra explicitamente lo que le abre las puertas —cuando no tiene nada que defender, lee bien una habitacion y regala la lectura sin cobrarla— y acierta en las dos predicciones. La bisagra queda en una linea: *"Despues llegaron sus amigos y dejo de ser bueno en eso."* La mano demasiado arriba y el "necesitas relajarte" ahora son caida, no arranque.
+
+**2. Callback de la pulsera.** En la acera, al salir, Chiara se la quita: la tela cede sin resistencia, "que era lo peor que podia decirse de una marca de pertenencia", y la tira al bote de la esquina, donde el logo plateado sigue brillando mas de lo que merece. El "no por fea, por obvia" ahora paga.
+
+**3. Residuo de la deuda.** Se agrego un cierre a la escena de la rampa de carga. La factura se paga el mismo dia y ahi termina el precio; lo que no aparece en ninguna hoja es que un hombre al que esa mesa rechazo contesto al tercer tono, llego en veinte minutos y no pregunto ni una vez por que llamaba ella y no Matteo. *"Y donde Chiara habia crecido, lo que no tiene tarifa se cobra despues, en la moneda que elige quien lo hizo. Lo habia visto funcionar toda la vida en Palermo, siempre del lado de quien cobraba. Era la primera vez que quedaba del otro lado."*
+
+**4. Poda de remates.** Absorbidos los tres del patron: "No era defensa. Era presentacion de propiedad", "Eso era lo que Cole esperaba" y "No era grosera. Era precision". Se conservan los que pesan: "No por fea. Por obvia" (que ahora cobra), "La frase le molesto porque era correcta", "Varga volteo hacia el. Error", "Un coche levantado ya no era amenaza: era tramite", "No le gusto. / Le sirvio" y el cierre "No contesto. / Todavia".
+
+**5. Ironia del Peugeot — se encontro un choque con canon.** [[06_Relationships/Hitos]] ya tiene este beat como canon dentro de **H3, La noche del ladrillo**, en la fiesta de blanco de Gabriella's, con nota del autor que dice que *la ironia dramatica es perfecta y no hay que tocarla*: Blake presume sus habilidades al volante y la infamia del conductor mientras Chiara piensa justamente en el hombre que se les escapa. El Capitulo 4 estaba gastando ese mismo beat antes de tiempo, en La Isla y con la escena completa.
+
+Se adelgazo la mencion del Capitulo 4 a una linea de paso —"un 106 viejo, arreglado como si valiera algo. Nunca le hemos visto la cara al tipo"— que ademas deja instalado el mecanismo del futuro reveal: Blake conoce el coche, no al hombre. La version completa queda reservada para H3.
+
+Se abrio entrada en [[12_Craft_Policies/revelations/Book_01_Seda_y_Polvora]] con siembras, prohibiciones y tres salidas posibles para el pago (nunca / en el corte con Chiara / tarde, como policia despechado). **La eleccion es del autor y queda como PENDIENTE**; hasta entonces no se siembran mas pistas, porque las dos que hay sirven para cualquiera de las tres.
+
+**Deriva de numeracion corregida.** El corte del Capitulo 1 en dos movio referencias en prosa que la barrida de enlaces no toca. Se corrigieron: `Blake_Stanton.md` (lo conoce en el Cap. 3, no el 2), `Walter_Keegan.md` (sale de prision en el Cap. 3), `Raymond_Keene.md` (titular en el Cap. 3), `El_Casino.md` (torneos de poker en el Cap. 3), `Hitos.md` linea 94 (las dos reuniones del Monarch estan en el Cap. 2) y `Cole_y_Chiara.md` linea 417 (la iglesia de Palermo esta en el Cap. 2).
+
+**Archivos tocados:** `11_Books/.../04_La_Primera_Llamada.md`, `12_Craft_Policies/revelations/Book_01_Seda_y_Polvora.md`, `02_Characters/Blake_Stanton.md`, `02_Characters/Walter_Keegan.md`, `02_Characters/Raymond_Keene.md`, `03_Factions/El_Casino.md`, `06_Relationships/Hitos.md`, `06_Relationships/Cole_y_Chiara.md`, `log.md`, `tools/epub-build/output/Seda_y_Polvora.epub`.
+
+---
+
+## [2026-08-26] edit | Pasada de correccion sobre el Capitulo 5, escalera de Tommaso y politica de apertura por residuo
+
+Cinco observaciones sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/05_La_Casa_No_Quiere_Ruido]] (2,342 palabras).
+
+**1. Repeticion exacta en la seccion de las reglas.** "Era verdad. / No toda." seguido de "Tambien era verdad. / No suficiente." era la misma construccion dos veces en el mismo pasaje. La primera se queda intacta. La segunda cambia de forma y de longitud: *"Eso tambien era cierto, y Tommaso lo acepto porque una negacion exacta es mas dificil de discutir que una mentira. Chiara se quedo con la parte que no dijo: que no hacia falta contrato para que ya hubiera cuenta."* Ademas conecta con el residuo del Capitulo 4.
+
+**2. La bisagra, dramatizada.** El parrafo que resumia los tres regalos disfrazados de utilidad era el unico momento contado del capitulo. La lavanderia y el hielo se quedan en resumen; la bisagra sale a escena, porque es la que carga mas: paga el remate del Capitulo 1 ("la puerta de servicio tenia una bisagra que necesitaba grasa; confiaba mas en la bisagra") y ademas cobra el rechazo del Capitulo 2. Cole la deja envuelta en un trapo, sin nota, y resulta que es para la misma puerta de servicio cuya falla senalo en la reunion donde le dijeron que no:
+
+> —Ésa es la puerta que usted mencionó en la reunión.
+> —Sí.
+> —La reunión en la que le dijeron que no.
+> —Ésa.
+> —¿Y aun así trae la bisagra?
+> —La puerta no estuvo en la reunión.
+
+Cierra con Chiara sola, con el trapo vacio en la mano, entendiendo que la pieza se puede justificar en una hoja de mantenimiento sin que a nadie se le mueva una ceja, y que ese es exactamente el problema.
+
+**3. Escalada de Tommaso.** La jugada era identica a la del Capitulo 3 (invocar a Alessio); solo variaba la reaccion de ella. Ahora el segundo escalon trae material nuevo: Valcora le pregunto por Palermo y por como Chiara llego a estar disponible para este trabajo, y Tommaso "le dio *la version*". No dice la verdad. No dice lo que paso. Dice la version, agrega que la repite muy bien y que lleva anos repitiendola, y no acusa de nada. La presion pasa del duelo como propiedad a la version como favor revocable — que es justo la herida que Chiara no puede reparar con una version mejor.
+
+Respeta la restriccion de [[12_Craft_Policies/revelations/SAGA_LEVEL]]: **Tommaso no confirma saber lo que Chiara hizo**, y todo lo que dice es deniable.
+
+Se abrio entrada en [[12_Craft_Policies/revelations/Book_01_Seda_y_Polvora]] con los dos escalones usados, la regla de que ninguno futuro puede volver a ser "menciona a Alessio y ella se incomoda", y los gestos prohibidos. **DISENO marcado y vetable:** que Dario haya preguntado por el pasado de Chiara y que Tommaso sea quien contesta es inferencia del agente, no canon del autor.
+
+**4. Poda de remates, con foco en consecutivos.** Absorbidos cuatro, incluidos los dos apilados del arranque ("Era impecable. / Aburrida. / Enseñable." queda en una linea) y el par "No por frio. Por tener algo que hacer." que chocaba de cerca con "No porque perteneciera. Porque no intentaba convencer al edificio.", que si se conserva. Tambien se reescribio "La frase fue simple. Demasiado simple." Sobreviven los que pesan: "El problema no era pagar / el problema era que el dinero no cerraba la cuenta", "Varga no volvio. / Volvieron otros.", "La frase no sono como lema. Sono como cansancio.", "La frase fue pequena y vulgar. Justo por eso funciono.", "Eso era un problema." y el cierre "Por la rueda".
+
+**5. Apertura por residuo, promovida a politica.** La maniobra de abrir el Capitulo 5 con la factura que resuelve la incomodidad que quedo floja al final del Capitulo 4 se anoto como seccion nueva en [[12_Craft_Policies/Redaccion_De_Capitulos]], con las cuatro preguntas para localizar el residuo (que quedo dicho a medias, que gesto no recibio respuesta, que deuda se nombro una sola vez, que decision se pospuso sin anunciarlo) y cuatro reglas de uso. La mas importante: **el residuo se profundiza, no se explica** — si la apertura suena a resumen del capitulo anterior, esta mal resuelta. Y una advertencia: no usarla con la misma mecanica visible en todos los capitulos, o el lector empieza a predecir la maniobra.
+
+**Archivos tocados:** `11_Books/.../05_La_Casa_No_Quiere_Ruido.md`, `12_Craft_Policies/Redaccion_De_Capitulos.md`, `12_Craft_Policies/revelations/Book_01_Seda_y_Polvora.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`, `tools/epub-build/output/Seda_y_Polvora.epub`.

@@ -28,7 +28,7 @@ Esa lógica es peligrosa porque no es del todo falsa. El Patio sí vuelve más e
 ## Estructura
 
 - [[02_Characters/Garrett_Cross]] — administrador, testaferro principal y filtro de papel.
-- [[02_Characters/Cole_Mercer]] — beneficiario real no escrito; no debe figurar donde el FBI pueda cerrar una línea limpia.
+- [[02_Characters/Cole_Mercer]] — beneficiario real no escrito; no debe figurar donde los federales puedan cerrar una línea limpia.
 - [[02_Characters/Chiara_Bellandi]] — ayuda a que el dinero del casino tenga una versión pública creíble.
 - [[02_Characters/Russell_Whitaker]] — carril político indirecto; no debe quedar pegado a Cross River antes de tiempo.
 
@@ -64,7 +64,7 @@ El texto no necesita explicar mecánicas; necesita mostrar consecuencias: quién
 Esa separación es útil por dos razones:
 
 - emocionalmente, Bellandi Ridge es de Chiara y del apellido que eligió;
-- legalmente, si el FBI conecta los viñedos demasiado pronto con Cross River, pierde fuerza la idea de que Chiara está construyendo algo propio.
+- legalmente, si los federales conectan los viñedos demasiado pronto con Cross River, pierde fuerza la idea de que Chiara está construyendo algo propio.
 
 ---
 

@@ -17,7 +17,7 @@ Victor Reyes no busca a Cole directamente. Desmonta su entorno humano.
 
 Sabe reclutar colaboradores, explotar resentimientos, convertir subordinados, ofrecer salidas y sembrar una duda simple:
 
-> **¿Quién está hablando con el FBI?**
+> **¿Quién está hablando con los federales?**
 
 Eso lo vuelve un adversario delicado para [[02_Characters/Cole_Mercer]], porque Cole construye poder con favores, confianza y deudas vivas. Victor ataca exactamente esa arquitectura.
 

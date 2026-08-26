@@ -97,13 +97,13 @@ Y también vio la otra mitad: que el mundo de su padre fue lo que se llevó a su
 
 De ahí sale entera: Chiara sabe exactamente cuánto cuesta quedarse, y se queda igual. **Eso no es ingenuidad, es su forma de valentía**, y es lo único de ella que no es técnica. El cambio de apellido no fue rechazar al padre: fue quedarse con la parte de la herencia que quería y dejarle la otra a él, con la firma como reproche permanente.
 
-**CANON DEL AUTOR (2026-08-23):** el FBI destruyó la estabilidad final de esa casa en una redada contra Corrado. Corrado murió, y por burocracia de investigación Chiara no pudo verlo ni enterrarlo cuando tenía derecho a hacerlo.
+**CANON DEL AUTOR (2026-08-23):** los federales destruyeron la estabilidad final de esa casa en una redada contra Corrado. Corrado murió, y por burocracia de investigación Chiara no pudo verlo ni enterrarlo cuando tenía derecho a hacerlo.
 
 La culpa de fondo era del [[03_Factions/Il_Consorzio]]: el Consorcio puso las condiciones, los intereses y la trampa. Pero la mano visible fue federal.
 
-> **Para Chiara, el FBI no representa justicia. Representa el día en que una institución le explicó que su duelo era evidencia.**
+> **Para Chiara, los federales no representan justicia. Representa el día en que una institución le explicó que su duelo era evidencia.**
 
-Eso no vuelve inocente a Corrado ni convierte al FBI en villano simple. Vuelve personal cualquier entrada de la [[03_Factions/Fuerza_de_Tarea_Meridian]] a San Aurelio.
+Eso no vuelve inocente a Corrado ni convierte a los federales en villanos simples. Vuelve personal cualquier entrada de la [[03_Factions/Fuerza_de_Tarea_Meridian]] a San Aurelio.
 
 ### Lo que aprendió en esa casa, y lo que ha estado buscando desde entonces
 
@@ -234,7 +234,7 @@ Guardarraíles. Si un borrador la empuja hacia aquí, está mal escrita:
 - **[[02_Characters/Leone_Valenti]]**, *Il Consigliere* — la cara del Consorcio. Cordial de verdad, y por eso mucho peor. **No amenaza: produce consecuencias.** Es ella misma treinta años después, a escala de instituciones.
 - **[[02_Characters/Dario_Valcora]]** — su jefe. Cabeza de la mafia de la ciudad y socio mayoritario del casino. La ve como un activo político reemplazable.
 - [[02_Characters/Nadir_Amrani]] — amigo íntimo de Cole. La relación empieza incómoda: Nadir desconfía de ella y Chiara lo tolera porque sabe que forma parte de la vida de Cole; ninguno de los dos le concede confianza automática al otro.
-- **[[02_Characters/Andrew_Callahan]]** — agente especial supervisor del FBI. Entra cuando la organización de Cole escala a nivel internacional; representa una herida federal anterior aunque quizá no la haya causado personalmente.
+- **[[02_Characters/Andrew_Callahan]]** — agente especial supervisor federal. Entra cuando la organización de Cole escala a nivel internacional; representa una herida federal anterior aunque quizá no la haya causado personalmente.
 - **[[02_Characters/Garrett_Cross]]** — administrador financiero de El Patio. Colabora con ella en el casino para que el dinero tenga una versión pública creíble.
 - **[[02_Characters/Anya_Voronina]]** — contacto rusa de Cole y amor pasado de Afganistán. No es rival simple; es la prueba de que Chiara no fue la primera mujer que conoció a Cole, sino la primera que lo hizo creer.
 - **[[03_Factions/Cross_River_Consolidated]]** — estructura financiera que necesita de su talento para el relato: no basta mover dinero, hay que hacerlo parecer inevitable.

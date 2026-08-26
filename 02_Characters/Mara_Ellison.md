@@ -4,7 +4,7 @@
 
 **Nacionalidad:** estadounidense.  
 **Edad al abrir la novela:** pendiente.  
-**Oficio:** agente especial principal del FBI; Violent Crime / case agent.  
+**Oficio:** agente especial principal federal; Violent Crime / case agent.  
 **Rol:** antagonista personal de Cole dentro de Meridian.  
 **Alias:** pendiente.  
 **Estado:** viva.
@@ -25,7 +25,7 @@ Empieza identificando patrones:
 - cuándo protege a alguien;
 - cuándo una escena parece violencia y en realidad es contención.
 
-Su arco es convertirse en la persona del FBI que conoce a Cole sin conocerlo.
+Su arco es convertirse en la persona de los federales que conoce a Cole sin conocerlo.
 
 ---
 

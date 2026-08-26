@@ -1,10 +1,10 @@
 # Fuerza de Tarea Meridian
 
-*Ficha de Facción — FBI*
+*Ficha de Facción — Federales*
 
-> **CANON DEL AUTOR (2026-08-23):** el FBI tiene pasado directo con Chiara: una redada contra su padre destruyó la estabilidad del hogar donde creció. Corrado murió, y el FBI le negó a Chiara el derecho de verlo o enterrarlo por burocracia de investigación. La culpable real era [[03_Factions/Il_Consorzio]], pero la herida tiene rostro federal.
+> **CANON DEL AUTOR (2026-08-23):** los federales tienen pasado directo con Chiara: una redada contra su padre destruyó la estabilidad del hogar donde creció. Corrado murió, y los federales le negaron a Chiara el derecho de verlo o enterrarlo por burocracia de investigación. La culpable real era [[03_Factions/Il_Consorzio]], pero la herida tiene rostro federal.
 
-**Qué es:** fuerza de tarea del FBI contra crimen organizado, tráfico internacional y redes de lavado.
+**Qué es:** fuerza de tarea federal contra crimen organizado, tráfico internacional y redes de lavado.
 **Territorio:** federal; entra a San Aurelio cuando los negocios de Cole suben de escala internacional.
 **Cabeza:** [[02_Characters/Andrew_Callahan]].
 **Estado al abrir la novela:** no está mirando a Cole todavía; existe como trauma antiguo en la vida de Chiara.
@@ -35,7 +35,7 @@ El problema es que esa misma lógica fue la que destrozó la infancia de Chiara.
 
 ## La herida de Chiara
 
-La redada contra **Corrado Ardizzone** no fue el origen real del daño. El Consorcio ya había puesto las condiciones. Pero el FBI fue la mano visible:
+La redada contra **Corrado Ardizzone** no fue el origen real del daño. El Consorcio ya había puesto las condiciones. Pero los federales fueron la mano visible:
 
 - entró a la casa;
 - rompió la estabilidad de la familia;
@@ -45,7 +45,7 @@ La redada contra **Corrado Ardizzone** no fue el origen real del daño. El Conso
 
 Eso fija una regla emocional:
 
-> **Para Chiara, el FBI no representa justicia. Representa el día en que una institución le explicó que su duelo era evidencia.**
+> **Para Chiara, los federales no representan justicia. Representa el día en que una institución le explicó que su duelo era evidencia.**
 
 Esto no vuelve inocente a Corrado ni absuelve al Consorcio. Vuelve personal cualquier escena federal.
 
@@ -59,7 +59,7 @@ La fuerza funciona mejor como un equipo con fricciones internas, no como un solo
 
 - **[[02_Characters/Andrew_Callahan]]** — agente especial supervisor, Organized Crime / RICO. Comandante de Meridian. Su obsesión inicial es [[02_Characters/Dario_Valcora]], no Cole: *Mercer no importa; Valcora importa.*
 
-### Equipo FBI
+### Equipo federal
 
 - **[[02_Characters/Mara_Ellison]]** — agente especial principal, Violent Crime / case agent. Verdadera antagonista personal de Cole: aprende cómo piensa a partir de escenas, víctimas y patrones.
 - **[[02_Characters/Priya_Nair]]** — intelligence analyst, link analysis / pattern analysis. Descubre asociaciones incómodas antes de que puedan probarse.
@@ -71,8 +71,8 @@ La fuerza funciona mejor como un equipo con fricciones internas, no como un solo
 
 ### Recurrentes Externos
 
-- **[[02_Characters/Nina_Caldwell]]** — Assistant U.S. Attorney. No pertenece al FBI; convierte investigación en cargos, órdenes y juicio.
-- **[[02_Characters/Luis_Ortega]]** — detective local de Homicidios. Conoce la calle antes de que el FBI llegue.
+- **[[02_Characters/Nina_Caldwell]]** — Assistant U.S. Attorney. No pertenece a la agencia; convierte investigación en cargos, órdenes y juicio.
+- **[[02_Characters/Luis_Ortega]]** — detective local de Homicidios. Conoce la calle antes de que lleguen los federales.
 
 > **Regla:** Meridian no debe parecer omnisciente. Cada miembro ve un tipo de verdad y se equivoca fuera de su especialidad.
 
@@ -87,7 +87,7 @@ El punto de activación probable:
 1. La red nacida alrededor de Almendra Towing ya controla movimiento local.
 2. [[02_Characters/Ren_Wei]] consolida suministro por calidad y pureza.
 3. El producto empieza a moverse por rutas que tocan puerto, aeropuerto o contactos internacionales.
-4. Alguna facción local intenta vender el caso al FBI para ganar protección o crédito.
+4. Alguna facción local intenta vender el caso a los federales para ganar protección o crédito.
 
 Cole entiende favores, territorio y gente. Meridian entiende patrones, jurisdicción y paciencia. Es un adversario que no se puede remolcar.
 
@@ -105,7 +105,7 @@ La división interna importa:
 
 ## Relación con [[02_Characters/Chiara_Bellandi]]
 
-Chiara puede manejar prensa, versiones y silencio. Con el FBI eso se vuelve más difícil porque los federales no necesitan convencer a San Aurelio; necesitan convencer a un juez, un fiscal y una cadena de mando.
+Chiara puede manejar prensa, versiones y silencio. Con los federales eso se vuelve más difícil: no necesitan convencer a San Aurelio; necesitan convencer a un juez, un fiscal y una cadena de mando.
 
 Pero el punto más peligroso no es técnico. Es emocional:
 
@@ -119,7 +119,7 @@ Eso puede empujarla a errores que no cometería contra Valcora o el Consorcio.
 
 Tensión por crédito y jurisdicción.
 
-La policía local quiere casos que pueda enseñar. El FBI quiere patrones que pueda cerrar. Si colaboran, se usan. Si se estorban, gana quien controle mejor la prensa; ahí Chiara vuelve a ser peligrosa.
+La policía local quiere casos que pueda enseñar. Los federales quieren patrones que puedan cerrar. Si colaboran, se usan. Si se estorban, gana quien controle mejor la prensa; ahí Chiara vuelve a ser peligrosa.
 
 ---
 
@@ -133,7 +133,7 @@ La policía local quiere casos que pueda enseñar. El FBI quiere patrones que pu
 
 > **PENDIENTE:** qué evento exacto dispara la entrada de Meridian contra Cole.
 
-> **PENDIENTE:** qué prueba cree tener el FBI que en realidad fue plantada o fabricada por el Consorcio.
+> **PENDIENTE:** qué prueba creen tener los federales que en realidad fue plantada o fabricada por el Consorcio.
 
 ---
 

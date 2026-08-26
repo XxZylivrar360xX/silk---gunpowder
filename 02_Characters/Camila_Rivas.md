@@ -89,7 +89,7 @@ Camila mantiene vivo a Cole en [[06_Relationships/Hitos]], H1, pero no le roba e
 - [[02_Characters/Cole_Mercer]] — lo salva en H1; no lo absuelve.
 - [[05_Locations/Hospital_Santa_Aurelia]] — su base oficial y la institución que puede destruirla si descubre demasiado.
 - [[02_Characters/Owen_Kincaid]] — el espejo sucio: otro médico por fuera, pero sin su línea moral.
-- [[03_Factions/Fuerza_de_Tarea_Meridian]] — riesgo futuro si el FBI empieza a mapear médicos que trataron heridas fuera de registro.
+- [[03_Factions/Fuerza_de_Tarea_Meridian]] — riesgo futuro si los federales empiezan a mapear médicos que trataron heridas fuera de registro.
 - [[02_Characters/Sofia_Alvarez]] — posible cruce temático: víctimas que reaparecen vivas donde los expedientes esperaban cadáveres.
 
 ---

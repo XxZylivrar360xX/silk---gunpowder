@@ -58,7 +58,7 @@ Niveles:
 |---|---:|---:|---|---|
 | [[02_Characters/Leone_Valenti]] | B | 60% | II-V | antagonista institucional de Chiara |
 | [[02_Characters/Alessio_Lusardi]] | E | 35% | pasado / revelaciones | matrimonio muerto, culpa y versión |
-| Corrado Ardizzone | E | 35% | pasado / FBI | herida federal y familiar |
+| Corrado Ardizzone | E | 35% | pasado / federales | herida federal y familiar |
 | Marta Bellandi | E | 20% | pasado | apellido, modelo de amor |
 | [[02_Characters/Camila_Rivas]] | B/C | 45% | H1 / preparación | red real de Chiara |
 | [[02_Characters/Mabel_Ortiz]] | C | 35% | I-V | red civil, chismes, información direccionada |
@@ -102,7 +102,7 @@ Niveles:
 | [[02_Characters/Dario_Valcora]] | A/B | 85% | I-IV | antagonista principal de ciudad |
 | [[02_Characters/Warren_Halbrook]] | B | 70% | II-V | verdugo militar de Cole |
 | [[02_Characters/Leone_Valenti]] | B | 60% | II-V | Consorcio / Chiara |
-| [[02_Characters/Andrew_Callahan]] | B | 55% | IV-V | FBI como estructura |
+| [[02_Characters/Andrew_Callahan]] | B | 55% | IV-V | los federales como estructura |
 | [[02_Characters/Mara_Ellison]] | B | 60% | IV-V | antagonista personal investigativa de Cole |
 | [[02_Characters/Elena_Vega]] | B | 65% | I-V | ley vs venganza |
 
@@ -146,7 +146,7 @@ Niveles:
 | [[02_Characters/Claire_Han]] | C | 35% | II-V | fiscal local |
 | [[02_Characters/Blake_Stanton]] | C | 30% | I-III | error de identificación, patrulla/tránsito |
 
-**Comentario sincero:** la policía local debe ser útil, pero no robarle la novela a FBI/Vega. Luis y Noah bastan como pareja de detectives. Gloria entra cuando aparece Valcora. Claire entra cuando hay que probar lo que la policía cree saber.
+**Comentario sincero:** la policía local debe ser útil, pero no robarle la novela a los federales/Vega. Luis y Noah bastan como pareja de detectives. Gloria entra cuando aparece Valcora. Claire entra cuando hay que probar lo que la policía cree saber.
 
 ---
 
@@ -192,7 +192,7 @@ Niveles:
 
 **Activos:** Cole, Chiara, Héctor, Nadir, Silas, Dario en sombra, Michael/Marisol, Blake si ya ronda la vida social de Chiara.
 
-**No introducir todavía:** FBI completo, bandas menores completas, fiscalía, Cross River.
+**No introducir todavía:** equipo federal completo, bandas menores completas, fiscalía, Cross River.
 
 **Función:** establecer dos soledades, deuda, taller, casino y primera ciudad.
 

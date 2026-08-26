@@ -414,6 +414,8 @@ Y la pregunta previa, antes de escribir una línea:
 
 > **PENDIENTE:** confirmar el ritual. *"¿Te llevo?"* es propuesta, no canon.
 
+> **PENDIENTE (2026-08-26):** eco de "quédate detrás de mí". En el Capítulo 2, el recuerdo de infancia de Chiara en la iglesia de Palermo cierra con Corrado prometiéndole "ya lo arreglo yo... quédate detrás de mí" — promesa que él no pudo cumplir (murió en la redada federal antes de poder arreglar nada, y ella ni pudo despedirse; ver el remate ya escrito en el manuscrito). Falta construir un momento posterior del libro, en una situación de riesgo real con los dos presentes y conscientes (no un rescate después del hecho, como H5 o F3, donde Cole la encuentra ya inconsciente), donde Cole se interponga físicamente entre ella y el peligro — con una frase o gesto que funcione como eco directo de la de Corrado. Chiara debe reconocer internamente el eco, y debe pesarle de un modo distinto a como pesó la primera vez: esta promesa sí se sostiene. No forzarlo dentro de F3 ni H5, que ya tienen función propia bien definida ([[06_Relationships/Momentos_de_Fractura]]); buscar un beat nuevo o uno todavía sin diseñar.
+
 ---
 
 Ver también: [[02_Characters/Cole_Mercer]] · [[02_Characters/Chiara_Bellandi]] · [[00_Biblia/Temas]] · [[99_Reference/README]]

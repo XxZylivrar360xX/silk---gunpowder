@@ -18,7 +18,7 @@ Misterios o verdades que cruzan todo *Seda y Polvora* o que no pertenecen a un s
 
 ## Redada federal contra Corrado Ardizzone
 
-- **Que es:** el FBI destruyo la estabilidad final de la casa de Chiara; Corrado murio y el duelo de Chiara fue tratado como evidencia.
+- **Que es:** los federales destruyeron la estabilidad final de la casa de Chiara; Corrado murio y el duelo de Chiara fue tratado como evidencia.
 - **Estado al inicio:** Chiara lo sabe y lo carga; el lector puede conocerlo por filtracion, no exposicion.
 - **Quien ya lo sabe:** Chiara; parte del entorno italiano; probablemente Valenti.
 - **Quien NO debe saberlo/insinuarlo todavia:** agentes federales de Meridian no deben conocer automaticamente el peso emocional si no hay escena/fuente que lo justifique.

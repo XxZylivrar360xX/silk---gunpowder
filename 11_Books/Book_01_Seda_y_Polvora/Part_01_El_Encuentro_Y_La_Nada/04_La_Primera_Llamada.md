@@ -6,7 +6,7 @@ Lugares: The Monarch Casino & Hotel, La Isla, La Almendra.
 Funcion: mostrar el primer favor bajo la mesa, el error funcional de Blake y la incomodidad de Chiara al aceptar ayuda de Cole.
 -->
 
-# Capítulo 3 — La primera llamada
+# Capítulo 4 — La primera llamada
 
 La fiesta de La Isla empezó con una pulsera blanca.
 
@@ -26,13 +26,27 @@ La mujer del auricular sostuvo la pulsera en el aire. Chiara ofreció la muñeca
 
 Adentro, el club olía a hielo, licor derramado, perfume dulce y aire marino empujado por puertas que abrían y cerraban sin ritmo. La música estaba demasiado alta para conversar y demasiado baja para rendirse. Había policías de civil, mujeres con vestidos que sabían posar bajo luz azul, dos hombres del puerto que fingían no mirar hacia el mismo reservado y un grupo de amigos de Blake que lo recibieron como si acabara de entrar con un premio.
 
+Antes de llegar a la mesa, Blake se inclinó hacia ella.
+
+—El de la camisa azul te va a preguntar si conoces a alguien de la mafia. No lo dice en serio; lo dice porque no sabe hablar con nadie que no haya crecido a diez cuadras de aquí. El de atrás va a jurar que estuvo en Sicilia. Estuvo en Cancún.
+
+—¿Y tú?
+
+—Yo ya gasté mi frase de Roma. Me quedé sin material.
+
+Chiara se rió antes de decidir si quería.
+
+Ahí estaba lo que a Blake le abría las puertas: cuando no tenía nada que defender, leía bien una habitación y regalaba la lectura sin cobrarla. Acertó en las dos predicciones antes de que terminaran de sentarse.
+
+Después llegaron sus amigos y dejó de ser bueno en eso.
+
 —La italiana —dijo uno.
 
 Blake lo corrigió tarde.
 
 —Chiara.
 
-No era defensa. Era presentación de propiedad.
+La corrección no fue defensa sino presentación de propiedad.
 
 Chiara sonrió con la medida exacta para no convertir la noche en incidente. Esa era una habilidad vieja: dejar que un hombre creyera que la habitación seguía intacta mientras ella ya había cambiado de puerta.
 
@@ -50,23 +64,15 @@ La noche avanzó con la velocidad de las cosas que no importaban. Blake le prese
 
 Chiara bebió una copa y dejó la segunda sobre una mesa sin tocar.
 
-Blake hablaba mucho cuando tenía público. Más que en la cafetería. Ocupaba espacio con los hombros, con la risa, con las historias de patrullas y velocidades. Contó una persecución cerca de Kingsley Field y dijo que algún día iba a atrapar al maldito Peugeot rojo que hacía quedar mal a medio Departamento.
+Blake hablaba mucho cuando tenía público. Más que en la cafetería. Ocupaba espacio con los hombros, con la risa, con las historias de patrullas y velocidades. En algún punto de la noche mencionó un Peugeot rojo que hacía quedar mal a medio Departamento.
+
+—Un 106 viejo, arreglado como si valiera algo. Nunca le hemos visto la cara al tipo.
 
 Chiara no movió la cara.
 
-—¿Peugeot rojo?
+Uno de sus amigos le pidió la historia completa. Blake se acomodó para contarla, y ella entendió que iba a durar.
 
-—Un 106 viejo, arreglado como si valiera algo. El tipo maneja como loco.
-
-—Quizá maneja bien.
-
-Blake sonrió.
-
-—Eso dicen los que todavía no lo alcanzamos.
-
-Un amigo de Blake se rió demasiado fuerte.
-
-Chiara miró hacia la salida. No porque quisiera irse todavía. Porque siempre ubicaba la salida antes de necesitarla.
+Miró hacia la salida. No porque quisiera irse todavía. Porque siempre ubicaba la salida antes de necesitarla.
 
 El teléfono vibró dentro del bolso.
 
@@ -154,6 +160,8 @@ La sonrisa de Blake se tensó. Chiara vio el cambio y supo que, si se quedaba, l
 
 Salió sola.
 
+En la acera se quitó la pulsera. La tela cedió sin resistencia, que era lo peor que podía decirse de una marca de pertenencia. La dejó en el bote de la esquina, sobre vasos de plástico y colillas, y el logo plateado siguió brillando ahí dentro un rato más de lo que merecía.
+
 El aire de La Isla le pegó en la cara con sal, diésel y música filtrada por muros. Pidió un taxi con una aplicación, pero antes de confirmarlo abrió otro contacto.
 
 No tenía el número de Cole guardado con nombre. Matteo se lo había mandado como quien pasa una herramienta.
@@ -208,7 +216,7 @@ Cole no pidió repetir nada.
 
 Chiara se quedó quieta en la acera.
 
-No era grosería. Era precisión. Él había separado el problema de ella con una limpieza que Blake no habría sabido imitar aunque le dieran instrucciones.
+No era grosería sino precisión: había separado el problema de ella con una limpieza que Blake no habría sabido imitar aunque le dieran instrucciones.
 
 —¿Cuánto cobra?
 
@@ -270,9 +278,7 @@ Cole le mostró una hoja.
 
 —El que va a quitar el coche antes de que su jefe tenga que explicar por qué carga no carga.
 
-El guardia miró la hoja sin leerla.
-
-Eso era lo que Cole esperaba.
+El guardia miró la hoja sin leerla. Eso era lo que Cole esperaba.
 
 Varga se acercó.
 
@@ -415,6 +421,16 @@ Matteo se acercó a Chiara.
 Chiara miró hacia la salida de carga, donde las luces de la grúa se perdían en Terminal Road.
 
 —Entonces mañana sabrá que alguien sí trabajó.
+
+Matteo volvió adentro. Ella se quedó en la rampa un momento más.
+
+La factura iba a llegar completa y enseñable, y ella la iba a pagar el mismo día. Eso era lo cómodo de un precio: se termina.
+
+Lo que no iba a aparecer en ninguna hoja era que un hombre al que esa misma mesa había rechazado contestó al tercer tono, llegó en veinte minutos y no preguntó ni una vez por qué lo llamaba ella y no Matteo. Esa parte no tenía tarifa. Y donde Chiara había crecido, lo que no tiene tarifa se cobra después, en la moneda que elige quien lo hizo.
+
+Lo había visto funcionar toda la vida en Palermo, siempre del lado de quien cobraba.
+
+Era la primera vez que quedaba del otro lado.
 
 ***
 

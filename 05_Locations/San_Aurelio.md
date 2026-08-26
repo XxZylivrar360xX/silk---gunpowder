@@ -98,7 +98,7 @@ Ver [[00_Biblia/Reglas_del_Mundo]] para las reglas completas. Resumen operativo:
 - **La elección municipal vuelve visible la guerra.** Ver [[05_Locations/Estado_de_la_Ciudad]]: Russ Whitaker, los barrios del sur, Valcora y el ascenso de El Patio se cruzan en el mismo tablero.
 - **El centro viejo no se ocupa.** Nadie opera de forma permanente donde se concentran hospitales, Ayuntamiento, juzgados y comisarías. El crimen cruza el centro; no lo habita.
 - **La policía compite consigo misma.** Se negocia con casos, no con efectivo.
-- **El FBI entra cuando la ciudad deja de bastar.** La [[03_Factions/Fuerza_de_Tarea_Meridian]] aparece cuando los negocios de Cole tocan rutas internacionales; no responde a la lógica municipal, y por eso es más difícil de comprar, distraer o narrar.
+- **Los federales entran cuando la ciudad deja de bastar.** La [[03_Factions/Fuerza_de_Tarea_Meridian]] aparece cuando los negocios de Cole tocan rutas internacionales; no responde a la lógica municipal, y por eso es más difícil de comprar, distraer o narrar.
 - **Un solo diario tiene credibilidad real.** Ver [[03_Factions/El_Faro]].
 
 ---

@@ -13,7 +13,7 @@ Pendientes activos para el siguiente relevo.
 7. Fijar la historia completa de La Casa.
 8. Elegir quien filtra o rompe la union invisible.
 9. Decidir contra quien ocurre la operacion imposible de H1.
-10. Disenar la formalizacion. El paso del usted al tu quedo resuelto provisionalmente en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/06_Ambos]], pero se puede mover si el autor prefiere otro umbral.
+10. Disenar la formalizacion. El paso del usted al tu quedo resuelto provisionalmente en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos]], pero se puede mover si el autor prefiere otro umbral.
 
 ## Pendiente Estructural
 

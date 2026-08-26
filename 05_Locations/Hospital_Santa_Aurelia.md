@@ -32,7 +32,7 @@ Pero no todos entran con el mismo riesgo.
 - Un policía entra como presencia habitual.
 - Un periodista puede aparecer en la acera en diez minutos.
 - Un fiscal puede pedir registros.
-- El FBI puede pedir cámaras, llamadas, matrículas y cadena de custodia.
+- Los federales pueden pedir cámaras, llamadas, matrículas y cadena de custodia.
 - Alguien como [[02_Characters/Cole_Mercer]] puede sobrevivir ahí, pero difícilmente puede desaparecer ahí.
 
 **Regla dura:** el Hospital Santa Aurelia no es territorio criminal. Es institución. Nadie lo posee sin pagar un costo político, legal y mediático absurdo.
@@ -120,7 +120,7 @@ Valcora puede entrar no porque el hospital sea suyo, sino porque es donante, emp
 
 El Hospital Santa Aurelia está fuera de opción.
 
-Cole no puede ir porque los hospitales están vigilados por lo que acaba de pasar. La policía local, el FBI o gente de Dario podrían estar esperando exactamente eso: un herido que no pueda explicar su sangre.
+Cole no puede ir porque los hospitales están vigilados por lo que acaba de pasar. La policía local, los federales o gente de Dario podrían estar esperando exactamente eso: un herido que no pueda explicar su sangre.
 
 Por eso Chiara llama a [[02_Characters/Camila_Rivas]].
 
