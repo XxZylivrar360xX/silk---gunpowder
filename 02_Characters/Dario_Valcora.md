@@ -45,7 +45,9 @@ Egocéntrico. Y **misógino disimulado** — lo importante es *disimulado*: jam�
 
 Nada, todavía. Y ése es el punto: cuando lo haga, sabrá **exactamente dónde tocar**, porque conoce a Chiara desde antes que Cole.
 
-> **DISEÑO:** Valcora ya está a medio camino — entendió que hay una aventura. Es el candidato natural a descubrir la unión invisible entera. Y es también el candidato natural a ser quien rechazó a Cole por "demasiado listo" en H2 — lo que convertiría todo el ascenso en la consecuencia de un error suyo.
+> **DISEÑO:** Valcora ya está a medio camino — entendió que hay una aventura. Es el candidato natural a descubrir la unión invisible entera.
+>
+> ~~Y es también el candidato natural a ser quien rechazó a Cole por "demasiado listo" en H2.~~ **DECANONIZADO (2026-08-26):** la prosa ya escrita de H2 lo contradice a propósito — Dario está deliberadamente ausente de esa reunión ("la cabecera estaba vacía... eso, más que una presencia, le dijo a Cole qué clase de hombre faltaba"), y es Tommaso quien dice la frase. Es una elección más fuerte: la ausencia de Dario ya es caracterización. Ver [[06_Relationships/Hitos]], H2 y H2-continuación ("El contador de cartas").
 
 ---
 

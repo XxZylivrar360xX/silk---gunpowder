@@ -130,7 +130,25 @@ Y aquí aparece la simetría más limpia que tiene la pareja:
 
 Esta cadena es también la **fase 1 y 2 del método de expansión** ([[00_Biblia/Reglas_del_Mundo]], regla 2) aplicadas a la primera organización del libro: resuelve un problema que el casino no estaba resolviendo, y se vuelve el primer teléfono al que llaman. La novela abre enseñando la máquina completa a escala pequeña.
 
-> **PENDIENTE:** ¿qué pasa con los socios que dijeron que no? Porque Chiara está contratando por debajo a un hombre que sus jefes rechazaron. Eso es un riesgo real que ella asume por criterio propio, y tiene que cobrarse en algún momento.
+> ~~**PENDIENTE:** ¿qué pasa con los socios que dijeron que no?~~ **RESUELTO (2026-08-26):** ver debajo — "El contador de cartas".
+
+## H2, continuación — El contador de cartas
+
+> **CANON DEL AUTOR (2026-08-26).** Responde directamente al pendiente anterior: qué pasa con los socios que rechazaron a Cole, y qué convierte la cadena de favores en algo formal.
+
+**Una semana después** del rechazo, Cole está de nuevo en el casino resolviendo algo menor cuando detecta a un hombre contando cartas en mesa. **Chiara no encuentra a nadie de seguridad cerca** — el punto ciego real del casino, no uno inventado para la escena. Cole lo saca él mismo: **limpio, sutil, sin escándalo**, pero dejando al hombre con un impacto real, no sólo una advertencia cortés.
+
+**Chiara lo llama "intimidación educada".** Es su manera de nombrar algo que no tiene categoría previa en su vocabulario: fuerza real, aplicada sin ruido y sin necesidad de demostrarla dos veces.
+
+Es esta proactividad — resolver antes de que nadie se lo pida, exactamente el **favor no solicitado** que define su método ([[02_Characters/Cole_Mercer]], "Método") — la que le da a Chiara el criterio para decir que sí a formalizar la relación bajo la mesa.
+
+**Y entonces Cole aclara la garganta y lo pide en voz alta:** más que hacer negocios, quiere ofrecerse a hacerse cargo de los problemas del casino.
+
+> **DISEÑO — por qué el gesto importa:** Cole **casi nunca pide nada explícitamente** ([[02_Characters/Cole_Mercer]], "El puente" — minimiza lo que le cuesta, nunca nombra el precio). Aclarar la garganta antes de ofrecerse en voz alta es la primera vez en el libro que se le nota el esfuerzo de pedir. No es debilidad: es la excepción que confirma cuánto le cuesta normalmente no hacerlo.
+
+**Consecuencia narrativa, y es la respuesta al pendiente:** los socios que lo rechazaron — Tommaso, Fabrizio, Matteo — empiezan a apartarse de las decisiones operativas del casino, dejando la dirección de facto en manos de Chiara. El riesgo que ella asumió por criterio propio no se cobra como pérdida: **se cobra como autoridad ganada.**
+
+> **PENDIENTE, para no perder el hilo:** el "cobro" real y aplazado de este riesgo probablemente no es este momento — es que **Dario Valcora**, dueño mayoritario y ausente por diseño, empieza a interesarse personalmente en ella justo cuando el resto de la mesa se repliega. Ya hay una semilla de esto en capítulos posteriores (Tommaso insinuando que Dario pregunta por su pasado). Vale la pena que quede explícito como el precio diferido, no la escena del contador de cartas misma.
 
 ---
 

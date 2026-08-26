@@ -750,3 +750,19 @@ Y cruzado con H4: aquella vez su respuesta a *"si quieres marcharte"* fue bajars
 > Si la villa es una dirección pública, **la unión invisible cambia de régimen** — y con ella, la arquitectura de seguridad del imperio entero.
 
 **Archivos tocados:** `06_Relationships/Hitos` (H8), `05_Locations/La_Villa` (reescrita), `05_Locations/La_Casa`, `05_Locations/El_Penthouse`, `06_Relationships/Cole_y_Chiara`, `INDEX.md`.
+
+---
+
+## Sesión 2026-08-26 | El contador de cartas, y fichas de los socios del casino
+
+**Recibido del autor:** el detalle de la segunda reunión entre Cole y Chiara, una semana después del rechazo — Cole saca a un contador de cartas cuando Chiara no encuentra seguridad cerca, ella lo llama "intimidación educada", y esa proactividad es lo que le da a Chiara el criterio para aceptar formalizar la relación bajo la mesa. Cole aclara la garganta y hace la propuesta en voz alta. Consecuencia: los socios que lo rechazaron empiezan a apartarse de la dirección operativa, dejándola de facto en manos de Chiara.
+
+**Resuelve el pendiente** que llevaba abierto desde la fundación del vault: qué pasa con los socios que dijeron que no. Instalado como nueva subsección de H2-continuación, "El contador de cartas".
+
+**Pendiente nuevo, importante:** el riesgo que Chiara asumió no debería cobrarse gratis. Candidato: que el precio diferido sea el interés personal de Dario Valcora en ella, justo cuando el resto de la mesa se repliega — ya hay semilla de esto en capítulos posteriores (Tommaso insinuando que Dario pregunta por su pasado).
+
+**Corrección de una nota vieja.** La ficha de Dario tenía una nota de diseño sin usar que lo proponía como quien dice "demasiado listo" en H2. La prosa ya escrita lo contradice a propósito — Dario está deliberadamente ausente de esa reunión, y es Tommaso quien lo dice. Se decanonizó la nota vieja con referencia a por qué la ausencia de Dario es la elección más fuerte.
+
+**Fichas nuevas, a partir de lo ya escrito en prosa (no inventado):** [[02_Characters/Matteo_Bellacorte]], [[02_Characters/Tommaso_Lusardi]], [[02_Characters/Fabrizio_Rinaldi]]. Resuelve el pendiente prioritario de [[03_Factions/El_Casino]] sobre "el socio que abre la puerta". Queda pendiente el grado de autoridad de los tres sobre Chiara y, para Tommaso, el parentesco exacto con [[02_Characters/Alessio_Lusardi]].
+
+**Archivos tocados:** `06_Relationships/Hitos.md`, `02_Characters/Dario_Valcora.md`, `02_Characters/Matteo_Bellacorte.md` (nuevo), `02_Characters/Tommaso_Lusardi.md` (nuevo), `02_Characters/Fabrizio_Rinaldi.md` (nuevo), `03_Factions/El_Casino.md`, `INDEX.md`.
