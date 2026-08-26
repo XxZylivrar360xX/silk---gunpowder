@@ -41,9 +41,9 @@ Consecuencias narrativas que están servidas:
 
 **CANON:** después de la reunión, los socios **rechazan a Cole por ser "demasiado listo"** y no quieren hacer negocios con él. Chiara opina lo contrario, y contrata por debajo lo que sus jefes rechazaron.
 
-**Nombres y fichas (2026-08-26):** [[02_Characters/Matteo_Bellacorte]] (el socio que abre la puerta), [[02_Characters/Tommaso_Lusardi]] (el más frío, el que dice "demasiado listo"), [[02_Characters/Fabrizio_Rinaldi]] (el más cercano a Chiara). Ver [[06_Relationships/Hitos]], H2-continuación ("El contador de cartas"), para el momento en que los tres empiezan a apartarse de la dirección operativa.
+> **PENDIENTE, PRIORITARIO:** el socio que abre la puerta. Nombre y ficha.
 
-> **PENDIENTE:** qué relación tienen con Chiara — familia, empleadores, socios de su padre. Su grado de autoridad sobre ella es el reloj de la primera parte del libro. Ver preguntas abiertas en cada ficha.
+> **PENDIENTE:** los demás socios, y qué relación tienen con Chiara — familia, empleadores, socios de su padre. Su grado de autoridad sobre ella es el reloj de la primera parte del libro.
 
 > **PENDIENTE:** ¿el casino es el negocio verdadero, o es la fachada de otra cosa? Lo segundo es más interesante y encaja con [[00_Biblia/Reglas_del_Mundo]], regla 6.
 

@@ -41,9 +41,6 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[02_Characters/Walter_Keegan]], *Walt* — amigo del padre de Cole; lo conoció de niño. Diez años preso por obra de Silas Crowe, **y sale justo cuando empieza la novela.** *Héctor le enseñó a Cole cómo ser hombre; Walt le enseña quién fue su padre.*
 - [[02_Characters/Hector_Navarro]] — el viejo mentor de Cole, su figura paterna y su mano derecha. **La única persona que lo quiere sin deberle nada.**
 - [[02_Characters/Blake_Stanton]] — policía. Con quien Chiara sale al llegar. Rubio de ojos azules: el hombre equivocado con la cara correcta. No es un rival — es un error de identificación.
-- [[02_Characters/Matteo_Bellacorte]] — socio del casino, el que abre la puerta de toda la novela. Bróker social, el más favorable a Cole de los tres.
-- [[02_Characters/Tommaso_Lusardi]] — socio del casino, el más frío. Comparte apellido con [[02_Characters/Alessio_Lusardi]] — parentesco sin resolver.
-- [[02_Characters/Fabrizio_Rinaldi]] — socio del casino, el único que trata a Chiara como persona y no sólo como activo.
 
 *Con nombre y sin ficha, por decisión del autor:* **Nadir Amrani** (mejor amigo de Cole) · **Daniel "Danny" Hayes** (dueño de **Rocco**, el perro).
 
