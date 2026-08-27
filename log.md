@@ -1669,8 +1669,370 @@ Regla de escritura marcada en la ficha: esto no se dice nunca en voz alta, ni si
 
 **Archivos tocados:** `02_Characters/Dario_Valcora.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
 
+## [2026-08-26] canon | Torneo de poker con Walt y nacimiento del primer Oido
+
+Dos beats nuevos de DISEÑO entregados por el autor en chat, integrados como 12-b y 12-c en [[01_Timeline/01_Primer_Borrador_Beats]] (Fase I).
+
+**1. El torneo de poker y la destileria de Walt.** Se ejecuta el torneo que Chiara propuso en el Capitulo 3. Walt Keegan juega y resulta extraordinario para mentir en la mesa; nace una relacion cordial con Chiara. Ella lo ayuda a comprar una bodega donde monta una destileria; el se vuelve proveedor principal de licor del casino, relacion de negocios estable a cambio. Walt empieza a seguir el metodo de negocios de Cole y se forma una reputacion rapido. Resuelve en parte el PENDIENTE de [[02_Characters/Walter_Keegan]] sobre "a que se dedica al salir" (sigue pendiente su apariencia). Actualizado tambien en [[03_Factions/El_Casino]].
+
+**2. El evento altruista y el primer Oido.** Chiara asiste a un evento de caridad y arma, bajo los ojos de todos y sin que nadie lo note, su primera red deliberada de informantes — distinta de la red civil organica que ya existia (Mabel y el resto no saben que son parte de una red). Conoce a un joven japones al que contrata como gerente de caja del Monarch (administrador de fichas y entrega de premios) por su capacidad para manejar situaciones complicadas y su creatividad; una vez que ya trabaja con ella, se lo propone con sutileza como el primer **"Oido"**: alguien que sabe que registra lo que se oye discretamente en el piso de juego para hacerselo llegar a ella.
+
+**Nombre del personaje:** en el canon de referencia del autor se llamaba Masaru; para mantener distancia de la fuente (ver regla de adaptacion en `CLAUDE.md`), el agente propuso **Kenji Oda** — nombre no confirmado, discutible. Se creo ficha nueva [[02_Characters/Kenji_Oda]] marcada DISEÑO, y se agrego la seccion "Los Oidos" en [[03_Factions/Red_Civil_de_Chiara]] documentando el termino y la distincion con nodos organicos como Mabel.
+
+**Archivos tocados:** `01_Timeline/01_Primer_Borrador_Beats.md`, `02_Characters/Walter_Keegan.md`, `02_Characters/Chiara_Bellandi.md`, `02_Characters/Kenji_Oda.md` (nuevo), `03_Factions/Red_Civil_de_Chiara.md`, `03_Factions/El_Casino.md`, `INDEX.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
 ## [2026-08-26] continuidad | Domingo antes del lunes de Walt
 
 Se corrigio la continuidad temporal del arranque: los Capitulos 1 y 2 quedan explicitamente en domingo; el Capitulo 3 abre en lunes, y la referencia a la reunion de Cole con Keene cambio de "la tarde anterior" a "la manana anterior". La reunion ya estaba narrada con marcas de media manana; el ajuste alinea la etiqueta con la escena y deja clara la transicion hacia la liberacion de Walt.
 
 **Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/DECISIONS.md`, `log.md`.
+
+## [2026-08-26] canon | "Los Oídos" pasa a "Le Orecchie"
+
+Correccion del autor sobre el beat anterior: el nombre "los Oídos" se delataria si algun personaje lo dijera en una conversacion real dentro del libro — es demasiado literal, cualquiera que lo oiga entiende de inmediato que es. Se pidio darle un toque italiano.
+
+Renombrado a **le Orecchie** (italiano, "los oidos"), y cada nodo individual como **un orecchio** (Kenji Oda queda como "el primer orecchio"). La justificacion quedo documentada en [[03_Factions/Red_Civil_de_Chiara]]: dicho en italiano se confunde con el tic ya establecido de Chiara de soltar frases sueltas cuando esta comoda o furiosa (ver [[02_Characters/Chiara_Bellandi]], "Reglas duras del personaje") — nadie sospecha de un italianismo, y la cobertura es exactamente esa.
+
+**Archivos tocados:** `03_Factions/Red_Civil_de_Chiara.md`, `02_Characters/Chiara_Bellandi.md`, `02_Characters/Kenji_Oda.md`, `03_Factions/El_Casino.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `INDEX.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] canon | "Le Orecchie" pasa a "I Sussurri", y se fija el medio: latín en papel
+
+Segunda correccion del autor sobre el mismo beat, en la misma sesion. Dos cambios:
+
+**1. Nombre.** "Le Orecchie" pasa a **i Sussurri** (italiano, "los susurros"). Cada nodo individual es **un sussurro**; Kenji Oda queda como "el primer sussurro". Se mantiene la misma logica de cobertura que ya justificaba el italiano: dicho en voz alta, se confunde con el tic de Chiara de soltar frases sueltas.
+
+**2. El medio.** Queda fijado que la informacion **no viaja hablada: viaja escrita, en latin, en trozos pequenos de papel.** Doble capa de cobertura: el latin no llama la atencion porque nadie espera que signifique nada (encaja ademas con la educacion catolica de Chiara — ver [[02_Characters/Chiara_Bellandi]], "La fe"), y el papel es del tamano de una ficha o una propina, facil de pasar de mano en mano y facil de destruir. Documentado en detalle en [[03_Factions/Red_Civil_de_Chiara]] (nueva subseccion "El medio") y en [[02_Characters/Kenji_Oda]] (nueva subseccion "Como pasa la informacion"): Kenji, en la caja, pasa los papelitos entre fichas y pagos de premios.
+
+**Archivos tocados:** `03_Factions/Red_Civil_de_Chiara.md`, `02_Characters/Chiara_Bellandi.md`, `02_Characters/Kenji_Oda.md`, `03_Factions/El_Casino.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `INDEX.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] canon | Las cartas de Chiara: base de i Sussurri y de un arco reservado con Cole
+
+Canon del autor entregado en chat, tercera vuelta sobre el mismo beat en la misma sesion. El pedido: un ejemplo concreto de como se ve un papelito de i Sussurri, y establecer que el rasgo de fondo es que Chiara es una mujer que escribe cartas para comunicarse — con un arco planeado con Cole sobre esa base, que el agente no debe inventar ni adelantar.
+
+**Nueva seccion "Las cartas" en [[02_Characters/Chiara_Bellandi]], marcada CANON DEL AUTOR:** Chiara escribe cartas para decir lo que de verdad importa. Tres rasgos fijos, siempre juntos: papel propio (nunca del casino ni de nadie mas), aroma a canela y vainilla, y manuscrita — nunca a maquina. Se agrego nota explicita **AUTOR — arco reservado con Cole**: el agente sostiene el rasgo con consistencia cada vez que aparezca una carta suya, sin inventar el contenido del arco.
+
+**Se ancla i Sussurri a este rasgo, no como objeto aparte:** en [[03_Factions/Red_Civil_de_Chiara]], "El medio", queda fijado que los papelitos en latin son **recortes del mismo papel de sus cartas** — mismo aroma, misma letra, distinta lengua. Se agrego un ejemplo fisico completo (formato: rectangulo irregular arrancado a mano, papel color hueso, aroma antes que lectura, letra cursiva apretada) con un texto de muestra en latin — *VULPES SUB MENSA NUMERAT* ("la zorra cuenta bajo la mesa") — marcado explicitamente como solo ilustrativo de formato, no como contenido canon de ninguna escena. Actualizada tambien la seccion de Kenji Oda en su propia ficha para que reciba el papel de manos de Chiara en vez de escribir en un papel generico.
+
+**Archivos tocados:** `02_Characters/Chiara_Bellandi.md`, `03_Factions/Red_Civil_de_Chiara.md`, `02_Characters/Kenji_Oda.md`, `INDEX.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] idea | Disparador narrativo de i Sussurri, con boceto de escena
+
+Pregunta del autor: que le ocurre a Chiara para llegar a la conclusion de que necesita esta red, tambien en prosa.
+
+Se creo [[07_Ideas/Origen_de_i_Sussurri]] (no canon, semilla sin capitulo asignado) con la logica y un boceto de escena completo. Resumen de la logica: la red civil organica es pasiva y le sirve para todo lo que pasa afuera; el primer torneo ocurre **adentro**, en su propio piso, y ahi la gente ya lleva mas tiempo respondiendole a Tommaso que a ella. El disparador es personal, no de negocio: un invitado la reconoce de Palermo y menciona a Alessio; esa frase llega a Tommaso antes que a ella (eco deliberado del patron ya canon del Capitulo 5, "le dio la version"). La humillacion no es el rumor — es la ruta: en su propia casa, alguien hablo primero con Tommaso. En paralelo, ve a Kenji resolver un problema real en la caja sin que nadie mas se entere. Ese contraste (la ruta que la traiciona vs. la que Kenji ya le ofrece sin saberlo) es lo que la decide.
+
+El boceto incluye prosa borrador completa (POV Chiara, mismo tono/tiempo verbal que el manuscrito) y tres PENDIENTE marcados para el autor: si el beat va la misma noche del torneo o se estira, el orden entre contratar a Kenji y el torneo, y si el dialogo de Tommaso pisa demasiado cerca el escalon ya usado en el Capitulo 5.
+
+Enlazado desde [[03_Factions/Red_Civil_de_Chiara]], [[02_Characters/Kenji_Oda]] y el beat 12-c en [[01_Timeline/01_Primer_Borrador_Beats]].
+
+**Archivos tocados:** `07_Ideas/Origen_de_i_Sussurri.md` (nuevo), `03_Factions/Red_Civil_de_Chiara.md`, `02_Characters/Kenji_Oda.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] idea | "El chico del Patio": primer roce entre Cole y Chiara
+
+Propuesta del autor: sembrar el primer semi-momento tenso entre Cole y Chiara, antes de que el conozca el penthouse. Uno de los mensajeros de i Sussurri —un menor de edad— entrega un papel en latin cerca de El Patio y Cole lo intercepta. El pedido incluia el termino "[el roma del patio]" para el hombre del Patio que recibe los papeles; el agente lo interpreto como nombre de trabajo (discutible), sin confirmar a quien corresponde exactamente (candidatos: Hector Navarro o Nadir Amrani).
+
+**Por que le pega tan fuerte a Cole:** no es la informacion — esa se la daria gratis, y ya se la esta dando desde el primer favor sin cobrar. Es usar a un menor como pieza operativa. El agente conecto esto con canon ya existente en [[02_Characters/Cole_Mercer]]: fue comprado de bebe por una red que movia ninos, y lo que le costo la carrera militar fue exponer a Halbrook por mover ninos para vender. El boton no escala con el riesgo real (nadie estuvo en peligro serio) — es absoluto, por eso llega dispuesto a romper el arreglo entero por algo objetivamente menor.
+
+**El anticlimax, tal como lo pidio el autor:** Chiara no discute, entiende la linea apenas se la nombran, se disculpa sin argumentar y da su palabra de que no se repite. Cede antes de que el termine de exigir. Cole se va sin el enojo con el que llego. La pregunta que le queda ("¿por que no estoy mas molesto?") **no se escribe literal en la prosa** — se muestra por conducta, por pedido explicito del autor.
+
+Se creo [[07_Ideas/El_Chico_Del_Patio]] con la logica completa y un boceto de escena en prosa (POV Cole). Se anadio beat 12-d en [[01_Timeline/01_Primer_Borrador_Beats]], nueva seccion en [[02_Characters/Cole_Mercer]] ("El boton que no escala con el riesgo"), nueva seccion en [[02_Characters/Chiara_Bellandi]] ("El primer roce con Cole") y nueva regla dura en [[03_Factions/Red_Civil_de_Chiara]]: i Sussurri deja de reclutar menores a partir de este beat.
+
+**Archivos tocados:** `07_Ideas/El_Chico_Del_Patio.md` (nuevo), `02_Characters/Cole_Mercer.md`, `02_Characters/Chiara_Bellandi.md`, `03_Factions/Red_Civil_de_Chiara.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] canon | Correccion: "Roma del Patio" es Cole, no un tercero — ROMA es AMOR al reves
+
+Correccion del autor sobre el beat anterior. El agente habia interpretado "[el roma del patio]" como un apodo de trabajo para un hombre sin identificar dentro de El Patio que recibia los papeles de i Sussurri (candidatos propuestos: Hector Navarro o Nadir Amrani). Esa lectura era incorrecta.
+
+**El significado real: ROMA es AMOR al reves**, y es la clave privada que Chiara usa para referirse a Cole — nunca escrita, sólo dicha como instruccion de ruta al mensajero ("busca a Roma del Patio"). "Roma del Patio" decodifica como "su amor del Patio". Es cobertura operativa (nadie sospecha de una palabra que sólo es el nombre de una ciudad) y, a la vez, la primera vez que Chiara nombra a Cole como algo parecido a lo que siente, sin que él lo sepa en el momento — Cole no habla italiano ni latin en este punto de la novela, asi que la palabra no le dice nada, sólo le suena rara en su propio territorio.
+
+Se corrigieron todos los archivos tocados en el beat anterior: **nueva seccion "El cifrado dentro del cifrado: Roma"** en [[03_Factions/Red_Civil_de_Chiara]] (marcada CANON DEL AUTOR, con nota **AUTOR — arco reservado** que se suma a la ya existente de "Las cartas" en [[02_Characters/Chiara_Bellandi]] — el agente no resuelve cuando ni como Cole llega a entender el significado); [[02_Characters/Cole_Mercer]] ajustado para reflejar que Cole busca en vano el nombre en su propia gente, sumando una capa de alarma territorial ademas de la del menor; y el boceto de escena en [[07_Ideas/El_Chico_Del_Patio]] reescrito: el chico ahora repite "Roma. Roma del Patio" como contraseña que no entiende, Cole no reconoce el nombre, y la escena cierra con Cole quedandose con la palabra sin resolver, sin preguntarle a Chiara que significa.
+
+**Archivos tocados:** `03_Factions/Red_Civil_de_Chiara.md`, `02_Characters/Cole_Mercer.md`, `02_Characters/Chiara_Bellandi.md`, `07_Ideas/El_Chico_Del_Patio.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] canon | Se fija la frase exacta: "Roma Atrii", y pasa a ir escrita en el papel
+
+Confirmacion del autor sobre el beat anterior. La frase latina exacta de la clave es **ROMA ATRII**: *Roma* (nominativo, la clave = AMOR al reves) mas *atrii*, genitivo latino de *atrium* ("patio/atrio romano") — "la Roma del Atrio". Gramaticalmente correcta, y mejor que la aproximacion hibrida "Roma del Patio" que el agente habia usado antes.
+
+**Cambio de diseño:** la frase pasa de ser puramente hablada a ir tambien **escrita, encabezando el propio papel** junto al mensaje cifrado — Chiara arriesga que sea legible como frase (dos palabras muertas sin la clave) a cambio de una imagen mas fuerte: Cole sostiene el papel con su propio apodo secreto escrito encima y no puede leerlo. El mensajero tambien la lleva memorizada como contraseña hablada, para preguntar por el destinatario si hace falta.
+
+Se corrigio la terminologia en todos los archivos tocados en los dos beats anteriores: [[03_Factions/Red_Civil_de_Chiara]] ("El cifrado dentro del cifrado: Roma"), [[02_Characters/Cole_Mercer]], [[02_Characters/Chiara_Bellandi]], el beat 12-d en [[01_Timeline/01_Primer_Borrador_Beats]], y el boceto de escena completo en [[07_Ideas/El_Chico_Del_Patio]] — el chico ahora dice "Roma Atrii" (mal pronunciado, repitiendo sonidos que no entiende) y Cole ve la frase escrita arriba del mensaje al abrir el papel.
+
+**Archivos tocados:** `03_Factions/Red_Civil_de_Chiara.md`, `02_Characters/Cole_Mercer.md`, `02_Characters/Chiara_Bellandi.md`, `07_Ideas/El_Chico_Del_Patio.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] canon | Ubicacion definitiva del beat, cierre en el casino y fecha del pago
+
+Correccion del autor sobre el beat anterior, dos cambios:
+
+**1. Ubicacion.** El roce con el chico se mueve de "antes de H2-a" a **despues de H2-a** (Capitulo 6, la cena y Rocco) — el autor senalo que asi ya tiene sentido, porque para entonces Cole y Chiara ya estan viendose mas. Renumerado de beat 12-d a **beat 13-b** en [[01_Timeline/01_Primer_Borrador_Beats]], entre H2-a (13) y "La regla rota de ambos" (14). Sigue cayendo antes de H2-b (Capitulo 7, penthouse).
+
+**2. Cierre nuevo, en el casino.** La confrontacion ya no termina en la disculpa. Cole va a buscar a Chiara **al casino** (no vuelve a ser en El Patio), y ahi, despues de que ella se disculpa, el todavia tiene el papel en la mano y pregunta "¿Y esto?". Chiara responde que ya no manda a nadie a buscar a nadie — que de ahora en mas, si tiene que llegarle algo a Cole, **lo trae ella misma**. Eso confirma sin nombrarlo que el es "Roma Atrii". Cuando el pregunta que significa, ella se lo niega explicitamente: **"Eso no te lo voy a decir. Todavia no."** — una promesa aplazada, no un cierre.
+
+**3. Fecha del pago.** El autor confirmo que el significado de "Roma Atrii" se paga mucho despues, **el dia del cumpleanos de Chiara**, que cae **semanas antes de Navidad**. Detalle todavia por ampliar en una conversacion futura — el agente no debe inventar como ni que exactamente se revela ese dia.
+
+Se actualizo el boceto de escena completo en [[07_Ideas/El_Chico_Del_Patio]] con el nuevo cierre en el casino, y se corrigieron las referencias cruzadas en [[03_Factions/Red_Civil_de_Chiara]], [[02_Characters/Cole_Mercer]] y [[02_Characters/Chiara_Bellandi]].
+
+**Archivos tocados:** `01_Timeline/01_Primer_Borrador_Beats.md`, `07_Ideas/El_Chico_Del_Patio.md`, `03_Factions/Red_Civil_de_Chiara.md`, `02_Characters/Cole_Mercer.md`, `02_Characters/Chiara_Bellandi.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] canon | El fusible: el chico devuelve el papel a Kenji, no a Chiara
+
+Correccion del autor sobre el beat anterior, y pregunta resuelta: como sabe Cole que el papel es de Chiara si nadie se lo dice.
+
+**El fusible.** El chico no conoce a Chiara. Sus instrucciones: buscar a "Roma Atrii" y, si no lo encuentra, devolver el papel a un hombre en la caja del Monarch — [[02_Characters/Kenji_Oda]] — nunca a ella. Es diseño de seguridad: si interceptan a un mensajero en cualquier punto de la cadena, lo maximo que puede delatar es a Kenji. Cuando Cole pregunta "¿quien te mando?", el chico responde apuntando a un hombre de la caja del Monarch, no a una mujer — la vieja linea del chico ("una senora, del casino, paga bien y no pregunta") quedo eliminada por delatar demasiado.
+
+**Como sabe Cole que es Chiara, entonces.** No se lo dice nadie en la escena. Lo sabe por la letra cursiva y el aroma a canela y vainilla del papel — su papel de cartas, ya memorizado por Cole sin que el se hubiera dado cuenta ([[02_Characters/Chiara_Bellandi]], "Las cartas"). El autor confirmo que este mecanismo es mas romantico y mas tragico que una revelacion hablada: romantico porque muestra cuanto la tenia ya encima sin saberlo; tragico porque lo primero que reconoce no es a ella, sino el sistema entero que ella armo para que nadie, ni un chico inocente, pudiera delatarla.
+
+Se agrego nueva seccion "El fusible" en [[02_Characters/Kenji_Oda]] documentando el protocolo como regla del sistema (no solo detalle de esta escena), y se reescribio el pasaje correspondiente del boceto en [[07_Ideas/El_Chico_Del_Patio]].
+
+**Archivos tocados:** `07_Ideas/El_Chico_Del_Patio.md`, `02_Characters/Kenji_Oda.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] canon | Nuevo Hito H10 — El infarto de Héctor
+
+Canon del autor entregado en chat, extenso: nuevo hito completo, añadido en [[06_Relationships/Hitos]] como **H10** (IDs en orden de recepción, no cronológico), ubicado en la tabla de orden entre H2-b y H3.
+
+**Los hechos.** Días después de H2-b. Cole y Walt salen de la ciudad a mover un cargamento de hierba que cultivó Nadir para ganancia del barrio. Mientras tanto, Nadir y Danny intentan un robo en un barrio vecino y quedan retenidos por la banda que lo protege — banda sin identificar (PENDIENTE). Héctor sufre un infarto y queda una semana en cama/hospital; la única que lo encuentra es Chiara, que había ido a buscar a Cole y lo halla caído en el portón. Con Cole y Walt fuera de la ciudad y Nadir/Danny retenidos, nadie de los dos círculos habituales puede avisarle — y encima los muchachos del taller que sí sabían se olvidan de contárselo, lo que enfurece a Cole cuando se entera.
+
+**Héctor como catalizador.** Chiara frecuenta a Héctor en el hospital por ser el hombre que Cole más admira, y él, sin que nadie se lo pida, empieza a hablarles por separado de lo que están sintiendo — empujándolos el uno hacia el otro. A ella (que dice que son de mundos distintos) le contesta que los dos entienden el mismo peligro y podrían lograr más juntos que separados. A Cole (que teme arrastrarla a la espiral de violencia de liderar la banda) le contesta que eso es decisión de ella, no de él. El agente marcó como DISEÑO la lectura de que ambas respuestas apuntan a la misma cosa: quitarle a cada uno la excusa particular con la que se estaba frenando.
+
+**La carta y la carrera al casino.** Cole y Walt vuelven por la mañana. Cole ya vive en la casa de sus padres — **recomprada** por él (dato nuevo; por qué había dejado de ser suya queda PENDIENTE) y diseñada por Chiara, ya establecida en [[05_Locations/La_Casa]]. Encuentra en el suelo una carta de ella —membrete propio, canela y vainilla, manuscrita— lamentando lo de Héctor. La reconoce por la letra y el aroma sin que nadie se lo diga: es la segunda vez que ve ese papel, después de la nota de "Roma Atrii" interceptada semanas antes ([[07_Ideas/El_Chico_Del_Patio]]) — el agente marcó esto como el pago narrativo de aquel disparador. Corre con Walt al casino a que ella le explique.
+
+**Cierre — la mano sobre la mano.** Días después, en el hospital: Cole sentado con Héctor, llega Chiara con flores. Los dos entienden, sin decírselo, que Héctor ha estado haciendo de chaperón — restricción explícita del autor: **no se nombra literalmente en la prosa**, se construye por conducta. Chiara le pone la mano en el hombro; Cole pone la mano sobre la de ella. Ahí cierra el capítulo.
+
+Se creó [[07_Ideas/El_Infarto_De_Hector]] con boceto de prosa completo (la carta, la carrera al casino, fragmentos ilustrativos de los dos diálogos de Héctor, el cierre del hospital) — marcado explícitamente como prosa borrador aunque los hechos ya son canon en Hitos. Se actualizaron [[02_Characters/Hector_Navarro]] (nueva sección "El chaperón"), [[05_Locations/La_Casa]] (recompra), [[02_Characters/Nadir_Amrani]] y [[02_Characters/Daniel_Hayes]] (el robo fallido, respetando el pedido del autor de no profundizar a Danny todavía), [[06_Relationships/Cole_y_Chiara]] (cruce con la pregunta pendiente de la primera intimidad), beat 15-b en [[01_Timeline/01_Primer_Borrador_Beats]], y `INDEX.md`.
+
+**Archivos tocados:** `06_Relationships/Hitos.md`, `02_Characters/Hector_Navarro.md`, `05_Locations/La_Casa.md`, `02_Characters/Nadir_Amrani.md`, `02_Characters/Daniel_Hayes.md`, `06_Relationships/Cole_y_Chiara.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `07_Ideas/El_Infarto_De_Hector.md` (nuevo), `INDEX.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] canon | Por qué Héctor sabe que es chaperón, y edades corregidas de Cole y Chiara
+
+Canon del autor entregado en chat, sobre el Hito H10 recién creado.
+
+**1. Héctor sabe exactamente lo que está haciendo.** Su ex mujer lo abandonó hace muchos años, y siempre se arrepintió de no haber vivido ese amor con todas sus cuatro letras — envejeció enojado y triste con la vida por eso. No quiere que Cole cargue con el mismo arrepentimiento. Resuelve el PENDIENTE que dejó H10 sobre si actuaba a sabiendas o no. **Edad de Héctor: 63.** Actualizado en [[06_Relationships/Hitos]] (H10) y [[02_Characters/Hector_Navarro]] (nueva sección "El chaperón", ahora CANON DEL AUTOR).
+
+El agente notó y dejó marcado un eco probablemente no buscado a propósito: "cuatro letras" es *amor*, la misma palabra que al revés da *Roma*, la clave privada de Chiara para Cole ([[07_Ideas/El_Chico_Del_Patio]]). Héctor no conoce el cifrado, pero empuja a los dos hacia la misma palabra que ella ya lleva escondida en un papel que él nunca va a leer.
+
+**2. Edades corregidas.** El autor confirmó explícitamente (tras pregunta directa del agente, porque los números nuevos no cuadraban con lo ya fijado): **Cole pasa de 31 a 41 años**; **Chiara pasa de 30 a 34** (sus documentos falsos siguen diciendo 27). Cumpleaños confirmados: **Chiara, 23 de noviembre** (ya coincide con "semanas antes de Navidad", dato de la sesión anterior); Cole, 1 de enero (ya era canon). Actualizado en [[02_Characters/Cole_Mercer]] y [[02_Characters/Chiara_Bellandi]], con nota de la edad anterior para que quede rastro del cambio. Se reemplazó "semanas antes de Navidad" por la fecha exacta en todos los archivos que ya mencionaban el cumpleaños de Chiara: [[02_Characters/Chiara_Bellandi]], [[03_Factions/Red_Civil_de_Chiara]], [[01_Timeline/01_Primer_Borrador_Beats]] y [[07_Ideas/El_Chico_Del_Patio]].
+
+**Archivos tocados:** `06_Relationships/Hitos.md`, `02_Characters/Hector_Navarro.md`, `02_Characters/Cole_Mercer.md`, `02_Characters/Chiara_Bellandi.md`, `03_Factions/Red_Civil_de_Chiara.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `07_Ideas/El_Chico_Del_Patio.md`, `07_Ideas/El_Infarto_De_Hector.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] canon | Nuevo Hito H11 — El mirador (la primera vez), y banda para el robo de H10
+
+Canon del autor entregado en chat. Primero, una lectura equivocada del agente: al describir el trasfondo familiar roto en la escena del mirador, el agente lo interpretó como los padres de Chiara y señaló una contradicción grave con su canon ya fijado. El autor aclaró: era sobre **Dale y Ruth Mercer**, los padres de Cole. Sin contradicción real — al contrario, encaja y profundiza canon ya existente (la ludopatía de Dale, los golpes, el arresto).
+
+**Nuevo Hito H11 — El mirador**, añadido en [[06_Relationships/Hitos]] justo antes de H10 (orden de recepción, no cronológico; en la historia va antes). Es **la primera vez que Cole y Chiara tienen intimidad**. Cuatro movimientos: (1) bolos y una botella de vino; (2) Chiara comenta que driftear es cosa de locos, Cole para el auto, se lo demuestra driftando una bajada entera, la reta, le enseña, ella lo logra al tercer intento y casi se besan pero solo se sonríen — el agente marcó esto como evolución de la regla dura de H2-b ("la única noche en que Cole no puede conducir": ahí no tenía opción, aquí elige soltar el volante); (3) el mirador — el único lugar de la ciudad donde se ven las estrellas (nueva ficha [[05_Locations/El_Mirador]]), donde Chiara comparte un recuerdo de Corrado sobre constelaciones y **Cole rompe, por primera y única vez en el libro, la regla de no hablar nunca de Dale y Ruth**: le cuenta que Dale nunca fue padre amoroso pero le enseñó a sobrevivir en la calle, que Ruth sí lo fue hasta perderse persiguiendo el juego de Dale, y que su único recuerdo de los dos juntos es el arresto de Dale con Ruth arrastrándose humillada detrás — Chiara lo registra para el futuro; (4) el penthouse — suben sin preguntar, ya es hábito silencioso, se besan por primera vez, ella lo lleva a su cuarto, cierra con las siluetas vistas desde fuera de la ventana.
+
+Actualizado [[02_Characters/Cole_Mercer]] con el recuerdo del arresto como CANON DEL AUTOR, y la vieja restricción de diseño "nunca habla de esto" marcada como rota exactamente una vez, aquí — la regla se mantiene intacta con todos los demás. Resuelto también el PENDIENTE de la primera intimidad en [[06_Relationships/Cole_y_Chiara]] y en el propio H10 (que ya la presuponía: "llevan una o dos noches juntos"). Boceto de prosa completo en [[07_Ideas/El_Mirador]]. Nuevo beat 15-a en [[01_Timeline/01_Primer_Borrador_Beats]].
+
+**Banda para el robo de Nadir y Danny en H10:** [[03_Factions/La_Ronda_del_Canal]] (Irene Salcedo) — intentaban robar una tienda en su territorio de bodegas/mercado nocturno, encaje literal con su giro. Actualizado [[02_Characters/Nadir_Amrani]], [[02_Characters/Daniel_Hayes]], nueva sección en [[03_Factions/La_Ronda_del_Canal]], y resuelto el PENDIENTE correspondiente en H10.
+
+**Archivos tocados:** `06_Relationships/Hitos.md`, `02_Characters/Cole_Mercer.md`, `06_Relationships/Cole_y_Chiara.md`, `05_Locations/El_Mirador.md` (nuevo), `07_Ideas/El_Mirador.md` (nuevo), `01_Timeline/01_Primer_Borrador_Beats.md`, `03_Factions/La_Ronda_del_Canal.md`, `02_Characters/Nadir_Amrani.md`, `02_Characters/Daniel_Hayes.md`, `07_Ideas/El_Infarto_De_Hector.md`, `INDEX.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] canon | Tono de Nadir: desconfianza de amigo protector, no celos románticos
+
+Corrección del autor sobre la caracterización de Nadir, de cara a los próximos capítulos.
+
+**En el barrio, Nadir es querido y respetado por ser honesto, leal y protector de todos en la Almendra** — reputación ganada, no heredada. Su desconfianza hacia Chiara **empieza antes de conocerla**, sin haberse cruzado con ella siquiera: juzga primero, y ése es el punto de la relación, no un defecto de escritura. Cole intenta convencerlo de que ella no es ni importante ni descartable; Nadir no lo acepta.
+
+**Restricción explícita de tono:** esto no debe leerse nunca como celos románticos. El agente lo ató a una regla ya existente en [[06_Relationships/Cole_y_Chiara]] (regla 4: "no hay celos románticos... si hay celos, son de competencia") — aplicada aquí a la amistad: Nadir no compite por Cole, teme perderlo o verlo lastimado.
+
+Nueva sección "Chiara — la desconfianza que no es celos" y nueva regla dura en [[02_Characters/Nadir_Amrani]]. Línea cruzada actualizada en [[02_Characters/Chiara_Bellandi]].
+
+**Archivos tocados:** `02_Characters/Nadir_Amrani.md`, `02_Characters/Chiara_Bellandi.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] plan | Orden de capítulos 8-12 confirmado por el autor
+
+El autor confirmó armar en bloque, después del Capítulo 7 ya escrito, todo el material atrasado que en el macro-timeline caía antes (beats 12, 12-b, 12-c, 13-b, 15-a, 15-b) — evita renumerar los capítulos 1-7 ya montados.
+
+**Orden:** Cap. 8 (Mabel/red civil + torneo de poker con Walt) · Cap. 9 (nace i Sussurri con Kenji Oda + el chico del Patio/Roma Atrii) · Cap. 10 (H11, el mirador — primera intimidad) · Cap. 11-12 (H10, el infarto de Héctor, partido en dos por volumen de material: viaje de la hierba/robo, y el hospital).
+
+Se anotó el capítulo asignado directamente en cada beat de [[01_Timeline/01_Primer_Borrador_Beats]], y se agregó la sección "Capítulos planificados" en [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] con el resumen y los enlaces a los bocetos de prosa ya existentes en `07_Ideas/`. Próximo paso de redacción: Capítulo 8.
+
+**Archivos tocados:** `01_Timeline/01_Primer_Borrador_Beats.md`, `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] write | Capítulo 8 — El farol
+
+Redactado el Capítulo 8 provisional ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/08_El_Farol]]), ejecutando los beats 12 (Mabel/red civil) y 12-b (torneo de poker con Walt Keegan) del [[01_Timeline/01_Primer_Borrador_Beats]].
+
+**Apertura por residuo:** parte del final del Capítulo 7 (la camiseta doblada, lo no dicho) sin resumirlo — Chiara despierta, no la toca, sigue con el día.
+
+**Estructura:** (1) Chiara nota el nombre de Walt Keegan en la lista de invitados del torneo y decide investigarlo por su cuenta antes de preguntarle a Cole; (2) va a La Esquina de Mabel — primer contacto real y con nombre de Chiara con la red civil, siguiendo su ficha de voz (directa, no se llama informante, sirve mientras habla); Mabel le da el trasfondo de Walt sin exagerar nada; (3) esa noche, en el torneo, Chiara observa a Walt jugar con la misma cara ganando y perdiendo, se sientan a hablar, él menciona la bodega que quiere para una destilería, ella le ofrece comprarle el licor cuando la tenga — la compra de la bodega en sí queda sembrada, no dramatizada, para no forzar el capítulo; (4) cierre con la costumbre ya establecida de contarse el día: Cole llega, Chiara le cuenta, se nota el orgullo que no dice en voz alta.
+
+Contra [[12_Craft_Policies/Redaccion_De_Capitulos]]: se usó apertura por residuo, tercera persona cercana pegada a Chiara todo el capítulo (ella paga el costo de la escena), gesto antes que catálogo (la cara de Walt que no cambia, en vez de describirlo de arriba abajo), y ningún dato de trasfondo se explicó en bloque — todo llega filtrado por diálogo o conducta. Se revisaron las fichas de voz de Cole, Chiara y Mabel antes de escribir sus líneas; Walt no tiene ficha de voz propia todavía, se escribió a partir de su ficha de personaje.
+
+Actualizado [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] (Capítulo 8 movido de "planificado" a "en montaje"; "próximo paso" apunta ahora al Capítulo 9) y marcados como ESCRITO los beats 12 y 12-b en el timeline. **Pendiente:** regenerar el EPUB.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/08_El_Farol.md` (nuevo), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] write | Capítulo 9 — Roma Atrii
+
+Redactado el Capítulo 9 provisional ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_Roma_Atrii]]), ejecutando los beats 12-c (nace i Sussurri) y 13-b (el chico del Patio) del [[01_Timeline/01_Primer_Borrador_Beats]], basado en los bocetos ya existentes en `07_Ideas/Origen_de_i_Sussurri.md` y `07_Ideas/El_Chico_Del_Patio.md`.
+
+**Estructura en tres partes, dos POV:** (1) Chiara, POV — el evento altruista donde conoce y contrata a Kenji Oda, antes del torneo del Capítulo 8; (2) Chiara, POV — la misma noche del torneo del Capítulo 8 (thread paralelo, no mostrado ahí): Tommaso le hace saber que ya le contaron "la versión" de su pasado en Palermo, mientras ve a Kenji resolver un conflicto en la caja sin escándalo — el contraste la decide a reclutarlo como su primer sussurro; (3) corte a Cole, POV — semanas después: intercepta al mensajero menor cerca de El Patio, reconoce el papel de Chiara por letra y aroma, la confronta en el casino, ella se disculpa y cierra con la promesa aplazada sobre el significado de "Roma Atrii".
+
+**Corrección de continuidad aplicada durante la redacción:** el beat 13-b llevaba la nota "antes del penthouse" en varios archivos, heredada de cuando el chico del Patio estaba planificado antes del Capítulo 7. Al confirmarse el orden de capítulos (el beat ahora cae en el Capítulo 9, después del Capítulo 7), esa nota quedó desactualizada. Se corrigió en [[01_Timeline/01_Primer_Borrador_Beats]] y en [[07_Ideas/El_Chico_Del_Patio]] — no afectaba el contenido de la escena, sólo su ubicación temporal declarada.
+
+Contra [[12_Craft_Policies/Redaccion_De_Capitulos]]: apertura por residuo desde el cierre del Capítulo 8 (el "aprender a sentarse" a escuchar, llevado un paso más allá); corte de POV justificado por contraste de mundo (Chiara paga el costo emocional de las partes 1-2, Cole el de la parte 3); gesto antes que catálogo (Kenji cubriendo la tarjeta sin que nadie lo note, en vez de describirlo; el olor y la letra del papel en vez de explicar quién lo escribió). Se revisaron las fichas de voz de Cole, Chiara y Tommaso antes de escribir sus líneas; Kenji no tiene ficha de voz propia todavía.
+
+Marcados como ESCRITO los beats 12-c y 13-b en el timeline. Actualizado [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] (Capítulo 9 movido a "en montaje"; "próximo paso" apunta ahora al Capítulo 10). **Pendiente:** regenerar el EPUB.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_Roma_Atrii.md` (nuevo), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `07_Ideas/El_Chico_Del_Patio.md`, `07_Ideas/Origen_de_i_Sussurri.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] write | Capítulo 10 — El mirador
+
+Redactado el Capítulo 10 provisional ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Mirador]]), ejecutando el beat 15-a / [[06_Relationships/Hitos]], H11, basado en el boceto ya existente en `07_Ideas/El_Mirador.md`.
+
+**Apertura por residuo:** el capítulo abre profundizando "Roma Atrii", que el Capítulo 9 dejó sin resolver — Cole distraído por el nombre sin poder nombrar por qué, y es Chiara quien nota la distancia y propone bolos para sacarlo de ahí. La invitación nace directamente del roce del capítulo anterior, no de la nada.
+
+**Estructura:** bolos y vino → el reto del drift en la carretera del norte (Chiara dice que driftear es cosa de locos, Cole se lo demuestra, la reta, casi se besan y sólo se sonríen — marcado como evolución de la regla dura de H2-b, "la única noche en que Cole no puede conducir": ahí no tenía opción, aquí elige soltar el volante) → el mirador, donde Chiara comparte el recuerdo de Corrado sobre constelaciones y Cole rompe, por primera y única vez en el libro, su regla de nunca hablar de Dale y Ruth Mercer (el arresto, Ruth arrastrándose humillada detrás) → vuelta al penthouse, ya suben juntos sin preguntarse — hábito silencioso —, primer beso, primera intimidad. Cierre visual: las siluetas vistas desde fuera de la ventana, luz que se apaga — coherente con cómo el libro trata el sexo en general.
+
+Contra [[12_Craft_Policies/Redaccion_De_Capitulos]]: la confesión de Dale y Ruth no se dramatiza como terapia — Chiara acompaña sentándose, no interviene, y Cole cierra el tema él mismo ("Es una familia rota. La que yo tengo.") sin que nadie lo consuele con diálogo. Se agregó un intercambio breve post-confesión ("Gracias — Por no decírmelo bonito") para que el silencio no cargue solo todo el peso de la escena.
+
+Marcado como ESCRITO el beat 15-a en el timeline. Actualizado [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] (Capítulo 10 movido a "en montaje"; "próximo paso" apunta ahora a los Capítulos 11-12, el infarto de Héctor). **Pendiente:** regenerar el EPUB.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Mirador.md` (nuevo), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `07_Ideas/El_Mirador.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] write | Capítulo 11 — El portón
+
+Redactado el Capítulo 11 provisional ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/11_El_Porton]]), ejecutando la primera mitad del beat 15-b / [[06_Relationships/Hitos]], H10, basado en el boceto de `07_Ideas/El_Infarto_De_Hector.md`. Se dividió H10 en dos capítulos por volumen de material — la segunda mitad (el hospital) queda para el Capítulo 12.
+
+**Apertura por residuo:** la mañana siguiente al cierre íntimo del Capítulo 10 — sin describir la noche, sólo la quietud de después — antes de que el teléfono interrumpa. El contraste entre esa calma y la crisis que sigue es deliberado.
+
+**Estructura, con cortes de POV justificados por contraste de mundo:** despedida de Cole y Chiara → Nadir y Danny, breve (respetando el pedido del autor de no profundizar a Danny todavía), atrapados robando en territorio de La Ronda del Canal → Chiara encontrando a Héctor desmayado en el portón, sola, llamando a la ambulancia → salto de tres días, Cole y Walt volviendo sin saber nada, la carta reconocida al instante (pagando la siembra ya hecha en el Capítulo 9 con "Roma Atrii") → la carrera al casino y la explicación de Chiara, con la furia de Cole sin lugar claro adonde apuntar. Cierra camino al hospital, sin resolver todavía la conversación con Héctor.
+
+Contra [[12_Craft_Policies/Redaccion_De_Capitulos]]: ningún trasfondo se explicó en bloque — el robo de Nadir y Danny se cuenta en escena breve, no resumido; la angustia de Chiara se filtra en conducta (la mano temblando, hablarle en italiano sin decidirlo) en vez de nombrarse.
+
+Marcada la primera mitad del beat 15-b como ESCRITA en el timeline; la segunda queda pendiente. Actualizado [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] (Capítulo 11 en montaje; "próximo paso" apunta al Capítulo 12). **Pendiente:** regenerar el EPUB.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/11_El_Porton.md` (nuevo), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] write | Capítulo 12 — Cuatro letras (cierra el bloque de Capítulos 8-12)
+
+Redactado el Capítulo 12 provisional ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/12_Cuatro_Letras]]), ejecutando la segunda mitad del beat 15-b / [[06_Relationships/Hitos]], H10, basado en el boceto de `07_Ideas/El_Infarto_De_Hector.md`. Con este capítulo se completa todo el bloque confirmado el 2026-08-26 (Capítulos 8-12).
+
+**Estructura:** salto breve a dos días antes (Chiara sola con Héctor: "somos de mundos distintos" / "juntos llegarían más lejos que separados") → presente, Cole y Chiara llegan juntas al hospital, ella les da el cuarto → la conversación de Héctor con Cole: "eso es de ella, no tuyo", y la revelación nueva — Héctor cuenta, por primera vez en el libro, que él mismo dejó ir a una mujer sin decirle "amor" completo mientras todavía servía de algo, y envejeció enojado por eso → cierre wordless: Chiara vuelve con flores, los dos hombres con la misma cara de quien acaba de oír algo que no va a repetir, la mano en el hombro, la mano sobre la mano.
+
+Contra [[12_Craft_Policies/Redaccion_De_Capitulos]]: el chaperonaje de Héctor no se nombra en ningún momento — ni él lo dice, ni Cole ni Chiara lo comentan; se construye enteramente por conducta (la cara de los dos hombres cuando ella entra, el gesto final). La revelación de Héctor tampoco se dramatiza como discurso motivacional: es corta, se corta a sí mismo ("No te estoy pidiendo que sientas lástima"), y Cole no la resuelve con una respuesta grande — sólo "No sé cómo se hace esto."
+
+Resuelto el PENDIENTE viejo de [[02_Characters/Hector_Navarro]] sobre "el momento en que le dice a Cole lo que nadie más puede decirle" — ya no queda abierto. Marcado el beat 15-b completo como ESCRITO en el timeline. Actualizado [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]]: los cuatro bocetos de `07_Ideas/` que venían de sesiones anteriores (Origen_de_i_Sussurri, El_Chico_Del_Patio, El_Mirador, El_Infarto_De_Hector) ya están todos ejecutados en capítulo. "Próximo paso" cambia de "escribir capítulo X" a "auditar Capítulos 8-12" — no hay más material pre-planificado en cola; lo siguiente sin escribir es H3 (beat 18) en adelante. **Pendiente:** regenerar el EPUB; crear ficha de voz de Héctor (no existía y se escribió sin ella).
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/12_Cuatro_Letras.md` (nuevo), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `07_Ideas/El_Infarto_De_Hector.md`, `02_Characters/Hector_Navarro.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] build | EPUB regenerado con los Capítulos 8-12
+
+Corrida `tools/epub-build/build_epub.py` (pandoc 3.10.1). Los 12 capítulos de Part_01_El_Encuentro_Y_La_Nada se incluyeron sin error. Salida: `tools/epub-build/output/Seda_y_Polvora.epub` (2.07 MB).
+
+**Archivos tocados:** `tools/epub-build/output/Seda_y_Polvora.epub`, `tools/epub-build/output/Seda_y_Polvora.manuscript.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-27] edit | Pasada de corrección sobre Capítulos 10-11, a partir de revisión de 5 puntos
+
+El autor trajo una revisión de 5 hallazgos sobre los Capítulos 8-12 recién escritos. Se resolvieron los 5:
+
+**1. Contradicción con las reglas duras de Danny.** Tenerlo activo dentro del robo contradecía su ficha ("testigo, no operativo" y "no debe duplicar a Nadir"). Se eligió la opción más barata (B, del autor): Nadir entra solo a la tienda; Danny se queda en el auto como chofer/vigía y lo atrapan por asociación al salir. No fue necesario tocar [[02_Characters/Daniel_Hayes]] — el fix fue solo de prosa en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/11_El_Porton]].
+
+**2. El golpe como iniciativa propia de Nadir.** Se agregó una línea explícita de que Nadir esperó a que Cole saliera de la ciudad para hacer algo que Cole nunca le habría dejado tocar con dinero de Almendra Towing — conecta directo con "Cole lo mantiene lejos de las finanzas centrales" ya establecido en su ficha. Se agregó también, en la escena del casino, una grieta de confianza nueva y sin resolver: "Nadir nunca le había contado de la tienda. No hacía falta preguntarle por qué."
+
+**3. Cierre de cámara del Capítulo 10.** La acotación *"Corte a la ventana del penthouse..."* era la única vez en el libro que se salía del registro narrativo a dirección de cámara. Se reemplazó por dos frases cortas en prosa: "No hablaron más. Lo demás lo dijo la luz, apagándose..." — mismo efecto de corte discreto, sin salir de la voz establecida.
+
+**4. Ledger de revelaciones.** Se agregó entrada nueva para "Roma Atrii" en [[12_Craft_Policies/revelations/Book_01_Seda_y_Polvora]], con el mismo formato que las demás entradas (qué es, dónde se siembra, quién lo sabe, líneas prohibidas, pago fijado, estado) — el gancho no existía registrado en ningún lado del vault fuera de las fichas de personaje.
+
+**5. Densidad de saltos temporales en el Capítulo 9.** Marcado como nota de vigilancia, no corrección — el capítulo cubre gala, torneo y calle en tres saltos, el mismo patrón de "capítulo resumen" ya corregido en el Capítulo 1 original. Sin acción todavía; si el próximo capítulo también salta mucho tiempo, se revisa el ritmo de la parte media del libro en conjunto.
+
+Se regeneró el EPUB con los cambios de los puntos 1-3.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/11_El_Porton.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Mirador.md`, `12_Craft_Policies/revelations/Book_01_Seda_y_Polvora.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
+
+## [2026-08-27] edit | Reordenamiento: H3 pasa a Capítulo 8, renumeración de Capítulos 8-12 a 9-13, y redacción de "La noche del ladrillo"
+
+El autor cayó en cuenta de un error de orden: H3 ("la noche del ladrillo") tiene que ocurrir *antes* del primer beso, "cuando se están conociendo", justo después de la noche de hierba en el casino (H2-b / Capítulo 7) — no después de todo el bloque de Capítulos 8-12 que se había armado en la sesión anterior.
+
+**Renumeración de archivos.** Se movieron, de atrás hacia adelante para no pisar rutas: `12_Cuatro_Letras.md` → `13_Cuatro_Letras.md`, `11_El_Porton.md` → `12_El_Porton.md`, `10_El_Mirador.md` → `11_El_Mirador.md`, `09_Roma_Atrii.md` → `10_Roma_Atrii.md`, `08_El_Farol.md` → `09_El_Farol.md`, dejando libre el número 8. Se corrigieron los encabezados internos ("# Capítulo N — ...") de los cinco archivos movidos, y se propagó la corrección de nombres de archivo y de números de capítulo citados en texto a: [[01_Timeline/01_Primer_Borrador_Beats]] (beats 12, 12-b, 12-c, 13-b, 15-a, 15-b), [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] (reescrita la sección "Capítulos en montaje" completa), [[02_Characters/Hector_Navarro]], [[07_Ideas/El_Infarto_De_Hector]], [[07_Ideas/El_Mirador]], [[07_Ideas/Origen_de_i_Sussurri]], [[07_Ideas/El_Chico_Del_Patio]] y `98_Agent_Handoff/CURRENT_BRIEF.md`. `log.md` no se tocó — sus entradas anteriores quedan como registro histórico de los números que eran ciertos en su momento.
+
+**Corrección del orden en [[06_Relationships/Hitos]]:** la tabla "Orden en la novela" tenía a H3 después de H11 y H10, lo cual era el mismo error. Se corrigió: H3 ahora en posición 4 (antes de H11 y H10, que bajan a 5 y 6).
+
+**Nuevo Capítulo 8 — "La noche del ladrillo"** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/08_La_Noche_Del_Ladrillo]]), ejecutando H3 completo (a, b, c) tal como está fijado en [[06_Relationships/Hitos]] — **CANON DEL AUTOR con líneas de diálogo canon citadas textualmente**, sin reescribirlas: el mensaje de Chiara a Cole, "Bueno… mis calcetas son blancas", "Vine con unos amigos" / "¿No quieres un ladrillo?" / "Nooo, es demasiado público", "Qué bobo eres", "Te veo después". Tres movimientos: el florero (fiesta de blanco con Blake, el Peugeot, el mensaje sin respuesta), las calcetas blancas (Dario en la entrada — conversación breve inventada por el agente, marcada discutible y resuelta como PENDIENTE de H3 en Hitos —, la llegada de Cole/Nadir/Danny/Héctor mal vestidos), el ladrillo (el pasillo de los baños, el ladrillo de arcilla, la despedida). Cierra con la revelación interna de Chiara (Blake llena el espacio, Cole sólo existe en el que se ganó) sin que ella la diga en voz alta, tal como exige la restricción de escritura del hito.
+
+Contra [[12_Craft_Policies/Redaccion_De_Capitulos]]: se revisaron las fichas de voz de Chiara, Dario y Cole antes de escribir sus líneas (Blake no tiene ficha de voz propia, se escribió desde su caracterización en Hitos: vanidoso, no cruel). Se respetaron las restricciones explícitas del hito: nadie nombra el parecido físico entre Blake y Cole, Cole no compite ni sabe que hay competencia, el ladrillo no se explica.
+
+Se regeneró el EPUB con los 13 capítulos en el orden correcto.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/08_La_Noche_Del_Ladrillo.md` (nuevo), `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Farol.md`, `10_Roma_Atrii.md`, `11_El_Mirador.md`, `12_El_Porton.md`, `13_Cuatro_Letras.md` (renombrados), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `06_Relationships/Hitos.md`, `02_Characters/Hector_Navarro.md`, `07_Ideas/El_Infarto_De_Hector.md`, `07_Ideas/El_Mirador.md`, `07_Ideas/Origen_de_i_Sussurri.md`, `07_Ideas/El_Chico_Del_Patio.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
+
+## [2026-08-27] edit | Auditoría de continuidad, Capítulo 9 (El farol) contra el nuevo orden
+
+Revisión pedida por el autor tras insertar el Capítulo 8 (la noche del ladrillo) delante del que hasta ayer era el primer capítulo del bloque. Se encontraron y corrigieron dos problemas:
+
+**1. Capítulo 9 abría sin ningún eco del Capítulo 8.** La mañana siguiente al ladrillo y a la revelación interna de Chiara (que ya había elegido a Cole sobre Blake) no dejaba ninguna huella en la apertura — el capítulo arrancaba igual que cuando venía justo después del Capítulo 7. Se agregó un residuo de dos líneas al inicio: el ladrillo de arcilla sigue en la repisa de la entrada; Chiara no lo tiró. Pequeño, pero ancla el capítulo al que lo precede y de paso empieza a responder el PENDIENTE de H3 sobre si ella conserva el ladrillo.
+
+**2. Contradicción de tiempo verbal.** En el Capítulo 8, Darío le decía a Chiara "el torneo va bien" — presente, como si ya hubiera corrido al menos una noche. Pero el Capítulo 9 es explícitamente **el primer torneo** (beat 12-b lo llama así, y la escena entera es su noche inaugural). Se corrigió la línea de Darío a "los preparativos del torneo van bien", que no presupone que ya se jugó ninguna mano. Ajustada también la nota correspondiente en [[06_Relationships/Hitos]], "Pendientes de H3".
+
+Se revisó también que no hubiera menciones de Blake ni de "primera vez" duplicadas entre los Capítulos 8-13 — ninguna encontrada; Blake no vuelve a aparecer en el bloque, consistente con que su cierre sigue PENDIENTE. Se regeneró el EPUB.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Farol.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/08_La_Noche_Del_Ladrillo.md`, `06_Relationships/Hitos.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
+
+## [2026-08-27] edit | Auditoría de continuidad, Capítulo 10 (Roma Atrii) contra el nuevo orden
+
+Continuación de la auditoría capítulo por capítulo. El cuerpo del texto no tenía conflictos reales: la gala benéfica (parte 1) es un flashback intencional, independiente de la noche de Gabriella's del Capítulo 8; no hay menciones de "Capítulo 8" en el cuerpo; la escalada de Tommaso ("la versión, esta vez la tuya") no choca con nada nuevo — el riesgo de que se parezca al escalón ya usado en el Capítulo 5 ya estaba señalado desde antes en `07_Ideas/Origen_de_i_Sussurri.md`, no es un problema introducido por el reordenamiento.
+
+**Único fix:** el comentario de metadatos al inicio del archivo (invisible en el EPUB, pandoc lo descarta) todavía decía que la noche del torneo ocurría en el "Capítulo 8" — corregido a Capítulo 9. No se regeneró el EPUB porque el cambio no afecta el contenido visible.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_Roma_Atrii.md`, `log.md`.
+
+## [2026-08-27] edit | Auditoría de continuidad, Capítulo 11 (El mirador) contra el nuevo orden
+
+Continuación de la auditoría. El cuerpo del texto está limpio: la apertura ("Roma Atrii no volvió a aparecer entre ellos...") sigue enganchando correctamente con el cierre del Capítulo 10, el "casi beso" del drift sigue siendo el primero real de la pareja (no hay duplicado con el Capítulo 8, que no tiene ninguno), y la confesión de Dale y Ruth no depende de nada que el reordenamiento haya movido.
+
+**Único fix:** el comentario de metadatos decía "días después del Capítulo 9 (el roce del chico del Patio)" — esa escena ahora vive en el Capítulo 10, no en el 9. Corregido. No se regeneró el EPUB (sin cambio visible).
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/11_El_Mirador.md`, `log.md`.
+
+## [2026-08-27] edit | Auditoría de continuidad, Capítulos 12 (El portón) y 13 (Cuatro letras) contra el nuevo orden
+
+Cierre de la auditoría capítulo por capítulo tras el reordenamiento. Ambos cuerpos de texto están limpios — el portón sigue directo del mirador (mañana siguiente a la primera intimidad), y cuatro letras sigue directo del portón (camino al hospital). Sin conflictos de contenido, fechas ni "primeras veces" duplicadas.
+
+**Fixes de metadatos (comentarios invisibles en el EPUB):** Capítulo 12 decía "días después del Capítulo 10 (el mirador)" y "el hospital se resuelve en el Capítulo 12" — corregido a Capítulo 11 y Capítulo 13 respectivamente. Capítulo 13 decía "continúa directamente del Capítulo 11" — corregido a Capítulo 12.
+
+**Con esto queda cerrada la auditoría de los seis capítulos del bloque (8-13).** Resumen: un fix de contenido real (la línea de Darío sobre el torneo, ya corregida en la pasada del Capítulo 9), un residuo agregado (el ladrillo, Capítulo 9), y cinco correcciones de metadatos/comentarios en los Capítulos 10-13. Ninguna requirió regenerar el EPUB salvo la del Capítulo 9. El EPUB actual ya refleja todo el contenido visible correcto.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/12_El_Porton.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/13_Cuatro_Letras.md`, `log.md`.
+
+## [2026-08-27] write | Capítulo 14 — Sin rastro (beats 16 y 17)
+
+Antes de escribir, se detectó un choque de diseño: [[06_Relationships/Cole_y_Chiara]] (fase 2) y [[06_Relationships/Hitos]] (nota de diseño en H5, "El norte, la cámara y la salida de carga") ya marcaban la operación de H5 —sacar a Chiara del hipódromo con cámaras, rutas y salida de servicio— como **"la primera operación conjunta de verdad"**. Escribir el beat 16 ahora, en el Capítulo 14, la habría convertido en cronológicamente la primera de facto, pisándole el título a H5.
+
+Se preguntó al autor cómo resolverlo. Opción elegida: **el beat 16 es un ensayo menor, no se declara "la primera" en ningún momento de la prosa — H5 conserva el título como escalada del mismo método, cuando lo que protegen deja de ser un negocio y pasa a ser ella.** Se actualizaron las notas de diseño en ambos archivos para dejar la jerarquía explícita antes de escribir, evitando que quede como contradicción para el autor o para futuras sesiones.
+
+**El capítulo** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_Sin_Rastro]]): un huésped del Monarch sale ebrio de madrugada, choca un auto contra una farola y se va. Chiara llama a Cole antes de que se convierta en demanda contra el casino. Él se lleva el auto con la grúa chica (con ayuda de Danny) y lo desarma en el taller; ella no toca las cámaras —eso habría sido el error— sino que construye alrededor de ellas una versión verificable en cada detalle comprobable, sin mentir en nada. Se reparten el problema sin discutir quién hace qué. Ninguno de los dos nombra "fórmula" ni "sociedad". Cierra con una escena corta desde Darío: se entera por Tommaso de que Chiara resolvió el incidente sola, y lo anota — no como amenaza, no como activo — como variación. Ejecuta los beats 16 y 17 completos.
+
+Se regeneró el EPUB con los 14 capítulos.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_Sin_Rastro.md` (nuevo), `06_Relationships/Cole_y_Chiara.md`, `06_Relationships/Hitos.md`, `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
+
+## [2026-08-27] design + refactor | Nuevos Hitos H12 ("El corral") y H13 ("El pañuelo"), segundo reordenamiento de capítulos
+
+El autor entregó canon nuevo: el ataque a Chiara (un golpe cerrando un corral, primera aparición en prosa del Consorzio aunque no se nombra en el momento), la estancia en la Casa Comunitaria de La Almendra, la fricción con Nadir que eso enciende, la recompra y diseño de la casa de los padres de Cole, y la vida doméstica que crece por costumbre. Además, un arco posterior reservado: dos hombres del consiliere interceptan a Chiara saliendo de la iglesia, la acusan de conspirar contra la mesa del Consorzio, ella corrige "Ardizzone" en vez de "Bellandi", le dejan un pañuelo bordado con una "C" y una bala con la advertencia "Pon tu casa en orden, Sra. Ardizzone, o hablaremos de este Mercer tuyo" — semilla del futuro viaje a Palermo.
+
+**Conflicto detectado antes de escribir:** el autor mencionó un momento de tensión con armas entre Cole y Darío en el hospital — eso ya es canon existente de H5 ([[02_Characters/Dario_Valcora]]). Se preguntó al autor para no duplicarlo; confirmó que en H12 Cole investiga por su cuenta sin que Darío se involucre, y que el enfrentamiento con armas se queda reservado para H5. Registrado como nota de continuidad explícita en Hitos.md.
+
+**Conflicto de secuencia:** H12 asume que la casa todavía no está recomprada ni diseñada, pero los Capítulos 9-14 (numeración vieja) ya la daban por hecha. Se preguntó al autor; confirmó insertar H12 antes del Capítulo 9. Esto disparó un segundo reordenamiento: 09→11, 10→12, 11→13, 12→14, 13→15, 14→16 (renombrado de archivos, headers internos, y referencias cruzadas en unos 10 archivos del vault vía sed). Se detectó un bug de sed en patrones de rango tipo "Capítulos 10-11" (sólo el primer número se convertía); corregido a mano en `98_Agent_Handoff/CURRENT_BRIEF.md` y `07_Ideas/El_Infarto_De_Hector.md` tras revisar los diez archivos tocados.
+
+**Páginas de diseño actualizadas:** `06_Relationships/Hitos.md` (tabla de orden en la novela, dos secciones nuevas H12 y H13), `06_Relationships/Cole_y_Chiara.md`, `02_Characters/Chiara_Bellandi.md` (regla "Sra. Bellandi", arco del pañuelo reservado), `02_Characters/Cole_Mercer.md`, `02_Characters/Nadir_Amrani.md`, `05_Locations/La_Casa.md`, `03_Factions/Il_Consorzio.md`, `01_Timeline/01_Primer_Borrador_Beats.md` (beats 17-b y 17-c), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`.
+
+**Pendiente:** redactar los Capítulos 9 y 10 (H12). H13 ("El pañuelo") queda explícitamente reservado — no escribir hasta que el autor lo pida. EPUB sin regenerar todavía (pendiente hasta que existan los Capítulos 9-10).
+
+**Archivos tocados:** todos los listados arriba, más los renombrados `11_El_Farol.md`, `12_Roma_Atrii.md`, `13_El_Mirador.md`, `14_El_Porton.md`, `15_Cuatro_Letras.md`, `16_Sin_Rastro.md`, y `log.md`.
+
+## [2026-08-27] write | Capítulos 9 y 10 — El corral / El loft del soltero (H12 completo)
+
+Redactados los dos capítulos que ejecutan [[06_Relationships/Hitos]], H12 completo, según el diseño ya registrado en la sesión anterior. **Capítulo 9** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Corral]]): abre profundizando el residuo del Capítulo 8 (la certeza no dicha de Chiara sobre Cole); Chiara recibe un golpe por la espalda cerrando el corral en Bellandi Ridge Vineyards, sin forcejeo ni segunda agresión, y no despierta hasta el hospital; Matteo avisa a Cole; Cole investiga por su cuenta (capataz, camino de tierra, barrio) sin encontrar ninguna pista; cierra con el traslado a la Casa Comunitaria de La Almendra, donde Nadir la recibe con cortesía fría — primer asomo de la fricción que se desarrolla en el Capítulo 10.
+
+**Durante la escritura, el autor pidió insertar una escena adicional:** con Chiara todavía inconsciente en el hospital, Cole le toma la mano y dice la línea canon completa: *"Te vas a mejorar, ¿vale? Eres la mujer más fuerte que tengo la dicha de haber conocido, y esto no te va a ganar la partida."* Pausa. *"Chiara."* Es un momento sin testigos — ella no lo oye — y queda como el único lugar del libro, hasta ahora, donde Cole dice algo así en voz alta sin que nadie se lo cobre. Registrado también en [[06_Relationships/Hitos]], H12.
+
+**Capítulo 10** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Loft_Del_Soltero]]): la fricción con Nadir escala hasta una conversación directa en el taller ("esto no es un hotel, khoya"); Cole decide recomprar la casa de sus padres sin dar detalles; la vacía, le pide a Chiara ayuda para "un loft para soltero"; ella la diseña y la paga entera, de cara a los demás como "apoyo del casino"; cierra con el montaje de la vida doméstica que crece por costumbre (libro, manta, cepillo de dientes, café listo por las mañanas) y un beat final desde Nadir, viendo desde el auto que su mejor amigo ya construyó algo que no cabe en ninguna advertencia.
+
+**Fixes de continuidad detectados al escribir, todos de metadatos (comentarios invisibles en el EPUB) salvo donde se indica:**
+- `11_El_Farol.md`, `12_Roma_Atrii.md`, `13_El_Mirador.md`, `14_El_Porton.md`, `15_Cuatro_Letras.md`, `16_Sin_Rastro.md`: sus comentarios de "Ventana temporal" seguían citando los números de capítulo de ANTES del segundo reordenamiento (ej. "días después del Capítulo 10" cuando ese capítulo ahora es el 12). Corregidos todos para citar los números actuales. El de `11_El_Farol.md` además se amplió para dejar explícito que de por medio transcurrió todo el arco de H12.
+- `06_Relationships/Hitos.md`: la nota de apertura de H12 todavía decía "Capítulos 9-14 ya la dan por hecha" (numeración vieja) — corregida a "ESCRITO en los Capítulos 9 y 10... capítulos ya escritos que dan la casa por recomprada (11 en adelante)".
+- `01_Timeline/01_Primer_Borrador_Beats.md`: dos notas de orden de capítulo seguían diciendo que los beats 12/12-b/12-c/13-b/15-a/15-b ocupaban "los Capítulos 9-13" (ahora son 11-15), y que el beat 17-b "implicaba renumerar" los capítulos (la renumeración ya había ocurrido). Ambas corregidas.
+- `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`: entrada de Capítulos 9-10 actualizada de "PENDIENTE DE REDACTAR" a "ESCRITO" con enlaces.
+
+Se regeneró el EPUB (232,271 caracteres, 16 capítulos). Actualizado `98_Agent_Handoff/CURRENT_BRIEF.md` (conteo de capítulos, Cap. 9-10 marcados ESCRITO, siguiente paso apunta al beat 19/Capítulo 17).
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Corral.md` (nuevo), `10_El_Loft_Del_Soltero.md` (nuevo), `11_El_Farol.md`, `12_Roma_Atrii.md`, `13_El_Mirador.md`, `14_El_Porton.md`, `15_Cuatro_Letras.md`, `16_Sin_Rastro.md`, `06_Relationships/Hitos.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.

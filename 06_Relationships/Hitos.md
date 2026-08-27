@@ -12,12 +12,16 @@ Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni
 | 2 | **H2-a** — La primera cena |
 | 3 | **H2-b** — La noche que todo cambió |
 | 4 | **H3** — La noche del ladrillo *(a: el florero · b: las calcetas blancas · c: el ladrillo)* |
-| 5 | **H4** — El día nublado *(la cita del golf; aquí se define la relación)* |
-| 6 | **H9** — La carrera de máscaras *(la primera salida fuera de la zona de confort de Chiara)* |
-| 7 | **H5** — El hipódromo *(arco de la tensión, parte 1)* |
-| 8 | **H6** — El pacto *(arco de la tensión, parte 2)* |
-| 9 | **H7** — El río *(arco de la tensión, parte 3 — el cierre)* |
-| 10 | **H8** — El incendio, la mentira y la villa |
+| 5 | **H12** — El corral *(el ataque, la casa común, la fricción con Nadir, la recompra y el diseño de la casa, la vida doméstica que crece)* |
+| 6 | **H11** — El mirador *(bolos, el drift, las estrellas — la primera vez)* |
+| 7 | **H10** — El infarto de Héctor *(Héctor los empuja al otro; la mano sobre la mano)* |
+| 8 | **H13** — El pañuelo *(el Consorcio la intercepta en la iglesia; posición aproximada — ocurre "en paz", después de que H12 se asiente; fecha exacta pendiente)* |
+| 9 | **H4** — El día nublado *(la cita del golf; aquí se define la relación)* |
+| 10 | **H9** — La carrera de máscaras *(la primera salida fuera de la zona de confort de Chiara)* |
+| 11 | **H5** — El hipódromo *(arco de la tensión, parte 1)* |
+| 12 | **H6** — El pacto *(arco de la tensión, parte 2)* |
+| 13 | **H7** — El río *(arco de la tensión, parte 3 — el cierre)* |
+| 14 | **H8** — El incendio, la mentira y la villa |
 | … | *(formalización, primera Navidad, mudanza — por recibir)* |
 | Clímax | **H1** — El regreso a casa |
 
@@ -400,6 +404,246 @@ La noche en que todo cambia es **la única noche del libro en que no puede condu
 
 ---
 
+# H12 — El corral
+
+> **CANON DEL AUTOR (2026-08-27).** Cae después de H3 (Capítulo 8) y antes de H11 (el mirador). **ESCRITO** en los Capítulos 9 y 10 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Corral]] y [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Loft_Del_Soltero]]), justo antes de los capítulos ya escritos que dan la casa por recomprada y diseñada (11 en adelante). Es la **primera aparición en prosa de Il Consorzio**, aunque no se revela como tal en el momento del ataque — sólo se deduce después, ver [[06_Relationships/Hitos]], H13.
+
+## El ataque
+
+Chiara está montando a caballo — probablemente en [[05_Locations/Bellandi_Ridge_Vineyards]], sus viñedos en el norte; **PENDIENTE** confirmar el lugar exacto. Al cerrar el corral, recibe un golpe. Uno solo. Nada más — no hay forcejeo largo, no hay segunda agresión. No despierta hasta el hospital.
+
+> **Restricción de escritura:** el atacante no se identifica ni se sugiere en la escena. Ni Chiara ni el lector deben saber quién fue. Se deduce después, sin pruebas, en H13.
+
+## Lo que hace Cole mientras ella está inconsciente — CANON DEL AUTOR (2026-08-27)
+
+En el hospital, con el cuarto en silencio y Chiara todavía sin despertar, Cole le toma la mano y le dice, en voz baja: **"Te vas a mejorar, ¿vale? Eres la mujer más fuerte que tengo la dicha de haber conocido, y esto no te va a ganar la partida."** Después de una pausa, sólo: **"Chiara."** Ella no lo oye — es un momento sin testigos, y por eso es el único sitio del libro, hasta ahora, donde Cole dice algo así en voz alta sin que nadie se lo cobre ni se lo confirme. Ejecutado en el Capítulo 9 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Corral]]).
+
+Cole investiga por su cuenta, en paralelo a todo lo demás de este hito. **Ninguna pista llega a nada.** No hay enfrentamiento con Darío ni con nadie — ésa es la escalada reservada para H5, cuando Darío ya tenga motivo real para sospechar de él (ver nota de continuidad más abajo). Aquí Cole se queda con las manos vacías: preguntó, presionó, no encontró nada, y tuvo que aceptarlo sin resolverlo.
+
+> **Nota de continuidad (2026-08-27):** el enfrentamiento a mano armada entre Cole y Darío en el hospital sigue siendo exclusivo de H5 — ver [[02_Characters/Dario_Valcora]], "Lo que ya hizo contra ellos". En H12, Darío todavía no tiene motivo para sospechar nada entre ellos (apenas está en el beat 17, "nota una variación", pura curiosidad profesional). Moverlo aquí habría adelantado una escalada que necesita la base que el resto de H5 construye.
+
+## La casa común
+
+Para su seguridad y recuperación, termina quedándose en [[05_Locations/Casa_Comunitaria_De_La_Almendra]] — el refugio barrial de Cole y su núcleo.
+
+## La fricción con Nadir
+
+Con ella ahí, día tras día, la desconfianza de [[02_Characters/Nadir_Amrani]] — ya establecida como preocupación de amigo leal, no celos románticos, ver su ficha — deja de ser silenciosa. Empiezan los roces. Nadir no necesita decir nada abiertamente hostil: basta con la tensión de dos personas compartiendo un espacio que uno de los dos no quiere compartir.
+
+## La recompra
+
+Es esa fricción, no la nostalgia ni el cálculo, lo que empuja a [[02_Characters/Cole_Mercer]] a recomprar la vieja casa de sus padres — ver [[05_Locations/La_Casa]]. Necesita un lugar propio para Chiara, lejos de la tensión de la casa común. **Esto resuelve el PENDIENTE que tenía [[05_Locations/La_Casa]] sobre por qué había dejado de ser suya y por qué la recompra ahora.**
+
+## El diseño
+
+Cole la vacía entera y le pide ayuda a Chiara para plantear la distribución — quiere montar "un loft para soltero". Ella llama a una empresa de construcción y decoración y escoge ella misma los muebles. **Chiara paga todo** — pero de cara a los demás, la versión es que fueron "apoyo del casino". Sin proponérselo, diseña la primera casa que terminará siendo de los dos. Ver [[05_Locations/La_Casa]].
+
+## La vida doméstica que crece
+
+Por costumbre, no por decisión, Chiara empieza a dejar cosas suyas en el loft: un libro, una manta, un cepillo de dientes, cremas, una almohada, su computadora personal. Nadie lo anuncia ni lo comenta.
+
+Lo que más importa no son los objetos: es la cotidianidad. El lugar deja de ser un espacio compartido y empieza a ser un hogar construido — desayunos, cenas. Cole es un desastre cocinando. Chiara, las mañanas que sale temprano al casino, deja el café listo para cuando él se levante.
+
+> **Restricción de escritura:** nadie nombra que se están mudando juntos. No hay conversación, no hay anuncio — es exactamente el mismo mecanismo que después reaparece con "vamos a casa" en H7. Ver [[06_Relationships/Cole_y_Chiara]], "Cuándo deja de ser suya y pasa a ser de los dos".
+
+## Pendientes
+
+> **PENDIENTE:** ubicación exacta del ataque (¿Bellandi Ridge Vineyards, o un lugar nuevo?) y gravedad médica — cuánto tiempo pasa hospitalizada.
+
+> **PENDIENTE:** cuánto tiempo dura la estancia en la casa común antes de que Cole decida recomprar.
+
+---
+
+Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Cole_Mercer]] · [[02_Characters/Nadir_Amrani]] · [[05_Locations/La_Casa]] · [[05_Locations/Casa_Comunitaria_De_La_Almendra]] · [[06_Relationships/Hitos]], H13
+
+---
+
+# H13 — El pañuelo
+
+> **CANON DEL AUTOR (2026-08-27).** Ocurre después de que H12 se asiente — "cuando todo esté en paz", en palabras del autor. Posición exacta en la línea de tiempo pendiente de afinar; no está escrito todavía. **Arco reservado: planta la idea de un viaje futuro a Palermo, después del cumpleaños de Chiara (23 de noviembre) — el agente no debe adelantar ni inventar contenido de ese viaje.**
+
+## La intercepción
+
+Chiara va a la iglesia. Dos hombres de [[02_Characters/Leone_Valenti]] —*Il Consigliere*— la interceptan y la llevan a una casa neutral, sin nombre, que no es la casa común del barrio.
+
+## El mensaje
+
+Le dan a entender que [[03_Factions/Il_Consorzio]] no está contento con la administración del casino ni con la presencia de "una Lusardi" en San Aurelio.
+
+Ella corrige:
+
+> **— Ardizzone.**
+
+No Lusardi — el apellido de un matrimonio que ya no reclama. No Bellandi tampoco, delante de ellos — con el Consorcio, el apellido que cuenta es el de su padre.
+
+La acusan de estar en San Aurelio "recolectando migajas de poder", de conspirar contra la mesa del Consorcio. Ella lo niega.
+
+> **Es mentira a medias, y el lector tiene que sentir las dos mitades:** lo niega, y en el fondo es cierto. Ver [[03_Factions/Red_Civil_de_Chiara]] e i Sussurri — para entonces ya lleva un tiempo construyendo justo eso.
+
+## El pañuelo
+
+Le dejan un pañuelo grabado con la inicial **"C"** y una bala envuelta adentro, con una frase:
+
+> **— Pon tu casa en orden, Sra. Ardizzone, o hablaremos de este Mercer tuyo.**
+
+Es la primera vez que el Consorcio deja constancia de que sabe de Cole.
+
+## Lo que hace Chiara después
+
+Investiga sin pruebas. Deduce, sin poder confirmarlo, que fue el Consorcio quien la atacó en H12. Esa deducción es lo que le planta la idea — para más adelante, después de su cumpleaños — de viajar a Palermo a investigar por su cuenta.
+
+## Por qué Cole insiste en ir con ella — CANON DEL AUTOR (2026-08-27)
+
+Cole nunca cerró su propia investigación de H12 — quedó sin pistas, sin resolver, guardado. En algún momento posterior a H13, Chiara le muestra el pañuelo y la bala. Es verlos —el objeto físico, no la explicación— lo que hace que Cole **insista en acompañarla a Palermo.** No es curiosidad ni desconfianza en ella: es la misma investigación que él nunca pudo cerrar, encontrando por fin un hilo del que tirar.
+
+> **Arco reservado:** el viaje a Palermo en sí — qué encuentran, qué arriesgan — no se escribe todavía. Sólo queda fijado el gatillo emocional: el pañuelo y la bala son lo que lo decide.
+
+## Pendientes
+
+> **PENDIENTE:** ubicación en la línea de tiempo — después de H12, antes de qué otro hito.
+
+> **PENDIENTE:** todo el contenido del viaje a Palermo — arco reservado, no inventar.
+
+---
+
+Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Leone_Valenti]] · [[03_Factions/Il_Consorzio]] · [[06_Relationships/Hitos]], H12
+
+---
+
+# H11 — El mirador
+
+> **CANON DEL AUTOR (2026-08-26).** La primera vez que Cole y Chiara tienen intimidad. Cae después de H2-b y antes de H10 (para H10 ya "llevan una o dos noches juntos"). Cuatro movimientos: los bolos, el drift, el mirador, el penthouse.
+
+## Los bolos y el vino
+
+Cole y Chiara salen a jugar bolos a la bolera de la playa. Al volver hacia el casino, después de comprar una botella de vino, ella suelta un comentario: que eso de driftear en las curvas es cosa de jóvenes locos.
+
+## El drift
+
+Cole para el auto. Le lanza una mirada de incredulidad fingida, con tono sarcástico — como si le hubiera herido el orgullo.
+
+> **Chiara:** ¿No me digas que tú...
+
+Cole no contesta. Se lo muestra: baja una curva entera driftando, impecable, sin chocar una sola vez. Chiara se agarra —figurativamente— hasta del tapete.
+
+Él la reta: que lo intente ella. Ella dice que no sabría hacerlo.
+
+> **Cole:** No importa. Para eso estoy yo — para enseñarte.
+
+Se lo enseña. Ella lo consigue bien al tercer intento. En algún punto se acercan tanto que casi se besan — y en cambio sólo se sonríen.
+
+> **DISEÑO:** cruza con [[06_Relationships/Hitos]], H2-b, "La única noche en que Cole no conduce" — donde no tenía opción. Aquí **elige** soltar el volante. No es la misma escena repetida: es la evolución de esa regla dura ("conduce él, siempre — es lo único que hace sin calcular") de algo que le pasa a algo que decide.
+
+## El mirador
+
+Al cambiar de asiento, Cole le dice que la va a llevar a un lugar especial — el único de la ciudad donde se pueden ver las estrellas. Suben al [[05_Locations/El_Mirador|mirador]], montaña arriba en el norte, hasta el último punto, donde San Aurelio se ve como una postal estática.
+
+Miran el cielo. Chiara comparte un recuerdo con su padre, sobre constelaciones. Cole le cuenta de los suyos — se sienta en el suelo; ella lo acompaña.
+
+**Le cuenta de Dale y Ruth Mercer.** Que su padre fue ausente y despreocupado, que le enseñó a sobrevivir en la calle pero nunca fue un padre amoroso. Que su madre sí lo fue — hasta que Dale empezó a caer en el juego, y ella se fue perdiendo persiguiéndolo, quedando como la sombra de la madre amorosa que había sido. Por eso Cole detesta las apuestas. Y el único recuerdo que tiene de los dos juntos es el día que arrestaron a Dale — y Ruth arrastrándose detrás de él, humillándose.
+
+Es una decepción sobre lo rota que está la idea de familia que él tiene. **Chiara lo registra** — para ellos, para el futuro.
+
+> **CANON DEL AUTOR — rompe una restricción de diseño anterior:** esto es la primera y única vez que Cole verbaliza en voz alta lo que Dale y Ruth le hicieron. Ver [[02_Characters/Cole_Mercer]], "La casa que no era una casa" — la regla de que nunca se habla de esto se mantiene con todos los demás; se rompe una sola vez, aquí, con ella.
+
+## El penthouse
+
+Bajan al casino después. Ya no preguntan si suben — ni ella "¿quieres subir?" ni él "¿quieres que suba?". Es un hábito aprendido: subir juntos en el elevador. Los dos lo registran con una sonrisa leve, sin comentarlo.
+
+Adentro, con la botella de vino ya en el sofá, las luces ámbar de la sala encendidas, por fin se besan. Chiara toma la iniciativa: se levanta, le toma la mano, lo lleva a su cuarto.
+
+**Cierre:** la luz se apaga, vista desde fuera de la ventana del penthouse. Sólo quedan las dos siluetas recostándose en la cama.
+
+## Restricciones de escritura
+
+- **No se nombra la primera vez como acontecimiento.** Como con el chaperonaje de Héctor en H10, se construye por conducta — el hábito silencioso del elevador, la iniciativa de ella — no por diálogo que lo declare.
+- **La confesión de Dale y Ruth no se dramatiza como terapia.** Cole no busca consuelo ni lo recibe en forma de discurso; Chiara lo acompaña sentándose, no interviniendo.
+- **El cierre es visual, no explícito.** Siluetas y luz que se apaga — coherente con cómo el libro trata el sexo en general.
+
+## Pendientes
+
+> **PENDIENTE:** nombre y ficha completa del mirador — ver [[05_Locations/El_Mirador]], borrador mínimo.
+
+> **PENDIENTE:** el recuerdo específico de Chiara con Corrado sobre constelaciones — contenido exacto reservado para el autor.
+
+---
+
+Ver también: [[02_Characters/Cole_Mercer]] · [[02_Characters/Chiara_Bellandi]] · [[05_Locations/El_Mirador]] · [[05_Locations/El_Penthouse]] · [[06_Relationships/Cole_y_Chiara]]
+
+---
+
+# H10 — El infarto de Héctor
+
+> **CANON DEL AUTOR (2026-08-26).** Ocurre días después de H2-b, con Cole ya viviendo en el loft de sus padres ([[05_Locations/La_Casa]]) — que ya recompró y que Chiara ya diseñó. Cole y Chiara ya son algo: llevan una o dos noches juntos desde [[06_Relationships/Hitos]], H11 (el mirador), pero todavía no conviven.
+
+## Contexto — dos ausencias que se cruzan
+
+Cole y Walt salen de la ciudad a mover un cargamento de hierba que cultivó [[02_Characters/Nadir_Amrani]], pensado como ganancia para el barrio. Vuelven a San Aurelio por la mañana.
+
+Mientras están fuera, [[02_Characters/Nadir_Amrani]] y [[02_Characters/Daniel_Hayes]] intentan robar una tienda dentro del territorio de [[03_Factions/La_Ronda_del_Canal]] y los atrapa la gente de Irene Salcedo — quedan retenidos, indispuestos para avisar a nadie.
+
+Con Cole y Walt fuera de la ciudad y Nadir y Danny retenidos, ninguno de los dos círculos que normalmente le llegarían a Cole puede avisarle. Y los muchachos del taller que sí sabían del infarto **se olvidan de contárselo** — el olvido, no la traición, es lo que enfurece a Cole.
+
+## El infarto
+
+[[02_Characters/Hector_Navarro]] sufre un infarto y queda en cama/hospital una semana. La única que lo encuentra es [[02_Characters/Chiara_Bellandi]] — había ido a buscar a Cole y lo encuentra a él caído en el portón.
+
+## Héctor, el que los empuja al otro
+
+Chiara empieza a frecuentar a Héctor en el hospital — es el hombre que Cole más admira. Y Héctor, sin que nadie se lo pida, se convierte en la persona que empieza a hablarles de lo que están empezando a sentir. **Es él quien los empuja hacia el otro, no al revés.**
+
+**Y sabe exactamente lo que está haciendo.** Su ex mujer lo abandonó hace muchos años, y siempre se arrepintió de no haber vivido ese amor con todas sus cuatro letras — envejeció enojado y triste con la vida por eso. No quiere que Cole cargue con el mismo arrepentimiento.
+
+**A ella:**
+
+> Chiara dice que son de mundos diferentes.
+>
+> Héctor le contesta que los dos entienden el peligro y el mundo en el que se mueven — y que teniendo esa química, esa atracción, **podrían lograr más juntos que separados.**
+
+**A él:**
+
+> Cole le dice que le preocupa arrastrarla a la espiral de violencia hacia la que camina como líder de la banda — que ella no merece estar ahí.
+>
+> Héctor le contesta que **eso es algo que ella debe decidir. No él.**
+
+> **DISEÑO:** las dos respuestas de Héctor son la misma idea aplicada al miedo particular de cada uno — a ella la libera de la vergüenza de clase ("mundos diferentes"); a él lo libera de decidir por ella, que es exactamente su patología (ver [[02_Characters/Cole_Mercer]], "El puente"). **Héctor no les dice que se quieran. Les quita la excusa que cada uno se estaba poniendo para no permitírselo.**
+
+## La carta y la carrera al casino
+
+Cole y Walt llegan a la ciudad por la mañana y van cada uno a su casa. Cole entra a la suya y encuentra, en el suelo, una carta con su membrete, aroma a canela y vainilla y letra manuscrita — de Chiara — lamentando lo de Héctor, deseando que mejore pronto y que pueda volver bien con todos los chicos del barrio, y que va a buscar un momento para llevarle flores al hospital.
+
+Cole, sin saber nada de lo que pasó, le dice a Walt que suba al auto — van a toda prisa al casino, a que Chiara les explique.
+
+> **DISEÑO — por qué Cole ya sabe que es de ella sin que nadie se lo diga:** no es la primera vez que ve ese papel. Ver [[07_Ideas/El_Chico_Del_Patio]] — la nota de "Roma Atrii" que interceptó semanas antes ya le enseñó esa letra y ese aroma. Esta vez no hay nada que descifrar: es una carta abierta, y por eso pega distinto.
+
+Cuando llega la explicación, se entera de que los muchachos se olvidaron de avisarle —lo que lo enfurece— y de que Nadir y Danny estaban retenidos por el robo fallido.
+
+## El hospital — la mano sobre la mano
+
+Cole está sentado con Héctor cuando llega Chiara, con flores. Comparten un momento íntimo en el que los dos entienden, sin decírselo, que Héctor ha estado haciendo de chaperón — **nunca se nombra en la prosa.** Se construye por conducta, no por diálogo.
+
+Chiara se acerca. Cole está sentado. Ella pone la mano en su hombro. **Él pone la mano sobre la de ella.**
+
+Ahí cierra el capítulo.
+
+> **Restricción de escritura:** el gesto final no se explica ni se comenta. Ninguno de los dos dice lo que acaba de pasar. El lector tiene que poder leer el chaperonaje de Héctor sin que ningún personaje lo diga en voz alta — la prueba de que la escena funciona es que se pueda quitar cualquier línea que lo nombrara y que la escena siga entera. Ver [[06_Relationships/Cole_y_Chiara]], "Prueba de autenticidad".
+
+## Pendientes
+
+> **RESUELTO (2026-08-26):** la primera vez que Cole y Chiara tienen intimidad es [[06_Relationships/Hitos]], H11 (el mirador), justo antes de este hito.
+
+> **RESUELTO (2026-08-26):** [[03_Factions/La_Ronda_del_Canal]] retiene a Nadir y Danny. Detalle del robo y su resolución en esa ficha, sección "El robo de Nadir y Danny".
+
+> **RESUELTO EN PARTE (2026-08-26):** Héctor tiene 63 años. **Sigue PENDIENTE** la gravedad médica exacta del infarto y sus secuelas.
+
+> **RESUELTO (2026-08-26):** Héctor sí sabe exactamente lo que está haciendo. Su ex mujer lo abandonó hace muchos años, y siempre se arrepintió de no haber vivido ese amor con todas sus cuatro letras — envejeció enojado y triste con la vida por eso. No quiere que Cole viva lo mismo. Ver [[02_Characters/Hector_Navarro]], "El chaperón".
+
+---
+
+Ver también: [[02_Characters/Hector_Navarro]] · [[02_Characters/Cole_Mercer]] · [[02_Characters/Chiara_Bellandi]] · [[05_Locations/La_Casa]] · [[02_Characters/Nadir_Amrani]] · [[02_Characters/Daniel_Hayes]]
+
+---
+
 # H3 — La noche del ladrillo
 
 > **CANON DEL AUTOR (2026-08-23).** Tres movimientos seguidos, la misma noche, en el antro **Gabriella's**. Es la noche en que Chiara entiende que ya eligió.
@@ -561,7 +805,7 @@ Y la otra mitad:
 
 > **PENDIENTE:** ¿cuándo y cómo termina lo de Blake? Y si él vuelve más adelante — un policía despechado que además conoce a Chiara es una pieza cargada.
 
-> **PENDIENTE:** de qué hablan Chiara y Valcora en la entrada. Es la primera vez que el lector ve al hombre más poderoso de la ciudad, y ella está sola con él.
+> **RESUELTO EN BORRADOR (2026-08-27):** Dario le confirma que los preparativos del torneo de póker van bien (Tommaso se lo dijo "con menos entusiasmo del que le hubiera gustado mostrar") y cierra con su línea de asignar valor: "San Aurelio premia a la gente que entiende su lugar." Breve, sin amenaza directa. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/08_La_Noche_Del_Ladrillo]]. Inferencia del agente, discutible.
 
 > **PENDIENTE:** ¿qué trabajo tienen de madrugada los cuatro? Explica por qué el Peugeot entró a un callejón antes de la fiesta.
 
@@ -854,7 +1098,9 @@ En los **territorios rurales del norte** cuadran bien los detalles de la versió
 
 Y ahí Cole le explica el plan: **volver al casino para dejar en la cámara que ahí la dejó**, y verla después en la **salida de carga subterránea**, para llevarla a un lugar seguro.
 
-> **DISEÑO:** primera operación conjunta de verdad. No es un favor de él ni un contacto de ella: **es los dos construyendo una coartada, con cámaras, rutas y una salida de servicio.** El vault decía que la primera operación conjunta debía ser *pequeña, sucia y espectacularmente bien ejecutada* ([[06_Relationships/Cole_y_Chiara]], fase 2). Es ésta — sólo que lo que están protegiendo no es un negocio.
+> **DISEÑO:** la operación conjunta que se gana el título. No es un favor de él ni un contacto de ella: **es los dos construyendo una coartada, con cámaras, rutas y una salida de servicio.** El vault decía que debía ser *pequeña, sucia y espectacularmente bien ejecutada* ([[06_Relationships/Cole_y_Chiara]], fase 2). Es ésta — sólo que lo que están protegiendo no es un negocio: es ella.
+>
+> **RESUELTO (2026-08-27):** hay un ensayo menor antes, en el beat 16 (Capítulo 14) — un trabajo sucio y chico con el mismo método, sin declararse hito. Cuando el lector llega aquí, ya conoce el método; lo nuevo es lo que está en juego.
 
 ## 9. El barrio
 

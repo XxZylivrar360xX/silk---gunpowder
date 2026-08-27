@@ -312,10 +312,14 @@ Nunca lo domina. Eso es requisito, no defecto: **el italiano machucado de Cole e
 
 **1. Antagonismo útil.** Se caen mal por motivos de clase y se buscan por motivos de trabajo. Se mienten, se leen, y los dos descubren que el otro es la primera persona en años que no se traga nada.
 
-**2. La sociedad.** Antes que pareja son socios, y en el libro eso pasa *primero*. Descubren la fórmula. La primera operación conjunta debe ser pequeña, sucia y espectacularmente bien ejecutada — **es la coartada de las cámaras en [[06_Relationships/Hitos]], H5.**
+**2. La sociedad.** Antes que pareja son socios, y en el libro eso pasa *primero*. Descubren la fórmula. La operación conjunta que se gana el título — pequeña, sucia y espectacularmente bien ejecutada — **es la coartada de las cámaras en [[06_Relationships/Hitos]], H5.**
+
+> **RESUELTO (2026-08-27):** antes de H5 hay un ensayo menor — beat 16, [[01_Timeline/01_Primer_Borrador_Beats]] — donde usan el mismo método (cámaras, horarios y relato de ella; gente, autos y favores de él) para un trabajo sucio y chico, sin que la escena lo declare "la primera" ni lo trate como hito. Cuando llega H5, el lector ya conoce el método — sólo que ahora lo que protegen no es un negocio: es ella.
    - **Y la sociedad se vuelve explícita en H6**, en las cascadas: pactan deshacer la organización de Valcora desde dentro. Es la primera vez que tienen **un objetivo compartido y declarado**, no una cadena de favores.
 
 **3. La pareja.** El romance se consuma cuando ya son imprescindibles el uno para el otro profesionalmente — lo cual es exactamente el problema, porque a partir de ahí ninguno puede saber si está eligiendo a la persona o al socio. Esa duda no se resuelve: se administra.
+   - **RESUELTO (2026-08-26):** la primera vez que tienen intimidad es [[06_Relationships/Hitos]], H11 — el mirador. Bolos, Cole le enseña a driftear, suben al mirador del norte a ver estrellas, él le cuenta de Dale y Ruth (rompiendo, por única vez, la regla de no hablar nunca de eso), y esa noche terminan juntos en el penthouse. Cae justo antes de H10.
+   - **DISEÑO — quien los empuja:** en H10, [[02_Characters/Hector_Navarro]] es quien, desde el hospital, le quita a cada uno la excusa que se estaba poniendo — a ella la vergüenza de clase, a él la costumbre de decidir por ella. Cierra con Chiara poniendo la mano en su hombro y Cole poniendo la mano sobre la de ella. Ver esa entrada para el detalle completo.
 
 **3-bis. La formalización.** El momento en que dejan de ser "esto" y pasan a ser algo con nombre. **Tiene que ser incómodo y gracioso a la vez** — nada de escena solemne. Dos personas que negocian con criminales para vivir, absolutamente incapaces de tener esta conversación con dignidad. A partir de aquí arrancan los dos frentes y la incomodidad de estar cómodos.
 

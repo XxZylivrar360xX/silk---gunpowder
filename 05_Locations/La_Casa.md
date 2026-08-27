@@ -14,9 +14,11 @@
 >
 > **La casa es la vieja casa de los padres de Cole.** Donde lo criaron Dale y Ruth Mercer, donde su padre lo abandonó y donde su madre se murió.
 >
+> **RESUELTO (2026-08-27):** Cole la **recompró** en [[06_Relationships/Hitos]], H12 ("El corral") — no por nostalgia ni cálculo, sino porque la fricción entre Chiara y [[02_Characters/Nadir_Amrani]], conviviendo en [[05_Locations/Casa_Comunitaria_De_La_Almendra]] mientras ella se recuperaba de un ataque, se volvió insostenible. Necesitaba un lugar propio para ella. **Sigue PENDIENTE** por qué la familia había dejado de tener la casa (deudas de Dale con Crowe, u otra razón). Para cuando ocurre H10 (el infarto de Héctor), Cole ya vive ahí, ya recomprada y ya diseñada por Chiara.
+>
 > Cole la **vació entera** — la limpiaron hasta dejarla en un lienzo en blanco — y le pidió a Chiara ayuda para plantear la distribución. Le dijo que quería montar **un loft para soltero.** Ella llamó a una empresa de construcción y decoración, **y escogió ella misma los muebles.**
 >
-> **Sin proponérselo, Chiara diseñó la primera casa que terminaría siendo de los dos.** Ver [[06_Relationships/Hitos]], H5.
+> **Sin proponérselo, Chiara diseñó la primera casa que terminaría siendo de los dos.** Ver [[06_Relationships/Hitos]], H12 *(corregido 2026-08-27; antes decía H5 por error — la recompra y el diseño ocurren en H12, mucho antes)*.
 
 ---
 
@@ -104,9 +106,9 @@ Su *me quedo* también es geográfico. Ver [[00_Biblia/Temas]], tema 5 — y [[0
 
 ## Pendientes
 
-> **PENDIENTE:** la historia de la casa (canon del autor, por recibir).
+> **RESUELTO EN PARTE (2026-08-26):** Cole recompró la casa antes de vaciarla. **Sigue PENDIENTE** por qué había dejado de ser suya.
 
-> **PENDIENTE:** ¿desde cuándo vive Chiara ahí, y hubo una escena de que se mudara? Para dos personas así, mudarse es más grande que casarse. *(Nota: ya durmió ahí antes de mudarse — la noche de la sudadera, en [[06_Relationships/Hitos]], H5.)*
+> **RESUELTO EN PARTE (2026-08-27):** no hay escena de mudanza — nunca la hay para estos dos (ver [[06_Relationships/Cole_y_Chiara]], "Cuándo deja de ser suya y pasa a ser de los dos"). Chiara empieza a dejar cosas ahí por costumbre desde [[06_Relationships/Hitos]], H12, mucho antes de H5: un libro, una manta, un cepillo de dientes, cremas, una almohada, su computadora. Para cuando pasa cualquier otra escena posterior en la casa, ya lleva tiempo viviendo ahí de facto. **Nota de continuidad:** esto deja "la noche de la sudadera" en H5 como un detalle dentro de una convivencia ya en marcha, no como la primera vez que ella duerme ahí — **PENDIENTE** que el autor confirme si quiere conservar esa escena con otra función o ajustarla.
 
 > **PENDIENTE:** los perros. Cole se queda con lo que aparece en el patio ([[02_Characters/Cole_Mercer]], reglas duras). ¿Viven en el taller o en la casa?
 

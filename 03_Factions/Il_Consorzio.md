@@ -119,6 +119,12 @@ Porque llega el momento en que Chiara empieza a **construir poder como Bellandi 
 
 ---
 
+## Primer golpe en prosa — CANON DEL AUTOR (2026-08-27)
+
+Su primera aparición real en la novela es un golpe sin firma: en [[06_Relationships/Hitos]], H12, alguien deja inconsciente a Chiara de un solo golpe mientras cierra un corral. No se revela quién en el momento — ni ella ni el lector lo saben todavía.
+
+La confirmación (sin pruebas, sólo deducción de Chiara) llega en H13, "El pañuelo": dos hombres de [[02_Characters/Leone_Valenti]] la interceptan saliendo de la iglesia, la acusan de "recolectar migajas de poder" en San Aurelio — la dramatización directa del conflicto ya fijado más abajo ("construir poder como Bellandi y no como Ardizzone se vuelve declaración política") — y le dejan un pañuelo con la inicial "C" y una bala: *"Pon tu casa en orden, Sra. Ardizzone, o hablaremos de este Mercer tuyo."* Primera vez que el Consorcio deja constancia de que sabe de Cole. Arco reservado: planta un viaje futuro de Chiara a Palermo, después de su cumpleaños — no adelantar contenido.
+
 ## Pendientes
 
 > **RESUELTO (2026-08-23):** la cara del Consorcio es **[[02_Characters/Leone_Valenti]]**, *Il Consigliere*. Educado, contenido, inamovible. **No amenaza: produce consecuencias.**

@@ -97,6 +97,23 @@ Cuando Cole sea *Cole Mercer* — dueño de negocios, pareja de Chiara Bellandi,
 
 ---
 
+## El torneo de poker y la destilería — DISEÑO (2026-08-26)
+
+Walt se sienta en el primer torneo de poker de Chiara ([[03_Factions/El_Casino]]) — y es **extraordinario para mentir en la mesa.** Toda una vida leyendo al barrio antes que a las cartas le sirve exactamente igual con un mazo enfrente.
+
+Ahí conoce a Chiara. Nace entre los dos una **relación cordial** — dos personas que se leen bien y se respetan rápido. De esa relación salen dos cosas:
+
+1. **Chiara lo ayuda a comprar una bodega**, donde Walt monta una destilería propia.
+2. **A cambio, Walt se vuelve el proveedor principal de licor del casino** — una relación de negocios estable, no un favor suelto.
+
+Walt empieza a seguir, sin decirlo así, el mismo método de Cole para hacer negocios: cumple, no se explica de más, y deja que el trabajo hable. **Se forma una reputación en poco tiempo.**
+
+> **DISEÑO:** esto resuelve en parte el PENDIENTE de "a qué se dedica al salir" — Walt no vuelve al barrio a no hacer nada. Construye algo propio y legítimo, con el casino como su primer cliente ancla. Y le da a Chiara, sin que nadie lo note todavía, una relación directa con alguien del círculo más antiguo de Cole.
+
+> **PENDIENTE:** ubicación de la bodega/destilería, y si el autor quiere darle nombre propio.
+
+---
+
 ## Apariciones canon
 
 - **[[06_Relationships/Hitos]], H5, movimiento 12** — Cole le manda un mensaje el día que sale de la ciudad de emergencia. *(Qué contiene ese mensaje: parte 2 del arco, por recibir.)*
@@ -109,7 +126,7 @@ Cuando Cole sea *Cole Mercer* — dueño de negocios, pareja de Chiara Bellandi,
 
 > **PENDIENTE:** qué sabe Walt del padre de Cole que Cole no sabe. Y **si sabe algo sobre cómo llegó Cole a esa familia.** Sería la única persona viva capaz de responder la pregunta que Cole nunca ha hecho.
 
-> **PENDIENTE:** apariencia, y a qué se dedica al salir.
+> **RESUELTO EN PARTE (2026-08-26):** a qué se dedica al salir — monta una destilería propia con ayuda de Chiara y se vuelve proveedor de licor del Monarch. Ver "El torneo de poker y la destilería", arriba. **Sigue PENDIENTE:** apariencia.
 
 > **PENDIENTE:** ¿qué le pide Cole en ese primer mensaje?
 

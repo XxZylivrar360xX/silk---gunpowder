@@ -5,7 +5,7 @@
 > **NOMBRE CONFIRMADO POR EL AUTOR (2026-08-23).** Antes era *Adrian Mercer*, propuesta del agente. El apellido se mantiene: es el de la familia que lo compró, y el de la bodega sobre la que levanta el imperio.
 
 **Nacionalidad:** estadounidense (nacimiento fuera del país, sin registro fiable)
-**Edad al abrir la novela:** 31
+**Edad al abrir la novela:** 41 *(corrección del autor, 2026-08-26; antes 31)*
 **Cumpleaños:** 1 de enero.
 **Oficio:** mecánico y operador de grúas — dueño de [[03_Factions/Almendra_Towing]]
 **Rol:** protagonista. El que toma el territorio.
@@ -112,7 +112,11 @@ Dale jugaba — no por diversión, sino porque necesitaba que algo en su vida si
 
 Dale se fue cuando Cole tenía quince años, arrastrado por esa misma deuda que no era de negocio: Crowe terminó cobrándosela poniéndolo a trabajar para él en algo que salió mal, y Dale terminó preso. Ruth aguantó dos años más, sola con lo que quedaba. Cole se quedó solo a los diecisiete en una casa que ya no podía pagar. Para el inicio de la novela, Ruth y Dale están enterrados en [[05_Locations/Cementerio_Santa_Lucia]]; Cole visita a Ruth con una rosa blanca tomada del ramo de Michael y evita tocar la tumba de Dale.
 
-> **RESUELTO DE DISEÑO (2026-08-25):** qué se llevó a Ruth y cuánto vio Cole: la ludopatía de Dale y su deuda con Crowe, que derivó en golpes a Ruth y a Cole y terminó con Dale preso. Es una segunda capa, autobiográfica y nunca verbalizada, de por qué Cole aborrece el juego de azar — se suma a "lo compraron de bebé" (más abajo), no la reemplaza. Restricción de diseño intacta: **no puede ser una escena de la que él hable nunca.** Se filtra en conducta (regla 9 de [[00_Biblia/Principios_Narrativos]]).
+**CANON DEL AUTOR (2026-08-26) — el recuerdo que Cole guarda de los dos juntos.** Ruth fue madre amorosa, pero se fue perdiendo con el juego de Dale — cuidándolo, cubriéndolo, persiguiéndolo — hasta quedar como la sombra de la mujer que había sido. **El único recuerdo nítido que Cole tiene de sus dos padres en la misma escena es el día que arrestaron a Dale: y Ruth arrastrándose detrás de él, humillándose.** Esa imagen — no una declaración, no una explicación — es la que carga cuando piensa en lo que es una familia rota.
+
+> **RESUELTO DE DISEÑO (2026-08-25):** qué se llevó a Ruth y cuánto vio Cole: la ludopatía de Dale y su deuda con Crowe, que derivó en golpes a Ruth y a Cole y terminó con Dale preso. Es una segunda capa, autobiográfica, de por qué Cole aborrece el juego de azar — se suma a "lo compraron de bebé" (más abajo), no la reemplaza. Se filtra en conducta (regla 9 de [[00_Biblia/Principios_Narrativos]]).
+>
+> **ACTUALIZADO (2026-08-26):** la restricción de que "no puede ser una escena de la que él hable nunca" se levanta exactamente una vez — en [[06_Relationships/Hitos]], H11, el mirador, cuando se lo cuenta a Chiara. **Sigue sin ser tema de conversación con nadie más, y sigue sin dramatizarse en ninguna otra escena.** Que la regla se rompa sólo esa vez es lo que hace que esa vez importe.
 
 ### El uniforme
 
@@ -137,6 +141,14 @@ En su última operación, **Cole libera el convoy.**
 > **Y la columna del personaje, que hay que ver sin que él la diga jamás:** a Cole **lo compraron de bebé**, de una red que movía niños. Lo que destruye su carrera es descubrir una red que mueve niños. **No liberó ese convoy por principios. Lo liberó porque él iba en uno.**
 >
 > Puede que nunca lo formule así. El lector tiene que poder verlo. Ver [[02_Characters/Warren_Halbrook]] y [[04_Concepts/Quien_Decide_Quien_Soy]].
+
+### El botón que no escala con el riesgo — DISEÑO (2026-08-26)
+
+Este origen no es sólo trasfondo: es el motivo por el que Cole reacciona **desproporcionadamente** la tarde en que sorprende a un menor buscando en [[03_Factions/Almendra_Towing|El Patio]] a alguien que el chico sólo sabe nombrar como **"Roma Atrii"** — sin saber, y sin que Cole lo sepa tampoco, que es el nombre en clave que [[02_Characters/Chiara_Bellandi]] usa para él. Ver [[03_Factions/Red_Civil_de_Chiara]], "El cifrado dentro del cifrado". Nadie estuvo herido. Nadie estuvo en peligro real. Y aun así llega dispuesto a romper el arreglo entero con ella.
+
+No es sobre la información — ésa se la daría gratis, y ya se la está dando. Es que **usar a un menor como pieza operativa** toca, sin que él lo verbalice, la misma figura que lo compró de bebé y la misma que le costó la carrera con Halbrook — y encima es un nombre desconocido operando dentro de su propio territorio, algo que su instinto territorial no puede dejar pasar. El botón no escala con el daño real: es absoluto.
+
+Cuando va a reclamarle a Chiara, en el casino, ella se disculpa sin pelear — pero deja algo abierto: le dice que de ahora en más trae ella misma lo que tenga que llegarle, y cuando Cole pregunta qué significa "Roma Atrii", ella se lo niega con un *"todavía no"* que no es un no. Boceto completo de la escena en [[07_Ideas/El_Chico_Del_Patio]].
 
 ### La prisión, y Nadir
 
@@ -224,6 +236,12 @@ Guardarraíles. Si un borrador lo empuja hacia aquí, está mal escrito:
 - **No es un hombre que huye.** El miedo a la permanencia no lo convierte en alguien que se va: lo convierte en alguien que se queda sin poder decir que se está quedando.
 
 ---
+
+## El ataque en H12 — CANON DEL AUTOR (2026-08-27)
+
+Mientras Chiara está inconsciente en [[06_Relationships/Hitos]], H12, Cole investiga por su cuenta quién la atacó. No encuentra nada — ninguna pista llega a ningún lado, y tiene que aceptarlo sin resolverlo. Queda guardado, no cerrado.
+
+Más adelante, en H13, Chiara le muestra el pañuelo y la bala que le dejó el Consorcio. Verlos es lo que lo hace **insistir en acompañarla a Palermo** — no por desconfianza en ella, sino porque es el mismo hilo que él nunca pudo encontrar solo.
 
 ## Conexiones
 

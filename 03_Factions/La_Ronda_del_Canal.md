@@ -54,3 +54,9 @@ Chiara puede volverlos relevantes en prensa si Russ necesita mostrar abandono ur
 > **RESUELTO (2026-08-23):** La Ronda tiene líder visible: Irene Salcedo. Debajo funcionan células familiares.
 
 > **PENDIENTE:** qué noche del mercado se vuelve detonante de campaña.
+
+---
+
+## El robo de Nadir y Danny — CANON DEL AUTOR (2026-08-26)
+
+En [[06_Relationships/Hitos]], H10, [[02_Characters/Nadir_Amrani]] y [[02_Characters/Daniel_Hayes]] intentan robar una tienda dentro del territorio de La Ronda del Canal y la gente de Irene los atrapa — quedan retenidos justo cuando [[02_Characters/Hector_Navarro]] sufre su infarto, y por eso nadie puede avisarle a Cole. Es la primera fricción directa entre El Patio y La Ronda. **PENDIENTE:** cómo se resuelve — rescate, negociación, deuda que queda pendiente con Irene — y si deja cicatriz en la relación entre las dos organizaciones.

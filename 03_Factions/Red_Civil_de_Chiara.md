@@ -101,6 +101,64 @@ Uso:
 
 ---
 
+## I Sussurri — DISEÑO (2026-08-26)
+
+Toda la red descrita arriba es orgánica: la mayoría de la gente que la compone **no sabe que pertenece a algo.** Pero hay una segunda capa, más pequeña y deliberada, que empieza en un evento altruista donde Chiara construye, bajo los ojos de todos y sin que nadie lo note, su primer nodo reclutado a propósito.
+
+**I Sussurri** — italiano, *los susurros* — es el nombre privado de Chiara para esta capa, nunca un nombre público. Es la gente que recluta sabiendo exactamente para qué: registran lo que se dice discretamente a su alrededor, en salones, mesas y pisos de juego, y se lo hacen llegar a ella. **Y lo saben.** Ésa es la diferencia con Mabel y el resto de la red civil: aceptaron el trato.
+
+> **Por qué en italiano y no en español:** un nombre en español se delata solo — si alguna vez sale en una conversación, cualquiera que lo oiga entiende de inmediato qué es. Dicho en italiano, suena a costumbre suya, a la misma manía que le hace decir "camaleón" o pedir Trieste en vez de París ([[02_Characters/Chiara_Bellandi]], "Reglas duras del personaje"). Nadie que la oiga decir *"è uno dei miei sussurri"* lo va a leer como confesión — lo va a leer como un italianismo cariñoso. **Ésa es la cobertura.**
+
+### El medio — DISEÑO (2026-08-26)
+
+**La información no viaja hablada. Viaja escrita, en latín, en trozos pequeños de papel.**
+
+Y no es un objeto inventado para la ocasión: **es el mismo papel de sus cartas.** Chiara es, antes que nada, una mujer que escribe cartas para decir lo que importa — papel propio, aroma a canela y vainilla, siempre manuscrita ([[02_Characters/Chiara_Bellandi]], "Las cartas"). Los papelitos de i Sussurri son **recortes de ese mismo papel**: el mismo aroma, la misma letra, distinta lengua. Ella no fabricó un instrumento de espionaje — reutilizó el instrumento con el que ya decía la verdad.
+
+Tres capas de cobertura a la vez, y ninguna parece cobertura:
+
+- **El latín** no llama la atención porque nadie espera que signifique nada — es la lengua muerta que sale de un rosario o de una misa, no de una red de información. Encaja con su educación católica: aprendió el latín de la iglesia mucho antes de aprender a usarlo para otra cosa.
+- **El papel pequeño** es del tamaño de una propina o una ficha — algo que cualquier mano pasa a otra sin que se note el gesto, y que cualquiera puede tragarse, quemar o tirar en dos segundos.
+- **El aroma y la letra** son, paradójicamente, la cobertura más fuerte: nadie sospecharía que la misma mujer que manda cartas perfumadas usa el mismo papel para mover información peligrosa. Lo íntimo es la tapadera de lo operativo.
+
+**Ejemplo — cómo se ve un papelito real:**
+
+> Un rectángulo irregular, de unos cinco por tres centímetros, arrancado a mano y no cortado con tijera — el borde deshilachado es a propósito: un corte limpio se nota, un desgarro no. Papel color hueso, más grueso que una servilleta. Antes de leer una sola palabra, huele a canela y vainilla. La letra es cursiva, apretada para caber, con la misma inclinación de siempre:
+>
+> **VULPES SUB MENSA NUMERAT.**
+>
+> *(La zorra cuenta bajo la mesa.)*
+>
+> Sin firma. No la necesita — el olor y la letra ya firmaron por ella.
+
+> **Nota de uso:** el ejemplo es sólo ilustrativo, para fijar formato y tono. El contenido real de cada papelito lo decide el autor según la escena.
+
+> **PENDIENTE:** quién le enseñó latín a Chiara con la precisión necesaria para que esto funcione como cifrado real y no como adorno — probablemente algo de su educación católica en Palermo. Y si alguna vez alguien fuera de la red reconoce el papel, el aroma o la letra sin que ella se lo esperara, qué tan grave es el daño — es la misma vulnerabilidad de fondo que ya tiene la carta que algún día reciba Cole.
+
+**El primer sussurro es [[02_Characters/Kenji_Oda]].** Chiara lo conoce en el evento altruista y le ofrece empleo como gerente de caja del [[03_Factions/El_Casino]] por su capacidad para manejar situaciones complicadas y su creatividad. Una vez que ya lleva tiempo trabajando con ella, se lo propone con sutileza — nunca como oferta formal, y probablemente en esa misma frase a medio italiano.
+
+### El cifrado dentro del cifrado: Roma — CANON DEL AUTOR (2026-08-26)
+
+**ROMA es AMOR al revés.** No es invención de la novela — es un juego de palabras real, del tipo que a Chiara le encantaría encontrar y quedarse. Lo adopta como su nombre en clave para [[02_Characters/Cole_Mercer]], mucho antes de que ninguno de los dos diga nada abierto.
+
+La frase exacta, en latín correcto, es **ROMA ATRII** — *Roma* (nominativo, la clave) más *atrii*, genitivo de *atrium* (el patio romano): **"la Roma del Atrio"**, su versión de "el amor del Patio". Y sí va escrita: encabeza el papel, arriba del mensaje cifrado, como quien pone un destinatario. Escrita en latín, la frase no delata nada — quien la intercepte, en el peor de los casos, lee dos palabras muertas que no significan nada sin la clave. Es cobertura operativa perfecta y, al mismo tiempo, **la primera vez que Chiara llama a Cole algo parecido a lo que siente, sin que él lo sepa nunca en el momento**: literalmente lleva su apodo secreto en la mano y no puede leerlo.
+
+> **AUTOR — arco reservado, se suma al de "Las cartas" en [[02_Characters/Chiara_Bellandi]]:** el agente no resuelve la revelación del cifrado. Cole no sabe italiano ni latín en este punto de la novela ([[06_Relationships/Cole_y_Chiara]] fija que empieza a aprender italiano *después*, y nunca lo domina), así que "Roma Atrii" no le dice nada — sólo le suena raro, un nombre que no reconoce en su propio territorio. En [[07_Ideas/El_Chico_Del_Patio]] él llega a preguntar qué significa y Chiara se lo niega ("Todavía no"); el pago real queda fijado para el cumpleaños de Chiara, 23 de noviembre — detalle todavía por confirmar con el autor.
+
+El mensajero también lleva la frase como contraseña hablada — la repite sin entenderla, tal como la memorizó — para poder preguntar por el destinatario si hace falta antes de entregar el papel.
+
+### Regla dura — nunca menores, desde "el chico del Patio"
+
+**Chiara no usa menores como mensajeros de i Sussurri.** Al principio no es una regla: es sólo el recurso más práctico para mover un papel sin llamar la atención, un chico o chica del barrio, invisible, barato, rápido. Deja de serlo la tarde en que uno de ellos, buscando a "Roma del Patio" sin saber que es Cole, termina interceptado por el propio Cole cerca de [[03_Factions/Almendra_Towing|El Patio]]. Boceto completo de la escena y de por qué le pega tan hondo en [[07_Ideas/El_Chico_Del_Patio]].
+
+A partir de ahí queda fija: **i Sussurri recluta sólo adultos que entienden en qué están entrando.** Es la primera regla que la red gana por un error, no por diseño.
+
+> **DISEÑO:** i Sussurri son la evolución lógica de la red civil una vez que Chiara empieza a tener más que aprender. Mabel es la prueba de que la ciudad habla sola; i Sussurri son la prueba de que Chiara ya no espera a que hable — empieza a sembrar dónde quiere escuchar, y a hacer que lo que oiga le llegue sin que nadie lo diga en voz alta.
+
+**El disparador** —qué le ocurre para llegar a esta conclusión, con boceto de escena— está en [[07_Ideas/Origen_de_i_Sussurri]]: en el primer torneo, alguien de su propio piso habla antes con Tommaso que con ella, sobre su propio pasado. La humillación no es el rumor — es la ruta. Kenji, a la misma hora, resuelve un problema real en la caja sin que nadie más se entere. El contraste entre las dos cosas es la idea entera.
+
+---
+
 ## Mabel Ortiz
 
 [[02_Characters/Mabel_Ortiz]] es la primera persona en San Aurelio que Chiara identifica como una central de información civil.

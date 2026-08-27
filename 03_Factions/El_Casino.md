@@ -87,6 +87,10 @@ En el Capítulo 3, Chiara propone torneos de poker como herramienta de flujo y r
 
 Ese mismo día empieza a detectar huecos de administración del casino: proveedores, seguridad, calendario, registros, invitados, prensa y el modo en que una mesa de juego puede servir de excusa legítima para dinero que necesita parecer ganancia.
 
+**DISEÑO (2026-08-26):** en el primer torneo de poker que se ejecuta, [[02_Characters/Walter_Keegan]] se sienta a jugar y conoce a Chiara — es extraordinario para mentir en la mesa. De ahí nace una relación de negocios estable: ella lo ayuda a comprar una bodega para su destilería y él se vuelve el proveedor principal de licor del casino.
+
+**DISEÑO (2026-08-26):** [[02_Characters/Kenji_Oda]] entra como gerente de caja (administrador de fichas y entrega de premios), reclutado por Chiara en un evento altruista. Es también el primer **sussurro** de i Sussurri, su red privada — ver [[03_Factions/Red_Civil_de_Chiara]].
+
 ---
 
-Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Cole_Mercer]] · [[06_Relationships/Hitos]] · [[03_Factions/El_Faro]]
+Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Cole_Mercer]] · [[06_Relationships/Hitos]] · [[03_Factions/El_Faro]] · [[02_Characters/Kenji_Oda]] · [[02_Characters/Walter_Keegan]]

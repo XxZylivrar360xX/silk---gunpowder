@@ -7,7 +7,8 @@
 **Nombre completo:** Chiara Ardizzone Bellandi — usa sólo el apellido de su madre
 **También:** **viuda de Alessio Lusardi**. Nunca usa ese apellido.
 **Nacionalidad:** italiana (Palermo, Sicilia)
-**Edad al abrir la novela:** 30 — sus documentos dicen 27, y eso fue a propósito
+**Edad al abrir la novela:** 34 *(corrección del autor, 2026-08-26; antes 30)* — sus documentos dicen 27, y eso fue a propósito
+**Cumpleaños:** 23 de noviembre.
 **Oficio:** gestión de imagen y contención de prensa. En Palermo lo llamaban "relaciones". No tiene tarjeta.
 **Rol:** protagonista. La que toma el relato.
 **Estado:** viva
@@ -59,6 +60,20 @@ Cada vez que Cole sale a "trabajar", ella detiene lo que estaba haciendo y encie
 **Regla:** la vela no lo absuelve a él ni la absuelve a ella. Sólo revela cuánto cuesta esperar.
 
 El ritual nace después del Año Nuevo en Washington: la noche en que Cole viaja por una deuda con [[02_Characters/Anya_Voronina]] y Chiara entiende, con demasiada claridad, que amarlo también significa verlo elegir obligaciones que lo destruyen. Ver [[06_Relationships/Momentos_de_Fractura]], F4.
+
+### Las cartas — CANON DEL AUTOR (2026-08-26), BASE DE ARCO RESERVADO
+
+**Chiara escribe cartas para decir lo que importa.** No es un recurso ocasional: es su medio de comunicación real, el que usa cuando algo de verdad necesita quedar dicho y no simplemente hablado. Habla mucho — pero **escribe lo que pesa.**
+
+Tres rasgos fijos, siempre los tres juntos:
+
+- **Papel propio, no del casino ni de nadie más.** Papel membretado que es de ella — nunca una hoja suelta ni papelería del Monarch. Escribir en el papel de otro sería, para Chiara, como firmar con el apellido de otro.
+- **Aroma a canela y vainilla.** El papel lo lleva encima, y por eso también lo lleva la letra. Es reconocible sin necesidad de firma: quien ha recibido una carta suya una vez, reconoce la siguiente por el olor antes de leer una palabra.
+- **Manuscrita.** Nunca a máquina, nunca impresa. Su letra, con su mano, siempre — cursiva, cuidada, la misma con la que firmaría cualquier otra cosa que de verdad quisiera que le pertenezca.
+
+> **AUTOR — arco reservado con Cole:** el autor tiene planeado un arco con Cole construido sobre esta característica. El agente no debe inventar su contenido ni adelantarlo — sólo sostener el rasgo con consistencia (papel propio, aroma, manuscrita) cada vez que aparezca una carta suya en el manuscrito, para que el arco tenga suelo firme cuando el autor lo escriba.
+
+**Y es la base de [[03_Factions/Red_Civil_de_Chiara]], sección "I Sussurri":** los papelitos en latín que mueve su red no son un objeto aparte inventado para el espionaje. **Son recortes del mismo papel de sus cartas** — el mismo aroma, la misma letra, distinta lengua. Ver esa sección para el ejemplo físico completo.
 
 ### Su función en la novela: no dejar que Cole se borre
 
@@ -186,6 +201,26 @@ Pero el periódico no es el origen de su información. Es el instrumento que con
 
 Antes de [[03_Factions/El_Faro]] está la [[03_Factions/Red_Civil_de_Chiara]]: tiendas, restaurantes, salones, valet, cocinas, mujeres mayores, asistentes, meseras, choferes y rumores de barrio. Chiara entiende que el chisme no es ruido si sabes dirigirlo.
 
+### El evento altruista y el primer sussurro — DISEÑO (2026-08-26)
+
+En un evento de caridad, Chiara empieza a hacer algo distinto de escuchar a la ciudad: **empieza a sembrarla.** Bajo los ojos de todos, sin que nadie lo note, arma el primer nodo de una red que ella misma reclutó a propósito — a diferencia de [[02_Characters/Mabel_Ortiz]] y el resto, que no saben que son parte de nada.
+
+Ahí conoce a **[[02_Characters/Kenji_Oda]]**, un joven japonés con capacidad para manejar situaciones complicadas y mucha creatividad. Le ofrece empleo como el nuevo gerente de caja del [[03_Factions/El_Casino]] — administrador de fichas y entrega de premios. Una vez que él ya lleva tiempo trabajando con ella, se lo propone con sutileza, en italiano: se convierte en el primer **sussurro** de **i Sussurri**, su capa privada de informantes. La información viaja escrita, en latín, en trozos pequeños de papel — nunca hablada. Ver [[03_Factions/Red_Civil_de_Chiara]].
+
+### El primer roce con Cole — DISEÑO (2026-08-26)
+
+Antes del penthouse, antes de que ninguno de los dos le ponga nombre a lo que están construyendo, hay un primer desacuerdo real. Chiara usa a un chico del barrio para mover uno de los papeles de i Sussurri, por practicidad — es invisible, rápido, barato — con el papel encabezado **"Roma Atrii"**: su clave privada para Cole, ROMA siendo AMOR al revés y *atrii* el genitivo latino de "patio" (ver [[03_Factions/Red_Civil_de_Chiara]], "El cifrado dentro del cifrado"; encaja con el arco reservado de "Las cartas", arriba). Ni el chico ni Cole saben que están hablando de la misma persona. Cole intercepta al chico cerca de [[03_Factions/Almendra_Towing|El Patio]] y va a buscarla al casino, dispuesto a romper el arreglo entero.
+
+Chiara no discute el punto ni defiende el método. **Entiende la línea apenas se la nombran**, se disculpa sin argumentar y da su palabra de que no se repite — y con eso el desacuerdo se cierra antes de empezar de verdad. Pero no cierra el otro hilo: le dice que de ahora en más, si algo tiene que llegarle a Cole, **lo trae ella misma** — confirmando sin nombrarlo que él es "Roma Atrii" — y cuando él pregunta qué significa, se lo niega con una promesa aplazada: *"Eso no te lo voy a decir. Todavía no."* Se paga mucho después, el día de su cumpleaños (23 de noviembre) — reservado para el autor, sin detalle todavía. Boceto completo en [[07_Ideas/El_Chico_Del_Patio]]. Consecuencia dura: **i Sussurri deja de reclutar menores**, regla fija a partir de aquí. Ver [[03_Factions/Red_Civil_de_Chiara]].
+
+### El ataque, la casa común y la casa de los dos — CANON DEL AUTOR (2026-08-27)
+
+En [[06_Relationships/Hitos]], H12, alguien la golpea por la espalda mientras cierra el corral de un caballo. Un solo golpe. No despierta hasta el hospital, y ni ella ni el lector saben quién fue. Se recupera en [[05_Locations/Casa_Comunitaria_De_La_Almendra]], y la convivencia forzada ahí enciende la fricción con [[02_Characters/Nadir_Amrani]] — lo que empuja a Cole a recomprar la casa de sus padres. Chiara la diseña y la amuebla, pagándolo todo ella misma aunque de cara a los demás la versión sea "apoyo del casino". Empieza a dejar cosas suyas ahí sin que nadie lo anuncie — un libro, una manta, un cepillo de dientes — hasta que el lugar deja de ser prestado y se vuelve un hogar hecho de rutina: desayunos, cenas, Cole desastroso en la cocina, ella dejándole el café listo las mañanas que sale temprano.
+
+### El pañuelo — CANON DEL AUTOR (2026-08-27), arco reservado
+
+Más adelante, en [[06_Relationships/Hitos]], H13 (todavía sin escribir), dos hombres de [[02_Characters/Leone_Valenti]] la interceptan saliendo de la iglesia. Le insinúan que [[03_Factions/Il_Consorzio]] no está contento con "una Lusardi" administrando el casino — ella corrige: *Ardizzone*. La acusan de recolectar poder en San Aurelio por su cuenta; lo niega, y en el fondo es cierto. Le dejan un pañuelo con la inicial "C" y una bala: *"Pon tu casa en orden, Sra. Ardizzone, o hablaremos de este Mercer tuyo."* Chiara deduce, sin pruebas, que fue el Consorcio quien la atacó en H12 — lo que le planta la idea de viajar a Palermo más adelante, después de su cumpleaños. Cole, que nunca cerró su propia investigación del ataque en H12, insiste en acompañarla en cuanto ella le muestra el pañuelo y la bala — es el hilo que él nunca pudo encontrar solo. **El agente no debe adelantar contenido de ese viaje.**
+
 Su regla:
 
 > **La información no se gana reteniéndola. Se gana direccionándola.**
@@ -201,6 +236,7 @@ Ahí es donde supera a Cole en escala. Él acumula deudas, nombres y rutas hasta
 - **Nunca miente en lo pequeño.** Si el texto la muestra mintiendo sobre una tontería, está mal escrita.
 - **La pistola vive en el bolso, no en la mano.** Si la saca, es un acontecimiento del libro.
 - **Su lugar favorito no es el que dice.** A todo el mundo le dice *París*. La verdad es **Trieste** — una ciudad que no termina de ser de nadie. Esa respuesta la tiene una sola persona en toda la novela, y el momento en que la da vale más que cualquier escena de cama.
+- **Escribe lo que pesa.** Cuando algo de verdad importa, lo pone en una carta: papel propio, aroma a canela y vainilla, manuscrita. Nunca a máquina, nunca en papel ajeno. Ver "Las cartas".
 - **Italiano en la boca, no en la página.** Suelta palabras y frases sueltas en italiano cuando está cómoda o cuando está furiosa — nunca en el punto medio. Es un termómetro para el lector.
 - **Se cambió la edad en los documentos** y lo sostiene con una naturalidad total. Cuando alguien lo descubre, no se disculpa: pregunta por qué le importa.
 - **No acepta que le paguen la cuenta.** Por costumbre y por doctrina: quien paga, cree que compró algo.
@@ -208,6 +244,7 @@ Ahí es donde supera a Cole en escala. Él acumula deudas, nombres y rutas hasta
 - **En privado llama al núcleo joven de Cole "los niños del Patio".** No es un nombre público ni una broma cruel: es la forma en que los integra a su mapa afectivo sin dejar de verlos con precisión.
 - **Enciende una vela cada vez que Cole sale a trabajar.** No es superstición ni decoración: es su manera de pedir que vuelva a casa. Ver [[04_Concepts/Fe_y_Velas]].
 - **Bellandi Ridge no se contamina gratis.** Si alguien usa sus viñedos como escondite, amenaza o infraestructura criminal, debe sentirse como una profanación de algo suyo.
+- **Exige que la llamen Sra. Bellandi.** "Chiara" a secas es un privilegio, no un dato público — sólo lo usan los seleccionados. Cuando alguien lo usa sin haberlo ganado (ver [[02_Characters/Tommaso_Lusardi]], ficha de voz: "usa el nombre 'Chiara' con una familiaridad que no tiene derecho a reclamar del todo"), es una transgresión leída, no un descuido de estilo.
 
 ---
 
@@ -233,7 +270,7 @@ Guardarraíles. Si un borrador la empuja hacia aquí, está mal escrita:
 - **[[03_Factions/Il_Consorzio]]** — **su antagonista.** La red que la ve como *Chiara Ardizzone Bellandi* antes que como Chiara. No la odia: la tiene asignada.
 - **[[02_Characters/Leone_Valenti]]**, *Il Consigliere* — la cara del Consorcio. Cordial de verdad, y por eso mucho peor. **No amenaza: produce consecuencias.** Es ella misma treinta años después, a escala de instituciones.
 - **[[02_Characters/Dario_Valcora]]** — su jefe. Cabeza de la mafia de la ciudad y socio mayoritario del casino. La ve como un activo político reemplazable.
-- [[02_Characters/Nadir_Amrani]] — amigo íntimo de Cole. La relación empieza incómoda: Nadir desconfía de ella y Chiara lo tolera porque sabe que forma parte de la vida de Cole; ninguno de los dos le concede confianza automática al otro.
+- [[02_Characters/Nadir_Amrani]] — amigo íntimo de Cole, querido y respetado en todo el barrio por honesto, leal y protector. La relación empieza incómoda: Nadir desconfía de ella **antes de conocerla** — no por celos, sino por proteger a Cole —, y Chiara lo tolera porque sabe que forma parte de su vida. Cole intenta convencerlo de que ella no es ni importante ni descartable; Nadir no lo acepta.
 - **[[02_Characters/Andrew_Callahan]]** — agente especial supervisor federal. Entra cuando la organización de Cole escala a nivel internacional; representa una herida federal anterior aunque quizá no la haya causado personalmente.
 - **[[02_Characters/Garrett_Cross]]** — administrador financiero de El Patio. Colabora con ella en el casino para que el dinero tenga una versión pública creíble.
 - **[[02_Characters/Anya_Voronina]]** — contacto rusa de Cole y amor pasado de Afganistán. No es rival simple; es la prueba de que Chiara no fue la primera mujer que conoció a Cole, sino la primera que lo hizo creer.
@@ -241,6 +278,8 @@ Guardarraíles. Si un borrador la empuja hacia aquí, está mal escrita:
 - **[[03_Factions/Red_Civil_de_Chiara]]** — su red de chismes e información dirigida. No es una red formal de espías; es la ciudad civil hablando antes de convertirse en noticia o expediente.
 - **[[05_Locations/Bellandi_Ridge_Vineyards]]** — sus viñedos en el norte. Propiedad legítima, apellido materno hecho lugar y puente hacia el mundo rural de San Aurelio.
 - **[[02_Characters/Mabel_Ortiz]]** — mujer mayor, dueña de tienda/cafetería y nodo principal de la red civil. Le da detalles, no conclusiones.
+- **[[02_Characters/Kenji_Oda]]** — gerente de caja del Monarch y primer sussurro de i Sussurri, su red deliberada. A diferencia de Mabel, sabe para quién trabaja.
+- **[[02_Characters/Walter_Keegan]]** — amigo del padre de Cole. Se conocen en el primer torneo de poker; ella lo ayuda a comprar la bodega para su destilería y él se vuelve el proveedor de licor del casino.
 - **[[02_Characters/Blake_Stanton]]** — con quien sale al llegar a la ciudad. Rubio, ojos azules: el hombre equivocado con la cara correcta.
 - **[[02_Characters/Camila_Rivas]]** — su médica de confianza. Atiende fuera de los registros cuando la razón moral o la deuda lo justifican, y le contesta el teléfono a Chiara a cualquier hora. Es quien mantiene vivo a Cole en [[06_Relationships/Hitos]], H1, y por lo tanto **la prueba de que la red de Chiara es infraestructura real y no contactos sociales.**
 - Corrado Ardizzone — el padre. **Pendiente de ficha.** Muere en una redada federal; no debe escribirse como villano plano ni como inocente limpio. Fue un hombre que quiso a su mujer treinta años y no supo proteger su casa de lo que su mundo era.

@@ -89,3 +89,15 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 > **DISENO (2026-08-26):** que Dario Valcora haya preguntado por el pasado de Chiara en Palermo, y que Tommaso sea quien contesta, es inferencia del agente para dar material nuevo al segundo escalon. Abre dos cosas utiles: Dario investigando a su propia gente, y Tommaso como fuente unica de lo que Dario cree. Si el autor lo veta, la escena del pasillo del Capitulo 5 vuelve a terminar en "Yo si" y hay que buscar otro escalon.
 
 - **Estado:** dos escalones en prosa; los siguientes pendientes de diseno.
+
+---
+
+## El codigo "Roma Atrii"
+
+- **Que es:** frase en latin que Chiara usa como firma/codigo en notas escritas a mano, entregadas a traves de una cadena de intermediarios ([[02_Characters/Kenji_Oda]], mensajeros de la calle) para que nadie pueda atarlas a ella si se interceptan. Significado literal (ROMA es AMOR al reves; ATRII es "patio" en genitivo latino) no revelado todavia — ni al lector en voz de ningun personaje, ni a Cole.
+- **Se siembra en:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/12_Roma_Atrii]] — un chico de la calle busca a "Roma Atrii" como si fuera una persona; Cole reconoce la letra y el papel, no el significado. Reaparece en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_El_Porton]] cuando Cole reconoce el mismo papel en una carta abierta, sin codigo esta vez.
+- **Quien ya lo sabe:** solo Chiara.
+- **Quien NO debe saberlo/insinuarlo todavia:** Cole no sabe italiano ni latin en este punto del libro, asi que el nombre no le dice nada — solo le suena raro. El lector tampoco debe saberlo todavia; ver [[02_Characters/Chiara_Bellandi]], "Las cartas", para el arco reservado del autor sobre este hilo.
+- **Lineas o gestos prohibidos:** que Chiara traduzca o explique el codigo antes de que el autor decida el momento. Que un tercero lo traduzca por casualidad o coincidencia.
+- **Pago fijado:** cumpleanos de Chiara, 23 de noviembre — ver [[06_Relationships/Hitos]] y [[07_Ideas/El_Chico_Del_Patio]]. Contenido exacto de la revelacion todavia sin decidir.
+- **Estado:** sembrado en dos capitulos; significado y forma exacta de la revelacion PENDIENTES de decision del autor.

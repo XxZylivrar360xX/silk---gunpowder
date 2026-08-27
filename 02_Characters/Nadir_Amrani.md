@@ -33,6 +33,22 @@ Eso los deja en una posición rarísima dentro de la novela:
 
 Cole después le paga esa ayuda metiéndolo a Estados Unidos con papeles conseguidos mediante [[02_Characters/Anya_Voronina]], pero esa deuda no convierte a Nadir en subordinado. Lo vuelve una de las pocas personas que pueden estar cerca de Cole sin formar parte de su contabilidad moral.
 
+**CANON DEL AUTOR (2026-08-26):** en el barrio, Nadir es querido y respetado por todos — no por lo que tiene ni por lo que negocia, sino por ser **honesto, leal, y el protector de todo el mundo en la Almendra.** Es una reputación ganada, no heredada, y es la vara con la que hay que medir cualquier escena donde desconfíe de alguien: si Nadir duda de una persona, el barrio entero tiene motivos para tomárselo en serio.
+
+---
+
+## Chiara — la desconfianza que no es celos
+
+**CANON DEL AUTOR (2026-08-26).** Nadir desconfía de Chiara **antes de conocerla.** Ni siquiera hace falta que se hayan cruzado: le basta con lo que representa — una mujer de un mundo ajeno, cerca de la vida de Cole — para juzgarla. **Ése es el punto de la relación, no un defecto de escritura:** Nadir juzga antes de conocer, y el libro lo deja hacerlo.
+
+Cole intenta convencerlo de que se equivoca — que ella no es ni importante ni descartable, que no hay que tratarla como amenaza ni como distracción pasajera. **Nadir no lo acepta.**
+
+> **Regla dura, para que no se lea mal:** esto **no es celos románticos.** Es exactamente lo mismo que rige a [[06_Relationships/Cole_y_Chiara]] (regla 4: "no hay celos románticos... si hay celos, son de competencia") aplicado a la amistad. Nadir no quiere a Cole para él — quiere protegerlo, y lo que ve es a alguien de un mundo que no controla acercándose a la única persona que lo salvó cuando nadie más lo hizo. Si una escena suena a que Nadir está celoso *de* Chiara en vez de preocupado *por* Cole, está mal escrita.
+
+Ver [[02_Characters/Chiara_Bellandi]]: "la incomodidad empieza antes de que se conozcan" — ya estaba apuntado ahí; esto lo desarrolla.
+
+**CANON DEL AUTOR (2026-08-27) — dónde estalla:** en [[06_Relationships/Hitos]], H12, Chiara se queda recuperándose en [[05_Locations/Casa_Comunitaria_De_La_Almendra]] después de un ataque. Convivir día a día con Nadir ahí es lo que vuelve visible la fricción que hasta entonces era silenciosa — y es, indirectamente, lo que empuja a Cole a recomprar la casa de sus padres: necesita sacarla de un espacio que ya no puede compartir en paz.
+
 ---
 
 ## Historia
@@ -45,6 +61,7 @@ Lo que opera hoy:
 - Vuelve con Cole a San Aurelio.
 - Está presente en la primera etapa del vínculo con Chiara: ve a Cole perfumado y nervioso en [[06_Relationships/Hitos]], H2-a.
 - En [[06_Relationships/Hitos]], H6, [[02_Characters/Warren_Halbrook]] amenaza a Cole con deportar a Nadir si no vuelve a trabajar para él.
+- En [[06_Relationships/Hitos]], H10, intenta un robo con [[02_Characters/Daniel_Hayes]] en una tienda dentro del territorio de [[03_Factions/La_Ronda_del_Canal]] y los atrapa la gente de Irene Salcedo — quedan retenidos justo cuando Héctor sufre su infarto, y por eso nadie puede avisarle a Cole. **DISEÑO:** ¿qué buscaban robar y por qué? Queda PENDIENTE.
 
 La amenaza de deportación funciona porque Nadir es el único problema que Cole no puede resolver con sus herramientas habituales: no es dinero, no es territorio, no es un favor. Es un papel.
 
@@ -52,7 +69,7 @@ La amenaza de deportación funciona porque Nadir es el único problema que Cole 
 
 ## Método
 
-> **PENDIENTE:** definir su método presente.
+> **RESUELTO EN PARTE (2026-08-26):** cultiva hierba para vender como ganancia del barrio — Cole y Walt llegan a mover un cargamento suyo fuera de la ciudad en [[06_Relationships/Hitos]], H10. Sigue **PENDIENTE** el resto de su método presente.
 
 Nadir es materialista en el sentido más directo: le gusta el dinero, le gusta verlo llegar y le gusta todavía más cuando llega fácil. No lo disfraza de ambición ni de proyecto. Para él, una ganancia limpia es una ganancia inteligente, y una oportunidad que exige sufrir de más probablemente está mal negociada.
 
@@ -69,6 +86,7 @@ Cole lo mantiene lejos de las finanzas centrales de Almendra Towing. No porque N
 - **No es un subordinado de Cole.** Puede trabajar con él, seguirlo o ayudarlo, pero narrativamente no existe para deberle obediencia.
 - **No es comic relief.** Puede tener humor, pero su función no es aligerar escenas.
 - **La amenaza de deportación en H6 es real.** Si se usa como palanca, tiene que dejar consecuencias.
+- **Su desconfianza hacia Chiara no es celos románticos.** Es preocupación de amigo leal y protector — teme que Cole salga lastimado, no compite por él. Ver "Chiara — la desconfianza que no es celos".
 
 ---
 
