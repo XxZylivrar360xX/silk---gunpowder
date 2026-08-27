@@ -225,6 +225,16 @@ Toda la relación se puede medir en quién se mueve hacia el idioma del otro. **
 
 **El primer cruce lo hace ella. El último, él.** Y entre medias está el paso del usted al tú, todavía por colocar.
 
+### CANON (2026-08-27) — El acento que cede, y el "Ciao" que lo compensa
+
+Debajo de los cuatro tiempos de arriba corre una corriente continua, no un hito puntual: mientras ella le enseña italiano a Cole en lecciones puntuales, **él le enseña el suyo a ella sin lecciones — solo por exposición.** Cuanto más interactúan, más modismos del barrio se le pegan a Chiara sin que lo decida, y su acento cede terreno de forma real y medible con el tiempo.
+
+**Nunca desaparece del todo.** Ella no se "americaniza" — conserva su acento base y su identidad intactos. Pero en los momentos en que ella misma nota la cesión, sobrecompensa: ahí es cuando dice **"Ciao"** — su saludo de siempre, salvo en H2, donde su ausencia ya es canon (ver el cuadro de arriba: *"Io sono Chiara Bellandi"*, no "Ciao"). No es un gesto dirigido a Cole. Es ella recordándose a sí misma quién es.
+
+> Es el mismo miedo del libro entero — quién decide quién soy — jugado en la voz en vez de en el territorio. Cole nunca le pide que se le parezca (ver más abajo, "El apellido que él nunca ofrece"); el barrio se le mete solo, sin permiso, y ella es quien tiene que vigilarse a sí misma para no perderse. Ver [[04_Concepts/Quien_Decide_Quien_Soy]].
+
+> **PENDIENTE (2026-08-27):** si Cole llega a devolverle el "Ciao" en algún momento — mal dicho, como su propio cruce del idioma, coherente con "él es el aprendiz, y no lo domina nunca" — o si el ritual recíproco de la pareja toma otra forma. Ver también la nota de cuarentena en [[99_Reference/README]] sobre "Ciao, Bella"/"Ciao, Bellissimo": ese ritual es de Kyle y Giulia, no de Cole y Chiara — pendiente de decisión del autor si se retoma la cuarentena o se libera.
+
 ### CANON — La vela
 
 Chiara es católica devota. Cole no comparte la fe con la misma naturalidad, pero la respeta porque es de ella.
