@@ -1654,3 +1654,23 @@ Se abrio entrada en [[12_Craft_Policies/revelations/Book_01_Seda_y_Polvora]] con
 **5. Apertura por residuo, promovida a politica.** La maniobra de abrir el Capitulo 5 con la factura que resuelve la incomodidad que quedo floja al final del Capitulo 4 se anoto como seccion nueva en [[12_Craft_Policies/Redaccion_De_Capitulos]], con las cuatro preguntas para localizar el residuo (que quedo dicho a medias, que gesto no recibio respuesta, que deuda se nombro una sola vez, que decision se pospuso sin anunciarlo) y cuatro reglas de uso. La mas importante: **el residuo se profundiza, no se explica** — si la apertura suena a resumen del capitulo anterior, esta mal resuelta. Y una advertencia: no usarla con la misma mecanica visible en todos los capitulos, o el lector empieza a predecir la maniobra.
 
 **Archivos tocados:** `11_Books/.../05_La_Casa_No_Quiere_Ruido.md`, `12_Craft_Policies/Redaccion_De_Capitulos.md`, `12_Craft_Policies/revelations/Book_01_Seda_y_Polvora.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`, `tools/epub-build/output/Seda_y_Polvora.epub`.
+
+## [2026-08-26] canon | Trasfondo de Dario Valcora: el incendio, las mellizas y lo que siente por Cole
+
+Canon del autor entregado directo en chat, integrado a [[02_Characters/Dario_Valcora]].
+
+**1. El incendio y las mellizas — CANON.** La exesposa de Dario lo engano. Esa misma noche la quemo viva dentro de su propia casa y monto el incendio para que sus tres hijas mellizas nunca supieran que fue el. Se quemo el mismo la cara para sostener la version de que habia intentado salvarla: la cicatriz que lleva hoy es coartada, no accidente ni herida de guerra. La misma noche se entero de que las mellizas no eran hijas suyas — no se lo dijo a nadie y nunca cambio como las trata. Siguen siendo, hasta hoy, las unicas tres personas que quiere en el mundo.
+
+Esto resuelve dos PENDIENTE que ya existian en la ficha: **"su logica decente"** (protege la mentira que sostiene a sus hijas — el mismo musculo de hacer lo brutal y presentarlo como sacrificio que gobierna toda su forma de operar) y, en parte, **"apariencia"** (la cicatriz de la cara queda fijada como objeto central del personaje). Sigue pendiente su edad y como se comporta cuando pierde.
+
+**2. Lo que siente por Cole — DISENO.** Despues de H6, Valcora desarrolla un amor romantico no correspondido y frustrado hacia Cole, nunca nombrado ni pensado en esos terminos. Se ve solo en conducta: favoritismo constante, rara vez le niega algo a Cole una vez que empiezan a trabajar juntos. Es la explicacion real (nunca dicha en el texto) de por que "desvia momentaneamente su atencion de Chiara" en H6. Chiara lo detecta y se lo dice a Cole; el siempre lo desestima, pero ambos saben, sin decirselo con esas palabras, que puede tener sentido. Explica por que Dario se ensana con Chiara: ella ocupa, sin saberlo, el lugar que el no puede tener.
+
+Regla de escritura marcada en la ficha: esto no se dice nunca en voz alta, ni siquiera entre Cole y Chiara con total claridad. Se construye por acumulacion de favoritismo y silencios; el lector lo intuye antes que los personajes lo confirmen entre si.
+
+**Archivos tocados:** `02_Characters/Dario_Valcora.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-26] continuidad | Domingo antes del lunes de Walt
+
+Se corrigio la continuidad temporal del arranque: los Capitulos 1 y 2 quedan explicitamente en domingo; el Capitulo 3 abre en lunes, y la referencia a la reunion de Cole con Keene cambio de "la tarde anterior" a "la manana anterior". La reunion ya estaba narrada con marcas de media manana; el ajuste alinea la etiqueta con la escena y deja clara la transicion hacia la liberacion de Walt.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/DECISIONS.md`, `log.md`.

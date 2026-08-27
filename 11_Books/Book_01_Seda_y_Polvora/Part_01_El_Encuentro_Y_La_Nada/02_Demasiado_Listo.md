@@ -1,7 +1,7 @@
 <!--
 Estado: borrador provisional.
 Protagonistas: Chiara Bellandi, Cole Mercer.
-Ventana temporal: Fase 0, misma tarde-noche del Capitulo 1; ocurre H2.
+Ventana temporal: Fase 0, domingo, misma tarde-noche del Capitulo 1; ocurre H2.
 Lugares: Kingsley Field, carreteras del norte de San Aurelio, The Monarch Casino & Hotel, Almendra Towing.
 Funcion: dar a Chiara entrada propia, presentar a Fabrizio, Tommaso y Dario, la reunion interna sin Cole, el primer apreton de manos, el rechazo por "demasiado listo" y el cierre paralelo de radar mutuo.
 -->

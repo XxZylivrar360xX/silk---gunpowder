@@ -20,6 +20,40 @@ Egocéntrico. Y **misógino disimulado** — lo importante es *disimulado*: jam�
 
 ---
 
+## La historia detrás de la misoginia — CANON (2026-08-26)
+
+Antes de ser lo que es hoy, Valcora tuvo una esposa que lo engañó. La noche que lo descubrió, hizo dos cosas que nunca le contó a nadie:
+
+- **La quemó viva dentro de su propia casa**, y montó el incendio para que sus tres hijas —mellizas— jamás supieran que fue él.
+- **Se quemó él mismo la cara** para sostener la versión de que había intentado salvarla. La cicatriz que lleva hoy es la coartada, no un accidente ni una herida de guerra.
+
+Esa misma noche se enteró de que **las tres mellizas no eran hijas suyas.** No dijo nada. No cambió cómo las trata. Siguen siendo, hasta hoy, **las únicas tres personas que quiere en el mundo.**
+
+> **Resuelve el PENDIENTE de "su lógica decente":** lo que protege no es un principio abstracto de poder — es la mentira que sostiene a sus hijas. Cada vez que gobierna con miedo administrativo, cada vez que es "políticamente correcto y criminalmente despiadado", ejercita el mismo músculo que usó esa noche: hacer lo brutal y presentarlo como la versión que protege a los inocentes.
+>
+> **Resuelve el PENDIENTE de "apariencia":** la cicatriz de la cara no es cosmética — es el objeto central del personaje. Lleva la prueba de su propio crimen tatuada en la piel, disfrazada de sacrificio.
+
+**Origen de la misoginia disimulada:** no es postura filosófica. Es una mujer específica que lo traicionó y a la que castigó de la forma más extrema posible sin que el castigo dejara rastro sobre él. Cotiza a las mujeres —empezando por Chiara— porque dejó de creer que se les puede confiar nada, y disimula ese desprecio porque disimular es, literalmente, lo que le salvó la vida una vez.
+
+---
+
+## Lo que siente por Cole — DISEÑO (2026-08-26)
+
+Después de H6 —cuando Cole se ofrece a trabajar para él— Valcora empieza a desarrollar algo que nunca nombra, ni siquiera para sí mismo: **un amor romántico no correspondido y frustrado hacia Cole.**
+
+No se declara nunca ni aparece como pensamiento explícito. Se ve en la conducta:
+
+- **Favoritismo.** Rara vez le niega algo a Cole una vez que empiezan a trabajar juntos.
+- Es la explicación real —y nunca dicha— de por qué "desvía momentáneamente su atención de Chiara" en H6: no es sólo que el cargamento de armas fuera buen negocio.
+
+**Chiara lo detecta.** Se lo dice a Cole. **Cole siempre lo desestima** — pero los dos, sin decírselo entre ellos con esas palabras, saben que sí puede tener sentido.
+
+> **DISEÑO — por qué se ensaña con Chiara:** el objeto real de la frustración de Valcora no es Cole — es ella. Chiara ocupa, sin saberlo del todo, el lugar que él no puede tener. Cada vez que la trata como activo reemplazable, cotizable, castigable, está descargando sobre ella algo que en el fondo es sobre Cole. Es la misma operación que ya describe la ficha arriba ("la cotiza... es exactamente la operación que ella le hace al resto del mundo, aplicada sobre ella"), con una capa debajo que el lector sólo puede intuir.
+>
+> **Regla de escritura:** esto nunca se dice en voz alta, ni siquiera entre Cole y Chiara con total claridad. Se construye por acumulación de favoritismo, silencios y decisiones sin otra explicación limpia. El lector lo intuye antes de que los personajes lo confirmen entre sí — y ninguno de los dos lo confirma nunca del todo.
+
+---
+
 ## Por qué es el antagonista correcto para este libro
 
 - **Es lo que Cole podría llegar a ser.** Un hombre que empezó en algún lado y hoy es "el que decide", con una cara pública intachable y un negocio limpio arriba de todo lo demás. Cole se está construyendo una fachada de empresario intachable ([[06_Relationships/Hitos]], H2); Valcora ya terminó la suya hace veinte años. **El antagonista es el destino que le espera si nadie lo detiene.**
@@ -129,9 +163,9 @@ A cambio, Cole pide **seguridad para Chiara**. Y trae con qué pagarlo: **una en
 
 > **PENDIENTE:** su relación exacta con Chiara — quién la mandó desde Italia, qué le debe, y cuánta autoridad tiene sobre ella.
 
-> **PENDIENTE:** su lógica decente. Qué cree que está protegiendo.
+> **RESUELTO (2026-08-26):** su lógica decente. Protege la mentira que sostiene a sus tres hijas. Ver "La historia detrás de la misoginia", arriba.
 
-> **PENDIENTE:** apariencia, edad, y cómo se comporta cuando pierde. Un hombre así sólo es interesante cuando se le rompe la corrección.
+> **RESUELTO EN PARTE (2026-08-26):** apariencia — tiene una cicatriz de quemadura en la cara, autoinfligida como coartada. Ver arriba. **Sigue PENDIENTE:** edad y cómo se comporta cuando pierde.
 
 ---
 

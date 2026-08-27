@@ -1,14 +1,14 @@
 <!--
 Estado: borrador provisional.
 Protagonistas: Cole Mercer, Chiara Bellandi.
-Ventana temporal: Fase 0, manana posterior a H2.
+Ventana temporal: Fase 0, lunes, manana posterior a H2.
 Lugares: taller de Almendra Towing, carcel del condado, norte rural, La Almendra, The Monarch Casino & Hotel, centro de San Aurelio.
 Funcion: cobrar el guino de Dario/Keene, presentar la salida de Walt, sembrar a Harper, mostrar a Chiara detectando huecos del casino y abrir la salida con Blake.
 -->
 
 # Capítulo 3 — Los viejos días
 
-Cole despertó antes de que sonara el teléfono, con la misma incomodidad exacta con la que se había dormido.
+El lunes, Cole despertó antes de que sonara el teléfono, con la misma incomodidad exacta con la que se había dormido.
 
 El catre no perdonaba el traje de la noche anterior. Le había dejado una marca en el hombro, otra en la cadera y una tercera en la paciencia. La camisa azul seguía doblada sobre la caja de recibos. El saco colgaba del respaldo de la silla como si también estuviera cansado de fingir. Sobre el escritorio, junto a las llaves del Peugeot, el celular vibró una vez y se quedó quieto.
 
@@ -36,7 +36,7 @@ El catre crujió como una queja vieja.
 
 Leyó la nota dos veces. Luego dejó el teléfono sobre el escritorio, junto a las llaves del Peugeot, y se quedó mirando la pantalla apagada.
 
-La tarde anterior, Keene había firmado una hoja.
+La mañana anterior, Keene había firmado una hoja.
 
 No todas. Una.
 

@@ -1,14 +1,14 @@
 <!--
 Estado: borrador provisional.
 Protagonistas: Cole Mercer, Chiara Bellandi.
-Ventana temporal: Fase 0, el dia en que llegan los socios del Monarch y ocurre H2.
+Ventana temporal: Fase 0, domingo; el dia en que llegan los socios del Monarch y ocurre H2.
 Lugares: La Almendra, Departamento de Policia de San Aurelio, Il Gelsomino, Lote Almendra, Cementerio Santa Lucia, La Esquina de Mabel, Casa Comunitaria de la Almendra.
 Funcion: instalar el dia normal de Cole, la carta de Walt, el acuerdo con Keene, Matteo Bellacorte como bisagra y la invitacion al Monarch. Continua en el Capitulo 2.
 -->
 
 # Capítulo 1 — Un hombre de negocios intachable
 
-San Aurelio despertaba por capas.
+Era domingo, pero San Aurelio despertaba por capas.
 
 Primero los camiones de basura, pesados y malhumorados, levantaban las tapas de los callejones. Luego las persianas de metal subían una por una en la Almendra, los autobuses empezaban a escupir trabajadores en Calle Corona y el olor del pan de la mañana se mezclaba con el escape de los coches que todavía llevaban la noche pegada en los asientos. Más arriba, hacia Cuesta Bonita, las ventanas se abrían sin ruido y la ciudad fingía que el día empezaba limpio.
 

@@ -55,3 +55,4 @@ Decisiones compactas para relevo. No reemplaza `log.md`.
 - En el primer encuentro del Monarch, Cole viste traje azul ajustado con tenis blancos; Chiara viste blusa roja sin mangas, pantalon de vestir negro, tacones rojos y abrigo corto de felpa blanco, con el cabello en chongo y gargantilla visible.
 - Origen real de Cole fijado: Noruega. En prosa temprana no explicarlo; sembrarlo por rasgos nordicos y por el hueco de papeles falsos.
 - Ruth y Dale Mercer estan enterrados en Santa Lucia. Cole toma una rosa blanca del ramo de Michael para Ruth y evita tocar la tumba de Dale.
+- (2026-08-26) Continuidad temporal: los Capitulos 1 y 2 ocurren en domingo; el Capitulo 3 abre en lunes. La reunion de Cole con Keene ocurre la manana del domingo, no por la tarde.
