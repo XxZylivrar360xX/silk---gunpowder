@@ -66,9 +66,7 @@ No hubo respuesta en diez minutos.
 
 Chiara apagó el cigarro contra el borde de piedra de la entrada, se dijo que estaba bien, que no había esperado nada distinto, y volvió adentro con la cara que ya sabía poner para que nadie notara la diferencia.
 
----
-
-## Volare
+***
 
 Adentro, la banda terminó una canción y el cantante tomó el micrófono con esa ceremonia particular de quien está a punto de anunciar algo que cree más importante de lo que es.
 
@@ -102,9 +100,7 @@ Era la segunda vez esa noche.
 
 Y dos veces, para alguien que llevaba una vida entera contando cosas, ya no era casualidad.
 
----
-
-## Las calcetas blancas
+***
 
 Dario Valcora estaba saliendo cuando ella volvió a entrar.
 
@@ -150,9 +146,7 @@ El portero, resignado o simplemente cansado, los dejó pasar.
 
 Ésta ya no fue un pensamiento suelto ni una canción prestada. Ésta fue la tercera vez esa noche, y era él, entero, cruzando la puerta.
 
----
-
-## El ladrillo
+***
 
 Adentro, entre el ruido de la fiesta y la gente vestida exactamente igual, Chiara se apartó con Cole a un rincón donde nadie más estaba escuchando.
 
@@ -220,9 +214,7 @@ No era una promesa grande. No tenía adornos. Era, simplemente, un hecho — la 
 
 Chiara se quedó con el ladrillo todavía en las manos, viéndolo irse por donde había entrado, tan mal vestido y tan seguro de sí mismo como cuando llegó.
 
----
-
-## La calle
+***
 
 Volvió a la mesa de Blake con el ladrillo escondido en el bolso, como quien esconde una prueba.
 

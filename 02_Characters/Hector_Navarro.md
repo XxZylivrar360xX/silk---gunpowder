@@ -31,6 +31,7 @@ En el taller, Héctor funciona como filtro humano: Cole puede delegarle el visto
 ## Lo que ya hizo en canon
 
 - **[[06_Relationships/Hitos]], H3-b** — llega con Cole, Nadir y Danny a Gabriella's, vestido de calle en una fiesta de blanco.
+- **[[06_Relationships/Hitos]], H12, el corral** — le toca el turno de guardia la segunda noche que Chiara está hospitalizada. A solas con ella, dormida, le habla en voz baja de su propio miedo a encariñarse a esta edad y de cuánto ya quiere a Chiara sin habérselo propuesto — primer asomo, sin nombrarlo todavía, de lo que en H10 se vuelve explícito con Cole. Ella nunca lo oye; Cole tampoco sabe que pasó.
 - **[[06_Relationships/Hitos]], H10** — sufre un infarto y pasa una semana en cama/hospital. Chiara lo encuentra caído en el portón (había ido a buscar a Cole). Se convierte, sin que nadie se lo pida, en **el hombre que empuja a Cole y a Chiara el uno hacia el otro** — les habla por separado de lo que están empezando a sentir y le quita a cada uno la excusa con la que se estaba frenando. Ver esa entrada para el detalle completo.
 - **[[06_Relationships/Hitos]], H1** — **de todos los hombres que Cole sacó de la operación imposible, Navarro fue el único que se dio cuenta de que volvía herido. Y lo dejó irse solo a casa.**
 

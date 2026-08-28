@@ -410,9 +410,15 @@ La noche en que todo cambia es **la única noche del libro en que no puede condu
 
 ## El ataque
 
-Chiara está montando a caballo — probablemente en [[05_Locations/Bellandi_Ridge_Vineyards]], sus viñedos en el norte; **PENDIENTE** confirmar el lugar exacto. Al cerrar el corral, recibe un golpe. Uno solo. Nada más — no hay forcejeo largo, no hay segunda agresión. No despierta hasta el hospital.
+Chiara está montando a caballo en [[05_Locations/Bellandi_Ridge_Vineyards]], sus viñedos en el norte. Al cerrar el corral, recibe un golpe. Uno solo. Nada más — no hay forcejeo largo, no hay segunda agresión. No despierta hasta el hospital.
 
 > **Restricción de escritura:** el atacante no se identifica ni se sugiere en la escena. Ni Chiara ni el lector deben saber quién fue. Se deduce después, sin pruebas, en H13.
+
+> **CANON DEL AUTOR (2026-08-28):** Cole recibe una llamada desde el celular de Chiara — pero contesta un hombre desconocido, que hace preguntas sueltas tratando de deducir sus movimientos ("¿ella sale mucho los domingos?") y cuelga sin identificarse. **Restricción:** esta llamada no revela nada del atacante — ni motivo, ni nombre, ni afiliación. Es puro desasosiego, no pista. Cole marca directo a Chiara: buzón de voz inmediato.
+
+Entra armado al Monarch (domingo, cerrado) y lo recorre entero — vacío. Sube al penthouse — también vacío — y ahí ve las botas de montar de Chiara junto a la puerta, lo que le recuerda que monta los domingos. Conduce a [[05_Locations/Bellandi_Ridge_Vineyards]] en su Audi A7 negro (segundo auto — señal muda de que el negocio prospera) y encuentra a **Vento** suelto a mitad del estacionamiento de visitas. La sigue llamando por su nombre sin respuesta — está inconsciente, no puede contestar. **Aquí es donde se ve el soldado:** actúa bajo presión con calma entrenada, llama a emergencias con voz firme, no le tiembla nada por fuera — mientras por dentro se quiebra, sosteniendo en los brazos a la mujer que le importa sin saber todavía si llegó a tiempo. Ejecutado en el Capítulo 9.
+
+> **Dato de la escena de hospital:** el teléfono de Chiara nunca aparece — la única cosa que falta del bolso, y la que menos sentido tiene que se hayan llevado si esto fue un robo. Encaja con que fue el atacante quien llamó a Cole desde ahí.
 
 ## Lo que hace Cole mientras ella está inconsciente — CANON DEL AUTOR (2026-08-27)
 
@@ -448,7 +454,7 @@ Lo que más importa no son los objetos: es la cotidianidad. El lugar deja de ser
 
 ## Pendientes
 
-> **PENDIENTE:** ubicación exacta del ataque (¿Bellandi Ridge Vineyards, o un lugar nuevo?) y gravedad médica — cuánto tiempo pasa hospitalizada.
+> **PENDIENTE:** gravedad médica exacta — cuánto tiempo pasa hospitalizada (el Capítulo 9 dice "dos o tres días de observación", queda como base salvo que se decida ajustar).
 
 > **PENDIENTE:** cuánto tiempo dura la estancia en la casa común antes de que Cole decida recomprar.
 

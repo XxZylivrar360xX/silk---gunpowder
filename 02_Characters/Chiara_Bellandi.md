@@ -96,7 +96,9 @@ Y fíjate en la técnica, que es la suya de siempre: **nunca discute el hecho.**
 
 ### El apellido que no usa
 
-Su padre es **Corrado Ardizzone**. Su madre, **Marta Bellandi**, se murió cuando Chiara tenía diecinueve, y ése fue el año en que dejó de firmar con el apellido del padre. Nadie se lo pidió y nadie se atrevió a comentarlo.
+Su padre es **Corrado Ardizzone**. Su madre, **Marta Bellandi**, murió de un fallo cardíaco cuando Chiara tenía diecinueve — silencioso, sin aviso previo, de los que nadie ve venir porque nadie estaba vigilando ese corazón en particular — y ése fue el año en que dejó de firmar con el apellido del padre. Nadie se lo pidió y nadie se atrevió a comentarlo.
+
+> **CANON DEL AUTOR (2026-08-28):** el origen cardíaco de la muerte de Marta es la razón real detrás de lo insistente que Chiara se pone con Héctor después de su infarto ([[06_Relationships/Hitos]], H10) — no es preocupación genérica, ya vivió perder a alguien así una vez, sin poder hacer nada. Por eso le exige que tome su medicamento y que no se salte revisiones: no está siendo controladora, está tratando de que la historia no se repita. Restricción de diseño: ella no tiene por qué explicarle esto a Héctor con detalle — se filtra en la insistencia, no en un discurso.
 
 **Y para [[03_Factions/Il_Consorzio]], ese apellido no es un dato: es una posición en un mapa que se dibujó antes de que ella naciera.** Mientras sea joven, firmar Bellandi es una excentricidad tolerable. Deja de serlo el día en que Chiara empieza a **construir poder como Bellandi y no como Ardizzone** — porque entonces la firma deja de ser estética y **se vuelve una declaración política.** Ver [[04_Concepts/Quien_Decide_Quien_Soy]].
 
@@ -112,13 +114,15 @@ Y también vio la otra mitad: que el mundo de su padre fue lo que se llevó a su
 
 De ahí sale entera: Chiara sabe exactamente cuánto cuesta quedarse, y se queda igual. **Eso no es ingenuidad, es su forma de valentía**, y es lo único de ella que no es técnica. El cambio de apellido no fue rechazar al padre: fue quedarse con la parte de la herencia que quería y dejarle la otra a él, con la firma como reproche permanente.
 
-**CANON DEL AUTOR (2026-08-23):** los federales destruyeron la estabilidad final de esa casa en una redada contra Corrado. Corrado murió, y por burocracia de investigación Chiara no pudo verlo ni enterrarlo cuando tenía derecho a hacerlo.
+**CANON DEL AUTOR (2026-08-23):** los federales destruyeron la estabilidad final de esa casa en una redada contra Corrado. Corrado murió, y por burocracia de investigación Chiara no pudo verlo ni enterrarlo cuando tenía derecho a hacerlo — **su cuerpo nunca llegó a descansar junto al de Marta**, y ésa es una cuenta que Chiara paga sola cada aniversario, sin que nadie en San Aurelio lo sepa.
 
 La culpa de fondo era del [[03_Factions/Il_Consorzio]]: el Consorcio puso las condiciones, los intereses y la trampa. Pero la mano visible fue federal.
 
 > **Para Chiara, los federales no representan justicia. Representa el día en que una institución le explicó que su duelo era evidencia.**
 
 Eso no vuelve inocente a Corrado ni convierte a los federales en villanos simples. Vuelve personal cualquier entrada de la [[03_Factions/Fuerza_de_Tarea_Meridian]] a San Aurelio.
+
+**CANON DEL AUTOR (2026-08-28):** tras la muerte de ambos padres, quien la crió en todo menos el nombre fue **Ettore**, un amigo de Corrado que se quedó cuando nadie más se quedó. Chiara sigue escribiéndole cartas reales desde San Aurelio — el único hilo con Palermo que no administra como el resto de su vida. Ettore le pregunta por el casino y espera, sin exigirlo nunca, que ella le cuente algo de sí misma. Ver [[02_Characters/Ettore]].
 
 ### Lo que aprendió en esa casa, y lo que ha estado buscando desde entonces
 

@@ -27,6 +27,8 @@ Laderas secas, hileras de vid, una casa baja de estuco claro, cocina amplia, bod
 
 Por la mañana huele a tierra caliente y hojas. De noche, las luces de San Aurelio quedan lejos, como si la ciudad fuera otro país.
 
+Tiene un establo pequeño con un solo caballo, **Vento**, que Chiara monta sola cuando necesita tierra y no gente. Ver [[06_Relationships/Hitos]], H12 — es en ese corral donde la atacan.
+
 ---
 
 ## Relación con el poder
