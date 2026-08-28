@@ -168,6 +168,8 @@ La primera declaración de él se pierde en un cuarto de hospital. La declaraci�
 - No salvarla por milagro abstracto: médicos, tiempo, daño físico y secuelas deben pagar la escena.
 - El atentado de los frenos necesita consecuencia de investigación: Camila, la policía, Cole o Chiara deben detectar que no fue falla común.
 
+> **RESUELTO (2026-08-28):** compra limpia — Cole compra participación minoritaria en [[03_Factions/Villani_Motors]], concesionario de importación, sin deuda ni presión de por medio. El auto es un **sedán Lancia, discreto, nada deportivo** — lujo que no grita, coherente con el gusto de Chiara. Falta escribir la escena de compra en sí, y decidir si antecede o sigue al jacuzzi de H5 (beat 11).
+
 ---
 
 ## F4 - Año Nuevo en Washington

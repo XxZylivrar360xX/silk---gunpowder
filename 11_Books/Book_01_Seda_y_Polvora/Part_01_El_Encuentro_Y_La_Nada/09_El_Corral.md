@@ -2,8 +2,8 @@
 Estado: borrador provisional.
 Protagonistas: Chiara Bellandi, Cole Mercer, con apariciones de Nadir Amrani y personal del hospital.
 Ventana temporal: semanas despues del Capitulo 8 (la noche del ladrillo). Todavia no hay primer beso.
-Lugares: Bellandi Ridge Vineyards, Hospital Santa Aurelia, Casa Comunitaria de La Almendra.
-Funcion: ejecutar la primera mitad de H12 -- el ataque. Cole recibe una llamada desde el celular de ella, contestada por un desconocido que tantea su paradero y cuelga sin decir nada util. Buzon de voz al llamarla directo. Entra armado al Monarch (domingo, cerrado), lo recorre vacio, sube al penthouse, tambien vacio, ve las botas de montar y recuerda que ella monta los domingos. Llega a Bellandi Ridge en su Audi A7 (segundo auto), encuentra a Vento suelto en el estacionamiento de visitas, la halla inconsciente junto al corral -- repite su nombre sin respuesta. Aqui se ve al soldado: calma entrenada por fuera, quiebre por dentro. Luego la investigacion fallida de Cole, el traslado a la casa comun. El atacante no se identifica ni se sugiere.
+Lugares: Hipodromo del Monarch (propiedad del casino), Hospital Santa Aurelia, Casa Comunitaria de La Almendra.
+Funcion: fusiona H12 y el arranque de H5 -- el ataque ocurre en el hipodromo del Monarch, no en Bellandi Ridge. Cole recibe una llamada desde el celular de ella, contestada por un desconocido que tantea su paradero y cuelga sin decir nada util. Buzon de voz al llamarla directo. Entra armado al Monarch (domingo, cerrado), lo recorre vacio, sube al penthouse, tambien vacio, ve las botas de montar y recuerda que ella monta los domingos. Baja al hipodromo (misma propiedad, no hace falta auto), encuentra a Vento suelto, la halla inconsciente junto al corral -- repite su nombre sin respuesta, la sube el mismo al Audi y la lleva al hospital (nunca llama ambulancia -- el conduce, siempre). Aqui se ve al soldado: calma entrenada por fuera, quiebre por dentro. Investiga y secuestra sin exito a un sospechoso. Encanonamiento con Dario en el cuarto de hospital -- tregua. Cole omite la llamada, arma coartada. Dario la prueba con los dos juntos el dia del alta, sin creerla del todo. Traslado a la casa comun; turnos de guardia ordenados por Cole, Nadir a regañadientes pero cooperante. El atacante no se identifica ni se sugiere.
 -->
 
 # Capítulo 9 — El corral
@@ -20,13 +20,13 @@ Y como si el calendario quisiera demostrar algo, esa misma semana Tommaso escrib
 
 Fue el colmo. No porque Alessio todavía doliera de la forma en que duele extrañar a alguien — sino porque sentarse a planear un homenaje para el hombre que más daño le había hecho en la vida, un infierno que vivió en Roma y que el mundo entero decidió no escuchar, mientras cargaba en silencio el aniversario de su madre y el padre que no tenía dónde visitar, mientras evitaba al único hombre con el que en meses había querido ser sincera de verdad, era más de lo que un fin de semana en San Aurelio podía sostener.
 
-Por eso se había ido a la tenuta ese fin de semana. A la tierra que llevaba el apellido de su madre. Necesitaba tierra, no gente.
+Por eso, ese domingo, en vez de contestar cualquier mensaje, bajó sola al hipódromo del Monarch. Necesitaba tierra, no gente — y ahí, entre las caballerizas que administraba pero que nunca sentía completamente suyas, al menos tenía a Vento.
 
 ***
 
-Bellandi Ridge olía a tierra caliente y a hojas, como siempre a esa hora, con el sol ya bajando detrás de las hileras de vid y los cipreses parados como si llevaran ahí toda la vida en vez de los pocos años que llevaban. Había montado hasta que le dolieron las piernas, sin rumbo, sólo por el gusto de moverse sin que nadie le pidiera una versión de nada.
+El hipódromo olía a paja y a cuero, con la tarde de domingo tan vacía como sólo puede estarlo una propiedad del casino cuando el casino mismo está cerrado. Había montado hasta que le dolieron las piernas, sin rumbo, sólo por el gusto de moverse sin que nadie le pidiera una versión de nada.
 
-Volvió al establo cuando ya casi no había luz. Desensilló a Vento, lo cepilló más rato del necesario, y salió al corral a cerrar el portón de madera antes de subir a la casa.
+Volvió a las caballerizas cuando ya casi no había luz. Desensilló a Vento, lo cepilló más rato del necesario, y salió al corral a cerrar el portón de madera antes de subir de vuelta al penthouse.
 
 Cerró el portón con las dos manos y se quedó un momento apoyada en él, dejando que el cansancio del cuerpo tapara, por un rato, el otro cansancio. El día había sido gris por dentro aunque el cielo no lo pareciera — un padre sin tumba, una madre sin nadie a quien nombrarle el aniversario, un homenaje ajeno que no podía rechazar sin explicar por qué. Después de un día así, lo único que quería era oír la voz de alguien que no le pidiera editarse antes de hablar.
 
@@ -86,11 +86,11 @@ Corrió.
 
 ***
 
-Condujo hasta Bellandi Ridge en el Audi A7 negro — el segundo auto que se había comprado ese año, la clase de coche que un hombre adquiere cuando el negocio empieza a sobrarle dinero en vez de faltarle —, tomando curvas para las que el auto no estaba pensado, y encontró el portón de visitas abierto, sin nadie en la caseta.
+No hizo falta el auto. Bajó por las escaleras de servicio hasta la parte trasera del complejo, donde el asfalto del casino se rendía y empezaba la tierra apisonada del hipódromo.
 
-A Vento lo vio primero — parado a mitad del estacionamiento, solo, con las riendas colgando y esa quietud incómoda de un animal que sabe que algo salió mal y no tiene manera de decirlo.
+A Vento lo vio primero — parado a mitad del estacionamiento de las caballerizas, solo, con las riendas colgando y esa quietud incómoda de un animal que sabe que algo salió mal y no tiene manera de decirlo.
 
-Cole bajó del auto sin terminar de apagarlo. Habló bajo, tomó las riendas sin apurar al caballo, y avanzó hacia el establo llamándola por el nombre, primero normal y después más fuerte, sin que nadie contestara.
+Habló bajo, tomó las riendas sin apurar al caballo, y avanzó hacia el establo llamándola por el nombre, primero normal y después más fuerte, sin que nadie contestara.
 
 La encontró junto al portón del corral, en el suelo.
 
@@ -104,11 +104,11 @@ Nada.
 
 Ató a Vento al primer poste que encontró — rápido, sin ceremonia — y se arrodilló junto a ella. Respiraba. Tenía pulso. No la movió más de lo necesario; algo en el ángulo de la cabeza le dijo que moverla era la peor idea posible.
 
-Y ahí, con las manos ocupadas en algo útil, Cole hizo lo que sabía hacer mejor que casi cualquier otra cosa: convertirse en alguien capaz. La misma calma que lo había mantenido con vida en otro país, en otra vida, se le acomodó encima como un uniforme que todavía le quedaba. Llamó a emergencias con voz firme, dio la dirección sin dudar, describió lo que veía sin adornarlo. Por fuera no le tembló nada.
+Y ahí, con las manos ocupadas en algo útil, Cole hizo lo que sabía hacer mejor que casi cualquier otra cosa: convertirse en alguien capaz. La misma calma que lo había mantenido con vida en otro país, en otra vida, se le acomodó encima como un uniforme que todavía le quedaba.
 
-Por dentro se estaba partiendo en dos, sosteniendo en los brazos a la única persona que en años había logrado importarle así, sin saber todavía si el segundo golpe de esa noche no iba a ser encontrarla demasiado tarde.
+No esperó ninguna sirena. La levantó con el cuidado exacto que la nuca le exigía, la subió al Audi A7 que había dejado con el motor encendido junto a la entrada de carga, y condujo hacia el Santa Aurelia como si las calles de San Aurelio le debieran algo — sujetando el volante con una mano y con la otra buscando, cada pocos segundos, el pulso en su cuello, sin que le temblara nada por fuera.
 
-No la soltó hasta que oyó la sirena.
+Por dentro se estaba partiendo en dos, sosteniendo junto a él, en el asiento del copiloto, a la única persona que en años había logrado importarle así, sin saber todavía si el segundo golpe de esa noche no iba a ser llegar demasiado tarde.
 
 ***
 
@@ -128,23 +128,111 @@ Se quedó callado un momento, todavía con la mano de ella entre las suyas.
 
 No dijo nada más. No hacía falta — el nombre solo, dicho así, ya era más de lo que Cole se permitía decir en voz alta casi nunca.
 
+***
+
+No podía quedarse sentado. Le pidió a Héctor que llegara a cubrirlo — nadie más en quien confiara tanto sin tener que explicarle por qué — y salió a resolver, porque no sabía estar quieto en un pasillo mientras alguien seguía libre por ahí afuera.
+
+Tenía un nombre, apenas — un guardia de las caballerizas que se había ido temprano ese domingo sin avisar, algo que a cualquier otro le habría parecido nada. Lo encontró, lo metió al asiento trasero de una camioneta prestada, y le hizo las preguntas que hacía cuando de verdad quería una respuesta.
+
+No sacó nada. El hombre no sabía nada, o sabía mentir mejor de lo que Cole esperaba, y después de una hora larga entendió que estaba a punto de hacerle daño a alguien que probablemente no se lo merecía. Lo soltó a dos calles del hipódromo, sin explicaciones, y volvió al hospital con las manos vacías y algo parecido a vergüenza pisándole los talones.
+
+No fue un buen momento de su vida. No se lo contó a nadie, y no encontró forma de estar orgulloso de eso ni esa noche ni después.
+
+***
+
+Cuando abrió la puerta del cuarto 221, Dario Valcora estaba de pie junto a la cama, mirando a Chiara dormir con la clase de atención que un hombre no le presta a algo que sólo le importa como activo.
+
+Cole no preguntó cómo había entrado.
+
+—Señor Mercer.
+
+—Señor Valcora.
+
+—Me tomé la libertad de venir a ver cómo estaba mi gente.
+
+—Su gente está sedada. No necesita compañía.
+
+Dario no se movió de donde estaba.
+
+—Curioso. Nadie me avisó del incidente hasta esta mañana, y ya estaba pasado el mediodía. Para cuando llegué, usted ya la había traído, ya había hablado con los médicos, y ya se le había ocurrido interrogar a uno de mis empleados sin mi permiso.
+
+—No es su empleado. Trabaja para el hipódromo.
+
+—El hipódromo es mío.
+
+El silencio que siguió tuvo el peso exacto de dos hombres midiendo hasta dónde estaba dispuesto a llegar el otro.
+
+—Voy a preguntarle una vez, con la cortesía que se merece la situación —dijo Dario—. ¿Qué sabe usted de lo que le pasó a Chiara que yo no sé?
+
+—Lo mismo que usted. Nada.
+
+—No le creo.
+
+—No me importa.
+
+Fue Dario quien sacó el arma primero — despacio, casi ceremonial, como quien corrige un malentendido de protocolo más que amenaza a un hombre. Cole tuvo la suya afuera antes de que la de Dario terminara de subir.
+
+Se apuntaron sobre la cama de un hospital, con Chiara sedada entre los dos, sin que ninguno bajara la voz lo suficiente como para no oírse.
+
+—Si usted tuvo algo que ver con esto —dijo Cole—, no va a salir de este cuarto.
+
+—Y si fue usted quien la puso en peligro con lo que sea que esté metido, **yo** no voy a dejar que salga de esta ciudad.
+
+Ninguno de los dos disparó. Ninguno de los dos bajó el arma tampoco, no de inmediato — se quedaron así, dos hombres midiéndose sobre el cuerpo de la única persona que a ambos, por razones que no compartían, les importaba de verdad.
+
+Fue Dario quien cedió el gesto primero, aunque no la sospecha.
+
+—Una tregua, entonces. —Bajó el arma, despacio—. Usted averigua lo que pueda desde su lado. Yo desde el mío. Y nos mantenemos al tanto de sus movimientos, para que esto no vuelva a pasar.
+
+Cole bajó la suya un segundo después, sin que le temblara la mano.
+
+—Trato.
+
+Fue en ese momento, y no antes, cuando Cole decidió no mencionar la llamada. No fue una decisión meditada — fue puro reflejo, el mismo instinto que lo hacía guardarse cualquier información que todavía pudiera servirle de algo. Le dijo a Dario que había estado en el taller, que volvió y la encontró tirada en las caballerizas, y que no tenía ni idea de cuánto tiempo llevaba ahí.
+
+Dario lo miró un momento de más, como quien archiva algo para después.
+
+—Que se mejore pronto —dijo, mirando hacia la cama, no hacia Cole—. San Aurelio la necesita entera.
+
+Y se fue sin despedirse del todo.
+
+***
+
 Chiara despertó pasada la medianoche, desorientada, con la clase de mirada de alguien que está reconstruyendo el mundo pieza por pieza y todavía no confía en el resultado.
 
 —No me acuerdo de nada. —Lo dijo primero en italiano, después se corrigió, molesta consigo misma—. Estaba cerrando el corral. Y después estaba aquí.
 
 —Está bien.
 
-—No está bien. —Se llevó una mano a la nuca y encontró el vendaje, y algo en su cara se endureció, como si el dolor físico le molestara menos que no tener una respuesta—. Alguien me golpeó en mi propia tierra y no sé quién.
+—No está bien. —Se llevó una mano a la nuca y encontró el vendaje, y algo en su cara se endureció, como si el dolor físico le molestara menos que no tener una respuesta—. Alguien me golpeó en las caballerizas y no sé quién.
 
 Cole no le prometió que lo iba a averiguar. Prefería prometer cosas que pudiera cumplir.
 
-—Duerme —dijo—. Yo me quedo.
+—Dario estuvo aquí —dijo, en cambio, en voz baja—. Le dije que estaba en el taller, que volví y te encontré así. Nada más.
+
+Chiara tardó un segundo en procesarlo, todavía con la cabeza pesada por los sedantes.
+
+—¿Te creyó?
+
+—No del todo.
+
+—Entonces tenemos que estar de acuerdo en la misma mentira.
+
+—Duerme —dijo—. Ya nos preocupamos de eso después. Yo me quedo.
 
 Ella lo miró un momento más de lo necesario, y por primera vez desde que Cole la conocía, no dijo nada ingenioso ni calculado. Sólo cerró los ojos.
 
 ***
 
-Los chicos armaron un turno sin que nadie lo propusiera en voz alta. Nadir el primero, después Omar, después Danny cuando Danny estaba en condiciones de sostener una conversación con una enfermera sin que resultara en un problema nuevo. Alguien tenía que quedarse con Cole en el cuarto 221, no porque Cole lo pidiera — nunca lo pedía — sino porque si no lo obligaban a bajar a comer o a bañarse, sencillamente no lo iba a hacer. No se despegaba de ese cuarto ni para lo mínimo, y el barrio entero pareció entenderlo sin que nadie tuviera que explicarlo.
+Los turnos los organizó Cole mismo, la mañana siguiente, con la misma voz que usaba para repartir trabajo en el taller — no era una petición. Nadir el primero, después Omar, después Danny cuando Danny estaba en condiciones de sostener una conversación con una enfermera sin que resultara en un problema nuevo. Alguien tenía que quedarse con Cole en el cuarto 221, no porque Cole lo pidiera para sí mismo — nunca pedía nada para sí mismo — sino porque si no lo obligaban a bajar a comer o a bañarse, sencillamente no lo iba a hacer.
+
+—¿Y si tengo cosas que hacer? —preguntó Nadir, cruzado de brazos, sin decir que no.
+
+—Entonces las haces después.
+
+Nadir masculló algo en árabe que no sonó a bendición, pero a la mañana siguiente ya estaba en el pasillo del Santa Aurelia con un café de más en la mano, sin que nadie tuviera que recordárselo dos veces. Refunfuñaba cada turno que le tocaba, y cumplía cada turno que le tocaba, y entre las dos cosas Cole nunca tuvo que elegir cuál de las dos creerle.
+
+No se despegaba de ese cuarto ni para lo mínimo, y el barrio entero pareció entenderlo sin que nadie tuviera que explicarlo.
 
 Le tocó a Héctor la noche del segundo día.
 
@@ -168,13 +256,11 @@ Afuera, en el pasillo, Cole volvía con dos cafés de máquina, sin saber que se
 
 ***
 
-Los días siguientes, entre los turnos que le compraban a Cole una hora aquí y otra allá para comer o dormir algo parecido a dormir, Cole preguntó.
+Los días siguientes, entre los turnos que le compraban a Cole una hora aquí y otra allá para comer o dormir algo parecido a dormir, Cole siguió preguntando — con más cuidado esta vez, después de lo del guardia.
 
-Fue a la tenuta y habló con el capataz, con el chico que llevaba los caballos, con la mujer que hacía la limpieza dos veces por semana. Nadie había visto nada. No había cámaras en el establo — la finca era demasiado pequeña, demasiado propia, para pensar que necesitara vigilarse a sí misma. Revisó el camino de tierra que llevaba a la carretera, buscando huellas de llantas que no fueran las de siempre, y encontró exactamente lo que esperaba encontrar: nada que sirviera.
+Volvió al hipódromo y habló con quien no había podido detener esa primera noche: los otros mozos de cuadra, la mujer que llevaba la contabilidad del lugar, el par de veterinarios que rotaban las visitas. No había cámaras en las caballerizas — nunca las había habido, porque hasta ese domingo a nadie se le había ocurrido que hicieran falta. Revisó los accesos, buscando algo que no encajara, y encontró exactamente lo que esperaba encontrar: nada que sirviera.
 
-Preguntó en el barrio, con la discreción que usaba para preguntar por cualquier cosa que le importara de verdad. Nadie sabía nada, y en la Almendra eso significaba algo — porque en la Almendra alguien siempre sabía algo.
-
-No presionó a nadie del Monarch. No llamó a Darío. No tenía con qué, y presionar sin nada que ofrecer a cambio era la clase de error que dejaba deudas donde antes no había ninguna.
+Con Dario mantuvo la tregua tal como habían quedado — le pasaba lo poco que encontraba, y Dario, por su parte, le confirmó que su propio hombre tampoco había sacado nada. Ninguno de los dos dijo en voz alta que no confiaba del todo en lo que el otro estaba compartiendo.
 
 Al cuarto día tuvo que aceptar lo que ya sabía: no había pista. La había buscado en todos los sitios donde sabía buscar, y todos los sitios estaban vacíos. Lo guardó, sin cerrarlo, de la misma manera en que guardaba todo lo que no podía arreglar todavía.
 
@@ -182,7 +268,35 @@ Al cuarto día tuvo que aceptar lo que ya sabía: no había pista. La había bus
 
 Le dieron de alta al tercer día con instrucciones de reposo y una advertencia sobre no forzar la memoria — iba a volver sola, o no iba a volver, y presionarla no iba a acelerar nada.
 
-—Vuelvo a la tenuta —dijo Chiara, en el auto, con la voz de alguien que ya había decidido antes de que se lo preguntaran.
+Dario llegó antes de que terminaran de firmar el papeleo.
+
+—Signora Bellandi. —Sonrió, la clase de sonrisa que no le llegaba a los ojos—. Qué alivio verla de pie.
+
+—Señor Valcora. Gracias por la preocupación.
+
+—Cole me cuenta que estaba en el taller cuando pasó, y que la encontró al volver.
+
+—Así es —dijo Chiara, sin dudar el tiempo justo para que la duda no se notara—. No recuerdo nada de antes del golpe. Sólo que estaba cerrando el corral.
+
+Dario los miró a los dos, uno y después el otro, con la atención de un hombre que hace inventario.
+
+—Qué casualidad que Cole llegara tan pronto, sin que nadie lo llamara.
+
+—No fue casualidad —dijo Cole—. Fue que no contestaba el teléfono, y con ella eso nunca es buena señal.
+
+—Claro. —Dario se ajustó el puño de la camisa, sin prisa—. Bueno. Mi hombre sigue investigando. El suyo, imagino, también. —Miró a Chiara una última vez—. Cuídese, signora. San Aurelio la necesita entera, y con la cabeza donde debe estar.
+
+Se fue sin esperar respuesta.
+
+Chiara esperó a que el elevador se cerrara detrás de él antes de soltar el aire que llevaba conteniendo.
+
+—No nos creyó.
+
+—No del todo —dijo Cole—. Pero tampoco puede probar que mentimos, y por ahora es lo único que tenemos.
+
+***
+
+—Vuelvo al penthouse —dijo Chiara, ya en el auto, con la voz de alguien que ya había decidido antes de que se lo preguntaran.
 
 —No.
 
@@ -190,11 +304,7 @@ Ella lo miró.
 
 —No es una discusión, Cole.
 
-—Alguien te golpeó ahí y nadie vio nada. —Cole no levantó la voz. No hacía falta—. Vuelves y estás sola otra vez, en el mismo sitio, con la misma gente que no vio nada la primera vez.
-
-—¿Y el penthouse?
-
-—Es tuyo, pero lo conoce todo San Aurelio. Cualquiera con una reservación en el Monarch sabe en qué piso vives.
+—Alguien te golpeó en propiedad del Monarch y nadie vio nada. —Cole no levantó la voz. No hacía falta—. Vuelves ahí y sigues siendo la mujer más fácil de encontrar de toda la ciudad. Cualquiera con una reservación sabe en qué piso vives, y ahora también sabe que estuviste sola y que alguien pudo entrar sin que nadie se enterara.
 
 Chiara no contestó enseguida, y Cole entendió que estaba haciendo la cuenta que él ya había hecho: no había un tercer lugar obvio. Sólo el que él estaba a punto de ofrecerle.
 

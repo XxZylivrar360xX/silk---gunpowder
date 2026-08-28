@@ -410,23 +410,27 @@ La noche en que todo cambia es **la única noche del libro en que no puede condu
 
 ## El ataque
 
-Chiara está montando a caballo en [[05_Locations/Bellandi_Ridge_Vineyards]], sus viñedos en el norte. Al cerrar el corral, recibe un golpe. Uno solo. Nada más — no hay forcejeo largo, no hay segunda agresión. No despierta hasta el hospital.
+Chiara está montando a caballo en el hipódromo del Monarch, propiedad del casino — **no en Bellandi Ridge**, decisión revisada el 2026-08-28 para fusionar este hito con el arranque de H5 (ver nota más abajo). Al cerrar el corral, recibe un golpe. Uno solo. Nada más — no hay forcejeo largo, no hay segunda agresión. No despierta hasta el hospital.
 
 > **Restricción de escritura:** el atacante no se identifica ni se sugiere en la escena. Ni Chiara ni el lector deben saber quién fue. Se deduce después, sin pruebas, en H13.
 
-> **CANON DEL AUTOR (2026-08-28):** Cole recibe una llamada desde el celular de Chiara — pero contesta un hombre desconocido, que hace preguntas sueltas tratando de deducir sus movimientos ("¿ella sale mucho los domingos?") y cuelga sin identificarse. **Restricción:** esta llamada no revela nada del atacante — ni motivo, ni nombre, ni afiliación. Es puro desasosiego, no pista. Cole marca directo a Chiara: buzón de voz inmediato.
+> **CANON DEL AUTOR (2026-08-28):** Cole recibe una llamada desde el celular de Chiara — pero contesta un hombre desconocido, que hace preguntas sueltas tratando de deducir sus movimientos ("¿ella sale mucho los domingos? Me da la impresión de que le gusta estar sola") y cuelga sin identificarse. **Restricción:** esta llamada no revela nada del atacante — ni motivo, ni nombre, ni afiliación. Es puro desasosiego, no pista. **La frase "me da la impresión de que le gusta estar sola" queda marcada como eco pendiente — candidata a que Dario la repita, sin saberlo, en una escena futura con ella, sembrando sospecha real sin que el lector reciba una pista falsa.** Cole marca directo a Chiara: buzón de voz inmediato.
 
-Entra armado al Monarch (domingo, cerrado) y lo recorre entero — vacío. Sube al penthouse — también vacío — y ahí ve las botas de montar de Chiara junto a la puerta, lo que le recuerda que monta los domingos. Conduce a [[05_Locations/Bellandi_Ridge_Vineyards]] en su Audi A7 negro (segundo auto — señal muda de que el negocio prospera) y encuentra a **Vento** suelto a mitad del estacionamiento de visitas. La sigue llamando por su nombre sin respuesta — está inconsciente, no puede contestar. **Aquí es donde se ve el soldado:** actúa bajo presión con calma entrenada, llama a emergencias con voz firme, no le tiembla nada por fuera — mientras por dentro se quiebra, sosteniendo en los brazos a la mujer que le importa sin saber todavía si llegó a tiempo. Ejecutado en el Capítulo 9.
+Entra armado al Monarch (domingo, cerrado, llave de la entrada de servicio) y lo recorre entero — vacío. Sube al penthouse — también vacío — y ahí ve las botas de montar de Chiara junto a la puerta, lo que le recuerda que monta los domingos. Baja al hipódromo (misma propiedad, no hace falta auto) y encuentra a **Vento** suelto a mitad del estacionamiento de las caballerizas. La sigue llamando por su nombre sin respuesta — está inconsciente, no puede contestar. **Aquí es donde se ve el soldado:** actúa bajo presión con calma entrenada — mientras por dentro se quiebra, sosteniendo junto a él a la mujer que le importa sin saber todavía si llegó a tiempo. **No espera ambulancia: la sube él mismo al Audi A7 (segundo auto, señal muda de que el negocio prospera) y conduce al hospital — conduce él, siempre.** Ejecutado en el Capítulo 9.
 
 > **Dato de la escena de hospital:** el teléfono de Chiara nunca aparece — la única cosa que falta del bolso, y la que menos sentido tiene que se hayan llevado si esto fue un robo. Encaja con que fue el atacante quien llamó a Cole desde ahí.
 
-## Lo que hace Cole mientras ella está inconsciente — CANON DEL AUTOR (2026-08-27)
+## Lo que hace Cole mientras ella está inconsciente — CANON DEL AUTOR (2026-08-27, ampliado 2026-08-28)
 
-En el hospital, con el cuarto en silencio y Chiara todavía sin despertar, Cole le toma la mano y le dice, en voz baja: **"Te vas a mejorar, ¿vale? Eres la mujer más fuerte que tengo la dicha de haber conocido, y esto no te va a ganar la partida."** Después de una pausa, sólo: **"Chiara."** Ella no lo oye — es un momento sin testigos, y por eso es el único sitio del libro, hasta ahora, donde Cole dice algo así en voz alta sin que nadie se lo cobre ni se lo confirme. Ejecutado en el Capítulo 9 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Corral]]).
+En el hospital, con el cuarto en silencio y Chiara todavía sin despertar, Cole le toma la mano y le dice, en voz baja: **"Te vas a mejorar, ¿vale? Eres la mujer más fuerte que tengo la dicha de haber conocido, y esto no te va a ganar la partida."** Después de una pausa, sólo: **"Chiara."** Ella no lo oye — es un momento sin testigos, y por eso es el único sitio del libro, hasta ahora, donde Cole dice algo así en voz alta sin que nadie se lo cobre ni se lo confirme. Ejecutado en el Capítulo 9.
 
-Cole investiga por su cuenta, en paralelo a todo lo demás de este hito. **Ninguna pista llega a nada.** No hay enfrentamiento con Darío ni con nadie — ésa es la escalada reservada para H5, cuando Darío ya tenga motivo real para sospechar de él (ver nota de continuidad más abajo). Aquí Cole se queda con las manos vacías: preguntó, presionó, no encontró nada, y tuvo que aceptarlo sin resolverlo.
+Le pide a Héctor que lo cubra y sale a investigar un nombre — un guardia de las caballerizas que se fue temprano sin avisar. Lo secuestra, lo interroga, no saca nada útil, lo suelta. **Es un fracaso, y es feo — el libro no lo justifica.**
 
-> **Nota de continuidad (2026-08-27):** el enfrentamiento a mano armada entre Cole y Darío en el hospital sigue siendo exclusivo de H5 — ver [[02_Characters/Dario_Valcora]], "Lo que ya hizo contra ellos". En H12, Darío todavía no tiene motivo para sospechar nada entre ellos (apenas está en el beat 17, "nota una variación", pura curiosidad profesional). Moverlo aquí habría adelantado una escalada que necesita la base que el resto de H5 construye.
+Vuelve al cuarto y se encuentra con Dario Valcora, de pie junto a la cama sedada. **Se apuntan con sus armas, culpándose mutuamente de lo que le pasó a Chiara.** Llegan a una tregua: cada uno investiga por su lado y comparten lo que encuentren. Cole omite la llamada por reflejo — es información, y la información es una carta — y le da a Dario la primera versión oficial: estaba en el taller, volvió y la encontró en las caballerizas. Cuando Chiara despierta, Cole la pone al tanto antes de que vuelva a dormirse.
+
+El día del alta, Dario prueba la versión con los dos juntos — **"qué casualidad que Cole llegara tan pronto, sin que nadie lo llamara"** — y se va sin creerles del todo, pero sin poder probar nada tampoco.
+
+Ejecutado en el Capítulo 9. **Esto absorbe y ejecuta los beats 1-7 de H5 — ver nota de fusión al final de H5.**
 
 ## La casa común
 
@@ -1022,6 +1026,8 @@ Esa sonrisa es el centro del hito.
 
 # H5 — El hipódromo *(Arco de la tensión, parte 1)*
 
+> **FUSIÓN (2026-08-28):** los beats 1-7 de este hito (la llamada, el penthouse a punta de pistola, las caballerizas, el hospital, el secuestro fallido, el encañonamiento con Dario, la primera mentira) **quedan absorbidos por [[#H12 — El corral]], ya escrito en el Capítulo 9** — mismos beats, con el lugar corregido a hipódromo del Monarch (no Bellandi Ridge) para que las dos versiones dejen de contradecirse. El beat 8 (coartada del norte con cámaras) y el 9-10 (barrio, loft) también quedan cubiertos por lo ya escrito en los Capítulos 9 y 10. **Lo que sigue siendo material nuevo, sin escribir, es de los beats 11 en adelante** (jacuzzi, mensaje y salida de la ciudad, advertencia de Valcora, la peor noche) — ver nota de replanteamiento al final de esta sección.
+
 > **CANON DEL AUTOR (2026-08-23).** Primera parte del arco de mayor tensión de la novela. **Partes 2 y 3 por recibir.**
 
 Ocurre después de [[#H9 — La carrera de máscaras]].
@@ -1249,13 +1255,11 @@ Y **se pone la sudadera de Cole para aparentar que él está en casa.**
 
 ## Pendientes de H5
 
-> **PENDIENTE, PRIORITARIO:** **¿quién atacó a Chiara?** Queda en incógnita a propósito dentro del arco. La respuesta pertenece a las partes 2 y 3.
+> **REPLANTEAMIENTO (2026-08-28), PRIORITARIO:** el jacuzzi (beat 11) y la amenaza de Valcora (beat 13) ya no arrancan de la investigación del ataque del corral — llegan después, **detonados por un nuevo atentado: los frenos del auto de Chiara** (ver [[06_Relationships/Momentos_de_Fractura]], F3 — "Los frenos", donde Cole le dice *te amo* por primera vez a su cuerpo inconsciente). **RESUELTO:** el auto sale de una compra limpia — Cole compra participación en [[03_Factions/Villani_Motors]], concesionario de importación, y le consigue un sedán Lancia discreto, nada deportivo. Falta escribir esa escena de compra, y decidir el orden exacto: ¿los frenos primero y el jacuzzi como consecuencia (la vulnerabilidad post-susto), o el jacuzzi primero y los frenos como la traición que lo rompe todo?
 
-> **PENDIENTE:** el hipódromo, la casa comunitaria y el taller ilegal del norte necesitan entrada en `05_Locations/`.
+> **PENDIENTE, PRIORITARIO (heredado):** ¿quién atacó a Chiara en el hipódromo? Queda en incógnita a propósito. La respuesta pertenece a las partes 2 y 3.
 
-> **PENDIENTE:** el sospechoso que Cole secuestró. ¿Vuelve? Un hombre al que secuestraron por nada es una deuda pendiente en un libro donde las deudas vuelven.
-
-> **PENDIENTE:** ¿qué le dijo Cole a Chiara para explicar el traslado al barrio, y cuánto le contó del plan de las cámaras?
+> **PENDIENTE:** el sospechoso que Cole secuestró en el Capítulo 9. ¿Vuelve? Un hombre al que secuestraron por nada es una deuda pendiente en un libro donde las deudas vuelven.
 
 ---
 

@@ -119,10 +119,14 @@ La llegada de [[02_Characters/Elena_Vega]] es una consecuencia que Valcora subes
 
 ## Lo que ya hizo contra ellos — CANON
 
-Todo en [[06_Relationships/Hitos]], H5:
+**EJECUTADO en el Capítulo 9 (2026-08-28)**, con el lugar corregido a hipódromo del Monarch:
 
 - **Se apuntó con Cole en el cuarto de hospital de Chiara**, los dos culpándose de lo que le pasó. Acabaron en tregua.
-- **Le quedaron dudas** sobre la versión que Cole y Chiara improvisaron, y **mandó a un hombre a investigar a Cole.**
+- **Le quedaron dudas** sobre la versión que Cole y Chiara improvisaron, y la probó con los dos juntos el día del alta ("qué casualidad que Cole llegara tan pronto, sin que nadie lo llamara") sin poder desmontarla del todo.
+
+**Todavía sin escribir, parte del arco H5 replanteado:**
+
+- **Mandó a un hombre a investigar a Cole**, en paralelo a la tregua.
 - **Le advirtió a Chiara que se alejara de Cole** — que algo no le cuadraba y que iba a investigarlo personalmente.
 - La siguió/la encontró en el taller del norte, le contó el pasado turbio de Cole y **el incidente del hospital contado sólo en la parte que le convenía.**
 - **Le ordenó dejar de ver a Cole.** Ella le contestó que él no es nadie para decirle qué hacer. Él le contestó que **sí lo es: que ella trabaja para él.**
