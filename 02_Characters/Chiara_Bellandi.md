@@ -126,7 +126,7 @@ Eso no vuelve inocente a Corrado ni convierte a los federales en villanos simple
 
 Ésa es la medida con la que evalúa toda su vida sentimental, y es implacable porque es alta y porque la vio funcionar de verdad.
 
-Su canción es *Un anno d'amore*, de Mina. **No es una canción que le guste: es el eco de esa casa.** Se la pone a Cole la primera noche que pasan juntos, en el penthouse ([[06_Relationships/Hitos]], H2-b) — sin decir nada, le está enseñando el matrimonio de sus padres. Le pone sobre la mesa lo único que ha querido en su vida, y él no tiene forma de saberlo.
+Su canción es *Un anno d'amore*, de Mina. **No es una canción que le guste: es el eco de esa casa.** Se la pone a Cole la primera noche que pasan juntos, en el penthouse ([[06_Relationships/Hitos]], H2-b) — **y esta vez sí se la traduce, línea por línea**, contándole lo que dice por debajo: que hay amores que no terminan aunque uno quiera, que esa canción sonaba los domingos en casa de sus padres. Le pone sobre la mesa lo único que ha querido en su vida, y **él se esfuerza por entenderlo** — imperfecto, aprendiz, pero por primera vez sin barrera de idioma entre los dos. *(Actualizado 2026-08-27: reemplaza la versión anterior, donde no se traducía nada.)*
 
 ### El primer matrimonio — Alessio Lusardi
 
