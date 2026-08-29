@@ -46,6 +46,8 @@ Lo que opera hoy:
 
 Ese último dato pesa: Cole la sacó del barrio. Le dio exactamente lo que a él nadie le dio — un sitio donde nadie sabe de dónde viene — y el precio es que casi no la ve.
 
+**Primera aparición en página:** Capítulo 7. Cole le habla de ella a Chiara en el penthouse (le colgó el teléfono por decirle que no manejara de noche), con "una sonrisa que no era la del hombre de negocios". Es el beat que empieza a mover la empatía de Chiara.
+
 ---
 
 ## Método

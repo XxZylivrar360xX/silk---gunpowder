@@ -2036,3 +2036,63 @@ Redactados los dos capítulos que ejecutan [[06_Relationships/Hitos]], H12 compl
 Se regeneró el EPUB (232,271 caracteres, 16 capítulos). Actualizado `98_Agent_Handoff/CURRENT_BRIEF.md` (conteo de capítulos, Cap. 9-10 marcados ESCRITO, siguiente paso apunta al beat 19/Capítulo 17).
 
 **Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Corral.md` (nuevo), `10_El_Loft_Del_Soltero.md` (nuevo), `11_El_Farol.md`, `12_Roma_Atrii.md`, `13_El_Mirador.md`, `14_El_Porton.md`, `15_Cuatro_Letras.md`, `16_Sin_Rastro.md`, `06_Relationships/Hitos.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
+
+## [2026-08-27] edit | Capítulo 7 — Ambos (pasada de corrección + ajustes de canon)
+
+Reescritura completa del [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos]] por pedido del autor: el esqueleto servía pero la escena leía como intercambio de diálogos sin peso, no se sentía el paso de las horas ni el cierre de la distancia entre los dos. Cinco cambios:
+
+1. **Primera comida.** La primera vez que Cole le lleva de comer (oficina administrativa, noche de la máquina de hielo) deja de ser hamburguesa+malteada y pasa a ser una **torta de La Esquina de Mabel sin mostaza**, porque **Chiara es alérgica a la mostaza** — dato que ella mencionó una vez a Mabel y que Cole retuvo. Hamburguesas y malteadas quedan sólo para la noche del penthouse. Cole se borra del gesto ("Mabel la preparó. Yo cargué la bolsa").
+2. **La escena de la música crece y es el centro del capítulo.** Cole traduce el tono de *The World Is Yours* y de ahí cuenta que es su música al volante: carreras en Kingsley Field, el Peugeot 106 rojo, "el terror de la policía"; Chiara comenta lo curioso de que un coche clásico corra así "sin terminar trepado en una farola" y Cole le insinúa que algún día lo acompañe. Al terminar la canción, hueco donde **Cole le cuenta de Michael Grayson (muerto de cáncer) y de que se hace cargo de Marisol**, con una sonrisa que no es la del hombre de negocios — arranca la empatía de Chiara (eco parcial de su propia pérdida de Corrado, rozado sin subrayar). Chiara **traduce de verdad** *Un anno d'amore* y le dice lo que Mina quiso plasmar. Ya no cruzan "sin traducción".
+3. **Llamada de Danny** en la escena de la silla de estética: preguntas con risa mal tapada ("¿estás con Chiara?"), Danny tapando mal el micrófono le dice a Nadir "naaa, ya lo perdimos", Cole esquiva mandándolos a hacer el inventario del taller (Garrett necesita la lista de refacciones), Chiara se ríe sin disimular del todo.
+4. **Paso del usted al tú plantado en escena**, en la ventana al empezar a fumar: *"Te puedo tutear, ¿no?" / "Ya compartimos un cigarro de marihuana. Creo que dejamos atrás el filtro de los negocios."* La línea canon *"Eres increíble / Ambos somos increíbles"* sigue cerrando el capítulo pero ya no carga ese umbral.
+5. **Ornamentación de la acción entre diálogos ampliada** (comer en el suelo, Cole tocando el inventario de una vida ajena, el recorrido como deriva y no como checklist, la luz que baja sola) y **podado el tic de frase corta de remate**.
+
+**Canon / continuidad tocada:** [[06_Relationships/Hitos]] (H2-b: tres notas de AJUSTE DE BORRADOR — primera comida y alergia, tuteo en la escena de la hierba, música con traducción + carreras/Peugeot + Michael/Marisol; nota de la llamada de Danny en la ruta), [[06_Relationships/Cole_y_Chiara]] ("El cruce de idiomas": tuteo colocado, música ya no "sin traducción"), [[02_Characters/Chiara_Bellandi]] (canon menor: alérgica a la mostaza), [[98_Agent_Handoff/CURRENT_BRIEF]].
+
+**Pendiente menor:** enlazar la aparición del Cap. 7 en las fichas de [[02_Characters/Michael_Grayson]] y [[02_Characters/Marisol_Grayson]] (primera vez que Cole habla de ellos en página). EPUB sin regenerar.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos.md`, `06_Relationships/Hitos.md`, `06_Relationships/Cole_y_Chiara.md`, `02_Characters/Chiara_Bellandi.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-27] edit | Capítulo 7 — Ambos (segunda pasada: anécdota de Chiara)
+
+Por pedido del autor, se añadió un beat para que la noche no quede asimétrica (Cole abría, Chiara sólo administraba). En el recorrido, en la cocina que nadie usa, Chiara cuenta **sin que se lo pidan** una anécdota ligera: a los seis años se pasó una fiesta grabando con una cámara de video pesada desde un rincón mientras Vitto le pisaba los pies bailando; su padre le dijo que "en la vida no se baila concentrada" y que "una Ardizzone baila aunque le pisen los pies". Cierra con *"Yo habría pisado peor que Vitto." / "De eso no tengo ninguna duda."* — lo más cerca que están esa noche de hablar de bailar juntos.
+
+Es material **ya sembrado en el Capítulo 2** (recuerdo del vuelo); aquí lo dice en voz alta y a él por primera vez. Corrección de canon: la frase es de **Corrado**, no "de la Ardizzone" — el manuscrito del Cap. 2 (`02_Demasiado_Listo.md`, líneas 51-63) es la versión buena; la nota del CURRENT_BRIEF la había atribuido mal.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos.md`, `06_Relationships/Hitos.md` (ruta de H2-b, ítem 1-b nuevo), `log.md`.
+
+## [2026-08-27] edit | Capítulo 2 — recorte del recuerdo de la cámara (pago movido al Cap. 7)
+
+Complemento de la sesión anterior. Para que la anécdota de Chiara **estrene** en el Capítulo 7 (la cuenta a Cole en la cocina del penthouse), se recortó del recuerdo del vuelo en `02_Demasiado_Listo.md`: se eliminó la línea de Corrado *"En la vida no se baila concentrada. Y una Ardizzone baila aunque le pisen los pies."* El Capítulo 2 conserva la **imagen sin resolver** (la niña con la cámara pesada, Vitto pisándole el pie, "Sono concentrata", ella esquivando la mano de Corrado hacia el objetivo, "Chiara tampoco dejó de grabar") y la foto callback más adelante en el mismo capítulo sigue en pie. La frase y su significado ahora son material nuevo en el Cap. 7.
+
+Efecto buscado: el Cap. 2 planta el rasgo (observadora que documenta en vez de estar), el Cap. 7 lo paga con la frase + el gesto de que ella elija contarlo.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo.md`, `06_Relationships/Hitos.md` (nota del ítem 1-b), `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-27] edit | Capítulo 7 — Ambos (beat de la cicatriz en la silla de estética)
+
+Añadido a pedido del autor: después de acomodarle el mechón, Chiara baja los dedos hasta el borde de la cicatriz de la mejilla (sembrada en el Cap. 1 por Matteo), no la toca, y pregunta "¿Y esto?". Cole deja pasar un segundo de más y contesta con una sola frase: "Gracias a esto conocí a Nadir." Nada más. Ella no tira del hilo; lo guarda "para mirarlo con calma después" (usa el rasgo de observadora recién plantado en la cocina). No se explica el origen de la cicatriz — atado al reveal de Noruega, reservado; queda como hilo abierto.
+
+Se enlazó con el beat de la calavera del vestidor (dos deflexiones seguidas, de signo opuesto: la cicatriz convierte la herida en gratitud, la calavera da el mito sin los hechos). Línea nueva de narrador en el vestidor: "Ya había preguntado una cosa esa noche y él le había contestado con un nombre; entendió que ésta no venía con nombre."
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos.md`, `06_Relationships/Hitos.md` (ruta de H2-b, ítem 4), `log.md`.
+
+## [2026-08-27] edit | Capítulo 7 — Ambos (a Chiara se le patina el italiano por la hierba)
+
+A pedido del autor, se sembraron deslices al italiano en los diálogos de Chiara a partir de la escena de la hierba, aplicando su tic ya canon (suelta italiano cuando está cómoda o furiosa). Escalonado: marcadores sueltos ("Allora", "Aspetta", reduplicación "seria seria") → una frase entera que no nota ("Ma è assurdo") → una que sí nota y le da risa (en el jacuzzi: "È un idromassaggio" → "Jacuzzi. Quise decir jacuzzi") → durante Un anno d'amore, narrador: "se le fue el idioma varias veces y no se molestó en corregirse" → a las 3am, un "Basta. Te quedas." Narrador nuevo tras el tuteo: "a Chiara se le empezó a colar el italiano entre las palabras. Le pasaba cuando estaba cómoda y cuando estaba furiosa, y esa noche no estaba furiosa."
+
+De paso queda **sembrada en página la futura clase de italiano**: en el jacuzzi, Cole pregunta qué dijo y ella responde "Lo mismo, en otro idioma. Algún día te enseño" — primer anclaje del tercer tiempo del "cruce de idiomas".
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos.md`, `06_Relationships/Hitos.md`, `06_Relationships/Cole_y_Chiara.md`, `log.md`.
+
+## [2026-08-27] edit | Capítulo 7 — desliz al italiano en la línea de la calavera
+
+Añadido un desliz más (a pedido del autor): la línea de Chiara ante la calavera pasa de "Llevas a la muerte detrás" a **"Tienes a la morte en la espalda"**. Aquí NO lo nota (contraste con el jacuzzi, donde sí). Narrador: "Esta vez no se oyó, o no le importó." La línea de Cole ("yo soy la muerte caminando") intacta. Actualizada la sección canon "La chaqueta y la calavera" en [[06_Relationships/Hitos]] con el nuevo texto y nota de ajuste.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos.md`, `06_Relationships/Hitos.md`, `log.md`.
+
+## [2026-08-27] edit | Capítulo 7 — la mueca de "basta" tras el jacuzzi
+
+Añadido un beat corto justo después del silencio del jacuzzi: se sostienen la mirada "un segundo, y después el segundo de más" y, en vez de decir algo verdadero o levantarse, los dos hacen a la vez la misma mueca de basta dirigida "a lo que se estaba armando entre los dos". No dentro del silencio del jacuzzi (que se conserva sin defusar), sino como respuesta a él: dejan que uno aterrice sin defensa y al siguiente deciden sin palabras no permitirlo. Queda plantado como gesto compartido, mismo registro que el choque de puños, disponible para recurrir. Registrado en [[06_Relationships/Hitos]], ruta de H2-b ítem 3.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos.md`, `06_Relationships/Hitos.md`, `log.md`.

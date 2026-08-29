@@ -244,6 +244,12 @@ En la conversación él dice que tiene que resolver algo antes, pero que tienen 
 
 Llega con **dos hamburguesas y dos malteadas** para la cena, y una dotación de marihuana que él define como **recreativa**.
 
+> **AJUSTE DE BORRADOR (2026-08-27).** Las hamburguesas y malteadas quedan **sólo** para esta noche del penthouse. La **primera** comida que Cole le lleva (antes, en la oficina administrativa, la noche de la máquina de hielo) es una **torta de La Esquina de Mabel preparada sin mostaza**, porque Chiara es **alérgica a la mostaza** — dato que ella mencionó una vez a Mabel y que Cole retuvo sin que nadie se lo dijera de frente. El primer regalo de comida ya muestra atención, no descuido; y Cole se borra del gesto ("Mabel la preparó. Yo cargué la bolsa"), que es su enfermedad de siempre. Nueva canon menor registrada en [[02_Characters/Chiara_Bellandi]].
+
+> **AJUSTE DE BORRADOR (2026-08-27) — el paso del usted al tú.** Se **planta en escena, en la ventana, cuando empiezan a fumar**, no al final de la noche: *"Te puedo tutear, ¿no?" / "Ya compartimos un cigarro de marihuana. Creo que dejamos atrás el filtro de los negocios."* De ahí en adelante los dos usan tú. La línea canon *"Eres increíble / Ambos somos increíbles"* sigue cerrando el hito, pero **ya no carga el umbral del tuteo** — para ese punto el tú ya es viejo de horas.
+
+> **AJUSTE DE BORRADOR (2026-08-27) — a Chiara se le patina el italiano.** Con la hierba se le empieza a colar el italiano en el diálogo (aplica su tic ya canon: suelta italiano cuando está cómoda o furiosa — aquí, cómoda). Escalonado: primero marcadores sueltos (*allora*, *aspetta*), luego una frase entera que **no nota** (*"Ma è assurdo"*), luego una que **sí nota y le da risa** (*"È un idromassaggio" → "Jacuzzi. Quise decir jacuzzi"*), y durante *Un anno d'amore* el narrador dice que "se le fue el idioma varias veces y no se molestó en corregirse". En el jacuzzi, cuando Cole pregunta qué dijo, ella contesta *"Lo mismo, en otro idioma. Algún día te enseño"* — **primera siembra en página de las futuras clases de italiano** (ver [[06_Relationships/Cole_y_Chiara]], "El cruce de idiomas").
+
 **Fuman los dos.** Por eso la noche se estira: de las 8 de la tarde se les hacen las 3 de la mañana, y van recorriendo [[05_Locations/El_Penthouse]] habitación por habitación.
 
 ### La ruta — cada cuarto es un grado más
@@ -252,13 +258,25 @@ Llega con **dos hamburguesas y dos malteadas** para la cena, y una dotación de 
 
 > **DISEÑO:** dos personas que mueven dinero ajeno, cuidándole el sillón a alguien más. Es el chiste y la ternura de la noche entera en un solo gesto, y es la primera aparición de *la incomodidad de estar cómodos*.
 
+**1-b. La cocina que nadie usa (durante el recorrido).** Cole abre un cajón vacío; Chiara, **sin que él pregunte**, cuenta una anécdota suya de la infancia — a los seis años se pasó una fiesta entera grabando con una cámara de video pesadísima desde un rincón, muy seria, mientras Vitto le pisaba los pies bailando, y su padre le dijo que *en la vida no se baila concentrada* y que *una Ardizzone baila aunque le pisen los pies*. Ella se quedó con la frase y la sigue usando. Cierra con Cole: *"Yo habría pisado peor que Vitto." / "De eso no tengo ninguna duda."* — lo más cerca que están esa noche de hablar de bailar juntos.
+
+> **AJUSTE DE BORRADOR (2026-08-27).** Se añadió para que la noche **no sea asimétrica**: Cole abría (Michael/Marisol, calavera, carreras) y Chiara sólo administraba versiones. Ahora ella también pone algo sobre la mesa por voluntad propia, ligero, con forma de anécdota. El **Capítulo 2** siembra la imagen sin resolverla (el recuerdo del vuelo: la niña con la cámara pesada, Vitto pisándole el pie, ella que no baja la cámara) — pero **la frase de Corrado y su significado se recortaron de allí** para que **estrenen aquí**. La frase es de **Corrado**, no "de la Ardizzone". Función temática: es la semilla de su problema de control (documentar/gestionar en vez de estar) y a la vez la promesa de que puede soltarlo. El pago está completo en el Cap. 7: el lector que vio a la niña negándose a bajar la cámara siente que ella le está entregando algo que guarda.
+
 **2. La sala de cine.** Ponen la música. Ver abajo — es lo más importante de la noche.
 
-**3. La zona del jacuzzi.**
+**3. La zona del jacuzzi.** Ella suelta *"por ti podría hacer una excepción"* más suave de lo que quería; ninguno encuentra el chiste a tiempo y el silencio se queda.
+
+> **AJUSTE DE BORRADOR (2026-08-27) — la mueca de *basta*.** **Justo después** de ese silencio (no dentro de él): se sostienen la mirada "un segundo, y después el segundo de más", y en vez de decir algo verdadero o levantarse, los dos hacen a la vez la misma mueca —cejas en alto, cara de *basta*— dirigida no al otro sino "a lo que se estaba armando entre los dos". Función: dejaron que un momento aterrizara sin defensa (el silencio), y al siguiente deciden sin palabras no permitirlo. Dos operadores regulando la temperatura. Queda plantado como **gesto compartido** (mismo registro que el choque de puños); disponible para que recurra.
 
 **4. La silla de estética.** Cole **casi deja que ella le corte el pelo**. Ella le dice que el corte que trae le va muy bien.
 
 > **DISEÑO:** coquetería disimulada de manual — le niega el favor y le regala el cumplido. Y hay un dato debajo: **dejar que alguien te corte el pelo es una de las intimidades más grandes que existen**, y Cole estuvo a punto. Propuesta fuerte: **que ella sí le corte el pelo mucho después**, ya viviendo juntos, y que esa escena sea el eco de ésta. Es exactamente el tipo de gesto doméstico repetido que este libro necesita.
+
+> **AJUSTE DE BORRADOR (2026-08-27) — la llamada de Danny.** Aquí entra una llamada: Danny, con risa mal tapada, le dispara preguntas (que cómo está, que por qué no ha llegado a casa, que con quién anda, *"¿estás con Chiara?"*) y, tapando mal el micrófono, le informa a Nadir a media sala *"naaa, ya lo perdimos."* Cole esquiva del todo el tema y les ordena ponerse a hacer el inventario del taller porque Garrett necesita la lista de refacciones. Chiara se ríe sin disimularlo del todo. Es el barrio empezando a **ver** la relación desde fuera, en clave cómica, antes de que exista una versión pública de ella (función de testigo de [[02_Characters/Daniel_Hayes]]).
+
+> **AJUSTE DE BORRADOR (2026-08-27) — la cicatriz.** Después de acomodarle el mechón, los dedos de Chiara bajan hasta el borde de la **cicatriz de la mejilla** (sembrada en el Cap. 1 por Matteo). No la toca. Pregunta *"¿Y esto?"* Cole deja pasar un segundo de más y contesta con una sola frase: ***"Gracias a esto conocí a Nadir."*** Nada más. Ella no tira del hilo; lo guarda "para mirarlo con calma después" (usa su rasgo de observadora recién plantado en la cocina). **No se explica de dónde viene la cicatriz** — está atada al reveal de Noruega, reservado. Función: es el primer amago del origen, y **la deja marcada como hilo abierto**.
+>
+> **Par con la calavera del vestidor.** Son dos deflexiones seguidas pero de signo opuesto y hay que escribirlas para que se note el contraste: la cicatriz es *"cosa mala → de ahí saqué a Nadir"* (convierte la herida en gratitud); la calavera es *"te doy el mito, no los hechos"* (*"yo soy la muerte caminando"*, sin expediente). En el vestidor, Chiara lo enlaza en voz de narrador: *"Ya había preguntado una cosa esa noche y él le había contestado con un nombre; entendió que ésta no venía con nombre."* La repetición aparente pasa a ser estructura: preguntó por la chica y le dieron un nombre; la grande no trae nombre.
 
 **5. El vestidor principal.** Donde cae la chaqueta. Ver abajo.
 
@@ -298,7 +316,14 @@ Es la confesión más grande de la noche, y no la reconoce nadie.
 
 **Ella ya sabe exactamente qué quiere. Él todavía está subiendo.** Está dicho en dos canciones, en la primera noche, sin que ninguno se entere de lo que acaba de confesar.
 
-Y hay una tercera cosa: **ninguna de las dos está en español.** Cada uno le pone al otro algo en un idioma que el otro no domina — y funciona igual. **La música es lo primero que cruza entre ellos sin traducción**, antes que el choque de puños y mucho antes del italiano. Ver [[06_Relationships/Cole_y_Chiara]], "El cruce de idiomas".
+Y hay una tercera cosa: **ninguna de las dos está en español.** Cada uno le pone al otro algo en un idioma que el otro no domina. **La música es lo primero que cruza entre ellos**, antes que el choque de puños y mucho antes del italiano. Ver [[06_Relationships/Cole_y_Chiara]], "El cruce de idiomas".
+
+> **AJUSTE DE BORRADOR (2026-08-27) — sí se explican las canciones.** La versión anterior decía "cruza sin traducción". Ahora **cada uno le explica al otro su canción**, y eso la hace más grande, no menos:
+> - **Cole** traduce el tono de *The World Is Yours* (no la letra al pie) y de ahí se suelta a contar que es la música que oye **al volante, de noche** — las carreras en la recta de Kingsley Field, el **Peugeot 106 rojo**, "el terror de la policía". Chiara comenta lo curioso de que un coche clásico corra a esas velocidades "y no termine trepado en una farola"; Cole **le insinúa que algún día lo acompañe a las carreras**.
+> - En esa misma conversación, cuando la canción termina, es **el hueco donde Cole le cuenta de [[02_Characters/Michael_Grayson]]** (amigo del ejército, muerto de cáncer) **y de que se hace cargo de [[02_Characters/Marisol_Grayson]]**, su hija, ahora en la universidad. Lo hace con **una sonrisa que no es la del hombre de negocios**. Eso es lo que empieza a mover la empatía de Chiara: admiración por un hombre que se responsabiliza de una chica que perdió a su padre — eco parcial de su propia pérdida de Corrado, que la prosa roza sin subrayar.
+> - **Chiara** traduce *Un anno d'amore* de verdad, parando entre frases, y le dice **lo que Mina quiso plasmar**: el amor que deja marca y se queda en la casa. Sigue siendo "la confesión que no reconoce nadie" — el acto de traducirla ES la confesión.
+>
+> La primera cosa que cruza sin traducción pasa a ser **el choque de puños** al final de la noche.
 
 > **PENDIENTE:** ¿vuelve alguna de las dos canciones más adelante? *Un anno d'amore* en la Fase V sería demoledor.
 
@@ -308,9 +333,11 @@ Se mancha con tinta. Por eso se quita **la chaqueta de mezclilla con cuello de b
 
 Al quitársela, ella le ve **la calavera que le cubre media espalda**.
 
-> **— Llevas a la muerte detrás.**
+> **— Tienes a la morte en la espalda.**
 >
 > **— No, yo soy la muerte caminando.**
+
+> **AJUSTE DE BORRADOR (2026-08-27).** La línea de Chiara pasó de *"Llevas a la muerte detrás"* a ***"Tienes a la morte en la espalda"*** — otro desliz al italiano por la hierba, y aquí **no lo nota** (a diferencia del jacuzzi). Contraste dentro del intercambio: ella cae en italiano justo en la palabra *muerte*; Cole le responde en español, sin recogerla. La línea de Cole (*"yo soy la muerte caminando"*) **no se toca**.
 
 Lo dice acordándose de las rotaciones en Afganistán. Y Chiara, además, **le admira el cuerpo** — no todo en esa escena es solemne.
 

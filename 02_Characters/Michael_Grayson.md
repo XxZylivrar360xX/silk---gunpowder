@@ -40,6 +40,8 @@ Lo que opera hoy:
 
 Michael importa menos por lo que hizo en escena que por el momento en que muere: Cole vuelve de una cadena de pérdidas institucionales y casi de inmediato tiene que despedirse de uno de los pocos hombres de su vida militar que todavía significaban algo bueno.
 
+**Primera vez que Cole habla de él en página:** Capítulo 7, en el penthouse. Lo cuenta sin dramatizarlo — amigo del ejército, retirado, muerto de cáncer "con la misma discreción con la que había hecho todo lo demás" — y de ahí pasa a Marisol.
+
 ---
 
 ## Método

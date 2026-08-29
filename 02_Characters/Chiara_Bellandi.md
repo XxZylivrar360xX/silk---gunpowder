@@ -25,6 +25,8 @@ En su llegada a San Aurelio viste **blusa roja sin mangas, pantalón de vestir n
 
 El único tic que no controla: cuando algo la sorprende de verdad, se toca el anular izquierdo. **Ahí llevó un anillo de matrimonio.** Ya no está, y la mano no lo ha aceptado.
 
+**Canon menor (2026-08-27):** es **alérgica a la mostaza** desde niña — le cierra la garganta. Lo mencionó una vez, de pasada, a [[02_Characters/Mabel_Ortiz]]. En el Capítulo 7, el primer plato que Cole le lleva es una torta de La Esquina de Mabel **hecha sin mostaza a propósito**: él retuvo el dato sin que ella se lo dijera. Uso narrativo: es de las primeras señales de que Cole pone atención en lo pequeño.
+
 ---
 
 ## Quién es

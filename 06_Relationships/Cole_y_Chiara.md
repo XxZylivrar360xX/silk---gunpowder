@@ -220,10 +220,10 @@ Toda la relación se puede medir en quién se mueve hacia el idioma del otro. **
 |---|---|---|
 | **H2** | nadie | *"Io sono Chiara Bellandi." / "Encantado de conocerla."* Dos idiomas, ningún puente. Y de usted. |
 | **H2-b** | **ella** | **Choca el puño con él.** Un gesto de barrio aceptado por una mujer de Palermo. El primer puente lo tiende ella, y con el cuerpo. |
-| *(medio libro)* | **él** | Ella le enseña italiano. Él es el aprendiz, y no lo domina nunca. |
+| *(medio libro)* | **él** | Ella le enseña italiano. Él es el aprendiz, y no lo domina nunca. **Sembrado en página en el Cap. 7** (jacuzzi): a Chiara se le patina el italiano por la hierba, Cole no entiende, y ella suelta *"Algún día te enseño"*. |
 | **H1** | **él** | *"Volevo solo tornare a casa per mantenere la mia promessa, amore."* En el idioma de ella, mal, desangrándose. |
 
-**El primer cruce lo hace ella. El último, él.** Y entre medias está el paso del usted al tú, todavía por colocar.
+**El primer cruce lo hace ella. El último, él.** Entre medias está el paso del usted al tú, **colocado (2026-08-27) en el Capítulo 7, en la escena de la hierba**: *"Te puedo tutear, ¿no?" / "Ya compartimos un cigarro de marihuana. Creo que dejamos atrás el filtro de los negocios."* No lo carga la línea *"Eres increíble / Ambos somos increíbles"* — para entonces el tú ya lleva horas. Y en ese mismo capítulo la música **ya no cruza "sin traducción"**: cada uno le explica al otro su canción (ver [[06_Relationships/Hitos]], H2-b, "La música").
 
 ### CANON (2026-08-27) — El acento que cede, y el "Ciao" que lo compensa
 

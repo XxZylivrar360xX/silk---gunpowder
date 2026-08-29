@@ -58,8 +58,6 @@ Corrado y Marta bailaban en el centro del salón. No bailaban bien. Bailaban com
 
 Corrado extendió una mano hacia el objetivo, pero Chiara se apartó justo a tiempo. La imagen se inclinó, atrapó el techo, volvió a encontrar a su madre y después el rostro de su padre, que sonreía con la paciencia de quien sabe que va a ser obedecido más tarde.
 
-—En la vida no se baila concentrada —dijo—. Y una Ardizzone baila aunque le pisen los pies.
-
 Marta le gritó algo desde fuera del encuadre. Corrado no dejó de bailar. Chiara tampoco dejó de grabar.
 
 Apoyó dos dedos en el borde de la ventanilla y siguió el trazo de una carretera que nacía cerca del aeropuerto y se perdía hacia el norte. Pensó que San Aurelio sería eso: una escala con nombre propio. Unos días para ordenar un casino, medir a unos socios, firmar lo necesario y volver a casa con la sensación profesional de haber dejado algo funcionando mejor de lo que lo encontró.
