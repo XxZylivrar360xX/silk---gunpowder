@@ -27,4 +27,3 @@ Trabaja mientras habla: limpia una pieza, revisa una factura, abre una puerta, s
 —Puedo pasar esta noche. Si no les sirve, manana temprano.
 
 —Esta bien, Mike. No siempre parece, pero esta bien.
-

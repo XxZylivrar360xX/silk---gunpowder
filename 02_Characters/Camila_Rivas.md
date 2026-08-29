@@ -96,7 +96,7 @@ Camila mantiene vivo a Cole en [[06_Relationships/Hitos]], H1, pero no le roba e
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** detallar el caso exacto de la menor explotada y decidir si conecta con Halbrook, Valcora o una red menor local.
+> **PENDIENTE:** detallar el caso exacto de la menor explotada y decidir si conecta con Halbrook, Varek o una red menor local.
 
 > **PENDIENTE:** si Camila aparece antes de H1 en una escena pequeña con Chiara para que el lector ya sepa que existe.
 

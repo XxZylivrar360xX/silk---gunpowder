@@ -38,7 +38,7 @@ Pregunta:
 - [[03_Factions/Fuerza_de_Tarea_Meridian]] — fiscal federal recurrente, externa a la agencia.
 - [[02_Characters/Andrew_Callahan]] — tensión útil: él quiere mapa completo; ella quiere cargos sostenibles.
 - [[02_Characters/Nora_Whitcomb]] — convierte rastreo financiero en decomiso, órdenes y cargos.
-- [[02_Characters/Cole_Mercer]] — decide si perseguirlo fortalece o debilita el caso contra Valcora.
+- [[02_Characters/Cole_Mercer]] — decide si perseguirlo fortalece o debilita el caso contra Varek.
 
 ---
 

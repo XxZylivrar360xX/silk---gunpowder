@@ -23,4 +23,3 @@ Sirve, cobra, limpia, acomoda bolsas, mira la puerta. Si deja de mover las manos
 —Ese no es de aqui. Los de aqui no miran el techo cuando entran.
 
 —Yo no dije nada. Solo te puse cafe.
-

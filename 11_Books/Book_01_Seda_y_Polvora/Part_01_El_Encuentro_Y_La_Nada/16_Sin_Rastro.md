@@ -1,6 +1,6 @@
 <!--
 Estado: borrador provisional.
-Protagonistas: Chiara Bellandi, Cole Mercer, con aparicion breve de Dario Valcora.
+Protagonistas: Chiara Bellandi, Cole Mercer, con aparicion breve de Dario Varek.
 Ventana temporal: dias despues del Capitulo 15 (el hospital).
 Lugares: The Monarch Casino & Hotel, calles de Paseo Pacifica, Almendra Towing.
 Funcion: ejecutar beats 16 y 17 — un trabajo chico y sucio resuelto juntos, sin nombrarlo como hito (ese titulo lo conserva H5), y Dario notando por primera vez una variacion en Chiara que no viene solo del Monarch.

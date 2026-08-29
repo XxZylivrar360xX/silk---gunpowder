@@ -46,4 +46,4 @@ Victor escucha dónde duele:
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** qué informante descubre Cole antes que Valcora y qué decide hacer con él.
+> **PENDIENTE:** qué informante descubre Cole antes que Varek y qué decide hacer con él.

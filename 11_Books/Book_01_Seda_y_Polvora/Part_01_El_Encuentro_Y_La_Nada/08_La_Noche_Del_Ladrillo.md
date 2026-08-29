@@ -1,6 +1,6 @@
 <!--
 Estado: borrador provisional.
-Protagonistas: Chiara Bellandi, con apariciones de Blake Stanton, Dario Valcora, Cole Mercer, Nadir Amrani, Daniel Hayes y Hector Navarro.
+Protagonistas: Chiara Bellandi, con apariciones de Blake Stanton, Dario Varek, Cole Mercer, Nadir Amrani, Daniel Hayes y Hector Navarro.
 Ventana temporal: dias despues del Capitulo 7 (la noche de hierba en el penthouse). Todavia se estan conociendo — antes del primer beso.
 Lugares: Gabriella's (fiesta de vestimenta blanca).
 Funcion: ejecutar H3 completo (a, b, c) — la noche del ladrillo. Tres apariciones de Cole en la cabeza de Chiara sin que este presente: el Peugeot (primera vez), la dedicatoria de Volare (segunda vez, ya registrada como patron y no como dato suelto), y su llegada real con la banda de la Almendra (la tercera, esta si en persona). Cierra con el final de lo de Blake — ruptura en la calle, no por Cole sino porque ella entiende que buscaba algo que ya habia encontrado en otro lado.
@@ -102,7 +102,7 @@ Y dos veces, para alguien que llevaba una vida entera contando cosas, ya no era 
 
 ***
 
-Dario Valcora estaba saliendo cuando ella volvió a entrar.
+Dario Varek estaba saliendo cuando ella volvió a entrar.
 
 —Signora Bellandi. —La miró el tiempo exacto para medirla, ni un segundo más—. Veo que la fiesta blanca le sienta.
 

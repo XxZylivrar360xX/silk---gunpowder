@@ -2,6 +2,11 @@
 
 Decisiones compactas para relevo. No reemplaza `log.md`.
 
+## 2026-08-29
+
+- El apellido canon de Dario es **Varek**, no Valcora. Su origen queda fijado como croata-estadounidense, con ascendencia dálmata o balcánica. La organización de Dario no debe leerse como mafia italiana. Sus hijas son Lucia, Beatrice “Trix” y Vivian “Vivi/VV/Tri-V”.
+- Se integran como hitos por numerar la formalización verbal de Cole y Chiara (“mi pareja”) y el arco mayor de la iglesia, la caída y la ejecución de Dario. H13 sigue siendo un evento previo independiente.
+
 ## 2026-08-23
 
 - `CLAUDE.md` debe mantenerse corto. La lectura larga se mueve a `98_Agent_Handoff/START_HERE.md`, `CURRENT_BRIEF.md`, `PENDING.md`, `INDEX.md` y archivos especificos.
@@ -48,7 +53,7 @@ Decisiones compactas para relevo. No reemplaza `log.md`.
 - Hector Navarro es el filtro humano del taller: Garrett puede preparar papeles/nominas, pero Hector decide si alguien sirve para el puesto o no. Cole respeta ese visto bueno.
 - Cole confia en Garrett al nivel de confiarle su vida por lo vivido junto a Russell y Garrett; no es solo "un hombre que cuenta dinero ajeno".
 - Fabrizio Rinaldi y Tommaso Lusardi son nombres provisionales para dos socios definidos por funcion: viejo amigo italiano de Chiara y hermano de Alessio Lusardi.
-- Dario Valcora aparece desde el primer capitulo provisional; H3-b deja de ser su primera aparicion si se conserva este montaje.
+- Dario Varek aparece desde el primer capitulo provisional; H3-b deja de ser su primera aparicion si se conserva este montaje.
 - `12_Craft_Policies/` queda expandido con la arquitectura rescatada de *Memories Of A Ghost*: `revelations/`, `milestones/`, `dialogue_rules/`, `staging_rules/`, README con precedencia y plantilla de voz ampliada.
 - No se rescata `powers/`; era especifico de combate fantastico y no aplica a *Seda y Polvora*.
 - Cole llega al Monarch en su Peugeot 106 XSi rojo; el coche debe funcionar como senal de habilidad/origen, no de lujo.

@@ -38,4 +38,3 @@ Su funcion es cargar desde el primer capitulo una verdad que Chiara no puede ord
 > **PENDIENTE:** decidir si Tommaso cree la version oficial, la duda o finge creerla por conveniencia.
 
 > **PENDIENTE:** definir su peso real dentro de la famiglia Lusardi.
-

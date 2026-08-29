@@ -34,4 +34,3 @@ Cole rechaza la Jeep y decide llevarse el Peugeot rojo.
 - [[02_Characters/Nadir_Amrani]]
 - [[03_Factions/Almendra_Towing]]
 - [[05_Locations/La_Casa]]
-

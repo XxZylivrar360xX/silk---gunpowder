@@ -76,6 +76,6 @@ Con ayuda de Chiara, usa el casino como una zona de niebla narrativa: apuestas, 
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** cómo conoce Cole a Garrett: abogado recomendado, contador comprado, deuda antigua, favor de Chiara o pieza heredada de Valcora.
+> **PENDIENTE:** cómo conoce Cole a Garrett: abogado recomendado, contador comprado, deuda antigua, favor de Chiara o pieza heredada de Varek.
 
 > **PENDIENTE:** cuál es la primera vez que Garrett le dice "no" a Cole y Cole lo obedece.

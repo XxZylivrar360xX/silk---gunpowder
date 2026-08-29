@@ -95,7 +95,7 @@ También sirve para mostrar el límite moral de Chiara. Si Chiara usa a Mabel co
 - [[05_Locations/Vida_Civil_de_San_Aurelio]] — su ecosistema.
 - [[03_Factions/El_Faro]] — posible puente indirecto: Mabel sabe qué rumores merecen convertirse en pregunta periodística.
 - [[02_Characters/Elena_Vega]] — posible cruce: ambas creen que una ciudad se pudre cuando todos dejan pasar "cosas pequeñas".
-- [[02_Characters/Dario_Valcora]] — amenaza latente; Dario entiende tarde que una señora con cafetería puede oír más que un capitán.
+- [[02_Characters/Dario_Varek]] — amenaza latente; Dario entiende tarde que una señora con cafetería puede oír más que un capitán.
 
 ---
 

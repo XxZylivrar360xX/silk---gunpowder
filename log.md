@@ -315,20 +315,20 @@ Resuelve el pendiente del anillo (el tic del anular izquierdo). Y vuelve mucho m
 
 **H3-a, el florero.** Chiara sale con **Blake Stanton**, policía, que la presume como trofeo. Fiesta de blanco; se siente florero en exhibición; sale a fumar. Pasa el **Peugeot 106 XSi rojo** — "el terror de la policía" — y Blake presume sus habilidades al volante y la infamia de ese conductor **sin saber que le describe al hombre en el que ella está pensando**. Ella le escribe a Cole, no hay respuesta en diez minutos, y se resigna.
 
-**H3-b, las calcetas blancas.** Se topa con **Darío Valcora** en la entrada. El Peugeot vuelve a pasar, se mete a un callejón, y a los dos minutos aparecen Cole, Nadir, Danny y **Héctor Navarro**, de calle en una fiesta de blanco. El portero se lo hace notar y Cole contesta *"bueno... mis calcetas son blancas"*. Ella se ríe de lejos; él le da media sonrisa: *no respondí, pero vine igual*.
+**H3-b, las calcetas blancas.** Se topa con **Dario Varek** en la entrada. El Peugeot vuelve a pasar, se mete a un callejón, y a los dos minutos aparecen Cole, Nadir, Danny y **Héctor Navarro**, de calle en una fiesta de blanco. El portero se lo hace notar y Cole contesta *"bueno... mis calcetas son blancas"*. Ella se ríe de lejos; él le da media sonrisa: *no respondí, pero vine igual*.
 
 **H3-c, el ladrillo.** *"¿No quieres un ladrillo?" / "Nooo, es demasiado público."* La toma de la mano, la lleva al corredor de los baños, y del doble fondo de la chaqueta saca **un ladrillo de arcilla**. *"Qué bobo eres."* Se va: hay trabajo de madrugada. *"Te veo después."*
 
 **Hallazgos:**
 - **El contraste con H2-a es el eje del hito.** En la primera cena rentó una camioneta de lujo y se puso fragancia. Aquí llega en su cochecito de verdad, mal vestido y sin avisar — **y ésta es la noche en que ella entiende que ya lo eligió. El disfraz no la ganó; ser él, sí.**
-- **Los tres hombres de la noche:** Blake la **exhibe**, Valcora la **cotiza**, Cole **la hace reír en un pasillo oscuro**. Los tres en el mismo edificio la misma noche; la escena no tiene que explicar nada.
+- **Los tres hombres de la noche:** Blake la **exhibe**, Varek la **cotiza**, Cole **la hace reír en un pasillo oscuro**. Los tres en el mismo edificio la misma noche; la escena no tiene que explicar nada.
 - **El chiste del ladrillo sólo funciona porque el mundo es real** — intimidad de gremio, y lo primero que comparten que no es un favor.
 - **No hay triángulo amoroso**, y es deliberado: Blake y Cole son los dos rubios de ojos azules, así que Blake es un **error de identificación**. La pregunta nunca es *a quién elige* sino *cuándo se dará cuenta de lo que ya eligió*.
 - **La frase que ordena el hito:** *Blake necesita llenar el espacio en el que está; Cole sólo existe en el espacio que se ganó.* Es además **la única lectura amable del camaleón en todo el libro** — el vault trata su don como enfermedad, y Chiara lo ve como virtud.
 
 ### 4. Fichas nuevas
 
-- **Darío Valcora** — el antagonista que faltaba. Cabeza de la mafia (*todo pasa por él*) y socio mayoritario del casino, o sea **el jefe de Chiara desde la primera página**: su arco de autonomía es salir de debajo de este hombre. Y es **lo que Cole puede llegar a ser** — una fachada intachable terminada hace veinte años.
+- **Dario Varek** — el antagonista que faltaba. Cabeza de la mafia (*todo pasa por él*) y socio mayoritario del casino, o sea **el jefe de Chiara desde la primera página**: su arco de autonomía es salir de debajo de este hombre. Y es **lo que Cole puede llegar a ser** — una fachada intachable terminada hace veinte años.
 - **Héctor Navarro** — el pendiente número uno del vault, por fin con nombre.
 - **Blake Stanton** — la trampa del parecido.
 
@@ -344,7 +344,7 @@ El perro se llama **Rocco**. El coche de Cole es un **Peugeot 106 XSi rojo reaco
 
 **Nota de adaptación registrada:** el material de origen habla de persecuciones "por la isla"; aquí es San Aurelio, California — ciudad costera, no isla.
 
-**Archivos tocados:** `02_Characters/Dario_Valcora.md`, `02_Characters/Hector_Navarro.md`, `02_Characters/Blake_Stanton.md` (nuevos); `06_Relationships/Hitos`, `02_Characters/Chiara_Bellandi`, `02_Characters/Cole_Mercer`, `06_Relationships/Cole_y_Chiara`, `05_Locations/San_Aurelio`, `INDEX.md`.
+**Archivos tocados:** `02_Characters/Dario_Varek.md`, `02_Characters/Hector_Navarro.md`, `02_Characters/Blake_Stanton.md` (nuevos); `06_Relationships/Hitos`, `02_Characters/Chiara_Bellandi`, `02_Characters/Cole_Mercer`, `06_Relationships/Cole_y_Chiara`, `05_Locations/San_Aurelio`, `INDEX.md`.
 
 ---
 
@@ -352,7 +352,7 @@ El perro se llama **Rocco**. El coche de Cole es un **Peugeot 106 XSi rojo reaco
 
 El autor aportó una guía de antagonistas y quedó adaptada entera. **Es el mayor salto estructural desde la fundación**, porque le da a la novela su columna temática.
 
-**Corrección de nombre:** el magnate pasa de *Dario Valcora* a **Darío Valcora** (la guía lo nombra así de forma consistente). Renombrado archivo y contenido en todo el vault. Si Valcora era lo correcto, avisar.
+**Corrección de nombre:** el magnate pasa de *Dario Varek* a **Dario Varek** (la guía lo nombra así de forma consistente). Renombrado archivo y contenido en todo el vault. Si Varek era lo correcto, avisar.
 
 ### La pregunta que ordena todo
 
@@ -360,7 +360,7 @@ Creado `04_Concepts/Quien_Decide_Quien_Soy.md`. Los tres antagonistas son tres r
 
 - **Silas "el Tasador" Crowe** a Cole: *tu barrio me pertenece porque todos aquí me deben algo.* (explotación del barrio)
 - **Il Consorzio** a Chiara: *tu lugar ya fue decidido porque naciste dentro de algo más grande que tú.* (obligación familiar e institucional)
-- **Darío Valcora** a los dos: *el poder pertenece a quien puede tomarlo y conservarlo.* (dominio)
+- **Dario Varek** a los dos: *el poder pertenece a quien puede tomarlo y conservarlo.* (dominio)
 
 **Hallazgo al integrarlo:** el vault ya estaba escrito sobre esta pregunta sin nombrarla. A Cole lo compraron; Chiara firma con el apellido de su madre para que la gente tenga que decidir quién es por lo que muestra. **Los dos fabrican identidad porque nadie les dio una, y los tres antagonistas hacen lo contrario: se la asignan.** Por eso el ascenso no es codicia — **tomar la ciudad es la única forma que encuentran de que nadie más pueda ponerles nombre.**
 
@@ -389,11 +389,11 @@ Infraestructura criminal internacional que suena a institución financiera; pued
 
 **Bomba de relojería instalada:** entre las funciones del Consorcio está el *reconocimiento de nuevas organizaciones*. La organización que Cole está construyendo va a necesitar existir a ojos del Consorcio en algún momento. **Ahí chocan los dos frentes.**
 
-### El equilibrio Valcora–Consorzio
+### El equilibrio Varek–Consorzio
 
-Deliberado y bien pensado: Valcora **no pertenece** al Consorcio y el Consorcio **no trabaja para** él. Tienen un acuerdo — él pone territorio y logística (el **puerto**, aeropuertos, rutas del Pacífico, acceso a EE.UU. y conexiones a Latinoamérica y Asia); ellos ponen acceso internacional. Los dos podrían funcionar sin el otro, sólo que más caro. **Eso impide que Valcora se vuelva absurdamente poderoso y mantiene la escala del libro en una ciudad**, como manda la Visión.
+Deliberado y bien pensado: Varek **no pertenece** al Consorcio y el Consorcio **no trabaja para** él. Tienen un acuerdo — él pone territorio y logística (el **puerto**, aeropuertos, rutas del Pacífico, acceso a EE.UU. y conexiones a Latinoamérica y Asia); ellos ponen acceso internacional. Los dos podrían funcionar sin el otro, sólo que más caro. **Eso impide que Varek se vuelva absurdamente poderoso y mantiene la escala del libro en una ciudad**, como manda la Visión.
 
-Y Silas Crowe funciona como puerta de servicio: **Cole entra al ecosistema de Valcora desde abajo, años antes de enfrentarlo como igual.**
+Y Silas Crowe funciona como puerta de servicio: **Cole entra al ecosistema de Varek desde abajo, años antes de enfrentarlo como igual.**
 
 ### Dos correcciones del autor
 
@@ -402,7 +402,7 @@ Y Silas Crowe funciona como puerta de servicio: **Cole entra al ecosistema de Va
 
 Nota de diseño sobre eso último: que Marisol viva en la universidad y no en la casa es dato de peso. **Cole la sacó del barrio y le dio exactamente lo que a él nadie le dio — un sitio donde nadie sabe de dónde viene — y el precio es que casi no la ve.**
 
-**Archivos tocados:** `02_Characters/Silas_Crowe.md`, `03_Factions/Il_Consorzio.md`, `04_Concepts/Quien_Decide_Quien_Soy.md` (nuevos); `02_Characters/Dario_Valcora.md` (renombrado desde Valcora, ampliado), `02_Characters/Cole_Mercer`, `02_Characters/Chiara_Bellandi`, `06_Relationships/Hitos`, `INDEX.md`.
+**Archivos tocados:** `02_Characters/Silas_Crowe.md`, `03_Factions/Il_Consorzio.md`, `04_Concepts/Quien_Decide_Quien_Soy.md` (nuevos); `02_Characters/Dario_Varek.md` (renombrado desde Varek, ampliado), `02_Characters/Cole_Mercer`, `02_Characters/Chiara_Bellandi`, `06_Relationships/Hitos`, `INDEX.md`.
 
 **Pendiente más urgente ahora:** **la cara del Consorcio** — quién lo representa ante Chiara. Educado, respetuoso, inamovible. Sin esa persona, el antagonista de ella no puede entrar en escena.
 
@@ -410,13 +410,13 @@ Nota de diseño sobre eso último: que Marisol viva en la universidad y no en la
 
 ## Sesión 2026-08-23 (9) | Leone Valenti, y el apellido de Darío devuelto
 
-**Corrección aplicada:** el magnate vuelve a llamarse **Darío Valcora**. El renombre a *Vescari* de la sesión anterior queda revertido en todo el vault (archivo y contenido).
+**Corrección aplicada:** el magnate vuelve a llamarse **Dario Varek**. El renombre a *Vescari* de la sesión anterior queda revertido en todo el vault (archivo y contenido).
 
 ### Leone Valenti — *Il Consigliere*
 
 Creada la ficha. Cierra el pendiente más urgente del proyecto: **el antagonista de Chiara ya tiene cara y puede entrar en escena.**
 
-Italiano del norte o centro — separación cultural deliberada respecto de los Ardizzone, para que no todo el crimen italiano del libro venga del mismo sitio. Entre 55 y 60 años. Elegante, educado, extremadamente contenido. **Sin la extravagancia de Valcora y sin la mezquindad callejera del Tasador**, y sin ninguna necesidad de demostrar que es peligroso: puede cenar una hora hablando de vino, arquitectura y música, despedirse con cordialidad, y que al día siguiente descubras que perdiste una concesión, que tus cuentas están congeladas, que un aliado retiró su apoyo, que un cargamento no llegó y que tres personas dejaron de contestarte.
+Italiano del norte o centro — separación cultural deliberada respecto de los Ardizzone, para que no todo el crimen italiano del libro venga del mismo sitio. Entre 55 y 60 años. Elegante, educado, extremadamente contenido. **Sin la extravagancia de Varek y sin la mezquindad callejera del Tasador**, y sin ninguna necesidad de demostrar que es peligroso: puede cenar una hora hablando de vino, arquitectura y música, despedirse con cordialidad, y que al día siguiente descubras que perdiste una concesión, que tus cuentas están congeladas, que un aliado retiró su apoyo, que un cargamento no llegó y que tres personas dejaron de contestarte.
 
 > **Valenti no amenaza. Produce consecuencias.**
 
@@ -444,7 +444,7 @@ En un libro cuya pregunta es *¿quién tiene derecho a decidir quién soy?*, **e
 
 La lógica decente de Valenti ([[00_Biblia/Principios_Narrativos]], principio 3): cree sinceramente que **el orden evita muertos** — que el Consorcio existe porque competir sin reglas costaba vidas, y que cada persona que se sale del mapa reabre una guerra que él ayudó a cerrar. No es cinismo: es memoria.
 
-**Archivos tocados:** `02_Characters/Leone_Valenti.md` (nuevo), `02_Characters/Dario_Valcora.md` (renombrado de vuelta), `03_Factions/Il_Consorzio`, `04_Concepts/Quien_Decide_Quien_Soy`, `02_Characters/Chiara_Bellandi`, `INDEX.md`.
+**Archivos tocados:** `02_Characters/Leone_Valenti.md` (nuevo), `02_Characters/Dario_Varek.md` (renombrado de vuelta), `03_Factions/Il_Consorzio`, `04_Concepts/Quien_Decide_Quien_Soy`, `02_Characters/Chiara_Bellandi`, `INDEX.md`.
 
 ---
 
@@ -557,16 +557,16 @@ Nota sobre Nadir: la amistad **no empezó con un favor**, cosa rarísima en la v
 
 Arco completo del autor, montado como **H5** en catorce movimientos. Partes 2 y 3 por recibir.
 
-**La secuencia:** llamada sospechosa desde el celular robado de Chiara → Cole registra el penthouse a punta de pistola → **ve las botas de montar y se acuerda de que a ella le gusta montar** → la encuentra inconsciente y sangrando en las caballerizas del hipódromo → hospital, le pide a Héctor que la cuide mientras él investiga → secuestra a un sospechoso y no saca nada, lo libera → **se apunta con Valcora en el cuarto de hospital**, tregua → **Cole omite la llamada** y da una versión; Chiara, recién despierta, intenta sumarse y **deja dudando a Valcora** → alta, Valcora acepta que Cole la lleve **y manda a un hombre a investigarlo** → el norte para cuadrar detalles, el casino para dejar constancia en cámara, la salida de carga subterránea → **el barrio, cuarto de visitas de la casa comunitaria, dos noches** → **el loft** → **el jacuzzi** → los dos mensajes → **la advertencia de Valcora** → **la peor noche.**
+**La secuencia:** llamada sospechosa desde el celular robado de Chiara → Cole registra el penthouse a punta de pistola → **ve las botas de montar y se acuerda de que a ella le gusta montar** → la encuentra inconsciente y sangrando en las caballerizas del hipódromo → hospital, le pide a Héctor que la cuide mientras él investiga → secuestra a un sospechoso y no saca nada, lo libera → **se apunta con Varek en el cuarto de hospital**, tregua → **Cole omite la llamada** y da una versión; Chiara, recién despierta, intenta sumarse y **deja dudando a Varek** → alta, Varek acepta que Cole la lleve **y manda a un hombre a investigarlo** → el norte para cuadrar detalles, el casino para dejar constancia en cámara, la salida de carga subterránea → **el barrio, cuarto de visitas de la casa comunitaria, dos noches** → **el loft** → **el jacuzzi** → los dos mensajes → **la advertencia de Varek** → **la peor noche.**
 
 ### Hallazgos
 
 - **Lo que salva a Chiara no es un dato de inteligencia: es que él sabe lo que a ella le gusta hacer.** Las botas en el vestidor. Es la regla del destino del vault en su forma más limpia — lo que los salva es siempre algo que ya existía entre ellos. Y es el mismo vestidor donde meses antes ella le vio la calavera.
 - **El secuestro del sospechoso es un fracaso feo** y hay que escribirlo sin justificarlo: secuestra a un hombre, no obtiene nada, lo suelta. Deuda pendiente en un libro donde las deudas vuelven.
-- **La primera versión oficial que Cole y Chiara construyen juntos sale mal.** La mujer que fabrica versiones para vivir no puede fabricar una buena recién salida de la sedación y con demasiado en juego — y esa grieta le da a Valcora todo lo que necesita.
-- **Cole se enfrenta a Valcora años antes de estar en posición de hacerlo, y sobrevive.** Valcora no lo olvida.
+- **La primera versión oficial que Cole y Chiara construyen juntos sale mal.** La mujer que fabrica versiones para vivir no puede fabricar una buena recién salida de la sedación y con demasiado en juego — y esa grieta le da a Varek todo lo que necesita.
+- **Cole se enfrenta a Varek años antes de estar en posición de hacerlo, y sobrevive.** Varek no lo olvida.
 - **La coartada de las cámaras y la salida de carga es la primera operación conjunta de verdad** — pequeña, sucia y bien ejecutada, exactamente como pedía la fase 2 de la ficha de relación. Sólo que lo que protegen no es un negocio.
-- **Y el arco entero es la regla 5 de la pareja funcionando a máxima potencia:** él le oculta la llamada a Valcora y los detalles a ella; ella le oculta la advertencia y sigue sola al hombre más peligroso de la ciudad. **Los dos protegen al otro por separado, y por eso los dos quedan expuestos.**
+- **Y el arco entero es la regla 5 de la pareja funcionando a máxima potencia:** él le oculta la llamada a Varek y los detalles a ella; ella le oculta la advertencia y sigue sola al hombre más peligroso de la ciudad. **Los dos protegen al otro por separado, y por eso los dos quedan expuestos.**
 
 ### CANON MAYOR: la casa es la casa de sus padres
 
@@ -584,7 +584,7 @@ Y la simetría que ninguno nota: **él le cuenta lo de los niños pero no que a 
 
 **Corrección de ficha:** la cicatriz de Cole pasa de la ceja izquierda (invención del agente) a **la mejilla derecha** (canon).
 
-### La amenaza de Valcora, que es la mejor del libro
+### La amenaza de Varek, que es la mejor del libro
 
 Le ordena a Chiara dejar de ver a Cole. Ella se planta: *tú no eres nadie para decirme qué hacer*. Él contesta que **sí lo es, porque ella trabaja para él.** Y cierra:
 
@@ -606,7 +606,7 @@ Chiara, paranoica y desvelada en el loft, **poniéndose la sudadera de Cole para
 
 **Y el detalle que lo hace valioso:** en un libro donde media ciudad le debe algo a Cole y donde su poder entero consiste en eso, **Héctor y Walt son los dos únicos hombres que no le deben nada.** Por eso son los únicos que pueden decirle la verdad.
 
-**Archivos tocados:** `02_Characters/Walter_Keegan.md` (nuevo); `06_Relationships/Hitos` (H5), `05_Locations/La_Casa` (resuelta), `05_Locations/San_Aurelio` (hipódromo, casa comunitaria, taller del norte), `02_Characters/Cole_Mercer`, `02_Characters/Dario_Valcora`, `02_Characters/Silas_Crowe`, `06_Relationships/Cole_y_Chiara`, `INDEX.md`.
+**Archivos tocados:** `02_Characters/Walter_Keegan.md` (nuevo); `06_Relationships/Hitos` (H5), `05_Locations/La_Casa` (resuelta), `05_Locations/San_Aurelio` (hipódromo, casa comunitaria, taller del norte), `02_Characters/Cole_Mercer`, `02_Characters/Dario_Varek`, `02_Characters/Silas_Crowe`, `06_Relationships/Cole_y_Chiara`, `INDEX.md`.
 
 **Pendiente que el arco deja abierto a propósito:** **quién atacó a Chiara.** Pertenece a las partes 2 y 3.
 
@@ -614,7 +614,7 @@ Chiara, paranoica y desvelada en el loft, **poniéndose la sudadera de Cole para
 
 ## Sesión 2026-08-23 (13) | H6 — El pacto (arco de la tensión, parte 2)
 
-**La secuencia:** Cole vuelve golpeado con el ultimátum de Halbrook — **vuelve a trabajar para él o deportan a Nadir** → la conversación en la que él habla de irse del país y ella no le reclama → sale disparado al enterarse de lo de Valcora, llamando *"¿Nos podemos reunir?"* → **ella lo sigue y se estaciona donde pueda ver que sigue respirando** → en el patio de la mansión, **Cole se ofrece a entrar a la organización** a cambio de seguridad para Chiara, pagando con una entrada al complejo militar y armamento largo → **Valcora acepta y desvía su atención de ella** → la reunión donde los dos actúan sin haberlo ensayado, y el *"Estás loco"* al pasar → **las cascadas: le cuenta todo y pactan deshacer la organización desde dentro.**
+**La secuencia:** Cole vuelve golpeado con el ultimátum de Halbrook — **vuelve a trabajar para él o deportan a Nadir** → la conversación en la que él habla de irse del país y ella no le reclama → sale disparado al enterarse de lo de Varek, llamando *"¿Nos podemos reunir?"* → **ella lo sigue y se estaciona donde pueda ver que sigue respirando** → en el patio de la mansión, **Cole se ofrece a entrar a la organización** a cambio de seguridad para Chiara, pagando con una entrada al complejo militar y armamento largo → **Varek acepta y desvía su atención de ella** → la reunión donde los dos actúan sin haberlo ensayado, y el *"Estás loco"* al pasar → **las cascadas: le cuenta todo y pactan deshacer la organización desde dentro.**
 
 ### La jugada
 
@@ -637,7 +637,7 @@ Instalado en [[04_Concepts/Quien_Decide_Quien_Soy]].
 Es la segunda frase más importante del libro después de la del baño, y por tres razones:
 
 1. **Dice *a quien tú quieras*, no *a mí*.** No está comprando el derecho a estar con ella: **está comprando su derecho a elegir.** Es la demostración final de lo que Chiara vio en H3 — *Cole es el único que la ve por lo que ella es, y no por lo que quiere que sea.*
-2. **Es la respuesta exacta a Valcora**, que dijo *ella trabaja para mí, yo le digo qué hacer y qué no*. Cole no discute esa afirmación: **la compra.**
+2. **Es la respuesta exacta a Varek**, que dijo *ella trabaja para mí, yo le digo qué hacer y qué no*. Cole no discute esa afirmación: **la compra.**
 3. **Y minimiza mientras sangra**, como siempre: *bueno, con peores personas he tratado.*
 
 **Y la ironía que sostiene el resto del libro:** el código entero de Cole es que **hay cosas que no están en venta** — y aquí lo defiende **poniéndose a sí mismo en venta.** Se niega a que ella tenga precio pagando el suyo. Que eso sea una victoria o el principio de su destrucción es una de las preguntas abiertas de la novela.
@@ -649,9 +649,9 @@ Es la segunda frase más importante del libro después de la del baño, y por tr
 - **Ella lo sigue y se estaciona donde pueda ver que respira.** Es la imagen espejo de H5: él registró un penthouse con la pistola en la mano buscándola. Los dos, en el mismo arco, van detrás del otro sin que nadie se lo pida.
 - **La reunión es la escena fundacional de una regla que el vault ya tenía escrita** — se tratan como lo que la ciudad cree que son mientras el lector lee lo de debajo. Y ocurre **sin coordinación previa**: los dos son profesionales de ser lo que la habitación necesita, y por primera vez apuntan ese don en la misma dirección. **Aquí nace la sociedad.**
 - **Las cascadas no son un sitio romántico: son operativos.** Ruido de agua, sin líneas de visión, sin nadie. Y es **el primer lugar del libro que no es territorio de nadie** — ni el penthouse del casino, ni el barrio de él, ni la casa que aún no es de los dos. Para pactar de igual a igual hacen falta privacidad y terreno neutral.
-- **El error de Valcora que le va a costar todo:** metió dentro de su organización, a cambio de un cargamento de armas, al hombre que va a comérsela desde adentro. Y lo hizo porque le pareció una transacción ventajosa — su propia visión del mundo usada en su contra. Es la regla 2 de [[00_Biblia/Reglas_del_Mundo]] al pie de la letra.
+- **El error de Varek que le va a costar todo:** metió dentro de su organización, a cambio de un cargamento de armas, al hombre que va a comérsela desde adentro. Y lo hizo porque le pareció una transacción ventajosa — su propia visión del mundo usada en su contra. Es la regla 2 de [[00_Biblia/Reglas_del_Mundo]] al pie de la letra.
 
-**Archivos tocados:** `06_Relationships/Hitos` (H6), `02_Characters/Warren_Halbrook`, `02_Characters/Dario_Valcora`, `02_Characters/Cole_Mercer`, `04_Concepts/Quien_Decide_Quien_Soy`, `05_Locations/San_Aurelio` (mansión, cascadas, complejo militar), `06_Relationships/Cole_y_Chiara`, `01_Timeline/00_Estructura_del_Ascenso`, `INDEX.md`.
+**Archivos tocados:** `06_Relationships/Hitos` (H6), `02_Characters/Warren_Halbrook`, `02_Characters/Dario_Varek`, `02_Characters/Cole_Mercer`, `04_Concepts/Quien_Decide_Quien_Soy`, `05_Locations/San_Aurelio` (mansión, cascadas, complejo militar), `06_Relationships/Cole_y_Chiara`, `01_Timeline/00_Estructura_del_Ascenso`, `INDEX.md`.
 
 **Pendiente destacado:** el canon dice que en las cascadas *"le cuenta todo lo sucedido"*. Conviene fijar si *todo* incluye **el precio que está pagando** — porque el vault dice que Cole minimiza siempre lo que le cuesta, y ahí está la grieta futura.
 
@@ -955,11 +955,11 @@ Creado `05_Locations/Estado_de_la_Ciudad.md` como tablero de mundo para conectar
 Canon instalado:
 
 - San Aurelio entra al ascenso con elecciones municipales en horizonte, alcaldía débil, barrios del sur en disputa y mercado criminal sostenido por miedo.
-- [[02_Characters/Dario_Valcora]] gobierna a las bandas por miedo administrativo: concede territorios menores, deja que se desgasten, interviene cuando el desorden amenaza sus negocios grandes y amenaza con liquidación o tortura como herramienta de gobierno.
+- [[02_Characters/Dario_Varek]] gobierna a las bandas por miedo administrativo: concede territorios menores, deja que se desgasten, interviene cuando el desorden amenaza sus negocios grandes y amenaza con liquidación o tortura como herramienta de gobierno.
 - [[02_Characters/Cole_Mercer]] contrasta a largo plazo: asciende por utilidad, deuda y respeto. Da oportunidades de más, pero cuando alguien abusa de la confianza y ya no deja salida, dispara.
 - [[02_Characters/Russell_Whitaker]] usa el deterioro urbano y la violencia del sur como materia electoral; no debe ser marioneta, quiere la alcaldía de verdad.
 
-Actualizados `05_Locations/San_Aurelio`, `02_Characters/Dario_Valcora`, `03_Factions/El_Patio`, `02_Characters/Russell_Whitaker`, `00_Biblia/Reglas_del_Mundo` e `INDEX.md`.
+Actualizados `05_Locations/San_Aurelio`, `02_Characters/Dario_Varek`, `03_Factions/El_Patio`, `02_Characters/Russell_Whitaker`, `00_Biblia/Reglas_del_Mundo` e `INDEX.md`.
 
 **Pendientes:** nombres de barrios del sur; nombres y giros de bandas menores; detonante público de la campaña de Russ; primer abuso de confianza que Cole perdona/negocia/castiga; escena donde una banda compare miedo a Dario con respeto a Cole.
 
@@ -976,7 +976,7 @@ Creado [[03_Factions/Bandas_Menores_de_San_Aurelio]] como mapa paraguas.
 
 Regla nueva: nadie sostiene territorio criminal permanente en el centro viejo / Calle Corona porque ahí se concentran hospitales, Ayuntamiento, juzgados, comisarías, prensa y cámaras. Se puede operar puntualmente; no poseer mercado.
 
-Actualizados `05_Locations/Estado_de_la_Ciudad`, `05_Locations/San_Aurelio`, `02_Characters/Dario_Valcora`, `03_Factions/El_Patio`, `00_Biblia/Reglas_del_Mundo`, `03_Factions/Departamento_de_Policia_de_San_Aurelio` e `INDEX.md`.
+Actualizados `05_Locations/Estado_de_la_Ciudad`, `05_Locations/San_Aurelio`, `02_Characters/Dario_Varek`, `03_Factions/El_Patio`, `00_Biblia/Reglas_del_Mundo`, `03_Factions/Departamento_de_Policia_de_San_Aurelio` e `INDEX.md`.
 
 **Pendientes de esa pasada:** líderes con nombre, cuál banda será primer ejemplo de Dario, cuál empujará a Cole a disparar, relación exacta de Tyler con Los Marcadores y si Álamo Salvage será rival, proveedor o compra de Cross River. Resuelto/ampliado en la sesión 25 con líderes y la banda costera.
 
@@ -1005,7 +1005,7 @@ Creado [[03_Factions/Mapa_de_Conflicto_Activo]] para ordenar enemistades, tregua
 - Álamo Salvage vs El Patio: neutralidad vigilada.
 - Breakwater Saints vs El Patio: tregua tensa costera.
 
-Actualizados `Bandas_Menores_de_San_Aurelio`, las seis fichas de bandas existentes, `San_Aurelio`, `Estado_de_la_Ciudad`, `El_Patio`, `Dario_Valcora` e `INDEX.md`.
+Actualizados `Bandas_Menores_de_San_Aurelio`, las seis fichas de bandas existentes, `San_Aurelio`, `Estado_de_la_Ciudad`, `El_Patio`, `Dario_Varek` e `INDEX.md`.
 
 **Pendientes:** fichas individuales para líderes que escalen a escena; decidir si Los Bravos o los Saints son la primera banda que intenta vender producto de Cole sin permiso; definir quién rompe primero una tregua de Dario.
 
@@ -1024,7 +1024,7 @@ Balance activo: cuatro liderazgos femeninos — Marina, Irene, Maya y Naomi — 
 
 Diseñada la estructura completa de [[03_Factions/Fuerza_de_Tarea_Meridian]]:
 
-- [[02_Characters/Andrew_Callahan]] — agente especial supervisor, Organized Crime / RICO. Comandante. Su obsesión inicial es [[02_Characters/Dario_Valcora]], no Cole; frase guía: **Mercer no importa. Valcora importa.**
+- [[02_Characters/Andrew_Callahan]] — agente especial supervisor, Organized Crime / RICO. Comandante. Su obsesión inicial es [[02_Characters/Dario_Varek]], no Cole; frase guía: **Mercer no importa. Varek importa.**
 - [[02_Characters/Mara_Ellison]] — agente especial principal, Violent Crime / case agent. Verdadera antagonista personal de Cole: aprende su patrón.
 - [[02_Characters/Priya_Nair]] — intelligence analyst, link/pattern analysis. Primera en sospechar que la historia oficial de Cole no explica a Cole.
 - [[02_Characters/Nora_Whitcomb]] — forensic accountant, lavado / asset tracing. Rival técnica de Garrett y Cross River.
@@ -1050,7 +1050,7 @@ Reestructurado [[03_Factions/Departamento_de_Policia_de_San_Aurelio]] para que n
 
 Canon instalado:
 
-- Al inicio del libro, [[02_Characters/Raymond_Keene]], jefe de policía anterior, es asesinado por orden de [[02_Characters/Dario_Valcora]]. Probable colusión: Keene estaba comprado o comprometido y se volvió problema.
+- Al inicio del libro, [[02_Characters/Raymond_Keene]], jefe de policía anterior, es asesinado por orden de [[02_Characters/Dario_Varek]]. Probable colusión: Keene estaba comprado o comprometido y se volvió problema.
 - Entra [[02_Characters/Elena_Vega]] como nueva Chief. Edad 45. Disciplina moral, reputación de incorruptible y frase guía: **La ley no necesita ser perfecta para ser mejor que la venganza.**
 - Vega y Cole quedan como choque ideológico: ambos detestan depredadores, pero Vega no acepta que un individuo se convierta en juez.
 
@@ -1075,7 +1075,7 @@ Creada [[03_Factions/Fiscalia_de_San_Aurelio]]:
 - ADA principal: [[02_Characters/Claire_Han]], antagonista jurídico local de Cole.
 - ADA junior opcional: Zoe Palmer.
 
-Actualizados `Departamento_de_Policia_de_San_Aurelio`, `Fiscalia_de_San_Aurelio`, `Elena_Vega`, `Raymond_Keene`, `Luis_Ortega`, `Blake_Stanton`, `Dario_Valcora`, `Estado_de_la_Ciudad`, `Fuerza_de_Tarea_Meridian`, `02_Characters/README` e `INDEX.md`.
+Actualizados `Departamento_de_Policia_de_San_Aurelio`, `Fiscalia_de_San_Aurelio`, `Elena_Vega`, `Raymond_Keene`, `Luis_Ortega`, `Blake_Stanton`, `Dario_Varek`, `Estado_de_la_Ciudad`, `Fuerza_de_Tarea_Meridian`, `02_Characters/README` e `INDEX.md`.
 
 **Pendientes:** cuánto sabía Martin Cho de Keene; primer conflicto Claire Han/Nina Caldwell; si Katherine Rowe está limpia u oportunista; qué expediente local permite entrada federal.
 
@@ -1156,8 +1156,8 @@ Se creó [[05_Locations/Mapa_Operativo_de_San_Aurelio]] para pasar del mapa mora
 - Se fijaron rutas principales de trabajo: CA-19 / Autopista Costera, Bulevar Corona, Avenida Almendra, Terminal Road, Vía de las Refinerías, Carretera de Milla, Ronda Exterior, Subida de Cuesta, Canal Road y Camino Santa Lucía.
 - Se añadieron tiempos narrativos aproximados entre lugares clave: Almendra, casino, hospital, hipódromo, puerto, La Villa, Rutas de Milla, La Isla, cascadas y complejo militar.
 - Se definieron puntos de cierre para policía, puerto, costa, sur, La Almendra, Cuesta Bonita y rutas rurales.
-- Se ordenaron rutas de El Patio por fases y rutas de Dario Valcora por tipo de poder.
-- Se propuso ubicación para lugares pendientes: casino, Il Gelsomino, Gabriella's, hipódromo, taller del norte, mansión de Valcora, cascadas, complejo militar, La Esquina de Mabel, tienda de máscaras y La Villa.
+- Se ordenaron rutas de El Patio por fases y rutas de Dario Varek por tipo de poder.
+- Se propuso ubicación para lugares pendientes: casino, Il Gelsomino, Gabriella's, hipódromo, taller del norte, mansión de Varek, cascadas, complejo militar, La Esquina de Mabel, tienda de máscaras y La Villa.
 
 **Regla nueva:** no hay persecución ni traslado genérico. Toda escena de movimiento debe tener ruta, visibilidad, cierre posible y ventaja territorial.
 
@@ -1177,7 +1177,7 @@ El autor trajo una propuesta de segunda capa ficticia inspirada en Los Ángeles:
 - Se creó [[05_Locations/Norte_Rural_de_San_Aurelio]] como eje macro: Lomas de San Jacinto, Kingsley Field, Rutas de Milla, Bellandi Ridge, Cedar Flats y Camp Alder.
 - El aeropuerto queda bautizado como **Kingsley Field**, en el borde norte/interior. H9 ocurre en sus vías de servicio, tramos perimetrales y la Carretera de Milla; no en pista activa.
 - Los viñedos de Chiara quedan bautizados como [[05_Locations/Bellandi_Ridge_Vineyards]]. En privado, Chiara puede llamarlos *la tenuta*. Son propiedad legítima vinculada al apellido Bellandi y deben mantenerse separados de El Patio como base criminal.
-- El complejo militar queda bautizado como [[05_Locations/Camp_Alder]], al noreste de San Aurelio. Es la entrada que Cole ofrece a Valcora para sacar armamento largo.
+- El complejo militar queda bautizado como [[05_Locations/Camp_Alder]], al noreste de San Aurelio. Es la entrada que Cole ofrece a Varek para sacar armamento largo.
 - El pueblo lejano del norte queda bautizado como [[05_Locations/Cedar_Flats]]. Sus parcelas no explican la cocaína; sirven para cobertura, almacenamiento, discreción, vehículos, químicos o dinero convertido en tierra.
 - [[03_Factions/El_Patio]] queda físicamente ubicado en La Almendra, en Avenida Almendra y Calle Esparza, cerca de la Ronda Exterior y las vías de carga.
 
@@ -1188,7 +1188,7 @@ El autor trajo una propuesta de segunda capa ficticia inspirada en Los Ángeles:
 - Camp Alder cambia la escala de cualquier escena: policía local queda fuera de profundidad; FBI y pasado militar entran naturalmente.
 - El norte rural no es vacío: menos cámaras significa más memoria humana.
 
-**Archivos tocados:** `03_Factions/El_Casino.md`, `05_Locations/La_Villa.md`, `05_Locations/Norte_Rural_de_San_Aurelio.md` (nuevo), `05_Locations/Bellandi_Ridge_Vineyards.md` (nuevo), `05_Locations/Camp_Alder.md` (nuevo), `05_Locations/Cedar_Flats.md` (nuevo), `05_Locations/Mapa_Operativo_de_San_Aurelio.md`, `05_Locations/San_Aurelio.md`, `03_Factions/El_Patio.md`, `03_Factions/Mapa_de_Conflicto_Activo.md`, `02_Characters/Chiara_Bellandi.md`, `03_Factions/Cross_River_Consolidated.md`, `06_Relationships/Hitos.md`, `02_Characters/Dario_Valcora.md`, `05_Locations/El_Penthouse.md`, `INDEX.md`, `log.md`.
+**Archivos tocados:** `03_Factions/El_Casino.md`, `05_Locations/La_Villa.md`, `05_Locations/Norte_Rural_de_San_Aurelio.md` (nuevo), `05_Locations/Bellandi_Ridge_Vineyards.md` (nuevo), `05_Locations/Camp_Alder.md` (nuevo), `05_Locations/Cedar_Flats.md` (nuevo), `05_Locations/Mapa_Operativo_de_San_Aurelio.md`, `05_Locations/San_Aurelio.md`, `03_Factions/El_Patio.md`, `03_Factions/Mapa_de_Conflicto_Activo.md`, `02_Characters/Chiara_Bellandi.md`, `03_Factions/Cross_River_Consolidated.md`, `06_Relationships/Hitos.md`, `02_Characters/Dario_Varek.md`, `05_Locations/El_Penthouse.md`, `INDEX.md`, `log.md`.
 
 **Pendientes:** nombre legal de la sociedad operadora del Monarch; socio italiano que abre H2; carretera interior Lomas/Bellandi/Cedar; taller del norte y dueño; si Harper nació en Cedar Flats o sólo trabaja cerca; primera etiqueta de vino de Chiara; qué parcelas pasan indirectamente por Cross River.
 
@@ -1286,7 +1286,7 @@ Se creo [[01_Timeline/01_Primer_Borrador_Beats]] como semi borrador estructural 
 
 **Decision de oficio instalada:**
 
-Las escenas heredadas del canon original no deben copiarse literalmente. Deben conservar su **funcion emocional** y redisenar causas, escenario, participantes y consecuencias para que nazcan de San Aurelio, El Patio, The Monarch, Valcora, Meridian, la fe de Chiara o el metodo de Cole.
+Las escenas heredadas del canon original no deben copiarse literalmente. Deben conservar su **funcion emocional** y redisenar causas, escenario, participantes y consecuencias para que nazcan de San Aurelio, El Patio, The Monarch, Varek, Meridian, la fe de Chiara o el metodo de Cole.
 
 **Contenido del documento:**
 
@@ -1340,7 +1340,7 @@ Se monto el primer capitulo provisional del libro en [[11_Books/Book_01_Seda_y_P
 - [[02_Characters/Matteo_Bellacorte]] queda como el socio del Monarch que abre H2: conoce a Cole durante el dia en [[05_Locations/La_Esquina_de_Mabel]] y lo cita esa noche para presentarlo a los socios.
 - El capitulo instala el dia normal de Cole revisando Almendra, su visita a [[05_Locations/Cementerio_Santa_Lucia]] para hablar con Michael sobre Marisol, la llegada de Chiara a Kingsley Field y el primer apreton de manos en el Monarch.
 - [[02_Characters/Fabrizio_Rinaldi]] y [[02_Characters/Tommaso_Lusardi]] quedan como nombres provisionales para dos funciones dadas por el autor: viejo amigo italiano de Chiara y hermano de Alessio Lusardi.
-- [[02_Characters/Dario_Valcora]] aparece desde el primer capitulo provisional; H3-b deja de ser su primera aparicion si este montaje se conserva.
+- [[02_Characters/Dario_Varek]] aparece desde el primer capitulo provisional; H3-b deja de ser su primera aparicion si este montaje se conserva.
 
 **Craft policies creadas:**
 
@@ -1576,7 +1576,7 @@ Los capitulos posteriores se renumeraron con `git mv`: 02 a 03, 03 a 04, 04 a 05
 
 **Convencion nueva:** la sigla FBI deja de usarse en todo el vault. Se dice "los federales" cuando actuan como colectivo, "federal" como adjetivo de cargo o unidad (agente especial supervisor federal, fuerza de tarea federal, redada federal, equipo federal) y "la agencia federal" cuando hace falta nombrarla como institucion. Se barrieron las 81 menciones repartidas en 34 archivos del vault, incluidos bloques CANON DEL AUTOR de [[02_Characters/Chiara_Bellandi]] y [[03_Factions/Fuerza_de_Tarea_Meridian]] — el cambio es de termino, no de contenido canon. `log.md` queda intacto por ser registro historico, asi que las entradas viejas siguen diciendo FBI. En los capitulos escritos no habia ninguna mencion, asi que la prosa no cambio.
 
-**Archivos tocados:** `11_Books/.../01_Un_Hombre_De_Negocios_Intachable.md`, `11_Books/.../02_Demasiado_Listo.md`, renombres de `03_Los_Viejos_Dias.md` a `07_Ambos.md`, `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `INDEX.md`, `12_Craft_Policies/milestones/INDEX.md`, `02_Characters/Dario_Valcora.md`, `02_Characters/Matteo_Bellacorte.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/DECISIONS.md`, `log.md`, y los 34 archivos de la barrida FBI a federales (`00_Biblia/`, `01_Timeline/`, `02_Characters/`, `03_Factions/`, `05_Locations/`, `06_Relationships/`, `12_Craft_Policies/`, `INDEX.md`).
+**Archivos tocados:** `11_Books/.../01_Un_Hombre_De_Negocios_Intachable.md`, `11_Books/.../02_Demasiado_Listo.md`, renombres de `03_Los_Viejos_Dias.md` a `07_Ambos.md`, `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `INDEX.md`, `12_Craft_Policies/milestones/INDEX.md`, `02_Characters/Dario_Varek.md`, `02_Characters/Matteo_Bellacorte.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/DECISIONS.md`, `log.md`, y los 34 archivos de la barrida FBI a federales (`00_Biblia/`, `01_Timeline/`, `02_Characters/`, `03_Factions/`, `05_Locations/`, `06_Relationships/`, `12_Craft_Policies/`, `INDEX.md`).
 
 ---
 
@@ -1643,7 +1643,7 @@ Cinco observaciones sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro
 
 Cierra con Chiara sola, con el trapo vacio en la mano, entendiendo que la pieza se puede justificar en una hoja de mantenimiento sin que a nadie se le mueva una ceja, y que ese es exactamente el problema.
 
-**3. Escalada de Tommaso.** La jugada era identica a la del Capitulo 3 (invocar a Alessio); solo variaba la reaccion de ella. Ahora el segundo escalon trae material nuevo: Valcora le pregunto por Palermo y por como Chiara llego a estar disponible para este trabajo, y Tommaso "le dio *la version*". No dice la verdad. No dice lo que paso. Dice la version, agrega que la repite muy bien y que lleva anos repitiendola, y no acusa de nada. La presion pasa del duelo como propiedad a la version como favor revocable — que es justo la herida que Chiara no puede reparar con una version mejor.
+**3. Escalada de Tommaso.** La jugada era identica a la del Capitulo 3 (invocar a Alessio); solo variaba la reaccion de ella. Ahora el segundo escalon trae material nuevo: Varek le pregunto por Palermo y por como Chiara llego a estar disponible para este trabajo, y Tommaso "le dio *la version*". No dice la verdad. No dice lo que paso. Dice la version, agrega que la repite muy bien y que lleva anos repitiendola, y no acusa de nada. La presion pasa del duelo como propiedad a la version como favor revocable — que es justo la herida que Chiara no puede reparar con una version mejor.
 
 Respeta la restriccion de [[12_Craft_Policies/revelations/SAGA_LEVEL]]: **Tommaso no confirma saber lo que Chiara hizo**, y todo lo que dice es deniable.
 
@@ -1655,19 +1655,19 @@ Se abrio entrada en [[12_Craft_Policies/revelations/Book_01_Seda_y_Polvora]] con
 
 **Archivos tocados:** `11_Books/.../05_La_Casa_No_Quiere_Ruido.md`, `12_Craft_Policies/Redaccion_De_Capitulos.md`, `12_Craft_Policies/revelations/Book_01_Seda_y_Polvora.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`, `tools/epub-build/output/Seda_y_Polvora.epub`.
 
-## [2026-08-26] canon | Trasfondo de Dario Valcora: el incendio, las mellizas y lo que siente por Cole
+## [2026-08-26] canon | Trasfondo de Dario Varek: el incendio, las mellizas y lo que siente por Cole
 
-Canon del autor entregado directo en chat, integrado a [[02_Characters/Dario_Valcora]].
+Canon del autor entregado directo en chat, integrado a [[02_Characters/Dario_Varek]].
 
 **1. El incendio y las mellizas — CANON.** La exesposa de Dario lo engano. Esa misma noche la quemo viva dentro de su propia casa y monto el incendio para que sus tres hijas mellizas nunca supieran que fue el. Se quemo el mismo la cara para sostener la version de que habia intentado salvarla: la cicatriz que lleva hoy es coartada, no accidente ni herida de guerra. La misma noche se entero de que las mellizas no eran hijas suyas — no se lo dijo a nadie y nunca cambio como las trata. Siguen siendo, hasta hoy, las unicas tres personas que quiere en el mundo.
 
 Esto resuelve dos PENDIENTE que ya existian en la ficha: **"su logica decente"** (protege la mentira que sostiene a sus hijas — el mismo musculo de hacer lo brutal y presentarlo como sacrificio que gobierna toda su forma de operar) y, en parte, **"apariencia"** (la cicatriz de la cara queda fijada como objeto central del personaje). Sigue pendiente su edad y como se comporta cuando pierde.
 
-**2. Lo que siente por Cole — DISENO.** Despues de H6, Valcora desarrolla un amor romantico no correspondido y frustrado hacia Cole, nunca nombrado ni pensado en esos terminos. Se ve solo en conducta: favoritismo constante, rara vez le niega algo a Cole una vez que empiezan a trabajar juntos. Es la explicacion real (nunca dicha en el texto) de por que "desvia momentaneamente su atencion de Chiara" en H6. Chiara lo detecta y se lo dice a Cole; el siempre lo desestima, pero ambos saben, sin decirselo con esas palabras, que puede tener sentido. Explica por que Dario se ensana con Chiara: ella ocupa, sin saberlo, el lugar que el no puede tener.
+**2. Lo que siente por Cole — DISENO.** Despues de H6, Varek desarrolla un amor romantico no correspondido y frustrado hacia Cole, nunca nombrado ni pensado en esos terminos. Se ve solo en conducta: favoritismo constante, rara vez le niega algo a Cole una vez que empiezan a trabajar juntos. Es la explicacion real (nunca dicha en el texto) de por que "desvia momentaneamente su atencion de Chiara" en H6. Chiara lo detecta y se lo dice a Cole; el siempre lo desestima, pero ambos saben, sin decirselo con esas palabras, que puede tener sentido. Explica por que Dario se ensana con Chiara: ella ocupa, sin saberlo, el lugar que el no puede tener.
 
 Regla de escritura marcada en la ficha: esto no se dice nunca en voz alta, ni siquiera entre Cole y Chiara con total claridad. Se construye por acumulacion de favoritismo y silencios; el lector lo intuye antes que los personajes lo confirmen entre si.
 
-**Archivos tocados:** `02_Characters/Dario_Valcora.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+**Archivos tocados:** `02_Characters/Dario_Varek.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
 
 ## [2026-08-26] canon | Torneo de poker con Walt y nacimiento del primer Oido
 
@@ -2009,7 +2009,7 @@ Se regeneró el EPUB con los 14 capítulos.
 
 El autor entregó canon nuevo: el ataque a Chiara (un golpe cerrando un corral, primera aparición en prosa del Consorzio aunque no se nombra en el momento), la estancia en la Casa Comunitaria de La Almendra, la fricción con Nadir que eso enciende, la recompra y diseño de la casa de los padres de Cole, y la vida doméstica que crece por costumbre. Además, un arco posterior reservado: dos hombres del consiliere interceptan a Chiara saliendo de la iglesia, la acusan de conspirar contra la mesa del Consorzio, ella corrige "Ardizzone" en vez de "Bellandi", le dejan un pañuelo bordado con una "C" y una bala con la advertencia "Pon tu casa en orden, Sra. Ardizzone, o hablaremos de este Mercer tuyo" — semilla del futuro viaje a Palermo.
 
-**Conflicto detectado antes de escribir:** el autor mencionó un momento de tensión con armas entre Cole y Darío en el hospital — eso ya es canon existente de H5 ([[02_Characters/Dario_Valcora]]). Se preguntó al autor para no duplicarlo; confirmó que en H12 Cole investiga por su cuenta sin que Darío se involucre, y que el enfrentamiento con armas se queda reservado para H5. Registrado como nota de continuidad explícita en Hitos.md.
+**Conflicto detectado antes de escribir:** el autor mencionó un momento de tensión con armas entre Cole y Darío en el hospital — eso ya es canon existente de H5 ([[02_Characters/Dario_Varek]]). Se preguntó al autor para no duplicarlo; confirmó que en H12 Cole investiga por su cuenta sin que Darío se involucre, y que el enfrentamiento con armas se queda reservado para H5. Registrado como nota de continuidad explícita en Hitos.md.
 
 **Conflicto de secuencia:** H12 asume que la casa todavía no está recomprada ni diseñada, pero los Capítulos 9-14 (numeración vieja) ya la daban por hecha. Se preguntó al autor; confirmó insertar H12 antes del Capítulo 9. Esto disparó un segundo reordenamiento: 09→11, 10→12, 11→13, 12→14, 13→15, 14→16 (renombrado de archivos, headers internos, y referencias cruzadas en unos 10 archivos del vault vía sed). Se detectó un bug de sed en patrones de rango tipo "Capítulos 10-11" (sólo el primer número se convertía); corregido a mano en `98_Agent_Handoff/CURRENT_BRIEF.md` y `07_Ideas/El_Infarto_De_Hector.md` tras revisar los diez archivos tocados.
 
@@ -2096,3 +2096,31 @@ Añadido un desliz más (a pedido del autor): la línea de Chiara ante la calave
 Añadido un beat corto justo después del silencio del jacuzzi: se sostienen la mirada "un segundo, y después el segundo de más" y, en vez de decir algo verdadero o levantarse, los dos hacen a la vez la misma mueca de basta dirigida "a lo que se estaba armando entre los dos". No dentro del silencio del jacuzzi (que se conserva sin defusar), sino como respuesta a él: dejan que uno aterrice sin defensa y al siguiente deciden sin palabras no permitirlo. Queda plantado como gesto compartido, mismo registro que el choque de puños, disponible para recurrir. Registrado en [[06_Relationships/Hitos]], ruta de H2-b ítem 3.
 
 **Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos.md`, `06_Relationships/Hitos.md`, `log.md`.
+
+## [2026-08-28] edit + canon | Capítulo 9 — El corral (rework del cierre del arco, beats 7-8 de H5)
+
+A pedido del autor, se reescribió todo el tramo del Capítulo 9 desde el alta de Chiara en adelante y se ajustó un detalle previo.
+
+**El bolso (continuidad).** Antes: el bolso aparecía con cartera y reloj intactos y "nadie roba y deja el reloj" era lo que no cuadraba. Ahora: Cole recoge el bolso en las caballerizas antes que nadie y se guarda cartera y reloj para que el asalto sea creíble; lo único que de verdad falta es el teléfono (encaja con la llamada del atacante). Cole se los devuelve a Chiara en el parador del norte, y ese gesto le muestra a ella cuánta versión se armó mientras dormía.
+
+**El alta y la coartada conjunta.** Cole la ayuda a vestirse (abrigo, pelo sobre el vendaje; "el silencio era lo más parecido a un idioma común que les quedaba"). Dario llega antes de firmar el papeleo; Chiara percibe que la tregua ya está firmada y se sube a la versión en marcha. La mentira conjunta se remienda en vivo con dos grietas: "corral" vs "caballerizas" (parche: "estaba entre las dos cosas") y si esperaba a Cole ese domingo (parche: una "entrega de forraje" que Dario repite como "una tabla clavada encima de un agujero"). Dario no cree, no puede probar nada, "decide esperar a que la mentira se pudra sola". Es la grieta de diseño del beat 6 de H5, ahora explícita.
+
+**Vigilancia y seguidor.** Dario anuncia "un par de hombres, discretos" en el casino (Chiara: protección y vigilancia son la misma palabra en su boca) y manda un seguidor tras Cole. En el camino Cole detecta un sedán gris desde el hospital ("gente de Dario, si tenemos suerte"). Ejecuta el beat 7 de H5.
+
+**Maniobra por el túnel este (geografía nueva).** Se establece la bahía de carga del Monarch conectada a un túnel de servicio bajo el puente del canal, homologado como salida de evacuación, sin cámaras de lobby en la rampa de proveedores. Chiara entra por ahí para que el seguidor la "vea llegar a casa"; veinte minutos después salen a pie por atrás. Reemplaza la "coartada con cámaras" del beat 8 de H5 por "entrar visible, salir sin registro". Registrado en `03_Factions/El_Casino.md`.
+
+**Parador del norte.** Aparcan en un parador de autopista y reconstruyen los hechos "no para la versión, para mí". Chiara está a un centímetro de nombrar el Consorcio y se detiene: sólo dice que "gente de antes", de la vida de su padre y de los socios, prueba si puede plantar una bandera en San Aurelio, y que no le dará el nombre porque metería a Cole en algo que no podría soltar (simetría con el beat 11 de H5 / el jacuzzi, donde sí se lo cuenta). Cole le devuelve sus palabras: "Ya estoy dentro contigo. ¿O cómo era? Él es Cole Mercer, vengan a conocerlo. Lo dijiste tú." Ella: "No. Pero tampoco me arrepiento."
+
+**La broma del motel.** Chiara pide un motel de paso; Cole se burla ("un motel, dice ella... tú vienes conmigo"). En su cabeza la frase tiene demasiados significados y ella se queda con "la más barata de todas", la operativa, la que le deja decir "sólo esta vez" — "la mentira más económica que se dijo en toda la noche".
+
+**Cierre en la casa común.** Llegan de madrugada. Cole le da el único cuarto que "no gritaba de quién era" (ni el desorden de Danny ni las cajas de Nadir), le da su palabra de que ahí está segura; ella baja la mirada y él la abraza — la siente temblar, y no es frío: Chiara entendió que ya no hay punto de retorno, que lo que viene tras ella puede alcanzar ahora a Cole "no porque a eso le interese ella, sino porque a ella le interesa él". Diálogo corporal sin frase que lo explique. Cierra la idea de Cole como "el hombre dispuesto a meter los dos brazos hasta el codo" aunque se lo niegue como "sólo un favor": a partir de esa noche no vuelve a decirle que no cuando están en juego su seguridad o su sonrisa. Los muchachos la dejan quedarse sin votación; "¿por cuánto tiempo?" / "Lo necesario. Hasta que ya no lo sea" — se lo ganó porque nunca les negó un favor ni cobró ninguno ("a la familia no se le cobran los favores"); pueden pelearle, dudar de él no. Nadir cumple como los demás y calla, pero es el único que al decir que sí no la mira a ella (engancha con la apertura del Capítulo 10, que queda intacto).
+
+El atacante sigue sin identificarse ni sugerirse.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Corral.md`, `06_Relationships/Hitos.md` (H12: nueva subsección "El alta, la coartada conjunta y la salida al norte", ampliadas "La casa común" y "La fricción con Nadir", nota del bolso; H5: nota de fusión ampliada a beats 1-8), `03_Factions/El_Casino.md` (bahía de carga / túnel este), `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-29] canon | Migración Valcora -> Varek y nuevos hitos
+
+El autor confirmó que el apellido canon de Dario es **Varek** y que su origen es croata-estadounidense, con ascendencia dálmata o balcánica. La organización no debe leerse como mafia italiana. Se renombraron sus fichas, se actualizaron las referencias activas y se crearon fichas base para Lucia, Beatrice/Trix y Vivian/VV/Tri-V.
+
+Se integraron en `06_Relationships/Hitos.md` dos hitos por numerar: la formalización verbal de Cole y Chiara ("mi pareja") y el arco mayor de la iglesia, la caída y la ejecución de Dario. H13 permanece como evento previo e independiente. Los números y pendientes de desarrollo siguen abiertos.

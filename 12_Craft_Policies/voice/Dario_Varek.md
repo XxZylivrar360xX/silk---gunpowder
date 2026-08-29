@@ -1,4 +1,4 @@
-# Ficha de Voz - Dario Valcora
+﻿# Ficha de Voz - Dario Varek
 
 ## Cadencia y sintaxis
 
@@ -23,4 +23,5 @@ Da la mano como si estuviera cerrando un acuerdo ya decidido. Mira a la persona 
 —Me alegra que haya llegado bien, signora Bellandi. Hay mucho que cuidar.
 
 —Hablemos cuando todos hayamos visto la misma habitacion.
+
 

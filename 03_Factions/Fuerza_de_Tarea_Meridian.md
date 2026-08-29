@@ -57,7 +57,7 @@ La fuerza funciona mejor como un equipo con fricciones internas, no como un solo
 
 ### Comando
 
-- **[[02_Characters/Andrew_Callahan]]** — agente especial supervisor, Organized Crime / RICO. Comandante de Meridian. Su obsesión inicial es [[02_Characters/Dario_Valcora]], no Cole: *Mercer no importa; Valcora importa.*
+- **[[02_Characters/Andrew_Callahan]]** — agente especial supervisor, Organized Crime / RICO. Comandante de Meridian. Su obsesión inicial es [[02_Characters/Dario_Varek]], no Cole: *Mercer no importa; Varek importa.*
 
 ### Equipo federal
 
@@ -93,7 +93,7 @@ Cole entiende favores, territorio y gente. Meridian entiende patrones, jurisdicc
 
 La división interna importa:
 
-- Callahan quiere a Valcora.
+- Callahan quiere a Varek.
 - Mara empieza a querer entender a Cole.
 - Nora sigue el dinero hacia Garrett.
 - Priya y Leah descubren que el expediente oficial no alcanza.
@@ -111,7 +111,7 @@ Pero el punto más peligroso no es técnico. Es emocional:
 
 > **El mismo tipo de institución que le negó enterrar a su padre ahora viene a decidir qué es Cole.**
 
-Eso puede empujarla a errores que no cometería contra Valcora o el Consorcio.
+Eso puede empujarla a errores que no cometería contra Varek o el Consorcio.
 
 ---
 

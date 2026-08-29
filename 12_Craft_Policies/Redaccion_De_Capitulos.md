@@ -65,7 +65,7 @@ El primer capitulo debe instalar la tesis sin decirla:
 - Cole sale del barrio y llega al mundo del casino.
 - Chiara llega desde Italia a un negocio que no es suyo.
 - Matteo Bellacorte funciona como bisagra.
-- Dario Valcora aparece como la cima local del poder.
+- Dario Varek aparece como la cima local del poder.
 - El encuentro de Cole y Chiara debe sentirse inevitable sin parecer casualidad conveniente.
 
 ## Provisionalidad
@@ -78,4 +78,3 @@ Marcar como provisional lo que dependa de nombres o decisiones pendientes. No re
 - jurisdiccion o ruta si aun no existe ficha.
 
 La prosa puede sostener el hueco; no debe esconderlo.
-

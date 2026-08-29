@@ -66,21 +66,21 @@ No lo dirán así. Nadie va a decir una palabra reprochable — hablarán de *pr
 
 ---
 
-## Relación con [[02_Characters/Dario_Valcora]]
+## Relación con [[02_Characters/Dario_Varek]]
 
-**CANON, y es deliberado que sea así:** Valcora **no pertenece** a Il Consorzio, y el Consorcio **no trabaja para** Valcora. Tienen **un acuerdo**.
+**CANON, y es deliberado que sea así:** Varek **no pertenece** a Il Consorzio, y el Consorcio **no trabaja para** Varek. Tienen **un acuerdo**.
 
 San Aurelio y sus alrededores ofrecen: **puerto, aeropuertos, rutas del Pacífico, acceso a Estados Unidos, infraestructura financiera, y conexiones hacia Latinoamérica y Asia.**
 
-Valcora controla territorio suficiente para que a Il Consorzio le convenga negociar con él, no pasarle por encima.
+Varek controla territorio suficiente para que a Il Consorzio le convenga negociar con él, no pasarle por encima.
 
-| Valcora aporta | Il Consorzio aporta |
+| Varek aporta | Il Consorzio aporta |
 |---|---|
 | territorio y logística | acceso internacional |
 
 **Y los dos saben que podrían funcionar sin el otro. Sería más caro, nada más.**
 
-> **DISEÑO:** este equilibrio existe para que **Valcora no se vuelva absurdamente poderoso** — no controla una organización mundial, negocia con ella. Mantiene la escala del libro en una ciudad, como manda [[00_Biblia/Vision]].
+> **DISEÑO:** este equilibrio existe para que **Varek no se vuelva absurdamente poderoso** — no controla una organización mundial, negocia con ella. Mantiene la escala del libro en una ciudad, como manda [[00_Biblia/Vision]].
 
 ---
 
@@ -133,10 +133,10 @@ La confirmación (sin pruebas, sólo deducción de Chiara) llega en H13, "El pa�
 
 > **PENDIENTE:** la famiglia Lusardi dentro del Consorcio. *Los Lusardi quieren explicaciones.*
 
-> **PENDIENTE:** ¿quién mandó a Chiara a San Aurelio — el Consorcio, Valcora, o su familia? Sigue siendo el reloj de la primera parte.
+> **PENDIENTE:** ¿quién mandó a Chiara a San Aurelio — el Consorcio, Varek, o su familia? Sigue siendo el reloj de la primera parte.
 
 > **PENDIENTE:** en qué momento la organización de Cole necesita ser *reconocida*, y qué precio pone el Consorcio por reconocerla.
 
 ---
 
-Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Dario_Valcora]] · [[04_Concepts/Quien_Decide_Quien_Soy]]
+Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Dario_Varek]] · [[04_Concepts/Quien_Decide_Quien_Soy]]

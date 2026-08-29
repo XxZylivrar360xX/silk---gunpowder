@@ -24,18 +24,24 @@ El primer cruce ocurre en la entrada del casino: ella fuma, observa, se presenta
 
 ## Punto de salida
 
-Al final, Cole y Chiara siguen juntos y han construido una ciudad que responde a sus metodos: territorio y relato. Lo que queda herido no es el imperio, sino la intimidad que lo hizo posible.
+Al final, Cole y Chiara siguen juntos, pero han abandonado San Aurelio y desaparecido de la ciudad que construyeron. El imperio queda atras; el hogar viaja con ellos a Palermo. La imagen final es domestica: una casa modesta azul, molduras blancas, jardin, Chiara con una copa de vino y Cole preparando la comida.
 
 ## Tesis emocional
 
 Dos personas que nunca tuvieron un lugar propio construyen uno tan grande que ya no caben adentro.
 
+La resolucion de esa tesis no es que conquisten mejor el imperio, sino que descubran que el hogar nunca fue el imperio: fue la persona con la que lo construyeron.
+
+## Arco total
+
+`conocerse -> aprender a funcionar juntos -> sobrevivir una guerra -> convertirse en institucion -> descubrir que la institucion puede devorarlos -> abandonarla juntos`
+
 ## Protagonistas y arcos
 
 | Personaje | Empieza en | Presion principal | Decision clave | Termina en |
 |-----------|------------|-------------------|----------------|------------|
-| Cole Mercer | Fachada limpia, taller, deuda y barrio | Necesitar a alguien sin convertirlo en perdida futura | Dejar que Chiara se quede y volver a casa | Con territorio, familia elegida y una vulnerabilidad que ya no puede administrar solo |
-| Chiara Bellandi | Llegada de Palermo, poder prestado y version controlada de si misma | Quedarse sabiendo que quedarse cobra | Elegir a Cole y construir casa donde antes habia papel | Con relato, red propia y una pertenencia que tambien la deforma |
+| Cole Mercer | Fachada limpia, taller, deuda y barrio | Necesitar a alguien sin convertirlo en perdida futura | Dejar que Chiara se quede y abandonar el imperio sin abandonarla | Con territorio, familia elegida y una vulnerabilidad que ya no puede administrar solo |
+| Chiara Bellandi | Llegada de Palermo, poder prestado y version controlada de si misma | Quedarse sabiendo que quedarse cobra | Elegir a Cole y aceptar que conservar el hogar puede exigir perder la ciudad | Con relato, red propia y una pertenencia que ya no depende de un apellido ni de San Aurelio |
 
 ## Fuerzas de presion
 
@@ -48,23 +54,72 @@ Dos personas que nunca tuvieron un lugar propio construyen uno tan grande que ya
 
 ## Estructura
 
-### Part 01 - El Encuentro Y La Nada
+### Parte I — El Encuentro Y La Nada
 
-Funcion: instalar a Cole y Chiara antes del poder, el casino, el primer rechazo, la cadena de favores, la primera cena y la costumbre de contarse el dia.
+Funcion: contar como Cole y Chiara se conocen, se reconocen, se vuelven utiles, construyen amistad, desarrollan intimidad, se enamoran y se eligen antes de que exista un imperio compartido. La trama criminal es el mecanismo mediante el cual se enamoran.
 
-Material base: H2, H2-a, H2-b.
+Movimiento relacional: `extraños -> reconocimiento -> utilidad -> amistad -> intimidad -> eleccion`.
 
-### Part 02 - La Construccion
+Material base: H2, H2-a, H2-b, formalizacion de “mi pareja”, H3, H12, H11 y H10, con el corte definitivo aun pendiente.
 
-Funcion: convertir los favores en sociedad, la sociedad en pareja y la pareja en arquitectura de poder. Aqui viven la formula territorio/relato, la toma de autonomia y las escenas domesticas que luego deberan desaparecer.
+Condicion de salida: el lector ya sabe que se han elegido aunque ellos todavia no hayan convertido esa eleccion en institucion.
 
-Material base: H3, H4, H9, H5, H6, H7.
+### Parte II — La Construccion
 
-### Part 03 - La Factura
+Funcion: mostrar a Cole y Chiara habitando San Aurelio juntos y separados, construyendo poder mediante habilidades distintas hasta que la ciudad empieza a reaccionar ante ellos como un sistema de dos personas. Esta es la parte de la sinergia.
 
-Funcion: mostrar el costo de tenerlo todo. La violencia llega a la casa, aparece la mentira del incendio, la villa se construye y el clímax cobra el ritual de volver a casa.
+Cole construye territorio, rutas, negocios, dependencias y capacidad logistica. Chiara construye relato, reputacion, red social, instituciones, conexiones, i Sussurri y capacidad de hacer visible o invisible un hecho.
 
-Material base: H8, formalizacion pendiente, primera Navidad/collar, mudanza, clases de italiano, H1.
+Regla: no convertirlos en una sola entidad demasiado pronto. Debe haber frentes propios, operaciones compartidas y consecuencias donde una accion de uno facilite el trabajo del otro sin coordinacion explicita.
+
+Material base: H4, H9, H5, H6 y H7, mas los capitulos que desarrollen la construccion de la casa y la operacion conjunta.
+
+Umbral de salida: su crecimiento deja de ser tolerable para el ecosistema criminal y San Aurelio empieza a pelear por los huecos que ellos explotaban.
+
+### Parte III — La Guerra de los Tres
+
+**Titulo provisional de trabajo.**
+
+Funcion: llevar San Aurelio a su etapa contemporanea mas oscura y enfrentar tres filosofias de poder:
+
+- **Dario Varek:** poder consolidado, administracion del miedo y gobierno desde arriba.
+- **El Gatillo:** poder por violencia y desestabilizacion. Su biografia y destino siguen pendientes.
+- **Cole Mercer:** poder por dependencia, utilidad y absorcion.
+
+Chiara participa desde versiones, alianzas, informacion, dinero, eventos, reputacion y neutralidades. La guerra debe afectar civiles, hospitales, negocios, barrios, policia y la normalidad de la ciudad. Cole puede estar salvando San Aurelio y ayudando a destruirla al mismo tiempo.
+
+Final de parte: la guerra abierta termina, Cole emerge como el actor de mayor crecimiento, Dario sobrevive y queda un vacio de poder que ellos empiezan a llenar.
+
+### Parte IV — Hierro Y Seda
+
+**Titulo de trabajo.**
+
+Funcion: mostrar la consolidacion publica y economica de Cole y Chiara despues de la guerra. Ya no son solamente operadores: se convierten en figuras reconocibles de San Aurelio.
+
+La prensa termina llamandolos **La Mancuerna de Hierro y Seda**. Ellos no inventan el apodo; Cole puede incomodarse y Chiara puede entender su utilidad.
+
+Los cuarenta o mas negocios, intereses y organizaciones son una red de propiedades, participaciones, contratos, sociedades, inmuebles, patrocinios, fundaciones, eventos e influencia; no significa que posean directamente cuarenta empresas.
+
+Dario Varek sobrevive la Parte III y enfrenta a un Cole demasiado grande, una Chiara mas autonoma y una pareja que ya no puede administrar como activos independientes. La confianza se erosiona sin que ellos se separen.
+
+El cierre macro de esta parte es la investigacion legal sobre Dario, el atentado posterior en una iglesia, la muerte de Kenji, las heridas graves de Chiara, el descubrimiento de la responsabilidad de Dario, la llegada de Lucia Varek con policia y federales, y la ejecucion de Dario por Cole antes del arresto. El hito detallado queda fuera de este mapa y requiere documento posterior.
+
+La ejecucion no es una victoria limpia: contamina el ascenso de Cole y hace que el conflicto deje de poder permanecer exclusivamente local.
+
+### Parte V — La Factura
+
+Funcion: cobrar todo lo construido durante las cuatro partes anteriores. Entra plenamente la Fuerza de Tareas Meridian, que busca demostrar la estructura causal que conecta a Cole Mercer con el imperio.
+
+La inversion es completa: los negocios se vuelven vectores de investigacion, los amigos posibles testigos, las propiedades lugares vigilables, el relato una version contrastable y San Aurelio una jaula.
+
+La pregunta final no es si van a terminar juntos, sino si pueden abandonar juntos aquello que dedicaron toda la novela a construir. Meridian los acorrala en el cierre del imperio; la red que construyeron permite el engaño final y la desaparicion.
+
+El libro termina en Palermo, no dentro del imperio. La ultima imagen es la casa modesta y la vida domestica. El dialogo de cierre propuesto queda registrado como canon de salida:
+
+> **Chiara:** —No vayas a quemar de nuevo la cocina, amore.
+> **Cole:** —No prometo nada.
+
+Material base: la caida y ejecucion de Dario, el hito mayor de la iglesia, Meridian, el clímax del rascacielos, la desaparicion y el cierre en Palermo.
 
 ## Limites del libro
 
@@ -84,12 +139,53 @@ Material base: H8, formalizacion pendiente, primera Navidad/collar, mudanza, cla
 
 ## Pendiente de decidir
 
-- Numero definitivo de partes.
 - Arco temporal total.
-- Donde ocurre el paso del usted al tu.
-- Escena de formalizacion.
+- Corte exacto entre Parte I y Parte II.
+- Evento que dispara la guerra abierta de la Parte III.
+- Victoria o transformacion que cierra la guerra y abre el vacio de poder.
+- Si la ejecucion de Dario cierra literalmente la Parte IV o si necesita un breve capitulo de consecuencias.
+- Posicion y ejecucion de la formalizacion “mi pareja”.
 - Primera Navidad y entrega del collar.
 - Operacion especifica del clímax H1.
+
+## Umbrales auditados
+
+### A — Parte I -> Parte II
+
+- **Candidato actual:** H10, con H11 como preparacion inmediata.
+- **Evidencia:** H11 establece la primera intimidad; H10 convierte la eleccion en una decision reciproca mediante el hospital, la carta y la mano sobre la mano.
+- **Riesgo:** el orden actual de capitulos e hitos no esta completamente estabilizado; no mover capitulos en este encargo.
+- **Estado:** **DISEÑO**.
+
+### B — Parte II -> Parte III
+
+- **Candidato actual:** H5 puede ser la primera agresion sistemica, pero no demuestra por si solo que el crecimiento de la pareja haya disparado una guerra abierta.
+- **Evidencia:** H4, H9, H5, H6 y H7 construyen tension, operaciones y entrada de Cole en la estructura de Varek.
+- **Riesgo:** convertir un ataque aislado en guerra sin mostrar la reaccion del ecosistema criminal.
+- **Estado:** **PENDIENTE — requiere diseño**.
+
+### C — Parte III -> Parte IV
+
+- **Candidato actual:** no hay una victoria final de la guerra abierta fijada con suficiente precision. H7 cierra un arco de tension, pero no necesariamente la guerra de tres.
+- **Evidencia:** la nueva arquitectura exige que Dario sobreviva y que quede un vacio de poder que Cole y Chiara puedan llenar.
+- **Riesgo:** hacer que la consolidacion parezca un salto administrativo sin una transformacion visible de San Aurelio.
+- **Estado:** **PENDIENTE — requiere diseño**.
+
+### D — Parte IV -> Parte V
+
+- **Direccion macro:** la caida/ejecucion de Dario convierte el conflicto en un problema federal y abre Meridian.
+- **Recomendacion:** hacer que la ejecucion sea el ultimo golpe de Parte IV y usar un capitulo breve de consecuencias como bisagra de Parte V, sin crear ni renombrar capitulos todavia.
+- **Riesgo:** abrir Meridian como un epilogo explicativo o convertir a Mara Ellison en una copia federal de Dario.
+- **Estado:** **DISEÑO**.
+
+## Conflictos y compatibilidades detectados
+
+- El Book Map anterior presuponia tres partes y terminaba dentro del imperio; la nueva arquitectura lo corrige a cinco partes y desplaza la salida a Palermo.
+- El rediseño de Dario Varek y sus hijas ya fue integrado como canon del autor el 2026-08-29. El apellido anterior queda fuera del canon activo.
+- H1 sigue ocurriendo en Villa Candelaria; Palermo es el destino final posterior, no una sustitucion de la escena del regreso a casa.
+- H13 — El pañuelo sigue siendo un evento independiente del atentado posterior de iglesia. No se modifica aqui.
+- Los capitulos 1–16 conservan su ubicacion fisica actual. No se crean `Part_04` ni `Part_05`.
+- El destino de El Gatillo, el contenido detallado de la caida de Dario y la transicion exacta entre partes permanecen abiertos.
 
 ## Capítulos en montaje
 

@@ -90,4 +90,3 @@ Narrativamente, su método es **hacer preguntas que nadie le puede comprar a Col
 ---
 
 Ver también: [[02_Characters/Cole_Mercer]] · [[02_Characters/Michael_Grayson]]
-

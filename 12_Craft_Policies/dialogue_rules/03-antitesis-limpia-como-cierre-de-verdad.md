@@ -21,4 +21,3 @@ La novela ya tiene una tesis fuerte: territorio y relato; seda y polvora; quedar
 ## Excepcion
 
 Funciona cuando el personaje tiene voz de version publica, control institucional o poder doctrinal: Chiara en modo profesional, Dario, Valenti, un fiscal, un comunicado. Tambien puede funcionar en clímax donde el libro necesita pagar una tesis acumulada.
-

@@ -35,9 +35,9 @@ El centro viejo existe como concentración de institución: hospitales, Ayuntami
 
 ## Detonante Inicial
 
-Al iniciar el libro, el jefe actual, [[02_Characters/Raymond_Keene]], es asesinado por orden de [[02_Characters/Dario_Valcora]].
+Al iniciar el libro, el jefe actual, [[02_Characters/Raymond_Keene]], es asesinado por orden de [[02_Characters/Dario_Varek]].
 
-La versión pública puede ser un atentado contra la institución. La verdad narrativa es más incómoda: Keene probablemente estaba coludido con Valcora y se volvió un problema. Eso presenta la cara del villano sin convertirlo en caricatura: Valcora no sólo mata enemigos, también elimina piezas que dejaron de servir.
+La versión pública puede ser un atentado contra la institución. La verdad narrativa es más incómoda: Keene probablemente estaba coludido con Varek y se volvió un problema. Eso presenta la cara del villano sin convertirlo en caricatura: Varek no sólo mata enemigos, también elimina piezas que dejaron de servir.
 
 La muerte de Keene abre la puerta a [[02_Characters/Elena_Vega]].
 
@@ -71,7 +71,7 @@ Los demás oficiales no necesitan nombre. Responden 911, aseguran escenas, persi
 
 - **Denise Harrow** — Detective Lieutenant. Supervisa detectives y decide quién toma casos importantes.
 - **[[02_Characters/Luis_Ortega]]** — Detective 1 / Homicidios. Principal detective policial del caso Mercer.
-- **[[02_Characters/Gloria_Chen]]** — Detective 2 / Crimen Organizado-Vice. Conoce a Valcora, clubes, apuestas, extorsión, narcóticos e informantes.
+- **[[02_Characters/Gloria_Chen]]** — Detective 2 / Crimen Organizado-Vice. Conoce a Varek, clubes, apuestas, extorsión, narcóticos e informantes.
 - **[[02_Characters/Noah_Pierce]]** — Detective 3 / generalista joven. Compañero de Luis; permite discutir la teoría de Cole desde otra mirada.
 
 La fórmula narrativa:

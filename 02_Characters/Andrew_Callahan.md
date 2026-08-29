@@ -23,11 +23,11 @@
 
 Andrew Callahan dirige [[03_Factions/Fuerza_de_Tarea_Meridian]] cuando los federales entran a San Aurelio por la escala internacional de los negocios de Cole.
 
-Su obsesión inicial no es Cole. Es [[02_Characters/Dario_Valcora]].
+Su obsesión inicial no es Cole. Es [[02_Characters/Dario_Varek]].
 
 Callahan mira organizaciones completas: jerarquías, conspiraciones, asociaciones, cargos RICO y la forma de convertir veinte delitos aparentemente aislados en un solo caso federal. Por eso al principio repite una idea que incomoda a todos:
 
-> **Mercer no importa. Valcora importa.**
+> **Mercer no importa. Varek importa.**
 
 El giro narrativo es que puede ser precisamente él quien descubra que Cole es imposible de separar del caso.
 

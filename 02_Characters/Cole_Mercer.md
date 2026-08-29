@@ -257,7 +257,7 @@ Más adelante, en H13, Chiara le muestra el pañuelo y la bala que le dejó el C
 - [[05_Locations/La_Casa]] — lo único que construye que no sirve para nada.
 - **[[02_Characters/Warren_Halbrook]]** — **su verdugo.** El general cuya red descubrió, y para quien Cole no es un héroe sino un desertor que sabe demasiado.
 - **[[02_Characters/Silas_Crowe]]**, *el Tasador* — **su antagonista inicial.** El hombre que le puso precio a la Almendra. Contra él construye su código.
-- **[[02_Characters/Dario_Valcora]]** — la cima del poder criminal de la ciudad. **Cole entra a su organización** en [[06_Relationships/Hitos]], H6 — para proteger a Chiara, y para comérsela desde dentro.
+- **[[02_Characters/Dario_Varek]]** — la cima del poder criminal de la ciudad. **Cole entra a su organización** en [[06_Relationships/Hitos]], H6 — para proteger a Chiara, y para comérsela desde dentro.
 - **[[02_Characters/Walter_Keegan]]**, *Walt* — amigo de su padre. Lo conoció de niño. Uno de los dos únicos hombres del libro que **no le deben nada**. Sale de prisión al empezar la novela, tras diez años que le armó Silas Crowe.
 - **[[02_Characters/Nadir_Amrani]]** — su mejor amigo. Se conocieron **en prisión**: Nadir era un mercader acusado de robo, y **fue quien lo ayudó a salir**. Una de las pocas relaciones de su vida que no empezó con un favor. Uno de los dos que lo ven perfumado y nervioso en [[06_Relationships/Hitos]], H2-a.
 - **[[02_Characters/Anya_Voronina]]** — contacto rusa y amor pasado de la época de Afganistán. Consiguió los papeles de Nadir y representa la versión de Cole que todavía no creía en el amor auténtico.

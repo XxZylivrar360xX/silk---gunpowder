@@ -99,7 +99,7 @@ Niveles:
 | Personaje | Prioridad | Desarrollo estimado | Fases | Uso |
 |---|---:|---:|---|---|
 | [[02_Characters/Silas_Crowe]] | B | 55% | 0-II | antagonista inicial de territorio |
-| [[02_Characters/Dario_Valcora]] | A/B | 85% | I-IV | antagonista principal de ciudad |
+| [[02_Characters/Dario_Varek]] | A/B | 85% | I-IV | antagonista principal de ciudad |
 | [[02_Characters/Warren_Halbrook]] | B | 70% | II-V | verdugo militar de Cole |
 | [[02_Characters/Leone_Valenti]] | B | 60% | II-V | Consorcio / Chiara |
 | [[02_Characters/Andrew_Callahan]] | B | 55% | IV-V | los federales como estructura |
@@ -142,11 +142,11 @@ Niveles:
 | [[02_Characters/Raymond_Keene]] | D/E | 20% | I | cadáver detonante |
 | [[02_Characters/Luis_Ortega]] | B/C | 45% | II-V | Homicidios, antagonista policial local |
 | [[02_Characters/Noah_Pierce]] | C | 30% | II-V | duda joven |
-| [[02_Characters/Gloria_Chen]] | C | 30% | II-IV | Valcora local / vice |
+| [[02_Characters/Gloria_Chen]] | C | 30% | II-IV | Varek local / vice |
 | [[02_Characters/Claire_Han]] | C | 35% | II-V | fiscal local |
 | [[02_Characters/Blake_Stanton]] | C | 30% | I-III | error de identificación, patrulla/tránsito |
 
-**Comentario sincero:** la policía local debe ser útil, pero no robarle la novela a los federales/Vega. Luis y Noah bastan como pareja de detectives. Gloria entra cuando aparece Valcora. Claire entra cuando hay que probar lo que la policía cree saber.
+**Comentario sincero:** la policía local debe ser útil, pero no robarle la novela a los federales/Vega. Luis y Noah bastan como pareja de detectives. Gloria entra cuando aparece Varek. Claire entra cuando hay que probar lo que la policía cree saber.
 
 ---
 
@@ -154,7 +154,7 @@ Niveles:
 
 | Personaje | Prioridad | Desarrollo estimado | Fases | Uso |
 |---|---:|---:|---|---|
-| [[02_Characters/Andrew_Callahan]] | B | 55% | IV-V | comandante RICO, Valcora primero |
+| [[02_Characters/Andrew_Callahan]] | B | 55% | IV-V | comandante RICO, Varek primero |
 | [[02_Characters/Mara_Ellison]] | B | 60% | IV-V | case agent, aprende a Cole |
 | [[02_Characters/Priya_Nair]] | C | 35% | IV-V | patrón, historial oficial roto |
 | [[02_Characters/Nora_Whitcomb]] | C | 35% | IV-V | dinero, Garrett/Cross River |
@@ -198,7 +198,7 @@ Niveles:
 
 ### Fase I — Primer favor
 
-**Activos:** Cole, Chiara, Blake, Dario, Silas, Héctor, Nadir, Danny, Valcora como amenaza lateral, Raymond Keene muere o su muerte abre crisis, Elena Vega entra.
+**Activos:** Cole, Chiara, Blake, Dario, Silas, Héctor, Nadir, Danny, Varek como amenaza lateral, Raymond Keene muere o su muerte abre crisis, Elena Vega entra.
 
 **Uso limitado:** Tyler puede aparecer por H9 si confirma la carrera.
 
@@ -206,7 +206,7 @@ Niveles:
 
 ### Fase II — La fórmula
 
-**Activos:** Dario, Silas, Valcora/Keene/Vega, Luis-Ortega/Noah, Gloria, Harper, Tyler, primera banda menor.
+**Activos:** Dario, Silas, Varek/Keene/Vega, Luis-Ortega/Noah, Gloria, Harper, Tyler, primera banda menor.
 
 **Entradas recomendadas:** Los Calderos, Marcadores de Milla, La Ronda.
 
@@ -222,7 +222,7 @@ Niveles:
 
 ### Fase IV — La ciudad
 
-**Activos:** Dario al máximo, Valcora contra El Patio, Vega, Luis/Noah/Claire, Callahan, Mara, Priya, Nora, Sofia, Garrett, Russ, Ren, Naomi.
+**Activos:** Dario al máximo, Varek contra El Patio, Vega, Luis/Noah/Claire, Callahan, Mara, Priya, Nora, Sofia, Garrett, Russ, Ren, Naomi.
 
 **Entradas recomendadas:** Meridian escalonada, no de golpe.
 

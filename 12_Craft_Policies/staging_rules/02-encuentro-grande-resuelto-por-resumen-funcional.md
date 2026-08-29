@@ -34,4 +34,3 @@ No hace falta alargar. Hace falta que el resultado no parezca administrativo.
 ## Excepcion
 
 La elipsis funciona si el foco narrativo es el eco posterior y no el evento. Pero no aplica cuando el evento es el mecanismo que cambia una relacion, una deuda o una jerarquia.
-

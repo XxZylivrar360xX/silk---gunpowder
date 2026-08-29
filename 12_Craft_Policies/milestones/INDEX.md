@@ -30,18 +30,19 @@ Si una escena nueva cambia de forma irreversible una relacion, deuda, ritual o j
 10. [[06_Relationships/Hitos#H4 — El día nublado]] - cita del golf; aqui se define la relacion.
 11. [[06_Relationships/Hitos#H9 — La carrera de máscaras]] - Chiara sale de su zona de confort y sonrie de verdad.
 12. [[06_Relationships/Hitos#H5 — El hipódromo]] - ataque contra Chiara; tension parte 1.
-13. [[06_Relationships/Hitos#H6 — El pacto]] - Cole entra a la organizacion de Valcora para proteger a Chiara y deshacerla desde dentro.
+13. [[06_Relationships/Hitos#H6 — El pacto]] - Cole entra a la organizacion de Varek para proteger a Chiara y deshacerla desde dentro.
 14. [[06_Relationships/Hitos#H7 — El río]] - cierre en calma del arco de tension; "vamos a casa".
 
 ## Fase IV / V - La factura
 
 15. [[06_Relationships/Hitos#H8 — El incendio, la mentira y la villa]] - queman el loft; Cole miente; nace Villa Candelaria.
 16. Primera Navidad y collar - pendiente de escena; nace "RETORNA A CASA".
-17. Formalizacion - pendiente de escena; dejan de ser "esto" y pasan a tener nombre.
+17. [[06_Relationships/Hitos#Hito por numerar — Mi pareja]] - formalización verbal; dejan de ser "esto" y pasan a tener nombre. Número y posición exacta pendientes.
+18. [[06_Relationships/Hitos#Hito mayor por numerar — La iglesia, la caída y la ejecución de Dario Varek]] - atentado, coma de Chiara, caída legal de Dario y ejecución por Cole. Número y detalles de desarrollo pendientes.
 
 ## Climax
 
-18. [[06_Relationships/Hitos#H1 — El regreso a casa]] - operacion imposible, piscina, Camila, bano, italiano, promesa cumplida.
+19. [[06_Relationships/Hitos#H1 — El regreso a casa]] - operacion imposible, piscina, Camila, bano, italiano, promesa cumplida.
 
 ## Huecos activos
 

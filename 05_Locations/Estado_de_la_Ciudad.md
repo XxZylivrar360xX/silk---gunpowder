@@ -2,7 +2,7 @@
 
 *Seda y Pólvora — tablero político y criminal de San Aurelio*
 
-> **CANON DE DISEÑO (2026-08-23):** San Aurelio entra al ascenso de Cole con tres crisis simultáneas: elecciones municipales, conflicto territorial en los barrios del sur y un mercado criminal sostenido por miedo bajo [[02_Characters/Dario_Valcora]]. El ascenso de [[02_Characters/Cole_Mercer]] funciona porque ofrece otra clase de orden: no menos criminal, pero sí más predecible para quienes viven debajo.
+> **CANON DE DISEÑO (2026-08-23):** San Aurelio entra al ascenso de Cole con tres crisis simultáneas: elecciones municipales, conflicto territorial en los barrios del sur y un mercado criminal sostenido por miedo bajo [[02_Characters/Dario_Varek]]. El ascenso de [[02_Characters/Cole_Mercer]] funciona porque ofrece otra clase de orden: no menos criminal, pero sí más predecible para quienes viven debajo.
 
 ---
 
@@ -16,10 +16,10 @@ El clima político se resume así:
 
 - hay elecciones municipales en el horizonte;
 - la alcaldía actual llega débil o gastada;
-- el jefe de policía anterior, [[02_Characters/Raymond_Keene]], acaba asesinado por orden de [[02_Characters/Dario_Valcora]], quizá porque estaba coludido y se volvió problema;
+- el jefe de policía anterior, [[02_Characters/Raymond_Keene]], acaba asesinado por orden de [[02_Characters/Dario_Varek]], quizá porque estaba coludido y se volvió problema;
 - [[02_Characters/Elena_Vega]] entra como nueva Chief en una institución bajo sospecha;
 - los barrios del sur están peleando territorio y mercado;
-- [[02_Characters/Dario_Valcora]] mantiene el equilibrio mediante miedo;
+- [[02_Characters/Dario_Varek]] mantiene el equilibrio mediante miedo;
 - [[03_Factions/El_Patio]] todavía parece una solución local antes de parecer amenaza;
 - [[03_Factions/El_Faro]] puede convertir una crisis en hecho público o enterrarla.
 
@@ -60,7 +60,7 @@ Si sube demasiado rápido, el lector tiene que sentir que no sólo Cole lo está
 
 Los barrios del sur no son un bloque. Son una franja rota de calles industriales, conjuntos viejos, talleres, bodegas pequeñas, vivienda barata y mercados nocturnos. Están lejos de la postal costera y cerca de todo lo que se mueve sin papeles.
 
-**Función narrativa:** son el primer lugar donde se ve que el orden de Valcora ya no alcanza.
+**Función narrativa:** son el primer lugar donde se ve que el orden de Varek ya no alcanza.
 
 ### Qué se pelea ahí
 
@@ -76,7 +76,7 @@ Los barrios del sur no son un bloque. Son una franja rota de calles industriales
 
 El sur es demasiado pobre para salir en la prensa todos los días y demasiado útil para abandonarlo. Eso lo vuelve perfecto para una guerra que todos niegan mientras la ciudad se prepara para votar.
 
-Valcora no necesita controlar cada esquina. Necesita que todas las bandas entiendan que su permiso es la diferencia entre operar y desaparecer.
+Varek no necesita controlar cada esquina. Necesita que todas las bandas entiendan que su permiso es la diferencia entre operar y desaparecer.
 
 ### Las cuatro bandas del sur
 
@@ -138,7 +138,7 @@ La tensión del libro empieza cuando esa red deja de parecer estable.
 
 ## Cómo Gobierna Dario A Las Bandas
 
-[[02_Characters/Dario_Valcora]] gobierna hacia abajo con miedo administrativo.
+[[02_Characters/Dario_Varek]] gobierna hacia abajo con miedo administrativo.
 
 No grita. No presume crueldad. No necesita hacerlo. Su sistema funciona porque todas las bandas creen tres cosas:
 
@@ -221,4 +221,4 @@ La elección y la guerra del sur deben cruzarse. Si ocurren en carriles separado
 
 ---
 
-Ver también: [[05_Locations/San_Aurelio]] · [[03_Factions/Bandas_Menores_de_San_Aurelio]] · [[02_Characters/Dario_Valcora]] · [[03_Factions/El_Patio]] · [[02_Characters/Russell_Whitaker]] · [[03_Factions/El_Faro]]
+Ver también: [[05_Locations/San_Aurelio]] · [[03_Factions/Bandas_Menores_de_San_Aurelio]] · [[02_Characters/Dario_Varek]] · [[03_Factions/El_Patio]] · [[02_Characters/Russell_Whitaker]] · [[03_Factions/El_Faro]]

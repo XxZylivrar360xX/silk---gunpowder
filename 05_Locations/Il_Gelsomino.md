@@ -31,4 +31,3 @@ Ese detalle prepara H2-a: la primera cena con Chiara no sale de la nada; Cole ya
 - [[02_Characters/Cole_Mercer]]
 - [[06_Relationships/Hitos]] - H2-a / primera cena
 - [[05_Locations/Vida_Civil_de_San_Aurelio]]
-

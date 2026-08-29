@@ -47,7 +47,7 @@ La mentira útil es decir que sólo son seguridad. La verdad útil es que muchas
 
 ## Relación con Dario
 
-[[02_Characters/Dario_Valcora]] los tolera porque controlan ruido nocturno en la costa sin pedir puerto grande. Mientras sólo sean seguridad de piso, son una herramienta.
+[[02_Characters/Dario_Varek]] los tolera porque controlan ruido nocturno en la costa sin pedir puerto grande. Mientras sólo sean seguridad de piso, son una herramienta.
 
 El problema empieza cuando la droga se vuelve flujo regular: quien controla puertas controla acceso al cliente final. Ahí Dario deja de verlos como motociclistas útiles y empieza a verlos como una llave de mercado.
 

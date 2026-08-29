@@ -4,7 +4,7 @@
 
 > **NOMBRE CANON DE DISEÑO (2026-08-23): The Monarch Casino & Hotel.** En diálogo: **el Monarch**. El archivo conserva el nombre `El_Casino.md` porque su función narrativa empezó antes que su nombre.
 
-**Qué es:** hotel-casino de [[05_Locations/San_Aurelio]], construido sobre un hotel costero de los años veinte y ampliado con una torre moderna de juego, suites y eventos. Propiedad de un grupo de socios italianos recién llegados, con [[02_Characters/Chiara_Bellandi]] entre ellos, y con [[02_Characters/Dario_Valcora]] como socio mayoritario local.
+**Qué es:** hotel-casino de [[05_Locations/San_Aurelio]], construido sobre un hotel costero de los años veinte y ampliado con una torre moderna de juego, suites y eventos. Propiedad de un grupo de socios italianos recién llegados, con [[02_Characters/Chiara_Bellandi]] entre ellos, y con [[02_Characters/Dario_Varek]] como socio mayoritario local.
 **Territorio:** borde del Distrito Marino, tocando La Isla sin pertenecerle. Fachada pública hacia Paseo Pacífica; acceso discreto de carga hacia Terminal Road / Ruta de Muelles.
 **Estado al abrir la novela:** llegando. Los socios aterrizan de Italia el mismo día en que Cole conoce a Chiara.
 
@@ -22,7 +22,11 @@ El Monarch está donde San Aurelio quiere verse cara: costa, cristal, valet, res
 
 **El penthouse** queda en la Torre Norte del Monarch. Ver [[05_Locations/El_Penthouse]].
 
-**Regla de escena:** nadie "desaparece" en el Monarch sin pagar costo. Hay demasiadas cámaras, valet, empleados, guardias, ascensores, registros y gente que vive de recordar caras.
+**La bahía de carga y el túnel este.** Bajo el nivel de calle, la bahía de recepción de proveedores conecta con un **túnel de servicio que corre por debajo del puente del canal** hasta la orilla — construido como acceso de mercancías y homologado también como **salida de evacuación** del complejo. Huele a marea y a diésel; no lo usa casi nadie. Ninguna cámara del lobby cubre la rampa de proveedores que sale por ahí. Es la ruta por la que se puede entrar al Monarch de forma visible (para que alguien "vea" llegar a una persona) y salir sin que nadie lo registre. Usada así por primera vez en el Capítulo 9 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Corral]]): Chiara entra por la bahía con un seguidor detrás y sale a pie con Cole por la parte de atrás.
+
+> Complementa el **elevador privado** de Dario (penthouse / lobby / estacionamiento subterráneo, sin picaporte visible). El elevador evita los pasillos de huéspedes; el túnel este evita el edificio entero.
+
+**Regla de escena:** nadie "desaparece" en el Monarch sin pagar costo. Hay demasiadas cámaras, valet, empleados, guardias, ascensores, registros y gente que vive de recordar caras. **El túnel este es la única excepción parcial, y sólo la conoce quien administra el edificio.**
 
 ## Qué es en la estructura del libro
 
@@ -32,7 +36,7 @@ El casino es la Fase 0 a II. El diario es la Fase III en adelante. Ver [[01_Time
 
 **Y es la primera organización que la máquina de Cole se come**, a escala pequeña, delante del lector. La cadena de favores (H2, continuación) es literalmente las fases 1 y 2 del método de expansión ([[00_Biblia/Reglas_del_Mundo]], regla 2) ejecutadas en la primera veintena de capítulos.
 
-El nombre importa: **The Monarch** suena a poder antiguo aunque sea una ampliación nueva. Es perfecto para Valcora porque no parece criminal; parece una institución. Para Chiara, en cambio, empieza siendo una jaula elegante: el lugar tiene corona antes de que ella tenga reino propio.
+El nombre importa: **The Monarch** suena a poder antiguo aunque sea una ampliación nueva. Es perfecto para Varek porque no parece criminal; parece una institución. Para Chiara, en cambio, empieza siendo una jaula elegante: el lugar tiene corona antes de que ella tenga reino propio.
 
 ---
 
@@ -62,7 +66,7 @@ Consecuencias narrativas que están servidas:
 - [[02_Characters/Matteo_Bellacorte]] — socio que abre la puerta a Cole.
 - [[02_Characters/Fabrizio_Rinaldi]] — nombre provisional para el viejo amigo italiano de Chiara.
 - [[02_Characters/Tommaso_Lusardi]] — nombre provisional para el hermano de Alessio Lusardi.
-- [[02_Characters/Dario_Valcora]] — socio mayoritario local.
+- [[02_Characters/Dario_Varek]] — socio mayoritario local.
 
 > **PENDIENTE:** confirmar nombres definitivos de Fabrizio Rinaldi y Tommaso Lusardi, y qué relación exacta tiene cada socio con Chiara — familia, empleadores, socios de su padre o Consorcio. Su grado de autoridad sobre ella es el reloj de la primera parte del libro.
 

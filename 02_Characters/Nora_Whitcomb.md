@@ -15,7 +15,7 @@
 
 Nora Whitcomb persigue lo que los demás no pueden esposar: sociedades fantasma, propiedades, restaurantes, importadoras, transferencias, préstamos falsos, testaferros y activos que cambiaron de manos demasiado limpio.
 
-Para [[02_Characters/Dario_Valcora]], Nora puede ser más peligrosa que una redada. Puede destruir imperios sin ver un cadáver.
+Para [[02_Characters/Dario_Varek]], Nora puede ser más peligrosa que una redada. Puede destruir imperios sin ver un cadáver.
 
 Su frase guía:
 
@@ -37,10 +37,10 @@ Su zona natural de choque es [[03_Factions/Cross_River_Consolidated]] y [[02_Cha
 - [[02_Characters/Andrew_Callahan]] — le da el puente entre delitos aislados y conspiración financiera.
 - [[02_Characters/Garrett_Cross]] — rival técnico: papel contra papel.
 - [[03_Factions/Cross_River_Consolidated]] — objetivo natural cuando Cole ya no figura en activos.
-- [[02_Characters/Dario_Valcora]] — obsesión financiera inicial.
+- [[02_Characters/Dario_Varek]] — obsesión financiera inicial.
 
 ---
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** primer documento donde Nora ve una sombra de El Patio dentro de activos que parecían de Valcora.
+> **PENDIENTE:** primer documento donde Nora ve una sombra de El Patio dentro de activos que parecían de Varek.

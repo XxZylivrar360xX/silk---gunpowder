@@ -33,4 +33,3 @@ El trato no debe leerse como caridad. Cole le da llaves, plazo y responsabilidad
 - [[02_Characters/Cole_Mercer]]
 - [[05_Locations/Lote_Almendra]]
 - [[05_Locations/Vida_Civil_de_San_Aurelio]]
-

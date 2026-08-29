@@ -16,7 +16,7 @@
 Es el cuarto vértice, y el único que no viene de San Aurelio. Ver [[04_Concepts/Quien_Decide_Quien_Soy]].
 
 | [[02_Characters/Silas_Crowe]] | explotaba el barrio |
-| [[02_Characters/Dario_Valcora]] | quiere **poseer** San Aurelio |
+| [[02_Characters/Dario_Varek]] | quiere **poseer** San Aurelio |
 | [[02_Characters/Leone_Valenti]] | **sirve** a una institución |
 | **Warren Halbrook** | **es la traición de una institución** |
 
@@ -90,9 +90,9 @@ Y con una crueldad que el texto no necesita señalar: **Nadir está en este paí
 
 El activo es **una entrada a [[05_Locations/Camp_Alder]]**, donde los civiles no tienen acceso: **armamento largo**, para sacar y vender en la ciudad.
 
-Y **Cole convierte el chantaje en moneda de cambio.** Lo van a obligar de todos modos; lo único que decide es qué compra con eso — y compra la seguridad de Chiara y los papeles de Nadir, entrando a la organización de [[02_Characters/Dario_Valcora]] con las armas como dote.
+Y **Cole convierte el chantaje en moneda de cambio.** Lo van a obligar de todos modos; lo único que decide es qué compra con eso — y compra la seguridad de Chiara y los papeles de Nadir, entrando a la organización de [[02_Characters/Dario_Varek]] con las armas como dote.
 
-> **DISEÑO:** a partir de aquí Cole lleva **dos correas al mismo tiempo** — Halbrook arriba, Valcora al lado — y está trabajando para deshacer una de ellas desde dentro. Ésa es la presión que sostiene el resto de la novela.
+> **DISEÑO:** a partir de aquí Cole lleva **dos correas al mismo tiempo** — Halbrook arriba, Varek al lado — y está trabajando para deshacer una de ellas desde dentro. Ésa es la presión que sostiene el resto de la novela.
 
 ---
 
@@ -100,7 +100,7 @@ Y **Cole convierte el chantaje en moneda de cambio.** Lo van a obligar de todos 
 
 > **PENDIENTE:** en qué teatro y en qué años. Y qué pasó exactamente en la última operación.
 
-> **PENDIENTE:** ¿qué gana exactamente con que Cole vuelva, más allá de tenerlo controlado? ¿Y tiene relación directa con Valcora, o Cole es el único puente entre los dos?
+> **PENDIENTE:** ¿qué gana exactamente con que Cole vuelva, más allá de tenerlo controlado? ¿Y tiene relación directa con Varek, o Cole es el único puente entre los dos?
 
 > **PENDIENTE:** ¿sabe Halbrook lo que Cole se ha vuelto en San Aurelio? Y si lo sabe, ¿le sirve?
 

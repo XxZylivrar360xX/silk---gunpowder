@@ -41,7 +41,7 @@ Esa noche hace que Cole llegue al casino para conocer a los socios. No sabe que 
 
 - [[02_Characters/Cole_Mercer]] - lo conoce antes que los otros socios y lo invita al Monarch.
 - [[02_Characters/Chiara_Bellandi]] - socia / enlace italiana recien llegada; la recoge en Kingsley Field.
-- [[02_Characters/Dario_Valcora]] - socio mayoritario local; Matteo opera bajo una arquitectura de poder que Dario controla.
+- [[02_Characters/Dario_Varek]] - socio mayoritario local; Matteo opera bajo una arquitectura de poder que Dario controla.
 - [[03_Factions/El_Casino]] - su posicion institucional.
 
 ## Pendientes

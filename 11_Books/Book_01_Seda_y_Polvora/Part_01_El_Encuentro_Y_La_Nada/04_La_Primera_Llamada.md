@@ -344,7 +344,7 @@ Ella tomó la pluma de Cole y firmó en el cuadro correcto sin preguntar si pod�
 
 Varga la reconoció.
 
-—Usted. Quiero hablar con Valcora.
+—Usted. Quiero hablar con Varek.
 
 Chiara le devolvió la pluma a Cole.
 

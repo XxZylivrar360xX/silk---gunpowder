@@ -21,4 +21,3 @@ Los favores se vuelven formula. Cole mueve, Chiara explica. La relacion se convi
 ### Part 03 - La Factura
 
 La ciudad cobra. Lo que se rompe no es el imperio, sino las escenas pequenas que lo sostenian. El regreso a casa cierra la promesa que el libro habia estado acumulando.
-

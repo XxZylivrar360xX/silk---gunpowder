@@ -25,4 +25,3 @@ Tecnica concreta para la siguiente pasada.
 ## Excepcion
 
 Cuando la brevedad o el resumen son correctos.
-

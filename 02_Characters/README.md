@@ -22,9 +22,9 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 - [[02_Characters/Michael_Grayson]] — viejo amigo militar de Cole; muerto de cáncer.
 - [[02_Characters/Blake_Stanton]] — policía; error de identificación de Chiara.
 - [[02_Characters/Elena_Vega]] — Chief of Police; disciplina moral y choque ideológico con Cole.
-- [[02_Characters/Raymond_Keene]] — jefe de policía anterior asesinado por Valcora.
+- [[02_Characters/Raymond_Keene]] — jefe de policía anterior asesinado por Varek.
 - [[02_Characters/Luis_Ortega]] — Detective 1 / Homicidios; principal antagonista policial local de Cole.
-- [[02_Characters/Gloria_Chen]] — crimen organizado / vice; conoce el ecosistema de Valcora.
+- [[02_Characters/Gloria_Chen]] — crimen organizado / vice; conoce el ecosistema de Varek.
 - [[02_Characters/Noah_Pierce]] — detective joven, compañero de Luis; ve antes que algo no encaja.
 - [[02_Characters/Claire_Han]] — ADA principal local para homicidios relacionados con Cole.
 - [[02_Characters/Camila_Rivas]] — médica de confianza de Chiara; salva a Cole en H1 y demuestra que la red de Chiara es infraestructura real.
@@ -43,7 +43,10 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 
 ## Antagonistas y presión externa
 
-- [[02_Characters/Dario_Valcora]] — cabeza criminal de San Aurelio.
+- [[02_Characters/Dario_Varek]] — magnate croata-estadounidense y cabeza criminal de San Aurelio.
+- [[02_Characters/Lucia_Varek]] — hija mayor de Dario; policía y futura vía legal de su caída.
+- [[02_Characters/Beatrice_Varek]] — Trix; segunda hermana, neurocirujana del Hospital Santa Aurelia.
+- [[02_Characters/Vivian_Varek]] — Vivi/VV/Tri-V; hermana menor, influencer y operadora de la organización.
 - [[02_Characters/Silas_Crowe]] — el Tasador; antagonista inicial de Cole.
 - [[02_Characters/Warren_Halbrook]] — general; verdugo de Cole.
 - [[02_Characters/Leone_Valenti]] — Il Consigliere; cara del Consorcio.
@@ -51,7 +54,7 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 
 ## Fuerza Meridian y externos federales
 
-- [[02_Characters/Andrew_Callahan]] — agente especial supervisor, Organized Crime / RICO. Comandante de Meridian; obsesionado con Valcora antes que con Cole.
+- [[02_Characters/Andrew_Callahan]] — agente especial supervisor, Organized Crime / RICO. Comandante de Meridian; obsesionado con Varek antes que con Cole.
 - [[02_Characters/Mara_Ellison]] — agente especial principal, Violent Crime / case agent. Antagonista personal de Cole por patrón.
 - [[02_Characters/Priya_Nair]] — intelligence analyst; link analysis / pattern analysis.
 - [[02_Characters/Nora_Whitcomb]] — forensic accountant; lavado y rastreo de activos.

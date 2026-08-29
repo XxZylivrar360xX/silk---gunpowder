@@ -34,4 +34,3 @@ Su funcion es mostrar que el pasado italiano de Chiara no es un bloque unico. No
 > **PENDIENTE:** confirmar nombre definitivo.
 
 > **PENDIENTE:** decidir de que capa italiana viene: familia, negocios, prensa, Consorcio o amistad civil.
-

@@ -9,7 +9,7 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Que es:** la Almendra sabe que Cole y Chiara estan juntos y calla; fuera del barrio, la ciudad no ve la union.
 - **Se siembra en:** primeras escenas del barrio viendo llegar o hablar de Chiara sin explicarlo.
 - **Quien ya lo sabe:** al principio nadie; despues, La Almendra como comunidad.
-- **Quien NO debe saberlo/insinuarlo todavia:** Dario, socios del Monarch, policia, prensa y Valcora hasta que exista escena concreta de sospecha.
+- **Quien NO debe saberlo/insinuarlo todavia:** Dario, socios del Monarch, policia, prensa y Varek hasta que exista escena concreta de sospecha.
 - **Lineas o gestos prohibidos:** terceros nombrando la relacion antes de que la union invisible este sembrada como costumbre social.
 - **Estado:** pendiente de siembra en prosa.
 
@@ -81,12 +81,12 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Que es:** Tommaso no ataca a Chiara de frente. Aprieta por escalones, y cada escalon debe ser distinto del anterior o el recurso se gasta.
 - **Escalones ya usados en prosa:**
   1. [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias]] — invoca a la familia y el nombre de pila de Alessio en una junta. Chiara se toca el anular izquierdo y se odia por haberlo hecho delante de el. **Escalon: el duelo como propiedad.**
-  2. [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/05_La_Casa_No_Quiere_Ruido]] — vuelve a soltar el nombre, ella ya no se toca el anular, y entonces el sube: dice que Valcora le pregunto por Palermo y que el le dio *la version*. No dice la verdad, no dice lo que paso. Dice la version, y agrega que la repite muy bien y que lleva anos repitiendola. **Escalon: la version como favor revocable.**
+  2. [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/05_La_Casa_No_Quiere_Ruido]] — vuelve a soltar el nombre, ella ya no se toca el anular, y entonces el sube: dice que Varek le pregunto por Palermo y que el le dio *la version*. No dice la verdad, no dice lo que paso. Dice la version, y agrega que la repite muy bien y que lleva anos repitiendola. **Escalon: la version como favor revocable.**
 - **Regla:** ningun escalon futuro puede volver a ser "menciono a Alessio y ella se incomoda". Si Tommaso reaparece presionando, tiene que traer algo concreto y nuevo — un papel, un tercero, una fecha, una condicion.
 - **Quien NO debe saberlo/insinuarlo todavia:** Tommaso **no confirma** saber lo que Chiara hizo, y no debe confirmarlo mientras el autor no lo decida (ver [[12_Craft_Policies/revelations/SAGA_LEVEL]]). Toda su presion tiene que seguir siendo deniable: nunca acusa, nunca pregunta, nunca dice que no le cree.
 - **Lineas o gestos prohibidos:** que Tommaso diga o insinue directamente que la version es falsa; que Chiara se defienda de una acusacion que nadie le hizo, porque defenderse seria confesar.
 
-> **DISENO (2026-08-26):** que Dario Valcora haya preguntado por el pasado de Chiara en Palermo, y que Tommaso sea quien contesta, es inferencia del agente para dar material nuevo al segundo escalon. Abre dos cosas utiles: Dario investigando a su propia gente, y Tommaso como fuente unica de lo que Dario cree. Si el autor lo veta, la escena del pasillo del Capitulo 5 vuelve a terminar en "Yo si" y hay que buscar otro escalon.
+> **DISENO (2026-08-26):** que Dario Varek haya preguntado por el pasado de Chiara en Palermo, y que Tommaso sea quien contesta, es inferencia del agente para dar material nuevo al segundo escalon. Abre dos cosas utiles: Dario investigando a su propia gente, y Tommaso como fuente unica de lo que Dario cree. Si el autor lo veta, la escena del pasillo del Capitulo 5 vuelve a terminar en "Yo si" y hay que buscar otro escalon.
 
 - **Estado:** dos escalones en prosa; los siguientes pendientes de diseno.
 

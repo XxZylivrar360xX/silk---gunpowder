@@ -2,7 +2,7 @@
 
 *Seda y Pólvora — treguas, enemistades y presión territorial*
 
-> **CANON DE DISEÑO (2026-08-23):** las bandas menores de San Aurelio no son decoración. Son el tablero donde se ve el contraste entre el miedo de [[02_Characters/Dario_Valcora]] y el ascenso por utilidad de [[02_Characters/Cole_Mercer]]. Algunas odian a [[03_Factions/El_Patio]], algunas lo necesitan y algunas todavía no entienden que ya empezaron a depender de él.
+> **CANON DE DISEÑO (2026-08-23):** las bandas menores de San Aurelio no son decoración. Son el tablero donde se ve el contraste entre el miedo de [[02_Characters/Dario_Varek]] y el ascenso por utilidad de [[02_Characters/Cole_Mercer]]. Algunas odian a [[03_Factions/El_Patio]], algunas lo necesitan y algunas todavía no entienden que ya empezaron a depender de él.
 
 ---
 
@@ -44,7 +44,7 @@
 
 ## Treguas Impuestas Por Dario
 
-[[02_Characters/Dario_Valcora]] no necesita que se quieran. Necesita que no arruinen negocios grandes.
+[[02_Characters/Dario_Varek]] no necesita que se quieran. Necesita que no arruinen negocios grandes.
 
 Treguas que mantiene por miedo:
 
@@ -95,4 +95,4 @@ Ahí El Patio deja de ser sólo útil y empieza a ser proveedor de la mayoría d
 
 ---
 
-Ver también: [[03_Factions/Bandas_Menores_de_San_Aurelio]] · [[05_Locations/Estado_de_la_Ciudad]] · [[03_Factions/El_Patio]] · [[02_Characters/Dario_Valcora]]
+Ver también: [[03_Factions/Bandas_Menores_de_San_Aurelio]] · [[05_Locations/Estado_de_la_Ciudad]] · [[03_Factions/El_Patio]] · [[02_Characters/Dario_Varek]]

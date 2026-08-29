@@ -7,7 +7,7 @@
 **Qué es:** ciudad ficticia de la costa de California. Puerto medio, población de alrededor de un millón, fundación española y decadencia industrial encima.
 **Función narrativa:** no es escenario. Es la tercera protagonista, y el premio por el que compiten los dos primeros.
 
-**Mapa operativo:** ver [[05_Locations/Mapa_Operativo_de_San_Aurelio]] para carreteras, tiempos narrativos, puntos de cierre, rutas de El Patio, rutas de Valcora y ubicación recomendada de lugares pendientes.
+**Mapa operativo:** ver [[05_Locations/Mapa_Operativo_de_San_Aurelio]] para carreteras, tiempos narrativos, puntos de cierre, rutas de El Patio, rutas de Varek y ubicación recomendada de lugares pendientes.
 
 ---
 
@@ -69,13 +69,13 @@ Clima: sol seco casi todo el año, niebla marina de madrugada que borra las call
 
 **[[05_Locations/Norte_Rural_de_San_Aurelio|Norte rural de San Aurelio]]** — eje de Lomas de San Jacinto, Bellandi Ridge, Kingsley Field, Rutas de Milla, Cedar Flats y Camp Alder. Donde la ciudad deja de parecer ciudad, pero sigue funcionando como infraestructura.
 
-**El taller del norte** — taller ilegal de las carreras callejeras, cerca de Kingsley Field y las Rutas de Milla. Donde Valcora amenaza a Chiara. **PENDIENTE:** ficha propia y dueño.
+**El taller del norte** — taller ilegal de las carreras callejeras, cerca de Kingsley Field y las Rutas de Milla. Donde Varek amenaza a Chiara. **PENDIENTE:** ficha propia y dueño.
 
-**La mansión de Valcora** — donde Cole se le ofrece, en el patio ([[06_Relationships/Hitos]], H6). **PENDIENTE:** ficha propia.
+**La mansión de Varek** — donde Cole se le ofrece, en el patio ([[06_Relationships/Hitos]], H6). **PENDIENTE:** ficha propia.
 
 **Las cascadas** — apartado, con ruido de naturaleza y sin interrupciones. **El primer lugar del libro que no es territorio de nadie**, y donde Cole y Chiara sellan su pacto. **PENDIENTE:** nombre y ubicación.
 
-**[[05_Locations/Camp_Alder|Camp Alder]]** — complejo militar al noreste, donde los civiles no tienen acceso. La fuente del armamento largo que Cole ofrece a Valcora en H6.
+**[[05_Locations/Camp_Alder|Camp Alder]]** — complejo militar al noreste, donde los civiles no tienen acceso. La fuente del armamento largo que Cole ofrece a Varek en H6.
 
 **Los Álamos** — el norte muerto de las refinerías. Barato, vacío, contaminado, y por eso mismo el sitio donde alguien va a querer construir algo enorme. Territorio de [[03_Factions/Alamo_Salvage]]. Motor de trama a mitad de novela.
 
@@ -95,7 +95,7 @@ Ver [[00_Biblia/Reglas_del_Mundo]] para las reglas completas. Resumen operativo:
 
 - **El puerto manda.** Todas las organizaciones grandes son, en el fondo, negocios de movimiento.
 - **La política es municipal y por lo tanto comprable.** Alcaldía, licencias de construcción, permisos de puerto: ahí está el dinero de verdad, y ahí es donde el crimen se vuelve otra cosa.
-- **La elección municipal vuelve visible la guerra.** Ver [[05_Locations/Estado_de_la_Ciudad]]: Russ Whitaker, los barrios del sur, Valcora y el ascenso de El Patio se cruzan en el mismo tablero.
+- **La elección municipal vuelve visible la guerra.** Ver [[05_Locations/Estado_de_la_Ciudad]]: Russ Whitaker, los barrios del sur, Varek y el ascenso de El Patio se cruzan en el mismo tablero.
 - **El centro viejo no se ocupa.** Nadie opera de forma permanente donde se concentran hospitales, Ayuntamiento, juzgados y comisarías. El crimen cruza el centro; no lo habita.
 - **La policía compite consigo misma.** Se negocia con casos, no con efectivo.
 - **Los federales entran cuando la ciudad deja de bastar.** La [[03_Factions/Fuerza_de_Tarea_Meridian]] aparece cuando los negocios de Cole tocan rutas internacionales; no responde a la lógica municipal, y por eso es más difícil de comprar, distraer o narrar.
@@ -114,7 +114,7 @@ Ver [[00_Biblia/Reglas_del_Mundo]] para las reglas completas. Resumen operativo:
 
 ## Preguntas abiertas
 
-> **PARCIALMENTE RESUELTO (2026-08-23):** la organización dominante es la de **[[02_Characters/Dario_Valcora]]** — *todo pasa por él* —, y controla [[03_Factions/El_Casino|The Monarch Casino & Hotel]]. Falta su facción formal propia.
+> **PARCIALMENTE RESUELTO (2026-08-23):** la organización dominante es la de **[[02_Characters/Dario_Varek]]** — *todo pasa por él* —, y controla [[03_Factions/El_Casino|The Monarch Casino & Hotel]]. Falta su facción formal propia.
 
 > **RESUELTO (2026-08-23):** las organizaciones menores están en [[03_Factions/Bandas_Menores_de_San_Aurelio]]: cuatro bandas del sur, dos del norte y una banda motociclista costera.
 

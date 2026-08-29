@@ -117,17 +117,17 @@ El motivo declarado: **un cargamento que Cole no entregó a tiempo**, cuando tod
 
 ---
 
-## Relación con [[02_Characters/Dario_Valcora]]
+## Relación con [[02_Characters/Dario_Varek]]
 
 **CANON.** Hacen negocios indirectamente, pero **no son aliados.**
 
-| Valcora ve al Tasador como | El Tasador ve a Valcora como |
+| Varek ve al Tasador como | El Tasador ve a Varek como |
 |---|---|
 | útil, vulgar y reemplazable | un aristócrata criminal que cree que el puerto le da derecho a gobernar toda San Aurelio |
 
 **Se necesitan ocasionalmente y se detestan permanentemente.**
 
-**Función estructural:** esto le permite a Cole **entrar al ecosistema de Valcora desde abajo, muchos años antes de enfrentarlo como igual.** El Tasador es la puerta de servicio del poder de esta ciudad.
+**Función estructural:** esto le permite a Cole **entrar al ecosistema de Varek desde abajo, muchos años antes de enfrentarlo como igual.** El Tasador es la puerta de servicio del poder de esta ciudad.
 
 ---
 

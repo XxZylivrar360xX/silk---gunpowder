@@ -39,7 +39,7 @@ Empezó haciendo favores pequeños: una sutura sin preguntar, una radiografía c
 
 Desde entonces opera en una red de clínicas privadas, casas prestadas, habitaciones de hotel y personal médico endeudado.
 
-No pertenece formalmente a [[02_Characters/Dario_Valcora]], a [[03_Factions/El_Patio]] ni a ninguna banda menor. Ésa es su ventaja. Todos pueden llamarlo. Todos saben que puede hablar.
+No pertenece formalmente a [[02_Characters/Dario_Varek]], a [[03_Factions/El_Patio]] ni a ninguna banda menor. Ésa es su ventaja. Todos pueden llamarlo. Todos saben que puede hablar.
 
 ---
 
@@ -79,7 +79,7 @@ Con Owen, nace del mercado.
 Eso abre varias rutas:
 
 - bandas menores que sobreviven a balaceras sin hospitales;
-- Valcora comprando silencio médico;
+- Varek comprando silencio médico;
 - Cole rechazando usarlo o usándolo una vez con asco;
 - la policía local sospechando que hay un médico que limpia escenas;
 - Meridian rastreando patrones de heridas que nunca llegaron a urgencias.
@@ -90,7 +90,7 @@ Eso abre varias rutas:
 
 - [[05_Locations/Hospital_Santa_Aurelia]] — fuente de acceso, prestigio y suministros.
 - [[02_Characters/Camila_Rivas]] — lo conoce y lo desprecia porque reconoce la habilidad sin línea moral.
-- [[02_Characters/Dario_Valcora]] — cliente indirecto posible; Valcora preferiría no deberle demasiado.
+- [[02_Characters/Dario_Varek]] — cliente indirecto posible; Varek preferiría no deberle demasiado.
 - [[03_Factions/Los_Bravos_de_Santa_Brigida]] — tipo de banda que podría abusar de sus servicios y dejar deuda.
 - [[03_Factions/Breakwater_Saints_MC]] — la costa necesita médicos que no pregunten después de peleas de piso.
 - [[03_Factions/Fuerza_de_Tarea_Meridian]] — posible punto de presión para [[02_Characters/Victor_Reyes]] o [[02_Characters/Nora_Whitcomb]].

@@ -50,7 +50,7 @@ El poder de las bandas menores no es masculino por defecto. Las mujeres no entra
 
 ## Relación Con Dario
 
-[[02_Characters/Dario_Valcora]] no administra estas bandas día a día. Las deja operar mientras cumplan tres condiciones:
+[[02_Characters/Dario_Varek]] no administra estas bandas día a día. Las deja operar mientras cumplan tres condiciones:
 
 - no tocar el puerto grande sin permiso;
 - no convertir violencia menor en noticia municipal;
@@ -87,4 +87,4 @@ Ahí nace el contraste: Dario permite operar por miedo; Cole permite operar por 
 
 ---
 
-Ver también: [[05_Locations/Estado_de_la_Ciudad]] · [[05_Locations/San_Aurelio]] · [[02_Characters/Dario_Valcora]] · [[03_Factions/El_Patio]]
+Ver también: [[05_Locations/Estado_de_la_Ciudad]] · [[05_Locations/San_Aurelio]] · [[02_Characters/Dario_Varek]] · [[03_Factions/El_Patio]]

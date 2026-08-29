@@ -16,7 +16,7 @@ Cada protagonista tiene su propio antagonista inicial, y los dos terminan compar
 |---|---|---|---|
 | **[[02_Characters/Cole_Mercer]]** | **[[02_Characters/Silas_Crowe]]**, *el Tasador* | explotación del barrio | *Tu barrio me pertenece porque todos aquí me deben algo.* |
 | **[[02_Characters/Chiara_Bellandi]]** | **[[03_Factions/Il_Consorzio]]**, en la voz de **[[02_Characters/Leone_Valenti]]** | obligación familiar e institucional | *Tu lugar ya fue decidido porque naciste dentro de algo más grande que tú.* |
-| **Los dos** | **[[02_Characters/Dario_Valcora]]** | el poder como derecho de dominio | *El poder pertenece a quien puede tomarlo y conservarlo.* |
+| **Los dos** | **[[02_Characters/Dario_Varek]]** | el poder como derecho de dominio | *El poder pertenece a quien puede tomarlo y conservarlo.* |
 | **Cole, otra vez** | **[[02_Characters/Warren_Halbrook]]** | la traición de una institución en la que creyó | *No eres un héroe: eres un desertor que sabe demasiado.* |
 
 **Cole tiene que liberarse del hombre que monetizó su barrio.**
@@ -40,7 +40,7 @@ Por eso el ascenso no es codicia. **Tomar la ciudad es la única forma que estos
 
 No es una idea abstracta: **el imperio empieza como un pago de protección.**
 
-En [[06_Relationships/Hitos]], H6, Valcora le dice a Chiara que *ella trabaja para él, y por lo tanto él puede decirle qué hacer y qué no* — y que si hay que matar a Cole, ella misma jalará el gatillo.
+En [[06_Relationships/Hitos]], H6, Varek le dice a Chiara que *ella trabaja para él, y por lo tanto él puede decirle qué hacer y qué no* — y que si hay que matar a Cole, ella misma jalará el gatillo.
 
 La respuesta de Cole no es un argumento. **Es entrar a la mafia.**
 
@@ -66,7 +66,7 @@ La diferencia es **para qué** — Silas tasa para quedarse con la diferencia; C
 
 Chiara **también asigna valor a las personas**: decide qué versión de alguien cree la ciudad, y esa versión es lo que esa persona pasa a valer. Es exactamente lo que el Consorcio le hace a ella con su apellido, a escala de una vida en vez de a escala de una noticia.
 
-Ver [[02_Characters/Dario_Valcora]] para el tercero — que es, sin metáfora, **lo que Cole puede llegar a ser** si gana como Valcora ganó.
+Ver [[02_Characters/Dario_Varek]] para el tercero — que es, sin metáfora, **lo que Cole puede llegar a ser** si gana como Varek ganó.
 
 ### Warren Halbrook es el origen de Cole con uniforme
 

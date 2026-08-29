@@ -1,4 +1,4 @@
-# Darío Valcora
+# Dario Varek
 
 *Seda y Pólvora — Ficha de Personaje*
 
@@ -7,6 +7,9 @@
 **Rol:** antagonista principal. La cima del poder criminal de [[05_Locations/San_Aurelio]].
 **Qué es:** magnate de la ciudad y **cabeza de la mafia vigente — todo pasa por él**. Además, **socio mayoritario de [[03_Factions/El_Casino|The Monarch Casino & Hotel]]**.
 **Estado:** vivo.
+**Origen:** croata-estadounidense, con ascendencia dálmata o balcánica. Su identidad pública está integrada en Estados Unidos y no depende de una mafia étnica específica.
+
+> **CANON DEL AUTOR (2026-08-29):** el apellido anterior **Valcora** queda reemplazado por **Varek**. El origen croata-estadounidense también queda fijado. No leer su organización como una mafia italiana.
 
 ---
 
@@ -22,7 +25,7 @@ Egocéntrico. Y **misógino disimulado** — lo importante es *disimulado*: jam�
 
 ## La historia detrás de la misoginia — CANON (2026-08-26)
 
-Antes de ser lo que es hoy, Valcora tuvo una esposa que lo engañó. La noche que lo descubrió, hizo dos cosas que nunca le contó a nadie:
+Antes de ser lo que es hoy, Varek tuvo una esposa que lo engañó. La noche que lo descubrió, hizo dos cosas que nunca le contó a nadie:
 
 - **La quemó viva dentro de su propia casa**, y montó el incendio para que sus tres hijas —mellizas— jamás supieran que fue él.
 - **Se quemó él mismo la cara** para sostener la versión de que había intentado salvarla. La cicatriz que lleva hoy es la coartada, no un accidente ni una herida de guerra.
@@ -39,7 +42,7 @@ Esa misma noche se enteró de que **las tres mellizas no eran hijas suyas.** No 
 
 ## Lo que siente por Cole — DISEÑO (2026-08-26)
 
-Después de H6 —cuando Cole se ofrece a trabajar para él— Valcora empieza a desarrollar algo que nunca nombra, ni siquiera para sí mismo: **un amor romántico no correspondido y frustrado hacia Cole.**
+Después de H6 —cuando Cole se ofrece a trabajar para él— Varek empieza a desarrollar algo que nunca nombra, ni siquiera para sí mismo: **un amor romántico no correspondido y frustrado hacia Cole.**
 
 No se declara nunca ni aparece como pensamiento explícito. Se ve en la conducta:
 
@@ -48,7 +51,7 @@ No se declara nunca ni aparece como pensamiento explícito. Se ve en la conducta
 
 **Chiara lo detecta.** Se lo dice a Cole. **Cole siempre lo desestima** — pero los dos, sin decírselo entre ellos con esas palabras, saben que sí puede tener sentido.
 
-> **DISEÑO — por qué se ensaña con Chiara:** el objeto real de la frustración de Valcora no es Cole — es ella. Chiara ocupa, sin saberlo del todo, el lugar que él no puede tener. Cada vez que la trata como activo reemplazable, cotizable, castigable, está descargando sobre ella algo que en el fondo es sobre Cole. Es la misma operación que ya describe la ficha arriba ("la cotiza... es exactamente la operación que ella le hace al resto del mundo, aplicada sobre ella"), con una capa debajo que el lector sólo puede intuir.
+> **DISEÑO — por qué se ensaña con Chiara:** el objeto real de la frustración de Varek no es Cole — es ella. Chiara ocupa, sin saberlo del todo, el lugar que él no puede tener. Cada vez que la trata como activo reemplazable, cotizable, castigable, está descargando sobre ella algo que en el fondo es sobre Cole. Es la misma operación que ya describe la ficha arriba ("la cotiza... es exactamente la operación que ella le hace al resto del mundo, aplicada sobre ella"), con una capa debajo que el lector sólo puede intuir.
 >
 > **Regla de escritura:** esto nunca se dice en voz alta, ni siquiera entre Cole y Chiara con total claridad. Se construye por acumulación de favoritismo, silencios y decisiones sin otra explicación limpia. El lector lo intuye antes de que los personajes lo confirmen entre sí — y ninguno de los dos lo confirma nunca del todo.
 
@@ -56,10 +59,10 @@ No se declara nunca ni aparece como pensamiento explícito. Se ve en la conducta
 
 ## Por qué es el antagonista correcto para este libro
 
-- **Es lo que Cole podría llegar a ser.** Un hombre que empezó en algún lado y hoy es "el que decide", con una cara pública intachable y un negocio limpio arriba de todo lo demás. Cole se está construyendo una fachada de empresario intachable ([[06_Relationships/Hitos]], H2); Valcora ya terminó la suya hace veinte años. **El antagonista es el destino que le espera si nadie lo detiene.**
+- **Es lo que Cole podría llegar a ser.** Un hombre que empezó en algún lado y hoy es "el que decide", con una cara pública intachable y un negocio limpio arriba de todo lo demás. Cole se está construyendo una fachada de empresario intachable ([[06_Relationships/Hitos]], H2); Varek ya terminó la suya hace veinte años. **El antagonista es el destino que le espera si nadie lo detiene.**
 - **Su lógica es decente para él mismo**, como exige el principio 3 de [[00_Biblia/Principios_Narrativos]]. Falta definir cuál.
 - **Es la organización que el método de Cole se tiene que comer.** "Todo pasa por él" describe exactamente la posición que Cole va a ocupar al final del ascenso. Ver [[00_Biblia/Reglas_del_Mundo]], regla 2.
-- **Y es el jefe de ella.** El casino es suyo, lo que significa que **Chiara trabaja para el antagonista principal desde la primera página** — y que su arco de autonomía es literalmente salir de debajo de este hombre. Su relación con Valcora es el reloj de la primera parte del libro.
+- **Y es el jefe de ella.** El casino es suyo, lo que significa que **Chiara trabaja para el antagonista principal desde la primera página** — y que su arco de autonomía es literalmente salir de debajo de este hombre. Su relación con Varek es el reloj de la primera parte del libro.
 
 ---
 
@@ -67,9 +70,9 @@ No se declara nunca ni aparece como pensamiento explícito. Se ve en la conducta
 
 **El puerto.** Ver [[05_Locations/San_Aurelio]] y [[00_Biblia/Reglas_del_Mundo]], regla 1: aquí el crimen es logística, y quien controla lo que entra y sale controla todo. Silas Crowe lo resume con desprecio: *un aristócrata criminal que cree que el puerto le da derecho a gobernar toda San Aurelio.*
 
-**Hacia abajo — [[02_Characters/Silas_Crowe]].** Hacen negocios indirectamente y no son aliados. Valcora lo considera **útil, vulgar y reemplazable**. Se necesitan a veces y se detestan siempre. Es la puerta por la que Cole entra al ecosistema de Valcora **desde abajo, años antes de enfrentarlo como igual.**
+**Hacia abajo — [[02_Characters/Silas_Crowe]].** Hacen negocios indirectamente y no son aliados. Varek lo considera **útil, vulgar y reemplazable**. Se necesitan a veces y se detestan siempre. Es la puerta por la que Cole entra al ecosistema de Varek **desde abajo, años antes de enfrentarlo como igual.**
 
-**Hacia arriba — [[03_Factions/Il_Consorzio]].** No pertenece a él y no trabaja para él: **tienen un acuerdo.** Él pone territorio y logística; ellos ponen acceso internacional. Los dos saben que podrían funcionar sin el otro — sería más caro, nada más. **Valcora es enorme dentro de San Aurelio y no es nada fuera de ella**, y eso mantiene la escala del libro en una ciudad.
+**Hacia arriba — [[03_Factions/Il_Consorzio]].** No pertenece a él y no trabaja para él: **tienen un acuerdo.** Él pone territorio y logística; ellos ponen acceso internacional. Los dos saben que podrían funcionar sin el otro — sería más caro, nada más. **Varek es enorme dentro de San Aurelio y no es nada fuera de ella**, y eso mantiene la escala del libro en una ciudad.
 
 **Lo que representa:** *el poder pertenece a quien puede tomarlo y conservarlo.* Es el tercer vértice de [[04_Concepts/Quien_Decide_Quien_Soy]] — y el único de los tres antagonistas que ni siquiera cree que la pregunta merezca discutirse.
 
@@ -77,7 +80,7 @@ No se declara nunca ni aparece como pensamiento explícito. Se ve en la conducta
 
 ## Cómo gobierna a las bandas
 
-Valcora gobierna hacia abajo con miedo administrativo. No todas las bandas de [[05_Locations/San_Aurelio]] trabajan para él de forma limpia, pero todas saben que operan bajo su clima.
+Varek gobierna hacia abajo con miedo administrativo. No todas las bandas de [[05_Locations/San_Aurelio]] trabajan para él de forma limpia, pero todas saben que operan bajo su clima.
 
 Su método:
 
@@ -89,7 +92,7 @@ Su método:
 
 La obediencia que produce es rápida y profunda, pero no leal. Las bandas no lo respetan: calculan cuánto miedo le tienen.
 
-Las organizaciones menores relevantes están en [[03_Factions/Bandas_Menores_de_San_Aurelio]]: cuatro del sur, dos del norte y una banda motociclista costera. Valcora no las maneja como empleados; las maneja como clima.
+Las organizaciones menores relevantes están en [[03_Factions/Bandas_Menores_de_San_Aurelio]]: cuatro del sur, dos del norte y una banda motociclista costera. Varek no las maneja como empleados; las maneja como clima.
 
 El centro viejo queda fuera de ese reparto. Nadie sostiene mercado permanente junto a hospitales, Ayuntamiento, juzgados y comisarías: demasiado uniforme, demasiada cámara, demasiada prensa cerca.
 
@@ -107,13 +110,13 @@ Nada, todavía. Y ése es el punto: cuando lo haga, sabrá **exactamente dónde 
 
 ## El asesinato de Keene
 
-Al iniciar la novela, Valcora manda matar o permite matar a [[02_Characters/Raymond_Keene]], el jefe de policía anterior.
+Al iniciar la novela, Varek manda matar o permite matar a [[02_Characters/Raymond_Keene]], el jefe de policía anterior.
 
-La utilidad narrativa no es sólo quitar a un funcionario. Es mostrar cómo gobierna Valcora: si una pieza institucional estuvo coludida y después se volvió problema, se convierte en mensaje.
+La utilidad narrativa no es sólo quitar a un funcionario. Es mostrar cómo gobierna Varek: si una pieza institucional estuvo coludida y después se volvió problema, se convierte en mensaje.
 
-La llegada de [[02_Characters/Elena_Vega]] es una consecuencia que Valcora subestima al principio.
+La llegada de [[02_Characters/Elena_Vega]] es una consecuencia que Varek subestima al principio.
 
-> **DISEÑO:** Valcora ya está a medio camino — entendió que hay una aventura. Es el candidato natural a descubrir la unión invisible entera. Y es también el candidato natural a ser quien rechazó a Cole por "demasiado listo" en H2 — lo que convertiría todo el ascenso en la consecuencia de un error suyo.
+> **DISEÑO:** Varek ya está a medio camino — entendió que hay una aventura. Es el candidato natural a descubrir la unión invisible entera. Y es también el candidato natural a ser quien rechazó a Cole por "demasiado listo" en H2 — lo que convertiría todo el ascenso en la consecuencia de un error suyo.
 
 ---
 
@@ -144,9 +147,9 @@ En [[06_Relationships/Hitos]], H6: **Cole se ofrece a trabajar para él, como pa
 
 A cambio, Cole pide **seguridad para Chiara**. Y trae con qué pagarlo: **una entrada a [[05_Locations/Camp_Alder]]** para sacar armamento largo y venderlo en la ciudad.
 
-**Valcora acepta** — y con eso **desvía momentáneamente su atención de Chiara.**
+**Varek acepta** — y con eso **desvía momentáneamente su atención de Chiara.**
 
-> **DISEÑO — el error que le va a costar todo.** Valcora acaba de meter dentro de su organización, a cambio de un cargamento de armas, **al hombre que va a comérsela desde adentro.** Y lo hizo porque le pareció una transacción ventajosa: exactamente su forma de ver el mundo — *el poder pertenece a quien puede tomarlo y conservarlo* — usada en su contra.
+> **DISEÑO — el error que le va a costar todo.** Varek acaba de meter dentro de su organización, a cambio de un cargamento de armas, **al hombre que va a comérsela desde adentro.** Y lo hizo porque le pareció una transacción ventajosa: exactamente su forma de ver el mundo — *el poder pertenece a quien puede tomarlo y conservarlo* — usada en su contra.
 >
 > Ver [[00_Biblia/Reglas_del_Mundo]], regla 2: **la primera organización que subcontrata a Cole es la primera que pierde su territorio, y ni siquiera entiende cuándo pasó.**
 

@@ -23,4 +23,3 @@ Mira el anular, no la cara, cuando quiere herir sin dejar marca. Sonrie tarde.
 —La familia agradece que ciertas cosas sigan siendo discretas.
 
 —No vine a incomodarte. Eso seria innecesario.
-

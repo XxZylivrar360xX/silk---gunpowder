@@ -41,7 +41,10 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 
 - [[02_Characters/Warren_Halbrook]] — **el verdugo de Cole.** Brigadier general que convirtió el tráfico de personas en logística. No un psicópata: un hombre extremadamente funcional. Para él, Cole es un desertor que sabe demasiado.
 - [[02_Characters/Silas_Crowe]], *el Tasador* — **antagonista inicial de Cole.** Nunca construyó un imperio; se hizo indispensable en la Almendra y siempre se queda con demasiado. *Todo vale algo, Mercer. La única diferencia es quién pone el precio.*
-- [[02_Characters/Dario_Valcora]] — **antagonista principal.** Cabeza de la mafia de San Aurelio (*todo pasa por él*) y socio mayoritario del casino. Políticamente correcto, criminalmente despiadado. El jefe de Chiara, y el destino que le espera a Cole si nadie lo detiene.
+- [[02_Characters/Dario_Varek]] — **antagonista principal.** Magnate croata-estadounidense, cabeza de la mafia de San Aurelio (*todo pasa por él*) y socio mayoritario del casino. Políticamente correcto, criminalmente despiadado. El jefe de Chiara, y el destino que le espera a Cole si nadie lo detiene.
+- [[02_Characters/Lucia_Varek]] — hija mayor de Dario; policía de ética rígida y futura vía legal para derribarlo.
+- [[02_Characters/Beatrice_Varek]] — Trix, segunda hermana; neurocirujana y autoridad médica del Hospital Santa Aurelia.
+- [[02_Characters/Vivian_Varek]] — Vivi/VV/Tri-V, hermana menor; influencer pública y operadora de fuego y explosivos dentro de la organización de Dario.
 - [[02_Characters/Walter_Keegan]], *Walt* — amigo del padre de Cole; lo conoció de niño. Diez años preso por obra de Silas Crowe, **y sale justo cuando empieza la novela.** *Héctor le enseñó a Cole cómo ser hombre; Walt le enseña quién fue su padre.* Conoce a Chiara en el primer torneo de poker; monta una destilería y se vuelve proveedor de licor del casino.
 - [[02_Characters/Kenji_Oda]] — DISEÑO. Gerente de caja del Monarch, reclutado por Chiara en un evento altruista. Primer sussurro de i Sussurri, su red deliberada; le pasa información escrita en latín, en papelitos.
 - [[02_Characters/Hector_Navarro]] — el viejo mentor de Cole, su figura paterna y su mano derecha. **La única persona que lo quiere sin deberle nada.** Sufre un infarto en H10 y, desde el hospital, empuja a Cole y a Chiara el uno hacia el otro.
@@ -52,7 +55,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[02_Characters/Michael_Grayson]] — viejo amigo militar de Cole, muerto de cáncer. Su muerte deja a Marisol en la vida de Cole.
 - [[02_Characters/Blake_Stanton]] — policía. Con quien Chiara sale al llegar. Rubio de ojos azules: el hombre equivocado con la cara correcta. No es un rival — es un error de identificación.
 - [[02_Characters/Elena_Vega]] — Chief of Police de San Aurelio tras el asesinato de Raymond Keene. Disciplina moral; no puede comprarse.
-- [[02_Characters/Raymond_Keene]] (†) — jefe de policía anterior, asesinado por orden de Valcora; probable colusión convertida en problema.
+- [[02_Characters/Raymond_Keene]] (†) — jefe de policía anterior, asesinado por orden de Varek; probable colusión convertida en problema.
 - [[02_Characters/Luis_Ortega]] · [[02_Characters/Noah_Pierce]] · [[02_Characters/Gloria_Chen]] — detectives locales: Homicidios, compañero joven y crimen organizado/vice.
 - [[02_Characters/Claire_Han]] — fiscal principal local para homicidios relacionados con Cole.
 - [[02_Characters/Camila_Rivas]] — médica de confianza de Chiara; salva a Cole en H1 y prueba que la red de Chiara es infraestructura.
@@ -64,7 +67,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[02_Characters/Matteo_Bellacorte]] — socio del Monarch que abre la puerta de H2: conoce a Cole durante el día y lo cita por la noche con los socios.
 - [[02_Characters/Fabrizio_Rinaldi]] — provisional; viejo amigo italiano de Chiara dentro del grupo del Monarch.
 - [[02_Characters/Tommaso_Lusardi]] — provisional; hermano de Alessio Lusardi y presencia incómoda del pasado de Chiara.
-- [[02_Characters/Andrew_Callahan]] — agente especial supervisor federal; comandante RICO de Meridian. Su obsesión inicial es Valcora, no Cole.
+- [[02_Characters/Andrew_Callahan]] — agente especial supervisor federal; comandante RICO de Meridian. Su obsesión inicial es Varek, no Cole.
 - [[02_Characters/Mara_Ellison]] · [[02_Characters/Priya_Nair]] · [[02_Characters/Nora_Whitcomb]] · [[02_Characters/Leah_Park]] · [[02_Characters/Victor_Reyes]] · [[02_Characters/Sofia_Alvarez]] · [[02_Characters/Grant_Maddox]] — equipo interno de la Fuerza Meridian: violencia, análisis, lavado, digital, informantes, trata y táctica.
 - [[02_Characters/Nina_Caldwell]] · [[02_Characters/Luis_Ortega]] — recurrentes externos de Meridian: fiscal federal y detective local.
 
@@ -74,7 +77,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 
 # Hitos
 
-- [[06_Relationships/Hitos]] — **eventos obligatorios definidos por el autor.** Las anclas del libro; la trama se construye alrededor de ellos. **H2 — El apretón de manos** (el encuentro y la cadena de favores) · **H2-a — La primera cena** (el perro, la camioneta rentada, la fragancia) · **H2-b — La noche que todo cambió** (el penthouse, las canciones, la calavera) · **H11 — El mirador** (bolos, el drift, las estrellas, Dale y Ruth: la primera vez) · **H10 — El infarto de Héctor** (Héctor los empuja el uno hacia el otro desde el hospital; la carta de Chiara; la mano sobre la mano) · **H3 — La noche del ladrillo** (el florero, las calcetas blancas, el ladrillo de arcilla) · **H4 — El día nublado** (la cita del golf: *¿alguna vez has quitado una vida?*, el silencio, y *anda, hay que subir*. **Aquí se define la relación**) · **H9 — La carrera de máscaras** (el Peugeot rojo, la tienda de máscaras, la carrera ilegal cerca de Kingsley Field, la persecución policial y la primera sonrisa genuina de Chiara) · **H5 — El hipódromo** (*arco de la tensión, parte 1*: el ataque, las armas en el hospital, el loft, el jacuzzi, y la amenaza de Valcora) · **H6 — El pacto** (*parte 2*: el ultimátum de Halbrook, Cole entra a la mafia, y las cascadas) · **H7 — El río** (*parte 3, el cierre en calma*: la pesca, el atardecer y *vamos a casa*) · **H8 — El incendio, la mentira y la villa** (queman el loft; él dice que fue una fuga de gas; *queremos esta*) · **H1 — El regreso a casa** (secuencia climática en siete movimientos). Todas con sus líneas de diálogo canon.
+- [[06_Relationships/Hitos]] — **eventos obligatorios definidos por el autor.** Las anclas del libro; la trama se construye alrededor de ellos. Incluye la formalización de pareja y el hito mayor de la iglesia, la caída y la ejecución de Dario Varek, además de **H2 — El apretón de manos** (el encuentro y la cadena de favores) · **H2-a — La primera cena** (el perro, la camioneta rentada, la fragancia) · **H2-b — La noche que todo cambió** (el penthouse, las canciones, la calavera) · **H11 — El mirador** (bolos, el drift, las estrellas, Dale y Ruth: la primera vez) · **H10 — El infarto de Héctor** (Héctor los empuja el uno hacia el otro desde el hospital; la carta de Chiara; la mano sobre la mano) · **H3 — La noche del ladrillo** (el florero, las calcetas blancas, el ladrillo de arcilla) · **H4 — El día nublado** (la cita del golf: *¿alguna vez has quitado una vida?*, el silencio, y *anda, hay que subir*. **Aquí se define la relación**) · **H9 — La carrera de máscaras** (el Peugeot rojo, la tienda de máscaras, la carrera ilegal cerca de Kingsley Field, la persecución policial y la primera sonrisa genuina de Chiara) · **H5 — El hipódromo** (*arco de la tensión, parte 1*: el ataque, las armas en el hospital, el loft, el jacuzzi, y la amenaza de Varek) · **H6 — El pacto** (*parte 2*: el ultimátum de Halbrook, Cole entra a la mafia, y las cascadas) · **H7 — El río** (*parte 3, el cierre en calma*: la pesca, el atardecer y *vamos a casa*) · **H8 — El incendio, la mentira y la villa** (queman el loft; él dice que fue una fuga de gas; *queremos esta*) · **H1 — El regreso a casa** (secuencia climática en siete movimientos). Todas con sus líneas de diálogo canon.
 
 **REGLA DURA:** pase lo que pase, **no se separan** — pero el lector tiene que llegar a creer que sí. La salida nunca es esquivar el conflicto: es evolucionar y salir distintos.
 
@@ -89,9 +92,9 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 # Mundo
 
 - [[05_Locations/San_Aurelio]] — la ciudad. Puerto medio en la costa de California, partida en dos alturas. Mapa de barrios y geografía moral.
-- [[05_Locations/Mapa_Operativo_de_San_Aurelio]] — geografía práctica: carreteras, tiempos narrativos, puntos de cierre, rutas de El Patio, rutas de Valcora y ubicación recomendada de lugares pendientes.
+- [[05_Locations/Mapa_Operativo_de_San_Aurelio]] — geografía práctica: carreteras, tiempos narrativos, puntos de cierre, rutas de El Patio, rutas de Varek y ubicación recomendada de lugares pendientes.
 - [[05_Locations/Norte_Rural_de_San_Aurelio]] — eje norte: Lomas de San Jacinto, Kingsley Field, Rutas de Milla, Bellandi Ridge, Cedar Flats y Camp Alder.
-- [[05_Locations/Estado_de_la_Ciudad]] — tablero electoral y criminal: elecciones municipales, barrios del sur, mercado, gobierno de miedo de Valcora y contraste con el ascenso de El Patio.
+- [[05_Locations/Estado_de_la_Ciudad]] — tablero electoral y criminal: elecciones municipales, barrios del sur, mercado, gobierno de miedo de Varek y contraste con el ascenso de El Patio.
 - [[05_Locations/Hospital_Santa_Aurelia]] — hospital central de Calle Corona: trauma, urgencias, expedientes, cámaras y el contraste entre medicina oficial y medicina por fuera.
 - [[05_Locations/Iglesia_Santa_Lucia]] — parroquia católica antigua; velas de Chiara, silencio de Cole y vida civil alrededor de funerales, misas y rumores.
 - [[05_Locations/Vida_Civil_de_San_Aurelio]] — calles, tiendas, restaurantes y vida cotidiana; el sistema nervioso donde nacen los rumores antes de ser noticia o expediente.
@@ -120,7 +123,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[03_Factions/Cross_River_Consolidated]] — holding de activos administrado por Garrett Cross; cara financiera/legal que permite que Cole no aparezca en papel.
 - [[03_Factions/Red_Civil_de_Chiara]] — red informal de chismes, comercios, élite y calle; Chiara no retiene información, la direcciona. Incluye "i Sussurri", su capa privada de nodos reclutados a propósito: papelitos en latín, recortados del mismo papel de sus cartas personales — aroma a canela y vainilla, manuscrita (primer caso: [[02_Characters/Kenji_Oda]]).
 - [[03_Factions/Bandas_Menores_de_San_Aurelio]] — mapa de siete organizaciones menores: cuatro bandas del sur, dos del norte y una banda motociclista costera. El centro viejo no tiene territorio de banda permanente.
-- [[03_Factions/Mapa_de_Conflicto_Activo]] — enemistades, treguas, dependencias y conflictos entre El Patio, Valcora y las bandas menores.
+- [[03_Factions/Mapa_de_Conflicto_Activo]] — enemistades, treguas, dependencias y conflictos entre El Patio, Varek y las bandas menores.
 - [[03_Factions/Los_Calderos]] · [[03_Factions/La_Ronda_del_Canal]] · [[03_Factions/Cuadra_Nueve]] · [[03_Factions/Los_Bravos_de_Santa_Brigida]] — bandas menores del sur.
 - [[03_Factions/Los_Marcadores_de_Milla]] · [[03_Factions/Alamo_Salvage]] — organizaciones menores del norte.
 - [[03_Factions/Breakwater_Saints_MC]] — banda motociclista costera; seguridad de piso en La Isla antes del flujo de cocaína de Cole.
@@ -133,7 +136,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[02_Characters/Leone_Valenti]], *Il Consigliere* — **la cara del Consorcio.** Elegante, contenido, y sin ninguna necesidad de demostrar que es peligroso. *No amenaza: produce consecuencias.*
 - [[03_Factions/Il_Consorzio]] — **antagonista de Chiara.** Infraestructura criminal internacional que suena a institución financiera. No la odia: la tiene asignada como *Chiara Ardizzone Bellandi*.
 
-> **PENDIENTE:** confirmar si **El Patio** queda como nombre de calle definitivo frente a **Patio Almendra** como etiqueta institucional; también falta el nombre de la organización de Valcora (base: el puerto) y fichas individuales para líderes de bandas que escalen a escena.
+> **PENDIENTE:** confirmar si **El Patio** queda como nombre de calle definitivo frente a **Patio Almendra** como etiqueta institucional; también falta el nombre de la organización de Varek (base: el puerto) y fichas individuales para líderes de bandas que escalen a escena.
 
 ---
 
@@ -172,6 +175,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 
 - [[98_Agent_Handoff/README]] — protocolo compacto para handoff entre Codex, Claude Code u otros agentes
 - [[98_Agent_Handoff/START_HERE]] — entrada barata: orden de lectura, tabla de rutas y reglas para no cargar contexto innecesario
+- [[98_Agent_Handoff/AGENT_ROLES]] — responsabilidades operativas de Autor, ChatGPT, Codex y Claude Code
 - [[98_Agent_Handoff/CURRENT_BRIEF]] — estado vivo para continuar la sesion sin releer toda la bitacora
 - [[98_Agent_Handoff/PENDING]] — pendientes activos y siguiente trabajo recomendado
 - [[98_Agent_Handoff/DECISIONS]] — decisiones recientes en formato corto

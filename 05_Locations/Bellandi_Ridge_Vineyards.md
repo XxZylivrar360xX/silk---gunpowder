@@ -45,7 +45,7 @@ Por la mañana huele a tierra caliente y hojas. De noche, las luces de San Aurel
 
 1. No usarlo como simple escondite. Si alguien se refugia aquí, la escena debe pagar la profanación del lugar.
 2. No convertirlo en narcocultivo por defecto. Su fuerza es que sea legítimo y, por eso, vulnerable.
-3. Si Valcora o el Consorcio amenazan Bellandi Ridge, no están amenazando una propiedad: amenazan la decisión de Chiara de existir como Bellandi.
+3. Si Varek o el Consorcio amenazan Bellandi Ridge, no están amenazando una propiedad: amenazan la decisión de Chiara de existir como Bellandi.
 
 ---
 

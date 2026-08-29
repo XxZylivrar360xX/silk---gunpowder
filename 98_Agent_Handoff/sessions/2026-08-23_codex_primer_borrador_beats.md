@@ -14,4 +14,3 @@ El borrador actual tiene 90 beats macro. Es suficiente para ver la novela comple
 ## Regla Para Claude
 
 No copiar escenas del canon original. Mantener funcion emocional y redisenar desde San Aurelio.
-

@@ -134,7 +134,7 @@ El día ya había empezado.
 
 Varga no volvió.
 
-Volvieron otros.
+Volvieron otros, repartidos a lo largo de las semanas en que Plaza Corona fue saliendo de los noticieros y la ciudad encontró otras cosas de qué hablar.
 
 Una camioneta de lavandería que llegó con sábanas de menos y cajas de más. Un proveedor de hielo que intentó facturar dos entregas en la misma hora. Un huésped que perdió fichas, acusó a la mesa de trampa y resultó deber dinero en Santa Brígida. Un valet que anotaba matrículas en una libreta personal. Dos hombres del puerto que querían usar un reservado para una conversación que ningún hotel sensato habría querido alojar.
 
@@ -244,7 +244,7 @@ Ella asintió y subió por el elevador de servicio, molesta con él por haber di
 
 ***
 
-Cole empezó a pasar por el Monarch sin que hubiera siempre una emergencia.
+Con las semanas, Cole empezó a pasar por el Monarch sin que hubiera siempre una emergencia.
 
 Al principio era trabajo. Una firma. Una factura. Un coche. Un nombre que debía dejar de estar en una lista o aparecer en otra. Después empezó a llevar pequeñas cosas que no parecían regalos porque venían disfrazadas de utilidad: un contacto de lavandería que sí contestaba de madrugada, el número de una empresa de hielo que no duplicaba recibos.
 
@@ -412,7 +412,7 @@ Chiara no le dio el gusto de tocarse el anular.
 
 Tommaso se acomodó el puño de la camisa sin prisa.
 
-—Valcora me preguntó por ti la semana pasada. Por Palermo. Por cómo llegaste a estar disponible para este trabajo.
+—Varek me preguntó por ti la semana pasada. Por Palermo. Por cómo llegaste a estar disponible para este trabajo.
 
 Chiara no se movió.
 
@@ -491,3 +491,41 @@ Nadir sonrió hacia los recibos.
 Cole apagó la luz de la oficina.
 
 —Por la rueda.
+
+***
+
+La conversación con Tommaso no la sacó de trabajo. La metió más adentro.
+
+En la oficina administrativa abrió el registro de accesos de servicio de las últimas semanas y lo leyó como leía un balance: buscando el renglón que se repetía. Ahí estaba. Almendra Towing, una grúa. Almendra Towing, una camioneta prestada. Un tal Omar con uniforme limpio y una factura sin nada interesante. Una batería muerta que no lo estaba. Cada entrada venía entre paréntesis, con la misma nota de seguridad al margen —*visitante no programado, autorizado en sitio*—, y cada nota era una piedra que alguien como Tommaso podía levantar dentro de seis meses para ver qué había debajo.
+
+El problema no era que Cole entrara. Era que entraba como excepción, y las excepciones se acumulan hasta que alguien se sienta a contarlas.
+
+Lo corrigió antes de que existiera la pregunta.
+
+Almendra Towing tenía licencia municipal, seguro al día y una flota que ya trabajaba media ciudad. Convertirla en el proveedor externo de remolque y asistencia vehicular del Monarch entraba, con holgura, en lo que ella podía firmar sin llevar nada a junta. Redactó la autorización en el lenguaje más aburrido que encontró —tarifa por acto, respuesta en veinticuatro horas, ingreso por Terminal Road, facturación a fin de mes— y la archivó entre el contrato de lavandería y el de hielo, donde nadie leía porque nadie quería.
+
+No lo hizo socio. No contradijo el "no" de la mesa: aquello había sido sobre el casino; esto era una grúa. Su nombre no quedó en ningún lugar donde no estuviera también el de una empresa de toallas.
+
+Firmó, y se quedó un segundo con el cursor encima antes de mandarlo, porque poner su firma sobre la palabra *Almendra* era escribirse un renglón propio en un registro que otros también leían.
+
+Lo mandó.
+
+La siguiente vez que Cole cruzó la caseta de la salida de carga, el guardia no salió a preguntarle nada: miró una pantalla, miró la placa, levantó la pluma. Chiara lo vio desde el muelle. Vio también que Cole se quedaba un segundo con el pie en el freno antes de avanzar, como si la pluma levantada fuera un dato que había que verificar.
+
+Bajó cuando él ya tenía el cofre de un coche abierto y se limpiaba las manos con un trapo, mirando la caseta como quien revisa una junta nueva para ver si va a aguantar el invierno.
+
+—Me dejaron pasar sin llamar a nadie.
+
+—Ahora es un trámite.
+
+—¿Desde cuándo?
+
+—Desde que me dejó de convenir que fuera una noticia cada vez que aparece.
+
+Cole dobló el trapo.
+
+—Eso le cuesta una firma.
+
+—Me cuesta menos que explicarlo cada semana.
+
+No le dio las gracias. Ella no lo habría dejado, y él no lo intentó —sólo asintió una vez, se guardó el trapo y volvió a meterse debajo del coche, que tenía una fuga y no iba a arreglarse solo.

@@ -28,4 +28,3 @@ El lote debe mostrar que la fachada legal de Cole tiene vida propia. No es decor
 - [[02_Characters/Rafa_Luna]]
 - [[03_Factions/Almendra_Towing]]
 - [[05_Locations/Vida_Civil_de_San_Aurelio]]
-

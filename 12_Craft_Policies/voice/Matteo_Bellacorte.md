@@ -23,4 +23,3 @@ Sonrie antes de pedir. Toca mesas, respaldos, puertas: se comporta como si todos
 —Esta noche. Nada formal. Solo quiero que lo conozcan.
 
 —En mi experiencia, los socios perdonan casi todo menos aburrirse.
-

@@ -15,4 +15,3 @@ No cargar contexto historico por reflejo. Primero `rg`, luego lectura concreta.
 ## Siguiente Trabajo
 
 Volver al desarrollo narrativo: expandir [[01_Timeline/01_Primer_Borrador_Beats]] por bloques de capitulo.
-

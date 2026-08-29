@@ -111,10 +111,10 @@ Función de la escena:
 - legitimar la gravedad del ataque;
 - meter cámaras, médicos, pasillos y espera;
 - obligar a Cole a quedarse sin control;
-- permitir que [[02_Characters/Dario_Valcora]] entre como figura pública y amenaza privada;
+- permitir que [[02_Characters/Dario_Varek]] entre como figura pública y amenaza privada;
 - hacer posible el cuarto donde Cole y Dario se apuntan con armas.
 
-Valcora puede entrar no porque el hospital sea suyo, sino porque es donante, empresario, cara pública y hombre al que demasiada gente evita decirle que no.
+Varek puede entrar no porque el hospital sea suyo, sino porque es donante, empresario, cara pública y hombre al que demasiada gente evita decirle que no.
 
 ### H1 — El regreso a casa
 
@@ -164,7 +164,7 @@ Para la [[03_Factions/Fuerza_de_Tarea_Meridian]], el hospital es más frío:
 
 > **PENDIENTE:** nombre de la red hospitalaria / fundación que administra Santa Aurelia, si llega a ser necesaria.
 
-> **PENDIENTE:** si Valcora tiene asiento indirecto en la junta o sólo influencia por donaciones.
+> **PENDIENTE:** si Varek tiene asiento indirecto en la junta o sólo influencia por donaciones.
 
 > **PENDIENTE:** si Owen Kincaid termina como informante, cadáver o expediente para Meridian.
 

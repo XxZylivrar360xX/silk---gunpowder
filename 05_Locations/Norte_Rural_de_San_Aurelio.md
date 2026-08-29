@@ -38,7 +38,7 @@ El norte rural tiene tres capas que se confunden desde la ciudad, pero no son lo
 
 1. **El norte no es vacío.** Hay rancheros, trabajadores agrícolas, pilotos, guardias, mecánicos, corredores, contratistas y patrullas que conocen caras.
 2. **La discreción no significa impunidad.** Menos cámaras implica más memoria humana.
-3. **Cole gana por terreno.** Harper, Tyler y los Marcadores vuelven legible una zona que para Valcora y los federales parece periferia.
+3. **Cole gana por terreno.** Harper, Tyler y los Marcadores vuelven legible una zona que para Varek y los federales parece periferia.
 4. **Chiara gana por legitimidad.** Los viñedos le dan una razón pública para estar en el norte sin parecer que sigue a Cole.
 5. **Camp Alder no se toca sin consecuencia federal.** Cualquier escena ahí cambia la escala del libro.
 

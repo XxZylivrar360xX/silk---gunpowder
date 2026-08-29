@@ -83,4 +83,3 @@ Danny funciona como **testigo de barrio**: ve cosas que los protagonistas no pue
 ---
 
 Ver también: [[03_Factions/Almendra_Towing]] · [[06_Relationships/Hitos]] · [[02_Characters/Cole_Mercer]]
-

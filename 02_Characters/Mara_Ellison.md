@@ -42,7 +42,7 @@ Su frase guía:
 ## Conexiones
 
 - [[03_Factions/Fuerza_de_Tarea_Meridian]] — case agent de Violent Crime.
-- [[02_Characters/Andrew_Callahan]] — su comandante; él mira Valcora, ella empieza a mirar a Cole.
+- [[02_Characters/Andrew_Callahan]] — su comandante; él mira Varek, ella empieza a mirar a Cole.
 - [[02_Characters/Cole_Mercer]] — antagonismo personal por patrón, no por persecución física.
 - [[02_Characters/Grant_Maddox]] — le ayuda a leer escenas donde la violencia parece demasiado entrenada para ser callejera.
 

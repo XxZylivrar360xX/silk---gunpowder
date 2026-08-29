@@ -32,7 +32,7 @@ no está expresando una opinión. **Está comunicando una decisión.**
 
 **Elegante, educado, extremadamente contenido.**
 
-**No tiene la extravagancia de [[02_Characters/Dario_Valcora]].** **No tiene la mezquindad callejera de [[02_Characters/Silas_Crowe]].** Y a diferencia de los dos, **no necesita demostrar que es peligroso.**
+**No tiene la extravagancia de [[02_Characters/Dario_Varek]].** **No tiene la mezquindad callejera de [[02_Characters/Silas_Crowe]].** Y a diferencia de los dos, **no necesita demostrar que es peligroso.**
 
 Es uno de esos hombres que puede pasar una hora cenando contigo, hablar de vino, de arquitectura y de música, despedirse con cordialidad absoluta — y que al día siguiente descubras que:
 

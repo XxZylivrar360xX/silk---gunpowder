@@ -25,4 +25,3 @@ Administra manos, bolso, cigarro, copa o telefono. Si se toca el anular izquierd
 —No dije que fuera falso. Dije que no era suficiente.
 
 —Si querian discrecion, llegaron tarde.
-

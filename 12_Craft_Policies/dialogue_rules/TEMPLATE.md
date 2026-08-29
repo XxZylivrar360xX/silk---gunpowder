@@ -20,4 +20,3 @@ Alternativas concretas. Que deberia hacer esta voz en lugar de resolver la escen
 ## Excepcion
 
 Cuando si se permite.
-

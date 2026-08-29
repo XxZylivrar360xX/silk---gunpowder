@@ -23,4 +23,3 @@ Abre los brazos, baja la voz al recordar Italia, toca el hombro si la relacion l
 —No te preocupes, no traje Palermo en la maleta.
 
 —Los viejos amigos sirven para fingir que una habitacion no es tan nueva.
-

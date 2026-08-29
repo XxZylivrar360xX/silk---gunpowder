@@ -22,7 +22,9 @@ Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni
 | 12 | **H6** — El pacto *(arco de la tensión, parte 2)* |
 | 13 | **H7** — El río *(arco de la tensión, parte 3 — el cierre)* |
 | 14 | **H8** — El incendio, la mentira y la villa |
-| … | *(formalización, primera Navidad, mudanza — por recibir)* |
+| … | **Hito por numerar** — Mi pareja *(formalización verbal de Cole y Chiara)* |
+| … | **Hito mayor por numerar** — La iglesia, la caída y la ejecución de Dario Varek |
+| … | *(primera Navidad, mudanza — por recibir)* |
 | Clímax | **H1** — El regreso a casa |
 
 ---
@@ -445,7 +447,7 @@ Chiara está montando a caballo en el hipódromo del Monarch, propiedad del casi
 
 Entra armado al Monarch (domingo, cerrado, llave de la entrada de servicio) y lo recorre entero — vacío. Sube al penthouse — también vacío — y ahí ve las botas de montar de Chiara junto a la puerta, lo que le recuerda que monta los domingos. Baja al hipódromo (misma propiedad, no hace falta auto) y encuentra a **Vento** suelto a mitad del estacionamiento de las caballerizas. La sigue llamando por su nombre sin respuesta — está inconsciente, no puede contestar. **Aquí es donde se ve el soldado:** actúa bajo presión con calma entrenada — mientras por dentro se quiebra, sosteniendo junto a él a la mujer que le importa sin saber todavía si llegó a tiempo. **No espera ambulancia: la sube él mismo al Audi A7 (segundo auto, señal muda de que el negocio prospera) y conduce al hospital — conduce él, siempre.** Ejecutado en el Capítulo 9.
 
-> **Dato de la escena de hospital:** el teléfono de Chiara nunca aparece — la única cosa que falta del bolso, y la que menos sentido tiene que se hayan llevado si esto fue un robo. Encaja con que fue el atacante quien llamó a Cole desde ahí.
+> **Dato de la escena de hospital (revisado 2026-08-28):** Cole recoge el bolso en las caballerizas antes que nadie y se guarda la cartera y el reloj — *"un asalto que perdona un reloj así no se lo cree nadie"*. Lo único que de verdad falta es el teléfono, y ése no lo tiene él: encaja con que fue el atacante quien llamó a Cole desde ahí. Le devuelve reloj y efectivo a Chiara en el parador del norte, y ese gesto es lo que le hace ver a ella cuánta versión se armó a su alrededor mientras dormía.
 
 ## Lo que hace Cole mientras ella está inconsciente — CANON DEL AUTOR (2026-08-27, ampliado 2026-08-28)
 
@@ -453,19 +455,37 @@ En el hospital, con el cuarto en silencio y Chiara todavía sin despertar, Cole 
 
 Le pide a Héctor que lo cubra y sale a investigar un nombre — un guardia de las caballerizas que se fue temprano sin avisar. Lo secuestra, lo interroga, no saca nada útil, lo suelta. **Es un fracaso, y es feo — el libro no lo justifica.**
 
-Vuelve al cuarto y se encuentra con Dario Valcora, de pie junto a la cama sedada. **Se apuntan con sus armas, culpándose mutuamente de lo que le pasó a Chiara.** Llegan a una tregua: cada uno investiga por su lado y comparten lo que encuentren. Cole omite la llamada por reflejo — es información, y la información es una carta — y le da a Dario la primera versión oficial: estaba en el taller, volvió y la encontró en las caballerizas. Cuando Chiara despierta, Cole la pone al tanto antes de que vuelva a dormirse.
+Vuelve al cuarto y se encuentra con Dario Varek, de pie junto a la cama sedada. **Se apuntan con sus armas, culpándose mutuamente de lo que le pasó a Chiara.** Llegan a una tregua: cada uno investiga por su lado y comparten lo que encuentren. Cole omite la llamada por reflejo — es información, y la información es una carta — y le da a Dario la primera versión oficial: estaba en el taller, volvió y la encontró en las caballerizas. Cuando Chiara despierta, Cole la pone al tanto antes de que vuelva a dormirse.
 
-El día del alta, Dario prueba la versión con los dos juntos — **"qué casualidad que Cole llegara tan pronto, sin que nadie lo llamara"** — y se va sin creerles del todo, pero sin poder probar nada tampoco.
+Ejecutado en el Capítulo 9. **Esto absorbe y ejecuta los beats 1-6 de H5 — ver nota de fusión al final de H5.**
 
-Ejecutado en el Capítulo 9. **Esto absorbe y ejecuta los beats 1-7 de H5 — ver nota de fusión al final de H5.**
+## El alta, la coartada conjunta y la salida al norte — CANON DEL AUTOR (2026-08-28)
+
+**Escrito en el Capítulo 9.** Absorbe y ejecuta los **beats 7-8 de H5**.
+
+- **Cole la ayuda a alistarse** — le sostiene el abrigo, le acomoda el pelo sobre el vendaje. Intimidad callada: *"el silencio era lo más parecido a un idioma común que les quedaba"*.
+- **Dario llega antes de que firmen el papeleo.** Chiara, apenas entra, **percibe que la tregua ya está firmada** (los dos hombres se hablan con una calma que no tenían tres días antes) y entiende que le toca subirse a una versión en marcha sin conocer su velocidad.
+- **La coartada conjunta se remienda en vivo, con dos grietas pequeñas** — es la grieta de diseño de H5 beat 6, aquí explícita:
+  1. Ella dice *"estaba cerrando el corral"*; Cole le había dicho a Dario *"las caballerizas"*. Parche: *"estaba entre las dos cosas"*.
+  2. Dario le pregunta si esperaba a Cole ese domingo. Sí = miente sobre algo comprobable; no = la llegada de Cole no tiene motivo. Parche: una *"entrega de forraje"* que Dario repite en voz alta como lo que es, *"una tabla clavada encima de un agujero, funcional y a la vista"*. **No les cree, no puede probar nada, decide esperar a que la mentira se pudra sola.**
+- **Dario anuncia "vigilancia" en el casino** — *"un par de hombres, discretos"*. Chiara traduce sin esfuerzo: protección y vigilancia son la misma palabra en su boca. **Y manda un hombre a seguir a Cole** (H5 beat 7).
+- **Cole se ofrece a llevarla al casino.** Dario acepta, "no dice más".
+- **En el camino, Cole detecta el seguidor** — un sedán gris desde el hospital. Cuadran la maniobra: ella **entra por la bahía de carga / túnel este del Monarch** (la "salida de evacuación", ver [[03_Factions/El_Casino]]) para que el seguidor la "vea llegar a casa"; veinte minutos después los dos salen a pie por la rampa de proveedores, sin cámara, fuera de su vista. **Es el beat 8 de H5, con el lugar concretado.**
+- **Van al norte, a un parador de autopista.** Cole le devuelve reloj y efectivo sobre el tablero. Reconstruyen los hechos *"no para la versión, para mí"*. **Chiara está a un centímetro de nombrar el Consorcio y se detiene** — sólo dice que "gente de antes", de la vida de su padre y de los socios, está probando si puede plantar una bandera en San Aurelio, y que no le dará el nombre porque eso metería a Cole en algo que no podría soltar. **Simetría con el beat 11 de H5 (el jacuzzi), donde sí se lo cuenta: aquí sólo se acerca.**
+- **Cole le devuelve sus propias palabras:** *"Ya estoy dentro contigo. ¿O cómo era? Él es Cole Mercer, vengan a conocerlo. Lo dijiste tú."* Ella: **"No. Pero tampoco me arrepiento."**
+- **Chiara pide un motel de paso**; Cole se burla (*"un motel, dice ella… tú vienes conmigo"*). En la cabeza de ella la frase tiene demasiados significados y **se queda con la lectura más económica** — la operativa, la que le deja decir *"sólo esta vez"*. *"La mentira más económica que se dijo en toda la noche."*
 
 ## La casa común
 
 Para su seguridad y recuperación, termina quedándose en [[05_Locations/Casa_Comunitaria_De_La_Almendra]] — el refugio barrial de Cole y su núcleo.
 
+Llegan de madrugada. **Cole le da el único cuarto de la planta que "no gritaba de quién era"** (ni el desorden de Danny ni las cajas de Nadir), le da su palabra de que ahí está segura, **ella baja la mirada y él la abraza** — torpe primero, después no. **La siente temblar, y no es frío:** Chiara acaba de entender que **ya no hay punto de retorno** — lo que viene tras ella puede alcanzar ahora también a Cole, *"no porque a eso le interese ella, sino porque a ella le interesa él, y eso, en el mundo del que venía, era exactamente el hilo del que tiraban"*. Diálogo corporal, sin frase que lo explique. Cierra la idea de Cole como *"el hombre dispuesto a meter los dos brazos hasta el codo"* para sacarla de un problema, aunque se lo niegue a sí mismo como "sólo un favor": **a partir de esa noche no vuelve a decirle que no cuando están en juego su seguridad o su sonrisa.**
+
 ## La fricción con Nadir
 
 Con ella ahí, día tras día, la desconfianza de [[02_Characters/Nadir_Amrani]] — ya establecida como preocupación de amigo leal, no celos románticos, ver su ficha — deja de ser silenciosa. Empiezan los roces. Nadir no necesita decir nada abiertamente hostil: basta con la tensión de dos personas compartiendo un espacio que uno de los dos no quiere compartir.
+
+**Los muchachos la dejan quedarse — sin votación.** Alguno pregunta "por cuánto tiempo" con ella lejos; Cole: **"Lo necesario. Hasta que ya no lo sea."** Y basta, porque Cole se ganó ese derecho: nunca les dijo que no a un favor y nunca cobró ninguno — *"a la familia no se le cobran los favores"*. Pueden pelearle a gritos; **dudar de él, no.** Nadir cumple como los demás y, como los demás, calla — pero **es el único que, al decir que sí, no la mira a ella** (engancha con la apertura del Capítulo 10).
 
 ## La recompra
 
@@ -721,7 +741,7 @@ Blake vuelve adentro. Ella se queda afuera y le manda un mensaje:
 
 ## H3-b — Las calcetas blancas
 
-Antes de entrar se encuentra con **[[02_Characters/Dario_Valcora]]** — magnate de la ciudad, cabeza de la mafia vigente (**todo pasa por él**) y **socio mayoritario del casino**. Iba de salida; conversan en la entrada.
+Antes de entrar se encuentra con **[[02_Characters/Dario_Varek]]** — magnate de la ciudad, cabeza de la mafia vigente (**todo pasa por él**) y **socio mayoritario del casino**. Iba de salida; conversan en la entrada.
 
 Y el mismo Peugeot vuelve a pasar, esta vez en dirección contraria, y **se mete en un callejón** cerca del local.
 
@@ -792,7 +812,7 @@ Un *nos volveremos a ver* sin adornos.
 | | Qué ve en Chiara | Qué hace con ella |
 |---|---|---|
 | **Blake** | un trofeo | la **exhibe** |
-| **Valcora** | un activo político reemplazable | la **cotiza** |
+| **Varek** | un activo político reemplazable | la **cotiza** |
 | **Cole** | a Chiara | la **hace reír en un pasillo oscuro** |
 
 Los tres están en el mismo edificio la misma noche. **La escena no tiene que decir nada: sólo ponerlos a los tres y dejar que el lector saque la cuenta.**
@@ -1053,7 +1073,12 @@ Esa sonrisa es el centro del hito.
 
 # H5 — El hipódromo *(Arco de la tensión, parte 1)*
 
-> **FUSIÓN (2026-08-28):** los beats 1-7 de este hito (la llamada, el penthouse a punta de pistola, las caballerizas, el hospital, el secuestro fallido, el encañonamiento con Dario, la primera mentira) **quedan absorbidos por [[#H12 — El corral]], ya escrito en el Capítulo 9** — mismos beats, con el lugar corregido a hipódromo del Monarch (no Bellandi Ridge) para que las dos versiones dejen de contradecirse. El beat 8 (coartada del norte con cámaras) y el 9-10 (barrio, loft) también quedan cubiertos por lo ya escrito en los Capítulos 9 y 10. **Lo que sigue siendo material nuevo, sin escribir, es de los beats 11 en adelante** (jacuzzi, mensaje y salida de la ciudad, advertencia de Valcora, la peor noche) — ver nota de replanteamiento al final de esta sección.
+> **FUSIÓN (2026-08-28, ampliada):** los **beats 1-8** de este hito **quedan absorbidos por [[#H12 — El corral]], escrito en el Capítulo 9** — con el lugar corregido a hipódromo del Monarch (no Bellandi Ridge):
+> - **Beats 1-6** (la llamada, el penthouse a punta de pistola, las caballerizas, el hospital, el secuestro fallido, el encañonamiento con Dario y la tregua, la primera mentira) → ejecutados en la primera mitad del Capítulo 9.
+> - **Beat 7** (el alta; Dario acepta que Cole la lleve y **manda un hombre a seguir a Cole**) → ejecutado como el interrogatorio del alta + la "vigilancia" en el casino + el **sedán gris** que Cole detecta en el camino.
+> - **Beat 8** (la coartada del norte y la salida de servicio) → ejecutado como la **maniobra por la bahía de carga / túnel este del Monarch** (la "salida de evacuación", ver [[03_Factions/El_Casino]]) y la conversación de reconstrucción en un **parador de autopista al norte**. La coartada "con cámaras" quedó reemplazada por "entrar visible, salir sin registro".
+>
+> Los beats **9-10** (barrio, loft) quedan cubiertos por el cierre del Capítulo 9 y por el Capítulo 10. **Material nuevo, sin escribir: beats 11 en adelante** (jacuzzi, mensaje y salida de la ciudad, advertencia de Varek, la peor noche) — ver nota de replanteamiento al final de esta sección.
 
 > **CANON DEL AUTOR (2026-08-23).** Primera parte del arco de mayor tensión de la novela. **Partes 2 y 3 por recibir.**
 
@@ -1099,31 +1124,31 @@ Registra a un sospechoso que no le da buena espina, **hasta el grado de secuestr
 
 ## 5. Las armas en el cuarto de hospital
 
-Vuelve al [[05_Locations/Hospital_Santa_Aurelia|hospital]], entra al cuarto — ella sedada — **y se encuentra con [[02_Characters/Dario_Valcora]].**
+Vuelve al [[05_Locations/Hospital_Santa_Aurelia|hospital]], entra al cuarto — ella sedada — **y se encuentra con [[02_Characters/Dario_Varek]].**
 
 La tensión entre los dos escala hasta que **se apuntan con sus armas, culpándose mutuamente de lo que le pasó a Chiara.**
 
 Llegan a **una tregua**: investigar y seguir los movimientos de Chiara para ver si alguien la amenazó o la siguió.
 
-> **DISEÑO:** es la primera vez que Cole y Valcora están en la misma habitación, y ocurre **junto a una mujer sedada por la que los dos están ahí.** Ninguno de los dos está fingiendo preocupación — ahí está el problema. **Valcora la cotiza, pero también la quiere en su tablero**, y eso es suficiente para que las dos rabias sean auténticas.
+> **DISEÑO:** es la primera vez que Cole y Varek están en la misma habitación, y ocurre **junto a una mujer sedada por la que los dos están ahí.** Ninguno de los dos está fingiendo preocupación — ahí está el problema. **Varek la cotiza, pero también la quiere en su tablero**, y eso es suficiente para que las dos rabias sean auténticas.
 >
-> Y estructuralmente: **Cole se enfrenta a la cima del poder criminal de San Aurelio años antes de estar en posición de hacerlo**, y sobrevive. Valcora no olvida eso.
+> Y estructuralmente: **Cole se enfrenta a la cima del poder criminal de San Aurelio años antes de estar en posición de hacerlo**, y sobrevive. Varek no olvida eso.
 
 ## 6. La primera mentira
 
 **Cole omite el tema de la llamada.**
 
-Le dice a Valcora que estaba con ella, que fue al taller por un asunto, y que **al volver la encontró tirada en las caballerizas.**
+Le dice a Varek que estaba con ella, que fue al taller por un asunto, y que **al volver la encontró tirada en las caballerizas.**
 
-Cuando Chiara despierta, confundida, **intenta agregarse a la versión que dio Cole** — pero **deja dudando a Valcora.**
+Cuando Chiara despierta, confundida, **intenta agregarse a la versión que dio Cole** — pero **deja dudando a Varek.**
 
-> **DISEÑO, y es el corazón del arco:** ésta es la primera versión oficial que Cole y Chiara construyen **juntos**, improvisada, con ella recién salida de la sedación. Sale mal. **La mujer que fabrica versiones para vivir no puede fabricar una bien cuando le importa demasiado y acaba de despertar** — y esa grieta es la que le da a Valcora todo lo que necesita.
+> **DISEÑO, y es el corazón del arco:** ésta es la primera versión oficial que Cole y Chiara construyen **juntos**, improvisada, con ella recién salida de la sedación. Sale mal. **La mujer que fabrica versiones para vivir no puede fabricar una bien cuando le importa demasiado y acaba de despertar** — y esa grieta es la que le da a Varek todo lo que necesita.
 >
 > Y Cole omite la llamada **por reflejo**: es información y la información es una carta. No calcula que esconderla lo va a poner en la lista de sospechosos del hombre más peligroso de la ciudad.
 
-## 7. El alta, y el hombre que Valcora manda
+## 7. El alta, y el hombre que Varek manda
 
-Cuando le dan el alta, **Cole se ofrece a llevarla al casino. Valcora acepta y no dice más.**
+Cuando le dan el alta, **Cole se ofrece a llevarla al casino. Varek acepta y no dice más.**
 
 **Y manda a un hombre a investigar a Cole.**
 
@@ -1220,35 +1245,35 @@ Y otro a Chiara: **que sale de la ciudad de emergencia.**
 
 ---
 
-## 13. La advertencia de Valcora
+## 13. La advertencia de Varek
 
-**Pero Chiara viene de un contexto mucho más alarmante**, porque **la noche anterior Valcora le advirtió que se alejara de Cole**: que algo no le cuadraba de él, y que **iba a investigarlo personalmente.**
+**Pero Chiara viene de un contexto mucho más alarmante**, porque **la noche anterior Varek le advirtió que se alejara de Cole**: que algo no le cuadraba de él, y que **iba a investigarlo personalmente.**
 
-Así que, en su paranoia por saberlo en peligro, **Chiara cree que el mensaje lo mandó Valcora** — y que Valcora lo tiene secuestrado.
+Así que, en su paranoia por saberlo en peligro, **Chiara cree que el mensaje lo mandó Varek** — y que Varek lo tiene secuestrado.
 
-**Y escala tanto que sigue a Valcora** hasta un viejo taller en lo más lejano del norte, donde tiene que inventarse que Cole la llevó ahí porque se había quedado varada con el coche y él se ofreció a ayudarla.
+**Y escala tanto que sigue a Varek** hasta un viejo taller en lo más lejano del norte, donde tiene que inventarse que Cole la llevó ahí porque se había quedado varada con el coche y él se ofreció a ayudarla.
 
 > *(Ese taller es el taller ilegal de las carreras callejeras. Ver `05_Locations/`.)*
 
 ### La conversación
 
-Valcora la amenaza con que **Cole es peligroso**, usando el incidente del hospital — los dos apuntándose — **contado sólo en la parte que le conviene.** Es un manipulador y así trabaja.
+Varek la amenaza con que **Cole es peligroso**, usando el incidente del hospital — los dos apuntándose — **contado sólo en la parte que le conviene.** Es un manipulador y así trabaja.
 
 Le cuenta el **pasado turbio de Cole**. Ella **ya lo sabe** — se lo contó él mismo en el jacuzzi — pero **se hace la que no.**
 
-Y entonces, en el momento más tenso, **Valcora le ordena dejar de ver a Cole.**
+Y entonces, en el momento más tenso, **Varek le ordena dejar de ver a Cole.**
 
 Ella se planta: **él no es nadie para decirle qué hacer y qué no.**
 
-Y Valcora contesta que **sí lo es: que ella trabaja para él, y por lo tanto puede decirle qué hacer y qué no.**
+Y Varek contesta que **sí lo es: que ella trabaja para él, y por lo tanto puede decirle qué hacer y qué no.**
 
 ### Y el cierre, que es la mejor amenaza del libro
 
-Como Valcora entiende a medias que Cole y Chiara están teniendo una aventura, le dice que **si hay que matar a Cole, ella misma va a jalar el gatillo.**
+Como Varek entiende a medias que Cole y Chiara están teniendo una aventura, le dice que **si hay que matar a Cole, ella misma va a jalar el gatillo.**
 
 > **DISEÑO:** no dice *lo voy a matar*. Dice **lo vas a matar tú.** Es exactamente el hombre que la ve como un activo: no la amenaza a ella — **la convierte en el instrumento de la amenaza.** Y es la respuesta más brutal posible a lo que ella acaba de decirle, porque le contesta *"él no es nadie para decirme qué hacer"* demostrándole que sí lo es.
 >
-> Es además la versión de Valcora de la pregunta del libro ([[04_Concepts/Quien_Decide_Quien_Soy]]): *el poder pertenece a quien puede tomarlo y conservarlo* — y ahora mismo él la tiene a ella.
+> Es además la versión de Varek de la pregunta del libro ([[04_Concepts/Quien_Decide_Quien_Soy]]): *el poder pertenece a quien puede tomarlo y conservarlo* — y ahora mismo él la tiene a ella.
 
 ---
 
@@ -1272,8 +1297,8 @@ Y **se pone la sudadera de Cole para aparentar que él está en casa.**
 
 | Cole | Chiara |
 |---|---|
-| Le oculta la llamada a Valcora | Le oculta a Cole la advertencia de Valcora |
-| No le da detalles a Chiara de a dónde va | Sigue a Valcora sola, sin decírselo a nadie |
+| Le oculta la llamada a Varek | Le oculta a Cole la advertencia de Varek |
+| No le da detalles a Chiara de a dónde va | Sigue a Varek sola, sin decírselo a nadie |
 | Delega su cuidado y se va a resolver | Monta guardia sola, disfrazada de él |
 
 **Los dos están protegiendo al otro, por separado, y por eso los dos están en peligro.** Ninguno miente por egoísmo. Ése es el único mecanismo autorizado para herirlos, y aquí está desplegado entero.
@@ -1282,7 +1307,7 @@ Y **se pone la sudadera de Cole para aparentar que él está en casa.**
 
 ## Pendientes de H5
 
-> **REPLANTEAMIENTO (2026-08-28), PRIORITARIO:** el jacuzzi (beat 11) y la amenaza de Valcora (beat 13) ya no arrancan de la investigación del ataque del corral — llegan después, **detonados por un nuevo atentado: los frenos del auto de Chiara** (ver [[06_Relationships/Momentos_de_Fractura]], F3 — "Los frenos", donde Cole le dice *te amo* por primera vez a su cuerpo inconsciente). **RESUELTO:** el auto sale de una compra limpia — Cole compra participación en [[03_Factions/Villani_Motors]], concesionario de importación, y le consigue un sedán Lancia discreto, nada deportivo. Falta escribir esa escena de compra, y decidir el orden exacto: ¿los frenos primero y el jacuzzi como consecuencia (la vulnerabilidad post-susto), o el jacuzzi primero y los frenos como la traición que lo rompe todo?
+> **REPLANTEAMIENTO (2026-08-28), PRIORITARIO:** el jacuzzi (beat 11) y la amenaza de Varek (beat 13) ya no arrancan de la investigación del ataque del corral — llegan después, **detonados por un nuevo atentado: los frenos del auto de Chiara** (ver [[06_Relationships/Momentos_de_Fractura]], F3 — "Los frenos", donde Cole le dice *te amo* por primera vez a su cuerpo inconsciente). **RESUELTO:** el auto sale de una compra limpia — Cole compra participación en [[03_Factions/Villani_Motors]], concesionario de importación, y le consigue un sedán Lancia discreto, nada deportivo. Falta escribir esa escena de compra, y decidir el orden exacto: ¿los frenos primero y el jacuzzi como consecuencia (la vulnerabilidad post-susto), o el jacuzzi primero y los frenos como la traición que lo rompe todo?
 
 > **PENDIENTE, PRIORITARIO (heredado):** ¿quién atacó a Chiara en el hipódromo? Queda en incógnita a propósito. La respuesta pertenece a las partes 2 y 3.
 
@@ -1308,7 +1333,7 @@ Le dieron un ultimátum:
 >
 > Y hay una crueldad extra que el texto no tiene que señalar: **Nadir está en este país porque Cole lo metió** ([[02_Characters/Cole_Mercer]]). La deuda que Cole pagó con gusto es ahora la correa con la que lo llevan.
 
-**Pero mientras él no estaba, Chiara abrió un frente que él no vio: Valcora.** Y ese frente, sin querer, **le da a Cole una salida.**
+**Pero mientras él no estaba, Chiara abrió un frente que él no vio: Varek.** Y ese frente, sin querer, **le da a Cole una salida.**
 
 ## 2. La conversación
 
@@ -1324,13 +1349,13 @@ Cole le dice que **no sabe cómo sentirse**, que siente demasiada presión, y qu
 >
 > Y es *me quedo* dicho sin cadena: **la mujer cuya definición del amor es permanecer se niega a usar esa permanencia para retenerlo.** Le ofrece la salida por segunda vez en el libro — la primera fue en el coche, en [[#H4 — El día nublado]] — y las dos veces él se queda.
 
-## 3. Lo de Valcora
+## 3. Lo de Varek
 
-De ahí la conversación llega al tema de Valcora: que **la amenazó entre líneas de que su vida era de Darío para dirigir.**
+De ahí la conversación llega al tema de Varek: que **la amenazó entre líneas de que su vida era de Darío para dirigir.**
 
 **Cole no se lo toma nada bien.**
 
-Apenas lo escucha, baja las escaleras del cuarto y sale a toda prisa hacia su auto, llamando a Valcora por teléfono:
+Apenas lo escucha, baja las escaleras del cuarto y sale a toda prisa hacia su auto, llamando a Varek por teléfono:
 
 > **— ¿Nos podemos reunir?**
 
@@ -1354,11 +1379,11 @@ Dentro, en el patio, **hablan de Chiara y de cómo mantenerla a salvo.** Disimul
 
 Y por el camino Cole encuentra el modo de salvar también a Nadir.
 
-**Cole ofrece trabajar para Valcora, como parte de la organización.** A cambio: **seguridad para Chiara.**
+**Cole ofrece trabajar para Varek, como parte de la organización.** A cambio: **seguridad para Chiara.**
 
-Y trae con qué pagarlo — **el medio para conseguir lo que Halbrook maneja**: una **entrada a [[05_Locations/Camp_Alder]]**, el complejo militar donde los civiles no tienen acceso, para sacar armas y venderlas en la ciudad. **Armamento largo**, que a Valcora le sirve.
+Y trae con qué pagarlo — **el medio para conseguir lo que Halbrook maneja**: una **entrada a [[05_Locations/Camp_Alder]]**, el complejo militar donde los civiles no tienen acceso, para sacar armas y venderlas en la ciudad. **Armamento largo**, que a Varek le sirve.
 
-**Valcora acepta**, y con eso **desvía momentáneamente la atención de Chiara.**
+**Varek acepta**, y con eso **desvía momentáneamente la atención de Chiara.**
 
 > **DISEÑO — la jugada, y es de las mejores del libro:** Cole **convierte el chantaje de Halbrook en su moneda de cambio.** Lo van a obligar a trabajar para el general de todos modos; lo único que decide es **qué compra con eso.** Y compra la seguridad de ella y los papeles de Nadir.
 >
@@ -1392,11 +1417,11 @@ La lleva a **un lugar de cascadas**, con ruido de naturaleza, apartado y sin int
 
 Y ahí **le cuenta todo lo sucedido.**
 
-**Los dos pactan estar alineados para deshacer la organización de Valcora desde dentro.**
+**Los dos pactan estar alineados para deshacer la organización de Varek desde dentro.**
 
 > **DISEÑO:** el sitio no es romántico, es **operativo**: ruido de agua, sin líneas de visión, sin nadie. Y es **el primer lugar del libro que no es territorio de nadie** — ni el penthouse del casino, ni el barrio de él, ni la casa que todavía no es de los dos. Para pactar de igual a igual hacen falta las dos cosas: privacidad y terreno neutral.
 >
-> Y el pacto **es el método del vault ejecutado a su máxima escala**: volverse indispensable, volverse autónomo, absorber ([[00_Biblia/Reglas_del_Mundo]], regla 2). **Cole no va a derrotar a Valcora. Se va a volver imprescindible dentro de su organización hasta que la organización sea suya.** Y ahora tiene socia.
+> Y el pacto **es el método del vault ejecutado a su máxima escala**: volverse indispensable, volverse autónomo, absorber ([[00_Biblia/Reglas_del_Mundo]], regla 2). **Cole no va a derrotar a Varek. Se va a volver imprescindible dentro de su organización hasta que la organización sea suya.** Y ahora tiene socia.
 
 ### Y la frase
 
@@ -1406,7 +1431,7 @@ Y ahí **le cuenta todo lo sucedido.**
 
 **1. Dice *a quien tú quieras*, no *a mí*.** Ésa es la palabra que lo decide todo. Cole no está comprando el derecho a estar con ella: **está comprando su derecho a elegir.** No la quiere para él — la quiere libre. Es la demostración final de lo que Chiara vio en [[#H3 — La noche del ladrillo]]: *Cole es el único que la ve por lo que ella es, y no por lo que quiere que sea.*
 
-**2. Es la respuesta exacta a Valcora.** Él dijo *ella trabaja para mí, yo le digo qué hacer y qué no*. Cole no discute esa afirmación: **la compra.** Contra un hombre que cree que todo le pertenece, la respuesta no es un argumento — es una transacción.
+**2. Es la respuesta exacta a Varek.** Él dijo *ella trabaja para mí, yo le digo qué hacer y qué no*. Cole no discute esa afirmación: **la compra.** Contra un hombre que cree que todo le pertenece, la respuesta no es un argumento — es una transacción.
 
 **3. Y minimiza mientras sangra, como siempre.** *Bueno, con peores personas he tratado.* Acaba de vender su alma y le está quitando importancia en la misma frase. Ver [[02_Characters/Cole_Mercer]], "El puente".
 
@@ -1416,7 +1441,7 @@ Y ahí **le cuenta todo lo sucedido.**
 
 ## Lo que este movimiento cambia en la estructura
 
-- **Cole entra a la organización de Valcora.** Se acabó ser proveedor externo: ahora está dentro. Ver [[01_Timeline/00_Estructura_del_Ascenso]] — esto acelera las fases II y III de golpe.
+- **Cole entra a la organización de Varek.** Se acabó ser proveedor externo: ahora está dentro. Ver [[01_Timeline/00_Estructura_del_Ascenso]] — esto acelera las fases II y III de golpe.
 - **Vuelve a trabajar para Halbrook.** Con las dos correas puestas al mismo tiempo.
 - **Y por primera vez Chiara y él tienen un objetivo compartido y explícito**, no una cadena de favores. La sociedad deja de ser implícita.
 
@@ -1426,7 +1451,7 @@ Y ahí **le cuenta todo lo sucedido.**
 
 > **RESUELTO DE DISEÑO (2026-08-23):** el complejo militar es [[05_Locations/Camp_Alder]], al noreste de San Aurelio, más allá de Kingsley Field.
 
-> **PENDIENTE:** ¿qué gana Halbrook exactamente con que Cole vuelva? Y qué relación real tiene con Valcora, si es que la tiene.
+> **PENDIENTE:** ¿qué gana Halbrook exactamente con que Cole vuelva? Y qué relación real tiene con Varek, si es que la tiene.
 
 > **PENDIENTE:** ¿los papeles de Nadir se arreglan aquí, o queda pendiendo?
 
@@ -1861,9 +1886,107 @@ Regla de [[06_Relationships/Cole_y_Chiara]]: lo que los salva siempre es algo qu
 
 ---
 
+# Hito por numerar — Mi pareja
+
+> **CANON DEL AUTOR (2026-08-29).** Cole Mercer y Chiara Bellandi formalizan verbalmente su relación. No es el inicio de sus sentimientos ni de su funcionamiento como pareja: es el momento en que nombran algo que su círculo cercano ya reconoce.
+
+## Función
+
+La escena formaliza el noviazgo sin una conversación romántica convencional. Muestra que la dificultad de Cole no es comprometerse con Chiara, sino nombrar emocionalmente lo que ya demuestra con conducta. También planta la distinción futura entre compromiso y matrimonio.
+
+## Escena canon
+
+Ocurre dentro del **Audi A7 de Cole**, detenido. El volante exterioriza su incomodidad.
+
+> **Chiara:** —Espera, ¿le tienes miedo al compromiso?
+>
+> **Cole:** —¡¿Qué?!
+>
+> **Chiara:** —Eso. Que tienes miedo de formalizar. Yo creí que era porque querías que no le pusiéramos nombre a esto.
+>
+> **Cole:** —¡¿Qué?!
+
+Cole insiste en que no le teme al compromiso. Chiara le pide que diga qué siente. Él intenta convertirlo en una demostración y ella le responde que los sobornos cariñosos no funcionarán esta vez.
+
+Cole llama a [[02_Characters/Nadir_Amrani]] y pone el teléfono en altavoz:
+
+> **Cole:** —Sabes que Chiara y yo hemos estado pasando tiempo juntos.
+>
+> **Nadir:** —Sí.
+>
+> **Cole:** —Bueno, pues sólo llamo para contarte que ella es mi...
+>
+> **Cole:** —Mi pareja.
+>
+> **Nadir:** —Ajá.
+>
+> **Cole:** —Y ya.
+>
+> **Nadir:** —¿Y lo nuevo?
+
+Después, Chiara le dice que nombrarlo le costó más que el efectivo del Audi. Ella entrelaza los dedos con los de él; Cole deja de pelearse con el volante y la mira.
+
+> **Chiara:** —Tiri fuori il meglio di me; lascia che ti restituisca un po' di tutto questo.
+
+La redacción final de la explicación emocional de Cole queda abierta. No debe convertirse en discurso terapéutico ni introducir matrimonio, anillos, boda, hijos o una promesa matrimonial explícita.
+
+## Estado y posición
+
+- **Número:** PENDIENTE.
+- **Posición exacta:** PENDIENTE; requiere intimidad, rutinas y círculo cercano que ya los lea como pareja.
+- **Estado:** CANON DEL AUTOR; diálogo final y colocación aún pendientes.
+
+---
+
+# Hito mayor por numerar — La iglesia, la caída y la ejecución de Dario Varek
+
+> **CANON DEL AUTOR (2026-08-29).** Este arco cierra el recorrido de Dario Varek: un atentado posterior en una iglesia, la muerte de Kenji, las heridas críticas de Chiara, la culminación de la investigación de Lucia, la ejecución de Dario por Cole y la reconciliación posterior de Cole y Chiara.
+
+## Ubicación y continuidad
+
+Es el cierre macro de **Parte IV — Hierro Y Seda**, inmediatamente antes de la entrada plena de **Parte V — La Factura / Meridian**.
+
+No reemplaza [[#H13 — El pañuelo]]. H13 sigue siendo la intercepción previa de Il Consorzio; el nuevo atentado es un segundo evento independiente. La primera iglesia es una amenaza controlada. La segunda es violencia abierta.
+
+## Contexto obligatorio
+
+Cole y Chiara ya son una pareja consolidada y públicamente reconocible como **La Mancuerna de Hierro y Seda**. Participan en decenas de negocios, inversiones, organizaciones y estructuras de poder. Dario ha sobrevivido la guerra y ha perdido capacidad de controlar a Chiara. Además, ha erosionado la confianza entre ambos sin separarlos.
+
+Lucia Varek ya ha conocido a Cole, estudiado su método y construido un caso institucional contra Dario. Debe estar cerca de poder arrestarlo legalmente.
+
+## Atentado
+
+Chiara entra a una iglesia acompañada por [[02_Characters/Kenji_Oda]]. El motivo exacto queda **PENDIENTE**. Se produce un tiroteo:
+
+- Kenji muere.
+- Chiara recibe dos disparos.
+- Sobrevive gravemente herida y entra en coma.
+
+No describirlo como manual táctico. La función es romper la estabilidad, cruzar una frontera y dejar a Cole ante la posibilidad real de perderla.
+
+## Dario y la caída
+
+Dario orquesta el atentado, pero Cole no debe saberlo inmediatamente. El orden es: atentado, muerte de Kenji, coma de Chiara, investigación de Cole, caso institucional de Lucia, conversación entre Cole y Lucia y pieza final que confirma la responsabilidad de Dario.
+
+La motivación exacta permanece abierta. Debe conservar dimensiones criminales, políticas y personales; no reducirse a celos.
+
+Lucia llega con policía y federales para arrestar a su padre. Trix y Vivian están con Dario. Cole lo ejecuta antes de que pueda ser arrestado. La ejecución es venganza, no necesidad estratégica limpia: le roba a Lucia el cierre legal que ella había construido y convierte el problema de Cole en uno federal.
+
+La reconciliación posterior de Cole y Chiara no absuelve automáticamente lo que él hizo. Debe cobrar la mala racha de confianza previa.
+
+## Pendientes
+
+- Número definitivo del hito.
+- Motivo exacto de la presencia de Chiara y Kenji en la iglesia.
+- Iglesia y ubicación concreta.
+- Razón familiar por la que Trix y Vivian están con Dario.
+- Cuánto sabe Vivian del atentado antes de la ejecución.
+- Desarrollo detallado de la caída legal y la reconciliación.
+
+---
+
 # Hitos por recibir
 
-- **La formalización** — incómoda y graciosa, nunca solemne. Fase 3-bis.
 - **El paso del usted al tú.** Umbral, no descuido. Ver H2.
 - **La primera Navidad y el collar.** Obligatorio: es donde nace el ritual que sostiene H1, y es la única vez en su vida adulta que Cole acepta un regalo sin convertirlo en transacción.
 - **La primera vela.** **Resuelta de diseño:** nace después de [[06_Relationships/Momentos_de_Fractura]], F4, el Año Nuevo en Washington. Falta escribir la escena exacta.

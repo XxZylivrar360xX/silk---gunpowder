@@ -5,7 +5,7 @@
 **Qué es:** banda de talleres, autopartes, patios de chatarra y cobros en Las Calderas.  
 **Territorio:** sur de [[05_Locations/San_Aurelio]], barrio industrial de Las Calderas.  
 **Cabeza:** Marina "Mack" Calderon.  
-**Estado al abrir la novela:** operan bajo el clima de [[02_Characters/Dario_Valcora]], sin ser parte limpia de su organización.
+**Estado al abrir la novela:** operan bajo el clima de [[02_Characters/Dario_Varek]], sin ser parte limpia de su organización.
 
 ---
 

@@ -22,4 +22,3 @@ Cole y Chiara se leen muy bien, pero su relacion no debe funcionar como traducci
 ## Excepcion
 
 Es valido cuando el vinculo se define por ser visto con una exactitud rara. Chiara devolviendo a Cole al cuadro puede hacerlo en momentos contados. No debe ser el cierre por defecto de toda escena intima.
-

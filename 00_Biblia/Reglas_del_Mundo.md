@@ -29,7 +29,7 @@ Nadie "toma" un barrio a tiros. Se toma así:
 
 Contraste de gobierno criminal:
 
-- [[02_Characters/Dario_Valcora]] gobierna a las bandas por miedo preventivo: amenaza con liquidar, torturar o borrar para que nadie olvide quién permite operar.
+- [[02_Characters/Dario_Varek]] gobierna a las bandas por miedo preventivo: amenaza con liquidar, torturar o borrar para que nadie olvide quién permite operar.
 - [[02_Characters/Cole_Mercer]] asciende por utilidad, deuda y respeto. Da oportunidades de más porque prefiere reconducir antes que cerrar una puerta.
 - Cuando Cole dispara, tiene que ser porque ya agotó las salidas que su propio método le exigía intentar. Si dispara para parecer duro, la escena traiciona el libro.
 

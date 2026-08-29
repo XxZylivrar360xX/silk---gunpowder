@@ -25,4 +25,3 @@ Anclar la herida en conducta:
 ## Excepcion
 
 Puede aparecer una formulacion limpia en un clímax o en boca de alguien con voz deliberadamente doctrinal, como Dario o Valenti. Aun ahi, debe sentirse como arma de poder, no como confesion honesta.
-

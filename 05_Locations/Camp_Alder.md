@@ -31,7 +31,7 @@ Eso lo vuelve perfecto para [[02_Characters/Warren_Halbrook]]: no necesita un ca
 
 Cole no vuelve a Camp Alder como ladrón común. Vuelve como alguien que entiende cómo se mira una instalación desde dentro: horarios, rutinas, puntos ciegos, lenguaje corporal de guardias, quién es militar y quién es contratista.
 
-La entrada que le ofrece a [[02_Characters/Dario_Valcora]] en H6 no es sólo una ruta física. Es una prueba de valor: Cole todavía conserva acceso, memoria o deuda suficiente para tocar un lugar que un criminal de calle no podría tocar.
+La entrada que le ofrece a [[02_Characters/Dario_Varek]] en H6 no es sólo una ruta física. Es una prueba de valor: Cole todavía conserva acceso, memoria o deuda suficiente para tocar un lugar que un criminal de calle no podría tocar.
 
 ---
 
@@ -42,7 +42,7 @@ Camp Alder cambia la escala de cualquier escena.
 - Si aparece la policía local, está fuera de profundidad.
 - Si aparecen los federales, la historia entra en terreno federal.
 - Si aparece Halbrook, el libro recuerda que Cole no nació del barrio solamente.
-- Si Valcora recibe armas de ahí, deja de ser un problema municipal.
+- Si Varek recibe armas de ahí, deja de ser un problema municipal.
 
 ---
 
@@ -63,4 +63,4 @@ Camp Alder cambia la escala de cualquier escena.
 
 ---
 
-Ver también: [[02_Characters/Cole_Mercer]] / [[02_Characters/Warren_Halbrook]] / [[02_Characters/Dario_Valcora]] / [[05_Locations/Norte_Rural_de_San_Aurelio]]
+Ver también: [[02_Characters/Cole_Mercer]] / [[02_Characters/Warren_Halbrook]] / [[02_Characters/Dario_Varek]] / [[05_Locations/Norte_Rural_de_San_Aurelio]]

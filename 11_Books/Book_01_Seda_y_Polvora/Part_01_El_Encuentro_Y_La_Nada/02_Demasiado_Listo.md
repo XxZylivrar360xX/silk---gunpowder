@@ -170,7 +170,7 @@ Matteo tardó medio segundo más de lo necesario.
 
 Él suspiró.
 
-—Dario Valcora.
+—Dario Varek.
 
 —¿Socio local?
 
@@ -226,7 +226,7 @@ Fabrizio dejó de sonreír lo suficiente para que Chiara supiera que también lo
 
 En otra mesa del lobby, dos hombres de traje local fingieron revisar documentos mientras esperaban permiso para acercarse. Nadie les dio permiso. Una mujer con carpeta del hotel sostuvo el bolígrafo en el aire, atrapada entre tomar nota y no interrumpir. Chiara no había entrado todavía a ninguna junta y ya sabía quién podía hablar sin ser invitado.
 
-Entonces llegó Dario Valcora.
+Entonces llegó Dario Varek.
 
 No entró con prisa. No la necesitaba. La gente del lobby ajustó su volumen antes de que él hablara, como si una mano invisible hubiera bajado el sonido de la habitación.
 
@@ -236,13 +236,13 @@ Traje oscuro, postura impecable, rostro de hombre que había aprendido a parecer
 
 —Signora Bellandi.
 
-—Señor Valcora.
+—Señor Varek.
 
 —Me alegra que haya llegado bien. San Aurelio puede ser confusa al principio.
 
 —Las ciudades suelen esforzarse mucho por parecerlo.
 
-Valcora sostuvo una sonrisa educada.
+Varek sostuvo una sonrisa educada.
 
 —Ésta premia a la gente que entiende su lugar.
 

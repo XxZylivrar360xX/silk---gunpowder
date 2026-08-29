@@ -23,7 +23,7 @@ Cuando levanta la voz, algo salió terriblemente mal.
 
 Elena Vega llega a dirigir el [[03_Factions/Departamento_de_Policia_de_San_Aurelio]] después del asesinato de [[02_Characters/Raymond_Keene]], el jefe anterior.
 
-No fue nombrada porque fuera cómoda. Fue nombrada porque el Departamento estaba en crisis: corrupción, baja confianza pública, alta criminalidad y una ciudad donde [[02_Characters/Dario_Valcora]] sobrevivió demasiadas administraciones.
+No fue nombrada porque fuera cómoda. Fue nombrada porque el Departamento estaba en crisis: corrupción, baja confianza pública, alta criminalidad y una ciudad donde [[02_Characters/Dario_Varek]] sobrevivió demasiadas administraciones.
 
 Su reputación es casi incómoda:
 
@@ -87,7 +87,7 @@ La respuesta de Vega:
 
 - [[03_Factions/Departamento_de_Policia_de_San_Aurelio]] — departamento que dirige.
 - [[02_Characters/Raymond_Keene]] — jefe anterior asesinado; su muerte abre la crisis.
-- [[02_Characters/Dario_Valcora]] — el poder criminal que prueba si una jefa incorruptible puede sobrevivir San Aurelio.
+- [[02_Characters/Dario_Varek]] — el poder criminal que prueba si una jefa incorruptible puede sobrevivir San Aurelio.
 - [[02_Characters/Cole_Mercer]] — conflicto ideológico: justicia institucional contra justicia individual.
 - [[03_Factions/Fuerza_de_Tarea_Meridian]] — fricción de jurisdicción cuando entran los federales.
 

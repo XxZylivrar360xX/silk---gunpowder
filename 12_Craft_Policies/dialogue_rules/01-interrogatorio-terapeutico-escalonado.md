@@ -26,4 +26,3 @@ Variar el cierre: accion, retirada, una factura pagada, un favor aceptado, un si
 ## Excepcion
 
 Puede usarse cuando la escena trate precisamente de alguien con autoridad intima obligando a otro a dejar de administrar. Incluso entonces, el acierto debe costar algo y no resolver por si solo.
-

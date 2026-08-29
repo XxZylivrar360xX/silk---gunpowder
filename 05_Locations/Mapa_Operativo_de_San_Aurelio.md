@@ -29,12 +29,12 @@ Cole suele ganar por conocimiento fisico de la ciudad. Chiara suele ganar por sa
 | --- | --- | --- | --- |
 | Oceano Pacifico | Oeste | Limite natural y fachada turistica | Dinero nuevo, hoteles, marinas |
 | [[05_Locations/San_Aurelio|Calle Corona]] | Centro viejo | Ayuntamiento, juzgados, hospitales, comisarias, prensa | Instituciones, camaras, opinion publica |
-| Distrito Marino | Oeste / noroeste costero | Torres, restaurantes, casino, elite nueva | Valcora, inversionistas, Chiara en etapa inicial |
+| Distrito Marino | Oeste / noroeste costero | Torres, restaurantes, casino, elite nueva | Varek, inversionistas, Chiara en etapa inicial |
 | La Isla | Costa de ocio | Clubes, bares, hoteles de fin de semana | [[03_Factions/Breakwater_Saints_MC]] |
-| El Puerto Viejo | Suroeste | Muelles, aduana, bodegas, contenedores | Valcora y quien controle carga |
+| El Puerto Viejo | Suroeste | Muelles, aduana, bodegas, contenedores | Varek y quien controle carga |
 | La Almendra | Este bajo | Casas, talleres, patios de gruas, vias | [[03_Factions/El_Patio]] |
 | Barrios del sur | Sur del centro | Territorio fragmentado y mercado local | Bandas menores |
-| Cuesta Bonita | Noreste / colina | Dinero viejo, clubes, mansiones | Elite tradicional, Valcora por influencia |
+| Cuesta Bonita | Noreste / colina | Dinero viejo, clubes, mansiones | Elite tradicional, Varek por influencia |
 | Lomas de San Jacinto | Norte residencial alto | Casas defendibles, privacidad cara, [[05_Locations/La_Villa|Villa Candelaria]] | Elite residencial, seguridad privada |
 | [[05_Locations/Norte_Rural_de_San_Aurelio|Norte rural]] | Más allá de Lomas | Viñedos, Kingsley Field, rutas, parcelas, base militar | El Patio en expansión, Marcadores, federal |
 | [[05_Locations/Bellandi_Ridge_Vineyards|Bellandi Ridge Vineyards]] | Ladera norte | Viñedos de Chiara, legitimidad y silencio | Chiara Bellandi |
@@ -54,7 +54,7 @@ Cole suele ganar por conocimiento fisico de la ciudad. Chiara suele ganar por sa
 | **CA-19 / Autopista Costera** | Distrito Marino, La Isla, Puerto Viejo | Turistas, ejecutivos, Saints, policia de transito | Rapida pero visible; muchas camaras y patrullas |
 | **Bulevar Corona** | Costa, Calle Corona, La Almendra | Civiles, patrullas, ambulancias, prensa | Facil de cerrar; mala ruta para desaparecer |
 | **Avenida Almendra** | Centro viejo con La Almendra | Gruas, talleres, vecinos, Cole | Cole tiene ventaja por calles secundarias |
-| **Terminal Road / Ruta de Muelles** | Puerto Viejo, bodegas, aduana | Camiones, Valcora, contrabandistas | Camaras, guardias privados, registros de carga |
+| **Terminal Road / Ruta de Muelles** | Puerto Viejo, bodegas, aduana | Camiones, Varek, contrabandistas | Camaras, guardias privados, registros de carga |
 | **Via de las Refinerias** | Puerto Viejo, Los Alamos, norte industrial | Chatarra, carga sucia, Alamo Salvage | Poca presencia publica, mucha vigilancia informal |
 | **Carretera de Milla** | Kingsley Field, caminos rurales, taller del norte | Corredores, Tyler, Marcadores | Baja visibilidad; perfecta para carreras y emboscadas |
 | **Ronda Exterior** | Evita Calle Corona por periferia | Cole, patrullas, camionetas de reparto | Util para rodear cierres; vulnerable en accesos |
@@ -128,7 +128,7 @@ No son tiempos de GPS. Son tiempos de escena: trafico, hora, presion policial y 
 
 ---
 
-## Rutas de Dario Valcora
+## Rutas de Dario Varek
 
 Dario no necesita conocer cada calle. Su poder esta en los accesos grandes:
 
@@ -152,8 +152,8 @@ Su debilidad aparece cuando Cole controla rutas chicas que Dario siempre conside
 | Gabriella's | Frontera La Isla / Santa Brigida | Fiesta, costa y peligro de barrio en la misma noche |
 | Hipodromo | Borde noreste entre Cuesta Bonita y Rutas de Milla | Elite, caballos, caballerizas y ruta rapida hacia hospital |
 | Casa comunitaria | La Almendra | El barrio ve llegar a Chiara por primera vez |
-| Taller del norte | Rutas de Milla, cerca de Kingsley Field | Carreras, amenazas de Valcora, caminos sin testigos |
-| Mansion de Valcora | Cuesta Bonita | Poder viejo y respetabilidad comprada |
+| Taller del norte | Rutas de Milla, cerca de Kingsley Field | Carreras, amenazas de Varek, caminos sin testigos |
+| Mansion de Varek | Cuesta Bonita | Poder viejo y respetabilidad comprada |
 | Cascadas | Cerros del este, mas alla de Cuesta Bonita | Primer lugar que no pertenece a nadie |
 | Camp Alder | Noreste restringido, mas alla de Kingsley Field | Mantiene distancia civil y escala federal |
 | La Esquina de Mabel | Frontera Calle Corona / La Almendra | Oye hospital, policia, iglesia y barrio bajo |
@@ -170,7 +170,7 @@ Su debilidad aparece cuando Cole controla rutas chicas que Dario siempre conside
 2. El Peugeot rojo no gana en autopista abierta; gana donde el conductor conoce curvas, cambios de rasante, caminos de servicio y salidas que otros no se atreven a tomar.
 3. Las gruas de Almendra Towing son invisibles en zonas de trabajo, accidentes, talleres y calles bloqueadas.
 4. Las motos de los Breakwater Saints dominan La Isla y la costa, pero pierden ventaja en Cuesta Bonita y zonas con cierres policiales densos.
-5. Las camionetas de Valcora imponen presencia, pero se vuelven faciles de recordar en barrios donde no pertenecen.
+5. Las camionetas de Varek imponen presencia, pero se vuelven faciles de recordar en barrios donde no pertenecen.
 6. La policia local puede cerrar Bulevar Corona, accesos de hospital y puentes del sur. Le cuesta mas cerrar patios privados, rutas de carga y caminos rurales.
 7. Los federales no necesitan perseguir mejor: necesitan probar que el mismo patron se repite en rutas distintas.
 

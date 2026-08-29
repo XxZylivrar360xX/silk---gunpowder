@@ -33,7 +33,7 @@ El Patio nace en La Almendra, en el cruce operativo de **Avenida Almendra** y **
 Esa ubicación le da tres ventajas:
 
 - queda lo bastante cerca de Calle Corona para responder rápido a hospitales, comisarías y juzgados;
-- queda lo bastante lejos de la costa para no parecer parte del negocio nocturno de Valcora;
+- queda lo bastante lejos de la costa para no parecer parte del negocio nocturno de Varek;
 - tiene salida natural hacia Ronda Exterior, Puerto Viejo, Kingsley Field y el norte rural.
 
 **Regla visual:** El Patio no debe sentirse cinematográficamente secreto. Debe sentirse útil. Si alguien mira desde fuera, ve grúas, aceite, metal, perros, coches retenidos y gente trabajando. La organización está en la lectura de esos movimientos, no en un letrero.
@@ -82,15 +82,15 @@ La llegada de [[02_Characters/Ren_Wei]] toca suministro. Ahí El Patio deja de s
 
 > **Regla moral:** el salto a suministro tiene que costar. Si El Patio se vuelve proveedor principal sin que algo se ensucie de forma irreversible, el ascenso está demasiado limpio.
 
-### Lo que lo diferencia de Valcora
+### Lo que lo diferencia de Varek
 
-[[02_Characters/Dario_Valcora]] gobierna a las bandas por miedo: amenaza con liquidar, torturar o borrar a quien ponga en riesgo su orden. Cole no empieza ahí. Su poder nace de resolver, esperar y volverse necesario.
+[[02_Characters/Dario_Varek]] gobierna a las bandas por miedo: amenaza con liquidar, torturar o borrar a quien ponga en riesgo su orden. Cole no empieza ahí. Su poder nace de resolver, esperar y volverse necesario.
 
 La diferencia no absuelve a Cole. Sólo marca su escala moral:
 
-- Valcora usa el miedo como primera arquitectura.
+- Varek usa el miedo como primera arquitectura.
 - Cole usa la utilidad, la deuda y la confianza como primera arquitectura.
-- Valcora castiga para que todos miren.
+- Varek castiga para que todos miren.
 - Cole da demasiadas oportunidades, hasta que alguien abusa tanto de la confianza que ya no deja salida.
 
 > **Regla:** si Cole dispara, no debe sentirse como demostración de dureza. Debe sentirse como el punto exacto donde su código ya no encuentra otra herramienta.

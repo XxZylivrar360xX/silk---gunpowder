@@ -19,7 +19,7 @@ Su función narrativa es descubrir cosas incómodas antes que los investigadores
 
 Puede ser la primera persona en sospechar que la historia oficial de Cole no explica a Cole:
 
-- hombres de Valcora muertos en patrones demasiado limpios;
+- hombres de Varek muertos en patrones demasiado limpios;
 - Cole en ciudades donde después desaparecieron traficantes;
 - registros militares incompletos;
 - huecos que parecen borrados, no ausencia normal de datos.

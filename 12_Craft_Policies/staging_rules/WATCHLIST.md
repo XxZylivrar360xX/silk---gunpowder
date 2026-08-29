@@ -13,4 +13,3 @@ Riesgo: escribir juntas del casino, fiscalia, federales o puerto como intercambi
 ## Ciudad nombrada, no cruzada
 
 Riesgo: mencionar San Aurelio, La Almendra, Distrito Marino o Calle Corona sin que el lector sienta ruta, olor, ruido, camaras, vecinos o distancia de clase.
-

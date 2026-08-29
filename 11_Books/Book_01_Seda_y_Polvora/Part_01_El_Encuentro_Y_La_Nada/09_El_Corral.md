@@ -1,9 +1,9 @@
 <!--
 Estado: borrador provisional.
-Protagonistas: Chiara Bellandi, Cole Mercer, con apariciones de Nadir Amrani y personal del hospital.
-Ventana temporal: semanas despues del Capitulo 8 (la noche del ladrillo). Todavia no hay primer beso.
-Lugares: Hipodromo del Monarch (propiedad del casino), Hospital Santa Aurelia, Casa Comunitaria de La Almendra.
-Funcion: fusiona H12 y el arranque de H5 -- el ataque ocurre en el hipodromo del Monarch, no en Bellandi Ridge. Cole recibe una llamada desde el celular de ella, contestada por un desconocido que tantea su paradero y cuelga sin decir nada util. Buzon de voz al llamarla directo. Entra armado al Monarch (domingo, cerrado), lo recorre vacio, sube al penthouse, tambien vacio, ve las botas de montar y recuerda que ella monta los domingos. Baja al hipodromo (misma propiedad, no hace falta auto), encuentra a Vento suelto, la halla inconsciente junto al corral -- repite su nombre sin respuesta, la sube el mismo al Audi y la lleva al hospital (nunca llama ambulancia -- el conduce, siempre). Aqui se ve al soldado: calma entrenada por fuera, quiebre por dentro. Investiga y secuestra sin exito a un sospechoso. Encanonamiento con Dario en el cuarto de hospital -- tregua. Cole omite la llamada, arma coartada. Dario la prueba con los dos juntos el dia del alta, sin creerla del todo. Traslado a la casa comun; turnos de guardia ordenados por Cole, Nadir a regañadientes pero cooperante. El atacante no se identifica ni se sugiere.
+Protagonistas: Chiara Bellandi, Cole Mercer, con apariciones de Dario Varek, Nadir Amrani, Hector Navarro y personal del hospital.
+Ventana temporal: semanas despues del Capitulo 8 (la noche del ladrillo). Todavia no hay primer beso. Cierra con el traslado nocturno a la casa comun.
+Lugares: Hipodromo del Monarch (propiedad del casino), Hospital Santa Aurelia, bahia de carga / tunel este del Monarch, parador de autopista al norte, Casa Comunitaria de La Almendra.
+Funcion: fusiona H12 y el arranque de H5 -- el ataque ocurre en el hipodromo del Monarch, no en Bellandi Ridge. Cole recibe una llamada desde el celular de ella, contestada por un desconocido que tantea su paradero y cuelga sin decir nada util. Buzon de voz al llamarla directo. Entra armado al Monarch (domingo, cerrado), lo recorre vacio, sube al penthouse, tambien vacio, ve las botas de montar y recuerda que ella monta los domingos. Baja al hipodromo (misma propiedad, no hace falta auto), encuentra a Vento suelto, la halla inconsciente junto al corral -- repite su nombre sin respuesta, la sube el mismo al Audi y la lleva al hospital (nunca llama ambulancia -- el conduce, siempre). Aqui se ve al soldado: calma entrenada por fuera, quiebre por dentro. Cole recoge el bolso antes que nadie y se guarda cartera y reloj: un asalto que perdona un reloj asi no se lo cree nadie. Investiga y secuestra sin exito a un sospechoso. Encanonamiento con Dario en el cuarto de hospital -- tregua. Cole omite la llamada, arma coartada. El dia del alta Cole la ayuda a alistarse y llega Dario a interrogarla; Chiara percibe la tregua ya firmada y se sube a la version en marcha. Dos grietas pequeñas -- "corral" vs "caballerizas", y si lo esperaba ese domingo -- que remiendan en vivo con una mentira conjunta pasable pero no creible. Dario anuncia "vigilancia" en el casino (proteccion y vigilancia son la misma palabra en su boca) y manda un hombre a seguir a Cole. Cole se ofrece a llevarla. En el camino Cole detecta un sedan gris siguiendolos: cuadran que ella entre por la bahia de carga (tunel este, bajo el puente del canal, la "salida de evacuacion" del Monarch) y salgan a pie por atras, fuera de la vista del espia. Van al norte, a un parador de autopista; aparcan y reconstruyen los hechos. Chiara estuvo a punto de nombrar el Consorcio y se detiene: solo dice que viejos enemigos o rivales de los socios estan plantando una bandera con el atentado, y que no quiere meter a Cole. Cole: "Yo ya estoy dentro contigo. ¿O como era? El es Cole Mercer, vengan a conocerlo." Chiara: "No. Pero tampoco me arrepiento." Ella pide un motel de paso; Cole se burla ("un motel, dice ella... tu vienes conmigo") y ella se queda con la lectura mas economica, la que le deja decir "solo esta vez". Llegan de madrugada a la casa comun; Cole le da el unico cuarto que no grita de quien es, le da su palabra de que ahi esta segura, ella baja la mirada y el la abraza -- la siente temblar porque entendio que ya no hay punto de retorno: lo que viene tras ella puede alcanzarlo ahora a el, no porque a eso le interese ella sino porque a ella le interesa el. Cierre: los muchachos la dejan quedarse; alguien pregunta por cuanto tiempo y Cole dice "lo necesario, hasta que ya no lo sea" -- se lo gano, porque a la familia no se le cobran favores y el nunca les dijo que no; pueden pelearle, dudar de el no. Nadir cumple como los demas y, como los demas, calla; pero es el unico que al decir que si no la mira a ella. El atacante no se identifica ni se sugiere.
 -->
 
 # Capítulo 9 — El corral
@@ -112,9 +112,11 @@ Por dentro se estaba partiendo en dos, sosteniendo junto a él, en el asiento de
 
 ***
 
-En el Santa Aurelia le dijeron lo que sabían, que no era mucho. Un golpe en la nuca, uno solo, lo bastante fuerte para tumbarla y dejarla sin memoria de los minutos anteriores. Conmoción, dos o tres días de observación por precaución, nada roto, nada más. El bolso apareció junto a ella con la cartera y un reloj que costaba más que la mayoría de los coches del barrio, todo intacto. El teléfono no apareció por ningún lado — la única pieza que faltaba, y la que menos sentido tenía que fuera la robada.
+En el Santa Aurelia le dijeron lo que sabían, que no era mucho. Un golpe en la nuca, uno solo, lo bastante fuerte para tumbarla y dejarla sin memoria de los minutos anteriores. Conmoción, dos o tres días de observación por precaución, nada roto, nada más.
 
-Eso era lo que no le cuadraba a nadie. Nadie roba y deja el reloj.
+El bolso lo había levantado Cole del suelo de las caballerizas, antes que nadie. Para cuando una enfermera se sentó a inventariar lo que traía dentro, ya no había ahí nada que valiera la pena llevarse: la cartera y el reloj —que costaba más que la mayoría de los coches del barrio— iban en el bolsillo de su chaqueta, porque un asalto que perdona un reloj así no se lo cree nadie. La única pieza que de verdad faltaba era el teléfono, y ésa no la tenía él.
+
+Ya estaba armando la versión, sin haber decidido del todo armarla.
 
 Cole se sentó junto a la cama y no se movió de ahí en toda la noche. No porque alguien se lo pidiera.
 
@@ -140,13 +142,13 @@ No fue un buen momento de su vida. No se lo contó a nadie, y no encontró forma
 
 ***
 
-Cuando abrió la puerta del cuarto 221, Dario Valcora estaba de pie junto a la cama, mirando a Chiara dormir con la clase de atención que un hombre no le presta a algo que sólo le importa como activo.
+Cuando abrió la puerta del cuarto 221, Dario Varek estaba de pie junto a la cama, mirando a Chiara dormir con la clase de atención que un hombre no le presta a algo que sólo le importa como activo.
 
 Cole no preguntó cómo había entrado.
 
 —Señor Mercer.
 
-—Señor Valcora.
+—Señor Varek.
 
 —Me tomé la libertad de venir a ver cómo estaba mi gente.
 
@@ -262,66 +264,194 @@ Volvió al hipódromo y habló con quien no había podido detener esa primera no
 
 Con Dario mantuvo la tregua tal como habían quedado — le pasaba lo poco que encontraba, y Dario, por su parte, le confirmó que su propio hombre tampoco había sacado nada. Ninguno de los dos dijo en voz alta que no confiaba del todo en lo que el otro estaba compartiendo.
 
-Al cuarto día tuvo que aceptar lo que ya sabía: no había pista. La había buscado en todos los sitios donde sabía buscar, y todos los sitios estaban vacíos. Lo guardó, sin cerrarlo, de la misma manera en que guardaba todo lo que no podía arreglar todavía.
+La mañana del alta tuvo que aceptar lo que ya sabía: no había pista. La había buscado en todos los sitios donde sabía buscar, y todos los sitios estaban vacíos. Lo guardó, sin cerrarlo, de la misma manera en que guardaba todo lo que no podía arreglar todavía.
 
 ***
 
-Le dieron de alta al tercer día con instrucciones de reposo y una advertencia sobre no forzar la memoria — iba a volver sola, o no iba a volver, y presionarla no iba a acelerar nada.
+Le dieron de alta con instrucciones de reposo y una advertencia sobre no forzar la memoria — iba a volver sola, o no iba a volver, y presionarla no iba a acelerar nada.
+
+Cole llegó temprano, con ropa limpia que alguien le había subido del penthouse, y se quedó junto a la cama mientras ella se vestía despacio, con la lentitud de quien descubre que levantar los brazos todavía cuesta. Le sostuvo el abrigo para que metiera las mangas sin girar el cuello. Le acomodó el pelo por encima del vendaje sin que se lo pidiera, con más cuidado del que Chiara le habría atribuido a esas manos. Ninguno de los dos habló mientras lo hacía. El silencio, esa mañana, era lo más parecido a un idioma común que les quedaba.
 
 Dario llegó antes de que terminaran de firmar el papeleo.
 
 —Signora Bellandi. —Sonrió, la clase de sonrisa que no le llegaba a los ojos—. Qué alivio verla de pie.
 
-—Señor Valcora. Gracias por la preocupación.
+—Señor Varek. Gracias por la preocupación.
 
-—Cole me cuenta que estaba en el taller cuando pasó, y que la encontró al volver.
+Ella no preguntó cómo se había enterado de la hora del alta. Había dejado de sorprenderle que Dario supiera cosas que nadie le decía.
 
-—Así es —dijo Chiara, sin dudar el tiempo justo para que la duda no se notara—. No recuerdo nada de antes del golpe. Sólo que estaba cerrando el corral.
+—Cole me cuenta que estaba en el taller cuando pasó. Que la encontró al volver.
 
-Dario los miró a los dos, uno y después el otro, con la atención de un hombre que hace inventario.
+Los dos hombres se hablaban con una calma que no tenían tres días antes, y Chiara, que leía habitaciones para vivir, entendió en dos frases que mientras ella dormía se había firmado algo: una tregua, una versión, un reparto de quién investigaba qué. Le tocaba subirse a un tren en marcha sin saber a qué velocidad iba.
 
-—Qué casualidad que Cole llegara tan pronto, sin que nadie lo llamara.
+Así que hizo lo que sabía hacer: contestó lo mínimo, y lo contestó como un dato aburrido.
 
-—No fue casualidad —dijo Cole—. Fue que no contestaba el teléfono, y con ella eso nunca es buena señal.
+—No recuerdo nada de antes del golpe. Sólo que estaba cerrando el corral.
 
-—Claro. —Dario se ajustó el puño de la camisa, sin prisa—. Bueno. Mi hombre sigue investigando. El suyo, imagino, también. —Miró a Chiara una última vez—. Cuídese, signora. San Aurelio la necesita entera, y con la cabeza donde debe estar.
+—El corral. —Dario lo dejó respirar un segundo—. Cole me había dicho las caballerizas.
+
+Era un metro de diferencia. En una versión que funcionara de verdad, no habría diferencia ninguna.
+
+—Estaba entre las dos cosas —dijo Cole, sin prisa—. Cerró el corral y volvía a las caballerizas. Ahí la encontré.
+
+—Ah. —Dario asintió, como quien acepta una cifra que sabe mal cuadrada—. ¿Y qué lo llevó al hipódromo un domingo, señor Mercer, sin que nadie lo llamara?
+
+—No contestaba el teléfono. Con ella, eso nunca es buena señal.
+
+—¿Lo esperaba? —le preguntó Dario a Chiara, directo, girando apenas la cabeza.
+
+Y ahí estaba el hueco. Si decía que sí, mentía sobre algo que se podía comprobar. Si decía que no, entonces Cole había manejado hasta el hipódromo por una llamada sin contestar, en el día libre de una mujer que no lo esperaba.
+
+—Habíamos hablado de una entrega para las caballerizas —dijo—. Creo. Los días se me juntan.
+
+—Forraje —dijo Cole—. Iba a pasar a ver si había llegado.
+
+—Forraje. —Dario repitió la palabra, y en su boca sonó a lo que era: una tabla clavada encima de un agujero, funcional y a la vista.
+
+No dijo que no les creía. No le hizo falta. Se ajustó el puño de la camisa y los miró a los dos, uno y después el otro, con la paciencia de un hombre que ha decidido esperar a que la mentira se pudra sola.
+
+—Voy a poner gente en el casino —dijo—. Un par de hombres. Discretos. Hasta que sepamos quién le hizo esto, la signora no va a estar sola en ningún pasillo.
+
+—Se lo agradezco.
+
+Lo dijo con la cortesía exacta, y por dentro tradujo la frase sin esfuerzo: no iba a estar sola en ningún pasillo porque siempre iba a haber alguien de Dario mirándola. Protección y vigilancia eran, en el idioma de ese hombre, la misma palabra dicha con dos tonos.
+
+—Yo la llevo al casino —dijo Cole.
+
+Dario lo miró un momento de más.
+
+—Cómo no. —Se volvió hacia la puerta—. Que descanse, signora. San Aurelio la necesita entera, y con la cabeza donde debe estar.
 
 Se fue sin esperar respuesta.
 
-Chiara esperó a que el elevador se cerrara detrás de él antes de soltar el aire que llevaba conteniendo.
+Chiara esperó a que el elevador se cerrara detrás de él antes de soltar el aire.
 
 —No nos creyó.
 
-—No del todo —dijo Cole—. Pero tampoco puede probar que mentimos, y por ahora es lo único que tenemos.
+—No —dijo Cole—. Pero no puede probar que mentimos, y por ahora eso alcanza.
 
 ***
 
-—Vuelvo al penthouse —dijo Chiara, ya en el auto, con la voz de alguien que ya había decidido antes de que se lo preguntaran.
+En el auto, Chiara apoyó la cabeza contra el reposacabezas con cuidado y cerró los ojos.
+
+—Al penthouse.
 
 —No.
 
-Ella lo miró.
-
 —No es una discusión, Cole.
 
-—Alguien te golpeó en propiedad del Monarch y nadie vio nada. —Cole no levantó la voz. No hacía falta—. Vuelves ahí y sigues siendo la mujer más fácil de encontrar de toda la ciudad. Cualquiera con una reservación sabe en qué piso vives, y ahora también sabe que estuviste sola y que alguien pudo entrar sin que nadie se enterara.
+—Alguien te dejó inconsciente en propiedad del Monarch y nadie vio nada. —No levantó la voz; nunca le hacía falta—. Vuelves ahí y sigues siendo la mujer más fácil de encontrar de la ciudad. Cualquiera con una reservación sabe en qué piso vives. Y ahora sabe también que estuviste sola y que alguien entró y salió sin que se enterara un alma.
 
-Chiara no contestó enseguida, y Cole entendió que estaba haciendo la cuenta que él ya había hecho: no había un tercer lugar obvio. Sólo el que él estaba a punto de ofrecerle.
+Ella no contestó enseguida, y Cole entendió que estaba haciendo la misma cuenta que él ya había hecho: no había un tercer sitio obvio. Sólo el que él estaba por ofrecer.
 
-—Conozco un sitio donde nadie entra sin que cien personas se enteren antes de que termine de cruzar la calle —dijo—. No es lujoso. Es seguro.
+Fue entonces cuando lo vio en el espejo. Un sedán gris, tres coches atrás, que había tomado la salida de la autopista una fracción de segundo después que ellos y llevaba desde el hospital sin acercarse ni descolgarse.
 
-—¿Dónde queda?
+No dijo nada. Cambió de carril sin poner la direccional. El sedán cambió con él, tarde, como quien no quiere que se le note.
 
-—En mi barrio.
+—Nos siguen —dijo por fin, en el mismo tono con que habría anunciado lluvia—. Desde el Santa Aurelia. Gris, dos hombres adelante. Gente de Dario, si tenemos suerte.
+
+Chiara no se giró a mirar. Aprendía rápido.
+
+—¿Y si no tenemos suerte?
+
+—Entonces está bien que vayamos igual al casino, como le dije.
+
+Se lo explicó en tres frases, sin adornarlo. Ella entraba por la bahía de carga, la que da al túnel este, debajo del puente del canal — la ruta que el Monarch tiene marcada como salida de evacuación y que no usa nadie nunca porque huele a marea y a diésel. El sedán la vería meterse por ahí y anotaría que la mujer había vuelto a casa. Le daban veinte minutos. Después los dos salían a pie por la parte de atrás, por la rampa de proveedores que no cubre ninguna cámara del lobby, lejos de donde el sedán tuviera puestos los ojos.
+
+—Conozco ese túnel mejor que el hombre que lo diseñó —dijo Chiara—. Me peleé un mes con la aseguradora por él.
+
+—Entonces sabes por dónde salir sin que te vean.
+
+—Sé por dónde sale todo lo que este edificio prefiere que no se vea. —Se permitió media sonrisa, la primera del día—. De acuerdo.
 
 ***
 
-La casa común de la Almendra la recibió con el olor a comino y detergente de siempre, la cancha de concreto vacía a esa hora, la mesa larga sin nadie sentado todavía. Nadir estaba en la cocina cuando entraron, con las mangas subidas y algo hirviendo que olía mejor de lo que parecía, y se quedó quieto un segundo de más al verla entrar del brazo de Cole, pálida todavía, con un vendaje que se le asomaba por el pelo recogido.
+Salieron de San Aurelio por el norte, ya sin el sedán detrás, con la ciudad achicándose en el espejo hasta quedar en una línea de luces sobre el agua.
+
+Cole condujo cuarenta minutos sin decir gran cosa. Paró en uno de esos paradores de autopista que existen sólo para camioneros y para gente que necesita una excusa para detenerse: una gasolinera, una cafetería con luz de quirófano, un estacionamiento de grava demasiado grande para el edificio que servía. Aparcó de frente a la carretera, apagó el motor y dejó las llaves en el contacto. Por primera vez en tres días, nadie los miraba.
+
+Metió la mano en el bolsillo de la chaqueta y puso sobre el tablero el reloj de ella y un fajo de billetes doblado.
+
+—Tu asalto te dejó sin teléfono —dijo—. Lo demás lo tenía yo. Un ladrón que te deja el reloj no es un ladrón, y Varek sabe contar.
+
+Chiara miró el reloj sobre el tablero un momento largo, entendiendo de golpe cuánta versión se había construido alrededor de ella mientras dormía.
+
+—Cuéntame otra vez qué recuerdas —dijo Cole—. Despacio. No para la versión. Para mí.
+
+Se lo contó despacio. El domingo gris por dentro, la fecha que no le había nombrado a nadie, las ganas de tierra y no de gente. Vento. El portón. El teléfono en la mano, ya con el nombre de él en la pantalla. Y después el suelo, y después el cuarto 221.
+
+—Iba a llamarte —dijo, como si eso fuera lo que había que confesar—. Justo antes. Tenía el pulgar encima de tu nombre.
+
+Cole no hizo nada con eso. Lo guardó, como guardaba todo.
+
+—¿Quién, Chiara?
+
+Ella miró la carretera un rato.
+
+—Hay gente de antes —dijo al fin—. De la vida de mi padre. De la de los socios. Gente que lleva años decidiendo quién administra qué, y a quién se le permite hacer dinero en paz. —Se detuvo. Estuvo, Cole lo vio, a un centímetro de decir un nombre, una estructura, algo con forma—. Alguien está probando si puede plantar una bandera aquí, y usó mi cabeza para clavarla.
+
+—Dame el nombre.
+
+—No. —Lo dijo sin dureza—. No porque no confíe en ti. Porque en el momento en que te doy el nombre, quedas dentro de algo que no vas a poder soltar cuando quieras. Y no voy a hacerte eso.
+
+Cole se quedó mirando la carretera, con las dos manos todavía en el volante de un coche que no iba a ningún lado.
+
+—Ya estoy dentro contigo. —Giró la cabeza—. ¿O cómo era? *Él es Cole Mercer. Vengan a conocerlo.* Lo dijiste tú, delante de gente que valía más que esta ciudad entera. No puedes presentarme como tu carta fuerte y después querer levantarme de la mesa cuando la mano se pone fea.
+
+Chiara cerró los ojos.
+
+—No —dijo—. Pero tampoco me arrepiento.
+
+Fue lo más cerca que estuvieron, esa noche, de decirse la verdad completa.
+
+***
+
+—Déjame en un motel —dijo cuando él arrancó otra vez—. Hay tres sobre esta carretera. Pago en efectivo, no doy nombre, no salgo del cuarto. Una semana. A nadie se le ocurre buscarme en un sitio así.
+
+Cole se rió. No mucho, pero se rió, y era la primera vez en tres días.
+
+—Un motel, dice ella. —Metió la palanca—. Tú vienes conmigo. El golpe te dejó peor de lo que pensé si de verdad crees que te voy a soltar en una carretera después de esto.
+
+En su cabeza, la frase venía con demasiados significados encima, y Chiara —que sabía hacer justo eso, elegir de un montón de lecturas la que le convenía cargar— se quedó con la más barata de todas. La operativa. La que le permitía decir que sí sólo esta vez, sin que el sí quisiera decir nada más. Fue la mentira más económica que se dijo en toda la noche, y se la dijo a sí misma sin que le costara un centavo.
+
+—Sólo esta vez —dijo en voz alta.
+
+—Sólo esta vez —repitió Cole.
+
+Ninguno de los dos se lo creyó. Ninguno de los dos lo dijo.
+
+***
+
+La casa común de la Almendra la recibió pasada la medianoche con el olor a comino y detergente de siempre, la cancha de concreto vacía, la mesa larga sin nadie. Danny dormía en el sofá con la tele encendida y el perro a los pies. Nadir salió de la cocina secándose las manos en un trapo y se quedó quieto un segundo de más al verla entrar del brazo de Cole, pálida, con el vendaje asomándole por el pelo recogido.
 
 —Va a quedarse unos días —dijo Cole, sin pedir permiso y sin ofrecer explicación.
 
-Nadir no dijo que no. No dijo nada, en realidad — sólo bajó la llama de lo que estaba cocinando, secó las manos en un trapo, y la miró con la clase de cortesía que se le da a un huésped, no a alguien de la familia.
+Nadir no dijo que no. No dijo nada, en realidad — bajó la llama de lo que hervía, miró a Chiara con la cortesía exacta que se le da a un huésped y no a alguien de la casa, y le dijo a Cole, no a ella, que había un cuarto que servía.
 
-—Hay un cuarto libre al fondo —dijo, en dirección a Cole, no a ella—. Yo te ayudo con las cosas.
+La llevó él mismo. Era el único cuarto de la planta que no gritaba de quién era: sin pósters despegándose de la pared, sin ropa en el piso, sin el desorden con firma de Danny ni las cajas de mercancía de Nadir apiladas contra el zócalo. Una cama hecha, una silla, una ventana a la cancha. Alguien lo mantenía así por si hacía falta, y esa noche hizo falta.
 
-Chiara lo agradeció con una sonrisa que Nadir no devolvió del todo, y Cole, que conocía a su amigo mejor que a nadie en el mundo, no dijo nada al respecto. Todavía no.
+—Aquí estás segura —dijo Cole desde la puerta—. Tienes mi palabra.
+
+Chiara bajó la mirada. No contestó.
+
+Y Cole, que no era hombre de cruzar una habitación sin motivo, la cruzó y la abrazó — torpe al principio, como quien no tiene el gesto ensayado, y después no torpe. La sintió temblar contra él, y no era frío.
+
+Porque Chiara acababa de entender, de pie en un cuarto prestado de un barrio que no era el suyo, que ya no había punto de retorno. Que lo que fuera que venía tras ella podía ahora alcanzarlo también a él. No porque a eso le interesara ella — sino porque a ella le interesaba él, y eso, en el mundo del que venía, era exactamente el hilo del que tiraban.
+
+Ninguno de los dos lo dijo. No hubo frase que lo explicara. Sólo dos cuerpos en un cuarto a oscuras, diciéndose lo que las palabras habrían echado a perder, en un idioma que los dos llevaban meses fingiendo no hablar.
+
+Cole no supo nunca ser más que una cosa: el hombre dispuesto a meter los dos brazos hasta el codo en lo que hiciera falta para sacarla de un problema. Esa noche se dijo, como se lo diría muchas otras, que era sólo un favor, y que los favores se hacen y se olvidan. No se lo creyó entonces y no se lo creería después. A partir de esa noche, Cole no volvió a decirle que no a Chiara ni una sola vez que estuvieran sobre la mesa su seguridad o su sonrisa.
+
+***
+
+Los muchachos la dejaron quedarse.
+
+No hubo votación ni discusión. Alguno preguntó, un par de días después, con ella lo bastante lejos para no oírlo, que por cuánto tiempo.
+
+—Lo necesario —dijo Cole—. Hasta que ya no lo sea.
+
+Y con eso bastó. En las últimas semanas Cole se había ganado el derecho de pedirles exactamente eso y nada más: cuando alguno de ellos había necesitado un favor, no les había dicho que no una sola vez, y no les había cobrado ninguno, porque Cole era de los que creen que a la familia no se le cobran los favores. Podían pelearse con él. Discutirle a gritos en el taller, mandarlo al diablo, volver al día siguiente. Dudar de él, no.
+
+Nadir cumplió como los demás. Y como los demás, no dijo nada.
+
+Pero fue el único que, al decir que sí, no la miró a ella.

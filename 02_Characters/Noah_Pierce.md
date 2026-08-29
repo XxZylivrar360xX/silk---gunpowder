@@ -32,7 +32,7 @@ Su peligro narrativo es que todavía puede cambiar de opinión.
 ## Conexiones
 
 - [[02_Characters/Luis_Ortega]] — compañero de caso.
-- [[02_Characters/Gloria_Chen]] — aprende de ella qué nombres pertenecen a Valcora.
+- [[02_Characters/Gloria_Chen]] — aprende de ella qué nombres pertenecen a Varek.
 - [[02_Characters/Cole_Mercer]] — lo mira como contradicción antes que como teoría cerrada.
 
 ---

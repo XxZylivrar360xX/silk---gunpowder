@@ -66,7 +66,7 @@ En caso de conflicto:
 |---|---|
 | Cole Mercer | [voice/Cole_Mercer.md](voice/Cole_Mercer.md) |
 | Chiara Bellandi | [voice/Chiara_Bellandi.md](voice/Chiara_Bellandi.md) |
-| Dario Valcora | [voice/Dario_Valcora.md](voice/Dario_Valcora.md) |
+| Dario Varek | [voice/Dario_Varek.md](voice/Dario_Varek.md) |
 | Matteo Bellacorte | [voice/Matteo_Bellacorte.md](voice/Matteo_Bellacorte.md) |
 | Mabel Ortiz | [voice/Mabel_Ortiz.md](voice/Mabel_Ortiz.md) |
 | Fabrizio Rinaldi | [voice/Fabrizio_Rinaldi.md](voice/Fabrizio_Rinaldi.md) |

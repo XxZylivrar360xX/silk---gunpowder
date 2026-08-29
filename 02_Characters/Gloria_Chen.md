@@ -5,18 +5,18 @@
 **Nacionalidad:** estadounidense.  
 **Edad al abrir la novela:** pendiente.  
 **Oficio:** detective de crimen organizado / vice.  
-**Rol:** detective local que conoce a Valcora.  
+**Rol:** detective local que conoce a Varek.
 **Estado:** viva.
 
 ---
 
 ## Quién es
 
-Gloria Chen lleva años mirando clubes, apuestas, extorsión, narcóticos, informantes y nombres que siempre terminan cerca de [[02_Characters/Dario_Valcora]].
+Gloria Chen lleva años mirando clubes, apuestas, extorsión, narcóticos, informantes y nombres que siempre terminan cerca de [[02_Characters/Dario_Varek]].
 
 No necesita ser una especialista federal. Su valor es local: cuando Homicidios empieza a mencionar ciertos apellidos, ella sabe de quién están hablando.
 
-> **"Trabaja para Valcora."**
+> **"Trabaja para Varek."**
 
 Esa frase, repetida demasiadas veces, es donde el caso Mercer deja de ser una serie de homicidios y empieza a tocar mafia.
 
@@ -25,9 +25,9 @@ Esa frase, repetida demasiadas veces, es donde el caso Mercer deja de ser una se
 ## Conexiones
 
 - [[03_Factions/Departamento_de_Policia_de_San_Aurelio]] — Detective Bureau.
-- [[02_Characters/Luis_Ortega]] — Homicidios; cruza casos con ella cuando los muertos apuntan a Valcora.
+- [[02_Characters/Luis_Ortega]] — Homicidios; cruza casos con ella cuando los muertos apuntan a Varek.
 - [[02_Characters/Noah_Pierce]] — detective joven que todavía está aprendiendo qué nombres no se dicen en voz alta.
-- [[02_Characters/Dario_Valcora]] — conoce su ecosistema, no necesariamente a él directamente.
+- [[02_Characters/Dario_Varek]] — conoce su ecosistema, no necesariamente a él directamente.
 
 ---
 

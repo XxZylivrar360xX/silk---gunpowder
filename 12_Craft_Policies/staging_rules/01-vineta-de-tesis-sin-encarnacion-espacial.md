@@ -33,4 +33,3 @@ Pregunta de auditoria: ¿esta escena podria pasar en otro lugar sin cambiar casi
 ## Excepcion
 
 Una viñeta breve puede funcionar como puente o remate. La alerta se vuelve fuerte si una escena de decision, amenaza, cita o perdida depende de un lugar pero no lo encarna.
-

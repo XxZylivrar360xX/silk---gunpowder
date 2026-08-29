@@ -82,4 +82,3 @@ Por ahora, su método narrativo es póstumo: deja una obligación que Cole acept
 ---
 
 Ver también: [[02_Characters/Cole_Mercer]] · [[02_Characters/Marisol_Grayson]]
-

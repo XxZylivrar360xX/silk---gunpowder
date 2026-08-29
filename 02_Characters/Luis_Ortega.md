@@ -46,7 +46,7 @@ Su valor es traducir San Aurelio:
 - [[03_Factions/Fuerza_de_Tarea_Meridian]] — enlace incómodo.
 - [[02_Characters/Mara_Ellison]] — le da calle a su expediente.
 - [[02_Characters/Noah_Pierce]] — compañero joven de caso; duda antes que él.
-- [[02_Characters/Gloria_Chen]] — le traduce qué muertos pertenecen al mundo de Valcora.
+- [[02_Characters/Gloria_Chen]] — le traduce qué muertos pertenecen al mundo de Varek.
 - [[02_Characters/Blake_Stanton]] — posible tensión interna dentro del Departamento.
 - [[02_Characters/Cole_Mercer]] — lo conoce como rumor local antes que como objetivo federal.
 

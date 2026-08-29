@@ -13,4 +13,3 @@ Riesgo: que Dario cierre toda intervencion con una maxima impecable sobre la ciu
 ## Italiano como decoracion
 
 Riesgo: usar italiano para recordar que Chiara es italiana. Regla vigente de voz: aparece cuando esta comoda o furiosa, no como perfume constante.
-

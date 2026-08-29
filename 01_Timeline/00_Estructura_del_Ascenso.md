@@ -16,7 +16,7 @@ Los dos por separado, sin poder. Él con el patio y la deuda; ella recién llega
 Todavía no hay sociedad. Hay dos personas que se resuelven cosas y no se las cobran.
 **Termina cuando:** hacen la primera operación deliberadamente juntos.
 
-> **NOTA (2026-08-23):** el arco de [[06_Relationships/Hitos]] H5–H6 acelera estas fases de golpe. Cole deja de ser proveedor externo y **entra dentro de la organización de [[02_Characters/Dario_Valcora]]** — no por ambición, sino para proteger a Chiara y salvar a Nadir. A partir de ahí lleva **dos correas a la vez**, Halbrook arriba y Valcora al lado, y trabaja para deshacer una desde dentro. Revisar el reparto de fases cuando lleguen las partes 3 y siguientes.
+> **NOTA (2026-08-23):** el arco de [[06_Relationships/Hitos]] H5–H6 acelera estas fases de golpe. Cole deja de ser proveedor externo y **entra dentro de la organización de [[02_Characters/Dario_Varek]]** — no por ambición, sino para proteger a Chiara y salvar a Nadir. A partir de ahí lleva **dos correas a la vez**, Halbrook arriba y Varek al lado, y trabaja para deshacer una desde dentro. Revisar el reparto de fases cuando lleguen las partes 3 y siguientes.
 
 ## Fase II — La fórmula
 

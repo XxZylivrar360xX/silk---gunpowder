@@ -48,7 +48,7 @@ Después pensó en la calle Almendra.
 
 Un jefe de policía era un mapa: qué zonas tenía marcadas, qué favores debía, a quién le contestaba el teléfono a las tres de la mañana. Alguien acababa de borrar ese mapa antes del amanecer. Ahora cada cuadra de San Aurelio iba a tener que averiguar otra vez quién decidía qué patrulla pasaba lento y cuál no pasaba, y ese cálculo no se hacía en las mismas mesas en todas partes: en el Distrito Marino se resolvía en una junta con carpetas, en la Almendra se resolvía en la calle y siempre lo pagaba el mismo tipo de gente.
 
-Pensó también en Dario Valcora, no por prueba sino por temperatura.
+Pensó también en Dario Varek, no por prueba sino por temperatura.
 
 El teléfono vibró otra vez.
 
@@ -532,13 +532,13 @@ Bebieron.
 
 Después Cole dijo:
 
-—Cuídense de Dario Valcora.
+—Cuídense de Dario Varek.
 
 El nombre cambió el aire del porche.
 
 Walt lo repitió despacio.
 
-—Valcora.
+—Varek.
 
 —Magnate. Puerto. Casino. Todo el mundo habla de él como si fuera clima.
 

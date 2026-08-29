@@ -25,7 +25,7 @@ Lo que puede cambiar:
 - que personaje nuevo lo presencia;
 - si el resultado publico es distinto al resultado privado.
 
-**Criterio:** una escena adaptada funciona si ya no parece importada. Debe poder explicarse desde el mapa de San Aurelio, las reglas de El Patio, el poder de Valcora, la fe de Chiara o el metodo de Cole.
+**Criterio:** una escena adaptada funciona si ya no parece importada. Debe poder explicarse desde el mapa de San Aurelio, las reglas de El Patio, el poder de Varek, la fe de Chiara o el metodo de Cole.
 
 ---
 
@@ -52,7 +52,7 @@ Mostrar dos soledades antes de que se reconozcan. La ciudad ya esta enferma ante
 
 ## Beats
 
-1. **San Aurelio antes de ellos.** La ciudad entra en clima electoral, con barrios del sur en disputa, el puerto bajo miedo de Dario Valcora y el centro viejo vigilado por instituciones que ya no alcanzan.
+1. **San Aurelio antes de ellos.** La ciudad entra en clima electoral, con barrios del sur en disputa, el puerto bajo miedo de Dario Varek y el centro viejo vigilado por instituciones que ya no alcanzan.
 
 2. **Cole en La Almendra.** Cole Mercer sostiene Almendra Towing desde la vieja bodega familiar, endeudado con Silas Crowe y construido como empresario intachable para darle al barrio una version aceptable del dinero que empieza a moverse.
 
@@ -106,7 +106,7 @@ Convertir el encuentro en una cadena de favores. El romance no nace de una decla
 
 16. *(Capítulo 16 — ESCRITO: [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/16_Sin_Rastro]]. Ensayo menor, NO se declara "la primera" en prosa — ese título lo conserva H5. Ver [[06_Relationships/Cole_y_Chiara]], fase 2.)* **La primera operacion deliberadamente juntos.** Chiara usa camaras, horarios, vigilancia y relato del casino; Cole mueve gente, autos y favores. Resuelven algo sucio de manera limpia. Descubren la formula sin nombrarla.
 
-17. *(Capítulo 16 — ESCRITO, mismo capítulo que el beat 16.)* **Dario nota una variacion.** Valcora no ve todavia una amenaza, pero nota que Chiara esta tomando decisiones con una eficiencia que no viene solo del Monarch.
+17. *(Capítulo 16 — ESCRITO, mismo capítulo que el beat 16.)* **Dario nota una variacion.** Varek no ve todavia una amenaza, pero nota que Chiara esta tomando decisiones con una eficiencia que no viene solo del Monarch.
 
 17-b. **CANON DEL AUTOR (2026-08-27). H12 - El corral.** *(Ocupa los Capítulos 9-10 en el manuscrito, justo después del Capítulo 8 — PENDIENTE DE REDACTAR. Los Capítulos 9-14 que ya existían se renumeraron a 11-16 para dejarle sitio. Ver [[06_Relationships/Hitos]], H12, para el detalle completo.)* Chiara recibe un golpe por la espalda cerrando el corral de un caballo (posiblemente en Bellandi Ridge Vineyards) y no despierta hasta el hospital — el atacante no se revela. Cole investiga por su cuenta mientras ella esta inconsciente; ninguna pista llega a nada (sin Dario, sin armas — ese enfrentamiento sigue reservado para H5). Se recupera en la Casa Comunitaria de La Almendra, donde la convivencia con Nadir enciende la friccion ya existente. Eso empuja a Cole a recomprar la casa de sus padres; Chiara la disena y la amuebla, pagandolo ella misma aunque de cara a los demas la version sea "apoyo del casino". Empieza a dejar cosas suyas ahi por costumbre — libro, manta, cepillo de dientes, cremas, almohada, laptop — hasta que el lugar se vuelve un hogar de rutina: desayunos, cenas, Cole desastroso cocinando, ella dejando el cafe listo cuando sale temprano. Resuelve el PENDIENTE de por que Cole recompra la casa.
 
@@ -140,11 +140,11 @@ Los favores dejan de ser accidentes. Cole y Chiara entienden que juntos producen
 
 26. **H5 - El hipodromo.** El ataque contra Chiara vuelve fisico el riesgo. Hospital Santa Aurelia deja rastro institucional: camaras, reportes, armas, versiones. Cole y Dario se cruzan bajo luces medicas, no en callejon.
 
-27. **La llamada de Valcora.** Dario amenaza sin ensuciarse las manos. Chiara entiende que su jefe no es solo un poder sobre el casino; es un hombre que decide que vidas se vuelven advertencia.
+27. **La llamada de Varek.** Dario amenaza sin ensuciarse las manos. Chiara entiende que su jefe no es solo un poder sobre el casino; es un hombre que decide que vidas se vuelven advertencia.
 
 28. **Halbrook reaparece desde el pasado.** El ultimatum militar de Warren Halbrook introduce la otra correa de Cole: Afganistan, armas, deuda, Nadir y el tipo de violencia que no viene de San Aurelio.
 
-29. **H6 - El pacto.** En las cascadas, Cole y Chiara dejan de operar por inercia. Pactan deshacer la organizacion de Valcora desde dentro. Por primera vez tienen un objetivo compartido y declarado.
+29. **H6 - El pacto.** En las cascadas, Cole y Chiara dejan de operar por inercia. Pactan deshacer la organizacion de Varek desde dentro. Por primera vez tienen un objetivo compartido y declarado.
 
 30. **H7 - El rio.** La pesca y el atardecer cierran el arco de tension con calma. *Vamos a casa* aparece como frase aparentemente simple, pero sera devuelta luego en oro.
 
@@ -218,11 +218,11 @@ El Patio deja de ser una solucion local y se vuelve estructura de poder. Dario, 
 
 55. **Vega se enfrenta al mito Mercer.** Para Elena Vega, Cole es peligroso porque puede parecer admirable. Su linea queda clara: la ley no necesita ser perfecta para ser mejor que la venganza.
 
-56. **Luis Ortega y Noah Pierce persiguen cadaveres.** La policia local no persigue una conspiracion: persigue muertos. Poco a poco los nombres conducen a Valcora, luego a Cole.
+56. **Luis Ortega y Noah Pierce persiguen cadaveres.** La policia local no persigue una conspiracion: persigue muertos. Poco a poco los nombres conducen a Varek, luego a Cole.
 
-57. **Meridian entra por escala.** Los federales no llegan por un tiroteo aislado. Llega porque Valcora, Camp Alder, rutas, lavado y posible trafico transnacional ya producen patron federal.
+57. **Meridian entra por escala.** Los federales no llegan por un tiroteo aislado. Llega porque Varek, Camp Alder, rutas, lavado y posible trafico transnacional ya producen patron federal.
 
-58. **Callahan mira a Valcora, Mara mira a Cole.** Andrew Callahan insiste en que Mercer no importa, Valcora importa. Mara Ellison empieza a reconocer que Cole no es separable del caso.
+58. **Callahan mira a Varek, Mara mira a Cole.** Andrew Callahan insiste en que Mercer no importa, Varek importa. Mara Ellison empieza a reconocer que Cole no es separable del caso.
 
 59. **Sofia Alvarez encuentra la contradiccion.** Donde Cole aparece, algunos traficantes mueren y algunas victimas reaparecen vivas. La teoria federal se vuelve incomoda: depredador, vigilante, criminal y protector no encajan limpio.
 
@@ -232,7 +232,7 @@ El Patio deja de ser una solucion local y se vuelve estructura de poder. Dario, 
 
 62. **La banda compara miedo con respeto.** Una organizacion menor entiende por primera vez que Dario mantiene obediencia humillando, mientras Cole ofrece orden hasta que lo obligan a violencia. Ese cambio de imaginacion es la verdadera amenaza.
 
-63. **Valcora decide educar a la ciudad.** Dario castiga a alguien no por el dano causado, sino por el mensaje. Quiere recordarles a todos que el miedo es mas antiguo que la deuda.
+63. **Varek decide educar a la ciudad.** Dario castiga a alguien no por el dano causado, sino por el mensaje. Quiere recordarles a todos que el miedo es mas antiguo que la deuda.
 
 64. **El Consorcio toca a Chiara.** Leone Valenti o su red activan el pasado de Corrado Ardizzone, Alessio Lusardi o la herida federal. Chiara entiende que su apellido sigue siendo territorio disputado.
 
@@ -302,7 +302,7 @@ Como la regla dura prohibe la separacion, la novela debe pagar lo que eso exige:
 
 87. **Vega no absuelve.** Puede entender contradicciones de Cole, pero no lo convierte en juez legitimo. Su presencia impide que el final moralice facil a favor de la venganza.
 
-88. **Meridian no desaparece.** Aunque Valcora caiga o quede debilitado, el expediente federal sigue. La novela puede cerrar emocionalmente sin cerrar juridicamente cada frente.
+88. **Meridian no desaparece.** Aunque Varek caiga o quede debilitado, el expediente federal sigue. La novela puede cerrar emocionalmente sin cerrar juridicamente cada frente.
 
 89. **La casa queda, pero distinta.** Villa Candelaria ya no es solo casa ganada; es casa invadida por la violencia y recuperada por costumbre. El hogar no fue protegido de la guerra. Fue reconstruido despues de que la guerra entro.
 
