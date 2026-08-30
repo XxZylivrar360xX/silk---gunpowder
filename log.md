@@ -2378,3 +2378,9 @@ Con esto **el triaje de cronologia relacional queda cerrado.** Abierto solo lo q
 **Nota de proceso:** un primer intento de renumerar los numeros de capitulo por script `perl` en lote fallo parcialmente (el shell mangleaba la "i" acentuada de "Capitulo"), dejando el bump aplicado solo a "Cap./Caps." y no a "Capitulo/Capitulos". Se restauro desde copia y se rehizo con el script pasado por archivo. Verificado despues: los 19 encabezados `# Capitulo N` cuadran con el numero del archivo; sin wikilinks colgando a slugs viejos fuera de `log.md` / `ChatGPT/`.
 
 **Pendiente:** regenerar EPUB (19 capitulos; Caps. 9 nuevo y 10 tocados esta pasada, mas los renombres). Revision del autor antes de marcar H9 como TRIADO. Sin commit, sin push.
+
+## [2026-08-29] tooling editorial | Piloto determinista V1 sobre capítulos 01–10
+
+Implementado `tools/editorial/` en modo exclusivo `audit_only`, sólo con Python estándar y manifiesto explícito de los diez capítulos. Se separan metadata HTML inicial, título y prosa; checks: frases y n-gramas, construcciones negativas/tics, ritmo, diálogo sin atribución de hablante, léxico/gestos y residuos internos. Salidas Markdown + JSON en `tools/editorial/reports/PILOT_01_10/`. Política añadida en `12_Craft_Policies/editorial/`.
+
+Calibración inicial: un bug de coincidencia (`TODO` vs. la palabra normal "todo") produjo 118 falsos HIGH; se corrigió con comparación sensible a mayúsculas y prueba de regresión. Resultado vigente: 42,534 palabras, 15 high / 40 medium / 112 low / 9 info; 9 tests pasan. Falsos positivos evidentes pendientes de calibración humana: algunos clusters de párrafos cortos en diálogo/acción, n-gramas breves y parlamentos largos deliberados. Capítulos 01–10 verificados sin cambios de contenido; no se generó EPUB, commit ni push.

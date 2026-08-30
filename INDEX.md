@@ -169,6 +169,11 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - `12_Craft_Policies/dialogue_rules/` — anti-patrones de diálogo adaptados desde *Memories Of A Ghost*
 - `12_Craft_Policies/staging_rules/` — anti-patrones de puesta en escena adaptados desde *Memories Of A Ghost*
 - [[12_Craft_Policies/staging_rules/03-presentacion-por-catalogo-en-vez-de-gesto]] — gesto antes que catálogo: cómo entrar un personaje o una herida sin inventario físico
+- [[12_Craft_Policies/editorial/EDITORIAL_POLICY]] — política de edición posterior al triaje: una alerta no ordena modificar
+- [[12_Craft_Policies/editorial/DO_NOT_TOUCH]] — límites de canon, arquitectura, revelaciones y voz durante edición
+- [[12_Craft_Policies/editorial/PILOT_01_10]] — alcance y criterio de éxito del piloto determinista sobre capítulos 1–10
+- [[tools/editorial/README]] — uso del stack editorial local, configuración, pruebas y límites (`audit_only`, sin autofix)
+- [[tools/editorial/reports/PILOT_01_10/PILOT_01_10_GLOBAL]] — reporte global generado del piloto 01–10
 
 ---
 

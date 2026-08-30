@@ -4,6 +4,7 @@ Decisiones compactas para relevo. No reemplaza `log.md`.
 
 ## 2026-08-29
 
+- El stack editorial V1 queda limitado a `audit_only`, Python estándar, corpus explícito 01–10 y cero autofix. Una alerta —también `high`— sólo prioriza lectura humana. La Fase 2 queda bloqueada hasta calibrar el top 30 con el autor + ChatGPT.
 - El apellido canon de Dario es **Varek**, no Valcora. Su origen queda fijado como croata-estadounidense, con ascendencia dálmata o balcánica. La organización de Dario no debe leerse como mafia italiana. Sus hijas son Lucia, Beatrice “Trix” y Vivian “Vivi/VV/Tri-V”.
 - Se integran como hitos por numerar la formalización verbal de Cole y Chiara (“mi pareja”) y el arco mayor de la iglesia, la caída y la ejecución de Dario. H13 sigue siendo un evento previo independiente.
 

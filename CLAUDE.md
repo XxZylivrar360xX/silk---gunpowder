@@ -23,7 +23,7 @@ Los tokens son recurso del usuario. Por defecto:
 
 ## Que Es Esto
 
-*Seda y Polvora* es una novela original de crimen y romance en vault de Obsidian. No hay build, tests ni dependencias: todo es Markdown, canon, continuidad y estructura narrativa.
+*Seda y Polvora* es una novela original de crimen y romance en un vault de Obsidian, no una aplicacion de software. Puede haber herramientas locales auxiliares bajo `tools/` (EPUB, auditoria editorial), preferentemente sin dependencias externas; el trabajo central sigue siendo Markdown, canon, continuidad y estructura narrativa.
 
 No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion: nacionalidad y arquitectura de personalidad. Nombres, biografia, ciudad, familia, negocios y trama son originales. Si algo empieza a parecer copia de la fuente, hay que alejarlo.
 
@@ -49,6 +49,7 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 - `06_Relationships/Hitos.md`: hitos obligatorios del autor.
 - `06_Relationships/Momentos_de_Fractura.md`: conflictos que casi lo rompen todo.
 - `99_Reference/`: referencia externa no canon; no copiar.
+- `tools/editorial/README.md`: auditoria editorial determinista en modo `audit_only`.
 
 ## Escritura Y Edicion
 

@@ -2,7 +2,7 @@
 
 Guía operativa para agentes que trabajen en este vault.
 
-Este repositorio es un vault de Obsidian para la novela original *Seda y Pólvora*. No es un proyecto de software: no hay build, tests ni dependencias. El trabajo consiste en leer, ordenar, documentar y editar Markdown con cuidado de canon.
+Este repositorio es primordialmente un vault de Obsidian para la novela original *Seda y Pólvora*, no una aplicación de software. Puede contener herramientas locales auxiliares bajo `tools/` (EPUB, auditoría editorial), preferentemente sin dependencias externas. El trabajo principal consiste en leer, ordenar, documentar y editar Markdown con cuidado de canon.
 
 ## Regla Principal
 
@@ -36,6 +36,7 @@ Cuando integres material nuevo del usuario, trátalo como canon del autor si lo 
 - [`06_Relationships/Hitos.md`](06_Relationships/Hitos.md): documento central de hitos obligatorios. La trama se construye alrededor de estos hitos.
 - [`06_Relationships/Cole_y_Chiara.md`](06_Relationships/Cole_y_Chiara.md): arquitectura de la relación central.
 - [`00_Biblia/`](00_Biblia): visión, temas, principios narrativos y reglas del mundo.
+- [`tools/editorial/README.md`](tools/editorial/README.md): auditoría editorial determinista en modo `audit_only`.
 
 ## Relevo Entre Agentes
 

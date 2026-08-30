@@ -1,0 +1,2 @@
+"""Pruebas del auditor editorial."""
+

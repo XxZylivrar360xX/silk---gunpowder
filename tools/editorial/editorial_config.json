@@ -1,0 +1,61 @@
+{
+  "dialogue_word_thresholds": [25, 40, 60],
+  "editorial_instruction_patterns": [
+    "^No\\s+(?:narr[oó]|describi[oó]|mencion[oó]|explic[oó]|cont[oó]|mostr[oó]|revel[oó])\\b",
+    "^No\\s+hubo\\s+(?:beso|un\\s+[\"“«]|nada\\s+que\\s+se\\s+pareciera)"
+  ],
+  "gesture_cluster_line_window": 20,
+  "gesture_cluster_threshold": 3,
+  "gestures": [
+    {"id": "MIRAR", "label": "mirar", "regex": "\\b(?:mir(?:ar|a|o|ó|aba|aron|ando|ó)|mira(?:r|ba|ron|ndo)?)\\b", "severity": "low"},
+    {"id": "SONREIR", "label": "sonreír", "regex": "\\b(?:sonre[ií](?:r|a|o|ó|a|an|eron|endo)|sonri[oó]|sonrisa)\\b", "severity": "low"},
+    {"id": "ASENTIR", "label": "asentir", "regex": "\\b(?:asent(?:ir|i[oó]|ía|ieron)|asinti[oó])\\b", "severity": "low"},
+    {"id": "SUSPIRAR", "label": "suspirar", "regex": "\\b(?:suspir(?:ar|o|ó|aba|aron|ando)|suspiro)\\b", "severity": "low"},
+    {"id": "ENCOGER_HOMBROS", "label": "encogerse de hombros", "regex": "encogi[oó]\\s+(?:los\\s+)?hombros|se\\s+encogi[oó]\\s+de\\s+hombros", "severity": "low"},
+    {"id": "MANO_CARA", "label": "pasarse una mano por la cara", "regex": "se\\s+pas[oó]\\s+(?:una|la)\\s+mano\\s+por\\s+la\\s+cara", "severity": "low"},
+    {"id": "LEVANTAR_VISTA", "label": "levantar la vista", "regex": "levant[oó]\\s+la\\s+vista", "severity": "low"},
+    {"id": "QUEDARSE_QUIETO", "label": "quedarse quieto/a", "regex": "(?:se\\s+qued[oó]|quedarse)\\s+quiet[oa]", "severity": "low"},
+    {"id": "DEMORA_RESPUESTA", "label": "tardar antes de responder", "regex": "(?:tard[oó]|demor[oó])[^.]{0,50}(?:contest|respond)", "severity": "low"}
+  ],
+  "limits": {
+    "global_alerts": 30,
+    "global_ngrams": 30,
+    "lexical_top": 25,
+    "ngrams_per_chapter": 12,
+    "occurrences_per_check": 8
+  },
+  "long_exchange_high": 14,
+  "long_exchange_warning": 8,
+  "metadata_markers": ["TODO", "FIXME", "[PENDIENTE", "> **PENDIENTE", "nota de autor", "nota editorial"],
+  "ngram_exclusions": [
+    "^(dijo|pregunto|respondio|contesto) ",
+    "^(cole mercer|chiara bellandi|dario varek)(?: |$)",
+    "^capitulo "
+  ],
+  "ngram_lengths": [3, 4, 5, 6, 7, 8],
+  "ngram_min_count_chapter": 3,
+  "ngram_min_count_global": 4,
+  "phrases": {
+    "como si": {"chapter_threshold": 4, "global_threshold": 12, "isolated_severity": "info", "severity": "low"},
+    "de alguna manera": {"chapter_threshold": 2, "global_threshold": 3, "isolated_severity": "info", "severity": "medium"},
+    "no contestó": {"chapter_threshold": 2, "global_threshold": 4, "isolated_severity": "info", "severity": "low"},
+    "no dijo nada": {"chapter_threshold": 2, "global_threshold": 4, "isolated_severity": "info", "severity": "low"},
+    "no hacía falta": {"chapter_threshold": 2, "global_threshold": 3, "isolated_severity": "info", "severity": "low"},
+    "un momento de más": {"chapter_threshold": 2, "global_threshold": 3, "isolated_severity": "info", "severity": "medium"},
+    "un segundo de más": {"chapter_threshold": 2, "global_threshold": 3, "isolated_severity": "info", "severity": "medium"}
+  },
+  "short_paragraph_run_high": 10,
+  "short_paragraph_run_warning": 6,
+  "short_paragraph_words": 8,
+  "stopwords": [
+    "a", "al", "algo", "ante", "antes", "aquel", "aquella", "aquí", "así", "aun", "aunque", "bajo", "cada", "casi", "como", "con", "contra", "cual", "cuando", "de", "del", "desde", "donde", "dos", "e", "el", "ella", "ellas", "ellos", "en", "entre", "era", "esa", "ese", "eso", "esta", "estaba", "este", "esto", "fue", "ha", "había", "hacia", "hasta", "hay", "la", "las", "le", "les", "lo", "los", "más", "me", "mi", "mientras", "muy", "ni", "no", "nos", "nunca", "o", "otra", "otro", "para", "pero", "por", "porque", "que", "qué", "se", "si", "sí", "sin", "sobre", "su", "sus", "te", "tenía", "todo", "tras", "tu", "un", "una", "uno", "usted", "ya", "y", "yo"
+  ],
+  "stopwords_additional": [],
+  "tic_patterns": [
+    {"id": "NO_ERA_ERA", "message": "Construcción «No era X. Era Y.»; revisar si la antítesis explica de más.", "regex": "\\bNo\\s+era\\s+[^.!?…]{1,100}[.!?…]\\s+Era\\s+[^.!?…]{1,100}[.!?…]", "severity": "low"},
+    {"id": "NO_FUE_FUE", "message": "Construcción «No fue X. Fue Y.»; revisar si la antítesis explica de más.", "regex": "\\bNo\\s+fue\\s+[^.!?…]{1,100}[.!?…]\\s+Fue\\s+[^.!?…]{1,100}[.!?…]", "severity": "low"},
+    {"id": "NO_PORQUE_SINO", "message": "Construcción «No porque X, sino porque Y»; revisar su concentración.", "regex": "\\bNo\\s+porque\\s+[^.!?…]{1,160}?[,]?\\s+sino\\s+porque\\s+[^.!?…]{1,160}[.!?…]", "severity": "low"},
+    {"id": "NEGATIVE_DASH_EXPLANATION", "message": "Negación seguida de explicación con raya; revisar si el subtexto ya estaba visible.", "regex": "^No\\s+[^\\n]{3,160}\\s+[—–-]\\s+[^\\n]{3,180}$", "severity": "low"}
+  ]
+}
+

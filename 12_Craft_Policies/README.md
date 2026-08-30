@@ -11,6 +11,7 @@ Políticas de oficio narrativo para escribir y editar prosa en `10_Chapters/` y 
 - `voice/` — fichas de voz. Antes de escribir diálogo, leer la ficha de cada personaje que habla. Si no existe, crearla primero.
 - `dialogue_rules/` — anti-patrones de diálogo. No son prohibiciones absolutas; son alarmas contra formas que vuelven intercambiables a los personajes.
 - `staging_rules/` — anti-patrones de puesta en escena: espacio físico, cuerpos, silencios, transiciones y escenas resueltas por resumen.
+- `editorial/` — política de edición posterior al triaje, zonas protegidas y registro del piloto determinista 01–10.
 - [[12_Craft_Policies/Redaccion_De_Capitulos]] — política base para pasar de estructura a capítulo provisional.
 
 No se rescata `powers/` de *Memories Of A Ghost*: era específica de combate fantástico. Para *Seda y Pólvora*, la equivalencia será logística, violencia, favor, relato y ciudad, no poderes.

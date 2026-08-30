@@ -1,0 +1,31 @@
+{
+  "should_alert": [
+    {
+      "id": "editorial_instruction_leak",
+      "text": "No narró lo que hizo con el coche.",
+      "expected_check": "EDITORIAL_INSTRUCTION_LEAK"
+    },
+    {
+      "id": "negative_prompt_checklist",
+      "text": "No hubo beso. No hubo un \"sube\". No hubo nada que se pareciera a una frase importante.",
+      "expected_check": "NEGATIVE_SENTENCE_CHAIN"
+    },
+    {
+      "id": "repeated_tic",
+      "text": "Esperó un segundo de más. Miró un segundo de más. Se quedó un segundo de más.",
+      "expected_check": "PHRASE_UN_SEGUNDO_DE_MAS"
+    },
+    {
+      "id": "negative_series",
+      "text": "No abrió la puerta. No pidió ayuda. No volvió la mirada.",
+      "expected_check": "NEGATIVE_SENTENCE_CHAIN"
+    }
+  ],
+  "should_not_alert_high": [
+    {"id": "deliberate_short_sentence", "text": "Cole pagó la taza."},
+    {"id": "minimal_dialogue", "text": "—Sí."},
+    {"id": "isolated_como_si", "text": "La sostuvo como si pesara poco."},
+    {"id": "brief_action_sequence", "text": "Corrió. Saltó. Giró. Frenó."}
+  ]
+}
+

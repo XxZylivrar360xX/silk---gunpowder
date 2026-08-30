@@ -21,6 +21,13 @@ Pendientes activos para el siguiente relevo.
 - Marcar cada bloque con: poder / relacion / ciudad / consecuencia.
 - Detectar donde faltan escenas pequenas antes de Fase V.
 
+## Piloto Stack Editorial V1 (2026-08-29)
+
+- Leer y clasificar las 30 alertas prioritarias de [[tools/editorial/reports/PILOT_01_10/PILOT_01_10_GLOBAL]] con el autor + ChatGPT.
+- Medir precisión: objetivo orientativo de al menos dos tercios razonables de revisar.
+- Calibrar especialmente falsos positivos de `SHORT_PARAGRAPH_CLUSTER`, n-gramas de tres palabras y diálogo largo deliberado.
+- No iniciar Fase 2, crear skill de Claude, ampliar a capítulos 11–19 ni editar prosa hasta cerrar la calibración.
+
 ## Del Capitulo Puente Marisol / Campamento (2026-08-29)
 
 Encargo: [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]]. Escrito como Cap. 14 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_La_Regla_Del_Telefono]]); El porton (Cap. 15) y Cuatro letras (Cap. 16) ajustados. **Falta revision del autor** y:
