@@ -243,6 +243,10 @@ Mientras Chiara está inconsciente en [[06_Relationships/Hitos]], H12, Cole inve
 
 Más adelante, en H13, Chiara le muestra el pañuelo y la bala que le dejó el Consorcio. Verlos es lo que lo hace **insistir en acompañarla a Palermo** — no por desconfianza en ella, sino porque es el mismo hilo que él nunca pudo encontrar solo.
 
+## "Mac" — CANON DEL AUTOR (2026-08-29)
+
+En las carreras ilegales de Kingsley Field ([[06_Relationships/Hitos]], H9 — Capítulo 9, "La carrera de máscaras"), nadie lo llama Cole ni Mercer. Le dicen **Mac** — las iniciales de Mercer Cole, invertidas y leídas como si fueran un nombre cualquiera. Tyler Brooks, quien organiza las carreras, lo saluda así. Chiara arma el acertijo sola, un segundo tarde, la primera vez que lo oye: un nombre falso hecho enteramente del nombre real, la misma lógica de la máscara de plástico que se pone en la cara — cambia de color sin cambiar una sola letra.
+
 ## Conexiones
 
 - [[02_Characters/Chiara_Bellandi]] — el otro motor. Ver [[06_Relationships/Cole_y_Chiara]].
