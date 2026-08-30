@@ -281,6 +281,14 @@ Guardarraíles. Si un borrador la empuja hacia aquí, está mal escrita:
 
 ---
 
+## "Mandorla" — CANON DEL AUTOR (2026-08-29)
+
+En las carreras de Kingsley Field ([[06_Relationships/Hitos]], H9 — Capítulo 9), cuando Tyler Brooks le pide un nombre, Chiara contesta por sí misma antes de que Cole hable por ella: **"Mandorla"** — almendra, en italiano. Disimulado para cualquiera que lo oiga, es una traducción directa de **La Almendra**, el barrio de Cole (ver [[03_Factions/Almendra_Towing]]), dicha en su propio idioma para que solo él la entienda.
+
+Es la asimetría exacta con el apodo de él ([[02_Characters/Cole_Mercer]], "Mac"): Mac esconde su propio nombre. Mandorla nombra el de Cole sin que nadie más lo note. Él se da cuenta y no dice nada — la sonrisa que no llega a completarse es toda la confirmación que necesita.
+
+---
+
 ## Conexiones
 
 - [[02_Characters/Cole_Mercer]] — el otro motor. Ver [[06_Relationships/Cole_y_Chiara]].
