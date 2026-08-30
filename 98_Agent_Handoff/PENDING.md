@@ -21,10 +21,20 @@ Pendientes activos para el siguiente relevo.
 - Marcar cada bloque con: poder / relacion / ciudad / consecuencia.
 - Detectar donde faltan escenas pequenas antes de Fase V.
 
+## Del Capitulo Puente Marisol / Campamento (2026-08-29)
+
+Encargo: [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]]. Escrito como Cap. 13 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/13_La_Regla_Del_Telefono]]); El porton (Cap. 14) y Cuatro letras (Cap. 15) ajustados. **Falta revision del autor** y:
+
+- **Elegir titulo del Cap. 13.** Propuestas: *La regla del telefono* (usada), *Los dias que si alcanzan*, *Fuera de cobertura*.
+- **Confirmar o ajustar los datos de Marisol sembrados como borrador:** edad (20), carrera (ciencias ambientales / ecologia de campo), universidad (sin nombre, a un par de horas). Ver [[02_Characters/Marisol_Grayson]].
+- **Confirmar que la regla del telefono es herencia de Michael** (los telefonos se guardan durante el campamento) y el campamento como costumbre vieja recuperada. Ver [[02_Characters/Michael_Grayson]], "Metodo".
+- **Regenerar el EPUB** (18 capitulos; Caps. 13, 14, 15 tocados).
+- Menor: cuadrar la ventana temporal fina del infarto vs. el fin de semana (el vault dice "el sabado"; Cuatro letras evita ya pinchar un numero de dias).
+
 ## De La Consolidacion De Cronologia Relacional (2026-08-29)
 
 - ~~Correccion de prosa del Capitulo 10~~ **HECHA (2026-08-29, opcion A / poda quirurgica).** Se retiraron la almohada "de ella", la computadora instalada y la rutina del cafe diario; quedan libro, manta, cepillo, cremas, taza favorita y noches sueltas. La laptop y el cafe diario se reservaron para el hito del cumpleaños.
-- ~~Conflicto de orden en el manuscrito: H11 vs H10~~ **RESUELTO (2026-08-29, opcion A): capitulos reordenados.** Nueva numeracion: Cap. 13 = El porton (H10 1a mitad), Cap. 14 = Cuatro letras (H10 2a mitad), Cap. 15 = El dia nublado (H4), Cap. 16 = El mirador (H11), Cap. 17 = Sin rastro. Archivos ya renombrados. **Queda pendiente de prosa:**
+- ~~Conflicto de orden en el manuscrito: H11 vs H10~~ **RESUELTO (2026-08-29, opcion A): capitulos reordenados.** Numeracion de entonces: Cap. 13 = El porton, Cap. 14 = Cuatro letras, Cap. 15 = El dia nublado, Cap. 16 = El mirador, Cap. 17 = Sin rastro. **RENUMERADO +1 el 2026-08-29** al insertarse el Cap. 13 nuevo (*La regla del telefono*): ahora **Cap. 14 = El porton, 15 = Cuatro letras, 16 = El dia nublado, 17 = El mirador, 18 = Sin rastro**. Mapa vigente en [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]]. **Queda pendiente de prosa:**
   - ~~Reescribir la apertura del **Cap. 13 (*El porton*)**~~ **HECHA (2026-08-29, triaje PROSA-A).** Ahora abre con el residuo de "Roma Atrii" (el papel sin resolver, la promesa de Chiara de traer ella misma lo que tenga que llegarle) y monta el arranque de H10 sin intimidad previa.
   - ~~Reescribir la apertura del **Cap. 16 (*El mirador*)**~~ **HECHA (2026-08-29, triaje PROSA-B).** Ahora abre con el residuo del Cap. 15 (H4): la tarde del golf que vuelve, lo que Chiara contó del exmarido y lo que Cole entendió sin que ella lo dijera, "somos sólo buenos amigos" sostenido.
   - ~~**Redactar el Cap. 15 (*El dia nublado* / H4).**~~ **HECHA (2026-08-29, triaje PROSA-C).** Golf + juego de preguntas + revelación del exmarido + Cole deduce (sin que ella lo diga) que ella lo mató + decisión interna de "quedarse". Sin beso, sin etiqueta. **Los 4 provisionales del capítulo los cerró el autor el 2026-08-29:** esta escena ES "el día nublado"; la respuesta sobria de Cole queda fijada; Blake ya está fuera del cuadro (sin mención); el campo de golf no lleva ficha y la propiedad de Cole queda vaga a propósito. Ver [[06_Relationships/Hitos]] #H4, Pendientes.

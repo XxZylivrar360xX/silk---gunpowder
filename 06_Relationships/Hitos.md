@@ -17,6 +17,7 @@ Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni
 | 5 | **H9** — La carrera de máscaras *(primera salida fuera de la zona de confort de Chiara; ahora entre H3 y H12)* |
 | 6 | **H12** — El atentado / El corral *(el ataque, el hospital, la investigación fallida, el refugio temporal en La Almendra)* |
 | 7 | **H14 — El loft del soltero** *(Cole recompra la casa de sus padres; Chiara la diseña; ella todavía NO se muda)* |
+| — | *(capítulo puente, sin ID: [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/13_La_Regla_Del_Telefono|La regla del teléfono]] — fin de semana de campamento de Cole con Marisol; instala por qué está incomunicado cuando le da el infarto a Héctor)* |
 | 8 | **H10** — El infarto de Héctor *(Héctor los empuja al otro; la mano sobre la mano; terceros ya los leen)* |
 | 9 | **H4** — El día nublado *(la cita del golf; se profundiza la elección — NO se formaliza)* |
 | 10 | **H11** — El mirador *(bolos, el drift, las estrellas — el primer beso y la primera intimidad)* |
@@ -691,15 +692,17 @@ Ver también: [[02_Characters/Cole_Mercer]] · [[02_Characters/Chiara_Bellandi]]
 
 # H10 — El infarto de Héctor
 
-> **CANON DEL AUTOR (2026-08-26; reposicionado 2026-08-29).** Ocurre con Cole ya viviendo en el loft de sus padres ([[05_Locations/La_Casa]]) — que ya recompró y que Chiara ya diseñó ([[#H14 — El loft del soltero]]). **Nueva posición canon:** va **antes de [[#H4 — El día nublado]] y de [[#H11 — El mirador]]**. En este punto Cole y Chiara **todavía no han cruzado la intimidad** — H11 es el primer beso y viene después. Lo que ocurre aquí es que **Héctor los empuja emocionalmente el uno hacia el otro** y **terceros ya leen lo que ellos evitan nombrar.**
+> **CANON DEL AUTOR (2026-08-26; reposicionado 2026-08-29; causa de la ausencia de Cole redefinida el 2026-08-29 — encargo [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]]).** Ocurre con Cole ya viviendo en el loft de sus padres ([[05_Locations/La_Casa]]) — que ya recompró y que Chiara ya diseñó ([[#H14 — El loft del soltero]]). **Nueva posición canon:** va **antes de [[#H4 — El día nublado]] y de [[#H11 — El mirador]]**. En este punto Cole y Chiara **todavía no han cruzado la intimidad** — H11 es el primer beso y viene después. Lo que ocurre aquí es que **Héctor los empuja emocionalmente el uno hacia el otro** y **terceros ya leen lo que ellos evitan nombrar.**
 
-## Contexto — dos ausencias que se cruzan
+## Contexto — la ausencia elegida
 
-Cole y Walt salen de la ciudad a mover un cargamento de hierba que cultivó [[02_Characters/Nadir_Amrani]], pensado como ganancia para el barrio. Vuelven a San Aurelio por la mañana.
+Cole pasa **todo el fin de semana de campamento con [[02_Characters/Marisol_Grayson]]**, poco antes de que ella vuelva a clases — un capítulo puente propio ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/13_La_Regla_Del_Telefono|Cap. 13 — La regla del teléfono]]). La incomunicación **no es un accidente**: existe una regla vieja entre ellos, heredada de [[02_Characters/Michael_Grayson]] — durante el campamento los teléfonos se guardan. Cole protesta (nombra a Héctor: "está mayor, si pasa algo…"); Marisol gana. Cole apaga el teléfono con sus propias manos. Puede haber además mala cobertura en la montaña, pero la causa principal es la decisión de estar presente con Marisol.
 
-Mientras están fuera, [[02_Characters/Nadir_Amrani]] y [[02_Characters/Daniel_Hayes]] intentan robar una tienda dentro del territorio de [[03_Factions/La_Ronda_del_Canal]] y los atrapa la gente de Irene Salcedo — quedan retenidos, indispuestos para avisar a nadie.
+> **Reemplaza** la versión anterior (Cole y Walt salen a mover un cargamento de hierba de Nadir). Walt ya no viaja: se queda en la ciudad, sabe que Cole está de campamento con Marisol "por el norte" pero no en qué sitio.
 
-Con Cole y Walt fuera de la ciudad y Nadir y Danny retenidos, ninguno de los dos círculos que normalmente le llegarían a Cole puede avisarle. Y los muchachos del taller que sí sabían del infarto **se olvidan de contárselo** — el olvido, no la traición, es lo que enfurece a Cole.
+Mientras Cole está fuera, [[02_Characters/Nadir_Amrani]] y [[02_Characters/Daniel_Hayes]] intentan robar una tienda dentro del territorio de [[03_Factions/La_Ronda_del_Canal]] y los atrapa la gente de Irene Salcedo — quedan retenidos, indispuestos para avisar a nadie.
+
+**La cadena de intentos de contacto (y su fracaso):** Chiara encuentra a Héctor, llama a emergencias, lo acompaña al hospital, y desde ahí intenta localizar a Cole de forma racional — lo llama directo, repetidamente; llama a Walt (sabe del campamento, no del sitio); Nadir y Danny no contestan porque están retenidos; va al taller, donde los muchachos, sabiendo que Walt ya lo busca y que Héctor está estable, deciden no mandar a nadie a recorrer la montaña por algo que ya no es una emergencia — un juicio razonable, **no un olvido**. Agotados los canales, Chiara deja la carta bajo la puerta de la casa de Cole: el único canal físico que puede garantizar que él encontrará al volver. Lo que enfurece a Cole al volver **no es que nadie avisara** — lo intentaron y no pudieron — **sino haber estado fuera de alcance por elección propia.** No es culpa moral: es la vulnerabilidad de no poder estar en todos lados. Cf. [[02_Characters/Cole_Mercer]], "El puente".
 
 ## El infarto
 
@@ -727,13 +730,13 @@ Chiara empieza a frecuentar a Héctor en el hospital — es el hombre que Cole m
 
 ## La carta y la carrera al casino
 
-Cole y Walt llegan a la ciudad por la mañana y van cada uno a su casa. Cole entra a la suya y encuentra, en el suelo, una carta con su membrete, aroma a canela y vainilla y letra manuscrita — de Chiara — lamentando lo de Héctor, deseando que mejore pronto y que pueda volver bien con todos los chicos del barrio, y que va a buscar un momento para llevarle flores al hospital.
+Cole vuelve el domingo. Ya sabe lo básico antes de llegar a su casa: al recuperar cobertura le entran todas las llamadas perdidas de golpe (el taller, Walt, el hospital, tres seguidas de Chiara) y un mensaje de voz de Walt le dice que Héctor tuvo un infarto y está estable en Santa Aurelia. Aun así pasa por su casa —a dejar la camioneta, a quitarse el humo de encima— y encuentra en el suelo una carta con el membrete de Chiara, aroma a canela y vainilla y letra manuscrita, lamentando lo de Héctor, deseando que mejore pronto y que pueda volver bien con todos los chicos del barrio, y que va a buscar un momento para llevarle flores al hospital. Sin urgencia, sin "llámame": la carta viene **después** de que Chiara agotara las llamadas y las rutas, como el último canal que podía garantizar.
 
-Cole, sin saber nada de lo que pasó, le dice a Walt que suba al auto — van a toda prisa al casino, a que Chiara les explique.
+Antes que al hospital, Cole pasa por el casino — porque Chiara es la que encontró a Héctor y la que ha estado sosteniendo el fin de semana. Ella le da el parte y le explica la cadena: lo llamó, llamó a Walt, nadie sabía dónde buscarlo; Nadir y Danny están retenidos por La Ronda del Canal.
 
 > **DISEÑO — por qué Cole ya sabe que es de ella sin que nadie se lo diga:** no es la primera vez que ve ese papel. Ver [[07_Ideas/El_Chico_Del_Patio]] — la nota de "Roma Atrii" que interceptó semanas antes ya le enseñó esa letra y ese aroma. Esta vez no hay nada que descifrar: es una carta abierta, y por eso pega distinto.
 
-Cuando llega la explicación, se entera de que los muchachos se olvidaron de avisarle —lo que lo enfurece— y de que Nadir y Danny estaban retenidos por el robo fallido.
+Cuando llega la explicación, entiende que **lo intentaron y no pudieron** —y que él eligió estar incomunicado—, y que Nadir y Danny estaban retenidos por el robo fallido. La furia sigue entera pero no encuentra dónde clavarse: ni en Chiara, ni en Walt, ni en los muchachos. Queda él.
 
 ## El hospital — la mano sobre la mano
 

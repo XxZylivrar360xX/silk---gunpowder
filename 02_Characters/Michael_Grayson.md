@@ -42,6 +42,8 @@ Michael importa menos por lo que hizo en escena que por el momento en que muere:
 
 **Primera vez que Cole habla de él en página:** Capítulo 7, en el penthouse. Lo cuenta sin dramatizarlo — amigo del ejército, retirado, muerto de cáncer "con la misma discreción con la que había hecho todo lo demás" — y de ahí pasa a Marisol.
 
+**Primera presencia real (sin recuerdo):** Capítulo 13, a través de sus costumbres vivas entre Cole y Marisol (la regla del teléfono, la tienda, el cazo). Ver "Método" abajo.
+
 ---
 
 ## Método
@@ -49,6 +51,17 @@ Michael importa menos por lo que hizo en escena que por el momento en que muere:
 > **PENDIENTE:** definir cómo era Michael como militar, padre y amigo.
 
 Por ahora, su método narrativo es póstumo: deja una obligación que Cole acepta sin convertirla en negocio.
+
+### Sembrado por conducta (borrador Cap. 13 — *La regla del teléfono*)
+
+En [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/13_La_Regla_Del_Telefono]], Michael aparece **sólo por lo que dejó**, nunca en recuerdo dramatizado ni en elegía:
+
+- **La regla del teléfono.** Michael instauró que durante el campamento los teléfonos se guardan hasta volver. Cole estaba presente cuando la puso. Marisol la hace cumplir hoy.
+- **El campamento como costumbre.** Cole y Marisol tienen un sitio de siempre en la montaña, al norte; una tradición vieja que no se fecha con precisión y que estaban recuperando.
+- **Cómo montaba la tienda:** varillas en cruz, lona tensada desde las esquinas antes que del centro, vientos en ángulo. Cole la monta igual y Marisol lo nota.
+- **Quemaba las alubias** distrayéndose con la parrilla. Cole "heredó el cazo" y con él el defecto.
+
+Todo esto es inferencia del agente para dar textura; **el autor no lo ha confirmado** y puede recortarse o reescribirse.
 
 ---
 

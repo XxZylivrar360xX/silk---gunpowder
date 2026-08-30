@@ -1,14 +1,14 @@
 <!--
 Estado: borrador provisional.
 Protagonistas: Cole Mercer, Chiara Bellandi, Hector Navarro.
-Ventana temporal: continua directamente del Capitulo 13 (el porton). Incluye un salto breve a un dia anterior (visita de Chiara sola). Reordenado el 2026-08-29.
+Ventana temporal: continua directamente del Capitulo 14 (el porton). Incluye un salto breve a un dia anterior (visita de Chiara sola). Reordenado el 2026-08-29; renumerado el 2026-08-29 al insertarse el Capitulo 13 (La regla del telefono).
 Lugares: Hospital Santa Aurelia.
 Funcion: ejecutar la segunda mitad de H10 — las dos conversaciones de Hector (con Chiara y con Cole) y el cierre: la mano sobre la mano.
 -->
 
-# Capítulo 14 — Cuatro letras
+# Capítulo 15 — Cuatro letras
 
-Dos días antes de que Cole volviera, Chiara ya conocía el camino al cuarto de Héctor de memoria.
+Para cuando Cole volvió, Chiara ya conocía el camino al cuarto de Héctor de memoria.
 
 Le llevaba café que él no siempre terminaba y noticias del taller que él fingía no necesitar. Esa tarde lo encontró más despierto que de costumbre, con la cama inclinada y los ojos puestos en ella antes de que terminara de cruzar la puerta.
 
@@ -44,7 +44,7 @@ Cole llegó con Chiara al hospital sin haber soltado la furia en ningún punto d
 
 —Se te ve peor a ti que a mí —dijo Héctor, antes de que Cole pudiera decir nada.
 
-—Nadie me avisó.
+—Estaba fuera. Con el teléfono apagado.
 
 —Yo tampoco pude avisarte. Estaba ocupado cayéndome.
 
@@ -58,13 +58,13 @@ Salió sin que nadie se lo pidiera, y Cole entendió, un segundo tarde, que le e
 
 Se sentó en la silla junto a la cama. No dijo nada por un rato. Héctor tampoco.
 
-—Tres días —dijo Cole al final—. Tres días fuera y nadie pensó en decírmelo.
+—Todo el fin de semana —dijo Cole al final—. Fuera, sin teléfono. Cuando lo encendí ya habían pasado dos días.
 
-—Los muchachos tenían miedo de arruinarte el viaje.
+—Te buscaron. No pudieron.
 
-—Eso no es una razón.
+—Ya sé que no pudieron. —Se quedó mirándose las manos—. Ése es el problema. Que lo hicieran todo bien y yo no estuviera.
 
-—No, no lo es. —Héctor cerró los ojos un momento, no de cansancio, sino de la manera en que uno cierra los ojos antes de decir algo que ya viene cargando hace tiempo—. Pero tampoco es lo que de verdad te tiene así, Cole. Y los dos lo sabemos.
+—No. —Héctor cerró los ojos un momento, no de cansancio, sino de la manera en que uno cierra los ojos antes de decir algo que ya viene cargando hace tiempo—. Eso tampoco es lo que de verdad te tiene así, Cole. Y los dos lo sabemos.
 
 Cole no contestó.
 

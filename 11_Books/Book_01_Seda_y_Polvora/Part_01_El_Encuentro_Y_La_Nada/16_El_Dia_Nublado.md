@@ -1,14 +1,14 @@
 <!--
 Estado: borrador provisional (redactado 2026-08-29, triaje PROSA-C).
 Protagonistas: Cole Mercer, Chiara Bellandi.
-Ventana temporal: semanas despues del Capitulo 14 (segunda mitad de H10). Antes del Capitulo 16 (H11, el mirador). Reordenado el 2026-08-29: H10 -> H4 -> H11.
+Ventana temporal: semanas despues del Capitulo 15 (segunda mitad de H10). Antes del Capitulo 17 (H11, el mirador). Reordenado el 2026-08-29: H10 -> H4 -> H11; renumerado el 2026-08-29 al insertarse el Capitulo 13 (La regla del telefono).
 Lugares: campo de golf al norte de San Aurelio, carretera del norte, The Monarch / El Penthouse.
 Funcion: ejecutar [[06_Relationships/Hitos]] (#H4 — El dia nublado). Golf + juego de preguntas + revelacion sobre el exmarido + Cole deduce, sin que ella lo diga, que Chiara mato a su exmarido + Cole toma la decision interna que interpreta como "quedarse". NO formaliza la relacion, NO hay beso: solo hombro, mano y dormirse juntos sin nada fisico. "Somos solo buenos amigos" sigue siendo la ficcion oficial.
-Apertura por residuo: profundiza el cierre del Capitulo 14 (la mano sobre la mano en el hospital; lo que Hector le dijo a Cole y no se repite).
+Apertura por residuo: profundiza el cierre del Capitulo 15 (la mano sobre la mano en el hospital; lo que Hector le dijo a Cole y no se repite).
 Confirmado por el autor (2026-08-29): esta escena ES "el dia nublado" que menciono el autor; la respuesta sobria de Cole a la pregunta de matar queda fijada (no se adelanta el registro de "soy la muerte caminando", que es H1); Blake Stanton ya esta fuera del cuadro y no se menciona; el campo de golf no lleva ficha y la propiedad de Cole queda vaga a proposito (chiste). Ver [[06_Relationships/Hitos]] #H4, seccion Pendientes.
 -->
 
-# Capítulo 15 — El día nublado
+# Capítulo 16 — El día nublado
 
 Lo que se le quedó a Cole del hospital no fue el infarto de Héctor. Fue una frase.
 

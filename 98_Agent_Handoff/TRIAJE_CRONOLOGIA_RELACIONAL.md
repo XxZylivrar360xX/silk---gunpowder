@@ -14,6 +14,8 @@ Documento de trabajo para agilizar en varias terminales. Marca qué está hecho 
 
 Leyenda: `[ ]` pendiente · `[~]` en curso · `[x]` hecho · `[!]` bloqueado / requiere decisión del autor.
 
+> **NOTA DE RENUMERACIÓN (2026-08-29, posterior al cierre de este triaje).** Se insertó un capítulo puente nuevo, **Cap. 13 — *La regla del teléfono*** (Marisol / campamento), entre *Roma Atrii* y *El portón*, para absorber la causa de la ausencia de Cole en H10 (ver [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]]). Los capítulos posteriores corrieron +1: los números que este documento cita como Caps. **13→14 (El portón)**, **14→15 (Cuatro letras)**, **15→16 (El día nublado)**, **16→17 (El mirador)**, **17→18 (Sin rastro)**. Este registro histórico se conserva con su numeración original; para el mapa vigente ver [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]].
+
 ---
 
 ## Bloque 0 — Integración base (ya cerrada)

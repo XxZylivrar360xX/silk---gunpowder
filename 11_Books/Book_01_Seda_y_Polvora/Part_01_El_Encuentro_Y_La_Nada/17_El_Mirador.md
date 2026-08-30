@@ -1,13 +1,13 @@
 <!--
 Estado: borrador provisional.
 Protagonistas: Cole Mercer, Chiara Bellandi.
-Ventana temporal: despues del Capitulo 15 (H4, el dia nublado). Reordenado el 2026-08-29: H11 pasa a ir DESPUES de H10 y H4.
+Ventana temporal: despues del Capitulo 16 (H4, el dia nublado). Reordenado el 2026-08-29: H11 pasa a ir DESPUES de H10 y H4; renumerado el 2026-08-29 al insertarse el Capitulo 13 (La regla del telefono).
 Lugares: bolera de la playa, carretera del norte, El Mirador, The Monarch Casino & Hotel / El Penthouse.
 Funcion: ejecutar H11 — la primera vez que Cole y Chiara tienen intimidad. Bolos, el drift, el mirador (Cole rompe su regla de nunca hablar de Dale y Ruth Mercer), y el penthouse.
-Apertura por residuo (reescrita 2026-08-29, triaje PROSA-B): abre con el residuo del Capitulo 15 (H4, el dia nublado) — lo que Chiara le conto del exmarido, lo que Cole entendio sin que ella lo dijera y no ha vuelto a tocar, y la ficcion de "somos solo buenos amigos". Antes abria con el residuo de "Roma Atrii" (Cap. 12), que ya se recoge en el Cap. 13. Ver [[06_Relationships/Hitos]], H11 y la politica de apertura por residuo.
+Apertura por residuo (reescrita 2026-08-29, triaje PROSA-B): abre con el residuo del Capitulo 15 (H4, el dia nublado) — lo que Chiara le conto del exmarido, lo que Cole entendio sin que ella lo dijera y no ha vuelto a tocar, y la ficcion de "somos solo buenos amigos". Antes abria con el residuo de "Roma Atrii" (Cap. 12), que ya se recoge en el Cap. 13 (La regla del telefono) y el Cap. 14 (El porton). Ver [[06_Relationships/Hitos]], H11 y la politica de apertura por residuo.
 -->
 
-# Capítulo 16 — El mirador
+# Capítulo 17 — El mirador
 
 El día nublado no volvió a mencionarse entre ellos, pero tampoco se fue del todo.
 

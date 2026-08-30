@@ -2340,3 +2340,23 @@ Con esto **el triaje de cronologia relacional queda cerrado.** Abierto solo lo q
 ## [2026-08-29] build | EPUB regenerado (re-run)
 
 `python ./tools/epub-build/build_epub.py`, exit 0. 17 capitulos, manuscrito 287.076 caracteres (identico al build de las 17:20 — el trabajo posterior de la sesion fue todo estructura/canon en docs, no prosa de capitulo). Salida en `tools/epub-build/output/Seda_y_Polvora.epub`.
+
+## [2026-08-29] canon + prosa | Capitulo puente nuevo (Marisol / campamento) + correccion causal de H10
+
+**Encargo:** [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]] (autor + ChatGPT -> Claude Code).
+
+**Problema resuelto:** agujero causal en H10. Chiara tenia contacto directo con Cole y aun asi el se enteraba tarde por una carta. Solucion CANON DEL AUTOR: Cole pasa el fin de semana de campamento con Marisol Grayson, incomunicado por una regla vieja (los telefonos se guardan durante el campamento) heredada de Michael. Ya NO sale a mover un cargamento de hierba con Walt.
+
+**Capitulo nuevo:** `13_La_Regla_Del_Telefono.md` (Cap. 13), insertado entre `12_Roma_Atrii` y el antiguo `13_El_Porton`. Capitulo puente, sin ID de hito. Presenta a Marisol en escena por primera vez (antes solo mencionada, Cap. 7); relacion casi paternal mostrada por conducta; la regla del telefono como decision de caracter; Marisol pica a Cole por "tu amiga Chiara" y le pregunta si ella lo conoce fuera del trabajo ("Esta aprendiendo"); Michael presente solo por costumbres (tienda, cazo, la regla). Cierra con las llamadas perdidas (*Chiara. Chiara. Chiara.*) que abren el infarto.
+
+**Renumeracion +1:** `git mv` de 13->14 (El porton), 14->15 (Cuatro letras), 15->16 (El dia nublado), 16->17 (El mirador), 17->18 (Sin rastro). Encabezados `# Capitulo N` y comentarios de metadata actualizados. Referencias cruzadas actualizadas en `01_Timeline/01_Primer_Borrador_Beats.md`, `06_Relationships/Hitos.md`, `06_Relationships/Cole_y_Chiara.md`, `02_Characters/Hector_Navarro.md`, `07_Ideas/El_Mirador.md`, `07_Ideas/El_Infarto_De_Hector.md`, `12_Craft_Policies/revelations/Book_01_Seda_y_Polvora.md`, `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `INDEX.md`. En `98_Agent_Handoff/TRIAJE_CRONOLOGIA_RELACIONAL.md` (registro historico cerrado) se dejo una nota de renumeracion en vez de reescribir sus numeros.
+
+**`14_El_Porton.md` (antes 13) — causalidad reescrita:** nueva apertura por residuo (Cole orillado, el telefono encendido, el buzon de Walt: "un infarto el sabado, estable, llevamos dos dias buscandote"). Walt ya no viaja con Cole. Escena nueva de la cadena racional de contacto de Chiara (lo llama directo, llama a Walt que sabe del campamento pero no del sitio, Nadir/Danny retenidos, los del taller no escalan porque Hector esta estable) y la carta como ultimo canal fisico. "Nadie me aviso" eliminado; la furia de Cole se redirige a si mismo por haber elegido estar fuera de alcance. Escena de Nadir/Danny (robo a La Ronda del Canal) y escena de Chiara encontrando a Hector: intactas salvo un "esa noche" -> "ese fin de semana".
+
+**`15_Cuatro_Letras.md` (antes 14) — ajuste minimo:** "Nadie me aviso" -> "Estaba fuera. Con el telefono apagado."; "Tres dias fuera y nadie penso en decirmelo / Los muchachos tenian miedo de arruinarte el viaje" -> "Todo el fin de semana... Cuando lo encendi ya habian pasado dos dias / Te buscaron. No pudieron / Ya se que no pudieron. Ese es el problema." Apertura "Dos dias antes de que Cole volviera" -> "Para cuando Cole volvio". Cuerpo de la escena de Hector (las dos conversaciones, la mano sobre la mano): sin tocar.
+
+**Canon:** `06_Relationships/Hitos.md` H10 — seccion "Contexto" reescrita ("la ausencia elegida": campamento + regla del telefono; reemplaza el viaje de la hierba); seccion "La carta y la carrera al casino" reescrita (sin Walt en el coche; llega sabiendo lo basico por el buzon; la carta llega despues de agotar canales); fila nueva en la tabla de orden para el capitulo puente. `02_Characters/Marisol_Grayson.md` y `02_Characters/Michael_Grayson.md`: fichas actualizadas con lo que la escena siembra, marcado explicitamente como borrador del agente sin confirmar (edad 20; carrera de ciencias ambientales; chaqueta militar de Michael; la regla del telefono; el campamento como costumbre; el modo de montar la tienda; el cazo).
+
+**Titulo:** propuestas al autor — *La regla del telefono* (elegida), *Los dias que si alcanzan*, *Fuera de cobertura*. No fijado por el autor.
+
+**Pendiente:** regenerar EPUB (18 capitulos; Caps. 13, 14, 15 tocados). Revision del autor. Sin commit, sin push.
