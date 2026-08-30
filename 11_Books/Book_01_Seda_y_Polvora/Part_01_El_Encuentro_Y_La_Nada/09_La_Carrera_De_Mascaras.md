@@ -226,7 +226,7 @@ Cole la dejó en la puerta de servicio del Monarch, la misma por la que la habí
 
 —Cuando quieras volver a terminar en la questura de tu juventud, me avisas.
 
-—Idiota.
+—Ma dai, scemo.
 
 Cerró la puerta. El Peugeot salió del callejón con el mismo ralentí grueso con el que había llegado, y en el asiento de atrás, negra sobre el trapo, iba una máscara que Cole vio por el espejo, no recogió y no salió a devolverle.
 
