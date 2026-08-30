@@ -228,7 +228,7 @@ No fue difícil disimular el resto de la noche. Lo difícil fue que Blake, que n
 
 —Blake.
 
-—No, en serio. —Se le paró enfrente, cortándole el paso hacia la calle—. Te fuiste al baño después de que te dediqué una canción. Te reíste con un tipo en la puerta como si llevaras conociéndolo toda la vida. ¿Es por ese tal Mercer?
+—No, en serio. —Se le paró enfrente, cortándole el paso hacia la calle—. Te vi. La forma en que lo miraste en la puerta. ¿Es por ese tal Mercer?
 
 El nombre, en su boca, sonó más informado de lo que a Chiara le habría gustado. Los remolques cruzaban por la comisaría más de lo que ella hubiera querido pensar; no le extrañó que un oficial de tránsito conociera el nombre de la grúa que le hacía quedar mal el expediente.
 
@@ -280,7 +280,7 @@ Blake y Cole eran, por fuera, casi el mismo hombre. Los dos rubios. Los dos de o
 
 Pero Blake necesitaba llenar el espacio en el que estaba parado — necesitaba que todos supieran que ella era suya, que su coche era rápido, que su lugar en el Departamento importaba. Cole no necesitaba nada de eso. Cole sólo existía en el espacio que se había ganado, sin pedirle permiso a nadie para ocuparlo, y sin necesitar que ella se lo confirmara.
 
-No había salido con Blake por Blake. Había salido buscando algo que ya conocía — el ruido de una fiesta, el peso de un brazo alrededor de los hombros, la sensación fácil de gustarle a alguien — y se había equivocado de cuarto.
+No había salido con Blake por Blake. Había salido buscando algo que ya conocía, aunque lo disfrazara cada vez de otra cosa: el ruido de una fiesta cuando en realidad quería una canción compartida; un brazo alrededor de los hombros cuando en realidad quería un choque de puños; la sensación fácil de gustarle a alguien cuando en realidad ya sabía lo que se sentía que alguien la viera de verdad — y se había equivocado de cuarto.
 
 Porque el rubio de ojos azules que le importaba no era Blake.
 
