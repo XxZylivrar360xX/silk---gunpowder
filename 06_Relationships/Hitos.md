@@ -630,7 +630,7 @@ Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Leone_Valenti
 
 > **CANON DEL AUTOR (2026-08-26; reposicionado 2026-08-29).** El primer beso y la primera intimidad de Cole y Chiara. **Nueva posición canon:** ocurre **después de [[#H4 — El día nublado]]** y antes de [[#H15 — La noche del jacuzzi]]. La secuencia es **H10 → H4 → H11**: H10 = terceros los empujan; H4 = conocimiento y elección; **H11 = el cruce romántico y físico.** Cuatro movimientos: los bolos, el drift, el mirador, el penthouse.
 >
-> **ORDEN DE MANUSCRITO — RESUELTO por reordenación (2026-08-29, opción A).** Los capítulos se renumeraron: **Cap. 14 = El portón** (H10 1ª mitad) · **Cap. 15 = Cuatro letras** (H10 2ª mitad) · **Cap. 16 = El día nublado** (H4) · **Cap. 17 = El mirador** (este hito) · **Cap. 18 = Sin rastro**. **Prosa cerrada el 2026-08-29 (triaje PROSA-A/B/C/D):** apertura del Cap. 14 reescrita, apertura del Cap. 17 reescrita al residuo del Cap. 16 (H4), Cap. 16 redactado completo, Héctor en Caps. 14-15 revisado sin cambios. Falta regenerar el EPUB.
+> **ORDEN DE MANUSCRITO — RESUELTO por reordenación (2026-08-29, opción A) + renumerado +1 dos veces (Cap. 14 puente *La regla del teléfono* y Cap. 9 nuevo *La carrera de máscaras*).** Numeración vigente: **Cap. 15 = El portón** (H10 1ª mitad) · **Cap. 16 = Cuatro letras** (H10 2ª mitad) · **Cap. 17 = El día nublado** (H4) · **Cap. 18 = El mirador** (este hito) · **Cap. 19 = Sin rastro**. **Prosa cerrada el 2026-08-29 (triaje PROSA-A/B/C/D):** apertura del Cap. 15 reescrita, apertura del Cap. 18 reescrita al residuo del Cap. 17 (H4), Cap. 17 redactado completo, Héctor en Caps. 15-16 revisado sin cambios. Falta regenerar el EPUB.
 
 ## Los bolos y el vino
 
@@ -1042,7 +1042,7 @@ Y es también **la primera vez que se quedan dormidos juntos**, sin que pase nad
 
 ## Pendientes
 
-> **RESUELTO (2026-08-29, autor):** **sí, esta es "el día nublado"** que el autor mencionó al hablar del marido. La revelación de Chiara sobre el exmarido ocurre en esta escena (ejecutada en el Capítulo 16). No hay una segunda escena.
+> **RESUELTO (2026-08-29, autor):** **sí, esta es "el día nublado"** que el autor mencionó al hablar del marido. La revelación de Chiara sobre el exmarido ocurre en esta escena (ejecutada en el Capítulo 17). No hay una segunda escena.
 
 > **RESUELTO (2026-08-29, autor):** a la pregunta *¿alguna vez has quitado una vida?*, Cole contesta **sobrio y sin dramatizar**: en el ejército, más de una vez, "un trabajo que hice y que no se cuenta bonito". No se adelanta aquí el registro de *yo soy la muerte caminando* (eso es H1). Redacción fijada en el Capítulo 16.
 
