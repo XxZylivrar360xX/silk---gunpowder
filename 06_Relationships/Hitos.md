@@ -17,7 +17,7 @@ Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni
 | 5 | **H9** — La carrera de máscaras *(primera salida fuera de la zona de confort de Chiara; ahora entre H3 y H12)* |
 | 6 | **H12** — El atentado / El corral *(el ataque, el hospital, la investigación fallida, el refugio temporal en La Almendra)* |
 | 7 | **H14 — El loft del soltero** *(Cole recompra la casa de sus padres; Chiara la diseña; ella todavía NO se muda)* |
-| — | *(capítulo puente, sin ID: [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/13_La_Regla_Del_Telefono|La regla del teléfono]] — fin de semana de campamento de Cole con Marisol; instala por qué está incomunicado cuando le da el infarto a Héctor)* |
+| — | *(capítulo puente, sin ID: [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_La_Regla_Del_Telefono|La regla del teléfono]] — fin de semana de campamento de Cole con Marisol; instala por qué está incomunicado cuando le da el infarto a Héctor)* |
 | 8 | **H10** — El infarto de Héctor *(Héctor los empuja al otro; la mano sobre la mano; terceros ya los leen)* |
 | 9 | **H4** — El día nublado *(la cita del golf; se profundiza la elección — NO se formaliza)* |
 | 10 | **H11** — El mirador *(bolos, el drift, las estrellas — el primer beso y la primera intimidad)* |
@@ -455,13 +455,13 @@ La noche en que todo cambia es **la única noche del libro en que no puede condu
 
 # H12 — El atentado / El corral
 
-> **CANON DEL AUTOR (2026-08-27; delimitación revisada 2026-08-29).** Cae después de [[#H9 — La carrera de máscaras]] y antes de [[#H14 — El loft del soltero]]. **ESCRITO** en el Capítulo 9 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Corral]]); el Capítulo 10 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Loft_Del_Soltero]]) ejecuta el hito siguiente, ya separado. Es la **primera aparición en prosa de Il Consorzio**, aunque no se revela como tal en el momento del ataque — sólo se deduce después, ver [[#H13 — El pañuelo]].
+> **CANON DEL AUTOR (2026-08-27; delimitación revisada 2026-08-29).** Cae después de [[#H9 — La carrera de máscaras]] y antes de [[#H14 — El loft del soltero]]. **ESCRITO** en el Capítulo 10 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Corral]]); el Capítulo 11 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/11_El_Loft_Del_Soltero]]) ejecuta el hito siguiente, ya separado. Es la **primera aparición en prosa de Il Consorzio**, aunque no se revela como tal en el momento del ataque — sólo se deduce después, ver [[#H13 — El pañuelo]].
 
 > **NUEVA DELIMITACIÓN CONCEPTUAL (2026-08-29).** H12 cubre **sólo**: el atentado, el hospital, la investigación inmediata, la salida, y que Chiara termine **refugiándose temporalmente** en [[05_Locations/Casa_Comunitaria_De_La_Almendra]]. La recompra y el diseño de la casa quedan como **hito propio siguiente** ([[#H14 — El loft del soltero]]).
 >
 > **REGLA DURA:** H12 **no significa que Chiara se mude con Cole.** Puede quedarse a recuperarse en la casa común; nada más. La mudanza oficial pertenece al [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños]].
 >
-> **DESFASE DE PROSA — CORREGIDO (2026-08-29, poda quirúrgica / opción A):** el Capítulo 10 (*El Loft Del Soltero*) incluía marcadores de **cohabitación de facto** (almohada "de ella" que Cole deja de mover, computadora que deja de transportar, rutina diaria de salir hacia el Monarch desde la casa, café listo cada mañana). Se podaron. El capítulo ahora deja sólo lo que este hito permite: libro, manta, cepillo, cremas, una taza favorita y noches sueltas. Los beats de la laptop y del café diario se reservan para estrenar en [[#H16 — El cumpleaños / la mudanza oficial]].
+> **DESFASE DE PROSA — CORREGIDO (2026-08-29, poda quirúrgica / opción A):** el Capítulo 11 (*El Loft Del Soltero*) incluía marcadores de **cohabitación de facto** (almohada "de ella" que Cole deja de mover, computadora que deja de transportar, rutina diaria de salir hacia el Monarch desde la casa, café listo cada mañana). Se podaron. El capítulo ahora deja sólo lo que este hito permite: libro, manta, cepillo, cremas, una taza favorita y noches sueltas. Los beats de la laptop y del café diario se reservan para estrenar en [[#H16 — El cumpleaños / la mudanza oficial]].
 
 ## El ataque
 
@@ -471,23 +471,23 @@ Chiara está montando a caballo en el hipódromo del Monarch, propiedad del casi
 
 > **CANON DEL AUTOR (2026-08-28):** Cole recibe una llamada desde el celular de Chiara — pero contesta un hombre desconocido, que hace preguntas sueltas tratando de deducir sus movimientos ("¿ella sale mucho los domingos? Me da la impresión de que le gusta estar sola") y cuelga sin identificarse. **Restricción:** esta llamada no revela nada del atacante — ni motivo, ni nombre, ni afiliación. Es puro desasosiego, no pista. **La frase "me da la impresión de que le gusta estar sola" queda marcada como eco pendiente — candidata a que Dario la repita, sin saberlo, en una escena futura con ella, sembrando sospecha real sin que el lector reciba una pista falsa.** Cole marca directo a Chiara: buzón de voz inmediato.
 
-Entra armado al Monarch (domingo, cerrado, llave de la entrada de servicio) y lo recorre entero — vacío. Sube al penthouse — también vacío — y ahí ve las botas de montar de Chiara junto a la puerta, lo que le recuerda que monta los domingos. Baja al hipódromo (misma propiedad, no hace falta auto) y encuentra a **Vento** suelto a mitad del estacionamiento de las caballerizas. La sigue llamando por su nombre sin respuesta — está inconsciente, no puede contestar. **Aquí es donde se ve el soldado:** actúa bajo presión con calma entrenada — mientras por dentro se quiebra, sosteniendo junto a él a la mujer que le importa sin saber todavía si llegó a tiempo. **No espera ambulancia: la sube él mismo al Audi A7 (segundo auto, señal muda de que el negocio prospera) y conduce al hospital — conduce él, siempre.** Ejecutado en el Capítulo 9.
+Entra armado al Monarch (domingo, cerrado, llave de la entrada de servicio) y lo recorre entero — vacío. Sube al penthouse — también vacío — y ahí ve las botas de montar de Chiara junto a la puerta, lo que le recuerda que monta los domingos. Baja al hipódromo (misma propiedad, no hace falta auto) y encuentra a **Vento** suelto a mitad del estacionamiento de las caballerizas. La sigue llamando por su nombre sin respuesta — está inconsciente, no puede contestar. **Aquí es donde se ve el soldado:** actúa bajo presión con calma entrenada — mientras por dentro se quiebra, sosteniendo junto a él a la mujer que le importa sin saber todavía si llegó a tiempo. **No espera ambulancia: la sube él mismo al Audi A7 (segundo auto, señal muda de que el negocio prospera) y conduce al hospital — conduce él, siempre.** Ejecutado en el Capítulo 10.
 
 > **Dato de la escena de hospital (revisado 2026-08-28):** Cole recoge el bolso en las caballerizas antes que nadie y se guarda la cartera y el reloj — *"un asalto que perdona un reloj así no se lo cree nadie"*. Lo único que de verdad falta es el teléfono, y ése no lo tiene él: encaja con que fue el atacante quien llamó a Cole desde ahí. Le devuelve reloj y efectivo a Chiara en el parador del norte, y ese gesto es lo que le hace ver a ella cuánta versión se armó a su alrededor mientras dormía.
 
 ## Lo que hace Cole mientras ella está inconsciente — CANON DEL AUTOR (2026-08-27, ampliado 2026-08-28)
 
-En el hospital, con el cuarto en silencio y Chiara todavía sin despertar, Cole le toma la mano y le dice, en voz baja: **"Te vas a mejorar, ¿vale? Eres la mujer más fuerte que tengo la dicha de haber conocido, y esto no te va a ganar la partida."** Después de una pausa, sólo: **"Chiara."** Ella no lo oye — es un momento sin testigos, y por eso es el único sitio del libro, hasta ahora, donde Cole dice algo así en voz alta sin que nadie se lo cobre ni se lo confirme. Ejecutado en el Capítulo 9.
+En el hospital, con el cuarto en silencio y Chiara todavía sin despertar, Cole le toma la mano y le dice, en voz baja: **"Te vas a mejorar, ¿vale? Eres la mujer más fuerte que tengo la dicha de haber conocido, y esto no te va a ganar la partida."** Después de una pausa, sólo: **"Chiara."** Ella no lo oye — es un momento sin testigos, y por eso es el único sitio del libro, hasta ahora, donde Cole dice algo así en voz alta sin que nadie se lo cobre ni se lo confirme. Ejecutado en el Capítulo 10.
 
 Le pide a Héctor que lo cubra y sale a investigar un nombre — un guardia de las caballerizas que se fue temprano sin avisar. Lo secuestra, lo interroga, no saca nada útil, lo suelta. **Es un fracaso, y es feo — el libro no lo justifica.**
 
 Vuelve al cuarto y se encuentra con Dario Varek, de pie junto a la cama sedada. **Se apuntan con sus armas, culpándose mutuamente de lo que le pasó a Chiara.** Llegan a una tregua: cada uno investiga por su lado y comparten lo que encuentren. Cole omite la llamada por reflejo — es información, y la información es una carta — y le da a Dario la primera versión oficial: estaba en el taller, volvió y la encontró en las caballerizas. Cuando Chiara despierta, Cole la pone al tanto antes de que vuelva a dormirse.
 
-Ejecutado en el Capítulo 9. **Esto absorbe y ejecuta los beats 1-6 de H5 — ver nota de fusión al final de H5.**
+Ejecutado en el Capítulo 10. **Esto absorbe y ejecuta los beats 1-6 de H5 — ver nota de fusión al final de H5.**
 
 ## El alta, la coartada conjunta y la salida al norte — CANON DEL AUTOR (2026-08-28)
 
-**Escrito en el Capítulo 9.** Absorbe y ejecuta los **beats 7-8 de H5**.
+**Escrito en el Capítulo 10.** Absorbe y ejecuta los **beats 7-8 de H5**.
 
 - **Cole la ayuda a alistarse** — le sostiene el abrigo, le acomoda el pelo sobre el vendaje. Intimidad callada: *"el silencio era lo más parecido a un idioma común que les quedaba"*.
 - **Dario llega antes de que firmen el papeleo.** Chiara, apenas entra, **percibe que la tregua ya está firmada** (los dos hombres se hablan con una calma que no tenían tres días antes) y entiende que le toca subirse a una versión en marcha sin conocer su velocidad.
@@ -511,13 +511,13 @@ Llegan de madrugada. **Cole le da el único cuarto de la planta que "no gritaba 
 
 Con ella ahí, día tras día, la desconfianza de [[02_Characters/Nadir_Amrani]] — ya establecida como preocupación de amigo leal, no celos románticos, ver su ficha — deja de ser silenciosa. Empiezan los roces. Nadir no necesita decir nada abiertamente hostil: basta con la tensión de dos personas compartiendo un espacio que uno de los dos no quiere compartir.
 
-**Los muchachos la dejan quedarse — sin votación.** Alguno pregunta "por cuánto tiempo" con ella lejos; Cole: **"Lo necesario. Hasta que ya no lo sea."** Y basta, porque Cole se ganó ese derecho: nunca les dijo que no a un favor y nunca cobró ninguno — *"a la familia no se le cobran los favores"*. Pueden pelearle a gritos; **dudar de él, no.** Nadir cumple como los demás y, como los demás, calla — pero **es el único que, al decir que sí, no la mira a ella** (engancha con la apertura del Capítulo 10).
+**Los muchachos la dejan quedarse — sin votación.** Alguno pregunta "por cuánto tiempo" con ella lejos; Cole: **"Lo necesario. Hasta que ya no lo sea."** Y basta, porque Cole se ganó ese derecho: nunca les dijo que no a un favor y nunca cobró ninguno — *"a la familia no se le cobran los favores"*. Pueden pelearle a gritos; **dudar de él, no.** Nadir cumple como los demás y, como los demás, calla — pero **es el único que, al decir que sí, no la mira a ella** (engancha con la apertura del Capítulo 11).
 
 **Es esa fricción — no la nostalgia ni el cálculo — la que empuja a Cole al hito siguiente.** Ver [[#H14 — El loft del soltero]] para la recompra, el diseño y la vida doméstica que crece.
 
 ## Pendientes
 
-> **PENDIENTE:** gravedad médica exacta — cuánto tiempo pasa hospitalizada (el Capítulo 9 dice "dos o tres días de observación", queda como base salvo que se decida ajustar).
+> **PENDIENTE:** gravedad médica exacta — cuánto tiempo pasa hospitalizada (el Capítulo 10 dice "dos o tres días de observación", queda como base salvo que se decida ajustar).
 
 > **PENDIENTE:** cuánto tiempo dura la estancia en la casa común antes de que Cole decida recomprar (arranca [[#H14 — El loft del soltero]]).
 
@@ -529,7 +529,7 @@ Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Cole_Mercer]]
 
 # H14 — El loft del soltero
 
-> **CANON DEL AUTOR (2026-08-29).** Cae después de [[#H12 — El atentado / El corral]] y antes de [[#H10 — El infarto de Héctor]]. Se separa de H12, del que antes era la segunda mitad. **Ejecutado en prosa en el Capítulo 10** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Loft_Del_Soltero]]); la prosa se podó el 2026-08-29 (opción A) para retirar la convivencia prematura — ver la nota de H12. **ID: H14** (asignado 2026-08-29).
+> **CANON DEL AUTOR (2026-08-29).** Cae después de [[#H12 — El atentado / El corral]] y antes de [[#H10 — El infarto de Héctor]]. Se separa de H12, del que antes era la segunda mitad. **Ejecutado en prosa en el Capítulo 11** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/11_El_Loft_Del_Soltero]]); la prosa se podó el 2026-08-29 (opción A) para retirar la convivencia prematura — ver la nota de H12. **ID: H14** (asignado 2026-08-29).
 
 ## La recompra
 
@@ -556,7 +556,7 @@ Ella lo organiza: llama a una empresa de construcción y decoración, elige ella
 - tener una taza favorita;
 - sentirse cada vez más cómoda.
 
-**Lo que NO debe documentarse todavía** (podado del Capítulo 10 el 2026-08-29): closet propio, computadora permanentemente instalada, rutina diaria de salir al trabajo desde ahí, cajones propios, mudanza implícita. Esos beats — en concreto **la laptop que por fin se queda** y **el café listo cada mañana** — se reservan para estrenar en el [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños]].
+**Lo que NO debe documentarse todavía** (podado del Capítulo 11 el 2026-08-29): closet propio, computadora permanentemente instalada, rutina diaria de salir al trabajo desde ahí, cajones propios, mudanza implícita. Esos beats — en concreto **la laptop que por fin se queda** y **el café listo cada mañana** — se reservan para estrenar en el [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños]].
 
 La **mudanza oficial** pertenece al [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños de Chiara]]. Ahí sí llegan cajas, ropa y objetos permanentes, y ocurre **porque lo eligen**, no por atentado ni por necesidad.
 
@@ -566,7 +566,7 @@ La **mudanza oficial** pertenece al [[#H16 — El cumpleaños / la mudanza ofici
 
 > **PENDIENTE:** ¿sabe Chiara de quién era la casa cuando la diseña? Las dos respuestas son buenas y muy distintas.
 
-> **RESUELTO (2026-08-29, opción A):** la prosa del Capítulo 10 se podó — se quitaron la almohada "de ella", la laptop instalada y la rutina del café diario; quedan libro, manta, cepillo, cremas, taza favorita y noches sueltas.
+> **RESUELTO (2026-08-29, opción A):** la prosa del Capítulo 11 se podó — se quitaron la almohada "de ella", la laptop instalada y la rutina del café diario; quedan libro, manta, cepillo, cremas, taza favorita y noches sueltas.
 
 ---
 
@@ -630,7 +630,7 @@ Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Leone_Valenti
 
 > **CANON DEL AUTOR (2026-08-26; reposicionado 2026-08-29).** El primer beso y la primera intimidad de Cole y Chiara. **Nueva posición canon:** ocurre **después de [[#H4 — El día nublado]]** y antes de [[#H15 — La noche del jacuzzi]]. La secuencia es **H10 → H4 → H11**: H10 = terceros los empujan; H4 = conocimiento y elección; **H11 = el cruce romántico y físico.** Cuatro movimientos: los bolos, el drift, el mirador, el penthouse.
 >
-> **ORDEN DE MANUSCRITO — RESUELTO por reordenación (2026-08-29, opción A).** Los capítulos se renumeraron: **Cap. 13 = El portón** (H10 1ª mitad) · **Cap. 14 = Cuatro letras** (H10 2ª mitad) · **Cap. 15 = El día nublado** (H4) · **Cap. 16 = El mirador** (este hito) · **Cap. 17 = Sin rastro**. **Prosa cerrada el 2026-08-29 (triaje PROSA-A/B/C/D):** apertura del Cap. 13 reescrita, apertura del Cap. 16 reescrita al residuo del Cap. 15 (H4), Cap. 15 redactado completo, Héctor en Caps. 13-14 revisado sin cambios. Falta regenerar el EPUB.
+> **ORDEN DE MANUSCRITO — RESUELTO por reordenación (2026-08-29, opción A).** Los capítulos se renumeraron: **Cap. 14 = El portón** (H10 1ª mitad) · **Cap. 15 = Cuatro letras** (H10 2ª mitad) · **Cap. 16 = El día nublado** (H4) · **Cap. 17 = El mirador** (este hito) · **Cap. 18 = Sin rastro**. **Prosa cerrada el 2026-08-29 (triaje PROSA-A/B/C/D):** apertura del Cap. 14 reescrita, apertura del Cap. 17 reescrita al residuo del Cap. 16 (H4), Cap. 16 redactado completo, Héctor en Caps. 14-15 revisado sin cambios. Falta regenerar el EPUB.
 
 ## Los bolos y el vino
 
@@ -696,7 +696,7 @@ Ver también: [[02_Characters/Cole_Mercer]] · [[02_Characters/Chiara_Bellandi]]
 
 ## Contexto — la ausencia elegida
 
-Cole pasa **todo el fin de semana de campamento con [[02_Characters/Marisol_Grayson]]**, poco antes de que ella vuelva a clases — un capítulo puente propio ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/13_La_Regla_Del_Telefono|Cap. 13 — La regla del teléfono]]). La incomunicación **no es un accidente**: existe una regla vieja entre ellos, heredada de [[02_Characters/Michael_Grayson]] — durante el campamento los teléfonos se guardan. Cole protesta (nombra a Héctor: "está mayor, si pasa algo…"); Marisol gana. Cole apaga el teléfono con sus propias manos. Puede haber además mala cobertura en la montaña, pero la causa principal es la decisión de estar presente con Marisol.
+Cole pasa **todo el fin de semana de campamento con [[02_Characters/Marisol_Grayson]]**, poco antes de que ella vuelva a clases — un capítulo puente propio ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_La_Regla_Del_Telefono|Cap. 14 — La regla del teléfono]]). La incomunicación **no es un accidente**: existe una regla vieja entre ellos, heredada de [[02_Characters/Michael_Grayson]] — durante el campamento los teléfonos se guardan. Cole protesta (nombra a Héctor: "está mayor, si pasa algo…"); Marisol gana. Cole apaga el teléfono con sus propias manos. Puede haber además mala cobertura en la montaña, pero la causa principal es la decisión de estar presente con Marisol.
 
 > **Reemplaza** la versión anterior (Cole y Walt salen a mover un cargamento de hierba de Nadir). Walt ya no viaja: se queda en la ciudad, sabe que Cole está de campamento con Marisol "por el norte" pero no en qué sitio.
 
@@ -1042,11 +1042,11 @@ Y es también **la primera vez que se quedan dormidos juntos**, sin que pase nad
 
 ## Pendientes
 
-> **RESUELTO (2026-08-29, autor):** **sí, esta es "el día nublado"** que el autor mencionó al hablar del marido. La revelación de Chiara sobre el exmarido ocurre en esta escena (ejecutada en el Capítulo 15). No hay una segunda escena.
+> **RESUELTO (2026-08-29, autor):** **sí, esta es "el día nublado"** que el autor mencionó al hablar del marido. La revelación de Chiara sobre el exmarido ocurre en esta escena (ejecutada en el Capítulo 16). No hay una segunda escena.
 
-> **RESUELTO (2026-08-29, autor):** a la pregunta *¿alguna vez has quitado una vida?*, Cole contesta **sobrio y sin dramatizar**: en el ejército, más de una vez, "un trabajo que hice y que no se cuenta bonito". No se adelanta aquí el registro de *yo soy la muerte caminando* (eso es H1). Redacción fijada en el Capítulo 15.
+> **RESUELTO (2026-08-29, autor):** a la pregunta *¿alguna vez has quitado una vida?*, Cole contesta **sobrio y sin dramatizar**: en el ejército, más de una vez, "un trabajo que hice y que no se cuenta bonito". No se adelanta aquí el registro de *yo soy la muerte caminando* (eso es H1). Redacción fijada en el Capítulo 16.
 
-> **RESUELTO (2026-08-29, autor):** Blake Stanton **ya está fuera del cuadro** para este punto (después de H9, H12, el loft y H10). No se lo menciona en el Capítulo 15. Si hiciera falta, una línea de cierre puede sembrarse en un capítulo intermedio, no aquí.
+> **RESUELTO (2026-08-29, autor):** Blake Stanton **ya está fuera del cuadro** para este punto (después de H9, H12, el loft y H10). No se lo menciona en el Capítulo 16. Si hiciera falta, una línea de cierre puede sembrarse en un capítulo intermedio, no aquí.
 
 > **RESUELTO (2026-08-29, autor):** el campo de golf **no necesita ficha propia** por ahora — es textura, no escenario recurrente. Que Cole tenga o no un porcentaje queda **deliberadamente vago** (el chiste evasivo del "nueve por ciento del estacionamiento, no del campo").
 
@@ -1142,7 +1142,7 @@ Esa sonrisa es el centro del hito.
 
 *Arco de la tensión, parte 1.*
 
-> **RENOMBRADO / REFORMULADO (2026-08-29, CANON DEL AUTOR).** El ID sigue siendo **H5**, pero el hito **deja de llamarse "El hipódromo"**. El ataque del hipódromo, el hospital, el encañonamiento con Dario, la tregua, la coartada y la salida al norte — todo lo que antes eran los beats 1-10 de este hito — **ya vive en [[#H12 — El atentado / El corral]]** (escrito en el Capítulo 9). Y la noche del jacuzzi (antes beat 11) y la advertencia de Varek (antes beat 13) son ahora **[[#H15 — La noche del jacuzzi]]**, inmediatamente antes de este hito.
+> **RENOMBRADO / REFORMULADO (2026-08-29, CANON DEL AUTOR).** El ID sigue siendo **H5**, pero el hito **deja de llamarse "El hipódromo"**. El ataque del hipódromo, el hospital, el encañonamiento con Dario, la tregua, la coartada y la salida al norte — todo lo que antes eran los beats 1-10 de este hito — **ya vive en [[#H12 — El atentado / El corral]]** (escrito en el Capítulo 10). Y la noche del jacuzzi (antes beat 11) y la advertencia de Varek (antes beat 13) son ahora **[[#H15 — La noche del jacuzzi]]**, inmediatamente antes de este hito.
 >
 > **El núcleo del nuevo H5 es:** la salida abrupta de Cole de San Aurelio y la **confrontación Dario–Chiara** que esa ausencia detona. Ocurre después de [[#H15 — La noche del jacuzzi]].
 
@@ -1230,7 +1230,7 @@ Y ahí Cole le explica el plan: **volver al casino para dejar en la cámara que 
 
 > **DISEÑO:** la operación conjunta que se gana el título. No es un favor de él ni un contacto de ella: **es los dos construyendo una coartada, con cámaras, rutas y una salida de servicio.** El vault decía que debía ser *pequeña, sucia y espectacularmente bien ejecutada* ([[06_Relationships/Cole_y_Chiara]], fase 2). Es ésta — sólo que lo que están protegiendo no es un negocio: es ella.
 >
-> **RESUELTO (2026-08-27):** hay un ensayo menor antes, en el beat 16 (Capítulo 14) — un trabajo sucio y chico con el mismo método, sin declararse hito. Cuando el lector llega aquí, ya conoce el método; lo nuevo es lo que está en juego.
+> **RESUELTO (2026-08-27):** hay un ensayo menor antes, en el beat 16 (Capítulo 15) — un trabajo sucio y chico con el mismo método, sin declararse hito. Cuando el lector llega aquí, ya conoce el método; lo nuevo es lo que está en juego.
 
 ## 9. El barrio
 
@@ -1380,7 +1380,7 @@ Y **se pone la sudadera de Cole para aparentar que él está en casa.**
 
 > **PENDIENTE (heredado):** ¿quién atacó a Chiara en el hipódromo (ahora en [[#H12 — El atentado / El corral]])? Queda en incógnita a propósito.
 
-> **PENDIENTE:** el sospechoso que Cole secuestró en el Capítulo 9. ¿Vuelve? Un hombre al que secuestraron por nada es una deuda pendiente en un libro donde las deudas vuelven.
+> **PENDIENTE:** el sospechoso que Cole secuestró en el Capítulo 10. ¿Vuelve? Un hombre al que secuestraron por nada es una deuda pendiente en un libro donde las deudas vuelven.
 
 ---
 
@@ -2049,9 +2049,9 @@ El día del **cumpleaños de Chiara** (23 de noviembre), **Chiara se muda oficia
 
 **No ocurre por atentado, ni por vigilancia, ni por necesidad. Ocurre porque lo eligen.** Es la diferencia con [[#H12 — El atentado / El corral]] (refugio) y con [[#H14 — El loft del soltero]] (comodidad creciente sin decisión).
 
-## Beats reservados desde el loft (poda del Cap. 10, 2026-08-29)
+## Beats reservados desde el loft (poda del Cap. 11, 2026-08-29)
 
-Dos gestos domésticos se sacaron del [[#H14 — El loft del soltero|Capítulo 10]] a propósito para que **estrenen aquí** y marquen la diferencia entre *pasar mucho tiempo* y *vivir juntos*:
+Dos gestos domésticos se sacaron del [[#H14 — El loft del soltero|Capítulo 11]] a propósito para que **estrenen aquí** y marquen la diferencia entre *pasar mucho tiempo* y *vivir juntos*:
 
 - **La computadora que por fin se queda** — deja de cargarla todos los días porque ya no tiene a dónde llevársela.
 - **El café listo cada mañana** — la cafetera programada, la taza sacada, esperando a que Cole baje medio dormido. Pasa de gesto suelto a costumbre diaria: es la señal de que ella se despierta y sale al trabajo desde aquí. **Engancha con la frase de la llave** (ver abajo): *"quiero que pases también las mañanas".*
@@ -2086,7 +2086,7 @@ Una **cajita más pequeña, modesta, de madera.** Dentro, **una llave del loft.*
 
 > **PENDIENTE menor:** confirmar el estado de EE. UU. de donde traen la yegua.
 
-> **Continuidad — Vento:** aparece vivo en [[#H12 — El atentado / El corral]] (Capítulo 9, Parte I). Muere ~2 semanas antes de este hito (Parte II). No hay contradicción: media todo el arco H12→H7 entre una cosa y la otra.
+> **Continuidad — Vento:** aparece vivo en [[#H12 — El atentado / El corral]] (Capítulo 10, Parte I). Muere ~2 semanas antes de este hito (Parte II). No hay contradicción: media todo el arco H12→H7 entre una cosa y la otra.
 
 ---
 

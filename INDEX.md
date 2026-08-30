@@ -154,7 +154,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/05_La_Casa_No_Quiere_Ruido]] — Capítulo 5 provisional: cadena de favores, factura enseñable, roces con Tommaso y comienzo de la costumbre de pasar por el Monarch
 - [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/06_Una_Amiga]] — Capítulo 6 provisional: H2-a, primera cena no nombrada como cita, Rocco, camioneta rentada e Il Gelsomino
 - [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos]] — Capítulo 7 provisional: H2-b, penthouse, canciones, calavera, silencios cómodos y primer cruce al tú
-- Capítulos 8–18: el mapa completo y actualizado vive en [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]], "Capítulos en montaje". Nuevo (2026-08-29): [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/13_La_Regla_Del_Telefono]] — Capítulo 13, capítulo puente: fin de semana de campamento de Cole con Marisol Grayson, la regla del teléfono heredada de Michael, y las llamadas perdidas que abren el infarto de Héctor (H10).
+- Capítulos 8–19: el mapa completo y actualizado vive en [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]], "Capítulos en montaje". Nuevo (2026-08-29): [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_La_Regla_Del_Telefono]] — Capítulo 14, capítulo puente: fin de semana de campamento de Cole con Marisol Grayson, la regla del teléfono heredada de Michael, y las llamadas perdidas que abren el infarto de Héctor (H10).
 
 ---
 

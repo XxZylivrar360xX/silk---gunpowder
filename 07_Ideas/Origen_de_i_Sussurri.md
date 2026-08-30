@@ -1,6 +1,6 @@
 # Origen de I Sussurri — semilla de escena
 
-*Los hechos ya son canon — ejecutados en el Capítulo 12 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/12_Roma_Atrii]], partes 1 y 2). Este archivo queda como boceto de referencia; la versión final está en el capítulo. Nota: en el capítulo, el evento altruista se sitúa antes del torneo del Capítulo 11 (no requiere fecha exacta ya fijada en otro lado).*
+*Los hechos ya son canon — ejecutados en el Capítulo 13 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/13_Roma_Atrii]], partes 1 y 2). Este archivo queda como boceto de referencia; la versión final está en el capítulo. Nota: en el capítulo, el evento altruista se sitúa antes del torneo del Capítulo 12 (no requiere fecha exacta ya fijada en otro lado).*
 
 ---
 

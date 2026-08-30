@@ -58,7 +58,7 @@ Encaja con quién es: **es la única persona que quiere a Cole sin deberle nada*
 
 > **PENDIENTE:** ¿llama él a Chiara la noche de H1, o decide no llamarla? Cualquiera de las dos es una escena.
 
-> **RESUELTO (2026-08-26; renumerado 2026-08-29, dos veces):** el momento existe — [[06_Relationships/Hitos]], H10, **Capítulo 15** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/15_Cuatro_Letras]]). No fue tarde: fue en el hospital, después del infarto, cuando le dice a Cole que decidir de qué protege a Chiara no es suyo — es de ella.
+> **RESUELTO (2026-08-26; renumerado 2026-08-29, dos veces):** el momento existe — [[06_Relationships/Hitos]], H10, **Capítulo 15** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/16_Cuatro_Letras]]). No fue tarde: fue en el hospital, después del infarto, cuando le dice a Cole que decidir de qué protege a Chiara no es suyo — es de ella.
 
 > **RESUELTO (2026-08-23):** no había colisión. El sanitario de Afganistán es **Michael Grayson** y su hija **Marisol Grayson**. *Héctor Duarte* es **otro personaje distinto, que el autor definirá después** — nombre reservado, no usar.
 

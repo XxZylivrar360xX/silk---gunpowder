@@ -1,14 +1,14 @@
 <!--
 Estado: borrador provisional.
 Protagonistas: Cole Mercer, Marisol Grayson.
-Ventana temporal: el fin de semana inmediatamente anterior al infarto de Hector / H10. Se inserta entre el Capitulo 12 (Roma Atrii) y el Capitulo 14 (El porton).
+Ventana temporal: el fin de semana inmediatamente anterior al infarto de Hector / H10. Se inserta entre el Capitulo 13 (Roma Atrii) y el Capitulo 15 (El porton).
 Lugares: La Casa (loft de Cole), la universidad / residencia de Marisol, carretera y camino de tierra al norte, zona de campamento en las montanas, tienda de carretera, regreso a San Aurelio.
 Funcion: capitulo puente / beat de familia. Presentar a Marisol en escena; mostrar por conducta la relacion casi paternal con Cole; explorar "la amiga Chiara" desde alguien que conoce a Cole de antes de Chiara; justificar por caracter (la regla del telefono, heredada de Michael) que Cole quede incomunicado durante el infarto de Hector; cerrar con las llamadas perdidas que abren H10.
 Sin ID de hito. En este punto Cole y Chiara ya tienen vinculo emocional pero TODAVIA NO se han besado; oficialmente son "buenos amigos". Michael Grayson aparece solo por conducta (una regla, un nudo de tienda, un cazo), nunca como elegia.
-Apertura por residuo: arranca del cierre del Capitulo 12 — el papel de "Roma Atrii" sin abrir sobre la repisa y la promesa de Chiara de traer ella misma lo que tenga que llegarle.
+Apertura por residuo: arranca del cierre del Capitulo 13 — el papel de "Roma Atrii" sin abrir sobre la repisa y la promesa de Chiara de traer ella misma lo que tenga que llegarle.
 -->
 
-# Capítulo 13 — La regla del teléfono
+# Capítulo 14 — La regla del teléfono
 
 El papel seguía sobre la repisa, doblado en cuatro, donde llevaba semanas sin que Cole lo tirara ni lo abriera. *Roma Atrii*, arriba del todo, en la letra que ya se sabía de memoria sin haber querido aprenderla. Lo miró un segundo de más mientras cerraba el bolso, decidió otra vez que no era el día, y salió con la casa a medio ordenar.
 
@@ -18,7 +18,7 @@ Cerró con llave y cargó la camioneta del taller, la que no llamaba la atenció
 
 ***
 
-La residencia de la universidad tenía un aparcamiento para diez minutos y un cartel que lo recordaba. Cole llevaba veinte parado ahí cuando Marisol salió arrastrando una mochila que pesaba la mitad que ella.
+La residencia de la universidad tenía un aparcamiento para diez minutos y un cartel que lo recordaba. Cole llevaba veinte parado ahí cuando Marisol salió arrastrando una mochila que pesaba la mitad que ella. Era pequeña y ligera, con el pelo pelirrojo recogido sin cuidado: las puntas decoloradas a rubio le asomaban por encima de la mochila. Tenía pecas sobre la nariz y los pómulos, ojos miel claro que la luz hacía parecer ámbar, y una sonrisa ladeada que ya venía buscando dónde meterse con él.
 
 —Llegas temprano —dijo, por saludo.
 
@@ -29,6 +29,16 @@ La residencia de la universidad tenía un aparcamiento para diez minutos y un ca
 —Y son las nueve.
 
 Metió la mochila atrás, sobre lo que Cole había cargado la noche anterior y vuelto a revisar esa mañana. Se asomó a mirarlo.
+
+Cole miró las puntas rubias antes de mirar el resto del equipaje.
+
+—Sigues con eso.
+
+—Sigues mirándolo como si fuera una avería.
+
+—Es una moda absurda.
+
+La sonrisa de Marisol se ladeó un poco más. El mecanismo lo había aprendido de él; la falta de vergüenza para usarlo, no.
 
 —¿Trajiste una hielera entera?
 

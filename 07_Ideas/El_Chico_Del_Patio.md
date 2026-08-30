@@ -1,6 +1,6 @@
 # El chico del Patio — primer roce Cole/Chiara, semilla de escena
 
-*Los hechos ya son canon — ejecutados en el Capítulo 12 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/12_Roma_Atrii]]), como tercera parte del capítulo. **Placement corregido (2026-08-26):** ocurre semanas después de H2-b / Capítulo 7, no antes — se confirmó no insertar este beat entre capítulos ya escritos. Ubicado como beat 13-b en [[01_Timeline/01_Primer_Borrador_Beats]]. Este archivo queda como boceto de referencia; la versión final está en el capítulo.*
+*Los hechos ya son canon — ejecutados en el Capítulo 13 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/13_Roma_Atrii]]), como tercera parte del capítulo. **Placement corregido (2026-08-26):** ocurre semanas después de H2-b / Capítulo 7, no antes — se confirmó no insertar este beat entre capítulos ya escritos. Ubicado como beat 13-b en [[01_Timeline/01_Primer_Borrador_Beats]]. Este archivo queda como boceto de referencia; la versión final está en el capítulo.*
 
 ---
 
@@ -114,7 +114,7 @@ No supo qué hacer con eso el resto del día.
 
 > **RESUELTO (2026-08-26):** Cole sí pregunta qué significa "Roma Atrii", en esta misma escena. Chiara se lo niega explícitamente ("Eso no te lo voy a decir. Todavía no.") — una promesa aplazada, no un cierre. **PENDIENTE, AUTOR — arco reservado:** el pago es el cumpleaños de Chiara (23 de noviembre); el agente no debe inventar cómo ni qué exactamente se revela ese día, a la espera de que el autor lo detalle.
 
-> **RESUELTO (2026-08-26):** ubicación exacta en la línea de tiempo — beat 13-b en [[01_Timeline/01_Primer_Borrador_Beats]], semanas después de H2-b (Capítulo 7), ya con i Sussurri en marcha. Ejecutado como parte del Capítulo 12.
+> **RESUELTO (2026-08-26):** ubicación exacta en la línea de tiempo — beat 13-b en [[01_Timeline/01_Primer_Borrador_Beats]], semanas después de H2-b (Capítulo 7), ya con i Sussurri en marcha. Ejecutado como parte del Capítulo 13.
 
 > **PENDIENTE:** si Chiara sabe, en el momento de la escena, que este botón específico es tan grande para Cole (origen, Halbrook, Marisol) — o si sólo entiende "no uses niños" sin la profundidad completa. El borrador asume que no lo sabe todavía; lo entiende después, y eso puede valer una escena propia más adelante.
 

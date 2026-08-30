@@ -1,12 +1,12 @@
 <!--
 Estado: borrador provisional.
 Protagonistas: Chiara Bellandi, Cole Mercer, con aparicion breve de Dario Varek.
-Ventana temporal: dias despues del Capitulo 17 (el mirador). Reordenado el 2026-08-29; renumerado el 2026-08-29 al insertarse el Capitulo 13 (La regla del telefono).
+Ventana temporal: dias despues del Capitulo 18 (el mirador). Reordenado el 2026-08-29; renumerado el 2026-08-29 al insertarse el Capitulo 14 (La regla del telefono) y de nuevo al adelantarse H9 como Capitulo 9 (La carrera de mascaras).
 Lugares: The Monarch Casino & Hotel, calles de Paseo Pacifica, Almendra Towing.
 Funcion: ejecutar beats 16 y 17 — un trabajo chico y sucio resuelto juntos, sin nombrarlo como hito (ese titulo lo conserva H5), y Dario notando por primera vez una variacion en Chiara que no viene solo del Monarch.
 -->
 
-# Capítulo 18 — Sin rastro
+# Capítulo 19 — Sin rastro
 
 La llamada llegó a las tres y once de la madrugada.
 

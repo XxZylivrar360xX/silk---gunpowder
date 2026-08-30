@@ -34,6 +34,6 @@ Misterios o verdades que cruzan todo *Seda y Polvora* o que no pertenecen a un s
 - **Quien ya lo sabe:** Chiara; quien construyo la version; quizá Valenti, sin confirmarlo jamas.
 - **Quien NO debe saberlo/insinuarlo todavia:** Cole al inicio; el lector no debe recibir motivos inventados; Tommaso no debe confirmar conocimiento si no esta decidido.
 - **Lineas o gestos prohibidos:** explicar los motivos completos, convertir a Alessio en monstruo plano, resolver si Valenti creyo o no, y **nombrar en prosa que fue Chiara quien lo mato antes de la escena de revelacion.**
-- **Capa permitida antes de la revelacion (2026-08-28):** el Capitulo 9 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Corral]]) establece, sin nombrar el homicidio, que Alessio le hizo mucho daño y que el mundo no la escucho — "un infierno que vivio en Roma". Esto es abuso confirmado, no el dato de quien lo mato.
+- **Capa permitida antes de la revelacion (2026-08-28):** el Capitulo 9 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Corral]]) establece, sin nombrar el homicidio, que Alessio le hizo mucho daño y que el mundo no la escucho — "un infierno que vivio en Roma". Esto es abuso confirmado, no el dato de quien lo mato.
 - **La revelacion en si:** **CANON DEL AUTOR (2026-08-28) — ocurre en el campo de golf.** Escena y capitulo exactos: pendientes de escribir.
 - **Estado:** canon parcial; verdad completa pendiente del autor hasta la escena del campo de golf.

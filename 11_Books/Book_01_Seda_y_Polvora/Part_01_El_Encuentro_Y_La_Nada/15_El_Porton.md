@@ -1,14 +1,14 @@
 <!--
 Estado: borrador provisional.
 Protagonistas: Cole Mercer, Chiara Bellandi, con apariciones de Walter Keegan (solo por telefono/mencion), Hector Navarro, Nadir Amrani y Daniel Hayes.
-Ventana temporal: el fin de semana del Capitulo 13 (La regla del telefono) y el domingo en que Cole vuelve. Bajo la reordenacion del 2026-08-29, H10 va ANTES de H4 y H11 — en este punto Cole y Chiara TODAVIA NO se han besado.
+Ventana temporal: el fin de semana del Capitulo 14 (La regla del telefono) y el domingo en que Cole vuelve. Bajo la reordenacion del 2026-08-29, H10 va ANTES de H4 y H11 — en este punto Cole y Chiara TODAVIA NO se han besado.
 Lugares: arcen de la carretera del norte, territorio de La Ronda del Canal, Almendra Towing / El Patio, casa de Hector, Hospital Santa Aurelia (mencion), La Casa (loft de Cole), The Monarch Casino & Hotel.
-Funcion: ejecutar la primera mitad de H10 — el robo fallido de Nadir y Danny, el infarto de Hector, la cadena de intentos de contacto que fracasa, la carta como ultimo canal fisico y la carrera al casino. Cierra antes del hospital, que se resuelve en el Capitulo 15.
-Causalidad corregida el 2026-08-29 (encargo [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]]): Cole ya NO sale a mover hierba con Walt. Esta de campamento con Marisol (Cap. 13), incomunicado por la regla del telefono. Walt se queda en la ciudad. La incomunicacion es una decision de caracter, no un accidente. "Nadie me aviso" se recontextualiza: lo intentaron y no pudieron.
-Apertura por residuo: arranca del cierre del Capitulo 13 — Cole orillado, el telefono encendido y las llamadas perdidas cayendo de golpe.
+Funcion: ejecutar la primera mitad de H10 — el robo fallido de Nadir y Danny, el infarto de Hector, la cadena de intentos de contacto que fracasa, la carta como ultimo canal fisico y la carrera al casino. Cierra antes del hospital, que se resuelve en el Capitulo 16.
+Causalidad corregida el 2026-08-29 (encargo [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]]): Cole ya NO sale a mover hierba con Walt. Esta de campamento con Marisol (Cap. 14), incomunicado por la regla del telefono. Walt se queda en la ciudad. La incomunicacion es una decision de caracter, no un accidente. "Nadie me aviso" se recontextualiza: lo intentaron y no pudieron.
+Apertura por residuo: arranca del cierre del Capitulo 14 — Cole orillado, el telefono encendido y las llamadas perdidas cayendo de golpe.
 -->
 
-# Capítulo 14 — El portón
+# Capítulo 15 — El portón
 
 Cole llevaba diez minutos parado en el arcén con el motor encendido y el teléfono en la mano.
 

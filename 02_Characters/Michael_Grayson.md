@@ -54,7 +54,7 @@ Por ahora, su método narrativo es póstumo: deja una obligación que Cole acept
 
 ### Sembrado por conducta (borrador Cap. 13 — *La regla del teléfono*)
 
-En [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/13_La_Regla_Del_Telefono]], Michael aparece **sólo por lo que dejó**, nunca en recuerdo dramatizado ni en elegía:
+En [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_La_Regla_Del_Telefono]], Michael aparece **sólo por lo que dejó**, nunca en recuerdo dramatizado ni en elegía:
 
 - **La regla del teléfono.** Michael instauró que durante el campamento los teléfonos se guardan hasta volver. Cole estaba presente cuando la puso. Marisol la hace cumplir hoy.
 - **El campamento como costumbre.** Cole y Marisol tienen un sitio de siempre en la montaña, al norte; una tradición vieja que no se fecha con precisión y que estaban recuperando.

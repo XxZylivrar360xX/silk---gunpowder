@@ -1,12 +1,12 @@
 <!--
 Estado: borrador provisional.
 Protagonistas: Chiara Bellandi, con apariciones de Mabel Ortiz y Walter "Walt" Keegan.
-Ventana temporal: semanas despues del Capitulo 8 (la noche del ladrillo) -- de por medio ocurrio todo el arco de H12 en los Capitulos 9-10 (el ataque, la casa comun, la recompra y el diseno de la casa de Cole). Chiara ya deja cosas suyas en la casa de el por costumbre, pero conserva el penthouse como base -- no hubo mudanza formal, y esa costumbre no se anuncia en esta escena.
+Ventana temporal: semanas despues del Capitulo 8 (la noche del ladrillo) -- de por medio ocurrieron H9 (Capitulo 9, la carrera de mascaras) y todo el arco de H12 en los Capitulos 10-11 (el ataque, la casa comun, la recompra y el diseno de la casa de Cole). Chiara ya deja cosas suyas en la casa de el por costumbre, pero conserva el penthouse como base -- no hubo mudanza formal, y esa costumbre no se anuncia en esta escena.
 Lugares: El Penthouse, La Esquina de Mabel (La Almendra), The Monarch Casino & Hotel (piso de juego, torneo de poker).
 Funcion: ejecutar beats 12 y 12-b — nace en pequeno la red civil de Chiara (Mabel), y se ejecuta el primer torneo de poker: aparece Walter Keegan, extraordinario mintiendo en la mesa, y nace la relacion cordial de la que saldra la destileria.
 -->
 
-# Capítulo 11 — El farol
+# Capítulo 12 — El farol
 
 El ladrillo de arcilla seguía en la repisa de la entrada, donde Chiara lo había dejado la noche de Gabriella's sin decidir todavía si guardarlo o tirarlo.
 

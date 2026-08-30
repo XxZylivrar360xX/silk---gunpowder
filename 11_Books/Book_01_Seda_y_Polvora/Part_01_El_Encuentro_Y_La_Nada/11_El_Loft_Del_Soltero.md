@@ -1,12 +1,12 @@
 <!--
 Estado: borrador provisional.
 Protagonistas: Cole Mercer, Chiara Bellandi, Nadir Amrani.
-Ventana temporal: continua directamente del Capitulo 9. Semanas en la casa comun, despues la recompra y el diseno de la casa.
+Ventana temporal: continua directamente del Capitulo 10. Semanas en la casa comun, despues la recompra y el diseno de la casa.
 Lugares: Casa Comunitaria de La Almendra, La Casa (la vieja casa de los padres de Cole).
 Funcion: ejecutar el hito "El loft del soltero" -- la friccion con Nadir, la recompra, el diseno pagado por Chiara, la comodidad domestica que empieza a crecer. Chiara NO se muda aqui (eso es un hito posterior, el cumpleanos): deja objetos sueltos y se queda alguna noche, nada mas. Poda quirurgica 2026-08-29: se quitaron los marcadores de convivencia diaria (laptop instalada, rutina de trabajo desde la casa, cafe cada manana).
 -->
 
-# Capítulo 10 — El loft del soltero
+# Capítulo 11 — El loft del soltero
 
 Nadir no volvió a mirarla como a un huésped después del primer día. La miró como a un problema que todavía no había decidido cómo nombrar.
 

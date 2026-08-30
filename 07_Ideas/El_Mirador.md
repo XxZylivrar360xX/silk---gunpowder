@@ -1,8 +1,8 @@
 # El mirador — boceto de escena para H11
 
-*Los hechos son canon del autor — ver [[06_Relationships/Hitos]], H11, para la versión definitiva. Ya ejecutado en el **Capítulo 17** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/17_El_Mirador]]). Este archivo queda como boceto de referencia; la versión final está en el capítulo.*
+*Los hechos son canon del autor — ver [[06_Relationships/Hitos]], H11, para la versión definitiva. Ya ejecutado en el **Capítulo 18** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/18_El_Mirador]]). Este archivo queda como boceto de referencia; la versión final está en el capítulo.*
 
-> **NOTA (2026-08-29):** en la cronología consolidada, H11 se reposicionó a **después de H10 y H4** (secuencia `H12 → loft → H10 → H4 → H11`). Los capítulos se renumeraron: el mirador es ahora el Cap. 17 (tras insertarse el Cap. 13, "La regla del telefono"). Su apertura ya se reescribió (triaje PROSA-B): arranca del residuo del Cap. 16 (H4) en vez del de "Roma Atrii".
+> **NOTA (2026-08-29):** en la cronología consolidada, H11 se reposicionó a **después de H10 y H4** (secuencia `H12 → loft → H10 → H4 → H11`). Los capítulos se renumeraron: el mirador es ahora el Cap. 18 (tras insertarse el Cap. 14, "La regla del telefono"). Su apertura ya se reescribió (triaje PROSA-B): arranca del residuo del Cap. 17 (H4) en vez del de "Roma Atrii".
 
 ---
 
