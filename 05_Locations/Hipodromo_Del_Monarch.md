@@ -9,9 +9,11 @@
 
 ## Función narrativa
 
-Es donde Chiara va a montar los domingos que el hipódromo no tiene actividad — su versión de "tierra, no gente" dentro de un lugar que sigue siendo, técnicamente, trabajo. Tiene un caballo propio ahí, **Vento**.
+Es donde Chiara va a montar los domingos que el hipódromo no tiene actividad — su versión de "tierra, no gente" dentro de un lugar que sigue siendo, técnicamente, trabajo. Tiene un caballo propio ahí, **Vento** (macho).
 
 Es el escenario del ataque de [[06_Relationships/Hitos]], H12 — "El corral". Cole entra armado al Monarch (domingo, cerrado) buscándola, baja al hipódromo desde el penthouse sin necesitar auto (misma propiedad), y la encuentra inconsciente junto al corral.
+
+> **CANON — Vento (2026-08-29):** vivo durante toda la Parte I (aparece en el Capítulo 9 / H12). Ya en la Parte II, **~2 semanas antes del [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial|cumpleaños de Chiara]], una fractura por la edad obliga a sacrificarlo.** Chiara pasa esas semanas de duelo. En el cumpleaños, Cole le regala **una yegua blanca** traída de otro estado (odisea cómica con Héctor) — animal nuevo, no reemplazo. **PENDIENTE:** nombre de la yegua.
 
 ---
 

@@ -116,7 +116,7 @@ Walt empieza a seguir, sin decirlo así, el mismo método de Cole para hacer neg
 
 ## Apariciones canon
 
-- **[[06_Relationships/Hitos]], H5, movimiento 12** — Cole le manda un mensaje el día que sale de la ciudad de emergencia. *(Qué contiene ese mensaje: parte 2 del arco, por recibir.)*
+- **[[06_Relationships/Hitos#H5 — San Aurelio|H5 — San Aurelio]], sección 12** — Cole le manda un mensaje el día que sale de la ciudad de emergencia. Canon funcional del texto: *"Cuida el barrio. Si Chiara necesita algo, ayúdala sin chistar."* *(Qué desencadena la salida: PENDIENTE.)*
 
 ---
 

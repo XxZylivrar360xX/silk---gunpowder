@@ -74,8 +74,8 @@ No son tiempos de GPS. Son tiempos de escena: trafico, hora, presion policial y 
 | --- | ---: | ---: | --- |
 | La Almendra -> The Monarch / Distrito Marino | 22 min | 14 min por atajos industriales; 35+ con cierres | Chiara entre casino y mundo de Cole |
 | The Monarch / penthouse -> Il Gelsomino | 8-15 min | 6-10 min | Citas, acuerdos, cenas vigiladas |
-| The Monarch -> Hipodromo | 18 min | 12 min de noche | Vida de elite, caballerizas, H5 |
-| Hipodromo -> Hospital Santa Aurelia | 16 min | 9-11 min si Cole conduce al limite | Ataque a Chiara |
+| The Monarch -> Hipodromo | misma propiedad (a pie) | — | Vida de elite, caballerizas, H12 *(el hipodromo del Monarch es la misma propiedad; ver [[05_Locations/Hipodromo_Del_Monarch]])* |
+| Hipodromo -> Hospital Santa Aurelia | 16 min | 9-11 min si Cole conduce al limite | Ataque a Chiara (H12) |
 | La Almendra -> Hospital Santa Aurelia | 12-18 min | 10 min, pero muy visible | Heridas oficiales, escenas con reporte |
 | La Almendra -> Villa Candelaria / Lomas de San Jacinto | 30-38 min | 24 min | Distancia fisica y de clase |
 | La Villa -> Iglesia Santa Lucia | 18-25 min | 15 min | Fe, velas, retorno emocional |

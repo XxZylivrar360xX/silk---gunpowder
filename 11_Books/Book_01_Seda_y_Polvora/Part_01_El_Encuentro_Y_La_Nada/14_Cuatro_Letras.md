@@ -1,12 +1,12 @@
 <!--
 Estado: borrador provisional.
 Protagonistas: Cole Mercer, Chiara Bellandi, Hector Navarro.
-Ventana temporal: continua directamente del Capitulo 14. Incluye un salto breve a un dia anterior (visita de Chiara sola).
+Ventana temporal: continua directamente del Capitulo 13 (el porton). Incluye un salto breve a un dia anterior (visita de Chiara sola). Reordenado el 2026-08-29.
 Lugares: Hospital Santa Aurelia.
 Funcion: ejecutar la segunda mitad de H10 — las dos conversaciones de Hector (con Chiara y con Cole) y el cierre: la mano sobre la mano.
 -->
 
-# Capítulo 15 — Cuatro letras
+# Capítulo 14 — Cuatro letras
 
 Dos días antes de que Cole volviera, Chiara ya conocía el camino al cuarto de Héctor de memoria.
 

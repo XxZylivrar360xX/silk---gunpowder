@@ -1,16 +1,17 @@
 <!--
 Estado: borrador provisional.
 Protagonistas: Cole Mercer, Chiara Bellandi.
-Ventana temporal: dias despues del Capitulo 12 (el roce del chico del Patio).
+Ventana temporal: despues del Capitulo 15 (H4, el dia nublado). Reordenado el 2026-08-29: H11 pasa a ir DESPUES de H10 y H4.
 Lugares: bolera de la playa, carretera del norte, El Mirador, The Monarch Casino & Hotel / El Penthouse.
 Funcion: ejecutar H11 — la primera vez que Cole y Chiara tienen intimidad. Bolos, el drift, el mirador (Cole rompe su regla de nunca hablar de Dale y Ruth Mercer), y el penthouse.
+Apertura por residuo (reescrita 2026-08-29, triaje PROSA-B): abre con el residuo del Capitulo 15 (H4, el dia nublado) — lo que Chiara le conto del exmarido, lo que Cole entendio sin que ella lo dijera y no ha vuelto a tocar, y la ficcion de "somos solo buenos amigos". Antes abria con el residuo de "Roma Atrii" (Cap. 12), que ya se recoge en el Cap. 13. Ver [[06_Relationships/Hitos]], H11 y la politica de apertura por residuo.
 -->
 
-# Capítulo 13 — El mirador
+# Capítulo 16 — El mirador
 
-*Roma Atrii* no volvió a aparecer entre ellos, pero tampoco se fue del todo.
+El día nublado no volvió a mencionarse entre ellos, pero tampoco se fue del todo.
 
-Cole lo notaba en los ratos raros — parado frente a una grúa, a mitad de una llamada, en la fila de la comisaría — el nombre volviendo sin avisar, sin significar nada más que lo que ya significaba: una pregunta sin contestar y una mujer que se la había dejado ahí a propósito. No le molestaba tanto como debería. Eso lo molestaba más que el nombre.
+Cole lo notaba en los ratos raros — parado frente a una grúa, a mitad de una llamada, en la fila de la comisaría —: la tarde del campo de golf volviendo sin avisar. No la parte del final, la del hombro y la mano y quedarse dormidos en el sofá como dos que no tienen dónde más caerse; esa se la quedaba entera y sin problema. Volvía la otra parte: lo que ella le había contado entre el búnker del quinto hoyo y el aparcamiento del casino, y lo que él había entendido sin que ella lo dijera. Cole no lo había vuelto a tocar. Ni una palabra. Y no le pesaba tanto como debería, que era lo que más lo molestaba.
 
 Chiara lo notó antes de que él dijera nada.
 
@@ -20,7 +21,9 @@ Chiara lo notó antes de que él dijera nada.
 
 —Estás aquí y en otro lado.
 
-No discutieron eso. Fue ella la que llamó dos días después, sin excusa de negocios, sin pretexto de casino.
+No discutieron eso. Semanas de *somos sólo buenos amigos* dichas en voz alta a quien preguntara, y por debajo esto: una tarde gris que ninguno nombraba y que seguía ahí, entera, entre los dos.
+
+Fue ella la que llamó dos días después, sin excusa de negocios, sin pretexto de casino.
 
 —Bolos —dijo, como si la palabra sola explicara todo—. Hay una bolera en la playa. Nunca he ido a una.
 

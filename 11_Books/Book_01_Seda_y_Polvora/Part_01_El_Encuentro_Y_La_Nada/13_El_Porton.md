@@ -1,46 +1,37 @@
 <!--
 Estado: borrador provisional.
 Protagonistas: Cole Mercer, Chiara Bellandi, con apariciones de Walter Keegan, Hector Navarro, Nadir Amrani y Daniel Hayes.
-Ventana temporal: dias despues del Capitulo 13 (el mirador).
+Ventana temporal: dias despues del Capitulo 12 (Roma Atrii). Bajo la reordenacion del 2026-08-29, H10 va ANTES de H4 y H11 — en este punto Cole y Chiara TODAVIA NO se han besado.
 Lugares: La Casa (loft de los padres de Cole), ruta hacia el norte, territorio de La Ronda del Canal, Almendra Towing / El Patio, The Monarch Casino & Hotel.
-Funcion: ejecutar la primera mitad de H10 — el viaje de la hierba, el robo fallido de Nadir y Danny, el infarto de Hector, la carta y la carrera al casino. Cierra antes del hospital, que se resuelve en el Capitulo 15.
+Funcion: ejecutar la primera mitad de H10 — el viaje de la hierba, el robo fallido de Nadir y Danny, el infarto de Hector, la carta y la carrera al casino. Cierra antes del hospital, que se resuelve en el Capitulo 14.
+Apertura (reescrita el 2026-08-29, triaje PROSA-A): arranca del residuo del Capitulo 12 — el papel de "Roma Atrii" sin resolver sobre la repisa y la promesa de Chiara de traer ella misma lo que tenga que llegarle — y monta el arranque de H10 sin intimidad previa.
 -->
 
-# Capítulo 14 — El portón
+# Capítulo 13 — El portón
 
-Chiara despertó primero.
+Hacía días que el papel estaba sobre la repisa de la casa, doblado en cuatro, donde Cole lo había dejado al volver del casino y no lo había vuelto a tocar.
 
-No se movió enseguida. Se quedó mirando el techo del penthouse con la clase de quietud que no buscaba nada — ni la hora, ni el teléfono, ni la lista del día — sólo el peso todavía nuevo de un brazo que no era suyo cruzándole la cintura.
+No lo tiraba y no lo abría. *Roma Atrii*, arriba del todo, en la letra que ya conocía sin haber querido aprenderla; debajo, las líneas en el idioma que no leía. Chiara le había dado su palabra de que no volvía a mandar a un chico a buscarlo, y le había dejado dicho, sin que él lo pidiera, que de ahí en más lo que tuviera que llegarle lo traía ella misma. Cole todavía no sabía si eso lo tranquilizaba.
 
-Cole despertó cuando ella ya llevaba un rato despierta.
+Lo comprobó esa tarde. Chiara apareció en la puerta sin avisar, con un sobre en la mano y la cara de quien estrena una costumbre y no está segura de que le quede bien.
 
-—¿Cuánto llevas así?
+—Dijiste que lo traías tú.
 
-—Suficiente.
+—Lo estoy trayendo yo.
 
-—¿Y no dijiste nada?
+Era un nombre y poco más — un comprador del norte que podía pagar bien la hierba de Nadir sin hacer preguntas. Cole lo leyó dos veces y lo dejó en la repisa, junto al otro papel.
 
-—Estaba viendo si te ibas a mover primero.
+—Me viene bien. Salgo para allá mañana.
 
-—Nunca me muevo primero.
+—¿Al norte?
 
-—Ya lo sé —dijo ella, y no había queja en la voz.
-
-Se quedaron así un rato más, sin urgencia, hasta que el teléfono de Cole vibró sobre la mesa de noche y los dos supieron, sin mirarlo, que el mundo acababa de acordarse de que existían por separado.
-
-***
-
-—Es un día. Dos como mucho.
-
-Chiara terminaba de vestirse mientras él hablaba, mitad para ella y mitad para sí mismo, la forma que tenía de convencerse de algo antes de convencer a nadie más.
-
-—Nadir cultivó más de lo que puede mover solo aquí. Hay que sacarlo al norte, venderlo bien, volver.
+—Nadir cultivó más de lo que puede mover solo aquí. Hay que sacarlo, venderlo bien, volver. Es un día. Dos como mucho.
 
 —¿Y por qué vas tú?
 
 —Porque Walt conoce la ruta y a mí no me gusta que la maneje solo la primera vez.
 
-Chiara se acomodó el cabello frente al espejo, mirándolo por el reflejo.
+Chiara asintió despacio, como si guardara el dato para después.
 
 —Cuídate.
 
@@ -48,7 +39,7 @@ Chiara se acomodó el cabello frente al espejo, mirándolo por el reflejo.
 
 —Eso no es lo mismo que hacerlo.
 
-Cole se acercó, le tocó el hombro con dos dedos, breve, y salió sin decir nada más porque ya lo había dicho de la única forma que sabía.
+Cole se acercó, le tocó el hombro con dos dedos, breve. No dijo nada más: ya lo había dicho de la única forma que sabía.
 
 ***
 

@@ -4,27 +4,46 @@ Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni
 
 **Convención:** lo marcado como **CANON DEL AUTOR** es intocable — no se reinterpreta, no se sustituye, no se "mejora". Las **líneas de diálogo canon van citadas textualmente** y no se reescriben; sólo se les puede ajustar la puntuación al maquetar la prosa. Lo marcado como **DISEÑO** son consecuencias derivadas por el agente y se pueden discutir. Lo marcado como **PENDIENTE** falta, y no debe inventarse por conveniencia de una escena.
 
-**Los IDs se asignan en orden de recepción, no cronológico.** Son etiquetas estables para poder citarlas desde otros archivos sin renombrar nada. El orden de la historia va aparte:
+**Los IDs se asignan en orden de recepción, no cronológico.** Son etiquetas estables para poder citarlas desde otros archivos sin renombrar nada. **Los IDs H2, H3, H4, H5, etc. no se renumeran para volverlos cronológicos.** Los hitos de la consolidación de cronología recibieron IDs el 2026-08-29: **H14** El loft del soltero · **H15** La noche del jacuzzi · **H16** El cumpleaños / la mudanza · **H17** Italia / Mesa de las Familias · **H18** El regreso de Palermo · **H19** El asalto a Camp Alder · **H20** Consecuencia: Halbrook / prisión militar / Lucia · **H21** Mi pareja. El orden de la historia va aparte:
+
+> **CONSOLIDACIÓN DE CRONOLOGÍA RELACIONAL (2026-08-29, CANON DEL AUTOR).** El autor redefinió el orden del arco temprano de Cole y Chiara. Esta tabla y las notas de posición de cada hito **superseden** cualquier posición anterior incompatible. Cambios principales: **H9** se adelanta a entre H3 y H12; **El loft del soltero** se separa de H12 como hito propio; **H10 → H4 → H11** en ese orden (la primera intimidad, H11, ocurre *después* de H10 y H4); **La noche del jacuzzi** se separa de H5 como hito propio, inmediatamente antes de H5; **H5 deja de ser "El hipódromo" y pasa a ser "San Aurelio"**; la **mudanza oficial** se retrasa al cumpleaños de Chiara; **"Mi pareja"** (formalización verbal) ocurre muy tarde, después de Palermo y del asalto a Camp Alder. Progresión emocional: `confianza → protección → espacio → conocimiento → intimidad → apertura → amenaza → lealtad → hogar → fricción → riesgo de pérdida → nombre`. Ver el encargo completo en [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_CONSOLIDAR_NUEVA_LINEA_TEMPORAL_RELACIONAL]].
 
 | Orden en la novela | Hito |
 |---|---|
-| 1 | **H2** — El apretón de manos *(el encuentro, y la cadena de favores que lo sigue)* |
-| 2 | **H2-a** — La primera cena |
-| 3 | **H2-b** — La noche que todo cambió |
-| 4 | **H3** — La noche del ladrillo *(a: el florero · b: las calcetas blancas · c: el ladrillo)* |
-| 5 | **H12** — El corral *(el ataque, la casa común, la fricción con Nadir, la recompra y el diseño de la casa, la vida doméstica que crece)* |
-| 6 | **H11** — El mirador *(bolos, el drift, las estrellas — la primera vez)* |
-| 7 | **H10** — El infarto de Héctor *(Héctor los empuja al otro; la mano sobre la mano)* |
-| 8 | **H13** — El pañuelo *(el Consorcio la intercepta en la iglesia; posición aproximada — ocurre "en paz", después de que H12 se asiente; fecha exacta pendiente)* |
-| 9 | **H4** — El día nublado *(la cita del golf; aquí se define la relación)* |
-| 10 | **H9** — La carrera de máscaras *(la primera salida fuera de la zona de confort de Chiara)* |
-| 11 | **H5** — El hipódromo *(arco de la tensión, parte 1)* |
-| 12 | **H6** — El pacto *(arco de la tensión, parte 2)* |
-| 13 | **H7** — El río *(arco de la tensión, parte 3 — el cierre)* |
-| 14 | **H8** — El incendio, la mentira y la villa |
-| … | **Hito por numerar** — Mi pareja *(formalización verbal de Cole y Chiara)* |
-| … | **Hito mayor por numerar** — La iglesia, la caída y la ejecución de Dario Varek |
-| … | *(primera Navidad, mudanza — por recibir)* |
+| 1 | **H2** — El apretón de manos + cadena de favores *(extraños → aliados)* |
+| 2 | **H2-a** — La primera cena *(amistad con química evidente)* |
+| 3 | **H2-b** — La noche que todo cambió *(amistad íntima; madre simbólica del jacuzzi)* |
+| 4 | **H3** — La noche del ladrillo *(a: el florero · b: las calcetas blancas · c: el ladrillo; atracción ya reconocida por Chiara)* |
+| 5 | **H9** — La carrera de máscaras *(primera salida fuera de la zona de confort de Chiara; ahora entre H3 y H12)* |
+| 6 | **H12** — El atentado / El corral *(el ataque, el hospital, la investigación fallida, el refugio temporal en La Almendra)* |
+| 7 | **H14 — El loft del soltero** *(Cole recompra la casa de sus padres; Chiara la diseña; ella todavía NO se muda)* |
+| 8 | **H10** — El infarto de Héctor *(Héctor los empuja al otro; la mano sobre la mano; terceros ya los leen)* |
+| 9 | **H4** — El día nublado *(la cita del golf; se profundiza la elección — NO se formaliza)* |
+| 10 | **H11** — El mirador *(bolos, el drift, las estrellas — el primer beso y la primera intimidad)* |
+| 11 | **H15 — La noche del jacuzzi** *(máxima apertura deliberada; Varek advierte a Chiara de madrugada)* |
+| — | **· · · CORTE PARTE I → PARTE II · · ·** *(fijado 2026-08-29, autor — Costura A: la Parte I cierra con H11 + el jacuzzi; la Parte II arranca en H5. Ver [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] > "Umbrales auditados > A".)* |
+| 12 | **H5** — San Aurelio *(Cole sale de la ciudad; "me encuentro bien"; confrontación Varek–Chiara — arco de la tensión, parte 1)* |
+| 13 | **H6** — El pacto *(arco de la tensión, parte 2)* |
+| 14 | **H7** — El río *(arco de la tensión, parte 3 — el cierre; pareja de facto sin etiqueta)* |
+| 15 | **H16 — El cumpleaños / la mudanza oficial** *(Chiara se muda con Cole el día de su cumpleaños; porque lo eligen)* |
+| 16 | **H13** — El pañuelo *(Il Consorzio la intercepta saliendo de la iglesia; el pañuelo y la bala; gatillo del viaje a Palermo)* |
+| 17 | **H17 — Italia / Mesa de las Familias** *(viajan juntos a Palermo; la Mesa golpea la relación)* |
+| 18 | **H18 — El regreso de Palermo** *(vuelven separados y con fricción; sin ruptura)* |
+| 19 | **H19 — El asalto a Camp Alder** *(Cole no entra a ver a Chiara para poder cumplir la misión; se entrega para cubrir a Héctor y Nadir)* |
+| 20 | **H20 — Consecuencia: Halbrook / prisión militar / Lucia** *(Halbrook lo saca por un trato; Chiara acude a Lucia, que registra que lo suyo excede los negocios)* |
+| 21 | **H21 — Mi pareja** *(formalización verbal de Cole y Chiara)* |
+
+*Anclas de la Parte II, fijadas por el autor 2026-08-29:* **F4 — Año Nuevo en Washington** (cumpleaños de Cole, 1 de enero) → **F3 — Los frenos** (después de Año Nuevo) → **H8 — El incendio, la mentira y la villa** (después de F3). La posición de este bloque F4→F3→H8 respecto a Italia (17), el regreso de Palermo (18), Camp Alder (19) y "Mi pareja" (21) sigue por afinar. *(F3 y F4 son Momentos de Fractura, no hitos; por eso no llevan número de fila.)*
+
+### Todavía sin colocar definitivamente dentro de este bloque
+
+No insertarlos por intuición. Mantener su posición como PENDIENTE mientras no haya otra decisión del autor.
+
+| Posición | Hito |
+|---|---|
+| Después de F4 y F3 | **H8** — El incendio, la mentira y la villa *(2026-08-29: después de Año Nuevo (F4) y de los frenos (F3); posición fina respecto a Camp Alder y "Mi pareja" por afinar)* |
+| Por recibir | Primera Navidad y el collar · la primera vela · las clases de italiano *(rituales por colocar)* |
+| Parte IV | **Hito mayor por numerar** — La iglesia, la caída y la ejecución de Dario Varek *(después de "Mi pareja")* |
 | Clímax | **H1** — El regreso a casa |
 
 ---
@@ -433,9 +452,15 @@ La noche en que todo cambia es **la única noche del libro en que no puede condu
 
 ---
 
-# H12 — El corral
+# H12 — El atentado / El corral
 
-> **CANON DEL AUTOR (2026-08-27).** Cae después de H3 (Capítulo 8) y antes de H11 (el mirador). **ESCRITO** en los Capítulos 9 y 10 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Corral]] y [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Loft_Del_Soltero]]), justo antes de los capítulos ya escritos que dan la casa por recomprada y diseñada (11 en adelante). Es la **primera aparición en prosa de Il Consorzio**, aunque no se revela como tal en el momento del ataque — sólo se deduce después, ver [[06_Relationships/Hitos]], H13.
+> **CANON DEL AUTOR (2026-08-27; delimitación revisada 2026-08-29).** Cae después de [[#H9 — La carrera de máscaras]] y antes de [[#H14 — El loft del soltero]]. **ESCRITO** en el Capítulo 9 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Corral]]); el Capítulo 10 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Loft_Del_Soltero]]) ejecuta el hito siguiente, ya separado. Es la **primera aparición en prosa de Il Consorzio**, aunque no se revela como tal en el momento del ataque — sólo se deduce después, ver [[#H13 — El pañuelo]].
+
+> **NUEVA DELIMITACIÓN CONCEPTUAL (2026-08-29).** H12 cubre **sólo**: el atentado, el hospital, la investigación inmediata, la salida, y que Chiara termine **refugiándose temporalmente** en [[05_Locations/Casa_Comunitaria_De_La_Almendra]]. La recompra y el diseño de la casa quedan como **hito propio siguiente** ([[#H14 — El loft del soltero]]).
+>
+> **REGLA DURA:** H12 **no significa que Chiara se mude con Cole.** Puede quedarse a recuperarse en la casa común; nada más. La mudanza oficial pertenece al [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños]].
+>
+> **DESFASE DE PROSA — CORREGIDO (2026-08-29, poda quirúrgica / opción A):** el Capítulo 10 (*El Loft Del Soltero*) incluía marcadores de **cohabitación de facto** (almohada "de ella" que Cole deja de mover, computadora que deja de transportar, rutina diaria de salir hacia el Monarch desde la casa, café listo cada mañana). Se podaron. El capítulo ahora deja sólo lo que este hito permite: libro, manta, cepillo, cremas, una taza favorita y noches sueltas. Los beats de la laptop y del café diario se reservan para estrenar en [[#H16 — El cumpleaños / la mudanza oficial]].
 
 ## El ataque
 
@@ -471,7 +496,7 @@ Ejecutado en el Capítulo 9. **Esto absorbe y ejecuta los beats 1-6 de H5 — ve
 - **Dario anuncia "vigilancia" en el casino** — *"un par de hombres, discretos"*. Chiara traduce sin esfuerzo: protección y vigilancia son la misma palabra en su boca. **Y manda un hombre a seguir a Cole** (H5 beat 7).
 - **Cole se ofrece a llevarla al casino.** Dario acepta, "no dice más".
 - **En el camino, Cole detecta el seguidor** — un sedán gris desde el hospital. Cuadran la maniobra: ella **entra por la bahía de carga / túnel este del Monarch** (la "salida de evacuación", ver [[03_Factions/El_Casino]]) para que el seguidor la "vea llegar a casa"; veinte minutos después los dos salen a pie por la rampa de proveedores, sin cámara, fuera de su vista. **Es el beat 8 de H5, con el lugar concretado.**
-- **Van al norte, a un parador de autopista.** Cole le devuelve reloj y efectivo sobre el tablero. Reconstruyen los hechos *"no para la versión, para mí"*. **Chiara está a un centímetro de nombrar el Consorcio y se detiene** — sólo dice que "gente de antes", de la vida de su padre y de los socios, está probando si puede plantar una bandera en San Aurelio, y que no le dará el nombre porque eso metería a Cole en algo que no podría soltar. **Simetría con el beat 11 de H5 (el jacuzzi), donde sí se lo cuenta: aquí sólo se acerca.**
+- **Van al norte, a un parador de autopista.** Cole le devuelve reloj y efectivo sobre el tablero. Reconstruyen los hechos *"no para la versión, para mí"*. **Chiara está a un centímetro de nombrar el Consorcio y se detiene** — sólo dice que "gente de antes", de la vida de su padre y de los socios, está probando si puede plantar una bandera en San Aurelio, y que no le dará el nombre porque eso metería a Cole en algo que no podría soltar. **Simetría con [[#H15 — La noche del jacuzzi]], donde sí le cuenta del Consorcio: aquí sólo se acerca.**
 - **Cole le devuelve sus propias palabras:** *"Ya estoy dentro contigo. ¿O cómo era? Él es Cole Mercer, vengan a conocerlo. Lo dijiste tú."* Ella: **"No. Pero tampoco me arrepiento."**
 - **Chiara pide un motel de paso**; Cole se burla (*"un motel, dice ella… tú vienes conmigo"*). En la cabeza de ella la frase tiene demasiados significados y **se queda con la lectura más económica** — la operativa, la que le deja decir *"sólo esta vez"*. *"La mentira más económica que se dijo en toda la noche."*
 
@@ -487,27 +512,13 @@ Con ella ahí, día tras día, la desconfianza de [[02_Characters/Nadir_Amrani]]
 
 **Los muchachos la dejan quedarse — sin votación.** Alguno pregunta "por cuánto tiempo" con ella lejos; Cole: **"Lo necesario. Hasta que ya no lo sea."** Y basta, porque Cole se ganó ese derecho: nunca les dijo que no a un favor y nunca cobró ninguno — *"a la familia no se le cobran los favores"*. Pueden pelearle a gritos; **dudar de él, no.** Nadir cumple como los demás y, como los demás, calla — pero **es el único que, al decir que sí, no la mira a ella** (engancha con la apertura del Capítulo 10).
 
-## La recompra
-
-Es esa fricción, no la nostalgia ni el cálculo, lo que empuja a [[02_Characters/Cole_Mercer]] a recomprar la vieja casa de sus padres — ver [[05_Locations/La_Casa]]. Necesita un lugar propio para Chiara, lejos de la tensión de la casa común. **Esto resuelve el PENDIENTE que tenía [[05_Locations/La_Casa]] sobre por qué había dejado de ser suya y por qué la recompra ahora.**
-
-## El diseño
-
-Cole la vacía entera y le pide ayuda a Chiara para plantear la distribución — quiere montar "un loft para soltero". Ella llama a una empresa de construcción y decoración y escoge ella misma los muebles. **Chiara paga todo** — pero de cara a los demás, la versión es que fueron "apoyo del casino". Sin proponérselo, diseña la primera casa que terminará siendo de los dos. Ver [[05_Locations/La_Casa]].
-
-## La vida doméstica que crece
-
-Por costumbre, no por decisión, Chiara empieza a dejar cosas suyas en el loft: un libro, una manta, un cepillo de dientes, cremas, una almohada, su computadora personal. Nadie lo anuncia ni lo comenta.
-
-Lo que más importa no son los objetos: es la cotidianidad. El lugar deja de ser un espacio compartido y empieza a ser un hogar construido — desayunos, cenas. Cole es un desastre cocinando. Chiara, las mañanas que sale temprano al casino, deja el café listo para cuando él se levante.
-
-> **Restricción de escritura:** nadie nombra que se están mudando juntos. No hay conversación, no hay anuncio — es exactamente el mismo mecanismo que después reaparece con "vamos a casa" en H7. Ver [[06_Relationships/Cole_y_Chiara]], "Cuándo deja de ser suya y pasa a ser de los dos".
+**Es esa fricción — no la nostalgia ni el cálculo — la que empuja a Cole al hito siguiente.** Ver [[#H14 — El loft del soltero]] para la recompra, el diseño y la vida doméstica que crece.
 
 ## Pendientes
 
 > **PENDIENTE:** gravedad médica exacta — cuánto tiempo pasa hospitalizada (el Capítulo 9 dice "dos o tres días de observación", queda como base salvo que se decida ajustar).
 
-> **PENDIENTE:** cuánto tiempo dura la estancia en la casa común antes de que Cole decida recomprar.
+> **PENDIENTE:** cuánto tiempo dura la estancia en la casa común antes de que Cole decida recomprar (arranca [[#H14 — El loft del soltero]]).
 
 ---
 
@@ -515,9 +526,56 @@ Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Cole_Mercer]]
 
 ---
 
+# H14 — El loft del soltero
+
+> **CANON DEL AUTOR (2026-08-29).** Cae después de [[#H12 — El atentado / El corral]] y antes de [[#H10 — El infarto de Héctor]]. Se separa de H12, del que antes era la segunda mitad. **Ejecutado en prosa en el Capítulo 10** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Loft_Del_Soltero]]); la prosa se podó el 2026-08-29 (opción A) para retirar la convivencia prematura — ver la nota de H12. **ID: H14** (asignado 2026-08-29).
+
+## La recompra
+
+La fricción de la casa común — no la nostalgia ni el cálculo — es lo que empuja a [[02_Characters/Cole_Mercer]] a recomprar la vieja casa de sus padres. Ver [[05_Locations/La_Casa]]. Motivación en tres capas: la estancia temporal de Chiara en el barrio, la falta de privacidad y los roces con [[02_Characters/Nadir_Amrani]] en la casa común, y la necesidad de Cole de tener un espacio propio.
+
+> **No definir el hito como "Cole compra una casa para Chiara".** Cole compra **su propia casa.** Esto resuelve el PENDIENTE que tenía [[05_Locations/La_Casa]] sobre por qué había dejado de ser suya y por qué la recompra ahora.
+
+## El diseño — la ironía estructural
+
+Cole la vacía entera y **le pide ayuda a Chiara** para plantear la distribución: quiere montar **"un loft para soltero".**
+
+Ella lo organiza: llama a una empresa de construcción y decoración, elige ella misma los muebles, articula los gastos — **Chiara paga todo**, pero de cara a los demás la versión es "apoyo del casino" — y deja su gusto inscrito en el lugar.
+
+> La ironía es el hito: **el loft de soltero de Cole termina completamente diseñado por la mujer de la que se está enamorando.** Sin proponérselo, Chiara diseña la primera casa que acabará siendo de los dos. Ver [[05_Locations/La_Casa]].
+
+## La vida doméstica que empieza — pero todavía NO es mudanza
+
+**REGLA DURA: Chiara no se muda todavía.** Lo que puede hacer en esta etapa:
+
+- pasar tiempo;
+- cenar;
+- dormir alguna noche;
+- dejar accidentalmente un libro;
+- tener una taza favorita;
+- sentirse cada vez más cómoda.
+
+**Lo que NO debe documentarse todavía** (podado del Capítulo 10 el 2026-08-29): closet propio, computadora permanentemente instalada, rutina diaria de salir al trabajo desde ahí, cajones propios, mudanza implícita. Esos beats — en concreto **la laptop que por fin se queda** y **el café listo cada mañana** — se reservan para estrenar en el [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños]].
+
+La **mudanza oficial** pertenece al [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños de Chiara]]. Ahí sí llegan cajas, ropa y objetos permanentes, y ocurre **porque lo eligen**, no por atentado ni por necesidad.
+
+> **Función emocional del hito:** *"estoy haciendo espacio para ti sin admitirlo."* Es el paso previo al conocimiento (H4) y a la intimidad (H11).
+
+## Pendientes
+
+> **PENDIENTE:** ¿sabe Chiara de quién era la casa cuando la diseña? Las dos respuestas son buenas y muy distintas.
+
+> **RESUELTO (2026-08-29, opción A):** la prosa del Capítulo 10 se podó — se quitaron la almohada "de ella", la laptop instalada y la rutina del café diario; quedan libro, manta, cepillo, cremas, taza favorita y noches sueltas.
+
+---
+
+Ver también: [[02_Characters/Cole_Mercer]] · [[02_Characters/Chiara_Bellandi]] · [[05_Locations/La_Casa]] · [[06_Relationships/Cole_y_Chiara]]
+
+---
+
 # H13 — El pañuelo
 
-> **CANON DEL AUTOR (2026-08-27).** Ocurre después de que H12 se asiente — "cuando todo esté en paz", en palabras del autor. Posición exacta en la línea de tiempo pendiente de afinar; no está escrito todavía. **Arco reservado: planta la idea de un viaje futuro a Palermo, después del cumpleaños de Chiara (23 de noviembre) — el agente no debe adelantar ni inventar contenido de ese viaje.**
+> **CANON DEL AUTOR (2026-08-27; posición fijada 2026-08-29).** **Posición canon:** ocurre **después del [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños / la mudanza]] e inmediatamente antes de [[#H17 — Italia / Mesa de las Familias|Italia / Mesa de las Familias]]** — es el gatillo de ese viaje. No está escrito todavía. **Arco reservado: planta el viaje a Palermo — el agente no debe adelantar ni inventar contenido de ese viaje.**
 
 ## La intercepción
 
@@ -547,7 +605,7 @@ Es la primera vez que el Consorcio deja constancia de que sabe de Cole.
 
 ## Lo que hace Chiara después
 
-Investiga sin pruebas. Deduce, sin poder confirmarlo, que fue el Consorcio quien la atacó en H12. Esa deducción es lo que le planta la idea — para más adelante, después de su cumpleaños — de viajar a Palermo a investigar por su cuenta.
+Investiga sin pruebas. Deduce, sin poder confirmarlo, que fue el Consorcio quien la atacó en H12. Esa deducción es lo que le planta la idea — para más adelante, después de su cumpleaños — de viajar a Palermo a investigar por su cuenta. Ese viaje se ejecuta en [[#H17 — Italia / Mesa de las Familias]] (contenido reservado).
 
 ## Por qué Cole insiste en ir con ella — CANON DEL AUTOR (2026-08-27)
 
@@ -557,7 +615,7 @@ Cole nunca cerró su propia investigación de H12 — quedó sin pistas, sin res
 
 ## Pendientes
 
-> **PENDIENTE:** ubicación en la línea de tiempo — después de H12, antes de qué otro hito.
+> **RESUELTO (2026-08-29, autor):** ubicación — **después del cumpleaños / la mudanza, justo antes de Italia / Mesa de las Familias.** H13 es el gatillo del viaje a Palermo.
 
 > **PENDIENTE:** todo el contenido del viaje a Palermo — arco reservado, no inventar.
 
@@ -569,7 +627,9 @@ Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Leone_Valenti
 
 # H11 — El mirador
 
-> **CANON DEL AUTOR (2026-08-26).** La primera vez que Cole y Chiara tienen intimidad. Cae después de H2-b y antes de H10 (para H10 ya "llevan una o dos noches juntos"). Cuatro movimientos: los bolos, el drift, el mirador, el penthouse.
+> **CANON DEL AUTOR (2026-08-26; reposicionado 2026-08-29).** El primer beso y la primera intimidad de Cole y Chiara. **Nueva posición canon:** ocurre **después de [[#H4 — El día nublado]]** y antes de [[#H15 — La noche del jacuzzi]]. La secuencia es **H10 → H4 → H11**: H10 = terceros los empujan; H4 = conocimiento y elección; **H11 = el cruce romántico y físico.** Cuatro movimientos: los bolos, el drift, el mirador, el penthouse.
+>
+> **ORDEN DE MANUSCRITO — RESUELTO por reordenación (2026-08-29, opción A).** Los capítulos se renumeraron: **Cap. 13 = El portón** (H10 1ª mitad) · **Cap. 14 = Cuatro letras** (H10 2ª mitad) · **Cap. 15 = El día nublado** (H4) · **Cap. 16 = El mirador** (este hito) · **Cap. 17 = Sin rastro**. **Prosa cerrada el 2026-08-29 (triaje PROSA-A/B/C/D):** apertura del Cap. 13 reescrita, apertura del Cap. 16 reescrita al residuo del Cap. 15 (H4), Cap. 15 redactado completo, Héctor en Caps. 13-14 revisado sin cambios. Falta regenerar el EPUB.
 
 ## Los bolos y el vino
 
@@ -631,7 +691,7 @@ Ver también: [[02_Characters/Cole_Mercer]] · [[02_Characters/Chiara_Bellandi]]
 
 # H10 — El infarto de Héctor
 
-> **CANON DEL AUTOR (2026-08-26).** Ocurre días después de H2-b, con Cole ya viviendo en el loft de sus padres ([[05_Locations/La_Casa]]) — que ya recompró y que Chiara ya diseñó. Cole y Chiara ya son algo: llevan una o dos noches juntos desde [[06_Relationships/Hitos]], H11 (el mirador), pero todavía no conviven.
+> **CANON DEL AUTOR (2026-08-26; reposicionado 2026-08-29).** Ocurre con Cole ya viviendo en el loft de sus padres ([[05_Locations/La_Casa]]) — que ya recompró y que Chiara ya diseñó ([[#H14 — El loft del soltero]]). **Nueva posición canon:** va **antes de [[#H4 — El día nublado]] y de [[#H11 — El mirador]]**. En este punto Cole y Chiara **todavía no han cruzado la intimidad** — H11 es el primer beso y viene después. Lo que ocurre aquí es que **Héctor los empuja emocionalmente el uno hacia el otro** y **terceros ya leen lo que ellos evitan nombrar.**
 
 ## Contexto — dos ausencias que se cruzan
 
@@ -687,7 +747,7 @@ Ahí cierra el capítulo.
 
 ## Pendientes
 
-> **RESUELTO (2026-08-26):** la primera vez que Cole y Chiara tienen intimidad es [[06_Relationships/Hitos]], H11 (el mirador), justo antes de este hito.
+> **RESUELTO (2026-08-26; reposicionado 2026-08-29):** la primera vez que Cole y Chiara tienen intimidad es [[#H11 — El mirador]], que bajo el nuevo canon ocurre **después** de este hito (vía [[#H4 — El día nublado]]). Aquí todavía no se han besado.
 
 > **RESUELTO (2026-08-26):** [[03_Factions/La_Ronda_del_Canal]] retiene a Nadir y Danny. Detalle del robo y su resolución en esa ficha, sección "El robo de Nadir y Danny".
 
@@ -872,7 +932,9 @@ Y la otra mitad:
 
 # H4 — El día nublado
 
-> **CANON DEL AUTOR (2026-08-23).** La cita del campo de golf. **Aquí se define la relación**, y aquí nace la única tensión real que tuvieron antes de tenerla todo.
+> **CANON DEL AUTOR (2026-08-23; función revisada 2026-08-29).** La cita del campo de golf. **Nueva posición canon:** ocurre **después de [[#H10 — El infarto de Héctor]] y antes de [[#H11 — El mirador]]**.
+>
+> **NUEVA FUNCIÓN — H4 NO formaliza la relación.** Aquí no se etiqueta nada verbalmente (eso ocurre mucho después, en [[#H21 — Mi pareja]]). Lo que pasa en H4 es: campo de golf + juego de preguntas + revelación sobre el exmarido + **Cole deduce, sin que ella lo diga, que Chiara mató a su exmarido** + **Cole toma una decisión interna que él interpreta como "quedarse".** Mucho después, frente a anillos de compromiso, entenderá que estaba equivocado sobre el significado: no decidió quedarse en San Aurelio — decidió **querer estar donde ella estuviera.** Aquí se **profundiza la elección**, no se nombra. Corregir cualquier frase estructural que diga "aquí se define la relación" si eso significa etiquetarla.
 
 ## De dónde sale la cita
 
@@ -903,11 +965,13 @@ Y sale la pregunta:
 
 **Eso oscurece la atmósfera de la cita.**
 
-Chiara responde **que sí** — y que **no quiere hablar del tema**.
+Chiara responde **que sí**. Cuenta **lo suficiente** sobre el matrimonio, sobre el hombre y sobre cómo terminó esa relación — pero **no dice literalmente "yo lo maté"** y deja claro que no quiere seguir con el tema.
 
-**Él no insiste.**
+**Él no insiste.** Pero **escucha**: la cronología, los silencios, las omisiones, la precisión con la que ella elige cada palabra. Y **deduce que fue Chiara quien mató a su exmarido.**
 
-> **DISEÑO — importantísimo:** Cole **no se entera de lo de Alessio Lusardi aquí.** Se entera de que ella ha matado. Nada más. El nombre, el marido, la versión oficial y todo lo demás no entran en esta escena y puede que no entren nunca del todo. Ver [[02_Characters/Alessio_Lusardi]].
+No la confronta como interrogador. No la juzga. **Ella puede darse cuenta de que él entendió.** Y aun así continúan el día.
+
+> **DISEÑO — importantísimo:** lo que Cole deduce aquí es **que ella mató a su exmarido**, no el expediente completo de [[02_Characters/Alessio_Lusardi]]. El nombre, la versión oficial y el resto no se entregan en esta escena y puede que no se entreguen nunca del todo — lo que cambia (2026-08-29) es que la deducción ya apunta al marido, no sólo a "ella ha matado".
 >
 > Y **que él no insista es la decisión más importante que toma en toda la escena**, antes incluso de la que viene después. Cole es el hombre que resuelve, que protege, que quiere hacer algo. Aquí no hace nada. Simplemente no pregunta más.
 
@@ -935,7 +999,7 @@ Después de un minuto abre su puerta, se baja, **le abre la puerta a ella desde 
 
 > **— Anda, hay que subir.**
 
-## Por qué aquí se define la relación
+## Por qué aquí se profundiza la elección
 
 **Porque pudo tomar la salida fácil y decir hasta luego. Y decidió quedarse.**
 
@@ -952,14 +1016,14 @@ Ver [[06_Relationships/Cole_y_Chiara]], "El conflicto íntimo".
 
 > **Y así se contesta *"si quieres marcharte"*: no con *"no quiero marcharme"*, sino con *"anda, hay que subir"*.** Cole no dice. Hace. Ver [[02_Characters/Cole_Mercer]].
 
-## Arriba — donde empieza todo de verdad
+## Arriba — la barrera que se rompe (sin cruzar todavía)
 
 Ya en el penthouse ([[05_Locations/El_Penthouse]]) **rompen por primera vez la barrera de distancia física segura**:
 
 - **Ella se recarga en su hombro.**
 - **Él le toma la mano, sin pena.**
 
-**Indirectamente, aquí empieza su relación.** Aunque durante semanas los dos van a seguir diciendo que **"somos sólo buenos amigos"**.
+Nada más. **El primer beso y la primera intimidad no ocurren aquí — son [[#H11 — El mirador]], que viene después.** Lo de H4 es acercamiento sin cruce: hombro y mano. Y durante semanas los dos van a seguir diciendo que **"somos sólo buenos amigos"**.
 
 Y es también **la primera vez que se quedan dormidos juntos**, sin que pase nada físico. Los dos compartiendo vulnerabilidad y reconociendo, sin decirlo, que **están en la misma etapa**.
 
@@ -975,19 +1039,19 @@ Y es también **la primera vez que se quedan dormidos juntos**, sin que pase nad
 
 ## Pendientes
 
-> **PENDIENTE:** confirmar que **este es el "día nublado"** que el autor mencionó al hablar del marido. Todo encaja — es el primer momento tenso, define la relación para siempre, y un día nublado es una anomalía en San Aurelio. Si son dos escenas distintas, hay que separarlas.
+> **RESUELTO (2026-08-29, autor):** **sí, esta es "el día nublado"** que el autor mencionó al hablar del marido. La revelación de Chiara sobre el exmarido ocurre en esta escena (ejecutada en el Capítulo 15). No hay una segunda escena.
 
-> **PENDIENTE:** ¿qué contesta Cole a la misma pregunta? El lector ya sabe la respuesta (Afganistán, *yo soy la muerte caminando*), pero lo que él le dice **a ella** ese día está por decidir.
+> **RESUELTO (2026-08-29, autor):** a la pregunta *¿alguna vez has quitado una vida?*, Cole contesta **sobrio y sin dramatizar**: en el ejército, más de una vez, "un trabajo que hice y que no se cuenta bonito". No se adelanta aquí el registro de *yo soy la muerte caminando* (eso es H1). Redacción fijada en el Capítulo 15.
 
-> **PENDIENTE:** ¿dónde queda Blake Stanton en este punto? En [[#H3 — La noche del ladrillo]] Chiara todavía salía con él.
+> **RESUELTO (2026-08-29, autor):** Blake Stanton **ya está fuera del cuadro** para este punto (después de H9, H12, el loft y H10). No se lo menciona en el Capítulo 15. Si hiciera falta, una línea de cierre puede sembrarse en un capítulo intermedio, no aquí.
 
-> **PENDIENTE:** el campo de golf necesita entrada en `05_Locations/`. Y decidir si Cole realmente tiene un porcentaje.
+> **RESUELTO (2026-08-29, autor):** el campo de golf **no necesita ficha propia** por ahora — es textura, no escenario recurrente. Que Cole tenga o no un porcentaje queda **deliberadamente vago** (el chiste evasivo del "nueve por ciento del estacionamiento, no del campo").
 
 ---
 
 # H9 — La carrera de máscaras
 
-> **CANON DEL AUTOR (2026-08-23).** Uno de los primeros momentos en que Cole saca a Chiara de su zona de confort. Ocurre **antes de [[#H5 — El hipódromo *(Arco de la tensión, parte 1)*]]**, cuando ya son amigos.
+> **CANON DEL AUTOR (2026-08-23; reposicionado 2026-08-29).** Uno de los primeros momentos en que Cole saca a Chiara de su zona de confort. **Nueva posición canon:** ocurre **entre [[#H3 — La noche del ladrillo]] y [[#H12 — El atentado / El corral]]** — ya no después de H4. Todavía son formalmente amigos. Función: Cole la saca de su zona de confort; sube la intimidad y la confianza. Actualizar toda tabla cronológica donde aparezca en otra posición.
 
 ## La pregunta
 
@@ -1007,7 +1071,7 @@ Cole pasa por ella en el **Peugeot 106 XSi rojo**.
 
 No llega con una camioneta rentada ni con un decorado para parecer de su mundo. Llega con el coche que ya es una leyenda menor de San Aurelio — el mismo que en [[#H3 — La noche del ladrillo]] era *el terror de la policía*.
 
-> **DISEÑO:** esta salida es el reverso callejero de [[#H4 — El día nublado]]. En el golf, Chiara lo llevó a un mundo donde él estaba disfrazado y miserable con pantalones blancos. Aquí él la lleva al suyo: velocidad, calle, riesgo, ruido, improvisación. Los dos hitos hacen lo mismo desde lados opuestos: uno saca a Cole de su terreno; el otro saca a Chiara del suyo.
+> **DISEÑO:** esta salida es el reverso callejero de [[#H4 — El día nublado]] — que llega **después**. En el golf, Chiara lo llevará a un mundo donde él está disfrazado y miserable con pantalones blancos; aquí él la lleva al suyo: velocidad, calle, riesgo, ruido, improvisación. Los dos hitos hacen lo mismo desde lados opuestos: uno saca a Cole de su terreno; el otro saca a Chiara del suyo. H9 planta la mecánica; H4 la devuelve invertida.
 
 ## La tienda de máscaras
 
@@ -1071,18 +1135,17 @@ Esa sonrisa es el centro del hito.
 
 ---
 
-# H5 — El hipódromo *(Arco de la tensión, parte 1)*
+# H5 — San Aurelio
 
-> **FUSIÓN (2026-08-28, ampliada):** los **beats 1-8** de este hito **quedan absorbidos por [[#H12 — El corral]], escrito en el Capítulo 9** — con el lugar corregido a hipódromo del Monarch (no Bellandi Ridge):
-> - **Beats 1-6** (la llamada, el penthouse a punta de pistola, las caballerizas, el hospital, el secuestro fallido, el encañonamiento con Dario y la tregua, la primera mentira) → ejecutados en la primera mitad del Capítulo 9.
-> - **Beat 7** (el alta; Dario acepta que Cole la lleve y **manda un hombre a seguir a Cole**) → ejecutado como el interrogatorio del alta + la "vigilancia" en el casino + el **sedán gris** que Cole detecta en el camino.
-> - **Beat 8** (la coartada del norte y la salida de servicio) → ejecutado como la **maniobra por la bahía de carga / túnel este del Monarch** (la "salida de evacuación", ver [[03_Factions/El_Casino]]) y la conversación de reconstrucción en un **parador de autopista al norte**. La coartada "con cámaras" quedó reemplazada por "entrar visible, salir sin registro".
+*Arco de la tensión, parte 1.*
+
+> **RENOMBRADO / REFORMULADO (2026-08-29, CANON DEL AUTOR).** El ID sigue siendo **H5**, pero el hito **deja de llamarse "El hipódromo"**. El ataque del hipódromo, el hospital, el encañonamiento con Dario, la tregua, la coartada y la salida al norte — todo lo que antes eran los beats 1-10 de este hito — **ya vive en [[#H12 — El atentado / El corral]]** (escrito en el Capítulo 9). Y la noche del jacuzzi (antes beat 11) y la advertencia de Varek (antes beat 13) son ahora **[[#H15 — La noche del jacuzzi]]**, inmediatamente antes de este hito.
 >
-> Los beats **9-10** (barrio, loft) quedan cubiertos por el cierre del Capítulo 9 y por el Capítulo 10. **Material nuevo, sin escribir: beats 11 en adelante** (jacuzzi, mensaje y salida de la ciudad, advertencia de Varek, la peor noche) — ver nota de replanteamiento al final de esta sección.
+> **El núcleo del nuevo H5 es:** la salida abrupta de Cole de San Aurelio y la **confrontación Dario–Chiara** que esa ausencia detona. Ocurre después de [[#H15 — La noche del jacuzzi]].
 
 > **CANON DEL AUTOR (2026-08-23).** Primera parte del arco de mayor tensión de la novela. **Partes 2 y 3 por recibir.**
 
-Ocurre después de [[#H9 — La carrera de máscaras]].
+> **NOTA DE ARCHIVO.** Lo que sigue en las secciones numeradas 1–10 y 11 es el **material antiguo de H5**, que se conserva como registro pero **ya está ejecutado dentro de [[#H12 — El atentado / El corral]] y [[#H15 — La noche del jacuzzi]]**. El material **vivo y sin escribir** de H5 empieza en la sección **"12. El mensaje, y la salida de la ciudad"** y sigue en **"La confrontación Dario–Chiara"**.
 
 ---
 
@@ -1200,80 +1263,81 @@ Ella llama a una empresa de construcción y decoración de interiores, y **escog
 
 ---
 
-## 11. El jacuzzi — la noche de los libros abiertos
+## 11. El jacuzzi — MOVIDO A HITO PROPIO
 
-Justo después de entregarle el loft terminado.
-
-**Es el cobro de una promesa vieja:** cuando ella le enseñó el jacuzzi del penthouse ([[#H2-b — La noche que todo cambió]]), él dijo que volvería a probarlo, y ella contestó que lo rentaba pero que por él podía hacer una excepción.
-
-**Esta noche los dos son libros abiertos.**
-
-**Ella le cuenta** un poco de su familia y de [[03_Factions/Il_Consorzio]].
-
-**Él le cuenta:**
-
-- su salida abrupta del ejército;
-- cómo conoció a **[[02_Characters/Nadir_Amrani]]**;
-- la historia de **la cicatriz que le cruza la mejilla derecha**;
-- **lo de los niños, y que por eso cayó en prisión.**
-
-Y el resto de esa historia: **fue Nadir quien lo ayudó a salir.** En agradecimiento, Cole lo ayudó a entrar a Estados Unidos, **con ayuda de [[02_Characters/Anya_Voronina]]**, la contacto rusa que le consiguió papeles.
-
-> **Y esa noche, sin quererlo, crea un arco en cascada.**
-
-### Lo que hay que ver en esta escena
-
-- **Es la primera vez que se cuentan todo, y ocurre en un jacuzzi que ella renta.** No hay ceremonia, no hay declaración, no hay peligro. Es la excepción a la regla de que estos dos sólo se abren bajo fuego — **y por eso pesa: se lo ganaron con el arco entero.**
-- **Cole le cuenta lo de los niños.** Lo que no le cuenta, casi seguro, es que a él lo compraron. Ver [[02_Characters/Warren_Halbrook]]. Que el lector tenga esa información y ella no es el hueco más grande que queda abierto en la pareja.
-- **Y ella le cuenta del Consorcio, no de Alessio.** Los dos entregan el sistema que los formó y se guardan el hecho concreto. **Simetría exacta, y ninguno lo nota.**
-
-> **PENDIENTE:** la historia de la cicatriz de la mejilla derecha.
-
-> **RESUELTO DE DISEÑO (2026-08-23):** la contacto rusa es [[02_Characters/Anya_Voronina]]. La deuda vuelve en [[06_Relationships/Momentos_de_Fractura]], F4 - Año Nuevo en Washington.
+**El contenido de esta sección se trasladó a [[#H15 — La noche del jacuzzi]]** (2026-08-29), que ahora es un hito independiente y ocurre inmediatamente antes de este H5. Ahí viven: la noche de libros abiertos (familia, Il Consorzio, ejército, Nadir, la cicatriz, lo de los niños y la prisión, Anya Voronina) **y** la advertencia de Varek de madrugada. Aquí sólo queda lo que H5 detona a partir de esa noche.
 
 ---
 
-## 12. El mensaje, y la salida de la ciudad
+## 12. El mensaje, y la salida de la ciudad — NÚCLEO VIVO DE H5
 
-**Al día siguiente Cole manda dos mensajes.**
+Cole tiene que **abandonar San Aurelio por una situación externa.** **CANON DEL AUTOR (2026-08-29): la situación externa es que [[02_Characters/Warren_Halbrook]] lo convoca.** Halbrook lo saca de la ciudad para volver a ponerle la correa: **o Cole vuelve a trabajar para él, o reporta a [[02_Characters/Nadir_Amrani]] a ICE como extranjero en situación irregular** (el problema de Nadir es un papel — ver [[#H6 — El pacto]], sección 1). Cole va, se reúne con Halbrook fuera de San Aurelio y vuelve golpeado con el ultimátum encima; eso arranca H6.
 
-Uno a **[[02_Characters/Walter_Keegan]]**.
+> **DISEÑO — el precedente.** Esta convocatoria es **la primera vez, en el presente de la novela, que Halbrook tira de la correa**, y es la que sienta el precedente de la incursión posterior a [[05_Locations/Camp_Alder]] ([[#H19 — El asalto a Camp Alder]]): la misma relación, la misma amenaza sobre Nadir, exigencias cada vez mayores. En H6 Cole convierte el chantaje en moneda (una *entrada* a Camp Alder para pagarle a Varek); el **asalto** a la base es mucho después y ya es otra cosa.
 
-Y otro a Chiara: **que sale de la ciudad de emergencia.**
+No hace una despedida general. Deja **únicamente dos mensajes de texto.**
 
-*(Qué desencadena esos mensajes y qué ocurre después: **parte 2 del arco, por recibir.**)*
+**A [[02_Characters/Walter_Keegan]]** — canon funcional (la puntuación final puede adaptarse, la intención no):
+
+> **— Cuida el barrio. Si Chiara necesita algo, ayúdala sin chistar.**
+
+**A Chiara** — canon funcional:
+
+> **— Salí de la ciudad por una situación externa. Me encuentro bien. Te veo al volver.**
+
+### "Me encuentro bien" — el detonante
+
+Esa frase es lo que enciende todo. **Chiara sabe que Cole no tranquiliza preventivamente:** está contestando una pregunta que ella todavía no ha hecho. Y pocas horas antes, en [[#H15 — La noche del jacuzzi]], Varek le dijo que **no confía en Cole, que lo va a hacer seguir y que va a sacar información.**
+
+Chiara conecta las dos cosas y teme:
+
+> **Varek hizo algo contra Cole.**
+
+Puede imaginar secuestro, interrogatorio, retención, presión. *(No fijar cuál cree literalmente primero si no está decidido.)*
+
+> **DISEÑO — la ironía:** el que sacó a Cole de la ciudad fue **Halbrook, no Varek** (sección 12). La inferencia de Chiara es comprensible con lo que tiene — Varek acababa de decirle que iba a por Cole — pero apunta al hombre equivocado. Cole no le da el nombre real (protege el hilo de Halbrook/Nadir/el convoy), así que ella pasa toda H5 investigando a Varek mientras la amenaza de verdad viene de arriba. Es la regla 5 de la pareja funcionando: *se protegen mintiéndose.*
+
+### Chiara empieza a investigar
+
+Usa su método: pregunta, contrasta horarios, mueve versiones, **miente para obtener información**, busca contradicciones alrededor de Varek. **Varek detecta que está investigando por Cole.**
 
 ---
 
-## 13. La advertencia de Varek
+## 13. La advertencia de Varek — MOVIDA AL HITO DEL JACUZZI
 
-**Pero Chiara viene de un contexto mucho más alarmante**, porque **la noche anterior Varek le advirtió que se alejara de Cole**: que algo no le cuadraba de él, y que **iba a investigarlo personalmente.**
+La advertencia en sí (Varek le dice de madrugada que se aleje de Cole, que no le cuadra, que lo va a investigar y hacer seguir) **vive ahora en [[#H15 — La noche del jacuzzi]]**, que ocurre inmediatamente antes de este H5. Aquí sólo importa como el contexto que Chiara conecta con el mensaje "me encuentro bien" (ver sección 12).
 
-Así que, en su paranoia por saberlo en peligro, **Chiara cree que el mensaje lo mandó Varek** — y que Varek lo tiene secuestrado.
+## La confrontación Dario–Chiara — NÚCLEO VIVO DE H5
 
-**Y escala tanto que sigue a Varek** hasta un viejo taller en lo más lejano del norte, donde tiene que inventarse que Cole la llevó ahí porque se había quedado varada con el coche y él se ofreció a ayudarla.
+En su paranoia por saberlo en peligro, **Chiara cree que Varek está detrás de la desaparición de Cole** — que lo tiene secuestrado. Escala tanto que **sigue a Varek** hasta un viejo taller en lo más lejano del norte *(el taller ilegal de las carreras callejeras; ver `05_Locations/`)*, y tiene que inventarse que Cole la llevó ahí porque se había quedado varada con el coche.
 
-> *(Ese taller es el taller ilegal de las carreras callejeras. Ver `05_Locations/`.)*
+Varek la amenaza con que **Cole es peligroso**, usando el incidente del hospital — los dos apuntándose — **contado sólo en la parte que le conviene.** Le cuenta el pasado turbio de Cole; ella **ya lo sabe** (se lo contó él mismo en el jacuzzi) pero **se hace la que no.**
 
-### La conversación
+Y entonces, en el momento más tenso, **Varek le ordena dejar de ver a Cole.** Ella se planta: **él no es nadie para decirle qué hacer.**
 
-Varek la amenaza con que **Cole es peligroso**, usando el incidente del hospital — los dos apuntándose — **contado sólo en la parte que le conviene.** Es un manipulador y así trabaja.
+### Las tres líneas canon
 
-Le cuenta el **pasado turbio de Cole**. Ella **ya lo sabe** — se lo contó él mismo en el jacuzzi — pero **se hace la que no.**
+**1. La jerarquía.**
 
-Y entonces, en el momento más tenso, **Varek le ordena dejar de ver a Cole.**
+> **— Trabajas para mí. No conmigo.**
 
-Ella se planta: **él no es nadie para decirle qué hacer y qué no.**
+Varek afirma propiedad sobre sus decisiones: le contesta *"él no es nadie para decirme qué hacer"* demostrándole que sí lo es.
 
-Y Varek contesta que **sí lo es: que ella trabaja para él, y por lo tanto puede decirle qué hacer y qué no.**
+**2. La humillación deliberada.**
 
-### Y el cierre, que es la mejor amenaza del libro
+> **— ¿Te estás acostando con él?**
 
-Como Varek entiende a medias que Cole y Chiara están teniendo una aventura, le dice que **si hay que matar a Cole, ella misma va a jalar el gatillo.**
+La ofensa no depende de si es verdad. Reduce criterio, preocupación, lealtad y vínculo **a sexo con un hombre**. Aquí se expone la misoginia que Varek normalmente administra mejor.
 
-> **DISEÑO:** no dice *lo voy a matar*. Dice **lo vas a matar tú.** Es exactamente el hombre que la ve como un activo: no la amenaza a ella — **la convierte en el instrumento de la amenaza.** Y es la respuesta más brutal posible a lo que ella acaba de decirle, porque le contesta *"él no es nadie para decirme qué hacer"* demostrándole que sí lo es.
->
-> Es además la versión de Varek de la pregunta del libro ([[04_Concepts/Quien_Decide_Quien_Soy]]): *el poder pertenece a quien puede tomarlo y conservarlo* — y ahora mismo él la tiene a ella.
+**3. La amenaza — la mejor del libro.**
+
+> **— Si hay que eliminar a Cole, entonces tú vas a hacerlo.**
+
+> **DISEÑO:** no dice *lo voy a matar*. Dice **lo vas a hacer tú.** Es el hombre que la ve como un activo: no la amenaza a ella — **la convierte en el instrumento de la amenaza.** Está diciendo: *si tu lealtad está dividida, voy a obligarte a demostrar quién manda.* Es la versión de Varek de la pregunta del libro ([[04_Concepts/Quien_Decide_Quien_Soy]]): *el poder pertenece a quien puede tomarlo y conservarlo* — y ahora mismo él la tiene a ella.
+
+### La consecuencia
+
+El carácter de Chiara hace que **NO "entienda su lugar"** según Varek. No baja la cabeza. No concede control sobre su vida personal, su relación con Cole ni su criterio. Desde aquí, **Chiara queda bajo la lupa y la amenaza directa de Varek.** H5 impulsa el arco de tensión H5–H7.
 
 ---
 
@@ -1307,17 +1371,87 @@ Y **se pone la sudadera de Cole para aparentar que él está en casa.**
 
 ## Pendientes de H5
 
-> **REPLANTEAMIENTO (2026-08-28), PRIORITARIO:** el jacuzzi (beat 11) y la amenaza de Varek (beat 13) ya no arrancan de la investigación del ataque del corral — llegan después, **detonados por un nuevo atentado: los frenos del auto de Chiara** (ver [[06_Relationships/Momentos_de_Fractura]], F3 — "Los frenos", donde Cole le dice *te amo* por primera vez a su cuerpo inconsciente). **RESUELTO:** el auto sale de una compra limpia — Cole compra participación en [[03_Factions/Villani_Motors]], concesionario de importación, y le consigue un sedán Lancia discreto, nada deportivo. Falta escribir esa escena de compra, y decidir el orden exacto: ¿los frenos primero y el jacuzzi como consecuencia (la vulnerabilidad post-susto), o el jacuzzi primero y los frenos como la traición que lo rompe todo?
+> **RESUELTO (2026-08-29, autor):** la **situación externa** que saca a Cole de San Aurelio es que **[[02_Characters/Warren_Halbrook]] lo convoca** para reimponerle la correa (trabajar para él o reportar a Nadir a ICE). Ver sección 12. Esa convocatoria es el precedente de la incursión posterior a Camp Alder. *(Sigue por afinar: qué le pide Halbrook exactamente en esta primera reunión, más allá de "vuelves a trabajar para mí".)*
 
-> **PENDIENTE, PRIORITARIO (heredado):** ¿quién atacó a Chiara en el hipódromo? Queda en incógnita a propósito. La respuesta pertenece a las partes 2 y 3.
+> **RESUELTO (2026-08-29, autor):** F3 — **los frenos del auto de Chiara** ([[06_Relationships/Momentos_de_Fractura]], F3, donde Cole le dice *te amo* por primera vez a su cuerpo inconsciente) — **NO va cerca del jacuzzi.** Cae mucho más tarde, ya en la Parte II: cuando ya viven juntos, después de [[#H6 — El pacto]], y **después de [[06_Relationships/Momentos_de_Fractura|F4 — Año Nuevo en Washington]]**. Orden en ese tramo: `Año Nuevo (F4) → … → F3 (los frenos) → … → H8 (el incendio → villa)`. **El auto en sí es de la Parte I:** la escena de compra es un juego de roles (Cole se lo vende fingiendo ser desconocido), poco antes del jacuzzi — ver [[03_Factions/Villani_Motors]]. El coche lleva mucho tiempo con Chiara antes de que le corten los frenos.
+
+> **PENDIENTE (heredado):** ¿quién atacó a Chiara en el hipódromo (ahora en [[#H12 — El atentado / El corral]])? Queda en incógnita a propósito.
 
 > **PENDIENTE:** el sospechoso que Cole secuestró en el Capítulo 9. ¿Vuelve? Un hombre al que secuestraron por nada es una deuda pendiente en un libro donde las deudas vuelven.
 
 ---
 
-# H6 — El pacto *(Arco de la tensión, parte 2)*
+# H15 — La noche del jacuzzi
 
-> **CANON DEL AUTOR (2026-08-23).** Continúa directamente [[#H5 — El hipódromo *(Arco de la tensión, parte 1)*]]. **Parte 3 por recibir.**
+> **CANON DEL AUTOR (2026-08-29).** Se separa definitivamente de H5. Hito independiente. Ocurre **después de [[#H11 — El mirador]]** y **inmediatamente antes de [[#H5 — San Aurelio]]** — es su detonante. **ID: H15** (asignado 2026-08-29).
+
+## Relación con H2-b — la hija adulta de la noche de hierba
+
+Conceptualmente es **la hija adulta de [[#H2-b — La noche que todo cambió]].** Y es el cobro de una promesa vieja: cuando ella le enseñó el jacuzzi del penthouse, él dijo que volvería a probarlo, y ella contestó que lo rentaba pero que **por él podía hacer una excepción**.
+
+| H2-b | El jacuzzi |
+|---|---|
+| hierba, música, juego | **ya están sobrios** |
+| las defensas se caen casi por accidente | **ya cruzaron la intimidad** (H11) |
+| todavía no saben qué hay entre ellos | **ya lo saben** |
+| — | se abren **deliberadamente y sin filtros** |
+
+## El día — el juego de roles del concesionario
+
+Antes de la noche, durante el día, ocurre la **escena de compra del auto de Chiara** (el Lancia de [[03_Factions/Villani_Motors]], negocio en el que Cole ya entró — sembrado un poco antes). **Es Cole quien se lo vende, y los dos fingen ser desconocidos** — vendedor y clienta —, un juego de roles que bordan. Esa noche, en el jacuzzi, **lo comentan y se ríen del numerito**: es parte del material de "libros abiertos por elección". *(La escena de compra vive en detalle en [[03_Factions/Villani_Motors]]. F3 — el sabotaje de ese mismo auto — es muchísimo después, ya en la Parte II, después de Año Nuevo.)*
+
+## La noche de los libros abiertos
+
+**Por primera vez ambos son "libros abiertos" por elección.** Sin ceremonia, sin declaración, sin peligro — la excepción a la regla de que estos dos sólo se abren bajo fuego, y por eso pesa: se lo ganaron con el arco entero.
+
+**Ella le cuenta** un poco de su familia y de [[03_Factions/Il_Consorzio]].
+
+**Él le cuenta:**
+
+- su salida abrupta del ejército;
+- cómo conoció a [[02_Characters/Nadir_Amrani]];
+- la historia de **la cicatriz que le cruza la mejilla derecha**;
+- **lo de los niños, y que por eso cayó en prisión.**
+
+Y el resto: **fue Nadir quien lo ayudó a salir.** En agradecimiento, Cole lo ayudó a entrar a Estados Unidos, con ayuda de [[02_Characters/Anya_Voronina]], la contacto rusa que le consiguió papeles.
+
+> **Mantener las reservas ya canon.** No inventar qué secretos exactos entregan más allá de lo listado. En particular:
+> - **Cole le cuenta lo de los niños, pero casi seguro NO que a él lo compraron.** Ver [[02_Characters/Warren_Halbrook]]. Que el lector tenga esa información y ella no es el hueco más grande que queda abierto en la pareja.
+> - **Ella le cuenta del Consorcio, no de Alessio.** Los dos entregan el sistema que los formó y se guardan el hecho concreto. Simetría exacta, y ninguno lo nota.
+
+> **PENDIENTE:** la historia de la cicatriz de la mejilla derecha.
+
+> **RESUELTO DE DISEÑO (2026-08-23):** la contacto rusa es [[02_Characters/Anya_Voronina]]. La deuda vuelve en [[06_Relationships/Momentos_de_Fractura]], F4 — Año Nuevo en Washington.
+
+## Varek llega de madrugada — el contraste que dispara H5
+
+**Después de esa noche, Varek intercepta a Chiara de madrugada.** Le dice:
+
+- no confía en Cole;
+- sospecha de él;
+- va a obtener más información;
+- va a mandar hombres a seguirlo y vigilarlo;
+- **Chiara debería mantenerse alejada de Cole.**
+
+**Esto es esencial.** Chiara acaba de vivir la noche en la que más conscientemente ha confiado en Cole, y Varek aparece inmediatamente diciendo que él no confía en Cole. **Ese contraste es lo que dispara [[#H5 — San Aurelio]].**
+
+## Pendientes
+
+> **PENDIENTE:** todos los secretos específicos que se entregan en el jacuzzi, más allá de lo ya listado — arco reservado.
+
+> **PENDIENTE:** el orden exacto respecto al atentado de los frenos (F3). Ver [[#Pendientes de H5]].
+
+---
+
+Ver también: [[06_Relationships/Cole_y_Chiara]] · [[02_Characters/Dario_Varek]] · [[03_Factions/Il_Consorzio]] · [[06_Relationships/Hitos]], H2-b · H5
+
+---
+
+# H6 — El pacto
+
+*Arco de la tensión, parte 2.*
+
+> **CANON DEL AUTOR (2026-08-23).** Continúa directamente [[#H5 — San Aurelio]]. **Parte 3 por recibir.**
 
 ---
 
@@ -1371,7 +1505,7 @@ Sin saber qué hacer, Chiara concluye que quedándose ahí no resuelve nada. **A
 
 Lo sigue hasta la mansión del magnate, y se queda **a una distancia desde la que pueda ver, desde fuera, que Cole sigue respirando.**
 
-> **DISEÑO:** es la imagen espejo de [[#H5 — El hipódromo *(Arco de la tensión, parte 1)*]]. Él registró un penthouse con la pistola en la mano buscándola; ella se estaciona a mirar un patio ajeno para comprobar que él respira. **Los dos, en el mismo arco, van detrás del otro sin que nadie se lo pida y sin decírselo.**
+> **DISEÑO:** es la imagen espejo de [[#H12 — El atentado / El corral]]. Él registró un penthouse con la pistola en la mano buscándola; ella se estaciona a mirar un patio ajeno para comprobar que él respira. **Los dos, en el mismo arco, van detrás del otro sin que nadie se lo pida y sin decírselo.**
 
 ## 5. El patio de la mansión — la oferta
 
@@ -1382,6 +1516,8 @@ Y por el camino Cole encuentra el modo de salvar también a Nadir.
 **Cole ofrece trabajar para Varek, como parte de la organización.** A cambio: **seguridad para Chiara.**
 
 Y trae con qué pagarlo — **el medio para conseguir lo que Halbrook maneja**: una **entrada a [[05_Locations/Camp_Alder]]**, el complejo militar donde los civiles no tienen acceso, para sacar armas y venderlas en la ciudad. **Armamento largo**, que a Varek le sirve.
+
+> **Continuidad (2026-08-29):** esta promesa **se cobra en [[#H19 — El asalto a Camp Alder]]**, y en la misma operación: allí Varek abre la ventana de entrada a la base y Cole le paga con las armas largas robadas. No es un evento aparte.
 
 **Varek acepta**, y con eso **desvía momentáneamente la atención de Chiara.**
 
@@ -1461,7 +1597,9 @@ Y ahí **le cuenta todo lo sucedido.**
 
 ---
 
-# H7 — El río *(Arco de la tensión, parte 3 — el cierre)*
+# H7 — El río
+
+*Arco de la tensión, parte 3 — el cierre.*
 
 > **CANON DEL AUTOR (2026-08-23).** Cierre del arco. **Y cierra en calma.**
 
@@ -1505,7 +1643,7 @@ Eso es toda la invitación. Sin explicación, sin marco, sin llamarlo cita.
 
 **Y es lo mejor que tiene esta parte 3, aunque no se diga nunca:**
 
-| **H5, cómo abrió el arco** | Cole la carga **inconsciente y sangrando** desde unas caballerizas y sale a toda velocidad al hospital. |
+| **El atentado ([[#H12 — El atentado / El corral]]), cómo abrió el arco de tensión** | Cole la carga **inconsciente y sangrando** desde unas caballerizas y sale a toda velocidad al hospital. |
 | **H7, cómo lo cierra** | Cole la carga **riéndose**, amenazando con tirarla al agua. |
 
 **El mismo gesto físico, en los dos extremos del arco, invertido.** El lector no necesita que nadie se lo señale: lo siente.
@@ -1569,6 +1707,10 @@ Y para dos personas que nunca tuvieron una, **el momento en que la palabra deja 
 
 > **CANON DEL AUTOR (2026-08-23).** Material grande: contiene **la mentira más cara del libro** y la casa más hermosa que construyen.
 
+> **POSICIÓN (2026-08-29, autor):** ocurre **después de Año Nuevo** — es decir, después de [[06_Relationships/Momentos_de_Fractura|F4 — Año Nuevo en Washington]] — y **después de F3 — Los frenos** (que también cae después de Año Nuevo). Orden: `F4 (Año Nuevo) → … → F3 (los frenos) → … → H8 (el incendio → villa) → … → H1 (clímax, en la villa)`. Dos pasados golpean seguidos: el de Chiara (F3, Il Consorzio) y el de Cole (este incendio, Crowe). *(Posición exacta respecto a Camp Alder y "Mi pareja": sigue por afinar, pero H8 ya cae tarde en la Parte II / entrando en la Parte III.)*
+>
+> **CONTINUIDAD A REVISAR:** el motivo canon de Crowe ([[#Pendientes de H8]]) dice *"por un cargamento que Cole no entregó a tiempo, cuando todavía trabajaba para él… Cole aún no era autónomo, pero estaba empezando a serlo"*. Con H8 ya después del primer Año Nuevo juntos, Cole lleva tiempo dentro de la organización de Varek y **no "trabaja para Crowe" en ningún sentido literal.** El incendio funciona mejor como **la rabieta de un hombre al que dejaron atrás del todo** — Crowe castigando que Cole se le escapó, no un retraso concreto. Ajustar la redacción del motivo cuando se escriba.
+
 ---
 
 ## 1. El Tasador incendia el loft
@@ -1592,7 +1734,7 @@ Y para dos personas que nunca tuvieron una, **el momento en que la palabra deja 
 > 1. **La casa donde criaron a Cole** — la de Dale y Ruth Mercer.
 > 2. **El trabajo de Chiara** — el loft que ella diseñó mueble por mueble sin saber que sería de los dos.
 > 3. **El primer hogar que cualquiera de los dos tuvo en su vida.**
-> 4. **Y la palabra.** *Vamos a casa* ([[#H7 — El río *(Arco de la tensión, parte 3 — el cierre)*]]) se queda sin sitio al que señalar.
+> 4. **Y la palabra.** *Vamos a casa* ([[#H7 — El río]]) se queda sin sitio al que señalar.
 
 ## 2. La mentira
 
@@ -1688,8 +1830,10 @@ Durante los meses de obra, Chiara está encima **como una leona, y neurótica co
 ## Pendientes de H8
 
 > **RESUELTO (2026-08-23): fue [[02_Characters/Silas_Crowe]], el Tasador.** Por **un cargamento que Cole no entregó a tiempo**, cuando todavía trabajaba para él. Cole **aún no era autónomo, pero estaba empezando a serlo** — y el incendio es exactamente la respuesta del Tasador a eso.
+>
+> **AJUSTE PENDIENTE (2026-08-29):** con H8 recolocado después de Año Nuevo (ver el encabezado del hito), Cole ya no "trabaja para Crowe" en ningún sentido. El motivo funciona mejor reescrito como **castigo a la autonomía consumada** — la rabieta de un hombre al que dejaron atrás — más que como represalia por un retraso concreto. Afinar al redactar.
 
-> **PENDIENTE:** ¿tiene relación con quién atacó a Chiara en [[#H5 — El hipódromo *(Arco de la tensión, parte 1)*]]? Sigue en incógnita.
+> **PENDIENTE:** ¿tiene relación con quién atacó a Chiara en [[#H12 — El atentado / El corral]]? Sigue en incógnita.
 
 > **RESUELTO (2026-08-23): [[#H1 — El regreso a casa]] ocurre en [[05_Locations/La_Villa]]**, la casa final. **El incendio va antes.**
 
@@ -1886,7 +2030,162 @@ Regla de [[06_Relationships/Cole_y_Chiara]]: lo que los salva siempre es algo qu
 
 ---
 
-# Hito por numerar — Mi pareja
+# H16 — El cumpleaños / la mudanza oficial
+
+> **CANON DEL AUTOR (2026-08-29).** Ocurre **después de [[#H7 — El río]]**. **ID: H16** (asignado 2026-08-29).
+
+El día del **cumpleaños de Chiara** (23 de noviembre), **Chiara se muda oficialmente con Cole.** Éste es el momento real de convivencia.
+
+| Antes (el loft) | Ahora (la mudanza) |
+|---|---|
+| podía quedarse, dormir, tener objetos accidentales | llegan cosas permanentemente — cajas, ropa, computadora, objetos permanentes |
+| — | hay decisión, hay traslado |
+| casa de Cole donde ella pasa tiempo | la casa pasa a ser **hogar compartido** |
+
+## Regla temática
+
+**No ocurre por atentado, ni por vigilancia, ni por necesidad. Ocurre porque lo eligen.** Es la diferencia con [[#H12 — El atentado / El corral]] (refugio) y con [[#H14 — El loft del soltero]] (comodidad creciente sin decisión).
+
+## Beats reservados desde el loft (poda del Cap. 10, 2026-08-29)
+
+Dos gestos domésticos se sacaron del [[#H14 — El loft del soltero|Capítulo 10]] a propósito para que **estrenen aquí** y marquen la diferencia entre *pasar mucho tiempo* y *vivir juntos*:
+
+- **La computadora que por fin se queda** — deja de cargarla todos los días porque ya no tiene a dónde llevársela.
+- **El café listo cada mañana** — la cafetera programada, la taza sacada, esperando a que Cole baje medio dormido. Pasa de gesto suelto a costumbre diaria: es la señal de que ella se despierta y sale al trabajo desde aquí. **Engancha con la frase de la llave** (ver abajo): *"quiero que pases también las mañanas".*
+
+## La magia del cumpleaños — CANON DEL AUTOR (2026-08-29)
+
+**Estructura del capítulo:** abre *in medias res* en el hipódromo, con Cole entregando **tres regalos**. Después se cuenta cómo llegó cada uno.
+
+### De dónde sale la idea
+
+Cole va **haciendo una entrega de cocaína con [[02_Characters/Hector_Navarro|Héctor]]**. En el trayecto le cuenta que quiere conseguirle a Chiara algo especial: **[[05_Locations/Hipodromo_Del_Monarch|Vento]]**, su caballo, tuvo hace **un par de semanas** una fractura por la edad y **hubo que sacrificarlo** — Chiara lleva esas semanas de duelo, porque montar era lo suyo. Cole quiere regalarle **una yegua**, y le pide ayuda a Héctor para ir a buscarla a otro estado y traerla. **PENDIENTE — estado de EE. UU.:** propuesta del agente, **Kentucky** (país de caballos, y el viaje transcontinental maximiza la comedia); alternativa más contenida, **Texas**.
+
+### Regalo 1 — la yegua blanca
+
+Traer la yegua hasta el hipódromo **sin que Chiara se entere es una odisea cómica entera** — sobre todo meterla en el remolque donde ella la vería. *(Esa road-movie con Héctor es el cuerpo del capítulo.)* La yegua es **blanca** — animal nuevo, no un reemplazo de Vento (que era macho). **PENDIENTE:** nombre de la yegua *(candidato: que la nombre Chiara)*.
+
+### Regalo 2 — la botella
+
+Una noche antes, Cole deja en el **cuarto bodega del loft**, envuelto en una manta, una botella de **Domaine de la Romanée-Conti** — *"el vino más caro del mundo jamás vendido en una subasta"*. La **robó de la casa de un rico del norte**: llega con **las botas llenas de lodo y los nudillos ensangrentados**. **Qué pasó con ese hombre, y si alguna vez supo del robo, no se explica — queda a imaginación del lector.**
+
+Al entregarla, Chiara le pregunta **si sabe lo que significa regalar una botella así**. Cole: **— Sin duda alguna.** *(El significado no se explicita; se deja en la pregunta y la respuesta.)*
+
+### Regalo 3 — la llave *(el mecanismo de la mudanza)*
+
+Una **cajita más pequeña, modesta, de madera.** Dentro, **una llave del loft.**
+
+> **— Ya pasas las noches ahí. Quiero que pases también las mañanas, si estás de acuerdo.**
+
+**Esto ES la mudanza oficial.** No hay caja de camión ni escena de traslado: hay una llave y una frase. Ella se muda porque lo eligen. Los gestos domésticos reservados (la computadora que se queda, el café cada mañana) empiezan a partir de aquí.
+
+> **PENDIENTE:** el pago reservado del cifrado "Roma Atrii", que el autor situó "en el cumpleaños de Chiara" — ver [[07_Ideas/El_Chico_Del_Patio]]. Puede caer el mismo día, no necesariamente dentro de la escena de los tres regalos.
+
+> **PENDIENTE menor:** confirmar el estado de EE. UU. de donde traen la yegua.
+
+> **Continuidad — Vento:** aparece vivo en [[#H12 — El atentado / El corral]] (Capítulo 9, Parte I). Muere ~2 semanas antes de este hito (Parte II). No hay contradicción: media todo el arco H12→H7 entre una cosa y la otra.
+
+---
+
+# H17 — Italia / Mesa de las Familias
+
+> **CANON DEL AUTOR (2026-08-29).** Ocurre **inmediatamente después de [[#H13 — El pañuelo]]** (su gatillo), que a su vez va después de [[#H16 — El cumpleaños / la mudanza oficial]]. **ID: H17** (asignado 2026-08-29). Arco reservado — no inventar contenido.
+
+Cole y Chiara **viajan juntos a Italia.** En Palermo enfrentan **la Mesa de las Familias.** Lo sucedido allí produce una **fricción seria** entre ellos.
+
+**No inventar todavía:** motivo formal de la convocatoria, decisión exacta de la Mesa, quién humilla a quién, resolución criminal, ni ningún detalle no dado por el autor.
+
+**Canon:** algo ocurrido ante la Mesa **golpea la relación** y los hace regresar de manera distinta.
+
+> **Continuidad:** este viaje es el que [[#H13 — El pañuelo]] planta (Chiara deduce que el Consorcio la atacó y decide ir a Palermo por su cuenta; Cole insiste en acompañarla al ver el pañuelo y la bala). No confundir con el atentado posterior de iglesia ([[#Hito mayor por numerar — La iglesia, la caída y la ejecución de Dario Varek]]), que es un evento independiente y muy posterior.
+
+---
+
+# H18 — El regreso de Palermo
+
+> **CANON DEL AUTOR (2026-08-29).** Inmediatamente después de [[#H17 — Italia / Mesa de las Familias]]. **ID: H18** (asignado 2026-08-29).
+
+Ambos vuelven **separados físicamente y con fricción emocional** por lo sucedido en Palermo.
+
+**Regla:** NO significa ruptura. No contradice la regla dura (*Cole y Chiara no se separan*). Significa distancia, conflicto, cosas no dichas, mala lectura, heridas recientes. **Todavía no formalizan verbalmente el noviazgo.**
+
+> **Función emocional:** *"podemos tener fricción real sin dejar de escogernos."*
+
+---
+
+# H19 — El asalto a Camp Alder
+
+> **CANON DEL AUTOR (2026-08-29).** **ID: H19** (asignado 2026-08-29). Usar **[[05_Locations/Camp_Alder]]** como nombre de la base.
+
+> **PRECEDENTE (2026-08-29, autor):** la relación de correa que lleva a este asalto **se sienta en [[#H5 — San Aurelio]]**, cuando Halbrook convoca a Cole por primera vez en el presente de la novela y lo obliga a volver a trabajar para él bajo amenaza de reportar a Nadir a ICE. El asalto a Camp Alder es esa misma correa tirada hasta el extremo.
+>
+> **Este hito y el beat 74** de [[01_Timeline/01_Primer_Borrador_Beats]] ("Halbrook fuerza el punto militar") son **el mismo evento** (confirmado por el encuadre del autor, 2026-08-29). El número de beat sigue informal.
+
+## El encargo de Halbrook — CANON DEL AUTOR (2026-08-29)
+
+Halbrook le ordena a Cole **dos cosas** en esta operación:
+
+1. **Extraer un expediente clasificado de un soldado.** Ese soldado **no está relacionado con la historia del libro** — es un objeto transaccional puro, no una pista; **no desarrollar quién es ni por qué lo quiere Halbrook.** Este expediente es *"la información que luego negocia la salida de Cole"*: tras el arresto, Halbrook comercia con esa entrega para sacarlo (ver [[#H20 — Consecuencia: Halbrook / prisión militar / Lucia]]).
+2. **Robar armas largas** para venderlas en el mercado negro de la ciudad.
+
+### Cómo encaja con [[#H6 — El pacto]] — hilo RESUELTO
+
+En H6, Cole le prometió a Varek *"una entrada a Camp Alder"* para sacar **armamento largo**, a cambio de protección para Chiara. **Aquí es donde se cobra esa promesa, en la misma operación:** Varek aporta el medio para **abrir la ventana de entrada a la base** (acceso / tiempos / ayuda desde dentro), y **Cole le paga con las armas largas robadas**, que alimentan el mercado negro de San Aurelio tal como se pactó en H6. Es decir: **no son dos hilos** (la "entrada" de H6 y el "asalto" de aquí) — es uno solo. Cole cumple con Varek *durante* la operación que Halbrook lo obliga a hacer.
+
+> **DISEÑO:** Cole vuelve a hacer lo suyo — un solo movimiento que paga tres deudas a la vez: el expediente para Halbrook, las armas para Varek (y con ellas la seguridad de Chiara ya comprada en H6), y sacar a Héctor y Nadir. El precio entero, otra vez, lo termina pagando él: se queda.
+
+## Antes de la misión — el peso de Chiara sobre sus decisiones
+
+Cole llega al casino. **Puede entrar a ver a Chiara. No entra.** Porque sabe que **si entra y la ve, ella lo detendrá y él no hará la misión.**
+
+> Esto demuestra cuánto peso tiene ella sobre sus decisiones **antes incluso de que pronuncien "pareja"** ([[#H21 — Mi pareja]] ocurre después de todo esto).
+
+## La misión y el escape
+
+Durante el escape:
+
+- **[[02_Characters/Hector_Navarro|Héctor]] y [[02_Characters/Nadir_Amrani|Nadir]]** corren riesgo de ser atrapados;
+- **[[02_Characters/Garrett_Cross|Garrett]]** pilota un helicóptero de extracción;
+- Cole consigue que Héctor y Nadir salgan;
+- **Cole se queda / se entrega a las autoridades** para evitar que ellos sean capturados.
+
+**No inventar tácticas operativas adicionales.**
+
+## Resultado
+
+Cole es arrestado bajo **jurisdicción militar / federal**. Abre la consecuencia siguiente.
+
+> **Relación con [[#H6 — El pacto]] y con el beat 74 — RESUELTA (2026-08-29, autor):** la "entrada a Camp Alder" que Cole promete en H6 y este asalto **son la misma operación** (ver "El encargo de Halbrook", arriba). Varek abre la ventana de entrada; Cole le paga con las armas largas robadas; en paralelo saca el expediente para Halbrook y termina detenido al cubrir a Héctor y Nadir. El beat 74 es este mismo evento.
+
+---
+
+# H20 — Consecuencia: Halbrook / prisión militar / Lucia
+
+> **CANON DEL AUTOR (2026-08-29).** Sigue directamente a [[#H19 — El asalto a Camp Alder]]. **ID: H20** (asignado 2026-08-29).
+
+## Halbrook lo saca
+
+**[[02_Characters/Warren_Halbrook]] consigue sacar a Cole de la prisión militar mediante un trato.**
+
+Canon (2026-08-29, autor): lo que Cole extrajo para Halbrook durante el asalto es **un expediente clasificado de un soldado ajeno a la trama del libro** (ver [[#H19 — El asalto a Camp Alder]], "El encargo de Halbrook"). Después del arresto, **Halbrook comercia con esa entrega** — su valor, y lo que implica que Cole la tenga — para negociar su salida.
+
+**Sigue PENDIENTE:** el mecanismo jurídico preciso de la salida — autoridad, agencia, cargos, documento. *(El autor dio la palanca, no el trámite.)*
+
+## Chiara busca a Lucia
+
+Cuando Cole es arrestado, **Chiara pide hablar con [[02_Characters/Lucia_Varek|Lucia Varek]] para que la ayude.**
+
+Lucia **no puede intervenir** — las jurisdicciones son distintas. Pero puede investigar, preguntar, averiguar qué ocurrió y orientar sobre qué institución tiene a Cole.
+
+## Función de Lucia — siembra importante
+
+Por el grado de preocupación y movilización de Chiara, **Lucia comprende que Chiara Bellandi y Cole Mercer tienen una relación que excede claramente los negocios o la amistad casual.**
+
+Lucia **no necesita preguntar "¿son novios?".** Lo registra y observa — eso es más propio de ella.
+
+---
+
+# H21 — Mi pareja
 
 > **CANON DEL AUTOR (2026-08-29).** Cole Mercer y Chiara Bellandi formalizan verbalmente su relación. No es el inicio de sus sentimientos ni de su funcionamiento como pareja: es el momento en que nombran algo que su círculo cercano ya reconoce.
 
@@ -1932,9 +2231,9 @@ La redacción final de la explicación emocional de Cole queda abierta. No debe 
 
 ## Estado y posición
 
-- **Número:** PENDIENTE.
-- **Posición exacta:** PENDIENTE; requiere intimidad, rutinas y círculo cercano que ya los lea como pareja.
-- **Estado:** CANON DEL AUTOR; diálogo final y colocación aún pendientes.
+- **ID:** H21 (asignado 2026-08-29).
+- **Posición canon (2026-08-29):** ocurre **después de** H5–H7, del [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños/mudanza]], del [[#H17 — Italia / Mesa de las Familias|viaje a Italia]], del [[#H18 — El regreso de Palermo|regreso con fricción]], del [[#H19 — El asalto a Camp Alder|asalto a la base]], del arresto militar y de la [[#H20 — Consecuencia: Halbrook / prisión militar / Lucia|intervención de Lucia]]. Es el **puesto 21** de la tabla de orden narrativo (ID **H21**). El retraso es intencional: Cole y Chiara han sido pareja **por conducta** durante mucho tiempo antes de etiquetarla; formalizar no crea la pareja, sólo le pone nombre.
+- **Estado:** CANON DEL AUTOR; diálogo final (redacción de la explicación emocional de Cole) y colocación fina aún pendientes.
 
 ---
 
@@ -1987,10 +2286,10 @@ La reconciliación posterior de Cole y Chiara no absuelve automáticamente lo qu
 
 # Hitos por recibir
 
-- **El paso del usted al tú.** Umbral, no descuido. Ver H2.
+- **El paso del usted al tú.** Umbral, no descuido. Ver H2. **Resuelto provisionalmente en el Capítulo 7** (escena de la hierba); se puede mover si el autor prefiere otro umbral.
 - **La primera Navidad y el collar.** Obligatorio: es donde nace el ritual que sostiene H1, y es la única vez en su vida adulta que Cole acepta un regalo sin convertirlo en transacción.
 - **La primera vela.** **Resuelta de diseño:** nace después de [[06_Relationships/Momentos_de_Fractura]], F4, el Año Nuevo en Washington. Falta escribir la escena exacta.
-- **La mudanza.** Cuándo y cómo Chiara pasa a vivir en [[05_Locations/La_Casa]]. Para estos dos, mudarse pesa más que casarse.
+- **~~La mudanza~~ — COLOCADA (2026-08-29):** es [[#H16 — El cumpleaños / la mudanza oficial]], el día del cumpleaños de Chiara, después de H7. Para estos dos, mudarse pesa más que casarse. Faltan los detalles de ejecución.
 - **Las clases de italiano** — canon obligatorio, porque H1 las cobra. Domésticas, repetidas, cómicas.
 - **La reparación** — Fase 5.
 

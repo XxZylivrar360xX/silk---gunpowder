@@ -1,9 +1,9 @@
 <!--
 Estado: borrador provisional.
 Protagonistas: Cole Mercer, Chiara Bellandi, Nadir Amrani.
-Ventana temporal: continua directamente del Capitulo 9. Semanas de convivencia en la casa comun, despues la recompra y el diseno de la casa.
+Ventana temporal: continua directamente del Capitulo 9. Semanas en la casa comun, despues la recompra y el diseno de la casa.
 Lugares: Casa Comunitaria de La Almendra, La Casa (la vieja casa de los padres de Cole).
-Funcion: cerrar H12 -- la friccion con Nadir, la recompra, el diseno pagado por Chiara, la vida domestica que crece por costumbre. Nadie anuncia que se estan mudando juntos.
+Funcion: ejecutar el hito "El loft del soltero" -- la friccion con Nadir, la recompra, el diseno pagado por Chiara, la comodidad domestica que empieza a crecer. Chiara NO se muda aqui (eso es un hito posterior, el cumpleanos): deja objetos sueltos y se queda alguna noche, nada mas. Poda quirurgica 2026-08-29: se quitaron los marcadores de convivencia diaria (laptop instalada, rutina de trabajo desde la casa, cafe cada manana).
 -->
 
 # Capítulo 10 — El loft del soltero
@@ -64,11 +64,11 @@ Danny no preguntó más. Nadie lo hizo.
 
 ***
 
-Lo primero que dejó ahí fue un libro, olvidado sobre la mesa de noche una tarde que se quedó a comer y se le hizo tarde para volver al penthouse. Después una manta, doblada sobre el respaldo del sofá como si siempre hubiera estado ahí. Un cepillo de dientes en el baño, junto al de él, sin ceremonia. Cremas en el botiquín. Una almohada que de pronto era *su* almohada, y que Cole dejó de mover al lado que le correspondía a ella sin que ninguno de los dos lo comentara. La computadora, al final, porque ya no tenía sentido cargarla todos los días.
+Lo primero que dejó ahí fue un libro, olvidado sobre la mesa de noche una tarde que se quedó a comer y se le hizo tarde para volver al penthouse. Después una manta, doblada sobre el respaldo del sofá como si siempre hubiera estado ahí. Un cepillo de dientes en el baño, junto al de él, sin ceremonia. Cremas en el botiquín. Una taza que era ya *su* taza, la que nadie más tocaba.
 
 Nadie lo anunció. Nadie dijo *nos estamos mudando juntos*, porque no era eso — era más lento y más simple que eso, la misma costumbre que hace que una taza termine siempre en la misma repisa sin que nadie la ponga ahí a propósito.
 
-Cole cocinaba mal, con una convicción que no se correspondía con el resultado, y Chiara aprendió a comer lo que salía sin comentar nada, o comentando lo justo para hacerlo reír. Las mañanas que ella salía temprano al Monarch, dejaba el café listo antes de irse — la cafetera programada, la taza sacada, todo esperando a que él bajara medio dormido y lo encontrara servido sin haber pedido nada.
+Cole cocinaba mal, con una convicción que no se correspondía con el resultado, y las noches que ella se quedaba aprendió a comer lo que salía sin comentar nada, o comentando lo justo para hacerlo reír.
 
 Ninguno de los dos le puso nombre a eso tampoco.
 

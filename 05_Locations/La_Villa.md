@@ -53,7 +53,7 @@ Y dice **"queremos"**, no *quiero*. **La única vez en el libro en que Cole deci
 
 Durante los meses de obra, Chiara está encima **como una leona, y neurótica con los obreros**, asegurándose de que hasta el detalle más mínimo cuadre **con los planos físicos y con los suyos mentales.**
 
-> **DISEÑO — la simetría perfecta con el loft.** En [[06_Relationships/Hitos]], H5, fue **su manía de tener todo organizado** lo que hizo que Cole le pidiera ayuda, y ella terminó diseñando la casa de él sin saber que sería de los dos.
+> **DISEÑO — la simetría perfecta con el loft.** En [[06_Relationships/Hitos#H14 — El loft del soltero]], fue **su manía de tener todo organizado** lo que hizo que Cole le pidiera ayuda, y ella terminó diseñando la casa de él sin saber que sería de los dos.
 >
 > Aquí se invierte: **él compra la casa para ella, y ella la construye.**
 >

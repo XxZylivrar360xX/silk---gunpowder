@@ -26,23 +26,38 @@ Si una escena nueva cambia de forma irreversible una relacion, deuda, ritual o j
 
 ## Fase II / III - La formula y la pareja
 
-9. [[06_Relationships/Hitos#H3 — La noche del ladrillo]] - florero, calcetas blancas, ladrillo.
-10. [[06_Relationships/Hitos#H4 — El día nublado]] - cita del golf; aqui se define la relacion.
-11. [[06_Relationships/Hitos#H9 — La carrera de máscaras]] - Chiara sale de su zona de confort y sonrie de verdad.
-12. [[06_Relationships/Hitos#H5 — El hipódromo]] - ataque contra Chiara; tension parte 1.
-13. [[06_Relationships/Hitos#H6 — El pacto]] - Cole entra a la organizacion de Varek para proteger a Chiara y deshacerla desde dentro.
-14. [[06_Relationships/Hitos#H7 — El río]] - cierre en calma del arco de tension; "vamos a casa".
+> Orden actualizado a la cronologia consolidada del 2026-08-29. Ver [[06_Relationships/Hitos]], tabla de orden.
+
+9. [[06_Relationships/Hitos#H3 — La noche del ladrillo]] - florero, calcetas blancas, ladrillo; Chiara ya reconoce la atraccion.
+10. [[06_Relationships/Hitos#H9 — La carrera de máscaras]] - Chiara sale de su zona de confort y sonrie de verdad. *(Adelantado: entre H3 y H12.)*
+11. [[06_Relationships/Hitos#H12 — El atentado / El corral]] - ataque contra Chiara, hospital, encañonamiento y tregua con Dario, refugio temporal en La Almendra. *(Escrito, Cap. 9. Antes "H5 — El hipodromo".)*
+12. [[06_Relationships/Hitos#H14 — El loft del soltero]] - Cole recompra la casa de sus padres; Chiara la diseña; ella todavia NO se muda. *(Escrito, Cap. 10; prosa podada el 2026-08-29 para retirar la convivencia prematura.)*
+13. [[06_Relationships/Hitos#H10 — El infarto de Héctor]] - Hector los empuja el uno hacia el otro; la carta; la mano sobre la mano. Todavia no se han besado. *(Escrito, Caps. 13-14 — renumerados el 2026-08-29; apertura del Cap. 13 reescrita el 2026-08-29.)*
+14. [[06_Relationships/Hitos#H4 — El día nublado]] - cita del golf; Cole deduce que Chiara mato a su exmarido; profundiza la eleccion. **NO formaliza la relacion.** *(Cap. 15, ESCRITO 2026-08-29.)*
+15. [[06_Relationships/Hitos#H11 — El mirador]] - bolos, el drift, las estrellas, Dale y Ruth: el primer beso y la primera intimidad. *(Escrito, Cap. 16 — renumerado el 2026-08-29; apertura reescrita el 2026-08-29 al residuo del Cap. 15 / H4.)*
+16. [[06_Relationships/Hitos#H15 — La noche del jacuzzi]] - libros abiertos por eleccion; Varek advierte a Chiara de madrugada. *(Separado de H5.)*
+17. [[06_Relationships/Hitos#H5 — San Aurelio]] - Cole sale de la ciudad; "me encuentro bien"; confrontacion Varek-Chiara (3 lineas canon). Tension parte 1.
+18. [[06_Relationships/Hitos#H6 — El pacto]] - Cole entra a la organizacion de Varek para proteger a Chiara y deshacerla desde dentro.
+19. [[06_Relationships/Hitos#H7 — El río]] - cierre en calma del arco de tension; "vamos a casa". Pareja de facto sin etiqueta.
+20. [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]] - Chiara se muda con Cole el dia de su cumpleaños; porque lo eligen.
+21. [[06_Relationships/Hitos#H17 — Italia / Mesa de las Familias]] - viajan juntos a Palermo; la Mesa golpea la relacion. Reservado.
+22. [[06_Relationships/Hitos#H18 — El regreso de Palermo]] - vuelven separados y con friccion; sin ruptura.
+23. [[06_Relationships/Hitos#H19 — El asalto a Camp Alder]] - Cole no entra a ver a Chiara para poder cumplir la mision; se entrega para cubrir a Hector y Nadir; arresto militar.
+24. [[06_Relationships/Hitos#H20 — Consecuencia: Halbrook / prisión militar / Lucia]] - Halbrook lo saca por un trato; Chiara acude a Lucia, que registra que lo suyo excede los negocios.
 
 ## Fase IV / V - La factura
 
-15. [[06_Relationships/Hitos#H8 — El incendio, la mentira y la villa]] - queman el loft; Cole miente; nace Villa Candelaria.
-16. Primera Navidad y collar - pendiente de escena; nace "RETORNA A CASA".
-17. [[06_Relationships/Hitos#Hito por numerar — Mi pareja]] - formalización verbal; dejan de ser "esto" y pasan a tener nombre. Número y posición exacta pendientes.
-18. [[06_Relationships/Hitos#Hito mayor por numerar — La iglesia, la caída y la ejecución de Dario Varek]] - atentado, coma de Chiara, caída legal de Dario y ejecución por Cole. Número y detalles de desarrollo pendientes.
+> **Mi pareja** (formalizacion verbal) se movio a esta zona el 2026-08-29: cae despues de H5-H7, la mudanza, Italia, el regreso de Palermo, el asalto a Camp Alder y la intervencion de Lucia — no en Fase III.
+
+25. [[06_Relationships/Hitos#H21 — Mi pareja]] - formalización verbal; dejan de ser "esto" y pasan a tener nombre. Posicion canon fijada: puesto 21 de la tabla de orden, despues de Palermo y Camp Alder.
+26. [[06_Relationships/Hitos#H8 — El incendio, la mentira y la villa]] - queman el loft; Cole miente; nace Villa Candelaria. *(Posicion en la secuencia: PENDIENTE.)*
+27. Primera Navidad y collar - pendiente de escena; nace "RETORNA A CASA".
+28. [[06_Relationships/Hitos#H13 — El pañuelo]] - intercepcion de Il Consorzio en la iglesia; planta el viaje a Palermo. *(Posicion fijada 2026-08-29: puesto 16 de la tabla de orden, justo antes de H17 — Italia.)*
+29. [[06_Relationships/Hitos#Hito mayor por numerar — La iglesia, la caída y la ejecución de Dario Varek]] - atentado, coma de Chiara, caída legal de Dario y ejecución por Cole. Número y detalles de desarrollo pendientes.
 
 ## Climax
 
-19. [[06_Relationships/Hitos#H1 — El regreso a casa]] - operacion imposible, piscina, Camila, bano, italiano, promesa cumplida.
+30. [[06_Relationships/Hitos#H1 — El regreso a casa]] - operacion imposible, piscina, Camila, bano, italiano, promesa cumplida.
 
 ## Huecos activos
 

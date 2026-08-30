@@ -34,6 +34,7 @@ En el taller, Héctor funciona como filtro humano: Cole puede delegarle el visto
 - **[[06_Relationships/Hitos]], H12, el corral** — le toca el turno de guardia la segunda noche que Chiara está hospitalizada. A solas con ella, dormida, le habla en voz baja de su propio miedo a encariñarse a esta edad y de cuánto ya quiere a Chiara sin habérselo propuesto — primer asomo, sin nombrarlo todavía, de lo que en H10 se vuelve explícito con Cole. Ella nunca lo oye; Cole tampoco sabe que pasó.
 - **[[06_Relationships/Hitos]], H10** — sufre un infarto y pasa una semana en cama/hospital. Chiara lo encuentra caído en el portón (había ido a buscar a Cole). Se convierte, sin que nadie se lo pida, en **el hombre que empuja a Cole y a Chiara el uno hacia el otro** — les habla por separado de lo que están empezando a sentir y le quita a cada uno la excusa con la que se estaba frenando. Ver esa entrada para el detalle completo.
 - **[[06_Relationships/Hitos]], H1** — **de todos los hombres que Cole sacó de la operación imposible, Navarro fue el único que se dio cuenta de que volvía herido. Y lo dejó irse solo a casa.**
+- **[[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]]** — va con Cole en una entrega de cocaína y en el trayecto Cole le confía que quiere regalarle una yegua a Chiara (el caballo de ella, Vento, hubo que sacrificarlo por una fractura de vejez). Héctor lo ayuda en la **odisea cómica** de traer la yegua desde otro estado y meterla en el remolque del hipódromo sin que Chiara se entere.
 
 Eso último es su escena definitoria, y hay que decidir de qué está hecha: o entendió que la única forma de que ese hombre acepte ayuda es no ofrecérsela, o lleva demasiados años sabiendo que no puede pararlo. **Las dos lecturas le cobran algo después.**
 
@@ -57,7 +58,7 @@ Encaja con quién es: **es la única persona que quiere a Cole sin deberle nada*
 
 > **PENDIENTE:** ¿llama él a Chiara la noche de H1, o decide no llamarla? Cualquiera de las dos es una escena.
 
-> **RESUELTO (2026-08-26):** el momento existe — [[06_Relationships/Hitos]], H10, Capítulo 15 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/15_Cuatro_Letras]]). No fue tarde: fue en el hospital, después del infarto, cuando le dice a Cole que decidir de qué protege a Chiara no es suyo — es de ella.
+> **RESUELTO (2026-08-26; renumerado 2026-08-29):** el momento existe — [[06_Relationships/Hitos]], H10, **Capítulo 14** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_Cuatro_Letras]]). No fue tarde: fue en el hospital, después del infarto, cuando le dice a Cole que decidir de qué protege a Chiara no es suyo — es de ella.
 
 > **RESUELTO (2026-08-23):** no había colisión. El sanitario de Afganistán es **Michael Grayson** y su hija **Marisol Grayson**. *Héctor Duarte* es **otro personaje distinto, que el autor definirá después** — nombre reservado, no usar.
 

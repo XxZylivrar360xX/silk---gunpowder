@@ -14,17 +14,19 @@
 >
 > **La casa es la vieja casa de los padres de Cole.** Donde lo criaron Dale y Ruth Mercer, donde su padre lo abandonó y donde su madre se murió.
 >
-> **RESUELTO (2026-08-27):** Cole la **recompró** en [[06_Relationships/Hitos]], H12 ("El corral") — no por nostalgia ni cálculo, sino porque la fricción entre Chiara y [[02_Characters/Nadir_Amrani]], conviviendo en [[05_Locations/Casa_Comunitaria_De_La_Almendra]] mientras ella se recuperaba de un ataque, se volvió insostenible. Necesitaba un lugar propio para ella. **Sigue PENDIENTE** por qué la familia había dejado de tener la casa (deudas de Dale con Crowe, u otra razón). Para cuando ocurre H10 (el infarto de Héctor), Cole ya vive ahí, ya recomprada y ya diseñada por Chiara.
+> **RESUELTO (2026-08-27; hito separado 2026-08-29):** Cole la **recompró** en el hito **[[06_Relationships/Hitos#H14 — El loft del soltero]]** (antes segunda mitad de H12) — no por nostalgia ni cálculo, sino porque la fricción entre Chiara y [[02_Characters/Nadir_Amrani]], conviviendo en [[05_Locations/Casa_Comunitaria_De_La_Almendra]] mientras ella se recuperaba del ataque de [[06_Relationships/Hitos#H12 — El atentado / El corral|H12]], se volvió insostenible. Necesitaba un lugar propio. **Sigue PENDIENTE** por qué la familia había dejado de tener la casa (deudas de Dale con Crowe, u otra razón). Para cuando ocurre H10 (el infarto de Héctor), Cole ya vive ahí, ya recomprada y ya diseñada por Chiara.
 >
 > Cole la **vació entera** — la limpiaron hasta dejarla en un lienzo en blanco — y le pidió a Chiara ayuda para plantear la distribución. Le dijo que quería montar **un loft para soltero.** Ella llamó a una empresa de construcción y decoración, **y escogió ella misma los muebles.**
 >
-> **Sin proponérselo, Chiara diseñó la primera casa que terminaría siendo de los dos.** Ver [[06_Relationships/Hitos]], H12 *(corregido 2026-08-27; antes decía H5 por error — la recompra y el diseño ocurren en H12, mucho antes)*.
+> **Sin proponérselo, Chiara diseñó la primera casa que terminaría siendo de los dos.** Ver [[06_Relationships/Hitos#H14 — El loft del soltero]]. **Pero Chiara NO se muda aquí en ese punto:** la mudanza oficial es un hito posterior, el día de su cumpleaños (ver [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]]). Hasta entonces sólo pasa tiempo y deja algún objeto suelto.
 
 ---
 
 ## Cómo termina — CANON
 
-**[[02_Characters/Silas_Crowe]] lo incendia**, por un cargamento que Cole no entregó a tiempo cuando todavía trabajaba para él. Cole se lo explica a Chiara como **una fuga de gas**, y le oculta la amenaza que venía detrás. Ella nunca se lo traga: *una fuga de gas jamás dejaría un desastre así.*
+**[[02_Characters/Silas_Crowe]] lo incendia.** Cole se lo explica a Chiara como **una fuga de gas** — *"la mentira más cara del libro"* — y le oculta la amenaza que venía detrás. Ella nunca se lo traga: *una fuga de gas jamás dejaría un desastre así.*
+
+> **Cuándo (2026-08-29, autor):** H8 cae **después de Año Nuevo** (F4) y **después de F3 — Los frenos**, ya avanzada la Parte II. El motivo canon ("un cargamento no entregado, cuando Cole todavía trabajaba para Crowe") queda por reajustar a esa altura — a esas alturas Cole ya no trabaja para Crowe; el incendio es castigo a la autonomía consumada. Ver [[06_Relationships/Hitos#H8 — El incendio, la mentira y la villa]].
 
 **Y ella también perdió su hogar ese día**, aunque la casa fuera de él y aunque nadie lo diga en voz alta.
 
@@ -108,7 +110,9 @@ Su *me quedo* también es geográfico. Ver [[00_Biblia/Temas]], tema 5 — y [[0
 
 > **RESUELTO EN PARTE (2026-08-26):** Cole recompró la casa antes de vaciarla. **Sigue PENDIENTE** por qué había dejado de ser suya.
 
-> **RESUELTO EN PARTE (2026-08-27):** no hay escena de mudanza — nunca la hay para estos dos (ver [[06_Relationships/Cole_y_Chiara]], "Cuándo deja de ser suya y pasa a ser de los dos"). Chiara empieza a dejar cosas ahí por costumbre desde [[06_Relationships/Hitos]], H12, mucho antes de H5: un libro, una manta, un cepillo de dientes, cremas, una almohada, su computadora. Para cuando pasa cualquier otra escena posterior en la casa, ya lleva tiempo viviendo ahí de facto. **Nota de continuidad:** esto deja "la noche de la sudadera" en H5 como un detalle dentro de una convivencia ya en marcha, no como la primera vez que ella duerme ahí — **PENDIENTE** que el autor confirme si quiere conservar esa escena con otra función o ajustarla.
+> **REVISADO (2026-08-29) — sí hay hito de mudanza.** Bajo la cronología consolidada, la **mudanza oficial de Chiara es un hito propio**, el día de su cumpleaños, después de H7: [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]]. Antes de eso, en el hito [[06_Relationships/Hitos#H14 — El loft del soltero|El loft del soltero]], ella sólo puede pasar tiempo, cenar, dormir alguna noche y dejar algún objeto suelto — **NO** closet propio, computadora instalada, rutina diaria ni cajones. (La prosa del Capítulo 10 se podó el 2026-08-29 para respetar esto; la laptop y el café diario pasaron al hito del cumpleaños.) La "noche de la sudadera" de H5 (San Aurelio) queda como una noche de vigilancia en una casa donde ella todavía no vive.
+
+> **CÓMO SE EJECUTA LA MUDANZA — CANON DEL AUTOR (2026-08-29):** no hay escena de traslado. En su cumpleaños, Cole le da una **cajita de madera con una llave del loft**: *"ya pasas las noches ahí, quiero que pases también las mañanas, si estás de acuerdo".* La llave es el acto. Detalle de la casa que estrena aquí: el **cuarto bodega**, donde la noche anterior Cole esconde bajo una manta la botella robada de Domaine de la Romanée-Conti (ver el hito). A partir de la llave empiezan la computadora que se queda y el café listo cada mañana.
 
 > **PENDIENTE:** los perros. Cole se queda con lo que aparece en el patio ([[02_Characters/Cole_Mercer]], reglas duras). ¿Viven en el taller o en la casa?
 

@@ -2124,3 +2124,219 @@ El atacante sigue sin identificarse ni sugerirse.
 El autor confirmó que el apellido canon de Dario es **Varek** y que su origen es croata-estadounidense, con ascendencia dálmata o balcánica. La organización no debe leerse como mafia italiana. Se renombraron sus fichas, se actualizaron las referencias activas y se crearon fichas base para Lucia, Beatrice/Trix y Vivian/VV/Tri-V.
 
 Se integraron en `06_Relationships/Hitos.md` dos hitos por numerar: la formalización verbal de Cole y Chiara ("mi pareja") y el arco mayor de la iglesia, la caída y la ejecución de Dario. H13 permanece como evento previo e independiente. Los números y pendientes de desarrollo siguen abiertos.
+
+## [2026-08-29] canon + estructura | Consolidacion de la cronologia relacional temprana
+
+El autor entrego un encargo de integracion (`98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_CONSOLIDAR_NUEVA_LINEA_TEMPORAL_RELACIONAL.md`) que redefine el orden del arco Cole/Chiara. NO se escribio prosa nueva; solo documentos estructurales.
+
+**Nueva cronologia (Hitos.md, tabla de orden):** H2, H2-a, H2-b, H3, H9, H12, El loft del soltero, H10, H4, H11, La noche del jacuzzi, H5 (San Aurelio), H6, H7, El cumpleaño/mudanza, Italia/Mesa de las Familias, El regreso de Palermo, El asalto a Camp Alder, Consecuencia Halbrook/Lucia, Mi pareja.
+
+**Cambios principales:**
+- **H9** se adelanta a entre H3 y H12 (antes iba justo antes de H5).
+- **El loft del soltero** se separa de H12 como hito propio (recompra + diseño de la casa). H12 pasa a llamarse "El atentado / El corral" y cubre solo atentado + hospital + investigacion + refugio temporal. **H12 ya no significa que Chiara se mude.**
+- Orden **H10 -> H4 -> H11**: la primera intimidad (H11) ocurre despues de H10 y H4, no antes.
+- **H4** deja de "definir la relacion": no formaliza nada; Cole deduce que Chiara mato a su exmarido y toma la decision interna de "quedarse".
+- **La noche del jacuzzi** se separa de H5 como hito propio (libros abiertos + advertencia de Varek de madrugada), inmediatamente antes de H5.
+- **H5 deja de ser "El hipodromo" y pasa a "San Aurelio"**: nucleo = salida abrupta de Cole, los dos mensajes ("cuida el barrio" / "me encuentro bien") y la confrontacion Varek-Chiara ("Trabajas para mi. No conmigo." / "¿Te estas acostando con el?" / "Si hay que eliminar a Cole, entonces tu vas a hacerlo.").
+- **La mudanza oficial** de Chiara se retrasa al dia de su cumpleaños (hito nuevo, despues de H7), y ocurre porque lo eligen, no por necesidad.
+- Hitos nuevos añadidos: Italia / Mesa de las Familias, el regreso de Palermo, el asalto a Camp Alder (Cole se entrega para cubrir a Hector y Nadir; arresto militar) y la consecuencia Halbrook / prision militar / Lucia (siembra: Lucia registra que lo de Chiara con Cole excede los negocios).
+- **"Mi pareja"** (formalizacion verbal) se coloca al final de la secuencia, despues de Palermo y Camp Alder.
+- **Sin colocar (PENDIENTE):** H13 y H8.
+
+**Desfases de manuscrito registrados, SIN corregir prosa:** Capitulo 10 (cohabitacion prematura de facto) y el orden Capitulo 13 (H11) frente a Capitulos 14-15 (H10). Ambos quedan como encargos de prosa separados en PENDING.
+
+**Archivos tocados:** `06_Relationships/Hitos.md` (tabla de orden reescrita; H12 redelimitado y renombrado; secciones nuevas "El loft del soltero", "La noche del jacuzzi", "El cumpleaño/mudanza", "Italia/Mesa de las Familias", "El regreso de Palermo", "El asalto a Camp Alder", "Consecuencia Halbrook/Lucia"; H4/H9/H10/H11 reposicionados; H5 reformulado a "San Aurelio"; "Mi pareja" y "Hitos por recibir" actualizados), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `06_Relationships/Cole_y_Chiara.md`, `01_Timeline/00_Estructura_del_Ascenso.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/PENDING.md`, `log.md`.
+
+## [2026-08-29] edit | Cap. 10 -- poda de convivencia prematura (triaje contradiccion #1, opcion A)
+
+Como parte del triaje de contradicciones de la consolidacion de cronologia, se podo el Capitulo 10 (*El Loft Del Soltero*) para que respete el canon nuevo de que Chiara NO se muda hasta el hito del cumpleanos.
+
+**Quitado del Cap. 10:** la almohada que "de pronto era su almohada" y que Cole dejaba de mover a su lado de la cama; "la computadora, al final, porque ya no tenia sentido cargarla todos los dias"; y el parrafo de la rutina del cafe cada manana ("las mananas que ella salia temprano al Monarch, dejaba el cafe listo... la cafetera programada, la taza sacada..."). Se ajusto "Chiara aprendio a comer lo que salia" a "las noches que ella se quedaba aprendio a comer lo que salia".
+
+**Conservado en el Cap. 10:** libro, manta, cepillo de dientes, cremas, una taza favorita, noches sueltas, y el parrafo que dice explicitamente que *no* se estan mudando ("era mas lento y mas simple que eso").
+
+**Reservado para el hito del cumpleanos:** la laptop que por fin se queda y el cafe listo cada manana, ahora como los gestos que marcan la mudanza real.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Loft_Del_Soltero.md`, `06_Relationships/Hitos.md` (H12, "El loft del soltero", "El cumpleanos / la mudanza oficial"), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `12_Craft_Policies/milestones/INDEX.md`, `02_Characters/Chiara_Bellandi.md`, `05_Locations/La_Casa.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/PENDING.md`, `log.md`.
+
+## [2026-08-29] estructura | Reordenacion H10 -> H4 -> H11 (triaje contradiccion #2, opcion A)
+
+La cronologia consolidada pone H10 antes de H11, con H4 intercalado, pero el manuscrito los tenia al reves (Cap. 13 = H11, Caps. 14-15 = H10). Se reordenaron los capitulos.
+
+**Renombrados (git mv):**
+- `14_El_Porton.md` -> `13_El_Porton.md` (H10, 1a mitad)
+- `15_Cuatro_Letras.md` -> `14_Cuatro_Letras.md` (H10, 2a mitad)
+- `13_El_Mirador.md` -> `16_El_Mirador.md` (H11)
+- `16_Sin_Rastro.md` -> `17_Sin_Rastro.md` (beats 16-17)
+
+**Creado:** `15_El_Dia_Nublado.md` -- hueco reservado para H4, PENDIENTE DE REDACTAR.
+
+**Metadatos y titulos ajustados** en los 4 archivos renombrados (numero de capitulo, ventana temporal, funcion) mas notas de "pendiente de reescritura de apertura".
+
+**Cascada de referencias:** `06_Relationships/Hitos.md` (notas de H11/H10), `06_Relationships/Cole_y_Chiara.md`, `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md` (lista de capitulos + Umbral A + conflictos), `01_Timeline/01_Primer_Borrador_Beats.md` (beats 15-a, 15-b, 16, 17, 22 y nota de orden), `12_Craft_Policies/milestones/INDEX.md`, `12_Craft_Policies/revelations/Book_01_Seda_y_Polvora.md`, `02_Characters/Hector_Navarro.md`, `07_Ideas/El_Infarto_De_Hector.md`, `07_Ideas/El_Mirador.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/PENDING.md`.
+
+**Prosa pendiente (no tocada aun):** reescribir la apertura del Cap. 13 (*El porton*) -- hoy abre con "la manana despues del mirador"; reescribir la apertura del Cap. 16 (*El mirador*) -- hoy abre con el residuo de "Roma Atrii"; redactar el Cap. 15 (*El dia nublado* / H4). EPUB por regenerar despues.
+
+## [2026-08-29] doc | Checklist de triaje para varias terminales
+
+Creado `98_Agent_Handoff/TRIAJE_CRONOLOGIA_RELACIONAL.md`: checklist vivo del triaje de la consolidacion de cronologia relacional, con estado de cada contradiccion (#1 y #2-estructura hechos; #3-#7 aplicados provisionalmente; prosa de #2 pendiente), pendientes de decision del autor y tareas post-triaje. Enlazado desde `INDEX.md` y `CURRENT_BRIEF.md`.
+
+## [2026-08-29] prosa | Cap. 13 (El porton) -- apertura reescrita + revision de Hector en Caps. 13-14 (triaje PROSA-A y PROSA-D)
+
+**PROSA-A -- apertura del Cap. 13.** Se eliminaron las dos escenas de apertura que presuponian que H11 ya habia ocurrido: (1) Chiara despierta primero en el penthouse con el brazo de Cole cruzandole la cintura y el dialogo de "quien se mueve primero"; (2) Chiara terminando de vestirse frente al espejo mientras Cole explica el viaje. Nueva apertura (~20 lineas) montada sobre el residuo del Cap. 12: el papel de "Roma Atrii" doblado sobre la repisa de la casa, sin resolver, y la promesa de Chiara ("de ahi en mas lo que tenga que llegarte lo traigo yo") cumplida por primera vez -- llega sin avisar con un sobre (un comprador del norte para la hierba de Nadir). De ese mismo intercambio arranca la conversacion del viaje ("¿y por que vas tu?", "cuidate / siempre / eso no es lo mismo que hacerlo", el toque de dos dedos en el hombro). Sin cama compartida, sin manana-despues. El cuerpo del capitulo (robo de Nadir y Danny, infarto, carta, carrera al casino) no se toco. Comentario de metadatos actualizado.
+
+**PROSA-D -- Hector en Caps. 13-14: revisado, SIN CAMBIOS.** Ambos capitulos ya escriben a Hector empujando hacia un cruce que aun no ocurre, no comentando una pareja hecha: Chiara dice "todavia estoy aprendiendo quien es Cole" y "somos de mundos distintos"; Hector responde en futuro ("juntos van a llegar mas lejos", "se equivoca acompañada"); a Cole le quita la excusa de decidir por ella ("no es tuyo decidir de que la cuidas, es de ella") y el "no se como se hace esto / se hace igual, con miedo y todo" es sobre permitirselo. El cierre canon (mano sobre la mano) no se comenta. No hizo falta editar prosa.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/13_El_Porton.md`, `98_Agent_Handoff/TRIAJE_CRONOLOGIA_RELACIONAL.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/PENDING.md`, `log.md`.
+
+**Pendiente de prosa del triaje:** apertura del Cap. 16 (*El mirador*) y redaccion del Cap. 15 (*El dia nublado* / H4). EPUB por regenerar despues.
+
+## [2026-08-29] prosa | Cap. 15 (El dia nublado / H4) redactado + Cap. 16 apertura reescrita (triaje PROSA-C y PROSA-B)
+
+Cierra el bloque de prosa de la reordenacion H10 -> H4 -> H11.
+
+**PROSA-C -- Cap. 15 (*El dia nublado*), redaccion completa (~155 lineas).** Ejecuta H4 segun [[06_Relationships/Hitos]]. Apertura por residuo del Cap. 14: la frase de Hector ("no es tuyo decidir de que la cuidas, es de ella") trabajando en Cole. Estructura: el chiste del porcentaje del campo de golf lleva a jugar; dia gris parejo (anomalia en San Aurelio, da titulo); pantalon blanco ajustado que Cole odiara siempre + boina que se niega a usar; juego de preguntas entre hoyos que escala de souvenirs a "¿alguna vez has matado a alguien?" -- Cole contesta sobrio ("en el ejercito, mas de una vez, no se cuenta bonito"; version PROVISIONAL) y turna la misma pregunta a Chiara: el exmarido, cuenta "lo suficiente" sin decir "yo lo mate", cierra el tema ("no preguntes lo que sigue"); **Cole deduce, desde su POV, que al marido lo mato ella; no la confronta, no la juzga, no pregunta lo que sigue**; primer silencio incomodo, escrito largo, en el coche hasta el casino (contraste explicito con los silencios comodos de H2-b); aparcados: "esto tambien es nuevo para mi" / "si quieres marcharte, yo lo entendere" (canon) / minuto de silencio / apaga el motor, abre la puerta desde fuera / "anda, hay que subir" (canon); penthouse: hombro, mano sin pena, se duermen sentados sin nada fisico; cierre: "buenos amigos" sostenido sin que se les mueva un musculo, flash-forward de una linea a la vitrina de anillos ("no habia decidido quedarse en San Aurelio; habia decidido que queria estar donde estuviera ella"), la nube por fin se rompe. Sin beso, sin etiqueta.
+
+**PROSA-B -- Cap. 16 (*El mirador*), apertura reescrita.** Se reemplazaron las ~12 primeras lineas (residuo de "Roma Atrii", ya recogido en el Cap. 13) por el residuo del Cap. 15 (H4): la tarde del campo de golf que vuelve en ratos raros -- no el hombro y la mano, sino lo que Chiara conto del exmarido y lo que Cole entendio sin que ella lo dijera y no ha vuelto a tocar; "semanas de *somos solo buenos amigos*". Se conservo el intercambio "Estas en otro lado" y la llamada de los bolos como bisagra al primer corte. Resto del capitulo intacto. Metadatos actualizados.
+
+**Pendientes abiertos dentro del Cap. 15 (a confirmar con el autor):** si este es "el dia nublado" que menciono el autor; que contesta Cole exactamente a la pregunta de matar; donde queda Blake Stanton en este punto; el campo de golf necesita ficha en `05_Locations/` y decidir si Cole tiene de verdad un porcentaje.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/15_El_Dia_Nublado.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/16_El_Mirador.md`, `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `06_Relationships/Hitos.md`, `06_Relationships/Cole_y_Chiara.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `12_Craft_Policies/milestones/INDEX.md`, `07_Ideas/El_Mirador.md`, `98_Agent_Handoff/TRIAJE_CRONOLOGIA_RELACIONAL.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/PENDING.md`, `log.md`.
+
+**Pendiente:** regenerar el EPUB (`tools/epub-build/`) con la nueva numeracion y los Caps. 13, 15 y 16 tocados.
+
+## [2026-08-29] cierre | Post-triaje cronologia relacional: EPUB, voz de Hector, barrido de anclas
+
+Cierra el Bloque 3 del triaje ([[98_Agent_Handoff/TRIAJE_CRONOLOGIA_RELACIONAL]]). Nada de esto toca canon; es mantenimiento.
+
+**EPUB regenerado.** `python ./tools/epub-build/build_epub.py`, exit 0. 17 capitulos, incluye el nuevo Cap. 15 (*El dia nublado*) y el Cap. 16 con la apertura reescrita. Salida en `tools/epub-build/output/Seda_y_Polvora.epub`.
+
+**Ficha de voz de Hector creada:** `12_Craft_Policies/voice/Hector_Navarro.md`. Extraida del canon ya escrito (Caps. 1, 3, 9, 13, 14), no inventada. Rasgos: cadencia antifonal seca (toma el ritmo del otro y lo devuelve invertido); "tu" con Cole (lo crio), "usted" con Chiara; sarcasmo de viejo sobre su edad; el silencio como veredicto; arma conversacional = quitarle al otro la excusa ("no es tuyo decidir de que la cuidas, es de ella"); registro emocional raro y plano cuando llega ("Amor son cuatro letras, Cole"), tapado en seguida con una queja. Enlazada en `INDEX.md`. Desbloquea los capitulos con Hector (Cap. 18 en adelante).
+
+**Barrido de anclas Obsidian.** Los headings `# H5 — San Aurelio *(Arco de la tension, parte 1)*` y sus gemelos H6/H7 llevaban el descriptor dentro del `#`, lo que rompia toda ancla `#H5 — San Aurelio` / `#H6 — El pacto` / `#H7 — El rio` del vault (Obsidian slugifica la linea entera). Se limpiaron los tres headings — el descriptor paso a linea en cursiva debajo — y se actualizaron los 3 enlaces internos de `Hitos.md` que aun usaban la forma larga (lineas ~1718, ~2014, ~2090). Ahora resuelven las referencias externas en `02_Characters/Dario_Varek.md`, `02_Characters/Walter_Keegan.md`, `03_Factions/Villani_Motors.md` (x2) y `12_Craft_Policies/milestones/INDEX.md`. `#H12 — El atentado / El corral` y los `#Hito nuevo — ...` ya resolvian. De paso se corrigieron 2 notas "apertura pendiente de reescritura" obsoletas en `milestones/INDEX.md`.
+
+**Archivos tocados:** `06_Relationships/Hitos.md` (headings H5/H6/H7 + 3 enlaces internos), `12_Craft_Policies/voice/Hector_Navarro.md` (nuevo), `12_Craft_Policies/milestones/INDEX.md`, `INDEX.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `98_Agent_Handoff/TRIAJE_CRONOLOGIA_RELACIONAL.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+**Lo que queda del triaje es decision del autor:** confirmaciones #3–#7 y el Bloque 2 de [[98_Agent_Handoff/PENDING]].
+
+## [2026-08-29] canon | Autor confirma los provisionales #3–#7 del triaje
+
+El autor confirmó tal cual las 5 correcciones que se habían aplicado provisionalmente en la consolidación de cronología relacional:
+- **#3** — la repartición de las referencias viejas a "H5 — El hipódromo": ataque/hospital/tregua → `H12`; salida de Cole + "me encuentro bien" + confrontación Varek–Chiara → `H5 — San Aurelio`; advertencia de Varek de madrugada → `La noche del jacuzzi`.
+- **#4** — H4 "profundiza la elección, NO formaliza" en los índices.
+- **#5** — recompra/diseño/vida doméstica van al hito "El loft del soltero"; la mudanza real es el cumpleaños.
+- **#6** — Cap. 9: "hipódromo del Monarch", no "Bellandi Ridge Vineyards".
+- **#7** — Monarch e hipódromo son "misma propiedad (a pie)"; el resto de la tabla de tiempos del mapa operativo se deja igual.
+
+Sin cambios de archivos nuevos: las ediciones ya estaban aplicadas (ver entradas del 2026-08-29 más arriba). Se marcaron `[x] CONFIRMADO` en [[98_Agent_Handoff/TRIAJE_CRONOLOGIA_RELACIONAL]] y se actualizó `CURRENT_BRIEF`. Queda abierto sólo el Bloque 2 (decisiones de fondo) y los provisionales del Cap. 15.
+
+## [2026-08-29] canon | Autor cierra los 4 provisionales del Cap. 15 (H4)
+
+- **"El día nublado":** confirmado — la cita del golf del Cap. 15 ES la escena que el autor mencionó al hablar del marido de Chiara. La revelación del exmarido ocurre aquí; no hay segunda escena.
+- **Respuesta de Cole a "¿alguna vez has quitado una vida?":** queda la versión sobria del Cap. 15 (ejército, más de una vez, "no se cuenta bonito"). NO se adelanta el registro de "soy la muerte caminando" — eso es H1.
+- **Blake Stanton:** ya está fuera del cuadro en este punto de la cronología; no se lo menciona en el Cap. 15.
+- **Campo de golf:** no lleva ficha en `05_Locations/` (es textura, no escenario recurrente); que Cole tenga o no un porcentaje queda deliberadamente vago (el chiste del "nueve por ciento del estacionamiento").
+
+Marcados como RESUELTO en `06_Relationships/Hitos.md` (H4, sección Pendientes). Actualizados el comentario de metadatos del Cap. 15, `00_Book_Map.md`, `TRIAJE`, `PENDING` y `CURRENT_BRIEF`. Con esto el triaje de cronología relacional queda cerrado salvo el Bloque 2 (decisiones de fondo).
+
+## [2026-08-29] estructura | Corte Parte I -> Parte II fijado (Costura A, antes de H5)
+
+El autor decidio el corte entre la Parte I ("El Encuentro Y La Nada") y la Parte II ("La Construccion"): **Costura A — cae antes de H5.**
+
+- **Parte I** = `H2..H3 -> H9 -> H12 -> El loft del soltero -> H10 -> H4 -> H11 -> La noche del jacuzzi`. Cierra con H11 + el jacuzzi ("libros abiertos por eleccion"); la advertencia de Varek de madrugada funciona como gancho.
+- **Parte II** = arranca en **H5 — San Aurelio**, sigue con H6, H7, el cumpleaño/mudanza, Italia/Mesa de las Familias y el regreso de Palermo. (El corte Parte II -> III sigue pendiente — Umbral B.)
+- **Razon:** cambio de funcion mas nitido. Hasta el jacuzzi el crimen es el mecanismo por el que se enamoran (Parte I); desde H5 la estructura de Varek se vuelve fuerza antagonista y empieza el juego de "sistema de dos" (Parte II). Contrapartida asumida: al cerrar la Parte I la eleccion esta declarada pero aun no probada bajo fuego (eso es H6, ya en Parte II).
+- **Manuscrito:** los 17 capitulos escritos son todos Parte I. Ningun movimiento de archivo. La creacion de `Part_02_*` se decide al redactar H5.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md` (Parte I, Parte II, Umbral A -> RESUELTO, "Pendiente de decidir"), `01_Timeline/00_Estructura_del_Ascenso.md`, `06_Relationships/Hitos.md` (fila divisoria en la tabla de orden), `98_Agent_Handoff/TRIAJE_CRONOLOGIA_RELACIONAL.md`, `98_Agent_Handoff/PENDING.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-29] canon | H5: la "situacion externa" es que Halbrook convoca a Cole
+
+El autor fijo la situacion externa que saca a Cole de San Aurelio en [[06_Relationships/Hitos]] H5.
+
+- **La situacion externa es que [[02_Characters/Warren_Halbrook]] convoca a Cole.** Lo saca de la ciudad para reimponerle la correa: **o vuelve a trabajar para el, o reporta a [[02_Characters/Nadir_Amrani]] a ICE** como extranjero en situacion irregular (el problema de Nadir es un papel). Cole va, se reune con Halbrook fuera de San Aurelio y vuelve golpeado con el ultimatum encima; eso arranca H6.
+- **Precedente:** esta es la primera vez que Halbrook tira de la correa en el presente de la novela, y sienta el precedente del **asalto posterior a Camp Alder** (hito nuevo). Con ese encuadre, el hito de Camp Alder y el **beat 74** ("Halbrook o Valenti fuerzan el punto militar") encajan como **el mismo evento** — anotado como DISEÑO pendiente de confirmacion.
+- **Ironia de H5:** Chiara pasa el hito investigando a Varek (porque Varek acababa de decirle que iba a por Cole), cuando el que se lo llevo fue Halbrook. Cole no le da el nombre real. Regla 5 de la pareja: se protegen mintiendose.
+- Sigue abierto: el encargo exacto de Halbrook antes de la infiltracion de la base, y el mecanismo juridico de la salida de prision militar.
+
+**Archivos tocados:** `06_Relationships/Hitos.md` (H5 secciones 12 y "Me encuentro bien", Pendientes de H5, hito "El asalto a Camp Alder"), `02_Characters/Warren_Halbrook.md`, `02_Characters/Nadir_Amrani.md`, `01_Timeline/01_Primer_Borrador_Beats.md` (beat 74), `98_Agent_Handoff/TRIAJE_CRONOLOGIA_RELACIONAL.md`, `98_Agent_Handoff/PENDING.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+**Pendiente del bloque B:** encaje de F3 (los frenos del auto de Chiara, [[06_Relationships/Momentos_de_Fractura]]) con "La noche del jacuzzi".
+
+## [2026-08-29] canon | F3 (los frenos) colocado: Parte II, despues de H6, antes de H8
+
+El autor fijo la posicion de F3 — "Los frenos" ([[06_Relationships/Momentos_de_Fractura]]), la escena donde Cole dice "te amo" por primera vez al cuerpo inconsciente de Chiara.
+
+- **F3 NO va cerca de "La noche del jacuzzi".** Cae **mucho mas tarde**: cuando Cole y Chiara **ya viven juntos** (despues del hito del cumpleaños / la mudanza oficial), **despues del trato con Dario** (H6), y **antes de que se incendie el loft** (H8). Es la traicion que casi lo rompe todo, ya en la Parte II. El jacuzzi cierra la Parte I sin ese peso.
+- **DISEÑO:** F3 y H8 son golpes de dos pasados distintos, seguidos — F3 lo firma Il Consorzio (pasado de Chiara, misma firma que el ataque del hipodromo de H12); H8 lo firma Silas Crowe (pasado de Cole). No conflar.
+- Sin fijar: la posicion exacta de F3 respecto a Italia / Palermo y a H13; la posicion fina de H8.
+
+**Archivos tocados:** `06_Relationships/Momentos_de_Fractura.md` (F3), `06_Relationships/Hitos.md` (Pendientes de H5, H8 intro + fila de la tabla "Todavia sin colocar"), `98_Agent_Handoff/TRIAJE_CRONOLOGIA_RELACIONAL.md`, `98_Agent_Handoff/PENDING.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-29] canon | El cumpleaños / la mudanza oficial: los tres regalos
+
+El autor fijo el contenido del hito [[06_Relationships/Hitos#Hito nuevo — El cumpleaños / la mudanza oficial]] (23 de noviembre, Parte II, despues de H7).
+
+**Estructura:** el capitulo abre *in medias res* con Cole entregando tres regalos en el hipodromo; luego se cuenta como llego cada uno.
+
+- **Origen:** Cole va en una **entrega de cocaina con Hector** y en el trayecto le confia que quiere regalarle algo especial a Chiara. **Vento**, el caballo de ella (canon; vivo en el Cap. 9 / H12), tuvo **~2 semanas antes una fractura por la edad y hubo que sacrificarlo**; Chiara lleva esas semanas de duelo. Cole quiere regalarle una **yegua** y le pide ayuda a Hector para ir a buscarla a otro estado.
+- **Regalo 1 — la yegua blanca.** Traerla al hipodromo sin que Chiara se entere (y meterla en el remolque donde ella la veria) es una **odisea comica**, cuerpo del capitulo. Animal nuevo, no reemplazo (Vento era macho). PENDIENTE: estado de EE. UU. (propuesta del agente: Kentucky; alt. Texas) y nombre de la yegua.
+- **Regalo 2 — la botella.** Domaine de la Romanee-Conti ("el vino mas caro del mundo jamas vendido en una subasta"). Cole la **robo de la casa de un rico del norte** — la noche anterior la deja envuelta en una manta en el **cuarto bodega del loft**, y llega con las botas llenas de lodo y los nudillos ensangrentados. Que paso con ese hombre, y si supo del robo, **no se explica**. Al entregarla, Chiara pregunta si sabe lo que significa regalar una botella asi; Cole: *"Sin duda alguna."* Significado no explicitado.
+- **Regalo 3 — la llave (el mecanismo de la mudanza).** Una cajita mas pequeña, modesta, de madera, con **una llave del loft**: *"Ya pasas las noches ahi. Quiero que pases tambien las mañanas, si estas de acuerdo."* No hay escena de traslado: la llave es el acto. De aqui arrancan los gestos domesticos reservados (la computadora que se queda, el cafe cada mañana — "las mañanas").
+- Sigue reservado: el pago del cifrado "Roma Atrii" que el autor situo "en el cumpleaños de Chiara" — puede caer el mismo dia, no necesariamente en la escena de los regalos.
+
+**Archivos tocados:** `06_Relationships/Hitos.md` (hito del cumpleaños), `02_Characters/Chiara_Bellandi.md`, `02_Characters/Hector_Navarro.md`, `05_Locations/Hipodromo_Del_Monarch.md`, `05_Locations/La_Casa.md`, `01_Timeline/01_Primer_Borrador_Beats.md` (beat 36), `98_Agent_Handoff/TRIAJE_CRONOLOGIA_RELACIONAL.md`, `98_Agent_Handoff/PENDING.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-29] canon | El encargo de Halbrook en Camp Alder; el hilo H6 <-> asalto RESUELTO
+
+El autor fijo lo que Halbrook le encarga a Cole en la operacion de Camp Alder ([[06_Relationships/Hitos#Hito nuevo — El asalto a Camp Alder]] = **beat 74**, mismo evento confirmado).
+
+- **Encargo de Halbrook — dos cosas:**
+  1. **Extraer un expediente clasificado de un soldado ajeno a la trama del libro.** Objeto transaccional puro, no una pista — no desarrollar quien es ese soldado. Es *"la informacion que luego negocia la salida de Cole"*: tras el arresto, Halbrook comercia con esa entrega para sacarlo de la prision militar.
+  2. **Robar armas largas** para el mercado negro de San Aurelio.
+- **Hilo H6 <-> asalto — RESUELTO (era pendiente):** son la **misma operacion**. La "entrada a Camp Alder" que Cole promete a Varek en H6 se cobra aqui: **Varek abre la ventana de entrada a la base y Cole le paga con las armas largas robadas** (que alimentan el mercado negro, tal como se pacto en H6). Un solo movimiento paga tres deudas: el expediente para Halbrook, las armas para Varek (con ellas la seguridad de Chiara ya comprada en H6) y sacar a Hector y Nadir. Cole se queda / se entrega.
+- **Sigue PENDIENTE:** el mecanismo juridico preciso de la salida de la prision militar (autoridad, agencia, cargos, documento). El autor dio la palanca, no el tramite.
+
+**Archivos tocados:** `06_Relationships/Hitos.md` (hito Camp Alder + "El encargo de Halbrook", Consecuencia, H6 §5, notas de relacion/beat 74), `02_Characters/Warren_Halbrook.md`, `05_Locations/Camp_Alder.md`, `01_Timeline/01_Primer_Borrador_Beats.md` (beat 74), `98_Agent_Handoff/TRIAJE_CRONOLOGIA_RELACIONAL.md`, `98_Agent_Handoff/PENDING.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-29] estructura | H13 — El pañuelo colocado: justo antes de Italia
+
+El autor fijo la posicion de H13 en [[06_Relationships/Hitos]]: **despues del cumpleaños / la mudanza oficial, inmediatamente antes de [[06_Relationships/Hitos#Hito nuevo — Italia / Mesa de las Familias|Italia / Mesa de las Familias]]** — H13 es el gatillo de ese viaje (Chiara recibe el pañuelo y la bala, deduce que Il Consorzio la ataco en H12, decide ir a Palermo; Cole ve el objeto e insiste en acompañarla).
+
+Insertado en la tabla de orden narrativo como puesto 16; los hitos siguientes corren a 17-21 (Italia 17, regreso de Palermo 18, Camp Alder 19, consecuencia 20, "Mi pareja" 21). Sacado de la tabla "Todavia sin colocar". Aplicado en `Hitos.md` (seccion H13, tabla de orden, hito de Italia) y `02_Characters/Chiara_Bellandi.md`.
+
+**En discusion con el autor:** la posicion fina de H8 — El incendio (sabido: despues de F3, antes de H1). Numeracion de los 7 hitos nuevos + "Mi pareja": pendiente.
+
+## [2026-08-29] canon | H8 y F3 despues de Año Nuevo; el auto de Chiara nace en un juego de roles (Parte I)
+
+**H8 (el incendio del loft) y F3 (los frenos) — posicion fijada.** Los dos caen ya en la Parte II, **despues de Año Nuevo** (F4 — Año Nuevo en Washington, cumpleaños de Cole, 1 de enero). Orden: `F4 → F3 (los frenos) → H8 (el incendio → villa) → … → H1 (climax, en la villa)`. La posicion fina del bloque F3–H8 respecto a Camp Alder y "Mi pareja" queda por afinar.
+- Continuidad a reajustar al redactar H8: el motivo canon de Crowe ("un cargamento no entregado, cuando Cole todavia trabajaba para el") no encaja a esa altura — Cole ya lleva tiempo dentro de la organizacion de Varek. El incendio funciona mejor como castigo a la **autonomia consumada**, la rabieta de un hombre al que dejaron atras. Anotado en `Hitos.md` (H8) y `La_Casa.md`.
+
+**El auto de Chiara (el Lancia de [[03_Factions/Villani_Motors]]) — origen en la Parte I.** Decision del autor:
+- La **escena de compra** es de la Parte I, **poco antes de [[06_Relationships/Hitos#Hito nuevo — La noche del jacuzzi|La noche del jacuzzi]]**. Es un **juego de roles**: Cole y Chiara fingen ser desconocidos, el vendedor y la clienta, y lo bordan.
+- Antes se **siembra que Cole compra el local del concesionario nuevo**, para que sea el quien le venda el coche.
+- Esa misma noche, **en el jacuzzi lo comentan y se rien del numerito** — material concreto de la "noche de libros abiertos por eleccion", en la linea del ADN de "juego" de H2-b.
+- El sabotaje (F3) es muchisimo despues: el coche lleva mucho tiempo con Chiara antes de que le corten los frenos.
+
+**Archivos tocados:** `06_Relationships/Hitos.md` (jacuzzi, Pendientes de H5, H8 intro + Pendientes de H8 + tabla de orden), `06_Relationships/Momentos_de_Fractura.md` (F3, F4), `03_Factions/Villani_Motors.md`, `05_Locations/La_Casa.md`, `98_Agent_Handoff/TRIAJE_CRONOLOGIA_RELACIONAL.md`, `98_Agent_Handoff/PENDING.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+
+## [2026-08-29] estructura | IDs H14-H21 asignados a los hitos de la consolidacion; barrido de anclas
+
+El autor aprobo numerar los hitos que hasta ahora se citaban como "Hito nuevo — X" / "Hito por numerar — Mi pareja". IDs asignados en orden cronologico:
+
+- **H14** El loft del soltero
+- **H15** La noche del jacuzzi
+- **H16** El cumpleaños / la mudanza oficial
+- **H17** Italia / Mesa de las Familias
+- **H18** El regreso de Palermo
+- **H19** El asalto a Camp Alder
+- **H20** Consecuencia: Halbrook / prision militar / Lucia
+- **H21** Mi pareja
+
+**Barrido:** ~85 referencias en 15 archivos (`Hitos.md`, `Book_Map.md`, `Primer_Borrador_Beats.md`, `milestones/INDEX.md`, `PENDING.md`, y fichas de personaje/lugar/faccion) pasaron de `#Hito nuevo — X` a `#H14…#H21`. En `Hitos.md`: renombrados los 8 encabezados de seccion, la tabla de orden narrativo, y las notas "Numero: PENDIENTE" -> "ID: HNN". Excluidos `log.md` y el PROMPT original de ChatGPT (registro historico). Sin anclas rotas (heading y ancla se renombraron con el mismo texto).
+
+Con esto **el triaje de cronologia relacional queda cerrado.** Abierto solo lo que el autor reservo: los dos puntos de Palermo (Mesa de las Familias + regreso separados), el mecanismo juridico de la salida de prision militar, y menores (estado/nombre de la yegua del cumpleaños; posicion fina de H8 respecto a H19/H21).
+
+## [2026-08-29] build | EPUB regenerado (re-run)
+
+`python ./tools/epub-build/build_epub.py`, exit 0. 17 capitulos, manuscrito 287.076 caracteres (identico al build de las 17:20 — el trabajo posterior de la sesion fue todo estructura/canon en docs, no prosa de capitulo). Salida en `tools/epub-build/output/Seda_y_Polvora.epub`.

@@ -33,6 +33,8 @@ Cole no vuelve a Camp Alder como ladrón común. Vuelve como alguien que entiend
 
 La entrada que le ofrece a [[02_Characters/Dario_Varek]] en H6 no es sólo una ruta física. Es una prueba de valor: Cole todavía conserva acceso, memoria o deuda suficiente para tocar un lugar que un criminal de calle no podría tocar.
 
+> **El asalto — CANON DEL AUTOR (2026-08-29).** La promesa de H6 se cobra en **[[06_Relationships/Hitos#H19 — El asalto a Camp Alder]]** (= beat 74). Halbrook obliga a Cole a la operación y le encarga dos cosas: **extraer un expediente clasificado de un soldado ajeno a la trama** (objeto transaccional — luego negocia la salida de Cole) y **robar armas largas**. Con esas armas Cole **le paga a Varek por abrir la ventana de entrada a la base**. En el escape, Cole se entrega para cubrir a [[02_Characters/Hector_Navarro|Héctor]] y [[02_Characters/Nadir_Amrani|Nadir]] ([[02_Characters/Garrett_Cross|Garrett]] pilota la extracción) y cae bajo jurisdicción militar/federal. Halbrook lo saca por un trato — **mecanismo jurídico: PENDIENTE.**
+
 ---
 
 ## Riesgo
@@ -57,9 +59,10 @@ Camp Alder cambia la escala de cualquier escena.
 
 ## Pendientes
 
-- Definir quién es el contacto o deuda que le permite a Cole acceder.
+- Definir quién es el contacto o deuda que le permite a Cole acceder. *(2026-08-29: en el asalto, es **Varek** quien "abre la ventana de entrada"; falta el detalle de cómo — contratista, deuda, garita.)*
 - Decidir si Halbrook controla directamente una pieza de Camp Alder o si usa contratistas alrededor.
 - Fijar qué documento descubre primero Meridian sobre esa ruta.
+- Mecanismo jurídico de la salida de Cole de la prisión militar (el trato de Halbrook usa el expediente clasificado como palanca; falta el trámite).
 
 ---
 

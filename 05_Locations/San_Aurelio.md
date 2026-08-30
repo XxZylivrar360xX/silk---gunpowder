@@ -45,7 +45,7 @@ Clima: sol seco casi todo el año, niebla marina de madrugada que borra las call
 
 > **CANON DE DISEÑO (2026-08-23):** nadie sostiene territorio criminal permanente en Calle Corona ni en el centro viejo: hospitales, Ayuntamiento, juzgados, comisarías, prensa y cámaras vuelven demasiado cara cualquier operación estable. Puede haber trabajos puntuales; no mercado fijo.
 
-**[[05_Locations/Hospital_Santa_Aurelia|Hospital Santa Aurelia]]** — hospital central de Calle Corona. Trauma, urgencias, UCI, cámaras, expedientes y reportes obligatorios. En H5 recibe a Chiara tras el ataque del hipódromo; en H1 queda descartado porque los hospitales están vigilados.
+**[[05_Locations/Hospital_Santa_Aurelia|Hospital Santa Aurelia]]** — hospital central de Calle Corona. Trauma, urgencias, UCI, cámaras, expedientes y reportes obligatorios. En [[06_Relationships/Hitos#H12 — El atentado / El corral|H12]] recibe a Chiara tras el ataque del hipódromo (antes atribuido a "H5"); en H1 queda descartado porque los hospitales están vigilados.
 
 **[[05_Locations/Iglesia_Santa_Lucia|Iglesia Santa Lucía]]** — parroquia católica antigua en la frontera entre Calle Corona y los barrios bajos. Lugar de velas, funerales, rumores civiles y silencios. Chiara enciende velas por Cole; Cole va cuando está demasiado aterrado para convertir el miedo en plan.
 
@@ -61,7 +61,7 @@ Clima: sol seco casi todo el año, niebla marina de madrugada que borra las call
 
 **[[05_Locations/Il_Gelsomino|Il Gelsomino]]** — restaurante italiano. Cole tiene un acuerdo con la casa; reserva la terraza entera en H2-a. En el primer capítulo se siembra el acuerdo por cocina, filtros, factura y terraza disponible.
 
-**El hipódromo** — propiedad del casino. Chiara monta a caballo ahí. En sus caballerizas la atacan ([[06_Relationships/Hitos]], H5). **PENDIENTE:** ficha propia.
+**El hipódromo** — propiedad del casino. Chiara monta a caballo ahí. En sus caballerizas la atacan ([[06_Relationships/Hitos#H12 — El atentado / El corral|H12]]; antes "H5"). Ver [[05_Locations/Hipodromo_Del_Monarch]].
 
 **[[05_Locations/Lote_Almendra|Lote Almendra]]** — lote de autos y motos usados junto al taller. Cara legal cotidiana de Cole: papeles limpios, motores revisados, tratos repetibles.
 

@@ -127,15 +127,22 @@ La llegada de [[02_Characters/Elena_Vega]] es una consecuencia que Varek subesti
 - **Se apuntó con Cole en el cuarto de hospital de Chiara**, los dos culpándose de lo que le pasó. Acabaron en tregua.
 - **Le quedaron dudas** sobre la versión que Cole y Chiara improvisaron, y la probó con los dos juntos el día del alta ("qué casualidad que Cole llegara tan pronto, sin que nadie lo llamara") sin poder desmontarla del todo.
 
-**Todavía sin escribir, parte del arco H5 replanteado:**
+**Todavía sin escribir, repartido entre dos hitos (cronología consolidada 2026-08-29):**
 
-- **Mandó a un hombre a investigar a Cole**, en paralelo a la tregua.
-- **Le advirtió a Chiara que se alejara de Cole** — que algo no le cuadraba y que iba a investigarlo personalmente.
-- La siguió/la encontró en el taller del norte, le contó el pasado turbio de Cole y **el incidente del hospital contado sólo en la parte que le convenía.**
-- **Le ordenó dejar de ver a Cole.** Ella le contestó que él no es nadie para decirle qué hacer. Él le contestó que **sí lo es: que ella trabaja para él.**
-- Y entendiendo a medias que había una aventura, cerró con la amenaza:
+**En [[06_Relationships/Hitos#H15 — La noche del jacuzzi|La noche del jacuzzi]]** (de madrugada, después de esa noche):
 
-> **Si hay que matar a Cole, ella misma va a jalar el gatillo.**
+- **Le advirtió a Chiara que se alejara de Cole** — que algo no le cuadraba, que iba a investigarlo personalmente y a mandar hombres a seguirlo y vigilarlo.
+
+**En [[06_Relationships/Hitos#H5 — San Aurelio|H5 — San Aurelio]]** (cuando Cole sale de la ciudad y Chiara, creyéndolo en peligro, investiga y lo sigue hasta el taller del norte):
+
+- Le contó el pasado turbio de Cole y **el incidente del hospital contado sólo en la parte que le convenía.**
+- **Le ordenó dejar de ver a Cole.** Ella le contestó que él no es nadie para decirle qué hacer. Las tres líneas canon de la confrontación:
+
+> **— Trabajas para mí. No conmigo.**
+>
+> **— ¿Te estás acostando con él?**
+>
+> **— Si hay que eliminar a Cole, entonces tú vas a hacerlo.**
 
 > **DISEÑO — es su mejor momento y define al personaje:** no dice *lo voy a matar*. Dice **lo vas a matar tú.** No amenaza a Chiara: **la convierte en el instrumento de la amenaza.** Y es la respuesta más brutal posible a lo que ella acaba de decirle, porque contesta *"tú no eres nadie para decirme qué hacer"* demostrándole que sí lo es.
 >

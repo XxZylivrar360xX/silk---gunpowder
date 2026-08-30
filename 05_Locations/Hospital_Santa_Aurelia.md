@@ -83,7 +83,7 @@ Costo:
 - trazabilidad;
 - filtraciones posibles.
 
-Por eso [[06_Relationships/Hitos]], H5 puede ocurrir aquí: Chiara llega como víctima y necesita atención legítima. Pero H1 no puede ocurrir aquí: para entonces Cole tiene demasiado heat encima.
+Por eso [[06_Relationships/Hitos#H12 — El atentado / El corral|H12]] (antes "H5 — El hipódromo") puede ocurrir aquí: Chiara llega como víctima y necesita atención legítima. Pero H1 no puede ocurrir aquí: para entonces Cole tiene demasiado heat encima.
 
 ### La medicina por fuera
 
@@ -102,7 +102,9 @@ Los dos nombres importantes:
 
 ## Qué pasa aquí
 
-### H5 — El hipódromo
+### H12 — El atentado / El corral *(antes "H5 — El hipódromo")*
+
+> **NOTA (2026-08-29):** esta escena de hospital pertenece ahora a **[[06_Relationships/Hitos#H12 — El atentado / El corral]]** (ejecutada en el Capítulo 9). El hito renombrado **H5 — San Aurelio** ya no incluye el hospital.
 
 Después del ataque en las caballerizas, Cole lleva a Chiara al Hospital Santa Aurelia.
 

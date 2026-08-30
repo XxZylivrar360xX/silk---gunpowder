@@ -163,12 +163,16 @@ La primera declaración de él se pierde en un cuarto de hospital. La declaraci�
 
 ### Restricciones
 
-- No repetir el hospital de H5 sin variar la función. H5 es vigilancia, sospecha y coartada. F3 es impotencia y miedo puro.
+- No repetir el hospital de H12 (antes "H5 — El hipódromo") sin variar la función. Ese es vigilancia, sospecha y coartada. F3 es impotencia y miedo puro.
 - No hacer que Cole se vuelva melodramático. Se quiebra porque no puede actuar.
 - No salvarla por milagro abstracto: médicos, tiempo, daño físico y secuelas deben pagar la escena.
 - El atentado de los frenos necesita consecuencia de investigación: Camila, la policía, Cole o Chiara deben detectar que no fue falla común.
 
-> **RESUELTO (2026-08-28):** compra limpia — Cole compra participación minoritaria en [[03_Factions/Villani_Motors]], concesionario de importación, sin deuda ni presión de por medio. El auto es un **sedán Lancia, discreto, nada deportivo** — lujo que no grita, coherente con el gusto de Chiara. Falta escribir la escena de compra en sí, y decidir si antecede o sigue al jacuzzi de H5 (beat 11).
+> **RESUELTO (2026-08-28 / ampliado 2026-08-29):** el auto sale de [[03_Factions/Villani_Motors]], concesionario de importación en el que Cole entra con una participación limpia. Es un **sedán Lancia, discreto, nada deportivo**. **La escena de compra es de la Parte I** — un **juego de roles** en el que Cole le vende el coche a Chiara fingiendo ser un desconocido, poco antes de [[06_Relationships/Hitos#H15 — La noche del jacuzzi|La noche del jacuzzi]], y esa misma noche lo comentan en el jacuzzi. El coche lleva **mucho tiempo** con Chiara antes del sabotaje. Ver [[03_Factions/Villani_Motors]].
+
+> **POSICIÓN RESUELTA (2026-08-29, autor):** F3 (el sabotaje) NO va cerca del jacuzzi. Cae **ya en la Parte II, después de Año Nuevo** — es decir, **después de [[#F4 - Año Nuevo en Washington|F4]]** —, con Cole y Chiara ya viviendo juntos y ya hecho el trato con Darío ([[06_Relationships/Hitos#H6 — El pacto|H6]]). Orden: `F4 (Año Nuevo) → … → F3 (los frenos) → … → H8 (el incendio del loft)`.
+>
+> **DISEÑO:** F3 y H8 son golpes de dos pasados distintos, seguidos: F3 lo firma [[03_Factions/Il_Consorzio]] (el pasado de Chiara, misma firma que el ataque del hipódromo de [[06_Relationships/Hitos#H12 — El atentado / El corral|H12]]); H8 lo firma [[02_Characters/Silas_Crowe]] (el pasado de Cole / el barrio). No conflar los dos. *(Posición exacta del bloque F3–H8 respecto a Italia / Palermo, Camp Alder y "Mi pareja": sin fijar del todo.)*
 
 ---
 
@@ -176,8 +180,10 @@ La primera declaración de él se pierde en un cuarto de hospital. La declaraci�
 
 **Función:** fractura por deuda, ausencia y autodestrucción silenciosa de Cole.
 **Lugar:** [[05_Locations/El_Penthouse]] / Washington, D.C.
-**Fecha:** Año Nuevo, cumpleaños de Cole.
+**Fecha:** Año Nuevo (1 de enero), cumpleaños de Cole. Es el **primer** Año Nuevo de Cole y Chiara juntos — cae después del hito del cumpleaños de ella / la mudanza (23 de noviembre).
 **Personaje que introduce:** [[02_Characters/Anya_Voronina]].
+
+> **Continuidad (2026-08-29, autor):** después de este Año Nuevo caen, en orden, **F3 — Los frenos** y **[[06_Relationships/Hitos#H8 — El incendio, la mentira y la villa|H8]] — El incendio**.
 
 ### Adaptación
 

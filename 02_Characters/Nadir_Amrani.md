@@ -47,7 +47,7 @@ Cole intenta convencerlo de que se equivoca — que ella no es ni importante ni 
 
 Ver [[02_Characters/Chiara_Bellandi]]: "la incomodidad empieza antes de que se conozcan" — ya estaba apuntado ahí; esto lo desarrolla.
 
-**CANON DEL AUTOR (2026-08-27) — dónde estalla:** en [[06_Relationships/Hitos]], H12, Chiara se queda recuperándose en [[05_Locations/Casa_Comunitaria_De_La_Almendra]] después de un ataque. Convivir día a día con Nadir ahí es lo que vuelve visible la fricción que hasta entonces era silenciosa — y es, indirectamente, lo que empuja a Cole a recomprar la casa de sus padres: necesita sacarla de un espacio que ya no puede compartir en paz.
+**CANON DEL AUTOR (2026-08-27) — dónde estalla:** en [[06_Relationships/Hitos#H12 — El atentado / El corral|H12]], Chiara se queda recuperándose en [[05_Locations/Casa_Comunitaria_De_La_Almendra]] después del ataque. Convivir día a día con Nadir ahí es lo que vuelve visible la fricción que hasta entonces era silenciosa — y es, indirectamente, lo que empuja a Cole a recomprar la casa de sus padres en el hito siguiente ([[06_Relationships/Hitos#H14 — El loft del soltero|El loft del soltero]]): necesita sacarla de un espacio que ya no puede compartir en paz.
 
 ---
 
@@ -60,7 +60,7 @@ Lo que opera hoy:
 - Cole le consigue entrada a Estados Unidos con papeles obtenidos por [[02_Characters/Anya_Voronina]].
 - Vuelve con Cole a San Aurelio.
 - Está presente en la primera etapa del vínculo con Chiara: ve a Cole perfumado y nervioso en [[06_Relationships/Hitos]], H2-a.
-- En [[06_Relationships/Hitos]], H6, [[02_Characters/Warren_Halbrook]] amenaza a Cole con deportar a Nadir si no vuelve a trabajar para él.
+- En [[06_Relationships/Hitos]], H6, [[02_Characters/Warren_Halbrook]] amenaza a Cole con **reportar a Nadir a ICE** (extranjero en situación irregular) si no vuelve a trabajar para él. La convocatoria de Halbrook que trae esa amenaza es la "situación externa" de [[06_Relationships/Hitos#H5 — San Aurelio|H5]].
 - En [[06_Relationships/Hitos]], H10, intenta un robo con [[02_Characters/Daniel_Hayes]] en una tienda dentro del territorio de [[03_Factions/La_Ronda_del_Canal]] y los atrapa la gente de Irene Salcedo — quedan retenidos justo cuando Héctor sufre su infarto, y por eso nadie puede avisarle a Cole. **DISEÑO:** ¿qué buscaban robar y por qué? Queda PENDIENTE.
 
 La amenaza de deportación funciona porque Nadir es el único problema que Cole no puede resolver con sus herramientas habituales: no es dinero, no es territorio, no es un favor. Es un papel.

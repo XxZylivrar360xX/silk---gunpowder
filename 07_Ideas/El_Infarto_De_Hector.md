@@ -1,6 +1,6 @@
 # El infarto de Héctor — boceto de escena para H10
 
-*Los hechos son canon del autor — ver [[06_Relationships/Hitos]], H10, para la versión definitiva. Ya ejecutado en los Capítulos 14 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_El_Porton]]) y 15 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/15_Cuatro_Letras]]). Este archivo queda como boceto de referencia; la versión final está en los capítulos.*
+*Los hechos son canon del autor — ver [[06_Relationships/Hitos]], H10, para la versión definitiva. Ya ejecutado en los **Capítulos 13** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/13_El_Porton]]) y **14** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_Cuatro_Letras]]) — renumerados el 2026-08-29 cuando H10 pasó a ir antes de H11. Este archivo queda como boceto de referencia; la versión final está en los capítulos.*
 
 ---
 
@@ -80,7 +80,7 @@ Y ahí se quedaron.
 
 ## Notas para cuando esto encuentre capítulo
 
-> **PENDIENTE:** la primera vez que Cole y Chiara tienen intimidad — cae en algún punto antes de este hito, sin escena propia todavía.
+> **REVISADO (2026-08-29):** la primera vez que Cole y Chiara tienen intimidad es **[[06_Relationships/Hitos#H11 — El mirador|H11]]**, que bajo la cronología consolidada cae **después** de este hito (vía H4). En H10 todavía no se han besado — Héctor empuja hacia el cruce, que llega en H11.
 
 > **RESUELTO (2026-08-26):** [[03_Factions/La_Ronda_del_Canal]] retiene a Nadir y Danny — intentaban robar una tienda en su territorio. Sigue **PENDIENTE** el detalle exacto del robo (respetando el pedido del autor de no profundizar a Danny todavía).
 
