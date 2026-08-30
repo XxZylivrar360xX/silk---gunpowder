@@ -157,7 +157,7 @@ Su debilidad aparece cuando Cole controla rutas chicas que Dario siempre conside
 | Cascadas | Cerros del este, mas alla de Cuesta Bonita | Primer lugar que no pertenece a nadie |
 | Camp Alder | Noreste restringido, mas alla de Kingsley Field | Mantiene distancia civil y escala federal |
 | La Esquina de Mabel | Frontera Calle Corona / La Almendra | Oye hospital, policia, iglesia y barrio bajo |
-| Tienda de mascaras | Servicio de Kingsley Field / Rutas de Milla | Hace practica la salida de H9 antes de la carrera |
+| Tienda de mascaras — **La Tramoya** | Corredor comercial de servicio hacia Kingsley Field / Rutas de Milla | Vestuario teatral y utileria; hace practica la salida de H9 antes de la carrera (Cap. 9) |
 | Villa Candelaria | Lomas de San Jacinto, norte residencial | Prestigio residencial, defensa, distancia del casino y final de H1 |
 | Bellandi Ridge Vineyards | Ladera norte antes de Cedar Flats | Propiedad legítima de Chiara y puente hacia el norte agrícola |
 | Cedar Flats | Pueblo lejano del norte | Parcelas de cultivo, cobertura logística y red rural |

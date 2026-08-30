@@ -18,7 +18,7 @@ Cerró con llave y cargó la camioneta del taller, la que no llamaba la atenció
 
 ***
 
-La residencia de la universidad tenía un aparcamiento para diez minutos y un cartel que lo recordaba. Cole llevaba veinte parado ahí cuando Marisol salió arrastrando una mochila que pesaba la mitad que ella. Era pequeña y ligera, con el pelo pelirrojo recogido sin cuidado: las puntas decoloradas a rubio le asomaban por encima de la mochila. Tenía pecas sobre la nariz y los pómulos, ojos miel claro que la luz hacía parecer ámbar, y una sonrisa ladeada que ya venía buscando dónde meterse con él.
+La residencia de la universidad tenía un aparcamiento para diez minutos y un cartel que lo recordaba. Cole llevaba veinte parado ahí cuando Marisol salió arrastrando una mochila que pesaba la mitad que ella. Era pequeña y ligera, con el pelo pelirrojo recogido sin cuidado; las puntas decoloradas a rubio le asomaban por encima de la mochila y llevaba una sonrisa ladeada que ya venía buscando dónde meterse con él.
 
 —Llegas temprano —dijo, por saludo.
 
@@ -38,7 +38,7 @@ Cole miró las puntas rubias antes de mirar el resto del equipaje.
 
 —Es una moda absurda.
 
-La sonrisa de Marisol se ladeó un poco más. El mecanismo lo había aprendido de él; la falta de vergüenza para usarlo, no.
+La sonrisa de Marisol se ladeó un poco más.
 
 —¿Trajiste una hielera entera?
 
@@ -90,9 +90,13 @@ La carretera se vació a la media hora de San Aurelio, y a la hora ya no había 
 
 Cole no lo soltó enseguida.
 
-—Héctor está mayor. Si pasa algo...
+—El taller no puede quedarse sin mí dos días.
 
-—Si pasa algo, pasa el lunes también. —Marisol movió los dedos, una vez—. Y hay un teléfono en la caseta del guardabosques a veinte minutos. Es más de lo que tenía mi papá, y a él nunca se le murió nadie por esto.
+—Walt sabe encargarse.
+
+—No como yo.
+
+—Son dos días. —Marisol movió los dedos, una vez—. Y hay un teléfono en la caseta del guardabosques a veinte minutos. La regla existe para que estés aquí.
 
 Cole sacó el teléfono del salpicadero y se lo puso en la mano. Marisol lo apagó sin mirarlo, lo hundió en el fondo de su mochila junto con el suyo y subió la ventanilla como si con eso cerrara el tema.
 
@@ -138,6 +142,8 @@ Por la mañana caminaron arroyo arriba. Cole iba delante por costumbre hasta que
 
 —Entre otras cosas. —Le señaló, sin frenar, una mata baja al borde del camino—. Esa la trajo alguien de un jardín y ahora no la para nadie. Se come a las de aquí. Tu barrio tiene lo mismo, pero con gente.
 
+La luz de la mañana le aclaró los ojos hasta volverlos casi ámbar. Las pecas le cruzaban la nariz y se le perdían hacia los pómulos.
+
 Cole subió detrás de ella pensando en eso más de lo que esperaba.
 
 ***
@@ -174,13 +180,13 @@ Cole tardó.
 
 —No sé qué quiere decir eso.
 
-—Sí sabes. —Se abrazó las rodillas—. Si te conoce así. Sin el taller, sin el barrio, sin las rutas, sin la cara que pones para la gente que te debe algo. Si conoce a este.
+—Sí sabes.
 
 Cole atizó el fuego, que no lo necesitaba. Le dio la vuelta a un leño, lo acomodó, se limpió la mano en el pantalón.
 
 —Está aprendiendo —dijo.
 
-Fue todo lo que dijo, y Marisol fue lo bastante lista para no pedirle más.
+Marisol se abrazó las rodillas y no preguntó más.
 
 ***
 
@@ -192,7 +198,7 @@ Bajando, pararon en una tienda de carretera que vendía gasolina, hielo y estant
 
 —¿Por qué iba a llevarle una taza?
 
-—Porque es fea y le va a gustar que sea fea. —La dejó en el mostrador, al lado de las papas de Cole—. Y porque llevas dos días sin nombrarla y quiero ver cuánto te dura.
+—Porque es fea y vas a tener que explicarle por qué se la llevaste. —La dejó en el mostrador, al lado de las papas de Cole—. Y porque llevas dos días sin nombrarla y quiero ver cuánto te dura.
 
 —No pienso comprar una taza.
 

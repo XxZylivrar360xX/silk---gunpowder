@@ -1044,9 +1044,9 @@ Y es también **la primera vez que se quedan dormidos juntos**, sin que pase nad
 
 > **RESUELTO (2026-08-29, autor):** **sí, esta es "el día nublado"** que el autor mencionó al hablar del marido. La revelación de Chiara sobre el exmarido ocurre en esta escena (ejecutada en el Capítulo 17). No hay una segunda escena.
 
-> **RESUELTO (2026-08-29, autor):** a la pregunta *¿alguna vez has quitado una vida?*, Cole contesta **sobrio y sin dramatizar**: en el ejército, más de una vez, "un trabajo que hice y que no se cuenta bonito". No se adelanta aquí el registro de *yo soy la muerte caminando* (eso es H1). Redacción fijada en el Capítulo 16.
+> **RESUELTO (2026-08-29, autor):** a la pregunta *¿alguna vez has quitado una vida?*, Cole contesta **sobrio y sin dramatizar**: en el ejército, más de una vez, "un trabajo que hice y que no se cuenta bonito". No se adelanta aquí el registro de *yo soy la muerte caminando* (eso es H1). Redacción fijada en el Capítulo 17.
 
-> **RESUELTO (2026-08-29, autor):** Blake Stanton **ya está fuera del cuadro** para este punto (después de H9, H12, el loft y H10). No se lo menciona en el Capítulo 16. Si hiciera falta, una línea de cierre puede sembrarse en un capítulo intermedio, no aquí.
+> **RESUELTO (2026-08-29, autor):** Blake Stanton **ya está fuera del cuadro** para este punto (después de H9, H12, el loft y H10). No se lo menciona en el Capítulo 17. Si hiciera falta, una línea de cierre puede sembrarse en un capítulo intermedio, no aquí.
 
 > **RESUELTO (2026-08-29, autor):** el campo de golf **no necesita ficha propia** por ahora — es textura, no escenario recurrente. Que Cole tenga o no un porcentaje queda **deliberadamente vago** (el chiste evasivo del "nueve por ciento del estacionamiento, no del campo").
 
@@ -1055,6 +1055,8 @@ Y es también **la primera vez que se quedan dormidos juntos**, sin que pase nad
 # H9 — La carrera de máscaras
 
 > **CANON DEL AUTOR (2026-08-23; reposicionado 2026-08-29).** Uno de los primeros momentos en que Cole saca a Chiara de su zona de confort. **Nueva posición canon:** ocurre **entre [[#H3 — La noche del ladrillo]] y [[#H12 — El atentado / El corral]]** — ya no después de H4. Todavía son formalmente amigos. Función: Cole la saca de su zona de confort; sube la intimidad y la confianza. Actualizar toda tabla cronológica donde aparezca en otra posición.
+>
+> **ESCRITO (2026-08-29)** como **Capítulo 9** — [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_La_Carrera_De_Mascaras]] (encargo [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_H9_CARRERA_DE_MASCARAS_Y_COSTURA_CORRAL]]). En la misma pasada se recosió la apertura de [[#H12 — El atentado / El corral]] (Cap. 10) al residuo de H9 y se renumeró el manuscrito (9→10 … 18→19). Las dos líneas canon van intactas. Pendiente: revisión del autor antes de marcar TRIADO.
 
 ## La pregunta
 
@@ -1126,15 +1128,15 @@ Esa sonrisa es el centro del hito.
 
 ## Pendientes de H9
 
-> **PENDIENTE:** nombre y ubicación de la tienda de máscaras.
+> **RESUELTO (2026-08-29, prompt + prosa):** la tienda es **La Tramoya**, una tienda vieja de vestuario teatral, utilería, disfraces y máscaras, en un corredor comercial de la salida hacia el interior y Kingsley Field. Sin ficha de localización (textura, no escenario recurrente) salvo que el autor la quiera recurrente.
 
 > **RESUELTO DE DISEÑO (2026-08-23):** la carrera ocurre alrededor de **Kingsley Field**, en vías de servicio, tramos perimetrales y la Carretera de Milla. No usan pista activa.
 
-> **PENDIENTE:** qué máscara elige cada uno. No es color superficial: dice qué versión se permiten usar esa noche.
+> **RESUELTO (2026-08-29, prompt + prosa):** Cole elige una **máscara negra lisa, sin expresión** — no busca ser otro, sólo que no sepan quién es. Chiara elige una **Colombina negra** de versión de tienda: aun escogiendo lo práctico, no toma una fea, y el texto no lo subraya. La Colombina queda **olvidada en el Peugeot** al final del capítulo (guantera / asiento trasero); Cole la ve, no la tira, no corre a devolverla — objeto registrado en [[02_Characters/Chiara_Bellandi]] para posible reaparición.
 
-> **PARCIALMENTE RESUELTO (2026-08-23):** [[02_Characters/Tyler_Brooks]] es organizador de carreras callejeras y termina integrándose a la organización. **PENDIENTE:** confirmar si él organizó específicamente esta carrera de H9 y qué facción menor la respaldaba antes de Cole.
+> **RESUELTO (2026-08-29, prompt + prosa):** **[[02_Characters/Tyler_Brooks]] organiza esta carrera** — es su primera aparición en prosa, sin biografía; conoce a Cole, reconoce el Peugeot, no necesita el apellido de Chiara (Cole la presenta sólo como "Chiara"). La facción menor que respaldaba el circuito antes de Cole sigue sin nombrarse.
 
-> **PENDIENTE:** si alguna patrulla identifica el Peugeot rojo aunque no identifique a Cole y Chiara. Esto puede cargar una consecuencia futura.
+> **RESUELTO (2026-08-29, prompt + prosa):** **sí** — una comunicación policial identifica el **Peugeot rojo** como el coche conocido/buscado, pero **no** a Cole, a Chiara, sus rostros ni el vínculo entre ellos. **Blake Stanton no aparece físicamente**; puede enterarse del Peugeot como consecuencia futura, sin cobrarse en este capítulo.
 
 ---
 
@@ -1230,7 +1232,7 @@ Y ahí Cole le explica el plan: **volver al casino para dejar en la cámara que 
 
 > **DISEÑO:** la operación conjunta que se gana el título. No es un favor de él ni un contacto de ella: **es los dos construyendo una coartada, con cámaras, rutas y una salida de servicio.** El vault decía que debía ser *pequeña, sucia y espectacularmente bien ejecutada* ([[06_Relationships/Cole_y_Chiara]], fase 2). Es ésta — sólo que lo que están protegiendo no es un negocio: es ella.
 >
-> **RESUELTO (2026-08-27):** hay un ensayo menor antes, en el beat 16 (Capítulo 15) — un trabajo sucio y chico con el mismo método, sin declararse hito. Cuando el lector llega aquí, ya conoce el método; lo nuevo es lo que está en juego.
+> **RESUELTO (2026-08-27):** hay un ensayo menor antes, en el beat 16 (Capítulo 19) — un trabajo sucio y chico con el mismo método, sin declararse hito. Cuando el lector llega aquí, ya conoce el método; lo nuevo es lo que está en juego.
 
 ## 9. El barrio
 

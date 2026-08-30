@@ -96,6 +96,8 @@ Su valor estructural no es ser policía en abstracto: es un hombre del Departame
 
 El Peugeot rojo de [[02_Characters/Cole_Mercer]] ya tiene reputación entre policías. Las carreras ilegales del norte y la zona de Kingsley Field le dan al Departamento una entrada temprana al mundo de Cole sin entender todavía qué están mirando.
 
+En [[06_Relationships/Hitos#H9 — La carrera de máscaras|H9]] (Capítulo 9), durante la redada de la carrera, una comunicación policial identifica el **Peugeot rojo** como el coche conocido/buscado, pero **no** a Cole ni a Chiara ni el vínculo entre ellos — el expediente del coche suma una entrada más sin cara. Blake Stanton no participa en esa noche; queda disponible que se entere del Peugeot más adelante.
+
 Ver [[06_Relationships/Hitos]], H9.
 
 ### Luis Ortega
