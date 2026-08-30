@@ -182,7 +182,7 @@ Cole iba séptimo cuando la carrera se rompió. Dejó de importar en el instante
 
 El motor fuerte y después más fuerte, la reja convertida en un parpadeo, la respiración de ella, las dos manos de él, un viraje que la empujó contra la puerta, el pino de una sirena doblándose hacia atrás y quedándose lejos. Y después, poco a poco, nada. Una vía de servicio sin luces. El resplandor de la ciudad al frente.
 
-En algún momento de todo eso, por el altavoz de una radio de banda que Cole llevaba bajo el tablero, Chiara alcanzó a oír la forma de un mensaje más que sus palabras: un Peugeot rojo, el de siempre, el que conocían, saliendo del campo hacia el sur. No un hombre rubio. No una mujer italiana. No una cara. No los dos juntos. Sólo el coche, fichado otra vez, como llevaba años siendo fichado.
+En algún momento de todo eso, por el altavoz de una radio de banda que Cole llevaba bajo el tablero, Chiara alcanzó a oír la forma de un mensaje más que sus palabras: un Peugeot rojo, el de siempre, el que conocían, saliendo del campo hacia el sur. No un hombre rubio. No una mujer italiana. No una cara. No los dos juntos. Sólo el coche, fichado otra vez, con los mismos reportes de conducción temeraria de siempre.
 
 ***
 
