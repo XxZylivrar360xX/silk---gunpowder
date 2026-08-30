@@ -1,0 +1,24 @@
+{
+  "short_clusters": [
+    {
+      "id": "A_dialogo_rapido_cap_2",
+      "text": "—¿Quién manda la ciudad?\n\n—Depende de qué parte.\n\n—No pregunté quién firma."
+    },
+    {
+      "id": "B_cole_nadir_cap_4",
+      "text": "—El problema llamó.\n\n—Qué bonito, wallah.\n\nCole levantó la vista.\n\nNadir sonrió."
+    },
+    {
+      "id": "C_rueda_cap_5",
+      "text": "Chiara cerró los ojos.\n\n—Por favor, no me dé otro problema.\n\n—Ya lo tenía. Yo solo lo señalé."
+    },
+    {
+      "id": "D_rocco_cap_6",
+      "text": "Héctor miró la pata en su bota.\n\n—No me metas en tus cosas raras.\n\nNadir se rió.\n\nCole tomó aire."
+    },
+    {
+      "id": "E_post_carrera_cap_9",
+      "text": "—Esto fue una pésima idea.\n\n—Sí.\n\nEl motor siguió tictaqueando.\n\n—¿Ganamos?"
+    }
+  ]
+}

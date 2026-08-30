@@ -42,3 +42,10 @@ De las aproximadamente treinta alertas de mayor prioridad, idealmente al menos d
 
 Hasta esa calibración no se autoriza Fase 2 ni una skill de Claude.
 
+## Calibración V1.1
+
+V1 se conserva sin sobrescritura en [[tools/editorial/reports/PILOT_01_10/PILOT_01_10_GLOBAL]]. La calibración V1.1 reduce falsos positivos sin tocar prosa: estima habla aparte de incisos, impide que un parlamento largo aislado llegue a HIGH, clasifica clusters cortos como diálogo/narración/mezcla, separa residuos editoriales de alta y baja confianza, evita cadenas negativas entre hablantes, colapsa n-gramas contenidos y fusiona ventanas gestuales solapadas.
+
+La nueva prioridad alta exige señal de confianza alta, combinación de señales o concentración excepcional. El monólogo de Héctor en *El corral* permanece como HIGH por `LONG_DIALOGUE_CLUSTER`, no por dos longitudes aisladas. La similaridad entre pasajes de capítulos distintos se incorpora como señal léxica experimental, con máximo MEDIUM.
+
+Resultados y comparación: [[tools/editorial/reports/PILOT_01_10_V1_1/PILOT_01_10_V1_1_GLOBAL]] · [[tools/editorial/reports/PILOT_01_10_V1_1/V1_VS_V1_1]]. La revisión de ChatGPT y el autor sigue siendo obligatoria antes de Fase 2.

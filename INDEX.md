@@ -174,6 +174,8 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[12_Craft_Policies/editorial/PILOT_01_10]] — alcance y criterio de éxito del piloto determinista sobre capítulos 1–10
 - [[tools/editorial/README]] — uso del stack editorial local, configuración, pruebas y límites (`audit_only`, sin autofix)
 - [[tools/editorial/reports/PILOT_01_10/PILOT_01_10_GLOBAL]] — reporte global generado del piloto 01–10
+- [[tools/editorial/reports/PILOT_01_10_V1_1/PILOT_01_10_V1_1_GLOBAL]] — reporte global V1.1 calibrado sobre capítulos 01–10
+- [[tools/editorial/reports/PILOT_01_10_V1_1/V1_VS_V1_1]] — comparación determinista de severidades y de las 15 HIGH originales
 
 ---
 

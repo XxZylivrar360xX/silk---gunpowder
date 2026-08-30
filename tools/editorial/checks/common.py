@@ -33,10 +33,13 @@ class Alert:
     message: str
     metric: dict[str, Any] = field(default_factory=dict)
     category: str = "general"
+    confidence: str = "descriptive/inventory"
 
     def __post_init__(self) -> None:
         if self.severity not in SEVERITY_ORDER:
             raise ValueError(f"Severidad no permitida: {self.severity}")
+        if self.confidence not in {"high-confidence", "compound", "descriptive/inventory"}:
+            raise ValueError(f"Confianza no permitida: {self.confidence}")
 
     def to_dict(self) -> dict[str, Any]:
         return asdict(self)

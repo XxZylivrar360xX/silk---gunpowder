@@ -32,10 +32,21 @@ def analyze_phrases(document: ChapterDocument, config: dict[str, Any]) -> tuple[
         severity = base_severity if count >= threshold else rule.get("isolated_severity", "info")
         density = count * 1000 / total_words
         line_numbers = [line for line, _ in found]
+        local_window = int(rule.get("local_line_window", 0))
+        local_threshold = int(rule.get("local_medium_threshold", 0))
+        local_max = 0
+        if local_window and local_threshold:
+            for index, line in enumerate(line_numbers):
+                local_max = max(local_max, sum(other - line <= local_window for other in line_numbers[index:]))
+            if local_max >= local_threshold:
+                severity = "medium"
+        if normalize_text(phrase) == "como si" and severity == "high":
+            severity = "medium"
         metrics[phrase] = {
             "count": count,
             "lines": line_numbers,
             "density_per_1000_words": round(density, 3),
+            "max_local_concentration": local_max,
         }
         alerts.append(
             Alert(
@@ -98,7 +109,26 @@ def repeated_ngram_metrics(
             if count >= minimum:
                 candidates.append((count, length, ngram))
     candidates.sort(key=lambda item: (-item[0], -item[1], item[2]))
-    for count, length, ngram in candidates[:report_limit]:
+    tokens = words(document.prose_text, normalized=True)
+    positions = {
+        ngram: {index for index in range(len(tokens) - length + 1) if tuple(tokens[index:index + length]) == ngram}
+        for _, length, ngram in candidates
+    }
+    suppressed: set[tuple[str, ...]] = set()
+    for short_count, short_length, short in candidates:
+        for long_count, long_length, long in candidates:
+            if long_length <= short_length or long_count != short_count:
+                continue
+            for offset in range(long_length - short_length + 1):
+                if tuple(long[offset:offset + short_length]) != short:
+                    continue
+                if positions[short] == {position + offset for position in positions[long]}:
+                    suppressed.add(short)
+                    break
+            if short in suppressed:
+                break
+    visible_candidates = [item for item in candidates if item[2] not in suppressed]
+    for count, length, ngram in visible_candidates[:report_limit]:
         phrase = " ".join(ngram)
         row = {"ngram": phrase, "length": length, "count": count}
         rows.append(row)
@@ -107,6 +137,8 @@ def repeated_ngram_metrics(
             (item.number for item in document.prose_lines if normalize_text(phrase) in normalize_text(item.text)),
             None,
         )
+        if length < int(config.get("ngram_local_alert_min_words", 4)):
+            continue
         alerts.append(
             Alert(
                 check_id=f"REPEATED_NGRAM_{length}",
@@ -132,11 +164,25 @@ def merge_ngram_counters(
     minimum = int(config.get("ngram_min_count_global", 4))
     limit = int(config.get("limits", {}).get("global_ngrams", 30))
     rows = [
-        {"ngram": " ".join(ngram), "length": length, "count": count}
+        {"ngram": " ".join(ngram), "length": length, "count": count, "tokens": ngram,
+         "chapter_counts": tuple(counter.get(ngram, 0) for counter in [item.get(length, Counter()) for item in chapter_counters])}
         for length, counter in totals.items()
         for ngram, count in counter.items()
         if count >= minimum
     ]
     rows.sort(key=lambda row: (-row["count"], -row["length"], row["ngram"]))
-    return rows[:limit]
-
+    visible: list[dict[str, Any]] = []
+    for row in rows:
+        contained = any(
+            other["length"] > row["length"]
+            and other["count"] == row["count"]
+            and other["chapter_counts"] == row["chapter_counts"]
+            and any(
+                tuple(other["tokens"][offset:offset + row["length"]]) == tuple(row["tokens"])
+                for offset in range(other["length"] - row["length"] + 1)
+            )
+            for other in rows
+        )
+        if not contained:
+            visible.append({key: value for key, value in row.items() if key not in {"tokens", "chapter_counts"}})
+    return visible[:limit]

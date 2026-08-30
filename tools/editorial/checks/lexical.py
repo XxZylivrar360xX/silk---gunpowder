@@ -9,6 +9,25 @@ from typing import Any
 from .common import Alert, ChapterDocument, excerpt, normalize_text, words
 
 
+def build_distinct_clusters(
+    occurrences: list[tuple[int, str]], line_window: int, threshold: int
+) -> list[list[tuple[int, str]]]:
+    """Agrupa cada ocurrencia una sola vez dentro de una ventana desde el inicio."""
+    clusters: list[list[tuple[int, str]]] = []
+    ordered = sorted(occurrences)
+    index = 0
+    while index < len(ordered):
+        start_line = ordered[index][0]
+        cursor = index + 1
+        while cursor < len(ordered) and ordered[cursor][0] - start_line <= line_window:
+            cursor += 1
+        cluster = ordered[index:cursor]
+        if len(cluster) >= threshold:
+            clusters.append(cluster)
+        index = cursor
+    return clusters
+
+
 def analyze(
     document: ChapterDocument, config: dict[str, Any], stopwords: set[str]
 ) -> tuple[dict[str, Any], list[Alert]]:
@@ -32,17 +51,14 @@ def analyze(
         density = count * 1000 / total_words
         cluster_window = int(config.get("gesture_cluster_line_window", 20))
         cluster_threshold = int(config.get("gesture_cluster_threshold", 3))
-        clusters: list[list[tuple[int, str]]] = []
-        for index, occurrence in enumerate(occurrences):
-            cluster = [item for item in occurrences[index:] if item[0] - occurrence[0] <= cluster_window]
-            if len(cluster) >= cluster_threshold:
-                clusters.append(cluster)
+        clusters = build_distinct_clusters(occurrences, cluster_window, cluster_threshold)
         gesture_metrics[gesture["id"]] = {
             "label": gesture["label"],
             "count": count,
             "density_per_1000_words": round(density, 3),
             "lines": [line for line, _ in occurrences],
             "clusters": len(clusters),
+            "cluster_lines": [[line for line, _ in cluster] for cluster in clusters],
         }
         if clusters:
             first = clusters[0]
@@ -69,4 +85,3 @@ def analyze(
         "gestures": gesture_metrics,
     }
     return metrics, alerts
-

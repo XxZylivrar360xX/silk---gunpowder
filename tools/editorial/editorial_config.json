@@ -1,8 +1,17 @@
 {
+  "editor_version": "1.1",
   "dialogue_word_thresholds": [25, 40, 60],
-  "editorial_instruction_patterns": [
-    "^No\\s+(?:narr[oó]|describi[oó]|mencion[oó]|explic[oó]|cont[oó]|mostr[oó]|revel[oó])\\b",
-    "^No\\s+hubo\\s+(?:beso|un\\s+[\"“«]|nada\\s+que\\s+se\\s+pareciera)"
+  "long_dialogue_cluster_min_words": 60,
+  "long_dialogue_cluster_weak_words": 45,
+  "long_dialogue_cluster_count": 2,
+  "long_dialogue_cluster_line_window": 12,
+  "editorial_instruction_patterns_high": [
+    "^No\\s+narr[oó]\\s+lo\\s+que\\s+",
+    "^No\\s+describi[oó]\\s+(?:la\\s+)?escena\\b",
+    "^(?:La\\s+)?narraci[oó]n\\s+(?:no\\s+)?(?:cuenta|describe|explica)\\b"
+  ],
+  "editorial_instruction_patterns_possible": [
+    "^No\\s+(?:cont[oó]|explic[oó]|mostr[oó]|revel[oó])\\b"
   ],
   "gesture_cluster_line_window": 20,
   "gesture_cluster_threshold": 3,
@@ -35,8 +44,16 @@
   "ngram_lengths": [3, 4, 5, 6, 7, 8],
   "ngram_min_count_chapter": 3,
   "ngram_min_count_global": 4,
+  "ngram_local_alert_min_words": 4,
+  "passage_similarity_min_words": 35,
+  "passage_similarity_min_content_words": 12,
+  "passage_similarity_min_shared_words": 7,
+  "passage_similarity_info_threshold": 0.12,
+  "passage_similarity_medium_threshold": 0.32,
+  "passage_similarity_shingle_size": 2,
+  "passage_similarity_excluded_terms": ["Cole", "Chiara", "Nadir", "Héctor", "Rocco", "Darío", "Mercer", "Bellandi", "Varek"],
   "phrases": {
-    "como si": {"chapter_threshold": 4, "global_threshold": 12, "isolated_severity": "info", "severity": "low"},
+    "como si": {"chapter_threshold": 4, "global_threshold": 12, "isolated_severity": "info", "severity": "low", "local_line_window": 30, "local_medium_threshold": 6},
     "de alguna manera": {"chapter_threshold": 2, "global_threshold": 3, "isolated_severity": "info", "severity": "medium"},
     "no contestó": {"chapter_threshold": 2, "global_threshold": 4, "isolated_severity": "info", "severity": "low"},
     "no dijo nada": {"chapter_threshold": 2, "global_threshold": 4, "isolated_severity": "info", "severity": "low"},
@@ -47,6 +64,10 @@
   "short_paragraph_run_high": 10,
   "short_paragraph_run_warning": 6,
   "short_paragraph_words": 8,
+  "short_cluster_dialogue_ratio": 0.67,
+  "short_cluster_narrative_ratio": 0.25,
+  "short_mixed_cluster_medium": 20,
+  "short_narrative_cluster_high": 20,
   "stopwords": [
     "a", "al", "algo", "ante", "antes", "aquel", "aquella", "aquí", "así", "aun", "aunque", "bajo", "cada", "casi", "como", "con", "contra", "cual", "cuando", "de", "del", "desde", "donde", "dos", "e", "el", "ella", "ellas", "ellos", "en", "entre", "era", "esa", "ese", "eso", "esta", "estaba", "este", "esto", "fue", "ha", "había", "hacia", "hasta", "hay", "la", "las", "le", "les", "lo", "los", "más", "me", "mi", "mientras", "muy", "ni", "no", "nos", "nunca", "o", "otra", "otro", "para", "pero", "por", "porque", "que", "qué", "se", "si", "sí", "sin", "sobre", "su", "sus", "te", "tenía", "todo", "tras", "tu", "un", "una", "uno", "usted", "ya", "y", "yo"
   ],
@@ -58,4 +79,3 @@
     {"id": "NEGATIVE_DASH_EXPLANATION", "message": "Negación seguida de explicación con raya; revisar si el subtexto ya estaba visible.", "regex": "^No\\s+[^\\n]{3,160}\\s+[—–-]\\s+[^\\n]{3,180}$", "severity": "low"}
   ]
 }
-

@@ -11,7 +11,7 @@ from pathlib import Path
 from statistics import quantiles
 from typing import Any
 
-from checks import dialogue, lexical, metadata, repetitions, rhythm, tics
+from checks import dialogue, lexical, metadata, repetitions, rhythm, similarity, tics
 from checks.common import Alert, SEVERITY_ORDER, parse_chapter, sorted_alerts
 
 
@@ -56,6 +56,14 @@ def build_stopwords(config: dict[str, Any]) -> set[str]:
 def severity_counts(alerts: list[Alert]) -> dict[str, int]:
     counts = Counter(alert.severity for alert in alerts)
     return {severity: counts.get(severity, 0) for severity in ("high", "medium", "low", "info")}
+
+
+def confidence_counts(alerts: list[Alert]) -> dict[str, int]:
+    counts = Counter(alert.confidence for alert in alerts)
+    return {
+        confidence: counts.get(confidence, 0)
+        for confidence in ("high-confidence", "compound", "descriptive/inventory")
+    }
 
 
 def write_text_if_changed(path: Path, content: str) -> None:
@@ -116,7 +124,13 @@ def add_corpus_outliers(chapters: list[dict[str, Any]]) -> list[dict[str, Any]]:
 def alert_markdown(alert: Alert) -> str:
     location = f"línea {alert.line}" if alert.line is not None else "métrica de capítulo"
     value = f" — “{alert.excerpt}”" if alert.excerpt else ""
-    return f"- `{alert.check_id}` · {location}: {alert.message}{value}"
+    return f"- `{alert.check_id}` · `{alert.confidence}` · {location}: {alert.message}{value}"
+
+
+def artifact_name(manifest: dict[str, Any], config: dict[str, Any]) -> str:
+    pilot = str(manifest.get("pilot", "PILOT")).upper()
+    version = str(config.get("editor_version", "1.0"))
+    return pilot if version == "1.0" else f"{pilot}_V{version.replace('.', '_')}"
 
 
 def metric_table(rows: list[tuple[str, Any]]) -> list[str]:
@@ -133,6 +147,8 @@ def render_chapter_report(chapter: dict[str, Any], config: dict[str, Any]) -> st
     metadata_metrics = chapter["metrics"]["metadata"]
     lines = [
         f"# Auditoría editorial — Capítulo {chapter['number']:02d}",
+        "",
+        f"- `editor_version`: `{config.get('editor_version', '1.0')}`",
         "",
         "> Esto es diagnóstico, no una lista de correcciones. Una alerta —incluso HIGH— sólo pide lectura humana prioritaria.",
         "",
@@ -198,6 +214,8 @@ def render_chapter_report(chapter: dict[str, Any], config: dict[str, Any]) -> st
             *metric_table(
                 [
                     ("Intervenciones", dialogue_metrics["interventions"]),
+                    ("Palabras de párrafos de diálogo, bruto", dialogue_metrics["dialogue_paragraph_words_raw"]),
+                    ("Palabras habladas estimadas", dialogue_metrics["spoken_words_estimate"]),
                     ("Palabras/intervención, media", dialogue_metrics["words_per_intervention_mean"]),
                     ("Palabras/intervención, mediana", dialogue_metrics["words_per_intervention_median"]),
                     ("Máximo", dialogue_metrics["words_per_intervention_max"]),
@@ -248,6 +266,8 @@ def render_global_report(global_data: dict[str, Any], chapters: list[dict[str, A
     lines = [
         f"# Auditoría editorial global — {global_data['pilot']}",
         "",
+        f"- `editor_version`: `{global_data['editor_version']}`",
+        "",
         "> Esto es diagnóstico, no una lista de correcciones. HIGH significa lectura humana prioritaria, no obligación de modificar.",
         "",
         "## Corpus",
@@ -260,6 +280,10 @@ def render_global_report(global_data: dict[str, Any], chapters: list[dict[str, A
         "|---|---:|",
     ]
     lines.extend(f"| {chapter['number']:02d} · {chapter['filename']} | {chapter['metrics']['rhythm']['words']} |" for chapter in chapters)
+
+    lines.extend(["", "## Señales por confianza", ""])
+    for confidence in ("high-confidence", "compound", "descriptive/inventory"):
+        lines.append(f"- `{confidence}`: {global_data['confidence_counts'].get(confidence, 0)} alertas.")
 
     lines.extend(["", "## Patrones globales", "", "### Frases vigiladas", ""])
     if global_data["phrases"]:
@@ -282,6 +306,21 @@ def render_global_report(global_data: dict[str, Any], chapters: list[dict[str, A
         lines.extend(f"- `{check_id}`: {count}" for check_id, count in global_data["tics"].items())
     else:
         lines.append("- Sin construcciones por encima de cero.")
+
+    lines.extend(["", "### Similaridad entre pasajes (experimental)", ""])
+    if global_data["passage_similarities"]:
+        for row in global_data["passage_similarities"]:
+            lines.extend(
+                [
+                    f"- **{row['severity'].upper()}** · {row['chapter_a']}:{row['line_a']} ↔ "
+                    f"{row['chapter_b']}:{row['line_b']} · score `{row['score']:.4f}` "
+                    f"(Jaccard {row['word_jaccard']:.4f}; shingles {row['shingle_jaccard']:.4f}).",
+                    f"  - A: “{row['excerpt_a']}”",
+                    f"  - B: “{row['excerpt_b']}”",
+                ]
+            )
+    else:
+        lines.append("- Sin pares por encima del umbral experimental.")
 
     lines.extend(
         [
@@ -320,7 +359,7 @@ def render_global_report(global_data: dict[str, Any], chapters: list[dict[str, A
     lines.extend(
         [
             "",
-            "## Límite de V1",
+            "## Límite de V1.1",
             "",
             "No hay análisis lingüístico profundo ni atribución automática de hablantes. Las oraciones, intervenciones y proporciones son aproximaciones mecánicas; no existe autofix.",
             "",
@@ -329,7 +368,10 @@ def render_global_report(global_data: dict[str, Any], chapters: list[dict[str, A
     return "\n".join(lines)
 
 
-def build_global(chapters: list[dict[str, Any]], manifest: dict[str, Any], config: dict[str, Any], ngram_counters: list[Any]) -> dict[str, Any]:
+def build_global(
+    chapters: list[dict[str, Any]], manifest: dict[str, Any], config: dict[str, Any],
+    ngram_counters: list[Any], passage_similarities: list[dict[str, Any]]
+) -> dict[str, Any]:
     all_alerts = [alert for chapter in chapters for alert in chapter["alerts"]]
     total_words = sum(chapter["metrics"]["rhythm"]["words"] for chapter in chapters)
     phrase_totals: dict[str, dict[str, Any]] = {}
@@ -364,11 +406,13 @@ def build_global(chapters: list[dict[str, Any]], manifest: dict[str, Any], confi
         if alert.category == "tics" and alert.check_id != "EDITORIAL_INSTRUCTION_LEAK"
     )
     return {
-        "pilot": manifest.get("pilot", "PILOT"),
+        "pilot": artifact_name(manifest, config),
+        "editor_version": str(config.get("editor_version", "1.0")),
         "mode": "audit_only",
         "chapters": len(chapters),
         "total_words": total_words,
         "alert_counts": severity_counts(all_alerts),
+        "confidence_counts": confidence_counts(all_alerts),
         "phrases": phrase_totals,
         "ngrams": repetitions.merge_ngram_counters(ngram_counters, config),
         "gestures": gesture_totals,
@@ -378,12 +422,101 @@ def build_global(chapters: list[dict[str, Any]], manifest: dict[str, Any], confi
         },
         "tics": dict(sorted(tic_totals.items())),
         "outliers": [],
+        "passage_similarities": passage_similarities,
     }
+
+
+def comparison_data(baseline: dict[str, Any], current: dict[str, Any]) -> dict[str, Any]:
+    current_alerts = [alert for chapter in current["chapters"] for alert in chapter["alerts"]]
+    rows: list[dict[str, Any]] = []
+    for chapter in baseline["chapters"]:
+        for old in chapter["alerts"]:
+            if old["severity"] != "high":
+                continue
+            same_chapter = [item for item in current_alerts if item["chapter"] == old["chapter"]]
+            status = "desapareció"
+            result = "Sin alerta equivalente."
+            reason = "La señal simple ya no cumple la política HIGH de V1.1."
+            if old["check_id"] == "SHORT_PARAGRAPH_CLUSTER":
+                typed = next(
+                    (item for item in same_chapter if item["check_id"].startswith("SHORT_") and item.get("line") == old.get("line")),
+                    None,
+                )
+                if typed:
+                    status = "cambió"
+                    result = f"{typed['check_id']} · {typed['severity'].upper()}"
+                    reason = "V1.1 clasifica la secuencia por proporción de diálogo y reserva HIGH para narración excepcional."
+            elif old["check_id"] == "LONG_DIALOGUE_INTERVENTION":
+                compound = next(
+                    (
+                        item for item in same_chapter
+                        if item["check_id"] == "LONG_DIALOGUE_CLUSTER"
+                        and old.get("line") in item.get("metric", {}).get("lines", [])
+                    ),
+                    None,
+                )
+                individual = next(
+                    (item for item in same_chapter if item["check_id"] == old["check_id"] and item.get("line") == old.get("line")),
+                    None,
+                )
+                if compound:
+                    status = "cambió"
+                    result = f"LONG_DIALOGUE_CLUSTER · {compound['severity'].upper()}"
+                    reason = "La prioridad proviene de la concentración de intervenciones largas, no de longitud aislada."
+                elif individual:
+                    status = "bajó"
+                    result = f"LONG_DIALOGUE_INTERVENTION · {individual['severity'].upper()}"
+                    reason = "La severidad usa palabras habladas estimadas; un parlamento aislado nunca es HIGH."
+            else:
+                exact = next(
+                    (item for item in same_chapter if item["check_id"] == old["check_id"] and item.get("line") == old.get("line")),
+                    None,
+                )
+                if exact:
+                    status = "permanece" if exact["severity"] == "high" else "bajó"
+                    result = f"{exact['check_id']} · {exact['severity'].upper()}"
+                    reason = "La misma señal permanece con la política de severidad recalibrada."
+            rows.append({
+                "chapter": old["chapter"], "line": old.get("line"), "v1_check": old["check_id"],
+                "v1_severity": "high", "status": status, "v1_1_result": result, "technical_reason": reason,
+            })
+    old_counts = baseline["global"]["alert_counts"]
+    new_counts = current["global"]["alert_counts"]
+    return {
+        "counts": {
+            severity: {"v1": old_counts[severity], "v1_1": new_counts[severity], "delta": new_counts[severity] - old_counts[severity]}
+            for severity in ("high", "medium", "low", "info")
+        },
+        "original_highs": rows,
+    }
+
+
+def render_comparison(comparison: dict[str, Any]) -> str:
+    lines = [
+        "# V1 vs V1.1 — calibración editorial", "",
+        "La V1 se conserva como baseline; V1.1 cambia heurísticas y severidades, no la prosa.", "",
+        "## Conteos", "", "| Severidad | V1 | V1.1 | Delta |", "|---|---:|---:|---:|",
+    ]
+    for severity in ("high", "medium", "low", "info"):
+        row = comparison["counts"][severity]
+        lines.append(f"| {severity.upper()} | {row['v1']} | {row['v1_1']} | {row['delta']:+d} |")
+    lines.extend(["", "## Las 15 HIGH originales", ""])
+    for row in comparison["original_highs"]:
+        lines.extend([
+            f"### {row['chapter']}:{row['line']} · `{row['v1_check']}`", "",
+            f"- Resultado V1.1: **{row['status']}** — {row['v1_1_result']}",
+            f"- Motivo técnico: {row['technical_reason']}", "",
+        ])
+    return "\n".join(lines)
 
 
 def run(manifest_path: Path, config_path: Path, output_dir: Path, chapter_filter: str | None = None) -> dict[str, Any]:
     manifest = load_json(manifest_path)
     config = load_json(config_path)
+    version = str(config.get("editor_version", "1.0"))
+    baseline_dir = (REPO_ROOT / "tools/editorial/reports/PILOT_01_10").resolve()
+    if version != "1.0" and output_dir.resolve() == baseline_dir:
+        raise ValueError("V1.1 no puede escribir en el directorio baseline de V1.")
     chapter_paths = validate_manifest(manifest, manifest_path)
     if chapter_filter:
         needle = chapter_filter.casefold()
@@ -393,9 +526,11 @@ def run(manifest_path: Path, config_path: Path, output_dir: Path, chapter_filter
 
     stopwords = build_stopwords(config)
     chapters: list[dict[str, Any]] = []
+    documents = []
     ngram_counters: list[Any] = []
     for path in chapter_paths:
         document = parse_chapter(path, REPO_ROOT)
+        documents.append(document)
         phrase_metrics, phrase_alerts = repetitions.analyze_phrases(document, config)
         ngram_metrics, ngram_alerts, counters = repetitions.repeated_ngram_metrics(document, config, stopwords)
         rhythm_metrics, rhythm_alerts = rhythm.analyze(document, config)
@@ -423,13 +558,22 @@ def run(manifest_path: Path, config_path: Path, output_dir: Path, chapter_filter
         )
         ngram_counters.append(counters)
 
+    passage_similarities, similarity_alerts = similarity.analyze(documents, config, stopwords)
+    for chapter in chapters:
+        chapter_alerts = similarity_alerts.get(chapter["filename"], [])
+        chapter["alerts"].extend(chapter_alerts)
+        chapter["metrics"]["similarity"] = [
+            row for row in passage_similarities
+            if row["chapter_a"] == chapter["filename"] or row["chapter_b"] == chapter["filename"]
+        ]
+
     outliers = add_corpus_outliers(chapters) if not chapter_filter else []
-    global_data = build_global(chapters, manifest, config, ngram_counters)
+    global_data = build_global(chapters, manifest, config, ngram_counters, passage_similarities)
     global_data["outliers"] = outliers
     global_data["alert_counts"] = severity_counts([alert for chapter in chapters for alert in chapter["alerts"]])
 
     output_dir.mkdir(parents=True, exist_ok=True)
-    pilot_name = str(manifest.get("pilot", "PILOT")).upper()
+    pilot_name = artifact_name(manifest, config)
     for chapter in chapters:
         report_path = output_dir / f"{Path(chapter['filename']).stem}.editorial.md"
         if report_path.resolve() in chapter_paths:
@@ -437,9 +581,9 @@ def run(manifest_path: Path, config_path: Path, output_dir: Path, chapter_filter
         write_text_if_changed(report_path, render_chapter_report(chapter, config))
     global_report = output_dir / f"{pilot_name}_GLOBAL.md"
     structured_report = output_dir / f"{pilot_name}.json"
-    write_text_if_changed(global_report, render_global_report(global_data, chapters, config))
     payload = {
-        "schema_version": 1,
+        "schema_version": 2,
+        "editor_version": version,
         "pilot": manifest.get("pilot", "PILOT"),
         "mode": "audit_only",
         "manifest": manifest_path.relative_to(REPO_ROOT).as_posix() if manifest_path.is_relative_to(REPO_ROOT) else str(manifest_path),
@@ -450,6 +594,11 @@ def run(manifest_path: Path, config_path: Path, output_dir: Path, chapter_filter
             for chapter in chapters
         ],
     }
+    baseline_report = baseline_dir / "PILOT_01_10.json"
+    if not chapter_filter and baseline_report.is_file() and version != "1.0":
+        payload["comparison"] = comparison_data(load_json(baseline_report), payload)
+        write_text_if_changed(output_dir / "V1_VS_V1_1.md", render_comparison(payload["comparison"]))
+    write_text_if_changed(global_report, render_global_report(global_data, chapters, config))
     write_text_if_changed(structured_report, json.dumps(payload, ensure_ascii=False, indent=2, sort_keys=True) + "\n")
     return payload
 
