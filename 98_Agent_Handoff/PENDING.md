@@ -14,6 +14,8 @@ Pendientes activos para el siguiente relevo.
 8. Elegir quien filtra o rompe la union invisible.
 9. Decidir contra quien ocurre la operacion imposible de H1.
 10. Disenar la escena de la formalizacion ("Mi pareja" = **H21**). **Posicion canon fijada (2026-08-29):** despues de H5-H7, la mudanza, Italia, el regreso de Palermo, el asalto a Camp Alder y la intervencion de Lucia — puesto 21 de la tabla de orden. Falta la redaccion de la explicacion emocional de Cole y la colocacion fina. El paso del usted al tu quedo resuelto provisionalmente en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos]], pero se puede mover si el autor prefiere otro umbral.
+11. **(2026-08-29) Balance de punto de vista:** el libro se lee casi entero desde Chiara. Falta al menos una escena donde el lector este con Cole del lado criminal de su vida (mas alla de lo legitimo), sin que ella sea el filtro. Ver [[02_Characters/Cole_Mercer]], Preguntas abiertas.
+12. **(2026-08-29) Secuelas del Corral:** el golpe de H12/Capitulo 10 necesita rastro real en los capitulos 11-14 -- lapsos de memoria, dificultad para conectar ideas simples, momentos donde recurre al italiano porque el otro idioma se le traba. Conmocion real, no discapacidad; se disuelve gradual, no de golpe. Ver [[02_Characters/Chiara_Bellandi]] y [[06_Relationships/Hitos]], H12.
 
 ## Pendiente Estructural
 

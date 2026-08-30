@@ -321,6 +321,8 @@ Es la asimetría exacta con el apodo de él ([[02_Characters/Cole_Mercer]], "Mac
 
 > **RESUELTO (2026-08-23):** el anillo fue el matrimonio con **[[02_Characters/Alessio_Lusardi]]**, y cómo terminó es canon. Falta el detalle delicado: los motivos y los hechos de esa noche.
 
+> **PENDIENTE, SECUELAS DEL CORRAL (2026-08-29):** el golpe que recibe en [[06_Relationships/Hitos]], H12 (Capítulo 10, "El corral") debe dejar secuela real en los tres o cuatro capítulos siguientes (11-14: El Loft Del Soltero, El Farol, Roma Atrii, La Regla Del Teléfono) — no daño permanente ni grave, sino los efectos reales de una conmoción: lapsos de memoria, dificultad para conectar ideas simples, momentos donde el español o el inglés se le atascan y termina recurriendo al italiano para decir algo que en cualquier otro momento habría dicho sin pensar. La sensación que se busca es la de una memoria que "hace glitch", no la de una discapacidad. Debe notarse y después disolverse gradualmente, no desaparecer de golpe entre un capítulo y el siguiente.
+
 ---
 
 Ver también: [[00_Biblia/Vision]] · [[00_Biblia/Temas]] · [[00_Biblia/Reglas_del_Mundo]]

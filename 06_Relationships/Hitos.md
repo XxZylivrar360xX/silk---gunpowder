@@ -501,6 +501,8 @@ Ejecutado en el Capítulo 10. **Esto absorbe y ejecuta los beats 1-6 de H5 — v
 - **Cole le devuelve sus propias palabras:** *"Ya estoy dentro contigo. ¿O cómo era? Él es Cole Mercer, vengan a conocerlo. Lo dijiste tú."* Ella: **"No. Pero tampoco me arrepiento."**
 - **Chiara pide un motel de paso**; Cole se burla (*"un motel, dice ella… tú vienes conmigo"*). En la cabeza de ella la frase tiene demasiados significados y **se queda con la lectura más económica** — la operativa, la que le deja decir *"sólo esta vez"*. *"La mentira más económica que se dijo en toda la noche."*
 
+> **PENDIENTE, SECUELAS (2026-08-29):** el golpe debe dejar rastro real en los tres o cuatro capítulos siguientes (11-14) — lapsos de memoria, dificultad para conectar ideas simples, momentos donde el idioma se le traba y termina recurriendo al italiano para decir algo sencillo. Es una conmoción real, no una discapacidad: se nota y se disuelve gradualmente, no desaparece de golpe entre un capítulo y el siguiente. Ver [[02_Characters/Chiara_Bellandi]].
+
 ## La casa común
 
 Para su seguridad y recuperación, termina quedándose en [[05_Locations/Casa_Comunitaria_De_La_Almendra]] — el refugio barrial de Cole y su núcleo.

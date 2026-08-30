@@ -278,6 +278,8 @@ En las carreras ilegales de Kingsley Field ([[06_Relationships/Hitos]], H9 — C
 
 > **PENDIENTE:** ¿mata alguien Cole en esta novela, y en qué página? La respuesta define el género real del libro.
 
+> **PENDIENTE, ESTRUCTURAL (2026-08-29):** el libro se está leyendo casi entero desde el punto de vista de Chiara — su método, su expansión, sus decisiones. El lado criminal de Cole (más allá de lo legítimo: Almendra Towing, el taller) casi no se ha dramatizado en escena propia. El lector sabe que existe (El Patio, la red, el pasado que "administra") pero casi nunca lo ve operar directamente, con Cole como punto de vista y sin que Chiara sea el filtro. Falta al menos una escena — quizás varias, en capítulos futuros — donde el lector esté con Cole del lado ilegal de su vida sin ella presente ni como excusa narrativa. Anotado también en [[98_Agent_Handoff/PENDING]].
+
 ---
 
 Ver también: [[00_Biblia/Vision]] · [[00_Biblia/Temas]] · [[05_Locations/San_Aurelio]]
