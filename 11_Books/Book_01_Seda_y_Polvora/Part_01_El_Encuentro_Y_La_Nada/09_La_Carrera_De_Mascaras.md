@@ -1,5 +1,5 @@
 <!--
-Estado: borrador provisional.
+Estado: TRIADO -- pendiente de edicion editorial global (microedicion de prosa 2026-08-29: se podaron residuos de encargo y frases de tesis; funcion y beats idénticos).
 Protagonistas: Cole Mercer, Chiara Bellandi; Tyler Brooks como aparicion.
 Ventana temporal: dias despues del Capitulo 8 (la noche del ladrillo). Todavia son formalmente amigos; no hay primer beso.
 Lugares: Il Gelsomino (arranque), corredor comercial de salida al interior, La Tramoya (tienda de vestuario/utileria/mascaras), Kingsley Field y carreteras perimetrales / Carretera de Milla.
@@ -112,7 +112,7 @@ Se bajaron. El aire olía a combustible quemado y a hierba seca. Alguien acelera
 
 Chiara hizo lo que sabía hacer en cualquier sala nueva: buscar quién mandaba. No lo encontró. En una junta del Monarch le habría bastado un minuto para ordenar la mesa por peso; aquí las jerarquías no se leían igual — el que importaba podía ser el del coche más feo, o el que no hablaba con nadie, o el chico de la sudadera que iba de grupo en grupo sin quedarse en ninguno.
 
-Era el reverso exacto de la primera noche en el casino. Aquella vez, el hombre parado en un cuarto que no era suyo había sido Cole, y no se le había notado. Esta noche le tocaba a ella.
+Era el reverso de la primera reunión en el Monarch — sólo que esta vez la que estaba parada en un cuarto que no era suyo era ella.
 
 Cole no se apartó. No la llevó del brazo por el estacionamiento como un premio ni la dejó sola contra el coche. Se quedó a su lado, con la bolsa de papel bajo el brazo, saludando a la gente que había que saludar sin soltar la conversación que estaba teniendo con ella.
 
@@ -134,7 +134,7 @@ El de la sudadera resultó ser el que importaba. Llegó caminando, joven — de 
 
 Se fue hacia el siguiente coche antes de que nadie le contestara.
 
-Nadie había abierto la mano hacia ella como hacia un florero. Nadie había subido la voz para que el grupo mirara primero a la italiana y después, si quedaba tiempo, escuchara su nombre. En este mundo su apellido no abría ninguna puerta, y por una noche eso fue un alivio que no había esperado tener que agradecer.
+Nadie abrió la mano hacia ella como hacia un florero. En este mundo su apellido no abría ninguna puerta, y por una noche eso se sintió como aire.
 
 ***
 
@@ -152,7 +152,7 @@ Chiara hizo, al principio, lo que hacía siempre: observar, anticipar, calcular.
 
 Lo había visto antes de que ella terminara la frase. El volante se movió un dedo, nada más, y el hueco contra la reja dejó de existir.
 
-Y ahí Chiara entendió una cosa, sin darle vueltas: éste era uno de los cuartos donde él leía la sala antes que ella. Sólo que la sala iba a ciento cuarenta y la reja pasaba por la ventanilla como un solo trazo continuo.
+Éste era uno de los cuartos donde él leía la sala antes que ella. Sólo que la sala iba a ciento cuarenta y la reja pasaba por la ventanilla como un solo trazo continuo.
 
 La velocidad le fue quitando el control por capas. Primero se le tensaron las manos sobre las rodillas. Después, cuando el tanque de agua se les vino encima demasiado rápido, se oyó decir su nombre — corto, seco, "Cole" — y el guardaganado nuevo pasó bajo el coche como un redoble y no como un choque, porque él ya sabía que estaba ahí. Después le dijo, en italiano, que esto era una locura, que rallentara, que nadie en su sano juicio tomaba una curva así.
 
@@ -160,7 +160,7 @@ Cole no levantó el pie.
 
 Y en algún punto pasado el tanque, con el coche suelto y liviano y todavía respondiendo, con la ciudad muy lejos y ninguna versión de sí misma mirándola, Chiara se rió.
 
-Una carcajada de verdad. No la risa social, no la sonrisa de cerrar un trato, no la mueca cortés que ponía para que una conversación terminara antes. Una risa que se le escapó entera por debajo de la Colombina y que no calculó ni frenó.
+Una carcajada entera, que se le escapó por debajo de la Colombina antes de que pudiera decidir si la tenía.
 
 Cole la oyó. Giró la cara medio segundo, cuando la recta se lo permitió, y volvió a la carretera sin decir nada.
 
@@ -172,7 +172,7 @@ La fila se deshizo como una charola que se cae. Coches saliéndose por cada cami
 
 Cole iba séptimo cuando la carrera se rompió. Dejó de importar en el instante en que se encendió la primera torreta.
 
-No narró lo que hizo con el coche. Fue todo experiencia: el motor fuerte y después más fuerte, la reja convertida en un parpadeo, la respiración de ella, las dos manos de él, un viraje que la empujó contra la puerta, el pino de una sirena doblándose hacia atrás y quedándose lejos. Y después, poco a poco, nada. Una vía de servicio sin luces. El resplandor de la ciudad al frente.
+El motor fuerte y después más fuerte, la reja convertida en un parpadeo, la respiración de ella, las dos manos de él, un viraje que la empujó contra la puerta, el pino de una sirena doblándose hacia atrás y quedándose lejos. Y después, poco a poco, nada. Una vía de servicio sin luces. El resplandor de la ciudad al frente.
 
 En algún momento de todo eso, por el altavoz de una radio de banda que Cole llevaba bajo el tablero, Chiara alcanzó a oír la forma de un mensaje más que sus palabras: un Peugeot rojo, el de siempre, el que conocían, saliendo del campo hacia el sur. No un hombre rubio. No una mujer italiana. No una cara. No los dos juntos. Sólo el coche, fichado otra vez, como llevaba años siendo fichado.
 
@@ -212,8 +212,6 @@ Entró a la ciudad por el sur, con el cielo empezando a decidirse por un gris mu
 
 Cole la dejó en la puerta de servicio del Monarch, la misma por la que la había recogido. Pasaban de las dos de la mañana.
 
-No hubo beso. No hubo un "sube". No hubo nada que se pareciera a una frase importante.
-
 —Trabajo temprano —dijo Cole, que era verdad.
 
 —Ve. —Chiara abrió la puerta y se bajó con el abrigo en el brazo. Se agachó un segundo hacia la ventanilla—. Gracias por la vuelta.
@@ -224,4 +222,4 @@ No hubo beso. No hubo un "sube". No hubo nada que se pareciera a una frase impor
 
 Cerró la puerta. El Peugeot salió del callejón con el mismo ralentí grueso con el que había llegado, y en el asiento de atrás, negra sobre el trapo, iba una máscara que Cole vio por el espejo, no recogió y no salió a devolverle.
 
-Chiara subió en el elevador privado con los zapatos planos en una mano. Lo que se llevaba arriba no tenía forma de plan ni de miedo. Había sido una pésima idea, y quería repetirla.
+Chiara subió en el elevador privado con los zapatos planos en una mano. Había sido una pésima idea, y quería repetirla.

@@ -52,7 +52,7 @@ Michael importa menos por lo que hizo en escena que por el momento en que muere:
 
 Por ahora, su método narrativo es póstumo: deja una obligación que Cole acepta sin convertirla en negocio.
 
-### Sembrado por conducta (borrador Cap. 13 — *La regla del teléfono*)
+### Sembrado por conducta (borrador Cap. 14 — *La regla del teléfono*)
 
 En [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_La_Regla_Del_Telefono]], Michael aparece **sólo por lo que dejó**, nunca en recuerdo dramatizado ni en elegía:
 

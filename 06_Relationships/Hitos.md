@@ -696,7 +696,7 @@ Ver también: [[02_Characters/Cole_Mercer]] · [[02_Characters/Chiara_Bellandi]]
 
 ## Contexto — la ausencia elegida
 
-Cole pasa **todo el fin de semana de campamento con [[02_Characters/Marisol_Grayson]]**, poco antes de que ella vuelva a clases — un capítulo puente propio ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_La_Regla_Del_Telefono|Cap. 14 — La regla del teléfono]]). La incomunicación **no es un accidente**: existe una regla vieja entre ellos, heredada de [[02_Characters/Michael_Grayson]] — durante el campamento los teléfonos se guardan. Cole protesta (nombra a Héctor: "está mayor, si pasa algo…"); Marisol gana. Cole apaga el teléfono con sus propias manos. Puede haber además mala cobertura en la montaña, pero la causa principal es la decisión de estar presente con Marisol.
+Cole pasa **todo el fin de semana de campamento con [[02_Characters/Marisol_Grayson]]**, poco antes de que ella vuelva a clases — un capítulo puente propio ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_La_Regla_Del_Telefono|Cap. 14 — La regla del teléfono]]). La incomunicación **no es un accidente**: existe una regla vieja entre ellos, heredada de [[02_Characters/Michael_Grayson]] — durante el campamento los teléfonos se guardan. Cole protesta porque el taller no puede quedarse sin él dos días; Marisol responde que Walt sabe encargarse y gana: la regla existe para que Cole esté presente allí. Cole apaga el teléfono con sus propias manos. Puede haber además mala cobertura en la montaña, pero la causa principal es la decisión de estar presente con Marisol.
 
 > **Reemplaza** la versión anterior (Cole y Walt salen a mover un cargamento de hierba de Nadir). Walt ya no viaja: se queda en la ciudad, sabe que Cole está de campamento con Marisol "por el norte" pero no en qué sitio.
 
@@ -1056,7 +1056,9 @@ Y es también **la primera vez que se quedan dormidos juntos**, sin que pase nad
 
 > **CANON DEL AUTOR (2026-08-23; reposicionado 2026-08-29).** Uno de los primeros momentos en que Cole saca a Chiara de su zona de confort. **Nueva posición canon:** ocurre **entre [[#H3 — La noche del ladrillo]] y [[#H12 — El atentado / El corral]]** — ya no después de H4. Todavía son formalmente amigos. Función: Cole la saca de su zona de confort; sube la intimidad y la confianza. Actualizar toda tabla cronológica donde aparezca en otra posición.
 >
-> **ESCRITO (2026-08-29)** como **Capítulo 9** — [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_La_Carrera_De_Mascaras]] (encargo [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_H9_CARRERA_DE_MASCARAS_Y_COSTURA_CORRAL]]). En la misma pasada se recosió la apertura de [[#H12 — El atentado / El corral]] (Cap. 10) al residuo de H9 y se renumeró el manuscrito (9→10 … 18→19). Las dos líneas canon van intactas. Pendiente: revisión del autor antes de marcar TRIADO.
+> **ESCRITO (2026-08-29)** como **Capítulo 9** — [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_La_Carrera_De_Mascaras]] (encargo [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_H9_CARRERA_DE_MASCARAS_Y_COSTURA_CORRAL]]). En la misma pasada se recosió la apertura de [[#H12 — El atentado / El corral]] (Cap. 10) al residuo de H9 y se renumeró el manuscrito (9→10 … 18→19). Las dos líneas canon van intactas.
+>
+> **TRIADO — pendiente de edición editorial global (2026-08-29).** Microedición de prosa aplicada (encargo [[98_Agent_Handoff/ChatGPT/ENCARGO_CLAUDE_MICROEDICION_H9_Y_CORRAL]]): podados residuos de encargo ("No narró lo que hizo con el coche", checklist "no hubo beso / no hubo un sube"), la sobreexplicación de la risa de Chiara y varias frases de tesis (inversión Monarch, apellido, "Chiara entendió una cosa"); la apertura de *El corral* deja de recapitular el evento de H9. Función y beats idénticos. No CERRADO.
 
 ## La pregunta
 

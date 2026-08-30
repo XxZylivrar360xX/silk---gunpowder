@@ -92,7 +92,7 @@ Lo reconoció antes de agacharse. El papel. El aroma —canela, vainilla, algo q
 
 Esta vez no había nada que descifrar.
 
-> *Cole — me enteré de lo de Héctor. Lo siento mucho. Espero que mejore pronto y que pueda volver con todos los chicos del barrio, que sé que lo están esperando. Voy a buscar un momento para llevarle flores.*
+> *Cole — encontré a Héctor ayer junto al portón de su casa. Sufrió un infarto. Está estable en Santa Aurelia. Espero que mejore pronto y que pueda volver con todos los chicos del barrio, que sé que lo están esperando. Voy a buscar un momento para llevarle flores.*
 
 Ni una urgencia. Ni un *llámame*. Una carta dejada en el suelo de su casa por alguien que sabía dos cosas: que ese fin de semana no había forma de alcanzarlo, y que tarde o temprano él iba a cruzar esa puerta.
 
@@ -104,7 +104,7 @@ Pasó por el casino antes que por el hospital, y ni él habría sabido explicar 
 
 Ella lo recibió antes de que llegara a preguntar nada, porque lo vio cruzar el piso de juego con una cara que ya conocía y que no le había visto nunca dirigida a ella.
 
-—Está estable —dijo, antes de que él abriera la boca—. El sábado. Un infarto. Lo encontré en el portón de su casa, llamé a emergencias y me quedé con él hasta el hospital. Después te llamé a ti, desde la ambulancia, y no paré de llamarte. Llamé a Walt. Nadie sabía dónde ir a buscarte.
+—Está estable —dijo, antes de que él abriera la boca—. El sábado. Un infarto. Lo encontré en el portón de su casa, llamé a emergencias y me quedé con él hasta el hospital. Después te llamé a ti, desde la sala de espera, y no paré de llamarte. Llamé a Walt. Nadie sabía dónde ir a buscarte.
 
 —Ya sé. —Cole se pasó una mano por la cara—. Estaba en un cerro con el teléfono apagado.
 
