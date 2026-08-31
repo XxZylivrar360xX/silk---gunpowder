@@ -547,9 +547,23 @@ La fricción de la casa común — no la nostalgia ni el cálculo — es lo que 
 
 Cole la vacía entera y **le pide ayuda a Chiara** para plantear la distribución: quiere montar **"un loft para soltero".**
 
-Ella lo organiza: llama a una empresa de construcción y decoración, elige ella misma los muebles, articula los gastos — **Chiara paga todo**, pero de cara a los demás la versión es "apoyo del casino" — y deja su gusto inscrito en el lugar.
+Ella no se limita a decorar. Visita el cascarón todavía dividido como casa convencional y propone retirar gran parte del segundo piso para crear un vacío de doble altura. Queda un **mezzanine / dormitorio suspendido** sobre la sala, con privacidad parcial, barandilla de acero negro y vista hacia la planta baja. La escalera abierta corre contra un lateral. La cocina recibe isla central, almacenamiento real y espacio para varias personas. El balcón trasero queda ligado al dormitorio.
+
+Cole define circulación, visibilidad, entradas, salidas, resistencia y uso. Chiara define proporción, luz, textura, temperatura y comodidad. El resultado en esta etapa es aproximadamente **80 % Cole / 20 % Chiara**: industrial, minimalista y funcional; acero negro mate, madera natural, ladrillo original expuesto, paredes claras, concreto/gris claro, iluminación cálida y muebles hechos para aguantar uso, no para exhibirse.
+
+**Única condición no negociable de Cole:** *"El balcón se queda."* Es el mismo desde el que vio el arresto de Dale. No explica por qué. Chiara registra que es la primera decisión de la casa que él no negocia, ordena restaurarlo y asegurarlo, y no convierte el momento en conversación terapéutica.
+
+Chiara organiza la obra, contrata a la empresa, elige con Cole los muebles y articula los gastos — **Chiara paga todo**, pero de cara a los demás la versión es "apoyo del casino" — y deja su gusto inscrito en el lugar. Cole no lo acepta como regalo: lo registra como deuda propia sin impedir que ella pague.
 
 > La ironía es el hito: **el loft de soltero de Cole termina completamente diseñado por la mujer de la que se está enamorando.** Sin proponérselo, Chiara diseña la primera casa que acabará siendo de los dos. Ver [[05_Locations/La_Casa]].
+
+## El doble fondo de Dale — siembra con pago en H8
+
+Durante la demolición aparece un **doble fondo bajo el suelo** que Dale Mercer usaba para contrabando. Cole reconoce para qué servía sin explicarlo ni convertir el hallazgo en procedimiento. Decide conservarlo y hace instalar dentro una **caja de acero resistente al fuego**.
+
+En H14 todavía es infraestructura sólo de Cole: guarda de manera general documentos, papeles sensibles, efectivo y armas, dejando espacio libre. No se adelantan objetos futuros ni se llama "la caja de ambos".
+
+Después de [[#H16 — El cumpleaños / la mudanza oficial]], el uso la convierte sin ceremonia en la caja fuerte compartida. Su pago ocurre en [[#H8 — El incendio, la mentira y la villa]]: el loft y la vida doméstica arden, pero la caja y su contenido sobreviven.
 
 ## La vida doméstica que empieza — pero todavía NO es mudanza
 
@@ -1777,6 +1791,12 @@ Aunque la casa fuera de él. Aunque el barrio fuera de él. Aunque los padres mu
 
 > **Regla de escritura:** es probable que Cole cargue esa pérdida como propia y que nadie corrija esa suposición en voz alta. **Que el lector sea el único que sepa que ella también perdió algo es exactamente el tipo de dolor que este libro escribe bien.**
 
+## 3-a. Lo que sí sobrevive — CANON DEL AUTOR (2026-08-30)
+
+El doble fondo plantado en H14 y la caja de acero resistente al fuego protegen su contenido. Después del incendio pueden recuperar la caja ennegrecida y cubierta de hollín, pero intacta por dentro: sobreviven escrituras, contratos, documentos, armas, joyas, dinero de reserva y otros objetos que habían guardado ahí.
+
+**Esto no abarata el incendio.** Sobrevive lo que podía guardarse, tasarse, documentarse o protegerse. Se destruye lo que hacía hogar al loft: la estructura habitable, la mesa, la taza, la manta, los muebles, los objetos cotidianos y los recuerdos que quedaron expuestos. El contraste es parte del costo.
+
 ## 4. El penthouse otra vez
 
 Se mudan a [[05_Locations/El_Penthouse]].
@@ -1836,7 +1856,7 @@ Durante los meses de obra, Chiara está encima **como una leona, y neurótica co
 - **Nadie menciona las especias.** El lector ve lo que él vio; ella nunca sabe que la leyeron.
 - **La mentira de la fuga de gas no se discute cuando ocurre.** Ella lo sabe y se calla. Se cobra mucho después.
 - **La obra de la villa es cómica.** Chiara neurótica con los obreros es alivio y es carácter, y compensa el peso de todo lo demás.
-- **La casa nueva no borra la vieja.** Si algo se salvó del incendio, ese objeto vale más que la villa entera.
+- **La casa nueva no borra la vieja.** La caja de acero salva bienes valiosos, pero no salva el hogar; nada recuperado vuelve intercambiable la pérdida.
 
 ---
 
@@ -1850,7 +1870,7 @@ Durante los meses de obra, Chiara está encima **como una leona, y neurótica co
 
 > **RESUELTO (2026-08-23): [[#H1 — El regreso a casa]] ocurre en [[05_Locations/La_Villa]]**, la casa final. **El incendio va antes.**
 
-> **PENDIENTE:** ¿se salvó algo del incendio? **El collar lo lleva puesto, así que ése sobrevive.** Lo demás, por decidir — y lo que sobreviva será el objeto más caro de la novela.
+> **RESUELTO (2026-08-30, canon del autor):** el collar sobrevive porque Cole lo lleva puesto. También sobreviven el doble fondo, la caja de acero resistente al fuego y todo lo guardado dentro (escrituras, contratos, documentos, armas, joyas, reserva de dinero y otros objetos justificados). Se pierden la estructura habitable y las pertenencias cotidianas expuestas; la caja salva valor, no el hogar.
 
 > **PENDIENTE:** ¿cuándo y cómo se rompe la mentira? Si es el conflicto que hace creer al lector que se acaba, hay que colocarlo con precisión.
 
@@ -2065,6 +2085,10 @@ Dos gestos domésticos se sacaron del [[#H14 — El loft del soltero|Capítulo 1
 
 - **La computadora que por fin se queda** — deja de cargarla todos los días porque ya no tiene a dónde llevársela.
 - **El café listo cada mañana** — la cafetera programada, la taza sacada, esperando a que Cole baje medio dormido. Pasa de gesto suelto a costumbre diaria: es la señal de que ella se despierta y sale al trabajo desde aquí. **Engancha con la frase de la llave** (ver abajo): *"quiero que pases también las mañanas".*
+
+## El doble fondo después de la mudanza — CANON DEL AUTOR (2026-08-30)
+
+La caja de acero instalada por Cole en H14 evoluciona por uso, sin conversación de propiedad, hasta ser **la caja fuerte de ambos**. Empieza a recibir también contratos, escrituras, dinero de reserva, joyas costosas de Chiara y otros objetos valiosos justificados por la trama. No hay escena de "ésta es nuestra caja": la apropiación sucede al dejar de separar lo suyo de lo de él.
 
 ## La magia del cumpleaños — CANON DEL AUTOR (2026-08-29)
 

@@ -10,12 +10,12 @@ Pendientes activos para el siguiente relevo.
 4. Confirmar si Mei-Lin traiciono realmente o si solo dejo demasiada duda.
 5. Definir el favor exacto que cobra Anya en Washington.
 6. Decidir el ejecutor material del sabotaje de los frenos.
-7. Fijar la historia completa de La Casa.
+7. Fijar lo que aún falta de [[05_Locations/La_Casa]]: **por qué la familia Mercer dejó de poseerla** y **si Chiara sabe de quién era mientras la diseña**. Recompra, arquitectura, balcón, doble fondo, caja de acero y pago en H8 ya son canon y están integrados.
 8. Elegir quien filtra o rompe la union invisible.
 9. Decidir contra quien ocurre la operacion imposible de H1.
 10. Disenar la escena de la formalizacion ("Mi pareja" = **H21**). **Posicion canon fijada (2026-08-29):** despues de H5-H7, la mudanza, Italia, el regreso de Palermo, el asalto a Camp Alder y la intervencion de Lucia — puesto 21 de la tabla de orden. Falta la redaccion de la explicacion emocional de Cole y la colocacion fina. El paso del usted al tu quedo resuelto provisionalmente en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos]], pero se puede mover si el autor prefiere otro umbral.
 11. **(2026-08-29) Balance de punto de vista:** el libro se lee casi entero desde Chiara. Falta al menos una escena donde el lector este con Cole del lado criminal de su vida (mas alla de lo legitimo), sin que ella sea el filtro. Ver [[02_Characters/Cole_Mercer]], Preguntas abiertas.
-12. **(2026-08-29) Secuelas del Corral:** el golpe de H12/Capitulo 10 necesita rastro real en los capitulos 11-14 -- lapsos de memoria, dificultad para conectar ideas simples, momentos donde recurre al italiano porque el otro idioma se le traba. Conmocion real, no discapacidad; se disuelve gradual, no de golpe. Ver [[02_Characters/Chiara_Bellandi]] y [[06_Relationships/Hitos]], H12.
+12. **(2026-08-29) Secuelas del Corral:** el golpe de H12/Capitulo 10 necesita rastro real en los capitulos 11-14 -- lapsos de memoria, dificultad para conectar ideas simples, momentos donde recurre al italiano porque el otro idioma se le traba. Conmocion real, no discapacidad; se disuelve gradual, no de golpe. **Cap. 11 RESUELTO (2026-08-30):** alarma de medicación olvidada, palabra que no llega, italiano, cefalea, mareo y mejora progresiva durante la obra. Falta sostener y disminuir el rastro en Caps. 12-14. Ver [[02_Characters/Chiara_Bellandi]] y [[06_Relationships/Hitos]], H12.
 
 ## Pendiente Estructural
 
@@ -53,7 +53,7 @@ Encargo: [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_H9_CARRERA_DE_MASCARAS_Y_COSTU
 
 ## De La Consolidacion De Cronologia Relacional (2026-08-29)
 
-- ~~Correccion de prosa del Capitulo 11~~ **HECHA (2026-08-29, opcion A / poda quirurgica).** Se retiraron la almohada "de ella", la computadora instalada y la rutina del cafe diario; quedan libro, manta, cepillo, cremas, taza favorita y noches sueltas. La laptop y el cafe diario se reservaron para el hito del cumpleaños.
+- ~~Correccion de prosa del Capitulo 11~~ **HECHA (poda 2026-08-29; reescritura/expansion 2026-08-30).** La compra, el cascaron y tres etapas de obra ya son escenas; Chiara interviene la arquitectura; se integran balcon, doble fondo y caja de acero. Se mantienen sólo libro, manta, cepillo, cremas, taza favorita y noches sueltas; la laptop y el cafe diario siguen reservados para el hito del cumpleaños.
 - ~~Conflicto de orden en el manuscrito: H11 vs H10~~ **RESUELTO (2026-08-29, opcion A): capitulos reordenados.** **RENUMERADO +1 dos veces el 2026-08-29** (Cap. 14 puente *La regla del telefono*, luego Cap. 9 nuevo *La carrera de máscaras*): numeracion vigente **Cap. 15 = El porton, 16 = Cuatro letras, 17 = El dia nublado, 18 = El mirador, 19 = Sin rastro**. Mapa vigente en [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]]. **Queda pendiente de prosa:**
   - ~~Reescribir la apertura del **Cap. 15 (*El porton*)**~~ **HECHA (2026-08-29, triaje PROSA-A).** Ahora abre con el residuo de "Roma Atrii" (el papel sin resolver, la promesa de Chiara de traer ella misma lo que tenga que llegarle) y monta el arranque de H10 sin intimidad previa.
   - ~~Reescribir la apertura del **Cap. 18 (*El mirador*)**~~ **HECHA (2026-08-29, triaje PROSA-B).** Ahora abre con el residuo del Cap. 17 (H4): la tarde del golf que vuelve, lo que Chiara contó del exmarido y lo que Cole entendió sin que ella lo dijera, "somos sólo buenos amigos" sostenido.

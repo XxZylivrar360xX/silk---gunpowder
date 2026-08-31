@@ -37,6 +37,17 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 
 ---
 
+## El doble fondo y la caja de acero
+
+- **Que es:** un doble fondo bajo el suelo de [[05_Locations/La_Casa]], usado por Dale Mercer para contrabando. Cole lo conserva durante H14 e instala dentro una caja de acero resistente al fuego.
+- **Se siembra en:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/11_El_Loft_Del_Soltero]] — Cole reconoce la función del hueco, lo reutiliza y guarda material propio general. No se explica el mecanismo técnico.
+- **Evolución permitida:** después de [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]], se vuelve por uso la caja fuerte de ambos; puede recibir documentos, contratos, escrituras, armas, dinero de reserva, joyas de Chiara y otros objetos justificados. No hay declaración de propiedad compartida.
+- **Pago:** [[06_Relationships/Hitos#H8 — El incendio, la mentira y la villa]]. El doble fondo y la caja sobreviven ennegrecidos; el contenido queda intacto.
+- **Líneas o gestos prohibidos:** anticipar en H14 los objetos futuros de Chiara; convertir el escondite en tutorial; usar la supervivencia de la caja para suavizar la destrucción del hogar. La regla emocional es: se salva lo tasable/protegible, no la vida cotidiana.
+- **Estado:** sembrado en prosa; pago futuro fijado.
+
+---
+
 ## Paso del usted al tu
 
 - **Que es:** H2 empieza con "Encantado de conocerla", de usted. El cruce al tu es umbral relacional.

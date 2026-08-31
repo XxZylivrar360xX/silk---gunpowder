@@ -16,9 +16,42 @@
 >
 > **RESUELTO (2026-08-27; hito separado 2026-08-29):** Cole la **recompró** en el hito **[[06_Relationships/Hitos#H14 — El loft del soltero]]** (antes segunda mitad de H12) — no por nostalgia ni cálculo, sino porque la fricción entre Chiara y [[02_Characters/Nadir_Amrani]], conviviendo en [[05_Locations/Casa_Comunitaria_De_La_Almendra]] mientras ella se recuperaba del ataque de [[06_Relationships/Hitos#H12 — El atentado / El corral|H12]], se volvió insostenible. Necesitaba un lugar propio. **Sigue PENDIENTE** por qué la familia había dejado de tener la casa (deudas de Dale con Crowe, u otra razón). Para cuando ocurre H10 (el infarto de Héctor), Cole ya vive ahí, ya recomprada y ya diseñada por Chiara.
 >
-> Cole la **vació entera** — la limpiaron hasta dejarla en un lienzo en blanco — y le pidió a Chiara ayuda para plantear la distribución. Le dijo que quería montar **un loft para soltero.** Ella llamó a una empresa de construcción y decoración, **y escogió ella misma los muebles.**
+> Cole la **recompra después de una inspección y una negociación reales**, entra solo y luego le pide a Chiara ayuda para plantear la distribución. Le dice que quiere montar **un loft para soltero.** Ella no se limita a decorar: lee el cascarón, propone retirar gran parte del segundo piso para crear la doble altura y participa en las decisiones de circulación, proporción, luz, cocina, mezzanine, escalera y mobiliario. Chiara contrata la obra y **paga cada factura**; de cara a los demás, la versión es "apoyo del casino".
 >
 > **Sin proponérselo, Chiara diseñó la primera casa que terminaría siendo de los dos.** Ver [[06_Relationships/Hitos#H14 — El loft del soltero]]. **Pero Chiara NO se muda aquí en ese punto:** la mudanza oficial es un hito posterior, el día de su cumpleaños (ver [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]]). Hasta entonces sólo pasa tiempo y deja algún objeto suelto.
+
+---
+
+## Arquitectura del loft — CANON DEL AUTOR (2026-08-30)
+
+**Concepto:** industrial, minimalista y funcional; construido para usarse, no para exhibir riqueza. En H14 la autoría visual queda aproximadamente **80 % Cole / 20 % Chiara**:
+
+- **Cole:** función, resistencia, circulación despejada, entradas y salidas visibles, materiales que aguanten trabajo real.
+- **Chiara:** proporción, luz, textura, temperatura visual, comodidad y lugares donde sentarse sin estar haciendo algo.
+
+**Planta baja:** gran espacio abierto de doble altura con sala, comedor y cocina; pocas divisiones, ventanales amplios y circulación clara. La cocina tiene isla central, almacenamiento abundante y espacio para varias personas. La mesa del comedor sienta a ocho: más gente de la que un supuesto soltero necesita, justificada por Cole con que "los muchachos comen".
+
+**Segundo nivel:** gran parte del piso original se retira. Permanece un **mezzanine / dormitorio suspendido** que domina visualmente la sala, con privacidad parcial y barandilla de acero negro. Desde arriba se ven la sala y la entrada.
+
+**Escalera:** abierta, de acero negro mate con peldaños de madera, integrada contra un lateral para no cortar la luz ni la circulación.
+
+**Balcón exterior:** se conserva y queda ligado al dormitorio/mezzanine. Es el mismo desde el que Cole vio el arresto de Dale. Durante el diseño, la única condición que Cole impone sin negociar es: **"El balcón se queda."** Chiara no pregunta por qué; manda restaurarlo y asegurarlo. Dos sillas y una mesa pequeña pueden llegar más adelante.
+
+**Materiales y tono:** acero negro mate, madera natural media/oscura, un muro de ladrillo original expuesto, concreto o yeso gris claro, suficientes paredes claras para rebotar luz, sofá carbón, muebles de madera con estructura metálica, plantas puntuales e iluminación cálida complementada con luz de trabajo en la cocina. Nada de lujo de penthouse, minimalismo clínico, showroom o "cueva masculina".
+
+**Regla de escritura:** esta ficha fija la geografía, pero la prosa no debe describirla entera cada vez. El loft se conoce por partes y usos a lo largo del libro.
+
+---
+
+## El doble fondo y la caja de acero — CANON DEL AUTOR (2026-08-30)
+
+Durante la demolición de H14 aparece un **doble fondo bajo el suelo** que Dale Mercer usaba para contrabando. Cole reconoce su función sin convertir el hallazgo en explicación técnica. Decide no eliminarlo y hace instalar dentro una **caja de acero resistente al fuego**.
+
+**Estado en H14:** es infraestructura de Cole. Puede guardar documentos, escrituras, contratos sensibles, efectivo, armas y papeles personales; no se inventaría un inventario exhaustivo ni se adelantan objetos futuros.
+
+**Evolución después de H16:** sin conversación ni ceremonia, el uso la convierte en **la caja fuerte de ambos**. A lo largo de la novela termina recibiendo armas, documentos, contratos, escrituras, reservas de dinero, joyas costosas de Chiara y otros objetos valiosos narrativamente justificados. No hay una escena donde declaren propiedad compartida: deja de haber dos inventarios por acumulación de uso.
+
+**Pago en H8:** el incendio destruye la estructura habitable, los muebles y la vida cotidiana expuesta, pero el doble fondo y la caja de acero protegen su contenido. La caja puede recuperarse ennegrecida y cubierta de hollín; dentro sobreviven escrituras, contratos, documentos, armas, joyas y otros objetos guardados. Esto **no abarata el incendio**: sobrevive lo que podía tasarse, documentarse o protegerse; se pierde el hogar — mesa, taza, manta, muebles y recuerdos cotidianos que quedaron fuera.
 
 ---
 
@@ -29,6 +62,8 @@
 > **Cuándo (2026-08-29, autor):** H8 cae **después de Año Nuevo** (F4) y **después de F3 — Los frenos**, ya avanzada la Parte II. El motivo canon ("un cargamento no entregado, cuando Cole todavía trabajaba para Crowe") queda por reajustar a esa altura — a esas alturas Cole ya no trabaja para Crowe; el incendio es castigo a la autonomía consumada. Ver [[06_Relationships/Hitos#H8 — El incendio, la mentira y la villa]].
 
 **Y ella también perdió su hogar ese día**, aunque la casa fuera de él y aunque nadie lo diga en voz alta.
+
+El doble fondo y la caja de acero sobreviven con su contenido intacto. La supervivencia de esos bienes no compensa la pérdida: conserva papeles, armas, dinero y joyas; no conserva la vida doméstica que los rodeaba.
 
 Se mudan al [[05_Locations/El_Penthouse]] — de prestado otra vez — hasta que llega [[05_Locations/La_Villa]].
 
@@ -50,13 +85,15 @@ Ya no *mi casa de soltero*. Ya sólo **casa**. Ver [[06_Relationships/Hitos]], H
 
 ---
 
-## Las tres capas de esta casa
+## Las tres capas físicas de esta casa
 
-**1. Es la casa que no era una casa.** El sitio donde a Cole lo criaron sin ser querido del todo, donde Dale se fue por una deuda y donde Ruth se murió dos años después. Ver [[02_Characters/Cole_Mercer]].
+**1. El pasado visible:** el balcón, los cuartos, las marcas de Dale y Ruth. Cole no conserva la planta convencional: transforma la casa sin borrar el único elemento que no puede negociar, el balcón.
 
-**2. Cole no la vendió, no la abandonó y no la dejó como estaba: la vació.** No es nostalgia y no es huida — es la única forma que encuentra de quedarse con el sitio sin quedarse con lo que pasó ahí. **Es exactamente lo que hace con su propia biografía.**
+**2. El pasado enterrado:** el doble fondo de contrabando de Dale. Cole no lo destruye; convierte una herramienta criminal heredada en infraestructura propia mediante la caja de acero.
 
-**3. Y la mujer que la vuelve a llenar es Chiara.** Él pidió *un loft para soltero*; ella diseñó, sin saberlo, la casa donde van a vivir los dos. **El hogar que ninguno de los dos tuvo lo construye ella encima del que él perdió.**
+**3. El origen desconocido:** la pequeña caja de madera con runas nórdicas escondida en un conducto de aire. Cole la recupera, no la abre y la guarda en el maletero; no vuelve a mencionarse hasta la Parte III. Ver [[12_Craft_Policies/revelations/SAGA_LEVEL]].
+
+Y la mujer que vuelve habitable el conjunto es Chiara. Él pidió *un loft para soltero*; ella intervino la arquitectura y los muebles sin saber que también estaba construyendo el lugar donde vivirían los dos.
 
 > **Regla de escritura: nadie lo comenta nunca.** Ni él, ni ella, ni el narrador. El lector hace la cuenta solo — y la vuelve a hacer cada vez que esa casa aparece, incluida la noche del baño en [[06_Relationships/Hitos]], H1.
 

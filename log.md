@@ -2388,3 +2388,13 @@ Calibración inicial: un bug de coincidencia (`TODO` vs. la palabra normal "todo
 ## [2026-08-30] tooling editorial | Calibración determinista V1.1 sobre capítulos 01–10
 
 V1 preservada como baseline. V1.1 separa palabras brutas/habladas, reserva HIGH para confianza alta o señales compuestas, tipifica clusters cortos, evita cadenas negativas entre hablantes, colapsa n-gramas contenidos, fusiona clusters gestuales y añade similaridad léxica experimental entre capítulos. Resultado: 42,534 palabras, 1 high / 17 medium / 138 low / 33 info; HIGH único = `LONG_DIALOGUE_CLUSTER` de Héctor en *El corral*. Comparativo y JSON en `tools/editorial/reports/PILOT_01_10_V1_1/`; 19 tests pasan. Sin cambios de prosa, EPUB, commit ni push; pendiente revisión de ChatGPT + autor antes de Fase 2.
+
+## [2026-08-30] canon + prosa | Expansión del Capítulo 11 — *El loft del soltero*
+
+**Encargo directo del autor a Codex.** Se reescribió y expandió `11_El_Loft_Del_Soltero.md` para convertir la recompra, el diseño y la remodelación en escenas vividas. Se conservaron la fricción no romántica de Nadir, la memoria privada del balcón (Dale/Ruth/Hale Valley), la recuperación de la caja de runas sin abrir y el cierre silencioso de Nadir. La corrección `chamarra` -> `chaqueta` queda aplicada.
+
+**Arquitectura canon:** loft industrial minimalista y funcional, ~80 % Cole / 20 % Chiara; planta baja abierta de doble altura; cocina con isla y almacenamiento real; mezzanine/dormitorio suspendido con barandilla de acero negro; escalera lateral abierta; ladrillo original, paredes claras, madera y concreto/gris; balcón conservado como única condición no negociable de Cole. Chiara visita el cascarón, propone retirar gran parte del segundo piso y participa en tres etapas de obra; su autoría ya no se reduce a muebles.
+
+**Continuidad nueva:** durante la demolición aparece el doble fondo que Dale usaba para contrabando. Cole lo conserva e instala una caja de acero resistente al fuego. En H14 guarda material propio general; tras H16 evoluciona por uso hasta ser la caja fuerte de ambos; en H8 sobrevive ennegrecida con el contenido intacto. La supervivencia no abarata el incendio: se salvan bienes protegibles, no la estructura, los muebles ni la vida cotidiana. Actualizados `La_Casa.md`, H14/H16/H8, ledgers de revelaciones/hitos, Book Map, INDEX, CURRENT_BRIEF y DECISIONS.
+
+**Límites conservados:** Chiara muestra secuelas neurológicas menores y decrecientes; no hay beso, intimidad, formalización ni mudanza. Sólo quedan libro, manta, cepillo, cremas, taza y noches sueltas. No se resolvió por qué la familia perdió la casa ni si Chiara conoce su historia al diseñarla. Sin commit ni push.

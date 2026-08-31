@@ -2,6 +2,12 @@
 
 Decisiones compactas para relevo. No reemplaza `log.md`.
 
+## 2026-08-30
+
+- H14 queda desarrollado como construcción compartida, no transición logística: Cole recompra la vieja casa mediante una negociación real; Chiara propone la doble altura y participa en mezzanine, escalera, cocina, luz y mobiliario. La proporción visual en esta etapa es 80 % Cole / 20 % Chiara. El balcón se conserva por condición tajante de Cole; él no explica por qué.
+- El doble fondo bajo el suelo pertenecía al contrabando de Dale. Cole lo conserva e instala una caja de acero resistente al fuego. En H14 contiene material propio general; después de H16 se vuelve por uso la caja fuerte de ambos. En H8 el contenido protegido sobrevive, pero la casa y la vida cotidiana expuesta se pierden.
+- Sigue PENDIENTE por qué la familia Mercer dejó de poseer la casa y si Chiara sabe de quién era mientras la diseña. La prosa del Capítulo 11 mantiene ambos huecos sin resolver.
+
 ## 2026-08-29
 
 - El stack editorial V1 queda limitado a `audit_only`, Python estándar, corpus explícito 01–10 y cero autofix. Una alerta —también `high`— sólo prioriza lectura humana. La Fase 2 queda bloqueada hasta calibrar el top 30 con el autor + ChatGPT.

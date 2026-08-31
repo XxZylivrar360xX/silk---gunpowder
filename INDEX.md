@@ -105,7 +105,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[05_Locations/Cementerio_Santa_Lucia]] — cementerio asociado a Santa Lucía; lugar donde Cole habla con Michael sobre Marisol.
 - [[05_Locations/El_Penthouse]] — la zona segura de la primera etapa, encima del casino. Prestada, y por eso importa: es el ensayo de la casa.
 - [[05_Locations/El_Mirador]] — el único lugar de la ciudad donde se ven las estrellas. Montaña arriba, en el norte. Donde Cole se abre por primera y única vez sobre Dale y Ruth ([[06_Relationships/Hitos]], H11).
-- [[05_Locations/La_Casa]] — **el loft del barrio**, la vieja casa de sus padres que Chiara rediseñó sin saber que sería de los dos. El hogar de verdad, y la catástrofe cargada del libro.
+- [[05_Locations/La_Casa]] — **el loft del barrio**, la vieja casa de Dale y Ruth que Cole recompra y transforma con Chiara: doble altura, mezzanine, balcón conservado y doble fondo con caja de acero. El hogar de verdad, y la catástrofe cargada del libro.
 - [[05_Locations/La_Villa]] — **Villa Candelaria**, la casa oficial en Lomas de San Jacinto, zona residencial del norte. Existe porque alguien quemó el loft. Él la compró sin que ella dijera una palabra; ella la construyó como una leona.
 - [[05_Locations/Bellandi_Ridge_Vineyards]] — los viñedos de Chiara en la ladera norte; apellido materno convertido en tierra y propiedad legítima separada del Patio.
 - [[05_Locations/Cedar_Flats]] — pueblo agrícola lejano del norte: parcelas de cultivo, bodegas rurales y cobertura logística posible.
@@ -221,6 +221,6 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 5. ~~Nombres provisionales.~~ **Ninguno queda.** Confirmados 2026-08-23: el título *Seda y Pólvora*, Cole Mercer, Chiara Ardizzone Bellandi y San Aurelio, California.
 6. El nombre legal de la sociedad que opera The Monarch y los socios italianos visibles.
 7. **El nombre que la calle le pone a la organización de Cole.** Candidato natural a título del libro.
-8. **La historia de [[05_Locations/La_Casa]]** — canon del autor, por recibir.
+8. **Por qué la familia dejó de poseer [[05_Locations/La_Casa]]** — PENDIENTE del autor; la recompra, arquitectura y doble fondo ya son canon.
 9. **El conflicto que hace creer al lector que esto se acaba.** Sin él, la regla dura no vale nada.
 10. **Fichas de voz** de los dos protagonistas.
