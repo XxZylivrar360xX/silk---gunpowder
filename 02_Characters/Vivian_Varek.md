@@ -24,6 +24,6 @@ No es una psicópata plana. Ama a sus hermanas y a su padre, puede ser afectuosa
 
 Vivian heredó el fuego de Dario y representa la consecuencia viva de su lógica. Dario no quería que entrara en la organización, pero ella descubrió la verdad y demostró que era buena en ese mundo.
 
-> **PENDIENTE:** nombre de la fachada industrial, cuándo descubrió la verdad, qué límites intenta imponerle Dario y cuánto sabe sobre el atentado de la iglesia antes de la ejecución.
+> **PENDIENTE:** nombre de la fachada industrial, cuándo descubrió la verdad, qué límites intenta imponerle Dario, cuánto sabe sobre la estructura de su padre antes del arresto y qué lugar ocupa —si alguno— en Santa Lucía. La versión donde el atentado antecedía a la ejecución de Dario quedó decanonizada el 2026-08-30; ver [[04_Concepts/La_Guerra_de_los_Tres]].
 
 Ver también [[02_Characters/Dario_Varek]] y [[03_Factions/Fuerza_de_Tarea_Meridian]].

@@ -53,7 +53,7 @@ Si una escena nueva cambia de forma irreversible una relacion, deuda, ritual o j
 26. [[06_Relationships/Hitos#H8 — El incendio, la mentira y la villa]] - queman el loft; Cole miente; el doble fondo y la caja de acero conservan bienes protegidos pero no el hogar; nace Villa Candelaria. *(Posicion fina en la secuencia: PENDIENTE.)*
 27. Primera Navidad y collar - pendiente de escena; nace "RETORNA A CASA".
 28. [[06_Relationships/Hitos#H13 — El pañuelo]] - intercepcion de Il Consorzio en la iglesia; planta el viaje a Palermo. *(Posicion fijada 2026-08-29: puesto 16 de la tabla de orden, justo antes de H17 — Italia.)*
-29. [[06_Relationships/Hitos#Hito mayor por numerar — La iglesia, la caída y la ejecución de Dario Varek]] - atentado, coma de Chiara, caída legal de Dario y ejecución por Cole. Número y detalles de desarrollo pendientes.
+29. [[06_Relationships/Hitos#Macrohito por numerar — La caída de Dario, Santa Lucía y Halbrook]] - arresto legal de Dario, falso final, atentado de Santa Lucía + montaña y muerte pública de Halbrook. Número, división y detalles pendientes.
 
 ## Climax
 

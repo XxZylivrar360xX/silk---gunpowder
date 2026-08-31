@@ -208,6 +208,8 @@ Cole no conquista. **Se vuelve necesario.** Las cuatro fases están en [[00_Bibl
 
 Su instrumento es **el favor no solicitado**: hace la cosa antes de que se la pidan, sin cobrarla y sin mencionarla nunca. La gente cree que es generosidad. Lo es. También es un libro de contabilidad que sólo él lleva, y su poder consiste en no cobrar casi nunca — porque una deuda cobrada se acaba y una deuda viva no.
 
+En [[04_Concepts/La_Guerra_de_los_Tres|Parte III]], esa red no puede adquirir apariencia de milicia Mercer. Cole conserva su fachada de empresario, dueño de Almendra Towing, inversionista y operador local. Sus hombres aparecen desde fuera como bandas, trabajadores, contactos, aliados y grupos con intereses coincidentes; no usan uniformes, insignias ni un lenguaje común que vuelva demostrable el mapa completo.
+
 **Lo que no ve:** que el mismo mecanismo que lo hace querible es el que lo va a dejar solo. Todos le deben algo. Nadie está con él gratis. Y el día que alguien se quede por decisión propia, Cole no va a saber creerlo.
 
 ---

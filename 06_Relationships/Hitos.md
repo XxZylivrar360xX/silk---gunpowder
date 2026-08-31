@@ -44,7 +44,7 @@ No insertarlos por intuición. Mantener su posición como PENDIENTE mientras no 
 |---|---|
 | Después de F4 y F3 | **H8** — El incendio, la mentira y la villa *(2026-08-29: después de Año Nuevo (F4) y de los frenos (F3); posición fina respecto a Camp Alder y "Mi pareja" por afinar)* |
 | Por recibir | Primera Navidad y el collar · la primera vela · las clases de italiano *(rituales por colocar)* |
-| Parte IV | **Hito mayor por numerar** — La iglesia, la caída y la ejecución de Dario Varek *(después de "Mi pareja")* |
+| Parte III | **Macrohito por numerar** — La caída de Dario, Santa Lucía y Halbrook *(después de "Mi pareja"; orden interno: arresto de Dario → falso final → Santa Lucía + montaña → muerte pública de Halbrook)* |
 | Clímax | **H1** — El regreso a casa |
 
 ---
@@ -2134,7 +2134,7 @@ Cole y Chiara **viajan juntos a Italia.** En Palermo enfrentan **la Mesa de las 
 
 **Canon:** algo ocurrido ante la Mesa **golpea la relación** y los hace regresar de manera distinta.
 
-> **Continuidad:** este viaje es el que [[#H13 — El pañuelo]] planta (Chiara deduce que el Consorcio la atacó y decide ir a Palermo por su cuenta; Cole insiste en acompañarla al ver el pañuelo y la bala). No confundir con el atentado posterior de iglesia ([[#Hito mayor por numerar — La iglesia, la caída y la ejecución de Dario Varek]]), que es un evento independiente y muy posterior.
+> **Continuidad:** este viaje es el que [[#H13 — El pañuelo]] planta (Chiara deduce que el Consorcio la atacó y decide ir a Palermo por su cuenta; Cole insiste en acompañarla al ver el pañuelo y la bala). No confundir con el atentado posterior de iglesia ([[#Macrohito por numerar — La caída de Dario, Santa Lucía y Halbrook]]), que es un evento independiente y muy posterior.
 
 ---
 
@@ -2274,25 +2274,23 @@ La redacción final de la explicación emocional de Cole queda abierta. No debe 
 
 ---
 
-# Hito mayor por numerar — La iglesia, la caída y la ejecución de Dario Varek
+# Macrohito por numerar — La caída de Dario, Santa Lucía y Halbrook
 
-> **CANON DEL AUTOR (2026-08-29).** Este arco cierra el recorrido de Dario Varek: un atentado posterior en una iglesia, la muerte de Kenji, las heridas críticas de Chiara, la culminación de la investigación de Lucia, la ejecución de Dario por Cole y la reconciliación posterior de Cole y Chiara.
+> **CANON DEL AUTOR (2026-08-30).** Esta macrosecuencia pertenece a [[04_Concepts/La_Guerra_de_los_Tres|Parte III]]. Orden estructural: `caída legal de Dario → falso final → Santa Lucía + montaña → muerte pública de Halbrook`.
 
-## Ubicación y continuidad
+> **DECANONIZACIÓN EXPLÍCITA:** queda sustituida la versión del 2026-08-29 donde Dario sobrevivía Parte III, orquestaba el atentado de la iglesia y Cole lo ejecutaba antes del arresto. La razón es la nueva regla dura: Dario debe estar detenido antes de Santa Lucía para que la continuación de la violencia rompa la hipótesis institucional y revele gradualmente el frente de Halbrook.
 
-Es el cierre macro de **Parte IV — Hierro Y Seda**, inmediatamente antes de la entrada plena de **Parte V — La Factura / Meridian**.
+## 1. Caída legal de Dario
 
-No reemplaza [[#H13 — El pañuelo]]. H13 sigue siendo la intercepción previa de Il Consorzio; el nuevo atentado es un segundo evento independiente. La primera iglesia es una amenaza controlada. La segunda es violencia abierta.
+Lucia Varek ya ha conocido a Cole, estudiado su método y construido un caso institucional contra Dario. La investigación rompe su fachada todavía funcional de magnate, empresario y figura respetable vinculada al Monarch.
 
-## Contexto obligatorio
+La ciudad no ve rendirse al jefe de uno de tres ejércitos. Ve el arresto de **Dario Varek, prominente empresario de San Aurelio, acusado de estar detrás de una estructura criminal cuya escala apenas empieza a comprender**.
 
-Cole y Chiara ya son una pareja consolidada y públicamente reconocible como **La Mancuerna de Hierro y Seda**. Participan en decenas de negocios, inversiones, organizaciones y estructuras de poder. Dario ha sobrevivido la guerra y ha perdido capacidad de controlar a Chiara. Además, ha erosionado la confianza entre ambos sin separarlos.
+El Departamento conecta hechos antes separados y cree haber cortado el centro principal de la crisis. Ése es el falso final.
 
-Lucia Varek ya ha conocido a Cole, estudiado su método y construido un caso institucional contra Dario. Debe estar cerca de poder arrestarlo legalmente.
+## 2. Santa Lucía
 
-## Atentado
-
-Chiara entra a una iglesia acompañada por [[02_Characters/Kenji_Oda]]. El motivo exacto queda **PENDIENTE**. Se produce un tiroteo:
+Chiara entra a la [[05_Locations/Iglesia_Santa_Lucia]] acompañada por [[02_Characters/Kenji_Oda]]. El motivo exacto queda **PENDIENTE**. Se produce un atentado armado:
 
 - Kenji muere.
 - Chiara recibe dos disparos.
@@ -2300,24 +2298,34 @@ Chiara entra a una iglesia acompañada por [[02_Characters/Kenji_Oda]]. El motiv
 
 No describirlo como manual táctico. La función es romper la estabilidad, cruzar una frontera y dejar a Cole ante la posibilidad real de perderla.
 
-## Dario y la caída
+Para la opinión pública no es “Halbrook atacó a Chiara”: es un atentado en una iglesia de San Aurelio que deja muertos y heridos, entre ellos figuras conocidas. La policía investiga, la prensa especula y la ciudad busca una explicación.
 
-Dario orquesta el atentado, pero Cole no debe saberlo inmediatamente. El orden es: atentado, muerte de Kenji, coma de Chiara, investigación de Cole, caso institucional de Lucia, conversación entre Cole y Lucia y pieza final que confirma la responsabilidad de Dario.
+Dario ya está detenido. Por eso Santa Lucía, junto con la secuencia de montaña, rompe la hipótesis de que su captura resolvió la crisis. Cole sabe o descubre algo que la ley todavía no puede demostrar y su respuesta contra Halbrook no tiene que recorrer el mismo camino legal utilizado contra Dario.
 
-La motivación exacta permanece abierta. Debe conservar dimensiones criminales, políticas y personales; no reducirse a celos.
+## 3. Montaña y Halbrook
 
-Lucia llega con policía y federales para arrestar a su padre. Trix y Vivian están con Dario. Cole lo ejecuta antes de que pueda ser arrestado. La ejecución es venganza, no necesidad estratégica limpia: le roba a Lucia el cierre legal que ella había construido y convierte el problema de Cole en uno federal.
+La relación causal y el orden fino entre Santa Lucía y la montaña permanecen **PENDIENTES**. Lo fijo es su función: convertir a Halbrook en una explicación que antes ni el lector ni las instituciones pertinentes podían formular completa.
 
-La reconciliación posterior de Cole y Chiara no absuelve automáticamente lo que él hizo. Debe cobrar la mala racha de confianza previa.
+Halbrook termina muerto públicamente por un disparo en la explanada del Ayuntamiento. La muerte de un Brigadier General en ese lugar destruye cualquier posibilidad de seguir tratando la violencia como un problema exclusivamente local y contribuye a justificar la siguiente escalada federal.
+
+## Restricciones de continuidad
+
+- No existe públicamente la “Guerra de los Tres”.
+- Dario, Halbrook y Cole no aparecen como jefes visibles de tres ejércitos.
+- El ejército completo no es cómplice de Halbrook; él corrompe y redirige partes de una infraestructura legítima.
+- El arresto de Dario debe sentirse enorme porque su fachada seguía funcionando.
+- Cada enfrentamiento de la secuencia requiere la matriz de verdad, percepción y prueba de [[04_Concepts/La_Guerra_de_los_Tres#Matriz obligatoria de enfrentamientos]].
+- H13 sigue siendo la intercepción previa de Il Consorzio y no se fusiona con Santa Lucía.
 
 ## Pendientes
 
-- Número definitivo del hito.
-- Motivo exacto de la presencia de Chiara y Kenji en la iglesia.
-- Iglesia y ubicación concreta.
-- Razón familiar por la que Trix y Vivian están con Dario.
-- Cuánto sabe Vivian del atentado antes de la ejecución.
-- Desarrollo detallado de la caída legal y la reconciliación.
+- Número definitivo del macrohito o división en hitos separados.
+- Mecanismo y evidencia exactos de la caída legal de Dario.
+- Motivo exacto de la presencia de Chiara y Kenji en Santa Lucía.
+- Relación causal y orden fino de Santa Lucía + montaña.
+- Qué descubre Cole sobre Halbrook y qué puede demostrar la ley.
+- Quién dispara contra Halbrook en la explanada del Ayuntamiento.
+- Desarrollo de las consecuencias federales y de la reconciliación de Cole y Chiara.
 
 ---
 

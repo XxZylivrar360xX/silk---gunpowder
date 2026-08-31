@@ -110,6 +110,27 @@ Dentro de la policía local, Luis es Detective 1 / Homicidios: el principal anta
 
 ---
 
+## Parte III — cuarto actor visible
+
+> **CANON DEL AUTOR (2026-08-30):** durante [[04_Concepts/La_Guerra_de_los_Tres|la Guerra de los Tres]], el Departamento no es decorado y tampoco un cuarto bando. Es el Estado intentando contener las consecuencias visibles de tres centros clandestinos que no conoce por nombre ni organigrama.
+
+La policía recoge cuerpos, abre investigaciones, conecta armas y vehículos, interroga sobrevivientes, establece perímetros, investiga incendios, procesa escenas, ejecuta órdenes, hace arrestos, responde a llamadas, protege eventos y coordina —o choca— con instancias estatales y federales.
+
+Su curva obligatoria:
+
+1. **Inicio:** interpreta violencia criminal elevada pero reconocible.
+2. **Mitad:** detecta coordinación, armas y recursos que exceden una guerra ordinaria de bandas.
+3. **Caída de Dario:** conecta hechos antes dispersos con una estructura mayor y participa en el arresto de un prominente empresario, no en la rendición pública de un jefe de ejército.
+4. **Falso final:** cree haber cortado el centro principal de la crisis.
+5. **Santa Lucía + montaña:** la hipótesis se rompe; Dario está detenido y la violencia continúa.
+6. **Halbrook:** su muerte pública en la explanada del Ayuntamiento impide conservar el caso como un problema exclusivamente local.
+
+Cada enfrentamiento importante debe dejar evidencia física, testigos imperfectos, versiones contradictorias, patrones y consecuencias jurídicas. La institución puede sospechar que alguien coordina más de lo que parece; no puede disponer inmediatamente del mapa `Dario vs Halbrook vs Cole/Chiara`.
+
+Ver la matriz obligatoria de percepción y prueba en [[04_Concepts/La_Guerra_de_los_Tres#Matriz obligatoria de enfrentamientos]].
+
+---
+
 ## Relación con [[03_Factions/Almendra_Towing]]
 
 Al inicio, la relación es de ceguera práctica: una grúa con convenio municipal parece una herramienta del orden, no un vector criminal.

@@ -69,6 +69,12 @@ Aquí se oyen:
 
 La iglesia no es red de espionaje. Pero una ciudad católica habla mucho donde cree que está rezando.
 
+### Atentado de Parte III — CANON DEL AUTOR (2026-08-30)
+
+Después de la caída legal de Dario, Santa Lucía sufre un atentado armado que deja muertos y heridos, entre ellos figuras conocidas. Para la opinión pública no es “Halbrook atacó a Chiara”: es violencia que invade un espacio civil y religioso mientras la ciudad todavía cree que el arresto de Dario pudo haber cerrado la crisis.
+
+La policía investiga, la prensa especula y San Aurelio busca una explicación. Dario ya está detenido; por eso el atentado, junto con la secuencia de montaña, rompe la hipótesis institucional vigente. Ver [[04_Concepts/La_Guerra_de_los_Tres#Regla particular — Santa Lucía]] y [[06_Relationships/Hitos#Macrohito por numerar — La caída de Dario, Santa Lucía y Halbrook]].
+
 ---
 
 ## Reglas de escritura

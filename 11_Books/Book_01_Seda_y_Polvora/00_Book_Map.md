@@ -82,15 +82,23 @@ Umbral de salida: su crecimiento deja de ser tolerable para el ecosistema crimin
 
 **Titulo provisional de trabajo.**
 
-Funcion: llevar San Aurelio a su etapa contemporanea mas oscura y enfrentar tres filosofias de poder:
+> **REGLA DURA (2026-08-30, autor):** el título nombra la arquitectura secreta, no una denominación que exista para la prensa, la policía o la ciudad. Regla completa y matriz obligatoria: [[04_Concepts/La_Guerra_de_los_Tres]].
+
+Funcion: llevar San Aurelio a su etapa contemporanea mas oscura y enfrentar tres centros clandestinos de poder:
 
 - **Dario Varek:** poder consolidado, administracion del miedo y gobierno desde arriba.
-- **El Gatillo:** poder por violencia y desestabilizacion. Su biografia y destino siguen pendientes.
-- **Cole Mercer:** poder por dependencia, utilidad y absorcion.
+- **Warren Halbrook:** poder institucional corrompido; aprovecha y redirige recursos legítimos sin convertir al ejército entero en cómplice.
+- **Cole Mercer + Chiara Bellandi:** poder por dependencia, utilidad, absorcion y control del relato.
 
-Chiara participa desde versiones, alianzas, informacion, dinero, eventos, reputacion y neutralidades. La guerra debe afectar civiles, hospitales, negocios, barrios, policia y la normalidad de la ciudad. Cole puede estar salvando San Aurelio y ayudando a destruirla al mismo tiempo.
+**El Gatillo queda fuera del canon activo de esta parte:** era un tercer vértice provisional y fue sustituido por Halbrook mediante decisión posterior del autor.
 
-Final de parte: la guerra abierta termina, Cole emerge como el actor de mayor crecimiento, Dario sobrevive y queda un vacio de poder que ellos empiezan a llenar.
+Para San Aurelio no existen esos tres bandos: existe una ola de violencia criminal, disputas territoriales y una respuesta estatal creciente. La Policía de San Aurelio es el cuarto actor visible, no un cuarto vértice; procesa escenas, arma un rompecabezas parcial y nunca recibe de inmediato el organigrama real.
+
+Chiara participa desde versiones, alianzas, informacion, dinero, eventos, reputacion y neutralidades. No “controla la prensa”: compite por qué cree la ciudad que está ocurriendo. La guerra afecta civiles, hospitales, negocios, barrios, policia y normalidad, y además genera incidentes que ninguno de los tres centros ordenó.
+
+La curva institucional obligatoria es: violencia criminal elevada pero reconocible → patrón que excede una guerra ordinaria de bandas → arresto público de Dario como prominente empresario vinculado a una estructura criminal → falso final → Santa Lucía + montaña rompen la hipótesis de que Dario era toda la crisis → muerte pública de Halbrook en la explanada del Ayuntamiento → escalada federal.
+
+Final de parte: el lector puede reconstruir `Dario vs Halbrook vs Cole/Chiara`; un detective sólo una red parcial; un periodista una crisis de delincuencia organizada y respuesta estatal; un ciudadano común, que San Aurelio se volvió peligrosa. Dario está detenido y Halbrook ha muerto públicamente; Cole y Chiara emergen como el centro clandestino de mayor crecimiento y queda un vacío de poder que empiezan a llenar.
 
 ### Parte IV — Hierro Y Seda
 
@@ -102,11 +110,9 @@ La prensa termina llamandolos **La Mancuerna de Hierro y Seda**. Ellos no invent
 
 Los cuarenta o mas negocios, intereses y organizaciones son una red de propiedades, participaciones, contratos, sociedades, inmuebles, patrocinios, fundaciones, eventos e influencia; no significa que posean directamente cuarenta empresas.
 
-Dario Varek sobrevive la Parte III y enfrenta a un Cole demasiado grande, una Chiara mas autonoma y una pareja que ya no puede administrar como activos independientes. La confianza se erosiona sin que ellos se separen.
+Dario ya no gobierna la ciudad desde su fachada: su arresto en Parte III reveló una estructura cuya escala San Aurelio apenas empieza a comprender. La muerte pública de Halbrook impide cerrar la crisis como un problema exclusivamente local y deja preparada la entrada federal plena.
 
-El cierre macro de esta parte es la investigacion legal sobre Dario, el atentado posterior en una iglesia, la muerte de Kenji, las heridas graves de Chiara, el descubrimiento de la responsabilidad de Dario, la llegada de Lucia Varek con policia y federales, y la ejecucion de Dario por Cole antes del arresto. El hito detallado queda fuera de este mapa y requiere documento posterior.
-
-La ejecucion no es una victoria limpia: contamina el ascenso de Cole y hace que el conflicto deje de poder permanecer exclusivamente local.
+> **DECANONIZADO (2026-08-30):** Dario ya no sobrevive Parte III como poder activo, no orquesta el atentado posterior de Santa Lucía y Cole no lo ejecuta antes del arresto. Esta arquitectura fue sustituida por la secuencia `caída legal de Dario → falso final → Santa Lucía + montaña → exposición/muerte pública de Halbrook`.
 
 ### Parte V — La Factura
 
@@ -121,7 +127,7 @@ El libro termina en Palermo, no dentro del imperio. La ultima imagen es la casa 
 > **Chiara:** —No vayas a quemar de nuevo la cocina, amore.
 > **Cole:** —No prometo nada.
 
-Material base: la caida y ejecucion de Dario, el hito mayor de la iglesia, Meridian, el clímax del rascacielos, la desaparicion y el cierre en Palermo.
+Material base: las consecuencias federales de la muerte pública de Halbrook, Meridian, el clímax del rascacielos, la desaparicion y el cierre en Palermo. La colocación fina de la consolidación de Parte IV frente a la escalada federal necesita reauditoría.
 
 ## Limites del libro
 
@@ -145,7 +151,7 @@ Material base: la caida y ejecucion de Dario, el hito mayor de la iglesia, Merid
 - ~~Corte exacto entre Parte I y Parte II.~~ **RESUELTO (2026-08-29): Costura A, antes de H5. Ver "Umbrales auditados > A".**
 - Evento que dispara la guerra abierta de la Parte III.
 - Victoria o transformacion que cierra la guerra y abre el vacio de poder.
-- Si la ejecucion de Dario cierra literalmente la Parte IV o si necesita un breve capitulo de consecuencias.
+- Afinar el corte Parte III → Parte IV alrededor de la muerte pública de Halbrook y su consecuencia federal.
 - Posicion y ejecucion de la formalizacion “mi pareja”.
 - Primera Navidad y entrega del collar.
 - Operacion especifica del clímax H1.
@@ -169,17 +175,16 @@ Material base: la caida y ejecucion de Dario, el hito mayor de la iglesia, Merid
 
 ### C — Parte III -> Parte IV
 
-- **Candidato actual:** no hay una victoria final de la guerra abierta fijada con suficiente precision. H7 cierra un arco de tension, pero no necesariamente la guerra de tres.
-- **Evidencia:** la nueva arquitectura exige que Dario sobreviva y que quede un vacio de poder que Cole y Chiara puedan llenar.
-- **Riesgo:** hacer que la consolidacion parezca un salto administrativo sin una transformacion visible de San Aurelio.
-- **Estado:** **PENDIENTE — requiere diseño**.
+- **Dirección canon (2026-08-30):** la secuencia final de Parte III es `caída legal de Dario → falso final → Santa Lucía + montaña → muerte pública de Halbrook`. Esta última muerte destruye la lectura exclusivamente local de la crisis y deja el siguiente escalamiento federal justificado.
+- **Riesgo:** hacer que la consolidacion de Cole y Chiara parezca un salto administrativo sin mostrar el vacío que dejan Dario detenido y Halbrook muerto.
+- **Estado:** dirección fijada; colocación exacta del corte y capítulos de consecuencia **PENDIENTE**.
 
 ### D — Parte IV -> Parte V
 
-- **Direccion macro:** la caida/ejecucion de Dario convierte el conflicto en un problema federal y abre Meridian.
-- **Recomendacion:** hacer que la ejecucion sea el ultimo golpe de Parte IV y usar un capitulo breve de consecuencias como bisagra de Parte V, sin crear ni renombrar capitulos todavia.
+- **Dirección macro anterior: DECANONIZADA (2026-08-30).** La caída/ejecución de Dario ya no abre Meridian: Dario cae legalmente durante Parte III y no es ejecutado por Cole antes del arresto.
+- **Nueva condición:** Parte IV debe absorber las consecuencias públicas y federales ya detonadas por Halbrook sin perder su función de consolidación de poder. La bisagra exacta hacia Meridian requiere reauditoría.
 - **Riesgo:** abrir Meridian como un epilogo explicativo o convertir a Mara Ellison en una copia federal de Dario.
-- **Estado:** **DISEÑO**.
+- **Estado:** **PENDIENTE — requiere rediseño**.
 
 ## Conflictos y compatibilidades detectados
 
@@ -188,7 +193,7 @@ Material base: la caida y ejecucion de Dario, el hito mayor de la iglesia, Merid
 - H1 sigue ocurriendo en Villa Candelaria; Palermo es el destino final posterior, no una sustitucion de la escena del regreso a casa.
 - H13 — El pañuelo sigue siendo un evento independiente del atentado posterior de iglesia. No se modifica aqui.
 - Los capitulos 1–18 conservan su ubicacion fisica actual. No se crean `Part_04` ni `Part_05`.
-- El destino de El Gatillo, el contenido detallado de la caida de Dario y la transicion exacta entre partes permanecen abiertos.
+- El Gatillo quedó fuera del canon activo de Parte III; Halbrook es el tercer vértice secreto. Permanecen abiertos el mecanismo detallado de la caída legal de Dario y la transición exacta entre partes.
 - **Consolidacion de cronologia relacional (2026-08-29, canon del autor).** Se redefinio el orden del arco temprano de Cole y Chiara en [[06_Relationships/Hitos]]: H9 se adelanta (entre H3 y H12); "El loft del soltero" se separa de H12 como hito propio; el orden pasa a ser **H10 -> H4 -> H11** (la primera intimidad, H11, ocurre despues de H10 y H4); "La noche del jacuzzi" se separa de H5 como hito propio; **H5 deja de ser "El hipodromo" y pasa a "San Aurelio"** (nucleo: salida de Cole + confrontacion Varek-Chiara); la mudanza oficial se retrasa al cumpleaños de Chiara; se añaden los hitos nuevos de Italia/Mesa de las Familias, regreso de Palermo, asalto a Camp Alder y consecuencia Halbrook/Lucia; **"Mi pareja" se coloca al final de esa secuencia**, despues de Palermo y Camp Alder. **H4 ya no formaliza la relacion por si solo.** Desfase del Cap. 11 (cohabitacion prematura) **CORREGIDO** el 2026-08-29 (poda quirurgica). Orden de manuscrito H11/H10 **RESUELTO** el 2026-08-29 por reordenacion de capitulos (opcion A) y luego renumerado +1 **dos veces** al insertarse el Cap. 14 nuevo (*La regla del teléfono*, Marisol / campamento) y el Cap. 9 nuevo (*La carrera de máscaras*, H9 adelantado entre H3 y H12): Caps. 15-16 = H10, Cap. 17 = H4, Cap. 18 = H11, Cap. 19 = beats 16-17. **Bloque de prosa cerrado (2026-08-29):** aperturas de Caps. 15 y 18 reescritas, Cap. 17 (*El dia nublado* / H4) redactado, Cap. 14 nuevo y Cap. 9 nuevo redactados, y causalidad de *El portón* corregida; falta regenerar el EPUB.
 
 ## Capítulos en montaje

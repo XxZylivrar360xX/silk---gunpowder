@@ -22,6 +22,12 @@ Pendientes activos para el siguiente relevo.
 - Expandir los 90 beats macro hacia beats medios por bloques de capitulo.
 - Marcar cada bloque con: poder / relacion / ciudad / consecuencia.
 - Detectar donde faltan escenas pequenas antes de Fase V.
+- Desglosar Parte III con una matriz por enfrentamiento según [[04_Concepts/La_Guerra_de_los_Tres#Matriz obligatoria de enfrentamientos]].
+- Fijar el evento que abre la guerra y la transición exacta Parte II → Parte III.
+- Diseñar el mecanismo y la evidencia de la caída legal de Dario sin romper su fachada antes de tiempo.
+- Fijar relación causal y orden fino de Santa Lucía + montaña, qué descubre Cole sobre Halbrook y qué puede demostrar la ley.
+- Decidir quién dispara contra Halbrook en la explanada del Ayuntamiento.
+- Reauditar los cortes Parte III → IV y Parte IV → V después de mover la caída de Dario y Santa Lucía a Parte III.
 
 ## Piloto Stack Editorial V1 (2026-08-29)
 

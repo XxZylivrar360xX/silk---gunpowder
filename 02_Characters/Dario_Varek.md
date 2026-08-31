@@ -21,6 +21,12 @@ Egocéntrico. Y **misógino disimulado** — lo importante es *disimulado*: jam�
 
 **Ve a Chiara como un activo político, y algo reemplazable.** No la desprecia: la **cotiza**. Y ésa es la ofensa real, porque es exactamente la operación que ella le hace al resto del mundo, aplicada sobre ella.
 
+### Fachada pública durante Parte III — CANON DEL AUTOR (2026-08-30)
+
+Dario sigue siendo magnate, empresario, figura vinculada al Monarch, hombre de contactos y personaje respetable con zonas grises. Puede condenar la violencia, pedir estabilidad, colaborar superficialmente con autoridades y mantener distancia visible respecto de las bandas que orbitan su estructura.
+
+No se presenta públicamente como jefe de un ejército en guerra con Cole y Halbrook. Su caída es el arresto de un prominente empresario acusado de estar detrás de una estructura criminal cuya escala la ciudad apenas empieza a comprender. Ver [[04_Concepts/La_Guerra_de_los_Tres]].
+
 ---
 
 ## La historia detrás de la misoginia — CANON (2026-08-26)

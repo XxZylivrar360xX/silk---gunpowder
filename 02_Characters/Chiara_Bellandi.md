@@ -205,6 +205,8 @@ Su moneda más cara no es publicar: es **matar**. Que algo no salga vale más qu
 
 Pero el periódico no es el origen de su información. Es el instrumento que convierte una parte de esa información en hecho público.
 
+En [[04_Concepts/La_Guerra_de_los_Tres|Parte III]], Chiara no “controla la prensa”: compite por la explicación que ocupa el vacío después de cada explosión, operativo, arresto, muerte, cierre o ataque. Debe existir una diferencia verificable entre lo ocurrido, lo que vio la policía, lo que informó la prensa, lo que cree la ciudad y lo que Chiara quiere que crea. Ésta es la guerra del relato al mismo nivel que la guerra territorial de Cole.
+
 Antes de [[03_Factions/El_Faro]] está la [[03_Factions/Red_Civil_de_Chiara]]: tiendas, restaurantes, salones, valet, cocinas, mujeres mayores, asistentes, meseras, choferes y rumores de barrio. Chiara entiende que el chisme no es ruido si sabes dirigirlo.
 
 ### El evento altruista y el primer sussurro — DISEÑO (2026-08-26)

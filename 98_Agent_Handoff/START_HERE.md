@@ -34,6 +34,7 @@ No leer `log.md` completo. Usar `rg` sobre `log.md` si hace falta ubicar una ses
 | Cole/Chiara | `06_Relationships/Cole_y_Chiara.md` |
 | Hitos canon | `06_Relationships/Hitos.md` |
 | Fracturas | `06_Relationships/Momentos_de_Fractura.md` |
+| Parte III / Guerra | `04_Concepts/La_Guerra_de_los_Tres.md` |
 | Reparto | `02_Characters/Auditoria_Reparto.md` |
 
 ## Regla De Contexto

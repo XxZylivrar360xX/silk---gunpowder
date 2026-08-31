@@ -4,6 +4,8 @@ Decisiones compactas para relevo. No reemplaza `log.md`.
 
 ## 2026-08-30
 
+- “Guerra de los Tres” es sólo arquitectura narrativa; no existe como nombre público ni organigrama policial. Los vértices secretos de Parte III son Dario, Halbrook y Cole+Chiara. La Policía de San Aurelio es cuarto actor visible, no cuarto bando, y cada enfrentamiento debe separar realidad, evidencia, versión pública, percepción y conocimiento del lector.
+- La macrosecuencia de Parte III queda `arresto legal de Dario → falso final → Santa Lucía + montaña → muerte pública de Halbrook en la explanada del Ayuntamiento`. Quedan decanonizados El Gatillo como tercer vértice, Dario sobreviviendo Parte III, Dario como autor de Santa Lucía y la ejecución de Dario por Cole antes del arresto.
 - H14 queda desarrollado como construcción compartida, no transición logística: Cole recompra la vieja casa mediante una negociación real; Chiara propone la doble altura y participa en mezzanine, escalera, cocina, luz y mobiliario. La proporción visual en esta etapa es 80 % Cole / 20 % Chiara. El balcón se conserva por condición tajante de Cole; él no explica por qué.
 - El doble fondo bajo el suelo pertenecía al contrabando de Dale. Cole lo conserva e instala una caja de acero resistente al fuego. En H14 contiene material propio general; después de H16 se vuelve por uso la caja fuerte de ambos. En H8 el contenido protegido sobrevive, pero la casa y la vida cotidiana expuesta se pierden.
 - Sigue PENDIENTE por qué la familia Mercer dejó de poseer la casa y si Chiara sabe de quién era mientras la diseña. La prosa del Capítulo 11 mantiene ambos huecos sin resolver.
@@ -12,7 +14,7 @@ Decisiones compactas para relevo. No reemplaza `log.md`.
 
 - El stack editorial V1 queda limitado a `audit_only`, Python estándar, corpus explícito 01–10 y cero autofix. Una alerta —también `high`— sólo prioriza lectura humana. La Fase 2 queda bloqueada hasta calibrar el top 30 con el autor + ChatGPT.
 - El apellido canon de Dario es **Varek**, no Valcora. Su origen queda fijado como croata-estadounidense, con ascendencia dálmata o balcánica. La organización de Dario no debe leerse como mafia italiana. Sus hijas son Lucia, Beatrice “Trix” y Vivian “Vivi/VV/Tri-V”.
-- Se integran como hitos por numerar la formalización verbal de Cole y Chiara (“mi pareja”) y el arco mayor de la iglesia, la caída y la ejecución de Dario. H13 sigue siendo un evento previo independiente.
+- Se integraron como hitos por numerar la formalización verbal de Cole y Chiara (“mi pareja”) y una versión anterior del arco de iglesia/caída de Dario. **La segunda quedó superada el 2026-08-30** por la macrosecuencia de Parte III; H13 sigue siendo un evento previo independiente.
 
 ## 2026-08-23
 
