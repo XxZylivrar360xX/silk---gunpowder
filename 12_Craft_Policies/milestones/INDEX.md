@@ -45,24 +45,34 @@ Si una escena nueva cambia de forma irreversible una relacion, deuda, ritual o j
 23. [[06_Relationships/Hitos#H19 — El asalto a Camp Alder]] - Cole no entra a ver a Chiara para poder cumplir la mision; se entrega para cubrir a Hector y Nadir; arresto militar.
 24. [[06_Relationships/Hitos#H20 — Consecuencia: Halbrook / prisión militar / Lucia]] - Halbrook lo saca por un trato; Chiara acude a Lucia, que registra que lo suyo excede los negocios.
 
-## Fase IV / V - La factura
+## Parte II tardía — familia y H1
 
 > **Mi pareja** (formalizacion verbal) se movio a esta zona el 2026-08-29: cae despues de H5-H7, la mudanza, Italia, el regreso de Palermo, el asalto a Camp Alder y la intervencion de Lucia — no en Fase III.
 
 25. [[06_Relationships/Hitos#H21 — Mi pareja]] - formalización verbal; dejan de ser "esto" y pasan a tener nombre. Posicion canon fijada: puesto 21 de la tabla de orden, despues de Palermo y Camp Alder.
-26. [[06_Relationships/Hitos#H8 — El incendio, la mentira y la villa]] - queman el loft; Cole miente; el doble fondo y la caja de acero conservan bienes protegidos pero no el hogar; nace Villa Candelaria. *(Posicion fina en la secuencia: PENDIENTE.)*
+26. [[06_Relationships/Hitos#H8 — El incendio, la mentira y la villa]] - queman el loft; Cole miente; el doble fondo y la caja de acero conservan bienes protegidos pero no el hogar; nace Villa Candelaria. Debe ocurrir antes de H1; posición fina frente a otros hitos de Parte II pendiente.
 27. Primera Navidad y collar - pendiente de escena; nace "RETORNA A CASA".
 28. [[06_Relationships/Hitos#H13 — El pañuelo]] - intercepcion de Il Consorzio en la iglesia; planta el viaje a Palermo. *(Posicion fijada 2026-08-29: puesto 16 de la tabla de orden, justo antes de H17 — Italia.)*
-29. [[06_Relationships/Hitos#Macrohito por numerar — La caída de Dario, Santa Lucía y Halbrook]] - arresto legal de Dario, falso final, atentado de Santa Lucía + montaña y muerte pública de Halbrook. Número, división y detalles pendientes.
+29. [[06_Relationships/Hitos#H1 — El regreso a casa]] - ocurre en Parte II, ya en Villa Candelaria. Chiara confirmó el embarazo; Cole no lo sabe. Operación, piscina, Camila, baño, italiano y promesa cumplida. H1 termina sin reveal.
+30. [[06_Relationships/Hitos#Después de H1 — reveal a Cole, momento obligatorio por diseñar]] - después de que Cole queda fuera de peligro; diálogo y reacción textual pendientes.
 
-## Climax
+## Parte III — guerra, nacimiento y separación
 
-30. [[06_Relationships/Hitos#H1 — El regreso a casa]] - operacion imposible, piscina, Camila, bano, italiano, promesa cumplida.
+31. [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Riley y la muerte de Mei-Lin]] - primer tramo de Parte III; Riley sale por su conflicto propio y debe quedar establecida en Italia antes del nacimiento.
+32. [[02_Characters/Elenna_Mercer#La falsa muerte]] - Elenna nace relativamente temprano, es declarada muerta y pasa a vivir como Elenna Serra con Riley; mecanismos y capítulo pendientes.
+33. [[06_Relationships/Hitos#Macrohito por numerar — La caída de Dario, Santa Lucía y Halbrook]] - arresto legal de Dario, falso final, Santa Lucía + montaña, muertes de Héctor y Kenji y muerte pública de Halbrook. Número, división y detalles pendientes.
+
+## Parte IV — arquitectura de salida
+
+34. [[06_Relationships/Hitos#H22 — Los primeros pasos]] - abre Parte IV y reinterpreta la victoria. **CANON / DISEÑO FIJADO, BLOQUEADO PARA PROSA.**
 
 ## Huecos activos
 
 - Equipo minimo de El Faro.
 - Historia completa de La Casa.
 - Operacion exacta de H1.
+- Diálogo y reacción exactos del reveal del embarazo.
+- Detonante y mecanismos de la muerte pública / traslado de Elenna.
+- Cumplimiento de dependencias antes de desbloquear H22.
 - Quien rompe o filtra la union invisible.
 - Escena exacta de la primera Navidad/collar.

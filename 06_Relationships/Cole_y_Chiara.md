@@ -281,6 +281,29 @@ Cole lo lleva puesto. El gesto de ella — la mano en el pecho antes de que él 
 
 **Y en H1 él lleva el collar puesto en la piscina**, desangrándose, con una placa de oro sobre el pecho que dice *retorna a casa*, obedeciéndola. Nadie tiene que señalarlo.
 
+### La casa de tres — embarazo, guerra y salida (CANON DEL AUTOR, 2026-08-31)
+
+H1 ocurre durante Parte II. Antes de que Cole salga, Chiara ya confirmó que está embarazada y él todavía no lo sabe. Ella planea contárselo cuando vuelva; espera unas horas porque quiere que la noticia les pertenezca en casa, no porque esté administrando un secreto prolongado.
+
+Cuando Chiara dice *Retorna a casa*, Cole entiende **los dos** y ella sabe **los tres**. Cuando él se desangra diciendo que sólo quiere llegar a casa porque lo esperan, ya está luchando por volver hasta Elenna sin conocer su existencia. Ninguna de esas lecturas se verbaliza en prosa.
+
+La respuesta del baño no cambia. Chiara no usa el embarazo para responder *¿por qué siempre te preocupas tanto?*; dice *Perché ti amo con tutto il mio cuore* porque ama a Cole por ser Cole. El reveal ocurre después de H1, cuando él está fuera de peligro y vuelve cierta normalidad doméstica.
+
+El arco familiar amplía, no reemplaza, la maquinaria relacional:
+
+| Parte | Lo que construyen / pierden |
+|---|---|
+| II | poder y expectativa de familia al mismo tiempo; Elenna nace narrativamente de la casa |
+| III | la guerra invade el embarazo; Elenna nace y deben separarse de ella para mantenerla viva |
+| IV | [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] rompe la racionalización de la distancia y convierte consolidación en arquitectura de salida |
+| V | ejecutan juntos la salida de la ciudad para recuperar vida cotidiana con su hija |
+
+Elenna no es una garantía de que la relación sobreviva ni un *stake* físico constante. Su ausencia les cambia la pregunta: de construir poder suficiente para estar seguros a construir algo que pueda funcionar sin ellos.
+
+La simetría con Corrado permanece abierta y debe incomodar: él desapareció de la vida de Chiara para protegerla; Cole y Chiara hacen desaparecer a Elenna de su vida pública y se separan físicamente de ella para protegerla. El libro interroga cuándo protección se vuelve decidir por alguien, sin resolverlo con moraleja.
+
+**Regla final:** Elenna no hereda el imperio. Es la razón por la que Cole y Chiara descubren que no necesitan una dinastía.
+
 #### Por qué esto lo cambia todo
 
 El objeto resuelve tres problemas de golpe:

@@ -18,12 +18,26 @@ Misterios o verdades que cruzan todo *Seda y Polvora* o que no pertenecen a un s
 
 ## Redada federal contra Corrado Ardizzone
 
-- **Que es:** los federales destruyeron la estabilidad final de la casa de Chiara; Corrado murio y el duelo de Chiara fue tratado como evidencia.
-- **Estado al inicio:** Chiara lo sabe y lo carga; el lector puede conocerlo por filtracion, no exposicion.
-- **Quien ya lo sabe:** Chiara; parte del entorno italiano; probablemente Valenti.
+- **Que es:** los federales destruyeron la estabilidad final de la casa de Chiara. **La versión anterior que fijaba la muerte de Corrado quedó supersedida el 2026-08-31:** Corrado está vivo y oculto en Italia durante buena parte de la novela.
+- **Estado al inicio:** la redada y ausencia de Corrado pesan sobre Chiara. Quedan pendientes la versión pública exacta, qué cree Chiara durante cada tramo y cómo se reconcilian las escenas que hoy presuponen muerte o cuerpo retenido.
+- **Quien ya lo sabe:** pendiente bajo el nuevo canon; no heredar automáticamente la lista anterior.
 - **Quien NO debe saberlo/insinuarlo todavia:** agentes federales de Meridian no deben conocer automaticamente el peso emocional si no hay escena/fuente que lo justifique.
 - **Lineas o gestos prohibidos:** Chiara explicando su trauma federal como monologo de informacion.
-- **Estado:** canon de ficha; pago futuro con Meridian pendiente.
+- **Estado:** canon nuevo fijado; reconciliación integral del vault y pago futuro con Meridian pendientes.
+
+---
+
+## Supervivencia de Elenna Mercer / Elenna Serra
+
+- **Que es:** Chiara ya sabe que está embarazada durante H1. Elenna nace en Parte III; para San Aurelio, la hija de Cole Mercer y Chiara Bellandi muere durante o alrededor del parto. En realidad vive en Italia como **Elenna Serra** bajo el cuidado de Riley Colombo.
+- **Estado público:** fallecida al nacer.
+- **Estado real:** viva.
+- **Quien ya lo sabe:** círculo íntimo exacto pendiente. Cole conoce el embarazo después de H1; no durante la crisis.
+- **Quien NO debe saberlo:** Dario Varek y Warren Halbrook no conocen su supervivencia salvo decisión explícita posterior del autor.
+- **Siembra y pagos:** embarazo doméstico en Parte II; nacimiento, falsa muerte, separación y fotografías escasas en Parte III; [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] al abrir Parte IV.
+- **Evidencia:** las fotografías se destruyen en la chimenea de Villa Candelaria. El video de H22 queda inutilizable después de una reproducción por mecanismo todavía pendiente.
+- **Lineas o gestos prohibidos:** revelar el embarazo durante la hemorragia/baño de H1; explicar mecanismos médicos, documentales o logísticos no fijados; tratar a Elenna como heredera criminal; adelantar H22 a prosa antes de cumplir sus dependencias.
+- **Estado:** canon de arquitectura; H22 bloqueado para prosa.
 
 ---
 

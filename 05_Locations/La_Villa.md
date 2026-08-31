@@ -10,7 +10,7 @@
 **Cómo la llaman ellos:** la villa.
 **Qué es:** una villa en **Lomas de San Jacinto**, la zona residencial del norte de San Aurelio, dentro de la franja alta de Cuesta Bonita. La casa de Cole y Chiara cuando los dos ya son alguien en la ciudad.
 **Por qué existe:** porque **[[02_Characters/Silas_Crowe]] incendió [[05_Locations/La_Casa]]**, el loft del barrio, por un cargamento que Cole no entregó a tiempo.
-**Qué ocurre aquí:** **el clímax de la novela.** [[06_Relationships/Hitos]], H1.
+**Qué ocurre aquí:** [[06_Relationships/Hitos#H1 — El regreso a casa|H1 — El regreso a casa]], pico emocional durante Parte II; después, la expectativa doméstica del embarazo y las fotografías de Elenna durante la separación.
 
 ---
 
@@ -90,6 +90,16 @@ Candidato incómodo y evidente: **el hombre que odia el traje, que se siente dis
 
 Ojo con la ironía: la casa que ella construyó frasco por frasco puede ser exactamente donde dejen de encontrarse.
 
+## La casa de tres — CANON DEL AUTOR (2026-08-31)
+
+H1 ocurre aquí durante Parte II, después de que la villa ya existe. Antes de que Cole salga, Chiara ya confirmó el embarazo y planea contárselo cuando vuelva. Él toca el límite de la muerte dentro de una casa que ya contiene a Elenna sin que él lo sepa.
+
+El reveal no ocurre durante H1. Llega después, cuando Cole está fuera de peligro, duerme, comienza a recuperarse y regresa cierta normalidad. Desde ese momento, la villa debe adquirir suficientes huellas de expectativa familiar para que el lector imagine la vida que ambos creen posible, sin convertir la casa en catálogo de habitación infantil ni fijar detalles médicos o decorativos pendientes.
+
+Durante Parte III, cuando Elenna vive en Italia como Elenna Serra, Riley envía muy pocas fotografías. Cole y Chiara las ven y después las queman en **la chimenea de Villa Candelaria** para no dejar evidencia que pueda conducir hasta ella. La chimenea queda fijada como parte de la casa; número de fotografías y escenas exactas pendientes.
+
+La villa sostiene así dos conocimientos desiguales: en H1, Cole no sabe que su hija lo espera; durante la separación, San Aurelio no sabe que la hija que creen muerta sigue viva.
+
 ---
 
 ## Escena domestica - Bellissima
@@ -122,7 +132,7 @@ Ver [[06_Relationships/Los_Tres_Dias]] para el principio que esta escena cobra: 
 
 ## Pendientes
 
-> **RESUELTO (2026-08-23): el clímax de la novela ocurre aquí.** [[06_Relationships/Hitos]], **H1 — El regreso a casa** pasa en esta casa: la piscina donde se lava la sangre, la habitación de los dos, y el baño donde ella le contesta. **La casa final.**
+> **RESUELTO / REUBICADO (2026-08-31):** [[06_Relationships/Hitos]], **H1 — El regreso a casa** pasa en esta casa durante Parte II: piscina, habitación y baño. Sigue siendo pico emocional, pero ya no se ubica después de la Guerra de los Tres. Chiara sabe que está embarazada; Cole no. **La casa final de San Aurelio.**
 
 > **RESUELTO (2026-08-23):** queda en **Lomas de San Jacinto**, zona residencial del norte dentro de la franja alta de Cuesta Bonita. No es la costa de dinero nuevo; es una casa de prestigio residencial, defendible y apartada.
 

@@ -103,11 +103,11 @@ Y la mujer que vuelve habitable el conjunto es Chiara. Él pidió *un loft para 
 
 ## Lo que ya es canon
 
-- **Está en la Almendra.** Es el hogar de los dos durante toda la etapa del ascenso, y es donde ocurre el clímax de la novela.
+- **Está en la Almendra.** Es el primer hogar de los dos durante la etapa inicial del ascenso; después arde y da paso a Villa Candelaria.
 - **Es "el loft"** — así lo llama todo el mundo desde que Chiara lo diseñó.
 - **Chiara vive ahí con él.**
 - **Es donde viven durante todo el ascenso**, y donde ocurren las escenas pequeñas que sostienen el libro.
-- **NO es donde ocurre el clímax.** H1 pasa en [[05_Locations/La_Villa]], la casa final — este loft ya había ardido para entonces.
+- **NO es donde ocurre H1.** H1 pasa durante Parte II en [[05_Locations/La_Villa]], la casa final de San Aurelio — este loft ya había ardido para entonces.
 - **Todo el barrio sabe dónde es.** Y todo el barrio calla.
 
 ---

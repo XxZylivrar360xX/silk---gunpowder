@@ -62,11 +62,11 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 ## Operacion imposible de H1
 
 - **Que es:** operacion en la que Cole entra a sacar a todos los miembros de su organizacion, sale herido y vuelve a casa.
-- **Se revela en:** H1, climax.
+- **Se revela en:** H1, durante Parte II, después de la construcción de Villa Candelaria. Sigue siendo pico emocional, no cierre de la Guerra de los Tres.
 - **Quien ya lo sabe:** nadie al inicio.
 - **Quien NO debe saberlo/insinuarlo todavia:** no adelantar contra quien es ni por que Cole tiene que entrar en persona hasta que este sembrada la amenaza.
 - **Lineas o gestos prohibidos:** hacer que la operacion parezca set piece generico; debe nacer de una deuda, amenaza o consecuencia acumulada.
-- **Estado:** pendiente.
+- **Estado:** operación pendiente; posición macro resuelta. Durante la salida, Chiara sabe que está embarazada y Cole no; el reveal ocurre después de su recuperación.
 
 ---
 

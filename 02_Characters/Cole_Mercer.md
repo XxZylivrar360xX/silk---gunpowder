@@ -249,6 +249,18 @@ Mientras Chiara está inconsciente en [[06_Relationships/Hitos]], H12, Cole inve
 
 Más adelante, en H13, Chiara le muestra el pañuelo y la bala que le dejó el Consorcio. Verlos es lo que lo hace **insistir en acompañarla a Palermo** — no por desconfianza en ella, sino porque es el mismo hilo que él nunca pudo encontrar solo.
 
+## La paternidad y la casa de tres — CANON DEL AUTOR (2026-08-31)
+
+En [[06_Relationships/Hitos#H1 — El regreso a casa|H1]], durante Parte II, Chiara ya confirmó que está embarazada y Cole todavía no lo sabe. Cuando él dice *“Solo quiero llegar a casa, porque me esperan”*, lucha por regresar hasta Elenna sin conocer su existencia. No subrayarlo en prosa.
+
+Chiara se lo cuenta después de H1, sólo cuando él está fuera de peligro y vuelve cierta normalidad doméstica. Su reacción queda por redactar, pero el patrón está fijado: shock, procesamiento, emoción difícil de verbalizar y desplazamiento inmediato hacia seguridad, médicos, casa, trabajo, dinero y futuro. Cole intenta convertir *voy a ser padre* en algo que pueda resolver.
+
+Su miedo profundo no es no querer ser padre. Vio el arresto y suicidio de Dale, el derrumbe y muerte de Ruth y la destrucción de su primera casa. Acaba además de regresar a Villa Candelaria casi muerto. La noticia introduce una posibilidad que debe verse en su conducta: si él muere, puede dejar a Chiara con una hija. **Sabe lo que ocurre cuando un padre desaparece de una casa.**
+
+Elenna cambia después el propósito de su ambición. Dario construye un sistema donde todo debe pasar por Dario; tras [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]], Cole empieza a construir uno donde cada vez menos cosas necesiten pasar por él. No se retira de inmediato: profesionaliza, delega y crea redundancias para que la estructura sobreviva a su ausencia.
+
+**Regla dura:** Elenna no es heredera del imperio Mercer. Su existencia obliga a Cole a imaginar una vida en la que ella no tenga que heredar San Aurelio.
+
 ## "Mac" — CANON DEL AUTOR (2026-08-29)
 
 En las carreras ilegales de Kingsley Field ([[06_Relationships/Hitos]], H9 — Capítulo 9, "La carrera de máscaras"), nadie lo llama Cole ni Mercer. Le dicen **Mac** — las iniciales de Mercer Cole, invertidas y leídas como si fueran un nombre cualquiera. Tyler Brooks, quien organiza las carreras, lo saluda así. Chiara arma el acertijo sola, un segundo tarde, la primera vez que lo oye: un nombre falso hecho enteramente del nombre real, la misma lógica de la máscara de plástico que se pone en la cara — cambia de color sin cambiar una sola letra.
@@ -256,6 +268,7 @@ En las carreras ilegales de Kingsley Field ([[06_Relationships/Hitos]], H9 — C
 ## Conexiones
 
 - [[02_Characters/Chiara_Bellandi]] — el otro motor. Ver [[06_Relationships/Cole_y_Chiara]].
+- [[02_Characters/Elenna_Mercer]] — su hija biológica. Amplía la definición de casa y convierte consolidación en arquitectura de salida.
 - [[04_Concepts/Fe_y_Velas]] — el ritual de las velas: Chiara pide que vuelva; Cole aprende a respetar esa forma de miedo.
 - [[05_Locations/Iglesia_Santa_Lucia]] — el lugar donde Cole, en sus peores momentos, prende una vela y se sienta sin hablar.
 - [[03_Factions/Almendra_Towing]] — su primera empresa legal y base logística. No es la cara de la organización criminal; esa función empieza a dividirse entre Russ Whitaker y Cross River.

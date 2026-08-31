@@ -24,7 +24,7 @@ El primer cruce ocurre en la entrada del casino: ella fuma, observa, se presenta
 
 ## Punto de salida
 
-Al final, Cole y Chiara siguen juntos, pero han abandonado San Aurelio y desaparecido de la ciudad que construyeron. El imperio queda atras; el hogar viaja con ellos a Palermo. La imagen final es domestica: una casa modesta azul, molduras blancas, jardin, Chiara con una copa de vino y Cole preparando la comida.
+Al final, Cole y Chiara siguen juntos, pero han abandonado San Aurelio y desaparecido de la ciudad que construyeron. El imperio queda atras; el hogar viaja con ellos a Palermo, donde recuperan la vida cotidiana con [[02_Characters/Elenna_Mercer|Elenna]]. La imagen final es domestica: una casa modesta azul, molduras blancas, jardin, Chiara con una copa de vino, Cole preparando la comida y una niña viviendo en casa, no una heredera esperando el imperio.
 
 ## Tesis emocional
 
@@ -68,15 +68,19 @@ Condicion de salida: el lector ya sabe que se han elegido (el jacuzzi: "libros a
 
 ### Parte II — La Construccion
 
-Funcion: mostrar a Cole y Chiara habitando San Aurelio juntos y separados, construyendo poder mediante habilidades distintas hasta que la ciudad empieza a reaccionar ante ellos como un sistema de dos personas. Esta es la parte de la sinergia.
+Funcion: mostrar a Cole y Chiara habitando San Aurelio juntos y separados, construyendo poder mediante habilidades distintas hasta que la ciudad empieza a reaccionar ante ellos como un sistema de dos personas. Esta es la parte de la sinergia **y de la construcción de familia**.
 
 Cole construye territorio, rutas, negocios, dependencias y capacidad logistica. Chiara construye relato, reputacion, red social, instituciones, conexiones, i Sussurri y capacidad de hacer visible o invisible un hecho.
 
 Regla: no convertirlos en una sola entidad demasiado pronto. Debe haber frentes propios, operaciones compartidas y consecuencias donde una accion de uno facilite el trabajo del otro sin coordinacion explicita.
 
-Material base (revisado 2026-08-29; corte de parte fijado — Costura A): **arranca en [[06_Relationships/Hitos#H5 — San Aurelio|H5 — San Aurelio]]**, sigue con **H6, H7**, el **cumpleaño/mudanza**, el **viaje a Italia / Mesa de las Familias** y el **regreso de Palermo**, mas los capitulos que desarrollen la operacion conjunta. (El corte con la Parte III sigue PENDIENTE — Umbral B.) **La noche del jacuzzi queda en la Parte I** (cierra ese bloque). **H9 y H4 tambien quedan en la Parte I**: H9 va entre H3 y H12; H4 va entre H10 y H11.
+En paralelo construyen negocios, red, casa, territorio y relato mientras **Elenna empieza a existir**. El embarazo atraviesa la vida doméstica sin convertir Parte II en un catálogo de consultas, síntomas o preparativos. Bastan el reveal posterior a H1, el procesamiento de ambos, la reacción práctica de Cole, una o dos escenas domésticas, progresión física suficiente, el nombre cuando corresponda y cambios en su concepto del riesgo. La función es que el lector pueda imaginar la vida familiar que creen estar construyendo.
 
-Umbral de salida: su crecimiento deja de ser tolerable para el ecosistema criminal y San Aurelio empieza a pelear por los huecos que ellos explotaban.
+**H1 — El regreso a casa ocurre en esta parte.** Para entonces Villa Candelaria ya existe. Chiara ya confirmó el embarazo y Cole todavía no lo sabe; ella planea contárselo cuando regrese. H1 conserva todas sus líneas y termina sin reveal. La noticia se comparte sólo después de que Cole está fuera de peligro y vuelve cierta normalidad doméstica. H1 responde que casa para Cole es Chiara; el embarazo amplía esa casa a Elenna. **Elenna no nace narrativamente del imperio: nace de la casa.**
+
+Material base (revisado 2026-08-31): **arranca en [[06_Relationships/Hitos#H5 — San Aurelio|H5 — San Aurelio]]**, sigue con **H6, H7**, el **cumpleaño/mudanza**, el **viaje a Italia / Mesa de las Familias**, el **regreso de Palermo**, F4 → F3 → H8, construcción de Villa Candelaria, **H1 con embarazo secreto**, el **reveal posterior a Cole** y los capítulos que desarrollen operación conjunta y expectativa de familia. (El corte con la Parte III sigue PENDIENTE — Umbral B.) **La noche del jacuzzi queda en la Parte I**. **H9 y H4 también quedan en la Parte I**.
+
+Umbral de salida: su crecimiento deja de ser tolerable para el ecosistema criminal y San Aurelio empieza a pelear por los huecos que ellos explotaban. Chiara entra a Parte III ya embarazada. El evento exacto que abre la guerra sigue pendiente.
 
 ### Parte III — La Guerra de los Tres
 
@@ -96,17 +100,25 @@ Para San Aurelio no existen esos tres bandos: existe una ola de violencia crimin
 
 Chiara participa desde versiones, alianzas, informacion, dinero, eventos, reputacion y neutralidades. No “controla la prensa”: compite por qué cree la ciudad que está ocurriendo. La guerra afecta civiles, hospitales, negocios, barrios, policia y normalidad, y además genera incidentes que ninguno de los tres centros ordenó.
 
-La curva institucional obligatoria es: violencia criminal elevada pero reconocible → patrón que excede una guerra ordinaria de bandas → arresto público de Dario como prominente empresario vinculado a una estructura criminal → falso final → Santa Lucía + montaña rompen la hipótesis de que Dario era toda la crisis → muerte pública de Halbrook en la explanada del Ayuntamiento → escalada federal.
+La guerra recibe una vida familiar que ya estaba en marcha. No produce el embarazo ni tiene a Elenna como causa. Durante su primer tramo importante deben ocurrir, en este orden relativo: **F2 / destierro de Riley y establecimiento en Italia → nacimiento de Elenna → detonante todavía pendiente → muerte pública falsa → Elenna Serra con Riley → separación prolongada y fotografías escasas**. Riley llega a Italia por su conflicto propio; cuidar después a Elenna es payoff, no conveniencia retroactiva.
 
-Final de parte: el lector puede reconstruir `Dario vs Halbrook vs Cole/Chiara`; un detective sólo una red parcial; un periodista una crisis de delincuencia organizada y respuesta estatal; un ciudadano común, que San Aurelio se volvió peligrosa. Dario está detenido y Halbrook ha muerto públicamente; Cole y Chiara emergen como el centro clandestino de mayor crecimiento y queda un vacío de poder que empiezan a llenar.
+El nacimiento se coloca relativamente temprano dentro de Parte III para que la ausencia pueda volverse vida cotidiana antes del cierre bélico. No se fijan todavía semana, capítulo, hospital, mecanismo médico, documentos ni traslado.
+
+La curva institucional obligatoria es: violencia criminal elevada pero reconocible → patrón que excede una guerra ordinaria de bandas → arresto público de Dario como prominente empresario vinculado a una estructura criminal → falso final → Santa Lucía + montaña rompen la hipótesis de que Dario era toda la crisis → muerte pública de Halbrook en la explanada del Ayuntamiento → escalada federal. Antes del corte a Parte IV, la parte también debe haber cobrado las muertes de Héctor y Kenji, la herida de Chiara y la aparición posterior de Corrado según su arco; sus mecanismos y orden fino no se inventan aquí.
+
+Final de parte: el lector puede reconstruir `Dario vs Halbrook vs Cole/Chiara`; un detective sólo una red parcial; un periodista una crisis de delincuencia organizada y respuesta estatal; un ciudadano común, que San Aurelio se volvió peligrosa. Dario está detenido y Halbrook ha muerto públicamente; Cole y Chiara emergen como el centro clandestino de mayor crecimiento y queda un vacío de poder que empiezan a llenar. Parecen haber ganado. Elenna lleva suficiente tiempo creciendo lejos para que esa victoria pueda ser reinterpretada al abrir la parte siguiente.
 
 ### Parte IV — Hierro Y Seda
 
 **Titulo de trabajo.**
 
-Funcion: mostrar la consolidacion publica y economica de Cole y Chiara despues de la guerra. Ya no son solamente operadores: se convierten en figuras reconocibles de San Aurelio.
+Funcion: mostrar la consolidacion publica y economica de Cole y Chiara despues de la guerra. Ya no son solamente operadores: se convierten en figuras reconocibles de San Aurelio. Su motor privado es distinto: construir una ciudad y una organización capaces de funcionar sin ellos.
+
+La parte abre o comienza con [[06_Relationships/Hitos#H22 — Los primeros pasos|H22 — Los primeros pasos]], hito **bloqueado para prosa** hasta que existan sus causas. El video muestra a Elenna caminando hacia Riley y rompe la racionalización de que basta mantenerla segura mientras ellos terminan. Pueden ganar San Aurelio y perder su infancia.
 
 La prensa termina llamandolos **La Mancuerna de Hierro y Seda**. Ellos no inventan el apodo; Cole puede incomodarse y Chiara puede entender su utilidad.
+
+El apodo adquiere doble significado. Para la ciudad, es permanencia y máximo poder. En privado, Cole y Chiara empiezan a profesionalizar, delegar, separar funciones, construir redundancias y volver reemplazables sus propias posiciones. **Dario construyó un sistema donde todo debía pasar por Dario; Cole empieza a construir uno donde cada vez menos cosas necesitan pasar por Cole.**
 
 Los cuarenta o mas negocios, intereses y organizaciones son una red de propiedades, participaciones, contratos, sociedades, inmuebles, patrocinios, fundaciones, eventos e influencia; no significa que posean directamente cuarenta empresas.
 
@@ -120,7 +132,7 @@ Funcion: cobrar todo lo construido durante las cuatro partes anteriores. Entra p
 
 La inversion es completa: los negocios se vuelven vectores de investigacion, los amigos posibles testigos, las propiedades lugares vigilables, el relato una version contrastable y San Aurelio una jaula.
 
-La pregunta final no es si van a terminar juntos, sino si pueden abandonar juntos aquello que dedicaron toda la novela a construir. Meridian los acorrala en el cierre del imperio; la red que construyeron permite el engaño final y la desaparicion.
+La pregunta final no es si van a terminar juntos, sino si pueden abandonar juntos aquello que dedicaron toda la novela a construir **antes de perder más tiempo con Elenna**. Meridian convierte empresas, propiedades, contactos, amigos e inversiones en mecanismos que los fijan a la ciudad; ellos llevan desde Parte IV intentando volver esas mismas estructuras capaces de sobrevivir a su ausencia. La red que construyeron permite el engaño final y la desaparicion.
 
 El libro termina en Palermo, no dentro del imperio. La ultima imagen es la casa modesta y la vida domestica. El dialogo de cierre propuesto queda registrado como canon de salida:
 
@@ -128,6 +140,18 @@ El libro termina en Palermo, no dentro del imperio. La ultima imagen es la casa 
 > **Cole:** —No prometo nada.
 
 Material base: las consecuencias federales de la muerte pública de Halbrook, Meridian, el clímax del rascacielos, la desaparicion y el cierre en Palermo. La colocación fina de la consolidación de Parte IV frente a la escalada federal necesita reauditoría.
+
+## Lectura familiar de las cinco partes — CANON DEL AUTOR (2026-08-31)
+
+| Parte | Pregunta | Arco de Elenna |
+|---|---|---|
+| I — Amor | ¿Qué pasa si dejo que alguien se quede? | Todavía no existe; se construye la pareja capaz de formar casa |
+| II — Construcción | ¿Qué podemos construir juntos? | Casa + embarazo + expectativa de familia; H1 liga su existencia a volver a casa |
+| III — Guerra | ¿Cuánto cuesta ganar? | Elenna nace y debe vivir lejos de sus padres para seguir viva |
+| IV — Hierro y Seda | ¿Cómo construimos algo que no nos necesite? | H22 rompe la racionalización y vuelve la consolidación arquitectura de salida |
+| V — La Factura | ¿Podemos abandonar juntos lo construido antes de que nos devore? | Ejecutan la salida hacia Elenna, Palermo y familia |
+
+Elenna no es un *stake* ornamental ni la única razón de Palermo. Palermo también pertenece a Chiara, Corrado, Il Consorzio y Riley; Elenna lo transforma de origen/exilio/política en el lugar donde está ocurriendo la vida que sus padres quieren recuperar.
 
 ## Limites del libro
 
@@ -154,7 +178,10 @@ Material base: las consecuencias federales de la muerte pública de Halbrook, Me
 - Afinar el corte Parte III → Parte IV alrededor de la muerte pública de Halbrook y su consecuencia federal.
 - Posicion y ejecucion de la formalizacion “mi pareja”.
 - Primera Navidad y entrega del collar.
-- Operacion especifica del clímax H1.
+- Operacion especifica de H1.
+- Posición fina de H1 dentro de Parte II, diálogo del reveal posterior y reacción textual de Cole.
+- Detonante exacto que obliga a ocultar a Elenna y mecanismos médico, documental y logístico de su muerte pública / traslado.
+- Capítulo exacto de H22 dentro del comienzo de Parte IV; su prosa permanece bloqueada.
 
 ## Umbrales auditados
 
@@ -171,13 +198,15 @@ Material base: las consecuencias federales de la muerte pública de Halbrook, Me
 - **Candidato actual:** H5 (San Aurelio) puede ser la primera agresion sistemica, pero no demuestra por si solo que el crecimiento de la pareja haya disparado una guerra abierta.
 - **Evidencia:** H5 (San Aurelio), H6 y H7 construyen tension, operaciones y entrada de Cole en la estructura de Varek. H4 y H9 ya no viven aqui (se adelantaron).
 - **Riesgo:** convertir un ataque aislado en guerra sin mostrar la reaccion del ecosistema criminal.
-- **Estado:** **PENDIENTE — requiere diseño**.
+- **Nueva condición canon (2026-08-31):** H1 y el reveal del embarazo ya ocurrieron; la expectativa doméstica tuvo espacio suficiente; Chiara cruza el umbral ya embarazada. El evento que abre la guerra sigue sin fijarse.
+- **Estado:** **PENDIENTE — requiere diseño del detonante**, pero el embarazo ya no puede usarse como bisagra ni sorpresa de cierre.
 
 ### C — Parte III -> Parte IV
 
 - **Dirección canon (2026-08-30):** la secuencia final de Parte III es `caída legal de Dario → falso final → Santa Lucía + montaña → muerte pública de Halbrook`. Esta última muerte destruye la lectura exclusivamente local de la crisis y deja el siguiente escalamiento federal justificado.
 - **Riesgo:** hacer que la consolidacion de Cole y Chiara parezca un salto administrativo sin mostrar el vacío que dejan Dario detenido y Halbrook muerto.
-- **Estado:** dirección fijada; colocación exacta del corte y capítulos de consecuencia **PENDIENTE**.
+- **Nueva bisagra canon (2026-08-31):** H22 ocurre después del corte, en la apertura o comienzo inmediato de Parte IV. Parte III debe cerrar antes la guerra, las muertes de Héctor y Kenji, la herida de Chiara, la aparición posterior de Corrado y el desenlace público de Halbrook. El video reinterpreta la victoria, no forma parte de la guerra.
+- **Estado:** dirección y función del corte fijadas; capítulo exacto y orden fino de consecuencias **PENDIENTES**.
 
 ### D — Parte IV -> Parte V
 
@@ -191,6 +220,8 @@ Material base: las consecuencias federales de la muerte pública de Halbrook, Me
 - El Book Map anterior presuponia tres partes y terminaba dentro del imperio; la nueva arquitectura lo corrige a cinco partes y desplaza la salida a Palermo.
 - El rediseño de Dario Varek y sus hijas ya fue integrado como canon del autor el 2026-08-29. El apellido anterior queda fuera del canon activo.
 - H1 sigue ocurriendo en Villa Candelaria; Palermo es el destino final posterior, no una sustitucion de la escena del regreso a casa.
+- **H1 ya no es un clímax posterior a la Guerra de los Tres.** El nuevo canon lo coloca en Parte II, después de que Villa Candelaria exista: Chiara sabe que está embarazada, Cole no. Las líneas canon no cambian y el reveal ocurre después, fuera de la crisis.
+- **H22 — Los primeros pasos** es el primer hito con ID posterior a H21 y abre Parte IV. Está expresamente bloqueado para prosa hasta construir embarazo/H1/reveal, Riley, guerra, nacimiento, falsa muerte, separación y cierre bélico.
 - H13 — El pañuelo sigue siendo un evento independiente del atentado posterior de iglesia. No se modifica aqui.
 - Los capitulos 1–18 conservan su ubicacion fisica actual. No se crean `Part_04` ni `Part_05`.
 - El Gatillo quedó fuera del canon activo de Parte III; Halbrook es el tercer vértice secreto. Permanecen abiertos el mecanismo detallado de la caída legal de Dario y la transición exacta entre partes.

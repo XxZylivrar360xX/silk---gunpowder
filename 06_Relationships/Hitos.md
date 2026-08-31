@@ -4,7 +4,7 @@ Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni
 
 **Convención:** lo marcado como **CANON DEL AUTOR** es intocable — no se reinterpreta, no se sustituye, no se "mejora". Las **líneas de diálogo canon van citadas textualmente** y no se reescriben; sólo se les puede ajustar la puntuación al maquetar la prosa. Lo marcado como **DISEÑO** son consecuencias derivadas por el agente y se pueden discutir. Lo marcado como **PENDIENTE** falta, y no debe inventarse por conveniencia de una escena.
 
-**Los IDs se asignan en orden de recepción, no cronológico.** Son etiquetas estables para poder citarlas desde otros archivos sin renombrar nada. **Los IDs H2, H3, H4, H5, etc. no se renumeran para volverlos cronológicos.** Los hitos de la consolidación de cronología recibieron IDs el 2026-08-29: **H14** El loft del soltero · **H15** La noche del jacuzzi · **H16** El cumpleaños / la mudanza · **H17** Italia / Mesa de las Familias · **H18** El regreso de Palermo · **H19** El asalto a Camp Alder · **H20** Consecuencia: Halbrook / prisión militar / Lucia · **H21** Mi pareja. El orden de la historia va aparte:
+**Los IDs se asignan en orden de recepción, no cronológico.** Son etiquetas estables para poder citarlas desde otros archivos sin renombrar nada. **Los IDs H2, H3, H4, H5, etc. no se renumeran para volverlos cronológicos.** Los hitos de la consolidación de cronología recibieron IDs el 2026-08-29: **H14** El loft del soltero · **H15** La noche del jacuzzi · **H16** El cumpleaños / la mudanza · **H17** Italia / Mesa de las Familias · **H18** El regreso de Palermo · **H19** El asalto a Camp Alder · **H20** Consecuencia: Halbrook / prisión militar / Lucia · **H21** Mi pareja. El siguiente ID libre se asignó el 2026-08-31: **H22 — Los primeros pasos**. El orden de la historia va aparte:
 
 > **CONSOLIDACIÓN DE CRONOLOGÍA RELACIONAL (2026-08-29, CANON DEL AUTOR).** El autor redefinió el orden del arco temprano de Cole y Chiara. Esta tabla y las notas de posición de cada hito **superseden** cualquier posición anterior incompatible. Cambios principales: **H9** se adelanta a entre H3 y H12; **El loft del soltero** se separa de H12 como hito propio; **H10 → H4 → H11** en ese orden (la primera intimidad, H11, ocurre *después* de H10 y H4); **La noche del jacuzzi** se separa de H5 como hito propio, inmediatamente antes de H5; **H5 deja de ser "El hipódromo" y pasa a ser "San Aurelio"**; la **mudanza oficial** se retrasa al cumpleaños de Chiara; **"Mi pareja"** (formalización verbal) ocurre muy tarde, después de Palermo y del asalto a Camp Alder. Progresión emocional: `confianza → protección → espacio → conocimiento → intimidad → apertura → amenaza → lealtad → hogar → fricción → riesgo de pérdida → nombre`. Ver el encargo completo en [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_CONSOLIDAR_NUEVA_LINEA_TEMPORAL_RELACIONAL]].
 
@@ -44,8 +44,35 @@ No insertarlos por intuición. Mantener su posición como PENDIENTE mientras no 
 |---|---|
 | Después de F4 y F3 | **H8** — El incendio, la mentira y la villa *(2026-08-29: después de Año Nuevo (F4) y de los frenos (F3); posición fina respecto a Camp Alder y "Mi pareja" por afinar)* |
 | Por recibir | Primera Navidad y el collar · la primera vela · las clases de italiano *(rituales por colocar)* |
-| Parte III | **Macrohito por numerar** — La caída de Dario, Santa Lucía y Halbrook *(después de "Mi pareja"; orden interno: arresto de Dario → falso final → Santa Lucía + montaña → muerte pública de Halbrook)* |
-| Clímax | **H1** — El regreso a casa |
+| Parte II, después de que exista Villa Candelaria | **H1 — El regreso a casa** *(Chiara ya confirmó el embarazo; Cole todavía no lo sabe; posición fina pendiente)* |
+| Después de H1, todavía en Parte II | **Reveal del embarazo a Cole** *(momento obligatorio por diseñar, sin ID; sólo después de que esté fuera de peligro y regrese cierta normalidad doméstica)* |
+| Parte III, antes del nacimiento | **F2 — Destierro de Riley** *(Riley debe quedar establecida en Italia antes de que Elenna necesite protección allí)* |
+| Primer tramo importante de Parte III | **Nacimiento, muerte pública y separación de Elenna** *(posición relativa fijada; capítulo, fecha y detonante pendientes)* |
+| Cierre de Parte III | **Macrohito por numerar** — La caída de Dario, Santa Lucía y Halbrook *(después de "Mi pareja"; orden interno: arresto de Dario → falso final → Santa Lucía + montaña → muerte pública de Halbrook; también debe haber cobrado las muertes de Héctor y Kenji y la aparición posterior de Corrado)* |
+| Apertura / comienzo de Parte IV | **H22 — Los primeros pasos** *(CANON DEL AUTOR; BLOQUEADO PARA PROSA)* |
+
+---
+
+## Arco de embarazo, nacimiento y separación — CANON DEL AUTOR (2026-08-31)
+
+Esta secuencia supersede cualquier colocación anterior del embarazo como sorpresa tardía de Parte II y cualquier ubicación de H1 después de la Guerra de los Tres:
+
+`Chiara confirma el embarazo → H1 (Chiara sabe / Cole no) → recuperación de Cole → reveal a Cole → expectativa de familia durante Parte II → corte II–III todavía pendiente → Chiara entra embarazada a la Guerra de los Tres → F2 y destierro de Riley → Riley se establece en Italia como Riley Colombo → nacimiento de Elenna en el primer tramo importante de Parte III → muerte pública / Elenna Serra → separación y fotografías → cierre de la guerra → H22 — Los primeros pasos al abrir Parte IV`.
+
+Reglas duras:
+
+- **H1 pertenece a Parte II.** Ocurre después de que [[05_Locations/La_Villa|Villa Candelaria]] exista y antes del corte Parte II → III. Su posición fina dentro de ese tramo sigue pendiente.
+- Chiara lleva muy poco tiempo sabiendo que está embarazada cuando ocurre H1. No ha prolongado el secreto: planea contárselo a Cole cuando regrese de la operación.
+- El reveal no ocurre durante la hemorragia, la atención médica, el baño ni el pico de H1. Cole debe quedar fuera de peligro, dormir, iniciar recuperación y recuperar cierta normalidad doméstica antes de saberlo.
+- La Parte II construye poder y familia simultáneamente. El embarazo atraviesa la vida doméstica sin convertir cada capítulo en escena médica o de síntomas.
+- La Guerra de los Tres no nace por Elenna. Recibe a Chiara ya embarazada e invade una vida familiar en marcha.
+- F2 ocurre por el conflicto propio de Riley. Su presencia futura en Italia es payoff, nunca motivo retroactivo del destierro.
+- Elenna nace relativamente temprano en Parte III, pero sólo después de que Riley esté fuera de San Aurelio y tenga una vida/cobertura estable en Italia. La fecha, semana y capítulo exactos siguen pendientes.
+- El detonante que obliga a ocultar a Elenna debe nacer orgánicamente de la escalada, la exposición y la imposibilidad de proteger a una bebé sin volverla objetivo. Sigue pendiente.
+- La duración de trabajo para la separación es **cerca de un año**, suficiente para que Elenna llegue a sus primeros pasos; el calendario exacto no se fija hasta cuadrar la cronología global.
+- H22 sólo puede ocurrir después de cerrar la arquitectura bélica de Parte III.
+
+> **Tesis de continuidad:** Elenna no nace narrativamente del imperio. **Nace de la casa.** H1 responde que casa para Cole es Chiara; el embarazo amplía esa casa a Elenna.
 
 ---
 
@@ -1734,7 +1761,7 @@ Y para dos personas que nunca tuvieron una, **el momento en que la palabra deja 
 
 > **CANON DEL AUTOR (2026-08-23).** Material grande: contiene **la mentira más cara del libro** y la casa más hermosa que construyen.
 
-> **POSICIÓN (2026-08-29, autor):** ocurre **después de Año Nuevo** — es decir, después de [[06_Relationships/Momentos_de_Fractura|F4 — Año Nuevo en Washington]] — y **después de F3 — Los frenos** (que también cae después de Año Nuevo). Orden: `F4 (Año Nuevo) → … → F3 (los frenos) → … → H8 (el incendio → villa) → … → H1 (clímax, en la villa)`. Dos pasados golpean seguidos: el de Chiara (F3, Il Consorzio) y el de Cole (este incendio, Crowe). *(Posición exacta respecto a Camp Alder y "Mi pareja": sigue por afinar, pero H8 ya cae tarde en la Parte II / entrando en la Parte III.)*
+> **POSICIÓN (2026-08-29; ampliada 2026-08-31):** ocurre **después de Año Nuevo** y **después de F3 — Los frenos**. Orden fijo del tramo: `F4 → … → F3 → … → H8 (incendio → villa) → … → Chiara confirma el embarazo → H1 en la villa`. Dos pasados golpean seguidos: el de Chiara (F3) y el de Cole (H8). **H8 y H1 pertenecen a Parte II**; la posición exacta respecto a Camp Alder, “Mi pareja” y otros hitos sigue por afinar.
 >
 > **CONTINUIDAD A REVISAR:** el motivo canon de Crowe ([[#Pendientes de H8]]) dice *"por un cargamento que Cole no entregó a tiempo, cuando todavía trabajaba para él… Cole aún no era autónomo, pero estaba empezando a serlo"*. Con H8 ya después del primer Año Nuevo juntos, Cole lleva tiempo dentro de la organización de Varek y **no "trabaja para Crowe" en ningún sentido literal.** El incendio funciona mejor como **la rabieta de un hombre al que dejaron atrás del todo** — Crowe castigando que Cole se le escapó, no un retraso concreto. Ajustar la redacción del motivo cuando se escriba.
 
@@ -1880,7 +1907,7 @@ Durante los meses de obra, Chiara está encima **como una leona, y neurótica co
 
 # H1 — El regreso a casa
 
-> **CANON DEL AUTOR (2026-08-22).** Pico emocional de la novela.
+> **CANON DEL AUTOR (2026-08-22; posición y subtexto ampliados 2026-08-31).** Pico emocional de la novela. **Ocurre durante Parte II**, después de que Villa Candelaria exista y antes de la Guerra de los Tres.
 
 **No es una escena: es una secuencia de siete movimientos.** La frase del baño es el sexto. Documentarla sola la vacía, porque todo lo que la hace funcionar se construye en los cinco anteriores.
 
@@ -1956,6 +1983,42 @@ Con el italiano machucado: para este momento ya está familiarizado con el idiom
 
 ---
 
+## El embarazo que Cole todavía no conoce — CANON DEL AUTOR (2026-08-31)
+
+Antes de que Cole salga, **Chiara ya confirmó que está embarazada**. Lleva muy poco tiempo sabiéndolo y planea contárselo cuando él regrese.
+
+No se lo dice antes de la operación porque no quiere alterar su cabeza justo antes de una situación peligrosa, convertir la noticia en algo recibido mirando un reloj o entregarles ese momento a las armas y la prisa. No es manipulación ni secreto prolongado: está esperando unas horas para compartirlo en casa.
+
+Cuando dice:
+
+> **— Retorna a casa.**
+
+Cole cree que habla de los dos. Chiara sabe que habla de **los tres**. No agregar una línea sobre “nuestro hijo” ni explicar la asimetría en la prosa futura.
+
+Cuando Cole dice:
+
+> **— Solo quiero llegar a casa, porque me esperan.**
+
+todavía no sabe que Elenna existe. Su primera participación dramática consiste en que su padre lucha por volver hasta ella sin saberlo. No subrayarlo en narración.
+
+Durante la vigilia, Chiara intenta impedir que Cole muera mientras guarda una información que él desconoce. La presión interna de diseño es *no puedes morirte ahora; ni siquiera sabes*, pero esa formulación **no es diálogo ni pensamiento canon**. Sirve para sostener sus nervios de acero y la grieta de la voz cuando él empieza a dormirse.
+
+El embarazo no reemplaza el motivo amoroso de la escena. Ante *“¿Por qué siempre te preocupas tanto?”*, Chiara podría revelar la noticia y no lo hace. Contesta *“Perché ti amo con tutto il mio cuore”* porque se preocupa por Cole por ser Cole, no sólo porque sea el padre de su hija.
+
+### Después de H1 — reveal a Cole, momento obligatorio por diseñar
+
+> **CANON / DISEÑO FIJADO. NO REDACTAR TODAVÍA.**
+
+El reveal ocurre sólo después de que Cole esté fuera de peligro, duerma, empiece a recuperarse y vuelva cierta normalidad doméstica. H1 debe terminar como H1.
+
+La reacción de Cole no será un discurso terapéutico. Su patrón de diseño es `shock → procesamiento → emoción difícil de verbalizar → seguridad → médicos → casa → trabajo → dinero → futuro`. Intenta convertir *voy a ser padre* en algo que pueda resolver; eso no significa falta de emoción.
+
+La noticia toca su herida familiar: vio el arresto y suicidio de Dale, el derrumbe y muerte de Ruth y la destrucción de su primera casa. Acaba de regresar a Villa Candelaria casi muerto. Su miedo no es *no quiero ser padre*, sino saber lo que ocurre cuando un padre desaparece de una casa. Debe verse en conducta, no necesariamente verbalizarse.
+
+Permanecen pendientes el diálogo, la reacción textual definitiva, el momento fino y los detalles domésticos o médicos de esta escena.
+
+---
+
 ## La arquitectura: todo esto es una sola palabra
 
 Las tres líneas que sostienen la secuencia son la misma línea:
@@ -1995,6 +2058,8 @@ Es también la respuesta a la pregunta que Cole lleva haciendo sin palabras toda
 ## Lo que la secuencia fija, y ya no está en discusión
 
 - **Ocurre en [[05_Locations/La_Villa]]**, la casa final — no en el loft del barrio, que para entonces ya ardió ([[#H8 — El incendio, la mentira y la villa]]). *(CANON del autor, 2026-08-23.)*
+- **Ocurre en Parte II, después de H8 y de la construcción de la villa.** Ya no es un hito posterior a la Guerra de los Tres. La posición fina dentro de Parte II permanece pendiente.
+- **Chiara ya sabe que está embarazada; Cole todavía no.** La noticia no se revela durante la crisis y se comparte después de su estabilización, en un momento separado.
 - **Para entonces viven juntos**, en la casa que él le compró sin que ella dijera una palabra y que ella levantó frasco por frasco.
 - **La violencia llega al lugar más privado que tienen.** El baño de su cuarto.
 - **Su organización es su barrio y su barrio es su familia**, y él entra a sacarlos a todos sin excepción. Confirma el motor de [[03_Factions/Almendra_Towing]].
@@ -2049,7 +2114,9 @@ Regla de [[06_Relationships/Cole_y_Chiara]]: lo que los salva siempre es algo qu
 
 > **PENDIENTE:** ¿cuál es la operación, y contra quién? Restricción: tiene que ser plausible que Cole entre él mismo en vez de mandar a alguien, y tiene que dejar heat suficiente para que los hospitales estén vigilados.
 
-> **PENDIENTE:** ¿en qué fase del ascenso ocurre? La escala sugiere Fase IV, pero puede ser el detonante de la Fase V.
+> **RESUELTO EN POSICIÓN MACRO (2026-08-31):** H1 ocurre en **Parte II**, después de H8 / la construcción de Villa Candelaria y antes del corte a Parte III. **PENDIENTE:** posición fina y capítulo exacto dentro de ese tramo.
+
+> **PENDIENTE:** cuántos días antes de H1 Chiara confirma el embarazo y por qué mecanismo; diálogo exacto del reveal posterior y reacción textual definitiva de Cole.
 
 > **PARCIALMENTE RESUELTO:** la costumbre del barrio de callar sobre ellos es canon y viene de la etapa del loft ([[06_Relationships/Cole_y_Chiara]], "un barrio que calla"). **Pero H1 ocurre en la villa**, en la zona de prestigio — otro barrio, otro régimen.
 >
@@ -2317,6 +2384,21 @@ Halbrook termina muerto públicamente por un disparo en la explanada del Ayuntam
 - Cada enfrentamiento de la secuencia requiere la matriz de verdad, percepción y prueba de [[04_Concepts/La_Guerra_de_los_Tres#Matriz obligatoria de enfrentamientos]].
 - H13 sigue siendo la intercepción previa de Il Consorzio y no se fusiona con Santa Lucía.
 
+## Condiciones de cierre antes de H22 — CANON DEL AUTOR (2026-08-31)
+
+La Guerra de los Tres debe haber cerrado sus grandes movimientos antes de [[#H22 — Los primeros pasos]]:
+
+- caída legal de Dario y falso final;
+- montaña y Santa Lucía, en orden fino todavía pendiente;
+- muerte de [[02_Characters/Hector_Navarro|Héctor Navarro]] durante Parte III, después de H1; causa y colocación exactas pendientes;
+- muerte de [[02_Characters/Kenji_Oda|Kenji Oda]] en Santa Lucía;
+- Chiara herida y su consecuencia;
+- aparición posterior de Corrado según su arco fijado, sin usarlo para resolver el ocultamiento de Elenna;
+- sentencia o desenlace institucional de Halbrook y su muerte pública;
+- cierre reconocible de la arquitectura bélica.
+
+Además, para ese momento Elenna ya nació, fue declarada muerta públicamente, vive como Elenna Serra con Riley en Italia y la separación de sus padres ya se volvió experiencia cotidiana. **H22 no pertenece a la guerra:** la reinterpreta después de terminada.
+
 ## Pendientes
 
 - Número definitivo del macrohito o división en hitos separados.
@@ -2326,6 +2408,152 @@ Halbrook termina muerto públicamente por un disparo en la explanada del Ayuntam
 - Qué descubre Cole sobre Halbrook y qué puede demostrar la ley.
 - Quién dispara contra Halbrook en la explanada del Ayuntamiento.
 - Desarrollo de las consecuencias federales y de la reconciliación de Cole y Chiara.
+- Causa, posición exacta y pago relacional de la muerte de Héctor.
+
+---
+
+# H22 — Los primeros pasos
+
+> **CANON DEL AUTOR (2026-08-31).**
+>
+> **ESTADO: CANON / DISEÑO FIJADO, PERO BLOQUEADO PARA PROSA.**
+>
+> **NO REDACTAR TODAVÍA.**
+
+## Bloqueo de prosa — regla dura
+
+> **BLOQUEO DE PROSA:** este hito no puede redactarse ni encargarse a Claude antes de que existan en prosa suficiente los tres soportes narrativos: Guerra de los Tres, destierro de Riley y embarazo/nacimiento/separación de Elenna. Su arquitectura puede diseñarse; su ejecución queda bloqueada.
+
+Redactarlo antes de construir esas causas convertiría una bisagra estructural en una escena sentimental aislada. El desbloqueo exige que el lector ya haya vivido por qué Cole y Chiara no pueden viajar simplemente a Italia, por qué Riley ya está allí y por qué un video de una bebé caminando funciona como derrota.
+
+## Estado y posición
+
+- **ID:** H22. Era el siguiente ID libre real después de H21; no se renumeran hitos anteriores.
+- **Posición canon:** apertura o comienzo inmediato de Parte IV, después del cierre completo de la Guerra de los Tres.
+- **Relación con el corte:** Parte III termina con la victoria bélica aparente. H22 abre Parte IV y redefine el precio de esa victoria.
+- **Prosa:** bloqueada hasta cumplir la matriz de dependencias.
+
+## Matriz de dependencias
+
+| Dependencia | Debe existir antes de redactar H22 | Función |
+|---|---|---|
+| Embarazo | Sí | El lector espera una hija |
+| H1 con embarazo secreto | Sí | Elenna queda ligada a volver a casa |
+| Reveal a Cole | Sí | Paternidad consciente |
+| Arco Riley–Chiara | Sí | Justifica la confianza |
+| Destierro de Riley | Sí | La coloca orgánicamente en Italia |
+| Guerra de los Tres | Sí | Impide la vida familiar normal |
+| Nacimiento de Elenna | Sí | Convierte posibilidad en persona |
+| Falsa muerte | Sí | Explica la separación pública |
+| Elenna Serra | Sí | Establece su nueva vida |
+| Separación prolongada | Sí | Produce pérdida acumulada |
+| Fotografías | Recomendado / necesario como contraste | El video rompe la inmovilidad |
+| Cierre de Parte III | Sí | El video reinterpreta la victoria |
+
+## Prerrequisitos narrativos
+
+### A — Guerra de los Tres
+
+El lector debe entender por qué Cole y Chiara están atrapados terminando una guerra y sosteniendo una arquitectura que protege a Elenna. La guerra tiene causas propias —Dario, Halbrook, Cole/Chiara y la transformación de San Aurelio— y no ocurre porque exista una bebé.
+
+Sin esta presión, la separación parecería artificial.
+
+### B — Destierro de Riley
+
+Riley debe haber sido formada por Chiara, perdido su lugar en San Aurelio por un conflicto propio, sobrevivido mediante desaparición y construido una vida suficiente en Italia como **Riley Colombo**.
+
+Cole no la destierra pensando en una hija futura. Chiara no la coloca en Italia para convertirla en cuidadora. Mucho después, cuando necesitan a alguien absolutamente confiable, Riley ya está allí.
+
+Sin esa cadena, Riley cuidando a Elenna parecería una solución inventada después del problema.
+
+### C — Nacimiento y pérdida pública de Elenna
+
+El lector debe haber vivido el embarazo, H1 con el conocimiento desigual, el reveal a Cole, el nacimiento, la decisión de sacarla, la muerte pública falsa, Elenna Serra, las fotografías y una separación suficientemente larga para producir pérdida cotidiana.
+
+Sin esa acumulación, el video sería una escena tierna. Con ella, es una derrota.
+
+## Contenido canon del hito
+
+Cole y Chiara reciben normalmente fotografías escasas de Elenna. Llega un envío diferente.
+
+Debe conservarse este intercambio como canon de diseño mientras el autor no lo cambie:
+
+> **Cole:** —¿Llegó la foto?
+>
+> **Chiara:** —No precisamente.
+>
+> **Cole:** —¿Has visto el contenido?
+>
+> **Chiara:** —No quiero hacerlo sola.
+
+Cole y Chiara ven juntos el dispositivo o memoria USB.
+
+En el video:
+
+- Elenna está apoyada contra un sofá;
+- Riley permanece cerca;
+- Elenna se suelta;
+- da sus primeros pasos hacia Riley;
+- Riley se ríe;
+- Elenna se ríe.
+
+Por primera vez sus padres no ven una imagen de su hija: la ven vivir.
+
+Las fotografías podían mostrar a una niña parecida predominantemente a Cole. El movimiento, la sonrisa y la risa dejan aparecer los gestos de Chiara. No obligar a ningún personaje a decir *tiene tu sonrisa*.
+
+## El intento de repetirlo
+
+Cuando termina el video, **Cole intenta reproducirlo otra vez y no puede**.
+
+El mecanismo técnico de un solo uso sigue pendiente y no se diseña aquí. La función es que Cole quiere volver a mirar algo que ya pasó y descubre que no puede. No verbalizar la relación con los primeros pasos que tampoco presenció.
+
+## Función emocional
+
+Hasta H22, Cole y Chiara todavía pueden sostener una racionalización:
+
+> Elenna está segura.
+>
+> Esto es temporal.
+>
+> Sólo tenemos que terminar.
+>
+> Después iremos por ella.
+
+El video la rompe. Elenna está creciendo, aprendiendo, formando vínculos y sosteniendo una vida cotidiana sin ellos. Pueden ganar San Aurelio y perder la infancia completa de su hija.
+
+La guerra terminó y ellos ganaron. H22 revela qué costó esa victoria.
+
+## Función estructural — Parte IV
+
+H22 no provoca retiro inmediato. Cole y Chiara todavía no pueden irse. Cambia el propósito de la consolidación:
+
+| Antes | Después de H22 |
+|---|---|
+| ¿Cómo hacemos crecer esto? | ¿Cómo hacemos que siga funcionando cuando desaparezcamos? |
+| poder que pasa por Cole | funciones que pueden sobrevivir sin Cole |
+| consolidación como permanencia | consolidación como arquitectura de salida |
+
+El contraste con Dario es obligatorio: **Dario construye un sistema donde todo pasa por Dario; Cole empieza a construir uno donde cada vez menos cosas necesitan pasar por Cole.** No pierde ambición: cambia su propósito.
+
+Mientras San Aurelio los convierte en **La Mancuerna de Hierro y Seda**, ellos profesionalizan, delegan, construyen redundancias, separan funciones y vuelven reemplazables sus posiciones. Exterior: permanencia. Interior: salida.
+
+## Restricciones
+
+- Elenna no es un *stake* que deba estar físicamente en peligro para mover la trama.
+- No reducir Parte III a “derrotar al malo para salvar a la bebé”.
+- No hacer que Cole y Chiara viajen o se retiren inmediatamente después del video.
+- No explicar la metáfora del segundo intento de reproducción.
+- No diseñar todavía la tecnología del dispositivo.
+- No borrar el apego de Elenna hacia Riley ni convertir a Riley en niñera funcional.
+- No convertir a Elenna en heredera criminal o promesa de dinastía.
+
+## Pendientes de H22
+
+- Capítulo exacto dentro del comienzo de Parte IV.
+- Mecanismo técnico del video de un solo uso.
+- Número de fotografías previas.
+- Duración exacta de la separación hasta este momento.
+- Reacción narrativa fina de Cole y Chiara más allá de las acciones canon.
 
 ---
 

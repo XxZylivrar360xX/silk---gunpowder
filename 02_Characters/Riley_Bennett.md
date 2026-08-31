@@ -8,8 +8,8 @@
 **Edad al abrir la novela:** 23.
 **Oficio:** corredora callejera; aprendiz operativa de lectura de escenarios.
 **Rol:** secundaria importante; protegida de Chiara.
-**Alias:** pendiente.
-**Estado:** viva al abrir; exiliada bajo identidad nueva si se canoniza F2.
+**Identidad de resguardo en Italia:** Riley Colombo.
+**Estado:** viva; desterrada de San Aurelio durante el primer tramo de Parte III y establecida en Italia antes del nacimiento de Elenna.
 
 ---
 
@@ -49,6 +49,18 @@ Lo que opera hoy:
 - Su arco apunta a un futuro mejor lejos de la calle.
 - En [[06_Relationships/Momentos_de_Fractura]], F2, Cole la destierra para salvarle la vida: sale hacia Nueva York y después Chiara organiza su llegada a Italia bajo el alias **Riley Colombo**.
 
+### Italia y Elenna — CANON / DISEÑO FIJADO (2026-08-31)
+
+F2 ocurre durante el primer tramo de Parte III, después de que la Guerra de los Tres haya empezado y antes del nacimiento de [[02_Characters/Elenna_Mercer|Elenna]]. Riley debe llegar a Italia y construir una vida/cobertura estable antes de que Elenna necesite ser enviada allí.
+
+La causalidad no puede invertirse. Cole no la destierra para producir una cuidadora futura; la salva por el conflicto de Riley. Chiara no la instala en Italia como empleada; le construye una posibilidad de supervivencia. Mucho después, cuando Cole y Chiara necesitan a alguien absolutamente confiable, Riley ya está allí.
+
+Riley recibe a Elenna Serra y se vuelve su cuidadora cotidiana durante aproximadamente su primer año. No es niñera funcional, sustituta descartable de Chiara ni segunda madre diseñada para competir con ella. Conserva agencia, vida propia y el costo de haber perdido San Aurelio, su nombre y el vínculo diario con Chiara.
+
+Elenna desarrolla un apego real hacia Riley. Ese vínculo sobrevive al reencuentro con Cole y Chiara; la recuperación de convivencia con sus padres debe ser gradual y no borrar a Riley.
+
+Siguen pendientes el mecanismo documental de Riley Colombo, quién sostiene su cobertura, la localización exacta, su vida cotidiana antes de recibir a Elenna y cuánto tiempo media entre F2 y el nacimiento.
+
 ---
 
 ## Método
@@ -71,12 +83,14 @@ Ese aprendizaje la vuelve peligrosa de una forma nueva: una corredora que aprend
 - **No debe romantizarse su pasado callejero.** Salir de ahí cuesta.
 - **No es sombra de Chiara.** Su arco propio tiene que pesar aunque Chiara sea su instructora.
 - **Si vive, paga el precio de desaparecer.** El exilio no es premio: es supervivencia con pérdida de nombre, ciudad y vínculo cotidiano con Chiara.
+- **Cuidar a Elenna no absorbe su arco.** La responsabilidad reorganiza su vida, pero no la reduce a función doméstica de los protagonistas.
 
 ---
 
 ## Conexiones
 
 - [[02_Characters/Chiara_Bellandi]] — protectora e instructora. Le enseña lectura de escenarios y reconducción.
+- [[02_Characters/Elenna_Mercer]] — niña a la que cuida en Italia como Elenna Serra; vínculo propio que no desaparece cuando sus padres regresan.
 - [[02_Characters/Mei_Lin_Zhao]] — viene de la misma banda rival desintegrada.
 - [[02_Characters/Cole_Mercer]] — cabeza de la organización donde entra, pero no su eje emocional principal.
 - [[02_Characters/Tyler_Brooks]] — comparte circuito joven de carreras.
@@ -94,7 +108,7 @@ Ese aprendizaje la vuelve peligrosa de una forma nueva: una corredora que aprend
 
 > **PENDIENTE:** si Mei-Lin quiere salir también o si eso crea tensión entre ellas.
 
-> **PENDIENTE:** confirmar si **Riley Colombo** queda como alias definitivo en Italia.
+> **RESUELTO DE ARQUITECTURA (2026-08-31):** durante el resguardo en Italia vive como **Riley Colombo**. **PENDIENTES:** mecanismo documental, cobertura legal, apoyos y localización exacta.
 
 ---
 

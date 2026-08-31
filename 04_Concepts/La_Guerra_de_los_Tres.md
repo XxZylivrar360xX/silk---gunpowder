@@ -127,6 +127,28 @@ Cole, Dario y Halbrook no controlan cada incidente. Cuando mueven estructuras, l
 
 La guerra debe producir fenómenos que ninguno de los tres ordenó. San Aurelio entra realmente en crisis; no se vuelve un tablero habitado sólo por tres personajes.
 
+## La guerra invade una familia en marcha — CANON DEL AUTOR (2026-08-31)
+
+Chiara entra a Parte III **ya embarazada**. La Guerra de los Tres no produce el embarazo ni ocurre porque exista Elenna: invade una vida doméstica que Cole y Chiara ya habían empezado a imaginar durante Parte II.
+
+La posición relativa obligatoria dentro del primer tramo importante de la parte es:
+
+`inicio de la guerra → F2 / destierro de Riley → Riley establecida en Italia como Riley Colombo → nacimiento de Elenna → detonante pendiente → muerte pública falsa → Elenna Serra con Riley → separación de sus padres`.
+
+El detonante concreto que vuelve imposible conservar a Elenna en San Aurelio sigue pendiente. Debe surgir de la escalada, la exposición creciente y la imposibilidad de proteger a una bebé sin convertirla en objetivo; no puede ser un incidente agregado sólo para moverla a Italia.
+
+La maniobra conserva las tres capas de verdad:
+
+| Capa | Estado de Elenna |
+|---|---|
+| San Aurelio / versión pública | La hija de Cole Mercer y Chiara Bellandi murió durante o alrededor del parto |
+| Círculo íntimo, todavía por fijar | Elenna vive; la lista y el momento de conocimiento permanecen pendientes |
+| Realidad | Vive en Italia como Elenna Serra bajo el cuidado cotidiano de Riley |
+
+Ni Dario Varek ni Warren Halbrook conocen que sobrevivió. La guerra no se simplifica a una operación para “salvar a la bebé”: Elenna puede cumplir su función sin estar físicamente en peligro en escena. Su poder narrativo es la vida que continúa en otro lugar mientras sus padres terminan la guerra.
+
+La separación debe durar lo suficiente para convertirse en experiencia acumulada —fotografías escasas, crecimiento y ausencia— antes del cierre de Parte III. [[06_Relationships/Hitos#H22 — Los primeros pasos|H22 — Los primeros pasos]] ocurre sólo después de ese cierre y está bloqueado para prosa.
+
 ## Curva institucional de Parte III
 
 1. **Inicio:** el Departamento interpreta los incidentes como violencia criminal elevada pero reconocible.
@@ -135,6 +157,8 @@ La guerra debe producir fenómenos que ninguno de los tres ordenó. San Aurelio 
 4. **Después de Dario:** las instituciones creen haber cortado el centro principal de la crisis. Esto produce el falso final.
 5. **Santa Lucía + montaña:** la hipótesis vuelve a romperse. Si Dario está detenido, ¿quién acaba de hacer esto? Halbrook empieza a convertirse en una explicación para el lector y para las instituciones pertinentes.
 6. **Muerte pública de Halbrook:** el disparo en la explanada del Ayuntamiento impide seguir tratando la violencia como un problema exclusivamente local y contribuye a justificar la escalada federal siguiente.
+
+Antes del corte a Parte IV también deben haberse cobrado las muertes de Héctor y Kenji, la herida grave de Chiara, la aparición posterior de Corrado según su arco y el cierre de la arquitectura bélica. La causa y posición exactas de la muerte de Héctor y el orden fino Santa Lucía/montaña permanecen pendientes.
 
 > **PENDIENTE:** relación causal y orden fino entre el atentado de Santa Lucía y la secuencia de montaña; quién dispara contra Halbrook en la explanada; qué institución formula primero una hipótesis demostrable sobre él.
 

@@ -11,6 +11,8 @@
 > - La **primera intimidad (H11)** ocurre **después** de H10 y H4 — la secuencia es `H12 → loft → H10 → H4 → H11 → jacuzzi → H5`.
 > - Hitos nuevos (ver Hitos.md): **El loft del soltero** (separado de H12), **La noche del jacuzzi** (separado de H5, con la advertencia de Varek), **El cumpleaño/mudanza** (beat 36 "La Casa" es el loft; la mudanza oficial es aparte, el cumpleaños de Chiara), **Italia/Mesa de las Familias**, **el regreso de Palermo**, **el asalto a Camp Alder** y **la consecuencia Halbrook/Lucia**.
 > - **Beat 35 "La formalizacion"** se coloca mucho más tarde: después de Palermo y del asalto a Camp Alder, no en Fase III.
+>
+> **NOTA DE PRECEDENCIA (2026-08-31) — embarazo, H1, Elenna y H22.** Las funciones dramáticas de los beats 76–83 de H1 se conservan, pero **su ubicación tardía queda supersedida**: H1 ocurre en Parte II, después de H8 / construcción de Villa Candelaria y antes del corte a Parte III. Chiara ya confirmó el embarazo; Cole no lo sabe. El reveal ocurre después de su recuperación, fuera de H1. Parte III recibe a Chiara embarazada; F2 coloca a Riley en Italia antes del nacimiento; Elenna nace relativamente temprano, es declarada muerta y vive como Elenna Serra con Riley. La guerra cierra antes de **H22 — Los primeros pasos**, que abre Parte IV y está bloqueado para prosa. Los beats 84–90 tampoco fijan ya el cierre: Partes IV–V, Meridian, salida y Palermo se rigen por [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]]. No renumerar los 90 beats hasta una expansión integral.
 
 ---
 
@@ -236,7 +238,7 @@ El Patio deja de ser una solucion local y se vuelve estructura de poder. Dario, 
 
 59. **Sofia Alvarez encuentra la contradiccion.** Donde Cole aparece, algunos traficantes mueren y algunas victimas reaparecen vivas. La teoria federal se vuelve incomoda: depredador, vigilante, criminal y protector no encajan limpio.
 
-60. **F2 - Riley y Mei-Lin.** Cole prueba a las dos ex corredoras. Mei-Lin deja demasiada duda y muere en la costa. Riley es desterrada hacia Nueva York y luego Italia como Riley Colombo. Chiara pierde a la chica que estaba formando.
+60. **F2 - Riley y Mei-Lin.** *(Posición relativa fijada 2026-08-31: primer tramo de Parte III, antes del nacimiento de Elenna y con tiempo para que Riley se establezca en Italia.)* Cole prueba a las dos ex corredoras. Mei-Lin deja demasiada duda y muere en la costa. Riley es desterrada hacia Nueva York y luego Italia como Riley Colombo. Chiara pierde a la chica que estaba formando. Su futuro cuidado de Elenna es payoff posterior, nunca motivo del destierro.
 
 61. **La noche en el suelo.** Cole y Chiara quedan destrozados por Riley y Mei-Lin. *Lo siento, vale?* / *No te martirices. Hiciste lo que debias hacer.* No es absolucion; es aceptar que el ascenso ya cobra vidas con nombre.
 
@@ -280,11 +282,11 @@ No agregar mundo: cobrarlo. El imperio funciona. Eso es precisamente lo que empi
 
 76. **La operacion imposible se carga.** Dario, Valenti, Halbrook o una convergencia de ellos atrapan a gente de El Patio en una situacion donde Cole no puede delegar. Debe entrar el mismo porque son su barrio y su familia.
 
-77. **H1 - La promesa.** Antes de salir, Chiara le toca el pecho, la placa, y le dice: *Retorna a casa.* Ella enciende una vela.
+77. **H1 - La promesa.** *(Reubicado a Parte II; ver nota de precedencia.)* Antes de salir, Chiara le toca el pecho, la placa, y le dice: *Retorna a casa.* Ella enciende una vela. Ya confirmó el embarazo; Cole todavía no lo sabe. Él entiende dos personas; ella sabe que son tres.
 
 78. **H1 - El rescate.** Cole saca a todos los miembros de su organizacion. Recibe un tiro en el costado. Solo Hector Navarro se da cuenta de lo mal que esta.
 
-79. **H1 - La hemorragia.** Cole minimiza el costo hasta el limite: *Solo quiero llegar a casa, porque me esperan.* No pide hospital. Pide destino.
+79. **H1 - La hemorragia.** Cole minimiza el costo hasta el limite: *Solo quiero llegar a casa, porque me esperan.* No pide hospital. Pide destino. Lucha por volver hasta Elenna sin saber que existe; no subrayarlo en prosa.
 
 80. **H1 - La piscina.** Llega a Villa Candelaria y se mete a la piscina para lavarse la sangre antes de entrar como si nada. Chiara lo encuentra.
 
@@ -292,7 +294,7 @@ No agregar mundo: cobrarlo. El imperio funciona. Eso es precisamente lo que empi
 
 82. **H1 - La vigilia y el bano.** Chiara lo mantiene despierto hasta que se le quiebra la voz. En el suelo del bano, el pregunta por que se preocupa tanto. Ella responde: *Perche ti amo con tutto il mio cuore.*
 
-83. **H1 - La cama.** Cole no contesta en el bano. Despues, agotado, dice en italiano imperfecto: *Volevo solo tornare a casa per mantenere la mia promessa, amore.*
+83. **H1 - La cama.** Cole no contesta en el bano. Despues, agotado, dice en italiano imperfecto: *Volevo solo tornare a casa per mantenere la mia promessa, amore.* H1 termina sin reveal. Chiara se lo cuenta sólo después de que queda fuera de peligro y vuelve cierta normalidad doméstica.
 
 ---
 

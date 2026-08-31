@@ -63,6 +63,8 @@ Ver [[06_Relationships/Los_Tres_Dias]] para la estructura emocional completa: D�
 **Lugar:** Puerto Viejo / costa para Mei-Lin; norte rural para Riley.
 **Estado de la relación:** El Patio ya tiene estructura suficiente para que una filtración pueda destruirlos.
 
+> **POSICIÓN RELATIVA FIJADA (2026-08-31):** ocurre durante el primer tramo de Parte III, cuando la Guerra de los Tres ya empezó, **antes del nacimiento de Elenna** y con tiempo suficiente para que Riley llegue a Italia y construya una vida/cobertura estable antes de recibirla. El capítulo y distancia exactos permanecen pendientes.
+
 ### Adaptación
 
 Cole pone a prueba a [[02_Characters/Mei_Lin_Zhao]] y [[02_Characters/Riley_Bennett]] después de detectar indicios de que la banda rival desintegrada no murió del todo o de que alguien está usando su pasado para meter una fuente dentro del Patio.
@@ -83,7 +85,11 @@ Desde ahí, Chiara arregla la salida final a Italia bajo una identidad nueva:
 
 > **Riley Colombo.**
 
-Queda bajo tutela de la familia de Chiara o de una rama Bellandi capaz de esconderla lejos de San Aurelio.
+Riley termina establecida en Italia con una vida y cobertura suficientes para no depender cotidianamente de San Aurelio. **No se fija todavía** quién obtiene sus documentos, qué vínculo legal sostiene la identidad, dónde vive ni qué persona o estructura la ayuda. No asumir tutela Bellandi ni intervención de Corrado por conveniencia.
+
+El destierro ocurre por el conflicto propio de Riley. Cole no la salva pensando que algún día cuidará a su hija y Chiara no le construye una salida para convertirla en recurso logístico. La causalidad correcta es:
+
+`Chiara forma a Riley → Riley paga un conflicto propio → Cole la obliga a salir para mantenerla viva → Chiara le construye una posibilidad en Italia → Riley aprende a vivir lejos → mucho después nace Elenna → Riley ya está allí`.
 
 ### El verdadero daño
 
@@ -103,18 +109,21 @@ Después él le da un beso en la frente. No arregla nada. Sólo deja claro que l
 
 ### Consecuencias
 
-- Riley queda viva, pero exiliada de la historia activa.
+- Riley queda viva y fuera de San Aurelio, pero no congelada ni exiliada de toda función narrativa: empieza una vida propia en Italia bajo el nombre Riley Colombo.
 - Mei-Lin muere como frontera moral del ascenso de El Patio.
 - Chiara aprende que proteger a alguien no siempre significa conservarlo cerca.
 - Cole aprende que ahorrar una vida también puede dejar un vacío.
 - El Patio entiende que Cole puede perdonar demasiado, pero no va a permitir una grieta que ponga a todos en riesgo.
+- Mucho después, Riley recibe a [[02_Characters/Elenna_Mercer|Elenna Serra]]. Ese cuidado es payoff de la confianza construida con Chiara, no la causa del destierro.
+- Cuidar a Elenna no convierte a Riley en empleada ni borra el costo de haber perdido ciudad, nombre y vínculo cotidiano con Chiara.
 
 ### Restricciones
 
 - No usar esta escena antes de que Riley importe de verdad.
+- Antes de F2, Parte II debe haber construido suficiente relación Riley–Chiara para que *te confío a mi hija* sea consecuencia y no atajo.
 - Mei-Lin no puede morir como figurante: su duda debe doler porque tenía valor.
 - Chiara no debe absolver a Cole de manera fácil. Su frase no borra el daño; lo reconoce.
-- Si Riley vuelve en el futuro, no debe ser barato: su regreso pone en riesgo la mentira que la mantiene viva.
+- Si Riley vuelve físicamente a San Aurelio, no debe ser barato: su regreso pone en riesgo la mentira que la mantiene viva. Su presencia posterior desde Italia no equivale a deshacer el destierro.
 
 ---
 
@@ -298,7 +307,8 @@ Este orden permite que la relación escale de daño íntimo, a ausencia por deud
 - Decidir quién del taller delata la mentira de Chiara.
 - Definir si Mei-Lin realmente traicionó o si sólo dejó demasiada duda.
 - Nombrar la pista clandestina del norte.
-- Confirmar si Riley Colombo queda como alias definitivo.
+- ~~Confirmar si Riley Colombo queda como alias definitivo.~~ **RESUELTO DE ARQUITECTURA (2026-08-31):** Riley vive en Italia como **Riley Colombo**. Mecanismo documental, cobertura legal, apoyo y localización exacta pendientes.
+- Fijar cuánto tiempo transcurre entre F2, su establecimiento estable en Italia y el nacimiento de Elenna.
 - Decidir quién ejecuta materialmente el sabotaje de los frenos.
 - Definir las secuelas físicas de Chiara después del accidente.
 - Definir qué favor exacto cobra Anya en Washington.

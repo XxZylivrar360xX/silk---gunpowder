@@ -239,6 +239,18 @@ Esa fricción empuja a Cole al hito siguiente — [[06_Relationships/Hitos#H14 �
 
 Un par de semanas antes de su cumpleaños (23 de noviembre), **una fractura por la edad obliga a sacrificar a [[05_Locations/Hipodromo_Del_Monarch|Vento]]**, su caballo. Chiara pasa esas semanas de duelo — montar era su "tierra, no gente". El día del cumpleaños, Cole le da **tres regalos** en el hipódromo (ver [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]]): una **yegua blanca** traída de otro estado, una botella de **Domaine de la Romanée-Conti** (Chiara le pregunta si sabe lo que significa regalar una botella así; él: *"sin duda alguna"*), y una **cajita de madera con la llave del loft** — *"ya pasas las noches ahí, quiero que pases también las mañanas"*. La llave **es** la mudanza.
 
+### H1 y el embarazo — CANON DEL AUTOR (2026-08-31)
+
+Durante [[06_Relationships/Hitos#H1 — El regreso a casa|H1]], ya en Villa Candelaria y todavía en Parte II, **Chiara sabe que está embarazada y Cole no**. Lleva muy poco tiempo sabiéndolo. Su intención es contárselo cuando él regrese de la operación: no quiere alterar su cabeza antes de una situación peligrosa ni convertir el primer momento de la noticia en una cuenta regresiva armada.
+
+No es manipulación ni un secreto prolongado. Está reservando unas horas para que la noticia les pertenezca en casa.
+
+Cuando le toca la placa y dice *Retorna a casa*, Cole entiende que habla de los dos; Chiara sabe que habla de los tres. Durante la vigilia intenta impedir que muera antes de conocer a la hija que espera. Ese conocimiento sostiene su presión interna, pero **no reemplaza el amor como motor de H1**: cuando Cole pregunta por qué se preocupa tanto, ella responde *Perché ti amo con tutto il mio cuore*, no revela el embarazo.
+
+El reveal ocurre sólo después de que Cole queda fuera de peligro, duerme, inicia recuperación y vuelve cierta normalidad doméstica. El diálogo, el mecanismo de confirmación, los días exactos y la reacción textual de Cole permanecen pendientes.
+
+Durante el resto de Parte II, el embarazo debe existir como realidad doméstica y progresión física suficiente, no como único tema de Chiara ni como colección de síntomas. En Parte III, la guerra recibe a Chiara ya embarazada; no produce el embarazo.
+
 ### El pañuelo — CANON DEL AUTOR (2026-08-27), arco reservado
 
 Más adelante, en [[06_Relationships/Hitos#H13 — El pañuelo|H13]] (después del cumpleaños / la mudanza, justo antes del viaje a Italia; todavía sin escribir), dos hombres de [[02_Characters/Leone_Valenti]] la interceptan saliendo de la iglesia. Le insinúan que [[03_Factions/Il_Consorzio]] no está contento con "una Lusardi" administrando el casino — ella corrige: *Ardizzone*. La acusan de recolectar poder en San Aurelio por su cuenta; lo niega, y en el fondo es cierto. Le dejan un pañuelo con la inicial "C" y una bala: *"Pon tu casa en orden, Sra. Ardizzone, o hablaremos de este Mercer tuyo."* Chiara deduce, sin pruebas, que fue el Consorcio quien la atacó en H12 — lo que le planta la idea de viajar a Palermo más adelante, después de su cumpleaños. Cole, que nunca cerró su propia investigación del ataque en H12, insiste en acompañarla en cuanto ella le muestra el pañuelo y la bala — es el hilo que él nunca pudo encontrar solo. **El agente no debe adelantar contenido de ese viaje.**
@@ -294,6 +306,7 @@ Es la asimetría exacta con el apodo de él ([[02_Characters/Cole_Mercer]], "Mac
 ## Conexiones
 
 - [[02_Characters/Cole_Mercer]] — el otro motor. Ver [[06_Relationships/Cole_y_Chiara]].
+- [[02_Characters/Elenna_Mercer]] — su hija biológica. La versión que salva su vida también obliga a Chiara a vivir la diferencia entre controlar un relato y cambiar un hecho.
 - [[04_Concepts/Fe_y_Velas]] — su fe católica, el ritual de las velas y la petición de que Cole vuelva a casa.
 - [[05_Locations/Iglesia_Santa_Lucia]] — parroquia donde su fe tiene lugar físico en San Aurelio.
 - [[03_Factions/El_Faro]] — el diario. Su territorio real.

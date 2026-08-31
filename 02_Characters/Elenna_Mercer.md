@@ -49,15 +49,23 @@ El nombre de resguardo no reemplaza su identidad canónica y no convierte a Rile
 
 ## El embarazo
 
-> **ARQUITECTURA FIJADA POR EL AUTOR.** El embarazo comienza o se descubre durante la recta final de la Parte II.
+> **CANON DEL AUTOR (2026-08-31).** Chiara ya confirmó el embarazo cuando ocurre [[06_Relationships/Hitos#H1 — El regreso a casa|H1]], durante Parte II. Cole todavía no lo sabe.
 
-La Parte II construye la expectativa de familia. La Parte III obliga a Cole y Chiara a sacrificar la posibilidad de vivirla normalmente.
+Chiara lleva muy poco tiempo sabiéndolo y planea contárselo cuando Cole regrese de la operación. No quiere alterar su cabeza antes del peligro ni convertir la noticia en algo recibido mirando el reloj. No es manipulación ni secreto prolongado: espera unas horas para compartirla bien, en casa.
 
-No están fijadas la fecha de concepción, la escena exacta del descubrimiento, la semana de gestación ni cuánto embarazo ha transcurrido al abrir la Parte III. Esos datos no deben deducirse a partir de la estructura general.
+Cuando dice *Retorna a casa*, Cole cree que habla de los dos y Chiara sabe que habla de los tres. Cuando él dice *“Solo quiero llegar a casa, porque me esperan”*, lucha por volver hasta Elenna sin saber que existe. La primera participación dramática de Elenna es, por tanto, estar dentro de la casa a la que su padre intenta regresar. No subrayarlo en prosa futura.
+
+El embarazo no reemplaza el amor como motivo de H1. Chiara no revela la noticia durante la hemorragia, la atención médica, el baño ni el pico de la secuencia. Se la cuenta sólo después de que Cole está fuera de peligro, duerme, empieza a recuperarse y regresa cierta normalidad doméstica.
+
+La Parte II construye poder y expectativa de familia al mismo tiempo. La Parte III recibe a Chiara ya embarazada y obliga a ambos a sacrificar la posibilidad de vivir esa familia normalmente.
+
+No están fijadas la fecha de concepción, los días exactos antes de H1, el mecanismo de confirmación, el diálogo del reveal, la reacción textual de Cole, la semana de gestación ni cuánto embarazo ha transcurrido al abrir la Parte III.
 
 ## La falsa muerte
 
-Elenna nace durante la Parte III, cuando [[04_Concepts/La_Guerra_de_los_Tres|la Guerra de los Tres]] ya está escalando. Debe existir un detonante concreto que vuelva inaceptable mantener su existencia dentro del tablero, pero ese detonante todavía no ha sido decidido.
+Elenna nace durante el primer tramo importante de Parte III, cuando [[04_Concepts/La_Guerra_de_los_Tres|la Guerra de los Tres]] ya está escalando. Antes, F2 debe haber expulsado a Riley de San Aurelio y Riley debe estar establecida en Italia. El capítulo, la semana y la distancia exacta entre esos hechos permanecen pendientes.
+
+Debe existir un detonante concreto que vuelva inaceptable mantener su existencia dentro del tablero, pero ese detonante todavía no ha sido decidido.
 
 Para el mundo, la hija de Cole y Chiara muere durante o alrededor del parto. La ficha fija únicamente el resultado narrativo:
 
@@ -92,7 +100,13 @@ La cantidad exacta de fotografías no está fijada.
 
 ## Los primeros pasos
 
-> **CANON DE DISEÑO.** Hay un único envío excepcional de video, preferentemente al inicio de la Parte IV.
+> **HITO CANON:** [[06_Relationships/Hitos#H22 — Los primeros pasos|H22 — Los primeros pasos]].
+>
+> **ESTADO: CANON / DISEÑO FIJADO, PERO BLOQUEADO PARA PROSA.**
+>
+> **NO REDACTAR TODAVÍA.**
+
+H22 ocurre en la apertura o comienzo de Parte IV, sólo después del cierre completo de la Guerra de los Tres. Su prosa permanece bloqueada hasta que el manuscrito haya construido embarazo/H1/reveal, relación Riley–Chiara, destierro de Riley, guerra, nacimiento, falsa muerte, Elenna Serra, separación, fotografías y cierre bélico.
 
 Riley envía un dispositivo o memoria USB. Debe conservarse este intercambio:
 
@@ -105,9 +119,9 @@ Lo ven juntos. En el video, Elenna está apoyada contra un sofá y Riley permane
 
 Es la primera vez que Cole y Chiara ven a su hija **moverse**. Hasta ese momento sólo han recibido imágenes quietas: en ellas predomina el parecido con Cole. En movimiento, y sobre todo al reírse, aparece Chiara.
 
-El video sólo puede verse una vez o queda inutilizable después por el mecanismo de seguridad que se decida. La tecnología no está fijada y no debe explicarse todavía.
+El video sólo puede verse una vez o queda inutilizable después por el mecanismo de seguridad que se decida. La tecnología no está fijada y no debe explicarse todavía. Cuando termina, **Cole intenta reproducirlo otra vez y no puede**. No verbalizar la relación entre el video irrepetible y los primeros pasos que tampoco presenció.
 
-La escena no sólo muestra una ausencia. Ayuda a que Cole y Chiara entiendan que están ganando San Aurelio mientras se pierden la infancia de su hija, y se convierte en uno de los disparadores principales de su plan secreto de salida.
+La escena no sólo muestra una ausencia. La guerra ya terminó y ellos parecen haber ganado. H22 les demuestra que pueden ganar San Aurelio mientras pierden la infancia de su hija, y se convierte en uno de los disparadores principales de su plan secreto de salida. No se marchan inmediatamente: empiezan a construir una estructura capaz de sobrevivir sin ellos.
 
 ## El lugar que ocupa en Cole
 
@@ -168,9 +182,9 @@ Representa lo contrario: **la razón por la que Cole y Chiara descubren que no n
 > **No corregir estos puntos por conveniencia.** El canon del autor de esta ficha prevalece; los archivos señalados requieren una pasada posterior y coordinada.
 
 1. **Corrado figura como muerto en el vault vivo.** Lo afirman [[02_Characters/Chiara_Bellandi]], [[06_Relationships/Cole_y_Chiara]], [[03_Factions/Il_Consorzio]], [[03_Factions/Fuerza_de_Tarea_Meridian]], [[02_Characters/Ettore]], [[02_Characters/README]] y [[12_Craft_Policies/revelations/SAGA_LEVEL]]. El Capítulo 2 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo]]) y el Capítulo 10 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Corral]]) también contienen formulaciones que presuponen su muerte o la retención de su cuerpo. El nuevo canon establece que está vivo y oculto en Italia durante buena parte de la novela. Esta contradicción afecta además el duelo de Chiara, la función de Ettore, la herida federal, escenas ya escritas y el secreto de saga; no debe resolverse con una sustitución mecánica de frases.
-2. **El resguardo italiano de Riley presupone tutela Bellandi.** [[06_Relationships/Momentos_de_Fractura]] dice que Riley queda bajo tutela de la familia de Chiara o de una rama Bellandi capaz de esconderla. La identidad **Riley Colombo** también aparece allí, en [[02_Characters/Riley_Bennett]] y en [[01_Timeline/01_Primer_Borrador_Beats]]. `Riley Colombo` no contradice por sí mismo a `Elenna Serra`, pero la tutela familiar presupuesta no puede utilizarse para decidir quién oculta a Elenna, quién consigue sus documentos ni si Corrado interviene.
+2. **Riley en Italia — reconciliado en arquitectura (2026-08-31).** [[06_Relationships/Momentos_de_Fractura]] ya no presupone tutela Bellandi: F2 coloca a Riley en Italia como Riley Colombo antes del nacimiento, pero mantiene pendientes documentos, cobertura, apoyo y localización. `Riley Colombo` y `Elenna Serra` son identidades distintas.
 3. **No se encontró una hija con otro nombre ni una supervivencia incompatible.** La auditoría dirigida no halló `Marta`, `Marta Elena` o `Elena Mercer` usados como nombre de la hija; tampoco una niña apellidada Colombo, una hija retenida en San Aurelio ni textos donde Dario o Halbrook conozcan su supervivencia. Las menciones existentes de Marta corresponden a [[02_Characters/Chiara_Bellandi|Marta Bellandi]], madre de Chiara.
-4. **La arquitectura futura todavía no incluye a Elenna.** [[06_Relationships/Hitos]], [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] y [[01_Timeline/01_Primer_Borrador_Beats]] aún no registran embarazo, nacimiento, falsa muerte, separación, video ni reencuentro. No contradicen la ficha, pero necesitan integración cuando el autor decida la colocación fina.
+4. **Arquitectura futura — reconciliada en documentos centrales (2026-08-31).** [[06_Relationships/Hitos]] y [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] ya integran embarazo, H1, reveal posterior, Riley, nacimiento, falsa muerte, separación y H22. El timeline de 90 beats conserva numeración antigua y requiere expansión futura; una nota de precedencia impide usar su ubicación tardía de H1.
 
 ## Pendientes
 
@@ -178,7 +192,7 @@ No resolver ninguno de estos puntos por conveniencia:
 
 1. **PENDIENTE:** fecha exacta de nacimiento.
 2. **PENDIENTE:** fecha de concepción.
-3. **PENDIENTE:** momento exacto del descubrimiento del embarazo.
+3. **PENDIENTE:** momento exacto del descubrimiento del embarazo, incluido cuántos días antes de H1 lo confirma Chiara.
 4. **PENDIENTE:** cuánto embarazo ha transcurrido al iniciar la Parte III.
 5. **PENDIENTE:** detonante concreto que obliga a ocultarla.
 6. **PENDIENTE:** circunstancias médicas exactas del parto.
@@ -203,6 +217,16 @@ No resolver ninguno de estos puntos por conveniencia:
 25. **PENDIENTE:** color definitivo del cabello al crecer.
 26. **PENDIENTE:** altura y aspecto adulto.
 27. **PENDIENTE:** personalidad infantil posterior.
+
+### Pendientes adicionales del arco H1–H22
+
+28. **PENDIENTE:** mecanismo exacto por el que Chiara confirma el embarazo.
+29. **PENDIENTE:** diálogo exacto del reveal a Cole.
+30. **PENDIENTE:** reacción textual definitiva de Cole.
+31. **PENDIENTE:** sexo fetal y cuándo lo conocen, si llega a importar.
+32. **PENDIENTE:** momento exacto en que eligen el nombre Elenna.
+33. **PENDIENTE:** calendario médico del embarazo.
+34. **PENDIENTE:** capítulo exacto de H22 dentro del comienzo de Parte IV.
 
 ---
 
