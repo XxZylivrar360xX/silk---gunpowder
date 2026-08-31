@@ -37,3 +37,14 @@ Misterios o verdades que cruzan todo *Seda y Polvora* o que no pertenecen a un s
 - **Capa permitida antes de la revelacion (2026-08-28):** el Capitulo 9 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Corral]]) establece, sin nombrar el homicidio, que Alessio le hizo mucho daño y que el mundo no la escucho — "un infierno que vivio en Roma". Esto es abuso confirmado, no el dato de quien lo mato.
 - **La revelacion en si:** **CANON DEL AUTOR (2026-08-28) — ocurre en el campo de golf.** Escena y capitulo exactos: pendientes de escribir.
 - **Estado:** canon parcial; verdad completa pendiente del autor hasta la escena del campo de golf.
+
+---
+
+## La caja de madera con runas nórdicas
+
+- **Qué es:** Cole encuentra, escondida en un conducto de aire de la casa de sus padres, una caja de madera con algo grabado en runas nórdicas — la única herencia real que tiene de su vida antes de ser comprado de bebé. Complementa, no reemplaza, la pulsera de hospital ya establecida en [[02_Characters/Cole_Mercer]] como "lo único que puede ser real".
+- **Se siembra en:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/11_El_Loft_Del_Soltero]] — no se abre en la escena. Cole la guarda en el maletero, debajo de una manta.
+- **Quién ya lo sabe:** solo Cole. Ni el lector ni Chiara ven el contenido.
+- **Quién NO debe saberlo/insinuarlo todavía:** nadie. La caja no vuelve a mencionarse hasta la Parte 3.
+- **Líneas o gestos prohibidos:** abrir la caja, traducir las runas, o siquiera mencionarla de pasada antes de la Parte 3. Ni Cole debe pensar en ella entre medias — el silencio narrativo es parte del efecto.
+- **Estado:** sembrado; contenido y significado pendientes de decisión del autor, reservados para la Parte 3.

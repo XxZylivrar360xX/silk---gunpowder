@@ -104,6 +104,8 @@ Nunca ha ido a buscar. Dice que es porque no le interesa. La verdad es más simp
 
 > **PENDIENTE:** decidir la ciudad exacta de nacimiento en Noruega. No es material a resolver en el libro; es un hueco que debe seguir siendo un hueco casi hasta el final.
 
+> **CANON DEL AUTOR (2026-08-29):** hay una segunda pieza, además de la pulsera — una caja de madera con algo grabado en runas nórdicas, escondida desde niño en un conducto de aire de [[05_Locations/La_Casa]]. Cole la recupera en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/11_El_Loft_Del_Soltero]] sin abrirla y la guarda en el maletero. **No vuelve a aparecer ni a mencionarse hasta la Parte 3** — ver [[12_Craft_Policies/revelations/SAGA_LEVEL]].
+
 ### La casa que no era una casa
 
 Lo criaron Dale y Ruth Mercer, en el barrio de la Almendra. Ruth quería un hijo y no podía tenerlo; Dale nunca lo quiso y nunca fingió lo contrario, pero le enseñó todo lo útil que Cole sabe: abrir un coche sin llave, leer a un hombre antes de que hable, no deber nunca dinero a nadie que sepa dónde duermes.
@@ -118,9 +120,11 @@ Dale se fue cuando Cole tenía quince años, arrastrado por esa misma deuda que 
 >
 > **ACTUALIZADO (2026-08-26):** la restricción de que "no puede ser una escena de la que él hable nunca" se levanta exactamente una vez — en [[06_Relationships/Hitos]], H11, el mirador, cuando se lo cuenta a Chiara. **Sigue sin ser tema de conversación con nadie más, y sigue sin dramatizarse en ninguna otra escena.** Que la regla se rompa sólo esa vez es lo que hace que esa vez importe.
 
+> **DETALLE CONCRETO (2026-08-29):** la casa de Dale y Ruth ([[05_Locations/La_Casa]]) tiene un balcón trasero desde donde se ve [[05_Locations/Comisaria_De_Hale_Valley]]. Ahí, a los quince años, descalzo, Cole ve a Ruth corriendo detrás del auto y colgándose de las piernas de Dale mientras se lo llevan — Dale no la mira, pero incluso esposado y vencido encuentra la forma de exigirle algo con los ojos, y ella lo suelta obedeciendo. Es la última vez que Cole ve a su padre con vida. **Esa misma noche, en la celda, Dale se ahorca con su propia ropa.** Ruth no sobrevive mucho más: dos años de deterioro por opioides — empieza con pastillas para dormir — hasta que Cole, a los diecisiete, vuelve una tarde y el silencio de la casa se lo dice todo antes de entrar. Esta escena se dramatiza, en solitario y sin una sola palabra dicha en voz alta, en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/11_El_Loft_Del_Soltero]] — Cole regresa a la casa vacía para venderla remodelada y el balcón lo detiene más que cualquier otro cuarto. **No rompe la restricción de arriba:** ahí no habla con nadie; es memoria pura, para el lector solo.
+
 ### El uniforme
 
-A los dieciocho tenía un expediente lo bastante feo como para que un juez le ofreciera la salida clásica: alistarse o entrar. Se alistó. El campamento fue un desastre los primeros meses — no aguantaba órdenes — hasta que descubrió el truco que iba a organizar el resto de su vida: **decir que sí y ser lo que la habitación necesita.** Dijo que sí, se lo tragó, y salió convertido en un soldado excelente.
+A los dieciocho tenía un expediente lo bastante feo como para que un juez le ofreciera la salida clásica: alistarse o entrar. Se alistó, a través de **Nuevos Horizontes** — un programa de la era posterior al 11 de septiembre que le borraba el expediente juvenil a cambio de servicio militar. El campamento fue un desastre los primeros meses — no aguantaba órdenes — hasta que descubrió el truco que iba a organizar el resto de su vida: **decir que sí y ser lo que la habitación necesita.** Dijo que sí, se lo tragó, y salió convertido en un soldado excelente.
 
 > **DECANONIZADO (2026-08-23):** esta ficha decía antes que Cole salió herido de una mina y que un sanitario llamado Michael Grayson murió sacándolo. Era invención del agente. **Sustituido por el canon del autor**, abajo.
 
