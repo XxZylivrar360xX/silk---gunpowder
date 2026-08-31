@@ -13,6 +13,7 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 
 ## Secundarios principales
 
+- [[02_Characters/Elenna_Mercer]] — hija biológica de Cole y Chiara; públicamente fallecida al nacer, en realidad protegida en Italia como Elenna Serra durante aproximadamente su primer año.
 - [[02_Characters/Hector_Navarro]] — figura paterna de Cole y mano derecha.
 - [[02_Characters/Nadir_Amrani]] — mejor amigo de Cole; lo ayudó primero.
 - [[02_Characters/Anya_Voronina]] — contacto rusa de Washington; amor pasado de Cole en Afganistán y deuda por los papeles de Nadir.

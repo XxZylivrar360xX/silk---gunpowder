@@ -2,6 +2,15 @@
 
 Decisiones compactas para relevo. No reemplaza `log.md`.
 
+## 2026-08-31
+
+- La hija biológica de Cole Mercer y Chiara Ardizzone Bellandi se llama **Elenna Mercer**, con doble `n`. Durante su resguardo italiano usa únicamente la identidad documental **Elenna Serra**; Serra no es apellido real y no se sustituye por Mercer, Bellandi, Ardizzone ni Colombo.
+- El embarazo se descubre en la recta final de Parte II y Elenna nace durante Parte III. Para el mundo fallece al nacer; en realidad vive y pasa aproximadamente su primer año en Italia bajo el cuidado de Riley Bennett. Dario Varek y Warren Halbrook no conocen su supervivencia.
+- Riley conserva agencia, costo y un vínculo propio con Elenna. La niña desarrolla apego real hacia ella; el reencuentro con Cole y Chiara debe ser gradual y no puede borrar a Riley.
+- Las fotografías escasas terminan quemadas en la chimenea de Villa Candelaria. El video único de los primeros pasos, preferentemente al inicio de Parte IV, es la primera imagen en movimiento y uno de los disparadores del plan secreto de salida.
+- Elenna no representa una dinastía Mercer ni hereda narrativamente San Aurelio. Transforma conquista en consolidación y arquitectura de salida: sus padres deben construir una vida en la que ella no necesite heredar su poder.
+- El nuevo canon establece que Corrado Ardizzone está vivo y oculto en Italia durante buena parte de la novela. Los textos que todavía lo dan por muerto quedan como continuidad a reconciliar; no se corrigieron en esta pasada.
+
 ## 2026-08-30
 
 - “Guerra de los Tres” es sólo arquitectura narrativa; no existe como nombre público ni organigrama policial. Los vértices secretos de Parte III son Dario, Halbrook y Cole+Chiara. La Policía de San Aurelio es cuarto actor visible, no cuarto bando, y cada enfrentamiento debe separar realidad, evidencia, versión pública, percepción y conocimiento del lector.

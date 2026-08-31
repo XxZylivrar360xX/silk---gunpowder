@@ -19,6 +19,9 @@ Pendientes activos para el siguiente relevo.
 
 ## Pendiente Estructural
 
+- Integrar la arquitectura de [[02_Characters/Elenna_Mercer]] en Hitos, Book Map y beats una vez que el autor coloque sus escenas. La ficha conserva los **27 pendientes obligatorios**: fechas y avance del embarazo; detonante del resguardo; parto y versión pública; hospital; documentos Serra; conocedores del secreto; traslado e Italia; cobertura legal y duración; fotografías/USB; descubrimientos y encuentro de Corrado; reencuentro con sus padres; continuidad con Riley; apariencia adulta y personalidad posterior. No decidir ninguno por conveniencia.
+- Reconciliar el nuevo canon de Corrado vivo con [[02_Characters/Chiara_Bellandi]], [[06_Relationships/Cole_y_Chiara]], [[03_Factions/Il_Consorzio]], [[03_Factions/Fuerza_de_Tarea_Meridian]], [[02_Characters/Ettore]], [[02_Characters/README]], [[12_Craft_Policies/revelations/SAGA_LEVEL]] y las formulaciones de los capítulos [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo|2]] y [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Corral|10]]. La corrección debe rediseñar la herida federal y la función de Ettore, no sustituir mecánicamente `murió` por `desapareció`.
+- Revisar la tutela Bellandi presupuesta para Riley en Italia en [[06_Relationships/Momentos_de_Fractura]] sin usar a Corrado ni a la familia para resolver por adelantado los documentos o el traslado de Elenna.
 - Expandir los 90 beats macro hacia beats medios por bloques de capitulo.
 - Marcar cada bloque con: poder / relacion / ciudad / consecuencia.
 - Detectar donde faltan escenas pequenas antes de Fase V.
