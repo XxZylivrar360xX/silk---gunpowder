@@ -22,6 +22,8 @@ No sabe que Dario es el jefe de la organización criminal dominante ni que orden
 
 Representa la medicina institucional y puede atender a Chiara en el atentado futuro de la iglesia. No reemplaza a [[02_Characters/Camila_Rivas]], cuya función es la medicina fuera del sistema.
 
-> **PENDIENTE:** cargo definitivo, primera aparición y razón concreta por la que está con Dario cuando Lucia llega a arrestarlo.
+> **PRIMERA APARICIÓN EJECUTADA (2026-08-29):** se adelanta desde el atentado de la iglesia — opera a Chiara en [[06_Relationships/Hitos]], H12 (Capítulo 10, "El corral"), una craniotomía descompresiva de urgencia tras el golpe en el hipódromo. Es quien fija el reloj de "tres días para ver cómo evoluciona" que organiza el resto del capítulo. Cole nota, sin decírselo a nadie, la ironía de que la hija de Dario le esté salvando la vida a Chiara sin saber nada del mundo de su padre.
+
+> **PENDIENTE:** cargo definitivo, y razón concreta por la que está con Dario cuando Lucia llega a arrestarlo.
 
 Ver también [[02_Characters/Dario_Varek]] y [[05_Locations/Hospital_Santa_Aurelia]].

@@ -2,7 +2,7 @@
 Estado: borrador provisional.
 Protagonistas: Chiara Bellandi, Cole Mercer, con apariciones de Dario Varek, Nadir Amrani, Hector Navarro y personal del hospital.
 Ventana temporal: dias despues del Capitulo 9 (la carrera de mascaras). Todavia no hay primer beso. Cierra con el traslado nocturno a la casa comun.
-Apertura recosida el 2026-08-29 (encargo PROMPT_CLAUDE_H9): el residuo ya no es "desde la noche del ladrillo Chiara empezo a evitar a Cole", sino carrera de mascaras -> se divirtio demasiado facil -> retrocede unos dias (no por arrepentimiento, por lo contrario) -> el calendario emocional (aniversario de Marta, homenaje de Alessio) la golpea -> termina queriendo oir la voz de Cole -> telefono en la mano con su nombre en pantalla -> el golpe. El cuerpo del capitulo, intacto. Microedicion 2026-08-29 (ENCARGO_CLAUDE_MICROEDICION): se podo la recapitulacion concreta de H9 (Peugeot, tienda, Kingsley, motor, antifaz) — la apertura arranca ya desde el residuo emocional, no desde el resumen del capitulo anterior.
+Apertura recosida el 2026-08-29 (encargo PROMPT_CLAUDE_H9): el residuo ya no es "desde la noche del ladrillo Chiara empezo a evitar a Cole", sino carrera de mascaras -> se divirtio demasiado facil -> retrocede unos dias (no por arrepentimiento, por lo contrario) -> el calendario emocional (aniversario de Marta, homenaje de Alessio) la golpea -> termina queriendo oir la voz de Cole -> telefono en la mano con su nombre en pantalla -> el golpe. El cuerpo del capitulo, intacto. Microedicion 2026-08-29 (ENCARGO_CLAUDE_MICROEDICION): se podo la recapitulacion concreta de H9 (Peugeot, tienda, Kingsley, motor, antifaz) — la apertura arranca ya desde el residuo emocional, no desde el resumen del capitulo anterior. Microedicion 2026-08-29 (ENCARGO_CLAUDE_TENSION_HOSPITAL): el golpe deja de ser "conmocion, dos o tres dias de observacion" y pasa a ser un hematoma que requiere cirugia de urgencia (craniotomia descompresiva) para estabilizar la hemorragia. Se introduce a Beatrice Varek como la neurocirujana que opera -- primera aparicion en prosa, adelantada desde su funcion original en el atentado futuro de la iglesia. Establece "tres dias para ver como evoluciona" como el reloj del resto del capitulo. La escena del turno de guardia se adelanta a la madrugada de la cirugia (justificada explicitamente por Cole contandoles lo raro del ataque, con ella sedada e indefensa) y la escena de "Chiara despierta" se mueve del "pasada la medianoche" original al tercer dia, ahora con dolor de cabeza real y con Cole insistiendo en que descanse en vez de resolver la coartada de inmediato. Se anade el giro de investigacion: Cole nota que el ataque esta armado con precision quirurgica para parecer accidente, y que la unica grieta es la llamada -- lo que lo deja entre dos conclusiones sin resolver: Dario organizo el ataque, o alguien mas tiene el mismo interes en dañar a Chiara.
 Lugares: Hipodromo del Monarch (propiedad del casino), Hospital Santa Aurelia, bahia de carga / tunel este del Monarch, parador de autopista al norte, Casa Comunitaria de La Almendra.
 Funcion: fusiona H12 y el arranque de H5 -- el ataque ocurre en el hipodromo del Monarch, no en Bellandi Ridge. Cole recibe una llamada desde el celular de ella, contestada por un desconocido que tantea su paradero y cuelga sin decir nada util. Buzon de voz al llamarla directo. Entra armado al Monarch (domingo, cerrado), lo recorre vacio, sube al penthouse, tambien vacio, ve las botas de montar y recuerda que ella monta los domingos. Baja al hipodromo (misma propiedad, no hace falta auto), encuentra a Vento suelto, la halla inconsciente junto al corral -- repite su nombre sin respuesta, la sube el mismo al Audi y la lleva al hospital (nunca llama ambulancia -- el conduce, siempre). Aqui se ve al soldado: calma entrenada por fuera, quiebre por dentro. Cole recoge el bolso antes que nadie y se guarda cartera y reloj: un asalto que perdona un reloj asi no se lo cree nadie. Investiga y secuestra sin exito a un sospechoso. Encanonamiento con Dario en el cuarto de hospital -- tregua. Cole omite la llamada, arma coartada. El dia del alta Cole la ayuda a alistarse y llega Dario a interrogarla; Chiara percibe la tregua ya firmada y se sube a la version en marcha. Dos grietas pequeñas -- "corral" vs "caballerizas", y si lo esperaba ese domingo -- que remiendan en vivo con una mentira conjunta pasable pero no creible. Dario anuncia "vigilancia" en el casino (proteccion y vigilancia son la misma palabra en su boca) y manda un hombre a seguir a Cole. Cole se ofrece a llevarla. En el camino Cole detecta un sedan gris siguiendolos: cuadran que ella entre por la bahia de carga (tunel este, bajo el puente del canal, la "salida de evacuacion" del Monarch) y salgan a pie por atras, fuera de la vista del espia. Van al norte, a un parador de autopista; aparcan y reconstruyen los hechos. Chiara estuvo a punto de nombrar el Consorcio y se detiene: solo dice que viejos enemigos o rivales de los socios estan plantando una bandera con el atentado, y que no quiere meter a Cole. Cole: "Yo ya estoy dentro contigo. ¿O como era? El es Cole Mercer, vengan a conocerlo." Chiara: "No. Pero tampoco me arrepiento." Ella pide un motel de paso; Cole se burla ("un motel, dice ella... tu vienes conmigo") y ella se queda con la lectura mas economica, la que le deja decir "solo esta vez". Llegan de madrugada a la casa comun; Cole le da el unico cuarto que no grita de quien es, le da su palabra de que ahi esta segura, ella baja la mirada y el la abraza -- la siente temblar porque entendio que ya no hay punto de retorno: lo que viene tras ella puede alcanzarlo ahora a el, no porque a eso le interese ella sino porque a ella le interesa el. Cierre: los muchachos la dejan quedarse; alguien pregunta por cuanto tiempo y Cole dice "lo necesario, hasta que ya no lo sea" -- se lo gano, porque a la familia no se le cobran favores y el nunca les dijo que no; pueden pelearle, dudar de el no. Nadir cumple como los demas y, como los demas, calla; pero es el unico que al decir que si no la mira a ella. El atacante no se identifica ni se sugiere.
 -->
@@ -115,11 +115,21 @@ Por dentro se estaba partiendo en dos, sosteniendo junto a él, en el asiento de
 
 ***
 
-En el Santa Aurelia le dijeron lo que sabían, que no era mucho. Un golpe en la nuca, uno solo, lo bastante fuerte para tumbarla y dejarla sin memoria de los minutos anteriores. Conmoción, dos o tres días de observación por precaución, nada roto, nada más.
+En el Santa Aurelia no hubo tiempo para explicaciones largas. Un golpe en la nuca, uno solo, pero lo bastante fuerte para abrir un sangrado dentro del cráneo — un hematoma que la tomografía mostró creciendo en tiempo real, empujando contra algo que no debía empujarse. La palabra que usó la médica de guardia fue *craniotomía descompresiva*, dicha rápido, sin dramatismo, como quien ya la ha dicho demasiadas veces para asustarse con ella.
+
+La cirujana se presentó como **Beatrice Varek** — bata blanca, el apellido cayendo sobre Cole como una moneda que tardó un segundo en reconocer, aunque la cara no se pareciera en nada a la de su padre. Le habló con la calma exacta de alguien acostumbrada a hablarle a hombres que están a punto de perder el control frente a ella.
+
+—Hay sangrado activo. Vamos a entrar, aliviar la presión y sacar lo que no debería estar ahí. Es una cirugía que hacemos seguido, y la hacemos bien. —Hizo una pausa, midiendo cuánto podía darle de golpe—. Pero no le voy a prometer nada sobre lo que pasa después. Necesitamos, como mínimo, tres días para ver cómo evoluciona. Antes de eso, cualquier cosa que le diga es una adivinanza con bata blanca.
+
+Cole firmó lo que había que firmar sin leerlo del todo, y se quedó con una sola pregunta clavada, que no hizo en voz alta: si la hija de Dario Varek operaba en ese hospital sin saber nada de lo que hacía su padre, qué otra cosa, en esa ciudad, tampoco sabía nadie.
 
 El bolso lo había levantado Cole del suelo de las caballerizas, antes que nadie. Para cuando una enfermera se sentó a inventariar lo que traía dentro, ya no había ahí nada que valiera la pena llevarse: la cartera y el reloj —que costaba más que la mayoría de los coches del barrio— iban en el bolsillo de su chaqueta, porque un asalto que perdona un reloj así no se lo cree nadie. La única pieza que de verdad faltaba era el teléfono, y ésa no la tenía él.
 
 Ya estaba armando la versión, sin haber decidido del todo armarla.
+
+La cirugía tomó tres horas. Cole las pasó en una sala de espera que olía a café quemado, sin sentarse más de un minuto seguido.
+
+Cuando por fin lo dejaron entrar, Chiara ya estaba en una habitación distinta — más máquinas, más cables, un vendaje que le cubría buena parte de la cabeza. Iba a seguir sedada, le dijeron, mientras el cuerpo decidía si el trabajo de Beatrice Varek había sido suficiente.
 
 Cole se sentó junto a la cama y no se movió de ahí en toda la noche. No porque alguien se lo pidiera.
 
@@ -203,33 +213,7 @@ Y se fue sin despedirse del todo.
 
 ***
 
-Chiara despertó pasada la medianoche, desorientada, con la clase de mirada de alguien que está reconstruyendo el mundo pieza por pieza y todavía no confía en el resultado.
-
-—No me acuerdo de nada. —Lo dijo primero en italiano, después se corrigió, molesta consigo misma—. Estaba cerrando el corral. Y después estaba aquí.
-
-—Está bien.
-
-—No está bien. —Se llevó una mano a la nuca y encontró el vendaje, y algo en su cara se endureció, como si el dolor físico le molestara menos que no tener una respuesta—. Alguien me golpeó en las caballerizas y no sé quién.
-
-Cole no le prometió que lo iba a averiguar. Prefería prometer cosas que pudiera cumplir.
-
-—Dario estuvo aquí —dijo, en cambio, en voz baja—. Le dije que estaba en el taller, que volví y te encontré así. Nada más.
-
-Chiara tardó un segundo en procesarlo, todavía con la cabeza pesada por los sedantes.
-
-—¿Te creyó?
-
-—No del todo.
-
-—Entonces tenemos que estar de acuerdo en la misma mentira.
-
-—Duerme —dijo—. Ya nos preocupamos de eso después. Yo me quedo.
-
-Ella lo miró un momento más de lo necesario, y por primera vez desde que Cole la conocía, no dijo nada ingenioso ni calculado. Sólo cerró los ojos.
-
-***
-
-Los turnos los organizó Cole mismo, la mañana siguiente, con la misma voz que usaba para repartir trabajo en el taller — no era una petición. Nadir el primero, después Omar, después Danny cuando Danny estaba en condiciones de sostener una conversación con una enfermera sin que resultara en un problema nuevo. Alguien tenía que quedarse con Cole en el cuarto 221, no porque Cole lo pidiera para sí mismo — nunca pedía nada para sí mismo — sino porque si no lo obligaban a bajar a comer o a bañarse, sencillamente no lo iba a hacer.
+Los turnos los organizó Cole mismo, esa misma madrugada, con la misma voz que usaba para repartir trabajo en el taller — no era una petición. Chiara seguía sedada, indefensa en un cuarto con una sola puerta, y lo que Cole les contó del golpe — sin forcejeo, sin testigos, un desconocido que llamaba desde el teléfono de ella horas después preguntando por sus costumbres de los domingos — bastó para que nadie discutiera la orden. Nadir el primero, después Omar, después Danny cuando Danny estaba en condiciones de sostener una conversación con una enfermera sin que resultara en un problema nuevo. Alguien tenía que quedarse con Cole en el cuarto 221, no porque Cole lo pidiera para sí mismo — nunca pedía nada para sí mismo — sino porque si no lo obligaban a bajar a comer o a bañarse, sencillamente no lo iba a hacer.
 
 —¿Y si tengo cosas que hacer? —preguntó Nadir, cruzado de brazos, sin decir que no.
 
@@ -261,13 +245,51 @@ Afuera, en el pasillo, Cole volvía con dos cafés de máquina, sin saber que se
 
 ***
 
+Chiara despertó de verdad al tercer día, casi a la hora exacta en que Beatrice Varek había dicho que empezarían a saber algo. Abrió los ojos despacio, con la clase de mirada de alguien que está reconstruyendo el mundo pieza por pieza y todavía no confía en el resultado.
+
+—No me acuerdo de nada. —Lo dijo primero en italiano, después se corrigió, molesta consigo misma—. Estaba cerrando el corral. Y después estaba aquí.
+
+—Está bien.
+
+—No está bien. —Se llevó una mano a la cabeza y encontró el vendaje, y algo en su cara se endureció, como si el dolor físico le molestara menos que no tener una respuesta—. Alguien me golpeó en las caballerizas y no sé quién. —Cerró los ojos un segundo, apretando los dientes—. Me duele la cabeza como si me la hubieran partido en dos.
+
+—Te la partieron casi en dos —dijo Cole—. Tuvieron que operarte.
+
+Chiara tardó un segundo en procesarlo, todavía con la cabeza pesada por los sedantes y por algo más profundo que los sedantes.
+
+—¿Operarme?
+
+—Descansa —dijo Cole—. De eso hablamos después, cuando estés mejor. Ahora sólo importa que sigas aquí.
+
+—Dario estuvo aquí —dijo, en cambio, un momento después, en voz baja—. Le dije que estaba en el taller, que volví y te encontré así. Nada más.
+
+—¿Te creyó?
+
+—No del todo.
+
+—Entonces tenemos que estar de acuerdo en la misma mentira.
+
+—Después —repitió Cole, con la firmeza tranquila de quien no va a ceder en esto—. Ya nos preocuparemos de eso cuando tengas la cabeza para sostenerlo. Ahora duerme. Yo me quedo.
+
+Ella lo miró un momento más de lo necesario, y por primera vez desde que Cole la conocía, no dijo nada ingenioso ni calculado. Sólo cerró los ojos.
+
+***
+
 Los días siguientes, entre los turnos que le compraban a Cole una hora aquí y otra allá para comer o dormir algo parecido a dormir, Cole siguió preguntando — con más cuidado esta vez, después de lo del guardia.
 
 Volvió al hipódromo y habló con quien no había podido detener esa primera noche: los otros mozos de cuadra, la mujer que llevaba la contabilidad del lugar, el par de veterinarios que rotaban las visitas. No había cámaras en las caballerizas — nunca las había habido, porque hasta ese domingo a nadie se le había ocurrido que hicieran falta. Revisó los accesos, buscando algo que no encajara, y encontró exactamente lo que esperaba encontrar: nada que sirviera.
 
 Con Dario mantuvo la tregua tal como habían quedado — le pasaba lo poco que encontraba, y Dario, por su parte, le confirmó que su propio hombre tampoco había sacado nada. Ninguno de los dos dijo en voz alta que no confiaba del todo en lo que el otro estaba compartiendo.
 
-La mañana del alta tuvo que aceptar lo que ya sabía: no había pista. La había buscado en todos los sitios donde sabía buscar, y todos los sitios estaban vacíos. Lo guardó, sin cerrarlo, de la misma manera en que guardaba todo lo que no podía arreglar todavía.
+Cuanto más juntaba, más se le acomodaba una idea que no le gustaba nada: todo estaba armado demasiado bien. Ni rastro, ni testigo, ni cámara, ni un solo cabo suelto en ningún sitio donde debería haber al menos uno — como si alguien hubiera diseñado el golpe entero para que, visto desde cualquier ángulo oficial, sólo pudiera leerse como un accidente. Un asalto que sale mal. Una caída. Mala suerte en un domingo vacío.
+
+Lo único que no encajaba con esa lectura era la llamada.
+
+Un ladrón no llama al novio de su víctima a preguntarle si sale mucho los domingos. Eso no era ruido ni casualidad — era alguien que necesitaba confirmar algo antes de actuar, o alguien que quería que Cole supiera, sin decírselo del todo, que esto no había sido un accidente en absoluto. La precisión de todo lo demás, sumada a esa sola grieta, sólo le dejaba dos caminos, y ninguno de los dos le gustaba: o Dario había organizado el golpe y la tregua era puro teatro, o había alguien más — alguien que Cole todavía no podía nombrar — con el mismo interés en hacerle daño a Chiara.
+
+No compartió ninguna de las dos ideas. Ni con Dario, que seguía siendo, oficialmente, su socio en esto. Ni con Chiara, que todavía no tenía la cabeza para cargar con una sospecha que no podía probar.
+
+La mañana del alta tuvo que aceptar lo que ya sabía: no había pista que lo resolviera del todo. La había buscado en todos los sitios donde sabía buscar, y todos los sitios estaban vacíos. Lo guardó, sin cerrarlo, de la misma manera en que guardaba todo lo que no podía arreglar todavía.
 
 ***
 
