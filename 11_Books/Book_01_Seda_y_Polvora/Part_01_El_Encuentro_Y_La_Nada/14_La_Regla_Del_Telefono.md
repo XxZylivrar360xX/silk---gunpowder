@@ -214,17 +214,17 @@ Marisol se abrazó las rodillas y no preguntó más.
 
 Levantaron el campamento el domingo después de comer. Cole revisó la explanada dos veces buscando lo que siempre se queda —una piqueta, un tenedor, un envoltorio— y encontró una piqueta.
 
-Bajando, pararon en una tienda de carretera que vendía gasolina, hielo y estanterías de cosas que nadie planea comprar. Marisol volvió del fondo con una taza de peltre azul, despostillada en el borde, con el nombre de un lago al que no habían ido pintado en la panza.
+Bajando, pararon en una tienda de carretera que vendía gasolina, hielo y estanterías de cosas que nadie planea comprar. Marisol volvió del fondo con un imán de refrigerador, una manzana roja de plástico brillante, con el nombre de un lago al que no habían ido pintado en una hoja diminuta.
 
-—Llévasela a tu amiga.
+—Llévaselo a tu amiga.
 
-—¿Por qué iba a llevarle una taza?
+—¿Por qué iba a llevarle un imán?
 
-—Porque es fea y vas a tener que explicarle por qué se la llevaste. —La dejó en el mostrador, al lado de las papas de Cole—. Y porque llevas dos días sin nombrarla y quiero ver cuánto te dura.
+—Porque es feo y vas a tener que explicarle por qué se lo llevaste. —Lo dejó en el mostrador, al lado de las papas de Cole—. Y porque llevas dos días sin nombrarla y quiero ver cuánto te dura.
 
-—No pienso comprar una taza.
+—No pienso comprar un imán.
 
-Cole pagó la taza.
+Cole pagó el imán.
 
 Marisol no dijo nada. Sonrió por la ventanilla los primeros kilómetros y tuvo el buen tino de no señalarlo.
 
@@ -244,7 +244,7 @@ Dejó a Marisol en la residencia con el sol ya bajo. Ella bajó la mochila, se c
 
 Se fue hacia el edificio sin mirar atrás, con la chaqueta de Michael que le quedaba grande y las mangas dobladas dos veces, y Cole esperó a verla entrar antes de arrancar.
 
-Estuvo de buen humor todo el camino. Puso música. Pensó en la taza, que iba en el asiento de al lado envuelta en una camiseta para que no se moviera, y en que iba a tener que aguantar que Chiara le preguntara de dónde había salido.
+Estuvo de buen humor todo el camino. Puso música. Pensó en el imán, que iba en la guantera envuelto en una servilleta para que no se rayara, y en que iba a tener que aguantar que Chiara le preguntara de dónde había salido.
 
 Sacó el teléfono de la guantera —Marisol se lo había devuelto al bajar— y lo encendió con el pulgar, sin mirarlo, mientras entraba a San Aurelio por el norte.
 

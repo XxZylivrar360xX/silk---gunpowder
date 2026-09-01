@@ -1822,7 +1822,9 @@ Aunque la casa fuera de él. Aunque el barrio fuera de él. Aunque los padres mu
 
 El doble fondo plantado en H14 y la caja de acero resistente al fuego protegen su contenido. Después del incendio pueden recuperar la caja ennegrecida y cubierta de hollín, pero intacta por dentro: sobreviven escrituras, contratos, documentos, armas, joyas, dinero de reserva y otros objetos que habían guardado ahí.
 
-**Esto no abarata el incendio.** Sobrevive lo que podía guardarse, tasarse, documentarse o protegerse. Se destruye lo que hacía hogar al loft: la estructura habitable, la mesa, la taza, la manta, los muebles, los objetos cotidianos y los recuerdos que quedaron expuestos. El contraste es parte del costo.
+**Esto no abarata el incendio.** Sobrevive lo que podía guardarse, tasarse, documentarse o protegerse. Se destruye lo que hacía hogar al loft: la estructura habitable, la mesa, la manta, los muebles, los objetos cotidianos y los recuerdos que quedaron expuestos. El contraste es parte del costo.
+
+> **PRESAGIO SIN NOMBRAR (2026-08-31):** esa misma mañana — horas antes del incendio, no durante — el imán de refrigerador con forma de manzana roja que Marisol le hizo comprar a Cole en el Capítulo 14 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_La_Regla_Del_Telefono]]) se despega solo de la puerta y cae. Se raja. Chiara lo levanta y se lo da a Cole; él dice que lo puede pegar. Lo pega. **La marca queda** — completo otra vez, pero partido. Nadie lo dice en voz alta, y no hace falta: para cuando llega la noche y ven el incendio, el lector ya vio la imagen que se repite. El imán no sobrevive el incendio como objeto especial — es un objeto cualquiera, roto y reparado esa misma mañana, que se pierde con todo lo demás. Su función es la escena en sí, no su supervivencia.
 
 ## 4. El penthouse otra vez
 
