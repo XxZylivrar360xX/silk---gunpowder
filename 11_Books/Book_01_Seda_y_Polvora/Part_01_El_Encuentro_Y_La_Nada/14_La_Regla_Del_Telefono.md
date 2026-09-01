@@ -136,11 +136,33 @@ Por la mañana caminaron arroyo arriba. Cole iba delante por costumbre hasta que
 
 —Por ahí se sube.
 
-—Ya sé que se sube. Arriba hay un prado con lupinos y quiero ver si todavía quedan. —Siguió sin esperarlo—. Es para una práctica. Tengo que contar plantas en una parcela tres veces al año y mandar los números. Suena aburrido y lo es, pero pagan.
+—Ya sé que se sube. Arriba hay un prado con lupinos y quiero ver si todavía quedan. Papá me traía aquí en esta época, cuando salían.
 
-—¿Eso estudias? ¿Contar plantas?
+Cole no dijo nada. Subió detrás de ella.
 
-—Entre otras cosas. —Le señaló, sin frenar, una mata baja al borde del camino—. Esa la trajo alguien de un jardín y ahora no la para nadie. Se come a las de aquí. Tu barrio tiene lo mismo, pero con gente.
+—¿Cómo va lo de derecho?
+
+—Sobreviviendo. —Marisol no bajó el ritmo—. Ya sólo me quedan seis meses antes de que empiecen las estadías, y ahí se acaba el margen para no saber nada de verdad.
+
+—¿Ya sabes dónde?
+
+—Todavía no. —Esquivó una raíz sin perder el paso—. La mamá de Sam, mi amiga de clase, es fiscal de distrito. Anda buscando becarios para el otoño. Si quedo ahí, sería aquí, en San Aurelio, no allá arriba.
+
+Cole tardó un segundo de más en contestar, y ella lo notó.
+
+—Podrías ser mi abogada —dijo, medio en broma, medio no.
+
+—¿Tuya?
+
+—Mía.
+
+Marisol se rió, corta y sin malicia.
+
+—No, gracias. El día que alguien te arreste de verdad vas a necesitar a alguien con más de seis meses de experiencia, no a una practicante que todavía confunde una moción con otra.
+
+—Tengo fe.
+
+—Guárdala para cuando de verdad la necesites. —Le señaló, sin frenar, una mata baja al borde del camino—. Esa la trajo alguien de un jardín y ahora no la para nadie. Se come a las de aquí. Tu barrio tiene lo mismo, pero con gente.
 
 La luz de la mañana le aclaró los ojos hasta volverlos casi ámbar. Las pecas le cruzaban la nariz y se le perdían hacia los pómulos.
 

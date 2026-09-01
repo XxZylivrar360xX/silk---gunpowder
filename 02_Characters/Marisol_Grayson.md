@@ -7,8 +7,8 @@
 
 **Nacionalidad:** pendiente (no se fija en el Cap. 14).
 **Edad al abrir la novela:** **veinte años (borrador Cap. 14)** — usada en prosa; el autor puede ajustarla.
-**Oficio:** estudiante universitaria; **carrera del área de ciencias ambientales / ecología de campo (borrador Cap. 14)** — hace prácticas pagadas contando plantas en parcelas tres veces al año. Elegida para darle competencia propia (sabe de monte más que Cole) y una vida que él no conoce del todo; sin confirmar.
-**Rol:** secundaria.
+**Oficio:** estudiante de derecho. **CAMBIO DE CARRERA (2026-08-29):** reemplaza la carrera de ciencias ambientales / ecología de campo del borrador original del Cap. 14 (ya corregido en prosa). Le quedan **seis meses antes de empezar las estadías**.
+**Rol:** secundaria — **con arco fijado a protagonista en Parte 3** (ver más abajo).
 **Alias:** pendiente.
 **Estado:** viva.
 
@@ -60,7 +60,7 @@ Lo que opera hoy:
 
 Ese último dato pesa: Cole la sacó del barrio. Le dio exactamente lo que a él nadie le dio — un sitio donde nadie sabe de dónde viene — y el precio es que casi no la ve.
 
-**Primera mención en página:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos|Capítulo 7]]. Cole le habla de ella a Chiara en el penthouse (le colgó el teléfono por decirle que no manejara de noche), con "una sonrisa que no era la del hombre de negocios". Es el beat que empieza a mover la empatía de Chiara.
+- **Primera mención en página:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos|Capítulo 7]]. Cole le habla de ella a Chiara en el penthouse (le colgó el teléfono por decirle que no manejara de noche), con "una sonrisa que no era la del hombre de negocios". Es el beat que empieza a mover la empatía de Chiara.
 
 En esa conversación, cuando Chiara le pregunta qué es él para Marisol, Cole lo minimiza: **"El que firma cosas. El que aparece si hace falta."** La frase es compatible con la conducta de la relación, que funciona como familia elegida con dinámica casi paternal, sin fijar una paternidad legal o adoptiva.
 
@@ -71,6 +71,26 @@ En esa conversación, cuando Chiara le pregunta qué es él para Marisol, Cole l
 - **Lo conoce de antes de Chiara.** Lleva semanas oyéndole decir "Chiara dijo…", "Chiara consiguió…", y ha notado el patrón. Junto al fuego lo hace tropezar con su propia insistencia en llamarla "amiga" y le pregunta si Chiara lo conoce **fuera del trabajo** — Cole evade ("Está aprendiendo"). No pregunta "¿te gusta?": pregunta si alguien más está viendo al hombre que hay debajo de las versiones.
 - **Michael sigue vivo entre ellos** sin volverse elegía: monta la tienda al modo de él, quema las alubias como él las quemaba, hereda "el cazo".
 - Al despedirse: "Saluda a tu amiga" / "Chiara. Dilo tú también alguna vez."
+
+---
+
+## Arco futuro — de recurrente a protagonista
+
+> **CANON DEL AUTOR (2026-08-29).** A partir del Capítulo 14, Marisol pasa a ser **personaje recurrente**, no solo mencionada.
+
+En esa misma escena queda sembrado el resto del plan:
+
+- Le quedan seis meses antes de empezar las **estadías en derecho**.
+- La madre de Sam, su amiga de clase, es **fiscal de distrito** y busca becarios para el otoño — si Marisol queda, sería en San Aurelio, lo que le permitiría ver a Cole (y aparecer en la novela) con mucha más frecuencia.
+- Cole le ofrece, medio en broma, que sea su abogada. **Ella rechaza** — no va a defender "al importantísimo señor Cole Mercer" con menos de seis meses de experiencia. Establece su carácter: prudente, consciente de sus límites, sin dejarse llevar por el cariño de Cole hacia decisiones que no está lista para tomar.
+
+**En Parte 2:** Cole compra un bufete, asociándose con otro abogado (personaje todavía sin crear).
+
+**En Parte 3:** ese socio se marcha, y **Marisol entra como abogada principal del bufete** — pasa de secundaria a **personaje protagónico**, representando a la gente de La Almendra en los conflictos legales y arrestos que les toquen. Es el pago narrativo de todo lo sembrado en el Capítulo 14: la carrera, los seis meses, la negativa a defender a Cole sin experiencia.
+
+> **PENDIENTE:** nombre y ficha del socio de Cole en el bufete (Parte 2), y la razón por la que se marcha. Nombre del bufete. Escena exacta en que Marisol toma el mando.
+
+**La graduación (2026-08-30):** al terminar las estadías, Cole lleva a Chiara como su acompañante a la graduación — uno de los momentos de mayor orgullo de su vida. Es el primer encuentro en persona entre Marisol y Chiara. La recogida ya está redactada en [[07_Ideas/La_Graduacion_De_Marisol]]; falta construir el resto.
 
 ---
 
@@ -106,7 +126,7 @@ Su sarcasmo lo aprendió de Cole por convivencia, pero no lo imita: en ella es m
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** edad exacta, carrera, universidad y relación cotidiana con Cole. **(Borrador Cap. 14: veinte años; carrera de ciencias ambientales / ecología de campo; universidad sin nombrar, a un par de horas de San Aurelio. A confirmar o ajustar por el autor.)**
+> **PENDIENTE:** edad exacta y universidad. **(Borrador Cap. 14: veinte años; universidad sin nombrar, a un par de horas de San Aurelio. A confirmar o ajustar por el autor.)** Carrera ya resuelta (2026-08-29): derecho, a seis meses de las estadías.
 
 > **PENDIENTE:** madre de Marisol y si Cole tiene alguna tutoría legal o sólo un rol familiar de hecho.
 

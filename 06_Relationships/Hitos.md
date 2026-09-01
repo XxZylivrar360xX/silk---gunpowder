@@ -2564,6 +2564,7 @@ Mientras San Aurelio los convierte en **La Mancuerna de Hierro y Seda**, ellos p
 - **La primera vela.** **Resuelta de diseño:** nace después de [[06_Relationships/Momentos_de_Fractura]], F4, el Año Nuevo en Washington. Falta escribir la escena exacta.
 - **~~La mudanza~~ — COLOCADA (2026-08-29):** es [[#H16 — El cumpleaños / la mudanza oficial]], el día del cumpleaños de Chiara, después de H7. Para estos dos, mudarse pesa más que casarse. Faltan los detalles de ejecución.
 - **Las clases de italiano** — canon obligatorio, porque H1 las cobra. Domésticas, repetidas, cómicas.
+- **La graduación de Marisol** — uno de los momentos de mayor orgullo de Cole, y el primer encuentro en persona entre Marisol y Chiara. Recogida ya redactada (boceto en [[07_Ideas/La_Graduacion_De_Marisol]]); falta la ceremonia, el encuentro y el cierre. Cae, como mínimo, bien entrada la Parte 2 (después de que Marisol complete sus estadías).
 - **La reparación** — Fase 5.
 
 > **PARCIALMENTE RESUELTO (2026-08-23):** los conflictos que hacen creer al lector que esto puede acabarse están diseñados en [[06_Relationships/Momentos_de_Fractura]]. Falta decidir cuáles entran como hitos numerados y en qué fase exacta caen.

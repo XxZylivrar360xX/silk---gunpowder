@@ -37,7 +37,7 @@ Se viste como si el día pudiera terminar debajo de un coche, porque normalmente
 
 ## Quién es
 
-Cole se define con una sola palabra, y sólo la ha dicho en voz alta una vez: **camaleón**. No es una pose. Es un mecanismo de supervivencia que instaló a los dieciséis años y ya no supo apagar: entra a una habitación, lee qué necesita esa habitación, y lo es. Con los del barrio es del barrio. Con los abogados es paciente y correcto. Con los militares es seco. Ninguna de esas versiones es falsa, y ése es el problema — Cole no está fingiendo. Está genuinamente disponible para volverse lo que haga falta, y a los treinta y un años ya no sabría decir qué queda cuando la habitación está vacía.
+Cole se define con una sola palabra, y sólo la ha dicho en voz alta una vez: **camaleón**. No es una pose. Es un mecanismo de supervivencia que instaló a los dieciséis años y ya no supo apagar: entra a una habitación, lee qué necesita esa habitación, y lo es. Con los del barrio es del barrio. Con los abogados es paciente y correcto. Con los militares es seco. Ninguna de esas versiones es falsa, y ése es el problema — Cole no está fingiendo. Está genuinamente disponible para volverse lo que haga falta, y a los cuarenta y un años ya no sabría decir qué queda cuando la habitación está vacía.
 
 Lo que sí es constante: **protege a los suyos por encima de todo, incluso de sí mismo.** No pide permiso para hacerlo. No lo negocia. Y no distingue bien entre proteger a alguien y decidir por alguien, que es la herida que la novela le va a abrir despacio.
 
