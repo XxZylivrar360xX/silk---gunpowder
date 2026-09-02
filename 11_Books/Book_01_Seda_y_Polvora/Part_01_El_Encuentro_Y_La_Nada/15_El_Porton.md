@@ -14,11 +14,11 @@ Cole llevaba diez minutos parado en el arcén con el motor encendido y el teléf
 
 Los mensajes habían entrado todos juntos al agarrar señal, y los leía en orden de abajo hacia arriba, que era el orden equivocado. El taller. Walt. Un número del hospital. Walt otra vez. Y las tres de Chiara, seguidas, sin nada escrito, sólo la llamada.
 
-El buzón tenía un mensaje de Walt, del día anterior, con la voz de quien lleva rato dejando la misma grabación:
+El buzón tenía un mensaje de Walt, del día anterior, con la voz de alguien que nunca en su vida le había tenido que hablar a una máquina:
 
-—Cole. Es Héctor. Le dio un infarto el sábado. Está estable, está en Santa Aurelia, pero llevamos dos días buscándote y ya no sé por dónde más. Llámame apenas oigas esto.
+—Cole. Eh... —silencio, un golpe seco contra el micrófono, como si buscara un botón que no encontraba—. No sé si esto ya está grabando o... —otro silencio, más largo, con algo de fondo que sonaba a Walt alejando el teléfono para mirarlo—. A ver. Cole, si me escuchas, es importante. Devuelve la llamada. —Un clic, un murmullo apagado, "¿ya? ¿le doy aquí?", y el buzón cortó solo.
 
-Cole lo escuchó dos veces. Después dejó el teléfono en el asiento, sobre la taza envuelta en la camiseta, y volvió a la carretera.
+Cole lo escuchó dos veces, sin sacar nada más la segunda vez que la primera. Después dejó el teléfono en el asiento, sobre el imán todavía envuelto en la servilleta, y volvió a la carretera.
 
 No llamó a Walt. Ya iba para allá.
 
@@ -78,7 +78,7 @@ No contestó. Volvió a llamar. Lo mismo.
 
 Se obligó a pensarlo despacio, como pensaba todo. ¿Dónde estaba? Fuera de la ciudad, había dicho, un día o dos. ¿Quién lo sabía? Llamó a Walt. Walt sabía más que ella y tampoco lo suficiente: Cole se había ido de campamento con Marisol, al norte, a alguno de los sitios de siempre, y no llevaba el teléfono encima — o lo llevaba apagado, que para el caso daba igual. Nadie tenía el punto exacto. Nadir no contestaba. Danny tampoco.
 
-Fue hasta el taller. Los muchachos ya sabían lo de Héctor. Le dijeron que Walt lo estaba buscando, que Héctor estaba estable, que Cole volvía el domingo, y que no valía la pena mandar a nadie a recorrer media montaña por algo que ya no era una emergencia. No les faltaba lógica.
+Fue hasta el taller. Garrett y Russ ya sabían lo de Héctor — Nadir y Danny seguían sin aparecer, y nadie en el taller preguntó por qué en voz alta. Le dijeron que Walt lo estaba buscando, que Héctor estaba estable, que Cole volvía el domingo, y que no valía la pena mandar a nadie a recorrer media montaña por algo que ya no era una emergencia. No les faltaba lógica.
 
 Le quedaba un canal, y era lento. Esa noche, en el penthouse, sacó su papel —el bueno, el que olía a lo que ella olía— y escribió lo que tenía que escribir. Al día siguiente pasó por la casa de Cole y metió el sobre por debajo de la puerta. Era el único lugar donde sabía, con certeza, que él iba a mirar.
 
@@ -96,7 +96,7 @@ Esta vez no había nada que descifrar.
 
 Ni una urgencia. Ni un *llámame*. Una carta dejada en el suelo de su casa por alguien que sabía dos cosas: que ese fin de semana no había forma de alcanzarlo, y que tarde o temprano él iba a cruzar esa puerta.
 
-Leyó la palabra *infarto* otra vez, aunque ya se la sabía de memoria del buzón de Walt. Se quedó con el papel en la mano más de lo necesario. Después volvió a agarrar las llaves.
+Leyó la palabra *infarto* dos veces, como si repetirla la fuera a volver más manejable. Se quedó con el papel en la mano más de lo necesario. Después volvió a agarrar las llaves.
 
 ***
 
