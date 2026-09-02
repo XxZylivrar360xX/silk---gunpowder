@@ -7,7 +7,7 @@ Funcion: ejecutar H11 — la primera vez que Cole y Chiara tienen intimidad. Bol
 Apertura por residuo (reescrita 2026-08-29, triaje PROSA-B): abre con el residuo del Capitulo 17 (H4, el dia nublado) — lo que Chiara le conto del exmarido, lo que Cole entendio sin que ella lo dijera y no ha vuelto a tocar, y la ficcion de "somos solo buenos amigos". Antes abria con el residuo de "Roma Atrii" (Cap. 13), que ya se recoge en el Cap. 14 (La regla del telefono) y el Cap. 15 (El porton). Ver [[06_Relationships/Hitos]], H11 y la politica de apertura por residuo.
 -->
 
-# Capítulo 18 — El mirador
+# Capítulo 19 — El mirador
 
 El día nublado no volvió a mencionarse entre ellos, pero tampoco se fue del todo.
 

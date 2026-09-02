@@ -38,6 +38,8 @@ Esa ubicación le da tres ventajas:
 
 **Regla visual:** El Patio no debe sentirse cinematográficamente secreto. Debe sentirse útil. Si alguien mira desde fuera, ve grúas, aceite, metal, perros, coches retenidos y gente trabajando. La organización está en la lectura de esos movimientos, no en un letrero.
 
+**Vestimenta — CANON DEL AUTOR (2026-09-01):** la camisa de leñador (franela a cuadros) es la prenda característica de La Almendra y de los miembros del Patio — se ve tanto en el taller como fuera de él. No es uniforme, es costumbre de barrio.
+
 ---
 
 ## Cómo Lo Llama Cada Quien

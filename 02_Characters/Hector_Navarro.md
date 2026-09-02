@@ -10,6 +10,8 @@
 **Estado:** vivo al abrir; muere durante Parte III, después de H1. Causa y colocación exactas pendientes.
 **Importancia:** tercer personaje del libro.
 
+**Apariencia — CANON DEL AUTOR (2026-09-01):** americano, tez caucásica. Pelo cano/gris, abundante y poco arreglado. Viste camisas de leñador — su prenda fija, dentro y fuera del taller.
+
 ---
 
 ## Quién es, con lo poco que hay

@@ -6,7 +6,7 @@ Lugares: Hospital Santa Aurelia.
 Funcion: ejecutar la segunda mitad de H10 — las dos conversaciones de Hector (con Chiara y con Cole) y el cierre: la mano sobre la mano.
 -->
 
-# Capítulo 16 — Cuatro letras
+# Capítulo 17 — Cuatro letras
 
 Para cuando Cole volvió, Chiara ya conocía el camino al cuarto de Héctor de memoria.
 

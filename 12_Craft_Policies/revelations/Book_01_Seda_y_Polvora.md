@@ -83,7 +83,9 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 
 > **PENDIENTE (decision del autor):** en que capitulo Blake descubre de quien es el coche, si es que lo descubre. Tres opciones sobre la mesa, ninguna elegida: (a) nunca — Blake sale de la novela sin enterarse, y la ironia se queda como privilegio del lector; (b) en el corte con Chiara, como el detalle que le confirma que siempre estuvo compitiendo con alguien a quien ni siquiera podia ver; (c) tarde, ya como policia despechado, donde el dato deja de ser chiste y se vuelve municion — [[06_Relationships/Hitos]] linea 562 ya pregunta si Blake vuelve, y esa pieza cargada se conecta con esta. Hasta que el autor elija, no sembrar mas pistas: con las dos que hay alcanza para cualquiera de las tres salidas.
 
-- **Estado:** sembrado; pago pendiente de decision.
+- **Estado (actualizado 2026-09-01):** primer pago parcial escrito en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_Auster|Capítulo 14, *Auster*]]. La policía (Lucía Varek, subjefa) construye un caso formal contra el conductor del Peugeot con dos sospechosos: Rafael "Rafe" Domínguez ([[03_Factions/Los_Bravos_de_Santa_Brigida]]) y Cole. Chiara arma la verdad completa cruzando tres piezas de su red y siembra duda razonable (un corredor de piezas del norte que paga en efectivo). El caso se cae; Cole declara con una coartada real a medias. **Blake sigue sin enterarse — las tres opciones de arriba siguen abiertas.** Rafe Domínguez queda cargando la sospecha sin resolver, sin que nadie salde esa deuda todavía — costo pendiente, no gratis.
+
+> **Primera alarma aislada (añadida 2026-09-02):** en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/13_Roma_Atrii|Capítulo 13]], antes del caso formal, un hombre no identificado pregunta en el piso del Monarch por "un Peugeot rojo, tuneado" — paga en efectivo, no juega una sola mano, se va. Es lo que le da a Chiara la urgencia para mandar el papel con el mensajero menor en vez de esperar a la noche. **PENDIENTE:** si este hombre es el mismo caso que arma Lucía Varek semanas después (un explorador temprano) o un hilo distinto sin resolver — no confirmar sin decisión del autor.
 
 ---
 
@@ -106,9 +108,19 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 ## El codigo "Roma Atrii"
 
 - **Que es:** frase en latin que Chiara usa como firma/codigo en notas escritas a mano, entregadas a traves de una cadena de intermediarios ([[02_Characters/Kenji_Oda]], mensajeros de la calle) para que nadie pueda atarlas a ella si se interceptan. Significado literal (ROMA es AMOR al reves; ATRII es "patio" en genitivo latino) no revelado todavia — ni al lector en voz de ningun personaje, ni a Cole.
-- **Se siembra en:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/13_Roma_Atrii]] — un chico de la calle busca a "Roma Atrii" como si fuera una persona; Cole reconoce la letra y el papel, no el significado. Se recoge en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_La_Regla_Del_Telefono]] (Cap. 14, apertura: el papel sigue sin abrir sobre la repisa) y reaparece en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/15_El_Porton]] (Cap. 15) cuando Cole reconoce el mismo papel en una carta abierta, sin codigo esta vez.
+- **Se siembra en:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/13_Roma_Atrii]] — un chico de la calle busca a "Roma Atrii" como si fuera una persona; Cole reconoce la letra y el papel, no el significado. Se recoge en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/15_La_Regla_Del_Telefono]] (Cap. 15, apertura: el papel sigue sin abrir sobre la repisa) y reaparece en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/16_El_Porton]] (Cap. 16) cuando Cole reconoce el mismo papel en una carta abierta, sin codigo esta vez.
 - **Quien ya lo sabe:** solo Chiara.
 - **Quien NO debe saberlo/insinuarlo todavia:** Cole no sabe italiano ni latin en este punto del libro, asi que el nombre no le dice nada — solo le suena raro. El lector tampoco debe saberlo todavia; ver [[02_Characters/Chiara_Bellandi]], "Las cartas", para el arco reservado del autor sobre este hilo.
 - **Lineas o gestos prohibidos:** que Chiara traduzca o explique el codigo antes de que el autor decida el momento. Que un tercero lo traduzca por casualidad o coincidencia.
 - **Pago fijado:** cumpleanos de Chiara, 23 de noviembre — ver [[06_Relationships/Hitos]] y [[07_Ideas/El_Chico_Del_Patio]]. Contenido exacto de la revelacion todavia sin decidir.
 - **Estado:** sembrado en dos capitulos; significado y forma exacta de la revelacion PENDIENTES de decision del autor.
+
+---
+
+## El dato del engano investigativo (Marisol)
+
+- **Que es:** en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/15_La_Regla_Del_Telefono|Capitulo 15]] (ampliacion 2026-09-02), Marisol le cuenta a Cole, como dato curioso de su clase de Evidencia, que la policia puede mentir legalmente sobre las pruebas que tiene durante un interrogatorio ("engano investigativo"), y que la unica defensa real es pedir un abogado y callarse. Cole lo guarda sin decir para que.
+- **Se siembra en:** Capitulo 15, escena de la caminata dominical, justo despues del chiste de "podrias ser mi abogada".
+- **Nota de continuidad:** ocurre DESPUES, en la cronologia interna, de que Cole ya paso por su propio interrogatorio con Lucia Varek en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_Auster|Capitulo 14 (Auster)]] — el lector puede notar la ironia de que Cole preste mas atencion de la que admite; no explicar la conexion en prosa.
+- **Pago pendiente:** una situacion dificil futura donde Cole (o alguien a quien el aconseja) use exactamente este consejo — pedir abogado y callarse — en vez de caer en el engano. No colocar todavia sin decision del autor.
+- **Estado:** sembrado, sin pagar.

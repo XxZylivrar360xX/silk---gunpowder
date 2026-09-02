@@ -21,6 +21,12 @@ Clima: sol seco casi todo el año, niebla marina de madrugada que borra las call
 
 ---
 
+## Textura cultural — CANON DEL AUTOR (2026-09-01)
+
+San Aurelio es una ciudad ficticia de Estados Unidos. Puede incorporar cultura latina, incluida la mexicana, con toda naturalidad — pero **debe predominar la vibra de barrio americano/latino**, no un barrio mexicano trasplantado. La Almendra sujeta gente y calles con esa mezcla: apellidos, comida, código de barrio y una historia de inmigración que conviven con lo que ya es propiamente estadounidense desde hace generaciones. No convertir la ambientación en un genérico latinoamericano; el barrio se lee primero como americano.
+
+---
+
 ## Los barrios
 
 > **PENDIENTE:** este mapa es un esqueleto. Cada zona necesita ficha propia en `05_Locations/` antes de que ocurra una escena importante ahí (regla 6 de [[00_Biblia/Principios_Narrativos]]).

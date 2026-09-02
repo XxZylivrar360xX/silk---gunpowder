@@ -72,6 +72,8 @@ En esa conversación, cuando Chiara le pregunta qué es él para Marisol, Cole l
 - **Michael sigue vivo entre ellos** sin volverse elegía: monta la tienda al modo de él, quema las alubias como él las quemaba, hereda "el cazo".
 - Al despedirse: "Saluda a tu amiga" / "Chiara. Dilo tú también alguna vez."
 
+**Ampliación (2026-09-02), misma escena:** compite con Cole tirando piedras en el arroyo (le gana seis a cuatro) y de paso menciona a **Diego**, un compañero de su clase de Evidencia que le lleva café — Cole se pone protector sin decirlo, y Marisol lo disfruta. Comparte un dato de su clase sobre **engaño investigativo** (la policía puede mentir sobre las pruebas que tiene en un interrogatorio; la única defensa real es pedir un abogado) — Cole lo guarda sin decir para qué (sembrado para pago futuro, ver ledger). Al mediodía pregunta por **la casa recomprada de los papás de Cole** (se enteró por Héctor) y él le dice que puede ir cuando quiera; comparten, sin caer en elegía, cuánto extrañan a Michael. Esa noche, junto al fuego, a Cole se le escapa una palabra en italiano ("dai") sin darse cuenta al quemarse un dedo — Marisol lo cacha de inmediato: "En serio te gusta, ¿eh? Para que hayas aprendido italiano." Cole le resta importancia en voz alta y le da la razón por dentro.
+
 ---
 
 ## Arco futuro — de recurrente a protagonista

@@ -40,7 +40,9 @@ Fue a buscarla a la Almendra.
 
 ***
 
-La Esquina de Mabel olía a café recalentado y a algo dulce horneándose atrás. Chiara entró con el pretexto de un termo de café — el suyo, dijo, se había echado a perder — y Mabel la miró como quien ya sabe que el pretexto es pretexto y decide, de todos modos, no hacer preguntas.
+La Esquina de Mabel olía a café recalentado y a algo dulce horneándose atrás. Dos hombres mayores ocupaban la mesa del rincón, jugando dominó sin apostar en voz alta; una radio vieja repetía boleros que nadie subía ni bajaba de volumen. Era el tipo de lugar que no necesitaba pedir silencio para conseguirlo.
+
+Chiara entró con el pretexto de un termo de café — el suyo, dijo, se había echado a perder — y Mabel la miró como quien ya sabe que el pretexto es pretexto y decide, de todos modos, no hacer preguntas.
 
 —Siéntate. Te doy uno de verdad.
 
@@ -63,6 +65,12 @@ Eso sí la hizo mirarla.
 Mabel puso la taza frente a ella y se limpió las manos en el delantal, sin prisa, como si estuviera decidiendo cuánto valía la pena contar.
 
 —Salió de prisión hace poco. Diez años. Se los debe al Tasador, aunque eso no te lo va a decir nadie con esas palabras. —Bajó la voz, no por miedo, sino por costumbre—. Conocía al padre de Cole. Conoció a Cole de niño. Si le preguntas a los viejos de aquí, te van a decir que Walt Keegan es de los pocos que le puede decir que no a cualquiera y que nadie se atreve a contradecirlo.
+
+Mabel dejó de limpiar la barra a la mitad del gesto, el trapo quieto sobre la madera. Chiara lo notó antes que la pausa en la voz.
+
+—¿Le debe algo más que dinero?
+
+—Le debe diez años que no va a recuperar. —Mabel volvió a mover el trapo, como si necesitara las manos ocupadas para terminar la frase—. Eso no se cobra con nada que el Tasador sepa contar.
 
 —¿Es peligroso?
 
@@ -90,9 +98,13 @@ Walt Keegan llegó sin traje.
 
 Llevaba una chaqueta que había visto mejores años y una camisa planchada por alguien que se había tomado el trabajo, y caminó hasta su mesa sin mirar el techo ni las lámparas ni nada de lo que el Monarch quería que mirara. Se sentó como quien se sienta en su propia cocina.
 
+Desde la mesa de blackjack, Tommaso levantó la vista un segundo — el tiempo justo para confirmar que el hombre de la lista había llegado y que no valía la pena seguir mirando — y volvió a las cartas.
+
 Chiara lo observó desde el borde del piso, donde podía ver las cuatro mesas sin que nadie la viera mirar ninguna en particular.
 
 Perdió la segunda mano con una cara que no cambió en absoluto.
+
+Un joven de traje más caro que su fortuna se inclinó hacia adelante, buscando algo en los ojos de Walt que le confirmara el farol. No encontró nada. Se retiró de la mano con el dinero adentro y una arruga nueva en la frente que no tenía cuando se sentó.
 
 Ganó la tercera con la misma cara.
 
@@ -128,6 +140,12 @@ Chiara no contestó enseguida. Había algo en la frase que no pedía respuesta.
 
 Ella sonrió, la sonrisa corta que reservaba para la gente que no necesitaba que la administrara.
 
+Walt la miró un momento de más, como quien reconoce un gesto en otra persona sin poder ubicar dónde lo vio antes.
+
+—Se sienta como él —dijo, sin explicar quién.
+
+Chiara no preguntó. Ya sabía la respuesta, y preguntarla habría sido pedir un favor que no necesitaba.
+
 —¿Y qué va a hacer con lo que gane?
 
 Walt se recostó en la silla.
@@ -137,6 +155,10 @@ Walt se recostó en la silla.
 —¿Una destilería?
 
 —Todavía no lo llamo así en voz alta. Da mala suerte ponerle nombre a algo antes de tenerlo.
+
+—¿Cuánto necesita?
+
+—Lo que tengo, más lo de esta noche, más paciencia. —Se encogió de hombros, sin ninguna prisa por parecer necesitado—. No pienso pedirle nada a nadie. Ya pasé diez años debiendo algo que no debía.
 
 Chiara miró la mesa, las fichas, la cara que Walt no cambiaba ni ganando ni perdiendo, y pensó en el casino: en cuánto licor compraba cada mes, en cuánto de eso llegaba con margen para terceros que no eran ni honestos ni locales.
 
@@ -149,6 +171,8 @@ Walt la miró con algo parecido a la sorpresa, aunque en su cara la sorpresa se 
 —No lo hago por un desconocido. —Chiara se puso de pie, alisándose la falda con un gesto que no admitía réplica—. Lo hago por el hombre que Mabel me describió sin necesitar exagerar nada.
 
 Se fue antes de que Walt pudiera decidir si eso había sido un cumplido.
+
+Desde la mesa de blackjack, Tommaso la vio alejarse del hombre que había marcado para no perder su tiempo. No dijo nada. Se lo guardó, como guardaba todo lo que no sabía todavía cómo iba a costarle.
 
 Ganó la ronda final veinte minutos después, con la misma cara.
 
@@ -180,6 +204,8 @@ Algo en la cara de Cole se aflojó, apenas, de una manera que Chiara ya empezaba
 
 —Es cierto.
 
+—Tommaso lo había marcado para "verificar solvencia". —Dijo el nombre con el desprecio exacto que merecía, ni un gramo más—. Como si un hombre así necesitara que alguien lo verificara.
+
 —Le ofrecí comprarle el licor cuando tenga su destilería.
 
 Cole la miró un momento largo.
@@ -187,6 +213,8 @@ Cole la miró un momento largo.
 —Ni siquiera lo conocías hace seis horas.
 
 —No necesitaba conocerlo. —Chiara cerró los ojos, dejando que el cansancio de la noche le pesara por fin en los hombros—. Necesitaba a alguien que lo conociera de verdad. El resto lo vi yo misma.
+
+Se tocó el anular izquierdo sin darse cuenta. No era el torneo. Era la manera en que Walt la había mirado, como si llevara reconociéndola desde antes de conocerla.
 
 Cole no dijo nada más. Se sentó a su lado, cerca, sin tocarla todavía, y por un momento los dos dejaron que el silencio hiciera el trabajo que ninguna frase habría hecho mejor.
 

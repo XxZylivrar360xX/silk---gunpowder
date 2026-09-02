@@ -8,7 +8,7 @@ Apertura por residuo: profundiza el cierre del Capitulo 16 (la mano sobre la man
 Confirmado por el autor (2026-08-29): esta escena ES "el dia nublado" que menciono el autor; la respuesta sobria de Cole a la pregunta de matar queda fijada (no se adelanta el registro de "soy la muerte caminando", que es H1); Blake Stanton ya esta fuera del cuadro y no se menciona; el campo de golf no lleva ficha y la propiedad de Cole queda vaga a proposito (chiste). Ver [[06_Relationships/Hitos]] #H4, seccion Pendientes.
 -->
 
-# Capítulo 17 — El día nublado
+# Capítulo 18 — El día nublado
 
 Lo que se le quedó a Cole del hospital no fue el infarto de Héctor. Fue una frase.
 

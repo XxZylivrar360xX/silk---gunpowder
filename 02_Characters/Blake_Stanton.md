@@ -52,6 +52,8 @@ En [[06_Relationships/Hitos]], H3-a, presume sus habilidades al volante y la inf
 
 > **PENDIENTE:** ¿vuelve? Un policía despechado con acceso a Chiara es la clase de pieza que este libro debería cobrar.
 
+> **DISEÑO (2026-09-01), escrito en el Capítulo 13 (*Roma Atrii*):** después de H3-a, Blake tiene un romance breve con una recepcionista del Departamento que termina mal — ella lo deja, y él se lo toma peor de lo que admitiría en voz alta. Chiara se entera por Mabel, como chisme de barra, sin certeza confirmada todavía. Primer hilo hacia el PENDIENTE de arriba: un Blake despechado dos veces (Chiara, y ahora esto) es material acumulado, no usado aún.
+
 > **RESUELTO (2026-08-23):** su lugar en el Departamento es patrulla/tránsito. Funciona cerca de controles, persecuciones, orgullo al volante y escenas donde la policía llega primero, no como detective del caso central.
 
 ---

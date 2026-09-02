@@ -3,12 +3,12 @@ Estado: borrador provisional.
 Protagonistas: Cole Mercer, Marisol Grayson.
 Ventana temporal: el fin de semana inmediatamente anterior al infarto de Hector / H10. Se inserta entre el Capitulo 13 (Roma Atrii) y el Capitulo 15 (El porton).
 Lugares: La Casa (loft de Cole), la universidad / residencia de Marisol, carretera y camino de tierra al norte, zona de campamento en las montanas, tienda de carretera, regreso a San Aurelio.
-Funcion: capitulo puente / beat de familia. Presentar a Marisol en escena; mostrar por conducta la relacion casi paternal con Cole; explorar "la amiga Chiara" desde alguien que conoce a Cole de antes de Chiara; justificar por caracter (la regla del telefono, heredada de Michael) que Cole quede incomunicado durante el infarto de Hector; cerrar con las llamadas perdidas que abren H10.
-Sin ID de hito. En este punto Cole y Chiara ya tienen vinculo emocional pero TODAVIA NO se han besado; oficialmente son "buenos amigos". Michael Grayson aparece solo por conducta (una regla, un nudo de tienda, un cazo), nunca como elegia.
+Funcion: capitulo puente / beat de familia. Presentar a Marisol en escena; mostrar por conducta la relacion casi paternal con Cole; explorar "la amiga Chiara" desde alguien que conoce a Cole de antes de Chiara; justificar por caracter (la regla del telefono, heredada de Michael) que Cole quede incomunicado durante el infarto de Hector; cerrar con las llamadas perdidas que abren H10. Version expandida (2026-09-02): mas cuerpo y aventura para el fin de semana -- competencia de piedras en el arroyo con mencion de un compañero de clase (Diego) que le lleva cafe; dato curioso de derecho (engaño investigativo en interrogatorios) que Cole guarda sin decir para que, sembrado para pago futuro; escena de mediodia donde Marisol pregunta por el loft/la casa recomprada y comparten, sin caer en elegia, cuanto extrañan a Michael; broma nueva donde a Cole se le escapa una palabra en italiano ("dai") sin darse cuenta y Marisol lo cacha -- "en serio te gusta, para que hayas aprendido italiano" -- el le resta importancia en voz alta y le da la razon por dentro.
+Sin ID de hito. En este punto Cole y Chiara ya tienen vinculo emocional pero TODAVIA NO se han besado; oficialmente son "buenos amigos". Michael Grayson aparece solo por conducta (una regla, un nudo de tienda, un cazo, una casa), nunca como elegia.
 Apertura por residuo: arranca del cierre del Capitulo 13 — el papel de "Roma Atrii" sin abrir sobre la repisa y la promesa de Chiara de traer ella misma lo que tenga que llegarle.
 -->
 
-# Capítulo 14 — La regla del teléfono
+# Capítulo 15 — La regla del teléfono
 
 El papel seguía sobre la repisa, doblado en cuatro, donde llevaba semanas sin que Cole lo tirara ni lo abriera. *Roma Atrii*, arriba del todo, en la letra que ya se sabía de memoria sin haber querido aprenderla. Lo miró un segundo de más mientras cerraba el bolso, decidió otra vez que no era el día, y salió con la casa a medio ordenar.
 
@@ -116,6 +116,50 @@ La tienda le llevó tres intentos. La primera vez quedó torcida y la desarmó. 
 
 Cole probó un viento con el pie y no contestó.
 
+***
+
+El arroyo, flaco de agosto, tenía un tramo de piedras planas que Marisol reconoció antes que Cole.
+
+—Aquí competíamos —dijo, ya agachándose a buscar una piedra del tamaño correcto—. Papá ganaba casi siempre. Yo gané dos veces en mi vida, y las dos veces él dijo que había tenido el sol en contra.
+
+—¿Y ahora?
+
+—Ahora te toca perder a ti.
+
+No perdió por cortesía. Perdió porque Marisol tiraba con una muñeca que Cole no recordaba haberle enseñado y que evidentemente no necesitaba que nadie le enseñara. La piedra de ella rebotó seis veces contra las cuatro de la mejor tirada de él, y Marisol levantó los brazos como si acabara de ganar algo de verdad.
+
+—Seis, Cole. Seis.
+
+—Fue suerte.
+
+—Fue técnica. La tuya fue suerte cuando llegó a cuatro.
+
+Se sentaron un rato en las piedras grandes de la orilla, con los pies casi en el agua, sin apuro por volver a montar nada.
+
+—Hay un chico en Evidencia que me trae café todas las clases —dijo Marisol, de la nada, mirando el agua y no a él—. Ni se lo pido.
+
+Cole no cambió la cara, pero algo en la espalda se le enderezó un centímetro.
+
+—¿Qué chico?
+
+—Un chico. Se llama Diego. —Se encogió de hombros, disfrutando visiblemente el efecto—. No es nada. Trae café porque es amable, no porque yo le dé cuerda.
+
+—¿Y tú qué haces?
+
+—Me lo tomo. Es café gratis, Cole, no una propuesta de matrimonio.
+
+—¿Sabe hacer algo más que traer café?
+
+—Ahí está. —Marisol lo señaló con la piedra que tenía en la mano, sonriendo—. Ese tono. Ese es el tono de "voy a investigarlo".
+
+—No voy a investigar a nadie.
+
+—Vas a preguntarle a Walt si conoce a algún Diego en la universidad, y Walt no va a saber nada, y de todos modos te vas a quedar más tranquilo. Te conozco.
+
+Cole no lo negó, que para Marisol fue confirmación suficiente.
+
+***
+
 La cena fue salchichas y una lata de alubias que se pegó al fondo del cazo porque estaba pendiente de la parrilla y no del fuego. Rascó lo de arriba, que servía, y tiró lo de abajo, que no.
 
 —Tu papá quemaba esto igual —dijo—. Exactamente igual. Se distraía mirando si la carne ya estaba y perdía las alubias todas las veces.
@@ -164,13 +208,89 @@ Marisol se rió, corta y sin malicia.
 
 —Guárdala para cuando de verdad la necesites. —Le señaló, sin frenar, una mata baja al borde del camino—. Esa la trajo alguien de un jardín y ahora no la para nadie. Se come a las de aquí. Tu barrio tiene lo mismo, pero con gente.
 
+—¿Qué es lo más raro que te han enseñado hasta ahora? —preguntó Cole, más para cambiar de tema que otra cosa.
+
+Marisol lo pensó de verdad, no como pregunta de cortesía.
+
+—Que la policía puede mentirte en un interrogatorio. Sobre las pruebas que tiene, sobre lo que ya confesó tu cómplice, sobre lo que sea. Es legal. Se llama engaño investigativo, y la mitad de las confesiones falsas del país salen de ahí — gente que cree que ya lo tienen todo y prefiere admitir algo que no hizo antes que seguir esperando lo peor.
+
+—¿Y cómo se defiende alguien de eso?
+
+—No se defiende. Se calla. —Saltó una piedra del camino sin mirarla—. El profesor lo repite como mantra: si alguna vez te interrogan de verdad, lo único que tienes que decir es que quieres un abogado. Todo lo demás es teatro, y el teatro está diseñado para que pierdas.
+
+Cole guardó eso en algún lugar sin decir para qué, con la misma costumbre con la que guardaba una pieza que todavía no sabía si iba a necesitar.
+
 La luz de la mañana le aclaró los ojos hasta volverlos casi ámbar. Las pecas le cruzaban la nariz y se le perdían hacia los pómulos.
 
 Cole subió detrás de ella pensando en eso más de lo que esperaba.
 
 ***
 
-Esa noche, con el fuego ya bajo y la segunda tanda de alubias mejor cuidada que la primera, Marisol dejó pasar un silencio largo y lo rompió sin levantar la vista.
+Volvieron al campamento pasado el mediodía, con hambre y las piernas cansadas del desnivel. Cole armó sándwiches en la mesa plegable mientras Marisol se sentaba a limpiarse las botas de barro seco.
+
+—Héctor me contó que recompraste la casa —dijo, sin levantar la vista de la bota—. La de tus papás.
+
+Cole le pasó un sándwich sin comentar cómo se había enterado. Con Héctor, esas cosas viajaban solas.
+
+—Chiara la diseñó —dijo, al final—. Doble altura, un mezzanine, cocina que sí funciona.
+
+—¿Puedo verla alguna vez?
+
+—Cuando quieras.
+
+—¿En serio, o es un "cuando quieras" de los tuyos que en realidad significa "nunca lo vamos a agendar"?
+
+—En serio.
+
+Marisol masticó un momento, mirando el arroyo.
+
+—Es raro pensar en esa casa con gente adentro otra vez. —Lo dijo sin darle peso de más, como quien deja caer algo que lleva un rato cargando—. Papá decía que ustedes dos, tú y Héctor, eran los únicos del barrio que todavía se acordaban de cómo era antes de que se pusiera fea.
+
+—La memoria no es tan generosa como la hace sonar tu papá.
+
+—Él tampoco era tan generoso. —Sonrió, corto—. Lo extraño, ¿sabes? No todo el tiempo. Pero sí en momentos como éste. Este lugar era suyo antes que nuestro.
+
+Cole no contestó enseguida. Miró el fuego apagado de esa mañana, todavía humeando un poco.
+
+—Yo también lo extraño —dijo al final, sin adornarlo—. Más de lo que esperaba.
+
+—¿Por qué más de lo que esperabas?
+
+—Porque no pensé que me iba a quedar tan poca gente que me conociera de antes. —Se limpió las manos en el pantalón—. Y él era de los pocos.
+
+Marisol no dijo nada. Se acercó lo suficiente para apoyar el hombro contra el de él, sin abrazo, sin declaración, el tipo de contacto que Cole sabía recibir sin ponerse rígido.
+
+Se quedaron así un rato, comiendo despacio, sin apuro por llenar el silencio con nada más.
+
+***
+
+Esa noche, con el fuego ya bajo y la segunda tanda de alubias mejor cuidada que la primera, Cole se quemó los dedos moviendo un leño y siseó algo por lo bajo, una sola palabra, rápida, que no era en español ni en inglés.
+
+Marisol levantó la cabeza de golpe.
+
+—¿Qué fue eso?
+
+—Nada.
+
+—Eso no fue nada. Eso sonó a idioma.
+
+—Me quemé el dedo, Marisol.
+
+—Dijiste algo. —Se enderezó, ya sin dejarlo ir—. Dijiste "dai". Eso es italiano.
+
+—No dije nada.
+
+—Cole. —Lo señaló con el palo que usaba para atizar el fuego, como si fuera prueba suficiente—. En serio te gusta, ¿eh? Para que hayas aprendido italiano sin darte cuenta.
+
+—No aprendí italiano.
+
+—Aprendiste una palabra. Y no te diste cuenta de que la dijiste, que es peor. —Se rió, la risa corta y feliz que a Cole todavía le costaba no contagiarse—. Eso no pasa por trabajar juntos, Cole.
+
+Cole se chupó el dedo quemado y no contestó, que para Marisol fue, otra vez, confirmación suficiente.
+
+Le restó importancia en voz alta y le dio la razón por dentro, en el mismo segundo, sin decírselo a nadie.
+
+Marisol dejó pasar un silencio largo y lo rompió sin levantar la vista.
 
 —¿Y tu amiga?
 

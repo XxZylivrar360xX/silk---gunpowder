@@ -8,7 +8,7 @@ Causalidad corregida el 2026-08-29 (encargo [[98_Agent_Handoff/ChatGPT/PROMPT_CL
 Apertura por residuo: arranca del cierre del Capitulo 14 — Cole orillado, el telefono encendido y las llamadas perdidas cayendo de golpe.
 -->
 
-# Capítulo 15 — El portón
+# Capítulo 16 — El portón
 
 Cole llevaba diez minutos parado en el arcén con el motor encendido y el teléfono en la mano.
 

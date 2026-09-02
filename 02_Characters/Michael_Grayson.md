@@ -60,6 +60,7 @@ En [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_La_Regla_
 - **El campamento como costumbre.** Cole y Marisol tienen un sitio de siempre en la montaña, al norte; una tradición vieja que no se fecha con precisión y que estaban recuperando.
 - **Cómo montaba la tienda:** varillas en cruz, lona tensada desde las esquinas antes que del centro, vientos en ángulo. Cole la monta igual y Marisol lo nota.
 - **Quemaba las alubias** distrayéndose con la parrilla. Cole "heredó el cazo" y con él el defecto.
+- **La casa.** Marisol se entera (por Héctor) de que Cole recompró la casa de sus padres, y le dice que Michael consideraba a Cole y a Héctor "los únicos del barrio que todavía se acordaban de cómo era antes de que se pusiera fea" — ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/15_La_Regla_Del_Telefono]] (ampliación 2026-09-02).
 
 Todo esto es inferencia del agente para dar textura; **el autor no lo ha confirmado** y puede recortarse o reescribirse.
 

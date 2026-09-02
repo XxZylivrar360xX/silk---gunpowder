@@ -2428,3 +2428,21 @@ V1 preservada como baseline. V1.1 separa palabras brutas/habladas, reserva HIGH 
 **Nuevo motor:** H22 convierte Hierro y Seda en arquitectura de salida. Exteriormente consolidan permanencia; en privado profesionalizan, delegan y construyen redundancias para que San Aurelio funcione sin ellos. Parte V enfrenta esa preparación con Meridian y cobra la salida hacia Elenna/Palermo. Elenna no es *stake* ni heredera de dinastía.
 
 **Archivos:** actualizados Hitos, Book Map, Guerra de los Tres, Cole/Chiara, Momentos de Fractura, fichas de Cole, Chiara, Riley, Elenna y Héctor, Villa Candelaria, timeline de beats (nota de precedencia, sin renumerar), ledgers de revelaciones e hitos, INDEX y relevo. No se redactó prosa ni se resolvieron mecanismos pendientes. Sin commit ni push.
+
+## Sesión 2026-09-01 | Expansión Caps. 12-13 y nuevo Cap. 14 (Auster)
+
+**Cap. 12 (El farol):** expandido — textura de barrio en La Almendra, tell físico de Mabel al hablar del Tasador, un oponente que falla al leer a Walt, Tommaso registrando que lo subestimó, línea de Walt reconociendo algo de Cole en Chiara ("Se sienta como él"), tell del anular izquierdo de Chiara en el cierre.
+
+**Canon nuevo de apariencia y ambientación:** Walt Keegan (mestizo americano/latino, calvo, piel morena clara, barba de candado gris, botas de cazador) y Héctor Navarro (americano, tez caucásica, pelo cano abundante, camisas de leñador) — ver sus fichas. Nota cultural nueva en `San_Aurelio.md`: ciudad de EE.UU., puede incorporar cultura latina/mexicana pero debe predominar vibra de barrio americano/latino. Nota de vestimenta en `El_Patio.md`: camisa de leñador como prenda característica de La Almendra.
+
+**Cap. 13 (Roma Atrii):** reestructurado — nueva escena de cascada de información (cuatro tipos: calle/gasolinera, Mabel/Blake, rumor de la subjefa, viñedo del norte) mostrando i Sussurri funcionando antes del clímax del papel; final reescrito para que Cole encuentre primero a Kenji en la caja, Chiara interviene con "Gracias, Kenji, yo atiendo al señor Mercer" (fachada de la unión invisible), y explica el porqué de la red con lenguaje de confesión católica, revelando su fe frente a la fe práctica de Cole.
+
+**Sistema nuevo — código temático de la Vulgata** (`Red_Civil_de_Chiara.md`): tres versículos con significado fijo memorizado por Chiara (Salmo 26:12 = caso formal armándose; Cantar 4:16 "auster" = sur; Miqueas 7:6 = peligro cerca de casa), reservado para lo más peligroso. Verdad ensamblada: piezas de fuentes distintas que sólo Chiara junta.
+
+**Cap. 14 nuevo — "Auster"** (insertado después de Roma Atrii; renumeró Caps. 14-19 → 15-20 en archivos y encabezados, Book_Map e INDEX actualizados). Paga en parte el hilo del Peugeot rojo (ledger): la policía arma caso formal con dos sospechosos, Rafe Domínguez (Los Bravos de Santa Brígida) y Cole. Chiara arma la verdad completa cruzando tres piezas (calle, Mabel, Kenji) y siembra duda razonable (corredor de piezas del norte, pago en efectivo). Primera escena de **Lucía Varek** (subjefa, segunda al mando bajo Elena Vega — resuelve su cargo y primera escena con Cole, pendientes de su ficha). Nuevo canon de arco: Lucía asciende a jefa cuando Vega renuncia durante la Guerra de los Tres, fortalecida por su relación de "informante" con Cole (trama reservada, del lado policial). Cierra con "Eres realmente buena en esto" / "Lo soy cuando amenazan a mi gente." Se creó ficha de voz de Lucía Varek.
+
+**Pendiente para la próxima sesión:** barrer referencias de número de capítulo en `Hitos.md` y `98_Agent_Handoff/CURRENT_BRIEF.md` (quedaron con la numeración vieja 14-19 en varios puntos de texto libre, no sólo en los bullets del Book_Map que ya se corrigieron); regenerar el EPUB; decidir si el codebook bíblico crece con más versículos; quién era el hombre visto con Lucía Varek; resolver los hilos de Blake y el viñedo del norte sembrados en el Cap. 13.
+
+**Sin commit ni push.**
+
+**Nota rápida 2026-09-02:** EPUB regenerado con los 20 capítulos vigentes (incluye Cap. 14 *Auster* y las últimas ediciones de los Caps. 12 y 13). Sigue pendiente el barrido de números de capítulo en `Hitos.md` y `CURRENT_BRIEF.md`.

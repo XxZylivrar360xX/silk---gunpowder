@@ -54,3 +54,5 @@ Los Bravos son el peor tipo de cliente para Cole: piden oportunidades, prometen 
 > **RESUELTO (2026-08-23):** Rafe Dominguez es el líder carismático/brutal; Maribel Knox sostiene memoria y cobro.
 
 > **PENDIENTE:** víctima concreta que vuelve imposible seguir dando oportunidades.
+
+> **DISEÑO (2026-09-01):** en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_Auster|Capítulo 14, *Auster*]], Rafe Dominguez queda como sospechoso secundario en el caso del Peugeot rojo — no porque tuviera nada que ver, sino porque su historial lo hace un candidato creíble. Chiara no lo limpia; sólo abre un tercer camino más ancho para el caso. La sospecha sobre Rafe queda sin resolver, costo pendiente de cobrar en algún punto futuro (ver [[00_Biblia/Principios_Narrativos]]: el ascenso siempre cuesta a alguien con nombre).

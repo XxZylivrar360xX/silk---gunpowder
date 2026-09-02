@@ -159,6 +159,24 @@ A partir de ahí queda fija: **i Sussurri recluta sólo adultos que entienden en
 
 ---
 
+### El código de la Vulgata — DISEÑO (2026-09-01)
+
+Reservado para lo delicado, comprometedor o peligroso — no reemplaza el latín suelto de i Sussurri, lo complementa. Chiara memorizó de niña, en su educación católica en Palermo, un puñado de versículos que jamás necesitó escribir en ningún lado porque ya vivían en su cabeza. Cada uno tiene un **significado temático fijo**, no una traducción literal — el contenido del versículo ES el mensaje:
+
+| Referencia | Texto (Vulgata) | Significado fijo |
+|---|---|---|
+| **Salmo 26:12** | *"insurrexerunt in me testes iniqui"* | Hay un caso formal siendo armado, con testigos/expediente — ya no es sospecha suelta. |
+| **Cantar de los Cantares 4:16** | *"Surge, aquilo, et veni, auster"* | *Auster* = sur. La pista apunta al sur de la ciudad. |
+| **Miqueas 7:6** | *"inimici hominis, domestici eius"* | El peligro está cerca de casa — alguien del círculo, no un extraño. |
+
+**Cómo llega la información real:** varía según la fuente. Lo que entrega un sussurro entrenado como Kenji ya viene escrito como cifrado real (la referencia misma, en el papel). Lo que entrega la red orgánica (Mabel, un contacto de calle) llega en lenguaje llano — chisme, rumor, sin cifrado — y es **Chiara quien lo archiva** bajo la referencia bíblica correspondiente, en su propia cabeza o en una nota que sólo ella entiende.
+
+**Verdad ensamblada:** para lo más peligroso, la verdad completa nunca llega de una sola fuente. Se reparte entre varios nodos que no se conocen entre sí, en momentos distintos — cada pieza, sola, es un dato menor o basura. Sólo Chiara las junta. Primer uso en prosa: [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_Auster|Capítulo 14, *Auster*]] (el caso del Peugeot rojo, tres piezas: calle → Salmo 26:12, Mabel/sur → *auster*, Kenji → Miqueas 7:6).
+
+> **PENDIENTE:** si el codebook crece con más versículos a medida que la novela avanza, o si estos tres bastan y sólo se reutilizan. No añadir referencias nuevas sin que una escena las necesite de verdad.
+
+---
+
 ## Mabel Ortiz
 
 [[02_Characters/Mabel_Ortiz]] es la primera persona en San Aurelio que Chiara identifica como una central de información civil.
@@ -201,6 +219,15 @@ Ahí la mancuerna queda completa:
 - Una cajera comenta que los Bravos están pagando con billetes chicos y nerviosos. Cole cree que es pobreza; Chiara entiende que alguien les cortó flujo.
 - Una enfermera menciona heridas repetidas sin reporte. Chiara conecta a [[02_Characters/Owen_Kincaid]] antes que la policía.
 - Una esposa de donante dice que Dario canceló una mesa. Chiara sabe que si Dario cancela, no es agenda: es crisis.
+
+**Escrito en el Capítulo 13 (*Roma Atrii*), DISEÑO (2026-09-01) — cuatro hilos sembrados:**
+
+- Un chico de una gasolinera en la Ronda Exterior reporta a dos fiscales reuniéndose de madrugada con un tercer coche que nunca llega con las luces encendidas. **RESUELTO EN PARTE (2026-09-01):** este hilo es la primera pieza del caso del Peugeot — ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_Auster|Capítulo 14, *Auster*]].
+- Mabel reporta (sin certeza confirmada, como chisme de barra) el romance frustrado de [[02_Characters/Blake_Stanton]] con una recepcionista del Departamento — ver su ficha. **Sigue sin resolverse.**
+- Rumor sin confirmar: la subjefa del Departamento (no nombrada todavía; "la que va después de [[02_Characters/Elena_Vega]]") vista dos veces con alguien no identificado, pago en efectivo, auto estacionado a media cuadra. **RESUELTO (2026-09-01): es [[02_Characters/Lucia_Varek|Lucía Varek]]** — primera aparición en prosa en el Capítulo 14. Quién era el hombre no identificado sigue sin decirse.
+- Un recorte sobre un viñedo al norte cuyo dueño está cansado de San Aurelio y podría vender antes del otoño — Chiara lo guarda sin saber todavía para qué. **Sigue sin resolverse.**
+
+> **PENDIENTE:** si el viñedo conecta con [[05_Locations/Bellandi_Ridge_Vineyards]] o queda independiente, si el romance de Blake se paga en algún punto futuro, y quién era el hombre que vieron con Lucía.
 
 ---
 

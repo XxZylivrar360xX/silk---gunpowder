@@ -3,7 +3,7 @@ Estado: borrador provisional.
 Protagonistas: Chiara Bellandi (partes 1-2), Cole Mercer (parte 3).
 Ventana temporal: parte 1 es anterior al Capitulo 12 (evento altruista, y tambien anterior/independiente de la noche de Gabriella's del Capitulo 8 y del arco de H12 en los Capitulos 10-11); parte 2 ocurre la misma noche del torneo del Capitulo 12; parte 3, semanas despues -- Cole y Chiara ya viven a caballo entre el penthouse y la casa de el.
 Lugares: salon de gala (evento altruista, sin nombre fijo), The Monarch Casino & Hotel (piso de juego y caja), Almendra Towing / El Patio.
-Funcion: ejecutar beats 12-c y 13-b — nace i Sussurri con Kenji Oda, y el primer roce de valores entre Cole y Chiara por el mensajero menor.
+Funcion: ejecutar beats 12-c y 13-b — nace i Sussurri con Kenji Oda; se muestra la red en funcionamiento con multiples fuentes y tipos de informacion (calle, comercio/Mabel, elite, institucional) llegando al escritorio del penthouse; y el primer roce de valores entre Cole y Chiara por el mensajero menor. Version revisada (2026-09-02): se le da contenido real y urgencia al papel -- esa misma manana un hombre no identificado pregunto en el piso del Monarch por "un Peugeot rojo, tuneado", sembrando la primera alarma aislada del hilo que se paga en el Capitulo 14 (Auster); la reaccion de Cole se ancla, sin explicarla en bloque, a su propio origen (comprado de bebe, carrera perdida por gente que movia ninos) via el mismo tic fisico de la mandibula ya usado en el Capitulo 1; y la confrontacion se extiende para que Chiara admita honestamente, sin excusarse, por que no espero a la noche.
 -->
 
 # Capítulo 13 — Roma Atrii
@@ -154,7 +154,39 @@ Antes que Tommaso.
 
 ***
 
-Semanas después, un chico de doce o trece años se paseaba cerca de la cerca trasera de Almendra Towing con la clase de disimulo que sólo delata a quien nunca lo ha hecho antes.
+Las semanas que siguieron le enseñaron algo que ningún año en Palermo le había enseñado: cuánto puede saber una mujer que nunca sale a buscar nada.
+
+Llegaba de maneras que no seguían ningún orden. Un domingo por la mañana, todavía en bata, encontró sobre el escritorio del penthouse tres papeles distintos, cada uno con su propio peso.
+
+El primero olía a gasolina y a fritanga. Un chico de una estación de servicio en la Ronda Exterior — nadie recordaba después quién lo había reclutado, o si alguien lo había reclutado siquiera; simplemente empezó a hablar, y alguien empezó a escuchar — contaba que dos hombres de traje se estacionaban ahí cada tantas semanas, pasada la medianoche, y esperaban un tercer coche que nunca llegaba con las luces encendidas. Fiscales, entendió Chiara. Reuniéndose de noche, en un lugar que ningún fiscal elegiría por gusto.
+
+El segundo llevaba el desorden feliz de Mabel, que nunca escribía nada — sólo lo decía, y dejaba que alguien más lo pusiera en papel después. Era sobre Blake. *El policía rubio, el que salía con la signora antes de que la ciudad tuviera nombre para lo suyo con Mercer* — así lo describía Mabel, sin nombrarlo con respeto ni con desprecio — se había estado viendo con una recepcionista del Departamento, y la cosa se había apagado tan rápido como había empezado. Ella lo dejó. Él se lo tomó peor de lo que un hombre como Blake admitiría en voz alta. "Puede que no sea nada", cerraba la nota, en la letra de quien la había transcrito. "Puede que sea todo. Yo sólo sirvo café."
+
+El tercero no tenía nada que ver con calle ni con barra de cafetería: un recorte de la sección de negocios de un periódico que ni siquiera circulaba en San Aurelio, con una nota manuscrita al margen — *viñedo al norte, dueño cansado, puede que venda antes del otoño*.
+
+Tres fuentes. Tres lenguajes. Tres personas que jamás se habían visto entre sí y que nunca sabrían que habían escrito, sin saberlo, la misma página.
+
+Chiara los leyó en orden distinto al que habían llegado: primero el que menos urgía, después el que más. Guardó el del viñedo en un cajón aparte — todavía no sabía para qué lo quería, pero algo en el fondo del estómago le decía que lo iba a querer. Quemó el de los fiscales sobre el lavabo, después de memorizar la fecha. El de Blake lo dejó un rato más de lo necesario sobre el escritorio, sin decidir todavía si era información o sólo la clase de vanidad pequeña que a veces se permitía.
+
+Un cuarto llegó esa misma semana: un rumor sobre la subjefa del Departamento — nadie decía su nombre completo, sólo "la que va después de Vega" — vista dos veces en un restaurante de la costa con alguien que nadie en la mesa reconoció, pero que pagó en efectivo y dejó el auto a media cuadra, no en la puerta. Chiara no sabía todavía qué hacer con eso. Lo guardó de todos modos. Un dato sin uso hoy era sólo un dato que todavía no había encontrado su pregunta.
+
+Nada de esto llegaba con instrucciones. Nada llegaba en el papel bueno, ni en latín, ni con la ceremonia de i Sussurri — sólo el rumor viejo, orgánico, el que la ciudad producía sola sin que nadie lo cultivara. Kenji le daba lo que pasaba en su propio piso, cifrado, puntual, imposible de rastrear. La calle, los comercios, la vida civil entera de San Aurelio le daban el resto, sin cifrado ni ceremonia, en el idioma en que la gente habla cuando cree que nadie más los está escuchando.
+
+Chiara empezaba a entender que no necesitaba una sola red. Necesitaba dos: una que ella construía dato por dato, persona por persona, con paciencia de artesana — y otra que ya existía sola, hacía años, y que sólo tenía que aprender a leer.
+
+***
+
+Semanas después, esa misma mañana, Kenji le hizo llegar algo que no cabía en el ritmo tranquilo de las últimas semanas.
+
+Alguien de la mesa dos —un hombre que nadie en el piso conocía, que pagó su entrada en efectivo y no volvió a jugar una sola mano después de preguntar lo que preguntó— quiso saber si el Monarch tenía algún socio, cliente o proveedor "que anduviera en un Peugeot rojo, de los viejos, tuneado". Kenji le dijo que no sabía de qué hablaba. El hombre no insistió. Cambió sus fichas de vuelta sin haber jugado, y se fue.
+
+No era nada todavía. Podía ser un curioso, un apostador con mal gusto para las preguntas, una casualidad sin dientes. Pero Chiara no sobrevivía haciendo esa clase de apuesta, y una sola pregunta sobre ese coche, en su propio piso, un día cualquiera, no era algo que pudiera permitirse dejar para la noche.
+
+Tenía que llegarle algo a Cole antes de que se hiciera tarde. Por primera vez desde que empezó a construir la red, no tuvo tiempo de llevárselo ella misma.
+
+***
+
+Un chico de doce o trece años se paseaba esa misma tarde cerca de la cerca trasera de Almendra Towing con la clase de disimulo que sólo delata a quien nunca lo ha hecho antes.
 
 Cole lo vio antes de que el chico lo viera a él. Miraba un reloj que no traía. Se cambiaba el peso de un pie a otro. Cole lo dejó acercarse dos pasos más antes de salir de donde estaba.
 
@@ -186,7 +218,9 @@ Arriba del todo, en letra cursiva apretada, inclinada siempre hacia el mismo lad
 
 No un nombre. No una mujer. Sólo un hombre de la caja, puesto ahí para que la cadena se cortara antes de llegar a ella. Y no le hizo falta más — el chico no sabía nada, y decía la verdad al no saber nada, porque el papel ya se lo había dicho todo.
 
-Fue eso lo que le cerró algo en el pecho — no la respuesta del chico, sino lo bien armada que estaba: nadie en la cadena, hasta el final, podía delatarla. Porque no era la información lo que le molestaba. Ésa se la habría dado gratis; se la había estado dando gratis, en los dos sentidos, desde antes de que ninguno de los dos le pusiera nombre a lo que estaban construyendo. Lo que le molestaba era la ruta que había elegido para mandarla: un crío parado en la calle equivocada, cargando algo que no entendía, para gente que tampoco lo entendería si algo salía mal — y encima buscando, con nombre y todo, a un desconocido dentro de su propio territorio.
+La mandíbula se le tensó un segundo — el mismo segundo de siempre, el que nadie en el Patio sabía nombrar — y se le pasó antes de que nadie hubiera podido preguntarle por qué.
+
+Fue eso lo que le cerró algo en el pecho — no la respuesta del chico, sino lo bien armada que estaba: nadie en la cadena, hasta el final, podía delatarla. Porque no era la información lo que le molestaba. Ésa se la habría dado gratis; se la había estado dando gratis, en los dos sentidos, desde antes de que ninguno de los dos le pusiera nombre a lo que estaban construyendo. Lo que le molestaba era la ruta que había elegido para mandarla: un crío parado en la calle equivocada, cargando algo que no entendía, para gente que tampoco lo entendería si algo salía mal — un crío que en otra vida, en otra ciudad, podría haber sido exactamente la clase de carga que a él lo compró de bebé, y la clase de trabajo que le costó una carrera entera — y encima buscando, con nombre y todo, a un desconocido dentro de su propio territorio.
 
 —Vete a tu casa —le dijo al chico, sin dureza—. Y no vuelvas a hacer esto. Para nadie.
 
@@ -196,31 +230,89 @@ El chico no esperó a que se lo repitiera.
 
 Fue al casino esa misma tarde con la idea ya armada de que esto se terminaba ahí — el favor, el arreglo, lo que fuera que estuvieran construyendo sin nombre, y que llevaba semanas pareciéndose cada vez más a otra cosa.
 
+No preguntó por Chiara primero.
+
+Preguntó por el hombre de la caja.
+
+Lo encontró donde el chico había dicho que estaría — chaleco del Monarch, manos rápidas, una fila corta de jugadores esperando turno para cambiar fichas. Cole esperó a que despachara al último y se paró frente a él.
+
+—¿Usted mandó a un chico a buscar a alguien llamado Roma Atrii?
+
+Kenji no dejó de contar un fajo de billetes.
+
+—No sé de qué me habla.
+
+—Un niño. Doce, trece años. Dijo que si no encontraba a nadie, le devolvía un papel a un hombre de la caja. Usted es el único hombre en esta caja.
+
+—Trabajo mucho, señor. Veo mucha gente.
+
+No mentía con miedo. Mentía con la misma cara pareja que Chiara le había visto usar con Aldrich, y eso, más que cualquier otra cosa, le confirmó a Cole que estaba en el lugar correcto.
+
+—Gracias, Kenji. Yo atiendo al señor Mercer.
+
+Chiara había llegado sin que ninguno de los dos la oyera acercarse — o quizás la habían oído y ninguno quiso ser el primero en voltear. Llevaba el mismo aire con el que recibía a un socio, ni un grado más cálido, y a Kenji le bastó con esa temperatura para volver a lo suyo sin hacer una sola pregunta.
+
+Cole entendió, en el mismo segundo, dos cosas: que Kenji no sabía nada de lo que había entre ellos, y que Chiara acababa de decidir, delante de él, que seguiría sin saberlo.
+
+Lo llevó aparte, a la franja de piso entre la caja y el pasillo de servicio, donde el ruido de las máquinas tapaba cualquier conversación a menos de un metro.
+
 Chiara no discutió. No preguntó cómo se había enterado. No defendió el método, no dijo que el chico estaba bien pagado ni que nunca lo habría puesto en peligro real. Lo miró, entendió exactamente qué línea había cruzado sin haberla visto nunca, y dijo la única frase que no le dejó nada para responder:
 
 —Tienes razón. No vuelve a pasar. Tienes mi palabra.
+
+—¿Por qué no esperaste? —Cole no subió la voz, pero tampoco la bajó—. Siempre esperas a la noche.
+
+Chiara no buscó una versión más cómoda.
+
+—Porque esta mañana alguien preguntó por tu coche en mi propio piso. Un hombre que nunca había visto, que pagó en efectivo y no jugó una sola mano. No sé si es nada. No sé si es algo. Pero no iba a quedarme sentada hasta la noche con esa duda y contigo sin saberlo.
+
+Cole se quedó callado un momento.
+
+—Pudiste llamarme.
+
+—Pude. —No se disculpó por eso tampoco—. Y la próxima vez lo hago. Ésta no lo pensé lo suficiente, y el chico pagó el precio de que no lo pensara. Eso no tiene defensa, y no la voy a inventar.
 
 Y con eso pudo haberse acabado.
 
 Cole todavía tenía el papel en la mano — lo había traído sin decidir por qué, como si fuera evidencia de algo que ya no necesitaba probar. Lo levantó de todos modos.
 
-—¿Y esto?
+—¿Y esto? ¿Qué es exactamente lo que estás construyendo aquí?
 
-Chiara lo miró un momento. No se lo pidió de vuelta.
+Chiara miró el papel, después a él, y decidió algo que no había decidido cuando salió de la casa esa mañana.
 
-—Ya no mando a nadie a buscar a nadie —dijo, y no había disculpa en la voz, sólo la constatación de algo ya decidido—. De ahora en más, si tengo que llegarte algo, lo traigo yo.
+—Se llama i Sussurri. Los susurros. —Lo dijo bajo, casi como quien confiesa algo, aunque la cara no tuviera nada de arrepentida—. Gente que oye cosas y me las hace llegar. Nadie sabe que pertenece a algo, salvo Kenji, que aceptó saberlo.
 
-*Llegarte.* No *llegarle a alguien*.
+—¿Por qué latín? ¿Por qué no me lo dices y ya?
+
+—Porque una red visible es un blanco, y una invisible es una costumbre. —Se cruzó de brazos, no a la defensiva, sino como quien empieza una clase que ya dio antes, para sí misma, muchas veces—. Nadie delata una costumbre, Cole. No sabe que es parte de ella.
+
+—Suena a iglesia.
+
+Chiara no se sorprendió de que él lo notara.
+
+—Es iglesia, un poco. —Casi sonrió—. Crecí aprendiendo que una confesión no vale nada si sale de la boca equivocada, o le llega al oído equivocado. Esto funciona igual. No importa lo que alguien sepa. Importa a quién se lo dice, en qué lengua se atreve a decirlo, y si esa persona sabe guardarlo como se guarda un secreto en un confesionario.
+
+—Tú crees en eso. En serio.
+
+—Creo en Dios, en las velas que enciendo por ti, y en que una mentira dicha con cuidado puede proteger más gente que una verdad dicha sin él. —Lo miró de frente—. Tú no crees en nada de eso.
+
+—Creo en lo que puedo pagar, arreglar o cobrar. —No sonó a defensa. Sonó a inventario—. Supongo que también es una fe, a su manera.
+
+—No es la misma. —Algo cerca de ternura le cruzó la cara, breve, antes de que la guardara de vuelta—. La mía no pide resultados. Sólo pide que seas honesto cuando nadie más te está oyendo.
+
+—Ya no mando a nadie a buscar a nadie —dijo después, y no había disculpa en la voz, sólo la constatación de algo ya decidido—. De ahora en más, si tengo que llegarte algo, lo traigo yo.
+
+*Llegarte.* No *llegarle a alguien.*
 
 Cole no dijo nada, y ella tampoco esperó que lo hiciera — ya estaba dicho, aunque ninguno de los dos lo hubiera dicho del todo.
 
-—¿Qué significa? —preguntó él, sosteniendo el papel un poco más alto, como si eso ayudara.
+—¿Qué significa esto? —preguntó él, sosteniendo el papel un poco más alto, señalando las dos palabras de arriba, como si eso ayudara.
 
 —Eso no te lo voy a decir. —Chiara no sonrió, pero algo cerca de sonreír le cruzó la cara—. Todavía no.
 
 No fue un no. Cole lo notó, y no supo qué hacer con eso tampoco.
 
-Caminó de vuelta al taller esperando todavía sentir algo del peso con el que había llegado, y no lo encontró. Se había armado para una pelea entera y volvía con las manos vacías de la manera equivocada — no porque hubiera perdido, sino porque no había habido nada que ganar. Ella había cedido antes de que él terminara de exigir, y encima le había dejado una puerta entreabierta que no le había pedido.
+Caminó de vuelta al taller esperando todavía sentir algo del peso con el que había llegado, y no lo encontró. Se había armado para una pelea entera y volvía con las manos vacías de la manera equivocada — no porque hubiera perdido, sino porque no había habido nada que ganar. Ella había cedido antes de que él terminara de exigir, y encima le había dejado una puerta entreabierta que no le había pedido, y una fe entera de la que nunca le había hablado tan claro.
 
 Quedó, sin lugar donde ponerlo, el nombre que el chico había repetido como una contraseña.
 

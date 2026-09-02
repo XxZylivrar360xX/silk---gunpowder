@@ -9,6 +9,8 @@
 **Territorio:** la Almendra. Ver [[05_Locations/San_Aurelio]].
 **Estado:** vivo, y **recién salido de prisión** cuando empieza la novela.
 
+**Apariencia — CANON DEL AUTOR (2026-09-01):** mestizo, americano y latino. Calvo, piel morena clara. Barba de candado gris. Vestimenta neutra — nada que llame la atención — pero siempre con botas de cazador, pase lo que pase.
+
 ---
 
 ## Quién es
@@ -126,7 +128,7 @@ Walt empieza a seguir, sin decirlo así, el mismo método de Cole para hacer neg
 
 > **PENDIENTE:** qué sabe Walt del padre de Cole que Cole no sabe. Y **si sabe algo sobre cómo llegó Cole a esa familia.** Sería la única persona viva capaz de responder la pregunta que Cole nunca ha hecho.
 
-> **RESUELTO EN PARTE (2026-08-26):** a qué se dedica al salir — monta una destilería propia con ayuda de Chiara y se vuelve proveedor de licor del Monarch. Ver "El torneo de poker y la destilería", arriba. **Sigue PENDIENTE:** apariencia.
+> **RESUELTO EN PARTE (2026-08-26):** a qué se dedica al salir — monta una destilería propia con ayuda de Chiara y se vuelve proveedor de licor del Monarch. Ver "El torneo de poker y la destilería", arriba. **RESUELTO (2026-09-01): apariencia** — ver sección superior.
 
 > **PENDIENTE:** ¿qué le pide Cole en ese primer mensaje?
 
