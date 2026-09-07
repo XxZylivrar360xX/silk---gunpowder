@@ -3,7 +3,7 @@ Estado: borrador provisional.
 Protagonistas: Cole Mercer, Chiara Bellandi.
 Ventana temporal: Fase 0, lunes, manana posterior a H2.
 Lugares: taller de Almendra Towing, carcel del condado, norte rural, La Almendra, The Monarch Casino & Hotel, centro de San Aurelio.
-Funcion: cobrar el guino de Dario/Keene, presentar la salida de Walt, sembrar a Harper, mostrar a Chiara detectando huecos del casino y abrir la salida con Blake.
+Funcion: cobrar el guino de Dario/Keene, presentar la salida de Walt, sembrar a Harper, mostrar a Chiara detectando huecos del casino y abrir la salida con Blake. Añadido (2026-09-03), a peticion del autor: la escena de la tumba de Jim Keegan (hijo de Walt) -- Walt sale de prision y ese mismo dia se entera, por Cole, de que Jim murio en Afganistan hace mas de cuatro años (antes del regreso de Cole a San Aurelio; Cole lleva cuatro años en la ciudad, asi que la muerte tuvo que ser anterior a eso). Filtrada con la misma restriccion que el resto de las muertes del libro: gestos fisicos, dialogo minimo, sin detallar las circunstancias exactas de la muerte en la conversacion con Walt (el recuerdo privado de Cole si las detalla, para el lector solo). Necesaria para que la mencion de Walt a Jim en el Capitulo 18 (Cuentas claras / Anticiparse) tenga peso contenido en vez de aparecer de la nada.
 -->
 
 # Capítulo 3 — Los viejos días
@@ -573,6 +573,134 @@ Héctor se rió primero.
 Fue una risa áspera, inesperada, casi oxidada. Walt lo siguió. Cole tardó medio segundo más y luego también se rió, no fuerte, no limpio, pero lo bastante para que dos vecinos voltearan hacia el porche y fingieran enseguida que no habían oído.
 
 Por un momento, la Almendra pareció recordar cómo sonaba antes de que todo se fuera al diablo.
+
+***
+
+No fueron al taller esa tarde.
+
+Cole condujo hacia el cementerio de Santa Lucía sin decir a dónde iban, y Walt no preguntó — quizás porque diez años enseñan a no preguntar hacia dónde va un coche cuando el que maneja tiene esa cara.
+
+Héctor se quedó en el asiento trasero, callado de una manera que Cole reconoció: la misma que usaba antes de decir algo que llevaba tiempo cargando.
+
+Se detuvieron frente a una hilera de lápidas nuevas, del lado donde el pasto todavía no terminaba de agarrar.
+
+Walt bajó del coche despacio, todavía con la camisa gris que le habían dado al salir, y caminó los últimos metros solo.
+
+Se detuvo frente a una.
+
+*JAMES "JIM" KEEGAN.*
+
+Cole no se acercó. Se quedó junto al coche, con las manos en los bolsillos, mirando la espalda de un hombre que llevaba diez años esperando una carta que nunca iba a llegar completa.
+
+Y por un segundo, sin pedirlo, volvió a estar ahí.
+
+Faltaban semanas para que todo terminara, aunque nadie en la unidad lo supiera todavía. Un pueblo sin nombre que la radio marcaba solo con coordenadas, una escuela a medio construir, y una fila de niños que se habían quedado sin nada que hacer desde que el único maestro del lugar había dejado de aparecer.
+
+Cole no recordaba haber decidido acercarse. Recordaba estar ahí, en cuclillas, enseñándole a un niño de unos siete años a atarse las botas que alguien de la unidad le había regalado, mientras otros cuatro esperaban su turno con la paciencia exacta de quien no tiene otra cosa que esperar.
+
+Jim lo observó desde la sombra de un camión, con el rifle colgado y una sonrisa que Cole no le vio venir.
+
+—Tienes madera de padre, Mercer.
+
+—No tuve un buen ejemplo para serlo.
+
+—Por eso mismo. —Jim se acuclilló a su lado y tomó al siguiente niño de la fila sin preguntarle el nombre—. Un hombre que aprendió mal y aun así sabe hacer esto, sin que se lo enseñara nadie... eso no se explica con mal ejemplo, Cole. Eso se explica de una sola manera.
+
+Cole no contestó. En ese entonces todavía no sabía que iba a necesitar guardar esa frase en algún lugar, para más adelante, para una vida que ni siquiera imaginaba todavía.
+
+Esa misma tarde, en la carpa de mando, alguien le puso delante un reporte con el nombre de Jim escrito arriba: cargamentos de suministros que no cuadraban, ventas a civiles que jamás debieron pasar por manos de un soldado. Nada que fuera a corte marcial por crímenes de guerra. Suficiente, sin embargo, para una baja deshonrosa, si alguien decidía perseguirlo.
+
+Encontró a Jim esa misma noche, fumando solo detrás de las carpas de suministro.
+
+—Vi el reporte —dijo Cole, sin preámbulo.
+
+Jim no se dio la vuelta enseguida.
+
+—¿Vas a entregarlo?
+
+—Todavía no he decidido qué voy a hacer con él.
+
+—Eso no es un no.
+
+—Tampoco es un sí. —Cole se paró a su lado, mirando la misma oscuridad—. ¿Por qué, Jim?
+
+—Porque el sueldo de un soldado no alcanza para nada, y aquí hay gente que paga bien por cosas que a nosotros nos sobran. —Jim se encogió de hombros, con una calma que no le llegaba a los ojos—. No es tan distinto de lo que hacía mi padre antes de que el Tasador se lo arruinara. Solo que yo no tuve que romperle el escritorio a nadie.
+
+—Suena exactamente a lo que él odiaba.
+
+Jim tiró el cigarro y lo apagó con el talón, más fuerte de lo necesario.
+
+—Entonces qué bueno que él no está aquí para verlo.
+
+—No se lo voy a decir —dijo Cole, al final—. Pero vas a parar.
+
+—¿O qué?
+
+—O la próxima vez no voy a ser yo el que encuentre el reporte primero.
+
+Jim no contestó eso. Se fue caminando hacia las carpas sin decir nada más, y Cole se quedó ahí, con el reporte todavía en el bolsillo, preguntándose si acababa de proteger a un amigo o de encubrir exactamente lo que el padre de ese amigo había pasado media vida peleando.
+
+Cole no volvió a mencionarlo. Se guardó el reporte de la misma manera en que guardaba todo lo que no sabía todavía cómo iba a costarle.
+
+La emboscada llegó dos días después, en la curva que todos habían dejado de vigilar porque nunca antes había pasado nada ahí.
+
+Cole no recordaba el ruido completo — solo fragmentos: el camino abriéndose, Russ gritando algo sobre la pierna, Garrett tirándose detrás de una roca que no alcanzaba a cubrirlo del todo, y Jim, a dos metros de él, cayendo de una manera que Cole reconoció antes de que su cabeza terminara de procesar por qué.
+
+Lo arrastró detrás del mismo camión donde antes le había dicho lo de la madera de padre. La metralla le había abierto el costado de una forma que Cole no necesitaba ser médico para entender.
+
+—No le digas nada a mi padre —dijo Jim, con la voz ya más aire que palabra—. De lo que hice. Se avergonzaría de mí.
+
+—Tu padre estaría orgulloso de ti por reconocerlo —dijo Cole, sosteniéndole la cabeza.
+
+—Júramelo. Que nunca se lo vas a decir.
+
+—Tienes mi palabra. —Cole no supo de dónde le salió la calma con la que lo dijo—. Pero no hace falta. Vas a estar bien.
+
+Jim sonrió, apenas, con la clase de sonrisa que ya no le pedía nada al cuerpo.
+
+—Papá tenía razón —dijo—. Nunca supiste mentir.
+
+Cole volvió al presente con el sonido de un pájaro que no debería estar en un cementerio en esa época del año, y la espalda de Walt todavía de pie, todavía leyendo la misma fecha.
+
+Walt no se arrodilló. No lloró, al menos no de la manera que se nota desde lejos. Se quedó de pie, quieto, con los hombros un poco más caídos de lo que estaban esa mañana, leyendo una fecha que le decía todo lo que nadie le había dicho todavía.
+
+—¿Cuándo? —preguntó, sin voltear.
+
+—Hace más de cuatro años —dijo Cole—. Afganistán.
+
+—¿Tú estabas?
+
+—Sí.
+
+Walt se quedó callado un momento largo.
+
+—¿Fue rápido?
+
+Cole tardó en contestar.
+
+—Sí.
+
+No lo era del todo, y los dos lo sabían, y ninguno de los dos iba a discutirlo ahí parado.
+
+Walt se agachó, por fin, y tocó la tierra con dos dedos — el mismo gesto que le había hecho a Cole en la mejilla esa mañana, cerca de la cicatriz, sin llegar a tocarla.
+
+—Nadie me lo dijo en diez años —dijo, todavía sin levantar la vista—. Y ahora que salgo, resulta que llevaba más de cuatro años sabiéndolo el mundo entero menos yo.
+
+—Te lo iba a decir yo —dijo Cole—. Hoy. En algún momento del día.
+
+—¿Por qué no en la cárcel?
+
+—Porque ahí no tenías nada. Aquí, al menos, tenías dónde pararte.
+
+Walt no contestó a eso. Se quedó en cuclillas un rato más, la mano todavía sobre la tierra, y Héctor se acercó por fin, despacio, y le puso la mano en el hombro sin decir nada — el mismo gesto que sabía hacer sin que hiciera falta ensayarlo.
+
+Cuando Walt se puso de pie, tenía la cara seca y los ojos rojos, que no eran lo mismo.
+
+—Diez años —dijo, mirando la lápida una última vez—. Y lo único que hice fue perderme lo poco que me quedaba.
+
+Nadie tuvo con qué contestarle eso tampoco.
+
+Volvieron al coche en silencio, y Cole condujo de vuelta a la Almendra despacio, sin apuro, dándole al hombre del asiento de atrás todo el tiempo que un camino puede dar.
 
 ***
 

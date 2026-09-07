@@ -64,6 +64,8 @@ Ese último dato pesa: Cole la sacó del barrio. Le dio exactamente lo que a él
 
 En esa conversación, cuando Chiara le pregunta qué es él para Marisol, Cole lo minimiza: **"El que firma cosas. El que aparece si hace falta."** La frase es compatible con la conducta de la relación, que funciona como familia elegida con dinámica casi paternal, sin fijar una paternidad legal o adoptiva.
 
+**Eco (2026-09-03) en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/17_El_Sobre_Rojo|Capítulo 17, sección *Cuatro letras*]]:** cuando Héctor dice que Marisol necesitaba "un padre completo" ese fin de semana, Cole corrige — "Yo no soy su padre" — y Héctor solo gruñe y sigue hablando como si no lo hubiera oído. Cole no se atribuye el lugar aunque lo ocupa; Héctor lo sabe y no se molesta en discutirlo.
+
 **Primera aparición en escena:** Capítulo 14 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_La_Regla_Del_Telefono|La regla del teléfono]]). Fin de semana de campamento con Cole antes de que ella vuelva a clases. Lo que la escena establece por conducta:
 
 - **La regla del teléfono.** Durante el campamento los teléfonos se guardan hasta volver. La regla la puso Michael y Marisol la hace cumplir; Cole protesta porque el taller no puede quedarse sin él dos días, Marisol responde que Walt sabe encargarse y **gana**: la regla existe para que Cole esté presente allí. Es lo que lo deja incomunicado durante H10 — una decisión de carácter, no un accidente.

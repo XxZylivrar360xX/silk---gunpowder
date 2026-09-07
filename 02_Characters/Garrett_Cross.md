@@ -23,6 +23,8 @@ Si Russ Whitaker se reconoce por el bastón, Garrett se reconoce por lo contrari
 
 Garrett administra dinero, recursos y activos de la organización de [[02_Characters/Cole_Mercer]]. En la etapa temprana ya ayuda con nóminas, papeles básicos y contratación limpia para Almendra Towing; más adelante es el hombre que convierte crecimiento criminal en balances, participaciones, propiedades, préstamos, contratos y empresas.
 
+**RESUELTO (2026-09-03):** estuvo presente en la emboscada en Afganistán donde murió [[02_Characters/Jim_Keegan]] y [[02_Characters/Russell_Whitaker|Russ]] sufrió la lesión permanente de la pierna — ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias|Capítulo 3]] (memoria de Cole).
+
 No es el contador del taller. Es el administrador de la capa donde Cole ya no puede firmar sin dejar rastro.
 
 Su punto ciego es creer que el papel manda sobre las personas. En una ciudad como San Aurelio, a veces tiene razón; cuando no, el error puede ser mortal.

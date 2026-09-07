@@ -1,14 +1,14 @@
 <!--
 Estado: borrador provisional (redactado 2026-08-29, triaje PROSA-C).
 Protagonistas: Cole Mercer, Chiara Bellandi.
-Ventana temporal: semanas despues del Capitulo 16 (segunda mitad de H10). Antes del Capitulo 18 (H11, el mirador). Reordenado el 2026-08-29: H10 -> H4 -> H11; renumerado el 2026-08-29 al insertarse el Capitulo 14 (La regla del telefono) y de nuevo al adelantarse H9 como Capitulo 9 (La carrera de mascaras).
+Ventana temporal: dias despues del Capitulo 18 (Cuentas claras / Anticiparse, la negociacion con Irene y la reunion en casa de Hector). Antes del Capitulo 20 (H11, el mirador). Reordenado el 2026-08-29: H10 -> H4 -> H11; renumerado varias veces, la ultima el 2026-09-03 al fusionar los capitulos de la negociacion con Irene y la reunion del barrio en un solo Capitulo 18.
 Lugares: campo de golf al norte de San Aurelio, carretera del norte, The Monarch / El Penthouse.
 Funcion: ejecutar [[06_Relationships/Hitos]] (#H4 — El dia nublado). Golf + juego de preguntas + revelacion sobre el exmarido + Cole deduce, sin que ella lo diga, que Chiara mato a su exmarido + Cole toma la decision interna que interpreta como "quedarse". NO formaliza la relacion, NO hay beso: solo hombro, mano y dormirse juntos sin nada fisico. "Somos solo buenos amigos" sigue siendo la ficcion oficial.
-Apertura por residuo: profundiza el cierre del Capitulo 16 (la mano sobre la mano en el hospital; lo que Hector le dijo a Cole y no se repite).
+Apertura por residuo: profundiza el cierre del Capitulo 17 (la mano sobre la mano en el hospital; lo que Hector le dijo a Cole y no se repite) y, mas cercano, el Capitulo 18 (Cole deseando en silencio que alguien le hubiera enseñado a el la misma regla de anticiparse que acababa de ensenarle a Nadir y Danny).
 Confirmado por el autor (2026-08-29): esta escena ES "el dia nublado" que menciono el autor; la respuesta sobria de Cole a la pregunta de matar queda fijada (no se adelanta el registro de "soy la muerte caminando", que es H1); Blake Stanton ya esta fuera del cuadro y no se menciona; el campo de golf no lleva ficha y la propiedad de Cole queda vaga a proposito (chiste). Ver [[06_Relationships/Hitos]] #H4, seccion Pendientes.
 -->
 
-# Capítulo 18 — El día nublado
+# Capítulo 19 — El día nublado
 
 Lo que se le quedó a Cole del hospital no fue el infarto de Héctor. Fue una frase.
 

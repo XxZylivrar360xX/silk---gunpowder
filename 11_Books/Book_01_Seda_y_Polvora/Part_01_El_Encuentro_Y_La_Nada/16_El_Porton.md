@@ -1,64 +1,67 @@
 <!--
 Estado: borrador provisional.
-Protagonistas: Cole Mercer, Chiara Bellandi, con apariciones de Walter Keegan (solo por telefono/mencion), Hector Navarro, Nadir Amrani y Daniel Hayes.
-Ventana temporal: el fin de semana del Capitulo 14 (La regla del telefono) y el domingo en que Cole vuelve. Bajo la reordenacion del 2026-08-29, H10 va ANTES de H4 y H11 — en este punto Cole y Chiara TODAVIA NO se han besado.
-Lugares: arcen de la carretera del norte, territorio de La Ronda del Canal, Almendra Towing / El Patio, casa de Hector, Hospital Santa Aurelia (mencion), La Casa (loft de Cole), The Monarch Casino & Hotel.
-Funcion: ejecutar la primera mitad de H10 — el robo fallido de Nadir y Danny, el infarto de Hector, la cadena de intentos de contacto que fracasa, la carta como ultimo canal fisico y la carrera al casino. Cierra antes del hospital, que se resuelve en el Capitulo 16.
-Causalidad corregida el 2026-08-29 (encargo [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]]): Cole ya NO sale a mover hierba con Walt. Esta de campamento con Marisol (Cap. 14), incomunicado por la regla del telefono. Walt se queda en la ciudad. La incomunicacion es una decision de caracter, no un accidente. "Nadie me aviso" se recontextualiza: lo intentaron y no pudieron.
-Apertura por residuo: arranca del cierre del Capitulo 14 — Cole orillado, el telefono encendido y las llamadas perdidas cayendo de golpe.
+Protagonistas: Chiara Bellandi, con apariciones de Nadir Amrani, Daniel Hayes, Walter Keegan y Lucia Varek. Hector Navarro presente pero inconsciente/fuera de escena tras el infarto.
+Ventana temporal: el viernes del Capitulo 15 (La regla del telefono), mientras Cole y Marisol estan de campamento. Bajo la reordenacion del 2026-08-29, H10 va ANTES de H4 y H11 -- en este punto Cole y Chiara TODAVIA NO se han besado.
+Lugares: Casa Comunitaria De La Almendra (sotano), casa de Hector, Hospital Santa Aurelia, The Monarch Casino & Hotel.
+Funcion: capitulo exclusivo POV Chiara (2026-09-03, a peticion del autor -- separado del nuevo Capitulo 17, POV Cole, para que el fin de semana respire). Abre con Nadir y Danny: un rumor de calle sobre una bodega mal cuidada, con la cosecha lista para vender, sin que ninguno de los dos sepa de quien es -- Nadir duda antes de decidir, y el capitulo corta antes de mostrar el golpe o la captura (eso se reserva para un capitulo de negociacion futuro). Con "Dos dias antes" como encabezado literal, sigue a Chiara: va a la Almendra con un catalogo de muebles y pan para Hector, lo encuentra con la puerta abierta y en el suelo, llama a emergencias, sube con el en la ambulancia intentando comunicarse con Cole sin respuesta. En el hospital, cameo breve de la oficial Lucia Varek (pregunta de rutina, sin saber nada todavia de Cole ni del Patio) y un medico le confirma el infarto, pendiente de especialista. Walt llega a la sala de espera; recuento completo de lo que paso, y Walt revela que Hector ya habia tenido un preinfarto menor antes de ir a prision, nunca vigilado de cerca -- Chiara lo recibe con una reflexion propia, sin nombrar a su madre, sobre el costo de no tomarse en serio una enfermedad silenciosa. Walt se queda en el hospital; Chiara va al Monarch, escribe la carta, esta a punto de mandarla con un sussurro y cambia de decision -- la lleva ella misma, consecuencia directa de la promesa que le hizo a Cole en el Capitulo 13. Cierra con la carta bajo la puerta del loft, sin revelar su contenido -- eso se paga en el Capitulo 17.
+Apertura por residuo: arranca del cierre del Capitulo 15 -- pero el beat de las llamadas perdidas de Cole se recoloca al Capitulo 17: aqui, del lado de Chiara, no hay ninguna resolucion todavia.
 -->
 
 # Capítulo 16 — El portón
 
-Cole llevaba diez minutos parado en el arcén con el motor encendido y el teléfono en la mano.
+Nadir estaba en el sótano de la casa común, entre las lámparas y el olor dulzón que ya nadie en el barrio fingía no reconocer, revisando una planta hoja por hoja, cuando Danny bajó las escaleras sin avisar.
 
-Los mensajes habían entrado todos juntos al agarrar señal, y los leía en orden de abajo hacia arriba, que era el orden equivocado. El taller. Walt. Un número del hospital. Walt otra vez. Y las tres de Chiara, seguidas, sin nada escrito, sólo la llamada.
+—Tengo algo —dijo Danny, todavía con el frío de la calle metido en la chaqueta.
 
-El buzón tenía un mensaje de Walt, del día anterior, con la voz de alguien que nunca en su vida le había tenido que hablar a una máquina:
+Nadir no levantó la vista.
 
-—Cole. Eh... —silencio, un golpe seco contra el micrófono, como si buscara un botón que no encontraba—. No sé si esto ya está grabando o... —otro silencio, más largo, con algo de fondo que sonaba a Walt alejando el teléfono para mirarlo—. A ver. Cole, si me escuchas, es importante. Devuelve la llamada. —Un clic, un murmullo apagado, "¿ya? ¿le doy aquí?", y el buzón cortó solo.
+—Todo el mundo tiene algo. Dime el número.
 
-Cole lo escuchó dos veces, sin sacar nada más la segunda vez que la primera. Después dejó el teléfono en el asiento, sobre el imán todavía envuelto en la servilleta, y volvió a la carretera.
+—No es de números. Es de un lugar. —Danny se apoyó en la pared, esperando a que Nadir terminara con la hoja que tenía entre los dedos—. Una bodega al otro lado del canal. Dicen que ahí guardan una cosecha entera ya lista para vender. Buena. De la que sale cara.
 
-No llamó a Walt. Ya iba para allá.
+Eso sí hizo que Nadir levantara la vista.
 
-***
+—¿Quién te dijo eso?
 
-Nadir había esperado a que Cole saliera de la ciudad para hacer lo que llevaba semanas planeando solo — lo que Cole nunca le habría dejado tocar con dinero de Almendra Towing, y lo que por eso mismo iba a resolver por su cuenta.
+—Se comenta. —Danny se encogió de hombros, sin comprometerse con una fuente—. Que la cuida un solo hombre. Tuerto. Que se pasa las noches bebiendo y ya ni se para bien de la silla.
 
-Manejaba con la ventana baja y el codo afuera, contando dinero en la cabeza antes de que existiera.
+Nadir se quedó pensando, la tijera de podar todavía entre los dedos.
 
-—Wallah, khoya, si esto sale como lo pienso vamos a tener para las máquinas nuevas y algo más.
+—¿Se comenta, o alguien lo vio con sus propios ojos?
 
-Danny no contestó. Miraba la tienda al otro lado de la calle, una bodega pequeña de las que La Ronda del Canal dejaba abiertas toda la noche porque el dinero fácil de las tres de la mañana era, según Irene Salcedo, el único dinero fácil que quedaba en el sur.
+—Se comenta —repitió Danny, y esa vez sonó más a advertencia que a rumor.
 
-—Quédate con el motor prendido —dijo Nadir, ya bajando del auto—. Entro, salgo, nadie me ve la cara.
+—Wallah, khoya, eso no es lo mismo. —Nadir dejó la tijera sobre la mesa, sin decidir todavía—. Un tuerto borracho cuidando una cosecha entera sin que nadie sepa de quién es. O es la entrada más fácil del año, o es la peor mentira que alguien ha puesto a correr por esta calle a propósito.
 
-Alguien sí se la vio.
+—Puede ser las dos cosas.
 
-Nadir no llevaba ni tres minutos adentro cuando dos hombres de Irene cerraron el paso a los dos costados del auto antes de que Danny alcanzara a meter reversa. Para cuando Nadir salió corriendo, ya era tarde para los dos.
+—Puede. —Se limpió las manos en el pantalón, mirando la planta sin verla realmente—. Cole no está. Héctor tampoco sabría nada de esto. Y tú y yo solos no somos el barrio entero — somos dos hombres con una idea que a lo mejor no es nuestra para tenerla.
 
-No hicieron preguntas antes de quitarles el teléfono, el auto y cualquier ilusión de que esa noche iba a terminar como la habían planeado.
+Danny no dijo nada. Dejó que el silencio hiciera lo que Nadir necesitaba que hiciera.
 
-—Esto no es de ustedes —dijo Nadir, todavía tratando de sonar razonable—. No sabíamos.
+—Bezaf riesgo para un rumor de calle —dijo Nadir, al final, más para sí mismo que para Danny.
 
-—Ahora ya saben —contestó el más joven de los dos, sin apuro—. Y se van a quedar aquí hasta que alguien decida qué hacer con eso.
+—¿Entonces no?
 
-Nadir miró a Danny.
+Nadir miró la puerta del sótano, después a Danny, y se tardó un segundo de más en contestar.
 
-Danny miró el teléfono que ya no tenía en la mano — el mismo que nunca llegó a usar, porque nunca llegó a tener tiempo de intentarlo.
-
-Ninguno de los dos iba a poder avisarle a nadie ese fin de semana.
+—Está bien. Vamos a verlo con nuestros propios ojos primero. Si el rumor es cierto, después decidimos.
 
 ***
 
-Chiara fue a buscar a Cole al taller sin llamar antes, porque llevaba dos días acostumbrándose a la idea de que ya podía hacer eso.
+## Dos días antes
 
-La calle de la Almendra estaba tranquila a esa hora, con el sol todavía bajo y los perros del barrio moviéndose despacio entre los patios. Pasó frente a la casa de Héctor de camino al taller — más por costumbre que por plan, porque todo el mundo que conocía a Cole terminaba pasando frente a la casa de Héctor tarde o temprano.
+El mismo viernes que Cole cargaba la camioneta para el campamento, del otro lado de la ciudad, Chiara conducía el sedán negro del Monarch — un Mercedes-Benz Clase S que la empresa le había asignado como quien asigna un traje, sin preguntar si le quedaba bien — con las dos manos en el volante y la espalda más recta de lo que el asiento pedía. Nunca se había sentido cómoda manejando; prefería que la llevaran, prefería mirar por la ventana en vez de vigilar el espejo. Pero era, por ahora, el método más rápido que tenía para moverse sola sin explicarle a nadie a dónde iba ni por qué — así que manejaba, con el catálogo y una bolsa de pan todavía caliente en el asiento del copiloto, hacia la casa de Héctor.
 
-Lo vio en el suelo, junto al portón.
+No era una visita anunciada, pero tampoco necesitaba serlo — llevaba semanas viendo, cada vez que pasaba por ahí, las mismas sillas de la cocina de Héctor con una pata reforzada con cinta de aislar, el mismo sofá que crujía como advertencia cada vez que alguien se sentaba del lado equivocado. Se lo había dicho una vez, medio en broma, medio no: *un día de estos alguien se va a partir la cabeza con ese sofá, Héctor.* Él se había reído y no había cambiado nada, así que ella decidió cambiarlo por él — un catálogo marcado en tres páginas con las esquinas dobladas, y pan de la panadería de la esquina, porque presentarse con las manos vacías nunca le había parecido de buena educación.
 
-No gritó enseguida. Corrió primero, se arrodilló, le buscó el pulso con dos dedos temblando más de lo que hubiera querido admitir después.
+La puerta de la casa estaba abierta.
+
+No mucho — una franja de sombra entre la puerta y el marco, la clase de detalle que un día cualquiera no significa nada y que ese día, sin que Chiara supiera todavía por qué, le cerró el estómago antes de que sus piernas terminaran de decidir apurar el paso.
+
+Lo encontró junto al portón, de lado, con una mano todavía estirada hacia algo que ya no importaba qué era.
+
+Soltó el catálogo. Soltó el pan.
 
 —Héctor.
 
@@ -70,58 +73,83 @@ Un quejido. Los ojos entreabiertos, sin enfocar.
 
 Chiara ya tenía el teléfono en la mano marcando la emergencia antes de terminar de decidir que eso era lo que tenía que hacer. Habló con una calma que no sentía, dio la dirección dos veces para asegurarse, y se quedó con la mano de Héctor entre las suyas hasta que llegó la ambulancia, repitiéndole en voz baja que se quedara, que no se fuera, en un idioma que él probablemente no entendía y que a ella, en ese momento, le salió antes que el español.
 
+Subió a la ambulancia sin que nadie se lo preguntara, y nadie se lo impidió. Se sentó donde le indicaron, fuera del camino de los paramédicos, con las manos vacías por primera vez desde que había llegado a la casa. Los miró trabajar sobre Héctor con una eficiencia que no dejaba espacio para el miedo, y agradeció, en silencio, que al menos alguien en ese vehículo supiera exactamente qué hacer.
+
+Marcó a Cole con el teléfono pegado al oído y la sirena tapando cualquier respuesta que no fuera silencio.
+
+No contestó.
+
 ***
 
-Empezó a llamar a Cole desde la sala de espera, en cuanto se llevaron a Héctor y ya no quedó nada que hacer con las manos.
+En el hospital la sentaron en una sala pequeña, de esas que existen solo para que alguien espere en ellas, y una oficial se acercó antes que ningún médico — uniformada, joven, con la clase de calma que no se aprende en un solo turno.
+
+—Lucía Varek —dijo, sin sentarse—. Nada más un par de preguntas de rutina, cuando la casa queda con la puerta abierta y alguien adentro sin poder explicarlo. ¿Usted lo encontró así?
+
+—Sí. La puerta ya estaba abierta cuando llegué.
+
+—¿Forzada?
+
+—No que yo haya visto.
+
+Lucía anotó algo breve, asintió, y no se quedó más de lo necesario.
+
+—Un médico va a salir a hablarle en un momento. Gracias por su tiempo, señora...
+
+—Bellandi.
+
+—Señora Bellandi.
+
+Se fue con el mismo paso con el que había llegado, y Chiara no volvió a pensar en ella hasta mucho después.
+
+El médico que salió minutos más tarde no le dio mucho más que un nombre para lo que ya sabía en el cuerpo: infarto. Estable, por ahora. Un especialista de cardiología se haría cargo del seguimiento apenas hubiera cama libre, y hasta entonces no había nada confirmado del todo — solo lo suficiente para saber que la palabra correcta era esa y no otra.
+
+***
+
+Empezó a llamar a Cole otra vez en cuanto el médico se fue y ya no quedó nada que hacer con las manos.
 
 No contestó. Volvió a llamar. Lo mismo.
 
-Se obligó a pensarlo despacio, como pensaba todo. ¿Dónde estaba? Fuera de la ciudad, había dicho, un día o dos. ¿Quién lo sabía? Llamó a Walt. Walt sabía más que ella y tampoco lo suficiente: Cole se había ido de campamento con Marisol, al norte, a alguno de los sitios de siempre, y no llevaba el teléfono encima — o lo llevaba apagado, que para el caso daba igual. Nadie tenía el punto exacto. Nadir no contestaba. Danny tampoco.
+Se obligó a pensarlo despacio, como pensaba todo. ¿Dónde estaba? Fuera de la ciudad, había dicho, un día o dos. Llamó a Walt.
 
-Fue hasta el taller. Garrett y Russ ya sabían lo de Héctor — Nadir y Danny seguían sin aparecer, y nadie en el taller preguntó por qué en voz alta. Le dijeron que Walt lo estaba buscando, que Héctor estaba estable, que Cole volvía el domingo, y que no valía la pena mandar a nadie a recorrer media montaña por algo que ya no era una emergencia. No les faltaba lógica.
+Walt llegó al hospital antes de que ella terminara de explicarle bien qué había pasado, con la misma cara que Chiara imaginaba que tenía ella misma.
 
-Le quedaba un canal, y era lento. Esa noche, en el penthouse, sacó su papel —el bueno, el que olía a lo que ella olía— y escribió lo que tenía que escribir. Al día siguiente pasó por la casa de Cole y metió el sobre por debajo de la puerta. Era el único lugar donde sabía, con certeza, que él iba a mirar.
+—Contame todo —dijo, sentándose a su lado sin quitarse la chaqueta.
+
+Se lo contó en orden, sin saltarse nada: que había ido a dejarle un catálogo y pan, que la puerta estaba abierta, que lo encontró junto al portón, que llamó a emergencias, que subió con él en la ambulancia, que intentó a Cole tres veces y ninguna contestó.
+
+—Un infarto —terminó—. Estable. Todavía esperan que venga el especialista a confirmar del todo.
+
+Walt se quedó callado un momento, con las manos entre las rodillas.
+
+—Ya había tenido uno antes —dijo, al final—. Chiquito. Antes de que yo me fuera. Ni se dio bien cuenta de lo que fue hasta después, y para cuando alguien le insistió que se hiciera ver, ya se le había pasado el susto y no quiso. Nunca fue nada que alguien le vigilara de cerca.
+
+Chiara no dijo nada. Pensó, sin decirlo, en lo poco que avisa un corazón antes de fallar del todo — en que a veces el cuerpo entero sigue funcionando exactamente igual hasta el día que deja de hacerlo, y en el precio que puede llegar a tener no tomarse en serio algo que no duele lo suficiente como para asustar a nadie.
+
+—¿Nadir? ¿Danny? —preguntó Walt, después—. Alguno de los dos tiene que saber cómo llegar a Cole.
+
+—Los llamé. A los dos. Nada.
+
+—Raro. —Walt no dijo más que eso, pero algo en su cara dijo que el silencio de Nadir le pesaba de una manera distinta a como le pesaba el de Cole, y que todavía no sabía por qué—. Voy a seguir intentando.
+
+No lo consiguió esa noche, ni Chiara tampoco.
+
+—Yo me quedo aquí —dijo Walt, después de un rato, ya sin la chaqueta puesta—. Vaya a descansar. Alguien tiene que estar despierto cuando Cole por fin aparezca.
 
 ***
 
-Cole no fue directo al hospital. Paró en su casa primero — a dejar la camioneta, a soltar el bolso, a quitarse el humo de encima antes de aparecer en un cuarto de hospital.
+En el Monarch, sentada a su propio escritorio, sacó su papel de siempre — el bueno, el que olía a canela y vainilla, el mismo en el que llevaba meses escribiendo todo lo que de verdad importaba — y escribió lo que tenía que escribir. Llamó, por costumbre, a uno de los sussurros de guardia, con el sobre ya cerrado y el nombre de Cole trazado en tinta sobre la solapa.
 
-La casa estaba como la había dejado, oliendo todavía a pintura nueva en el cuarto que Chiara había repintado dos veces. El sobre estaba en el suelo, junto a la puerta, donde había caído al pasar por debajo.
+No llegó a dárselo.
 
-Lo reconoció antes de agacharse. El papel. El aroma —canela, vainilla, algo que no pertenecía a ninguna parte cerca de un taller de grúas—. La letra apretada e inclinada, la misma que una vez le había puesto en la mano un chico que no sabía lo que estaba entregando.
+Se quedó con el sobre en la mano un momento de más, pensando en un chico de doce años parado frente a un desconocido en su propio territorio, cargando un papel que no entendía, y en la promesa que le había hecho a Cole hacía apenas unas semanas: que si alguna vez tenía que llegarle algo, lo llevaría ella misma.
 
-Esta vez no había nada que descifrar.
+—Yo lo llevo —le dijo al sussurro, y se guardó el sobre en el bolsillo del abrigo antes de que nadie pudiera ofrecerse a ahorrarle el viaje.
 
-> *Cole — encontré a Héctor ayer junto al portón de su casa. Sufrió un infarto. Está estable en Santa Aurelia. Espero que mejore pronto y que pueda volver con todos los chicos del barrio, que sé que lo están esperando. Voy a buscar un momento para llevarle flores.*
+Metió la hoja, antes de cerrar el sobre, en uno del hotel — grueso, rojo, con el sello dorado del casino en la solapa. No hacía falta esconder este mensaje de nadie; podía permitirse, por una vez, que se viera desde lejos.
 
-Ni una urgencia. Ni un *llámame*. Una carta dejada en el suelo de su casa por alguien que sabía dos cosas: que ese fin de semana no había forma de alcanzarlo, y que tarde o temprano él iba a cruzar esa puerta.
+Condujo hasta la Almendra con el sedán negro del Monarch, las dos manos en el volante, sin la costumbre suficiente para sentirse cómoda pero sin nadie a quien pedirle que manejara por ella. Metió el sobre por debajo de la puerta de Cole, sin abrirlo de nuevo, sin releerlo, sin darse el permiso de dudar de lo que había escrito.
 
-Leyó la palabra *infarto* dos veces, como si repetirla la fuera a volver más manejable. Se quedó con el papel en la mano más de lo necesario. Después volvió a agarrar las llaves.
+Tenía llaves. Nunca las había usado para entrar cuando él no estaba, y no iba a empezar ese día — no porque el momento no lo ameritara, sino precisamente porque sí lo ameritaba, y cruzar esa puerta sin él adentro le pareció, incluso entonces, una intimidad que todavía no le correspondía tomarse sola.
 
-***
+Era, de todos modos, el único lugar donde sabía, con certeza, que él iba a mirar.
 
-Pasó por el casino antes que por el hospital, y ni él habría sabido explicar bien por qué — salvo que Chiara era la que había encontrado a Héctor, la que había llamado a la ambulancia, la que llevaba el fin de semana entero sosteniendo algo que a él le habían dejado en un buzón.
-
-Ella lo recibió antes de que llegara a preguntar nada, porque lo vio cruzar el piso de juego con una cara que ya conocía y que no le había visto nunca dirigida a ella.
-
-—Está estable —dijo, antes de que él abriera la boca—. El sábado. Un infarto. Lo encontré en el portón de su casa, llamé a emergencias y me quedé con él hasta el hospital. Después te llamé a ti, desde la sala de espera, y no paré de llamarte. Llamé a Walt. Nadie sabía dónde ir a buscarte.
-
-—Ya sé. —Cole se pasó una mano por la cara—. Estaba en un cerro con el teléfono apagado.
-
-—Nadir y Danny están retenidos —siguió Chiara—. Intentaron algo en territorio de La Ronda del Canal. Irene los tiene. Por ese lado tampoco te iba a llegar nada.
-
-Nadir nunca le había contado de la tienda. No hacía falta preguntarle por qué.
-
-La furia seguía ahí, entera, y ya no tenía dónde ir. No a Chiara, que había hecho todo lo que se podía hacer. No a Walt, que había contestado el teléfono. No a los muchachos, que habían decidido sin malicia que un hombre estable podía esperar al domingo. Quedaba él — dos días en las montañas, el teléfono guardado en el fondo de una mochila porque se lo había pedido una chica de veinte años y él había querido dárselo.
-
-—Cole.
-
-Se detuvo.
-
-—Héctor está bien —repitió Chiara, más despacio—. Está vivo, está estable, y va a estar molesto contigo si llegas ahí gritando en vez de sentarte.
-
-Cole se quedó quieto un segundo, con la furia todavía completa y sin nada firme donde clavarla.
-
-—Llévame con él —dijo, al final.
-
-Chiara ya tenía las llaves en la mano.

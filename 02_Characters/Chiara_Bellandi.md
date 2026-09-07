@@ -17,7 +17,7 @@
 
 ## Apariencia
 
-Pelo negro, largo hasta media espalda cuando lo lleva suelto, con una ondulación que no le cuesta nada y que a ella le consta que vale dinero. Ojos almendrados con tonos verdes adentro, del tipo que cambia según la luz de la habitación — detalle que ha usado profesionalmente y que le parece un poco ridículo que funcione. Rasgos italianos/sicilianos, piel aceitunada, nariz recta, un lunar sobre el labio que en las fotos siempre sale del mismo lado porque siempre ofrece el mismo perfil.
+Pelo negro, largo hasta media espalda cuando lo lleva suelto, con una ondulación que no le cuesta nada y que a ella le consta que vale dinero. Ojos almendrados con tonos verdes adentro, del tipo que cambia según la luz de la habitación — detalle que ha usado profesionalmente y que le parece un poco ridículo que funcione. Rasgos italianos/sicilianos, piel aceitunada, nariz recta, un lunar sobre el labio que en las fotos siempre sale del mismo lado porque siempre ofrece el mismo perfil. **1.68 m.** No tiene complexión atlética, pero hace spinning y yoga con regularidad — cuerpo tonificado, no marcado. Unos cuantos lunares pequeños y naturales en la parte alta de la espalda/hombros, visibles cuando lleva el cabello suelto.
 
 Se viste con una precisión que no es lujo sino cálculo: **cada prenda está elegida para decirle a la habitación quién es antes de abrir la boca.** Sabe exactamente cuánto vale parecer cara y en qué barrios eso es un error. Tacones que puede correr con ellos. Un bolso grande, siempre — y adentro, siempre, una pistola pequeña que jamás ha disparado en público.
 
@@ -279,6 +279,7 @@ Ahí es donde supera a Cole en escala. Él acumula deudas, nombres y rutas hasta
 - **Enciende una vela cada vez que Cole sale a trabajar.** No es superstición ni decoración: es su manera de pedir que vuelva a casa. Ver [[04_Concepts/Fe_y_Velas]].
 - **Bellandi Ridge no se contamina gratis.** Si alguien usa sus viñedos como escondite, amenaza o infraestructura criminal, debe sentirse como una profanación de algo suyo.
 - **Exige que la llamen Sra. Bellandi.** "Chiara" a secas es un privilegio, no un dato público — sólo lo usan los seleccionados. Cuando alguien lo usa sin haberlo ganado (ver [[02_Characters/Tommaso_Lusardi]], ficha de voz: "usa el nombre 'Chiara' con una familiaridad que no tiene derecho a reclamar del todo"), es una transgresión leída, no un descuido de estilo.
+- **No se siente cómoda manejando.** Prefiere que la lleven. Su método actual para moverse sola es un sedán negro del Monarch — un Mercedes-Benz Clase S, coche corporativo asignado por la empresa — que maneja ella misma cuando no quiere explicarle a nadie a dónde va. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/16_El_Porton|Capítulo 16]] (2026-09-03).
 
 ---
 

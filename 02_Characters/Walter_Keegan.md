@@ -57,6 +57,8 @@ Silas, por su parte, necesita quitarse de encima a **uno de los pocos hombres lo
 
 Así que **consigue que Walt termine condenado. Diez años.**
 
+> **RESUELTO (2026-09-03), escrito en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/18_Cuentas_Claras|Capítulo 18, sección "Anticiparse"]]:** el mecanismo exacto. Crowe intentó reclutar a **Jim**, el hijo de Walt, sin que Walt lo supiera — trabajos chicos, mandados, metiéndolo despacio en su mundo. Cuando Walt se enteró, fue a la oficina de Crowe y le partió el escritorio con una barreta, sin tocarlo a él. Tres días después, un guardia terminó gravemente herido en un asalto a una casa de empeños de Crowe — y la misma barreta, con las huellas de Walt todavía en ella (movida de lugar, no fabricada), apareció en la escena. Crowe no tuvo que inventar evidencia: la evidencia ya existía, solo tuvo que reposicionarla. Tres abogados aceptaron el caso y se echaron atrás en una semana sin explicar por qué; el defensor de oficio asignado estaba desbordado. Diez años. En la misma escena, Walt se pregunta si Crowe todavía tiene ese alcance sobre el sur de la ciudad — el rumor que le costó a Nadir y Danny la bodega de La Ronda le suena exactamente igual. Nadir sugiere que podría ser Darío; Walt lo descarta ("no se ensucia las manos con un rumor de barrio"), pero el capítulo deja la duda abierta.
+
 Y Silas tiene **una década entera** para construir su pequeño reino sin él.
 
 ---

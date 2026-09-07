@@ -6,6 +6,7 @@ Lugares: La Casa (loft de Cole), la universidad / residencia de Marisol, carrete
 Funcion: capitulo puente / beat de familia. Presentar a Marisol en escena; mostrar por conducta la relacion casi paternal con Cole; explorar "la amiga Chiara" desde alguien que conoce a Cole de antes de Chiara; justificar por caracter (la regla del telefono, heredada de Michael) que Cole quede incomunicado durante el infarto de Hector; cerrar con las llamadas perdidas que abren H10. Version expandida (2026-09-02): mas cuerpo y aventura para el fin de semana -- competencia de piedras en el arroyo con mencion de un compañero de clase (Diego) que le lleva cafe; dato curioso de derecho (engaño investigativo en interrogatorios) que Cole guarda sin decir para que, sembrado para pago futuro; escena de mediodia donde Marisol pregunta por el loft/la casa recomprada y comparten, sin caer en elegia, cuanto extrañan a Michael; broma nueva donde a Cole se le escapa una palabra en italiano ("dai") sin darse cuenta y Marisol lo cacha -- "en serio te gusta, para que hayas aprendido italiano" -- el le resta importancia en voz alta y le da la razon por dentro.
 Sin ID de hito. En este punto Cole y Chiara ya tienen vinculo emocional pero TODAVIA NO se han besado; oficialmente son "buenos amigos". Michael Grayson aparece solo por conducta (una regla, un nudo de tienda, un cazo, una casa), nunca como elegia.
 Apertura por residuo: arranca del cierre del Capitulo 13 — el papel de "Roma Atrii" sin abrir sobre la repisa y la promesa de Chiara de traer ella misma lo que tenga que llegarle.
+Cierre corregido (2026-09-03): ya NO termina con Cole prendiendo el telefono y viendo las llamadas perdidas en la carretera -- eso se recoloca al inicio del Capitulo 16, cuando llega al loft. Aqui cierra con el telefono todavia apagado y una linea que le avisa al lector, sin que Cole lo sepa, que algo paso en paralelo en la ciudad mientras el estaba en la montaña -- ancla el "Dos dias antes" del Capitulo 16 al mismo fin de semana, no a un salto temporal separado.
 -->
 
 # Capítulo 15 — La regla del teléfono
@@ -366,18 +367,6 @@ Se fue hacia el edificio sin mirar atrás, con la chaqueta de Michael que le que
 
 Estuvo de buen humor todo el camino. Puso música. Pensó en el imán, que iba en la guantera envuelto en una servilleta para que no se rayara, y en que iba a tener que aguantar que Chiara le preguntara de dónde había salido.
 
-Sacó el teléfono de la guantera —Marisol se lo había devuelto al bajar— y lo encendió con el pulgar, sin mirarlo, mientras entraba a San Aurelio por el norte.
+Sacó el teléfono de la guantera —Marisol se lo había devuelto al bajar— y lo dejó apagado sobre el asiento. La regla no terminaba hasta que cruzara su propia puerta, y Cole no era de los que se saltaban sus propias reglas a la primera oportunidad.
 
-Tardó en agarrar señal. Cuando la agarró, empezó a vibrar y no paró.
-
-Llamadas perdidas. Muchas. El taller. Walt. Un número del hospital que no tenía guardado. Walt otra vez.
-
-Y después, seguidas, sin espacio entre una y otra:
-
-*Chiara.*
-
-*Chiara.*
-
-*Chiara.*
-
-Cole se orilló sin darse cuenta de que estaba frenando.
+No tenía manera de saber que, mientras él pensaba en imanes feos y en cómo Chiara iba a levantar una ceja al verlo, la ciudad llevaba dos días encima de una fila de teléfonos que nadie contestaba.

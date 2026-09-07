@@ -14,6 +14,8 @@ Construccion baja de estuco cansado, cancha de concreto al lado, cocina con olor
 
 No tiene nombre en la puerta porque quien necesita saber que es, ya lo sabe.
 
+**DISEÑO (2026-09-03):** tiene un sótano donde [[02_Characters/Nadir_Amrani]] cultiva su hierba — ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/16_El_Porton|Capítulo 16]], donde Danny baja ahí con el rumor de la bodega de La Ronda.
+
 ## Funcion en el primer capitulo
 
 Despues de comprar comida en [[05_Locations/La_Esquina_de_Mabel]], Cole llega a la casa comun, deja las bolsas y se cambia para el Monarch. Aqui Nadir lo ve con el traje azul y le dice:

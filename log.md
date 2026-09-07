@@ -2446,3 +2446,121 @@ V1 preservada como baseline. V1.1 separa palabras brutas/habladas, reserva HIGH 
 **Sin commit ni push.**
 
 **Nota rápida 2026-09-02:** EPUB regenerado con los 20 capítulos vigentes (incluye Cap. 14 *Auster* y las últimas ediciones de los Caps. 12 y 13). Sigue pendiente el barrido de números de capítulo en `Hitos.md` y `CURRENT_BRIEF.md`.
+
+## Sesión 2026-09-03 | Rediseño Cap. 16 + desdoblamiento en Cap. 17 nuevo
+
+**Cap. 16 (El portón):** apertura de Nadir/Danny reescrita con textura de calle — cultivo en el sótano de la Casa Comunitaria, rumor de Danny sobre una bodega sin dueño conocido (cosecha lista, guardián tuerto y borracho), duda real de Nadir antes de decidir, cierre ambiguo ("vamos a verlo primero") sin mostrar golpe ni captura — eso se reserva para un capítulo de negociación futuro con Irene Salcedo, cuyo plan completo quedó fijado en `La_Ronda_del_Canal.md` (incluye el desconocimiento genuino de los chicos como palanca de negociación de Cole).
+
+Lado de Chiara expandido: sedán negro del Monarch (Mercedes-Benz Clase S, no se siente cómoda manejando — nueva regla dura en su ficha), sube con Héctor en la ambulancia, cameo de la oficial Lucía Varek (pregunta de rutina), un médico confirma el infarto pendiente de especialista, conversación completa con Walt en la sala de espera (revela un preinfarto previo de Héctor, nunca vigilado de cerca — Chiara lo procesa con una reflexión propia sobre enfermedades silenciosas, sin nombrar a su madre en prosa), y la reversión de último momento donde decide llevar la carta ella misma en vez de mandarla con un sussurro.
+
+**Cap. 16 se rediseñó como POV exclusivo de Chiara** y se desdobló: todo el contenido de Cole (encuentra el sobre, prende el teléfono, corre al casino) pasó a un **Cap. 17 nuevo — "El sobre rojo"**, POV exclusivo de Cole. Esto renumeró los Caps. 17-20 → 18-21.
+
+Actualizado: Book_Map, INDEX, ledger de revelaciones (Roma Atrii/carta), fichas de Nadir, Danny, Casa Comunitaria, Chiara (regla del sedán), y el plan de negociación en La_Ronda_del_Canal.md con las rutas de archivo correctas.
+
+EPUB regenerado (21 capítulos).
+
+**Sin commit ni push.**
+
+## Sesión 2026-09-03 (parte 2) | Cap. 19 nuevo — Cuentas claras (negociación con Irene)
+
+Nuevo capítulo insertado entre el hospital (Cap. 18) y El día nublado (ahora Cap. 20). Resuelve el hilo del robo de Nadir y Danny sembrado en el Cap. 16.
+
+**Estructura:** apertura POV mundo criminal — Tomas Vale (La Ronda del Canal) ejecuta el golpe de advertencia de Irene dentro de la Almendra: un minimarket, mercancía equivalente a lo robado, marca de La Ronda visible en la puerta — sin violencia contra personas, mensaje calculado y proporcional. Walt le cuenta a Cole. Sin Héctor (hospitalizado, su mejor negociador), Cole y Walt van solos al Canal Seco — primera vez que Cole negocia sin su mentor. **Primera aparición en prosa de Irene Salcedo** (ficha y voz creadas). Cole usa el desconocimiento genuino de Nadir y Danny (nunca supieron de quién era la bodega) como palanca principal; Walt exagera una consecuencia interna todavía no decidida, mostrando en acción su talento para mentir. Cierra con devolución íntegra + interés, relación neutral, territorios respetados, y la confirmación tácita de que La Almendra ya tiene dueño: Cole Mercer.
+
+**Hilo nuevo sembrado, sin resolver:** Irene sugiere que el rumor de la bodega mal cuidada pudo no ser casualidad — alguien pudo haberlo sembrado a propósito para generar fricción entre El Patio y La Ronda. No se identifica quién. Anotado en `La_Ronda_del_Canal.md` como pendiente.
+
+**Renumeración:** Caps. 19-21 → 20-22 (El día nublado, El mirador, Sin rastro). Book_Map, INDEX y ledger actualizados. Fichas nuevas: Irene Salcedo (personaje + voz).
+
+EPUB regenerado (22 capítulos).
+
+**Sin commit ni push.**
+
+## Sesión 2026-09-03 (parte 3) | Cap. 20 nuevo — Anticiparse (reunión del barrio)
+
+Nuevo capítulo insertado entre la negociación con Irene (Cap. 19) y El día nublado (ahora Cap. 21). Reunión de todo el barrio en casa de Héctor, ya de vuelta del hospital y recuperándose (primera vez usando la silla verde del catálogo).
+
+**Contenido:** recuento completo de causas y consecuencias para el barrio — el costo real (dos pares de manos menos en el taller, cedidas gratis a La Ronda) y el dato más incómodo: el rumor de la bodega era demasiado preciso para haber sido chisme de calle común. Walt es quien lo articula primero. Los personajes no llegan a identificar quién lo sembró ni por qué — eso queda como **lore de trasfondo, nunca confirmado en prosa**, anotado en `Dario_Varek.md` (conecta con su ya establecido "maneja a las bandas menores como clima" — le conviene que El Patio y La Ronda queden enemistados en vez de aliados). El lector puede sospechar; los personajes no.
+
+Cierra con Cole a solas con Nadir y Danny: no está enojado por la decisión que tomaron, sino por no habérselo dicho antes — la sorpresa le cuesta más que el error, porque le impide anticiparse con un plan. Nadir acepta la regla nueva: avisar siempre, aunque la respuesta vaya a ser no.
+
+**Renumeración:** Caps. 20-22 → 21-23 (El día nublado, El mirador, Sin rastro). Book_Map, INDEX, ledger y fichas de Nadir actualizados.
+
+EPUB regenerado (23 capítulos).
+
+**Sin commit ni push.**
+
+## Sesión 2026-09-03 (parte 4) | Fusión de capítulos cortos
+
+A pedido del autor: dos pares de capítulos resultaban demasiado cortos por separado y se fusionaron.
+
+- **Cap. 17 "El sobre rojo"** (título oficial conservado) ahora incluye lo que era el antiguo Cap. 18 "Cuatro letras" como su segunda mitad, con encabezado interno propio.
+- **Cap. 18 "Cuentas claras"** (título oficial conservado) ahora incluye lo que era el antiguo Cap. 20 "Anticiparse" como su segunda mitad, con encabezado interno propio.
+
+Se eliminaron los archivos `18_Cuatro_Letras.md` y `20_Anticiparse.md` (contenido preservado dentro de los archivos fusionados). Renumeración -2 de los Caps. 19-23 → 17-21. **Total: 21 capítulos** (antes 23).
+
+Actualizado: Book_Map, INDEX, ledger de La Ronda del Canal, fichas de Nadir, Marisol, Dario Varek y Elenna Mercer — todas las rutas y números de capítulo verificados sin referencias rotas.
+
+EPUB regenerado (21 capítulos).
+
+**Sin commit ni push.**
+
+## Sesión 2026-09-03 (parte 5) | Backstory de Walt/Crowe/Jim en Cap. 18
+
+En la sección "Anticiparse" del Cap. 18, Walt reconoce el patrón del rumor demasiado preciso porque ya se lo hicieron a él: revela por primera vez en prosa el mecanismo completo de su encarcelamiento hace diez años.
+
+**Historia resuelta:** Crowe intentó reclutar a Jim (hijo de Walt, ya fallecido para cuando abre la novela — Afganistán, Cap. 1 y 3) a espaldas de Walt. Walt lo confrontó y le partió el escritorio con una barreta, sin tocarlo a él. Días después, esa misma barreta —con las huellas reales de Walt, no fabricadas— apareció como arma en un asalto violento a una casa de empeños de Crowe. Crowe no inventó evidencia, solo la reposicionó. Se aseguró además de que ningún abogado sostuviera el caso (tres se echaron atrás sin explicar por qué; el defensor de oficio estaba desbordado). Diez años.
+
+Walt se pregunta si Crowe todavía tiene ese alcance sobre el sur de la ciudad. Nadir sugiere que podría ser Darío; Walt lo descarta ("no se ensucia las manos con un rumor de barrio") — pero el capítulo deja la duda abierta para el lector, en línea con el trasfondo de lore ya sembrado en `Dario_Varek.md`.
+
+**Fichas actualizadas:** Walter_Keegan.md, Silas_Crowe.md (apariencia resuelta: obeso), y ficha nueva **Jim_Keegan.md** (consolidando material disperso en notas de sesión antiguas que nunca había tenido ficha propia).
+
+EPUB regenerado.
+
+**Sin commit ni push.**
+
+## Sesión 2026-09-03 (parte 6) | Escena de la tumba de Jim en Cap. 3
+
+Se necesitaba en prosa para que la mención de Walt a Jim en el Cap. 18 tuviera peso contenido, no apareciera de la nada. Insertada entre el porche y la sección de Chiara en el Capítulo 3.
+
+**Escena:** el mismo día que sale de prisión, Cole lleva a Walt (con Héctor) al cementerio de Santa Lucía. Walt no sabía que Jim había muerto — se entera ahí, por Cole, de que fue hace ocho meses en Afganistán, y que Cole estaba presente. Circunstancias exactas deliberadamente no detalladas ("¿Fue rápido?" / "Sí" — ambos saben que no del todo), consistente con la restricción de estilo ya usada para otras muertes del libro (Dale, Ruth): gestos físicos, diálogo mínimo, sin melodrama.
+
+Fichas actualizadas: Jim_Keegan.md (escena marcada como escrita), cabecera del Capítulo 3.
+
+EPUB regenerado.
+
+**Sin commit ni push.**
+
+## Sesión 2026-09-03 (parte 7) | Recuerdo profundo de la muerte de Jim en Cap. 3
+
+Insertado dentro de la escena de la tumba: un recuerdo privado y profundo de Cole (memoria pura, nunca hablada en voz alta a nadie -- misma regla que el balcón de Dale/Ruth en el Cap. 11), con dos objetivos: mostrar la faceta paternal/cálida de Cole con niños, y sembrar el segundo easter egg del arco de Elenna.
+
+**Contenido:** en un pueblo de Afganistán, Cole le enseña a un niño a atarse las botas; Jim lo observa y le dice "tienes madera de padre, Mercer" -- Cole responde que no tuvo buen ejemplo, Jim contesta que ser cálido con los niños pese a eso es justo la prueba de que está equivocado. Esa misma tarde, Cole descubre un reporte sobre suministros que Jim vendía a civiles (no crimen de guerra, pero suficiente para baja deshonrosa). Dos días después, una emboscada -- donde también están Russ (se lesiona la pierna, permanente) y Garrett -- hiere de muerte a Jim con metralla. Muere en brazos de Cole pidiéndole que nunca le diga a Walt lo que hizo; Cole jura que no lo hará y le dice que va a estar bien. Últimas palabras de Jim: "Papá tenía razón. Nunca supiste mentir."
+
+**Corrección de cronología:** cambiado "hace ocho meses" a "hace más de cuatro años" -- la muerte de Jim tuvo que ocurrir mientras Cole todavía estaba en el ejército, antes de sus cuatro años en San Aurelio, no durante ese período.
+
+**Fichas actualizadas:** Jim_Keegan.md (resuelto: circunstancias de muerte, relación con Cole), Russell_Whitaker.md y Garrett_Cross.md (presentes en la emboscada), Elenna_Mercer.md (segundo easter egg documentado con la cita exacta).
+
+EPUB regenerado.
+
+**Sin commit ni push.**
+
+## Sesión 2026-09-03 (parte 8) | Dos ajustes al recuerdo de Jim (Cap. 3)
+
+1. Se añadió una confrontación previa entre Cole y Jim sobre el reporte de suministros (dos días antes de la emboscada) -- Jim lo justifica comparándolo con lo que hacía su padre "antes de que el Tasador se lo arruinara"; Cole no lo entrega pero exige que pare. Esto hace que "no le digas nada a mi padre" en la emboscada retome una conversación que el lector ya vio, no algo nuevo.
+2. Se corrigió la línea de Cole en el momento de la muerte: ya no dice que ÉL está orgulloso, sino que **el padre de Jim (Walt)** estaría orgulloso de que lo haya reconocido -- devolviéndole a Jim, en su último momento, la aprobación de Walt que él mismo creía haber perdido.
+
+Ficha de Jim_Keegan.md actualizada con ambos ajustes.
+
+EPUB regenerado.
+
+**Sin commit ni push.**
+
+## Sesión 2026-09-03 (parte 9) | Corrección de continuidad temporal en Cap. 3
+
+Se encontró un "ocho meses" sin actualizar que había quedado de la primera versión (antes del ajuste a "más de cuatro años"): aparecía tanto en la línea de Walt ("resulta que llevaba ocho meses sabiéndolo...") como en el comentario de cabecera del capítulo. Ambos corregidos a "más de cuatro años", consistente con la línea de Cole unas páginas antes.
+
+Verificado contra canon existente: `Hitos.md` confirma que Cole llevaba "unos cuatro años en la ciudad, desde que volvió de su última rotación" al conocer a Chiara (H2) — la cronología de la muerte de Jim (semanas antes de que terminara esa rotación) encaja exactamente en el borde de esos cuatro años.
+
+EPUB regenerado.
+
+**Sin commit ni push.**

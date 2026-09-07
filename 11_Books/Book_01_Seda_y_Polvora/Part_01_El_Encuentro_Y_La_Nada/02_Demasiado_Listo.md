@@ -422,7 +422,7 @@ Se acomodó el saco del traje azul.
 
 Le quedaba demasiado bien para que pudiera fingir que era accidente y demasiado ajustado para olvidar, ni un segundo, que alguien había decidido vestirlo para una habitación. Los tenis blancos eran la única concesión que se había permitido: limpios, absurdos bajo el corte correcto del pantalón, una manera de llegar presentable sin entregar la garganta.
 
-El espejo negro de la puerta giratoria le devolvió una cara que nunca terminaba de pertenecer al barrio que lo había criado: pelo rubio, ojos azules, huesos de un norte que sus papeles no sabían nombrar. La cicatriz le cruzaba la mejilla derecha desde la comisura de la boca hasta el rabillo del ojo, una línea clara sobre una cara que habría parecido demasiado limpia sin ella.
+El espejo negro de la puerta giratoria le devolvió una cara que nunca terminaba de pertenecer al barrio que lo había criado: pelo rubio, ojos azules, huesos de un norte que sus papeles no sabían nombrar. La cicatriz le cruzaba la mejilla izquierda desde la comisura de la boca hasta el rabillo del ojo, una línea clara sobre una cara que habría parecido demasiado limpia sin ella.
 
 Si querían hablar con el dueño de Almendra Towing, podían conocer al dueño de Almendra Towing. Traje o no, eso no cambiaba.
 

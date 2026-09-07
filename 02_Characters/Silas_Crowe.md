@@ -87,6 +87,8 @@ Silas llegó y empezó a convertirlo todo en tarifa. Y Walt entendió al instant
 
 Silas necesitaba quitarse de encima a **uno de los pocos hombres lo bastante antiguos y respetados como para decirle que no.** Así que **consiguió que lo condenaran. Diez años** — una década entera para construir su reino sin él.
 
+> **RESUELTO (2026-09-03):** el mecanismo — Crowe intentó reclutar a Jim, el hijo de Walt, a espaldas de éste. Walt le partió el escritorio con una barreta al enterarse. Días después, esa misma barreta (con sus huellas reales, no fabricadas) apareció como arma en un asalto violento a una casa de empeños de Crowe. Crowe se aseguró además de que ningún abogado sostuviera el caso. Ver [[02_Characters/Walter_Keegan]] y [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/18_Cuentas_Claras|Capítulo 18]].
+
 **Y Walt sale justo cuando empieza la novela.** Ver su ficha.
 
 > **DISEÑO:** es la mejor grieta que tiene el Tasador. Su tesis es que todo tiene precio — **y lo que lo pone nervioso es un hombre que no le debe nada y que no quiere nada de él.** Walt ni siquiera necesita amenazarlo: le basta con volver a su casa y pedirse una cerveza.
@@ -133,7 +135,7 @@ El motivo declarado: **un cargamento que Cole no entregó a tiempo**, cuando tod
 
 ## Pendientes
 
-> **PENDIENTE:** apariencia, edad, y cómo se comporta cuando alguien deja de pagarle.
+> **RESUELTO EN PARTE (2026-09-03): apariencia.** Obeso — Walt se refiere a él como "el gordo hijo de puta" ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/18_Cuentas_Claras|Cap. 18]]). Edad y el resto del comportamiento siguen PENDIENTES.
 
 > **PENDIENTE:** su lógica decente ([[00_Biblia/Principios_Narrativos]], principio 3). Propuesta a validar: cree sinceramente que **él es lo único que mantiene la Almendra funcionando** — que sin alguien que ponga precios, el barrio se devora a sí mismo. Que se equivoque no significa que mienta.
 

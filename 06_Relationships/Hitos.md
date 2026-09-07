@@ -1464,7 +1464,7 @@ Antes de la noche, durante el día, ocurre la **escena de compra del auto de Chi
 
 - su salida abrupta del ejército;
 - cómo conoció a [[02_Characters/Nadir_Amrani]];
-- la historia de **la cicatriz que le cruza la mejilla derecha**;
+- la historia de **la cicatriz que le cruza la mejilla izquierda**;
 - **lo de los niños, y que por eso cayó en prisión.**
 
 Y el resto: **fue Nadir quien lo ayudó a salir.** En agradecimiento, Cole lo ayudó a entrar a Estados Unidos, con ayuda de [[02_Characters/Anya_Voronina]], la contacto rusa que le consiguió papeles.
@@ -1473,7 +1473,7 @@ Y el resto: **fue Nadir quien lo ayudó a salir.** En agradecimiento, Cole lo ay
 > - **Cole le cuenta lo de los niños, pero casi seguro NO que a él lo compraron.** Ver [[02_Characters/Warren_Halbrook]]. Que el lector tenga esa información y ella no es el hueco más grande que queda abierto en la pareja.
 > - **Ella le cuenta del Consorcio, no de Alessio.** Los dos entregan el sistema que los formó y se guardan el hecho concreto. Simetría exacta, y ninguno lo nota.
 
-> **PENDIENTE:** la historia de la cicatriz de la mejilla derecha.
+> **PENDIENTE:** la historia de la cicatriz de la mejilla izquierda.
 
 > **RESUELTO DE DISEÑO (2026-08-23):** la contacto rusa es [[02_Characters/Anya_Voronina]]. La deuda vuelve en [[06_Relationships/Momentos_de_Fractura]], F4 — Año Nuevo en Washington.
 

@@ -35,6 +35,8 @@ Ver [[05_Locations/Estado_de_la_Ciudad]] para el tablero electoral donde su camp
 
 Sirvió con Cole. No necesariamente fueron mejores amigos, pero compartieron suficiente barro, cansancio y órdenes absurdas como para que una llamada suya tenga otro peso.
 
+**RESUELTO (2026-09-03):** la lesión de la pierna viene de la misma emboscada donde murió [[02_Characters/Jim_Keegan]] — ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias|Capítulo 3]] (memoria de Cole). [[02_Characters/Garrett_Cross]] también estaba presente.
+
 Volvió lesionado, con una pierna que ya no le obedecía igual, y descubrió que San Aurelio respetaba más una historia de servicio que una historia de dolor. Aprende a convertir esa diferencia en campaña.
 
 ---

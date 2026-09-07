@@ -42,7 +42,7 @@ Lo que opera hoy:
 - Tiene a Rocco.
 - Está presente con [[02_Characters/Nadir_Amrani]] en [[06_Relationships/Hitos]], H2-a.
 - Aparece con Cole, Nadir y [[02_Characters/Hector_Navarro]] en Gabriella's durante [[06_Relationships/Hitos]], H3-b.
-- En [[06_Relationships/Hitos]], H10, intenta un robo con [[02_Characters/Nadir_Amrani]] en una tienda dentro del territorio de [[03_Factions/La_Ronda_del_Canal]] y los atrapa la gente de Irene Salcedo — quedan retenidos justo cuando Héctor sufre su infarto. **PENDIENTE (respeta el pedido del autor de no profundizar todavía):** detalle del robo y de cómo termina para ellos.
+- En [[06_Relationships/Hitos]], H10, intenta un robo con [[02_Characters/Nadir_Amrani]] en una tienda dentro del territorio de [[03_Factions/La_Ronda_del_Canal]] y los atrapa la gente de Irene Salcedo — quedan retenidos justo cuando Héctor sufre su infarto. **PENDIENTE (respeta el pedido del autor de no profundizar todavía):** detalle del robo y de cómo termina para ellos. **RESUELTO EN PARTE (2026-09-03):** es Danny quien trae el rumor de calle sobre la bodega de La Ronda (cosecha lista, guardián tuerto y borracho) — ver [[02_Characters/Nadir_Amrani]] y [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/16_El_Porton|Capítulo 16]]. Sigue pendiente qué pasa exactamente cuando van a verlo.
 
 ---
 
