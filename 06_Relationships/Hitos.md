@@ -1091,7 +1091,7 @@ Y es también **la primera vez que se quedan dormidos juntos**, sin que pase nad
 
 > **RESUELTO (2026-08-29, autor):** **sí, esta es "el día nublado"** que el autor mencionó al hablar del marido. La revelación de Chiara sobre el exmarido ocurre en esta escena (ejecutada en el Capítulo 17). No hay una segunda escena.
 
-> **RESUELTO (2026-08-29, autor):** a la pregunta *¿alguna vez has quitado una vida?*, Cole contesta **sobrio y sin dramatizar**: en el ejército, más de una vez, "un trabajo que hice y que no se cuenta bonito". No se adelanta aquí el registro de *yo soy la muerte caminando* (eso es H1). Redacción fijada en el Capítulo 17.
+> **AJUSTADO (2026-09-07, autor):** la pregunta cambió de *¿alguna vez has quitado una vida?* a **¿alguna vez has visto morir a alguien frente a ti?** — para no adelantar la revelación de la cicatriz (reservada para la noche del jacuzzi, "de ahí saqué a Nadir") y para contextualizar, sin nombrarlo, tanto la muerte de [[02_Characters/Jim_Keegan]] (respuesta de Cole: "en el ejército, un amigo, no es una historia") como la del exmarido de Chiara (respuesta recíproca tres hoyos después). No se adelanta aquí el registro de *yo soy la muerte caminando* (eso es H2-b). Redacción fijada en el Capítulo 19.
 
 > **RESUELTO (2026-08-29, autor):** Blake Stanton **ya está fuera del cuadro** para este punto (después de H9, H12, el loft y H10). No se lo menciona en el Capítulo 17. Si hiciera falta, una línea de cierre puede sembrarse en un capítulo intermedio, no aquí.
 

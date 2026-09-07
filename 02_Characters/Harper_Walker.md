@@ -40,6 +40,8 @@ Lo que opera hoy:
 - Trabaja con ganado en el norte rural de San Aurelio.
 - Entra primero en escena como chica seria que atiende la barra de comida rápida en una cafetería del norte; no intenta caer bien, lee clientes como si fueran motores con ruido raro y dice de Keene que matarlo en la plaza fue "decirle a todo el mundo dónde puede sentarse".
 - Entra al radio de Cole cuando él compra, usa o absorbe esa propiedad.
+
+**RESUELTO (2026-09-07), escrito en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/20_Tierra_Buena|Capítulo 20, "Tierra buena"]]:** Cole compra doce hectáreas al norte para montar una parcela de vegetales — diversificación de negocio y suministro directo para [[05_Locations/Il_Gelsomino|Il Gelsomino]]. El mismo día, Harper acaba de perder su trabajo en la cafetería del norte (la encargada decide que "ya no encaja con la nueva imagen") y va a pedir trabajo al restaurante — Cole llega justo cuando Claudio se lo niega. En vez de darle trabajo ahí, la lleva a la parcela y le ofrece hacerse cargo del negocio entero como proveedora de víveres y materia prima, no como empleada de nadie. Cole ya la conocía de vista, de los últimos meses observándola trabajar detrás del mostrador antes de esto.
 - Cole detecta que sabe moverse en terreno difícil y empieza a enseñarle conducción práctica.
 - Se vuelve una protegida operativa: alguien a quien Cole forma con sus propios trucos.
 

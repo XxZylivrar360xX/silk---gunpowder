@@ -267,6 +267,8 @@ Ahí es donde supera a Cole en escala. Él acumula deudas, nombres y rutas hasta
 
 ## Reglas duras del personaje
 
+- **El vino como código, sin que ella lo anuncie.** Solo toma **tinto**. El blanco lo usa para cocinar, nunca para beber. El **rosado** es la señal — lo pide cuando está "animada", de humor para la intimidad; su elección es un **Chiaretto de Bardolino**, que guarda solo para esas noches. Es un dato que Cole va a ir registrando solo, a lo largo del tiempo que la conoce, sin que nadie se lo explique nunca en voz alta.
+
 - **Nunca miente en lo pequeño.** Si el texto la muestra mintiendo sobre una tontería, está mal escrita.
 - **La pistola vive en el bolso, no en la mano.** Si la saca, es un acontecimiento del libro.
 - **Su lugar favorito no es el que dice.** A todo el mundo le dice *París*. La verdad es **Trieste** — una ciudad que no termina de ser de nadie. Esa respuesta la tiene una sola persona en toda la novela, y el momento en que la da vale más que cualquier escena de cama.

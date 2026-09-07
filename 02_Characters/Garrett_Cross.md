@@ -17,6 +17,8 @@ Garrett parece más aburrido de lo que es. Trajes correctos, reloj discreto, man
 
 Si Russ Whitaker se reconoce por el bastón, Garrett se reconoce por lo contrario: puede salir de una reunión y dejar la sensación de que siempre estuvo ahí, pero nadie recuerda una frase concreta.
 
+**CANON (2026-09-07):** moreno, barba corta, cabello negro rizado más largo de lo que cualquier reglamento militar habría tolerado. Lleva lentes de sol de forma permanente, incluso en interiores — **fotofobia**, secuela de la misma emboscada en Afganistán donde murió [[02_Characters/Jim_Keegan]] y [[02_Characters/Russell_Whitaker|Russ]] perdió la movilidad de la pierna (ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias|Capítulo 3]]). No contradice lo de "no quedarse en la memoria de nadie": los lentes le tapan los ojos, que es justo por donde la gente suele leer a alguien — refuerzan su ilegibilidad de otra forma, no la rompen. Primera aparición en prosa: [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/20_Tierra_Buena|Capítulo 20, "Tierra buena"]].
+
 ---
 
 ## Quién es

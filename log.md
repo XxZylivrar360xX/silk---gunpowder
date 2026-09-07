@@ -2564,3 +2564,29 @@ Verificado contra canon existente: `Hitos.md` confirma que Cole llevaba "unos cu
 EPUB regenerado.
 
 **Sin commit ni push.**
+
+## Sesión 2026-09-07 | Cap. 20 nuevo — Tierra buena (Harper Walker + Garrett Cross)
+
+Nuevo capítulo insertado entre El día nublado (Cap. 19) y El mirador (ahora Cap. 21). Capítulo lateral de expansión de El Patio, sin hito H asignado.
+
+**Contenido:** Cole firma la compra de doce hectáreas al norte para montar una parcela de vegetales — diversificación de negocio y suministro directo para Il Gelsomino. **Primera aparición en prosa de Garrett Cross** (moreno, barba, cabello rizado oscuro, lentes de sol permanentes por fotofobia — secuela de la emboscada donde murió Jim Keegan; se reconcilió con su rasgo ya establecido de "no quedarse en la memoria de nadie": los lentes tapan los ojos, refuerzan su ilegibilidad en vez de contradecirla). De ahí, Cole llega a Il Gelsomino justo cuando Claudio le niega trabajo a Harper Walker (recién despedida de la cafetería del norte). En vez de emplearla ahí, la lleva a la parcela y le ofrece hacerse cargo del negocio entero como proveedora de víveres y materia prima, no como empleada. Flashback (POV Cole): un gesto que vio hacer a Chiara en un parque —darle una oportunidad real, no caridad, a un muchacho que reparaba bicicletas— como origen de este mismo instinto de confianza en Cole. Cierra con el trato hecho, sentando las bases para cuando El Patio necesite más manos de confianza.
+
+**Corrección de término:** "sensibilidad fotolumínica" (inventado) → **fotofobia** (término médico real).
+
+**Renumeración:** Caps. 20-21 → 21-22 (El mirador, Sin rastro). Book_Map, INDEX, y fichas de Garrett y Harper actualizadas con la ruta definitiva.
+
+EPUB regenerado (22 capítulos).
+
+**Sin commit ni push.**
+
+## Sesión 2026-09-07 (parte 2) | Cap. 21 expandido + Cap. 22 nuevo "La promesa"
+
+**Cap. 21 (El mirador):** bolera expandida con juego real, apuestas tontas y risa compartida (drift y estrellas intactos por decisión del autor). Penthouse expandido: ambiente (luz ámbar, ciudad de noche), seguridad nombrada explícitamente, y química/magia de la pareja en prosa por primera vez. Se plantó el vino rosado como código ya fijado de Chiara, con nombre específico: **Chiaretto de Bardolino**. Se añadió *Fade Into You* de Mazzy Star como declaración no dicha antes del beso.
+
+**Cap. 22 nuevo — "La promesa":** insertado justo después de El mirador (Sin rastro corrió a Cap. 23). La misma madrugada, horas después de la primera intimidad: Marisol llama a Cole llorando; el tono de su voz lo pone de pie con urgencia instantánea, y esa reacción es lo que despierta a Chiara (no el teléfono). Chiara insiste en acompañarlo. Primera interacción Chiara-Marisol, primera vez que Marisol ve el loft, y su primer corazón roto: Diego tenía novia, que la agredió frente a media universidad en el antro donde la recogen. Marisol se abre primero con Chiara, no con Cole. Cierra con los dos viendo a Marisol dormir desde el mezzanine y Cole diciendo que es la única promesa de su pasado (Michael) a la que no quiere fallarle.
+
+Fichas actualizadas: Chiara (nombre del rosado), Marisol (Diego, el corazón roto, primera interacción con Chiara).
+
+EPUB regenerado (23 capítulos).
+
+**Sin commit ni push.**
