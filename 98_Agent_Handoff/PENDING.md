@@ -4,6 +4,7 @@ Pendientes activos para el siguiente relevo.
 
 ## Criticos Antes De Capitulos
 
+0. **NUEVO, MAXIMA PRIORIDAD (2026-09-07):** reconstruir `00_Book_Map.md`, `06_Relationships/Hitos.md`, `01_Timeline/00_Estructura_del_Ascenso.md` y `01_Timeline/01_Primer_Borrador_Beats.md` contra la trilogia fijada en [[00_Biblia/00_Trilogy_Structure]]. Ninguno de esos archivos esta reconciliado todavia; solo llevan avisos de supersesion. No inventar la reconciliacion por conveniencia de un capitulo puntual.
 1. Definir el equipo minimo de El Faro.
 2. Confirmar nombres definitivos y peso narrativo de [[02_Characters/Fabrizio_Rinaldi]] y [[02_Characters/Tommaso_Lusardi]].
 3. Decidir que auto se dana en F1 y quien delata a Chiara.

@@ -29,6 +29,7 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 
 ## Reglas Intocables
 
+- **SUPERSESION VIGENTE (2026-09-07):** `00_Biblia/00_Trilogy_Structure.md` manda sobre cualquier diseno anterior en alcance, fronteras entre libros, ubicacion de Riley, H22, cierre de la Guerra de los Tres y apertura de Meridian/Il Consorzio. *Seda y Polvora* ya NO es una novela de cinco partes: es el Libro I de una trilogia (*Seda y Polvora*, *Voto de Ceniza*, *Interregno*). Leer ese archivo antes de planear cualquier capitulo que toque escala de libro.
 - **CANON DEL AUTOR:** no reinterpretar, no sustituir, no "mejorar" lineas de dialogo canon.
 - **DISENO:** inferencia del agente; se puede discutir.
 - **PENDIENTE:** falta decision del autor; no rellenar por conveniencia.
@@ -42,11 +43,12 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 
 - `INDEX.md`: mapa maestro del vault.
 - `98_Agent_Handoff/`: relevo compacto entre agentes.
+- `00_Biblia/00_Trilogy_Structure.md`: **arquitectura macro de la trilogia — manda sobre 01_Timeline y Hitos en cualquier conflicto de escala o frontera entre libros.**
 - `00_Biblia/`: vision, temas, principios y reglas del mundo.
-- `01_Timeline/00_Estructura_del_Ascenso.md`: fases del ascenso.
-- `01_Timeline/01_Primer_Borrador_Beats.md`: 90 beats macro.
+- `01_Timeline/00_Estructura_del_Ascenso.md`: fases del ascenso. **Pendiente de reconciliar con la trilogia.**
+- `01_Timeline/01_Primer_Borrador_Beats.md`: 90 beats macro. **Pendiente de reconciliar con la trilogia.**
 - `06_Relationships/Cole_y_Chiara.md`: arquitectura de la relacion.
-- `06_Relationships/Hitos.md`: hitos obligatorios del autor.
+- `06_Relationships/Hitos.md`: hitos obligatorios del autor. **H22 se movio a Voto de Ceniza (Libro II); revisar ubicaciones antes de citar.**
 - `06_Relationships/Momentos_de_Fractura.md`: conflictos que casi lo rompen todo.
 - `99_Reference/`: referencia externa no canon; no copiar.
 - `tools/editorial/README.md`: auditoria editorial determinista en modo `audit_only`.

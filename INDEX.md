@@ -18,6 +18,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 
 *Leer antes de escribir cualquier cosa.*
 
+- [[00_Biblia/00_Trilogy_Structure]] — **CANON DEL AUTOR (2026-09-07), MANDA SOBRE TODO LO DEMÁS en escala y fronteras entre libros.** *Seda y Pólvora* ya no es una novela de cinco partes: es el Libro I de una trilogía (*Seda y Pólvora* → *Voto de Ceniza* → *Interregno*). Leer esto antes de planear cualquier capítulo que toque el alcance macro de la historia.
 - [[00_Biblia/Vision]] — qué historia es, su núcleo emocional, lo que no es, y la estructura en tres movimientos
 - [[00_Biblia/Temas]] — los once pilares temáticos, con su uso práctico como filtro de escena
 - [[00_Biblia/Principios_Narrativos]] — las dieciséis reglas que gobiernan toda decisión de escritura
@@ -31,7 +32,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[02_Characters/Auditoria_Reparto]] — auditoría honesta del reparto: prioridad, desarrollo estimado, personajes principales/esporádicos y distribución por fases
 - [[02_Characters/Cole_Mercer]] — *el Gancho.* Ex-militar, mecánico, dueño del taller y las grúas. Comprado de bebé, con origen real noruego reservado y papeles falsos. Se vuelve lo que cada habitación necesita, y se construyó una fachada de empresario intachable para que el barrio pudiera moverse. **El hombre que se ofrece de puente para que otros crucen, minimizando el costo para él.** Toma el territorio.
 - [[02_Characters/Chiara_Bellandi]] — siciliana, usa el apellido de su madre. Contención de prensa y gestión de imagen. Nunca miente en lo pequeño, para que la mentira grande entre sin resistencia. Escribe lo que pesa: cartas en papel propio, aroma a canela y vainilla, manuscrita — base de un arco reservado con Cole. **Su función en el libro: no dejar que Cole se borre.** Toma el relato.
-- [[02_Characters/Elenna_Mercer]] — hija biológica de Cole y Chiara. Nace durante la Parte III; para el mundo muere al nacer, pero vive oculta en Italia como **Elenna Serra** bajo el cuidado de Riley. Su ausencia convierte la consolidación de poder en arquitectura de salida: no heredará San Aurelio.
+- [[02_Characters/Elenna_Mercer]] — hija biológica de Cole y Chiara. Nace durante **Voto de Ceniza (Libro II)** — ver [[00_Biblia/00_Trilogy_Structure]]; para el mundo muere, pero vive oculta en Italia como **Elenna Serra** bajo el cuidado de Riley. Su ausencia convierte la consolidación de poder en arquitectura de salida: no heredará San Aurelio.
 - [[06_Relationships/Cole_y_Chiara]] — la relación como entidad con arco propio: los dos conflictos, la unión invisible, el ritual del collar, la incomodidad de estar cómodos, las fases, la grieta y la prueba de autenticidad de escena
 - [[06_Relationships/Momentos_de_Fractura]] — conflictos que casi lo rompen todo: la mentira bajo la lluvia, Año Nuevo en Washington, los frenos y el destierro de Riley con la muerte de Mei-Lin.
 - [[06_Relationships/Los_Tres_Dias]] — reconstrucción doméstica después de la mentira bajo la lluvia: regresar no es lo mismo que volver a casa.

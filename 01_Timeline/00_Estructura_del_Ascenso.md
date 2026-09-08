@@ -1,5 +1,7 @@
 # Estructura del Ascenso
 
+> **AVISO DE SUPERSESIÓN (2026-09-07):** [[00_Biblia/00_Trilogy_Structure]] manda sobre este archivo en escala y fronteras entre libros. Este documento describe fases de una novela unica de cinco partes; esa arquitectura queda superseded por la trilogia (*Seda y Polvora* -> *Voto de Ceniza* -> *Interregno*). Todavia no se reconstruyo fase por fase contra los tres libros.
+
 Cronología maestra. Cada fase es un escalón de poder, no un intervalo de tiempo: lo que la ordena es **qué controlan al terminar**, no cuántos meses pasaron.
 
 > **PENDIENTE:** decidir el arco temporal total de la novela. Recomendación: entre cuatro y siete años — lo bastante para que un patio de grúas sea creíble como organización, y lo bastante corto para que los protagonistas no cambien de generación.

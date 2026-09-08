@@ -1,5 +1,7 @@
 # Elenna Mercer
 
+> **AVISO DE SUPERSESIÓN (2026-09-07):** las referencias a "Parte III" en este archivo quedan **desactualizadas** por [[00_Biblia/00_Trilogy_Structure]]. Leer como **Voto de Ceniza (Libro II)** en su lugar — el nacimiento, la falsa muerte y el traslado a Italia bajo la identidad Serra ahora ocurren en ese libro, no en la antigua "Parte III". Este archivo todavía no se reconstruyó línea por línea contra la nueva arquitectura; los detalles finos (fechas, distancia entre F2/H1/nacimiento) siguen pendientes tal como los marca el documento de trilogía.
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-08-31).** El nombre verdadero es **Elenna Mercer**, con doble `n`. Durante su resguardo en Italia usa documentación como **Elenna Serra**. `Serra` no es su apellido real y no crea parentesco con ninguna familia: es una identidad destinada a cortar vínculos visibles con Cole, Chiara, Corrado y Riley.

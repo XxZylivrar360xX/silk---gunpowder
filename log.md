@@ -2590,3 +2590,26 @@ Fichas actualizadas: Chiara (nombre del rosado), Marisol (Diego, el corazón rot
 EPUB regenerado (23 capítulos).
 
 **Sin commit ni push.**
+
+## Sesión 2026-09-07 (parte 3) | CAMBIO ESTRUCTURAL: la obra pasa a ser una trilogía
+
+El autor decidió dividir *Seda y Pólvora* en una trilogía de tres libros: **Seda y Pólvora** (Libro I), **Voto de Ceniza** (Libro II), **Interregno** (Libro III). Documento fundacional recibido y archivado: `00_Biblia/00_Trilogy_Structure.md`.
+
+**Puntos clave de la nueva arquitectura:**
+- Riley sale de San Aurelio en el Libro I, antes de H1 (ya no al inicio de la antigua "Parte III").
+- H1 es el clímax del Libro I — primer enfrentamiento abierto que anticipa la Guerra de los Tres, con el embarazo de Chiara revelado a Cole después.
+- El Libro I cierra con Halbrook llegando físicamente a San Aurelio (coda breve, sin exposición).
+- H22 se mueve al Libro II (Voto de Ceniza), antes de la caída de Dario, la montaña y Santa Lucía — dispara el plan de salida antes del atentado.
+- El Libro II cierra con Dario preso, Héctor y Kenji muertos, Corrado revelado vivo, y Cole decidiendo (no ejecutando aún) la muerte de Halbrook.
+- El Libro III abre con la ejecución pública de Halbrook, desarrolla Meridian (cerco a Cole) e Il Consorzio (presión sobre Chiara), y cierra con la salida real de la pareja hacia Palermo con Elenna.
+
+**Trabajo hecho esta sesión:**
+- Archivo guardado en `00_Biblia/00_Trilogy_Structure.md`, enlazado como máxima autoridad en `CLAUDE.md` e `INDEX.md`.
+- Avisos de supersesión añadidos (sin reescritura línea por línea, para no inventar la reconciliación por conveniencia) en: `Hitos.md`, `01_Timeline/00_Estructura_del_Ascenso.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `02_Characters/Elenna_Mercer.md`.
+- **Verificado: los 23 capítulos ya escritos no mencionan a Riley, Mei, Halbrook ni el embarazo — no hay conflicto directo con la prosa existente.** Todo lo escrito hasta ahora cae dentro del alcance temprano del Libro I.
+- La carpeta `Book_01_Seda_y_Polvora` ya coincide de nombre con "Libro I = Seda y Pólvora" — no requirió renombrarse.
+- `CURRENT_BRIEF.md` y `PENDING.md` actualizados con esta prioridad para la próxima sesión: reconstruir `00_Book_Map.md`, `Hitos.md` y los archivos de `01_Timeline/` contra los tres libros.
+
+**Pendiente explícito, no resuelto hoy:** la reconciliación completa (hito por hito, fase por fase) de la macroestructura vieja contra la trilogía nueva. Es un trabajo estructural grande que merece su propia sesión dedicada, no mezclarse con trabajo de prosa.
+
+**Sin commit ni push.**

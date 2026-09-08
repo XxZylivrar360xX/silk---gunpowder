@@ -1,5 +1,7 @@
 # Hitos obligatorios
 
+> **AVISO DE SUPERSESIÓN (2026-09-07):** [[00_Biblia/00_Trilogy_Structure]] manda sobre este archivo en escala y fronteras entre libros. En particular: **H22 se movió a Voto de Ceniza (Libro II)**, antes de la caída de Dario, la montaña y Santa Lucía — la ubicación anterior (después del cierre de la Guerra de los Tres) queda superseded. H1 es ahora el clímax del Libro I. La salida de Riley pertenece al Libro I, antes de H1. Este archivo todavía no se reconstruyó hito por hito contra la nueva arquitectura de tres libros.
+
 Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni material de trabajo: son las anclas del libro, definidas por el autor. La trama se construye alrededor de ellos, no al revés.
 
 **Convención:** lo marcado como **CANON DEL AUTOR** es intocable — no se reinterpreta, no se sustituye, no se "mejora". Las **líneas de diálogo canon van citadas textualmente** y no se reescriben; sólo se les puede ajustar la puntuación al maquetar la prosa. Lo marcado como **DISEÑO** son consecuencias derivadas por el agente y se pueden discutir. Lo marcado como **PENDIENTE** falta, y no debe inventarse por conveniencia de una escena.

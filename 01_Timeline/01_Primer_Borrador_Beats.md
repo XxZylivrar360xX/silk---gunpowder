@@ -2,6 +2,8 @@
 
 *Seda y Polvora - semi borrador estructural de novela*
 
+> **AVISO DE SUPERSESIÓN (2026-09-07):** [[00_Biblia/00_Trilogy_Structure]] manda sobre este archivo en escala y fronteras entre libros. Los 90 beats de abajo describian una novela unica de cinco partes; esa arquitectura queda superseded por la trilogia (*Seda y Polvora* -> *Voto de Ceniza* -> *Interregno*). Todavia no se reconstruyo beat por beat contra los tres libros -- usar con cautela para cualquier beat que toque escala macro, Riley, H22, Halbrook o el cierre de la Guerra de los Tres.
+
 > **Estado:** documento de trabajo. No es indice de capitulos ni prosa. Ordena la novela por funcion dramatica, ascenso de poder y fractura de la pareja.
 
 > **NOTA (2026-08-29) — cronología relacional consolidada; algunos beats de abajo quedan desfasados.** El autor fijó el orden del arco temprano de Cole y Chiara en [[06_Relationships/Hitos]] (tabla cronológica). Cambios que afectan a estos beats, **sin rehacer los 90**:
