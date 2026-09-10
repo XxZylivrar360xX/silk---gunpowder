@@ -75,7 +75,7 @@ San Aurelio es una ciudad ficticia de Estados Unidos. Puede incorporar cultura l
 
 **[[05_Locations/Norte_Rural_de_San_Aurelio|Norte rural de San Aurelio]]** — eje de Lomas de San Jacinto, Bellandi Ridge, Kingsley Field, Rutas de Milla, Cedar Flats y Camp Alder. Donde la ciudad deja de parecer ciudad, pero sigue funcionando como infraestructura.
 
-**El taller del norte** — taller ilegal de las carreras callejeras, cerca de Kingsley Field y las Rutas de Milla. Donde Varek amenaza a Chiara. **PENDIENTE:** ficha propia y dueño.
+**[[05_Locations/El_Taller_del_Norte|El taller del norte]]** — galpón de lámina donde se preparan los coches de las carreras ilegales, cerca de Kingsley Field y la Carretera de Milla. Lo usan [[03_Factions/Los_Marcadores_de_Milla]]. Donde Varek amenaza a Chiara ([[06_Relationships/Hitos#H5 — San Aurelio|H5]], Cap. 27). **PENDIENTE:** propiedad formal del terreno; nombre informal.
 
 **La mansión de Varek** — donde Cole se le ofrece, en el patio ([[06_Relationships/Hitos]], H6). **PENDIENTE:** ficha propia.
 

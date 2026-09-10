@@ -62,6 +62,18 @@ Antes de escribir una escena con dialogo, leer la ficha de voz de cada personaje
 
 Los dialogos deben hacer dos cosas a la vez: decir algo util en superficie y mover una lectura debajo. Si el dialogo solo informa al lector, se reescribe.
 
+## Registro privado de Cole y Chiara
+
+La voz seca del libro **se afloja en escena privada de Cole y Chiara** — cocinas, coches, camas, madrugadas tras las cuatro paredes. En publico se tratan como lo que la ciudad cree que son y no hay afecto; puertas adentro, frases mas largas, silencios mas demorados, gestos que una escena publica no gastaria pagina en mirar, y apodos en italiano de parte de ella (*amore*, *bello*).
+
+Tres limites que no se aflojan:
+
+- **Cole no se pone lirico.** Su ternura es conducta — abraza, acomoda un mechon, trae comida, resuelve algo — no discurso. Nada de parrafos tiernos en su boca.
+- **El narrador no glosa.** Se muestra el gesto; el lector saca la conclusion. Nada de "dos almas encontrando el acorde".
+- **Las declaraciones grandes siguen cayendo bajo fuego**, no en calma. Aflojar el registro da calidez cotidiana, no la declaracion.
+
+Gradiente, no interruptor: la calidez sin vertigo crece con la relacion (semilla en H11, casa completa tras la mudanza H16). Detalle en [[06_Relationships/Cole_y_Chiara]], "El registro privado — la voz se afloja tras las cuatro paredes".
+
 ## Capitulo de arranque
 
 El primer capitulo debe instalar la tesis sin decirla:

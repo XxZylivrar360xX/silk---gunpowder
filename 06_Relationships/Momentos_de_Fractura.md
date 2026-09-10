@@ -14,6 +14,8 @@ Estos momentos no contradicen la regla dura de [[06_Relationships/Cole_y_Chiara]
 **Lugar:** [[05_Locations/Bellandi_Ridge_Vineyards]], bajo lluvia.
 **Estado de la relación:** ya son pareja formal o están lo bastante cerca para que la mentira duela como traición íntima.
 
+> **POSICIÓN FIJADA (2026-09-10, autor): F1 ocurre ANTES de [[06_Relationships/Hitos#H21 — Mi pareja|H21 — "Mi pareja"]].** Es la fractura que hace que "Mi pareja" se sienta merecido: acaban de sobrevivir una brecha de confianza real y se eligen otra vez, y sólo entonces le ponen nombre. En la escalera del "te amo" de Cole ([[06_Relationships/Cole_y_Chiara]], "La escalera de lo que Cole logra decir"), la reconciliación de F1 es el **peldaño 1** ("...por mucho que yo esté enamorado de ti...") y "Mi pareja" es el **peldaño 2** — quedan adyacentes. Ubicación fina propuesta: después de la [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial|mudanza]] (ya viven juntos = "pareja formal o casi") y antes de H21. Ver [[01_Timeline/02_Cadena_De_Eventos_Libro_I]].
+
 ### Adaptación
 
 Chiara decide ayudar a **Elliot Price**, un hombre autista vinculado al taller, al mercado civil o a los circuitos de autos. Elliot no es el problema: el problema es que Chiara, al reconocer que otros lo subestiman o lo tratan como carga, se sobrecorrige.
@@ -47,6 +49,20 @@ No comen juntos. No se cuentan el día. No se tocan el collar. Las llamadas son 
 **Consecuencia:** Chiara aprende que direccionar información dentro de la ciudad no le da derecho a direccionar la verdad dentro de la casa. Cole aprende que su dolor no siempre puede convertirse en silencio funcional.
 
 Ver [[06_Relationships/Los_Tres_Dias]] para la estructura emocional completa: Día 1 - Regresar, Día 2 - Recordar, Día 3 - Quedarse.
+
+### Cómo se cierra — CANON DEL AUTOR (2026-09-10)
+
+Al cabo de los tres días **es Chiara quien se lo cruza en un lugar público** — y no se hablan. Después ella le escribe:
+
+> **— Tenemos que hablar.**
+
+Él contesta que va al casino. En esa conversación en el casino **arreglan el problema**, y es ahí donde Cole suelta, a media discusión y como oración subordinada, su primer *"estoy enamorado de ti"* en voz alta:
+
+> **— Podré tener mil problemas encima, y por mucho que yo esté enamorado de ti, no hay un "fuera mi gente", eso no se negocia.**
+
+El punto de la frase es el límite (*mi gente no se negocia*, regla intocable de Cole); el *"estoy enamorado"* se le escapa de paso. Es el **peldaño 1** de la escalera del "te amo" de Cole ([[06_Relationships/Cole_y_Chiara]]).
+
+**Regla de escritura para cuando se redacte:** la discusión del casino tiene que armarse con mucho cuidado. No basta con que se reconcilien: los dos tienen que **ganarse** la reconciliación —ella reconociendo que mintió para zafarse, no defendiendo la lógica; él admitiendo que su silencio también hace daño— para que **la noche en casa** (Día 3, "Quedarse", en [[06_Relationships/Los_Tres_Dias]]) se sienta **merecida para ambos** y no como un perdón regalado.
 
 ### Restricciones
 
@@ -297,6 +313,8 @@ La escena es bonita porque no borra la fractura. La contesta. Cole no le está d
 | 4 | **F2 - El destierro de Riley y la muerte de Mei-Lin** | Fractura moral: el ascenso exige una pérdida irreversible |
 
 Este orden permite que la relación escale de daño íntimo, a ausencia por deuda, a miedo de pérdida, a costo moral compartido. Si F2 ocurre demasiado pronto, la pareja todavía no tiene suficiente capital emocional para sobrevivirla sin parecer escrita por decreto.
+
+> **Anclas de calendario (2026-09-10):** las cuatro fracturas caen en el Libro I. **F1 va antes de [[06_Relationships/Hitos#H21 — Mi pareja|"Mi pareja"]]** (su reconciliación es el peldaño 1 de la escalera de Cole y "Mi pareja" el peldaño 2). **F4** es el primer Año Nuevo juntos (1 de enero, después de la mudanza del 23 de noviembre). **F3** cae después de F4; **F2** después de que exista Villa Candelaria y con aire suficiente antes de H1. Detalle en [[01_Timeline/02_Cadena_De_Eventos_Libro_I]].
 
 ---
 

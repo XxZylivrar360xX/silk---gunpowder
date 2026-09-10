@@ -10,8 +10,9 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Se siembra en:** primeras escenas del barrio viendo llegar o hablar de Chiara sin explicarlo.
 - **Quien ya lo sabe:** al principio nadie; despues, La Almendra como comunidad.
 - **Quien NO debe saberlo/insinuarlo todavia:** Dario, socios del Monarch, policia, prensa y Varek hasta que exista escena concreta de sospecha.
-- **Lineas o gestos prohibidos:** terceros nombrando la relacion antes de que la union invisible este sembrada como costumbre social.
-- **Estado:** pendiente de siembra en prosa.
+- **Primera grieta permitida (decision del autor 2026-09-09):** el testimonio de Chiara en el litigio civil del concesionario, [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/25_Bajo_Juramento|Cap. 25]]. En contrainterrogatorio queda en **registro semipúblico** que ve a Cole "con frecuencia", que la relación es "cercana" y que tiene "razones personales" para quererlo ver ganar; más el titubeo "mi... amigo". Es siembra deliberada: ese expediente es un rastro que Varek, Tommaso o un tercero pueden recoger después. El beat "mi... amigo" NO se corta.
+- **Lineas o gestos prohibidos:** terceros nombrando la relacion antes de que la union invisible este sembrada como costumbre social; que alguien **complete** la sospecha del Cap. 25 en voz alta antes de la escena que el autor decida para eso.
+- **Estado:** primera grieta colocada en prosa (Cap. 25); pago pendiente.
 
 ---
 

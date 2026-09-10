@@ -2613,3 +2613,220 @@ El autor decidió dividir *Seda y Pólvora* en una trilogía de tres libros: **S
 **Pendiente explícito, no resuelto hoy:** la reconciliación completa (hito por hito, fase por fase) de la macroestructura vieja contra la trilogía nueva. Es un trabajo estructural grande que merece su propia sesión dedicada, no mezclarse con trabajo de prosa.
 
 **Sin commit ni push.**
+
+## Sesion 2026-09-09 | CATCHUP MANUAL: Caps. 24-26 tras sesion de Desktop quemada
+
+Una sesion de Claude Desktop se quedo sin cortar y agoto el cupo de 5 horas del autor en minutos; su cierre real nunca llego al vault. El autor volvio a Claude Code (donde siempre debio trabajar) y aporto manualmente los archivos sobrevivientes de esa sesion, en `99_Reference/catchup-09092026/`: el ultimo EPUB vigente, `00_Trilogy_Structure.md` (verificado idéntico -salvo CRLF/LF- al ya vigente en `00_Biblia/`, sin nada que reconciliar) y tres capitulos borrador.
+
+**Integrado esta sesion:**
+- Caps. 24 (*La letra pequena*), 25 (*Bajo juramento*) y 26 (*Libros abiertos*) copiados a `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/`. Corregido un parrafo duplicado evidente en el Cap. 26 (dos versiones seguidas del mismo beat del jacuzzi).
+- `00_Book_Map.md`: entradas nuevas para los tres capitulos, seccion "Capitulos planificados" y "Proximo paso" actualizadas (total ahora 26 capitulos).
+- `Hitos.md`: H15 -- La noche del jacuzzi marcado ESCRITO PARCIALMENTE (falta la advertencia de Varek de madrugada, que abre H5/Parte II); resuelto el PENDIENTE de la cicatriz de Cole (convoy de ninos, no pelea de cantina).
+- `02_Characters/Cole_Mercer.md` y `03_Factions/Villani_Motors.md` actualizados con las mismas resoluciones. `02_Characters/Garrett_Cross.md` con nota sobre su "no" parcial del Cap. 25.
+- `INDEX.md` y `PENDING.md` actualizados.
+
+**Los tres capitulos son BORRADOR, sin revision del autor.** Pendiente inmediato: que el autor los confirme o corrija; despues, redactar la advertencia de Varek y regenerar el EPUB. Las tres imagenes de portada nuevas (Seda y Polvora, Voto de Ceniza, Interregno) siguen sin mover de la carpeta de catchup, pendientes de decision del autor sobre si reemplazan la portada vigente.
+
+**Sin commit ni push.**
+
+## Sesión 2026-09-09 | Reporte editorial 24-26 para Claude Code
+
+Creado [[98_Agent_Handoff/sessions/2026-09-09_codex_para_claude_reporte_editorial_caps_24_26]]: métricas del corpus 1-22, lectura cercana de muestras y revisión completa de 24-26 contra las craft policies. Prioridades: fragmentación, voz, exposición y puesta en escena. El reporte distingue diagnóstico editorial de decisiones de continuidad; H15 y el ledger requieren cotejo respecto a lo que sabe el lector del origen de Cole, y la réplica de Chiara sobre Corrado debe evaluarse como creencia, no automáticamente como verdad del narrador.
+
+Por petición expresa del autor, se registró en `PENDING.md` que el conflicto del exsocio y la solicitud del contacto jurídico ya están sembrados en la videollamada de `Tierra buena`; la costura con el Cap. 24 queda pendiente. Enlazado en `INDEX.md` y `CURRENT_BRIEF.md`. No se editó prosa ni se hicieron commit/push.
+
+## Sesión 2026-09-09 | Revisión de prosa 24-26 + 5 decisiones del autor
+
+**Sesión de prosa (Claude Code).** Se revisó el reporte editorial de Codex y el autor cerró las 5 cuestiones de Fase 0. Con eso se reescribieron los tres capítulos completos.
+
+**Decisiones del autor (CANON):**
+1. Costura *Tierra buena*→*La letra pequeña*: aviso informal vs. notificación formal; el sobre del Cap. 24 ya no es un descubrimiento; contacto jurídico entregado una sola vez. Abogada de Cole = **Margaret Rivers** (roce propio con el fiscal de distrito desde la facultad — por eso Chiara la eligió). Exsocio demandado = **Jonathan Hoover**.
+2. Corrado: Chiara cree que **perdió** a su padre. Versión pública = caída desde el acantilado de la villa de Palermo; federales y comisión dieron la misma frase, palabra por palabra; nunca hubo cuerpo. Sin edad concreta. Corrado sigue vivo en el canon de fondo; Chiara no lo sabe.
+3. Cicatriz del convoy **confirmada** (vidrio del parabrisas, última noche, sacando a un niño). Ya no es diseño provisional del agente.
+4. El litigio civil **no llega a fallo**: tras el testimonio de Tommaso, el abogado contrario **Giancarlo Krane** propone acuerdo en el cuarto intermedio — la parte de Cole en efectivo sobre el valor actual del inmueble, + inversión + beneficios retenidos + párrafo que impide volver a negar que fue parte. Conflicto total ~2 semanas. Al cierre, Cole le da un apretón fuerte a Hoover (sin rencor) y le pasa a Krane un teléfono en media hoja: le quiere ofrecer trabajo. Precedente del bufete **"Rivers & Krane"**.
+5. "mi... amigo" = **primera grieta permitida** de la unión invisible; el contrainterrogatorio deja rastro semipúblico como siembra deliberada. El beat no se corta.
+
+**Prosa:** recompuesta la fragmentación ("metralla") de 24-25 reservando la línea aislada para los golpes reales; voces diferenciadas (Tommaso ya no comparte el "No dije eso" de Chiara — él expande, no niega); Rivers vuelta funcional; Héctor deja de diagnosticar a Cole como editor; tribunal encarnado (juez que levanta la vista, objeción de forma, reformular, acercarse al estrado); venta del Lancia convertida de resumen a escena (Marco el vendedor de la casa, Chiara probando la versión con una pregunta real de mantenimiento); confesión del jacuzzi repartida en intercambios cortos sin dossier; podadas las glosas del narrador que recitaban lo reservado; `exactamente`/`-mente` a casi cero. Cierre del 26 en gesto, no en diagnóstico.
+
+**Archivos tocados:** `11_Books/.../Part_01/24_La_Letra_Pequena.md`, `25_Bajo_Juramento.md`, `26_Libros_Abiertos.md` (reescritos + metadata). Ledgers sincronizados: `06_Relationships/Hitos.md` (H15: cicatriz confirmada + nota de revisión de prosa), `12_Craft_Policies/revelations/SAGA_LEVEL.md` (versión pública de Corrado + qué cree Chiara), `12_Craft_Policies/revelations/Book_01_Seda_y_Polvora.md` (unión invisible: primera grieta en Cap. 25), `02_Characters/Chiara_Bellandi.md` (versión pública + nota de reconciliación pendiente). Handoff: `CURRENT_BRIEF.md`, `PENDING.md`. Nota de sesión: `98_Agent_Handoff/sessions/2026-09-09_claude_revision_prosa_caps_24_26.md`.
+
+**Los tres capítulos siguen BORRADOR, pendientes de revisión final del autor. Sin commit ni push. EPUB sin regenerar.** Costura de `20_Tierra_Buena` ya ajustada en la misma sesión (Margaret Rivers, roce de ella con el fiscal, cierre del loop con el Cap. 24). Pendiente además: fichas de Rivers/Hoover/Krane (Codex); reconciliar "Rivers & Krane" con el arco de Marisol; advertencia de Varek de madrugada (H5).
+
+## Sesión 2026-09-09 | Registro privado de Cole y Chiara + ritual del *Ciao*
+
+**Decisión de voz del autor (CANON).** La prosa seca del libro **se afloja en escena privada de Cole y Chiara** (tras las cuatro paredes): frases más largas, silencios más demorados, gestos que las escenas públicas no gastarían página en mirar, apodos italianos de cariño de parte de ella (*amore*, *amore mio*, *bello*). En público no hay afecto — la ciudad sigue sin saber si son pareja o pantalla. Tres límites que **no** se aflojan: (1) Cole no se pone lírico — su ternura es conducta (abrazo por detrás mientras ella cocina, el mechón, traer comida, resolver algo, nervios con la tetera y las tres cucharas), no discurso; (2) el narrador no glosa ("dos almas encontrando el acorde" queda fuera); (3) las declaraciones grandes siguen cayendo bajo fuego, no en calma (regla 5-ter intacta). Gradiente, no interruptor: semilla en H11, casa completa tras la mudanza oficial (H16).
+
+**Ritual del *Ciao* (CANON, cuarentena levantada).** Cole devuelve el "Ciao" y se vuelve ritual recíproco de la pareja: nace tras **H21 — Mi pareja**, en la primera llamada telefónica posterior — ella *"Ciao, bello"*, él *"ciao, bellissima"* con acento italiano exagerado y burlón; broma que se queda para toda la trilogía. Géneros invertidos respecto a la fuente (Kylia). La cuarentena de `99_Reference/README` sobre *"Ciao, Bella"/"Ciao, Bellissimo"* queda **levantada**. Resuelve el PENDIENTE del "Ciao recíproco" en `Cole_y_Chiara.md`. Distinto del *"Ciao"* en solitario de Chiara (anclarse a sí misma).
+
+**Escalera del "te amo" de Cole** documentada en `Cole_y_Chiara.md`: (1) *"...por mucho que yo esté enamorado de ti, no hay un 'fuera mi gente'..."* soltado a media discusión, primer "estoy enamorado" en voz alta; (2) "Mi pareja" (H21); (3) *"Perché ti amo con tutto il mio cuore"* (H1). **Dos líneas del autor guardadas sin colocar** (uso confirmado, capítulo PENDIENTE): esa del peldaño 1 y *"No soy gracioso, me gusta hacerte reír a ti, que es diferente"*.
+
+**Archivos tocados:** `06_Relationships/Cole_y_Chiara.md` (nueva sección "El registro privado", resuelto el "Ciao recíproco", nueva "La escalera de lo que Cole logra decir"), `02_Characters/Cole_Mercer.md` (nueva "En privado — lo que sólo ella ve"), `02_Characters/Chiara_Bellandi.md` (nueva "En privado con Cole"), `06_Relationships/Hitos.md` (nueva "El ritual del *Ciao* — nace aquí" bajo H21), `12_Craft_Policies/Redaccion_De_Capitulos.md` (nueva "Registro privado de Cole y Chiara"), `99_Reference/README.md` (cuarentena levantada), `98_Agent_Handoff/CURRENT_BRIEF.md`. Sin commit ni push. EPUB sin regenerar.
+
+**Cap. 21 — El mirador: baile redactado (misma sesión, aprobado por el autor).** El detonador del primer beso pasa de "la risa que rompe la última calma de Chiara" a un **baile lento** en el penthouse: Cole se levanta (lee como su tic de no saber estarse sentado), cambia *Fade Into You* por *Come Away With Me* de Norah Jones —la escucha entera primero, no la tapa—, deja la copa y le tiende la mano; el espejo del recibidor los agarra como eco del espejo de la boutique del Cap. 19; baile casi inmóvil ("—No sé bailar esto." / "—No es para bailar."), manos explícitas (él entre los omóplatos, ella del hombro al costado del cuello), la distancia cuidada durante meses se cierra sola; al acabar la canción, el mechón hacia la izquierda, el dorso de los dedos por la mejilla "como si pidiera permiso", y el primer beso. Se conserva la risa de Cole (ya no detona, afloja la escena) y todo lo posterior ("¿Seguro?" / "Llevo meses seguro", el cierre de la luz en la ventana). Aplica el registro privado recién fijado: Cole sin líneas líricas, sin glosa del narrador (fuera "dos almas encontrando el acorde"), "inocente" → "la sonrisa que no calculaba", y se mantiene la torpeza de la paz. Header del `21_El_Mirador.md` actualizado con el ajuste. El capítulo sigue BORRADOR. Sin commit ni push. EPUB sin regenerar.
+
+## [2026-09-09] Codex | Revision editorial del Cap. 21
+
+Diagnostico solicitado de El mirador, con cotejo de H11, H4 y politicas de voz/registro privado. Reporte: [[98_Agent_Handoff/sessions/2026-09-09_codex_revision_editorial_cap_21]]. Hallazgos: posicion fisica residual tras el baile, sonrisa duplicada, errores de linea y sobreexplicacion. Drift y mirador protegidos por aprobacion registrada. Pendientes de autor: formulacion final de seguridad y discrepancia de hablante H11/prosa. Actualizados INDEX, CURRENT_BRIEF y PENDING. Manuscrito y canon sin modificar; sin EPUB, commit ni push.
+
+## Sesión 2026-09-09 | Roadmap del Libro I + esqueletos de los Libros II y III
+
+**Sesión de estructura (Claude Code), a pedido del autor.** No se tocó prosa. Se atacó parte del PENDING 0 (reconciliar contra la trilogía) sin reescribir aún `Hitos.md` ni el Book Map del Libro I linea por linea: se creó un documento nuevo que sí propone esa reconciliación y se dejaron los esqueletos de los otros dos libros.
+
+**Creado [[01_Timeline/02_Cadena_De_Eventos_Libro_I]]** — roadmap desde el Cap. 26 (fin de Parte I) hasta el último beat del Libro I (Halbrook desciende del helicóptero). Contiene: (1) cadena de eventos en 8 bloques A-H, cada eslabón con función en la pareja + siembra hacia *Voto de Ceniza*; (2) línea de tiempo relativa anclada a las fechas canon (cumpleaños de Chiara 23 nov = mudanza; cumpleaños de Cole / Año Nuevo 1 ene; primera Navidad = collar) — el Libro I abarca ~2-2,5 años de historia; (3) mapa de las cuatro fracturas (F1 fuera de cuadro/vieja Parte I por Elliot; H18, F4, F3, F2 dentro de este tramo, daño creciente); (4) tabla de siembras obligatorias hacia el Libro II; (5) boceto de ~34 capítulos (27-60) para la Parte II, marcando cuáles tienen líneas canon (🔒) y cuáles son laterales de ritmo; (6) apartado "¿es viable?" con las 8 decisiones abiertas del autor.
+
+**Reubicación propuesta (ya la pide [[00_Biblia/00_Trilogy_Structure]], no es invención):** **F2 — destierro de Riley + muerte de Mei-Lin** sube de la vieja "Parte III" al Libro I, antes de H1 (la estructura de trilogía dice "Riley pertenece al Libro I" y "el Libro II empieza habiendo perdido ya a Mei y Riley"). Posición fina propuesta: después de que exista Villa Candelaria, con 1-2 meses de aire antes de H1 para que la ausencia duela. El capítulo exacto queda DISEÑO.
+
+**Orden propuesto para el tramo sin fijar** (`Hitos.md` lo deja abierto): `H5-H7 → H16 cumpleaños/mudanza (23 nov) → H13 pañuelo → H17 Italia → H18 regreso → H19 Camp Alder → H20 → H21 Mi pareja → primera Navidad/collar (25 dic) → F4 Año Nuevo (1 ene, separados) → vela → F3 frenos → H8 incendio → Villa Candelaria → F2 (Mei/Riley) → embarazo confirmado → coalición → H1 → reveal → coda Halbrook`.
+
+**Creados [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]] y [[11_Books/Book_03_Interregno/00_Book_Map]]** — esqueletos derivados byte a byte de la arquitectura de [[00_Biblia/00_Trilogy_Structure]]: función, pregunta del libro, estado de entrada/salida, arcos de Cole y Chiara, estructura macro (Libro II: apertura no bélica → Elenna y el Voto → H22 → falso clímax caída de Dario → clímax real montaña+Santa Lucía → coda Corrado; Libro III: apertura ejecución de Halbrook → frentes Meridian / Il Consorzio → plan de salida → imagen final en Palermo), bisagras, límites y pendientes heredados. **Sin prosa; prosa bloqueada.** Sus carpetas de partes se crean cuando el autor apruebe el desglose.
+
+**Archivos tocados:** creados `01_Timeline/02_Cadena_De_Eventos_Libro_I.md`, `11_Books/Book_02_Voto_De_Ceniza/00_Book_Map.md`, `11_Books/Book_03_Interregno/00_Book_Map.md`; actualizados `INDEX.md`, `11_Books/README.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/PENDING.md`. **Sin commit ni push. EPUB sin regenerar** (no hay prosa nueva). Nada marcado PENDIENTE en `Hitos.md` se convirtió en canon; el roadmap es DISEÑO discutible salvo lo que ya era canon del autor.
+
+## Sesión 2026-09-09 | Claude Code | Cap. 27 — Me encuentro bien (abre la Parte II, H5 lado Chiara)
+
+**Redacción de prosa.** Escrito [[11_Books/Book_01_Seda_y_Polvora/Part_02_La_Construccion/27_Me_Encuentro_Bien]] — **Capítulo 27, primer capítulo de la Parte II** (carpeta `Part_02_La_Construccion/` creada). POV único de Chiara. Ejecuta el núcleo vivo de [[06_Relationships/Hitos#H5 — San Aurelio|H5 — San Aurelio]] desde su lado:
+
+- **Apertura reformulada por el autor:** Chiara despierta motivada por lo de anoche (jacuzzi), con la terraza sur del Monarch reservada para un desayuno siciliano, y se corta al encontrar el mensaje ya acordado de Cole (*"Salí de la ciudad por una situación externa. Me encuentro bien. Te veo al volver."*, enviado 5:40). Su instinto lo conecta con la advertencia de Varek de madrugada.
+- **Cierre de H15:** la advertencia de Varek de madrugada (junto al ascensor privado, tras el jacuzzi) se rinde como **recuerdo comprimido**, no como escena propia. Si el autor la quiere como beat de apertura independiente, se promueve.
+- **Walt** en la destilería: negocio primero (lote atrasado; el método de Cole "en otra boca"), luego deriva a Cole. Walt enseña su propio mensaje (*"Cuida el barrio. Si Chiara necesita algo, ayúdala sin chistar."*) → Chiara entiende que la salida fue planeada. Línea canon de Walt aplicada: *"Le creo a su palabra… a su corazón todavía no lo conozco lo suficiente para creerle lo mismo. Eso voy a tener que verlo con mis ojos."*
+- **Confrontación Dario–Chiara** en el taller del norte: coartada fina (coche varado), Varek presenta a Cole como peligroso (hospital contado a su favor + pasado turbio), Chiara se hace la que no sabe pero se adelanta a todo porque Cole se lo contó en el jacuzzi. Las tres líneas canon (*"Trabajas para mí. No conmigo." / "¿Te estás acostando con él?" / "…entonces lo vas a hacer tú."*) + *"vas a aprender tu lugar"*. Sale la misoginia que Varek administra mejor; el orgullo de Chiara la mantiene en la nave de más y **no "entiende su lugar"**. El arma nunca se nombra: sólo el frío del galpón y que Chiara parece hablar con todo menos con un hombre (alusión al diablo sin decir la palabra; ella devota). Varek la deja ir por cálculo — ahora es "una pieza que está dispuesto a gastar".
+- **Ironía canon abierta:** quien sacó a Cole fue Halbrook, no Varek. El capítulo no lo resuelve.
+
+**Continuidad / decisiones tomadas en sesión:**
+- Llave del loft: el autor confirmó que Cole se la dio al terminar la obra del loft (informal); la llave "oficial" en cajita sigue siendo H16. (En el capítulo final no se usa el loft — la coda quedó fuera.)
+- Ritual de la vela por Cole: NO existe todavía (nace tras F4). Chiara reza sin ritual.
+- Ritual "Ciao, bello": NO existe todavía (nace tras H21). Mensajes planos.
+
+**Sin escribir aún dentro de H5:** sección 14 ("La peor noche" — la sudadera como disfraz operativo) y todo el lado de Cole/Halbrook.
+
+**Ledgers actualizados:** `00_Book_Map.md` (entrada del Cap. 27 + sección "Parte II · capítulos en montaje" + total 27 + carpeta creada), `INDEX.md`, `06_Relationships/Hitos.md` (nota de "escrito parcialmente" en H5), `02_Characters/Walter_Keegan.md` y `02_Characters/Dario_Varek.md` (apariciones canon), `98_Agent_Handoff/CURRENT_BRIEF.md`, nota de sesión en `98_Agent_Handoff/sessions/`. **El Cap. 27 es BORRADOR sin revisión del autor. Sin commit ni push. EPUB sin regenerar.**
+
+## Sesión 2026-09-10 | Claude Code | Cap. 21 — correcciones editoriales (secciones 1-2 del reporte Codex)
+
+**Edición de manuscrito.** Aplicadas al [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/21_El_Mirador]] las correcciones objetivas y de continuidad menor del diagnóstico [[98_Agent_Handoff/sessions/2026-09-09_codex_revision_editorial_cap_21]]:
+
+- **Errores de línea:** «Lo vi el marcador» → «Lo vi en el marcador»; «un chuza limpio» → «una chuza limpia»; «Cuatro pinos cayeron, torpes pero de pie» → «Cuatro pinos cayeron».
+- **Duplicación:** la descripción de la sonrisa que Chiara no calcula aparecía dos veces casi igual (roce en la mejilla y segundo «Yo también»). Se conserva completa en el primer pasaje; el inciso del segundo se abrevió a «—Sonrió—». Diálogo canon («Yo también», «Solo quería oírtelo decir») intacto.
+- **Continuidad — golf:** el residuo de apertura recordaba «el búnker del quinto hoyo». En [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/19_El_Dia_Nublado]] (o su equivalente Cap. 19) el búnker explícito es el del octavo hoyo y la confesión de Chiara llega tres hoyos después. Ajustado a «octavo hoyo».
+- **Continuidad — botella:** «del que Chiara guardaba solo para las noches…» sugería una reserva del penthouse y contradecía la botella comprada al salir de la bolera. Reformulado a «La botella que habían comprado era un Chiaretto de Bardolino… el que Chiara elegía solo para las noches que quería que fueran algo más que una cena» — inequívocamente la comprada, conservando el rosado y su carga.
+- **Claridad — apertura:** el intercambio «Estás en otro lado» flotaba sin lugar tras una enumeración de momentos distintos. Anclado: «Chiara lo notó una noche en el casino, antes de que él dijera nada».
+
+**NO aplicado, queda para el autor:** sección 3 del reporte (poda de glosas en bolera / penthouse / baile) — es DISEÑO discutible; y los dos PENDIENTE protegidos: la formulación final de la seguridad («…ya era suficientemente fuerte como para sostener esto también») y la discrepancia de hablante en el drift entre H11 y la prosa. **L218:** ya estaba modificada en disco a «Camino hacia atrás» (falta tilde) por otra sesión; el reporte pedía retirar «Se levantó» sin añadir otro movimiento — sin tocar, pendiente de decisión.
+
+**Cap. 21 sigue BORRADOR. Sin commit ni push. EPUB sin regenerar.**
+
+### Continuación 2026-09-10 | Cap. 21 — dos pendientes protegidos resueltos por el autor
+
+- **Formulación final de la seguridad (L220):** choque entre la expansión del 2026-09-07 («verbalizar la seguridad al final») y la política de registro privado del 2026-09-09 («el narrador no glosa»). **Decisión del autor: podar alrededor, conservar el núcleo.** Se elimina «llevaban meses siendo cuidadosos con algo que ya no necesitaba tanto cuidado» y el apilamiento de L218 («— solo la certeza tranquila de dos personas que ya habían decidido, semanas atrás, sin decirlo, que esto iba a pasar tarde o temprano»). Se conserva «que la seguridad que habían estado construyendo, favor por favor, silencio por silencio, ya era suficientemente fuerte como para sostener esto también».
+- **Drift — hablante (H11 vs. prosa):** [[06_Relationships/Hitos]] atribuía «¿No me digas que tú...» a Chiara en una sola línea; la prosa aprobada y protegida del Cap. 21 tiene el intercambio de dos réplicas (Cole abre «No me digas que tú...», Chiara la voltea con «No me digas *tú* que no» y entiende que lo provocó). **Decisión del autor: manda la prosa.** Sincronizada la tabla del beat «El drift» en H11 (Hitos.md) al intercambio de dos réplicas, con nota de sincronización fechada. Prosa sin tocar.
+- **Sin resolver:** L218 «Camino hacia atrás» (una sesión previa la cambió desde «Se levantó»; falta tilde y el reporte pedía retirar «Se levantó» sin añadir otro movimiento). Queda para decisión del autor.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/21_El_Mirador.md` (prosa + header), `06_Relationships/Hitos.md` (beat del drift en H11), `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`. **Cap. 21 sigue BORRADOR. Sin commit ni push. EPUB sin regenerar.**
+
+## Sesión 2026-09-10 | Codex — revisión editorial del Cap. 22
+
+Diagnóstico en [[98_Agent_Handoff/sessions/2026-09-10_codex_revision_editorial_cap_22]]: conductor, referente del desayuno y poda de glosas. Actualizados INDEX, CURRENT_BRIEF y PENDING. Manuscrito y canon sin modificar. Sin regenerar EPUB, commit ni push.
+
+### Continuación 2026-09-10 (2) | Cap. 21 — sección 3 del reporte (poda de glosas) + L218
+
+Ejecutadas a petición del autor las recomendaciones DISEÑO de la sección 3 del reporte Codex, más el cierre de L218:
+
+- **Bolera:** eliminadas tres glosas que reiteraban lo que el juego ya muestra — «la clase de victoria pequeña que en cualquier otro contexto de su vida no habría significado nada… valía más que cualquier negocio cerrado esa semana», «orgullosa de algo que no tenía nada que ver con dinero ni con poder», y el remate suelto «En algún punto de esa mejora, dejó de importarle perder». Se conservan el juego, las apuestas tontas, las papas y las risas.
+- **Penthouse:** eliminadas «y a Cole no le hizo falta preguntar qué significaba. Algunas cosas no necesitaban traducción» (interpreta la música) y «que ninguno de los dos iba a terminar» de las copas (el narrador anticipaba la escena; las copas sin tocar se muestran igual en L184/L194).
+- **Baile:** eliminada «dos personas que negociaban con criminales para vivir y no sabían qué hacer con tres minutos de música lenta» — explicaba el contraste que el movimiento ya encarna. Mano abierta entre los omóplatos, torpeza inicial y balanceo corto se conservan.
+- **L218:** retirada «Camino hacia atrás» (una sesión previa la había puesto en lugar de «Se levantó»). Queda «Le tomó la mano. Cole la siguió sin que hiciera falta preguntar hacia dónde…» — sin movimiento añadido, como pedía la sección 1 del reporte.
+
+Con esto, el reporte editorial del Cap. 21 queda **cerrado en su totalidad** (secciones 1, 2, 3 y los dos pendientes protegidos). Zonas protegidas —drift y mirador— sin tocar en prosa; la confesión de Dale y Ruth intacta.
+
+**Archivos tocados:** `21_El_Mirador.md` (prosa + header), `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`. **Cap. 21 sigue BORRADOR. Sin commit ni push. EPUB sin regenerar.**
+
+## Sesión 2026-09-10 | F1 colocada antes de "Mi pareja" + mecanismo de cierre
+
+**Decisión del autor (CANON).** **F1 — La mentira bajo la lluvia** ocurre **antes de [[06_Relationships/Hitos#H21 — Mi pareja|H21 — "Mi pareja"]]**, y es la fractura que hace que "Mi pareja" se sienta merecido. Mecanismo de cierre fijado: tras los tres días, **es Chiara quien cruza a Cole en un lugar público** y no se hablan; ella le escribe *"Tenemos que hablar"*; él responde que va al casino; en esa conversación **arreglan el problema** y ahí cae, a media discusión, el primer *"estoy enamorado de ti"* de Cole en voz alta — *"Podré tener mil problemas encima, y por mucho que yo esté enamorado de ti, no hay un 'fuera mi gente', eso no se negocia."* Es el **peldaño 1** de la escalera del "te amo" de Cole; **"Mi pareja" es el peldaño 2**, ahora adyacente. Regla de escritura anotada: la discusión del casino debe armarse con cuidado (ambos se ganan la reconciliación) para que **la noche en casa** (Día 3 de [[06_Relationships/Los_Tres_Dias]]) se sienta **merecida para ambos**, no como perdón regalado. La redacción queda para cuando se llegue al capítulo.
+
+**Archivos tocados:** `06_Relationships/Momentos_de_Fractura.md` (F1: posición fijada + sección "Cómo se cierra" + nota de anclas de calendario de las 4 fracturas), `06_Relationships/Cole_y_Chiara.md` (escalera: peldaño 1 colocado en la reconciliación de F1), `01_Timeline/02_Cadena_De_Eventos_Libro_I.md` (F1 insertada en la cadena como D3/D3b antes de H21; línea de tiempo §3; §4 corregido — las 4 fracturas son F1/F4/F3/F2, H18 pasa a "fricción que no es fractura"; boceto §6: nuevos Caps. 44-45, Bloques E-H corridos +2, total ~62; §7: nueva decisión abierta sobre Elliot Price). `CURRENT_BRIEF.md`. Sin commit ni push. EPUB sin regenerar.
+
+## Sesión 2026-09-10 | Cap. 22 — correcciones editoriales aplicadas (Claude Code)
+
+Ejecutadas las tres prioridades del reporte Codex ([[98_Agent_Handoff/sessions/2026-09-10_codex_revision_editorial_cap_22]]) sobre `22_La_Promesa.md`, con la decisión de puesta en escena tomada por el autor.
+
+- **Conductor (PENDIENTE → resuelto): conduce Chiara.** Se conserva su objeción canon-neutra («Llevas media botella de rosado encima… No vas a manejar así»); Cole le pasa las llaves y va de copiloto, manos apretadas sobre las rodillas, POV del trayecto todavía en Cole. Ajustes de coherencia: la radio ahora la enciende Cole; «Cole bajó antes de que Chiara apagara el motor»; en el regreso, Chiara estira la mano hacia el asiento de atrás en los semáforos «sin girarse del todo» (antes «iba girada en el asiento», imposible conduciendo). Se pierde la imagen de Cole con los nudillos pálidos al volante; su tensión pasa al asiento del copiloto.
+- **Referente del cierre (L185): fijado en Marisol.** «Algo en su cara —más suelta de lo que Chiara le había visto en días—» → «Tenía la cara más suelta que unas horas antes; en algún punto entre el café y la risa, el golpe de la noche anterior había empezado a doler menos». Resuelve el «en días» imposible (Chiara y Marisol se conocieron esa madrugada) y aligera la certificación de mejoría.
+- **Poda de glosas.** Loft: recortado el inventario del espacio + «pizca del dolor que traía encima», la doble formulación «por completo / completamente distinta», la autoevaluación de Chiara («si eso decía algo bueno o preocupante»), «familiaridad que no se explica con una sola visita», «sin saber qué hacer con ellas» (entraba en la cabeza de Cole dentro del bloque de Chiara), «esperó a que el calor hiciera lo que las palabras…», «el peso repartido apenas un grado menos solo». Desayuno: «honestidad que solo sale temprano en la mañana…», «Y se lo contó de nuevo» (reinicio) reescrito para saltar la renarración y aterrizar en la sospecha previa, «A veces se gana, a veces se pierde», «como si llevaran sábados enteros desayunando juntas» → «ya sonaba a costumbre», «con la cara de un hombre… en franca desventaja numérica» → «y no dijo nada» (lo dice «Ya hacen equipo»).
+- **Diálogo protegido intacto:** promesa del mezzanine («la única promesa… que no quiero fallarle»), «No solo por Cole. Por los dos», «es una de las ventajas de ser mujer… / sin duda alguna, bambina», intercambio del Audi, «papá» dicho al mismo tiempo, «Volveremos adentro».
+- **Limpieza de línea:** «todavía media dormida» → «medio dormida»; espacios interiores de rayas en el inciso de L99 y en el de la despedida (raya → dos puntos); retirado el símil «con la misma urgencia con la que un hombre salta por una ventana cuando huele a humo» (la urgencia ya la lleva la llamada + el pantalón).
+
+Header del capítulo (comentario de metadata) actualizado con la decisión del conductor y el alcance de la revisión.
+
+**No atendido (pendiente al cerrar la integración del Cap. 22):** residuos documentales en [[02_Characters/Marisol_Grayson]] — sección de graduación que aún presenta el 22 como primer encuentro, pendiente sobre «cómo se conocieron», numeración anterior del capítulo de campamento.
+
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/22_La_Promesa.md` (prosa + header), `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`. **Cap. 22 sigue BORRADOR. Sin commit ni push. EPUB sin regenerar.**
+
+## [2026-09-09] Claude Code | Fichas de lugar: taller del norte + destilería de Walt
+
+Decisión del autor: la advertencia de Varek de madrugada **se queda como recuerdo comprimido** dentro del Cap. 27, no se escribe como escena propia.
+
+Creadas dos fichas de lugar (DISEÑO), resolviendo PENDIENTE heredados:
+
+- **[[05_Locations/El_Taller_del_Norte]]** — galpón de las carreras ilegales (Carretera de Milla / Kingsley Field), operado por [[03_Factions/Los_Marcadores_de_Milla]]. Físico consolidado desde Caps. 9 y 27. Varek lo pide prestado para la confrontación de H5. PENDIENTE: propiedad formal del terreno (DISEÑO: dueño ausente, ocupado por los Marcadores) y nombre informal.
+- **[[05_Locations/Destileria_de_Walt]]** — vieja bodega de granos reconvertida, borde industrial de La Almendra; whisky de maíz en alambique de cobre, barrica nueva, blanco para caja; Monarch = cliente ancla por contrato. PENDIENTE: nombre propio (candidatos "Keegan" / "Mandorla" / algo por Jim), ubicación exacta, y si Chiara conserva papel sobre el inmueble (DISEÑO: no).
+
+Cross-refs actualizados: `San_Aurelio.md`, `Norte_Rural_de_San_Aurelio.md`, `Mapa_Operativo_de_San_Aurelio.md`, `Los_Marcadores_de_Milla.md`, `Walter_Keegan.md`, `INDEX.md`, y el header del Cap. 27. Sin commit ni push.
+
+
+## [2026-09-10] Codex — Revisión editorial de capítulos 23–26
+
+Lectura completa del bloque y cotejo dirigido de continuidad. Reporte: [[98_Agent_Handoff/sessions/2026-09-10_codex_revision_editorial_caps_23_26]]. Prioridades: referentes y alcance del accidente del 23; recuerdo de la primera reunión y enlace probatorio Monarch/Hoover en 24–25; cobertura H15 y costura temporal al 27; poda localizada. Se conservan las cinco decisiones del autor del 2026-09-09. Actualizados INDEX, CURRENT_BRIEF y PENDING. Sin cambios de canon ni de manuscrito; sin EPUB, commit o push.
+
+## [2026-09-10] Codex | Siembra de Kenji y Marisol en Libros I y II
+
+- **KENJI Y MARISOL (2026-09-10, canon del autor):** pareja fuera de foco en Libros I y II; hitos percibidos por Cole y Chiara mediante interacciones y lo que ambos deciden contar. Siembra registrada en [[02_Characters/Kenji_Oda]] y [[02_Characters/Marisol_Grayson]]; la muerte ya fijada de Kenji en Santa Lucía extiende el impacto a Marisol. Hitos, fechas, conocimiento de i Sussurri y reacciones concretas pendientes. Sin cambios de prosa.
+Actualizadas ambas fichas, INDEX y relevo (CURRENT_BRIEF, PENDING, DECISIONS). Ejemplos de conducta separados como DISEÑO. Sin EPUB, commit ni push.
+
+## [2026-09-10] Claude Code | Caps. 28-29: lado Cole de H5 (Halbrook) + apertura de H6
+
+Redacción de dos capítulos borrador de la Parte II, continuando desde el Cap. 27.
+
+- **Cap. 28 — *Riesgo pendiente*** ([[11_Books/Book_01_Seda_y_Polvora/Part_02_La_Construccion/28_Riesgo_Pendiente]]). POV único de Cole, en paralelo temporal al 27. Ejecuta el lado de Cole de [[06_Relationships/Hitos#H5 — San Aurelio|H5]] (secciones 12 y ss.): la convocatoria de madrugada tras el jacuzzi, los dos mensajes canon redactados desde su mano (con los borradores que descarta), el trayecto al noreste, y la reunión con [[02_Characters/Warren_Halbrook]] en una instalación federal clausurada **fuera de San Aurelio** (Halbrook no pisa la ciudad hasta la coda del Libro I). Halbrook escrito según ficha: hombre funcional que convirtió el tráfico en logística, papeleo en orden, trata a Cole como "riesgo pendiente que se administra"; reimpone la correa (trabajar para él o Nadir a ICE — "es un papel"). Cole vuelve **golpeado** (dos contratistas, "un recordatorio, no un castigo"; lo baja de categoría) y decide en el camino **no darle a Chiara ningún nombre** — la ironía canon (fue Halbrook, no Varek) queda abierta. **Cierra el pendiente de balance de POV** (una escena con Cole del lado militar/criminal sin Chiara de filtro). NO se resuelve: teatro/años de servicio, qué pasó en la última operación (sólo la versión oblicua de Halbrook), qué gana Halbrook, relación Halbrook–Varek, mecanismo jurídico.
+- **Cap. 29 — *La correa*** ([[11_Books/Book_01_Seda_y_Polvora/Part_02_La_Construccion/29_La_Correa]]). POV Chiara. Cierra **H5 §14 — "La peor noche"** (sola en el loft, la sudadera de Cole como disfraz operativo para que quien mire crea que él está en casa, reza sin ritual) y abre **[[06_Relationships/Hitos#H6 — El pacto|H6]] secciones 1-4**: el regreso golpeado ("entra hablando de otra cosa"), la conversación con las dos líneas canon (*"¿Crees que es así de fácil?"* / *"…puedo vivir sin tu presencia, pero ya es algo que me acostumbré a tener en mi vida"*), Chiara ofreciéndole la salida **sin cadena** (2ª vez; la 1ª fue H4) y **guardándose la tercera línea del taller** ("…entonces lo vas a hacer tú"). Lo que saca a Cole del cuarto corriendo no es la paliza ni el ultimátum: es que Varek se atribuya decidir su vida. Llama a Varek en tres palabras (*"¿Nos podemos reunir?"*) y sale *"como un diablo"*; cierra con Chiara yendo tras él.
+
+**Regla 5 visible en ambos lados:** Cole no nombra a Halbrook; Chiara no entrega la peor línea del taller. Ninguno miente por egoísmo.
+
+**Archivos tocados:** los dos capítulos nuevos, `INDEX.md`, `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `06_Relationships/Hitos.md` (notas de "escrito" en H5 y H6), `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/PENDING.md`, `01_Timeline/02_Cadena_De_Eventos_Libro_I.md` (nota de numeración), `log.md`. **Ambos capítulos BORRADOR sin revisión del autor. Sin commit ni push. EPUB sin regenerar.** Abierto: títulos definitivos de ambos capítulos; el boceto de la Cadena de Eventos quedó desfasado (el 27 absorbió más de lo previsto) — los números 28-60 del §6 ya no calzan uno a uno.
+
+## [2026-09-10] Claude Code | Pasada editorial aplicada: Caps. 23-26 (reporte de Codex)
+
+Resuelto el reporte [[98_Agent_Handoff/sessions/2026-09-10_codex_revision_editorial_caps_23_26]] con tres decisiones del autor. Sin nuevo canon; ajustes de continuidad y poda.
+
+- **Decisiones del autor:** (23) achicar el accidente -> el huesped solo golpea la farola, sin tercer auto danado. (24-25) ajustar el recuerdo de la primera reunion SIN tocar el Cap. 2: "una silla en la mesa", no "participacion/porcentaje"; la oposicion de Tommaso fue desconfianza. (26) H15 al minimo -> Chiara nombra Il Consorzio una vez; Cole menciona "una rusa que conseguia papeles" (Anya sin nombrar, se guarda para F4).
+- **Cap. 23:** logistica de grua unica; certeza del narrador limitada a lo que Cole y Chiara creen haber cerrado; "sin ayuda de nadie del Monarch" -> "sin que llegara a los socios"; podadas glosas ("formula", "mejor que nadie", encabezado de seccion "Lo que noto Dario", doble "cifra" de Dario, "Era otra cosa").
+- **Caps. 24-25:** explicitado el enlace propuso-antes -> se le cae a Hoover el "te lo inventaste ahora"; hecho legible como la contradiccion de Tommaso se suma a transferencias/perdidas/documentos de Garrett y por que Rivers sabe que mintio ("declaro mas de lo que usted me conto"); referentes corregidos (parcela; fiscal como confirmacion; objecion/reformular; "la defensa" no "parte actora"; "la otra parte" no "el hombre"; "Rivers" no "su abogada"; focalizacion de Chiara; "cuarto intermedio" fuera de la linea de Krane); poda de remates.
+- **Cap. 26:** referente de Marco -> "clienta"; "papel que nadie necesitaba" -> la compraventa del Lancia si tiene efecto; podados el eco de instruccion "no dio su edad", la repeticion del aprendizaje del 25 y un eco de "amigo"; atribuido a Cole el silencio de "la ultima parte" sin fijar que nunca se lo dira. Primera vez que Il Consorzio se nombra en prosa (paga la retencion del Cap. 10).
+- **Costura 26->27:** Cap. 27 L43 "Dos noches atras" -> "Esa misma madrugada" (la intercepcion de Varek es la madrugada del jacuzzi).
+- **Ledger:** H15 en [[06_Relationships/Hitos]] sincronizado -- nota heredada de la advertencia de Varek marcada RESUELTA (recuerdo comprimido en el Cap. 27) y anadida nota de la pasada 2026-09-10 (Consorcio/Anya). Headers de los cuatro capitulos actualizados.
+
+**Archivos tocados:** Caps. 23, 24, 25, 26 (prosa + headers), Cap. 27 (una linea), `06_Relationships/Hitos.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/PENDING.md`, `log.md`. **Los cuatro siguen BORRADOR pendientes de cierre del autor. Sin commit ni push. EPUB sin regenerar.**
+
+### [2026-09-10] Claude Code | Addendum: siembra Dario→Cole en el Cap. 26
+
+A petición del autor, se sembró en el Cap. 26 (*Libros abiertos*, jacuzzi) un intercambio breve para raizar el borrador *"no es Varek"* del Cap. 28 y fijar que **Cole está más despreocupado que Chiara** respecto a Varek. Chiara pregunta cómo quedó Cole con Dario tras el hospital (H12); Cole cuenta que, al bajar las armas junto a su cama, Dario le dijo que lo de ella lo arreglaba él y que Cole "no tenía vela ahí. Ni en eso ni en ti". Cole lo minimiza; Chiara lo lee con más alarma ("a Dario no se le pasan las cosas; las anota… dice lo que ya decidió"). Cierre: *"Cole ya lo había guardado en el cajón de lo resuelto. Ella lo dejó encima de la mesa un rato más."* **La frase exacta de Dario es DISEÑO (inferencia del agente), no canon del autor** — marcada así en el header del Cap. 26, en [[06_Relationships/Hitos]] (H12, nota de siembra) y en los headers de los Caps. 28-29. Escala hacia las tres líneas canon del taller (de "marcar una pared" ante Cole a instruir a Chiara directamente). El Cap. 28 se ajustó (el borrador ahora explicita que Cole sabe que ella pensará en Varek pero a él Varek no le quita el sueño — el peso real es Halbrook, innombrable). El Cap. 29 añade una línea de escalada ("A él se lo había dicho… junto a una cama de hospital… A ella… en un galpón helado, sola"). **Cotejar con la pasada editorial de Codex sobre Caps. 23-26 (en curso) — el Cap. 26 se tocó mientras esa revisión está abierta.** Sin commit. EPUB sin regenerar.
+
+## [2026-09-10] Codex | EPUB con 29 capítulos y nueva portada
+
+- **EPUB REGENERADO (2026-09-10, petición expresa del autor):** [[tools/epub-build/output/Seda_y_Polvora.epub]] incorpora los 29 capítulos actuales (Partes I y II, hasta «La correa») y la portada [[99_Reference/book_covers/Seda_y_Polvora_VICTOR_PAZ.png]]. Portada y autor VICTOR PAZ quedan como valores predeterminados del generador. Verificados ZIP, XML, índice y coincidencia exacta de la imagen incrustada. Esta exportación sustituye los pendientes anteriores de regeneración para el contenido actual; no implica aprobación editorial de los borradores.
+Salida: 1,622,085 bytes. Sin cambios de prosa, commit ni push.
+## [2026-09-10] Codex | Estilo editorial del EPUB
+
+Petición del autor: presentar el índice con nombres limpios, aperturas de parte centradas en página propia y capítulos justificados. Se actualizó `tools/epub-build/build_epub.py` para convertir carpetas `Part_01_*` en títulos `Parte I — ...` con clase `.part-title`, y `tools/epub-build/epub_style.css` para la composición de partes y navegación. Los comentarios HTML y metadata de montaje siguen excluidos por el generador. EPUB regenerado y verificado con 29 capítulos y portada VICTOR PAZ. Sin cambios de prosa, commit ni push.
+
+
+## 2026-09-10 ? Codex | Nuevos t?tulos de partes del Libro I
+
+**PARTES DEL LIBRO I (2026-09-10, títulos del autor):** I — Dos Mundos; II — "Con peores personas he tratado"; III — Ardizzone; IV — Cenizas y Ascensos; V — Exilio; VI — "Torna a Casa"; coda — La tierra bajo sus botas. Integrado en [[01_Timeline/02_Cadena_De_Eventos_Libro_I]]. Distribución por bloques: I = caps. 1–26, II = A, III = B–D, IV = E–F, V = G, VI = H hasta H1e, epílogo = H1f (DISEÑO). El segundo VI de la lista del autor se interpreta como epílogo por el contexto previo; no se canoniza esa etiqueta. Sin cambios de prosa, carpetas ni EPUB.
+
+Actualizados roadmap, INDEX y relevo. Sustituida la nomenclatura heredada a nivel editorial; migración del montaje pendiente.
+
+
+## 2026-09-10 — Codex | Nieve y Ceniza y regeneración EPUB
+
+**PARTE IV Y EPUB (2026-09-10, autor):** «Nieve y Ceniza» sustituye «Cenizas y Ascensos». EPUB regenerado por petición expresa con 29 capítulos; Partes I y II exportadas como «Dos Mundos» y «Con peores personas he tratado». Verificados ZIP, XML e índice (29 capítulos + 2 partes). Las partes futuras se incorporarán cuando exista prosa. Carpetas heredadas conservadas; el generador traduce sus títulos. Sin cambios de prosa.

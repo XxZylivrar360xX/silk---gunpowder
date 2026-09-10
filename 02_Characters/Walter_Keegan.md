@@ -114,13 +114,14 @@ Walt empieza a seguir, sin decirlo así, el mismo método de Cole para hacer neg
 
 > **DISEÑO:** esto resuelve en parte el PENDIENTE de "a qué se dedica al salir" — Walt no vuelve al barrio a no hacer nada. Construye algo propio y legítimo, con el casino como su primer cliente ancla. Y le da a Chiara, sin que nadie lo note todavía, una relación directa con alguien del círculo más antiguo de Cole.
 
-> **PENDIENTE:** ubicación de la bodega/destilería, y si el autor quiere darle nombre propio.
+> **PENDIENTE:** ubicación de la bodega/destilería, y si el autor quiere darle nombre propio. Ficha creada: [[05_Locations/Destileria_de_Walt]] (DISEÑO: bodega de granos reconvertida, borde industrial de La Almendra; whisky de maíz en alambique de cobre; nombre y punto exacto siguen PENDIENTE — candidatos de nombre: "Keegan", "Mandorla", o algo por Jim).
 
 ---
 
 ## Apariciones canon
 
 - **[[06_Relationships/Hitos#H5 — San Aurelio|H5 — San Aurelio]], sección 12** — Cole le manda un mensaje el día que sale de la ciudad de emergencia. Canon funcional del texto: *"Cuida el barrio. Si Chiara necesita algo, ayúdala sin chistar."* *(Qué desencadena la salida: PENDIENTE.)*
+- **[[11_Books/Book_01_Seda_y_Polvora/Part_02_La_Construccion/27_Me_Encuentro_Bien|Capítulo 27 — Me encuentro bien]]** (BORRADOR) — Chiara va a la destilería a preguntarle si sabe algo de Cole. Primero hablan de negocio (un lote atrasado, el método de Cole "en otra boca"); Walt le enseña su propio mensaje de Cole, lo que confirma que la salida fue planeada. Le desaconseja "levantar las piedras" de esta ciudad. Al cerrar, sobre lo que hay entre ella y Cole: dice que sabe de qué casa salió el muchacho, que pagó de niño una cuenta que no abrió, y suelta su línea — *"Le creo a su palabra, señorita. A su corazón todavía no lo conozco lo suficiente para creerle lo mismo. Eso voy a tener que verlo con mis ojos."* Botas de cazador; usted con Chiara.
 
 ---
 

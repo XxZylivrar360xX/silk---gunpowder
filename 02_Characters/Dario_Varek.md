@@ -174,6 +174,7 @@ A cambio, Cole pide **seguridad para Chiara**. Y trae con qué pagarlo: **una en
 
 - **[[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo]]** — Chiara lo conoce al llegar al Monarch, en el segundo capítulo provisional. Primera aparición del lector bajo el nuevo montaje.
 - **[[06_Relationships/Hitos]], H3-b** — conversación con Chiara en la entrada de Gabriella's, de salida, justo antes de que aparezca Cole. Ya no es su primera aparición, pero sigue siendo su primera escena de presión directa sobre ella si el montaje actual se conserva.
+- **[[11_Books/Book_01_Seda_y_Polvora/Part_02_La_Construccion/27_Me_Encuentro_Bien|Capítulo 27 — Me encuentro bien]]** (BORRADOR) — ejecuta la **confrontación Dario–Chiara** de [[06_Relationships/Hitos#H5 — San Aurelio|H5]] en el taller del norte: las tres líneas canon (*"Trabajas para mí. No conmigo." / "¿Te estás acostando con él?" / "…entonces lo vas a hacer tú."*) + *"vas a aprender tu lugar"*. Cortés y sin subir la voz incluso al amenazar; tutea a Chiara como gesto de poder; el arma nunca se nombra (sólo el frío del galpón). La deja ir por cálculo, no por piedad. La advertencia de madrugada tras el jacuzzi entra en el mismo capítulo como recuerdo de Chiara.
 
 ---
 

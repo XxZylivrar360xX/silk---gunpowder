@@ -51,4 +51,4 @@ Ver [[06_Relationships/Hitos]], H9.
 
 > **PENDIENTE:** si Tyler perteneció a Los Marcadores o sólo organizaba carreras que ellos usaban.
 
-> **PENDIENTE:** dueño del taller ilegal del norte.
+> **PENDIENTE:** dueño del taller ilegal del norte. Ficha creada: [[05_Locations/El_Taller_del_Norte]] (DISEÑO: terreno ocupado por los Marcadores, dueño formal fuera de cuadro).

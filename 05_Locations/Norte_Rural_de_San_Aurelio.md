@@ -60,7 +60,7 @@ El norte rural tiene tres capas que se confunden desde la ciudad, pero no son lo
 
 ## Pendientes
 
-- Decidir si el taller del norte está en una propiedad ligada a Harper o en terreno alquilado por los Marcadores.
+- Decidir si el taller del norte está en una propiedad ligada a Harper o en terreno alquilado por los Marcadores. **Ficha creada:** [[05_Locations/El_Taller_del_Norte]] (DISEÑO: se propone terreno ocupado por los Marcadores con dueño ausente; sigue PENDIENTE de confirmar).
 - Definir si las parcelas de Cedar Flats esconden cultivo ilegal, almacenamiento, químicos o sólo sirven como cobertura logística.
 - Nombrar la carretera interior que conecta Lomas de San Jacinto, Bellandi Ridge y Cedar Flats.
 

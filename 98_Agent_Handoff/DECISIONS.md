@@ -2,6 +2,10 @@
 
 Decisiones compactas para relevo. No reemplaza `log.md`.
 
+- **PARTE IV Y EPUB (2026-09-10, autor):** «Nieve y Ceniza» sustituye «Cenizas y Ascensos». EPUB regenerado por petición expresa con 29 capítulos; Partes I y II exportadas como «Dos Mundos» y «Con peores personas he tratado». Verificados ZIP, XML e índice (29 capítulos + 2 partes). Las partes futuras se incorporarán cuando exista prosa. Carpetas heredadas conservadas; el generador traduce sus títulos. Sin cambios de prosa.
+
+- **PARTES DEL LIBRO I (2026-09-10, títulos del autor):** I — Dos Mundos; II — "Con peores personas he tratado"; III — Ardizzone; IV — Cenizas y Ascensos; V — Exilio; VI — "Torna a Casa"; coda — La tierra bajo sus botas. Integrado en [[01_Timeline/02_Cadena_De_Eventos_Libro_I]]. Distribución por bloques: I = caps. 1–26, II = A, III = B–D, IV = E–F, V = G, VI = H hasta H1e, epílogo = H1f (DISEÑO). El segundo VI de la lista del autor se interpreta como epílogo por el contexto previo; no se canoniza esa etiqueta. Sin cambios de prosa, carpetas ni EPUB.
+
 ## 2026-08-31
 
 - La hija biológica de Cole Mercer y Chiara Ardizzone Bellandi se llama **Elenna Mercer**, con doble `n`. Durante su resguardo italiano usa únicamente la identidad documental **Elenna Serra**; Serra no es apellido real y no se sustituye por Mercer, Bellandi, Ardizzone ni Colombo.
@@ -83,3 +87,7 @@ Decisiones compactas para relevo. No reemplaza `log.md`.
 - Origen real de Cole fijado: Noruega. En prosa temprana no explicarlo; sembrarlo por rasgos nordicos y por el hueco de papeles falsos.
 - Ruth y Dale Mercer estan enterrados en Santa Lucia. Cole toma una rosa blanca del ramo de Michael para Ruth y evita tocar la tumba de Dale.
 - (2026-08-26) Continuidad temporal: los Capitulos 1 y 2 ocurren en domingo; el Capitulo 3 abre en lunes. La reunion de Cole con Keene ocurre la manana del domingo, no por la tarde.
+
+## 2026-09-10 — Kenji y Marisol
+
+- **KENJI Y MARISOL (2026-09-10, canon del autor):** pareja fuera de foco en Libros I y II; hitos percibidos por Cole y Chiara mediante interacciones y lo que ambos deciden contar. Siembra registrada en [[02_Characters/Kenji_Oda]] y [[02_Characters/Marisol_Grayson]]; la muerte ya fijada de Kenji en Santa Lucía extiende el impacto a Marisol. Hitos, fechas, conocimiento de i Sussurri y reacciones concretas pendientes. Sin cambios de prosa.

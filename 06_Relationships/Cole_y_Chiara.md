@@ -171,6 +171,24 @@ Las primeras veces de cada gesto doméstico traen esa doble capa: la comodidad e
 
 Un ejemplo tardio en [[05_Locations/La_Villa|Villa Candelaria]]: Chiara baila **Bellissima** con audifonos mientras Cole sale de la ducha y la ve sin que ella lo sepa. No la interrumpe, no la sexualiza, no se burla cruelmente. Sonrie, se rasca la cabeza y se queda. Cuando ella pregunta si todo bien con la ducha, el contesta: **"Si, si, estuvo movida."** Esa escena es intimidad accidental: ser visto sin haber decidido mostrarse, y descubrir que el otro se queda.
 
+### El registro privado — la voz se afloja tras las cuatro paredes
+
+**En público son Cole Mercer y Chiara Bellandi; en privado son otra cosa, y la prosa lo refleja.** Fuera de casa no hay afecto — la ciudad tiene que seguir sin saber si son pareja o pantalla (ver "Regla de escritura", más abajo). Puertas adentro, la voz seca del libro **se afloja**: frases más largas, silencios más demorados, gestos que las escenas públicas no gastarían página en mirar.
+
+Lo que **sí** cambia en privado:
+
+- **Conducta y ritmo.** El narrador puede demorarse en el abrazo por detrás, la mano bajo la playera al dormir, el mechón que él acomoda, la taza, el beso en la frente y el "buenas noches" en dos idiomas. La ternura ocupa espacio.
+- **Los apodos.** Chiara suelta el italiano de cariño — *amore*, *amore mio*, *bello* — como extensión de su tic ya canon (italiano en la boca cuando está cómoda). Cole responde con lo suyo, torpe: ver el ritual del *Ciao*, abajo.
+
+Lo que **no** cambia, ni en privado:
+
+- **Cole no se pone lírico.** Su ternura es conducta, no discurso — *"no sabría cómo"* es canon sobre exactamente esto. Si un borrador lo tiene diciendo cosas tiernas elaboradas, está mal (regla de escritura de su ficha).
+- **Chiara no se vuelve ingenua ni cuidadora.** Su romanticismo es deliberado, de alguien que ya se quedó una vez donde no valía la pena. Lo ablanda y le abre la sala para hablar, pero **sin obligarlo** y sin que su vida gire alrededor de eso (ver "La devoción" en su ficha y los guardarraíles "Lo que Chiara no es").
+- **El narrador no glosa.** Nada de "dos almas encontrando el acorde correcto". Se muestra el gesto; el lector hace la cuenta.
+- **Las declaraciones grandes siguen cayendo bajo fuego.** Aflojar el registro compra calidez cotidiana, no la declaración: lo que de verdad se dicen se lo siguen diciendo en el peor momento, no en el mejor (regla 5-ter). *"Se aman perfectamente en el peligro y torpemente en la paz"* no se toca.
+
+**Gradiente, no interruptor.** El registro privado no nace pleno: es la floración de "la incomodidad de estar cómodos". Semilla en H11 (el primer beso); casa completa después de la mudanza oficial (H16). Cuánta ternura sin vértigo aguanta una escena es el progreso de la relación medido en página.
+
 ---
 
 ## El encuentro — la clave de la dama y el vagabundo
@@ -233,7 +251,7 @@ Debajo de los cuatro tiempos de arriba corre una corriente continua, no un hito 
 
 > Es el mismo miedo del libro entero — quién decide quién soy — jugado en la voz en vez de en el territorio. Cole nunca le pide que se le parezca (ver más abajo, "El apellido que él nunca ofrece"); el barrio se le mete solo, sin permiso, y ella es quien tiene que vigilarse a sí misma para no perderse. Ver [[04_Concepts/Quien_Decide_Quien_Soy]].
 
-> **PENDIENTE (2026-08-27):** si Cole llega a devolverle el "Ciao" en algún momento — mal dicho, como su propio cruce del idioma, coherente con "él es el aprendiz, y no lo domina nunca" — o si el ritual recíproco de la pareja toma otra forma. Ver también la nota de cuarentena en [[99_Reference/README]] sobre "Ciao, Bella"/"Ciao, Bellissimo": ese ritual es de Kyle y Giulia, no de Cole y Chiara — pendiente de decisión del autor si se retoma la cuarentena o se libera.
+> **RESUELTO (2026-09-09, canon del autor):** sí se lo devuelve, y es el ritual recíproco de la pareja. **Nace después de [[06_Relationships/Hitos#H21 — Mi pareja|H21]]**, en la primera llamada telefónica posterior: ella contesta *"Ciao, bello"* y Cole, para no quedarse atrás, responde *"ciao, bellissima"* con un acento italiano exagerado y burlón. Pasa como broma y **se queda para toda la trilogía**. La cuarentena de [[99_Reference/README]] sobre *"Ciao, Bella" / "Ciao, Bellissimo"* queda **levantada** por esta decisión, con los géneros invertidos respecto a la fuente: ella dice *bello*, él *bellissima*. Coherente con "Cole es el aprendiz y no domina el italiano nunca": el mal acento es el chiste. Distinto del *"Ciao"* en solitario de Chiara (arriba), que es ella anclándose a sí misma y no un gesto hacia él — misma palabra, función distinta.
 
 ### CANON — La vela
 
@@ -405,6 +423,18 @@ Cuando el autor quiera medir si la Fase V está bien escrita, la pregunta es una
 ## Lo que se dicen y lo que no
 
 - **Ninguno dice "te quiero" cuando toca.** Cuando por fin ocurre, tiene que ser en una escena donde estén trabajando y con alguien más en la habitación.
+
+### La escalera de lo que Cole logra decir
+
+Lo que Cole alcanza a nombrar sube en tres peldaños, cada uno más caro que el anterior, y ninguno es una escena romántica:
+
+1. **El primero, soltado a media discusión** — como oración subordinada, no como confesión: *"Podré tener mil problemas encima, y por mucho que yo esté enamorado de ti, no hay un 'fuera mi gente', eso no se negocia."* El punto de la frase es el límite ("mi gente no se negocia", regla intocable); el *"estoy enamorado"* se le escapa de paso. Es la primera vez que lo dice en voz alta, a ella. **Cae bajo fuego** — una discusión lo es. **Colocado (2026-09-10, autor):** ocurre en la **conversación del casino que cierra [[06_Relationships/Momentos_de_Fractura#F1 - La mentira bajo la lluvia|F1 — la mentira bajo la lluvia]]**, después de los tres días, cuando arreglan el problema — **inmediatamente antes de H21**.
+2. **Nombrar la relación** — [[06_Relationships/Hitos#H21 — Mi pareja|H21]], "Mi pareja", por teléfono, con Nadir de testigo incómodo. No dice "te amo"; dice *pareja*, y le cuesta más que el efectivo del Audi.
+3. **La declaración entera** — H1, desangrándose, en el idioma de ella: *"Perché ti amo con tutto il mio cuore."*
+
+Los tres peldaños quedan encadenados: F1 → (peldaño 1) → H21 (peldaño 2) → … → H1 (peldaño 3).
+
+> **LÍNEA DEL AUTOR, SIN COLOCAR (2026-09-09):** *"No soy gracioso, me gusta hacerte reír a ti, que es diferente"* es de uso confirmado por el autor; el capítulo y el momento exactos siguen **PENDIENTE**. La frase del peldaño 1 ya tiene sitio (ver arriba). Guardada aquí para que no se pierda ni se reescriba.
 - **La discusión recurrente:** él dice que ella no arregla nada, sólo cambia cómo se ve. Ella dice que él cree que las cosas existen porque las tocó. Los dos tienen razón, y por eso la pelea nunca se acaba.
 - **La discusión que sí hace daño:** cuando él decide algo por ella *para protegerla*. Ella lo lee como exclusión, y tiene razón. Ver [[00_Biblia/Temas]], tema 6.
 - **Hablan mal.** Se interrumpen, dejan frases a medias, se provocan, contestan otra cosa. Ninguno de los dos es filósofo. El subtexto carga la mitad de la relación.

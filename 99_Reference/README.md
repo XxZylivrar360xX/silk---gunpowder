@@ -30,7 +30,7 @@ Regla del proyecto (`CLAUDE.md`): de las fuentes se hereda **nacionalidad y arqu
 **No se tomó — pertenece a Kylia, no a este libro:**
 
 - Los nombres Kyle, Giulia, Enrico, Rosa, y cualquier nombre secundario.
-- *"Ciao, Bella" / "Ciao, Bellissimo".* El ritual es de ellos. Lo que se hereda es el **mecanismo** — dos palabras que cambian de significado por repetición —, no las palabras. El equivalente propio está en [[06_Relationships/Cole_y_Chiara]].
+- *"Ciao, Bella" / "Ciao, Bellissimo".* El ritual era de ellos; lo que se heredaba era el **mecanismo** — dos palabras que cambian de significado por repetición. **CUARENTENA LEVANTADA (2026-09-09, decisión del autor):** Cole y Chiara adoptan una versión propia — *"Ciao, bello"* (ella) / *"ciao, bellissima"* (él, con acento malo a propósito) —, con los géneros invertidos y un origen propio: nace tras [[06_Relationships/Hitos#H21 — Mi pareja|H21]], en la primera llamada, como broma que se queda para toda la trilogía. Ver [[06_Relationships/Cole_y_Chiara]], "El acento que cede, y el 'Ciao' que lo compensa".
 - Cualquier suceso, cronología, oneshot o escena del roleplay.
 - El entorno de *La Ciudad de los Santos*. Esta novela ocurre en [[05_Locations/San_Aurelio]].
 

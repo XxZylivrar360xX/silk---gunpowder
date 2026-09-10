@@ -56,6 +56,21 @@ Si alguien lo intercepta antes de que llegue a Chiara, ve basura: unas palabras 
 
 ---
 
+## Kenji y Marisol — relación fuera de foco (Libros I y II)
+
+> **CANON DEL AUTOR (2026-09-10):** Kenji y [[02_Characters/Marisol_Grayson]] empiezan a salir. La relación se desarrolla fuera de foco durante *Seda y Pólvora* (Libro I) y *Voto de Ceniza* (Libro II): sus hitos se perciben desde Cole y Chiara, por los cambios visibles en sus interacciones y por lo que la pareja decide contarles. No se abre una línea de escenas íntimas ni un POV propio para narrar el noviazgo.
+
+- **Libro I:** sembrar el acercamiento y el inicio de la relación en las interacciones con los protagonistas; colocación exacta pendiente.
+- **Libro II:** dar continuidad perceptible a la pareja antes de Santa Lucía. Su vida compartida avanza aunque quede fuera de escena. La muerte de Kenji en el atentado de Halbrook, ya fijada en [[00_Biblia/00_Trilogy_Structure]], alcanza así también a Marisol y amplía las consecuencias sobre el conjunto de personajes.
+- **Límite de información:** Cole y Chiara sólo conocen lo que observan y lo que Kenji y Marisol comparten. Sus interpretaciones no se convierten automáticamente en hechos; respetar la intimidad de la pareja.
+- **Desarrollo de Kenji:** la relación permite percibir una vida propia más allá de su utilidad para Chiara. Debe existir como vínculo vivo antes de su pérdida, sin reducirlo al novio destinado a morir.
+
+> **DISEÑO disponible, no hitos fijados:** familiaridad adquirida, horarios y planes compartidos, cambios de disponibilidad y límites a las preguntas de los protagonistas. Pueden mostrar el paso del tiempo sin resumir citas que el lector no vio.
+
+> **PENDIENTE:** cómo se conocen, cuándo empiezan a salir, hitos concretos de ambos libros, cuánto sabe Marisol de i Sussurri y reacciones de cada personaje tras Santa Lucía. No quedan fijados culpabilidad, reproches, ruptura con los protagonistas ni una respuesta de venganza.
+
+---
+
 ## Pendientes
 
 > **PENDIENTE:** apellido y nombre — propuesta del agente, no canon del autor. Confirmar o cambiar.

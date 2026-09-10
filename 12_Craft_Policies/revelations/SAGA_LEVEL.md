@@ -19,7 +19,9 @@ Misterios o verdades que cruzan todo *Seda y Polvora* o que no pertenecen a un s
 ## Redada federal contra Corrado Ardizzone
 
 - **Que es:** los federales destruyeron la estabilidad final de la casa de Chiara. **La versión anterior que fijaba la muerte de Corrado quedó supersedida el 2026-08-31:** Corrado está vivo y oculto en Italia durante buena parte de la novela.
-- **Estado al inicio:** la redada y ausencia de Corrado pesan sobre Chiara. Quedan pendientes la versión pública exacta, qué cree Chiara durante cada tramo y cómo se reconcilian las escenas que hoy presuponen muerte o cuerpo retenido.
+- **Version publica (decision del autor 2026-09-09):** el capo de la famiglia Ardizzone **falleció** en una **caída desde el acantilado de la villa de Palermo**. Los federales y la comisión (Il Consorzio) dieron **la misma frase, palabra por palabra**. **Nunca se devolvió un cuerpo** — Chiara no pudo verlo ni enterrarlo junto a Marta.
+- **Qué cree Chiara:** que **perdió** a su padre; vive el duelo como real y paga esa cuenta sola cada aniversario. **NO sabe ni sospecha que está vivo.** Puede notar que las dos versiones coinciden demasiado sin que eso signifique que lo cree vivo. No fijar edad concreta al momento de la pérdida (la de Marta ya está sembrada: † cuando Chiara tenía 19).
+- **Estado al inicio:** la redada y ausencia de Corrado pesan sobre Chiara. Aplicado en prosa por primera vez en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/26_Libros_Abiertos|Cap. 26]] (jacuzzi/H15). Pendiente reconciliar las escenas heredadas que presuponen cuerpo retenido y el punto exacto del reveal a Cole (coda del Libro II).
 - **Quien ya lo sabe:** pendiente bajo el nuevo canon; no heredar automáticamente la lista anterior.
 - **Quien NO debe saberlo/insinuarlo todavia:** agentes federales de Meridian no deben conocer automaticamente el peso emocional si no hay escena/fuente que lo justifique.
 - **Lineas o gestos prohibidos:** Chiara explicando su trauma federal como monologo de informacion.

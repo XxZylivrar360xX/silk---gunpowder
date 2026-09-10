@@ -74,6 +74,17 @@ Después de editar:
 2. Resume qué cambió y qué queda pendiente.
 3. No hagas commit ni push salvo que el usuario lo pida o el flujo de la sesión lo haga claramente conveniente.
 
+## Checkpoints De Contexto
+
+No puedes medir el llenado de contexto en tiempo real ni interrumpir por tu cuenta. A cambio, cierra la respuesta con una linea de checkpoint sugiriendo `/clear` (mismo terminal, contexto limpio) o terminal nueva cuando se cumpla alguno de estos disparadores:
+
+- La tarea quedo cerrada y `98_Agent_Handoff/CURRENT_BRIEF.md` / `PENDING.md` / `log.md` ya estan actualizados.
+- Lo siguiente que pide el usuario no tiene relacion con lo recien hecho.
+- En la sesion ya se leyeron varios archivos grandes (capitulos completos, `Hitos.md`, `log.md`) y el historial pesa.
+- Cambia el rol de agente para el siguiente trabajo (ver `98_Agent_Handoff/AGENT_ROLES.md`): sugerir terminal nueva, no solo `/clear`.
+
+Es una sugerencia breve al final, no un bloqueo: si el usuario quiere seguir, se sigue.
+
 ## Referencia Externa
 
 `99_Reference/` es material de inspiración externo y no es canon. No copies escenas, biografías ni formulaciones desde ahí. Antes de usarlo, lee [`99_Reference/README.md`](99_Reference/README.md).

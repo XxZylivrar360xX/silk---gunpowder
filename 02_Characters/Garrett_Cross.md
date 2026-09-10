@@ -82,4 +82,4 @@ Con ayuda de Chiara, usa el casino como una zona de niebla narrativa: apuestas, 
 
 > **PENDIENTE:** cómo conoce Cole a Garrett: abogado recomendado, contador comprado, deuda antigua, favor de Chiara o pieza heredada de Varek.
 
-> **PENDIENTE:** cuál es la primera vez que Garrett le dice "no" a Cole y Cole lo obedece.
+> **PENDIENTE:** cuál es la primera vez que Garrett le dice "no" a Cole y Cole lo obedece. *(2026-09-09, catchup manual: en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/25_Bajo_Juramento|Capítulo 25]] Garrett le dice "No" cuando Cole mira un Lancia para Chiara recién salido del litigio del concesionario; Cole no compra ese día, pero ya piensa volver en dos semanas — obediencia parcial, no la resolución definitiva de este pendiente.)*

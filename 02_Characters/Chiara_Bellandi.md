@@ -51,6 +51,12 @@ Por eso es tan buena leyendo a Cole: **no confunde su dificultad para decir las 
 
 Y por eso es tan cara la contradicción: la única persona a la que Chiara necesita no mentirle es la única a la que podría mentirle mejor que a nadie.
 
+#### En privado con Cole
+
+Detrás de las cuatro paredes, la mujer exacta habla con caricias: la mano sobre el brazo de Cole a media frase, dormir con una mano bajo su playera sólo por estar ahí, porque es su lugar. Lo mira con ternura cuando él se pierde con tres cucharas que no sabe para qué son, y no se ríe de él — lo deja perderse. Le dice *amore*, *amore mio*, *bello* — el italiano de cariño, extensión del tic que ya tiene (italiano en la boca cuando está cómoda). Después de [[06_Relationships/Hitos#H21 — Mi pareja|H21]] contesta sus llamadas con *"Ciao, bello"* y él responde *"ciao, bellissima"*: ritual de la pareja para toda la trilogía, distinto del *"Ciao"* que se dice a sí misma para no perder el acento.
+
+**Es ella quien le abre la sala para que hable.** No lo obliga, no le saca las palabras: reconoce lo que hay detrás de lo que él no dice y le deja el espacio para decirlo cuando pueda. Ver la línea de H21 — *"Tiri fuori il meglio di me; lascia che ti restituisca un po' di tutto questo"* — y su nota: no es discurso terapéutico. **Sigue sin ser cuidadora y sin curar a nadie** (ver "Lo que Chiara no es"): lo ablanda haciendo, no arreglándolo.
+
 ### La fe
 
 Chiara es católica devota.
@@ -117,6 +123,10 @@ Y también vio la otra mitad: que el mundo de su padre fue lo que se llevó a su
 De ahí sale entera: Chiara sabe exactamente cuánto cuesta quedarse, y se queda igual. **Eso no es ingenuidad, es su forma de valentía**, y es lo único de ella que no es técnica. El cambio de apellido no fue rechazar al padre: fue quedarse con la parte de la herencia que quería y dejarle la otra a él, con la firma como reproche permanente.
 
 **CANON DEL AUTOR (2026-08-23):** los federales destruyeron la estabilidad final de esa casa en una redada contra Corrado. Corrado murió, y por burocracia de investigación Chiara no pudo verlo ni enterrarlo cuando tenía derecho a hacerlo — **su cuerpo nunca llegó a descansar junto al de Marta**, y ésa es una cuenta que Chiara paga sola cada aniversario, sin que nadie en San Aurelio lo sepa.
+
+> **VERSIÓN PÚBLICA (decisión del autor 2026-09-09):** el comunicado dijo que el capo de la famiglia Ardizzone falleció en una **caída desde el acantilado de la villa de Palermo**; federales y comisión dieron la misma frase, palabra por palabra. Nunca hubo cuerpo. **Chiara cree que lo perdió.** Formulada así por primera vez en prosa en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/26_Libros_Abiertos|Cap. 26]] (jacuzzi).
+>
+> **NOTA DE RECONCILIACIÓN PENDIENTE:** el canon de fondo vigente ([[00_Biblia/00_Trilogy_Structure]], [[12_Craft_Policies/revelations/SAGA_LEVEL]]) es que **Corrado está vivo** y oculto en Italia; primer reveal a Cole en la coda del Libro II. Este párrafo ("Corrado murió") y la arquitectura de la herida federal siguen pendientes de rediseño (no sustitución mecánica) en la pasada estructural — ver [[98_Agent_Handoff/PENDING]].
 
 La culpa de fondo era del [[03_Factions/Il_Consorzio]]: el Consorcio puso las condiciones, los intereses y la trampa. Pero la mano visible fue federal.
 

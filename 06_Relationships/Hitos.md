@@ -516,6 +516,8 @@ Le pide a Héctor que lo cubra y sale a investigar un nombre — un guardia de l
 
 Vuelve al cuarto y se encuentra con Dario Varek, de pie junto a la cama sedada. **Se apuntan con sus armas, culpándose mutuamente de lo que le pasó a Chiara.** Llegan a una tregua: cada uno investiga por su lado y comparten lo que encuentren. Cole omite la llamada por reflejo — es información, y la información es una carta — y le da a Dario la primera versión oficial: estaba en el taller, volvió y la encontró en las caballerizas. Cuando Chiara despierta, Cole la pone al tanto antes de que vuelva a dormirse.
 
+> **SIEMBRA DE TENSIÓN Dario→Cole (2026-09-10, Claude Code — DISEÑO, pendiente de validación del autor).** Al bajar las armas, antes de salir, **Dario le dice a Cole que lo que le pasó a Chiara lo arregla él y que Cole "no tiene vela ahí. Ni en eso ni en ella"** (frase exacta = inferencia del agente). Cole lo minimiza (*"me apuntó con un arma y los dos seguimos aquí; lo demás son frases"*); **Chiara, cuando Cole se lo cuenta, no** (*"a Dario no se le pasan las cosas; las anota… dice lo que ya decidió"*). **Función:** (a) raizar el borrador *"no es Varek"* del [[11_Books/Book_01_Seda_y_Polvora/Part_02_La_Construccion/28_Riesgo_Pendiente|Cap. 28]] y la asimetría de calma entre los dos (Cole despreocupado con Varek — el peso real es Halbrook; Chiara no, porque Varek es su jefe y es lo único visible); (b) escalar hacia las tres líneas canon del taller ([[#H5 — San Aurelio]]): de "marcar una pared" a instruir a Chiara directamente y hacerla el instrumento. Sembrado en prosa en el [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/26_Libros_Abiertos|Cap. 26]] (jacuzzi) y pagado en Caps. 28-29. Si el autor cambia o retira la frase, revisar esos tres capítulos.
+
 Ejecutado en el Capítulo 10. **Esto absorbe y ejecuta los beats 1-6 de H5 — ver nota de fusión al final de H5.**
 
 ## El alta, la coartada conjunta y la salida al norte — CANON DEL AUTOR (2026-08-28)
@@ -687,11 +689,16 @@ Cole y Chiara salen a jugar bolos a la bolera de la playa. Al volver hacia el ca
 
 ## El drift
 
-Cole para el auto. Le lanza una mirada de incredulidad fingida, con tono sarcástico — como si le hubiera herido el orgullo.
+Cole para el auto en seco. Se gira hacia ella con una mirada de incredulidad fingida, con tono sarcástico — como si le hubiera herido el orgullo.
 
-> **Chiara:** ¿No me digas que tú...
+> **Cole:** ¿Perdón?
+> **Chiara:** Ya me oíste.
+> **Cole:** No me digas que tú...
+> **Chiara:** No me digas *tú* que no.
 
-Cole no contesta. Se lo muestra: baja una curva entera driftando, impecable, sin chocar una sola vez. Chiara se agarra —figurativamente— hasta del tapete.
+Y ahí Chiara entiende que cometió un error: Cole no contesta con palabras, se lo muestra. Baja una curva entera driftando, impecable, sin chocar una sola vez. Chiara se agarra —figurativamente— hasta del tapete.
+
+> **SINCRONIZADO CON LA PROSA (2026-09-10).** La formulación anterior de este beat era una sola línea de Chiara («¿No me digas que tú...», Cole sin contestar). La prosa aprobada y protegida del Cap. 21 (el autor la considera cerrada) tiene el intercambio de dos réplicas: **Cole abre** «No me digas que tú...» siguiendo su indignación fingida y **Chiara la voltea** con «No me digas *tú* que no», y ahí entiende que lo provocó. Manda la prosa; esta tabla se ajustó a ella. Decisión del autor.
 
 Él la reta: que lo intente ella. Ella dice que no sabría hacerlo.
 
@@ -1203,6 +1210,12 @@ Esa sonrisa es el centro del hito.
 
 > **NOTA DE ARCHIVO.** Lo que sigue en las secciones numeradas 1–10 y 11 es el **material antiguo de H5**, que se conserva como registro pero **ya está ejecutado dentro de [[#H12 — El atentado / El corral]] y [[#H15 — La noche del jacuzzi]]**. El material **vivo y sin escribir** de H5 empieza en la sección **"12. El mensaje, y la salida de la ciudad"** y sigue en **"La confrontación Dario–Chiara"**.
 
+> **ESCRITO (2026-09-09 / 2026-09-10, Claude Code — BORRADOR, falta revisión del autor):**
+> - [[11_Books/Book_01_Seda_y_Polvora/Part_02_La_Construccion/27_Me_Encuentro_Bien|Capítulo 27 — Me encuentro bien]] (abre la Parte II), POV Chiara: la advertencia de Varek de madrugada (**rendida como recuerdo comprimido, cierre de H15 — decisión del autor 2026-09-09: se queda como recuerdo, no se escribe como escena**), el mensaje *"me encuentro bien"* como detonante, la conversación con Walt en la destilería, la investigación a Varek y **la confrontación Dario–Chiara completa con las tres líneas canon** + *"vas a aprender tu lugar"*, en el [[05_Locations/El_Taller_del_Norte|taller del norte]].
+> - [[11_Books/Book_01_Seda_y_Polvora/Part_02_La_Construccion/28_Riesgo_Pendiente|Capítulo 28 — Riesgo pendiente]], POV Cole (paralelo al 27): las secciones 12 y ss. desde su lado — la convocatoria de madrugada, los dos mensajes canon redactados desde su mano, el trayecto, la reunión con Halbrook fuera de San Aurelio (la correa reimpuesta: trabajar para él o Nadir a ICE; "es un papel"), la paliza como "recordatorio" a manos de contratistas (no de Halbrook), y la decisión de no darle a Chiara ningún nombre. **Halbrook escrito como hombre funcional / logística**, trata a Cole como "riesgo pendiente". No se resuelve teatro/años, la última operación (sólo su versión oblicua), qué gana, ni la relación con Varek.
+> - [[11_Books/Book_01_Seda_y_Polvora/Part_02_La_Construccion/29_La_Correa|Capítulo 29 — La correa]], POV Chiara: **sección 14 completa** ("La peor noche" — sola en el loft, la sudadera de Cole como disfraz operativo, reza sin ritual) y el arranque de H6 (ver nota en H6).
+> **H5 queda cubierto en prosa** salvo pases de revisión del autor.
+
 ---
 
 ## 1. La llamada
@@ -1441,6 +1454,12 @@ Y **se pone la sudadera de Cole para aparentar que él está en casa.**
 
 > **CANON DEL AUTOR (2026-08-29).** Se separa definitivamente de H5. Hito independiente. Ocurre **después de [[#H11 — El mirador]]** y **inmediatamente antes de [[#H5 — San Aurelio]]** — es su detonante. **ID: H15** (asignado 2026-08-29).
 
+> **ESCRITO (2026-09-09, catchup manual desde borrador de sesión de escritorio; falta revisión del autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/26_Libros_Abiertos|Capítulo 26 — Libros abiertos]] cubre la compra del Lancia y la noche de libros abiertos (familia de Chiara e Il Consorzio; ejército, Nadir, cicatriz y "lo de los niños" de Cole, sin la reserva del bebé). **La advertencia de Varek de madrugada queda fuera de este capítulo por decisión del autor (2026-09-09): se rinde como recuerdo comprimido en el [[11_Books/Book_01_Seda_y_Polvora/Part_02_La_Construccion/27_Me_Encuentro_Bien|Capítulo 27]], NO como escena propia.**
+
+> **REVISIÓN DE PROSA (2026-09-09, Claude Code, sobre el reporte editorial de Codex + decisiones del autor):** el Cap. 26 se reescribió aplicando las 5 decisiones del autor. Sobre esta noche: (a) Chiara cree que **perdió** a su padre — versión pública = el capo de la famiglia Ardizzone falleció, caída desde el acantilado de la villa de Palermo, federales y comisión "palabra por palabra", nunca hubo cuerpo; no se fija edad. (b) La cicatriz queda **confirmada por el autor** (ver nota abajo). (c) La confesión se repartió en intercambios cortos, sin dossier; se podaron las glosas del narrador que recitaban lo reservado. Sigue BORRADOR pendiente de revisión final del autor.
+
+> **PASADA EDITORIAL (2026-09-10, Claude Code, decisión del autor — toque mínimo):** en el Cap. 26, Chiara **nombra Il Consorzio una vez** (Cole identifica por fin la estructura que ella no nombró en el Corral); Cole menciona a la contacto rusa como *"una rusa que conseguía papeles"* — **Anya sin nombrar**, el nombre se guarda para F4 (ver nota abajo). No se ampliaron los secretos; reservas de Alessio y del bebé intactas. Costura temporal 26→27 corregida: la intercepción de Varek es *la misma madrugada* del jacuzzi, no "dos noches atrás".
+
 ## Relación con H2-b — la hija adulta de la noche de hierba
 
 Conceptualmente es **la hija adulta de [[#H2-b — La noche que todo cambió]].** Y es el cobro de una promesa vieja: cuando ella le enseñó el jacuzzi del penthouse, él dijo que volvería a probarlo, y ella contestó que lo rentaba pero que **por él podía hacer una excepción**.
@@ -1475,7 +1494,7 @@ Y el resto: **fue Nadir quien lo ayudó a salir.** En agradecimiento, Cole lo ay
 > - **Cole le cuenta lo de los niños, pero casi seguro NO que a él lo compraron.** Ver [[02_Characters/Warren_Halbrook]]. Que el lector tenga esa información y ella no es el hueco más grande que queda abierto en la pareja.
 > - **Ella le cuenta del Consorcio, no de Alessio.** Los dos entregan el sistema que los formó y se guardan el hecho concreto. Simetría exacta, y ninguno lo nota.
 
-> **PENDIENTE:** la historia de la cicatriz de la mejilla izquierda.
+> **CONFIRMADO POR EL AUTOR (2026-09-09):** la cicatriz viene de la última noche del convoy — un vidrio del parabrisas le abrió la cara cuando sacaba a un niño por la ventanilla. No es la pelea de cantina que dice el rumor del barrio. **Ya no es diseño provisional del agente.** Ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/26_Libros_Abiertos|Capítulo 26]].
 
 > **RESUELTO DE DISEÑO (2026-08-23):** la contacto rusa es [[02_Characters/Anya_Voronina]]. La deuda vuelve en [[06_Relationships/Momentos_de_Fractura]], F4 — Año Nuevo en Washington.
 
@@ -1508,6 +1527,8 @@ Ver también: [[06_Relationships/Cole_y_Chiara]] · [[02_Characters/Dario_Varek]
 *Arco de la tensión, parte 2.*
 
 > **CANON DEL AUTOR (2026-08-23).** Continúa directamente [[#H5 — San Aurelio]]. **Parte 3 por recibir.**
+
+> **ESCRITO PARCIALMENTE (2026-09-10, Claude Code — BORRADOR, falta revisión del autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_02_La_Construccion/29_La_Correa|Capítulo 29 — La correa]] redacta las **secciones 1-4** desde el POV de Chiara: el regreso golpeado ("entra hablando de otra cosa"), la conversación con las dos líneas canon, Chiara ofreciéndole la salida sin cadena (y guardándose la tercera línea del taller), y Cole saliendo *"como un diablo"* a llamar a Varek (*"¿Nos podemos reunir?"*). Cierra con Chiara yendo tras él. **Sin escribir:** secciones 5-7 (el patio de la mansión, la oferta a Varek, la primera actuación conjunta con *"Estás loco"*, y las cascadas / el pacto con la frase *"…con peores personas he tratado"*).
 
 ---
 
@@ -2342,6 +2363,10 @@ La redacción final de la explicación emocional de Cole queda abierta. No debe 
 - **ID:** H21 (asignado 2026-08-29).
 - **Posición canon (2026-08-29):** ocurre **después de** H5–H7, del [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños/mudanza]], del [[#H17 — Italia / Mesa de las Familias|viaje a Italia]], del [[#H18 — El regreso de Palermo|regreso con fricción]], del [[#H19 — El asalto a Camp Alder|asalto a la base]], del arresto militar y de la [[#H20 — Consecuencia: Halbrook / prisión militar / Lucia|intervención de Lucia]]. Es el **puesto 21** de la tabla de orden narrativo (ID **H21**). El retraso es intencional: Cole y Chiara han sido pareja **por conducta** durante mucho tiempo antes de etiquetarla; formalizar no crea la pareja, sólo le pone nombre.
 - **Estado:** CANON DEL AUTOR; diálogo final (redacción de la explicación emocional de Cole) y colocación fina aún pendientes.
+
+## El ritual del *Ciao* — nace aquí
+
+> **CANON DEL AUTOR (2026-09-09).** Inmediatamente después de "Mi pareja", en la **primera llamada telefónica** entre los dos, Chiara contesta *"Ciao, bello"*. Cole, para no quedarse atrás, responde *"ciao, bellissima"* con un acento italiano exagerado y burlón. Pasa como broma y **se queda como ritual de la pareja para toda la trilogía**. Levanta la cuarentena de [[99_Reference/README]] sobre *"Ciao, Bella" / "Ciao, Bellissimo"* (géneros invertidos respecto a la fuente: ella *bello*, él *bellissima*). Coherente con "Cole es el aprendiz de italiano y no lo domina nunca": el mal acento es el chiste. Detalle y reconciliación con el *"Ciao"* en solitario de Chiara en [[06_Relationships/Cole_y_Chiara]], "El acento que cede, y el 'Ciao' que lo compensa".
 
 ---
 

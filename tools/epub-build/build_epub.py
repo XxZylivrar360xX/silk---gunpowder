@@ -36,9 +36,18 @@ def clean_wikilinks(text: str) -> str:
 
 
 def divider_title(folder_name: str) -> str:
+    # Reader-facing titles for the two existing legacy manuscript folders.
+    aliases = {
+        "Part_01_El_Encuentro_Y_La_Nada": "Part_01_Dos_Mundos",
+        "Part_02_La_Construccion": "Part_02_Con_peores_personas_he_tratado",
+    }
+    folder_name = aliases.get(folder_name, folder_name)
     parts = folder_name.split("_")
     if parts[0].lower() == "part" and len(parts) >= 3:
-        return f"Part {parts[1]} - {' '.join(parts[2:])}"
+        roman = {"01": "I", "02": "II", "03": "III", "04": "IV", "05": "V", "06": "VI"}
+        number = roman.get(parts[1], parts[1])
+        title = " ".join(parts[2:]).replace(" Y ", " y ")
+        return f"Parte {number} — {title} {{.part-title}}"
     if parts and parts[0].isdigit():
         parts = parts[1:]
     return " ".join(parts)
@@ -150,9 +159,9 @@ def main() -> None:
     parser.add_argument("--book", default="11_Books/Book_01_Seda_y_Polvora")
     parser.add_argument("--title", default="Seda y Polvora")
     parser.add_argument("--subtitle", default="Silk & Gunpowder")
-    parser.add_argument("--author", default="Vic")
+    parser.add_argument("--author", default="VICTOR PAZ")
     parser.add_argument("--lang", default="es")
-    parser.add_argument("--cover", default="99_Reference/book_covers/seda_y_polvora_cover.png")
+    parser.add_argument("--cover", default="99_Reference/book_covers/Seda_y_Polvora_VICTOR_PAZ.png")
     parser.add_argument("--css", default="tools/epub-build/epub_style.css")
     parser.add_argument("--output-name", default="Seda_y_Polvora")
     parser.add_argument("--keep-manuscript", action="store_true")

@@ -13,6 +13,17 @@ Los tokens son recurso del usuario. Por defecto:
 - `log.md` es historico largo; no lo leas completo salvo peticion explicita.
 - Si el trabajo fue largo, el detalle va al vault o al handoff, no al chat.
 
+## Checkpoints De Contexto
+
+No puedes medir el llenado de contexto en tiempo real ni interrumpir por tu cuenta. A cambio, cierra la respuesta con una linea de checkpoint sugiriendo `/clear` (mismo terminal, contexto limpio) o terminal nueva cuando se cumpla alguno de estos disparadores:
+
+- La tarea quedo cerrada y `CURRENT_BRIEF.md` / `PENDING.md` / `log.md` ya estan actualizados.
+- Lo siguiente que pide el usuario no tiene relacion con lo recien hecho (p. ej. pasar de integrar prosa a depurar una tool).
+- En la sesion ya se leyeron varios archivos grandes (capitulos completos, `Hitos.md`, `log.md`) y el historial pesa.
+- Cambia el rol de agente para el siguiente trabajo (ver `98_Agent_Handoff/AGENT_ROLES.md`): sugerir terminal nueva, no solo `/clear`.
+
+La linea de checkpoint es una sugerencia breve al final, no un bloqueo: si el usuario quiere seguir, se sigue.
+
 ## Arranque De Sesion
 
 1. Lee `98_Agent_Handoff/START_HERE.md`.
@@ -61,6 +72,15 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 - Al crear archivo relevante, enlazar en `INDEX.md`.
 - Al cerrar cambio sustantivo, actualizar `98_Agent_Handoff/CURRENT_BRIEF.md`; si cambia canon o continuidad, tambien `log.md`.
 - No hacer commit ni push salvo que el usuario lo pida.
+
+## Regeneracion De EPUB
+
+**El EPUB no se regenera gratis.** Incidente 2026-09-09: una sesion de Claude Desktop lo regenero tras casi cada micro-cambio y ayudo a quemar el cupo de tokens de 5 horas del autor en minutos. Regla dura desde entonces:
+
+- Regenerar el EPUB solo cuando el autor lo pida explicitamente, **o** al cerrar un bloque de capitulos que el autor ya confirmo (no borradores).
+- Nunca regenerar por un ajuste de linea, una correccion de continuidad menor o un capitulo todavia marcado BORRADOR / sin revision del autor.
+- Si se acumulan varios cambios chicos, esperar y regenerar una sola vez al final del bloque, no despues de cada uno.
+- Al dejar pendiente una regeneracion, decirlo explicitamente en `CURRENT_BRIEF.md` / `PENDING.md` en vez de ejecutarla por iniciativa propia.
 
 ## Lectura Bajo Demanda
 

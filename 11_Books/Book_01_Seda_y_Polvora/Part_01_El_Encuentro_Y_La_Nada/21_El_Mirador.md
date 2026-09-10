@@ -6,15 +6,18 @@ Lugares: bolera de la playa, carretera del norte, El Mirador, The Monarch Casino
 Funcion: ejecutar H11 — la primera vez que Cole y Chiara tienen intimidad. Bolos, el drift, el mirador (Cole rompe su regla de nunca hablar de Dale y Ruth Mercer), y el penthouse.
 Version expandida (2026-09-07), a peticion del autor: la bolera gana cuerpo real -- diálogo, apuestas tontas, risa compartida, el permiso mutuo de portarse como adolescentes sin nadie que necesite nada de ninguno de los dos. El drift y el mirador NO se tocaron -- el autor los considera ya perfectos. El penthouse se expande en tres direcciones: ambiente (la luz ambar, la ciudad de noche, el gesto de Cole quitandose la chaqueta como en su propia casa), seguridad entre ambos (verbalizada al final: "la seguridad que habian estado construyendo... ya era suficientemente fuerte como para sostener esto tambien"), y la quimica/magia de los dos en prosa por primera vez (el intercambio "¿Seguro?" / "Llevo meses seguro", la risa que rompe la ultima calma de Chiara). Se planta el vino rosado (regla nueva de Chiara: tinto siempre, blanco para cocinar, rosado = "animada") en los dos momentos donde antes decia solo "vino", ya que esta es la noche exacta a la que esa regla aplica.
 Apertura por residuo (reescrita 2026-08-29, triaje PROSA-B): abre con el residuo del Capitulo 19 (H4, el dia nublado) — lo que Chiara le conto del exmarido, lo que Cole entendio sin que ella lo dijera y no ha vuelto a tocar, y la ficcion de "somos solo buenos amigos". El Cap. 20 (Tierra buena) es lateral y no genera residuo directo aqui. Ver [[06_Relationships/Hitos]], H11 y la politica de apertura por residuo.
+Ajuste (2026-09-09, a peticion del autor): el detonador del primer beso pasa de "la risa que rompe la ultima calma" a un baile lento. Cole se levanta (lee como su tic de no saber estarse sentado), cambia Fade Into You por Come Away With Me de Norah Jones, le tiende la mano; el espejo del recibidor los agarra como eco del espejo de la boutique en el Cap. 19; baile casi inmovil ("no es para bailar"), la distancia cuidada durante meses se cierra sola, y al terminar la cancion viene el mechon, el roce en la mejilla y el primer beso. La risa de Cole se conserva pero ya no detona: ahora afloja la escena. Aplica el registro privado de la pareja -- ver [[12_Craft_Policies/Redaccion_De_Capitulos]] ("Registro privado de Cole y Chiara") y [[06_Relationships/Cole_y_Chiara]] ("El registro privado"). El intercambio "¿Seguro?" / "Llevo meses seguro" y el cierre de la luz en la ventana no se tocaron.
+Correcciones editoriales (2026-09-10, reporte Codex del 2026-09-09, secciones 1-2 + dos pendientes): errores de linea (marcador, chuza, "cuatro pinos cayeron"); sonrisa que Chiara no calcula descrita una sola vez (se abrevio el segundo inciso, dialogo canon intacto); bunker del "quinto hoyo" -> "octavo hoyo" (cotejo con Cap. 19); botella del penthouse reformulada como la comprada esa noche; intercambio inicial "Estas en otro lado" anclado en el casino. Pendiente de seguridad "verbalizada al final" RESUELTO (decision del autor): se conserva el nucleo ("la seguridad que habian estado construyendo... sostener esto tambien") y se podo la redundancia de alrededor ("llevaban meses siendo cuidadosos...", "certeza tranquila... ya habian decidido semanas atras"). Drift RESUELTO (decision del autor): manda la prosa; se sincronizo la tabla de H11 en Hitos.md al intercambio de dos replicas (Cole abre, Chiara voltea).
+Seccion 3 del reporte (poda de glosas) EJECUTADA (2026-09-10, decision del autor): bolera -- fuera "la clase de victoria pequena... valia mas que cualquier negocio cerrado", "orgullosa de algo que no tenia nada que ver con dinero ni con poder" y el remate "dejo de importarle perder" (el juego, las apuestas y las risas se conservan); penthouse -- fuera "no le hizo falta preguntar que significaba / algunas cosas no necesitaban traduccion" y "dos copas que ninguno de los dos iba a terminar"; baile -- fuera "dos personas que negociaban con criminales para vivir y no sabian que hacer con tres minutos de musica lenta" (mano, torpeza y balanceo intactos). L218: retirada "Camino hacia atras" -- queda "Le tomo la mano. Cole la siguio..." sin movimiento anadido, como pedia el reporte.
 -->
 
 # Capítulo 21 — El mirador
 
 El día nublado no volvió a mencionarse entre ellos, pero tampoco se fue del todo.
 
-Cole lo notaba en los ratos raros — parado frente a una grúa, a mitad de una llamada, en la fila de la comisaría —: la tarde del campo de golf volviendo sin avisar. No la parte del final, la del hombro y la mano y quedarse dormidos en el sofá como dos que no tienen dónde más caerse; esa se la quedaba entera y sin problema. Volvía la otra parte: lo que ella le había contado entre el búnker del quinto hoyo y el aparcamiento del casino, y lo que él había entendido sin que ella lo dijera. Cole no lo había vuelto a tocar. Ni una palabra. Y no le pesaba tanto como debería, que era lo que más lo molestaba.
+Cole lo notaba en los ratos raros — parado frente a una grúa, a mitad de una llamada, en la fila de la comisaría —: la tarde del campo de golf volviendo sin avisar. No la parte del final, la del hombro y la mano y quedarse dormidos en el sofá como dos que no tienen dónde más caerse; esa se la quedaba entera y sin problema. Volvía la otra parte: lo que ella le había contado entre el búnker del octavo hoyo y el aparcamiento del casino, y lo que él había entendido sin que ella lo dijera. Cole no lo había vuelto a tocar. Ni una palabra. Y no le pesaba tanto como debería, que era lo que más lo molestaba.
 
-Chiara lo notó antes de que él dijera nada.
+Chiara lo notó una noche en el casino, antes de que él dijera nada.
 
 —Estás en otro lado.
 
@@ -40,7 +43,7 @@ Chiara tiró la primera bola con la misma seriedad con la que firmaba un contrat
 
 —Eso no cuenta —dijo, antes de que Cole alcanzara a decir nada.
 
-—Cuenta. Lo vi el marcador.
+—Cuenta. Lo vi en el marcador.
 
 —El marcador miente.
 
@@ -64,17 +67,17 @@ Cole se paró detrás de ella, le acomodó el brazo con dos dedos, sin insistir 
 
 —Apunta ahí, no al pino. La bola hace el resto.
 
-Chiara tiró. Cuatro pinos cayeron, torpes pero de pie.
+Chiara tiró. Cuatro pinos cayeron.
 
 —¡Cuatro!
 
 —Ahí está.
 
-Se giró a mirarlo con una sonrisa que no se molestó en esconder — la clase de victoria pequeña que en cualquier otro contexto de su vida no habría significado nada, y que ahí, esa noche, valía más que cualquier negocio cerrado esa semana.
+Se giró a mirarlo con una sonrisa que no se molestó en esconder.
 
 Para la tercera ronda ya tiraba con una postura casi decente, y Cole, envalentonado, empezó a apostar tonterías: quien perdiera la ronda se comía las papas más feas del plato, quien ganara elegía la próxima canción de la rocola. Chiara perdió dos rondas seguidas y se comió las papas con una dignidad que a Cole le pareció más divertida que si hubiera protestado.
 
-En la quinta, Cole tiró un chuza limpio y se giró hacia ella con los brazos abiertos, exigiendo aplausos que ella le dio, sarcástica pero genuina, aplaudiendo despacio como quien premia a un niño por algo pequeño.
+En la quinta, Cole tiró una chuza limpia y se giró hacia ella con los brazos abiertos, exigiendo aplausos que ella le dio, sarcástica pero genuina, aplaudiendo despacio como quien premia a un niño por algo pequeño.
 
 —Bravo. Impresionante. Nunca había visto algo así.
 
@@ -84,9 +87,7 @@ En la quinta, Cole tiró un chuza limpio y se giró hacia ella con los brazos ab
 
 Se rieron los dos, sin motivo real más que el gusto de estar ahí, en un lugar sin cámaras, sin nombres que cuidar, sin nadie que necesitara nada de ninguno de los dos.
 
-En la última ronda Chiara jugó bien de verdad — no perfecto, pero con la clase de mejora visible que la hizo enderezarse un poco más entre tiro y tiro, orgullosa de algo que no tenía nada que ver con dinero ni con poder. La ganó. Cole se lo reconoció con una inclinación de cabeza exagerada, como un caballero rindiendo pleitesía, y ella se rió de eso también.
-
-En algún punto de esa mejora, dejó de importarle perder.
+En la última ronda Chiara jugó bien de verdad — no perfecto, pero con la clase de mejora visible que la hizo enderezarse un poco más entre tiro y tiro. La ganó. Cole se lo reconoció con una inclinación de cabeza exagerada, como un caballero rindiendo pleitesía, y ella se rió de eso también.
 
 Compraron una botella de vino rosado de camino a la salida, sin razón particular, porque la noche todavía no quería terminar y ninguno de los dos lo dijo en voz alta.
 
@@ -172,9 +173,9 @@ El penthouse los recibió oscuro, salvo por la ciudad entera encendida del otro 
 
 Cole se quitó la chaqueta sin que se lo pidieran, con la misma naturalidad con la que un hombre se quita algo en su propia casa, y por primera vez en meses de subir y bajar a ese piso, a ninguno de los dos le pareció raro que lo hiciera.
 
-Chiara puso algo en el estéreo antes de servir — *Fade Into You*, de Mazzy Star, bajo, apenas por encima del silencio — y a Cole no le hizo falta preguntar qué significaba. Algunas cosas no necesitaban traducción.
+Chiara puso algo en el estéreo antes de servir — *Fade Into You*, de Mazzy Star, bajo, apenas por encima del silencio.
 
-La botella era un Chiaretto de Bardolino, rosado de verdad, del que Chiara guardaba solo para las noches que quería que fueran algo más que una cena. Sirvió dos copas que ninguno de los dos iba a terminar, y se sentó cerca de él —no pegada, pero sin la distancia de cortesía que había cuidado durante meses.
+La botella que habían comprado era un Chiaretto de Bardolino, rosado de verdad — el que Chiara elegía solo para las noches que quería que fueran algo más que una cena. Sirvió dos copas y se sentó cerca de él —no pegada, pero sin la distancia de cortesía que había cuidado durante meses.
 
 —Tengo una regla —dijo, con la copa todavía en la mano, sin beber—. Nunca miento en lo pequeño.
 
@@ -186,9 +187,25 @@ La botella era un Chiaretto de Bardolino, rosado de verdad, del que Chiara guard
 
 —Lo sé. Por eso te lo dije yo primero.
 
-Cole se rió, bajo, la clase de risa que no necesitaba salir completa para que ella la sintiera de todos modos, y algo en esa risa —tan poco cuidada, tan sin fachada— fue lo que finalmente le rompió a Chiara la última calma que le quedaba.
+Cole se rió, bajo, la clase de risa que no necesitaba salir completa para que ella la sintiera de todos modos. No dijo nada más. Se quedó un rato con la copa en la mano, mirando la ciudad del otro lado del ventanal, y cuando se levantó fue con el gesto de siempre: el del hombre que no sabe quedarse sentado cuando ya no hay nada que resolver.
 
-Se besaron — por fin, sin drift de por medio, sin curva que los salvara de tener que decidirlo. Fue torpe al principio, como cualquier primera vez que llega después de haberla postergado demasiado tiempo, y después dejó de serlo, con una facilidad que a ninguno de los dos le sorprendió del todo: llevaban meses aprendiéndose el uno al otro sin llamarlo así.
+No fue hacia la ventana. Cruzó al estéreo, quitó a Mazzy Star —no por molestarla; la había oído entera— y puso otra cosa. *Come Away With Me*, de Norah Jones, al mismo volumen de casi nada. Esta vez la que no preguntó nada fue Chiara.
+
+Dejó la copa en la mesa. Se giró y le tendió la mano.
+
+El espejo largo junto a la puerta los agarró así: él de pie en mitad de la sala con el brazo estirado, ella todavía en el sillón. Chiara miró un segundo esa imagen —los dos, vistos desde fuera— antes de mirarlo a él. Después le tomó la mano y se dejó levantar.
+
+—No sé bailar esto —dijo.
+
+—No es para bailar.
+
+Y no lo era. Cole no la llevó a ninguna parte. Le apoyó la mano abierta entre los omóplatos, sin presión, y esperó a que ella hiciera algo con la suya; Chiara la subió despacio, del hombro al costado del cuello, y la dejó ahí. Se movían apenas —un balanceo corto, sin figura, sin cuenta de pasos—, más cerca de estarse quietos dentro de la canción que de bailarla. Los primeros compases fueron torpes; después dejó de importar. La distancia que habían cuidado durante meses se fue cerrando sola, centímetro a centímetro, sin que ninguno la empujara.
+
+La canción se acabó y ninguno se apartó.
+
+Cole le acomodó un mechón que se le había soltado, hacia la izquierda, y le pasó el dorso de los dedos por la mejilla, despacio, como si pidiera permiso. Chiara soltó el aire que llevaba rato sin soltar. Le salió la sonrisa que no calculaba, la misma que Cole ya había aprendido a distinguir de todas las demás.
+
+Se besaron —por fin, sin drift de por medio, sin curva que los salvara de tener que decidirlo. Llevaban meses aprendiéndose el uno al otro sin llamarlo así, y el beso lo notó: torpe apenas un segundo, y después no.
 
 Chiara se apartó lo suficiente para mirarlo, buscando algo en su cara que ya sabía que iba a encontrar.
 
@@ -196,11 +213,11 @@ Chiara se apartó lo suficiente para mirarlo, buscando algo en su cara que ya sa
 
 —Llevo meses seguro.
 
-—Yo también. —Sonrió, esa sonrisa rara que le salía sin calcularla, la que Cole ya había aprendido a distinguir de todas las demás—. Solo quería oírtelo decir.
+—Yo también. —Sonrió—. Solo quería oírtelo decir.
 
-Se levantó. Le tomó la mano. Cole la siguió sin que hiciera falta preguntar hacia dónde, y en el trayecto corto hasta la habitación no hubo ni un segundo de la clase de duda que suele acompañar a estas cosas — solo la certeza tranquila de dos personas que ya habían decidido, semanas atrás, sin decirlo, que esto iba a pasar tarde o temprano.
+Le tomó la mano. Cole la siguió sin que hiciera falta preguntar hacia dónde, y en el trayecto corto hasta la habitación no hubo ni un segundo de la clase de duda que suele acompañar a estas cosas.
 
-Lo que pasó después no necesitó testigos ni palabras que lo explicaran del todo. Fue lento donde tenía que ser lento y urgente donde no podía ser de otra manera, y en algún punto de la noche los dos entendieron, sin decírselo, que llevaban meses siendo cuidadosos con algo que ya no necesitaba tanto cuidado — que la seguridad que habían estado construyendo, favor por favor, silencio por silencio, ya era suficientemente fuerte como para sostener esto también.
+Lo que pasó después no necesitó testigos ni palabras que lo explicaran del todo. Fue lento donde tenía que ser lento y urgente donde no podía ser de otra manera, y en algún punto de la noche los dos entendieron, sin decírselo, que la seguridad que habían estado construyendo, favor por favor, silencio por silencio, ya era suficientemente fuerte como para sostener esto también.
 
 No hablaron más.
 

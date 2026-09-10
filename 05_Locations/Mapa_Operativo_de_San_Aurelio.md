@@ -152,7 +152,7 @@ Su debilidad aparece cuando Cole controla rutas chicas que Dario siempre conside
 | Gabriella's | Frontera La Isla / Santa Brigida | Fiesta, costa y peligro de barrio en la misma noche |
 | Hipodromo | Borde noreste entre Cuesta Bonita y Rutas de Milla | Elite, caballos, caballerizas y ruta rapida hacia hospital |
 | Casa comunitaria | La Almendra | El barrio ve llegar a Chiara por primera vez |
-| Taller del norte | Rutas de Milla, cerca de Kingsley Field | Carreras, amenazas de Varek, caminos sin testigos |
+| [[05_Locations/El_Taller_del_Norte|Taller del norte]] | Rutas de Milla, cerca de Kingsley Field | Carreras, amenazas de Varek (H5 / Cap. 27), caminos sin testigos |
 | Mansion de Varek | Cuesta Bonita | Poder viejo y respetabilidad comprada |
 | Cascadas | Cerros del este, mas alla de Cuesta Bonita | Primer lugar que no pertenece a nadie |
 | Camp Alder | Noreste restringido, mas alla de Kingsley Field | Mantiene distancia civil y escala federal |
@@ -179,7 +179,7 @@ Su debilidad aparece cuando Cole controla rutas chicas que Dario siempre conside
 ## Preguntas abiertas
 
 - Definir nombre legal de la sociedad que opera The Monarch.
-- Decidir si el taller del norte está ligado a Cedar Flats, Kingsley Field o una propiedad de Harper.
+- Decidir si el taller del norte está ligado a Cedar Flats, Kingsley Field o una propiedad de Harper. **Ficha:** [[05_Locations/El_Taller_del_Norte]].
 - Nombrar la carretera interior entre Lomas de San Jacinto, Bellandi Ridge y Cedar Flats.
 - Decidir si CA-19, Bulevar Corona y Avenida Almendra quedan como nombres definitivos.
 - Dibujar un primer mapa simple para uso interno del vault.

@@ -27,7 +27,9 @@ Es una compra limpia, no un favor con condiciones ni una jugada de poder. Encaja
 
 ## Pendientes
 
-> **RESUELTO (2026-08-29, autor):** la escena de compra es un **juego de roles** — Cole y Chiara fingiendo ser desconocidos, él el vendedor —, cae en la **Parte I, poco antes de La noche del jacuzzi**, y se comenta esa misma noche en el jacuzzi. Antes se siembra que Cole compró el local del concesionario. Falta redactarla.
+> **RESUELTO (2026-08-29, autor):** la escena de compra es un **juego de roles** — Cole y Chiara fingiendo ser desconocidos, él el vendedor —, cae en la **Parte I, poco antes de La noche del jacuzzi**, y se comenta esa misma noche en el jacuzzi. Antes se siembra que Cole compró el local del concesionario.
+
+> **ESCRITO (2026-09-09, catchup manual; falta revisión del autor).** La siembra previa quedó resuelta en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/25_Bajo_Juramento|Capítulo 25 — Bajo juramento]]: Cole entra a Villani Motors con participación minoritaria usando parte del dinero recuperado en el litigio civil por su antiguo concesionario. La escena de compra y el juego de roles del vendedor viven en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/26_Libros_Abiertos|Capítulo 26 — Libros abiertos]].
 
 > **PENDIENTE:** nombre de pila del dueño/representante de la familia Villani con quien Cole trata, si la escena necesita un personaje con cara y no solo un negocio de fondo. *(Puede que no haga falta: en la escena de compra, el "vendedor" es Cole.)*
 

@@ -16,7 +16,7 @@
 
 ## Apariencia
 
-Alto, uno noventa y tantos de esos que se notan en los marcos de las puertas. Rubio, ojos azules de un tono lavado, mandíbula ancha y rasgos nórdicos que vienen de su verdadero origen noruego, aunque su vida pública no tenga cómo nombrarlo. Cuerpo de trabajo físico, no de gimnasio: hombros de levantar cosas, manos con las uñas imposibles de dejar limpias del todo. **Una cicatriz le cruza la mejilla izquierda desde la comisura de la boca hasta el rabillo del ojo** (canon; ver [[06_Relationships/Hitos]], "La noche del jacuzzi"). Es lo primero que la gente le mira y lo último que le pregunta. **PENDIENTE:** su historia — Cole se la cuenta a Chiara la noche del jacuzzi (hito propio desde 2026-08-29), y es de las pocas cosas que cuenta de sí mismo sin que se las pidan.
+Alto, uno noventa y tantos de esos que se notan en los marcos de las puertas. Rubio, ojos azules de un tono lavado, mandíbula ancha y rasgos nórdicos que vienen de su verdadero origen noruego, aunque su vida pública no tenga cómo nombrarlo. Cuerpo de trabajo físico, no de gimnasio: hombros de levantar cosas, manos con las uñas imposibles de dejar limpias del todo. **Una cicatriz le cruza la mejilla izquierda desde la comisura de la boca hasta el rabillo del ojo** (canon; ver [[06_Relationships/Hitos]], "La noche del jacuzzi"). Es lo primero que la gente le mira y lo último que le pregunta. **CONFIRMADO POR EL AUTOR (2026-09-09):** se la abrió un vidrio del parabrisas la última noche que liberó solo un convoy de niños, sacando a un niño por la ventanilla, antes de caer en prisión — no la pelea de cantina que dice el rumor del barrio. Ya no es diseño provisional. Es de las pocas cosas que cuenta de sí mismo sin que se las pidan, y se la cuenta a Chiara la noche del jacuzzi ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/26_Libros_Abiertos|Capítulo 26]]).
 
 Tatuajes. El principal, y el único que importa: **una calavera que le cubre media espalda** (canon; ver [[06_Relationships/Hitos]], H2-b). Además, un blackout que le come el antebrazo derecho — hecho para tapar otra cosa que nunca explica — y nada en las manos ni en el cuello. Un arete pequeño en la oreja izquierda que no se ha quitado en quince años.
 
@@ -91,6 +91,19 @@ Pero respeta su fe porque es de ella.
 No la apura cuando enciende una vela. No hace bromas. No discute si sirve o no sirve. Aprende a quedarse quieto mientras ella pide que Dios lo cuide y lo traiga a casa.
 
 Y cuando una situación lo aterra incluso a él, va en persona a [[05_Locations/Iglesia_Santa_Lucia]], prende una vela y se sienta en silencio. No porque de pronto se vuelva devoto, sino porque hay miedos que no sabe convertir en plan.
+
+### En privado — lo que sólo ella ve
+
+Fuera de casa, Cole no toca a Chiara ni la nombra como suya: la ciudad tiene que seguir sin saber (ver [[06_Relationships/Cole_y_Chiara]], "Los dos frentes y la unión invisible"). Puertas adentro es el hombre que sólo es con ella:
+
+- La abraza lento por detrás mientras ella cocina.
+- Le acomoda un mechón mal puesto sin pedir permiso.
+- Trae comida cuando ella no ha comido y no lo ha dicho.
+- Resuelve un problema de ella antes de que lo pida — su método de siempre, aquí sin cálculo, sólo cariño.
+- Se pone nervioso con los rituales domésticos de ella: una tetera demasiado "Chiara", tres cucharas junto a un plato y ninguna explicación. El hombre de barrio fuera de lugar en el mundo refinado de ella, jugado con ternura y nunca con humillación — la misma comedia del código de vestimenta del golf y de las reglas del vino.
+- Le devuelve el saludo en italiano — *"ciao, bellissima"*, con acento exagerado y malo a propósito. Ver [[06_Relationships/Cole_y_Chiara]], "El acento que cede, y el 'Ciao' que lo compensa".
+
+**No cambia la regla de escritura:** la ternura es conducta, no discurso. Cole no se pone lírico ni explica lo que siente. Si un borrador lo tiene diciendo cosas tiernas elaboradas, está mal. Ver [[06_Relationships/Cole_y_Chiara]], "El registro privado".
 
 ---
 

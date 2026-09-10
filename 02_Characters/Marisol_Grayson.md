@@ -100,6 +100,21 @@ En esa misma escena queda sembrado el resto del plan:
 
 ---
 
+## Marisol y Kenji — relación fuera de foco (Libros I y II)
+
+> **CANON DEL AUTOR (2026-09-10):** Marisol y [[02_Characters/Kenji_Oda]] empiezan a salir. El noviazgo se desarrolla fuera de foco durante *Seda y Pólvora* (Libro I) y *Voto de Ceniza* (Libro II). Cole y Chiara perciben sus hitos desde fuera, por cambios en las interacciones y por lo que ambos eligen contarles; no se abre un POV propio ni una línea de escenas íntimas de la pareja.
+
+- **Libro I:** sembrar el acercamiento y el inicio de la relación; momento y encuentros concretos pendientes. Marisol tiene una vida sentimental propia que no necesita contarle completa a Cole.
+- **Libro II:** hacer perceptible la continuidad del vínculo antes del atentado de Santa Lucía. La muerte de Kenji, ya canon en [[00_Biblia/00_Trilogy_Structure]], afecta directamente a Marisol y extiende las consecuencias de la operación de Halbrook sobre el conjunto de personajes.
+- **Límite de información:** respetar lo que Marisol y Kenji cuentan y lo que reservan. Cole y Chiara pueden interpretar o equivocarse; la narración no confirma por detrás lo que ninguno sabe.
+- **Desarrollo de Marisol:** conservar su capacidad de elegir, contradecir y sostener una vida propia. El noviazgo y la pérdida no sustituyen su carrera ni fijan de antemano su respuesta al atentado.
+
+> **DISEÑO disponible, no hitos fijados:** hábitos compartidos, planes que cambian su disponibilidad, familiaridad que los protagonistas descubren y preguntas que decide no responder. La tensión entre protección y autonomía puede cobrar aquí, pero todavía no se fija como el conflicto concreto con Cole.
+
+> **PENDIENTE:** cómo se conocen, inicio y progresión del noviazgo en ambos libros, cuánto sabe Marisol de i Sussurri y consecuencias específicas del duelo. No quedan canonizados reproches contra Chiara o Cole, alejamiento ni venganza. Desarrollo complementario en [[02_Characters/Kenji_Oda]].
+
+---
+
 ## Método
 
 Marisol no tiene todavía método operativo definido.
