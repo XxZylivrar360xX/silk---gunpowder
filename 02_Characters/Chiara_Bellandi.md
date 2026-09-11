@@ -122,11 +122,9 @@ Y también vio la otra mitad: que el mundo de su padre fue lo que se llevó a su
 
 De ahí sale entera: Chiara sabe exactamente cuánto cuesta quedarse, y se queda igual. **Eso no es ingenuidad, es su forma de valentía**, y es lo único de ella que no es técnica. El cambio de apellido no fue rechazar al padre: fue quedarse con la parte de la herencia que quería y dejarle la otra a él, con la firma como reproche permanente.
 
-**CANON DEL AUTOR (2026-08-23):** los federales destruyeron la estabilidad final de esa casa en una redada contra Corrado. Corrado murió, y por burocracia de investigación Chiara no pudo verlo ni enterrarlo cuando tenía derecho a hacerlo — **su cuerpo nunca llegó a descansar junto al de Marta**, y ésa es una cuenta que Chiara paga sola cada aniversario, sin que nadie en San Aurelio lo sepa.
-
-> **VERSIÓN PÚBLICA (decisión del autor 2026-09-09):** el comunicado dijo que el capo de la famiglia Ardizzone falleció en una **caída desde el acantilado de la villa de Palermo**; federales y comisión dieron la misma frase, palabra por palabra. Nunca hubo cuerpo. **Chiara cree que lo perdió.** Formulada así por primera vez en prosa en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/26_Libros_Abiertos|Cap. 26]] (jacuzzi).
+> **CREENCIA DE CHIARA (canon del autor, actualizado 2026-09-09):** los federales irrumpieron en una redada contra Corrado. Semanas después llegó un comunicado: el capo de la famiglia Ardizzone había fallecido en una **caída desde el acantilado de la villa de Palermo**; federales y comisión dieron la misma frase, palabra por palabra. **Nunca hubo cuerpo.** Chiara cree que lo perdió, y no tener siquiera un cuerpo que poner junto al de Marta es una cuenta que paga sola cada aniversario, sin que nadie en San Aurelio lo sepa. Formulada así por primera vez en prosa en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/26_Libros_Abiertos|Cap. 26]] (jacuzzi).
 >
-> **NOTA DE RECONCILIACIÓN PENDIENTE:** el canon de fondo vigente ([[00_Biblia/00_Trilogy_Structure]], [[12_Craft_Policies/revelations/SAGA_LEVEL]]) es que **Corrado está vivo** y oculto en Italia; primer reveal a Cole en la coda del Libro II. Este párrafo ("Corrado murió") y la arquitectura de la herida federal siguen pendientes de rediseño (no sustitución mecánica) en la pasada estructural — ver [[98_Agent_Handoff/PENDING]].
+> **VERDAD DEL AUTOR (Chiara no la conoce; no insinuar en prosa):** el canon de fondo vigente ([[00_Biblia/00_Trilogy_Structure]], [[12_Craft_Policies/revelations/SAGA_LEVEL]]) es que **Corrado está vivo** y oculto en Italia; primer reveal a Cole en la coda del Libro II.
 
 La culpa de fondo era del [[03_Factions/Il_Consorzio]]: el Consorcio puso las condiciones, los intereses y la trampa. Pero la mano visible fue federal.
 
@@ -347,7 +345,7 @@ Es la asimetría exacta con el apodo de él ([[02_Characters/Cole_Mercer]], "Mac
 - **[[02_Characters/Walter_Keegan]]** — amigo del padre de Cole. Se conocen en el primer torneo de poker; ella lo ayuda a comprar la bodega para su destilería y él se vuelve el proveedor de licor del casino.
 - **[[02_Characters/Blake_Stanton]]** — con quien sale al llegar a la ciudad. Rubio, ojos azules: el hombre equivocado con la cara correcta.
 - **[[02_Characters/Camila_Rivas]]** — su médica de confianza. Atiende fuera de los registros cuando la razón moral o la deuda lo justifican, y le contesta el teléfono a Chiara a cualquier hora. Es quien mantiene vivo a Cole en [[06_Relationships/Hitos]], H1, y por lo tanto **la prueba de que la red de Chiara es infraestructura real y no contactos sociales.**
-- Corrado Ardizzone — el padre. **Pendiente de ficha.** Muere en una redada federal; no debe escribirse como villano plano ni como inocente limpio. Fue un hombre que quiso a su mujer treinta años y no supo proteger su casa de lo que su mundo era.
+- Corrado Ardizzone — el padre. **Pendiente de ficha.** Chiara lo cree muerto tras una redada federal (verdad del autor: vive, oculto en Italia — ver "Historia" arriba); no debe escribirse como villano plano ni como inocente limpio. Fue un hombre que quiso a su mujer treinta años y no supo proteger su casa de lo que su mundo era.
 - Marta Bellandi (†) — la madre. El apellido, y el modelo entero de lo que Chiara entiende por amar.
 
 ---

@@ -12,14 +12,14 @@
 
 ## Quién es
 
-Amigo de **Corrado Ardizzone**. Cuando Corrado murió en la redada federal y Chiara se quedó sin ninguno de los dos padres, fue Ettore quien se quedó — la crió en todo menos el nombre. No es su tutor legal ni ocupa un rol formal: es, simplemente, el que no se fue.
+Amigo de **Corrado Ardizzone**. Cuando se dio a Corrado por muerto tras la redada federal (creencia pública — ver [[02_Characters/Chiara_Bellandi]], "Historia") y Chiara se quedó sin ninguno de los dos padres, fue Ettore quien se quedó — la crió en todo menos el nombre. No es su tutor legal ni ocupa un rol formal: es, simplemente, el que no se fue.
 
 Sigue en Palermo. Chiara le escribe cartas reales desde San Aurelio — el único hilo con su ciudad que no administra ni edita como administra el resto de su vida. Él le pregunta por el casino y espera, sin exigirlo nunca, que ella le cuente algo de sí misma.
 
 ## Conexiones
 
-- [[02_Characters/Chiara_Bellandi]] — la crió tras la muerte de Corrado y Marta. Ella le escribe cartas de verdad, distintas a como se comunica con todos los demás.
-- **Corrado Ardizzone** *(sin ficha propia todavía)* — amistad de origen, previa a la muerte de Corrado.
+- [[02_Characters/Chiara_Bellandi]] — la crió tras la muerte de Marta y la pérdida (pública) de Corrado. Ella le escribe cartas de verdad, distintas a como se comunica con todos los demás.
+- **Corrado Ardizzone** *(sin ficha propia todavía)* — amistad de origen, previa a que se diera a Corrado por muerto.
 
 ## Preguntas abiertas
 
