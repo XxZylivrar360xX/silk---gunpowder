@@ -410,7 +410,7 @@ Keene lo sostuvo con la mirada. No era aprobación. Era cálculo.
 
 Cole salió con una firma, tres objeciones previsibles y la certeza de que Keene había aceptado menos por presupuesto que por visibilidad. Una patrulla que entraba al taller de la Almendra dejaba de ser sospecha si lo hacía cada martes a las diez. Eso también era relato.
 
-En cuanto dobló hacia Paseo Corona, Cole pulsó el botón del manos libres. El sol rebotaba en los parabrisas del tráfico de media mañana y convertía las ventanas de los juzgados en placas blancas. Detrás de él, la comisaría se encogió entre camiones de mensajería, policías fumando junto a la entrada y una patrulla que salió demasiado rápido para no tener prisa.
+En cuanto dobló hacia Paseo Corona, Cole pulsó el botón del manos libres. El sol rebotaba en los parabrisas del tráfico de media mañana y convertía las ventanas de los juzgados en placas blancas. Detrás de él, la comisaría se encogió entre camiones de mensajería, policías fumando junto a la entrada y una patrulla que salió rápido.
 
 La grúa blanca no tenía aire acondicionado. El tablero despedía un calor de plástico viejo y el volante vibraba cada vez que Cole pasaba sobre una junta del pavimento. Bajó la ventanilla; entraron olor a escape, café derramado y el golpe seco de una obra en alguna calle lateral. Entonces pulsó el número de Nadir.
 
@@ -734,7 +734,7 @@ Cole abrió la tapa de una taza de café que Mabel le había puesto enfrente sin
 
 —Las grúas son problemas de coches que ya se cansaron de esperar.
 
-Matteo sonrió como si esa respuesta le hubiera confirmado algo que venía a buscar.
+Matteo sonrió.
 
 —Tengo gente llegando hoy. Socios. Una operación nueva en el Distrito Marino. El Monarch Casino & Hotel.
 

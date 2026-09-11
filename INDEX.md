@@ -199,6 +199,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 
 # Relevo entre agentes
 
+- [[98_Agent_Handoff/sessions/2026-09-11_codex_microedicion_m3_fundacion_de_voz]] — M3, fundación de voz C01–C03: seis cambios mínimos, reporte A–F e inventario de comparaciones conservadas; revisión del autor pendiente, sin EPUB.
 - [[98_Agent_Handoff/README]] — protocolo compacto para handoff entre Codex, Claude Code u otros agentes
 - [[98_Agent_Handoff/START_HERE]] — entrada barata: orden de lectura, tabla de rutas y reglas para no cargar contexto innecesario
 - [[98_Agent_Handoff/AGENT_ROLES]] — responsabilidades operativas de Autor, ChatGPT, Codex y Claude Code

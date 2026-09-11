@@ -150,8 +150,6 @@ En el trayecto, San Aurelio apareció por partes. Primero las carreteras del nor
 
 La ciudad no cambiaba de cara de golpe. Se iba corrigiendo. Los anuncios pintados cedían lugar a lonas nuevas; las bardas con alambre a jardineras municipales; los talleres a cafés con nombres en inglés. En cada transición quedaba alguien trabajando para que el cambio pareciera natural.
 
-Chiara no creyó en nada natural.
-
 —El casino está listo —dijo Matteo.
 
 —Nada está listo el día que alguien dice que está listo.
@@ -706,7 +704,7 @@ Tommaso le concedió una sonrisa de cortesía.
 
 Ahí estaba. La sala entera obedeció a la palabra sin moverse.
 
-Cole no discutió. Chiara agradeció eso antes de preguntarse por qué. Un hombre menos listo habría confundido la frase con invitación a empujar. Cole la leyó como pared y buscó la puerta.
+Cole no discutió. Chiara agradeció eso antes de preguntarse por qué. Cole la leyó como pared y buscó la puerta.
 
 —Entonces autoricen una prueba —dijo—. Treinta días. Dos unidades. Mantenimiento y emergencias. Si llego tarde una vez, llaman a otro. Si alguno de mis hombres habla, llaman a otro. Si una factura no sirve, llaman a otro. Si todo funciona, hablamos de lo demás.
 

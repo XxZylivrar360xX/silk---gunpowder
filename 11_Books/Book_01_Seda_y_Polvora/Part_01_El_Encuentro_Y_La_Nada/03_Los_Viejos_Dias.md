@@ -692,7 +692,7 @@ Walt se agachó, por fin, y tocó la tierra con dos dedos — el mismo gesto que
 
 —Porque ahí no tenías nada. Aquí, al menos, tenías dónde pararte.
 
-Walt no contestó a eso. Se quedó en cuclillas un rato más, la mano todavía sobre la tierra, y Héctor se acercó por fin, despacio, y le puso la mano en el hombro sin decir nada — el mismo gesto que sabía hacer sin que hiciera falta ensayarlo.
+Walt no contestó a eso. Se quedó en cuclillas un rato más, la mano todavía sobre la tierra, y Héctor se acercó por fin, despacio, y le puso la mano en el hombro sin decir nada.
 
 Cuando Walt se puso de pie, tenía la cara seca y los ojos rojos, que no eran lo mismo.
 
@@ -934,7 +934,7 @@ Justamente por eso no dijo no.
 
 Extrañó, con una punzada breve y ridícula, la sensación de salir en Palermo sin que todo fuera expediente. Nueva York, con sus bares demasiado caros, sus taxis amarillos, sus noches donde una podía fingir dos horas que nadie esperaba nada de ella salvo que eligiera otra copa. La vibra de moverse porque sí. De aceptar una invitación porque el cuerpo necesitaba recordar que también existía fuera de las mesas.
 
-Blake no era eso, pero podía servir de imitación barata. Y a veces una imitación barata alcanzaba para pasar la noche.
+Blake no era eso, pero podía servir de imitación barata.
 
 —¿A qué hora?
 
