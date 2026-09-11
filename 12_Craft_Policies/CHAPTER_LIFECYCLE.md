@@ -169,6 +169,8 @@ Sin matrices YAML ni docenas de flags. La fuente visible principal sigue siendo 
 - `Estado: TERMINADO`
 - `Estado: CONGELADO`
 
+**Regla de equivalencia — estados heredados.** Los capítulos escritos antes de este sistema pueden llevar formulaciones previas al lifecycle formal (p. ej. `Estado: borrador provisional.`). Cualquier variante heredada que exprese que el capítulo sigue abierto — "borrador provisional", "borrador", o equivalente sin uno de los cinco valores formales — se interpreta automáticamente como `BORRADOR`. No es una diferencia que pueda bloquear un CLOSE por sí sola, y no requiere reescribir la línea salvo que el propio CLOSE promueva el capítulo a otro estado. Ante una formulación heredada ambigua que no exprese claramente "sigue abierto" (y por tanto no encaje sin duda en BORRADOR), reportarlo y preguntar antes de asumir equivalencia.
+
 La evidencia de gates vive en el session report, en `98_Agent_Handoff/CURRENT_BRIEF.md`, y en el ledger de cierre si se usa (ver abajo). No se duplica el análisis dentro del propio capítulo.
 
 ---
