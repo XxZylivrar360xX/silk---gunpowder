@@ -323,6 +323,12 @@ Es la asimetría exacta con el apodo de él ([[02_Characters/Cole_Mercer]], "Mac
 
 ---
 
+## La maternidad y el exilio de Elenna — DISEÑO (2026-09-11)
+
+Chiara entiende proteger como **control de versión e información** — si el mundo cree que algo murió, desaparece del tablero estratégico. Es la misma habilidad con la que dirige [[03_Factions/El_Faro]] y administra cada versión de sí misma, apuntada ahora contra la propia vida de su hija. El plan final de Elenna combina esa lógica con la de Cole ([[02_Characters/Cole_Mercer]], protección por distancia física): **Cole, lejos. Chiara, muerta para el mundo.**
+
+Esa capacidad no la inmuniza frente al costo: puede construir una mentira suficientemente fuerte para salvar a Elenna y, al mismo tiempo, quebrarse ante un gesto pequeño y ajeno a cualquier plan — ver [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]], "Filosofías de protección", y la calibración tonal en [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]].
+
 ## Conexiones
 
 - [[02_Characters/Cole_Mercer]] — el otro motor. Ver [[06_Relationships/Cole_y_Chiara]].

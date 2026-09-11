@@ -1902,6 +1902,18 @@ Durante los meses de obra, Chiara está encima **como una leona, y neurótica co
 
 ---
 
+## 8. Antecedente ideológico del exilio de Elenna — DISEÑO (2026-09-11)
+
+> No altera nada de lo anterior: H8 sigue siendo, en el Libro I, el incendio, la mentira y la villa. Esta sección registra una consecuencia temática que sólo paga en [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map|Voto de Ceniza]] — ver ahí "H8 — el incendio del loft como antecedente ideológico".
+
+Lo que el incendio deja sedimentado en Cole y Chiara, mucho antes de que Elenna exista siquiera como idea:
+
+> **una casa conocida deja de ser refugio cuando los enemigos saben dónde vive tu familia.**
+
+En el Libro II, esa certeza es lo que hace primero hermética a Villa Candelaria y, cuando ni eso basta, lo que los lleva a concluir que el problema no es la casa sino quién vive dentro — y por tanto a sacar a Elenna del tablero en vez de construir otra fortaleza. **No es la causa del exilio ni el "plan" de Crowe**: es antecedente, sedimentado por el uso, no diseñado.
+
+---
+
 ## Restricciones de escritura
 
 - **Cole no explica por qué compra la casa.** Ni a ella, ni al narrador. Se ve en que dijo *queremos*.
@@ -2565,6 +2577,8 @@ H22 no provoca retiro inmediato. Cole y Chiara todavía no pueden irse. Cambia e
 El contraste con Dario es obligatorio: **Dario construye un sistema donde todo pasa por Dario; Cole empieza a construir uno donde cada vez menos cosas necesitan pasar por Cole.** No pierde ambición: cambia su propósito.
 
 Mientras San Aurelio los convierte en **La Mancuerna de Hierro y Seda**, ellos profesionalizan, delegan, construyen redundancias, separan funciones y vuelven reemplazables sus posiciones. Exterior: permanencia. Interior: salida.
+
+> **DISEÑO (2026-09-11) — el giro de la pregunta.** Antes del video: *¿cómo hacemos San Aurelio suficientemente seguro para traer a Elenna?* Después: *¿por qué seguimos intentando traer a Elenna a San Aurelio?* La respuesta deja de ser traerla a casa y pasa a ser **ir ellos hacia ella** — el mismo giro que en [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map|el Book Map de Voto de Ceniza]] siembra la arquitectura de salida de [[11_Books/Book_03_Interregno/00_Book_Map|Interregno]].
 
 ## Restricciones
 

@@ -2,6 +2,8 @@
 
 Pendientes activos para el siguiente relevo.
 
+- **Roadmap de Voto de Ceniza — exilio de Elenna, integrado (2026-09-11):** [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]] ya tiene la arquitectura completa (flashforward, nueve meses, H8 como antecedente, amenazas, filosofías de protección, Riley/pista clandestina, capítulo de revelación completa, primer año, giro de H22). Sigue **PENDIENTE, no inventado:** mecanismo médico/hospitalario/documental de la falsa muerte de Elenna; círculo completo del secreto (quién sabe, desde cuándo); si la pista de entrega de Elenna es la misma infraestructura del destierro de Riley (F2) o una distinta; capítulos exactos del flashforward y de los ~9 meses de embarazo. Nada de esto se redacta en prosa hasta que el autor decida — el Libro II sigue con BLOQUEO DE PROSA general y H22 con bloqueo propio.
+
 - **EPUB ACTUALIZADO (2026-09-11, petición expresa del autor):** [[tools/epub-build/output/Seda_y_Polvora.epub]] regenerado con los 29 capítulos actuales, incluidas las microediciones recientes, y la portada y estilo existentes. Verificados ZIP, XML, portada e índice (29 capítulos + 2 partes). Sustituye las menciones anteriores de EPUB pendiente para el contenido actual; las revisiones editoriales del autor siguen abiertas. Sin cambios de prosa, commit ni push.
 
 - **M4 — C13/C14/C16 (2026-09-11):** tres ajustes pendientes de revisión del autor: dos en C14 y uno en C16; C13 intacto. Reporte comparativo, antes/después y 14 protecciones: [[98_Agent_Handoff/sessions/2026-09-11_codex_microedicion_m4_intuicion_presagio_percepcion]]. Viñedo y alarma ante la puerta conservados completos. No reabrir M1–M3 ni estructura/continuidad como parte de este bloque. EPUB sin regenerar; sin commit ni push.

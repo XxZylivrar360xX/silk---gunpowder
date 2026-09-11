@@ -282,6 +282,8 @@ Elenna cambia después el propósito de su ambición. Dario construye un sistema
 
 **Regla dura:** Elenna no es heredera del imperio Mercer. Su existencia obliga a Cole a imaginar una vida en la que ella no tenga que heredar San Aurelio.
 
+**Filosofía de protección — DISEÑO (2026-09-11):** Cole entiende proteger como **distancia física** — cuando alguien corre peligro real, la respuesta que conoce es apartarlo. El antecedente directo es [[02_Characters/Riley_Bennett|Riley]], a quien destierra en el Libro I para salvarla. Con Elenna vive esa misma lógica por primera vez desde el lado de padre, no de quien decide por otro: aceptar la distancia como la única protección real es su versión del mismo acto que antes le exigió a Chiara. Ver también [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]], "Filosofías de protección".
+
 ## "Mac" — CANON DEL AUTOR (2026-08-29)
 
 En las carreras ilegales de Kingsley Field ([[06_Relationships/Hitos]], H9 — Capítulo 9, "La carrera de máscaras"), nadie lo llama Cole ni Mercer. Le dicen **Mac** — las iniciales de Mercer Cole, invertidas y leídas como si fueran un nombre cualquiera. Tyler Brooks, quien organiza las carreras, lo saluda así. Chiara arma el acertijo sola, un segundo tarde, la primera vez que lo oye: un nombre falso hecho enteramente del nombre real, la misma lógica de la máscara de plástico que se pone en la cara — cambia de color sin cambiar una sola letra.

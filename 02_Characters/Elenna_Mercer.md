@@ -78,6 +78,21 @@ No existen todavía diagnóstico, circunstancias médicas, hospital, certificado
 
 Muy pocas personas conocen la verdad. La lista exacta y el momento en que cada persona la conoce son pendientes. Dario y Halbrook quedan fuera de esa lista por regla dura.
 
+## La apertura de Voto de Ceniza y la entrega — DISEÑO / CANON DEL AUTOR (2026-09-11)
+
+> Arquitectura completa en [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map|el Book Map de Voto de Ceniza]]; calibración tonal no diegética en [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]]. Resumen aquí sólo lo que toca directamente a Elenna.
+
+**Voto de Ceniza no abre cronológicamente.** El Capítulo 1 es un flashforward de ~9 meses: nacimiento de Elenna, una breve pertenencia real, la aparente muerte, el duelo público de San Aurelio y el duelo privado de Chiara, y Cole en [[05_Locations/El_Mirador|El Mirador]]. **No confirma todavía** que Elenna sobrevivió, que fue enviada a Italia ni que Riley está implicada — el lector puede leer legítimamente que murió. Cierra con Cole diciéndole a Héctor:
+
+> —La perdí, Héctor.
+> La perdí y no sé cómo voy a continuar.
+
+Verdadera, de significado deliberadamente abierto. Cuando la cronología alcanza otra vez el nacimiento (más adelante en el libro), se muestra la progresión completa: nacimiento → pertenencia → separación → entrega → vacío → duelo público → duelo privado → vida clandestina.
+
+**El motivo del dedo:** al nacer, Elenna cierra la mano en torno a uno de los dedos de Cole. En la pista clandestina donde la entrega, Cole debe retirar ese mismo dedo de la mano de Elenna para dársela a quien la recibe. No sobreexplicar el paralelismo.
+
+**La entrega:** Cole saca personalmente a Elenna del hospital y la lleva a una pista clandestina — posiblemente la misma infraestructura, o una fuertemente asociada, a la que sacó a Riley de San Aurelio en F2 (**no fijado que sea literalmente la misma — PENDIENTE**). Ahí lo espera una figura con gabardina y capucha que resulta ser Riley Bennett. La revelación es simultánea para Cole y para el lector; Chiara ya lo sabía y sólo había dicho, durante la planificación, algo equivalente a *"yo me encargaré de que haya alguien de confianza al otro lado"* — dejando que Cole (y el lector) asuman que se refiere a Ettore.
+
 ## Riley
 
 > **CANON DE DISEÑO.** [[02_Characters/Riley_Bennett|Riley Bennett]] cuida a Elenna durante su periodo de resguardo en Italia.
@@ -233,7 +248,9 @@ No resolver ninguno de estos puntos por conveniencia:
 32. **PENDIENTE:** momento exacto en que eligen el nombre Elenna.
 33. **PENDIENTE:** calendario médico del embarazo.
 34. **PENDIENTE:** capítulo exacto de H22 dentro del comienzo de Parte IV.
+35. **PENDIENTE:** capítulo exacto del flashforward (Cap. 1) de *Voto de Ceniza* y de la costura hacia "Nueve meses antes".
+36. **PENDIENTE:** si la pista de la entrega a Riley es la misma infraestructura del destierro de Riley en F2 o una distinta, y su ubicación exacta.
 
 ---
 
-Ver también: [[02_Characters/Cole_Mercer]] · [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Riley_Bennett]] · [[04_Concepts/La_Guerra_de_los_Tres]] · [[06_Relationships/Hitos]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]]
+Ver también: [[02_Characters/Cole_Mercer]] · [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Riley_Bennett]] · [[04_Concepts/La_Guerra_de_los_Tres]] · [[06_Relationships/Hitos]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]] · [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]]

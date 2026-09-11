@@ -155,7 +155,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[10_Chapters/README]] — prosa (vacío; el protocolo previo a escribir está ahí)
 - [[11_Books/README]] — montaje editorial del libro y flujo EPUB
 - [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] — mapa operativo del libro activo
-- [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]] — esqueleto del Libro II derivado de [[00_Biblia/00_Trilogy_Structure]] (2026-09-09; sin prosa, pendiente de validación)
+- [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]] — esqueleto del Libro II derivado de [[00_Biblia/00_Trilogy_Structure]] (2026-09-09; sin prosa, pendiente de validación). **Integrado (2026-09-11):** apertura en flashforward (Cap. 1), los ~9 meses de embarazo, H8 como antecedente ideológico del exilio, la lista creciente de amenazas, las filosofías de protección de Cole/Chiara, la regla de Riley como payoff (no causa) y su pista clandestina, el capítulo de revelación completa y el primer año de Elenna hasta el giro "ir hacia ella" de H22.
 - [[11_Books/Book_03_Interregno/00_Book_Map]] — esqueleto del Libro III derivado de [[00_Biblia/00_Trilogy_Structure]] (2026-09-09; sin prosa, pendiente de validación)
 - [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]] — Capítulo 1 provisional: día normal de Cole, carta de Walt, acuerdo temprano con Keene/Departamento, Matteo como bisagra e invitación al Monarch
 - [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo]] — Capítulo 2 provisional: llegada de Chiara a San Aurelio, Fabrizio/Tommaso/Dario, reunión interna sin Cole, primer apretón de manos, rechazo por "demasiado listo" y cierre paralelo de radar mutuo
@@ -186,6 +186,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[12_Craft_Policies/revelations/SAGA_LEVEL]] — secretos globales: origen de Cole, Corrado vivo y oculto, supervivencia de Elenna Serra, verdad de Alessio
 - [[12_Craft_Policies/milestones/INDEX]] — índice cronológico de hitos ya fijados
 - `12_Craft_Policies/voice/` — fichas de voz (leer antes de escribir diálogo): Cole, Chiara, Nadir, Héctor, Dario, Matteo, Mabel, Tommaso, Fabrizio · `TEMPLATE.md`
+- [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]] — guía de ambientación no diegética (temperatura emocional, ritmo, silencio) para el flashforward de apertura y el capítulo de revelación completa del exilio de Elenna en *Voto de Ceniza* (2026-09-11)
 - `12_Craft_Policies/dialogue_rules/` — anti-patrones de diálogo adaptados desde *Memories Of A Ghost*
 - `12_Craft_Policies/staging_rules/` — anti-patrones de puesta en escena adaptados desde *Memories Of A Ghost*
 - [[12_Craft_Policies/staging_rules/03-presentacion-por-catalogo-en-vez-de-gesto]] — gesto antes que catálogo: cómo entrar un personaje o una herida sin inventario físico

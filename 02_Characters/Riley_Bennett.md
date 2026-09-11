@@ -61,6 +61,14 @@ Elenna desarrolla un apego real hacia Riley. Ese vínculo sobrevive al reencuent
 
 Siguen pendientes el mecanismo documental de Riley Colombo, quién sostiene su cobertura, la localización exacta, su vida cotidiana antes de recibir a Elenna y cuánto tiempo media entre F2 y el nacimiento.
 
+### La entrega — DISEÑO / CANON DEL AUTOR (2026-09-11)
+
+> Arquitectura completa en [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map|el Book Map de Voto de Ceniza]] ("Riley — payoff, no causa") y en [[02_Characters/Elenna_Mercer]].
+
+**Regla dura:** Riley no reaparece en escena —ni mensaje, ni llamada, ni interludio en Italia, ni pista explícita— en ningún momento del libro antes de la entrega de Elenna. Durante la planificación, Chiara sólo dice algo equivalente a *"yo me encargaré de que haya alguien de confianza al otro lado"*; Cole (y el lector) pueden asumir que se refiere a [[02_Characters/Ettore]]. No se corrige.
+
+Cole lleva personalmente a Elenna a una pista clandestina y encuentra ahí una figura con gabardina y capucha que resulta ser Riley. La revelación es simultánea para Cole y para el lector — Chiara ya lo sabía. Riley recibe a la niña sin necesidad de discurso: su sola presencia, dado lo que ya vivió en F2, basta como promesa. No es niñera ni recurso operativo: **es alguien que ya sabe lo que significa ser apartada para poder seguir viva.**
+
 ---
 
 ## Método
@@ -112,4 +120,4 @@ Ese aprendizaje la vuelve peligrosa de una forma nueva: una corredora que aprend
 
 ---
 
-Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Mei_Lin_Zhao]]
+Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Mei_Lin_Zhao]] · [[02_Characters/Elenna_Mercer]] · [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]]
