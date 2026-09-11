@@ -426,9 +426,7 @@ Matteo volvió adentro. Ella se quedó en la rampa un momento más.
 
 La factura iba a llegar completa y enseñable, y ella la iba a pagar el mismo día. Eso era lo cómodo de un precio: se termina.
 
-Lo que no iba a aparecer en ninguna hoja era que un hombre al que esa misma mesa había rechazado contestó al tercer tono, llegó en veinte minutos y no preguntó ni una vez por qué lo llamaba ella y no Matteo. Esa parte no tenía tarifa. Y donde Chiara había crecido, lo que no tiene tarifa se cobra después, en la moneda que elige quien lo hizo.
-
-Lo había visto funcionar toda la vida en Palermo, siempre del lado de quien cobraba.
+Lo que no iba a aparecer en ninguna hoja era que un hombre al que esa misma mesa había rechazado contestó al tercer tono, llegó en veinte minutos y no preguntó ni una vez por qué lo llamaba ella y no Matteo.
 
 Era la primera vez que quedaba del otro lado.
 

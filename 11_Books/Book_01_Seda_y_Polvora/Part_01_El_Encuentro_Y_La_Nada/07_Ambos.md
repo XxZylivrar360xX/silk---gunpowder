@@ -552,8 +552,6 @@ Cole fue el primero en bajar la mirada.
 
 No lo dijo por el tuteo, que ya llevaba toda la noche instalado sin ceremonia. Lo dijo porque no encontró otra manera de nombrar lo que había pasado: que ella lo había hecho disfrutar una noche entera como hacía mucho tiempo nadie lograba, sin que le costara nada fingir, sin administrar nada.
 
-Y Chiara, que llevaba años lejos de la única casa donde había reído así — de verdad, no la risa que se pone para que una sala se sienta cómoda—, entendió que a ella acababa de pasarle exactamente lo mismo, de la mano de un hombre sencillo, del mundo del trabajo y no de los salones, que sin proponérselo le había devuelto algo que ella daba por perdido desde Palermo.
-
 Chiara levantó la mano, cerró el puño y lo dejó entre los dos. Un gesto que no era suyo. Una forma de barrio. Una forma de él.
 
 —Ambos somos increíbles.

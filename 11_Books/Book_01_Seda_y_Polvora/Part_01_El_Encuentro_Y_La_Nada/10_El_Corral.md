@@ -2,7 +2,7 @@
 Estado: borrador provisional.
 Protagonistas: Chiara Bellandi, Cole Mercer, con apariciones de Dario Varek, Nadir Amrani, Hector Navarro y personal del hospital.
 Ventana temporal: dias despues del Capitulo 9 (la carrera de mascaras). Todavia no hay primer beso. Cierra con el traslado nocturno a la casa comun.
-Apertura recosida el 2026-08-29 (encargo PROMPT_CLAUDE_H9): el residuo ya no es "desde la noche del ladrillo Chiara empezo a evitar a Cole", sino carrera de mascaras -> se divirtio demasiado facil -> retrocede unos dias (no por arrepentimiento, por lo contrario) -> el calendario emocional (aniversario de Marta, homenaje de Alessio) la golpea -> termina queriendo oir la voz de Cole -> telefono en la mano con su nombre en pantalla -> el golpe. El cuerpo del capitulo, intacto. Microedicion 2026-08-29 (ENCARGO_CLAUDE_MICROEDICION): se podo la recapitulacion concreta de H9 (Peugeot, tienda, Kingsley, motor, antifaz) — la apertura arranca ya desde el residuo emocional, no desde el resumen del capitulo anterior. Microedicion 2026-08-29 (ENCARGO_CLAUDE_TENSION_HOSPITAL): el golpe deja de ser "conmocion, dos o tres dias de observacion" y pasa a ser un hematoma que requiere cirugia de urgencia (craniotomia descompresiva) para estabilizar la hemorragia. Se introduce a Beatrice Varek como la neurocirujana que opera -- primera aparicion en prosa, adelantada desde su funcion original en el atentado futuro de la iglesia. Establece "tres dias para ver como evoluciona" como el reloj del resto del capitulo. La escena del turno de guardia se adelanta a la madrugada de la cirugia (justificada explicitamente por Cole contandoles lo raro del ataque, con ella sedada e indefensa) y la escena de "Chiara despierta" se mueve del "pasada la medianoche" original al tercer dia, ahora con dolor de cabeza real y con Cole insistiendo en que descanse en vez de resolver la coartada de inmediato. Se anade el giro de investigacion: Cole nota que el ataque esta armado con precision quirurgica para parecer accidente, y que la unica grieta es la llamada -- lo que lo deja entre dos conclusiones sin resolver: Dario organizo el ataque, o alguien mas tiene el mismo interes en dañar a Chiara.
+Apertura recosida el 2026-08-29 (encargo PROMPT_CLAUDE_H9): el residuo ya no es "desde la noche del ladrillo Chiara empezo a evitar a Cole", sino carrera de mascaras -> se divirtio demasiado facil -> retrocede unos dias (no por arrepentimiento, por lo contrario) -> el calendario emocional (aniversario de Marta, homenaje de Alessio) la golpea -> termina queriendo oir la voz de Cole -> telefono en la mano con su nombre en pantalla -> el golpe. El cuerpo del capitulo, intacto. Microedicion 2026-08-29 (ENCARGO_CLAUDE_MICROEDICION): se podo la recapitulacion concreta de H9 (Peugeot, tienda, Kingsley, motor, antifaz) — la apertura arranca ya desde el residuo emocional, no desde el resumen del capitulo anterior. Microedicion 2026-08-29 (ENCARGO_CLAUDE_TENSION_HOSPITAL): el golpe deja de ser "conmocion, dos o tres dias de observacion" y pasa a ser un hematoma que requiere cirugia de urgencia (craniotomia descompresiva) para estabilizar la hemorragia. Se introduce a Beatrice Varek como la neurocirujana que opera -- primera aparicion en prosa, adelantada desde su funcion original en el atentado futuro de la iglesia. Establece "tres dias para ver como evoluciona" como el reloj del resto del capitulo. La escena del turno de guardia se adelanta a la madrugada de la cirugia (justificada explicitamente por Cole contandoles lo raro del ataque, con ella sedada e indefensa) y la escena de "Chiara despierta" se mueve del "pasada la medianoche" original al tercer dia, ahora con dolor de cabeza real y con Cole insistiendo en que descanse en vez de resolver la coartada de inmediato. Se anade el giro de investigacion: Cole nota que el ataque esta armado con precision quirurgica para parecer accidente, y que la unica grieta es la llamada -- lo que lo deja entre dos conclusiones sin resolver: Dario organizo el ataque, o alguien mas tiene el mismo interes en dañar a Chiara. Microedicion global bloque M2 (2026-09-11, ENCARGO_CLAUDE_M2): tras M1 aprobado, cinco cortes quirurgicos centrados en "confiar en la accion cuando la accion ya hizo el trabajo" -- se quita la certificacion de competencia de Cole tras el rescate en el corral (se conserva la imagen del "uniforme"), se poda la reiteracion de verguenza tras soltar al guardia interrogado, se quita una repeticion casi identica del gesto de Dario "un momento de mas" (se conserva la primera aparicion, que ancla su caracterizacion), se quita el cierre explicativo tras "Pero tampoco me arrepiento" en el parador (el dialogo ya cierra la escena solo) y se poda la certificacion de la creencia de Cole sobre favores familiares (ya demostrada por la accion). Ningun cambio de estructura, informacion, canon o dialogo canon. Detalle completo: [[98_Agent_Handoff/sessions/2026-09-11_claude_c10_microedicion_m2]].
 Lugares: Hipodromo del Monarch (propiedad del casino), Hospital Santa Aurelia, bahia de carga / tunel este del Monarch, parador de autopista al norte, Casa Comunitaria de La Almendra.
 Funcion: fusiona H12 y el arranque de H5 -- el ataque ocurre en el hipodromo del Monarch, no en Bellandi Ridge. Cole recibe una llamada desde el celular de ella, contestada por un desconocido que tantea su paradero y cuelga sin decir nada util. Buzon de voz al llamarla directo. Entra armado al Monarch (domingo, cerrado), lo recorre vacio, sube al penthouse, tambien vacio, ve las botas de montar y recuerda que ella monta los domingos. Baja al hipodromo (misma propiedad, no hace falta auto), encuentra a Vento suelto, la halla inconsciente junto al corral -- repite su nombre sin respuesta, la sube el mismo al Audi y la lleva al hospital (nunca llama ambulancia -- el conduce, siempre). Aqui se ve al soldado: calma entrenada por fuera, quiebre por dentro. Cole recoge el bolso antes que nadie y se guarda cartera y reloj: un asalto que perdona un reloj asi no se lo cree nadie. Investiga y secuestra sin exito a un sospechoso. Encanonamiento con Dario en el cuarto de hospital -- tregua. Cole omite la llamada, arma coartada. El dia del alta Cole la ayuda a alistarse y llega Dario a interrogarla; Chiara percibe la tregua ya firmada y se sube a la version en marcha. Dos grietas pequeñas -- "corral" vs "caballerizas", y si lo esperaba ese domingo -- que remiendan en vivo con una mentira conjunta pasable pero no creible. Dario anuncia "vigilancia" en el casino (proteccion y vigilancia son la misma palabra en su boca) y manda un hombre a seguir a Cole. Cole se ofrece a llevarla. En el camino Cole detecta un sedan gris siguiendolos: cuadran que ella entre por la bahia de carga (tunel este, bajo el puente del canal, la "salida de evacuacion" del Monarch) y salgan a pie por atras, fuera de la vista del espia. Van al norte, a un parador de autopista; aparcan y reconstruyen los hechos. Chiara estuvo a punto de nombrar el Consorcio y se detiene: solo dice que viejos enemigos o rivales de los socios estan plantando una bandera con el atentado, y que no quiere meter a Cole. Cole: "Yo ya estoy dentro contigo. ¿O como era? El es Cole Mercer, vengan a conocerlo." Chiara: "No. Pero tampoco me arrepiento." Ella pide un motel de paso; Cole se burla ("un motel, dice ella... tu vienes conmigo") y ella se queda con la lectura mas economica, la que le deja decir "solo esta vez". Llegan de madrugada a la casa comun; Cole le da el unico cuarto que no grita de quien es, le da su palabra de que ahi esta segura, ella baja la mirada y el la abraza -- la siente temblar porque entendio que ya no hay punto de retorno: lo que viene tras ella puede alcanzarlo ahora a el, no porque a eso le interese ella sino porque a ella le interesa el. Cierre: los muchachos la dejan quedarse; alguien pregunta por cuanto tiempo y Cole dice "lo necesario, hasta que ya no lo sea" -- se lo gano, porque a la familia no se le cobran favores y el nunca les dijo que no; pueden pelearle, dudar de el no. Nadir cumple como los demas y, como los demas, calla; pero es el unico que al decir que si no la mira a ella. El atacante no se identifica ni se sugiere.
 -->
@@ -107,7 +107,7 @@ Nada.
 
 Ató a Vento al primer poste que encontró — rápido, sin ceremonia — y se arrodilló junto a ella. Respiraba. Tenía pulso. No la movió más de lo necesario; algo en el ángulo de la cabeza le dijo que moverla era la peor idea posible.
 
-Y ahí, con las manos ocupadas en algo útil, Cole hizo lo que sabía hacer mejor que casi cualquier otra cosa: convertirse en alguien capaz. La misma calma que lo había mantenido con vida en otro país, en otra vida, se le acomodó encima como un uniforme que todavía le quedaba.
+Y ahí, con las manos ocupadas en algo útil, la misma calma que lo había mantenido con vida en otro país, en otra vida, se le acomodó encima como un uniforme que todavía le quedaba.
 
 No esperó ninguna sirena. La levantó con el cuidado exacto que la nuca le exigía, la subió al Audi A7 que había dejado con el motor encendido junto a la entrada de carga, y condujo hacia el Santa Aurelia como si las calles de San Aurelio le debieran algo — sujetando el volante con una mano y con la otra buscando, cada pocos segundos, el pulso en su cuello, sin que le temblara nada por fuera.
 
@@ -151,7 +151,7 @@ Tenía un nombre, apenas — un guardia de las caballerizas que se había ido te
 
 No sacó nada. El hombre no sabía nada, o sabía mentir mejor de lo que Cole esperaba, y después de una hora larga entendió que estaba a punto de hacerle daño a alguien que probablemente no se lo merecía. Lo soltó a dos calles del hipódromo, sin explicaciones, y volvió al hospital con las manos vacías y algo parecido a vergüenza pisándole los talones.
 
-No fue un buen momento de su vida. No se lo contó a nadie, y no encontró forma de estar orgulloso de eso ni esa noche ni después.
+No se lo contó a nadie, ni esa noche ni después.
 
 ***
 
@@ -343,8 +343,6 @@ Lo dijo con la cortesía exacta, y por dentro tradujo la frase sin esfuerzo: no 
 
 —Yo la llevo al casino —dijo Cole.
 
-Dario lo miró un momento de más.
-
 —Cómo no. —Se volvió hacia la puerta—. Que descanse, signora. San Aurelio la necesita entera, y con la cabeza donde debe estar.
 
 Se fue sin esperar respuesta.
@@ -427,8 +425,6 @@ Chiara cerró los ojos.
 
 —No —dijo—. Pero tampoco me arrepiento.
 
-Fue lo más cerca que estuvieron, esa noche, de decirse la verdad completa.
-
 ***
 
 —Déjame en un motel —dijo cuando él arrancó otra vez—. Hay tres sobre esta carretera. Pago en efectivo, no doy nombre, no salgo del cuarto. Una semana. A nadie se le ocurre buscarme en un sitio así.
@@ -461,11 +457,11 @@ Chiara bajó la mirada. No contestó.
 
 Y Cole, que no era hombre de cruzar una habitación sin motivo, la cruzó y la abrazó — torpe al principio, como quien no tiene el gesto ensayado, y después no torpe. La sintió temblar contra él, y no era frío.
 
-Porque Chiara acababa de entender, de pie en un cuarto prestado de un barrio que no era el suyo, que ya no había punto de retorno. Que lo que fuera que venía tras ella podía ahora alcanzarlo también a él. No porque a eso le interesara ella — sino porque a ella le interesaba él, y eso, en el mundo del que venía, era exactamente el hilo del que tiraban.
+Lo que fuera que venía tras ella podía ahora alcanzarlo también a él — y eso, en el mundo del que venía Chiara, era exactamente el hilo del que tiraban.
 
 Ninguno de los dos lo dijo. No hubo frase que lo explicara. Sólo dos cuerpos en un cuarto a oscuras, diciéndose lo que las palabras habrían echado a perder, en un idioma que los dos llevaban meses fingiendo no hablar.
 
-Cole no supo nunca ser más que una cosa: el hombre dispuesto a meter los dos brazos hasta el codo en lo que hiciera falta para sacarla de un problema. Esa noche se dijo, como se lo diría muchas otras, que era sólo un favor, y que los favores se hacen y se olvidan. No se lo creyó entonces y no se lo creería después. A partir de esa noche, Cole no volvió a decirle que no a Chiara ni una sola vez que estuvieran sobre la mesa su seguridad o su sonrisa.
+Esa noche se dijo, como se lo diría muchas otras, que era sólo un favor, y que los favores se hacen y se olvidan. No se lo creyó entonces y no se lo creería después.
 
 ***
 
@@ -475,7 +471,7 @@ No hubo votación ni discusión. Alguno preguntó, un par de días después, con
 
 —Lo necesario —dijo Cole—. Hasta que ya no lo sea.
 
-Y con eso bastó. En las últimas semanas Cole se había ganado el derecho de pedirles exactamente eso y nada más: cuando alguno de ellos había necesitado un favor, no les había dicho que no una sola vez, y no les había cobrado ninguno, porque Cole era de los que creen que a la familia no se le cobran los favores. Podían pelearse con él. Discutirle a gritos en el taller, mandarlo al diablo, volver al día siguiente. Dudar de él, no.
+Y con eso bastó. En las últimas semanas Cole se había ganado el derecho de pedirles exactamente eso y nada más: cuando alguno de ellos había necesitado un favor, no les había dicho que no una sola vez, y no les había cobrado ninguno. Podían pelearse con él. Discutirle a gritos en el taller, mandarlo al diablo, volver al día siguiente. Dudar de él, no.
 
 Nadir cumplió como los demás. Y como los demás, no dijo nada.
 

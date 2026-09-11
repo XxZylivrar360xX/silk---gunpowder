@@ -187,7 +187,7 @@ Cole la miró.
 
 —Entonces no acepte.
 
-La respuesta la alcanzó mal. No porque fuera dura, sino porque le devolvía la decisión completa. Era más fácil enojarse con un hombre que empujaba. Cole no empujaba. Ponía la herramienta sobre la mesa y se iba antes de pedir que se la agradecieran.
+La respuesta la alcanzó mal. No porque fuera dura, sino porque le devolvía la decisión completa. Cole ponía la herramienta sobre la mesa y se iba antes de pedir que se la agradecieran.
 
 —Usted sabe que no es tan simple.
 
