@@ -46,33 +46,35 @@ No insertarlos por intuición. Mantener su posición como PENDIENTE mientras no 
 |---|---|
 | Después de F4 y F3 | **H8** — El incendio, la mentira y la villa *(2026-08-29: después de Año Nuevo (F4) y de los frenos (F3); posición fina respecto a Camp Alder y "Mi pareja" por afinar)* |
 | Por recibir | Primera Navidad y el collar · la primera vela · las clases de italiano *(rituales por colocar)* |
-| Parte II, después de que exista Villa Candelaria | **H1 — El regreso a casa** *(Chiara ya confirmó el embarazo; Cole todavía no lo sabe; posición fina pendiente)* |
-| Después de H1, todavía en Parte II | **Reveal del embarazo a Cole** *(momento obligatorio por diseñar, sin ID; sólo después de que esté fuera de peligro y regrese cierta normalidad doméstica)* |
-| Parte III, antes del nacimiento | **F2 — Destierro de Riley** *(Riley debe quedar establecida en Italia antes de que Elenna necesite protección allí)* |
-| Primer tramo importante de Parte III | **Nacimiento, muerte pública y separación de Elenna** *(posición relativa fijada; capítulo, fecha y detonante pendientes)* |
-| Cierre de Parte III | **Macrohito por numerar** — La caída de Dario, Santa Lucía y Halbrook *(después de "Mi pareja"; orden interno: arresto de Dario → falso final → Santa Lucía + montaña → muerte pública de Halbrook; también debe haber cobrado las muertes de Héctor y Kenji y la aparición posterior de Corrado)* |
-| Apertura / comienzo de Parte IV | **H22 — Los primeros pasos** *(CANON DEL AUTOR; BLOQUEADO PARA PROSA)* |
+| **Libro I**, después de que exista Villa Candelaria, antes de H1 | **F2 — Destierro de Riley** *(por el conflicto propio de Riley; Riley debe quedar establecida en Italia antes de que Elenna la necesite — payoff, no causa)* |
+| **Libro I**, después de que exista Villa Candelaria y de F2 | **H1 — El regreso a casa** *(Chiara ya confirmó el embarazo; Cole todavía no lo sabe; posición fina pendiente)* |
+| **Libro I**, después de H1, cierra el libro | **Reveal del embarazo a Cole** *(momento obligatorio por diseñar, sin ID; sólo después de que esté fuera de peligro y regrese cierta normalidad doméstica)* |
+| **Voto de Ceniza (Libro II)**, primer tramo importante | **Nacimiento, muerte pública y separación de Elenna** *(posición relativa fijada; capítulo, fecha y detonante pendientes)* |
+| **Voto de Ceniza (Libro II)**, después de que la separación sea cotidiana, **antes** del macrohito siguiente | **H22 — Los primeros pasos** *(CANON DEL AUTOR; BLOQUEADO PARA PROSA — [[00_Biblia/00_Trilogy_Structure]] la fija antes de la caída de Dario, la montaña y Santa Lucía, no después)* |
+| **Voto de Ceniza (Libro II)**, después de H22 | **Macrohito por numerar** — La caída de Dario, Santa Lucía y Halbrook *(orden interno: arresto de Dario → falso final → Santa Lucía + montaña → Cole sentencia a Halbrook; también cobra las muertes de Héctor y Kenji y la aparición posterior de Corrado. La ejecución pública de Halbrook ya no ocurre aquí: abre Interregno / Libro III)* |
 
 ---
 
-## Arco de embarazo, nacimiento y separación — CANON DEL AUTOR (2026-08-31)
+## Arco de embarazo, nacimiento y separación — CANON DEL AUTOR (2026-08-31; orden corregido 2026-09-11 contra [[00_Biblia/00_Trilogy_Structure]])
+
+> **CONTRADICCIÓN CORREGIDA:** la cadena de flechas y las reglas duras de esta sección colocaban F2 "en Parte III", después del reveal del embarazo, y hacían depender H22 del "cierre de la guerra". Ambas cosas invertían el orden que fija [[00_Biblia/00_Trilogy_Structure]] (2026-09-07): F2 es un hito de **Libro I**, anterior a H1; H22 ocurre **antes** de la caída de Dario, la montaña y Santa Lucía, no después. Corregido abajo sin mover ningún hito ni inventar contenido.
 
 Esta secuencia supersede cualquier colocación anterior del embarazo como sorpresa tardía de Parte II y cualquier ubicación de H1 después de la Guerra de los Tres:
 
-`Chiara confirma el embarazo → H1 (Chiara sabe / Cole no) → recuperación de Cole → reveal a Cole → expectativa de familia durante Parte II → corte II–III todavía pendiente → Chiara entra embarazada a la Guerra de los Tres → F2 y destierro de Riley → Riley se establece en Italia como Riley Colombo → nacimiento de Elenna en el primer tramo importante de Parte III → muerte pública / Elenna Serra → separación y fotografías → cierre de la guerra → H22 — Los primeros pasos al abrir Parte IV`.
+`Chiara confirma el embarazo → H1 (Chiara sabe / Cole no) → recuperación de Cole → reveal a Cole → cierre del Libro I → Voto de Ceniza abre con la guerra en escalada → nacimiento de Elenna en su primer tramo importante → muerte pública / Elenna Serra con Riley → separación y fotografías → H22 — Los primeros pasos → caída de Dario / montaña / Santa Lucía → Cole sentencia a Halbrook`.
 
 Reglas duras:
 
-- **H1 pertenece a Parte II.** Ocurre después de que [[05_Locations/La_Villa|Villa Candelaria]] exista y antes del corte Parte II → III. Su posición fina dentro de ese tramo sigue pendiente.
+- **H1 pertenece al Libro I.** Ocurre después de que [[05_Locations/La_Villa|Villa Candelaria]] exista y después de F2. Su posición fina dentro de ese tramo sigue pendiente.
 - Chiara lleva muy poco tiempo sabiendo que está embarazada cuando ocurre H1. No ha prolongado el secreto: planea contárselo a Cole cuando regrese de la operación.
 - El reveal no ocurre durante la hemorragia, la atención médica, el baño ni el pico de H1. Cole debe quedar fuera de peligro, dormir, iniciar recuperación y recuperar cierta normalidad doméstica antes de saberlo.
-- La Parte II construye poder y familia simultáneamente. El embarazo atraviesa la vida doméstica sin convertir cada capítulo en escena médica o de síntomas.
+- El Libro I construye poder y familia simultáneamente. El embarazo atraviesa la vida doméstica sin convertir cada capítulo en escena médica o de síntomas.
 - La Guerra de los Tres no nace por Elenna. Recibe a Chiara ya embarazada e invade una vida familiar en marcha.
-- F2 ocurre por el conflicto propio de Riley. Su presencia futura en Italia es payoff, nunca motivo retroactivo del destierro.
-- Elenna nace relativamente temprano en Parte III, pero sólo después de que Riley esté fuera de San Aurelio y tenga una vida/cobertura estable en Italia. La fecha, semana y capítulo exactos siguen pendientes.
+- **F2 ocurre en el Libro I, antes de H1**, por el conflicto propio de Riley. Su presencia futura en Italia es payoff, nunca motivo retroactivo del destierro.
+- Elenna nace en el primer tramo importante de Voto de Ceniza (Libro II), después de que Riley esté fuera de San Aurelio y tenga una vida/cobertura estable en Italia desde el Libro I. La fecha, semana y capítulo exactos siguen pendientes.
 - El detonante que obliga a ocultar a Elenna debe nacer orgánicamente de la escalada, la exposición y la imposibilidad de proteger a una bebé sin volverla objetivo. Sigue pendiente.
 - La duración de trabajo para la separación es **cerca de un año**, suficiente para que Elenna llegue a sus primeros pasos; el calendario exacto no se fija hasta cuadrar la cronología global.
-- H22 sólo puede ocurrir después de cerrar la arquitectura bélica de Parte III.
+- **H22 ocurre antes de la caída de Dario, la montaña y Santa Lucía — no después.** No depende de que la arquitectura bélica esté cerrada; depende de que la separación de Elenna ya sea experiencia cotidiana.
 
 > **Tesis de continuidad:** Elenna no nace narrativamente del imperio. **Nace de la casa.** H1 responde que casa para Cole es Chiara; el embarazo amplía esa casa a Elenna.
 
@@ -2151,7 +2153,7 @@ Regla de [[06_Relationships/Cole_y_Chiara]]: lo que los salva siempre es algo qu
 
 > **PENDIENTE:** ¿cuál es la operación, y contra quién? Restricción: tiene que ser plausible que Cole entre él mismo en vez de mandar a alguien, y tiene que dejar heat suficiente para que los hospitales estén vigilados.
 
-> **RESUELTO EN POSICIÓN MACRO (2026-08-31):** H1 ocurre en **Parte II**, después de H8 / la construcción de Villa Candelaria y antes del corte a Parte III. **PENDIENTE:** posición fina y capítulo exacto dentro de ese tramo.
+> **RESUELTO EN POSICIÓN MACRO (2026-08-31; terminología corregida 2026-09-11):** H1 ocurre en el **Libro I**, después de H8 / la construcción de Villa Candelaria y antes del cierre del libro (coda de Halbrook). **PENDIENTE:** posición fina y capítulo exacto dentro de ese tramo.
 
 > **PENDIENTE:** cuántos días antes de H1 Chiara confirma el embarazo y por qué mecanismo; diálogo exacto del reveal posterior y reacción textual definitiva de Cole.
 
@@ -2384,9 +2386,11 @@ La redacción final de la explicación emocional de Cole queda abierta. No debe 
 
 # Macrohito por numerar — La caída de Dario, Santa Lucía y Halbrook
 
-> **CANON DEL AUTOR (2026-08-30).** Esta macrosecuencia pertenece a [[04_Concepts/La_Guerra_de_los_Tres|Parte III]]. Orden estructural: `caída legal de Dario → falso final → Santa Lucía + montaña → muerte pública de Halbrook`.
+> **CANON DEL AUTOR (2026-08-30).** Esta macrosecuencia pertenece a **Voto de Ceniza (Libro II)** — ver [[00_Biblia/00_Trilogy_Structure]], que manda sobre la vieja etiqueta "Parte III" en cualquier conflicto de escala o frontera entre libros. Orden estructural vigente: `caída legal de Dario → falso final → Santa Lucía + montaña → Cole sentencia a Halbrook`. **La ejecución pública de Halbrook ya NO ocurre dentro de este macrohito: [[00_Biblia/00_Trilogy_Structure]] la mueve a la apertura de Interregno (Libro III), por mano de Cole.** Aquí sólo se cierra la decisión, no el acto.
 
 > **DECANONIZACIÓN EXPLÍCITA:** queda sustituida la versión del 2026-08-29 donde Dario sobrevivía Parte III, orquestaba el atentado de la iglesia y Cole lo ejecutaba antes del arresto. La razón es la nueva regla dura: Dario debe estar detenido antes de Santa Lucía para que la continuación de la violencia rompa la hipótesis institucional y revele gradualmente el frente de Halbrook.
+>
+> **CORRECCIÓN DE CONTINUIDAD (2026-09-11).** El resto de esta sección todavía usaba "Parte III" / "Parte IV" como ubicación operativa vigente y colocaba la muerte pública de Halbrook dentro de este mismo macrohito de Libro II — ambas cosas contradecían [[00_Biblia/00_Trilogy_Structure]] (2026-09-07). Corregido abajo sin mover ningún hito ni inventar contenido nuevo.
 
 ## 1. Caída legal de Dario
 
@@ -2414,7 +2418,7 @@ Dario ya está detenido. Por eso Santa Lucía, junto con la secuencia de montañ
 
 La relación causal y el orden fino entre Santa Lucía y la montaña permanecen **PENDIENTES**. Lo fijo es su función: convertir a Halbrook en una explicación que antes ni el lector ni las instituciones pertinentes podían formular completa.
 
-Halbrook termina muerto públicamente por un disparo en la explanada del Ayuntamiento. La muerte de un Brigadier General en ese lugar destruye cualquier posibilidad de seguir tratando la violencia como un problema exclusivamente local y contribuye a justificar la siguiente escalada federal.
+Al cierre de la montaña y Santa Lucía, Cole comprende que los dos frentes pertenecían a la misma operación de Halbrook y decide: **Warren Halbrook va a morir.** Esa decisión pertenece a este libro (Voto de Ceniza); **la ejecución no** — [[00_Biblia/00_Trilogy_Structure]] la fija como apertura de Interregno (Libro III), pública y por mano de Cole. La muerte de un Brigadier General en ese acto destruye cualquier posibilidad de seguir tratando la violencia como un problema exclusivamente local y contribuye a justificar la siguiente escalada federal — pero eso ya ocurre en el libro siguiente, no aquí.
 
 ## Restricciones de continuidad
 
@@ -2425,20 +2429,18 @@ Halbrook termina muerto públicamente por un disparo en la explanada del Ayuntam
 - Cada enfrentamiento de la secuencia requiere la matriz de verdad, percepción y prueba de [[04_Concepts/La_Guerra_de_los_Tres#Matriz obligatoria de enfrentamientos]].
 - H13 sigue siendo la intercepción previa de Il Consorzio y no se fusiona con Santa Lucía.
 
-## Condiciones de cierre antes de H22 — CANON DEL AUTOR (2026-08-31)
+## Lo que debe existir antes de H22 — CORREGIDO (2026-09-11) contra [[00_Biblia/00_Trilogy_Structure]]
 
-La Guerra de los Tres debe haber cerrado sus grandes movimientos antes de [[#H22 — Los primeros pasos]]:
+> **CONTRADICCIÓN CORREGIDA:** esta sección decía, en su versión de 2026-08-31, que "la Guerra de los Tres debe haber cerrado sus grandes movimientos antes de H22" y listaba la caída de Dario, la montaña, Santa Lucía y la muerte pública de Halbrook como requisitos **previos** al hito. Eso queda **decanonizado**: [[00_Biblia/00_Trilogy_Structure]] (2026-09-07) fija que H22 ocurre **antes** de todos esos eventos, no después. No se mueve ningún hito con esta corrección — se alinea el texto con la posición que el autor ya fijó.
 
-- caída legal de Dario y falso final;
-- montaña y Santa Lucía, en orden fino todavía pendiente;
-- muerte de [[02_Characters/Hector_Navarro|Héctor Navarro]] durante Parte III, después de H1; causa y colocación exactas pendientes;
-- muerte de [[02_Characters/Kenji_Oda|Kenji Oda]] en Santa Lucía;
-- Chiara herida y su consecuencia;
-- aparición posterior de Corrado según su arco fijado, sin usarlo para resolver el ocultamiento de Elenna;
-- sentencia o desenlace institucional de Halbrook y su muerte pública;
-- cierre reconocible de la arquitectura bélica.
+Lo que sí debe existir en prosa **antes** de H22:
 
-Además, para ese momento Elenna ya nació, fue declarada muerta públicamente, vive como Elenna Serra con Riley en Italia y la separación de sus padres ya se volvió experiencia cotidiana. **H22 no pertenece a la guerra:** la reinterpreta después de terminada.
+- la Guerra de los Tres ya en escalada, no cerrada — Dario y Halbrook activos, la ciudad interpretando el choque posterior a H1;
+- el destierro de Riley (F2, Libro I) y su vida ya establecida en Italia;
+- el embarazo, H1 con conocimiento desigual y el reveal a Cole (Libro I);
+- el nacimiento de Elenna, la falsa muerte pública, Elenna Serra con Riley, y una separación ya vivida como experiencia cotidiana (fotografías escasas incluidas).
+
+Lo que ocurre **después** de H22, dentro del mismo libro (Voto de Ceniza): la caída legal de Dario (falso clímax) → la montaña y Santa Lucía —con la muerte de [[02_Characters/Hector_Navarro|Héctor Navarro]] y de [[02_Characters/Kenji_Oda|Kenji Oda]] y Chiara gravemente herida— → Cole decide que Halbrook debe morir (no lo ejecuta todavía) → Corrado revelado vivo. **H22 no es el epílogo de la guerra: es la bisagra que la precede** y que hace nacer el plan de salida antes del atentado contra Chiara.
 
 ## Pendientes
 
@@ -2447,7 +2449,7 @@ Además, para ese momento Elenna ya nació, fue declarada muerta públicamente, 
 - Motivo exacto de la presencia de Chiara y Kenji en Santa Lucía.
 - Relación causal y orden fino de Santa Lucía + montaña.
 - Qué descubre Cole sobre Halbrook y qué puede demostrar la ley.
-- Quién dispara contra Halbrook en la explanada del Ayuntamiento.
+- ~~Quién dispara contra Halbrook en la explanada del Ayuntamiento.~~ **RESUELTO por [[00_Biblia/00_Trilogy_Structure]] (2026-09-07):** lo ejecuta **Cole**, públicamente, y ese acto abre Interregno (Libro III) — no ocurre dentro de este macrohito de Voto de Ceniza. Aquí sólo queda la decisión de sentenciarlo.
 - Desarrollo de las consecuencias federales y de la reconciliación de Cole y Chiara.
 - Causa, posición exacta y pago relacional de la muerte de Héctor.
 
@@ -2470,8 +2472,8 @@ Redactarlo antes de construir esas causas convertiría una bisagra estructural e
 ## Estado y posición
 
 - **ID:** H22. Era el siguiente ID libre real después de H21; no se renumeran hitos anteriores.
-- **Posición canon:** apertura o comienzo inmediato de Parte IV, después del cierre completo de la Guerra de los Tres.
-- **Relación con el corte:** Parte III termina con la victoria bélica aparente. H22 abre Parte IV y redefine el precio de esa victoria.
+- **Posición canon (CORREGIDA 2026-09-11 contra [[00_Biblia/00_Trilogy_Structure]]):** dentro de **Voto de Ceniza (Libro II)**, después de que la separación de Elenna sea experiencia cotidiana, y **antes** de la caída legal de Dario, la montaña y Santa Lucía. La formulación anterior ("apertura de Parte IV, después del cierre completo de la Guerra de los Tres") queda decanonizada — invertía el orden que el autor fijó.
+- **Relación con la guerra:** no es su epílogo — la precede. Ocurre mientras Cole y Chiara todavía sostienen la Guerra de los Tres, antes del falso clímax (caída de Dario) y del clímax real (montaña + Santa Lucía).
 - **Prosa:** bloqueada hasta cumplir la matriz de dependencias.
 
 ## Matriz de dependencias
@@ -2489,7 +2491,7 @@ Redactarlo antes de construir esas causas convertiría una bisagra estructural e
 | Elenna Serra | Sí | Establece su nueva vida |
 | Separación prolongada | Sí | Produce pérdida acumulada |
 | Fotografías | Recomendado / necesario como contraste | El video rompe la inmovilidad |
-| Cierre de Parte III | Sí | El video reinterpreta la victoria |
+| Guerra de los Tres en escalada (no cerrada) | Sí | La racionalización "sólo tenemos que terminar" necesita una guerra todavía abierta |
 
 ## Prerrequisitos narrativos
 
@@ -2562,9 +2564,9 @@ Hasta H22, Cole y Chiara todavía pueden sostener una racionalización:
 
 El video la rompe. Elenna está creciendo, aprendiendo, formando vínculos y sosteniendo una vida cotidiana sin ellos. Pueden ganar San Aurelio y perder la infancia completa de su hija.
 
-La guerra terminó y ellos ganaron. H22 revela qué costó esa victoria.
+Sienten que la guerra está por cerrarse a su favor — todavía no ha cerrado. H22 revela qué costará esa victoria aunque llegue.
 
-## Función estructural — Parte IV
+## Función estructural
 
 H22 no provoca retiro inmediato. Cole y Chiara todavía no pueden irse. Cambia el propósito de la consolidación:
 
@@ -2583,7 +2585,7 @@ Mientras San Aurelio los convierte en **La Mancuerna de Hierro y Seda**, ellos p
 ## Restricciones
 
 - Elenna no es un *stake* que deba estar físicamente en peligro para mover la trama.
-- No reducir Parte III a “derrotar al malo para salvar a la bebé”.
+- No reducir Voto de Ceniza a “derrotar al malo para salvar a la bebé”.
 - No hacer que Cole y Chiara viajen o se retiren inmediatamente después del video.
 - No explicar la metáfora del segundo intento de reproducción.
 - No diseñar todavía la tecnología del dispositivo.
@@ -2592,7 +2594,7 @@ Mientras San Aurelio los convierte en **La Mancuerna de Hierro y Seda**, ellos p
 
 ## Pendientes de H22
 
-- Capítulo exacto dentro del comienzo de Parte IV.
+- Capítulo exacto dentro de Voto de Ceniza, más allá de sus anclas relativas (después de que la separación sea cotidiana; antes de la caída de Dario, la montaña y Santa Lucía).
 - Mecanismo técnico del video de un solo uso.
 - Número de fotografías previas.
 - Duración exacta de la separación hasta este momento.

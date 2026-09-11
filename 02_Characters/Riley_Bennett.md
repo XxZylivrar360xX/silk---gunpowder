@@ -2,6 +2,8 @@
 
 *Seda y Pólvora — Ficha de Personaje*
 
+> **CORRECCIÓN DE CONTINUIDAD (2026-09-11).** Este archivo situaba el destierro de Riley (F2) "en Parte III", después de que la Guerra de los Tres hubiera empezado. Eso contradecía [[00_Biblia/00_Trilogy_Structure]] (2026-09-07): **F2 pertenece al Libro I — Seda y Pólvora**, antes de H1, por el conflicto propio de Riley. Corregido abajo sin mover el hito ni inventar contenido nuevo.
+
 > **CANON DEL AUTOR (2026-08-23).** Rediseñada para San Aurelio. Antigua corredora de una banda rival que se acerca a Chiara y se vuelve su protegida.
 
 **Nacionalidad:** pendiente.
@@ -9,7 +11,7 @@
 **Oficio:** corredora callejera; aprendiz operativa de lectura de escenarios.
 **Rol:** secundaria importante; protegida de Chiara.
 **Identidad de resguardo en Italia:** Riley Colombo.
-**Estado:** viva; desterrada de San Aurelio durante el primer tramo de Parte III y establecida en Italia antes del nacimiento de Elenna.
+**Estado:** viva; desterrada de San Aurelio en el **Libro I** (antes de H1) y establecida en Italia antes del nacimiento de Elenna en *Voto de Ceniza* (Libro II).
 
 ---
 
@@ -49,9 +51,9 @@ Lo que opera hoy:
 - Su arco apunta a un futuro mejor lejos de la calle.
 - En [[06_Relationships/Momentos_de_Fractura]], F2, Cole la destierra para salvarle la vida: sale hacia Nueva York y después Chiara organiza su llegada a Italia bajo el alias **Riley Colombo**.
 
-### Italia y Elenna — CANON / DISEÑO FIJADO (2026-08-31)
+### Italia y Elenna — CANON / DISEÑO FIJADO (2026-08-31; posición corregida 2026-09-11)
 
-F2 ocurre durante el primer tramo de Parte III, después de que la Guerra de los Tres haya empezado y antes del nacimiento de [[02_Characters/Elenna_Mercer|Elenna]]. Riley debe llegar a Italia y construir una vida/cobertura estable antes de que Elenna necesite ser enviada allí.
+F2 ocurre en el **Libro I**, después de que exista [[05_Locations/La_Villa|Villa Candelaria]] y con aire suficiente antes de H1 — **no** en Voto de Ceniza ni después de que la Guerra de los Tres haya empezado (la guerra, como conflicto de tres vértices, sólo se vuelve inevitable al cierre del Libro I). Elenna nace después, ya en *Voto de Ceniza* (Libro II). Riley debe llegar a Italia y construir una vida/cobertura estable antes de que Elenna necesite ser enviada allí.
 
 La causalidad no puede invertirse. Cole no la destierra para producir una cuidadora futura; la salva por el conflicto de Riley. Chiara no la instala en Italia como empleada; le construye una posibilidad de supervivencia. Mucho después, cuando Cole y Chiara necesitan a alguien absolutamente confiable, Riley ya está allí.
 

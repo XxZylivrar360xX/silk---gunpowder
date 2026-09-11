@@ -1,5 +1,7 @@
 # La Guerra de los Tres
 
+> **AVISO DE SUPERSESIÓN (2026-09-11).** Este documento es de 2026-08-30, anterior a [[00_Biblia/00_Trilogy_Structure]] (2026-09-07), y usa "Parte III" como nombre operativo de todo el tramo de la guerra. Leer **"Parte III" como el tramo de *Voto de Ceniza* (Libro II)** que va desde su apertura hasta la caída de Dario, la montaña y Santa Lucía. Dos puntos quedaban en contradicción directa con la trilogía y se corrigen abajo: (1) [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] ocurre **antes** de la caída de Dario/montaña/Santa Lucía, no después de "cerrar Parte III"; (2) la **muerte pública de Halbrook no ocurre dentro de este tramo** — Cole sólo lo sentencia aquí; la ejecución abre *Interregno* (Libro III). No se movió ningún hito ni se inventó contenido nuevo.
+
 > **CANON DEL AUTOR (2026-08-30). REGLA DURA DE PARTE III.** “Guerra de los Tres” es una denominación de arquitectura narrativa para el autor, los agentes y, progresivamente, el lector. **No existe públicamente.**
 
 ## Lo que el nombre no significa
@@ -147,7 +149,7 @@ La maniobra conserva las tres capas de verdad:
 
 Ni Dario Varek ni Warren Halbrook conocen que sobrevivió. La guerra no se simplifica a una operación para “salvar a la bebé”: Elenna puede cumplir su función sin estar físicamente en peligro en escena. Su poder narrativo es la vida que continúa en otro lugar mientras sus padres terminan la guerra.
 
-La separación debe durar lo suficiente para convertirse en experiencia acumulada —fotografías escasas, crecimiento y ausencia— antes del cierre de Parte III. [[06_Relationships/Hitos#H22 — Los primeros pasos|H22 — Los primeros pasos]] ocurre sólo después de ese cierre y está bloqueado para prosa.
+La separación debe durar lo suficiente para convertirse en experiencia acumulada —fotografías escasas, crecimiento y ausencia— antes de [[06_Relationships/Hitos#H22 — Los primeros pasos|H22 — Los primeros pasos]]. **Corrección (2026-09-11):** H22 no depende del cierre de Parte III/la guerra — [[00_Biblia/00_Trilogy_Structure]] lo coloca **antes** de la caída de Dario, la montaña y Santa Lucía, mientras la guerra sigue abierta. Sigue bloqueado para prosa por su propia matriz de dependencias, no por el cierre bélico.
 
 ## Curva institucional de Parte III
 
@@ -156,11 +158,11 @@ La separación debe durar lo suficiente para convertirse en experiencia acumulad
 3. **Caída de Dario:** una parte del rompecabezas se vuelve visible; hechos antes separados revelan una estructura mayor.
 4. **Después de Dario:** las instituciones creen haber cortado el centro principal de la crisis. Esto produce el falso final.
 5. **Santa Lucía + montaña:** la hipótesis vuelve a romperse. Si Dario está detenido, ¿quién acaba de hacer esto? Halbrook empieza a convertirse en una explicación para el lector y para las instituciones pertinentes.
-6. **Muerte pública de Halbrook:** el disparo en la explanada del Ayuntamiento impide seguir tratando la violencia como un problema exclusivamente local y contribuye a justificar la escalada federal siguiente.
+6. **Cole sentencia a Halbrook:** decide que debe morir. **No lo ejecuta todavía** — [[00_Biblia/00_Trilogy_Structure]] fija que la ejecución pública, por mano de Cole, es el evento que abre *Interregno* (Libro III), no el cierre de este tramo.
 
-Antes del corte a Parte IV también deben haberse cobrado las muertes de Héctor y Kenji, la herida grave de Chiara, la aparición posterior de Corrado según su arco y el cierre de la arquitectura bélica. La causa y posición exactas de la muerte de Héctor y el orden fino Santa Lucía/montaña permanecen pendientes.
+Antes del corte a *Interregno* también deben haberse cobrado las muertes de Héctor y Kenji, la herida grave de Chiara, la aparición posterior de Corrado según su arco y el cierre reconocible de la arquitectura bélica dentro de *Voto de Ceniza*. La causa y posición exactas de la muerte de Héctor y el orden fino Santa Lucía/montaña permanecen pendientes.
 
-> **PENDIENTE:** relación causal y orden fino entre el atentado de Santa Lucía y la secuencia de montaña; quién dispara contra Halbrook en la explanada; qué institución formula primero una hipótesis demostrable sobre él.
+> **PENDIENTE:** relación causal y orden fino entre el atentado de Santa Lucía y la secuencia de montaña; qué institución formula primero una hipótesis demostrable sobre Halbrook. **RESUELTO por [[00_Biblia/00_Trilogy_Structure]]:** quien dispara contra Halbrook es **Cole**, en *Interregno* (Libro III) — ya no es una incógnita de este tramo.
 
 ## Regla particular — Santa Lucía
 
@@ -187,7 +189,7 @@ Debajo de esos titulares, el lector reconstruye otra guerra.
 
 ## Criterio de éxito
 
-Al terminar Parte III:
+Al terminar el tramo bélico de *Voto de Ceniza* (la "Parte III" de este documento):
 
 - el lector puede reconstruir `Dario vs Halbrook vs Cole/Chiara`;
 - un detective puede reconstruir parcialmente varias organizaciones, intereses y operaciones vinculadas;

@@ -79,7 +79,7 @@ El punto de la frase es el límite (*mi gente no se negocia*, regla intocable de
 **Lugar:** Puerto Viejo / costa para Mei-Lin; norte rural para Riley.
 **Estado de la relación:** El Patio ya tiene estructura suficiente para que una filtración pueda destruirlos.
 
-> **POSICIÓN RELATIVA FIJADA (2026-08-31):** ocurre durante el primer tramo de Parte III, cuando la Guerra de los Tres ya empezó, **antes del nacimiento de Elenna** y con tiempo suficiente para que Riley llegue a Italia y construya una vida/cobertura estable antes de recibirla. El capítulo y distancia exactos permanecen pendientes.
+> **POSICIÓN RELATIVA FIJADA (2026-08-31; corregida 2026-09-11 contra [[00_Biblia/00_Trilogy_Structure]]):** ocurre en el **Libro I**, después de que exista Villa Candelaria y con aire suficiente **antes de H1** — no "durante Parte III" ni después de que la Guerra de los Tres haya empezado, como decía la formulación anterior de esta nota (contradecía la regla dura de trilogía: Riley sale de San Aurelio en el Libro I). Riley debe tener tiempo de llegar a Italia y construir una vida/cobertura estable antes de que Elenna nazca, ya en *Voto de Ceniza* (Libro II). El capítulo y distancia exactos permanecen pendientes.
 
 ### Adaptación
 

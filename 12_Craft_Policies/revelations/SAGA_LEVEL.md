@@ -31,12 +31,12 @@ Misterios o verdades que cruzan todo *Seda y Polvora* o que no pertenecen a un s
 
 ## Supervivencia de Elenna Mercer / Elenna Serra
 
-- **Que es:** Chiara ya sabe que está embarazada durante H1. Elenna nace en Parte III; para San Aurelio, la hija de Cole Mercer y Chiara Bellandi muere durante o alrededor del parto. En realidad vive en Italia como **Elenna Serra** bajo el cuidado de Riley Colombo.
+- **Que es:** Chiara ya sabe que está embarazada durante H1 (Libro I). Elenna nace en *Voto de Ceniza* (Libro II); para San Aurelio, la hija de Cole Mercer y Chiara Bellandi muere durante o alrededor del parto. En realidad vive en Italia como **Elenna Serra** bajo el cuidado de Riley Colombo.
 - **Estado público:** fallecida al nacer.
 - **Estado real:** viva.
 - **Quien ya lo sabe:** círculo íntimo exacto pendiente. Cole conoce el embarazo después de H1; no durante la crisis.
 - **Quien NO debe saberlo:** Dario Varek y Warren Halbrook no conocen su supervivencia salvo decisión explícita posterior del autor.
-- **Siembra y pagos:** embarazo doméstico en Parte II; nacimiento, falsa muerte, separación y fotografías escasas en Parte III; [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] al abrir Parte IV.
+- **Siembra y pagos:** embarazo doméstico en el Libro I; nacimiento, falsa muerte, separación y fotografías escasas al abrir *Voto de Ceniza* (Libro II); [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] dentro de ese mismo libro, **antes** de la caída de Dario, la montaña y Santa Lucía *(corregido 2026-09-11: no "al abrir Parte IV" — esa colocación quedó decanonizada por [[00_Biblia/00_Trilogy_Structure]])*.
 - **Evidencia:** las fotografías se destruyen en la chimenea de Villa Candelaria. El video de H22 queda inutilizable después de una reproducción por mecanismo todavía pendiente.
 - **Lineas o gestos prohibidos:** revelar el embarazo durante la hemorragia/baño de H1; explicar mecanismos médicos, documentales o logísticos no fijados; tratar a Elenna como heredera criminal; adelantar H22 a prosa antes de cumplir sus dependencias.
 - **Estado:** canon de arquitectura; H22 bloqueado para prosa.

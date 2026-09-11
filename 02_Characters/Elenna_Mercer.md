@@ -1,6 +1,6 @@
 # Elenna Mercer
 
-> **AVISO DE SUPERSESIÓN (2026-09-07):** las referencias a "Parte III" en este archivo quedan **desactualizadas** por [[00_Biblia/00_Trilogy_Structure]]. Leer como **Voto de Ceniza (Libro II)** en su lugar — el nacimiento, la falsa muerte y el traslado a Italia bajo la identidad Serra ahora ocurren en ese libro, no en la antigua "Parte III". Este archivo todavía no se reconstruyó línea por línea contra la nueva arquitectura; los detalles finos (fechas, distancia entre F2/H1/nacimiento) siguen pendientes tal como los marca el documento de trilogía.
+> **AVISO DE SUPERSESIÓN (2026-09-07; cuerpo reconciliado 2026-09-11):** [[00_Biblia/00_Trilogy_Structure]] manda sobre este archivo en escala y fronteras entre libros. Las referencias a "Parte III" / "Parte IV" que quedaban en el cuerpo del documento (nacimiento, embarazo, H22) ya se corrigieron para leer **Libro I** o ***Voto de Ceniza* (Libro II)** según corresponda. Los detalles finos (fechas exactas, distancia entre F2/H1/nacimiento, capítulo exacto de H22) siguen **PENDIENTE**, tal como los marca el documento de trilogía — no se resolvieron por esta corrección.
 
 *Seda y Pólvora — Ficha de Personaje*
 
@@ -12,7 +12,7 @@
 **Identidad documental de resguardo:** Elenna Serra  
 **Padre biológico:** [[02_Characters/Cole_Mercer|Cole Mercer]]  
 **Madre biológica:** [[02_Characters/Chiara_Bellandi|Chiara Ardizzone Bellandi]], públicamente Chiara Bellandi  
-**Nacimiento:** durante la Parte III; fecha exacta pendiente  
+**Nacimiento:** durante *Voto de Ceniza* (Libro II); fecha exacta pendiente  
 **Estado público:** fallecida al nacer  
 **Estado real:** viva  
 **Lugar de resguardo:** Italia; localización exacta pendiente  
@@ -51,7 +51,7 @@ El nombre de resguardo no reemplaza su identidad canónica y no convierte a Rile
 
 ## El embarazo
 
-> **CANON DEL AUTOR (2026-08-31).** Chiara ya confirmó el embarazo cuando ocurre [[06_Relationships/Hitos#H1 — El regreso a casa|H1]], durante Parte II. Cole todavía no lo sabe.
+> **CANON DEL AUTOR (2026-08-31).** Chiara ya confirmó el embarazo cuando ocurre [[06_Relationships/Hitos#H1 — El regreso a casa|H1]], en el **Libro I**. Cole todavía no lo sabe.
 
 Chiara lleva muy poco tiempo sabiéndolo y planea contárselo cuando Cole regrese de la operación. No quiere alterar su cabeza antes del peligro ni convertir la noticia en algo recibido mirando el reloj. No es manipulación ni secreto prolongado: espera unas horas para compartirla bien, en casa.
 
@@ -59,13 +59,13 @@ Cuando dice *Retorna a casa*, Cole cree que habla de los dos y Chiara sabe que h
 
 El embarazo no reemplaza el amor como motivo de H1. Chiara no revela la noticia durante la hemorragia, la atención médica, el baño ni el pico de la secuencia. Se la cuenta sólo después de que Cole está fuera de peligro, duerme, empieza a recuperarse y regresa cierta normalidad doméstica.
 
-La Parte II construye poder y expectativa de familia al mismo tiempo. La Parte III recibe a Chiara ya embarazada y obliga a ambos a sacrificar la posibilidad de vivir esa familia normalmente.
+El Libro I construye poder y expectativa de familia al mismo tiempo. *Voto de Ceniza* (Libro II) recibe a Chiara ya embarazada y obliga a ambos a sacrificar la posibilidad de vivir esa familia normalmente.
 
-No están fijadas la fecha de concepción, los días exactos antes de H1, el mecanismo de confirmación, el diálogo del reveal, la reacción textual de Cole, la semana de gestación ni cuánto embarazo ha transcurrido al abrir la Parte III.
+No están fijadas la fecha de concepción, los días exactos antes de H1, el mecanismo de confirmación, el diálogo del reveal, la reacción textual de Cole, la semana de gestación ni cuánto embarazo ha transcurrido al abrir *Voto de Ceniza*.
 
 ## La falsa muerte
 
-Elenna nace durante el primer tramo importante de Parte III, cuando [[04_Concepts/La_Guerra_de_los_Tres|la Guerra de los Tres]] ya está escalando. Antes, F2 debe haber expulsado a Riley de San Aurelio y Riley debe estar establecida en Italia. El capítulo, la semana y la distancia exacta entre esos hechos permanecen pendientes.
+Elenna nace durante el primer tramo importante de *Voto de Ceniza* (Libro II), cuando [[04_Concepts/La_Guerra_de_los_Tres|la Guerra de los Tres]] ya está escalando. Antes, en el **Libro I**, F2 debe haber expulsado a Riley de San Aurelio y Riley debe estar establecida en Italia. El capítulo, la semana y la distancia exacta entre esos hechos permanecen pendientes.
 
 Debe existir un detonante concreto que vuelva inaceptable mantener su existencia dentro del tablero, pero ese detonante todavía no ha sido decidido.
 
@@ -123,7 +123,7 @@ La cantidad exacta de fotografías no está fijada.
 >
 > **NO REDACTAR TODAVÍA.**
 
-H22 ocurre en la apertura o comienzo de Parte IV, sólo después del cierre completo de la Guerra de los Tres. Su prosa permanece bloqueada hasta que el manuscrito haya construido embarazo/H1/reveal, relación Riley–Chiara, destierro de Riley, guerra, nacimiento, falsa muerte, Elenna Serra, separación, fotografías y cierre bélico.
+H22 ocurre dentro de *Voto de Ceniza* (Libro II), después de que la separación de Elenna sea experiencia cotidiana y **antes** de la caída de Dario, la montaña y Santa Lucía — no después del cierre de la Guerra de los Tres; [[00_Biblia/00_Trilogy_Structure]] fija ese orden. Su prosa permanece bloqueada hasta que el manuscrito haya construido embarazo/H1/reveal, relación Riley–Chiara, destierro de Riley, guerra en escalada, nacimiento, falsa muerte, Elenna Serra, separación y fotografías.
 
 Riley envía un dispositivo o memoria USB. Debe conservarse este intercambio:
 
@@ -214,7 +214,7 @@ No resolver ninguno de estos puntos por conveniencia:
 1. **PENDIENTE:** fecha exacta de nacimiento.
 2. **PENDIENTE:** fecha de concepción.
 3. **PENDIENTE:** momento exacto del descubrimiento del embarazo, incluido cuántos días antes de H1 lo confirma Chiara.
-4. **PENDIENTE:** cuánto embarazo ha transcurrido al iniciar la Parte III.
+4. **PENDIENTE:** cuánto embarazo ha transcurrido al iniciar *Voto de Ceniza* (Libro II).
 5. **PENDIENTE:** detonante concreto que obliga a ocultarla.
 6. **PENDIENTE:** circunstancias médicas exactas del parto.
 7. **PENDIENTE:** versión pública exacta de su supuesta muerte.
@@ -247,7 +247,7 @@ No resolver ninguno de estos puntos por conveniencia:
 31. **PENDIENTE:** sexo fetal y cuándo lo conocen, si llega a importar.
 32. **PENDIENTE:** momento exacto en que eligen el nombre Elenna.
 33. **PENDIENTE:** calendario médico del embarazo.
-34. **PENDIENTE:** capítulo exacto de H22 dentro del comienzo de Parte IV.
+34. **PENDIENTE:** capítulo exacto de H22 dentro de *Voto de Ceniza* (Libro II), antes de la caída de Dario, la montaña y Santa Lucía.
 35. **PENDIENTE:** capítulo exacto del flashforward (Cap. 1) de *Voto de Ceniza* y de la costura hacia "Nueve meses antes".
 36. **PENDIENTE:** si la pista de la entrega a Riley es la misma infraestructura del destierro de Riley en F2 o una distinta, y su ubicación exacta.
 

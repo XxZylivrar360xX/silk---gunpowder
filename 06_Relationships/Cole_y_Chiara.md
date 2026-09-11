@@ -309,12 +309,12 @@ La respuesta del baño no cambia. Chiara no usa el embarazo para responder *¿po
 
 El arco familiar amplía, no reemplaza, la maquinaria relacional:
 
-| Parte | Lo que construyen / pierden |
+| Libro / tramo *(corregido 2026-09-11: la vieja columna "Parte II-V" usaba el modelo de cinco partes anterior a [[00_Biblia/00_Trilogy_Structure]])* | Lo que construyen / pierden |
 |---|---|
-| II | poder y expectativa de familia al mismo tiempo; Elenna nace narrativamente de la casa |
-| III | la guerra invade el embarazo; Elenna nace y deben separarse de ella para mantenerla viva |
-| IV | [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] rompe la racionalización de la distancia y convierte consolidación en arquitectura de salida |
-| V | ejecutan juntos la salida de la ciudad para recuperar vida cotidiana con su hija |
+| Libro I | poder y expectativa de familia al mismo tiempo; Elenna nace narrativamente de la casa |
+| Voto de Ceniza (Libro II), primer tramo | la guerra invade el embarazo; Elenna nace y deben separarse de ella para mantenerla viva |
+| Voto de Ceniza (Libro II), antes de la caída de Dario/montaña/Santa Lucía | [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] rompe la racionalización de la distancia y convierte consolidación en arquitectura de salida |
+| Interregno (Libro III) | ejecutan juntos la salida de la ciudad para recuperar vida cotidiana con su hija |
 
 Elenna no es una garantía de que la relación sobreviva ni un *stake* físico constante. Su ausencia les cambia la pregunta: de construir poder suficiente para estar seguros a construir algo que pueda funcionar sin ellos.
 
