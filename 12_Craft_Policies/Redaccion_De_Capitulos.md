@@ -94,3 +94,7 @@ Marcar como provisional lo que dependa de nombres o decisiones pendientes. No re
 - jurisdiccion o ruta si aun no existe ficha.
 
 La prosa puede sostener el hueco; no debe esconderlo.
+
+## Después de escribir
+
+Capítulo usable → `Estado: BORRADOR`. Cómo avanza de ahí (REVISADO, LISTO PARA AUTOR, TERMINADO, CONGELADO) está fuera del alcance de este documento: ver [[12_Craft_Policies/CHAPTER_LIFECYCLE]].

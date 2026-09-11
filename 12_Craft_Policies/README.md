@@ -11,8 +11,30 @@ Políticas de oficio narrativo para escribir y editar prosa en `10_Chapters/` y 
 - `voice/` — fichas de voz. Antes de escribir diálogo, leer la ficha de cada personaje que habla. Si no existe, crearla primero.
 - `dialogue_rules/` — anti-patrones de diálogo. No son prohibiciones absolutas; son alarmas contra formas que vuelven intercambiables a los personajes.
 - `staging_rules/` — anti-patrones de puesta en escena: espacio físico, cuerpos, silencios, transiciones y escenas resueltas por resumen.
-- `editorial/` — política de edición posterior al triaje, zonas protegidas y registro del piloto determinista 01–10.
+- `editorial/` — política de edición posterior al triaje, zonas protegidas, procedimiento de microedición y registro del piloto determinista 01–10.
 - [[12_Craft_Policies/Redaccion_De_Capitulos]] — política base para pasar de estructura a capítulo provisional.
+- [[12_Craft_Policies/CHAPTER_LIFECYCLE]] — cómo un capítulo pasa de BORRADOR a TERMINADO (y CONGELADO): estados, gates y workflow CLOSE.
+
+## Craft vs. editorial
+
+Dos preguntas distintas, dos capas distintas:
+
+- **Craft** (`Redaccion_De_Capitulos.md`, `voice/`, `dialogue_rules/`, `staging_rules/`, `milestones/`, `revelations/`) responde *¿cómo se escribe esta novela?* — POV, voz, diálogo, staging, estructura de capítulo, hitos, revelaciones, continuidad, creación de prosa nueva.
+- **Editorial** (`editorial/`) responde *¿cómo se juzga y, si hace falta, se interviene una escena ya escrita sin destruirla?* — es agnóstica al agente, no depende de quién escribió el capítulo.
+
+`Redaccion_De_Capitulos.md` no absorbe el método editorial: escribir y editar son procesos con objetivos opuestos (generar prosa vs. juzgar prosa ya generada) y mezclarlos convierte la guía de escritura en manual de corte.
+
+## Editorial: modos y skill
+
+`editorial/` opera en tres modos, definidos en [[12_Craft_Policies/editorial/MICROEDICION]]:
+
+- **AUDIT** — detecta, clasifica y prioriza sin tocar prosa.
+- **SURGERY** — ejecuta intervenciones puntuales dentro de un ámbito ya autorizado.
+- **VERIFY** — evalúa una cirugía ya hecha (¿se perdió algo? ¿quedó costura?).
+
+La skill de Claude Code `editorial-surgery` (`.claude/skills/editorial-surgery/SKILL.md`) carga `EDITORIAL_POLICY.md`, `DO_NOT_TOUCH.md` y `MICROEDICION.md` para ejecutar este flujo sin necesitar el prompt completo cada vez. No duplica canon ni fichas de personaje: solo método.
+
+Un cuarto modo, **CLOSE**, no diagnostica ni interviene prosa: certifica si un capítulo ya está maduro para presentarse al autor como terminado. Vive en [[12_Craft_Policies/CHAPTER_LIFECYCLE]], no en `editorial/`, porque responde una pregunta de ciclo de vida (¿qué estado tiene?), no de calidad de prosa. La misma skill lo carga cuando el encargo pide cerrar o aprobar técnicamente un capítulo.
 
 No se rescata `powers/` de *Memories Of A Ghost*: era específica de combate fantástico. Para *Seda y Pólvora*, la equivalencia será logística, violencia, favor, relato y ciudad, no poderes.
 

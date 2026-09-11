@@ -72,6 +72,7 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 - Al crear archivo relevante, enlazar en `INDEX.md`.
 - Al cerrar cambio sustantivo, actualizar `98_Agent_Handoff/CURRENT_BRIEF.md`; si cambia canon o continuidad, tambien `log.md`.
 - No hacer commit ni push salvo que el usuario lo pida.
+- Para auditoria, microedicion o verificacion editorial de prosa, usar la skill `editorial-surgery` y las politicas bajo `12_Craft_Policies/editorial/`.
 
 ## Regeneracion De EPUB
 

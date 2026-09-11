@@ -180,6 +180,8 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 
 - [[12_Craft_Policies/README]] — sistema operativo de craft policies rescatado de *Memories Of A Ghost*: precedencia, flujo y reglas activas
 - [[12_Craft_Policies/Redaccion_De_Capitulos]] — política base para capítulos provisionales
+- [[12_Craft_Policies/CHAPTER_LIFECYCLE]] — ciclo de vida del capítulo: estados BORRADOR/REVISADO/LISTO PARA AUTOR/TERMINADO/CONGELADO, gates A–F y workflow CLOSE
+- [[12_Craft_Policies/CHAPTER_STATUS]] — ledger compacto de estados por capítulo (creado 2026-09-11, sin poblar — ver nota de no retroactividad en CHAPTER_LIFECYCLE)
 - [[12_Craft_Policies/revelations/Book_01_Seda_y_Polvora]] — ledger de revelaciones, mentiras, rituales y pagos del libro activo
 - [[12_Craft_Policies/revelations/SAGA_LEVEL]] — secretos globales: origen de Cole, Corrado vivo y oculto, supervivencia de Elenna Serra, verdad de Alessio
 - [[12_Craft_Policies/milestones/INDEX]] — índice cronológico de hitos ya fijados
@@ -189,7 +191,9 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[12_Craft_Policies/staging_rules/03-presentacion-por-catalogo-en-vez-de-gesto]] — gesto antes que catálogo: cómo entrar un personaje o una herida sin inventario físico
 - [[12_Craft_Policies/editorial/EDITORIAL_POLICY]] — política de edición posterior al triaje: una alerta no ordena modificar
 - [[12_Craft_Policies/editorial/DO_NOT_TOUCH]] — límites de canon, arquitectura, revelaciones y voz durante edición
+- [[12_Craft_Policies/editorial/MICROEDICION]] — procedimiento de microedición: modos AUDIT/SURGERY/VERIFY, clasificación de candidatos, árbol de decisión
 - [[12_Craft_Policies/editorial/PILOT_01_10]] — alcance y criterio de éxito del piloto determinista sobre capítulos 1–10
+- `.claude/skills/editorial-surgery/SKILL.md` — skill de Claude Code que carga EDITORIAL_POLICY, DO_NOT_TOUCH y MICROEDICION para auditoría/microedición/verificación de prosa
 - [[tools/editorial/README]] — uso del stack editorial local, configuración, pruebas y límites (`audit_only`, sin autofix)
 - [[tools/editorial/reports/PILOT_01_10/PILOT_01_10_GLOBAL]] — reporte global generado del piloto 01–10
 - [[tools/editorial/reports/PILOT_01_10_V1_1/PILOT_01_10_V1_1_GLOBAL]] — reporte global V1.1 calibrado sobre capítulos 01–10
