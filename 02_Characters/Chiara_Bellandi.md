@@ -136,6 +136,15 @@ Eso no vuelve inocente a Corrado ni convierte a los federales en villanos simple
 
 **CANON DEL AUTOR (2026-08-28):** tras la muerte de ambos padres, quien la crió en todo menos el nombre fue **Ettore**, un amigo de Corrado que se quedó cuando nadie más se quedó. Chiara sigue escribiéndole cartas reales desde San Aurelio — el único hilo con Palermo que no administra como el resto de su vida. Ettore le pregunta por el casino y espera, sin exigirlo nunca, que ella le cuente algo de sí misma. Ver [[02_Characters/Ettore]].
 
+### La última historia de Marta
+
+**CANON DEL AUTOR (2026-09-10).** Marta era mejor inventando cuentos que contándolos igual dos veces — cambiaba el final cada noche según la cara que Chiara ponía. La última que le contó, poco antes de morir del corazón (Chiara tenía catorce, quince años), cerró con una frase que Chiara todavía repite palabra por palabra, primero en italiano:
+
+> *"Un giorno, bambina mia, capirai il prezzo di reggere il mondo sulle tue spalle. Ma non dimenticare mai: la chiave è non farlo da sola."*
+> Algún día, mi amada niña, entenderás el precio que tiene sostener el mundo en tus hombros. Solo no olvides que la clave está en no hacerlo sola.
+
+De niña la leyó como una frase sobre crecer. Se la dice a Cole por primera vez en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/26_Libros_Abiertos|Cap. 26]] (el jacuzzi), y es más de lo que le ha contado a nadie en San Aurelio. **Ironía que el texto no explicita:** Chiara construye poder exactamente como la frase advertía — sola — y esa tensión queda disponible para pagarse más adelante en la trilogía.
+
 ### Lo que aprendió en esa casa, y lo que ha estado buscando desde entonces
 
 **CANON DEL AUTOR (2026-08-23).** La casa de Corrado y Marta estaba **llena de amor, de respeto y de admiración** entre ellos. Chiara creció viendo eso, y **siempre aspiró a algo igual.**
