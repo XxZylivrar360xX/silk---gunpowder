@@ -2,6 +2,8 @@
 
 Pendientes activos para el siguiente relevo.
 
+- **EPUB ACTUALIZADO (2026-09-11, petición expresa del autor):** [[tools/epub-build/output/Seda_y_Polvora.epub]] regenerado con los 29 capítulos actuales, incluidas las microediciones recientes, y la portada y estilo existentes. Verificados ZIP, XML, portada e índice (29 capítulos + 2 partes). Sustituye las menciones anteriores de EPUB pendiente para el contenido actual; las revisiones editoriales del autor siguen abiertas. Sin cambios de prosa, commit ni push.
+
 - **M4 — C13/C14/C16 (2026-09-11):** tres ajustes pendientes de revisión del autor: dos en C14 y uno en C16; C13 intacto. Reporte comparativo, antes/después y 14 protecciones: [[98_Agent_Handoff/sessions/2026-09-11_codex_microedicion_m4_intuicion_presagio_percepcion]]. Viñedo y alarma ante la puerta conservados completos. No reabrir M1–M3 ni estructura/continuidad como parte de este bloque. EPUB sin regenerar; sin commit ni push.
 
 - **M3 — C01–C03 (2026-09-11):** seis microintervenciones aplicadas en `develop`; pendiente sólo su revisión por el autor, sin cambiar el estado de borrador de los capítulos. Reporte A–F, antes/después y protecciones: [[98_Agent_Handoff/sessions/2026-09-11_codex_microedicion_m3_fundacion_de_voz]]. EPUB sin regenerar. Este bloque no reabre cirugía estructural ni continuidad y no autoriza tocar M1/M2 o C04 en adelante.

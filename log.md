@@ -2851,3 +2851,7 @@ En develop, HEAD inicial 867c9685a547c487a8971dc96574787c85e0a9d5 y arbol limpio
 ## [2026-09-11] Codex — M4, intuición, presagio y percepción
 
 En develop, HEAD inicial c497dad947ae103d1b8e466816ec36d7fc6e9786 y árbol limpio. Leídos C13, C14 y C16 completos; mapa previo a la edición. C13 intacto; dos cortes en C14 (predicción temporal y garantía de acierto de Mabel); una compresión en C16 (diagnóstico atribuido al cuerpo), con alarma ante la puerta íntegra. Tres ajustes sin indicios ni resultados nuevos. Reporte A–E y 14 protecciones: [[98_Agent_Handoff/sessions/2026-09-11_codex_microedicion_m4_intuicion_presagio_percepcion]]. Actualizados CURRENT_BRIEF, PENDING e INDEX para relevo y navegación. Sin cambios de canon, estructura, continuidad, diálogos ni otros capítulos; M1–M3 fuera de alcance. Revisión del autor pendiente. Sin commit ni push. EPUB sin regenerar. Detenido tras reporte.
+
+## [2026-09-11] Codex | EPUB regenerado a petición del autor
+
+Regenerado [[tools/epub-build/output/Seda_y_Polvora.epub]] con los 29 capítulos actuales de las Partes I y II y la portada y estilo existentes. Verificados ZIP, XML, índice (29 capítulos + 2 partes) y coincidencia de la portada incrustada. CURRENT_BRIEF y PENDING actualizados; revisiones editoriales del autor todavía abiertas. Sin cambios de prosa, commit ni push.
