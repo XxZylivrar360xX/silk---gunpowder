@@ -84,7 +84,7 @@ El abrigo corto de felpa blanco le sobraba para California. No se lo quitó. Al 
 
 Matteo Bellacorte la esperaba junto a una columna, hablando por teléfono y usando la mano libre para dirigir a un chofer que no lo estaba mirando.
 
-No estaba solo. Dos hombres con gafetes del aeropuerto se mantenían a una distancia útil: lo bastante cerca para ser servicio, lo bastante lejos para no parecer escolta. Un empleado de aduana reconoció a Matteo, levantó dos dedos y siguió caminando sin pedirle nada. Chiara archivó el gesto. Las ciudades nuevas siempre se presentaban primero por sus permisos.
+No estaba solo. Dos hombres con gafetes del aeropuerto se mantenían a una distancia útil: lo bastante cerca para ser servicio, lo bastante lejos para no parecer escolta. Un empleado de aduana reconoció a Matteo, levantó dos dedos y siguió caminando sin pedirle nada. Las ciudades nuevas siempre se presentaban primero por sus permisos.
 
 —Chiara.
 
@@ -144,7 +144,7 @@ Matteo bajó la voz.
 
 —Eso no es amistad. Es memoria útil.
 
-El coche esperaba afuera: negro, limpio, con un chofer que miró a Matteo antes de mirar a Chiara. Ella registró el orden sin comentarlo.
+El coche esperaba afuera: negro, limpio, con un chofer que miró a Matteo antes de mirar a Chiara.
 
 En el trayecto, San Aurelio apareció por partes. Primero las carreteras del norte, planas y calientes. Después los bordes industriales, bodegas bajas, anuncios de talleres, patios con coches levantados sobre bloques. Más adelante, el perfil de la ciudad subió hacia torres nuevas y cristal. La costa brillaba al fondo como si no tuviera nada que ver con las calles que acababan de cruzar.
 
@@ -270,7 +270,7 @@ Quedaba en el segundo nivel, detrás de una puerta de madera oscura que no tení
 
 Dario tomó la cabecera sin que nadie se la ofreciera. Matteo se sentó a su derecha. Fabrizio eligió una silla lateral, cerca de Chiara, con la familiaridad útil de quien sabe cuándo un aliado no debe parecerlo demasiado. Tommaso ocupó el otro extremo de la mesa y dejó el teléfono boca abajo frente a él, como si con eso demostrara discreción.
 
-Sobre la mesa había carpetas con pestañas de colores: licencias, proveedores, seguridad, valet, contratos temporales, personal. La mujer del bolígrafo se llamaba Elise, según el gafete, y escribía sólo cuando Dario terminaba una frase. Chiara archivó eso también.
+Sobre la mesa había carpetas con pestañas de colores: licencias, proveedores, seguridad, valet, contratos temporales, personal. La mujer del bolígrafo se llamaba Elise, según el gafete, y escribía sólo cuando Dario terminaba una frase.
 
 —La apertura privada sigue en pie —dijo Dario—. No vamos a moverla por nervios de proveedor.
 
@@ -768,7 +768,7 @@ Tommaso sonrió tarde.
 
 —No. Conveniente.
 
-Tommaso se levantó. Los demás lo hicieron medio segundo después, menos Chiara. Ella dejó que ese medio segundo también quedara archivado.
+Tommaso se levantó. Los demás lo hicieron medio segundo después, menos Chiara.
 
 —No habrá contrato con Mercer por ahora —dijo Tommaso—. Matteo, busque una opción menos creativa. Chiara, mañana revisaremos prensa local y lista de invitados.
 

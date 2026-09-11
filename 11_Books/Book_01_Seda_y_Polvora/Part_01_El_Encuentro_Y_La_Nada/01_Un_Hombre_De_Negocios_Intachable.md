@@ -286,8 +286,6 @@ La radio del pasillo soltó una clave y volvió a callarse. Keene no miró hacia
 
 Cole miró la taza de café intacta, la fotografía familiar vuelta hacia Keene y las carpetas abiertas sobre el escritorio. El chief no estaba preguntando por el precio. Quería saber qué problema podía admitir sin convertirlo en una confesión: coches viejos, presupuesto corto, oficiales que ya habían aprendido a no reportar cada ruido porque reportarlo también podía ser culpa de alguien.
 
-Cole podía darle una respuesta que sonara a negocio y le dejara una salida que pareciera decisión propia.
-
 Cole apoyó los antebrazos en las rodillas.
 
 —Compra que mis grúas no sean sorpresa cuando estén cerca de una patrulla. Compra que si una unidad truena en Santa Brígida no espere dos horas por un remolque del condado. Compra que sus oficiales no anden manejando coches que chillan al frenar frente a medio barrio.
@@ -333,8 +331,6 @@ Keene sostuvo la carpeta cerrada con la palma. Tenía manos de hombre que había
 Cole dejó que la palabra creciera entre ellos. No la negó. Negarla habría sonado a defensa; aceptarla le permitía escoger qué significaba.
 
 —Estabilidad para usted —dijo—. No preferencia para mí. Si las seis unidades entran el martes y salen el mismo día, su gente deja de improvisar y yo dejo de perseguir facturas como si estuviera pidiendo un favor.
-
-Keene lo observó en silencio. Cole había vuelto a mover la conversación: de quién recibía ventaja a quién cargaba con el costo de que nada funcionara.
 
 Afuera, una sirena se encendió dos segundos y se apagó; alguien apartando tráfico para salir de la cuadra, no una emergencia real.
 
@@ -554,55 +550,33 @@ A las dos y diecisiete cruzó al lote de al lado.
 
 El letrero decía **Lote Almendra** con letras rojas sobre fondo blanco, demasiado nuevo para la cerca de alambre que lo sostenía. Seis coches usados, una troca con defensa de otro color y tres motos bajo un techito de lámina. No era un concesionario de los del norte de la ciudad, con globos, vidrio y vendedores que sonreían con dientes financiados. Era un pedazo de asfalto donde los coches salían con papeles limpios, motor revisado y sin letra pequeña detrás de la cual esconderse.
 
-Rafa Luna lo esperaba junto a una Honda vieja, negra, con el casco colgando del manubrio. Repartía medicinas para la farmacia de Calle Corona y llevaba seis meses pasando por el lote cada viernes, mirando la misma moto como se mira una vida que todavía no alcanza. Veintidós años, una mochila despintada y la costumbre de contar el dinero dos veces antes de sacarlo del bolsillo.
+Rafa Luna lo esperaba junto a una Honda vieja, negra, con el casco colgando del manubrio. Repartía medicinas para la farmacia de Calle Corona; llevaba seis meses pasando por el lote cada viernes, mirando esa moto como se mira una vida que todavía no alcanza.
 
-—No vengo a molestar —dijo Rafa.
+—No vengo a molestar —dijo.
 
 —Vienes cada viernes a decir eso.
 
 —Esta vez traigo más.
 
-Cole abrió la carpeta de la moto sobre el cofre de un Corolla sin placas.
-
-—¿Cuánto?
-
-Rafa le mostró un sobre. Billetes chicos, doblados todos hacia el mismo lado.
-
-Cole los contó sin prisa. No porque dudara de Rafa. Porque contar dinero delante de alguien también era enseñarle que su esfuerzo tenía peso.
+Le mostró un sobre. Billetes chicos, doblados todos hacia el mismo lado. Cole los contó sin prisa: no por desconfianza, sino porque contar dinero delante de alguien también era enseñarle que su esfuerzo tenía peso.
 
 —Te faltan cuatrocientos.
 
-Rafa apretó la mandíbula.
-
 —Puedo traerlos en dos semanas.
 
-—Tres.
+—Tres —dijo Cole—. Si dices dos, vas a correr entregas como idiota, te van a levantar por exceso de velocidad y voy a tener que sacar la moto del corralón que yo mismo manejo.
 
-—Dos.
-
-—Tres —repitió Cole—. Si dices dos, vas a correr entregas como idiota, te van a levantar por exceso de velocidad y voy a tener que sacar la moto del corralón que yo mismo manejo.
-
-Rafa bajó la vista a la Honda.
-
-—¿Entonces no?
-
-Cole le puso las llaves en la mano.
+Le puso las llaves en la mano.
 
 —Entonces tres.
 
 Rafa se quedó mirando las llaves como si no entendiera que algo tan pequeño pudiera cambiarle el día entero.
 
-—¿En serio?
-
 —No la metas a autopista hasta que le cambie la cadena.
-
-—Pero ya es mía.
-
-—Es tuya si no te matas antes del lunes.
 
 Rafa soltó una risa nerviosa, breve, casi infantil. En la acera, dos niños dejaron de patear una lata para mirar la moto. El lote hizo lo que hacían los lugares vivos: reunir testigos sin convocarlos.
 
-Cole firmó el recibo y no escribió descuento en ninguna parte. Los favores que parecían favores salían carísimos; los tratos limpios podían repetirse.
+Cole firmó el recibo sin escribir descuento en ninguna parte.
 
 ***
 
