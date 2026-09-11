@@ -13,7 +13,7 @@ El cuarto papel seguía donde lo había dejado, en el cajón que no era el de la
 
 Chiara lo sacaba cada tantos días, lo leía otra vez, y lo volvía a guardar.
 
-No era pereza. Era que un dato sin pregunta todavía no era un dato — era sólo una espera con forma de papel. Y algo en el fondo del estómago, la misma voz que nunca se equivocaba del todo, le decía que ésa en particular iba a tardar en encontrar su pregunta.
+No era pereza. Era que un dato sin pregunta todavía no era un dato — era sólo una espera con forma de papel.
 
 Tardó tres semanas.
 
@@ -55,7 +55,7 @@ La segunda pieza tardó una semana más, y llegó con el acento de siempre.
 
 —Que anda nervioso. Que mandó a dos de los suyos a comprarle un abogado que no es de por aquí. —Mabel se encogió de hombros, ese gesto que en ella nunca significaba indiferencia, sino la clase de cautela que no quería que se le notara—. Puede que no sea nada. Puede que sea todo. Yo sólo sirvo café.
 
-Chiara conocía el patrón lo bastante bien como para no exigirle más. Ésa era la frontera exacta de lo que Mabel entregaba: nunca una conclusión, nunca un nombre completo si podía evitarlo, nunca la certeza de estar equivocada, porque casi nunca lo estaba.
+Chiara conocía el patrón lo bastante bien como para no exigirle más. Ésa era la frontera exacta de lo que Mabel entregaba: nunca una conclusión, nunca un nombre completo si podía evitarlo.
 
 Volvió a escribir, esa misma noche, otra referencia al margen del mismo papel.
 

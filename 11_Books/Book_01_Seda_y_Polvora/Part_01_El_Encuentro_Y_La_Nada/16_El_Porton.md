@@ -101,7 +101,7 @@ Lucía anotó algo breve, asintió, y no se quedó más de lo necesario.
 
 Se fue con el mismo paso con el que había llegado, y Chiara no volvió a pensar en ella hasta mucho después.
 
-El médico que salió minutos más tarde no le dio mucho más que un nombre para lo que ya sabía en el cuerpo: infarto. Estable, por ahora. Un especialista de cardiología se haría cargo del seguimiento apenas hubiera cama libre, y hasta entonces no había nada confirmado del todo — solo lo suficiente para saber que la palabra correcta era esa y no otra.
+El médico que salió minutos más tarde le dio un nombre: infarto. Estable, por ahora. Un especialista de cardiología se haría cargo del seguimiento apenas hubiera cama libre, y hasta entonces no había nada confirmado del todo — solo lo suficiente para saber que la palabra correcta era esa y no otra.
 
 ***
 

@@ -2,6 +2,8 @@
 
 Pendientes activos para el siguiente relevo.
 
+- **M4 — C13/C14/C16 (2026-09-11):** tres ajustes pendientes de revisión del autor: dos en C14 y uno en C16; C13 intacto. Reporte comparativo, antes/después y 14 protecciones: [[98_Agent_Handoff/sessions/2026-09-11_codex_microedicion_m4_intuicion_presagio_percepcion]]. Viñedo y alarma ante la puerta conservados completos. No reabrir M1–M3 ni estructura/continuidad como parte de este bloque. EPUB sin regenerar; sin commit ni push.
+
 - **M3 — C01–C03 (2026-09-11):** seis microintervenciones aplicadas en `develop`; pendiente sólo su revisión por el autor, sin cambiar el estado de borrador de los capítulos. Reporte A–F, antes/después y protecciones: [[98_Agent_Handoff/sessions/2026-09-11_codex_microedicion_m3_fundacion_de_voz]]. EPUB sin regenerar. Este bloque no reabre cirugía estructural ni continuidad y no autoriza tocar M1/M2 o C04 en adelante.
 
 - **Partes del Libro I (2026-09-10):** títulos fijados en [[01_Timeline/02_Cadena_De_Eventos_Libro_I]]; al reconciliar el Book Map, trasladar la división I–VI y coda. Cortes finos futuros siguen como DISEÑO. Carpetas del manuscrito conservan nombres heredados. EPUB actualizado por petición del autor (2026-09-10): títulos nuevos de I y II; partes futuras pendientes de prosa. IV se titula «Nieve y Ceniza». La etiqueta «Epílogo» para el segundo VI de su lista es interpretación operativa.

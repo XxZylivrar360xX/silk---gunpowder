@@ -2846,3 +2846,8 @@ Microedición sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_
 ## [2026-09-11] Codex — M3, fundacion de voz C01-C03
 
 En develop, HEAD inicial 867c9685a547c487a8971dc96574787c85e0a9d5 y arbol limpio. Leidos C01-C03 completos antes de editar. Seis microintervenciones, dos por capitulo; 57 palabras menos como dato, sin cuota. Conservados 48 de 49 casos exactos de «como si». Reporte A-F, cada antes/despues, inventario de los 21 casos de C01 y 20 protecciones adicionales: [[98_Agent_Handoff/sessions/2026-09-11_codex_microedicion_m3_fundacion_de_voz]]. Actualizados INDEX, CURRENT_BRIEF y PENDING para navegacion y relevo. Sin cambios de canon, estructura, continuidad, dialogos ni relaciones; C04 en adelante y M1/M2 fuera de alcance. Revision del autor pendiente. Sin commit ni push. EPUB sin regenerar. Trabajo detenido tras reporte.
+
+
+## [2026-09-11] Codex — M4, intuición, presagio y percepción
+
+En develop, HEAD inicial c497dad947ae103d1b8e466816ec36d7fc6e9786 y árbol limpio. Leídos C13, C14 y C16 completos; mapa previo a la edición. C13 intacto; dos cortes en C14 (predicción temporal y garantía de acierto de Mabel); una compresión en C16 (diagnóstico atribuido al cuerpo), con alarma ante la puerta íntegra. Tres ajustes sin indicios ni resultados nuevos. Reporte A–E y 14 protecciones: [[98_Agent_Handoff/sessions/2026-09-11_codex_microedicion_m4_intuicion_presagio_percepcion]]. Actualizados CURRENT_BRIEF, PENDING e INDEX para relevo y navegación. Sin cambios de canon, estructura, continuidad, diálogos ni otros capítulos; M1–M3 fuera de alcance. Revisión del autor pendiente. Sin commit ni push. EPUB sin regenerar. Detenido tras reporte.
