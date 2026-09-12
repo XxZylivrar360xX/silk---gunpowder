@@ -1,5 +1,5 @@
 <!--
-Estado: borrador provisional.
+Estado: LISTO PARA AUTOR.
 Protagonistas: Cole Mercer, Chiara Bellandi, Nadir Amrani.
 Ventana temporal: continúa directamente del Capítulo 10. Semanas en la casa común, después la recompra y el diseño de la casa.
 Lugares: Casa Comunitaria de La Almendra, La Casa (la vieja casa de los padres de Cole).

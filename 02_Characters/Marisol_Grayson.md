@@ -3,11 +3,11 @@
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-08-23; apariencia y voz consolidadas 2026-08-29).** Su función narrativa ya está definida; su biografía concreta queda pendiente.
-> **PRIMERA APARICIÓN EN ESCENA (2026-08-29):** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono|Cap. 14 — La regla del teléfono]] (encargo [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]]). Antes de eso sólo se la mencionaba (Cap. 7). Los datos marcados **(borrador Cap. 14)** abajo son inferencia del agente para poder escribir la escena; **el autor no los ha confirmado.**
+> **PRIMERA APARICIÓN EN ESCENA (2026-08-29):** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/15_La_Regla_Del_Telefono|Cap. 15 — La regla del teléfono]] (encargo [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]]). Antes de eso sólo se la mencionaba (Cap. 7). Los datos marcados **(borrador Cap. 15)** abajo son inferencia del agente para poder escribir la escena; **el autor no los ha confirmado.**
 
-**Nacionalidad:** pendiente (no se fija en el Cap. 14).
-**Edad al abrir la novela:** **veinte años (borrador Cap. 14)** — usada en prosa; el autor puede ajustarla.
-**Oficio:** estudiante de derecho. **CAMBIO DE CARRERA (2026-08-29):** reemplaza la carrera de ciencias ambientales / ecología de campo del borrador original del Cap. 14 (ya corregido en prosa). Le quedan **seis meses antes de empezar las estadías**.
+**Nacionalidad:** pendiente (no se fija en el Cap. 15).
+**Edad al abrir la novela:** **veinte años (borrador Cap. 15)** — usada en prosa; el autor puede ajustarla.
+**Oficio:** estudiante de derecho. **CAMBIO DE CARRERA (2026-08-29):** reemplaza la carrera de ciencias ambientales / ecología de campo del borrador original del Cap. 15 (ya corregido en prosa). Le quedan **seis meses antes de empezar las estadías**.
 **Rol:** secundaria — **con arco fijado a protagonista en Parte 3** (ver más abajo).
 **Alias:** pendiente.
 **Estado:** viva.
@@ -26,7 +26,7 @@
 
 La crítica de Cole a las puntas es un ritual familiar. Marisol sabe que le parecen absurdas, las conserva sin darle demasiada importancia y disfruta tener con eso material para molestarlo. Cole puede burlarse o hacer comentarios secos, pero nunca le exige seriamente que se cambie el cabello.
 
-> **SEMBRADO (borrador Cap. 14):** pequeña, enjuta, se mueve rápido. Lleva puesta **la chaqueta militar de Michael, que le queda grande, con las mangas dobladas dos veces** — imagen que carga al padre sin decirlo. No es canon fijo; es un ancla visual provisional.
+> **SEMBRADO (borrador Cap. 15):** pequeña, enjuta, se mueve rápido. Lleva puesta **la chaqueta militar de Michael, que le queda grande, con las mangas dobladas dos veces** — imagen que carga al padre sin decirlo. No es canon fijo; es un ancla visual provisional.
 
 ---
 
@@ -80,7 +80,7 @@ En esa conversación, cuando Chiara le pregunta qué es él para Marisol, Cole l
 
 **Eco (2026-09-03) en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/17_El_Sobre_Rojo|Capítulo 17, sección *Cuatro letras*]]:** cuando Héctor dice que Marisol necesitaba "un padre completo" ese fin de semana, Cole corrige — "Yo no soy su padre" — y Héctor solo gruñe y sigue hablando como si no lo hubiera oído. Cole no se atribuye el lugar aunque lo ocupa; Héctor lo sabe y no se molesta en discutirlo.
 
-**Primera aparición en escena:** Capítulo 14 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono|La regla del teléfono]]). Fin de semana de campamento con Cole antes de que ella vuelva a clases. Lo que la escena establece por conducta:
+**Primera aparición en escena:** Capítulo 15 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/15_La_Regla_Del_Telefono|La regla del teléfono]]). Fin de semana de campamento con Cole antes de que ella vuelva a clases. Lo que la escena establece por conducta:
 
 - **La regla del teléfono.** Durante el campamento los teléfonos se guardan hasta volver. La regla la puso Michael y Marisol la hace cumplir; Cole protesta porque el taller no puede quedarse sin él dos días, Marisol responde que Walt sabe encargarse y **gana**: la regla existe para que Cole esté presente allí. Es lo que lo deja incomunicado durante H10 — una decisión de carácter, no un accidente.
 - **Puede decirle que no y ganarle.** No lo reverencia, no le agradece, se burla de sus manías (revisar el equipaje tres veces, la manta térmica que nunca abren), lo para en seco ("Tengo veinte años" / "Eso no responde").
@@ -96,7 +96,7 @@ En esa conversación, cuando Chiara le pregunta qué es él para Marisol, Cole l
 
 ## Arco futuro — de recurrente a protagonista
 
-> **CANON DEL AUTOR (2026-08-29).** A partir del Capítulo 14, Marisol pasa a ser **personaje recurrente**, no solo mencionada.
+> **CANON DEL AUTOR (2026-08-29).** A partir del Capítulo 15, Marisol pasa a ser **personaje recurrente**, no solo mencionada.
 
 En esa misma escena queda sembrado el resto del plan:
 
@@ -106,11 +106,11 @@ En esa misma escena queda sembrado el resto del plan:
 
 **En Parte 2:** Cole compra un bufete, asociándose con otro abogado (personaje todavía sin crear).
 
-**En Parte 3:** ese socio se marcha, y **Marisol entra como abogada principal del bufete** — pasa de secundaria a **personaje protagónico**, representando a la gente de La Almendra en los conflictos legales y arrestos que les toquen. Es el pago narrativo de todo lo sembrado en el Capítulo 14: la carrera, los seis meses, la negativa a defender a Cole sin experiencia.
+**En Parte 3:** ese socio se marcha, y **Marisol entra como abogada principal del bufete** — pasa de secundaria a **personaje protagónico**, representando a la gente de La Almendra en los conflictos legales y arrestos que les toquen. Es el pago narrativo de todo lo sembrado en el Capítulo 15: la carrera, los seis meses, la negativa a defender a Cole sin experiencia.
 
 > **PENDIENTE:** nombre y ficha del socio de Cole en el bufete (Parte 2), y la razón por la que se marcha. Nombre del bufete. Escena exacta en que Marisol toma el mando.
 
-**La graduación (2026-08-30):** al terminar las estadías, Cole lleva a Chiara como su acompañante a la graduación — uno de los momentos de mayor orgullo de su vida. Es el primer encuentro en persona entre Marisol y Chiara. La recogida ya está redactada en [[07_Ideas/La_Graduacion_De_Marisol]]; falta construir el resto.
+**La graduación (2026-08-30):** al terminar las estadías, Cole lleva a Chiara como su acompañante a la graduación — uno de los momentos de mayor orgullo de su vida. Ocurre después del primer encuentro entre Marisol y Chiara en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/22_La_Promesa|Capítulo 22, «La promesa»]]. La recogida ya está redactada en [[07_Ideas/La_Graduacion_De_Marisol]]; falta construir el resto.
 
 ---
 
@@ -155,17 +155,17 @@ Su sarcasmo lo aprendió de Cole por convivencia, pero no lo imita: en ella es m
 - [[02_Characters/Cole_Mercer]] — protector, tutor de hecho, y el hombre al que eventualmente tendrá que enfrentar con una verdad.
 - [[02_Characters/Michael_Grayson]] — padre.
 - [[02_Characters/Hector_Navarro]] — espejo temático: Cole fue criado por un padre elegido; Marisol es la persona a quien Cole intenta darle una salida elegida.
-- [[02_Characters/Chiara_Bellandi]] — pendiente de definir. Al Cap. 14 **todavía no se han visto**: Marisol sólo conoce el nombre por cómo aparece en boca de Cole, y lo usa para picarlo. Su relación futura puede revelar qué clase de familia están construyendo Cole y Chiara.
+- [[02_Characters/Chiara_Bellandi]] — su primer encuentro ocurre en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/22_La_Promesa|Capítulo 22, «La promesa»]]. En el Cap. 15 Marisol sólo conoce el nombre por cómo aparece en boca de Cole, y lo usa para picarlo. Su relación posterior puede revelar qué clase de familia están construyendo Cole y Chiara.
 
 ---
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** edad exacta y universidad. **(Borrador Cap. 14: veinte años; universidad sin nombrar, a un par de horas de San Aurelio. A confirmar o ajustar por el autor.)** Carrera ya resuelta (2026-08-29): derecho, a seis meses de las estadías.
+> **PENDIENTE:** edad exacta y universidad. **(Borrador Cap. 15: veinte años; universidad sin nombrar, a un par de horas de San Aurelio. A confirmar o ajustar por el autor.)** Carrera ya resuelta (2026-08-29): derecho, a seis meses de las estadías.
 
 > **PENDIENTE:** madre de Marisol y si Cole tiene alguna tutoría legal o sólo un rol familiar de hecho.
 
-> **PENDIENTE:** cómo conoció a Chiara y qué piensa de ella. **(Al Cap. 14 aún no la conoce en persona; sólo el nombre.)**
+> **PENDIENTE:** qué piensa Marisol de Chiara después de su primer encuentro en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/22_La_Promesa|Capítulo 22, «La promesa»]].
 
 > **PENDIENTE:** qué decisión de Marisol intenta controlar Cole, y cuándo se lo cobra.
 
