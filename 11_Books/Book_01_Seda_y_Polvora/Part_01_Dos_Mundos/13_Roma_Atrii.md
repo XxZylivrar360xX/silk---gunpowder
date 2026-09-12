@@ -1,5 +1,5 @@
 <!--
-Estado: LISTO PARA AUTOR.
+Estado: TERMINADO.
 Protagonistas: Chiara Bellandi (partes 1-2), Cole Mercer (parte 3).
 Ventana temporal: parte 1 es anterior al Capitulo 12 (evento altruista, y tambien anterior/independiente de la noche de Gabriella's del Capitulo 8 y del arco de H12 en los Capitulos 10-11); parte 2 ocurre la misma noche del torneo del Capitulo 12; parte 3, semanas despues -- Cole y Chiara ya viven a caballo entre el penthouse y la casa de el.
 Lugares: salon de gala (evento altruista, sin nombre fijo), The Monarch Casino & Hotel (piso de juego y caja), Almendra Towing / El Patio.
