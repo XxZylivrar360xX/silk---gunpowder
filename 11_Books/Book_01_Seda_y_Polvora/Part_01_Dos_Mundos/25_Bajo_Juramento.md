@@ -1,5 +1,5 @@
 <!--
-Estado: borrador — incorpora las decisiones del autor 2026-09-09.
+Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md).
 Protagonistas: Cole Mercer, Chiara Bellandi.
 Apariciones: Tommaso Lusardi, Margaret Rivers (abogada de Cole), Jonathan Hoover (exsocio), Giancarlo Krane (abogado de Hoover).
 Ventana temporal: continuación directa del Cap. 24. El conflicto legal cierra aquí, ~2 semanas después del sobre.

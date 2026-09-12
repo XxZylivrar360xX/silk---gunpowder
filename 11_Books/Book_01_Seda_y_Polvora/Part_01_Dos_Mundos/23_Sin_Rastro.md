@@ -1,5 +1,5 @@
 <!--
-Estado: borrador provisional.
+Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md).
 Protagonistas: Chiara Bellandi, Cole Mercer, con aparicion breve de Dario Varek.
 Ventana temporal: dias despues del Capitulo 22 (La promesa). Reordenado el 2026-08-29; renumerado varias veces, la ultima el 2026-09-07 al insertar el Capitulo 22 nuevo (La promesa).
 Lugares: The Monarch Casino & Hotel, calles de Paseo Pacifica, Almendra Towing.

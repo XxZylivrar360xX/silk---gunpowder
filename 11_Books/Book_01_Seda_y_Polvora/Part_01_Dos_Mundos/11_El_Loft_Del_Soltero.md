@@ -1,5 +1,5 @@
 <!--
-Estado: LISTO PARA AUTOR.
+Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_c11_el_loft_del_soltero.md). Deuda de canon no bloqueante conservada: por que la familia Mercer dejo de poseer La Casa y si Chiara sabe durante el diseno que era la casa de los Mercer -- no afecta este estado, no resueltas.
 Protagonistas: Cole Mercer, Chiara Bellandi, Nadir Amrani.
 Ventana temporal: continúa directamente del Capítulo 10. Semanas en la casa común, después la recompra y el diseño de la casa.
 Lugares: Casa Comunitaria de La Almendra, La Casa (la vieja casa de los padres de Cole).

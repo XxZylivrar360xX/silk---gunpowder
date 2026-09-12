@@ -1,5 +1,5 @@
 <!--
-Estado: borrador provisional.
+Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md).
 Protagonistas: Cole Mercer, Harper Walker. Primera aparicion en prosa de Garrett Cross. Aparicion breve de Claudio (dueño de Il Gelsomino).
 Ventana temporal: en algun punto del mismo periodo que los capitulos de Cole/Chiara ya escritos -- meses despues de que ellos empezaran a pasar tiempo juntos (el flashback del parque lo confirma). Sin hito H asignado -- es un capitulo de expansion de El Patio, no de la relacion central.
 Lugares: notaria, Il Gelsomino, una parcela nueva al norte de San Aurelio, un parque cerca de Santa Lucia (flashback).

@@ -1,5 +1,5 @@
 <!--
-Estado: borrador provisional.
+Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md).
 Protagonistas: Cole Mercer, Chiara Bellandi, Hector Navarro.
 Ventana temporal: continua directamente del Capitulo 16 (POV Chiara). El domingo en que Cole vuelve del campamento, y los dias siguientes en el hospital.
 Lugares: La Casa (loft de Cole), The Monarch Casino & Hotel, Hospital Santa Aurelia.

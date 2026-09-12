@@ -1,5 +1,5 @@
 <!--
-Estado: borrador provisional.
+Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md).
 Protagonistas: Cole Mercer, Walter Keegan, Irene Salcedo, Hector Navarro, Nadir Amrani, Daniel Hayes.
 Ventana temporal: dias despues del Capitulo 17 (hospital, ahora fusionado con El sobre rojo). Hector sigue en recuperacion; para el cierre del capitulo ya esta en casa. Antes de H4 (El dia nublado).
 Lugares: un negocio dentro de La Almendra (apertura), territorio de La Ronda del Canal / Canal Seco, casa de Hector Navarro (cierre).

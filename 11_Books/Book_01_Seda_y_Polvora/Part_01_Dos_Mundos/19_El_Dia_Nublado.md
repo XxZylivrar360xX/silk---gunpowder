@@ -1,5 +1,5 @@
 <!--
-Estado: borrador provisional (redactado 2026-08-29, triaje PROSA-C).
+Estado: TERMINADO (aprobado por el autor 2026-09-12, tras M6 verificada y CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md).
 Protagonistas: Cole Mercer, Chiara Bellandi.
 Ventana temporal: dias despues del Capitulo 18 (Cuentas claras / Anticiparse, la negociacion con Irene y la reunion en casa de Hector). Antes del Capitulo 20 (H11, el mirador). Reordenado el 2026-08-29: H10 -> H4 -> H11; renumerado varias veces, la ultima el 2026-09-03 al fusionar los capitulos de la negociacion con Irene y la reunion del barrio en un solo Capitulo 18.
 Lugares: Il Gelsomino (terraza), boutique de golf en el norte, campo de golf al norte de San Aurelio, carretera del norte, The Monarch / El Penthouse.

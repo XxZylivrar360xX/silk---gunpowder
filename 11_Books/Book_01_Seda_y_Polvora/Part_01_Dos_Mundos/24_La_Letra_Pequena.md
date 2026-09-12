@@ -1,5 +1,5 @@
 <!--
-Estado: borrador — incorpora las decisiones del autor 2026-09-09 sobre las 5 cuestiones bloqueadas del reporte editorial.
+Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md).
 Protagonistas: Cole Mercer, Chiara Bellandi.
 Apariciones: Héctor Navarro, Garrett Cross, Margaret Rivers (abogada de Cole), Jonathan Hoover (exsocio demandado, off-page), Giancarlo Krane (abogado de Hoover, mencionado).
 Ventana temporal: después del Cap. 23 (Sin rastro) y del cierre de Tierra buena. El conflicto legal completo dura ~2 semanas. Inmediatamente antes de la audiencia que continúa en el Cap. 25.
