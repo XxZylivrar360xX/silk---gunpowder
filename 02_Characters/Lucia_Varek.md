@@ -25,7 +25,7 @@ Su arco debe conservar la tensión entre el vínculo familiar y la obligación i
 
 ## Pendientes
 
-> **RESUELTO (2026-09-01):** cargo exacto de entrada (subjefa) y primera escena con Cole — [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_Auster|Capítulo 14, *Auster*]]. Lo interroga por el caso del Peugeot rojo (ver [[12_Craft_Policies/revelations/Book_01_Seda_y_Polvora]], "El Peugeot rojo que Blake persigue"); confirma la coartada que Chiara le preparó a Cole y el caso se cae. Registra a Cole por primera vez como alguien que no encaja del todo en la versión fácil — semilla de la relación de "informante" que el autor quiere desarrollar más adelante.
+> **RESUELTO (2026-09-01):** cargo exacto de entrada (subjefa) y primera escena con Cole — [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_Auster|Capítulo 14, *Auster*]]. Lo interroga por el caso del Peugeot rojo (ver [[12_Craft_Policies/revelations/Book_01_Seda_y_Polvora]], "El Peugeot rojo que Blake persigue"); confirma la coartada que Chiara le preparó a Cole y el caso se cae. Registra a Cole por primera vez como alguien que no encaja del todo en la versión fácil — semilla de la relación de "informante" que el autor quiere desarrollar más adelante.
 
 > **PENDIENTE:** cuándo descubre la verdad completa sobre Cole y el Patio, y cuánto sabe de la organización de su propio padre antes de investigarlo.
 

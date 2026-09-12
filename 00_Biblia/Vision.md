@@ -59,7 +59,7 @@ Registro: realista. Sucio en la calle, elegante en las oficinas, con humor. No h
 
 ## Estructura provisional
 
-> **PENDIENTE:** confirmar con el autor el número de partes y si esto es una novela única o el primer libro de una serie.
+> **REFERENCIA HISTÓRICA:** la propuesta de tres movimientos de abajo conserva la nomenclatura anterior; no enumera las partes vigentes del Libro I. Los títulos actuales están en [[01_Timeline/02_Cadena_De_Eventos_Libro_I#Partes del Libro I — títulos del autor]] y la división en libros en [[00_Biblia/00_Trilogy_Structure]]. Se conserva el diseño anterior sin reconciliación narrativa en esta migración.
 
 Propuesta de trabajo en tres movimientos:
 

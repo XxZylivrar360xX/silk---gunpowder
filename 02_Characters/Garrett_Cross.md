@@ -17,7 +17,7 @@ Garrett parece más aburrido de lo que es. Trajes correctos, reloj discreto, man
 
 Si Russ Whitaker se reconoce por el bastón, Garrett se reconoce por lo contrario: puede salir de una reunión y dejar la sensación de que siempre estuvo ahí, pero nadie recuerda una frase concreta.
 
-**CANON (2026-09-07):** moreno, barba corta, cabello negro rizado más largo de lo que cualquier reglamento militar habría tolerado. Lleva lentes de sol de forma permanente, incluso en interiores — **fotofobia**, secuela de la misma emboscada en Afganistán donde murió [[02_Characters/Jim_Keegan]] y [[02_Characters/Russell_Whitaker|Russ]] perdió la movilidad de la pierna (ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias|Capítulo 3]]). No contradice lo de "no quedarse en la memoria de nadie": los lentes le tapan los ojos, que es justo por donde la gente suele leer a alguien — refuerzan su ilegibilidad de otra forma, no la rompen. Primera aparición en prosa: [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/20_Tierra_Buena|Capítulo 20, "Tierra buena"]].
+**CANON (2026-09-07):** moreno, barba corta, cabello negro rizado más largo de lo que cualquier reglamento militar habría tolerado. Lleva lentes de sol de forma permanente, incluso en interiores — **fotofobia**, secuela de la misma emboscada en Afganistán donde murió [[02_Characters/Jim_Keegan]] y [[02_Characters/Russell_Whitaker|Russ]] perdió la movilidad de la pierna (ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Capítulo 3]]). No contradice lo de "no quedarse en la memoria de nadie": los lentes le tapan los ojos, que es justo por donde la gente suele leer a alguien — refuerzan su ilegibilidad de otra forma, no la rompen. Primera aparición en prosa: [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/20_Tierra_Buena|Capítulo 20, "Tierra buena"]].
 
 ---
 
@@ -25,7 +25,7 @@ Si Russ Whitaker se reconoce por el bastón, Garrett se reconoce por lo contrari
 
 Garrett administra dinero, recursos y activos de la organización de [[02_Characters/Cole_Mercer]]. En la etapa temprana ya ayuda con nóminas, papeles básicos y contratación limpia para Almendra Towing; más adelante es el hombre que convierte crecimiento criminal en balances, participaciones, propiedades, préstamos, contratos y empresas.
 
-**RESUELTO (2026-09-03):** estuvo presente en la emboscada en Afganistán donde murió [[02_Characters/Jim_Keegan]] y [[02_Characters/Russell_Whitaker|Russ]] sufrió la lesión permanente de la pierna — ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias|Capítulo 3]] (memoria de Cole).
+**RESUELTO (2026-09-03):** estuvo presente en la emboscada en Afganistán donde murió [[02_Characters/Jim_Keegan]] y [[02_Characters/Russell_Whitaker|Russ]] sufrió la lesión permanente de la pierna — ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Capítulo 3]] (memoria de Cole).
 
 No es el contador del taller. Es el administrador de la capa donde Cole ya no puede firmar sin dejar rastro.
 
@@ -82,4 +82,4 @@ Con ayuda de Chiara, usa el casino como una zona de niebla narrativa: apuestas, 
 
 > **PENDIENTE:** cómo conoce Cole a Garrett: abogado recomendado, contador comprado, deuda antigua, favor de Chiara o pieza heredada de Varek.
 
-> **PENDIENTE:** cuál es la primera vez que Garrett le dice "no" a Cole y Cole lo obedece. *(2026-09-09, catchup manual: en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/25_Bajo_Juramento|Capítulo 25]] Garrett le dice "No" cuando Cole mira un Lancia para Chiara recién salido del litigio del concesionario; Cole no compra ese día, pero ya piensa volver en dos semanas — obediencia parcial, no la resolución definitiva de este pendiente.)*
+> **PENDIENTE:** cuál es la primera vez que Garrett le dice "no" a Cole y Cole lo obedece. *(2026-09-09, catchup manual: en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/25_Bajo_Juramento|Capítulo 25]] Garrett le dice "No" cuando Cole mira un Lancia para Chiara recién salido del litigio del concesionario; Cole no compra ese día, pero ya piensa volver en dos semanas — obediencia parcial, no la resolución definitiva de este pendiente.)*

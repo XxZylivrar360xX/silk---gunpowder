@@ -16,7 +16,7 @@ Este encargo debe ejecutarse **sobre el estado más reciente de `develop`**, des
 
 Antes de tocar numeración:
 
-1. inspeccionar los archivos actuales de `Part_01_El_Encuentro_Y_La_Nada`;
+1. inspeccionar los archivos actuales de `Part_01_Dos_Mundos`;
 2. identificar cuál archivo ejecuta actualmente:
    - H3 — `La noche del ladrillo`;
    - H12 — `El corral`;

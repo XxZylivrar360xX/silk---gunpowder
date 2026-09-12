@@ -1333,7 +1333,7 @@ Se reviso el documento externo `C:\Users\avada\Downloads\ahorro-tokens-claude-co
 
 ## Sesion 2026-08-24 (01) | Capitulo 1 provisional y craft policies
 
-Se monto el primer capitulo provisional del libro en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]].
+Se monto el primer capitulo provisional del libro en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable]].
 
 **Canon / decisiones nuevas:**
 
@@ -1367,7 +1367,7 @@ Se rescato la arquitectura de `12_Craft_Policies/` de *Memories Of A Ghost* y se
 
 ## Sesion 2026-08-24 (03) | Enriquecimiento del Capitulo 1 prototipo
 
-Se hizo una pasada de enriquecimiento sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]] aplicando las craft policies nuevas.
+Se hizo una pasada de enriquecimiento sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable]] aplicando las craft policies nuevas.
 
 **Ajustes de prosa:**
 
@@ -1380,7 +1380,7 @@ Se hizo una pasada de enriquecimiento sobre [[11_Books/Book_01_Seda_y_Polvora/Pa
 
 **Build:** EPUB regenerado en `tools/epub-build/output/Seda_y_Polvora.epub`.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
 
 ## Sesion 2026-08-24 (04) | Llegada de Chiara, descripcion visual y canon Mercer
 
@@ -1395,7 +1395,7 @@ Se enriquecio el Capitulo 1 prototipo con la llegada de Chiara desde el avion: S
 
 **Build:** EPUB regenerado en `tools/epub-build/output/Seda_y_Polvora.epub`.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable.md`, `02_Characters/Cole_Mercer.md`, `02_Characters/Chiara_Bellandi.md`, `05_Locations/Cementerio_Santa_Lucia.md`, `12_Craft_Policies/revelations/SAGA_LEVEL.md`, `INDEX.md`, `98_Agent_Handoff/`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable.md`, `02_Characters/Cole_Mercer.md`, `02_Characters/Chiara_Bellandi.md`, `05_Locations/Cementerio_Santa_Lucia.md`, `12_Craft_Policies/revelations/SAGA_LEVEL.md`, `INDEX.md`, `98_Agent_Handoff/`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
 
 ## Sesion 2026-08-24 (05) | Circuito diurno ampliado de Cole
 
@@ -1415,7 +1415,7 @@ Se amplio el Capitulo 1 prototipo para que el dia normal de Cole tenga mas estac
 
 ## Sesion 2026-08-24 (06) | Capitulo 1 ampliado y limpieza EPUB
 
-Se amplio [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]] para resolver continuidad del casino y cerrar el capitulo con espejo emocional discreto.
+Se amplio [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable]] para resolver continuidad del casino y cerrar el capitulo con espejo emocional discreto.
 
 **Canon / estructura nueva:**
 
@@ -1437,7 +1437,7 @@ Se amplio [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un
 
 Se corrigio el Capitulo 1 para que Dario no este presente en la reunion formal con Cole: se retira de la reunion interna por una diligencia en el centro, que el Capitulo 2 cobra con el titular de Keene ejecutado en Plaza Corona.
 
-**Capitulo 2 creado:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias]]
+**Capitulo 2 creado:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/03_Los_Viejos_Dias]]
 
 - Keene aparece ejecutado con tres tiros, sentado en una banca como si estuviera dormido.
 - Cole y Hector reciben a Walt al salir de prision.
@@ -1448,10 +1448,10 @@ Se corrigio el Capitulo 1 para que Dario no este presente en la reunion formal c
 
 **Capitulos 3-6 creados:**
 
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/04_La_Primera_Llamada]] — Blake exhibe a Chiara en La Isla; primera llamada a Cole; primer favor bajo la mesa con el Mercedes de Varga.
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/05_La_Casa_No_Quiere_Ruido]] — cadena de favores, factura ensenable, visitas de Cole al Monarch y roce de Tommaso con el pasado de Alessio.
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/06_Una_Amiga]] — H2-a: Rocco, camioneta rentada, terraza de Il Gelsomino, Nadir/Danny como testigos.
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos]] — H2-b: costumbre de contarse el dia, penthouse, hamburguesas/malteadas, hierba, canciones, calavera, habitaciones separadas, primer tu y choque de punos.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/04_La_Primera_Llamada]] — Blake exhibe a Chiara en La Isla; primera llamada a Cole; primer favor bajo la mesa con el Mercedes de Varga.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/05_La_Casa_No_Quiere_Ruido]] — cadena de favores, factura ensenable, visitas de Cole al Monarch y roce de Tommaso con el pasado de Alessio.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/06_Una_Amiga]] — H2-a: Rocco, camioneta rentada, terraza de Il Gelsomino, Nadir/Danny como testigos.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/07_Ambos]] — H2-b: costumbre de contarse el dia, penthouse, hamburguesas/malteadas, hierba, canciones, calavera, habitaciones separadas, primer tu y choque de punos.
 
 **Decision provisional:** el paso del usted al tu ocurre al final de Capitulo 6 con la linea canon "Eres increible / Ambos somos increibles". Revisar si el autor quiere mover ese umbral.
 
@@ -1459,7 +1459,7 @@ Se corrigio el Capitulo 1 para que Dario no este presente en la reunion formal c
 
 ## Sesion 2026-08-24 (08) | Garrett y presion de turno nocturno
 
-Se ajusto el arranque de [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]] con un intercambio entre Hector y Cole: el trabajo se acumula, faltan manos para turno nocturno y Cole ya hablo con Garrett para buscar gente al regresar de vacaciones en un par de dias, a tiempo para nominas.
+Se ajusto el arranque de [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable]] con un intercambio entre Hector y Cole: el trabajo se acumula, faltan manos para turno nocturno y Cole ya hablo con Garrett para buscar gente al regresar de vacaciones en un par de dias, a tiempo para nominas.
 
 **Canon / continuidad:** Garrett Cross ya orbita a Cole desde la etapa temprana de Almendra Towing como apoyo de nominas, papeles limpios y contratacion. Su escala mayor sigue siendo Cross River/activos cuando la red crece. Hector queda como filtro humano del taller: Garrett prepara papeles, pero Hector decide si un empleado sirve para el puesto. Cole confia en Garrett al nivel de confiarle su vida por lo vivido junto a Russell y Garrett.
 
@@ -1557,8 +1557,8 @@ Se atendieron seis observaciones de lectura sobre el antiguo Capitulo 1.
 
 **1. Corte en dos capitulos.** El antiguo Capitulo 1 se partio en el salto de POV, donde Cole sale hacia el Monarch.
 
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]] — Capitulo 1, ~8,100 palabras. Dia de Cole completo; cierra con el Peugeot bajo la farola.
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo]] — Capitulo 2 nuevo, ~7,100 palabras. Llegada de Chiara a Kingsley Field, lobby del Monarch, reunion interna sin Cole, primer apreton de manos (H2), reunion formal, rechazo por "demasiado listo" y cierre paralelo de radar mutuo. El titulo sale de la linea de Tommaso, que ahora remata las dos escenas finales.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable]] — Capitulo 1, ~8,100 palabras. Dia de Cole completo; cierra con el Peugeot bajo la farola.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/02_Demasiado_Listo]] — Capitulo 2 nuevo, ~7,100 palabras. Llegada de Chiara a Kingsley Field, lobby del Monarch, reunion interna sin Cole, primer apreton de manos (H2), reunion formal, rechazo por "demasiado listo" y cierre paralelo de radar mutuo. El titulo sale de la linea de Tommaso, que ahora remata las dos escenas finales.
 
 Los capitulos posteriores se renumeraron con `git mv`: 02 a 03, 03 a 04, 04 a 05, 05 a 06, 06 a 07. Se actualizaron encabezados internos, INDEX, 00_Book_Map, milestones/INDEX (lista renumerada 1-18), fichas de Dario y Matteo, CURRENT_BRIEF, DECISIONS y los enlaces historicos de este log. El build de EPUB toma capitulos por orden de nombre de archivo, asi que no requirio cambios.
 
@@ -1582,7 +1582,7 @@ Los capitulos posteriores se renumeraron con `git mv`: 02 a 03, 03 a 04, 04 a 05
 
 ## [2026-08-26] edit | Pasada de correccion sobre el Capitulo 3, mas regla de oficio nueva
 
-Cinco observaciones de lectura sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias]] (4,940 palabras).
+Cinco observaciones de lectura sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/03_Los_Viejos_Dias]] (4,940 palabras).
 
 **1. Beat de reaccion a Harper.** La escena de la cafeteria de carretera cerraba en "Cole asintio una vez... se acordo del nombre" y saltaba al corte. Ahora Cole se queda con dos cosas concretas: que Harper solto su lectura del asesinato delante de tres desconocidos sin revisar despues las caras ("la gente que acierta por accidente revisa las caras"), y que la camioneta enlodada de atras sigue con el remolque vacio y los postes de cerca sin subir — o sea que trabaja ese camino de tierra entre turno y turno. La siembra deja de ser cameo.
 
@@ -1604,7 +1604,7 @@ Cinco observaciones de lectura sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_E
 
 ## [2026-08-26] edit | Pasada de correccion sobre el Capitulo 4, ledger del Peugeot y deriva de numeracion
 
-Cinco observaciones sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/04_La_Primera_Llamada]] (2,422 palabras).
+Cinco observaciones sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/04_La_Primera_Llamada]] (2,422 palabras).
 
 **1. Momento de gracia de Blake.** Pasaba de encantador vanidoso a posesivo sin punto intermedio. Ahora, antes de llegar a la mesa, le adelanta a Chiara que uno de sus amigos le va a preguntar por la mafia y otro va a jurar que estuvo en Sicilia ("estuvo en Cancun"), y cierra burlandose de si mismo: "yo ya gaste mi frase de Roma". Chiara se rie antes de decidir si quiere. Se nombra explicitamente lo que le abre las puertas —cuando no tiene nada que defender, lee bien una habitacion y regala la lectura sin cobrarla— y acierta en las dos predicciones. La bisagra queda en una linea: *"Despues llegaron sus amigos y dejo de ser bueno en eso."* La mano demasiado arriba y el "necesitas relajarte" ahora son caida, no arranque.
 
@@ -1628,7 +1628,7 @@ Se abrio entrada en [[12_Craft_Policies/revelations/Book_01_Seda_y_Polvora]] con
 
 ## [2026-08-26] edit | Pasada de correccion sobre el Capitulo 5, escalera de Tommaso y politica de apertura por residuo
 
-Cinco observaciones sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/05_La_Casa_No_Quiere_Ruido]] (2,342 palabras).
+Cinco observaciones sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/05_La_Casa_No_Quiere_Ruido]] (2,342 palabras).
 
 **1. Repeticion exacta en la seccion de las reglas.** "Era verdad. / No toda." seguido de "Tambien era verdad. / No suficiente." era la misma construccion dos veces en el mismo pasaje. La primera se queda intacta. La segunda cambia de forma y de longitud: *"Eso tambien era cierto, y Tommaso lo acepto porque una negacion exacta es mas dificil de discutir que una mentira. Chiara se quedo con la parte que no dijo: que no hacia falta contrato para que ya hubiera cuenta."* Ademas conecta con el residuo del Capitulo 4.
 
@@ -1685,7 +1685,7 @@ Dos beats nuevos de DISEÑO entregados por el autor en chat, integrados como 12-
 
 Se corrigio la continuidad temporal del arranque: los Capitulos 1 y 2 quedan explicitamente en domingo; el Capitulo 3 abre en lunes, y la referencia a la reunion de Cole con Keene cambio de "la tarde anterior" a "la manana anterior". La reunion ya estaba narrada con marcas de media manana; el ajuste alinea la etiqueta con la escena y deja clara la transicion hacia la liberacion de Walt.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/DECISIONS.md`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/02_Demasiado_Listo.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/03_Los_Viejos_Dias.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/DECISIONS.md`, `log.md`.
 
 ## [2026-08-26] canon | "Los Oídos" pasa a "Le Orecchie"
 
@@ -1849,7 +1849,7 @@ Se anotó el capítulo asignado directamente en cada beat de [[01_Timeline/01_Pr
 
 ## [2026-08-26] write | Capítulo 8 — El farol
 
-Redactado el Capítulo 8 provisional ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/08_El_Farol]]), ejecutando los beats 12 (Mabel/red civil) y 12-b (torneo de poker con Walt Keegan) del [[01_Timeline/01_Primer_Borrador_Beats]].
+Redactado el Capítulo 8 provisional ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/08_El_Farol]]), ejecutando los beats 12 (Mabel/red civil) y 12-b (torneo de poker con Walt Keegan) del [[01_Timeline/01_Primer_Borrador_Beats]].
 
 **Apertura por residuo:** parte del final del Capítulo 7 (la camiseta doblada, lo no dicho) sin resumirlo — Chiara despierta, no la toca, sigue con el día.
 
@@ -1859,11 +1859,11 @@ Contra [[12_Craft_Policies/Redaccion_De_Capitulos]]: se usó apertura por residu
 
 Actualizado [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] (Capítulo 8 movido de "planificado" a "en montaje"; "próximo paso" apunta ahora al Capítulo 9) y marcados como ESCRITO los beats 12 y 12-b en el timeline. **Pendiente:** regenerar el EPUB.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/08_El_Farol.md` (nuevo), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/08_El_Farol.md` (nuevo), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
 
 ## [2026-08-26] write | Capítulo 9 — Roma Atrii
 
-Redactado el Capítulo 9 provisional ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_Roma_Atrii]]), ejecutando los beats 12-c (nace i Sussurri) y 13-b (el chico del Patio) del [[01_Timeline/01_Primer_Borrador_Beats]], basado en los bocetos ya existentes en `07_Ideas/Origen_de_i_Sussurri.md` y `07_Ideas/El_Chico_Del_Patio.md`.
+Redactado el Capítulo 9 provisional ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_Roma_Atrii]]), ejecutando los beats 12-c (nace i Sussurri) y 13-b (el chico del Patio) del [[01_Timeline/01_Primer_Borrador_Beats]], basado en los bocetos ya existentes en `07_Ideas/Origen_de_i_Sussurri.md` y `07_Ideas/El_Chico_Del_Patio.md`.
 
 **Estructura en tres partes, dos POV:** (1) Chiara, POV — el evento altruista donde conoce y contrata a Kenji Oda, antes del torneo del Capítulo 8; (2) Chiara, POV — la misma noche del torneo del Capítulo 8 (thread paralelo, no mostrado ahí): Tommaso le hace saber que ya le contaron "la versión" de su pasado en Palermo, mientras ve a Kenji resolver un conflicto en la caja sin escándalo — el contraste la decide a reclutarlo como su primer sussurro; (3) corte a Cole, POV — semanas después: intercepta al mensajero menor cerca de El Patio, reconoce el papel de Chiara por letra y aroma, la confronta en el casino, ella se disculpa y cierra con la promesa aplazada sobre el significado de "Roma Atrii".
 
@@ -1873,11 +1873,11 @@ Contra [[12_Craft_Policies/Redaccion_De_Capitulos]]: apertura por residuo desde 
 
 Marcados como ESCRITO los beats 12-c y 13-b en el timeline. Actualizado [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] (Capítulo 9 movido a "en montaje"; "próximo paso" apunta ahora al Capítulo 10). **Pendiente:** regenerar el EPUB.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_Roma_Atrii.md` (nuevo), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `07_Ideas/El_Chico_Del_Patio.md`, `07_Ideas/Origen_de_i_Sussurri.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_Roma_Atrii.md` (nuevo), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `07_Ideas/El_Chico_Del_Patio.md`, `07_Ideas/Origen_de_i_Sussurri.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
 
 ## [2026-08-26] write | Capítulo 10 — El mirador
 
-Redactado el Capítulo 10 provisional ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Mirador]]), ejecutando el beat 15-a / [[06_Relationships/Hitos]], H11, basado en el boceto ya existente en `07_Ideas/El_Mirador.md`.
+Redactado el Capítulo 10 provisional ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Mirador]]), ejecutando el beat 15-a / [[06_Relationships/Hitos]], H11, basado en el boceto ya existente en `07_Ideas/El_Mirador.md`.
 
 **Apertura por residuo:** el capítulo abre profundizando "Roma Atrii", que el Capítulo 9 dejó sin resolver — Cole distraído por el nombre sin poder nombrar por qué, y es Chiara quien nota la distancia y propone bolos para sacarlo de ahí. La invitación nace directamente del roce del capítulo anterior, no de la nada.
 
@@ -1887,11 +1887,11 @@ Contra [[12_Craft_Policies/Redaccion_De_Capitulos]]: la confesión de Dale y Rut
 
 Marcado como ESCRITO el beat 15-a en el timeline. Actualizado [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] (Capítulo 10 movido a "en montaje"; "próximo paso" apunta ahora a los Capítulos 11-12, el infarto de Héctor). **Pendiente:** regenerar el EPUB.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Mirador.md` (nuevo), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `07_Ideas/El_Mirador.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Mirador.md` (nuevo), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `07_Ideas/El_Mirador.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
 
 ## [2026-08-26] write | Capítulo 11 — El portón
 
-Redactado el Capítulo 11 provisional ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/11_El_Porton]]), ejecutando la primera mitad del beat 15-b / [[06_Relationships/Hitos]], H10, basado en el boceto de `07_Ideas/El_Infarto_De_Hector.md`. Se dividió H10 en dos capítulos por volumen de material — la segunda mitad (el hospital) queda para el Capítulo 12.
+Redactado el Capítulo 11 provisional ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/11_El_Porton]]), ejecutando la primera mitad del beat 15-b / [[06_Relationships/Hitos]], H10, basado en el boceto de `07_Ideas/El_Infarto_De_Hector.md`. Se dividió H10 en dos capítulos por volumen de material — la segunda mitad (el hospital) queda para el Capítulo 12.
 
 **Apertura por residuo:** la mañana siguiente al cierre íntimo del Capítulo 10 — sin describir la noche, sólo la quietud de después — antes de que el teléfono interrumpa. El contraste entre esa calma y la crisis que sigue es deliberado.
 
@@ -1901,11 +1901,11 @@ Contra [[12_Craft_Policies/Redaccion_De_Capitulos]]: ningún trasfondo se explic
 
 Marcada la primera mitad del beat 15-b como ESCRITA en el timeline; la segunda queda pendiente. Actualizado [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] (Capítulo 11 en montaje; "próximo paso" apunta al Capítulo 12). **Pendiente:** regenerar el EPUB.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/11_El_Porton.md` (nuevo), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/11_El_Porton.md` (nuevo), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
 
 ## [2026-08-26] write | Capítulo 12 — Cuatro letras (cierra el bloque de Capítulos 8-12)
 
-Redactado el Capítulo 12 provisional ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/12_Cuatro_Letras]]), ejecutando la segunda mitad del beat 15-b / [[06_Relationships/Hitos]], H10, basado en el boceto de `07_Ideas/El_Infarto_De_Hector.md`. Con este capítulo se completa todo el bloque confirmado el 2026-08-26 (Capítulos 8-12).
+Redactado el Capítulo 12 provisional ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/12_Cuatro_Letras]]), ejecutando la segunda mitad del beat 15-b / [[06_Relationships/Hitos]], H10, basado en el boceto de `07_Ideas/El_Infarto_De_Hector.md`. Con este capítulo se completa todo el bloque confirmado el 2026-08-26 (Capítulos 8-12).
 
 **Estructura:** salto breve a dos días antes (Chiara sola con Héctor: "somos de mundos distintos" / "juntos llegarían más lejos que separados") → presente, Cole y Chiara llegan juntas al hospital, ella les da el cuarto → la conversación de Héctor con Cole: "eso es de ella, no tuyo", y la revelación nueva — Héctor cuenta, por primera vez en el libro, que él mismo dejó ir a una mujer sin decirle "amor" completo mientras todavía servía de algo, y envejeció enojado por eso → cierre wordless: Chiara vuelve con flores, los dos hombres con la misma cara de quien acaba de oír algo que no va a repetir, la mano en el hombro, la mano sobre la mano.
 
@@ -1913,11 +1913,11 @@ Contra [[12_Craft_Policies/Redaccion_De_Capitulos]]: el chaperonaje de Héctor n
 
 Resuelto el PENDIENTE viejo de [[02_Characters/Hector_Navarro]] sobre "el momento en que le dice a Cole lo que nadie más puede decirle" — ya no queda abierto. Marcado el beat 15-b completo como ESCRITO en el timeline. Actualizado [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]]: los cuatro bocetos de `07_Ideas/` que venían de sesiones anteriores (Origen_de_i_Sussurri, El_Chico_Del_Patio, El_Mirador, El_Infarto_De_Hector) ya están todos ejecutados en capítulo. "Próximo paso" cambia de "escribir capítulo X" a "auditar Capítulos 8-12" — no hay más material pre-planificado en cola; lo siguiente sin escribir es H3 (beat 18) en adelante. **Pendiente:** regenerar el EPUB; crear ficha de voz de Héctor (no existía y se escribió sin ella).
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/12_Cuatro_Letras.md` (nuevo), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `07_Ideas/El_Infarto_De_Hector.md`, `02_Characters/Hector_Navarro.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/12_Cuatro_Letras.md` (nuevo), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `07_Ideas/El_Infarto_De_Hector.md`, `02_Characters/Hector_Navarro.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
 
 ## [2026-08-26] build | EPUB regenerado con los Capítulos 8-12
 
-Corrida `tools/epub-build/build_epub.py` (pandoc 3.10.1). Los 12 capítulos de Part_01_El_Encuentro_Y_La_Nada se incluyeron sin error. Salida: `tools/epub-build/output/Seda_y_Polvora.epub` (2.07 MB).
+Corrida `tools/epub-build/build_epub.py` (pandoc 3.10.1). Los 12 capítulos de Part_01_Dos_Mundos se incluyeron sin error. Salida: `tools/epub-build/output/Seda_y_Polvora.epub` (2.07 MB).
 
 **Archivos tocados:** `tools/epub-build/output/Seda_y_Polvora.epub`, `tools/epub-build/output/Seda_y_Polvora.manuscript.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
 
@@ -1925,7 +1925,7 @@ Corrida `tools/epub-build/build_epub.py` (pandoc 3.10.1). Los 12 capítulos de P
 
 El autor trajo una revisión de 5 hallazgos sobre los Capítulos 8-12 recién escritos. Se resolvieron los 5:
 
-**1. Contradicción con las reglas duras de Danny.** Tenerlo activo dentro del robo contradecía su ficha ("testigo, no operativo" y "no debe duplicar a Nadir"). Se eligió la opción más barata (B, del autor): Nadir entra solo a la tienda; Danny se queda en el auto como chofer/vigía y lo atrapan por asociación al salir. No fue necesario tocar [[02_Characters/Daniel_Hayes]] — el fix fue solo de prosa en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/11_El_Porton]].
+**1. Contradicción con las reglas duras de Danny.** Tenerlo activo dentro del robo contradecía su ficha ("testigo, no operativo" y "no debe duplicar a Nadir"). Se eligió la opción más barata (B, del autor): Nadir entra solo a la tienda; Danny se queda en el auto como chofer/vigía y lo atrapan por asociación al salir. No fue necesario tocar [[02_Characters/Daniel_Hayes]] — el fix fue solo de prosa en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/11_El_Porton]].
 
 **2. El golpe como iniciativa propia de Nadir.** Se agregó una línea explícita de que Nadir esperó a que Cole saliera de la ciudad para hacer algo que Cole nunca le habría dejado tocar con dinero de Almendra Towing — conecta directo con "Cole lo mantiene lejos de las finanzas centrales" ya establecido en su ficha. Se agregó también, en la escena del casino, una grieta de confianza nueva y sin resolver: "Nadir nunca le había contado de la tienda. No hacía falta preguntarle por qué."
 
@@ -1937,7 +1937,7 @@ El autor trajo una revisión de 5 hallazgos sobre los Capítulos 8-12 recién es
 
 Se regeneró el EPUB con los cambios de los puntos 1-3.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/11_El_Porton.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Mirador.md`, `12_Craft_Policies/revelations/Book_01_Seda_y_Polvora.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/11_El_Porton.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Mirador.md`, `12_Craft_Policies/revelations/Book_01_Seda_y_Polvora.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
 
 ## [2026-08-27] edit | Reordenamiento: H3 pasa a Capítulo 8, renumeración de Capítulos 8-12 a 9-13, y redacción de "La noche del ladrillo"
 
@@ -1947,13 +1947,13 @@ El autor cayó en cuenta de un error de orden: H3 ("la noche del ladrillo") tien
 
 **Corrección del orden en [[06_Relationships/Hitos]]:** la tabla "Orden en la novela" tenía a H3 después de H11 y H10, lo cual era el mismo error. Se corrigió: H3 ahora en posición 4 (antes de H11 y H10, que bajan a 5 y 6).
 
-**Nuevo Capítulo 8 — "La noche del ladrillo"** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/08_La_Noche_Del_Ladrillo]]), ejecutando H3 completo (a, b, c) tal como está fijado en [[06_Relationships/Hitos]] — **CANON DEL AUTOR con líneas de diálogo canon citadas textualmente**, sin reescribirlas: el mensaje de Chiara a Cole, "Bueno… mis calcetas son blancas", "Vine con unos amigos" / "¿No quieres un ladrillo?" / "Nooo, es demasiado público", "Qué bobo eres", "Te veo después". Tres movimientos: el florero (fiesta de blanco con Blake, el Peugeot, el mensaje sin respuesta), las calcetas blancas (Dario en la entrada — conversación breve inventada por el agente, marcada discutible y resuelta como PENDIENTE de H3 en Hitos —, la llegada de Cole/Nadir/Danny/Héctor mal vestidos), el ladrillo (el pasillo de los baños, el ladrillo de arcilla, la despedida). Cierra con la revelación interna de Chiara (Blake llena el espacio, Cole sólo existe en el que se ganó) sin que ella la diga en voz alta, tal como exige la restricción de escritura del hito.
+**Nuevo Capítulo 8 — "La noche del ladrillo"** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/08_La_Noche_Del_Ladrillo]]), ejecutando H3 completo (a, b, c) tal como está fijado en [[06_Relationships/Hitos]] — **CANON DEL AUTOR con líneas de diálogo canon citadas textualmente**, sin reescribirlas: el mensaje de Chiara a Cole, "Bueno… mis calcetas son blancas", "Vine con unos amigos" / "¿No quieres un ladrillo?" / "Nooo, es demasiado público", "Qué bobo eres", "Te veo después". Tres movimientos: el florero (fiesta de blanco con Blake, el Peugeot, el mensaje sin respuesta), las calcetas blancas (Dario en la entrada — conversación breve inventada por el agente, marcada discutible y resuelta como PENDIENTE de H3 en Hitos —, la llegada de Cole/Nadir/Danny/Héctor mal vestidos), el ladrillo (el pasillo de los baños, el ladrillo de arcilla, la despedida). Cierra con la revelación interna de Chiara (Blake llena el espacio, Cole sólo existe en el que se ganó) sin que ella la diga en voz alta, tal como exige la restricción de escritura del hito.
 
 Contra [[12_Craft_Policies/Redaccion_De_Capitulos]]: se revisaron las fichas de voz de Chiara, Dario y Cole antes de escribir sus líneas (Blake no tiene ficha de voz propia, se escribió desde su caracterización en Hitos: vanidoso, no cruel). Se respetaron las restricciones explícitas del hito: nadie nombra el parecido físico entre Blake y Cole, Cole no compite ni sabe que hay competencia, el ladrillo no se explica.
 
 Se regeneró el EPUB con los 13 capítulos en el orden correcto.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/08_La_Noche_Del_Ladrillo.md` (nuevo), `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Farol.md`, `10_Roma_Atrii.md`, `11_El_Mirador.md`, `12_El_Porton.md`, `13_Cuatro_Letras.md` (renombrados), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `06_Relationships/Hitos.md`, `02_Characters/Hector_Navarro.md`, `07_Ideas/El_Infarto_De_Hector.md`, `07_Ideas/El_Mirador.md`, `07_Ideas/Origen_de_i_Sussurri.md`, `07_Ideas/El_Chico_Del_Patio.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/08_La_Noche_Del_Ladrillo.md` (nuevo), `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_El_Farol.md`, `10_Roma_Atrii.md`, `11_El_Mirador.md`, `12_El_Porton.md`, `13_Cuatro_Letras.md` (renombrados), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `06_Relationships/Hitos.md`, `02_Characters/Hector_Navarro.md`, `07_Ideas/El_Infarto_De_Hector.md`, `07_Ideas/El_Mirador.md`, `07_Ideas/Origen_de_i_Sussurri.md`, `07_Ideas/El_Chico_Del_Patio.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
 
 ## [2026-08-27] edit | Auditoría de continuidad, Capítulo 9 (El farol) contra el nuevo orden
 
@@ -1965,7 +1965,7 @@ Revisión pedida por el autor tras insertar el Capítulo 8 (la noche del ladrill
 
 Se revisó también que no hubiera menciones de Blake ni de "primera vez" duplicadas entre los Capítulos 8-13 — ninguna encontrada; Blake no vuelve a aparecer en el bloque, consistente con que su cierre sigue PENDIENTE. Se regeneró el EPUB.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Farol.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/08_La_Noche_Del_Ladrillo.md`, `06_Relationships/Hitos.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_El_Farol.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/08_La_Noche_Del_Ladrillo.md`, `06_Relationships/Hitos.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
 
 ## [2026-08-27] edit | Auditoría de continuidad, Capítulo 10 (Roma Atrii) contra el nuevo orden
 
@@ -1973,7 +1973,7 @@ Continuación de la auditoría capítulo por capítulo. El cuerpo del texto no t
 
 **Único fix:** el comentario de metadatos al inicio del archivo (invisible en el EPUB, pandoc lo descarta) todavía decía que la noche del torneo ocurría en el "Capítulo 8" — corregido a Capítulo 9. No se regeneró el EPUB porque el cambio no afecta el contenido visible.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_Roma_Atrii.md`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_Roma_Atrii.md`, `log.md`.
 
 ## [2026-08-27] edit | Auditoría de continuidad, Capítulo 11 (El mirador) contra el nuevo orden
 
@@ -1981,7 +1981,7 @@ Continuación de la auditoría. El cuerpo del texto está limpio: la apertura ("
 
 **Único fix:** el comentario de metadatos decía "días después del Capítulo 9 (el roce del chico del Patio)" — esa escena ahora vive en el Capítulo 10, no en el 9. Corregido. No se regeneró el EPUB (sin cambio visible).
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/11_El_Mirador.md`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/11_El_Mirador.md`, `log.md`.
 
 ## [2026-08-27] edit | Auditoría de continuidad, Capítulos 12 (El portón) y 13 (Cuatro letras) contra el nuevo orden
 
@@ -1991,7 +1991,7 @@ Cierre de la auditoría capítulo por capítulo tras el reordenamiento. Ambos cu
 
 **Con esto queda cerrada la auditoría de los seis capítulos del bloque (8-13).** Resumen: un fix de contenido real (la línea de Darío sobre el torneo, ya corregida en la pasada del Capítulo 9), un residuo agregado (el ladrillo, Capítulo 9), y cinco correcciones de metadatos/comentarios en los Capítulos 10-13. Ninguna requirió regenerar el EPUB salvo la del Capítulo 9. El EPUB actual ya refleja todo el contenido visible correcto.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/12_El_Porton.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/13_Cuatro_Letras.md`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/12_El_Porton.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/13_Cuatro_Letras.md`, `log.md`.
 
 ## [2026-08-27] write | Capítulo 14 — Sin rastro (beats 16 y 17)
 
@@ -1999,11 +1999,11 @@ Antes de escribir, se detectó un choque de diseño: [[06_Relationships/Cole_y_C
 
 Se preguntó al autor cómo resolverlo. Opción elegida: **el beat 16 es un ensayo menor, no se declara "la primera" en ningún momento de la prosa — H5 conserva el título como escalada del mismo método, cuando lo que protegen deja de ser un negocio y pasa a ser ella.** Se actualizaron las notas de diseño en ambos archivos para dejar la jerarquía explícita antes de escribir, evitando que quede como contradicción para el autor o para futuras sesiones.
 
-**El capítulo** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_Sin_Rastro]]): un huésped del Monarch sale ebrio de madrugada, choca un auto contra una farola y se va. Chiara llama a Cole antes de que se convierta en demanda contra el casino. Él se lleva el auto con la grúa chica (con ayuda de Danny) y lo desarma en el taller; ella no toca las cámaras —eso habría sido el error— sino que construye alrededor de ellas una versión verificable en cada detalle comprobable, sin mentir en nada. Se reparten el problema sin discutir quién hace qué. Ninguno de los dos nombra "fórmula" ni "sociedad". Cierra con una escena corta desde Darío: se entera por Tommaso de que Chiara resolvió el incidente sola, y lo anota — no como amenaza, no como activo — como variación. Ejecuta los beats 16 y 17 completos.
+**El capítulo** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_Sin_Rastro]]): un huésped del Monarch sale ebrio de madrugada, choca un auto contra una farola y se va. Chiara llama a Cole antes de que se convierta en demanda contra el casino. Él se lleva el auto con la grúa chica (con ayuda de Danny) y lo desarma en el taller; ella no toca las cámaras —eso habría sido el error— sino que construye alrededor de ellas una versión verificable en cada detalle comprobable, sin mentir en nada. Se reparten el problema sin discutir quién hace qué. Ninguno de los dos nombra "fórmula" ni "sociedad". Cierra con una escena corta desde Darío: se entera por Tommaso de que Chiara resolvió el incidente sola, y lo anota — no como amenaza, no como activo — como variación. Ejecuta los beats 16 y 17 completos.
 
 Se regeneró el EPUB con los 14 capítulos.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_Sin_Rastro.md` (nuevo), `06_Relationships/Cole_y_Chiara.md`, `06_Relationships/Hitos.md`, `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_Sin_Rastro.md` (nuevo), `06_Relationships/Cole_y_Chiara.md`, `06_Relationships/Hitos.md`, `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
 
 ## [2026-08-27] design + refactor | Nuevos Hitos H12 ("El corral") y H13 ("El pañuelo"), segundo reordenamiento de capítulos
 
@@ -2021,11 +2021,11 @@ El autor entregó canon nuevo: el ataque a Chiara (un golpe cerrando un corral, 
 
 ## [2026-08-27] write | Capítulos 9 y 10 — El corral / El loft del soltero (H12 completo)
 
-Redactados los dos capítulos que ejecutan [[06_Relationships/Hitos]], H12 completo, según el diseño ya registrado en la sesión anterior. **Capítulo 9** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Corral]]): abre profundizando el residuo del Capítulo 8 (la certeza no dicha de Chiara sobre Cole); Chiara recibe un golpe por la espalda cerrando el corral en Bellandi Ridge Vineyards, sin forcejeo ni segunda agresión, y no despierta hasta el hospital; Matteo avisa a Cole; Cole investiga por su cuenta (capataz, camino de tierra, barrio) sin encontrar ninguna pista; cierra con el traslado a la Casa Comunitaria de La Almendra, donde Nadir la recibe con cortesía fría — primer asomo de la fricción que se desarrolla en el Capítulo 10.
+Redactados los dos capítulos que ejecutan [[06_Relationships/Hitos]], H12 completo, según el diseño ya registrado en la sesión anterior. **Capítulo 9** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_El_Corral]]): abre profundizando el residuo del Capítulo 8 (la certeza no dicha de Chiara sobre Cole); Chiara recibe un golpe por la espalda cerrando el corral en Bellandi Ridge Vineyards, sin forcejeo ni segunda agresión, y no despierta hasta el hospital; Matteo avisa a Cole; Cole investiga por su cuenta (capataz, camino de tierra, barrio) sin encontrar ninguna pista; cierra con el traslado a la Casa Comunitaria de La Almendra, donde Nadir la recibe con cortesía fría — primer asomo de la fricción que se desarrolla en el Capítulo 10.
 
 **Durante la escritura, el autor pidió insertar una escena adicional:** con Chiara todavía inconsciente en el hospital, Cole le toma la mano y dice la línea canon completa: *"Te vas a mejorar, ¿vale? Eres la mujer más fuerte que tengo la dicha de haber conocido, y esto no te va a ganar la partida."* Pausa. *"Chiara."* Es un momento sin testigos — ella no lo oye — y queda como el único lugar del libro, hasta ahora, donde Cole dice algo así en voz alta sin que nadie se lo cobre. Registrado también en [[06_Relationships/Hitos]], H12.
 
-**Capítulo 10** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Loft_Del_Soltero]]): la fricción con Nadir escala hasta una conversación directa en el taller ("esto no es un hotel, khoya"); Cole decide recomprar la casa de sus padres sin dar detalles; la vacía, le pide a Chiara ayuda para "un loft para soltero"; ella la diseña y la paga entera, de cara a los demás como "apoyo del casino"; cierra con el montaje de la vida doméstica que crece por costumbre (libro, manta, cepillo de dientes, café listo por las mañanas) y un beat final desde Nadir, viendo desde el auto que su mejor amigo ya construyó algo que no cabe en ninguna advertencia.
+**Capítulo 10** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]]): la fricción con Nadir escala hasta una conversación directa en el taller ("esto no es un hotel, khoya"); Cole decide recomprar la casa de sus padres sin dar detalles; la vacía, le pide a Chiara ayuda para "un loft para soltero"; ella la diseña y la paga entera, de cara a los demás como "apoyo del casino"; cierra con el montaje de la vida doméstica que crece por costumbre (libro, manta, cepillo de dientes, café listo por las mañanas) y un beat final desde Nadir, viendo desde el auto que su mejor amigo ya construyó algo que no cabe en ninguna advertencia.
 
 **Fixes de continuidad detectados al escribir, todos de metadatos (comentarios invisibles en el EPUB) salvo donde se indica:**
 - `11_El_Farol.md`, `12_Roma_Atrii.md`, `13_El_Mirador.md`, `14_El_Porton.md`, `15_Cuatro_Letras.md`, `16_Sin_Rastro.md`: sus comentarios de "Ventana temporal" seguían citando los números de capítulo de ANTES del segundo reordenamiento (ej. "días después del Capítulo 10" cuando ese capítulo ahora es el 12). Corregidos todos para citar los números actuales. El de `11_El_Farol.md` además se amplió para dejar explícito que de por medio transcurrió todo el arco de H12.
@@ -2035,11 +2035,11 @@ Redactados los dos capítulos que ejecutan [[06_Relationships/Hitos]], H12 compl
 
 Se regeneró el EPUB (232,271 caracteres, 16 capítulos). Actualizado `98_Agent_Handoff/CURRENT_BRIEF.md` (conteo de capítulos, Cap. 9-10 marcados ESCRITO, siguiente paso apunta al beat 19/Capítulo 17).
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Corral.md` (nuevo), `10_El_Loft_Del_Soltero.md` (nuevo), `11_El_Farol.md`, `12_Roma_Atrii.md`, `13_El_Mirador.md`, `14_El_Porton.md`, `15_Cuatro_Letras.md`, `16_Sin_Rastro.md`, `06_Relationships/Hitos.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_El_Corral.md` (nuevo), `10_El_Loft_Del_Soltero.md` (nuevo), `11_El_Farol.md`, `12_Roma_Atrii.md`, `13_El_Mirador.md`, `14_El_Porton.md`, `15_Cuatro_Letras.md`, `16_Sin_Rastro.md`, `06_Relationships/Hitos.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
 
 ## [2026-08-27] edit | Capítulo 7 — Ambos (pasada de corrección + ajustes de canon)
 
-Reescritura completa del [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos]] por pedido del autor: el esqueleto servía pero la escena leía como intercambio de diálogos sin peso, no se sentía el paso de las horas ni el cierre de la distancia entre los dos. Cinco cambios:
+Reescritura completa del [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/07_Ambos]] por pedido del autor: el esqueleto servía pero la escena leía como intercambio de diálogos sin peso, no se sentía el paso de las horas ni el cierre de la distancia entre los dos. Cinco cambios:
 
 1. **Primera comida.** La primera vez que Cole le lleva de comer (oficina administrativa, noche de la máquina de hielo) deja de ser hamburguesa+malteada y pasa a ser una **torta de La Esquina de Mabel sin mostaza**, porque **Chiara es alérgica a la mostaza** — dato que ella mencionó una vez a Mabel y que Cole retuvo. Hamburguesas y malteadas quedan sólo para la noche del penthouse. Cole se borra del gesto ("Mabel la preparó. Yo cargué la bolsa").
 2. **La escena de la música crece y es el centro del capítulo.** Cole traduce el tono de *The World Is Yours* y de ahí cuenta que es su música al volante: carreras en Kingsley Field, el Peugeot 106 rojo, "el terror de la policía"; Chiara comenta lo curioso de que un coche clásico corra así "sin terminar trepado en una farola" y Cole le insinúa que algún día lo acompañe. Al terminar la canción, hueco donde **Cole le cuenta de Michael Grayson (muerto de cáncer) y de que se hace cargo de Marisol**, con una sonrisa que no es la del hombre de negocios — arranca la empatía de Chiara (eco parcial de su propia pérdida de Corrado, rozado sin subrayar). Chiara **traduce de verdad** *Un anno d'amore* y le dice lo que Mina quiso plasmar. Ya no cruzan "sin traducción".
@@ -2051,7 +2051,7 @@ Reescritura completa del [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_
 
 **Pendiente menor:** enlazar la aparición del Cap. 7 en las fichas de [[02_Characters/Michael_Grayson]] y [[02_Characters/Marisol_Grayson]] (primera vez que Cole habla de ellos en página). EPUB sin regenerar.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos.md`, `06_Relationships/Hitos.md`, `06_Relationships/Cole_y_Chiara.md`, `02_Characters/Chiara_Bellandi.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/07_Ambos.md`, `06_Relationships/Hitos.md`, `06_Relationships/Cole_y_Chiara.md`, `02_Characters/Chiara_Bellandi.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
 
 ## [2026-08-27] edit | Capítulo 7 — Ambos (segunda pasada: anécdota de Chiara)
 
@@ -2059,7 +2059,7 @@ Por pedido del autor, se añadió un beat para que la noche no quede asimétrica
 
 Es material **ya sembrado en el Capítulo 2** (recuerdo del vuelo); aquí lo dice en voz alta y a él por primera vez. Corrección de canon: la frase es de **Corrado**, no "de la Ardizzone" — el manuscrito del Cap. 2 (`02_Demasiado_Listo.md`, líneas 51-63) es la versión buena; la nota del CURRENT_BRIEF la había atribuido mal.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos.md`, `06_Relationships/Hitos.md` (ruta de H2-b, ítem 1-b nuevo), `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/07_Ambos.md`, `06_Relationships/Hitos.md` (ruta de H2-b, ítem 1-b nuevo), `log.md`.
 
 ## [2026-08-27] edit | Capítulo 2 — recorte del recuerdo de la cámara (pago movido al Cap. 7)
 
@@ -2067,7 +2067,7 @@ Complemento de la sesión anterior. Para que la anécdota de Chiara **estrene** 
 
 Efecto buscado: el Cap. 2 planta el rasgo (observadora que documenta en vez de estar), el Cap. 7 lo paga con la frase + el gesto de que ella elija contarlo.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo.md`, `06_Relationships/Hitos.md` (nota del ítem 1-b), `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/02_Demasiado_Listo.md`, `06_Relationships/Hitos.md` (nota del ítem 1-b), `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
 
 ## [2026-08-27] edit | Capítulo 7 — Ambos (beat de la cicatriz en la silla de estética)
 
@@ -2075,7 +2075,7 @@ Añadido a pedido del autor: después de acomodarle el mechón, Chiara baja los 
 
 Se enlazó con el beat de la calavera del vestidor (dos deflexiones seguidas, de signo opuesto: la cicatriz convierte la herida en gratitud, la calavera da el mito sin los hechos). Línea nueva de narrador en el vestidor: "Ya había preguntado una cosa esa noche y él le había contestado con un nombre; entendió que ésta no venía con nombre."
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos.md`, `06_Relationships/Hitos.md` (ruta de H2-b, ítem 4), `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/07_Ambos.md`, `06_Relationships/Hitos.md` (ruta de H2-b, ítem 4), `log.md`.
 
 ## [2026-08-27] edit | Capítulo 7 — Ambos (a Chiara se le patina el italiano por la hierba)
 
@@ -2083,19 +2083,19 @@ A pedido del autor, se sembraron deslices al italiano en los diálogos de Chiara
 
 De paso queda **sembrada en página la futura clase de italiano**: en el jacuzzi, Cole pregunta qué dijo y ella responde "Lo mismo, en otro idioma. Algún día te enseño" — primer anclaje del tercer tiempo del "cruce de idiomas".
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos.md`, `06_Relationships/Hitos.md`, `06_Relationships/Cole_y_Chiara.md`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/07_Ambos.md`, `06_Relationships/Hitos.md`, `06_Relationships/Cole_y_Chiara.md`, `log.md`.
 
 ## [2026-08-27] edit | Capítulo 7 — desliz al italiano en la línea de la calavera
 
 Añadido un desliz más (a pedido del autor): la línea de Chiara ante la calavera pasa de "Llevas a la muerte detrás" a **"Tienes a la morte en la espalda"**. Aquí NO lo nota (contraste con el jacuzzi, donde sí). Narrador: "Esta vez no se oyó, o no le importó." La línea de Cole ("yo soy la muerte caminando") intacta. Actualizada la sección canon "La chaqueta y la calavera" en [[06_Relationships/Hitos]] con el nuevo texto y nota de ajuste.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos.md`, `06_Relationships/Hitos.md`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/07_Ambos.md`, `06_Relationships/Hitos.md`, `log.md`.
 
 ## [2026-08-27] edit | Capítulo 7 — la mueca de "basta" tras el jacuzzi
 
 Añadido un beat corto justo después del silencio del jacuzzi: se sostienen la mirada "un segundo, y después el segundo de más" y, en vez de decir algo verdadero o levantarse, los dos hacen a la vez la misma mueca de basta dirigida "a lo que se estaba armando entre los dos". No dentro del silencio del jacuzzi (que se conserva sin defusar), sino como respuesta a él: dejan que uno aterrice sin defensa y al siguiente deciden sin palabras no permitirlo. Queda plantado como gesto compartido, mismo registro que el choque de puños, disponible para recurrir. Registrado en [[06_Relationships/Hitos]], ruta de H2-b ítem 3.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos.md`, `06_Relationships/Hitos.md`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/07_Ambos.md`, `06_Relationships/Hitos.md`, `log.md`.
 
 ## [2026-08-28] edit + canon | Capítulo 9 — El corral (rework del cierre del arco, beats 7-8 de H5)
 
@@ -2117,7 +2117,7 @@ A pedido del autor, se reescribió todo el tramo del Capítulo 9 desde el alta d
 
 El atacante sigue sin identificarse ni sugerirse.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Corral.md`, `06_Relationships/Hitos.md` (H12: nueva subsección "El alta, la coartada conjunta y la salida al norte", ampliadas "La casa común" y "La fricción con Nadir", nota del bolso; H5: nota de fusión ampliada a beats 1-8), `03_Factions/El_Casino.md` (bahía de carga / túnel este), `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_El_Corral.md`, `06_Relationships/Hitos.md` (H12: nueva subsección "El alta, la coartada conjunta y la salida al norte", ampliadas "La casa común" y "La fricción con Nadir", nota del bolso; H5: nota de fusión ampliada a beats 1-8), `03_Factions/El_Casino.md` (bahía de carga / túnel este), `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
 
 ## [2026-08-29] canon | Migración Valcora -> Varek y nuevos hitos
 
@@ -2157,7 +2157,7 @@ Como parte del triaje de contradicciones de la consolidacion de cronologia, se p
 
 **Reservado para el hito del cumpleanos:** la laptop que por fin se queda y el cafe listo cada manana, ahora como los gestos que marcan la mudanza real.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Loft_Del_Soltero.md`, `06_Relationships/Hitos.md` (H12, "El loft del soltero", "El cumpleanos / la mudanza oficial"), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `12_Craft_Policies/milestones/INDEX.md`, `02_Characters/Chiara_Bellandi.md`, `05_Locations/La_Casa.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/PENDING.md`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero.md`, `06_Relationships/Hitos.md` (H12, "El loft del soltero", "El cumpleanos / la mudanza oficial"), `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `12_Craft_Policies/milestones/INDEX.md`, `02_Characters/Chiara_Bellandi.md`, `05_Locations/La_Casa.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/PENDING.md`, `log.md`.
 
 ## [2026-08-29] estructura | Reordenacion H10 -> H4 -> H11 (triaje contradiccion #2, opcion A)
 
@@ -2187,7 +2187,7 @@ Creado `98_Agent_Handoff/TRIAJE_CRONOLOGIA_RELACIONAL.md`: checklist vivo del tr
 
 **PROSA-D -- Hector en Caps. 13-14: revisado, SIN CAMBIOS.** Ambos capitulos ya escriben a Hector empujando hacia un cruce que aun no ocurre, no comentando una pareja hecha: Chiara dice "todavia estoy aprendiendo quien es Cole" y "somos de mundos distintos"; Hector responde en futuro ("juntos van a llegar mas lejos", "se equivoca acompañada"); a Cole le quita la excusa de decidir por ella ("no es tuyo decidir de que la cuidas, es de ella") y el "no se como se hace esto / se hace igual, con miedo y todo" es sobre permitirselo. El cierre canon (mano sobre la mano) no se comenta. No hizo falta editar prosa.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/13_El_Porton.md`, `98_Agent_Handoff/TRIAJE_CRONOLOGIA_RELACIONAL.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/PENDING.md`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/13_El_Porton.md`, `98_Agent_Handoff/TRIAJE_CRONOLOGIA_RELACIONAL.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/PENDING.md`, `log.md`.
 
 **Pendiente de prosa del triaje:** apertura del Cap. 16 (*El mirador*) y redaccion del Cap. 15 (*El dia nublado* / H4). EPUB por regenerar despues.
 
@@ -2201,7 +2201,7 @@ Cierra el bloque de prosa de la reordenacion H10 -> H4 -> H11.
 
 **Pendientes abiertos dentro del Cap. 15 (a confirmar con el autor):** si este es "el dia nublado" que menciono el autor; que contesta Cole exactamente a la pregunta de matar; donde queda Blake Stanton en este punto; el campo de golf necesita ficha en `05_Locations/` y decidir si Cole tiene de verdad un porcentaje.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/15_El_Dia_Nublado.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/16_El_Mirador.md`, `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `06_Relationships/Hitos.md`, `06_Relationships/Cole_y_Chiara.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `12_Craft_Policies/milestones/INDEX.md`, `07_Ideas/El_Mirador.md`, `98_Agent_Handoff/TRIAJE_CRONOLOGIA_RELACIONAL.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/PENDING.md`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/15_El_Dia_Nublado.md`, `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/16_El_Mirador.md`, `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`, `06_Relationships/Hitos.md`, `06_Relationships/Cole_y_Chiara.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `12_Craft_Policies/milestones/INDEX.md`, `07_Ideas/El_Mirador.md`, `98_Agent_Handoff/TRIAJE_CRONOLOGIA_RELACIONAL.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `98_Agent_Handoff/PENDING.md`, `log.md`.
 
 **Pendiente:** regenerar el EPUB (`tools/epub-build/`) con la nueva numeracion y los Caps. 13, 15 y 16 tocados.
 
@@ -2619,7 +2619,7 @@ El autor decidió dividir *Seda y Pólvora* en una trilogía de tres libros: **S
 Una sesion de Claude Desktop se quedo sin cortar y agoto el cupo de 5 horas del autor en minutos; su cierre real nunca llego al vault. El autor volvio a Claude Code (donde siempre debio trabajar) y aporto manualmente los archivos sobrevivientes de esa sesion, en `99_Reference/catchup-09092026/`: el ultimo EPUB vigente, `00_Trilogy_Structure.md` (verificado idéntico -salvo CRLF/LF- al ya vigente en `00_Biblia/`, sin nada que reconciliar) y tres capitulos borrador.
 
 **Integrado esta sesion:**
-- Caps. 24 (*La letra pequena*), 25 (*Bajo juramento*) y 26 (*Libros abiertos*) copiados a `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/`. Corregido un parrafo duplicado evidente en el Cap. 26 (dos versiones seguidas del mismo beat del jacuzzi).
+- Caps. 24 (*La letra pequena*), 25 (*Bajo juramento*) y 26 (*Libros abiertos*) copiados a `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/`. Corregido un parrafo duplicado evidente en el Cap. 26 (dos versiones seguidas del mismo beat del jacuzzi).
 - `00_Book_Map.md`: entradas nuevas para los tres capitulos, seccion "Capitulos planificados" y "Proximo paso" actualizadas (total ahora 26 capitulos).
 - `Hitos.md`: H15 -- La noche del jacuzzi marcado ESCRITO PARCIALMENTE (falta la advertencia de Varek de madrugada, que abre H5/Parte II); resuelto el PENDIENTE de la cicatriz de Cole (convoy de ninos, no pelea de cantina).
 - `02_Characters/Cole_Mercer.md` y `03_Factions/Villani_Motors.md` actualizados con las mismas resoluciones. `02_Characters/Garrett_Cross.md` con nota sobre su "no" parcial del Cap. 25.
@@ -2684,7 +2684,7 @@ Diagnostico solicitado de El mirador, con cotejo de H11, H4 y politicas de voz/r
 
 ## Sesión 2026-09-09 | Claude Code | Cap. 27 — Me encuentro bien (abre la Parte II, H5 lado Chiara)
 
-**Redacción de prosa.** Escrito [[11_Books/Book_01_Seda_y_Polvora/Part_02_La_Construccion/27_Me_Encuentro_Bien]] — **Capítulo 27, primer capítulo de la Parte II** (carpeta `Part_02_La_Construccion/` creada). POV único de Chiara. Ejecuta el núcleo vivo de [[06_Relationships/Hitos#H5 — San Aurelio|H5 — San Aurelio]] desde su lado:
+**Redacción de prosa.** Escrito [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/27_Me_Encuentro_Bien]] — **Capítulo 27, primer capítulo de la Parte II** (carpeta `Part_02_Con_Peores_Personas_He_Tratado/` creada). POV único de Chiara. Ejecuta el núcleo vivo de [[06_Relationships/Hitos#H5 — San Aurelio|H5 — San Aurelio]] desde su lado:
 
 - **Apertura reformulada por el autor:** Chiara despierta motivada por lo de anoche (jacuzzi), con la terraza sur del Monarch reservada para un desayuno siciliano, y se corta al encontrar el mensaje ya acordado de Cole (*"Salí de la ciudad por una situación externa. Me encuentro bien. Te veo al volver."*, enviado 5:40). Su instinto lo conecta con la advertencia de Varek de madrugada.
 - **Cierre de H15:** la advertencia de Varek de madrugada (junto al ascensor privado, tras el jacuzzi) se rinde como **recuerdo comprimido**, no como escena propia. Si el autor la quiere como beat de apertura independiente, se promueve.
@@ -2703,11 +2703,11 @@ Diagnostico solicitado de El mirador, con cotejo de H11, H4 y politicas de voz/r
 
 ## Sesión 2026-09-10 | Claude Code | Cap. 21 — correcciones editoriales (secciones 1-2 del reporte Codex)
 
-**Edición de manuscrito.** Aplicadas al [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/21_El_Mirador]] las correcciones objetivas y de continuidad menor del diagnóstico [[98_Agent_Handoff/sessions/2026-09-09_codex_revision_editorial_cap_21]]:
+**Edición de manuscrito.** Aplicadas al [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/21_El_Mirador]] las correcciones objetivas y de continuidad menor del diagnóstico [[98_Agent_Handoff/sessions/2026-09-09_codex_revision_editorial_cap_21]]:
 
 - **Errores de línea:** «Lo vi el marcador» → «Lo vi en el marcador»; «un chuza limpio» → «una chuza limpia»; «Cuatro pinos cayeron, torpes pero de pie» → «Cuatro pinos cayeron».
 - **Duplicación:** la descripción de la sonrisa que Chiara no calcula aparecía dos veces casi igual (roce en la mejilla y segundo «Yo también»). Se conserva completa en el primer pasaje; el inciso del segundo se abrevió a «—Sonrió—». Diálogo canon («Yo también», «Solo quería oírtelo decir») intacto.
-- **Continuidad — golf:** el residuo de apertura recordaba «el búnker del quinto hoyo». En [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/19_El_Dia_Nublado]] (o su equivalente Cap. 19) el búnker explícito es el del octavo hoyo y la confesión de Chiara llega tres hoyos después. Ajustado a «octavo hoyo».
+- **Continuidad — golf:** el residuo de apertura recordaba «el búnker del quinto hoyo». En [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/19_El_Dia_Nublado]] (o su equivalente Cap. 19) el búnker explícito es el del octavo hoyo y la confesión de Chiara llega tres hoyos después. Ajustado a «octavo hoyo».
 - **Continuidad — botella:** «del que Chiara guardaba solo para las noches…» sugería una reserva del penthouse y contradecía la botella comprada al salir de la bolera. Reformulado a «La botella que habían comprado era un Chiaretto de Bardolino… el que Chiara elegía solo para las noches que quería que fueran algo más que una cena» — inequívocamente la comprada, conservando el rosado y su carga.
 - **Claridad — apertura:** el intercambio «Estás en otro lado» flotaba sin lugar tras una enumeración de momentos distintos. Anclado: «Chiara lo notó una noche en el casino, antes de que él dijera nada».
 
@@ -2721,7 +2721,7 @@ Diagnostico solicitado de El mirador, con cotejo de H11, H4 y politicas de voz/r
 - **Drift — hablante (H11 vs. prosa):** [[06_Relationships/Hitos]] atribuía «¿No me digas que tú...» a Chiara en una sola línea; la prosa aprobada y protegida del Cap. 21 tiene el intercambio de dos réplicas (Cole abre «No me digas que tú...», Chiara la voltea con «No me digas *tú* que no» y entiende que lo provocó). **Decisión del autor: manda la prosa.** Sincronizada la tabla del beat «El drift» en H11 (Hitos.md) al intercambio de dos réplicas, con nota de sincronización fechada. Prosa sin tocar.
 - **Sin resolver:** L218 «Camino hacia atrás» (una sesión previa la cambió desde «Se levantó»; falta tilde y el reporte pedía retirar «Se levantó» sin añadir otro movimiento). Queda para decisión del autor.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/21_El_Mirador.md` (prosa + header), `06_Relationships/Hitos.md` (beat del drift en H11), `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`. **Cap. 21 sigue BORRADOR. Sin commit ni push. EPUB sin regenerar.**
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/21_El_Mirador.md` (prosa + header), `06_Relationships/Hitos.md` (beat del drift en H11), `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`. **Cap. 21 sigue BORRADOR. Sin commit ni push. EPUB sin regenerar.**
 
 ## Sesión 2026-09-10 | Codex — revisión editorial del Cap. 22
 
@@ -2760,7 +2760,7 @@ Header del capítulo (comentario de metadata) actualizado con la decisión del c
 
 **No atendido (pendiente al cerrar la integración del Cap. 22):** residuos documentales en [[02_Characters/Marisol_Grayson]] — sección de graduación que aún presenta el 22 como primer encuentro, pendiente sobre «cómo se conocieron», numeración anterior del capítulo de campamento.
 
-**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/22_La_Promesa.md` (prosa + header), `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`. **Cap. 22 sigue BORRADOR. Sin commit ni push. EPUB sin regenerar.**
+**Archivos tocados:** `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/22_La_Promesa.md` (prosa + header), `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`. **Cap. 22 sigue BORRADOR. Sin commit ni push. EPUB sin regenerar.**
 
 ## [2026-09-09] Claude Code | Fichas de lugar: taller del norte + destilería de Walt
 
@@ -2787,8 +2787,8 @@ Actualizadas ambas fichas, INDEX y relevo (CURRENT_BRIEF, PENDING, DECISIONS). E
 
 Redacción de dos capítulos borrador de la Parte II, continuando desde el Cap. 27.
 
-- **Cap. 28 — *Riesgo pendiente*** ([[11_Books/Book_01_Seda_y_Polvora/Part_02_La_Construccion/28_Riesgo_Pendiente]]). POV único de Cole, en paralelo temporal al 27. Ejecuta el lado de Cole de [[06_Relationships/Hitos#H5 — San Aurelio|H5]] (secciones 12 y ss.): la convocatoria de madrugada tras el jacuzzi, los dos mensajes canon redactados desde su mano (con los borradores que descarta), el trayecto al noreste, y la reunión con [[02_Characters/Warren_Halbrook]] en una instalación federal clausurada **fuera de San Aurelio** (Halbrook no pisa la ciudad hasta la coda del Libro I). Halbrook escrito según ficha: hombre funcional que convirtió el tráfico en logística, papeleo en orden, trata a Cole como "riesgo pendiente que se administra"; reimpone la correa (trabajar para él o Nadir a ICE — "es un papel"). Cole vuelve **golpeado** (dos contratistas, "un recordatorio, no un castigo"; lo baja de categoría) y decide en el camino **no darle a Chiara ningún nombre** — la ironía canon (fue Halbrook, no Varek) queda abierta. **Cierra el pendiente de balance de POV** (una escena con Cole del lado militar/criminal sin Chiara de filtro). NO se resuelve: teatro/años de servicio, qué pasó en la última operación (sólo la versión oblicua de Halbrook), qué gana Halbrook, relación Halbrook–Varek, mecanismo jurídico.
-- **Cap. 29 — *La correa*** ([[11_Books/Book_01_Seda_y_Polvora/Part_02_La_Construccion/29_La_Correa]]). POV Chiara. Cierra **H5 §14 — "La peor noche"** (sola en el loft, la sudadera de Cole como disfraz operativo para que quien mire crea que él está en casa, reza sin ritual) y abre **[[06_Relationships/Hitos#H6 — El pacto|H6]] secciones 1-4**: el regreso golpeado ("entra hablando de otra cosa"), la conversación con las dos líneas canon (*"¿Crees que es así de fácil?"* / *"…puedo vivir sin tu presencia, pero ya es algo que me acostumbré a tener en mi vida"*), Chiara ofreciéndole la salida **sin cadena** (2ª vez; la 1ª fue H4) y **guardándose la tercera línea del taller** ("…entonces lo vas a hacer tú"). Lo que saca a Cole del cuarto corriendo no es la paliza ni el ultimátum: es que Varek se atribuya decidir su vida. Llama a Varek en tres palabras (*"¿Nos podemos reunir?"*) y sale *"como un diablo"*; cierra con Chiara yendo tras él.
+- **Cap. 28 — *Riesgo pendiente*** ([[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/28_Riesgo_Pendiente]]). POV único de Cole, en paralelo temporal al 27. Ejecuta el lado de Cole de [[06_Relationships/Hitos#H5 — San Aurelio|H5]] (secciones 12 y ss.): la convocatoria de madrugada tras el jacuzzi, los dos mensajes canon redactados desde su mano (con los borradores que descarta), el trayecto al noreste, y la reunión con [[02_Characters/Warren_Halbrook]] en una instalación federal clausurada **fuera de San Aurelio** (Halbrook no pisa la ciudad hasta la coda del Libro I). Halbrook escrito según ficha: hombre funcional que convirtió el tráfico en logística, papeleo en orden, trata a Cole como "riesgo pendiente que se administra"; reimpone la correa (trabajar para él o Nadir a ICE — "es un papel"). Cole vuelve **golpeado** (dos contratistas, "un recordatorio, no un castigo"; lo baja de categoría) y decide en el camino **no darle a Chiara ningún nombre** — la ironía canon (fue Halbrook, no Varek) queda abierta. **Cierra el pendiente de balance de POV** (una escena con Cole del lado militar/criminal sin Chiara de filtro). NO se resuelve: teatro/años de servicio, qué pasó en la última operación (sólo la versión oblicua de Halbrook), qué gana Halbrook, relación Halbrook–Varek, mecanismo jurídico.
+- **Cap. 29 — *La correa*** ([[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/29_La_Correa]]). POV Chiara. Cierra **H5 §14 — "La peor noche"** (sola en el loft, la sudadera de Cole como disfraz operativo para que quien mire crea que él está en casa, reza sin ritual) y abre **[[06_Relationships/Hitos#H6 — El pacto|H6]] secciones 1-4**: el regreso golpeado ("entra hablando de otra cosa"), la conversación con las dos líneas canon (*"¿Crees que es así de fácil?"* / *"…puedo vivir sin tu presencia, pero ya es algo que me acostumbré a tener en mi vida"*), Chiara ofreciéndole la salida **sin cadena** (2ª vez; la 1ª fue H4) y **guardándose la tercera línea del taller** ("…entonces lo vas a hacer tú"). Lo que saca a Cole del cuarto corriendo no es la paliza ni el ultimátum: es que Varek se atribuya decidir su vida. Llama a Varek en tres palabras (*"¿Nos podemos reunir?"*) y sale *"como un diablo"*; cierra con Chiara yendo tras él.
 
 **Regla 5 visible en ambos lados:** Cole no nombra a Halbrook; Chiara no entrega la peor línea del taller. Ninguno miente por egoísmo.
 
@@ -2833,15 +2833,15 @@ Actualizados roadmap, INDEX y relevo. Sustituida la nomenclatura heredada a nive
 
 ## 2026-09-10 — Claude Code | Cap. 26: encadenamiento del Consorcio + recuerdos maternos
 
-Pasada de prosa en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/26_Libros_Abiertos]] a pedido del autor. (1) La razón de Chiara para sospechar de Tommaso queda encadenada a su padre en una sola frase ("Es la misma institución que me negó a mi padre. Il Consorzio.") en vez de exposición suelta. (2) Corregida una referencia de lugar: ya no dice "En el Corral no te lo nombré" (El Corral es el título del Cap. 10, no el sitio) sino "en el camino al norte" — el parador de autopista donde ocurre esa conversación en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Corral|Cap. 10]]. (3) Insertado un intercambio de recuerdos maternos, más íntimo que expositivo: Cole pregunta por Marta sin presionar por más detalle del atentado (pregunta sin invadir); Chiara cita la última frase de Marta antes de morir, primero en italiano y luego traducida — **CANON DEL AUTOR nuevo**: "Algún día, mi amada niña, entenderás el precio que tiene sostener el mundo en tus hombros. Solo no olvides que la clave está en no hacerlo sola." Cole responde con un recuerdo propio de Ruth (panqueques con tocino y miel los sábados que Dale no estaba, una canción tarareada cuyo idioma nunca confirma) y su máxima: "Lo único que de verdad tenemos es quiénes somos en el mundo. Y quiénes somos no es otra cosa que cómo elegimos dirigir la vida." La canción de Ruth queda deliberadamente sin nombrar (coherente con "sembrar rasgos nórdicos, no confirmar Noruega todavía"); se investigaron canciones de cuna noruegas reales como referencia, sin citar letra de piezas modernas con derechos vigentes (Egner, Prøysen/Wolgers). Ambas frases registradas en [[02_Characters/Chiara_Bellandi]] ("La última historia de Marta") y [[02_Characters/Cole_Mercer]] ("El recuerdo bueno — los panqueques del sábado"). Cap. 26 sigue BORRADOR sin revisión final del autor. Sin commit. EPUB sin regenerar.
+Pasada de prosa en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/26_Libros_Abiertos]] a pedido del autor. (1) La razón de Chiara para sospechar de Tommaso queda encadenada a su padre en una sola frase ("Es la misma institución que me negó a mi padre. Il Consorzio.") en vez de exposición suelta. (2) Corregida una referencia de lugar: ya no dice "En el Corral no te lo nombré" (El Corral es el título del Cap. 10, no el sitio) sino "en el camino al norte" — el parador de autopista donde ocurre esa conversación en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Corral|Cap. 10]]. (3) Insertado un intercambio de recuerdos maternos, más íntimo que expositivo: Cole pregunta por Marta sin presionar por más detalle del atentado (pregunta sin invadir); Chiara cita la última frase de Marta antes de morir, primero en italiano y luego traducida — **CANON DEL AUTOR nuevo**: "Algún día, mi amada niña, entenderás el precio que tiene sostener el mundo en tus hombros. Solo no olvides que la clave está en no hacerlo sola." Cole responde con un recuerdo propio de Ruth (panqueques con tocino y miel los sábados que Dale no estaba, una canción tarareada cuyo idioma nunca confirma) y su máxima: "Lo único que de verdad tenemos es quiénes somos en el mundo. Y quiénes somos no es otra cosa que cómo elegimos dirigir la vida." La canción de Ruth queda deliberadamente sin nombrar (coherente con "sembrar rasgos nórdicos, no confirmar Noruega todavía"); se investigaron canciones de cuna noruegas reales como referencia, sin citar letra de piezas modernas con derechos vigentes (Egner, Prøysen/Wolgers). Ambas frases registradas en [[02_Characters/Chiara_Bellandi]] ("La última historia de Marta") y [[02_Characters/Cole_Mercer]] ("El recuerdo bueno — los panqueques del sábado"). Cap. 26 sigue BORRADOR sin revisión final del autor. Sin commit. EPUB sin regenerar.
 
 ## 2026-09-10 — Claude Code | Cap. 26: callback del juego de preguntas del golf
 
-Segunda pasada en la misma sesión sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/26_Libros_Abiertos]], a pedido del autor. Antes del cierre del jacuzzi se inserta un callback al juego de preguntas inconcluso del golf ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/19_El_Dia_Nublado|Cap. 19]]): Chiara le pregunta a Cole con quién hablaría si pudiera hablar con alguien que ya no está; él elige a Michael Grayson, por un fin de semana más de campamento con "los tres" (Michael, Marisol, Cole). A Chiara se le escapa una lágrima sin que el narrador lo explique. Devuelta la pregunta, ella elige a Corrado, para hacerle una sola pregunta: si sigue orgulloso de su hija. No contradice que Corrado esté vivo (canon de fondo, Libro II) — Chiara sigue creyéndolo muerto. Cap. 26 sigue BORRADOR. Sin commit. EPUB sin regenerar.
+Segunda pasada en la misma sesión sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/26_Libros_Abiertos]], a pedido del autor. Antes del cierre del jacuzzi se inserta un callback al juego de preguntas inconcluso del golf ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/19_El_Dia_Nublado|Cap. 19]]): Chiara le pregunta a Cole con quién hablaría si pudiera hablar con alguien que ya no está; él elige a Michael Grayson, por un fin de semana más de campamento con "los tres" (Michael, Marisol, Cole). A Chiara se le escapa una lágrima sin que el narrador lo explique. Devuelta la pregunta, ella elige a Corrado, para hacerle una sola pregunta: si sigue orgulloso de su hija. No contradice que Corrado esté vivo (canon de fondo, Libro II) — Chiara sigue creyéndolo muerto. Cap. 26 sigue BORRADOR. Sin commit. EPUB sin regenerar.
 
 ## 2026-09-11 — Claude Code | Cap. 10: microedición global bloque M2
 
-Microedición sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Corral]], a pedido del autor, tras M1 aprobado y M1.5 (nada restaurado de C07 ni "brazos hasta el codo"). Objetivo único: confiar en la acción cuando ya hizo el trabajo. 5 cortes quirúrgicos (~70 palabras): certificación de competencia de Cole tras el rescate en el corral (se conserva la imagen del "uniforme"); reiteración de vergüenza tras soltar al guardia interrogado; repetición casi literal del gesto "un momento de más" de Dario (se conserva la primera aparición); cierre explicativo tras "Pero tampoco me arrepiento" en el parador; certificación redundante de la creencia de Cole sobre favores familiares. Protegida explícitamente la interioridad modelo del encargo, la agencia perceptiva de Chiara y la amenaza de Dario. Sin cambios de estructura, información, canon ni diálogo. Detalle completo con tabla y fragmentos: [[98_Agent_Handoff/sessions/2026-09-11_claude_c10_microedicion_m2]]. Cap. 10 sigue BORRADOR sin revisión final del autor. Sin commit. EPUB sin regenerar.
+Microedición sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Corral]], a pedido del autor, tras M1 aprobado y M1.5 (nada restaurado de C07 ni "brazos hasta el codo"). Objetivo único: confiar en la acción cuando ya hizo el trabajo. 5 cortes quirúrgicos (~70 palabras): certificación de competencia de Cole tras el rescate en el corral (se conserva la imagen del "uniforme"); reiteración de vergüenza tras soltar al guardia interrogado; repetición casi literal del gesto "un momento de más" de Dario (se conserva la primera aparición); cierre explicativo tras "Pero tampoco me arrepiento" en el parador; certificación redundante de la creencia de Cole sobre favores familiares. Protegida explícitamente la interioridad modelo del encargo, la agencia perceptiva de Chiara y la amenaza de Dario. Sin cambios de estructura, información, canon ni diálogo. Detalle completo con tabla y fragmentos: [[98_Agent_Handoff/sessions/2026-09-11_claude_c10_microedicion_m2]]. Cap. 10 sigue BORRADOR sin revisión final del autor. Sin commit. EPUB sin regenerar.
 
 ## [2026-09-11] Codex — M3, fundacion de voz C01-C03
 
@@ -2862,7 +2862,7 @@ Creado [[12_Craft_Policies/CHAPTER_LIFECYCLE]]: la pieza que faltaba junto al si
 
 ## [2026-09-11] Claude Code | Cap. 10 — CLOSE (primera prueba del lifecycle) y TERMINADO
 
-Ejecutado el workflow CLOSE de [[12_Craft_Policies/CHAPTER_LIFECYCLE]] sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Corral]] — primera prueba del sistema, sin AUDIT ni SURGERY, sin tocar prosa. Gates A-F: GREEN. Resultado READY_FOR_AUTHOR; promovido a `Estado: LISTO PARA AUTOR`. El header heredado `Estado: borrador provisional.` se interpretó como equivalente seguro a BORRADOR; el hueco de política que reveló (`CHAPTER_LIFECYCLE.md` no declaraba esa equivalencia) se cerró el mismo día con una "Regla de equivalencia — estados heredados" nueva en la sección Metadata del documento. 2 candidatos no bloqueantes registrados sin resolver: cluster de diálogo largo de Héctor (único HIGH del pilot editorial V1.1, nunca triado, probable falso positivo de "diálogo largo deliberado"); nota obsoleta en `Hitos.md` (H12, Pendientes) sobre duración de hospitalización, ya superada por la prosa actual. Poblada la primera fila de [[12_Craft_Policies/CHAPTER_STATUS]]. Detalle del CLOSE: [[98_Agent_Handoff/sessions/2026-09-11_claude_c10_close_lifecycle_test]].
+Ejecutado el workflow CLOSE de [[12_Craft_Policies/CHAPTER_LIFECYCLE]] sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Corral]] — primera prueba del sistema, sin AUDIT ni SURGERY, sin tocar prosa. Gates A-F: GREEN. Resultado READY_FOR_AUTHOR; promovido a `Estado: LISTO PARA AUTOR`. El header heredado `Estado: borrador provisional.` se interpretó como equivalente seguro a BORRADOR; el hueco de política que reveló (`CHAPTER_LIFECYCLE.md` no declaraba esa equivalencia) se cerró el mismo día con una "Regla de equivalencia — estados heredados" nueva en la sección Metadata del documento. 2 candidatos no bloqueantes registrados sin resolver: cluster de diálogo largo de Héctor (único HIGH del pilot editorial V1.1, nunca triado, probable falso positivo de "diálogo largo deliberado"); nota obsoleta en `Hitos.md` (H12, Pendientes) sobre duración de hospitalización, ya superada por la prosa actual. Poblada la primera fila de [[12_Craft_Policies/CHAPTER_STATUS]]. Detalle del CLOSE: [[98_Agent_Handoff/sessions/2026-09-11_claude_c10_close_lifecycle_test]].
 
 **Mismo día, el autor aprobó el capítulo explícitamente** ("Apruebo el Capítulo 10. Queda TERMINADO"): `Estado:` actualizado a `TERMINADO` en el header del capítulo y en `CHAPTER_STATUS.md` — primer capítulo del vault en alcanzar ese estado bajo el nuevo lifecycle. Sigue en Parte I, que no está cerrada, así que no aplica CONGELADO. Los dos candidatos no bloqueantes quedaron sin resolver; no se tocó prosa, canon ni EPUB. Sin commit ni push.
 
@@ -2914,3 +2914,61 @@ Por encargo del autor, integrado su material como CANON DEL AUTOR en [[02_Charac
 Por encargo del autor, revisadas visualmente las nueve imagenes nuevas de `99_Reference/character_art/` e incorporadas como referencias visibles en siete fichas: Cole, Chiara, Hector, Walter/Walt, Marisol, Danny y Nadir. Anotadas presencia, silueta, gestos y vestuario bajo DISENO; conservados canon, dialogos, biografias y cambios previos del autor. Nadir pasa de no tener referencia fisica a contar con una propuesta visual pendiente de confirmacion.
 
 Discrepancias documentadas: cicatriz y arete de Cole al volante a la derecha frente al canon izquierdo; lunar de Chiara con lateralidad variable; vello facial de Danny frente al canon sin barba; edad 58-60 y procedencia de Walt impresas en la imagen sin confirmacion escrita. Catalogo y criterio en [[99_Reference/character_art/README]], enlazado desde INDEX y README de referencia. Actualizados CURRENT_BRIEF, PENDING y DECISIONS. Sin retoque de imagenes, prosa, EPUB, commit ni push. Pendiente: confirmar rasgos nuevos propuestos, especialmente Nadir y lado del lunar de Chiara.
+
+## [2026-09-12] Claude Code | Cap. 12 — CLOSE final tras SURGERY y LISTO PARA AUTOR
+
+Ejecutado el workflow CLOSE de [[12_Craft_Policies/CHAPTER_LIFECYCLE]] sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/12_El_Farol]] para verificar si la SURGERY del mismo día resolvió el bloqueo de continuidad del CLOSE anterior (secuelas de H12/Cap. 10 desaparecían sin transición entre Cap. 11 y Cap. 12). Sin AUDIT, sin nueva microedición, sin tocar Caps. 13-14.
+
+**Resultado: bloqueador RESUELTO.** Cotejado el cierre de [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/11_El_Loft_Del_Soltero]] (mareo al levantarse rápido y dolor de cabeza todavía activos hacia el final del capítulo) contra la apertura de Cap. 12 (mareo momentáneo al ducharse, "se sostuvo un segundo del borde de vidrio cuando el agua caliente le aflojó el equilibrio de golpe"): el residuo es eco directo, decreciente, se disuelve en la misma escena ("Casi lo consiguió") y no reaparece en el resto del capítulo. Gates A-F: GREEN — ninguno exigió un segundo síntoma ni encontró bloqueador editorial sustantivo en la frase nueva. Promovido `Estado: BORRADOR → LISTO PARA AUTOR` (única línea tocada en el capítulo). Fila añadida en [[12_Craft_Policies/CHAPTER_STATUS]]. `PENDING.md` ítem 12 ("Secuelas del Corral") ya estaba marcado RESUELTO por la SURGERY previa; sin cambios adicionales ahí. Sin canon, EPUB ni commit.
+
+
+## [2026-09-12] Codex | Migracion de nomenclatura de partes del Libro I
+
+Trabajo en develop. Renombradas las carpetas I, II y III segun [[01_Timeline/02_Cadena_De_Eventos_Libro_I#Partes del Libro I — títulos del autor]]; creadas las carpetas IV, V, VI y epilogo con .gitkeep. C01-C26 permanecen en Part_01_Dos_Mundos (C06 sigue como redireccion preexistente); C27-C29 permanecen en Part_02_Con_Peores_Personas_He_Tratado. Part_03_Ardizzone y las cuatro carpetas nuevas no contienen capitulos. Sin otros movimientos.
+
+Propagacion: 60 archivos existentes actualizados (incluye .obsidian/workspace.json, ignorado por Git); 326 referencias tecnicas corregidas. Se conservan 29 menciones de nomenclatura historica fuera del handoff protegido, mas 1 titulo historico dentro de CURRENT_BRIEF. Las 3 etiquetas heredadas en la linea Estado de C27-C29 se conservan por la prohibicion expresa de editar contenido/estados de capitulos salvo rutas tecnicas. Las coincidencias de palabras comunes en prosa, citas o descripciones no son nombres de partes y no se modificaron.
+
+Book Map: solo rutas y el encabezado de navegacion de capitulos en montaje de Parte II; bloques narrativos heredados intactos. Vision y la nota de montaje inicial senalan expresamente el caracter historico de sus tres movimientos y remiten a los titulos actuales, sin reasignar sus descripciones. INDEX y la nota de rutas del roadmap reflejan las carpetas vigentes.
+
+Verificacion: 29 archivos de capitulos conservados; perdidos 0; duplicados 0; cambios de prosa por esta migracion 0. En C06 y C26 solo se sustituyeron 4 rutas en redireccion/comentarios internos. JSON validos y recopilacion del manuscrito comprobada en memoria, sin ejecutar la construccion del EPUB. EPUB existente intacto. git diff revisado: el chequeo de espacios solo senala un salto Markdown de dos espacios ya preexistente en el encargo historico del piloto, que se conserva. Sin commit ni push ejecutados por Codex. Un proceso concurrente incorporo los 32 renombres preparados por git mv en b620973 (0 inserciones y 0 eliminaciones de contenido); se conserva ese commit ajeno. La propagacion de referencias y las cuatro carpetas nuevas siguen pendientes de commit.
+
+Cambios ajenos preservados: al inicio C12, CURRENT_BRIEF y PENDING estaban modificados; el trabajo paralelo los incorporo en a64e892 durante el inventario. Despues Claude cambio unicamente Estado de C12 a LISTO PARA AUTOR, agrego su fila a CHAPTER_STATUS y anoto el CLOSE en CURRENT_BRIEF y log.md. Se conservaron esos cambios; no son parte de la migracion.
+
+### PROPAGACION DIFERIDA — HANDOFF
+
+No se escribio en CURRENT_BRIEF, PENDING ni sessions. Quedan 53 referencias a rutas antiguas en 13 archivos protegidos, mas el titulo historico de CURRENT_BRIEF L45. Las etiquetas I/II/III de esta tabla designan el segmento de carpeta heredado que debe sustituirse por la carpeta vigente de la misma parte; no autorizan mover capitulos ni corregir numeraciones historicas. Lineas verificadas al cierre; pueden desplazarse por el trabajo paralelo.
+
+| Archivo protegido | Lineas y referencias diferidas |
+|---|---|
+| 98_Agent_Handoff/CURRENT_BRIEF.md | L7: I/12_El_Farol; L21: I/10_El_Corral; L33: I/02_Demasiado_Listo; L35: I/10_El_Corral; L37: I/26_Libros_Abiertos, I/19_El_Dia_Nublado; L39: I/26_Libros_Abiertos; L49: II/28_Riesgo_Pendiente, II/29_La_Correa; L60: II/27_Me_Encuentro_Bien, II; L78: I; L116: I/01_Un_Hombre_De_Negocios_Intachable, I/02_Demasiado_Listo; L117: I/03_Los_Viejos_Dias; L119: I/04_La_Primera_Llamada; L120: I/05_La_Casa_No_Quiere_Ruido; L121: I/06_Una_Amiga; L122: I/07_Ambos; L195: I/14_La_Regla_Del_Telefono; L45: titulo historico en registro EPUB |
+| 98_Agent_Handoff/PENDING.md | L33: I/20_Tierra_Buena; L36: III; L46: I/07_Ambos; L47: II/28_Riesgo_Pendiente; L54: I/02_Demasiado_Listo, I/10_El_Corral; L75: I/14_La_Regla_Del_Telefono; L85: I/09_La_Carrera_De_Mascaras |
+| 98_Agent_Handoff/sessions/2026-09-09_claude_cap_27_h5_lado_chiara.md | L5: II/27_Me_Encuentro_Bien, II |
+| 98_Agent_Handoff/sessions/2026-09-09_claude_revision_prosa_caps_24_26.md | L50: I/24_La_Letra_Pequena.md |
+| 98_Agent_Handoff/sessions/2026-09-09_codex_para_claude_reporte_editorial_caps_24_26.md | L28: I/20_Tierra_Buena; L90: I/20_Tierra_Buena |
+| 98_Agent_Handoff/sessions/2026-09-09_codex_revision_editorial_cap_21.md | L5: I/21_El_Mirador |
+| 98_Agent_Handoff/sessions/2026-09-10_codex_revision_editorial_cap_22.md | L5: I/22_La_Promesa |
+| 98_Agent_Handoff/sessions/2026-09-10_codex_revision_editorial_caps_23_26.md | L7: I/23_Sin_Rastro, I/24_La_Letra_Pequena, I/25_Bajo_Juramento, I/26_Libros_Abiertos; L97: II/27_Me_Encuentro_Bien |
+| 98_Agent_Handoff/sessions/2026-09-11_claude_c10_close_lifecycle_test.md | L3: I/10_El_Corral; L34: I/10_El_Corral.md |
+| 98_Agent_Handoff/sessions/2026-09-11_claude_c10_microedicion_m2.md | L3: I/10_El_Corral |
+| 98_Agent_Handoff/sessions/2026-09-11_codex_microedicion_m3_fundacion_de_voz.md | L34: I/01_Un_Hombre_De_Negocios_Intachable; L50: I/01_Un_Hombre_De_Negocios_Intachable; L66: I/02_Demasiado_Listo; L86: I/02_Demasiado_Listo; L102: I/03_Los_Viejos_Dias; L118: I/03_Los_Viejos_Dias |
+| 98_Agent_Handoff/sessions/2026-09-11_codex_microedicion_m4_intuicion_presagio_percepcion.md | L81: I/14_Auster; L93: I/14_Auster; L105: I/16_El_Porton |
+| 98_Agent_Handoff/sessions/2026-09-12_claude_verify_m3_fundacion_de_voz.md | L24: I/02_Demasiado_Listo |
+
+### Nomenclatura historica conservada
+
+Las lineas de abajo documentan disenos anteriores (incluidos nombres de fases), no rutas operativas. No se reconciliaron sus alcances narrativos.
+
+| Archivo | Lineas |
+|---|---|
+| 00_Biblia/Vision.md | 66, 67, 68 |
+| 01_Timeline/00_Estructura_del_Ascenso.md | 40 |
+| 01_Timeline/01_Primer_Borrador_Beats.md | 257 |
+| 01_Timeline/02_Cadena_De_Eventos_Libro_I.md | 3, 11, 47 |
+| 03_Factions/El_Patio.md | 192 |
+| log.md | 2244 |
+| 11_Books/README.md | 9 |
+| 11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md | 59, 71, 131, 154 |
+| 98_Agent_Handoff/ChatGPT/2026-08-29_chatgpt_para_codex_book_map_cinco_partes.md | 29, 30, 31, 129, 192, 498, 675 |
+| 02_Characters/Auditoria_Reparto.md | 231 |
+| 98_Agent_Handoff/ChatGPT/HITO_La_Iglesia_Y_La_Caida_De_Dario_Varek.md | 8 |
+| 11_Books/Book_01_Seda_y_Polvora/00_Front_Matter/00_Nota_Editorial.md | 15, 19, 23 |

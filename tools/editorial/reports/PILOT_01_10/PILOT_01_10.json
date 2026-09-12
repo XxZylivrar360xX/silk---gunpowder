@@ -874,7 +874,7 @@
         }
       },
       "number": 1,
-      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable.md"
+      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable.md"
     },
     {
       "alerts": [
@@ -1713,7 +1713,7 @@
         }
       },
       "number": 2,
-      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo.md"
+      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/02_Demasiado_Listo.md"
     },
     {
       "alerts": [
@@ -2448,7 +2448,7 @@
         }
       },
       "number": 3,
-      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias.md"
+      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/03_Los_Viejos_Dias.md"
     },
     {
       "alerts": [
@@ -2822,7 +2822,7 @@
         }
       },
       "number": 4,
-      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/04_La_Primera_Llamada.md"
+      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/04_La_Primera_Llamada.md"
     },
     {
       "alerts": [
@@ -3206,7 +3206,7 @@
         }
       },
       "number": 5,
-      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/05_La_Casa_No_Quiere_Ruido.md"
+      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/05_La_Casa_No_Quiere_Ruido.md"
     },
     {
       "alerts": [
@@ -3601,7 +3601,7 @@
         }
       },
       "number": 6,
-      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/06_Una_Amiga.md"
+      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/06_Una_Amiga.md"
     },
     {
       "alerts": [
@@ -4086,7 +4086,7 @@
         }
       },
       "number": 7,
-      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos.md"
+      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/07_Ambos.md"
     },
     {
       "alerts": [
@@ -4561,7 +4561,7 @@
         }
       },
       "number": 8,
-      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/08_La_Noche_Del_Ladrillo.md"
+      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/08_La_Noche_Del_Ladrillo.md"
     },
     {
       "alerts": [
@@ -4870,7 +4870,7 @@
         }
       },
       "number": 9,
-      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_La_Carrera_De_Mascaras.md"
+      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_La_Carrera_De_Mascaras.md"
     },
     {
       "alerts": [
@@ -5790,7 +5790,7 @@
         }
       },
       "number": 10,
-      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Corral.md"
+      "path": "11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Corral.md"
     }
   ],
   "config": "tools/editorial/editorial_config.json",

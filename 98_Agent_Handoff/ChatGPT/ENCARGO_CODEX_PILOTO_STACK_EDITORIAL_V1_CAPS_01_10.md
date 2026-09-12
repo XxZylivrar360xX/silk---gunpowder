@@ -5,7 +5,7 @@
 **Branch obligatoria:** `develop`  
 **Tipo:** herramienta editorial local / auditoría determinista  
 **Fase:** PILOTO V1  
-**Corpus inicial:** capítulos 01–10 de `Part_01_El_Encuentro_Y_La_Nada`  
+**Corpus inicial:** capítulos 01–10 de `Part_01_Dos_Mundos`  
 **Modo obligatorio:** `audit_only`  
 **NO modificar prosa. NO autofix. NO commit. NO push.**
 
@@ -139,7 +139,7 @@ No inferirlos mediante `glob` como fuente principal.
 Usar los paths vigentes en `develop`:
 
 ```text
-11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/
+11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/
 ```
 
 y los capítulos numerados 01 a 10 actualmente existentes.

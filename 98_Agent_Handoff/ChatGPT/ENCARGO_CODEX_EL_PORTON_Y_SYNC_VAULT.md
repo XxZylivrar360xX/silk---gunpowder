@@ -26,7 +26,7 @@ No hay que reescribir la arquitectura.
 
 Localizar en `develop`:
 
-`11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/15_El_Porton.md`
+`11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/15_El_Porton.md`
 
 Leerlo completo antes de editar.
 

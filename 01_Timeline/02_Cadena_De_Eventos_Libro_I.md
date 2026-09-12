@@ -22,7 +22,7 @@
 | VI | "Torna a Casa" | Bloque H hasta H1e: vida en la villa, coalición, embarazo secreto, H1 y revelación después de la recuperación. |
 | Epílogo | La tierra bajo sus botas | H1f: llegada física de Halbrook a San Aurelio. Coda exterior breve. |
 
-La extensión de cada parte depende del movimiento narrativo, no de igualar capítulos. La vieja «Parte II» se distribuye ahora entre II–VI y el epílogo. Las carpetas heredadas del manuscrito conservan sus rutas. El EPUB regenerado el 2026-09-10 ya muestra los títulos nuevos de I y II; las demás partes se incorporarán cuando tengan prosa.
+La extensión de cada parte depende del movimiento narrativo, no de igualar capítulos. La vieja «Parte II» se distribuye ahora entre II–VI y el epílogo. Las carpetas del manuscrito usan la nomenclatura vigente desde la migración física del 2026-09-12: C01–C26 permanecen en Parte I y C27–C29 en Parte II; las partes III–VI y el epílogo quedan sin capítulos. El EPUB regenerado el 2026-09-10 ya muestra los títulos nuevos de I y II; las demás partes se incorporarán cuando tengan prosa.
 
 ---
 

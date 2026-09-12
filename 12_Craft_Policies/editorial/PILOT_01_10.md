@@ -2,7 +2,7 @@
 
 - **Fecha:** 2026-08-29.
 - **Estado:** `audit_only`.
-- **Corpus:** capítulos 01–10 de `Part_01_El_Encuentro_Y_La_Nada`, fijados explícitamente en `tools/editorial/pilot_01_10.json`.
+- **Corpus:** capítulos 01–10 de `Part_01_Dos_Mundos`, fijados explícitamente en `tools/editorial/pilot_01_10.json`.
 
 ## Por qué capítulos 1–10
 

@@ -1,6 +1,6 @@
 # La Destilería de Walt
 
-*Ficha de Lugar — DISEÑO (2026-09-09), sobre el beat sembrado en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/12_El_Farol|Cap. 12]] y la escena de [[11_Books/Book_01_Seda_y_Polvora/Part_02_La_Construccion/27_Me_Encuentro_Bien|Cap. 27]]. Registra lo definido y marca lo que falta.*
+*Ficha de Lugar — DISEÑO (2026-09-09), sobre el beat sembrado en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/12_El_Farol|Cap. 12]] y la escena de [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/27_Me_Encuentro_Bien|Cap. 27]]. Registra lo definido y marca lo que falta.*
 
 **Qué es:** una vieja bodega de granos reconvertida en destilería. [[02_Characters/Walter_Keegan|Walt]] hace whisky de maíz en alambique de cobre y lo añeja en barrica nueva; también saca un destilado blanco para tener caja mientras el otro madura.
 **Dónde:** borde industrial de [[05_Locations/San_Aurelio|La Almendra]], del lado del ramal de ferrocarril / el Canal Seco — donde el barrio se vuelve naves, patios de maniobra y bardas. **PENDIENTE** confirmar el punto exacto.
@@ -27,7 +27,7 @@ Es un negocio legal y Walt lo lleva como tal: entra quien tiene algo que hacer a
 - **Resuelve "a qué se dedica Walt al salir":** no vuelve al barrio a esperar. Construye algo legítimo, con el [[03_Factions/El_Casino|Monarch]] como primer cliente fijo (no un favor suelto: contrato de suministro).
 - **La cadena de licor del Monarch pasa ahora, en parte, por un hombre en quien Cole confía sin condiciones.** Nadie lo subraya todavía.
 - **Walt aprende el método de Cole sin decirlo así:** cumple, no se explica de más, entrega tarde antes que entregar flojo, deja que el trabajo le haga la reputación. El método se contagia — tema del libro en una escala chica.
-- **[[11_Books/Book_01_Seda_y_Polvora/Part_02_La_Construccion/27_Me_Encuentro_Bien|Cap. 27 — Me encuentro bien]]:** Chiara viene a preguntarle si sabe algo de Cole. Hablan primero del lote atrasado (le falta barrica) y del método; después deriva a Cole. Walt le enseña el mensaje que Cole le mandó a él, y cierra con su línea sobre la palabra de ella y su corazón.
+- **[[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/27_Me_Encuentro_Bien|Cap. 27 — Me encuentro bien]]:** Chiara viene a preguntarle si sabe algo de Cole. Hablan primero del lote atrasado (le falta barrica) y del método; después deriva a Cole. Walt le enseña el mensaje que Cole le mandó a él, y cierra con su línea sobre la palabra de ella y su corazón.
 
 ## Regla de escritura
 

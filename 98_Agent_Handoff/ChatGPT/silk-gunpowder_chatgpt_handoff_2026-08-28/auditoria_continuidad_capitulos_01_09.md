@@ -26,7 +26,7 @@ El arco de Cole y Chiara es emocionalmente coherente, pero el manuscrito resume 
 
 ## Hallazgo duro
 
-En [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Corral]], la investigación hospitalaria dice primero que:
+En [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_El_Corral]], la investigación hospitalaria dice primero que:
 
 - al cuarto día Cole acepta que no hay pista;
 - después se afirma que a Chiara le dan de alta al tercer día.

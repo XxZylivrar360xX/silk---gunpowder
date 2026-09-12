@@ -67,7 +67,7 @@ La corrección debe atacar ese hueco, no duplicar material que ya funciona.
 
 Archivo:
 
-`11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/05_La_Casa_No_Quiere_Ruido.md`
+`11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/05_La_Casa_No_Quiere_Ruido.md`
 
 ## 3.1. Dar medida al paso del tiempo
 
@@ -162,7 +162,7 @@ Extensión orientativa: **300–600 palabras**, sólo si la escena necesita ese 
 
 Archivo:
 
-`11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/06_Una_Amiga.md`
+`11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/06_Una_Amiga.md`
 
 La primera cena YA funciona.
 
@@ -189,7 +189,7 @@ La cena debe sentirse como consecuencia de semanas de interacción, no como el m
 
 Archivo:
 
-`11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/07_Ambos.md`
+`11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/07_Ambos.md`
 
 Preservar H2-b.
 
@@ -223,7 +223,7 @@ La noche del penthouse debe seguir siendo:
 
 Archivo:
 
-`11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_El_Corral.md`
+`11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_El_Corral.md`
 
 ## Problema actual
 

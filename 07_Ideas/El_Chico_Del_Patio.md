@@ -1,6 +1,6 @@
 # El chico del Patio — primer roce Cole/Chiara, semilla de escena
 
-*Los hechos ya son canon — ejecutados en el Capítulo 13 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/13_Roma_Atrii]]), como tercera parte del capítulo. **Placement corregido (2026-08-26):** ocurre semanas después de H2-b / Capítulo 7, no antes — se confirmó no insertar este beat entre capítulos ya escritos. Ubicado como beat 13-b en [[01_Timeline/01_Primer_Borrador_Beats]]. Este archivo queda como boceto de referencia; la versión final está en el capítulo.*
+*Los hechos ya son canon — ejecutados en el Capítulo 13 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/13_Roma_Atrii]]), como tercera parte del capítulo. **Placement corregido (2026-08-26):** ocurre semanas después de H2-b / Capítulo 7, no antes — se confirmó no insertar este beat entre capítulos ya escritos. Ubicado como beat 13-b en [[01_Timeline/01_Primer_Borrador_Beats]]. Este archivo queda como boceto de referencia; la versión final está en el capítulo.*
 
 ---
 

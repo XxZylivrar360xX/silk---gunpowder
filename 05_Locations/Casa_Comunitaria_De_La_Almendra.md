@@ -14,7 +14,7 @@ Construccion baja de estuco cansado, cancha de concreto al lado, cocina con olor
 
 No tiene nombre en la puerta porque quien necesita saber que es, ya lo sabe.
 
-**DISEÑO (2026-09-03):** tiene un sótano donde [[02_Characters/Nadir_Amrani]] cultiva su hierba — ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/16_El_Porton|Capítulo 16]], donde Danny baja ahí con el rumor de la bodega de La Ronda.
+**DISEÑO (2026-09-03):** tiene un sótano donde [[02_Characters/Nadir_Amrani]] cultiva su hierba — ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/16_El_Porton|Capítulo 16]], donde Danny baja ahí con el rumor de la bodega de La Ronda.
 
 ## Funcion en el primer capitulo
 

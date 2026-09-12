@@ -137,7 +137,7 @@ Y también vio la otra mitad: que el mundo de su padre fue lo que se llevó a su
 
 De ahí sale entera: Chiara sabe exactamente cuánto cuesta quedarse, y se queda igual. **Eso no es ingenuidad, es su forma de valentía**, y es lo único de ella que no es técnica. El cambio de apellido no fue rechazar al padre: fue quedarse con la parte de la herencia que quería y dejarle la otra a él, con la firma como reproche permanente.
 
-> **CREENCIA DE CHIARA (canon del autor, actualizado 2026-09-09):** los federales irrumpieron en una redada contra Corrado. Semanas después llegó un comunicado: el capo de la famiglia Ardizzone había fallecido en una **caída desde el acantilado de la villa de Palermo**; federales y comisión dieron la misma frase, palabra por palabra. **Nunca hubo cuerpo.** Chiara cree que lo perdió, y no tener siquiera un cuerpo que poner junto al de Marta es una cuenta que paga sola cada aniversario, sin que nadie en San Aurelio lo sepa. Formulada así por primera vez en prosa en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/26_Libros_Abiertos|Cap. 26]] (jacuzzi).
+> **CREENCIA DE CHIARA (canon del autor, actualizado 2026-09-09):** los federales irrumpieron en una redada contra Corrado. Semanas después llegó un comunicado: el capo de la famiglia Ardizzone había fallecido en una **caída desde el acantilado de la villa de Palermo**; federales y comisión dieron la misma frase, palabra por palabra. **Nunca hubo cuerpo.** Chiara cree que lo perdió, y no tener siquiera un cuerpo que poner junto al de Marta es una cuenta que paga sola cada aniversario, sin que nadie en San Aurelio lo sepa. Formulada así por primera vez en prosa en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/26_Libros_Abiertos|Cap. 26]] (jacuzzi).
 >
 > **VERDAD DEL AUTOR (Chiara no la conoce; no insinuar en prosa):** el canon de fondo vigente ([[00_Biblia/00_Trilogy_Structure]], [[12_Craft_Policies/revelations/SAGA_LEVEL]]) es que **Corrado está vivo** y oculto en Italia; primer reveal a Cole en la coda del Libro II.
 
@@ -156,7 +156,7 @@ Eso no vuelve inocente a Corrado ni convierte a los federales en villanos simple
 > *"Un giorno, bambina mia, capirai il prezzo di reggere il mondo sulle tue spalle. Ma non dimenticare mai: la chiave è non farlo da sola."*
 > Algún día, mi amada niña, entenderás el precio que tiene sostener el mundo en tus hombros. Solo no olvides que la clave está en no hacerlo sola.
 
-De niña la leyó como una frase sobre crecer. Se la dice a Cole por primera vez en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/26_Libros_Abiertos|Cap. 26]] (el jacuzzi), y es más de lo que le ha contado a nadie en San Aurelio. **Ironía que el texto no explicita:** Chiara construye poder exactamente como la frase advertía — sola — y esa tensión queda disponible para pagarse más adelante en la trilogía.
+De niña la leyó como una frase sobre crecer. Se la dice a Cole por primera vez en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/26_Libros_Abiertos|Cap. 26]] (el jacuzzi), y es más de lo que le ha contado a nadie en San Aurelio. **Ironía que el texto no explicita:** Chiara construye poder exactamente como la frase advertía — sola — y esa tensión queda disponible para pagarse más adelante en la trilogía.
 
 ### Lo que aprendió en esa casa, y lo que ha estado buscando desde entonces
 
@@ -255,7 +255,7 @@ Chiara no discute el punto ni defiende el método. **Entiende la línea apenas s
 
 ### La carrera de máscaras — CANON DEL AUTOR (2026-08-23), ESCRITO (2026-08-29)
 
-En [[06_Relationships/Hitos#H9 — La carrera de máscaras|H9]] ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_La_Carrera_De_Mascaras|Capítulo 9]]), después de reconocer en la noche del ladrillo que Cole le importa de verdad, Chiara hace **lo contrario de huir**: se sube al Peugeot rojo cuando él le dice que se ponga algo cómodo. Pasan por **La Tramoya** a comprar máscaras — Cole una negra lisa, ella una **Colombina negra** (aun eligiendo lo práctico, no toma una fea) — y corren por las perimetrales de Kingsley Field en la carrera que organiza [[02_Characters/Tyler_Brooks]]. Ahí, en el asiento del copiloto, se le rompe el control de administrarlo todo y **se ríe de verdad**, una carcajada sin cálculo que llevaba años sin oírse.
+En [[06_Relationships/Hitos#H9 — La carrera de máscaras|H9]] ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_La_Carrera_De_Mascaras|Capítulo 9]]), después de reconocer en la noche del ladrillo que Cole le importa de verdad, Chiara hace **lo contrario de huir**: se sube al Peugeot rojo cuando él le dice que se ponga algo cómodo. Pasan por **La Tramoya** a comprar máscaras — Cole una negra lisa, ella una **Colombina negra** (aun eligiendo lo práctico, no toma una fea) — y corren por las perimetrales de Kingsley Field en la carrera que organiza [[02_Characters/Tyler_Brooks]]. Ahí, en el asiento del copiloto, se le rompe el control de administrarlo todo y **se ríe de verdad**, una carcajada sin cálculo que llevaba años sin oírse.
 
 Lo que la asusta después no es el riesgo — es la **facilidad**. Que se lo pasara demasiado bien. Por eso, unos días, **administra distancia** con él: mensajes tarde, llamadas cortas, excusas de trabajo — no por arrepentimiento, sino porque *no* se arrepiente en absoluto. Esa distancia se cruza con el aniversario de la muerte de Marta y con la presión de Tommaso por el homenaje de Alessio, y es lo que la lleva, ese domingo, a bajar sola al hipódromo con el teléfono en la mano y el nombre de Cole en la pantalla — justo antes del golpe de H12.
 
@@ -313,7 +313,7 @@ Ahí es donde supera a Cole en escala. Él acumula deudas, nombres y rutas hasta
 - **Enciende una vela cada vez que Cole sale a trabajar.** No es superstición ni decoración: es su manera de pedir que vuelva a casa. Ver [[04_Concepts/Fe_y_Velas]].
 - **Bellandi Ridge no se contamina gratis.** Si alguien usa sus viñedos como escondite, amenaza o infraestructura criminal, debe sentirse como una profanación de algo suyo.
 - **Exige que la llamen Sra. Bellandi.** "Chiara" a secas es un privilegio, no un dato público — sólo lo usan los seleccionados. Cuando alguien lo usa sin haberlo ganado (ver [[02_Characters/Tommaso_Lusardi]], ficha de voz: "usa el nombre 'Chiara' con una familiaridad que no tiene derecho a reclamar del todo"), es una transgresión leída, no un descuido de estilo.
-- **No se siente cómoda manejando.** Prefiere que la lleven. Su método actual para moverse sola es un sedán negro del Monarch — un Mercedes-Benz Clase S, coche corporativo asignado por la empresa — que maneja ella misma cuando no quiere explicarle a nadie a dónde va. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/16_El_Porton|Capítulo 16]] (2026-09-03).
+- **No se siente cómoda manejando.** Prefiere que la lleven. Su método actual para moverse sola es un sedán negro del Monarch — un Mercedes-Benz Clase S, coche corporativo asignado por la empresa — que maneja ella misma cuando no quiere explicarle a nadie a dónde va. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/16_El_Porton|Capítulo 16]] (2026-09-03).
 
 ---
 

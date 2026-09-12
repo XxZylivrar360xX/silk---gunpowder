@@ -10,6 +10,8 @@ La historia sigue a Cole Mercer y Chiara Bellandi desde el momento en que ningun
 
 ## Estructura provisional
 
+> **REFERENCIA HISTÓRICA:** los tres bloques de esta maqueta inicial conservan la nomenclatura anterior, no las partes actuales del Libro I. La división vigente es: I — Dos Mundos; II — "Con peores personas he tratado"; III — Ardizzone; IV — Nieve y Ceniza; V — Exilio; VI — "Torna a Casa"; epílogo — La tierra bajo sus botas. Fuente: [[01_Timeline/02_Cadena_De_Eventos_Libro_I#Partes del Libro I — títulos del autor]]. Las descripciones heredadas se conservan sin reasignarlas a las partes nuevas.
+
 ### Part 01 - El Encuentro Y La Nada
 
 El casino, el apretón de manos, el rechazo de los socios, la cadena de favores y la primera costumbre: Cole termina el dia y va a contarselo a Chiara.

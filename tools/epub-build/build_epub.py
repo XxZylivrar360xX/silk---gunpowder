@@ -36,10 +36,10 @@ def clean_wikilinks(text: str) -> str:
 
 
 def divider_title(folder_name: str) -> str:
-    # Reader-facing titles for the two existing legacy manuscript folders.
+    # Reader-facing capitalization for the current manuscript folders.
     aliases = {
-        "Part_01_El_Encuentro_Y_La_Nada": "Part_01_Dos_Mundos",
-        "Part_02_La_Construccion": "Part_02_Con_peores_personas_he_tratado",
+        "Part_01_Dos_Mundos": "Part_01_Dos_Mundos",
+        "Part_02_Con_Peores_Personas_He_Tratado": "Part_02_Con_peores_personas_he_tratado",
     }
     folder_name = aliases.get(folder_name, folder_name)
     parts = folder_name.split("_")

@@ -27,7 +27,7 @@ Es el puente natural entre [[03_Factions/Almendra_Towing]] y [[03_Factions/Los_M
 
 Después termina formando parte de la organización de Cole.
 
-> **RESUELTO (2026-08-29):** Tyler organiza la carrera de máscaras de [[06_Relationships/Hitos]], H9 — **es su primera aparición en prosa** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/09_La_Carrera_De_Mascaras|Capítulo 9]]). Aparece sin biografía: conoce a Cole, reconoce el Peugeot rojo, avisa de un guardaganado nuevo en la recta, y no pide ni necesita el apellido de Chiara (Cole la presenta sólo como "Chiara"). Sigue **PENDIENTE** qué facción menor respaldaba el circuito antes de Cole.
+> **RESUELTO (2026-08-29):** Tyler organiza la carrera de máscaras de [[06_Relationships/Hitos]], H9 — **es su primera aparición en prosa** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_La_Carrera_De_Mascaras|Capítulo 9]]). Aparece sin biografía: conoce a Cole, reconoce el Peugeot rojo, avisa de un guardaganado nuevo en la recta, y no pide ni necesita el apellido de Chiara (Cole la presenta sólo como "Chiara"). Sigue **PENDIENTE** qué facción menor respaldaba el circuito antes de Cole.
 
 ---
 
