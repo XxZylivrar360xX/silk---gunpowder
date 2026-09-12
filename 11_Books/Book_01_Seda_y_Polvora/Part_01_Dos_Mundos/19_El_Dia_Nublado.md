@@ -316,10 +316,8 @@ No era mucho. Contado en centímetros, era casi nada. Pero era la primera vez qu
 
 Cole le tomó la mano. Sin pena, sin preguntar, como si fuera una cosa que ya se hacía.
 
-Se quedaron así. En algún momento ella se durmió contra su hombro, y un rato después él también, sentados, sin que pasara nada más. Dos personas reconociendo sin decirlo que estaban en el mismo punto del mismo camino, y que ninguno sabía nombrarlo todavía.
+Se quedaron así. En algún momento ella se durmió contra su hombro, y un rato después él también, sentados, sin que pasara nada más.
 
 Nadie llamó a eso una cita. Al día siguiente, cuando alguien preguntó, los dos dijeron que eran buenos amigos, y lo dijeron sin que se les moviera un músculo.
-
-Esa noche, sin que ninguno lo dijera, algo que llevaban meses sembrando sin querer nombrarlo empezó por fin a echar raíz — justo en el terreno donde los dos habían dado por hecho, cada uno por su lado, que ya no volvería a crecer nada. Cole llevaba años sin creer que el amor de verdad tocara alguna vez su puerta; había aprendido a ver toda cercanía como acuerdo, como transacción limpia, nada más. Chiara, desde que su matrimonio terminó de la única manera en que podía terminar, había dejado de esperar construir con alguien lo que Corrado y Marta construyeron durante treinta años. Ninguno de los dos lo dijo en voz alta. No hacía falta decirlo para que fuera cierto.
 
 Ese jueves, de camino a casa, la nube por fin se abrió y salió el sol de siempre, tarde y sin ganas, sobre una ciudad que ya había dejado de mirar el cielo.
