@@ -1,5 +1,5 @@
 <!--
-Estado: borrador provisional.
+Estado: LISTO PARA AUTOR (CLOSE 2026-09-12, Claude Code; Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_c21_el_mirador.md).
 Protagonistas: Cole Mercer, Chiara Bellandi.
 Ventana temporal: despues del Capitulo 19 (H4, el dia nublado) y del Capitulo 20 (Tierra buena, capitulo lateral de expansion sin hito H). Reordenado el 2026-08-29: H11 pasa a ir DESPUES de H10 y H4; renumerado varias veces, la ultima el 2026-09-07 al insertar el Capitulo 20 nuevo (Tierra buena).
 Lugares: bolera de la playa, carretera del norte, El Mirador, The Monarch Casino & Hotel / El Penthouse.
