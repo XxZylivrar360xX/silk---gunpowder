@@ -35,6 +35,21 @@ Se viste como si el día pudiera terminar debajo de un coche, porque normalmente
 
 ---
 
+## Referencia visual — DISEÑO (2026-09-11)
+
+![[99_Reference/character_art/Perfil_Cole_Mercer.png|360]]
+![[99_Reference/character_art/Cole_Mercer.png|480]]
+
+**Lectura conceptual:** el perfil concentra la identidad en la mandíbula ancha, los ojos azules claros, el cabello rubio desordenado y la barba corta sin acabado de salón. La imagen al volante añade el cuerpo: hombros que ocupan el asiento, manos grandes trabajando y un blazer que convive con playera y mezclilla. Sirve para visualizar cómo lleva el taller consigo cuando empieza a vestirse de empresario; la ropa cambia antes que su manera de ocupar el espacio.
+
+**Uso:** tomar el perfil como apoyo para el rostro y la escena del coche para postura y mezcla de vestuario. Para la etapa temprana sigue disponible [[99_Reference/character_art/Cole_Mercer_cotidiano.png]]; la variante [[99_Reference/character_art/Cole_Mercer_hibrido_negocios_calle.png]] desarrolla la transición de ropa. Ninguna lámina fecha por sí sola esa transición.
+
+**Control de continuidad:** en `Cole_Mercer.png`, cicatriz y arete aparecen del lado anatómico derecho; el canon exige **mejilla y oreja izquierdas**, como en el perfil. No trasladar esa inversión a prosa o ilustraciones futuras. El blackout sigue en el antebrazo derecho. El cuello sin placa sólo sirve para una etapa anterior al regalo de Navidad; después debe conservar **RETORNA A CASA**. Los rótulos y detalles del coche son ambientación gráfica, no datos nuevos del vehículo.
+
+Catálogo y criterio de uso: [[99_Reference/character_art/README]].
+
+---
+
 ## Quién es
 
 Cole se define con una sola palabra, y sólo la ha dicho en voz alta una vez: **camaleón**. No es una pose. Es un mecanismo de supervivencia que instaló a los dieciséis años y ya no supo apagar: entra a una habitación, lee qué necesita esa habitación, y lo es. Con los del barrio es del barrio. Con los abogados es paciente y correcto. Con los militares es seco. Ninguna de esas versiones es falsa, y ése es el problema — Cole no está fingiendo. Está genuinamente disponible para volverse lo que haga falta, y a los cuarenta y un años ya no sabría decir qué queda cuando la habitación está vacía.

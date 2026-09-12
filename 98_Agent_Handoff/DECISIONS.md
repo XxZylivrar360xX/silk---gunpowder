@@ -2,6 +2,10 @@
 
 Decisiones compactas para relevo. No reemplaza `log.md`.
 
+- **ARTE DE PERSONAJES — CRITERIO DE INTEGRACIÓN (2026-09-11, Codex; encargo conceptual del autor):** nueve imágenes nuevas de [[99_Reference/character_art/README]] incorporadas a siete fichas mediante embeds y notas **DISEÑO**. Las observaciones visuales no sustituyen canon escrito ni completan biografías; discrepancias documentadas, originales conservados. La apariencia propuesta de Nadir queda disponible sin dar por confirmados sus rasgos físicos.
+
+- **DANNY — CANON DEL AUTOR (2026-09-11):** [[02_Characters/Daniel_Hayes]] tiene 30 años al abrir la novela. Quedan fijados apariencia, tatuaje de raíces alrededor del cuello, ropa de mezclilla/metal-rock, calidez cotidiana y deterioro físico inicial por consumo sostenido de narcóticos. El gran taller de La Almendra es su entorno visual y comunitario; su pertenencia no define oficio ni jerarquía. Trasfondo, nacionalidad y oficio específico permanecen abiertos. Evitar deterioro extremo, caricatura de adicción y alivio cómico.
+
 - **RECONCILIACIÓN DOCUMENTAL H22 — CERRADA (2026-09-11, Codex, develop):** Elenna, Hitos y el mapa de Voto de Ceniza quedan alineados: guerra abierta, ciudad aún no ganada, cambio de pregunta estratégica y nacimiento consciente de la arquitectura de salida; ejecución mucho después. Corregidas etiquetas operativas heredadas. Mapas de cinco partes conservados como históricos con supersesión explícita; reconstrucción integral pendiente. Sin canon ni diseño nuevos, sin prosa, commit ni EPUB. Detalle: [[98_Agent_Handoff/sessions/2026-09-11_codex_reconciliacion_residuos_h22]].
 
 - **PARTE IV Y EPUB (2026-09-10, autor):** «Nieve y Ceniza» sustituye «Cenizas y Ascensos». EPUB regenerado por petición expresa con 29 capítulos; Partes I y II exportadas como «Dos Mundos» y «Con peores personas he tratado». Verificados ZIP, XML e índice (29 capítulos + 2 partes). Las partes futuras se incorporarán cuando exista prosa. Carpetas heredadas conservadas; el generador traduce sus títulos. Sin cambios de prosa.

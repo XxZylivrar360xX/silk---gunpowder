@@ -150,6 +150,8 @@ En el trayecto, San Aurelio apareció por partes. Primero las carreteras del nor
 
 La ciudad no cambiaba de cara de golpe. Se iba corrigiendo. Los anuncios pintados cedían lugar a lonas nuevas; las bardas con alambre a jardineras municipales; los talleres a cafés con nombres en inglés. En cada transición quedaba alguien trabajando para que el cambio pareciera natural.
 
+Chiara no creyó en nada natural.
+
 —El casino está listo —dijo Matteo.
 
 —Nada está listo el día que alguien dice que está listo.

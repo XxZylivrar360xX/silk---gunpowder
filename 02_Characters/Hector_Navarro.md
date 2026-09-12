@@ -14,6 +14,18 @@
 
 ---
 
+## Referencia visual — DISEÑO (2026-09-11)
+
+![[99_Reference/character_art/Hector_Navarro.png|420]]
+
+**Lectura conceptual:** pelo gris abundante y revuelto, rostro surcado y camisa de cuadros abierta sobre una playera oscura. El encuadre cercano, con los antebrazos apoyados y el torso inclinado hacia el interlocutor, ofrece una presencia disponible y firme: alguien con quien se conversa en el taller y que puede sostener una mirada incómoda sin levantar la voz. Es una forma de visualizar la figura paterna que ya define la ficha.
+
+**Rasgos propuestos por el arte:** barba y bigote canos, cejas espesas y arrugas marcadas. Permanecen como diseño visual; el canon previo fija 63 años, pelo cano poco arreglado y camisas de leñador. No deducir del retrato otra edad, padecimientos ni biografía. Para distinguirlo de Walt, conservar aquí la masa de pelo y la textura de los cuadros frente a la cabeza calva y la ropa neutra de Keegan.
+
+Catálogo y criterio de uso: [[99_Reference/character_art/README]].
+
+---
+
 ## Quién es, con lo poco que hay
 
 **El padre que Cole eligió**, contra Dale Mercer, que fue el que le tocó. Un hombre del barrio que estuvo ahí siempre y que hoy opera con él en lo pesado.

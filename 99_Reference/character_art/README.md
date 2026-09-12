@@ -1,6 +1,38 @@
 # Arte de referencia de personajes
 
-Hojas de referencia visual (estilo anime) generadas con IA, verificadas contra las fichas de `02_Characters/` antes de guardarse aquí. No son canon narrativo — son apoyo visual para consistencia de diseño entre sesiones.
+Arte de referencia visual (estilo anime) para los personajes originales de la novela. No es canon narrativo: sirve como apoyo de diseño entre sesiones. Las tres hojas iniciales tienen sus verificaciones registradas abajo; los nueve archivos añadidos el 2026-09-11 fueron revisados visualmente e integrados en siete fichas, con las discrepancias señaladas.
+
+## Criterio de uso
+
+Por encargo del autor (2026-09-11), las fichas muestran las imágenes y desarrollan su lectura conceptual bajo **DISEÑO**. El canon escrito conserva prioridad. Un rasgo nuevo observado en el arte no se vuelve automáticamente canon; tampoco los rótulos, logotipos, edificios, accesorios o poses establecen acontecimientos, biografía o hábitos. Las imágenes originales se conservan intactas.
+
+Este uso del arte de personajes propios no cambia la prohibición de adaptar escenas o biografías de las fuentes externas descritas en [[99_Reference/README]].
+
+## Incorporaciones del 2026-09-11
+
+| Imagen | Ficha y uso conceptual |
+|---|---|
+| [[99_Reference/character_art/Perfil_Cole_Mercer.png]] | [[02_Characters/Cole_Mercer]] — rostro, mirada y cicatriz izquierda |
+| [[99_Reference/character_art/Cole_Mercer.png]] | [[02_Characters/Cole_Mercer]] — postura al volante y ropa de transición; lateralidad facial invertida |
+| [[99_Reference/character_art/Perfil_Chiara_Bellandi.png]] | [[02_Characters/Chiara_Bellandi]] — rostro, cabello, maquillaje y joyería |
+| [[99_Reference/character_art/Chiara_Bellandi.png]] | [[02_Characters/Chiara_Bellandi]] — presencia profesional y combinación rojo/blanco/oro |
+| [[99_Reference/character_art/Hector_Navarro.png]] | [[02_Characters/Hector_Navarro]] — cercanía en el taller, pelo cano y camisa de cuadros |
+| [[99_Reference/character_art/Walt_Keegan.png]] | [[02_Characters/Walter_Keegan]] — austeridad, cabeza calva y barba de candado |
+| [[99_Reference/character_art/Marisol_Grayson.png]] | [[02_Characters/Marisol_Grayson]] — identidad universitaria, pecas, puntas rubias y ropa cómoda |
+| [[99_Reference/character_art/Daniel_Hayes.png]] | [[02_Characters/Daniel_Hayes]] — calidez, desgaste inicial y pertenencia al taller |
+| [[99_Reference/character_art/Nadir_Amrani.png]] | [[02_Characters/Nadir_Amrani]] — propuesta física diferenciada: rizos cortos, barba completa y capas lisas |
+
+### Discrepancias y límites
+
+- **Cole al volante:** cicatriz y arete aparecen a la derecha anatómica. Para esos detalles manda el canon izquierdo, representado en `Perfil_Cole_Mercer.png`. El cuello sin placa no sirve como referencia posterior al regalo de Navidad.
+- **Chiara:** el lunar cambia de lado entre el perfil y el retrato en el Monarch. Las imágenes no resuelven su lateralidad; conservar el lunar sobre el labio sin duplicarlo.
+- **Danny:** hay vello dibujado en mandíbula y mentón; el canon sigue siendo bigote delgado **sin barba**.
+- **Walt:** «58–60» y «Southern California» son rótulos de la lámina, no confirmaciones nuevas de edad o procedencia. Sus botas de cazador siguen vigentes fuera del encuadre.
+- **Héctor y Nadir:** barba y otros detalles nuevos descritos en las fichas quedan como **DISEÑO**. No inferir edad de Nadir a partir de las canas ni completar su oficio por el fondo de taller.
+
+> **PENDIENTE:** confirmación del autor para elevar a canon los rasgos nuevos propuestos (en especial la apariencia de Nadir) y fijar la lateralidad del lunar de Chiara. Las discrepancias con canon ya establecido quedan documentadas; no se retocan las imágenes en esta integración.
+
+## Hojas iniciales
 
 ---
 

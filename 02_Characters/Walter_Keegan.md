@@ -13,6 +13,20 @@
 
 ---
 
+## Referencia visual — DISEÑO (2026-09-11)
+
+![[99_Reference/character_art/Walt_Keegan.png|420]]
+
+**Lectura conceptual:** cabeza calva, piel morena clara, barba de candado entrecana y ropa lisa en tonos grises. La verticalidad del cuello, el gesto contenido y la mirada directa ofrecen una presencia austera. Puede orientar al hombre que regresa a un barrio que todavía lo reconoce: el pasado pesa en su trato con los demás, sin necesitar una apariencia ostentosa.
+
+**Distinción de reparto:** Héctor tiene pelo abundante, camisa de cuadros y cercanía de taller; Walt se reconoce por la cabeza despejada, el candado y la sobriedad de la ropa. Son apoyos de silueta, no una sustitución de sus funciones distintas en la vida de Cole.
+
+**Control de continuidad:** el rótulo de la lámina propone **58–60 años** y un origen en el sur de California. No se adoptan como datos nuevos: la ficha mantiene «cincuenta y tantos o sesenta» y no fija lugar de nacimiento. Las botas de cazador siguen siendo obligatorias aunque el encuadre no las muestre. `Walt_Keegan.png` corresponde a esta ficha de **Walter Keegan**, no a otro personaje.
+
+Catálogo y criterio de uso: [[99_Reference/character_art/README]].
+
+---
+
 ## Quién es
 
 Curtido. **Su nombre todavía provoca reacciones entre la gente vieja del barrio.**

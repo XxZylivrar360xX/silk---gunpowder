@@ -30,6 +30,20 @@ La crítica de Cole a las puntas es un ritual familiar. Marisol sabe que le pare
 
 ---
 
+## Referencia visual — DISEÑO (2026-09-11)
+
+![[99_Reference/character_art/Marisol_Grayson.png|420]]
+
+**Lectura conceptual:** cabello pelirrojo recogido con mechones sueltos y puntas rubias, pecas abundantes, ojos miel y sonrisa ladeada. El retrato desarrolla los rasgos ya fijados y coloca a Marisol en su propia rutina: libros, mochila y audífonos organizan el cuerpo de una estudiante que está de paso. Sirve para recordarla activa dentro de una vida universitaria propia cuando Cole aparece en ella.
+
+**Vestuario propuesto:** cárdigan claro de punto, playera oscura y jeans; texturas cómodas y una silueta ligera. El contraste con la precisión de Chiara puede orientar escenas compartidas sin volver descuidada a Marisol. Collar, audífonos y termo son utilería opcional del concepto, sin origen sentimental ni hábito permanente establecido.
+
+**Control de continuidad:** esta alternativa de campus no sustituye la chaqueta de Michael sembrada en el borrador. Las leyendas de la facultad y de sus objetos no fijan institución, ciudad, plan de estudios ni frases del personaje; los veinte años conservan su estado provisional.
+
+Catálogo y criterio de uso: [[99_Reference/character_art/README]].
+
+---
+
 ## Quién es
 
 Hija de [[02_Characters/Michael_Grayson]]. Cuando Michael muere de cáncer, [[02_Characters/Cole_Mercer]] se hace cargo de ella.

@@ -29,6 +29,21 @@ El único tic que no controla: cuando algo la sorprende de verdad, se toca el an
 
 ---
 
+## Referencia visual — DISEÑO (2026-09-11)
+
+![[99_Reference/character_art/Perfil_Chiara_Bellandi.png|360]]
+![[99_Reference/character_art/Chiara_Bellandi.png|480]]
+
+**Lectura conceptual:** el perfil reúne cabello negro abundante, ojos con matices verdes, lunar junto al labio y contraste de labial oscuro con oro. El retrato en el Monarch permite trabajar su presencia profesional: sentada, con una mano cerca del rostro y la mirada sostenida, parece tener tiempo para escuchar antes de responder. Esa quietud es una opción de puesta en escena para su administración de las emociones; no obliga a escribirla siempre distante.
+
+**Vestuario:** rojo, blanco y oro recuperan la combinación ya fijada para su llegada; el abrigo sobre los hombros y el cabello recogido despejan cuello y rostro. Es una referencia de composición, sin convertir la imagen en una escena sucedida. [[99_Reference/character_art/Chiara_Bellandi_cotidiano.png]] conserva la alternativa cotidiana de blusa azul y cabello suelto.
+
+**Control de continuidad:** las dos imágenes nuevas colocan el lunar en lados anatómicos distintos; no usarlas para fijar su lateralidad ni multiplicar lunares alrededor de la boca. Se conserva el lunar sobre el labio descrito en canon. La iluminación y el maquillaje no cambian su piel aceitunada, sus 34 años ni su complexión; la imagen tampoco sustituye el tic del anular izquierdo por una nueva manía con la mano en el mentón.
+
+Catálogo y criterio de uso: [[99_Reference/character_art/README]].
+
+---
+
 ## Quién es
 
 Chiara es la persona más útil en cualquier habitación y se asegura de que nadie lo note hasta que ya es tarde.

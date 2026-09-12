@@ -1,5 +1,5 @@
 <!--
-Estado: borrador provisional.
+Estado: LISTO PARA AUTOR.
 Protagonistas: Chiara Bellandi (partes 1-4), Cole Mercer (parte 5).
 Ventana temporal: semanas despues del Capitulo 13 (Roma Atrii). Cole y Chiara siguen a caballo entre el penthouse y la casa de el; todavia no hay primer beso.
 Lugares: El Penthouse, La Esquina de Mabel, The Monarch Casino & Hotel (piso de juego), Almendra Towing / El Patio, Comisaria central de San Aurelio (Calle Corona).

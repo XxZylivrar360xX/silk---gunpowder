@@ -4,18 +4,82 @@
 
 > **CANON DEL AUTOR (2026-08-23).** Ficha compacta. El autor pidió no profundizar todavía; registrar sólo función y canon.
 
+> **CANON DEL AUTOR (2026-09-11).** Se fijan edad, apariencia física, relación visual con La Almendra y primeras consecuencias del consumo sostenido de narcóticos. Trasfondo, nacionalidad y oficio específico permanecen abiertos.
+
+**Nombre completo:** Daniel "Danny" Hayes.
 **Nacionalidad:** pendiente.
-**Edad al abrir la novela:** pendiente.
-**Oficio:** pendiente.
+**Edad al abrir la novela:** 30 años.
+**Oficio:** Mecanico.
 **Rol:** secundario.
 **Alias:** Danny.
 **Estado:** vivo.
+**Entorno principal:** La Almendra / taller del barrio.
 
 ---
 
 ## Apariencia
 
-> **PENDIENTE:** definirlo sin convertirlo en "el amigo gracioso". Debe tener una silueta reconocible y una razón para pertenecer al núcleo del barrio.
+Hombre caucásico de **piel clara y complexión delgada**, todavía funcional y físicamente activo. Tiene **cabello negro, largo y lacio**, normalmente suelto; **ojos cafés** y **bigote delgado, sin barba**.
+
+Su cuerpo empieza a mostrar los efectos del consumo sostenido de narcóticos: rasgos ligeramente afinados por el desgaste, leve pérdida de volumen en el rostro, cansancio tenue alrededor de los ojos y una piel que comienza a mostrar noches largas, malos hábitos y poco descanso.
+
+El deterioro se percibe si alguien presta atención, pero conserva energía, movilidad y una apariencia suficientemente estable para participar en la vida cotidiana del barrio. **Es el principio del deterioro, no su desenlace:** no debe parecer destruido, enfermo terminal ni consumido por completo.
+
+### Tatuaje
+
+Lleva **raíces oscuras alrededor del cuello, como un collar**, ramificadas orgánicamente sobre la piel. Es un tatuaje crudo y personal, reconocible de cerca; no ornamental elegante ni excesivamente elaborado. Es uno de sus principales rasgos visuales.
+
+### Vestimenta
+
+- **Chaqueta de mezclilla**, usada y sin pretensiones.
+- **Playeras de metal / rock**, preferiblemente oscuras y desgastadas.
+- Ropa sencilla de barrio y de taller, sin sofisticación ni una imagen construida para parecer "punk".
+
+Se viste como alguien que lleva años escuchando esa música y usando esa ropa, no como alguien que se arregla para proyectar una identidad.
+
+### Expresión y presencia
+
+Conserva una energía **alegre, accesible y ligeramente bromista**. Sonríe con facilidad; resulta sencillo quedarse hablando con él demasiado tiempo en el taller. Detrás de esa sonrisa empiezan a leerse cansancio, cierta inestabilidad y un desgaste que su humor no termina de admitir.
+
+> **Danny todavía sonríe mientras sus hábitos ya comenzaron a erosionarlo.**
+
+Es una persona querida que conserva gran parte de sí mismo. No debe convertirse en caricatura de la adicción, personaje cómico ni advertencia moral ambulante.
+
+---
+
+## Referencia visual — DISEÑO (2026-09-11)
+
+![[99_Reference/character_art/Daniel_Hayes.png|420]]
+
+**Lectura conceptual:** cabello negro largo, mezclilla gastada, playera oscura de gráfica musical y raíces tatuadas alrededor del cuello. La sonrisa pequeña convive con ojeras y un rostro afinado: el retrato permite sostener a la vez su calidez y el desgaste inicial ya fijados por el autor. En escenas pequeñas, esa combinación puede verse mientras escucha, bromea o permanece cerca de otros en el taller; el deterioro no necesita dominar cada aparición.
+
+**Control de continuidad:** el dibujo añade vello en mandíbula y mentón. Para futuras ilustraciones manda el canon **bigote delgado, sin barba**; no convertir ese sombreado en barba estable ni en perilla. La mirada cansada no autoriza nuevas etapas de deterioro, sustancias específicas o diagnósticos. Los letreros del taller son ambientación gráfica y no consignas canónicas de La Almendra.
+
+Catálogo y criterio de uso: [[99_Reference/character_art/README]].
+
+---
+
+## La Almendra: pertenencia y función humana
+
+Visualmente pertenece al **gran taller de La Almendra**, vinculado a [[03_Factions/Almendra_Towing]]: un antiguo almacén reacondicionado como taller comunitario del barrio, con techo industrial alto, estructuras y vigas metálicas, herramientas, bancos de trabajo, vehículos y piezas mecánicas. Tiene iluminación de taller, amplios espacios abiertos y superficies desgastadas por años de trabajo.
+
+Es también un punto de reunión: la gente entra a arreglar algo, pedir ayuda, conversar o simplemente permanecer un rato. Ver a Danny dentro del taller debe resultar completamente natural.
+
+Danny es uno de sus **rostros humanos: testigo del barrio, presencia habitual y uno de los pilares humanos de La Almendra**. Su valor está en la presencia cotidiana, sin que eso le asigne mayor autoridad ni las decisiones más importantes. Conoce personas, ha visto cosas y recuerda versiones anteriores del barrio y de sus habitantes. Participa en conversaciones, trabajos, rutinas y pequeños momentos que hacen del lugar una comunidad y muestran que estaba vivo antes de la historia principal.
+
+### Clave visual
+
+- **Vida:** todavía ríe, conversa y disfruta estar con los demás.
+- **Desgaste:** su cuerpo ya comienza a pagar algunas de sus decisiones.
+- **Pertenencia:** La Almendra es uno de los lugares donde parece estar en casa.
+
+### Dirección estética para ilustraciones
+
+**Estética:** anime seinen / drama criminal adulto. **Encuadre preferido:** rostro, hombros o plano de pecho. **Iluminación:** cinematográfica, industrial y relativamente naturalista. **Tratamiento:** líneas limpias, proporciones realistas y sombreado contenido. **Fondo:** taller de La Almendra ligeramente desenfocado.
+
+Evitar chibi, punk exagerado, aspecto de villano, deterioro físico extremo, estereotipos visuales asociados a la adicción y convertirlo en alivio cómico.
+
+La referencia emocional es **un hombre todavía cálido y reconocible cuya caída ya ha comenzado, aunque quienes lo rodean aún puedan convencerse de que sigue estando bien**.
 
 ---
 
@@ -74,7 +138,7 @@ Danny funciona como **testigo de barrio**: ve cosas que los protagonistas no pue
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** oficio, edad, familia y lugar exacto dentro de Almendra Towing.
+> **PENDIENTE:** trasfondo, nacionalidad, oficio específico, familia y lugar exacto dentro de Almendra Towing. La edad queda resuelta: 30 años al abrir la novela.
 
 > **PENDIENTE:** si Danny participa en operaciones pesadas o si su función es deliberadamente más doméstica.
 

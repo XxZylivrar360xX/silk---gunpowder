@@ -53,7 +53,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[02_Characters/Hector_Navarro]] — el viejo mentor de Cole, su figura paterna y su mano derecha. **La única persona que lo quiere sin deberle nada.** Sufre un infarto en H10 y, desde el hospital, empuja a Cole y a Chiara el uno hacia el otro.
 - [[02_Characters/Nadir_Amrani]] — mejor amigo de Cole. Lo conoció en prisión y fue quien lo ayudó primero; por eso es una de las pocas personas que no le debe nada.
 - [[02_Characters/Anya_Voronina]] — contacto rusa de Washington, amor pasado de Cole en Afganistán y deuda por los papeles de Nadir. Introduce la fractura de Año Nuevo y la frase: *llegará el día en que llegue la persona que te haga creer*.
-- [[02_Characters/Daniel_Hayes]] — Danny. Amigo del barrio y dueño de Rocco, el perro. Testigo temprano de la relación invisible.
+- [[02_Characters/Daniel_Hayes]] — Danny, 30 años. Amigo del barrio y dueño de Rocco; testigo temprano de la relación invisible y pilar humano de La Almendra. Apariencia, tatuaje de raíces en el cuello y desgaste inicial por narcóticos fijados (2026-09-11); trasfondo, nacionalidad y oficio abiertos.
 - [[02_Characters/Marisol_Grayson]] — hija de Michael Grayson. Cole se hizo cargo de ella; estudia y reside en la universidad. **Su conciencia con piernas.** Pareja de Kenji: hitos percibidos desde Cole y Chiara durante Libros I y II (canon del autor, 2026-09-10).
 - [[02_Characters/Michael_Grayson]] — viejo amigo militar de Cole, muerto de cáncer. Su muerte deja a Marisol en la vida de Cole.
 - [[02_Characters/Blake_Stanton]] — policía. Con quien Chiara sale al llegar. Rubio de ojos azules: el hombre equivocado con la cara correcta. No es un rival — es un error de identificación.
@@ -221,6 +221,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 # Referencia externa
 
 - [[99_Reference/README]] — qué se heredó de la fuente de inspiración y qué no. **Nada de `99_Reference/` es canon.**
+- [[99_Reference/character_art/README]] — catálogo visual: nueve imágenes nuevas integradas como DISEÑO en las fichas de Cole, Chiara, Héctor, Walt, Marisol, Danny y Nadir (2026-09-11). Incluye usos conceptuales y discrepancias con canon.
 
 ---
 

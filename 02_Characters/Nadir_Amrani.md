@@ -15,7 +15,19 @@
 
 ## Apariencia
 
-> **PENDIENTE:** definir qué ve alguien al cruzarlo en la calle. Debe distinguirse claramente de Danny y Héctor: Nadir no es "otro del barrio" genérico.
+> **PENDIENTE:** confirmar como canon los rasgos físicos del concepto visual integrado abajo. La referencia ya permite distinguirlo de Danny y Héctor; edad y estatura siguen abiertas.
+
+### Referencia visual — DISEÑO (2026-09-11)
+
+![[99_Reference/character_art/Nadir_Amrani.png|420]]
+
+**Rasgos del concepto:** cabello oscuro corto y rizado, cejas pobladas, ojos cafés, piel de tono moreno y barba cerrada con algunas canas en el mentón. Lleva camisa verde oliva y chaqueta oscura, con un reloj sencillo visible. Estas observaciones describen la propuesta gráfica; no fijan edad ni añaden historia personal.
+
+**Presencia:** sentado e inclinado ligeramente hacia delante, con los brazos cerca del cuerpo, una mirada lateral y una sonrisa pequeña. Como dirección de escena, puede expresar atención y familiaridad sin darle la expansividad de Danny. La imagen aporta una versión cotidiana compatible con el amigo querido y respetado del barrio; su desconfianza hacia Chiara depende del vínculo y del momento, no de un rostro permanentemente hostil.
+
+**Distinción de reparto:** rizos cortos y barba completa frente al cabello largo, bigote y tatuaje de Danny; pelo oscuro y capas lisas frente al cabello cano y los cuadros de Héctor. El fondo de taller lo sitúa entre los suyos, pero no resuelve su actividad actual ni lo convierte en mecánico. El reloj no implica riqueza, regalo ni objeto ritual.
+
+Catálogo y criterio de uso: [[99_Reference/character_art/README]].
 
 ---
 

@@ -6,6 +6,10 @@ Material de inspiración que **no es canon de esta novela**. Se conserva intacto
 
 ## Contenido
 
+### `character_art/`
+
+Arte conceptual de los personajes originales de *Seda y Pólvora*. Por encargo del autor (2026-09-11), se enlaza y muestra en sus fichas como apoyo visual bajo **DISEÑO**, sin establecer canon nuevo por inferencia. El canon escrito manda ante discrepancias. Catálogo, usos y diferencias detectadas: [[99_Reference/character_art/README]]. Este uso específico no autoriza copiar escenas, biografías ni formulaciones de las fuentes externas.
+
 ### `KYLE_RASS_GIULIA_ROSSETTI_CONTEXT.md`
 
 Documento de contexto sobre **Kylia** (Kyle Rass + Giulia Rossetti), del roleplay *La Ciudad de los Santos*. Interpretaciones originales: DessT3 y Elisawaves. Aportado por el autor el 2026-08-22.
