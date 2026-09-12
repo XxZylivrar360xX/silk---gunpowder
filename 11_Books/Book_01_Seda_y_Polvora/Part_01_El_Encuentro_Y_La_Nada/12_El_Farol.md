@@ -18,7 +18,7 @@ No la había tocado. No sabía a qué hora se había ido Cole, ni si había dorm
 
 La dejó donde estaba.
 
-Se dio una ducha, se vistió para el día y bajó a la oficina con la lista de invitados del torneo bajo el brazo, como si la noche anterior hubiera sido de otra persona.
+Se dio una ducha y se sostuvo un segundo del borde de vidrio cuando el agua caliente le aflojó el equilibrio de golpe. Se vistió para el día y bajó a la oficina con la lista de invitados del torneo bajo el brazo, como si la noche anterior hubiera sido de otra persona.
 
 Casi lo consiguió.
 
