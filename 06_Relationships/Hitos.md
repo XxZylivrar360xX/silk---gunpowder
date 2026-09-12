@@ -726,7 +726,7 @@ Es una decepción sobre lo rota que está la idea de familia que él tiene. **Ch
 
 Bajan al casino después. Ya no preguntan si suben — ni ella "¿quieres subir?" ni él "¿quieres que suba?". Es un hábito aprendido: subir juntos en el elevador. Los dos lo registran con una sonrisa leve, sin comentarlo.
 
-Adentro, con la botella de vino ya en el sofá, las luces ámbar de la sala encendidas, por fin se besan. Chiara toma la iniciativa: se levanta, le toma la mano, lo lleva a su cuarto.
+Adentro, con las luces ámbar de la sala encendidas, bailan de pie junto al espejo del recibidor. Al terminar la canción, sin apartarse, por fin se besan. Chiara toma la iniciativa: le toma la mano y lo lleva a su cuarto.
 
 **Cierre:** la luz se apaga, vista desde fuera de la ventana del penthouse. Sólo quedan las dos siluetas recostándose en la cama.
 
