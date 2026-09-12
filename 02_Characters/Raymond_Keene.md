@@ -15,7 +15,7 @@
 
 Raymond Keene era el jefe de policía al inicio de la novela.
 
-Muere asesinado por orden de [[02_Characters/Dario_Varek]]. La versión pública puede presentarlo como una tragedia institucional, pero la verdad narrativa debe ser más sucia: Keene probablemente estaba coludido, aceptó demasiadas concesiones y se volvió un problema.
+Muere asesinado por orden de [[02_Characters/Dario_Varek]]. La versión pública puede presentarlo como una tragedia institucional, pero la verdad narrativa debe ser más sucia: Keene probablemente estaba coludido, aceptó demasiadas concesiones y se volvió un problema. **CANON DEL AUTOR (2026-09-12):** [[02_Characters/Nereo_Volpi]] ejecuta la orden; Varek advierte entonces que Volpi es más peligroso que un simple ejecutor y comienza a mantenerlo aislado y controlado.
 
 **Canon de apertura:** la mañana del Capítulo 3, Cole despierta con el titular: Keene fue encontrado en Plaza Corona, sentado en una banca como si estuviera dormido, ejecutado con tres tiros.
 

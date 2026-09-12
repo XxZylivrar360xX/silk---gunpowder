@@ -216,6 +216,8 @@ Nunca fue de las que dan órdenes. Fue de las que **deciden qué se supo**. Cobr
 
 La mandan. No huye — o al menos ésa es la versión, y la versión la escribió ella. Viene a sostener la imagen de un negocio que no es suyo, con la instrucción explícita de no llamar la atención y de irse cuando termine.
 
+> **RESUELTO (2026-09-12), escrito en prosa en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/02_Demasiado_Listo|Cap. 2]]:** quien la manda es **Il Consorzio**, no Varek ni su propia familia por iniciativa propia. La orden llega semanas antes, de noche, en un despacho de Nueva York: **[[02_Characters/Leone_Valenti]]** ("Il Consigliere") le informa que un socio de San Aurelio (fuertemente insinuado como [[02_Characters/Dario_Varek]], nunca nombrado en prosa) requirió respaldo a cambio de lo que Il Consorzio necesitaba en esa costa, y que Il Consorzio aceptó. Su tarea asignada: **"Dirigir y observar. Nada más."** — que ella entiende de inmediato como vigilancia para el Consorcio, disfrazada de administración de imagen. Valenti nunca dice el nombre del socio ni el precio exacto (regla de escritura del personaje: la consecuencia y el motivo real no se explican en la conversación donde se deciden). Chiara obedece sin discutir, pero un párrafo después se cuenta a sí misma una versión más liviana del encargo ("unos días para ordenar un casino... y volver a casa") — primera nota de su fricción de fondo con la autoridad del Consorcio, nunca declarada como desacuerdo abierto.
+
 **El negocio es [[03_Factions/El_Casino]]**, y llega de Italia con los otros socios. Ver [[06_Relationships/Hitos]], H2.
 
 Lo que no estaba en las instrucciones: que la ciudad tuviera un diario viejo, moribundo y todavía creído, y que nadie se hubiera dado cuenta de lo que eso vale. **El casino es de otros; el diario va a ser suyo.** Ése es su arco entero, dicho en propiedad. Ver [[03_Factions/El_Faro]].
@@ -373,7 +375,7 @@ Esa capacidad no la inmuniza frente al costo: puede construir una mentira sufici
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** ¿quién la manda a San Aurelio, y sigue mandándola cuando el libro va a la mitad? Su autonomía frente a esa gente es el reloj de la primera parte.
+> **RESUELTO (2026-09-12):** quién la manda a San Aurelio — ver "Por qué llega a San Aurelio" arriba. **Sigue abierto:** si Il Consorzio (a través de Valenti) continúa dándole órdenes directas cuando el libro va a la mitad, o si su autonomía crece antes de eso. Su autonomía frente a esa gente sigue siendo el reloj de la primera parte.
 
 > **RESUELTO (2026-08-23):** el anillo fue el matrimonio con **[[02_Characters/Alessio_Lusardi]]**, y cómo terminó es canon. Falta el detalle delicado: los motivos y los hechos de esa noche.
 

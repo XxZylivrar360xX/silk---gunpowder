@@ -68,6 +68,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[02_Characters/Harper_Walker]] · [[02_Characters/Tyler_Brooks]] · [[02_Characters/Mei_Lin_Zhao]] · [[02_Characters/Riley_Bennett]] · [[02_Characters/Ren_Wei]] — núcleo ampliado de Almendra Towing: norte rural, carreras, banda rival desintegrada y consolidación del mercado.
 - [[02_Characters/Russell_Whitaker]] · [[02_Characters/Garrett_Cross]] — caras públicas de El Patio: política municipal y administración financiera/legal.
 - [[02_Characters/Matteo_Bellacorte]] — socio del Monarch que abre la puerta de H2: conoce a Cole durante el día y lo cita por la noche con los socios.
+- [[02_Characters/Nereo_Volpi]] — ejecutor extraoficial de La Mesa: el trabajo sucio, eficiente y negable de Il Consorzio. Su contingencia contra el hermano de Matteo provoca la salida de Matteo en Libro I y cobra en *Interregno*.
 - [[02_Characters/Fabrizio_Rinaldi]] — provisional; viejo amigo italiano de Chiara dentro del grupo del Monarch.
 - [[02_Characters/Tommaso_Lusardi]] — provisional; hermano de Alessio Lusardi y presencia incómoda del pasado de Chiara.
 - [[02_Characters/Andrew_Callahan]] — agente especial supervisor federal; comandante RICO de Meridian. Su obsesión inicial es Varek, no Cole.

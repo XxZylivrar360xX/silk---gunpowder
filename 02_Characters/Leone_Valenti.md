@@ -89,6 +89,10 @@ Es lo único que dijo cuando escuchó el reporte de la muerte de Alessio Lusardi
 
 ---
 
+## Primera aparición en prosa — 2026-09-12
+
+**[[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/02_Demasiado_Listo|Cap. 2]]**, en un recuerdo de Chiara: la visita a su despacho en un casino de Nueva York, semanas antes de que ella viaje a San Aurelio, para comunicarle que Il Consorzio decidió darle un lugar a la familia Ardizzone allí y que su tarea será "dirigir y observar". Escena escrita respetando lo ya fijado: habla de otra cosa (un cuarteto, un edificio) antes de llegar al asunto; nunca dice "yo decidí", siempre "Il Consorzio ha decidido"; no nombra al socio que pidió el favor ni explica el precio exacto; la llama **signora Ardizzone**, no Bellandi. **No se inventó apariencia física ni manía** — ambas siguen `PENDIENTE` (ver abajo); la escena no lo describe físicamente.
+
 ## Pendientes
 
 > **PENDIENTE:** apariencia. Y si tiene alguna manía física — algo pequeño que el lector aprenda a temer.

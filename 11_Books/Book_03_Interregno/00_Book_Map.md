@@ -53,17 +53,21 @@ El libro abre con **Cole Mercer ejecutando públicamente a Warren Halbrook** (de
 
 No convertir la escena en manual táctico: su función es narrativa, política e institucional.
 
-### Dos grandes frentes
+### Tres frentes que se cruzan
 
 **Cole — Meridian.** La fuerza federal intenta reconstruir y demostrar la estructura causal del poder de Cole: negocios, propiedades, favores, sociedades, aliados, cadáveres, decisiones. El cerco obliga a Cole a **distribuir** lo que centralizó durante años en su persona. Andrew Callahan / comando RICO; su obsesión inicial es Varek, no Cole.
 
 **Chiara — Il Consorzio.** El vacío de Dario deja a Il Consorzio más libre para presionar, reconocer, reorganizar o disputar San Aurelio. Chiara enfrenta a la institución que pretende definirla como Ardizzone. **No completa su arco heredando una corona italiana ni obteniendo reconocimiento: lo completa rechazando la premisa de que necesita ese reconocimiento.** Corrado aporta conocimiento, contexto y una relación personal imposible de ignorar; **no sustituye a Chiara como protagonista del conflicto ni regresa para ponerla en un trono.**
+
+**Chiara — Volpi; Corrado — La Mesa.** [[02_Characters/Nereo_Volpi|Volpi]] encarna el reverso del oficio de Chiara: él fabrica ausencias y caos bajo una apariencia de procedimiento; ella debe volver legible esa cadena para impedir nuevas pérdidas. [[02_Characters/Corrado_Ardizzone|Corrado]] carga el frente personal e institucional con La Mesa, sin desplazar a Chiara de la decisión sobre su apellido y su vida. El tercer asesinato de Volpi, posterior a la apertura de Halbrook, reactiva el patrón que la ciudad había descartado y se vuelve expediente paralelo de Meridian. **PENDIENTE:** víctima, motivo, investigador de Meridian y función precisa del regreso de [[02_Characters/Matteo_Bellacorte|Matteo]], cuya evidencia debe unir el arco de la desaparición con esta cadena sin resolverla por conveniencia.
 
 ### Ejecución del plan de salida
 
 El plan existe desde H22. En *Interregno* se convierte en arquitectura concreta: delegación, redundancia, separación de funciones, nodos que sobreviven sin supervisión, socios capaces de decidir, una red civil que no dependa de la presencia diaria de Chiara, un Patio que funcione sin Cole.
 
 Tesis heredada de Héctor: **no sostenerlo con el cuerpo; construirlo para poder dejar de sostenerlo.**
+
+La salida no depende de que Meridian persiga una mentira. La investigación reconstruye una red de contingencias real, vinculada a La Mesa y a la escalada de la Guerra de los Tres, pero llega a ella cuando su arquitectura operativa ya está muerta: mandos, comunicaciones y funciones centrales han sido desactivados. Cole y Chiara no dejan una organización clandestina idéntica detrás del expediente; dejan sistemas distribuidos que ya no requieren su presencia. La red encontrada explica una parte causal de la guerra —la mecha, no toda la pólvora— y absorbe la investigación institucional sin volver inocente a nadie que haya causado daño.
 
 Contraste obligatorio con Dario: **Dario construyó un sistema donde todo pasaba por Dario; Cole construye uno donde cada vez menos cosas necesitan pasar por Cole.** No pierde ambición: cambia su propósito.
 

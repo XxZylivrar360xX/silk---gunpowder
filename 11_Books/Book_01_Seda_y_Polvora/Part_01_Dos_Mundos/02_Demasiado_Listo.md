@@ -14,51 +14,73 @@ Chiara Bellandi miró por la ventanilla mientras la costa de California subía h
 
 Desde el aire, todo parecía limpio. Hasta las zonas feas tenían una geometría obediente: almacenes alineados, patios de camiones, avenidas rectas, canales de concreto que recogían una lluvia que no estaba. Chiara sabía que los lugares mentían mejor cuando se miraban desde lejos. Palermo también podía parecer una postal si uno elegía la altura correcta.
 
-La primera vez que entendió que una habitación podía mirarla de vuelta tenía seis años.
+La primera vez que entendió que una orden podía llegar disfrazada de cortesía fue unas semanas antes de subir a ese avión, en un despacho de Nueva York, bien pasada la medianoche.
 
-Había encontrado una caja de colores y estaba dibujando una casa en la pared del pasillo, justo donde Marta acababa de limpiar. El trazo azul le había salido torcido. El amarillo se había convertido en una ventana demasiado grande. Chiara estaba inclinada sobre el muro, concentrada en corregir el techo, cuando su madre la descubrió.
+El evento de esa noche llevaba dos horas de haber terminado: una recaudación para un ala de museo que la mitad de los invitados no volvería a visitar, más joyas que preguntas, un cuarteto que había costado más que el catering. Chiara se había quedado a cerrar la caja como quien cierra una herida, cifra por cifra, hasta que el salón quedó vacío y sólo circulaban los de limpieza con carritos silenciosos.
 
-—Chiara, non sporcare il muro; l'ho appena pulito.
+Estaba revisando la última columna del reporte —propinas, comisión, la diferencia de siempre entre lo que el bar declaraba y lo que el bar servía— cuando la puerta del despacho se abrió sin que nadie tocara antes.
 
-—Non la sto macchiando.
+Il Consigliere entró como si el lugar fuera suyo desde antes de que alguien lo construyera.
 
-—Siempre dices lo mismo.
+—Trabaja usted hasta tarde, signora Ardizzone.
 
-Corrado estaba sentado en una silla, mirando la escena con el café entre las manos.
+Ella no levantó la vista de inmediato. Terminó la suma.
 
-—Déjala, Marta. Si se cae la casa por unas cuantas huellas, no es una buena casa.
+—Alguien tiene que hacerlo.
 
-—Claro, porque tú no limpias.
+—Es una virtud poco común. En esta ciudad cada vez menos gente sabe quedarse hasta que el número cierra.
 
-Corrado se rió. Marta lo había atrapado y él no tenía una defensa que no sonara a confesión.
+Se sentó sin que ella lo invitara, en la silla al otro lado del escritorio, y durante un minuto habló de otra cosa: de un cuarteto que había escuchado esa semana en el Lincoln Center, de un edificio nuevo en la calle 57 que, según él, ya nacía viejo por copiar demasiado a Europa. Chiara escuchó sin apurarlo. Sabía, por costumbre de familia, que un hombre así no llegaba a la medianoche a hablar de arquitectura.
 
-—¿Qué dibujas?
+—Il Consorzio ha decidido algo que le interesa —dijo por fin, como si continuara la misma frase sobre el edificio.
 
-—Una casa más grande.
+—¿Sobre el museo?
 
-—¿Y esta ya no te gusta?
+—Sobre usted.
 
-Chiara levantó la cara. Miró la pared, luego a sus padres.
+Chiara cerró la carpeta despacio, sin la prisa que él pudiera leer.
 
-—Sí. Esta me gusta de verdad mucho.
+—La familia Ardizzone va a tener un lugar en San Aurelio. Una ciudad modesta, en California. Usted la conocerá pronto.
 
-Corrado abrió un espacio a su lado, como si la pared pudiera recibir una decisión más.
+—¿Un lugar?
 
-—Bueno, dibujamos dentro a los tres. Así cualquier casa me vale.
+—Un socio de allá necesitaba respaldo. A cambio, ofreció lo que Il Consorzio necesitaba en esa costa. Il Consorzio aceptó.
 
-La memoria cambió de luz.
+No dijo el nombre del socio. No dijo qué se había prometido exactamente, ni a quién, ni por qué ese precio tenía que pagarlo ella y no otro nombre de la familia con menos apellido que perder. Chiara conocía ya esa clase de silencio: no era descuido. Era la parte que nunca iba a explicarle.
 
-La misma tarde, o quizá otra de la que sólo había sobrevivido el ruido, Chiara sostenía una cámara de video vieja y pesada contra el pecho. La fiesta estaba llena de adultos que hablaban demasiado alto, niños que corrían entre las piernas y música que hacía vibrar los vasos sobre la mesa. Vitto le había pisado un pie. Ella no había dejado de grabar.
+—¿Y mi lugar ahí?
 
-Corrado y Marta bailaban en el centro del salón. No bailaban bien. Bailaban como si eso no tuviera ninguna relación con hacerlo bien.
+—Matteo Bellacorte la recibirá. Ya administra parte del negocio.
 
-—No bailes tan seria, Chiara, y deja la cámara.
+—Va bene.
 
-—Sono concentrata y Vitto me ha pisado.
+Chiara sabía que no iba a obtener más información por la forma en que lo había declarado el consigliere: sin pausa, sin dejar una pregunta abierta al final. Una puerta que se cerraba con buenos modales.
 
-Corrado extendió una mano hacia el objetivo, pero Chiara se apartó justo a tiempo. La imagen se inclinó, atrapó el techo, volvió a encontrar a su madre y después el rostro de su padre, que sonreía con la paciencia de quien sabe que va a ser obedecido más tarde.
+—Hubo quien prefería, en la mesa, un nombre con más años encima —dijo él, con la misma calma de quien todavía habla del edificio de la calle 57—. Il Consorzio decidió que el suyo ya pesa lo suficiente.
 
-Marta le gritó algo desde fuera del encuadre. Corrado no dejó de bailar. Chiara tampoco dejó de grabar.
+—Dígale a la mesa que estén tranquilos. El apellido va a estar bien cuidado.
+
+—Nadie lo dudó nunca, signora. Se discutió el momento. Nunca el nombre.
+
+Chiara no le dio las gracias. Un cumplido de la mesa siempre llegaba con la factura adjunta, y ella ya sabía en qué moneda se la iban a cobrar.
+
+Il Consigliere sonrió, con la misma cordialidad exacta con la que había hablado del cuarteto.
+
+—Dirigir, observar y reportar a la mesa.
+
+Lo dijo con tan poco peso que casi sonó a favor.
+
+Chiara supo exactamente lo que esas palabras significaban, porque las había usado ella misma, en otro idioma, con gente a la que quería vigilar sin que lo notara. Dirigir era la parte que se veía. Observar era la parte que le pertenecía sólo a Il Consorzio. Reportar a la mesa era la correa: cualquier palabra de Bellacorte, cualquier gesto de ese socio sin nombre, iba a llegar a oídos que jamás pisarían San Aurelio.
+
+—¿Algo más?
+
+—Nada más —dijo él, poniéndose de pie con la misma economía con la que había entrado—. Buenas noches, signora Ardizzone. Y felicidades por el museo. La cifra final va a quedar bien.
+
+Salió sin esperar que ella lo acompañara a la puerta.
+
+Chiara se quedó con la carpeta cerrada bajo la mano y la sensación clara, física, de haber recibido una orden vestida de noticia. No preguntó por qué ella. No dijo que aceptaba. Las dos cosas habrían sido redundantes: en esa familia, cuando Il Consorzio decidía, la única pregunta que quedaba abierta era cuánto tiempo se tardaría en obedecer.
+
+Muy poco, pensó. Empezó esa misma madrugada.
 
 Apoyó dos dedos en el borde de la ventanilla y siguió el trazo de una carretera que nacía cerca del aeropuerto y se perdía hacia el norte. Pensó que San Aurelio sería eso: una escala con nombre propio. Unos días para ordenar un casino, medir a unos socios, firmar lo necesario y volver a casa con la sensación profesional de haber dejado algo funcionando mejor de lo que lo encontró.
 
@@ -849,6 +871,54 @@ En la maleta pequeña, debajo de la ropa doblada y de una carpeta con documentos
 Lo sacó y puso las fotografías sobre el mármol.
 
 La primera era de Corrado y Marta bailando en el salón, desenfocados por el movimiento. La segunda mostraba a Chiara con seis años, sosteniendo la cámara demasiado grande para sus brazos, el ojo derecho cerrado y la boca apretada de concentración. En la tercera, Marta miraba fuera del encuadre mientras Corrado señalaba algo con una mano; los dos parecían estar a punto de reírse.
+
+No hizo falta mirarlas mucho tiempo para que la primera se volviera recuerdo completo.
+
+La primera vez que entendió que una habitación podía mirarla de vuelta tenía seis años.
+
+Había encontrado una caja de colores y estaba dibujando una casa en la pared del pasillo, justo donde Marta acababa de limpiar. El trazo azul le había salido torcido. El amarillo se había convertido en una ventana demasiado grande. Chiara estaba inclinada sobre el muro, concentrada en corregir el techo, cuando su madre la descubrió.
+
+—Chiara, non sporcare il muro; l'ho appena pulito.
+
+—Non la sto macchiando.
+
+—Siempre dices lo mismo.
+
+Corrado estaba sentado en una silla, mirando la escena con el café entre las manos.
+
+—Déjala, Marta. Si se cae la casa por unas cuantas huellas, no es una buena casa.
+
+—Claro, porque tú no limpias.
+
+Corrado se rió. Marta lo había atrapado y él no tenía una defensa que no sonara a confesión.
+
+—¿Qué dibujas?
+
+—Una casa más grande.
+
+—¿Y esta ya no te gusta?
+
+Chiara levantó la cara. Miró la pared, luego a sus padres.
+
+—Sí. Esta me gusta de verdad mucho.
+
+Corrado abrió un espacio a su lado, como si la pared pudiera recibir una decisión más.
+
+—Bueno, dibujamos dentro a los tres. Así cualquier casa me vale.
+
+La memoria cambió de luz.
+
+La misma tarde, o quizá otra de la que sólo había sobrevivido el ruido, Chiara sostenía una cámara de video vieja y pesada contra el pecho. La fiesta estaba llena de adultos que hablaban demasiado alto, niños que corrían entre las piernas y música que hacía vibrar los vasos sobre la mesa. Vitto le había pisado un pie. Ella no había dejado de grabar.
+
+Corrado y Marta bailaban en el centro del salón. No bailaban bien. Bailaban como si eso no tuviera ninguna relación con hacerlo bien.
+
+—No bailes tan seria, Chiara, y deja la cámara.
+
+—Sono concentrata y Vitto me ha pisado.
+
+Corrado extendió una mano hacia el objetivo, pero Chiara se apartó justo a tiempo. La imagen se inclinó, atrapó el techo, volvió a encontrar a su madre y después el rostro de su padre, que sonreía con la paciencia de quien sabe que va a ser obedecido más tarde.
+
+Marta le gritó algo desde fuera del encuadre. Corrado no dejó de bailar. Chiara tampoco dejó de grabar.
 
 Chiara pasó el pulgar por el borde de esa última foto.
 

@@ -29,6 +29,18 @@ La Policía de San Aurelio es el cuarto actor **visible**, pero no un cuarto vé
 
 La Guerra de los Tres debe escribirse simultáneamente en tres niveles que nunca pueden volverse idénticos.
 
+## La red de contingencias — la mecha, no un cuarto vértice
+
+> **CANON DEL AUTOR (2026-09-12).** La infraestructura negable de La Mesa en San Aurelio funciona como una red de contingencias: administra presión, versiones, recursos y ausencias para volver utilizables tensiones que ya existen. No crea los motivos de [[02_Characters/Dario_Varek|Dario]], [[02_Characters/Warren_Halbrook|Halbrook]] o [[02_Characters/Cole_Mercer|Cole]], ni sustituye los tres vértices de la guerra. **No crea la pólvora; decide dónde prender el cerillo.**
+
+Su intervención debe ayudar a que el primer choque abierto de H1 se vuelva inevitable, pero sólo mediante **una** acción concreta aún pendiente. La coalición sigue alineada, favorecida o manipulada por Dario; Halbrook conserva su motivo autónomo y llega después como tercer frente. No convertir la red en explicación total ni en un cuarto bando público.
+
+La arquitectura se siembra en Libro I mediante las ausencias y operaciones de [[02_Characters/Nereo_Volpi|Nereo Volpi]]; en Libro II acelera la escalada y aprovecha el caos para borrar registros, cobrar deudas o reordenar rutas; en *Interregno*, Meridian puede reconstruirla como nexo real entre crímenes y presiones que parecían aislados.
+
+El hallazgo federal no debe ser una organización falsa plantada para engañarlos ni un chivo expiatorio inocente. Meridian encuentra una estructura real, criminal y causalmente relevante, pero ya desactivada: sin mando vivo, sin comunicaciones activas y sin depender de Cole o Chiara. La salida de ambos sólo funciona si han vuelto reemplazable su propio poder y no si escondieron una estructura idéntica detrás del expediente.
+
+> **PENDIENTE:** definir la única intervención de la red de contingencias que prende la mecha de H1 y cómo deja una huella que Meridian pueda leer después sin acceder a una explicación omnisciente.
+
 ### Capa 1 — Lo que ve San Aurelio
 
 La población observa aumento de violencia entre bandas, disputas territoriales, incendios, ataques a negocios, vehículos destruidos, tiroteos, desapariciones, ajustes de cuentas, represalias, cierres de zonas, armas largas, operativos, detenciones, cateos, controles, helicópteros, conferencias de prensa, hospitales recibiendo heridos y comercios cerrando temprano.

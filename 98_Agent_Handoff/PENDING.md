@@ -1,5 +1,11 @@
 # Pending
 
+- **Red de contingencias / H1 / salida (2026-09-12, canon del autor):** La Mesa tiene una infraestructura negable que no crea la Guerra de los Tres ni reemplaza a Dario, Halbrook y Cole como sus vértices; prende la mecha de una tensión ya existente y después administra parte del caos. Meridian podrá reconstruir esa red real en *Interregno* cuando ya esté desactivada, sin que Cole y Chiara planten un culpable falso ni conserven una estructura idéntica en secreto. **PENDIENTE CRÍTICO:** una única intervención concreta que vuelva inevitable H1 y deje una huella investigable después.
+
+- **Volpi / Matteo / expediente Meridian (2026-09-12):** fijados Keene y Tommaso como los dos primeros casos de una falsa lectura de asesino serial; un tercer asesinato, después de la apertura de Halbrook en *Interregno*, reactiva el patrón y Meridian lo lleva en paralelo. **PENDIENTE:** víctima, motivo y colocación exacta del tercer caso; investigador de Meridian; motivo concreto de la muerte de Tommaso; condición/destino del hermano de Matteo; evidencia, costo y motivo/momento de su regreso. No adelantar en prosa de Libros I–II el vínculo concluyente Volpi–Varek.
+
+- **Nereo / Fabrizio / segundo atentado (2026-09-12, canon del autor):** [[02_Characters/Nereo_Volpi]] trabaja en secreto para [[02_Characters/Dario_Varek]] desde el Libro I para aislar a Chiara bajo una falsa atribución a La Mesa. Fabrizio es padre de familia y Volpi lo coacciona mediante ella después del primer atentado contra Chiara; la orden posterior contra Fabrizio hace que Chiara, presente, sea un 2x1 no planeado. La revelación «ya nadie sostiene la correa de Volpi» pertenece a *Interregno*, con Varek encarcelado. **PENDIENTE:** lugar, mecanismo y consecuencias inmediatas del segundo atentado; no adelantar evidencia concluyente de Varek en Libros I–II.
+
 Pendientes activos para el siguiente relevo.
 
 - **EPUB REGENERADO (2026-09-12, peticion expresa del autor):** [[tools/epub-build/output/Seda_y_Polvora.epub]] recompilado con los 29 capitulos actuales de las Partes I y II, portada y estilo vigentes. Pandoc termino sin errores; salida de 1,621,637 bytes. Sustituye cualquier pendiente de regeneracion anterior para el contenido actual; no implica aprobacion editorial de borradores. Sin cambios de prosa, canon, commit ni push.
