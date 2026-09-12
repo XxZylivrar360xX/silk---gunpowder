@@ -32,7 +32,7 @@ Y es el más personal de los cuatro, porque **no es simplemente alguien que inte
 
 Su red clandestina aprovecha **rutas militares, contratistas, vehículos y zonas donde nadie pregunta demasiado qué está siendo trasladado.** No es una conspiración: es una operación bien administrada, con papeleo en orden, que aprovecha una infraestructura que ya existía.
 
-### Fachada institucional durante Parte III — CANON DEL AUTOR (2026-08-30)
+### Fachada institucional durante Voto de Ceniza / Guerra de los Tres — CANON DEL AUTOR (2026-08-30)
 
 La aparición de recursos estatales o militares alrededor de San Aurelio siempre tiene una justificación visible: contener una crisis de seguridad, proteger infraestructura o responder a delincuencia armada. Halbrook aprovecha, corrompe y redirige partes de esa capacidad para sus objetivos clandestinos.
 

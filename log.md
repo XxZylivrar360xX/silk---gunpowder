@@ -2897,3 +2897,10 @@ Encargo de auditoría y limpieza (no rediseño): rastreadas todas las aparicione
 **H8 y el exilio de Elenna:** sin cambios — se verificó que la relación "antecedente ideológico, no causa inmediata" fijada la sesión anterior sigue intacta y no contradice nada de lo corregido aquí. El detonante concreto del exilio sigue **PENDIENTE**, sin resolver.
 
 Sin prosa nueva, sin commit, sin EPUB.
+
+
+## [2026-09-11] Codex | Reconciliación final de residuos H22 y nomenclatura bélica
+
+- **RECONCILIACIÓN DOCUMENTAL H22 — CERRADA (2026-09-11, Codex, develop):** Elenna, Hitos y el mapa de Voto de Ceniza quedan alineados: guerra abierta, ciudad aún no ganada, cambio de pregunta estratégica y nacimiento consciente de la arquitectura de salida; ejecución mucho después. Corregidas etiquetas operativas heredadas. Mapas de cinco partes conservados como históricos con supersesión explícita; reconstrucción integral pendiente. Sin canon ni diseño nuevos, sin prosa, commit ni EPUB. Detalle: [[98_Agent_Handoff/sessions/2026-09-11_codex_reconciliacion_residuos_h22]].
+
+F2/H1, flashforward, falsa muerte, Riley como payoff y motivo del dedo intactos. Detonante del exilio y logística siguen PENDIENTES. Halbrook sentenciado en Libro II y ejecutado públicamente al abrir Libro III.

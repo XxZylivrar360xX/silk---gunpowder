@@ -69,7 +69,7 @@ Aquí se oyen:
 
 La iglesia no es red de espionaje. Pero una ciudad católica habla mucho donde cree que está rezando.
 
-### Atentado de Parte III — CANON DEL AUTOR (2026-08-30)
+### Atentado de Voto de Ceniza (Libro II) — CANON DEL AUTOR (2026-08-30)
 
 Después de la caída legal de Dario, Santa Lucía sufre un atentado armado que deja muertos y heridos, entre ellos figuras conocidas. Para la opinión pública no es “Halbrook atacó a Chiara”: es violencia que invade un espacio civil y religioso mientras la ciudad todavía cree que el arresto de Dario pudo haber cerrado la crisis.
 

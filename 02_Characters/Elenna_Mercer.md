@@ -138,7 +138,9 @@ Es la primera vez que Cole y Chiara ven a su hija **moverse**. Hasta ese momento
 
 El video sólo puede verse una vez o queda inutilizable después por el mecanismo de seguridad que se decida. La tecnología no está fijada y no debe explicarse todavía. Cuando termina, **Cole intenta reproducirlo otra vez y no puede**. No verbalizar la relación entre el video irrepetible y los primeros pasos que tampoco presenció.
 
-La escena no sólo muestra una ausencia. La guerra ya terminó y ellos parecen haber ganado. H22 les demuestra que pueden ganar San Aurelio mientras pierden la infancia de su hija, y se convierte en uno de los disparadores principales de su plan secreto de salida. No se marchan inmediatamente: empiezan a construir una estructura capaz de sobrevivir sin ellos.
+La guerra sigue abierta y Cole y Chiara todavía no han ganado San Aurelio. El video demuestra que, mientras siguen inmersos en el conflicto e intentan asegurar la ciudad, están perdiendo tiempo irrepetible de la infancia de Elenna.
+
+**H22 es el momento donde cambia la pregunta estratégica:** de *¿cómo hacemos San Aurelio suficientemente seguro para traer a Elenna?* a *¿cómo construimos una estructura capaz de funcionar sin nosotros para poder ir hacia ella?* Aquí nace conscientemente la arquitectura de salida que se desarrollará después y sembrará [[11_Books/Book_03_Interregno/00_Book_Map|Interregno]]. La decisión estratégica nace en H22; la ejecución de la salida ocurre mucho después. No se retiran inmediatamente: la guerra sigue abierta.
 
 ## El lugar que ocupa en Cole
 

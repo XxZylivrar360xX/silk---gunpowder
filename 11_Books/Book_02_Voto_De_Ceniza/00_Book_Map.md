@@ -151,7 +151,7 @@ Ocurre **después** de que la separación sea vida cotidiana, y **antes** de la 
 
 Sentido: **aquí Cole y Chiara comprenden que deben construir una estructura capaz de funcionar sin ellos.** El plan de salida nace en este libro; no pueden ejecutarlo porque la guerra sigue abierta. Colocación dura: **eligen a Elenna antes de Santa Lucía** — que la decisión no nazca del miedo posterior al atentado.
 
-> **DISEÑO (2026-09-11) — el giro de la pregunta.** Antes del video, Cole y Chiara pueden sostener: *¿cómo hacemos San Aurelio suficientemente seguro para traer a Elenna?* Después: *¿por qué seguimos intentando traer a Elenna a San Aurelio?* La respuesta deja de ser traerla a casa y pasa a ser **ir ellos hacia ella** — la arquitectura de salida que siembra [[11_Books/Book_03_Interregno/00_Book_Map|Interregno]] nace de esta pregunta, no sólo de la necesidad operativa de delegar.
+> **CANON DEL AUTOR (precisión de continuidad, 2026-09-11) — el giro de la pregunta.** Antes del video, Cole y Chiara pueden sostener: *¿cómo hacemos San Aurelio suficientemente seguro para traer a Elenna?* Después: *¿cómo construimos una estructura capaz de funcionar sin nosotros para poder ir hacia ella?* H22 marca el cambio de pregunta estratégica y el nacimiento consciente de la arquitectura de salida que siembra [[11_Books/Book_03_Interregno/00_Book_Map|Interregno]]. Todavía no han ganado San Aurelio: mientras intentan asegurar la ciudad, pierden tiempo irrepetible de la infancia de Elenna. La guerra sigue abierta y la ejecución de la salida ocurre mucho después.
 
 ### Falso clímax — Dario cae
 

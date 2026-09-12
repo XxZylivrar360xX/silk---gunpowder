@@ -4,6 +4,8 @@
 
 **Estado:** diseno / montaje inicial EPUB
 
+> **SUPERSESIÓN DE ARQUITECTURA (2026-09-11):** los bloques macro de cinco partes conservados abajo son referencia histórica, no ubicación operativa vigente. Sus menciones a Parte III / Parte IV, H22 posterior al cierre bélico y muerte pública de Halbrook dentro de la guerra quedan supersedidas por [[00_Biblia/00_Trilogy_Structure]], [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]] y [[06_Relationships/Hitos]]. H22 ocurre en Voto de Ceniza, con la guerra abierta, antes de Dario/montaña/Santa Lucía: cambia la pregunta estratégica e inicia la arquitectura de salida; su ejecución llega mucho después. Halbrook es sentenciado en Libro II y ejecutado públicamente al abrir Libro III. La reconstrucción integral del mapa sigue pendiente; para las partes vigentes del Libro I, consultar [[01_Timeline/02_Cadena_De_Eventos_Libro_I]].
+
 ---
 
 ## Que es este libro

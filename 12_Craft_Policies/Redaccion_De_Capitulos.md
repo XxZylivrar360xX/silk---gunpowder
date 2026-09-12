@@ -43,9 +43,9 @@ Usar tercera persona cercana. La narracion se pega al personaje que mas paga el 
 
 No cambiar de punto de vista por comodidad informativa. Un corte entre Cole y Chiara es valido si crea contraste de mundo, no si solo evita resolver una transicion.
 
-### Parte III — información y percepción
+### Voto de Ceniza / Guerra de los Tres — información y percepción
 
-Antes de redactar cualquier enfrentamiento importante de [[04_Concepts/La_Guerra_de_los_Tres|Parte III]], completar la [[04_Concepts/La_Guerra_de_los_Tres#Matriz obligatoria de enfrentamientos|matriz de verdad, percepción y prueba]]. La prosa no puede igualar automáticamente lo que ocurrió, lo que sabe el lector, lo que vio la policía, lo que publicó la prensa y lo que cree la ciudad.
+Antes de redactar cualquier enfrentamiento importante de [[04_Concepts/La_Guerra_de_los_Tres|la Guerra de los Tres]], completar la [[04_Concepts/La_Guerra_de_los_Tres#Matriz obligatoria de enfrentamientos|matriz de verdad, percepción y prueba]]. La prosa no puede igualar automáticamente lo que ocurrió, lo que sabe el lector, lo que vio la policía, lo que publicó la prensa y lo que cree la ciudad.
 
 ## Exposicion
 

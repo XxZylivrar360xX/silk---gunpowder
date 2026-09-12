@@ -110,7 +110,7 @@ Dentro de la policía local, Luis es Detective 1 / Homicidios: el principal anta
 
 ---
 
-## Parte III — cuarto actor visible
+## Voto de Ceniza / Guerra de los Tres — cuarto actor visible
 
 > **CANON DEL AUTOR (2026-08-30):** durante [[04_Concepts/La_Guerra_de_los_Tres|la Guerra de los Tres]], el Departamento no es decorado y tampoco un cuarto bando. Es el Estado intentando contener las consecuencias visibles de tres centros clandestinos que no conoce por nombre ni organigrama.
 

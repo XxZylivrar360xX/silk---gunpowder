@@ -96,7 +96,7 @@ H1 ocurre aquí durante Parte II, después de que la villa ya existe. Antes de q
 
 El reveal no ocurre durante H1. Llega después, cuando Cole está fuera de peligro, duerme, comienza a recuperarse y regresa cierta normalidad. Desde ese momento, la villa debe adquirir suficientes huellas de expectativa familiar para que el lector imagine la vida que ambos creen posible, sin convertir la casa en catálogo de habitación infantil ni fijar detalles médicos o decorativos pendientes.
 
-Durante Parte III, cuando Elenna vive en Italia como Elenna Serra, Riley envía muy pocas fotografías. Cole y Chiara las ven y después las queman en **la chimenea de Villa Candelaria** para no dejar evidencia que pueda conducir hasta ella. La chimenea queda fijada como parte de la casa; número de fotografías y escenas exactas pendientes.
+Durante Voto de Ceniza (Libro II), cuando Elenna vive en Italia como Elenna Serra, Riley envía muy pocas fotografías. Cole y Chiara las ven y después las queman en **la chimenea de Villa Candelaria** para no dejar evidencia que pueda conducir hasta ella. La chimenea queda fijada como parte de la casa; número de fotografías y escenas exactas pendientes.
 
 La villa sostiene así dos conocimientos desiguales: en H1, Cole no sabe que su hija lo espera; durante la separación, San Aurelio no sabe que la hija que creen muerta sigue viva.
 

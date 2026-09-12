@@ -222,7 +222,7 @@ Su moneda más cara no es publicar: es **matar**. Que algo no salga vale más qu
 
 Pero el periódico no es el origen de su información. Es el instrumento que convierte una parte de esa información en hecho público.
 
-En [[04_Concepts/La_Guerra_de_los_Tres|Parte III]], Chiara no “controla la prensa”: compite por la explicación que ocupa el vacío después de cada explosión, operativo, arresto, muerte, cierre o ataque. Debe existir una diferencia verificable entre lo ocurrido, lo que vio la policía, lo que informó la prensa, lo que cree la ciudad y lo que Chiara quiere que crea. Ésta es la guerra del relato al mismo nivel que la guerra territorial de Cole.
+En [[04_Concepts/La_Guerra_de_los_Tres|la Guerra de los Tres, en Voto de Ceniza]], Chiara no “controla la prensa”: compite por la explicación que ocupa el vacío después de cada explosión, operativo, arresto, muerte, cierre o ataque. Debe existir una diferencia verificable entre lo ocurrido, lo que vio la policía, lo que informó la prensa, lo que cree la ciudad y lo que Chiara quiere que crea. Ésta es la guerra del relato al mismo nivel que la guerra territorial de Cole.
 
 Antes de [[03_Factions/El_Faro]] está la [[03_Factions/Red_Civil_de_Chiara]]: tiendas, restaurantes, salones, valet, cocinas, mujeres mayores, asistentes, meseras, choferes y rumores de barrio. Chiara entiende que el chisme no es ruido si sabes dirigirlo.
 
@@ -266,7 +266,7 @@ Cuando le toca la placa y dice *Retorna a casa*, Cole entiende que habla de los 
 
 El reveal ocurre sólo después de que Cole queda fuera de peligro, duerme, inicia recuperación y vuelve cierta normalidad doméstica. El diálogo, el mecanismo de confirmación, los días exactos y la reacción textual de Cole permanecen pendientes.
 
-Durante el resto de Parte II, el embarazo debe existir como realidad doméstica y progresión física suficiente, no como único tema de Chiara ni como colección de síntomas. En Parte III, la guerra recibe a Chiara ya embarazada; no produce el embarazo.
+Durante el resto de Parte II, el embarazo debe existir como realidad doméstica y progresión física suficiente, no como único tema de Chiara ni como colección de síntomas. En Voto de Ceniza (Libro II), la guerra recibe a Chiara ya embarazada; no produce el embarazo.
 
 ### El pañuelo — CANON DEL AUTOR (2026-08-27), arco reservado
 

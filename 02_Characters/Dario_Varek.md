@@ -21,7 +21,7 @@ Egocéntrico. Y **misógino disimulado** — lo importante es *disimulado*: jam�
 
 **Ve a Chiara como un activo político, y algo reemplazable.** No la desprecia: la **cotiza**. Y ésa es la ofensa real, porque es exactamente la operación que ella le hace al resto del mundo, aplicada sobre ella.
 
-### Fachada pública durante Parte III — CANON DEL AUTOR (2026-08-30)
+### Fachada pública durante Voto de Ceniza / Guerra de los Tres — CANON DEL AUTOR (2026-08-30)
 
 Dario sigue siendo magnate, empresario, figura vinculada al Monarch, hombre de contactos y personaje respetable con zonas grises. Puede condenar la violencia, pedir estabilidad, colaborar superficialmente con autoridades y mantener distancia visible respecto de las bandas que orbitan su estructura.
 

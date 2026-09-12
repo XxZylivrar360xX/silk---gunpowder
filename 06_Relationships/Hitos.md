@@ -2440,7 +2440,7 @@ Lo que sí debe existir en prosa **antes** de H22:
 - el embarazo, H1 con conocimiento desigual y el reveal a Cole (Libro I);
 - el nacimiento de Elenna, la falsa muerte pública, Elenna Serra con Riley, y una separación ya vivida como experiencia cotidiana (fotografías escasas incluidas).
 
-Lo que ocurre **después** de H22, dentro del mismo libro (Voto de Ceniza): la caída legal de Dario (falso clímax) → la montaña y Santa Lucía —con la muerte de [[02_Characters/Hector_Navarro|Héctor Navarro]] y de [[02_Characters/Kenji_Oda|Kenji Oda]] y Chiara gravemente herida— → Cole decide que Halbrook debe morir (no lo ejecuta todavía) → Corrado revelado vivo. **H22 no es el epílogo de la guerra: es la bisagra que la precede** y que hace nacer el plan de salida antes del atentado contra Chiara.
+Lo que ocurre **después** de H22, dentro del mismo libro (Voto de Ceniza): la caída legal de Dario (falso clímax) → la montaña y Santa Lucía —con la muerte de [[02_Characters/Hector_Navarro|Héctor Navarro]] y de [[02_Characters/Kenji_Oda|Kenji Oda]] y Chiara gravemente herida— → Cole decide que Halbrook debe morir (no lo ejecuta todavía) → Corrado revelado vivo. **H22 es la bisagra dentro de la guerra todavía abierta** que hace nacer el plan de salida antes del atentado contra Chiara.
 
 ## Pendientes
 
@@ -2473,7 +2473,7 @@ Redactarlo antes de construir esas causas convertiría una bisagra estructural e
 
 - **ID:** H22. Era el siguiente ID libre real después de H21; no se renumeran hitos anteriores.
 - **Posición canon (CORREGIDA 2026-09-11 contra [[00_Biblia/00_Trilogy_Structure]]):** dentro de **Voto de Ceniza (Libro II)**, después de que la separación de Elenna sea experiencia cotidiana, y **antes** de la caída legal de Dario, la montaña y Santa Lucía. La formulación anterior ("apertura de Parte IV, después del cierre completo de la Guerra de los Tres") queda decanonizada — invertía el orden que el autor fijó.
-- **Relación con la guerra:** no es su epílogo — la precede. Ocurre mientras Cole y Chiara todavía sostienen la Guerra de los Tres, antes del falso clímax (caída de Dario) y del clímax real (montaña + Santa Lucía).
+- **Relación con la guerra:** ocurre dentro de la Guerra de los Tres todavía abierta, mientras Cole y Chiara siguen inmersos en el conflicto, antes del falso clímax (caída de Dario) y del clímax real (montaña + Santa Lucía).
 - **Prosa:** bloqueada hasta cumplir la matriz de dependencias.
 
 ## Matriz de dependencias
@@ -2564,15 +2564,15 @@ Hasta H22, Cole y Chiara todavía pueden sostener una racionalización:
 
 El video la rompe. Elenna está creciendo, aprendiendo, formando vínculos y sosteniendo una vida cotidiana sin ellos. Pueden ganar San Aurelio y perder la infancia completa de su hija.
 
-Sienten que la guerra está por cerrarse a su favor — todavía no ha cerrado. H22 revela qué costará esa victoria aunque llegue.
+La guerra sigue abierta y todavía no han ganado San Aurelio. H22 revela que, mientras intentan asegurar la ciudad, están perdiendo tiempo irrepetible de la infancia de Elenna.
 
 ## Función estructural
 
-H22 no provoca retiro inmediato. Cole y Chiara todavía no pueden irse. Cambia el propósito de la consolidación:
+H22 marca el cambio de pregunta estratégica y el nacimiento consciente de la arquitectura de salida. La guerra sigue abierta: la ejecución de la salida ocurre mucho después. Cambia el propósito de la consolidación:
 
 | Antes | Después de H22 |
 |---|---|
-| ¿Cómo hacemos crecer esto? | ¿Cómo hacemos que siga funcionando cuando desaparezcamos? |
+| ¿Cómo hacemos San Aurelio suficientemente seguro para traer a Elenna? | ¿Cómo construimos una estructura capaz de funcionar sin nosotros para poder ir hacia ella? |
 | poder que pasa por Cole | funciones que pueden sobrevivir sin Cole |
 | consolidación como permanencia | consolidación como arquitectura de salida |
 
@@ -2580,7 +2580,7 @@ El contraste con Dario es obligatorio: **Dario construye un sistema donde todo p
 
 Mientras San Aurelio los convierte en **La Mancuerna de Hierro y Seda**, ellos profesionalizan, delegan, construyen redundancias, separan funciones y vuelven reemplazables sus posiciones. Exterior: permanencia. Interior: salida.
 
-> **DISEÑO (2026-09-11) — el giro de la pregunta.** Antes del video: *¿cómo hacemos San Aurelio suficientemente seguro para traer a Elenna?* Después: *¿por qué seguimos intentando traer a Elenna a San Aurelio?* La respuesta deja de ser traerla a casa y pasa a ser **ir ellos hacia ella** — el mismo giro que en [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map|el Book Map de Voto de Ceniza]] siembra la arquitectura de salida de [[11_Books/Book_03_Interregno/00_Book_Map|Interregno]].
+> **CANON DEL AUTOR (precisión de continuidad, 2026-09-11) — el giro de la pregunta.** Antes del video: *¿cómo hacemos San Aurelio suficientemente seguro para traer a Elenna?* Después: *¿cómo construimos una estructura capaz de funcionar sin nosotros para poder ir hacia ella?* La respuesta pasa a ser **ir ellos hacia ella** — el mismo giro que en [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map|el Book Map de Voto de Ceniza]] siembra la arquitectura de salida de [[11_Books/Book_03_Interregno/00_Book_Map|Interregno]], sin ejecutar todavía el retiro.
 
 ## Restricciones
 

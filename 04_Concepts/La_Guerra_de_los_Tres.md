@@ -1,8 +1,8 @@
 # La Guerra de los Tres
 
-> **AVISO DE SUPERSESIÓN (2026-09-11).** Este documento es de 2026-08-30, anterior a [[00_Biblia/00_Trilogy_Structure]] (2026-09-07), y usa "Parte III" como nombre operativo de todo el tramo de la guerra. Leer **"Parte III" como el tramo de *Voto de Ceniza* (Libro II)** que va desde su apertura hasta la caída de Dario, la montaña y Santa Lucía. Dos puntos quedaban en contradicción directa con la trilogía y se corrigen abajo: (1) [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] ocurre **antes** de la caída de Dario/montaña/Santa Lucía, no después de "cerrar Parte III"; (2) la **muerte pública de Halbrook no ocurre dentro de este tramo** — Cole sólo lo sentencia aquí; la ejecución abre *Interregno* (Libro III). No se movió ningún hito ni se inventó contenido nuevo.
+> **AVISO DE SUPERSESIÓN (2026-09-11).** Este documento es de 2026-08-30, anterior a [[00_Biblia/00_Trilogy_Structure]] (2026-09-07), y usaba "Parte III" como nombre operativo de todo el tramo de la guerra; las etiquetas operativas del cuerpo se actualizaron a Voto de Ceniza / Guerra de los Tres. Leer **"Parte III" como el tramo de *Voto de Ceniza* (Libro II)** que va desde su apertura hasta la caída de Dario, la montaña y Santa Lucía. Dos puntos quedaban en contradicción directa con la trilogía y se corrigen abajo: (1) [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] ocurre **antes** de la caída de Dario/montaña/Santa Lucía, no después de "cerrar Parte III"; (2) la **muerte pública de Halbrook no ocurre dentro de este tramo** — Cole sólo lo sentencia aquí; la ejecución abre *Interregno* (Libro III). No se movió ningún hito ni se inventó contenido nuevo.
 
-> **CANON DEL AUTOR (2026-08-30). REGLA DURA DE PARTE III.** “Guerra de los Tres” es una denominación de arquitectura narrativa para el autor, los agentes y, progresivamente, el lector. **No existe públicamente.**
+> **CANON DEL AUTOR (2026-08-30). REGLA DURA DE VOTO DE CENIZA / GUERRA DE LOS TRES.** “Guerra de los Tres” es una denominación de arquitectura narrativa para el autor, los agentes y, progresivamente, el lector. **No existe públicamente.**
 
 ## Lo que el nombre no significa
 
@@ -27,7 +27,7 @@ La Policía de San Aurelio es el cuarto actor **visible**, pero no un cuarto vé
 
 ## Las tres capas de verdad
 
-La Parte III debe escribirse simultáneamente en tres niveles que nunca pueden volverse idénticos.
+La Guerra de los Tres debe escribirse simultáneamente en tres niveles que nunca pueden volverse idénticos.
 
 ### Capa 1 — Lo que ve San Aurelio
 
@@ -108,7 +108,7 @@ Ejemplo de capas:
 
 ## Matriz obligatoria de enfrentamientos
 
-Antes de diseñar cada enfrentamiento importante de Parte III, registrar esta matriz. No todos los campos tienen que aparecer en prosa; la matriz existe para impedir omnisciencia accidental.
+Antes de diseñar cada enfrentamiento importante de la Guerra de los Tres, registrar esta matriz. No todos los campos tienen que aparecer en prosa; la matriz existe para impedir omnisciencia accidental.
 
 | Pregunta | Respuesta necesaria |
 |---|---|
@@ -131,9 +131,9 @@ La guerra debe producir fenómenos que ninguno de los tres ordenó. San Aurelio 
 
 ## La guerra invade una familia en marcha — CANON DEL AUTOR (2026-08-31)
 
-Chiara entra a Parte III **ya embarazada**. La Guerra de los Tres no produce el embarazo ni ocurre porque exista Elenna: invade una vida doméstica que Cole y Chiara ya habían empezado a imaginar durante Parte II.
+Chiara entra a Voto de Ceniza (Libro II) **ya embarazada**. La Guerra de los Tres no produce el embarazo ni ocurre porque exista Elenna: invade una vida doméstica que Cole y Chiara ya habían empezado a imaginar durante Parte II.
 
-La posición relativa obligatoria dentro del primer tramo importante de la parte es:
+La siguiente cadena es una referencia histórica supersedida en la posición de F2 por [[00_Biblia/00_Trilogy_Structure]]: Riley ya está establecida en Italia al abrir Voto de Ceniza. Para el orden operativo vigente, consultar [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]] y [[06_Relationships/Hitos]].
 
 `inicio de la guerra → F2 / destierro de Riley → Riley establecida en Italia como Riley Colombo → nacimiento de Elenna → detonante pendiente → muerte pública falsa → Elenna Serra con Riley → separación de sus padres`.
 
@@ -149,9 +149,9 @@ La maniobra conserva las tres capas de verdad:
 
 Ni Dario Varek ni Warren Halbrook conocen que sobrevivió. La guerra no se simplifica a una operación para “salvar a la bebé”: Elenna puede cumplir su función sin estar físicamente en peligro en escena. Su poder narrativo es la vida que continúa en otro lugar mientras sus padres terminan la guerra.
 
-La separación debe durar lo suficiente para convertirse en experiencia acumulada —fotografías escasas, crecimiento y ausencia— antes de [[06_Relationships/Hitos#H22 — Los primeros pasos|H22 — Los primeros pasos]]. **Corrección (2026-09-11):** H22 no depende del cierre de Parte III/la guerra — [[00_Biblia/00_Trilogy_Structure]] lo coloca **antes** de la caída de Dario, la montaña y Santa Lucía, mientras la guerra sigue abierta. Sigue bloqueado para prosa por su propia matriz de dependencias, no por el cierre bélico.
+La separación debe durar lo suficiente para convertirse en experiencia acumulada —fotografías escasas, crecimiento y ausencia— antes de [[06_Relationships/Hitos#H22 — Los primeros pasos|H22 — Los primeros pasos]]. **Corrección (2026-09-11):** H22 no depende del cierre de la guerra — [[00_Biblia/00_Trilogy_Structure]] lo coloca **antes** de la caída de Dario, la montaña y Santa Lucía, mientras la guerra sigue abierta. Sigue bloqueado para prosa por su propia matriz de dependencias, no por el cierre bélico.
 
-## Curva institucional de Parte III
+## Curva institucional de Voto de Ceniza / Guerra de los Tres
 
 1. **Inicio:** el Departamento interpreta los incidentes como violencia criminal elevada pero reconocible.
 2. **Mitad:** detecta coordinación, armas, recursos y movimientos que exceden una guerra de bandas ordinaria.

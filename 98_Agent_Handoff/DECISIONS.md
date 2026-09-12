@@ -2,6 +2,8 @@
 
 Decisiones compactas para relevo. No reemplaza `log.md`.
 
+- **RECONCILIACIÓN DOCUMENTAL H22 — CERRADA (2026-09-11, Codex, develop):** Elenna, Hitos y el mapa de Voto de Ceniza quedan alineados: guerra abierta, ciudad aún no ganada, cambio de pregunta estratégica y nacimiento consciente de la arquitectura de salida; ejecución mucho después. Corregidas etiquetas operativas heredadas. Mapas de cinco partes conservados como históricos con supersesión explícita; reconstrucción integral pendiente. Sin canon ni diseño nuevos, sin prosa, commit ni EPUB. Detalle: [[98_Agent_Handoff/sessions/2026-09-11_codex_reconciliacion_residuos_h22]].
+
 - **PARTE IV Y EPUB (2026-09-10, autor):** «Nieve y Ceniza» sustituye «Cenizas y Ascensos». EPUB regenerado por petición expresa con 29 capítulos; Partes I y II exportadas como «Dos Mundos» y «Con peores personas he tratado». Verificados ZIP, XML e índice (29 capítulos + 2 partes). Las partes futuras se incorporarán cuando exista prosa. Carpetas heredadas conservadas; el generador traduce sus títulos. Sin cambios de prosa.
 
 - **PARTES DEL LIBRO I (2026-09-10, títulos del autor):** I — Dos Mundos; II — "Con peores personas he tratado"; III — Ardizzone; IV — Cenizas y Ascensos; V — Exilio; VI — "Torna a Casa"; coda — La tierra bajo sus botas. Integrado en [[01_Timeline/02_Cadena_De_Eventos_Libro_I]]. Distribución por bloques: I = caps. 1–26, II = A, III = B–D, IV = E–F, V = G, VI = H hasta H1e, epílogo = H1f (DISEÑO). El segundo VI de la lista del autor se interpreta como epílogo por el contexto previo; no se canoniza esa etiqueta. Sin cambios de prosa, carpetas ni EPUB.

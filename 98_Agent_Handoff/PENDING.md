@@ -2,6 +2,8 @@
 
 Pendientes activos para el siguiente relevo.
 
+- **Residuos de H22 y nomenclatura bélica — cerrados (2026-09-11):** [[98_Agent_Handoff/sessions/2026-09-11_codex_reconciliacion_residuos_h22]]. Reconstrucción integral de mapas heredados pendiente (ítem 0); exilio, logística y prosa conservan sus pendientes.
+
 - **Roadmap de Voto de Ceniza — exilio de Elenna, integrado (2026-09-11):** [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]] ya tiene la arquitectura completa (flashforward, nueve meses, H8 como antecedente, amenazas, filosofías de protección, Riley/pista clandestina, capítulo de revelación completa, primer año, giro de H22). Sigue **PENDIENTE, no inventado:** mecanismo médico/hospitalario/documental de la falsa muerte de Elenna; círculo completo del secreto (quién sabe, desde cuándo); si la pista de entrega de Elenna es la misma infraestructura del destierro de Riley (F2) o una distinta; capítulos exactos del flashforward y de los ~9 meses de embarazo. Nada de esto se redacta en prosa hasta que el autor decida — el Libro II sigue con BLOQUEO DE PROSA general y H22 con bloqueo propio.
 
 - **EPUB ACTUALIZADO (2026-09-11, petición expresa del autor):** [[tools/epub-build/output/Seda_y_Polvora.epub]] regenerado con los 29 capítulos actuales, incluidas las microediciones recientes, y la portada y estilo existentes. Verificados ZIP, XML, portada e índice (29 capítulos + 2 partes). Sustituye las menciones anteriores de EPUB pendiente para el contenido actual; las revisiones editoriales del autor siguen abiertas. Sin cambios de prosa, commit ni push.
@@ -52,12 +54,12 @@ Pendientes activos para el siguiente relevo.
 - Expandir los 90 beats macro hacia beats medios por bloques de capitulo.
 - Marcar cada bloque con: poder / relacion / ciudad / consecuencia.
 - Detectar donde faltan escenas pequenas antes de Fase V.
-- Desglosar Parte III con una matriz por enfrentamiento según [[04_Concepts/La_Guerra_de_los_Tres#Matriz obligatoria de enfrentamientos]].
-- Fijar el evento que abre la guerra y la transición exacta Parte II → Parte III.
+- Desglosar la Guerra de los Tres en Voto de Ceniza con una matriz por enfrentamiento según [[04_Concepts/La_Guerra_de_los_Tres#Matriz obligatoria de enfrentamientos]].
+- Precisar la escalada inicial de la Guerra de los Tres en Voto de Ceniza dentro de las fronteras ya fijadas por [[00_Biblia/00_Trilogy_Structure]].
 - Diseñar el mecanismo y la evidencia de la caída legal de Dario sin romper su fachada antes de tiempo.
 - Fijar relación causal y orden fino de Santa Lucía + montaña, qué descubre Cole sobre Halbrook y qué puede demostrar la ley.
-- Decidir quién dispara contra Halbrook en la explanada del Ayuntamiento.
-- Reauditar los cortes Parte III → IV y Parte IV → V después de mover la caída de Dario y Santa Lucía a Parte III.
+- **RESUELTO por [[00_Biblia/00_Trilogy_Structure]]:** Cole ejecuta públicamente a Halbrook al abrir Interregno; en Voto de Ceniza sólo lo sentencia.
+- La reauditoría de los antiguos cortes Parte III → IV → V queda supersedida por las fronteras de [[00_Biblia/00_Trilogy_Structure]]: H22 dentro de Voto de Ceniza, antes de Dario/montaña/Santa Lucía; ejecución pública de Halbrook al abrir Interregno. La reconstrucción integral de los mapas heredados sigue pendiente (ítem 0).
 
 ## Piloto Stack Editorial V1 (2026-08-29)
 
