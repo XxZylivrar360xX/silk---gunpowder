@@ -2,6 +2,8 @@
 
 Pendientes activos para el siguiente relevo.
 
+- **EPUB REGENERADO (2026-09-12, peticion expresa del autor):** [[tools/epub-build/output/Seda_y_Polvora.epub]] recompilado con los 29 capitulos actuales de las Partes I y II, portada y estilo vigentes. Pandoc termino sin errores; salida de 1,621,637 bytes. Sustituye cualquier pendiente de regeneracion anterior para el contenido actual; no implica aprobacion editorial de borradores. Sin cambios de prosa, canon, commit ni push.
+
 - **Arte de personajes (2026-09-11):** integración conceptual cerrada en siete fichas. **PENDIENTE:** confirmar los rasgos visuales nuevos propuestos, especialmente apariencia de Nadir y lateralidad del lunar de Chiara. Discrepancias con canon registradas en [[99_Reference/character_art/README]]; cicatriz/arete izquierdos de Cole y bigote sin barba de Danny siguen mandando. No se han retocado imágenes ni adoptado edad/procedencia de los rótulos de Walt.
 
 - **Danny (2026-09-11):** trasfondo, nacionalidad, oficio específico, familia y lugar exacto dentro de Almendra Towing siguen abiertos por decisión del autor. Edad (30 años), apariencia, desgaste inicial y pertenencia visual al taller ya fijados en [[02_Characters/Daniel_Hayes]]. No profundizar esos antecedentes por conveniencia.
