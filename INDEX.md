@@ -206,6 +206,14 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 
 ---
 
+# Escenas guia
+
+- [[07_Ideas/Escenas_Guia]] — momentos canon del autor conservados como orientación emocional para prosa futura, sin convertirlos en bocetos rígidos.
+- [[07_Ideas/Escenas_Guia/El_Regreso_De_Elenna]] — reencuentro final de Cole y Chiara con Elenna en Palermo; paga el video de los primeros pasos, el motivo del dedo y la nana de Chiara.
+- [[08_Scenes/Book_02/01_Llegada_Al_Hospital]] — borrador narrativo solicitado por el autor: primera escena de la apertura de *Voto de Ceniza*, limitada a la llegada de Cole y Chiara al hospital.
+- [[08_Scenes/Book_02/02_Nacimiento_Y_Los_Tres]] — borrador narrativo solicitado por el autor: segunda escena de la apertura de *Voto de Ceniza*, nacimiento y los primeros minutos de Cole, Chiara y la bebé juntos.
+- [[08_Scenes/Book_03/Tornare_A_Casa_Material_Narrativo]] — borrador no canónico del reencuentro, solicitado para orientar *Interregno* sin fijar pendientes logísticos o de edad.
+
 # Relevo entre agentes
 
 - [[98_Agent_Handoff/sessions/2026-09-11_codex_microedicion_m4_intuicion_presagio_percepcion]] — M4: intuición, presagio y percepción; C13 intacto, dos cortes en C14 y una compresión en C16, mapa comparativo y 14 protecciones.

@@ -16,3 +16,7 @@ Poder decir en una frase qué cambió en el mapa de poder o en la relación. Si 
 ## Nomenclatura
 
 `NN_Titulo_Corto.md` — numeración de dos dígitos, título sin tildes en el nombre de archivo.
+
+## Material narrativo
+
+- [[08_Scenes/Book_03/Tornare_A_Casa_Material_Narrativo]] — borrador no canónico para *Interregno*, guiado por [[07_Ideas/Escenas_Guia/El_Regreso_De_Elenna]].
