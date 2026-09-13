@@ -10,7 +10,7 @@
 **Edad al abrir la novela:** 23.
 **Oficio:** corredora callejera; aprendiz operativa de lectura de escenarios.
 **Rol:** secundaria importante; protegida de Chiara.
-**Identidad de resguardo en Italia:** Riley Colombo.
+**Identidad de resguardo en Italia:** Riley Ardizzone.
 **Estado:** viva; desterrada de San Aurelio en el **Libro I** (antes de H1) y establecida en Italia antes del nacimiento de Elenna en *Voto de Ceniza* (Libro II).
 
 ---
@@ -49,7 +49,7 @@ Lo que opera hoy:
 - Se integra a la organización junto con Mei-Lin.
 - Se acerca a Chiara y termina bajo su protección.
 - Su arco apunta a un futuro mejor lejos de la calle.
-- En [[06_Relationships/Momentos_de_Fractura]], F2, Kal la destierra para salvarle la vida: sale hacia Nueva York y después Chiara organiza su llegada a Italia bajo el alias **Riley Colombo**.
+- En [[06_Relationships/Momentos_de_Fractura]], F2, Kal la destierra para salvarle la vida: sale hacia Nueva York y después Chiara organiza su llegada a Italia bajo el apellido de protección **Ardizzone**.
 
 ### Italia y Elenna — CANON / DISEÑO FIJADO (2026-08-31; posición corregida 2026-09-11)
 
@@ -61,7 +61,7 @@ Riley recibe a Elenna Serra y se vuelve su cuidadora cotidiana durante aproximad
 
 Elenna desarrolla un apego real hacia Riley. Ese vínculo sobrevive al reencuentro con Kal y Chiara; la recuperación de convivencia con sus padres debe ser gradual y no borrar a Riley.
 
-Siguen pendientes el mecanismo documental de Riley Colombo, quién sostiene su cobertura, la localización exacta, su vida cotidiana antes de recibir a Elenna y cuánto tiempo media entre F2 y el nacimiento.
+Siguen pendientes el mecanismo documental de Riley Ardizzone, quién sostiene su cobertura, la localización exacta, su vida cotidiana antes de recibir a Elenna y cuánto tiempo media entre F2 y el nacimiento.
 
 ### La entrega — DISEÑO / CANON DEL AUTOR (2026-09-11)
 
@@ -118,7 +118,7 @@ Ese aprendizaje la vuelve peligrosa de una forma nueva: una corredora que aprend
 
 > **PENDIENTE:** si Mei-Lin quiere salir también o si eso crea tensión entre ellas.
 
-> **RESUELTO DE ARQUITECTURA (2026-08-31):** durante el resguardo en Italia vive como **Riley Colombo**. **PENDIENTES:** mecanismo documental, cobertura legal, apoyos y localización exacta.
+> **RESUELTO DE ARQUITECTURA (2026-08-31; corregido por CANON DEL AUTOR 2026-09-13):** durante el resguardo en Italia vive como **Riley Ardizzone**, bajo la protección del apellido de Chiara. **PENDIENTES:** mecanismo documental, cobertura legal, apoyos y localización exacta.
 
 ---
 

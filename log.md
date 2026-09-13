@@ -1,5 +1,9 @@
 # Log de Sesiones — Seda y Pólvora
 
+## [2026-09-13] Codex | Apellido de resguardo de Riley
+
+Por CANON DEL AUTOR, [[02_Characters/Riley_Bennett]] deja de usar el apellido Colombo durante su resguardo en Italia: vive como **Riley Ardizzone**, bajo la protección del apellido de Chiara. Se actualizan las cuatro referencias internas de la ficha; mecanismo documental, cobertura legal, apoyos y localización siguen PENDIENTE. Sin prosa, EPUB, commit ni push.
+
 ## [2026-09-12] Codex | Escenas guia y regreso de Elenna
 
 Se crea [[07_Ideas/Escenas_Guia]] para conservar momentos que el autor imagina con claridad sin convertirlos en bocetos rígidos ni capítulos anticipados. Cada nota separa canon entregado, función y libertad de prosa. Se registra [[07_Ideas/Escenas_Guia/El_Regreso_De_Elenna]]: tras el acto final de San Aurelio, Cole y Chiara llegan a la casa de campo de Palermo donde Riley vive con Elenna; la sala repite y cobra el video de sus primeros pasos, Chiara llega mediante la voz/nana que le cantaba durante el embarazo, Elenna vuelve a tomar el dedo de Cole y él promete no irse nunca más. El reencuentro conserva el apego cotidiano de Elenna hacia Riley y requiere aproximación gradual. Actualizados [[07_Ideas/README]], [[INDEX]] y [[98_Agent_Handoff/DECISIONS]]. Sin prosa de manuscrito, EPUB, commit ni push.
