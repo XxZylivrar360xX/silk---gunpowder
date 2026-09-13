@@ -2,12 +2,12 @@
 
 *Ficha de Facción — red criminal en formación*
 
-> **CANON DE DISEÑO (2026-08-23):** **El Patio** es el nombre vivo de la red que nace alrededor de [[03_Factions/Almendra_Towing]]. No es una empresa legal, no es la cara pública final y no necesariamente es el nombre que aparecería en un expediente. Es cómo se empieza a nombrar el lugar, la gente y la fuerza de Cole cuando ya no caben dentro del taller.
+> **CANON DE DISEÑO (2026-08-23):** **El Patio** es el nombre vivo de la red que nace alrededor de [[03_Factions/Almendra_Towing]]. No es una empresa legal, no es la cara pública final y no necesariamente es el nombre que aparecería en un expediente. Es cómo se empieza a nombrar el lugar, la gente y la fuerza de Kal cuando ya no caben dentro del taller.
 
-**Qué es:** red criminal y comunitaria nacida alrededor del patio de grúas de Cole.
+**Qué es:** red criminal y comunitaria nacida alrededor del patio de grúas de Kal.
 **Territorio:** [[05_Locations/San_Aurelio]] — La Almendra, rutas de grúas, carreras del norte, Kingsley Field, [[05_Locations/Cedar_Flats]], y progresivamente corredores de puerto.
-**Cabeza:** [[02_Characters/Cole_Mercer]].
-**Estado al abrir la novela:** todavía no existe como organización; existe como taller, favores y gente alrededor de Cole.
+**Cabeza:** [[02_Characters/Kal_Mercer]].
+**Estado al abrir la novela:** todavía no existe como organización; existe como taller, favores y gente alrededor de Kal.
 
 ---
 
@@ -45,10 +45,10 @@ Esa ubicación le da tres ventajas:
 ## Cómo Lo Llama Cada Quien
 
 - **El barrio:** *el patio*, *los del Patio*.
-- **La gente cercana:** *el patio de Cole*, aunque cada vez menos hace falta decir de quién.
+- **La gente cercana:** *el patio de Kal*, aunque cada vez menos hace falta decir de quién.
 - **Chiara, en privado:** *los niños del Patio* para el núcleo joven.
 - **Policía/federales/prensa:** *Patio Almendra* cuando necesitan una etiqueta que parezca objetiva.
-- **Cole:** probablemente evita nombrarlo como organización. Dice *la gente*, *los muchachos*, *el trabajo*, *el taller*.
+- **Kal:** probablemente evita nombrarlo como organización. Dice *la gente*, *los muchachos*, *el trabajo*, *el taller*.
 
 > **PENDIENTE:** confirmar cuándo aparece por primera vez “Patio Almendra” en boca institucional.
 
@@ -86,16 +86,16 @@ La llegada de [[02_Characters/Ren_Wei]] toca suministro. Ahí El Patio deja de s
 
 ### Lo que lo diferencia de Varek
 
-[[02_Characters/Dario_Varek]] gobierna a las bandas por miedo: amenaza con liquidar, torturar o borrar a quien ponga en riesgo su orden. Cole no empieza ahí. Su poder nace de resolver, esperar y volverse necesario.
+[[02_Characters/Dario_Varek]] gobierna a las bandas por miedo: amenaza con liquidar, torturar o borrar a quien ponga en riesgo su orden. Kal no empieza ahí. Su poder nace de resolver, esperar y volverse necesario.
 
-La diferencia no absuelve a Cole. Sólo marca su escala moral:
+La diferencia no absuelve a Kal. Sólo marca su escala moral:
 
 - Varek usa el miedo como primera arquitectura.
-- Cole usa la utilidad, la deuda y la confianza como primera arquitectura.
+- Kal usa la utilidad, la deuda y la confianza como primera arquitectura.
 - Varek castiga para que todos miren.
-- Cole da demasiadas oportunidades, hasta que alguien abusa tanto de la confianza que ya no deja salida.
+- Kal da demasiadas oportunidades, hasta que alguien abusa tanto de la confianza que ya no deja salida.
 
-> **Regla:** si Cole dispara, no debe sentirse como demostración de dureza. Debe sentirse como el punto exacto donde su código ya no encuentra otra herramienta.
+> **Regla:** si Kal dispara, no debe sentirse como demostración de dureza. Debe sentirse como el punto exacto donde su código ya no encuentra otra herramienta.
 
 Las primeras pruebas de ese contraste deben ocurrir con organizaciones menores, no con Dario directamente: [[03_Factions/Los_Calderos]], [[03_Factions/La_Ronda_del_Canal]], [[03_Factions/Cuadra_Nueve]], [[03_Factions/Los_Bravos_de_Santa_Brigida]], [[03_Factions/Los_Marcadores_de_Milla]], [[03_Factions/Alamo_Salvage]] y [[03_Factions/Breakwater_Saints_MC]].
 
@@ -109,14 +109,14 @@ No hay organigrama formal al principio. Ese es parte del peligro: nadie firma na
 
 ### Centro
 
-- **[[02_Characters/Cole_Mercer]]** — cabeza real. No gobierna por título: gobierna porque resuelve, recuerda y cobra tarde.
-- **[[02_Characters/Hector_Navarro]]** — figura paterna y mano derecha operativa. La única autoridad personal que puede reclamarle algo a Cole.
-- **[[02_Characters/Nadir_Amrani]]** — mejor amigo. No subordinado: la relación empezó con Cole recibiendo ayuda.
+- **[[02_Characters/Kal_Mercer]]** — cabeza real. No gobierna por título: gobierna porque resuelve, recuerda y cobra tarde.
+- **[[02_Characters/Hector_Navarro]]** — figura paterna y mano derecha operativa. La única autoridad personal que puede reclamarle algo a Kal.
+- **[[02_Characters/Nadir_Amrani]]** — mejor amigo. No subordinado: la relación empezó con Kal recibiendo ayuda.
 
 ### Testigos y barrio
 
 - **[[02_Characters/Daniel_Hayes|Danny Hayes]]** — testigo temprano de la unión invisible y parte del ecosistema humano del barrio.
-- **[[02_Characters/Walter_Keegan]]** — memoria anterior del barrio; no le debe nada a Cole.
+- **[[02_Characters/Walter_Keegan]]** — memoria anterior del barrio; no le debe nada a Kal.
 
 ### Los niños del Patio
 
@@ -133,9 +133,9 @@ Nombre privado de Chiara para el núcleo joven.
 
 ### Caras públicas
 
-- **[[02_Characters/Russell_Whitaker|Russell "Russ" Whitaker]]** — cara política. Ex veterano de la rotación de Cole, camina con bastón por una lesión de pierna y aspira a la alcaldía de San Aurelio.
-- **[[02_Characters/Garrett_Cross]]** — cara financiera. Administra dinero, recursos y activos; es quien puede decirle que no a Cole con números.
-- **[[03_Factions/Cross_River_Consolidated]]** — holding donde se alojan activos y participaciones visibles para que Cole no aparezca en papel.
+- **[[02_Characters/Russell_Whitaker|Russell "Russ" Whitaker]]** — cara política. Ex veterano de la rotación de Kal, camina con bastón por una lesión de pierna y aspira a la alcaldía de San Aurelio.
+- **[[02_Characters/Garrett_Cross]]** — cara financiera. Administra dinero, recursos y activos; es quien puede decirle que no a Kal con números.
+- **[[03_Factions/Cross_River_Consolidated]]** — holding donde se alojan activos y participaciones visibles para que Kal no aparezca en papel.
 
 ### Pendientes De Jerarquía
 
@@ -151,7 +151,7 @@ Nombre privado de Chiara para el núcleo joven.
 
 ### Fase 0 — Taller y deuda
 
-No existe El Patio como nombre. Existe [[03_Factions/Almendra_Towing]]: tres camiones, seis personas sin contrato, una deuda larga y Cole intentando parecer un empresario correcto.
+No existe El Patio como nombre. Existe [[03_Factions/Almendra_Towing]]: tres camiones, seis personas sin contrato, una deuda larga y Kal intentando parecer un empresario correcto.
 
 **Alcance:** La Almendra, coches, vecinos, favores sueltos.
 
@@ -159,7 +159,7 @@ No existe El Patio como nombre. Existe [[03_Factions/Almendra_Towing]]: tres cam
 
 ### Fase I — Primer favor
 
-Cole empieza a resolver problemas de otros negocios, especialmente del casino, bajo la mesa.
+Kal empieza a resolver problemas de otros negocios, especialmente del casino, bajo la mesa.
 
 **Alcance:** casino, cobros, vetos, mantenimiento, primeras llamadas fuera del barrio.
 
@@ -195,7 +195,7 @@ La red funciona demasiado bien. El problema ya no es construir poder: es qué qu
 
 **Alcance:** ciudad completa y conexiones internacionales.
 
-**Riesgo:** la máquina puede seguir operando aunque Cole y Chiara pierdan las escenas pequeñas que los sostenían.
+**Riesgo:** la máquina puede seguir operando aunque Kal y Chiara pierdan las escenas pequeñas que los sostenían.
 
 ---
 
@@ -203,9 +203,9 @@ La red funciona demasiado bien. El problema ya no es construir poder: es qué qu
 
 Chiara no dirige El Patio, pero decide qué significa para la ciudad.
 
-Al principio lo ve más rápido que Cole: una grúa no es un camión, es permiso para mover cosas a plena luz. Después entiende algo más peligroso: El Patio no es sólo logística; es pertenencia.
+Al principio lo ve más rápido que Kal: una grúa no es un camión, es permiso para mover cosas a plena luz. Después entiende algo más peligroso: El Patio no es sólo logística; es pertenencia.
 
-Su frase privada, **"los niños del Patio"**, marca el punto en que deja de mirar al núcleo joven como piezas y empieza a verlos como parte de la casa ampliada de Cole.
+Su frase privada, **"los niños del Patio"**, marca el punto en que deja de mirar al núcleo joven como piezas y empieza a verlos como parte de la casa ampliada de Kal.
 
 > **PENDIENTE:** momento exacto en que Chiara usa por primera vez “los niños del Patio”.
 
@@ -235,4 +235,4 @@ Los federales no necesitan negociar igual. Cuando El Patio toca rutas internacio
 
 ---
 
-Ver también: [[03_Factions/Almendra_Towing]] · [[02_Characters/Cole_Mercer]] · [[02_Characters/Chiara_Bellandi]] · [[01_Timeline/00_Estructura_del_Ascenso]]
+Ver también: [[03_Factions/Almendra_Towing]] · [[02_Characters/Kal_Mercer]] · [[02_Characters/Chiara_Bellandi]] · [[01_Timeline/00_Estructura_del_Ascenso]]

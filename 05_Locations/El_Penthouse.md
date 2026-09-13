@@ -12,7 +12,7 @@
 
 ## Su función en el libro
 
-Es **el primer sitio del mundo donde Chiara baja las máscaras**, y el primero donde Cole no tiene que ser lo que la habitación necesita. Todo lo que después va a ser la casa — el ruido de barrio, la piscina, las clases de italiano, los domingos que no saben usar — empieza aquí, prestado.
+Es **el primer sitio del mundo donde Chiara baja las máscaras**, y el primero donde Kal no tiene que ser lo que la habitación necesita. Todo lo que después va a ser la casa — el ruido de barrio, la piscina, las clases de italiano, los domingos que no saben usar — empieza aquí, prestado.
 
 **Y no es suyo.** Es el penthouse de un casino que le pertenece a otros, en el que ella duerme por trabajo. Los dos se refugian en un lugar ajeno porque ninguno tiene uno propio todavía. Por eso la casa importa tanto después: es la versión de esto **que sí les pertenece**.
 
@@ -30,7 +30,7 @@ La ruta de [[06_Relationships/Hitos]], H2-b, recorre el penthouse entero, y el o
 
 **La zona del jacuzzi.**
 
-**La silla de estética**, para cortar el pelo. Cole **casi deja que ella se lo corte**; ella le dice que el corte que trae le va muy bien. Coquetería disimulada de manual: le niega el favor y le regala el cumplido.
+**La silla de estética**, para cortar el pelo. Kal **casi deja que ella se lo corte**; ella le dice que el corte que trae le va muy bien. Coquetería disimulada de manual: le niega el favor y le regala el cumplido.
 
 **El vestidor principal.** Donde cae la chaqueta, y con ella la primera verdad de la noche. Ver H2-b.
 
@@ -39,7 +39,7 @@ La ruta de [[06_Relationships/Hitos]], H2-b, recorre el penthouse entero, y el o
 ## Cómo se escribe
 
 - **Es lujoso y a los dos les da un poco igual.** Nadie describe el mármol. Lo que se ve es dónde se sientan, qué tocan y qué evitan tocar.
-- **Es un lugar prestado y se nota.** Comen en el suelo. No usan las copas buenas. Se comportan como invitados incluso cuando están solos, y esa incomodidad es la primera versión de *la incomodidad de estar cómodos* ([[06_Relationships/Cole_y_Chiara]]).
+- **Es un lugar prestado y se nota.** Comen en el suelo. No usan las copas buenas. Se comportan como invitados incluso cuando están solos, y esa incomodidad es la primera versión de *la incomodidad de estar cómodos* ([[06_Relationships/Kal_y_Chiara]]).
 - **Silencios cómodos.** Canon: los comparten toda la noche. Los silencios no son pausas entre diálogos — son la escena.
 - **Se apaga cuando aparece la casa.** El penthouse deja de usarse sin que nadie lo anuncie. Si alguna vez vuelven, es un acontecimiento.
 
@@ -49,13 +49,13 @@ La ruta de [[06_Relationships/Hitos]], H2-b, recorre el penthouse entero, y el o
 
 Antes de esa noche, **los chicos del barrio ya habían visto el penthouse y a Chiara en pijama** — necesitaban un favor y la sorprendieron de madrugada. Ella los recibió así, sin producir.
 
-Ése es el precedente exacto que Cole invoca para pedir subir ([[06_Relationships/Hitos]], H2-b). Lo que está pidiendo no es entrar al penthouse: es **el mismo acceso que unos vecinos consiguieron por accidente.**
+Ése es el precedente exacto que Kal invoca para pedir subir ([[06_Relationships/Hitos]], H2-b). Lo que está pidiendo no es entrar al penthouse: es **el mismo acceso que unos vecinos consiguieron por accidente.**
 
 ---
 
 ## Pendientes
 
-> **PENDIENTE:** ¿los socios del casino saben que Cole sube ahí? Ella está recibiendo en su casa a un hombre que sus jefes rechazaron. Ver [[03_Factions/El_Casino]].
+> **PENDIENTE:** ¿los socios del casino saben que Kal sube ahí? Ella está recibiendo en su casa a un hombre que sus jefes rechazaron. Ver [[03_Factions/El_Casino]].
 
 > **RESUELTO (2026-08-23):** **sí vuelven, y en las peores circunstancias.** Cuando alguien incendia el loft, se mudan aquí hasta que esté lista [[05_Locations/La_Villa]]. Ver [[06_Relationships/Hitos]], H8.
 >

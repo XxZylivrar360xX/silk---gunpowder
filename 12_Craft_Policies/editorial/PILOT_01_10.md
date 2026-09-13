@@ -6,7 +6,7 @@
 
 ## Por qué capítulos 1–10
 
-El bloque contiene la entrada de Cole y Chiara, el primer favor, la formación de la costumbre, H3, H9 y el atentado de H12. Ofrece diálogo, acción, negociación, recuerdos, cambios de cadencia y metadata real suficientes para calibrar V1 sin abrir todavía el resto de Parte I.
+El bloque contiene la entrada de Kal y Chiara, el primer favor, la formación de la costumbre, H3, H9 y el atentado de H12. Ofrece diálogo, acción, negociación, recuerdos, cambios de cadencia y metadata real suficientes para calibrar V1 sin abrir todavía el resto de Parte I.
 
 El manifiesto explícito evita incorporar por accidente archivos renumerados o capítulos 11–19.
 
@@ -26,7 +26,7 @@ El manifiesto explícito evita incorporar por accidente archivos renumerados o c
 - calidad literaria;
 - verdad de canon o continuidad profunda;
 - atribución confiable de hablante;
-- fingerprint de voz de Cole o Chiara;
+- fingerprint de voz de Kal o Chiara;
 - sintaxis o semántica lingüística avanzada;
 - probabilidad de autoría por IA;
 - capítulos 11–19;

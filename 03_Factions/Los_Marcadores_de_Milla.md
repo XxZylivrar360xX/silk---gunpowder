@@ -41,7 +41,7 @@ Dario los usa cuando necesita pilotos o distracción, pero los mira como ruido j
 
 ## Relación con El Patio
 
-Cole entra naturalmente por conducción, grúas, rescates y reputación del Peugeot rojo. Con Tyler y [[02_Characters/Harper_Walker]], El Patio puede convertir el circuito en infraestructura.
+Kal entra naturalmente por conducción, grúas, rescates y reputación del Peugeot rojo. Con Tyler y [[02_Characters/Harper_Walker]], El Patio puede convertir el circuito en infraestructura.
 
 Ver [[06_Relationships/Hitos]], H9.
 

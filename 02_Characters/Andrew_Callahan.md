@@ -21,15 +21,15 @@
 
 ## Quién es
 
-Andrew Callahan dirige [[03_Factions/Fuerza_de_Tarea_Meridian]] cuando los federales entran a San Aurelio por la escala internacional de los negocios de Cole.
+Andrew Callahan dirige [[03_Factions/Fuerza_de_Tarea_Meridian]] cuando los federales entran a San Aurelio por la escala internacional de los negocios de Kal.
 
-Su obsesión inicial no es Cole. Es [[02_Characters/Dario_Varek]].
+Su obsesión inicial no es Kal. Es [[02_Characters/Dario_Varek]].
 
 Callahan mira organizaciones completas: jerarquías, conspiraciones, asociaciones, cargos RICO y la forma de convertir veinte delitos aparentemente aislados en un solo caso federal. Por eso al principio repite una idea que incomoda a todos:
 
 > **Mercer no importa. Varek importa.**
 
-El giro narrativo es que puede ser precisamente él quien descubra que Cole es imposible de separar del caso.
+El giro narrativo es que puede ser precisamente él quien descubra que Kal es imposible de separar del caso.
 
 No es un corrupto ni un fanático. Es más peligroso si cree sinceramente en el mapa que mira.
 
@@ -59,9 +59,9 @@ Su método es convertir ruido en patrón: cruza manifiestos, llamadas, casos loc
 
 Su pregunta no es quién disparó. Es qué estructura permitió que el disparo fuera útil.
 
-Eso lo vuelve un adversario raro para Cole y Chiara:
+Eso lo vuelve un adversario raro para Kal y Chiara:
 
-- Cole no puede hacerlo depender de un favor.
+- Kal no puede hacerlo depender de un favor.
 - Chiara no puede matarle una nota y dar el asunto por cerrado.
 - Ninguno puede leerlo como se lee una habitación, porque Callahan opera desde expedientes.
 
@@ -81,8 +81,8 @@ Eso lo vuelve un adversario raro para Cole y Chiara:
 
 - [[03_Factions/Fuerza_de_Tarea_Meridian]] — la fuerza que dirige.
 - [[02_Characters/Chiara_Bellandi]] — herida institucional previa por la redada contra Corrado.
-- [[02_Characters/Cole_Mercer]] — objetivo cuando Almendra Towing escala a rutas internacionales.
-- [[02_Characters/Mara_Ellison]] — case agent de Violent Crime; ella empieza a ver a Cole como patrón personal antes que él.
+- [[02_Characters/Kal_Mercer]] — objetivo cuando Almendra Towing escala a rutas internacionales.
+- [[02_Characters/Mara_Ellison]] — case agent de Violent Crime; ella empieza a ver a Kal como patrón personal antes que él.
 - [[02_Characters/Nina_Caldwell]] — fiscal federal que convierte el mapa de Callahan en cargos posibles.
 - [[03_Factions/Departamento_de_Policia_de_San_Aurelio]] — aliado incómodo y competidor por crédito.
 - [[03_Factions/Il_Consorzio]] — posible verdadero origen de pruebas o daños que los federales leyeron mal.

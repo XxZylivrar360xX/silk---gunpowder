@@ -2,7 +2,7 @@
 
 *Seda y Pólvora — treguas, enemistades y presión territorial*
 
-> **CANON DE DISEÑO (2026-08-23):** las bandas menores de San Aurelio no son decoración. Son el tablero donde se ve el contraste entre el miedo de [[02_Characters/Dario_Varek]] y el ascenso por utilidad de [[02_Characters/Cole_Mercer]]. Algunas odian a [[03_Factions/El_Patio]], algunas lo necesitan y algunas todavía no entienden que ya empezaron a depender de él.
+> **CANON DE DISEÑO (2026-08-23):** las bandas menores de San Aurelio no son decoración. Son el tablero donde se ve el contraste entre el miedo de [[02_Characters/Dario_Varek]] y el ascenso por utilidad de [[02_Characters/Kal_Mercer]]. Algunas odian a [[03_Factions/El_Patio]], algunas lo necesitan y algunas todavía no entienden que ya empezaron a depender de él.
 
 ---
 
@@ -22,11 +22,11 @@
 |---|---|---|
 | [[03_Factions/Los_Calderos]] | **Enemistad abierta temprana** | Almendra toca coches, grúas, talleres y autopartes: el corazón de su mercado. |
 | [[03_Factions/La_Ronda_del_Canal]] | **Tregua tensa** | Necesitan movimiento limpio; El Patio necesita ojos en el sur. Ninguno quiere guerra directa. |
-| [[03_Factions/Cuadra_Nueve]] | **Dependencia en formación** | Cole puede proteger jóvenes o usarlos. Esa ambigüedad es el conflicto moral. |
-| [[03_Factions/Los_Bravos_de_Santa_Brigida]] | **Enemistad probable** | Abusan de confianza, cobran de más y empujan a Cole hacia su límite violento. |
+| [[03_Factions/Cuadra_Nueve]] | **Dependencia en formación** | Kal puede proteger jóvenes o usarlos. Esa ambigüedad es el conflicto moral. |
+| [[03_Factions/Los_Bravos_de_Santa_Brigida]] | **Enemistad probable** | Abusan de confianza, cobran de más y empujan a Kal hacia su límite violento. |
 | [[03_Factions/Los_Marcadores_de_Milla]] | **Dependencia en formación** | Tyler, el Peugeot rojo, rutas y carreras vuelven el circuito útil para El Patio. |
 | [[03_Factions/Alamo_Salvage]] | **Neutralidad vigilada** | Puede ser proveedor, rival o compra de Cross River. Todavía no conviene quemarlo. |
-| [[03_Factions/Breakwater_Saints_MC]] | **Tregua tensa costera** | Controlan puertas y seguridad de piso; El Patio controla flujo cuando Cole se vuelve proveedor. |
+| [[03_Factions/Breakwater_Saints_MC]] | **Tregua tensa costera** | Controlan puertas y seguridad de piso; El Patio controla flujo cuando Kal se vuelve proveedor. |
 
 ---
 
@@ -59,7 +59,7 @@ Treguas que mantiene por miedo:
 
 ---
 
-## Cuando Cole Abre El Flujo De Cocaína
+## Cuando Kal Abre El Flujo De Cocaína
 
 Antes de ese punto, varias bandas son territoriales pero no proveedoras. Después, todo cambia:
 
@@ -77,8 +77,8 @@ Ahí El Patio deja de ser sólo útil y empieza a ser proveedor de la mayoría d
 ## Reglas De Escena
 
 - Si una banda cambia de bando, debe haber una deuda concreta.
-- Si alguien rompe tregua, debe saberse qué perdió con Dario y qué espera ganar con Cole.
-- Si Cole dispara, el conflicto debe haber agotado antes favor, deuda, advertencia y salida.
+- Si alguien rompe tregua, debe saberse qué perdió con Dario y qué espera ganar con Kal.
+- Si Kal dispara, el conflicto debe haber agotado antes favor, deuda, advertencia y salida.
 - Si Chiara interviene, no "calma" la ciudad: cambia qué versión de la guerra puede ver la ciudad.
 
 ---
@@ -87,7 +87,7 @@ Ahí El Patio deja de ser sólo útil y empieza a ser proveedor de la mayoría d
 
 > **PENDIENTE:** cuál conflicto abre el arco electoral de Russ.
 
-> **PENDIENTE:** si Los Bravos o los Saints son la primera banda que intenta vender producto de Cole sin permiso.
+> **PENDIENTE:** si Los Bravos o los Saints son la primera banda que intenta vender producto de Kal sin permiso.
 
 > **PENDIENTE:** quién traiciona primero una tregua impuesta por Dario.
 

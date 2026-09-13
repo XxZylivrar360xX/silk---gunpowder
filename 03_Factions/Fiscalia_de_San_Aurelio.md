@@ -21,7 +21,7 @@ La Fiscalía de San Aurelio no compite con los federales en especialización. Su
 
 - **Katherine Rowe** — District Attorney. Figura política; aparece cuando Mercer/Varek se vuelve demasiado importante.
 - **Paul Desai** — First Assistant / Chief Deputy DA. Administra la oficina y coordina casos grandes con la policía, los federales y la fiscalía federal.
-- **[[02_Characters/Claire_Han]]** — Assistant District Attorney principal. Fiscal asignada a homicidios relacionados con Cole.
+- **[[02_Characters/Claire_Han]]** — Assistant District Attorney principal. Fiscal asignada a homicidios relacionados con Kal.
 - **Zoe Palmer** — ADA junior opcional. Aparece si hay juicio o preparación documental pesada.
 
 ---

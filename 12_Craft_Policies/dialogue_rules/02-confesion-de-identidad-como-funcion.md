@@ -9,15 +9,15 @@ El personaje formula su miedo como reduccion de identidad: "soy solo el puente",
 
 ## Por que es un problema
 
-La tesis de la novela ya empuja hacia territorio, relato, utilidad, apellido y pertenencia. Si Cole y Chiara verbalizan su herida con esa limpieza, la prosa convierte el subtexto en ensayo.
+La tesis de la novela ya empuja hacia territorio, relato, utilidad, apellido y pertenencia. Si Kal y Chiara verbalizan su herida con esa limpieza, la prosa convierte el subtexto en ensayo.
 
-Cole no dice "soy un puente". Se ofrece de puente y minimiza el costo. Chiara no dice "soy una version". Ordena versiones y se toca el anular cuando el pasado entra antes de que pueda administrarlo.
+Kal no dice "soy un puente". Se ofrece de puente y minimiza el costo. Chiara no dice "soy una version". Ordena versiones y se toca el anular cuando el pasado entra antes de que pueda administrarlo.
 
 ## Como evitarlo
 
 Anclar la herida en conducta:
 
-- Cole deja que le deban, paga sin contarlo, se va antes de que le agradezcan, dice "no es nada".
+- Kal deja que le deban, paga sin contarlo, se va antes de que le agradezcan, dice "no es nada".
 - Chiara dice la verdad pequena con precision, acomoda el bolso, calla una mentira grande, decide quien debe enterarse.
 - Dario no dice que es poder: todos bajan la voz cuando entra.
 - Tommaso no dice "soy los Lusardi": mira el anular.

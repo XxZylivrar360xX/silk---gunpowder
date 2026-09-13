@@ -43,9 +43,9 @@ También son los primeros que podría liquidar si necesita demostrar que nadie s
 
 ## Relación con El Patio
 
-Los Bravos son el peor tipo de cliente para Cole: piden oportunidades, prometen corregirse y vuelven a abusar de la confianza.
+Los Bravos son el peor tipo de cliente para Kal: piden oportunidades, prometen corregirse y vuelven a abusar de la confianza.
 
-> **DISEÑO:** candidatos fuertes para el primer arco donde Cole perdona una vez, negocia otra y finalmente dispara porque ya no queda salida.
+> **DISEÑO:** candidatos fuertes para el primer arco donde Kal perdona una vez, negocia otra y finalmente dispara porque ya no queda salida.
 
 ---
 

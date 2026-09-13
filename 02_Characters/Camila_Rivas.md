@@ -29,13 +29,13 @@ Su línea moral:
 
 > Atiende personas. No protege depredadores.
 
-Esa frase no siempre es limpia. H1 la obliga a decidir si Cole es un criminal más o alguien que llegó sangrando a casa porque sacó vivos a los suyos.
+Esa frase no siempre es limpia. H1 la obliga a decidir si Kal es un criminal más o alguien que llegó sangrando a casa porque sacó vivos a los suyos.
 
 ---
 
 ## Historia
 
-Camila y [[02_Characters/Chiara_Bellandi]] se conocen antes de que Chiara y Cole sean imperio.
+Camila y [[02_Characters/Chiara_Bellandi]] se conocen antes de que Chiara y Kal sean imperio.
 
 La deuda nace de un caso que el hospital quiso convertir en escándalo interno: Camila atendió fuera del protocolo a una menor explotada que habría huido si veía policías antes de ver una médica. Cumplimiento quería salvar al hospital. Un reportero quería una nota fácil. Chiara entendió la diferencia entre ocultar un crimen y mantener viva a una víctima, y mató la historia antes de que destruyera a la doctora.
 
@@ -75,9 +75,9 @@ No hace magia. Suturas, antibióticos, control de hemorragia, fluidos, dolor, ex
 
 ## Función en H1
 
-Chiara la llama cuando [[02_Characters/Cole_Mercer]] no puede ir al Hospital Santa Aurelia porque los hospitales están vigilados.
+Chiara la llama cuando [[02_Characters/Kal_Mercer]] no puede ir al Hospital Santa Aurelia porque los hospitales están vigilados.
 
-Camila mantiene vivo a Cole en [[06_Relationships/Hitos]], H1, pero no le roba el centro emocional a la escena. Cuando toca el diálogo entre Cole y Chiara, ella queda fuera de plano.
+Camila mantiene vivo a Kal en [[06_Relationships/Hitos]], H1, pero no le roba el centro emocional a la escena. Cuando toca el diálogo entre Kal y Chiara, ella queda fuera de plano.
 
 **Función estructural:** demuestra que la red de Chiara no son contactos sociales. Es gente real que contesta a deshoras, entra a una casa con sangre en el suelo y arriesga licencia, cárcel o carrera porque Chiara ya construyó esa deuda.
 
@@ -86,7 +86,7 @@ Camila mantiene vivo a Cole en [[06_Relationships/Hitos]], H1, pero no le roba e
 ## Conexiones
 
 - [[02_Characters/Chiara_Bellandi]] — le debe carrera, reputación y quizá libertad. No le pertenece.
-- [[02_Characters/Cole_Mercer]] — lo salva en H1; no lo absuelve.
+- [[02_Characters/Kal_Mercer]] — lo salva en H1; no lo absuelve.
 - [[05_Locations/Hospital_Santa_Aurelia]] — su base oficial y la institución que puede destruirla si descubre demasiado.
 - [[02_Characters/Owen_Kincaid]] — el espejo sucio: otro médico por fuera, pero sin su línea moral.
 - [[03_Factions/Fuerza_de_Tarea_Meridian]] — riesgo futuro si los federales empiezan a mapear médicos que trataron heridas fuera de registro.

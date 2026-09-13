@@ -34,7 +34,7 @@ Cuando integres material nuevo del usuario, trátalo como canon del autor si lo 
 - [`98_Agent_Handoff/PENDING.md`](98_Agent_Handoff/PENDING.md): pendientes activos.
 - [`log.md`](log.md): bitácora larga. No es lectura de arranque.
 - [`06_Relationships/Hitos.md`](06_Relationships/Hitos.md): documento central de hitos obligatorios. La trama se construye alrededor de estos hitos.
-- [`06_Relationships/Cole_y_Chiara.md`](06_Relationships/Cole_y_Chiara.md): arquitectura de la relación central.
+- [`06_Relationships/Kal_y_Chiara.md`](06_Relationships/Kal_y_Chiara.md): arquitectura de la relación central.
 - [`00_Biblia/`](00_Biblia): visión, temas, principios narrativos y reglas del mundo.
 - [`tools/editorial/README.md`](tools/editorial/README.md): auditoría editorial determinista en modo `audit_only`.
 
@@ -91,8 +91,8 @@ Es una sugerencia breve al final, no un bloqueo: si el usuario quiere seguir, se
 
 ## Reglas Narrativas Mínimas
 
-- La relación de Cole y Chiara es la maquinaria del ascenso, no un adorno.
-- Pase lo que pase, Cole y Chiara no se separan, pero el lector debe llegar a creer que sí.
+- La relación de Kal y Chiara es la maquinaria del ascenso, no un adorno.
+- Pase lo que pase, Kal y Chiara no se separan, pero el lector debe llegar a creer que sí.
 - El romance avanza por trabajo compartido, escenas pequeñas y peligro, no por declaraciones limpias.
 - El territorio y el relato deben avanzar juntos.
 - La violencia tiene que cambiar una relación o una estructura; si no, sobra.

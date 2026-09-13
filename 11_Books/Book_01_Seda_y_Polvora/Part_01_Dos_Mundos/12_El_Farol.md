@@ -1,7 +1,7 @@
 <!--
 Estado: TERMINADO.
 Protagonistas: Chiara Bellandi, con apariciones de Mabel Ortiz y Walter "Walt" Keegan.
-Ventana temporal: semanas despues del Capitulo 8 (la noche del ladrillo) -- de por medio ocurrieron H9 (Capitulo 9, la carrera de mascaras) y todo el arco de H12 en los Capitulos 10-11 (el ataque, la casa comun, la recompra y el diseno de la casa de Cole). Chiara ya deja cosas suyas en la casa de el por costumbre, pero conserva el penthouse como base -- no hubo mudanza formal, y esa costumbre no se anuncia en esta escena.
+Ventana temporal: semanas despues del Capitulo 8 (la noche del ladrillo) -- de por medio ocurrieron H9 (Capitulo 9, la carrera de mascaras) y todo el arco de H12 en los Capitulos 10-11 (el ataque, la casa comun, la recompra y el diseno de la casa de Kal). Chiara ya deja cosas suyas en la casa de el por costumbre, pero conserva el penthouse como base -- no hubo mudanza formal, y esa costumbre no se anuncia en esta escena.
 Lugares: El Penthouse, La Esquina de Mabel (La Almendra), The Monarch Casino & Hotel (piso de juego, torneo de poker).
 Funcion: ejecutar beats 12 y 12-b — nace en pequeno la red civil de Chiara (Mabel), y se ejecuta el primer torneo de poker: aparece Walter Keegan, extraordinario mintiendo en la mesa, y nace la relacion cordial de la que saldra la destileria.
 -->
@@ -14,7 +14,7 @@ No lo había tirado.
 
 La camiseta seguía doblada sobre la silla cuando Chiara despertó.
 
-No la había tocado. No sabía a qué hora se había ido Cole, ni si había dormido de verdad o simplemente había esperado a que el pasillo dejara de sonar. Lo único que quedaba de él era eso: una camiseta limpia doblada con una precisión que no correspondía a un hombre que decía no importarle nada.
+No la había tocado. No sabía a qué hora se había ido Kal, ni si había dormido de verdad o simplemente había esperado a que el pasillo dejara de sonar. Lo único que quedaba de él era eso: una camiseta limpia doblada con una precisión que no correspondía a un hombre que decía no importarle nada.
 
 La dejó donde estaba.
 
@@ -34,7 +34,7 @@ Chiara sí se lo tomó.
 
 No porque desconfiara del dinero. Porque el apellido le sonaba de algo que no lograba ubicar, y ella no dejaba pasar eso.
 
-Podía llamar a Cole y preguntar. Decidió no hacerlo. Si el nombre importaba, prefería llegar a él sola, con la información completa, en vez de pedirla como quien pide un favor.
+Podía llamar a Kal y preguntar. Decidió no hacerlo. Si el nombre importaba, prefería llegar a él sola, con la información completa, en vez de pedirla como quien pide un favor.
 
 Fue a buscarla a la Almendra.
 
@@ -64,7 +64,7 @@ Eso sí la hizo mirarla.
 
 Mabel puso la taza frente a ella y se limpió las manos en el delantal, sin prisa, como si estuviera decidiendo cuánto valía la pena contar.
 
-—Salió de prisión hace poco. Diez años. Se los debe al Tasador, aunque eso no te lo va a decir nadie con esas palabras. —Bajó la voz, no por miedo, sino por costumbre—. Conocía al padre de Cole. Conoció a Cole de niño. Si le preguntas a los viejos de aquí, te van a decir que Walt Keegan es de los pocos que le puede decir que no a cualquiera y que nadie se atreve a contradecirlo.
+—Salió de prisión hace poco. Diez años. Se los debe al Tasador, aunque eso no te lo va a decir nadie con esas palabras. —Bajó la voz, no por miedo, sino por costumbre—. Conocía al padre de Kal. Conoció a Kal de niño. Si le preguntas a los viejos de aquí, te van a decir que Walt Keegan es de los pocos que le puede decir que no a cualquiera y que nadie se atreve a contradecirlo.
 
 Mabel dejó de limpiar la barra a la mitad del gesto, el trapo quieto sobre la madera. Chiara lo notó antes que la pausa en la voz.
 
@@ -178,7 +178,7 @@ Ganó la ronda final veinte minutos después, con la misma cara.
 
 ***
 
-Cole llegó pasada la medianoche, con la excusa de siempre y la bolsa de siempre, aunque esa noche ni siquiera se molestó en inventar el pretexto.
+Kal llegó pasada la medianoche, con la excusa de siempre y la bolsa de siempre, aunque esa noche ni siquiera se molestó en inventar el pretexto.
 
 —¿Cómo estuvo?
 
@@ -190,7 +190,7 @@ Chiara se quitó los tacones antes de contestar.
 
 —Walter Keegan.
 
-Cole se detuvo a medio camino de dejar la bolsa sobre la mesa.
+Kal se detuvo a medio camino de dejar la bolsa sobre la mesa.
 
 —¿Walt estuvo aquí.
 
@@ -200,7 +200,7 @@ Cole se detuvo a medio camino de dejar la bolsa sobre la mesa.
 
 —Que es honesto. Que eso asusta más que un arma.
 
-Algo en la cara de Cole se aflojó, apenas, de una manera que Chiara ya empezaba a reconocer como la forma que tenía de estar orgulloso sin decirlo.
+Algo en la cara de Kal se aflojó, apenas, de una manera que Chiara ya empezaba a reconocer como la forma que tenía de estar orgulloso sin decirlo.
 
 —Es cierto.
 
@@ -208,7 +208,7 @@ Algo en la cara de Cole se aflojó, apenas, de una manera que Chiara ya empezaba
 
 —Le ofrecí comprarle el licor cuando tenga su destilería.
 
-Cole la miró un momento largo.
+Kal la miró un momento largo.
 
 —Ni siquiera lo conocías hace seis horas.
 
@@ -216,7 +216,7 @@ Cole la miró un momento largo.
 
 Se tocó el anular izquierdo sin darse cuenta. No era el torneo. Era la manera en que Walt la había mirado, como si llevara reconociéndola desde antes de conocerla.
 
-Cole no dijo nada más. Se sentó a su lado, cerca, sin tocarla todavía, y por un momento los dos dejaron que el silencio hiciera el trabajo que ninguna frase habría hecho mejor.
+Kal no dijo nada más. Se sentó a su lado, cerca, sin tocarla todavía, y por un momento los dos dejaron que el silencio hiciera el trabajo que ninguna frase habría hecho mejor.
 
 Afuera, San Aurelio seguía encendida, con su propio farol repartido en cien cocinas y cien esquinas — gente que sabía cosas antes que nadie las publicara, y que las contaba sólo si alguien se sentaba a escuchar sin exigirlas.
 

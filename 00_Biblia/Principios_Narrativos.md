@@ -5,7 +5,7 @@ Reglas que gobiernan toda decisión de escritura en este vault. Cuando dos princ
 ---
 
 **1. El ascenso siempre cuesta a alguien con nombre.**
-Ninguna ganancia de poder es gratis ni estadística. Si Cole toma un territorio, el lector conoce a quien lo tenía. Si Chiara mata una noticia, el lector conoce a quien la escribió. Las víctimas anónimas no cuentan como costo.
+Ninguna ganancia de poder es gratis ni estadística. Si Kal toma un territorio, el lector conoce a quien lo tenía. Si Chiara mata una noticia, el lector conoce a quien la escribió. Las víctimas anónimas no cuentan como costo.
 
 **2. La relación avanza por trabajo compartido.**
 Se enamoran resolviendo problemas juntos, no declarándose. La escena romántica más importante del libro debería poder leerse también como escena de negocios, y al revés. Si un avance sentimental sucede sólo porque tocaba, sobra.
@@ -29,7 +29,7 @@ Que alguien manda no se dice: se ve en quién se levanta cuando entra, a quién 
 El registro cómico del encuentro inicial sobrevive hasta el final del libro; sólo que cada vez cuesta más sostenerlo. Que a los personajes les quede humor en la peor escena es carácter, no alivio.
 
 **9. El pasado se filtra, no se explica.**
-Nada de escenas donde un personaje cuenta su infancia a otro para informar al lector. El origen de Cole y el de Chiara aparecen en lo que hacen: qué guardan, a qué le tienen asco, qué nunca aceptan de regalo.
+Nada de escenas donde un personaje cuenta su infancia a otro para informar al lector. El origen de Kal y el de Chiara aparecen en lo que hacen: qué guardan, a qué le tienen asco, qué nunca aceptan de regalo.
 
 **10. Cada capítulo mueve la ficha de alguien — en la trama, no necesariamente en la relación.**
 Al terminar un capítulo debe poder nombrarse en una frase qué cambió en el mapa de poder. La relación queda exenta a propósito: ver principio 13.
@@ -46,8 +46,8 @@ El ascenso avanza cada capítulo; el romance tiene permiso de no avanzar. Una es
 **14. El subtexto carga la mitad.**
 Nadie dice lo que siente cada vez que lo siente. Los diálogos íntimos se permiten interrupciones, bromas, frases incompletas, silencios, referencias privadas y respuestas que significan otra cosa. Los personajes tienen profundidad sin volverse filósofos: si dos personas se están explicando su relación en voz alta, la escena está mal.
 
-**15. Cole y Chiara no se separan — pero el lector tiene que llegar a creer que sí.**
-Regla dura del proyecto. Los conflictos que parecen terminales tienen que doler como terminales; lo que no puede ocurrir es la separación. **La salida nunca es esquivar el conflicto ni que se resuelva solo: es que los dos evolucionen y salgan distintos.** Un conflicto del que salen iguales está mal escrito. Y lo que los salva es siempre algo que uno de los dos construyó antes en el libro — así el destino es consecuencia acumulada, no casualidad conveniente. Ver [[06_Relationships/Cole_y_Chiara]].
+**15. Kal y Chiara no se separan — pero el lector tiene que llegar a creer que sí.**
+Regla dura del proyecto. Los conflictos que parecen terminales tienen que doler como terminales; lo que no puede ocurrir es la separación. **La salida nunca es esquivar el conflicto ni que se resuelva solo: es que los dos evolucionen y salgan distintos.** Un conflicto del que salen iguales está mal escrito. Y lo que los salva es siempre algo que uno de los dos construyó antes en el libro — así el destino es consecuencia acumulada, no casualidad conveniente. Ver [[06_Relationships/Kal_y_Chiara]].
 
 **15-bis. Lo que se dicen de verdad se lo dicen bajo fuego.**
 Los momentos en que bajan los escudos ocurren en máxima tensión, no en calma. Estos dos se aman perfectamente en el peligro y torpemente en la paz — la hostilidad es su idioma nativo. Las escenas pequeñas construyen el capital; las escenas de máxima tensión lo cobran. Nunca al revés.

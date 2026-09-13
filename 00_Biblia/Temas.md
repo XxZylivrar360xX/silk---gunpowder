@@ -6,15 +6,15 @@ Pilares temáticos de *Seda y Pólvora*. No son mensajes a declarar: son tension
 
 ## 1. El origen que no existe
 
-Cole no sabe de quién es hijo; Chiara usa un apellido que eligió no llevar entero. La novela sostiene que **la identidad no es lo que heredas sino lo que sigues eligiendo**, y luego pone esa idea a prueba hasta que duele: llega un punto en que a cada uno le ofrecen un origen, y aceptarlo cuesta lo que construyeron.
+Kal no sabe de quién es hijo; Chiara usa un apellido que eligió no llevar entero. La novela sostiene que **la identidad no es lo que heredas sino lo que sigues eligiendo**, y luego pone esa idea a prueba hasta que duele: llega un punto en que a cada uno le ofrecen un origen, y aceptarlo cuesta lo que construyeron.
 
 ## 2. El territorio contra el relato
 
-El conflicto central traducido a geografía y papel. Quien tiene la calle puede cobrar; quien tiene la versión decide de quién es la calle. Cole cree que lo primero es lo real. Chiara sabe que es lo segundo. **Los dos tienen razón a medias, y por eso se necesitan.**
+El conflicto central traducido a geografía y papel. Quien tiene la calle puede cobrar; quien tiene la versión decide de quién es la calle. Kal cree que lo primero es lo real. Chiara sabe que es lo segundo. **Los dos tienen razón a medias, y por eso se necesitan.**
 
 ## 3. El favor como moneda y como cadena
 
-Cole no compra gente: la ayuda antes de que se lo pidan. Es genuino y es un sistema de deuda. El tema pregunta si hay diferencia entre generosidad y control cuando el resultado es idéntico. La respuesta de la novela no debe ser cómoda.
+Kal no compra gente: la ayuda antes de que se lo pidan. Es genuino y es un sistema de deuda. El tema pregunta si hay diferencia entre generosidad y control cuando el resultado es idéntico. La respuesta de la novela no debe ser cómoda.
 
 ## 4. Mentir bien como oficio y como daño
 
@@ -26,7 +26,7 @@ Ella viene de manteles; él, de aceite de motor. Al principio es comedia. A medi
 
 **Y la geografía lo dice todo — CANON, en dos casas:**
 
-| **[[05_Locations/La_Casa]]** — el loft del barrio | La vieja casa de los padres de Cole, en la Almendra. Donde viven durante el ascenso. **El hogar de verdad.** |
+| **[[05_Locations/La_Casa]]** — el loft del barrio | La vieja casa de los padres de Kal, en la Almendra. Donde viven durante el ascenso. **El hogar de verdad.** |
 | **[[05_Locations/La_Villa]]** — la zona de prestigio | La casa oficial. Llega cuando los dos ya son alguien en San Aurelio. |
 
 En la primera etapa la que cambia de clase es **Chiara, y hacia abajo**: la mujer de Palermo con la ropa hecha a medida viviendo en la Almendra. Su *me quedo* también es geográfico, y nadie de arriba se lo creería — por eso la ciudad no los conecta.
@@ -35,7 +35,7 @@ En la primera etapa la que cambia de clase es **Chiara, y hacia abajo**: la muje
 
 ## 6. Proteger es también poseer
 
-El motor emocional de Cole es cuidar a los suyos aunque le cueste todo. Suena noble. Llevado hasta el final produce a un hombre que decide por otros "por su bien", y la novela tiene que enseñarle esa factura — probablemente en boca de alguien a quien salvó.
+El motor emocional de Kal es cuidar a los suyos aunque le cueste todo. Suena noble. Llevado hasta el final produce a un hombre que decide por otros "por su bien", y la novela tiene que enseñarle esa factura — probablemente en boca de alguien a quien salvó.
 
 ## 7. La ciudad como criatura
 
@@ -59,9 +59,9 @@ Ninguno de los dos tiene casa en el sentido que la gente le da a esa palabra. Lo
 
 ## 11. La fe como forma de espera
 
-Chiara es católica devota y su fe no absuelve la vida que lleva: la vuelve más cara. Cada vela que enciende por Cole dice lo que ella no puede controlar con relato, contactos ni versiones.
+Chiara es católica devota y su fe no absuelve la vida que lleva: la vuelve más cara. Cada vela que enciende por Kal dice lo que ella no puede controlar con relato, contactos ni versiones.
 
-Cole no comparte esa fe con la misma naturalidad, pero la respeta porque es de ella. Y cuando él mismo va a la iglesia, prende una vela y se queda sentado en silencio, el tema queda invertido: el hombre que siempre actúa por fin admite miedo sin convertirlo en acción.
+Kal no comparte esa fe con la misma naturalidad, pero la respeta porque es de ella. Y cuando él mismo va a la iglesia, prende una vela y se queda sentado en silencio, el tema queda invertido: el hombre que siempre actúa por fin admite miedo sin convertirlo en acción.
 
 Ver [[04_Concepts/Fe_y_Velas]].
 

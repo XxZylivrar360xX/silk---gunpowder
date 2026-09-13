@@ -29,7 +29,7 @@ Su mercado es pequeño, pero su valor narrativo es grande: son la cantera humana
 
 Creen que le dan trabajo a chicos que nadie más va a contratar. Esa excusa es media verdad y media condena.
 
-Para [[02_Characters/Cole_Mercer]], Cuadra Nueve es una prueba moral: si los absorbe como simple mano de obra, empieza a parecerse demasiado a lo que odia.
+Para [[02_Characters/Kal_Mercer]], Cuadra Nueve es una prueba moral: si los absorbe como simple mano de obra, empieza a parecerse demasiado a lo que odia.
 
 ---
 
@@ -41,9 +41,9 @@ Dario los considera desechables. Mientras le den ojos y recados, existen. Si nec
 
 ## Relación con El Patio
 
-Cole puede salvar a algunos y usar a otros. Esa tensión debe quedar viva.
+Kal puede salvar a algunos y usar a otros. Esa tensión debe quedar viva.
 
-[[02_Characters/Riley_Bennett]] puede funcionar como puente emocional si el arco necesita mostrar que Chiara ve a los jóvenes antes que Cole los convierta en piezas.
+[[02_Characters/Riley_Bennett]] puede funcionar como puente emocional si el arco necesita mostrar que Chiara ve a los jóvenes antes que Kal los convierta en piezas.
 
 ---
 
@@ -51,4 +51,4 @@ Cole puede salvar a algunos y usar a otros. Esa tensión debe quedar viva.
 
 > **RESUELTO (2026-08-23):** Maya Rios funciona como hermana mayor que sostiene la cuadra.
 
-> **PENDIENTE:** personaje de Cuadra Nueve que obligue a Cole a decidir entre utilidad y protección real.
+> **PENDIENTE:** personaje de Cuadra Nueve que obligue a Kal a decidir entre utilidad y protección real.

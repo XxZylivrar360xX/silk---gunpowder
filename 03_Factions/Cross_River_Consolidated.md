@@ -4,7 +4,7 @@
 
 **Qué es:** holding privado y estructura de activos administrada por [[02_Characters/Garrett_Cross]].  
 **Territorio:** [[05_Locations/San_Aurelio]] — negocios de isla, puerto, casino, inmuebles y participaciones discretas.  
-**Cabeza:** [[02_Characters/Garrett_Cross]] en papel; [[02_Characters/Cole_Mercer]] como beneficiario real no escrito.  
+**Cabeza:** [[02_Characters/Garrett_Cross]] en papel; [[02_Characters/Kal_Mercer]] como beneficiario real no escrito.  
 **Estado al abrir la novela:** no existe o no importa todavía; aparece cuando El Patio necesita dejar de parecer patio.
 
 ---
@@ -28,7 +28,7 @@ Esa lógica es peligrosa porque no es del todo falsa. El Patio sí vuelve más e
 ## Estructura
 
 - [[02_Characters/Garrett_Cross]] — administrador, testaferro principal y filtro de papel.
-- [[02_Characters/Cole_Mercer]] — beneficiario real no escrito; no debe figurar donde los federales puedan cerrar una línea limpia.
+- [[02_Characters/Kal_Mercer]] — beneficiario real no escrito; no debe figurar donde los federales puedan cerrar una línea limpia.
 - [[02_Characters/Chiara_Bellandi]] — ayuda a que el dinero del casino tenga una versión pública creíble.
 - [[02_Characters/Russell_Whitaker]] — carril político indirecto; no debe quedar pegado a Cross River antes de tiempo.
 

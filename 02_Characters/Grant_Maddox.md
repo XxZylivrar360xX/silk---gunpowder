@@ -5,7 +5,7 @@
 **Nacionalidad:** estadounidense.  
 **Edad al abrir la novela:** pendiente.  
 **Oficio:** agente táctico / enlace SWAT federal; exmilitar.  
-**Rol:** espejo físico de Cole.  
+**Rol:** espejo físico de Kal.  
 **Alias:** pendiente.  
 **Estado:** vivo.
 
@@ -32,7 +32,7 @@ Grant lee movimiento:
 - heridas que indican entrenamiento;
 - rutas de escape elegidas por alguien que sabe lo que hace.
 
-Cuanto más estudia escenas relacionadas con Cole, más claro le resulta que el entrenamiento de Mercer fue mucho más serio de lo que consta oficialmente.
+Cuanto más estudia escenas relacionadas con Kal, más claro le resulta que el entrenamiento de Mercer fue mucho más serio de lo que consta oficialmente.
 
 ---
 
@@ -40,11 +40,11 @@ Cuanto más estudia escenas relacionadas con Cole, más claro le resulta que el 
 
 - [[03_Factions/Fuerza_de_Tarea_Meridian]] — enlace táctico / SWAT.
 - [[02_Characters/Mara_Ellison]] — le traduce escenas violentas en lectura de entrenamiento.
-- [[02_Characters/Cole_Mercer]] — espejo físico: ambos reconocen disciplina antes que intención.
-- [[02_Characters/Warren_Halbrook]] — posible pista hacia el tipo de operación donde Cole aprendió lo que el expediente no dice.
+- [[02_Characters/Kal_Mercer]] — espejo físico: ambos reconocen disciplina antes que intención.
+- [[02_Characters/Warren_Halbrook]] — posible pista hacia el tipo de operación donde Kal aprendió lo que el expediente no dice.
 
 ---
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** si Grant y Cole comparten alguna referencia militar sin haberse conocido.
+> **PENDIENTE:** si Grant y Kal comparten alguna referencia militar sin haberse conocido.

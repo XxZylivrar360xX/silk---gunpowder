@@ -53,7 +53,7 @@ Su amenaza para Matteo es personal: la desaparición del hermano no fue una exce
 
 La verdad de su lealtad a Varek se revela hasta que Varek ya está encarcelado, en Libro III. La ausencia del hombre que lo manejaba cambia la lectura de las contingencias anteriores: **ya nadie sostiene la correa de Volpi.** No anticipar esa relación en los Libros I o II con pruebas concluyentes ni con una explicación retrospectiva prematura.
 
-> **PENDIENTE:** condición y destino final del hermano; evidencia que trae Matteo; el encargo concreto contra Matteo o contra Cole y Chiara; y cómo Nereo cae, queda expuesto o pierde utilidad sin robar la resolución de la saga.
+> **PENDIENTE:** condición y destino final del hermano; evidencia que trae Matteo; el encargo concreto contra Matteo o contra Kal y Chiara; y cómo Nereo cae, queda expuesto o pierde utilidad sin robar la resolución de la saga.
 
 ### El patrón que la ciudad leyó mal
 
@@ -61,11 +61,11 @@ Después de Keene, Volpi entra como un desconocido al departamento del norte de 
 
 La policía local y la prensa empiezan a plantear un asesino serial. Tras meses sin otro ataque, esa hipótesis se descarta. No era un asesino serial: eran intervenciones separadas cuyo vínculo real nadie podía probar todavía.
 
-Ya en *Interregno*, después de la apertura canónica con la ejecución pública de Halbrook, un tercer asesinato —víctima pendiente— reactiva el patrón. Es la carta de presentación operativa de La Mesa en San Aurelio y el expediente paralelo que Meridian hereda mientras escala por la crisis federal. La investigación debe revelar que Keene, Tommaso y el tercer caso siempre estuvieron conectados; no porque Cole y Chiara los ordenaran, sino porque los motivos de cada muerte orbitaban su ascenso, sus alianzas y las presiones que se ejercían sobre ellos.
+Ya en *Interregno*, después de la apertura canónica con la ejecución pública de Halbrook, un tercer asesinato —víctima pendiente— reactiva el patrón. Es la carta de presentación operativa de La Mesa en San Aurelio y el expediente paralelo que Meridian hereda mientras escala por la crisis federal. La investigación debe revelar que Keene, Tommaso y el tercer caso siempre estuvieron conectados; no porque Kal y Chiara los ordenaran, sino porque los motivos de cada muerte orbitaban su ascenso, sus alianzas y las presiones que se ejercían sobre ellos.
 
 ### Contrapeso de Chiara
 
-En *Interregno*, Volpi es el opuesto filosófico de Chiara: él usa información para borrar personas, fabricar ruido y volver la ausencia irrecuperable; ella debe convertir esas ausencias en una cadena legible que proteja a los vivos. Su caída no debe resolverse sólo con una ejecución de Cole ni con un rescate de Corrado: Chiara tiene que recuperar agencia sobre el relato y el expediente que Volpi quiso volver imposibles.
+En *Interregno*, Volpi es el opuesto filosófico de Chiara: él usa información para borrar personas, fabricar ruido y volver la ausencia irrecuperable; ella debe convertir esas ausencias en una cadena legible que proteja a los vivos. Su caída no debe resolverse sólo con una ejecución de Kal ni con un rescate de Corrado: Chiara tiene que recuperar agencia sobre el relato y el expediente que Volpi quiso volver imposibles.
 
 ## Reglas de escritura
 

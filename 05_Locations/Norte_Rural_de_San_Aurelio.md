@@ -4,7 +4,7 @@
 
 **Que es:** la franja que empieza despues de las zonas residenciales del norte y se abre hacia carreteras rurales, aeropuerto, parcelas, talleres ilegales, viñedos y terreno federal.
 
-**Funcion narrativa:** el norte rural es donde San Aurelio deja de parecer ciudad sin dejar de ser infraestructura. Sirve para carreras, cultivos, almacenamiento, entrenamiento, desapariciones, encuentros fuera de camara y el pasado militar de Cole.
+**Funcion narrativa:** el norte rural es donde San Aurelio deja de parecer ciudad sin dejar de ser infraestructura. Sirve para carreras, cultivos, almacenamiento, entrenamiento, desapariciones, encuentros fuera de camara y el pasado militar de Kal.
 
 ---
 
@@ -38,8 +38,8 @@ El norte rural tiene tres capas que se confunden desde la ciudad, pero no son lo
 
 1. **El norte no es vacío.** Hay rancheros, trabajadores agrícolas, pilotos, guardias, mecánicos, corredores, contratistas y patrullas que conocen caras.
 2. **La discreción no significa impunidad.** Menos cámaras implica más memoria humana.
-3. **Cole gana por terreno.** Harper, Tyler y los Marcadores vuelven legible una zona que para Varek y los federales parece periferia.
-4. **Chiara gana por legitimidad.** Los viñedos le dan una razón pública para estar en el norte sin parecer que sigue a Cole.
+3. **Kal gana por terreno.** Harper, Tyler y los Marcadores vuelven legible una zona que para Varek y los federales parece periferia.
+4. **Chiara gana por legitimidad.** Los viñedos le dan una razón pública para estar en el norte sin parecer que sigue a Kal.
 5. **Camp Alder no se toca sin consecuencia federal.** Cualquier escena ahí cambia la escala del libro.
 
 ---

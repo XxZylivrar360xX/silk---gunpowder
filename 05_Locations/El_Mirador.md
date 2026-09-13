@@ -12,9 +12,9 @@
 
 ## Por qué importa
 
-Es donde Cole lleva a Chiara la noche de [[06_Relationships/Hitos]], H11 — después de enseñarle a driftear en las curvas de bajada. Se sientan en el suelo a mirar el cielo. Ahí Chiara comparte un recuerdo con su padre sobre constelaciones, y Cole rompe, por única vez en el libro, su regla de no hablar nunca de Dale y Ruth Mercer.
+Es donde Kal lleva a Chiara la noche de [[06_Relationships/Hitos]], H11 — después de enseñarle a driftear en las curvas de bajada. Se sientan en el suelo a mirar el cielo. Ahí Chiara comparte un recuerdo con su padre sobre constelaciones, y Kal rompe, por única vez en el libro, su regla de no hablar nunca de Dale y Ruth Mercer.
 
-**Es el lugar donde Cole se abre.** No hay otro en la novela, hasta ahora, donde lo haga con palabras.
+**Es el lugar donde Kal se abre.** No hay otro en la novela, hasta ahora, donde lo haga con palabras.
 
 ---
 
@@ -26,4 +26,4 @@ Es donde Cole lleva a Chiara la noche de [[06_Relationships/Hitos]], H11 — des
 
 ---
 
-Ver también: [[06_Relationships/Hitos]] · [[05_Locations/San_Aurelio]] · [[02_Characters/Cole_Mercer]] · [[02_Characters/Chiara_Bellandi]]
+Ver también: [[06_Relationships/Hitos]] · [[05_Locations/San_Aurelio]] · [[02_Characters/Kal_Mercer]] · [[02_Characters/Chiara_Bellandi]]

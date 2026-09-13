@@ -23,11 +23,11 @@
 
 Tyler organiza carreras callejeras en San Aurelio. Es joven, rápido de cabeza y todavía no entiende del todo la escala de lo que está tocando.
 
-Es el puente natural entre [[03_Factions/Almendra_Towing]] y [[03_Factions/Los_Marcadores_de_Milla]], el circuito de carreras del norte. Donde Cole ve infraestructura, Tyler ve gente, horarios, apuestas, rutas, policías probables y quién no debería estar ahí.
+Es el puente natural entre [[03_Factions/Almendra_Towing]] y [[03_Factions/Los_Marcadores_de_Milla]], el circuito de carreras del norte. Donde Kal ve infraestructura, Tyler ve gente, horarios, apuestas, rutas, policías probables y quién no debería estar ahí.
 
-Después termina formando parte de la organización de Cole.
+Después termina formando parte de la organización de Kal.
 
-> **RESUELTO (2026-08-29):** Tyler organiza la carrera de máscaras de [[06_Relationships/Hitos]], H9 — **es su primera aparición en prosa** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_La_Carrera_De_Mascaras|Capítulo 9]]). Aparece sin biografía: conoce a Cole, reconoce el Peugeot rojo, avisa de un guardaganado nuevo en la recta, y no pide ni necesita el apellido de Chiara (Cole la presenta sólo como "Chiara"). Sigue **PENDIENTE** qué facción menor respaldaba el circuito antes de Cole.
+> **RESUELTO (2026-08-29):** Tyler organiza la carrera de máscaras de [[06_Relationships/Hitos]], H9 — **es su primera aparición en prosa** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_La_Carrera_De_Mascaras|Capítulo 9]]). Aparece sin biografía: conoce a Kal, reconoce el Peugeot rojo, avisa de un guardaganado nuevo en la recta, y no pide ni necesita el apellido de Chiara (Kal la presenta sólo como "Chiara"). Sigue **PENDIENTE** qué facción menor respaldaba el circuito antes de Kal.
 
 ---
 
@@ -37,7 +37,7 @@ Lo que opera hoy:
 
 - Es miembro organizador de carreras callejeras.
 - A los 21 años es el más joven del grupo importante.
-- Entra a la organización de Cole por utilidad, no por ceremonia.
+- Entra a la organización de Kal por utilidad, no por ceremonia.
 - Su circuito conecta con Kingsley Field, las Rutas de Milla y el taller ilegal del norte.
 
 ---
@@ -46,7 +46,7 @@ Lo que opera hoy:
 
 Tyler organiza por red informal: mensajes que se borran, ubicaciones de último minuto, pagos pequeños, favores de taller, gente que jura que no va a hablar y siempre habla.
 
-Su valor para Cole no es que conduzca mejor que todos. Es que **sabe convocar movimiento sin que parezca una estructura**.
+Su valor para Kal no es que conduzca mejor que todos. Es que **sabe convocar movimiento sin que parezca una estructura**.
 
 Eso lo vuelve una pieza perfecta para San Aurelio: el crimen aquí es logística, y Tyler mueve gente joven antes de que nadie la registre como organización.
 
@@ -56,7 +56,7 @@ Eso lo vuelve una pieza perfecta para San Aurelio: el crimen aquí es logística
 
 - **Es el más joven.** Su edad tiene que notarse en decisiones, impulsos y límites.
 - **No es el genio hacker de las carreras.** Su poder es social y logístico.
-- **No entra a Cole por ideología.** Entra porque Cole vuelve útil lo que Tyler ya hacía.
+- **No entra a Kal por ideología.** Entra porque Kal vuelve útil lo que Tyler ya hacía.
 - **No debe ser sólo alivio cómico.** Su juventud puede producir humor, pero también errores caros.
 - **Tiene que cargar consecuencias.** Si organiza carreras ilegales, alguien puede terminar perseguido, herido o fichado.
 
@@ -64,7 +64,7 @@ Eso lo vuelve una pieza perfecta para San Aurelio: el crimen aquí es logística
 
 ## Conexiones
 
-- [[02_Characters/Cole_Mercer]] — lo absorbe al sistema y le da escala.
+- [[02_Characters/Kal_Mercer]] — lo absorbe al sistema y le da escala.
 - [[02_Characters/Harper_Walker]] — posible vínculo operativo: rutas, conducción y norte rural.
 - [[02_Characters/Mei_Lin_Zhao]] — ex corredora rival; posible fricción por autoridad dentro del circuito.
 - [[02_Characters/Riley_Bennett]] — ex corredora rival; comparten entrada desde la calle hacia algo más organizado.
@@ -77,7 +77,7 @@ Eso lo vuelve una pieza perfecta para San Aurelio: el crimen aquí es logística
 
 > **RESUELTO (2026-08-29):** sí — Tyler organiza la carrera de H9; primera aparición en prosa en el Capítulo 9.
 
-> **PENDIENTE:** quién lo protegía antes de Cole.
+> **PENDIENTE:** quién lo protegía antes de Kal.
 
 > **PENDIENTE:** qué error comete por ser joven y cuánto cuesta.
 

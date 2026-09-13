@@ -25,7 +25,7 @@ Egocéntrico. Y **misógino disimulado** — lo importante es *disimulado*: jam�
 
 Dario sigue siendo magnate, empresario, figura vinculada al Monarch, hombre de contactos y personaje respetable con zonas grises. Puede condenar la violencia, pedir estabilidad, colaborar superficialmente con autoridades y mantener distancia visible respecto de las bandas que orbitan su estructura.
 
-No se presenta públicamente como jefe de un ejército en guerra con Cole y Halbrook. Su caída es el arresto de un prominente empresario acusado de estar detrás de una estructura criminal cuya escala la ciudad apenas empieza a comprender. Ver [[04_Concepts/La_Guerra_de_los_Tres]].
+No se presenta públicamente como jefe de un ejército en guerra con Kal y Halbrook. Su caída es el arresto de un prominente empresario acusado de estar detrás de una estructura criminal cuya escala la ciudad apenas empieza a comprender. Ver [[04_Concepts/La_Guerra_de_los_Tres]].
 
 ---
 
@@ -46,28 +46,28 @@ Esa misma noche se enteró de que **las tres mellizas no eran hijas suyas.** No 
 
 ---
 
-## Lo que siente por Cole — DISEÑO (2026-08-26)
+## Lo que siente por Kal — DISEÑO (2026-08-26)
 
-Después de H6 —cuando Cole se ofrece a trabajar para él— Varek empieza a desarrollar algo que nunca nombra, ni siquiera para sí mismo: **un amor romántico no correspondido y frustrado hacia Cole.**
+Después de H6 —cuando Kal se ofrece a trabajar para él— Varek empieza a desarrollar algo que nunca nombra, ni siquiera para sí mismo: **un amor romántico no correspondido y frustrado hacia Kal.**
 
 No se declara nunca ni aparece como pensamiento explícito. Se ve en la conducta:
 
-- **Favoritismo.** Rara vez le niega algo a Cole una vez que empiezan a trabajar juntos.
+- **Favoritismo.** Rara vez le niega algo a Kal una vez que empiezan a trabajar juntos.
 - Es la explicación real —y nunca dicha— de por qué "desvía momentáneamente su atención de Chiara" en H6: no es sólo que el cargamento de armas fuera buen negocio.
 
-**Chiara lo detecta.** Se lo dice a Cole. **Cole siempre lo desestima** — pero los dos, sin decírselo entre ellos con esas palabras, saben que sí puede tener sentido.
+**Chiara lo detecta.** Se lo dice a Kal. **Kal siempre lo desestima** — pero los dos, sin decírselo entre ellos con esas palabras, saben que sí puede tener sentido.
 
-> **DISEÑO — por qué se ensaña con Chiara:** el objeto real de la frustración de Varek no es Cole — es ella. Chiara ocupa, sin saberlo del todo, el lugar que él no puede tener. Cada vez que la trata como activo reemplazable, cotizable, castigable, está descargando sobre ella algo que en el fondo es sobre Cole. Es la misma operación que ya describe la ficha arriba ("la cotiza... es exactamente la operación que ella le hace al resto del mundo, aplicada sobre ella"), con una capa debajo que el lector sólo puede intuir.
+> **DISEÑO — por qué se ensaña con Chiara:** el objeto real de la frustración de Varek no es Kal — es ella. Chiara ocupa, sin saberlo del todo, el lugar que él no puede tener. Cada vez que la trata como activo reemplazable, cotizable, castigable, está descargando sobre ella algo que en el fondo es sobre Kal. Es la misma operación que ya describe la ficha arriba ("la cotiza... es exactamente la operación que ella le hace al resto del mundo, aplicada sobre ella"), con una capa debajo que el lector sólo puede intuir.
 >
-> **Regla de escritura:** esto nunca se dice en voz alta, ni siquiera entre Cole y Chiara con total claridad. Se construye por acumulación de favoritismo, silencios y decisiones sin otra explicación limpia. El lector lo intuye antes de que los personajes lo confirmen entre sí — y ninguno de los dos lo confirma nunca del todo.
+> **Regla de escritura:** esto nunca se dice en voz alta, ni siquiera entre Kal y Chiara con total claridad. Se construye por acumulación de favoritismo, silencios y decisiones sin otra explicación limpia. El lector lo intuye antes de que los personajes lo confirmen entre sí — y ninguno de los dos lo confirma nunca del todo.
 
 ---
 
 ## Por qué es el antagonista correcto para este libro
 
-- **Es lo que Cole podría llegar a ser.** Un hombre que empezó en algún lado y hoy es "el que decide", con una cara pública intachable y un negocio limpio arriba de todo lo demás. Cole se está construyendo una fachada de empresario intachable ([[06_Relationships/Hitos]], H2); Varek ya terminó la suya hace veinte años. **El antagonista es el destino que le espera si nadie lo detiene.**
+- **Es lo que Kal podría llegar a ser.** Un hombre que empezó en algún lado y hoy es "el que decide", con una cara pública intachable y un negocio limpio arriba de todo lo demás. Kal se está construyendo una fachada de empresario intachable ([[06_Relationships/Hitos]], H2); Varek ya terminó la suya hace veinte años. **El antagonista es el destino que le espera si nadie lo detiene.**
 - **Su lógica es decente para él mismo**, como exige el principio 3 de [[00_Biblia/Principios_Narrativos]]. Falta definir cuál.
-- **Es la organización que el método de Cole se tiene que comer.** "Todo pasa por él" describe exactamente la posición que Cole va a ocupar al final del ascenso. Ver [[00_Biblia/Reglas_del_Mundo]], regla 2.
+- **Es la organización que el método de Kal se tiene que comer.** "Todo pasa por él" describe exactamente la posición que Kal va a ocupar al final del ascenso. Ver [[00_Biblia/Reglas_del_Mundo]], regla 2.
 - **Y es el jefe de ella.** El casino es suyo, lo que significa que **Chiara trabaja para el antagonista principal desde la primera página** — y que su arco de autonomía es literalmente salir de debajo de este hombre. Su relación con Varek es el reloj de la primera parte del libro.
 
 ---
@@ -76,7 +76,7 @@ No se declara nunca ni aparece como pensamiento explícito. Se ve en la conducta
 
 **El puerto.** Ver [[05_Locations/San_Aurelio]] y [[00_Biblia/Reglas_del_Mundo]], regla 1: aquí el crimen es logística, y quien controla lo que entra y sale controla todo. Silas Crowe lo resume con desprecio: *un aristócrata criminal que cree que el puerto le da derecho a gobernar toda San Aurelio.*
 
-**Hacia abajo — [[02_Characters/Silas_Crowe]].** Hacen negocios indirectamente y no son aliados. Varek lo considera **útil, vulgar y reemplazable**. Se necesitan a veces y se detestan siempre. Es la puerta por la que Cole entra al ecosistema de Varek **desde abajo, años antes de enfrentarlo como igual.**
+**Hacia abajo — [[02_Characters/Silas_Crowe]].** Hacen negocios indirectamente y no son aliados. Varek lo considera **útil, vulgar y reemplazable**. Se necesitan a veces y se detestan siempre. Es la puerta por la que Kal entra al ecosistema de Varek **desde abajo, años antes de enfrentarlo como igual.**
 
 **Hacia arriba — [[03_Factions/Il_Consorzio]].** No pertenece a él y no trabaja para él: **tienen un acuerdo.** Él pone territorio y logística; ellos ponen acceso internacional. Los dos saben que podrían funcionar sin el otro — sería más caro, nada más. **Varek es enorme dentro de San Aurelio y no es nada fuera de ella**, y eso mantiene la escala del libro en una ciudad.
 
@@ -104,7 +104,7 @@ Las organizaciones menores relevantes están en [[03_Factions/Bandas_Menores_de_
 
 El centro viejo queda fuera de ese reparto. Nadie sostiene mercado permanente junto a hospitales, Ayuntamiento, juzgados y comisarías: demasiado uniforme, demasiada cámara, demasiada prensa cerca.
 
-> **DISEÑO:** el contraste con [[02_Characters/Cole_Mercer]] tiene que crecer lento. Dario gobierna porque todos creen que puede destruirlos. Cole asciende porque cada vez más gente cree que, con él, puede seguir operando sin ser humillada de entrada. Eso no vuelve inocente a Cole: cuando agota las salidas, dispara.
+> **DISEÑO:** el contraste con [[02_Characters/Kal_Mercer]] tiene que crecer lento. Dario gobierna porque todos creen que puede destruirlos. Kal asciende porque cada vez más gente cree que, con él, puede seguir operando sin ser humillada de entrada. Eso no vuelve inocente a Kal: cuando agota las salidas, dispara.
 
 Ver también [[05_Locations/Estado_de_la_Ciudad]] y [[03_Factions/Mapa_de_Conflicto_Activo]].
 
@@ -112,7 +112,7 @@ Ver también [[05_Locations/Estado_de_la_Ciudad]] y [[03_Factions/Mapa_de_Confli
 
 ## Lo que ya sabe hacer contra ellos
 
-Nada, todavía. Y ése es el punto: cuando lo haga, sabrá **exactamente dónde tocar**, porque conoce a Chiara desde antes que Cole.
+Nada, todavía. Y ése es el punto: cuando lo haga, sabrá **exactamente dónde tocar**, porque conoce a Chiara desde antes que Kal.
 
 ---
 
@@ -124,7 +124,7 @@ La utilidad narrativa no es sólo quitar a un funcionario. Es mostrar cómo gobi
 
 La llegada de [[02_Characters/Elena_Vega]] es una consecuencia que Varek subestima al principio.
 
-> **DISEÑO:** Varek ya está a medio camino — entendió que hay una aventura. Es el candidato natural a descubrir la unión invisible entera. Y es también el candidato natural a ser quien rechazó a Cole por "demasiado listo" en H2 — lo que convertiría todo el ascenso en la consecuencia de un error suyo.
+> **DISEÑO:** Varek ya está a medio camino — entendió que hay una aventura. Es el candidato natural a descubrir la unión invisible entera. Y es también el candidato natural a ser quien rechazó a Kal por "demasiado listo" en H2 — lo que convertiría todo el ascenso en la consecuencia de un error suyo.
 
 ---
 
@@ -132,25 +132,25 @@ La llegada de [[02_Characters/Elena_Vega]] es una consecuencia que Varek subesti
 
 **EJECUTADO en el Capítulo 9 (2026-08-28)**, con el lugar corregido a hipódromo del Monarch:
 
-- **Se apuntó con Cole en el cuarto de hospital de Chiara**, los dos culpándose de lo que le pasó. Acabaron en tregua.
-- **Le quedaron dudas** sobre la versión que Cole y Chiara improvisaron, y la probó con los dos juntos el día del alta ("qué casualidad que Cole llegara tan pronto, sin que nadie lo llamara") sin poder desmontarla del todo.
+- **Se apuntó con Kal en el cuarto de hospital de Chiara**, los dos culpándose de lo que le pasó. Acabaron en tregua.
+- **Le quedaron dudas** sobre la versión que Kal y Chiara improvisaron, y la probó con los dos juntos el día del alta ("qué casualidad que Kal llegara tan pronto, sin que nadie lo llamara") sin poder desmontarla del todo.
 
 **Todavía sin escribir, repartido entre dos hitos (cronología consolidada 2026-08-29):**
 
 **En [[06_Relationships/Hitos#H15 — La noche del jacuzzi|La noche del jacuzzi]]** (de madrugada, después de esa noche):
 
-- **Le advirtió a Chiara que se alejara de Cole** — que algo no le cuadraba, que iba a investigarlo personalmente y a mandar hombres a seguirlo y vigilarlo.
+- **Le advirtió a Chiara que se alejara de Kal** — que algo no le cuadraba, que iba a investigarlo personalmente y a mandar hombres a seguirlo y vigilarlo.
 
-**En [[06_Relationships/Hitos#H5 — San Aurelio|H5 — San Aurelio]]** (cuando Cole sale de la ciudad y Chiara, creyéndolo en peligro, investiga y lo sigue hasta el taller del norte):
+**En [[06_Relationships/Hitos#H5 — San Aurelio|H5 — San Aurelio]]** (cuando Kal sale de la ciudad y Chiara, creyéndolo en peligro, investiga y lo sigue hasta el taller del norte):
 
-- Le contó el pasado turbio de Cole y **el incidente del hospital contado sólo en la parte que le convenía.**
-- **Le ordenó dejar de ver a Cole.** Ella le contestó que él no es nadie para decirle qué hacer. Las tres líneas canon de la confrontación:
+- Le contó el pasado turbio de Kal y **el incidente del hospital contado sólo en la parte que le convenía.**
+- **Le ordenó dejar de ver a Kal.** Ella le contestó que él no es nadie para decirle qué hacer. Las tres líneas canon de la confrontación:
 
 > **— Trabajas para mí. No conmigo.**
 >
 > **— ¿Te estás acostando con él?**
 >
-> **— Si hay que eliminar a Cole, entonces tú vas a hacerlo.**
+> **— Si hay que eliminar a Kal, entonces tú vas a hacerlo.**
 
 > **DISEÑO — es su mejor momento y define al personaje:** no dice *lo voy a matar*. Dice **lo vas a matar tú.** No amenaza a Chiara: **la convierte en el instrumento de la amenaza.** Y es la respuesta más brutal posible a lo que ella acaba de decirle, porque contesta *"tú no eres nadie para decirme qué hacer"* demostrándole que sí lo es.
 >
@@ -158,22 +158,22 @@ La llegada de [[02_Characters/Elena_Vega]] es una consecuencia que Varek subesti
 
 ### Y lo que aceptó — CANON
 
-En [[06_Relationships/Hitos]], H6: **Cole se ofrece a trabajar para él, como parte de la organización.**
+En [[06_Relationships/Hitos]], H6: **Kal se ofrece a trabajar para él, como parte de la organización.**
 
-A cambio, Cole pide **seguridad para Chiara**. Y trae con qué pagarlo: **una entrada a [[05_Locations/Camp_Alder]]** para sacar armamento largo y venderlo en la ciudad.
+A cambio, Kal pide **seguridad para Chiara**. Y trae con qué pagarlo: **una entrada a [[05_Locations/Camp_Alder]]** para sacar armamento largo y venderlo en la ciudad.
 
 **Varek acepta** — y con eso **desvía momentáneamente su atención de Chiara.**
 
 > **DISEÑO — el error que le va a costar todo.** Varek acaba de meter dentro de su organización, a cambio de un cargamento de armas, **al hombre que va a comérsela desde adentro.** Y lo hizo porque le pareció una transacción ventajosa: exactamente su forma de ver el mundo — *el poder pertenece a quien puede tomarlo y conservarlo* — usada en su contra.
 >
-> Ver [[00_Biblia/Reglas_del_Mundo]], regla 2: **la primera organización que subcontrata a Cole es la primera que pierde su territorio, y ni siquiera entiende cuándo pasó.**
+> Ver [[00_Biblia/Reglas_del_Mundo]], regla 2: **la primera organización que subcontrata a Kal es la primera que pierde su territorio, y ni siquiera entiende cuándo pasó.**
 
 ---
 
 ## Apariciones canon
 
 - **[[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/02_Demasiado_Listo]]** — Chiara lo conoce al llegar al Monarch, en el segundo capítulo provisional. Primera aparición del lector bajo el nuevo montaje.
-- **[[06_Relationships/Hitos]], H3-b** — conversación con Chiara en la entrada de Gabriella's, de salida, justo antes de que aparezca Cole. Ya no es su primera aparición, pero sigue siendo su primera escena de presión directa sobre ella si el montaje actual se conserva.
+- **[[06_Relationships/Hitos]], H3-b** — conversación con Chiara en la entrada de Gabriella's, de salida, justo antes de que aparezca Kal. Ya no es su primera aparición, pero sigue siendo su primera escena de presión directa sobre ella si el montaje actual se conserva.
 - **[[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/27_Me_Encuentro_Bien|Capítulo 27 — Me encuentro bien]]** (BORRADOR) — ejecuta la **confrontación Dario–Chiara** de [[06_Relationships/Hitos#H5 — San Aurelio|H5]] en el taller del norte: las tres líneas canon (*"Trabajas para mí. No conmigo." / "¿Te estás acostando con él?" / "…entonces lo vas a hacer tú."*) + *"vas a aprender tu lugar"*. Cortés y sin subir la voz incluso al amenazar; tutea a Chiara como gesto de poder; el arma nunca se nombra (sólo el frío del galpón). La deja ir por cálculo, no por piedad. La advertencia de madrugada tras el jacuzzi entra en el mismo capítulo como recuerdo de Chiara.
 
 ---
@@ -182,7 +182,7 @@ A cambio, Cole pide **seguridad para Chiara**. Y trae con qué pagarlo: **una en
 
 > **PENDIENTE:** nombre de su organización. Es la facción dominante de San Aurelio y todavía no existe como ficha en `03_Factions/`. Su base es **el puerto**.
 
-> **PENDIENTE:** ¿fue él quien rechazó a Cole en H2 por "demasiado listo"?
+> **PENDIENTE:** ¿fue él quien rechazó a Kal en H2 por "demasiado listo"?
 
 > **PENDIENTE:** su relación exacta con Chiara — quién la mandó desde Italia, qué le debe, y cuánta autoridad tiene sobre ella.
 
@@ -192,4 +192,4 @@ A cambio, Cole pide **seguridad para Chiara**. Y trae con qué pagarlo: **una en
 
 ---
 
-Ver también: [[03_Factions/El_Casino]] · [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Cole_Mercer]]
+Ver también: [[03_Factions/El_Casino]] · [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Kal_Mercer]]

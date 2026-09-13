@@ -38,7 +38,7 @@
   "metadata_markers": ["TODO", "FIXME", "[PENDIENTE", "> **PENDIENTE", "nota de autor", "nota editorial"],
   "ngram_exclusions": [
     "^(dijo|pregunto|respondio|contesto) ",
-    "^(cole mercer|chiara bellandi|dario varek)(?: |$)",
+    "^(kal mercer|chiara bellandi|dario varek)(?: |$)",
     "^capitulo "
   ],
   "ngram_lengths": [3, 4, 5, 6, 7, 8],
@@ -51,7 +51,7 @@
   "passage_similarity_info_threshold": 0.12,
   "passage_similarity_medium_threshold": 0.32,
   "passage_similarity_shingle_size": 2,
-  "passage_similarity_excluded_terms": ["Cole", "Chiara", "Nadir", "Héctor", "Rocco", "Darío", "Mercer", "Bellandi", "Varek"],
+  "passage_similarity_excluded_terms": ["Kal", "Chiara", "Nadir", "Héctor", "Rocco", "Darío", "Mercer", "Bellandi", "Varek"],
   "phrases": {
     "como si": {"chapter_threshold": 4, "global_threshold": 12, "isolated_severity": "info", "severity": "low", "local_line_window": 30, "local_medium_threshold": 6},
     "de alguna manera": {"chapter_threshold": 2, "global_threshold": 3, "isolated_severity": "info", "severity": "medium"},

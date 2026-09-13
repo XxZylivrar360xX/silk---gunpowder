@@ -88,7 +88,7 @@ En caso de conflicto:
 
 | Personaje | Archivo |
 |---|---|
-| Cole Mercer | [voice/Cole_Mercer.md](voice/Cole_Mercer.md) |
+| Kal Mercer | [voice/Kal_Mercer.md](voice/Kal_Mercer.md) |
 | Chiara Bellandi | [voice/Chiara_Bellandi.md](voice/Chiara_Bellandi.md) |
 | Dario Varek | [voice/Dario_Varek.md](voice/Dario_Varek.md) |
 | Matteo Bellacorte | [voice/Matteo_Bellacorte.md](voice/Matteo_Bellacorte.md) |

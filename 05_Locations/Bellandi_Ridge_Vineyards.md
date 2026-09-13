@@ -5,7 +5,7 @@
 **Nombre público:** **Bellandi Ridge Vineyards**.
 **Nombre privado de Chiara:** *la tenuta*, sólo cuando está cómoda o cuando olvida traducirse.
 **Qué es:** viñedo pequeño en la ladera norte de San Aurelio, entre Lomas de San Jacinto y el valle agrícola de [[05_Locations/Cedar_Flats]].
-**De quién es:** de Chiara, a través de una estructura legal propia vinculada al apellido Bellandi, no como activo visible de Cole.
+**De quién es:** de Chiara, a través de una estructura legal propia vinculada al apellido Bellandi, no como activo visible de Kal.
 
 ---
 
@@ -16,7 +16,7 @@ Bellandi Ridge es la primera propiedad de San Aurelio que Chiara puede llamar su
 No es una fachada criminal principal. Puede servir para eventos, cenas, donaciones, botellas en mesas correctas y legitimidad social, pero su valor dramático es más íntimo:
 
 - Chiara trae a California una versión de hogar que entiende: tierra, mesa, vino, familia elegida.
-- Cole ve que ella no sólo administra habitaciones ajenas; también puede plantar algo y esperar.
+- Kal ve que ella no sólo administra habitaciones ajenas; también puede plantar algo y esperar.
 - La ciudad aprende a leer a Chiara fuera del casino y fuera del periódico.
 
 ---
@@ -33,7 +33,7 @@ Por la mañana huele a tierra caliente y hojas. De noche, las luces de San Aurel
 
 **Con Chiara:** es su apellido convertido en tierra. Bellandi deja de ser sólo una firma y se vuelve lugar.
 
-**Con Cole:** no debe invadirlo. Si Cole convierte Bellandi Ridge en almacén o base, rompe algo. Puede protegerlo, financiarlo o visitarlo, pero la finca no existe para absorberse al Patio.
+**Con Kal:** no debe invadirlo. Si Kal convierte Bellandi Ridge en almacén o base, rompe algo. Puede protegerlo, financiarlo o visitarlo, pero la finca no existe para absorberse al Patio.
 
 **Con Cross River:** Garrett puede ordenar papeles o blindar compras laterales, pero Bellandi Ridge no debe aparecer como activo principal de [[03_Factions/Cross_River_Consolidated]]. Esa separación importa ante los federales.
 

@@ -1,24 +1,24 @@
 <!--
 Estado: borrador provisional.
-Protagonistas: Cole Mercer, Chiara Bellandi.
+Protagonistas: Kal Mercer, Chiara Bellandi.
 Ventana temporal: despues de la primera cena y de la costumbre de contarse el dia.
 Lugares: The Monarch Casino & Hotel, El Penthouse.
-Funcion: ejecutar H2-b. Costumbre de contarse el dia (primera comida: torta de Mabel sin mostaza, dato de la alergia de Chiara), noche del penthouse (hamburguesas, hierba), paso del usted al tu en la escena de la hierba, cancion de Cole (The World Is Yours, Peugeot) y de Chiara (Un anno d'amore, ahora traducida por completo), juego de Parole Parole como escena nueva de idioma en vivo, llamada de Danny, silla de estetica con fragmento de la cicatriz, calavera, jacuzzi con mueca espejo, habitaciones separadas, choque de punos. Cierre recontextualizado: "eres increible" ya no marca el tu -- marca que cada uno le devolvio al otro una alegria que ninguno sabia que todavia podia sentir.
+Funcion: ejecutar H2-b. Costumbre de contarse el dia (primera comida: torta de Mabel sin mostaza, dato de la alergia de Chiara), noche del penthouse (hamburguesas, hierba), paso del usted al tu en la escena de la hierba, cancion de Kal (The World Is Yours, Peugeot) y de Chiara (Un anno d'amore, ahora traducida por completo), juego de Parole Parole como escena nueva de idioma en vivo, llamada de Danny, silla de estetica con fragmento de la cicatriz, calavera, jacuzzi con mueca espejo, habitaciones separadas, choque de punos. Cierre recontextualizado: "eres increible" ya no marca el tu -- marca que cada uno le devolvio al otro una alegria que ninguno sabia que todavia podia sentir.
 -->
 
 # Capítulo 7 — Ambos
 
 La costumbre nació sin pedir permiso.
 
-Al principio Cole pasaba por el Monarch porque había una factura que firmar, una pieza que revisar, un proveedor que medir o un problema pequeño que Chiara prefería resolver antes de que aprendiera a gritar. Después empezó a pasar cuando no hacía falta quedarse. Decía siempre cinco minutos y nunca eran cinco, y los dos habían dejado de fingir que la cuenta importaba.
+Al principio Kal pasaba por el Monarch porque había una factura que firmar, una pieza que revisar, un proveedor que medir o un problema pequeño que Chiara prefería resolver antes de que aprendiera a gritar. Después empezó a pasar cuando no hacía falta quedarse. Decía siempre cinco minutos y nunca eran cinco, y los dos habían dejado de fingir que la cuenta importaba.
 
-Chiara descubrió que le gustaba oír cómo contaba el día. No porque sus días fueran tranquilos: justamente por lo contrario. Cole narraba grúas, vecinos, coches rotos, Walt peleándose con formularios de libertad condicional, Héctor insultando una bomba de agua, Nadir vendiendo una pieza como si estuviera negociando una paz internacional. Lo decía todo como si no importara demasiado, y en esa forma de quitarle peso a las cosas ella empezaba a ver cuánto cargaba.
+Chiara descubrió que le gustaba oír cómo contaba el día. No porque sus días fueran tranquilos: justamente por lo contrario. Kal narraba grúas, vecinos, coches rotos, Walt peleándose con formularios de libertad condicional, Héctor insultando una bomba de agua, Nadir vendiendo una pieza como si estuviera negociando una paz internacional. Lo decía todo como si no importara demasiado, y en esa forma de quitarle peso a las cosas ella empezaba a ver cuánto cargaba.
 
 Ella, a cambio, le contaba versiones. No secretos, todavía no. Versiones: qué socio quería parecer menos asustado, qué invitado fingía riqueza, qué periodista local no sabía hacer una pregunta sin disculparse, qué agujero de administración del casino iba a convertirse en incendio si nadie lo tapaba antes del viernes.
 
-Cole la escuchaba como escuchaba un motor: sin interrumpir hasta ubicar de dónde venía el ruido.
+Kal la escuchaba como escuchaba un motor: sin interrumpir hasta ubicar de dónde venía el ruido.
 
-Una noche, después de que una máquina de hielo se rindiera y el proveedor intentara cobrar la urgencia de algo que él mismo había dejado mal montado, Cole apareció en la oficina administrativa con una bolsa de papel manchada de grasa por una esquina.
+Una noche, después de que una máquina de hielo se rindiera y el proveedor intentara cobrar la urgencia de algo que él mismo había dejado mal montado, Kal apareció en la oficina administrativa con una bolsa de papel manchada de grasa por una esquina.
 
 —No ha cenado.
 
@@ -36,7 +36,7 @@ Sin mostaza.
 
 Ella nunca se lo había dicho. Lo había mencionado una vez, de pasada, la única ocasión en que pisó La Esquina de Mabel a mirar el barrio de él: que la mostaza le cerraba la garganta desde niña. No había vuelto a pensarlo. Mabel, que sabía de todo el mundo cosas que nadie le contaba de frente, se lo había guardado, y se lo había pasado a él, o él lo había oído sin que nadie se lo dirigiera, que en ese hombre venía siendo lo mismo.
 
-—Mabel la preparó —dijo Cole, como si hiciera falta aclararlo—. Yo cargué la bolsa.
+—Mabel la preparó —dijo Kal, como si hiciera falta aclararlo—. Yo cargué la bolsa.
 
 Chiara cerró la carpeta. No le dio las gracias por la mostaza que no estaba; decirlo en voz alta lo habría vuelto más grande de lo que ninguno de los dos quería esa noche.
 
@@ -58,7 +58,7 @@ La tarde del reto, Chiara estaba descalza en su oficina.
 
 No por comodidad, por supervivencia. Los tacones rojos esperaban junto al escritorio, vencidos por un día de reuniones, dos recorridos por piso y una discusión con Tommaso sobre si los torneos de póker debían invitar a jugadores de fuera antes de que el hotel tuviera habitaciones suficientes. Tommaso creía que no. Chiara creía que Tommaso tenía una relación demasiado íntima con las palabras *todavía no*.
 
-Cole tocó el marco de la puerta.
+Kal tocó el marco de la puerta.
 
 —¿Mal día?
 
@@ -68,7 +68,7 @@ Ella miró sus pies descalzos y luego a él.
 
 —Claro.
 
-Traía chaqueta de mezclilla con cuello de borrego, sin camisa debajo, porque en esa etapa de su vida Cole parecía haber decidido que el clima era una sugerencia y las normas de vestimenta una negociación menor. Tenía el pelo revuelto, la mandíbula cansada y una bolsa de papel en la mano.
+Traía chaqueta de mezclilla con cuello de borrego, sin camisa debajo, porque en esa etapa de su vida Kal parecía haber decidido que el clima era una sugerencia y las normas de vestimenta una negociación menor. Tenía el pelo revuelto, la mandíbula cansada y una bolsa de papel en la mano.
 
 —¿Qué trae?
 
@@ -86,7 +86,7 @@ Ella le indicó la silla con la barbilla.
 
 —Y usted siempre lo ignora.
 
-Cole dejó la bolsa sobre el escritorio y no se sentó. Miró los zapatos junto a la pata de la mesa.
+Kal dejó la bolsa sobre el escritorio y no se sentó. Miró los zapatos junto a la pata de la mesa.
 
 —¿Es cierto?
 
@@ -106,7 +106,7 @@ Chiara levantó la vista despacio.
 
 —Estaba en mi casa.
 
-Cole se recargó en el borde del escritorio, demasiado cómodo para una pregunta tan descarada.
+Kal se recargó en el borde del escritorio, demasiado cómodo para una pregunta tan descarada.
 
 —¿Y a mí me lo enseñaría?
 
@@ -118,7 +118,7 @@ Chiara dejó la pluma.
 
 Por primera vez en varios días logró sorprenderla. No ofenderla, eso habría sido más fácil. Sorprenderla de verdad, justo en el punto donde la mujer que administraba todas sus versiones entendía que alguien acababa de pedir acceso a la versión sin producir.
 
-Cole lo vio y sonrió apenas.
+Kal lo vio y sonrió apenas.
 
 —Fue pregunta.
 
@@ -150,7 +150,7 @@ Chiara se puso los tacones sin dejar de mirarlo.
 
 —Eso dicen todos.
 
-Cole se detuvo en la puerta.
+Kal se detuvo en la puerta.
 
 —Yo sí.
 
@@ -162,7 +162,7 @@ Volvió a las ocho con dos hamburguesas, dos malteadas y una bolsa pequeña que 
 
 —¿Eso era lo que tenía que resolver?
 
-Cole cerró la puerta del penthouse detrás de él.
+Kal cerró la puerta del penthouse detrás de él.
 
 —Recreativo.
 
@@ -174,7 +174,7 @@ Cole cerró la puerta del penthouse detrás de él.
 
 El penthouse de noche no se parecía al de la mañana posterior al encuentro. La ciudad brillaba abajo, el mar devolvía pedazos de luz, la sala estaba ordenada con esa limpieza impersonal de los lugares caros que alguien más mantiene vivos. Chiara llevaba un conjunto de seda oscuro, no exactamente pijama y no exactamente ropa para recibir visitas. El cabello suelto le caía sobre los hombros. No llevaba zapatos.
 
-Cole no comentó nada. Eso fue, para ella, más efectivo que cualquier cumplido.
+Kal no comentó nada. Eso fue, para ella, más efectivo que cualquier cumplido.
 
 —No vamos a ensuciar los sillones —dijo.
 
@@ -184,7 +184,7 @@ Cole no comentó nada. Eso fue, para ella, más efectivo que cualquier cumplido.
 
 —Tiene razón.
 
-Terminaron sentados en el suelo de la sala, con la espalda contra el sofá que no iban a usar, las hamburguesas sobre servilletas y las malteadas apoyadas en una mesa baja que probablemente costaba más que la camioneta rentada de la otra noche. Alguien —Chiara nunca supo bien cuándo— había puesto algo cálido y sin urgencia a sonar bajito desde una bocina en la esquina, lo justo para llenar los silencios sin pedirles nada. Chiara comía en trozos chicos, arrancando la papa de una en una; Cole había desarmado la suya para quitarle algo y volver a armarla, una costumbre de comer rápido en lugares donde comer despacio era un lujo.
+Terminaron sentados en el suelo de la sala, con la espalda contra el sofá que no iban a usar, las hamburguesas sobre servilletas y las malteadas apoyadas en una mesa baja que probablemente costaba más que la camioneta rentada de la otra noche. Alguien —Chiara nunca supo bien cuándo— había puesto algo cálido y sin urgencia a sonar bajito desde una bocina en la esquina, lo justo para llenar los silencios sin pedirles nada. Chiara comía en trozos chicos, arrancando la papa de una en una; Kal había desarmado la suya para quitarle algo y volver a armarla, una costumbre de comer rápido en lugares donde comer despacio era un lujo.
 
 —Esto es ridículo.
 
@@ -196,7 +196,7 @@ Terminaron sentados en el suelo de la sala, con la espalda contra el sofá que n
 
 —Técnicamente eso lo empeora.
 
-Fumaron después de comer, junto a la ventana entreabierta, con la ventilación puesta y una toalla húmeda contra la ranura de la puerta, como dos adolescentes con dinero tratando de engañar a un internado. Chiara se rió de eso primero. Cole tardó en seguirla, y cuando lo hizo fue con el cuerpo entero, echado hacia atrás sobre las manos.
+Fumaron después de comer, junto a la ventana entreabierta, con la ventilación puesta y una toalla húmeda contra la ranura de la puerta, como dos adolescentes con dinero tratando de engañar a un internado. Chiara se rió de eso primero. Kal tardó en seguirla, y cuando lo hizo fue con el cuerpo entero, echado hacia atrás sobre las manos.
 
 Le pasó el cigarro mal armado y esperó a que ella diera el golpe antes de hablar.
 
@@ -232,7 +232,7 @@ No fue un recorrido ordenado. Fue ella caminando descalza por el penthouse y él
 
 —En casa de mi madre no había un cajón así en toda la casa —dijo Chiara, sin que él preguntara—. Todos llenos hasta que no cerraban. Ligas, tapas sin frasco, estampitas de santos, un martillo entre los cubiertos.
 
-Cole apoyó la cadera en la encimera y esperó. Con él, esperar era una forma de preguntar.
+Kal apoyó la cadera en la encimera y esperó. Con él, esperar era una forma de preguntar.
 
 —Cuando tenía seis años me dieron una cámara de video para una fiesta. Una de esas viejas, que pesaban como un ladrillo. Me pasé la noche entera grabando desde un rincón, con un ojo cerrado, seria, seria, seria, para que todo saliera derecho. Un niño, Vitto, me sacó a bailar y me pisó los pies media hora. Yo no bajé la cámara.
 
@@ -244,15 +244,15 @@ Cole apoyó la cadera en la encimera y esperó. Con él, esperar era una forma d
 
 —Esa noche no. —Cerró el cajón vacío con la cadera—. Pero me quedé con la frase. La saco cada vez que algo me está pisando y tengo que seguir como si nada. Que es casi siempre.
 
-Cole lo pensó un momento.
+Kal lo pensó un momento.
 
 —Yo habría pisado peor que Vitto.
 
 —De eso no tengo ninguna duda.
 
-Fue lo más cerca que estuvieron esa noche de hablar de bailar juntos, y ninguno de los dos lo empujó más allá. Cole levantó un cenicero de piedra, lo sopesó y lo devolvió a su sitio un centímetro más a la izquierda. Chiara lo dejó hacer. Verlo tocar el inventario de una vida que ninguno de los dos vivía le pareció más honesto que cualquier cosa que pudieran decirse en voz alta — y ella acababa de darle, sin que se lo pidiera, algo que no repartía.
+Fue lo más cerca que estuvieron esa noche de hablar de bailar juntos, y ninguno de los dos lo empujó más allá. Kal levantó un cenicero de piedra, lo sopesó y lo devolvió a su sitio un centímetro más a la izquierda. Chiara lo dejó hacer. Verlo tocar el inventario de una vida que ninguno de los dos vivía le pareció más honesto que cualquier cosa que pudieran decirse en voz alta — y ella acababa de darle, sin que se lo pidiera, algo que no repartía.
 
-Cuando la canción de la bocina cambió a algo con más orgullo que prisa, Cole se quedó un momento callado, la cabeza ladeada, reconociendo el ritmo antes que la letra.
+Cuando la canción de la bocina cambió a algo con más orgullo que prisa, Kal se quedó un momento callado, la cabeza ladeada, reconociendo el ritmo antes que la letra.
 
 —Ésta la ponía Michael.
 
@@ -280,11 +280,11 @@ La sala de cine tenía sillones demasiado grandes y una pantalla que bajaba del 
 
 —Tú trajiste la cena y la droga. Yo pongo el inmueble.
 
-Cole revisó el sistema como si fuera el tablero de un coche ajeno, apretando botones para ver qué encendían. Encontró la búsqueda, escribió con dos dedos y puso *The World Is Yours*.
+Kal revisó el sistema como si fuera el tablero de un coche ajeno, apretando botones para ver qué encendían. Encontró la búsqueda, escribió con dos dedos y puso *The World Is Yours*.
 
 Chiara escuchó sin hablar. No entendió cada palabra y no le hizo falta: había hambre en la canción. No de comida. De techo. De mundo. De que la ciudad dejara de ser algo que otros repartían.
 
-—Es lo que oigo cuando manejo —dijo Cole—. Casi siempre de noche, cuando la ciudad ya cerró y las calles son mías un rato.
+—Es lo que oigo cuando manejo —dijo Kal—. Casi siempre de noche, cuando la ciudad ya cerró y las calles son mías un rato.
 
 Le tradujo lo que pudo, sin cuidar mucho la letra, más el tono que las frases: alguien que no tiene nada y habla como si ya lo tuviera todo, porque decirlo en voz alta es la mitad de conseguirlo. Y de ahí se soltó a contarle lo otro, que ella no había pedido y él no solía dar: las carreras en la recta de Kingsley Field, de madrugada, con la pista marcada por los faros de los que iban a apostar. El Peugeot rojo. Que en la calle lo llamaban el terror de la policía y que casi nadie sabía quién iba dentro.
 
@@ -312,7 +312,7 @@ Cuando la canción terminó, buscó ella la suya. *Un anno d'amore*, de Mina. La
 
 —Te la traduzco —dijo, y lo hizo, despacio, parando entre frases.
 
-No fue fácil. Se le fue el idioma varias veces y no se molestó en corregirse, y a Cole se le fue la paciencia varias veces también, pero de la otra manera: preguntando de nuevo lo que no había entendido, haciéndola repetir una palabra, probando a decirla él mismo con la boca torpe de alguien que todavía cargaba el acento del barrio encima del italiano. Ella lo corrigió dos veces sin burlarse. A la tercera dejó de corregirlo, porque ya no hacía falta: él la había entendido, aunque la pronunciación siguiera mal.
+No fue fácil. Se le fue el idioma varias veces y no se molestó en corregirse, y a Kal se le fue la paciencia varias veces también, pero de la otra manera: preguntando de nuevo lo que no había entendido, haciéndola repetir una palabra, probando a decirla él mismo con la boca torpe de alguien que todavía cargaba el acento del barrio encima del italiano. Ella lo corrigió dos veces sin burlarse. A la tercera dejó de corregirlo, porque ya no hacía falta: él la había entendido, aunque la pronunciación siguiera mal.
 
 —Es sobre amores que no se terminan de la noche a la mañana aunque uno quiera —le dijo—. Que dejan marca. Que se quedan en las cosas de la casa mucho después de que la persona se fue. Mina la canta como quien acepta al mismo tiempo una condena y una suerte.
 
@@ -332,7 +332,7 @@ Ella tardó.
 
 —Antes.
 
-Cole aceptó la respuesta completa aunque fuera de una palabra. A ella la sorprendió cuánto alivio había en que él ya no necesitara que se la explicaran del todo.
+Kal aceptó la respuesta completa aunque fuera de una palabra. A ella la sorprendió cuánto alivio había en que él ya no necesitara que se la explicaran del todo.
 
 ***
 
@@ -350,7 +350,7 @@ Puso *Parole Parole*. La voz de mujer entraba primero, toda promesa; la de hombr
 
 —No tanto. Es hablado, no cantado. Y va rápido.
 
-Le puso el celular con la letra abierta en la mano, como quien entrega un arma que no sabe usar, y esperó a que empezara el verso. Cole fracasó en el primer intento, en el segundo se acercó, y para el tercero ya se reía de sí mismo antes de terminar la frase, con el acento del barrio pisándole cada sílaba italiana. Chiara no se rió de él. Se rió con él, doblada sobre las rodillas, corrigiéndolo entre carcajada y carcajada sin dejar de cantar su parte.
+Le puso el celular con la letra abierta en la mano, como quien entrega un arma que no sabe usar, y esperó a que empezara el verso. Kal fracasó en el primer intento, en el segundo se acercó, y para el tercero ya se reía de sí mismo antes de terminar la frase, con el acento del barrio pisándole cada sílaba italiana. Chiara no se rió de él. Se rió con él, doblada sobre las rodillas, corrigiéndolo entre carcajada y carcajada sin dejar de cantar su parte.
 
 —Otra vez —dijo ella, sin aliento.
 
@@ -366,7 +366,7 @@ Cuando terminó la canción ninguno de los dos supo bien en qué momento habían
 
 ***
 
-El jacuzzi quedó en promesa. Cole miró las luces bajo el agua.
+El jacuzzi quedó en promesa. Kal miró las luces bajo el agua.
 
 —Eso sí parece problema de mantenimiento.
 
@@ -390,7 +390,7 @@ Se sentó en el borde, con los pies dentro sin encender nada.
 
 —Por ti podría hacer una excepción.
 
-La frase salió más suave de lo que ella tenía planeado. Cole la miró. Por una vez ninguno de los dos encontró un chiste a tiempo, y el silencio que se abrió no pidió que nadie lo llenara.
+La frase salió más suave de lo que ella tenía planeado. Kal la miró. Por una vez ninguno de los dos encontró un chiste a tiempo, y el silencio que se abrió no pidió que nadie lo llenara.
 
 Se sostuvieron la mirada más de lo que cualquiera de los dos solía permitir. Un segundo, y después el segundo de más: el que obliga a decir algo verdadero o a levantarse.
 
@@ -400,7 +400,7 @@ No hicieron ni una cosa ni la otra. Casi al mismo tiempo, los dos torcieron la b
 
 El cuarto de estética era otro de los absurdos del penthouse, y Chiara insistía en conocerlos todos. Había una silla reclinable, un espejo con foquitos, cajones con peines, una secadora y unas tijeras chicas en un estuche de fieltro.
 
-Cole se sentó.
+Kal se sentó.
 
 —No.
 
@@ -416,9 +416,9 @@ Le sonó el teléfono en el bolsillo. Miró la pantalla, dudó y contestó de ma
 
 Lo que venía del otro lado traía risa mal tapada y preguntas en fila: que cómo estaba, que por qué no había llegado a la casa, que con quién andaba. Un silencio corto. Después, más fuerte: *¿estás con Chiara?* Y enseguida, con la mano puesta sobre el micrófono como si eso sirviera de algo, la voz de Danny informándole a Nadir a media sala: *naaa, ya lo perdimos.*
 
-—Pónganse a hacer el inventario del taller —dijo Cole—. Garrett necesita la lista de refacciones para abastecer antes del fin de semana.
+—Pónganse a hacer el inventario del taller —dijo Kal—. Garrett necesita la lista de refacciones para abastecer antes del fin de semana.
 
-Del otro lado alguien se rió. Cole colgó.
+Del otro lado alguien se rió. Kal colgó.
 
 Chiara, detrás de la silla, se reía también, sin ganas de disimularlo del todo.
 
@@ -426,13 +426,13 @@ Chiara, detrás de la silla, se reía también, sin ganas de disimularlo del tod
 
 —Me vigilan. Es distinto.
 
-Se quedó parada detrás de él. Le acomodó un mechón con dos dedos antes de que ninguno de los dos alcanzara a pensar si eso estaba permitido. Cole se quedó inmóvil; la inmovilidad dijo más que cualquier retirada.
+Se quedó parada detrás de él. Le acomodó un mechón con dos dedos antes de que ninguno de los dos alcanzara a pensar si eso estaba permitido. Kal se quedó inmóvil; la inmovilidad dijo más que cualquier retirada.
 
 Los dedos de ella bajaron un poco, hasta el borde de la cicatriz que le marcaba la mejilla. No la tocó. Se quedó cerca, nada más.
 
 —¿Y esto?
 
-Cole no se movió. En el espejo, la cara no le cambió, pero dejó pasar un segundo de más antes de contestar.
+Kal no se movió. En el espejo, la cara no le cambió, pero dejó pasar un segundo de más antes de contestar.
 
 —Gracias a esto conocí a Nadir.
 
@@ -452,9 +452,9 @@ El silencio no se rompió: cambió de cuarto con ellos.
 
 ***
 
-En el vestidor principal, Cole se manchó la chaqueta con tinta.
+En el vestidor principal, Kal se manchó la chaqueta con tinta.
 
-Fue culpa de un bolígrafo sin tapa sobre una isla de cajones. Chiara lo había dejado ahí por la mañana y lo olvidó. Cole apoyó la manga, levantó el brazo y encontró una línea negra atravesando la mezclilla.
+Fue culpa de un bolígrafo sin tapa sobre una isla de cajones. Chiara lo había dejado ahí por la mañana y lo olvidó. Kal apoyó la manga, levantó el brazo y encontró una línea negra atravesando la mezclilla.
 
 —Mierda.
 
@@ -474,7 +474,7 @@ Le cubría media espalda. No era decorativa, no intentaba embellecerlo. Era una 
 
 Chiara se quedó demasiado quieta.
 
-Cole lo sintió.
+Kal lo sintió.
 
 —¿Qué?
 
@@ -484,7 +484,7 @@ Ella dio un paso más cerca.
 
 Esta vez no se oyó, o no le importó.
 
-Cole miró la chaqueta en sus manos. Luego, sin voltear del todo:
+Kal miró la chaqueta en sus manos. Luego, sin voltear del todo:
 
 —No, yo soy la muerte caminando.
 
@@ -502,7 +502,7 @@ La frase no iba dirigida a nada. Por eso le creyó.
 
 A las tres de la mañana, ninguno de los dos podía manejar.
 
-Cole lo intentó discutir durante exactamente nueve segundos.
+Kal lo intentó discutir durante exactamente nueve segundos.
 
 —Estoy bien.
 
@@ -522,7 +522,7 @@ Chiara señaló la pared.
 
 —Fue generoso.
 
-Aceptó porque no tenía salida elegante y porque, en el fondo, el cuerpo ya lo había decidido antes que el orgullo. Chiara le dio una camiseta limpia del cajón de huéspedes y una toalla. Cole las tomó como si fueran herramienta prestada, no un regalo.
+Aceptó porque no tenía salida elegante y porque, en el fondo, el cuerpo ya lo había decidido antes que el orgullo. Chiara le dio una camiseta limpia del cajón de huéspedes y una toalla. Kal las tomó como si fueran herramienta prestada, no un regalo.
 
 El pasillo hacia los cuartos estaba en silencio. Frente a la puerta, él se detuvo.
 
@@ -540,13 +540,13 @@ La respuesta la dejó un segundo sin defensa.
 
 —Buena.
 
-Cole asintió.
+Kal asintió.
 
 —Sí.
 
 No se movieron. Habían pasado ocho horas juntos sin que nada físico ocurriera, y a ninguno de los dos le había pasado por encima como ocho horas. Se habían sentido como un instante largo — risas, miradas, tensión, silencios cómodos, un juego con una canción tonta — y ninguno lo había notado hasta ahora, parados frente a una puerta sin ganas de cruzarla todavía.
 
-Cole fue el primero en bajar la mirada.
+Kal fue el primero en bajar la mirada.
 
 —Eres increíble.
 
@@ -556,7 +556,7 @@ Chiara levantó la mano, cerró el puño y lo dejó entre los dos. Un gesto que 
 
 —Ambos somos increíbles.
 
-Cole miró el puño un momento. Luego chocó el suyo contra el de ella. Suave, sin solemnidad.
+Kal miró el puño un momento. Luego chocó el suyo contra el de ella. Suave, sin solemnidad.
 
 La puerta se cerró entre los dos con la delicadeza de las cosas que todavía no saben que ya lo cambiaron todo.
 

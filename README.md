@@ -2,7 +2,7 @@
 
 *Seda y Pólvora* (*Silk & Gunpowder*) es una novela original de crimen y romance, organizada como un vault de Obsidian.
 
-La historia sigue a Cole Mercer y Chiara Bellandi desde el momento en que llegan a San Aurelio sin poder real hasta convertirse en la pareja que decide qué le pasa a la ciudad.
+La historia sigue a Kal Mercer y Chiara Bellandi desde el momento en que llegan a San Aurelio sin poder real hasta convertirse en la pareja que decide qué le pasa a la ciudad.
 
 > Él toma el territorio. Ella toma el relato. Ninguna de las dos cosas sirve sola.
 
@@ -14,7 +14,7 @@ Para entender el proyecto en orden:
 
 1. [`00_Biblia/Vision.md`](00_Biblia/Vision.md)
 2. [`00_Biblia/Principios_Narrativos.md`](00_Biblia/Principios_Narrativos.md)
-3. [`06_Relationships/Cole_y_Chiara.md`](06_Relationships/Cole_y_Chiara.md)
+3. [`06_Relationships/Kal_y_Chiara.md`](06_Relationships/Kal_y_Chiara.md)
 4. [`06_Relationships/Hitos.md`](06_Relationships/Hitos.md)
 5. [`01_Timeline/00_Estructura_del_Ascenso.md`](01_Timeline/00_Estructura_del_Ascenso.md)
 
@@ -26,7 +26,7 @@ Para entender el proyecto en orden:
 - `03_Factions/` — organizaciones, negocios e instituciones.
 - `04_Concepts/` — conceptos temáticos que ordenan la trama.
 - `05_Locations/` — lugares de San Aurelio.
-- `06_Relationships/` — relación de Cole y Chiara e hitos obligatorios.
+- `06_Relationships/` — relación de Kal y Chiara e hitos obligatorios.
 - `10_Chapters/` — espacio para prosa.
 - `11_Books/` — montaje editorial del libro y mapa operativo para EPUB.
 - `12_Craft_Policies/` — reglas de oficio y voz.

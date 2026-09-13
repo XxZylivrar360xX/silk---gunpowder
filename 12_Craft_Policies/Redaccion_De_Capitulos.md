@@ -21,7 +21,7 @@ Si no hay respuesta para poder o consecuencia, no es capitulo: es material de es
 
 Cada capitulo abre profundizando algo que el anterior dejo apenas insinuado. No se resume lo que ya paso: se toma la tension que quedo floja y se le pone peso.
 
-Funciono asi entre el Capitulo 4 y el Capitulo 5. El 4 cierra con Chiara en la rampa de carga entendiendo que le debe a Cole algo que no cabe en la factura; el 5 abre con la factura llegando a las ocho y diecisiete y con ella descubriendo que pagarla no cierra la cuenta. El lector no recibe un recordatorio: recibe la continuacion del mismo nervio.
+Funciono asi entre el Capitulo 4 y el Capitulo 5. El 4 cierra con Chiara en la rampa de carga entendiendo que le debe a Kal algo que no cabe en la factura; el 5 abre con la factura llegando a las ocho y diecisiete y con ella descubriendo que pagarla no cierra la cuenta. El lector no recibe un recordatorio: recibe la continuacion del mismo nervio.
 
 Para elegir el residuo, mirar el final del capitulo anterior y preguntar:
 
@@ -41,7 +41,7 @@ Reglas de uso:
 
 Usar tercera persona cercana. La narracion se pega al personaje que mas paga el costo de la escena.
 
-No cambiar de punto de vista por comodidad informativa. Un corte entre Cole y Chiara es valido si crea contraste de mundo, no si solo evita resolver una transicion.
+No cambiar de punto de vista por comodidad informativa. Un corte entre Kal y Chiara es valido si crea contraste de mundo, no si solo evita resolver una transicion.
 
 ### Voto de Ceniza / Guerra de los Tres — información y percepción
 
@@ -51,7 +51,7 @@ Antes de redactar cualquier enfrentamiento importante de [[04_Concepts/La_Guerra
 
 No explicar historia personal en bloque. El pasado se filtra por conducta:
 
-- Cole revisa, paga, arregla, minimiza, conduce, deja flores.
+- Kal revisa, paga, arregla, minimiza, conduce, deja flores.
 - Chiara observa, calcula, nombra, calla, acomoda versiones.
 - Dario mide valor.
 - Matteo abre puertas y cobra simpatia.
@@ -62,27 +62,27 @@ Antes de escribir una escena con dialogo, leer la ficha de voz de cada personaje
 
 Los dialogos deben hacer dos cosas a la vez: decir algo util en superficie y mover una lectura debajo. Si el dialogo solo informa al lector, se reescribe.
 
-## Registro privado de Cole y Chiara
+## Registro privado de Kal y Chiara
 
-La voz seca del libro **se afloja en escena privada de Cole y Chiara** — cocinas, coches, camas, madrugadas tras las cuatro paredes. En publico se tratan como lo que la ciudad cree que son y no hay afecto; puertas adentro, frases mas largas, silencios mas demorados, gestos que una escena publica no gastaria pagina en mirar, y apodos en italiano de parte de ella (*amore*, *bello*).
+La voz seca del libro **se afloja en escena privada de Kal y Chiara** — cocinas, coches, camas, madrugadas tras las cuatro paredes. En publico se tratan como lo que la ciudad cree que son y no hay afecto; puertas adentro, frases mas largas, silencios mas demorados, gestos que una escena publica no gastaria pagina en mirar, y apodos en italiano de parte de ella (*amore*, *bello*).
 
 Tres limites que no se aflojan:
 
-- **Cole no se pone lirico.** Su ternura es conducta — abraza, acomoda un mechon, trae comida, resuelve algo — no discurso. Nada de parrafos tiernos en su boca.
+- **Kal no se pone lirico.** Su ternura es conducta — abraza, acomoda un mechon, trae comida, resuelve algo — no discurso. Nada de parrafos tiernos en su boca.
 - **El narrador no glosa.** Se muestra el gesto; el lector saca la conclusion. Nada de "dos almas encontrando el acorde".
 - **Las declaraciones grandes siguen cayendo bajo fuego**, no en calma. Aflojar el registro da calidez cotidiana, no la declaracion.
 
-Gradiente, no interruptor: la calidez sin vertigo crece con la relacion (semilla en H11, casa completa tras la mudanza H16). Detalle en [[06_Relationships/Cole_y_Chiara]], "El registro privado — la voz se afloja tras las cuatro paredes".
+Gradiente, no interruptor: la calidez sin vertigo crece con la relacion (semilla en H11, casa completa tras la mudanza H16). Detalle en [[06_Relationships/Kal_y_Chiara]], "El registro privado — la voz se afloja tras las cuatro paredes".
 
 ## Capitulo de arranque
 
 El primer capitulo debe instalar la tesis sin decirla:
 
-- Cole sale del barrio y llega al mundo del casino.
+- Kal sale del barrio y llega al mundo del casino.
 - Chiara llega desde Italia a un negocio que no es suyo.
 - Matteo Bellacorte funciona como bisagra.
 - Dario Varek aparece como la cima local del poder.
-- El encuentro de Cole y Chiara debe sentirse inevitable sin parecer casualidad conveniente.
+- El encuentro de Kal y Chiara debe sentirse inevitable sin parecer casualidad conveniente.
 
 ## Provisionalidad
 

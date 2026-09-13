@@ -13,11 +13,11 @@ Frases cortas, secas, sin adorno. Habla poco y golpea al contestar: toma el ritm
 
 No pregunta para informarse: pregunta para quitarle al otro la excusa con la que se estaba frenando ("¿Y desde cuándo decides tú lo que se merece?"). Cuando quiere cerrar un tema no sube la voz — lo cierra con una frase y con el apellido: *"Mercer."* La voz no le sube y aun así la conversación queda cerrada.
 
-En calma: capataz, inventario, nombres, portón. Bajo presión: más breve, no más dócil. En el registro emocional (rarísimo, y siempre ganado): plano y devastador, sin metáfora — *"Amor son cuatro letras, Cole. Cuatro."* Le puede temblar la voz en la última palabra; se toma un segundo y sigue.
+En calma: capataz, inventario, nombres, portón. Bajo presión: más breve, no más dócil. En el registro emocional (rarísimo, y siempre ganado): plano y devastador, sin metáfora — *"Amor son cuatro letras, Kal. Cuatro."* Le puede temblar la voz en la última palabra; se toma un segundo y sigue.
 
 ## Tratamiento — regla dura
 
-- **A Cole: "tú".** Lo crió. Le habla como quien tiene derecho a decirle que es un idiota. "muchacho" cuando lo ablanda; "Mercer" cuando lo corrige en serio.
+- **A Kal: "tú".** Lo crió. Le habla como quien tiene derecho a decirle que es un idiota. "muchacho" cuando lo ablanda; "Mercer" cuando lo corrige en serio.
 - **A Chiara: "usted".** Respeto y una distancia que elige no cerrar — hasta que la cierra por dentro y lo dice ("Yo tuve una mujer"). El "usted" se mantiene aunque el afecto ya no.
 
 ## Vocabulario
@@ -28,15 +28,15 @@ Jamás: lenguaje solemne o terapéutico, diminutivos de cariño, jerga de los mu
 
 ## Lo que nunca dice
 
-No pide nada para sí mismo. No miente a Cole y lo dice de frente ("llevas intentando mentirme desde que tenías doce años; nunca te ha salido"). No se hace el sabio abstracto: si habla de sus muertos es para probar un punto concreto, no para filosofar. No dramatiza el infarto ("estaba ocupado cayéndome").
+No pide nada para sí mismo. No miente a Kal y lo dice de frente ("llevas intentando mentirme desde que tenías doce años; nunca te ha salido"). No se hace el sabio abstracto: si habla de sus muertos es para probar un punto concreto, no para filosofar. No dramatiza el infarto ("estaba ocupado cayéndome").
 
 ## Comportamiento físico al hablar
 
-Trabaja mientras habla, como Cole — pero donde Cole minimiza, Héctor pincha. Escupe a un lado, hace un ruido con la garganta, se limpia las manos con el trapo, señala con la barbilla o con el trapo, sostiene una llave inglesa. Una sonrisa apenas marcada "en él contaba como carcajada". Deja de moverse sólo cuando la conversación de verdad importa. Cuando se ablanda, tapa el gesto en seguida con una queja ("déjeme seguir siendo un viejo cascarrabias").
+Trabaja mientras habla, como Kal — pero donde Kal minimiza, Héctor pincha. Escupe a un lado, hace un ruido con la garganta, se limpia las manos con el trapo, señala con la barbilla o con el trapo, sostiene una llave inglesa. Una sonrisa apenas marcada "en él contaba como carcajada". Deja de moverse sólo cuando la conversación de verdad importa. Cuando se ablanda, tapa el gesto en seguida con una queja ("déjeme seguir siendo un viejo cascarrabias").
 
 ## Contraste deliberado con otro personaje
 
-- **Con Cole:** los dos parcos, los dos trabajan mientras hablan. Cole contesta con actos y le baja de categoría a lo que le duele; Héctor contesta con una pregunta seca y **nombra la cosa en voz alta** cuando toca. Cole nunca menciona su origen; Héctor te dice que enterró a sus padres para ganar una discusión.
+- **Con Kal:** los dos parcos, los dos trabajan mientras hablan. Kal contesta con actos y le baja de categoría a lo que le duele; Héctor contesta con una pregunta seca y **nombra la cosa en voz alta** cuando toca. Kal nunca menciona su origen; Héctor te dice que enterró a sus padres para ganar una discusión.
 - **Con Nadir:** Nadir llena el silencio con números; en Héctor el silencio es el veredicto ("La voz de Héctor no subió, pero cerró la conversación como si lo hubiera hecho").
 - **Con Chiara:** ella acomoda versiones y calla; él va de frente y en "usted", sin rodeo social.
 

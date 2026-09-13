@@ -10,7 +10,7 @@ Una pasada editorial no puede alterar, reinterpretar ni sustituir:
 - misterios deliberados;
 - consecuencias;
 - objetos recurrentes;
-- progresión de Cole y Chiara.
+- progresión de Kal y Chiara.
 
 ## Prohibiciones de una pasada editorial
 

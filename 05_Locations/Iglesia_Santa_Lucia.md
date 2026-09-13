@@ -30,9 +30,9 @@ Eso no significa que todos pertenezcan igual.
 
 Chiara entra como católica: sabe qué hacer con las manos, cuándo bajar la voz, dónde sentarse, cómo pedir sin explicar.
 
-Cole entra como visitante respetuoso: se sienta atrás, observa antes de moverse, no sabe rezar con naturalidad y por eso hace lo único que puede hacer sin mentir: prende una vela y se queda callado.
+Kal entra como visitante respetuoso: se sienta atrás, observa antes de moverse, no sabe rezar con naturalidad y por eso hace lo único que puede hacer sin mentir: prende una vela y se queda callado.
 
-La Iglesia no es territorio de Dario, de Cole ni de la policía. Puede haber vigilancia afuera, rumores adentro y presión alrededor, pero el edificio no debe sentirse poseído por nadie.
+La Iglesia no es territorio de Dario, de Kal ni de la policía. Puede haber vigilancia afuera, rumores adentro y presión alrededor, pero el edificio no debe sentirse poseído por nadie.
 
 ---
 
@@ -40,17 +40,17 @@ La Iglesia no es territorio de Dario, de Cole ni de la policía. Puede haber vig
 
 ### Las velas de Chiara
 
-Cuando puede, Chiara viene a encender una vela antes de que Cole salga a trabajar.
+Cuando puede, Chiara viene a encender una vela antes de que Kal salga a trabajar.
 
 Cuando no puede venir, el ritual se traslada a casa: una vela pequeña, una imagen, una cruz, el mismo gesto. Pero Santa Lucía es el lugar donde ese gesto tiene raíz pública.
 
-### El silencio de Cole
+### El silencio de Kal
 
-Cuando Cole está aterrado por el resultado de algo, viene en persona.
+Cuando Kal está aterrado por el resultado de algo, viene en persona.
 
 No habla con el sacerdote salvo que la trama lo necesite. No pide absolución. No confiesa un crimen para limpiar la conciencia. Se sienta en una banca y deja que el miedo exista sin convertirlo en plan.
 
-Ésa es la rareza: Cole quieto, sin hacer nada útil.
+Ésa es la rareza: Kal quieto, sin hacer nada útil.
 
 ---
 
@@ -81,10 +81,10 @@ La policía investiga, la prensa especula y San Aurelio busca una explicación. 
 
 - No usar la iglesia como guarida criminal.
 - No convertir al sacerdote en consejero mágico.
-- No hacer que Cole se explique aquí. Si habla demasiado, la escena pierde su fuerza.
+- No hacer que Kal se explique aquí. Si habla demasiado, la escena pierde su fuerza.
 - Las velas deben aparecer antes de H1 varias veces, sin subrayado.
 - La fe de Chiara debe sentirse práctica: entrar, encender, pedir, seguir.
-- El respeto de Cole debe sentirse físico: bajar la voz, esperar, sentarse atrás, no interrumpir.
+- El respeto de Kal debe sentirse físico: bajar la voz, esperar, sentarse atrás, no interrumpir.
 
 ---
 
@@ -94,6 +94,6 @@ La policía investiga, la prensa especula y San Aurelio busca una explicación. 
 
 > **PENDIENTE:** si Mabel Ortiz asiste aquí y conecta la iglesia con la red civil de Chiara.
 
-> **PENDIENTE:** si Santa Lucía aparece por primera vez con Chiara sola o con Cole siguiéndola sin saber bien qué hacer.
+> **PENDIENTE:** si Santa Lucía aparece por primera vez con Chiara sola o con Kal siguiéndola sin saber bien qué hacer.
 
-Ver también: [[04_Concepts/Fe_y_Velas]] · [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Cole_Mercer]]
+Ver también: [[04_Concepts/Fe_y_Velas]] · [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Kal_Mercer]]

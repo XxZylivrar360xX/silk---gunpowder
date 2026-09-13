@@ -12,15 +12,15 @@ Si una escena nueva cambia de forma irreversible una relacion, deuda, ritual o j
 
 ## Fase 0 - Antes / El encuentro
 
-1. [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable]] - Cole vive su dia normal como "hombre de negocios intachable"; llega la carta de Walt con la libertad condicional; acuerda piloto de mantenimiento policial con Raymond Keene; Matteo Bellacorte abre la puerta al Monarch.
-2. [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/02_Demasiado_Listo]] - Chiara llega a San Aurelio; Dario aparece como socio mayoritario local; hay reunion interna sin Cole, Dario se retira por una diligencia en el centro, primer apreton de manos (H2), reunion formal sin Dario, rechazo por "demasiado listo" y cierre paralelo de radar mutuo.
-3. [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/03_Los_Viejos_Dias]] - Keene aparece ejecutado en Plaza Corona; Walt sale de prision y vuelve a La Almendra; Cole conoce a Harper en el norte; Cole, Hector y Walt prometen viejos dias renovados; Chiara propone torneos de poker, roza con Tommaso y conoce a Blake en el centro.
+1. [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable]] - Kal vive su dia normal como "hombre de negocios intachable"; llega la carta de Walt con la libertad condicional; acuerda piloto de mantenimiento policial con Raymond Keene; Matteo Bellacorte abre la puerta al Monarch.
+2. [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/02_Demasiado_Listo]] - Chiara llega a San Aurelio; Dario aparece como socio mayoritario local; hay reunion interna sin Kal, Dario se retira por una diligencia en el centro, primer apreton de manos (H2), reunion formal sin Dario, rechazo por "demasiado listo" y cierre paralelo de radar mutuo.
+3. [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/03_Los_Viejos_Dias]] - Keene aparece ejecutado en Plaza Corona; Walt sale de prision y vuelve a La Almendra; Kal conoce a Harper en el norte; Kal, Hector y Walt prometen viejos dias renovados; Chiara propone torneos de poker, roza con Tommaso y conoce a Blake en el centro.
 4. [[06_Relationships/Hitos#H2 — El apretón de manos]] - H2 canon: ella se presenta en italiano, el contesta en espanol y de usted.
 
 ## Fase I - El primer favor
 
-5. [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/04_La_Primera_Llamada]] - Blake exhibe a Chiara en La Isla; Matteo pide ayuda por un cliente vetado; Chiara llama a Cole; Cole resuelve el primer favor bajo la mesa con el Mercedes de Varga.
-6. [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/05_La_Casa_No_Quiere_Ruido]] - Capitulo "Una amiga" (fusion de los antiguos Caps. 5+6, 2026-09-10, BLOQUE 2 de la cirugia editorial de Parte I). La factura de Cole es ensenable; la cadena de favores se vuelve metodo; Chiara aprende a elegir cuando llamarlo; Tommaso roza el pasado de Alessio; H2-a en prosa: primera cena que ninguno llama cita; Rocco, camioneta rentada, terraza de Il Gelsomino, Nadir/Danny como testigos. *(Numeracion 7 vacante hasta la renumeracion global — el antiguo 06_Una_Amiga.md queda como nota de redireccion.)*
+5. [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/04_La_Primera_Llamada]] - Blake exhibe a Chiara en La Isla; Matteo pide ayuda por un cliente vetado; Chiara llama a Kal; Kal resuelve el primer favor bajo la mesa con el Mercedes de Varga.
+6. [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/05_La_Casa_No_Quiere_Ruido]] - Capitulo "Una amiga" (fusion de los antiguos Caps. 5+6, 2026-09-10, BLOQUE 2 de la cirugia editorial de Parte I). La factura de Kal es ensenable; la cadena de favores se vuelve metodo; Chiara aprende a elegir cuando llamarlo; Tommaso roza el pasado de Alessio; H2-a en prosa: primera cena que ninguno llama cita; Rocco, camioneta rentada, terraza de Il Gelsomino, Nadir/Danny como testigos. *(Numeracion 7 vacante hasta la renumeracion global — el antiguo 06_Una_Amiga.md queda como nota de redireccion.)*
 8. [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/07_Ambos]] - H2-b en prosa: nace la costumbre de contarse el dia; penthouse, hamburguesas, hierba, canciones, calavera, habitaciones separadas, primer tu y choque de punos.
 
 ## Fase II / III - La formula y la pareja
@@ -30,18 +30,18 @@ Si una escena nueva cambia de forma irreversible una relacion, deuda, ritual o j
 9. [[06_Relationships/Hitos#H3 — La noche del ladrillo]] - florero, calcetas blancas, ladrillo; Chiara ya reconoce la atraccion.
 10. [[06_Relationships/Hitos#H9 — La carrera de máscaras]] - Chiara sale de su zona de confort y sonrie de verdad. *(Adelantado: entre H3 y H12.)*
 11. [[06_Relationships/Hitos#H12 — El atentado / El corral]] - ataque contra Chiara, hospital, encañonamiento y tregua con Dario, refugio temporal en La Almendra. *(Escrito, Cap. 10. Antes "H5 — El hipodromo".)*
-12. [[06_Relationships/Hitos#H14 — El loft del soltero]] - Cole recompra la casa de sus padres; Chiara interviene la arquitectura y juntos construyen el loft; aparece el doble fondo de Dale y Cole instala la caja de acero; ella todavia NO se muda. *(Cap. 11 reescrito/expandido el 2026-08-30.)*
-13. [[06_Relationships/Hitos#H10 — El infarto de Héctor]] - Hector los empuja el uno hacia el otro; la carta; la mano sobre la mano. Todavia no se han besado. *(Escrito, Caps. 15-16; causa de la ausencia de Cole corregida en el Cap. 14, "La regla del telefono", a un fin de semana de campamento con Marisol.)*
-14. [[06_Relationships/Hitos#H4 — El día nublado]] - cita del golf; Cole deduce que Chiara mato a su exmarido; profundiza la eleccion. **NO formaliza la relacion.** *(Cap. 17, ESCRITO 2026-08-29.)*
+12. [[06_Relationships/Hitos#H14 — El loft del soltero]] - Kal recompra la casa de sus padres; Chiara interviene la arquitectura y juntos construyen el loft; aparece el doble fondo de Dale y Kal instala la caja de acero; ella todavia NO se muda. *(Cap. 11 reescrito/expandido el 2026-08-30.)*
+13. [[06_Relationships/Hitos#H10 — El infarto de Héctor]] - Hector los empuja el uno hacia el otro; la carta; la mano sobre la mano. Todavia no se han besado. *(Escrito, Caps. 15-16; causa de la ausencia de Kal corregida en el Cap. 14, "La regla del telefono", a un fin de semana de campamento con Marisol.)*
+14. [[06_Relationships/Hitos#H4 — El día nublado]] - cita del golf; Kal deduce que Chiara mato a su exmarido; profundiza la eleccion. **NO formaliza la relacion.** *(Cap. 17, ESCRITO 2026-08-29.)*
 15. [[06_Relationships/Hitos#H11 — El mirador]] - bolos, el drift, las estrellas, Dale y Ruth: el primer beso y la primera intimidad. *(Escrito, Cap. 18 — renumerado el 2026-08-29; apertura reescrita el 2026-08-29 al residuo del Cap. 17 / H4.)*
 16. [[06_Relationships/Hitos#H15 — La noche del jacuzzi]] - libros abiertos por eleccion; Varek advierte a Chiara de madrugada. *(Separado de H5.)*
-17. [[06_Relationships/Hitos#H5 — San Aurelio]] - Cole sale de la ciudad; "me encuentro bien"; confrontacion Varek-Chiara (3 lineas canon). Tension parte 1.
-18. [[06_Relationships/Hitos#H6 — El pacto]] - Cole entra a la organizacion de Varek para proteger a Chiara y deshacerla desde dentro.
+17. [[06_Relationships/Hitos#H5 — San Aurelio]] - Kal sale de la ciudad; "me encuentro bien"; confrontacion Varek-Chiara (3 lineas canon). Tension parte 1.
+18. [[06_Relationships/Hitos#H6 — El pacto]] - Kal entra a la organizacion de Varek para proteger a Chiara y deshacerla desde dentro.
 19. [[06_Relationships/Hitos#H7 — El río]] - cierre en calma del arco de tension; "vamos a casa". Pareja de facto sin etiqueta.
-20. [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]] - Chiara se muda con Cole el dia de su cumpleaños, porque lo eligen; el doble fondo empieza a convertirse por uso en la caja fuerte de ambos.
+20. [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]] - Chiara se muda con Kal el dia de su cumpleaños, porque lo eligen; el doble fondo empieza a convertirse por uso en la caja fuerte de ambos.
 21. [[06_Relationships/Hitos#H17 — Italia / Mesa de las Familias]] - viajan juntos a Palermo; la Mesa golpea la relacion. Reservado.
 22. [[06_Relationships/Hitos#H18 — El regreso de Palermo]] - vuelven separados y con friccion; sin ruptura.
-23. [[06_Relationships/Hitos#H19 — El asalto a Camp Alder]] - Cole no entra a ver a Chiara para poder cumplir la mision; se entrega para cubrir a Hector y Nadir; arresto militar.
+23. [[06_Relationships/Hitos#H19 — El asalto a Camp Alder]] - Kal no entra a ver a Chiara para poder cumplir la mision; se entrega para cubrir a Hector y Nadir; arresto militar.
 24. [[06_Relationships/Hitos#H20 — Consecuencia: Halbrook / prisión militar / Lucia]] - Halbrook lo saca por un trato; Chiara acude a Lucia, que registra que lo suyo excede los negocios.
 
 ## Parte II tardía — familia y H1
@@ -49,12 +49,12 @@ Si una escena nueva cambia de forma irreversible una relacion, deuda, ritual o j
 > **Mi pareja** (formalizacion verbal) se movio a esta zona el 2026-08-29: cae despues de H5-H7, la mudanza, Italia, el regreso de Palermo, el asalto a Camp Alder y la intervencion de Lucia — no en Fase III.
 
 25. [[06_Relationships/Hitos#H21 — Mi pareja]] - formalización verbal; dejan de ser "esto" y pasan a tener nombre. Posicion canon fijada: puesto 21 de la tabla de orden, despues de Palermo y Camp Alder.
-26. [[06_Relationships/Hitos#H8 — El incendio, la mentira y la villa]] - queman el loft; Cole miente; el doble fondo y la caja de acero conservan bienes protegidos pero no el hogar; nace Villa Candelaria. Debe ocurrir antes de H1; posición fina frente a otros hitos de Parte II pendiente.
+26. [[06_Relationships/Hitos#H8 — El incendio, la mentira y la villa]] - queman el loft; Kal miente; el doble fondo y la caja de acero conservan bienes protegidos pero no el hogar; nace Villa Candelaria. Debe ocurrir antes de H1; posición fina frente a otros hitos de Parte II pendiente.
 27. Primera Navidad y collar - pendiente de escena; nace "RETORNA A CASA".
 28. [[06_Relationships/Hitos#H13 — El pañuelo]] - intercepcion de Il Consorzio en la iglesia; planta el viaje a Palermo. *(Posicion fijada 2026-08-29: puesto 16 de la tabla de orden, justo antes de H17 — Italia.)*
 29. [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Riley y la muerte de Mei-Lin]] - **Libro I**, después de que exista Villa Candelaria y con aire suficiente antes de H1; Riley sale por su conflicto propio y debe quedar establecida en Italia antes del nacimiento de Elenna. *(Corregido 2026-09-11: esta entrada decía "primer tramo de Parte III", después de H1 — contradecía [[00_Biblia/00_Trilogy_Structure]], que fija F2 en el Libro I.)*
-30. [[06_Relationships/Hitos#H1 — El regreso a casa]] - cierra el Libro I, ya en Villa Candelaria. Chiara confirmó el embarazo; Cole no lo sabe. Operación, piscina, Camila, baño, italiano y promesa cumplida. H1 termina sin reveal.
-31. [[06_Relationships/Hitos#Después de H1 — reveal a Cole, momento obligatorio por diseñar]] - después de que Cole queda fuera de peligro; diálogo y reacción textual pendientes. Cierra el Libro I (coda: Halbrook llega a San Aurelio).
+30. [[06_Relationships/Hitos#H1 — El regreso a casa]] - cierra el Libro I, ya en Villa Candelaria. Chiara confirmó el embarazo; Kal no lo sabe. Operación, piscina, Camila, baño, italiano y promesa cumplida. H1 termina sin reveal.
+31. [[06_Relationships/Hitos#Después de H1 — reveal a Kal, momento obligatorio por diseñar]] - después de que Kal queda fuera de peligro; diálogo y reacción textual pendientes. Cierra el Libro I (coda: Halbrook llega a San Aurelio).
 
 ## Voto de Ceniza (Libro II) — guerra, nacimiento y separación
 
@@ -62,7 +62,7 @@ Si una escena nueva cambia de forma irreversible una relacion, deuda, ritual o j
 
 32. [[02_Characters/Elenna_Mercer#La falsa muerte]] - primer tramo importante de *Voto de Ceniza*; Elenna nace, es declarada muerta y pasa a vivir como Elenna Serra con Riley; mecanismos y capítulo pendientes.
 33. [[06_Relationships/Hitos#H22 — Los primeros pasos]] - después de que la separación de Elenna sea cotidiana; **antes** de la caída de Dario, la montaña y Santa Lucía. **CANON / DISEÑO FIJADO, BLOQUEADO PARA PROSA.**
-34. [[06_Relationships/Hitos#Macrohito por numerar — La caída de Dario, Santa Lucía y Halbrook]] - después de H22: arresto legal de Dario, falso final, Santa Lucía + montaña, muertes de Héctor y Kenji, y Cole sentencia a Halbrook (no lo ejecuta — la ejecución pública abre *Interregno*, Libro III). Número, división y detalles pendientes.
+34. [[06_Relationships/Hitos#Macrohito por numerar — La caída de Dario, Santa Lucía y Halbrook]] - después de H22: arresto legal de Dario, falso final, Santa Lucía + montaña, muertes de Héctor y Kenji, y Kal sentencia a Halbrook (no lo ejecuta — la ejecución pública abre *Interregno*, Libro III). Número, división y detalles pendientes.
 
 ## Huecos activos
 

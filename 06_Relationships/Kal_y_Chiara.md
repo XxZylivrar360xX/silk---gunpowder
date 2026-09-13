@@ -1,4 +1,4 @@
-# Cole y Chiara
+# Kal y Chiara
 
 *La relación tratada como entidad con arco propio.* Este documento es tan importante como las dos fichas de personaje, porque la relación **es** la maquinaria del ascenso, no su acompañamiento.
 
@@ -28,9 +28,9 @@ La sensación que tiene que producir el libro es que **algo está moviendo las c
 
 El problema de oficio es obvio — el destino escrito mal es una máquina de casualidades convenientes. La solución, y es regla:
 
-> **Lo que los salva siempre es algo que uno de los dos construyó antes.** Un favor que Cole hizo sin cobrar hace doscientas páginas. Una versión que Chiara instaló y nadie recordaba. Una costumbre. Una persona que les debía algo y nadie contaba.
+> **Lo que los salva siempre es algo que uno de los dos construyó antes.** Un favor que Kal hizo sin cobrar hace doscientas páginas. Una versión que Chiara instaló y nadie recordaba. Una costumbre. Una persona que les debía algo y nadie contaba.
 
-Así el destino no es intervención externa: es **la consecuencia acumulada de quiénes son**. El lector siente que el mundo se dobla para ellos, y lo que en realidad está viendo es el interés compuesto de todo lo que hicieron antes. Es la misma mecánica del favor de Cole aplicada al amor.
+Así el destino no es intervención externa: es **la consecuencia acumulada de quiénes son**. El lector siente que el mundo se dobla para ellos, y lo que en realidad está viendo es el interés compuesto de todo lo que hicieron antes. Es la misma mecánica del favor de Kal aplicada al amor.
 
 **Corolario:** cada rescate tiene que poder rastrearse a una escena anterior concreta del libro. Si no se puede señalar esa escena, es casualidad y hay que reescribirlo.
 
@@ -59,7 +59,7 @@ La hostilidad es su idioma nativo; los dos crecieron en ella. Un tiroteo no los 
 
 ### Lo que esto le hace a cada uno
 
-**A Cole le quita su profecía.** Se pasa el libro entero preparado para la pérdida que lo define — braceado, protegiendo, sin permitirse necesitar — y **esa pérdida nunca llega.** Nadie se lo lleva. Nadie se va. La novela le niega la confirmación de su miedo, que es la única forma de obligarlo a mirar lo que de verdad estaba en riesgo.
+**A Kal le quita su profecía.** Se pasa el libro entero preparado para la pérdida que lo define — braceado, protegiendo, sin permitirse necesitar — y **esa pérdida nunca llega.** Nadie se lo lleva. Nadie se va. La novela le niega la confirmación de su miedo, que es la única forma de obligarlo a mirar lo que de verdad estaba en riesgo.
 
 **A Chiara le cobra la promesa.** *Me quedo* deja de ser una declaración y se vuelve una factura. Ella sabía cuánto costaba quedarse porque lo vio en su madre; el libro le da la oportunidad de comprobar si tenía razón sobre sí misma. La tiene. Eso no la hace ganar.
 
@@ -81,7 +81,7 @@ La pareja funciona porque tiene dos motores de tensión que corren en paralelo y
 
 Él cree que las cosas existen porque las tocó. Ella cree que existen porque la ciudad las cree. Los dos tienen razón a medias. Ver [[04_Concepts/El_Territorio_y_El_Relato]].
 
-La consagración profesional de la pareja llega cuando Cole descubre el límite de su propio método: sabe demasiado. Tiene deudas, rutas, rumores, nombres, placas y amenazas acumuladas, pero no siempre sabe qué hacer con todo eso sin actuar de más.
+La consagración profesional de la pareja llega cuando Kal descubre el límite de su propio método: sabe demasiado. Tiene deudas, rutas, rumores, nombres, placas y amenazas acumuladas, pero no siempre sabe qué hacer con todo eso sin actuar de más.
 
 Chiara le enseña que la información no se administra como bodega, sino como tráfico:
 
@@ -94,13 +94,13 @@ Chiara le enseña que la información no se administra como bodega, sino como tr
 Es el corazón del libro y hay que poder decirlo en dos frases:
 
 > **Chiara:** *me quedo.*
-> **Cole:** *¿qué pasa si dejo que te quedes?*
+> **Kal:** *¿qué pasa si dejo que te quedes?*
 
 Ella está emocionalmente lista para la permanencia mucho antes que él. **Eso no la convierte en alguien que persigue, ni a él en alguien que huye.** Los dos son conscientes de la diferencia, y esa consciencia — no el malentendido — es lo que produce las mejores escenas.
 
 La simetría exacta, que es lo que vuelve el conflicto insoluble y no caprichoso:
 
-| | Cole | Chiara |
+| | Kal | Chiara |
 |---|---|---|
 | **Lo que aprendió** | que a la gente que te importa se la llevan | que quedarte cuesta exactamente todo |
 | **Su miedo** | dejar que alguien ocupe un sitio permanente, porque entonces puede perderlo | que quedarse funcione igual que le funcionó a su madre |
@@ -112,7 +112,7 @@ La simetría exacta, que es lo que vuelve el conflicto insoluble y no caprichoso
 
 **El rasgo que define esta pareja después de formalizar, y el que más fácil se escribe mal.**
 
-Una vez que son pareja, **cada uno sigue atendiendo su propio frente.** El día de Cole es el patio, la calle, la gente que le debe. El día de Chiara es la redacción, los contactos, las llamadas. No trabajan pegados, no se acompañan a las cosas, no aparecen juntos. Se ven poco y hablan mucho.
+Una vez que son pareja, **cada uno sigue atendiendo su propio frente.** El día de Kal es el patio, la calle, la gente que le debe. El día de Chiara es la redacción, los contactos, las llamadas. No trabajan pegados, no se acompañan a las cosas, no aparecen juntos. Se ven poco y hablan mucho.
 
 Y **la ciudad no sabe que están juntos.** No es un secreto que estén guardando con angustia: es que la unión de estos dos simplemente no necesita presencia física ni exhibición pública para existir.
 
@@ -120,12 +120,12 @@ Y **la ciudad no sabe que están juntos.** No es un secreto que estén guardando
 
 Corrección importante sobre cómo funciona esto, y es mucho mejor que "nadie lo sabe":
 
-**En la Almendra lo sabe todo el mundo.** Saben dónde vive Cole, saben que ella vive ahí con él, y **respetan esa privacidad**. No es discreción impuesta ni una orden que él haya dado: es lo que el barrio le devuelve. Cole pasó años haciendo favores que no cobró, y lo que le pagan de vuelta no es dinero — es **mirar hacia otro lado**. Nadie comenta. Nadie pregunta por ella. Nadie lo cuenta afuera.
+**En la Almendra lo sabe todo el mundo.** Saben dónde vive Kal, saben que ella vive ahí con él, y **respetan esa privacidad**. No es discreción impuesta ni una orden que él haya dado: es lo que el barrio le devuelve. Kal pasó años haciendo favores que no cobró, y lo que le pagan de vuelta no es dinero — es **mirar hacia otro lado**. Nadie comenta. Nadie pregunta por ella. Nadie lo cuenta afuera.
 
 Lo que esto significa:
 
 - **La protección de lo más íntimo que tiene depende de la lealtad de un barrio entero.** No de una caja fuerte, ni de guardias, ni de un domicilio falso. De que doscientas personas decidan callarse, todos los días, sin que nadie se los pida.
-- **Es el logro más grande de Cole y no lo puede reclamar.** Toda su vida ha sido el que se ofrece de puente. Esto es lo único que el barrio le hace a él, y es un regalo — la categoría que él no sabe recibir.
+- **Es el logro más grande de Kal y no lo puede reclamar.** Toda su vida ha sido el que se ofrece de puente. Esto es lo único que el barrio le hace a él, y es un regalo — la categoría que él no sabe recibir.
 - **Y es la vulnerabilidad más grande del libro.** El día que una sola persona de la Almendra hable — por dinero, por miedo, por rencor, o sin querer — cae todo. **Ésa es la catástrofe disponible**, y hay que tenerla cargada desde temprano.
 
 **Y durante el ascenso viven en el barrio**, en [[05_Locations/La_Casa]]. La que cambia de clase en esa etapa es ella, **hacia abajo**, y nadie de arriba se lo creería — que es parte de por qué la ciudad no los conecta.
@@ -161,7 +161,7 @@ El descubrimiento más específico de esta pareja, y no se parece a nada que sue
 
 **Son tan buenos haciéndose sentir cómodos que la comodidad misma los incomoda.**
 
-Ninguno de los dos ha tenido esto nunca. Cole aprendió a ser lo que cada habitación necesita; Chiara aprendió a administrar lo que siente. Los dos son expertos mundiales en estar tensos con elegancia. Y de pronto hay una cocina a las once de la noche donde no hay nada que resolver, nadie a quien leer y nada que administrar — y **eso los descoloca más que una amenaza.**
+Ninguno de los dos ha tenido esto nunca. Kal aprendió a ser lo que cada habitación necesita; Chiara aprendió a administrar lo que siente. Los dos son expertos mundiales en estar tensos con elegancia. Y de pronto hay una cocina a las once de la noche donde no hay nada que resolver, nadie a quien leer y nada que administrar — y **eso los descoloca más que una amenaza.**
 
 Las primeras veces de cada gesto doméstico traen esa doble capa: la comodidad es real y el vértigo también. Se ríen de eso. Se ríen mucho de eso. Es la vena cómica más rica del libro y es también su vena más tierna, porque el chiste siempre es el mismo: dos personas que manejan una ciudad y no saben qué hacer con un domingo.
 
@@ -169,20 +169,20 @@ Las primeras veces de cada gesto doméstico traen esa doble capa: la comodidad e
 
 **Y desaparece.** Con la repetición, la incomodidad se gasta y queda sólo la comodidad. Que se gaste **es el progreso de la relación medido en página** — y es también, mucho después, exactamente lo que van a echar de menos.
 
-Un ejemplo tardio en [[05_Locations/La_Villa|Villa Candelaria]]: Chiara baila **Bellissima** con audifonos mientras Cole sale de la ducha y la ve sin que ella lo sepa. No la interrumpe, no la sexualiza, no se burla cruelmente. Sonrie, se rasca la cabeza y se queda. Cuando ella pregunta si todo bien con la ducha, el contesta: **"Si, si, estuvo movida."** Esa escena es intimidad accidental: ser visto sin haber decidido mostrarse, y descubrir que el otro se queda.
+Un ejemplo tardio en [[05_Locations/La_Villa|Villa Candelaria]]: Chiara baila **Bellissima** con audifonos mientras Kal sale de la ducha y la ve sin que ella lo sepa. No la interrumpe, no la sexualiza, no se burla cruelmente. Sonrie, se rasca la cabeza y se queda. Cuando ella pregunta si todo bien con la ducha, el contesta: **"Si, si, estuvo movida."** Esa escena es intimidad accidental: ser visto sin haber decidido mostrarse, y descubrir que el otro se queda.
 
 ### El registro privado — la voz se afloja tras las cuatro paredes
 
-**En público son Cole Mercer y Chiara Bellandi; en privado son otra cosa, y la prosa lo refleja.** Fuera de casa no hay afecto — la ciudad tiene que seguir sin saber si son pareja o pantalla (ver "Regla de escritura", más abajo). Puertas adentro, la voz seca del libro **se afloja**: frases más largas, silencios más demorados, gestos que las escenas públicas no gastarían página en mirar.
+**En público son Kal Mercer y Chiara Bellandi; en privado son otra cosa, y la prosa lo refleja.** Fuera de casa no hay afecto — la ciudad tiene que seguir sin saber si son pareja o pantalla (ver "Regla de escritura", más abajo). Puertas adentro, la voz seca del libro **se afloja**: frases más largas, silencios más demorados, gestos que las escenas públicas no gastarían página en mirar.
 
 Lo que **sí** cambia en privado:
 
 - **Conducta y ritmo.** El narrador puede demorarse en el abrazo por detrás, la mano bajo la playera al dormir, el mechón que él acomoda, la taza, el beso en la frente y el "buenas noches" en dos idiomas. La ternura ocupa espacio.
-- **Los apodos.** Chiara suelta el italiano de cariño — *amore*, *amore mio*, *bello* — como extensión de su tic ya canon (italiano en la boca cuando está cómoda). Cole responde con lo suyo, torpe: ver el ritual del *Ciao*, abajo.
+- **Los apodos.** Chiara suelta el italiano de cariño — *amore*, *amore mio*, *bello* — como extensión de su tic ya canon (italiano en la boca cuando está cómoda). Kal responde con lo suyo, torpe: ver el ritual del *Ciao*, abajo.
 
 Lo que **no** cambia, ni en privado:
 
-- **Cole no se pone lírico.** Su ternura es conducta, no discurso — *"no sabría cómo"* es canon sobre exactamente esto. Si un borrador lo tiene diciendo cosas tiernas elaboradas, está mal (regla de escritura de su ficha).
+- **Kal no se pone lírico.** Su ternura es conducta, no discurso — *"no sabría cómo"* es canon sobre exactamente esto. Si un borrador lo tiene diciendo cosas tiernas elaboradas, está mal (regla de escritura de su ficha).
 - **Chiara no se vuelve ingenua ni cuidadora.** Su romanticismo es deliberado, de alguien que ya se quedó una vez donde no valía la pena. Lo ablanda y le abre la sala para hablar, pero **sin obligarlo** y sin que su vida gire alrededor de eso (ver "La devoción" en su ficha y los guardarraíles "Lo que Chiara no es").
 - **El narrador no glosa.** Nada de "dos almas encontrando el acorde correcto". Se muestra el gesto; el lector hace la cuenta.
 - **Las declaraciones grandes siguen cayendo bajo fuego.** Aflojar el registro compra calidez cotidiana, no la declaración: lo que de verdad se dicen se lo siguen diciendo en el peor momento, no en el mejor (regla 5-ter). *"Se aman perfectamente en el peligro y torpemente en la paz"* no se toca.
@@ -213,9 +213,9 @@ La relación necesita **algo pequeño que se repita cien veces** y que cambie de
 
 ### CANON — La costumbre: contarle el día
 
-**Ésta es la unidad de medida de la relación entera**, y nació muy temprano (ver [[06_Relationships/Hitos]], H2-b). Las paradas de Cole en el casino "con la excusa de negocios" se convirtieron en otra cosa:
+**Ésta es la unidad de medida de la relación entera**, y nació muy temprano (ver [[06_Relationships/Hitos]], H2-b). Las paradas de Kal en el casino "con la excusa de negocios" se convirtieron en otra cosa:
 
-> **Cole termina un día y va a contárselo a ella.** Lo bueno, lo malo, lo raro.
+> **Kal termina un día y va a contárselo a ella.** Lo bueno, lo malo, lo raro.
 >
 > **Y ella tiene su momento donde baja las máscaras que usa en público, para respirar y estar cómoda.**
 
@@ -223,7 +223,7 @@ No es una escena: es un **hábito**, y es lo que se acumula durante cientos de p
 
 **Lo que cada uno saca de ahí es distinto y hay que respetarlo:**
 
-| Cole | Chiara |
+| Kal | Chiara |
 |---|---|
 | Un sitio donde el día se vuelve real al contarlo | El único sitio donde no tiene que administrar quién es |
 | Alguien a quien le importa lo que le pasó | Aire |
@@ -238,24 +238,24 @@ Toda la relación se puede medir en quién se mueve hacia el idioma del otro. **
 |---|---|---|
 | **H2** | nadie | *"Io sono Chiara Bellandi." / "Encantado de conocerla."* Dos idiomas, ningún puente. Y de usted. |
 | **H2-b** | **ella** | **Choca el puño con él.** Un gesto de barrio aceptado por una mujer de Palermo. El primer puente lo tiende ella, y con el cuerpo. |
-| *(medio libro)* | **él** | Ella le enseña italiano. Él es el aprendiz, y no lo domina nunca. **Sembrado en página en el Cap. 7** (la tina del penthouse en H2-b — no confundir con el hito "La noche del jacuzzi", posterior): a Chiara se le patina el italiano por la hierba, Cole no entiende, y ella suelta *"Algún día te enseño"*. |
+| *(medio libro)* | **él** | Ella le enseña italiano. Él es el aprendiz, y no lo domina nunca. **Sembrado en página en el Cap. 7** (la tina del penthouse en H2-b — no confundir con el hito "La noche del jacuzzi", posterior): a Chiara se le patina el italiano por la hierba, Kal no entiende, y ella suelta *"Algún día te enseño"*. |
 | **H1** | **él** | *"Volevo solo tornare a casa per mantenere la mia promessa, amore."* En el idioma de ella, mal, desangrándose. |
 
 **El primer cruce lo hace ella. El último, él.** Entre medias está el paso del usted al tú, **colocado (2026-08-27) en el Capítulo 7, en la escena de la hierba**: *"Te puedo tutear, ¿no?" / "Ya compartimos un cigarro de marihuana. Creo que dejamos atrás el filtro de los negocios."* No lo carga la línea *"Eres increíble / Ambos somos increíbles"* — para entonces el tú ya lleva horas. Y en ese mismo capítulo la música **ya no cruza "sin traducción"**: cada uno le explica al otro su canción (ver [[06_Relationships/Hitos]], H2-b, "La música").
 
 ### CANON (2026-08-27) — El acento que cede, y el "Ciao" que lo compensa
 
-Debajo de los cuatro tiempos de arriba corre una corriente continua, no un hito puntual: mientras ella le enseña italiano a Cole en lecciones puntuales, **él le enseña el suyo a ella sin lecciones — solo por exposición.** Cuanto más interactúan, más modismos del barrio se le pegan a Chiara sin que lo decida, y su acento cede terreno de forma real y medible con el tiempo.
+Debajo de los cuatro tiempos de arriba corre una corriente continua, no un hito puntual: mientras ella le enseña italiano a Kal en lecciones puntuales, **él le enseña el suyo a ella sin lecciones — solo por exposición.** Cuanto más interactúan, más modismos del barrio se le pegan a Chiara sin que lo decida, y su acento cede terreno de forma real y medible con el tiempo.
 
-**Nunca desaparece del todo.** Ella no se "americaniza" — conserva su acento base y su identidad intactos. Pero en los momentos en que ella misma nota la cesión, sobrecompensa: ahí es cuando dice **"Ciao"** — su saludo de siempre, salvo en H2, donde su ausencia ya es canon (ver el cuadro de arriba: *"Io sono Chiara Bellandi"*, no "Ciao"). No es un gesto dirigido a Cole. Es ella recordándose a sí misma quién es.
+**Nunca desaparece del todo.** Ella no se "americaniza" — conserva su acento base y su identidad intactos. Pero en los momentos en que ella misma nota la cesión, sobrecompensa: ahí es cuando dice **"Ciao"** — su saludo de siempre, salvo en H2, donde su ausencia ya es canon (ver el cuadro de arriba: *"Io sono Chiara Bellandi"*, no "Ciao"). No es un gesto dirigido a Kal. Es ella recordándose a sí misma quién es.
 
-> Es el mismo miedo del libro entero — quién decide quién soy — jugado en la voz en vez de en el territorio. Cole nunca le pide que se le parezca (ver más abajo, "El apellido que él nunca ofrece"); el barrio se le mete solo, sin permiso, y ella es quien tiene que vigilarse a sí misma para no perderse. Ver [[04_Concepts/Quien_Decide_Quien_Soy]].
+> Es el mismo miedo del libro entero — quién decide quién soy — jugado en la voz en vez de en el territorio. Kal nunca le pide que se le parezca (ver más abajo, "El apellido que él nunca ofrece"); el barrio se le mete solo, sin permiso, y ella es quien tiene que vigilarse a sí misma para no perderse. Ver [[04_Concepts/Quien_Decide_Quien_Soy]].
 
-> **RESUELTO (2026-09-09, canon del autor):** sí se lo devuelve, y es el ritual recíproco de la pareja. **Nace después de [[06_Relationships/Hitos#H21 — Mi pareja|H21]]**, en la primera llamada telefónica posterior: ella contesta *"Ciao, bello"* y Cole, para no quedarse atrás, responde *"ciao, bellissima"* con un acento italiano exagerado y burlón. Pasa como broma y **se queda para toda la trilogía**. La cuarentena de [[99_Reference/README]] sobre *"Ciao, Bella" / "Ciao, Bellissimo"* queda **levantada** por esta decisión, con los géneros invertidos respecto a la fuente: ella dice *bello*, él *bellissima*. Coherente con "Cole es el aprendiz y no domina el italiano nunca": el mal acento es el chiste. Distinto del *"Ciao"* en solitario de Chiara (arriba), que es ella anclándose a sí misma y no un gesto hacia él — misma palabra, función distinta.
+> **RESUELTO (2026-09-09, canon del autor):** sí se lo devuelve, y es el ritual recíproco de la pareja. **Nace después de [[06_Relationships/Hitos#H21 — Mi pareja|H21]]**, en la primera llamada telefónica posterior: ella contesta *"Ciao, bello"* y Kal, para no quedarse atrás, responde *"ciao, bellissima"* con un acento italiano exagerado y burlón. Pasa como broma y **se queda para toda la trilogía**. La cuarentena de [[99_Reference/README]] sobre *"Ciao, Bella" / "Ciao, Bellissimo"* queda **levantada** por esta decisión, con los géneros invertidos respecto a la fuente: ella dice *bello*, él *bellissima*. Coherente con "Kal es el aprendiz y no domina el italiano nunca": el mal acento es el chiste. Distinto del *"Ciao"* en solitario de Chiara (arriba), que es ella anclándose a sí misma y no un gesto hacia él — misma palabra, función distinta.
 
 ### CANON — La vela
 
-Chiara es católica devota. Cole no comparte la fe con la misma naturalidad, pero la respeta porque es de ella.
+Chiara es católica devota. Kal no comparte la fe con la misma naturalidad, pero la respeta porque es de ella.
 
 Cada vez que él sale a "trabajar", ella enciende una vela. La petición es simple:
 
@@ -263,7 +263,7 @@ Cada vez que él sale a "trabajar", ella enciende una vela. La petición es simp
 
 Este ritual no compite con el collar. Lo sostiene.
 
-**Origen:** nace después de F4, el Año Nuevo en Washington. Chiara enciende la primera vela no porque todo esté bien, sino porque ya entendió que habrá noches en que amar a Cole signifique esperar sin poder controlar nada.
+**Origen:** nace después de F4, el Año Nuevo en Washington. Chiara enciende la primera vela no porque todo esté bien, sino porque ya entendió que habrá noches en que amar a Kal signifique esperar sin poder controlar nada.
 
 | La vela | El collar |
 |---|---|
@@ -271,15 +271,15 @@ Este ritual no compite con el collar. Lo sostiene.
 | petición a Dios | promesa entre ellos |
 | espera | regreso |
 
-Cuando Cole está realmente aterrado por una salida, él mismo va a [[05_Locations/Iglesia_Santa_Lucia]], prende una vela y se sienta en una banca en silencio. Eso no lo vuelve más católico que antes. Lo vuelve más honesto sobre el miedo.
+Cuando Kal está realmente aterrado por una salida, él mismo va a [[05_Locations/Iglesia_Santa_Lucia]], prende una vela y se sienta en una banca en silencio. Eso no lo vuelve más católico que antes. Lo vuelve más honesto sobre el miedo.
 
 ### CANON — El apellido que él nunca ofrece
 
-**Cole jamás le propone a Chiara que se llame Mercer.** Ni una vez, ni en broma, ni al final del libro.
+**Kal jamás le propone a Chiara que se llame Mercer.** Ni una vez, ni en broma, ni al final del libro.
 
 *Mercer* no necesita sustituir a *Bellandi* para que él sea su familia. Y él nunca lo ofrece **porque respeta las decisiones que ella ya tomó** — sabiendo, sin que nadie se lo explique, que ese apellido no es una preferencia estética sino lo único que Chiara eligió de sí misma en toda su vida.
 
-Es la demostración más limpia de la frase de H3: **Cole es el único que la ve por lo que ella es, y no por lo que quiere que sea.** En una novela donde todos le asignan un nombre a todos, el gesto de amor más grande es **no ofrecer uno.**
+Es la demostración más limpia de la frase de H3: **Kal es el único que la ve por lo que ella es, y no por lo que quiere que sea.** En una novela donde todos le asignan un nombre a todos, el gesto de amor más grande es **no ofrecer uno.**
 
 Ver [[04_Concepts/Quien_Decide_Quien_Soy]] y [[06_Relationships/Hitos]], H4.
 
@@ -291,21 +291,21 @@ Ver [[04_Concepts/Quien_Decide_Quien_Soy]] y [[06_Relationships/Hitos]], H4.
 
 Regalo de la primera Navidad que pasaron juntos. El mensaje, dicho sin decirse: **ella siempre lo va a estar esperando después de las "misiones" de su organización.**
 
-Ese objeto convive con otro ritual más viejo y más silencioso: **la vela.** Cada vez que Cole sale a trabajar, Chiara detiene lo que está haciendo y enciende una vela para pedir que Dios lo cuide y lo traiga a casa. Ver [[04_Concepts/Fe_y_Velas]].
+Ese objeto convive con otro ritual más viejo y más silencioso: **la vela.** Cada vez que Kal sale a trabajar, Chiara detiene lo que está haciendo y enciende una vela para pedir que Dios lo cuide y lo traiga a casa. Ver [[04_Concepts/Fe_y_Velas]].
 
 > **Y el collar no inventa esa palabra: la graba.** *Casa* la dijo él primero, volviendo mojado de un río, sin darle ninguna importancia — *vamos a casa* ([[06_Relationships/Hitos]], H7). **Chiara le devolvió en oro lo que él le había dado sin darse cuenta.**
 
-Cole lo lleva puesto. El gesto de ella — la mano en el pecho antes de que él salga — **no es ternura genérica: es tocar la placa.** Por eso es en el pecho y no en la cara. La escena de despedida de [[06_Relationships/Hitos]] (H1, movimiento 1) es la repetición número no-se-sabe-cuántas de ese gesto, y funciona porque el lector ya lo vio muchas veces.
+Kal lo lleva puesto. El gesto de ella — la mano en el pecho antes de que él salga — **no es ternura genérica: es tocar la placa.** Por eso es en el pecho y no en la cara. La escena de despedida de [[06_Relationships/Hitos]] (H1, movimiento 1) es la repetición número no-se-sabe-cuántas de ese gesto, y funciona porque el lector ya lo vio muchas veces.
 
 **Y en H1 él lleva el collar puesto en la piscina**, desangrándose, con una placa de oro sobre el pecho que dice *retorna a casa*, obedeciéndola. Nadie tiene que señalarlo.
 
 ### La casa de tres — embarazo, guerra y salida (CANON DEL AUTOR, 2026-08-31)
 
-H1 ocurre durante Parte II. Antes de que Cole salga, Chiara ya confirmó que está embarazada y él todavía no lo sabe. Ella planea contárselo cuando vuelva; espera unas horas porque quiere que la noticia les pertenezca en casa, no porque esté administrando un secreto prolongado.
+H1 ocurre durante Parte II. Antes de que Kal salga, Chiara ya confirmó que está embarazada y él todavía no lo sabe. Ella planea contárselo cuando vuelva; espera unas horas porque quiere que la noticia les pertenezca en casa, no porque esté administrando un secreto prolongado.
 
-Cuando Chiara dice *Retorna a casa*, Cole entiende **los dos** y ella sabe **los tres**. Cuando él se desangra diciendo que sólo quiere llegar a casa porque lo esperan, ya está luchando por volver hasta Elenna sin conocer su existencia. Ninguna de esas lecturas se verbaliza en prosa.
+Cuando Chiara dice *Retorna a casa*, Kal entiende **los dos** y ella sabe **los tres**. Cuando él se desangra diciendo que sólo quiere llegar a casa porque lo esperan, ya está luchando por volver hasta Elenna sin conocer su existencia. Ninguna de esas lecturas se verbaliza en prosa.
 
-La respuesta del baño no cambia. Chiara no usa el embarazo para responder *¿por qué siempre te preocupas tanto?*; dice *Perché ti amo con tutto il mio cuore* porque ama a Cole por ser Cole. El reveal ocurre después de H1, cuando él está fuera de peligro y vuelve cierta normalidad doméstica.
+La respuesta del baño no cambia. Chiara no usa el embarazo para responder *¿por qué siempre te preocupas tanto?*; dice *Perché ti amo con tutto il mio cuore* porque ama a Kal por ser Kal. El reveal ocurre después de H1, cuando él está fuera de peligro y vuelve cierta normalidad doméstica.
 
 El arco familiar amplía, no reemplaza, la maquinaria relacional:
 
@@ -318,9 +318,9 @@ El arco familiar amplía, no reemplaza, la maquinaria relacional:
 
 Elenna no es una garantía de que la relación sobreviva ni un *stake* físico constante. Su ausencia les cambia la pregunta: de construir poder suficiente para estar seguros a construir algo que pueda funcionar sin ellos.
 
-La simetría con Corrado permanece abierta y debe incomodar: él desapareció de la vida de Chiara para protegerla; Cole y Chiara hacen desaparecer a Elenna de su vida pública y se separan físicamente de ella para protegerla. El libro interroga cuándo protección se vuelve decidir por alguien, sin resolverlo con moraleja.
+La simetría con Corrado permanece abierta y debe incomodar: él desapareció de la vida de Chiara para protegerla; Kal y Chiara hacen desaparecer a Elenna de su vida pública y se separan físicamente de ella para protegerla. El libro interroga cuándo protección se vuelve decidir por alguien, sin resolverlo con moraleja.
 
-**Regla final:** Elenna no hereda el imperio. Es la razón por la que Cole y Chiara descubren que no necesitan una dinastía.
+**Regla final:** Elenna no hereda el imperio. Es la razón por la que Kal y Chiara descubren que no necesitan una dinastía.
 
 #### Por qué esto lo cambia todo
 
@@ -328,13 +328,13 @@ El objeto resuelve tres problemas de golpe:
 
 1. **Es repetible sin ser muletilla.** La frase no hace falta decirla: basta que ella le toque el pecho, que él se lleve la mano al cuello, que la placa aparezca en un espejo o se enganche en algo. **Cien apariciones y sólo un puñado de veces la palabra.**
 2. **Sobrevive al silencio.** En la Fase V, cuando dejan de tener escenas pequeñas, el collar sigue ahí y ya nadie lo toca. Eso es la grieta escrita sin una sola línea de diálogo.
-3. **Es el regalo que Cole no debería haber aceptado.** Su regla dura es que convierte cualquier regalo en transacción para no deberle nada a nadie (ver su ficha). **Éste se lo quedó.** Es la primera cosa en su vida adulta que aceptó sin devolver el gesto, y por eso la escena en que lo acepta es un hito obligatorio.
+3. **Es el regalo que Kal no debería haber aceptado.** Su regla dura es que convierte cualquier regalo en transacción para no deberle nada a nadie (ver su ficha). **Éste se lo quedó.** Es la primera cosa en su vida adulta que aceptó sin devolver el gesto, y por eso la escena en que lo acepta es un hito obligatorio.
 
 #### Reglas del collar
 
 - **No se lo quita nunca.** Si en alguna escena no lo trae, es el acontecimiento de esa escena.
 - **Nadie lo lee en voz alta** más que las veces contadas que haga falta. Los demás personajes ven una placa; no saben qué dice.
-- **Ella no lo regaló como joya.** Cole casi no usa joyas — un arete y nada más. Que aceptara algo al cuello ya dice todo.
+- **Ella no lo regaló como joya.** Kal casi no usa joyas — un arete y nada más. Que aceptara algo al cuello ya dice todo.
 - **La última aparición del libro tiene que rimar con la primera** y significar otra cosa.
 
 > **PENDIENTE, HITO:** la escena de la primera Navidad. Cómo se lo da, y por qué él no lo convierte en transacción. Ver [[06_Relationships/Hitos]].
@@ -343,11 +343,11 @@ El objeto resuelve tres problemas de golpe:
 
 ### Las clases de italiano — CANON
 
-**Chiara le enseña italiano a Cole.** No es anécdota: es el ritual doméstico principal de la pareja y **hay que escribirlo, repetido, mucho antes de que se cobre**.
+**Chiara le enseña italiano a Kal.** No es anécdota: es el ritual doméstico principal de la pareja y **hay que escribirlo, repetido, mucho antes de que se cobre**.
 
-Reúne todo lo que este libro quiere hacer en un solo gesto: es cotidiano, es cómico (un hombre de casi dos metros pronunciando mal), es íntimo sin ser romántico en superficie, es de los dos y de nadie más, y es la única cosa de la novela en la que **él es el aprendiz y ella la que manda.** Cole, que se vuelve lo que cada habitación necesita, no puede volverse italiano — se le nota el esfuerzo, y ésa es la única grieta por donde se le ve entero.
+Reúne todo lo que este libro quiere hacer en un solo gesto: es cotidiano, es cómico (un hombre de casi dos metros pronunciando mal), es íntimo sin ser romántico en superficie, es de los dos y de nadie más, y es la única cosa de la novela en la que **él es el aprendiz y ella la que manda.** Kal, que se vuelve lo que cada habitación necesita, no puede volverse italiano — se le nota el esfuerzo, y ésa es la única grieta por donde se le ve entero.
 
-Nunca lo domina. Eso es requisito, no defecto: **el italiano machucado de Cole es el sonido de que lo intentó.** Ver [[06_Relationships/Hitos]], H1, movimiento 8.
+Nunca lo domina. Eso es requisito, no defecto: **el italiano machucado de Kal es el sonido de que lo intentó.** Ver [[06_Relationships/Hitos]], H1, movimiento 8.
 
 ### Reglas del ritual
 
@@ -369,11 +369,11 @@ Nunca lo domina. Eso es requisito, no defecto: **el italiano machucado de Cole e
    - **Y la sociedad se vuelve explícita en H6**, en las cascadas: pactan deshacer la organización de Varek desde dentro. Es la primera vez que tienen **un objetivo compartido y declarado**, no una cadena de favores.
 
 **3. La pareja.** El romance se consuma cuando ya son imprescindibles el uno para el otro profesionalmente — lo cual es exactamente el problema, porque a partir de ahí ninguno puede saber si está eligiendo a la persona o al socio. Esa duda no se resuelve: se administra.
-   - **RESUELTO (2026-08-26; reposicionado 2026-08-29):** la primera vez que tienen intimidad es [[06_Relationships/Hitos]], H11 — el mirador. Bolos, Cole le enseña a driftear, suben al mirador del norte a ver estrellas, él le cuenta de Dale y Ruth (rompiendo, por única vez, la regla de no hablar nunca de eso), y esa noche terminan juntos en el penthouse. **Bajo la cronología consolidada de 2026-08-29 cae DESPUÉS de H10 y de H4** — la secuencia es `H12 -> loft -> H10 -> H4 -> H11`. Después de las dos inserciones del 2026-08-29 —[[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono|Cap. 14, *La regla del teléfono*]] y [[06_Relationships/Hitos#H9 — La carrera de máscaras|Cap. 9, H9]]— la numeración vigente es: **Caps. 15-16 = H10, Cap. 17 = H4, Cap. 18 = H11**; el bloque de prosa se cerró el 2026-08-29 (aperturas de los Caps. 15 y 18 reescritas, Cap. 17 redactado, Cap. 14 nuevo + causalidad de *El portón* corregida).
-   - **DISEÑO — quien los empuja:** en H10, [[02_Characters/Hector_Navarro]] es quien, desde el hospital, le quita a cada uno la excusa que se estaba poniendo — a ella la vergüenza de clase, a él la costumbre de decidir por ella. **En ese punto todavía no se han besado**; Héctor empuja hacia el cruce, que llega en H11. Cierra con Chiara poniendo la mano en su hombro y Cole poniendo la mano sobre la de ella. Ver esa entrada para el detalle completo.
+   - **RESUELTO (2026-08-26; reposicionado 2026-08-29):** la primera vez que tienen intimidad es [[06_Relationships/Hitos]], H11 — el mirador. Bolos, Kal le enseña a driftear, suben al mirador del norte a ver estrellas, él le cuenta de Dale y Ruth (rompiendo, por única vez, la regla de no hablar nunca de eso), y esa noche terminan juntos en el penthouse. **Bajo la cronología consolidada de 2026-08-29 cae DESPUÉS de H10 y de H4** — la secuencia es `H12 -> loft -> H10 -> H4 -> H11`. Después de las dos inserciones del 2026-08-29 —[[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono|Cap. 14, *La regla del teléfono*]] y [[06_Relationships/Hitos#H9 — La carrera de máscaras|Cap. 9, H9]]— la numeración vigente es: **Caps. 15-16 = H10, Cap. 17 = H4, Cap. 18 = H11**; el bloque de prosa se cerró el 2026-08-29 (aperturas de los Caps. 15 y 18 reescritas, Cap. 17 redactado, Cap. 14 nuevo + causalidad de *El portón* corregida).
+   - **DISEÑO — quien los empuja:** en H10, [[02_Characters/Hector_Navarro]] es quien, desde el hospital, le quita a cada uno la excusa que se estaba poniendo — a ella la vergüenza de clase, a él la costumbre de decidir por ella. **En ese punto todavía no se han besado**; Héctor empuja hacia el cruce, que llega en H11. Cierra con Chiara poniendo la mano en su hombro y Kal poniendo la mano sobre la de ella. Ver esa entrada para el detalle completo.
    - **La apertura deliberada** — [[06_Relationships/Hitos]], "La noche del jacuzzi" (hito propio desde 2026-08-29): ya cruzada la intimidad y ya sobrios, los dos se abren sin filtros por elección. Es la excepción a la regla de que sólo se abren bajo fuego, y detona H5.
    - **Viven juntos** de forma oficial sólo en [[06_Relationships/Hitos]], "El cumpleaños / la mudanza oficial", después de H7 — no antes. El loft es comodidad creciente sin decisión; la mudanza es decisión.
-   - **La formalización verbal** ("Mi pareja") ocurre **mucho más tarde**: después de H5–H7, la mudanza, el viaje a Italia / Mesa de las Familias, el regreso con fricción, el asalto a Camp Alder y la intervención de Lucia. Primero son pareja por conducta; mucho después consiguen decirlo. Y **H4 no formaliza nada** — ahí se profundiza la elección (Cole deduce que Chiara mató a su exmarido y decide, sin nombrarlo, querer estar donde ella esté).
+   - **La formalización verbal** ("Mi pareja") ocurre **mucho más tarde**: después de H5–H7, la mudanza, el viaje a Italia / Mesa de las Familias, el regreso con fricción, el asalto a Camp Alder y la intervención de Lucia. Primero son pareja por conducta; mucho después consiguen decirlo. Y **H4 no formaliza nada** — ahí se profundiza la elección (Kal deduce que Chiara mató a su exmarido y decide, sin nombrarlo, querer estar donde ella esté).
 
 **3-bis. La formalización.** El momento en que dejan de ser "esto" y pasan a ser algo con nombre. **Tiene que ser incómodo y gracioso a la vez** — nada de escena solemne. Dos personas que negocian con criminales para vivir, absolutamente incapaces de tener esta conversación con dignidad. A partir de aquí arrancan los dos frentes y la incomodidad de estar cómodos.
 
@@ -399,15 +399,15 @@ La sociedad funciona sin fricción. El amor necesitaba la fricción. Cuando la m
 
 **Regla:** la Fase V se diagnostica contando escenas cotidianas por capítulo. Si el conteo no baja, la grieta no está escrita.
 
-**Y el síntoma concreto, el que hay que escribir:** **Cole deja de ir a contarle el día.** No por enojo ni por distancia — porque hay demasiado que hacer, porque llega tarde, porque ya se lo contará mañana. La costumbre que nació en H2-b se apaga sin que nadie la mate. Y con ella se apaga lo único que le daba a Chiara un rato al día sin máscaras.
+**Y el síntoma concreto, el que hay que escribir:** **Kal deja de ir a contarle el día.** No por enojo ni por distancia — porque hay demasiado que hacer, porque llega tarde, porque ya se lo contará mañana. La costumbre que nació en H2-b se apaga sin que nadie la mate. Y con ella se apaga lo único que le daba a Chiara un rato al día sin máscaras.
 
-Cuando el autor quiera medir si la Fase V está bien escrita, la pregunta es una sola: **¿cuántos días termina Cole yendo a contárselo?**
+Cuando el autor quiera medir si la Fase V está bien escrita, la pregunta es una sola: **¿cuántos días termina Kal yendo a contárselo?**
 
 ---
 
 ## Lo que cada uno le da al otro
 
-| Chiara le da a Cole | Cole le da a Chiara |
+| Chiara le da a Kal | Kal le da a Chiara |
 |---|---|
 | Un nombre: decide qué significa lo que él construyó | Una calle. Nunca había tenido nada físico que fuera suyo |
 | Habitaciones donde él no podría entrar solo | Gente que se mueve porque él lo pide, no porque le pagan |
@@ -416,7 +416,7 @@ Cuando el autor quiera medir si la Fase V está bien escrita, la pregunta es una
 | Que se quede | Que le crea cuando dice algo, porque él no dice mucho |
 | **Lo que ella lleva buscando desde niña:** amor, respeto y admiración, como en la casa de sus padres — que su primer matrimonio nunca le dio | **La única persona que la ve por lo que es, y no por lo que quiere que sea** |
 
-**Ninguno de los dos cura al otro.** Chiara no borra el origen de Cole, ni su miedo, ni su código. Cole no le devuelve a Chiara la capacidad de decir la verdad. Lo que se dan es un sitio donde bajar la guardia, que es más pequeño y mucho más difícil.
+**Ninguno de los dos cura al otro.** Chiara no borra el origen de Kal, ni su miedo, ni su código. Kal no le devuelve a Chiara la capacidad de decir la verdad. Lo que se dan es un sitio donde bajar la guardia, que es más pequeño y mucho más difícil.
 
 ---
 
@@ -424,9 +424,9 @@ Cuando el autor quiera medir si la Fase V está bien escrita, la pregunta es una
 
 - **Ninguno dice "te quiero" cuando toca.** Cuando por fin ocurre, tiene que ser en una escena donde estén trabajando y con alguien más en la habitación.
 
-### La escalera de lo que Cole logra decir
+### La escalera de lo que Kal logra decir
 
-Lo que Cole alcanza a nombrar sube en tres peldaños, cada uno más caro que el anterior, y ninguno es una escena romántica:
+Lo que Kal alcanza a nombrar sube en tres peldaños, cada uno más caro que el anterior, y ninguno es una escena romántica:
 
 1. **El primero, soltado a media discusión** — como oración subordinada, no como confesión: *"Podré tener mil problemas encima, y por mucho que yo esté enamorado de ti, no hay un 'fuera mi gente', eso no se negocia."* El punto de la frase es el límite ("mi gente no se negocia", regla intocable); el *"estoy enamorado"* se le escapa de paso. Es la primera vez que lo dice en voz alta, a ella. **Cae bajo fuego** — una discusión lo es. **Colocado (2026-09-10, autor):** ocurre en la **conversación del casino que cierra [[06_Relationships/Momentos_de_Fractura#F1 - La mentira bajo la lluvia|F1 — la mentira bajo la lluvia]]**, después de los tres días, cuando arreglan el problema — **inmediatamente antes de H21**.
 2. **Nombrar la relación** — [[06_Relationships/Hitos#H21 — Mi pareja|H21]], "Mi pareja", por teléfono, con Nadir de testigo incómodo. No dice "te amo"; dice *pareja*, y le cuesta más que el efectivo del Audi.
@@ -452,9 +452,9 @@ Los tres peldaños quedan encadenados: F1 → (peldaño 1) → H21 (peldaño 2) 
    - **Está desplegado entero en el arco [[06_Relationships/Hitos]], H12 → La noche del jacuzzi → H5 (San Aurelio):** él le oculta a Varek la llamada del atacante (H12) y no le da detalles de a dónde va (H5); ella le oculta la advertencia de Varek (jacuzzi) y sigue sola al hombre más peligroso de la ciudad (H5). **Los dos protegen al otro por separado, y por eso los dos quedan expuestos.** Ninguno miente por egoísmo — ésa es la regla.
 5-bis. **El lector puede temer la ruptura; los personajes no la ejecutan.** El miedo es legítimo y necesario. Lo prohibido es que ocurra. Y la salida de cada conflicto nunca es esquivarlo ni que se resuelva solo: es que los dos evolucionen, y salgan distintos.
 5-ter. **Las declaraciones caen bajo fuego.** Lo que se dicen de verdad se lo dicen en el peor momento posible, no en el mejor. Si una escena de calma contiene la declaración grande, está en el lugar equivocado.
-6. **Chiara conserva vida propia.** No es la receptora de la vulnerabilidad de Cole. Tiene inseguridades, orgullo, reservas y necesidades que él no atiende, y escenas donde el que no está viendo es él.
-7. **Cole no es su trauma.** Tiene humor, calma, ternura y aburrimiento. Un hombre permanentemente frío no es este personaje.
-8. **La vulnerabilidad se gana.** Nadie se abre porque la escena lo pedía. Cuando Cole deja ver miedo o cansancio, el lector tiene que poder señalar qué se lo permitió.
+6. **Chiara conserva vida propia.** No es la receptora de la vulnerabilidad de Kal. Tiene inseguridades, orgullo, reservas y necesidades que él no atiende, y escenas donde el que no está viendo es él.
+7. **Kal no es su trauma.** Tiene humor, calma, ternura y aburrimiento. Un hombre permanentemente frío no es este personaje.
+8. **La vulnerabilidad se gana.** Nadie se abre porque la escena lo pedía. Cuando Kal deja ver miedo o cansancio, el lector tiene que poder señalar qué se lo permitió.
 
 ---
 
@@ -476,7 +476,7 @@ Y la pregunta previa, antes de escribir una línea:
 
 > **PENDIENTE:** ¿quién de los dos toma la decisión que hace daño irreversible, y a quién se lo cobra la ciudad? El daño no puede consistir en separarlos: tiene que ser algo que sobrevivan juntos y que ninguno de los dos pueda devolver.
 
-> **CANDIDATO NÚMERO UNO (2026-08-23):** **la mentira del incendio.** Ver [[06_Relationships/Hitos]], H8. Alguien quema el loft, Cole se lo explica como una fuga de gas, le oculta la amenaza que venía detrás — y el canon dice que **nunca se lo revela hasta que la tensión y la mentira no se pueden sostener.**
+> **CANDIDATO NÚMERO UNO (2026-08-23):** **la mentira del incendio.** Ver [[06_Relationships/Hitos]], H8. Alguien quema el loft, Kal se lo explica como una fuga de gas, le oculta la amenaza que venía detrás — y el canon dice que **nunca se lo revela hasta que la tensión y la mentira no se pueden sostener.**
 >
 > Tiene todo lo que la regla dura necesita para valer algo: nace de quiénes son y no de un malentendido; el daño es real e irreversible; no se puede resolver con una versión ni con un favor; y **no los separa**, porque no pueden separarse y porque para entonces viven en una casa que ella construyó frasco por frasco.
 >
@@ -484,8 +484,8 @@ Y la pregunta previa, antes de escribir una línea:
 
 > **PENDIENTE:** confirmar el ritual. *"¿Te llevo?"* es propuesta, no canon.
 
-> **PENDIENTE (2026-08-26):** eco de "quédate detrás de mí". En el Capítulo 2, el recuerdo de infancia de Chiara en la iglesia de Palermo cierra con Corrado prometiéndole "ya lo arreglo yo... quédate detrás de mí" — promesa que él no pudo cumplir (murió en la redada federal antes de poder arreglar nada, y ella ni pudo despedirse; ver el remate ya escrito en el manuscrito). Falta construir un momento posterior del libro, en una situación de riesgo real con los dos presentes y conscientes (no un rescate después del hecho, como H5 o F3, donde Cole la encuentra ya inconsciente), donde Cole se interponga físicamente entre ella y el peligro — con una frase o gesto que funcione como eco directo de la de Corrado. Chiara debe reconocer internamente el eco, y debe pesarle de un modo distinto a como pesó la primera vez: esta promesa sí se sostiene. No forzarlo dentro de F3 ni H5, que ya tienen función propia bien definida ([[06_Relationships/Momentos_de_Fractura]]); buscar un beat nuevo o uno todavía sin diseñar.
+> **PENDIENTE (2026-08-26):** eco de "quédate detrás de mí". En el Capítulo 2, el recuerdo de infancia de Chiara en la iglesia de Palermo cierra con Corrado prometiéndole "ya lo arreglo yo... quédate detrás de mí" — promesa que él no pudo cumplir (murió en la redada federal antes de poder arreglar nada, y ella ni pudo despedirse; ver el remate ya escrito en el manuscrito). Falta construir un momento posterior del libro, en una situación de riesgo real con los dos presentes y conscientes (no un rescate después del hecho, como H5 o F3, donde Kal la encuentra ya inconsciente), donde Kal se interponga físicamente entre ella y el peligro — con una frase o gesto que funcione como eco directo de la de Corrado. Chiara debe reconocer internamente el eco, y debe pesarle de un modo distinto a como pesó la primera vez: esta promesa sí se sostiene. No forzarlo dentro de F3 ni H5, que ya tienen función propia bien definida ([[06_Relationships/Momentos_de_Fractura]]); buscar un beat nuevo o uno todavía sin diseñar.
 
 ---
 
-Ver también: [[02_Characters/Cole_Mercer]] · [[02_Characters/Chiara_Bellandi]] · [[00_Biblia/Temas]] · [[99_Reference/README]]
+Ver también: [[02_Characters/Kal_Mercer]] · [[02_Characters/Chiara_Bellandi]] · [[00_Biblia/Temas]] · [[99_Reference/README]]

@@ -2,7 +2,7 @@
 
 ## Cadencia y sintaxis
 
-Rápida, directa, con sarcasmo juguetón que nunca busca herir. Interrumpe con confianza y no pide permiso para picar a Cole. Cuenta con los dedos cuando disfruta señalar algo que él prefería que no notara.
+Rápida, directa, con sarcasmo juguetón que nunca busca herir. Interrumpe con confianza y no pide permiso para picar a Kal. Cuenta con los dedos cuando disfruta señalar algo que él prefería que no notara.
 
 ## Vocabulario
 
@@ -10,7 +10,7 @@ Lenguaje juvenil, sin vulgaridad forzada: "en serio", "no es nada", "te conozco"
 
 ## Lo que nunca dice
 
-No agradece de más. No trata a Cole como si le debiera algo. No dramatiza la ausencia de su padre — la deja caer y sigue caminando.
+No agradece de más. No trata a Kal como si le debiera algo. No dramatiza la ausencia de su padre — la deja caer y sigue caminando.
 
 ## Comportamiento físico al hablar
 

@@ -1,9 +1,9 @@
 <!--
 Estado: TERMINADO.
-Protagonistas: Chiara Bellandi (partes 1-2), Cole Mercer (parte 3).
-Ventana temporal: parte 1 es anterior al Capitulo 12 (evento altruista, y tambien anterior/independiente de la noche de Gabriella's del Capitulo 8 y del arco de H12 en los Capitulos 10-11); parte 2 ocurre la misma noche del torneo del Capitulo 12; parte 3, semanas despues -- Cole y Chiara ya viven a caballo entre el penthouse y la casa de el.
+Protagonistas: Chiara Bellandi (partes 1-2), Kal Mercer (parte 3).
+Ventana temporal: parte 1 es anterior al Capitulo 12 (evento altruista, y tambien anterior/independiente de la noche de Gabriella's del Capitulo 8 y del arco de H12 en los Capitulos 10-11); parte 2 ocurre la misma noche del torneo del Capitulo 12; parte 3, semanas despues -- Kal y Chiara ya viven a caballo entre el penthouse y la casa de el.
 Lugares: salon de gala (evento altruista, sin nombre fijo), The Monarch Casino & Hotel (piso de juego y caja), Almendra Towing / El Patio.
-Funcion: ejecutar beats 12-c y 13-b — nace i Sussurri con Kenji Oda; se muestra la red en funcionamiento con multiples fuentes y tipos de informacion (calle, comercio/Mabel, elite, institucional) llegando al escritorio del penthouse; y el primer roce de valores entre Cole y Chiara por el mensajero menor. Version revisada (2026-09-02): se le da contenido real y urgencia al papel -- esa misma manana un hombre no identificado pregunto en el piso del Monarch por "un Peugeot rojo, tuneado", sembrando la primera alarma aislada del hilo que se paga en el Capitulo 14 (Auster); la reaccion de Cole se ancla, sin explicarla en bloque, a su propio origen (comprado de bebe, carrera perdida por gente que movia ninos) via el mismo tic fisico de la mandibula ya usado en el Capitulo 1; y la confrontacion se extiende para que Chiara admita honestamente, sin excusarse, por que no espero a la noche.
+Funcion: ejecutar beats 12-c y 13-b — nace i Sussurri con Kenji Oda; se muestra la red en funcionamiento con multiples fuentes y tipos de informacion (calle, comercio/Mabel, elite, institucional) llegando al escritorio del penthouse; y el primer roce de valores entre Kal y Chiara por el mensajero menor. Version revisada (2026-09-02): se le da contenido real y urgencia al papel -- esa misma manana un hombre no identificado pregunto en el piso del Monarch por "un Peugeot rojo, tuneado", sembrando la primera alarma aislada del hilo que se paga en el Capitulo 14 (Auster); la reaccion de Kal se ancla, sin explicarla en bloque, a su propio origen (comprado de bebe, carrera perdida por gente que movia ninos) via el mismo tic fisico de la mandibula ya usado en el Capitulo 1; y la confrontacion se extiende para que Chiara admita honestamente, sin excusarse, por que no espero a la noche.
 -->
 
 # Capítulo 13 — Roma Atrii
@@ -182,13 +182,13 @@ Alguien de la mesa dos —un hombre que nadie en el piso conocía, que pagó su 
 
 No era nada todavía. Podía ser un curioso, un apostador con mal gusto para las preguntas, una casualidad sin dientes. Pero Chiara no sobrevivía haciendo esa clase de apuesta, y una sola pregunta sobre ese coche, en su propio piso, un día cualquiera, no era algo que pudiera permitirse dejar para la noche.
 
-Tenía que llegarle algo a Cole antes de que se hiciera tarde. Por primera vez desde que empezó a construir la red, no tuvo tiempo de llevárselo ella misma.
+Tenía que llegarle algo a Kal antes de que se hiciera tarde. Por primera vez desde que empezó a construir la red, no tuvo tiempo de llevárselo ella misma.
 
 ***
 
 Un chico de doce o trece años se paseaba esa misma tarde cerca de la cerca trasera de Almendra Towing con la clase de disimulo que sólo delata a quien nunca lo ha hecho antes.
 
-Cole lo vio antes de que el chico lo viera a él. Miraba un reloj que no traía. Se cambiaba el peso de un pie a otro. Cole lo dejó acercarse dos pasos más antes de salir de donde estaba.
+Kal lo vio antes de que el chico lo viera a él. Miraba un reloj que no traía. Se cambiaba el peso de un pie a otro. Kal lo dejó acercarse dos pasos más antes de salir de donde estaba.
 
 —¿Perdiste algo?
 
@@ -200,7 +200,7 @@ El chico se congeló.
 
 —Roma Atrii —dijo el chico, despacio, mal, como quien repite sonidos y no palabras—. Así me dijeron que preguntara.
 
-Cole no conocía a nadie con ese nombre. Nadie en el Patio se hacía llamar así, y los años que llevaba ahí adentro le alcanzaban de sobra para saberlo.
+Kal no conocía a nadie con ese nombre. Nadie en el Patio se hacía llamar así, y los años que llevaba ahí adentro le alcanzaban de sobra para saberlo.
 
 —¿Y si te digo que aquí no hay ningún Roma?
 
@@ -208,9 +208,9 @@ El chico se encogió de hombros, ya más asustado que confundido.
 
 —A mí me dijeron el nombre. Yo sólo tengo que entregarlo. Y si no lo encuentro, se lo devuelvo a un señor en la caja del Monarch. Eso es todo lo que sé.
 
-Sacó el papel del bolsillo, doblado en cuatro, y antes de que Cole lo tuviera en la mano ya sabía de quién era. El olor llegó primero que la letra — canela, vainilla, algo que no pertenecía a ningún lugar cerca de un taller de grúas, y que ya conocía de otra parte sin haberse dado cuenta de que lo había memorizado.
+Sacó el papel del bolsillo, doblado en cuatro, y antes de que Kal lo tuviera en la mano ya sabía de quién era. El olor llegó primero que la letra — canela, vainilla, algo que no pertenecía a ningún lugar cerca de un taller de grúas, y que ya conocía de otra parte sin haberse dado cuenta de que lo había memorizado.
 
-Arriba del todo, en letra cursiva apretada, inclinada siempre hacia el mismo lado, las mismas dos palabras que el chico acababa de mascullar: **ROMA ATRII.** Debajo, más líneas en un idioma que Cole no leía. No hacía falta leerlas para saber de quién era la mano que las había escrito.
+Arriba del todo, en letra cursiva apretada, inclinada siempre hacia el mismo lado, las mismas dos palabras que el chico acababa de mascullar: **ROMA ATRII.** Debajo, más líneas en un idioma que Kal no leía. No hacía falta leerlas para saber de quién era la mano que las había escrito.
 
 —¿Quién te mandó?
 
@@ -234,7 +234,7 @@ No preguntó por Chiara primero.
 
 Preguntó por el hombre de la caja.
 
-Lo encontró donde el chico había dicho que estaría — chaleco del Monarch, manos rápidas, una fila corta de jugadores esperando turno para cambiar fichas. Cole esperó a que despachara al último y se paró frente a él.
+Lo encontró donde el chico había dicho que estaría — chaleco del Monarch, manos rápidas, una fila corta de jugadores esperando turno para cambiar fichas. Kal esperó a que despachara al último y se paró frente a él.
 
 —¿Usted mandó a un chico a buscar a alguien llamado Roma Atrii?
 
@@ -246,13 +246,13 @@ Kenji no dejó de contar un fajo de billetes.
 
 —Trabajo mucho, señor. Veo mucha gente.
 
-No mentía con miedo. Mentía con la misma cara pareja que Chiara le había visto usar con Aldrich, y eso, más que cualquier otra cosa, le confirmó a Cole que estaba en el lugar correcto.
+No mentía con miedo. Mentía con la misma cara pareja que Chiara le había visto usar con Aldrich, y eso, más que cualquier otra cosa, le confirmó a Kal que estaba en el lugar correcto.
 
 —Gracias, Kenji. Yo atiendo al señor Mercer.
 
 Chiara había llegado sin que ninguno de los dos la oyera acercarse — o quizás la habían oído y ninguno quiso ser el primero en voltear. Llevaba el mismo aire con el que recibía a un socio, ni un grado más cálido, y a Kenji le bastó con esa temperatura para volver a lo suyo sin hacer una sola pregunta.
 
-Cole entendió, en el mismo segundo, dos cosas: que Kenji no sabía nada de lo que había entre ellos, y que Chiara acababa de decidir, delante de él, que seguiría sin saberlo.
+Kal entendió, en el mismo segundo, dos cosas: que Kenji no sabía nada de lo que había entre ellos, y que Chiara acababa de decidir, delante de él, que seguiría sin saberlo.
 
 Lo llevó aparte, a la franja de piso entre la caja y el pasillo de servicio, donde el ruido de las máquinas tapaba cualquier conversación a menos de un metro.
 
@@ -260,13 +260,13 @@ Chiara no discutió. No preguntó cómo se había enterado. No defendió el mét
 
 —Tienes razón. No vuelve a pasar. Tienes mi palabra.
 
-—¿Por qué no esperaste? —Cole no subió la voz, pero tampoco la bajó—. Siempre esperas a la noche.
+—¿Por qué no esperaste? —Kal no subió la voz, pero tampoco la bajó—. Siempre esperas a la noche.
 
 Chiara no buscó una versión más cómoda.
 
 —Porque esta mañana alguien preguntó por tu coche en mi propio piso. Un hombre que nunca había visto, que pagó en efectivo y no jugó una sola mano. No sé si es nada. No sé si es algo. Pero no iba a quedarme sentada hasta la noche con esa duda y contigo sin saberlo.
 
-Cole se quedó callado un momento.
+Kal se quedó callado un momento.
 
 —Pudiste llamarme.
 
@@ -274,7 +274,7 @@ Cole se quedó callado un momento.
 
 Y con eso pudo haberse acabado.
 
-Cole todavía tenía el papel en la mano — lo había traído sin decidir por qué, como si fuera evidencia de algo que ya no necesitaba probar. Lo levantó de todos modos.
+Kal todavía tenía el papel en la mano — lo había traído sin decidir por qué, como si fuera evidencia de algo que ya no necesitaba probar. Lo levantó de todos modos.
 
 —¿Y esto? ¿Qué es exactamente lo que estás construyendo aquí?
 
@@ -284,7 +284,7 @@ Chiara miró el papel, después a él, y decidió algo que no había decidido cu
 
 —¿Por qué latín? ¿Por qué no me lo dices y ya?
 
-—Porque una red visible es un blanco, y una invisible es una costumbre. —Se cruzó de brazos, no a la defensiva, sino como quien empieza una clase que ya dio antes, para sí misma, muchas veces—. Nadie delata una costumbre, Cole. No sabe que es parte de ella.
+—Porque una red visible es un blanco, y una invisible es una costumbre. —Se cruzó de brazos, no a la defensiva, sino como quien empieza una clase que ya dio antes, para sí misma, muchas veces—. Nadie delata una costumbre, Kal. No sabe que es parte de ella.
 
 —Suena a iglesia.
 
@@ -304,13 +304,13 @@ Chiara no se sorprendió de que él lo notara.
 
 *Llegarte.* No *llegarle a alguien.*
 
-Cole no dijo nada, y ella tampoco esperó que lo hiciera — ya estaba dicho, aunque ninguno de los dos lo hubiera dicho del todo.
+Kal no dijo nada, y ella tampoco esperó que lo hiciera — ya estaba dicho, aunque ninguno de los dos lo hubiera dicho del todo.
 
 —¿Qué significa esto? —preguntó él, sosteniendo el papel un poco más alto, señalando las dos palabras de arriba, como si eso ayudara.
 
 —Eso no te lo voy a decir. —Chiara no sonrió, pero algo cerca de sonreír le cruzó la cara—. Todavía no.
 
-No fue un no. Cole lo notó, y no supo qué hacer con eso tampoco.
+No fue un no. Kal lo notó, y no supo qué hacer con eso tampoco.
 
 Caminó de vuelta al taller esperando todavía sentir algo del peso con el que había llegado, y no lo encontró. Se había armado para una pelea entera y volvía con las manos vacías de la manera equivocada — no porque hubiera perdido, sino porque no había habido nada que ganar. Ella había cedido antes de que él terminara de exigir, y encima le había dejado una puerta entreabierta que no le había pedido, y una fe entera de la que nunca le había hablado tan claro.
 

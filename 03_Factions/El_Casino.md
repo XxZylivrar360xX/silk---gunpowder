@@ -6,7 +6,7 @@
 
 **Qué es:** hotel-casino de [[05_Locations/San_Aurelio]], construido sobre un hotel costero de los años veinte y ampliado con una torre moderna de juego, suites y eventos. Propiedad de un grupo de socios italianos recién llegados, con [[02_Characters/Chiara_Bellandi]] entre ellos, y con [[02_Characters/Dario_Varek]] como socio mayoritario local.
 **Territorio:** borde del Distrito Marino, tocando La Isla sin pertenecerle. Fachada pública hacia Paseo Pacífica; acceso discreto de carga hacia Terminal Road / Ruta de Muelles.
-**Estado al abrir la novela:** llegando. Los socios aterrizan de Italia el mismo día en que Cole conoce a Chiara.
+**Estado al abrir la novela:** llegando. Los socios aterrizan de Italia el mismo día en que Kal conoce a Chiara.
 
 ---
 
@@ -17,12 +17,12 @@ El Monarch está donde San Aurelio quiere verse cara: costa, cristal, valet, res
 **Colocación exacta:** frontera Distrito Marino / La Isla, sobre Paseo Pacífica, con salida de servicio a Terminal Road. Eso permite tres cosas:
 
 - Chiara pertenece al mundo visible de la entrada principal.
-- Cole entra por la puerta de proveedores sin dejar de poder aparecer en el lobby cuando hace falta.
+- Kal entra por la puerta de proveedores sin dejar de poder aparecer en el lobby cuando hace falta.
 - Los [[03_Factions/Breakwater_Saints_MC]] no controlan el casino, pero sí controlan buena parte del piso nocturno que lo rodea.
 
 **El penthouse** queda en la Torre Norte del Monarch. Ver [[05_Locations/El_Penthouse]].
 
-**La bahía de carga y el túnel este.** Bajo el nivel de calle, la bahía de recepción de proveedores conecta con un **túnel de servicio que corre por debajo del puente del canal** hasta la orilla — construido como acceso de mercancías y homologado también como **salida de evacuación** del complejo. Huele a marea y a diésel; no lo usa casi nadie. Ninguna cámara del lobby cubre la rampa de proveedores que sale por ahí. Es la ruta por la que se puede entrar al Monarch de forma visible (para que alguien "vea" llegar a una persona) y salir sin que nadie lo registre. Usada así por primera vez en el Capítulo 9 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Corral]]): Chiara entra por la bahía con un seguidor detrás y sale a pie con Cole por la parte de atrás.
+**La bahía de carga y el túnel este.** Bajo el nivel de calle, la bahía de recepción de proveedores conecta con un **túnel de servicio que corre por debajo del puente del canal** hasta la orilla — construido como acceso de mercancías y homologado también como **salida de evacuación** del complejo. Huele a marea y a diésel; no lo usa casi nadie. Ninguna cámara del lobby cubre la rampa de proveedores que sale por ahí. Es la ruta por la que se puede entrar al Monarch de forma visible (para que alguien "vea" llegar a una persona) y salir sin que nadie lo registre. Usada así por primera vez en el Capítulo 9 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Corral]]): Chiara entra por la bahía con un seguidor detrás y sale a pie con Kal por la parte de atrás.
 
 > Complementa el **elevador privado** de Dario (penthouse / lobby / estacionamiento subterráneo, sin picaporte visible). El elevador evita los pasillos de huéspedes; el túnel este evita el edificio entero.
 
@@ -34,7 +34,7 @@ El Monarch está donde San Aurelio quiere verse cara: costa, cristal, valet, res
 
 El casino es la Fase 0 a II. El diario es la Fase III en adelante. Ver [[01_Timeline/00_Estructura_del_Ascenso]].
 
-**Y es la primera organización que la máquina de Cole se come**, a escala pequeña, delante del lector. La cadena de favores (H2, continuación) es literalmente las fases 1 y 2 del método de expansión ([[00_Biblia/Reglas_del_Mundo]], regla 2) ejecutadas en la primera veintena de capítulos.
+**Y es la primera organización que la máquina de Kal se come**, a escala pequeña, delante del lector. La cadena de favores (H2, continuación) es literalmente las fases 1 y 2 del método de expansión ([[00_Biblia/Reglas_del_Mundo]], regla 2) ejecutadas en la primera veintena de capítulos.
 
 El nombre importa: **The Monarch** suena a poder antiguo aunque sea una ampliación nueva. Es perfecto para Varek porque no parece criminal; parece una institución. Para Chiara, en cambio, empieza siendo una jaula elegante: el lugar tiene corona antes de que ella tenga reino propio.
 
@@ -42,7 +42,7 @@ El nombre importa: **The Monarch** suena a poder antiguo aunque sea una ampliaci
 
 ## La colisión que este lugar produce — y hay que usarla
 
-> **Cole aborrece el juego de azar.** Es regla dura de su ficha. La razón real, que nunca dice, es que **a él lo pagaron una vez, como se paga una apuesta**, y no soporta ver dinero cambiar de manos por suerte.
+> **Kal aborrece el juego de azar.** Es regla dura de su ficha. La razón real, que nunca dice, es que **a él lo pagaron una vez, como se paga una apuesta**, y no soporta ver dinero cambiar de manos por suerte.
 
 Y su primer gran negocio de la novela es con un casino. Entra ahí a hacer networking, sonríe, cierra tratos, y **no se le nota nada**, porque es lo que hace: se vuelve lo que la habitación necesita.
 
@@ -51,19 +51,19 @@ Consecuencias narrativas que están servidas:
 - **Es la mejor demostración posible del camaleón**, y la más cara. El lector sabe lo que le cuesta estar ahí; nadie en la escena lo sabe.
 - **Chiara lee a la gente para vivir.** Que ella note algo — no qué, sólo que hay algo — es un candidato excelente para el primer momento real entre los dos.
 - **La cadena de favores lo mete cada vez más adentro** del único sitio del mundo donde no quiere estar. Cada favor que le hace a ella lo acerca a ella y lo aleja de sí mismo.
-- **Y el día que él le cuente por qué**, esa confesión vale más que cualquier declaración. Es la única explicación de su origen que Cole podría llegar a dar en voz alta, porque no habla de sus padres: habla de una transacción.
+- **Y el día que él le cuente por qué**, esa confesión vale más que cualquier declaración. Es la única explicación de su origen que Kal podría llegar a dar en voz alta, porque no habla de sus padres: habla de una transacción.
 
 ---
 
 ## Los socios
 
-**CANON:** llegan de Italia junto con Chiara. [[02_Characters/Matteo_Bellacorte]] es quien cita a Cole a la reunión inicial — la puerta de entrada de toda la novela.
+**CANON:** llegan de Italia junto con Chiara. [[02_Characters/Matteo_Bellacorte]] es quien cita a Kal a la reunión inicial — la puerta de entrada de toda la novela.
 
-**CANON:** después de la reunión, los socios **rechazan a Cole por ser "demasiado listo"** y no quieren hacer negocios con él. Chiara opina lo contrario, y contrata por debajo lo que sus jefes rechazaron.
+**CANON:** después de la reunión, los socios **rechazan a Kal por ser "demasiado listo"** y no quieren hacer negocios con él. Chiara opina lo contrario, y contrata por debajo lo que sus jefes rechazaron.
 
 **Socios visibles al abrir la novela:**
 
-- [[02_Characters/Matteo_Bellacorte]] — socio que abre la puerta a Cole.
+- [[02_Characters/Matteo_Bellacorte]] — socio que abre la puerta a Kal.
 - [[02_Characters/Fabrizio_Rinaldi]] — nombre provisional para el viejo amigo italiano de Chiara.
 - [[02_Characters/Tommaso_Lusardi]] — nombre provisional para el hermano de Alessio Lusardi.
 - [[02_Characters/Dario_Varek]] — socio mayoritario local.
@@ -74,7 +74,7 @@ Consecuencias narrativas que están servidas:
 
 ---
 
-## Lo que Cole hace aquí
+## Lo que Kal hace aquí
 
 De la propuesta que le lleva a Chiara semanas después de conocerse (H2, continuación):
 
@@ -83,7 +83,7 @@ De la propuesta que le lleva a Chiara semanas después de conocerse (H2, continu
 - **Vetos** — sacar y mantener fuera a quien la casa no quiere adentro.
 - **Resolver los problemas que la vigilancia del casino no puede resolver legalmente.**
 
-Esto último es la frase clave de toda su carrera: existe un espacio entre lo que un negocio necesita y lo que un negocio puede hacer, y Cole se ofrece a ser ese espacio. **De ahí sale todo el imperio.**
+Esto último es la frase clave de toda su carrera: existe un espacio entre lo que un negocio necesita y lo que un negocio puede hacer, y Kal se ofrece a ser ese espacio. **De ahí sale todo el imperio.**
 
 ## Lo que Chiara ve aquí
 
@@ -97,4 +97,4 @@ Ese mismo día empieza a detectar huecos de administración del casino: proveedo
 
 ---
 
-Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Cole_Mercer]] · [[06_Relationships/Hitos]] · [[03_Factions/El_Faro]] · [[02_Characters/Kenji_Oda]] · [[02_Characters/Walter_Keegan]]
+Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Kal_Mercer]] · [[06_Relationships/Hitos]] · [[03_Factions/El_Faro]] · [[02_Characters/Kenji_Oda]] · [[02_Characters/Walter_Keegan]]

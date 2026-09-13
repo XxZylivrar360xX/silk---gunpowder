@@ -115,3 +115,7 @@ Decisiones compactas para relevo. No reemplaza `log.md`.
 ## 2026-09-10 — Kenji y Marisol
 
 - **KENJI Y MARISOL (2026-09-10, canon del autor):** pareja fuera de foco en Libros I y II; hitos percibidos por Cole y Chiara mediante interacciones y lo que ambos deciden contar. Siembra registrada en [[02_Characters/Kenji_Oda]] y [[02_Characters/Marisol_Grayson]]; la muerte ya fijada de Kenji en Santa Lucía extiende el impacto a Marisol. Hitos, fechas, conocimiento de i Sussurri y reacciones concretas pendientes. Sin cambios de prosa.
+
+## 2026-09-13 — Nombre del protagonista
+
+- **CANON DEL AUTOR:** **Cole Mercer queda supersedido por Kal Mercer desde 2026-09-13.** Migración aplicada a todo el material vivo, enlaces, herramientas y ocho rutas; Mercer se conserva. Rutas vigentes: [[02_Characters/Kal_Mercer]], [[06_Relationships/Kal_y_Chiara]], [[12_Craft_Policies/voice/Kal_Mercer]] y [[98_Agent_Handoff/ChatGPT/HITO_Mi_Pareja_Formalizacion_Kal_Chiara]]. Las cuatro imágenes sólo cambiaron de filename. Registros previos, sesiones, prompts/handoffs archivados, catchup y reportes congelados conservan el nombre y las referencias de su época; esta decisión los supersede sólo en nomenclatura. EPUB sin regenerar: requiere petición expresa del autor. Sin otros cambios de canon, diálogos o escenas; sin commit ni push.

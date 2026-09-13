@@ -10,7 +10,7 @@ La escena abre o avanza con una tesis clara: territorio contra relato, seda cont
 
 ## Contraste con escenas que si lo resuelven
 
-El Capitulo 1 provisional empieza a resolverlo bien cuando La Almendra se vuelve patio, gruas, porton, campanita de Mabel, cafe recalentado y calle que baja el volumen medio tono. La tesis de Cole como hombre de negocios intachable nace de papeles, gruas y facturas, no de explicacion abstracta.
+El Capitulo 1 provisional empieza a resolverlo bien cuando La Almendra se vuelve patio, gruas, porton, campanita de Mabel, cafe recalentado y calle que baja el volumen medio tono. La tesis de Kal como hombre de negocios intachable nace de papeles, gruas y facturas, no de explicacion abstracta.
 
 ## Por que es un problema
 

@@ -1,26 +1,26 @@
 <!--
 Estado: borrador provisional.
-Protagonistas: Cole Mercer, Chiara Bellandi.
+Protagonistas: Kal Mercer, Chiara Bellandi.
 Ventana temporal: Fase 0, lunes, manana posterior a H2.
 Lugares: taller de Almendra Towing, carcel del condado, norte rural, La Almendra, The Monarch Casino & Hotel, centro de San Aurelio.
-Funcion: cobrar el guino de Dario/Keene, presentar la salida de Walt, sembrar a Harper, mostrar a Chiara detectando huecos del casino y abrir la salida con Blake. Añadido (2026-09-03), a peticion del autor: la escena de la tumba de Jim Keegan (hijo de Walt) -- Walt sale de prision y ese mismo dia se entera, por Cole, de que Jim murio en Afganistan hace mas de cuatro años (antes del regreso de Cole a San Aurelio; Cole lleva cuatro años en la ciudad, asi que la muerte tuvo que ser anterior a eso). Filtrada con la misma restriccion que el resto de las muertes del libro: gestos fisicos, dialogo minimo, sin detallar las circunstancias exactas de la muerte en la conversacion con Walt (el recuerdo privado de Cole si las detalla, para el lector solo). Necesaria para que la mencion de Walt a Jim en el Capitulo 18 (Cuentas claras / Anticiparse) tenga peso contenido en vez de aparecer de la nada.
+Funcion: cobrar el guino de Dario/Keene, presentar la salida de Walt, sembrar a Harper, mostrar a Chiara detectando huecos del casino y abrir la salida con Blake. Añadido (2026-09-03), a peticion del autor: la escena de la tumba de Jim Keegan (hijo de Walt) -- Walt sale de prision y ese mismo dia se entera, por Kal, de que Jim murio en Afganistan hace mas de cuatro años (antes del regreso de Kal a San Aurelio; Kal lleva cuatro años en la ciudad, asi que la muerte tuvo que ser anterior a eso). Filtrada con la misma restriccion que el resto de las muertes del libro: gestos fisicos, dialogo minimo, sin detallar las circunstancias exactas de la muerte en la conversacion con Walt (el recuerdo privado de Kal si las detalla, para el lector solo). Necesaria para que la mencion de Walt a Jim en el Capitulo 18 (Cuentas claras / Anticiparse) tenga peso contenido en vez de aparecer de la nada.
 -->
 
 # Capítulo 3 — Los viejos días
 
-El lunes, Cole despertó antes de que sonara el teléfono, con la misma incomodidad exacta con la que se había dormido.
+El lunes, Kal despertó antes de que sonara el teléfono, con la misma incomodidad exacta con la que se había dormido.
 
 El catre no perdonaba el traje de la noche anterior. Le había dejado una marca en el hombro, otra en la cadera y una tercera en la paciencia. La camisa azul seguía doblada sobre la caja de recibos. El saco colgaba del respaldo de la silla como si también estuviera cansado de fingir. Sobre el escritorio, junto a las llaves del Peugeot, el celular vibró una vez y se quedó quieto.
 
 Después vibró otra.
 
-Cole abrió los ojos.
+Kal abrió los ojos.
 
 La grieta del techo seguía ahí. No había aprendido nada durante la noche.
 
 Tomó el teléfono sin incorporarse del todo. Tenía seis mensajes, dos llamadas perdidas y un enlace que Nadir le había mandado sin texto. Eso ya era texto suficiente.
 
-Cole abrió la nota.
+Kal abrió la nota.
 
 El titular ocupó la pantalla con una sobriedad que no alcanzaba a esconder la violencia:
 
@@ -30,7 +30,7 @@ Debajo, una fotografía tomada demasiado lejos mostraba la plaza principal a pri
 
 La nota decía que un trabajador de limpieza lo había encontrado sentado, con la cabeza ladeada, como si se hubiera quedado dormido antes de que abrieran los juzgados. Tres tiros. Ejecución. Sin robo aparente. Plaza Corona, frente al edificio municipal, a unos pasos del Departamento.
 
-Cole se sentó.
+Kal se sentó.
 
 El catre crujió como una queja vieja.
 
@@ -42,7 +42,7 @@ No todas. Una.
 
 Legal lo revisa.
 
-Cole se pasó una mano por la cara. No pensó en duelo. No conocía a Keene lo suficiente para eso. Pensó en la grúa blanca estacionada frente al Departamento, en el oficial de recepción reconociendo primero el logo y después la cara, en las doce unidades con demasiadas millas y en la Tahoe negra que perdía aceite pero seguía saliendo en fotos.
+Kal se pasó una mano por la cara. No pensó en duelo. No conocía a Keene lo suficiente para eso. Pensó en la grúa blanca estacionada frente al Departamento, en el oficial de recepción reconociendo primero el logo y después la cara, en las doce unidades con demasiadas millas y en la Tahoe negra que perdía aceite pero seguía saliendo en fotos.
 
 Después pensó en la calle Almendra.
 
@@ -54,7 +54,7 @@ El teléfono vibró otra vez.
 
 Héctor.
 
-Cole contestó.
+Kal contestó.
 
 —Ya lo vi.
 
@@ -62,7 +62,7 @@ Cole contestó.
 
 La voz le salió más áspera de lo normal, pero no rota. Héctor no se rompía por teléfono. Si algo tenía que romperse, lo hacía con las manos.
 
-Cole miró la hora.
+Kal miró la hora.
 
 —Walt.
 
@@ -72,7 +72,7 @@ Cole miró la hora.
 
 —Ya estoy afuera.
 
-Cole se puso de pie. El cuerpo protestó tarde.
+Kal se puso de pie. El cuerpo protestó tarde.
 
 —Te dije que pasaba por ti.
 
@@ -80,7 +80,7 @@ Cole se puso de pie. El cuerpo protestó tarde.
 
 Héctor colgó.
 
-Cole dejó el teléfono en el escritorio, miró la camisa del día anterior y decidió que no. Abrió la bolsa de ropa limpia bajo el catre y sacó una camiseta oscura, jeans, botas. Nada que pareciera reunión. Nada que pareciera casino. Mientras se cambiaba, la noticia siguió ocupando el cuarto aunque la pantalla estuviera apagada.
+Kal dejó el teléfono en el escritorio, miró la camisa del día anterior y decidió que no. Abrió la bolsa de ropa limpia bajo el catre y sacó una camiseta oscura, jeans, botas. Nada que pareciera reunión. Nada que pareciera casino. Mientras se cambiaba, la noticia siguió ocupando el cuarto aunque la pantalla estuviera apagada.
 
 Keene en una banca.
 
@@ -88,7 +88,7 @@ Dario con una diligencia en el centro.
 
 Tres tiros antes de que la ciudad terminara de despertar.
 
-Cole tomó las llaves del Peugeot y salió al patio.
+Kal tomó las llaves del Peugeot y salió al patio.
 
 ***
 
@@ -102,15 +102,15 @@ Héctor esperaba junto a la entrada de visitantes, con gorra vieja, camisa de cu
 
 —Pan dulce.
 
-Cole apagó el motor.
+Kal apagó el motor.
 
 —¿Para Walt?
 
 —Para mí. Si quería pan, que no se metiera diez años.
 
-Cole bajó del coche.
+Kal bajó del coche.
 
-Héctor le ofreció la bolsa. Cole tomó una concha sin preguntar. Ese era el tipo de cariño que los dos aceptaban: comida pasada de mano en mano sin convertirla en escena.
+Héctor le ofreció la bolsa. Kal tomó una concha sin preguntar. Ese era el tipo de cariño que los dos aceptaban: comida pasada de mano en mano sin convertirla en escena.
 
 —¿Supiste lo de Keene? —preguntó Héctor.
 
@@ -128,7 +128,7 @@ Héctor miró el edificio de la cárcel.
 
 —Alguien quería que hasta las palomas hicieran fila para verlo.
 
-Cole no contestó. Se recargó en el Peugeot y mordió la concha.
+Kal no contestó. Se recargó en el Peugeot y mordió la concha.
 
 —Ayer lo vi —dijo.
 
@@ -150,7 +150,7 @@ Héctor soltó aire por la nariz.
 
 —Entonces ahora lo va a revisar medio mundo.
 
-Cole terminó la concha, dobló la servilleta y la guardó en el bolsillo porque no había bote cerca. Héctor lo vio hacerlo y no dijo nada. Había cosas que uno aprendía de niño y ya no podía desactivar, aunque estuviera parado frente a una cárcel esperando a un hombre que salía después de diez años.
+Kal terminó la concha, dobló la servilleta y la guardó en el bolsillo porque no había bote cerca. Héctor lo vio hacerlo y no dijo nada. Había cosas que uno aprendía de niño y ya no podía desactivar, aunque estuviera parado frente a una cárcel esperando a un hombre que salía después de diez años.
 
 La puerta metálica se abrió a las diez con cuatro minutos.
 
@@ -160,13 +160,13 @@ Walt Keegan salió tercero.
 
 No parecía un hombre libre. Todavía no. Parecía un hombre al que acababan de cambiar de cuarto.
 
-Llevaba una camisa gris demasiado grande, pantalón oscuro, zapatos sin brillo y una bolsa de plástico con papeles doblados, una libreta, un cepillo de dientes y lo que el estado consideraba pertenencias. El pelo le había salido más blanco de lo que Cole recordaba de las fotos viejas. La espalda seguía recta. Eso sí.
+Llevaba una camisa gris demasiado grande, pantalón oscuro, zapatos sin brillo y una bolsa de plástico con papeles doblados, una libreta, un cepillo de dientes y lo que el estado consideraba pertenencias. El pelo le había salido más blanco de lo que Kal recordaba de las fotos viejas. La espalda seguía recta. Eso sí.
 
 Héctor se apartó del coche.
 
 Walt lo vio primero.
 
-Después vio a Cole.
+Después vio a Kal.
 
 No sonrió de inmediato. Lo midió como se mide una casa que uno dejó cerrada mucho tiempo: buscando qué seguía ahí y qué se había caído sin hacer ruido.
 
@@ -174,29 +174,29 @@ No sonrió de inmediato. Lo midió como se mide una casa que uno dejó cerrada m
 
 —Keegan.
 
-Se abrazaron sin golpearse la espalda. Eso fue lo que hizo que a Cole se le moviera algo en el pecho: dos viejos que entendían que había cansancios a los que no se les pega.
+Se abrazaron sin golpearse la espalda. Eso fue lo que hizo que a Kal se le moviera algo en el pecho: dos viejos que entendían que había cansancios a los que no se les pega.
 
 Walt se volvió hacia él.
 
 —Mercer.
 
-Cole le ofreció la mano.
+Kal le ofreció la mano.
 
 Walt la miró, luego miró su cara.
 
 —Llevas intentando saludar como adulto desde que tenías doce años.
 
-Cole bajó la mano.
+Kal bajó la mano.
 
 Walt lo abrazó.
 
-Olía a jabón institucional, tela guardada y aire que no había elegido todavía. Cole sostuvo el abrazo un segundo menos de lo que Héctor habría querido y un segundo más de lo que él mismo habría planeado.
+Olía a jabón institucional, tela guardada y aire que no había elegido todavía. Kal sostuvo el abrazo un segundo menos de lo que Héctor habría querido y un segundo más de lo que él mismo habría planeado.
 
 Walt se apartó y le tocó la mejilla con dos dedos, cerca de la cicatriz, sin llegar a tocarla.
 
 —Tu padre hacía esa cara cuando quería que nadie notara que estaba contento.
 
-Cole miró hacia el estacionamiento.
+Kal miró hacia el estacionamiento.
 
 —Tengo otra.
 
@@ -214,7 +214,7 @@ Walt la abrió, miró adentro y soltó una risa corta.
 
 —La libertad te ablanda el estándar, Navarro.
 
-Por primera vez, Cole lo vio sonreír de verdad.
+Por primera vez, Kal lo vio sonreír de verdad.
 
 No duró mucho. Pero alcanzó.
 
@@ -224,7 +224,7 @@ No fueron directo al barrio.
 
 Walt pidió café primero. No uno bueno. Uno de carretera, dijo. De esos que sabían igual antes de entrar y después de salir, para comprobar que el mundo seguía teniendo cosas horribles sin importancia.
 
-Héctor sugirió una gasolinera. Cole manejó hacia el norte.
+Héctor sugirió una gasolinera. Kal manejó hacia el norte.
 
 La cafetería quedaba en una carretera secundaria antes de que San Aurelio terminara de convertirse en campo. Tenía techo rojo, ventanales con anuncios de desayunos todo el día, máquinas de hielo junto a la entrada y una barra de comida rápida donde el menú iluminado prometía hamburguesas, café, papas, burritos y una ensalada que nadie en su sano juicio debía pedir ahí.
 
@@ -234,9 +234,9 @@ Walt se quedó mirando el televisor.
 
 —Empezaron temprano.
 
-—Anoche —dijo Cole.
+—Anoche —dijo Kal.
 
-Héctor le lanzó una mirada. Cole no la recogió.
+Héctor le lanzó una mirada. Kal no la recogió.
 
 La chica de la barra no levantó la voz para pedirles orden. Sólo esperó.
 
@@ -258,7 +258,7 @@ Walt la miró dos segundos y luego se echó a reír.
 
 —No viene incluido.
 
-Cole miró el gafete: **Harper**.
+Kal miró el gafete: **Harper**.
 
 —Tres cafés —dijo—. Y lo que tengas que no haya muerto dos veces.
 
@@ -278,7 +278,7 @@ No lo miró como las meseras del Distrito Marino miraban un reloj o un saco. Lo 
 
 Héctor hizo un ruido bajo, casi aprobación.
 
-Cole pagó en efectivo. Harper contó los billetes una sola vez y dejó el cambio sobre la barra sin empujarlo hacia él.
+Kal pagó en efectivo. Harper contó los billetes una sola vez y dejó el cambio sobre la barra sin empujarlo hacia él.
 
 —¿De dónde es ese acento? —preguntó Walt.
 
@@ -290,7 +290,7 @@ Harper sirvió el café.
 
 Ella no sonrió. Pero algo en la boca se le movió apenas.
 
-Cole tomó las tazas. Al hacerlo, vio por la ventana trasera una camioneta con lodo seco hasta media puerta, un remolque vacío, dos postes de cerca cargados junto al basurero y un camino de tierra que salía hacia la parte que los clientes de carretera no miraban.
+Kal tomó las tazas. Al hacerlo, vio por la ventana trasera una camioneta con lodo seco hasta media puerta, un remolque vacío, dos postes de cerca cargados junto al basurero y un camino de tierra que salía hacia la parte que los clientes de carretera no miraban.
 
 —¿Trabajas aquí todos los días?
 
@@ -302,7 +302,7 @@ Harper cerró la caja.
 
 —También.
 
-Cole asintió una vez.
+Kal asintió una vez.
 
 Walt tomó su café y bebió demasiado pronto. Hizo una mueca.
 
@@ -312,7 +312,7 @@ Harper volvió a mirar el televisor. En la pantalla, la foto de Keene dio paso a
 
 —Matar a un policía en la plaza no es matar a un policía —dijo, más para sí que para ellos.
 
-Cole la miró.
+Kal la miró.
 
 —¿Entonces qué es?
 
@@ -326,7 +326,7 @@ Harper se dio cuenta de que los tres la estaban mirando y volvió a la plancha.
 
 —Los huevos salen en cuatro.
 
-Cole llevó las tazas a la mesa.
+Kal llevó las tazas a la mesa.
 
 No dijo nada. Pero se quedó con dos cosas.
 
@@ -336,7 +336,7 @@ La segunda: la camioneta con lodo hasta media puerta seguía atrás, con el remo
 
 Una mujer que leía la ciudad desde una plancha de carretera, en el único lugar del mundo donde nadie iba a preguntarle nunca su opinión.
 
-Cole se acordó del nombre.
+Kal se acordó del nombre.
 
 ***
 
@@ -356,11 +356,11 @@ Héctor abrió una hielera pequeña con el pie.
 
 —No te emociones. Es porque nadie tuvo dinero para cambiarlo.
 
-Sacó tres cervezas. Le dio una a Walt, una a Cole y se quedó con la tercera. Cole abrió la suya contra el borde de la baranda. Walt lo vio hacerlo y negó con la cabeza.
+Sacó tres cervezas. Le dio una a Walt, una a Kal y se quedó con la tercera. Kal abrió la suya contra el borde de la baranda. Walt lo vio hacerlo y negó con la cabeza.
 
 —Tu padre hacía eso y tu madre le decía que un día iba a romper la casa.
 
-Cole miró la marca vieja en la madera.
+Kal miró la marca vieja en la madera.
 
 —No la rompió.
 
@@ -368,7 +368,7 @@ Cole miró la marca vieja en la madera.
 
 El comentario se quedó en el porche con ellos.
 
-Héctor se sentó en una silla de metal. Walt eligió el escalón. Cole se quedó recargado en el poste, con la cerveza fría en la mano y la calle de frente.
+Héctor se sentó en una silla de metal. Walt eligió el escalón. Kal se quedó recargado en el poste, con la cerveza fría en la mano y la calle de frente.
 
 Durante un rato no hablaron de nada que importara. El calor. La cárcel. El café horrible. La noticia de Keene, pero sólo en superficie. Un hombre que había salido después de diez años merecía unos minutos antes de que el mundo volviera a cobrarle interés.
 
@@ -382,7 +382,7 @@ Héctor soltó una risa seca.
 
 —La libertad condicional me volvió moderado.
 
-Cole no sonrió, pero bajó la mirada a la botella.
+Kal no sonrió, pero bajó la mirada a la botella.
 
 —No tienes que hacer nada.
 
@@ -402,7 +402,7 @@ Walt bebió otro trago.
 
 —Diez años enseñan dos o tres cosas. Una: las camas del estado están hechas por gente que odia las espaldas. Dos: el hombre que te dice que tengas paciencia casi siempre duerme en su casa. Tres: la libertad condicional vale más cuando uno deja de verla como insulto.
 
-Cole escuchó sin moverse.
+Kal escuchó sin moverse.
 
 —¿Quieres mantenerte legal?
 
@@ -416,7 +416,7 @@ Walt sonrió apenas.
 
 —Si hay problema, respondo. No dije que me volví santo. Dije que aprendí a leer formularios.
 
-Cole levantó la botella.
+Kal levantó la botella.
 
 —Eso ya te pone encima de medio barrio.
 
@@ -430,7 +430,7 @@ Walt chocó su cerveza contra la de él.
 
 Héctor chocó su botella con las dos.
 
-La calle seguía moviéndose despacio. Una camioneta pasó con música vieja. Dos adolescentes caminaron hacia el taller fingiendo que no querían ver a Walt. Una señora cruzó con bolsas de mandado y saludó a Héctor por su nombre, a Cole con la barbilla y a Walt con una pausa.
+La calle seguía moviéndose despacio. Una camioneta pasó con música vieja. Dos adolescentes caminaron hacia el taller fingiendo que no querían ver a Walt. Una señora cruzó con bolsas de mandado y saludó a Héctor por su nombre, a Kal con la barbilla y a Walt con una pausa.
 
 Walt bajó la voz.
 
@@ -452,9 +452,9 @@ Walt no se disculpó. Héctor no se lo pidió.
 
 —Sí —dijo al fin—. Antes de que se largara, gritaba bonito.
 
-Cole miró a Héctor. No había oído esa versión en años. La exesposa de Héctor era una ausencia que el barrio trataba como grieta vieja: se sabía dónde estaba, nadie la pisaba.
+Kal miró a Héctor. No había oído esa versión en años. La exesposa de Héctor era una ausencia que el barrio trataba como grieta vieja: se sabía dónde estaba, nadie la pisaba.
 
-—Los viejos días no eran tan buenos —dijo Cole.
+—Los viejos días no eran tan buenos —dijo Kal.
 
 Walt señaló la calle con la botella.
 
@@ -464,13 +464,13 @@ Héctor asintió.
 
 —No todos. Pero algunos.
 
-Cole miró la calle Almendra: las casas de una planta, los carros viejos, los cables cruzados, los niños aprendiendo rutas antes que reglas. Pensó en Dale antes de irse. En Ruth antes de cansarse. En Walt antes de prisión. En Héctor antes de quedarse solo. En todos los antes que el barrio usaba como excusa para no mirar lo que todavía podía hacerse.
+Kal miró la calle Almendra: las casas de una planta, los carros viejos, los cables cruzados, los niños aprendiendo rutas antes que reglas. Pensó en Dale antes de irse. En Ruth antes de cansarse. En Walt antes de prisión. En Héctor antes de quedarse solo. En todos los antes que el barrio usaba como excusa para no mirar lo que todavía podía hacerse.
 
 —Quiero levantarlo —dijo.
 
 Walt lo miró.
 
-Cole no se explicó rápido. Eso hizo que Héctor también lo mirara.
+Kal no se explicó rápido. Eso hizo que Héctor también lo mirara.
 
 —No limpiar la calle para que venga gente de fuera a comprar barato. No ponerle pintura a dos fachadas y llamarlo progreso. Levantarlo de verdad. Talleres, casas que no se caigan, negocios que duren, gente que no tenga que irse para sobrevivir. Devolverle algo de lo que era antes del arresto, antes de que mi padre se muriera para todos aunque siguiera respirando, antes de que todo se fuera al diablo.
 
@@ -480,7 +480,7 @@ Walt no apartó la mirada.
 
 —Eso cuesta más que dinero, niño.
 
-Cole aceptó la palabra sin corregirlo.
+Kal aceptó la palabra sin corregirlo.
 
 —Ya sé.
 
@@ -492,7 +492,7 @@ Héctor soltó una risa baja.
 
 —Eso es un no con botas nuevas.
 
-Cole miró al viejo.
+Kal miró al viejo.
 
 —Tengo algunas piezas.
 
@@ -512,7 +512,7 @@ Walt levantó la suya.
 
 —Renovados.
 
-Cole chocó la botella con ellos.
+Kal chocó la botella con ellos.
 
 —Y con sangre nueva.
 
@@ -530,7 +530,7 @@ Héctor sonrió.
 
 Bebieron.
 
-Después Cole dijo:
+Después Kal dijo:
 
 —Cuídense de Dario Varek.
 
@@ -546,7 +546,7 @@ Héctor escupió a un lado.
 
 —El clima por lo menos no manda factura.
 
-—Si pueden evitar deberle favores, mejor —dijo Cole—. No he escuchado cosas buenas de él con los otros líderes. Nadie lo dice completo, pero todos se enderezan cuando sale el nombre.
+—Si pueden evitar deberle favores, mejor —dijo Kal—. No he escuchado cosas buenas de él con los otros líderes. Nadie lo dice completo, pero todos se enderezan cuando sale el nombre.
 
 Walt se frotó la mandíbula.
 
@@ -556,7 +556,7 @@ Walt se frotó la mandíbula.
 
 —¿Él cree que sí?
 
-Cole pensó en la cabecera vacía de la sala del Monarch, en Matteo diciendo que Dario tuvo que salir, en la noticia de Keene ocupando la pantalla del teléfono.
+Kal pensó en la cabecera vacía de la sala del Monarch, en Matteo diciendo que Dario tuvo que salir, en la noticia de Keene ocupando la pantalla del teléfono.
 
 —Todavía no.
 
@@ -570,7 +570,7 @@ Walt levantó la botella.
 
 Héctor se rió primero.
 
-Fue una risa áspera, inesperada, casi oxidada. Walt lo siguió. Cole tardó medio segundo más y luego también se rió, no fuerte, no limpio, pero lo bastante para que dos vecinos voltearan hacia el porche y fingieran enseguida que no habían oído.
+Fue una risa áspera, inesperada, casi oxidada. Walt lo siguió. Kal tardó medio segundo más y luego también se rió, no fuerte, no limpio, pero lo bastante para que dos vecinos voltearan hacia el porche y fingieran enseguida que no habían oído.
 
 Por un momento, la Almendra pareció recordar cómo sonaba antes de que todo se fuera al diablo.
 
@@ -578,9 +578,9 @@ Por un momento, la Almendra pareció recordar cómo sonaba antes de que todo se 
 
 No fueron al taller esa tarde.
 
-Cole condujo hacia el cementerio de Santa Lucía sin decir a dónde iban, y Walt no preguntó — quizás porque diez años enseñan a no preguntar hacia dónde va un coche cuando el que maneja tiene esa cara.
+Kal condujo hacia el cementerio de Santa Lucía sin decir a dónde iban, y Walt no preguntó — quizás porque diez años enseñan a no preguntar hacia dónde va un coche cuando el que maneja tiene esa cara.
 
-Héctor se quedó en el asiento trasero, callado de una manera que Cole reconoció: la misma que usaba antes de decir algo que llevaba tiempo cargando.
+Héctor se quedó en el asiento trasero, callado de una manera que Kal reconoció: la misma que usaba antes de decir algo que llevaba tiempo cargando.
 
 Se detuvieron frente a una hilera de lápidas nuevas, del lado donde el pasto todavía no terminaba de agarrar.
 
@@ -590,29 +590,29 @@ Se detuvo frente a una.
 
 *JAMES "JIM" KEEGAN.*
 
-Cole no se acercó. Se quedó junto al coche, con las manos en los bolsillos, mirando la espalda de un hombre que llevaba diez años esperando una carta que nunca iba a llegar completa.
+Kal no se acercó. Se quedó junto al coche, con las manos en los bolsillos, mirando la espalda de un hombre que llevaba diez años esperando una carta que nunca iba a llegar completa.
 
 Y por un segundo, sin pedirlo, volvió a estar ahí.
 
 Faltaban semanas para que todo terminara, aunque nadie en la unidad lo supiera todavía. Un pueblo sin nombre que la radio marcaba solo con coordenadas, una escuela a medio construir, y una fila de niños que se habían quedado sin nada que hacer desde que el único maestro del lugar había dejado de aparecer.
 
-Cole no recordaba haber decidido acercarse. Recordaba estar ahí, en cuclillas, enseñándole a un niño de unos siete años a atarse las botas que alguien de la unidad le había regalado, mientras otros cuatro esperaban su turno con la paciencia exacta de quien no tiene otra cosa que esperar.
+Kal no recordaba haber decidido acercarse. Recordaba estar ahí, en cuclillas, enseñándole a un niño de unos siete años a atarse las botas que alguien de la unidad le había regalado, mientras otros cuatro esperaban su turno con la paciencia exacta de quien no tiene otra cosa que esperar.
 
-Jim lo observó desde la sombra de un camión, con el rifle colgado y una sonrisa que Cole no le vio venir.
+Jim lo observó desde la sombra de un camión, con el rifle colgado y una sonrisa que Kal no le vio venir.
 
 —Tienes madera de padre, Mercer.
 
 —No tuve un buen ejemplo para serlo.
 
-—Por eso mismo. —Jim se acuclilló a su lado y tomó al siguiente niño de la fila sin preguntarle el nombre—. Un hombre que aprendió mal y aun así sabe hacer esto, sin que se lo enseñara nadie... eso no se explica con mal ejemplo, Cole. Eso se explica de una sola manera.
+—Por eso mismo. —Jim se acuclilló a su lado y tomó al siguiente niño de la fila sin preguntarle el nombre—. Un hombre que aprendió mal y aun así sabe hacer esto, sin que se lo enseñara nadie... eso no se explica con mal ejemplo, Kal. Eso se explica de una sola manera.
 
-Cole no contestó. En ese entonces todavía no sabía que iba a necesitar guardar esa frase en algún lugar, para más adelante, para una vida que ni siquiera imaginaba todavía.
+Kal no contestó. En ese entonces todavía no sabía que iba a necesitar guardar esa frase en algún lugar, para más adelante, para una vida que ni siquiera imaginaba todavía.
 
 Esa misma tarde, en la carpa de mando, alguien le puso delante un reporte con el nombre de Jim escrito arriba: cargamentos de suministros que no cuadraban, ventas a civiles que jamás debieron pasar por manos de un soldado. Nada que fuera a corte marcial por crímenes de guerra. Suficiente, sin embargo, para una baja deshonrosa, si alguien decidía perseguirlo.
 
 Encontró a Jim esa misma noche, fumando solo detrás de las carpas de suministro.
 
-—Vi el reporte —dijo Cole, sin preámbulo.
+—Vi el reporte —dijo Kal, sin preámbulo.
 
 Jim no se dio la vuelta enseguida.
 
@@ -622,7 +622,7 @@ Jim no se dio la vuelta enseguida.
 
 —Eso no es un no.
 
-—Tampoco es un sí. —Cole se paró a su lado, mirando la misma oscuridad—. ¿Por qué, Jim?
+—Tampoco es un sí. —Kal se paró a su lado, mirando la misma oscuridad—. ¿Por qué, Jim?
 
 —Porque el sueldo de un soldado no alcanza para nada, y aquí hay gente que paga bien por cosas que a nosotros nos sobran. —Jim se encogió de hombros, con una calma que no le llegaba a los ojos—. No es tan distinto de lo que hacía mi padre antes de que el Tasador se lo arruinara. Solo que yo no tuve que romperle el escritorio a nadie.
 
@@ -632,41 +632,41 @@ Jim tiró el cigarro y lo apagó con el talón, más fuerte de lo necesario.
 
 —Entonces qué bueno que él no está aquí para verlo.
 
-—No se lo voy a decir —dijo Cole, al final—. Pero vas a parar.
+—No se lo voy a decir —dijo Kal, al final—. Pero vas a parar.
 
 —¿O qué?
 
 —O la próxima vez no voy a ser yo el que encuentre el reporte primero.
 
-Jim no contestó eso. Se fue caminando hacia las carpas sin decir nada más, y Cole se quedó ahí, con el reporte todavía en el bolsillo, preguntándose si acababa de proteger a un amigo o de encubrir exactamente lo que el padre de ese amigo había pasado media vida peleando.
+Jim no contestó eso. Se fue caminando hacia las carpas sin decir nada más, y Kal se quedó ahí, con el reporte todavía en el bolsillo, preguntándose si acababa de proteger a un amigo o de encubrir exactamente lo que el padre de ese amigo había pasado media vida peleando.
 
-Cole no volvió a mencionarlo. Se guardó el reporte de la misma manera en que guardaba todo lo que no sabía todavía cómo iba a costarle.
+Kal no volvió a mencionarlo. Se guardó el reporte de la misma manera en que guardaba todo lo que no sabía todavía cómo iba a costarle.
 
 La emboscada llegó dos días después, en la curva que todos habían dejado de vigilar porque nunca antes había pasado nada ahí.
 
-Cole no recordaba el ruido completo — solo fragmentos: el camino abriéndose, Russ gritando algo sobre la pierna, Garrett tirándose detrás de una roca que no alcanzaba a cubrirlo del todo, y Jim, a dos metros de él, cayendo de una manera que Cole reconoció antes de que su cabeza terminara de procesar por qué.
+Kal no recordaba el ruido completo — solo fragmentos: el camino abriéndose, Russ gritando algo sobre la pierna, Garrett tirándose detrás de una roca que no alcanzaba a cubrirlo del todo, y Jim, a dos metros de él, cayendo de una manera que Kal reconoció antes de que su cabeza terminara de procesar por qué.
 
-Lo arrastró detrás del mismo camión donde antes le había dicho lo de la madera de padre. La metralla le había abierto el costado de una forma que Cole no necesitaba ser médico para entender.
+Lo arrastró detrás del mismo camión donde antes le había dicho lo de la madera de padre. La metralla le había abierto el costado de una forma que Kal no necesitaba ser médico para entender.
 
 —No le digas nada a mi padre —dijo Jim, con la voz ya más aire que palabra—. De lo que hice. Se avergonzaría de mí.
 
-—Tu padre estaría orgulloso de ti por reconocerlo —dijo Cole, sosteniéndole la cabeza.
+—Tu padre estaría orgulloso de ti por reconocerlo —dijo Kal, sosteniéndole la cabeza.
 
 —Júramelo. Que nunca se lo vas a decir.
 
-—Tienes mi palabra. —Cole no supo de dónde le salió la calma con la que lo dijo—. Pero no hace falta. Vas a estar bien.
+—Tienes mi palabra. —Kal no supo de dónde le salió la calma con la que lo dijo—. Pero no hace falta. Vas a estar bien.
 
 Jim sonrió, apenas, con la clase de sonrisa que ya no le pedía nada al cuerpo.
 
 —Papá tenía razón —dijo—. Nunca supiste mentir.
 
-Cole volvió al presente con el sonido de un pájaro que no debería estar en un cementerio en esa época del año, y la espalda de Walt todavía de pie, todavía leyendo la misma fecha.
+Kal volvió al presente con el sonido de un pájaro que no debería estar en un cementerio en esa época del año, y la espalda de Walt todavía de pie, todavía leyendo la misma fecha.
 
 Walt no se arrodilló. No lloró, al menos no de la manera que se nota desde lejos. Se quedó de pie, quieto, con los hombros un poco más caídos de lo que estaban esa mañana, leyendo una fecha que le decía todo lo que nadie le había dicho todavía.
 
 —¿Cuándo? —preguntó, sin voltear.
 
-—Hace más de cuatro años —dijo Cole—. Afganistán.
+—Hace más de cuatro años —dijo Kal—. Afganistán.
 
 —¿Tú estabas?
 
@@ -676,17 +676,17 @@ Walt se quedó callado un momento largo.
 
 —¿Fue rápido?
 
-Cole tardó en contestar.
+Kal tardó en contestar.
 
 —Sí.
 
 No lo era del todo, y los dos lo sabían, y ninguno de los dos iba a discutirlo ahí parado.
 
-Walt se agachó, por fin, y tocó la tierra con dos dedos — el mismo gesto que le había hecho a Cole en la mejilla esa mañana, cerca de la cicatriz, sin llegar a tocarla.
+Walt se agachó, por fin, y tocó la tierra con dos dedos — el mismo gesto que le había hecho a Kal en la mejilla esa mañana, cerca de la cicatriz, sin llegar a tocarla.
 
 —Nadie me lo dijo en diez años —dijo, todavía sin levantar la vista—. Y ahora que salgo, resulta que llevaba más de cuatro años sabiéndolo el mundo entero menos yo.
 
-—Te lo iba a decir yo —dijo Cole—. Hoy. En algún momento del día.
+—Te lo iba a decir yo —dijo Kal—. Hoy. En algún momento del día.
 
 —¿Por qué no en la cárcel?
 
@@ -700,7 +700,7 @@ Cuando Walt se puso de pie, tenía la cara seca y los ojos rojos, que no eran lo
 
 Nadie tuvo con qué contestarle eso tampoco.
 
-Volvieron al coche en silencio, y Cole condujo de vuelta a la Almendra despacio, sin apuro, dándole al hombre del asiento de atrás todo el tiempo que un camino puede dar.
+Volvieron al coche en silencio, y Kal condujo de vuelta a la Almendra despacio, sin apuro, dándole al hombre del asiento de atrás todo el tiempo que un camino puede dar.
 
 ***
 
@@ -960,6 +960,6 @@ El televisor cambió de imagen. Keene otra vez. La banca. La cinta amarilla.
 
 El espresso se enfrió.
 
-Chiara pensó en Cole Mercer, en la forma en que había dicho *mi nombre va en la factura*, y se obligó a guardar el teléfono antes de preguntarse por qué ese pensamiento había llegado ahí.
+Chiara pensó en Kal Mercer, en la forma en que había dicho *mi nombre va en la factura*, y se obligó a guardar el teléfono antes de preguntarse por qué ese pensamiento había llegado ahí.
 
 La ciudad nueva ya estaba empezando a comportarse como si la conociera.

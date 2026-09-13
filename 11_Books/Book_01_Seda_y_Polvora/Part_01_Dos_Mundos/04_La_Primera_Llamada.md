@@ -1,9 +1,9 @@
 <!--
 Estado: borrador provisional.
-Protagonistas: Chiara Bellandi, Cole Mercer.
+Protagonistas: Chiara Bellandi, Kal Mercer.
 Ventana temporal: dias posteriores a la salida de Walt.
 Lugares: The Monarch Casino & Hotel, La Isla, La Almendra.
-Funcion: mostrar el primer favor bajo la mesa, el error funcional de Blake y la incomodidad de Chiara al aceptar ayuda de Cole.
+Funcion: mostrar el primer favor bajo la mesa, el error funcional de Blake y la incomodidad de Chiara al aceptar ayuda de Kal.
 -->
 
 # Capítulo 4 — La primera llamada
@@ -118,7 +118,7 @@ La frase le molestó porque era correcta.
 
 Chiara no contestó de inmediato.
 
-Aceptar a Cole por debajo no era sólo una decisión práctica. Era contradecir a la mesa del Monarch en su primera semana. Era pedirle un favor a un hombre al que acababan de rechazar y hacerlo antes de saber si ese favor iba a convertirse en deuda.
+Aceptar a Kal por debajo no era sólo una decisión práctica. Era contradecir a la mesa del Monarch en su primera semana. Era pedirle un favor a un hombre al que acababan de rechazar y hacerlo antes de saber si ese favor iba a convertirse en deuda.
 
 —Mándame matrícula, descripción y ubicación exacta.
 
@@ -164,7 +164,7 @@ En la acera se quitó la pulsera. La tela cedió sin resistencia, que era lo peo
 
 El aire de La Isla le pegó en la cara con sal, diésel y música filtrada por muros. Pidió un taxi con una aplicación, pero antes de confirmarlo abrió otro contacto.
 
-No tenía el número de Cole guardado con nombre. Matteo se lo había mandado como quien pasa una herramienta.
+No tenía el número de Kal guardado con nombre. Matteo se lo había mandado como quien pasa una herramienta.
 
 Chiara lo miró en la pantalla dos segundos.
 
@@ -206,7 +206,7 @@ La pausa siguiente fue más larga.
 
 Ella leyó el mensaje de Matteo.
 
-Cole no pidió repetir nada.
+Kal no pidió repetir nada.
 
 —Veinte minutos.
 
@@ -240,7 +240,7 @@ Chiara oyó un portón metálico moverse del otro lado de la llamada.
 
 —Un diagnóstico.
 
-Cole colgó.
+Kal colgó.
 
 Chiara se quedó mirando el teléfono con ganas de insultarlo en italiano y una irritación distinta debajo. No era que le hubieran negado control. Era que él había actuado como si el control pudiera esperar veinte minutos sin que el mundo se terminara.
 
@@ -250,17 +250,17 @@ Le sirvió.
 
 ***
 
-Cole llegó al Monarch en una grúa azul, no en el Peugeot.
+Kal llegó al Monarch en una grúa azul, no en el Peugeot.
 
 La grúa no tenía nada elegante. Por eso funcionaba. El guardia de la entrada de carga la vio entrar, leyó el logo de Almendra Towing y decidió que aquello era explicación suficiente. El mundo legal estaba lleno de objetos que venían con permiso incorporado: uniformes, carpetas, llaves maestras, camiones de mantenimiento.
 
-Cole bajó con una tabla de trabajo en la mano.
+Kal bajó con una tabla de trabajo en la mano.
 
 Varga estaba junto a un Mercedes gris, gritando hacia dos guardias que no sabían si contenerlo o dejar que se cansara. Era de esos hombres que usaban el saco abierto para demostrar que no tenían miedo de arrugarlo. Tenía el cuello rojo, la voz húmeda y un teléfono levantado hacia la cara de quien se atreviera a respirar cerca.
 
 —Esto es robo —decía—. Esto es secuestro de propiedad.
 
-Cole no habló con él primero.
+Kal no habló con él primero.
 
 Fue con el guardia más viejo.
 
@@ -274,17 +274,17 @@ El hombre señaló hacia una puerta.
 
 —¿Quién es usted?
 
-Cole le mostró una hoja.
+Kal le mostró una hoja.
 
 —El que va a quitar el coche antes de que su jefe tenga que explicar por qué carga no carga.
 
-El guardia miró la hoja sin leerla. Eso era lo que Cole esperaba.
+El guardia miró la hoja sin leerla. Eso era lo que Kal esperaba.
 
 Varga se acercó.
 
 —Ese coche es mío.
 
-Cole miró el Mercedes.
+Kal miró el Mercedes.
 
 —Sí.
 
@@ -294,7 +294,7 @@ Cole miró el Mercedes.
 
 —Eso es mentira.
 
-Cole señaló la línea amarilla bajo la llanta.
+Kal señaló la línea amarilla bajo la llanta.
 
 —La pintura también?
 
@@ -304,7 +304,7 @@ Varga levantó el teléfono.
 
 —Perfecto.
 
-El hombre dudó. La gente que grababa esperaba miedo o enojo. Cole le dio utilidad.
+El hombre dudó. La gente que grababa esperaba miedo o enojo. Kal le dio utilidad.
 
 —Diga su nombre completo y confirme que se niega a retirar el vehículo de una ruta de carga marcada. Así me ahorra dos firmas.
 
@@ -316,7 +316,7 @@ Varga bajó el teléfono medio centímetro.
 
 Uno de los guardias tosió para esconder una risa.
 
-Varga volteó hacia él. Error. Cole ya estaba junto a la rueda, agachado, revisando ángulo y altura.
+Varga volteó hacia él. Error. Kal ya estaba junto a la rueda, agachado, revisando ángulo y altura.
 
 —No lo toca.
 
@@ -324,7 +324,7 @@ Varga volteó hacia él. Error. Cole ya estaba junto a la rueda, agachado, revis
 
 —No tengo las llaves.
 
-Cole levantó la vista.
+Kal levantó la vista.
 
 —Pensé que era suyo.
 
@@ -332,7 +332,7 @@ La frase no sonó fuerte. No hizo falta. El guardia más joven miró al suelo.
 
 La puerta de servicio se abrió. Matteo salió con la cara de quien venía a arreglar una escena que ya estaba siendo arreglada por alguien que no debería estar ahí. Detrás de él, Chiara apareció con un abrigo negro sobre los hombros y el bolso en la mano.
 
-Cole la vio, pero no cambió de ritmo.
+Kal la vio, pero no cambió de ritmo.
 
 —Señor Mercer —dijo Matteo.
 
@@ -340,13 +340,13 @@ Cole la vio, pero no cambió de ritmo.
 
 Matteo miró a Chiara.
 
-Ella tomó la pluma de Cole y firmó en el cuadro correcto sin preguntar si podía. Él la dejó.
+Ella tomó la pluma de Kal y firmó en el cuadro correcto sin preguntar si podía. Él la dejó.
 
 Varga la reconoció.
 
 —Usted. Quiero hablar con Varek.
 
-Chiara le devolvió la pluma a Cole.
+Chiara le devolvió la pluma a Kal.
 
 —No.
 
@@ -354,13 +354,13 @@ Chiara le devolvió la pluma a Cole.
 
 —Acabo de hacerlo.
 
-Cole bajó el gancho.
+Kal bajó el gancho.
 
 El Mercedes subió de atrás con un quejido limpio. La escena perdió volumen al instante. Un coche levantado ya no era amenaza: era trámite.
 
 Varga dio dos pasos hacia la grúa.
 
-Cole se colocó entre él y el gancho.
+Kal se colocó entre él y el gancho.
 
 —No lo haga.
 
@@ -368,11 +368,11 @@ Cole se colocó entre él y el gancho.
 
 —Le estoy ahorrando vergüenza.
 
-Chiara vio a Varga medir a Cole y elegir seguir viviendo en una versión donde él no había retrocedido por miedo. Varga guardó el teléfono.
+Chiara vio a Varga medir a Kal y elegir seguir viviendo en una versión donde él no había retrocedido por miedo. Varga guardó el teléfono.
 
 —Esto no se queda así.
 
-—Nunca se queda nada como uno quiere —dijo Cole.
+—Nunca se queda nada como uno quiere —dijo Kal.
 
 Subió a la grúa.
 
@@ -380,7 +380,7 @@ Chiara caminó hasta la ventana del conductor antes de que arrancara.
 
 —Le pregunté cuánto cobra.
 
-Cole apoyó el antebrazo en la puerta.
+Kal apoyó el antebrazo en la puerta.
 
 —Tarifa de remolque. Nocturna. Más espera si el dueño sigue actuando.
 
@@ -392,7 +392,7 @@ Ella sostuvo la mirada.
 
 —No me haga eso.
 
-Cole no fingió no entender.
+Kal no fingió no entender.
 
 —Mañana le mando factura.
 
@@ -404,7 +404,7 @@ La palabra le quitó el enojo más rápido de lo que habría querido. Enseñable
 
 —Gracias —dijo, y le costó.
 
-Cole lo notó. Tuvo la decencia de no sonreír.
+Kal lo notó. Tuvo la decencia de no sonreír.
 
 —Buenas noches, señora Bellandi.
 
@@ -432,9 +432,9 @@ Era la primera vez que quedaba del otro lado.
 
 ***
 
-Cole dejó el Mercedes en un corralón privado a cuatro calles de la Almendra y no volvió directo al taller.
+Kal dejó el Mercedes en un corralón privado a cuatro calles de la Almendra y no volvió directo al taller.
 
-Pasó por La Esquina de Mabel, aunque ya estaba cerrada. La luz de la cocina seguía prendida. Mabel no abrió. Sólo apareció detrás del vidrio, le enseñó una taza y negó con la cabeza. Cole levantó la mano. No quería café. Quería comprobar que el barrio seguía donde lo había dejado.
+Pasó por La Esquina de Mabel, aunque ya estaba cerrada. La luz de la cocina seguía prendida. Mabel no abrió. Sólo apareció detrás del vidrio, le enseñó una taza y negó con la cabeza. Kal levantó la mano. No quería café. Quería comprobar que el barrio seguía donde lo había dejado.
 
 Cuando llegó al patio, Nadir estaba sentado sobre el cofre de un Civic sin motor.
 
@@ -444,7 +444,7 @@ Cuando llegó al patio, Nadir estaba sentado sobre el cofre de un Civic sin moto
 
 —¿Eso es sí?
 
-Cole bajó de la grúa.
+Kal bajó de la grúa.
 
 —Eso es Mercedes.
 
@@ -456,25 +456,25 @@ Nadir lo siguió hasta la oficina.
 
 —Peor.
 
-Cole dejó la tabla de trabajo en el escritorio.
+Kal dejó la tabla de trabajo en el escritorio.
 
 Nadir se recargó en el marco de la puerta.
 
 —¿Ella llamó?
 
-Cole abrió un cajón, sacó una libreta y anotó matrícula, hora y nombre.
+Kal abrió un cajón, sacó una libreta y anotó matrícula, hora y nombre.
 
 —El problema llamó.
 
 —Qué bonito, wallah. ¿Traía acento?
 
-Cole levantó la vista.
+Kal levantó la vista.
 
 Nadir sonrió.
 
 —Ya, ya. Mercedes.
 
-Cole volvió a escribir.
+Kal volvió a escribir.
 
 El teléfono vibró.
 
@@ -482,7 +482,7 @@ Un mensaje de un número sin nombre:
 
 **La factura completa. Por favor.**
 
-Cole miró la pantalla.
+Kal miró la pantalla.
 
 Luego guardó el contacto como **Bellandi**.
 

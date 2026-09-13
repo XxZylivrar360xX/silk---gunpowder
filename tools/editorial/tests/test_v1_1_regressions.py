@@ -41,7 +41,7 @@ class V11RegressionTest(unittest.TestCase):
         self.assertEqual(len(estimate.narrative_segments), 1)
 
     def test_single_long_intervention_is_never_high(self) -> None:
-        text = "—" + " ".join(["palabra"] * 70) + " —Cole dijo esto muy despacio.— Fin."
+        text = "—" + " ".join(["palabra"] * 70) + " —Kal dijo esto muy despacio.— Fin."
         _, alerts = dialogue.analyze(document_for(text), CONFIG)
         intervention = next(alert for alert in alerts if alert.check_id == "LONG_DIALOGUE_INTERVENTION")
         self.assertEqual(intervention.severity, "medium")
@@ -49,7 +49,7 @@ class V11RegressionTest(unittest.TestCase):
 
     def test_two_long_interventions_raise_compound_high(self) -> None:
         speech = "—" + " ".join(["palabra"] * 65) + "."
-        text = f"{speech}\n\nCole dejó el vaso.\n\n{speech}"
+        text = f"{speech}\n\nKal dejó el vaso.\n\n{speech}"
         _, alerts = dialogue.analyze(document_for(text), CONFIG)
         cluster = next(alert for alert in alerts if alert.check_id == "LONG_DIALOGUE_CLUSTER")
         self.assertEqual(cluster.severity, "high")

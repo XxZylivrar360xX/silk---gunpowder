@@ -17,7 +17,7 @@ Leah Park no es una hacker mágica. Es la persona que vuelve el mundo más estre
 
 Trabaja con teléfonos, dispositivos incautados, cámaras, metadatos, lectores de placas, comunicaciones, ubicaciones, respaldos olvidados y errores ajenos.
 
-Su peligro para Cole es indirecto: él puede ser disciplinado, pero la gente alrededor de él no siempre lo es.
+Su peligro para Kal es indirecto: él puede ser disciplinado, pero la gente alrededor de él no siempre lo es.
 
 ---
 
@@ -37,11 +37,11 @@ Leah no rompe puertas digitales imposibles. Acumula restos:
 
 - [[03_Factions/Fuerza_de_Tarea_Meridian]] — crimen digital y vigilancia técnica.
 - [[02_Characters/Priya_Nair]] — convierte datos sueltos en patrones útiles.
-- [[02_Characters/Mara_Ellison]] — reduce los lugares donde Cole pudo desaparecer.
-- [[02_Characters/Cole_Mercer]] — amenaza por periferia: no lo caza por su error, sino por el de otros.
+- [[02_Characters/Mara_Ellison]] — reduce los lugares donde Kal pudo desaparecer.
+- [[02_Characters/Kal_Mercer]] — amenaza por periferia: no lo caza por su error, sino por el de otros.
 
 ---
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** qué error digital comete alguien cercano a Cole y cuánto cuesta.
+> **PENDIENTE:** qué error digital comete alguien cercano a Kal y cuánto cuesta.

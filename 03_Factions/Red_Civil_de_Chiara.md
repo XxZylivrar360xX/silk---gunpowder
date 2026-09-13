@@ -24,7 +24,7 @@ Eso la vuelve útil.
 
 ## La doctrina de Chiara
 
-Chiara entiende algo que Cole tarda en aprender:
+Chiara entiende algo que Kal tarda en aprender:
 
 > **Los conflictos no se ganan reteniendo información. Se ganan direccionándola.**
 
@@ -133,23 +133,23 @@ Tres capas de cobertura a la vez, y ninguna parece cobertura:
 
 > **Nota de uso:** el ejemplo es sólo ilustrativo, para fijar formato y tono. El contenido real de cada papelito lo decide el autor según la escena.
 
-> **PENDIENTE:** quién le enseñó latín a Chiara con la precisión necesaria para que esto funcione como cifrado real y no como adorno — probablemente algo de su educación católica en Palermo. Y si alguna vez alguien fuera de la red reconoce el papel, el aroma o la letra sin que ella se lo esperara, qué tan grave es el daño — es la misma vulnerabilidad de fondo que ya tiene la carta que algún día reciba Cole.
+> **PENDIENTE:** quién le enseñó latín a Chiara con la precisión necesaria para que esto funcione como cifrado real y no como adorno — probablemente algo de su educación católica en Palermo. Y si alguna vez alguien fuera de la red reconoce el papel, el aroma o la letra sin que ella se lo esperara, qué tan grave es el daño — es la misma vulnerabilidad de fondo que ya tiene la carta que algún día reciba Kal.
 
 **El primer sussurro es [[02_Characters/Kenji_Oda]].** Chiara lo conoce en el evento altruista y le ofrece empleo como gerente de caja del [[03_Factions/El_Casino]] por su capacidad para manejar situaciones complicadas y su creatividad. Una vez que ya lleva tiempo trabajando con ella, se lo propone con sutileza — nunca como oferta formal, y probablemente en esa misma frase a medio italiano.
 
 ### El cifrado dentro del cifrado: Roma — CANON DEL AUTOR (2026-08-26)
 
-**ROMA es AMOR al revés.** No es invención de la novela — es un juego de palabras real, del tipo que a Chiara le encantaría encontrar y quedarse. Lo adopta como su nombre en clave para [[02_Characters/Cole_Mercer]], mucho antes de que ninguno de los dos diga nada abierto.
+**ROMA es AMOR al revés.** No es invención de la novela — es un juego de palabras real, del tipo que a Chiara le encantaría encontrar y quedarse. Lo adopta como su nombre en clave para [[02_Characters/Kal_Mercer]], mucho antes de que ninguno de los dos diga nada abierto.
 
-La frase exacta, en latín correcto, es **ROMA ATRII** — *Roma* (nominativo, la clave) más *atrii*, genitivo de *atrium* (el patio romano): **"la Roma del Atrio"**, su versión de "el amor del Patio". Y sí va escrita: encabeza el papel, arriba del mensaje cifrado, como quien pone un destinatario. Escrita en latín, la frase no delata nada — quien la intercepte, en el peor de los casos, lee dos palabras muertas que no significan nada sin la clave. Es cobertura operativa perfecta y, al mismo tiempo, **la primera vez que Chiara llama a Cole algo parecido a lo que siente, sin que él lo sepa nunca en el momento**: literalmente lleva su apodo secreto en la mano y no puede leerlo.
+La frase exacta, en latín correcto, es **ROMA ATRII** — *Roma* (nominativo, la clave) más *atrii*, genitivo de *atrium* (el patio romano): **"la Roma del Atrio"**, su versión de "el amor del Patio". Y sí va escrita: encabeza el papel, arriba del mensaje cifrado, como quien pone un destinatario. Escrita en latín, la frase no delata nada — quien la intercepte, en el peor de los casos, lee dos palabras muertas que no significan nada sin la clave. Es cobertura operativa perfecta y, al mismo tiempo, **la primera vez que Chiara llama a Kal algo parecido a lo que siente, sin que él lo sepa nunca en el momento**: literalmente lleva su apodo secreto en la mano y no puede leerlo.
 
-> **AUTOR — arco reservado, se suma al de "Las cartas" en [[02_Characters/Chiara_Bellandi]]:** el agente no resuelve la revelación del cifrado. Cole no sabe italiano ni latín en este punto de la novela ([[06_Relationships/Cole_y_Chiara]] fija que empieza a aprender italiano *después*, y nunca lo domina), así que "Roma Atrii" no le dice nada — sólo le suena raro, un nombre que no reconoce en su propio territorio. En [[07_Ideas/El_Chico_Del_Patio]] él llega a preguntar qué significa y Chiara se lo niega ("Todavía no"); el pago real queda fijado para el cumpleaños de Chiara, 23 de noviembre — detalle todavía por confirmar con el autor.
+> **AUTOR — arco reservado, se suma al de "Las cartas" en [[02_Characters/Chiara_Bellandi]]:** el agente no resuelve la revelación del cifrado. Kal no sabe italiano ni latín en este punto de la novela ([[06_Relationships/Kal_y_Chiara]] fija que empieza a aprender italiano *después*, y nunca lo domina), así que "Roma Atrii" no le dice nada — sólo le suena raro, un nombre que no reconoce en su propio territorio. En [[07_Ideas/El_Chico_Del_Patio]] él llega a preguntar qué significa y Chiara se lo niega ("Todavía no"); el pago real queda fijado para el cumpleaños de Chiara, 23 de noviembre — detalle todavía por confirmar con el autor.
 
 El mensajero también lleva la frase como contraseña hablada — la repite sin entenderla, tal como la memorizó — para poder preguntar por el destinatario si hace falta antes de entregar el papel.
 
 ### Regla dura — nunca menores, desde "el chico del Patio"
 
-**Chiara no usa menores como mensajeros de i Sussurri.** Al principio no es una regla: es sólo el recurso más práctico para mover un papel sin llamar la atención, un chico o chica del barrio, invisible, barato, rápido. Deja de serlo la tarde en que uno de ellos, buscando a "Roma del Patio" sin saber que es Cole, termina interceptado por el propio Cole cerca de [[03_Factions/Almendra_Towing|El Patio]]. Boceto completo de la escena y de por qué le pega tan hondo en [[07_Ideas/El_Chico_Del_Patio]].
+**Chiara no usa menores como mensajeros de i Sussurri.** Al principio no es una regla: es sólo el recurso más práctico para mover un papel sin llamar la atención, un chico o chica del barrio, invisible, barato, rápido. Deja de serlo la tarde en que uno de ellos, buscando a "Roma del Patio" sin saber que es Kal, termina interceptado por el propio Kal cerca de [[03_Factions/Almendra_Towing|El Patio]]. Boceto completo de la escena y de por qué le pega tan hondo en [[07_Ideas/El_Chico_Del_Patio]].
 
 A partir de ahí queda fija: **i Sussurri recluta sólo adultos que entienden en qué están entrando.** Es la primera regla que la red gana por un error, no por diseño.
 
@@ -189,9 +189,9 @@ Su valor es que sabe qué cambió.
 
 ---
 
-## Cómo se lo enseña a Cole
+## Cómo se lo enseña a Kal
 
-Cole funciona por acumulación: favor, deuda, nombre, cara, puerta, ruta.
+Kal funciona por acumulación: favor, deuda, nombre, cara, puerta, ruta.
 
 Eso lo vuelve extraordinario cuando la escala es barrio. Pero cuando la organización crece, la misma virtud lo sobrecarga. Empieza a tener demasiada información viva y todas parecen urgentes.
 
@@ -203,7 +203,7 @@ Chiara le enseña tres reglas:
 
 Ahí la mancuerna queda completa:
 
-| Cole | Chiara |
+| Kal | Chiara |
 |---|---|
 | sabe quién puede hacer algo | decide quién debe enterarse |
 | ejecuta consecuencias | administra dirección |
@@ -216,7 +216,7 @@ Ahí la mancuerna queda completa:
 
 - Mabel oye que una banda dejó de mandar a sus niños a cierta escuela. Chiara entiende que viene violencia.
 - Un valet reconoce el coche de un concejal frente a un restaurante equivocado. Chiara no publica: filtra a su rival.
-- Una cajera comenta que los Bravos están pagando con billetes chicos y nerviosos. Cole cree que es pobreza; Chiara entiende que alguien les cortó flujo.
+- Una cajera comenta que los Bravos están pagando con billetes chicos y nerviosos. Kal cree que es pobreza; Chiara entiende que alguien les cortó flujo.
 - Una enfermera menciona heridas repetidas sin reporte. Chiara conecta a [[02_Characters/Owen_Kincaid]] antes que la policía.
 - Una esposa de donante dice que Dario canceló una mesa. Chiara sabe que si Dario cancela, no es agenda: es crisis.
 
@@ -235,7 +235,7 @@ Ahí la mancuerna queda completa:
 
 - Si todos hablan con Chiara, la red se vuelve inverosímil. Debe haber gente que no confía en ella.
 - Si Chiara siempre interpreta bien, se vuelve omnisciente. Debe equivocarse cuando el dato es correcto pero la dirección emocional es falsa.
-- Si Cole obedece todo lo que ella dice, pierde filo. Debe resistirse porque para él soltar información se siente como perder control.
+- Si Kal obedece todo lo que ella dice, pierde filo. Debe resistirse porque para él soltar información se siente como perder control.
 - Si una fuente civil muere o queda expuesta, debe pesar. La red no puede ser gratis.
 
 ---
@@ -253,10 +253,10 @@ Ahí la mancuerna queda completa:
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** decidir el primer rumor civil que Chiara direcciona para enseñarle a Cole el método.
+> **PENDIENTE:** decidir el primer rumor civil que Chiara direcciona para enseñarle a Kal el método.
 
 > **PENDIENTE:** decidir qué error de interpretación comete Chiara para que la red no parezca infalible.
 
 > **PENDIENTE:** si Mabel termina amenazada por Dario, protegida por El Patio o usada por Meridian.
 
-Ver también: [[05_Locations/Vida_Civil_de_San_Aurelio]] · [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Cole_Mercer]] · [[03_Factions/El_Faro]]
+Ver también: [[05_Locations/Vida_Civil_de_San_Aurelio]] · [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Kal_Mercer]] · [[03_Factions/El_Faro]]

@@ -24,31 +24,31 @@ Niveles:
 
 | Personaje | Prioridad | Desarrollo estimado | Fases |
 |---|---:|---:|---|
-| [[02_Characters/Cole_Mercer]] | A | 100% | 0-V |
+| [[02_Characters/Kal_Mercer]] | A | 100% | 0-V |
 | [[02_Characters/Chiara_Bellandi]] | A | 100% | 0-V |
-| [[06_Relationships/Cole_y_Chiara]] | A | 100% | 0-V |
+| [[06_Relationships/Kal_y_Chiara]] | A | 100% | 0-V |
 
 **Comentario:** no hay libro si estos tres motores no mandan. La relación es una entidad narrativa, no una subtrama.
 
 ---
 
-## Círculo Íntimo De Cole
+## Círculo Íntimo De Kal
 
 | Personaje | Prioridad | Desarrollo estimado | Fases | Uso |
 |---|---:|---:|---|---|
 | [[02_Characters/Hector_Navarro]] | B | 70% | 0-V | figura paterna, autoridad emocional |
-| [[02_Characters/Nadir_Amrani]] | B | 65% | 0-IV | mejor amigo, deuda invertida, vulnerabilidad de Cole |
-| [[02_Characters/Walter_Keegan]] | B | 55% | I-III | memoria del padre, identidad de Cole |
+| [[02_Characters/Nadir_Amrani]] | B | 65% | 0-IV | mejor amigo, deuda invertida, vulnerabilidad de Kal |
+| [[02_Characters/Walter_Keegan]] | B | 55% | I-III | memoria del padre, identidad de Kal |
 | [[02_Characters/Marisol_Grayson]] | B | 60% | I-V | termómetro moral |
 | [[02_Characters/Michael_Grayson]] | E | 25% | 0-I | muerto que deja a Marisol |
 | [[02_Characters/Daniel_Hayes]] | C | 25% | I-III | barrio, testigo humano |
 
-**Riesgo:** Héctor, Nadir, Walt y Marisol compiten por la misma función de “quien ve a Cole”. Hay que diferenciarlos:
+**Riesgo:** Héctor, Nadir, Walt y Marisol compiten por la misma función de “quien ve a Kal”. Hay que diferenciarlos:
 
 - Héctor: padre elegido.
 - Nadir: amigo que no le debe la vida moralmente, porque lo ayudó primero.
 - Walt: pasado de Dale / origen.
-- Marisol: futuro que Cole intenta no contaminar.
+- Marisol: futuro que Kal intenta no contaminar.
 
 ---
 
@@ -65,7 +65,7 @@ Niveles:
 | Veterano de El Faro | C | 35% | III-V | conciencia del diario |
 | Joven periodista de El Faro | C | 35% | III-V | aprendiz, futuro del relato |
 
-**Riesgo:** falta todavía el pequeño equipo periodístico de Chiara. El lado de Cole ya tiene mucha gente con nombre; el lado de Chiara ya tiene médica y red civil, pero necesita mínimo dos periodistas para que su poder no parezca sólo talento individual.
+**Riesgo:** falta todavía el pequeño equipo periodístico de Chiara. El lado de Kal ya tiene mucha gente con nombre; el lado de Chiara ya tiene médica y red civil, pero necesita mínimo dos periodistas para que su poder no parezca sólo talento individual.
 
 **Nota nueva:** [[02_Characters/Mabel_Ortiz]] no debe crecer a coprotagonista. Su fuerza está en ser constante, reconocible y civil. Si cada rumor importante viene de ella, se vuelve atajo; debe ser nodo principal, no única fuente.
 
@@ -90,7 +90,7 @@ Niveles:
 | [[02_Characters/Mabel_Ortiz]] | C | 35% | I-V | nodo humano; mujer mayor que nota cambios |
 | [[05_Locations/Vida_Civil_de_San_Aurelio]] | B/C | 50% | 0-V | textura civil y fuente de información |
 
-**Comentario:** esta capa es imprescindible para que San Aurelio sea ciudad y no tablero criminal. La red civil explica cómo Chiara escucha antes de publicar, callar o filtrar. También corrige el límite de Cole: él acumula información; ella la direcciona.
+**Comentario:** esta capa es imprescindible para que San Aurelio sea ciudad y no tablero criminal. La red civil explica cómo Chiara escucha antes de publicar, callar o filtrar. También corrige el límite de Kal: él acumula información; ella la direcciona.
 
 ---
 
@@ -100,10 +100,10 @@ Niveles:
 |---|---:|---:|---|---|
 | [[02_Characters/Silas_Crowe]] | B | 55% | 0-II | antagonista inicial de territorio |
 | [[02_Characters/Dario_Varek]] | A/B | 85% | I-IV | antagonista principal de ciudad |
-| [[02_Characters/Warren_Halbrook]] | B | 70% | II-V | verdugo militar de Cole |
+| [[02_Characters/Warren_Halbrook]] | B | 70% | II-V | verdugo militar de Kal |
 | [[02_Characters/Leone_Valenti]] | B | 60% | II-V | Consorcio / Chiara |
 | [[02_Characters/Andrew_Callahan]] | B | 55% | IV-V | los federales como estructura |
-| [[02_Characters/Mara_Ellison]] | B | 60% | IV-V | antagonista personal investigativa de Cole |
+| [[02_Characters/Mara_Ellison]] | B | 60% | IV-V | antagonista personal investigativa de Kal |
 | [[02_Characters/Elena_Vega]] | B | 65% | I-V | ley vs venganza |
 
 **Comentario sincero:** Dario debe ser el antagonista criminal central. Halbrook, Valenti, Vega y Meridian no pueden desplazarlo todos a la vez. Funcionan si cada uno ataca una columna distinta:
@@ -155,12 +155,12 @@ Niveles:
 | Personaje | Prioridad | Desarrollo estimado | Fases | Uso |
 |---|---:|---:|---|---|
 | [[02_Characters/Andrew_Callahan]] | B | 55% | IV-V | comandante RICO, Varek primero |
-| [[02_Characters/Mara_Ellison]] | B | 60% | IV-V | case agent, aprende a Cole |
+| [[02_Characters/Mara_Ellison]] | B | 60% | IV-V | case agent, aprende a Kal |
 | [[02_Characters/Priya_Nair]] | C | 35% | IV-V | patrón, historial oficial roto |
 | [[02_Characters/Nora_Whitcomb]] | C | 35% | IV-V | dinero, Garrett/Cross River |
 | [[02_Characters/Leah_Park]] | C | 25% | IV-V | digital, errores periféricos |
 | [[02_Characters/Victor_Reyes]] | C | 30% | IV-V | informantes |
-| [[02_Characters/Sofia_Alvarez]] | B/C | 45% | IV-V | trata, contradicción moral sobre Cole |
+| [[02_Characters/Sofia_Alvarez]] | B/C | 45% | IV-V | trata, contradicción moral sobre Kal |
 | [[02_Characters/Grant_Maddox]] | C | 25% | IV-V | espejo táctico |
 | [[02_Characters/Nina_Caldwell]] | C | 30% | IV-V | AUSA, cargos federales |
 
@@ -177,7 +177,7 @@ Niveles:
 | Marina "Mack" Calderon / Los Calderos | C | 25% | II-III | primer choque con Almendra |
 | Irene Salcedo / La Ronda | C | 25% | II-IV | tregua tensa |
 | Maya Rios / Cuadra Nueve | C | 30% | II-IV | cantera humana, riesgo moral |
-| Rafe Dominguez / Los Bravos | C | 35% | II-IV | límite violento de Cole |
+| Rafe Dominguez / Los Bravos | C | 35% | II-IV | límite violento de Kal |
 | Evan "Ace" Monroe / Marcadores | C | 25% | I-III | carreras, Tyler |
 | Morris Vale + Pam Rusk / Álamo Salvage | C | 25% | III-IV | norte industrial, activos |
 | Naomi "Nox" Ward / Breakwater Saints | C | 35% | III-V | costa, seguridad de piso, cocaína |
@@ -190,7 +190,7 @@ Niveles:
 
 ### Fase 0 — Antes
 
-**Activos:** Cole, Chiara, Héctor, Nadir, Silas, Dario en sombra, Michael/Marisol, Blake si ya ronda la vida social de Chiara.
+**Activos:** Kal, Chiara, Héctor, Nadir, Silas, Dario en sombra, Michael/Marisol, Blake si ya ronda la vida social de Chiara.
 
 **No introducir todavía:** equipo federal completo, bandas menores completas, fiscalía, Cross River.
 
@@ -198,7 +198,7 @@ Niveles:
 
 ### Fase I — Primer favor
 
-**Activos:** Cole, Chiara, Blake, Dario, Silas, Héctor, Nadir, Danny, Varek como amenaza lateral, Raymond Keene muere o su muerte abre crisis, Elena Vega entra.
+**Activos:** Kal, Chiara, Blake, Dario, Silas, Héctor, Nadir, Danny, Varek como amenaza lateral, Raymond Keene muere o su muerte abre crisis, Elena Vega entra.
 
 **Uso limitado:** Tyler puede aparecer por H9 si confirma la carrera.
 
@@ -210,7 +210,7 @@ Niveles:
 
 **Entradas recomendadas:** Los Calderos, Marcadores de Milla, La Ronda.
 
-**Función:** Cole y Chiara descubren método; la ciudad empieza a reaccionar.
+**Función:** Kal y Chiara descubren método; la ciudad empieza a reaccionar.
 
 ### Fase III — Autonomía
 
@@ -226,11 +226,11 @@ Niveles:
 
 **Entradas recomendadas:** Meridian escalonada, no de golpe.
 
-**Función:** la persecución cambia de escala; Cole ya no es sólo problema local.
+**Función:** la persecución cambia de escala; Kal ya no es sólo problema local.
 
 ### Fase V — La factura
 
-**Activos:** Cole, Chiara, Héctor, Marisol, Dario o su consecuencia, Vega, Callahan/Mara/Sofia, Garrett, Russ, Nadir.
+**Activos:** Kal, Chiara, Héctor, Marisol, Dario o su consecuencia, Vega, Callahan/Mara/Sofia, Garrett, Russ, Nadir.
 
 **Reducir:** bandas menores, patrulleros, técnicos federales, políticos secundarios.
 

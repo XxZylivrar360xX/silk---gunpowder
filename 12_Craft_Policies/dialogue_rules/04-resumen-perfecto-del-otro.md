@@ -9,7 +9,7 @@ Un personaje explica o muestra una herida; el interlocutor la resume en una fras
 
 ## Por que es un problema
 
-Cole y Chiara se leen muy bien, pero su relacion no debe funcionar como traduccion emocional perfecta. Parte del costo es que se aman mejor bajo fuego que en calma. Si se explican con exactitud cada vez, desaparece esa torpeza.
+Kal y Chiara se leen muy bien, pero su relacion no debe funcionar como traduccion emocional perfecta. Parte del costo es que se aman mejor bajo fuego que en calma. Si se explican con exactitud cada vez, desaparece esa torpeza.
 
 ## Como evitarlo
 
@@ -21,4 +21,4 @@ Cole y Chiara se leen muy bien, pero su relacion no debe funcionar como traducci
 
 ## Excepcion
 
-Es valido cuando el vinculo se define por ser visto con una exactitud rara. Chiara devolviendo a Cole al cuadro puede hacerlo en momentos contados. No debe ser el cierre por defecto de toda escena intima.
+Es valido cuando el vinculo se define por ser visto con una exactitud rara. Chiara devolviendo a Kal al cuadro puede hacerlo en momentos contados. No debe ser el cierre por defecto de toda escena intima.

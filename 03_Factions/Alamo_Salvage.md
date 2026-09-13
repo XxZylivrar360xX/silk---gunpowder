@@ -29,7 +29,7 @@ No es una banda de esquina. Es una organización menor con papeles sucios y mano
 
 Creen que limpian lo que la ciudad abandonó. Los Álamos quedó muerto por refinerías cerradas, y alguien tiene que sacar valor de ahí.
 
-Esa lógica los vuelve muy atractivos para [[03_Factions/Cross_River_Consolidated]] cuando Cole empiece a necesitar activos grandes.
+Esa lógica los vuelve muy atractivos para [[03_Factions/Cross_River_Consolidated]] cuando Kal empiece a necesitar activos grandes.
 
 ---
 

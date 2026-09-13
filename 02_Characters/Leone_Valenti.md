@@ -22,7 +22,7 @@ Cuando Leone Valenti dice:
 
 no está expresando una opinión. **Está comunicando una decisión.**
 
-> **DISEÑO:** el apodo es un dato de estructura, no de color. **Nadie en este libro se pone su propio nombre.** A Cole la calle lo bautizó *el Gancho*; a Silas Crowe, *el Tasador*; a Valenti, *Il Consigliere*; y hasta la organización de Cole va a recibir un nombre que él no elige.
+> **DISEÑO:** el apodo es un dato de estructura, no de color. **Nadie en este libro se pone su propio nombre.** A Kal la calle lo bautizó *el Gancho*; a Silas Crowe, *el Tasador*; a Valenti, *Il Consigliere*; y hasta la organización de Kal va a recibir un nombre que él no elige.
 >
 > **La única persona de toda la novela que se nombró a sí misma es Chiara**, el año en que murió su madre. En un libro cuya pregunta es *¿quién tiene derecho a decidir quién soy?*, ella ya la respondió a los diecinueve — y Valenti existe para cobrarle esa respuesta. Ver [[04_Concepts/Quien_Decide_Quien_Soy]].
 
@@ -58,7 +58,7 @@ Chiara construye credibilidad sin gastarla: **nunca miente en lo pequeño**, par
 | …para que la mentira grande sea invisible | …para que la consecuencia sea indiscutible |
 | Acumula credibilidad y la gasta una vez | Acumula cordialidad y la gasta una vez |
 
-**Misma técnica, distinto instrumento.** Él es la sombra de ella, igual que el Tasador es la sombra de Cole.
+**Misma técnica, distinto instrumento.** Él es la sombra de ella, igual que el Tasador es la sombra de Kal.
 
 **Y hay una diferencia que la deja sin arma:** el oficio de Chiara consiste en decidir qué cree la gente. Valenti **no necesita que nadie crea nada.** No hay versión que instalar contra un hombre que ya congeló las cuentas.
 
@@ -105,7 +105,7 @@ Es lo único que dijo cuando escuchó el reporte de la muerte de Alessio Lusardi
 
 > **PENDIENTE:** ¿cuánto de la incomodidad de la mesa con una Ardizzone mujer comparte él, y cuánto sólo administra? Ver [[03_Factions/Il_Consorzio]], "Sus motivaciones".
 
-> **PENDIENTE:** ¿llega a tratar con Cole? Un hombre así frente a un mecánico que resuelve todo con favores es una escena que este libro merece.
+> **PENDIENTE:** ¿llega a tratar con Kal? Un hombre así frente a un mecánico que resuelve todo con favores es una escena que este libro merece.
 
 ---
 

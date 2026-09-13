@@ -1,10 +1,10 @@
 <!--
 Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md).
-Protagonistas: Chiara Bellandi, Cole Mercer, con aparicion breve de Dario Varek.
+Protagonistas: Chiara Bellandi, Kal Mercer, con aparicion breve de Dario Varek.
 Ventana temporal: dias despues del Capitulo 22 (La promesa). Reordenado el 2026-08-29; renumerado varias veces, la ultima el 2026-09-07 al insertar el Capitulo 22 nuevo (La promesa).
 Lugares: The Monarch Casino & Hotel, calles de Paseo Pacifica, Almendra Towing.
 Funcion: ejecutar beats 16 y 17 — un trabajo chico y sucio resuelto juntos, sin nombrarlo como hito (ese titulo lo conserva H5), y Dario notando por primera vez una variacion en Chiara que no viene solo del Monarch.
-Pasada editorial 2026-09-10 (Claude Code, decision del autor): accidente achicado a solo la farola (sin tercer auto danado); logistica de grua unica; certeza del narrador limitada a lo que Cole y Chiara creen haber cerrado; poda de glosas y del encabezado de seccion; "sin ayuda de nadie" precisado a "sin que llegara a los socios". Dialogo protegido intacto.
+Pasada editorial 2026-09-10 (Claude Code, decision del autor): accidente achicado a solo la farola (sin tercer auto danado); logistica de grua unica; certeza del narrador limitada a lo que Kal y Chiara creen haber cerrado; poda de glosas y del encabezado de seccion; "sin ayuda de nadie" precisado a "sin que llegara a los socios". Dialogo protegido intacto.
 -->
 
 # Capítulo 23 — Sin rastro
@@ -13,7 +13,7 @@ La llamada llegó a las tres y once de la madrugada.
 
 —Tengo un problema —dijo Chiara, sin saludo—. Y necesito que sea tuyo antes de que sea del casino.
 
-Cole ya estaba de pie.
+Kal ya estaba de pie.
 
 —Habla.
 
@@ -23,7 +23,7 @@ Cole ya estaba de pie.
 
 —Él no. Nadie más, que yo sepa. —Una pausa, la que usaba cuando estaba ordenando datos más rápido de lo que hablaba—. Pero el valet que le entregó las llaves lo va a pagar si esto se investiga como debería, y las cámaras del lobby lo tienen saliendo tambaleándose a las dos cuarenta y cinco. Si eso llega a alguien que sepa mirar, el Monarch sirvió de más a un hombre que después estrelló un auto. Eso no es un titular. Es una demanda.
 
-Cole ya tenía las llaves de la grúa en la mano.
+Kal ya tenía las llaves de la grúa en la mano.
 
 —Dame la calle.
 
@@ -31,7 +31,7 @@ Cole ya tenía las llaves de la grúa en la mano.
 
 El auto seguía ahí cuando llegó: un sedán alemán con el frente hundido contra la base de la farola, vidrio en la calle, y ni un alma despierta a esa hora salvo un perro que ladraba desde un balcón sin demasiada convicción.
 
-Cole lo miró treinta segundos antes de tocarlo. No para admirar el daño: para decidir la ruta.
+Kal lo miró treinta segundos antes de tocarlo. No para admirar el daño: para decidir la ruta.
 
 Llamó a Danny.
 
@@ -39,9 +39,9 @@ Llamó a Danny.
 
 Danny no las hizo.
 
-Entre los dos subieron el auto a la plataforma en menos de diez minutos, barrieron el vidrio de la calle con una escoba que Cole siempre llevaba en la cabina —*"por si acaso", decía, sin especificar nunca de qué acaso*— y se lo llevaron al taller antes de que el sol empezara a insinuarse detrás de los cerros del norte.
+Entre los dos subieron el auto a la plataforma en menos de diez minutos, barrieron el vidrio de la calle con una escoba que Kal siempre llevaba en la cabina —*"por si acaso", decía, sin especificar nunca de qué acaso*— y se lo llevaron al taller antes de que el sol empezara a insinuarse detrás de los cerros del norte.
 
-Ahí Cole hizo lo que sabía hacer: lo desarmó, lo guardó, y ese auto en particular iba a tardar mucho tiempo en volver a existir en ningún registro que a alguien le interesara consultar.
+Ahí Kal hizo lo que sabía hacer: lo desarmó, lo guardó, y ese auto en particular iba a tardar mucho tiempo en volver a existir en ningún registro que a alguien le interesara consultar.
 
 ***
 
@@ -57,7 +57,7 @@ O eso creían los dos esa mañana.
 
 Se encontraron esa tarde en la oficina de Chiara, los dos con la clase de cansancio que no se nota en la cara pero se siente en cómo alguien se sienta.
 
-—¿El valet? —preguntó Cole.
+—¿El valet? —preguntó Kal.
 
 —Tiene turno normal mañana. Nadie le va a preguntar nada, porque no hay nada que preguntar.
 
@@ -79,7 +79,7 @@ Ninguno de los dos dijo la palabra *sociedad*, ni nada que sonara a algo que hub
 
 —No hay de qué.
 
-Fue Cole quien se fue primero esa vez.
+Fue Kal quien se fue primero esa vez.
 
 ---
 

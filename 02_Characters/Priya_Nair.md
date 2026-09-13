@@ -17,10 +17,10 @@ Priya Nair no porta placa de agente ni entra primero a una redada. Es más pelig
 
 Su función narrativa es descubrir cosas incómodas antes que los investigadores puedan probarlas.
 
-Puede ser la primera persona en sospechar que la historia oficial de Cole no explica a Cole:
+Puede ser la primera persona en sospechar que la historia oficial de Kal no explica a Kal:
 
 - hombres de Varek muertos en patrones demasiado limpios;
-- Cole en ciudades donde después desaparecieron traficantes;
+- Kal en ciudades donde después desaparecieron traficantes;
 - registros militares incompletos;
 - huecos que parecen borrados, no ausencia normal de datos.
 
@@ -40,10 +40,10 @@ Su peligro es que ve forma antes de que haya caso.
 - [[02_Characters/Andrew_Callahan]] — le da la imagen completa que Callahan necesita para RICO.
 - [[02_Characters/Mara_Ellison]] — alimenta patrones de violencia.
 - [[02_Characters/Sofia_Alvarez]] — cruza desapariciones y víctimas recuperadas.
-- [[02_Characters/Cole_Mercer]] — sospecha que el expediente oficial está mal construido.
+- [[02_Characters/Kal_Mercer]] — sospecha que el expediente oficial está mal construido.
 
 ---
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** cuál dato militar de Cole descubre primero y quién lo borró.
+> **PENDIENTE:** cuál dato militar de Kal descubre primero y quién lo borró.

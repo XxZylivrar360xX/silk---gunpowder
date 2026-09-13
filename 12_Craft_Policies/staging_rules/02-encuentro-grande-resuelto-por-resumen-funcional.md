@@ -6,13 +6,13 @@
 
 ## El patron
 
-Una reunion, amenaza, golpe, persecucion u operacion se explica por su funcion y salta al resultado: "los socios lo rechazaron", "Dario la midio", "Cole resolvio el problema", "la policia llego tarde".
+Una reunion, amenaza, golpe, persecucion u operacion se explica por su funcion y salta al resultado: "los socios lo rechazaron", "Dario la midio", "Kal resolvio el problema", "la policia llego tarde".
 
 La logica esta clara, pero el lector no vive los beats intermedios que hacen visible el costo.
 
 ## Contraste con escenas que si lo resuelven
 
-El primer apreton de manos funciona porque no se resume: Chiara fuma afuera, Cole llega con Matteo, ella lo mira, apaga el cigarro, ofrece la mano, habla en italiano, el contesta de usted. Son pocos beats, pero irreductibles.
+El primer apreton de manos funciona porque no se resume: Chiara fuma afuera, Kal llega con Matteo, ella lo mira, apaga el cigarro, ofrece la mano, habla en italiano, el contesta de usted. Son pocos beats, pero irreductibles.
 
 ## Por que es un problema
 

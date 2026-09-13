@@ -12,7 +12,7 @@
 
 **Consecuencia, vacío de poder, consolidación, renuncia y salida.**
 
-El libro no trata de *descubrir* que Cole y Chiara deberían marcharse — esa decisión ya nació en H22 (Libro II). *Interregno* trata de **hacer posible la salida**.
+El libro no trata de *descubrir* que Kal y Chiara deberían marcharse — esa decisión ya nació en H22 (Libro II). *Interregno* trata de **hacer posible la salida**.
 
 ## Pregunta del libro
 
@@ -20,19 +20,19 @@ El libro no trata de *descubrir* que Cole y Chiara deberían marcharse — esa d
 
 ## Estado de entrada (hereda del cierre del Libro II)
 
-- Dario preso; Halbrook sentenciado por Cole pero vivo al abrir el libro.
+- Dario preso; Halbrook sentenciado por Kal pero vivo al abrir el libro.
 - Héctor y Kenji muertos; Harper viva; Chiara sobrevivió a Santa Lucía.
 - Elenna vive como Elenna Serra con Riley en Italia; la separación ya es larga.
-- Corrado revelado vivo (a Cole; el encuentro con Chiara, pendiente y decisión de ella).
-- Cole y Chiara ya decidieron construir una salida; no pueden ejecutarla aún.
+- Corrado revelado vivo (a Kal; el encuentro con Chiara, pendiente y decisión de ella).
+- Kal y Chiara ya decidieron construir una salida; no pueden ejecutarla aún.
 - San Aurelio con un enorme vacío de poder; todos esperan saber quién gobernará.
 
 ## Estado de salida — imagen final
 
-Palermo. Casa modesta azul, molduras blancas, jardín. Chiara con una copa de vino; Cole preparando la comida; Elenna viviendo con ellos **como hija, no como heredera**.
+Palermo. Casa modesta azul, molduras blancas, jardín. Chiara con una copa de vino; Kal preparando la comida; Elenna viviendo con ellos **como hija, no como heredera**.
 
 > **Chiara:** —No vayas a quemar de nuevo la cocina, amore.
-> **Cole:** —No prometo nada.
+> **Kal:** —No prometo nada.
 
 **FIN DE INTERREGNO. FIN DE LA SAGA.**
 
@@ -40,14 +40,14 @@ Palermo. Casa modesta azul, molduras blancas, jardín. Chiara con una copa de vi
 
 | | Movimiento | Fractura | Aprendizaje |
 |---|---|---|---|
-| **Cole** | `ser indispensable → construir reemplazo → soltar` | Meridian convierte su centralidad en jaula | **Si todo necesita que yo esté, construí una prisión.** — *Ser necesario no es lo mismo que ser amado.* |
+| **Kal** | `ser indispensable → construir reemplazo → soltar` | Meridian convierte su centralidad en jaula | **Si todo necesita que yo esté, construí una prisión.** — *Ser necesario no es lo mismo que ser amado.* |
 | **Chiara** | `hacer desaparecer para proteger → rechazar que otros definan su pertenencia → terminar la ausencia` | Il Consorzio intenta decidir qué significa su sangre y su apellido | **La salida consiste en terminar la ausencia, no en heredar una corona.** |
 
 ## Estructura macro
 
 ### Apertura — ejecución pública de Halbrook
 
-El libro abre con **Cole Mercer ejecutando públicamente a Warren Halbrook** (decisión tomada al final del Libro II). La muerte pública de un Brigadier General destruye la posibilidad de cerrar la crisis como problema local.
+El libro abre con **Kal Mercer ejecutando públicamente a Warren Halbrook** (decisión tomada al final del Libro II). La muerte pública de un Brigadier General destruye la posibilidad de cerrar la crisis como problema local.
 
 > **Meridian entra o escala como respuesta federal.**
 
@@ -55,7 +55,7 @@ No convertir la escena en manual táctico: su función es narrativa, política e
 
 ### Tres frentes que se cruzan
 
-**Cole — Meridian.** La fuerza federal intenta reconstruir y demostrar la estructura causal del poder de Cole: negocios, propiedades, favores, sociedades, aliados, cadáveres, decisiones. El cerco obliga a Cole a **distribuir** lo que centralizó durante años en su persona. Andrew Callahan / comando RICO; su obsesión inicial es Varek, no Cole.
+**Kal — Meridian.** La fuerza federal intenta reconstruir y demostrar la estructura causal del poder de Kal: negocios, propiedades, favores, sociedades, aliados, cadáveres, decisiones. El cerco obliga a Kal a **distribuir** lo que centralizó durante años en su persona. Andrew Callahan / comando RICO; su obsesión inicial es Varek, no Kal.
 
 **Chiara — Il Consorzio.** El vacío de Dario deja a Il Consorzio más libre para presionar, reconocer, reorganizar o disputar San Aurelio. Chiara enfrenta a la institución que pretende definirla como Ardizzone. **No completa su arco heredando una corona italiana ni obteniendo reconocimiento: lo completa rechazando la premisa de que necesita ese reconocimiento.** Corrado aporta conocimiento, contexto y una relación personal imposible de ignorar; **no sustituye a Chiara como protagonista del conflicto ni regresa para ponerla en un trono.**
 
@@ -63,25 +63,25 @@ No convertir la escena en manual táctico: su función es narrativa, política e
 
 ### Ejecución del plan de salida
 
-El plan existe desde H22. En *Interregno* se convierte en arquitectura concreta: delegación, redundancia, separación de funciones, nodos que sobreviven sin supervisión, socios capaces de decidir, una red civil que no dependa de la presencia diaria de Chiara, un Patio que funcione sin Cole.
+El plan existe desde H22. En *Interregno* se convierte en arquitectura concreta: delegación, redundancia, separación de funciones, nodos que sobreviven sin supervisión, socios capaces de decidir, una red civil que no dependa de la presencia diaria de Chiara, un Patio que funcione sin Kal.
 
 Tesis heredada de Héctor: **no sostenerlo con el cuerpo; construirlo para poder dejar de sostenerlo.**
 
-La salida no depende de que Meridian persiga una mentira. La investigación reconstruye una red de contingencias real, vinculada a La Mesa y a la escalada de la Guerra de los Tres, pero llega a ella cuando su arquitectura operativa ya está muerta: mandos, comunicaciones y funciones centrales han sido desactivados. Cole y Chiara no dejan una organización clandestina idéntica detrás del expediente; dejan sistemas distribuidos que ya no requieren su presencia. La red encontrada explica una parte causal de la guerra —la mecha, no toda la pólvora— y absorbe la investigación institucional sin volver inocente a nadie que haya causado daño.
+La salida no depende de que Meridian persiga una mentira. La investigación reconstruye una red de contingencias real, vinculada a La Mesa y a la escalada de la Guerra de los Tres, pero llega a ella cuando su arquitectura operativa ya está muerta: mandos, comunicaciones y funciones centrales han sido desactivados. Kal y Chiara no dejan una organización clandestina idéntica detrás del expediente; dejan sistemas distribuidos que ya no requieren su presencia. La red encontrada explica una parte causal de la guerra —la mecha, no toda la pólvora— y absorbe la investigación institucional sin volver inocente a nadie que haya causado daño.
 
-Contraste obligatorio con Dario: **Dario construyó un sistema donde todo pasaba por Dario; Cole construye uno donde cada vez menos cosas necesitan pasar por Cole.** No pierde ambición: cambia su propósito.
+Contraste obligatorio con Dario: **Dario construyó un sistema donde todo pasaba por Dario; Kal construye uno donde cada vez menos cosas necesitan pasar por Kal.** No pierde ambición: cambia su propósito.
 
 La prensa termina llamándolos **La Mancuerna de Hierro y Seda.** Exterior: permanencia y máximo poder. Interior: arquitectura de salida.
 
 ### Resolución
 
-Meridian cierra el cerco. Il Consorzio pierde la capacidad de decidir quién debe ser Chiara. Corrado completa su arco — comprende que la victoria de su hija no es heredar posición, sino poder abandonar la obligación de ocuparla. El Patio deja de ser idéntico a Cole; la red de Chiara deja de requerir que ella controle cada versión.
+Meridian cierra el cerco. Il Consorzio pierde la capacidad de decidir quién debe ser Chiara. Corrado completa su arco — comprende que la victoria de su hija no es heredar posición, sino poder abandonar la obligación de ocuparla. El Patio deja de ser idéntico a Kal; la red de Chiara deja de requerir que ella controle cada versión.
 
-Cuando su ausencia ya no significa colapso, Cole y Chiara pueden salir. No dejan San Aurelio como derrota moral ni entregan el imperio a Elenna. **Elenna no hereda una dinastía criminal.** Desaparecen de la ciudad juntos y vuelven con su hija.
+Cuando su ausencia ya no significa colapso, Kal y Chiara pueden salir. No dejan San Aurelio como derrota moral ni entregan el imperio a Elenna. **Elenna no hereda una dinastía criminal.** Desaparecen de la ciudad juntos y vuelven con su hija.
 
 ## Bisagra de cierre de saga
 
-`Halbrook ejecutado provoca Meridian; el vacío de Dario activa Il Consorzio; Cole y Chiara vuelven reemplazable su poder y salen hacia Elenna.`
+`Halbrook ejecutado provoca Meridian; el vacío de Dario activa Il Consorzio; Kal y Chiara vuelven reemplazable su poder y salen hacia Elenna.`
 
 ## Límites del libro
 
@@ -94,7 +94,7 @@ Cuando su ausencia ya no significa colapso, Cole y Chiara pueden salir. No dejan
 
 - Construcción exacta del caso Meridian.
 - Estrategia precisa de Il Consorzio durante el libro.
-- Mecanismo concreto de desaparición / salida de Cole y Chiara de San Aurelio.
+- Mecanismo concreto de desaparición / salida de Kal y Chiara de San Aurelio.
 - Colocación fina de la consolidación frente a la escalada federal.
 - Forma final del arco de Corrado y del reencuentro con Chiara.
 

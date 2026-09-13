@@ -22,7 +22,7 @@
     }
   ],
   "should_not_alert_high": [
-    {"id": "deliberate_short_sentence", "text": "Cole pagó la taza."},
+    {"id": "deliberate_short_sentence", "text": "Kal pagó la taza."},
     {"id": "minimal_dialogue", "text": "—Sí."},
     {"id": "isolated_como_si", "text": "La sostuvo como si pesara poco."},
     {"id": "brief_action_sequence", "text": "Corrió. Saltó. Giró. Frenó."}

@@ -2,7 +2,7 @@
 
 *Ficha de Facciones — mapa operativo*
 
-> **CANON DE DISEÑO (2026-08-23):** San Aurelio tiene siete organizaciones menores relevantes para el ascenso de [[02_Characters/Cole_Mercer]]: cuatro en los barrios del sur, dos en el norte y una banda motociclista en la costa. Nadie sostiene territorio criminal permanente en el centro viejo porque ahí se concentran hospitales, Ayuntamiento, juzgados y comisarías.
+> **CANON DE DISEÑO (2026-08-23):** San Aurelio tiene siete organizaciones menores relevantes para el ascenso de [[02_Characters/Kal_Mercer]]: cuatro en los barrios del sur, dos en el norte y una banda motociclista en la costa. Nadie sostiene territorio criminal permanente en el centro viejo porque ahí se concentran hospitales, Ayuntamiento, juzgados y comisarías.
 
 ---
 
@@ -23,9 +23,9 @@ No porque sean puros, sino porque son demasiado densos en instituciones: hospita
 | Sur / Las Calderas | [[03_Factions/Los_Calderos]] | talleres, autopartes, cobros | primer choque natural con Almendra |
 | Sur / Canal Seco | [[03_Factions/La_Ronda_del_Canal]] | bodegas, esquinas, mercado nocturno | muestra el sur como economía informal |
 | Sur / Nueve Puentes | [[03_Factions/Cuadra_Nueve]] | corredores jóvenes, microdistribución | cantera humana y riesgo moral |
-| Sur / Santa Brígida | [[03_Factions/Los_Bravos_de_Santa_Brigida]] | protección, bares, músculo | banda que puede forzar a Cole a disparar |
+| Sur / Santa Brígida | [[03_Factions/Los_Bravos_de_Santa_Brigida]] | protección, bares, músculo | banda que puede forzar a Kal a disparar |
 | Norte / rutas rurales | [[03_Factions/Los_Marcadores_de_Milla]] | carreras, apuestas, pilotos | puente con Tyler y el Peugeot rojo |
-| Norte / Los Álamos | [[03_Factions/Alamo_Salvage]] | chatarra, bodegas, refinerías muertas | infraestructura sucia que Cole puede absorber |
+| Norte / Los Álamos | [[03_Factions/Alamo_Salvage]] | chatarra, bodegas, refinerías muertas | infraestructura sucia que Kal puede absorber |
 | Costa / La Isla | [[03_Factions/Breakwater_Saints_MC]] | motociclistas, seguridad de piso, puertas | controlan clubes antes del flujo de cocaína |
 
 ---
@@ -71,7 +71,7 @@ Su control es miedo de fondo. Les permite pelear entre ellas porque una banda oc
 - les cobra tarde;
 - vuelve sus mercados legibles para [[02_Characters/Garrett_Cross]] y útiles para [[02_Characters/Russell_Whitaker]].
 
-Ahí nace el contraste: Dario permite operar por miedo; Cole permite operar por utilidad. A la larga, ambas cosas son poder.
+Ahí nace el contraste: Dario permite operar por miedo; Kal permite operar por utilidad. A la larga, ambas cosas son poder.
 
 ---
 
@@ -81,9 +81,9 @@ Ahí nace el contraste: Dario permite operar por miedo; Cole permite operar por 
 
 > **PENDIENTE:** cuál banda del sur será el primer ejemplo público de Dario.
 
-> **PENDIENTE:** cuál será el primer abuso de confianza que Cole perdona, negocia y finalmente castiga.
+> **PENDIENTE:** cuál será el primer abuso de confianza que Kal perdona, negocia y finalmente castiga.
 
-> **PENDIENTE:** confirmar si [[03_Factions/Los_Bravos_de_Santa_Brigida]] son quienes empujan a Cole a disparar por primera vez dentro del conflicto urbano.
+> **PENDIENTE:** confirmar si [[03_Factions/Los_Bravos_de_Santa_Brigida]] son quienes empujan a Kal a disparar por primera vez dentro del conflicto urbano.
 
 ---
 

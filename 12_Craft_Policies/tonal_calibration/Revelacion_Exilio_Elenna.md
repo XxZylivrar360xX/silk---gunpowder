@@ -87,7 +87,7 @@ Empieza desde el hecho sencillo de que:
 
 > **Elenna acaba de nacer.**
 
-Cole y Chiara pueden saber perfectamente lo que tendrán que hacer después.
+Kal y Chiara pueden saber perfectamente lo que tendrán que hacer después.
 
 Durante este instante eso todavía no importa.
 
@@ -141,13 +141,13 @@ Es:
 
 > **la posibilidad de una felicidad.**
 
-Cole y Chiara ven por unos minutos una vida que podrían haber tenido.
+Kal y Chiara ven por unos minutos una vida que podrían haber tenido.
 
 ## Imagen central
 
-Elenna toma uno de los dedos de Cole.
+Elenna toma uno de los dedos de Kal.
 
-La mano de Cole:
+La mano de Kal:
 
 - curtida;
 - cansada;
@@ -172,7 +172,7 @@ No sabotear el momento recordándole continuamente al lector que terminará mal.
 
 No convertir cada gesto en símbolo.
 
-Dejar que Cole y Chiara sean simplemente padres durante unos minutos.
+Dejar que Kal y Chiara sean simplemente padres durante unos minutos.
 
 Ese breve periodo de pertenencia debe sentirse auténtico.
 
@@ -199,7 +199,7 @@ Firma:
 
 Esta referencia funciona especialmente para:
 
-- Cole saliendo del hospital;
+- Kal saliendo del hospital;
 - cargar a Elenna;
 - trayecto hacia la pista;
 - la idea silenciosa de que debería estar llevándola a casa.
@@ -218,7 +218,7 @@ Mostrar contradicciones domésticas:
 - comprobar que sigue dormida;
 - reducir la velocidad por un bache.
 
-Cole no está transportando un activo.
+Kal no está transportando un activo.
 
 Está conduciendo con su hija.
 
@@ -249,7 +249,7 @@ No es:
 
 Es:
 
-> **Riley está aquí porque alguna vez Cole decidió salvarla apartándola.**
+> **Riley está aquí porque alguna vez Kal decidió salvarla apartándola.**
 
 Ahora esa decisión antigua se convierte en la seguridad de Elenna.
 
@@ -259,7 +259,7 @@ Riley no debe anunciarse antes.
 
 No debe existir preparación explícita.
 
-Cole espera a otro contacto.
+Kal espera a otro contacto.
 
 Probablemente Ettore.
 
@@ -269,7 +269,7 @@ Cuando ve a Riley, la revelación también es suya.
 
 Dejar espacio al reconocimiento.
 
-Cole ve:
+Kal ve:
 
 - figura;
 - gabardina;
@@ -291,15 +291,15 @@ Esta imagen debe funcionar como rima con el nacimiento.
 
 Al inicio:
 
-> Elenna cierra la mano alrededor del dedo de Cole.
+> Elenna cierra la mano alrededor del dedo de Kal.
 
 En la pista:
 
-> Cole debe retirar ese dedo para poder entregársela a Riley.
+> Kal debe retirar ese dedo para poder entregársela a Riley.
 
 No remarcarlo.
 
-No hacer que Cole piense:
+No hacer que Kal piense:
 
 > horas antes había hecho lo mismo.
 
@@ -329,7 +329,7 @@ Viento.
 
 Distancia.
 
-Cole permaneciendo.
+Kal permaneciendo.
 
 No convertirlo en clímax de acción.
 
@@ -351,7 +351,7 @@ El avión despega.
 
 El plan funciona.
 
-Y Cole queda abajo.
+Y Kal queda abajo.
 
 ---
 
@@ -376,7 +376,7 @@ Su firma:
 
 Funciona para La Almendra.
 
-Cole regresa y descubre:
+Kal regresa y descubre:
 
 - velas;
 - flores blancas;
@@ -389,7 +389,7 @@ Cole regresa y descubre:
 
 Todos creen estar acompañando a un padre cuya hija murió.
 
-Cole sabe que su hija está viva.
+Kal sabe que su hija está viva.
 
 Pero acaba de mandarla lejos.
 
@@ -419,7 +419,7 @@ alguien que toca su hombro;
 
 la calle entera.
 
-Cole no necesita reaccionar inmediatamente.
+Kal no necesita reaccionar inmediatamente.
 
 Cuanto más tarde se rompa, mejor.
 
@@ -429,7 +429,7 @@ Cuanto más tarde se rompa, mejor.
 
 ## Esencia
 
-Después del duelo colectivo de Cole, reducir radicalmente la escala.
+Después del duelo colectivo de Kal, reducir radicalmente la escala.
 
 Chiara.
 
@@ -498,7 +498,7 @@ Firma:
 
 Puede funcionar como referencia para una estructura paralela entre:
 
-- Cole en La Almendra;
+- Kal en La Almendra;
 - Chiara en el hospital;
 - Riley con Elenna;
 - la ciudad continuando;
@@ -645,11 +645,11 @@ El dolor debe aparecer a través de conducta.
 
 Ejemplos de firma:
 
-- Cole tarda demasiado en entregar a Elenna.
+- Kal tarda demasiado en entregar a Elenna.
 - Chiara no consigue mirar el oso.
 - Riley no pide explicaciones.
-- alguien en La Almendra abraza a Cole y él tarda en corresponder.
-- Cole intenta mirar el avión después de que ya desapareció.
+- alguien en La Almendra abraza a Kal y él tarda en corresponder.
+- Kal intenta mirar el avión después de que ya desapareció.
 - Chiara aprieta el listón rosa entre los dedos.
 - Elenna duerme durante algo que está destruyendo a los adultos.
 
@@ -663,7 +663,7 @@ Es una recién nacida.
 
 No sabe:
 
-- quién es Cole;
+- quién es Kal;
 - quién es Chiara;
 - qué significa Italia;
 - qué es San Aurelio;
@@ -688,9 +688,9 @@ Nada más.
 
 ---
 
-# 16. Firma de Cole
+# 16. Firma de Kal
 
-Cole debe sentirse como alguien que todavía puede ejecutar perfectamente un plan mientras emocionalmente deja de saber qué hacer.
+Kal debe sentirse como alguien que todavía puede ejecutar perfectamente un plan mientras emocionalmente deja de saber qué hacer.
 
 Eso es clave.
 

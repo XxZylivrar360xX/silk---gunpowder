@@ -1,33 +1,33 @@
 <!--
 Estado: BORRADOR — tercer capítulo de la Parte II (La Construcción). Pendiente de revisión del autor.
-Protagonistas: Chiara Bellandi (POV único). Apariciones: Cole Mercer.
-Ventana temporal: la noche siguiente a la confrontación del taller del norte (cierre del Cap. 27) y la mañana siguiente. Enganche directo con el final del Cap. 28 (Cole cruza a San Aurelio al amanecer).
+Protagonistas: Chiara Bellandi (POV único). Apariciones: Kal Mercer.
+Ventana temporal: la noche siguiente a la confrontación del taller del norte (cierre del Cap. 27) y la mañana siguiente. Enganche directo con el final del Cap. 28 (Kal cruza a San Aurelio al amanecer).
 Lugares: el loft (la casa recomprada de Dale y Ruth Mercer, diseñada por Chiara; H14). Mezzanine, escalera lateral, balcón conservado.
-Función: CANON DEL AUTOR. Cierra H5 (sección 14 — "La peor noche" / la sudadera como disfraz operativo) y abre H6 — El pacto (secciones 1-4: el regreso golpeado, la conversación, Cole sale "como un diablo" a llamar a Varek).
-- H5 §14: la peor noche de Chiara, en paranoia, sola en el loft. Hace vigilancia de que nadie la haya seguido al barrio. Se pone la sudadera de Cole para que quien mire desde fuera crea que él está en casa. Tradecraft y ternura en el mismo gesto. Reza, SIN ritual (la vela por Cole nace después, tras F4).
-- H6 §1: Cole vuelve golpeado y malherido. NO lo menciona: entra hablando de otra cosa.
+Función: CANON DEL AUTOR. Cierra H5 (sección 14 — "La peor noche" / la sudadera como disfraz operativo) y abre H6 — El pacto (secciones 1-4: el regreso golpeado, la conversación, Kal sale "como un diablo" a llamar a Varek).
+- H5 §14: la peor noche de Chiara, en paranoia, sola en el loft. Hace vigilancia de que nadie la haya seguido al barrio. Se pone la sudadera de Kal para que quien mire desde fuera crea que él está en casa. Tradecraft y ternura en el mismo gesto. Reza, SIN ritual (la vela por Kal nace después, tras F4).
+- H6 §1: Kal vuelve golpeado y malherido. NO lo menciona: entra hablando de otra cosa.
 - H6 §2 — LÍNEAS CANON (intención fija):
-  "— ¿Crees que es así de fácil?" (Cole)
+  "— ¿Crees que es así de fácil?" (Kal)
   "— No es eso. Si te marchas, puedo vivir sin tu presencia, pero ya es algo que me acostumbré a tener en mi vida." (Chiara)
   Chiara NO le reclama; le ofrece la salida sin usar su permanencia como cadena. Es la segunda vez que le ofrece la salida (la primera, H4).
-- H6 §3: la conversación llega a Varek — que la amenazó entre líneas de que su vida era de Darío para dirigir. Cole "no se lo toma nada bien". Apenas lo escucha, baja las escaleras y sale hacia el auto llamando a Varek: "— ¿Nos podemos reunir?" (tres palabras corteses, ni una amenaza).
+- H6 §3: la conversación llega a Varek — que la amenazó entre líneas de que su vida era de Darío para dirigir. Kal "no se lo toma nada bien". Apenas lo escucha, baja las escaleras y sale hacia el auto llamando a Varek: "— ¿Nos podemos reunir?" (tres palabras corteses, ni una amenaza).
 - H6 §3 DISEÑO: lo que lo saca del cuarto corriendo NO es la paliza, ni el ultimátum, ni Nadir de rehén, ni hablar de huir — es que alguien le dijo a ella qué puede y qué no puede hacer. POV Chiara: ella lo ve y lo registra sin nombrarlo (narrador no glosa).
 - H6 §4: Chiara concluye que quedándose no resuelve nada y va tras él. Cierre del capítulo: desde el balcón lo ve salir "a toda velocidad en el coche, como un diablo".
 Regla 5 (se protegen mintiéndose), visible en ambos lados:
-- Cole NO le da el nombre de Halbrook (protege el hilo). Deflecta sin negar cuando ella supone que fue Varek — el capítulo NO resuelve la ironía.
-- Chiara le cuenta lo del taller pero SE GUARDA la tercera línea canon ("si hay que eliminar a Cole, entonces tú vas a hacerlo"). El narrador lo deja ver sin subrayarlo.
+- Kal NO le da el nombre de Halbrook (protege el hilo). Deflecta sin negar cuando ella supone que fue Varek — el capítulo NO resuelve la ironía.
+- Chiara le cuenta lo del taller pero SE GUARDA la tercera línea canon ("si hay que eliminar a Kal, entonces tú vas a hacerlo"). El narrador lo deja ver sin subrayarlo.
 Continuidad:
-- La línea de escalada tras el relato del taller ("A él se lo había dicho... junto a una cama de hospital... A ella se lo había dicho en un galpón helado, sola") se apoya en la siembra del Cap. 26 (DISEÑO 2026-09-10): Dario ya le había dicho a Cole "ni en eso ni en ti" en el hospital (H12) y Cole lo dejó pasar. Lo que lo detona ahora es que Dario se lo dijo a ella, directamente. Si el autor retira la siembra del 26, esta línea se convierte en un simple registro de la ofensa.
-- Registro privado en semilla (pre-H16): calidez de conducta, algún italiano suelto de ella, sin apodos plenos, sin ritual del Ciao. Cole no se pone lírico: ternura = conducta.
+- La línea de escalada tras el relato del taller ("A él se lo había dicho... junto a una cama de hospital... A ella se lo había dicho en un galpón helado, sola") se apoya en la siembra del Cap. 26 (DISEÑO 2026-09-10): Dario ya le había dicho a Kal "ni en eso ni en ti" en el hospital (H12) y Kal lo dejó pasar. Lo que lo detona ahora es que Dario se lo dijo a ella, directamente. Si el autor retira la siembra del 26, esta línea se convierte en un simple registro de la ofensa.
+- Registro privado en semilla (pre-H16): calidez de conducta, algún italiano suelto de ella, sin apodos plenos, sin ritual del Ciao. Kal no se pone lírico: ternura = conducta.
 - La llave del loft que tiene Chiara es informal (noches sueltas). La cajita "oficial" es H16.
 - "Conduce él, siempre".
 -->
 
 # Capítulo 29 — La correa
 
-La sudadera olía a él y a solvente, y a un jabón barato que Cole compraba por caja y que Chiara no habría elegido nunca y que ahora, puesta, le pareció lo más parecido a estar acompañada que iba a conseguir esa noche.
+La sudadera olía a él y a solvente, y a un jabón barato que Kal compraba por caja y que Chiara no habría elegido nunca y que ahora, puesta, le pareció lo más parecido a estar acompañada que iba a conseguir esa noche.
 
-Se la había puesto a las once, cuando entendió que no iba a dormir. La razón que se dio a sí misma era operativa y la sostuvo con las dos manos: si alguien había venido detrás de ella desde el taller —y alguien podía haber venido; había hecho demasiadas preguntas en dos días y las preguntas volvían— y ese alguien miraba el loft desde la calle, tenía que ver una silueta de hombre cruzando delante de una ventana. Tenía que ver que Cole estaba en casa. Así que apagó la luz grande, dejó una lámpara baja encendida en el mezzanine, y cada tanto se paraba y caminaba delante del vidrio con los hombros anchos de la sudadera y las manos en los bolsillos, despacio, como caminaba él.
+Se la había puesto a las once, cuando entendió que no iba a dormir. La razón que se dio a sí misma era operativa y la sostuvo con las dos manos: si alguien había venido detrás de ella desde el taller —y alguien podía haber venido; había hecho demasiadas preguntas en dos días y las preguntas volvían— y ese alguien miraba el loft desde la calle, tenía que ver una silueta de hombre cruzando delante de una ventana. Tenía que ver que Kal estaba en casa. Así que apagó la luz grande, dejó una lámpara baja encendida en el mezzanine, y cada tanto se paraba y caminaba delante del vidrio con los hombros anchos de la sudadera y las manos en los bolsillos, despacio, como caminaba él.
 
 La otra razón no se la dijo. Estaba debajo de la primera, cómoda, y no necesitaba que la nombraran.
 
@@ -51,13 +51,13 @@ Después la miró de arriba abajo —la sudadera, la capucha, los pies descalzos
 
 —Te queda grande.
 
-—Cole.
+—Kal.
 
 —Estoy bien. —Fue a la cocina, abrió el grifo, se echó agua en la cara con las dos manos. El agua bajó rosada por el desagüe—. Es más aparatoso de lo que es.
 
 Tenía el labio partido y reseco, una ceja cerrada con esa cola de sangre seca que dejan las cejas, y se movía como se mueve alguien que cuenta las costillas antes de girar. Chiara no se acercó a tocarlo. Sabía que si lo tocaba él iba a quedarse muy quieto y a dejar que lo revisara, y que ese permiso le iba a costar a él más que los golpes. Así que sacó del cajón el botiquín que había puesto ahí ella misma semanas atrás, lo dejó abierto sobre la barra, y se sentó en un banco al otro lado, lejos, para que él pudiera usarlo solo si prefería.
 
-Cole lo usó solo. Se limpió la ceja con una gasa, mirándose en el reflejo negro de la ventana.
+Kal lo usó solo. Se limpió la ceja con una gasa, mirándose en el reflejo negro de la ventana.
 
 —¿Quién fue.
 
@@ -71,7 +71,7 @@ Lo dijo mirando la ventana, no a ella. Fuera del país, entendió Chiara, sin qu
 
 —Si tienes que hacerlo, lo haces. —Habló con cuidado, poniendo una palabra después de otra—. No voy a ser yo quien te lo reproche. No voy a preguntarte a dónde ni por cuánto.
 
-Cole se dio vuelta. El movimiento le costó y no lo escondió del todo.
+Kal se dio vuelta. El movimiento le costó y no lo escondió del todo.
 
 —¿Crees que es así de fácil?
 
@@ -79,7 +79,7 @@ Cole se dio vuelta. El movimiento le costó y no lo escondió del todo.
 
 No dijo *quédate*. Lo pensó entero y lo dejó sin decir, porque decirlo era ponerle una mano encima, y ella había pasado años atada a alguien por una mano encima y sabía exactamente cómo pesaba del otro lado. Le ofrecía la puerta abierta. Era lo único que podía darle que no fuera una correa más.
 
-Cole la miró un rato largo, con la gasa todavía en la mano, y no contestó a eso. En su cara pasó algo parecido a lo que pasa cuando a un hombre le entregan una cosa que no sabe dónde guardar.
+Kal la miró un rato largo, con la gasa todavía en la mano, y no contestó a eso. En su cara pasó algo parecido a lo que pasa cuando a un hombre le entregan una cosa que no sabe dónde guardar.
 
 —¿Fue Varek? —preguntó Chiara.
 
@@ -91,11 +91,11 @@ Cole la miró un rato largo, con la gasa todavía en la mano, y no contestó a e
 
 ***
 
-Fue ella la que llevó la conversación al taller. No pensaba hacerlo esa noche —él acababa de llegar molido, no era el momento— pero Cole preguntó, con la voz plana de quien ya sabe media respuesta, qué había hecho ella los dos días que él estuvo sin dar señales. Y Chiara no sabía mentirle a él en lo chico. En lo grande sí; en lo chico se le trababa.
+Fue ella la que llevó la conversación al taller. No pensaba hacerlo esa noche —él acababa de llegar molido, no era el momento— pero Kal preguntó, con la voz plana de quien ya sabe media respuesta, qué había hecho ella los dos días que él estuvo sin dar señales. Y Chiara no sabía mentirle a él en lo chico. En lo grande sí; en lo chico se le trababa.
 
 Le contó que lo había buscado. Que había preguntado en el casino hasta que las preguntas empezaron a volver por el lado equivocado. Que había seguido a Varek al norte, al galpón de los coches, con una historia lista sobre un auto averiado.
 
-Cole dejó la gasa.
+Kal dejó la gasa.
 
 —¿Fuiste sola al taller del norte. A ver a Varek.
 
@@ -109,13 +109,13 @@ Y se guardó la última. La que no era una amenaza contra ella sino una instrucc
 
 —Me dejó claro —terminó— que él considera que con quién ceno y con quién no ceno es una decisión suya.
 
-Cole se quedó muy quieto. A él se lo había dicho de pie junto a una cama de hospital, con las armas todavía calientes, y lo había dejado pasar como se deja pasar a un hombre que marca una pared. A ella se lo había dicho en un galpón helado, sola, a kilómetros de cualquier sitio.
+Kal se quedó muy quieto. A él se lo había dicho de pie junto a una cama de hospital, con las armas todavía calientes, y lo había dejado pasar como se deja pasar a un hombre que marca una pared. A ella se lo había dicho en un galpón helado, sola, a kilómetros de cualquier sitio.
 
 Chiara lo había visto absorber, esa misma noche, un ultimátum que podía mandarlo al otro lado del mundo, una paliza medida, y a saber qué más que no le había contado. Lo había visto encajarlo todo de pie, con la voz baja, echándose agua en la cara. Nada de eso le había movido los hombros.
 
 Esto sí.
 
-—Bien —dijo Cole, y la palabra no significaba nada de lo que significa normalmente.
+—Bien —dijo Kal, y la palabra no significaba nada de lo que significa normalmente.
 
 Bajó las escaleras del mezzanine de dos en dos, sin cuidarse el costado ahora, agarró la chaqueta del respaldo y las llaves del cuenco de la entrada. Ya tenía el teléfono en la oreja antes de llegar a la puerta. Chiara oyó el tono de llamada y después la voz de él, cortés, tranquila, sin una sola arista, como si estuviera pidiendo una cita para revisar unos papeles:
 

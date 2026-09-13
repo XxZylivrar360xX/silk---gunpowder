@@ -1,9 +1,9 @@
 <!--
 Estado: borrador provisional.
-Protagonistas: Chiara Bellandi, Cole Mercer.
+Protagonistas: Chiara Bellandi, Kal Mercer.
 Ventana temporal: Fase 0, domingo, misma tarde-noche del Capitulo 1; ocurre H2.
 Lugares: Kingsley Field, carreteras del norte de San Aurelio, The Monarch Casino & Hotel, Almendra Towing.
-Funcion: dar a Chiara entrada propia, presentar a Fabrizio, Tommaso y Dario, la reunion interna sin Cole, el primer apreton de manos, el rechazo por "demasiado listo" y el cierre paralelo de radar mutuo.
+Funcion: dar a Chiara entrada propia, presentar a Fabrizio, Tommaso y Dario, la reunion interna sin Kal, el primer apreton de manos, el rechazo por "demasiado listo" y el cierre paralelo de radar mutuo.
 -->
 
 # Capítulo 2 — Demasiado listo
@@ -282,7 +282,7 @@ La mujer de la carpeta bajó por fin el bolígrafo.
 
 Chiara escuchó el clic.
 
-La primera reunión empezó sin Cole Mercer.
+La primera reunión empezó sin Kal Mercer.
 
 Eso, decidió Chiara al sentarse, era el dato más honesto de la tarde.
 
@@ -330,7 +330,7 @@ Dario lo miró.
 
 —¿Nombre? —preguntó Tommaso.
 
-—Cole Mercer.
+—Kal Mercer.
 
 El nombre no produjo nada en la mesa. Chiara notó justamente eso: no era un apellido de poder, ni de familia, ni de puerto. Un nombre sin peso visible podía ser basura o ventaja. A veces las dos cosas se parecían al principio.
 
@@ -422,7 +422,7 @@ Pensó que un casino nuevo tenía algo indecente: fingía experiencia antes de h
 
 ***
 
-A las nueve menos seis, Cole estacionó el Peugeot 106 XSi rojo frente al Monarch y dejó las llaves en su bolsillo antes de que el valet pudiera abrir la mano.
+A las nueve menos seis, Kal estacionó el Peugeot 106 XSi rojo frente al Monarch y dejó las llaves en su bolsillo antes de que el valet pudiera abrir la mano.
 
 El cochecito quedaba ridículo entre sedanes negros, camionetas blindadas y deportivos que brillaban como relojes caros. Era bajo, compacto, reacondicionado con una paciencia que no se podía comprar en concesionaria. En la calle lo llamaban el terror de la policía. En la marquesina del Monarch parecía una grosería pintada de rojo.
 
@@ -432,7 +432,7 @@ El cochecito quedaba ridículo entre sedanes negros, camionetas blindadas y depo
 
 Lo dijo sin dureza. El muchacho entendió de todos modos y retrocedió con una sonrisa profesional herida.
 
-Cole miró el edificio.
+Kal miró el edificio.
 
 Había estado dentro de casinos antes. Los suficientes para saber que todos compartían el mismo truco: no había relojes visibles, las alfombras parecían elegidas para esconder manchas, y el dinero hacía un sonido distinto cuando la gente creía que todavía podía recuperarlo.
 
@@ -448,7 +448,7 @@ El espejo negro de la puerta giratoria le devolvió una cara que nunca terminaba
 
 Si querían hablar con el dueño de Almendra Towing, podían conocer al dueño de Almendra Towing. Traje o no, eso no cambiaba.
 
-Matteo apareció bajo la marquesina antes de que Cole tocara la puerta giratoria.
+Matteo apareció bajo la marquesina antes de que Kal tocara la puerta giratoria.
 
 —Puntual.
 
@@ -468,7 +468,7 @@ Matteo hizo ademán de llevarlo adentro, pero no cruzó la puerta.
 
 —Entramos por principal —dijo—. No por carga.
 
-Cole miró el vidrio, las cámaras pequeñas sobre las columnas, los guardias con saco que miraban manos antes que caras, la puerta de servicio mal disimulada detrás de un arreglo floral demasiado grande.
+Kal miró el vidrio, las cámaras pequeñas sobre las columnas, los guardias con saco que miraban manos antes que caras, la puerta de servicio mal disimulada detrás de un arreglo floral demasiado grande.
 
 —Eso ya lo decidió usted.
 
@@ -482,7 +482,7 @@ Matteo lo vio contar.
 
 —Esta noche no está trabajando todavía.
 
-Cole miró una cámara y luego a él.
+Kal miró una cámara y luego a él.
 
 —Entonces no me están pagando suficiente.
 
@@ -496,7 +496,7 @@ Matteo sonrió, pero miró hacia la entrada como si esperara a alguien.
 
 Algo en Matteo había cambiado. Una espera mínima. Una pequeña demora que no era logística.
 
-Cole no preguntó quién era Dario. Si importaba, la sala se lo iba a decir.
+Kal no preguntó quién era Dario. Si importaba, la sala se lo iba a decir.
 
 Entonces la vio.
 
@@ -506,7 +506,7 @@ Tenía rasgos italianos de una claridad que no necesitaba volverse decorativa: n
 
 Había otros tres fumando cerca: un hombre con corbata floja, una mujer del área de eventos y un huésped que no sabía dónde poner las manos. Ninguno ocupaba el espacio como ella. Chiara no estaba apartada de la entrada. La entrada parecía haber aceptado rodearla.
 
-Cole había leído habitaciones toda su vida.
+Kal había leído habitaciones toda su vida.
 
 Por primera vez en mucho tiempo, tuvo la impresión absurda de que alguien había leído la puerta antes que él.
 
@@ -516,19 +516,19 @@ Matteo levantó la mano.
 
 Ella giró la cabeza.
 
-Primero miró a Matteo. Después a Cole.
+Primero miró a Matteo. Después a Kal.
 
 No de arriba abajo. Eso habría sido demasiado fácil. Lo miró como si buscara qué versión de sí mismo había decidido traer al casino y qué parte no había logrado esconder en el trayecto.
 
 Matteo hizo la presentación con una satisfacción pequeña, casi teatral.
 
-—Cole Mercer, le presento a mi... bueno. Mi amiga, Chiara.
+—Kal Mercer, le presento a mi... bueno. Mi amiga, Chiara.
 
 Ella apagó el cigarro en un cenicero de pie, dio un paso y le ofreció la mano.
 
 —Io sono Chiara Bellandi.
 
-Cole tomó su mano.
+Kal tomó su mano.
 
 El ruido del casino siguió detrás de ellos. Una máquina celebró una pérdida. Un coche frenó junto al valet. Matteo, por una vez, no dijo nada.
 
@@ -536,7 +536,7 @@ El ruido del casino siguió detrás de ellos. Una máquina celebró una pérdida
 
 Ella no retiró la mano de inmediato.
 
-No fue íntimo. Fue práctico. Un segundo más para medir temperatura, fuerza, decisión — el mismo segundo que obliga a sostenerle la mirada a quien te ofrece la mano, porque apartarla antes de tiempo también dice algo. Cole lo entendió y no apretó más. Tampoco aflojó primero. Tampoco apartó la vista.
+No fue íntimo. Fue práctico. Un segundo más para medir temperatura, fuerza, decisión — el mismo segundo que obliga a sostenerle la mirada a quien te ofrece la mano, porque apartarla antes de tiempo también dice algo. Kal lo entendió y no apretó más. Tampoco aflojó primero. Tampoco apartó la vista.
 
 Chiara bajó la mirada a los tenis blancos.
 
@@ -548,13 +548,13 @@ Matteo hizo un ruido que pudo haber sido risa o alivio.
 
 —La sala está lista.
 
-Chiara soltó la mano de Cole.
+Chiara soltó la mano de Kal.
 
 —Entonces no la hagamos esperar.
 
-Entraron juntos, pero no como grupo. Matteo iba adelante, hablando de la ruta como si las cámaras no estuvieran siguiendo cada paso. Chiara caminó a su lado sin tocarlo. Cole quedó medio paso atrás, lo suficiente para no fingir pertenencia y no bastante para parecer escolta.
+Entraron juntos, pero no como grupo. Matteo iba adelante, hablando de la ruta como si las cámaras no estuvieran siguiendo cada paso. Chiara caminó a su lado sin tocarlo. Kal quedó medio paso atrás, lo suficiente para no fingir pertenencia y no bastante para parecer escolta.
 
-En el pasillo, el olor del casino cambió. Menos flores. Más alfombra nueva, electricidad caliente, barniz, café de oficina y hielo derretido en una cubeta de servicio. Cole contó dos puertas con cerradura magnética, una escalera de emergencia a la izquierda, una cámara escondida en el detector de humo y una salida de carga que no aparecía en la ruta amable de Matteo.
+En el pasillo, el olor del casino cambió. Menos flores. Más alfombra nueva, electricidad caliente, barniz, café de oficina y hielo derretido en una cubeta de servicio. Kal contó dos puertas con cerradura magnética, una escalera de emergencia a la izquierda, una cámara escondida en el detector de humo y una salida de carga que no aparecía en la ruta amable de Matteo.
 
 Chiara lo vio mirar.
 
@@ -564,7 +564,7 @@ La sala privada ya tenía a todos de pie, repartidos alrededor del escritorio, c
 
 La cabecera estaba vacía.
 
-Eso, más que una presencia, le dijo a Cole qué clase de hombre faltaba.
+Eso, más que una presencia, le dijo a Kal qué clase de hombre faltaba.
 
 Tommaso giraba un anillo de sello en el dedo, una vuelta y otra, sin mirárselo. Fabrizio se había servido algo ámbar de la cava y sostenía el vaso sin beberlo, más utilería que sed. Matteo miraba hacia el ventanal, hacia el piso de juego que todavía no era nada, como quien revisa una apuesta que ya hizo. Chiara se quedó donde estaba, los brazos cruzados detrás de la espalda, la barbilla nivelada — la única postura en el cuarto que no le pedía nada prestado a un objeto.
 
@@ -574,7 +574,7 @@ Fabrizio Rinaldi saludó con una cordialidad amplia, Tommaso Lusardi con una cor
 
 —Señor Mercer —dijo Tommaso—. Gracias por venir.
 
-Cole no se acercó hasta que Matteo le indicó una silla. Tampoco esperó demasiado.
+Kal no se acercó hasta que Matteo le indicó una silla. Tampoco esperó demasiado.
 
 Fue el único que se sentó.
 
@@ -594,7 +594,7 @@ Matteo se llevó una mano al pecho.
 
 —Me hieren en mi propia casa.
 
-Chiara miró a Cole. Él no estaba jugando al gracioso. Estaba quitándole brillo a la mesa para ver qué quedaba debajo.
+Chiara miró a Kal. Él no estaba jugando al gracioso. Estaba quitándole brillo a la mesa para ver qué quedaba debajo.
 
 Tommaso entrelazó los dedos.
 
@@ -606,13 +606,13 @@ Tommaso entrelazó los dedos.
 
 —Es una forma de cobrar menos impuestos por decir lo mismo.
 
-Elise levantó el bolígrafo y luego decidió no escribir. Chiara notó que Cole también lo había visto.
+Elise levantó el bolígrafo y luego decidió no escribir. Chiara notó que Kal también lo había visto.
 
 Tommaso dejó de girar el anillo.
 
 —¿Y qué cree que puede hacer por un casino, señor Mercer?
 
-Cole miró la mesa antes de contestar. No por nervios. Por orden.
+Kal miró la mesa antes de contestar. No por nervios. Por orden.
 
 —Depende de qué problema tenga el casino.
 
@@ -626,7 +626,7 @@ Tommaso mantuvo la voz igual.
 
 —Hablemos de necesidades concretas, entonces.
 
-Cole asintió.
+Kal asintió.
 
 —Flotilla ejecutiva. Mantenimiento preventivo, no sólo reparaciones cuando ya quedaron mal con un huésped. Servicio de emergencia para valet y proveedores. Un corralón privado para coches que no quieren ver afuera de la entrada. Taller con factura limpia. Gente que llega por carga y no pregunta por qué el cliente se fue por recepción.
 
@@ -634,7 +634,7 @@ Matteo dejó de tocar el respaldo de su silla.
 
 —Eso era lo que le decía.
 
-Cole siguió sin mirarlo.
+Kal siguió sin mirarlo.
 
 —También tienen una puerta de servicio mal puesta.
 
@@ -656,7 +656,7 @@ Tommaso se inclinó hacia delante.
 
 —No le preguntamos eso.
 
-Cole lo miró por primera vez.
+Kal lo miró por primera vez.
 
 —Entonces fui generoso.
 
@@ -676,7 +676,7 @@ Fabrizio bajó la vista a sus manos. Matteo miró a Chiara como si quisiera sabe
 
 Chiara no le dio respuesta.
 
-Cole esperó a que la sala terminara de acomodarse.
+Kal esperó a que la sala terminara de acomodarse.
 
 —Para la apertura van a necesitar un premio de sorteo que se vea bien en la nota de prensa. Yo lo pongo. Lo financio, ustedes lo entregan, y nadie tiene que explicar por qué el presupuesto de marketing del primer fin de semana salió parejo. A cambio, hablamos de flotilla.
 
@@ -692,7 +692,7 @@ Tommaso tardó en contestar.
 
 —¿Qué porcentaje pediría? —preguntó ella.
 
-Cole volteó hacia ella. No parecía sorprendido de que hubiera hablado; parecía haber estado esperando que la pregunta correcta saliera de algún lado.
+Kal volteó hacia ella. No parecía sorprendido de que hubiera hablado; parecía haber estado esperando que la pregunta correcta saliera de algún lado.
 
 —Sobre mantenimiento, fijo mensual y piezas aparte. Sobre remolques, tarifa preferente por volumen. Sobre problemas que no sean de coches, no doy porcentaje sin saber qué estoy comprando con mi nombre.
 
@@ -708,13 +708,13 @@ Tommaso miró la cabecera vacía.
 
 Lo dijo bajo, pero no lo bastante.
 
-Cole lo oyó. Chiara también. Y la frase se quedó en la mesa, esperando a un hombre que ni siquiera estaba en el cuarto.
+Kal lo oyó. Chiara también. Y la frase se quedó en la mesa, esperando a un hombre que ni siquiera estaba en el cuarto.
 
 —La inteligencia no es un defecto —dijo Fabrizio.
 
 —Depende de quién la administre —dijo Tommaso.
 
-Cole se acomodó el saco. Fue un gesto mínimo, pero a Chiara le pareció que el traje le pesaba más desde hacía tres minutos.
+Kal se acomodó el saco. Fue un gesto mínimo, pero a Chiara le pareció que el traje le pesaba más desde hacía tres minutos.
 
 —Si buscan a alguien que no vea, hay talleres más baratos.
 
@@ -728,7 +728,7 @@ Tommaso le concedió una sonrisa de cortesía.
 
 Ahí estaba. La sala entera obedeció a la palabra sin moverse.
 
-Cole no discutió. Chiara agradeció eso antes de preguntarse por qué. Cole la leyó como pared y buscó la puerta.
+Kal no discutió. Chiara agradeció eso antes de preguntarse por qué. Kal la leyó como pared y buscó la puerta.
 
 —Entonces autoricen una prueba —dijo—. Treinta días. Dos unidades. Mantenimiento y emergencias. Si llego tarde una vez, llaman a otro. Si alguno de mis hombres habla, llaman a otro. Si una factura no sirve, llaman a otro. Si todo funciona, hablamos de lo demás.
 
@@ -740,7 +740,7 @@ Tommaso levantó una mano mínima y lo cerró.
 
 La reunión había terminado aunque nadie se hubiera levantado.
 
-Cole asintió una vez.
+Kal asintió una vez.
 
 —Claro.
 
@@ -754,7 +754,7 @@ Matteo lo acompañó hacia la puerta con una prisa social que intentaba converti
 
 —Siempre hay algo.
 
-Cole miró una vez hacia Chiara. No buscó complicidad. No buscó ayuda. Sólo registró que ella seguía ahí, sentada en una mesa que acababa de preferir no verlo.
+Kal miró una vez hacia Chiara. No buscó complicidad. No buscó ayuda. Sólo registró que ella seguía ahí, sentada en una mesa que acababa de preferir no verlo.
 
 —Señora Bellandi.
 
@@ -812,11 +812,11 @@ Ella cerró la carpeta.
 
 ***
 
-Cole volvió al taller después de medianoche.
+Kal volvió al taller después de medianoche.
 
-La Almendra dormía a medias, que era la única forma en que ese barrio dormía. Una televisión seguía prendida detrás de una cortina. En la esquina, un perro ladró una vez y decidió que el Peugeot no valía el esfuerzo. El portón del taller estaba cerrado, pero la cadena tenía el candado puesto del modo flojo que Héctor dejaba cuando sabía que Cole iba a regresar tarde.
+La Almendra dormía a medias, que era la única forma en que ese barrio dormía. Una televisión seguía prendida detrás de una cortina. En la esquina, un perro ladró una vez y decidió que el Peugeot no valía el esfuerzo. El portón del taller estaba cerrado, pero la cadena tenía el candado puesto del modo flojo que Héctor dejaba cuando sabía que Kal iba a regresar tarde.
 
-Cole metió el coche sin encender las luces del patio.
+Kal metió el coche sin encender las luces del patio.
 
 El despacho olía a papel viejo, metal, café frío y el aceite que se quedaba en la madera aunque uno pintara encima. Era el mismo cuarto de block de la mañana, pero de noche parecía más pequeño. En una esquina, junto al archivero, estaba el catre donde dormía cuando no valía la pena cruzar la ciudad ni inventar una casa que todavía no tenía. Una cobija gris, una almohada plana, una bolsa de ropa limpia debajo. No era hogar. Era una respuesta temporal que llevaba demasiado tiempo contestando.
 
@@ -828,7 +828,7 @@ Se quitó el saco y lo colgó en el respaldo de la silla. Después la camisa, de
 
 En camiseta blanca, con los zapatos junto al catre y los calcetines todavía puestos, se tumbó boca arriba.
 
-El techo tenía una grieta fina que empezaba encima del foco y se perdía hacia la pared de la ventana. Cole la había visto cientos de veces. Esa noche la siguió como si fuera una ruta nueva.
+El techo tenía una grieta fina que empezaba encima del foco y se perdía hacia la pared de la ventana. Kal la había visto cientos de veces. Esa noche la siguió como si fuera una ruta nueva.
 
 Demasiado listo.
 
@@ -838,7 +838,7 @@ Chiara Bellandi.
 
 Italiano primero. Español después. Mano firme. Ojos que no miraron el traje para decidir si creerlo. Miraron lo que el traje no tapaba.
 
-Cole cerró los ojos.
+Kal cerró los ojos.
 
 No era inicio de nada. No se dijo eso. No habría sabido qué hacer con una idea tan inútil.
 
@@ -960,9 +960,9 @@ Chiara dejó la fotografía boca abajo.
 
 Apoyó la cabeza en el borde de mármol y miró el techo. Blanco, liso, sin grietas. Un techo de hotel. Un techo que no sabía nada.
 
-Cole Mercer.
+Kal Mercer.
 
-No era el hombre más peligroso de la sala. Dario seguía ocupando esa categoría con una comodidad casi institucional. Cole tampoco era el más poderoso, ni el más rico, ni el mejor vestido, aunque el traje azul había hecho lo suyo y los tenis blancos habían arruinado justo lo necesario para que la imagen respirara.
+No era el hombre más peligroso de la sala. Dario seguía ocupando esa categoría con una comodidad casi institucional. Kal tampoco era el más poderoso, ni el más rico, ni el mejor vestido, aunque el traje azul había hecho lo suyo y los tenis blancos habían arruinado justo lo necesario para que la imagen respirara.
 
 Demasiado listo, había dicho Tommaso.
 
@@ -970,7 +970,7 @@ Chiara hundió una mano en la espuma.
 
 No. No era eso.
 
-Listo era barato. San Aurelio debía estar llena de hombres listos, todos convencidos de que ver un hueco equivalía a merecerlo. Lo que Cole había hecho era distinto: había visto la falla, había medido el costo de decirla y la había dicho sin pedir aplauso ni perdón. Después, cuando la mesa cerró, no se humilló intentando volver a abrirla.
+Listo era barato. San Aurelio debía estar llena de hombres listos, todos convencidos de que ver un hueco equivalía a merecerlo. Lo que Kal había hecho era distinto: había visto la falla, había medido el costo de decirla y la había dicho sin pedir aplauso ni perdón. Después, cuando la mesa cerró, no se humilló intentando volver a abrirla.
 
 Eso era raro.
 
@@ -980,7 +980,7 @@ Chiara cerró los ojos.
 
 No era inicio de nada. Apenas había llegado a la ciudad. Tenía un casino que ordenar, un jefe que la cotizaba como activo, un Lusardi sentado demasiado cerca de su pasado y un penthouse hermoso que no era suyo.
 
-Cole Mercer era un dato.
+Kal Mercer era un dato.
 
 Un dato incómodo.
 

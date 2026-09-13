@@ -20,19 +20,19 @@ No es cruel y no hace falta que lo sea. Es un hombre vanidoso y limitado que tra
 
 ## Su función: la trampa del parecido
 
-**Blake y Cole son los dos rubios de ojos azules.** Ésa es toda la razón por la que Blake existe en esta novela.
+**Blake y Kal son los dos rubios de ojos azules.** Ésa es toda la razón por la que Blake existe en esta novela.
 
 Chiara no se equivocó de tipo de hombre: **se equivocó de hombre**. Fue a buscar en la copia lo que ya había encontrado en el original, sin darse cuenta de que lo había encontrado. Ver [[06_Relationships/Hitos]], H3.
 
 Y la diferencia entre los dos es la frase que ordena el hito entero:
 
-> **Blake necesita llenar el espacio en el que está. Cole sólo existe en el espacio que se ganó.**
+> **Blake necesita llenar el espacio en el que está. Kal sólo existe en el espacio que se ganó.**
 
 La otra mitad:
 
-> **Cole es el único que la ve por lo que ella es, no por lo que quiere que sea.** Blake la ve por lo que quiere que sea.
+> **Kal es el único que la ve por lo que ella es, no por lo que quiere que sea.** Blake la ve por lo que quiere que sea.
 
-**Consecuencia de diseño, y es importante: no hay triángulo amoroso.** La pregunta del libro nunca es *¿a quién elige?* — es *¿cuándo se va a dar cuenta de lo que ya eligió?* Blake es un síntoma, no una competencia. Cole ni siquiera sabe que existe una comparación, y nunca compite ([[06_Relationships/Cole_y_Chiara]], regla 4: no hay celos).
+**Consecuencia de diseño, y es importante: no hay triángulo amoroso.** La pregunta del libro nunca es *¿a quién elige?* — es *¿cuándo se va a dar cuenta de lo que ya eligió?* Blake es un síntoma, no una competencia. Kal ni siquiera sabe que existe una comparación, y nunca compite ([[06_Relationships/Kal_y_Chiara]], regla 4: no hay celos).
 
 ---
 
@@ -48,7 +48,7 @@ En [[06_Relationships/Hitos]], H3-a, presume sus habilidades al volante y la inf
 
 ## Pendientes
 
-> **PENDIENTE:** cuándo y cómo termina lo suyo con Chiara. Restricción: ella no lo deja *por* Cole. Lo deja porque entendió qué estaba buscando.
+> **PENDIENTE:** cuándo y cómo termina lo suyo con Chiara. Restricción: ella no lo deja *por* Kal. Lo deja porque entendió qué estaba buscando.
 
 > **PENDIENTE:** ¿vuelve? Un policía despechado con acceso a Chiara es la clase de pieza que este libro debería cobrar.
 
@@ -58,4 +58,4 @@ En [[06_Relationships/Hitos]], H3-a, presume sus habilidades al volante y la inf
 
 ---
 
-Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Cole_Mercer]] · [[06_Relationships/Hitos]]
+Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Kal_Mercer]] · [[06_Relationships/Hitos]]

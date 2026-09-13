@@ -1,6 +1,6 @@
 # La Guerra de los Tres
 
-> **AVISO DE SUPERSESIÓN (2026-09-11).** Este documento es de 2026-08-30, anterior a [[00_Biblia/00_Trilogy_Structure]] (2026-09-07), y usaba "Parte III" como nombre operativo de todo el tramo de la guerra; las etiquetas operativas del cuerpo se actualizaron a Voto de Ceniza / Guerra de los Tres. Leer **"Parte III" como el tramo de *Voto de Ceniza* (Libro II)** que va desde su apertura hasta la caída de Dario, la montaña y Santa Lucía. Dos puntos quedaban en contradicción directa con la trilogía y se corrigen abajo: (1) [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] ocurre **antes** de la caída de Dario/montaña/Santa Lucía, no después de "cerrar Parte III"; (2) la **muerte pública de Halbrook no ocurre dentro de este tramo** — Cole sólo lo sentencia aquí; la ejecución abre *Interregno* (Libro III). No se movió ningún hito ni se inventó contenido nuevo.
+> **AVISO DE SUPERSESIÓN (2026-09-11).** Este documento es de 2026-08-30, anterior a [[00_Biblia/00_Trilogy_Structure]] (2026-09-07), y usaba "Parte III" como nombre operativo de todo el tramo de la guerra; las etiquetas operativas del cuerpo se actualizaron a Voto de Ceniza / Guerra de los Tres. Leer **"Parte III" como el tramo de *Voto de Ceniza* (Libro II)** que va desde su apertura hasta la caída de Dario, la montaña y Santa Lucía. Dos puntos quedaban en contradicción directa con la trilogía y se corrigen abajo: (1) [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] ocurre **antes** de la caída de Dario/montaña/Santa Lucía, no después de "cerrar Parte III"; (2) la **muerte pública de Halbrook no ocurre dentro de este tramo** — Kal sólo lo sentencia aquí; la ejecución abre *Interregno* (Libro III). No se movió ningún hito ni se inventó contenido nuevo.
 
 > **CANON DEL AUTOR (2026-08-30). REGLA DURA DE VOTO DE CENIZA / GUERRA DE LOS TRES.** “Guerra de los Tres” es una denominación de arquitectura narrativa para el autor, los agentes y, progresivamente, el lector. **No existe públicamente.**
 
@@ -10,7 +10,7 @@
 
 - un nombre utilizado por la prensa;
 - un concepto conocido por la policía;
-- una guerra públicamente atribuida a [[02_Characters/Cole_Mercer]], [[02_Characters/Dario_Varek]] y [[02_Characters/Warren_Halbrook]];
+- una guerra públicamente atribuida a [[02_Characters/Kal_Mercer]], [[02_Characters/Dario_Varek]] y [[02_Characters/Warren_Halbrook]];
 - un enfrentamiento donde los tres aparecen como jefes visibles de ejércitos.
 
 Sería absurdo para sus métodos y destruiría sus fachadas.
@@ -19,7 +19,7 @@ Los tres vértices secretos son:
 
 - **Dario**;
 - **Halbrook**;
-- **Cole + Chiara**.
+- **Kal + Chiara**.
 
 La Policía de San Aurelio es el cuarto actor **visible**, pero no un cuarto vértice de la guerra: el Estado intenta contener las consecuencias de una arquitectura que todavía no puede ver completa.
 
@@ -31,13 +31,13 @@ La Guerra de los Tres debe escribirse simultáneamente en tres niveles que nunca
 
 ## La red de contingencias — la mecha, no un cuarto vértice
 
-> **CANON DEL AUTOR (2026-09-12).** La infraestructura negable de La Mesa en San Aurelio funciona como una red de contingencias: administra presión, versiones, recursos y ausencias para volver utilizables tensiones que ya existen. No crea los motivos de [[02_Characters/Dario_Varek|Dario]], [[02_Characters/Warren_Halbrook|Halbrook]] o [[02_Characters/Cole_Mercer|Cole]], ni sustituye los tres vértices de la guerra. **No crea la pólvora; decide dónde prender el cerillo.**
+> **CANON DEL AUTOR (2026-09-12).** La infraestructura negable de La Mesa en San Aurelio funciona como una red de contingencias: administra presión, versiones, recursos y ausencias para volver utilizables tensiones que ya existen. No crea los motivos de [[02_Characters/Dario_Varek|Dario]], [[02_Characters/Warren_Halbrook|Halbrook]] o [[02_Characters/Kal_Mercer|Kal]], ni sustituye los tres vértices de la guerra. **No crea la pólvora; decide dónde prender el cerillo.**
 
 Su intervención debe ayudar a que el primer choque abierto de H1 se vuelva inevitable, pero sólo mediante **una** acción concreta aún pendiente. La coalición sigue alineada, favorecida o manipulada por Dario; Halbrook conserva su motivo autónomo y llega después como tercer frente. No convertir la red en explicación total ni en un cuarto bando público.
 
 La arquitectura se siembra en Libro I mediante las ausencias y operaciones de [[02_Characters/Nereo_Volpi|Nereo Volpi]]; en Libro II acelera la escalada y aprovecha el caos para borrar registros, cobrar deudas o reordenar rutas; en *Interregno*, Meridian puede reconstruirla como nexo real entre crímenes y presiones que parecían aislados.
 
-El hallazgo federal no debe ser una organización falsa plantada para engañarlos ni un chivo expiatorio inocente. Meridian encuentra una estructura real, criminal y causalmente relevante, pero ya desactivada: sin mando vivo, sin comunicaciones activas y sin depender de Cole o Chiara. La salida de ambos sólo funciona si han vuelto reemplazable su propio poder y no si escondieron una estructura idéntica detrás del expediente.
+El hallazgo federal no debe ser una organización falsa plantada para engañarlos ni un chivo expiatorio inocente. Meridian encuentra una estructura real, criminal y causalmente relevante, pero ya desactivada: sin mando vivo, sin comunicaciones activas y sin depender de Kal o Chiara. La salida de ambos sólo funciona si han vuelto reemplazable su propio poder y no si escondieron una estructura idéntica detrás del expediente.
 
 > **PENDIENTE:** definir la única intervención de la red de contingencias que prende la mecha de H1 y cómo deja una huella que Meridian pueda leer después sin acceder a una explicación omnisciente.
 
@@ -51,7 +51,7 @@ La interpretación pública es:
 
 Nunca:
 
-> Cole Mercer está en guerra con Dario Varek y Warren Halbrook.
+> Kal Mercer está en guerra con Dario Varek y Warren Halbrook.
 
 ### Capa 2 — Lo que saben las instituciones
 
@@ -73,7 +73,7 @@ Los tres poderes clandestinos saben por qué ocurre cada enfrentamiento. La poli
 
 El lector entiende gradualmente que la violencia aparentemente desordenada tiene tres centros de gravedad. Aun así, no accede a cada orden.
 
-Que un ataque beneficie a Dario no prueba de inmediato si él lo ordenó, si una banda aliada actuó por iniciativa propia, si alguien interpretó una expectativa, si Halbrook provocó indirectamente la situación o si Cole permitió que ocurriera.
+Que un ataque beneficie a Dario no prueba de inmediato si él lo ordenó, si una banda aliada actuó por iniciativa propia, si alguien interpretó una expectativa, si Halbrook provocó indirectamente la situación o si Kal permitió que ocurriera.
 
 No escribir a los tres como jugadores de Risk que mueven fichas de forma explícita.
 
@@ -89,17 +89,17 @@ Su caída pública no es la derrota de un jefe visible de ejército. Es el arres
 
 Halbrook es Brigadier General. La presencia de recursos estatales o militares alrededor de San Aurelio debe tener justificación institucional visible: contener una crisis de seguridad, proteger infraestructura o responder a delincuencia armada.
 
-No convertir al ejército completo en una organización criminal ni hacer que todos los soldados conozcan su operación. Halbrook corrompe, aprovecha y redirige partes de una infraestructura legítima. Su participación clandestina nunca equivale públicamente a una declaración de guerra del Ejército contra Cole.
+No convertir al ejército completo en una organización criminal ni hacer que todos los soldados conozcan su operación. Halbrook corrompe, aprovecha y redirige partes de una infraestructura legítima. Su participación clandestina nunca equivale públicamente a una declaración de guerra del Ejército contra Kal.
 
-### Cole Mercer
+### Kal Mercer
 
-Cole no aparece públicamente como jefe del ejército criminal rival. Puede ser conocido como empresario, dueño de Almendra Towing, inversionista, operador local, figura influyente, hombre relacionado con numerosos negocios y persona que parece conocer a todo el mundo.
+Kal no aparece públicamente como jefe del ejército criminal rival. Puede ser conocido como empresario, dueño de Almendra Towing, inversionista, operador local, figura influyente, hombre relacionado con numerosos negocios y persona que parece conocer a todo el mundo.
 
 La calle puede saber mucho más que la policía, pero saber y demostrar son cosas distintas:
 
 > Todos saben algo; nadie puede probar el mapa completo.
 
-Sus hombres no usan uniformes, insignias ni lenguaje de milicia Mercer. Desde fuera son bandas, trabajadores, contactos, aliados, operadores y grupos con intereses coincidentes. Desde dentro, Cole construye una red.
+Sus hombres no usan uniformes, insignias ni lenguaje de milicia Mercer. Desde fuera son bandas, trabajadores, contactos, aliados, operadores y grupos con intereses coincidentes. Desde dentro, Kal construye una red.
 
 ### Chiara Bellandi
 
@@ -116,7 +116,7 @@ Ejemplo de capas:
 | Chiara | Trabaja para que una interpretación concreta gane sobre las otras. |
 | Lector | Entiende que el movimiento debilitó a Dario. |
 
-Ésta es la ejecución madura de la tesis: **Cole toma territorio. Chiara toma relato.**
+Ésta es la ejecución madura de la tesis: **Kal toma territorio. Chiara toma relato.**
 
 ## Matriz obligatoria de enfrentamientos
 
@@ -137,13 +137,13 @@ Antes de diseñar cada enfrentamiento importante de la Guerra de los Tres, regis
 
 ## La guerra excede a sus autores
 
-Cole, Dario y Halbrook no controlan cada incidente. Cuando mueven estructuras, los subordinados interpretan, los aliados reaccionan, los enemigos aprovechan, las bandas ajustan cuentas propias, los oportunistas se meten, los rumores provocan violencia, la policía responde y los ciudadanos toman decisiones.
+Kal, Dario y Halbrook no controlan cada incidente. Cuando mueven estructuras, los subordinados interpretan, los aliados reaccionan, los enemigos aprovechan, las bandas ajustan cuentas propias, los oportunistas se meten, los rumores provocan violencia, la policía responde y los ciudadanos toman decisiones.
 
 La guerra debe producir fenómenos que ninguno de los tres ordenó. San Aurelio entra realmente en crisis; no se vuelve un tablero habitado sólo por tres personajes.
 
 ## La guerra invade una familia en marcha — CANON DEL AUTOR (2026-08-31)
 
-Chiara entra a Voto de Ceniza (Libro II) **ya embarazada**. La Guerra de los Tres no produce el embarazo ni ocurre porque exista Elenna: invade una vida doméstica que Cole y Chiara ya habían empezado a imaginar durante Parte II.
+Chiara entra a Voto de Ceniza (Libro II) **ya embarazada**. La Guerra de los Tres no produce el embarazo ni ocurre porque exista Elenna: invade una vida doméstica que Kal y Chiara ya habían empezado a imaginar durante Parte II.
 
 La siguiente cadena es una referencia histórica supersedida en la posición de F2 por [[00_Biblia/00_Trilogy_Structure]]: Riley ya está establecida en Italia al abrir Voto de Ceniza. Para el orden operativo vigente, consultar [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]] y [[06_Relationships/Hitos]].
 
@@ -155,7 +155,7 @@ La maniobra conserva las tres capas de verdad:
 
 | Capa | Estado de Elenna |
 |---|---|
-| San Aurelio / versión pública | La hija de Cole Mercer y Chiara Bellandi murió durante o alrededor del parto |
+| San Aurelio / versión pública | La hija de Kal Mercer y Chiara Bellandi murió durante o alrededor del parto |
 | Círculo íntimo, todavía por fijar | Elenna vive; la lista y el momento de conocimiento permanecen pendientes |
 | Realidad | Vive en Italia como Elenna Serra bajo el cuidado cotidiano de Riley |
 
@@ -170,25 +170,25 @@ La separación debe durar lo suficiente para convertirse en experiencia acumulad
 3. **Caída de Dario:** una parte del rompecabezas se vuelve visible; hechos antes separados revelan una estructura mayor.
 4. **Después de Dario:** las instituciones creen haber cortado el centro principal de la crisis. Esto produce el falso final.
 5. **Santa Lucía + montaña:** la hipótesis vuelve a romperse. Si Dario está detenido, ¿quién acaba de hacer esto? Halbrook empieza a convertirse en una explicación para el lector y para las instituciones pertinentes.
-6. **Cole sentencia a Halbrook:** decide que debe morir. **No lo ejecuta todavía** — [[00_Biblia/00_Trilogy_Structure]] fija que la ejecución pública, por mano de Cole, es el evento que abre *Interregno* (Libro III), no el cierre de este tramo.
+6. **Kal sentencia a Halbrook:** decide que debe morir. **No lo ejecuta todavía** — [[00_Biblia/00_Trilogy_Structure]] fija que la ejecución pública, por mano de Kal, es el evento que abre *Interregno* (Libro III), no el cierre de este tramo.
 
 Antes del corte a *Interregno* también deben haberse cobrado las muertes de Héctor y Kenji, la herida grave de Chiara, la aparición posterior de Corrado según su arco y el cierre reconocible de la arquitectura bélica dentro de *Voto de Ceniza*. La causa y posición exactas de la muerte de Héctor y el orden fino Santa Lucía/montaña permanecen pendientes.
 
-> **PENDIENTE:** relación causal y orden fino entre el atentado de Santa Lucía y la secuencia de montaña; qué institución formula primero una hipótesis demostrable sobre Halbrook. **RESUELTO por [[00_Biblia/00_Trilogy_Structure]]:** quien dispara contra Halbrook es **Cole**, en *Interregno* (Libro III) — ya no es una incógnita de este tramo.
+> **PENDIENTE:** relación causal y orden fino entre el atentado de Santa Lucía y la secuencia de montaña; qué institución formula primero una hipótesis demostrable sobre Halbrook. **RESUELTO por [[00_Biblia/00_Trilogy_Structure]]:** quien dispara contra Halbrook es **Kal**, en *Interregno* (Libro III) — ya no es una incógnita de este tramo.
 
 ## Regla particular — Santa Lucía
 
 El atentado no se lee inmediatamente en la opinión pública como “Halbrook atacó a Chiara”. Para la ciudad es un atentado armado en la [[05_Locations/Iglesia_Santa_Lucia]] que deja muertos y heridos, entre ellos figuras conocidas.
 
-La policía investiga. La prensa especula. La ciudad busca explicación. Cole sabe o descubre otra cosa.
+La policía investiga. La prensa especula. La ciudad busca explicación. Kal sabe o descubre otra cosa.
 
-La distancia entre lo demostrable públicamente y lo que Cole sabe ayuda a explicar por qué su respuesta contra Halbrook no pasa necesariamente por el mismo camino legal utilizado contra Dario.
+La distancia entre lo demostrable públicamente y lo que Kal sabe ayuda a explicar por qué su respuesta contra Halbrook no pasa necesariamente por el mismo camino legal utilizado contra Dario.
 
-Se conserva del hito anterior, mientras el autor no decida lo contrario: Kenji muere; Chiara recibe dos disparos, sobrevive gravemente herida y entra en coma. Quedan **decanonizados por decisión posterior**: que Dario orqueste este atentado, que su caída legal ocurra después del ataque y que Cole lo ejecute antes de su arresto.
+Se conserva del hito anterior, mientras el autor no decida lo contrario: Kenji muere; Chiara recibe dos disparos, sobrevive gravemente herida y entra en coma. Quedan **decanonizados por decisión posterior**: que Dario orqueste este atentado, que su caída legal ocurra después del ataque y que Kal lo ejecute antes de su arresto.
 
 ## Principio visual
 
-Un noticiero de San Aurelio nunca muestra un gráfico `COLE vs DARIO vs HALBROOK`. Muestra titulares como:
+Un noticiero de San Aurelio nunca muestra un gráfico `KAL vs DARIO vs HALBROOK`. Muestra titulares como:
 
 - “Ola de violencia en San Aurelio”.
 - “Nuevos enfrentamientos entre grupos criminales”.
@@ -203,7 +203,7 @@ Debajo de esos titulares, el lector reconstruye otra guerra.
 
 Al terminar el tramo bélico de *Voto de Ceniza* (la "Parte III" de este documento):
 
-- el lector puede reconstruir `Dario vs Halbrook vs Cole/Chiara`;
+- el lector puede reconstruir `Dario vs Halbrook vs Kal/Chiara`;
 - un detective puede reconstruir parcialmente varias organizaciones, intereses y operaciones vinculadas;
 - un periodista puede describir una crisis de delincuencia organizada y respuesta estatal;
 - un ciudadano común sólo sabe que San Aurelio se volvió peligrosa.

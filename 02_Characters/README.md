@@ -8,37 +8,37 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 
 ## Protagonistas
 
-- [[02_Characters/Cole_Mercer]]
+- [[02_Characters/Kal_Mercer]]
 - [[02_Characters/Chiara_Bellandi]]
 
 ## Secundarios principales
 
-- [[02_Characters/Elenna_Mercer]] — hija biológica de Cole y Chiara; públicamente fallecida al nacer, en realidad protegida en Italia como Elenna Serra durante aproximadamente su primer año.
-- [[02_Characters/Hector_Navarro]] — figura paterna de Cole y mano derecha.
-- [[02_Characters/Nadir_Amrani]] — mejor amigo de Cole; lo ayudó primero.
-- [[02_Characters/Anya_Voronina]] — contacto rusa de Washington; amor pasado de Cole en Afganistán y deuda por los papeles de Nadir.
+- [[02_Characters/Elenna_Mercer]] — hija biológica de Kal y Chiara; públicamente fallecida al nacer, en realidad protegida en Italia como Elenna Serra durante aproximadamente su primer año.
+- [[02_Characters/Hector_Navarro]] — figura paterna de Kal y mano derecha.
+- [[02_Characters/Nadir_Amrani]] — mejor amigo de Kal; lo ayudó primero.
+- [[02_Characters/Anya_Voronina]] — contacto rusa de Washington; amor pasado de Kal en Afganistán y deuda por los papeles de Nadir.
 - [[02_Characters/Daniel_Hayes]] — Danny; amigo del barrio y dueño de Rocco.
-- [[02_Characters/Walter_Keegan]] — amigo del padre de Cole, recién salido de prisión.
-- [[02_Characters/Marisol_Grayson]] — hija de Michael; termómetro moral de Cole.
-- [[02_Characters/Michael_Grayson]] — viejo amigo militar de Cole; muerto de cáncer.
+- [[02_Characters/Walter_Keegan]] — amigo del padre de Kal, recién salido de prisión.
+- [[02_Characters/Marisol_Grayson]] — hija de Michael; termómetro moral de Kal.
+- [[02_Characters/Michael_Grayson]] — viejo amigo militar de Kal; muerto de cáncer.
 - [[02_Characters/Blake_Stanton]] — policía; error de identificación de Chiara.
-- [[02_Characters/Elena_Vega]] — Chief of Police; disciplina moral y choque ideológico con Cole.
+- [[02_Characters/Elena_Vega]] — Chief of Police; disciplina moral y choque ideológico con Kal.
 - [[02_Characters/Raymond_Keene]] — jefe de policía anterior asesinado por Varek.
-- [[02_Characters/Luis_Ortega]] — Detective 1 / Homicidios; principal antagonista policial local de Cole.
+- [[02_Characters/Luis_Ortega]] — Detective 1 / Homicidios; principal antagonista policial local de Kal.
 - [[02_Characters/Gloria_Chen]] — crimen organizado / vice; conoce el ecosistema de Varek.
 - [[02_Characters/Noah_Pierce]] — detective joven, compañero de Luis; ve antes que algo no encaja.
-- [[02_Characters/Claire_Han]] — ADA principal local para homicidios relacionados con Cole.
-- [[02_Characters/Camila_Rivas]] — médica de confianza de Chiara; salva a Cole en H1 y demuestra que la red de Chiara es infraestructura real.
+- [[02_Characters/Claire_Han]] — ADA principal local para homicidios relacionados con Kal.
+- [[02_Characters/Camila_Rivas]] — médica de confianza de Chiara; salva a Kal en H1 y demuestra que la red de Chiara es infraestructura real.
 - [[02_Characters/Owen_Kincaid]] — médico por fuera; vende discreción clínica como mercancía y abre riesgo de filtración.
 - [[02_Characters/Mabel_Ortiz]] — mujer mayor, dueña de tienda/cafetería; nodo civil de los chismes de Chiara.
-- [[02_Characters/Harper_Walker]] — Sparks; empleada ganadera del norte, protegida operativa de Cole.
+- [[02_Characters/Harper_Walker]] — Sparks; empleada ganadera del norte, protegida operativa de Kal.
 - [[02_Characters/Tyler_Brooks]] — Switch; organizador de carreras callejeras; el más joven del núcleo.
 - [[02_Characters/Mei_Lin_Zhao]] — ex corredora de banda rival; entra con Riley.
 - [[02_Characters/Riley_Bennett]] — ex corredora de banda rival; protegida de Chiara.
-- [[02_Characters/Ren_Wei]] — El Afinador; cocinero de cocaína y metanfetaminas; consolida a Cole como proveedor.
+- [[02_Characters/Ren_Wei]] — El Afinador; cocinero de cocaína y metanfetaminas; consolida a Kal como proveedor.
 - [[02_Characters/Russell_Whitaker]] — Russ; ex veterano con bastón, aspirante a alcalde y cara política de El Patio.
 - [[02_Characters/Garrett_Cross]] — administrador financiero, testaferro y cara legal de activos.
-- [[02_Characters/Matteo_Bellacorte]] — socio del Monarch; abre la puerta a Cole en H2.
+- [[02_Characters/Matteo_Bellacorte]] — socio del Monarch; abre la puerta a Kal en H2.
 - [[02_Characters/Fabrizio_Rinaldi]] — provisional; viejo amigo italiano de Chiara dentro del grupo del Monarch.
 - [[02_Characters/Tommaso_Lusardi]] — provisional; hermano de Alessio Lusardi y presencia incómoda del pasado de Chiara.
 
@@ -48,15 +48,15 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 - [[02_Characters/Lucia_Varek]] — hija mayor de Dario; policía y futura vía legal de su caída.
 - [[02_Characters/Beatrice_Varek]] — Trix; segunda hermana, neurocirujana del Hospital Santa Aurelia.
 - [[02_Characters/Vivian_Varek]] — Vivi/VV/Tri-V; hermana menor, influencer y operadora de la organización.
-- [[02_Characters/Silas_Crowe]] — el Tasador; antagonista inicial de Cole.
-- [[02_Characters/Warren_Halbrook]] — general; verdugo de Cole.
+- [[02_Characters/Silas_Crowe]] — el Tasador; antagonista inicial de Kal.
+- [[02_Characters/Warren_Halbrook]] — general; verdugo de Kal.
 - [[02_Characters/Leone_Valenti]] — Il Consigliere; cara del Consorcio.
 - [[02_Characters/Alessio_Lusardi]] — primer marido de Chiara; muerto.
 
 ## Fuerza Meridian y externos federales
 
-- [[02_Characters/Andrew_Callahan]] — agente especial supervisor, Organized Crime / RICO. Comandante de Meridian; obsesionado con Varek antes que con Cole.
-- [[02_Characters/Mara_Ellison]] — agente especial principal, Violent Crime / case agent. Antagonista personal de Cole por patrón.
+- [[02_Characters/Andrew_Callahan]] — agente especial supervisor, Organized Crime / RICO. Comandante de Meridian; obsesionado con Varek antes que con Kal.
+- [[02_Characters/Mara_Ellison]] — agente especial principal, Violent Crime / case agent. Antagonista personal de Kal por patrón.
 - [[02_Characters/Priya_Nair]] — intelligence analyst; link analysis / pattern analysis.
 - [[02_Characters/Nora_Whitcomb]] — forensic accountant; lavado y rastreo de activos.
 - [[02_Characters/Leah_Park]] — crimen digital y vigilancia técnica.
@@ -95,4 +95,4 @@ Antes de pasar a los momentos de tensión fuertes de la pareja, conviene crear e
 6. Banda rival desintegrada.
 7. Definir apoyo administrativo menor de Almendra, si hace falta alguien debajo de Garrett.
 
-La razón es estructural: primero se necesitan las puertas de entrada y redes que van a salvar o condenar a Cole y Chiara; después el ecosistema que vuelve creíble la ciudad.
+La razón es estructural: primero se necesitan las puertas de entrada y redes que van a salvar o condenar a Kal y Chiara; después el ecosistema que vuelve creíble la ciudad.

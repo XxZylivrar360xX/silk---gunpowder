@@ -25,13 +25,13 @@ Nadie "toma" un barrio a tiros. Se toma así:
 3. La organización dueña descubre que necesita tu servicio para operar.
 4. Un día ya no hace falta echarlos: se volvieron proveedores tuyos.
 
-**Éste es el método de Cole y el motor estructural de la novela.** Cada arco de expansión sigue esas cuatro fases. Si un territorio cambia de manos de otra forma, tiene que ser una excepción con motivo explícito.
+**Éste es el método de Kal y el motor estructural de la novela.** Cada arco de expansión sigue esas cuatro fases. Si un territorio cambia de manos de otra forma, tiene que ser una excepción con motivo explícito.
 
 Contraste de gobierno criminal:
 
 - [[02_Characters/Dario_Varek]] gobierna a las bandas por miedo preventivo: amenaza con liquidar, torturar o borrar para que nadie olvide quién permite operar.
-- [[02_Characters/Cole_Mercer]] asciende por utilidad, deuda y respeto. Da oportunidades de más porque prefiere reconducir antes que cerrar una puerta.
-- Cuando Cole dispara, tiene que ser porque ya agotó las salidas que su propio método le exigía intentar. Si dispara para parecer duro, la escena traiciona el libro.
+- [[02_Characters/Kal_Mercer]] asciende por utilidad, deuda y respeto. Da oportunidades de más porque prefiere reconducir antes que cerrar una puerta.
+- Cuando Kal dispara, tiene que ser porque ya agotó las salidas que su propio método le exigía intentar. Si dispara para parecer duro, la escena traiciona el libro.
 
 Ver [[05_Locations/Estado_de_la_Ciudad]].
 
@@ -66,7 +66,7 @@ Consecuencia: **la moneda con la policía es información, no efectivo**, y eso 
 
 Los federales son otra física. La [[03_Factions/Fuerza_de_Tarea_Meridian]] no negocia con casos locales sino con **patrones federales**: rutas, jurisdicción, lavado, suministro, crimen organizado transnacional. Cuando entra, no busca ganar una rueda de prensa municipal; busca cerrar un mapa.
 
-Consecuencia narrativa: **Cole puede volverse indispensable para la policía local; no puede volverse indispensable para un expediente federal.** Y Chiara puede mover la versión de la ciudad, pero no borra igual de fácil una orden sellada.
+Consecuencia narrativa: **Kal puede volverse indispensable para la policía local; no puede volverse indispensable para un expediente federal.** Y Chiara puede mover la versión de la ciudad, pero no borra igual de fácil una orden sellada.
 
 El centro viejo de [[05_Locations/San_Aurelio]] no sostiene territorio de banda: hospitales, Ayuntamiento, juzgados, comisarías, prensa y cámaras hacen que operar ahí de forma permanente sea demasiado caro. Se puede cruzar el centro; no poseerlo.
 
@@ -74,7 +74,7 @@ El centro viejo de [[05_Locations/San_Aurelio]] no sostiene territorio de banda:
 
 Todo ingreso ilegal necesita una historia legal antes de existir. Por eso los negocios de fachada no son adorno: son infraestructura crítica y se manejan con seriedad de empresa real. Un negocio de fachada que pierde dinero es una alarma.
 
-> **PENDIENTE:** definir la estructura concreta de blanqueo de la organización de Cole — qué negocios, en qué orden aparecen, y cuál es el primero que compran.
+> **PENDIENTE:** definir la estructura concreta de blanqueo de la organización de Kal — qué negocios, en qué orden aparecen, y cuál es el primero que compran.
 
 ## 7. Reglas de escritura derivadas
 

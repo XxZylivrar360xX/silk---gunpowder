@@ -15,10 +15,10 @@ Directa, sin ceremonia. No sube la voz porque no le hace falta — la gente que 
 
 ## Función narrativa
 
-Primera fricción directa entre El Patio y La Ronda del Canal — ver [[03_Factions/La_Ronda_del_Canal]], "El robo de Nadir y Danny". Su golpe de advertencia dentro de la Almendra y la negociación posterior con Cole (sin Héctor, con Walt) son lo que confirma, tácitamente, que La Almendra ya tiene dueño: Cole Mercer.
+Primera fricción directa entre El Patio y La Ronda del Canal — ver [[03_Factions/La_Ronda_del_Canal]], "El robo de Nadir y Danny". Su golpe de advertencia dentro de la Almendra y la negociación posterior con Kal (sin Héctor, con Walt) son lo que confirma, tácitamente, que La Almendra ya tiene dueño: Kal Mercer.
 
 ## Pendientes
 
 > **PENDIENTE:** edad exacta, apariencia física, historia previa a la cabeza de La Ronda, y si vuelve a aparecer después de esta negociación o queda como relación neutral cerrada.
 
-Ver también [[03_Factions/La_Ronda_del_Canal]], [[02_Characters/Cole_Mercer]], [[02_Characters/Walter_Keegan]].
+Ver también [[03_Factions/La_Ronda_del_Canal]], [[02_Characters/Kal_Mercer]], [[02_Characters/Walter_Keegan]].

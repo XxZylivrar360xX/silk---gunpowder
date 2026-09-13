@@ -36,7 +36,7 @@ Su zona natural de choque es [[03_Factions/Cross_River_Consolidated]] y [[02_Cha
 - [[03_Factions/Fuerza_de_Tarea_Meridian]] — contadora forense.
 - [[02_Characters/Andrew_Callahan]] — le da el puente entre delitos aislados y conspiración financiera.
 - [[02_Characters/Garrett_Cross]] — rival técnico: papel contra papel.
-- [[03_Factions/Cross_River_Consolidated]] — objetivo natural cuando Cole ya no figura en activos.
+- [[03_Factions/Cross_River_Consolidated]] — objetivo natural cuando Kal ya no figura en activos.
 - [[02_Characters/Dario_Varek]] — obsesión financiera inicial.
 
 ---

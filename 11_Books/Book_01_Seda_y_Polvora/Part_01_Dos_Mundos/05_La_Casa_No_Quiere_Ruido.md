@@ -1,9 +1,9 @@
 <!--
 Estado: borrador provisional.
-Protagonistas: Chiara Bellandi, Cole Mercer.
+Protagonistas: Chiara Bellandi, Kal Mercer.
 Ventana temporal: dias/semanas posteriores al primer favor, hasta la primera noche que ninguno de los dos llama cita.
 Lugares: The Monarch Casino & Hotel, La Almendra, centro de San Aurelio, Il Gelsomino.
-Funcion: convertir el favor en cadena, mostrar a Cole como telefono recurrente y a Chiara aprendiendo a dirigir informacion; ejecutar H2-a, la primera cena que ninguno llama cita.
+Funcion: convertir el favor en cadena, mostrar a Kal como telefono recurrente y a Chiara aprendiendo a dirigir informacion; ejecutar H2-a, la primera cena que ninguno llama cita.
 Nota de fusion (2026-09-10, BLOQUE 2 de PLAN_CIRUGIA_EDITORIAL_PARTE_I): capitulo resultante de fusionar los antiguos Capitulo 5 (La casa no quiere ruido) y Capitulo 6 (Una amiga). El archivo conserva su nombre original (05_La_Casa_No_Quiere_Ruido.md) por trazabilidad de enlaces; el titulo visible pasa a ser "Una amiga". El antiguo 06_Una_Amiga.md queda como nota de redireccion. Renumeracion global de capitulos posteriores pendiente (no ejecutar hasta el cierre completo de la cirugia editorial).
 -->
 
@@ -25,7 +25,7 @@ El problema no era pagar.
 
 El problema era que el dinero no cerraba la cuenta.
 
-Cole no había cobrado el momento en que Varga bajó la voz. No había cobrado el ángulo desde el que se colocó entre el hombre y la grúa. No había cobrado haber entendido que el problema no era el coche sino el video, la mesera llorando, la puerta de carga bloqueada y el nombre de Dario a punto de usarse como arma barata.
+Kal no había cobrado el momento en que Varga bajó la voz. No había cobrado el ángulo desde el que se colocó entre el hombre y la grúa. No había cobrado haber entendido que el problema no era el coche sino el video, la mesera llorando, la puerta de carga bloqueada y el nombre de Dario a punto de usarse como arma barata.
 
 La factura cobraba metal; el resto quedaba flotando.
 
@@ -79,7 +79,7 @@ La precisión le acomodó algo.
 
 —¿Y si vuelve con Dario?
 
-Esta vez Cole tardó en contestar.
+Esta vez Kal tardó en contestar.
 
 —Entonces el problema no es Varga.
 
@@ -139,7 +139,7 @@ Volvieron otros, repartidos a lo largo de las semanas en que Plaza Corona fue sa
 
 Una camioneta de lavandería que llegó con sábanas de menos y cajas de más. Un proveedor de hielo que intentó facturar dos entregas en la misma hora. Un huésped que perdió fichas, acusó a la mesa de trampa y resultó deber dinero en Santa Brígida. Un valet que anotaba matrículas en una libreta personal. Dos hombres del puerto que querían usar un reservado para una conversación que ningún hotel sensato habría querido alojar.
 
-Chiara no llamó a Cole por todo.
+Chiara no llamó a Kal por todo.
 
 Ésa fue la primera regla.
 
@@ -161,17 +161,17 @@ Cuando Tommaso preguntó si había contratado a Mercer por debajo, ella dijo:
 
 Eso también era cierto, y Tommaso lo aceptó porque una negación exacta es más difícil de discutir que una mentira. Chiara se quedó con la parte que no dijo: que no hacía falta contrato para que ya hubiera cuenta.
 
-La tercera regla nació sin que la escribiera: Cole no entraba por el lobby salvo que fuera indispensable.
+La tercera regla nació sin que la escribiera: Kal no entraba por el lobby salvo que fuera indispensable.
 
 A veces llegaba por carga con una grúa, una camioneta o un sedán prestado. A veces mandaba a Omar con uniforme limpio y una factura que no decía nada interesante. A veces no llegaba nadie, pero el problema dejaba de hacer ruido antes de tocar la puerta principal.
 
 Chiara aprendió a distinguir los efectos de su trabajo por la ausencia de escándalo.
 
-Una tarde, un hombre del puerto que no debía estar en la lista abandonó el Monarch cinco minutos después de que Cole apareciera en el estacionamiento de empleados para revisar una supuesta batería muerta. Nadie lo tocó. Nadie lo siguió. El hombre simplemente decidió que su noche podía ocurrir en otra parte.
+Una tarde, un hombre del puerto que no debía estar en la lista abandonó el Monarch cinco minutos después de que Kal apareciera en el estacionamiento de empleados para revisar una supuesta batería muerta. Nadie lo tocó. Nadie lo siguió. El hombre simplemente decidió que su noche podía ocurrir en otra parte.
 
 —¿Qué le dijo? —preguntó Chiara después, en la salida de carga.
 
-Cole cerró el cofre del coche.
+Kal cerró el cofre del coche.
 
 —Que la batería no era el problema.
 
@@ -183,17 +183,17 @@ Ella cruzó los brazos.
 
 —Me incomoda no saber qué estoy aceptando.
 
-Cole la miró.
+Kal la miró.
 
 —Entonces no acepte.
 
-La respuesta la alcanzó mal. No porque fuera dura, sino porque le devolvía la decisión completa. Cole ponía la herramienta sobre la mesa y se iba antes de pedir que se la agradecieran.
+La respuesta la alcanzó mal. No porque fuera dura, sino porque le devolvía la decisión completa. Kal ponía la herramienta sobre la mesa y se iba antes de pedir que se la agradecieran.
 
 —Usted sabe que no es tan simple.
 
 —Casi nada que sirve lo es.
 
-Un carrito de lavandería pasó detrás de ellos con una rueda chillando. Cole lo siguió con la mirada.
+Un carrito de lavandería pasó detrás de ellos con una rueda chillando. Kal lo siguió con la mirada.
 
 —Esa rueda va a romper el eje antes del viernes.
 
@@ -211,7 +211,7 @@ Quiso reírse. No lo hizo.
 
 —Volver imposible no ver algo.
 
-Cole pensó la respuesta.
+Kal pensó la respuesta.
 
 —Sólo cuando me pagan.
 
@@ -237,7 +237,7 @@ Fue una frase simple, dicha sin intención de herir, y por eso llegó hasta el f
 
 Chiara no contestó.
 
-Cole entendió tarde que había tocado algo, pero no intentó arreglarlo con palabras. Eso lo salvó.
+Kal entendió tarde que había tocado algo, pero no intentó arreglarlo con palabras. Eso lo salvó.
 
 —Buenas tardes, señora Bellandi.
 
@@ -245,7 +245,7 @@ Ella asintió y subió por el elevador de servicio, molesta con él por haber di
 
 ***
 
-Con las semanas, Cole empezó a pasar por el Monarch sin que hubiera siempre una emergencia.
+Con las semanas, Kal empezó a pasar por el Monarch sin que hubiera siempre una emergencia.
 
 Al principio era trabajo. Una firma. Una factura. Un coche. Un nombre que debía dejar de estar en una lista o aparecer en otra. Después empezó a llevar pequeñas cosas que no parecían regalos porque venían disfrazadas de utilidad: un contacto de lavandería que sí contestaba de madrugada, el número de una empresa de hielo que no duplicaba recibos.
 
@@ -273,7 +273,7 @@ Chiara la levantó. Pesaba más de lo que parecía.
 
 —¿Y aun así trae la bisagra?
 
-Cole se acomodó la chaqueta para irse.
+Kal se acomodó la chaqueta para irse.
 
 —La puerta no estuvo en la reunión.
 
@@ -301,7 +301,7 @@ No aceptó cuando no había concepto.
 
 —Cuando yo soy la que queda debiendo, sí.
 
-Cole sostuvo el vaso de café con las dos manos, no por frío sino por tener algo que hacer.
+Kal sostuvo el vaso de café con las dos manos, no por frío sino por tener algo que hacer.
 
 —No me debe nada.
 
@@ -319,7 +319,7 @@ Chiara lo miró mejor. Tenía grasa en la orilla de una uña, una marca roja en 
 
 —¿Cómo está Walt? —preguntó ella.
 
-Cole levantó la vista.
+Kal levantó la vista.
 
 —¿Quién le dijo?
 
@@ -329,7 +329,7 @@ Cole levantó la vista.
 
 —¿Cómo está?
 
-Cole miró el café.
+Kal miró el café.
 
 —Afuera.
 
@@ -347,7 +347,7 @@ Chiara no preguntó más. Aprendía rápido dónde había puerta y dónde había
 
 —¿Le alcanza?
 
-Cole bebió café. Estaba malo. Lo agradeció porque le dio algo que odiar sin consecuencias.
+Kal bebió café. Estaba malo. Lo agradeció porque le dio algo que odiar sin consecuencias.
 
 —No sé todavía.
 
@@ -355,7 +355,7 @@ Fue una respuesta más honesta de lo que esperaba. También más pequeña. Chiar
 
 El elevador sonó.
 
-Tommaso salió al pasillo, vio a Cole junto a la máquina de café y se detuvo.
+Tommaso salió al pasillo, vio a Kal junto a la máquina de café y se detuvo.
 
 —Señor Mercer.
 
@@ -363,7 +363,7 @@ Tommaso salió al pasillo, vio a Cole junto a la máquina de café y se detuvo.
 
 El apellido cayó sobre Chiara como una moneda fría.
 
-Tommaso miró a Cole, luego a ella.
+Tommaso miró a Kal, luego a ella.
 
 —No sabía que ahora el mantenimiento incluía café.
 
@@ -373,13 +373,13 @@ Chiara sostuvo el vaso.
 
 —Qué eficiente.
 
-Cole dejó el vaso en la mesa.
+Kal dejó el vaso en la mesa.
 
 —Ya me iba.
 
 No lo dijo como retirada. Lo dijo como alguien que entiende cuándo una habitación quiere cobrarle el aire a otra persona.
 
-Chiara habría querido que se quedara sólo para no darle a Tommaso la satisfacción de verlo salir. Pero Cole no le preguntó con los ojos. No pidió papel en una escena ajena.
+Chiara habría querido que se quedara sólo para no darle a Tommaso la satisfacción de verlo salir. Pero Kal no le preguntó con los ojos. No pidió papel en una escena ajena.
 
 —Gracias por venir —dijo ella.
 
@@ -433,7 +433,7 @@ Pasó junto a él y entró al elevador antes de que la furia se le acomodara dem
 
 ***
 
-Esa noche Cole llegó a la Almendra a las once y media. El taller ya estaba cerrando; Danny dormía en una silla, como si el cuerpo le cobrara de golpe todas las horas que se había robado.
+Esa noche Kal llegó a la Almendra a las once y media. El taller ya estaba cerrando; Danny dormía en una silla, como si el cuerpo le cobrara de golpe todas las horas que se había robado.
 
 Se sentó en el borde del escritorio y miró el patio oscuro. En algún punto del día, entre una grúa, un proveedor y el pasillo del Monarch, se había acostumbrado a tener algo que contarle a alguien que no estaba en la Almendra.
 
@@ -443,7 +443,7 @@ El teléfono vibró.
 
 **Bellandi:** La rueda del carrito se rompió.
 
-Cole leyó el mensaje dos veces antes de guardar el teléfono.
+Kal leyó el mensaje dos veces antes de guardar el teléfono.
 
 —Mañana temprano paso por el Monarch —dijo, más para sí que para nadie.
 
@@ -455,7 +455,7 @@ La conversación con Tommaso no la sacó de trabajo. La metió más adentro.
 
 En la oficina administrativa abrió el registro de accesos de servicio de las últimas semanas y lo leyó como leía un balance: buscando el renglón que se repetía. Ahí estaba. Almendra Towing, una grúa. Almendra Towing, una camioneta prestada. Un tal Omar con uniforme limpio y una factura sin nada interesante. Una batería muerta que no lo estaba. Cada entrada venía entre paréntesis, con la misma nota de seguridad al margen —*visitante no programado, autorizado en sitio*—, y cada nota era una piedra que alguien como Tommaso podía levantar dentro de seis meses para ver qué había debajo.
 
-El problema no era que Cole entrara. Era que entraba como excepción, y las excepciones se acumulan hasta que alguien se sienta a contarlas.
+El problema no era que Kal entrara. Era que entraba como excepción, y las excepciones se acumulan hasta que alguien se sienta a contarlas.
 
 Lo corrigió antes de que existiera la pregunta.
 
@@ -467,7 +467,7 @@ Firmó, y se quedó un segundo con el cursor encima antes de mandarlo, porque po
 
 Lo mandó.
 
-La siguiente vez que Cole cruzó la caseta de la salida de carga, el guardia no salió a preguntarle nada: miró una pantalla, miró la placa, levantó la pluma. Chiara lo vio desde el muelle. Vio también que Cole se quedaba un segundo con el pie en el freno antes de avanzar, como si la pluma levantada fuera un dato que había que verificar.
+La siguiente vez que Kal cruzó la caseta de la salida de carga, el guardia no salió a preguntarle nada: miró una pantalla, miró la placa, levantó la pluma. Chiara lo vio desde el muelle. Vio también que Kal se quedaba un segundo con el pie en el freno antes de avanzar, como si la pluma levantada fuera un dato que había que verificar.
 
 Bajó cuando él ya tenía el cofre de un coche abierto y se limpiaba las manos con un trapo, mirando la caseta como quien revisa una junta nueva para ver si va a aguantar el invierno.
 
@@ -479,7 +479,7 @@ Bajó cuando él ya tenía el cofre de un coche abierto y se limpiaba las manos 
 
 —Desde que me dejó de convenir que fuera una noticia cada vez que aparece.
 
-Cole dobló el trapo.
+Kal dobló el trapo.
 
 —Eso le cuesta una firma.
 
@@ -489,7 +489,7 @@ No le dio las gracias. Ella no lo habría dejado, y él no lo intentó —sólo 
 
 ***
 
-Unos días después de que la caseta dejara de pedirle nombre, Cole pasó la tarde enseñándole a Rocco a dar la pata.
+Unos días después de que la caseta dejara de pedirle nombre, Kal pasó la tarde enseñándole a Rocco a dar la pata.
 
 No toda la tarde, si alguien preguntaba.
 
@@ -499,7 +499,7 @@ Si alguien preguntaba, había revisado dos frenos, firmado tres facturas, discut
 
 Rocco ladeó la cabeza.
 
-Cole le ofreció un pedazo de tortilla.
+Kal le ofreció un pedazo de tortilla.
 
 —Pata.
 
@@ -509,13 +509,13 @@ Nadir, desde la puerta de la oficina, soltó un silbido bajo.
 
 —Ese perro negocia mejor que medio barrio.
 
-—Es tu perro, Danny —dijo Cole.
+—Es tu perro, Danny —dijo Kal.
 
 Danny levantó las manos.
 
 —Mi perro sabe sobrevivir. No hacer etiqueta.
 
-Cole volvió a intentarlo.
+Kal volvió a intentarlo.
 
 —Pata.
 
@@ -527,13 +527,13 @@ Héctor miró la pata en su bota.
 
 Nadir se rió.
 
-Cole tomó aire.
+Kal tomó aire.
 
 —Otra vez.
 
 —¿Para quién es? —preguntó Danny.
 
-Cole no contestó.
+Kal no contestó.
 
 Nadir sonrió demasiado lento.
 
@@ -549,7 +549,7 @@ Héctor dejó la caja sobre una mesa.
 
 —¿La del casino?
 
-Cole le dio a Rocco otro pedazo de tortilla.
+Kal le dio a Rocco otro pedazo de tortilla.
 
 —Una amiga.
 
@@ -567,9 +567,9 @@ Nadir cruzó los brazos.
 
 —No esquives lo importante.
 
-Rocco levantó por fin la pata hacia Cole.
+Rocco levantó por fin la pata hacia Kal.
 
-Cole la tomó y le dio la tortilla.
+Kal la tomó y le dio la tortilla.
 
 —Buen perro.
 
@@ -577,19 +577,19 @@ Héctor lo miró de arriba abajo.
 
 —¿Y vas vestido así?
 
-Cole bajó la vista. Camiseta, jeans, botas, grasa en la muñeca.
+Kal bajó la vista. Camiseta, jeans, botas, grasa en la muñeca.
 
 —No.
 
 Los tres hombres lo miraron al mismo tiempo.
 
-Cole sintió que había cometido un error táctico.
+Kal sintió que había cometido un error táctico.
 
 ***
 
 La camioneta rentada era negra, grande y absurda.
 
-Cole la recogió en un lote del Distrito Marino donde los empleados usaban camisas blancas y decían *excelente elección* con el mismo tono con el que podrían haber dicho *firma aquí*. Revisó llantas, frenos, luces, papeles, kilometraje y el compartimento de la guantera antes de aceptar las llaves.
+Kal la recogió en un lote del Distrito Marino donde los empleados usaban camisas blancas y decían *excelente elección* con el mismo tono con el que podrían haber dicho *firma aquí*. Revisó llantas, frenos, luces, papeles, kilometraje y el compartimento de la guantera antes de aceptar las llaves.
 
 El vendedor lo observó con una sonrisa fija.
 
@@ -599,7 +599,7 @@ El vendedor lo observó con una sonrisa fija.
 
 —Claro.
 
-La camioneta olía a cuero, aromatizante caro y plástico demasiado limpio. Cole se sentó al volante y cerró la puerta. El interior era cómodo de una manera que le parecía sospechosa. Demasiado silencio, demasiada asistencia, demasiadas pantallas diciéndole cosas que él prefería sentir con las manos.
+La camioneta olía a cuero, aromatizante caro y plástico demasiado limpio. Kal se sentó al volante y cerró la puerta. El interior era cómodo de una manera que le parecía sospechosa. Demasiado silencio, demasiada asistencia, demasiadas pantallas diciéndole cosas que él prefería sentir con las manos.
 
 La rentó de todos modos.
 
@@ -611,7 +611,7 @@ Luego se puso una camisa limpia, saco oscuro, zapatos que no eran tenis y una fr
 
 —No.
 
-Cole tomó las llaves.
+Kal tomó las llaves.
 
 —¿Qué?
 
@@ -629,7 +629,7 @@ Danny apareció detrás de él con Rocco, que llevaba un pañuelo rojo en el cue
 
 —Por eso me preocupa.
 
-Héctor salió al patio, miró la camioneta y luego a Cole.
+Héctor salió al patio, miró la camioneta y luego a Kal.
 
 —¿Rentada?
 
@@ -637,7 +637,7 @@ Héctor salió al patio, miró la camioneta y luego a Cole.
 
 —Bien.
 
-Cole se sorprendió.
+Kal se sorprendió.
 
 —¿Bien?
 
@@ -655,13 +655,13 @@ Danny se llevó una mano al pecho.
 
 —Traidor.
 
-Cole tomó la correa.
+Kal tomó la correa.
 
 —Vuelvo tarde.
 
 —Claro —dijo Nadir—. Con una amiga.
 
-Cole no respondió.
+Kal no respondió.
 
 Eso fue suficiente para que los tres sonrieran.
 
@@ -671,7 +671,7 @@ Chiara bajó por la entrada lateral del Monarch a las ocho y dos.
 
 No venía de rojo. Esa noche llevaba negro, líneas limpias, tacones que podían correr si hacía falta y un abrigo ligero sobre los hombros. El cabello suelto cambiaba la forma de su cara. La volvía menos administrativa, no menos peligrosa.
 
-Cole bajó de la camioneta antes de que el valet pudiera preguntar nada.
+Kal bajó de la camioneta antes de que el valet pudiera preguntar nada.
 
 Rocco saltó después y casi se llevó la correa entre las patas.
 
@@ -683,7 +683,7 @@ Chiara se detuvo.
 
 —Eso no responde por qué está aquí.
 
-Cole miró a Rocco.
+Kal miró a Rocco.
 
 —Quería saludar.
 
@@ -693,11 +693,11 @@ Chiara levantó una ceja.
 
 —Sí.
 
-Cole se agachó junto a Rocco.
+Kal se agachó junto a Rocco.
 
 —Pata.
 
-Rocco se sentó, miró a Chiara, miró a Cole y levantó la pata con una solemnidad que no merecía la escena.
+Rocco se sentó, miró a Chiara, miró a Kal y levantó la pata con una solemnidad que no merecía la escena.
 
 Chiara se quedó quieta.
 
@@ -707,7 +707,7 @@ Luego le tomó la pata al perro.
 
 Rocco movió la cola.
 
-Cole se puso de pie como si aquello no hubiera sido lo más importante que había hecho en todo el día.
+Kal se puso de pie como si aquello no hubiera sido lo más importante que había hecho en todo el día.
 
 —Funciona mejor con tortilla.
 
@@ -715,7 +715,7 @@ Chiara miró al perro, luego a él.
 
 —¿Cuánto tiempo le tomó?
 
-Cole abrió la puerta de la camioneta.
+Kal abrió la puerta de la camioneta.
 
 —Sube solo.
 
@@ -731,13 +731,13 @@ Il Gelsomino cerró la terraza para ellos.
 
 O eso decía Enzo.
 
-En realidad, la terraza nunca cerraba del todo. Había una mesa ocupada en el interior por dos señoras que llevaban media hora discutiendo si el tiramisú era mejor antes. Un cocinero fumaba cerca de la puerta trasera. Claudio, el dueño, apareció lo suficiente para besarle la mano a Chiara y abrazar a Cole con la cautela de quien abraza a un cliente que también sabe dónde se guardan los cuchillos.
+En realidad, la terraza nunca cerraba del todo. Había una mesa ocupada en el interior por dos señoras que llevaban media hora discutiendo si el tiramisú era mejor antes. Un cocinero fumaba cerca de la puerta trasera. Claudio, el dueño, apareció lo suficiente para besarle la mano a Chiara y abrazar a Kal con la cautela de quien abraza a un cliente que también sabe dónde se guardan los cuchillos.
 
 Pero arriba, entre macetas de romero, buganvilia y luces pequeñas, la mesa era de ellos.
 
 No había músicos tristes.
 
-Cole lo agradeció en silencio.
+Kal lo agradeció en silencio.
 
 Chiara dejó el bolso junto a la silla. Rocco se acostó debajo de la mesa y suspiró como si hubiera trabajado todo el día, cosa que técnicamente era cierta.
 
@@ -755,13 +755,13 @@ Chiara dejó el bolso junto a la silla. Rocco se acostó debajo de la mesa y sus
 
 —El perro.
 
-Cole miró a Rocco.
+Kal miró a Rocco.
 
 —Insistió.
 
 Chiara sonrió.
 
-Esta vez no fue una risa de cortesía, ni una herramienta, ni una línea colocada en una habitación. Fue pequeña, casi privada. Cole tuvo que mirar el menú para no quedarse mirándola a ella.
+Esta vez no fue una risa de cortesía, ni una herramienta, ni una línea colocada en una habitación. Fue pequeña, casi privada. Kal tuvo que mirar el menú para no quedarse mirándola a ella.
 
 —Una amiga —dijo él, como si necesitara ordenar el término antes de que el silencio lo hiciera más grande.
 
@@ -769,7 +769,7 @@ Chiara tomó la copa de agua.
 
 —¿Eso soy?
 
-Cole no había previsto que ella recogiera la palabra.
+Kal no había previsto que ella recogiera la palabra.
 
 —Si le sirve.
 
@@ -779,7 +779,7 @@ Cole no había previsto que ella recogiera la palabra.
 
 Ella soltó una risa más clara.
 
-Cole abrió el menú aunque ya sabía lo que Enzo iba a recomendar y lo que Claudio iba a mandar de todos modos. La noche avanzó por cosas pequeñas: pan, aceite de oliva, pasta, vino que ella eligió después de olerlo y no aprobarlo del todo, una discusión sobre si San Aurelio sabía hacer café, otra sobre por qué los estadounidenses creían que poner pollo encima de cualquier cosa la volvía italiana.
+Kal abrió el menú aunque ya sabía lo que Enzo iba a recomendar y lo que Claudio iba a mandar de todos modos. La noche avanzó por cosas pequeñas: pan, aceite de oliva, pasta, vino que ella eligió después de olerlo y no aprobarlo del todo, una discusión sobre si San Aurelio sabía hacer café, otra sobre por qué los estadounidenses creían que poner pollo encima de cualquier cosa la volvía italiana.
 
 No hablaron de Alessio.
 
@@ -789,7 +789,7 @@ No hablaron de Dario, salvo cuando Chiara dijo:
 
 —Su nombre pesa incluso cuando no está.
 
-Cole cortó un pedazo de pan.
+Kal cortó un pedazo de pan.
 
 —Eso es mal diseño estructural.
 
@@ -815,11 +815,11 @@ Se quedaron callados.
 
 No fue incómodo.
 
-Cole no supo qué hacer con eso.
+Kal no supo qué hacer con eso.
 
 Abajo, en la calle, una moto pasó demasiado rápido. Rocco levantó la cabeza y volvió a dormir. Chiara se recargó en la silla, con la copa entre los dedos, y miró la ciudad como si estuviera decidiendo qué parte de ella podía volverse útil y qué parte podía volverse suya.
 
-—¿Extraña Palermo? —preguntó Cole.
+—¿Extraña Palermo? —preguntó Kal.
 
 Ella no contestó de inmediato.
 
@@ -841,7 +841,7 @@ Ella sonrió apenas.
 
 —Sí extraña algo, entonces.
 
-Cole dobló la servilleta.
+Kal dobló la servilleta.
 
 —No todo.
 
@@ -859,7 +859,7 @@ Rocco los vio primero y tiró de la correa.
 
 —Traidor —dijo Danny.
 
-Chiara miró al perro, luego a Cole.
+Chiara miró al perro, luego a Kal.
 
 —¿Son sus amigos?
 
@@ -885,7 +885,7 @@ Chiara inclinó la cabeza.
 
 Nadir soltó una carcajada.
 
-Cole sintió calor en el cuello.
+Kal sintió calor en el cuello.
 
 —Vámonos.
 
@@ -897,19 +897,19 @@ Cole sintió calor en el cuello.
 
 El golpe fue limpio.
 
-Chiara no miró a Cole. Tuvo esa cortesía. Pero la esquina de la boca se le movió.
+Chiara no miró a Kal. Tuvo esa cortesía. Pero la esquina de la boca se le movió.
 
 Danny olfateó el aire.
 
 —Es cierto.
 
-—Buenas noches —dijo Cole.
+—Buenas noches —dijo Kal.
 
 —Buonasera —dijo Nadir, con una pronunciación criminal.
 
 Chiara sí se rió.
 
-Cole abrió la puerta de la camioneta con demasiada eficiencia. Rocco subió, luego Chiara. Antes de cerrar, ella miró a Nadir y Danny.
+Kal abrió la puerta de la camioneta con demasiada eficiencia. Rocco subió, luego Chiara. Antes de cerrar, ella miró a Nadir y Danny.
 
 —Cuídenlo.
 
@@ -917,19 +917,19 @@ Nadir dejó de sonreír un segundo.
 
 —Eso intentamos.
 
-Cole cerró la puerta.
+Kal cerró la puerta.
 
 Cuando rodeó la camioneta, Danny le dijo en voz baja:
 
 —Nunca te había visto nervioso.
 
-Cole no contestó.
+Kal no contestó.
 
 Nadir lo remató:
 
 —Con una amiga.
 
-Cole subió al volante y arrancó.
+Kal subió al volante y arrancó.
 
 Chiara esperó a que giraran la esquina.
 
@@ -945,7 +945,7 @@ Ella miró por la ventana, sonriendo hacia la calle.
 
 No le preguntó por la tarde con Rocco.
 
-Cole lo agradeció tanto que casi se le notó.
+Kal lo agradeció tanto que casi se le notó.
 
 ***
 
@@ -957,7 +957,7 @@ Chiara bajó con el bolso y Rocco asomó la cabeza desde el asiento trasero como
 
 —Gracias por la cena —dijo ella.
 
-Cole sostuvo el volante.
+Kal sostuvo el volante.
 
 —Gracias por venir.
 
@@ -971,7 +971,7 @@ La palabra quedó entre los dos como una mentira elegante.
 
 Chiara cerró la puerta.
 
-Cole esperó a que cruzara la entrada lateral antes de irse.
+Kal esperó a que cruzara la entrada lateral antes de irse.
 
 Esa noche, por primera vez, ella no se sintió prestada al entrar al Monarch.
 

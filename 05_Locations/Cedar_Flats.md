@@ -42,7 +42,7 @@ Si más adelante hay cultivo ilegal, debe ser una decisión separada y con costo
 
 El Patio entra a Cedar Flats por el norte rural: Harper, Tyler, carreras, grúas, reparaciones, remolques, favores de carretera y gente que necesita que una avería no se convierta en visita policial.
 
-Cole no compra Cedar Flats de golpe. Sería absurdo. Se vuelve útil ahí igual que en La Almendra: resolviendo problemas pequeños hasta que la gente deja de recordar cómo se movía antes de llamarlo.
+Kal no compra Cedar Flats de golpe. Sería absurdo. Se vuelve útil ahí igual que en La Almendra: resolviendo problemas pequeños hasta que la gente deja de recordar cómo se movía antes de llamarlo.
 
 ---
 

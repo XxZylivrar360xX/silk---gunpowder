@@ -1,9 +1,9 @@
 <!--
 Estado: borrador provisional.
-Protagonistas: Chiara Bellandi, con apariciones de Blake Stanton, Dario Varek, Cole Mercer, Nadir Amrani, Daniel Hayes y Hector Navarro.
+Protagonistas: Chiara Bellandi, con apariciones de Blake Stanton, Dario Varek, Kal Mercer, Nadir Amrani, Daniel Hayes y Hector Navarro.
 Ventana temporal: dias despues del Capitulo 7 (la noche de hierba en el penthouse). Todavia se estan conociendo — antes del primer beso.
 Lugares: Gabriella's (fiesta de vestimenta blanca).
-Funcion: ejecutar H3 completo (a, b, c) — la noche del ladrillo. Tres apariciones de Cole en la cabeza de Chiara sin que este presente: el Peugeot (primera vez), la dedicatoria de Volare (segunda vez, ya registrada como patron y no como dato suelto), y su llegada real con la banda de la Almendra (la tercera, esta si en persona). Cierra con el final de lo de Blake — ruptura en la calle, no por Cole sino porque ella entiende que buscaba algo que ya habia encontrado en otro lado.
+Funcion: ejecutar H3 completo (a, b, c) — la noche del ladrillo. Tres apariciones de Kal en la cabeza de Chiara sin que este presente: el Peugeot (primera vez), la dedicatoria de Volare (segunda vez, ya registrada como patron y no como dato suelto), y su llegada real con la banda de la Almendra (la tercera, esta si en persona). Cierra con el final de lo de Blake — ruptura en la calle, no por Kal sino porque ella entiende que buscaba algo que ya habia encontrado en otro lado.
 -->
 
 # Capítulo 8 — La noche del ladrillo
@@ -50,7 +50,7 @@ Chiara no dijo nada.
 
 No porque no tuviera nada que decir, sino porque en la cabeza ya no estaba en la conversación. No estaba en un auto. Estaba en un hombre: en la forma en que había apoyado el antebrazo en la puerta de una grúa, en una voz que decía *no le mando propuesta* como si estuviera dictando ley, en una mano que se había negado a soltar unas llaves frente a un valet asustado.
 
-Fue la primera vez esa noche que Cole se le metió en la cabeza sin haber sido invitado.
+Fue la primera vez esa noche que Kal se le metió en la cabeza sin haber sido invitado.
 
 No dijo el nombre en voz alta. No hacía falta decírselo a nadie, y mucho menos a Blake.
 
@@ -90,7 +90,7 @@ No era la canción. Era lo que la canción decía de lo que Blake creía haber e
 
 En el tocador, con las manos apoyadas en el mármol frío del lavabo, Chiara se miró en el espejo más tiempo del necesario.
 
-Se acordó del penthouse, sin buscarlo. De un teléfono sostenido como quien entrega un arma que no sabe usar. *Es un dueto. Ella dice cosas bonitas. Él no le cree ni una.* De Cole fallando la letra la primera vez, encontrándola a medias en la segunda, y para la tercera ya riéndose de sí mismo con el acento del barrio pisándole cada sílaba italiana, sin que a ella le importara lo mal que sonaba, porque lo que importaba no era la pronunciación: era que lo estaba intentando, en serio, sin que nadie se lo pidiera.
+Se acordó del penthouse, sin buscarlo. De un teléfono sostenido como quien entrega un arma que no sabe usar. *Es un dueto. Ella dice cosas bonitas. Él no le cree ni una.* De Kal fallando la letra la primera vez, encontrándola a medias en la segunda, y para la tercera ya riéndose de sí mismo con el acento del barrio pisándole cada sílaba italiana, sin que a ella le importara lo mal que sonaba, porque lo que importaba no era la pronunciación: era que lo estaba intentando, en serio, sin que nadie se lo pidiera.
 
 Esa canción sí la definía. Nadie en Gabriella's sabía que existía.
 
@@ -122,15 +122,15 @@ No se detuvo a pensarlo. Se quedó mirando la boca del callejón con el bolso ap
 
 A los dos minutos aparecieron cuatro figuras caminando hacia la entrada principal.
 
-Cole. Nadir. Danny. Y detrás, con el paso de quien no necesita apurarse por nada, Héctor Navarro.
+Kal. Nadir. Danny. Y detrás, con el paso de quien no necesita apurarse por nada, Héctor Navarro.
 
-Los cuatro con ropa que no correspondía a nada de lo que había adentro — Cole con la chaqueta de siempre, Nadir con algo que parecía sacado directo del taller, Danny con una gorra que ningún portero de Gabriella's iba a dejar pasar sin comentario.
+Los cuatro con ropa que no correspondía a nada de lo que había adentro — Kal con la chaqueta de siempre, Nadir con algo que parecía sacado directo del taller, Danny con una gorra que ningún portero de Gabriella's iba a dejar pasar sin comentario.
 
 El portero, en efecto, no dejó pasar el comentario.
 
 —Esto es una fiesta de etiqueta, caballeros.
 
-Cole miró su propia ropa como si la viera por primera vez esa noche. Después miró al portero.
+Kal miró su propia ropa como si la viera por primera vez esa noche. Después miró al portero.
 
 —Bueno… mis calcetas son blancas.
 
@@ -138,7 +138,7 @@ El portero no supo qué contestar a eso, y en el silencio que siguió, Nadir sol
 
 Chiara, desde lejos, se rió disimuladamente detrás de la mano.
 
-Cole la vio.
+Kal la vio.
 
 No dijo nada, no se acercó, no le hizo una seña — sólo le dedicó una media sonrisa discreta, el tipo de gesto que cabía entero en dos segundos y que significaba exactamente lo que ella necesitaba que significara: *no respondí, pero vine de todas formas.*
 
@@ -148,7 +148,7 @@ El portero, resignado o simplemente cansado, los dejó pasar.
 
 ***
 
-Adentro, entre el ruido de la fiesta y la gente vestida exactamente igual, Chiara se apartó con Cole a un rincón donde nadie más estaba escuchando.
+Adentro, entre el ruido de la fiesta y la gente vestida exactamente igual, Chiara se apartó con Kal a un rincón donde nadie más estaba escuchando.
 
 —Vine con unos amigos —dijo ella, con la cara seria de quien está explicando algo que no necesita explicación.
 
@@ -164,9 +164,9 @@ Nadir y Danny se habían quedado cerca de la barra, discutiendo en voz baja sobr
 
 —¿Cuál apuesta?
 
-—Mejor no. —Cole sonrió apenas—. Es más fácil quererlo si no sabes los detalles.
+—Mejor no. —Kal sonrió apenas—. Es más fácil quererlo si no sabes los detalles.
 
-Un mesero pasó con una charola de copas. Cole tomó dos, le dio una y levantó la suya sin ceremonia.
+Un mesero pasó con una charola de copas. Kal tomó dos, le dio una y levantó la suya sin ceremonia.
 
 —Por las fiestas donde no combinas.
 
@@ -176,7 +176,7 @@ Chocaron las copas. Chiara bebió más rápido de lo que solía — ésta ya era
 
 —Vine con unos amigos —repitió, aunque ya lo había dicho, porque el vino a veces repetía cosas por ella.
 
-Cole no se lo hizo notar.
+Kal no se lo hizo notar.
 
 —¿No quieres un ladrillo?
 
@@ -186,7 +186,7 @@ Chiara lo miró. En este mundo, en esta ciudad, esa pregunta significaba exactam
 
 —Ven. —Le tomó la mano, sin pedir permiso y sin darle tiempo a decidir si eso estaba bien—. Acompáñame.
 
-La llevó por el pasillo de los baños, más oscuro, con menos gente y menos atención de la que había en la pista. Ahí, contra la pared, Cole abrió el doble fondo de su chaqueta y sacó lo que traía guardado.
+La llevó por el pasillo de los baños, más oscuro, con menos gente y menos atención de la que había en la pista. Ahí, contra la pared, Kal abrió el doble fondo de su chaqueta y sacó lo que traía guardado.
 
 Un ladrillo.
 
@@ -198,9 +198,9 @@ Chiara se lo quedó mirando, entendiendo poco a poco lo absurdo y lo espontáneo
 
 —Qué bobo eres.
 
-Cole se rió también, la clase de risa que no usaba con nadie más en ese salón.
+Kal se rió también, la clase de risa que no usaba con nadie más en ese salón.
 
-Se quedaron ahí un momento, ella con un ladrillo en las manos en un pasillo de baños de una fiesta de etiqueta, él sin ninguna prisa por explicarse, hasta que el teléfono de Cole vibró y su cara cambió lo suficiente para que ella entendiera que la noche, para él, ya se había terminado.
+Se quedaron ahí un momento, ella con un ladrillo en las manos en un pasillo de baños de una fiesta de etiqueta, él sin ninguna prisa por explicarse, hasta que el teléfono de Kal vibró y su cara cambió lo suficiente para que ella entendiera que la noche, para él, ya se había terminado.
 
 —Tengo que irme. Trabajo de madrugada.
 
@@ -276,9 +276,9 @@ Se dio la vuelta antes de que él pudiera contestar, levantó la mano hacia la c
 
 Adentro del taxi, con la ciudad pasando borrosa por la ventana, Chiara dejó que el vino y el cansancio hicieran lo que la sobriedad llevaba semanas sin dejarle hacer: pensar sin editarse.
 
-Blake y Cole eran, por fuera, casi el mismo hombre. Los dos rubios. Los dos de ojos azules. Cualquiera que los viera de lejos podría confundirlos.
+Blake y Kal eran, por fuera, casi el mismo hombre. Los dos rubios. Los dos de ojos azules. Cualquiera que los viera de lejos podría confundirlos.
 
-Pero Blake necesitaba llenar el espacio en el que estaba parado — necesitaba que todos supieran que ella era suya, que su coche era rápido, que su lugar en el Departamento importaba. Cole no necesitaba nada de eso. Cole sólo existía en el espacio que se había ganado, sin pedirle permiso a nadie para ocuparlo, y sin necesitar que ella se lo confirmara.
+Pero Blake necesitaba llenar el espacio en el que estaba parado — necesitaba que todos supieran que ella era suya, que su coche era rápido, que su lugar en el Departamento importaba. Kal no necesitaba nada de eso. Kal sólo existía en el espacio que se había ganado, sin pedirle permiso a nadie para ocuparlo, y sin necesitar que ella se lo confirmara.
 
 No había salido con Blake por Blake. Había salido buscando algo que ya conocía, aunque lo disfrazara cada vez de otra cosa: el ruido de una fiesta cuando en realidad quería una canción compartida; un brazo alrededor de los hombros cuando en realidad quería un choque de puños; la sensación fácil de gustarle a alguien cuando en realidad ya sabía lo que se sentía que alguien la viera de verdad — y se había equivocado de cuarto.
 

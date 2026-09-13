@@ -31,7 +31,7 @@ No leer `log.md` completo. Usar `rg` sobre `log.md` si hace falta ubicar una ses
 | Reglas de escritura | `00_Biblia/Principios_Narrativos.md` |
 | Fases | `01_Timeline/00_Estructura_del_Ascenso.md` |
 | Outline macro | `01_Timeline/01_Primer_Borrador_Beats.md` |
-| Cole/Chiara | `06_Relationships/Cole_y_Chiara.md` |
+| Kal/Chiara | `06_Relationships/Kal_y_Chiara.md` |
 | Hitos canon | `06_Relationships/Hitos.md` |
 | Fracturas | `06_Relationships/Momentos_de_Fractura.md` |
 | Voto de Ceniza / Guerra de los Tres | `04_Concepts/La_Guerra_de_los_Tres.md` |

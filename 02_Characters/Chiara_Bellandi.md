@@ -25,7 +25,7 @@ En su llegada a San Aurelio viste **blusa roja sin mangas, pantalón de vestir n
 
 El único tic que no controla: cuando algo la sorprende de verdad, se toca el anular izquierdo. **Ahí llevó un anillo de matrimonio.** Ya no está, y la mano no lo ha aceptado.
 
-**Canon menor (2026-08-27):** es **alérgica a la mostaza** desde niña — le cierra la garganta. Lo mencionó una vez, de pasada, a [[02_Characters/Mabel_Ortiz]]. En el Capítulo 7, el primer plato que Cole le lleva es una torta de La Esquina de Mabel **hecha sin mostaza a propósito**: él retuvo el dato sin que ella se lo dijera. Uso narrativo: es de las primeras señales de que Cole pone atención en lo pequeño.
+**Canon menor (2026-08-27):** es **alérgica a la mostaza** desde niña — le cierra la garganta. Lo mencionó una vez, de pasada, a [[02_Characters/Mabel_Ortiz]]. En el Capítulo 7, el primer plato que Kal le lleva es una torta de La Esquina de Mabel **hecha sin mostaza a propósito**: él retuvo el dato sin que ella se lo dijera. Uso narrativo: es de las primeras señales de que Kal pone atención en lo pequeño.
 
 ---
 
@@ -62,13 +62,13 @@ Debajo de toda la técnica hay una sola cosa que Chiara no administra, y es la m
 
 No es sumisión, no es dependencia y no es falta de límites — Chiara tiene límites de acero y los defiende sin levantar la voz. Es que, hecha la elección, permanece: se queda, recuerda, cuida, vuelve, y convierte gestos repetidos en rituales privados que sólo existen entre dos personas. Le da significado a las cosas pequeñas, que es exactamente lo contrario de lo que hace en su trabajo, donde el significado es algo que fabrica y desecha.
 
-Por eso es tan buena leyendo a Cole: **no confunde su dificultad para decir las cosas con ausencia de sentimiento.** Reconoce lo que hay detrás de lo que él no dice, y no lo obliga a decirlo. Ésa es la puerta por la que entra.
+Por eso es tan buena leyendo a Kal: **no confunde su dificultad para decir las cosas con ausencia de sentimiento.** Reconoce lo que hay detrás de lo que él no dice, y no lo obliga a decirlo. Ésa es la puerta por la que entra.
 
 Y por eso es tan cara la contradicción: la única persona a la que Chiara necesita no mentirle es la única a la que podría mentirle mejor que a nadie.
 
-#### En privado con Cole
+#### En privado con Kal
 
-Detrás de las cuatro paredes, la mujer exacta habla con caricias: la mano sobre el brazo de Cole a media frase, dormir con una mano bajo su playera sólo por estar ahí, porque es su lugar. Lo mira con ternura cuando él se pierde con tres cucharas que no sabe para qué son, y no se ríe de él — lo deja perderse. Le dice *amore*, *amore mio*, *bello* — el italiano de cariño, extensión del tic que ya tiene (italiano en la boca cuando está cómoda). Después de [[06_Relationships/Hitos#H21 — Mi pareja|H21]] contesta sus llamadas con *"Ciao, bello"* y él responde *"ciao, bellissima"*: ritual de la pareja para toda la trilogía, distinto del *"Ciao"* que se dice a sí misma para no perder el acento.
+Detrás de las cuatro paredes, la mujer exacta habla con caricias: la mano sobre el brazo de Kal a media frase, dormir con una mano bajo su playera sólo por estar ahí, porque es su lugar. Lo mira con ternura cuando él se pierde con tres cucharas que no sabe para qué son, y no se ríe de él — lo deja perderse. Le dice *amore*, *amore mio*, *bello* — el italiano de cariño, extensión del tic que ya tiene (italiano en la boca cuando está cómoda). Después de [[06_Relationships/Hitos#H21 — Mi pareja|H21]] contesta sus llamadas con *"Ciao, bello"* y él responde *"ciao, bellissima"*: ritual de la pareja para toda la trilogía, distinto del *"Ciao"* que se dice a sí misma para no perder el acento.
 
 **Es ella quien le abre la sala para que hable.** No lo obliga, no le saca las palabras: reconoce lo que hay detrás de lo que él no dice y le deja el espacio para decirlo cuando pueda. Ver la línea de H21 — *"Tiri fuori il meglio di me; lascia che ti restituisca un po' di tutto questo"* — y su nota: no es discurso terapéutico. **Sigue sin ser cuidadora y sin curar a nadie** (ver "Lo que Chiara no es"): lo ablanda haciendo, no arreglándolo.
 
@@ -78,11 +78,11 @@ Chiara es católica devota.
 
 No como adorno cultural ni como contradicción simple con el mundo criminal. La fe en ella es disciplina, costumbre, culpa, promesa y una forma privada de miedo. Cree, reza, enciende velas y no siente necesidad de justificarlo.
 
-Cada vez que Cole sale a "trabajar", ella detiene lo que estaba haciendo y enciende una vela para pedir que Dios lo cuide y lo traiga a casa. Si puede, lo hace en [[05_Locations/Iglesia_Santa_Lucia]]. Si no, lo hace en casa.
+Cada vez que Kal sale a "trabajar", ella detiene lo que estaba haciendo y enciende una vela para pedir que Dios lo cuide y lo traiga a casa. Si puede, lo hace en [[05_Locations/Iglesia_Santa_Lucia]]. Si no, lo hace en casa.
 
 **Regla:** la vela no lo absuelve a él ni la absuelve a ella. Sólo revela cuánto cuesta esperar.
 
-El ritual nace después del Año Nuevo en Washington: la noche en que Cole viaja por una deuda con [[02_Characters/Anya_Voronina]] y Chiara entiende, con demasiada claridad, que amarlo también significa verlo elegir obligaciones que lo destruyen. Ver [[06_Relationships/Momentos_de_Fractura]], F4.
+El ritual nace después del Año Nuevo en Washington: la noche en que Kal viaja por una deuda con [[02_Characters/Anya_Voronina]] y Chiara entiende, con demasiada claridad, que amarlo también significa verlo elegir obligaciones que lo destruyen. Ver [[06_Relationships/Momentos_de_Fractura]], F4.
 
 ### Las cartas — CANON DEL AUTOR (2026-08-26), BASE DE ARCO RESERVADO
 
@@ -94,15 +94,15 @@ Tres rasgos fijos, siempre los tres juntos:
 - **Aroma a canela y vainilla.** El papel lo lleva encima, y por eso también lo lleva la letra. Es reconocible sin necesidad de firma: quien ha recibido una carta suya una vez, reconoce la siguiente por el olor antes de leer una palabra.
 - **Manuscrita.** Nunca a máquina, nunca impresa. Su letra, con su mano, siempre — cursiva, cuidada, la misma con la que firmaría cualquier otra cosa que de verdad quisiera que le pertenezca.
 
-> **AUTOR — arco reservado con Cole:** el autor tiene planeado un arco con Cole construido sobre esta característica. El agente no debe inventar su contenido ni adelantarlo — sólo sostener el rasgo con consistencia (papel propio, aroma, manuscrita) cada vez que aparezca una carta suya en el manuscrito, para que el arco tenga suelo firme cuando el autor lo escriba.
+> **AUTOR — arco reservado con Kal:** el autor tiene planeado un arco con Kal construido sobre esta característica. El agente no debe inventar su contenido ni adelantarlo — sólo sostener el rasgo con consistencia (papel propio, aroma, manuscrita) cada vez que aparezca una carta suya en el manuscrito, para que el arco tenga suelo firme cuando el autor lo escriba.
 
 **Y es la base de [[03_Factions/Red_Civil_de_Chiara]], sección "I Sussurri":** los papelitos en latín que mueve su red no son un objeto aparte inventado para el espionaje. **Son recortes del mismo papel de sus cartas** — el mismo aroma, la misma letra, distinta lengua. Ver esa sección para el ejemplo físico completo.
 
-### Su función en la novela: no dejar que Cole se borre
+### Su función en la novela: no dejar que Kal se borre
 
-Si hubiera que reducir a Chiara a un solo movimiento repetido, es éste: **Cole se quita a sí mismo del cuadro, y ella lo devuelve.**
+Si hubiera que reducir a Chiara a un solo movimiento repetido, es éste: **Kal se quita a sí mismo del cuadro, y ella lo devuelve.**
 
-Él minimiza lo que le cuesta todo — es su patología entera ([[02_Characters/Cole_Mercer]], "El puente"). Y ella, sin discutir, sin sermón y casi sin darle importancia, se niega a aceptarlo. Lo hace desde la primera noche y lo sigue haciendo hasta la última:
+Él minimiza lo que le cuesta todo — es su patología entera ([[02_Characters/Kal_Mercer]], "El puente"). Y ella, sin discutir, sin sermón y casi sin darle importancia, se niega a aceptarlo. Lo hace desde la primera noche y lo sigue haciendo hasta la última:
 
 | | Él se borra | Ella lo devuelve |
 |---|---|---|
@@ -139,7 +139,7 @@ De ahí sale entera: Chiara sabe exactamente cuánto cuesta quedarse, y se queda
 
 > **CREENCIA DE CHIARA (canon del autor, actualizado 2026-09-09):** los federales irrumpieron en una redada contra Corrado. Semanas después llegó un comunicado: el capo de la famiglia Ardizzone había fallecido en una **caída desde el acantilado de la villa de Palermo**; federales y comisión dieron la misma frase, palabra por palabra. **Nunca hubo cuerpo.** Chiara cree que lo perdió, y no tener siquiera un cuerpo que poner junto al de Marta es una cuenta que paga sola cada aniversario, sin que nadie en San Aurelio lo sepa. Formulada así por primera vez en prosa en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/26_Libros_Abiertos|Cap. 26]] (jacuzzi).
 >
-> **VERDAD DEL AUTOR (Chiara no la conoce; no insinuar en prosa):** el canon de fondo vigente ([[00_Biblia/00_Trilogy_Structure]], [[12_Craft_Policies/revelations/SAGA_LEVEL]]) es que **Corrado está vivo** y oculto en Italia; primer reveal a Cole en la coda del Libro II.
+> **VERDAD DEL AUTOR (Chiara no la conoce; no insinuar en prosa):** el canon de fondo vigente ([[00_Biblia/00_Trilogy_Structure]], [[12_Craft_Policies/revelations/SAGA_LEVEL]]) es que **Corrado está vivo** y oculto en Italia; primer reveal a Kal en la coda del Libro II.
 
 La culpa de fondo era del [[03_Factions/Il_Consorzio]]: el Consorcio puso las condiciones, los intereses y la trampa. Pero la mano visible fue federal.
 
@@ -156,7 +156,7 @@ Eso no vuelve inocente a Corrado ni convierte a los federales en villanos simple
 > *"Un giorno, bambina mia, capirai il prezzo di reggere il mondo sulle tue spalle. Ma non dimenticare mai: la chiave è non farlo da sola."*
 > Algún día, mi amada niña, entenderás el precio que tiene sostener el mundo en tus hombros. Solo no olvides que la clave está en no hacerlo sola.
 
-De niña la leyó como una frase sobre crecer. Se la dice a Cole por primera vez en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/26_Libros_Abiertos|Cap. 26]] (el jacuzzi), y es más de lo que le ha contado a nadie en San Aurelio. **Ironía que el texto no explicita:** Chiara construye poder exactamente como la frase advertía — sola — y esa tensión queda disponible para pagarse más adelante en la trilogía.
+De niña la leyó como una frase sobre crecer. Se la dice a Kal por primera vez en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/26_Libros_Abiertos|Cap. 26]] (el jacuzzi), y es más de lo que le ha contado a nadie en San Aurelio. **Ironía que el texto no explicita:** Chiara construye poder exactamente como la frase advertía — sola — y esa tensión queda disponible para pagarse más adelante en la trilogía.
 
 ### Lo que aprendió en esa casa, y lo que ha estado buscando desde entonces
 
@@ -164,7 +164,7 @@ De niña la leyó como una frase sobre crecer. Se la dice a Cole por primera vez
 
 Ésa es la medida con la que evalúa toda su vida sentimental, y es implacable porque es alta y porque la vio funcionar de verdad.
 
-Su canción es *Un anno d'amore*, de Mina. **No es una canción que le guste: es el eco de esa casa.** Se la pone a Cole la primera noche que pasan juntos, en el penthouse ([[06_Relationships/Hitos]], H2-b) — **y esta vez sí se la traduce, línea por línea**, contándole lo que dice por debajo: que hay amores que no terminan aunque uno quiera, que esa canción sonaba los domingos en casa de sus padres. Le pone sobre la mesa lo único que ha querido en su vida, y **él se esfuerza por entenderlo** — imperfecto, aprendiz, pero por primera vez sin barrera de idioma entre los dos. *(Actualizado 2026-08-27: reemplaza la versión anterior, donde no se traducía nada.)*
+Su canción es *Un anno d'amore*, de Mina. **No es una canción que le guste: es el eco de esa casa.** Se la pone a Kal la primera noche que pasan juntos, en el penthouse ([[06_Relationships/Hitos]], H2-b) — **y esta vez sí se la traduce, línea por línea**, contándole lo que dice por debajo: que hay amores que no terminan aunque uno quiera, que esa canción sonaba los domingos en casa de sus padres. Le pone sobre la mesa lo único que ha querido en su vida, y **él se esfuerza por entenderlo** — imperfecto, aprendiz, pero por primera vez sin barrera de idioma entre los dos. *(Actualizado 2026-08-27: reemplaza la versión anterior, donde no se traducía nada.)*
 
 ### El primer matrimonio — Alessio Lusardi
 
@@ -190,7 +190,7 @@ Y explica el único fracaso que le duele: **la versión cerró las consecuencias
 
 Es la explicación del anillo que ya no lleva y del dedo que todavía no lo asume. Y vuelve carísima su regla: *me quedo* no es una frase de alguien que ignora el precio — es de alguien que **ya se quedó una vez donde no valía la pena**, hasta el final, y que aun así no dejó de creer en la medida de sus padres.
 
-**Y el libro se lo va a dar.** Su relación con Cole sí le da lo que su matrimonio no: amor, respeto y admiración — **aunque vivan en el mundo en el que viven.** Ver [[06_Relationships/Cole_y_Chiara]].
+**Y el libro se lo va a dar.** Su relación con Kal sí le da lo que su matrimonio no: amor, respeto y admiración — **aunque vivan en el mundo en el que viven.** Ver [[06_Relationships/Kal_y_Chiara]].
 
 ### Los tres apellidos
 
@@ -202,7 +202,7 @@ Es la explicación del anillo que ya no lleva y del dedo que todavía no lo asum
 
 Legalmente pudo ser *Chiara Bellandi Lusardi*, y en ciertos círculos *signora Lusardi*. **Después de Alessio recuperó Bellandi de inmediato** y no volvió a soltarlo.
 
-**Y habrá un cuarto que nunca llega:** *Mercer* no necesita sustituir a Bellandi para que Cole sea su familia — **y Cole jamás se lo ofrece**, porque respeta las decisiones que ella ya tomó. Ver [[06_Relationships/Hitos]], H4.
+**Y habrá un cuarto que nunca llega:** *Mercer* no necesita sustituir a Bellandi para que Kal sea su familia — **y Kal jamás se lo ofrece**, porque respeta las decisiones que ella ya tomó. Ver [[06_Relationships/Hitos]], H4.
 
 ### El oficio
 
@@ -222,7 +222,7 @@ La mandan. No huye — o al menos ésa es la versión, y la versión la escribi�
 
 Lo que no estaba en las instrucciones: que la ciudad tuviera un diario viejo, moribundo y todavía creído, y que nadie se hubiera dado cuenta de lo que eso vale. **El casino es de otros; el diario va a ser suyo.** Ése es su arco entero, dicho en propiedad. Ver [[03_Factions/El_Faro]].
 
-Más adelante, cuando San Aurelio deja de ser sólo encargo y se vuelve elección, aparece [[05_Locations/Bellandi_Ridge_Vineyards]]: los viñedos de Chiara en la ladera norte. No son la base criminal de Cole ni una simple fachada. Son el apellido Bellandi convertido en tierra, una forma de decir que ella también puede construir algo que no dependa de instrucciones ajenas.
+Más adelante, cuando San Aurelio deja de ser sólo encargo y se vuelve elección, aparece [[05_Locations/Bellandi_Ridge_Vineyards]]: los viñedos de Chiara en la ladera norte. No son la base criminal de Kal ni una simple fachada. Son el apellido Bellandi convertido en tierra, una forma de decir que ella también puede construir algo que no dependa de instrucciones ajenas.
 
 ---
 
@@ -239,7 +239,7 @@ Su moneda más cara no es publicar: es **matar**. Que algo no salga vale más qu
 
 Pero el periódico no es el origen de su información. Es el instrumento que convierte una parte de esa información en hecho público.
 
-En [[04_Concepts/La_Guerra_de_los_Tres|la Guerra de los Tres, en Voto de Ceniza]], Chiara no “controla la prensa”: compite por la explicación que ocupa el vacío después de cada explosión, operativo, arresto, muerte, cierre o ataque. Debe existir una diferencia verificable entre lo ocurrido, lo que vio la policía, lo que informó la prensa, lo que cree la ciudad y lo que Chiara quiere que crea. Ésta es la guerra del relato al mismo nivel que la guerra territorial de Cole.
+En [[04_Concepts/La_Guerra_de_los_Tres|la Guerra de los Tres, en Voto de Ceniza]], Chiara no “controla la prensa”: compite por la explicación que ocupa el vacío después de cada explosión, operativo, arresto, muerte, cierre o ataque. Debe existir una diferencia verificable entre lo ocurrido, lo que vio la policía, lo que informó la prensa, lo que cree la ciudad y lo que Chiara quiere que crea. Ésta es la guerra del relato al mismo nivel que la guerra territorial de Kal.
 
 Antes de [[03_Factions/El_Faro]] está la [[03_Factions/Red_Civil_de_Chiara]]: tiendas, restaurantes, salones, valet, cocinas, mujeres mayores, asistentes, meseras, choferes y rumores de barrio. Chiara entiende que el chisme no es ruido si sabes dirigirlo.
 
@@ -249,51 +249,51 @@ En un evento de caridad, Chiara empieza a hacer algo distinto de escuchar a la c
 
 Ahí conoce a **[[02_Characters/Kenji_Oda]]**, un joven japonés con capacidad para manejar situaciones complicadas y mucha creatividad. Le ofrece empleo como el nuevo gerente de caja del [[03_Factions/El_Casino]] — administrador de fichas y entrega de premios. Una vez que él ya lleva tiempo trabajando con ella, se lo propone con sutileza, en italiano: se convierte en el primer **sussurro** de **i Sussurri**, su capa privada de informantes. La información viaja escrita, en latín, en trozos pequeños de papel — nunca hablada. Ver [[03_Factions/Red_Civil_de_Chiara]].
 
-### El primer roce con Cole — DISEÑO (2026-08-26)
+### El primer roce con Kal — DISEÑO (2026-08-26)
 
-Antes del penthouse, antes de que ninguno de los dos le ponga nombre a lo que están construyendo, hay un primer desacuerdo real. Chiara usa a un chico del barrio para mover uno de los papeles de i Sussurri, por practicidad — es invisible, rápido, barato — con el papel encabezado **"Roma Atrii"**: su clave privada para Cole, ROMA siendo AMOR al revés y *atrii* el genitivo latino de "patio" (ver [[03_Factions/Red_Civil_de_Chiara]], "El cifrado dentro del cifrado"; encaja con el arco reservado de "Las cartas", arriba). Ni el chico ni Cole saben que están hablando de la misma persona. Cole intercepta al chico cerca de [[03_Factions/Almendra_Towing|El Patio]] y va a buscarla al casino, dispuesto a romper el arreglo entero.
+Antes del penthouse, antes de que ninguno de los dos le ponga nombre a lo que están construyendo, hay un primer desacuerdo real. Chiara usa a un chico del barrio para mover uno de los papeles de i Sussurri, por practicidad — es invisible, rápido, barato — con el papel encabezado **"Roma Atrii"**: su clave privada para Kal, ROMA siendo AMOR al revés y *atrii* el genitivo latino de "patio" (ver [[03_Factions/Red_Civil_de_Chiara]], "El cifrado dentro del cifrado"; encaja con el arco reservado de "Las cartas", arriba). Ni el chico ni Kal saben que están hablando de la misma persona. Kal intercepta al chico cerca de [[03_Factions/Almendra_Towing|El Patio]] y va a buscarla al casino, dispuesto a romper el arreglo entero.
 
-Chiara no discute el punto ni defiende el método. **Entiende la línea apenas se la nombran**, se disculpa sin argumentar y da su palabra de que no se repite — y con eso el desacuerdo se cierra antes de empezar de verdad. Pero no cierra el otro hilo: le dice que de ahora en más, si algo tiene que llegarle a Cole, **lo trae ella misma** — confirmando sin nombrarlo que él es "Roma Atrii" — y cuando él pregunta qué significa, se lo niega con una promesa aplazada: *"Eso no te lo voy a decir. Todavía no."* Se paga mucho después, el día de su cumpleaños (23 de noviembre) — reservado para el autor, sin detalle todavía. Boceto completo en [[07_Ideas/El_Chico_Del_Patio]]. Consecuencia dura: **i Sussurri deja de reclutar menores**, regla fija a partir de aquí. Ver [[03_Factions/Red_Civil_de_Chiara]].
+Chiara no discute el punto ni defiende el método. **Entiende la línea apenas se la nombran**, se disculpa sin argumentar y da su palabra de que no se repite — y con eso el desacuerdo se cierra antes de empezar de verdad. Pero no cierra el otro hilo: le dice que de ahora en más, si algo tiene que llegarle a Kal, **lo trae ella misma** — confirmando sin nombrarlo que él es "Roma Atrii" — y cuando él pregunta qué significa, se lo niega con una promesa aplazada: *"Eso no te lo voy a decir. Todavía no."* Se paga mucho después, el día de su cumpleaños (23 de noviembre) — reservado para el autor, sin detalle todavía. Boceto completo en [[07_Ideas/El_Chico_Del_Patio]]. Consecuencia dura: **i Sussurri deja de reclutar menores**, regla fija a partir de aquí. Ver [[03_Factions/Red_Civil_de_Chiara]].
 
 ### La carrera de máscaras — CANON DEL AUTOR (2026-08-23), ESCRITO (2026-08-29)
 
-En [[06_Relationships/Hitos#H9 — La carrera de máscaras|H9]] ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_La_Carrera_De_Mascaras|Capítulo 9]]), después de reconocer en la noche del ladrillo que Cole le importa de verdad, Chiara hace **lo contrario de huir**: se sube al Peugeot rojo cuando él le dice que se ponga algo cómodo. Pasan por **La Tramoya** a comprar máscaras — Cole una negra lisa, ella una **Colombina negra** (aun eligiendo lo práctico, no toma una fea) — y corren por las perimetrales de Kingsley Field en la carrera que organiza [[02_Characters/Tyler_Brooks]]. Ahí, en el asiento del copiloto, se le rompe el control de administrarlo todo y **se ríe de verdad**, una carcajada sin cálculo que llevaba años sin oírse.
+En [[06_Relationships/Hitos#H9 — La carrera de máscaras|H9]] ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_La_Carrera_De_Mascaras|Capítulo 9]]), después de reconocer en la noche del ladrillo que Kal le importa de verdad, Chiara hace **lo contrario de huir**: se sube al Peugeot rojo cuando él le dice que se ponga algo cómodo. Pasan por **La Tramoya** a comprar máscaras — Kal una negra lisa, ella una **Colombina negra** (aun eligiendo lo práctico, no toma una fea) — y corren por las perimetrales de Kingsley Field en la carrera que organiza [[02_Characters/Tyler_Brooks]]. Ahí, en el asiento del copiloto, se le rompe el control de administrarlo todo y **se ríe de verdad**, una carcajada sin cálculo que llevaba años sin oírse.
 
-Lo que la asusta después no es el riesgo — es la **facilidad**. Que se lo pasara demasiado bien. Por eso, unos días, **administra distancia** con él: mensajes tarde, llamadas cortas, excusas de trabajo — no por arrepentimiento, sino porque *no* se arrepiente en absoluto. Esa distancia se cruza con el aniversario de la muerte de Marta y con la presión de Tommaso por el homenaje de Alessio, y es lo que la lleva, ese domingo, a bajar sola al hipódromo con el teléfono en la mano y el nombre de Cole en la pantalla — justo antes del golpe de H12.
+Lo que la asusta después no es el riesgo — es la **facilidad**. Que se lo pasara demasiado bien. Por eso, unos días, **administra distancia** con él: mensajes tarde, llamadas cortas, excusas de trabajo — no por arrepentimiento, sino porque *no* se arrepiente en absoluto. Esa distancia se cruza con el aniversario de la muerte de Marta y con la presión de Tommaso por el homenaje de Alessio, y es lo que la lleva, ese domingo, a bajar sola al hipódromo con el teléfono en la mano y el nombre de Kal en la pantalla — justo antes del golpe de H12.
 
-**Objeto:** la **Colombina negra** queda olvidada en el Peugeot (guantera / asiento trasero). Cole la ve, no la tira, no corre a devolverla. Disponible para reaparecer más adelante — decisión del autor.
+**Objeto:** la **Colombina negra** queda olvidada en el Peugeot (guantera / asiento trasero). Kal la ve, no la tira, no corre a devolverla. Disponible para reaparecer más adelante — decisión del autor.
 
 ### El ataque, la casa común y la casa de los dos — CANON DEL AUTOR (2026-08-27; revisado 2026-08-29)
 
 En [[06_Relationships/Hitos#H12 — El atentado / El corral|H12]], alguien la golpea por la espalda mientras cierra el corral de un caballo. Un solo golpe. No despierta hasta el hospital, y ni ella ni el lector saben quién fue. Se recupera **temporalmente** en [[05_Locations/Casa_Comunitaria_De_La_Almendra]], y la convivencia forzada ahí enciende la fricción con [[02_Characters/Nadir_Amrani]].
 
-Esa fricción empuja a Cole al hito siguiente — [[06_Relationships/Hitos#H14 — El loft del soltero|El loft del soltero]]: recompra la casa de sus padres y Chiara la diseña y la amuebla, pagándolo todo ella misma aunque de cara a los demás la versión sea "apoyo del casino". En esa etapa Chiara **todavía no se muda** — pasa tiempo, cena, duerme alguna noche, deja algún objeto suelto (un libro, una manta, un cepillo, una taza favorita). La **mudanza oficial** llega mucho después, el día de su cumpleaños ([[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]]), y es entonces cuando el lugar se vuelve hogar compartido — porque lo eligen, no por el ataque. *(La prosa del Capítulo 10 se podó el 2026-08-29 para respetar esto.)*
+Esa fricción empuja a Kal al hito siguiente — [[06_Relationships/Hitos#H14 — El loft del soltero|El loft del soltero]]: recompra la casa de sus padres y Chiara la diseña y la amuebla, pagándolo todo ella misma aunque de cara a los demás la versión sea "apoyo del casino". En esa etapa Chiara **todavía no se muda** — pasa tiempo, cena, duerme alguna noche, deja algún objeto suelto (un libro, una manta, un cepillo, una taza favorita). La **mudanza oficial** llega mucho después, el día de su cumpleaños ([[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]]), y es entonces cuando el lugar se vuelve hogar compartido — porque lo eligen, no por el ataque. *(La prosa del Capítulo 10 se podó el 2026-08-29 para respetar esto.)*
 
 ### El cumpleaños — CANON DEL AUTOR (2026-08-29)
 
-Un par de semanas antes de su cumpleaños (23 de noviembre), **una fractura por la edad obliga a sacrificar a [[05_Locations/Hipodromo_Del_Monarch|Vento]]**, su caballo. Chiara pasa esas semanas de duelo — montar era su "tierra, no gente". El día del cumpleaños, Cole le da **tres regalos** en el hipódromo (ver [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]]): una **yegua blanca** traída de otro estado, una botella de **Domaine de la Romanée-Conti** (Chiara le pregunta si sabe lo que significa regalar una botella así; él: *"sin duda alguna"*), y una **cajita de madera con la llave del loft** — *"ya pasas las noches ahí, quiero que pases también las mañanas"*. La llave **es** la mudanza.
+Un par de semanas antes de su cumpleaños (23 de noviembre), **una fractura por la edad obliga a sacrificar a [[05_Locations/Hipodromo_Del_Monarch|Vento]]**, su caballo. Chiara pasa esas semanas de duelo — montar era su "tierra, no gente". El día del cumpleaños, Kal le da **tres regalos** en el hipódromo (ver [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]]): una **yegua blanca** traída de otro estado, una botella de **Domaine de la Romanée-Conti** (Chiara le pregunta si sabe lo que significa regalar una botella así; él: *"sin duda alguna"*), y una **cajita de madera con la llave del loft** — *"ya pasas las noches ahí, quiero que pases también las mañanas"*. La llave **es** la mudanza.
 
 ### H1 y el embarazo — CANON DEL AUTOR (2026-08-31)
 
-Durante [[06_Relationships/Hitos#H1 — El regreso a casa|H1]], ya en Villa Candelaria y todavía en Parte II, **Chiara sabe que está embarazada y Cole no**. Lleva muy poco tiempo sabiéndolo. Su intención es contárselo cuando él regrese de la operación: no quiere alterar su cabeza antes de una situación peligrosa ni convertir el primer momento de la noticia en una cuenta regresiva armada.
+Durante [[06_Relationships/Hitos#H1 — El regreso a casa|H1]], ya en Villa Candelaria y todavía en Parte II, **Chiara sabe que está embarazada y Kal no**. Lleva muy poco tiempo sabiéndolo. Su intención es contárselo cuando él regrese de la operación: no quiere alterar su cabeza antes de una situación peligrosa ni convertir el primer momento de la noticia en una cuenta regresiva armada.
 
 No es manipulación ni un secreto prolongado. Está reservando unas horas para que la noticia les pertenezca en casa.
 
-Cuando le toca la placa y dice *Retorna a casa*, Cole entiende que habla de los dos; Chiara sabe que habla de los tres. Durante la vigilia intenta impedir que muera antes de conocer a la hija que espera. Ese conocimiento sostiene su presión interna, pero **no reemplaza el amor como motor de H1**: cuando Cole pregunta por qué se preocupa tanto, ella responde *Perché ti amo con tutto il mio cuore*, no revela el embarazo.
+Cuando le toca la placa y dice *Retorna a casa*, Kal entiende que habla de los dos; Chiara sabe que habla de los tres. Durante la vigilia intenta impedir que muera antes de conocer a la hija que espera. Ese conocimiento sostiene su presión interna, pero **no reemplaza el amor como motor de H1**: cuando Kal pregunta por qué se preocupa tanto, ella responde *Perché ti amo con tutto il mio cuore*, no revela el embarazo.
 
-El reveal ocurre sólo después de que Cole queda fuera de peligro, duerme, inicia recuperación y vuelve cierta normalidad doméstica. El diálogo, el mecanismo de confirmación, los días exactos y la reacción textual de Cole permanecen pendientes.
+El reveal ocurre sólo después de que Kal queda fuera de peligro, duerme, inicia recuperación y vuelve cierta normalidad doméstica. El diálogo, el mecanismo de confirmación, los días exactos y la reacción textual de Kal permanecen pendientes.
 
 Durante el resto de Parte II, el embarazo debe existir como realidad doméstica y progresión física suficiente, no como único tema de Chiara ni como colección de síntomas. En Voto de Ceniza (Libro II), la guerra recibe a Chiara ya embarazada; no produce el embarazo.
 
 ### El pañuelo — CANON DEL AUTOR (2026-08-27), arco reservado
 
-Más adelante, en [[06_Relationships/Hitos#H13 — El pañuelo|H13]] (después del cumpleaños / la mudanza, justo antes del viaje a Italia; todavía sin escribir), dos hombres de [[02_Characters/Leone_Valenti]] la interceptan saliendo de la iglesia. Le insinúan que [[03_Factions/Il_Consorzio]] no está contento con "una Lusardi" administrando el casino — ella corrige: *Ardizzone*. La acusan de recolectar poder en San Aurelio por su cuenta; lo niega, y en el fondo es cierto. Le dejan un pañuelo con la inicial "C" y una bala: *"Pon tu casa en orden, Sra. Ardizzone, o hablaremos de este Mercer tuyo."* Chiara deduce, sin pruebas, que fue el Consorcio quien la atacó en H12 — lo que le planta la idea de viajar a Palermo más adelante, después de su cumpleaños. Cole, que nunca cerró su propia investigación del ataque en H12, insiste en acompañarla en cuanto ella le muestra el pañuelo y la bala — es el hilo que él nunca pudo encontrar solo. **El agente no debe adelantar contenido de ese viaje.**
+Más adelante, en [[06_Relationships/Hitos#H13 — El pañuelo|H13]] (después del cumpleaños / la mudanza, justo antes del viaje a Italia; todavía sin escribir), dos hombres de [[02_Characters/Leone_Valenti]] la interceptan saliendo de la iglesia. Le insinúan que [[03_Factions/Il_Consorzio]] no está contento con "una Lusardi" administrando el casino — ella corrige: *Ardizzone*. La acusan de recolectar poder en San Aurelio por su cuenta; lo niega, y en el fondo es cierto. Le dejan un pañuelo con la inicial "C" y una bala: *"Pon tu casa en orden, Sra. Ardizzone, o hablaremos de este Mercer tuyo."* Chiara deduce, sin pruebas, que fue el Consorcio quien la atacó en H12 — lo que le planta la idea de viajar a Palermo más adelante, después de su cumpleaños. Kal, que nunca cerró su propia investigación del ataque en H12, insiste en acompañarla en cuanto ella le muestra el pañuelo y la bala — es el hilo que él nunca pudo encontrar solo. **El agente no debe adelantar contenido de ese viaje.**
 
 Su regla:
 
 > **La información no se gana reteniéndola. Se gana direccionándola.**
 
-Ahí es donde supera a Cole en escala. Él acumula deudas, nombres y rutas hasta saber demasiado; ella decide quién debe enterarse, cuándo y en qué forma para producir una consecuencia.
+Ahí es donde supera a Kal en escala. Él acumula deudas, nombres y rutas hasta saber demasiado; ella decide quién debe enterarse, cuándo y en qué forma para producir una consecuencia.
 
 **Lo que no ve:** cree que controlar la versión es controlar el hecho. La ciudad va a enseñarle que no — probablemente con un muerto que ninguna versión suya alcanza a tapar.
 
@@ -301,7 +301,7 @@ Ahí es donde supera a Cole en escala. Él acumula deudas, nombres y rutas hasta
 
 ## Reglas duras del personaje
 
-- **El vino como código, sin que ella lo anuncie.** Solo toma **tinto**. El blanco lo usa para cocinar, nunca para beber. El **rosado** es la señal — lo pide cuando está "animada", de humor para la intimidad; su elección es un **Chiaretto de Bardolino**, que guarda solo para esas noches. Es un dato que Cole va a ir registrando solo, a lo largo del tiempo que la conoce, sin que nadie se lo explique nunca en voz alta.
+- **El vino como código, sin que ella lo anuncie.** Solo toma **tinto**. El blanco lo usa para cocinar, nunca para beber. El **rosado** es la señal — lo pide cuando está "animada", de humor para la intimidad; su elección es un **Chiaretto de Bardolino**, que guarda solo para esas noches. Es un dato que Kal va a ir registrando solo, a lo largo del tiempo que la conoce, sin que nadie se lo explique nunca en voz alta.
 
 - **Nunca miente en lo pequeño.** Si el texto la muestra mintiendo sobre una tontería, está mal escrita.
 - **La pistola vive en el bolso, no en la mano.** Si la saca, es un acontecimiento del libro.
@@ -311,8 +311,8 @@ Ahí es donde supera a Cole en escala. Él acumula deudas, nombres y rutas hasta
 - **Se cambió la edad en los documentos** y lo sostiene con una naturalidad total. Cuando alguien lo descubre, no se disculpa: pregunta por qué le importa.
 - **No acepta que le paguen la cuenta.** Por costumbre y por doctrina: quien paga, cree que compró algo.
 - **Se queda.** Es la regla que manda sobre todas las demás. Cuando ya eligió, permanece — y ninguna escena puede contradecir eso sin que sea el acontecimiento del capítulo.
-- **En privado llama al núcleo joven de Cole "los niños del Patio".** No es un nombre público ni una broma cruel: es la forma en que los integra a su mapa afectivo sin dejar de verlos con precisión.
-- **Enciende una vela cada vez que Cole sale a trabajar.** No es superstición ni decoración: es su manera de pedir que vuelva a casa. Ver [[04_Concepts/Fe_y_Velas]].
+- **En privado llama al núcleo joven de Kal "los niños del Patio".** No es un nombre público ni una broma cruel: es la forma en que los integra a su mapa afectivo sin dejar de verlos con precisión.
+- **Enciende una vela cada vez que Kal sale a trabajar.** No es superstición ni decoración: es su manera de pedir que vuelva a casa. Ver [[04_Concepts/Fe_y_Velas]].
 - **Bellandi Ridge no se contamina gratis.** Si alguien usa sus viñedos como escondite, amenaza o infraestructura criminal, debe sentirse como una profanación de algo suyo.
 - **Exige que la llamen Sra. Bellandi.** "Chiara" a secas es un privilegio, no un dato público — sólo lo usan los seleccionados. Cuando alguien lo usa sin haberlo ganado (ver [[02_Characters/Tommaso_Lusardi]], ficha de voz: "usa el nombre 'Chiara' con una familiaridad que no tiene derecho a reclamar del todo"), es una transgresión leída, no un descuido de estilo.
 - **No se siente cómoda manejando.** Prefiere que la lleven. Su método actual para moverse sola es un sedán negro del Monarch — un Mercedes-Benz Clase S, coche corporativo asignado por la empresa — que maneja ella misma cuando no quiere explicarle a nadie a dónde va. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/16_El_Porton|Capítulo 16]] (2026-09-03).
@@ -324,50 +324,50 @@ Ahí es donde supera a Cole en escala. Él acumula deudas, nombres y rutas hasta
 Guardarraíles. Si un borrador la empuja hacia aquí, está mal escrita:
 
 - **No es "la italiana".** Nada de estereotipo: ni explosiva permanente, ni gesticulante, ni cocinando para calmarle el carácter a un hombre.
-- **No es cuidadora.** Su vida no gira alrededor de Cole, y tiene escenas enteras donde él no es el tema. La devoción no la vacía de proyecto propio.
+- **No es cuidadora.** Su vida no gira alrededor de Kal, y tiene escenas enteras donde él no es el tema. La devoción no la vacía de proyecto propio.
 - **No es celosa.** Si algo la enciende es la competencia, no la infidelidad.
 - **No es simple por ser devota.** Devoción y límites conviven; de hecho sus límites son más duros que los de él.
-- **No es el recipiente de la vulnerabilidad de Cole.** Tiene inseguridades, orgullo y necesidades propias, y algunas él no las ve.
-- **No cura a nadie.** Ver [[06_Relationships/Cole_y_Chiara]].
+- **No es el recipiente de la vulnerabilidad de Kal.** Tiene inseguridades, orgullo y necesidades propias, y algunas él no las ve.
+- **No cura a nadie.** Ver [[06_Relationships/Kal_y_Chiara]].
 
 ---
 
 ## "Mandorla" — CANON DEL AUTOR (2026-08-29)
 
-En las carreras de Kingsley Field ([[06_Relationships/Hitos]], H9 — Capítulo 9), cuando Tyler Brooks le pide un nombre, Chiara contesta por sí misma antes de que Cole hable por ella: **"Mandorla"** — almendra, en italiano. Disimulado para cualquiera que lo oiga, es una traducción directa de **La Almendra**, el barrio de Cole (ver [[03_Factions/Almendra_Towing]]), dicha en su propio idioma para que solo él la entienda.
+En las carreras de Kingsley Field ([[06_Relationships/Hitos]], H9 — Capítulo 9), cuando Tyler Brooks le pide un nombre, Chiara contesta por sí misma antes de que Kal hable por ella: **"Mandorla"** — almendra, en italiano. Disimulado para cualquiera que lo oiga, es una traducción directa de **La Almendra**, el barrio de Kal (ver [[03_Factions/Almendra_Towing]]), dicha en su propio idioma para que solo él la entienda.
 
-Es la asimetría exacta con el apodo de él ([[02_Characters/Cole_Mercer]], "Mac"): Mac esconde su propio nombre. Mandorla nombra el de Cole sin que nadie más lo note. Él se da cuenta y no dice nada — la sonrisa que no llega a completarse es toda la confirmación que necesita.
+Es la asimetría exacta con el apodo de él ([[02_Characters/Kal_Mercer]], "Mac"): Mac esconde su propio nombre. Mandorla nombra el de Kal sin que nadie más lo note. Él se da cuenta y no dice nada — la sonrisa que no llega a completarse es toda la confirmación que necesita.
 
 ---
 
 ## La maternidad y el exilio de Elenna — DISEÑO (2026-09-11)
 
-Chiara entiende proteger como **control de versión e información** — si el mundo cree que algo murió, desaparece del tablero estratégico. Es la misma habilidad con la que dirige [[03_Factions/El_Faro]] y administra cada versión de sí misma, apuntada ahora contra la propia vida de su hija. El plan final de Elenna combina esa lógica con la de Cole ([[02_Characters/Cole_Mercer]], protección por distancia física): **Cole, lejos. Chiara, muerta para el mundo.**
+Chiara entiende proteger como **control de versión e información** — si el mundo cree que algo murió, desaparece del tablero estratégico. Es la misma habilidad con la que dirige [[03_Factions/El_Faro]] y administra cada versión de sí misma, apuntada ahora contra la propia vida de su hija. El plan final de Elenna combina esa lógica con la de Kal ([[02_Characters/Kal_Mercer]], protección por distancia física): **Kal, lejos. Chiara, muerta para el mundo.**
 
 Esa capacidad no la inmuniza frente al costo: puede construir una mentira suficientemente fuerte para salvar a Elenna y, al mismo tiempo, quebrarse ante un gesto pequeño y ajeno a cualquier plan — ver [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]], "Filosofías de protección", y la calibración tonal en [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]].
 
 ## Conexiones
 
-- [[02_Characters/Cole_Mercer]] — el otro motor. Ver [[06_Relationships/Cole_y_Chiara]].
+- [[02_Characters/Kal_Mercer]] — el otro motor. Ver [[06_Relationships/Kal_y_Chiara]].
 - [[02_Characters/Elenna_Mercer]] — su hija biológica. La versión que salva su vida también obliga a Chiara a vivir la diferencia entre controlar un relato y cambiar un hecho.
-- [[04_Concepts/Fe_y_Velas]] — su fe católica, el ritual de las velas y la petición de que Cole vuelva a casa.
+- [[04_Concepts/Fe_y_Velas]] — su fe católica, el ritual de las velas y la petición de que Kal vuelva a casa.
 - [[05_Locations/Iglesia_Santa_Lucia]] — parroquia donde su fe tiene lugar físico en San Aurelio.
 - [[03_Factions/El_Faro]] — el diario. Su territorio real.
 - **[[03_Factions/Il_Consorzio]]** — **su antagonista.** La red que la ve como *Chiara Ardizzone Bellandi* antes que como Chiara. No la odia: la tiene asignada.
 - **[[02_Characters/Leone_Valenti]]**, *Il Consigliere* — la cara del Consorcio. Cordial de verdad, y por eso mucho peor. **No amenaza: produce consecuencias.** Es ella misma treinta años después, a escala de instituciones.
 - **[[02_Characters/Dario_Varek]]** — su jefe. Cabeza de la mafia de la ciudad y socio mayoritario del casino. La ve como un activo político reemplazable.
-- [[02_Characters/Nadir_Amrani]] — amigo íntimo de Cole, querido y respetado en todo el barrio por honesto, leal y protector. La relación empieza incómoda: Nadir desconfía de ella **antes de conocerla** — no por celos, sino por proteger a Cole —, y Chiara lo tolera porque sabe que forma parte de su vida. Cole intenta convencerlo de que ella no es ni importante ni descartable; Nadir no lo acepta.
-- **[[02_Characters/Andrew_Callahan]]** — agente especial supervisor federal. Entra cuando la organización de Cole escala a nivel internacional; representa una herida federal anterior aunque quizá no la haya causado personalmente.
+- [[02_Characters/Nadir_Amrani]] — amigo íntimo de Kal, querido y respetado en todo el barrio por honesto, leal y protector. La relación empieza incómoda: Nadir desconfía de ella **antes de conocerla** — no por celos, sino por proteger a Kal —, y Chiara lo tolera porque sabe que forma parte de su vida. Kal intenta convencerlo de que ella no es ni importante ni descartable; Nadir no lo acepta.
+- **[[02_Characters/Andrew_Callahan]]** — agente especial supervisor federal. Entra cuando la organización de Kal escala a nivel internacional; representa una herida federal anterior aunque quizá no la haya causado personalmente.
 - **[[02_Characters/Garrett_Cross]]** — administrador financiero de El Patio. Colabora con ella en el casino para que el dinero tenga una versión pública creíble.
-- **[[02_Characters/Anya_Voronina]]** — contacto rusa de Cole y amor pasado de Afganistán. No es rival simple; es la prueba de que Chiara no fue la primera mujer que conoció a Cole, sino la primera que lo hizo creer.
+- **[[02_Characters/Anya_Voronina]]** — contacto rusa de Kal y amor pasado de Afganistán. No es rival simple; es la prueba de que Chiara no fue la primera mujer que conoció a Kal, sino la primera que lo hizo creer.
 - **[[03_Factions/Cross_River_Consolidated]]** — estructura financiera que necesita de su talento para el relato: no basta mover dinero, hay que hacerlo parecer inevitable.
 - **[[03_Factions/Red_Civil_de_Chiara]]** — su red de chismes e información dirigida. No es una red formal de espías; es la ciudad civil hablando antes de convertirse en noticia o expediente.
 - **[[05_Locations/Bellandi_Ridge_Vineyards]]** — sus viñedos en el norte. Propiedad legítima, apellido materno hecho lugar y puente hacia el mundo rural de San Aurelio.
 - **[[02_Characters/Mabel_Ortiz]]** — mujer mayor, dueña de tienda/cafetería y nodo principal de la red civil. Le da detalles, no conclusiones.
 - **[[02_Characters/Kenji_Oda]]** — gerente de caja del Monarch y primer sussurro de i Sussurri, su red deliberada. A diferencia de Mabel, sabe para quién trabaja.
-- **[[02_Characters/Walter_Keegan]]** — amigo del padre de Cole. Se conocen en el primer torneo de poker; ella lo ayuda a comprar la bodega para su destilería y él se vuelve el proveedor de licor del casino.
+- **[[02_Characters/Walter_Keegan]]** — amigo del padre de Kal. Se conocen en el primer torneo de poker; ella lo ayuda a comprar la bodega para su destilería y él se vuelve el proveedor de licor del casino.
 - **[[02_Characters/Blake_Stanton]]** — con quien sale al llegar a la ciudad. Rubio, ojos azules: el hombre equivocado con la cara correcta.
-- **[[02_Characters/Camila_Rivas]]** — su médica de confianza. Atiende fuera de los registros cuando la razón moral o la deuda lo justifican, y le contesta el teléfono a Chiara a cualquier hora. Es quien mantiene vivo a Cole en [[06_Relationships/Hitos]], H1, y por lo tanto **la prueba de que la red de Chiara es infraestructura real y no contactos sociales.**
+- **[[02_Characters/Camila_Rivas]]** — su médica de confianza. Atiende fuera de los registros cuando la razón moral o la deuda lo justifican, y le contesta el teléfono a Chiara a cualquier hora. Es quien mantiene vivo a Kal en [[06_Relationships/Hitos]], H1, y por lo tanto **la prueba de que la red de Chiara es infraestructura real y no contactos sociales.**
 - Corrado Ardizzone — el padre. **Pendiente de ficha.** Chiara lo cree muerto tras una redada federal (verdad del autor: vive, oculto en Italia — ver "Historia" arriba); no debe escribirse como villano plano ni como inocente limpio. Fue un hombre que quiso a su mujer treinta años y no supo proteger su casa de lo que su mundo era.
 - Marta Bellandi (†) — la madre. El apellido, y el modelo entero de lo que Chiara entiende por amar.
 

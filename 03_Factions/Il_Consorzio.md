@@ -85,7 +85,7 @@ No lo dirán así. Nadie va a decir una palabra reprochable — hablarán de *pr
 
 > **DISEÑO — por qué es el mejor antagonista posible para ella.** Chiara se dedica a fabricar versiones y a decidir qué cree la gente. Il Consorzio es lo único del libro **más grande que una versión**: una institución con memoria, que no se puede convencer, que no lee el periódico, y a la que no le importa lo que la ciudad crea. Es el único adversario contra el que su arma no funciona.
 >
-> Y ese último punto de la lista — *reconocimiento de nuevas organizaciones* — es una bomba de relojería para el libro entero: **la organización que Cole está construyendo va a necesitar existir a ojos del Consorcio en algún momento.** Ahí es donde los dos frentes chocan.
+> Y ese último punto de la lista — *reconocimiento de nuevas organizaciones* — es una bomba de relojería para el libro entero: **la organización que Kal está construyendo va a necesitar existir a ojos del Consorcio en algún momento.** Ahí es donde los dos frentes chocan.
 
 ---
 
@@ -107,13 +107,13 @@ Varek controla territorio suficiente para que a Il Consorzio le convenga negocia
 
 ---
 
-## Cole Mercer ante La Mesa
+## Kal Mercer ante La Mesa
 
-La Mesa conoce a [[02_Characters/Cole_Mercer]] en dos tiempos.
+La Mesa conoce a [[02_Characters/Kal_Mercer]] en dos tiempos.
 
 **Primero entra por Chiara.** En Libro I es el hombre que empieza a importar demasiado a una Ardizzone: una anomalía en sus reportes y, desde H13, una palanca declarada en la frase *"ese Mercer tuyo"*. Todavía no lo leen como poder propio.
 
-**Después entra por la ciudad.** Su ascenso hace imposible sostener esa lectura. Cole construye negocios que producen valor real, una red de favores que no se cobra con terror y una comunidad que lo escoge como interlocutor sin que él tenga que imponer miedo. Para La Mesa, eso no es una versión pública ni un capo fácil de comprar, amenazar o reemplazar: es autoridad local que puede funcionar sin su permiso.
+**Después entra por la ciudad.** Su ascenso hace imposible sostener esa lectura. Kal construye negocios que producen valor real, una red de favores que no se cobra con terror y una comunidad que lo escoge como interlocutor sin que él tenga que imponer miedo. Para La Mesa, eso no es una versión pública ni un capo fácil de comprar, amenazar o reemplazar: es autoridad local que puede funcionar sin su permiso.
 
 | Etapa | Lectura de La Mesa |
 |---|---|
@@ -123,9 +123,9 @@ La Mesa conoce a [[02_Characters/Cole_Mercer]] en dos tiempos.
 | Tras la caída de Dario | Poder no reconocido capaz de ordenar San Aurelio sin La Mesa. |
 | Libro III | Interlocutor condicional o rival estructural. |
 
-La Mesa preferiría convertirlo en **socio reconocido**, nunca en uno de los suyos: una autoridad territorial aceptable sólo si se somete a reglas y deja que su legitimidad parezca concesión de la institución. Cole se vuelve rival si rechaza esa premisa; no porque quiera conquistar su mundo, sino porque demuestra que una ciudad puede organizarse sin pedirles permiso.
+La Mesa preferiría convertirlo en **socio reconocido**, nunca en uno de los suyos: una autoridad territorial aceptable sólo si se somete a reglas y deja que su legitimidad parezca concesión de la institución. Kal se vuelve rival si rechaza esa premisa; no porque quiera conquistar su mundo, sino porque demuestra que una ciudad puede organizarse sin pedirles permiso.
 
-> **PENDIENTE:** el precio concreto que La Mesa exigirá por reconocer a Cole y qué forma toma su rechazo. La condición no puede devolver a Chiara a una posición sin agencia ni resolver antes de tiempo el conflicto reservado de Interregno.
+> **PENDIENTE:** el precio concreto que La Mesa exigirá por reconocer a Kal y qué forma toma su rechazo. La condición no puede devolver a Chiara a una posición sin agencia ni resolver antes de tiempo el conflicto reservado de Interregno.
 
 ---
 
@@ -165,7 +165,7 @@ Su uso público de **Bellandi** les resulta igual de incómodo. Para Chiara es e
 
 Nadie lo formula con crudeza. Hablan de *formas*, *respeto*, *continuidad* y de lo que corresponde a alguien que quedó sola. La vergüenza es el instrumento: la tratan como si tuviera que justificar, a la vez, haber sobrevivido a Alessio, no portar Ardizzone en público y ejercer un poder que consideran prestado.
 
-> **Regla para Palermo:** cuando Cole y Chiara enfrenten a La Mesa, esta degradación debe cobrar sin necesidad de exponerla como tesis. Que "viuda de Lusardi" y "Bellandi" aparezcan como palabras de protocolo que intentan devolverla a una posición menor. El contenido concreto de H17 sigue reservado.
+> **Regla para Palermo:** cuando Kal y Chiara enfrenten a La Mesa, esta degradación debe cobrar sin necesidad de exponerla como tesis. Que "viuda de Lusardi" y "Bellandi" aparezcan como palabras de protocolo que intentan devolverla a una posición menor. El contenido concreto de H17 sigue reservado.
 
 ---
 
@@ -188,7 +188,7 @@ Valenti lleva la advertencia y la consecuencia atribuible; Nereo vuelve la conse
 
 Su primera aparición real en la novela es un golpe sin firma: en [[06_Relationships/Hitos]], H12, alguien deja inconsciente a Chiara de un solo golpe mientras cierra un corral. No se revela quién en el momento — ni ella ni el lector lo saben todavía.
 
-La confirmación (sin pruebas, sólo deducción de Chiara) llega en H13, "El pañuelo": dos hombres de [[02_Characters/Leone_Valenti]] la interceptan saliendo de la iglesia, la acusan de "recolectar migajas de poder" en San Aurelio — la dramatización directa del conflicto ya fijado más abajo ("construir poder como Bellandi y no como Ardizzone se vuelve declaración política") — y le dejan un pañuelo con la inicial "C" y una bala: *"Pon tu casa en orden, Sra. Ardizzone, o hablaremos de este Mercer tuyo."* Primera vez que el Consorcio deja constancia de que sabe de Cole. Arco reservado: planta un viaje futuro de Chiara a Palermo, después de su cumpleaños — no adelantar contenido.
+La confirmación (sin pruebas, sólo deducción de Chiara) llega en H13, "El pañuelo": dos hombres de [[02_Characters/Leone_Valenti]] la interceptan saliendo de la iglesia, la acusan de "recolectar migajas de poder" en San Aurelio — la dramatización directa del conflicto ya fijado más abajo ("construir poder como Bellandi y no como Ardizzone se vuelve declaración política") — y le dejan un pañuelo con la inicial "C" y una bala: *"Pon tu casa en orden, Sra. Ardizzone, o hablaremos de este Mercer tuyo."* Primera vez que el Consorcio deja constancia de que sabe de Kal. Arco reservado: planta un viaje futuro de Chiara a Palermo, después de su cumpleaños — no adelantar contenido.
 
 ## Pendientes
 
@@ -200,7 +200,7 @@ La confirmación (sin pruebas, sólo deducción de Chiara) llega en H13, "El pa�
 
 > **RESUELTO (2026-09-12):** ¿quién mandó a Chiara a San Aurelio? El Consorcio, ver arriba. Sigue siendo el reloj de la primera parte cuánta autonomía real conserva ella frente a esa orden.
 
-> **PARCIALMENTE RESUELTO (2026-09-12):** Cole entra al radar primero por Chiara y después por su influencia autónoma en San Aurelio; el conflicto pleno de reconocimiento pertenece a Interregno, tras la caída de Dario. Sigue pendiente el precio concreto y la forma del rechazo.
+> **PARCIALMENTE RESUELTO (2026-09-12):** Kal entra al radar primero por Chiara y después por su influencia autónoma en San Aurelio; el conflicto pleno de reconocimiento pertenece a Interregno, tras la caída de Dario. Sigue pendiente el precio concreto y la forma del rechazo.
 
 ---
 

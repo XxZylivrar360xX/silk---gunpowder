@@ -9,14 +9,14 @@ Un personaje detecta que el otro usa reporte, chiste, negocio, tecnica o explica
 
 ## Por que es un problema
 
-En *Seda*, casi todos los personajes importantes leen habitaciones o personas: Cole, Chiara, Mabel, Camila, Dario, Marisol. Si todos preguntan perfecto y aciertan en tres pasos, empiezan a sonar como la misma inteligencia editorial.
+En *Seda*, casi todos los personajes importantes leen habitaciones o personas: Kal, Chiara, Mabel, Camila, Dario, Marisol. Si todos preguntan perfecto y aciertan en tres pasos, empiezan a sonar como la misma inteligencia editorial.
 
 Ademas, esta novela no trata de personajes que se explican la relacion. Trata de personajes que negocian, cocinan, conducen, callan, mienten bien y se hieren por decisiones concretas.
 
 ## Como evitarlo
 
 - Que Chiara lea bien, pero no siempre pregunte: a veces debe actuar sobre la informacion.
-- Que Cole detecte una herida y la convierta en solucion practica, no en diagnostico.
+- Que Kal detecte una herida y la convierta en solucion practica, no en diagnostico.
 - Que Mabel de detalles, no conclusiones.
 - Que Marisol pregunte desde consecuencia, no desde terapia.
 - Que Camila lea sintomas y protocolos, no almas completas.

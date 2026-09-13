@@ -74,9 +74,9 @@ Ahí la gente habla porque Chiara escucha sin corregir, paga bien, no humilla y 
 
 ---
 
-## Lo que Cole no ve al principio
+## Lo que Kal no ve al principio
 
-[[02_Characters/Cole_Mercer]] ya tiene territorio y favor. Sabe quién le debe, quién puede mover un coche, quién puede abrir una puerta y quién puede cerrar una calle.
+[[02_Characters/Kal_Mercer]] ya tiene territorio y favor. Sabe quién le debe, quién puede mover un coche, quién puede abrir una puerta y quién puede cerrar una calle.
 
 Su problema aparece cuando asciende:
 
@@ -90,7 +90,7 @@ Chiara le enseña la diferencia:
 
 Ahí se consagra la mancuerna:
 
-- Cole ejecuta consecuencias.
+- Kal ejecuta consecuencias.
 - Chiara administra dirección.
 
 ---
@@ -118,17 +118,17 @@ La tercera es la más peligrosa, porque parece casualidad.
 - Las tiendas y restaurantes deben tener rutinas: hora pico, proveedores, música, calor, olores, mesas habituales.
 - Una escena civil debe mover poder aunque parezca cotidiana.
 - Si Chiara aprende algo importante, debe poder rastrearse a una conversación humana concreta.
-- Si Cole actúa con precisión, debe haber antes alguien que direccionó la información.
+- Si Kal actúa con precisión, debe haber antes alguien que direccionó la información.
 
 ---
 
 ## Lugares civiles prioritarios
 
 1. **[[05_Locations/La_Esquina_de_Mabel]]** — tienda/cafetería de barrio; nodo de [[03_Factions/Red_Civil_de_Chiara]].
-2. **[[05_Locations/Il_Gelsomino]]** — restaurante italiano de H2-a; acuerdo con Cole sembrado desde el primer capítulo.
+2. **[[05_Locations/Il_Gelsomino]]** — restaurante italiano de H2-a; acuerdo con Kal sembrado desde el primer capítulo.
 3. **[[05_Locations/Lote_Almendra]]** — lote de autos y motos usados; vida civil alrededor del taller.
 4. **La tienda de máscaras** — H9; lugar menor pero muy útil para textura de ciudad.
-5. **Un salón/barbería de La Almendra** — donde el barrio procesa a Cole y a Chiara sin decirlo.
+5. **Un salón/barbería de La Almendra** — donde el barrio procesa a Kal y a Chiara sin decirlo.
 6. **Una taquería nocturna cerca de Rutas de Milla** — carreras, patrullas, Tyler y rumores de bandas.
 7. **[[05_Locations/Iglesia_Santa_Lucia]]** — velas, funerales, señoras de barrio, policías cansados y el ritual religioso de Chiara.
 

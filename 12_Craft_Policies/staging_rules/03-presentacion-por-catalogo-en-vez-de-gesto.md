@@ -14,7 +14,7 @@ El mismo defecto aplica al backstory: explicar la herida en un bloque expositivo
 
 - **El anillo, Capitulo 3.** Tommaso menciona a la familia. Chiara siente el anular izquierdo y esta vez si lo toca: la yema del pulgar sobre la piel donde ya no hay anillo, y el fastidio inmediato de haberlo hecho delante de el. En una linea el lector recibe el matrimonio, la perdida, quien tiene poder sobre ella en esa sala y cuanto le cuesta. Nadie explico nada.
 - **La fila de migracion, Capitulo 2.** Chiara elige la ventanilla del oficial mas joven, ordena los papeles en el orden en que se los van a pedir y sale con "la primera medida del pais". Entra por intencion, no por imagen.
-- **Cole y la bisagra, Capitulo 1.** No se dice que desconfia de las entradas principales: entra por la cocina y confia mas en la bisagra que en la campanilla.
+- **Kal y la bisagra, Capitulo 1.** No se dice que desconfia de las entradas principales: entra por la cocina y confia mas en la bisagra que en la campanilla.
 
 ## Por que es un problema
 
@@ -31,7 +31,7 @@ Antes de escribir una entrada o una revelacion de pasado, buscar un gesto que cu
 3. **Legible sin nota al pie.** El lector no necesita saber la historia completa para sentir que ahi hay una.
 4. **Costoso.** Delata algo delante de alguien que no deberia haberlo visto.
 
-Si el gesto existe, el retrato fisico sobra o se reparte despues en fragmentos. Si de verdad hace falta la imagen completa, darla en POV ajeno y en el momento del encuentro, donde mirar ya es una accion (Cole viendo a Chiara bajo la marquesina del Monarch).
+Si el gesto existe, el retrato fisico sobra o se reparte despues en fragmentos. Si de verdad hace falta la imagen completa, darla en POV ajeno y en el momento del encuentro, donde mirar ya es una accion (Kal viendo a Chiara bajo la marquesina del Monarch).
 
 ## Excepcion
 

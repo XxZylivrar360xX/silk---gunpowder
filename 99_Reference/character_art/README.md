@@ -12,8 +12,8 @@ Este uso del arte de personajes propios no cambia la prohibición de adaptar esc
 
 | Imagen | Ficha y uso conceptual |
 |---|---|
-| [[99_Reference/character_art/Perfil_Cole_Mercer.png]] | [[02_Characters/Cole_Mercer]] — rostro, mirada y cicatriz izquierda |
-| [[99_Reference/character_art/Cole_Mercer.png]] | [[02_Characters/Cole_Mercer]] — postura al volante y ropa de transición; lateralidad facial invertida |
+| [[99_Reference/character_art/Perfil_Kal_Mercer.png]] | [[02_Characters/Kal_Mercer]] — rostro, mirada y cicatriz izquierda |
+| [[99_Reference/character_art/Kal_Mercer.png]] | [[02_Characters/Kal_Mercer]] — postura al volante y ropa de transición; lateralidad facial invertida |
 | [[99_Reference/character_art/Perfil_Chiara_Bellandi.png]] | [[02_Characters/Chiara_Bellandi]] — rostro, cabello, maquillaje y joyería |
 | [[99_Reference/character_art/Chiara_Bellandi.png]] | [[02_Characters/Chiara_Bellandi]] — presencia profesional y combinación rojo/blanco/oro |
 | [[99_Reference/character_art/Hector_Navarro.png]] | [[02_Characters/Hector_Navarro]] — cercanía en el taller, pelo cano y camisa de cuadros |
@@ -24,7 +24,7 @@ Este uso del arte de personajes propios no cambia la prohibición de adaptar esc
 
 ### Discrepancias y límites
 
-- **Cole al volante:** cicatriz y arete aparecen a la derecha anatómica. Para esos detalles manda el canon izquierdo, representado en `Perfil_Cole_Mercer.png`. El cuello sin placa no sirve como referencia posterior al regalo de Navidad.
+- **Kal al volante:** cicatriz y arete aparecen a la derecha anatómica. Para esos detalles manda el canon izquierdo, representado en `Perfil_Kal_Mercer.png`. El cuello sin placa no sirve como referencia posterior al regalo de Navidad.
 - **Chiara:** el lunar cambia de lado entre el perfil y el retrato en el Monarch. Las imágenes no resuelven su lateralidad; conservar el lunar sobre el labio sin duplicarlo.
 - **Danny:** hay vello dibujado en mandíbula y mentón; el canon sigue siendo bigote delgado **sin barba**.
 - **Walt:** «58–60» y «Southern California» son rótulos de la lámina, no confirmaciones nuevas de edad o procedencia. Sus botas de cazador siguen vigentes fuera del encuadre.
@@ -36,11 +36,11 @@ Este uso del arte de personajes propios no cambia la prohibición de adaptar esc
 
 ---
 
-## `Cole_Mercer_cotidiano.png`
+## `Kal_Mercer_cotidiano.png`
 
-Cole en su outfit de "etapa temprana" del libro: chaqueta de mezclilla con cuello de borrego, sin camisa debajo, pantalón negro, tenis blancos. Corresponde a la ropa fijada en su ficha para la primera parte de la novela.
+Kal en su outfit de "etapa temprana" del libro: chaqueta de mezclilla con cuello de borrego, sin camisa debajo, pantalón negro, tenis blancos. Corresponde a la ropa fijada en su ficha para la primera parte de la novela.
 
-**Verificado:** altura (1.92 m / 6'3"), 41 años, cicatriz en la mejilla **izquierda** (comisura de la boca al rabillo del ojo — CANON DEL AUTOR 2026-09-07: se movió de la derecha a la izquierda, ya corregido en `Cole_Mercer.md` y en el Cap. 2), arete discreto en la oreja izquierda, complexión de trabajo físico (no de gimnasio).
+**Verificado:** altura (1.92 m / 6'3"), 41 años, cicatriz en la mejilla **izquierda** (comisura de la boca al rabillo del ojo — CANON DEL AUTOR 2026-09-07: se movió de la derecha a la izquierda, ya corregido en `Kal_Mercer.md` y en el Cap. 2), arete discreto en la oreja izquierda, complexión de trabajo físico (no de gimnasio).
 
 Entre dos variantes generadas, se eligió ésta por la complexión menos "de gimnasio" y el detalle de manos curtidas en el close-up. La otra variante añadía un collar/dije que no está en canon — descartada por eso.
 
@@ -50,10 +50,10 @@ Chiara en un outfit de día a día en el Monarch: blusa de satín azul, pantaló
 
 **Verificado:** 34 años, rasgos italianos/sicilianos, piel aceitunada, ojos almendrados con matices verdes, lunar sobre la comisura del labio. Esta hoja fijó dos datos físicos nuevos que no estaban en la ficha y ya se incorporaron a `Chiara_Bellandi.md`: **1.68 m de altura**, y **lunares naturales pequeños en la parte alta de la espalda/hombros** (visibles con el cabello suelto). También confirmó que no es de complexión atlética pero mantiene rutina de spinning y yoga.
 
-## `Cole_Mercer_hibrido_negocios_calle.png`
+## `Kal_Mercer_hibrido_negocios_calle.png`
 
 Diseño nuevo (2026-09-07): un solo outfit que combina "hombre de negocios de día" y "hombre de calle de noche" — blazer oscuro de corte fino, abierto, sin camisa de vestir ni corbata (playera lisa debajo), jeans oscuros, botas de trabajo, mangas subidas dejando ver el tatuaje de blackout del antebrazo derecho y manos con marcas de trabajo real. Reloj discreto pero de calidad.
 
-Pensado para capturar en una sola imagen que Cole nunca termina de comprometerse del todo con ninguno de los dos mundos — ni con el disfraz de empresario, ni con dejar atrás el taller.
+Pensado para capturar en una sola imagen que Kal nunca termina de comprometerse del todo con ninguno de los dos mundos — ni con el disfraz de empresario, ni con dejar atrás el taller.
 
 **Verificado:** misma cicatriz (mejilla izquierda) y arete (oreja izquierda) que el resto de las hojas.

@@ -18,7 +18,7 @@ Sirve, cobra, limpia, acomoda bolsas, mira la puerta. Si deja de mover las manos
 
 ## Muestra
 
-—Comete eso antes de que se enfrie, Cole.
+—Comete eso antes de que se enfrie, Kal.
 
 —Ese no es de aqui. Los de aqui no miran el techo cuando entran.
 

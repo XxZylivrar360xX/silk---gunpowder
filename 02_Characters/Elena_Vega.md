@@ -5,7 +5,7 @@
 **Nacionalidad:** estadounidense; familia mexicana-estadounidense de clase trabajadora.  
 **Edad al abrir la novela:** 45.  
 **Oficio:** Chief of Police de San Aurelio.  
-**Rol:** autoridad institucional; antagonismo ideológico de Cole.  
+**Rol:** autoridad institucional; antagonismo ideológico de Kal.  
 **Alias:** Chief Elena Vega.  
 **Estado:** viva.
 
@@ -57,15 +57,15 @@ Su regla interna:
 
 ---
 
-## Vega y Cole
+## Vega y Kal
 
-Vega puede entender por qué [[02_Characters/Cole_Mercer]] hace algunas cosas. Incluso podría admitir en privado que ciertos hombres que Cole mató deberían haber pasado el resto de su vida en prisión.
+Vega puede entender por qué [[02_Characters/Kal_Mercer]] hace algunas cosas. Incluso podría admitir en privado que ciertos hombres que Kal mató deberían haber pasado el resto de su vida en prisión.
 
 Pero su línea roja es absoluta:
 
 > **Eso no convierte a Mercer en juez.**
 
-Para Vega, Cole es peligrosísimo precisamente porque puede resultar admirable. Un criminal vulgar no amenaza la idea de justicia. Cole sí, porque la gente puede empezar a pensar que necesita hombres como él.
+Para Vega, Kal es peligrosísimo precisamente porque puede resultar admirable. Un criminal vulgar no amenaza la idea de justicia. Kal sí, porque la gente puede empezar a pensar que necesita hombres como él.
 
 La respuesta de Vega:
 
@@ -88,7 +88,7 @@ La respuesta de Vega:
 - [[03_Factions/Departamento_de_Policia_de_San_Aurelio]] — departamento que dirige.
 - [[02_Characters/Raymond_Keene]] — jefe anterior asesinado; su muerte abre la crisis.
 - [[02_Characters/Dario_Varek]] — el poder criminal que prueba si una jefa incorruptible puede sobrevivir San Aurelio.
-- [[02_Characters/Cole_Mercer]] — conflicto ideológico: justicia institucional contra justicia individual.
+- [[02_Characters/Kal_Mercer]] — conflicto ideológico: justicia institucional contra justicia individual.
 - [[03_Factions/Fuerza_de_Tarea_Meridian]] — fricción de jurisdicción cuando entran los federales.
 
 ---

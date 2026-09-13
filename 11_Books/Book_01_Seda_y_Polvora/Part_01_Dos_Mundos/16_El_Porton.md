@@ -1,10 +1,10 @@
 <!--
 Estado: borrador provisional.
 Protagonistas: Chiara Bellandi, con apariciones de Nadir Amrani, Daniel Hayes, Walter Keegan y Lucia Varek. Hector Navarro presente pero inconsciente/fuera de escena tras el infarto.
-Ventana temporal: el viernes del Capitulo 15 (La regla del telefono), mientras Cole y Marisol estan de campamento. Bajo la reordenacion del 2026-08-29, H10 va ANTES de H4 y H11 -- en este punto Cole y Chiara TODAVIA NO se han besado.
+Ventana temporal: el viernes del Capitulo 15 (La regla del telefono), mientras Kal y Marisol estan de campamento. Bajo la reordenacion del 2026-08-29, H10 va ANTES de H4 y H11 -- en este punto Kal y Chiara TODAVIA NO se han besado.
 Lugares: Casa Comunitaria De La Almendra (sotano), casa de Hector, Hospital Santa Aurelia, The Monarch Casino & Hotel.
-Funcion: capitulo exclusivo POV Chiara (2026-09-03, a peticion del autor -- separado del nuevo Capitulo 17, POV Cole, para que el fin de semana respire). Abre con Nadir y Danny: un rumor de calle sobre una bodega mal cuidada, con la cosecha lista para vender, sin que ninguno de los dos sepa de quien es -- Nadir duda antes de decidir, y el capitulo corta antes de mostrar el golpe o la captura (eso se reserva para un capitulo de negociacion futuro). Con "Dos dias antes" como encabezado literal, sigue a Chiara: va a la Almendra con un catalogo de muebles y pan para Hector, lo encuentra con la puerta abierta y en el suelo, llama a emergencias, sube con el en la ambulancia intentando comunicarse con Cole sin respuesta. En el hospital, cameo breve de la oficial Lucia Varek (pregunta de rutina, sin saber nada todavia de Cole ni del Patio) y un medico le confirma el infarto, pendiente de especialista. Walt llega a la sala de espera; recuento completo de lo que paso, y Walt revela que Hector ya habia tenido un preinfarto menor antes de ir a prision, nunca vigilado de cerca -- Chiara lo recibe con una reflexion propia, sin nombrar a su madre, sobre el costo de no tomarse en serio una enfermedad silenciosa. Walt se queda en el hospital; Chiara va al Monarch, escribe la carta, esta a punto de mandarla con un sussurro y cambia de decision -- la lleva ella misma, consecuencia directa de la promesa que le hizo a Cole en el Capitulo 13. Cierra con la carta bajo la puerta del loft, sin revelar su contenido -- eso se paga en el Capitulo 17.
-Apertura por residuo: arranca del cierre del Capitulo 15 -- pero el beat de las llamadas perdidas de Cole se recoloca al Capitulo 17: aqui, del lado de Chiara, no hay ninguna resolucion todavia.
+Funcion: capitulo exclusivo POV Chiara (2026-09-03, a peticion del autor -- separado del nuevo Capitulo 17, POV Kal, para que el fin de semana respire). Abre con Nadir y Danny: un rumor de calle sobre una bodega mal cuidada, con la cosecha lista para vender, sin que ninguno de los dos sepa de quien es -- Nadir duda antes de decidir, y el capitulo corta antes de mostrar el golpe o la captura (eso se reserva para un capitulo de negociacion futuro). Con "Dos dias antes" como encabezado literal, sigue a Chiara: va a la Almendra con un catalogo de muebles y pan para Hector, lo encuentra con la puerta abierta y en el suelo, llama a emergencias, sube con el en la ambulancia intentando comunicarse con Kal sin respuesta. En el hospital, cameo breve de la oficial Lucia Varek (pregunta de rutina, sin saber nada todavia de Kal ni del Patio) y un medico le confirma el infarto, pendiente de especialista. Walt llega a la sala de espera; recuento completo de lo que paso, y Walt revela que Hector ya habia tenido un preinfarto menor antes de ir a prision, nunca vigilado de cerca -- Chiara lo recibe con una reflexion propia, sin nombrar a su madre, sobre el costo de no tomarse en serio una enfermedad silenciosa. Walt se queda en el hospital; Chiara va al Monarch, escribe la carta, esta a punto de mandarla con un sussurro y cambia de decision -- la lleva ella misma, consecuencia directa de la promesa que le hizo a Kal en el Capitulo 13. Cierra con la carta bajo la puerta del loft, sin revelar su contenido -- eso se paga en el Capitulo 17.
+Apertura por residuo: arranca del cierre del Capitulo 15 -- pero el beat de las llamadas perdidas de Kal se recoloca al Capitulo 17: aqui, del lado de Chiara, no hay ninguna resolucion todavia.
 -->
 
 # Capítulo 16 — El portón
@@ -35,7 +35,7 @@ Nadir se quedó pensando, la tijera de podar todavía entre los dedos.
 
 —Puede ser las dos cosas.
 
-—Puede. —Se limpió las manos en el pantalón, mirando la planta sin verla realmente—. Cole no está. Héctor tampoco sabría nada de esto. Y tú y yo solos no somos el barrio entero — somos dos hombres con una idea que a lo mejor no es nuestra para tenerla.
+—Puede. —Se limpió las manos en el pantalón, mirando la planta sin verla realmente—. Kal no está. Héctor tampoco sabría nada de esto. Y tú y yo solos no somos el barrio entero — somos dos hombres con una idea que a lo mejor no es nuestra para tenerla.
 
 Danny no dijo nada. Dejó que el silencio hiciera lo que Nadir necesitaba que hiciera.
 
@@ -51,7 +51,7 @@ Nadir miró la puerta del sótano, después a Danny, y se tardó un segundo de m
 
 ## Dos días antes
 
-El mismo viernes que Cole cargaba la camioneta para el campamento, del otro lado de la ciudad, Chiara conducía el sedán negro del Monarch — un Mercedes-Benz Clase S que la empresa le había asignado como quien asigna un traje, sin preguntar si le quedaba bien — con las dos manos en el volante y la espalda más recta de lo que el asiento pedía. Nunca se había sentido cómoda manejando; prefería que la llevaran, prefería mirar por la ventana en vez de vigilar el espejo. Pero era, por ahora, el método más rápido que tenía para moverse sola sin explicarle a nadie a dónde iba ni por qué — así que manejaba, con el catálogo y una bolsa de pan todavía caliente en el asiento del copiloto, hacia la casa de Héctor.
+El mismo viernes que Kal cargaba la camioneta para el campamento, del otro lado de la ciudad, Chiara conducía el sedán negro del Monarch — un Mercedes-Benz Clase S que la empresa le había asignado como quien asigna un traje, sin preguntar si le quedaba bien — con las dos manos en el volante y la espalda más recta de lo que el asiento pedía. Nunca se había sentido cómoda manejando; prefería que la llevaran, prefería mirar por la ventana en vez de vigilar el espejo. Pero era, por ahora, el método más rápido que tenía para moverse sola sin explicarle a nadie a dónde iba ni por qué — así que manejaba, con el catálogo y una bolsa de pan todavía caliente en el asiento del copiloto, hacia la casa de Héctor.
 
 No era una visita anunciada, pero tampoco necesitaba serlo — llevaba semanas viendo, cada vez que pasaba por ahí, las mismas sillas de la cocina de Héctor con una pata reforzada con cinta de aislar, el mismo sofá que crujía como advertencia cada vez que alguien se sentaba del lado equivocado. Se lo había dicho una vez, medio en broma, medio no: *un día de estos alguien se va a partir la cabeza con ese sofá, Héctor.* Él se había reído y no había cambiado nada, así que ella decidió cambiarlo por él — un catálogo marcado en tres páginas con las esquinas dobladas, y pan de la panadería de la esquina, porque presentarse con las manos vacías nunca le había parecido de buena educación.
 
@@ -75,7 +75,7 @@ Chiara ya tenía el teléfono en la mano marcando la emergencia antes de termina
 
 Subió a la ambulancia sin que nadie se lo preguntara, y nadie se lo impidió. Se sentó donde le indicaron, fuera del camino de los paramédicos, con las manos vacías por primera vez desde que había llegado a la casa. Los miró trabajar sobre Héctor con una eficiencia que no dejaba espacio para el miedo, y agradeció, en silencio, que al menos alguien en ese vehículo supiera exactamente qué hacer.
 
-Marcó a Cole con el teléfono pegado al oído y la sirena tapando cualquier respuesta que no fuera silencio.
+Marcó a Kal con el teléfono pegado al oído y la sirena tapando cualquier respuesta que no fuera silencio.
 
 No contestó.
 
@@ -105,7 +105,7 @@ El médico que salió minutos más tarde le dio un nombre: infarto. Estable, por
 
 ***
 
-Empezó a llamar a Cole otra vez en cuanto el médico se fue y ya no quedó nada que hacer con las manos.
+Empezó a llamar a Kal otra vez en cuanto el médico se fue y ya no quedó nada que hacer con las manos.
 
 No contestó. Volvió a llamar. Lo mismo.
 
@@ -115,7 +115,7 @@ Walt llegó al hospital antes de que ella terminara de explicarle bien qué hab�
 
 —Contame todo —dijo, sentándose a su lado sin quitarse la chaqueta.
 
-Se lo contó en orden, sin saltarse nada: que había ido a dejarle un catálogo y pan, que la puerta estaba abierta, que lo encontró junto al portón, que llamó a emergencias, que subió con él en la ambulancia, que intentó a Cole tres veces y ninguna contestó.
+Se lo contó en orden, sin saltarse nada: que había ido a dejarle un catálogo y pan, que la puerta estaba abierta, que lo encontró junto al portón, que llamó a emergencias, que subió con él en la ambulancia, que intentó a Kal tres veces y ninguna contestó.
 
 —Un infarto —terminó—. Estable. Todavía esperan que venga el especialista a confirmar del todo.
 
@@ -125,29 +125,29 @@ Walt se quedó callado un momento, con las manos entre las rodillas.
 
 Chiara no dijo nada. Pensó, sin decirlo, en lo poco que avisa un corazón antes de fallar del todo — en que a veces el cuerpo entero sigue funcionando exactamente igual hasta el día que deja de hacerlo, y en el precio que puede llegar a tener no tomarse en serio algo que no duele lo suficiente como para asustar a nadie.
 
-—¿Nadir? ¿Danny? —preguntó Walt, después—. Alguno de los dos tiene que saber cómo llegar a Cole.
+—¿Nadir? ¿Danny? —preguntó Walt, después—. Alguno de los dos tiene que saber cómo llegar a Kal.
 
 —Los llamé. A los dos. Nada.
 
-—Raro. —Walt no dijo más que eso, pero algo en su cara dijo que el silencio de Nadir le pesaba de una manera distinta a como le pesaba el de Cole, y que todavía no sabía por qué—. Voy a seguir intentando.
+—Raro. —Walt no dijo más que eso, pero algo en su cara dijo que el silencio de Nadir le pesaba de una manera distinta a como le pesaba el de Kal, y que todavía no sabía por qué—. Voy a seguir intentando.
 
 No lo consiguió esa noche, ni Chiara tampoco.
 
-—Yo me quedo aquí —dijo Walt, después de un rato, ya sin la chaqueta puesta—. Vaya a descansar. Alguien tiene que estar despierto cuando Cole por fin aparezca.
+—Yo me quedo aquí —dijo Walt, después de un rato, ya sin la chaqueta puesta—. Vaya a descansar. Alguien tiene que estar despierto cuando Kal por fin aparezca.
 
 ***
 
-En el Monarch, sentada a su propio escritorio, sacó su papel de siempre — el bueno, el que olía a canela y vainilla, el mismo en el que llevaba meses escribiendo todo lo que de verdad importaba — y escribió lo que tenía que escribir. Llamó, por costumbre, a uno de los sussurros de guardia, con el sobre ya cerrado y el nombre de Cole trazado en tinta sobre la solapa.
+En el Monarch, sentada a su propio escritorio, sacó su papel de siempre — el bueno, el que olía a canela y vainilla, el mismo en el que llevaba meses escribiendo todo lo que de verdad importaba — y escribió lo que tenía que escribir. Llamó, por costumbre, a uno de los sussurros de guardia, con el sobre ya cerrado y el nombre de Kal trazado en tinta sobre la solapa.
 
 No llegó a dárselo.
 
-Se quedó con el sobre en la mano un momento de más, pensando en un chico de doce años parado frente a un desconocido en su propio territorio, cargando un papel que no entendía, y en la promesa que le había hecho a Cole hacía apenas unas semanas: que si alguna vez tenía que llegarle algo, lo llevaría ella misma.
+Se quedó con el sobre en la mano un momento de más, pensando en un chico de doce años parado frente a un desconocido en su propio territorio, cargando un papel que no entendía, y en la promesa que le había hecho a Kal hacía apenas unas semanas: que si alguna vez tenía que llegarle algo, lo llevaría ella misma.
 
 —Yo lo llevo —le dijo al sussurro, y se guardó el sobre en el bolsillo del abrigo antes de que nadie pudiera ofrecerse a ahorrarle el viaje.
 
 Metió la hoja, antes de cerrar el sobre, en uno del hotel — grueso, rojo, con el sello dorado del casino en la solapa. No hacía falta esconder este mensaje de nadie; podía permitirse, por una vez, que se viera desde lejos.
 
-Condujo hasta la Almendra con el sedán negro del Monarch, las dos manos en el volante, sin la costumbre suficiente para sentirse cómoda pero sin nadie a quien pedirle que manejara por ella. Metió el sobre por debajo de la puerta de Cole, sin abrirlo de nuevo, sin releerlo, sin darse el permiso de dudar de lo que había escrito.
+Condujo hasta la Almendra con el sedán negro del Monarch, las dos manos en el volante, sin la costumbre suficiente para sentirse cómoda pero sin nadie a quien pedirle que manejara por ella. Metió el sobre por debajo de la puerta de Kal, sin abrirlo de nuevo, sin releerlo, sin darse el permiso de dudar de lo que había escrito.
 
 Tenía llaves. Nunca las había usado para entrar cuando él no estaba, y no iba a empezar ese día — no porque el momento no lo ameritara, sino precisamente porque sí lo ameritaba, y cruzar esa puerta sin él adentro le pareció, incluso entonces, una intimidad que todavía no le correspondía tomarse sola.
 

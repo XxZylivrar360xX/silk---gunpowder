@@ -1,19 +1,19 @@
 <!--
 Estado: BORRADOR — primer capítulo de la Parte II (La Construcción). Pendiente de revisión del autor.
 Protagonistas: Chiara Bellandi (POV único). Apariciones: Dario Varek (recuerdo de madrugada + confrontación), Walter "Walt" Keegan.
-Ventana temporal: la mañana en que Cole sale de San Aurelio de emergencia. Un día después de H15 (la noche del jacuzzi, Cap. 26). La advertencia de Varek de madrugada ocurrió la noche del jacuzzi y aquí entra como recuerdo comprimido (cierre de H15), no como escena propia. Ejecuta el núcleo vivo de H5 — San Aurelio desde el lado de Chiara.
+Ventana temporal: la mañana en que Kal sale de San Aurelio de emergencia. Un día después de H15 (la noche del jacuzzi, Cap. 26). La advertencia de Varek de madrugada ocurrió la noche del jacuzzi y aquí entra como recuerdo comprimido (cierre de H15), no como escena propia. Ejecuta el núcleo vivo de H5 — San Aurelio desde el lado de Chiara.
 Lugares: El Penthouse y la terraza sur del Monarch; la destilería de Walt; el taller del norte (Rutas de Milla, cerca de Kingsley Field).
 Función: CANON DEL AUTOR, H5 lado Chiara.
-- Chiara despierta motivada por lo de anoche ("libros abiertos"); tiene reservada la terraza sur para un desayuno siciliano y está por citar a Cole cuando encuentra su mensaje. El mensaje acordado ("...Me encuentro bien. Te veo al volver.") la corta: Cole no tranquiliza antes de tiempo, contesta una pregunta que ella no hizo. Su instinto lo conecta con lo que Varek le dijo de madrugada.
-- IRONÍA CANON: quien sacó a Cole de la ciudad fue Halbrook, no Varek. Chiara apunta al hombre equivocado y el capítulo NO lo resuelve. Cole no le da el nombre real (protege el hilo Halbrook/Nadir/convoy).
-- Walt: primero la destilería (sembrada en Cap. 12), después deriva a "lo que sea que es esto" entre ella y Cole. Walt got un mensaje también ("Cuida el barrio. Si Chiara necesita algo, ayúdala sin chistar."), lo que le confirma a Chiara que Cole planeó la salida. Línea canon de Walt (intención fija, puntuación adaptable): "confiaré en su palabra pero no puedo decir lo mismo de su corazón, eso tendré que verlo con mis ojos."
-- Dario: Chiara, creyéndolo detrás de la desaparición de Cole, investiga y lo sigue hasta el taller del norte con una coartada fina (se quedó varada; Cole la llevó ahí una vez). Varek ya sabe por qué está ahí. Le presenta a Cole como peligroso usando el incidente del hospital contado a su favor y el pasado turbio de Cole; ella se hace la que no sabe nada, pero se adelanta a todo porque Cole se lo contó en el jacuzzi. Sale la misoginia que Varek normalmente administra mejor. Las tres líneas canon: "Trabajas para mí. No conmigo." / "¿Te estás acostando con él?" / "Si hay que eliminar a Cole, entonces tú vas a hacerlo." + "vas a aprender tu lugar". El orgullo de Chiara la mantiene en la habitación más de lo prudente: NO "entiende su lugar". El arma nunca se nombra: sólo el frío del cuarto y que Chiara parece estar hablando con todo menos con un hombre (alusión al diablo, sin decir la palabra), poética por lo devota que es.
+- Chiara despierta motivada por lo de anoche ("libros abiertos"); tiene reservada la terraza sur para un desayuno siciliano y está por citar a Kal cuando encuentra su mensaje. El mensaje acordado ("...Me encuentro bien. Te veo al volver.") la corta: Kal no tranquiliza antes de tiempo, contesta una pregunta que ella no hizo. Su instinto lo conecta con lo que Varek le dijo de madrugada.
+- IRONÍA CANON: quien sacó a Kal de la ciudad fue Halbrook, no Varek. Chiara apunta al hombre equivocado y el capítulo NO lo resuelve. Kal no le da el nombre real (protege el hilo Halbrook/Nadir/convoy).
+- Walt: primero la destilería (sembrada en Cap. 12), después deriva a "lo que sea que es esto" entre ella y Kal. Walt got un mensaje también ("Cuida el barrio. Si Chiara necesita algo, ayúdala sin chistar."), lo que le confirma a Chiara que Kal planeó la salida. Línea canon de Walt (intención fija, puntuación adaptable): "confiaré en su palabra pero no puedo decir lo mismo de su corazón, eso tendré que verlo con mis ojos."
+- Dario: Chiara, creyéndolo detrás de la desaparición de Kal, investiga y lo sigue hasta el taller del norte con una coartada fina (se quedó varada; Kal la llevó ahí una vez). Varek ya sabe por qué está ahí. Le presenta a Kal como peligroso usando el incidente del hospital contado a su favor y el pasado turbio de Kal; ella se hace la que no sabe nada, pero se adelanta a todo porque Kal se lo contó en el jacuzzi. Sale la misoginia que Varek normalmente administra mejor. Las tres líneas canon: "Trabajas para mí. No conmigo." / "¿Te estás acostando con él?" / "Si hay que eliminar a Kal, entonces tú vas a hacerlo." + "vas a aprender tu lugar". El orgullo de Chiara la mantiene en la habitación más de lo prudente: NO "entiende su lugar". El arma nunca se nombra: sólo el frío del cuarto y que Chiara parece estar hablando con todo menos con un hombre (alusión al diablo, sin decir la palabra), poética por lo devota que es.
 Continuidad / provisional:
-- Llave del loft: Cole se la dio al terminar la obra/decoración del loft (informal, para noches sueltas). La llave "oficial" en una cajita — "pasa también las mañanas" — sigue siendo H16.
+- Llave del loft: Kal se la dio al terminar la obra/decoración del loft (informal, para noches sueltas). La llave "oficial" en una cajita — "pasa también las mañanas" — sigue siendo H16.
 - La advertencia de Varek de madrugada se rinde aquí SOLO como recuerdo comprimido. DECISIÓN DEL AUTOR (2026-09-09): se queda como recuerdo, NO se escribe como escena propia.
 - El taller del norte: ficha creada [[05_Locations/El_Taller_del_Norte]] (DISEÑO). Dueño formal del terreno sigue PENDIENTE. En prosa: "el taller del norte" / "el galpón".
 - La destilería de Walt: ficha creada [[05_Locations/Destileria_de_Walt]] (DISEÑO: bodega de granos reconvertida, borde industrial de La Almendra). Nombre y punto exacto siguen PENDIENTE. En prosa: "la destilería" / "la bodega".
-- Ritual de la vela por Cole: NO existe todavía (nace tras F4 / Año Nuevo en Washington). Chiara reza, sin ritual.
+- Ritual de la vela por Kal: NO existe todavía (nace tras F4 / Año Nuevo en Washington). Chiara reza, sin ritual.
 - Ritual del "Ciao, bello": NO existe todavía (nace tras H21). Los mensajes son planos y ansiosos.
 - Dario tutea a Chiara (gesto de poder); ella le sostiene el usted como pared.
 -->
@@ -38,13 +38,13 @@ Lo leyó dos veces sentada en el borde de la cama, con los pies todavía sin toc
 
 *Me encuentro bien.*
 
-Cole no tranquilizaba a la gente antes de que tuviera miedo. Contestaba preguntas. Y ella no le había preguntado nada: él se había ido a las cinco cuarenta sin despertarla y había contestado, solo, una pregunta que ella no había llegado a hacerse. Un hombre te dice que está bien cuando ya sabe que se lo vas a preguntar, y calcula que la frase te va a llegar antes que el susto.
+Kal no tranquilizaba a la gente antes de que tuviera miedo. Contestaba preguntas. Y ella no le había preguntado nada: él se había ido a las cinco cuarenta sin despertarla y había contestado, solo, una pregunta que ella no había llegado a hacerse. Un hombre te dice que está bien cuando ya sabe que se lo vas a preguntar, y calcula que la frase te va a llegar antes que el susto.
 
-Esa misma madrugada, con el pelo todavía húmedo del jacuzzi, Varek la había parado junto al ascensor privado. Sin levantar la voz, como quien comenta el clima: que Cole no le cuadraba, que iba a mirarlo de cerca, que iba a poner a alguien detrás de él, y que ella, si era lista, se mantendría lejos. Chiara lo había archivado esa noche como una más de las cosas que Varek decía para recordarte que podía decirlas.
+Esa misma madrugada, con el pelo todavía húmedo del jacuzzi, Varek la había parado junto al ascensor privado. Sin levantar la voz, como quien comenta el clima: que Kal no le cuadraba, que iba a mirarlo de cerca, que iba a poner a alguien detrás de él, y que ella, si era lista, se mantendría lejos. Chiara lo había archivado esa noche como una más de las cosas que Varek decía para recordarte que podía decirlas.
 
 A las siete y diez de la mañana, con el teléfono en la mano, dejó de estar archivada.
 
-Llamó a Cole. No dio tono. Lo intentó otra vez y contestó la operadora grabada, la que no promete nada.
+Llamó a Kal. No dio tono. Lo intentó otra vez y contestó la operadora grabada, la que no promete nada.
 
 No canceló la terraza. Bajó a decirle a la cocina que lo dejaran todo listo y en frío, que iba a servirse más tarde, y se oyó a sí misma decirlo con una voz normal, y le pareció un pequeño milagro sucio que le saliera.
 
@@ -64,11 +64,11 @@ La destilería de Walt olía a maíz cocido y a madera nueva, y por debajo, a al
 
 Chiara reconoció la frase antes de terminar de oírla. La había oído antes, con esas mismas costuras, en otra boca.
 
-—Esa la dice Cole.
+—Esa la dice Kal.
 
-—Esa la digo yo desde antes de que Cole supiera atarse los cordones. —Walt por fin la miró—. El muchacho no inventó la paciencia. Nada más aprendió a usarla como si fuera un cuchillo. —Se limpió las manos en un trapo—. Y usted no vino hasta el norte a hablarme de barricas.
+—Esa la digo yo desde antes de que Kal supiera atarse los cordones. —Walt por fin la miró—. El muchacho no inventó la paciencia. Nada más aprendió a usarla como si fuera un cuchillo. —Se limpió las manos en un trapo—. Y usted no vino hasta el norte a hablarme de barricas.
 
-—Cole salió de la ciudad esta madrugada. No sé por qué ni a dónde. —Lo dijo plano, como un reporte—. Pensé que usted podría saberlo.
+—Kal salió de la ciudad esta madrugada. No sé por qué ni a dónde. —Lo dijo plano, como un reporte—. Pensé que usted podría saberlo.
 
 Walt dejó el trapo. Sacó el teléfono del bolsillo del pantalón, buscó despacio, y se lo giró sobre el banco para que ella leyera sin tener que pedírselo.
 
@@ -80,7 +80,7 @@ Ella miró la pantalla más tiempo del que hacía falta para leer nueve palabras
 
 —Entonces se fue por su propio pie —dijo.
 
-—Se fue por su propio pie —confirmó Walt—. Lo ha hecho antes. Vuelve cuando vuelve. —Recogió el trapo otra vez, más por tener las manos ocupadas que por usarlo—. Le voy a dar un consejo que no me pidió, señorita. En esta ciudad, cuando un hombre como Cole desaparece un par de días, la gente que lo quiere aprende a no levantar las piedras a ver qué encuentra. Las piedras de aquí tienen cosas debajo que muerden.
+—Se fue por su propio pie —confirmó Walt—. Lo ha hecho antes. Vuelve cuando vuelve. —Recogió el trapo otra vez, más por tener las manos ocupadas que por usarlo—. Le voy a dar un consejo que no me pidió, señorita. En esta ciudad, cuando un hombre como Kal desaparece un par de días, la gente que lo quiere aprende a no levantar las piedras a ver qué encuentra. Las piedras de aquí tienen cosas debajo que muerden.
 
 Chiara no contestó a eso. Walt la miró un segundo de más, como si el silencio le hubiera dicho lo que ella no.
 
@@ -106,17 +106,17 @@ Se llevó las botellas a la camioneta. Las botas de cazador sonaron parejas sobr
 
 Chiara hizo lo que sabía hacer.
 
-Preguntó a los valets qué coche había sacado Varek y a qué hora. Consiguió que una chica de contaduría le enseñara la bitácora del estacionamiento sin preguntar para qué. Llamó a dos personas y le mintió a las dos con mentiras apenas distintas, para ver cuál de las dos le volvía cambiada. No fue torpe. Pero lo estaba haciendo por Cole, dentro de un edificio que era de Varek, y para la segunda noche entendió que sus preguntas caminaban de vuelta hacia él más rápido de lo que sus respuestas llegaban a ella.
+Preguntó a los valets qué coche había sacado Varek y a qué hora. Consiguió que una chica de contaduría le enseñara la bitácora del estacionamiento sin preguntar para qué. Llamó a dos personas y le mintió a las dos con mentiras apenas distintas, para ver cuál de las dos le volvía cambiada. No fue torpe. Pero lo estaba haciendo por Kal, dentro de un edificio que era de Varek, y para la segunda noche entendió que sus preguntas caminaban de vuelta hacia él más rápido de lo que sus respuestas llegaban a ella.
 
 Así que dejó de preguntar y lo siguió.
 
-El Lancia todavía olía a sala de exhibición. Pasó Kingsley Field, pasó la reja de tela metálica que corría kilómetros junto a la carretera recta, y se metió por el camino de servicio hacia el taller del norte, el galpón donde se preparaban los coches de las carreras. Cole se lo había descrito una vez y nunca la había llevado, lo cual era un problema, porque la versión que traía lista era que él la había llevado ahí la noche que el coche la dejó tirada.
+El Lancia todavía olía a sala de exhibición. Pasó Kingsley Field, pasó la reja de tela metálica que corría kilómetros junto a la carretera recta, y se metió por el camino de servicio hacia el taller del norte, el galpón donde se preparaban los coches de las carreras. Kal se lo había descrito una vez y nunca la había llevado, lo cual era un problema, porque la versión que traía lista era que él la había llevado ahí la noche que el coche la dejó tirada.
 
 Dos hombres en la puerta. Adentro hacía frío: una nave de lámina en invierno con los portones abiertos por los dos extremos, una lámpara de trabajo colgada de una cadena, olor a solvente y a metal. Varek estaba de pie junto a un banco, con el abrigo puesto, como quien espera una cita que anotó él mismo.
 
 —Chiara. —No preguntó qué hacía ahí—. Vienes helada. —Le hizo un gesto a uno de los hombres, que arrastró una silla plegable hasta ella. Chiara no se sentó—. Es un mal camino para quedarse varada de noche.
 
-—Cole me trajo aquí una vez. Se me descompuso el coche. Fue lo único que recordé.
+—Kal me trajo aquí una vez. Se me descompuso el coche. Fue lo único que recordé.
 
 —Qué suerte tener un recuerdo tan a la mano. —Varek acomodó algo sobre el banco, sin mirarlo, con dos dedos—. Ya que estás, te ahorro el resto de la noche. El hombre por el que preguntas en medio casino no es lo que tú crees que es.
 
@@ -130,7 +130,7 @@ Le salió demasiado limpio. Varek lo vio.
 
 —¿Te estás acostando con él?
 
-Lo preguntó como se pregunta si va a llover. Eso era lo del asunto: no la pregunta, la temperatura de la pregunta. Tomaba todo lo que ella se había construido en esa ciudad —la lectura, la prudencia, la lealtad, el criterio de que Cole valía el riesgo— y lo metía entero en un cajón rotulado con una sola cosa que se hace con un hombre.
+Lo preguntó como se pregunta si va a llover. Eso era lo del asunto: no la pregunta, la temperatura de la pregunta. Tomaba todo lo que ella se había construido en esa ciudad —la lectura, la prudencia, la lealtad, el criterio de que Kal valía el riesgo— y lo metía entero en un cajón rotulado con una sola cosa que se hace con un hombre.
 
 —Con quién ceno y con quién no ceno no es asunto suyo.
 
@@ -138,7 +138,7 @@ Lo preguntó como se pregunta si va a llover. Eso era lo del asunto: no la pregu
 
 Y ahí debía dejar que ésa fuera la última palabra. Una noche más lista, lo hacía. En vez de eso lo corrigió: le dijo qué era ella para el Monarch, qué llevaba, qué se caía la semana que ella dejara de llevarlo, y lo dijo una frase más larga de lo que convenía, y en algún punto de esa frase el galpón se puso más frío, y uno de los hombres de la puerta dejó de apoyarse en el marco.
 
-Varek no se movió. No le hizo falta. Dejó correr el silencio hasta que se oyó el zumbido de la lámpara de trabajo, y entonces dijo, sin subir la voz, que ella iba a aprender su lugar. Y que si alguna vez llegaba a ser necesario, si a Cole alguna vez había que eliminarlo —
+Varek no se movió. No le hizo falta. Dejó correr el silencio hasta que se oyó el zumbido de la lámpara de trabajo, y entonces dijo, sin subir la voz, que ella iba a aprender su lugar. Y que si alguna vez llegaba a ser necesario, si a Kal alguna vez había que eliminarlo —
 
 —entonces lo vas a hacer tú.
 

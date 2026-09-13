@@ -1,6 +1,6 @@
 # Capítulos
 
-Prosa de la novela. Vacío hasta que existan: los nombres definitivos de los protagonistas, el mapa de facciones de [[05_Locations/San_Aurelio]] y la escena del encuentro diseñada en [[06_Relationships/Cole_y_Chiara]].
+Prosa de la novela. Vacío hasta que existan: los nombres definitivos de los protagonistas, el mapa de facciones de [[05_Locations/San_Aurelio]] y la escena del encuentro diseñada en [[06_Relationships/Kal_y_Chiara]].
 
 ## Antes de escribir un capítulo
 

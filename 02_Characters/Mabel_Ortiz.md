@@ -39,7 +39,7 @@ Lleva décadas en San Aurelio. Vio cerrar refinerías, cambiar alcaldes, crecer 
 
 Su local sobrevivió porque nunca pretendió ser elegante. Es útil. Abre temprano, cierra tarde, fía con cuidado y no pregunta delante de otros.
 
-Conoce a [[02_Characters/Cole_Mercer]] como se conoce a alguien de barrio: por lo que hizo antes de que tuviera nombre. Sabe que ayudó a gente sin cobrar, pero eso no la vuelve ciega. Mabel distingue entre un muchacho bueno y un hombre peligroso.
+Conoce a [[02_Characters/Kal_Mercer]] como se conoce a alguien de barrio: por lo que hizo antes de que tuviera nombre. Sabe que ayudó a gente sin cobrar, pero eso no la vuelve ciega. Mabel distingue entre un muchacho bueno y un hombre peligroso.
 
 Con [[02_Characters/Chiara_Bellandi]], la relación empieza cuando Chiara entra como forastera y no la trata como parte del decorado. Compra algo pequeño, escucha más de lo que habla y vuelve otro día. Mabel entiende rápido que esa italiana no busca chisme: busca dirección.
 
@@ -72,7 +72,7 @@ Chiara hace el resto.
 - No repite intimidades por crueldad.
 - No habla por teléfono de cosas importantes.
 - No entra a reuniones criminales.
-- No le pertenece a Chiara ni a Cole.
+- No le pertenece a Chiara ni a Kal.
 - Si ayuda, lo hace porque decidió que el resultado vale el riesgo.
 
 ---
@@ -90,7 +90,7 @@ También sirve para mostrar el límite moral de Chiara. Si Chiara usa a Mabel co
 ## Conexiones
 
 - [[02_Characters/Chiara_Bellandi]] — aliada civil. Le da detalles que Chiara convierte en dirección.
-- [[02_Characters/Cole_Mercer]] — lo conoce por reputación de barrio; no lo absuelve por cariño.
+- [[02_Characters/Kal_Mercer]] — lo conoce por reputación de barrio; no lo absuelve por cariño.
 - [[03_Factions/Red_Civil_de_Chiara]] — nodo principal.
 - [[05_Locations/Vida_Civil_de_San_Aurelio]] — su ecosistema.
 - [[03_Factions/El_Faro]] — posible puente indirecto: Mabel sabe qué rumores merecen convertirse en pregunta periodística.
@@ -105,6 +105,6 @@ También sirve para mostrar el límite moral de Chiara. Si Chiara usa a Mabel co
 
 > **PENDIENTE:** definir si Mabel vive encima del local o en una casa cercana.
 
-> **PENDIENTE:** decidir qué rumor suyo cambia por primera vez una decisión de Cole.
+> **PENDIENTE:** decidir qué rumor suyo cambia por primera vez una decisión de Kal.
 
 Ver también: [[03_Factions/Red_Civil_de_Chiara]] · [[05_Locations/Vida_Civil_de_San_Aurelio]]

@@ -1,4 +1,4 @@
-# Ficha de Voz - Cole Mercer
+# Ficha de Voz - Kal Mercer
 
 ## Cadencia y sintaxis
 

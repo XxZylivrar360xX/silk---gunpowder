@@ -44,7 +44,7 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 - **CANON DEL AUTOR:** no reinterpretar, no sustituir, no "mejorar" lineas de dialogo canon.
 - **DISENO:** inferencia del agente; se puede discutir.
 - **PENDIENTE:** falta decision del autor; no rellenar por conveniencia.
-- Cole y Chiara no se separan, pero el lector debe creer que pueden romperse.
+- Kal y Chiara no se separan, pero el lector debe creer que pueden romperse.
 - La relacion es maquinaria del ascenso, no subtrama.
 - El toma territorio; ella toma relato.
 - La violencia debe cambiar una relacion o estructura; si no, sobra.
@@ -58,7 +58,7 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 - `00_Biblia/`: vision, temas, principios y reglas del mundo.
 - `01_Timeline/00_Estructura_del_Ascenso.md`: fases del ascenso. **Pendiente de reconciliar con la trilogia.**
 - `01_Timeline/01_Primer_Borrador_Beats.md`: 90 beats macro. **Pendiente de reconciliar con la trilogia.**
-- `06_Relationships/Cole_y_Chiara.md`: arquitectura de la relacion.
+- `06_Relationships/Kal_y_Chiara.md`: arquitectura de la relacion.
 - `06_Relationships/Hitos.md`: hitos obligatorios del autor. **H22 se movio a Voto de Ceniza (Libro II); revisar ubicaciones antes de citar.**
 - `06_Relationships/Momentos_de_Fractura.md`: conflictos que casi lo rompen todo.
 - `99_Reference/`: referencia externa no canon; no copiar.

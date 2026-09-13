@@ -21,13 +21,13 @@
 
 ## Quién es
 
-Mei-Lin viene de una banda rival del mercado de carreras y calle. Esa banda se desintegra, y ella entra a la organización de Cole junto con [[02_Characters/Riley_Bennett]].
+Mei-Lin viene de una banda rival del mercado de carreras y calle. Esa banda se desintegra, y ella entra a la organización de Kal junto con [[02_Characters/Riley_Bennett]].
 
 Su función no es "otra conductora". Mei-Lin trae algo distinto: memoria de una estructura que falló.
 
 Sabe cómo se ve una banda antes de romperse desde dentro: los pagos que se retrasan, las órdenes contradictorias, los líderes que confunden miedo con respeto, los corredores que empiezan a vender información por protección.
 
-> **DISEÑO:** Mei-Lin es útil porque no idealiza a Cole. Ya vio una organización prometer familia y volverse hambre. Si se queda, tiene que ser porque detecta que Almendra Towing funciona distinto, no porque le crea de inmediato.
+> **DISEÑO:** Mei-Lin es útil porque no idealiza a Kal. Ya vio una organización prometer familia y volverse hambre. Si se queda, tiene que ser porque detecta que Almendra Towing funciona distinto, no porque le crea de inmediato.
 
 ---
 
@@ -37,7 +37,7 @@ Lo que opera hoy:
 
 - Fue corredora de una banda rival.
 - Esa banda se desintegró.
-- Se integra a la organización de Cole junto con Riley Bennett.
+- Se integra a la organización de Kal junto con Riley Bennett.
 - Su entrada conecta el circuito de carreras con la expansión de Almendra Towing.
 - En [[06_Relationships/Momentos_de_Fractura]], F2, su lealtad dudosa arrastra a Riley y la convierte en la muerte que marca una frontera moral para El Patio.
 
@@ -47,7 +47,7 @@ Lo que opera hoy:
 
 Mei-Lin sobrevive leyendo jerarquías. Antes de conducir, mira quién manda de verdad, quién sólo grita y quién cobra sin aparecer.
 
-Como conductora, debe tener una técnica distinta de Cole y Harper:
+Como conductora, debe tener una técnica distinta de Kal y Harper:
 
 > **PENDIENTE:** definir su estilo al volante. Recomendación: precisión fría, poca teatralidad, cero necesidad de lucirse.
 
@@ -68,7 +68,7 @@ Como conductora, debe tener una técnica distinta de Cole y Harper:
 
 - [[02_Characters/Riley_Bennett]] — entra con ella desde la banda rival desintegrada.
 - [[02_Characters/Tyler_Brooks]] — posible choque entre organizador joven y corredora con experiencia.
-- [[02_Characters/Cole_Mercer]] — la absorbe a una estructura que no debería repetir lo que la rompió antes.
+- [[02_Characters/Kal_Mercer]] — la absorbe a una estructura que no debería repetir lo que la rompió antes.
 - [[02_Characters/Chiara_Bellandi]] — pendiente de definir. Chiara puede detectar en Mao una fuente de inteligencia sobre bandas rivales.
 - [[03_Factions/Almendra_Towing]] — nueva casa operativa, si decide quedarse.
 
@@ -82,7 +82,7 @@ Como conductora, debe tener una técnica distinta de Cole y Harper:
 
 > **PENDIENTE:** qué conserva Mei-Lin de su antigua banda.
 
-> **PENDIENTE:** quién la busca después de que se integra a Cole.
+> **PENDIENTE:** quién la busca después de que se integra a Kal.
 
 > **PENDIENTE:** definir si realmente traicionó o si sólo dejó una duda imposible de sostener.
 

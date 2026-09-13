@@ -3037,3 +3037,13 @@ Corrección del alcance tras precisión del autor: se retiró el borrador que ad
 ## [2026-09-12] Codex — Apertura de Voto de Ceniza: nacimiento y los tres
 
 Por encargo del autor, se creó [[08_Scenes/Book_02/02_Nacimiento_Y_Los_Tres]] como segunda escena de la apertura: parto y primeros minutos de Cole, Chiara y la bebé juntos en la habitación. Cobra el motivo del dedo de Cole y conserva los límites: no falsa muerte, mecanismo, entrega, Riley, Italia ni llamada del mirador. Actualizados `INDEX.md`, `CURRENT_BRIEF.md` y `PENDING.md`; la tercera escena pendiente es la llamada de Chiara y Cole en El Mirador.
+
+## [2026-09-13] Codex — Migración de nomenclatura a Kal Mercer
+
+**CANON DEL AUTOR:** Cole Mercer queda supersedido por **Kal Mercer** desde **2026-09-13**. Aplicado únicamente el cambio literal de nombre al material vivo: 4,270 menciones en 185 archivos, incluidas variantes de caja y referencias de configuración. Renombradas las fichas [[02_Characters/Kal_Mercer]], [[12_Craft_Policies/voice/Kal_Mercer]], la relación [[06_Relationships/Kal_y_Chiara]], [[98_Agent_Handoff/ChatGPT/HITO_Mi_Pareja_Formalizacion_Kal_Chiara]] y cuatro imágenes de `99_Reference/character_art/`; imágenes intactas byte a byte. Actualizados índices, enlaces, relevo y herramientas activas. Conservados sin reescritura los registros anteriores de log/DECISIONS, sesiones, prompts/handoffs archivados (salvo la nota de hito renombrada por petición expresa), catchup y reportes editoriales congelados: 2,239 menciones históricas, con sus referencias de época. Las rutas históricas del protagonista se corresponden con las rutas actuales sustituyendo el nombre en el filename. EPUB sin regenerar, pendiente de petición expresa. Sin cambios narrativos adicionales, commit ni push de esta migración.
+
+Verificación: cero residuos del nombre en el alcance vivo y cero filenames antiguos; 233 enlaces/embeds afectados con destino y anclas válidos. Se preservaron 21 referencias Obsidian históricas al nombre anterior. Las 19 pruebas editoriales pasan antes y después. Revisados los diffs contra la sustitución literal y la integridad por SHA-256; `git diff --check` sólo señala nueve líneas con los dos espacios finales de salto Markdown ya presentes antes del cambio, conservados para no alterar formato ni diálogos. HEAD e índice Git sin modificar por la migración.
+
+## [2026-09-13] Codex — EPUB regenerado
+
+Por petición expresa del autor, se recompiló [[tools/epub-build/output/Seda_y_Polvora.epub]] desde el manuscrito vigente: 29 capítulos en las Partes I y II, incluida la nomenclatura **Kal Mercer**, con portada y estilo existentes. Pandoc terminó sin errores; salida de 1,623,272 bytes. Sin cambios de prosa, canon, commit ni push.

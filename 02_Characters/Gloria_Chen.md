@@ -33,4 +33,4 @@ Esa frase, repetida demasiadas veces, es donde el caso Mercer deja de ser una se
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** qué informante de Gloria termina tocando el caso Cole.
+> **PENDIENTE:** qué informante de Gloria termina tocando el caso Kal.

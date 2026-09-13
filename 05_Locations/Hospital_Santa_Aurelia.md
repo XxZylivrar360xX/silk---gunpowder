@@ -33,7 +33,7 @@ Pero no todos entran con el mismo riesgo.
 - Un periodista puede aparecer en la acera en diez minutos.
 - Un fiscal puede pedir registros.
 - Los federales pueden pedir cámaras, llamadas, matrículas y cadena de custodia.
-- Alguien como [[02_Characters/Cole_Mercer]] puede sobrevivir ahí, pero difícilmente puede desaparecer ahí.
+- Alguien como [[02_Characters/Kal_Mercer]] puede sobrevivir ahí, pero difícilmente puede desaparecer ahí.
 
 **Regla dura:** el Hospital Santa Aurelia no es territorio criminal. Es institución. Nadie lo posee sin pagar un costo político, legal y mediático absurdo.
 
@@ -83,7 +83,7 @@ Costo:
 - trazabilidad;
 - filtraciones posibles.
 
-Por eso [[06_Relationships/Hitos#H12 — El atentado / El corral|H12]] (antes "H5 — El hipódromo") puede ocurrir aquí: Chiara llega como víctima y necesita atención legítima. Pero H1 no puede ocurrir aquí: para entonces Cole tiene demasiado heat encima.
+Por eso [[06_Relationships/Hitos#H12 — El atentado / El corral|H12]] (antes "H5 — El hipódromo") puede ocurrir aquí: Chiara llega como víctima y necesita atención legítima. Pero H1 no puede ocurrir aquí: para entonces Kal tiene demasiado heat encima.
 
 ### La medicina por fuera
 
@@ -106,15 +106,15 @@ Los dos nombres importantes:
 
 > **NOTA (2026-08-29):** esta escena de hospital pertenece ahora a **[[06_Relationships/Hitos#H12 — El atentado / El corral]]** (ejecutada en el Capítulo 9). El hito renombrado **H5 — San Aurelio** ya no incluye el hospital.
 
-Después del ataque en las caballerizas, Cole lleva a Chiara al Hospital Santa Aurelia.
+Después del ataque en las caballerizas, Kal lleva a Chiara al Hospital Santa Aurelia.
 
 Función de la escena:
 
 - legitimar la gravedad del ataque;
 - meter cámaras, médicos, pasillos y espera;
-- obligar a Cole a quedarse sin control;
+- obligar a Kal a quedarse sin control;
 - permitir que [[02_Characters/Dario_Varek]] entre como figura pública y amenaza privada;
-- hacer posible el cuarto donde Cole y Dario se apuntan con armas.
+- hacer posible el cuarto donde Kal y Dario se apuntan con armas.
 
 Varek puede entrar no porque el hospital sea suyo, sino porque es donante, empresario, cara pública y hombre al que demasiada gente evita decirle que no.
 
@@ -122,11 +122,11 @@ Varek puede entrar no porque el hospital sea suyo, sino porque es donante, empre
 
 El Hospital Santa Aurelia está fuera de opción.
 
-Cole no puede ir porque los hospitales están vigilados por lo que acaba de pasar. La policía local, los federales o gente de Dario podrían estar esperando exactamente eso: un herido que no pueda explicar su sangre.
+Kal no puede ir porque los hospitales están vigilados por lo que acaba de pasar. La policía local, los federales o gente de Dario podrían estar esperando exactamente eso: un herido que no pueda explicar su sangre.
 
 Por eso Chiara llama a [[02_Characters/Camila_Rivas]].
 
-**Tesis cobrada:** el territorio de Cole lo hizo llegar a casa; la red de Chiara lo mantiene vivo.
+**Tesis cobrada:** el territorio de Kal lo hizo llegar a casa; la red de Chiara lo mantiene vivo.
 
 ---
 
@@ -158,7 +158,7 @@ Para la [[03_Factions/Fuerza_de_Tarea_Meridian]], el hospital es más frío:
 - No usarlo como guarida. Usarlo como institución: útil, visible y llena de rastro.
 - Cada visita debe dejar algo: registro, rumor, cámara, deuda o miedo.
 - Si Dario cruza una puerta, la tensión viene de su respetabilidad pública, no de matones en bata.
-- Si Cole cruza una puerta, la tensión viene de que sabe exactamente cuántas formas hay de quedar registrado.
+- Si Kal cruza una puerta, la tensión viene de que sabe exactamente cuántas formas hay de quedar registrado.
 
 ---
 

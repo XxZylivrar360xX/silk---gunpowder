@@ -1,10 +1,10 @@
 <!--
 Estado: TERMINADO
-Protagonistas: Chiara Bellandi, Cole Mercer, con apariciones de Dario Varek, Nadir Amrani, Hector Navarro y personal del hospital.
+Protagonistas: Chiara Bellandi, Kal Mercer, con apariciones de Dario Varek, Nadir Amrani, Hector Navarro y personal del hospital.
 Ventana temporal: dias despues del Capitulo 9 (la carrera de mascaras). Todavia no hay primer beso. Cierra con el traslado nocturno a la casa comun.
-Apertura recosida el 2026-08-29 (encargo PROMPT_CLAUDE_H9): el residuo ya no es "desde la noche del ladrillo Chiara empezo a evitar a Cole", sino carrera de mascaras -> se divirtio demasiado facil -> retrocede unos dias (no por arrepentimiento, por lo contrario) -> el calendario emocional (aniversario de Marta, homenaje de Alessio) la golpea -> termina queriendo oir la voz de Cole -> telefono en la mano con su nombre en pantalla -> el golpe. El cuerpo del capitulo, intacto. Microedicion 2026-08-29 (ENCARGO_CLAUDE_MICROEDICION): se podo la recapitulacion concreta de H9 (Peugeot, tienda, Kingsley, motor, antifaz) — la apertura arranca ya desde el residuo emocional, no desde el resumen del capitulo anterior. Microedicion 2026-08-29 (ENCARGO_CLAUDE_TENSION_HOSPITAL): el golpe deja de ser "conmocion, dos o tres dias de observacion" y pasa a ser un hematoma que requiere cirugia de urgencia (craniotomia descompresiva) para estabilizar la hemorragia. Se introduce a Beatrice Varek como la neurocirujana que opera -- primera aparicion en prosa, adelantada desde su funcion original en el atentado futuro de la iglesia. Establece "tres dias para ver como evoluciona" como el reloj del resto del capitulo. La escena del turno de guardia se adelanta a la madrugada de la cirugia (justificada explicitamente por Cole contandoles lo raro del ataque, con ella sedada e indefensa) y la escena de "Chiara despierta" se mueve del "pasada la medianoche" original al tercer dia, ahora con dolor de cabeza real y con Cole insistiendo en que descanse en vez de resolver la coartada de inmediato. Se anade el giro de investigacion: Cole nota que el ataque esta armado con precision quirurgica para parecer accidente, y que la unica grieta es la llamada -- lo que lo deja entre dos conclusiones sin resolver: Dario organizo el ataque, o alguien mas tiene el mismo interes en dañar a Chiara. Microedicion global bloque M2 (2026-09-11, ENCARGO_CLAUDE_M2): tras M1 aprobado, cinco cortes quirurgicos centrados en "confiar en la accion cuando la accion ya hizo el trabajo" -- se quita la certificacion de competencia de Cole tras el rescate en el corral (se conserva la imagen del "uniforme"), se poda la reiteracion de verguenza tras soltar al guardia interrogado, se quita una repeticion casi identica del gesto de Dario "un momento de mas" (se conserva la primera aparicion, que ancla su caracterizacion), se quita el cierre explicativo tras "Pero tampoco me arrepiento" en el parador (el dialogo ya cierra la escena solo) y se poda la certificacion de la creencia de Cole sobre favores familiares (ya demostrada por la accion). Ningun cambio de estructura, informacion, canon o dialogo canon. Detalle completo: [[98_Agent_Handoff/sessions/2026-09-11_claude_c10_microedicion_m2]].
+Apertura recosida el 2026-08-29 (encargo PROMPT_CLAUDE_H9): el residuo ya no es "desde la noche del ladrillo Chiara empezo a evitar a Kal", sino carrera de mascaras -> se divirtio demasiado facil -> retrocede unos dias (no por arrepentimiento, por lo contrario) -> el calendario emocional (aniversario de Marta, homenaje de Alessio) la golpea -> termina queriendo oir la voz de Kal -> telefono en la mano con su nombre en pantalla -> el golpe. El cuerpo del capitulo, intacto. Microedicion 2026-08-29 (ENCARGO_CLAUDE_MICROEDICION): se podo la recapitulacion concreta de H9 (Peugeot, tienda, Kingsley, motor, antifaz) — la apertura arranca ya desde el residuo emocional, no desde el resumen del capitulo anterior. Microedicion 2026-08-29 (ENCARGO_CLAUDE_TENSION_HOSPITAL): el golpe deja de ser "conmocion, dos o tres dias de observacion" y pasa a ser un hematoma que requiere cirugia de urgencia (craniotomia descompresiva) para estabilizar la hemorragia. Se introduce a Beatrice Varek como la neurocirujana que opera -- primera aparicion en prosa, adelantada desde su funcion original en el atentado futuro de la iglesia. Establece "tres dias para ver como evoluciona" como el reloj del resto del capitulo. La escena del turno de guardia se adelanta a la madrugada de la cirugia (justificada explicitamente por Kal contandoles lo raro del ataque, con ella sedada e indefensa) y la escena de "Chiara despierta" se mueve del "pasada la medianoche" original al tercer dia, ahora con dolor de cabeza real y con Kal insistiendo en que descanse en vez de resolver la coartada de inmediato. Se anade el giro de investigacion: Kal nota que el ataque esta armado con precision quirurgica para parecer accidente, y que la unica grieta es la llamada -- lo que lo deja entre dos conclusiones sin resolver: Dario organizo el ataque, o alguien mas tiene el mismo interes en dañar a Chiara. Microedicion global bloque M2 (2026-09-11, ENCARGO_CLAUDE_M2): tras M1 aprobado, cinco cortes quirurgicos centrados en "confiar en la accion cuando la accion ya hizo el trabajo" -- se quita la certificacion de competencia de Kal tras el rescate en el corral (se conserva la imagen del "uniforme"), se poda la reiteracion de verguenza tras soltar al guardia interrogado, se quita una repeticion casi identica del gesto de Dario "un momento de mas" (se conserva la primera aparicion, que ancla su caracterizacion), se quita el cierre explicativo tras "Pero tampoco me arrepiento" en el parador (el dialogo ya cierra la escena solo) y se poda la certificacion de la creencia de Kal sobre favores familiares (ya demostrada por la accion). Ningun cambio de estructura, informacion, canon o dialogo canon. Detalle completo: [[98_Agent_Handoff/sessions/2026-09-11_claude_c10_microedicion_m2]].
 Lugares: Hipodromo del Monarch (propiedad del casino), Hospital Santa Aurelia, bahia de carga / tunel este del Monarch, parador de autopista al norte, Casa Comunitaria de La Almendra.
-Funcion: fusiona H12 y el arranque de H5 -- el ataque ocurre en el hipodromo del Monarch, no en Bellandi Ridge. Cole recibe una llamada desde el celular de ella, contestada por un desconocido que tantea su paradero y cuelga sin decir nada util. Buzon de voz al llamarla directo. Entra armado al Monarch (domingo, cerrado), lo recorre vacio, sube al penthouse, tambien vacio, ve las botas de montar y recuerda que ella monta los domingos. Baja al hipodromo (misma propiedad, no hace falta auto), encuentra a Vento suelto, la halla inconsciente junto al corral -- repite su nombre sin respuesta, la sube el mismo al Audi y la lleva al hospital (nunca llama ambulancia -- el conduce, siempre). Aqui se ve al soldado: calma entrenada por fuera, quiebre por dentro. Cole recoge el bolso antes que nadie y se guarda cartera y reloj: un asalto que perdona un reloj asi no se lo cree nadie. Investiga y secuestra sin exito a un sospechoso. Encanonamiento con Dario en el cuarto de hospital -- tregua. Cole omite la llamada, arma coartada. El dia del alta Cole la ayuda a alistarse y llega Dario a interrogarla; Chiara percibe la tregua ya firmada y se sube a la version en marcha. Dos grietas pequeñas -- "corral" vs "caballerizas", y si lo esperaba ese domingo -- que remiendan en vivo con una mentira conjunta pasable pero no creible. Dario anuncia "vigilancia" en el casino (proteccion y vigilancia son la misma palabra en su boca) y manda un hombre a seguir a Cole. Cole se ofrece a llevarla. En el camino Cole detecta un sedan gris siguiendolos: cuadran que ella entre por la bahia de carga (tunel este, bajo el puente del canal, la "salida de evacuacion" del Monarch) y salgan a pie por atras, fuera de la vista del espia. Van al norte, a un parador de autopista; aparcan y reconstruyen los hechos. Chiara estuvo a punto de nombrar el Consorcio y se detiene: solo dice que viejos enemigos o rivales de los socios estan plantando una bandera con el atentado, y que no quiere meter a Cole. Cole: "Yo ya estoy dentro contigo. ¿O como era? El es Cole Mercer, vengan a conocerlo." Chiara: "No. Pero tampoco me arrepiento." Ella pide un motel de paso; Cole se burla ("un motel, dice ella... tu vienes conmigo") y ella se queda con la lectura mas economica, la que le deja decir "solo esta vez". Llegan de madrugada a la casa comun; Cole le da el unico cuarto que no grita de quien es, le da su palabra de que ahi esta segura, ella baja la mirada y el la abraza -- la siente temblar porque entendio que ya no hay punto de retorno: lo que viene tras ella puede alcanzarlo ahora a el, no porque a eso le interese ella sino porque a ella le interesa el. Cierre: los muchachos la dejan quedarse; alguien pregunta por cuanto tiempo y Cole dice "lo necesario, hasta que ya no lo sea" -- se lo gano, porque a la familia no se le cobran favores y el nunca les dijo que no; pueden pelearle, dudar de el no. Nadir cumple como los demas y, como los demas, calla; pero es el unico que al decir que si no la mira a ella. El atacante no se identifica ni se sugiere.
+Funcion: fusiona H12 y el arranque de H5 -- el ataque ocurre en el hipodromo del Monarch, no en Bellandi Ridge. Kal recibe una llamada desde el celular de ella, contestada por un desconocido que tantea su paradero y cuelga sin decir nada util. Buzon de voz al llamarla directo. Entra armado al Monarch (domingo, cerrado), lo recorre vacio, sube al penthouse, tambien vacio, ve las botas de montar y recuerda que ella monta los domingos. Baja al hipodromo (misma propiedad, no hace falta auto), encuentra a Vento suelto, la halla inconsciente junto al corral -- repite su nombre sin respuesta, la sube el mismo al Audi y la lleva al hospital (nunca llama ambulancia -- el conduce, siempre). Aqui se ve al soldado: calma entrenada por fuera, quiebre por dentro. Kal recoge el bolso antes que nadie y se guarda cartera y reloj: un asalto que perdona un reloj asi no se lo cree nadie. Investiga y secuestra sin exito a un sospechoso. Encanonamiento con Dario en el cuarto de hospital -- tregua. Kal omite la llamada, arma coartada. El dia del alta Kal la ayuda a alistarse y llega Dario a interrogarla; Chiara percibe la tregua ya firmada y se sube a la version en marcha. Dos grietas pequeñas -- "corral" vs "caballerizas", y si lo esperaba ese domingo -- que remiendan en vivo con una mentira conjunta pasable pero no creible. Dario anuncia "vigilancia" en el casino (proteccion y vigilancia son la misma palabra en su boca) y manda un hombre a seguir a Kal. Kal se ofrece a llevarla. En el camino Kal detecta un sedan gris siguiendolos: cuadran que ella entre por la bahia de carga (tunel este, bajo el puente del canal, la "salida de evacuacion" del Monarch) y salgan a pie por atras, fuera de la vista del espia. Van al norte, a un parador de autopista; aparcan y reconstruyen los hechos. Chiara estuvo a punto de nombrar el Consorcio y se detiene: solo dice que viejos enemigos o rivales de los socios estan plantando una bandera con el atentado, y que no quiere meter a Kal. Kal: "Yo ya estoy dentro contigo. ¿O como era? El es Kal Mercer, vengan a conocerlo." Chiara: "No. Pero tampoco me arrepiento." Ella pide un motel de paso; Kal se burla ("un motel, dice ella... tu vienes conmigo") y ella se queda con la lectura mas economica, la que le deja decir "solo esta vez". Llegan de madrugada a la casa comun; Kal le da el unico cuarto que no grita de quien es, le da su palabra de que ahi esta segura, ella baja la mirada y el la abraza -- la siente temblar porque entendio que ya no hay punto de retorno: lo que viene tras ella puede alcanzarlo ahora a el, no porque a eso le interese ella sino porque a ella le interesa el. Cierre: los muchachos la dejan quedarse; alguien pregunta por cuanto tiempo y Kal dice "lo necesario, hasta que ya no lo sea" -- se lo gano, porque a la familia no se le cobran favores y el nunca les dijo que no; pueden pelearle, dudar de el no. Nadir cumple como los demas y, como los demas, calla; pero es el unico que al decir que si no la mira a ella. El atacante no se identifica ni se sugiere.
 -->
 
 # Capítulo 10 — El corral
@@ -13,7 +13,7 @@ No se lo había dicho a nadie. Ni a Ettore, el único hombre en Palermo al que t
 
 Pero lo sabía. Desde la noche del ladrillo lo sabía, con la misma certeza tranquila con la que sabía leer un balance o una mentira: había encontrado los ojos correctos, y no tenía ni la más remota idea de qué hacer con eso.
 
-Lo que hizo, primero, fue lo contrario de huir: cuando Cole le preguntó una noche qué era lo más ilegal que la habían atrapado haciendo y después le dijo que se pusiera algo cómodo, ella dijo que sí. Y la noche terminó con ella riéndose de un modo que llevaba años sin permitirse. Lo que la asustó después no fue el riesgo — el riesgo lo sabía medir. Fue la facilidad. Lo poco que le había costado dejar de administrarlo todo por unas horas.
+Lo que hizo, primero, fue lo contrario de huir: cuando Kal le preguntó una noche qué era lo más ilegal que la habían atrapado haciendo y después le dijo que se pusiera algo cómodo, ella dijo que sí. Y la noche terminó con ella riéndose de un modo que llevaba años sin permitirse. Lo que la asustó después no fue el riesgo — el riesgo lo sabía medir. Fue la facilidad. Lo poco que le había costado dejar de administrarlo todo por unas horas.
 
 Así que retrocedió. No porque se arrepintiera; precisamente porque no se arrepentía en absoluto, y eso la inquietaba más que cualquier error. Unos días estuvo demasiado correcta: dejó que los mensajes se acumularan un día de más antes de contestarlos, que las llamadas se acortaran solas, que las excusas de trabajo llegaran justo a tiempo para no quedarse a solas con él en ningún cuarto.
 
@@ -41,17 +41,17 @@ No hubo forcejeo. No hubo un segundo golpe, ni una voz, ni un olor que después 
 
 ***
 
-El teléfono de Cole vibró sobre el banco de trabajo a media tarde, mientras enderezaba un guardabarros que llevaba días torcido. **Chiara**, decía la pantalla.
+El teléfono de Kal vibró sobre el banco de trabajo a media tarde, mientras enderezaba un guardabarros que llevaba días torcido. **Chiara**, decía la pantalla.
 
 Contestó con la llave inglesa todavía en la mano.
 
 —Dime.
 
-Silencio del otro lado. Después, una voz de hombre — tranquila, casi cordial, en un tono que no encajaba con nada de lo que Cole esperaba oír salir de ese teléfono.
+Silencio del otro lado. Después, una voz de hombre — tranquila, casi cordial, en un tono que no encajaba con nada de lo que Kal esperaba oír salir de ese teléfono.
 
 —¿Es usted el mecánico?
 
-Cole dejó la llave sobre el banco, despacio.
+Kal dejó la llave sobre el banco, despacio.
 
 —¿Quién habla?
 
@@ -63,7 +63,7 @@ Cole dejó la llave sobre el banco, despacio.
 
 La llamada se cortó.
 
-Cole se quedó con el teléfono pegado a la oreja un segundo de más, oyendo el silencio plano que sigue a una línea muerta, y después marcó el número de ella directamente.
+Kal se quedó con el teléfono pegado a la oreja un segundo de más, oyendo el silencio plano que sigue a una línea muerta, y después marcó el número de ella directamente.
 
 Buzón de voz. Al primer tono, sin que llegara a sonar completo.
 
@@ -71,7 +71,7 @@ Buzón de voz. Al primer tono, sin que llegara a sonar completo.
 
 Dejó todo en el taller — el guardabarros a medio enderezar, la llave inglesa sobre el banco, la radio todavía encendida — y sacó del cajón del fondo lo único que guardaba ahí para ocasiones que prefería no tener que explicar.
 
-Era domingo. El Monarch estaba cerrado hasta la tarde, la cadena puesta en las puertas principales, el estacionamiento vacío salvo por dos camionetas de mantenimiento. Cole tenía llave de la entrada de servicio — de los tiempos en que Chiara dejó de anunciarle las visitas — y entró por ahí, el arma baja y el paso corto de quien ha hecho esto antes en un lugar donde no debería tener que volver a hacerlo.
+Era domingo. El Monarch estaba cerrado hasta la tarde, la cadena puesta en las puertas principales, el estacionamiento vacío salvo por dos camionetas de mantenimiento. Kal tenía llave de la entrada de servicio — de los tiempos en que Chiara dejó de anunciarle las visitas — y entró por ahí, el arma baja y el paso corto de quien ha hecho esto antes en un lugar donde no debería tener que volver a hacerlo.
 
 Recorrió el casino entero. El piso de juego, oscuro y en silencio, con las mesas cubiertas. Los pasillos administrativos. La cocina, las oficinas, hasta el cuarto de seguridad, vacío también, con los monitores parpadeando sobre nada. No encontró a nadie. No encontró rastro de ella.
 
@@ -81,7 +81,7 @@ También estaba vacío. Recorrió cada cuarto — la cocina, la sala de cine don
 
 Fue al salir cuando las vio: las botas de montar de Chiara, junto a la puerta, donde normalmente dejaba los tacones.
 
-Cole se quedó mirándolas un segundo entero antes de que el dato terminara de acomodarse.
+Kal se quedó mirándolas un segundo entero antes de que el dato terminara de acomodarse.
 
 Le gustaba montar. Los domingos, cuando nadie le pedía nada.
 
@@ -117,21 +117,21 @@ Por dentro se estaba partiendo en dos, sosteniendo junto a él, en el asiento de
 
 En el Santa Aurelia no hubo tiempo para explicaciones largas. Un golpe en la nuca, uno solo, pero lo bastante fuerte para abrir un sangrado dentro del cráneo — un hematoma que la tomografía mostró creciendo en tiempo real, empujando contra algo que no debía empujarse. La palabra que usó la médica de guardia fue *craniotomía descompresiva*, dicha rápido, sin dramatismo, como quien ya la ha dicho demasiadas veces para asustarse con ella.
 
-La cirujana se presentó como **Beatrice Varek** — bata blanca, el apellido cayendo sobre Cole como una moneda que tardó un segundo en reconocer, aunque la cara no se pareciera en nada a la de su padre. Le habló con la calma exacta de alguien acostumbrada a hablarle a hombres que están a punto de perder el control frente a ella.
+La cirujana se presentó como **Beatrice Varek** — bata blanca, el apellido cayendo sobre Kal como una moneda que tardó un segundo en reconocer, aunque la cara no se pareciera en nada a la de su padre. Le habló con la calma exacta de alguien acostumbrada a hablarle a hombres que están a punto de perder el control frente a ella.
 
 —Hay sangrado activo. Vamos a entrar, aliviar la presión y sacar lo que no debería estar ahí. Es una cirugía que hacemos seguido, y la hacemos bien. —Hizo una pausa, midiendo cuánto podía darle de golpe—. Pero no le voy a prometer nada sobre lo que pasa después. Necesitamos, como mínimo, tres días para ver cómo evoluciona. Antes de eso, cualquier cosa que le diga es una adivinanza con bata blanca.
 
-Cole firmó lo que había que firmar sin leerlo del todo, y se quedó con una sola pregunta clavada, que no hizo en voz alta: si la hija de Dario Varek operaba en ese hospital sin saber nada de lo que hacía su padre, qué otra cosa, en esa ciudad, tampoco sabía nadie.
+Kal firmó lo que había que firmar sin leerlo del todo, y se quedó con una sola pregunta clavada, que no hizo en voz alta: si la hija de Dario Varek operaba en ese hospital sin saber nada de lo que hacía su padre, qué otra cosa, en esa ciudad, tampoco sabía nadie.
 
-El bolso lo había levantado Cole del suelo de las caballerizas, antes que nadie. Para cuando una enfermera se sentó a inventariar lo que traía dentro, ya no había ahí nada que valiera la pena llevarse: la cartera y el reloj —que costaba más que la mayoría de los coches del barrio— iban en el bolsillo de su chaqueta, porque un asalto que perdona un reloj así no se lo cree nadie. La única pieza que de verdad faltaba era el teléfono, y ésa no la tenía él.
+El bolso lo había levantado Kal del suelo de las caballerizas, antes que nadie. Para cuando una enfermera se sentó a inventariar lo que traía dentro, ya no había ahí nada que valiera la pena llevarse: la cartera y el reloj —que costaba más que la mayoría de los coches del barrio— iban en el bolsillo de su chaqueta, porque un asalto que perdona un reloj así no se lo cree nadie. La única pieza que de verdad faltaba era el teléfono, y ésa no la tenía él.
 
 Ya estaba armando la versión, sin haber decidido del todo armarla.
 
-La cirugía tomó tres horas. Cole las pasó en una sala de espera que olía a café quemado, sin sentarse más de un minuto seguido.
+La cirugía tomó tres horas. Kal las pasó en una sala de espera que olía a café quemado, sin sentarse más de un minuto seguido.
 
 Cuando por fin lo dejaron entrar, Chiara ya estaba en una habitación distinta — más máquinas, más cables, un vendaje que le cubría buena parte de la cabeza. Iba a seguir sedada, le dijeron, mientras el cuerpo decidía si el trabajo de Beatrice Varek había sido suficiente.
 
-Cole se sentó junto a la cama y no se movió de ahí en toda la noche. No porque alguien se lo pidiera.
+Kal se sentó junto a la cama y no se movió de ahí en toda la noche. No porque alguien se lo pidiera.
 
 En algún momento, con el cuarto en silencio y sólo la máquina marcando su ritmo, le tomó la mano.
 
@@ -141,7 +141,7 @@ Se quedó callado un momento, todavía con la mano de ella entre las suyas.
 
 —Chiara.
 
-No dijo nada más. No hacía falta — el nombre solo, dicho así, ya era más de lo que Cole se permitía decir en voz alta casi nunca.
+No dijo nada más. No hacía falta — el nombre solo, dicho así, ya era más de lo que Kal se permitía decir en voz alta casi nunca.
 
 ***
 
@@ -149,7 +149,7 @@ No podía quedarse sentado. Le pidió a Héctor que llegara a cubrirlo — nadie
 
 Tenía un nombre, apenas — un guardia de las caballerizas que se había ido temprano ese domingo sin avisar, algo que a cualquier otro le habría parecido nada. Lo encontró, lo metió al asiento trasero de una camioneta prestada, y le hizo las preguntas que hacía cuando de verdad quería una respuesta.
 
-No sacó nada. El hombre no sabía nada, o sabía mentir mejor de lo que Cole esperaba, y después de una hora larga entendió que estaba a punto de hacerle daño a alguien que probablemente no se lo merecía. Lo soltó a dos calles del hipódromo, sin explicaciones, y volvió al hospital con las manos vacías y algo parecido a vergüenza pisándole los talones.
+No sacó nada. El hombre no sabía nada, o sabía mentir mejor de lo que Kal esperaba, y después de una hora larga entendió que estaba a punto de hacerle daño a alguien que probablemente no se lo merecía. Lo soltó a dos calles del hipódromo, sin explicaciones, y volvió al hospital con las manos vacías y algo parecido a vergüenza pisándole los talones.
 
 No se lo contó a nadie, ni esa noche ni después.
 
@@ -157,7 +157,7 @@ No se lo contó a nadie, ni esa noche ni después.
 
 Cuando abrió la puerta del cuarto 221, Dario Varek estaba de pie junto a la cama, mirando a Chiara dormir con la clase de atención que un hombre no le presta a algo que sólo le importa como activo.
 
-Cole no preguntó cómo había entrado.
+Kal no preguntó cómo había entrado.
 
 —Señor Mercer.
 
@@ -185,11 +185,11 @@ El silencio que siguió tuvo el peso exacto de dos hombres midiendo hasta dónde
 
 —No me importa.
 
-Fue Dario quien sacó el arma primero — despacio, casi ceremonial, como quien corrige un malentendido de protocolo más que amenaza a un hombre. Cole tuvo la suya afuera antes de que la de Dario terminara de subir.
+Fue Dario quien sacó el arma primero — despacio, casi ceremonial, como quien corrige un malentendido de protocolo más que amenaza a un hombre. Kal tuvo la suya afuera antes de que la de Dario terminara de subir.
 
 Se apuntaron sobre la cama de un hospital, con Chiara sedada entre los dos, sin que ninguno bajara la voz lo suficiente como para no oírse.
 
-—Si usted tuvo algo que ver con esto —dijo Cole—, no va a salir de este cuarto.
+—Si usted tuvo algo que ver con esto —dijo Kal—, no va a salir de este cuarto.
 
 —Y si fue usted quien la puso en peligro con lo que sea que esté metido, **yo** no voy a dejar que salga de esta ciudad.
 
@@ -199,33 +199,33 @@ Fue Dario quien cedió el gesto primero, aunque no la sospecha.
 
 —Una tregua, entonces. —Bajó el arma, despacio—. Usted averigua lo que pueda desde su lado. Yo desde el mío. Y nos mantenemos al tanto de sus movimientos, para que esto no vuelva a pasar.
 
-Cole bajó la suya un segundo después, sin que le temblara la mano.
+Kal bajó la suya un segundo después, sin que le temblara la mano.
 
 —Trato.
 
-Fue en ese momento, y no antes, cuando Cole decidió no mencionar la llamada. No fue una decisión meditada — fue puro reflejo, el mismo instinto que lo hacía guardarse cualquier información que todavía pudiera servirle de algo. Le dijo a Dario que había estado en el taller, que volvió y la encontró tirada en las caballerizas, y que no tenía ni idea de cuánto tiempo llevaba ahí.
+Fue en ese momento, y no antes, cuando Kal decidió no mencionar la llamada. No fue una decisión meditada — fue puro reflejo, el mismo instinto que lo hacía guardarse cualquier información que todavía pudiera servirle de algo. Le dijo a Dario que había estado en el taller, que volvió y la encontró tirada en las caballerizas, y que no tenía ni idea de cuánto tiempo llevaba ahí.
 
 Dario lo miró un momento de más, como quien archiva algo para después.
 
-—Que se mejore pronto —dijo, mirando hacia la cama, no hacia Cole—. San Aurelio la necesita entera.
+—Que se mejore pronto —dijo, mirando hacia la cama, no hacia Kal—. San Aurelio la necesita entera.
 
 Y se fue sin despedirse del todo.
 
 ***
 
-Los turnos los organizó Cole mismo, esa misma madrugada, con la misma voz que usaba para repartir trabajo en el taller — no era una petición. Chiara seguía sedada, indefensa en un cuarto con una sola puerta, y lo que Cole les contó del golpe — sin forcejeo, sin testigos, un desconocido que llamaba desde el teléfono de ella horas después preguntando por sus costumbres de los domingos — bastó para que nadie discutiera la orden. Nadir el primero, después Omar, después Danny cuando Danny estaba en condiciones de sostener una conversación con una enfermera sin que resultara en un problema nuevo. Alguien tenía que quedarse con Cole en el cuarto 221, no porque Cole lo pidiera para sí mismo — nunca pedía nada para sí mismo — sino porque si no lo obligaban a bajar a comer o a bañarse, sencillamente no lo iba a hacer.
+Los turnos los organizó Kal mismo, esa misma madrugada, con la misma voz que usaba para repartir trabajo en el taller — no era una petición. Chiara seguía sedada, indefensa en un cuarto con una sola puerta, y lo que Kal les contó del golpe — sin forcejeo, sin testigos, un desconocido que llamaba desde el teléfono de ella horas después preguntando por sus costumbres de los domingos — bastó para que nadie discutiera la orden. Nadir el primero, después Omar, después Danny cuando Danny estaba en condiciones de sostener una conversación con una enfermera sin que resultara en un problema nuevo. Alguien tenía que quedarse con Kal en el cuarto 221, no porque Kal lo pidiera para sí mismo — nunca pedía nada para sí mismo — sino porque si no lo obligaban a bajar a comer o a bañarse, sencillamente no lo iba a hacer.
 
 —¿Y si tengo cosas que hacer? —preguntó Nadir, cruzado de brazos, sin decir que no.
 
 —Entonces las haces después.
 
-Nadir masculló algo en árabe que no sonó a bendición, pero a la mañana siguiente ya estaba en el pasillo del Santa Aurelia con un café de más en la mano, sin que nadie tuviera que recordárselo dos veces. Refunfuñaba cada turno que le tocaba, y cumplía cada turno que le tocaba, y entre las dos cosas Cole nunca tuvo que elegir cuál de las dos creerle.
+Nadir masculló algo en árabe que no sonó a bendición, pero a la mañana siguiente ya estaba en el pasillo del Santa Aurelia con un café de más en la mano, sin que nadie tuviera que recordárselo dos veces. Refunfuñaba cada turno que le tocaba, y cumplía cada turno que le tocaba, y entre las dos cosas Kal nunca tuvo que elegir cuál de las dos creerle.
 
 No se despegaba de ese cuarto ni para lo mínimo, y el barrio entero pareció entenderlo sin que nadie tuviera que explicarlo.
 
 Le tocó a Héctor la noche del segundo día.
 
-Se sentó en la silla de plástico junto a la cama, con las manos grandes cruzadas sobre las rodillas, y esperó a que Cole desapareciera por el pasillo antes de decir nada. Chiara dormía, o algo parecido a dormir, con el vendaje asomándole por el pelo y la cara más pequeña de lo que se veía despierta.
+Se sentó en la silla de plástico junto a la cama, con las manos grandes cruzadas sobre las rodillas, y esperó a que Kal desapareciera por el pasillo antes de decir nada. Chiara dormía, o algo parecido a dormir, con el vendaje asomándole por el pelo y la cara más pequeña de lo que se veía despierta.
 
 —No sé si me oye —dijo Héctor, en voz baja, como quien no está seguro de si habla para ella o para sí mismo—. Pero le voy a hablar de todos modos, porque a este paso nadie más lo va a hacer.
 
@@ -235,13 +235,13 @@ Se quedó callado un momento, mirándose las manos.
 
 Le tembló la voz en la última palabra, y se tomó un segundo antes de seguir.
 
-—Así que aquí estoy, a mis años, con miedo. Miedo de verdad, del que no se dice en el taller ni delante de los muchachos. Porque si algo le pasa a usted, pierdo dos personas de un solo golpe: la pierdo a usted, y pierdo al Cole que empezó a reírse otra vez desde que llegó. Y yo ya enterré suficiente en esta vida. Ya pagué suficiente por el privilegio de querer a alguien. No quiero pagar este precio también.
+—Así que aquí estoy, a mis años, con miedo. Miedo de verdad, del que no se dice en el taller ni delante de los muchachos. Porque si algo le pasa a usted, pierdo dos personas de un solo golpe: la pierdo a usted, y pierdo al Kal que empezó a reírse otra vez desde que llegó. Y yo ya enterré suficiente en esta vida. Ya pagué suficiente por el privilegio de querer a alguien. No quiero pagar este precio también.
 
 Le tomó la mano, un segundo apenas, torpe, como quien no está acostumbrado al gesto.
 
 —Así que despierte, ¿quiere? No por mí. Por ese muchacho que no se ha movido de esa silla en dos días. Despierte, y déjeme seguir siendo un viejo cascarrabias con dos personas de las que quejarme, en vez de uno con dos tumbas más.
 
-Afuera, en el pasillo, Cole volvía con dos cafés de máquina, sin saber que se había perdido lo único que Héctor Navarro había dicho en voz alta en años sin que nadie se lo sacara a la fuerza.
+Afuera, en el pasillo, Kal volvía con dos cafés de máquina, sin saber que se había perdido lo único que Héctor Navarro había dicho en voz alta en años sin que nadie se lo sacara a la fuerza.
 
 ***
 
@@ -253,13 +253,13 @@ Chiara despertó de verdad al tercer día, casi a la hora exacta en que Beatrice
 
 —No está bien. —Se llevó una mano a la cabeza y encontró el vendaje, y algo en su cara se endureció, como si el dolor físico le molestara menos que no tener una respuesta—. Alguien me golpeó en las caballerizas y no sé quién. —Cerró los ojos un segundo, apretando los dientes—. Me duele la cabeza como si me la hubieran partido en dos.
 
-—Te la partieron casi en dos —dijo Cole—. Tuvieron que operarte.
+—Te la partieron casi en dos —dijo Kal—. Tuvieron que operarte.
 
 Chiara tardó un segundo en procesarlo, todavía con la cabeza pesada por los sedantes y por algo más profundo que los sedantes.
 
 —¿Operarme?
 
-—Descansa —dijo Cole—. De eso hablamos después, cuando estés mejor. Ahora sólo importa que sigas aquí.
+—Descansa —dijo Kal—. De eso hablamos después, cuando estés mejor. Ahora sólo importa que sigas aquí.
 
 —Dario estuvo aquí —dijo, en cambio, un momento después, en voz baja—. Le dije que estaba en el taller, que volví y te encontré así. Nada más.
 
@@ -269,13 +269,13 @@ Chiara tardó un segundo en procesarlo, todavía con la cabeza pesada por los se
 
 —Entonces tenemos que estar de acuerdo en la misma mentira.
 
-—Después —repitió Cole, con la firmeza tranquila de quien no va a ceder en esto—. Ya nos preocuparemos de eso cuando tengas la cabeza para sostenerlo. Ahora duerme. Yo me quedo.
+—Después —repitió Kal, con la firmeza tranquila de quien no va a ceder en esto—. Ya nos preocuparemos de eso cuando tengas la cabeza para sostenerlo. Ahora duerme. Yo me quedo.
 
-Ella lo miró un momento más de lo necesario, y por primera vez desde que Cole la conocía, no dijo nada ingenioso ni calculado. Sólo cerró los ojos.
+Ella lo miró un momento más de lo necesario, y por primera vez desde que Kal la conocía, no dijo nada ingenioso ni calculado. Sólo cerró los ojos.
 
 ***
 
-Los días siguientes, entre los turnos que le compraban a Cole una hora aquí y otra allá para comer o dormir algo parecido a dormir, Cole siguió preguntando — con más cuidado esta vez, después de lo del guardia.
+Los días siguientes, entre los turnos que le compraban a Kal una hora aquí y otra allá para comer o dormir algo parecido a dormir, Kal siguió preguntando — con más cuidado esta vez, después de lo del guardia.
 
 Volvió al hipódromo y habló con quien no había podido detener esa primera noche: los otros mozos de cuadra, la mujer que llevaba la contabilidad del lugar, el par de veterinarios que rotaban las visitas. No había cámaras en las caballerizas — nunca las había habido, porque hasta ese domingo a nadie se le había ocurrido que hicieran falta. Revisó los accesos, buscando algo que no encajara, y encontró exactamente lo que esperaba encontrar: nada que sirviera.
 
@@ -285,7 +285,7 @@ Cuanto más juntaba, más se le acomodaba una idea que no le gustaba nada: todo 
 
 Lo único que no encajaba con esa lectura era la llamada.
 
-Un ladrón no llama al novio de su víctima a preguntarle si sale mucho los domingos. Eso no era ruido ni casualidad — era alguien que necesitaba confirmar algo antes de actuar, o alguien que quería que Cole supiera, sin decírselo del todo, que esto no había sido un accidente en absoluto. La precisión de todo lo demás, sumada a esa sola grieta, sólo le dejaba dos caminos, y ninguno de los dos le gustaba: o Dario había organizado el golpe y la tregua era puro teatro, o había alguien más — alguien que Cole todavía no podía nombrar — con el mismo interés en hacerle daño a Chiara.
+Un ladrón no llama al novio de su víctima a preguntarle si sale mucho los domingos. Eso no era ruido ni casualidad — era alguien que necesitaba confirmar algo antes de actuar, o alguien que quería que Kal supiera, sin decírselo del todo, que esto no había sido un accidente en absoluto. La precisión de todo lo demás, sumada a esa sola grieta, sólo le dejaba dos caminos, y ninguno de los dos le gustaba: o Dario había organizado el golpe y la tregua era puro teatro, o había alguien más — alguien que Kal todavía no podía nombrar — con el mismo interés en hacerle daño a Chiara.
 
 No compartió ninguna de las dos ideas. Ni con Dario, que seguía siendo, oficialmente, su socio en esto. Ni con Chiara, que todavía no tenía la cabeza para cargar con una sospecha que no podía probar.
 
@@ -295,7 +295,7 @@ La mañana del alta tuvo que aceptar lo que ya sabía: no había pista que lo re
 
 Le dieron de alta con instrucciones de reposo y una advertencia sobre no forzar la memoria — iba a volver sola, o no iba a volver, y presionarla no iba a acelerar nada.
 
-Cole llegó temprano, con ropa limpia que alguien le había subido del penthouse, y se quedó junto a la cama mientras ella se vestía despacio, con la lentitud de quien descubre que levantar los brazos todavía cuesta. Le sostuvo el abrigo para que metiera las mangas sin girar el cuello. Le acomodó el pelo por encima del vendaje sin que se lo pidiera, con más cuidado del que Chiara le habría atribuido a esas manos. Ninguno de los dos habló mientras lo hacía. El silencio, esa mañana, era lo más parecido a un idioma común que les quedaba.
+Kal llegó temprano, con ropa limpia que alguien le había subido del penthouse, y se quedó junto a la cama mientras ella se vestía despacio, con la lentitud de quien descubre que levantar los brazos todavía cuesta. Le sostuvo el abrigo para que metiera las mangas sin girar el cuello. Le acomodó el pelo por encima del vendaje sin que se lo pidiera, con más cuidado del que Chiara le habría atribuido a esas manos. Ninguno de los dos habló mientras lo hacía. El silencio, esa mañana, era lo más parecido a un idioma común que les quedaba.
 
 Dario llegó antes de que terminaran de firmar el papeleo.
 
@@ -305,7 +305,7 @@ Dario llegó antes de que terminaran de firmar el papeleo.
 
 Ella no preguntó cómo se había enterado de la hora del alta. Había dejado de sorprenderle que Dario supiera cosas que nadie le decía.
 
-—Cole me cuenta que estaba en el taller cuando pasó. Que la encontró al volver.
+—Kal me cuenta que estaba en el taller cuando pasó. Que la encontró al volver.
 
 Los dos hombres se hablaban con una calma que no tenían tres días antes, y Chiara, que leía habitaciones para vivir, entendió en dos frases que mientras ella dormía se había firmado algo: una tregua, una versión, un reparto de quién investigaba qué. Le tocaba subirse a un tren en marcha sin saber a qué velocidad iba.
 
@@ -313,11 +313,11 @@ Así que hizo lo que sabía hacer: contestó lo mínimo, y lo contestó como un 
 
 —No recuerdo nada de antes del golpe. Sólo que estaba cerrando el corral.
 
-—El corral. —Dario lo dejó respirar un segundo—. Cole me había dicho las caballerizas.
+—El corral. —Dario lo dejó respirar un segundo—. Kal me había dicho las caballerizas.
 
 Era un metro de diferencia. En una versión que funcionara de verdad, no habría diferencia ninguna.
 
-—Estaba entre las dos cosas —dijo Cole, sin prisa—. Cerró el corral y volvía a las caballerizas. Ahí la encontré.
+—Estaba entre las dos cosas —dijo Kal, sin prisa—. Cerró el corral y volvía a las caballerizas. Ahí la encontré.
 
 —Ah. —Dario asintió, como quien acepta una cifra que sabe mal cuadrada—. ¿Y qué lo llevó al hipódromo un domingo, señor Mercer, sin que nadie lo llamara?
 
@@ -325,11 +325,11 @@ Era un metro de diferencia. En una versión que funcionara de verdad, no habría
 
 —¿Lo esperaba? —le preguntó Dario a Chiara, directo, girando apenas la cabeza.
 
-Y ahí estaba el hueco. Si decía que sí, mentía sobre algo que se podía comprobar. Si decía que no, entonces Cole había manejado hasta el hipódromo por una llamada sin contestar, en el día libre de una mujer que no lo esperaba.
+Y ahí estaba el hueco. Si decía que sí, mentía sobre algo que se podía comprobar. Si decía que no, entonces Kal había manejado hasta el hipódromo por una llamada sin contestar, en el día libre de una mujer que no lo esperaba.
 
 —Habíamos hablado de una entrega para las caballerizas —dijo—. Creo. Los días se me juntan.
 
-—Forraje —dijo Cole—. Iba a pasar a ver si había llegado.
+—Forraje —dijo Kal—. Iba a pasar a ver si había llegado.
 
 —Forraje. —Dario repitió la palabra, y en su boca sonó a lo que era: una tabla clavada encima de un agujero, funcional y a la vista.
 
@@ -341,7 +341,7 @@ No dijo que no les creía. No le hizo falta. Se ajustó el puño de la camisa y 
 
 Lo dijo con la cortesía exacta, y por dentro tradujo la frase sin esfuerzo: no iba a estar sola en ningún pasillo porque siempre iba a haber alguien de Dario mirándola. Protección y vigilancia eran, en el idioma de ese hombre, la misma palabra dicha con dos tonos.
 
-—Yo la llevo al casino —dijo Cole.
+—Yo la llevo al casino —dijo Kal.
 
 —Cómo no. —Se volvió hacia la puerta—. Que descanse, signora. San Aurelio la necesita entera, y con la cabeza donde debe estar.
 
@@ -351,7 +351,7 @@ Chiara esperó a que el elevador se cerrara detrás de él antes de soltar el ai
 
 —No nos creyó.
 
-—No —dijo Cole—. Pero no puede probar que mentimos, y por ahora eso alcanza.
+—No —dijo Kal—. Pero no puede probar que mentimos, y por ahora eso alcanza.
 
 ***
 
@@ -361,11 +361,11 @@ En el auto, Chiara apoyó la cabeza contra el reposacabezas con cuidado y cerró
 
 —No.
 
-—No es una discusión, Cole.
+—No es una discusión, Kal.
 
 —Alguien te dejó inconsciente en propiedad del Monarch y nadie vio nada. —No levantó la voz; nunca le hacía falta—. Vuelves ahí y sigues siendo la mujer más fácil de encontrar de la ciudad. Cualquiera con una reservación sabe en qué piso vives. Y ahora sabe también que estuviste sola y que alguien entró y salió sin que se enterara un alma.
 
-Ella no contestó enseguida, y Cole entendió que estaba haciendo la misma cuenta que él ya había hecho: no había un tercer sitio obvio. Sólo el que él estaba por ofrecer.
+Ella no contestó enseguida, y Kal entendió que estaba haciendo la misma cuenta que él ya había hecho: no había un tercer sitio obvio. Sólo el que él estaba por ofrecer.
 
 Fue entonces cuando lo vio en el espejo. Un sedán gris, tres coches atrás, que había tomado la salida de la autopista una fracción de segundo después que ellos y llevaba desde el hospital sin acercarse ni descolgarse.
 
@@ -391,7 +391,7 @@ Se lo explicó en tres frases, sin adornarlo. Ella entraba por la bahía de carg
 
 Salieron de San Aurelio por el norte, ya sin el sedán detrás, con la ciudad achicándose en el espejo hasta quedar en una línea de luces sobre el agua.
 
-Cole condujo cuarenta minutos sin decir gran cosa. Paró en uno de esos paradores de autopista que existen sólo para camioneros y para gente que necesita una excusa para detenerse: una gasolinera, una cafetería con luz de quirófano, un estacionamiento de grava demasiado grande para el edificio que servía. Aparcó de frente a la carretera, apagó el motor y dejó las llaves en el contacto. Por primera vez en tres días, nadie los miraba.
+Kal condujo cuarenta minutos sin decir gran cosa. Paró en uno de esos paradores de autopista que existen sólo para camioneros y para gente que necesita una excusa para detenerse: una gasolinera, una cafetería con luz de quirófano, un estacionamiento de grava demasiado grande para el edificio que servía. Aparcó de frente a la carretera, apagó el motor y dejó las llaves en el contacto. Por primera vez en tres días, nadie los miraba.
 
 Metió la mano en el bolsillo de la chaqueta y puso sobre el tablero el reloj de ella y un fajo de billetes doblado.
 
@@ -399,27 +399,27 @@ Metió la mano en el bolsillo de la chaqueta y puso sobre el tablero el reloj de
 
 Chiara miró el reloj sobre el tablero un momento largo, entendiendo de golpe cuánta versión se había construido alrededor de ella mientras dormía.
 
-—Cuéntame otra vez qué recuerdas —dijo Cole—. Despacio. No para la versión. Para mí.
+—Cuéntame otra vez qué recuerdas —dijo Kal—. Despacio. No para la versión. Para mí.
 
 Se lo contó despacio. El domingo gris por dentro, la fecha que no le había nombrado a nadie, las ganas de tierra y no de gente. Vento. El portón. El teléfono en la mano, ya con el nombre de él en la pantalla. Y después el suelo, y después el cuarto 221.
 
 —Iba a llamarte —dijo, como si eso fuera lo que había que confesar—. Justo antes. Tenía el pulgar encima de tu nombre.
 
-Cole no hizo nada con eso. Lo guardó, como guardaba todo.
+Kal no hizo nada con eso. Lo guardó, como guardaba todo.
 
 —¿Quién, Chiara?
 
 Ella miró la carretera un rato.
 
-—Hay gente de antes —dijo al fin—. De la vida de mi padre. De la de los socios. Gente que lleva años decidiendo quién administra qué, y a quién se le permite hacer dinero en paz. —Se detuvo. Estuvo, Cole lo vio, a un centímetro de decir un nombre, una estructura, algo con forma—. Alguien está probando si puede plantar una bandera aquí, y usó mi cabeza para clavarla.
+—Hay gente de antes —dijo al fin—. De la vida de mi padre. De la de los socios. Gente que lleva años decidiendo quién administra qué, y a quién se le permite hacer dinero en paz. —Se detuvo. Estuvo, Kal lo vio, a un centímetro de decir un nombre, una estructura, algo con forma—. Alguien está probando si puede plantar una bandera aquí, y usó mi cabeza para clavarla.
 
 —Dame el nombre.
 
 —No. —Lo dijo sin dureza—. No porque no confíe en ti. Porque en el momento en que te doy el nombre, quedas dentro de algo que no vas a poder soltar cuando quieras. Y no voy a hacerte eso.
 
-Cole se quedó mirando la carretera, con las dos manos todavía en el volante de un coche que no iba a ningún lado.
+Kal se quedó mirando la carretera, con las dos manos todavía en el volante de un coche que no iba a ningún lado.
 
-—Ya estoy dentro contigo. —Giró la cabeza—. ¿O cómo era? *Él es Cole Mercer. Vengan a conocerlo.* Lo dijiste tú, delante de gente que valía más que esta ciudad entera. No puedes presentarme como tu carta fuerte y después querer levantarme de la mesa cuando la mano se pone fea.
+—Ya estoy dentro contigo. —Giró la cabeza—. ¿O cómo era? *Él es Kal Mercer. Vengan a conocerlo.* Lo dijiste tú, delante de gente que valía más que esta ciudad entera. No puedes presentarme como tu carta fuerte y después querer levantarme de la mesa cuando la mano se pone fea.
 
 Chiara cerró los ojos.
 
@@ -429,7 +429,7 @@ Chiara cerró los ojos.
 
 —Déjame en un motel —dijo cuando él arrancó otra vez—. Hay tres sobre esta carretera. Pago en efectivo, no doy nombre, no salgo del cuarto. Una semana. A nadie se le ocurre buscarme en un sitio así.
 
-Cole se rió. No mucho, pero se rió, y era la primera vez en tres días.
+Kal se rió. No mucho, pero se rió, y era la primera vez en tres días.
 
 —Un motel, dice ella. —Metió la palanca—. Tú vienes conmigo. El golpe te dejó peor de lo que pensé si de verdad crees que te voy a soltar en una carretera después de esto.
 
@@ -437,25 +437,25 @@ En su cabeza, la frase venía con demasiados significados encima, y Chiara —qu
 
 —Sólo esta vez —dijo en voz alta.
 
-—Sólo esta vez —repitió Cole.
+—Sólo esta vez —repitió Kal.
 
 Ninguno de los dos se lo creyó. Ninguno de los dos lo dijo.
 
 ***
 
-La casa común de la Almendra la recibió pasada la medianoche con el olor a comino y detergente de siempre, la cancha de concreto vacía, la mesa larga sin nadie. Danny dormía en el sofá con la tele encendida y el perro a los pies. Nadir salió de la cocina secándose las manos en un trapo y se quedó quieto un segundo de más al verla entrar del brazo de Cole, pálida, con el vendaje asomándole por el pelo recogido.
+La casa común de la Almendra la recibió pasada la medianoche con el olor a comino y detergente de siempre, la cancha de concreto vacía, la mesa larga sin nadie. Danny dormía en el sofá con la tele encendida y el perro a los pies. Nadir salió de la cocina secándose las manos en un trapo y se quedó quieto un segundo de más al verla entrar del brazo de Kal, pálida, con el vendaje asomándole por el pelo recogido.
 
-—Va a quedarse unos días —dijo Cole, sin pedir permiso y sin ofrecer explicación.
+—Va a quedarse unos días —dijo Kal, sin pedir permiso y sin ofrecer explicación.
 
-Nadir no dijo que no. No dijo nada, en realidad — bajó la llama de lo que hervía, miró a Chiara con la cortesía exacta que se le da a un huésped y no a alguien de la casa, y le dijo a Cole, no a ella, que había un cuarto que servía.
+Nadir no dijo que no. No dijo nada, en realidad — bajó la llama de lo que hervía, miró a Chiara con la cortesía exacta que se le da a un huésped y no a alguien de la casa, y le dijo a Kal, no a ella, que había un cuarto que servía.
 
 La llevó él mismo. Era el único cuarto de la planta que no gritaba de quién era: sin pósters despegándose de la pared, sin ropa en el piso, sin el desorden con firma de Danny ni las cajas de mercancía de Nadir apiladas contra el zócalo. Una cama hecha, una silla, una ventana a la cancha. Alguien lo mantenía así por si hacía falta, y esa noche hizo falta.
 
-—Aquí estás segura —dijo Cole desde la puerta—. Tienes mi palabra.
+—Aquí estás segura —dijo Kal desde la puerta—. Tienes mi palabra.
 
 Chiara bajó la mirada. No contestó.
 
-Y Cole, que no era hombre de cruzar una habitación sin motivo, la cruzó y la abrazó — torpe al principio, como quien no tiene el gesto ensayado, y después no torpe. La sintió temblar contra él, y no era frío.
+Y Kal, que no era hombre de cruzar una habitación sin motivo, la cruzó y la abrazó — torpe al principio, como quien no tiene el gesto ensayado, y después no torpe. La sintió temblar contra él, y no era frío.
 
 Lo que fuera que venía tras ella podía ahora alcanzarlo también a él — y eso, en el mundo del que venía Chiara, era exactamente el hilo del que tiraban.
 
@@ -469,9 +469,9 @@ Los muchachos la dejaron quedarse.
 
 No hubo votación ni discusión. Alguno preguntó, un par de días después, con ella lo bastante lejos para no oírlo, que por cuánto tiempo.
 
-—Lo necesario —dijo Cole—. Hasta que ya no lo sea.
+—Lo necesario —dijo Kal—. Hasta que ya no lo sea.
 
-Y con eso bastó. En las últimas semanas Cole se había ganado el derecho de pedirles exactamente eso y nada más: cuando alguno de ellos había necesitado un favor, no les había dicho que no una sola vez, y no les había cobrado ninguno. Podían pelearse con él. Discutirle a gritos en el taller, mandarlo al diablo, volver al día siguiente. Dudar de él, no.
+Y con eso bastó. En las últimas semanas Kal se había ganado el derecho de pedirles exactamente eso y nada más: cuando alguno de ellos había necesitado un favor, no les había dicho que no una sola vez, y no les había cobrado ninguno. Podían pelearse con él. Discutirle a gritos en el taller, mandarlo al diablo, volver al día siguiente. Dudar de él, no.
 
 Nadir cumplió como los demás. Y como los demás, no dijo nada.
 

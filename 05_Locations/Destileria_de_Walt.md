@@ -20,14 +20,14 @@ Tres detalles para que vuelvan:
 
 ## Quién entra y quién no
 
-Es un negocio legal y Walt lo lleva como tal: entra quien tiene algo que hacer ahí. Gente vieja de La Almendra que lo conoce de antes; algún repartidor; [[02_Characters/Hector_Navarro|Héctor]]. Chiara entra como la clienta ancla que además le consiguió el sitio — relación cordial, de usted, sin confianzas de más. Del lado de Cole, es de los pocos lugares donde alguien de su círculo más viejo tiene algo propio y en regla.
+Es un negocio legal y Walt lo lleva como tal: entra quien tiene algo que hacer ahí. Gente vieja de La Almendra que lo conoce de antes; algún repartidor; [[02_Characters/Hector_Navarro|Héctor]]. Chiara entra como la clienta ancla que además le consiguió el sitio — relación cordial, de usted, sin confianzas de más. Del lado de Kal, es de los pocos lugares donde alguien de su círculo más viejo tiene algo propio y en regla.
 
 ## Qué pasa aquí
 
 - **Resuelve "a qué se dedica Walt al salir":** no vuelve al barrio a esperar. Construye algo legítimo, con el [[03_Factions/El_Casino|Monarch]] como primer cliente fijo (no un favor suelto: contrato de suministro).
-- **La cadena de licor del Monarch pasa ahora, en parte, por un hombre en quien Cole confía sin condiciones.** Nadie lo subraya todavía.
-- **Walt aprende el método de Cole sin decirlo así:** cumple, no se explica de más, entrega tarde antes que entregar flojo, deja que el trabajo le haga la reputación. El método se contagia — tema del libro en una escala chica.
-- **[[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/27_Me_Encuentro_Bien|Cap. 27 — Me encuentro bien]]:** Chiara viene a preguntarle si sabe algo de Cole. Hablan primero del lote atrasado (le falta barrica) y del método; después deriva a Cole. Walt le enseña el mensaje que Cole le mandó a él, y cierra con su línea sobre la palabra de ella y su corazón.
+- **La cadena de licor del Monarch pasa ahora, en parte, por un hombre en quien Kal confía sin condiciones.** Nadie lo subraya todavía.
+- **Walt aprende el método de Kal sin decirlo así:** cumple, no se explica de más, entrega tarde antes que entregar flojo, deja que el trabajo le haga la reputación. El método se contagia — tema del libro en una escala chica.
+- **[[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/27_Me_Encuentro_Bien|Cap. 27 — Me encuentro bien]]:** Chiara viene a preguntarle si sabe algo de Kal. Hablan primero del lote atrasado (le falta barrica) y del método; después deriva a Kal. Walt le enseña el mensaje que Kal le mandó a él, y cierra con su línea sobre la palabra de ella y su corazón.
 
 ## Regla de escritura
 

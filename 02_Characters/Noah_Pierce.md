@@ -12,11 +12,11 @@
 
 ## Quién es
 
-Noah Pierce es el detective joven que acompaña a [[02_Characters/Luis_Ortega]] en la investigación de homicidios relacionados con Cole.
+Noah Pierce es el detective joven que acompaña a [[02_Characters/Luis_Ortega]] en la investigación de homicidios relacionados con Kal.
 
 Su función es permitir que el caso se discuta sin inventar media docena de divisiones:
 
-- Luis ve a Cole como asesino hasta que algo lo obligue a matizar.
+- Luis ve a Kal como asesino hasta que algo lo obligue a matizar.
 - Noah empieza antes con la duda: sí, hay muertos, pero algo no encaja.
 
 ---
@@ -33,7 +33,7 @@ Su peligro narrativo es que todavía puede cambiar de opinión.
 
 - [[02_Characters/Luis_Ortega]] — compañero de caso.
 - [[02_Characters/Gloria_Chen]] — aprende de ella qué nombres pertenecen a Varek.
-- [[02_Characters/Cole_Mercer]] — lo mira como contradicción antes que como teoría cerrada.
+- [[02_Characters/Kal_Mercer]] — lo mira como contradicción antes que como teoría cerrada.
 
 ---
 

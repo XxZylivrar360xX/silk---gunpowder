@@ -1,20 +1,20 @@
 <!--
 Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md).
-Protagonistas: Cole Mercer, Chiara Bellandi.
-Apariciones: Héctor Navarro, Garrett Cross, Margaret Rivers (abogada de Cole), Jonathan Hoover (exsocio demandado, off-page), Giancarlo Krane (abogado de Hoover, mencionado).
+Protagonistas: Kal Mercer, Chiara Bellandi.
+Apariciones: Héctor Navarro, Garrett Cross, Margaret Rivers (abogada de Kal), Jonathan Hoover (exsocio demandado, off-page), Giancarlo Krane (abogado de Hoover, mencionado).
 Ventana temporal: después del Cap. 23 (Sin rastro) y del cierre de Tierra buena. El conflicto legal completo dura ~2 semanas. Inmediatamente antes de la audiencia que continúa en el Cap. 25.
-Lugares: La Almendra / oficina del taller, despacho de Margaret Rivers, loft de Cole.
-Función: primera mitad del hilo legal sembrado en Tierra buena. Hoover, dueño en papel del espacio del concesionario, reclasificó a Cole de socio a proveedor para negarle beneficios e inversión. Cole elige vía civil, no presión de calle. Chiara aportó el contacto (Rivers) en Tierra buena; aquí sólo se usa. El sobre NO es un descubrimiento — Cole ya lo sabía por canal informal; es la notificación formal, con fecha, litigable.
-Teoría jurídica (decisión del autor 2026-09-09): acuerdo comercial vinculante de hecho / implícito por conducta, sin contrato de sociedad firmado. Rivers tiene historia con el fiscal de distrito desde la facultad — por eso Chiara la eligió, dado el giro de actividades de Cole.
-Continuidad: la propuesta de Cole la primera noche del Monarch (Caps. 1-2) se usa como conducta previa consistente. Tommaso aparece en la lista de testigos de la contraparte al final.
+Lugares: La Almendra / oficina del taller, despacho de Margaret Rivers, loft de Kal.
+Función: primera mitad del hilo legal sembrado en Tierra buena. Hoover, dueño en papel del espacio del concesionario, reclasificó a Kal de socio a proveedor para negarle beneficios e inversión. Kal elige vía civil, no presión de calle. Chiara aportó el contacto (Rivers) en Tierra buena; aquí sólo se usa. El sobre NO es un descubrimiento — Kal ya lo sabía por canal informal; es la notificación formal, con fecha, litigable.
+Teoría jurídica (decisión del autor 2026-09-09): acuerdo comercial vinculante de hecho / implícito por conducta, sin contrato de sociedad firmado. Rivers tiene historia con el fiscal de distrito desde la facultad — por eso Chiara la eligió, dado el giro de actividades de Kal.
+Continuidad: la propuesta de Kal la primera noche del Monarch (Caps. 1-2) se usa como conducta previa consistente. Tommaso aparece en la lista de testigos de la contraparte al final.
 Pasada editorial 2026-09-10 (Claude Code, decision del autor): el recuerdo de la primera reunion se ajusta a lo dramatizado en el Cap. 2 (beneficio mutuo / "una silla en su mesa", no un "no" a un porcentaje concreto); explicitado el enlace propuso-antes -> se le cae a Hoover que se la invento ahora; podadas glosas de descubrimiento (fiscal, parcela) y remates; doble armado de carpetas de Garrett marcado como version para la audiencia.
 -->
 
 # Capítulo 24 — La letra pequeña
 
-El sobre llegó al taller a las nueve y doce de la mañana, entre una factura de neumáticos y un aviso del condado por una grúa que llevaba tres semanas estacionada donde no debía. Membrete de una sociedad que Cole conocía demasiado bien: dos páginas de lenguaje pulcro que decían, de tres maneras distintas para que pareciera inevitable, que su nombre ya no figuraba en el acuerdo del concesionario.
+El sobre llegó al taller a las nueve y doce de la mañana, entre una factura de neumáticos y un aviso del condado por una grúa que llevaba tres semanas estacionada donde no debía. Membrete de una sociedad que Kal conocía demasiado bien: dos páginas de lenguaje pulcro que decían, de tres maneras distintas para que pareciera inevitable, que su nombre ya no figuraba en el acuerdo del concesionario.
 
-Cole lo abrió de pie.
+Kal lo abrió de pie.
 
 No porque estuviera apurado. Porque ya sabía lo que decía. Se lo habían adelantado por teléfono unos días antes, sin membrete y sin frases inevitables, y desde entonces esperaba la versión con sello. La leyó entera de todos modos, despacio, como quien revisa una factura que ya sabe equivocada para tener claro por cuánto.
 
@@ -24,7 +24,7 @@ Héctor estaba al otro lado de la oficina, agachado frente al refrigerador, deci
 
 —Ya con sello.
 
-Héctor cerró la puerta del refrigerador y se acercó a leer por encima del escritorio. Tardaba más que Cole con esos papeles, y no porque entendiera menos: desconfiaba de cualquier frase que necesitara más de una coma para decirle a alguien que había perdido dinero.
+Héctor cerró la puerta del refrigerador y se acercó a leer por encima del escritorio. Tardaba más que Kal con esos papeles, y no porque entendiera menos: desconfiaba de cualquier frase que necesitara más de una coma para decirle a alguien que había perdido dinero.
 
 —Aquí dice que eras proveedor.
 
@@ -42,7 +42,7 @@ Héctor dejó las hojas.
 
 —¿Cuánto?
 
-Cole le dio la cifra. Héctor silbó bajo.
+Kal le dio la cifra. Héctor silbó bajo.
 
 —Bueno. Sí es bastante lo que deben.
 
@@ -50,7 +50,7 @@ Afuera, una pistola de impacto empezó a golpear una tuerca con esa violencia r�
 
 —¿Quieres que vaya a hablar con Hoover? —preguntó Héctor.
 
-Cole lo miró sin contestar.
+Kal lo miró sin contestar.
 
 —Dije hablar. —Héctor se encogió de hombros.
 
@@ -58,7 +58,7 @@ Cole lo miró sin contestar.
 
 —Mi cara es gratis.
 
-—No. —Cole dobló el documento por la mitad y lo guardó en el sobre—. Si esto lo arreglo con hombres, la próxima vez el papel vale más que yo. Voy a conseguir abogado.
+—No. —Kal dobló el documento por la mitad y lo guardó en el sobre—. Si esto lo arreglo con hombres, la próxima vez el papel vale más que yo. Voy a conseguir abogado.
 
 —Eso sí sale caro.
 
@@ -66,15 +66,15 @@ Cole lo miró sin contestar.
 
 ***
 
-Ya tenía el número. Chiara se lo había pasado días antes, entre una broma sobre tomates y otra sobre su costumbre de convertir cualquier problema en un negocio. Cole le escribió para avisarle que el papel había llegado con sello. La respuesta llegó en menos de un minuto, y no fue un "lo siento" ni un "qué barbaridad":
+Ya tenía el número. Chiara se lo había pasado días antes, entre una broma sobre tomates y otra sobre su costumbre de convertir cualquier problema en un negocio. Kal le escribió para avisarle que el papel había llegado con sello. La respuesta llegó en menos de un minuto, y no fue un "lo siento" ni un "qué barbaridad":
 
 **Margaret Rivers. No le digas que vas de mi parte hasta que ella te pregunte cómo llegaste a su nombre. Se pone insoportable cuando cree que le deben gratitud.**
 
-Cole sonrió sin querer y marcó.
+Kal sonrió sin querer y marcó.
 
 Rivers le dio cita para esa misma tarde. Su despacho estaba en el centro, dos pisos arriba de una cafetería demasiado cara para vender café en vasos de cartón. No tenía recepción grande ni pared de diplomas: dos sillas, una asistente que no sonrió y una puerta de cristal esmerilado que se abrió a la hora exacta.
 
-Rivers escuchó nueve minutos sin interrumpir. Cole le puso sobre la mesa contratos, transferencias, copias de facturas, mensajes, recibos de renta, registros de los vehículos que habían pasado por el lote y una libreta con cifras que Garrett había convertido en algo que un tribunal podía mirar sin asumir que era una amenaza.
+Rivers escuchó nueve minutos sin interrumpir. Kal le puso sobre la mesa contratos, transferencias, copias de facturas, mensajes, recibos de renta, registros de los vehículos que habían pasado por el lote y una libreta con cifras que Garrett había convertido en algo que un tribunal podía mirar sin asumir que era una amenaza.
 
 Rivers revisó la primera carpeta. Después la segunda.
 
@@ -90,7 +90,7 @@ Levantó la vista.
 
 —A un juez sí puede cambiárselas.
 
-Cole se recostó apenas en la silla.
+Kal se recostó apenas en la silla.
 
 —Había un acuerdo.
 
@@ -100,7 +100,7 @@ Cole se recostó apenas en la silla.
 
 —Eso prueba que invirtió. No que fuera socio. —Rivers pasó a la segunda carpeta sin levantar la vista—. Traiga clientes y le prueban que generaba negocio. Cobre un porcentaje y le prueban que recibió dinero. Cada cosa que hizo tiene una versión chica y una grande, y Hoover va a pedir la chica todo el tiempo.
 
-Cole esperó a que terminara de leer la página.
+Kal esperó a que terminara de leer la página.
 
 —Está describiendo una sociedad.
 
@@ -110,13 +110,13 @@ Tomó una hoja en blanco.
 
 —¿Cómo empezó?
 
-Cole tardó un segundo.
+Kal tardó un segundo.
 
 —Con un trato. No con él.
 
 —¿Con quién?
 
-Cole pensó en una mesa de casino. En Matteo Bellacorte sonriendo como si hubiera comprado la habitación antes de entrar. En los socios italianos mirando al mecánico del sur como quien evalúa una pieza que nadie pidió. En Chiara, recién llegada, sentada ahí con un apellido que todavía no significaba nada para él.
+Kal pensó en una mesa de casino. En Matteo Bellacorte sonriendo como si hubiera comprado la habitación antes de entrar. En los socios italianos mirando al mecánico del sur como quien evalúa una pieza que nadie pidió. En Chiara, recién llegada, sentada ahí con un apellido que todavía no significaba nada para él.
 
 —El Monarch. La primera noche que estuve ahí propuse un modelo parecido. Taller, mantenimiento de flotas, suministro, vehículos. Que si ellos ganaban más usando lo mío, yo ganara más con ellos.
 
@@ -136,7 +136,7 @@ Rivers levantó la pluma.
 
 —¿Bellandi?
 
-Cole la miró con una expresión tan plana que la pregunta siguiente murió antes de salir. Rivers escribió el apellido de todos modos.
+Kal la miró con una expresión tan plana que la pregunta siguiente murió antes de salir. Rivers escribió el apellido de todos modos.
 
 —¿Alguno aceptó?
 
@@ -154,7 +154,7 @@ Se puso de pie.
 
 —Una cosa más. Si alguien intenta llevar esto a lo penal, sepa que el fiscal del distrito y yo no nos hablamos desde la facultad. A usted eso le conviene más de lo que cree.
 
-Cole lo anotó. Chiara ya se lo había dicho a su manera.
+Kal lo anotó. Chiara ya se lo había dicho a su manera.
 
 —¿Y si me ofrecen dinero para cerrar?
 
@@ -180,13 +180,13 @@ Héctor dobló el papel y se quedó mirándolo, como si el que hubiera hablado d
 
 —¿Por qué?
 
-Cole guardó la oferta en el bolsillo y volvió a la abrazadera que estaba ajustando.
+Kal guardó la oferta en el bolsillo y volvió a la abrazadera que estaba ajustando.
 
 —Porque esta vez lo quiero por escrito.
 
 ***
 
-Hoover respondió con otra versión de la historia. Cole la leyó en el loft una noche, sentado al borde de la mesa de la cocina mientras Chiara abría una botella de vino.
+Hoover respondió con otra versión de la historia. Kal la leyó en el loft una noche, sentado al borde de la mesa de la cocina mientras Chiara abría una botella de vino.
 
 —Según esto, yo era un contratista con participación variable.
 
@@ -206,13 +206,13 @@ Chiara sirvió dos copas.
 
 —Eso viene de Italia.
 
-No añadió más. Cole tampoco preguntó.
+No añadió más. Kal tampoco preguntó.
 
 Ella se sentó enfrente y leyó la respuesta en silencio. A mitad de la segunda página, su expresión cambió apenas.
 
 —Aquí hay algo. Dice que nunca habías trabajado bajo un modelo de participación antes de ese acuerdo.
 
-Cole estiró la mano. Chiara no le devolvió la hoja.
+Kal estiró la mano. Chiara no le devolvió la hoja.
 
 —La noche que nos conocimos propusiste eso mismo.
 
@@ -220,7 +220,7 @@ Cole estiró la mano. Chiara no le devolvió la hoja.
 
 —Lo bastante parecido. Pone esa frase para que el juez crea que te inventaste la participación ahora, para cobrar. Si ya la proponías antes de conocer a Hoover, no se sostiene. —Dejó la hoja en la mesa—. Y que Tommaso no te quisiera en su mesa prueba que la propuesta existió, no que no.
 
-Cole apoyó los antebrazos en la mesa.
+Kal apoyó los antebrazos en la mesa.
 
 —Mi abogada quiere testigos.
 
@@ -234,7 +234,7 @@ Cole apoyó los antebrazos en la mesa.
 
 —No me estás metiendo. Estaba metida desde esa mesa. —La media sonrisa apareció detrás de la copa—. Además, tengo curiosidad por ver qué cara pone Tommaso cuando le llegue que testifiqué por ti.
 
-Cole soltó aire por la nariz.
+Kal soltó aire por la nariz.
 
 —Eso sí suena a ti.
 
@@ -244,7 +244,7 @@ Cole soltó aire por la nariz.
 
 Garrett rearmó seis meses de papeles en tres carpetas para la audiencia: una de dinero, una de clientes, una de espacio. Pestañas, fechas, copias, notas.
 
-—¿Cuándo aprendiste a hacer esto? —preguntó Cole.
+—¿Cuándo aprendiste a hacer esto? —preguntó Kal.
 
 Garrett se acomodó los lentes oscuros.
 
@@ -258,7 +258,7 @@ Abrió la carpeta de dinero.
 
 —Para ganar, no sé. Para demostrar que miente, sí.
 
-Cole asintió. Era suficiente para empezar.
+Kal asintió. Era suficiente para empezar.
 
 ***
 
@@ -266,13 +266,13 @@ La mañana anterior a la audiencia, Rivers llamó.
 
 —La otra parte agregó testigos. Dos empleados, el contador, y un nombre que usted conoce.
 
-Cole dejó de revisar el motor que tenía abierto.
+Kal dejó de revisar el motor que tenía abierto.
 
 —Diga.
 
 —Tommaso Lusardi. Lo anotaron como testigo con conocimiento de sus primeras propuestas comerciales en San Aurelio.
 
-El taller siguió haciendo ruido. Cole no.
+El taller siguió haciendo ruido. Kal no.
 
 —Él no tiene nada que ver con el concesionario. Fue de los primeros en oponerse a mi trato con el casino.
 
@@ -280,7 +280,7 @@ El taller siguió haciendo ruido. Cole no.
 
 —¿Hay algo que deba saber?
 
-Cole pensó en Tommaso. En su apellido. En Chiara. En aquella primera mesa.
+Kal pensó en Tommaso. En su apellido. En Chiara. En aquella primera mesa.
 
 —No.
 
@@ -294,6 +294,6 @@ Colgó. Héctor apareció en la puerta del taller.
 
 —Tienes cara de nada caro.
 
-Cole miró hacia el patio.
+Kal miró hacia el patio.
 
 —Mañana averiguamos cuánto.

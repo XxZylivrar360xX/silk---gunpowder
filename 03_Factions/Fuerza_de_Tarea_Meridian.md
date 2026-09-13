@@ -5,9 +5,9 @@
 > **CANON DEL AUTOR (2026-08-23):** los federales tienen pasado directo con Chiara: una redada contra su padre destruyó la estabilidad del hogar donde creció. Corrado murió, y los federales le negaron a Chiara el derecho de verlo o enterrarlo por burocracia de investigación. La culpable real era [[03_Factions/Il_Consorzio]], pero la herida tiene rostro federal.
 
 **Qué es:** fuerza de tarea federal contra crimen organizado, tráfico internacional y redes de lavado.
-**Territorio:** federal; entra a San Aurelio cuando los negocios de Cole suben de escala internacional.
+**Territorio:** federal; entra a San Aurelio cuando los negocios de Kal suben de escala internacional.
 **Cabeza:** [[02_Characters/Andrew_Callahan]].
-**Estado al abrir la novela:** no está mirando a Cole todavía; existe como trauma antiguo en la vida de Chiara.
+**Estado al abrir la novela:** no está mirando a Kal todavía; existe como trauma antiguo en la vida de Chiara.
 
 ---
 
@@ -17,7 +17,7 @@ Legalmente: coordina investigaciones federales sobre crimen organizado transnaci
 
 Realmente: convierte vidas en expedientes.
 
-La Fuerza Meridian no necesita odiar a Cole ni a Chiara. Ese es su peligro. Puede destruir una casa, retener un cuerpo, congelar cuentas, sellar evidencia y tardar años en pedir disculpas sin que nadie en la institución se considere cruel.
+La Fuerza Meridian no necesita odiar a Kal ni a Chiara. Ese es su peligro. Puede destruir una casa, retener un cuerpo, congelar cuentas, sellar evidencia y tardar años en pedir disculpas sin que nadie en la institución se considere cruel.
 
 ---
 
@@ -57,14 +57,14 @@ La fuerza funciona mejor como un equipo con fricciones internas, no como un solo
 
 ### Comando
 
-- **[[02_Characters/Andrew_Callahan]]** — agente especial supervisor, Organized Crime / RICO. Comandante de Meridian. Su obsesión inicial es [[02_Characters/Dario_Varek]], no Cole: *Mercer no importa; Varek importa.*
+- **[[02_Characters/Andrew_Callahan]]** — agente especial supervisor, Organized Crime / RICO. Comandante de Meridian. Su obsesión inicial es [[02_Characters/Dario_Varek]], no Kal: *Mercer no importa; Varek importa.*
 
 ### Equipo federal
 
-- **[[02_Characters/Mara_Ellison]]** — agente especial principal, Violent Crime / case agent. Verdadera antagonista personal de Cole: aprende cómo piensa a partir de escenas, víctimas y patrones.
+- **[[02_Characters/Mara_Ellison]]** — agente especial principal, Violent Crime / case agent. Verdadera antagonista personal de Kal: aprende cómo piensa a partir de escenas, víctimas y patrones.
 - **[[02_Characters/Priya_Nair]]** — intelligence analyst, link analysis / pattern analysis. Descubre asociaciones incómodas antes de que puedan probarse.
 - **[[02_Characters/Nora_Whitcomb]]** — forensic accountant, lavado de dinero / asset tracing. Persigue sociedades, activos, testaferros y libros contables.
-- **[[02_Characters/Leah_Park]]** — crimen digital y vigilancia técnica. Reduce los lugares donde Cole puede desaparecer siguiendo errores ajenos.
+- **[[02_Characters/Leah_Park]]** — crimen digital y vigilancia técnica. Reduce los lugares donde Kal puede desaparecer siguiendo errores ajenos.
 - **[[02_Characters/Victor_Reyes]]** — operaciones encubiertas / manejo de informantes. Ataca la arquitectura humana de El Patio.
 - **[[02_Characters/Sofia_Alvarez]]** — trata de personas / explotación. Encuentra la contradicción: donde Mercer aparece, algunos traficantes mueren y algunos niños reaparecen vivos.
 - **[[02_Characters/Grant_Maddox]]** — enlace táctico / SWAT, exmilitar. Lee escenas violentas como entrenamiento, no como calle.
@@ -80,7 +80,7 @@ La fuerza funciona mejor como un equipo con fricciones internas, no como un solo
 
 ## Relación con [[03_Factions/Almendra_Towing]]
 
-Meridian entra cuando Cole deja de ser un actor municipal.
+Meridian entra cuando Kal deja de ser un actor municipal.
 
 El punto de activación probable:
 
@@ -89,12 +89,12 @@ El punto de activación probable:
 3. El producto empieza a moverse por rutas que tocan puerto, aeropuerto o contactos internacionales.
 4. Alguna facción local intenta vender el caso a los federales para ganar protección o crédito.
 
-Cole entiende favores, territorio y gente. Meridian entiende patrones, jurisdicción y paciencia. Es un adversario que no se puede remolcar.
+Kal entiende favores, territorio y gente. Meridian entiende patrones, jurisdicción y paciencia. Es un adversario que no se puede remolcar.
 
 La división interna importa:
 
 - Callahan quiere a Varek.
-- Mara empieza a querer entender a Cole.
+- Mara empieza a querer entender a Kal.
 - Nora sigue el dinero hacia Garrett.
 - Priya y Leah descubren que el expediente oficial no alcanza.
 - Victor intenta romper la red humana.
@@ -109,7 +109,7 @@ Chiara puede manejar prensa, versiones y silencio. Con los federales eso se vuel
 
 Pero el punto más peligroso no es técnico. Es emocional:
 
-> **El mismo tipo de institución que le negó enterrar a su padre ahora viene a decidir qué es Cole.**
+> **El mismo tipo de institución que le negó enterrar a su padre ahora viene a decidir qué es Kal.**
 
 Eso puede empujarla a errores que no cometería contra Varek o el Consorcio.
 
@@ -131,7 +131,7 @@ La policía local quiere casos que pueda enseñar. Los federales quieren patrone
 
 > **PENDIENTE:** si Andrew Callahan participó en la redada de Corrado o si hereda el daño institucional sin haber estado ahí.
 
-> **PENDIENTE:** qué evento exacto dispara la entrada de Meridian contra Cole.
+> **PENDIENTE:** qué evento exacto dispara la entrada de Meridian contra Kal.
 
 > **PENDIENTE:** qué prueba creen tener los federales que en realidad fue plantada o fabricada por el Consorcio.
 

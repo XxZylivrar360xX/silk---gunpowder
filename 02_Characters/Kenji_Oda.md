@@ -46,7 +46,7 @@ Kenji nunca le dice nada en voz alta. Chiara le entrega recortes de su propio pa
 
 ### El fusible — DISEÑO (2026-08-26)
 
-Cuando un papel sale hacia afuera (por ejemplo hacia [[02_Characters/Cole_Mercer|"Roma Atrii"]]), el mensajero recibe una sola instrucción de respaldo: **si no encuentra al destinatario, devuelve el papel a Kenji, en la caja del Monarch.** Nunca a Chiara.
+Cuando un papel sale hacia afuera (por ejemplo hacia [[02_Characters/Kal_Mercer|"Roma Atrii"]]), el mensajero recibe una sola instrucción de respaldo: **si no encuentra al destinatario, devuelve el papel a Kenji, en la caja del Monarch.** Nunca a Chiara.
 
 Es diseño de seguridad, no accidente: si interceptan a un mensajero en cualquier punto de la cadena, lo máximo que puede delatar es a Kenji — nunca a ella. Boceto de cómo funciona esto en la práctica, con un mensajero interceptado, en [[07_Ideas/El_Chico_Del_Patio]].
 
@@ -58,11 +58,11 @@ Si alguien lo intercepta antes de que llegue a Chiara, ve basura: unas palabras 
 
 ## Kenji y Marisol — relación fuera de foco (Libros I y II)
 
-> **CANON DEL AUTOR (2026-09-10):** Kenji y [[02_Characters/Marisol_Grayson]] empiezan a salir. La relación se desarrolla fuera de foco durante *Seda y Pólvora* (Libro I) y *Voto de Ceniza* (Libro II): sus hitos se perciben desde Cole y Chiara, por los cambios visibles en sus interacciones y por lo que la pareja decide contarles. No se abre una línea de escenas íntimas ni un POV propio para narrar el noviazgo.
+> **CANON DEL AUTOR (2026-09-10):** Kenji y [[02_Characters/Marisol_Grayson]] empiezan a salir. La relación se desarrolla fuera de foco durante *Seda y Pólvora* (Libro I) y *Voto de Ceniza* (Libro II): sus hitos se perciben desde Kal y Chiara, por los cambios visibles en sus interacciones y por lo que la pareja decide contarles. No se abre una línea de escenas íntimas ni un POV propio para narrar el noviazgo.
 
 - **Libro I:** sembrar el acercamiento y el inicio de la relación en las interacciones con los protagonistas; colocación exacta pendiente.
 - **Libro II:** dar continuidad perceptible a la pareja antes de Santa Lucía. Su vida compartida avanza aunque quede fuera de escena. La muerte de Kenji en el atentado de Halbrook, ya fijada en [[00_Biblia/00_Trilogy_Structure]], alcanza así también a Marisol y amplía las consecuencias sobre el conjunto de personajes.
-- **Límite de información:** Cole y Chiara sólo conocen lo que observan y lo que Kenji y Marisol comparten. Sus interpretaciones no se convierten automáticamente en hechos; respetar la intimidad de la pareja.
+- **Límite de información:** Kal y Chiara sólo conocen lo que observan y lo que Kenji y Marisol comparten. Sus interpretaciones no se convierten automáticamente en hechos; respetar la intimidad de la pareja.
 - **Desarrollo de Kenji:** la relación permite percibir una vida propia más allá de su utilidad para Chiara. Debe existir como vínculo vivo antes de su pérdida, sin reducirlo al novio destinado a morir.
 
 > **DISEÑO disponible, no hitos fijados:** familiaridad adquirida, horarios y planes compartidos, cambios de disponibilidad y límites a las preguntas de los protagonistas. Pueden mostrar el paso del tiempo sin resumir citas que el lector no vio.

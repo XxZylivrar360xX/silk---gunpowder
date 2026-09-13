@@ -1,9 +1,9 @@
 <!--
 Estado: TERMINADO.
-Protagonistas: Chiara Bellandi (partes 1-4), Cole Mercer (parte 5).
-Ventana temporal: semanas despues del Capitulo 13 (Roma Atrii). Cole y Chiara siguen a caballo entre el penthouse y la casa de el; todavia no hay primer beso.
+Protagonistas: Chiara Bellandi (partes 1-4), Kal Mercer (parte 5).
+Ventana temporal: semanas despues del Capitulo 13 (Roma Atrii). Kal y Chiara siguen a caballo entre el penthouse y la casa de el; todavia no hay primer beso.
 Lugares: El Penthouse, La Esquina de Mabel, The Monarch Casino & Hotel (piso de juego), Almendra Towing / El Patio, Comisaria central de San Aurelio (Calle Corona).
-Funcion: DISEÑO nuevo (2026-09-01), a peticion del autor. Primer favor grande que Chiara le devuelve a Cole sin que el se lo pida. La policia arma un caso formal contra el conductor del Peugeot rojo (ver ledger, "El Peugeot rojo que Blake persigue") con dos sospechosos: Rafael "Rafe" Dominguez (Los Bravos de Santa Brigida) y Cole. Chiara arma la verdad completa cruzando tres piezas de su red -- calle (gasolinera), Mabel (chisme de barra sobre el sur) y Kenji/i Sussurri (cifrado real) -- usando un codigo tematico propio basado en versiculos de la Vulgata que memorizo de niña: cada referencia tiene un significado fijo, no es traduccion literal. Resuelve el "cuarto papel" (la subjefa) sembrado en el Capitulo 13: la subjefa es Lucia Varek, primera escena de ella con Cole. Chiara siembra duda razonable esparciendo un rumor sobre un corredor de piezas del norte que paga en efectivo sin recibos -- candidato mas creible que cualquiera de los dos sospechosos reales -- y le da a Cole la coartada antes de que declare. El caso se cae. Cierra con la linea del autor: "Eres realmente buena en esto" / "Lo soy cuando amenazan a mi gente."
+Funcion: DISEÑO nuevo (2026-09-01), a peticion del autor. Primer favor grande que Chiara le devuelve a Kal sin que el se lo pida. La policia arma un caso formal contra el conductor del Peugeot rojo (ver ledger, "El Peugeot rojo que Blake persigue") con dos sospechosos: Rafael "Rafe" Dominguez (Los Bravos de Santa Brigida) y Kal. Chiara arma la verdad completa cruzando tres piezas de su red -- calle (gasolinera), Mabel (chisme de barra sobre el sur) y Kenji/i Sussurri (cifrado real) -- usando un codigo tematico propio basado en versiculos de la Vulgata que memorizo de niña: cada referencia tiene un significado fijo, no es traduccion literal. Resuelve el "cuarto papel" (la subjefa) sembrado en el Capitulo 13: la subjefa es Lucia Varek, primera escena de ella con Kal. Chiara siembra duda razonable esparciendo un rumor sobre un corredor de piezas del norte que paga en efectivo sin recibos -- candidato mas creible que cualquiera de los dos sospechosos reales -- y le da a Kal la coartada antes de que declare. El caso se cae. Cierra con la linea del autor: "Eres realmente buena en esto" / "Lo soy cuando amenazan a mi gente."
 Apertura por residuo: retoma el "cuarto papel" del Capitulo 13 -- el rumor sin resolver sobre la subjefa vista con alguien del mundo criminal, que Chiara guardo sin saber para que.
 -->
 
@@ -107,7 +107,7 @@ No era una acusación todavía. Era algo peor: era una dirección. Alguien, en a
 
 Chiara pensó en Rafe Domínguez, a quien no conocía, a quien probablemente nunca le debería nada, y sintió, contra toda lógica de negocios, algo parecido a la culpa por adelantado.
 
-Después pensó en Cole, y la culpa se convirtió en otra cosa.
+Después pensó en Kal, y la culpa se convirtió en otra cosa.
 
 No lo llamó esa noche. Todavía no sabía qué iba a decirle, y decirle a medias no servía de nada.
 
@@ -127,19 +127,19 @@ No borró a Rafe Domínguez del mapa. No podía, y tampoco era su trabajo — Ra
 
 ***
 
-Fue a buscar a Cole al taller, no al revés — la primera vez, cayó en la cuenta, que ella hacía ese camino sin que él la llamara antes.
+Fue a buscar a Kal al taller, no al revés — la primera vez, cayó en la cuenta, que ella hacía ese camino sin que él la llamara antes.
 
 Lo encontró debajo de un auto que no era suyo, y esperó a que saliera.
 
 —Te van a citar a declarar —dijo, sin preámbulo, porque los preámbulos eran un lujo que ya no tenían—. Por el Peugeot.
 
-Cole se limpió las manos con un trapo que ya no limpiaba nada.
+Kal se limpió las manos con un trapo que ya no limpiaba nada.
 
 —¿Cómo lo sabes?
 
 —Porque llevo semanas armando cómo lo sé, y no tenemos tiempo para que te lo explique entero. —Se cruzó de brazos, no a la defensiva, sino como quien ya decidió qué parte de la verdad alcanza—. Hay un segundo sospechoso. Un hombre del sur, Rafe Domínguez. Y hay algo peor: si alguien te pregunta por qué compras piezas en efectivo alguna vez, en algún taller del norte, di que fue en Villani Motors, cerca de Cedar Flats, hace cosa de dos meses. Va a sonar cierto porque en parte lo es. Y si te preguntan por las noches que llegabas tarde al taller sin que Héctor supiera dónde estabas, la respuesta es Kingsley Field, revisando motores para carreras legales de fin de semana. Nada de eso es mentira completa. Eso es lo que lo hace útil.
 
-Cole no dijo nada durante un momento demasiado largo.
+Kal no dijo nada durante un momento demasiado largo.
 
 —¿Hiciste todo esto sin decirme nada?
 
@@ -151,17 +151,17 @@ Chiara lo miró como si la pregunta fuera casi ofensiva.
 
 —Porque tú lo harías por mí sin preguntarte si debías.
 
-No fue una respuesta completa. Era, sin embargo, la única que a Cole no le quedó nada para responder.
+No fue una respuesta completa. Era, sin embargo, la única que a Kal no le quedó nada para responder.
 
 ***
 
-Lo citaron esa misma semana. La comisaría central de Calle Corona no se parecía en nada al Monarch — luz blanca, sillas de metal, el ruido constante de teléfonos que nadie corría a contestar — y Cole se sentó donde le indicaron sin que nada en su cara dijera que llevaba una coartada preparada en el bolsillo del pecho.
+Lo citaron esa misma semana. La comisaría central de Calle Corona no se parecía en nada al Monarch — luz blanca, sillas de metal, el ruido constante de teléfonos que nadie corría a contestar — y Kal se sentó donde le indicaron sin que nada en su cara dijera que llevaba una coartada preparada en el bolsillo del pecho.
 
 La mujer que entró no llevaba el uniforme completo. Llevaba el aire de alguien que sí.
 
 —Lucía Varek. Subjefa. —No le ofreció la mano—. Siéntese, señor Mercer. Esto no debería tardar mucho.
 
-Se sentó frente a él con una carpeta que abrió sin apuro, y Cole entendió, en el primer segundo, dos cosas: que esa mujer no improvisaba nada, y que el apellido no era casualidad para nadie en esa ciudad que supiera leerlo.
+Se sentó frente a él con una carpeta que abrió sin apuro, y Kal entendió, en el primer segundo, dos cosas: que esa mujer no improvisaba nada, y que el apellido no era casualidad para nadie en esa ciudad que supiera leerlo.
 
 —Tenemos un vehículo, un Peugeot 106 rojo, asociado a múltiples reportes de conducción temeraria y evasión cerca de Kingsley Field. —Deslizó una fotografía sobre la mesa, granulada, tomada de noche—. Y tenemos dos nombres que encajan más de lo que a mí me gustaría.
 
@@ -169,15 +169,15 @@ Se sentó frente a él con una carpeta que abrió sin apuro, y Cole entendió, e
 
 —El suyo es el que menos me gusta, para serle honesta. —Lucía no sonrió, pero algo en su voz sonó casi a advertencia amistosa—. El otro sospechoso tiene historial. Usted tiene un taller legal, un contrato de mantenimiento con este mismo Departamento, y una cuenta que, hasta donde mis analistas han podido rastrear, no debería poder pagar un coche así de rápido con papeles así de limpios.
 
-—Compro piezas en efectivo cuando el vendedor las vende en efectivo —dijo Cole, con la calma exacta que Chiara le había pedido que no ensayara demasiado, porque lo ensayado se nota—. Villani Motors, cerca de Cedar Flats. Pregúnteles. Y las noches que preguntan dónde estaba, estaba en Kingsley Field, revisando motores para las carreras de los sábados. Legales. Con permiso del circuito.
+—Compro piezas en efectivo cuando el vendedor las vende en efectivo —dijo Kal, con la calma exacta que Chiara le había pedido que no ensayara demasiado, porque lo ensayado se nota—. Villani Motors, cerca de Cedar Flats. Pregúnteles. Y las noches que preguntan dónde estaba, estaba en Kingsley Field, revisando motores para las carreras de los sábados. Legales. Con permiso del circuito.
 
-Lucía lo miró un momento más de lo estrictamente necesario, y Cole sostuvo la mirada sin que nada en su cara se moviera de más.
+Lucía lo miró un momento más de lo estrictamente necesario, y Kal sostuvo la mirada sin que nada en su cara se moviera de más.
 
 —Vamos a confirmar todo eso.
 
 —Confírmelo.
 
-Lo confirmaron. Villani Motors recordaba la venta en efectivo — Chiara se había asegurado de eso tres días antes, con una llamada que ni siquiera mencionó el nombre de Cole. El circuito de Kingsley Field tenía un registro de mantenimiento a nombre de Almendra Towing, real, aburrido, sin nada que ocultar porque no ocultaba nada más que la mitad de la historia.
+Lo confirmaron. Villani Motors recordaba la venta en efectivo — Chiara se había asegurado de eso tres días antes, con una llamada que ni siquiera mencionó el nombre de Kal. El circuito de Kingsley Field tenía un registro de mantenimiento a nombre de Almendra Towing, real, aburrido, sin nada que ocultar porque no ocultaba nada más que la mitad de la historia.
 
 Y en algún punto de esa misma semana, alguien de la Fiscalía empezó a hacer preguntas sobre un corredor de piezas del norte que pagaba cargamentos enteros sin dejar rastro en papel — una pista más ancha, más fácil, más barata que perseguir a un mecánico con contrato municipal o a un hombre del sur con un abogado carísimo y ninguna prueba nueva.
 
@@ -187,7 +187,7 @@ El caso, que había sido sólido, dejó de serlo sin que nadie pudiera señalar 
 
 Chiara lo esperó en el penthouse esa noche, sin preguntarle cómo había ido, porque ya lo sabía.
 
-Cole entró, dejó las llaves sobre la mesa con más cuidado del que necesitaban, y se quedó de pie un momento, mirándola como si la estuviera viendo por primera vez desde un ángulo que llevaba meses sin usar.
+Kal entró, dejó las llaves sobre la mesa con más cuidado del que necesitaban, y se quedó de pie un momento, mirándola como si la estuviera viendo por primera vez desde un ángulo que llevaba meses sin usar.
 
 —Eres realmente buena en esto.
 
@@ -197,8 +197,8 @@ Chiara no bajó la vista. No sonrió tampoco, no todavía.
 
 —Lo soy cuando amenazan a mi gente.
 
-Cole se quedó con eso un momento, dándole vueltas a la palabra que ella había elegido — *mi gente*, no *tu problema*, no *un favor* — y no encontró nada que decir que no fuera a sonar más pequeño que la frase misma.
+Kal se quedó con eso un momento, dándole vueltas a la palabra que ella había elegido — *mi gente*, no *tu problema*, no *un favor* — y no encontró nada que decir que no fuera a sonar más pequeño que la frase misma.
 
-Afuera, San Aurelio seguía su ritmo de siempre: alguien en el sur cargando un nombre que no le pertenecía del todo, alguien en el norte a punto de recibir una visita incómoda por un delito que probablemente sí había cometido, aunque no ése, y una subjefa de policía que, sin saberlo todavía, acababa de archivar el primero de muchos expedientes con el nombre de Cole Mercer adentro.
+Afuera, San Aurelio seguía su ritmo de siempre: alguien en el sur cargando un nombre que no le pertenecía del todo, alguien en el norte a punto de recibir una visita incómoda por un delito que probablemente sí había cometido, aunque no ése, y una subjefa de policía que, sin saberlo todavía, acababa de archivar el primero de muchos expedientes con el nombre de Kal Mercer adentro.
 
 Chiara ya lo sabía. Se lo guardó, junto con los tres papeles que nadie más iba a ver nunca juntos.

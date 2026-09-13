@@ -47,13 +47,13 @@ La muerte de Keene abre la puerta a [[02_Characters/Elena_Vega]].
 
 ## Estructura
 
-La policía local no compite narrativamente con los federales. Su función es mantener la ciudad funcionando, responder primero a los delitos de Cole y terminar cruzándose con la investigación federal.
+La policía local no compite narrativamente con los federales. Su función es mantener la ciudad funcionando, responder primero a los delitos de Kal y terminar cruzándose con la investigación federal.
 
 ### Mando
 
 - **[[02_Characters/Elena_Vega|Chief Elena Vega]]** — jefa de policía. Maneja política, presupuesto, alcaldía y presión mediática. No investiga escenas; dirige una institución bajo crisis.
 - **Martin Cho** — Deputy Chief. Enlace de alto nivel con los federales y la fiscalía cuando piden cooperación.
-- **Thomas Reade** — Captain / precinct commander. Recurrente de estación. Su problema no es "atrapar a Cole": es que alguien prendió otro incendio en su distrito.
+- **Thomas Reade** — Captain / precinct commander. Recurrente de estación. Su problema no es "atrapar a Kal": es que alguien prendió otro incendio en su distrito.
 - **Rosa Ramirez** — Lieutenant / watch commander. Controla turnos, unidades, cierres de calles, perímetros y primeras coordinaciones.
 
 ### Patrulla
@@ -72,7 +72,7 @@ Los demás oficiales no necesitan nombre. Responden 911, aseguran escenas, persi
 - **Denise Harrow** — Detective Lieutenant. Supervisa detectives y decide quién toma casos importantes.
 - **[[02_Characters/Luis_Ortega]]** — Detective 1 / Homicidios. Principal detective policial del caso Mercer.
 - **[[02_Characters/Gloria_Chen]]** — Detective 2 / Crimen Organizado-Vice. Conoce a Varek, clubes, apuestas, extorsión, narcóticos e informantes.
-- **[[02_Characters/Noah_Pierce]]** — Detective 3 / generalista joven. Compañero de Luis; permite discutir la teoría de Cole desde otra mirada.
+- **[[02_Characters/Noah_Pierce]]** — Detective 3 / generalista joven. Compañero de Luis; permite discutir la teoría de Kal desde otra mirada.
 
 La fórmula narrativa:
 
@@ -94,9 +94,9 @@ Su valor estructural no es ser policía en abstracto: es un hombre del Departame
 
 ### Tránsito y carreras
 
-El Peugeot rojo de [[02_Characters/Cole_Mercer]] ya tiene reputación entre policías. Las carreras ilegales del norte y la zona de Kingsley Field le dan al Departamento una entrada temprana al mundo de Cole sin entender todavía qué están mirando.
+El Peugeot rojo de [[02_Characters/Kal_Mercer]] ya tiene reputación entre policías. Las carreras ilegales del norte y la zona de Kingsley Field le dan al Departamento una entrada temprana al mundo de Kal sin entender todavía qué están mirando.
 
-En [[06_Relationships/Hitos#H9 — La carrera de máscaras|H9]] (Capítulo 9), durante la redada de la carrera, una comunicación policial identifica el **Peugeot rojo** como el coche conocido/buscado, pero **no** a Cole ni a Chiara ni el vínculo entre ellos — el expediente del coche suma una entrada más sin cara. Blake Stanton no participa en esa noche; queda disponible que se entere del Peugeot más adelante.
+En [[06_Relationships/Hitos#H9 — La carrera de máscaras|H9]] (Capítulo 9), durante la redada de la carrera, una comunicación policial identifica el **Peugeot rojo** como el coche conocido/buscado, pero **no** a Kal ni a Chiara ni el vínculo entre ellos — el expediente del coche suma una entrada más sin cara. Blake Stanton no participa en esa noche; queda disponible que se entere del Peugeot más adelante.
 
 Ver [[06_Relationships/Hitos]], H9.
 
@@ -106,7 +106,7 @@ Ver [[06_Relationships/Hitos]], H9.
 
 No representa al Departamento entero. Representa una memoria de calle que los federales no tienen: familias, clubes, cadáveres, favores viejos y mentiras que suenan locales.
 
-Dentro de la policía local, Luis es Detective 1 / Homicidios: el principal antagonista policial de Cole antes de que los federales cambien la escala.
+Dentro de la policía local, Luis es Detective 1 / Homicidios: el principal antagonista policial de Kal antes de que los federales cambien la escala.
 
 ---
 
@@ -125,7 +125,7 @@ Su curva obligatoria:
 5. **Santa Lucía + montaña:** la hipótesis se rompe; Dario está detenido y la violencia continúa.
 6. **Halbrook:** su muerte pública en la explanada del Ayuntamiento impide conservar el caso como un problema exclusivamente local.
 
-Cada enfrentamiento importante debe dejar evidencia física, testigos imperfectos, versiones contradictorias, patrones y consecuencias jurídicas. La institución puede sospechar que alguien coordina más de lo que parece; no puede disponer inmediatamente del mapa `Dario vs Halbrook vs Cole/Chiara`.
+Cada enfrentamiento importante debe dejar evidencia física, testigos imperfectos, versiones contradictorias, patrones y consecuencias jurídicas. La institución puede sospechar que alguien coordina más de lo que parece; no puede disponer inmediatamente del mapa `Dario vs Halbrook vs Kal/Chiara`.
 
 Ver la matriz obligatoria de percepción y prueba en [[04_Concepts/La_Guerra_de_los_Tres#Matriz obligatoria de enfrentamientos]].
 
@@ -135,11 +135,11 @@ Ver la matriz obligatoria de percepción y prueba en [[04_Concepts/La_Guerra_de_
 
 Al inicio, la relación es de ceguera práctica: una grúa con convenio municipal parece una herramienta del orden, no un vector criminal.
 
-En el primer capítulo, [[02_Characters/Cole_Mercer]] se reúne muy temprano con [[02_Characters/Raymond_Keene]] para proponer un acuerdo de renta mensual: mantenimiento preventivo, prioridad de reparación y reparaciones financiadas a noventa días para unidades de la comisaría. Keene acepta un piloto parcial. La utilidad real para Cole no es sólo el ingreso: una patrulla entrando al taller cada semana vuelve normal que Almendra Towing esté cerca del Departamento.
+En el primer capítulo, [[02_Characters/Kal_Mercer]] se reúne muy temprano con [[02_Characters/Raymond_Keene]] para proponer un acuerdo de renta mensual: mantenimiento preventivo, prioridad de reparación y reparaciones financiadas a noventa días para unidades de la comisaría. Keene acepta un piloto parcial. La utilidad real para Kal no es sólo el ingreso: una patrulla entrando al taller cada semana vuelve normal que Almendra Towing esté cerca del Departamento.
 
-Después pasa a negociación indirecta: Cole puede darles casos, coches, culpables menores, información parcial. Chiara puede decidir qué arresto conviene que parezca importante.
+Después pasa a negociación indirecta: Kal puede darles casos, coches, culpables menores, información parcial. Chiara puede decidir qué arresto conviene que parezca importante.
 
-El Departamento cree que usa a Cole como fuente. Cole cree que usa al Departamento como válvula. Chiara sabe que la ciudad cree lo que vea impreso al día siguiente.
+El Departamento cree que usa a Kal como fuente. Kal cree que usa al Departamento como válvula. Chiara sabe que la ciudad cree lo que vea impreso al día siguiente.
 
 ---
 
@@ -147,7 +147,7 @@ El Departamento cree que usa a Cole como fuente. Cole cree que usa al Departamen
 
 La Policía de San Aurelio resiente a los federales porque llegan cuando el caso ya tiene presupuesto, cámaras o escala internacional.
 
-Eso crea un ángulo útil: cuando la fuerza federal entra contra Cole, el Departamento no necesariamente coopera por obediencia. Coopera, compite, filtra o estorba según quién gane con el crédito.
+Eso crea un ángulo útil: cuando la fuerza federal entra contra Kal, el Departamento no necesariamente coopera por obediencia. Coopera, compite, filtra o estorba según quién gane con el crédito.
 
 Vega choca con los federales por una razón simple:
 
@@ -171,7 +171,7 @@ La policía necesita encontrar y detener. La fiscalía necesita probar. Esa dife
 
 > **PENDIENTE:** si Blake Stanton vuelve como amenaza seria, víctima de su propio orgullo o fuente útil sin saberlo.
 
-> **PENDIENTE:** qué expediente local permite que los federales entren por primera vez a la historia de Cole.
+> **PENDIENTE:** qué expediente local permite que los federales entren por primera vez a la historia de Kal.
 
 ---
 

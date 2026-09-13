@@ -19,7 +19,7 @@ Antes de escribir una escena con traslado, persecucion, entrega, vigilancia o hu
 3. **Jurisdiccion:** policia local, puerto, aeropuerto, hospital, municipalidad o federal.
 4. **Ventaja:** quien conoce el atajo, quien puede cerrar el paso y quien pierde tiempo por no pertenecer al lugar.
 
-Cole suele ganar por conocimiento fisico de la ciudad. Chiara suele ganar por saber a quien avisarle, que rumor empujar y que puerta social abrir. Los federales ganan cuando convierten esas rutas en patrones.
+Kal suele ganar por conocimiento fisico de la ciudad. Chiara suele ganar por saber a quien avisarle, que rumor empujar y que puerta social abrir. Los federales ganan cuando convierten esas rutas en patrones.
 
 ---
 
@@ -53,11 +53,11 @@ Cole suele ganar por conocimiento fisico de la ciudad. Chiara suele ganar por sa
 | --- | --- | --- | --- |
 | **CA-19 / Autopista Costera** | Distrito Marino, La Isla, Puerto Viejo | Turistas, ejecutivos, Saints, policia de transito | Rapida pero visible; muchas camaras y patrullas |
 | **Bulevar Corona** | Costa, Calle Corona, La Almendra | Civiles, patrullas, ambulancias, prensa | Facil de cerrar; mala ruta para desaparecer |
-| **Avenida Almendra** | Centro viejo con La Almendra | Gruas, talleres, vecinos, Cole | Cole tiene ventaja por calles secundarias |
+| **Avenida Almendra** | Centro viejo con La Almendra | Gruas, talleres, vecinos, Kal | Kal tiene ventaja por calles secundarias |
 | **Terminal Road / Ruta de Muelles** | Puerto Viejo, bodegas, aduana | Camiones, Varek, contrabandistas | Camaras, guardias privados, registros de carga |
 | **Via de las Refinerias** | Puerto Viejo, Los Alamos, norte industrial | Chatarra, carga sucia, Alamo Salvage | Poca presencia publica, mucha vigilancia informal |
 | **Carretera de Milla** | Kingsley Field, caminos rurales, taller del norte | Corredores, Tyler, Marcadores | Baja visibilidad; perfecta para carreras y emboscadas |
-| **Ronda Exterior** | Evita Calle Corona por periferia | Cole, patrullas, camionetas de reparto | Util para rodear cierres; vulnerable en accesos |
+| **Ronda Exterior** | Evita Calle Corona por periferia | Kal, patrullas, camionetas de reparto | Util para rodear cierres; vulnerable en accesos |
 | **Subida de Cuesta** | Centro y Distrito Marino hacia Cuesta Bonita y Lomas de San Jacinto | Elite, escoltas, servicio domestico | Pocas salidas; todo vehiculo fuera de lugar se nota |
 | **Camino de San Jacinto** | Lomas, Bellandi Ridge, carretera interior al norte | Residentes, proveedores, viñedos, escoltas | Ruta bonita y expuesta; mala para moverse caliente |
 | **Alder Cutoff** | Kingsley Field, Camp Alder, Cedar Flats | Militares, contratistas, carga rural | Cualquier error toca jurisdicción federal |
@@ -72,10 +72,10 @@ No son tiempos de GPS. Son tiempos de escena: trafico, hora, presion policial y 
 
 | Trayecto | Normal | Bajo presion | Uso |
 | --- | ---: | ---: | --- |
-| La Almendra -> The Monarch / Distrito Marino | 22 min | 14 min por atajos industriales; 35+ con cierres | Chiara entre casino y mundo de Cole |
+| La Almendra -> The Monarch / Distrito Marino | 22 min | 14 min por atajos industriales; 35+ con cierres | Chiara entre casino y mundo de Kal |
 | The Monarch / penthouse -> Il Gelsomino | 8-15 min | 6-10 min | Citas, acuerdos, cenas vigiladas |
 | The Monarch -> Hipodromo | misma propiedad (a pie) | — | Vida de elite, caballerizas, H12 *(el hipodromo del Monarch es la misma propiedad; ver [[05_Locations/Hipodromo_Del_Monarch]])* |
-| Hipodromo -> Hospital Santa Aurelia | 16 min | 9-11 min si Cole conduce al limite | Ataque a Chiara (H12) |
+| Hipodromo -> Hospital Santa Aurelia | 16 min | 9-11 min si Kal conduce al limite | Ataque a Chiara (H12) |
 | La Almendra -> Hospital Santa Aurelia | 12-18 min | 10 min, pero muy visible | Heridas oficiales, escenas con reporte |
 | La Almendra -> Villa Candelaria / Lomas de San Jacinto | 30-38 min | 24 min | Distancia fisica y de clase |
 | La Villa -> Iglesia Santa Lucia | 18-25 min | 15 min | Fe, velas, retorno emocional |
@@ -122,7 +122,7 @@ No son tiempos de GPS. Son tiempos de escena: trafico, hora, presion policial y 
 
 **Fase III - Norte:** Rutas de Milla, Kingsley Field, taller del norte, carreras y pilotos. Tyler, Harper y los jovenes del Patio vuelven util lo que antes era periferia.
 
-**Fase IV - Puerto, costa y parcelas:** Terminal Road, La Isla, bodegas, seguridad de piso, Cedar Flats y rutas de suministro. Cole deja de mover autos y empieza a mover mercado.
+**Fase IV - Puerto, costa y parcelas:** Terminal Road, La Isla, bodegas, seguridad de piso, Cedar Flats y rutas de suministro. Kal deja de mover autos y empieza a mover mercado.
 
 **Fase V - Escala internacional:** puerto, aeropuerto, sociedades, bancos, casino, Cross River y rutas que ya no caben en San Aurelio. Aqui entra Meridian.
 
@@ -139,7 +139,7 @@ Dario no necesita conocer cada calle. Su poder esta en los accesos grandes:
 - Bandas del sur para ruido y presion.
 - La Isla para consumo, piso y ocio.
 
-Su debilidad aparece cuando Cole controla rutas chicas que Dario siempre considero inferiores: gruas, talleres, patios, atajos, favores de barrio y personas que no salian en sus libros.
+Su debilidad aparece cuando Kal controla rutas chicas que Dario siempre considero inferiores: gruas, talleres, patios, atajos, favores de barrio y personas que no salian en sus libros.
 
 ---
 
@@ -148,7 +148,7 @@ Su debilidad aparece cuando Cole controla rutas chicas que Dario siempre conside
 | Lugar | Ubicacion recomendada | Razon |
 | --- | --- | --- |
 | The Monarch Casino & Hotel | Borde del Distrito Marino, cerca de La Isla pero no dentro | Permite elite, turismo, noche, vigilancia privada y penthouse; no queda encerrado en territorio motociclista |
-| Il Gelsomino | Frontera Calle Corona / Distrito Marino | Respetable para Chiara, accesible para Cole, util para prensa y politicos |
+| Il Gelsomino | Frontera Calle Corona / Distrito Marino | Respetable para Chiara, accesible para Kal, util para prensa y politicos |
 | Gabriella's | Frontera La Isla / Santa Brigida | Fiesta, costa y peligro de barrio en la misma noche |
 | Hipodromo | Borde noreste entre Cuesta Bonita y Rutas de Milla | Elite, caballos, caballerizas y ruta rapida hacia hospital |
 | Casa comunitaria | La Almendra | El barrio ve llegar a Chiara por primera vez |

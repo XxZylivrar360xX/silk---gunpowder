@@ -4,13 +4,13 @@
 
 *Seda y Pólvora — Ficha de Personaje*
 
-> **CANON DEL AUTOR (2026-08-31).** El nombre verdadero es **Elenna Mercer**, con doble `n`. Durante su resguardo en Italia usa documentación como **Elenna Serra**. `Serra` no es su apellido real y no crea parentesco con ninguna familia: es una identidad destinada a cortar vínculos visibles con Cole, Chiara, Corrado y Riley.
+> **CANON DEL AUTOR (2026-08-31).** El nombre verdadero es **Elenna Mercer**, con doble `n`. Durante su resguardo en Italia usa documentación como **Elenna Serra**. `Serra` no es su apellido real y no crea parentesco con ninguna familia: es una identidad destinada a cortar vínculos visibles con Kal, Chiara, Corrado y Riley.
 
 ## Datos básicos
 
 **Nombre verdadero:** Elenna Mercer  
 **Identidad documental de resguardo:** Elenna Serra  
-**Padre biológico:** [[02_Characters/Cole_Mercer|Cole Mercer]]  
+**Padre biológico:** [[02_Characters/Kal_Mercer|Kal Mercer]]  
 **Madre biológica:** [[02_Characters/Chiara_Bellandi|Chiara Ardizzone Bellandi]], públicamente Chiara Bellandi  
 **Nacimiento:** durante *Voto de Ceniza* (Libro II); fecha exacta pendiente  
 **Estado público:** fallecida al nacer  
@@ -18,28 +18,28 @@
 **Lugar de resguardo:** Italia; localización exacta pendiente  
 **Cuidadora durante el resguardo:** [[02_Characters/Riley_Bennett|Riley Bennett]]
 
-Para la mayoría del mundo, la hija de Cole Mercer y Chiara Bellandi muere durante o alrededor del parto. La formulación pública exacta todavía no existe. En realidad, Elenna es retirada del tablero y pasa aproximadamente su primer año en Italia bajo la identidad **Elenna Serra**.
+Para la mayoría del mundo, la hija de Kal Mercer y Chiara Bellandi muere durante o alrededor del parto. La formulación pública exacta todavía no existe. En realidad, Elenna es retirada del tablero y pasa aproximadamente su primer año en Italia bajo la identidad **Elenna Serra**.
 
 Ni [[02_Characters/Dario_Varek|Dario Varek]] ni [[02_Characters/Warren_Halbrook|Warren Halbrook]] saben que sobrevivió. Eso no cambia sin una decisión explícita posterior del autor.
 
 ## Apariencia
 
-Durante sus primeros meses, Elenna parece primero hija de Cole. No es una mezcla visual calculada por mitades: quieta, la lectura de él llega antes; conforme crece y empieza a moverse, Chiara aparece con mayor claridad.
+Durante sus primeros meses, Elenna parece primero hija de Kal. No es una mezcla visual calculada por mitades: quieta, la lectura de él llega antes; conforme crece y empieza a moverse, Chiara aparece con mayor claridad.
 
 - **Cabello:** nace con el cabello rubio ceniza muy claro. Durante su primer año comienza a oscurecerse hacia rubio oscuro o castaño claro. El color adulto no está fijado.
-- **Ojos:** azul grisáceo al nacer y durante los primeros meses. Al estabilizarse el color, verde grisáceo con un anillo o componente azul alrededor del iris: un punto de encuentro visual entre el azul lavado de Cole y el verde cambiante de Chiara. La forma es almendrada, como la de Chiara.
-- **Piel:** clara, con subtono oliva cálido; más clara que Chiara, pero no idéntica a la piel nórdica de Cole.
-- **Rostro:** ojos almendrados y nariz recta de Chiara; frente y estructura ósea de Cole; mandíbula de Cole suavizada. Durante su primer año conserva las facciones redondas propias de un bebé.
-- **Cejas:** notablemente más oscuras que el cabello durante la primera infancia. Son uno de los primeros detalles donde Chiara se vuelve visible aun cuando el parecido dominante todavía es con Cole.
+- **Ojos:** azul grisáceo al nacer y durante los primeros meses. Al estabilizarse el color, verde grisáceo con un anillo o componente azul alrededor del iris: un punto de encuentro visual entre el azul lavado de Kal y el verde cambiante de Chiara. La forma es almendrada, como la de Chiara.
+- **Piel:** clara, con subtono oliva cálido; más clara que Chiara, pero no idéntica a la piel nórdica de Kal.
+- **Rostro:** ojos almendrados y nariz recta de Chiara; frente y estructura ósea de Kal; mandíbula de Kal suavizada. Durante su primer año conserva las facciones redondas propias de un bebé.
+- **Cejas:** notablemente más oscuras que el cabello durante la primera infancia. Son uno de los primeros detalles donde Chiara se vuelve visible aun cuando el parecido dominante todavía es con Kal.
 - **Complexión:** brazos y piernas ligeramente largos para su edad. Es probable que sea alta; no se fija una altura adulta.
 
-No hereda marcas como inventario. No necesita la cicatriz de Cole, un lunar de Chiara ni una colección literal de piezas reconocibles. El contraste importante es más sencillo: **quieta puede recordar muchísimo a Cole; cuando sonríe o se ríe, Chiara aparece.**
+No hereda marcas como inventario. No necesita la cicatriz de Kal, un lunar de Chiara ni una colección literal de piezas reconocibles. El contraste importante es más sencillo: **quieta puede recordar muchísimo a Kal; cuando sonríe o se ríe, Chiara aparece.**
 
 ## Quién es
 
 Elenna es un bebé durante el tramo que esta ficha organiza. No tiene todavía una personalidad adulta, un destino ni capacidades excepcionales que puedan proyectarse sobre ella.
 
-Su curiosidad, reacción ante voces, apego, sueño, risa y conducta motriz sólo deben fijarse cuando una escena los necesite y el autor los decida. No atribuirle por anticipado la astucia de Chiara, la terquedad de Cole, una inteligencia extraordinaria ni un temperamento criminal. Antes que símbolo, vulnerabilidad o herencia, es una niña con una experiencia propia del mundo.
+Su curiosidad, reacción ante voces, apego, sueño, risa y conducta motriz sólo deben fijarse cuando una escena los necesite y el autor los decida. No atribuirle por anticipado la astucia de Chiara, la terquedad de Kal, una inteligencia extraordinaria ni un temperamento criminal. Antes que símbolo, vulnerabilidad o herencia, es una niña con una experiencia propia del mundo.
 
 ## El nombre que no puede usar
 
@@ -51,17 +51,17 @@ El nombre de resguardo no reemplaza su identidad canónica y no convierte a Rile
 
 ## El embarazo
 
-> **CANON DEL AUTOR (2026-08-31).** Chiara ya confirmó el embarazo cuando ocurre [[06_Relationships/Hitos#H1 — El regreso a casa|H1]], en el **Libro I**. Cole todavía no lo sabe.
+> **CANON DEL AUTOR (2026-08-31).** Chiara ya confirmó el embarazo cuando ocurre [[06_Relationships/Hitos#H1 — El regreso a casa|H1]], en el **Libro I**. Kal todavía no lo sabe.
 
-Chiara lleva muy poco tiempo sabiéndolo y planea contárselo cuando Cole regrese de la operación. No quiere alterar su cabeza antes del peligro ni convertir la noticia en algo recibido mirando el reloj. No es manipulación ni secreto prolongado: espera unas horas para compartirla bien, en casa.
+Chiara lleva muy poco tiempo sabiéndolo y planea contárselo cuando Kal regrese de la operación. No quiere alterar su cabeza antes del peligro ni convertir la noticia en algo recibido mirando el reloj. No es manipulación ni secreto prolongado: espera unas horas para compartirla bien, en casa.
 
-Cuando dice *Retorna a casa*, Cole cree que habla de los dos y Chiara sabe que habla de los tres. Cuando él dice *“Solo quiero llegar a casa, porque me esperan”*, lucha por volver hasta Elenna sin saber que existe. La primera participación dramática de Elenna es, por tanto, estar dentro de la casa a la que su padre intenta regresar. No subrayarlo en prosa futura.
+Cuando dice *Retorna a casa*, Kal cree que habla de los dos y Chiara sabe que habla de los tres. Cuando él dice *“Solo quiero llegar a casa, porque me esperan”*, lucha por volver hasta Elenna sin saber que existe. La primera participación dramática de Elenna es, por tanto, estar dentro de la casa a la que su padre intenta regresar. No subrayarlo en prosa futura.
 
-El embarazo no reemplaza el amor como motivo de H1. Chiara no revela la noticia durante la hemorragia, la atención médica, el baño ni el pico de la secuencia. Se la cuenta sólo después de que Cole está fuera de peligro, duerme, empieza a recuperarse y regresa cierta normalidad doméstica.
+El embarazo no reemplaza el amor como motivo de H1. Chiara no revela la noticia durante la hemorragia, la atención médica, el baño ni el pico de la secuencia. Se la cuenta sólo después de que Kal está fuera de peligro, duerme, empieza a recuperarse y regresa cierta normalidad doméstica.
 
 El Libro I construye poder y expectativa de familia al mismo tiempo. *Voto de Ceniza* (Libro II) recibe a Chiara ya embarazada y obliga a ambos a sacrificar la posibilidad de vivir esa familia normalmente.
 
-No están fijadas la fecha de concepción, los días exactos antes de H1, el mecanismo de confirmación, el diálogo del reveal, la reacción textual de Cole, la semana de gestación ni cuánto embarazo ha transcurrido al abrir *Voto de Ceniza*.
+No están fijadas la fecha de concepción, los días exactos antes de H1, el mecanismo de confirmación, el diálogo del reveal, la reacción textual de Kal, la semana de gestación ni cuánto embarazo ha transcurrido al abrir *Voto de Ceniza*.
 
 ## La falsa muerte
 
@@ -69,7 +69,7 @@ Elenna nace durante el primer tramo importante de *Voto de Ceniza* (Libro II), c
 
 Debe existir un detonante concreto que vuelva inaceptable mantener su existencia dentro del tablero, pero ese detonante todavía no ha sido decidido.
 
-Para el mundo, la hija de Cole y Chiara muere durante o alrededor del parto. La ficha fija únicamente el resultado narrativo:
+Para el mundo, la hija de Kal y Chiara muere durante o alrededor del parto. La ficha fija únicamente el resultado narrativo:
 
 > **Estado público: fallecida al nacer.**  
 > **Estado real: viva.**
@@ -82,36 +82,36 @@ Muy pocas personas conocen la verdad. La lista exacta y el momento en que cada p
 
 > Arquitectura completa en [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map|el Book Map de Voto de Ceniza]]; calibración tonal no diegética en [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]]. Resumen aquí sólo lo que toca directamente a Elenna.
 
-**Voto de Ceniza no abre cronológicamente.** El Capítulo 1 es un flashforward de ~9 meses: nacimiento de Elenna, una breve pertenencia real, la aparente muerte, el duelo público de San Aurelio y el duelo privado de Chiara, y Cole en [[05_Locations/El_Mirador|El Mirador]]. **No confirma todavía** que Elenna sobrevivió, que fue enviada a Italia ni que Riley está implicada — el lector puede leer legítimamente que murió. Cierra con Cole diciéndole a Héctor:
+**Voto de Ceniza no abre cronológicamente.** El Capítulo 1 es un flashforward de ~9 meses: nacimiento de Elenna, una breve pertenencia real, la aparente muerte, el duelo público de San Aurelio y el duelo privado de Chiara, y Kal en [[05_Locations/El_Mirador|El Mirador]]. **No confirma todavía** que Elenna sobrevivió, que fue enviada a Italia ni que Riley está implicada — el lector puede leer legítimamente que murió. Cierra con Kal diciéndole a Héctor:
 
 > —La perdí, Héctor.
 > La perdí y no sé cómo voy a continuar.
 
 Verdadera, de significado deliberadamente abierto. Cuando la cronología alcanza otra vez el nacimiento (más adelante en el libro), se muestra la progresión completa: nacimiento → pertenencia → separación → entrega → vacío → duelo público → duelo privado → vida clandestina.
 
-**El motivo del dedo:** al nacer, Elenna cierra la mano en torno a uno de los dedos de Cole. En la pista clandestina donde la entrega, Cole debe retirar ese mismo dedo de la mano de Elenna para dársela a quien la recibe. No sobreexplicar el paralelismo.
+**El motivo del dedo:** al nacer, Elenna cierra la mano en torno a uno de los dedos de Kal. En la pista clandestina donde la entrega, Kal debe retirar ese mismo dedo de la mano de Elenna para dársela a quien la recibe. No sobreexplicar el paralelismo.
 
-**La entrega:** Cole saca personalmente a Elenna del hospital y la lleva a una pista clandestina — posiblemente la misma infraestructura, o una fuertemente asociada, a la que sacó a Riley de San Aurelio en F2 (**no fijado que sea literalmente la misma — PENDIENTE**). Ahí lo espera una figura con gabardina y capucha que resulta ser Riley Bennett. La revelación es simultánea para Cole y para el lector; Chiara ya lo sabía y sólo había dicho, durante la planificación, algo equivalente a *"yo me encargaré de que haya alguien de confianza al otro lado"* — dejando que Cole (y el lector) asuman que se refiere a Ettore.
+**La entrega:** Kal saca personalmente a Elenna del hospital y la lleva a una pista clandestina — posiblemente la misma infraestructura, o una fuertemente asociada, a la que sacó a Riley de San Aurelio en F2 (**no fijado que sea literalmente la misma — PENDIENTE**). Ahí lo espera una figura con gabardina y capucha que resulta ser Riley Bennett. La revelación es simultánea para Kal y para el lector; Chiara ya lo sabía y sólo había dicho, durante la planificación, algo equivalente a *"yo me encargaré de que haya alguien de confianza al otro lado"* — dejando que Kal (y el lector) asuman que se refiere a Ettore.
 
 ## Riley
 
 > **CANON DE DISEÑO.** [[02_Characters/Riley_Bennett|Riley Bennett]] cuida a Elenna durante su periodo de resguardo en Italia.
 
-La elección cobra el arco anterior de Riley: Chiara la formó; Cole y Chiara tuvieron que apartarla de San Aurelio para salvarla; después confían en ella aquello que más necesitan proteger.
+La elección cobra el arco anterior de Riley: Chiara la formó; Kal y Chiara tuvieron que apartarla de San Aurelio para salvarla; después confían en ella aquello que más necesitan proteger.
 
 Riley no es una niñera funcional, una empleada, una sustituta descartable de Chiara ni una segunda madre construida para competir con ella. Asumir el cuidado de Elenna tiene que conservar su agencia, su vida propia y un costo emocional real. La localización, la cobertura legal y la logística no pueden borrar que Riley también vive una separación y carga una responsabilidad que reorganiza su propia historia.
 
-Elenna desarrolla un apego real hacia Riley, porque Riley es su persona de seguridad cotidiana durante una etapa fundamental. Ese vínculo debe sobrevivir cuando Cole y Chiara recuperen físicamente a su hija.
+Elenna desarrolla un apego real hacia Riley, porque Riley es su persona de seguridad cotidiana durante una etapa fundamental. Ese vínculo debe sobrevivir cuando Kal y Chiara recuperen físicamente a su hija.
 
-La convivencia con sus padres no se restablece de manera instantánea. Elenna puede llegar a conocer voces, fotografías o sonidos, pero no por eso reconoce de inmediato a Cole y Chiara como las personas que satisfacen sus necesidades diarias. El reencuentro debe ser gradual, respetar la experiencia emocional de una niña de aproximadamente un año y no borrar a Riley. La reacción exacta de Elenna permanece pendiente.
+La convivencia con sus padres no se restablece de manera instantánea. Elenna puede llegar a conocer voces, fotografías o sonidos, pero no por eso reconoce de inmediato a Kal y Chiara como las personas que satisfacen sus necesidades diarias. El reencuentro debe ser gradual, respetar la experiencia emocional de una niña de aproximadamente un año y no borrar a Riley. La reacción exacta de Elenna permanece pendiente.
 
 ## Las fotografías
 
 > **CANON DE DISEÑO.** Durante la separación, Riley envía fotografías muy escasas de Elenna.
 
-Cole y Chiara las reciben, las observan y después las destruyen. Las fotografías terminan quemadas en la chimenea de [[05_Locations/La_Villa|Villa Candelaria]] para no dejar evidencia capaz de conducir hasta la niña.
+Kal y Chiara las reciben, las observan y después las destruyen. Las fotografías terminan quemadas en la chimenea de [[05_Locations/La_Villa|Villa Candelaria]] para no dejar evidencia capaz de conducir hasta la niña.
 
-No es rechazo ni una rutina que deba repetirse en cada capítulo. Cada fotografía existe para marcar una variación concreta: Elenna está creciendo mientras sus padres no están ahí. En las primeras puede parecer casi por entero hija de Cole; las diferencias pequeñas empiezan a introducir a Chiara.
+No es rechazo ni una rutina que deba repetirse en cada capítulo. Cada fotografía existe para marcar una variación concreta: Elenna está creciendo mientras sus padres no están ahí. En las primeras puede parecer casi por entero hija de Kal; las diferencias pequeñas empiezan a introducir a Chiara.
 
 La cantidad exacta de fotografías no está fijada.
 
@@ -127,26 +127,26 @@ H22 ocurre dentro de *Voto de Ceniza* (Libro II), después de que la separación
 
 Riley envía un dispositivo o memoria USB. Debe conservarse este intercambio:
 
-> **Cole:** —¿Llegó la foto?  
+> **Kal:** —¿Llegó la foto?  
 > **Chiara:** —No precisamente.  
-> **Cole:** —¿Has visto el contenido?  
+> **Kal:** —¿Has visto el contenido?  
 > **Chiara:** —No quiero hacerlo sola.
 
 Lo ven juntos. En el video, Elenna está apoyada contra un sofá y Riley permanece cerca. Elenna da sus primeros pasos hacia Riley. Riley se ríe y Elenna también.
 
-Es la primera vez que Cole y Chiara ven a su hija **moverse**. Hasta ese momento sólo han recibido imágenes quietas: en ellas predomina el parecido con Cole. En movimiento, y sobre todo al reírse, aparece Chiara.
+Es la primera vez que Kal y Chiara ven a su hija **moverse**. Hasta ese momento sólo han recibido imágenes quietas: en ellas predomina el parecido con Kal. En movimiento, y sobre todo al reírse, aparece Chiara.
 
-El video sólo puede verse una vez o queda inutilizable después por el mecanismo de seguridad que se decida. La tecnología no está fijada y no debe explicarse todavía. Cuando termina, **Cole intenta reproducirlo otra vez y no puede**. No verbalizar la relación entre el video irrepetible y los primeros pasos que tampoco presenció.
+El video sólo puede verse una vez o queda inutilizable después por el mecanismo de seguridad que se decida. La tecnología no está fijada y no debe explicarse todavía. Cuando termina, **Kal intenta reproducirlo otra vez y no puede**. No verbalizar la relación entre el video irrepetible y los primeros pasos que tampoco presenció.
 
-La guerra sigue abierta y Cole y Chiara todavía no han ganado San Aurelio. El video demuestra que, mientras siguen inmersos en el conflicto e intentan asegurar la ciudad, están perdiendo tiempo irrepetible de la infancia de Elenna.
+La guerra sigue abierta y Kal y Chiara todavía no han ganado San Aurelio. El video demuestra que, mientras siguen inmersos en el conflicto e intentan asegurar la ciudad, están perdiendo tiempo irrepetible de la infancia de Elenna.
 
 **H22 es el momento donde cambia la pregunta estratégica:** de *¿cómo hacemos San Aurelio suficientemente seguro para traer a Elenna?* a *¿cómo construimos una estructura capaz de funcionar sin nosotros para poder ir hacia ella?* Aquí nace conscientemente la arquitectura de salida que se desarrollará después y sembrará [[11_Books/Book_03_Interregno/00_Book_Map|Interregno]]. La decisión estratégica nace en H22; la ejecución de la salida ocurre mucho después. No se retiran inmediatamente: la guerra sigue abierta.
 
-## El lugar que ocupa en Cole
+## El lugar que ocupa en Kal
 
-Elenna vuelve insuficiente la solución que ha organizado la vida de Cole. Construir poder, rutas, favores y territorio puede mantener amenazas lejos; no puede devolverle el tiempo que su hija crece sin él.
+Elenna vuelve insuficiente la solución que ha organizado la vida de Kal. Construir poder, rutas, favores y territorio puede mantener amenazas lejos; no puede devolverle el tiempo que su hija crece sin él.
 
-La protección por ausencia repite el impulso más peligroso de Cole: amar a alguien y decidir solo qué pérdida debe aceptar esa persona para seguir viva. El arco no invalida la decisión inmediata de ocultarla; obliga a que esa decisión deje de parecer una solución permanente.
+La protección por ausencia repite el impulso más peligroso de Kal: amar a alguien y decidir solo qué pérdida debe aceptar esa persona para seguir viva. El arco no invalida la decisión inmediata de ocultarla; obliga a que esa decisión deje de parecer una solución permanente.
 
 No convertir su paternidad en posesión, apellido dinástico o promesa de imperio. Mercer es el nombre real de Elenna, no un trono que deba heredar.
 
@@ -172,11 +172,11 @@ Elenna no existe únicamente para elevar las apuestas. Su existencia transforma 
 > **Después:** ¿de qué sirve ganar si nuestra hija no puede vivir con nosotros?  
 > **Finalmente:** ¿cómo construimos algo que pueda funcionar sin nosotros para poder volver con ella?
 
-Por eso es un motor del paso de **conquista** a **consolidación** y después a **arquitectura de salida**. Mientras San Aurelio ve a Cole y Chiara convertirse en una pareja cada vez más poderosa, aquello que más quieren crece lejos bajo el nombre Elenna Serra.
+Por eso es un motor del paso de **conquista** a **consolidación** y después a **arquitectura de salida**. Mientras San Aurelio ve a Kal y Chiara convertirse en una pareja cada vez más poderosa, aquello que más quieren crece lejos bajo el nombre Elenna Serra.
 
-> **EASTER EGG SEMBRADO (2026-09-03):** en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/17_El_Sobre_Rojo|Capítulo 17, sección *Cuatro letras*]], mucho antes de que Elenna exista siquiera como idea, Héctor le dice a Chiara: *"Lo que a mí me faltó no fue valor. Fue construir algo que no necesitara que yo estuviera siempre ahí parado para que no se cayera... Si necesita que uno esté presente todo el tiempo para no derrumbarse, no lo construyó. Lo sostuvo con el cuerpo. Y sostener algo con el cuerpo no es lo mismo que vivir."* Nadie en esa escena sabe por qué importa. Es la semilla temática exacta de la futura conversación entre Cole y Chiara sobre el mecanismo autosustentable que le permita a San Aurelio funcionar sin ellos, para poder volver con Elenna. Considerar un eco textual (no necesariamente literal) cuando se escriba esa conversación futura.
+> **EASTER EGG SEMBRADO (2026-09-03):** en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/17_El_Sobre_Rojo|Capítulo 17, sección *Cuatro letras*]], mucho antes de que Elenna exista siquiera como idea, Héctor le dice a Chiara: *"Lo que a mí me faltó no fue valor. Fue construir algo que no necesitara que yo estuviera siempre ahí parado para que no se cayera... Si necesita que uno esté presente todo el tiempo para no derrumbarse, no lo construyó. Lo sostuvo con el cuerpo. Y sostener algo con el cuerpo no es lo mismo que vivir."* Nadie en esa escena sabe por qué importa. Es la semilla temática exacta de la futura conversación entre Kal y Chiara sobre el mecanismo autosustentable que le permita a San Aurelio funcionar sin ellos, para poder volver con Elenna. Considerar un eco textual (no necesariamente literal) cuando se escriba esa conversación futura.
 
-> **SEGUNDO EASTER EGG SEMBRADO (2026-09-03):** en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Capítulo 3]], en un recuerdo profundo y privado de Cole (Afganistán, memoria pura, nunca hablada en voz alta), Jim Keegan lo ve tratar con calidez a niños de un pueblo y le dice "tienes madera de padre, Mercer". Cole responde que no tuvo un buen ejemplo para serlo; Jim contesta que ser cálido con los niños pese a eso es justamente la prueba de que está equivocado. Años antes de que Elenna exista como idea, y años antes de que Cole sepa que va a ser padre. No es el pago del arco de Elenna — es la semilla que confirma, desde mucho antes, que el miedo de Cole a no poder ser buen padre (ver "El lugar que ocupa en Cole", arriba) ya estaba siendo desmentido por alguien que lo quería, en un momento que Cole nunca reconoce conscientemente como relevante hasta mucho después. Considerar un eco textual cuando se escriba el arco de Elenna.
+> **SEGUNDO EASTER EGG SEMBRADO (2026-09-03):** en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Capítulo 3]], en un recuerdo profundo y privado de Kal (Afganistán, memoria pura, nunca hablada en voz alta), Jim Keegan lo ve tratar con calidez a niños de un pueblo y le dice "tienes madera de padre, Mercer". Kal responde que no tuvo un buen ejemplo para serlo; Jim contesta que ser cálido con los niños pese a eso es justamente la prueba de que está equivocado. Años antes de que Elenna exista como idea, y años antes de que Kal sepa que va a ser padre. No es el pago del arco de Elenna — es la semilla que confirma, desde mucho antes, que el miedo de Kal a no poder ser buen padre (ver "El lugar que ocupa en Kal", arriba) ya estaba siendo desmentido por alguien que lo quería, en un momento que Kal nunca reconoce conscientemente como relevante hasta mucho después. Considerar un eco textual cuando se escriba el arco de Elenna.
 
 Su primera gran función narrativa consiste precisamente en no estar. La ausencia cambia las decisiones, el costo del éxito y la definición misma de victoria.
 
@@ -184,27 +184,27 @@ Su primera gran función narrativa consiste precisamente en no estar. La ausenci
 
 Este vínculo es temático; Elenna no tiene conciencia de él.
 
-Corrado desapareció de la vida de Chiara para protegerla. Cole y Chiara desaparecen temporalmente de la vida cotidiana de Elenna por la misma razón. El arco de Corrado obliga a confrontar el peligro de esa lógica: proteger a alguien no puede convertirse de manera permanente en decidir su vida desde la ausencia.
+Corrado desapareció de la vida de Chiara para protegerla. Kal y Chiara desaparecen temporalmente de la vida cotidiana de Elenna por la misma razón. El arco de Corrado obliga a confrontar el peligro de esa lógica: proteger a alguien no puede convertirse de manera permanente en decidir su vida desde la ausencia.
 
-Elenna es la generación en la que Cole y Chiara deben intentar romper ese patrón.
+Elenna es la generación en la que Kal y Chiara deben intentar romper ese patrón.
 
 ## El final en Palermo
 
-Elenna es una de las razones fundamentales por las que Cole y Chiara salen de San Aurelio. Para entonces, Corrado ha abierto o está abriendo un Palermo distinto y ellos han construido una San Aurelio capaz de existir sin su presencia diaria.
+Elenna es una de las razones fundamentales por las que Kal y Chiara salen de San Aurelio. Para entonces, Corrado ha abierto o está abriendo un Palermo distinto y ellos han construido una San Aurelio capaz de existir sin su presencia diaria.
 
-En la imagen final —casa modesta azul, molduras blancas, jardín, Chiara con vino y Cole preparando comida— Elenna forma parte natural de la familia. No es una heredera entrando en cuadro ni un símbolo solemne. Es una niña viviendo en su casa.
+En la imagen final —casa modesta azul, molduras blancas, jardín, Chiara con vino y Kal preparando comida— Elenna forma parte natural de la familia. No es una heredera entrando en cuadro ni un símbolo solemne. Es una niña viviendo en su casa.
 
 ## Tesis del personaje
 
 Elenna no representa el futuro imperio Mercer. No es heredera narrativa de San Aurelio ni futura reina de una dinastía.
 
-Representa lo contrario: **la razón por la que Cole y Chiara descubren que no necesitan una dinastía.** Construyen poder para sobrevivir; amar a su hija termina exigiéndoles construir una vida en la que ella no tenga que heredarlo.
+Representa lo contrario: **la razón por la que Kal y Chiara descubren que no necesitan una dinastía.** Construyen poder para sobrevivir; amar a su hija termina exigiéndoles construir una vida en la que ella no tenga que heredarlo.
 
 ## Continuidad a reconciliar
 
 > **No corregir estos puntos por conveniencia.** El canon del autor de esta ficha prevalece; los archivos señalados requieren una pasada posterior y coordinada.
 
-1. **Corrado figura como muerto en el vault vivo.** Lo afirman [[02_Characters/Chiara_Bellandi]], [[06_Relationships/Cole_y_Chiara]], [[03_Factions/Il_Consorzio]], [[03_Factions/Fuerza_de_Tarea_Meridian]], [[02_Characters/Ettore]], [[02_Characters/README]] y [[12_Craft_Policies/revelations/SAGA_LEVEL]]. El Capítulo 2 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/02_Demasiado_Listo]]) y el Capítulo 10 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Corral]]) también contienen formulaciones que presuponen su muerte o la retención de su cuerpo. El nuevo canon establece que está vivo y oculto en Italia durante buena parte de la novela. Esta contradicción afecta además el duelo de Chiara, la función de Ettore, la herida federal, escenas ya escritas y el secreto de saga; no debe resolverse con una sustitución mecánica de frases.
+1. **Corrado figura como muerto en el vault vivo.** Lo afirman [[02_Characters/Chiara_Bellandi]], [[06_Relationships/Kal_y_Chiara]], [[03_Factions/Il_Consorzio]], [[03_Factions/Fuerza_de_Tarea_Meridian]], [[02_Characters/Ettore]], [[02_Characters/README]] y [[12_Craft_Policies/revelations/SAGA_LEVEL]]. El Capítulo 2 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/02_Demasiado_Listo]]) y el Capítulo 10 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Corral]]) también contienen formulaciones que presuponen su muerte o la retención de su cuerpo. El nuevo canon establece que está vivo y oculto en Italia durante buena parte de la novela. Esta contradicción afecta además el duelo de Chiara, la función de Ettore, la herida federal, escenas ya escritas y el secreto de saga; no debe resolverse con una sustitución mecánica de frases.
 2. **Riley en Italia — reconciliado en arquitectura (2026-08-31).** [[06_Relationships/Momentos_de_Fractura]] ya no presupone tutela Bellandi: F2 coloca a Riley en Italia como Riley Colombo antes del nacimiento, pero mantiene pendientes documentos, cobertura, apoyo y localización. `Riley Colombo` y `Elenna Serra` son identidades distintas.
 3. **No se encontró una hija con otro nombre ni una supervivencia incompatible.** La auditoría dirigida no halló `Marta`, `Marta Elena` o `Elena Mercer` usados como nombre de la hija; tampoco una niña apellidada Colombo, una hija retenida en San Aurelio ni textos donde Dario o Halbrook conozcan su supervivencia. Las menciones existentes de Marta corresponden a [[02_Characters/Chiara_Bellandi|Marta Bellandi]], madre de Chiara.
 4. **Arquitectura futura — reconciliada en documentos centrales (2026-08-31).** [[06_Relationships/Hitos]] y [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] ya integran embarazo, H1, reveal posterior, Riley, nacimiento, falsa muerte, separación y H22. El timeline de 90 beats conserva numeración antigua y requiere expansión futura; una nota de precedencia impide usar su ubicación tardía de H1.
@@ -234,7 +234,7 @@ No resolver ninguno de estos puntos por conveniencia:
 19. **PENDIENTE:** cuándo Corrado descubre que Elenna existe.
 20. **PENDIENTE:** cuándo Corrado descubre que está viva.
 21. **PENDIENTE:** primer encuentro Corrado–Elenna.
-22. **PENDIENTE:** primer reencuentro Cole/Chiara–Elenna.
+22. **PENDIENTE:** primer reencuentro Kal/Chiara–Elenna.
 23. **PENDIENTE:** reacción de Elenna a sus padres.
 24. **PENDIENTE:** evolución posterior del vínculo con Riley.
 25. **PENDIENTE:** color definitivo del cabello al crecer.
@@ -244,8 +244,8 @@ No resolver ninguno de estos puntos por conveniencia:
 ### Pendientes adicionales del arco H1–H22
 
 28. **PENDIENTE:** mecanismo exacto por el que Chiara confirma el embarazo.
-29. **PENDIENTE:** diálogo exacto del reveal a Cole.
-30. **PENDIENTE:** reacción textual definitiva de Cole.
+29. **PENDIENTE:** diálogo exacto del reveal a Kal.
+30. **PENDIENTE:** reacción textual definitiva de Kal.
 31. **PENDIENTE:** sexo fetal y cuándo lo conocen, si llega a importar.
 32. **PENDIENTE:** momento exacto en que eligen el nombre Elenna.
 33. **PENDIENTE:** calendario médico del embarazo.
@@ -255,4 +255,4 @@ No resolver ninguno de estos puntos por conveniencia:
 
 ---
 
-Ver también: [[02_Characters/Cole_Mercer]] · [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Riley_Bennett]] · [[04_Concepts/La_Guerra_de_los_Tres]] · [[06_Relationships/Hitos]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]] · [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]]
+Ver también: [[02_Characters/Kal_Mercer]] · [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Riley_Bennett]] · [[04_Concepts/La_Guerra_de_los_Tres]] · [[06_Relationships/Hitos]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]] · [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]]

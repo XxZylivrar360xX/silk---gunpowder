@@ -80,7 +80,7 @@ Eso abre varias rutas:
 
 - bandas menores que sobreviven a balaceras sin hospitales;
 - Varek comprando silencio médico;
-- Cole rechazando usarlo o usándolo una vez con asco;
+- Kal rechazando usarlo o usándolo una vez con asco;
 - la policía local sospechando que hay un médico que limpia escenas;
 - Meridian rastreando patrones de heridas que nunca llegaron a urgencias.
 

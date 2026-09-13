@@ -4,15 +4,15 @@
 
 > **Ubicación temporal:** después de que Marisol complete sus estadías en derecho (ver [[02_Characters/Marisol_Grayson]], "Arco futuro" — seis meses desde el Capítulo 14, más la duración de las estadías mismas). Cae, como mínimo, bien entrada la Parte 2.
 
-> **Función:** uno de los momentos de mayor orgullo en la vida de Cole. Es también la primera vez que Marisol y Chiara se conocen en persona — hasta ahora, Marisol sólo conoce el nombre por cómo Cole lo dice sin querer (Cap. 14).
+> **Función:** uno de los momentos de mayor orgullo en la vida de Kal. Es también la primera vez que Marisol y Chiara se conocen en persona — hasta ahora, Marisol sólo conoce el nombre por cómo Kal lo dice sin querer (Cap. 14).
 
 ---
 
 ## CANON DEL AUTOR (2026-08-30) — la recogida
 
-Cole va a buscar a Chiara al Monarch para llevarla como su acompañante. Ella baja por el mismo sitio donde él la vio la primera vez (H2 — bajo la marquesina, con el cigarro y los tacones rojos). Esta vez lleva un **vestido negro largo, de lentejuelas, con encaje en los hombros y el pecho**; el cabello recogido, con dos mechones sueltos a cada lado del flequillo.
+Kal va a buscar a Chiara al Monarch para llevarla como su acompañante. Ella baja por el mismo sitio donde él la vio la primera vez (H2 — bajo la marquesina, con el cigarro y los tacones rojos). Esta vez lleva un **vestido negro largo, de lentejuelas, con encaje en los hombros y el pecho**; el cabello recogido, con dos mechones sueltos a cada lado del flequillo.
 
-Cole se queda quieto un segundo de más. El vestido le recuerda a un cielo que vio una sola vez, del otro lado del mundo, en algún lugar sin nombre fiable en ningún documento suyo — la noche más limpia que ha visto. Guarda cada detalle del momento sin decidir guardarlo, mientras la memoria le devuelve la primera vez sin que se lo pida.
+Kal se queda quieto un segundo de más. El vestido le recuerda a un cielo que vio una sola vez, del otro lado del mundo, en algún lugar sin nombre fiable en ningún documento suyo — la noche más limpia que ha visto. Guarda cada detalle del momento sin decidir guardarlo, mientras la memoria le devuelve la primera vez sin que se lo pida.
 
 Baja a abrirle la puerta él mismo, antes de que el valet llegue primero.
 
@@ -24,11 +24,11 @@ Baja a abrirle la puerta él mismo, antes de que el valet llegue primero.
 
 ## Prosa — la recogida
 
-Chiara bajó las escaleras del Monarch en el mismo sitio donde Cole la había visto por primera vez.
+Chiara bajó las escaleras del Monarch en el mismo sitio donde Kal la había visto por primera vez.
 
 Llevaba un vestido negro, largo, de lentejuelas que atrapaban la luz sin pedir permiso, con encaje subiéndole por los hombros y cerrándole el pecho como una promesa que no hacía falta explicar. El cabello recogido, dos mechones sueltos a cada lado del flequillo, como si alguien hubiera decidido que la perfección necesitaba, de todos modos, un error a propósito.
 
-Cole se quedó quieto un segundo de más.
+Kal se quedó quieto un segundo de más.
 
 Había visto cielos así una sola vez, del otro lado del mundo, en un país cuyo nombre no figuraba en ningún documento suyo que fuera cierto — una noche tan limpia que las estrellas parecían estar ahí a propósito, no por accidente. Ese vestido le hizo pensar en esa noche antes de que pudiera pensar en cualquier otra cosa.
 
@@ -48,4 +48,4 @@ Bajó a abrirle la puerta antes de que el valet pudiera llegar primero.
 
 ---
 
-Ver también: [[02_Characters/Marisol_Grayson]] · [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Cole_Mercer]] · [[06_Relationships/Hitos]]
+Ver también: [[02_Characters/Marisol_Grayson]] · [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Kal_Mercer]] · [[06_Relationships/Hitos]]

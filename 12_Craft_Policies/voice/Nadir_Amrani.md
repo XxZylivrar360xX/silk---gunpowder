@@ -31,7 +31,7 @@ Nunca esta quieto: limpia algo, muerde una tortilla, hace cuentas con los dedos 
 
 ## Contraste deliberado con otro personaje
 
-Con Cole: Cole calla y decide: Nadir habla y decide, a la vez, sin pausa entre pensar y hablar. Con Matteo: Matteo rodea la propuesta con cortesia social; Nadir va directo al numero sin preambulo, aunque con el mismo instinto comercial de fondo.
+Con Kal: Kal calla y decide: Nadir habla y decide, a la vez, sin pausa entre pensar y hablar. Con Matteo: Matteo rodea la propuesta con cortesia social; Nadir va directo al numero sin preambulo, aunque con el mismo instinto comercial de fondo.
 
 ## Bajo presion
 

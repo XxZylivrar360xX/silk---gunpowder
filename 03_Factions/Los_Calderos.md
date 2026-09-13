@@ -13,7 +13,7 @@
 
 Los Calderos viven de lo que deja el automóvil cuando deja de ser automóvil: piezas, reparaciones, depósitos, cobros a talleres, autos que nadie reclama y vehículos que conviene no encontrar completos.
 
-Son la banda menor que más naturalmente choca con [[03_Factions/Almendra_Towing]], porque el negocio de Cole toca su territorio sin declararlo.
+Son la banda menor que más naturalmente choca con [[03_Factions/Almendra_Towing]], porque el negocio de Kal toca su territorio sin declararlo.
 
 ---
 
@@ -43,7 +43,7 @@ Si hacen demasiado ruido, son fáciles de sacrificar: nadie importante llora por
 
 ## Relación con El Patio
 
-Cole puede volverlos dependientes porque entiende coches mejor que ellos y porque sus grúas pueden entrar donde sus camiones levantan sospecha.
+Kal puede volverlos dependientes porque entiende coches mejor que ellos y porque sus grúas pueden entrar donde sus camiones levantan sospecha.
 
 La forma correcta de absorberlos no es quitarles talleres, sino convertirse en el hombre sin el cual sus talleres no pueden trabajar.
 

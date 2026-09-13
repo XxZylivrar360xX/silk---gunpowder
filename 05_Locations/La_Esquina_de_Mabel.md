@@ -14,13 +14,13 @@ Un local de esquina con cafetera cansada, vitrina de pan dulce, comida caliente 
 
 Huele a cafe recalentado, plancha, cloro barato y pan. Afuera se oye Avenida Almendra: camiones, talleres, frenos, gritos de acera y una patrulla que pasa siempre con prisa cuando ya no hace falta.
 
-Cole entra como alguien de casa. La gente no deja de hablar por el; baja el volumen medio tono y sigue.
+Kal entra como alguien de casa. La gente no deja de hablar por el; baja el volumen medio tono y sigue.
 
 ## Funcion en el primer capitulo
 
-Cole se detiene aqui despues del panteon para comprar comida durante su recorrido normal por el barrio. Ahí conoce a [[02_Characters/Matteo_Bellacorte]], que no pertenece al lugar y por eso se nota antes de hablar.
+Kal se detiene aqui despues del panteon para comprar comida durante su recorrido normal por el barrio. Ahí conoce a [[02_Characters/Matteo_Bellacorte]], que no pertenece al lugar y por eso se nota antes de hablar.
 
-Matteo convierte una necesidad practica en invitacion de negocios y cita a Cole esa misma noche en el Monarch.
+Matteo convierte una necesidad practica en invitacion de negocios y cita a Kal esa misma noche en el Monarch.
 
 ## Regla de escritura
 
@@ -36,8 +36,8 @@ La Esquina de Mabel nunca debe funcionar como "lugar donde dan informacion". La 
 ## Conexiones
 
 - [[02_Characters/Mabel_Ortiz]] - dueña / nodo civil.
-- [[02_Characters/Cole_Mercer]] - cliente habitual y hombre del barrio.
-- [[02_Characters/Matteo_Bellacorte]] - primer forastero del Monarch que cruza con Cole.
+- [[02_Characters/Kal_Mercer]] - cliente habitual y hombre del barrio.
+- [[02_Characters/Matteo_Bellacorte]] - primer forastero del Monarch que cruza con Kal.
 - [[03_Factions/Red_Civil_de_Chiara]] - futuro sistema de escucha de Chiara.
 
 ## Pendientes

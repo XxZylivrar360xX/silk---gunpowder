@@ -4,7 +4,7 @@ Patrones en observacion. No son reglas todavia. Si se confirman en dos escenas o
 
 ## Separador de clase como respuesta automatica
 
-Riesgo: que cada conversacion Cole/Chiara temprana cierre con "barrio vs elite" de forma demasiado explicita. La diferencia de mundos debe verse en gesto, costo, ruta, ropa, olor y permiso, no siempre nombrarse.
+Riesgo: que cada conversacion Kal/Chiara temprana cierre con "barrio vs elite" de forma demasiado explicita. La diferencia de mundos debe verse en gesto, costo, ruta, ropa, olor y permiso, no siempre nombrarse.
 
 ## Dario como frase perfecta de poder
 

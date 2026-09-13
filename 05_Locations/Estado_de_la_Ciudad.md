@@ -2,7 +2,7 @@
 
 *Seda y Pólvora — tablero político y criminal de San Aurelio*
 
-> **CANON DE DISEÑO (2026-08-23):** San Aurelio entra al ascenso de Cole con tres crisis simultáneas: elecciones municipales, conflicto territorial en los barrios del sur y un mercado criminal sostenido por miedo bajo [[02_Characters/Dario_Varek]]. El ascenso de [[02_Characters/Cole_Mercer]] funciona porque ofrece otra clase de orden: no menos criminal, pero sí más predecible para quienes viven debajo.
+> **CANON DE DISEÑO (2026-08-23):** San Aurelio entra al ascenso de Kal con tres crisis simultáneas: elecciones municipales, conflicto territorial en los barrios del sur y un mercado criminal sostenido por miedo bajo [[02_Characters/Dario_Varek]]. El ascenso de [[02_Characters/Kal_Mercer]] funciona porque ofrece otra clase de orden: no menos criminal, pero sí más predecible para quienes viven debajo.
 
 ---
 
@@ -50,7 +50,7 @@ La ironía es que esas tres promesas son exactamente el espacio donde [[03_Facti
 
 ### Lo que Russ arriesga
 
-Si sube demasiado rápido, el lector tiene que sentir que no sólo Cole lo está usando. Russ también está usando a Cole.
+Si sube demasiado rápido, el lector tiene que sentir que no sólo Kal lo está usando. Russ también está usando a Kal.
 
 > **Regla:** Russ no puede ser marioneta. Si parece un político comprado sin ambición propia, se vuelve plano. Tiene que querer la alcaldía de verdad.
 
@@ -98,7 +98,7 @@ Las dos organizaciones menores relevantes son:
 - [[03_Factions/Los_Marcadores_de_Milla]] — carreras, apuestas, pilotos y rutas rurales.
 - [[03_Factions/Alamo_Salvage]] — chatarra industrial, bodegas grises y Los Álamos.
 
-El norte importa porque parece periferia hasta que alguien entiende que es infraestructura. Cole lo entiende tarde; Harper y Tyler lo entienden antes.
+El norte importa porque parece periferia hasta que alguien entiende que es infraestructura. Kal lo entiende tarde; Harper y Tyler lo entienden antes.
 
 ---
 
@@ -106,7 +106,7 @@ El norte importa porque parece periferia hasta que alguien entiende que es infra
 
 La costa opera con otra lógica: turismo, clubes, estacionamientos, bares, marinas pequeñas y seguridad de piso. Ahí manda quien controla la puerta antes que quien controla la esquina.
 
-- [[03_Factions/Breakwater_Saints_MC]] — banda motociclista de La Isla. Brindan seguridad de piso antes de que Cole abra el flujo de cocaína y se consolide como proveedor de la mayoría de la isla.
+- [[03_Factions/Breakwater_Saints_MC]] — banda motociclista de La Isla. Brindan seguridad de piso antes de que Kal abra el flujo de cocaína y se consolide como proveedor de la mayoría de la isla.
 
 Cuando el producto empieza a fluir de forma estable, la costa se vuelve decisiva: los Saints tienen puertas, clientes y piso; El Patio tiene suministro, rutas y reposición. La tregua entre ambos no es amistad, es necesidad.
 
@@ -162,11 +162,11 @@ Obediencia rápida, poca lealtad y mucha mentira. Las bandas obedecen a Dario mi
 
 ---
 
-## Cómo Crece Cole En Contraste
+## Cómo Crece Kal En Contraste
 
-Cole no gobierna primero. Se vuelve necesario.
+Kal no gobierna primero. Se vuelve necesario.
 
-La diferencia no es que Cole sea incapaz de violencia. La diferencia es cuándo la usa y qué significa para quienes lo rodean.
+La diferencia no es que Kal sea incapaz de violencia. La diferencia es cuándo la usa y qué significa para quienes lo rodean.
 
 ### Dario
 
@@ -176,7 +176,7 @@ La diferencia no es que Cole sea incapaz de violencia. La diferencia es cuándo 
 - exige obediencia;
 - castiga para que todos miren.
 
-### Cole
+### Kal
 
 - resuelve primero;
 - da oportunidades porque prefiere cobrar deuda viva que cerrar una puerta;
@@ -184,9 +184,9 @@ La diferencia no es que Cole sea incapaz de violencia. La diferencia es cuándo 
 - tolera errores si todavía puede reconducirlos;
 - cuando alguien abusa demasiadas veces de la confianza y ya no deja salida, dispara.
 
-> **Regla moral:** Cole no puede disparar para probar dureza. Si dispara, tiene que ser porque agotó las salidas que su propio código le exigía intentar. Eso no lo absuelve; lo define.
+> **Regla moral:** Kal no puede disparar para probar dureza. Si dispara, tiene que ser porque agotó las salidas que su propio código le exigía intentar. Eso no lo absuelve; lo define.
 
-El miedo que produce Cole llega tarde. El respeto llega antes. Ésa es la amenaza real para Dario: no que Cole sea más cruel, sino que las bandas empiezan a imaginar un poder que no las humilla cada vez que respiran.
+El miedo que produce Kal llega tarde. El respeto llega antes. Ésa es la amenaza real para Dario: no que Kal sea más cruel, sino que las bandas empiezan a imaginar un poder que no las humilla cada vez que respiran.
 
 ---
 
@@ -198,7 +198,7 @@ Este estado de ciudad permite varios frentes simultáneos:
 - Chiara decide qué crisis se vuelve noticia y cuál muere en silencio.
 - Dario intenta conservar control castigando bandas menores.
 - Vega intenta evitar que el Departamento responda como institución herida y no como policía funcional.
-- Cole empieza resolviendo problemas que Dario no quiere tocar.
+- Kal empieza resolviendo problemas que Dario no quiere tocar.
 - El Patio gana reputación antes de ganar territorio.
 - Los [[03_Factions/Breakwater_Saints_MC|Breakwater Saints MC]] obligan a definir si la costa entra por tregua, compra o guerra.
 - Los federales entran después, cuando esa reputación se convierte en patrón.
@@ -215,9 +215,9 @@ La elección y la guerra del sur deben cruzarse. Si ocurren en carriles separado
 
 > **PENDIENTE:** detonante público de la campaña de Russ: debate, atentado, redada, escándalo municipal o cierre de mercado.
 
-> **PENDIENTE:** primer abuso de confianza que Cole perdona, segundo que negocia y tercero que ya no puede dejar pasar.
+> **PENDIENTE:** primer abuso de confianza que Kal perdona, segundo que negocia y tercero que ya no puede dejar pasar.
 
-> **PENDIENTE:** escena donde una banda menor compara por primera vez el miedo a Dario con el respeto a Cole.
+> **PENDIENTE:** escena donde una banda menor compara por primera vez el miedo a Dario con el respeto a Kal.
 
 ---
 

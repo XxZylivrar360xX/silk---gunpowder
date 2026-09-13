@@ -23,7 +23,7 @@ Su negocio principal antes de la consolidación de [[03_Factions/El_Patio]] es:
 - vigilancia de muelles menores y fiestas privadas;
 - cobro a locales que prefieren no llamar a la policía.
 
-Cuando [[02_Characters/Cole_Mercer]] abre el flujo de cocaína y se consolida como proveedor de la mayoría de la isla, los Saints pasan de controlar puertas a controlar puntos de venta posibles. Eso los vuelve demasiado importantes para ignorarlos.
+Cuando [[02_Characters/Kal_Mercer]] abre el flujo de cocaína y se consolida como proveedor de la mayoría de la isla, los Saints pasan de controlar puertas a controlar puntos de venta posibles. Eso los vuelve demasiado importantes para ignorarlos.
 
 ---
 
@@ -57,24 +57,24 @@ El problema empieza cuando la droga se vuelve flujo regular: quien controla puer
 
 Al principio, relación fría. El Patio no necesita sus motos; los Saints no necesitan las grúas.
 
-Después, cuando Cole se vuelve proveedor, la relación se vuelve inevitable:
+Después, cuando Kal se vuelve proveedor, la relación se vuelve inevitable:
 
 - los Saints tienen puertas, pisos y clientes;
 - El Patio tiene producto, rutas y reposición;
 - ninguno quiere parecer subordinado del otro;
 - ambos necesitan que la costa no se convierta en noticia electoral.
 
-> **Estado recomendado:** tregua tensa primero; alianza operativa después; posible traición si Naomi siente que Cole quiere convertirlos en empleados.
+> **Estado recomendado:** tregua tensa primero; alianza operativa después; posible traición si Naomi siente que Kal quiere convertirlos en empleados.
 
 ---
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** si Naomi negocia directamente con Cole o primero con Chiara/Garrett.
+> **PENDIENTE:** si Naomi negocia directamente con Kal o primero con Chiara/Garrett.
 
 > **PENDIENTE:** primer club de La Isla donde los Saints y El Patio chocan por puerta, seguridad o suministro.
 
-> **PENDIENTE:** si Dario intenta usarlos para romper el flujo de Cole en la costa.
+> **PENDIENTE:** si Dario intenta usarlos para romper el flujo de Kal en la costa.
 
 ---
 

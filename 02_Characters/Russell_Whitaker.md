@@ -21,9 +21,9 @@ Viste como un hombre que quiere parecer de servicio público antes que de dinero
 
 ## Quién es
 
-Russ es un ex veterano de la misma rotación militar que [[02_Characters/Cole_Mercer]]. La herida le cerró una carrera y le abrió otra: la política municipal.
+Russ es un ex veterano de la misma rotación militar que [[02_Characters/Kal_Mercer]]. La herida le cerró una carrera y le abrió otra: la política municipal.
 
-Quiere ser alcalde de [[05_Locations/San_Aurelio]] porque cree que la ciudad se gobierna desde la calle, no desde los despachos. Esa convicción puede ser sincera y útil al mismo tiempo: para El Patio, Russ es la forma en que el poder de Cole aprende a hablar en presupuestos, licencias, seguridad, obra pública y recuperación urbana.
+Quiere ser alcalde de [[05_Locations/San_Aurelio]] porque cree que la ciudad se gobierna desde la calle, no desde los despachos. Esa convicción puede ser sincera y útil al mismo tiempo: para El Patio, Russ es la forma en que el poder de Kal aprende a hablar en presupuestos, licencias, seguridad, obra pública y recuperación urbana.
 
 Su punto ciego es creer que puede usar una organización criminal para corregir una ciudad sin quedar comprado por ella.
 
@@ -33,9 +33,9 @@ Ver [[05_Locations/Estado_de_la_Ciudad]] para el tablero electoral donde su camp
 
 ## Historia
 
-Sirvió con Cole. No necesariamente fueron mejores amigos, pero compartieron suficiente barro, cansancio y órdenes absurdas como para que una llamada suya tenga otro peso.
+Sirvió con Kal. No necesariamente fueron mejores amigos, pero compartieron suficiente barro, cansancio y órdenes absurdas como para que una llamada suya tenga otro peso.
 
-**RESUELTO (2026-09-03):** la lesión de la pierna viene de la misma emboscada donde murió [[02_Characters/Jim_Keegan]] — ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Capítulo 3]] (memoria de Cole). [[02_Characters/Garrett_Cross]] también estaba presente.
+**RESUELTO (2026-09-03):** la lesión de la pierna viene de la misma emboscada donde murió [[02_Characters/Jim_Keegan]] — ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Capítulo 3]] (memoria de Kal). [[02_Characters/Garrett_Cross]] también estaba presente.
 
 Volvió lesionado, con una pierna que ya no le obedecía igual, y descubrió que San Aurelio respetaba más una historia de servicio que una historia de dolor. Aprende a convertir esa diferencia en campaña.
 
@@ -47,23 +47,23 @@ Russ no vende corrupción. Vende **orden reconocible**.
 
 Su técnica es tomar un problema de barrio y convertirlo en iniciativa pública: calles limpias, negocios protegidos, zonas recuperadas, convenios de seguridad, contratos de remolque, permisos y campañas de "ciudad para familias". Lo que El Patio necesita mover, Russ lo vuelve política urbana.
 
-Los barrios del sur son su mejor oportunidad y su mayor riesgo: si los usa como ejemplo de abandono, puede ganar votos; si se nota que El Patio se beneficia del mismo abandono, puede quedar atado a Cole antes de tiempo.
+Los barrios del sur son su mejor oportunidad y su mayor riesgo: si los usa como ejemplo de abandono, puede ganar votos; si se nota que El Patio se beneficia del mismo abandono, puede quedar atado a Kal antes de tiempo.
 
 ---
 
 ## Reglas duras del personaje
 
-- No se presenta como criminal ni como operador de Cole. Se presenta como servidor público.
+- No se presenta como criminal ni como operador de Kal. Se presenta como servidor público.
 - No presume la herida, pero la usa cuando la escena lo exige.
-- Su ambición es real: quiere la alcaldía, no sólo cubrir a Cole.
+- Su ambición es real: quiere la alcaldía, no sólo cubrir a Kal.
 - Nunca debe sonar como villano de despacho. Tiene que poder ganar votos.
-- Su relación con Cole viene de la guerra, no del dinero.
+- Su relación con Kal viene de la guerra, no del dinero.
 
 ---
 
 ## Conexiones
 
-- [[02_Characters/Cole_Mercer]] — ex compañero de rotación. Cole lo necesita como enlace político, pero Russ no debe sentirse empleado.
+- [[02_Characters/Kal_Mercer]] — ex compañero de rotación. Kal lo necesita como enlace político, pero Russ no debe sentirse empleado.
 - [[03_Factions/El_Patio]] — cara política de la red cuando ésta empieza a necesitar permisos, protección institucional y relato municipal.
 - [[03_Factions/Cross_River_Consolidated]] — no deben aparecer pegados en público salvo que la campaña ya esté muy avanzada; juntos revelan demasiado.
 - [[02_Characters/Garrett_Cross]] — contraparte financiera. Russ convierte influencia en poder visible; Garrett convierte dinero en papel limpio.
@@ -74,4 +74,4 @@ Los barrios del sur son su mejor oportunidad y su mayor riesgo: si los usa como 
 
 > **PENDIENTE:** cargo inicial de Russ antes de aspirar a alcalde: concejal, comisionado, jefe de veteranos, asesor de seguridad o candidato independiente.
 
-> **PENDIENTE:** qué le debe exactamente a Cole de la guerra, si algo, o si la deuda va al revés.
+> **PENDIENTE:** qué le debe exactamente a Kal de la guerra, si algo, o si la deuda va al revés.
