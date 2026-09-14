@@ -38,6 +38,8 @@ Esta imagen cierra el arco inmediato de Kal y Chiara. El cierre definitivo de la
 
 ## Arcos de los protagonistas
 
+> **CONTINUIDAD POSTERIOR (2026-09-13):** el epílogo ocurre con Elenna a los 21 años, tras un salto de aproximadamente veinte años desde el cierre inmediato de Palermo. Unas semanas después, una historia futura hipotética puede seguirla al iniciar la academia como Police Recruit. Esta posibilidad queda fuera de *Interregno* y no altera su cierre.
+
 | | Movimiento | Fractura | Aprendizaje |
 |---|---|---|---|
 | **Kal** | `ser indispensable → construir reemplazo → soltar` | Meridian convierte su centralidad en jaula | **Si todo necesita que yo esté, construí una prisión.** — *Ser necesario no es lo mismo que ser amado.* |

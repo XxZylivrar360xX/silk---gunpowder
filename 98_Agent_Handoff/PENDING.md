@@ -1,5 +1,7 @@
 # Pending
 
+- **ARCO FUTURO DE ELENNA — DOCUMENTADO (2026-09-13):** [[07_Ideas/Arco_Elenna_Libro_04]] registra la dirección aprobada para una historia hipotética posterior: Elenna tiene 21 años en el epílogo, vuelve unas semanas después a San Aurelio e inicia academia como Police Recruit. No escribir todavía la escena ni fijar graduación, especialidad, permanencia o trama del Libro 4.
+
 - **Nomenclatura — RESUELTO (2026-09-13):** migración completa del material vivo a **Kal Mercer**, con ocho rutas renombradas y enlaces actualizados. Historial y snapshots preservados; ver [[98_Agent_Handoff/DECISIONS]].
 - **EPUB — PENDIENTE tras la migración (2026-09-13):** el archivo exportado conserva el nombre anterior. No se regeneró; requiere petición expresa del autor. Esta nota prevalece sobre los avisos anteriores de EPUB actualizado.
 

@@ -210,6 +210,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 
 # Escenas guia
 
+
 - [[07_Ideas/Escenas_Guia]] — momentos canon del autor conservados como orientación emocional para prosa futura, sin convertirlos en bocetos rígidos.
 - [[07_Ideas/Escenas_Guia/El_Regreso_De_Elenna]] — reencuentro final de Kal y Chiara con Elenna en Palermo; paga el video de los primeros pasos, el motivo del dedo y la nana de Chiara.
 - [[07_Ideas/Tres_Hermanas_Epilogo]] — epílogo final de *Interregno*: salto temporal en San Aurelio donde Riley, Marisol y Elenna continúan vidas propias; el legado de Kal y Chiara es su libertad, no una institución.

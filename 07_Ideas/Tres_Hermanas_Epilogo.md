@@ -6,6 +6,8 @@
 
 ## Tesis de cierre
 
+> **CANON DEL AUTOR (2026-09-13; supersede la nota de edad anterior):** Elenna tiene 21 años en este epílogo. El salto desde el cierre inmediato de Palermo es de aproximadamente veinte años. Unas semanas después, una historia futura hipotética puede seguir su regreso a San Aurelio como Police Recruit; esta posibilidad no se anuncia dentro del epílogo.
+
 El legado de [[02_Characters/Kal_Mercer|Kal]] y [[02_Characters/Chiara_Bellandi|Chiara]] **no es una institución, un imperio, una cadena hotelera ni San Aurelio**. Es que [[02_Characters/Riley_Bennett|Riley]], [[02_Characters/Marisol_Grayson|Marisol]] y [[02_Characters/Elenna_Mercer|Elenna]] pueden vivir historias propias fuera de la historia de sus padres y protectores.
 
 No comparten sangre ni apellido. Son hermanas por la vida elegida, la confianza y la libertad de no depender del poder que las precedió.

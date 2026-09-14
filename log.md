@@ -3100,6 +3100,10 @@ Por encargo del autor, se creó [[08_Scenes/Book_03/Tres_Hermanas_Material_Narra
 
 **CANON DEL AUTOR:** Elenna pregunta por el corredor de bolsa que pretendía a Marisol. Marisol dice que no fue serio y remata: «Lo del amor no es para mí.» La línea queda como humor defensivo y eco de Kenji, sin negar la relación ni convertir el duelo en explicación. Actualizados [[07_Ideas/Tres_Hermanas_Epilogo]], [[02_Characters/Marisol_Grayson]], [[08_Scenes/Book_03/Tres_Hermanas_Material_Narrativo]], `DECISIONS.md` y `CURRENT_BRIEF.md`. Sin manuscrito, EPUB, commit ni push.
 
+## [2026-09-13] Codex — Edad de Elenna y arco policial futuro
+
+**CANON DEL AUTOR:** Elenna tiene 21 años en «Tres hermanas»; el salto desde el cierre inmediato de Palermo es de aproximadamente veinte años. Unas semanas después regresa a San Aurelio para iniciar la academia como **Police Recruit**. Se documentó el arco hipotético de un posible Libro 4, centrado en Elenna, Riley y Marisol, con la fotografía como elemento fundamental; Kal y Chiara quedan fuera salvo cameos breves. Graduación, especialidad y permanencia siguen provisionales. Actualizados [[02_Characters/Elenna_Mercer]], [[07_Ideas/Tres_Hermanas_Epilogo]], [[07_Ideas/Arco_Elenna_Libro_04]], [[08_Scenes/Book_03/Tres_Hermanas_Material_Narrativo]], [[11_Books/Book_03_Interregno/00_Book_Map]], `INDEX.md` y handoff. No se reescribió la prosa cerrada ni se regeneró el EPUB.
+
 ## [2026-09-13] Codex — Expansión cotidiana de «Tres Hermanas»
 
 Por encargo del autor, ampliado [[08_Scenes/Book_03/Tres_Hermanas_Material_Narrativo]] en aproximadamente mil palabras antes del álbum. La expansión profundiza las vidas actuales de Riley, Marisol y Elenna mediante conversación, hábitos, trabajo, viajes, comida y una pregunta contenida sobre la felicidad; no recapitula lore ni añade tramas mayores. Se conservaron el orden, el álbum, la fotografía final y las dos últimas frases exactas. El material sigue no canónico hasta revisión del autor; los detalles potencialmente canonizables se entregan por separado. Actualizado `CURRENT_BRIEF.md`. Sin manuscrito, EPUB, commit ni push.
