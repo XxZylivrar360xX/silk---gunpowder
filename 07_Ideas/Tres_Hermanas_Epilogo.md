@@ -2,7 +2,7 @@
 
 > **Estado:** CANON DEL AUTOR; guía de cierre, sin prosa de manuscrito.
 >
-> **Ubicación macro:** epílogo final de *Interregno*, posterior al cierre inmediato en Palermo. Salto temporal de aproximadamente dieciocho a diecinueve años; la edad exacta de Elenna queda pendiente dentro de ese rango.
+> **Ubicación macro:** epílogo final de *Interregno*, posterior al cierre inmediato en Palermo. Salto temporal de aproximadamente veinte años; Elenna tiene **21 años**.
 
 ## Tesis de cierre
 
@@ -18,7 +18,7 @@ La escena ocurre en una cafetería de San Aurelio. No explica el estado de la ci
 
 [[02_Characters/Riley_Bennett|Riley Ardizzone]] llega minutos después. Es directora del conjunto hotelero que Kal y Chiara dejaron profesionalizado, pero su capacidad para ocupar ese puesto es propia: su pasado de corredora y su aprendizaje de Chiara sobreviven como lectura de personas, espacios y salidas. El apellido Ardizzone es el de su resguardo en Italia, bajo la protección de la familia de Chiara; no vuelve a Riley una extensión de la institución ni explica por sí solo su posición.
 
-[[02_Characters/Elenna_Mercer|Elenna]], de dieciocho o diecinueve años, llega tarde y completa el espacio que las otras dos le guardaron. Viene de un viaje de aventuras: no puede quedarse quieta demasiado tiempo en un solo lugar, pero vuelve porque lo decide. Lleva la cámara vieja de rollo que Héctor regaló a Chiara en su cumpleaños durante el Libro I —siembra aún no escrita en prosa—, un álbum físico de fotografías y la chamarra de mezclilla con cuello de borrego de Kal. Los objetos no la atan: Chiara y Kal están presentes en su vida mientras ella sigue su propio camino.
+[[02_Characters/Elenna_Mercer|Elenna]], de **21 años**, llega tarde y completa el espacio que las otras dos le guardaron. Viene de un viaje de aventuras: no puede quedarse quieta demasiado tiempo en un solo lugar, pero vuelve porque lo decide. Lleva la cámara vieja de rollo que Héctor regaló a Chiara en su cumpleaños durante el Libro I —siembra aún no escrita en prosa—, un álbum físico de fotografías y la chamarra de mezclilla con cuello de borrego de Kal. Los objetos no la atan: Chiara y Kal están presentes en su vida mientras ella sigue su propio camino.
 
 ## Dinámica de la escena
 
@@ -40,11 +40,16 @@ Elenna abre el álbum sobre la mesa: en la primera hoja está la primera fotogra
 
 ## Pendientes de ejecución
 
-- Edad exacta de Elenna y cantidad precisa de años del salto temporal.
+- **CANON FIJADO (2026-09-13):** Elenna tiene 21 años en el epílogo y el salto temporal desde el cierre inmediato de Palermo es de aproximadamente veinte años.
+- **PENDIENTE:** fecha calendario exacta y distancia cronológica más fina entre el cierre de Palermo y la escena.
 - Nombre y carácter específico de la cafetería.
 - Trayectoria completa de Marisol entre abogada principal y fiscal de distrito, incluida su independencia pública frente a los Mercer.
 - Forma legal, empresarial y ética en que Riley llega a dirigir el conjunto hotelero.
 - **CANON FIJADO:** Héctor le regala la cámara vieja de rollo a Chiara en su cumpleaños. **PENDIENTE:** momento, mecanismo y prosa de ese regalo.
 - **CANON FIJADO:** al cierre, un mesero toma una fotografía de las tres después de que Elenna batalla con la cámara vieja de rollo; esa foto cierra la historia. El mesero es una función de escena, no un personaje de continuidad.
+
+## Continuidad posterior — Libro 4 hipotético
+
+Unas semanas después del epílogo, Elenna regresa a San Aurelio para iniciar la academia como **Police Recruit** del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento de Policía de San Aurelio]]. La decisión pertenece a una historia futura hipotética centrada en Elenna y sus hermanas; no se anuncia ni se anticipa dentro de este epílogo.
 
 Ver también: [[11_Books/Book_03_Interregno/00_Book_Map]] · [[07_Ideas/Escenas_Guia/El_Regreso_De_Elenna]] · [[02_Characters/Riley_Bennett]] · [[02_Characters/Marisol_Grayson]] · [[02_Characters/Elenna_Mercer]]

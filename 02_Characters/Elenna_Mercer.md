@@ -41,6 +41,22 @@ En ese epílogo lleva la chamarra de mezclilla con cuello de borrego de Kal, cam
 
 No hereda marcas como inventario. No necesita la cicatriz de Kal, un lunar de Chiara ni una colección literal de piezas reconocibles. El contraste importante es más sencillo: **quieta puede recordar muchísimo a Kal; cuando sonríe o se ríe, Chiara aparece.**
 
+## Etapa adulta — 21 años y Police Recruit
+
+> **CANON DEL AUTOR (2026-09-13):** durante la etapa del epílogo de *Interregno*, Elenna tiene **21 años**. Aproximadamente veinte años después del cierre inmediato de Palermo, y unas semanas después del epílogo, regresa a San Aurelio para iniciar la academia como **Police Recruit** del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento de Policía de San Aurelio]].
+
+Esta decisión abre una historia futura hipotética centrada en Elenna, Riley y Marisol. No pertenece a los tres libros de Kal y Chiara, no convierte el epílogo en un teaser y no fija todavía que Elenna se gradúe, permanezca en el Departamento o adopte una especialidad.
+
+Elenna no entra porque siempre haya querido ser policía ni porque Marisol pueda ayudarla. Después de años de viajes, fotografía, temporadas breves y regresos, se presenta al proceso para averiguar si puede elegir quedarse cuando quedarse significa aceptar responsabilidad, rutina, jerarquía y consecuencias. La institución pone a prueba su autonomía; no reemplaza su identidad.
+
+La fotografía permanece central. Su práctica le da una ventaja pequeña y plausible: observar espacios, manos, posiciones, cambios y ambientes; entender que un encuadre muestra algo y deja otra cosa fuera. No la convierte en detective prodigio.
+
+Durante la academia conserva su humor, curiosidad, informalidad, mochila, cámara, facilidad para conectar con desconocidos y dificultad para sentirse fija. Su conflicto no es ser una niña ni ser incapaz de organizarse: es aceptar estructura externa sin sentir que pierde la capacidad de decidir quién es.
+
+### Terminología y autoridad
+
+**Police Recruit** es el término operativo recomendado para su etapa. Es una recluta en formación, no una oficial plenamente juramentada; no debe recibir de inmediato placa, autoridad policial plena ni funciones de patrulla autónoma. “Cadete” queda reservado como alternativa local o etapa previa si el Departamento la define así.
+
 ## Quién es
 
 Elenna es un bebé durante el tramo que esta ficha organiza. No tiene todavía una personalidad adulta, un destino ni capacidades excepcionales que puedan proyectarse sobre ella.

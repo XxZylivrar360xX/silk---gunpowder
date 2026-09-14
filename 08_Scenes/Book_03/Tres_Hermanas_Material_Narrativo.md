@@ -12,7 +12,7 @@ referencia_visual: "[[99_Reference/chapter_concepts/Epilogo_Tres_Hermanas.png]]"
 
 # Tres hermanas — material narrativo
 
-> **MATERIAL NARRATIVO — aprobado por el autor y listo para integración.** Epílogo de *Interregno* derivado de [[07_Ideas/Tres_Hermanas_Epilogo]]; la imagen enlazada fija sólo los rasgos físicos ya registrados como **CANON DEL AUTOR** en las fichas de Riley, Marisol y Elenna. No fija el nombre de la cafetería, la edad exacta de Elenna, los años del salto ni las trayectorias legales o empresariales.
+> **MATERIAL NARRATIVO — aprobado por el autor y listo para integración.** Epílogo de *Interregno* derivado de [[07_Ideas/Tres_Hermanas_Epilogo]]; la imagen enlazada fija sólo los rasgos físicos ya registrados como **CANON DEL AUTOR** en las fichas de Riley, Marisol y Elenna. Elenna tiene 21 años y el salto temporal es de aproximadamente veinte años; siguen sin fijarse el nombre de la cafetería y las trayectorias legales o empresariales.
 
 Marisol llegó con siete minutos de anticipación, que era su manera de cobrarle al día el derecho a llegar tarde a todo lo demás.
 
