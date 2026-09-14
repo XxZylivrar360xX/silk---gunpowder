@@ -1,5 +1,17 @@
 # Log de Sesiones — Seda y Pólvora
 
+## [2026-09-13] Codex | Microcorrecciones finales de Tres hermanas
+
+Por revisión del autor se corrige una anticipación de continuidad en [[08_Scenes/Book_03/Tres_Hermanas_Material_Narrativo]]: antes del álbum quedan la última aceituna y la servilleta, no el pan dulce ni una referencia al álbum dentro de la mochila. También se reemplaza el gag de las nueve por la pausa de Riley («Ésa no es una pregunta útil»). No se toca el álbum ni el cierre.
+
+## [2026-09-13] Codex | Aprobación editorial de Tres hermanas
+
+El autor aprueba la escena para integración posterior. Se actualiza el estado del material a `APROBADO_POR_AUTOR` / `LISTO_PARA_INTEGRACION`; no se modifica el manuscrito ni se regenera EPUB.
+
+## [2026-09-13] Codex | Pasada editorial fina de Tres hermanas
+
+Se realiza cirugía de ritmo y continuidad en [[08_Scenes/Book_03/Tres_Hermanas_Material_Narrativo]]: se elimina la duplicación de «Riley le dio un golpe muy leve con dos dedos a la cámara», se podan remates y explicaciones redundantes del bloque cotidiano (café, libreta, cortinas y ruta) y se compacta la llegada a la pregunta sobre felicidad y al álbum. Se protegen las líneas de Marisol, Riley y Elenna solicitadas por el autor, el contenido del álbum y las dos frases finales exactas. No se incorpora canon nuevo ni se regenera EPUB.
+
 ## [2026-09-13] Codex | Apellido de resguardo de Riley
 
 Por CANON DEL AUTOR, [[02_Characters/Riley_Bennett]] deja de usar el apellido Colombo durante su resguardo en Italia: vive como **Riley Ardizzone**, bajo la protección del apellido de Chiara. Se actualizan las cuatro referencias internas de la ficha; mecanismo documental, cobertura legal, apoyos y localización siguen PENDIENTE. Sin prosa, EPUB, commit ni push.
@@ -3051,3 +3063,43 @@ Verificación: cero residuos del nombre en el alcance vivo y cero filenames anti
 ## [2026-09-13] Codex — EPUB regenerado
 
 Por petición expresa del autor, se recompiló [[tools/epub-build/output/Seda_y_Polvora.epub]] desde el manuscrito vigente: 29 capítulos en las Partes I y II, incluida la nomenclatura **Kal Mercer**, con portada y estilo existentes. Pandoc terminó sin errores; salida de 1,623,272 bytes. Sin cambios de prosa, canon, commit ni push.
+
+## [2026-09-13] Codex — Epílogo de *Interregno*: «Tres Hermanas»
+
+**CANON DEL AUTOR:** se creó [[07_Ideas/Tres_Hermanas_Epilogo]] como guía de cierre sin prosa de manuscrito. Después de la resolución inmediata en Palermo, *Interregno* termina con un salto de aproximadamente dieciocho a diecinueve años a una cafetería de San Aurelio: Marisol, fiscal de distrito; Riley Ardizzone, directora del conjunto hotelero; y Elenna, viajera de dieciocho o diecinueve años, se reúnen como hermanas elegidas. La tesis fijada es que el legado de Kal y Chiara no fue la institución ni el imperio, sino que las tres pueden sostener vidas propias fuera de la historia central. Elenna lleva la cámara que Héctor regaló a Chiara en Libro I —siembra todavía no escrita— y la chamarra de mezclilla con cuello de borrego de Kal. Se actualizan [[11_Books/Book_03_Interregno/00_Book_Map]], `INDEX.md`, `CURRENT_BRIEF.md` y `DECISIONS.md`. Sin manuscrito, EPUB, commit ni push.
+
+## [2026-09-13] Codex — Boceto narrativo del epílogo «Tres Hermanas»
+
+Por encargo del autor, se creó [[08_Scenes/Book_03/Tres_Hermanas_Material_Narrativo]] como boceto **no canónico** y fuera del manuscrito para explorar el cierre de *Interregno*. Conserva exclusivamente la guía [[07_Ideas/Tres_Hermanas_Epilogo]]: Marisol espera en la cafetería de San Aurelio, Riley llega con vida y criterio laboral propios, Elenna llega tarde de un viaje con su cámara y la chamarra de Kal, y las tres sostienen una conversación de hermanas elegidas sin que Kal ni Chiara validen el momento. [[99_Reference/chapter_concepts/Epilogo_Tres_Hermanas.png]] se usó sólo para ritmo visual, luz y composición: no fijó apariencia ni hechos. No se resolvieron nombre de la cafetería, edad/años exactos, trayectorias finas, regalo de Héctor ni último gesto. Actualizados `08_Scenes/README.md`, `INDEX.md` y `CURRENT_BRIEF.md`. Sin canon nuevo, manuscrito, EPUB, commit ni push.
+
+## [2026-09-13] Codex — Apariencia canónica de las Tres Hermanas
+
+**CANON DEL AUTOR:** [[99_Reference/chapter_concepts/Epilogo_Tres_Hermanas.png]] deja de ser sólo una referencia de ritmo visual y fija el corte físico adulto del epílogo. Integrado en [[02_Characters/Riley_Bennett]] (alta, atlética, cabello oscuro rizado, piel oliva), [[02_Characters/Marisol_Grayson]] (cabello cobrizo, pecas, ojos miel, sonrisa ladeada y presencia profesional) y [[02_Characters/Elenna_Mercer]] (rubio oscuro ceniza, ojos verde grisáceos, pecas suaves, lentes, estatura media-alta y complexión esbelta). En Elenna quedan resueltos el color de cabello adulto y el aspecto/estatura adulta; no se fijan números, biografía, edad exacta, café ni trayectorias laborales. El boceto [[08_Scenes/Book_03/Tres_Hermanas_Material_Narrativo]] se corrigió para reflejar la nueva precedencia. Actualizados también `DECISIONS.md` y `CURRENT_BRIEF.md`. Sin manuscrito, EPUB, commit ni push.
+
+## [2026-09-13] Codex — Álbum físico de «Tres Hermanas»
+
+**CANON DEL AUTOR:** el epílogo no usa imágenes en teléfono, pantalla ni formato digital. Elenna lleva un álbum físico de fotografías impresas: la primera hoja coloca arriba la primera foto de ella bebé con Kal y Chiara y debajo la foto de las tres hermanas cuando cumplió cinco años, sobre su bicicleta en el porche de la casa de Palermo; después hojea hasta las impresiones más recientes de su último viaje y se las muestra a Riley y Marisol. Actualizados [[07_Ideas/Tres_Hermanas_Epilogo]], [[02_Characters/Elenna_Mercer]] y [[08_Scenes/Book_03/Tres_Hermanas_Material_Narrativo]], además de `DECISIONS.md` y `CURRENT_BRIEF.md`. Sin manuscrito, EPUB, commit ni push.
+
+## [2026-09-13] Codex — Detalle de la fotografía de Elenna a los cinco años
+
+**CANON DEL AUTOR:** en la fotografía del álbum tomada en el porche de Palermo, Riley y Marisol aparecen a cada lado de Elenna, cuidando que no se vaya de lado sin tocarla, angustiadas; Elenna sonríe con la alegría de una niña que sólo se está divirtiendo. Actualizados [[07_Ideas/Tres_Hermanas_Epilogo]], [[02_Characters/Elenna_Mercer]] y [[08_Scenes/Book_03/Tres_Hermanas_Material_Narrativo]], además de `DECISIONS.md` y `CURRENT_BRIEF.md`. Sin manuscrito, EPUB, commit ni push.
+
+## [2026-09-13] Codex — Regalo pendiente de la cámara
+
+**CANON DEL AUTOR:** Héctor le regala la cámara a Chiara en su cumpleaños. El acontecimiento queda fijado; el momento, mecanismo y prosa del regalo permanecen en PENDIENTE. Actualizados [[07_Ideas/Tres_Hermanas_Epilogo]], [[98_Agent_Handoff/PENDING]], `DECISIONS.md` y `CURRENT_BRIEF.md`. Sin prosa nueva, manuscrito, EPUB, commit ni push.
+
+## [2026-09-13] Codex — Cierre final de «Tres Hermanas»
+
+**CANON DEL AUTOR:** después de hojear el álbum, Elenna batalla con la cámara vieja de rollo; el mesero se ofrece a tomar la fotografía final. El clic cierra la historia con las tres mujeres juntas y con vidas que nacieron, crecieron y maduraron desprendidas de San Aurelio. Se retiró este gesto de los pendientes y se integró en [[07_Ideas/Tres_Hermanas_Epilogo]], [[02_Characters/Elenna_Mercer]] y [[08_Scenes/Book_03/Tres_Hermanas_Material_Narrativo]]. Sin manuscrito, EPUB, commit ni push.
+
+## [2026-09-13] Codex — Ajuste de la última oración de «Tres Hermanas»
+
+**CANON DEL AUTOR:** se sustituye la sentencia temática final por: **«Esta vez, Elenna también estaba en la fotografía.»** Un mesero ofrece tomarla al verla batallar con la cámara vieja de rollo; el tercero es funcional y no requiere identidad ni continuidad. La fotografía final fabrica una imagen nueva de Elenna adulta con Riley y Marisol, después del álbum que empezó con sus padres y continuó con su infancia. Actualizados [[07_Ideas/Tres_Hermanas_Epilogo]], [[02_Characters/Elenna_Mercer]], [[08_Scenes/Book_03/Tres_Hermanas_Material_Narrativo]], `DECISIONS.md` y `CURRENT_BRIEF.md`. Sin manuscrito, EPUB, commit ni push.
+
+## [2026-09-13] Codex — Eco de Kenji en el epílogo «Tres Hermanas»
+
+**CANON DEL AUTOR:** Elenna pregunta por el corredor de bolsa que pretendía a Marisol. Marisol dice que no fue serio y remata: «Lo del amor no es para mí.» La línea queda como humor defensivo y eco de Kenji, sin negar la relación ni convertir el duelo en explicación. Actualizados [[07_Ideas/Tres_Hermanas_Epilogo]], [[02_Characters/Marisol_Grayson]], [[08_Scenes/Book_03/Tres_Hermanas_Material_Narrativo]], `DECISIONS.md` y `CURRENT_BRIEF.md`. Sin manuscrito, EPUB, commit ni push.
+
+## [2026-09-13] Codex — Expansión cotidiana de «Tres Hermanas»
+
+Por encargo del autor, ampliado [[08_Scenes/Book_03/Tres_Hermanas_Material_Narrativo]] en aproximadamente mil palabras antes del álbum. La expansión profundiza las vidas actuales de Riley, Marisol y Elenna mediante conversación, hábitos, trabajo, viajes, comida y una pregunta contenida sobre la felicidad; no recapitula lore ni añade tramas mayores. Se conservaron el orden, el álbum, la fotografía final y las dos últimas frases exactas. El material sigue no canónico hasta revisión del autor; los detalles potencialmente canonizables se entregan por separado. Actualizado `CURRENT_BRIEF.md`. Sin manuscrito, EPUB, commit ni push.

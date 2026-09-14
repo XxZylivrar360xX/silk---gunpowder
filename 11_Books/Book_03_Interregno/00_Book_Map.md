@@ -27,14 +27,14 @@ El libro no trata de *descubrir* que Kal y Chiara deberían marcharse — esa de
 - Kal y Chiara ya decidieron construir una salida; no pueden ejecutarla aún.
 - San Aurelio con un enorme vacío de poder; todos esperan saber quién gobernará.
 
-## Estado de salida — imagen final
+## Estado de salida — resolución inmediata
 
 Palermo. Casa modesta azul, molduras blancas, jardín. Chiara con una copa de vino; Kal preparando la comida; Elenna viviendo con ellos **como hija, no como heredera**.
 
 > **Chiara:** —No vayas a quemar de nuevo la cocina, amore.
 > **Kal:** —No prometo nada.
 
-**FIN DE INTERREGNO. FIN DE LA SAGA.**
+Esta imagen cierra el arco inmediato de Kal y Chiara. El cierre definitivo de la saga se cobra, tras un salto temporal, en [[07_Ideas/Tres_Hermanas_Epilogo|«Tres Hermanas»]]: una escena en San Aurelio donde Riley, Marisol y Elenna viven su propia historia sin requerir la presencia ni validación de ellos.
 
 ## Arcos de los protagonistas
 

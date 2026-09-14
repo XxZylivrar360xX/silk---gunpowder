@@ -26,12 +26,18 @@ Ni [[02_Characters/Dario_Varek|Dario Varek]] ni [[02_Characters/Warren_Halbrook|
 
 Durante sus primeros meses, Elenna parece primero hija de Kal. No es una mezcla visual calculada por mitades: quieta, la lectura de él llega antes; conforme crece y empieza a moverse, Chiara aparece con mayor claridad.
 
-- **Cabello:** nace con el cabello rubio ceniza muy claro. Durante su primer año comienza a oscurecerse hacia rubio oscuro o castaño claro. El color adulto no está fijado.
+- **Cabello:** nace con el cabello rubio ceniza muy claro. Durante su primer año comienza a oscurecerse. De adulta queda en **rubio oscuro ceniza**, con reflejos dorados visibles al sol; lo lleva corto, desfilado y algo despeinado, a veces recogido sin demasiada simetría.
 - **Ojos:** azul grisáceo al nacer y durante los primeros meses. Al estabilizarse el color, verde grisáceo con un anillo o componente azul alrededor del iris: un punto de encuentro visual entre el azul lavado de Kal y el verde cambiante de Chiara. La forma es almendrada, como la de Chiara.
 - **Piel:** clara, con subtono oliva cálido; más clara que Chiara, pero no idéntica a la piel nórdica de Kal.
 - **Rostro:** ojos almendrados y nariz recta de Chiara; frente y estructura ósea de Kal; mandíbula de Kal suavizada. Durante su primer año conserva las facciones redondas propias de un bebé.
 - **Cejas:** notablemente más oscuras que el cabello durante la primera infancia. Son uno de los primeros detalles donde Chiara se vuelve visible aun cuando el parecido dominante todavía es con Kal.
-- **Complexión:** brazos y piernas ligeramente largos para su edad. Es probable que sea alta; no se fija una altura adulta.
+- **Complexión:** brazos y piernas ligeramente largos para su edad. De adulta es de estatura media-alta y constitución esbelta, con la longitud de extremidades de Kal sin copiarle la presencia corporal.
+
+### Corte adulto — CANON DEL AUTOR (2026-09-13)
+
+La apariencia adulta queda fijada por [[99_Reference/chapter_concepts/Epilogo_Tres_Hermanas.png]], situada en el epílogo de *Interregno*. Mantiene los ojos verde grisáceos, almendrados, y la piel clara de subtono oliva; suma pecas suaves sobre nariz y pómulos, rostro fino y una sonrisa abierta en la que se vuelve legible Chiara. Usa lentes rectangulares de armazón oscuro.
+
+En ese epílogo lleva la chamarra de mezclilla con cuello de borrego de Kal, camiseta oscura, mochila de viaje, la cámara que Héctor regaló a Chiara y un álbum físico de fotografías. Son objetos de su vida elegida y de los vínculos que conserva, no señales de una herencia de poder.
 
 No hereda marcas como inventario. No necesita la cicatriz de Kal, un lunar de Chiara ni una colección literal de piezas reconocibles. El contraste importante es más sencillo: **quieta puede recordar muchísimo a Kal; cuando sonríe o se ríe, Chiara aparece.**
 
@@ -114,6 +120,12 @@ Kal y Chiara las reciben, las observan y después las destruyen. Las fotografía
 No es rechazo ni una rutina que deba repetirse en cada capítulo. Cada fotografía existe para marcar una variación concreta: Elenna está creciendo mientras sus padres no están ahí. En las primeras puede parecer casi por entero hija de Kal; las diferencias pequeñas empiezan a introducir a Chiara.
 
 La cantidad exacta de fotografías no está fijada.
+
+### El álbum de Elenna — CANON DEL AUTOR (2026-09-13)
+
+Ya adulta, Elenna conserva las fotografías impresas en un álbum físico; no se las muestra a Riley y Marisol en teléfono, pantalla ni archivo digital. La primera hoja guarda arriba la primera fotografía de Elenna bebé con Kal y Chiara; debajo está la imagen de las tres hermanas el día que Elenna cumplió cinco años, con ella sobre su bicicleta en el porche de la casa de Palermo. Riley y Marisol están a cada lado, cuidando que no se vaya de lado sin tocarla, angustiadas; Elenna sólo sonríe, divertida. En el epílogo, hojea hasta las impresiones más recientes de su último viaje para enseñárselas. Después batalla con la cámara vieja de rollo para encuadrar a las tres; un mesero termina tomando la fotografía que cierra la historia. El tercero es funcional y no requiere continuidad propia.
+
+El álbum no convierte a Elenna en guardiana de un linaje ni vuelve solemne cada imagen. Es un objeto de uso: se carga, se abre, se comparte y sigue adelante.
 
 ## Los primeros pasos
 
@@ -237,21 +249,19 @@ No resolver ninguno de estos puntos por conveniencia:
 22. **PENDIENTE:** primer reencuentro Kal/Chiara–Elenna.
 23. **PENDIENTE:** reacción de Elenna a sus padres.
 24. **PENDIENTE:** evolución posterior del vínculo con Riley.
-25. **PENDIENTE:** color definitivo del cabello al crecer.
-26. **PENDIENTE:** altura y aspecto adulto.
-27. **PENDIENTE:** personalidad infantil posterior.
+25. **PENDIENTE:** personalidad infantil posterior.
 
 ### Pendientes adicionales del arco H1–H22
 
-28. **PENDIENTE:** mecanismo exacto por el que Chiara confirma el embarazo.
-29. **PENDIENTE:** diálogo exacto del reveal a Kal.
-30. **PENDIENTE:** reacción textual definitiva de Kal.
-31. **PENDIENTE:** sexo fetal y cuándo lo conocen, si llega a importar.
-32. **PENDIENTE:** momento exacto en que eligen el nombre Elenna.
-33. **PENDIENTE:** calendario médico del embarazo.
-34. **PENDIENTE:** capítulo exacto de H22 dentro de *Voto de Ceniza* (Libro II), antes de la caída de Dario, la montaña y Santa Lucía.
-35. **PENDIENTE:** capítulo exacto del flashforward (Cap. 1) de *Voto de Ceniza* y de la costura hacia "Nueve meses antes".
-36. **PENDIENTE:** si la pista de la entrega a Riley es la misma infraestructura del destierro de Riley en F2 o una distinta, y su ubicación exacta.
+26. **PENDIENTE:** mecanismo exacto por el que Chiara confirma el embarazo.
+27. **PENDIENTE:** diálogo exacto del reveal a Kal.
+28. **PENDIENTE:** reacción textual definitiva de Kal.
+29. **PENDIENTE:** sexo fetal y cuándo lo conocen, si llega a importar.
+30. **PENDIENTE:** momento exacto en que eligen el nombre Elenna.
+31. **PENDIENTE:** calendario médico del embarazo.
+32. **PENDIENTE:** capítulo exacto de H22 dentro de *Voto de Ceniza* (Libro II), antes de la caída de Dario, la montaña y Santa Lucía.
+33. **PENDIENTE:** capítulo exacto del flashforward (Cap. 1) de *Voto de Ceniza* y de la costura hacia "Nueve meses antes".
+34. **PENDIENTE:** si la pista de la entrega a Riley es la misma infraestructura del destierro de Riley en F2 o una distinta, y su ubicación exacta.
 
 ---
 

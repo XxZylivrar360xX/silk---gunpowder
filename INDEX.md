@@ -212,6 +212,8 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 
 - [[07_Ideas/Escenas_Guia]] — momentos canon del autor conservados como orientación emocional para prosa futura, sin convertirlos en bocetos rígidos.
 - [[07_Ideas/Escenas_Guia/El_Regreso_De_Elenna]] — reencuentro final de Kal y Chiara con Elenna en Palermo; paga el video de los primeros pasos, el motivo del dedo y la nana de Chiara.
+- [[07_Ideas/Tres_Hermanas_Epilogo]] — epílogo final de *Interregno*: salto temporal en San Aurelio donde Riley, Marisol y Elenna continúan vidas propias; el legado de Kal y Chiara es su libertad, no una institución.
+- [[08_Scenes/Book_03/Tres_Hermanas_Material_Narrativo]] — boceto no canónico del epílogo: Marisol, Riley y Elenna comparten una tarde de cafetería sin depender de la presencia de Kal y Chiara.
 - [[08_Scenes/Book_02/01_Llegada_Al_Hospital]] — borrador narrativo solicitado por el autor: primera escena de la apertura de *Voto de Ceniza*, limitada a la llegada de Kal y Chiara al hospital.
 - [[08_Scenes/Book_02/02_Nacimiento_Y_Los_Tres]] — borrador narrativo solicitado por el autor: segunda escena de la apertura de *Voto de Ceniza*, nacimiento y los primeros minutos de Kal, Chiara y la bebé juntos.
 - [[08_Scenes/Book_03/Tornare_A_Casa_Material_Narrativo]] — borrador no canónico del reencuentro, solicitado para orientar *Interregno* sin fijar pendientes logísticos o de edad.

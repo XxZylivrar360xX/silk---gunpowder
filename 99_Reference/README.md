@@ -2,6 +2,8 @@
 
 Material de inspiración que **no es canon de esta novela**. Se conserva intacto, tal como llegó. Nada de aquí se cita, se copia ni se da por establecido en `00_Biblia/`, `02_Characters/` o `10_Chapters/`.
 
+> **Excepción autorizada por el autor (2026-09-13):** [[99_Reference/chapter_concepts/Epilogo_Tres_Hermanas.png]] fija únicamente los rasgos físicos adultos ya transcritos como **CANON DEL AUTOR** en [[02_Characters/Riley_Bennett]], [[02_Characters/Marisol_Grayson]] y [[02_Characters/Elenna_Mercer]]. La imagen sigue siendo referencia; no canoniza biografía, edades, vestuario fuera del epílogo, ciudad ni hechos que no estén escritos de forma expresa en esas fichas.
+
 ---
 
 ## Contenido

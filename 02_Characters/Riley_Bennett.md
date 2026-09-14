@@ -17,7 +17,15 @@
 
 ## Apariencia
 
-> **PENDIENTE:** definir una imagen que no la infantilice. Tiene 23 años, viene de la calle y sabe correr; no es una niña perdida.
+> **CANON DEL AUTOR (2026-09-13):** la apariencia queda fijada a partir de [[99_Reference/chapter_concepts/Epilogo_Tres_Hermanas.png]]. La imagen representa su corte adulto en el epílogo; los rasgos son estables, pero no adelanta ropa, edad ni circunstancias de los Libros I–II.
+
+**Constitución:** alta y atlética, con hombros firmes y piernas largas de alguien que fue corredora. Se mueve con economía; incluso quieta da la impresión de poder cambiar de dirección sin perder tiempo.
+
+**Cabello:** oscuro, entre castaño muy profundo y negro, abundante y rizado. Lo lleva a media melena o recogido bajo, con mechones sueltos alrededor de la cara.
+
+**Piel y rostro:** piel oliva cálida; ojos oscuros y expresivos; cejas marcadas, pómulos altos y una sonrisa amplia que no le quita alerta a la mirada.
+
+**Vestuario de epílogo:** chaqueta de gamuza café sobre tejido oscuro de cuello alto, pantalón recto y bolsa de piel cruzada. La ropa habla de una mujer que ya elige su presencia profesional, no de una versión domesticada o reducida de Chiara.
 
 ---
 

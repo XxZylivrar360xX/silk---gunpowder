@@ -24,6 +24,8 @@
 
 **Rostro:** abundantes pecas, especialmente sobre la nariz y los pómulos; ojos miel claro, entre ámbar y avellana según la luz; sonrisa frecuentemente ladeada, pícara e irónica.
 
+> **CANON DEL AUTOR (2026-09-13):** [[99_Reference/chapter_concepts/Epilogo_Tres_Hermanas.png]] confirma el corte adulto de estos rasgos sin reemplazar la apariencia de la estudiante en Libro I. De adulta conserva el cabello cobrizo, largo y recogido en un chongo desordenado con mechones sueltos; las pecas y los ojos miel siguen siendo los rasgos que llegan primero. En el epílogo viste saco verde oscuro, blusa clara y un dije dorado pequeño: una presencia sobria que no le borra la sonrisa ladeada ni la ligereza física.
+
 La crítica de Kal a las puntas es un ritual familiar. Marisol sabe que le parecen absurdas, las conserva sin darle demasiada importancia y disfruta tener con eso material para molestarlo. Kal puede burlarse o hacer comentarios secos, pero nunca le exige seriamente que se cambie el cabello.
 
 > **SEMBRADO (borrador Cap. 15):** pequeña, enjuta, se mueve rápido. Lleva puesta **la chaqueta militar de Michael, que le queda grande, con las mangas dobladas dos veces** — imagen que carga al padre sin decirlo. No es canon fijo; es un ancla visual provisional.
@@ -39,6 +41,8 @@ La crítica de Kal a las puntas es un ritual familiar. Marisol sabe que le parec
 **Vestuario propuesto:** cárdigan claro de punto, playera oscura y jeans; texturas cómodas y una silueta ligera. El contraste con la precisión de Chiara puede orientar escenas compartidas sin volver descuidada a Marisol. Collar, audífonos y termo son utilería opcional del concepto, sin origen sentimental ni hábito permanente establecido.
 
 **Control de continuidad:** esta alternativa de campus no sustituye la chaqueta de Michael sembrada en el borrador. Las leyendas de la facultad y de sus objetos no fijan institución, ciudad, plan de estudios ni frases del personaje; los veinte años conservan su estado provisional.
+
+> La referencia de capítulo [[99_Reference/chapter_concepts/Epilogo_Tres_Hermanas.png]] tiene precedencia **CANON DEL AUTOR** sobre este bloque sólo para el corte físico adulto asentado arriba. Esta sección de campus sigue siendo DISEÑO para la etapa universitaria.
 
 Catálogo y criterio de uso: [[99_Reference/character_art/README]].
 
@@ -126,6 +130,10 @@ En esa misma escena queda sembrado el resto del plan:
 > **DISEÑO disponible, no hitos fijados:** hábitos compartidos, planes que cambian su disponibilidad, familiaridad que los protagonistas descubren y preguntas que decide no responder. La tensión entre protección y autonomía puede cobrar aquí, pero todavía no se fija como el conflicto concreto con Kal.
 
 > **PENDIENTE:** cómo se conocen, inicio y progresión del noviazgo en ambos libros, cuánto sabe Marisol de i Sussurri y consecuencias específicas del duelo. No quedan canonizados reproches contra Chiara o Kal, alejamiento ni venganza. Desarrollo complementario en [[02_Characters/Kenji_Oda]].
+
+### Eco en el epílogo — CANON DEL AUTOR (2026-09-13)
+
+Cuando Elenna le pregunta por un corredor de bolsa que la pretendía, Marisol responde que no fue serio y remata: **«Lo del amor no es para mí.»** La línea se sostiene como humor defensivo, no como negación de que Kenji fue una relación real ni como explicación solemne de su muerte.
 
 ---
 
