@@ -299,6 +299,10 @@ Elenna cambia después el propósito de su ambición. Dario construye un sistema
 
 **Filosofía de protección — DISEÑO (2026-09-11):** Kal entiende proteger como **distancia física** — cuando alguien corre peligro real, la respuesta que conoce es apartarlo. El antecedente directo es [[02_Characters/Riley_Bennett|Riley]], a quien destierra en el Libro I para salvarla. Con Elenna vive esa misma lógica por primera vez desde el lado de padre, no de quien decide por otro: aceptar la distancia como la única protección real es su versión del mismo acto que antes le exigió a Chiara. Ver también [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]], "Filosofías de protección".
 
+## Cómo llama a Elenna — CANON DEL AUTOR (2026-09-15)
+
+Kal llama a su hija simplemente **"Elenna"**, sin diminutivo ni apodo. Confirmado por el autor durante la integración del material de incubadora del Libro 4 ([[07_Ideas/Libro_04_Incubadora/README]]).
+
 ## "Mac" — CANON DEL AUTOR (2026-08-29)
 
 En las carreras ilegales de Kingsley Field ([[06_Relationships/Hitos]], H9 — Capítulo 9, "La carrera de máscaras"), nadie lo llama Kal ni Mercer. Le dicen **Mac** — las iniciales de Mercer Kal, invertidas y leídas como si fueran un nombre cualquiera. Tyler Brooks, quien organiza las carreras, lo saluda así. Chiara arma el acertijo sola, un segundo tarde, la primera vez que lo oye: un nombre falso hecho enteramente del nombre real, la misma lógica de la máscara de plástico que se pone en la cara — cambia de color sin cambiar una sola letra.

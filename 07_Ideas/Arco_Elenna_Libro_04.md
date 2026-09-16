@@ -55,6 +55,10 @@ Permanecen fuera del libro como presencia principal. Sólo caben cameos breves s
 
 Elenna frente a un espejo con el uniforme de entrenamiento, unas botas nuevas, la cámara fuera del uniforme y su mochila vieja en la misma habitación. El cabello no coopera. Se observa sin reconocerse del todo todavía. La escena prueba la continuidad visual entre la viajera y la recluta sin explicar su biografía ni convertir el ingreso en una proclamación.
 
+## Material en desarrollo (incubadora)
+
+[[07_Ideas/Libro_04_Incubadora/README]] reúne material todavía en evaluación sobre el Libro 4: posible coprotagonista policial (Nicholas Voss, sin fijar), el Caso Nora y su antagonista, relaciones post-trilogía y escenas faro. Nada de esa carpeta es canon por existir ahí; ver la clasificación interna por archivo antes de citarla como decidido.
+
 ## Abierto
 
 - Si se gradúa o abandona.

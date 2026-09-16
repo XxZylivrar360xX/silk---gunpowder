@@ -340,6 +340,10 @@ Es la asimetría exacta con el apodo de él ([[02_Characters/Kal_Mercer]], "Mac"
 
 ---
 
+## Cómo llama a Elenna — CANON DEL AUTOR (2026-09-15)
+
+Chiara llama a su hija **"Amore mio"**. Confirmado por el autor durante la integración del material de incubadora del Libro 4 ([[07_Ideas/Libro_04_Incubadora/README]]); reemplaza la propuesta "Ragazza" que traía ese material como borrador.
+
 ## La maternidad y el exilio de Elenna — DISEÑO (2026-09-11)
 
 Chiara entiende proteger como **control de versión e información** — si el mundo cree que algo murió, desaparece del tablero estratégico. Es la misma habilidad con la que dirige [[03_Factions/El_Faro]] y administra cada versión de sí misma, apuntada ahora contra la propia vida de su hija. El plan final de Elenna combina esa lógica con la de Kal ([[02_Characters/Kal_Mercer]], protección por distancia física): **Kal, lejos. Chiara, muerta para el mundo.**
