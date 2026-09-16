@@ -64,9 +64,11 @@ Y/o:
 
 Corrado identifica al **arquitecto del encubrimiento**, no al asesino.
 
-## Destino post-Interregno de Volpi — propuesta
+## Destino post-Interregno de Volpi
 
-Como último acto relacionado con La Mesa, Volpi pudo quedar confinado en una instalación aislada y no oficial en una pequeña isla mediterránea.
+> **RESUELTO (2026-09-15, CANON DEL AUTOR):** confirmada la propuesta de confinamiento no oficial en isla mediterránea aislada. La escena de la entrevista y el reconocimiento de Elenna (más abajo) quedan fijados.
+
+Como último acto relacionado con La Mesa, Volpi queda confinado en una instalación aislada y no oficial en una pequeña isla mediterránea.
 
 No diseñar una superprisión fantástica.
 

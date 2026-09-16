@@ -37,9 +37,11 @@ Nicholas pasó años protegiendo o queriendo al responsable sin saberlo.
 
 ### El hijo
 
-Nombre y edad actual todavía abiertos.
+> **RESUELTO (2026-09-15):** nombre **Adam Voss**; edad actual 17-19 años (generación de Elenna).
 
-En el pasado, Nicholas prometió traerlo de vuelta a casa después de una crisis o periodo de riesgo. Con el tiempo la promesa dejó de ser viable, no porque el hijo esté desaparecido, sino porque construyó su propia vida y puede no considerar San Aurelio su hogar.
+Adam fue enviado fuera de San Aurelio siendo bebé, durante la Guerra de los Tres (*Voto de Ceniza*). **No es un espejo encubierto del exilio de Elenna:** no hubo identidad falsa, red de contingencia ni operación de salida. Nicholas y María, como otras familias de una ciudad en guerra, lo mandaron a vivir con la familia de María mientras duraba lo peor del conflicto — una decisión doméstica y mundana, no una escena de acción. Adam creció ahí, no en San Aurelio.
+
+En el pasado, Nicholas prometió traerlo de vuelta a casa cuando pasara ese "periodo de riesgo" (la guerra). Con el tiempo la promesa dejó de ser viable, no porque el hijo esté desaparecido, sino porque construyó su propia vida fuera y puede no considerar San Aurelio su hogar.
 
 La promesa actual cambia de objeto. María ya no le exige “traer al hijo a casa”. La pregunta que sostiene su matrimonio es:
 

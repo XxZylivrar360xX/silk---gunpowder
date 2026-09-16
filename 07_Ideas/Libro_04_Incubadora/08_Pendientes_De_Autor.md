@@ -4,9 +4,8 @@
 
 ## Nicholas Voss
 
-- Nombre del hijo.
-- Edad actual del hijo.
-- Qué evento exacto obligó a enviarlo fuera de San Aurelio.
+> **RESUELTO (2026-09-15):** nombre **Adam Voss**; edad actual 17-19 años. Motivo del envío: mundano, con la Guerra de los Tres como telón de fondo (no un espejo dramatizado del exilio de Elenna) — ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]].
+
 - Cuánto contacto mantuvo Nicholas durante esos años.
 - Dónde vive María con relación al hijo.
 - Qué sabe Nicholas de Kal/Chiara por experiencia directa y qué sólo conoce por reportes/rumor.
@@ -35,7 +34,8 @@
 
 ## Volpi
 
-- Destino definitivo post-*Interregno*.
+> **RESUELTO (2026-09-15):** destino definitivo confirmado — confinamiento no oficial en isla mediterránea aislada. Ver [[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]].
+
 - Quién ordenó/negoció su confinamiento.
 - Qué logística mantiene la instalación aislada.
 - Cuánto sabe Corrado sobre ese destino.

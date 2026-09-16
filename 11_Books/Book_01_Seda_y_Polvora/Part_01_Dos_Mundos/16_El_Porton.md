@@ -1,5 +1,5 @@
 <!--
-Estado: LISTO PARA AUTOR.
+Estado: TERMINADO.
 Protagonistas: Chiara Bellandi, con apariciones de Nadir Amrani, Daniel Hayes, Walter Keegan y Lucia Varek. Hector Navarro presente pero inconsciente/fuera de escena tras el infarto.
 Ventana temporal: el viernes del Capitulo 15 (La regla del telefono), mientras Kal y Marisol estan de campamento. Bajo la reordenacion del 2026-08-29, H10 va ANTES de H4 y H11 -- en este punto Kal y Chiara TODAVIA NO se han besado.
 Lugares: Casa Comunitaria De La Almendra (sotano), casa de Hector, Hospital Santa Aurelia, The Monarch Casino & Hotel.
