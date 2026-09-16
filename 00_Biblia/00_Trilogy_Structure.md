@@ -10,7 +10,7 @@
 
 1. **Seda y Pólvora**
 2. **Voto de Ceniza**
-3. **Interregno**
+3. **Cuentas de Sangre**
 
 La trilogía completa sigue una sola progresión:
 
@@ -360,7 +360,7 @@ Estado de salida:
 
 ---
 
-# LIBRO III — INTERREGNO
+# LIBRO III — CUENTAS DE SANGRE
 
 ## Función
 
@@ -368,7 +368,7 @@ Estado de salida:
 
 El libro no trata de descubrir que Kal y Chiara deberían marcharse. Esa decisión ya nació en H22 durante *Voto de Ceniza*.
 
-*Interregno* trata de **hacer posible la salida**.
+*Cuentas de Sangre* trata de **hacer posible la salida**.
 
 ## Pregunta del libro
 
@@ -420,7 +420,7 @@ La muerte pública de un Brigadier General rompe la posibilidad de cerrar la cri
 
 No convertir la escena de ejecución en manual táctico. Su función es narrativa, política e institucional.
 
-## El sentido de Interregno
+## El sentido de Cuentas de Sangre
 
 Al inicio:
 
@@ -463,7 +463,7 @@ Su arco debe poder terminar comprendiendo que la victoria de su hija no es hered
 
 El plan ya existe desde H22.
 
-Durante *Interregno*, Kal y Chiara deben convertir esa intención en arquitectura concreta:
+Durante *Cuentas de Sangre*, Kal y Chiara deben convertir esa intención en arquitectura concreta:
 
 - delegación;
 - redundancia;
@@ -512,7 +512,7 @@ Elenna viviendo con ellos como hija, no como heredera.
 > **Chiara:** —No vayas a quemar de nuevo la cocina, amore.  
 > **Kal:** —No prometo nada.
 
-> **FIN DE INTERREGNO.**
+> **FIN DE CUENTAS DE SANGRE.**
 
 ---
 
@@ -524,7 +524,7 @@ Elenna viviendo con ellos como hija, no como heredera.
 |---|---|---|---|
 | **Seda y Pólvora** | Estar a salvo significa no necesitar a nadie | Chiara y H1 convierten pertenencia en necesidad real | **Tengo un lugar al cual volver.** |
 | **Voto de Ceniza** | Proteger significa mantener a todos bajo alcance y decidir el riesgo | Elenna, H22, Héctor y Santa Lucía demuestran el límite del control | **No puedo salvarlos a todos sosteniéndolos.** |
-| **Interregno** | Si soy indispensable, el sistema y los míos estarán seguros | Meridian convierte su centralidad en jaula | **Si todo necesita que yo esté, construí una prisión.** |
+| **Cuentas de Sangre** | Si soy indispensable, el sistema y los míos estarán seguros | Meridian convierte su centralidad en jaula | **Si todo necesita que yo esté, construí una prisión.** |
 
 Arco total:
 
@@ -541,7 +541,7 @@ O, en su herida más profunda:
 |---|---|---|---|
 | **Seda y Pólvora** | Elegir quedarse y construir pertenencia | Mei y Riley salen; Kal casi no vuelve en H1 | **Lo que ama puede desaparecer.** |
 | **Voto de Ceniza** | Proteger aquello que ama aunque implique ausencia | Debe hacer desaparecer públicamente a Elenna y vivir lejos de ella | **A veces amar exige aceptar una ausencia que ella misma provoca.** |
-| **Interregno** | Rechazar que ausencia, apellido o institución decidan su vida | Il Consorzio intenta definir su pertenencia | **La salida consiste en terminar la ausencia, no en heredar una corona.** |
+| **Cuentas de Sangre** | Rechazar que ausencia, apellido o institución decidan su vida | Il Consorzio intenta definir su pertenencia | **La salida consiste en terminar la ausencia, no en heredar una corona.** |
 
 ---
 
@@ -550,8 +550,8 @@ O, en su herida más profunda:
 | De | Hacia | Bisagra |
 |---|---|---|
 | **Seda y Pólvora** | **Voto de Ceniza** | Primer choque abierto asociado a la presión de Dario + H1 + embarazo revelado + llegada física de Halbrook a San Aurelio |
-| **Voto de Ceniza** | **Interregno** | Dario preso + montaña + Santa Lucía + Kal sentencia a Halbrook + Corrado vivo |
-| **Interregno** | cierre de saga | Halbrook ejecutado provoca Meridian; vacío de Dario activa Consorzio; Kal/Chiara vuelven reemplazable su poder y salen hacia Elenna |
+| **Voto de Ceniza** | **Cuentas de Sangre** | Dario preso + montaña + Santa Lucía + Kal sentencia a Halbrook + Corrado vivo |
+| **Cuentas de Sangre** | cierre de saga | Halbrook ejecutado provoca Meridian; vacío de Dario activa Consorzio; Kal/Chiara vuelven reemplazable su poder y salen hacia Elenna |
 
 ---
 
@@ -560,7 +560,7 @@ O, en su herida más profunda:
 Este documento cambia canon anterior en los siguientes puntos:
 
 1. **La obra ya no es una sola novela de cinco partes. Es una trilogía.**
-2. **Los títulos oficiales son:** *Seda y Pólvora*, *Voto de Ceniza*, *Interregno*.
+2. **Los títulos oficiales son:** *Seda y Pólvora*, *Voto de Ceniza*, *Cuentas de Sangre*.
 3. **Riley sale de San Aurelio en el Libro I**, antes de H1, no al inicio de la antigua Parte III.
 4. **H1 es el clímax del Libro I** y nace del primer enfrentamiento abierto entre El Patio y una coalición alineada/favorecida/manipulada por Dario.
 5. **El reveal del embarazo a Kal ocurre después de H1 y antes de la coda final del Libro I.**
@@ -573,7 +573,7 @@ Este documento cambia canon anterior en los siguientes puntos:
 12. **Kal decide que Halbrook debe morir al final del Libro II; no lo ejecuta todavía.**
 13. **Corrado es revelado vivo en la coda final del Libro II, después de Santa Lucía.**
 14. **La ejecución pública de Halbrook abre el Libro III.**
-15. **Meridian y el conflicto pleno con Il Consorzio pertenecen principalmente a Interregno.**
+15. **Meridian y el conflicto pleno con Il Consorzio pertenecen principalmente a Cuentas de Sangre.**
 16. **El Libro III ejecuta un plan de salida que ya nació en el Libro II.**
 
 ---
@@ -593,7 +593,7 @@ No inventar por conveniencia:
 - mecanismo legal fino del arresto de Dario;
 - arquitectura operativa detallada de la operación final de Halbrook;
 - construcción exacta del caso Meridian;
-- estrategia precisa de Il Consorzio durante Interregno;
+- estrategia precisa de Il Consorzio durante Cuentas de Sangre;
 - mecanismo concreto de desaparición/salida de Kal y Chiara de San Aurelio.
 
 Estos pendientes pertenecen a los futuros `00_Book_Map.md` y a documentos específicos de diseño. No cambian las fronteras ni funciones fijadas aquí.

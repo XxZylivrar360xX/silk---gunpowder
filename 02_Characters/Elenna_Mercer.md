@@ -35,7 +35,7 @@ Durante sus primeros meses, Elenna parece primero hija de Kal. No es una mezcla 
 
 ### Corte adulto — CANON DEL AUTOR (2026-09-13)
 
-La apariencia adulta queda fijada por [[99_Reference/chapter_concepts/Epilogo_Tres_Hermanas.png]], situada en el epílogo de *Interregno*. Mantiene los ojos verde grisáceos, almendrados, y la piel clara de subtono oliva; suma pecas suaves sobre nariz y pómulos, rostro fino y una sonrisa abierta en la que se vuelve legible Chiara. Usa lentes rectangulares de armazón oscuro.
+La apariencia adulta queda fijada por [[99_Reference/chapter_concepts/Epilogo_Tres_Hermanas.png]], situada en el epílogo de *Cuentas de Sangre*. Mantiene los ojos verde grisáceos, almendrados, y la piel clara de subtono oliva; suma pecas suaves sobre nariz y pómulos, rostro fino y una sonrisa abierta en la que se vuelve legible Chiara. Usa lentes rectangulares de armazón oscuro.
 
 En ese epílogo lleva la chamarra de mezclilla con cuello de borrego de Kal, camiseta oscura, mochila de viaje, la cámara que Héctor regaló a Chiara y un álbum físico de fotografías. Son objetos de su vida elegida y de los vínculos que conserva, no señales de una herencia de poder.
 
@@ -43,7 +43,7 @@ No hereda marcas como inventario. No necesita la cicatriz de Kal, un lunar de Ch
 
 ## Etapa adulta — 21 años y Recluta
 
-> **CANON DEL AUTOR (2026-09-13; rango formalizado 2026-09-16):** durante la etapa del epílogo de *Interregno*, Elenna tiene **21 años**. Aproximadamente veinte años después del cierre inmediato de Palermo, y unas semanas después del epílogo, regresa a San Aurelio para iniciar la academia como **Recluta** del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento de Policía de San Aurelio]]. Se dirige a ella como **Recluta Mercer** (no "Recruit Mercer").
+> **CANON DEL AUTOR (2026-09-13; rango formalizado 2026-09-16):** durante la etapa del epílogo de *Cuentas de Sangre*, Elenna tiene **21 años**. Aproximadamente veinte años después del cierre inmediato de Palermo, y unas semanas después del epílogo, regresa a San Aurelio para iniciar la academia como **Recluta** del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento de Policía de San Aurelio]]. Se dirige a ella como **Recluta Mercer** (no "Recruit Mercer").
 
 Esta decisión abre una historia futura hipotética centrada en Elenna, Riley y Marisol. No pertenece a los tres libros de Kal y Chiara, no convierte el epílogo en un teaser y no fija todavía que Elenna se gradúe, permanezca en el Departamento o adopte una especialidad.
 
@@ -168,7 +168,7 @@ El video sólo puede verse una vez o queda inutilizable después por el mecanism
 
 La guerra sigue abierta y Kal y Chiara todavía no han ganado San Aurelio. El video demuestra que, mientras siguen inmersos en el conflicto e intentan asegurar la ciudad, están perdiendo tiempo irrepetible de la infancia de Elenna.
 
-**H22 es el momento donde cambia la pregunta estratégica:** de *¿cómo hacemos San Aurelio suficientemente seguro para traer a Elenna?* a *¿cómo construimos una estructura capaz de funcionar sin nosotros para poder ir hacia ella?* Aquí nace conscientemente la arquitectura de salida que se desarrollará después y sembrará [[11_Books/Book_03_Interregno/00_Book_Map|Interregno]]. La decisión estratégica nace en H22; la ejecución de la salida ocurre mucho después. No se retiran inmediatamente: la guerra sigue abierta.
+**H22 es el momento donde cambia la pregunta estratégica:** de *¿cómo hacemos San Aurelio suficientemente seguro para traer a Elenna?* a *¿cómo construimos una estructura capaz de funcionar sin nosotros para poder ir hacia ella?* Aquí nace conscientemente la arquitectura de salida que se desarrollará después y sembrará [[11_Books/Book_03_Cuentas_De_Sangre/00_Book_Map|Cuentas de Sangre]]. La decisión estratégica nace en H22; la ejecución de la salida ocurre mucho después. No se retiran inmediatamente: la guerra sigue abierta.
 
 ## El lugar que ocupa en Kal
 

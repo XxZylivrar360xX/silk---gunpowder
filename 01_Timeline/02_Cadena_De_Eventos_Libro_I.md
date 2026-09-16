@@ -44,7 +44,7 @@ La extensión de cada parte depende del movimiento narrativo, no de igualar cap�
 - Halbrook está físicamente en San Aurelio.
 - La guerra todavía no explotó, pero ya es inevitable.
 
-**Cambio de perímetro respecto al Book Map viejo:** el Libro I ya no termina en la vieja Parte II. **Absorbe toda "La Construcción"** (H5–H7, cumpleaños/mudanza, Italia, Camp Alder, "Mi pareja", primera Navidad, F4, F3, H8, Villa Candelaria, H1, reveal, coda Halbrook). La vieja Parte III pasa a ser el **Libro II — Voto de Ceniza**; las viejas Partes IV–V, el **Libro III — Interregno**. Ver los `00_Book_Map.md` de cada volumen.
+**Cambio de perímetro respecto al Book Map viejo:** el Libro I ya no termina en la vieja Parte II. **Absorbe toda "La Construcción"** (H5–H7, cumpleaños/mudanza, Italia, Camp Alder, "Mi pareja", primera Navidad, F4, F3, H8, Villa Candelaria, H1, reveal, coda Halbrook). La vieja Parte III pasa a ser el **Libro II — Voto de Ceniza**; las viejas Partes IV–V, el **Libro III — Cuentas de Sangre**. Ver los `00_Book_Map.md` de cada volumen.
 
 **Reubicación clave respecto a `Hitos.md` heredado:** **F2 — destierro de Riley y muerte de Mei-Lin** se mueve de "Parte III" al **Libro I, antes de H1**. Lo exige [[00_Biblia/00_Trilogy_Structure]] ("Riley pertenece al Libro I"; "el Libro II comienza habiendo perdido ya dos activos: Mei y Riley"). El capítulo exacto es DISEÑO; la posición relativa (después de que El Patio tenga estructura real, con suficiente aire antes de H1 para que la ausencia duela) es la que se propone abajo.
 
@@ -350,4 +350,4 @@ Numeración **continuando desde 27**. Los capítulos marcados 🔒 tienen línea
 
 ---
 
-Ver también: [[06_Relationships/Hitos]] · [[06_Relationships/Momentos_de_Fractura]] · [[00_Biblia/00_Trilogy_Structure]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]] · [[11_Books/Book_03_Interregno/00_Book_Map]]
+Ver también: [[06_Relationships/Hitos]] · [[06_Relationships/Momentos_de_Fractura]] · [[00_Biblia/00_Trilogy_Structure]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]] · [[11_Books/Book_03_Cuentas_De_Sangre/00_Book_Map]]

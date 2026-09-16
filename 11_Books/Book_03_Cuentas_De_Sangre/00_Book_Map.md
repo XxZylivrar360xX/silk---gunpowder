@@ -1,4 +1,4 @@
-# Book 03 — Interregno
+# Book 03 — Cuentas de Sangre
 
 *Mapa narrativo operativo. Libro III de la trilogía — cierre de la saga.*
 
@@ -12,7 +12,7 @@
 
 **Consecuencia, vacío de poder, consolidación, renuncia y salida.**
 
-El libro no trata de *descubrir* que Kal y Chiara deberían marcharse — esa decisión ya nació en H22 (Libro II). *Interregno* trata de **hacer posible la salida**.
+El libro no trata de *descubrir* que Kal y Chiara deberían marcharse — esa decisión ya nació en H22 (Libro II). *Cuentas de Sangre* trata de **hacer posible la salida**.
 
 ## Pregunta del libro
 
@@ -38,7 +38,7 @@ Esta imagen cierra el arco inmediato de Kal y Chiara. El cierre definitivo de la
 
 ## Arcos de los protagonistas
 
-> **CONTINUIDAD POSTERIOR (2026-09-13):** el epílogo ocurre con Elenna a los 21 años, tras un salto de aproximadamente veinte años desde el cierre inmediato de Palermo. Unas semanas después, una historia futura hipotética puede seguirla al iniciar la academia como Recluta (tratamiento: Recluta Mercer). Esta posibilidad queda fuera de *Interregno* y no altera su cierre.
+> **CONTINUIDAD POSTERIOR (2026-09-13):** el epílogo ocurre con Elenna a los 21 años, tras un salto de aproximadamente veinte años desde el cierre inmediato de Palermo. Unas semanas después, una historia futura hipotética puede seguirla al iniciar la academia como Recluta (tratamiento: Recluta Mercer). Esta posibilidad queda fuera de *Cuentas de Sangre* y no altera su cierre.
 
 | | Movimiento | Fractura | Aprendizaje |
 |---|---|---|---|
@@ -65,7 +65,7 @@ No convertir la escena en manual táctico: su función es narrativa, política e
 
 ### Ejecución del plan de salida
 
-El plan existe desde H22. En *Interregno* se convierte en arquitectura concreta: delegación, redundancia, separación de funciones, nodos que sobreviven sin supervisión, socios capaces de decidir, una red civil que no dependa de la presencia diaria de Chiara, un Patio que funcione sin Kal.
+El plan existe desde H22. En *Cuentas de Sangre* se convierte en arquitectura concreta: delegación, redundancia, separación de funciones, nodos que sobreviven sin supervisión, socios capaces de decidir, una red civil que no dependa de la presencia diaria de Chiara, un Patio que funcione sin Kal.
 
 Tesis heredada de Héctor: **no sostenerlo con el cuerpo; construirlo para poder dejar de sostenerlo.**
 

@@ -32,13 +32,13 @@ Esa noche hace que Kal llegue al casino para conocer a los socios. No sabe que a
 
 ## Salida de Libro I y regreso en Libro III
 
-> **CANON DEL AUTOR (2026-09-12):** Matteo sale abruptamente de San Aurelio en el Libro I para buscar a su hermano, desaparecido fuera de la ciudad. La ausencia lo poda de la historia sin volverlo traidor, muerto ni irrelevante; regresa en *Interregno* (Libro III).
+> **CANON DEL AUTOR (2026-09-12):** Matteo sale abruptamente de San Aurelio en el Libro I para buscar a su hermano, desaparecido fuera de la ciudad. La ausencia lo poda de la historia sin volverlo traidor, muerto ni irrelevante; regresa en *Cuentas de Sangre* (Libro III).
 
 La desaparición es obra de [[02_Characters/Nereo_Volpi]], ejecutor extraoficial de La Mesa. La nota que queda detrás no busca negociar: está diseñada para obligar a Matteo a seguir la ruta del hermano y abandonar San Aurelio.
 
-El regreso debe cargar dos cosas a la vez: la búsqueda ya le reveló que su familia puede corregirlo como a cualquier pieza, y Matteo trae una deuda o una evidencia que vuelve esa violencia institucional legible dentro del conflicto mayor de *Interregno*.
+El regreso debe cargar dos cosas a la vez: la búsqueda ya le reveló que su familia puede corregirlo como a cualquier pieza, y Matteo trae una deuda o una evidencia que vuelve esa violencia institucional legible dentro del conflicto mayor de *Cuentas de Sangre*.
 
-Dentro del macroarco de *Interregno*, Matteo no vuelve sólo para entregar un dato: es el testigo humano de una ausencia que Volpi quiso volver administrativa. Su regreso tiene que ayudar a que Chiara pueda enlazar las desapariciones, coerciones y asesinatos que la ciudad leyó como hechos aislados. **Cómo llega a esa pieza, por qué puede volver entonces y qué costo trae consigo siguen PENDIENTE.**
+Dentro del macroarco de *Cuentas de Sangre*, Matteo no vuelve sólo para entregar un dato: es el testigo humano de una ausencia que Volpi quiso volver administrativa. Su regreso tiene que ayudar a que Chiara pueda enlazar las desapariciones, coerciones y asesinatos que la ciudad leyó como hechos aislados. **Cómo llega a esa pieza, por qué puede volver entonces y qué costo trae consigo siguen PENDIENTE.**
 
 > **PENDIENTE:** nombre, oficio y destino del hermano; ciudad de la desaparición; texto exacto de la nota; el miembro o voto de La Mesa que activa a Nereo; qué logra descubrir Matteo y en qué momento exacto vuelve en Libro III.
 
