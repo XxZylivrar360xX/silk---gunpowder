@@ -57,7 +57,7 @@ Elenna frente a un espejo con el uniforme de entrenamiento, unas botas nuevas, l
 
 ## Material en desarrollo (incubadora)
 
-[[07_Ideas/Libro_04_Incubadora/README]] reúne material todavía en evaluación sobre el Libro 4: posible coprotagonista policial (Nicholas Voss, sin fijar), el Caso Nora y su antagonista, relaciones post-trilogía y escenas faro. Nada de esa carpeta es canon por existir ahí; ver la clasificación interna por archivo antes de citarla como decidido.
+[[07_Ideas/Libro_04_Incubadora/README]] reúne material todavía en evaluación sobre el Libro 4: posible coprotagonista policial (Nicholas Voss, sin fijar), el Caso Vera y su antagonista, relaciones post-trilogía y escenas faro. Nada de esa carpeta es canon por existir ahí; ver la clasificación interna por archivo antes de citarla como decidido.
 
 ## Abierto
 

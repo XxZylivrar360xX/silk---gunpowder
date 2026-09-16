@@ -137,15 +137,13 @@ No lo consiguió esa noche, ni Chiara tampoco.
 
 ***
 
-En el Monarch, sentada a su propio escritorio, sacó su papel de siempre — el bueno, el que olía a canela y vainilla, el mismo en el que llevaba meses escribiendo todo lo que de verdad importaba — y escribió lo que tenía que escribir. Llamó, por costumbre, a uno de los sussurros de guardia, con el sobre ya cerrado y el nombre de Kal trazado en tinta sobre la solapa.
+En el Monarch, sentada a su propio escritorio, sacó su papel de siempre — el bueno, el que olía a canela y vainilla, el mismo en el que llevaba meses escribiendo todo lo que de verdad importaba — y escribió lo que tenía que escribir. Metió la hoja en uno de los sobres del hotel — grueso, rojo, con el sello dorado del casino en la solapa; no hacía falta esconder este mensaje de nadie, podía permitirse, por una vez, que se viera desde lejos —, lo cerró y trazó el nombre de Kal en tinta sobre la solapa. Llamó, por costumbre, a uno de los sussurros de guardia.
 
 No llegó a dárselo.
 
 Se quedó con el sobre en la mano un momento de más, pensando en un chico de doce años parado frente a un desconocido en su propio territorio, cargando un papel que no entendía, y en la promesa que le había hecho a Kal hacía apenas unas semanas: que si alguna vez tenía que llegarle algo, lo llevaría ella misma.
 
 —Yo lo llevo —le dijo al sussurro, y se guardó el sobre en el bolsillo del abrigo antes de que nadie pudiera ofrecerse a ahorrarle el viaje.
-
-Metió la hoja, antes de cerrar el sobre, en uno del hotel — grueso, rojo, con el sello dorado del casino en la solapa. No hacía falta esconder este mensaje de nadie; podía permitirse, por una vez, que se viera desde lejos.
 
 Condujo hasta la Almendra con el sedán negro del Monarch, las dos manos en el volante, sin la costumbre suficiente para sentirse cómoda pero sin nadie a quien pedirle que manejara por ella. Metió el sobre por debajo de la puerta de Kal, sin abrirlo de nuevo, sin releerlo, sin darse el permiso de dudar de lo que había escrito.
 

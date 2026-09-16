@@ -22,10 +22,10 @@ El antagonista debe diseñarse con suficiente profundidad para sostener **2–3 
 - Elenna entra como Police Recruit.
 - Nicholas participa en su formación.
 - Primeros turnos / cultura del Departamento.
-- nuevo homicidio de policía reproduce rasgos de Nora;
+- nuevo homicidio de policía reproduce rasgos de Vera;
 - Nicholas cree que volvió el asesino adulto que buscó por años;
 - romance del antagonista con Elenna puede comenzar sin revelación;
-- cierre: la historia oficial de Nora es falsa / existe indicio del niño, pero identidad adulta todavía no confirmada.
+- cierre: la historia oficial de Vera es falsa / existe indicio del niño, pero identidad adulta todavía no confirmada.
 
 ### Libro 2 posible
 
@@ -70,7 +70,7 @@ El aprendizaje central para Nicholas:
 
 - Elenna puede irse sin perder su hogar.
 - Nicholas tiene casa en San Aurelio pero su hogar está en otro sitio.
-- El asesino nunca salió emocionalmente de la habitación donde Nora cayó.
+- El asesino nunca salió emocionalmente de la habitación donde Vera cayó.
 
 Pregunta:
 

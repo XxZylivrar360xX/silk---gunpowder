@@ -1,5 +1,17 @@
 # Log de Sesiones — Seda y Pólvora
 
+## [2026-09-15] Claude Code | Antagonista — nombre de nacimiento y adulto fijados (canon del autor)
+
+Por decisión explícita del autor: nombre de nacimiento **Dylan Marsh**; nombre adulto/legal tras adopción/cambio de custodia **Ethan Cole**. Sustituye la propuesta anterior no aprobada "Adrian Ward". Integrado en [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]] (sección "Antagonista adulto" y "Relación previa con Nicholas"). Retirado de `08_Pendientes_De_Autor.md` (RESUELTO); siguen abiertos mecanismo exacto de adopción, profesión actual, cuándo entra en la vida romántica de Elenna, cuándo debe sospechar el lector, cuánto recuerda conscientemente de Vera y si la saga requiere dos o tres libros. Sin prosa de manuscrito, sin EPUB, sin commit.
+
+## [2026-09-15] Claude Code | Oficial muerta renombrada de "Nora" a "Vera" Kessler — colisión de reparto
+
+Al revisar el roster de `02_Characters/` para verificar el apellido recién fijado, se detectó que ya existe [[02_Characters/Nora_Whitcomb]] (contadora forense de Meridian, personaje distinto y ya activo en el reparto contemporáneo). Para evitar dos "Nora" en la misma saga, el autor decide renombrar a la oficial joven muerta hace ~18-20 años a **Vera Kessler** (apellido y rango fijados en la entrada anterior de este mismo día se conservan sin cambio). Renombrado el archivo `07_Ideas/Libro_04_Incubadora/02_Caso_Nora_y_Antagonista.md` → [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]]; actualizadas todas las menciones y enlaces en `01_Nicholas_Voss.md`, `05_Volpi_y_Corrado.md`, `07_Arquitectura_y_Temas.md`, `04_Legado_Post_Trilogia.md`, `08_Pendientes_De_Autor.md`, `README.md` de la incubadora, `07_Ideas/Arco_Elenna_Libro_04.md` e `INDEX.md`. `CLAUDE_HANDOFF.md` no se tocó a propósito — queda como registro histórico del encargo original del autor, que todavía usaba "Nora". Sin prosa de manuscrito, sin EPUB, sin commit.
+
+## [2026-09-15] Claude Code | Nora Kessler — apellido y rango fijados (canon del autor)
+
+Por decisión explícita del autor sobre el pendiente de la incubadora del Libro 4: Nora tiene apellido **Kessler** y era **oficial joven (Officer)** del Departamento, no recluta bajo tutela formal de Nicholas Voss — su cercanía con él es de compañera/colega. Actualizado [[07_Ideas/Libro_04_Incubadora/02_Caso_Nora_y_Antagonista]] (nombre y rango integrados en el evento fundacional) y [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]] (referencia a Nora con apellido y relación corregida). Retirados de `08_Pendientes_De_Autor.md` los ítems "Apellido" y "Rango exacto" de Nora, marcados RESUELTO; quedan abiertos el resto de los pendientes de esa sección (naturaleza exacta de la relación con Nicholas, barrio, identidad del sospechoso falso, qué sabía Keene). Sin prosa de manuscrito, sin EPUB, sin commit.
+
 ## [2026-09-13] Codex | Microcorrecciones finales de Tres hermanas
 
 Por revisión del autor se corrige una anticipación de continuidad en [[08_Scenes/Book_03/Tres_Hermanas_Material_Narrativo]]: antes del álbum quedan la última aceituna y la servilleta, no el pan dulce ni una referencia al álbum dentro de la mochila. También se reemplaza el gag de las nueve por la pausa de Riley («Ésa no es una pregunta útil»). No se toca el álbum ni el cierre.

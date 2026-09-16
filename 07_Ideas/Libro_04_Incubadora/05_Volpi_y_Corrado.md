@@ -1,10 +1,10 @@
-# Nereo Volpi, Corrado y el caso Nora — incubadora
+# Nereo Volpi, Corrado y el caso Vera — incubadora
 
 > **ESTADO:** DISEÑO FUERTE. Compatible con el hecho de que el destino final de Nereo Volpi está todavía abierto en canon.
 
-## Función de Volpi en Nora
+## Función de Volpi en Vera
 
-Nereo **no mata a Nora**.
+Nereo **no mata a Vera**.
 
 Llega después del disparo como corrector de una crisis que distintos actores necesitan volver administrativamente manejable.
 
@@ -35,7 +35,7 @@ Opción preferida:
 Opción preferida: una niñera/cuidadora del niño.
 
 - Lo quería de verdad.
-- Ve al niño con el arma y/o a Nora caer.
+- Ve al niño con el arma y/o a Vera caer.
 - Entra en colapso traumático real.
 - Volpi no la “vuelve loca”.
 - Explota hospitalización, medicación, contradicciones y tiempo para volver su testimonio legalmente inútil.
@@ -44,7 +44,7 @@ Opción preferida: una niñera/cuidadora del niño.
 
 ## Corrado reconoce el patrón
 
-Nicholas/Elenna detectan que la versión de Nora fue construida, pero no saben por quién.
+Nicholas/Elenna detectan que la versión de Vera fue construida, pero no saben por quién.
 
 Corrado reconoce una arquitectura:
 

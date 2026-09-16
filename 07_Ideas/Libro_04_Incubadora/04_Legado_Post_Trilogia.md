@@ -68,4 +68,4 @@ Ritmos domésticos útiles:
 - caminar viñedo;
 - silencio.
 
-Su única intervención fuerte en el caso puede ser reconocer el método administrativo de Nereo Volpi en el viejo encubrimiento de Nora.
+Su única intervención fuerte en el caso puede ser reconocer el método administrativo de Nereo Volpi en el viejo encubrimiento de Vera.

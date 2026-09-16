@@ -13,13 +13,13 @@ Nicholas Voss es coprotagonista del arco policial junto a Elenna Mercer.
 - Protege con fiereza a los policías bajo su mando, pero no encubre faltas internas: errores pueden corregirse; mentiras, abandono de compañeros o manipulación de evidencia tienen consecuencias.
 - Su trabajo funciona parcialmente como anestesia emocional.
 
-## Herida central: Nora
+## Herida central: Vera
 
-Nicholas arrastra desde hace unos dieciocho a veinte años el homicidio de una agente/recluta cercana a él, provisionalmente llamada **Nora**.
+Nicholas arrastra desde hace unos dieciocho a veinte años el homicidio de una oficial joven cercana a él, **Vera Kessler** — compañera/colega, no recluta bajo su tutela formal (ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista|Caso Vera y antagonista]]).
 
-Durante años creyó que Nora murió intentando salvar a un niño de un tirador adulto. Ese niño terminó convirtiéndose, en su memoria, en “la última persona que Nora salvó”. La opción más fuerte es que Nicholas mantuviera contacto con él con los años, incluso como una figura tipo “Uncle Nick”, sin llegar a criarlo.
+Durante años creyó que Vera murió intentando salvar a un niño de un tirador adulto. Ese niño terminó convirtiéndose, en su memoria, en “la última persona que Vera salvó”. La opción más fuerte es que Nicholas mantuviera contacto con él con los años, incluso como una figura tipo “Uncle Nick”, sin llegar a criarlo.
 
-La verdad posterior invierte esa historia: Nora murió porque **eligió no dispararle al niño**, y el niño fue quien disparó.
+La verdad posterior invierte esa historia: Vera murió porque **eligió no dispararle al niño**, y el niño fue quien disparó.
 
 Nicholas pasó años protegiendo o queriendo al responsable sin saberlo.
 
@@ -53,7 +53,7 @@ Nicholas tiene tendencia a transformar amor en responsabilidad.
 
 Eso puede afectar:
 
-- Nora.
+- Vera.
 - Su hijo.
 - Sus policías.
 - Elenna.

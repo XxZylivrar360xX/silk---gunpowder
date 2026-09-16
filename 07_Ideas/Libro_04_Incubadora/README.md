@@ -16,10 +16,10 @@ Esta carpeta **no sustituye** esos documentos. Los amplía con material todavía
 ## Segmentación
 
 1. [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]] — coprotagonista policial y herida familiar.
-2. [[07_Ideas/Libro_04_Incubadora/02_Caso_Nora_y_Antagonista]] — asesinato fundacional, encubrimiento y asesino serial.
+2. [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]] — asesinato fundacional, encubrimiento y asesino serial.
 3. [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]] — Riley, Marisol, Kal, Chiara y dinámica de hogar.
 4. [[07_Ideas/Libro_04_Incubadora/04_Legado_Post_Trilogia]] — Nadir, Danny, Walt, Bellandi Ridge y Corrado.
-5. [[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]] — conexión del caso Nora con Nereo Volpi.
+5. [[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]] — conexión del caso Vera con Nereo Volpi.
 6. [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]] — escenas ya visibles con diálogo/gestos a proteger.
 7. [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] — posible libro/duología/trilogía y ejes temáticos.
 8. [[07_Ideas/Libro_04_Incubadora/08_Pendientes_De_Autor]] — decisiones todavía abiertas.

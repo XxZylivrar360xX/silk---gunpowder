@@ -12,10 +12,10 @@
 - Qué sabe Nicholas de Kal/Chiara por experiencia directa y qué sólo conoce por reportes/rumor.
 - Si Nicholas interactuó personalmente con Chiara en la época de Varek/Halbrook.
 
-## Nora
+## Vera (antes "Nora")
 
-- Apellido.
-- Rango exacto: recluta, oficial joven u otra posición.
+> **RESUELTO (2026-09-15):** apellido **Kessler**; rango **oficial joven (Officer)**, no recluta bajo tutela formal de Nicholas. Nombre de pila cambiado de "Nora" a "Vera" para evitar colisión con [[02_Characters/Nora_Whitcomb]] (personaje distinto, ya activo en el reparto). Ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]].
+
 - Naturaleza de su relación con Nicholas.
 - Barrio exacto del sur de San Aurelio.
 - Identidad del adulto que fue convertido en sospechoso.
@@ -23,13 +23,13 @@
 
 ## Antagonista
 
-- Nombre de nacimiento.
-- Nombre adulto/legal.
+> **RESUELTO (2026-09-15):** nombre de nacimiento **Dylan Marsh**; nombre adulto/legal **Ethan Cole**. Sustituye la propuesta anterior no aprobada "Adrian Ward". Ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]].
+
 - Mecanismo exacto de adopción/cambio de identidad.
 - Profesión actual.
 - Cuándo entra en la vida romántica de Elenna.
 - Cuándo el lector debe empezar a sospechar.
-- Qué tanto recuerda conscientemente de Nora.
+- Qué tanto recuerda conscientemente de Vera.
 - Cuál es su ideología consciente frente a su compulsión inconsciente.
 - Si la saga requiere dos o tres libros.
 
