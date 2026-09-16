@@ -102,13 +102,13 @@ Kal ya lo había guardado en el cajón de lo resuelto. Ella lo dejó encima de l
 
 —¿Entonces?
 
-—Que conozco el tipo de lugar donde una mentira así rara vez pertenece sólo al hombre que la dice. —Bajó la voz, aunque no había nadie en el penthouse—. Es la misma institución que me negó a mi padre. Il Consorzio. Aquella noche, en el camino al norte, no te di el nombre para no meterte dentro. Ya estás dentro.
+—Que conozco el tipo de lugar donde una mentira así rara vez pertenece sólo al hombre que la dice. —Bajó la voz, aunque no había nadie en el penthouse—. Es la misma institución que me negó a mi padre. Il Consorzio. Aquella noche, en el camino al norte, no te di el nombre para no meterte dentro. Pero ahora ya es diferente.
 
 Kal no lo repitió. Entendió, por fin, la forma de lo que ella había esquivado aquella noche, y no pidió más.
 
-—A mi padre no me lo devolvieron —dijo, al final, mirando el agua—. Hubo un comunicado: el capo de la famiglia Ardizzone había fallecido, una caída desde el acantilado de la casa, en Palermo. Los federales dijeron esa frase y la comisión dijo la misma, palabra por palabra. Nunca hubo un cuerpo que poner junto al de mi madre. Esa cuenta la pago yo sola, cada año.
+—Cuando los federales armaron la redada que selló el destino de Corrado Ardizzone —dijo, al final, mirando el agua—. Todo fue tan preciso, tan organizado, como si fuera una puesta en escena y mi padre fuera el único que nunca sostuvo el libreto. Recuerdo lo que me dijo: "Tesoro mio, no temas, yo me hago cargo de esto." Le susurró a Ettore otras cosas que yo no pude escuchar, y lo único que recuerdo fue el encabezado en los periódicos locales: el capo de la famiglia Ardizzone había fallecido, una caída desde la ladera de la villa junto al mirador que daba a la costa en Mondello. Los federales anunciaron el deceso y luego Il Consorzio repitió la misma versión, palabra por palabra. Nunca hubo un cuerpo que poner junto al de mi madre. Esa cuenta la pago yo sola, cada año. Estoy segura que fue La Mesa la que orquestó la caída de mi padre. El porqué, aun a la fecha, no lo sé.
 
-No dio fechas. Kal tampoco se las pidió.
+No dio fechas. Kal tampoco se las pidió; lo único que pudo ofrecerle fue entendimiento, y el reconocimiento de saber que los errores del pasado a veces cobran una cuenta con saldo para inocentes.
 
 —¿Cómo era? —dijo, en cambio—. Tu madre.
 
@@ -124,11 +124,15 @@ Kal se quedó con la mano quieta contra el borde del jacuzzi, sin mover el agua.
 
 —El apellido lo cambié después. No para castigarlo a él. Para que la parte de mi vida que decidían otros fuera un poco más chica.
 
-—¿Por eso el de tu madre? ¿Bellandi?
+—Bellandi.
 
-—Por eso, y por cosas que todavía no te voy a contar. —Lo dijo sin disculparse y sin prometer que algún día sí—. Pero es más de lo que le he contado a nadie en esta ciudad.
+—Bellandi. Fue inmediato, en cuanto Alessio murió. —Algo en el rostro de Chiara se tensó, sus ojos comenzaron a brillar—. Antes llevé el apellido de mi padre, hasta que La Mesa decidió que debía cargar con el peso del apellido Lusardi.
 
-Kal se quedó callado un momento, con el agua caliente subiéndole por el pecho, midiendo cuánto de sí mismo estaba dispuesto a soltar la misma noche.
+Kal observó cómo la mandíbula de Chiara se tensaba, con el agua caliente subiéndole por el pecho como si el nombre hubiera alterado su temperatura. Esperó a que ella midiera si quería contar más. No presionó.
+
+—Ese maldito figlio di puttana. —Lo dijo mordaz, casi como si escupiera el nombre. Kal vio la impotencia acomodarse en sus ojos, las primeras lágrimas, y después el silencio que cargaba todo lo demás—. Sabía que ese precio lo iba a pagar alguien con sangre. Y no iba a ser yo, Kal. No iba a ser yo.
+
+Kal no supo qué palabra devolver. Devolvió apoyo: puso la palma sobre la de ella bajo el agua, y se quedó midiendo cuánto de sí mismo estaba dispuesto a desnudar esa noche.
 
 —Mi madre tenía un dicho parecido. A su manera. —Movió el agua sin mirarla—. Los sábados que Dale no estaba, hacía panqueques con tocino y miel, y tarareaba una canción que nunca le pregunté de dónde la había sacado. Se comía la mitad de las palabras. Yo la tarareaba con ella sin entender ninguna.
 
@@ -140,7 +144,19 @@ Tarareó dos compases, bajo, casi sin querer, y se detuvo enseguida, como quien 
 
 Chiara no preguntó de qué idioma era la canción. Se acercó un poco más en el agua, hombro contra hombro.
 
-—Salí del ejército por la peor puerta —dijo—. Descubrí lo que un general hacía con los convoyes. Se suponía que llevaban suministros. —Se detuvo—. Llevaban niños.
+—Nunca has recuperado esa parte —dijo Chiara, después de un rato.
+
+—¿A qué te refieres?
+
+—A quién eras antes de llegar a San Aurelio. —Lo dijo despacio, midiendo cada palabra—. No eres sólo un niño que llegó. También podrías ser alguien a quien una persona perdió.
+
+Kal no contestó enseguida. Dejó que la pregunta se quedara flotando en el agua entre los dos.
+
+—Salí del ejército por la peor puerta —dijo, al final—. No fue una baja honrosa. Me sacaron.
+
+Chiara esperó, sin apurar nada.
+
+—Había un general que usaba los convoyes para mover algo más que suministros. En los manifiestos decía agua, medicinas, lo que fuera que un país en guerra necesitara fingir que mandaba. —Dejó pasar un segundo, la voz más baja que antes—. Llevaban niños, Chiara. Empacados como el resto de la carga.
 
 Chiara no hizo la pregunta que habría hecho cualquiera. Esperó.
 
@@ -152,13 +168,23 @@ El agua se movió cuando ella se acercó un poco.
 
 —Sigue por ahí. —No dejó que la voz se le endureciera más de lo necesario—. Ésa es para otra noche.
 
+Desde esa noche carga una sola regla que nunca ha tenido que explicarle a ningún socio, a ningún cliente, a nadie que se siente del otro lado de un contrato con él: los niños no entran en ningún trato, en ninguna cifra, bajo ninguna circunstancia. No es una política de la empresa. Es lo único de lo que jamás negocia.
+
 —¿Y la prisión?
 
 —Las consecuencias de esa noche cayeron sobre mí, no sobre él. Ahí estaba Nadir.
 
 —¿Preso por lo mismo?
 
-—Por robar mercancía que ni él recuerda bien de dónde. —Media sonrisa, la primera desde que empezó a hablar—. Dos hombres en la misma celda por razones que no tenían nada que ver. Él me ayudó a salir; yo lo ayudé a entrar al país, con una rusa que conseguía papeles. Así empezó.
+—Por robar mercancía que ni él recuerda bien de dónde. —Media sonrisa, la primera desde que empezó a hablar—. Dos hombres en la misma celda por razones que no tenían nada que ver.
+
+Se quedó un momento con la vista perdida en el vapor que subía entre los dos.
+
+—Con todo el mundo, el favor lo doy yo primero. Contigo. Con Walt. Hasta con Marco, en el showroom. —Negó con la cabeza, casi para sí mismo—. Con Nadir fue al revés. Él me sacó a mí, sin que yo tuviera nada que ofrecerle a cambio.
+
+—¿Y eso qué te dejó?
+
+—Al principio pensé que le debía toda la vida. —Movió el agua despacio—. Lo ayudé a entrar al país después, con una rusa que conseguía papeles. Pero no fue para emparejar la cuenta. Cuando alguien te saca de un sitio sin pedir nada a cambio, deja de ser una deuda que se cobra algún día. Se vuelve otra cosa. Lo más parecido a un hermano que tengo en este mundo.
 
 —No terminamos aquel juego de preguntas —dijo Chiara, después de un rato—. En el campo de golf. Me quedé con ganas de hacerte una en particular.
 
