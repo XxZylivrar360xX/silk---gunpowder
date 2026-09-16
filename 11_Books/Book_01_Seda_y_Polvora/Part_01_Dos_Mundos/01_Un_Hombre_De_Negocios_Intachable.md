@@ -1,5 +1,5 @@
 <!--
-Estado: borrador provisional.
+Estado: TERMINADO.
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Ventana temporal: Fase 0, domingo; el dia en que llegan los socios del Monarch y ocurre H2.
 Lugares: La Almendra, Departamento de Policia de San Aurelio, Il Gelsomino, Lote Almendra, Cementerio Santa Lucia, La Esquina de Mabel, Casa Comunitaria de la Almendra.

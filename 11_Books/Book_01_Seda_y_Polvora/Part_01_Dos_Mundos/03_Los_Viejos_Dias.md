@@ -1,5 +1,5 @@
 <!--
-Estado: borrador provisional.
+Estado: TERMINADO.
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Ventana temporal: Fase 0, lunes, manana posterior a H2.
 Lugares: taller de Almendra Towing, carcel del condado, norte rural, La Almendra, The Monarch Casino & Hotel, centro de San Aurelio.

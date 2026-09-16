@@ -1,5 +1,5 @@
 <!--
-Estado: borrador provisional.
+Estado: TERMINADO.
 Protagonistas: Chiara Bellandi, Kal Mercer.
 Ventana temporal: Fase 0, domingo, misma tarde-noche del Capitulo 1; ocurre H2.
 Lugares: Kingsley Field, carreteras del norte de San Aurelio, The Monarch Casino & Hotel, Almendra Towing.
