@@ -1,5 +1,7 @@
 # Pending
 
+- **Incubadora Libro 4 — sesión de decisiones en curso (2026-09-15):** ver `98_Agent_Handoff/CURRENT_BRIEF.md` sección "Próximo paso". Resolviendo `07_Ideas/Libro_04_Incubadora/08_Pendientes_De_Autor.md` punto por punto con el autor. Resueltos hoy: Vera (antes Nora) Kessler — apellido/rango; antagonista — Dylan Marsh (nacimiento) / Ethan Cole (adulto). Siguiente: hijo de Nicholas Voss, destino de Volpi, extensión de la saga (2 o 3 libros).
+
 - **ARCO FUTURO DE ELENNA — DOCUMENTADO (2026-09-13):** [[07_Ideas/Arco_Elenna_Libro_04]] registra la dirección aprobada para una historia hipotética posterior: Elenna tiene 21 años en el epílogo, vuelve unas semanas después a San Aurelio e inicia academia como Police Recruit. No escribir todavía la escena ni fijar graduación, especialidad, permanencia o trama del Libro 4.
 
 - **Nomenclatura — RESUELTO (2026-09-13):** migración completa del material vivo a **Kal Mercer**, con ocho rutas renombradas y enlaces actualizados. Historial y snapshots preservados; ver [[98_Agent_Handoff/DECISIONS]].
@@ -39,7 +41,7 @@ Pendientes activos para el siguiente relevo.
 
 ## Criticos Antes De Capitulos
 
-- ~~**Cap. 16 — BLOCKED en CLOSE (2026-09-15):** contradicción física de la secuencia sobre/carta.~~ **SURGERY aplicada; pendiente VERIFY/CLOSE (2026-09-15, Claude Code):** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/16_El_Porton]] reordena la secuencia del bloque final del Monarch — Chiara escribe la carta, la mete en el sobre rojo del hotel, lo cierra, traza el nombre de Kal y después llama al sussurro — sin añadir canon ni tocar C17. Sigue `borrador provisional` (BORRADOR) hasta un CLOSE que confirme Gates A–F verdes. Detalle: [[98_Agent_Handoff/sessions/2026-09-15_claude_surgery_c16_sobre]].
+- ~~**Cap. 16 — BLOCKED en CLOSE (2026-09-15):** contradicción física de la secuencia sobre/carta.~~ ~~**SURGERY aplicada; pendiente VERIFY/CLOSE (2026-09-15).**~~ **LISTO PARA AUTOR (2026-09-15, Claude Code):** RE-CLOSE de [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/16_El_Porton]] tras SURGERY y VERIFY satisfactorio (secuencia carta/sobre lineal, un solo sobre, consistente con Cap. 17). Gates A–F GREEN. `Estado:` actualizado a `LISTO PARA AUTOR` en el capítulo y en [[12_Craft_Policies/CHAPTER_STATUS]]. Pendiente solo la revisión/aprobación final del autor. Detalle: [[98_Agent_Handoff/sessions/2026-09-15_claude_reclose_c16_el_porton]].
 
 - ~~**Caps. 23–25 — CLOSE, LISTOS PARA AUTOR (2026-09-12, Claude Code).**~~ **TERMINADOS (2026-09-12, aprobación explícita del autor, sin revisión adicional de prosa):** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/23_Sin_Rastro]], [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/24_La_Letra_Pequena]] y [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/25_Bajo_Juramento]] pasan a `TERMINADO` en el capítulo y en [[12_Craft_Policies/CHAPTER_STATUS]]. Retirada la deuda de "revisión/aprobación final" de estos tres. Detalle: [[98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25]].
 
