@@ -17,7 +17,7 @@ Tommaso Lusardi no necesita mencionar a Alessio para traerlo a la habitacion. Su
 
 Su funcion es cargar desde el primer capitulo una verdad que Chiara no puede ordenar por completo: San Aurelio es nuevo, pero no esta libre de Italia. El negocio la trae al futuro con gente que conoce exactamente de que pasado viene.
 
-> **CANON DEL AUTOR (2026-09-12):** Volpi entra como un desconocido al departamento de Tommaso en el norte y lo ejecuta sentado en la banca de su terraza. La composición evoca el asesinato de [[02_Characters/Raymond_Keene]] y abre una hipótesis pública de asesino serial que, por la pausa posterior, se descarta antes de *Interregno*. El motivo concreto de Volpi/Varek/La Mesa para eliminarlo sigue **PENDIENTE**; no convertirlo en una muerte funcional sin una causa dentro de la cadena mayor.
+> **CANON DEL AUTOR (2026-09-12):** Volpi entra como un desconocido al departamento de Tommaso en el norte y lo ejecuta sentado en la banca de su terraza. La composición evoca el asesinato de [[02_Characters/Raymond_Keene]] y abre una hipótesis pública de asesino serial que, por la pausa posterior, se descarta antes de *Cuentas de Sangre*. El motivo concreto de Volpi/Varek/La Mesa para eliminarlo sigue **PENDIENTE**; no convertirlo en una muerte funcional sin una causa dentro de la cadena mayor.
 
 ## Reglas de escritura
 

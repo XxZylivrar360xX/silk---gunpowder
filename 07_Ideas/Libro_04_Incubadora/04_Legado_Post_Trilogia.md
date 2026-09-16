@@ -11,7 +11,7 @@ La nueva historia debe permitir que personajes previos carguen consecuencias sin
 ## Nadir Amrani
 
 - Opera un restaurante de hamburguesas y malteadas en el norte de San Aurelio.
-- Se separó de Kal/la organización durante *Interregno* para construir algo fuera de esa estructura.
+- Se separó de Kal/la organización durante *Cuentas de Sangre* para construir algo fuera de esa estructura.
 - La muerte de Héctor y el ataque a la iglesia dejaron grietas.
 - Funciona como puente humano al pasado, no como máquina de exposición.
 

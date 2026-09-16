@@ -51,7 +51,7 @@ No insertarlos por intuición. Mantener su posición como PENDIENTE mientras no 
 | **Libro I**, después de H1, cierra el libro | **Reveal del embarazo a Kal** *(momento obligatorio por diseñar, sin ID; sólo después de que esté fuera de peligro y regrese cierta normalidad doméstica)* |
 | **Voto de Ceniza (Libro II)**, primer tramo importante | **Nacimiento, muerte pública y separación de Elenna** *(posición relativa fijada; capítulo, fecha y detonante pendientes)* |
 | **Voto de Ceniza (Libro II)**, después de que la separación sea cotidiana, **antes** del macrohito siguiente | **H22 — Los primeros pasos** *(CANON DEL AUTOR; BLOQUEADO PARA PROSA — [[00_Biblia/00_Trilogy_Structure]] la fija antes de la caída de Dario, la montaña y Santa Lucía, no después)* |
-| **Voto de Ceniza (Libro II)**, después de H22 | **Macrohito por numerar** — La caída de Dario, Santa Lucía y Halbrook *(orden interno: arresto de Dario → falso final → Santa Lucía + montaña → Kal sentencia a Halbrook; también cobra las muertes de Héctor y Kenji y la aparición posterior de Corrado. La ejecución pública de Halbrook ya no ocurre aquí: abre Interregno / Libro III)* |
+| **Voto de Ceniza (Libro II)**, después de H22 | **Macrohito por numerar** — La caída de Dario, Santa Lucía y Halbrook *(orden interno: arresto de Dario → falso final → Santa Lucía + montaña → Kal sentencia a Halbrook; también cobra las muertes de Héctor y Kenji y la aparición posterior de Corrado. La ejecución pública de Halbrook ya no ocurre aquí: abre Cuentas de Sangre / Libro III)* |
 
 ---
 
@@ -2386,7 +2386,7 @@ La redacción final de la explicación emocional de Kal queda abierta. No debe c
 
 # Macrohito por numerar — La caída de Dario, Santa Lucía y Halbrook
 
-> **CANON DEL AUTOR (2026-08-30).** Esta macrosecuencia pertenece a **Voto de Ceniza (Libro II)** — ver [[00_Biblia/00_Trilogy_Structure]], que manda sobre la vieja etiqueta "Parte III" en cualquier conflicto de escala o frontera entre libros. Orden estructural vigente: `caída legal de Dario → falso final → Santa Lucía + montaña → Kal sentencia a Halbrook`. **La ejecución pública de Halbrook ya NO ocurre dentro de este macrohito: [[00_Biblia/00_Trilogy_Structure]] la mueve a la apertura de Interregno (Libro III), por mano de Kal.** Aquí sólo se cierra la decisión, no el acto.
+> **CANON DEL AUTOR (2026-08-30).** Esta macrosecuencia pertenece a **Voto de Ceniza (Libro II)** — ver [[00_Biblia/00_Trilogy_Structure]], que manda sobre la vieja etiqueta "Parte III" en cualquier conflicto de escala o frontera entre libros. Orden estructural vigente: `caída legal de Dario → falso final → Santa Lucía + montaña → Kal sentencia a Halbrook`. **La ejecución pública de Halbrook ya NO ocurre dentro de este macrohito: [[00_Biblia/00_Trilogy_Structure]] la mueve a la apertura de Cuentas de Sangre (Libro III), por mano de Kal.** Aquí sólo se cierra la decisión, no el acto.
 
 > **DECANONIZACIÓN EXPLÍCITA:** queda sustituida la versión del 2026-08-29 donde Dario sobrevivía Parte III, orquestaba el atentado de la iglesia y Kal lo ejecutaba antes del arresto. La razón es la nueva regla dura: Dario debe estar detenido antes de Santa Lucía para que la continuación de la violencia rompa la hipótesis institucional y revele gradualmente el frente de Halbrook.
 >
@@ -2418,7 +2418,7 @@ Dario ya está detenido. Por eso Santa Lucía, junto con la secuencia de montañ
 
 La relación causal y el orden fino entre Santa Lucía y la montaña permanecen **PENDIENTES**. Lo fijo es su función: convertir a Halbrook en una explicación que antes ni el lector ni las instituciones pertinentes podían formular completa.
 
-Al cierre de la montaña y Santa Lucía, Kal comprende que los dos frentes pertenecían a la misma operación de Halbrook y decide: **Warren Halbrook va a morir.** Esa decisión pertenece a este libro (Voto de Ceniza); **la ejecución no** — [[00_Biblia/00_Trilogy_Structure]] la fija como apertura de Interregno (Libro III), pública y por mano de Kal. La muerte de un Brigadier General en ese acto destruye cualquier posibilidad de seguir tratando la violencia como un problema exclusivamente local y contribuye a justificar la siguiente escalada federal — pero eso ya ocurre en el libro siguiente, no aquí.
+Al cierre de la montaña y Santa Lucía, Kal comprende que los dos frentes pertenecían a la misma operación de Halbrook y decide: **Warren Halbrook va a morir.** Esa decisión pertenece a este libro (Voto de Ceniza); **la ejecución no** — [[00_Biblia/00_Trilogy_Structure]] la fija como apertura de Cuentas de Sangre (Libro III), pública y por mano de Kal. La muerte de un Brigadier General en ese acto destruye cualquier posibilidad de seguir tratando la violencia como un problema exclusivamente local y contribuye a justificar la siguiente escalada federal — pero eso ya ocurre en el libro siguiente, no aquí.
 
 ## Restricciones de continuidad
 
@@ -2449,7 +2449,7 @@ Lo que ocurre **después** de H22, dentro del mismo libro (Voto de Ceniza): la c
 - Motivo exacto de la presencia de Chiara y Kenji en Santa Lucía.
 - Relación causal y orden fino de Santa Lucía + montaña.
 - Qué descubre Kal sobre Halbrook y qué puede demostrar la ley.
-- ~~Quién dispara contra Halbrook en la explanada del Ayuntamiento.~~ **RESUELTO por [[00_Biblia/00_Trilogy_Structure]] (2026-09-07):** lo ejecuta **Kal**, públicamente, y ese acto abre Interregno (Libro III) — no ocurre dentro de este macrohito de Voto de Ceniza. Aquí sólo queda la decisión de sentenciarlo.
+- ~~Quién dispara contra Halbrook en la explanada del Ayuntamiento.~~ **RESUELTO por [[00_Biblia/00_Trilogy_Structure]] (2026-09-07):** lo ejecuta **Kal**, públicamente, y ese acto abre Cuentas de Sangre (Libro III) — no ocurre dentro de este macrohito de Voto de Ceniza. Aquí sólo queda la decisión de sentenciarlo.
 - Desarrollo de las consecuencias federales y de la reconciliación de Kal y Chiara.
 - Causa, posición exacta y pago relacional de la muerte de Héctor.
 
@@ -2580,7 +2580,7 @@ El contraste con Dario es obligatorio: **Dario construye un sistema donde todo p
 
 Mientras San Aurelio los convierte en **La Mancuerna de Hierro y Seda**, ellos profesionalizan, delegan, construyen redundancias, separan funciones y vuelven reemplazables sus posiciones. Exterior: permanencia. Interior: salida.
 
-> **CANON DEL AUTOR (precisión de continuidad, 2026-09-11) — el giro de la pregunta.** Antes del video: *¿cómo hacemos San Aurelio suficientemente seguro para traer a Elenna?* Después: *¿cómo construimos una estructura capaz de funcionar sin nosotros para poder ir hacia ella?* La respuesta pasa a ser **ir ellos hacia ella** — el mismo giro que en [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map|el Book Map de Voto de Ceniza]] siembra la arquitectura de salida de [[11_Books/Book_03_Interregno/00_Book_Map|Interregno]], sin ejecutar todavía el retiro.
+> **CANON DEL AUTOR (precisión de continuidad, 2026-09-11) — el giro de la pregunta.** Antes del video: *¿cómo hacemos San Aurelio suficientemente seguro para traer a Elenna?* Después: *¿cómo construimos una estructura capaz de funcionar sin nosotros para poder ir hacia ella?* La respuesta pasa a ser **ir ellos hacia ella** — el mismo giro que en [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map|el Book Map de Voto de Ceniza]] siembra la arquitectura de salida de [[11_Books/Book_03_Cuentas_De_Sangre/00_Book_Map|Cuentas de Sangre]], sin ejecutar todavía el retiro.
 
 ## Restricciones
 

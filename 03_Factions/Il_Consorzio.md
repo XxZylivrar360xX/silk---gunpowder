@@ -125,7 +125,7 @@ La Mesa conoce a [[02_Characters/Kal_Mercer]] en dos tiempos.
 
 La Mesa preferiría convertirlo en **socio reconocido**, nunca en uno de los suyos: una autoridad territorial aceptable sólo si se somete a reglas y deja que su legitimidad parezca concesión de la institución. Kal se vuelve rival si rechaza esa premisa; no porque quiera conquistar su mundo, sino porque demuestra que una ciudad puede organizarse sin pedirles permiso.
 
-> **PENDIENTE:** el precio concreto que La Mesa exigirá por reconocer a Kal y qué forma toma su rechazo. La condición no puede devolver a Chiara a una posición sin agencia ni resolver antes de tiempo el conflicto reservado de Interregno.
+> **PENDIENTE:** el precio concreto que La Mesa exigirá por reconocer a Kal y qué forma toma su rechazo. La condición no puede devolver a Chiara a una posición sin agencia ni resolver antes de tiempo el conflicto reservado de Cuentas de Sangre.
 
 ---
 
@@ -180,7 +180,7 @@ Nadie lo formula con crudeza. Hablan de *formas*, *respeto*, *continuidad* y de 
 
 Cuando una sanción necesita negabilidad absoluta, La Mesa puede recurrir a [[02_Characters/Nereo_Volpi]]. No es una séptima voz, un jefe oculto ni un sustituto de Valenti: es el ejecutor extraoficial que produce resultados que la institución no puede permitirse nombrar.
 
-Valenti lleva la advertencia y la consecuencia atribuible; Nereo vuelve la consecuencia un accidente, una ausencia o una elección aparentemente voluntaria. Su primer efecto narrativo es la desaparición del hermano de Matteo Bellacorte, que lo obliga a abandonar San Aurelio en el Libro I y deja una deuda viva para *Interregno*.
+Valenti lleva la advertencia y la consecuencia atribuible; Nereo vuelve la consecuencia un accidente, una ausencia o una elección aparentemente voluntaria. Su primer efecto narrativo es la desaparición del hermano de Matteo Bellacorte, que lo obliga a abandonar San Aurelio en el Libro I y deja una deuda viva para *Cuentas de Sangre*.
 
 ---
 
@@ -200,7 +200,7 @@ La confirmación (sin pruebas, sólo deducción de Chiara) llega en H13, "El pa�
 
 > **RESUELTO (2026-09-12):** ¿quién mandó a Chiara a San Aurelio? El Consorcio, ver arriba. Sigue siendo el reloj de la primera parte cuánta autonomía real conserva ella frente a esa orden.
 
-> **PARCIALMENTE RESUELTO (2026-09-12):** Kal entra al radar primero por Chiara y después por su influencia autónoma en San Aurelio; el conflicto pleno de reconocimiento pertenece a Interregno, tras la caída de Dario. Sigue pendiente el precio concreto y la forma del rechazo.
+> **PARCIALMENTE RESUELTO (2026-09-12):** Kal entra al radar primero por Chiara y después por su influencia autónoma en San Aurelio; el conflicto pleno de reconocimiento pertenece a Cuentas de Sangre, tras la caída de Dario. Sigue pendiente el precio concreto y la forma del rechazo.
 
 ---
 

@@ -20,7 +20,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 
 *Leer antes de escribir cualquier cosa.*
 
-- [[00_Biblia/00_Trilogy_Structure]] — **CANON DEL AUTOR (2026-09-07), MANDA SOBRE TODO LO DEMÁS en escala y fronteras entre libros.** *Seda y Pólvora* ya no es una novela de cinco partes: es el Libro I de una trilogía (*Seda y Pólvora* → *Voto de Ceniza* → *Interregno*). Leer esto antes de planear cualquier capítulo que toque el alcance macro de la historia.
+- [[00_Biblia/00_Trilogy_Structure]] — **CANON DEL AUTOR (2026-09-07), MANDA SOBRE TODO LO DEMÁS en escala y fronteras entre libros.** *Seda y Pólvora* ya no es una novela de cinco partes: es el Libro I de una trilogía (*Seda y Pólvora* → *Voto de Ceniza* → *Cuentas de Sangre*). Leer esto antes de planear cualquier capítulo que toque el alcance macro de la historia.
 - [[00_Biblia/Vision]] — qué historia es, su núcleo emocional, lo que no es, y la estructura en tres movimientos
 - [[00_Biblia/Temas]] — los once pilares temáticos, con su uso práctico como filtro de escena
 - [[00_Biblia/Principios_Narrativos]] — las dieciséis reglas que gobiernan toda decisión de escritura
@@ -70,7 +70,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[02_Characters/Harper_Walker]] · [[02_Characters/Tyler_Brooks]] · [[02_Characters/Mei_Lin_Zhao]] · [[02_Characters/Riley_Bennett]] · [[02_Characters/Ren_Wei]] — núcleo ampliado de Almendra Towing: norte rural, carreras, banda rival desintegrada y consolidación del mercado.
 - [[02_Characters/Russell_Whitaker]] · [[02_Characters/Garrett_Cross]] — caras públicas de El Patio: política municipal y administración financiera/legal.
 - [[02_Characters/Matteo_Bellacorte]] — socio del Monarch que abre la puerta de H2: conoce a Kal durante el día y lo cita por la noche con los socios.
-- [[02_Characters/Nereo_Volpi]] — ejecutor extraoficial de La Mesa: el trabajo sucio, eficiente y negable de Il Consorzio. Su contingencia contra el hermano de Matteo provoca la salida de Matteo en Libro I y cobra en *Interregno*.
+- [[02_Characters/Nereo_Volpi]] — ejecutor extraoficial de La Mesa: el trabajo sucio, eficiente y negable de Il Consorzio. Su contingencia contra el hermano de Matteo provoca la salida de Matteo en Libro I y cobra en *Cuentas de Sangre*.
 - [[02_Characters/Fabrizio_Rinaldi]] — provisional; viejo amigo italiano de Chiara dentro del grupo del Monarch.
 - [[02_Characters/Tommaso_Lusardi]] — provisional; hermano de Alessio Lusardi y presencia incómoda del pasado de Chiara.
 - [[02_Characters/Andrew_Callahan]] — agente especial supervisor federal; comandante RICO de Meridian. Su obsesión inicial es Varek, no Kal.
@@ -162,7 +162,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[11_Books/README]] — montaje editorial del libro y flujo EPUB
 - [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] — mapa operativo del libro activo
 - [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]] — esqueleto del Libro II derivado de [[00_Biblia/00_Trilogy_Structure]] (2026-09-09; sin prosa, pendiente de validación). **Integrado (2026-09-11):** apertura en flashforward (Cap. 1), los ~9 meses de embarazo, H8 como antecedente ideológico del exilio, la lista creciente de amenazas, las filosofías de protección de Kal/Chiara, la regla de Riley como payoff (no causa) y su pista clandestina, el capítulo de revelación completa y el primer año de Elenna hasta el giro "ir hacia ella" de H22.
-- [[11_Books/Book_03_Interregno/00_Book_Map]] — esqueleto del Libro III derivado de [[00_Biblia/00_Trilogy_Structure]] (2026-09-09; sin prosa, pendiente de validación)
+- [[11_Books/Book_03_Cuentas_De_Sangre/00_Book_Map]] — esqueleto del Libro III (*Cuentas de Sangre*) derivado de [[00_Biblia/00_Trilogy_Structure]] (2026-09-09; sin prosa, pendiente de validación)
 - [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable]] — Capítulo 1 provisional: día normal de Kal, carta de Walt, acuerdo temprano con Keene/Departamento, Matteo como bisagra e invitación al Monarch
 - [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/02_Demasiado_Listo]] — Capítulo 2 provisional: llegada de Chiara a San Aurelio, Fabrizio/Tommaso/Dario, reunión interna sin Kal, primer apretón de manos, rechazo por "demasiado listo" y cierre paralelo de radar mutuo
 - [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/03_Los_Viejos_Dias]] — Capítulo 3 provisional: titular de Keene, salida de prisión de Walt, primer cruce con Harper, porche de La Almendra, torneos de poker de Chiara y primer encuentro con Blake
@@ -213,13 +213,13 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 
 - [[07_Ideas/Escenas_Guia]] — momentos canon del autor conservados como orientación emocional para prosa futura, sin convertirlos en bocetos rígidos.
 - [[07_Ideas/Escenas_Guia/El_Regreso_De_Elenna]] — reencuentro final de Kal y Chiara con Elenna en Palermo; paga el video de los primeros pasos, el motivo del dedo y la nana de Chiara.
-- [[07_Ideas/Tres_Hermanas_Epilogo]] — epílogo final de *Interregno*: salto temporal en San Aurelio donde Riley, Marisol y Elenna continúan vidas propias; el legado de Kal y Chiara es su libertad, no una institución.
+- [[07_Ideas/Tres_Hermanas_Epilogo]] — epílogo final de *Cuentas de Sangre*: salto temporal en San Aurelio donde Riley, Marisol y Elenna continúan vidas propias; el legado de Kal y Chiara es su libertad, no una institución.
 - [[07_Ideas/Arco_Elenna_Libro_04]] — dirección futura hipotética: Elenna, a los 21 años, vuelve a San Aurelio unas semanas después del epílogo para iniciar la academia como Recluta (tratamiento: Recluta Mercer); fotografía, hermanas y especialidad futura permanecen abiertos.
 - [[07_Ideas/Libro_04_Incubadora/README]] — incubadora de diseño para el Libro 4 (Nicholas Voss, Caso Vera, antagonista, relaciones post-trilogía, escenas faro); nada aquí es canon por existir en la carpeta, ver clasificación interna por archivo.
 - [[08_Scenes/Book_03/Tres_Hermanas_Material_Narrativo]] — boceto no canónico del epílogo: Marisol, Riley y Elenna comparten una tarde de cafetería sin depender de la presencia de Kal y Chiara.
 - [[08_Scenes/Book_02/01_Llegada_Al_Hospital]] — borrador narrativo solicitado por el autor: primera escena de la apertura de *Voto de Ceniza*, limitada a la llegada de Kal y Chiara al hospital.
 - [[08_Scenes/Book_02/02_Nacimiento_Y_Los_Tres]] — borrador narrativo solicitado por el autor: segunda escena de la apertura de *Voto de Ceniza*, nacimiento y los primeros minutos de Kal, Chiara y la bebé juntos.
-- [[08_Scenes/Book_03/Tornare_A_Casa_Material_Narrativo]] — borrador no canónico del reencuentro, solicitado para orientar *Interregno* sin fijar pendientes logísticos o de edad.
+- [[08_Scenes/Book_03/Tornare_A_Casa_Material_Narrativo]] — borrador no canónico del reencuentro, solicitado para orientar *Cuentas de Sangre* sin fijar pendientes logísticos o de edad.
 
 # Relevo entre agentes
 

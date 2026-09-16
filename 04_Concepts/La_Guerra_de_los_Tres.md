@@ -1,6 +1,6 @@
 # La Guerra de los Tres
 
-> **AVISO DE SUPERSESIÓN (2026-09-11).** Este documento es de 2026-08-30, anterior a [[00_Biblia/00_Trilogy_Structure]] (2026-09-07), y usaba "Parte III" como nombre operativo de todo el tramo de la guerra; las etiquetas operativas del cuerpo se actualizaron a Voto de Ceniza / Guerra de los Tres. Leer **"Parte III" como el tramo de *Voto de Ceniza* (Libro II)** que va desde su apertura hasta la caída de Dario, la montaña y Santa Lucía. Dos puntos quedaban en contradicción directa con la trilogía y se corrigen abajo: (1) [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] ocurre **antes** de la caída de Dario/montaña/Santa Lucía, no después de "cerrar Parte III"; (2) la **muerte pública de Halbrook no ocurre dentro de este tramo** — Kal sólo lo sentencia aquí; la ejecución abre *Interregno* (Libro III). No se movió ningún hito ni se inventó contenido nuevo.
+> **AVISO DE SUPERSESIÓN (2026-09-11).** Este documento es de 2026-08-30, anterior a [[00_Biblia/00_Trilogy_Structure]] (2026-09-07), y usaba "Parte III" como nombre operativo de todo el tramo de la guerra; las etiquetas operativas del cuerpo se actualizaron a Voto de Ceniza / Guerra de los Tres. Leer **"Parte III" como el tramo de *Voto de Ceniza* (Libro II)** que va desde su apertura hasta la caída de Dario, la montaña y Santa Lucía. Dos puntos quedaban en contradicción directa con la trilogía y se corrigen abajo: (1) [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] ocurre **antes** de la caída de Dario/montaña/Santa Lucía, no después de "cerrar Parte III"; (2) la **muerte pública de Halbrook no ocurre dentro de este tramo** — Kal sólo lo sentencia aquí; la ejecución abre *Cuentas de Sangre* (Libro III). No se movió ningún hito ni se inventó contenido nuevo.
 
 > **CANON DEL AUTOR (2026-08-30). REGLA DURA DE VOTO DE CENIZA / GUERRA DE LOS TRES.** “Guerra de los Tres” es una denominación de arquitectura narrativa para el autor, los agentes y, progresivamente, el lector. **No existe públicamente.**
 
@@ -35,7 +35,7 @@ La Guerra de los Tres debe escribirse simultáneamente en tres niveles que nunca
 
 Su intervención debe ayudar a que el primer choque abierto de H1 se vuelva inevitable, pero sólo mediante **una** acción concreta aún pendiente. La coalición sigue alineada, favorecida o manipulada por Dario; Halbrook conserva su motivo autónomo y llega después como tercer frente. No convertir la red en explicación total ni en un cuarto bando público.
 
-La arquitectura se siembra en Libro I mediante las ausencias y operaciones de [[02_Characters/Nereo_Volpi|Nereo Volpi]]; en Libro II acelera la escalada y aprovecha el caos para borrar registros, cobrar deudas o reordenar rutas; en *Interregno*, Meridian puede reconstruirla como nexo real entre crímenes y presiones que parecían aislados.
+La arquitectura se siembra en Libro I mediante las ausencias y operaciones de [[02_Characters/Nereo_Volpi|Nereo Volpi]]; en Libro II acelera la escalada y aprovecha el caos para borrar registros, cobrar deudas o reordenar rutas; en *Cuentas de Sangre*, Meridian puede reconstruirla como nexo real entre crímenes y presiones que parecían aislados.
 
 El hallazgo federal no debe ser una organización falsa plantada para engañarlos ni un chivo expiatorio inocente. Meridian encuentra una estructura real, criminal y causalmente relevante, pero ya desactivada: sin mando vivo, sin comunicaciones activas y sin depender de Kal o Chiara. La salida de ambos sólo funciona si han vuelto reemplazable su propio poder y no si escondieron una estructura idéntica detrás del expediente.
 
@@ -170,11 +170,11 @@ La separación debe durar lo suficiente para convertirse en experiencia acumulad
 3. **Caída de Dario:** una parte del rompecabezas se vuelve visible; hechos antes separados revelan una estructura mayor.
 4. **Después de Dario:** las instituciones creen haber cortado el centro principal de la crisis. Esto produce el falso final.
 5. **Santa Lucía + montaña:** la hipótesis vuelve a romperse. Si Dario está detenido, ¿quién acaba de hacer esto? Halbrook empieza a convertirse en una explicación para el lector y para las instituciones pertinentes.
-6. **Kal sentencia a Halbrook:** decide que debe morir. **No lo ejecuta todavía** — [[00_Biblia/00_Trilogy_Structure]] fija que la ejecución pública, por mano de Kal, es el evento que abre *Interregno* (Libro III), no el cierre de este tramo.
+6. **Kal sentencia a Halbrook:** decide que debe morir. **No lo ejecuta todavía** — [[00_Biblia/00_Trilogy_Structure]] fija que la ejecución pública, por mano de Kal, es el evento que abre *Cuentas de Sangre* (Libro III), no el cierre de este tramo.
 
-Antes del corte a *Interregno* también deben haberse cobrado las muertes de Héctor y Kenji, la herida grave de Chiara, la aparición posterior de Corrado según su arco y el cierre reconocible de la arquitectura bélica dentro de *Voto de Ceniza*. La causa y posición exactas de la muerte de Héctor y el orden fino Santa Lucía/montaña permanecen pendientes.
+Antes del corte a *Cuentas de Sangre* también deben haberse cobrado las muertes de Héctor y Kenji, la herida grave de Chiara, la aparición posterior de Corrado según su arco y el cierre reconocible de la arquitectura bélica dentro de *Voto de Ceniza*. La causa y posición exactas de la muerte de Héctor y el orden fino Santa Lucía/montaña permanecen pendientes.
 
-> **PENDIENTE:** relación causal y orden fino entre el atentado de Santa Lucía y la secuencia de montaña; qué institución formula primero una hipótesis demostrable sobre Halbrook. **RESUELTO por [[00_Biblia/00_Trilogy_Structure]]:** quien dispara contra Halbrook es **Kal**, en *Interregno* (Libro III) — ya no es una incógnita de este tramo.
+> **PENDIENTE:** relación causal y orden fino entre el atentado de Santa Lucía y la secuencia de montaña; qué institución formula primero una hipótesis demostrable sobre Halbrook. **RESUELTO por [[00_Biblia/00_Trilogy_Structure]]:** quien dispara contra Halbrook es **Kal**, en *Cuentas de Sangre* (Libro III) — ya no es una incógnita de este tramo.
 
 ## Regla particular — Santa Lucía
 

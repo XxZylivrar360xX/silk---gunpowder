@@ -62,7 +62,7 @@ Si una escena nueva cambia de forma irreversible una relacion, deuda, ritual o j
 
 32. [[02_Characters/Elenna_Mercer#La falsa muerte]] - primer tramo importante de *Voto de Ceniza*; Elenna nace, es declarada muerta y pasa a vivir como Elenna Serra con Riley; mecanismos y capítulo pendientes.
 33. [[06_Relationships/Hitos#H22 — Los primeros pasos]] - después de que la separación de Elenna sea cotidiana; **antes** de la caída de Dario, la montaña y Santa Lucía. **CANON / DISEÑO FIJADO, BLOQUEADO PARA PROSA.**
-34. [[06_Relationships/Hitos#Macrohito por numerar — La caída de Dario, Santa Lucía y Halbrook]] - después de H22: arresto legal de Dario, falso final, Santa Lucía + montaña, muertes de Héctor y Kenji, y Kal sentencia a Halbrook (no lo ejecuta — la ejecución pública abre *Interregno*, Libro III). Número, división y detalles pendientes.
+34. [[06_Relationships/Hitos#Macrohito por numerar — La caída de Dario, Santa Lucía y Halbrook]] - después de H22: arresto legal de Dario, falso final, Santa Lucía + montaña, muertes de Héctor y Kenji, y Kal sentencia a Halbrook (no lo ejecuta — la ejecución pública abre *Cuentas de Sangre*, Libro III). Número, división y detalles pendientes.
 
 ## Huecos activos
 

@@ -314,7 +314,7 @@ El arco familiar amplía, no reemplaza, la maquinaria relacional:
 | Libro I | poder y expectativa de familia al mismo tiempo; Elenna nace narrativamente de la casa |
 | Voto de Ceniza (Libro II), primer tramo | la guerra invade el embarazo; Elenna nace y deben separarse de ella para mantenerla viva |
 | Voto de Ceniza (Libro II), antes de la caída de Dario/montaña/Santa Lucía | [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] rompe la racionalización de la distancia y convierte consolidación en arquitectura de salida |
-| Interregno (Libro III) | ejecutan juntos la salida de la ciudad para recuperar vida cotidiana con su hija |
+| Cuentas de Sangre (Libro III) | ejecutan juntos la salida de la ciudad para recuperar vida cotidiana con su hija |
 
 Elenna no es una garantía de que la relación sobreviva ni un *stake* físico constante. Su ausencia les cambia la pregunta: de construir poder suficiente para estar seguros a construir algo que pueda funcionar sin ellos.
 

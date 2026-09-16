@@ -40,7 +40,7 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 
 ## Reglas Intocables
 
-- **SUPERSESION VIGENTE (2026-09-07):** `00_Biblia/00_Trilogy_Structure.md` manda sobre cualquier diseno anterior en alcance, fronteras entre libros, ubicacion de Riley, H22, cierre de la Guerra de los Tres y apertura de Meridian/Il Consorzio. *Seda y Polvora* ya NO es una novela de cinco partes: es el Libro I de una trilogia (*Seda y Polvora*, *Voto de Ceniza*, *Interregno*). Leer ese archivo antes de planear cualquier capitulo que toque escala de libro.
+- **SUPERSESION VIGENTE (2026-09-07):** `00_Biblia/00_Trilogy_Structure.md` manda sobre cualquier diseno anterior en alcance, fronteras entre libros, ubicacion de Riley, H22, cierre de la Guerra de los Tres y apertura de Meridian/Il Consorzio. *Seda y Polvora* ya NO es una novela de cinco partes: es el Libro I de una trilogia (*Seda y Polvora*, *Voto de Ceniza*, *Cuentas de Sangre*). Leer ese archivo antes de planear cualquier capitulo que toque escala de libro.
 - **CANON DEL AUTOR:** no reinterpretar, no sustituir, no "mejorar" lineas de dialogo canon.
 - **DISENO:** inferencia del agente; se puede discutir.
 - **PENDIENTE:** falta decision del autor; no rellenar por conveniencia.

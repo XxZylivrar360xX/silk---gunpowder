@@ -8,7 +8,7 @@ Cada libro debe tener su propia carpeta, un `00_Book_Map.md` y carpetas de parte
 
 - `Book_01_Seda_y_Polvora/` - Libro I, novela activa en montaje. Absorbe la vieja Parte II ("La Construcción"); termina en H1 + reveal del embarazo + coda de Halbrook. Roadmap: [[01_Timeline/02_Cadena_De_Eventos_Libro_I]].
 - `Book_02_Voto_De_Ceniza/` - Libro II. Solo `00_Book_Map.md` (esqueleto derivado de [[00_Biblia/00_Trilogy_Structure]]). Sin prosa; prosa bloqueada hasta cerrar el Libro I.
-- `Book_03_Interregno/` - Libro III. Solo `00_Book_Map.md` (esqueleto). Sin prosa; prosa bloqueada hasta cerrar los Libros I y II.
+- `Book_03_Cuentas_De_Sangre/` - Libro III — Cuentas de Sangre. Solo `00_Book_Map.md` (esqueleto). Sin prosa; prosa bloqueada hasta cerrar los Libros I y II.
 
 Cada libro tiene su propio `00_Book_Map.md`; las carpetas de partes de los Libros II y III se crean cuando el autor apruebe su desglose.
 

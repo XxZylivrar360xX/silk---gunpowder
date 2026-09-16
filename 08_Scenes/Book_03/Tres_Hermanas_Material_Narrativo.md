@@ -1,11 +1,11 @@
 ---
 tags:
   - material-narrativo
-  - book-03-interregno
+  - book-03-cuentas-de-sangre
   - epilogo
 estado: APROBADO_POR_AUTOR
 integracion: LISTO_PARA_INTEGRACION
-libro: "Book 03 — Interregno"
+libro: "Book 03 — Cuentas de Sangre"
 fuente_canon: "[[07_Ideas/Tres_Hermanas_Epilogo]]"
 referencia_visual: "[[99_Reference/chapter_concepts/Epilogo_Tres_Hermanas.png]]"
 ---
@@ -14,7 +14,7 @@ referencia_visual: "[[99_Reference/chapter_concepts/Epilogo_Tres_Hermanas.png]]"
 
 > **CONTINUIDAD ACTUALIZADA (2026-09-13):** Elenna tiene 21 años en el epílogo y el salto temporal es de aproximadamente veinte años. Esta nota no añade material a la escena ni anticipa su historia policial posterior.
 
-> **MATERIAL NARRATIVO — aprobado por el autor y listo para integración.** Epílogo de *Interregno* derivado de [[07_Ideas/Tres_Hermanas_Epilogo]]; la imagen enlazada fija sólo los rasgos físicos ya registrados como **CANON DEL AUTOR** en las fichas de Riley, Marisol y Elenna. Elenna tiene 21 años y el salto temporal es de aproximadamente veinte años; siguen sin fijarse el nombre de la cafetería y las trayectorias legales o empresariales.
+> **MATERIAL NARRATIVO — aprobado por el autor y listo para integración.** Epílogo de *Cuentas de Sangre* derivado de [[07_Ideas/Tres_Hermanas_Epilogo]]; la imagen enlazada fija sólo los rasgos físicos ya registrados como **CANON DEL AUTOR** en las fichas de Riley, Marisol y Elenna. Elenna tiene 21 años y el salto temporal es de aproximadamente veinte años; siguen sin fijarse el nombre de la cafetería y las trayectorias legales o empresariales.
 
 Marisol llegó con siete minutos de anticipación, que era su manera de cobrarle al día el derecho a llegar tarde a todo lo demás.
 
@@ -433,7 +433,7 @@ Esta vez, Elenna también estaba en la fotografía.
 ## Anclas de continuidad
 
 - Fuente de canon: [[07_Ideas/Tres_Hermanas_Epilogo]].
-- Marco de cierre: [[11_Books/Book_03_Interregno/00_Book_Map]].
+- Marco de cierre: [[11_Books/Book_03_Cuentas_De_Sangre/00_Book_Map]].
 - Rasgos físicos canónicos de epílogo: [[02_Characters/Riley_Bennett]] · [[02_Characters/Marisol_Grayson]] · [[02_Characters/Elenna_Mercer]]; fuente visual: [[99_Reference/chapter_concepts/Epilogo_Tres_Hermanas.png]].
 - Kal y Chiara no aparecen ni explican la escena; las tres sostienen trabajo, humor, viaje y afecto desde sus propias vidas.
 - La cámara vieja de rollo, el álbum físico y la chamarra de Elenna son objetos canónicos de la guía; el texto no narra el regalo de Héctor, pero sí fija que un tercero toma la fotografía final. El mesero no requiere identidad ni continuidad.

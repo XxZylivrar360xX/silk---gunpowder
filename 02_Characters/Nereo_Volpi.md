@@ -45,7 +45,7 @@ Ahí empieza a disiparse la lealtad de Volpi hacia La Mesa. No rompe de inmediat
 
 > **PENDIENTE:** nombre y oficio del hermano; ciudad de la desaparición; qué descubrió; texto exacto de la nota; quién dentro de La Mesa activó la contingencia y si Nereo informó a Valenti antes o sólo después; ubicación, mecanismo y consecuencias inmediatas del segundo atentado contra Chiara/Fabrizio.
 
-## Participación en Libro III — *Interregno*
+## Participación en Libro III — *Cuentas de Sangre*
 
 Nereo vuelve a adquirir peso cuando Matteo regresa con la búsqueda convertida en deuda y evidencia. No debe reemplazar los frentes de [[03_Factions/Fuerza_de_Tarea_Meridian|Meridian]], [[03_Factions/Il_Consorzio|Il Consorzio]] ni el conflicto de Chiara con La Mesa: es la prueba operativa de lo que la institución hace cuando pretende volver administrable a una persona.
 
@@ -61,11 +61,11 @@ Después de Keene, Volpi entra como un desconocido al departamento del norte de 
 
 La policía local y la prensa empiezan a plantear un asesino serial. Tras meses sin otro ataque, esa hipótesis se descarta. No era un asesino serial: eran intervenciones separadas cuyo vínculo real nadie podía probar todavía.
 
-Ya en *Interregno*, después de la apertura canónica con la ejecución pública de Halbrook, un tercer asesinato —víctima pendiente— reactiva el patrón. Es la carta de presentación operativa de La Mesa en San Aurelio y el expediente paralelo que Meridian hereda mientras escala por la crisis federal. La investigación debe revelar que Keene, Tommaso y el tercer caso siempre estuvieron conectados; no porque Kal y Chiara los ordenaran, sino porque los motivos de cada muerte orbitaban su ascenso, sus alianzas y las presiones que se ejercían sobre ellos.
+Ya en *Cuentas de Sangre*, después de la apertura canónica con la ejecución pública de Halbrook, un tercer asesinato —víctima pendiente— reactiva el patrón. Es la carta de presentación operativa de La Mesa en San Aurelio y el expediente paralelo que Meridian hereda mientras escala por la crisis federal. La investigación debe revelar que Keene, Tommaso y el tercer caso siempre estuvieron conectados; no porque Kal y Chiara los ordenaran, sino porque los motivos de cada muerte orbitaban su ascenso, sus alianzas y las presiones que se ejercían sobre ellos.
 
 ### Contrapeso de Chiara
 
-En *Interregno*, Volpi es el opuesto filosófico de Chiara: él usa información para borrar personas, fabricar ruido y volver la ausencia irrecuperable; ella debe convertir esas ausencias en una cadena legible que proteja a los vivos. Su caída no debe resolverse sólo con una ejecución de Kal ni con un rescate de Corrado: Chiara tiene que recuperar agencia sobre el relato y el expediente que Volpi quiso volver imposibles.
+En *Cuentas de Sangre*, Volpi es el opuesto filosófico de Chiara: él usa información para borrar personas, fabricar ruido y volver la ausencia irrecuperable; ella debe convertir esas ausencias en una cadena legible que proteja a los vivos. Su caída no debe resolverse sólo con una ejecución de Kal ni con un rescate de Corrado: Chiara tiene que recuperar agencia sobre el relato y el expediente que Volpi quiso volver imposibles.
 
 ## Reglas de escritura
 

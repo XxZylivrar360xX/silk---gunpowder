@@ -64,7 +64,7 @@ Y/o:
 
 Corrado identifica al **arquitecto del encubrimiento**, no al asesino.
 
-## Destino post-Interregno de Volpi
+## Destino posterior a Cuentas de Sangre de Volpi
 
 > **RESUELTO (2026-09-15, CANON DEL AUTOR):** confirmada la propuesta de confinamiento no oficial en isla mediterránea aislada. La escena de la entrevista y el reconocimiento de Elenna (más abajo) quedan fijados.
 

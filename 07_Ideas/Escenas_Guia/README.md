@@ -13,4 +13,4 @@ No son capítulos ni borradores de prosa. Son la referencia de intención para q
 ## Escenas
 
 - [[07_Ideas/Escenas_Guia/El_Regreso_De_Elenna]]
-- [[08_Scenes/Book_03/Tornare_A_Casa_Material_Narrativo]] — borrador no canónico solicitado para *Interregno*.
+- [[08_Scenes/Book_03/Tornare_A_Casa_Material_Narrativo]] — borrador no canónico solicitado para *Cuentas de Sangre*.

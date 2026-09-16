@@ -19,5 +19,5 @@ Poder decir en una frase qué cambió en el mapa de poder o en la relación. Si 
 
 ## Material narrativo
 
-- [[08_Scenes/Book_03/Tornare_A_Casa_Material_Narrativo]] — borrador no canónico para *Interregno*, guiado por [[07_Ideas/Escenas_Guia/El_Regreso_De_Elenna]].
-- [[08_Scenes/Book_03/Tres_Hermanas_Material_Narrativo]] — boceto no canónico del epílogo de *Interregno*, guiado por [[07_Ideas/Tres_Hermanas_Epilogo]].
+- [[08_Scenes/Book_03/Tornare_A_Casa_Material_Narrativo]] — borrador no canónico para *Cuentas de Sangre*, guiado por [[07_Ideas/Escenas_Guia/El_Regreso_De_Elenna]].
+- [[08_Scenes/Book_03/Tres_Hermanas_Material_Narrativo]] — boceto no canónico del epílogo de *Cuentas de Sangre*, guiado por [[07_Ideas/Tres_Hermanas_Epilogo]].

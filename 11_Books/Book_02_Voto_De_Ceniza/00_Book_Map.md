@@ -6,7 +6,7 @@
 >
 > **BLOQUEO DE PROSA:** no se redacta prosa de este libro hasta cerrar el Libro I. [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] sigue expresamente bloqueado.
 >
-> **INTEGRACIÓN (2026-09-11, Claude Code, encargo del autor).** Incorporada la arquitectura de apertura en flashforward, el arco completo del exilio de Elenna (nacimiento → falsa muerte → pista clandestina → Riley → primer año → H22) y la siembra de la arquitectura de salida hacia *Interregno*, a partir de [[98_Agent_Handoff/ChatGPT/Roadmap de Voto de Ceniza — Elenna, exilio y arquitectura de salida|el roadmap aportado por el autor]]. La guía de ambientación de ese mismo capítulo vive, no diegética, en [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna|Calibración musical — Revelación del exilio de Elenna]]. Ningún mecanismo médico, legal, documental u operativo fue inventado para cerrar huecos: sigue todo marcado PENDIENTE donde ya lo estaba.
+> **INTEGRACIÓN (2026-09-11, Claude Code, encargo del autor).** Incorporada la arquitectura de apertura en flashforward, el arco completo del exilio de Elenna (nacimiento → falsa muerte → pista clandestina → Riley → primer año → H22) y la siembra de la arquitectura de salida hacia *Cuentas de Sangre*, a partir de [[98_Agent_Handoff/ChatGPT/Roadmap de Voto de Ceniza — Elenna, exilio y arquitectura de salida|el roadmap aportado por el autor]]. La guía de ambientación de ese mismo capítulo vive, no diegética, en [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna|Calibración musical — Revelación del exilio de Elenna]]. Ningún mecanismo médico, legal, documental u operativo fue inventado para cerrar huecos: sigue todo marcado PENDIENTE donde ya lo estaba.
 
 ---
 
@@ -151,7 +151,7 @@ Ocurre **después** de que la separación sea vida cotidiana, y **antes** de la 
 
 Sentido: **aquí Kal y Chiara comprenden que deben construir una estructura capaz de funcionar sin ellos.** El plan de salida nace en este libro; no pueden ejecutarlo porque la guerra sigue abierta. Colocación dura: **eligen a Elenna antes de Santa Lucía** — que la decisión no nazca del miedo posterior al atentado.
 
-> **CANON DEL AUTOR (precisión de continuidad, 2026-09-11) — el giro de la pregunta.** Antes del video, Kal y Chiara pueden sostener: *¿cómo hacemos San Aurelio suficientemente seguro para traer a Elenna?* Después: *¿cómo construimos una estructura capaz de funcionar sin nosotros para poder ir hacia ella?* H22 marca el cambio de pregunta estratégica y el nacimiento consciente de la arquitectura de salida que siembra [[11_Books/Book_03_Interregno/00_Book_Map|Interregno]]. Todavía no han ganado San Aurelio: mientras intentan asegurar la ciudad, pierden tiempo irrepetible de la infancia de Elenna. La guerra sigue abierta y la ejecución de la salida ocurre mucho después.
+> **CANON DEL AUTOR (precisión de continuidad, 2026-09-11) — el giro de la pregunta.** Antes del video, Kal y Chiara pueden sostener: *¿cómo hacemos San Aurelio suficientemente seguro para traer a Elenna?* Después: *¿cómo construimos una estructura capaz de funcionar sin nosotros para poder ir hacia ella?* H22 marca el cambio de pregunta estratégica y el nacimiento consciente de la arquitectura de salida que siembra [[11_Books/Book_03_Cuentas_De_Sangre/00_Book_Map|Cuentas de Sangre]]. Todavía no han ganado San Aurelio: mientras intentan asegurar la ciudad, pierden tiempo irrepetible de la infancia de Elenna. La guerra sigue abierta y la ejecución de la salida ocurre mucho después.
 
 ### Falso clímax — Dario cae
 
@@ -173,7 +173,7 @@ Relación causal y orden fino montaña ↔ Santa Lucía: **PENDIENTE.**
 
 La mañana posterior a Santa Lucía, Corrado Ardizzone aparece ante Kal (Chiara no está en condiciones de recibirlo). **Corrado está vivo.** Reglas duras: Santa Lucía no fue obra de Il Consorzio; Corrado no diseña ni facilita la ejecución de Halbrook; su regreso responde a que el equilibrio cambió (mientras su ausencia protegía a Chiara, seguir "muerto" era útil; tras la caída de Dario, su ausencia empieza a favorecer al enemigo). El primer reveal es a Kal; el encuentro con Chiara ocurre después y es decisión de ella.
 
-## Bisagra hacia Interregno
+## Bisagra hacia Cuentas de Sangre
 
 `Dario preso + montaña + Santa Lucía + Kal sentencia a Halbrook + Corrado vivo`
 
@@ -211,4 +211,4 @@ Sin definir. Se crean cuando el autor apruebe el desglose y se cierre el Libro I
 
 ---
 
-Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[04_Concepts/La_Guerra_de_los_Tres]] · [[06_Relationships/Hitos]] · [[02_Characters/Elenna_Mercer]] · [[02_Characters/Riley_Bennett]] · [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[11_Books/Book_03_Interregno/00_Book_Map]]
+Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[04_Concepts/La_Guerra_de_los_Tres]] · [[06_Relationships/Hitos]] · [[02_Characters/Elenna_Mercer]] · [[02_Characters/Riley_Bennett]] · [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[11_Books/Book_03_Cuentas_De_Sangre/00_Book_Map]]
