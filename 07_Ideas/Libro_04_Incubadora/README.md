@@ -1,10 +1,12 @@
-# Libro 4 — Incubadora post-trilogía
+# Libro 4 — Juramento de Hierro — Incubadora post-trilogía
 
-> **ESTADO:** INCUBADORA / DISEÑO. Nada dentro de esta carpeta se vuelve canon por existir aquí.
+> **ESTADO:** INCUBADORA / DISEÑO. Nada dentro de esta carpeta se vuelve canon por existir aquí, salvo lo marcado explícitamente como CANON DEL AUTOR.
 >
 > **BASE DE REVISIÓN:** rama `develop`, commit `734d519433d9591cdb8c5c062391b300366ace0a`.
 >
 > **OBJETIVO:** migrar de forma segmentada las ideas desarrolladas en conversación sobre la continuación de Elenna Mercer, sin contaminar el canon ya fijado en la trilogía.
+>
+> **TÍTULOS (CANON DEL AUTOR, 2026-09-16):** Libro 4 = **Juramento de Hierro** (portada: `99_Reference/book_covers/Juramento_De_Hierro_VICTOR_PAZ.png`); Libro 5 = **Camino a Casa** (portada: `99_Reference/book_covers/Camino_A_Casa_VICTOR_PAZ.png`). Ver [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] para la arquitectura de duología.
 
 ## Fuente principal ya existente
 

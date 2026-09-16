@@ -1,6 +1,6 @@
 # Arquitectura y temas — saga post-trilogía
 
-> **ESTADO:** DISEÑO. Longitud final fijada como CANON DEL AUTOR (2026-09-16): duología.
+> **ESTADO:** DISEÑO. Longitud final fijada como CANON DEL AUTOR (2026-09-16): duología. Títulos fijados como CANON DEL AUTOR (2026-09-16): Libro 4 = **Juramento de Hierro**; Libro 5 = **Camino a Casa**. Portadas: `99_Reference/book_covers/Juramento_De_Hierro_VICTOR_PAZ.png` y `99_Reference/book_covers/Camino_A_Casa_VICTOR_PAZ.png`.
 
 ## Género / tono
 
@@ -19,7 +19,7 @@ El antagonista debe diseñarse con suficiente profundidad para sostener la **duo
 
 > **RESUELTO:** la saga post-trilogía se cierra en dos libros, no tres. El Libro 5 fusiona reconstrucción del encubrimiento y revelación final, apoyado en el arco de [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna|Erin Reyes]] como mecanismo de compresión: la sospecha sobre Ethan queda plantada en una relación con textura emocional desde el Libro 4, no en pistas frías que necesiten un libro completo para acumularse. Razón de diseño: el contenido de un tercer libro (revelación, traición íntima, arco de perdón de Nicholas, reconciliación con Erin) no sostiene una novela propia — funciona mejor como cierre del Libro 5 que como volumen separado inflado para justificar una trilogía. Retirado de `08_Pendientes_De_Autor.md`.
 
-### Libro 4 — plantar
+### Libro 4 — Juramento de Hierro — plantar
 
 - Elenna entra como Recluta (tratamiento: Recluta Mercer); Nicholas participa en su formación (química de pareja policial mentor/aprendiz).
 - Primeros turnos / cultura del Departamento.
@@ -29,7 +29,7 @@ El antagonista debe diseñarse con suficiente profundidad para sostener la **duo
 - **Kal y Chiara no aparecen físicamente en este libro (CANON DEL AUTOR, 2026-09-16).** Presencia solo por llamadas (Kal) y cartas manuscritas (Chiara) — ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]]. La ausencia física es deliberada: acumula peso para el reencuentro del Libro 5.
 - **Cierre — doble golpe (CANON DEL AUTOR, 2026-09-16):** Nicholas persigue con toda su rabia vieja al adulto que siempre culpó por Vera y descubre, con evidencia sólida, que ese hombre nunca pudo ser el tirador — su duelo de veinte años se queda sin objeto, el verdadero responsable sigue invisible. En paralelo, la grieta entre Elenna y Erin queda abierta y nombrada, sin resolver — dos personas que deberían protegerse mutuamente, alejándose justo cuando más se necesitan, mientras Ethan queda cómodo y sin sospecha.
 
-### Libro 5 — reconstrucción y revelación fusionadas
+### Libro 5 — Camino a Casa — reconstrucción y revelación fusionadas
 
 - **Apertura — el disparo (CANON DEL AUTOR, 2026-09-16):** Elenna recibe un disparo serio pero no mortal (ver escena faro 2 en [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]]). Es el disparador del **primer reencuentro físico** de Kal y Chiara con Elenna desde que empezó la academia — después de un libro entero de solo llamadas y cartas, la ausencia acumulada convierte la llegada al hospital en algo más pesado que un cameo de guiño: es el peso real del tiempo no compartido. Cuidado de tono: la escena debe evitar cualquier eco reconocible de reencuentros similares en otras obras (padre e hijo separados por tiempo, "cuánto has cambiado/crecido") — la emoción es la misma familia humana, la línea tiene que ser propia.
 - Reconstrucción del encubrimiento: niñera/testigo, Corrado reconoce patrón de Volpi, viaje a la isla, entrevista con Volpi.
@@ -119,4 +119,4 @@ La calidez no debe cancelar el thriller; debe explicar qué vale la pena protege
 
 > **“No todo lo que enterraron permaneció enterrado.”**
 
-Semilla, no título aprobado.
+Frase paraguas, no título. Títulos aprobados: **Juramento de Hierro** (Libro 4) y **Camino a Casa** (Libro 5) — CANON DEL AUTOR (2026-09-16).

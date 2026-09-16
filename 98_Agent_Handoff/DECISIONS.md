@@ -1,5 +1,7 @@
 # Decisions
 
+- **LIBRO IV Y LIBRO V — TÍTULOS OFICIALES: JURAMENTO DE HIERRO Y CAMINO A CASA (2026-09-16, CANON DEL AUTOR):** la saga post-trilogía (duología, ver [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]]) queda titulada: Libro 4 = **Juramento de Hierro**; Libro 5 = **Camino a Casa**. Portadas vigentes: `99_Reference/book_covers/Juramento_De_Hierro_VICTOR_PAZ.png` y `99_Reference/book_covers/Camino_A_Casa_VICTOR_PAZ.png`. Ambos libros siguen sin carpeta en `11_Books/` (sin desglose de partes aprobado); el material vive en `07_Ideas/Libro_04_Incubadora/` como incubadora/diseño, salvo los títulos y portadas, que son canon fijo.
+
 - **LIBRO III — TÍTULO OFICIAL: CUENTAS DE SANGRE (2026-09-16, CANON DEL AUTOR):** `Cuentas de Sangre` sustituye oficialmente `Interregno` como título del Libro III de la trilogía de Kal Mercer y Chiara Bellandi. Ruta vigente: [[11_Books/Book_03_Cuentas_De_Sangre/00_Book_Map]]. Portada vigente: `99_Reference/book_covers/Cuentas_De_Sangre_VICTOR_PAZ.png`. El cambio es exclusivamente de nomenclatura; arquitectura, trama, canon y función narrativa del volumen permanecen intactos.
 
 - **ECO DE KENJI EN «TRES HERMANAS» — CANON DEL AUTOR (2026-09-13):** Elenna pregunta por el corredor de bolsa que pretendía a Marisol. Marisol responde que no fue serio y remata: «Lo del amor no es para mí.» La línea debe leerse como humor defensivo y eco de Kenji, no como negación de esa relación ni como exposición solemne del duelo.

@@ -247,19 +247,18 @@ Todo lo que el Libro I debe dejar plantado para que el Libro II no tenga que inv
 
 Numeración **continuando desde 27**. Los capítulos marcados 🔒 tienen líneas o beats canon que no se tocan; los marcados ~ son laterales o de ritmo, flexibles en número y posición. Es un **boceto**, no un índice cerrado.
 
-> **DESFASE YA EN CURSO (2026-09-10).** La prosa escrita no sigue este boceto 1:1. El **Cap. 27** (*Me encuentro bien*) absorbió el lado de Chiara de A1+A2+A3 (advertencia de Varek como recuerdo, "me encuentro bien", y la confrontación del taller con las tres líneas canon) — es decir, los bocetos 27+28+29 de esta lista, comprimidos. El **Cap. 28** (*Riesgo pendiente*) es el lado de Kal de H5 (Halbrook / la correa), POV único de Kal. El **Cap. 29** (*La correa*) cierra H5 §14 (la peor noche / la sudadera) y abre H6 §1-4. Resultado: a partir del Cap. 30 el manuscrito arranca en **H6 §5-7** (patio de la mansión, oferta a Varek, primera actuación conjunta, las cascadas) — el "Bloque A" del boceto de abajo (bocetos 30-33) hay que releerlo con esto en cuenta. Los números 28-60 de esta lista **ya no calzan uno a uno** con el manuscrito.
+> **DESFASE — RESUELTO PARA EL BLOQUE A (2026-09-10; cerrado 2026-09-16).** La prosa escrita no siguió este boceto 1:1, pero el Bloque A completo (H5-H7) ya tiene prosa real de principio a fin. El **Cap. 27** (*Me encuentro bien*) absorbió el lado de Chiara de A1+A2+A3 (advertencia de Varek como recuerdo, "me encuentro bien", y la confrontación del taller con las tres líneas canon) — los bocetos 27+28+29 de esta lista, comprimidos. El **Cap. 28** (*Riesgo pendiente*) es el lado de Kal de H5 (Halbrook / la correa), POV único de Kal. El **Cap. 29** (*La correa*) cierra H5 §14 (la peor noche / la sudadera) y abre H6 §1-4 (el regreso golpeado, la conversación, Kal saliendo "como un diablo" a llamar a Varek) — absorbe el boceto 30 de abajo. **Nuevo (2026-09-16):** el **Cap. 30** (*El patio ajeno*, POV Kal) ejecuta H6 §5-6 — absorbe el boceto 31; el **Cap. 31** (*Las cascadas*, POV Chiara) ejecuta H6 §7 y el pacto — absorbe el boceto 32; el **Cap. 32** (*Vamos a casa*, POV Chiara) ejecuta H7 completo y cierra la Parte II — absorbe el boceto 33. **El Bloque A queda cubierto en prosa de punta a punta (Caps. 27-32), pendiente sólo de revisión del autor.** Los números 34+ de esta lista (Bloque B en adelante) **siguen sin prosa** y no calzan uno a uno con la numeración real del manuscrito, que a partir de aquí continúa en 33.
 
 ### Parte II — "Con peores personas he tratado"
 
-### Bloque A — El arco de la tensión
+### Bloque A — El arco de la tensión — ESCRITO (Caps. 27-32, BORRADOR)
 
-- **27 · La sudadera** 🔒 — Cierre de H15: la advertencia de Varek de madrugada. Abre la Parte II. POV Chiara. Termina con ella conectando el contraste (confió en Kal / Varek dice que no).
-- **28 · Me encuentro bien** 🔒 — H5. Halbrook convoca a Kal (fuera de plano o en escena breve). Los dos mensajes de texto. POV dividido: Kal saliendo, Chiara recibiendo. La inferencia equivocada (Varek).
-- **29 · El taller del norte** 🔒 — H5. Chiara sigue a Varek. Las tres líneas canon. La peor noche, la sudadera de Kal como disfraz operativo.
-- **30 · Con peores personas** 🔒 — H6, primera mitad. Kal vuelve golpeado; el ultimátum; la conversación ("puedo vivir sin tu presencia…"); sale como un diablo.
-- **31 · El patio ajeno** 🔒 — H6, segunda mitad. Chiara lo sigue y vigila; la oferta a Varek (Camp Alder por seguridad + papeles de Nadir); la reunión, primera actuación conjunta; "Estás loco."
-- **32 · Las cascadas** 🔒 — H6, cierre. El pacto. "Si para que tú puedas ver a quien tú quieras…"
-- **33 · Vamos a casa** 🔒 — H7. El río, el día de risas, Kal la carga riéndose, "vamos a casa". Va gente del barrio; nadie lo cuenta.
+- **[[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/27_Me_Encuentro_Bien|27 · Me encuentro bien]]** 🔒 — Cierre de H15 (la advertencia de Varek, como recuerdo) + H5 lado Chiara: el mensaje "me encuentro bien", Walt en la destilería, la confrontación del taller del norte con las tres líneas canon.
+- **[[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/28_Riesgo_Pendiente|28 · Riesgo pendiente]]** 🔒 — H5 lado Kal, POV único. Halbrook convoca a Kal fuera de la ciudad y reimpone la correa (Nadir / ICE); Kal vuelve golpeado.
+- **[[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/29_La_Correa|29 · La correa]]** 🔒 — Cierra H5 §14 (la sudadera, la peor noche). Abre H6 §1-4: el regreso golpeado, las líneas canon de la conversación, Kal sale "como un diablo" a llamar a Varek.
+- **[[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/30_El_Patio_Ajeno|30 · El patio ajeno]]** 🔒 — H6 §5-6. El patio de la mansión de Varek; la oferta (Chiara por Camp Alder + margen para Nadir); Chiara convocada; primera actuación conjunta; "Estás loco."
+- **[[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/31_Las_Cascadas|31 · Las cascadas]]** 🔒 — H6 §7, cierre del pacto. Kal le cuenta todo (Halbrook); el pacto de desmontar a Varek desde dentro; "…con peores personas he tratado."
+- **[[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/32_Vamos_A_Casa|32 · Vamos a casa]]** 🔒 — H7 completo. El río norte, el día de risas, Kal la carga riéndose, "vamos a casa". Cierre de la Parte II.
 
 ### Parte III — Ardizzone
 

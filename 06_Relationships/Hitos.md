@@ -1530,7 +1530,9 @@ Ver también: [[06_Relationships/Kal_y_Chiara]] · [[02_Characters/Dario_Varek]]
 
 > **CANON DEL AUTOR (2026-08-23).** Continúa directamente [[#H5 — San Aurelio]]. **Parte 3 por recibir.**
 
-> **ESCRITO PARCIALMENTE (2026-09-10, Claude Code — BORRADOR, falta revisión del autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/29_La_Correa|Capítulo 29 — La correa]] redacta las **secciones 1-4** desde el POV de Chiara: el regreso golpeado ("entra hablando de otra cosa"), la conversación con las dos líneas canon, Chiara ofreciéndole la salida sin cadena (y guardándose la tercera línea del taller), y Kal saliendo *"como un diablo"* a llamar a Varek (*"¿Nos podemos reunir?"*). Cierra con Chiara yendo tras él. **Sin escribir:** secciones 5-7 (el patio de la mansión, la oferta a Varek, la primera actuación conjunta con *"Estás loco"*, y las cascadas / el pacto con la frase *"…con peores personas he tratado"*).
+> **ESCRITO PARCIALMENTE (2026-09-10, Claude Code — BORRADOR, falta revisión del autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/29_La_Correa|Capítulo 29 — La correa]] redacta las **secciones 1-4** desde el POV de Chiara: el regreso golpeado ("entra hablando de otra cosa"), la conversación con las dos líneas canon, Chiara ofreciéndole la salida sin cadena (y guardándose la tercera línea del taller), y Kal saliendo *"como un diablo"* a llamar a Varek (*"¿Nos podemos reunir?"*). Cierra con Chiara yendo tras él.
+
+> **ESCRITO COMPLETO (2026-09-16, Claude Code — BORRADOR, falta revisión del autor):** las secciones 5-7 quedan cubiertas en prosa. [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/30_El_Patio_Ajeno|Capítulo 30 — El patio ajeno]] (POV Kal) ejecuta las secciones 5-6: el patio de la mansión, la oferta a Varek (seguridad para Chiara a cambio de que Kal entre a la organización), la moneda de Camp Alder sembrada como promesa futura sin ejecutarse, el intento parcial de sacar a Nadir del alcance inmediato de Halbrook (Varek ofrece cobertura, no resolución), Chiara convocada y la primera actuación conjunta sin ensayo, y *"— Estás loco."* preservada. [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/31_Las_Cascadas|Capítulo 31 — Las cascadas]] (POV Chiara) ejecuta la sección 7: Kal le cuenta todo lo que sabe (Halbrook, el pasado militar, el ultimátum sobre Nadir, los golpes como recordatorio) — primera vez que rompe voluntariamente su propio patrón de no repartir pesos (ver Cap. 28); Chiara entiende sin que eso resuelva su incomodidad y se guarda, sin resolverlo, la tercera línea de Varek; el pacto de desmontar a Varek desde dentro queda explícito y la frase *"…con peores personas he tratado"* preservada sin parafrasear. **H6 queda cubierto en prosa** salvo pases de revisión del autor.
 
 ---
 
@@ -1668,11 +1670,11 @@ Y ahí **le cuenta todo lo sucedido.**
 
 > **PENDIENTE:** ¿qué gana Halbrook exactamente con que Kal vuelva? Y qué relación real tiene con Varek, si es que la tiene.
 
-> **PENDIENTE:** ¿los papeles de Nadir se arreglan aquí, o queda pendiendo?
+> **PARCIALMENTE RESUELTO EN PROSA (2026-09-16, Cap. 30 — El patio ajeno):** queda pendiendo, a propósito. Kal le pide a Varek cobertura para Nadir; Varek ofrece frenar la exposición inmediata ("una fila más larga de la que esperaba") pero es honesto en que no puede resolver el problema migratorio de fondo — deja la puerta entornada, no abierta. El mecanismo documental sigue sin resolverse (arco reservado, hilo Anya/Washington).
 
 > **PENDIENTE:** las cascadas — nombre y ubicación.
 
-> **PENDIENTE:** ¿cuánto le cuenta Kal a Chiara de lo de Halbrook y del ultimátum? El canon dice *"le cuenta todo lo sucedido"* — conviene fijar si *todo* incluye el precio que está pagando.
+> **RESUELTO EN PROSA (2026-09-16, Cap. 31 — Las cascadas):** *todo* incluye el precio. Le da el nombre de Halbrook, que pertenece a su pasado militar, que fue él quien lo sacó de San Aurelio, el ultimátum sobre Nadir, que los golpes fueron un recordatorio, y que ya usó esa obligación para negociar con Varek — primera vez que rompe voluntariamente su propio patrón de no repartir pesos. No incluye: misión futura concreta de Halbrook, detalles de H19, el expediente clasificado, ni un posible vínculo Halbrook–Varek (porque Kal mismo no lo sabe).
 
 ---
 
@@ -1681,6 +1683,8 @@ Y ahí **le cuenta todo lo sucedido.**
 *Arco de la tensión, parte 3 — el cierre.*
 
 > **CANON DEL AUTOR (2026-08-23).** Cierre del arco. **Y cierra en calma.**
+
+> **ESCRITO (2026-09-16, Claude Code — BORRADOR, falta revisión del autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/32_Vamos_A_Casa|Capítulo 32 — Vamos a casa]] (POV Chiara) ejecuta H7 completo y cierra la Parte II: la llamada con *"Ponte algo cómodo, porque quizá te vayas a mojar"*, el viaje al río norte con Nadir, Danny, Héctor y Walt, la competencia de pesca sin ganador resuelto, el juego en el agua, el atardecer en la formación de roca sin confesiones, y la frase final *"— Vamos a casa."* como última línea de la Parte II, sin glosa posterior. **H7 queda cubierto en prosa** salvo pases de revisión del autor.
 
 ---
 

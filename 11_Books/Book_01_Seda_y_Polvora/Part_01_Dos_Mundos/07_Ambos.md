@@ -1,5 +1,5 @@
 <!--
-Estado: LISTO PARA AUTOR.
+Estado: TERMINADO.
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Ventana temporal: despues de la primera cena y de la costumbre de contarse el dia.
 Lugares: The Monarch Casino & Hotel, El Penthouse.
