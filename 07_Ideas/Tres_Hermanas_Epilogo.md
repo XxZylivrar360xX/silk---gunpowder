@@ -6,7 +6,7 @@
 
 ## Tesis de cierre
 
-> **CANON DEL AUTOR (2026-09-13; supersede la nota de edad anterior):** Elenna tiene 21 años en este epílogo. El salto desde el cierre inmediato de Palermo es de aproximadamente veinte años. Unas semanas después, una historia futura hipotética puede seguir su regreso a San Aurelio como Police Recruit; esta posibilidad no se anuncia dentro del epílogo.
+> **CANON DEL AUTOR (2026-09-13; supersede la nota de edad anterior):** Elenna tiene 21 años en este epílogo. El salto desde el cierre inmediato de Palermo es de aproximadamente veinte años. Unas semanas después, una historia futura hipotética puede seguir su regreso a San Aurelio como Recluta (tratamiento: Recluta Mercer); esta posibilidad no se anuncia dentro del epílogo.
 
 El legado de [[02_Characters/Kal_Mercer|Kal]] y [[02_Characters/Chiara_Bellandi|Chiara]] **no es una institución, un imperio, una cadena hotelera ni San Aurelio**. Es que [[02_Characters/Riley_Bennett|Riley]], [[02_Characters/Marisol_Grayson|Marisol]] y [[02_Characters/Elenna_Mercer|Elenna]] pueden vivir historias propias fuera de la historia de sus padres y protectores.
 
@@ -52,6 +52,6 @@ Elenna abre el álbum sobre la mesa: en la primera hoja está la primera fotogra
 
 ## Continuidad posterior — Libro 4 hipotético
 
-Unas semanas después del epílogo, Elenna regresa a San Aurelio para iniciar la academia como **Police Recruit** del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento de Policía de San Aurelio]]. La decisión pertenece a una historia futura hipotética centrada en Elenna y sus hermanas; no se anuncia ni se anticipa dentro de este epílogo.
+Unas semanas después del epílogo, Elenna regresa a San Aurelio para iniciar la academia como **Recluta** (tratamiento: **Recluta Mercer**) del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento de Policía de San Aurelio]]. La decisión pertenece a una historia futura hipotética centrada en Elenna y sus hermanas; no se anuncia ni se anticipa dentro de este epílogo.
 
 Ver también: [[11_Books/Book_03_Interregno/00_Book_Map]] · [[07_Ideas/Escenas_Guia/El_Regreso_De_Elenna]] · [[02_Characters/Riley_Bennett]] · [[02_Characters/Marisol_Grayson]] · [[02_Characters/Elenna_Mercer]]

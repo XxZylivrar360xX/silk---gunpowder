@@ -31,7 +31,7 @@ Integrar al vault el material de `07_Ideas/Libro_04_Incubadora/` **sin convertir
 
 3. No alteres el epílogo de *Interregno* para adelantar la trama policial.
 
-4. No cambies a Elenna de `Police Recruit` a oficial plena sin que la cronología lo justifique.
+4. No cambies a Elenna de `Recluta` (tratamiento: `Recluta Mercer`) a oficial plena sin que la cronología lo justifique.
 
 5. No muevas a Nicholas Voss a `02_Characters` hasta comprobar si su nombre/rol están suficientemente fijados por el autor. Si se crea ficha, marcar lo no aprobado como abierto.
 

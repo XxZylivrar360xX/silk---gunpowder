@@ -82,6 +82,6 @@ Kal y Nicholas deben reconocerse como dos hombres que quieren proteger a Elenna,
 
 En una escena ligera Nicholas puede decir:
 
-> **“Recruit Mercer, llevo veinte años aprendiendo a no hacer promesas que después puedan usarse contra mí.”**
+> **“Recluta Mercer, llevo veinte años aprendiendo a no hacer promesas que después puedan usarse contra mí.”**
 
 En superficie es humor seco. Más adelante se entiende que nació de una promesa familiar que no pudo cumplir como imaginaba.

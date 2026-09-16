@@ -41,9 +41,9 @@ En ese epílogo lleva la chamarra de mezclilla con cuello de borrego de Kal, cam
 
 No hereda marcas como inventario. No necesita la cicatriz de Kal, un lunar de Chiara ni una colección literal de piezas reconocibles. El contraste importante es más sencillo: **quieta puede recordar muchísimo a Kal; cuando sonríe o se ríe, Chiara aparece.**
 
-## Etapa adulta — 21 años y Police Recruit
+## Etapa adulta — 21 años y Recluta
 
-> **CANON DEL AUTOR (2026-09-13):** durante la etapa del epílogo de *Interregno*, Elenna tiene **21 años**. Aproximadamente veinte años después del cierre inmediato de Palermo, y unas semanas después del epílogo, regresa a San Aurelio para iniciar la academia como **Police Recruit** del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento de Policía de San Aurelio]].
+> **CANON DEL AUTOR (2026-09-13; rango formalizado 2026-09-16):** durante la etapa del epílogo de *Interregno*, Elenna tiene **21 años**. Aproximadamente veinte años después del cierre inmediato de Palermo, y unas semanas después del epílogo, regresa a San Aurelio para iniciar la academia como **Recluta** del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento de Policía de San Aurelio]]. Se dirige a ella como **Recluta Mercer** (no "Recruit Mercer").
 
 Esta decisión abre una historia futura hipotética centrada en Elenna, Riley y Marisol. No pertenece a los tres libros de Kal y Chiara, no convierte el epílogo en un teaser y no fija todavía que Elenna se gradúe, permanezca en el Departamento o adopte una especialidad.
 
@@ -55,7 +55,7 @@ Durante la academia conserva su humor, curiosidad, informalidad, mochila, cámar
 
 ### Terminología y autoridad
 
-**Police Recruit** es el término operativo recomendado para su etapa. Es una recluta en formación, no una oficial plenamente juramentada; no debe recibir de inmediato placa, autoridad policial plena ni funciones de patrulla autónoma. “Cadete” queda reservado como alternativa local o etapa previa si el Departamento la define así.
+**Recluta** es el rango formal para su etapa (tratamiento: **Recluta Mercer**). Es una recluta en formación, no una oficial plenamente juramentada; no debe recibir de inmediato placa, autoridad policial plena ni funciones de patrulla autónoma. "Cadete" queda reservado como alternativa local o etapa previa si el Departamento la define así. El término en inglés "Police Recruit" / "Recruit Mercer" queda descartado.
 
 ## Quién es
 

@@ -8,7 +8,7 @@
 
 ## Fuente principal ya existente
 
-- [[07_Ideas/Arco_Elenna_Libro_04]] — dirección futura ya aprobada: Elenna, 21 años, regresa a San Aurelio e inicia la academia como **Police Recruit**.
+- [[07_Ideas/Arco_Elenna_Libro_04]] — dirección futura ya aprobada: Elenna, 21 años, regresa a San Aurelio e inicia la academia como **Recluta** (tratamiento: **Recluta Mercer**).
 - [[07_Ideas/Tres_Hermanas_Epilogo]] — epílogo aprobado de *Interregno*.
 
 Esta carpeta **no sustituye** esos documentos. Los amplía con material todavía en evaluación.

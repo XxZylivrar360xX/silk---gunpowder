@@ -157,7 +157,7 @@ Línea fuerte:
 
 Posible cierre:
 
-> **“Para él eres la hija de dos fantasmas. Para mí eres Recruit Mercer. Y ya me das suficientes problemas por cuenta propia.”**
+> **“Para él eres la hija de dos fantasmas. Para mí eres Recluta Mercer. Y ya me das suficientes problemas por cuenta propia.”**
 
 Función: derecho de Elenna a no convertirse en réplica de nadie.
 

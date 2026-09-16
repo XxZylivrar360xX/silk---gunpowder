@@ -6,7 +6,7 @@
 
 ## Punto de partida
 
-Elenna Mercer tiene 21 años en el epílogo [[07_Ideas/Tres_Hermanas_Epilogo]]. Después de varios años de viajes, fotografía, temporadas breves y regresos a San Aurelio, vuelve a la ciudad unas semanas después para iniciar la academia como **Police Recruit** del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento de Policía de San Aurelio]].
+Elenna Mercer tiene 21 años en el epílogo [[07_Ideas/Tres_Hermanas_Epilogo]]. Después de varios años de viajes, fotografía, temporadas breves y regresos a San Aurelio, vuelve a la ciudad unas semanas después para iniciar la academia como **Recluta** (tratamiento: **Recluta Mercer**) del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento de Policía de San Aurelio]].
 
 El epílogo permanece cerrado. No se le añade placa, uniforme, solicitud ni anuncio profesional.
 
@@ -35,7 +35,7 @@ La fotografía le da una ventaja modesta: observa espacios, manos, posiciones, c
 
 Su primera etapa puede incluir solicitud, investigación de antecedentes, entrevista, evaluación física, evaluación psicológica e ingreso a academia, sin convertir la historia en un manual burocrático.
 
-**Police Recruit** es la nomenclatura principal. En esta etapa Elenna está en formación y no ejerce autoridad policial plena. La graduación, el trabajo de campo, la especialidad y la permanencia en el Departamento quedan abiertos.
+**Recluta** es el rango formal (tratamiento: **Recluta Mercer**; el término en inglés "Police Recruit"/"Recruit Mercer" queda descartado). En esta etapa Elenna está en formación y no ejerce autoridad policial plena. La graduación, el trabajo de campo, la especialidad y la permanencia en el Departamento quedan abiertos.
 
 ## Las hermanas
 

@@ -34,11 +34,11 @@ Palermo. Casa modesta azul, molduras blancas, jardín. Chiara con una copa de vi
 > **Chiara:** —No vayas a quemar de nuevo la cocina, amore.
 > **Kal:** —No prometo nada.
 
-Esta imagen cierra el arco inmediato de Kal y Chiara. El cierre definitivo de la saga se cobra, tras un salto de aproximadamente veinte años, en [[07_Ideas/Tres_Hermanas_Epilogo|«Tres Hermanas»]]: una escena en San Aurelio donde Riley, Marisol y Elenna viven su propia historia sin requerir la presencia ni validación de ellos. Elenna tiene 21 años. Unas semanas después, una historia futura hipotética puede seguir su regreso a San Aurelio como Police Recruit; esa posibilidad queda fuera de este libro y no altera el cierre.
+Esta imagen cierra el arco inmediato de Kal y Chiara. El cierre definitivo de la saga se cobra, tras un salto de aproximadamente veinte años, en [[07_Ideas/Tres_Hermanas_Epilogo|«Tres Hermanas»]]: una escena en San Aurelio donde Riley, Marisol y Elenna viven su propia historia sin requerir la presencia ni validación de ellos. Elenna tiene 21 años. Unas semanas después, una historia futura hipotética puede seguir su regreso a San Aurelio como Recluta (tratamiento: Recluta Mercer); esa posibilidad queda fuera de este libro y no altera el cierre.
 
 ## Arcos de los protagonistas
 
-> **CONTINUIDAD POSTERIOR (2026-09-13):** el epílogo ocurre con Elenna a los 21 años, tras un salto de aproximadamente veinte años desde el cierre inmediato de Palermo. Unas semanas después, una historia futura hipotética puede seguirla al iniciar la academia como Police Recruit. Esta posibilidad queda fuera de *Interregno* y no altera su cierre.
+> **CONTINUIDAD POSTERIOR (2026-09-13):** el epílogo ocurre con Elenna a los 21 años, tras un salto de aproximadamente veinte años desde el cierre inmediato de Palermo. Unas semanas después, una historia futura hipotética puede seguirla al iniciar la academia como Recluta (tratamiento: Recluta Mercer). Esta posibilidad queda fuera de *Interregno* y no altera su cierre.
 
 | | Movimiento | Fractura | Aprendizaje |
 |---|---|---|---|

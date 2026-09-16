@@ -21,7 +21,7 @@ El antagonista debe diseñarse con suficiente profundidad para sostener la **duo
 
 ### Libro 4 — plantar
 
-- Elenna entra como Police Recruit; Nicholas participa en su formación (química de pareja policial mentor/aprendiz).
+- Elenna entra como Recluta (tratamiento: Recluta Mercer); Nicholas participa en su formación (química de pareja policial mentor/aprendiz).
 - Primeros turnos / cultura del Departamento.
 - Erin Reyes, mejor amiga civil de Elenna, ya presente — da la única relación horizontal fuera del trabajo.
 - Nuevo homicidio de policía reproduce rasgos de Vera; Nicholas cree que volvió el asesino adulto que buscó por años.
