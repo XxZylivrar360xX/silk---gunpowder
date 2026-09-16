@@ -1,4 +1,6 @@
 <!--
+EPUB: EXCLUDE
+CLASIFICACION: REDIRECT STUB / NO ES CAPITULO NARRATIVO / NO LIFECYCLE / NO EPUB.
 NOTA DE REDIRECCION (2026-09-10, BLOQUE 2 de PLAN_CIRUGIA_EDITORIAL_PARTE_I).
 Este capitulo fue fusionado con el antiguo Capitulo 5 (La casa no quiere ruido).
 El contenido completo vive ahora en:

@@ -20,6 +20,13 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 
 WIKILINK_RE = re.compile(r"\[\[([^\]|#]+)?(?:#[^\]|]+)?(?:\|([^\]]+))?\]\]")
 HTML_COMMENT_RE = re.compile(r"<!--.*?-->\s*", re.DOTALL)
+EPUB_EXCLUDE_MARKER = "EPUB: EXCLUDE"
+
+
+def is_epub_excluded(raw_text: str) -> bool:
+    """Files carrying this marker (e.g. redirect stubs) are kept in the vault
+    but never incorporated into the exported EPUB."""
+    return EPUB_EXCLUDE_MARKER in raw_text
 
 
 def clean_wikilinks(text: str) -> str:
@@ -62,12 +69,15 @@ def strip_yaml_frontmatter(text: str) -> str:
     return text
 
 
-def read_markdown(path: Path) -> str:
-    text = path.read_text(encoding="utf-8-sig")
+def format_markdown(text: str) -> str:
     text = strip_yaml_frontmatter(text)
     text = HTML_COMMENT_RE.sub("", text)
     text = clean_wikilinks(text)
     return text.strip() + "\n"
+
+
+def read_markdown(path: Path) -> str:
+    return format_markdown(path.read_text(encoding="utf-8-sig"))
 
 
 def collect_folder(folder: Path, include_divider: bool) -> list[str]:
@@ -76,11 +86,19 @@ def collect_folder(folder: Path, include_divider: bool) -> list[str]:
         return []
 
     sections: list[str] = []
-    if include_divider:
-        sections.append(f"# {divider_title(folder.name)}\n")
     for file_path in files:
+        raw_text = file_path.read_text(encoding="utf-8-sig")
+        if is_epub_excluded(raw_text):
+            print(f"  - excluded from EPUB: {file_path.relative_to(VAULT_ROOT)}")
+            continue
         print(f"  + {file_path.relative_to(VAULT_ROOT)}")
-        sections.append(read_markdown(file_path))
+        sections.append(format_markdown(raw_text))
+
+    if not sections:
+        return []
+
+    if include_divider:
+        sections.insert(0, f"# {divider_title(folder.name)}\n")
     return sections
 
 

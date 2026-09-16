@@ -1,5 +1,5 @@
 <!--
-Estado: borrador provisional.
+Estado: LISTO PARA AUTOR.
 Protagonistas: Chiara Bellandi, Kal Mercer.
 Ventana temporal: dias posteriores a la salida de Walt.
 Lugares: The Monarch Casino & Hotel, La Isla, La Almendra.

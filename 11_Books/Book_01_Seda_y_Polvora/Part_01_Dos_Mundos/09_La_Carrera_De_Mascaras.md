@@ -1,5 +1,5 @@
 <!--
-Estado: TRIADO -- pendiente de edicion editorial global (microedicion de prosa 2026-08-29: se podaron residuos de encargo y frases de tesis; funcion y beats idénticos).
+Estado: LISTO PARA AUTOR.
 Protagonistas: Kal Mercer, Chiara Bellandi; Tyler Brooks como aparicion.
 Ventana temporal: dias despues del Capitulo 8 (la noche del ladrillo). Todavia son formalmente amigos; no hay primer beso.
 Lugares: Il Gelsomino (arranque), corredor comercial de salida al interior, La Tramoya (tienda de vestuario/utileria/mascaras), Kingsley Field y carreteras perimetrales / Carretera de Milla.

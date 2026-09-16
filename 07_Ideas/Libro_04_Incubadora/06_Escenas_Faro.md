@@ -32,6 +32,8 @@ Nicholas puede responder que dos verdades pueden coexistir: lo que fueron para S
 
 ## 2. Hospital — llegada de Kal y Chiara
 
+> **CANON DEL AUTOR (2026-09-16):** abre el **Libro 5**. Es el primer reencuentro físico de Kal y Chiara con Elenna desde el inicio de la academia — en el Libro 4 solo hubo llamadas (Kal) y cartas (Chiara). Escribir con voz propia, sin ecos reconocibles de reencuentros similares en otras obras.
+
 Elenna recibe un disparo serio pero no mortal.
 
 Detalles visuales:
@@ -180,3 +182,21 @@ Nicholas no promete. Responde:
 > **“Sí. Voy a casa.”**
 
 No fijar todavía como final definitivo.
+
+## 6. La presa del sur — confesión de Erin
+
+> **CANON DEL AUTOR (2026-09-16).** Diálogo literal del autor; no reescribir ni suavizar. Ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]] para el arco completo de Erin Reyes.
+
+Contexto: discusión tensa entre Elenna y Erin sobre Ethan, en una presa del sur de San Aurelio (lugar nuevo, todavía sin ficha en `05_Locations/`), con el agua cayendo en cascada desde el mirador. Ocurre **antes** de que se confirme la identidad de Ethan — Elenna todavía lo defiende.
+
+Elenna:
+
+> **"¿Por qué?"**
+
+Erin, gritando entre lágrimas por encima del ruido del agua:
+
+> **"¿Por qué? ¡Porque te amo, Elenna, te amo y tú ni siquiera puedes verme de la misma manera!"**
+
+La discusión las aparta. La reconciliación llega después de la revelación sobre Ethan, con Elenna rota por la crisis — ahí Elenna reconoce que Erin siempre estuvo ahí para ella, y es donde su propio amor encuentra el camino (no reciprocidad inmediata en esta escena).
+
+Función: planta la sospecha sobre Ethan dentro de una relación con peso emocional propio, no como pista fría; recontextualiza retroactivamente las advertencias de Erin como posibles celos justo antes de que resulten ciertas.

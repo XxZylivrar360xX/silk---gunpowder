@@ -60,4 +60,10 @@ El diario convierte algunos rumores en hechos públicos. Otros los mata. Otros n
 
 ---
 
+---
+
+## Nota de futuro (incubadora, no canon de Libro I)
+
+> **INCUBADORA (2026-09-16):** para la época de *Libro 4* (post-*Interregno*), *El Faro* ya no pertenece a Chiara — consistente con que Kal y Chiara distribuyeron/soltaron su poder institucional al cerrar la trilogía. En ese diario trabaja **Erin Reyes**, periodista y mejor amiga de Elenna Mercer (ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]]). No es la misma "joven periodista" mencionada arriba como pendiente de diseño de Libro I — la línea de tiempo no lo permite — pero queda disponible como eco temático: el diario que Chiara convirtió en instrumento de precisión, una generación después, en manos de alguien ajena a ella por completo. Sin decidir todavía si desarrollar esa resonancia o dejarla de fondo.
+
 Ver también: [[02_Characters/Chiara_Bellandi]] · [[00_Biblia/Reglas_del_Mundo]] · [[00_Biblia/Temas]] · [[03_Factions/Red_Civil_de_Chiara]]

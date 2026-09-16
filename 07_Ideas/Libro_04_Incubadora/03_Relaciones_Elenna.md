@@ -111,6 +111,8 @@ Diseño fuerte, no canon cerrado.
 
 ## Kal Mercer
 
+> **CANON DEL AUTOR (2026-09-16):** en el Libro 4, Kal no aparece físicamente — solo por llamadas. Su primera aparición en persona es en el Libro 5, en el hospital (ver más abajo), tras un libro entero de ausencia acumulada.
+
 Reglas familiares ya preferidas:
 
 - Kal la llama **Elenna**.
@@ -129,7 +131,9 @@ San Aurelio de noche puede inquietarlo más que los viajes internacionales porqu
 
 ### Hospital
 
-En algún punto Elenna recibe un disparo no mortal pero serio.
+> **CANON DEL AUTOR (2026-09-16):** el disparo y esta escena abren el **Libro 5** — es el primer reencuentro físico de Kal (y Chiara) con Elenna desde que empezó la academia. Cuidar el tono: la emoción de "tiempo perdido/todo cambió" debe escribirse con voz propia, sin ecos reconocibles de escenas similares de otras obras.
+
+Elenna recibe un disparo no mortal pero serio.
 
 Kal cruza medio mundo.
 
@@ -212,6 +216,28 @@ Ambas:
 Chiara santigua a Elenna antes de subir al avión.
 
 ---
+
+## Erin Reyes
+
+> **CANON DEL AUTOR (2026-09-16):** nueva amiga civil de Elenna, anterior a la academia — no es policía. Verificado sin colisión con `02_Characters/`.
+
+Mejor amiga de Elenna desde antes de que ella entrara al Departamento. Le da a Elenna una relación horizontal que hoy no existe en su vida: Nicholas es mentor, Ethan es pareja, Erin es la única presencia de igual a igual, fuera del trabajo.
+
+### Origen (CANON DEL AUTOR, 2026-09-16)
+
+Se conocieron en Río de Janeiro, en el festival Rock in Rio, durante el primer viaje de Elenna a los 15 años, viajando con Marisol. Desde ahí decidieron seguir viajando juntas. Cuando Elenna decide regresar a San Aurelio, Erin decide quedarse con ella en vez de seguir su propio camino — primer indicio, mucho antes de la presa, de hasta dónde llega lo que siente.
+
+Erin es periodista en *El Faro de San Aurelio* — el mismo diario que [[02_Characters/Chiara_Bellandi]] tomó en el Libro I ([[03_Factions/El_Faro]]) y que, para la época de Elenna, ya no le pertenece a Chiara (consistente con que Kal y Chiara distribuyeron/soltaron su poder institucional al cerrar la trilogía). Conexión disponible, no forzada: el diario que Chiara convirtió en instrumento de precisión, una generación después, en manos de alguien ajena a ella por completo.
+
+Erin está enamorada de Elenna desde hace tiempo y nunca lo ha dicho. Es la única persona cercana a quien la presencia de Ethan le resulta genuinamente mal — y, a diferencia de otras versiones consideradas, **sí lo dice, sin autocensurarse.** Elenna la descarta. El patrón se repite y se lee, para Elenna y para el lector, como celos no reconocidos más que como percepción real — ambigüedad deliberada que debe sostenerse hasta la escena de la presa.
+
+### Arco a través del libro que absorbe la revelación (ver [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]])
+
+1. Erin advierte sobre Ethan, en voz alta, más de una vez. Elenna la aleja cada vez más.
+2. La tensión estalla en la presa del sur (lugar nuevo, sin ficha de `05_Locations/` todavía) — confesión de amor no correspondida (ver escena faro en [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]]). Ocurre **antes** de que se confirme la identidad de Ethan, mientras Elenna todavía lo defiende. La discusión las aparta.
+3. La revelación sobre Ethan llega después, con Elenna rota por la crisis. La ruptura con Erin se resuelve en la reunión posterior: Elenna entiende que Erin siempre estuvo ahí para ella — ahí es donde su propio amor por Erin encuentra el camino. No es reciprocidad inmediata en la presa; nace de la crisis y del reencuentro.
+
+**Función estructural:** la sospecha sobre Ethan queda encarnada en una relación con textura emocional desde el arranque, no en pistas frías acumuladas — esto es lo que permite fusionar el libro de "reconstrucción" con el de "revelación" sin que se sienta apresurado.
 
 ## Foto de Tres Hermanas
 

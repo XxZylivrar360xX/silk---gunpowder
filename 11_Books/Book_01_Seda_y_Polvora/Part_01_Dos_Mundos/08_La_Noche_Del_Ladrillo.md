@@ -1,5 +1,5 @@
 <!--
-Estado: borrador provisional.
+Estado: LISTO PARA AUTOR.
 Protagonistas: Chiara Bellandi, con apariciones de Blake Stanton, Dario Varek, Kal Mercer, Nadir Amrani, Daniel Hayes y Hector Navarro.
 Ventana temporal: dias despues del Capitulo 7 (la noche de hierba en el penthouse). Todavia se estan conociendo — antes del primer beso.
 Lugares: Gabriella's (fiesta de vestimenta blanca).

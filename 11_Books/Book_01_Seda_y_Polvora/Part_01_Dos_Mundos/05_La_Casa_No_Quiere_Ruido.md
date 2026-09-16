@@ -1,5 +1,5 @@
 <!--
-Estado: borrador provisional.
+Estado: LISTO PARA AUTOR.
 Protagonistas: Chiara Bellandi, Kal Mercer.
 Ventana temporal: dias/semanas posteriores al primer favor, hasta la primera noche que ninguno de los dos llama cita.
 Lugares: The Monarch Casino & Hotel, La Almendra, centro de San Aurelio, Il Gelsomino.
