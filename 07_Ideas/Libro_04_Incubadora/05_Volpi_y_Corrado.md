@@ -30,6 +30,8 @@ Opción preferida:
 - Años después puede reclutarlo secretamente.
 - La ejecución de Raymond Keene ocurre mucho más tarde y deja ver que Volpi ya es algo más peligroso que un simple ejecutor.
 
+> **CANON DEL AUTOR (2026-09-16):** el adulto real de la casa que Volpi hace desaparecer tenía conexiones criminales con la organización de Dario Varek (asociado de bajo nivel) — es exactamente lo que vuelve "una crisis que también beneficia a Varek" algo concreto, no solo una frase de diseño. Como consecuencia directa, Dario asume al niño (Dylan Marsh) como un cabo suelto propio y encarga su crianza a [[02_Characters/Vivian_Varek]]. Ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]] para el destino completo (Vivian lo cría, él la envenena a los 15 años, cubierto como sobredosis).
+
 ## Testigo / niñera
 
 Opción preferida: una niñera/cuidadora del niño.
@@ -68,6 +70,8 @@ Corrado identifica al **arquitecto del encubrimiento**, no al asesino.
 
 > **RESUELTO (2026-09-15, CANON DEL AUTOR):** confirmada la propuesta de confinamiento no oficial en isla mediterránea aislada. La escena de la entrevista y el reconocimiento de Elenna (más abajo) quedan fijados.
 
+> **RESUELTO (2026-09-16, CANON DEL AUTOR):** **Corrado negoció personalmente el confinamiento** — lo sabe todo porque él mismo lo organizó, no como intermediario. La instalación es una que **heredó de una operación antigua** (contrabando/cuarentena que La Mesa ya usaba), mantenida al mínimo por un solo cuidador de confianza. La entrevista con Volpi ocurre en el **Libro 5** (*Camino a Casa*), como parte de la reconstrucción del encubrimiento — ya fijado en [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]].
+
 Como último acto relacionado con La Mesa, Volpi queda confinado en una instalación aislada y no oficial en una pequeña isla mediterránea.
 
 No diseñar una superprisión fantástica.
@@ -81,7 +85,7 @@ Opciones de lugar:
 
 Debe existir logística plausible de custodia/suministros.
 
-Corrado sabe dónde está.
+Corrado sabe dónde está — la negoció él mismo.
 
 Línea fuerte:
 

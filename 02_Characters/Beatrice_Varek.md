@@ -26,4 +26,10 @@ Representa la medicina institucional y puede atender a Chiara en el atentado fut
 
 > **PENDIENTE:** cargo definitivo, y razón concreta por la que está con Dario cuando Lucia llega a arrestarlo.
 
+## Destino post-trilogía — incubadora Libro 4/5 (2026-09-16, CANON DEL AUTOR)
+
+> No afecta su arco durante la trilogía. Pertenece a la saga post-trilogía (*Juramento de Hierro* / *Camino a Casa*), todavía en incubadora — ver [[07_Ideas/Libro_04_Incubadora/README]].
+
+Beatrice **no vuelve a aparecer** en la historia para la época del Libro 4/5: vive lejos, fuera de San Aurelio. No participa en la reconstrucción del caso de Ethan Cole ni en el destino de [[02_Characters/Lucia_Varek|Lucia]] tras la muerte de [[02_Characters/Vivian_Varek|Vivian]].
+
 Ver también [[02_Characters/Dario_Varek]] y [[05_Locations/Hospital_Santa_Aurelia]].

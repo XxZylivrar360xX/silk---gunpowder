@@ -24,8 +24,9 @@ Esta carpeta **no sustituye** esos documentos. Los amplía con material todavía
 5. [[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]] — conexión del caso Vera con Nereo Volpi.
 6. [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]] — escenas ya visibles con diálogo/gestos a proteger.
 7. [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] — posible libro/duología/trilogía y ejes temáticos.
-8. [[07_Ideas/Libro_04_Incubadora/08_Pendientes_De_Autor]] — decisiones todavía abiertas.
-9. [[07_Ideas/Libro_04_Incubadora/CLAUDE_HANDOFF]] — encargo de integración para Claude Code.
+8. [[07_Ideas/Libro_04_Incubadora/08_Pendientes_De_Autor]] — registro de decisiones del autor; todas las preguntas originales quedaron resueltas el 2026-09-16.
+9. [[07_Ideas/Libro_04_Incubadora/09_Playlist_Erin]] — referencia musical no canon para el tono emocional de Erin Reyes.
+10. [[07_Ideas/Libro_04_Incubadora/CLAUDE_HANDOFF]] — encargo de integración para Claude Code.
 
 ## Regla de integración
 

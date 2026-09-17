@@ -26,4 +26,12 @@ Vivian heredó el fuego de Dario y representa la consecuencia viva de su lógica
 
 > **PENDIENTE:** nombre de la fachada industrial, cuándo descubrió la verdad, qué límites intenta imponerle Dario, cuánto sabe sobre la estructura de su padre antes del arresto y qué lugar ocupa —si alguno— en Santa Lucía. La versión donde el atentado antecedía a la ejecución de Dario quedó decanonizada el 2026-08-30; ver [[04_Concepts/La_Guerra_de_los_Tres]].
 
-Ver también [[02_Characters/Dario_Varek]] y [[03_Factions/Fuerza_de_Tarea_Meridian]].
+## Destino post-trilogía — incubadora Libro 4/5 (2026-09-16, CANON DEL AUTOR)
+
+> **No afecta su presencia viva y activa durante *Seda y Pólvora*, *Voto de Ceniza* ni *Cuentas de Sangre*.** Este destino pertenece a la saga post-trilogía (*Juramento de Hierro* / *Camino a Casa*), todavía en incubadora — ver [[07_Ideas/Libro_04_Incubadora/README]].
+
+Tras el homicidio de Vera Kessler ([[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]]), Dario le encarga a Vivian la crianza del niño responsable —**Dylan Marsh**, más adelante **Ethan Cole**— como limpieza de un cabo suelto de la organización, no como gesto de generosidad de Vivian. Ella no elige hacerse cargo al principio, pero con los años desarrolla un apego real por él.
+
+Cuando Ethan cumple **15 años**, la envenena con una mezcla de narcóticos y adrenalina calculada para simular una sobredosis — cobertura perfecta dada su identidad pública de influencer/figura de fiesta. Nadie la investiga como algo distinto de una tragedia esperable. Es el primer homicidio de Ethan: pragmático, no ritual, muy anterior al patrón que desarrollará de adulto contra policías.
+
+Ver también [[02_Characters/Dario_Varek]], [[02_Characters/Lucia_Varek]], [[02_Characters/Beatrice_Varek]] y [[03_Factions/Fuerza_de_Tarea_Meridian]].

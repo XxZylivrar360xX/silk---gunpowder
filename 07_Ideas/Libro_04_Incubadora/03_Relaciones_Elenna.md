@@ -12,6 +12,8 @@ Su eje ya aprobado es:
 
 La academia/policía pone a prueba estructura, pertenencia, rutina y autoridad.
 
+> **CANON DEL AUTOR (2026-09-16) — el anuncio:** Elenna convoca una conversación explícita para darles la noticia de la academia a Riley y Marisol, con cuidado, sabiendo que les va a doler — no lo minimiza en una cena de pasada ni deja que se enteren por otra vía primero.
+
 ---
 
 ## Marisol Grayson
@@ -34,6 +36,8 @@ Una línea posible:
 > **“La placa no convierte tu criterio en correcto. Sólo hace que tus errores tengan más consecuencias.”**
 
 ### Límite fiscal
+
+> **CANON DEL AUTOR (2026-09-16):** Marisol se recusa de forma **total y automática** de cualquier caso conectado al Departamento donde trabaja Elenna, sin excepciones. Es más estricto que la frontera informal de abajo, que sigue describiendo su conducta cotidiana antes de que un caso concreto la obligue a formalizar la recusación.
 
 Por ser fiscal de distrito, Marisol puede recibir casos construidos por el mismo Departamento donde Elenna trabaja.
 
@@ -89,6 +93,8 @@ Riley enseña indirectamente a preguntar:
 
 ### Fricción
 
+> **CANON DEL AUTOR (2026-09-16):** el conflicto concreto que las hace discutir por sobreprotección nace de que **Elenna oculta el riesgo real de un incidente** — Riley lo descubre después, y la discusión es sobre honestidad, no solo sobre control.
+
 Riley probablemente lleve peor que Marisol la exposición física de Elenna.
 
 Puede escribirle al terminar turnos:
@@ -112,6 +118,8 @@ Diseño fuerte, no canon cerrado.
 ## Kal Mercer
 
 > **CANON DEL AUTOR (2026-09-16):** en el Libro 4, Kal no aparece físicamente — solo por llamadas. Su primera aparición en persona es en el Libro 5, en el hospital (ver más abajo), tras un libro entero de ausencia acumulada.
+
+> **CANON DEL AUTOR (2026-09-16) — viaje y duración:** Kal y Chiara viajan a San Aurelio con identidades limpias y aburridas (pasaportes de negocios legítimos, sin relación aparente con la ciudad) — la discreción viene de ser gente ordinaria, no de aparato de espionaje. El cameo completo es **muy breve, apenas unos días**: solo la crisis médica inmediata y la despedida; el libro vuelve rápido a Elenna/Nicholas.
 
 Reglas familiares ya preferidas:
 
@@ -223,6 +231,10 @@ Chiara santigua a Elenna antes de subir al avión.
 
 Mejor amiga de Elenna desde antes de que ella entrara al Departamento. Le da a Elenna una relación horizontal que hoy no existe en su vida: Nicholas es mentor, Ethan es pareja, Erin es la única presencia de igual a igual, fuera del trabajo.
 
+### Familia y trasfondo (CANON DEL AUTOR, 2026-09-16)
+
+Erin viene de una familia de clase trabajadora, con padres separados. Se financió sus propios viajes desde joven (fotografía, trabajos temporales) — es autosuficiente por necesidad, no por elección estética. Explica por qué pudo quedarse en San Aurelio sin depender de nadie cuando Elenna decidió volver.
+
 ### Origen (CANON DEL AUTOR, 2026-09-16)
 
 Se conocieron en Río de Janeiro, en el festival Rock in Rio, durante el primer viaje de Elenna a los 15 años, viajando con Marisol. Desde ahí decidieron seguir viajando juntas. Cuando Elenna decide regresar a San Aurelio, Erin decide quedarse con ella en vez de seguir su propio camino — primer indicio, mucho antes de la presa, de hasta dónde llega lo que siente.
@@ -238,6 +250,35 @@ Erin está enamorada de Elenna desde hace tiempo y nunca lo ha dicho. Es la úni
 3. La revelación sobre Ethan llega después, con Elenna rota por la crisis. La ruptura con Erin se resuelve en la reunión posterior: Elenna entiende que Erin siempre estuvo ahí para ella — ahí es donde su propio amor por Erin encuentra el camino. No es reciprocidad inmediata en la presa; nace de la crisis y del reencuentro.
 
 **Función estructural:** la sospecha sobre Ethan queda encarnada en una relación con textura emocional desde el arranque, no en pistas frías acumuladas — esto es lo que permite fusionar el libro de "reconstrucción" con el de "revelación" sin que se sienta apresurado.
+
+### Reacción del círculo a la reconciliación (CANON DEL AUTOR, 2026-09-16)
+
+Reacciones mixtas: Riley y Marisol reciben la relación con calidez inmediata — ya conocían y querían a Erin de antes. Nicholas necesita más tiempo para procesarlo, no por prejuicio, sino porque apenas está reconstruyendo su propia idea de familia (ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]]).
+
+### Referencia de tono
+
+Ver [[07_Ideas/Libro_04_Incubadora/09_Playlist_Erin]] — playlist aportada por el autor como brújula emocional (no canon, no citar letras en prosa) para las fases del arco: era Río/viajes, pre-presa, la grieta después de la presa y la reciprocidad reservada para *Camino a Casa*.
+
+### Política de El Faro / por qué no viven juntas (CANON DEL AUTOR, 2026-09-16)
+
+*El Faro* mantiene una política de ética que recusa a su personal de cubrir casos ligados al Departamento de Policía cuando conviven o tienen pareja/familiar cercano dentro de él. Dos consecuencias directas:
+
+1. **Elenna y Erin no viven juntas** pese a ser mejores amigas — convivir con una recluta/oficial en activo violaría esa política. No es distancia emocional ni logística: es una regla institucional real que ninguna de las dos puede simplemente ignorar.
+2. **Erin queda formalmente apartada del caso que persigue Nicholas Voss.** No lo investiga, no lo cubre, no tiene acceso profesional a él. Su sospecha sobre Ethan es enteramente relacional/personal — nunca el resultado de trabajo de reportera. Puede coincidir con Nicholas socialmente, a través de Elenna, pero nunca como fuente o contacto de trabajo.
+
+Esto también resuelve si vale la pena activar el eco temático de "la joven periodista" ya anticipado en [[03_Factions/El_Faro]]: se deja como resonancia de fondo (el diario que Chiara convirtió en instrumento de precisión, ahora en manos ajenas a ella), sin desarrollarla como trama paralela de investigación — la sospecha sobre Ethan sigue plantada en la relación, no en pistas de reportera, consistente con la lógica de compresión de la dualogía (ver [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]]).
+
+## Rex
+
+> **CANON DEL AUTOR (2026-09-16):** compañero K9 de Elenna, pastor alemán de pelaje bronce único, entrenado y comandado en italiano por ella misma — eco directo de la herencia de Chiara. Ver [[02_Characters/Elenna_Mercer]], sección "Timeline de academia y especialidad".
+
+Rasgos de comportamiento fijados, funcionan como termómetro emocional del reparto sin que nadie tenga que explicarlo en voz alta:
+
+- **Le gruñe a Ethan siempre**, sin excepción — instinto animal detectando lo que nadie más ve todavía. No es una prueba narrativa ("los perros nunca se equivocan"), es una semilla que el lector puede notar y que Elenna, enamorada, racionaliza o ignora.
+- **Juega sin reservas con Kal** desde que lo conoce, pese a no tener motivo aparente para confiar en él tan rápido — reconoce a la familia antes de que se lo digan.
+- **Solo deja que Erin le acaricie la panza** — ni siquiera Elenna tiene ese privilegio. Refuerza, sin necesidad de diálogo, que Erin ocupa un lugar único y confiable en la vida de Elenna.
+- **Hospital (disparo de Elenna, apertura del Libro 5):** Rex, de gran tamaño, duerme en la cama con ella. Cuando los médicos intentan sacarlo, los chantajea con ojos de canica y orejas hacia atrás — no cede fácil, y nunca duda en proteger a Elenna cuando hace falta. Ver escena faro 2 en [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]].
+- **Aeropuerto (despedida):** Kal puede bromear que se va tranquilo sabiendo que Elenna está bien cuidada — no necesariamente por el capitán (Nicholas). El chiste es sobre Rex. Ver escena faro 3 en [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]].
 
 ## Foto de Tres Hermanas
 

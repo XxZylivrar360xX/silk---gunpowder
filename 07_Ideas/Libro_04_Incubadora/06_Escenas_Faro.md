@@ -16,6 +16,8 @@ Nicholas explica que en la comisaría todos conocían el nombre de Kal Mercer po
 
 Nicholas nunca pudo demostrar quién estaba por encima acomodando el tablero, pero cree saberlo y no necesita nombrar a Chiara.
 
+> **RESUELTO (2026-09-16):** la impresión de Nicholas no es solo reputación institucional — tuvo un encuentro directo con Chiara. Como oficial, coordinó la respuesta policial a un robo en [[03_Factions/El_Casino|The Monarch]] durante la época de Varek/Halbrook (incidente nuevo, sin ficha propia todavía). Ahí la trató en persona: suficiente para formarse una impresión real de lo afilada y peligrosa que es, sin que eso le dé nunca la prueba que necesitaría para nombrarla. Ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]].
+
 Elenna responde desde la intimidad:
 
 Para la ciudad eran “la italiana del casino” y “el hombre de los tratos”. Para ella eran:
@@ -42,6 +44,8 @@ Detalles visuales:
 - Marisol dejó la fotografía;
 - Riley dejó las flores;
 - señal de que ambas ya estuvieron allí antes de la llegada de los padres.
+
+> **CANON DEL AUTOR (2026-09-16):** [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna|Rex]], el pastor alemán K9 de Elenna, duerme en la cama con ella pese a su tamaño. Cuando los médicos intentan sacarlo, los chantajea con ojos de canica y orejas hacia atrás — no cede fácil. Nunca duda en proteger a Elenna cuando hace falta.
 
 Kal entra primero con café.
 
@@ -106,6 +110,8 @@ Nicholas:
 Kal respeta que Nicholas no trate a Elenna como una cosa bajo custodia.
 
 No amistad instantánea.
+
+> **CANON DEL AUTOR (2026-09-16):** Kal puede bromear que se va tranquilo sabiendo que Elenna está bien cuidada — no necesariamente por el capitán. El chiste es sobre [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna|Rex]], no sobre Nicholas.
 
 ### Despedida familiar
 
@@ -187,7 +193,7 @@ No fijar todavía como final definitivo.
 
 > **CANON DEL AUTOR (2026-09-16).** Diálogo literal del autor; no reescribir ni suavizar. Ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]] para el arco completo de Erin Reyes.
 
-Contexto: discusión tensa entre Elenna y Erin sobre Ethan, en una presa del sur de San Aurelio (lugar nuevo, todavía sin ficha en `05_Locations/`), con el agua cayendo en cascada desde el mirador. Ocurre **antes** de que se confirme la identidad de Ethan — Elenna todavía lo defiende.
+Contexto: discusión tensa entre Elenna y Erin sobre Ethan, en el mirador de [[05_Locations/Presa_Del_Sur|la presa del sur]] de San Aurelio, con el agua cayendo en cascada. Ocurre **antes** de que se confirme la identidad de Ethan — Elenna todavía lo defiende.
 
 Elenna:
 

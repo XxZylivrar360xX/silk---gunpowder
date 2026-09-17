@@ -57,6 +57,14 @@ Durante la academia conserva su humor, curiosidad, informalidad, mochila, cámar
 
 **Recluta** es el rango formal para su etapa (tratamiento: **Recluta Mercer**). Es una recluta en formación, no una oficial plenamente juramentada; no debe recibir de inmediato placa, autoridad policial plena ni funciones de patrulla autónoma. "Cadete" queda reservado como alternativa local o etapa previa si el Departamento la define así. El término en inglés "Police Recruit" / "Recruit Mercer" queda descartado.
 
+### Timeline de academia y especialidad — CANON DEL AUTOR (2026-09-16), incubadora Libro 4/5
+
+Academia estándar (~6 meses); pasa a patrulla y se muda de casa de Marisol a su propio departamento casi al mismo tiempo — un solo salto de independencia, simbólicamente "ya soy adulta" de golpe.
+
+Especialidad: **K9**, con un pastor alemán único de pelaje bronce llamado **Rex**, que ella misma nombra y entrena con comandos en italiano — eco directo de la herencia de Chiara. Ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]] para el comportamiento de Rex con cada personaje.
+
+Su parentesco con Kal/Chiara **nunca se aclara públicamente, y ya no importa**: veinte años después la ciudad tiene otras preocupaciones, y quienes preguntan reciben silencio educado de la familia. No existe versión oficial fabricada que reconcilie su identidad viva con la muerte pública registrada al nacer — el misterio simplemente dejó de ser noticia.
+
 ## Quién es
 
 Elenna es un bebé durante el tramo que esta ficha organiza. No tiene todavía una personalidad adulta, un destino ni capacidades excepcionales que puedan proyectarse sobre ella.

@@ -29,4 +29,10 @@ Su arco debe conservar la tensión entre el vínculo familiar y la obligación i
 
 > **PENDIENTE:** cuándo descubre la verdad completa sobre Kal y el Patio, y cuánto sabe de la organización de su propio padre antes de investigarlo.
 
+## Destino post-trilogía — incubadora Libro 4/5 (2026-09-16, CANON DEL AUTOR)
+
+> No afecta su arco durante la trilogía (subjefa → jefa al renunciar Elena Vega). Pertenece a la saga post-trilogía (*Juramento de Hierro* / *Camino a Casa*), todavía en incubadora — ver [[07_Ideas/Libro_04_Incubadora/README]].
+
+Para la época del Libro 4, Lucia es **comisionada de policía**: cabeza de todo el Departamento de San Aurelio, con autoridad sobre todas las comisarías y condados — jefa directa de [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss|Nicholas Voss]]. Carga además el duelo no resuelto por la muerte de su hermana [[02_Characters/Vivian_Varek|Vivian]], oficialmente una sobredosis; cuando el caso de Ethan Cole resurge, Lucia tiene motivo institucional (jefa del Departamento) y personal (hermana de Vivian) para involucrarse directamente. Ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]].
+
 Ver también [[02_Characters/Dario_Varek]] y [[03_Factions/Fuerza_de_Tarea_Meridian]].

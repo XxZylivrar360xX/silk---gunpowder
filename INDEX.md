@@ -120,6 +120,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[05_Locations/Bellandi_Ridge_Vineyards]] — los viñedos de Chiara en la ladera norte; apellido materno convertido en tierra y propiedad legítima separada del Patio.
 - [[05_Locations/Cedar_Flats]] — pueblo agrícola lejano del norte: parcelas de cultivo, bodegas rurales y cobertura logística posible.
 - [[05_Locations/Camp_Alder]] — complejo militar al noreste; fuente del armamento largo y punto donde el pasado militar de Kal toca jurisdicción federal.
+- [[05_Locations/Presa_Del_Sur]] — *(incubadora Libro 4/5)* represa al sur de la ciudad con mirador público e instalación subterránea de desfogue; escena de la confesión de Erin a Elenna.
 - [[04_Concepts/El_Territorio_y_El_Relato]] — el concepto raíz: por qué las dos columnas tienen que avanzar juntas o el capítulo está incompleto
 - [[04_Concepts/La_Guerra_de_los_Tres]] — **regla dura de Voto de Ceniza / Guerra de los Tres:** guerra secreta de Dario vs Halbrook vs Kal/Chiara; tres capas de verdad, fachadas públicas, policía como cuarto actor visible y matriz obligatoria de enfrentamientos.
 - [[04_Concepts/Quien_Decide_Quien_Soy]] — **la pregunta que ordena a los tres antagonistas.** Kal contra el que monetizó su barrio; Chiara contra la institución que monetizó su apellido; los dos contra el que cree que eso ni se discute.
