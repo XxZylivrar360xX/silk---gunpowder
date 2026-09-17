@@ -9,6 +9,7 @@ Función: CANON DEL AUTOR, H5 — lado de Kal (secciones 12 y ss. de [[06_Relati
 - Kal vuelve "golpeado y malherido" (H6 §1): NO de manos de Halbrook — dos contratistas, medido, "un recordatorio, no un castigo". Kal lo baja de categoría (ficha de voz) y lo cataloga como información.
 - Los dos mensajes de texto son canon fijo (ya citados en Cap. 27): a Walt ("Cuida el barrio. Si Chiara necesita algo, ayúdala sin chistar.") y a Chiara ("Salí de la ciudad por una situación externa. Me encuentro bien. Te veo al volver."). Enviados 5:40 / 5:30. Aquí se ve redactarlos, y los borradores que no manda.
 - IRONÍA CANON: Kal decide, en el camino de vuelta, no darle a Chiara ningún nombre — protege el hilo Halbrook/Nadir/convoy. Sabe que ella puede temer que fue Varek y no lo corrige.
+- SIEMBRA NUEVA (2026-09-16): antes de la convocatoria de Halbrook, su aparato ya tiene vigilancia pasiva sobre Nadir/El Patio — mapeo, no acción. Sembrada como un sedán oscuro que Walt le menciona a Kal, visto dos tardes distintas cerca del taller, sin matrícula; nunca nombrado como vigilancia. Kal lo archiva como rareza menor, contribuye sin que él lo note a que escriba "Cuida el barrio", y le vuelve medio segundo (sin resolverse) cuando Halbrook muestra el expediente de Nadir. Varek no tiene relación con esta vigilancia y no lo sabe. Prepara el Cap. 29 (Chiara detectará indicios reales de vigilancia y los atribuirá a Varek; en realidad son de Halbrook) y la relectura retrospectiva tras el Cap. 31 (nombre Halbrook revelado a Chiara). No resolver la autoría del sedán en este capítulo.
 NO resolver (pendientes del autor / arco reservado):
 - en qué teatro y años sirvió Kal; qué pasó exactamente en la última operación (el lector ya tiene la versión de Kal desde el Cap. 26: parabrisas, niño, prisión — aquí sólo aparece la versión de Halbrook, oblicua);
 - si Halbrook sabe en qué se ha convertido Kal en San Aurelio;
@@ -49,6 +50,8 @@ Kal se quedó sentado en el borde de la tina, con el teléfono apagándose solo 
 A las cinco y media le escribió a Walt.
 
 Tuvo tres versiones antes de la buena. La primera explicaba demasiado. La segunda pedía cosas que Walt iba a hacer de todos modos y sonaba a hombre asustado pidiéndolas. Borró las dos.
+
+Sin buscarlo le volvió el sedán oscuro que Walt le había mencionado dos tardes atrás, parado más tiempo del que le correspondía cerca del taller, y otra vez al día siguiente, en otra esquina pero con la misma pinta de no ser de nadie del barrio. Kal había preguntado la matrícula. Walt no la tenía. Ahí se había acabado la conversación, archivada entre las demás rarezas menores que cualquier barrio producía todas las semanas sin que significaran nada.
 
 *Cuida el barrio. Si Chiara necesita algo, ayúdala sin chistar.*
 
@@ -106,9 +109,11 @@ Era una hoja sola. Un membrete que Kal reconoció por la forma antes que por las
 
 Nadir.
 
+El sedán que Walt le había mencionado le cruzó la cabeza medio segundo y Kal lo apartó. Podía significar algo. Podía no significar nada. Halbrook no regalaba explicaciones y él no iba a fabricarlas por su cuenta.
+
 —Es un expediente limpio —dijo Halbrook—. Está a un sello de dejar de serlo. Usted sabe mejor que nadie lo que le pasa a un hombre en la situación de su amigo cuando alguien con firma decide mirarlo de cerca. No hay favor que lo arregle. No hay dinero. No es una puerta que usted pueda abrir con una llamada. —Enderezó la hoja medio centímetro, como había hecho con la carpeta—. Es un papel. Y los papeles los muevo yo.
 
-Kal miró la hoja el tiempo justo para no darle el gusto de mirarla de más. Después miró a Halbrook.
+Kal miró la hoja el tiempo justo para no darle el gusto de mirarla de más. No era un papel armado esa misma mañana: Halbrook no se sentaba a una mesa sin saber ya qué iba a servir. Después miró a Halbrook.
 
 —¿Qué trabajo.
 
@@ -128,7 +133,7 @@ En el marco se cruzó con los dos hombres que entraban. Ropa de civil, la misma 
 
 Fue rápido y fue ordenado, como todo lo demás en ese edificio. Uno le sostuvo el brazo detrás de la silla y el otro trabajó el torso, sin rabia, contando por lo bajo, parando cuando llegaba al número. Un labio. Dos costillas que iban a quejarse un mes. Una ceja que sangró más de lo que valía.
 
-Kal no forcejeó después del primer segundo, cuando entendió que forcejear alargaba la cuenta. Se quedó quieto y respiró como le habían enseñado hace mil años a respirar para esto, y mientras tanto hizo lo único útil que se podía hacer: los miró trabajar. Cómo se paraban. Cuál llevaba el ritmo. Que el de la izquierda cuidaba la mano derecha, vieja lesión, la usaba menos. Que ninguno de los dos disfrutaba y ninguno de los dos iba a dudar. Lo archivó entero. Era gente con la que iba a volver a tratar, y de la gente con la que uno vuelve a tratar conviene saberlo todo.
+Kal no forcejeó después del primer segundo, cuando entendió que forcejear alargaba la cuenta. Se quedó quieto y respiró como le habían enseñado hace mil años a respirar para esto, y mientras tanto hizo lo único útil que se podía hacer: los miró trabajar. Cómo se paraban. Cuál llevaba el ritmo. Que el de la izquierda cuidaba la mano derecha, vieja lesión, la usaba menos. Que ninguno de los dos disfrutaba y ninguno de los dos iba a dudar. Lo archivó entero. No eran matones de esquina ni caras que hubiera visto rondando a la gente de Varek: tenían el mismo desgano funcional de los que le habían guardado el teléfono en la entrada, gente de paso que hacía encargos chicos dentro de algo más grande y no dejaba nombre. Era gente con la que iba a volver a tratar, y de la gente con la que uno vuelve a tratar conviene saberlo todo.
 
 Cuando terminaron, uno le devolvió el teléfono en su bolsa con cierre y el otro le alcanzó una toalla de papel para la ceja, y le dijo, casi amable, que había una máquina de agua al final del pasillo.
 
