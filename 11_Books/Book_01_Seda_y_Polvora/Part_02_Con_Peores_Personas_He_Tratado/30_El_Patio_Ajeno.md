@@ -1,24 +1,31 @@
 <!--
 Estado: BORRADOR — cuarto capítulo de la Parte II. Pendiente de revisión del autor.
-Protagonistas: Kal Mercer (POV único). Apariciones: Dario Varek, Chiara Bellandi (segunda mitad).
+Protagonistas: Kal Mercer (POV único). Apariciones: Dario Varek, Vivian "VV" Varek, Chiara Bellandi (segunda mitad).
 Ventana temporal: continúa de inmediato el cierre del Cap. 29 — el mismo amanecer, minutos después de que Kal salga del loft.
 Lugares: la mansión de Varek (sin ficha propia; PENDIENTE en San_Aurelio.md). Patio interior. La Ronda Exterior, de vuelta hacia San Aurelio.
 Función: CANON DEL AUTOR. Ejecuta H6, secciones 5-6 (el patio de la mansión, la oferta a Varek, la primera actuación conjunta, "Estás loco").
-- Kal llega herido, todavía con la adrenalina de la pelea con Chiara encima del cuerpo golpeado. La reunión ya estaba confirmada por teléfono al cierre del Cap. 29.
-- CONTINUIDAD EMOCIONAL CON EL CAP. 29 (2026-09-16, encargo del autor): Kal no llega sólo con adrenalina física. Llega con la discusión del loft todavía en el cuerpo — la frase que le dijo a Chiara sobre parar lo que estaban construyendo, las fotografías que ella se llevó, la cara de ella al no darle la respuesta que él esperaba. No se verbaliza como tesis; se siente en un medio segundo de duda antes de hacer la oferta a Varek — el primero de la mañana en que dudó antes de hablar — y en que, sin saberlo del todo, entra todavía más profundo en el mundo de Varek para comprarle a Chiara el espacio que horas antes había querido cerrarle. El texto NO comenta esta contradicción.
-- LA OFERTA: Kal ofrece trabajar para la organización de Varek. A cambio pide seguridad para Chiara — en términos de jurisdicción, límites y costo, nunca sentimentales. Nunca dice "porque la amo". Varek lo llama "tu Chiara" como aguja; Kal no corrige el posesivo.
-- LA MONEDA: siembra una futura entrada a Camp Alder para sacar armamento largo (promesa, NO ejecución — sin expediente, sin helicóptero, sin arresto, sin H19).
-- NADIR: Kal intenta sacar a Nadir del alcance inmediato del chantaje de Halbrook. Varek ofrece cobertura y freno a la exposición inmediata, NO resuelve el problema documental/migratorio de fondo (queda abierto para el hilo Anya/Washington posterior).
-- VAREK acepta porque el trato le conviene — no porque pierda un duelo verbal. Se deja ver, sin nombrarlo, el favoritismo de Varek hacia Kal (DISEÑO en su ficha): rapidez en recibirlo, generosidad en los términos. Varek también se queda con una pieza de información gratis — que existe una manera de mover a Kal, y que tiene nombre — sin decir nunca "están enamorados".
-- DARIO NO SABE NADA DE HALBROOK NI DE LA VIGILANCIA (CRÍTICO): no mandó el sedán del Cap. 28-29, no sabe que existe Halbrook, no sabe por qué golpearon a Kal, no está coordinado con ningún aparato externo. Kal no lo acusa de nada de eso — negocia sólo sobre lo que Varek sí hizo (extender verbalmente su jurisdicción sobre la vida privada de Chiara en el taller del norte, Cap. 27). El galpón se confirma aquí como examen deliberado de Varek, no como disculpa ni como política legítima — su conducta ahí sigue siendo invasiva.
+
+REESCRITURA PROFUNDA (2026-09-18, encargo explícito del autor) — cambia la arquitectura de la negociación completa. Sustituye la versión anterior (2026-09-16) donde Kal se ofrecía directamente a "trabajar para" Varek a cambio de "seguridad para Chiara". Arquitectura nueva:
+
+- EL CAMALEÓN CONTRA ALGUIEN PELIGROSO: Kal NO se ofrece. Entra pidiendo una puerta concreta (Camp Alder), dando la información mínima indispensable en cada turno, obligando a Varek a preguntar para obtener cada dato. Regla mental de Kal, nunca verbalizada: si Varek descubre a quién protege, descubre qué arma usar contra él. NO se usa la palabra "camaleón" en ningún punto del capítulo — sigue reservada, por regla dura de [[02_Characters/Kal_Mercer]], para la única vez que Kal se la dice en voz alta, delante de Chiara, en otro punto de la novela.
+- LA PUERTA Y LA MONEDA: Kal pide entrada a Camp Alder; ofrece como pago el cargamento de armas largas (promesa futura, no ejecución). Varek no la considera suficiente por sí sola — puede comprar armas en cualquier lado, no las necesita con desesperación — y eso obliga a Kal a la jugada real: hacer que sea Varek quien nombre qué más quiere.
+- LA SILLA: Varek, viendo el filo de Kal para "negocios de niños", le ofrece cerrar "tratos... de adultos" — una silla en la mesa donde se reparte territorio, no un empleo. Kal no acepta rápido (finge medir el costo) para que Varek no sepa que era justo lo que necesitaba.
+- EL PARAGUAS Y NADIR (protegido sin nombrarlo): Varek vende la pertenencia a su estructura como cobertura general ("su gente opera bajo su nombre, y su nombre queda bajo el mío" / "la que usted reconozca como suya"). Kal nunca menciona a Nadir, su situación migratoria, a Halbrook, un expediente ni coerción. Para Varek, Kal sólo quiere protección institucional normal para alguien que entra a la mesa. Esto cubre a Nadir sin exponerlo como palanca.
+- VIVIAN "VV" VAREK — nueva aparición breve, sin escena propia: entra al patio con naturalidad de familia, resuelve delante de su padre un asunto de logística de puerto (cifra y contraoferta), y menciona incidentalmente, sin saber su peso, a "la pelirroja" de un taller universitario que discutió permisos de uso de suelo con un profesor — Kal la reconoce como [[02_Characters/Marisol_Grayson]] sin que se pronuncie su nombre en el diálogo. Marisol estudia DERECHO (no ciencias ambientales — canon corregido 2026-08-29); el taller es interdisciplinario de regulación ambiental/uso de suelo, compatible con la fachada industrial de Vivian. Reacción de Kal mínima: el primer trago de bourbon de todo el capítulo. Ni Kenji Oda ni ninguna consecuencia de esto se ejecutan aquí — sólo se siembra que el mundo de Varek roza, por accidente, el mundo civil de Marisol.
+- CHIARA COMO ACTIVO: Varek enumera lo que Kal trae a la mesa — El Patio, rutas, hombres, y "Bellandi". Kal se niega ("Bellandi no") y defiende la negativa como optimización de un activo, no como protección sentimental: ella vale precisamente porque parece limpia; meterla en la operación la inutiliza para lo que Varek mismo quiere de ella. Cuando Varek prueba "Está protegiéndola", Kal contesta "Estoy protegiendo un activo" — verdad técnica que oculta la verdad real. No confirma ni niega el vínculo cuando Varek dice "Tu Chiara"; corrige únicamente el apellido, por frialdad negociadora, no por consistencia sentimental.
+- EL LANCIA — DARIO YA LO SABÍA: un hombre le informa a Varek al oído sobre el Lancia ANTES de que empiece la negociación seria ("¿El Lancia? / Sigue ahí. / Déjala"), plantando que la casa ya vigilaba a Chiara desde temprano. El pago llega después, cuando Varek revela cuánto tiempo lleva estacionada frente a la propiedad — no "ya que está": es una prueba deliberada para ver si Kal mintió sobre mantenerla fuera, y para observar la sincronía entre los dos.
+- ACTUACIÓN CONJUNTA: convocada al patio, Chiara lee la habitación sin ensayo, con la misma distancia profesional que Kal. Varek prueba la sincronía con una pregunta directa y no obtiene ni un cruce de miradas. Cierra con la línea canon "Me alegra que todos entendamos la misma habitación", ahora ganada por la escena.
+- AMBOS GANAN, AMBOS OCULTAN: Varek cree haber reclutado a Kal y no se equivoca. Kal consiguió exactamente la puerta que necesitaba sin haberla pedido directamente. Ninguno lo verbaliza; el lector puede sospechar que los dos están, además, equivocados sobre cuánto sabe el otro.
 - Chiara siguió a Kal (sale al final del Cap. 29 detrás de él) y se queda vigilando desde fuera que "sigue respirando" — no sabe todavía que va a ser convocada. Llega con las fotografías del Cap. 29 todavía consigo, sin mencionarlas ni usarlas aquí — vuelven en el Cap. 31.
-- Convocan a Chiara: primera actuación conjunta sin ensayo, los dos leyendo lo que la habitación necesita sin mirarse. Varek lo percibe sin verbalizarlo. Esta sincronía es la demostración PREVIA a la alianza consciente que se nombrará en el Cap. 31 — aquí sólo se ve que la capacidad y la coordinación ya existen.
-- Línea canon preservada: "— Estás loco." (Chiara, al pasar, sin detenerse) — es el ÚLTIMO diálogo del capítulo. CIERRE CORREGIDO (2026-09-16, segunda pasada, encargo del autor): NO existe diálogo de "Sígueme" ni ningún otro intercambio verbal después. Kal no la persigue a pie ni le dice nada en el estacionamiento. La deja irse sola en el Lancia y espera minutos reales antes de subir al Audi. La alcanza en la carretera con conducción firme (no persecución), la rebasa limpiamente y se coloca delante con distancia segura. La única señal es no verbal: toca el freno dos o tres veces, apenas, para que las luces traseras parpadeen frente al Lancia sin quitarle velocidad real — no una frenada, no un bloqueo. No repite la señal, no baja la ventanilla, no usa semáforo, no llama ni escribe. En la bifurcación hacia el casino/norte toma el norte sin comprobar nada, y conduce varios kilómetros sin mirar el espejo — dejando abierta, de verdad, la posibilidad de que ella no lo siga. Cuando por fin mira, el Lancia sigue detrás. La imagen final son dos coches, cada uno con su conductor, tomando la misma dirección — no la recogida de ella, no una orden de él: él abrió una ruta, ella decidió tomarla. No se verbaliza esta lectura en narrador.
-- FUNCIÓN TEMÁTICA DEL CIERRE: el Cap. 29 fija "no decidas por mí". Aquí Kal, por primera vez, no decide por ella: abre una ruta y deja que ella la tome o no. Sigue pagando y negociando solo con Varek (el mismo patrón de siempre) — pero en lo automovilístico, la corrección ya empezó.
+- Línea canon preservada: "— Estás loco." (Chiara, al pasar, sin detenerse) — es el ÚLTIMO diálogo del capítulo.
+- CIERRE VEHICULAR: intervención mínima, conservado casi íntegro de la versión anterior (2026-09-16). NO existe diálogo de "Sígueme" ni ningún otro intercambio verbal después de "Estás loco". Kal no la persigue a pie. La deja irse sola en el Lancia y espera minutos reales antes de subir al Audi. La alcanza en la carretera con conducción firme, la rebasa y se coloca delante; toca el freno dos o tres veces para que las luces traseras parpadeen, sin bloquearla. En la bifurcación toma el norte sin comprobar nada y conduce kilómetros sin mirar el espejo. Cuando por fin mira, el Lancia sigue detrás.
+- FUNCIÓN TEMÁTICA DEL CIERRE: el Cap. 29 fija "no decidas por mí". Aquí Kal, por primera vez, no decide por ella: abre una ruta y deja que ella la tome o no.
 Continuidad:
 - Kal y Chiara se tutean desde el Cap. 7. Registro privado todavía en semilla (pre-H16).
 - Costillas rotas y ceja abierta de la paliza de Halbrook (Cap. 28) siguen activas todo el capítulo.
-- VEHÍCULOS (2026-09-16, encargo explícito del autor para este capítulo): Chiara conduce el Lancia — el mismo coche nuevo que ya usa en el Cap. 27 para seguir a Varek al taller del norte, no el Mercedes-Benz Clase S del Monarch de su ficha. Kal conduce un Audi. **Discontinuidad conocida y aceptada por el autor:** el Cap. 28 y el cierre del Cap. 29 (no modificados en este encargo) tienen a Kal saliendo y llegando en su Peugeot 106 XSi — el coche fijado en su ficha de personaje — segundos antes de esta escena. La reconciliación entre Peugeot/Audi para Kal queda pendiente de una revisión posterior que sí toque los Caps. 28-29; no se resuelve aquí por instrucción directa de no tocar esos capítulos.
+- VEHÍCULOS: Chiara conduce el Lancia (el mismo del Cap. 27). Kal conduce un Audi. **Discontinuidad conocida y aceptada por el autor** (heredada de la revisión 2026-09-16): el Cap. 28 y el cierre del Cap. 29 (no modificados en este encargo) tienen a Kal en su Peugeot 106 XSi segundos antes de esta escena. Pendiente de reconciliar en una revisión futura de esos capítulos.
+- BOURBON, NO CAFÉ: botella y dos (luego tres) vasos bajos sobre la mesa de hierro; Varek sirve sin preguntar. Kal casi no bebe (regla dura de su ficha): toca el vaso una sola vez, en el momento de la mención incidental de Marisol.
+- DOCUMENTOS DE `develop` QUE QUEDAN DESACTUALIZADOS POR ESTA REESCRITURA (no tocados en este encargo, sólo reportados): [[02_Characters/Dario_Varek]] ("Kal se ofrece a trabajar para él, como parte de la organización"), [[01_Timeline/00_Estructura_del_Ascenso]] y [[01_Timeline/02_Cadena_De_Eventos_Libro_I]]. También [[06_Relationships/Hitos]], sección H6 §5 ("Kal ofrece trabajar para Varek... a cambio, seguridad para Chiara"), documenta el mecanismo antiguo. La nueva mecánica narrativa: **Kal conduce a Varek a ofrecerle una silla**, y consigue cobertura para su gente y protección indirecta para Chiara sin pedir ninguna de las dos cosas en esos términos.
 -->
 
 # Capítulo 30 — El patio ajeno
@@ -27,113 +34,231 @@ La llamada había durado nueve palabras de él y cuatro de Varek. *Ven ahora. Sa
 
 Detrás quedaban el loft, las fotografías alineadas sobre la barra, y la frase que había dicho sin medirla del todo —*a lo mejor lo cortamos antes de que se vuelva otra cosa*— junto con la cara de Chiara al no contestarla como él esperaba. No tuvo tiempo de pensar en nada de eso con cuidado. Lo llevaba encima de todos modos, mezclado con el dolor del costado, ya casi indistinguible de él.
 
-El cuerpo le estaba pasando la factura con retraso, como siempre. La adrenalina que lo había sacado del loft y metido en el coche todavía le tapaba la mitad del dolor; la otra mitad se la iba a cobrar en cuanto se detuviera. No se detuvo. Tomó las curvas de Lomas de San Jacinto con el mismo cuidado excesivo con el que había tomado las de la carretera del noreste la noche anterior, porque el cuerpo aprende una lección una vez y la aplica a todo lo que viene después.
+El cuerpo le estaba pasando la factura con retraso, como siempre. La adrenalina que lo había sacado del loft y metido en el coche todavía le tapaba la mitad del dolor; la otra mitad se la iba a cobrar en cuanto se detuviera. No se detuvo.
 
 La casa de Varek no anunciaba nada desde la calle. Un muro alto, cámaras discretas, un hombre en la caseta que ya tenía su nombre antes de que Kal bajara la ventanilla.
 
-—Lo esperan en el patio, señor Mercer.
+—Lo esperan en el patio, señor Mercer. Deje el coche donde le indique el compañero.
 
-Nadie le pidió las llaves. Nadie le pidió que se identificara dos veces. Eso también era información.
+Más adelante, otro hombre le hizo una seña con dos dedos hacia un hueco exacto entre dos setos, como si llevara toda la mañana reservado para él y para nadie más. Nadie le pidió las llaves. Nadie le pidió que se identificara dos veces. Un tercero le abrió la puerta lateral antes de que Kal llegara a tocarla, sin preguntarle si iba a entrar por ahí. Caminó los últimos metros con la sensación exacta —y no era la primera vez que la tenía en esa casa— de que desde que cruzó la reja alguien llevaba la cuenta de dónde estaba, sin que nadie tuviera que decírselo dos veces.
+
+Eso también era información.
 
 ***
 
-El patio quedaba detrás de la casa, cerrado por tres lados y abierto hacia una piscina que a esa hora todavía tenía la superficie lisa, sin nadie que la hubiera tocado. Piedra clara, macetas grandes, una mesa de hierro forjado con dos sillas y nada encima. Varek estaba de pie junto a la mesa, vestido — no en bata, no recién levantado, como si llevara despierto desde antes de que Kal colgara el teléfono — con una taza en la mano que no bebía.
+El patio quedaba detrás de la casa, cerrado por tres lados y abierto hacia una piscina que a esa hora todavía tenía la superficie lisa, sin nadie que la hubiera tocado. Piedra clara, macetas grandes, una mesa de hierro forjado. Sobre ella, una botella de bourbon a medio empezar y dos vasos bajos, uno con hielo, el otro sin.
+
+Varek estaba de pie junto a la mesa, vestido —no en bata, no recién levantado, como si llevara despierto desde antes de que Kal colgara el teléfono.
 
 —Mercer. —Lo miró de arriba abajo, sin prisa, con la misma atención con la que revisaba un balance—. Te trataron mal.
 
-—Me trataron con cuidado. —Kal se sentó sin que se lo ofrecieran, porque quedarse de pie con el costado así era pedir que se le notara más de lo necesario—. No vengo a hablar de eso.
+—Me trataron con cuidado. —Kal se sentó sin que se lo ofrecieran, porque quedarse de pie con el costado así era pedir que se le notara más de lo necesario.
 
-—No —dijo Varek—. Vienes a las seis y media de la mañana, con una ceja abierta, a pedirme algo. —Dejó la taza sobre la mesa, sin ruido—. Habla. Tengo curiosidad genuina, y no es una palabra que use seguido.
+Varek no insistió con la pregunta que no había hecho del todo. Sirvió los dos vasos —dedo y medio, sin preguntar cuánto— y dejó uno frente a Kal antes de sentarse él. Era temprano para beber y los dos lo sabían, y ninguno lo dijo, porque decirlo hubiera sido admitir que la hora tenía algo que ver con lo que venía.
 
-Kal no perdió tiempo en rodeos. No era su idioma y no era el de Varek. Tardó, aun así, medio segundo de más en decirlo — el primero de la mañana en que dudó antes de hablar.
+—No pregunto qué pasó —dijo Varek, sentándose por fin—. Y usted no me lo va a contar. A eso ya llegamos hace tiempo, sin firmarlo.
 
-—Quiero trabajar para usted. Adentro. No como proveedor, no como favor esporádico. Parte de la organización.
+Uno de los hombres del muro se acercó por detrás y le dijo algo al oído, tan bajo que a Kal sólo le llegaron fragmentos.
 
-Varek no cambió la cara. Fue lo primero que Kal registró como dato: un hombre al que le acababan de ofrecer algo grande y que no movió un músculo, lo cual significaba que ya lo estaba esperando, o que lo estaba disfrutando demasiado como para dejarlo ver.
+—¿El Lancia?
 
-—¿Y qué compra eso?
+—Sigue ahí.
 
-—Seguridad para Chiara. —Kal lo dijo plano, como quien lee una cláusula—. Que quede fuera de cualquier cálculo suyo que no sea el trabajo. Que nadie decida por ella con quién sale, a quién ve o de qué habla. Que la jurisdicción sobre su vida termine donde termina el casino.
+—Déjala.
 
-—Eso es mucho pedir por un solo hombre.
+Varek no cambió la expresión ni un grado. El hombre se retiró tan silencioso como había llegado. Kal no preguntó. No tenía con qué: no sabía de qué Lancia hablaban, ni por qué le importaba a nadie en esa casa, y algo en cómo Varek había dejado pasar la frase —sin mirar hacia la calle, sin volver la cabeza, como quien ya conocía la respuesta antes de recibirla— le dijo que no era la primera vez esa mañana que alguien le llevaba esa clase de dato.
 
-—Traigo con qué pagarlo.
+Kal tardó, aun así, medio segundo de más en hablar primero — el primero de la mañana en que dudó antes de decir algo.
 
-Varek se sentó, por fin, en la otra silla, y con eso el patio dejó de ser un lugar donde alguien esperaba de pie a que otro terminara de explicarse. Ahora era una mesa de negocios.
+—Necesito una puerta —dijo.
 
-—Te escucho.
+—Tengo muchas.
 
-—Hay un sitio al que tengo entrada. —Kal midió la frase antes de soltarla; era la única parte de todo esto que no podía deshacer una vez dicha—. Un complejo militar al noreste. Civiles no entran. Yo sí, cuando llegue el momento, y voy a poder sacar armamento largo. Suficiente para mover en la ciudad, no una vez, varias.
+—Ésta no.
 
-—¿Cuándo.
+Varek levantó el vaso sin beber todavía y lo giró despacio, dejando que el hielo, el que tenía, sonara contra el vidrio.
 
-—Todavía no. —No lo suavizó—. Es una puerta que se está abriendo, no una que ya está abierta. Cuando lo esté, usted la va a tener primero, y con eso quedamos a mano por lo de hoy.
+—¿Cuál?
 
-Varek se quedó con eso un momento, mirando la piscina como si estuviera revisando la cifra contra algo que sólo él podía ver.
+—Camp Alder.
 
-—Una promesa. —No lo dijo con desprecio—. Interesante que me la traigas en vez de un objeto. La mayoría de la gente que se sienta en esa silla trae algo que ya tiene.
+El nombre no hizo ruido. Pero algo en el patio cambió de todos modos, un grado, como cuando pasa una nube fina delante del sol y nadie mira hacia arriba para confirmarlo. Varek sabía qué era Camp Alder. No hacía falta que lo dijera.
 
-—Lo que ya tengo es poco. Lo que va a llegar vale más. —Kal no bajó la mirada—. Prefiero deberle algo grande a usted que deberle algo chico a nadie.
+—¿Qué hay dentro?
 
-Eso, por primera vez en la conversación, le sacó a Varek algo parecido a una sonrisa. Corta, contenida, la clase que no llega a los ojos y aun así cambia el clima de una mesa.
+—Algo que necesito sacar.
 
-—Bien. —Movió dos dedos sobre la piedra, un gesto mínimo que en él equivalía a una firma—. Tu gente entra bajo mi paraguas. Tu Chiara queda fuera de lo que yo decida sobre negocios, sobre territorio y sobre quién le habla con qué tono en mi casino. —Una pausa exacta—. Lo que haga con su vida privada, fuera de mis paredes, nunca estuvo bajo mi jurisdicción. En el galpón se lo dije distinto porque quería ver qué hacías con eso. Ya lo sé.
+—Eso no paga una puerta.
 
-Kal no corrigió el posesivo. No iba a regalarle esa reacción.
+—Hay un cargamento.
 
-No era una disculpa. Era peor: era la confirmación de que todo lo del galpón había sido un examen, y de que Kal acababa de aprobarlo entregando exactamente lo que Varek quería que entregara. Varek no dijo nada más al respecto, pero algo en cómo dejó la taza —despacio, sin urgencia— le dijo a Kal que acababa de entregarle, además del trato, una pieza de información gratis: que existía una manera de moverlo, y que tenía nombre.
+Varek esperó, con la paciencia de un hombre que ya sabe que va a conseguir la palabra que quiere sin tener que pedirla dos veces. Kal lo dejó esperar un segundo más de lo cómodo antes de terminar.
 
-—Hay algo más —dijo Kal.
+—Armas largas. Suficientes para mover en la ciudad más de una vez.
 
-—Siempre hay algo más contigo. Adelante.
+—¿Cuándo?
 
-—Un hombre. Nadir Amrani. Está en el país sin los papeles en regla, y alguien con firma lo tiene mirado de cerca. No le pido que lo arregle. Le pido que, mientras yo trabajo para usted, nadie con influencia sobre esta ciudad le facilite el trabajo a quien quiera moverlo.
+—Todavía no. —No lo suavizó—. Es una puerta que se está abriendo, no una que ya está abierta.
 
-Varek lo estudió un segundo de más.
+Varek se quedó con eso, mirando el vaso y no a Kal.
 
-—Eso no es lo mismo que lo de Chiara.
+—Puedo comprar armas en cualquier lado, Mercer. Sin desesperación, pero puedo. —Bebió, por primera vez, un trago corto—. Una promesa es interesante. No es urgente.
 
-—Ya lo sé.
+Kal no dijo nada. Dejó que el silencio hiciera el trabajo que cualquier explicación hubiera arruinado.
 
-—Puedo hacer que sea más lento. Puedo hacer que, si alguien viene a buscarlo con papeles de la ciudad, encuentre una fila más larga de la que esperaba. —Otra pausa, ésta deliberada—. No puedo hacer que el problema no exista. Eso no depende de mí ni de nadie que yo conozca.
+—¿Qué es lo que realmente vino a buscar? —preguntó Varek al final, y en la pregunta había algo que no estaba en las anteriores: la curiosidad genuina que había prometido por teléfono.
 
-Era honesto, y por eso era peor que una promesa vacía. Kal lo guardó tal cual era: una puerta entornada, no una abierta.
+—Entonces diga qué quiere.
 
-—Con eso alcanza por hoy.
+Varek lo miró un momento largo, como quien confirma algo que llevaba rato sospechando.
 
-—Bien. —Varek se puso de pie, y con él el patio volvió a ser un patio y no una mesa—. Bienvenido, Mercer. —Le tendió la mano—. Vas a descubrir que trabajar conmigo es menos incómodo de lo que Chiara te ha hecho creer.
+—Veo que usted tiene filo para cerrar negocios de niños. —Lo dijo sin desprecio, casi con aprecio profesional—. Creo que alguien con su habilidad podría cerrar tratos más... de adultos.
 
-Kal le dio la mano. Le dolió el costado al hacerlo y no lo mostró.
+—¿Qué está ofreciendo?
+
+—Una silla.
+
+—¿En qué mesa?
+
+—En la que importa.
+
+Kal no contestó enseguida. Dejó pasar el tiempo suficiente para que pareciera que estaba calculando el costo, cuando lo que hacía en realidad era otra cosa: medir cuánto de sus propias ganas se le podía notar en la cara.
+
+—No vine a pedir una silla —dijo, al fin.
+
+—Por eso se la estoy ofreciendo.
+
+—¿Qué viene con ella?
+
+Varek se recostó, con el vaso apoyado en la pierna.
+
+—Deja de ser proveedor. Entra. —No lo dijo como una lista; lo dijo como quien explica una vez y espera que baste—. Sus problemas dejan de ser sólo suyos. Y los míos, desde hoy, un poco suyos también. —Una pausa exacta—. Su gente opera bajo su nombre. Y su nombre queda bajo el mío.
+
+—¿Toda mi gente?
+
+—La que usted reconozca como suya.
+
+Kal no dejó ver nada.
+
+—Entonces eso queda en el trato —dijo.
+
+—Queda.
+
+Fue todo lo que dijeron sobre el tema, y fue suficiente. Varek no se levantó a cerrar nada con un gesto. Se quedó sentado, con el vaso en la mano, como quien deja una puerta entornada porque todavía le interesa ver quién más entra por ella.
 
 ***
 
-Uno de los hombres de la puerta se acercó a decirle algo a Varek al oído, corto, y Varek levantó la vista hacia la calle detrás del muro con una expresión que no era alarma: era la de alguien que acaba de confirmar algo que ya sospechaba.
+Una puerta se abrió del lado de la casa —sin tocar, sin anunciarse— y una mujer joven cruzó el patio con el paso de alguien que nunca había tenido que preguntar si podía interrumpir. Rubia, el teléfono en una mano, una carpeta delgada en la otra, vestida para salir a cualquier parte del mundo menos a esa mesa.
 
-—Hay un Lancia gris parado desde hace media hora frente a mi propiedad —dijo, sin dirigirse exactamente a Kal—. Nuevo, de sala de exhibición. Diría que es de la señorita Bellandi, si tuviera que apostar.
+—Papá.
 
-Kal no se movió. No hacía falta.
+—Vivian.
 
-—Tráiganla —dijo Varek—. Ya que está.
+Se sentó en el borde de una tumbona sin que nadie se lo ofreciera —la misma clase de derecho que a ella se lo habían dado al nacer, y que él todavía estaba negociando.
+
+—¿El puerto? —preguntó Varek, sin presentaciones.
+
+—Lo movieron al jueves. Pedían veinte.
+
+—Dales diecisiete.
+
+—Ya cerré en dieciocho. —Ni una disculpa en la voz—. No iba a dejar que se les hiciera costumbre.
+
+Varek asintió una vez, con algo parecido a la aprobación que un hombre le da a un balance que ya sabía que iba a cuadrar. No miró a Kal para explicarle nada, y no hacía falta: la escena hablaba sola. La hija cerrando negocio de puerto delante del padre con la misma naturalidad con la que hubiera comentado el clima, el padre corrigiéndole el precio como quien corrige una tarea, y los dos sabiendo que la corrección no iba a cambiar nada porque el trato ya estaba cerrado antes de sentarse.
+
+—¿No tenías el taller esta mañana? —preguntó Varek.
+
+—Ya terminó. —Vivian se guardó el teléfono en el bolsillo trasero—. La pelirroja volvió a discutirle al profesor por los permisos. Dice que la ordenanza de uso de suelo no dice lo que él cree que dice. Y tiene razón.
+
+Algo se quedó muy quieto dentro de Kal, en un sitio que no le llegó a la cara.
+
+*Marisol.*
+
+No preguntó quién. No preguntó de qué universidad, ni de qué taller, ni por qué su mundo y el de esta mujer que acababa de cerrar un trato de puerto delante de su padre compartían, aunque fuera por una frase de nada, un aula. Preguntar hubiera sido dibujar un círculo. Levantó el vaso, por primera vez esa mañana, y bebió un trago corto, más para tener algo que hacer con la mano que por el bourbon en sí.
+
+—Entonces tenía razón —dijo Varek, sin verdadero interés, ya mirando otra vez la piscina.
+
+Vivian se puso de pie con la misma facilidad con la que se había sentado.
+
+—Señor Mercer. —Se lo dijo a Kal directamente, la primera vez que reconocía que estaba ahí, con una sonrisa rápida que no tenía nada que ocultar porque no sabía que tuviera nada que ocultar.
+
+No fue una pregunta ni una presentación. Kal no supo, y no lo iba a preguntar, si sabía su nombre por negocios, por el Monarch, por algo que su padre había dicho, o porque en esa casa las cosas simplemente se sabían.
+
+Se fue por donde había venido, sin despedida para su padre, como quien no necesita cerrar una conversación que va a seguir todo el día de todos modos.
+
+Kal dejó el vaso donde estaba. Guardó lo de la pelirroja en el mismo sitio donde guardaba todo lo que todavía no podía usar, y volvió a la mesa.
 
 ***
 
-Chiara entró al patio caminando como si la hubieran invitado desde el principio, con el abrigo mal cerrado sobre la ropa con la que había salido del loft dos horas antes y algo bajo el brazo que sostenía como quien todavía no ha decidido si es una prueba o un peso, y ni una sola mirada hacia Kal que pudiera leerse desde fuera.
+—Hay más que quiero saber de usted antes de dejarlo sentarse en serio —dijo Varek, como si Vivian no hubiera interrumpido nada—. Qué trae. El Patio. Sus rutas. Sus hombres. —Una pausa breve, casi nada—. Bellandi.
 
-—Chiara. —Varek le señaló la mesa, la silla vacía—. Justo a tiempo. Le estaba dando la bienvenida al señor Mercer a la familia.
+—Bellandi no.
 
-Fue un segundo. Menos de un segundo. Kal vio la información entrar en ella y vio que no se le movió nada en la cara — ni sorpresa, ni alivio, ni pregunta. Era la misma cara que le había visto horas antes, en la cocina del loft, cuando él le dijo que a lo mejor debían parar: la cara de alguien decidiendo en tiempo real qué mostrar y qué no. Ya había entendido, antes de que Varek terminara la frase, qué necesitaba esa habitación de ella. Y Kal, al mismo tiempo, sin haberlo hablado, sin haberlo ensayado ni una vez, entendió exactamente lo mismo.
+Lo dijo sin subir la voz, con la misma rapidez con la que había dicho Camp Alder media hora antes.
+
+—¿Por qué no? —Varek no sonaba ofendido; sonaba interesado, que era peor—. Bellandi escucha cosas por las que otros pagarían. Clientes, empresarios, políticos con la guardia baja delante de una copa que ella misma les sirve. Sería un activo excelente.
+
+—Precisamente.
+
+—¿Precisamente qué?
+
+—Usted quiere sentarla en la mesa. —Kal midió cada palabra, plana, sin nada debajo que se pudiera agarrar—. Yo prefiero que siga escuchando a la gente que cree que ella no está sentada en ninguna.
+
+Varek lo estudió, y algo en su cara se movió un grado, como cuando alguien reconoce una jugada que hubiera querido pensar primero.
+
+—Está protegiéndola.
+
+—Estoy protegiendo un activo.
+
+—Es lo mismo, dicho de otra forma.
+
+—No lo es. —Kal no titubeó, y eso era lo importante: no titubear—. Si la mete en el barro, deja de escuchar lo que escucha ahora.
+
+Varek se quedó con eso un momento largo, girando el vaso, y Kal no pudo saber si lo que veía en su cara era que le había creído o que había decidido no discutirlo todavía.
+
+—Muy bien. —Otro trago, corto—. Tu Chiara se mantiene limpia.
+
+—Bellandi.
+
+Lo dijo sin calor, sin apuro, la clase de corrección que un hombre hace por costumbre profesional y no por lo que hay detrás. Varek no insistió. Tampoco le creyó del todo, y Kal lo supo por cómo la sonrisa que le siguió no le llegó a los ojos.
+
+—Qué curioso —dijo Varek, después de un silencio que ya no tenía nada que ver con el bourbon.
+
+—¿Qué?
+
+—La mujer que usted lleva un buen rato intentando mantener fuera de esta conversación lleva cuarenta y tantos minutos estacionada frente a mi propiedad.
+
+Kal no se movió. Por dentro, algo terminó de encajar: el Lancia, el hombre al oído, *déjala.* Chiara lo había seguido.
+
+—Su activo —dijo Varek, sin prisa, saboreando la palabra que le acababan de prestar— lleva cuarenta y tres minutos frente a mi casa. Vamos a ver qué tan limpia se mantiene cuando la siento a esta mesa.
+
+No era una pregunta. Se lo dijo ya de pie, con una seña hacia uno de los hombres del muro.
+
+—Tráiganla.
+
+***
+
+Chiara entró al patio caminando como si la hubieran invitado desde el principio, con el abrigo mal cerrado sobre la ropa con la que había salido del loft dos horas antes, y ni una sola mirada hacia Kal que pudiera leerse desde fuera.
+
+—Chiara. —Varek le señaló la silla vacía, la tercera que alguien había traído sin que nadie lo pidiera—. Justo a tiempo. Le estaba ofreciendo al señor Mercer una silla más cerca de esta casa.
+
+Fue un segundo. Menos de un segundo. Kal vio la información entrar en ella y vio que no se le movió nada en la cara —ni sorpresa, ni alivio, ni pregunta. Era la misma cara que le había visto horas antes, en la cocina del loft, cuando él le dijo que a lo mejor debían parar: la cara de alguien decidiendo en tiempo real qué mostrar y qué no. Y Kal, al mismo tiempo, sin haberlo hablado, sin haberlo ensayado ni una vez, entendió exactamente lo mismo que esa habitación necesitaba de él.
 
 —Qué generoso de su parte —dijo Chiara, y se sentó, y cruzó las piernas, y miró a Kal con la misma distancia cordial con la que hubiera mirado a un socio nuevo del casino.
 
-—El señor Mercer trae buenas garantías —dijo Varek—. Va a sernos útil.
+—El señor Mercer va a sernos útil —dijo Varek—. Dígame, Chiara. ¿Usted lo sabía?
 
-—No lo dudo.
+—Sé lo que hace mi trabajo, señor Varek. No suelo preguntar el resto.
 
-Nadie improvisó peor que eso. No hubo un gesto de más, ni una palabra que sobrara, ni la tentación —que los dos sintieron, y los dos apagaron en el mismo instante— de mirarse el tiempo suficiente como para que significara algo. Kal habló del asunto como quien habla de un contrato de suministro. Chiara asintió donde correspondía asentir. Y en algún momento de esos minutos, sin que ninguno de los dos lo dijera, quedó claro para los tres que estaban en esa mesa que la actuación era perfecta, y que una actuación así de perfecta, sin ensayo, decía de la pareja algo que ninguno de los dos quería que Varek terminara de leer.
+Fue perfecto, y fue rápido, y no tuvo ni un gramo de más. Varek los miró a los dos, alternando, más tiempo del que la pregunta necesitaba, esperando el cruce de miradas que los delatara. No llegó. Ninguno de los dos improvisó peor que eso: ni un gesto de más, ni una palabra que sobrara, ni la tentación —que los dos sintieron, y los dos apagaron en el mismo instante— de mirarse el tiempo suficiente como para que significara algo.
 
-Varek los miró a los dos, alternando, más tiempo del que la conversación necesitaba.
+—Bien —dijo Varek, al final, sin que quedara claro a cuál de los dos se lo decía—. Me alegra que todos entendamos la misma habitación.
 
-—Bien —dijo, al final, sin que quedara claro a cuál de los dos se lo decía—. Me alegra que todos entendamos la misma habitación.
+Se puso de pie, y con él el patio volvió a ser, por un momento, un patio y no una mesa de negocios.
+
+—Bienvenido, Mercer. —Le tendió la mano, delante de ella.
+
+Kal se la dio. Le dolió el costado al hacerlo y no lo mostró. Chiara no apartó la mirada ni la clavó en la mano que se estrechaba: la dejó pasar por delante de ella como pasa cualquier cosa que no le concierne.
 
 ***
 
