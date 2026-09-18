@@ -21,9 +21,12 @@ h1 {
 
 /* Aperturas de parte: una pagina limpia, con el titulo como portada interior. */
 h1.part-title {
-  display: block;
-  min-height: 4em;
-  margin: 38vh 8% 0;
+  display: flex;
+  min-height: 100vh;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  margin: 0 8%;
   padding: 0;
   font-size: 1.8em;
   font-weight: normal;
