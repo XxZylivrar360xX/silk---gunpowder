@@ -1,7 +1,7 @@
 <!--
 Estado: BORRADOR — tercer capítulo de la Parte II (La Construcción). Pendiente de revisión del autor.
 Protagonistas: Chiara Bellandi (POV único). Apariciones: Kal Mercer.
-Ventana temporal: la noche siguiente a la confrontación del taller del norte (cierre del Cap. 27) y la mañana siguiente. Enganche directo con el final del Cap. 28 (Kal cruza a San Aurelio al amanecer).
+Ventana temporal: la noche siguiente a la confrontación del taller del norte (cierre del Cap. 27) y la mañana siguiente. Cierra con Kal cruzando a San Aurelio al amanecer y deja el enganche directo con el Cap. 29.
 Lugares: el loft (la casa recomprada de Dale y Ruth Mercer, diseñada por Chiara; H14). Mezzanine, escalera lateral, balcón conservado. Referencia externa: el bloque de los Bravos al sur (recon de Chiara, fuera de escena hasta el relato).
 Función: CANON DEL AUTOR. Cierra H5 (sección 14 — "La peor noche" / la sudadera como disfraz operativo) y abre H6 — El pacto (secciones 1-4: el regreso golpeado, la conversación, Kal sale "como un diablo" a llamar a Varek).
 - H5 §14: la peor noche de Chiara, en paranoia, sola en el loft. Hace vigilancia de que nadie la haya seguido al barrio. Se pone la sudadera de Kal para que quien mire desde fuera crea que él está en casa. Tradecraft y ternura en el mismo gesto. Reza, SIN ritual (la vela por Kal nace después, tras F4).

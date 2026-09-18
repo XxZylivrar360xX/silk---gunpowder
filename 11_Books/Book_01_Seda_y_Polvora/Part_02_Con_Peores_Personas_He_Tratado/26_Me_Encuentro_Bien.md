@@ -1,7 +1,7 @@
 <!--
 Estado: BORRADOR — primer capítulo de la Parte II (La Construcción). Pendiente de revisión del autor.
 Protagonistas: Chiara Bellandi (POV único). Apariciones: Dario Varek (recuerdo de madrugada + confrontación), Walter "Walt" Keegan.
-Ventana temporal: la mañana en que Kal sale de San Aurelio de emergencia. Un día después de H15 (la noche del jacuzzi, Cap. 26). La advertencia de Varek de madrugada ocurrió la noche del jacuzzi y aquí entra como recuerdo comprimido (cierre de H15), no como escena propia. Ejecuta el núcleo vivo de H5 — San Aurelio desde el lado de Chiara.
+Ventana temporal: la mañana en que Kal sale de San Aurelio de emergencia. Un día después de H15 (la noche del jacuzzi, Cap. 25). La advertencia de Varek de madrugada ocurrió la noche del jacuzzi y aquí entra como recuerdo comprimido (cierre de H15), no como escena propia. Ejecuta el núcleo vivo de H5 — San Aurelio desde el lado de Chiara.
 Lugares: El Penthouse y la terraza sur del Monarch; la destilería de Walt; el taller del norte (Rutas de Milla, cerca de Kingsley Field).
 Función: CANON DEL AUTOR, H5 lado Chiara.
 - Chiara despierta motivada por lo de anoche ("libros abiertos"); tiene reservada la terraza sur para un desayuno siciliano y está por citar a Kal cuando encuentra su mensaje. El mensaje acordado ("...Me encuentro bien. Te veo al volver.") la corta: Kal no tranquiliza antes de tiempo, contesta una pregunta que ella no hizo. Su instinto lo conecta con lo que Varek le dijo de madrugada.

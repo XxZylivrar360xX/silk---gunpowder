@@ -2,7 +2,7 @@
 Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md).
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Apariciones: Tommaso Lusardi, Margaret Rivers (abogada de Kal), Jonathan Hoover (exsocio), Giancarlo Krane (abogado de Hoover).
-Ventana temporal: continuación directa del Cap. 24. El conflicto legal cierra aquí, ~2 semanas después del sobre.
+Ventana temporal: continuación directa del Cap. 23. El conflicto legal cierra aquí, ~2 semanas después del sobre.
 Lugares: tribunal civil de San Aurelio, pasillos y sala vacía del juzgado, Villani Motors.
 Función: cierre del conflicto legal. Chiara testifica sobre la primera noche en el Monarch y protege en público la naturaleza de su vínculo: "mi... amigo" (decisión del autor: ES la primera grieta permitida de la unión invisible; queda en registro semipúblico y sirve de siembra). Tommaso da un testimonio inesperado y materialmente favorable a Kal, estirando la verdad de aquella primera mesa: afirma bajo juramento que hubo acuerdo verbal de beneficio mutuo. Kal y Chiara saben que miente y no saben por qué. El motivo NO se explica ni se paga aquí.
 Resolución (decisión del autor 2026-09-09): NO hay fallo del juez. Krane, viendo el caso perdido tras el testimonio de Tommaso, propone acuerdo en el cuarto intermedio. Trato: la parte de Kal en efectivo, calculada sobre el valor actual del inmueble, + devolución de inversión + beneficios retenidos + párrafo que impide volver a negar que fue parte. Ese capital libre permite su entrada a Villani Motors (participación minoritaria) al final del capítulo, preparando Libros abiertos.

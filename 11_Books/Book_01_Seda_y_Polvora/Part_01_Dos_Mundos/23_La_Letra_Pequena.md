@@ -2,7 +2,7 @@
 Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md).
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Apariciones: Héctor Navarro, Garrett Cross, Margaret Rivers (abogada de Kal), Jonathan Hoover (exsocio demandado, off-page), Giancarlo Krane (abogado de Hoover, mencionado).
-Ventana temporal: después del Cap. 23 (Sin rastro) y del cierre de Tierra buena. El conflicto legal completo dura ~2 semanas. Inmediatamente antes de la audiencia que continúa en el Cap. 25.
+Ventana temporal: después del Cap. 22 (Sin rastro) y del cierre de Tierra buena. El conflicto legal completo dura ~2 semanas. Inmediatamente antes de la audiencia que continúa en el Cap. 25.
 Lugares: La Almendra / oficina del taller, despacho de Margaret Rivers, loft de Kal.
 Función: primera mitad del hilo legal sembrado en Tierra buena. Hoover, dueño en papel del espacio del concesionario, reclasificó a Kal de socio a proveedor para negarle beneficios e inversión. Kal elige vía civil, no presión de calle. Chiara aportó el contacto (Rivers) en Tierra buena; aquí sólo se usa. El sobre NO es un descubrimiento — Kal ya lo sabía por canal informal; es la notificación formal, con fecha, litigable.
 Teoría jurídica (decisión del autor 2026-09-09): acuerdo comercial vinculante de hecho / implícito por conducta, sin contrato de sociedad firmado. Rivers tiene historia con el fiscal de distrito desde la facultad — por eso Chiara la eligió, dado el giro de actividades de Kal.

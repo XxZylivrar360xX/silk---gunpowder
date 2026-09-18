@@ -1,7 +1,7 @@
 <!--
 Estado: BORRADOR — cuarto capítulo de la Parte II. Pendiente de revisión del autor.
 Protagonistas: Kal Mercer (POV único). Apariciones: Dario Varek, Vivian "VV" Varek, Chiara Bellandi (segunda mitad).
-Ventana temporal: continúa de inmediato el cierre del Cap. 29 — el mismo amanecer, minutos después de que Kal salga del loft.
+ Ventana temporal: continúa de inmediato el cierre del Cap. 28 — el mismo amanecer, minutos después de que Kal salga del loft.
 Lugares: la mansión de Varek (sin ficha propia; PENDIENTE en San_Aurelio.md). Patio interior. La Ronda Exterior, de vuelta hacia San Aurelio.
 Función: CANON DEL AUTOR. Ejecuta H6, secciones 5-6 (el patio de la mansión, la oferta a Varek, la primera actuación conjunta, "Estás loco").
 
@@ -16,13 +16,13 @@ REESCRITURA PROFUNDA (2026-09-18, encargo explícito del autor) — cambia la ar
 - EL LANCIA — DARIO YA LO SABÍA: un hombre le informa a Varek al oído sobre el Lancia ANTES de que empiece la negociación seria ("¿El Lancia? / Sigue ahí. / Déjala"), plantando que la casa ya vigilaba a Chiara desde temprano. El pago llega después, cuando Varek revela cuánto tiempo lleva estacionada frente a la propiedad — no "ya que está": es una prueba deliberada para ver si Kal mintió sobre mantenerla fuera, y para observar la sincronía entre los dos.
 - ACTUACIÓN CONJUNTA: convocada al patio, Chiara lee la habitación sin ensayo, con la misma distancia profesional que Kal. Varek prueba la sincronía con una pregunta directa y no obtiene ni un cruce de miradas. Cierra con la línea canon "Me alegra que todos entendamos la misma habitación", ahora ganada por la escena.
 - AMBOS GANAN, AMBOS OCULTAN: Varek cree haber reclutado a Kal y no se equivoca. Kal consiguió exactamente la puerta que necesitaba sin haberla pedido directamente. Ninguno lo verbaliza; el lector puede sospechar que los dos están, además, equivocados sobre cuánto sabe el otro.
-- Chiara siguió a Kal (sale al final del Cap. 29 detrás de él) y se queda vigilando desde fuera que "sigue respirando" — no sabe todavía que va a ser convocada. Llega con las fotografías del Cap. 29 todavía consigo, sin mencionarlas ni usarlas aquí — vuelven en el Cap. 31.
+- Chiara siguió a Kal (sale al final del Cap. 28 detrás de él) y se queda vigilando desde fuera que "sigue respirando" — no sabe todavía que va a ser convocada. Llega con las fotografías del Cap. 28 todavía consigo, sin mencionarlas ni usarlas aquí — vuelven en el Cap. 31.
 - Línea canon preservada: "— Estás loco." (Chiara, al pasar, sin detenerse) — es el ÚLTIMO diálogo del capítulo.
 - CIERRE VEHICULAR: intervención mínima, conservado casi íntegro de la versión anterior (2026-09-16). NO existe diálogo de "Sígueme" ni ningún otro intercambio verbal después de "Estás loco". Kal no la persigue a pie. La deja irse sola en el Lancia y espera minutos reales antes de subir al Audi. La alcanza en la carretera con conducción firme, la rebasa y se coloca delante; toca el freno dos o tres veces para que las luces traseras parpadeen, sin bloquearla. En la bifurcación toma el norte sin comprobar nada y conduce kilómetros sin mirar el espejo. Cuando por fin mira, el Lancia sigue detrás.
-- FUNCIÓN TEMÁTICA DEL CIERRE: el Cap. 29 fija "no decidas por mí". Aquí Kal, por primera vez, no decide por ella: abre una ruta y deja que ella la tome o no.
+- FUNCIÓN TEMÁTICA DEL CIERRE: el Cap. 28 fija "no decidas por mí". Aquí Kal, por primera vez, no decide por ella: abre una ruta y deja que ella la tome o no.
 Continuidad:
 - Kal y Chiara se tutean desde el Cap. 7. Registro privado todavía en semilla (pre-H16).
-- Costillas rotas y ceja abierta de la paliza de Halbrook (Cap. 28) siguen activas todo el capítulo.
+- Costillas rotas y ceja abierta de la paliza de Halbrook (Cap. 27) siguen activas todo el capítulo.
 - VEHÍCULOS: Chiara conduce el Lancia (el mismo del Cap. 27). Kal conduce un Audi. **Discontinuidad conocida y aceptada por el autor** (heredada de la revisión 2026-09-16): el Cap. 28 y el cierre del Cap. 29 (no modificados en este encargo) tienen a Kal en su Peugeot 106 XSi segundos antes de esta escena. Pendiente de reconciliar en una revisión futura de esos capítulos.
 - BOURBON, NO CAFÉ: botella y dos (luego tres) vasos bajos sobre la mesa de hierro; Varek sirve sin preguntar. Kal casi no bebe (regla dura de su ficha): toca el vaso una sola vez, en el momento de la mención incidental de Marisol.
 - DOCUMENTOS DE `develop` QUE QUEDAN DESACTUALIZADOS POR ESTA REESCRITURA (no tocados en este encargo, sólo reportados): [[02_Characters/Dario_Varek]] ("Kal se ofrece a trabajar para él, como parte de la organización"), [[01_Timeline/00_Estructura_del_Ascenso]] y [[01_Timeline/02_Cadena_De_Eventos_Libro_I]]. También [[06_Relationships/Hitos]], sección H6 §5 ("Kal ofrece trabajar para Varek... a cambio, seguridad para Chiara"), documenta el mecanismo antiguo. La nueva mecánica narrativa: **Kal conduce a Varek a ofrecerle una silla**, y consigue cobertura para su gente y protección indirecta para Chiara sin pedir ninguna de las dos cosas en esos términos.
