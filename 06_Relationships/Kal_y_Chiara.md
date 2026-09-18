@@ -241,7 +241,7 @@ Toda la relación se puede medir en quién se mueve hacia el idioma del otro. **
 | *(medio libro)* | **él** | Ella le enseña italiano. Él es el aprendiz, y no lo domina nunca. **Sembrado en página en el Cap. 7** (la tina del penthouse en H2-b — no confundir con el hito "La noche del jacuzzi", posterior): a Chiara se le patina el italiano por la hierba, Kal no entiende, y ella suelta *"Algún día te enseño"*. |
 | **H1** | **él** | *"Volevo solo tornare a casa per mantenere la mia promessa, amore."* En el idioma de ella, mal, desangrándose. |
 
-**El primer cruce lo hace ella. El último, él.** Entre medias está el paso del usted al tú, **colocado (2026-08-27) en el Capítulo 7, en la escena de la hierba**: *"Te puedo tutear, ¿no?" / "Ya compartimos un cigarro de marihuana. Creo que dejamos atrás el filtro de los negocios."* No lo carga la línea *"Eres increíble / Ambos somos increíbles"* — para entonces el tú ya lleva horas. Y en ese mismo capítulo la música **ya no cruza "sin traducción"**: cada uno le explica al otro su canción (ver [[06_Relationships/Hitos]], H2-b, "La música").
+**El primer cruce lo hace ella. El último, él.** Entre medias está el paso del usted al tú, **colocado (2026-08-27) en el Capítulo 6, en la escena de la hierba**: *"Te puedo tutear, ¿no?" / "Ya compartimos un cigarro de marihuana. Creo que dejamos atrás el filtro de los negocios."* No lo carga la línea *"Eres increíble / Ambos somos increíbles"* — para entonces el tú ya lleva horas. Y en ese mismo capítulo la música **ya no cruza "sin traducción"**: cada uno le explica al otro su canción (ver [[06_Relationships/Hitos]], H2-b, "La música").
 
 ### CANON (2026-08-27) — El acento que cede, y el "Ciao" que lo compensa
 
@@ -363,7 +363,7 @@ Nunca lo domina. Eso es requisito, no defecto: **el italiano machucado de Kal es
 
 **1. Antagonismo útil.** Se caen mal por motivos de clase y se buscan por motivos de trabajo. Se mienten, se leen, y los dos descubren que el otro es la primera persona en años que no se traga nada.
 
-**2. La sociedad.** Antes que pareja son socios, y en el libro eso pasa *primero*. Descubren la fórmula. La operación conjunta que se gana el título — pequeña, sucia y espectacularmente bien ejecutada — **es la coartada del atentado en [[06_Relationships/Hitos]], H12** (antes atribuida a "H5 — El hipódromo"; H5 pasó a ser "San Aurelio" el 2026-08-29 y ese material se ejecutó en el Capítulo 9).
+**2. La sociedad.** Antes que pareja son socios, y en el libro eso pasa *primero*. Descubren la fórmula. La operación conjunta que se gana el título — pequeña, sucia y espectacularmente bien ejecutada — **es la coartada del atentado en [[06_Relationships/Hitos]], H12** (antes atribuida a "H5 — El hipódromo"; H5 pasó a ser "San Aurelio" el 2026-08-29 y ese material se ejecutó en el Capítulo 8).
 
 > **RESUELTO (2026-08-27):** antes de H12 hay un ensayo menor — beat 16, [[01_Timeline/01_Primer_Borrador_Beats]] — donde usan el mismo método (cámaras, horarios y relato de ella; gente, autos y favores de él) para un trabajo sucio y chico, sin que la escena lo declare "la primera" ni lo trate como hito. Cuando llega H12, el lector ya conoce el método — sólo que ahora lo que protegen no es un negocio: es ella.
    - **Y la sociedad se vuelve explícita en H6**, en las cascadas: pactan deshacer la organización de Varek desde dentro. Es la primera vez que tienen **un objetivo compartido y declarado**, no una cadena de favores.

@@ -3,7 +3,7 @@
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-08-23; apariencia y voz consolidadas 2026-08-29).** Su función narrativa ya está definida; su biografía concreta queda pendiente.
-> **PRIMERA APARICIÓN EN ESCENA (2026-08-29):** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/15_La_Regla_Del_Telefono|Cap. 15 — La regla del teléfono]] (encargo [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]]). Antes de eso sólo se la mencionaba (Cap. 7). Los datos marcados **(borrador Cap. 15)** abajo son inferencia del agente para poder escribir la escena; **el autor no los ha confirmado.**
+> **PRIMERA APARICIÓN EN ESCENA (2026-08-29):** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono|Cap. 15 — La regla del teléfono]] (encargo [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]]). Antes de eso sólo se la mencionaba (Cap. 7). Los datos marcados **(borrador Cap. 15)** abajo son inferencia del agente para poder escribir la escena; **el autor no los ha confirmado.**
 
 **Nacionalidad:** pendiente (no se fija en el Cap. 15).
 **Edad al abrir la novela:** **veinte años (borrador Cap. 15)** — usada en prosa; el autor puede ajustarla.
@@ -78,13 +78,13 @@ Lo que opera hoy:
 
 Ese último dato pesa: Kal la sacó del barrio. Le dio exactamente lo que a él nadie le dio — un sitio donde nadie sabe de dónde viene — y el precio es que casi no la ve.
 
-- **Primera mención en página:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/07_Ambos|Capítulo 7]]. Kal le habla de ella a Chiara en el penthouse (le colgó el teléfono por decirle que no manejara de noche), con "una sonrisa que no era la del hombre de negocios". Es el beat que empieza a mover la empatía de Chiara.
+- **Primera mención en página:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/06_Ambos|Capítulo 6]]. Kal le habla de ella a Chiara en el penthouse (le colgó el teléfono por decirle que no manejara de noche), con "una sonrisa que no era la del hombre de negocios". Es el beat que empieza a mover la empatía de Chiara.
 
 En esa conversación, cuando Chiara le pregunta qué es él para Marisol, Kal lo minimiza: **"El que firma cosas. El que aparece si hace falta."** La frase es compatible con la conducta de la relación, que funciona como familia elegida con dinámica casi paternal, sin fijar una paternidad legal o adoptiva.
 
-**Eco (2026-09-03) en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/17_El_Sobre_Rojo|Capítulo 17, sección *Cuatro letras*]]:** cuando Héctor dice que Marisol necesitaba "un padre completo" ese fin de semana, Kal corrige — "Yo no soy su padre" — y Héctor solo gruñe y sigue hablando como si no lo hubiera oído. Kal no se atribuye el lugar aunque lo ocupa; Héctor lo sabe y no se molesta en discutirlo.
+**Eco (2026-09-03) en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/16_El_Sobre_Rojo|Capítulo 16, sección *Cuatro letras*]]:** cuando Héctor dice que Marisol necesitaba "un padre completo" ese fin de semana, Kal corrige — "Yo no soy su padre" — y Héctor solo gruñe y sigue hablando como si no lo hubiera oído. Kal no se atribuye el lugar aunque lo ocupa; Héctor lo sabe y no se molesta en discutirlo.
 
-**Primera aparición en escena:** Capítulo 15 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/15_La_Regla_Del_Telefono|La regla del teléfono]]). Fin de semana de campamento con Kal antes de que ella vuelva a clases. Lo que la escena establece por conducta:
+**Primera aparición en escena:** Capítulo 14 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono|La regla del teléfono]]). Fin de semana de campamento con Kal antes de que ella vuelva a clases. Lo que la escena establece por conducta:
 
 - **La regla del teléfono.** Durante el campamento los teléfonos se guardan hasta volver. La regla la puso Michael y Marisol la hace cumplir; Kal protesta porque el taller no puede quedarse sin él dos días, Marisol responde que Walt sabe encargarse y **gana**: la regla existe para que Kal esté presente allí. Es lo que lo deja incomunicado durante H10 — una decisión de carácter, no un accidente.
 - **Puede decirle que no y ganarle.** No lo reverencia, no le agradece, se burla de sus manías (revisar el equipaje tres veces, la manta térmica que nunca abren), lo para en seco ("Tengo veinte años" / "Eso no responde").
@@ -94,13 +94,13 @@ En esa conversación, cuando Chiara le pregunta qué es él para Marisol, Kal lo
 
 **Ampliación (2026-09-02), misma escena:** compite con Kal tirando piedras en el arroyo (le gana seis a cuatro) y de paso menciona a **Diego**, un compañero de su clase de Evidencia que le lleva café — Kal se pone protector sin decirlo, y Marisol lo disfruta. Comparte un dato de su clase sobre **engaño investigativo** (la policía puede mentir sobre las pruebas que tiene en un interrogatorio; la única defensa real es pedir un abogado) — Kal lo guarda sin decir para qué (sembrado para pago futuro, ver ledger). Al mediodía pregunta por **la casa recomprada de los papás de Kal** (se enteró por Héctor) y él le dice que puede ir cuando quiera; comparten, sin caer en elegía, cuánto extrañan a Michael. Esa noche, junto al fuego, a Kal se le escapa una palabra en italiano ("dai") sin darse cuenta al quemarse un dedo — Marisol lo cacha de inmediato: "En serio te gusta, ¿eh? Para que hayas aprendido italiano." Kal le resta importancia en voz alta y le da la razón por dentro.
 
-**RESUELTO (2026-09-07), escrito en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/22_La_Promesa|Capítulo 22, "La promesa"]]:** Diego tenía novia y nunca se lo dijo — al enterarse, la novia agrede a Marisol frente a media universidad en el piso de un antro. Marisol llama a Kal llorando a media madrugada; él reacciona con una urgencia instantánea que despierta a Chiara. **Primera interacción entre Chiara y Marisol, y primera vez que Marisol ve el loft de Kal.** Marisol se abre primero con Chiara, no con Kal — Chiara le pide a él que espere a que ella quiera contarlo, y es ella quien prepara el té. Se queda dormida en el sofá; Kal le dice a Chiara, viéndola dormir desde el mezzanine, que Marisol es la única promesa de su pasado (Michael) a la que no quiere fallarle. Al día siguiente (sábado), Marisol paga la hospitalidad despertando temprano a hacer desayuno y café para los dos, explícito: "no solo por Kal. Por los dos". Primera conversación real de mujeres con Chiara sobre lo de Diego — Chiara le deja claro que no tiene que contarle nada si no quiere, y Marisol se abre sin dudar. Le compra café a Kal en el norte usando el Audi sin permiso ("es una de las ventajas de ser mujer, ¿me equivoco, Chiara?" / "sin duda alguna, bambina"). Al despedirse, revela su costumbre: siempre que algo la entristece, va a visitar a Michael — Kal termina la frase con ella ("papá") sin que lo planearan. Kal le describe a Chiara el patrón como "el huracán Marisol": llega, sacude todo, vuelve a su rutina — le ha gustado estar ocupada sobre todo **desde que Michael murió, cuando ella tenía quince años**.
+**RESUELTO (2026-09-07), escrito en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/21_La_Promesa|Capítulo 21, "La promesa"]]:** Diego tenía novia y nunca se lo dijo — al enterarse, la novia agrede a Marisol frente a media universidad en el piso de un antro. Marisol llama a Kal llorando a media madrugada; él reacciona con una urgencia instantánea que despierta a Chiara. **Primera interacción entre Chiara y Marisol, y primera vez que Marisol ve el loft de Kal.** Marisol se abre primero con Chiara, no con Kal — Chiara le pide a él que espere a que ella quiera contarlo, y es ella quien prepara el té. Se queda dormida en el sofá; Kal le dice a Chiara, viéndola dormir desde el mezzanine, que Marisol es la única promesa de su pasado (Michael) a la que no quiere fallarle. Al día siguiente (sábado), Marisol paga la hospitalidad despertando temprano a hacer desayuno y café para los dos, explícito: "no solo por Kal. Por los dos". Primera conversación real de mujeres con Chiara sobre lo de Diego — Chiara le deja claro que no tiene que contarle nada si no quiere, y Marisol se abre sin dudar. Le compra café a Kal en el norte usando el Audi sin permiso ("es una de las ventajas de ser mujer, ¿me equivoco, Chiara?" / "sin duda alguna, bambina"). Al despedirse, revela su costumbre: siempre que algo la entristece, va a visitar a Michael — Kal termina la frase con ella ("papá") sin que lo planearan. Kal le describe a Chiara el patrón como "el huracán Marisol": llega, sacude todo, vuelve a su rutina — le ha gustado estar ocupada sobre todo **desde que Michael murió, cuando ella tenía quince años**.
 
 ---
 
 ## Arco futuro — de recurrente a protagonista
 
-> **CANON DEL AUTOR (2026-08-29).** A partir del Capítulo 15, Marisol pasa a ser **personaje recurrente**, no solo mencionada.
+> **CANON DEL AUTOR (2026-08-29).** A partir del Capítulo 14, Marisol pasa a ser **personaje recurrente**, no solo mencionada.
 
 En esa misma escena queda sembrado el resto del plan:
 
@@ -110,11 +110,11 @@ En esa misma escena queda sembrado el resto del plan:
 
 **En Parte 2:** Kal compra un bufete, asociándose con otro abogado (personaje todavía sin crear).
 
-**En Parte 3:** ese socio se marcha, y **Marisol entra como abogada principal del bufete** — pasa de secundaria a **personaje protagónico**, representando a la gente de La Almendra en los conflictos legales y arrestos que les toquen. Es el pago narrativo de todo lo sembrado en el Capítulo 15: la carrera, los seis meses, la negativa a defender a Kal sin experiencia.
+**En Parte 3:** ese socio se marcha, y **Marisol entra como abogada principal del bufete** — pasa de secundaria a **personaje protagónico**, representando a la gente de La Almendra en los conflictos legales y arrestos que les toquen. Es el pago narrativo de todo lo sembrado en el Capítulo 14: la carrera, los seis meses, la negativa a defender a Kal sin experiencia.
 
 > **PENDIENTE:** nombre y ficha del socio de Kal en el bufete (Parte 2), y la razón por la que se marcha. Nombre del bufete. Escena exacta en que Marisol toma el mando.
 
-**La graduación (2026-08-30):** al terminar las estadías, Kal lleva a Chiara como su acompañante a la graduación — uno de los momentos de mayor orgullo de su vida. Ocurre después del primer encuentro entre Marisol y Chiara en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/22_La_Promesa|Capítulo 22, «La promesa»]]. La recogida ya está redactada en [[07_Ideas/La_Graduacion_De_Marisol]]; falta construir el resto.
+**La graduación (2026-08-30):** al terminar las estadías, Kal lleva a Chiara como su acompañante a la graduación — uno de los momentos de mayor orgullo de su vida. Ocurre después del primer encuentro entre Marisol y Chiara en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/21_La_Promesa|Capítulo 21, «La promesa»]]. La recogida ya está redactada en [[07_Ideas/La_Graduacion_De_Marisol]]; falta construir el resto.
 
 ---
 
@@ -163,7 +163,7 @@ Su sarcasmo lo aprendió de Kal por convivencia, pero no lo imita: en ella es m�
 - [[02_Characters/Kal_Mercer]] — protector, tutor de hecho, y el hombre al que eventualmente tendrá que enfrentar con una verdad.
 - [[02_Characters/Michael_Grayson]] — padre.
 - [[02_Characters/Hector_Navarro]] — espejo temático: Kal fue criado por un padre elegido; Marisol es la persona a quien Kal intenta darle una salida elegida.
-- [[02_Characters/Chiara_Bellandi]] — su primer encuentro ocurre en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/22_La_Promesa|Capítulo 22, «La promesa»]]. En el Cap. 15 Marisol sólo conoce el nombre por cómo aparece en boca de Kal, y lo usa para picarlo. Su relación posterior puede revelar qué clase de familia están construyendo Kal y Chiara.
+- [[02_Characters/Chiara_Bellandi]] — su primer encuentro ocurre en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/21_La_Promesa|Capítulo 21, «La promesa»]]. En el Cap. 15 Marisol sólo conoce el nombre por cómo aparece en boca de Kal, y lo usa para picarlo. Su relación posterior puede revelar qué clase de familia están construyendo Kal y Chiara.
 
 ---
 
@@ -173,7 +173,7 @@ Su sarcasmo lo aprendió de Kal por convivencia, pero no lo imita: en ella es m�
 
 > **PENDIENTE:** madre de Marisol y si Kal tiene alguna tutoría legal o sólo un rol familiar de hecho.
 
-> **PENDIENTE:** qué piensa Marisol de Chiara después de su primer encuentro en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/22_La_Promesa|Capítulo 22, «La promesa»]].
+> **PENDIENTE:** qué piensa Marisol de Chiara después de su primer encuentro en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/21_La_Promesa|Capítulo 21, «La promesa»]].
 
 > **PENDIENTE:** qué decisión de Marisol intenta controlar Kal, y cuándo se lo cobra.
 

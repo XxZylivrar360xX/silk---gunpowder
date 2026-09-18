@@ -4,7 +4,7 @@ Protagonistas: Chiara Bellandi, Kal Mercer.
 Ventana temporal: dias/semanas posteriores al primer favor, hasta la primera noche que ninguno de los dos llama cita.
 Lugares: The Monarch Casino & Hotel, La Almendra, centro de San Aurelio, Il Gelsomino.
 Funcion: convertir el favor en cadena, mostrar a Kal como telefono recurrente y a Chiara aprendiendo a dirigir informacion; ejecutar H2-a, la primera cena que ninguno llama cita.
-Nota de fusion (2026-09-10, BLOQUE 2 de PLAN_CIRUGIA_EDITORIAL_PARTE_I): capitulo resultante de fusionar los antiguos Capitulo 5 (La casa no quiere ruido) y Capitulo 6 (Una amiga). El archivo conserva su nombre original (05_La_Casa_No_Quiere_Ruido.md) por trazabilidad de enlaces; el titulo visible pasa a ser "Una amiga". El antiguo 06_Una_Amiga.md queda como nota de redireccion. Renumeracion global de capitulos posteriores pendiente (no ejecutar hasta el cierre completo de la cirugia editorial).
+Nota de fusion (2026-09-10, BLOQUE 2 de PLAN_CIRUGIA_EDITORIAL_PARTE_I): capitulo resultante de fusionar los antiguos Capitulo 5 (La casa no quiere ruido) y Capitulo 6 (Una amiga). El archivo conserva su nombre original (05_La_Casa_No_Quiere_Ruido.md) por trazabilidad de enlaces; el titulo visible pasa a ser "Una amiga". El antiguo Nota_Una_Amiga_Fusionada.md queda como nota de redireccion. Renumeracion global de capitulos posteriores pendiente (no ejecutar hasta el cierre completo de la cirugia editorial).
 -->
 
 # Capítulo 5 — Una amiga

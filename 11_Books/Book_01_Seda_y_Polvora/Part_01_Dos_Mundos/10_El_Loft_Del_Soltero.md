@@ -1,13 +1,13 @@
 <!--
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_c11_el_loft_del_soltero.md). Deuda de canon no bloqueante conservada: por que la familia Mercer dejo de poseer La Casa y si Chiara sabe durante el diseno que era la casa de los Mercer -- no afecta este estado, no resueltas.
 Protagonistas: Kal Mercer, Chiara Bellandi, Nadir Amrani.
-Ventana temporal: continúa directamente del Capítulo 10. Semanas en la casa común, después la recompra y el diseño de la casa.
+Ventana temporal: continúa directamente del Capítulo 9. Semanas en la casa común, después la recompra y el diseño de la casa.
 Lugares: Casa Comunitaria de La Almendra, La Casa (la vieja casa de los padres de Kal).
 Función: ejecutar H14, "El loft del soltero": la fricción con Nadir, la recompra, el diseño pagado por Chiara y la comodidad doméstica que empieza a crecer. Chiara NO se muda aquí (eso es H16, el cumpleaños): deja objetos sueltos y se queda alguna noche, nada más.
 Revisión 2026-08-30: compra, visita al cascarón y tres etapas de obra dramatizadas; arquitectura del loft fijada; doble fondo de Dale y caja de acero resistente al fuego integrados. La caja de runas se guarda sin abrir y no vuelve a mencionarse.
 -->
 
-# Capítulo 11 — El loft del soltero
+# Capítulo 10 — El loft del soltero
 
 Nadir no volvió a mirarla como a un huésped después del primer día. La miró como a un problema que todavía no había decidido cómo nombrar.
 

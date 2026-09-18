@@ -27,7 +27,7 @@ Continuidad:
 - "Conduce él, siempre". Chiara sigue a Kal en su propio sedán (Mercedes-Benz Clase S del Monarch), no en el Peugeot de él — ficha de Chiara, ya fijado en los Caps. 30-32.
 -->
 
-# Capítulo 29 — La correa
+# Capítulo 28 — La correa
 
 La sudadera olía a él y a solvente, y a un jabón barato que Kal compraba por caja y que Chiara no habría elegido nunca y que ahora, puesta, le pareció lo más parecido a estar acompañada que iba a conseguir esa noche.
 

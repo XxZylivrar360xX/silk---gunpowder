@@ -179,7 +179,7 @@ La evidencia de gates vive en el session report, en `98_Agent_Handoff/CURRENT_BR
 
 Se creó [[12_Craft_Policies/CHAPTER_STATUS.md]] como ledger compacto porque ni `00_Book_Map.md` ni `INDEX.md` llevan hoy una tabla capítulo-por-capítulo de estado editorial (ambos son prosa narrativa de seguimiento, no una tabla escaneable). El ledger no duplica análisis — solo referencia dónde vive.
 
-**No se pobló retroactivamente.** Este encargo crea el sistema; no audita C01–C29. Un encargo separado de auditoría de estados / cierre de Parte I decidirá cómo poblarlo.
+**No se pobló retroactivamente.** Este encargo crea el sistema; no audita C01–C28. Un encargo separado de auditoría de estados / cierre de Parte I decidirá cómo poblarlo.
 
 ---
 
@@ -213,4 +213,4 @@ La skill reconoce cuando el usuario pide cerrar, aprobar técnicamente o comprob
 
 ## No retroactividad automática
 
-Este documento crea el sistema de estados y el workflow CLOSE. **No se aplica todavía** a los capítulos ya escritos (C01–C29): ninguno cambia de estado como consecuencia de este encargo. La auditoría de estados / cierre de Parte I es trabajo futuro, separado y explícito.
+Este documento crea el sistema de estados y el workflow CLOSE. **No se aplica todavía** a los capítulos ya escritos (C01–C28): ninguno cambia de estado como consecuencia de este encargo. La auditoría de estados / cierre de Parte I es trabajo futuro, separado y explícito.

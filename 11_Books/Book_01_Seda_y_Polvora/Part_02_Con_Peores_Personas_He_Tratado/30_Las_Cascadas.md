@@ -38,7 +38,7 @@ DOCUMENTOS DE `develop` QUE SIGUEN DESACTUALIZADOS por la reescritura del Cap. 3
 > **RESUELTO (2026-09-16, CANON DEL AUTOR: "hay que sanear, mi decisión es que sea el mismo día"):** el Cap. 32 fue saneado en sesión posterior para ocurrir la tarde-anochecer del mismo día que este capítulo — se quitó el salto de semanas, la sanación de la ceja, el "jueves" y el "Peugeot" (pasa a Audi/Lancia), y la llamada de apertura de Kal ahora es la invitación personal a la pesca ya acordada en la coda de este capítulo. Ver metadata y prosa del Cap. 32. Cap. 32 no cambia de posición ni de contenido con esta revisión.
 -->
 
-# Capítulo 31 — Las cascadas
+# Capítulo 30 — Las cascadas
 
 El camino se acabó mucho antes de que el ruido de agua empezara. Kal tomó la última curva de tierra sin asfalto y detuvo el Audi junto a un roble solo; el Lancia se detuvo detrás, el mismo cuerpo de distancia que había mantenido toda la carretera. Apagó el motor sin decir nada, como si el silencio fuera parte de la explicación. Chiara apagó el suyo un segundo después.
 

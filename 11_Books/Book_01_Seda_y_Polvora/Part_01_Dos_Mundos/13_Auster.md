@@ -1,13 +1,13 @@
 <!--
 Estado: TERMINADO.
 Protagonistas: Chiara Bellandi (partes 1-4), Kal Mercer (parte 5).
-Ventana temporal: semanas despues del Capitulo 13 (Roma Atrii). Kal y Chiara siguen a caballo entre el penthouse y la casa de el; todavia no hay primer beso.
+Ventana temporal: semanas despues del Capitulo 12 (Roma Atrii). Kal y Chiara siguen a caballo entre el penthouse y la casa de el; todavia no hay primer beso.
 Lugares: El Penthouse, La Esquina de Mabel, The Monarch Casino & Hotel (piso de juego), Almendra Towing / El Patio, Comisaria central de San Aurelio (Calle Corona).
-Funcion: DISEÑO nuevo (2026-09-01), a peticion del autor. Primer favor grande que Chiara le devuelve a Kal sin que el se lo pida. La policia arma un caso formal contra el conductor del Peugeot rojo (ver ledger, "El Peugeot rojo que Blake persigue") con dos sospechosos: Rafael "Rafe" Dominguez (Los Bravos de Santa Brigida) y Kal. Chiara arma la verdad completa cruzando tres piezas de su red -- calle (gasolinera), Mabel (chisme de barra sobre el sur) y Kenji/i Sussurri (cifrado real) -- usando un codigo tematico propio basado en versiculos de la Vulgata que memorizo de niña: cada referencia tiene un significado fijo, no es traduccion literal. Resuelve el "cuarto papel" (la subjefa) sembrado en el Capitulo 13: la subjefa es Lucia Varek, primera escena de ella con Kal. Chiara siembra duda razonable esparciendo un rumor sobre un corredor de piezas del norte que paga en efectivo sin recibos -- candidato mas creible que cualquiera de los dos sospechosos reales -- y le da a Kal la coartada antes de que declare. El caso se cae. Cierra con la linea del autor: "Eres realmente buena en esto" / "Lo soy cuando amenazan a mi gente."
-Apertura por residuo: retoma el "cuarto papel" del Capitulo 13 -- el rumor sin resolver sobre la subjefa vista con alguien del mundo criminal, que Chiara guardo sin saber para que.
+Funcion: DISEÑO nuevo (2026-09-01), a peticion del autor. Primer favor grande que Chiara le devuelve a Kal sin que el se lo pida. La policia arma un caso formal contra el conductor del Peugeot rojo (ver ledger, "El Peugeot rojo que Blake persigue") con dos sospechosos: Rafael "Rafe" Dominguez (Los Bravos de Santa Brigida) y Kal. Chiara arma la verdad completa cruzando tres piezas de su red -- calle (gasolinera), Mabel (chisme de barra sobre el sur) y Kenji/i Sussurri (cifrado real) -- usando un codigo tematico propio basado en versiculos de la Vulgata que memorizo de niña: cada referencia tiene un significado fijo, no es traduccion literal. Resuelve el "cuarto papel" (la subjefa) sembrado en el Capitulo 12: la subjefa es Lucia Varek, primera escena de ella con Kal. Chiara siembra duda razonable esparciendo un rumor sobre un corredor de piezas del norte que paga en efectivo sin recibos -- candidato mas creible que cualquiera de los dos sospechosos reales -- y le da a Kal la coartada antes de que declare. El caso se cae. Cierra con la linea del autor: "Eres realmente buena en esto" / "Lo soy cuando amenazan a mi gente."
+Apertura por residuo: retoma el "cuarto papel" del Capitulo 12 -- el rumor sin resolver sobre la subjefa vista con alguien del mundo criminal, que Chiara guardo sin saber para que.
 -->
 
-# Capítulo 14 — Auster
+# Capítulo 13 — Auster
 
 El cuarto papel seguía donde lo había dejado, en el cajón que no era el de las cartas ni el de los recibos: un rumor sin nombre completo, sobre una mujer sin nombre completo, vista dos veces con alguien que nadie en la mesa había reconocido.
 

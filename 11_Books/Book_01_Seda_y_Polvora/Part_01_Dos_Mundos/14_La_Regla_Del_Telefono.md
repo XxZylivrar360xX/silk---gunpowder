@@ -1,15 +1,15 @@
 <!--
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md).
 Protagonistas: Kal Mercer, Marisol Grayson.
-Ventana temporal: el fin de semana inmediatamente anterior al infarto de Hector / H10. Se inserta entre el Capitulo 13 (Roma Atrii) y el Capitulo 15 (El porton).
+Ventana temporal: el fin de semana inmediatamente anterior al infarto de Hector / H10. Se inserta entre el Capitulo 12 (Roma Atrii) y el Capitulo 14 (El porton).
 Lugares: La Casa (loft de Kal), la universidad / residencia de Marisol, carretera y camino de tierra al norte, zona de campamento en las montanas, tienda de carretera, regreso a San Aurelio.
 Funcion: capitulo puente / beat de familia. Presentar a Marisol en escena; mostrar por conducta la relacion casi paternal con Kal; explorar "la amiga Chiara" desde alguien que conoce a Kal de antes de Chiara; justificar por caracter (la regla del telefono, heredada de Michael) que Kal quede incomunicado durante el infarto de Hector; cerrar con las llamadas perdidas que abren H10. Version expandida (2026-09-02): mas cuerpo y aventura para el fin de semana -- competencia de piedras en el arroyo con mencion de un compañero de clase (Diego) que le lleva cafe; dato curioso de derecho (engaño investigativo en interrogatorios) que Kal guarda sin decir para que, sembrado para pago futuro; escena de mediodia donde Marisol pregunta por el loft/la casa recomprada y comparten, sin caer en elegia, cuanto extrañan a Michael; broma nueva donde a Kal se le escapa una palabra en italiano ("dai") sin darse cuenta y Marisol lo cacha -- "en serio te gusta, para que hayas aprendido italiano" -- el le resta importancia en voz alta y le da la razon por dentro.
 Sin ID de hito. En este punto Kal y Chiara ya tienen vinculo emocional pero TODAVIA NO se han besado; oficialmente son "buenos amigos". Michael Grayson aparece solo por conducta (una regla, un nudo de tienda, un cazo, una casa), nunca como elegia.
-Apertura por residuo: arranca del cierre del Capitulo 13 — el papel de "Roma Atrii" sin abrir sobre la repisa y la promesa de Chiara de traer ella misma lo que tenga que llegarle.
-Cierre corregido (2026-09-03): ya NO termina con Kal prendiendo el telefono y viendo las llamadas perdidas en la carretera -- eso se recoloca al inicio del Capitulo 16, cuando llega al loft. Aqui cierra con el telefono todavia apagado y una linea que le avisa al lector, sin que Kal lo sepa, que algo paso en paralelo en la ciudad mientras el estaba en la montaña -- ancla el "Dos dias antes" del Capitulo 16 al mismo fin de semana, no a un salto temporal separado.
+Apertura por residuo: arranca del cierre del Capitulo 12 — el papel de "Roma Atrii" sin abrir sobre la repisa y la promesa de Chiara de traer ella misma lo que tenga que llegarle.
+Cierre corregido (2026-09-03): ya NO termina con Kal prendiendo el telefono y viendo las llamadas perdidas en la carretera -- eso se recoloca al inicio del Capitulo 15, cuando llega al loft. Aqui cierra con el telefono todavia apagado y una linea que le avisa al lector, sin que Kal lo sepa, que algo paso en paralelo en la ciudad mientras el estaba en la montaña -- ancla el "Dos dias antes" del Capitulo 15 al mismo fin de semana, no a un salto temporal separado.
 -->
 
-# Capítulo 15 — La regla del teléfono
+# Capítulo 14 — La regla del teléfono
 
 El papel seguía sobre la repisa, doblado en cuatro, donde llevaba semanas sin que Kal lo tirara ni lo abriera. *Roma Atrii*, arriba del todo, en la letra que ya se sabía de memoria sin haber querido aprenderla. Lo miró un segundo de más mientras cerraba el bolso, decidió otra vez que no era el día, y salió con la casa a medio ordenar.
 

@@ -104,7 +104,7 @@ Los dos nombres importantes:
 
 ### H12 — El atentado / El corral *(antes "H5 — El hipódromo")*
 
-> **NOTA (2026-08-29):** esta escena de hospital pertenece ahora a **[[06_Relationships/Hitos#H12 — El atentado / El corral]]** (ejecutada en el Capítulo 9). El hito renombrado **H5 — San Aurelio** ya no incluye el hospital.
+> **NOTA (2026-08-29):** esta escena de hospital pertenece ahora a **[[06_Relationships/Hitos#H12 — El atentado / El corral]]** (ejecutada en el Capítulo 8). El hito renombrado **H5 — San Aurelio** ya no incluye el hospital.
 
 Después del ataque en las caballerizas, Kal lleva a Chiara al Hospital Santa Aurelia.
 

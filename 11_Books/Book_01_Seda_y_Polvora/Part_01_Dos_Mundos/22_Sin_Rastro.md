@@ -1,13 +1,13 @@
 <!--
 Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md).
 Protagonistas: Chiara Bellandi, Kal Mercer, con aparicion breve de Dario Varek.
-Ventana temporal: dias despues del Capitulo 22 (La promesa). Reordenado el 2026-08-29; renumerado varias veces, la ultima el 2026-09-07 al insertar el Capitulo 22 nuevo (La promesa).
+Ventana temporal: dias despues del Capitulo 21 (La promesa). Reordenado el 2026-08-29; renumerado varias veces, la ultima el 2026-09-07 al insertar el Capitulo 21 nuevo (La promesa).
 Lugares: The Monarch Casino & Hotel, calles de Paseo Pacifica, Almendra Towing.
 Funcion: ejecutar beats 16 y 17 — un trabajo chico y sucio resuelto juntos, sin nombrarlo como hito (ese titulo lo conserva H5), y Dario notando por primera vez una variacion en Chiara que no viene solo del Monarch.
 Pasada editorial 2026-09-10 (Claude Code, decision del autor): accidente achicado a solo la farola (sin tercer auto danado); logistica de grua unica; certeza del narrador limitada a lo que Kal y Chiara creen haber cerrado; poda de glosas y del encabezado de seccion; "sin ayuda de nadie" precisado a "sin que llegara a los socios". Dialogo protegido intacto.
 -->
 
-# Capítulo 23 — Sin rastro
+# Capítulo 22 — Sin rastro
 
 La llamada llegó a las tres y once de la madrugada.
 

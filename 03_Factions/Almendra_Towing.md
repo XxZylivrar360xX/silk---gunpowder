@@ -106,7 +106,7 @@ Ese nombre no escala para nombrar el imperio. Cuando la organización criminal c
 
 > **PENDIENTE, PRIORITARIO:** confirmar si **El Patio** queda como nombre de calle definitivo. No usar Almendra Towing para cubrir esa función ni la de holding.
 
-> **NUEVO HILO SEMBRADO (2026-09-07), escrito en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/20_Tierra_Buena|Capítulo 20, "Tierra buena"]]:** Kal tiene un socio en el espacio/terreno donde opera el taller (el "concesionario") — sin nombre todavía. En papel, ese socio lo saca completo del acuerdo. Kal busca acciones legales; Chiara le ofrece el contacto de un abogado competente que no se lleva bien con el fiscal de distrito (personaje sin nombre todavía). **PENDIENTE:** identidad del socio, motivo del movimiento, nombre del abogado, y cómo se resuelve.
+> **NUEVO HILO SEMBRADO (2026-09-07), escrito en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/19_Tierra_Buena|Capítulo 19, "Tierra buena"]]:** Kal tiene un socio en el espacio/terreno donde opera el taller (el "concesionario") — sin nombre todavía. En papel, ese socio lo saca completo del acuerdo. Kal busca acciones legales; Chiara le ofrece el contacto de un abogado competente que no se lleva bien con el fiscal de distrito (personaje sin nombre todavía). **PENDIENTE:** identidad del socio, motivo del movimiento, nombre del abogado, y cómo se resuelve.
 
 ---
 

@@ -27,7 +27,7 @@ Continuidad:
 - VEHÍCULOS: Kal conduce el Audi todo el capítulo (ida y vuelta). Chiara llega y se va con él — su Lancia se queda en el Monarch, nunca llega al lago. Sin Peugeot.
 -->
 
-# Capítulo 32 — Vamos a casa
+# Capítulo 31 — Vamos a casa
 
 La tarde en el Monarch fue una sucesión de cosas pequeñas que había que resolver antes de que se acumularan: una versión que corregir, un empleado con una pregunta de vestuario, un papelito doblado que uno de sus sussurros le hizo llegar con un nombre que todavía no significaba nada. Chiara lo fue archivando todo, cada cosa en su sitio, con la misma cabeza que esa mañana había estado sentada sobre una piedra escuchando el nombre de un general.
 

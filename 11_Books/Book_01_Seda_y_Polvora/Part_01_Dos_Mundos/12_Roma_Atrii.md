@@ -1,12 +1,12 @@
 <!--
 Estado: TERMINADO.
 Protagonistas: Chiara Bellandi (partes 1-2), Kal Mercer (parte 3).
-Ventana temporal: parte 1 es anterior al Capitulo 12 (evento altruista, y tambien anterior/independiente de la noche de Gabriella's del Capitulo 8 y del arco de H12 en los Capitulos 10-11); parte 2 ocurre la misma noche del torneo del Capitulo 12; parte 3, semanas despues -- Kal y Chiara ya viven a caballo entre el penthouse y la casa de el.
+Ventana temporal: parte 1 es anterior al Capitulo 11 (evento altruista, y tambien anterior/independiente de la noche de Gabriella's del Capitulo 7 y del arco de H12 en los Capitulos 10-11); parte 2 ocurre la misma noche del torneo del Capitulo 11; parte 3, semanas despues -- Kal y Chiara ya viven a caballo entre el penthouse y la casa de el.
 Lugares: salon de gala (evento altruista, sin nombre fijo), The Monarch Casino & Hotel (piso de juego y caja), Almendra Towing / El Patio.
-Funcion: ejecutar beats 12-c y 13-b — nace i Sussurri con Kenji Oda; se muestra la red en funcionamiento con multiples fuentes y tipos de informacion (calle, comercio/Mabel, elite, institucional) llegando al escritorio del penthouse; y el primer roce de valores entre Kal y Chiara por el mensajero menor. Version revisada (2026-09-02): se le da contenido real y urgencia al papel -- esa misma manana un hombre no identificado pregunto en el piso del Monarch por "un Peugeot rojo, tuneado", sembrando la primera alarma aislada del hilo que se paga en el Capitulo 14 (Auster); la reaccion de Kal se ancla, sin explicarla en bloque, a su propio origen (comprado de bebe, carrera perdida por gente que movia ninos) via el mismo tic fisico de la mandibula ya usado en el Capitulo 1; y la confrontacion se extiende para que Chiara admita honestamente, sin excusarse, por que no espero a la noche.
+Funcion: ejecutar beats 12-c y 13-b — nace i Sussurri con Kenji Oda; se muestra la red en funcionamiento con multiples fuentes y tipos de informacion (calle, comercio/Mabel, elite, institucional) llegando al escritorio del penthouse; y el primer roce de valores entre Kal y Chiara por el mensajero menor. Version revisada (2026-09-02): se le da contenido real y urgencia al papel -- esa misma manana un hombre no identificado pregunto en el piso del Monarch por "un Peugeot rojo, tuneado", sembrando la primera alarma aislada del hilo que se paga en el Capitulo 13 (Auster); la reaccion de Kal se ancla, sin explicarla en bloque, a su propio origen (comprado de bebe, carrera perdida por gente que movia ninos) via el mismo tic fisico de la mandibula ya usado en el Capitulo 1; y la confrontacion se extiende para que Chiara admita honestamente, sin excusarse, por que no espero a la noche.
 -->
 
-# Capítulo 13 — Roma Atrii
+# Capítulo 12 — Roma Atrii
 
 La tarjeta se negó dos veces antes de que el hombre del esmoquin empezara a sudar.
 

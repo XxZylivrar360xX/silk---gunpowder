@@ -40,9 +40,9 @@ Lo que opera hoy:
 
 Michael importa menos por lo que hizo en escena que por el momento en que muere: Kal vuelve de una cadena de pérdidas institucionales y casi de inmediato tiene que despedirse de uno de los pocos hombres de su vida militar que todavía significaban algo bueno.
 
-**Primera vez que Kal habla de él en página:** Capítulo 7, en el penthouse. Lo cuenta sin dramatizarlo — amigo del ejército, retirado, muerto de cáncer "con la misma discreción con la que había hecho todo lo demás" — y de ahí pasa a Marisol.
+**Primera vez que Kal habla de él en página:** Capítulo 6, en el penthouse. Lo cuenta sin dramatizarlo — amigo del ejército, retirado, muerto de cáncer "con la misma discreción con la que había hecho todo lo demás" — y de ahí pasa a Marisol.
 
-**Primera presencia real (sin recuerdo):** Capítulo 13, a través de sus costumbres vivas entre Kal y Marisol (la regla del teléfono, la tienda, el cazo). Ver "Método" abajo.
+**Primera presencia real (sin recuerdo):** Capítulo 12, a través de sus costumbres vivas entre Kal y Marisol (la regla del teléfono, la tienda, el cazo). Ver "Método" abajo.
 
 ---
 
@@ -60,7 +60,7 @@ En [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono
 - **El campamento como costumbre.** Kal y Marisol tienen un sitio de siempre en la montaña, al norte; una tradición vieja que no se fecha con precisión y que estaban recuperando.
 - **Cómo montaba la tienda:** varillas en cruz, lona tensada desde las esquinas antes que del centro, vientos en ángulo. Kal la monta igual y Marisol lo nota.
 - **Quemaba las alubias** distrayéndose con la parrilla. Kal "heredó el cazo" y con él el defecto.
-- **La casa.** Marisol se entera (por Héctor) de que Kal recompró la casa de sus padres, y le dice que Michael consideraba a Kal y a Héctor "los únicos del barrio que todavía se acordaban de cómo era antes de que se pusiera fea" — ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/15_La_Regla_Del_Telefono]] (ampliación 2026-09-02).
+- **La casa.** Marisol se entera (por Héctor) de que Kal recompró la casa de sus padres, y le dice que Michael consideraba a Kal y a Héctor "los únicos del barrio que todavía se acordaban de cómo era antes de que se pusiera fea" — ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono]] (ampliación 2026-09-02).
 
 Todo esto es inferencia del agente para dar textura; **el autor no lo ha confirmado** y puede recortarse o reescribirse.
 

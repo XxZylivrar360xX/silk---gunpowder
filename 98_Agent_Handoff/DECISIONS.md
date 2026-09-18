@@ -67,7 +67,7 @@ Decisiones compactas para relevo. No reemplaza `log.md`.
 > **CORRECCIÓN DE CONTINUIDAD (2026-09-11):** la "muerte pública de Halbrook en la explanada del Ayuntamiento" ya no cierra esta macrosecuencia. [[00_Biblia/00_Trilogy_Structure]] la mueve a la apertura de *Interregno* (Libro III), ejecutada por Cole. Dentro de *Voto de Ceniza* (Libro II), esta macrosecuencia cierra con **Cole decidiendo que Halbrook debe morir** — la sentencia, no el acto.
 - H14 queda desarrollado como construcción compartida, no transición logística: Cole recompra la vieja casa mediante una negociación real; Chiara propone la doble altura y participa en mezzanine, escalera, cocina, luz y mobiliario. La proporción visual en esta etapa es 80 % Cole / 20 % Chiara. El balcón se conserva por condición tajante de Cole; él no explica por qué.
 - El doble fondo bajo el suelo pertenecía al contrabando de Dale. Cole lo conserva e instala una caja de acero resistente al fuego. En H14 contiene material propio general; después de H16 se vuelve por uso la caja fuerte de ambos. En H8 el contenido protegido sobrevive, pero la casa y la vida cotidiana expuesta se pierden.
-- Sigue PENDIENTE por qué la familia Mercer dejó de poseer la casa y si Chiara sabe de quién era mientras la diseña. La prosa del Capítulo 11 mantiene ambos huecos sin resolver.
+- Sigue PENDIENTE por qué la familia Mercer dejó de poseer la casa y si Chiara sabe de quién era mientras la diseña. La prosa del Capítulo 10 mantiene ambos huecos sin resolver.
 
 ## 2026-08-29
 
@@ -114,9 +114,9 @@ Decisiones compactas para relevo. No reemplaza `log.md`.
 - Capitulos 4-7 provisionales creados para construir el avance temprano de Cole/Chiara: primer favor bajo la mesa, cadena de favores, primera cena H2-a y penthouse H2-b.
 - El primer favor de Chiara a Cole es llamar por el Mercedes de Varga en el estacionamiento de empleados; Cole lo resuelve con grua y factura ensenable.
 - La cadena de favores se vuelve costumbre de pasar por el Monarch con excusas de trabajo; Chiara intenta pagar y aceptar favores le cuesta.
-- H2-a queda en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/06_Una_Amiga]]: Rocco, camioneta rentada, terraza de Il Gelsomino, Nadir/Danny detectan a Cole arreglado y con fragancia.
-- H2-b queda en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/07_Ambos]]: hamburguesas, malteadas, hierba, canciones, calavera, habitaciones separadas y choque de punos.
-- Paso del usted al tu resuelto provisionalmente al final de Capitulo 7 con la linea canon "Eres increible / Ambos somos increibles".
+- H2-a queda en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/Nota_Una_Amiga_Fusionada]]: Rocco, camioneta rentada, terraza de Il Gelsomino, Nadir/Danny detectan a Cole arreglado y con fragancia.
+- H2-b queda en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/06_Ambos]]: hamburguesas, malteadas, hierba, canciones, calavera, habitaciones separadas y choque de punos.
+- Paso del usted al tu resuelto provisionalmente al final de Capitulo 6 con la linea canon "Eres increible / Ambos somos increibles".
 - Garrett Cross ya orbita a Cole desde la etapa temprana de Almendra Towing: ayuda con nominas, papeles limpios y contratacion; en Capitulo 1 esta de vacaciones y Cole ya hablo con el para buscar turno nocturno al volver.
 - Hector Navarro es el filtro humano del taller: Garrett puede preparar papeles/nominas, pero Hector decide si alguien sirve para el puesto o no. Cole respeta ese visto bueno.
 - Cole confia en Garrett al nivel de confiarle su vida por lo vivido junto a Russell y Garrett; no es solo "un hombre que cuenta dinero ajeno".

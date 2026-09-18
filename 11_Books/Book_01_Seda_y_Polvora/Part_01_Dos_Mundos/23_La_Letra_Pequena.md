@@ -10,7 +10,7 @@ Continuidad: la propuesta de Kal la primera noche del Monarch (Caps. 1-2) se usa
 Pasada editorial 2026-09-10 (Claude Code, decision del autor): el recuerdo de la primera reunion se ajusta a lo dramatizado en el Cap. 2 (beneficio mutuo / "una silla en su mesa", no un "no" a un porcentaje concreto); explicitado el enlace propuso-antes -> se le cae a Hoover que se la invento ahora; podadas glosas de descubrimiento (fiscal, parcela) y remates; doble armado de carpetas de Garrett marcado como version para la audiencia.
 -->
 
-# Capítulo 24 — La letra pequeña
+# Capítulo 23 — La letra pequeña
 
 El sobre llegó al taller a las nueve y doce de la mañana, entre una factura de neumáticos y un aviso del condado por una grúa que llevaba tres semanas estacionada donde no debía. Membrete de una sociedad que Kal conocía demasiado bien: dos páginas de lenguaje pulcro que decían, de tres maneras distintas para que pareciera inevitable, que su nombre ya no figuraba en el acuerdo del concesionario.
 

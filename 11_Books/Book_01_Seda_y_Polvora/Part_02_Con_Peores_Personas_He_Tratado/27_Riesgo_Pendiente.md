@@ -23,7 +23,7 @@ Continuidad:
 - "Conduce él, siempre": aquí es lo único que puede hacer.
 -->
 
-# Capítulo 28 — Riesgo pendiente
+# Capítulo 27 — Riesgo pendiente
 
 El teléfono vibró contra el mármol del baño a las tres y algo de la mañana, y Kal lo tenía en la mano antes de saber que se había movido.
 

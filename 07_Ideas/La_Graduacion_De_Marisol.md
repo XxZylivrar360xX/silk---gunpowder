@@ -2,7 +2,7 @@
 
 *Hito sin número asignado todavía — ver "Hitos por recibir" en [[06_Relationships/Hitos]]. Los beats marcados CANON DEL AUTOR están fijados; el resto (la ceremonia en sí, el encuentro con Marisol, el cierre) sigue abierto y se construye por partes.*
 
-> **Ubicación temporal:** después de que Marisol complete sus estadías en derecho (ver [[02_Characters/Marisol_Grayson]], "Arco futuro" — seis meses desde el Capítulo 14, más la duración de las estadías mismas). Cae, como mínimo, bien entrada la Parte 2.
+> **Ubicación temporal:** después de que Marisol complete sus estadías en derecho (ver [[02_Characters/Marisol_Grayson]], "Arco futuro" — seis meses desde el Capítulo 13, más la duración de las estadías mismas). Cae, como mínimo, bien entrada la Parte 2.
 
 > **Función:** uno de los momentos de mayor orgullo en la vida de Kal. Es también la primera vez que Marisol y Chiara se conocen en persona — hasta ahora, Marisol sólo conoce el nombre por cómo Kal lo dice sin querer (Cap. 14).
 

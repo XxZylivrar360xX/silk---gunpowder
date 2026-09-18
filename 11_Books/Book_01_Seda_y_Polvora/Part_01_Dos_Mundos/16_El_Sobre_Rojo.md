@@ -1,13 +1,13 @@
 <!--
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md).
 Protagonistas: Kal Mercer, Chiara Bellandi, Hector Navarro.
-Ventana temporal: continua directamente del Capitulo 16 (POV Chiara). El domingo en que Kal vuelve del campamento, y los dias siguientes en el hospital.
+Ventana temporal: continua directamente del Capitulo 15 (POV Chiara). El domingo en que Kal vuelve del campamento, y los dias siguientes en el hospital.
 Lugares: La Casa (loft de Kal), The Monarch Casino & Hotel, Hospital Santa Aurelia.
 Funcion: FUSIONADO (2026-09-03), a peticion del autor -- el antiguo Cap. 17 (El sobre rojo, POV Kal abriendo la carta) y el antiguo Cap. 18 (Cuatro letras, las dos conversaciones de Hector) se unen en un solo capitulo, porque por separado cada uno resultaba demasiado corto para sostenerse solo. "El sobre rojo" queda como titulo oficial del capitulo completo; "Cuatro letras" se conserva como nombre de la segunda mitad (la confesion de Hector), marcado con su propio encabezado interno. Ejecuta la segunda mitad de H10 completa: Kal abre la carta y enciende el telefono a la vez, la avalancha de llamadas, corre al casino, y de ahi al hospital -- las dos conversaciones de Hector (con Chiara y con Kal) y el cierre en el auto, con Chiara preguntandole por el campamento.
-Apertura por residuo: arranca del cierre del Capitulo 16 -- el sobre rojo bajo la puerta del loft, dejado ahi por Chiara sin revelar su contenido.
+Apertura por residuo: arranca del cierre del Capitulo 15 -- el sobre rojo bajo la puerta del loft, dejado ahi por Chiara sin revelar su contenido.
 -->
 
-# Capítulo 17 — El sobre rojo
+# Capítulo 16 — El sobre rojo
 
 El sobre rojo estaba en el suelo, junto a la puerta.
 

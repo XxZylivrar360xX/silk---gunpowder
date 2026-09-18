@@ -11,7 +11,7 @@ REGLA DURA: Tommaso no se vuelve aliado, no explica su motivo, no recibe agradec
 Pasada editorial 2026-09-10 (Claude Code, decision del autor): recuerdo de la primera reunion alineado con el Cap. 2 ("una silla en la mesa", no "participacion"); hecho legible como la contradiccion de Tommaso se suma a transferencias/perdidas/documentos de Garrett para dejar a Hoover sin version, y por que Rivers sabe que Tommaso mintio; corregidos referentes (objecion, defensa, la otra parte, Rivers, focalizacion de Chiara, "cuarto intermedio" fuera); poda de glosas y remates.
 -->
 
-# Capítulo 25 — Bajo juramento
+# Capítulo 24 — Bajo juramento
 
 Kal había estado en tribunales antes, pero no como empresario, y eso cambiaba hasta el olor. Las salas penales olían a sudor, a desinfectante y a gente esperando que alguien decidiera cuánto de su vida todavía le pertenecía. La sala civil olía a papel: carpetas nuevas, café de máquina, el perfume caro de abogados que cobraban el tiempo que tardaban en cruzar desde el elevador.
 

@@ -476,7 +476,7 @@ La noche en que todo cambia es **la única noche del libro en que no puede condu
 
 > **RESUELTO (2026-08-23):** las canciones (*Un anno d'amore* / *The World Is Yours*), que **fuman los dos**, y la ficha del penthouse — creada en [[05_Locations/El_Penthouse]].
 
-> **RESUELTO EN BORRADOR (2026-08-24):** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/07_Ambos]] ejecuta H2-b y coloca el paso del usted al tu al final, con la linea canon *Eres increible / Ambos somos increibles*.
+> **RESUELTO EN BORRADOR (2026-08-24):** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/06_Ambos]] ejecuta H2-b y coloca el paso del usted al tu al final, con la linea canon *Eres increible / Ambos somos increibles*.
 
 > **PENDIENTE:** dónde vuelve *Un anno d'amore*. Ahora que se sabe que es la casa de sus padres, tiene dos destinos posibles y opuestos: en la Fase V señala lo que están perdiendo; al final, lo que consiguieron. **Elegir uno.**
 
@@ -486,13 +486,13 @@ La noche en que todo cambia es **la única noche del libro en que no puede condu
 
 # H12 — El atentado / El corral
 
-> **CANON DEL AUTOR (2026-08-27; delimitación revisada 2026-08-29).** Cae después de [[#H9 — La carrera de máscaras]] y antes de [[#H14 — El loft del soltero]]. **ESCRITO** en el Capítulo 10 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Corral]]); el Capítulo 11 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/11_El_Loft_Del_Soltero]]) ejecuta el hito siguiente, ya separado. Es la **primera aparición en prosa de Il Consorzio**, aunque no se revela como tal en el momento del ataque — sólo se deduce después, ver [[#H13 — El pañuelo]].
+> **CANON DEL AUTOR (2026-08-27; delimitación revisada 2026-08-29).** Cae después de [[#H9 — La carrera de máscaras]] y antes de [[#H14 — El loft del soltero]]. **ESCRITO** en el Capítulo 9 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_El_Corral]]); el Capítulo 10 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]]) ejecuta el hito siguiente, ya separado. Es la **primera aparición en prosa de Il Consorzio**, aunque no se revela como tal en el momento del ataque — sólo se deduce después, ver [[#H13 — El pañuelo]].
 
 > **NUEVA DELIMITACIÓN CONCEPTUAL (2026-08-29).** H12 cubre **sólo**: el atentado, el hospital, la investigación inmediata, la salida, y que Chiara termine **refugiándose temporalmente** en [[05_Locations/Casa_Comunitaria_De_La_Almendra]]. La recompra y el diseño de la casa quedan como **hito propio siguiente** ([[#H14 — El loft del soltero]]).
 >
 > **REGLA DURA:** H12 **no significa que Chiara se mude con Kal.** Puede quedarse a recuperarse en la casa común; nada más. La mudanza oficial pertenece al [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños]].
 >
-> **DESFASE DE PROSA — CORREGIDO (2026-08-29, poda quirúrgica / opción A):** el Capítulo 11 (*El Loft Del Soltero*) incluía marcadores de **cohabitación de facto** (almohada "de ella" que Kal deja de mover, computadora que deja de transportar, rutina diaria de salir hacia el Monarch desde la casa, café listo cada mañana). Se podaron. El capítulo ahora deja sólo lo que este hito permite: libro, manta, cepillo, cremas, una taza favorita y noches sueltas. Los beats de la laptop y del café diario se reservan para estrenar en [[#H16 — El cumpleaños / la mudanza oficial]].
+> **DESFASE DE PROSA — CORREGIDO (2026-08-29, poda quirúrgica / opción A):** el Capítulo 10 (*El Loft Del Soltero*) incluía marcadores de **cohabitación de facto** (almohada "de ella" que Kal deja de mover, computadora que deja de transportar, rutina diaria de salir hacia el Monarch desde la casa, café listo cada mañana). Se podaron. El capítulo ahora deja sólo lo que este hito permite: libro, manta, cepillo, cremas, una taza favorita y noches sueltas. Los beats de la laptop y del café diario se reservan para estrenar en [[#H16 — El cumpleaños / la mudanza oficial]].
 
 ## El ataque
 
@@ -502,7 +502,7 @@ Chiara está montando a caballo en el hipódromo del Monarch, propiedad del casi
 
 > **CANON DEL AUTOR (2026-08-28):** Kal recibe una llamada desde el celular de Chiara — pero contesta un hombre desconocido, que hace preguntas sueltas tratando de deducir sus movimientos ("¿ella sale mucho los domingos? Me da la impresión de que le gusta estar sola") y cuelga sin identificarse. **Restricción:** esta llamada no revela nada del atacante — ni motivo, ni nombre, ni afiliación. Es puro desasosiego, no pista. **La frase "me da la impresión de que le gusta estar sola" queda marcada como eco pendiente — candidata a que Dario la repita, sin saberlo, en una escena futura con ella, sembrando sospecha real sin que el lector reciba una pista falsa.** Kal marca directo a Chiara: buzón de voz inmediato.
 
-Entra armado al Monarch (domingo, cerrado, llave de la entrada de servicio) y lo recorre entero — vacío. Sube al penthouse — también vacío — y ahí ve las botas de montar de Chiara junto a la puerta, lo que le recuerda que monta los domingos. Baja al hipódromo (misma propiedad, no hace falta auto) y encuentra a **Vento** suelto a mitad del estacionamiento de las caballerizas. La sigue llamando por su nombre sin respuesta — está inconsciente, no puede contestar. **Aquí es donde se ve el soldado:** actúa bajo presión con calma entrenada — mientras por dentro se quiebra, sosteniendo junto a él a la mujer que le importa sin saber todavía si llegó a tiempo. **No espera ambulancia: la sube él mismo al Audi A7 (segundo auto, señal muda de que el negocio prospera) y conduce al hospital — conduce él, siempre.** Ejecutado en el Capítulo 10.
+Entra armado al Monarch (domingo, cerrado, llave de la entrada de servicio) y lo recorre entero — vacío. Sube al penthouse — también vacío — y ahí ve las botas de montar de Chiara junto a la puerta, lo que le recuerda que monta los domingos. Baja al hipódromo (misma propiedad, no hace falta auto) y encuentra a **Vento** suelto a mitad del estacionamiento de las caballerizas. La sigue llamando por su nombre sin respuesta — está inconsciente, no puede contestar. **Aquí es donde se ve el soldado:** actúa bajo presión con calma entrenada — mientras por dentro se quiebra, sosteniendo junto a él a la mujer que le importa sin saber todavía si llegó a tiempo. **No espera ambulancia: la sube él mismo al Audi A7 (segundo auto, señal muda de que el negocio prospera) y conduce al hospital — conduce él, siempre.** Ejecutado en el Capítulo 9.
 
 > **Dato de la escena de hospital (revisado 2026-08-28):** Kal recoge el bolso en las caballerizas antes que nadie y se guarda la cartera y el reloj — *"un asalto que perdona un reloj así no se lo cree nadie"*. Lo único que de verdad falta es el teléfono, y ése no lo tiene él: encaja con que fue el atacante quien llamó a Kal desde ahí. Le devuelve reloj y efectivo a Chiara en el parador del norte, y ese gesto es lo que le hace ver a ella cuánta versión se armó a su alrededor mientras dormía.
 
@@ -512,19 +512,19 @@ Entra armado al Monarch (domingo, cerrado, llave de la entrada de servicio) y lo
 
 ## Lo que hace Kal mientras ella está inconsciente — CANON DEL AUTOR (2026-08-27, ampliado 2026-08-28)
 
-En el hospital, con el cuarto en silencio y Chiara todavía sin despertar, Kal le toma la mano y le dice, en voz baja: **"Te vas a mejorar, ¿vale? Eres la mujer más fuerte que tengo la dicha de haber conocido, y esto no te va a ganar la partida."** Después de una pausa, sólo: **"Chiara."** Ella no lo oye — es un momento sin testigos, y por eso es el único sitio del libro, hasta ahora, donde Kal dice algo así en voz alta sin que nadie se lo cobre ni se lo confirme. Ejecutado en el Capítulo 10.
+En el hospital, con el cuarto en silencio y Chiara todavía sin despertar, Kal le toma la mano y le dice, en voz baja: **"Te vas a mejorar, ¿vale? Eres la mujer más fuerte que tengo la dicha de haber conocido, y esto no te va a ganar la partida."** Después de una pausa, sólo: **"Chiara."** Ella no lo oye — es un momento sin testigos, y por eso es el único sitio del libro, hasta ahora, donde Kal dice algo así en voz alta sin que nadie se lo cobre ni se lo confirme. Ejecutado en el Capítulo 9.
 
 Le pide a Héctor que lo cubra y sale a investigar un nombre — un guardia de las caballerizas que se fue temprano sin avisar. Lo secuestra, lo interroga, no saca nada útil, lo suelta. **Es un fracaso, y es feo — el libro no lo justifica.**
 
 Vuelve al cuarto y se encuentra con Dario Varek, de pie junto a la cama sedada. **Se apuntan con sus armas, culpándose mutuamente de lo que le pasó a Chiara.** Llegan a una tregua: cada uno investiga por su lado y comparten lo que encuentren. Kal omite la llamada por reflejo — es información, y la información es una carta — y le da a Dario la primera versión oficial: estaba en el taller, volvió y la encontró en las caballerizas. Cuando Chiara despierta, Kal la pone al tanto antes de que vuelva a dormirse.
 
-> **SIEMBRA DE TENSIÓN Dario→Kal (2026-09-10, Claude Code — DISEÑO, pendiente de validación del autor).** Al bajar las armas, antes de salir, **Dario le dice a Kal que lo que le pasó a Chiara lo arregla él y que Kal "no tiene vela ahí. Ni en eso ni en ella"** (frase exacta = inferencia del agente). Kal lo minimiza (*"me apuntó con un arma y los dos seguimos aquí; lo demás son frases"*); **Chiara, cuando Kal se lo cuenta, no** (*"a Dario no se le pasan las cosas; las anota… dice lo que ya decidió"*). **Función:** (a) raizar el borrador *"no es Varek"* del [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/28_Riesgo_Pendiente|Cap. 28]] y la asimetría de calma entre los dos (Kal despreocupado con Varek — el peso real es Halbrook; Chiara no, porque Varek es su jefe y es lo único visible); (b) escalar hacia las tres líneas canon del taller ([[#H5 — San Aurelio]]): de "marcar una pared" a instruir a Chiara directamente y hacerla el instrumento. Sembrado en prosa en el [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/26_Libros_Abiertos|Cap. 26]] (jacuzzi) y pagado en Caps. 28-29. Si el autor cambia o retira la frase, revisar esos tres capítulos.
+> **SIEMBRA DE TENSIÓN Dario→Kal (2026-09-10, Claude Code — DISEÑO, pendiente de validación del autor).** Al bajar las armas, antes de salir, **Dario le dice a Kal que lo que le pasó a Chiara lo arregla él y que Kal "no tiene vela ahí. Ni en eso ni en ella"** (frase exacta = inferencia del agente). Kal lo minimiza (*"me apuntó con un arma y los dos seguimos aquí; lo demás son frases"*); **Chiara, cuando Kal se lo cuenta, no** (*"a Dario no se le pasan las cosas; las anota… dice lo que ya decidió"*). **Función:** (a) raizar el borrador *"no es Varek"* del [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/27_Riesgo_Pendiente|Cap. 28]] y la asimetría de calma entre los dos (Kal despreocupado con Varek — el peso real es Halbrook; Chiara no, porque Varek es su jefe y es lo único visible); (b) escalar hacia las tres líneas canon del taller ([[#H5 — San Aurelio]]): de "marcar una pared" a instruir a Chiara directamente y hacerla el instrumento. Sembrado en prosa en el [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 26]] (jacuzzi) y pagado en Caps. 28-29. Si el autor cambia o retira la frase, revisar esos tres capítulos.
 
-Ejecutado en el Capítulo 10. **Esto absorbe y ejecuta los beats 1-6 de H5 — ver nota de fusión al final de H5.**
+Ejecutado en el Capítulo 9. **Esto absorbe y ejecuta los beats 1-6 de H5 — ver nota de fusión al final de H5.**
 
 ## El alta, la coartada conjunta y la salida al norte — CANON DEL AUTOR (2026-08-28)
 
-**Escrito en el Capítulo 10.** Absorbe y ejecuta los **beats 7-8 de H5**.
+**Escrito en el Capítulo 9.** Absorbe y ejecuta los **beats 7-8 de H5**.
 
 - **Kal la ayuda a alistarse** — le sostiene el abrigo, le acomoda el pelo sobre el vendaje. Intimidad callada: *"el silencio era lo más parecido a un idioma común que les quedaba"*.
 - **Dario llega antes de que firmen el papeleo.** Chiara, apenas entra, **percibe que la tregua ya está firmada** (los dos hombres se hablan con una calma que no tenían tres días antes) y entiende que le toca subirse a una versión en marcha sin conocer su velocidad.
@@ -550,13 +550,13 @@ Llegan de madrugada. **Kal le da el único cuarto de la planta que "no gritaba d
 
 Con ella ahí, día tras día, la desconfianza de [[02_Characters/Nadir_Amrani]] — ya establecida como preocupación de amigo leal, no celos románticos, ver su ficha — deja de ser silenciosa. Empiezan los roces. Nadir no necesita decir nada abiertamente hostil: basta con la tensión de dos personas compartiendo un espacio que uno de los dos no quiere compartir.
 
-**Los muchachos la dejan quedarse — sin votación.** Alguno pregunta "por cuánto tiempo" con ella lejos; Kal: **"Lo necesario. Hasta que ya no lo sea."** Y basta, porque Kal se ganó ese derecho: nunca les dijo que no a un favor y nunca cobró ninguno — *"a la familia no se le cobran los favores"*. Pueden pelearle a gritos; **dudar de él, no.** Nadir cumple como los demás y, como los demás, calla — pero **es el único que, al decir que sí, no la mira a ella** (engancha con la apertura del Capítulo 11).
+**Los muchachos la dejan quedarse — sin votación.** Alguno pregunta "por cuánto tiempo" con ella lejos; Kal: **"Lo necesario. Hasta que ya no lo sea."** Y basta, porque Kal se ganó ese derecho: nunca les dijo que no a un favor y nunca cobró ninguno — *"a la familia no se le cobran los favores"*. Pueden pelearle a gritos; **dudar de él, no.** Nadir cumple como los demás y, como los demás, calla — pero **es el único que, al decir que sí, no la mira a ella** (engancha con la apertura del Capítulo 10).
 
 **Es esa fricción — no la nostalgia ni el cálculo — la que empuja a Kal al hito siguiente.** Ver [[#H14 — El loft del soltero]] para la recompra, el diseño y la vida doméstica que crece.
 
 ## Pendientes
 
-> **PENDIENTE:** gravedad médica exacta — cuánto tiempo pasa hospitalizada (el Capítulo 10 dice "dos o tres días de observación", queda como base salvo que se decida ajustar).
+> **PENDIENTE:** gravedad médica exacta — cuánto tiempo pasa hospitalizada (el Capítulo 9 dice "dos o tres días de observación", queda como base salvo que se decida ajustar).
 
 > **PENDIENTE:** cuánto tiempo dura la estancia en la casa común antes de que Kal decida recomprar (arranca [[#H14 — El loft del soltero]]).
 
@@ -568,7 +568,7 @@ Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Kal_Mercer]] 
 
 # H14 — El loft del soltero
 
-> **CANON DEL AUTOR (2026-08-29).** Cae después de [[#H12 — El atentado / El corral]] y antes de [[#H10 — El infarto de Héctor]]. Se separa de H12, del que antes era la segunda mitad. **Ejecutado en prosa en el Capítulo 11** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/11_El_Loft_Del_Soltero]]); la prosa se podó el 2026-08-29 (opción A) para retirar la convivencia prematura — ver la nota de H12. **ID: H14** (asignado 2026-08-29).
+> **CANON DEL AUTOR (2026-08-29).** Cae después de [[#H12 — El atentado / El corral]] y antes de [[#H10 — El infarto de Héctor]]. Se separa de H12, del que antes era la segunda mitad. **Ejecutado en prosa en el Capítulo 10** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]]); la prosa se podó el 2026-08-29 (opción A) para retirar la convivencia prematura — ver la nota de H12. **ID: H14** (asignado 2026-08-29).
 
 ## La recompra
 
@@ -609,7 +609,7 @@ Después de [[#H16 — El cumpleaños / la mudanza oficial]], el uso la conviert
 - tener una taza favorita;
 - sentirse cada vez más cómoda.
 
-**Lo que NO debe documentarse todavía** (podado del Capítulo 11 el 2026-08-29): closet propio, computadora permanentemente instalada, rutina diaria de salir al trabajo desde ahí, cajones propios, mudanza implícita. Esos beats — en concreto **la laptop que por fin se queda** y **el café listo cada mañana** — se reservan para estrenar en el [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños]].
+**Lo que NO debe documentarse todavía** (podado del Capítulo 10 el 2026-08-29): closet propio, computadora permanentemente instalada, rutina diaria de salir al trabajo desde ahí, cajones propios, mudanza implícita. Esos beats — en concreto **la laptop que por fin se queda** y **el café listo cada mañana** — se reservan para estrenar en el [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños]].
 
 La **mudanza oficial** pertenece al [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños de Chiara]]. Ahí sí llegan cajas, ropa y objetos permanentes, y ocurre **porque lo eligen**, no por atentado ni por necesidad.
 
@@ -619,7 +619,7 @@ La **mudanza oficial** pertenece al [[#H16 — El cumpleaños / la mudanza ofici
 
 > **PENDIENTE:** ¿sabe Chiara de quién era la casa cuando la diseña? Las dos respuestas son buenas y muy distintas.
 
-> **RESUELTO (2026-08-29, opción A):** la prosa del Capítulo 11 se podó — se quitaron la almohada "de ella", la laptop instalada y la rutina del café diario; quedan libro, manta, cepillo, cremas, taza favorita y noches sueltas.
+> **RESUELTO (2026-08-29, opción A):** la prosa del Capítulo 10 se podó — se quitaron la almohada "de ella", la laptop instalada y la rutina del café diario; quedan libro, manta, cepillo, cremas, taza favorita y noches sueltas.
 
 ---
 
@@ -983,7 +983,7 @@ Y la otra mitad:
 
 > **PENDIENTE:** ¿cuándo y cómo termina lo de Blake? Y si él vuelve más adelante — un policía despechado que además conoce a Chiara es una pieza cargada.
 
-> **RESUELTO EN BORRADOR (2026-08-27):** Dario le confirma que los preparativos del torneo de póker van bien (Tommaso se lo dijo "con menos entusiasmo del que le hubiera gustado mostrar") y cierra con su línea de asignar valor: "San Aurelio premia a la gente que entiende su lugar." Breve, sin amenaza directa. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/08_La_Noche_Del_Ladrillo]]. Inferencia del agente, discutible.
+> **RESUELTO EN BORRADOR (2026-08-27):** Dario le confirma que los preparativos del torneo de póker van bien (Tommaso se lo dijo "con menos entusiasmo del que le hubiera gustado mostrar") y cierra con su línea de asignar valor: "San Aurelio premia a la gente que entiende su lugar." Breve, sin amenaza directa. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/07_La_Noche_Del_Ladrillo]]. Inferencia del agente, discutible.
 
 > **PENDIENTE:** ¿qué trabajo tienen de madrugada los cuatro? Explica por qué el Peugeot entró a un callejón antes de la fiesta.
 
@@ -1100,11 +1100,11 @@ Y es también **la primera vez que se quedan dormidos juntos**, sin que pase nad
 
 ## Pendientes
 
-> **RESUELTO (2026-08-29, autor):** **sí, esta es "el día nublado"** que el autor mencionó al hablar del marido. La revelación de Chiara sobre el exmarido ocurre en esta escena (ejecutada en el Capítulo 17). No hay una segunda escena.
+> **RESUELTO (2026-08-29, autor):** **sí, esta es "el día nublado"** que el autor mencionó al hablar del marido. La revelación de Chiara sobre el exmarido ocurre en esta escena (ejecutada en el Capítulo 16). No hay una segunda escena.
 
-> **AJUSTADO (2026-09-07, autor):** la pregunta cambió de *¿alguna vez has quitado una vida?* a **¿alguna vez has visto morir a alguien frente a ti?** — para no adelantar la revelación de la cicatriz (reservada para la noche del jacuzzi, "de ahí saqué a Nadir") y para contextualizar, sin nombrarlo, tanto la muerte de [[02_Characters/Jim_Keegan]] (respuesta de Kal: "en el ejército, un amigo, no es una historia") como la del exmarido de Chiara (respuesta recíproca tres hoyos después). No se adelanta aquí el registro de *yo soy la muerte caminando* (eso es H2-b). Redacción fijada en el Capítulo 19.
+> **AJUSTADO (2026-09-07, autor):** la pregunta cambió de *¿alguna vez has quitado una vida?* a **¿alguna vez has visto morir a alguien frente a ti?** — para no adelantar la revelación de la cicatriz (reservada para la noche del jacuzzi, "de ahí saqué a Nadir") y para contextualizar, sin nombrarlo, tanto la muerte de [[02_Characters/Jim_Keegan]] (respuesta de Kal: "en el ejército, un amigo, no es una historia") como la del exmarido de Chiara (respuesta recíproca tres hoyos después). No se adelanta aquí el registro de *yo soy la muerte caminando* (eso es H2-b). Redacción fijada en el Capítulo 18.
 
-> **RESUELTO (2026-08-29, autor):** Blake Stanton **ya está fuera del cuadro** para este punto (después de H9, H12, el loft y H10). No se lo menciona en el Capítulo 17. Si hiciera falta, una línea de cierre puede sembrarse en un capítulo intermedio, no aquí.
+> **RESUELTO (2026-08-29, autor):** Blake Stanton **ya está fuera del cuadro** para este punto (después de H9, H12, el loft y H10). No se lo menciona en el Capítulo 16. Si hiciera falta, una línea de cierre puede sembrarse en un capítulo intermedio, no aquí.
 
 > **RESUELTO (2026-08-29, autor):** el campo de golf **no necesita ficha propia** por ahora — es textura, no escenario recurrente. Que Kal tenga o no un porcentaje queda **deliberadamente vago** (el chiste evasivo del "nueve por ciento del estacionamiento, no del campo").
 
@@ -1114,7 +1114,7 @@ Y es también **la primera vez que se quedan dormidos juntos**, sin que pase nad
 
 > **CANON DEL AUTOR (2026-08-23; reposicionado 2026-08-29).** Uno de los primeros momentos en que Kal saca a Chiara de su zona de confort. **Nueva posición canon:** ocurre **entre [[#H3 — La noche del ladrillo]] y [[#H12 — El atentado / El corral]]** — ya no después de H4. Todavía son formalmente amigos. Función: Kal la saca de su zona de confort; sube la intimidad y la confianza. Actualizar toda tabla cronológica donde aparezca en otra posición.
 >
-> **ESCRITO (2026-08-29)** como **Capítulo 9** — [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_La_Carrera_De_Mascaras]] (encargo [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_H9_CARRERA_DE_MASCARAS_Y_COSTURA_CORRAL]]). En la misma pasada se recosió la apertura de [[#H12 — El atentado / El corral]] (Cap. 10) al residuo de H9 y se renumeró el manuscrito (9→10 … 18→19). Las dos líneas canon van intactas.
+> **ESCRITO (2026-08-29)** como **Capítulo 8** — [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/08_La_Carrera_De_Mascaras]] (encargo [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_H9_CARRERA_DE_MASCARAS_Y_COSTURA_CORRAL]]). En la misma pasada se recosió la apertura de [[#H12 — El atentado / El corral]] (Cap. 10) al residuo de H9 y se renumeró el manuscrito (9→10 … 18→19). Las dos líneas canon van intactas.
 >
 > **TRIADO — pendiente de edición editorial global (2026-08-29).** Microedición de prosa aplicada (encargo [[98_Agent_Handoff/ChatGPT/ENCARGO_CLAUDE_MICROEDICION_H9_Y_CORRAL]]): podados residuos de encargo ("No narró lo que hizo con el coche", checklist "no hubo beso / no hubo un sube"), la sobreexplicación de la risa de Chiara y varias frases de tesis (inversión Monarch, apellido, "Chiara entendió una cosa"); la apertura de *El corral* deja de recapitular el evento de H9. Función y beats idénticos. No CERRADO.
 
@@ -1204,7 +1204,7 @@ Esa sonrisa es el centro del hito.
 
 *Arco de la tensión, parte 1.*
 
-> **RENOMBRADO / REFORMULADO (2026-08-29, CANON DEL AUTOR).** El ID sigue siendo **H5**, pero el hito **deja de llamarse "El hipódromo"**. El ataque del hipódromo, el hospital, el encañonamiento con Dario, la tregua, la coartada y la salida al norte — todo lo que antes eran los beats 1-10 de este hito — **ya vive en [[#H12 — El atentado / El corral]]** (escrito en el Capítulo 10). Y la noche del jacuzzi (antes beat 11) y la advertencia de Varek (antes beat 13) son ahora **[[#H15 — La noche del jacuzzi]]**, inmediatamente antes de este hito.
+> **RENOMBRADO / REFORMULADO (2026-08-29, CANON DEL AUTOR).** El ID sigue siendo **H5**, pero el hito **deja de llamarse "El hipódromo"**. El ataque del hipódromo, el hospital, el encañonamiento con Dario, la tregua, la coartada y la salida al norte — todo lo que antes eran los beats 1-10 de este hito — **ya vive en [[#H12 — El atentado / El corral]]** (escrito en el Capítulo 9). Y la noche del jacuzzi (antes beat 11) y la advertencia de Varek (antes beat 13) son ahora **[[#H15 — La noche del jacuzzi]]**, inmediatamente antes de este hito.
 >
 > **El núcleo del nuevo H5 es:** la salida abrupta de Kal de San Aurelio y la **confrontación Dario–Chiara** que esa ausencia detona. Ocurre después de [[#H15 — La noche del jacuzzi]].
 
@@ -1213,9 +1213,9 @@ Esa sonrisa es el centro del hito.
 > **NOTA DE ARCHIVO.** Lo que sigue en las secciones numeradas 1–10 y 11 es el **material antiguo de H5**, que se conserva como registro pero **ya está ejecutado dentro de [[#H12 — El atentado / El corral]] y [[#H15 — La noche del jacuzzi]]**. El material **vivo y sin escribir** de H5 empieza en la sección **"12. El mensaje, y la salida de la ciudad"** y sigue en **"La confrontación Dario–Chiara"**.
 
 > **ESCRITO (2026-09-09 / 2026-09-10, Claude Code — BORRADOR, falta revisión del autor):**
-> - [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/27_Me_Encuentro_Bien|Capítulo 27 — Me encuentro bien]] (abre la Parte II), POV Chiara: la advertencia de Varek de madrugada (**rendida como recuerdo comprimido, cierre de H15 — decisión del autor 2026-09-09: se queda como recuerdo, no se escribe como escena**), el mensaje *"me encuentro bien"* como detonante, la conversación con Walt en la destilería, la investigación a Varek y **la confrontación Dario–Chiara completa con las tres líneas canon** + *"vas a aprender tu lugar"*, en el [[05_Locations/El_Taller_del_Norte|taller del norte]].
-> - [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/28_Riesgo_Pendiente|Capítulo 28 — Riesgo pendiente]], POV Kal (paralelo al 27): las secciones 12 y ss. desde su lado — la convocatoria de madrugada, los dos mensajes canon redactados desde su mano, el trayecto, la reunión con Halbrook fuera de San Aurelio (la correa reimpuesta: trabajar para él o Nadir a ICE; "es un papel"), la paliza como "recordatorio" a manos de contratistas (no de Halbrook), y la decisión de no darle a Chiara ningún nombre. **Halbrook escrito como hombre funcional / logística**, trata a Kal como "riesgo pendiente". No se resuelve teatro/años, la última operación (sólo su versión oblicua), qué gana, ni la relación con Varek.
-> - [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/29_La_Correa|Capítulo 29 — La correa]], POV Chiara: **sección 14 completa** ("La peor noche" — sola en el loft, la sudadera de Kal como disfraz operativo, reza sin ritual) y el arranque de H6 (ver nota en H6).
+> - [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/26_Me_Encuentro_Bien|Capítulo 26 — Me encuentro bien]] (abre la Parte II), POV Chiara: la advertencia de Varek de madrugada (**rendida como recuerdo comprimido, cierre de H15 — decisión del autor 2026-09-09: se queda como recuerdo, no se escribe como escena**), el mensaje *"me encuentro bien"* como detonante, la conversación con Walt en la destilería, la investigación a Varek y **la confrontación Dario–Chiara completa con las tres líneas canon** + *"vas a aprender tu lugar"*, en el [[05_Locations/El_Taller_del_Norte|taller del norte]].
+> - [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/27_Riesgo_Pendiente|Capítulo 27 — Riesgo pendiente]], POV Kal (paralelo al 27): las secciones 12 y ss. desde su lado — la convocatoria de madrugada, los dos mensajes canon redactados desde su mano, el trayecto, la reunión con Halbrook fuera de San Aurelio (la correa reimpuesta: trabajar para él o Nadir a ICE; "es un papel"), la paliza como "recordatorio" a manos de contratistas (no de Halbrook), y la decisión de no darle a Chiara ningún nombre. **Halbrook escrito como hombre funcional / logística**, trata a Kal como "riesgo pendiente". No se resuelve teatro/años, la última operación (sólo su versión oblicua), qué gana, ni la relación con Varek.
+> - [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/28_La_Correa|Capítulo 28 — La correa]], POV Chiara: **sección 14 completa** ("La peor noche" — sola en el loft, la sudadera de Kal como disfraz operativo, reza sin ritual) y el arranque de H6 (ver nota en H6).
 > **H5 queda cubierto en prosa** salvo pases de revisión del autor.
 
 ---
@@ -1298,7 +1298,7 @@ Y ahí Kal le explica el plan: **volver al casino para dejar en la cámara que a
 
 > **DISEÑO:** la operación conjunta que se gana el título. No es un favor de él ni un contacto de ella: **es los dos construyendo una coartada, con cámaras, rutas y una salida de servicio.** El vault decía que debía ser *pequeña, sucia y espectacularmente bien ejecutada* ([[06_Relationships/Kal_y_Chiara]], fase 2). Es ésta — sólo que lo que están protegiendo no es un negocio: es ella.
 >
-> **RESUELTO (2026-08-27):** hay un ensayo menor antes, en el beat 16 (Capítulo 19) — un trabajo sucio y chico con el mismo método, sin declararse hito. Cuando el lector llega aquí, ya conoce el método; lo nuevo es lo que está en juego.
+> **RESUELTO (2026-08-27):** hay un ensayo menor antes, en el beat 16 (Capítulo 18) — un trabajo sucio y chico con el mismo método, sin declararse hito. Cuando el lector llega aquí, ya conoce el método; lo nuevo es lo que está en juego.
 
 ## 9. El barrio
 
@@ -1448,7 +1448,7 @@ Y **se pone la sudadera de Kal para aparentar que él está en casa.**
 
 > **PENDIENTE (heredado):** ¿quién atacó a Chiara en el hipódromo (ahora en [[#H12 — El atentado / El corral]])? Queda en incógnita a propósito.
 
-> **PENDIENTE:** el sospechoso que Kal secuestró en el Capítulo 10. ¿Vuelve? Un hombre al que secuestraron por nada es una deuda pendiente en un libro donde las deudas vuelven.
+> **PENDIENTE:** el sospechoso que Kal secuestró en el Capítulo 9. ¿Vuelve? Un hombre al que secuestraron por nada es una deuda pendiente en un libro donde las deudas vuelven.
 
 ---
 
@@ -1456,7 +1456,7 @@ Y **se pone la sudadera de Kal para aparentar que él está en casa.**
 
 > **CANON DEL AUTOR (2026-08-29).** Se separa definitivamente de H5. Hito independiente. Ocurre **después de [[#H11 — El mirador]]** y **inmediatamente antes de [[#H5 — San Aurelio]]** — es su detonante. **ID: H15** (asignado 2026-08-29).
 
-> **ESCRITO (2026-09-09, catchup manual desde borrador de sesión de escritorio; falta revisión del autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/26_Libros_Abiertos|Capítulo 26 — Libros abiertos]] cubre la compra del Lancia y la noche de libros abiertos (familia de Chiara e Il Consorzio; ejército, Nadir, cicatriz y "lo de los niños" de Kal, sin la reserva del bebé). **La advertencia de Varek de madrugada queda fuera de este capítulo por decisión del autor (2026-09-09): se rinde como recuerdo comprimido en el [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/27_Me_Encuentro_Bien|Capítulo 27]], NO como escena propia.**
+> **ESCRITO (2026-09-09, catchup manual desde borrador de sesión de escritorio; falta revisión del autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/25_Libros_Abiertos|Capítulo 25 — Libros abiertos]] cubre la compra del Lancia y la noche de libros abiertos (familia de Chiara e Il Consorzio; ejército, Nadir, cicatriz y "lo de los niños" de Kal, sin la reserva del bebé). **La advertencia de Varek de madrugada queda fuera de este capítulo por decisión del autor (2026-09-09): se rinde como recuerdo comprimido en el [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/26_Me_Encuentro_Bien|Capítulo 26]], NO como escena propia.**
 
 > **REVISIÓN DE PROSA (2026-09-09, Claude Code, sobre el reporte editorial de Codex + decisiones del autor):** el Cap. 26 se reescribió aplicando las 5 decisiones del autor. Sobre esta noche: (a) Chiara cree que **perdió** a su padre — versión pública = el capo de la famiglia Ardizzone falleció, caída desde el acantilado de la villa de Palermo, federales y comisión "palabra por palabra", nunca hubo cuerpo; no se fija edad. (b) La cicatriz queda **confirmada por el autor** (ver nota abajo). (c) La confesión se repartió en intercambios cortos, sin dossier; se podaron las glosas del narrador que recitaban lo reservado. Sigue BORRADOR pendiente de revisión final del autor.
 
@@ -1496,7 +1496,7 @@ Y el resto: **fue Nadir quien lo ayudó a salir.** En agradecimiento, Kal lo ayu
 > - **Kal le cuenta lo de los niños, pero casi seguro NO que a él lo compraron.** Ver [[02_Characters/Warren_Halbrook]]. Que el lector tenga esa información y ella no es el hueco más grande que queda abierto en la pareja.
 > - **Ella le cuenta del Consorcio, no de Alessio.** Los dos entregan el sistema que los formó y se guardan el hecho concreto. Simetría exacta, y ninguno lo nota.
 
-> **CONFIRMADO POR EL AUTOR (2026-09-09):** la cicatriz viene de la última noche del convoy — un vidrio del parabrisas le abrió la cara cuando sacaba a un niño por la ventanilla. No es la pelea de cantina que dice el rumor del barrio. **Ya no es diseño provisional del agente.** Ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/26_Libros_Abiertos|Capítulo 26]].
+> **CONFIRMADO POR EL AUTOR (2026-09-09):** la cicatriz viene de la última noche del convoy — un vidrio del parabrisas le abrió la cara cuando sacaba a un niño por la ventanilla. No es la pelea de cantina que dice el rumor del barrio. **Ya no es diseño provisional del agente.** Ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/25_Libros_Abiertos|Capítulo 25]].
 
 > **RESUELTO DE DISEÑO (2026-08-23):** la contacto rusa es [[02_Characters/Anya_Voronina]]. La deuda vuelve en [[06_Relationships/Momentos_de_Fractura]], F4 — Año Nuevo en Washington.
 
@@ -1530,9 +1530,9 @@ Ver también: [[06_Relationships/Kal_y_Chiara]] · [[02_Characters/Dario_Varek]]
 
 > **CANON DEL AUTOR (2026-08-23).** Continúa directamente [[#H5 — San Aurelio]]. **Parte 3 por recibir.**
 
-> **ESCRITO PARCIALMENTE (2026-09-10, Claude Code — BORRADOR, falta revisión del autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/29_La_Correa|Capítulo 29 — La correa]] redacta las **secciones 1-4** desde el POV de Chiara: el regreso golpeado ("entra hablando de otra cosa"), la conversación con las dos líneas canon, Chiara ofreciéndole la salida sin cadena (y guardándose la tercera línea del taller), y Kal saliendo *"como un diablo"* a llamar a Varek (*"¿Nos podemos reunir?"*). Cierra con Chiara yendo tras él.
+> **ESCRITO PARCIALMENTE (2026-09-10, Claude Code — BORRADOR, falta revisión del autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/28_La_Correa|Capítulo 28 — La correa]] redacta las **secciones 1-4** desde el POV de Chiara: el regreso golpeado ("entra hablando de otra cosa"), la conversación con las dos líneas canon, Chiara ofreciéndole la salida sin cadena (y guardándose la tercera línea del taller), y Kal saliendo *"como un diablo"* a llamar a Varek (*"¿Nos podemos reunir?"*). Cierra con Chiara yendo tras él.
 
-> **ESCRITO COMPLETO (2026-09-16, Claude Code — BORRADOR, falta revisión del autor):** las secciones 5-7 quedan cubiertas en prosa. [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/30_El_Patio_Ajeno|Capítulo 30 — El patio ajeno]] (POV Kal) ejecuta las secciones 5-6: el patio de la mansión, la oferta a Varek (seguridad para Chiara a cambio de que Kal entre a la organización), la moneda de Camp Alder sembrada como promesa futura sin ejecutarse, el intento parcial de sacar a Nadir del alcance inmediato de Halbrook (Varek ofrece cobertura, no resolución), Chiara convocada y la primera actuación conjunta sin ensayo, y *"— Estás loco."* preservada. [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/31_Las_Cascadas|Capítulo 31 — Las cascadas]] (POV Chiara) ejecuta la sección 7: Kal le cuenta todo lo que sabe (Halbrook, el pasado militar, el ultimátum sobre Nadir, los golpes como recordatorio) — primera vez que rompe voluntariamente su propio patrón de no repartir pesos (ver Cap. 28); Chiara entiende sin que eso resuelva su incomodidad y se guarda, sin resolverlo, la tercera línea de Varek; el pacto de desmontar a Varek desde dentro queda explícito y la frase *"…con peores personas he tratado"* preservada sin parafrasear. **H6 queda cubierto en prosa** salvo pases de revisión del autor.
+> **ESCRITO COMPLETO (2026-09-16, Claude Code — BORRADOR, falta revisión del autor):** las secciones 5-7 quedan cubiertas en prosa. [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/29_El_Patio_Ajeno|Capítulo 29 — El patio ajeno]] (POV Kal) ejecuta las secciones 5-6: el patio de la mansión, la oferta a Varek (seguridad para Chiara a cambio de que Kal entre a la organización), la moneda de Camp Alder sembrada como promesa futura sin ejecutarse, el intento parcial de sacar a Nadir del alcance inmediato de Halbrook (Varek ofrece cobertura, no resolución), Chiara convocada y la primera actuación conjunta sin ensayo, y *"— Estás loco."* preservada. [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/30_Las_Cascadas|Capítulo 30 — Las cascadas]] (POV Chiara) ejecuta la sección 7: Kal le cuenta todo lo que sabe (Halbrook, el pasado militar, el ultimátum sobre Nadir, los golpes como recordatorio) — primera vez que rompe voluntariamente su propio patrón de no repartir pesos (ver Cap. 28); Chiara entiende sin que eso resuelva su incomodidad y se guarda, sin resolverlo, la tercera línea de Varek; el pacto de desmontar a Varek desde dentro queda explícito y la frase *"…con peores personas he tratado"* preservada sin parafrasear. **H6 queda cubierto en prosa** salvo pases de revisión del autor.
 
 ---
 
@@ -1684,7 +1684,7 @@ Y ahí **le cuenta todo lo sucedido.**
 
 > **CANON DEL AUTOR (2026-08-23).** Cierre del arco. **Y cierra en calma.**
 
-> **ESCRITO (2026-09-16, Claude Code — BORRADOR, falta revisión del autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/32_Vamos_A_Casa|Capítulo 32 — Vamos a casa]] (POV Chiara) ejecuta H7 completo y cierra la Parte II: la llamada con *"Ponte algo cómodo, porque quizá te vayas a mojar"*, el viaje al río norte con Nadir, Danny, Héctor y Walt, la competencia de pesca sin ganador resuelto, el juego en el agua, el atardecer en la formación de roca sin confesiones, y la frase final *"— Vamos a casa."* como última línea de la Parte II, sin glosa posterior. **H7 queda cubierto en prosa** salvo pases de revisión del autor.
+> **ESCRITO (2026-09-16, Claude Code — BORRADOR, falta revisión del autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/31_Vamos_A_Casa|Capítulo 31 — Vamos a casa]] (POV Chiara) ejecuta H7 completo y cierra la Parte II: la llamada con *"Ponte algo cómodo, porque quizá te vayas a mojar"*, el viaje al río norte con Nadir, Danny, Héctor y Walt, la competencia de pesca sin ganador resuelto, el juego en el agua, el atardecer en la formación de roca sin confesiones, y la frase final *"— Vamos a casa."* como última línea de la Parte II, sin glosa posterior. **H7 queda cubierto en prosa** salvo pases de revisión del autor.
 
 ---
 
@@ -1853,7 +1853,7 @@ El doble fondo plantado en H14 y la caja de acero resistente al fuego protegen s
 
 **Esto no abarata el incendio.** Sobrevive lo que podía guardarse, tasarse, documentarse o protegerse. Se destruye lo que hacía hogar al loft: la estructura habitable, la mesa, la manta, los muebles, los objetos cotidianos y los recuerdos que quedaron expuestos. El contraste es parte del costo.
 
-> **PRESAGIO SIN NOMBRAR (2026-08-31):** esa misma mañana — horas antes del incendio, no durante — el imán de refrigerador con forma de manzana roja que Marisol le hizo comprar a Kal en el Capítulo 14 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono]]) se despega solo de la puerta y cae. Se raja. Chiara lo levanta y se lo da a Kal; él dice que lo puede pegar. Lo pega. **La marca queda** — completo otra vez, pero partido. Nadie lo dice en voz alta, y no hace falta: para cuando llega la noche y ven el incendio, el lector ya vio la imagen que se repite. El imán no sobrevive el incendio como objeto especial — es un objeto cualquiera, roto y reparado esa misma mañana, que se pierde con todo lo demás. Su función es la escena en sí, no su supervivencia.
+> **PRESAGIO SIN NOMBRAR (2026-08-31):** esa misma mañana — horas antes del incendio, no durante — el imán de refrigerador con forma de manzana roja que Marisol le hizo comprar a Kal en el Capítulo 13 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono]]) se despega solo de la puerta y cae. Se raja. Chiara lo levanta y se lo da a Kal; él dice que lo puede pegar. Lo pega. **La marca queda** — completo otra vez, pero partido. Nadie lo dice en voz alta, y no hace falta: para cuando llega la noche y ven el incendio, el lector ya vio la imagen que se repite. El imán no sobrevive el incendio como objeto especial — es un objeto cualquiera, roto y reparado esa misma mañana, que se pierde con todo lo demás. Su función es la escena en sí, no su supervivencia.
 
 ## 4. El penthouse otra vez
 
@@ -2191,7 +2191,7 @@ El día del **cumpleaños de Chiara** (23 de noviembre), **Chiara se muda oficia
 
 ## Beats reservados desde el loft (poda del Cap. 11, 2026-08-29)
 
-Dos gestos domésticos se sacaron del [[#H14 — El loft del soltero|Capítulo 11]] a propósito para que **estrenen aquí** y marquen la diferencia entre *pasar mucho tiempo* y *vivir juntos*:
+Dos gestos domésticos se sacaron del [[#H14 — El loft del soltero|Capítulo 10]] a propósito para que **estrenen aquí** y marquen la diferencia entre *pasar mucho tiempo* y *vivir juntos*:
 
 - **La computadora que por fin se queda** — deja de cargarla todos los días porque ya no tiene a dónde llevársela.
 - **El café listo cada mañana** — la cafetera programada, la taza sacada, esperando a que Kal baje medio dormido. Pasa de gesto suelto a costumbre diaria: es la señal de que ella se despierta y sale al trabajo desde aquí. **Engancha con la frase de la llave** (ver abajo): *"quiero que pases también las mañanas".*
@@ -2230,7 +2230,7 @@ Una **cajita más pequeña, modesta, de madera.** Dentro, **una llave del loft.*
 
 > **PENDIENTE menor:** confirmar el estado de EE. UU. de donde traen la yegua.
 
-> **Continuidad — Vento:** aparece vivo en [[#H12 — El atentado / El corral]] (Capítulo 10, Parte I). Muere ~2 semanas antes de este hito (Parte II). No hay contradicción: media todo el arco H12→H7 entre una cosa y la otra.
+> **Continuidad — Vento:** aparece vivo en [[#H12 — El atentado / El corral]] (Capítulo 9, Parte I). Muere ~2 semanas antes de este hito (Parte II). No hay contradicción: media todo el arco H12→H7 entre una cosa y la otra.
 
 ---
 
@@ -2608,7 +2608,7 @@ Mientras San Aurelio los convierte en **La Mancuerna de Hierro y Seda**, ellos p
 
 # Hitos por recibir
 
-- **El paso del usted al tú.** Umbral, no descuido. Ver H2. **Resuelto provisionalmente en el Capítulo 7** (escena de la hierba); se puede mover si el autor prefiere otro umbral.
+- **El paso del usted al tú.** Umbral, no descuido. Ver H2. **Resuelto provisionalmente en el Capítulo 6** (escena de la hierba); se puede mover si el autor prefiere otro umbral.
 - **La primera Navidad y el collar.** Obligatorio: es donde nace el ritual que sostiene H1, y es la única vez en su vida adulta que Kal acepta un regalo sin convertirlo en transacción.
 - **La primera vela.** **Resuelta de diseño:** nace después de [[06_Relationships/Momentos_de_Fractura]], F4, el Año Nuevo en Washington. Falta escribir la escena exacta.
 - **~~La mudanza~~ — COLOCADA (2026-08-29):** es [[#H16 — El cumpleaños / la mudanza oficial]], el día del cumpleaños de Chiara, después de H7. Para estos dos, mudarse pesa más que casarse. Faltan los detalles de ejecución.

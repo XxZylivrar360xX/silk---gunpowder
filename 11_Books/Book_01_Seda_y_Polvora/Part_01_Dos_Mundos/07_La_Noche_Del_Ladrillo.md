@@ -1,12 +1,12 @@
 <!--
 Estado: TERMINADO.
 Protagonistas: Chiara Bellandi, con apariciones de Blake Stanton, Dario Varek, Kal Mercer, Nadir Amrani, Daniel Hayes y Hector Navarro.
-Ventana temporal: dias despues del Capitulo 7 (la noche de hierba en el penthouse). Todavia se estan conociendo — antes del primer beso.
+Ventana temporal: dias despues del Capitulo 6 (la noche de hierba en el penthouse). Todavia se estan conociendo — antes del primer beso.
 Lugares: Gabriella's (fiesta de vestimenta blanca).
 Funcion: ejecutar H3 completo (a, b, c) — la noche del ladrillo. Tres apariciones de Kal en la cabeza de Chiara sin que este presente: el Peugeot (primera vez), la dedicatoria de Volare (segunda vez, ya registrada como patron y no como dato suelto), y su llegada real con la banda de la Almendra (la tercera, esta si en persona). Cierra con el final de lo de Blake — ruptura en la calle, no por Kal sino porque ella entiende que buscaba algo que ya habia encontrado en otro lado.
 -->
 
-# Capítulo 8 — La noche del ladrillo
+# Capítulo 7 — La noche del ladrillo
 
 Blake la dejó entrar primero, con una mano en la espalda baja que no era ternura: era demostración.
 

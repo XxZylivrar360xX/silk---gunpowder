@@ -6,7 +6,7 @@ Lugares: The Monarch Casino & Hotel, El Penthouse.
 Funcion: ejecutar H2-b. Costumbre de contarse el dia (primera comida: torta de Mabel sin mostaza, dato de la alergia de Chiara), noche del penthouse (hamburguesas, hierba), paso del usted al tu en la escena de la hierba, cancion de Kal (The World Is Yours, Peugeot) y de Chiara (Un anno d'amore, ahora traducida por completo), juego de Parole Parole como escena nueva de idioma en vivo, llamada de Danny, silla de estetica con fragmento de la cicatriz, calavera, jacuzzi con mueca espejo, habitaciones separadas, choque de punos. Cierre recontextualizado: "eres increible" ya no marca el tu -- marca que cada uno le devolvio al otro una alegria que ninguno sabia que todavia podia sentir.
 -->
 
-# Capítulo 7 — Ambos
+# Capítulo 6 — Ambos
 
 La costumbre nació sin pedir permiso.
 

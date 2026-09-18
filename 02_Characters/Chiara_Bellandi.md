@@ -25,7 +25,7 @@ En su llegada a San Aurelio viste **blusa roja sin mangas, pantalón de vestir n
 
 El único tic que no controla: cuando algo la sorprende de verdad, se toca el anular izquierdo. **Ahí llevó un anillo de matrimonio.** Ya no está, y la mano no lo ha aceptado.
 
-**Canon menor (2026-08-27):** es **alérgica a la mostaza** desde niña — le cierra la garganta. Lo mencionó una vez, de pasada, a [[02_Characters/Mabel_Ortiz]]. En el Capítulo 7, el primer plato que Kal le lleva es una torta de La Esquina de Mabel **hecha sin mostaza a propósito**: él retuvo el dato sin que ella se lo dijera. Uso narrativo: es de las primeras señales de que Kal pone atención en lo pequeño.
+**Canon menor (2026-08-27):** es **alérgica a la mostaza** desde niña — le cierra la garganta. Lo mencionó una vez, de pasada, a [[02_Characters/Mabel_Ortiz]]. En el Capítulo 6, el primer plato que Kal le lleva es una torta de La Esquina de Mabel **hecha sin mostaza a propósito**: él retuvo el dato sin que ella se lo dijera. Uso narrativo: es de las primeras señales de que Kal pone atención en lo pequeño.
 
 ---
 
@@ -137,7 +137,7 @@ Y también vio la otra mitad: que el mundo de su padre fue lo que se llevó a su
 
 De ahí sale entera: Chiara sabe exactamente cuánto cuesta quedarse, y se queda igual. **Eso no es ingenuidad, es su forma de valentía**, y es lo único de ella que no es técnica. El cambio de apellido no fue rechazar al padre: fue quedarse con la parte de la herencia que quería y dejarle la otra a él, con la firma como reproche permanente.
 
-> **CREENCIA DE CHIARA (canon del autor, actualizado 2026-09-09):** los federales irrumpieron en una redada contra Corrado. Semanas después llegó un comunicado: el capo de la famiglia Ardizzone había fallecido en una **caída desde el acantilado de la villa de Palermo**; federales y comisión dieron la misma frase, palabra por palabra. **Nunca hubo cuerpo.** Chiara cree que lo perdió, y no tener siquiera un cuerpo que poner junto al de Marta es una cuenta que paga sola cada aniversario, sin que nadie en San Aurelio lo sepa. Formulada así por primera vez en prosa en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/26_Libros_Abiertos|Cap. 26]] (jacuzzi).
+> **CREENCIA DE CHIARA (canon del autor, actualizado 2026-09-09):** los federales irrumpieron en una redada contra Corrado. Semanas después llegó un comunicado: el capo de la famiglia Ardizzone había fallecido en una **caída desde el acantilado de la villa de Palermo**; federales y comisión dieron la misma frase, palabra por palabra. **Nunca hubo cuerpo.** Chiara cree que lo perdió, y no tener siquiera un cuerpo que poner junto al de Marta es una cuenta que paga sola cada aniversario, sin que nadie en San Aurelio lo sepa. Formulada así por primera vez en prosa en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 26]] (jacuzzi).
 >
 > **VERDAD DEL AUTOR (Chiara no la conoce; no insinuar en prosa):** el canon de fondo vigente ([[00_Biblia/00_Trilogy_Structure]], [[12_Craft_Policies/revelations/SAGA_LEVEL]]) es que **Corrado está vivo** y oculto en Italia; primer reveal a Kal en la coda del Libro II.
 
@@ -156,7 +156,7 @@ Eso no vuelve inocente a Corrado ni convierte a los federales en villanos simple
 > *"Un giorno, bambina mia, capirai il prezzo di reggere il mondo sulle tue spalle. Ma non dimenticare mai: la chiave è non farlo da sola."*
 > Algún día, mi amada niña, entenderás el precio que tiene sostener el mundo en tus hombros. Solo no olvides que la clave está en no hacerlo sola.
 
-De niña la leyó como una frase sobre crecer. Se la dice a Kal por primera vez en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/26_Libros_Abiertos|Cap. 26]] (el jacuzzi), y es más de lo que le ha contado a nadie en San Aurelio. **Ironía que el texto no explicita:** Chiara construye poder exactamente como la frase advertía — sola — y esa tensión queda disponible para pagarse más adelante en la trilogía.
+De niña la leyó como una frase sobre crecer. Se la dice a Kal por primera vez en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 26]] (el jacuzzi), y es más de lo que le ha contado a nadie en San Aurelio. **Ironía que el texto no explicita:** Chiara construye poder exactamente como la frase advertía — sola — y esa tensión queda disponible para pagarse más adelante en la trilogía.
 
 ### Lo que aprendió en esa casa, y lo que ha estado buscando desde entonces
 
@@ -257,7 +257,7 @@ Chiara no discute el punto ni defiende el método. **Entiende la línea apenas s
 
 ### La carrera de máscaras — CANON DEL AUTOR (2026-08-23), ESCRITO (2026-08-29)
 
-En [[06_Relationships/Hitos#H9 — La carrera de máscaras|H9]] ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_La_Carrera_De_Mascaras|Capítulo 9]]), después de reconocer en la noche del ladrillo que Kal le importa de verdad, Chiara hace **lo contrario de huir**: se sube al Peugeot rojo cuando él le dice que se ponga algo cómodo. Pasan por **La Tramoya** a comprar máscaras — Kal una negra lisa, ella una **Colombina negra** (aun eligiendo lo práctico, no toma una fea) — y corren por las perimetrales de Kingsley Field en la carrera que organiza [[02_Characters/Tyler_Brooks]]. Ahí, en el asiento del copiloto, se le rompe el control de administrarlo todo y **se ríe de verdad**, una carcajada sin cálculo que llevaba años sin oírse.
+En [[06_Relationships/Hitos#H9 — La carrera de máscaras|H9]] ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/08_La_Carrera_De_Mascaras|Capítulo 8]]), después de reconocer en la noche del ladrillo que Kal le importa de verdad, Chiara hace **lo contrario de huir**: se sube al Peugeot rojo cuando él le dice que se ponga algo cómodo. Pasan por **La Tramoya** a comprar máscaras — Kal una negra lisa, ella una **Colombina negra** (aun eligiendo lo práctico, no toma una fea) — y corren por las perimetrales de Kingsley Field en la carrera que organiza [[02_Characters/Tyler_Brooks]]. Ahí, en el asiento del copiloto, se le rompe el control de administrarlo todo y **se ríe de verdad**, una carcajada sin cálculo que llevaba años sin oírse.
 
 Lo que la asusta después no es el riesgo — es la **facilidad**. Que se lo pasara demasiado bien. Por eso, unos días, **administra distancia** con él: mensajes tarde, llamadas cortas, excusas de trabajo — no por arrepentimiento, sino porque *no* se arrepiente en absoluto. Esa distancia se cruza con el aniversario de la muerte de Marta y con la presión de Tommaso por el homenaje de Alessio, y es lo que la lleva, ese domingo, a bajar sola al hipódromo con el teléfono en la mano y el nombre de Kal en la pantalla — justo antes del golpe de H12.
 
@@ -267,7 +267,7 @@ Lo que la asusta después no es el riesgo — es la **facilidad**. Que se lo pas
 
 En [[06_Relationships/Hitos#H12 — El atentado / El corral|H12]], alguien la golpea por la espalda mientras cierra el corral de un caballo. Un solo golpe. No despierta hasta el hospital, y ni ella ni el lector saben quién fue. Se recupera **temporalmente** en [[05_Locations/Casa_Comunitaria_De_La_Almendra]], y la convivencia forzada ahí enciende la fricción con [[02_Characters/Nadir_Amrani]].
 
-Esa fricción empuja a Kal al hito siguiente — [[06_Relationships/Hitos#H14 — El loft del soltero|El loft del soltero]]: recompra la casa de sus padres y Chiara la diseña y la amuebla, pagándolo todo ella misma aunque de cara a los demás la versión sea "apoyo del casino". En esa etapa Chiara **todavía no se muda** — pasa tiempo, cena, duerme alguna noche, deja algún objeto suelto (un libro, una manta, un cepillo, una taza favorita). La **mudanza oficial** llega mucho después, el día de su cumpleaños ([[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]]), y es entonces cuando el lugar se vuelve hogar compartido — porque lo eligen, no por el ataque. *(La prosa del Capítulo 10 se podó el 2026-08-29 para respetar esto.)*
+Esa fricción empuja a Kal al hito siguiente — [[06_Relationships/Hitos#H14 — El loft del soltero|El loft del soltero]]: recompra la casa de sus padres y Chiara la diseña y la amuebla, pagándolo todo ella misma aunque de cara a los demás la versión sea "apoyo del casino". En esa etapa Chiara **todavía no se muda** — pasa tiempo, cena, duerme alguna noche, deja algún objeto suelto (un libro, una manta, un cepillo, una taza favorita). La **mudanza oficial** llega mucho después, el día de su cumpleaños ([[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]]), y es entonces cuando el lugar se vuelve hogar compartido — porque lo eligen, no por el ataque. *(La prosa del Capítulo 9 se podó el 2026-08-29 para respetar esto.)*
 
 ### El cumpleaños — CANON DEL AUTOR (2026-08-29)
 
@@ -315,7 +315,7 @@ Ahí es donde supera a Kal en escala. Él acumula deudas, nombres y rutas hasta 
 - **Enciende una vela cada vez que Kal sale a trabajar.** No es superstición ni decoración: es su manera de pedir que vuelva a casa. Ver [[04_Concepts/Fe_y_Velas]].
 - **Bellandi Ridge no se contamina gratis.** Si alguien usa sus viñedos como escondite, amenaza o infraestructura criminal, debe sentirse como una profanación de algo suyo.
 - **Exige que la llamen Sra. Bellandi.** "Chiara" a secas es un privilegio, no un dato público — sólo lo usan los seleccionados. Cuando alguien lo usa sin haberlo ganado (ver [[02_Characters/Tommaso_Lusardi]], ficha de voz: "usa el nombre 'Chiara' con una familiaridad que no tiene derecho a reclamar del todo"), es una transgresión leída, no un descuido de estilo.
-- **No se siente cómoda manejando.** Prefiere que la lleven. Su método actual para moverse sola es un sedán negro del Monarch — un Mercedes-Benz Clase S, coche corporativo asignado por la empresa — que maneja ella misma cuando no quiere explicarle a nadie a dónde va. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/16_El_Porton|Capítulo 16]] (2026-09-03).
+- **No se siente cómoda manejando.** Prefiere que la lleven. Su método actual para moverse sola es un sedán negro del Monarch — un Mercedes-Benz Clase S, coche corporativo asignado por la empresa — que maneja ella misma cuando no quiere explicarle a nadie a dónde va. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/15_El_Porton|Capítulo 15]] (2026-09-03).
 
 ---
 
@@ -334,7 +334,7 @@ Guardarraíles. Si un borrador la empuja hacia aquí, está mal escrita:
 
 ## "Mandorla" — CANON DEL AUTOR (2026-08-29)
 
-En las carreras de Kingsley Field ([[06_Relationships/Hitos]], H9 — Capítulo 9), cuando Tyler Brooks le pide un nombre, Chiara contesta por sí misma antes de que Kal hable por ella: **"Mandorla"** — almendra, en italiano. Disimulado para cualquiera que lo oiga, es una traducción directa de **La Almendra**, el barrio de Kal (ver [[03_Factions/Almendra_Towing]]), dicha en su propio idioma para que solo él la entienda.
+En las carreras de Kingsley Field ([[06_Relationships/Hitos]], H9 — Capítulo 8), cuando Tyler Brooks le pide un nombre, Chiara contesta por sí misma antes de que Kal hable por ella: **"Mandorla"** — almendra, en italiano. Disimulado para cualquiera que lo oiga, es una traducción directa de **La Almendra**, el barrio de Kal (ver [[03_Factions/Almendra_Towing]]), dicha en su propio idioma para que solo él la entienda.
 
 Es la asimetría exacta con el apodo de él ([[02_Characters/Kal_Mercer]], "Mac"): Mac esconde su propio nombre. Mandorla nombra el de Kal sin que nadie más lo note. Él se da cuenta y no dice nada — la sonrisa que no llega a completarse es toda la confirmación que necesita.
 
@@ -383,7 +383,7 @@ Esa capacidad no la inmuniza frente al costo: puede construir una mentira sufici
 
 > **RESUELTO (2026-08-23):** el anillo fue el matrimonio con **[[02_Characters/Alessio_Lusardi]]**, y cómo terminó es canon. Falta el detalle delicado: los motivos y los hechos de esa noche.
 
-> **PENDIENTE, SECUELAS DEL CORRAL (2026-08-29):** el golpe que recibe en [[06_Relationships/Hitos]], H12 (Capítulo 10, "El corral") debe dejar secuela real en los tres o cuatro capítulos siguientes (11-14: El Loft Del Soltero, El Farol, Roma Atrii, La Regla Del Teléfono) — no daño permanente ni grave, sino los efectos reales de una conmoción: lapsos de memoria, dificultad para conectar ideas simples, momentos donde el español o el inglés se le atascan y termina recurriendo al italiano para decir algo que en cualquier otro momento habría dicho sin pensar. La sensación que se busca es la de una memoria que "hace glitch", no la de una discapacidad. Debe notarse y después disolverse gradualmente, no desaparecer de golpe entre un capítulo y el siguiente.
+> **PENDIENTE, SECUELAS DEL CORRAL (2026-08-29):** el golpe que recibe en [[06_Relationships/Hitos]], H12 (Capítulo 9, "El corral") debe dejar secuela real en los tres o cuatro capítulos siguientes (11-14: El Loft Del Soltero, El Farol, Roma Atrii, La Regla Del Teléfono) — no daño permanente ni grave, sino los efectos reales de una conmoción: lapsos de memoria, dificultad para conectar ideas simples, momentos donde el español o el inglés se le atascan y termina recurriendo al italiano para decir algo que en cualquier otro momento habría dicho sin pensar. La sensación que se busca es la de una memoria que "hace glitch", no la de una discapacidad. Debe notarse y después disolverse gradualmente, no desaparecer de golpe entre un capítulo y el siguiente.
 
 ---
 
