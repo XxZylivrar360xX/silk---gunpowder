@@ -145,6 +145,9 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[03_Factions/El_Casino]] — **The Monarch Casino & Hotel**, la posición de partida de Chiara, y no es suya. Primera organización que la máquina de Kal se come, delante del lector.
 - [[03_Factions/El_Faro]] — diario viejo, quebrado y todavía creído. El territorio real de Chiara.
 - [[02_Characters/Alessio_Lusardi]] († ) — el marido de Chiara. Ella lo apuñaló y murió; alguien construyó la versión que la salvó. **Nunca se sabrá si Valenti la creyó.**
+- [[02_Characters/Corrado_Ardizzone]] — el padre de Chiara. Creído muerto tras una redada federal contra la famiglia Ardizzone; verdad del autor: vive oculto en Italia desmontando Il Consorzio, y se revela a Kal en la coda de *Voto de Ceniza* (Libro II). No aparece en escena en el Libro I.
+- [[02_Characters/Ettore]] — amigo de Corrado que crió a Chiara en todo menos el nombre; fuera de página en Palermo, único destinatario de sus cartas reales. Presente en el momento de la redada; posible cabo suelto sobre cuánto sabe.
+- [[02_Characters/Marta_Bellandi]] († ) — madre de Chiara, fallo cardíaco cuando ella tenía diecinueve. El apellido que Chiara eligió llevar y el modelo de amor con el que mide toda su vida sentimental; la vela de Palermo es el eco teológico del ritual adulto de Chiara con Kal.
 - [[02_Characters/Leone_Valenti]], *Il Consigliere* — **la cara del Consorcio.** Elegante, contenido, y sin ninguna necesidad de demostrar que es peligroso. *No amenaza: produce consecuencias.*
 - [[03_Factions/Il_Consorzio]] — **antagonista de Chiara.** Infraestructura criminal internacional que suena a institución financiera. No la odia: la tiene asignada como *Chiara Ardizzone Bellandi*.
 

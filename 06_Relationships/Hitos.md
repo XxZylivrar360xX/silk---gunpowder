@@ -46,6 +46,7 @@ No insertarlos por intuición. Mantener su posición como PENDIENTE mientras no 
 |---|---|
 | Después de F4 y F3 | **H8** — El incendio, la mentira y la villa *(2026-08-29: después de Año Nuevo (F4) y de los frenos (F3); posición fina respecto a Camp Alder y "Mi pareja" por afinar)* |
 | Por recibir | Primera Navidad y el collar · la primera vela · las clases de italiano *(rituales por colocar)* |
+| Después de H8 (el incendio) y de la caída diseñada de Silas Crowe; antes de F2 y del embarazo confirmado | **Stavanger / propuesta de matrimonio** — INCUBADORA, sin Hito numerado todavía. Ver [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] (BORRADOR PROPUESTO, no integrado al manuscrito) y [[02_Characters/Silas_Crowe]]. No promover a Hito ni citar en prosa hasta que el autor apruebe el capítulo. |
 | **Libro I**, después de que exista Villa Candelaria, antes de H1 | **F2 — Destierro de Riley** *(por el conflicto propio de Riley; Riley debe quedar establecida en Italia antes de que Elenna la necesite — payoff, no causa)* |
 | **Libro I**, después de que exista Villa Candelaria y de F2 | **H1 — El regreso a casa** *(Chiara ya confirmó el embarazo; Kal todavía no lo sabe; posición fina pendiente)* |
 | **Libro I**, después de H1, cierra el libro | **Reveal del embarazo a Kal** *(momento obligatorio por diseñar, sin ID; sólo después de que esté fuera de peligro y regrese cierta normalidad doméstica)* |

@@ -1,5 +1,24 @@
 # Current Brief
 
+## Incubadora Stavanger — retcon de Silas Crowe CONFIRMADO por el autor (2026-09-19)
+
+El autor confirmó el retcon marcado como pendiente en la entrada anterior: [[02_Characters/Silas_Crowe]] queda con **CANON DEL AUTOR** en "El primer trato que nadie cuenta", en la resolución de "cómo termina" y en la línea "toca su origen dos veces" (ya no es sólo la misma idea repetida por dos hombres — es, literalmente, el mismo hombre: Silas conectó a Dale con la red que trajo a Kal). **La joyería con Héctor sigue pendiente, sin fecha, por decisión explícita del autor** — no se escribe todavía. Actualizados en consecuencia [[02_Characters/Silas_Crowe]], [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] y su `README.md`. Sin cambios de prosa de manuscrito, sin EPUB, sin commit.
+
+## Incubadora — Stavanger / origen de Kal / propuesta de matrimonio (2026-09-19, Claude Code, encargo del autor)
+
+Nueva carpeta [[07_Ideas/Libro_01_Incubadora/README|07_Ideas/Libro_01_Incubadora]] (paralela a `Libro_04_Incubadora`, pero para material tardío de *Seda y Pólvora*). Contiene [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]], BORRADOR PROPUESTO, POV único Kal: Kal y Chiara viajan a Stavanger tras la caída de Silas Crowe; Kal se reencuentra con un familiar noruego (**Henrik Solberg, tío materno, nombre y parentesco PROVISIONALES**), obtiene prueba de que su padre adoptivo Dale recibió y contestó fríamente una carta de la familia biológica hace años, y le propone matrimonio a Chiara esa misma noche con un anillo que ya llevaba meses cargando (grabado: *Camminerò al tuo fianco*), en un callback consciente a la línea ya-canon "Ya llegó" de [[02_Characters/Anya_Voronina]]. La concepción de Elenna no se señala en el texto.
+
+**Antes de redactar, se investigó el vault y aparecieron contradicciones reales con `develop`, ya resueltas en diálogo con el autor:**
+
+1. **Ubicación:** no existe ya una "Parte IV" (superseded por [[00_Biblia/00_Trilogy_Structure]]). Se fijó como Libro I, después de H8 (el incendio) y de la caída de Silas Crowe, antes de F2 y del embarazo confirmado — anotado en [[06_Relationships/Hitos]], tabla "Todavía sin colocar definitivamente", **sin Hito numerado todavía**.
+2. **Disparador:** la caída de Silas Crowe no existía en canon ("PENDIENTE: cómo termina"). Se diseñó ahora en [[02_Characters/Silas_Crowe]] ("El primer trato que nadie cuenta" + resolución de "cómo termina"): Silas conectó a Dale con la red que trajo a Kal, cobrándose una deuda de silencio; Kal lo derrota volviéndolo económicamente irrelevante para la Almendra, nunca pagándole; Silas suelta la pista de Noruega como golpe final de despecho. **Esto modifica una línea existente de esa ficha** ("el mismo hombre no: la misma idea" pasa a ser, literalmente, el mismo hombre) — marcado DISEÑO, no CANON DEL AUTOR, pendiente de confirmación.
+3. **Qué sabe Chiara:** [[12_Craft_Policies/revelations/SAGA_LEVEL]] protegía "Chiara al inicio" sin conocer el origen de Kal. Por decisión del autor, se actualizó: Chiara presencia toda la revelación y queda enterada; la restricción deja de aplicar en este tramo del libro.
+4. **La escena de "la joyería" con Héctor** (`HITO_Mi_Pareja_Formalizacion_Kal_Chiara.md`, CANON DEL AUTOR) queda **pendiente, sin tocar**, por decisión explícita del autor — este capítulo sigue presuponiéndola ya ocurrida fuera de página.
+5. **Ciudad de origen (Stavanger)** y **nombre del familiar noruego (Henrik Solberg)** siguen como propuestas de esta incubadora, sin promoverse a `02_Characters/Kal_Mercer.md` (que pide mantener ese hueco abierto "casi hasta el final" de la saga).
+6. La caja de madera con runas nórdicas sigue sin mencionarse, respetando su bloqueo en `SAGA_LEVEL.md`.
+
+Archivos tocados: nueva carpeta `07_Ideas/Libro_01_Incubadora/` (`README.md` + `Stavanger_Ya_Llego.md`), [[02_Characters/Silas_Crowe]], [[12_Craft_Policies/revelations/SAGA_LEVEL]], [[06_Relationships/Hitos]] (una fila nueva en la tabla de posiciones sin colocar). **No se tocó** `00_Book_Map.md`, `INDEX.md` ni ningún capítulo del manuscrito — el capítulo sigue sin número, sin Hito propio y sin lifecycle editorial. Sin EPUB, sin commit.
+
 ## EPUB de Libro 1 regenerado (2026-09-18, encargo explicito del autor)
 
 Se regenero `tools/epub-build/output/Seda_y_Polvora.epub` con 32 capitulos. Se excluyo de forma intencional `Nota_Una_Amiga_Fusionada.md` por la directiva `EPUB: EXCLUDE`. `git diff --check` paso sin errores. Sin commit.

@@ -8,11 +8,11 @@ Misterios o verdades que cruzan todo *Seda y Polvora* o que no pertenecen a un s
 
 - **Que es:** Kal fue comprado de bebe mediante una red de trafico de ninos. Sus papeles son falsos. Su verdadero origen es Noruega.
 - **Estado al inicio:** Kal sabe que sus papeles son falsos desde los veinte; el origen noruego exacto queda reservado.
-- **Quien ya lo sabe:** Pendiente decidir si Kal conoce Noruega como dato exacto o solo conoce la falsedad de sus papeles. Pendiente decidir si Hector, Nadir o Anya saben algo parcial.
-- **Quien NO debe saberlo/insinuarlo todavia:** Chiara al inicio; socios del Monarch; Dario; policia local.
+- **Quien ya lo sabe:** Pendiente decidir si Hector, Nadir o Anya saben algo parcial. **Decision del autor (2026-09-19):** Chiara pasa a saberlo por completo, presenciando la revelacion junto a Kal, en un capitulo todavia no integrado al manuscrito — ver abajo.
+- **Quien NO debe saberlo/insinuarlo todavia:** socios del Monarch; Dario; policia local. **Ya NO aplica a Chiara** (ver decision del autor, abajo) — la restriccion original la protegia "al inicio" del libro; deja de aplicar en el tramo de Villa Candelaria, antes de H1.
 - **Lineas o gestos prohibidos antes del reveal:** Kal explicando su origen en bloque; narrador usando el dato como resumen sentimental.
 - **Modo correcto de siembra:** rasgos nordicos sin explicacion, asco al azar, reglas sobre regalos/deudas, rechazo a que personas tengan precio, conducta ante redes de explotacion.
-- **Estado:** sembrado por conducta y ficha; reveal narrativo pendiente.
+- **Estado:** sembrado por conducta y ficha; reveal narrativo **diseñado, no escrito en el manuscrito todavia**. Ver [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] (BORRADOR PROPUESTO, POV Kal, Chiara presente y enterada) y [[02_Characters/Silas_Crowe]] ("El primer trato que nadie cuenta" — la caida de Silas Crowe es lo que le da a Kal la pista hacia su familia noruega). Posicion propuesta: Libro I, despues de H8 (el incendio) y antes de F2 / del embarazo confirmado. Nada de esto se integra a `00_Book_Map.md` ni a `Hitos.md` hasta que el autor apruebe el capitulo.
 
 ---
 

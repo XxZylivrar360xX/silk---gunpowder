@@ -25,6 +25,8 @@ En su llegada a San Aurelio viste **blusa roja sin mangas, pantalón de vestir n
 
 El único tic que no controla: cuando algo la sorprende de verdad, se toca el anular izquierdo. **Ahí llevó un anillo de matrimonio.** Ya no está, y la mano no lo ha aceptado.
 
+**Herencia física — DISEÑO (fijada 2026-09-18):** el cabello negro azabache, la estructura facial más afilada y la mandíbula marcada vienen de [[02_Characters/Corrado_Ardizzone]]; los ojos almendrados con matices verdes/oliva, las cejas expresivas, la forma de la boca, los labios llenos y el lunar junto al labio vienen de [[02_Characters/Marta_Bellandi]]. Formulación de síntesis: Chiara tiene el rostro emocional de Marta y la presencia oscura de Corrado.
+
 **Canon menor (2026-08-27):** es **alérgica a la mostaza** desde niña — le cierra la garganta. Lo mencionó una vez, de pasada, a [[02_Characters/Mabel_Ortiz]]. En el Capítulo 6, el primer plato que Kal le lleva es una torta de La Esquina de Mabel **hecha sin mostaza a propósito**: él retuvo el dato sin que ella se lo dijera. Uso narrativo: es de las primeras señales de que Kal pone atención en lo pequeño.
 
 ---
@@ -151,7 +153,7 @@ Eso no vuelve inocente a Corrado ni convierte a los federales en villanos simple
 
 ### La última historia de Marta
 
-**CANON DEL AUTOR (2026-09-10).** Marta era mejor inventando cuentos que contándolos igual dos veces — cambiaba el final cada noche según la cara que Chiara ponía. La última que le contó, poco antes de morir del corazón (Chiara tenía catorce, quince años), cerró con una frase que Chiara todavía repite palabra por palabra, primero en italiano:
+**CANON DEL AUTOR (2026-09-10).** Marta era mejor inventando cuentos que contándolos igual dos veces — cambiaba el final cada noche según la cara que Chiara ponía. La última que le contó, cuando Chiara tenía catorce o quince años, cerró con una frase que Chiara todavía repite palabra por palabra, primero en italiano:
 
 > *"Un giorno, bambina mia, capirai il prezzo di reggere il mondo sulle tue spalle. Ma non dimenticare mai: la chiave è non farlo da sola."*
 > Algún día, mi amada niña, entenderás el precio que tiene sostener el mundo en tus hombros. Solo no olvides que la clave está en no hacerlo sola.
@@ -207,6 +209,8 @@ Legalmente pudo ser *Chiara Bellandi Lusardi*, y en ciertos círculos *signora L
 ### El oficio
 
 No empezó por ambición: empezó apagando un incendio de familia a los veintitrés y descubriendo que se le daba de un modo que asustaba un poco. En diez años pasó de eso a ser la persona que ciertas familias de la costa llamaban cuando un nombre estaba a punto de aparecer donde no debía.
+
+> **Cronología fijada (2026-09-18):** ese "incendio de familia a los veintitrés" **es la redada y la caída pública de Corrado** (cuatro años después de la muerte de Marta, once antes de su llegada a San Aurelio a los 34) — no un hecho distinto. Ver [[02_Characters/Corrado_Ardizzone]], "La redada y la muerte pública".
 
 Nunca fue de las que dan órdenes. Fue de las que **deciden qué se supo**. Cobraba bien, no le pertenecía a nadie y se cuidó mucho de que eso siguiera siendo verdad.
 
@@ -372,8 +376,8 @@ Esa capacidad no la inmuniza frente al costo: puede construir una mentira sufici
 - **[[02_Characters/Walter_Keegan]]** — amigo del padre de Kal. Se conocen en el primer torneo de poker; ella lo ayuda a comprar la bodega para su destilería y él se vuelve el proveedor de licor del casino.
 - **[[02_Characters/Blake_Stanton]]** — con quien sale al llegar a la ciudad. Rubio, ojos azules: el hombre equivocado con la cara correcta.
 - **[[02_Characters/Camila_Rivas]]** — su médica de confianza. Atiende fuera de los registros cuando la razón moral o la deuda lo justifican, y le contesta el teléfono a Chiara a cualquier hora. Es quien mantiene vivo a Kal en [[06_Relationships/Hitos]], H1, y por lo tanto **la prueba de que la red de Chiara es infraestructura real y no contactos sociales.**
-- Corrado Ardizzone — el padre. **Pendiente de ficha.** Chiara lo cree muerto tras una redada federal (verdad del autor: vive, oculto en Italia — ver "Historia" arriba); no debe escribirse como villano plano ni como inocente limpio. Fue un hombre que quiso a su mujer treinta años y no supo proteger su casa de lo que su mundo era.
-- Marta Bellandi (†) — la madre. El apellido, y el modelo entero de lo que Chiara entiende por amar.
+- [[02_Characters/Corrado_Ardizzone]] — el padre. Chiara lo cree muerto tras una redada federal (verdad del autor: vive, oculto en Italia — ver "Historia" arriba); no debe escribirse como villano plano ni como inocente limpio. Fue un hombre que quiso a su mujer treinta años y no supo proteger su casa de lo que su mundo era.
+- [[02_Characters/Marta_Bellandi]] (†) — la madre. El apellido, y el modelo entero de lo que Chiara entiende por amar.
 
 ---
 

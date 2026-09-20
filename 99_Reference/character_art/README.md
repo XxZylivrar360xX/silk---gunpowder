@@ -32,6 +32,15 @@ Este uso del arte de personajes propios no cambia la prohibición de adaptar esc
 
 > **PENDIENTE:** confirmación del autor para elevar a canon los rasgos nuevos propuestos (en especial la apariencia de Nadir) y fijar la lateralidad del lunar de Chiara. Las discrepancias con canon ya establecido quedan documentadas; no se retocan las imágenes en esta integración.
 
+## Incorporación 2026-09-18 — Marta y Corrado
+
+| Imagen | Ficha y uso conceptual |
+|---|---|
+| [[99_Reference/character_art/Marta_Bellandi.png]] | [[02_Characters/Marta_Bellandi]] — apariencia canónica: cabello castaño (no negro), vestido de corte italiano vino, joyería discreta en oro |
+| [[99_Reference/character_art/Corrado_Ardizzone.png]] | [[02_Characters/Corrado_Ardizzone]] — apariencia canónica: traje pinstripe oscuro, sienes plateadas, presencia contenida y severa |
+
+Ambas láminas fijan la herencia física de [[02_Characters/Chiara_Bellandi]]: cabello negro azabache y estructura facial afilada de Corrado; ojos, boca y calidez del rostro de Marta. Ver la sección "Apariencia" de cada ficha para el detalle completo y la sección "Herencia física" en la ficha de Chiara.
+
 ## Hojas iniciales
 
 ---

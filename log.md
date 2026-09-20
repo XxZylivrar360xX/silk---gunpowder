@@ -3221,3 +3221,63 @@ Por encargo del autor, se renumeraron en cascada los capítulos reales antiguos 
 ## [2026-09-18] codex | Renumeracion global por fusion del antiguo Capitulo 6
 
 Por encargo del autor, se renumeraron en cascada los capítulos reales antiguos 7–32 a 6–31, después de que el antiguo Capítulo 6 (`Una amiga`) fuera fagocitado por el Capítulo 5. Se actualizaron nombres de archivo, encabezados, enlaces vivos, `INDEX.md`, `00_Book_Map.md` y handoff. La nota de trazabilidad quedó como `Nota_Una_Amiga_Fusionada.md`, fuera del manuscrito. El EPUB no se regeneró.
+
+## [2026-09-18] Claude Code — Ficha de personaje: Corrado Ardizzone
+
+Creada `02_Characters/Corrado_Ardizzone.md`, consolidando canon ya disperso (Chiara_Bellandi.md, 00_Trilogy_Structure.md, SAGA_LEVEL.md, ENCARGO_ARCO_CHIARA_CORRADO.md, Libro_04_Incubadora/05_Volpi_y_Corrado.md): redada federal, muerte pública sin cuerpo, verdad del autor (vive oculto en Italia desmontando Il Consorzio), reveal a Kal en la coda de *Voto de Ceniza*, arco en *Cuentas de Sangre*, y el dato de incubadora (Libro 4/5) sobre el confinamiento negociado de Nereo Volpi. Sin datos inventados: apariencia física, edad y varios puntos de relación con el Consorcio quedan marcados PENDIENTE. Actualizado `02_Characters/README.md` (sale de "sin ficha", entra en "Antagonistas y presión externa") e `INDEX.md`. Sin prosa de manuscrito, sin EPUB, sin commit.
+
+## [2026-09-18] Claude Code — Ficha ampliada: Ettore
+
+Expandida `02_Characters/Ettore.md` (stub de 2026-08-28) al formato completo de plantilla, integrando canon disperso (Chiara_Bellandi.md, Cap. 9 "El corral", Cap. 25 "Libros abiertos", Elenna_Mercer.md, Riley_Bennett.md, Book_02_Voto_De_Ceniza/00_Book_Map.md). Hallazgo clave del Cap. 25 documentado por primera vez en la ficha: Ettore estuvo presente en el momento de la redada y Corrado le susurró algo que Chiara nunca escuchó — queda marcado PENDIENTE, no resuelto. Documentada también su función de espejismo narrativo en la entrega de Elenna (Kal/lector asumen que es "alguien de confianza al otro lado"; la respuesta real es Riley Bennett, nunca corregido en prosa). Añadido a `02_Characters/README.md` e `INDEX.md`, donde no tenía entrada pese a tener ficha desde agosto. Sin prosa de manuscrito, sin EPUB, sin commit.
+
+## [2026-09-18] Claude Code — Ficha de personaje: Marta Bellandi
+
+Creada `02_Characters/Marta_Bellandi.md`, consolidando canon disperso en Chiara_Bellandi.md y en las escenas de infancia ya escritas en prosa (Cap. 2 "Demasiado listo": el mural, la fiesta/baile; Cap. 25 "Libros abiertos": la última historia). Documentada por primera vez como escena propia la vela de Palermo (Cap. 2): Marta enseña a Chiara a encender un fósforo frente a un altar y explica que "no es para que se cumpla, es para que tu mente esté más tranquila" — marcado explícitamente como resonancia temática, NO como sustitución del origen ya fijado del ritual adulto de la vela con Kal (F4, Año Nuevo en Washington, en `04_Concepts/Fe_y_Velas.md`), para evitar que quede reescrito por conveniencia. Actualizados los enlaces de Corrado y Marta en `Chiara_Bellandi.md` (antes texto plano / "pendiente de ficha", ahora wikilinks), más `README.md` e `INDEX.md`. Sin prosa de manuscrito, sin EPUB, sin commit.
+
+## [2026-09-18] Claude Code — Consolidación de canon visual y cronológico: Marta Bellandi y Corrado Ardizzone
+
+**Encargo del autor:** fijar edades, apariencia física y herencia visual de Marta y Corrado hacia Chiara, usando las láminas ya existentes `99_Reference/character_art/Marta_Bellandi.png` y `Corrado_Ardizzone.png` (previamente generadas pero no documentadas en `character_art/README.md`).
+
+**Decisiones fijadas:**
+- Marta: 47 años al morir (canónico), 28 al tener a Chiara (derivado de 47−19). Apariencia canónica añadida a `Marta_Bellandi.md` (siciliana, ~1.64–1.66 m, piel oliva, cabello castaño — nunca negro —, vestidos de corte italiano en vino/verde oliva/azul petróleo, joyería discreta en oro).
+- Corrado: apariencia canónica añadida a `Corrado_Ardizzone.md` (alto, delgado-atlético, rostro angular, cabello negro azabache con sienes plateadas, traje pinstripe oscuro, cigarro). Edad al abrir la novela permanece PENDIENTE (depende de la fecha de la redada, sin fijar); se anota edad provisional NO-canon-duro durante el matrimonio con Marta (finales 40/principios 50).
+- Herencia física de Chiara fijada como DISEÑO en las tres fichas: cabello negro azabache y estructura facial afilada de Corrado; ojos almendrados/verdes, cejas, boca y calidez del rostro de Marta.
+
+**Contradicción encontrada, no resuelta por conveniencia:** "treinta años" de relación Corrado–Marta (usado en `Chiara_Bellandi.md`, `Corrado_Ardizzone.md`, `Marta_Bellandi.md`, Book_Map y sesiones previas) es matemáticamente tenso con Marta muriendo a los 47 — implicaría inicio de relación ~17 años. No se reescribió ningún texto existente (nunca aparece como cifra literal en prosa de manuscrito, sólo en fichas/diseño); se dejó nota de cronología señalando la tensión en ambas fichas para confirmación del autor.
+
+**Corrección aplicada:** la frase "la última historia, poco antes de morir (Chiara tenía catorce, quince años)" era inconsistente con la muerte de Marta a los 19 años de Chiara — "poco antes de morir" y "14-15 años" no cuadraban con un hecho a los 19. Corregida en `Marta_Bellandi.md` y `Chiara_Bellandi.md` a "cuando Chiara tenía catorce o quince años", sin mover la edad de la escena.
+
+**Archivos modificados:** `02_Characters/Marta_Bellandi.md`, `02_Characters/Corrado_Ardizzone.md`, `02_Characters/Chiara_Bellandi.md` (apariencia con nota de herencia física + corrección de la frase de la última historia), `99_Reference/character_art/README.md` (documentadas las dos láminas, antes sin entrada).
+
+**Sigue pendiente de confirmación del autor:** tensión "treinta años" vs. edad de Marta; edad exacta de Corrado al abrir la novela (depende de la fecha de la redada, no fijada); oficio de Marta; familia extendida de Marta; cuánto sabía Marta del mundo de Corrado — ninguno de estos PENDIENTE se alteró ni se inventó. Sin prosa de manuscrito, sin EPUB, sin commit.
+
+## [2026-09-18] Claude Code — Resolución de pendientes: cronología de Marta y Corrado
+
+**Decisiones del autor, tomadas en diálogo directo:**
+- **"Treinta años" de relación:** RESUELTO como cifra redondeada/aproximada, no conteo literal — evita forzar que Corrado y Marta se conocieran a los 17 de ella. Ningún texto existente se reescribió.
+- **Cronología fijada:** Corrado tenía 51 años cuando Marta murió (Chiara con 19). La redada que lo da por muerto ocurre cuando Chiara tiene 23 años (Corrado, 55) — fijada la conexión con la frase ya existente en `Chiara_Bellandi.md` ("empezó apagando un incendio de familia a los veintitrés"): **ese incendio de familia es la redada**, no un hecho distinto. Edad de Corrado al abrir la novela: **66 años**, derivada de que Chiara tiene 34 al abrir el libro (11 años después de la redada) y de que la muerte de Alessio, hace 7 años según el autor, cae dentro de la misma ventana sin contradicción.
+- **Familia extendida de Marta:** RESUELTO — sin hermanos ni padres con peso narrativo.
+- **Cuánto sabía Marta del mundo de Corrado:** RESUELTO — lo sabía y se quedó conscientemente, con información completa (ya estaba sembrado, sin desarrollar, en `Chiara_Bellandi.md`: "Marta lo supo siempre y se quedó de todos modos").
+- **Oficio de Marta:** fijado externamente por el autor como "Ama de Casa"; integrado en "Quién es" y regla dura nueva (no es ingenua respecto al mundo de Corrado).
+
+**Archivos modificados:** `02_Characters/Corrado_Ardizzone.md` (edades en tres puntos de la cronología, nota de la redada conectada al "incendio de familia", preguntas abiertas), `02_Characters/Marta_Bellandi.md` (nota de cronología resuelta, aceptación consciente del mundo de Corrado, preguntas abiertas cerradas), `02_Characters/Chiara_Bellandi.md` (cross-referencia fijando que el "incendio de familia a los 23" es la redada de Corrado).
+
+**Pendientes que siguen sin resolver, fuera del alcance de esta sesión (decisiones narrativas de Libro II/III, no de cronología/visual):** relación exacta de Corrado con Il Consorzio antes de la redada; si Ettore sabe que vive; qué creen las autoridades italianas/estadounidenses; posición en la Mesa de las Familias; método y costo acumulado en los años escondido; qué le ofrece a Kal la mañana del reveal; primera reacción de Chiara; el recuerdo de constelaciones en El Mirador; cuándo se entera de Elenna; relación final con Kal. Sin prosa de manuscrito, sin EPUB, sin commit.
+
+## [2026-09-19] Claude Code — Incubadora: Stavanger, origen de Kal y propuesta de matrimonio
+
+Por encargo del autor, se redactó un capítulo completo especulativo (BORRADOR PROPUESTO, POV único Kal): Kal y Chiara viajan a Stavanger, Noruega, tras la caída de Silas Crowe; Kal se reencuentra con un familiar noruego (**Henrik Solberg, tío materno, nombre y parentesco PROVISIONALES**), obtiene prueba de que Dale Mercer recibió y contestó fríamente, años atrás, una carta de la familia biológica de Kal, y le propone matrimonio a Chiara esa misma noche con un anillo que ya llevaba meses cargando (grabado: *Camminerò al tuo fianco*), en un callback consciente a la línea ya-canon "Ya llegó" de [[02_Characters/Anya_Voronina]]. Vive en la nueva carpeta [[07_Ideas/Libro_01_Incubadora/README|07_Ideas/Libro_01_Incubadora]] (paralela a `Libro_04_Incubadora`), sin tocar el manuscrito.
+
+**Investigación previa detectó contradicciones reales con `develop`, resueltas en diálogo directo con el autor:**
+
+1. **Ubicación:** "Parte IV" ya no existe (superseded por [[00_Biblia/00_Trilogy_Structure]]). Fijada como Libro I, después de H8 (el incendio) y de la caída de Silas Crowe, antes de F2 y del embarazo confirmado — anotada en [[06_Relationships/Hitos]] sin Hito numerado todavía.
+2. **Disparador:** la caída de Silas Crowe no existía en canon. Diseñada en [[02_Characters/Silas_Crowe]] ("El primer trato que nadie cuenta" + resolución de "cómo termina"): Silas conectó a Dale con la red que trajo a Kal, cobrándose una deuda de silencio; Kal lo derrota volviéndolo económicamente irrelevante para la Almendra, sin pagarle nunca; Silas suelta la pista de Noruega como golpe final de despecho. Modifica una línea existente de esa ficha ("el mismo hombre no: la misma idea" → literalmente el mismo hombre) — marcado DISEÑO, pendiente de confirmación del autor.
+3. **Qué sabe Chiara:** [[12_Craft_Policies/revelations/SAGA_LEVEL]] protegía "Chiara al inicio" sin conocer el origen de Kal. Actualizado: Chiara presencia toda la revelación; la restricción deja de aplicar en este tramo del libro.
+4. **La joyería con Héctor** (CANON DEL AUTOR, `HITO_Mi_Pareja_Formalizacion_Kal_Chiara.md`) queda pendiente, sin tocar, por decisión explícita del autor.
+5. Ciudad de origen (Stavanger) y nombre del familiar noruego siguen como propuestas de la incubadora, sin promoverse a `02_Characters/Kal_Mercer.md`.
+
+**Archivos modificados:** `07_Ideas/Libro_01_Incubadora/README.md` (nuevo), `07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego.md` (nuevo), [[02_Characters/Silas_Crowe]], [[12_Craft_Policies/revelations/SAGA_LEVEL]], [[06_Relationships/Hitos]]. No se tocó `00_Book_Map.md`, `INDEX.md` ni ningún capítulo del manuscrito. Sin EPUB, sin commit.
+
+## [2026-09-19] Claude Code — Confirmación del autor: retcon de Silas Crowe
+
+El autor confirmó, en diálogo directo, el retcon dejado pendiente en la sesión anterior: la caída de Silas Crowe y su conexión directa con el origen de Kal ([[02_Characters/Silas_Crowe]], "El primer trato que nadie cuenta" y resolución de "cómo termina") pasan de DISEÑO a **CANON DEL AUTOR**. La línea "el mismo hombre no: la misma idea" queda corregida: es, literalmente, el mismo hombre — Silas conectó a Dale Mercer con la red que trajo a Kal desde Noruega. **La escena de la joyería con Héctor sigue pendiente, sin fecha de redacción**, por decisión explícita del autor. Actualizados [[02_Characters/Silas_Crowe]], [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] y su `README.md`. Sin prosa de manuscrito, sin EPUB, sin commit.

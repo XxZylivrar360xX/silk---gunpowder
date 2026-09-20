@@ -8,7 +8,7 @@
 **Alias:** *el Tasador*.
 **Territorio:** la Almendra. Ver [[05_Locations/San_Aurelio]].
 **Qué representa:** la explotación del barrio.
-**Estado:** vivo.
+**Estado:** vivo; derrota diseñada (CANON DEL AUTOR 2026-09-19) — ver "Pendientes".
 
 ---
 
@@ -54,6 +54,16 @@ Así que cuando Silas Crowe dice *todo vale algo, la única diferencia es quién
 Odiar esa frase no es ideología. **Es autobiografía.** Y por eso el enfrentamiento con el Tasador no puede ser sólo territorial — es el único antagonista del libro que toca su origen.
 
 *(Conecta también con su aversión al juego de azar: a él lo pagaron una vez, como se paga una apuesta.)*
+
+### El primer trato que nadie cuenta — CANON DEL AUTOR (2026-09-19)
+
+> **Resuelve un PENDIENTE de esta ficha y motiva [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] (BORRADOR PROPUESTO, no integrado al manuscrito).**
+
+Antes de ser "el Tasador" para todo el barrio, cuando todavía era sólo el hombre que le prestaba fácil a Dale Mercer, Silas hizo su primer trato de verdad. Dale le contó, borracho y ya quebrado, que Ruth no podía tener hijos y que eso la estaba consumiendo. Silas conocía a alguien — un contacto de una red de colocación que movía niños desde el norte de Europa hacia la costa oeste. Consiguió al bebé. Cobró por el favor, como cobra todo, pero se quedó con algo mejor que dinero: **una deuda que Dale nunca pudo terminar de pagar**, porque no era una deuda de dinero. Era una deuda de silencio.
+
+Años después, cuando empezaron a llegar cartas de Noruega preguntando por el niño, Dale se las llevó a Silas — no porque confiara en él, sino porque no sabía a quién más acudir sin que la verdad saliera a la luz. Silas le dijo que las contestara él mismo, con pocas palabras, y que no volviera a mencionarlo. Fue el consejo más barato que le dio en toda su vida como prestamista, y el más caro que Kal terminaría pagando.
+
+> **CONFIRMADO POR EL AUTOR (2026-09-19): retcon aplicado.** La línea de más abajo, en "Lo que le hace a Kal — CANON", quedaba en *"Y toca su origen dos veces... El mismo hombre no: la misma idea."* Deja de ser una idea repetida por dos hombres distintos y pasa a ser, literalmente, **el mismo hombre las dos veces** — ya corregida en esa sección.
 
 ### Y el espejo incómodo
 
@@ -107,7 +117,7 @@ El motivo declarado: **un cargamento que Kal no entregó a tiempo**, cuando toda
 
 - **Es su tesis ejecutada sin misericordia.** *Todo vale algo, la única diferencia es quién pone el precio.* Aquí **le pone precio a un hogar**, y el precio es un retraso. **Una casa a cambio de un cargamento tarde: la tasación definitiva.**
 - **Quema exactamente lo único de la vida de Kal que no estaba en venta.** El código entero de Kal nace contra este hombre — *hay cosas que no están en venta* — y Silas le contesta incendiando la prueba.
-- **Y toca su origen dos veces.** A Kal lo compraron de bebé; Silas acaba de ponerle precio a su casa. **El mismo hombre no: la misma idea.**
+- **Y toca su origen dos veces.** A Kal lo compraron de bebé; Silas acaba de ponerle precio a su casa. **CANON DEL AUTOR (2026-09-19, retcon confirmado):** ya no es sólo la misma idea repetida por casualidad — es, literalmente, **el mismo hombre las dos veces**. Fue Silas quien conectó a Dale con la red que trajo a Kal (ver "El primer trato que nadie cuenta", arriba); el incendio es la segunda vez que le pone precio a lo mismo.
 
 ### El costo que casi nadie va a contar
 
@@ -139,7 +149,7 @@ El motivo declarado: **un cargamento que Kal no entregó a tiempo**, cuando toda
 
 > **PENDIENTE:** su lógica decente ([[00_Biblia/Principios_Narrativos]], principio 3). Propuesta a validar: cree sinceramente que **él es lo único que mantiene la Almendra funcionando** — que sin alguien que ponga precios, el barrio se devora a sí mismo. Que se equivoque no significa que mienta.
 
-> **PENDIENTE:** cómo termina. Restricción de diseño: **si Kal lo resuelve pagándole, pierde el libro.** La derrota del Tasador tiene que demostrar la tesis contraria a la suya.
+> **CANON DEL AUTOR (2026-09-19, resuelve el PENDIENTE "cómo termina").** Silas no cae por un golpe único ni porque Kal lo compre o lo destruya a la fuerza — eso perdería el libro. Cae porque Kal ataca exactamente su tesis: en vez de pagarle, pelearlo o negociar, empieza a construir alternativas gratuitas o recíprocas para cada servicio que el Tasador vende en la Almendra — trabajo, protección, resolución de deudas y disputas — a través de El Patio, sin declarar guerra abierta y sin que se note como campaña. Meses después, nadie en el barrio necesita ya a alguien que le ponga precio a las cosas. Cuando Silas intenta tasar algo y la gente simplemente se niega a pagar, entiende que perdió sin que nadie lo tocara. En la última conversación con Kal — sin dinero de por medio, sin amenaza directa — suelta lo único que le queda como arma: la conexión con el origen de Kal y las cartas que Dale escondió (ver "El primer trato que nadie cuenta", arriba), como golpe final de despecho, no como negociación. Después de eso no necesariamente muere: se vuelve irrelevante, y el barrio que antes lo protegía con su silencio deja de necesitar protegerlo a él. **Restricción respetada:** Kal no le paga nada; su derrota es la prueba viva de que no todo tiene precio.
 
 > **PARCIALMENTE RESUELTO:** Kal **trabajaba para él** en la primera etapa, y se estaba soltando. Falta el detalle de qué le debía exactamente, y qué era ese cargamento.
 
