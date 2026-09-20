@@ -28,6 +28,8 @@
 
 Decisiones compactas para relevo. No reemplaza `log.md`.
 
+- **LÍNEA TEMPORAL (2026-09-20):** `01_Timeline/` queda como índice macro de cinco libros, con un archivo por volumen y sólo acontecimientos enunciados. El desarrollo narrativo permanece en los `00_Book_Map.md`; los documentos previos se conservan como archivo histórico.
+
 - **NEREO VOLPI / MATTEO — CANON DEL AUTOR (2026-09-12):** Nereo Volpi es el ejecutor extraoficial de La Mesa, encargado del trabajo sucio, eficiente y negable. No sustituye a Valenti: éste comunica y ejecuta las consecuencias visibles; Nereo fabrica la ausencia que nadie debe poder atribuir. Nereo desaparece al hermano de Matteo Bellacorte fuera de San Aurelio y lo obliga, mediante una nota, a salir de Libro I para buscarlo. Matteo vuelve en *Interregno* con la herida y la deuda de esa contingencia. Nombre/destino del hermano, ciudad, nota, activador y retorno fino siguen pendientes. Ver [[02_Characters/Nereo_Volpi]] y [[02_Characters/Matteo_Bellacorte]].
 
 - **LA MESA / COLE — CANON DEL AUTOR (2026-09-12):** seis asientos familiares, seis votos y Valenti sin voto: Chiara Ardizzone Bellandi, Vittorio Lusardi, Cesare Bellacorte, Livia Rinaldi, Adriana Ventresca y Ottavio Fioravanti. Simetría de tres mujeres/tres hombres; Chiara es la única joven y su asiento queda bajo evaluación. Cole entra al radar por Chiara y se vuelve problema propio por la autoridad local que construye sin miedo; en Interregno, La Mesa intentará reconocerlo condicionalmente o tratarlo como rival. Precio y rechazo concretos siguen pendientes. Ver [[03_Factions/Il_Consorzio]].

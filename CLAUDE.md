@@ -56,8 +56,9 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 - `98_Agent_Handoff/`: relevo compacto entre agentes.
 - `00_Biblia/00_Trilogy_Structure.md`: **arquitectura macro de la trilogia — manda sobre 01_Timeline y Hitos en cualquier conflicto de escala o frontera entre libros.**
 - `00_Biblia/`: vision, temas, principios y reglas del mundo.
-- `01_Timeline/00_Estructura_del_Ascenso.md`: fases del ascenso. **Pendiente de reconciliar con la trilogia.**
-- `01_Timeline/01_Primer_Borrador_Beats.md`: 90 beats macro. **Pendiente de reconciliar con la trilogia.**
+- `01_Timeline/00_README.md`: protocolo de la linea temporal macro y separación respecto de los `Book_Map`.
+- `01_Timeline/01_Indice_Cronologico.md`: continuidad de los cinco libros.
+- `01_Timeline/02_Libro_01_Seda_y_Polvora.md` a `06_Libro_05_Camino_A_Casa.md`: acontecimientos principales por libro, sólo enunciados.
 - `06_Relationships/Kal_y_Chiara.md`: arquitectura de la relacion.
 - `06_Relationships/Hitos.md`: hitos obligatorios del autor. **H22 se movio a Voto de Ceniza (Libro II); revisar ubicaciones antes de citar.**
 - `06_Relationships/Momentos_de_Fractura.md`: conflictos que casi lo rompen todo.

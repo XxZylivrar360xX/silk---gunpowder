@@ -9,6 +9,8 @@ Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni
 **Los IDs se asignan en orden de recepción, no cronológico.** Son etiquetas estables para poder citarlas desde otros archivos sin renombrar nada. **Los IDs H2, H3, H4, H5, etc. no se renumeran para volverlos cronológicos.** Los hitos de la consolidación de cronología recibieron IDs el 2026-08-29: **H14** El loft del soltero · **H15** La noche del jacuzzi · **H16** El cumpleaños / la mudanza · **H17** Italia / Mesa de las Familias · **H18** El regreso de Palermo · **H19** El asalto a Camp Alder · **H20** Consecuencia: Halbrook / prisión militar / Lucia · **H21** Mi pareja. El siguiente ID libre se asignó el 2026-08-31: **H22 — Los primeros pasos**. El orden de la historia va aparte:
 
 > **CONSOLIDACIÓN DE CRONOLOGÍA RELACIONAL (2026-08-29, CANON DEL AUTOR).** El autor redefinió el orden del arco temprano de Kal y Chiara. Esta tabla y las notas de posición de cada hito **superseden** cualquier posición anterior incompatible. Cambios principales: **H9** se adelanta a entre H3 y H12; **El loft del soltero** se separa de H12 como hito propio; **H10 → H4 → H11** en ese orden (la primera intimidad, H11, ocurre *después* de H10 y H4); **La noche del jacuzzi** se separa de H5 como hito propio, inmediatamente antes de H5; **H5 deja de ser "El hipódromo" y pasa a ser "San Aurelio"**; la **mudanza oficial** se retrasa al cumpleaños de Chiara; **"Mi pareja"** (formalización verbal) ocurre muy tarde, después de Palermo y del asalto a Camp Alder. Progresión emocional: `confianza → protección → espacio → conocimiento → intimidad → apertura → amenaza → lealtad → hogar → fricción → riesgo de pérdida → nombre`. Ver el encargo completo en [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_CONSOLIDAR_NUEVA_LINEA_TEMPORAL_RELACIONAL]].
+>
+> **ACTUALIZACIÓN DE POSICIÓN (2026-09-20, CANON DEL AUTOR — sustituye la frase de arriba sobre "Mi pareja").** "Mi pareja" (H21) **ya NO ocurre después de Palermo y de Camp Alder**: el autor decidió adelantarla al cierre de la Parte II, inmediatamente después de "La periferia" (Cap. 32), como Cap. 33 — **escrita en prosa el mismo día** (BORRADOR, pendiente de revisión del autor). Razón: dejar la Parte III — Ardizzone enteramente reservada al arco paralelo Kal (administración criminal junto a Dario, El Patio) / Chiara (Il Consorzio reclamándola como Ardizzone), que ahora incluye el cumpleaños/mudanza (H16), el pañuelo (H13), Italia (H17), el regreso (H18) y Camp Alder (H19-H20). El ID **H21 no cambia** (los IDs son estables, no cronológicos); sólo se mueve su fila en la tabla de orden, de la posición 21 a la 15. Ver tabla actualizada abajo y la sección propia de H21.
 
 | Orden en la novela | Hito |
 |---|---|
@@ -28,13 +30,15 @@ Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni
 | 12 | **H5** — San Aurelio *(Kal sale de la ciudad; "me encuentro bien"; confrontación Varek–Chiara — arco de la tensión, parte 1)* |
 | 13 | **H6** — El pacto *(arco de la tensión, parte 2)* |
 | 14 | **H7** — El río *(arco de la tensión, parte 3 — el cierre; pareja de facto sin etiqueta)* |
-| 15 | **H16 — El cumpleaños / la mudanza oficial** *(Chiara se muda con Kal el día de su cumpleaños; porque lo eligen)* |
-| 16 | **H13** — El pañuelo *(Il Consorzio la intercepta saliendo de la iglesia; el pañuelo y la bala; gatillo del viaje a Palermo)* |
-| 17 | **H17 — Italia / Mesa de las Familias** *(viajan juntos a Palermo; la Mesa golpea la relación)* |
-| 18 | **H18 — El regreso de Palermo** *(vuelven separados y con fricción; sin ruptura)* |
-| 19 | **H19 — El asalto a Camp Alder** *(Kal no entra a ver a Chiara para poder cumplir la misión; se entrega para cubrir a Héctor y Nadir)* |
-| 20 | **H20 — Consecuencia: Halbrook / prisión militar / Lucia** *(Halbrook lo saca por un trato; Chiara acude a Lucia, que registra que lo suyo excede los negocios)* |
-| 21 | **H21 — Mi pareja** *(formalización verbal de Kal y Chiara)* |
+| — | *(capítulo puente, sin ID: [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/32_La_Periferia|La periferia]], Cap. 32 — primera consecuencia lateral del pacto con Varek sellado en H6; Kenji/Marisol)* |
+| 15 | **H21 — Mi pareja** *(formalización verbal de Kal y Chiara; Cap. 33, BORRADOR — escrito 2026-09-20. Adelantada aquí 2026-09-20 — ver nota de posición arriba)* |
+| — | **· · · CORTE PARTE II → PARTE III (Ardizzone) · · ·** *(fijado 2026-09-20, autor: la Parte II cierra con H7 + "La periferia" (Cap. 32) + H21 "Mi pareja" (Cap. 33); la Parte III arranca con H16 — el cumpleaños/mudanza.)* |
+| 16 | **H16 — El cumpleaños / la mudanza oficial** *(Chiara se muda con Kal el día de su cumpleaños; porque lo eligen)* |
+| 17 | **H13** — El pañuelo *(Il Consorzio la intercepta saliendo de la iglesia; el pañuelo y la bala; gatillo del viaje a Palermo)* |
+| 18 | **H17 — Italia / Mesa de las Familias** *(viajan juntos a Palermo; la Mesa golpea la relación)* |
+| 19 | **H18 — El regreso de Palermo** *(vuelven separados y con fricción; sin ruptura)* |
+| 20 | **H19 — El asalto a Camp Alder** *(Kal no entra a ver a Chiara para poder cumplir la misión; se entrega para cubrir a Héctor y Nadir)* |
+| 21 | **H20 — Consecuencia: Halbrook / prisión militar / Lucia** *(Halbrook lo saca por un trato; Chiara acude a Lucia, que registra que lo suyo excede los negocios)* |
 
 *Anclas de la Parte II, fijadas por el autor 2026-08-29:* **F4 — Año Nuevo en Washington** (cumpleaños de Kal, 1 de enero) → **F3 — Los frenos** (después de Año Nuevo) → **H8 — El incendio, la mentira y la villa** (después de F3). La posición de este bloque F4→F3→H8 respecto a Italia (17), el regreso de Palermo (18), Camp Alder (19) y "Mi pareja" (21) sigue por afinar. *(F3 y F4 son Momentos de Fractura, no hitos; por eso no llevan número de fila.)*
 
@@ -2176,7 +2180,7 @@ Regla de [[06_Relationships/Kal_y_Chiara]]: lo que los salva siempre es algo que
 
 # H16 — El cumpleaños / la mudanza oficial
 
-> **CANON DEL AUTOR (2026-08-29).** Ocurre **después de [[#H7 — El río]]**. **ID: H16** (asignado 2026-08-29).
+> **CANON DEL AUTOR (2026-08-29).** Ocurre **después de [[#H7 — El río]]**. **ID: H16** (asignado 2026-08-29). **Posición actualizada (2026-09-20):** también después de "La periferia" (Cap. 32) y de [[#H21 — Mi pareja]] (Cap. 33), que ahora cierran la Parte II — H16 abre la Parte III. Ver tabla de orden arriba.
 
 El día del **cumpleaños de Chiara** (23 de noviembre), **Chiara se muda oficialmente con Kal.** Éste es el momento real de convivencia.
 
@@ -2286,7 +2290,7 @@ En H6, Kal le prometió a Varek *"una entrada a Camp Alder"* para sacar **armame
 
 Kal llega al casino. **Puede entrar a ver a Chiara. No entra.** Porque sabe que **si entra y la ve, ella lo detendrá y él no hará la misión.**
 
-> Esto demuestra cuánto peso tiene ella sobre sus decisiones **antes incluso de que pronuncien "pareja"** ([[#H21 — Mi pareja]] ocurre después de todo esto).
+> Esto demuestra cuánto peso tiene ella sobre sus decisiones **incluso ya siendo pareja declarada** — [[#H21 — Mi pareja]] se adelantó (2026-09-20) al cierre de la Parte II y ya ocurrió antes de esto. El peso no nace de la etiqueta: la etiqueta sólo lo confirma.
 
 ## La misión y el escape
 
@@ -2379,9 +2383,10 @@ La redacción final de la explicación emocional de Kal queda abierta. No debe c
 
 ## Estado y posición
 
-- **ID:** H21 (asignado 2026-08-29).
-- **Posición canon (2026-08-29):** ocurre **después de** H5–H7, del [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños/mudanza]], del [[#H17 — Italia / Mesa de las Familias|viaje a Italia]], del [[#H18 — El regreso de Palermo|regreso con fricción]], del [[#H19 — El asalto a Camp Alder|asalto a la base]], del arresto militar y de la [[#H20 — Consecuencia: Halbrook / prisión militar / Lucia|intervención de Lucia]]. Es el **puesto 21** de la tabla de orden narrativo (ID **H21**). El retraso es intencional: Kal y Chiara han sido pareja **por conducta** durante mucho tiempo antes de etiquetarla; formalizar no crea la pareja, sólo le pone nombre.
-- **Estado:** CANON DEL AUTOR; diálogo final (redacción de la explicación emocional de Kal) y colocación fina aún pendientes.
+- **ID:** H21 (asignado 2026-08-29). Los IDs no se renumeran; sólo cambió su posición en la tabla de orden.
+- **Posición canon (ACTUALIZADA 2026-09-20, decisión del autor — sustituye la posición fijada 2026-08-29):** ya NO ocurre después de H16-H20. Ahora cierra la **Parte II**, inmediatamente después de "La periferia" (Cap. 32) — es el **Cap. 33**. Ocurre después de H5–H7 (San Aurelio, el pacto, el río) y antes de [[#H16 — El cumpleaños / la mudanza oficial|H16 — el cumpleaños/mudanza]], que abre la Parte III — Ardizzone. Es el **puesto 15** de la tabla de orden narrativo (ID **H21**). **Razón del adelanto:** dejar la Parte III enteramente dedicada al arco paralelo Kal (administración criminal junto a Dario) / Chiara (Il Consorzio reclamándola como Ardizzone), sin que una escena de formalización de pareja interrumpa ese registro. El retraso frente a H2-H7 sigue siendo intencional — han sido pareja **por conducta** durante mucho tiempo antes de etiquetarla; formalizar no crea la pareja, sólo le pone nombre — sólo se acortó el tramo posterior: ya no espera a Italia, Palermo, Camp Alder ni la intervención de Lucia.
+- **Posición canon anterior (2026-08-29, HISTÓRICA — ya no vigente):** ocurría después del [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños/mudanza]], del [[#H17 — Italia / Mesa de las Familias|viaje a Italia]], del [[#H18 — El regreso de Palermo|regreso con fricción]], del [[#H19 — El asalto a Camp Alder|asalto a la base]] y de la [[#H20 — Consecuencia: Halbrook / prisión militar / Lucia|intervención de Lucia]] — puesto 21 de la tabla. Se conserva aquí sólo por trazabilidad.
+- **Estado:** CANON DEL AUTOR; **escrito en prosa (2026-09-20, Claude Code)** en [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/33_Mi_Pareja|Cap. 33 — Mi pareja]], `Estado: BORRADOR`, pendiente de revisión del autor. Apertura por residuo del Cap. 32 (Kal hace seguimiento del episodio Marisol/Kenji semanas después; Marisol lo detecta y le devuelve la jugada con "Lo haré cuando tú pongas el ejemplo" — DISEÑO nuevo de esta sesión, dispara la pregunta canon de Chiara). El ritual del Ciao (abajo) **no se dramatizó** en este capítulo — la llamada de esta escena es a tres, con Nadir en altavoz, no la "primera llamada telefónica entre los dos" que el ritual requiere.
 
 ## El ritual del *Ciao* — nace aquí
 

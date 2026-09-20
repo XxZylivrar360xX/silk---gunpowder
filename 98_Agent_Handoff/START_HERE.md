@@ -29,8 +29,8 @@ No leer `log.md` completo. Usar `rg` sobre `log.md` si hace falta ubicar una ses
 | Mapa del vault | `INDEX.md` |
 | Tesis de la novela | `00_Biblia/Vision.md` |
 | Reglas de escritura | `00_Biblia/Principios_Narrativos.md` |
-| Fases | `01_Timeline/00_Estructura_del_Ascenso.md` |
-| Outline macro | `01_Timeline/01_Primer_Borrador_Beats.md` |
+| Línea temporal macro | `01_Timeline/00_README.md` y `01_Timeline/01_Indice_Cronologico.md` |
+| Acontecimientos por libro | `01_Timeline/02_Libro_01_Seda_y_Polvora.md` a `06_Libro_05_Camino_A_Casa.md` |
 | Kal/Chiara | `06_Relationships/Kal_y_Chiara.md` |
 | Hitos canon | `06_Relationships/Hitos.md` |
 | Fracturas | `06_Relationships/Momentos_de_Fractura.md` |

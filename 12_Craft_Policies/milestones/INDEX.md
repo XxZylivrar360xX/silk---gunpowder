@@ -46,12 +46,14 @@ Si una escena nueva cambia de forma irreversible una relacion, deuda, ritual o j
 
 ## Parte II tardía — familia y H1
 
-> **Mi pareja** (formalizacion verbal) se movio a esta zona el 2026-08-29: cae despues de H5-H7, la mudanza, Italia, el regreso de Palermo, el asalto a Camp Alder y la intervencion de Lucia — no en Fase III.
+> **CORREGIDO (2026-09-20):** la nota de abajo describía la posición de "Mi pareja" fijada 2026-08-29 (después de Palermo y Camp Alder). El autor la adelantó ese mismo día al cierre de la Parte II — ver entrada 24-a. Se conserva la descripción vieja tachada por trazabilidad.
+>
+> ~~**Mi pareja** (formalizacion verbal) se movio a esta zona el 2026-08-29: cae despues de H5-H7, la mudanza, Italia, el regreso de Palermo, el asalto a Camp Alder y la intervencion de Lucia — no en Fase III.~~
 
-25. [[06_Relationships/Hitos#H21 — Mi pareja]] - formalización verbal; dejan de ser "esto" y pasan a tener nombre. Posicion canon fijada: puesto 21 de la tabla de orden, despues de Palermo y Camp Alder.
+24-a. [[06_Relationships/Hitos#H21 — Mi pareja]] - formalización verbal; dejan de ser "esto" y pasan a tener nombre. **Posición canon actualizada (2026-09-20):** cierra la Parte II, Cap. 33 (BORRADOR, escrito 2026-09-20) — ver [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/33_Mi_Pareja]]. Puesto 15 de la tabla de orden, inmediatamente después de "La periferia" (Cap. 32) y antes de H16 — el cumpleaños/mudanza, que ahora abre la Parte III — Ardizzone.
 26. [[06_Relationships/Hitos#H8 — El incendio, la mentira y la villa]] - queman el loft; Kal miente; el doble fondo y la caja de acero conservan bienes protegidos pero no el hogar; nace Villa Candelaria. Debe ocurrir antes de H1; posición fina frente a otros hitos de Parte II pendiente.
 27. Primera Navidad y collar - pendiente de escena; nace "RETORNA A CASA".
-28. [[06_Relationships/Hitos#H13 — El pañuelo]] - intercepcion de Il Consorzio en la iglesia; planta el viaje a Palermo. *(Posicion fijada 2026-08-29: puesto 16 de la tabla de orden, justo antes de H17 — Italia.)*
+28. [[06_Relationships/Hitos#H13 — El pañuelo]] - intercepcion de Il Consorzio en la iglesia; planta el viaje a Palermo. *(Posicion fijada 2026-08-29: puesto 16 de la tabla de orden, justo antes de H17 — Italia. Ahora puesto 17 tras el adelanto de H21 — ver `06_Relationships/Hitos.md`.)*
 29. [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Riley y la muerte de Mei-Lin]] - **Libro I**, después de que exista Villa Candelaria y con aire suficiente antes de H1; Riley sale por su conflicto propio y debe quedar establecida en Italia antes del nacimiento de Elenna. *(Corregido 2026-09-11: esta entrada decía "primer tramo de Parte III", después de H1 — contradecía [[00_Biblia/00_Trilogy_Structure]], que fija F2 en el Libro I.)*
 30. [[06_Relationships/Hitos#H1 — El regreso a casa]] - cierra el Libro I, ya en Villa Candelaria. Chiara confirmó el embarazo; Kal no lo sabe. Operación, piscina, Camila, baño, italiano y promesa cumplida. H1 termina sin reveal.
 31. [[06_Relationships/Hitos#Después de H1 — reveal a Kal, momento obligatorio por diseñar]] - después de que Kal queda fuera de peligro; diálogo y reacción textual pendientes. Cierra el Libro I (coda: Halbrook llega a San Aurelio).
