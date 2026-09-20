@@ -62,6 +62,25 @@ Antes de escribir una escena con dialogo, leer la ficha de voz de cada personaje
 
 Los dialogos deben hacer dos cosas a la vez: decir algo util en superficie y mover una lectura debajo. Si el dialogo solo informa al lector, se reescribe.
 
+### Acotaciones y tono
+
+El verbo de habla es funcional, no emocional. Por defecto es **"dijo"**; solo cambia cuando la forma o funcion del turno lo exige: **"pregunto"** para preguntas, **"repitio"** para una repeticion literal de algo ya dicho, **"contesto"/"respondio"** cuando el turno responde directamente algo (una llamada, una pregunta explicita del otro). Estos son los unicos reemplazos aceptados porque describen que hace el turno en la conversacion, no que siente quien habla. No se usan verbos que ya traen el tono incluido (susurro, espeto, mascullo, exclamo) como atajo para no escribir el tono.
+
+El tono —y con el, el sentimiento o humor del personaje en esa linea— no va en el verbo: va en una clausula corta pegada al tag, o se reemplaza por completo por un gesto fisico o una pausa en la misma linea. Esta es la unica via permitida para mostrar como se siente un personaje al decir algo; no hay una via aparte para "humor" o "emocion" que no pase por esta mecanica.
+
+- Clausula de tono: *—dijo, con calma*; *—dijo Kenji, con la voz baja, pareja*; *—dijo, con la irritacion de quien confirma algo que no queria confirmar*.
+- Gesto en vez de clausula: pausa marcada con raya larga y una accion fisica breve que reemplaza cualquier adjetivo ("Hizo una pausa breve, la unica concesion a lo incomodo que era decir esto en voz alta").
+
+La clausula de tono tiene que ganarse el lugar: describe una conducta o una cualidad de voz reconocible ("con la irritacion de quien confirma algo que no queria confirmar"), no pega una etiqueta generica de emocion ("dijo, con humor"; "dijo, feliz"; "dijo, con tristeza"). Una etiqueta generica es un adverbio en "-mente" disfrazado de clausula — mismo defecto, otra forma. El humor y el afecto se muestran igual que cualquier otro tono: por conducta especifica, nunca nombrados en abstracto. Esto extiende a toda escena con dialogo el principio ya fijado para el registro privado de Kal y Chiara ("el narrador no glosa": se muestra el gesto, el lector saca la conclusion).
+
+No se apilan las dos formas sobre el mismo turno (verbo ya cargado + clausula de tono + gesto): se elige una.
+
+Cuando el turno ya es inequivoco por el ritmo del intercambio (dos hablantes, alternancia establecida), se deja el dialogo sin tag. El tag vuelve cuando cambia quien habla de forma menos obvia, pasa tiempo o accion entre lineas, o hace falta anclar el tono para que no se pierda.
+
+Regla dura: ningun adverbio en "-mente" pegado al verbo de habla como sustituto del tono real — es tic, no caracterizacion (ver auditoria en `editorial/PILOT_01_10.md`).
+
+**Excepcion:** un verbo cargado de tono se permite cuando describe una accion fisica real y verificable del habla (alguien que de hecho baja la voz hasta el susurro, alguien que de hecho grita), no como interpretacion emocional del narrador para ahorrarse mostrar la escena.
+
 ## Registro privado de Kal y Chiara
 
 La voz seca del libro **se afloja en escena privada de Kal y Chiara** — cocinas, coches, camas, madrugadas tras las cuatro paredes. En publico se tratan como lo que la ciudad cree que son y no hay afecto; puertas adentro, frases mas largas, silencios mas demorados, gestos que una escena publica no gastaria pagina en mirar, y apodos en italiano de parte de ella (*amore*, *bello*).

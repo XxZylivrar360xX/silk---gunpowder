@@ -9,14 +9,17 @@ Funcion: DISEÑO NUEVO de esta sesion, a peticion del autor. Segundo escalon de 
 
 - REGLA ESTRUCTURAL: no se repite el interrogatorio de Auster. Lucia no vuelve a sospechar del Peugeot ni a reconstruir la coartada — parte de que ya sabe que no puede leer a Kal de forma simple, y ahora quiere comprobar si puede usar lo que el sabe. Auster se menciona una sola vez, de forma oblicua, sin resumirlo para el lector.
 - CASO USADO: conflicto ya sembrado en [[03_Factions/Mapa_de_Conflicto_Activo]] y [[03_Factions/Los_Bravos_de_Santa_Brigida]] — Los Bravos cobran proteccion a talleres que Los Calderos consideran suyos. Objetivo del capitulo: Eddie Sosa (musculo visible de Los Bravos, ya fichado), cobrando proteccion todos los jueves a un taller de neumaticos en Las Calderas — no Rafe Dominguez, que queda sin quemar, tal como pide el encargo. El dueno del taller es un personaje nuevo y minimo, "Portillo", sin ficha propia, mencionado solo por Hector — no requiere ficha de personaje para funcionar.
-- Kal no fabrica nada: lugar, dia, hora aproximada y que Eddie Sosa carga un arma sin registrar a la vista son datos reales, verificables sin el. No entrega gente del Patio, no entrega a Nadir, Hector, Danny o Walt como fuente, no pide nada a cambio salvo, al final, un canal directo.
+- Kal no fabrica nada: lugar, dia, hora aproximada y que Eddie Sosa carga algo al cinto a la vista son datos reales, verificables sin el. No entrega gente del Patio, no entrega a Nadir, Hector, Danny o Walt como fuente, no pide nada a cambio salvo, al final, un canal directo.
+- CORREGIDO (2026-09-20, nota del autor): se genericizo "arma sin registrar"/"arma sin papeles" en las dos apariciones de prosa (el chisme de Danny y la linea de Lucia) para no fijar una categoria juridica innecesaria — ver texto vigente. Tambien se suavizo "pensando en voz baja" en la coda (implicaba casi hablar) por "dandole vueltas a algo que no dijo todavia".
 - Lucia no ofrece inmunidad, no promete borrar nada, no confirma sospechas que no puede probar. Dice explicitamente que lo que Kal entregue tiene que sobrevivir sin el. El primer canal de contacto es administrativo (renovacion del convenio de grua municipal, ya canon en la ficha de Almendra Towing) — ella lo usa de pretexto real, no inventado, para verlo sin que nadie lea la visita como otra cosa.
-- Kal NO le pregunta nunca por Dario Varek. Lucia lo nota una sola vez, al final, sin necesitar preguntar por que — el capitulo no explica la ironia (Kal esta a punto de empezar a operar cerca de la estructura de Dario en la Parte III); solo la deja sembrada.
+- Kal NO le pregunta nunca por Dario Varek, y el capitulo tampoco lo menciona: Vivian Varek, Dario Varek, Camp Alder y Halbrook no aparecen ni se mencionan.
 - Registro: "usted" entre ambos durante todo el capitulo — no hay progresion a "tu"; la distancia profesional es parte del punto. Tono: respeto tecnico, desconfianza, humor seco puntual, ninguna amistad.
 - No aparecen Marisol, Kenji, Kenji/Marisol como pareja, ni el episodio del Cap. 33 (La periferia). No se menciona "novia" ni ninguna etiqueta de relacion. La coda con Chiara es domestica y minima: ella se entera de que el canal existe, no celebra ni protesta, lo archiva.
-- Vivian Varek, Dario Varek, Camp Alder y Halbrook no aparecen ni se mencionan.
-- REGLA DE DIALOGO aplicada: verbos de habla funcionales (dijo/pregunto/contesto/respondio), tono en clausula corta o gesto, nunca ambos apilados, sin adverbios en "-mente" — ver [[12_Craft_Policies/Redaccion_De_Capitulos#Acotaciones y tono]]. Se evito a proposito el patron "interrogatorio terapeutico escalonado" y el cierre en "antitesis limpia" (ver `12_Craft_Policies/dialogue_rules/`): ninguno de los dos resume al otro con precision perfecta; el intercambio final se cierra con un objeto (la tarjeta) y una frase incompleta, no con una formula.
+- REGLA DE DIALOGO aplicada: verbos de habla funcionales (dijo/pregunto/contesto/respondio), tono en clausula corta o gesto, nunca ambos apilados, sin adverbios en "-mente" — ver [[12_Craft_Policies/Redaccion_De_Capitulos#Acotaciones y tono]]. Se evito a proposito el patron "interrogatorio terapeutico escalonado" y el cierre en "antitesis limpia" (ver `12_Craft_Policies/dialogue_rules/`): ninguno de los dos resume al otro con precision perfecta; la escena de Lucia cierra en el objeto (la tarjeta), sin formula de cierre.
+- CORTADO (2026-09-20, nota del autor): la version original de este capitulo cerraba la escena de Lucia con ella notando "Nunca me ha preguntado por mi padre" / Kal contestando "No es por eso que hablo con usted". El autor la quito: en este punto no hay causa dramatica para que Lucia saque a Dario (Kal no la ha usado para nada relacionado con el, y la metadata de este mismo capitulo ya prohibia mencionarlo) y la linea contradecia su propia regla estructural. **Movimiento reservado para la Parte III** con mejor causalidad (ver DISEÑO abajo) — no escrito todavia.
 -->
+
+> **DISEÑO RESERVADO PARA PARTE III (2026-09-20, idea del autor, no escrito):** cuando Kal empiece a aparecer publica o semipublicamente como la persona que Dario usa para coordinar problemas entre bandas, Lucia empezara a encontrarse el nombre de Mercer en lugares extraños sin tener todavia un delito claro que ponerle encima. Ahi si, con evidencia acumulada de meses de linea directa sin que Kal la haya usado nunca para llegar a su padre, Lucia puede observarlo en voz alta: *"—Hay algo que no entiendo de usted. —La lista es larga. —Tiene contacto con mi padre. Tiene contacto conmigo. Nunca ha intentado utilizar uno para llegar al otro."* Kal: *"—Porque son dos relaciones distintas."* — declaracion sobre como Kal administra personas (no convierte automaticamente un vinculo en palanca sobre otro) que Lucia puede recordar años despues al preguntarse cuanto sabia Kal sobre Dario. No fijar capitulo ni fecha todavia; anotar tambien en `06_Relationships/Hitos.md` o `98_Agent_Handoff/PENDING.md` si se quiere proteger la idea para cuando se diseñe la Parte III.
 
 # Capítulo 32 — Línea directa
 
@@ -130,7 +133,7 @@ Lo archivó, junto con el resto, y volvió al taller.
 
 Le llegó por partes, como suelen llegar esas cosas.
 
-Primero fue Héctor, un jueves más tarde, comentando que la llantera de Portillo había vuelto a abrir hasta la hora de siempre. Después fue Danny, que había pasado por ahí a comprar una banda y contó, sin que nadie le preguntara, que había una franja de cinta amarilla despegándose de un poste a media cuadra, y que alguien en la esquina decía que se habían llevado a "uno de los de Rafe" con un arma que no tenía papeles.
+Primero fue Héctor, un jueves más tarde, comentando que la llantera de Portillo había vuelto a abrir hasta la hora de siempre. Después fue Danny, que había pasado por ahí a comprar una banda y contó, sin que nadie le preguntara, que había una franja de cinta amarilla despegándose de un poste a media cuadra, y que alguien en la esquina decía que se habían llevado a "uno de los de Rafe" por el arma que llevaba.
 
 Kal no fue a ver la escena. No hacía falta.
 
@@ -152,7 +155,7 @@ Kal no discutió el punto. Estaba limpiando una llave que ya estaba limpia, más
 
 —¿Y ahora qué?
 
-—Ahora nada. Un hombre con un arma sin registrar menos en la calle, una extorsión menos sostenida por miedo, y un expediente que se sostiene solo cuando alguien lo revise. —Lo dijo sin orgullo, como quien lee un resultado, no como quien lo celebra—. Eso no significa que confíe en usted.
+—Ahora nada. Un arma menos en la calle, una extorsión que ya puedo sostener y un expediente que aguanta una revisión. —Lo dijo sin orgullo, como quien lee un resultado, no como quien lo celebra—. Eso no significa que confíe en usted.
 
 —Yo tampoco confío en usted.
 
@@ -174,19 +177,7 @@ Sacó una tarjeta del bolsillo de la chaqueta —lisa, sin escudo, con un númer
 
 Kal la tomó y la guardó sin mirarla dos veces.
 
-—¿Por qué?
-
-—Porque prefiero perder cinco minutos con usted que tres semanas con un reporte que no dice nada. —Se acomodó la chaqueta, lista para irse—. Una cosa más.
-
-—¿Qué?
-
-—Nunca me ha preguntado por mi padre.
-
-Kal no apartó la vista de la llave que acababa de colgar.
-
-—No es por eso que hablo con usted.
-
-Lucia no insistió. Se quedó con eso un segundo más del que hacía falta, como quien archiva algo que todavía no sabe dónde clasificar, y se fue sin ofrecerle la mano, igual que la primera vez.
+Lucia se acomodó la chaqueta y se fue sin ofrecerle la mano, igual que la primera vez.
 
 ***
 
@@ -206,7 +197,7 @@ Chiara no bajó la copa de inmediato.
 
 —De alguien que no me debe nada. —Se encogió de hombros, casi—. Se resolvió sin que Héctor tuviera que romperle nada a nadie.
 
-Chiara se quedó con la copa a medio camino, pensando en voz baja lo que fuera que estuviera pensando, y no lo dijo todavía.
+Chiara se quedó con la copa a medio camino, dándole vueltas a algo que no dijo todavía.
 
 —Una Varek con línea directa a ti.
 
