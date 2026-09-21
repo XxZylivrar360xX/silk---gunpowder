@@ -29,7 +29,7 @@ Nereo es su reverso negable. No sustituye a Valenti ni recibe voto propio. Hace 
 
 ## Participación en Libro I — *Seda y Polvora*
 
-El primer trabajo de Nereo que afecta la novela no ocurre en San Aurelio: desaparece al hermano de [[02_Characters/Matteo_Bellacorte|Matteo Bellacorte]] en una ciudad todavía por definir. No deja cadáver ni una escena que pueda volverse denuncia; deja una nota destinada a obligar a Matteo a salir de San Aurelio para buscarlo.
+El primer trabajo de Nereo que afecta la novela no ocurre en San Aurelio: desaparece a [[02_Characters/Elio_Bellacorte|Elio Bellacorte]], hermano de [[02_Characters/Matteo_Bellacorte|Matteo Bellacorte]], en **Génova, Italia** (ciudad resuelta y corregida 2026-09-20). No hay violencia mostrada ni cadáver: Elio rompe una rutina que jamás rompe (deja de responder, falta a dos compromisos profesionales seguidos), y una pieza de información privada distinta llega a Matteo y lo convence de que esto no se resuelve por teléfono — esa nota nunca la ve Chiara ni el lector en Parte III.
 
 Su función narrativa es podar a Matteo del Libro I sin convertirlo en traidor, muerto o irrelevante: demuestra que incluso una familia con asiento puede perder una pieza si deja de ser funcional para el orden.
 
@@ -43,7 +43,9 @@ La ejecución de [[02_Characters/Raymond_Keene|Raymond Keene]] es el punto en qu
 
 Ahí empieza a disiparse la lealtad de Volpi hacia La Mesa. No rompe de inmediato ni deja de aprovechar su cobertura: aprende que puede usar la institución como máscara sin aceptar que la institución decida todos sus límites. Varek cree que lo está liberando de una obediencia para convertirlo en herramienta propia; en realidad, está enseñándole a no reconocer ninguna correa como permanente.
 
-> **PENDIENTE:** nombre y oficio del hermano; ciudad de la desaparición; qué descubrió; texto exacto de la nota; quién dentro de La Mesa activó la contingencia y si Nereo informó a Valenti antes o sólo después; ubicación, mecanismo y consecuencias inmediatas del segundo atentado contra Chiara/Fabrizio.
+> **RESUELTO (2026-09-20, decisión del autor — corregido el mismo día).** El hermano se llama **Elio Bellacorte**, introvertido y analítico — el contraste con Matteo: *"Matteo abre la puerta, extrovertido y social. Elio descubre qué hay detrás, introvertido y analítico."* Ambos operan negocios lícitos y grises: Matteo construye relaciones, Elio construye estructuras — es el arquitecto financiero y societario de los negocios Bellacorte (adquisiciones, holdings, contratos, rutas comerciales, participaciones), no un contador de la mafia. Opera desde Génova. Ver [[02_Characters/Elio_Bellacorte]].
+
+> **PENDIENTE:** qué descubrió Elio exactamente; texto exacto de la nota; quién dentro de La Mesa activó la contingencia y si Nereo informó a Valenti antes o sólo después; ubicación, mecanismo y consecuencias inmediatas del segundo atentado contra Chiara/Fabrizio.
 
 ## Participación en Libro III — *Cuentas de Sangre*
 
@@ -53,7 +55,7 @@ Su amenaza para Matteo es personal: la desaparición del hermano no fue una exce
 
 La verdad de su lealtad a Varek se revela hasta que Varek ya está encarcelado, en Libro III. La ausencia del hombre que lo manejaba cambia la lectura de las contingencias anteriores: **ya nadie sostiene la correa de Volpi.** No anticipar esa relación en los Libros I o II con pruebas concluyentes ni con una explicación retrospectiva prematura.
 
-> **PENDIENTE:** condición y destino final del hermano; evidencia que trae Matteo; el encargo concreto contra Matteo o contra Kal y Chiara; y cómo Nereo cae, queda expuesto o pierde utilidad sin robar la resolución de la saga.
+> **PENDIENTE:** condición y destino final de Elio; evidencia que trae Matteo; el encargo concreto contra Matteo o contra Kal y Chiara; y cómo Nereo cae, queda expuesto o pierde utilidad sin robar la resolución de la saga.
 
 ### El patrón que la ciudad leyó mal
 
@@ -83,6 +85,7 @@ En *Cuentas de Sangre*, Volpi es el opuesto filosófico de Chiara: él usa infor
 - [[03_Factions/Il_Consorzio]] — herramienta clandestina de La Mesa.
 - [[02_Characters/Leone_Valenti]] — contraparte visible, no sustituto.
 - [[02_Characters/Matteo_Bellacorte]] — su primer blanco narrativo indirecto.
+- [[02_Characters/Elio_Bellacorte]] — blanco directo: su desaparición es la contingencia que pone en marcha todo el arco de Matteo.
 - [[02_Characters/Fabrizio_Rinaldi]] — blanco directo bajo coerción; el atentado contra él vuelve a Chiara daño colateral no planeado.
 - [[02_Characters/Chiara_Bellandi]] — contraste ético y técnico de su oficio.
 - [[02_Characters/Dario_Varek]] — superior secreto hasta que su encarcelamiento deja a Volpi sin correa; revelación reservada para Libro III.

@@ -40,7 +40,13 @@ El regreso debe cargar dos cosas a la vez: la búsqueda ya le reveló que su fam
 
 Dentro del macroarco de *Cuentas de Sangre*, Matteo no vuelve sólo para entregar un dato: es el testigo humano de una ausencia que Volpi quiso volver administrativa. Su regreso tiene que ayudar a que Chiara pueda enlazar las desapariciones, coerciones y asesinatos que la ciudad leyó como hechos aislados. **Cómo llega a esa pieza, por qué puede volver entonces y qué costo trae consigo siguen PENDIENTE.**
 
-> **PENDIENTE:** nombre, oficio y destino del hermano; ciudad de la desaparición; texto exacto de la nota; el miembro o voto de La Mesa que activa a Nereo; qué logra descubrir Matteo y en qué momento exacto vuelve en Libro III.
+> **NOMBRE, CIUDAD Y OFICIO RESUELTOS (2026-09-20, decisión del autor — segunda corrección, sustituye la versión con "Valencia, España" y "auditor de manifiestos" de la misma fecha).** El hermano se llama **[[02_Characters/Elio_Bellacorte|Elio Bellacorte]]** — contraste deliberado con Matteo: *"Matteo abre la puerta, extrovertido y social. Elio descubre qué hay detrás, introvertido y analítico."* Ambos operan negocios lícitos y grises: **Matteo construye relaciones, Elio construye estructuras** — es el arquitecto financiero y societario de los negocios Bellacorte (adquisiciones, holdings, contratos, rutas comerciales, participaciones), no un contador de la mafia. Opera desde **Génova, Italia** — sin que eso implique que los Bellacorte sean genoveses; es sólo donde desarrolla esa parte del negocio familiar (comercio, sociedades, importación/exportación, logística portuaria). Génova da una Italia distinta de Palermo y hace creíble el cruce lícito/ilícito.
+
+> **CÓMO DESAPARECE — la superficie, no el mecanismo (2026-09-20):** Elio rompe una rutina que jamás rompe — deja de responder a Matteo y falta a dos compromisos profesionales consecutivos. Su oficina en Génova sigue funcionando, sus cosas siguen ahí, sin explicación limpia. Matteo recibe además una pieza de información privada (distinta de la carta que deja en el Monarch) que lo convence de que esto no se resuelve por teléfono — **esa nota no la ve Chiara ni el lector en Parte III.**
+
+> **PENDIENTE:** destino final de Elio; texto exacto de esa nota privada; el miembro o voto de La Mesa que activa a Nereo; qué logra descubrir Matteo y en qué momento exacto vuelve en Libro III.
+
+> **Escrito en prosa (2026-09-20, Claude Code; actualizado el mismo día tras resolverse nombre/ciudad):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35 — Sin fecha de regreso]], BORRADOR, dramatiza su salida abrupta (referida, no en escena — Matteo no aparece): la nota funcional que deja (ya con el núcleo canon "Elio desapareció. Tengo que volver a Génova...") y el diálogo del despacho nombran a Elio y a Génova. Su oficio y qué descubrió siguen sin mencionarse en prosa — permanecen `[PENDIENTE]`.
 
 ## Reglas de escritura
 
@@ -54,6 +60,8 @@ Dentro del macroarco de *Cuentas de Sangre*, Matteo no vuelve sólo para entrega
 - [[02_Characters/Kal_Mercer]] - lo conoce antes que los otros socios y lo invita al Monarch.
 - [[02_Characters/Chiara_Bellandi]] - socia / enlace italiana recien llegada; la recoge en Kingsley Field.
 - [[02_Characters/Dario_Varek]] - socio mayoritario local; Matteo opera bajo una arquitectura de poder que Dario controla.
+- [[02_Characters/Elio_Bellacorte]] - su hermano; su desaparición en Valencia es lo que saca a Matteo de San Aurelio.
+- [[02_Characters/Nereo_Volpi]] - ejecutor extraoficial detrás de la desaparición de Elio, sin que Matteo lo sepa.
 - [[03_Factions/El_Casino]] - su posicion institucional.
 
 ## Pendientes

@@ -38,7 +38,7 @@ La V1 se conserva como baseline; V1.1 cambia heurísticas y severidades, no la p
 - Resultado V1.1: **bajó** — LONG_DIALOGUE_INTERVENTION · MEDIUM
 - Motivo técnico: La severidad usa palabras habladas estimadas; un parlamento aislado nunca es HIGH.
 
-### 04_La_Primera_Llamada.md:469 · `SHORT_PARAGRAPH_CLUSTER`
+### 04_Tarifa_Nocturna.md:469 · `SHORT_PARAGRAPH_CLUSTER`
 
 - Resultado V1.1: **cambió** — SHORT_NARRATIVE_CLUSTER · MEDIUM
 - Motivo técnico: V1.1 clasifica la secuencia por proporción de diálogo y reserva HIGH para narración excepcional.

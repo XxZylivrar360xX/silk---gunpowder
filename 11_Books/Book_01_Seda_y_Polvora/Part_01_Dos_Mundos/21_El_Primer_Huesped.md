@@ -9,7 +9,7 @@ Apertura por residuo: arranca directo del cierre del Capitulo 20 -- la misma noc
 Punto de vista (ajustado 2026-09-07): tercera persona cercana, un POV fijo por bloque de escena, segun quien paga mas el costo -- llamada y trayecto: Kal. Loft y confesion de Marisol: Chiara (es ella quien hace el trabajo emocional; Kal se queda callado, asi que perder su interioridad ahi refuerza eso mismo). Mezzanine: Kal (es su linea, su promesa). Desayuno del sabado y despedida final: Chiara, cerrando con la cara de Kal descrita desde afuera, no desde su cabeza.
 -->
 
-# Capítulo 21 — La promesa
+# Capítulo 21 — El primer huésped
 
 El teléfono sonó a las tres y algo de la madrugada, en la oscuridad completa del penthouse.
 

@@ -3,6 +3,8 @@
 *Kal y Chiara - reconstruccion domestica despues de F1*
 
 > **CANON DE DISEÑO (2026-08-23):** adaptacion para *Seda y Polvora* del documento fuente `LOS_TRES_DIAS_CONTEXTO.md`, aportado por el autor desde Descargas. No se copian sucesos ni nombres de la continuidad original; se toma el ADN emocional: regresar no es lo mismo que volver a casa.
+>
+> **ACTUALIZADO (2026-09-20, decision del autor — segunda correccion, sustituye la nota "Palermo -> Camp Alder -> liberacion" de la misma fecha).** F1 conserva su detonante y lugar originales -la mentira bajo la lluvia, en Bellandi Ridge- pero con causa nueva: nace de la investigacion discreta de Chiara sobre la salida de Matteo (apertura de la Parte III) y del uso de Riley Bennett sin avisarle a Kal (ver [[06_Relationships/Momentos_de_Fractura]], F1, para la version vigente). F1 ocurre **antes** de H13 / Palermo / Camp Alder, no despues. La estructura de Dia 1 / Dia 2 / Dia 3 y su ADN emocional no cambian.
 
 **Que es:** los tres dias posteriores a [[06_Relationships/Momentos_de_Fractura]], F1 - La mentira bajo la lluvia.
 
@@ -32,14 +34,13 @@ En la logica de esta pareja, eso es mas importante que una reconciliacion dramat
 
 La fractura viene de F1:
 
-- Chiara ayuda a Elliot Price.
-- Se sobrecorrige al defenderlo.
-- Un auto de Kal queda dañado.
-- Ella intenta reparar el daño material y tapar la verdad.
-- Kal descubre la mentira.
-- Bajo la lluvia, en Bellandi Ridge, vestidos para una fiesta a la que ya no llegan, Kal le dice:
+- Despues de que Matteo se va de San Aurelio (apertura de la Parte III) con una explicacion razonable, Chiara no logra dejar la pregunta quieta y empieza a investigar discretamente, sin saber nada de Volpi, Varek ni La Mesa.
+- Obtiene una pista menor: la documentacion que hizo salir a Matteo no llego directamente desde Genova -paso antes por un servicio de mensajeria comercial de San Aurelio antes de llegar al Monarch. No prueba nada, pero le molesta. El vehiculo del mensajero queda registrado en una camara del Monarch (modelo, color, matricula, empresa). Chiara le pide a Riley Bennett encontrar el coche y decir quien lo usa -pidiendole que Kal no se entere todavia.
+- Kal le pregunta directamente algo equivalente a *"¿Supiste algo de Matteo?"* Chiara contesta *"Nada"* -mintiendo, porque ya tiene una pista y probablemente ya involucro a Riley.
+- Mientras Riley localiza el coche en Almendra Towing, un hombre la aborda sin amenaza explicita ("¿Buscas a alguien?" / "Entonces ya encontraste lo que buscabas") y despues otro coche la sigue varias calles antes de que lo pierda -el peligro se mueve al territorio de Kal, no al de Chiara. Eso la obliga a informarle a Kal. Kal reconstruye la mentira.
+- Bajo la lluvia, en Bellandi Ridge, vestidos para una fiesta a la que ya no llegan, Kal le dice (linea de trabajo, no fijada como dialogo canon):
 
-> **No me duele que lo hayas elegido a el. Me duele que me hayas mentido.**
+> **No estoy enojado porque hayas buscado a Matteo. Estoy enojado porque te pregunte y me mentiste.**
 
 Despues vienen tres dias.
 
@@ -203,11 +204,14 @@ Estos tres dias dejan una consecuencia concreta:
 
 **La pareja aprende que no basta con no irse. Hay que volver a ocupar el lugar.**
 
+> **RESTAURADO (2026-09-20):** con F1 de vuelta al inicio de la Parte III (antes de H13/Palermo/Camp Alder), esta seccion vuelve a leerse hacia adelante, como en el diseño original -F1 es ahora otra vez la primera de las cuatro fracturas:
+
 Eso prepara fracturas futuras:
 
-- en F4, cuando Kal se va a Washington, Chiara entiende mejor lo que cuesta que el lugar quede vacio;
-- en F3, cuando casi lo pierde todo con los frenos, Kal entiende que volver vivo no siempre depende de el;
-- en F2, cuando Riley desaparece y Mei-Lin muere, los dos ya saben que hay vacios que se habitan juntos o se vuelven grieta.
+- en **F4**, cuando Kal se va a Washington, Chiara entiende mejor lo que cuesta que el lugar quede vacio;
+- en **F3**, cuando casi lo pierde todo con los frenos, Kal entiende que volver vivo no siempre depende de el;
+- en **Camp Alder** (H19-H20), mas adelante en la misma Parte III, esta reconciliacion ya reparada es lo que permite que Kal y Chiara esten bien cuando Halbrook abre la ventana -ver [[06_Relationships/Momentos_de_Fractura]], F1, "Recuperacion antes de Camp Alder";
+- en **F2**, cuando Riley desaparece y Mei-Lin muere, los dos ya saben que hay vacios que se habitan juntos o se vuelven grieta.
 
 ---
 
@@ -278,17 +282,19 @@ Estos motivos pueden aparecer literal o quedar como guia de escena:
 | **Ya estamos** | Presencia compartida en el presente |
 | **Aqui duermo mejor** | Seguridad, vulnerabilidad, guardia baja |
 | **Todavia hay lugar** | La casa no lo expulso, pero tiene que volver a merecer habitarla |
-| **No era el auto** | Chiara entendio que reparo el objeto equivocado |
+| **No era la pista** | *(PENDIENTE, propuesta 2026-09-20)* Chiara entendio que el problema no era investigar a Matteo, sino habersele quedado callada a Kal |
+
+> **ACTUALIZADO (2026-09-20, segunda correccion):** F1 vuelve a Bellandi Ridge Vineyards, bajo la lluvia -ver "Punto de partida", arriba, y [[06_Relationships/Momentos_de_Fractura]], F1. El motivo original **"No era el auto"** (ligado a Elliot Price) sigue retirado; se propone como equivalente **"No era la pista"**, sin fijar todavia si se usa literal en dialogo o solo como guia de escena.
 
 ---
 
 ## Pendientes
 
-- Decidir si estos tres dias ocurren en [[05_Locations/La_Casa]], [[05_Locations/El_Penthouse]] o [[05_Locations/Bellandi_Ridge_Vineyards]].
-- Definir que auto se daño en F1.
 - Decidir si Kal duerme fuera de la cama la primera noche o si se acuesta con demasiada distancia.
 - Elegir quien dice **"Ya estamos"**.
 - Decidir si aparece literalmente **"Aqui duermo mejor"** o si queda como subtexto.
+- Confirmar o ajustar el motivo **"No era la pista"** (equivalente de "No era el auto" para la causa vigente de F1: Matteo / Riley).
+- ~~Objeto exacto de la pista de Matteo e incidente exacto de Riley.~~ **RESUELTO (2026-09-20)** -ver [[06_Relationships/Momentos_de_Fractura]], F1, "Pendientes".
 
 ---
 

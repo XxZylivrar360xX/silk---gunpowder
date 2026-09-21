@@ -15,7 +15,7 @@
 | 01 · 01_Un_Hombre_De_Negocios_Intachable.md | 7995 |
 | 02 · 02_Demasiado_Listo.md | 6972 |
 | 03 · 03_Los_Viejos_Dias.md | 4864 |
-| 04 · 04_La_Primera_Llamada.md | 2360 |
+| 04 · 04_Tarifa_Nocturna.md | 2360 |
 | 05 · 05_La_Casa_No_Quiere_Ruido.md | 2795 |
 | 06 · 06_Una_Amiga.md | 1809 |
 | 07 · 07_Ambos.md | 4435 |
@@ -142,7 +142,7 @@ Se usa IQR (Q1 − 1.5×IQR, Q3 + 1.5×IQR). Un outlier no es un problema.
 - **MEDIUM** · 02_Demasiado_Listo.md · `NEGATIVE_SENTENCE_CHAIN` · `descriptive/inventory` · línea 821: Tres o más oraciones consecutivas empiezan con «No»; posible cadena enfática o residuo de checklist. — “No era inicio de nada. No se dijo eso. No habría sabido qué hacer con una idea tan inútil.”
 - **MEDIUM** · 03_Los_Viejos_Dias.md · `LONG_DIALOGUE_INTERVENTION` · `descriptive/inventory` · línea 475: Intervención estimada en 71 palabras habladas; la longitud aislada nunca eleva a HIGH. — “—No limpiar la calle para que venga gente de fuera a comprar barato. No ponerle pintura a dos fachadas y llamarlo progreso. Levantarlo de verdad. Talleres, casas que no se caigan,…”
 - **MEDIUM** · 03_Los_Viejos_Dias.md · `LONG_DIALOGUE_INTERVENTION` · `descriptive/inventory` · línea 629: Intervención estimada en 62 palabras habladas; la longitud aislada nunca eleva a HIGH. — “—Un jugador pierde cincuenta mil en una noche y parece idiota. Un jugador paga entrada, recompra fichas, llega a semifinal y pierde contra alguien de Los Ángeles: parece parte de…”
-- **MEDIUM** · 04_La_Primera_Llamada.md · `SHORT_NARRATIVE_CLUSTER` · `descriptive/inventory` · línea 469: Secuencia narrative de 13 párrafos de 8 palabras o menos; revisar la cadencia, no uniformarla. — “—El problema llamó. / —Qué bonito, wallah. ¿Traía acento? / Cole levantó la vista. / Nadir sonrió.”
+- **MEDIUM** · 04_Tarifa_Nocturna.md · `SHORT_NARRATIVE_CLUSTER` · `descriptive/inventory` · línea 469: Secuencia narrative de 13 párrafos de 8 palabras o menos; revisar la cadencia, no uniformarla. — “—El problema llamó. / —Qué bonito, wallah. ¿Traía acento? / Cole levantó la vista. / Nadir sonrió.”
 - **MEDIUM** · 06_Una_Amiga.md · `NEGATIVE_SENTENCE_CHAIN` · `descriptive/inventory` · línea 303: Tres o más oraciones consecutivas empiezan con «No»; posible cadena enfática o residuo de checklist. — “No hablaron de Alessio. No hablaron de Keene. No hablaron de Dario, salvo cuando Chiara dijo:”
 - **MEDIUM** · 06_Una_Amiga.md · `NEGATIVE_SENTENCE_CHAIN` · `descriptive/inventory` · línea 473: Tres o más oraciones consecutivas empiezan con «No»; posible cadena enfática o residuo de checklist. — “No intentó subir. No preguntó si quería otra copa. No alargó la despedida como hacen los hombres cuando no saben dejar intacto un buen momento.”
 - **MEDIUM** · 07_Ambos.md · `LONG_DIALOGUE_INTERVENTION` · `descriptive/inventory` · línea 237: Intervención estimada en 62 palabras habladas; la longitud aislada nunca eleva a HIGH. — “—Cuando tenía seis años me dieron una cámara de video para una fiesta. Una de esas viejas, que pesaban como un ladrillo. Me pasé la noche entera grabando desde un rincón, con un o…”

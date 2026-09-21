@@ -24,7 +24,7 @@ Continuidad:
 - Documentos que quedarán desactualizados por este capítulo y que NO se tocan aquí (reportar, no ejecutar): [[02_Characters/Marisol_Grayson]] y [[02_Characters/Kenji_Oda]] (sección "relación fuera de foco" — este capítulo ya es el primer sembrado concreto del acercamiento en Libro I, falta anotarlo con referencia al Cap. 33); [[03_Factions/Red_Civil_de_Chiara]] (Kenji ya actúa aquí más allá de la caja/i Sussurri clásico, observando entorno por encargo directo); [[06_Relationships/Hitos]] (falta un hito o sub-hito para "la periferia" dentro de la apertura de Parte III).
 -->
 
-# Capítulo 33 — La periferia
+# Capítulo 33 — Más de la cuenta
 
 La mañana en el Monarch tenía el ritmo que a Chiara siempre le había resultado, de una manera que nunca dijo en voz alta, casi terapéutico: pequeño, ordenado, resoluble. Un proveedor de lino que había mandado la mitad del pedido equivocado. Una empleada de piso que quería cambiar su turno del jueves por el sábado y no encontraba quién se lo cubriera. Una carpeta de permisos que alguien había archivado mal tres meses atrás y que ahora, por supuesto, alguien necesitaba con urgencia.
 

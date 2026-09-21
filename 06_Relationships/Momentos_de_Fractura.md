@@ -10,66 +10,104 @@ Estos momentos no contradicen la regla dura de [[06_Relationships/Kal_y_Chiara]]
 
 ## F1 - La mentira bajo la lluvia
 
-**Función:** primera fractura seria por una mentira de Chiara.
+**Función:** primera fractura seria por una mentira de Chiara, ya dentro de la Parte III — Ardizzone.
 **Lugar:** [[05_Locations/Bellandi_Ridge_Vineyards]], bajo lluvia.
-**Estado de la relación:** ya son pareja formal o están lo bastante cerca para que la mentira duela como traición íntima.
+**Estado de la relación:** ya son pareja formal — "Mi pareja" (H21) cerró la Parte II, mucho antes.
 
-> **POSICIÓN FIJADA (2026-09-10, autor): F1 ocurre ANTES de [[06_Relationships/Hitos#H21 — Mi pareja|H21 — "Mi pareja"]].** Es la fractura que hace que "Mi pareja" se sienta merecido: acaban de sobrevivir una brecha de confianza real y se eligen otra vez, y sólo entonces le ponen nombre. En la escalera del "te amo" de Kal ([[06_Relationships/Kal_y_Chiara]], "La escalera de lo que Kal logra decir"), la reconciliación de F1 es el **peldaño 1** ("...por mucho que yo esté enamorado de ti...") y "Mi pareja" es el **peldaño 2** — quedan adyacentes. Ubicación fina propuesta: después de la [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial|mudanza]] (ya viven juntos = "pareja formal o casi") y antes de H21. Ver [[01_Timeline/02_Cadena_De_Eventos_Libro_I]].
+> **POSICIÓN FIJADA (2026-09-20, decisión del autor — segunda corrección, sustituye la reubicación "Palermo → Camp Alder → el loft" de la misma fecha, que a su vez ya había sustituido la posición original "antes de H21").** F1 **conserva el detonante, el lugar y el núcleo original** ("la mentira bajo la lluvia" en Bellandi Ridge) pero con una causa nueva, nacida del propio arco de Ardizzone. Posición definitiva: **dentro de la Parte III, después de su apertura (salida de Matteo, H16) y de que Chiara empiece a investigar discretamente esa salida, y ANTES de [[06_Relationships/Hitos#H13 — El pañuelo|H13]] / Palermo / Camp Alder.** La versión "Palermo → Camp Alder → el loft" (2026-09-20, primera corrección) queda **HISTÓRICA / SUPERSEDIDA** — se conserva más abajo por trazabilidad, pero ya no es vigente. Ver [[01_Timeline/02_Libro_01_Seda_y_Polvora]] para la ubicación completa dentro del Libro I.
 
 ### Adaptación
 
-Chiara decide ayudar a **Elliot Price**, un hombre autista vinculado al taller, al mercado civil o a los circuitos de autos. Elliot no es el problema: el problema es que Chiara, al reconocer que otros lo subestiman o lo tratan como carga, se sobrecorrige.
+Después de que Matteo se va (apertura de Parte III) con una explicación razonable, Chiara no logra dejar la pregunta quieta. No sabe nada de [[02_Characters/Nereo_Volpi]], de [[02_Characters/Dario_Varek]] ni de La Mesa como causa — sólo tiene una ausencia, una conducta inusual y preguntas sin respuesta. Empieza a investigar discretamente qué ocurrió alrededor de la salida de Matteo.
 
-Le da demasiada atención, lo defiende incluso cuando la situación empieza a tocar a Kal, y termina poniendo los sentimientos de Elliot por encima de los de su pareja. En medio de esa cadena, ocurre un accidente: uno de los autos de Kal queda dañado.
+Obtiene una **pista menor** relacionada con Matteo. **RESUELTO (2026-09-20, decisión del autor — tercera corrección, sustituye la versión "el auto de Matteo / un primo lo recogería" de la misma fecha).** El objeto es una **inconsistencia de mensajería, no un auto de reparto familiar**: la documentación que hizo salir a Matteo no llegó directamente desde Génova — pasó antes por un servicio de mensajería comercial de San Aurelio antes de llegar al Monarch. No prueba nada — tiene cien explicaciones posibles — pero le molesta, y conecta con la habilidad real de Chiara: ella detecta **cómo circula la información**, no huellas forenses. La pista concreta es un vehículo: el mensajero local llegó con una empresa legítima y quedó registrado en una cámara del Monarch. Chiara consigue modelo, color, matrícula (parcial o completa) y la empresa asociada — nada apunta a [[02_Characters/Nereo_Volpi|Nereo Volpi]]; la empresa puede ser perfectamente real.
 
-Chiara lo repara en el taller, intenta cerrar el asunto sin que Kal lo sepa y construye una salida para que Elliot no pague el costo. Alguien del taller la delata. Kal descubre la mentira.
+Para comprobar la pista, Chiara recurre a **[[02_Characters/Riley_Bennett|Riley Bennett]]** — entiende vehículos y calle, no necesita que le expliquen "investiga una conspiración", sólo *"encuéntrame este coche y dime quién lo usa"*. Chiara le pide algo limitado — y comete el error de añadir: **"Y no le digas nada a Kal todavía."** Chiara cree que protege a Kal, al Patio, a Matteo, a Riley y su propio frente italiano; en realidad **decide por Kal qué riesgo relacionado con su propia gente merece conocer** — la misma regla de Parte II: *proteger no concede derecho a decidir por otro.*
+
+**La mentira:** Kal le pregunta directamente algo equivalente a *"¿Supiste algo de Matteo?"* Chiara contesta *"Nada"* — cuando ya tiene una pista, la está investigando, y probablemente ya involucró a Riley. Pequeña. Directa. Innecesaria. Por eso duele.
+
+**Lo que sale mal — RESUELTO (2026-09-20, decisión del autor — tercera corrección, mismo incidente y lugar, ahora con la escena concreta).** Riley localiza el coche en **Almendra Towing** y su zona comercial/industrial — su territorio natural de trabajo, y el territorio de Kal, no el de Chiara — mientras confirma matrícula, horarios o simplemente quién lo conduce. No hay amenaza explícita: un hombre se acerca y pregunta, seco, *"¿Buscas a alguien?"* Riley improvisa. El hombre mira su coche, mira la matrícula: *"Entonces ya encontraste lo que buscabas."* Se marcha. Después Riley detecta que otro coche la sigue durante varias calles; lo pierde. Nada más ocurre en escena — pero ya existe un problema: alguien desconocido vio a Riley, su vehículo, y sabe que estaba observando. **No se identifica en escena** — puede tratarse razonablemente de alguien de Nereo Volpi, sin confirmarlo — y no escala a secuestro, tiroteo ni revelación de conspiración. Que el peligro se mueva al territorio de Kal, y no al de Chiara, es lo que vuelve esto seguridad del Patio y no sólo curiosidad de Chiara: eso es lo que obliga a Riley a informarle a Kal — **no traiciona a Chiara**, dice la verdad porque el problema ya la toca a ella también.
+
+Kal reconstruye: Chiara tenía información, usó a Riley, le pidió silencio, y cuando preguntó directamente por Matteo, ella dijo *"Nada."* Eso dispara F1.
 
 ### El verdadero daño
 
-No es celos. No es que Kal compita con Elliot. No es que Chiara haya ayudado a alguien vulnerable.
+No es que Chiara buscara a Matteo. No son celos. No es que haya involucrado a Riley. El daño es que **le preguntó directamente y ella decidió mentirle.**
 
-Lo que rompe la confianza es otra cosa: Chiara, la mujer de palabra, la que nunca miente en lo pequeño, eligió mentirle para zafarse.
+Línea de trabajo (DISEÑO, no fijada como diálogo canon salvo instrucción expresa):
 
-Línea canon adaptada:
+> **— No estoy enojado porque hayas buscado a Matteo. Estoy enojado porque te pregunté y me mentiste.**
 
-> **No me duele que lo hayas elegido a él. Me duele que me hayas mentido.**
+### El conflicto sobre "mi gente"
+
+Chiara explica que no quería meter a la gente de Kal en un problema que considera suyo. Kal responde desde su principio fundamental: **Riley es de su gente.** La discusión debe tratar agencia, responsabilidad, verdad, protección, límites y estructura — **no posesividad**. No: *"Riley me pertenece."* Sí: *no puedes utilizar a alguien cuya seguridad también recae sobre mí y después decidir que el riesgo no me concierne.*
 
 ### La escena
 
-La discusión ocurre en Bellandi Ridge, bajo la lluvia, vestidos para una fiesta importante a la que ya no van a llegar bien: Kal con traje, Chiara con vestido. Esa imagen importa porque los dos están disfrazados para la ciudad mientras se están rompiendo en un lugar que debía ser suyo.
+La discusión ocurre en Bellandi Ridge, bajo la lluvia, vestidos para una fiesta importante a la que ya no van a llegar bien: Kal con traje, Chiara con vestido. La lluvia destruye visualmente la presentación pública que la ciudad espera de ellos — dos figuras de poder impecables — mientras se rompen en un lugar que debía ser suyo.
 
 Él no grita. Eso la lastima más. Ella intenta defender la lógica de lo que hizo y se da cuenta tarde de que está argumentando como operadora, no como pareja.
 
 ### Los tres días
 
-No se separan formalmente. Pero pasan **tres días** sin volver a encontrarse de verdad.
+No se separan formalmente. Pero pasan **tres días** viviendo como desconocidos.
 
-No comen juntos. No se cuentan el día. No se tocan el collar. Las llamadas son útiles, breves y correctas. Para ellos, tres días se sienten como horas demasiado largas.
+**Chiara** no sabe cómo acercarse: sabe que mintió, que el daño es real, y que explicar de más puede volver a ser administración. **Kal** está dolido, procesando la mentira, intentando no transformar su dolor en castigo, todavía sin saber cómo hablar de emociones sin convertirlas en silencio funcional.
 
-**Consecuencia:** Chiara aprende que direccionar información dentro de la ciudad no le da derecho a direccionar la verdad dentro de la casa. Kal aprende que su dolor no siempre puede convertirse en silencio funcional.
+Interacciones útiles, frases correctas, rutinas partidas — no se cuentan el día, no recuperan espontáneamente la intimidad. Funcionan como personas que comparten estructura, no hogar.
+
+> **IMPORTANTE — Los Tres Días terminan ANTES de Camp Alder.** La fractura se resuelve primero. No hacer `F1 → hielo → Camp Alder`. Cuando Halbrook abre la ventana en H19, Kal y Chiara ya están bien — ver la sección "Recuperación antes de Camp Alder", abajo, y la nota correspondiente en [[06_Relationships/Hitos#H19 — El asalto a Camp Alder|Hitos, H19]].
 
 Ver [[06_Relationships/Los_Tres_Dias]] para la estructura emocional completa: Día 1 - Regresar, Día 2 - Recordar, Día 3 - Quedarse.
 
-### Cómo se cierra — CANON DEL AUTOR (2026-09-10)
+### Cómo se cierra
 
 Al cabo de los tres días **es Chiara quien se lo cruza en un lugar público** — y no se hablan. Después ella le escribe:
 
 > **— Tenemos que hablar.**
 
-Él contesta que va al casino. En esa conversación en el casino **arreglan el problema**, y es ahí donde Kal suelta, a media discusión y como oración subordinada, su primer *"estoy enamorado de ti"* en voz alta:
+Él contesta que va al casino. En esa conversación en el casino **arreglan el problema** — no es perdón fácil, ni sexo como solución, ni una explicación que borra la mentira. **Chiara admite** que mintió porque quería administrar el problema y evitar consecuencias — deja de defender sólo la lógica. **Kal admite** que su silencio también lastima — no puede convertir cada herida en funcionamiento distante.
+
+Es ahí donde Kal suelta, a media discusión y como oración subordinada, su primer *"estoy enamorado de ti"* en voz alta:
 
 > **— Podré tener mil problemas encima, y por mucho que yo esté enamorado de ti, no hay un "fuera mi gente", eso no se negocia.**
 
-El punto de la frase es el límite (*mi gente no se negocia*, regla intocable de Kal); el *"estoy enamorado"* se le escapa de paso. Es el **peldaño 1** de la escalera del "te amo" de Kal ([[06_Relationships/Kal_y_Chiara]]).
+El punto de la frase es el límite (*mi gente no se negocia*, regla intocable de Kal); el *"estoy enamorado"* se le escapa de paso. Es el **peldaño 2** de la escalera emocional de la pareja ([[06_Relationships/Kal_y_Chiara]], "La escalera de lo que se permiten decir") — después de "Mi pareja" (peldaño 1), no antes.
 
 **Regla de escritura para cuando se redacte:** la discusión del casino tiene que armarse con mucho cuidado. No basta con que se reconcilien: los dos tienen que **ganarse** la reconciliación —ella reconociendo que mintió para zafarse, no defendiendo la lógica; él admitiendo que su silencio también hace daño— para que **la noche en casa** (Día 3, "Quedarse", en [[06_Relationships/Los_Tres_Dias]]) se sienta **merecida para ambos** y no como un perdón regalado.
 
+### Después de F1 — antes de Palermo
+
+Debe existir aire. Secuencia: `F1 → Los Tres Días → reconciliación → primer "estoy enamorado de ti" → recuperación breve de la cotidianeidad → H13 → Palermo → regreso con fricción → reparación gradual → recuperación del hábito → Camp Alder.` Palermo no debe repetir la misma mentira ni crear otros "Tres Días": debe producir **fricción, no una fractura equivalente a F1**. El regreso de Palermo (H18) es juntos, tensos, incómodos, todavía funcionales — no ruptura, no silencio punitivo, no F1 otra vez.
+
+### Recuperación antes de Camp Alder
+
+Antes de Camp Alder debe existir una señal pequeña de que se recuperaron — no necesita gran reconciliación. Puede ser el regreso de la costumbre central: **Kal vuelve a contarle el día** (por ejemplo, después de varias noches de distancia, llega y empieza a contarle alguna anécdota insignificante de Héctor / El Patio / el taller; Chiara entiende que volvieron). **PENDIENTE:** escena exacta, sin fijar — sólo la función queda registrada.
+
+**Por qué importa:** cuando Halbrook abre la ventana en Camp Alder, Kal y Chiara están bien — no perfectamente libres de las cicatrices de Parte III, pero reparados. **Kal no evita a Chiara porque estén peleados.** La evita porque verla haría más difícil irse — ver [[06_Relationships/Hitos#H19 — El asalto a Camp Alder|Hitos, H19]]. Esto protege el significado de Camp Alder.
+
 ### Restricciones
 
-- Elliot no debe escribirse como obstáculo romántico ni como carga infantil.
-- La culpa central es de Chiara, no de Elliot.
-- Kal no puede sonar posesivo. La frase deja claro que el daño es la mentira.
-- La reparación del auto no repara la confianza. Sólo demuestra que Chiara entendió el objeto equivocado.
+- No convertir la investigación de Chiara en detective ni en thriller de conspiración: ella no sabe nada de Volpi, Varek ni La Mesa, y esta fractura no debe revelarlo.
+- No identificar en escena al hombre que aborda a Riley en Almendra Towing ni a quien la sigue después — puede sugerirse razonablemente como alguien de Nereo Volpi, nunca confirmarse.
+- Riley no debe escribirse como traidora ni como agente ingenua; informa a Kal porque el riesgo ya toca al Patio.
+- Kal no puede sonar posesivo con "Riley es mi gente". La frase deja claro que el daño es la mentira y la decisión unilateral, no la propiedad sobre Riley.
+- No resolver Palermo repitiendo esta fractura ni inventando otra igual de grande.
+- El primer "estoy enamorado de ti" no se dramatiza como declaración romántica central — sigue siendo una fuga de la frase sobre "mi gente".
+
+---
+
+### Versión histórica 1 — Los tres días (Palermo → Camp Alder → el loft) — SUPERSEDIDA (2026-09-20)
+
+> Se conserva sólo por trazabilidad. No es vigente.
+
+Esta versión intermedia (misma fecha, corregida más tarde el mismo día) refundía F1 con la reconciliación que cierra la Parte III: los tres días corrían desde el regreso separado de Palermo (H18) hasta la noche del loft tras la liberación de Kal de Camp Alder, sin causa de mentira puntual. Quedó sustituida porque el autor decidió **conservar el detonante original de la mentira** (ligado ahora a Matteo/Riley, no a Elliot Price) y colocar F1 **antes** de H13/Palermo/Camp Alder, no después.
+
+### Versión histórica 2 — La mentira bajo la lluvia (Elliot Price) — SUPERSEDIDA
+
+> Se conserva sólo por trazabilidad. No es vigente.
+
+Chiara ayudaba a **Elliot Price**, un hombre autista vinculado al taller; se sobrecorregía defendiéndolo, un auto de Kal quedaba dañado, ella lo reparaba y mentía para tapar el costo, y alguien del taller la delataba. Línea de esa versión: *"No me duele que lo hayas elegido a él. Me duele que me hayas mentido."* Retirado como causa de F1 el 2026-09-20 por decisión del autor; el material puede reservarse para otra función futura si el autor lo quiere recuperar, pero deja de ser F1.
 
 ---
 
@@ -307,22 +345,23 @@ La escena es bonita porque no borra la fractura. La contesta. Kal no le está di
 
 | Orden | Momento | Función |
 | --- | --- | --- |
-| 1 | **F1 - La mentira bajo la lluvia** | Primera fractura de confianza: Chiara miente |
+| 1 | **F1 - La mentira bajo la lluvia** | Primera fractura de confianza: Chiara miente sobre su investigación de la salida de Matteo |
 | 2 | **F4 - Año Nuevo en Washington** | Primera herida por deuda y ausencia; nace la vela |
 | 3 | **F3 - Los frenos** | Kal enfrenta perderla y dice "te amo" sin ser oído |
 | 4 | **F2 - El destierro de Riley y la muerte de Mei-Lin** | Fractura moral: el ascenso exige una pérdida irreversible |
 
-Este orden permite que la relación escale de daño íntimo, a ausencia por deuda, a miedo de pérdida, a costo moral compartido. Si F2 ocurre demasiado pronto, la pareja todavía no tiene suficiente capital emocional para sobrevivirla sin parecer escrita por decreto.
+> **REORDENADO (2026-09-20, segunda corrección del autor el mismo día):** F1 vuelve a ser la primera fractura del libro (restaurando en lo esencial el orden 2026-08-29), pero ahora ocurre **dentro de la Parte III**, no antes de H21 — ver nota de posición en la sección de F1, arriba. El orden intermedio de esta misma fecha (F4 → F3 → F1 → F2, con F1 al final) queda sustituido por este.
 
-> **Anclas de calendario (2026-09-10):** las cuatro fracturas caen en el Libro I. **F1 va antes de [[06_Relationships/Hitos#H21 — Mi pareja|"Mi pareja"]]** (su reconciliación es el peldaño 1 de la escalera de Kal y "Mi pareja" el peldaño 2). **F4** es el primer Año Nuevo juntos (1 de enero, después de la mudanza del 23 de noviembre). **F3** cae después de F4; **F2** después de que exista Villa Candelaria y con aire suficiente antes de H1. Detalle en [[01_Timeline/02_Cadena_De_Eventos_Libro_I]].
+Este orden permite que la relación escale de una mentira íntima resuelta pronto y bien, a ausencia por deuda, a miedo de pérdida, a costo moral compartido. Si F2 ocurre demasiado pronto, la pareja todavía no tiene suficiente capital emocional para sobrevivirla sin parecer escrita por decreto.
+
+> **Anclas de calendario (ACTUALIZADO 2026-09-20, decisión del autor; versiones anteriores de la misma fecha y de 2026-09-10 históricas, ya no vigentes).** Las cuatro fracturas caen en el Libro I. **F1** ocurre dentro de la Parte III — Ardizzone, después de su apertura (salida de Matteo, H16) y de que Chiara empiece a investigar discretamente esa salida, y **antes** de [[06_Relationships/Hitos#H13 — El pañuelo|H13]] / Palermo / Camp Alder. **F4** es el primer Año Nuevo juntos (1 de enero, después de la mudanza del 23 de noviembre / H16). **F3** cae después de F4. **F2** cae después de que exista Villa Candelaria y con aire suficiente antes de H1. **PENDIENTE, sin fijar del todo:** el orden fino entre F1 y el bloque F4 → F3 → H8 — ambos anclan sólo a "después de H16, antes de H13/Palermo o antes de H1"; ver [[01_Timeline/02_Libro_01_Seda_y_Polvora]], Parte III.
 
 ---
 
 ## Pendientes
 
-- Confirmar el nombre y función de Elliot Price.
-- Decidir qué auto de Kal se daña en F1.
-- Decidir quién del taller delata la mentira de Chiara.
+- ~~Objeto exacto de la pista de Matteo que Chiara investiga en F1.~~ **RESUELTO (2026-09-20, versión definitiva — sustituye "el auto de Matteo / un primo lo recogería"):** inconsistencia de mensajería — la documentación de Génova pasó por un servicio comercial de San Aurelio antes del Monarch; el vehículo del mensajero queda registrado en cámara (modelo, color, matrícula, empresa).
+- ~~Incidente exacto que obliga a Riley a informarle a Kal.~~ **RESUELTO (2026-09-20, versión definitiva con escena concreta):** en Almendra Towing, un hombre aborda a Riley sin amenaza explícita ("¿Buscas a alguien?" / "Entonces ya encontraste lo que buscabas") y después otro coche la sigue varias calles antes de que lo pierda — demuestra que ya sabe quién es, sin identificarse.
 - Definir si Mei-Lin realmente traicionó o si sólo dejó demasiada duda.
 - Nombrar la pista clandestina del norte.
 - ~~Confirmar si Riley Colombo queda como alias definitivo.~~ **RESUELTO DE ARQUITECTURA (2026-08-31):** Riley vive en Italia como **Riley Colombo**. Mecanismo documental, cobertura legal, apoyo y localización exacta pendientes.

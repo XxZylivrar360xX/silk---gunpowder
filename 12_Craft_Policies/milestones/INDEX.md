@@ -19,7 +19,7 @@ Si una escena nueva cambia de forma irreversible una relacion, deuda, ritual o j
 
 ## Fase I - El primer favor
 
-5. [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/04_La_Primera_Llamada]] - Blake exhibe a Chiara en La Isla; Matteo pide ayuda por un cliente vetado; Chiara llama a Kal; Kal resuelve el primer favor bajo la mesa con el Mercedes de Varga.
+5. [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/04_Tarifa_Nocturna]] - Blake exhibe a Chiara en La Isla; Matteo pide ayuda por un cliente vetado; Chiara llama a Kal; Kal resuelve el primer favor bajo la mesa con el Mercedes de Varga.
 6. [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/05_La_Casa_No_Quiere_Ruido]] - Capitulo "Una amiga" (fusion de los antiguos Caps. 5+6, 2026-09-10, BLOQUE 2 de la cirugia editorial de Parte I). La factura de Kal es ensenable; la cadena de favores se vuelve metodo; Chiara aprende a elegir cuando llamarlo; Tommaso roza el pasado de Alessio; H2-a en prosa: primera cena que ninguno llama cita; Rocco, camioneta rentada, terraza de Il Gelsomino, Nadir/Danny como testigos. *(Numeracion 7 vacante hasta la renumeracion global — el antiguo Nota_Una_Amiga_Fusionada.md queda como nota de redireccion.)*
 8. [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/06_Ambos]] - H2-b en prosa: nace la costumbre de contarse el dia; penthouse, hamburguesas, hierba, canciones, calavera, habitaciones separadas, primer tu y choque de punos.
 

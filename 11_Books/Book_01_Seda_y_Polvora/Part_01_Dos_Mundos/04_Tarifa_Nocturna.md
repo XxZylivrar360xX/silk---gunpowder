@@ -6,7 +6,7 @@ Lugares: The Monarch Casino & Hotel, La Isla, La Almendra.
 Funcion: mostrar el primer favor bajo la mesa, el error funcional de Blake y la incomodidad de Chiara al aceptar ayuda de Kal.
 -->
 
-# Capítulo 4 — La primera llamada
+# Capítulo 4 — Tarifa nocturna
 
 La fiesta de La Isla empezó con una pulsera blanca.
 

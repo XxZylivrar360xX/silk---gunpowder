@@ -13,7 +13,7 @@
 | 01 · 01_Un_Hombre_De_Negocios_Intachable.md | 7995 |
 | 02 · 02_Demasiado_Listo.md | 6972 |
 | 03 · 03_Los_Viejos_Dias.md | 4864 |
-| 04 · 04_La_Primera_Llamada.md | 2360 |
+| 04 · 04_Tarifa_Nocturna.md | 2360 |
 | 05 · 05_La_Casa_No_Quiere_Ruido.md | 2795 |
 | 06 · 06_Una_Amiga.md | 1809 |
 | 07 · 07_Ambos.md | 4435 |
@@ -116,7 +116,7 @@ Se usa IQR (Q1 − 1.5×IQR, Q3 + 1.5×IQR). Un outlier no es un problema.
 - **HIGH** · 03_Los_Viejos_Dias.md · `LONG_DIALOGUE_INTERVENTION` · línea 475: Intervención de diálogo de 71 palabras; posible outlier para lectura humana. — “—No limpiar la calle para que venga gente de fuera a comprar barato. No ponerle pintura a dos fachadas y llamarlo progreso. Levantarlo de verdad. Talleres, casas que no se caigan,…”
 - **HIGH** · 03_Los_Viejos_Dias.md · `SHORT_PARAGRAPH_CLUSTER` · línea 511: Secuencia de 16 párrafos de 8 palabras o menos; revisar la cadencia, no uniformarla. — “Walt levantó la suya. / —Renovados. / Cole chocó la botella con ellos. / —Y con sangre nueva.”
 - **HIGH** · 03_Los_Viejos_Dias.md · `LONG_DIALOGUE_INTERVENTION` · línea 629: Intervención de diálogo de 62 palabras; posible outlier para lectura humana. — “—Un jugador pierde cincuenta mil en una noche y parece idiota. Un jugador paga entrada, recompra fichas, llega a semifinal y pierde contra alguien de Los Ángeles: parece parte de…”
-- **HIGH** · 04_La_Primera_Llamada.md · `SHORT_PARAGRAPH_CLUSTER` · línea 469: Secuencia de 13 párrafos de 8 palabras o menos; revisar la cadencia, no uniformarla. — “—El problema llamó. / —Qué bonito, wallah. ¿Traía acento? / Cole levantó la vista. / Nadir sonrió.”
+- **HIGH** · 04_Tarifa_Nocturna.md · `SHORT_PARAGRAPH_CLUSTER` · línea 469: Secuencia de 13 párrafos de 8 palabras o menos; revisar la cadencia, no uniformarla. — “—El problema llamó. / —Qué bonito, wallah. ¿Traía acento? / Cole levantó la vista. / Nadir sonrió.”
 - **HIGH** · 05_La_Casa_No_Quiere_Ruido.md · `SHORT_PARAGRAPH_CLUSTER` · línea 199: Secuencia de 12 párrafos de 8 palabras o menos; revisar la cadencia, no uniformarla. — “Chiara cerró los ojos. / —Por favor, no me dé otro problema. / —Ya lo tenía. Yo solo lo señalé. / Quiso reírse. No lo hizo.”
 - **HIGH** · 06_Una_Amiga.md · `SHORT_PARAGRAPH_CLUSTER` · línea 43: Secuencia de 14 párrafos de 8 palabras o menos; revisar la cadencia, no uniformarla. — “Héctor miró la pata en su bota. / —No me metas en tus cosas raras. / Nadir se rió. / Cole tomó aire.”
 - **HIGH** · 07_Ambos.md · `LONG_DIALOGUE_INTERVENTION` · línea 237: Intervención de diálogo de 62 palabras; posible outlier para lectura humana. — “—Cuando tenía seis años me dieron una cámara de video para una fiesta. Una de esas viejas, que pesaban como un ladrillo. Me pasé la noche entera grabando desde un rincón, con un o…”

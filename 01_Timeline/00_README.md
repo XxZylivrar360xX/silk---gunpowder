@@ -2,6 +2,8 @@
 
 Este directorio contiene la **linea temporal macro** de los cinco libros. Cada entrada debe ser un acontecimiento enunciado en una sola frase o una fila breve; no contiene escenas, mecanismos, motivaciones desarrolladas ni prosa.
 
+> **Excepción (2026-09-20):** [[02_Libro_01_Seda_y_Polvora]] opera a granularidad intermedia por decisión expresa del autor — más detalle que un enunciado de una frase, menos que un índice de capítulos — para servir de mapa cronológico-macronarrativo operativo del Libro I por Partes. No usar esa granularidad como precedente para los demás archivos de este directorio sin instrucción equivalente.
+
 ## Regla de autoridad
 
 - La linea temporal responde **cuándo ocurre qué** y qué continuidad conecta un libro con el siguiente.
@@ -19,6 +21,7 @@ Este directorio contiene la **linea temporal macro** de los cinco libros. Cada e
 4. [[04_Libro_03_Cuentas_De_Sangre]] — ejecución, Meridian y salida a Palermo.
 5. [[05_Libro_04_Juramento_De_Hierro]] — academia, caso Vera y siembra de Ethan.
 6. [[06_Libro_05_Camino_A_Casa]] — disparo, reconstrucción y revelación final.
+7. [[07_Matriz_Renombramiento_Capitulos_Libro_I]] — estudio de títulos visibles, archivos desfasados y candidatos a revisión.
 
 ## Fuentes
 
