@@ -1,5 +1,7 @@
 # Pending
 
+**EPUB actualizado (2026-09-20, solicitud expresa del autor):** [[tools/epub-build/output/Seda_y_Polvora.epub]] regenerado con los 38 capítulos actuales de las Partes I–III, hasta «Al revés»; portada y estilo vigentes. Verificados ZIP, XML, índice y portada. Sustituye los avisos anteriores de EPUB pendiente para el contenido actual; las revisiones de borradores siguen pendientes. Sin cambios de prosa.
+
 ## Roadmap III–VI reconciliado — 2026-09-20
 
 **CERRADO:** Parte III conservada; incendio cierra IV; F4 abre V después del incendio, juntos y solos, cumpleaños de Kal; F4 → F3; ejecución de Mei-Lin por Nadir y destierro de Riley **el mismo día**; Villa después de F2; Noruega/Stavanger y anillo después de Riley dentro de V. VI recibe casa, F2 y compromiso, desarrolla embarazo/H1/reveal/familia futura; no nacimiento ni falsa muerte. Fuente: [[01_Timeline/02_Libro_01_Seda_y_Polvora]]. Estas posiciones no siguen pendientes aunque figuren en entradas históricas.

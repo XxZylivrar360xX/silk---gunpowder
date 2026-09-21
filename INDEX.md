@@ -4,7 +4,7 @@
 
 *Novela original de crimen y romance — índice maestro del vault.*
 
-> **Nomenclatura vigente (2026-09-13, CANON DEL AUTOR):** **Kal Mercer**. Migración aplicada al material vivo y a sus rutas; historial preservado. Supersesión: [[98_Agent_Handoff/DECISIONS]]. EPUB pendiente de actualización por petición expresa del autor.
+> **Nomenclatura vigente (2026-09-13, CANON DEL AUTOR):** **Kal Mercer**. Migración aplicada al material vivo y a sus rutas; historial preservado. Supersesión: [[98_Agent_Handoff/DECISIONS]]. EPUB actualizado por solicitud expresa del autor (2026-09-20): 38 capítulos, Partes I–III. [[tools/epub-build/output/Seda_y_Polvora.epub]].
 
 > *Silk & Gunpowder* · Bitácora de sesiones: [[log]] · Reglas del agente: `CLAUDE.md`
 

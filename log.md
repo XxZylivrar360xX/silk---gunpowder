@@ -3398,3 +3398,8 @@ Actualizados `06_Relationships/Momentos_de_Fractura.md` (F1: pista, reclutamient
 ## 2026-09-20 — Codex: reconciliación roadmap Libro I, III–VI
 
 Incendio cierra IV; F4 abre V; F2 Mei-Lin/Riley mismo día; Villa después; Stavanger/anillo después de Riley en V; VI embarazo/H1/reveal y familia futura, sin mover Elenna de Libro II. H8 conserva ID, separa componentes; sobrecompensación de Kal documentada. Detalle, supersesiones, archivos y pendientes: [[98_Agent_Handoff/sessions/2026-09-20_codex_reconciliacion_roadmap_iii_vi]]. Sin prosa narrativa nueva, EPUB, commit ni push.
+
+
+## 2026-09-20 | Codex | EPUB del Libro I regenerado
+
+**EPUB actualizado (2026-09-20, solicitud expresa del autor):** [[tools/epub-build/output/Seda_y_Polvora.epub]] regenerado con los 38 capítulos actuales de las Partes I–III, hasta «Al revés»; portada y estilo vigentes. Verificados ZIP, XML, índice y portada. Sustituye los avisos anteriores de EPUB pendiente para el contenido actual; las revisiones de borradores siguen pendientes. Sin cambios de prosa. Salida: 1,709,418 bytes. Sin commit ni push.
