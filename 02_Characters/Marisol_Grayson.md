@@ -98,6 +98,10 @@ En esa conversación, cuando Chiara le pregunta qué es él para Marisol, Kal lo
 
 ---
 
+**La fiesta del yate y la llamada de las cuatro (2026-09-20, Claude Code, [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/38_Al_Reves|Cap. 38]], BORRADOR):** Marisol está en la fiesta de Chiara con la chaqueta de Michael sobre un vestido y las puntas rubias recogidas de cualquier manera. Encuentra el piano antes que nadie ("Qué cosa más inútil de tener en un barco. Me encanta"). Con Kal, delante de Chiara, cuadra el **fin de semana de campamento a fin de mes** ("Testigo. Lo dijo delante de ti. Fin de mes, dos noches, sin teléfonos") — no lo reverencia, lo pica, y él cede. Se cruza en la baranda con [[02_Characters/Kenji_Oda|Kenji]] (sin chaleco por primera vez): él le dice algo, ella se detiene medio segundo y deja de moverse — siembra mínima de su relación fuera de foco (canon 2026-09-10), sin desarrollo, vista sólo por Chiara, que guarda el dato. Se va antes, en el coche de Sam.
+
+Alrededor de las cuatro de la mañana llama a Kal desde la carretera (sigue despierta; "sabía que seguirías despierto, esas fiestas de tu italiana no terminan nunca") para cuadrar el día del campamento. Kal: **"Olvidé mencionarlo hace rato en la fiesta. Tengo que salir. Ya sabes. Negocios."** Marisol: **"¿Negocios en sábado, qué...?"** — y oye de fondo al piloto hablándole a Chiara del asiento del señor Mercer. **"Ahhhh, tu negocio es una bella y cariñosa italiana."** / "Marisol." / **"Te perdono solo porque cuando estamos enamorados, las explicaciones sobran."** Cuelga. Es ella quien verbaliza antes que Kal lo que Nadir sospecha, Héctor sabe y Chiara sabe a su manera; Kal se queda con el teléfono en la oreja: "—Espera... ¿cómo que estamos?". No sabe que Kal se va a Palermo ni por qué.
+
 ## Arco futuro — de recurrente a protagonista
 
 > **CANON DEL AUTOR (2026-08-29).** A partir del Capítulo 14, Marisol pasa a ser **personaje recurrente**, no solo mencionada.

@@ -14,7 +14,9 @@ Estos momentos no contradicen la regla dura de [[06_Relationships/Kal_y_Chiara]]
 **Lugar:** [[05_Locations/Bellandi_Ridge_Vineyards]], bajo lluvia.
 **Estado de la relación:** ya son pareja formal — "Mi pareja" (H21) cerró la Parte II, mucho antes.
 
-> **POSICIÓN FIJADA (2026-09-20, decisión del autor — segunda corrección, sustituye la reubicación "Palermo → Camp Alder → el loft" de la misma fecha, que a su vez ya había sustituido la posición original "antes de H21").** F1 **conserva el detonante, el lugar y el núcleo original** ("la mentira bajo la lluvia" en Bellandi Ridge) pero con una causa nueva, nacida del propio arco de Ardizzone. Posición definitiva: **dentro de la Parte III, después de su apertura (salida de Matteo, H16) y de que Chiara empiece a investigar discretamente esa salida, y ANTES de [[06_Relationships/Hitos#H13 — El pañuelo|H13]] / Palermo / Camp Alder.** La versión "Palermo → Camp Alder → el loft" (2026-09-20, primera corrección) queda **HISTÓRICA / SUPERSEDIDA** — se conserva más abajo por trazabilidad, pero ya no es vigente. Ver [[01_Timeline/02_Libro_01_Seda_y_Polvora]] para la ubicación completa dentro del Libro I.
+> **POSICIÓN VIGENTE — TERCERA CORRECCIÓN (2026-09-20, decisión formal del autor tras el [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/38_Al_Reves|Cap. 38]]):** F1 conserva detonante, lugar y causa (Matteo / mensajería / Riley / "Nada"), pero se corre **después del regreso de Palermo (H18) y antes de Camp Alder (H19)**. El Cap. 38 ejecuta H13 y activa Palermo con F1 sin escribir. Razón del autor: Blake y la bala ya establecen que Chiara normalmente sí le cuenta las cosas a Kal — su "Nada" sobre Matteo pesa mucho más después. La nota de abajo ("ANTES de H13 / Palermo") queda supersedida en ese único punto; todo lo demás sigue vigente.
+>
+> **POSICIÓN ANTERIOR (2026-09-20, decisión del autor — segunda corrección, sustituye la reubicación "Palermo → Camp Alder → el loft" de la misma fecha, que a su vez ya había sustituido la posición original "antes de H21").** F1 **conserva el detonante, el lugar y el núcleo original** ("la mentira bajo la lluvia" en Bellandi Ridge) pero con una causa nueva, nacida del propio arco de Ardizzone. Posición definitiva: **dentro de la Parte III, después de su apertura (salida de Matteo, H16) y de que Chiara empiece a investigar discretamente esa salida, y ANTES de [[06_Relationships/Hitos#H13 — El pañuelo|H13]] / Palermo / Camp Alder.** La versión "Palermo → Camp Alder → el loft" (2026-09-20, primera corrección) queda **HISTÓRICA / SUPERSEDIDA** — se conserva más abajo por trazabilidad, pero ya no es vigente. Ver [[01_Timeline/02_Libro_01_Seda_y_Polvora]] para la ubicación completa dentro del Libro I.
 
 ### Adaptación
 
@@ -76,9 +78,11 @@ El punto de la frase es el límite (*mi gente no se negocia*, regla intocable de
 
 **Regla de escritura para cuando se redacte:** la discusión del casino tiene que armarse con mucho cuidado. No basta con que se reconcilien: los dos tienen que **ganarse** la reconciliación —ella reconociendo que mintió para zafarse, no defendiendo la lógica; él admitiendo que su silencio también hace daño— para que **la noche en casa** (Día 3, "Quedarse", en [[06_Relationships/Los_Tres_Dias]]) se sienta **merecida para ambos** y no como un perdón regalado.
 
-### Después de F1 — antes de Palermo
+### Después de F1 — antes de Camp Alder
 
-Debe existir aire. Secuencia: `F1 → Los Tres Días → reconciliación → primer "estoy enamorado de ti" → recuperación breve de la cotidianeidad → H13 → Palermo → regreso con fricción → reparación gradual → recuperación del hábito → Camp Alder.` Palermo no debe repetir la misma mentira ni crear otros "Tres Días": debe producir **fricción, no una fractura equivalente a F1**. El regreso de Palermo (H18) es juntos, tensos, incómodos, todavía funcionales — no ruptura, no silencio punitivo, no F1 otra vez.
+> **Secuencia actualizada (2026-09-20, tercera corrección):** `H13 → Palermo → regreso con fricción (H18) → investigación de Matteo / Riley → F1 → Los Tres Días → reconciliación → primer "estoy enamorado de ti" → recuperación breve de la cotidianeidad → Camp Alder.` Palermo ya no queda entre F1 y Camp Alder; el aire que necesita F1 ahora se toma entre la reconciliación y Camp Alder.
+
+Debe existir aire. Secuencia anterior (supersedida en el orden, no en el contenido): `F1 → Los Tres Días → reconciliación → primer "estoy enamorado de ti" → recuperación breve de la cotidianeidad → H13 → Palermo → regreso con fricción → reparación gradual → recuperación del hábito → Camp Alder.` Palermo no debe repetir la misma mentira ni crear otros "Tres Días": debe producir **fricción, no una fractura equivalente a F1**. El regreso de Palermo (H18) es juntos, tensos, incómodos, todavía funcionales — no ruptura, no silencio punitivo, no F1 otra vez.
 
 ### Recuperación antes de Camp Alder
 
@@ -333,7 +337,7 @@ La escena es bonita porque no borra la fractura. La contesta. Kal no le está di
 
 Este orden permite que la relación escale de una mentira íntima resuelta pronto y bien, al desplazamiento tras perder la casa, al miedo de pérdida, a costo moral compartido. Si F2 ocurre demasiado pronto, la pareja todavía no tiene suficiente capital emocional para sobrevivirla sin parecer escrita por decreto.
 
-> **Anclas vigentes — CANON DEL AUTOR 2026-09-20:** F1 en III antes de H13/Palermo/Camp Alder; incendio cierra IV; F4 abre V (1 de enero, juntos y solos, después del incendio); F3 después; F2 en V, Mei-Lin y Riley el mismo día, **antes de Villa y Stavanger** y con aire antes de H1/VI. **SUPERSEDIDO** el antiguo pendiente F1 frente al bloque F4 → F3 → H8. Sólo distancia precisa F4/F3/F2 pendiente. Ver [[01_Timeline/02_Libro_01_Seda_y_Polvora]].
+> **Anclas vigentes — CANON DEL AUTOR 2026-09-20 (F1 corregida el mismo día tras el Cap. 38):** F1 en III **después de Palermo/H18 y antes de Camp Alder**; incendio cierra IV; F4 abre V (1 de enero, juntos y solos, después del incendio); F3 después; F2 en V, Mei-Lin y Riley el mismo día, **antes de Villa y Stavanger** y con aire antes de H1/VI. **SUPERSEDIDO** el antiguo pendiente F1 frente al bloque F4 → F3 → H8. Sólo distancia precisa F4/F3/F2 pendiente. Ver [[01_Timeline/02_Libro_01_Seda_y_Polvora]].
 
 ---
 

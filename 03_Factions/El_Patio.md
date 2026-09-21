@@ -42,6 +42,19 @@ Esa ubicación le da tres ventajas:
 
 ---
 
+## Origen Íntimo Del Nombre — CANON DEL AUTOR (2026-09-20)
+
+El patio físico existe desde antes (es el patio de grúas de Almendra Towing, y la calle ya dice "el patio" y "los del Patio" desde la Fase III). Lo que fija el autor es **de dónde saca Kal el nombre cuando la estructura necesite uno**: de Chiara.
+
+En [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/38_Al_Reves|Cap. 38]], Chiara le explica por fin el cifrado de [[03_Factions/Red_Civil_de_Chiara|i Sussurri]]: ROMA al revés es AMOR, y "Atrii" es su traducción privada — **"Mi amor del patio."** Kal repite "Del patio" y se lo guarda "como quien se guarda una llave en el bolsillo". Ese residuo es el origen del nombre.
+
+**Reglas:**
+
+- Chiara **no** bautiza la organización ni lo sugiere. No hay diseño consciente en escena.
+- El término se queda dentro de Kal. Más adelante, cuando haga falta un nombre, podrá usar **El Patio** — y sólo ellos dos conocerán de dónde viene.
+- No escribir en ningún capítulo el momento como "decisión de marca". Si se dramatiza alguna vez, debe ser un gesto mínimo, no una explicación.
+- Convive sin conflicto con el nombre de calle ya existente: el barrio ya decía "el patio" por el lugar; Kal lo adopta como nombre propio por la frase.
+
 ## Cómo Lo Llama Cada Quien
 
 - **El barrio:** *el patio*, *los del Patio*.

@@ -635,7 +635,9 @@ Ver también: [[02_Characters/Kal_Mercer]] · [[02_Characters/Chiara_Bellandi]] 
 
 # H13 — El pañuelo
 
-> **CANON DEL AUTOR (2026-08-27; posición fijada 2026-08-29).** **Posición canon:** ocurre **después del [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños / la mudanza]] e inmediatamente antes de [[#H17 — Italia / Mesa de las Familias|Italia / Mesa de las Familias]]** — es el gatillo de ese viaje. No está escrito todavía. **Arco reservado: planta el viaje a Palermo — el agente no debe adelantar ni inventar contenido de ese viaje.**
+> **ESCRITO (2026-09-20, Claude Code, BORRADOR, encargo del autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/38_Al_Reves|Capítulo 38 — Al revés]] (título provisional). La intercepción se rinde como **recuerdo dramatizado** dentro de la fiesta del yate (ocurrió "hace unos días", sin fijar cuántos, al salir de la misa de las ocho de Santa Lucía), con todos los beats canon de abajo: dos hombres, casa neutral en la ladera con muebles tapados, café servido en el orden de la Mesa, "signora Lusardi" → "—Ardizzone.", acusación de "recolectando migajas de poder", negación que es verdad a medias, pañuelo de lino con "C" bordada, bala corriente, y la línea canon textual (se conservó la abreviatura "Sra." tal cual; señalar si el autor prefiere "señora"). **Lo que la Mesa sabe, acotado por el autor:** que Matteo se fue, que Chiara consolida poder, rumores de que reúne información y activos y de que "hay quien cree que está construyendo algo suyo" — no enumera Kenji, periódico, viñedo ni círculo. De vuelta en el yate, Chiara le muestra el pañuelo y **Kal recibe la bala en la mano** ("Es corriente" / "Que no nos lleva a nadie" — sin forense); es lo que lo decide. Chiara dice que **cree**, sin pruebas, que fue el Consorcio en H12; Kal confirma que su investigación nunca cerró y que "esto tiene por dónde seguir". **Chiara se va esa misma noche** ("no sé si voy a regresar íntegra"); Kal: **"Voy contigo."** — activa [[#H17 — Italia / Mesa de las Familias|H17]] sin escribir nada de Palermo.
+
+> **CANON DEL AUTOR (2026-08-27; posición fijada 2026-08-29).** **Posición canon:** ocurre **después del [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños / la mudanza]] e inmediatamente antes de [[#H17 — Italia / Mesa de las Familias|Italia / Mesa de las Familias]]** — es el gatillo de ese viaje. **Arco reservado: planta el viaje a Palermo — el agente no debe adelantar ni inventar contenido de ese viaje.**
 
 ## La intercepción
 
@@ -678,6 +680,8 @@ Kal nunca cerró su propia investigación de H12 — quedó sin pistas, sin reso
 > **RESUELTO (2026-08-29, autor):** ubicación — **después del cumpleaños / la mudanza, justo antes de Italia / Mesa de las Familias.** H13 es el gatillo del viaje a Palermo.
 
 > **PENDIENTE:** todo el contenido del viaje a Palermo — arco reservado, no inventar.
+
+> **ORDEN RESUELTO — CANON DEL AUTOR (2026-09-20):** F1 (la mentira bajo la lluvia) → Los Tres Días → reconciliación pasan a ocurrir **después de H18 (regreso de Palermo)** y antes de H19 (Camp Alder). El orden viejo del timeline (F1 antes de H13) queda supersedido. Esta tabla (H16 → H13 → H17 → H18) no cambia; F1 sigue sin ID de hito y se referencia desde [[06_Relationships/Momentos_de_Fractura]]. Razón del autor: la mentira de Chiara pesa más cuando Blake y la bala ya mostraron que ella normalmente sí le cuenta las cosas a Kal.
 
 ---
 
@@ -2245,6 +2249,8 @@ Una **cajita más pequeña, modesta, de madera.** Dentro, **una llave del loft.*
 ---
 
 # H17 — Italia / Mesa de las Familias
+
+> **ACTIVADO en prosa (2026-09-20):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/38_Al_Reves|Cap. 38]] cierra con Kal y Chiara en la terminal privada de Kingsley Field, alrededor de las cuatro de la mañana, con el avión a Palermo esperando. La decisión de Kal ("Voy contigo") y el motivo (la bala; su investigación de H12 nunca cerrada) ya están escritos. **Nada del viaje, la llegada, la Mesa ni Palermo está escrito** — sigue arco reservado.
 
 > **CANON DEL AUTOR (2026-08-29).** Ocurre **inmediatamente después de [[#H13 — El pañuelo]]** (su gatillo), que a su vez va después de [[#H16 — El cumpleaños / la mudanza oficial]]. **ID: H17** (asignado 2026-08-29). Arco reservado — no inventar contenido.
 

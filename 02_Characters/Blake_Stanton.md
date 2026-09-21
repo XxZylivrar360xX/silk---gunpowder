@@ -46,11 +46,21 @@ En [[06_Relationships/Hitos]], H3-a, presume sus habilidades al volante y la inf
 
 ---
 
+## El regreso — la fiesta del yate (2026-09-20, Claude Code, [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/38_Al_Reves|Cap. 38]], BORRADOR)
+
+Blake vuelve una sola vez, y es la última. Llega al yate de Chiara **legítimamente**: en el grupo del capitán del Departamento, al que ella sí invitó (un capitán nunca llega solo). No burla seguridad; Chiara no queda incompetente — la lista estaba bien, y el Departamento trae a quien trae.
+
+Su herida no es amor: es **ego**. Se acerca con cordialidad, la felicita por "haber subido" y "haber bajado también" (mirando la franela del Patio), pide "una explicación un poco mejor que 'no me busques más' en una banqueta", y llega a lo que vino a buscar: que ella confirme que **lo dejó por Mercer**, "toda la ciudad lo sabe". Quiere ser el hombre al que le quitaron algo en vez del hombre que no supo qué hacer con lo que tenía enfrente.
+
+Chiara cierra la puerta sin frase cruel, con tres noches concretas: las seis presentaciones como "la que trabaja en el Monarch", el brazo en los hombros para que una sala lo mirara, y el *signora* con acento en la calle. **"Terminé contigo por ti."** Mercer no estaba en ninguna de esas noches. Blake se queda donde ya no tiene lugar ("Tú no me vas a reescribir la historia a mí también"); Chiara ordena a seguridad que lo acompañen a tierra, "con cuidado, es invitado del capitán". Sólo entonces Kal, que había observado desde quince metros sin dar un paso, dice "Yo lo acompaño". En el muelle Blake intenta provocarlo ("¿Sabes qué pasó entre nosotros? ¿Te lo ha dicho?"); Kal: **"Ella me lo contará si quiere."** / **"Buenas noches, Stanton."** Sin amenaza, sin competencia. Blake se va solo hasta los autos.
+
+Consecuencia práctica registrada en escena: el capitán "va a preferir no acordarse". No se convierte en investigación ni en venganza.
+
 ## Pendientes
 
-> **PENDIENTE:** cuándo y cómo termina lo suyo con Chiara. Restricción: ella no lo deja *por* Kal. Lo deja porque entendió qué estaba buscando.
+> ~~**PENDIENTE:** cuándo y cómo termina lo suyo con Chiara.~~ **ESCRITO** en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/07_La_Noche_Del_Ladrillo|Cap. 7]] (la banqueta de Gabriella's) y **cerrado definitivamente** en el Cap. 38 con la formulación canon: ella no lo dejó por Kal, terminó con él por él.
 
-> **PENDIENTE:** ¿vuelve? Un policía despechado con acceso a Chiara es la clase de pieza que este libro debería cobrar.
+> ~~**PENDIENTE:** ¿vuelve?~~ **RESUELTO (2026-09-20):** vuelve una vez, en el Cap. 38, y sale acompañado a tierra. No es rival, no hay triángulo. Si el autor quiere cobrar más adelante al policía despechado con acceso al Departamento, el material sigue disponible (sabe que Chiara "está con Mercer" y lo dijo en voz alta delante del capitán), pero nada lo obliga.
 
 > **DISEÑO (2026-09-01), escrito en el Capítulo 12 (*Roma Atrii*):** después de H3-a, Blake tiene un romance breve con una recepcionista del Departamento que termina mal — ella lo deja, y él se lo toma peor de lo que admitiría en voz alta. Chiara se entera por Mabel, como chisme de barra, sin certeza confirmada todavía. Primer hilo hacia el PENDIENTE de arriba: un Blake despechado dos veces (Chiara, y ahora esto) es material acumulado, no usado aún.
 

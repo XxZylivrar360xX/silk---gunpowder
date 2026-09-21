@@ -291,6 +291,8 @@ Mientras Chiara está inconsciente en [[06_Relationships/Hitos]], H12, Kal inves
 
 Más adelante, en H13, Chiara le muestra el pañuelo y la bala que le dejó el Consorcio. Verlos es lo que lo hace **insistir en acompañarla a Palermo** — no por desconfianza en ella, sino porque es el mismo hilo que él nunca pudo encontrar solo.
 
+> **ESCRITO (2026-09-20):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/38_Al_Reves|Cap. 38]]. Kal recibe la bala en la palma, la gira entre los dedos y dice lo único que hay que decir: "Es corriente" / "Que no nos lleva a nadie" — sin forense (corrección del autor); la ausencia de pista es el dato. Confirma en voz alta que lo del corral lo buscó meses sin encontrar nada y que "esto tiene por dónde seguir". Cuando Chiara dice que se va esa misma noche, su respuesta es **"Voy contigo."** — sin impedirle ir, sin pedir permiso: "No te estoy diciendo que no vayas ni te estoy diciendo que me esperes. Te estoy diciendo que voy." Anclada en H12 y en "tú eres mi gente". Línea a revisar por el autor si pisa el peso de la frase de F1 ("no hay un 'fuera mi gente'").
+
 ## La paternidad y la casa de tres — CANON DEL AUTOR (2026-08-31)
 
 En [[06_Relationships/Hitos#H1 — El regreso a casa|H1]], durante Parte II, Chiara ya confirmó que está embarazada y Kal todavía no lo sabe. Cuando él dice *“Solo quiero llegar a casa, porque me esperan”*, lucha por regresar hasta Elenna sin conocer su existencia. No subrayarlo en prosa.
@@ -339,9 +341,17 @@ En las carreras ilegales de Kingsley Field ([[06_Relationships/Hitos]], H9 — C
 
 ---
 
-## Talento oculto — semilla para capítulo futuro (2026-09-20, encargo del autor)
+## Talento oculto — el piano y *Träumerei* (2026-09-20, encargo del autor; ejecutado el mismo día)
 
-> **CANON DEL AUTOR, no ejecutado todavía.** Kal toca el piano. Se siembra en la fiesta del yate (capítulo futuro, todavía sin escribir — ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35]], nota de roadmap al final del encabezado). El autor lo describió como **"importantísimo para el futuro"**, sin decir por qué — no inventar la razón ni adelantar el pago en ningún capítulo anterior a esa fiesta. No hay origen, nivel ni repertorio fijado todavía; no rellenar por conveniencia.
+> **CANON DEL AUTOR — EJECUTADO EN PROSA (2026-09-20, Claude Code):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/38_Al_Reves|Cap. 38]], BORRADOR. Kal toca el piano. Primera revelación en prosa: en el salón del yate, a solas con Chiara después de lo de Blake, se sienta al piano alquilado y toca **_Träumerei_, de Robert Schumann** — pieza fijada por el autor, no sustituible. Chiara no sabía. Él la nombra ("Schumann. *Träumerei*.") y dice no saber qué significa el título ("Sueño. Soñar. Algo así. Nunca lo busqué"). Se equivoca en una nota y no se detiene. Imagen: las manos de siempre (nudillos con costra, uñas que no quedan limpias) sobre las teclas blancas, una sola vez, sin fetiche.
+>
+> **Sigue PENDIENTE, no inventar:** origen (maestro, edad, por qué aprendió, quién tenía el piano), nivel técnico, repertorio más allá de esta pieza. Kal esquiva en escena ("Desde antes." / "Nadie pregunta."). El autor describió el talento como **"importantísimo para el futuro"** y fijó que *Träumerei* será una pieza profundamente ligada a él y, más adelante, una herencia emocional para [[02_Characters/Elenna_Mercer|Elenna]] — **ese pago NO se ejecuta ni se insinúa todavía**; el Cap. 38 no menciona a Elenna ni el origen.
+
+## Roma Atrii — pagado; "Del patio" (2026-09-20, Claude Code, [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/38_Al_Reves|Cap. 38]])
+
+Después del piano, Kal cobra por fin el cifrado ("Ya que estamos contando secretos. — Roma."). Chiara escribe ROMA en su papel y le dice que lo lea al revés; Kal lo entiende en el acto ("Amor", en voz baja). Pregunta "¿Y Atrii?" y recibe la traducción privada de Chiara: **"Mi amor del patio."** Entiende que Roma Atrii siempre fue él ("Entonces el chico. Ese día. Venía buscándome a mí."). Reacción mínima: dobla el papel, se lo guarda en el bolsillo interior junto a la carta, le pone la mano en la nuca, y repite **"Del patio"** — "como alguien que se guarda una llave en el bolsillo".
+
+> **DISEÑO derivado, fijado por el autor en el encargo:** ese residuo es el origen íntimo del nombre futuro de la organización, [[03_Factions/El_Patio]]. Chiara **no** bautiza nada ni lo sugiere; el término se queda dentro de Kal y, cuando la estructura necesite nombre, él podrá usarlo. Sólo ellos dos conocerán de dónde viene. No escribirlo como decisión consciente en ningún capítulo.
 
 ## Preguntas abiertas
 
