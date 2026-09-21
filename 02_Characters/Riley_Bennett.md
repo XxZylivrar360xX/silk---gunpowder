@@ -55,6 +55,7 @@ Lo que opera hoy:
 - Fue corredora de una banda rival.
 - Esa banda se desintegró.
 - Se integra a la organización junto con Mei-Lin.
+- **RESUELTO (2026-09-20):** Mei-Lin y Riley terminan de roommates en La Almendra — al principio por conveniencia (mismo derrumbe, espacio limitado que ofrece Kal), después por amistad real construida en la convivencia diaria (turnos, comida, autos, bromas). Cuando ejecutan a Mei-Lin en F2, Riley no pierde "a una operadora": pierde a la persona con la que se iba a dormir cada noche.
 - Se acerca a Chiara y termina bajo su protección.
 - Su arco apunta a un futuro mejor lejos de la calle.
 - En [[06_Relationships/Momentos_de_Fractura]], F2, Kal la destierra para salvarle la vida: sale hacia Nueva York y después Chiara organiza su llegada a Italia bajo el apellido de protección **Ardizzone**.

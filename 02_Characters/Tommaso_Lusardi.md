@@ -17,7 +17,11 @@ Tommaso Lusardi no necesita mencionar a Alessio para traerlo a la habitacion. Su
 
 Su funcion es cargar desde el primer capitulo una verdad que Chiara no puede ordenar por completo: San Aurelio es nuevo, pero no esta libre de Italia. El negocio la trae al futuro con gente que conoce exactamente de que pasado viene.
 
-> **CANON DEL AUTOR (2026-09-12):** Volpi entra como un desconocido al departamento de Tommaso en el norte y lo ejecuta sentado en la banca de su terraza. La composición evoca el asesinato de [[02_Characters/Raymond_Keene]] y abre una hipótesis pública de asesino serial que, por la pausa posterior, se descarta antes de *Cuentas de Sangre*. El motivo concreto de Volpi/Varek/La Mesa para eliminarlo sigue **PENDIENTE**; no convertirlo en una muerte funcional sin una causa dentro de la cadena mayor.
+> **CANON DEL AUTOR (2026-09-12):** Volpi entra como un desconocido al departamento de Tommaso en el norte y lo ejecuta sentado en la banca de su terraza. La composición evoca el asesinato de [[02_Characters/Raymond_Keene]] y abre una hipótesis pública de asesino serial que, por la pausa posterior, se descarta antes de *Cuentas de Sangre*.
+
+> **CANON DEL AUTOR (2026-09-20) — motivo resuelto.** Tommaso se involucra demasiado en el norte: convencido de que protege o amplía los intereses Lusardi en San Aurelio, empieza a construir inteligencia propia dentro del territorio de [[02_Characters/Dario_Varek|Dario Varek]] sin su autorización. Encuentra a [[02_Characters/Mei_Lin_Zhao|Mei-Lin Zhao]] — todavía conectada a corredores, rutas y gente joven de su antigua banda — y la usa como informante informal sobre lo que pasa "ahí arriba", sin verla aún como arma contra Kal. El error de Tommaso no es traición: es de jurisdicción. Cree que compra información; en realidad construye una línea de inteligencia dentro de un ecosistema que Varek considera suyo. Eso, para Dario, es intolerable — no por lealtad a Chiara, sino porque un socio extranjero con apellido y agenda propia está abriendo un canal que él no controla. Varek ordena la eliminación de Tommaso a través de [[02_Characters/Nereo_Volpi|Nereo Volpi]] (canon ya fijado en la ficha de Volpi: durante el Libro I, Nereo trabaja en secreto para Varek bajo apariencia de La Mesa). **Regla de escena, sin cambios:** en prosa, esto se deja sólo como pista razonable hacia La Mesa — no se confirma en escena que Varek lo dirige; esa revelación pertenece a *Cuentas de Sangre*.
+>
+> Dario no elimina también a Mei-Lin. La encuentra más útil viva: es joven, local, vulnerable, ya empieza a insertarse en el entorno de Kal, y le teme a Varek. En vez de cerrar la línea, la absorbe — Tommaso desaparece, la fuente permanece, y pasa a alimentar en secreto a Varek desde dentro de la periferia de El Patio. Ni Kal ni Chiara lo saben. Este hilo es la causa de origen de [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Riley y la muerte de Mei-Lin|F2]], en Parte V — Exilio, meses después.
 
 ## Reglas de escritura
 
@@ -32,6 +36,9 @@ Su funcion es cargar desde el primer capitulo una verdad que Chiara no puede ord
 - [[02_Characters/Alessio_Lusardi]] - hermano muerto.
 - [[02_Characters/Leone_Valenti]] - posible enlace con la capa institucional italiana; pendiente.
 - [[03_Factions/El_Casino]] - negocio que los reune en San Aurelio.
+- [[02_Characters/Mei_Lin_Zhao]] - la recluta como fuente de inteligencia informal en el norte; ese error de jurisdicción es lo que le cuesta la vida.
+- [[02_Characters/Dario_Varek]] - ordena su eliminacion a traves de Volpi al detectar la linea de inteligencia no autorizada.
+- [[02_Characters/Nereo_Volpi]] - ejecutor.
 
 ## Pendientes
 
@@ -40,3 +47,5 @@ Su funcion es cargar desde el primer capitulo una verdad que Chiara no puede ord
 > **PENDIENTE:** decidir si Tommaso cree la version oficial, la duda o finge creerla por conveniencia.
 
 > **PENDIENTE:** definir su peso real dentro de la famiglia Lusardi.
+
+> **RESUELTO (2026-09-20):** causa concreta de su asesinato — ver nota "motivo resuelto" arriba.

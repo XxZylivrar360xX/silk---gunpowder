@@ -79,6 +79,8 @@ Lo que opera hoy:
 
 La amenaza de deportación funciona porque Nadir es el único problema que Kal no puede resolver con sus herramientas habituales: no es dinero, no es territorio, no es un favor. Es un papel.
 
+**CANON DEL AUTOR (2026-09-20) — F2, en Parte V — Exilio:** cuando la filtración de [[02_Characters/Mei_Lin_Zhao|Mei-Lin]] se descubre (ver su ficha y [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Riley y la muerte de Mei-Lin|F2]]), es **Nadir** quien la ejecuta, no Kal. Kal decide y asume la responsabilidad de la decisión; Nadir carga el acto. La escena funciona precisamente porque Nadir es el protector de todos en la Almendra, querido y respetado — no un verdugo: para entonces Mei-Lin ya es una de las chicas del barrio, no "la corredora de otra banda". Nadir llora en el momento, no después. Esto es una deuda interpersonal que puede quedar sin pronunciarse durante años, y puede sembrarse como una de las cosas que nunca desaparecen entre Nadir y Kal — sin convertirla en la única causa de una eventual separación futura entre ellos.
+
 ---
 
 ## Método
@@ -112,6 +114,7 @@ Kal lo mantiene lejos de las finanzas centrales de Almendra Towing. No porque Na
 - [[02_Characters/Daniel_Hayes]] — testigo junto con él de la primera cena de Kal y Chiara.
 - [[02_Characters/Hector_Navarro]] — parte del núcleo que aparece con Kal en Gabriella's.
 - [[02_Characters/Chiara_Bellandi]] — al principio desconfía de ella; tolera su presencia por Kal y le exige demostrar que no es una complicación pasajera. La incomodidad empieza antes de que se conozcan.
+- [[02_Characters/Mei_Lin_Zhao]] — la ejecuta en F2 por orden de Kal; carga el acto de una decisión que no fue suya.
 
 ---
 

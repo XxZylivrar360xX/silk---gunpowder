@@ -1,6 +1,6 @@
 # Matriz de renombramiento de capítulos — Libro I
 
-> **Estado:** primera ronda parcialmente aplicada por aprobación del autor (2026-09-20); C22 pendiente.
+> **Estado:** primera ronda cerrada y aplicada por aprobación del autor (2026-09-20), incluido C22 — Causalidad.
 >
 > **Alcance:** comparar el título visible, la función real del capítulo y la imagen que debe quedar en memoria. Esta matriz no sustituye el `Book_Map` y no autoriza por sí sola cambios de nombre.
 
@@ -47,7 +47,7 @@
 | 19 | Tierra buena | `19_Tierra_Buena` | Kal compra la parcela, conoce a Garrett y recluta a Harper. | PROVISIONAL | La tierra nombra futuro y arraigo, pero aún no el conflicto dominante. | PENDIENTE: confirmar si el título debe mirar al terreno o al gesto de confianza. |
 | 20 | El mirador | `20_El_Mirador` | H11: bolos, drift, estrellas, Dale y Ruth, primer beso e intimidad. | CANON / HITO | Lugar concreto que sostiene la apertura íntima y el salto de la pareja. | Conservar. |
 | 21 | El primer huésped | `21_El_Primer_Huesped` | Kal y Chiara recogen a Marisol tras la agresión; Kal verbaliza su promesa vinculada a Michael; Marisol prepara el desayuno para ambos. | CANON DEL AUTOR — APLICADO | El título sí está sostenido por una frase explícita. Otra opción puede incorporar mejor el papel de Chiara. | Elección del autor: El primer huésped; encabezado, archivo y referencias sincronizados. |
-| 22 | Sin rastro | `22_Sin_Rastro` | Kal retira y desarma el auto de un huésped ebrio; Chiara construye la versión administrativa; Dario registra la autonomía de ella. | PENDIENTE DEL AUTOR | Hay encubrimiento, pero queda una huella de su coordinación ante Dario. La sinopsis anterior de ausencia y llamadas era errónea. | El autor plantea Causalidad o Casualidad; recomiendo Causalidad. Sigue Sin rastro hasta decidir. |
+| 22 | Causalidad | `22_Causalidad` | Kal retira y desarma el auto de un huésped ebrio; Chiara construye la versión administrativa; Dario registra la autonomía de ella. | CANON DEL AUTOR — APLICADO | Hay encubrimiento, pero queda una huella de su coordinación ante Dario. La sinopsis anterior de ausencia y llamadas era errónea. | Aprobado por el autor: Causalidad; encabezado, archivo y referencias sincronizados. |
 | 23 | La letra pequeña | `23_La_Letra_Pequena` | Hoover excluye a Kal; comienza la disputa civil por el concesionario. | PROVISIONAL / FUERTE | La letra pequeña es contrato, trampa y lectura atenta de Chiara. | Conservar como candidato principal; validar contra el capítulo siguiente. |
 | 24 | Bajo juramento | `24_Bajo_Juramento` | Chiara testifica, se abre la grieta de “amigo” y Kal entra a Villani Motors. | CANON / FUERTE | El juramento legal también presiona la unión invisible. | Conservar. |
 | 25 | Libros abiertos | `25_Libros_Abiertos` | H15: jacuzzi, intimidad elegida, cicatriz de Kal y pérdida de Corrado. | CANON / FUERTE | Libro literal, apertura emocional y contabilidad del pasado. | Conservar. |
@@ -95,7 +95,7 @@
 
 - [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/04_Tarifa_Nocturna]]: tarifa, factura enseñable, respuesta al tercer tono y cierre sobre lo que no aparecerá en la hoja.
 - [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/21_El_Primer_Huesped]]: declaración de Kal en el mezzanine, desayuno dedicado a ambos y despedida de Marisol.
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/22_Sin_Rastro]]: llamada inicial, retiro del auto, versión del hotel y coda Dario/Tommaso.
+- [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/22_Causalidad]]: llamada inicial, retiro del auto, versión del hotel y coda Dario/Tommaso.
 - [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/28_La_Correa]]: sudadera, discusión de autonomía y puerta abierta en los dos sentidos.
 - [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/30_Media_Baraja]]: media baraja, fotografías, acuerdo y reunión con El Patio.
 - [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta]]: atención extra de Kenji, reclamo de Marisol, dinero contado y límite de Kal al decidir por ella.
@@ -106,10 +106,11 @@
 |---:|---|---|
 | 4 | Tarifa nocturna | Aplicado |
 | 21 | El primer huésped | Aplicado; sustituye la propuesta Para los dos |
+| 22 | Causalidad | Aplicado; sustituye Sin rastro |
 | 28 | La correa | Confirmado sin cambio |
 | 30 | Media Baraja | Aplicado con la formulación y mayúsculas del autor |
 | 33 | Más de la cuenta | Aplicado |
 
 Encabezados y nombres de archivo sincronizados; referencias de ruta actualizadas, incluidas las históricas para mantener navegación. Las descripciones históricas conservan sus títulos de época. Prosa verificada idéntica. EPUB sin regenerar.
 
-> **PENDIENTE — C22:** el autor plantea «¿Causalidad o Casualidad?». Se recomienda **Causalidad**: el encubrimiento nace de decisiones coordinadas y provoca la atención de Dario. **Casualidad** pondría el peso en el azar, que no organiza el capítulo. Si la propuesta era usar la pregunta completa como título, queda también a elección del autor; sería más explícita y discursiva. Hasta confirmar, el título y la ruta siguen siendo **Sin rastro**.
+> **RESUELTO — C22, CANON DEL AUTOR:** «causalidad se queda». Título definitivo de esta ronda: **Causalidad**. Encabezado, archivo y referencias sincronizados. La primera ronda de seis capítulos queda cerrada; las alternativas anteriores se conservan como historial del estudio.

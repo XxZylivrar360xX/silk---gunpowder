@@ -7,7 +7,7 @@ Funcion: ejecutar beats 16 y 17 — un trabajo chico y sucio resuelto juntos, si
 Pasada editorial 2026-09-10 (Claude Code, decision del autor): accidente achicado a solo la farola (sin tercer auto danado); logistica de grua unica; certeza del narrador limitada a lo que Kal y Chiara creen haber cerrado; poda de glosas y del encabezado de seccion; "sin ayuda de nadie" precisado a "sin que llegara a los socios". Dialogo protegido intacto.
 -->
 
-# Capítulo 22 — Sin rastro
+# Capítulo 22 — Causalidad
 
 La llamada llegó a las tres y once de la madrugada.
 

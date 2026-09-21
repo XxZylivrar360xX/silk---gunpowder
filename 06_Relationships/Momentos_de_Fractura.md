@@ -121,17 +121,25 @@ Chiara ayudaba a **Elliot Price**, un hombre autista vinculado al taller; se sob
 
 ### Adaptación
 
-Kal pone a prueba a [[02_Characters/Mei_Lin_Zhao]] y [[02_Characters/Riley_Bennett]] después de detectar indicios de que la banda rival desintegrada no murió del todo o de que alguien está usando su pasado para meter una fuente dentro del Patio.
+> **CANON DEL AUTOR (2026-09-20) — cadena causal completa.** F2 deja de nacer de una prueba genérica de lealtad. Tiene origen concreto: ver [[02_Characters/Tommaso_Lusardi]] y [[02_Characters/Mei_Lin_Zhao]] para el detalle completo. Resumen operativo:
+>
+> `Tommaso recluta a Mei-Lin como fuente informal sobre el norte (Parte III, antes de su muerte) → Dario descubre la línea y elimina a Tommaso por Volpi → Dario absorbe a Mei-Lin en vez de eliminarla también → Mei-Lin se integra de verdad a El Patio y convive con Riley en La Almendra → sigue filtrando información a Varek por miedo, mientras empieza a querer sinceramente a la gente del Patio → meses después (Parte V — Exilio) la filtración se descubre → ya no hay forma de conservarla dentro → se sentencia su ejecución → Nadir la ejecuta → poco después Riley también debe salir de San Aurelio.`
+>
+> Esto separa F2 en dos beats encadenados y correlativos, no un solo evento simultáneo:
+>
+> - **F2-a — Mei-Lin.** Se descubre la filtración. Fue fuente pasiva de Varek, no infiltrada desde el origen. El Patio la quiere de verdad — eso es lo que vuelve real el daño. La ejecución ocurre junto al mar/Puerto Viejo. **Ejecuta Nadir**, no Kal — ver [[02_Characters/Nadir_Amrani]].
+> - **Intervalo corto.**
+> - **F2-b — Riley.** La organización todavía está procesando la muerte de Mei-Lin. Riley acaba de perder a su roommate y amiga real. En ese contexto, su propio conflicto (el que la pone en riesgo directo — **PENDIENTE**, no inventar) obliga a Kal a encontrar la única salida distinta de matarla: el destierro.
+>
+> Chiara no pierde a dos chicas en una abstracción de seguridad conjunta: primero pierde a una definitivamente: después pierde a la otra porque ésa es la única manera de no perderla también para siempre.
 
-Mei-Lin da a entender, por miedo, ambición o cálculo, que su lealtad no es limpia. Eso arrastra a Riley, porque entraron juntas y la credibilidad de una sostiene a la otra.
+Mei-Lin y Riley conviven como roommates en La Almendra — al principio por conveniencia (mismo derrumbe de banda, espacio limitado que ofrece Kal), después por amistad real construida en la convivencia diaria. Esa convivencia es lo que vuelve la muerte de Mei-Lin un trauma directo para Riley, no la pérdida de una compañera de trabajo.
 
-El barrio, los viejos y los chicos del Patio llegan a una conclusión brutal: si una de las dos habla, todos caen. Hay que ejecutarlas antes de que abran la boca.
+El barrio, los viejos y los chicos del Patio llegan a una conclusión brutal cuando se descubre la filtración: si Mei-Lin sigue dentro, todos caen. Hay que ejecutarla antes de que la fuente escale.
 
 ### Lo que hace Kal
 
-Kal las lleva a una supuesta reunión con un cliente.
-
-Primero ejecutan a Mei-Lin. Su cuerpo termina en el mar, usando la costa o Puerto Viejo como ruta de desaparición.
+Kal decide la ejecución de Mei-Lin y organiza la reunión que la lleva hasta ahí, pero **es Nadir quien la ejecuta** — dos disparos, limpio, sin ceremonia: Mei-Lin cree hasta el final que están trabajando. Nadir llora en el momento, no después. La escena funciona porque Nadir es el protector querido de todo el barrio, no un verdugo — la organización de Kal ya creció hasta obligarlo a matar a una de las suyas. Su cuerpo termina en el mar, usando la costa o Puerto Viejo como ruta de desaparición. Kal carga la responsabilidad de la decisión; Nadir carga el acto — una deuda entre ambos que puede quedar sin pronunciarse durante años.
 
 Con Riley, Kal cambia el destino. No puede ejecutarla sabiendo lo que Chiara la quiere y lo que Riley representa para ella. La lleva al norte, a una pista clandestina cerca de [[05_Locations/Cedar_Flats]] y las rutas de Kingsley Field, y organiza sacarla hacia Nueva York.
 
@@ -175,9 +183,11 @@ Después él le da un beso en la frente. No arregla nada. Sólo deja claro que l
 
 - No usar esta escena antes de que Riley importe de verdad.
 - Antes de F2, Parte II debe haber construido suficiente relación Riley–Chiara para que *te confío a mi hija* sea consecuencia y no atajo.
-- Mei-Lin no puede morir como figurante: su duda debe doler porque tenía valor.
+- Mei-Lin no puede morir como figurante: su traición es real, pero nace de miedo y coerción, no de plan ni de indiferencia — debe doler porque tenía valor y porque el Patio la quería de verdad.
 - Chiara no debe absolver a Kal de manera fácil. Su frase no borra el daño; lo reconoce.
 - Si Riley vuelve físicamente a San Aurelio, no debe ser barato: su regreso pone en riesgo la mentira que la mantiene viva. Su presencia posterior desde Italia no equivale a deshacer el destierro.
+- Nadir ejecuta a Mei-Lin; Kal decide. No fusionar ambos roles ni hacer que Kal dispare — ver [[02_Characters/Nadir_Amrani]].
+- No revelar en escena, durante el Libro I, que la fuente de Mei-Lin era Varek (a través de Tommaso) — ver la regla equivalente en [[02_Characters/Nereo_Volpi]]: puede sugerirse como La Mesa, sin confirmar a Varek como director hasta *Cuentas de Sangre*.
 
 ---
 
@@ -362,7 +372,8 @@ Este orden permite que la relación escale de una mentira íntima resuelta pront
 
 - ~~Objeto exacto de la pista de Matteo que Chiara investiga en F1.~~ **RESUELTO (2026-09-20, versión definitiva — sustituye "el auto de Matteo / un primo lo recogería"):** inconsistencia de mensajería — la documentación de Génova pasó por un servicio comercial de San Aurelio antes del Monarch; el vehículo del mensajero queda registrado en cámara (modelo, color, matrícula, empresa).
 - ~~Incidente exacto que obliga a Riley a informarle a Kal.~~ **RESUELTO (2026-09-20, versión definitiva con escena concreta):** en Almendra Towing, un hombre aborda a Riley sin amenaza explícita ("¿Buscas a alguien?" / "Entonces ya encontraste lo que buscabas") y después otro coche la sigue varias calles antes de que lo pierda — demuestra que ya sabe quién es, sin identificarse.
-- Definir si Mei-Lin realmente traicionó o si sólo dejó demasiada duda.
+- ~~Definir si Mei-Lin realmente traicionó o si sólo dejó demasiada duda.~~ **RESUELTO (2026-09-20):** sí traiciona realmente — es fuente pasiva de Varek desde que Tommaso la recluta — pero por coerción/miedo, no por plan de infiltración ni indiferencia hacia El Patio. Ver [[02_Characters/Mei_Lin_Zhao]] y [[02_Characters/Tommaso_Lusardi]].
+- **NUEVO PENDIENTE (2026-09-20), no inventar todavía:** qué información exacta entrega Mei-Lin a Varek, y qué hecho concreto permite a Kal/El Patio descubrir la filtración. Necesario antes de escribir F2 en Parte V; no bloquea los capítulos actuales de Parte III.
 - Nombrar la pista clandestina del norte.
 - ~~Confirmar si Riley Colombo queda como alias definitivo.~~ **RESUELTO DE ARQUITECTURA (2026-08-31):** Riley vive en Italia como **Riley Colombo**. Mecanismo documental, cobertura legal, apoyo y localización exacta pendientes.
 - Fijar cuánto tiempo transcurre entre F2, su establecimiento estable en Italia y el nacimiento de Elenna.

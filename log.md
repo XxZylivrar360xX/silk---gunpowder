@@ -1,5 +1,13 @@
 # Log de Sesiones — Seda y Pólvora
 
+## [2026-09-20] Claude Code — Cadena causal Tommaso → Mei-Lin → F2 canonizada
+
+Decisión del autor, canonizada a petición explícita. Se resuelve el motivo del asesinato de Tommaso (recluta sin autorización a Mei-Lin como fuente en territorio de Varek; Dario lo elimina por Volpi y absorbe a Mei-Lin como fuente pasiva), si Mei-Lin realmente traicionó (sí, por coerción/miedo, no por plan de infiltración) y quién ejecuta a Mei-Lin en F2 (Nadir, por decisión de Kal). F2 pasa a documentarse como dos beats correlativos (F2-a Mei-Lin, F2-b Riley) sin mover su posición ya fijada en Parte V, antes de H1. Actualizados: `Tommaso_Lusardi.md`, `Mei_Lin_Zhao.md`, `Nadir_Amrani.md`, `Riley_Bennett.md`, `Momentos_de_Fractura.md`, `01_Timeline/02_Libro_01_Seda_y_Polvora.md`, `PENDING.md`, `CURRENT_BRIEF.md`. Nuevo pendiente derivado: información exacta que filtra Mei-Lin y hecho que la delata. Se detectó de paso, sin resolver, la inconsistencia preexistente "Riley Ardizzone" (ficha) vs. "Riley Colombo" (Momentos_de_Fractura / timeline). Sin prosa, sin EPUB, sin commit.
+
+## [2026-09-20] Codex — Causalidad confirmado y aplicado
+
+El autor confirmó **Causalidad** como título del Capítulo 22. Renombrado `22_Sin_Rastro.md` a `22_Causalidad.md` y actualizado el encabezado; rutas sincronizadas en el vault, incluida la tabla de estado editorial. Matriz, Book Map, INDEX y relevo actualizados para cerrar la primera ronda de seis títulos. Prosa conservada íntegra. Sin EPUB ni commit.
+
 ## [2026-09-20] Codex — Primera ronda de títulos aprobada parcialmente
 
 Por decisión explícita del autor, se aplicaron C04 Tarifa nocturna, C21 El primer huésped, C30 Media Baraja y C33 Más de la cuenta; C28 conserva La correa. Cambiados encabezados y nombres de archivo; referencias de ruta actualizadas conservando las descripciones históricas. Comparación del cuerpo de prosa antes/después: idéntico en los cuatro capítulos. Matriz, Book Map, INDEX y relevo sincronizados. C22 sigue Sin rastro: el autor plantea Causalidad / Casualidad y el agente recomienda Causalidad, sin canonizarlo. Sin EPUB ni commit.

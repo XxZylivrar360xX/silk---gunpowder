@@ -166,7 +166,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[01_Timeline/04_Libro_03_Cuentas_De_Sangre]] — acontecimientos principales del Libro III, enunciados
 - [[01_Timeline/05_Libro_04_Juramento_De_Hierro]] — acontecimientos principales del Libro IV, enunciados
 - [[01_Timeline/06_Libro_05_Camino_A_Casa]] — acontecimientos principales del Libro V, enunciados
-- [[01_Timeline/07_Matriz_Renombramiento_Capitulos_Libro_I]] — estudio inicial de C01–C34; aprobados y aplicados C04 Tarifa nocturna, C21 El primer huésped, C30 Media Baraja y C33 Más de la cuenta; C28 La correa confirmado; C22 pendiente
+- [[01_Timeline/07_Matriz_Renombramiento_Capitulos_Libro_I]] — estudio inicial de C01–C34; primera ronda cerrada: C04 Tarifa nocturna, C21 El primer huésped, C22 Causalidad, C28 La correa (conservado), C30 Media Baraja y C33 Más de la cuenta
 - [[01_Timeline/90_Archivo_Historico_Estructura_del_Ascenso]] · [[01_Timeline/91_Archivo_Historico_Primer_Borrador_Beats]] · [[01_Timeline/92_Archivo_Historico_Cadena_De_Eventos_Libro_I]] — documentos anteriores, sólo para trazabilidad
 - [[10_Chapters/README]] — prosa (vacío; el protocolo previo a escribir está ahí)
 - [[11_Books/README]] — montaje editorial del libro y flujo EPUB
