@@ -16,16 +16,16 @@
 
 El libro cierra con **H1** (clímax) y la llegada física de **Warren Halbrook** a San Aurelio (coda). Todo lo que sigue en este archivo ocurre **antes** de la Guerra de los Tres, que pertenece a *Voto de Ceniza* (Libro II) — ver [[00_Biblia/00_Trilogy_Structure]], sección Libro II, y [[01_Timeline/01_Indice_Cronologico]].
 
-**Brújula de las seis Partes:**
+**Brújula de las seis Partes — DISEÑO, no diálogo narrativo:**
 
 | Parte | Una frase |
 |---|---|
 | I — Dos Mundos | Nos encontramos. |
 | II — Con Peores Personas He Tratado | Aprendemos a funcionar juntos. |
 | III — Ardizzone | Mientras Kal construye una mesa, las sillas alrededor de Chiara empiezan a desaparecer. |
-| IV — Nieve Y Ceniza | Kal regresó. Ahora hay que descubrir cuánto costó recuperarlo y si amar a alguien permite pedirle que no se arriesgue. |
-| V — Exilio | La estructura ya es suficientemente grande para empezar a expulsar a quienes la construyeron. |
-| VI — Torna A Casa | Todo lo construido cobra su factura; la pregunta final no es quién controla San Aurelio, sino quién consigue volver a casa. |
+| IV — Nieve Y Ceniza | Kal consiguió volver a casa. Ahora descubrirán que también pueden perder la casa. |
+| V — Exilio | Perder personas no les enseña a olvidarlas; les enseña que sobrevivir también exige construir después de la pérdida. |
+| VI — Torna A Casa | Después de aprender a construir hogares, tienen que descubrir qué están dispuestos a hacer para volver a su familia. |
 
 ---
 
@@ -141,7 +141,7 @@ Dos procesos simultáneos:
 
 Chiara informa: **Matteo se fue abruptamente de San Aurelio** — su hermano **[[02_Characters/Elio_Bellacorte|Elio]]** desapareció en **Génova, Italia** (nombre y ciudad resueltos 2026-09-20, ambos ya nombrados en la carta y el diálogo del Cap. 35) y Matteo regresa allí a averiguar qué pasó (ver [[02_Characters/Matteo_Bellacorte]] y [[02_Characters/Nereo_Volpi]], que ya fija esto como CANON DEL AUTOR 2026-09-12: la desaparición es obra de Volpi, ejecutor extraoficial de La Mesa, para podar a Matteo del Libro I).
 
-**PENDIENTE, no inventar:** nombre, oficio y destino del hermano; ciudad de la desaparición; mecanismo de Nereo; quién dentro de La Mesa lo activa; qué descubre Matteo.
+**PENDIENTE, no inventar:** destino de Elio; mecanismo de Nereo; quién dentro de La Mesa lo activa; qué descubre Matteo. Nombre, oficio y ciudad ya resueltos: Elio Bellacorte, arquitecto financiero y societario, Génova.
 
 **La carta:** nota funcional que Matteo deja — precipitada, razonable, administrativa, sin lenguaje siniestro. Sin "si algo me pasa", sin advertencias sobre La Mesa, Dario o Volpi. Para Chiara y el lector: un hombre que abandona temporalmente el trabajo porque su hermano desapareció.
 
@@ -153,7 +153,9 @@ Chiara informa: **Matteo se fue abruptamente de San Aurelio** — su hermano **[
 
 ### H16 — El cumpleaños / la mudanza (con espejo nuevo)
 
-Mueve **[[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial|H16]]** a este punto (ya es su posición canon vigente desde 2026-09-20: abre la Parte III, Cap. 35). Gana un espejo nuevo por el contexto: Matteo acaba de abandonar temporalmente una estructura a la que Chiara pertenecía; inmediatamente después, **Chiara consolida oficialmente el hogar que eligió con Kal** (los tres regalos: la yegua, la botella, la llave del loft). Tema: una institución empieza a perder gente mientras su vida elegida gana raíces.
+> **ESCRITO (2026-09-20, Claude Code, BORRADOR — reestructurado el mismo día con el arco completo dictado por el autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/36_Tambien_Las_Mananas|Capítulo 36 — También las mañanas]] (título provisional). Salto de POV puntual a Kal para el muelle de carga de Kingsley Field, la yegua escapada y la persecución (con susto cardíaco de Héctor, no infarto) que consume casi todo el día; vuelve al POV de Chiara para la llamada nocturna, la recogida en el Penthouse y la caminata con los ojos cubiertos hasta las caballerizas, con las campanas de Santa Lucía sonando al llegar.
+
+Mueve **[[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial|H16]]** a este punto (ya es su posición canon vigente desde 2026-09-20: sigue a la apertura de Parte III, ejecutado en el Cap. 36). Gana un espejo nuevo por el contexto: Matteo acaba de abandonar temporalmente una estructura a la que Chiara pertenecía; inmediatamente después, **Chiara consolida oficialmente el hogar que eligió con Kal** (los tres regalos: la yegua, la botella, la llave del loft). Tema: una institución empieza a perder gente mientras su vida elegida gana raíces.
 
 ### Ascenso de Kal / construcción de El Patio
 
@@ -264,90 +266,154 @@ Kal: rodeado, con estructura propia (El Patio) y una frontera moral cruzada (Ren
 
 ## Parte IV — Nieve Y Ceniza
 
-### Función
+### Función macro
 
-Parte III terminó con el regreso. Parte IV empieza preguntando **¿cuánto costó?**: quién pudo sacar a Kal, por qué, qué significa que la autoridad militar pudiera retenerlo y soltarlo casi instantáneamente, qué deuda quedó creada y cuál fue la función real del apagón. La respuesta de escala apunta a **[[02_Characters/Warren_Halbrook|Halbrook]]** — no necesariamente revelar todo de inmediato.
+**CANON DEL AUTOR — reconciliación 2026-09-20.** Empieza inmediatamente después del regreso imposible de Kal de Camp Alder. La pregunta inicial es **¿quién pudo devolverlo y cuánto va a costar?**: misterio de la salida de custodia, escala de Halbrook, costo y deuda. El mecanismo de liberación permanece pendiente. La Parte evoluciona hacia **¿qué ocurre cuando el hogar al que Kal consiguió regresar también puede ser destruido?**
 
 ### Apertura inmediata
 
-> **DISEÑO NUEVO de esta sesión.** Sin salto temporal sustancial. Diálogo propuesto:
+> **Chiara:** ¿Qué carajo haces aquí?
 >
-> **Chiara:** —¿Qué carajo haces aquí?
-> **Kal:** —Bueno, señora Bellandi, resulta que esta es mi casa.
+> **Kal:** Bueno, señora Bellandi, resulta que esta es mi casa.
 
-Función: cortar la solemnidad del milagro y devolver de inmediato la voz de Kal.
+La relación ya está reparada desde F1 / Los Tres Días en Parte III. Camp Alder deja cicatriz, no una nueva ruptura ni otros Tres Días. El crecimiento de El Patio y la presión institucional continúan; no se resuelven por la vuelta de Kal.
 
-### Sin "Los Tres Días" propios
+### Navidad y el último hogar completo
 
-> **CORRECCIÓN (2026-09-20, decisión del autor — sustituye la versión anterior de esta sección).** F1 y sus Tres Días **no** ocurren aquí: quedaron reubicados dentro de la Parte III, entre la apertura (Matteo) y H13/Palermo — ver esa sección, arriba, y [[06_Relationships/Momentos_de_Fractura#F1 - La mentira bajo la lluvia|Momentos_de_Fractura, F1]]. Para cuando Kal vuelve de Camp Alder, la pareja ya atravesó y resolvió su primera fractura seria; lo que Parte IV pregunta no es "¿pueden reconciliarse?" sino "¿cuánto costó la libertad de Kal, y qué le hace eso a una relación que ya se probó a sí misma en F1?".
+La primera Navidad pertenece a Parte IV. El eje **Torna a casa / Retorna a casa** se sostiene en el collar cuya inscripción vigente es **RETORNA A CASA**, según [[06_Relationships/Kal_y_Chiara#CANON — Retorna a casa]]. No se cambia el texto grabado. Después de Camp Alder, volver deja de ser una frase doméstica y se convierte en promesa.
 
-Preguntas que sí cobra esta apertura, sin repetir la estructura de F1:
+El loft sigue siendo **la casa de ambos**: Chiara ayudó a construirlo, aprendieron rutinas, se cuentan el día y ahí regresó Kal. Fue casa compartida antes de que dominaran el lenguaje de pareja. Navidad es uno de sus últimos momentos completos; destruirlo exige que ese uso cotidiano siga presente.
 
-- Chiara: si todos los demás se fueron, ¿qué significa que Kal tome decisiones que también pueden llevárselo?
-- Kal: amar a Chiara no significa abandonar a su gente ni entregarle la decisión sobre sus obligaciones.
+### H8 por componentes, sin nuevos IDs
 
-Ambos tienen razones legítimas. Cobra la misma tesis sembrada en Parte II y ya probada en F1: **proteger sin decidir por el otro.**
+- **Componente incendio:** cierra Parte IV. Crowe destruye el loft; la amenaza/incidente conserva el material de [[06_Relationships/Hitos#H8 — El incendio, la mentira y la villa]]. No se inventa su mecanismo ni se sustituye el motivo aún en reconciliación.
+- **Componente mentira:** la mentira existente es la explicación de **una fuga de gas** con que Kal oculta la amenaza de Crowe. Sigue ligada al incendio. **DISEÑO de colocación:** su instalación pertenece al bloque de cierre de Parte IV; la confesión o cobro posterior no tiene posición suficiente. **[PENDIENTE DE RECONCILIACIÓN — componente mentira de H8]:** ubicación del cobro y contenido exacto de la amenaza, sin prolongar el cierre hacia la Villa.
+- **Componente Villa:** se separa temporalmente; reconstrucción de Parte V **después del día Mei-Lin/Riley**. H8 conserva su ID y título de referencia, pero ya no es un bloque continuo.
 
-### Navidad / Torna a casa
-
-Parte IV contiene la primera Navidad y el ritual del collar, per [[06_Relationships/Hitos#Hitos por recibir|"Hitos por recibir"]]: obligatorio porque es donde nace el ritual que sostiene H1, y la única vez en la vida adulta de Kal en que acepta un regalo sin convertirlo en transacción. Detalles de posición y ejecución siguen **PENDIENTE**. Función potenciada aquí: Chiara ya vivió la posibilidad de que Kal no vuelva, así que "volver a casa" deja de ser lenguaje doméstico casual y se convierte en promesa — anclaje directo hacia [[00_Biblia/00_Trilogy_Structure#H1 — El regreso a casa|H1]].
+El collar y la caja de acero sobreviven según H8; no salvan el hogar. El desplazamiento posterior no convierte el fuego en mero trámite de mudanza.
 
 ### Condición de salida — Parte IV
 
-Relación reparada pero no ingenua. Costo de Halbrook activo (mecanismo jurídico de la liberación de Kal sigue **PENDIENTE** — ver [[06_Relationships/Hitos#H20 — Consecuencia: Halbrook / prisión militar / Lucia|H20]]). Kal cada vez más comprometido con su estructura. Chiara ha comprobado cuánto miedo le produce concentrar su pertenencia en una sola persona. Esto alimenta directamente **Exilio**.
+Kal y Chiara han sobrevivido Camp Alder y recuperado su relación, pero **pierden físicamente el lugar al que Kal regresó**. Navidad / hogar / invierno → fuego → ceniza. La pregunta «¿puede volver a casa?» se transforma en **¿qué ocurre cuando ya no hay casa a la cual volver?** El incendio cierra la Parte; ni Mei-Lin ni Villa Candelaria ocupan ese cierre.
 
 ---
 
 ## Parte V — Exilio
 
-### Función
+### Función macro
 
-Qué sucede cuando la organización que Kal construyó empieza a necesitarlo más de lo que una sola persona puede sostener. Kal entra progresivamente en piloto automático: la organización ya puede operar, pero precisamente por eso produce nuevas obligaciones.
+Kal y Chiara pierden lugares y personas, pero empiezan a descubrir que reconstruir no significa reemplazar. Mei-Lin muere, Riley tiene que irse, Nadir queda herido y el loft ya no existe. Kal responde intentando construir una nueva casa, nuevos recuerdos y una promesa de futuro.
 
-`EXILIO` opera en varias escalas: Riley — exilio físico; Kal — autoexilio dentro de responsabilidad; Chiara — aislamiento emocional; pareja — pérdida de espacios pequeños.
+**Brújula — DISEÑO:** no puede devolver lo perdido. Puede decidir qué construir después.
 
-### Nadir
+### Apertura: Año Nuevo / F4
 
-Construir aquí la grieta que eventualmente lleva a su separación futura (diferencias sobre crecimiento, autonomía, costo de continuar, heridas dejadas por Héctor / iglesia según la cronología aprobada). **No ejecutar material de libros posteriores** — sólo sembrar la grieta.
+**F4 abre Parte V, después del incendio.** Es el 1 de enero, cumpleaños de Kal. Kal y Chiara pasan el cambio de año **solos, juntos y desplazados**; todavía no han construido Villa Candelaria. El primer exilio es haber perdido la casa que hicieron suya. Por un momento, hogar son solamente ellos dos.
 
-### Riley y Mei-Lin — F2
+Se conserva el nombre histórico **Año Nuevo en Washington** y Washington como localización de F4. La versión que los separaba esa noche entre Washington y el penthouse queda **SUPERSEDIDA POR DECISIÓN AUTORAL 2026-09-20**. **PENDIENTE:** encajar el desplazamiento conjunto y la obligación con Anya sin inventar logística ni otra ciudad. Ver [[06_Relationships/Momentos_de_Fractura#F4 - Año Nuevo en Washington]].
 
-**[[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Riley y la muerte de Mei-Lin|F2]]** es CANON DEL AUTOR como **dos beats correlativos, no un solo evento simultáneo** (actualizado 2026-09-20): **F2-a**, la ejecución de Mei-Lin (cuerpo al mar) — a manos de [[02_Characters/Nadir_Amrani|Nadir]], por decisión de Kal, no por su propia mano — cierra una filtración real que arranca en Parte III con [[02_Characters/Tommaso_Lusardi|Tommaso]] y que [[02_Characters/Dario_Varek|Varek]] absorbió tras matarlo (ver la nota de Tommaso, arriba). Un intervalo corto después, **F2-b**: con la organización todavía procesando esa muerte, el conflicto propio de Riley (**PENDIENTE**, no inventar) obliga a Kal a desterrarla en vez de ejecutarla — la saca hacia el norte y Chiara organiza su salida final a Italia como **Riley Colombo**. Posición ya fijada: en el Libro I, después de que exista Villa Candelaria, con aire suficiente **antes de H1** — coincide con la colocación de este documento en Parte V, antes de Parte VI / H1. No usar antes de que Riley importe de verdad para Chiara; el destierro nace del conflicto propio de Riley, no se diseña para Elenna (payoff futuro, nunca causa retroactiva).
+### F3 y la escalada
 
-### Mei Lin — cierre
+Se conserva **F4 → F3 — Los frenos**, con el contenido ya fijado en [[06_Relationships/Momentos_de_Fractura#F3 - Los frenos]]. Forma parte de la escalada anterior al gran día de F2. **PENDIENTE:** distancia precisa entre F4, F3 y F2; no se inventan escenas ni mecanismos nuevos. Ya no existe la unidad indivisible F4 → F3 → H8: el incendio ocurrió antes de F4.
 
-La ejecución de Mei-Lin (parte del mismo episodio de F2, arriba) debe sentirse como una pérdida decisiva: frontera moral del ascenso de El Patio, no una muerte funcional.
+### F2 — una macrofractura, dos destinos, un mismo día
+
+**CANON DEL AUTOR:** la ejecución de Mei-Lin y el destierro de Riley ocurren **el mismo día**, dentro de una crisis. F2 conserva su identidad; F2-A y F2-B sólo distinguen componentes internos, no nuevos hitos. No hay intervalo de días ni semanas.
+
+La cadena Tommaso → Mei-Lin → Varek sigue intacta: Tommaso construye inteligencia propia y cruza jurisdicción del norte; Varek lo elimina mediante Volpi y absorbe a Mei-Lin como fuente pasiva. Kal y Chiara no conocen esa causalidad en Parte III. La revelación concluyente **Varek–Volpi** sigue reservada para Libro III; documentar la cadena no autoriza a revelarla completa en F2.
+
+En Parte V se descubre definitivamente la filtración real. Mei-Lin no entró para destruir El Patio: valora a Kal, quiere a Riley y encuentra hogar en La Almendra, pero teme más a Varek de lo que confía en que Kal pueda protegerla. **Los quería + los traicionó + tenía miedo.** No es villana ni queda absuelta.
+
+Riley y Mei-Lin viven juntas en La Almendra. La amistad crece por casa, horarios, barrio, autos, rutinas y pertenencia al grupo joven; no exige que fueran mejores amigas desde su primera aparición.
+
+- **F2-A / Mei-Lin:** costa, junto al mar. Cree que participan en una entrega de mercancía, no espera una ceremonia. Ejecución limpia; **Nadir dispara por detrás y llora**. Kal carga la decisión y Nadir el acto. No detallar tácticas: el protector de los jóvenes mata a una de las chicas que acabó protegiendo.
+- **F2-B / Riley, ese mismo día:** su conflicto propio obliga a sacarla de San Aurelio / El Patio para evitar otra muerte. El conflicto exacto sigue pendiente. Se conserva la salida norte → Nueva York → Italia, sin imponer que complete todos esos traslados el mismo día. Mei-Lin se queda y muere; Riley vive porque se va.
+
+El destierro no es premio: Riley pierde a Mei-Lin, La Almendra, Chiara, su red cotidiana, ciudad, identidad habitual y la vida que construía. Su futuro papel con Elenna es payoff de esa vida propia, nunca causa del destierro.
+
+> **PENDIENTE antes de redactar F2:** información exacta filtrada, frecuencia, daño y hecho que delata a Mei-Lin; conflicto específico de Riley. No resolverlos por conveniencia.
+
+### Consecuencias: Chiara, Nadir y Kal
+
+Chiara carga ya con Matteo, la distancia de Fabrizio, Tommaso, la ausencia temporal de Kal y el loft. Ahora pierde a Mei-Lin definitivamente y a Riley para evitar otra muerte, en un solo día. Profundiza «todos cerca de mí se van» sin repetirlo como tesis en diálogo.
+
+Nadir sigue leal y trabajando, puede justificar que era necesario, pero aparece una de las primeras grietas profundas entre la persona y el miembro de la organización. No abandona a Kal ni se vuelve enemigo aquí. Esta herida puede contribuir a su deseo futuro de vida y poder fuera de la institución, sin ser su causa única.
+
+Kal autoriza la muerte, la hace ejecutar mediante Nadir, obliga a Riley a irse y ve el daño sobre Chiara, Nadir y El Patio. Comprende que su organización produce costos que no sabe revertir. **Empieza a sobrecompensar:** cuando no puede reparar una herida, intenta construir algo bueno junto a ella. Sabe construir mejor de lo que sabe consolar; se expresa mediante tiempo, hogar, experiencias y pequeñas alegrías, no exposición psicológica ni consumo ostentoso.
+
+### Villa Candelaria — reconstrucción deliberada
+
+**Después del incendio y después del día Mei-Lin/Riley**, [[05_Locations/La_Villa|Villa Candelaria]] se adquiere / funda / convierte en hogar. Kal puede volver posible el lugar; Chiara lo convierte junto con él en casa. El loft fue hogar descubierto; la Villa es hogar escogido conscientemente después de la pérdida. Tiene privacidad, seguridad, espacio para una organización mayor y una vida adulta con futuro, pero sigue siendo casa, no sólo fortaleza ni ascenso de riqueza.
+
+**PENDIENTE:** logística de adquisición/obra y cuánto ha madurado como hogar al cierre de Parte V. La posición después de F2 está cerrada.
+
+### Noruega / Stavanger y el anillo
+
+**Parte V, después de Riley y de la reconstrucción en Villa Candelaria.** Kal intenta crear experiencias buenas, pero él también necesita salir de San Aurelio: carga Mei-Lin, Riley, Nadir, Varek y El Patio. Noruega es por unos días exilio voluntario; nadie les pide soluciones, ni Monarch, Ardizzone, Varek, Halbrook o El Patio.
+
+La propuesta ocurre en **Noruega / Stavanger**. **La sobrecompensación crea el espacio; la propuesta nace de claridad, no de culpa.** Kal quiere seguir eligiendo a Chiara y construir futuro con ella. No propone convertirla en Mercer ni absorber su identidad. Un anillo no compensa una muerte; la felicidad nueva vive junto a la pérdida vieja.
+
+La [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego|incubadora]] conserva su prosa como propuesta sin aprobar: la ubicación anterior a F2 queda **SUPERSEDIDA POR DECISIÓN AUTORAL 2026-09-20**. Su viejo disparador exigía la caída previa de Silas, ahora situada en Parte VI: **PENDIENTE DE RECONCILIACIÓN**, sin adelantar esa caída ni inventar otro detonante. Tampoco se promueven detalles biográficos o logísticos de la incubadora por esta decisión macro.
+
+### Condición de salida — Exilio
+
+- Mei-Lin está muerta; Riley está fuera de San Aurelio y encaminada hacia Italia.
+- Nadir sigue dentro, con una grieta nueva. El loft ya no existe.
+- Villa Candelaria empieza a ser / ya es su nuevo hogar; la respiración y logística fina siguen pendientes.
+- Kal y Chiara han ido a Noruega y están comprometidos: ambos eligieron explícitamente un futuro.
+- Las pérdidas no están resueltas. Hay memorias felices reales junto a ellas, sin montaje edulcorado ni curación mágica.
 
 ---
 
 ## Parte VI — Torna A Casa
 
-### Función
+### Función macro
 
-Último arco del Libro I. Lleva: conflicto Varek activo (el pacto de H6 sigue vigente; Dario no cae todavía — su arresto pertenece a *Voto de Ceniza*), la caída diseñada de [[02_Characters/Silas_Crowe|Silas Crowe / El Tasador]] (mecanismo **PENDIENTE**, ver su ficha), consecuencias del crecimiento de El Patio, Villa Candelaria ya construida (vía H8 — "el incendio, la mentira y la villa", posición fina dentro de III–VI todavía **PENDIENTE** per [[06_Relationships/Momentos_de_Fractura]]), F2 ya ejecutado, el embarazo de Chiara y **H1**.
+Recibe una pareja comprometida que cree haber aprendido a sobrevivir construyendo después de las pérdidas. Villa, F2 y propuesta ya ocurrieron en Parte V; no son acontecimientos por colocar aquí. Ahora se pone en peligro **el futuro que eligieron construir**.
 
-> **PENDIENTE, no reubicar por conveniencia:** la posición exacta del bloque F4 (Año Nuevo en Washington) → F3 (los frenos) → H8 (el incendio / Villa Candelaria) dentro de las Partes III–VI sigue sin fijar del todo — ver [[06_Relationships/Momentos_de_Fractura]], notas de F3 y F4. Este documento no la resuelve; sólo constata que Villa Candelaria (producto de H8) debe existir antes de F2 y antes de H1.
+El conflicto final crece: Silas Crowe según mecanismo concreto todavía pendiente; conflicto Varek y coalición de H1 (composición/objetivo pendientes). El pacto de H6 y sus consecuencias siguen activos; la caída de Dario pertenece a Libro II. La dependencia antigua caída de Silas → Stavanger requiere reconciliación expresa, no altera este orden.
+
+### Elenna — familia futura
+
+Elenna opera mediante el embarazo, el descubrimiento de su existencia, la familia futura y el riesgo de perderla. Después de socios, amigos, protegidos, casa y ausencia temporal de Kal, aparece una categoría nueva: una hija que Kal y Chiara construyeron juntos. **No nacen aquí ni la bebé ni la falsa muerte ni el mecanismo hospitalario ni su separación física:** permanecen en *Voto de Ceniza*, Libro II.
 
 ### H1 — El regreso a casa
 
-Clímax del Libro I y primer enfrentamiento abierto que anticipa la Guerra de los Tres (El Patio / red de Kal contra la coalición alineada, favorecida o manipulada por Dario — composición y objetivo **PENDIENTE**, no inventar). Chiara ya sabe que está embarazada; Kal todavía no. `Retorna a casa` ocurre antes de la operación. Kal lucha por volver sin saber que ya son tres. El reveal no ocurre durante la hemorragia, atención médica, baño ni pico de crisis — Kal debe estar fuera de peligro, haber dormido y recuperar cierta normalidad doméstica antes de que Chiara se lo diga. La proximidad de la pérdida golpea sobre la herida ya abierta por Matteo, Fabrizio, Tommaso y Camp Alder — Kal es lo que todavía le queda para no romperse (sin verbalizar la lectura de que en realidad son tres).
+Clímax del Libro I, primer choque abierto que anticipa la Guerra de los Tres. Chiara ya sabe que está embarazada; Kal todavía no al entrar al enfrentamiento. Conserva la declaración completa que culmina la escalera emocional:
 
-### Reveal del embarazo
+> **Perché ti amo con tutto il mio cuore.**
 
-Después de H1, después de que Kal esté fuera de peligro, con cierta normalidad doméstica recuperada. No durante hemorragia, baño, atención médica ni pico emocional de H1.
+Chiara puede perder al padre de su hija antes de que él siquiera sepa que existe. `Retorna a casa` precede a la operación; Kal lucha por volver sin saber que ya son tres. Casa significa volver a Chiara, a ellos y al futuro compartido, no sólo a un edificio.
 
-### Coda del libro
+### Reveal del embarazo y coda
 
-Un helicóptero aterriza en una instalación militar del área de San Aurelio. **Warren Halbrook desciende.** Sin presentación pública, discurso ni exposición extensa. **FIN DE SEDA Y PÓLVORA.**
+Después de H1, con Kal fuera de peligro, después de dormir y recuperar una mínima normalidad doméstica. **No durante hemorragia, atención médica, baño ni pico emocional.** El reveal permite alcanzar familia, además de supervivencia.
 
-### Estado de salida del Libro I
+La coda se mantiene: un helicóptero aterriza en una instalación militar del área de San Aurelio; **Warren Halbrook llega físicamente**. Sin presentación pública ni exposición extensa. Fin de Libro I, antes del nacimiento de Elenna y antes de la guerra abierta.
 
-- Kal y Chiara están juntos; Chiara está embarazada y Kal ya lo sabe.
-- El Patio atravesó su primer enfrentamiento abierto serio.
-- Dario ya no puede tratar el crecimiento de Kal como una molestia menor.
-- Riley y Mei-Lin están fuera del tablero inmediato (Riley viva en Italia; Mei-Lin muerta).
-- Halbrook está físicamente en San Aurelio.
-- La guerra todavía no ha explotado por completo, pero ya es inevitable.
+---
+
+## Orden macro vigente — CANON DEL AUTOR, 2026-09-20
+
+- **III / ARDIZZONE:** Matteo sale → H16 → crecimiento paralelo → Fabrizio se distancia → F1 → Los Tres Días → reconciliación → Tommaso / Mei-Lin sembrada y cruce de jurisdicción → asesinato de Tommaso → H13 → Palermo → regreso → Camp Alder / prisión → fracaso de Chiara → apagón → monólogo con Dios → Kal en el loft → `Ciao, bella.` → FIN.
+- **IV / NIEVE Y CENIZA:** continuación inmediata del loft → misterio / costo Halbrook → consecuencias de Camp Alder → crecimiento y presión → Navidad / collar / Torna a casa → último tramo del loft como hogar → amenaza/incidente de H8 → **incendio del loft → FIN**.
+- **V / EXILIO:** **Año Nuevo / F4**, Kal y Chiara solos → F3 (distancia precisa pendiente) → organización y consecuencias → descubrimiento de Mei-Lin → **mismo día: ejecución de Mei-Lin por Nadir + destierro de Riley** → consecuencias en Kal / Chiara / Nadir / El Patio → reconstrucción / **Villa Candelaria** → nuevas memorias → **Noruega / Stavanger / anillo** → futuro elegido.
+- **VI / TORNA A CASA:** conflicto final creciendo → Silas Crowe (mecanismo pendiente) → conflicto Varek → embarazo de Chiara → **H1 / `Perché ti amo con tutto il mio cuore.`** → regreso → recuperación mínima → reveal a Kal → familia futura / Elenna → coda Halbrook en San Aurelio.
+
+## Progresión de hogar — brújula de DISEÑO, no prosa
+
+| Tramo | Función emocional |
+|---|---|
+| Loft | Hogar descubierto casi accidentalmente. |
+| Incendio | Incluso el hogar puede desaparecer. |
+| Año Nuevo | Por un momento, hogar son solamente ellos dos. |
+| Mei-Lin / Riley | La familia elegida también puede reducirse. |
+| Villa Candelaria | Hogar reconstruido deliberadamente. |
+| Stavanger / anillo | Futuro elegido. |
+| Parte VI / embarazo | Hogar se transforma en familia. |
+| H1 / Torna a casa | Volver a Chiara, a ellos, al futuro que construyeron. |
+
+**Hogar → destrucción → exilio → pérdida de personas → reconstrucción → memoria feliz → promesa de futuro → amenaza final sobre ese futuro.** Kal no puede borrar las fracturas; intenta construir memorias que puedan vivir junto a ellas.
 
 ---
 
@@ -368,10 +434,18 @@ El Libro I termina exactamente donde [[00_Biblia/00_Trilogy_Structure]] lo fija:
 - Composición y objetivo operativo exacto de la coalición de H1.
 - Detalles finos de Palermo / Mesa de las Familias (H17).
 - Mecanismo de la caída de Silas Crowe.
-- Posición fina de F1 y del bloque F4 → F3 → H8 entre sí, dentro de Partes III–VI (ambos anclan sólo a "después de H16").
+- Distancia fina F4 → F3 → F2; logística de Villa; ejecución de Stavanger; encaje Washington/Anya con F4 juntos; cobro de la mentira de H8. Sus Partes y orden macro ya están fijados.
+- Conflicto propio de Riley; frecuencia y nivel de daño de la filtración de Mei-Lin.
+- Dependencia antigua caída de Silas → Stavanger, incompatible con el nuevo orden V → VI.
+- Nacimiento, falsa muerte y mecanismo hospitalario de Elenna: pendientes de Libro II, sin traslado a Libro I.
 - Cualquier numeración de capítulo para Partes III–VI: usar únicamente etiquetas como "apertura de Parte III", "bloque Matteo", "bloque F1", "bloque aislamiento", nombres de hito (H16, H17…), nunca números inventados.
 
 ## Contradicciones — historial de resolución
+
+**SUPERSEDIDO POR DECISIÓN AUTORAL 2026-09-20:** Mei-Lin como cierre de IV; F4 antes del incendio; unidad F4 → F3 → H8; Villa antes de F2; intervalo de días entre Mei-Lin y Riley; Stavanger/anillo antes de Riley; Villa/F2/propuesta por colocar en VI. Vigente: incendio cierra IV; F4 abre V; F2 ocurre en un mismo día; Villa y Stavanger/anillo van después, en V. La Parte III conserva su arquitectura.
+
+**Contradicciones adicionales:** F4 separaba a la pareja entre Washington y el penthouse (supersedido; logística conjunta pendiente); la incubadora exigía la caída de Silas antes de Stavanger (dependencia pendiente de reconciliación); Riley usa Ardizzone en su ficha y Colombo en F2 (alias pendiente de decisión, sin sustitución arbitraria). En Parte III se corrigieron sólo dos notas obsoletas: Elio/Génova ya resueltos y H16 ejecutado en C36, no C35.
+
 
 1. ~~**Ritual del *Ciao* — origen y géneros invertidos.**~~ **RESUELTO (2026-09-20, decisión del autor):** se queda la versión de esta sesión (Kal dice *"Ciao, bella"* primero, Chiara responde *"Ciao, bellissimo"*). [[06_Relationships/Hitos#H21 — Mi pareja|Hitos, H21]] y [[06_Relationships/Kal_y_Chiara]] ya están actualizados para reflejarlo; la versión anterior (2026-09-09) queda como histórica, sin vigencia.
 2. ~~**F1 ("Los Tres Días" / Elliot Price) vs. la nueva escena de Parte IV.**~~ **RESUELTO Y CORREGIDO DOS VECES el 2026-09-20.** Primera corrección: F1 se refundió con Palermo/Camp Alder/la liberación, al final de Parte III. **Segunda corrección, vigente:** el autor decidió conservar el detonante y lugar originales de F1 (la mentira bajo la lluvia, Bellandi Ridge) pero con causa nueva (la investigación de Chiara sobre Matteo, con Riley Bennett de por medio) y posición **antes** de H13/Palermo/Camp Alder, no después. [[06_Relationships/Momentos_de_Fractura]], [[06_Relationships/Los_Tres_Dias]] y [[06_Relationships/Kal_y_Chiara]] (escalera emocional) quedaron reescritos en consecuencia; ambas versiones intermedias se conservan como histórico en `Momentos_de_Fractura.md`.

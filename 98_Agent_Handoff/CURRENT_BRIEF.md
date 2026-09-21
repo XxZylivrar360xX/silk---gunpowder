@@ -1,5 +1,45 @@
 # Current Brief
 
+## Cap. 35 — beat final añadido: invitaciones del yate (2026-09-20, Claude Code, encargo directo del autor)
+
+Al cierre de [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso]] se agregó una escena nueva, dos días después de la llamada: Chiara firma cien invitaciones idénticas de imprenta para una fiesta en un yate en la costa el viernes siguiente — **no es su cumpleaños**, es un evento aparte de H16 (Cap. 36). Sólo la carta de Kal es distinta: escrita a mano, cerrada con el cifrado "Te veo, con mucha Roma" (texto casi textual dado por el autor), eco deliberado de "Roma Atrii" ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/12_Roma_Atrii|Cap. 12]]) sin resolverlo en prosa.
+
+**Roadmap dictado por el autor para capítulos futuros (no escribir todavía):** Kal recibe la carta, no descifra el juego de palabras pero "Roma" le recuerda a Roma Atrii; en un capítulo posterior (el autor dijo "el 37", número no vinculante) pregunta por todo el barrio sin obtener respuesta; la fiesta del yate misma es un capítulo futuro aparte, donde se siembra que **Kal toca el piano** — talento oculto nuevo, "importantísimo para el futuro" según el autor, sin razón diseñada todavía (registrado en [[02_Characters/Kal_Mercer]]); recién después de esa fiesta Chiara le explica el cifrado a Kal.
+
+**Reubicación de pendiente:** el pago del cifrado "Roma Atrii", antes anotado vagamente "en el cumpleaños de Chiara" en [[06_Relationships/Hitos]], se reubicó explícitamente a después de la fiesta del yate.
+
+Sin EPUB, sin commit ni push.
+
+## Reconciliación vigente de Libro I, Partes III–VI — 2026-09-20, Codex
+
+Encargo de arquitectura terminado. Fuente: [[01_Timeline/02_Libro_01_Seda_y_Polvora]]. **III se conserva; incendio cierra IV; F4 abre V después del incendio; F3 después de F4; F2 reúne ejecución de Mei-Lin por Nadir y destierro de Riley el mismo día; Villa después; Stavanger/anillo después de Riley, todavía en V.** VI recibe pareja comprometida y nuevo hogar: embarazo → H1 → recuperación mínima → reveal → familia futura; coda Halbrook. Nacimiento/falsa muerte/separación de Elenna siguen en Libro II.
+
+H8 conserva ID y separa incendio, mentira de fuga de gas y Villa; cobro posterior de mentira pendiente. Kal empieza a construir memorias buenas junto al dolor, sin regalos reparadores; propuesta por claridad, no culpa. Collar intacto: **RETORNA A CASA**.
+
+Pendientes y contradicciones: [[98_Agent_Handoff/PENDING]]; detalle de entrega y archivos: [[98_Agent_Handoff/sessions/2026-09-20_codex_reconciliacion_roadmap_iii_vi]]. En especial: Washington/Anya con Año Nuevo juntos; caída de Silas en VI frente al disparador viejo de Stavanger en V; alias Riley Ardizzone/Colombo. Sin prosa nueva, EPUB ni commit/push. Se preservaron cambios previos de C35/C36, H16 y títulos.
+
+> **SUPERSEDIDAS POR DECISIÓN AUTORAL 2026-09-20** las ubicaciones contrarias de las entradas anteriores conservadas abajo, incluida «Cadena causal Tommaso → Mei-Lin → F2»: sólo su intervalo corto / Villa previa pierden vigencia; la cadena causal sigue intacta.
+
+## Cap. 36 — También las mañanas, reestructurado con el arco completo dictado por el autor (2026-09-20, Claude Code, encargo del autor)
+
+Reescrito [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/36_Tambien_Las_Mananas|Capítulo 36 — También las mañanas]] (título provisional), `Estado: BORRADOR`, segundo capítulo de la Parte III — Ardizzone, sustituyendo la primera versión de esta misma sesión con el arco completo que el autor dictó en detalle.
+
+**Estructura ejecutada:** el capítulo abre con un **salto de POV puntual a Kal** (justificado en la nota del propio capítulo — Chiara no puede estar presente en esta parte y Parte III usa un único POV por capítulo salvo instrucción expresa como ésta). Kal y Héctor Navarro reciben a la yegua en el **muelle de carga de Kingsley Field** (usado como el "muelle" del norte pedido por el autor — ajuste de coherencia geográfica del agente, ya que San Aurelio no tiene puerto en el norte; el Puerto Viejo real está en el suroeste y es de Varek). Un montacargas espanta a la yegua en un descuido; escapa, y una persecución de cuatro horas por el campo abierto hacia las Rutas de Milla incluye un **susto cardíaco de Héctor** (opresión en el pecho, no infarto — coherente con su ficha, que no dramatiza el corazón, y con su muerte ya fijada mucho más adelante en la montaña de *Voto de Ceniza*); Kal detiene todo para atenderlo pese a que Héctor insiste en seguir. Pierden casi todo el día — explica por qué la entrega se adelanta a la noche y por qué Kal llega con el traje de la reunión de esa mañana arruinado.
+
+El capítulo vuelve al **POV único de Chiara** con la llamada nocturna de Kal desde los establos: "¿Dónde estás?" / "En los establos" / "¿Qué haces ahí a estas horas?" / "Mejor te lo muestro, no me vas a creer. ¿Estás presentable?" — ella a punto de meterse a la bañera, el chiste "Bellandi en remojo" / "no soy una prenda para estar en remojo", y "quédate ahí, voy por ti". Kal la recoge en el Penthouse (ella nota el traje manchado antes de que él pueda explicar) y la lleva con los ojos cubiertos por sus manos, caminando desde el Penthouse hasta las caballerizas del hipódromo (misma propiedad, a pie), coincidiendo con las ocho campanadas de Santa Lucía. **Regalo 1** — revela primero el remolque vacío como broma ("Un remolque. Wow. Es bellissimo"), con Kal murmurando para sí "Le dije a Héctor que la bajara antes de irse" (resuelto como comentario que Chiara alcanza a oír, no como pensamiento interior puro, para no romper el POV único); después la yegua misma, que Chiara nombra **Stella** en la propia escena — mismo candidato del autor resuelto como microdecisión del agente. Viendo el estado de Kal, Chiara entiende sola todo lo que pasó ese día, sin que él lo narre. **Regalo 2** — la botella de Domaine de la Romanée-Conti; Kal dice "evidentemente" saber su significado y después confiesa que ni él estaba seguro — hasta se lo preguntó a Walt, que tampoco lo sabía con certeza, pero coincidieron en que el precio debía significar algo. **Regalo 3** — la llave del **loft** (no del Penthouse, que es donde Kal la recoge — el agente asumió el loft por ser el canon ya fijado de H16; señalar si el autor prefería la llave del Penthouse) con la línea canon completa, casi sin diálogo adicional, todo lo que Kal no verbaliza cabiendo en el gesto. Cierra igual que la versión anterior: Chiara guarda sus joyas en la caja de acero sin ceremonia y el contraste mudo entre la silla de Matteo, todavía vacía en el Monarch, y la llave nueva en su llavero.
+
+**Craft Policies aplicadas:** fichas de voz de [[12_Craft_Policies/voice/Kal_Mercer|Kal]], [[12_Craft_Policies/voice/Chiara_Bellandi|Chiara]] y [[12_Craft_Policies/voice/Hector_Navarro|Héctor]] (antífona, "usted" a Chiara / "tú" y "Mercer" a Kal); reglas de acotaciones y registro privado (Kal no se pone lírico, el narrador no glosa) mantenidas pese a la escena de mayor riesgo físico (el susto de Héctor se resuelve sin lenguaje médico ni melodrama).
+
+**Pendientes que siguen abiertos, sin inventar:** estado/origen exacto de donde viaja Stella; qué pasó con el dueño de la casa robada (ni Kal ni Walt lo saben con certeza — es el chiste, no un hueco); el cifrado "Roma Atrii"; investigación de Chiara sobre Matteo / Riley Bennett / F1; Ren Wei y el crecimiento de El Patio; H13. Ninguno se tocó.
+
+**Corrección del autor aplicada (misma sesión):** Chiara no debe saber nunca cómo consiguió Kal la botella — una frase de la reflexión final afirmaba "robada" como hecho conocido por ella; corregida a formulación ambigua. Se reescribió también la apertura: ahora el capítulo empieza con Kal lavándose sangre y lodo de las manos en el loft, revisando el doble fondo bajo el suelo (no "panel falso", corregido para coincidir con el canon de H14) donde dejó la cajita de madera la noche anterior, y llamando a Héctor — el lector recibe más pista que Chiara, pero tampoco la historia completa. De paso se corrigió un quiebre de POV en la llamada telefónica (una frase describía lo que Kal veía de sí mismo, imposible de percibir por Chiara al teléfono).
+
+**Dos decisiones del agente a confirmar con el autor:** (1) Kingsley Field como el "muelle" en vez de un muelle marítimo literal; (2) la llave final es la del loft, no la del Penthouse.
+
+**Documentos de continuidad actualizados:** `INDEX.md`, `06_Relationships/Hitos.md` (H16), `01_Timeline/02_Libro_01_Seda_y_Polvora.md` (sección H16), `PENDING.md`. `12_Craft_Policies/milestones/INDEX.md` conserva la nota anterior (sigue válida, no requería cambio).
+
+Sin EPUB, sin commit ni push.
+
 ## Cadena causal Tommaso → Mei-Lin → F2 canonizada (2026-09-20, Claude Code, decisión del autor)
 
 El autor aprobó y pidió canonizar una cadena causal completa que resuelve tres pendientes de larga fecha: la causa concreta de la muerte de Tommaso, si Mei-Lin realmente traicionó, y quién ejecuta a Mei-Lin en F2.

@@ -1,5 +1,11 @@
 # Silas Crowe — *El Tasador*
 
+## Reconciliación macro — CANON DEL AUTOR 2026-09-20
+
+El incendio del loft cierra **Parte IV**; el desplazamiento precede a F4, F2 y Villa, que se reconstruye **después** del día Mei-Lin/Riley en Parte V. No es una mudanza inmediata hacia riqueza.
+
+La caída de Silas corresponde al conflicto final de **Parte VI**, con mecanismo concreto pendiente. **SUPERSEDIDA POR DECISIÓN AUTORAL 2026-09-20** su función cronológica de caída obligatoria antes de Stavanger (viaje/anillo ahora en Parte V, después de Riley). Se conserva el material autoral sobre Dale/red de colocación y la derrota económica; no se ejecuta ni se adelanta automáticamente. **PENDIENTE DE RECONCILIACIÓN:** cómo llega a encajar la información de origen que la incubadora hacía depender de esa derrota; no inventar sustituto. También sigue pendiente ajustar la relación entre el cargamento antiguo y la autonomía de Kal al ocurrir H8.
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-08-23).**

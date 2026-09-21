@@ -3389,3 +3389,8 @@ El incidente de Riley se mantiene en Almendra Towing (territorio de Kal, decisi�
 También quedó registrado el orden de bloques confirmado para el primer tercio de Ardizzone: Cap. 35 (ya escrito) → H16 (cumpleaños/mudanza) → primer crecimiento paralelo (Kal+Dario, El Patio, Chiara absorbe funciones de Matteo) → Chiara detecta la inconsistencia → Riley comprueba el vehículo (la abordan/siguen, informa a Kal) → F1 en Bellandi Ridge → Los Tres Días → reconciliación en el casino → siguiente fase de presión de Ardizzone.
 
 Actualizados `06_Relationships/Momentos_de_Fractura.md` (F1: pista, reclutamiento de Riley, incidente, restricciones, pendientes), `06_Relationships/Los_Tres_Dias.md` (Punto de partida, pendientes), `01_Timeline/02_Libro_01_Seda_y_Polvora.md` (párrafo de F1, nota de orden de bloques, lista de pendientes) y `98_Agent_Handoff/PENDING.md` (dos entradas). No se tocó la prosa del Cap. 35: ninguno de estos datos aparece en ese capítulo. Sin EPUB, sin commit ni push.
+
+
+## 2026-09-20 — Codex: reconciliación roadmap Libro I, III–VI
+
+Incendio cierra IV; F4 abre V; F2 Mei-Lin/Riley mismo día; Villa después; Stavanger/anillo después de Riley en V; VI embarazo/H1/reveal y familia futura, sin mover Elenna de Libro II. H8 conserva ID, separa componentes; sobrecompensación de Kal documentada. Detalle, supersesiones, archivos y pendientes: [[98_Agent_Handoff/sessions/2026-09-20_codex_reconciliacion_roadmap_iii_vi]]. Sin prosa narrativa nueva, EPUB, commit ni push.

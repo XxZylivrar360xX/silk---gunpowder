@@ -117,21 +117,20 @@ Chiara ayudaba a **Elliot Price**, un hombre autista vinculado al taller; se sob
 **Lugar:** Puerto Viejo / costa para Mei-Lin; norte rural para Riley.
 **Estado de la relación:** El Patio ya tiene estructura suficiente para que una filtración pueda destruirlos.
 
-> **POSICIÓN RELATIVA FIJADA (2026-08-31; corregida 2026-09-11 contra [[00_Biblia/00_Trilogy_Structure]]):** ocurre en el **Libro I**, después de que exista Villa Candelaria y con aire suficiente **antes de H1** — no "durante Parte III" ni después de que la Guerra de los Tres haya empezado, como decía la formulación anterior de esta nota (contradecía la regla dura de trilogía: Riley sale de San Aurelio en el Libro I). Riley debe tener tiempo de llegar a Italia y construir una vida/cobertura estable antes de que Elenna nazca, ya en *Voto de Ceniza* (Libro II). El capítulo y distancia exactos permanecen pendientes.
+> **CANON DEL AUTOR — 2026-09-20:** F2 pertenece a Parte V — Exilio, después de F4/F3 y antes de Villa Candelaria, Stavanger y H1. Ejecución de Mei-Lin y destierro de Riley: **el mismo día**, dos destinos dentro de una sola macrofractura. La versión con Villa previa e intervalo corto queda **SUPERSEDIDA**. Riley puede completar después su ruta a Italia; no se comprimen todos los traslados en ese día.
 
 ### Adaptación
 
 > **CANON DEL AUTOR (2026-09-20) — cadena causal completa.** F2 deja de nacer de una prueba genérica de lealtad. Tiene origen concreto: ver [[02_Characters/Tommaso_Lusardi]] y [[02_Characters/Mei_Lin_Zhao]] para el detalle completo. Resumen operativo:
 >
-> `Tommaso recluta a Mei-Lin como fuente informal sobre el norte (Parte III, antes de su muerte) → Dario descubre la línea y elimina a Tommaso por Volpi → Dario absorbe a Mei-Lin en vez de eliminarla también → Mei-Lin se integra de verdad a El Patio y convive con Riley en La Almendra → sigue filtrando información a Varek por miedo, mientras empieza a querer sinceramente a la gente del Patio → meses después (Parte V — Exilio) la filtración se descubre → ya no hay forma de conservarla dentro → se sentencia su ejecución → Nadir la ejecuta → poco después Riley también debe salir de San Aurelio.`
+> `Tommaso recluta a Mei-Lin como fuente informal sobre el norte (Parte III, antes de su muerte) → Dario descubre la línea y elimina a Tommaso por Volpi → Dario absorbe a Mei-Lin en vez de eliminarla también → Mei-Lin se integra de verdad a El Patio y convive con Riley en La Almendra → sigue filtrando información a Varek por miedo, mientras empieza a querer sinceramente a la gente del Patio → meses después (Parte V — Exilio) la filtración se descubre → ya no hay forma de conservarla dentro → se sentencia su ejecución → Nadir la ejecuta → ese mismo día Riley también debe salir de San Aurelio.`
 >
-> Esto separa F2 en dos beats encadenados y correlativos, no un solo evento simultáneo:
+> F2 sigue siendo una macrofractura con dos componentes internos, ejecutados durante **un mismo día**, no necesariamente al mismo instante:
 >
-> - **F2-a — Mei-Lin.** Se descubre la filtración. Fue fuente pasiva de Varek, no infiltrada desde el origen. El Patio la quiere de verdad — eso es lo que vuelve real el daño. La ejecución ocurre junto al mar/Puerto Viejo. **Ejecuta Nadir**, no Kal — ver [[02_Characters/Nadir_Amrani]].
-> - **Intervalo corto.**
-> - **F2-b — Riley.** La organización todavía está procesando la muerte de Mei-Lin. Riley acaba de perder a su roommate y amiga real. En ese contexto, su propio conflicto (el que la pone en riesgo directo — **PENDIENTE**, no inventar) obliga a Kal a encontrar la única salida distinta de matarla: el destierro.
+> - **F2-A — Mei-Lin.** Se descubre la filtración. Fue fuente pasiva de Varek, no infiltrada desde el origen. El Patio la quiere de verdad — eso es lo que vuelve real el daño. La ejecución ocurre junto al mar/Puerto Viejo. **Ejecuta Nadir**, no Kal — ver [[02_Characters/Nadir_Amrani]].
+> - **F2-B — Riley, ese mismo día.** La organización todavía está procesando la muerte de Mei-Lin. Riley acaba de perder a su roommate y amiga real. En ese contexto, su propio conflicto (el que la pone en riesgo directo — **PENDIENTE**, no inventar) obliga a Kal a encontrar la única salida distinta de matarla: el destierro.
 >
-> Chiara no pierde a dos chicas en una abstracción de seguridad conjunta: primero pierde a una definitivamente: después pierde a la otra porque ésa es la única manera de no perderla también para siempre.
+> Chiara no pierde a dos chicas en una abstracción de seguridad conjunta: en un mismo día pierde a una definitivamente y a la otra porque ésa es la única manera de no perderla también para siempre.
 
 Mei-Lin y Riley conviven como roommates en La Almendra — al principio por conveniencia (mismo derrumbe de banda, espacio limitado que ofrece Kal), después por amistad real construida en la convivencia diaria. Esa convivencia es lo que vuelve la muerte de Mei-Lin un trauma directo para Riley, no la pérdida de una compañera de trabajo.
 
@@ -139,7 +138,7 @@ El barrio, los viejos y los chicos del Patio llegan a una conclusión brutal cua
 
 ### Lo que hace Kal
 
-Kal decide la ejecución de Mei-Lin y organiza la reunión que la lleva hasta ahí, pero **es Nadir quien la ejecuta** — dos disparos, limpio, sin ceremonia: Mei-Lin cree hasta el final que están trabajando. Nadir llora en el momento, no después. La escena funciona porque Nadir es el protector querido de todo el barrio, no un verdugo — la organización de Kal ya creció hasta obligarlo a matar a una de las suyas. Su cuerpo termina en el mar, usando la costa o Puerto Viejo como ruta de desaparición. Kal carga la responsabilidad de la decisión; Nadir carga el acto — una deuda entre ambos que puede quedar sin pronunciarse durante años.
+Kal decide la ejecución de Mei-Lin y organiza la reunión que la lleva hasta ahí, pero **es Nadir quien la ejecuta** — dispara por detrás, ejecución limpia, sin ceremonia: Mei-Lin cree que participan en una entrega de mercancía. Nadir llora en el momento, no después. La escena funciona porque Nadir es el protector querido de todo el barrio, no un verdugo — la organización de Kal ya creció hasta obligarlo a matar a una de las suyas. Su cuerpo termina en el mar, usando la costa o Puerto Viejo como ruta de desaparición. Kal carga la responsabilidad de la decisión; Nadir carga el acto — una deuda entre ambos que puede quedar sin pronunciarse durante años.
 
 Con Riley, Kal cambia el destino. No puede ejecutarla sabiendo lo que Chiara la quiere y lo que Riley representa para ella. La lleva al norte, a una pista clandestina cerca de [[05_Locations/Cedar_Flats]] y las rutas de Kingsley Field, y organiza sacarla hacia Nueva York.
 
@@ -159,7 +158,7 @@ Kal salva a Riley, pero para hacerlo le arranca a Chiara a la chica que estaba f
 
 Chiara pierde a Riley sin funeral, sin despedida real y sin poder reclamarle a Kal como si hubiera hecho lo incorrecto. Eso es lo insoportable: él hizo una cosa monstruosa y, a la vez, hizo lo menos monstruoso que podía hacer.
 
-Esa noche terminan en el suelo de la habitación, destrozados.
+Esa noche terminan en el suelo de la habitación, destrozados. **PENDIENTE:** alojamiento concreto tras perder el loft; no es todavía Villa Candelaria.
 
 Diálogo canon adaptado:
 
@@ -174,7 +173,9 @@ Después él le da un beso en la frente. No arregla nada. Sólo deja claro que l
 - Riley queda viva y fuera de San Aurelio, pero no congelada ni exiliada de toda función narrativa: empieza una vida propia en Italia bajo el nombre Riley Colombo.
 - Mei-Lin muere como frontera moral del ascenso de El Patio.
 - Chiara aprende que proteger a alguien no siempre significa conservarlo cerca.
-- Kal aprende que ahorrar una vida también puede dejar un vacío.
+- Kal aprende que ahorrar una vida también puede dejar un vacío. Al ver el daño sobre Chiara, Nadir y El Patio, empieza a sobrecompensar: construye hogar, tiempo, experiencias y memorias felices junto a pérdidas que no puede borrar. Villa y Stavanger/anillo vienen después; la propuesta nace de claridad, no de culpa.
+- Nadir sigue leal y trabajando, con una grieta entre persona y organización; no abandona a Kal ni convierte el dolor inmediatamente en resentimiento verbal. No es causa única de su futura autonomía.
+- Riley sobrevive, pero pierde a Mei-Lin, La Almendra, Chiara, red, ciudad, identidad habitual y vida en construcción: el destierro no es premio.
 - El Patio entiende que Kal puede perdonar demasiado, pero no va a permitir una grieta que ponga a todos en riesgo.
 - Mucho después, Riley recibe a [[02_Characters/Elenna_Mercer|Elenna Serra]]. Ese cuidado es payoff de la confianza construida con Chiara, no la causa del destierro.
 - Cuidar a Elenna no convierte a Riley en empleada ni borra el costo de haber perdido ciudad, nombre y vínculo cotidiano con Chiara.
@@ -187,7 +188,8 @@ Después él le da un beso en la frente. No arregla nada. Sólo deja claro que l
 - Chiara no debe absolver a Kal de manera fácil. Su frase no borra el daño; lo reconoce.
 - Si Riley vuelve físicamente a San Aurelio, no debe ser barato: su regreso pone en riesgo la mentira que la mantiene viva. Su presencia posterior desde Italia no equivale a deshacer el destierro.
 - Nadir ejecuta a Mei-Lin; Kal decide. No fusionar ambos roles ni hacer que Kal dispare — ver [[02_Characters/Nadir_Amrani]].
-- No revelar en escena, durante el Libro I, que la fuente de Mei-Lin era Varek (a través de Tommaso) — ver la regla equivalente en [[02_Characters/Nereo_Volpi]]: puede sugerirse como La Mesa, sin confirmar a Varek como director hasta *Cuentas de Sangre*.
+- Distinguir el descubrimiento de la filtración real en Parte V de la revelación concluyente de la cadena Varek–Volpi, reservada para Libro III. Kal y Chiara no conocen la causalidad Tommaso/Mei-Lin en Parte III. No usar F2 para adelantar la confirmación Varek–Volpi.
+- **PENDIENTE antes de redactar F2:** información exacta, frecuencia, daño y hecho que delata a Mei-Lin; conflicto específico de Riley. **Los quería + los traicionó + tenía miedo:** no absolver la filtración ni volver villana a Mei-Lin.
 
 ---
 
@@ -243,60 +245,27 @@ La primera declaración de él se pierde en un cuarto de hospital. La declaraci�
 
 > **RESUELTO (2026-08-28 / ampliado 2026-08-29):** el auto sale de [[03_Factions/Villani_Motors]], concesionario de importación en el que Kal entra con una participación limpia. Es un **sedán Lancia, discreto, nada deportivo**. **La escena de compra es de la Parte I** — un **juego de roles** en el que Kal le vende el coche a Chiara fingiendo ser un desconocido, poco antes de [[06_Relationships/Hitos#H15 — La noche del jacuzzi|La noche del jacuzzi]], y esa misma noche lo comentan en el jacuzzi. El coche lleva **mucho tiempo** con Chiara antes del sabotaje. Ver [[03_Factions/Villani_Motors]].
 
-> **POSICIÓN RESUELTA (2026-08-29, autor):** F3 (el sabotaje) NO va cerca del jacuzzi. Cae **ya en la Parte II, después de Año Nuevo** — es decir, **después de [[#F4 - Año Nuevo en Washington|F4]]** —, con Kal y Chiara ya viviendo juntos y ya hecho el trato con Darío ([[06_Relationships/Hitos#H6 — El pacto|H6]]). Orden: `F4 (Año Nuevo) → … → F3 (los frenos) → … → H8 (el incendio del loft)`.
+> **POSICIÓN VIGENTE — CANON DEL AUTOR 2026-09-20:** F3 ocurre en Parte V después de F4; el incendio ya cerró Parte IV. Se conserva el contenido de F3, con H6 y convivencia anteriores. Forma parte de la escalada anterior a F2; distancia precisa F4 → F3 → F2 pendiente. La cadena F4 → F3 → incendio queda **SUPERSEDIDA**.
 >
-> **DISEÑO:** F3 y H8 son golpes de dos pasados distintos, seguidos: F3 lo firma [[03_Factions/Il_Consorzio]] (el pasado de Chiara, misma firma que el ataque del hipódromo de [[06_Relationships/Hitos#H12 — El atentado / El corral|H12]]); H8 lo firma [[02_Characters/Silas_Crowe]] (el pasado de Kal / el barrio). No conflar los dos. *(Posición exacta del bloque F3–H8 respecto a Italia / Palermo, Camp Alder y "Mi pareja": sin fijar del todo.)*
+> **DISEÑO:** F3 y el incendio de H8 golpean desde pasados distintos (Il Consorzio / Chiara y Crowe / Kal); ya no forman un bloque consecutivo en ese orden. Mecanismos no resueltos permanecen abiertos.
 
 ---
 
 ## F4 - Año Nuevo en Washington
 
-**Función:** fractura por deuda, ausencia y autodestrucción silenciosa de Kal.
-**Lugar:** [[05_Locations/El_Penthouse]] / Washington, D.C.
-**Fecha:** Año Nuevo (1 de enero), cumpleaños de Kal. Es el **primer** Año Nuevo de Kal y Chiara juntos — cae después del hito del cumpleaños de ella / la mudanza (23 de noviembre).
-**Personaje que introduce:** [[02_Characters/Anya_Voronina]].
+**CANON DEL AUTOR — 2026-09-20:** F4 abre **Parte V — Exilio**, después del incendio que cierra IV, antes de F3 y de Villa Candelaria. Es el cambio de año y cumpleaños de Kal, **1 de enero**. Kal y Chiara lo pasan **solos, juntos y desplazados**. Todavía tienen al otro, pero perdieron el lugar.
 
-> **Continuidad (2026-08-29, autor):** después de este Año Nuevo caen, en orden, **F3 — Los frenos** y **[[06_Relationships/Hitos#H8 — El incendio, la mentira y la villa|H8]] — El incendio**.
+**Lugar / título conservados:** Año Nuevo en Washington / Washington, D.C. No se cambia automáticamente la ciudad.
 
-### Adaptación
+**SUPERSEDIDO POR DECISIÓN AUTORAL 2026-09-20:** F4 antes del incendio y la noche separada (Chiara sola en el penthouse; Kal solo en Washington). El motivo vigente ya no puede ser que la abandona durante ese cambio de año.
 
-Es el primer Año Nuevo que Kal y Chiara iban a pasar juntos. También es el cumpleaños de Kal, aunque él lo trate como dato administrativo o como algo que no importa.
+> **PENDIENTE DE RECONCILIACIÓN:** encaje del viaje/deuda con [[02_Characters/Anya_Voronina]] y los papeles de Nadir con la presencia conjunta de Kal y Chiara. No inventar traslado, alojamiento ni una reunión nueva. La deuda y autodestrucción silenciosa de Kal permanecen como material a encajar; la apertura juntos y posterior al incendio está cerrada.
 
-Entonces Kal tiene que viajar a Washington, D.C. para reunirse con Anya Voronina, la contacto rusa que consiguió los papeles de [[02_Characters/Nadir_Amrani]].
-
-Kal lo plantea como obligación:
-
-> le debe un favor.
-
-Y es verdad. Ése es el problema. Para Kal, Nadir no es una deuda cualquiera: es la persona que lo ayudó primero. Pagar lo de sus papeles toca una parte profunda de su código.
-
-Chiara lo entiende. Lo minimiza. Le dice que está bien o actúa como si estuviera bien.
-
-No está bien.
-
-### El verdadero daño
-
-El daño no es que Kal tenga un pasado. Chiara también lo tiene.
-
-El daño es que, en una primera vez que importaba, Kal eligió responder a una deuda antes que cuidar la casa que estaba empezando a construir con ella. Y lo hizo usando su peor mecanismo: minimizar el costo emocional para que nadie tuviera derecho a reclamarle.
-
-Chiara se queda con una herida difícil de nombrar porque entiende la razón. Eso la deja sin una forma limpia de enojarse.
-
-### La noche
-
-Irónicamente, ambos pasan Año Nuevo solos.
-
-Chiara queda en el penthouse, borracha, bailando sola. No como fiesta liberadora: como una mujer intentando llenar con ruido una habitación que debía tener a alguien más.
-
-Kal está en su habitación en Washington. No puede ir a la fiesta ni reunirse bien con Anya. La mirada que Chiara le dio cuando se lo contó no lo deja moverse.
-
-Sólo puede pensar:
-
-> fue un error que nunca debió ocurrir.
+**Función vigente:** el primer exilio es pequeño: hogar son sólo ellos dos, desplazados antes de las pérdidas humanas de F2.
 
 ### La conversación que empieza a reparar
 
-Cuando vuelve, no basta con disculparse por perderse una fecha. La conversación importante es otra: Chiara empieza a nombrar la cadena de autodestrucción de Kal.
+**Material por reconciliar con la apertura conjunta, sin borrar su función:** la conversación ya no se ancla a un regreso de Kal tras dejarlos separados en Año Nuevo. Chiara empieza a nombrar la cadena de autodestrucción de Kal.
 
 Él viene cargando demasiado sin decirlo. Está escondiéndole cosas para evitar preocuparla, pero eso no la protege: la deja sola frente al daño y obliga a Harper a preocuparse desde otra esquina.
 
@@ -344,8 +313,8 @@ La escena es bonita porque no borra la fractura. La contesta. Kal no le está di
 ### Restricciones
 
 - Anya no debe funcionar como rival romántica barata.
-- Chiara no debe reaccionar con celos simples. Lo que la rompe es la ausencia en una fecha que significaba casa.
-- Kal no debe quedar absuelto porque "era por Nadir". Precisamente porque era por Nadir, la herida es más adulta y más difícil.
+- Chiara no debe reaccionar con celos simples. **SUPERSEDIDO (2026-09-20):** que Kal esté ausente en ese cambio de año; ahora ambos están juntos tras perder el loft.
+- **PENDIENTE:** reencajar el costo de la deuda por Nadir sin restablecer la ausencia supersedida de Kal en Año Nuevo.
 - La vela nace del miedo y de la impotencia, no de una escena decorativa de fe.
 - Harper debe notar el desgaste de Kal desde fuera de la pareja, para que Chiara no parezca exagerar.
 
@@ -356,15 +325,15 @@ La escena es bonita porque no borra la fractura. La contesta. Kal no le está di
 | Orden | Momento | Función |
 | --- | --- | --- |
 | 1 | **F1 - La mentira bajo la lluvia** | Primera fractura de confianza: Chiara miente sobre su investigación de la salida de Matteo |
-| 2 | **F4 - Año Nuevo en Washington** | Primera herida por deuda y ausencia; nace la vela |
+| 2 | **F4 - Año Nuevo en Washington** | Exilio doméstico tras el incendio; juntos y solos; deuda/vela por encajar |
 | 3 | **F3 - Los frenos** | Kal enfrenta perderla y dice "te amo" sin ser oído |
 | 4 | **F2 - El destierro de Riley y la muerte de Mei-Lin** | Fractura moral: el ascenso exige una pérdida irreversible |
 
 > **REORDENADO (2026-09-20, segunda corrección del autor el mismo día):** F1 vuelve a ser la primera fractura del libro (restaurando en lo esencial el orden 2026-08-29), pero ahora ocurre **dentro de la Parte III**, no antes de H21 — ver nota de posición en la sección de F1, arriba. El orden intermedio de esta misma fecha (F4 → F3 → F1 → F2, con F1 al final) queda sustituido por este.
 
-Este orden permite que la relación escale de una mentira íntima resuelta pronto y bien, a ausencia por deuda, a miedo de pérdida, a costo moral compartido. Si F2 ocurre demasiado pronto, la pareja todavía no tiene suficiente capital emocional para sobrevivirla sin parecer escrita por decreto.
+Este orden permite que la relación escale de una mentira íntima resuelta pronto y bien, al desplazamiento tras perder la casa, al miedo de pérdida, a costo moral compartido. Si F2 ocurre demasiado pronto, la pareja todavía no tiene suficiente capital emocional para sobrevivirla sin parecer escrita por decreto.
 
-> **Anclas de calendario (ACTUALIZADO 2026-09-20, decisión del autor; versiones anteriores de la misma fecha y de 2026-09-10 históricas, ya no vigentes).** Las cuatro fracturas caen en el Libro I. **F1** ocurre dentro de la Parte III — Ardizzone, después de su apertura (salida de Matteo, H16) y de que Chiara empiece a investigar discretamente esa salida, y **antes** de [[06_Relationships/Hitos#H13 — El pañuelo|H13]] / Palermo / Camp Alder. **F4** es el primer Año Nuevo juntos (1 de enero, después de la mudanza del 23 de noviembre / H16). **F3** cae después de F4. **F2** cae después de que exista Villa Candelaria y con aire suficiente antes de H1. **PENDIENTE, sin fijar del todo:** el orden fino entre F1 y el bloque F4 → F3 → H8 — ambos anclan sólo a "después de H16, antes de H13/Palermo o antes de H1"; ver [[01_Timeline/02_Libro_01_Seda_y_Polvora]], Parte III.
+> **Anclas vigentes — CANON DEL AUTOR 2026-09-20:** F1 en III antes de H13/Palermo/Camp Alder; incendio cierra IV; F4 abre V (1 de enero, juntos y solos, después del incendio); F3 después; F2 en V, Mei-Lin y Riley el mismo día, **antes de Villa y Stavanger** y con aire antes de H1/VI. **SUPERSEDIDO** el antiguo pendiente F1 frente al bloque F4 → F3 → H8. Sólo distancia precisa F4/F3/F2 pendiente. Ver [[01_Timeline/02_Libro_01_Seda_y_Polvora]].
 
 ---
 
@@ -375,7 +344,7 @@ Este orden permite que la relación escale de una mentira íntima resuelta pront
 - ~~Definir si Mei-Lin realmente traicionó o si sólo dejó demasiada duda.~~ **RESUELTO (2026-09-20):** sí traiciona realmente — es fuente pasiva de Varek desde que Tommaso la recluta — pero por coerción/miedo, no por plan de infiltración ni indiferencia hacia El Patio. Ver [[02_Characters/Mei_Lin_Zhao]] y [[02_Characters/Tommaso_Lusardi]].
 - **NUEVO PENDIENTE (2026-09-20), no inventar todavía:** qué información exacta entrega Mei-Lin a Varek, y qué hecho concreto permite a Kal/El Patio descubrir la filtración. Necesario antes de escribir F2 en Parte V; no bloquea los capítulos actuales de Parte III.
 - Nombrar la pista clandestina del norte.
-- ~~Confirmar si Riley Colombo queda como alias definitivo.~~ **RESUELTO DE ARQUITECTURA (2026-08-31):** Riley vive en Italia como **Riley Colombo**. Mecanismo documental, cobertura legal, apoyo y localización exacta pendientes.
+- **PENDIENTE DE RECONCILIACIÓN (2026-09-20):** aquí consta Riley Colombo (decisión 2026-08-31), pero su ficha usa Riley Ardizzone. No escoger entre ambas versiones sin decisión autoral. Mecanismo documental, cobertura legal, apoyo y localización siguen pendientes.
 - Fijar cuánto tiempo transcurre entre F2, su establecimiento estable en Italia y el nacimiento de Elenna.
 - Decidir quién ejecuta materialmente el sabotaje de los frenos.
 - Definir las secuelas físicas de Chiara después del accidente.

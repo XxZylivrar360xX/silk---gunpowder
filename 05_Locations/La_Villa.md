@@ -1,5 +1,11 @@
 # La Villa / Villa Candelaria
 
+## Posición y función vigentes — CANON DEL AUTOR 2026-09-20
+
+Villa Candelaria se adquiere / funda / convierte en hogar en **Parte V — Exilio, después del incendio que cierra IV y después del mismo día de ejecución de Mei-Lin y destierro de Riley**. **SUPERSEDIDA** la transición inmediata incendio → Villa y cualquier Villa ya construida antes de F2. El plan previo de Kal no equivale a haberla adquirido o levantado.
+
+El loft fue hogar descubierto; Villa es hogar reconstruido deliberadamente. Kal hace posible el lugar y Chiara lo convierte junto con él en casa. Privacidad, seguridad, organización mayor y vida adulta con futuro, sin reducirla a fortaleza ni riqueza. Las lecturas de clase conservadas abajo no sustituyen esta función. Stavanger/anillo siguen después, en Parte V; H1 recibe la casa en VI. **PENDIENTE:** adquisición, obra y grado de consolidación doméstica al salir de Exilio; posición después de F2 ya cerrada.
+
 *Ficha de Lugar — la casa oficial*
 
 > **CANON DEL AUTOR (2026-08-23).**
@@ -8,9 +14,9 @@
 
 **Nombre público discreto:** **Villa Candelaria**.
 **Cómo la llaman ellos:** la villa.
-**Qué es:** una villa en **Lomas de San Jacinto**, la zona residencial del norte de San Aurelio, dentro de la franja alta de Cuesta Bonita. La casa de Kal y Chiara cuando los dos ya son alguien en la ciudad.
+**Qué es:** una villa en **Lomas de San Jacinto**, la zona residencial del norte de San Aurelio, dentro de la franja alta de Cuesta Bonita. La casa de Kal y Chiara escogida y construida por ambos después de perder el loft y de F2.
 **Por qué existe:** porque **[[02_Characters/Silas_Crowe]] incendió [[05_Locations/La_Casa]]**, el loft del barrio, por un cargamento que Kal no entregó a tiempo.
-**Qué ocurre aquí:** [[06_Relationships/Hitos#H1 — El regreso a casa|H1 — El regreso a casa]], pico emocional durante Parte II; después, la expectativa doméstica del embarazo y las fotografías de Elenna durante la separación.
+**Qué ocurre aquí:** [[06_Relationships/Hitos#H1 — El regreso a casa|H1 — El regreso a casa]], pico emocional durante Parte VI del Libro I; después, la expectativa doméstica del embarazo y las fotografías de Elenna durante la separación.
 
 ---
 
@@ -51,7 +57,7 @@ Y dice **"queremos"**, no *quiero*. **La única vez en el libro en que Kal decid
 
 ## Y ella la construye
 
-Durante los meses de obra, Chiara está encima **como una leona, y neurótica con los obreros**, asegurándose de que hasta el detalle más mínimo cuadre **con los planos físicos y con los suyos mentales.**
+Durante la obra (duración y logística fina pendientes), Chiara está encima **como una leona, y neurótica con los obreros**, asegurándose de que hasta el detalle más mínimo cuadre **con los planos físicos y con los suyos mentales.**
 
 > **DISEÑO — la simetría perfecta con el loft.** En [[06_Relationships/Hitos#H14 — El loft del soltero]], fue **su manía de tener todo organizado** lo que hizo que Kal le pidiera ayuda, y ella terminó diseñando la casa de él sin saber que sería de los dos.
 >
@@ -92,7 +98,7 @@ Ojo con la ironía: la casa que ella construyó frasco por frasco puede ser exac
 
 ## La casa de tres — CANON DEL AUTOR (2026-08-31)
 
-H1 ocurre aquí durante Parte II, después de que la villa ya existe. Antes de que Kal salga, Chiara ya confirmó el embarazo y planea contárselo cuando vuelva. Él toca el límite de la muerte dentro de una casa que ya contiene a Elenna sin que él lo sepa.
+H1 ocurre aquí durante Parte VI del Libro I, después de que la villa ya existe. Antes de que Kal salga, Chiara ya confirmó el embarazo y planea contárselo cuando vuelva. Él toca el límite de la muerte dentro de una casa que ya contiene a Elenna sin que él lo sepa.
 
 El reveal no ocurre durante H1. Llega después, cuando Kal está fuera de peligro, duerme, comienza a recuperarse y regresa cierta normalidad. Desde ese momento, la villa debe adquirir suficientes huellas de expectativa familiar para que el lector imagine la vida que ambos creen posible, sin convertir la casa en catálogo de habitación infantil ni fijar detalles médicos o decorativos pendientes.
 
@@ -132,7 +138,7 @@ Ver [[06_Relationships/Los_Tres_Dias]] para el principio que esta escena cobra: 
 
 ## Pendientes
 
-> **RESUELTO / REUBICADO (2026-08-31):** [[06_Relationships/Hitos]], **H1 — El regreso a casa** pasa en esta casa durante Parte II: piscina, habitación y baño. Sigue siendo pico emocional, pero ya no se ubica después de la Guerra de los Tres. Chiara sabe que está embarazada; Kal no. **La casa final de San Aurelio.**
+> **RESUELTO / REUBICADO (2026-08-31):** [[06_Relationships/Hitos]], **H1 — El regreso a casa** pasa en esta casa durante Parte VI del Libro I: piscina, habitación y baño. Sigue siendo pico emocional, pero ya no se ubica después de la Guerra de los Tres. Chiara sabe que está embarazada; Kal no. **La casa final de San Aurelio.**
 
 > **RESUELTO (2026-08-23):** queda en **Lomas de San Jacinto**, zona residencial del norte dentro de la franja alta de Cuesta Bonita. No es la costa de dinero nuevo; es una casa de prestigio residencial, defendible y apartada.
 

@@ -1,5 +1,5 @@
 <!--
-Estado: BORRADOR — abre la Parte III (Cap. 35 de la Parte III — Ardizzone; Cap. 35 del manuscrito). Redactado 2026-09-20, Claude Code, encargo del autor.
+Estado: BORRADOR — abre la Parte III (Cap. 35 de la Parte III — Ardizzone; Cap. 35 del manuscrito). Redactado 2026-09-20, Claude Code, encargo del autor. Ampliado el mismo día con un beat final (invitaciones del yate) encargado directamente por el autor.
 Protagonistas: Chiara Bellandi (POV único). Kal Mercer.
 Voz sólo por teléfono: Nadir Amrani (no habla en escena; se infiere por lo que Kal le dice, nunca se cita directamente — respeta el POV único de Chiara).
 Mencionado sin aparición: Matteo Bellacorte. Referidos de paso: Fabrizio Rinaldi, Tommaso Lusardi, Dario Varek (ninguno aparece en escena).
@@ -15,6 +15,8 @@ Función: CANON DEL AUTOR. Abre la Parte III — Ardizzone. Nace el ritual del *
 - Dario Varek no aparece ni se menciona más que como referencia administrativa mínima (ya fue informado). Fabrizio y Tommaso se mencionan de paso, ya absorbiendo trabajo — ninguno tiene escena ni diálogo propio aquí.
 - No se siembra todavía la investigación de Chiara sobre Matteo, ni Riley Bennett, ni ninguna pista — eso pertenece a [[06_Relationships/Momentos_de_Fractura#F1 - La mentira bajo la lluvia|F1]], más adelante en la Parte III. Este capítulo sólo planta la observación de conducta de Kal.
 - No se escribe H16 (cumpleaños/mudanza) ni ningún material de Camp Alder, Palermo, H13, Ren Wei o El Patio más allá de Almendra Towing como lugar.
+- **Beat final añadido (2026-09-20, encargo directo del autor):** fiesta en un yate en la costa, este viernes — NO es el cumpleaños de Chiara (ver H16 en el Cap. 36, evento separado). Es una fiesta cualquiera que ella organiza; cien invitaciones idénticas de imprenta, sin nombres propios en el cuerpo. Sólo la de Kal es distinta: escrita a mano por Chiara, con el cierre cifrado "Te veo, con mucha Roma" — CANON DEL AUTOR, texto dado casi textual. No se explica el juego de palabras en prosa (ni aquí ni en capítulos futuros hasta que ella se lo explique a Kal, ver abajo); el capítulo deja sólo la satisfacción privada de Chiara al escribirlo.
+- **Roadmap explícito del autor para capítulos futuros (no escribir todavía, sólo no perder el hilo):** Kal recibe la carta y es "el texto más críptico de toda su vida" — no entiende el juego de palabras, pero el nombre "Roma" le recuerda a **Roma Atrii** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/12_Roma_Atrii|Cap. 12]], donde Chiara nunca le explicó qué significaba esa frase) sin que logre descifrarlo. En un próximo capítulo (el autor dijo "el 37", número no vinculante todavía) le pregunta a todo el barrio sin que nadie le dé una respuesta. La fiesta del yate es un capítulo futuro aparte, todavía sin escribir; **ahí se siembra uno de los talentos ocultos de Kal — toca el piano —, descrito por el autor como "importantísimo para el futuro"** (no diseñar todavía por qué). Recién **después** de esa fiesta, Chiara le explica el cifrado a Kal. Esto reubica el pago pendiente de "Roma Atrii" — antes anotado vagamente "en el cumpleaños de Chiara" en `PENDING.md` — a la fiesta del yate, un evento distinto de H16.
 -->
 
 # Capítulo 35 — Sin fecha de regreso
@@ -91,11 +93,13 @@ Se oyó algo golpear metal — una herramienta dejada donde no iba, tal vez — 
 
 Chiara iba a decir que estaba bien, que no había prisa, que Matteo llevaba media vida resolviendo cosas para que otros no tuvieran que hacerlo y que a ella no le costaba trabajo cubrir un par de días. No dijo nada de eso.
 
-—Te veo ahora —dijo Kal—, amore mio.
+—Te veo ahora —dijo Kal.
 
 Se quedó callada más tiempo del que hacía falta. No porque no supiera qué decir — sabía exactamente qué decir, y eso era lo raro — sino porque quería quedarse un segundo más dentro de la frase antes de que el resto del día volviera a entrar.
 
-—Sí —contestó él a algo que ella no había dicho.
+—Aquí espero, amore mio —dijo, por fin.
+
+—Sí —contestó él.
 
 Y colgó.
 
@@ -194,3 +198,27 @@ Chiara escuchó sus pasos alejarse por el pasillo alfombrado hasta que el sonido
 La taza de café frío seguía donde había estado toda la mañana.
 
 No la movió todavía.
+
+---
+
+Las invitaciones llegaron dos días después: cien sobres de papel grueso, todos con la misma letra impersonal de imprenta. *La señora Bellandi la invita a una velada a bordo, este viernes, en la costa.* Nada de cumpleaños. Ningún nombre propio en el cuerpo del texto — sólo fecha, hora, muelle —, porque a Chiara nunca le había hecho falta un motivo para reunir a la ciudad correcta en el lugar correcto.
+
+Las firmó una por una, de pie junto al escritorio, con la misma rúbrica rápida que usaba para todo lo que no le exigía pensar.
+
+La de Kal la dejó para el final.
+
+No usó la de la imprenta. Sacó su propio papel —el bueno, el que olía a lo que ella olía— y escribió a mano algo que no cabía en el molde de las otras noventa y nueve.
+
+*Kal.*
+
+*La velada de este viernes voy a celebrar una fiesta en un yate, en la costa. Muchos estarán invitados, pero antes de la fiesta quiero pasar el día contigo, y quizá podamos tener una velada mágica. Te veré ahí.*
+
+*Te veo, con mucha Roma.*
+
+*—Chiara*
+
+La releyó una vez, dobló el papel, y algo parecido a una sonrisa —de las que no llegan del todo a la boca— le cruzó la cara sola, sin testigos, en un despacho que todavía no era suyo.
+
+Noventa y nueve personas iban a recibir, esa semana, exactamente la misma carta. Sólo una iba a recibir otra. Y de todos los que la abrirían, era el único que no tenía ninguna posibilidad de entenderla.
+
+Guardó el sobre de Kal aparte, separado de la pila, antes de mandar el resto.

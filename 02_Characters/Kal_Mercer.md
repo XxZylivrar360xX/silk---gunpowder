@@ -1,5 +1,11 @@
 # Kal Mercer
 
+## Sobrecompensación después de F2 — CANON DEL AUTOR 2026-09-20
+
+En Parte V — Exilio, el mismo día decide la ejecución de Mei-Lin mediante Nadir y obliga a Riley a irse para evitar otra muerte. Ve el costo sobre Chiara, Nadir y El Patio y no sabe revertirlo. **Cuando no puede reparar una herida, intenta construir algo bueno junto a ella. Sabe construir mejor de lo que sabe consolar.**
+
+Villa Candelaria, tiempo compartido, detalles, viajes y experiencias construyen memorias felices junto a pérdidas que permanecen. No es consumo ostentoso ni curación de Chiara con regalos; Kal no cree haber compensado una muerte. Noruega/Stavanger, después de Riley en Parte V, también responde a su propia necesidad de salir de San Aurelio. **La sobrecompensación crea el espacio; la propuesta nace de claridad, no de culpa:** seguir eligiendo a Chiara, sin cambiarla a Mercer. La ejecución concreta de la incubadora y su biografía no se canonizan por esta ubicación. Ver [[01_Timeline/02_Libro_01_Seda_y_Polvora]].
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **NOMBRE CONFIRMADO POR EL AUTOR (2026-08-23).** Antes era *Adrian Mercer*, propuesta del agente. El apellido se mantiene: es el de la familia que lo compró, y el de la bodega sobre la que levanta el imperio.
@@ -332,6 +338,10 @@ En las carreras ilegales de Kingsley Field ([[06_Relationships/Hitos]], H9 — C
 - Dale Mercer (†) — padre adoptivo. Está enterrado junto a Ruth en [[05_Locations/Cementerio_Santa_Lucia]], pero Kal evita tocar su tumba. El contraste con el padre elegido cae en [[02_Characters/Hector_Navarro]] y en la memoria de [[02_Characters/Michael_Grayson]].
 
 ---
+
+## Talento oculto — semilla para capítulo futuro (2026-09-20, encargo del autor)
+
+> **CANON DEL AUTOR, no ejecutado todavía.** Kal toca el piano. Se siembra en la fiesta del yate (capítulo futuro, todavía sin escribir — ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35]], nota de roadmap al final del encabezado). El autor lo describió como **"importantísimo para el futuro"**, sin decir por qué — no inventar la razón ni adelantar el pago en ningún capítulo anterior a esa fiesta. No hay origen, nivel ni repertorio fijado todavía; no rellenar por conveniencia.
 
 ## Preguntas abiertas
 

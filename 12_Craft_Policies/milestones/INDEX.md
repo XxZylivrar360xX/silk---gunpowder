@@ -38,7 +38,7 @@ Si una escena nueva cambia de forma irreversible una relacion, deuda, ritual o j
 17. [[06_Relationships/Hitos#H5 — San Aurelio]] - Kal sale de la ciudad; "me encuentro bien"; confrontacion Varek-Chiara (3 lineas canon). Tension parte 1.
 18. [[06_Relationships/Hitos#H6 — El pacto]] - Kal entra a la organizacion de Varek para proteger a Chiara y deshacerla desde dentro.
 19. [[06_Relationships/Hitos#H7 — El río]] - cierre en calma del arco de tension; "vamos a casa". Pareja de facto sin etiqueta.
-20. [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]] - Chiara se muda con Kal el dia de su cumpleaños, porque lo eligen; el doble fondo empieza a convertirse por uso en la caja fuerte de ambos.
+20. [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]] - Chiara se muda con Kal el dia de su cumpleaños, porque lo eligen; el doble fondo empieza a convertirse por uso en la caja fuerte de ambos. *(Escrito, [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/36_Tambien_Las_Mananas|Cap. 36 — También las mañanas]], BORRADOR, 2026-09-20.)*
 21. [[06_Relationships/Hitos#H17 — Italia / Mesa de las Familias]] - viajan juntos a Palermo; la Mesa golpea la relacion. Reservado.
 22. [[06_Relationships/Hitos#H18 — El regreso de Palermo]] - vuelven separados y con friccion; sin ruptura.
 23. [[06_Relationships/Hitos#H19 — El asalto a Camp Alder]] - Kal no entra a ver a Chiara para poder cumplir la mision; se entrega para cubrir a Hector y Nadir; arresto militar.

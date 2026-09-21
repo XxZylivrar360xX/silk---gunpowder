@@ -41,19 +41,19 @@ Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni
 | 20 | **H19 — El asalto a Camp Alder** *(Kal no entra a ver a Chiara para poder cumplir la misión; se entrega para cubrir a Héctor y Nadir)* |
 | 21 | **H20 — Consecuencia: Halbrook / prisión militar / Lucia** *(Halbrook lo saca por un trato; Chiara acude a Lucia, que registra que lo suyo excede los negocios)* |
 
-*Anclas de la Parte II, fijadas por el autor 2026-08-29:* **F4 — Año Nuevo en Washington** (cumpleaños de Kal, 1 de enero) → **F3 — Los frenos** (después de Año Nuevo) → **H8 — El incendio, la mentira y la villa** (después de F3). La posición de este bloque F4→F3→H8 respecto a Italia (17), el regreso de Palermo (18), Camp Alder (19) y "Mi pareja" (21) sigue por afinar. *(F3 y F4 son Momentos de Fractura, no hitos; por eso no llevan número de fila.)*
+**Orden vigente — CANON DEL AUTOR 2026-09-20:** incendio de H8 cierra IV → F4 abre V → F3 → F2 (Mei-Lin y Riley el mismo día) → componente Villa de H8 → Stavanger/anillo → VI / embarazo / H1. **SUPERSEDIDO:** bloque indivisible F4 → F3 → H8 y su posición pendiente respecto a Camp Alder/H21. Los IDs se conservan.
 
-### Todavía sin colocar definitivamente dentro de este bloque
+### Posiciones macro vigentes y ejecución todavía pendiente
 
-No insertarlos por intuición. Mantener su posición como PENDIENTE mientras no haya otra decisión del autor.
+Las posiciones de Partes IV–VI quedaron fijadas el 2026-09-20; no reabrirlas. Mantener pendientes únicamente los mecanismos, capítulos y distancias todavía no decididos.
 
 | Posición | Hito |
 |---|---|
-| Después de F4 y F3 | **H8** — El incendio, la mentira y la villa *(2026-08-29: después de Año Nuevo (F4) y de los frenos (F3); posición fina respecto a Camp Alder y "Mi pareja" por afinar)* |
-| Por recibir | Primera Navidad y el collar · la primera vela · las clases de italiano *(rituales por colocar)* |
-| Después de H8 (el incendio) y de la caída diseñada de Silas Crowe; antes de F2 y del embarazo confirmado | **Stavanger / propuesta de matrimonio** — INCUBADORA, sin Hito numerado todavía. Ver [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] (BORRADOR PROPUESTO, no integrado al manuscrito) y [[02_Characters/Silas_Crowe]]. No promover a Hito ni citar en prosa hasta que el autor apruebe el capítulo. |
-| **Libro I**, después de que exista Villa Candelaria, antes de H1 | **F2 — Destierro de Riley** *(por el conflicto propio de Riley; Riley debe quedar establecida en Italia antes de que Elenna la necesite — payoff, no causa)* |
-| **Libro I**, después de que exista Villa Candelaria y de F2 | **H1 — El regreso a casa** *(Chiara ya confirmó el embarazo; Kal todavía no lo sabe; posición fina pendiente)* |
+| Final de IV; reconstrucción en V después de F2 | **H8** — incendio, mentira vinculada y Villa separados por componentes; no bloque continuo. |
+| Parte IV | Primera Navidad y collar **RETORNA A CASA**; primera vela después de F4 (V); clases de italiano sin colocación fina. |
+| Parte V, después de F2 / Riley y Villa | **Stavanger / propuesta**: ubicación canon; ejecución de [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] sigue propuesta, sin ID nuevo. Dependencia antigua de caída previa de Silas pendiente de reconciliación. |
+| Parte V, antes de Villa y Stavanger; antes de H1 | **F2** — ejecución de Mei-Lin por Nadir y destierro de Riley **el mismo día**; conflicto de Riley pendiente. |
+| Parte VI, después de F2, Villa y propuesta | **H1** — clímax; Chiara sabe del embarazo, Kal aún no. Reveal posterior a recuperación mínima. |
 | **Libro I**, después de H1, cierra el libro | **Reveal del embarazo a Kal** *(momento obligatorio por diseñar, sin ID; sólo después de que esté fuera de peligro y regrese cierta normalidad doméstica)* |
 | **Voto de Ceniza (Libro II)**, primer tramo importante | **Nacimiento, muerte pública y separación de Elenna** *(posición relativa fijada; capítulo, fecha y detonante pendientes)* |
 | **Voto de Ceniza (Libro II)**, después de que la separación sea cotidiana, **antes** del macrohito siguiente | **H22 — Los primeros pasos** *(CANON DEL AUTOR; BLOQUEADO PARA PROSA — [[00_Biblia/00_Trilogy_Structure]] la fija antes de la caída de Dario, la montaña y Santa Lucía, no después)* |
@@ -71,7 +71,7 @@ Esta secuencia supersede cualquier colocación anterior del embarazo como sorpre
 
 Reglas duras:
 
-- **H1 pertenece al Libro I.** Ocurre después de que [[05_Locations/La_Villa|Villa Candelaria]] exista y después de F2. Su posición fina dentro de ese tramo sigue pendiente.
+- **H1 pertenece al Libro I.** Ocurre después de que [[05_Locations/La_Villa|Villa Candelaria]] exista y después de F2. Su Parte está fijada: VI. Capítulo y mecanismo concreto siguen pendientes.
 - Chiara lleva muy poco tiempo sabiendo que está embarazada cuando ocurre H1. No ha prolongado el secreto: planea contárselo a Kal cuando regrese de la operación.
 - El reveal no ocurre durante la hemorragia, la atención médica, el baño ni el pico de H1. Kal debe quedar fuera de peligro, dormir, iniciar recuperación y recuperar cierta normalidad doméstica antes de saberlo.
 - El Libro I construye poder y familia simultáneamente. El embarazo atraviesa la vida doméstica sin convertir cada capítulo en escena médica o de síntomas.
@@ -1450,7 +1450,7 @@ Y **se pone la sudadera de Kal para aparentar que él está en casa.**
 
 > **RESUELTO (2026-08-29, autor):** la **situación externa** que saca a Kal de San Aurelio es que **[[02_Characters/Warren_Halbrook]] lo convoca** para reimponerle la correa (trabajar para él o reportar a Nadir a ICE). Ver sección 12. Esa convocatoria es el precedente de la incursión posterior a Camp Alder. *(Sigue por afinar: qué le pide Halbrook exactamente en esta primera reunión, más allá de "vuelves a trabajar para mí".)*
 
-> **RESUELTO (2026-08-29, autor):** F3 — **los frenos del auto de Chiara** ([[06_Relationships/Momentos_de_Fractura]], F3, donde Kal le dice *te amo* por primera vez a su cuerpo inconsciente) — **NO va cerca del jacuzzi.** Cae mucho más tarde, ya en la Parte II: cuando ya viven juntos, después de [[#H6 — El pacto]], y **después de [[06_Relationships/Momentos_de_Fractura|F4 — Año Nuevo en Washington]]**. Orden en ese tramo: `Año Nuevo (F4) → … → F3 (los frenos) → … → H8 (el incendio → villa)`. **El auto en sí es de la Parte I:** la escena de compra es un juego de roles (Kal se lo vende fingiendo ser desconocido), poco antes del jacuzzi — ver [[03_Factions/Villani_Motors]]. El coche lleva mucho tiempo con Chiara antes de que le corten los frenos.
+> **POSICIÓN ACTUALIZADA (2026-09-20, autor):** F3 no va cerca del jacuzzi; ocurre en Parte V, después de F4 y del incendio que cerró IV, dentro de la escalada anterior a F2. La compra del Lancia permanece en Parte I, poco antes del jacuzzi, en [[03_Factions/Villani_Motors]]. Distancia precisa F4 → F3 → F2 pendiente.
 
 > **PENDIENTE (heredado):** ¿quién atacó a Chiara en el hipódromo (ahora en [[#H12 — El atentado / El corral]])? Queda en incógnita a propósito.
 
@@ -1481,7 +1481,7 @@ Conceptualmente es **la hija adulta de [[#H2-b — La noche que todo cambió]].*
 
 ## El día — el juego de roles del concesionario
 
-Antes de la noche, durante el día, ocurre la **escena de compra del auto de Chiara** (el Lancia de [[03_Factions/Villani_Motors]], negocio en el que Kal ya entró — sembrado un poco antes). **Es Kal quien se lo vende, y los dos fingen ser desconocidos** — vendedor y clienta —, un juego de roles que bordan. Esa noche, en el jacuzzi, **lo comentan y se ríen del numerito**: es parte del material de "libros abiertos por elección". *(La escena de compra vive en detalle en [[03_Factions/Villani_Motors]]. F3 — el sabotaje de ese mismo auto — es muchísimo después, ya en la Parte II, después de Año Nuevo.)*
+Antes de la noche, durante el día, ocurre la **escena de compra del auto de Chiara** (el Lancia de [[03_Factions/Villani_Motors]], negocio en el que Kal ya entró — sembrado un poco antes). **Es Kal quien se lo vende, y los dos fingen ser desconocidos** — vendedor y clienta —, un juego de roles que bordan. Esa noche, en el jacuzzi, **lo comentan y se ríen del numerito**: es parte del material de "libros abiertos por elección". *(La escena de compra vive en detalle en [[03_Factions/Villani_Motors]]. F3 — el sabotaje de ese mismo auto — es muchísimo después, en Parte V, después de Año Nuevo.)*
 
 ## La noche de los libros abiertos
 
@@ -1522,7 +1522,7 @@ Y el resto: **fue Nadir quien lo ayudó a salir.** En agradecimiento, Kal lo ayu
 
 > **PENDIENTE:** todos los secretos específicos que se entregan en el jacuzzi, más allá de lo ya listado — arco reservado.
 
-> **PENDIENTE:** el orden exacto respecto al atentado de los frenos (F3). Ver [[#Pendientes de H5]].
+> **RESUELTO (2026-09-20):** F3 ocurre en Parte V, después de H5/H6, del incendio y de F4; no falta colocarlo respecto a H5.
 
 ---
 
@@ -1796,9 +1796,11 @@ Y para dos personas que nunca tuvieron una, **el momento en que la palabra deja 
 
 > **CANON DEL AUTOR (2026-08-23).** Material grande: contiene **la mentira más cara del libro** y la casa más hermosa que construyen.
 
-> **POSICIÓN (2026-08-29; ampliada 2026-08-31):** ocurre **después de Año Nuevo** y **después de F3 — Los frenos**. Orden fijo del tramo: `F4 → … → F3 → … → H8 (incendio → villa) → … → Chiara confirma el embarazo → H1 en la villa`. Dos pasados golpean seguidos: el de Chiara (F3) y el de Kal (H8). **H8 y H1 pertenecen a Parte II**; la posición exacta respecto a Camp Alder, “Mi pareja” y otros hitos sigue por afinar.
+> **POSICIÓN VIGENTE — CANON DEL AUTOR 2026-09-20:** H8 conserva ID y título, pero se distribuye en componentes. **Incendio:** cierre de Parte IV. **Mentira:** fuga de gas / ocultamiento de amenaza de Crowe, ligada al incendio; instalación en el bloque de cierre IV como **DISEÑO**, cobro posterior pendiente. **Villa:** Parte V, después del día Mei-Lin/Riley, como reconstrucción deliberada. **SUPERSEDIDO:** incendio después de F4/F3, paso inmediato a Villa y ubicación antigua en Parte II.
 >
-> **CONTINUIDAD A REVISAR:** el motivo canon de Crowe ([[#Pendientes de H8]]) dice *"por un cargamento que Kal no entregó a tiempo, cuando todavía trabajaba para él… Kal aún no era autónomo, pero estaba empezando a serlo"*. Con H8 ya después del primer Año Nuevo juntos, Kal lleva tiempo dentro de la organización de Varek y **no "trabaja para Crowe" en ningún sentido literal.** El incendio funciona mejor como **la rabieta de un hombre al que dejaron atrás del todo** — Crowe castigando que Kal se le escapó, no un retraso concreto. Ajustar la redacción del motivo cuando se escriba.
+> **[PENDIENTE DE RECONCILIACIÓN — componente mentira de H8]:** cuándo se revela/cobra y contenido exacto de la amenaza. No se inventa otra mentira ni se exige resolverla dentro de IV.
+>
+> **CONTINUIDAD A REVISAR:** el motivo canon de Crowe ([[#Pendientes de H8]]) dice *"por un cargamento que Kal no entregó a tiempo, cuando todavía trabajaba para él… Kal aún no era autónomo, pero estaba empezando a serlo"*. Con H8 después de Camp Alder, Kal lleva tiempo dentro de la organización de Varek y **no "trabaja para Crowe" en ningún sentido literal.** El incendio funciona mejor como **la rabieta de un hombre al que dejaron atrás del todo** — Crowe castigando que Kal se le escapó, no un retraso concreto. Ajustar la redacción del motivo cuando se escriba.
 
 ---
 
@@ -1861,7 +1863,7 @@ El doble fondo plantado en H14 y la caja de acero resistente al fuego protegen s
 
 > **PRESAGIO SIN NOMBRAR (2026-08-31):** esa misma mañana — horas antes del incendio, no durante — el imán de refrigerador con forma de manzana roja que Marisol le hizo comprar a Kal en el Capítulo 13 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono]]) se despega solo de la puerta y cae. Se raja. Chiara lo levanta y se lo da a Kal; él dice que lo puede pegar. Lo pega. **La marca queda** — completo otra vez, pero partido. Nadie lo dice en voz alta, y no hace falta: para cuando llega la noche y ven el incendio, el lector ya vio la imagen que se repite. El imán no sobrevive el incendio como objeto especial — es un objeto cualquiera, roto y reparado esa misma mañana, que se pierde con todo lo demás. Su función es la escena en sí, no su supervivencia.
 
-## 4. El penthouse otra vez
+## 4. El penthouse otra vez — desplazamiento posterior al cierre de IV
 
 Se mudan a [[05_Locations/El_Penthouse]].
 
@@ -1873,11 +1875,11 @@ Se mudan a [[05_Locations/El_Penthouse]].
 
 **Pero Kal ya tenía planeado darle un hogar suyo propio.**
 
-Y ahí empieza [[05_Locations/La_Villa]].
+**SUPERSEDIDA POR DECISIÓN AUTORAL 2026-09-20** la continuidad inmediata incendio → Villa. El plan previo no equivale a adquisición, obra ni hogar ya construido: [[05_Locations/La_Villa]] se concreta en Parte V **después de F2**.
 
 ---
 
-## 6. La villa — cómo la compran
+## 6. La villa — cómo la compran, en Parte V después de F2
 
 **Ella la recorre sin decir una sola palabra.** Sólo una sonrisa, mientras va por cada rincón.
 
@@ -1903,7 +1905,7 @@ Y dice **"queremos"**, no *quiero*. **Es la única vez en el libro en que Kal de
 
 ## 7. Y ella la construye
 
-Durante los meses de obra, Chiara está encima **como una leona, y neurótica con los obreros**, asegurándose de que hasta el detalle más mínimo cuadre **con los planos físicos y con los suyos mentales.**
+**PENDIENTE:** duración y logística fina de obra dentro de Parte V; la mención heredada a meses no fija aquí un calendario. Durante la obra, Chiara está encima **como una leona, y neurótica con los obreros**, asegurándose de que hasta el detalle más mínimo cuadre **con los planos físicos y con los suyos mentales.**
 
 > **DISEÑO — la simetría se cierra:**
 >
@@ -1916,7 +1918,7 @@ Durante los meses de obra, Chiara está encima **como una leona, y neurótica co
 
 ## 8. Antecedente ideológico del exilio de Elenna — DISEÑO (2026-09-11)
 
-> No altera nada de lo anterior: H8 sigue siendo, en el Libro I, el incendio, la mentira y la villa. Esta sección registra una consecuencia temática que sólo paga en [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map|Voto de Ceniza]] — ver ahí "H8 — el incendio del loft como antecedente ideológico".
+> H8 conserva incendio, mentira y Villa como componentes separados entre IV y V; no los vuelve simultáneos ni consecutivos. Esta sección registra una consecuencia temática que sólo paga en [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map|Voto de Ceniza]] — ver ahí "H8 — el incendio del loft como antecedente ideológico".
 
 Lo que el incendio deja sedimentado en Kal y Chiara, mucho antes de que Elenna exista siquiera como idea:
 
@@ -1940,7 +1942,7 @@ En el Libro II, esa certeza es lo que hace primero hermética a Villa Candelaria
 
 > **RESUELTO (2026-08-23): fue [[02_Characters/Silas_Crowe]], el Tasador.** Por **un cargamento que Kal no entregó a tiempo**, cuando todavía trabajaba para él. Kal **aún no era autónomo, pero estaba empezando a serlo** — y el incendio es exactamente la respuesta del Tasador a eso.
 >
-> **AJUSTE PENDIENTE (2026-08-29):** con H8 recolocado después de Año Nuevo (ver el encabezado del hito), Kal ya no "trabaja para Crowe" en ningún sentido. El motivo funciona mejor reescrito como **castigo a la autonomía consumada** — la rabieta de un hombre al que dejaron atrás — más que como represalia por un retraso concreto. Afinar al redactar.
+> **AJUSTE PENDIENTE (2026-08-29):** con H8 fijado al cierre de Parte IV, después de Camp Alder, Kal ya no "trabaja para Crowe" en ningún sentido. El motivo funciona mejor reescrito como **castigo a la autonomía consumada** — la rabieta de un hombre al que dejaron atrás — más que como represalia por un retraso concreto. Afinar al redactar.
 
 > **PENDIENTE:** ¿tiene relación con quién atacó a Chiara en [[#H12 — El atentado / El corral]]? Sigue en incógnita.
 
@@ -1956,7 +1958,7 @@ En el Libro II, esa certeza es lo que hace primero hermética a Villa Candelaria
 
 # H1 — El regreso a casa
 
-> **CANON DEL AUTOR (2026-08-22; posición y subtexto ampliados 2026-08-31).** Pico emocional de la novela. **Ocurre durante Parte II**, después de que Villa Candelaria exista y antes de la Guerra de los Tres.
+> **CANON DEL AUTOR (2026-08-22; posición y subtexto ampliados 2026-08-31).** Pico emocional de la novela. **Ocurre durante Parte VI del Libro I**, después de que Villa Candelaria exista y antes de la Guerra de los Tres.
 
 **No es una escena: es una secuencia de siete movimientos.** La frase del baño es el sexto. Documentarla sola la vacía, porque todo lo que la hace funcionar se construye en los cinco anteriores.
 
@@ -2107,7 +2109,7 @@ Es también la respuesta a la pregunta que Kal lleva haciendo sin palabras toda 
 ## Lo que la secuencia fija, y ya no está en discusión
 
 - **Ocurre en [[05_Locations/La_Villa]]**, la casa final — no en el loft del barrio, que para entonces ya ardió ([[#H8 — El incendio, la mentira y la villa]]). *(CANON del autor, 2026-08-23.)*
-- **Ocurre en Parte II, después de H8 y de la construcción de la villa.** Ya no es un hito posterior a la Guerra de los Tres. La posición fina dentro de Parte II permanece pendiente.
+- **Ocurre en Parte VI, después de F2, Villa y Stavanger/anillo (Parte V).** Es el clímax del Libro I; capítulo y mecanismos concretos pendientes, no la Parte.
 - **Chiara ya sabe que está embarazada; Kal todavía no.** La noticia no se revela durante la crisis y se comparte después de su estabilización, en un momento separado.
 - **Para entonces viven juntos**, en la casa que él le compró sin que ella dijera una palabra y que ella levantó frasco por frasco.
 - **La violencia llega al lugar más privado que tienen.** El baño de su cuarto.
@@ -2183,6 +2185,8 @@ Regla de [[06_Relationships/Kal_y_Chiara]]: lo que los salva siempre es algo que
 
 > **CANON DEL AUTOR (2026-08-29).** Ocurre **después de [[#H7 — El río]]**. **ID: H16** (asignado 2026-08-29). **Posición actualizada (2026-09-20):** también después de "La periferia" (Cap. 33) y de [[#H21 — Mi pareja]] (Cap. 34), que ahora cierran la Parte II — H16 abre la Parte III (Cap. 35). Ver tabla de orden arriba.
 
+> **ESCRITO (2026-09-20, Claude Code, BORRADOR — reestructurado el mismo día con el arco completo dictado por el autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/36_Tambien_Las_Mananas|Capítulo 36 — También las mañanas]] (título provisional), segundo capítulo de la Parte III. Abre con salto de POV puntual a Kal (justificado en el propio capítulo): Kal y Héctor reciben a la yegua en el muelle de carga de Kingsley Field, un descuido la espanta, la persiguen cuatro horas con un susto cardíaco de Héctor de por medio (no infarto), y pierden casi todo el día — por eso la entrega se hace de noche y Kal llega con el traje arruinado. Vuelve al POV de Chiara con la llamada ("Bellandi en remojo"), la recogida en el Penthouse y la caminata con los ojos cubiertos hasta las caballerizas, con las campanas de Santa Lucía sonando al llegar. Yegua nombrada **Stella** en escena (microdecisión del agente, resuelve el candidato "que la nombre Chiara"); botella con Kal confesando que ni él ni Walt estaban seguros de su significado; llave con la frase canon. Estado de EE. UU. de origen de la yegua sigue deliberadamente sin nombrar en prosa.
+
 El día del **cumpleaños de Chiara** (23 de noviembre), **Chiara se muda oficialmente con Kal.** Éste es el momento real de convivencia.
 
 | Antes (el loft) | Ahora (la mudanza) |
@@ -2232,7 +2236,7 @@ Una **cajita más pequeña, modesta, de madera.** Dentro, **una llave del loft.*
 
 **Esto ES la mudanza oficial.** No hay caja de camión ni escena de traslado: hay una llave y una frase. Ella se muda porque lo eligen. Los gestos domésticos reservados (la computadora que se queda, el café cada mañana) empiezan a partir de aquí.
 
-> **PENDIENTE:** el pago reservado del cifrado "Roma Atrii", que el autor situó "en el cumpleaños de Chiara" — ver [[07_Ideas/El_Chico_Del_Patio]]. Puede caer el mismo día, no necesariamente dentro de la escena de los tres regalos.
+> **REUBICADO (2026-09-20, encargo directo del autor):** el pago del cifrado "Roma Atrii" ya no cae en el cumpleaños de Chiara. El autor sembró un nuevo eco del cifrado al cierre del [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35]] (invitación cifrada al yate, "Te veo, con mucha Roma") y fijó el pago real para **después de la fiesta del yate**, un capítulo futuro todavía sin escribir — ver la nota de roadmap en el encabezado del Cap. 35 y [[98_Agent_Handoff/PENDING]]. Ver también [[07_Ideas/El_Chico_Del_Patio]] para el origen de la nota anterior.
 
 > **PENDIENTE menor:** confirmar el estado de EE. UU. de donde traen la yegua.
 
@@ -2405,6 +2409,16 @@ La redacción final de la explicación emocional de Kal queda abierta. No debe c
 > Nadir presencia la llamada y registra en silencio cuánto ha suavizado Chiara a Kal (no verbalizar "domado"). Pasa como intercambio espontáneo y **se queda como ritual de la pareja para toda la trilogía**. Levanta la cuarentena de [[99_Reference/README]] sobre *"Ciao, Bella" / "Ciao, Bellissimo"*. Coherente con "Kal es el aprendiz de italiano y no lo domina nunca": el mal acento es el chiste; Chiara responde con la forma más difícil (el superlativo) para reafirmar que su fluidez —y su identidad italiana, bajo presión durante toda la Parte III— sigue intacta.
 >
 > **Versión anterior (2026-09-09, HISTÓRICA — ya no vigente):** tenía a Chiara diciendo *"Ciao, bello"* primero y a Kal respondiendo *"ciao, bellissima"* con acento exagerado, naciendo en una llamada sin ubicar más allá de "inmediatamente después de H21". Queda sustituida por la escena y las líneas de arriba. Detalle y reconciliación con el *"Ciao"* en solitario de Chiara en [[06_Relationships/Kal_y_Chiara]], "El acento que cede, y el 'Ciao' que lo compensa".
+
+## El motivo *"amore mio"* — reglas de aparición
+
+> **CANON DEL AUTOR (2026-09-20).** Nace en esta misma escena, [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35 — Sin fecha de regreso]]: es Chiara quien lo dice, no Kal — *"Aquí espero, amore mio."* Kal no lo reciproca en esa llamada; su registro de motes queda limitado a *bella/bellissima*.
+>
+> **Segunda aparición:** durante la discusión bajo la lluvia en Bellandi Ridge — ver [[06_Relationships/Momentos_de_Fractura#F1 - La mentira bajo la lluvia|F1 — La mentira bajo la lluvia]].
+>
+> **A partir de ahí:** aparece con moderación, contadas veces según lo requiera la ocasión — no es muletilla recurrente de Chiara.
+>
+> **Kal lo dice una sola vez en toda la saga:** en una llamada telefónica durante la Parte IV. *(La nomenclatura "Parte IV" es la del mapa de partes de [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]]; reconciliar contra [[00_Biblia/00_Trilogy_Structure]] para confirmar si esa llamada cae aún en Libro I o ya en Voto de Ceniza. Capítulo exacto: PENDIENTE.)*
 
 ---
 

@@ -2,19 +2,24 @@
 title: "Ya llegó (título provisional)"
 type: capitulo_incubadora
 estado: BORRADOR PROPUESTO — NO CANONICO HASTA APROBACION DEL AUTOR
-libro: Seda y Polvora, Libro I — posicion propuesta (2026-09-19): despues de H8 (el incendio) y de la caida disenada de Silas Crowe, antes de F2 y del embarazo confirmado. Ver 06_Relationships/Hitos.md.
+libro: Seda y Polvora, Libro I — Parte V, despues de F2/Riley y Villa; antes de Parte VI/H1 (decision autoral 2026-09-20).
 pov: Kal Mercer, unico
 ventana_temporal: Libro I, tramo de Villa Candelaria, antes de H1 (ver decision de posicion arriba)
 localizacion: Stavanger, Noruega (ciudad propuesta, todavia no promovida a la ficha de Kal_Mercer.md)
 personajes: Kal Mercer, Chiara Bellandi, Henrik Solberg (nombre y parentesco PROVISIONALES, no aprobados)
 ---
 
+> **UBICACIÓN ANTERIOR SUPERSEDIDA POR DECISIÓN AUTORAL 2026-09-20:** antes de F2 y después de la caída de Silas. **Vigente:** Noruega/Stavanger y propuesta en Parte V — Exilio, después del día Mei-Lin/Riley y de la reconstrucción de Villa. La caída de Silas se reserva a VI: su función antigua como detonante previo del viaje queda pendiente de reconciliación. No inventar otro mecanismo ni promover la biografía propuesta por este cambio.
+>
+> **Función canon:** exilio voluntario que Kal también necesita; experiencias buenas junto a pérdidas que siguen. La sobrecompensación crea el espacio; la propuesta nace de claridad, no de culpa, sin convertir a Chiara en Mercer. La ejecución narrativa siguiente se conserva intacta como borrador histórico/propuesto, no se aprueba ni se reescribe en este encargo.
+
+
 > **ESTADO DE ESTE DOCUMENTO.** Vive en `07_Ideas/Libro_01_Incubadora/`, igual que `07_Ideas/Libro_04_Incubadora/` para la post-trilogía: nada de lo que sigue es canon por el hecho de existir aquí. Es un capítulo completo para ser leído, discutido y — si convence — promovido a manuscrito real con su propia integración en `00_Book_Map.md`, `Hitos.md` (como Hito numerado) e `INDEX.md`.
 >
 > **Decisiones ya tomadas por el autor (2026-09-19) sobre las contradicciones originales:**
 >
-> 1. **Ubicación — RESUELTA.** Libro I, antes de H1. Posición propuesta: después de H8 (el incendio) y de la caída diseñada de Silas Crowe; antes de F2 (destierro de Riley) y del embarazo confirmado. Anotado en [[06_Relationships/Hitos]], tabla "Todavía sin colocar definitivamente", sin Hito numerado todavía.
-> 2. **Disparador (caída de Silas Crowe) — CONFIRMADO POR EL AUTOR (2026-09-19).** Ver [[02_Characters/Silas_Crowe]], "El primer trato que nadie cuenta" y la resolución de "cómo termina": Silas fue quien conectó a Dale con la red de colocación que trajo a Kal, cobrándose una deuda de silencio; Kal lo derrota volviéndolo económicamente irrelevante para la Almendra (nunca pagándole), y Silas suelta la conexión con Noruega como golpe final de despecho. El retcon de esa ficha ("el mismo hombre no: la misma idea" → literalmente el mismo hombre) queda **confirmado y aplicado**.
+> 1. **Ubicación — SUPERSEDIDA POR DECISIÓN AUTORAL 2026-09-20; registro histórico.** Libro I, antes de H1. Posición propuesta: después de H8 (el incendio) y de la caída diseñada de Silas Crowe; antes de F2 (destierro de Riley) y del embarazo confirmado. Anotado en [[06_Relationships/Hitos]], tabla "Todavía sin colocar definitivamente", sin Hito numerado todavía.
+> 2. **Disparador (caída de Silas Crowe) — versión 2026-09-19, SUPERSEDIDA como dependencia cronológica el 2026-09-20.** El material de origen y derrota se conserva; su encaje con el viaje sigue pendiente. Ver [[02_Characters/Silas_Crowe]], "El primer trato que nadie cuenta" y la resolución de "cómo termina": Silas fue quien conectó a Dale con la red de colocación que trajo a Kal, cobrándose una deuda de silencio; Kal lo derrota volviéndolo económicamente irrelevante para la Almendra (nunca pagándole), y Silas suelta la conexión con Noruega como golpe final de despecho. El retcon de esa ficha ("el mismo hombre no: la misma idea" → literalmente el mismo hombre) queda **confirmado y aplicado**.
 > 3. **Qué sabe Chiara — RESUELTA.** Chiara presencia toda la revelación y queda enterada. `12_Craft_Policies/revelations/SAGA_LEVEL.md`, "Origen real de Kal", ya se actualizó: la restricción "Chiara al inicio" deja de aplicar en este tramo del libro.
 > 4. **La joyería con Héctor — QUEDA PENDIENTE, sin tocar,** tal como decidió el autor. Sigue sin escritura propia; este capítulo la sigue presuponiendo ya ocurrida fuera de página, en algún punto anterior a Stavanger.
 > 5. **Ciudad de origen (Stavanger).** Sigue como propuesta de este capítulo únicamente — no se promovió todavía a `02_Characters/Kal_Mercer.md`, que sigue pidiendo que ese hueco quede abierto "casi hasta el final". Se promueve sólo si el autor aprueba el capítulo completo.

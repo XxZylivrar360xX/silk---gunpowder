@@ -1,5 +1,11 @@
 # Nadir Amrani
 
+## La grieta de F2 — CANON DEL AUTOR 2026-09-20
+
+Ejecuta a Mei-Lin **el mismo día del destierro de Riley**, en Parte V, antes de Villa Candelaria. En la costa, Mei-Lin cree participar en una entrega; Nadir dispara por detrás y llora. Kal carga con la decisión, Nadir con el acto. El protector de los jóvenes mata a una de las chicas que acabó protegiendo; sin detalle táctico.
+
+Es una de las primeras grietas profundas entre Nadir persona y Nadir miembro de la organización. Sigue leal, trabaja y puede justificar que era necesario; no abandona a Kal ni expresa resentimiento inmediato. Puede contribuir mucho después a su búsqueda de vida/poder fuera de esa institución, sin convertirse en causa única.
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-08-23).** Ficha compacta. No inventar nacionalidad, familia ni biografía fuera de lo definido.

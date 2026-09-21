@@ -1,5 +1,13 @@
 # Riley Bennett
 
+## El día de F2 — CANON DEL AUTOR 2026-09-20
+
+Kal la destierra **el mismo día que Nadir ejecuta a Mei-Lin**. No hay intervalo de días ni semanas; salir de San Aurelio ese día no implica completar la ruta a Italia ese mismo día. Su conflicto propio sigue **PENDIENTE**: no inventarlo para acomodar a Elenna.
+
+Sobrevivir no es ganar: pierde a Mei-Lin, La Almendra, Chiara, su red cotidiana, ciudad, identidad habitual y vida en construcción. Mei-Lin era su roommate en La Almendra; la amistad se construyó con casa, horarios, barrio, autos y rutinas. Villa y Stavanger/propuesta vienen después, en Parte V.
+
+> **PENDIENTE DE CONTINUIDAD:** esta ficha conserva «Riley Ardizzone», mientras F2 usa «Riley Colombo». No se elige alias por conveniencia en esta reconciliación.
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CORRECCIÓN DE CONTINUIDAD (2026-09-11).** Este archivo situaba el destierro de Riley (F2) "en Parte III", después de que la Guerra de los Tres hubiera empezado. Eso contradecía [[00_Biblia/00_Trilogy_Structure]] (2026-09-07): **F2 pertenece al Libro I — Seda y Pólvora**, antes de H1, por el conflicto propio de Riley. Corregido abajo sin mover el hito ni inventar contenido nuevo.
@@ -62,7 +70,7 @@ Lo que opera hoy:
 
 ### Italia y Elenna — CANON / DISEÑO FIJADO (2026-08-31; posición corregida 2026-09-11)
 
-F2 ocurre en el **Libro I**, después de que exista [[05_Locations/La_Villa|Villa Candelaria]] y con aire suficiente antes de H1 — **no** en Voto de Ceniza ni después de que la Guerra de los Tres haya empezado (la guerra, como conflicto de tres vértices, sólo se vuelve inevitable al cierre del Libro I). Elenna nace después, ya en *Voto de Ceniza* (Libro II). Riley debe llegar a Italia y construir una vida/cobertura estable antes de que Elenna necesite ser enviada allí.
+F2 ocurre en el **Libro I**, en Parte V, **antes** de [[05_Locations/La_Villa|Villa Candelaria]] y de Stavanger/anillo y con aire suficiente antes de H1 — **no** en Voto de Ceniza ni después de que la Guerra de los Tres haya empezado (la guerra, como conflicto de tres vértices, sólo se vuelve inevitable al cierre del Libro I). Elenna nace después, ya en *Voto de Ceniza* (Libro II). Riley debe llegar a Italia y construir una vida/cobertura estable antes de que Elenna necesite ser enviada allí.
 
 La causalidad no puede invertirse. Kal no la destierra para producir una cuidadora futura; la salva por el conflicto de Riley. Chiara no la instala en Italia como empleada; le construye una posibilidad de supervivencia. Mucho después, cuando Kal y Chiara necesitan a alguien absolutamente confiable, Riley ya está allí.
 

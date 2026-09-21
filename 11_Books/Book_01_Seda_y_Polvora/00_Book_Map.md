@@ -1,5 +1,18 @@
 # Book 01 - Seda y Polvora
 
+## Arquitectura operativa vigente — 2026-09-20
+
+Fuente macro: [[01_Timeline/02_Libro_01_Seda_y_Polvora]]. No asigna capítulos nuevos.
+
+| Parte | Entrada y salida |
+|---|---|
+| III — Ardizzone | Conserva Matteo → H16 → crecimiento/Fabrizio → F1/Tres Días/reconciliación → Tommaso/Mei-Lin → asesinato/H13/Palermo → Camp Alder → apagón/monólogo → loft / Ciao, bella. |
+| IV — Nieve y Ceniza | Continuación inmediata; deuda Halbrook, relación reparada, Navidad/collar **RETORNA A CASA**; **incendio del loft cierra la Parte**. |
+| V — Exilio | **F4 abre**, Año Nuevo/cumpleaños de Kal, juntos y solos tras el incendio → F3 → **F2: Mei-Lin y Riley el mismo día** → consecuencias → **Villa** → **Stavanger/anillo después de Riley** → pareja comprometida, pérdidas sin borrar y nuevas memorias felices. |
+| VI — Torna a Casa | Recibe Villa, F2 y compromiso ya ocurridos; conflicto final/Silas/Varek, embarazo, H1, recuperación mínima, reveal y familia futura; coda Halbrook en San Aurelio. |
+
+H8 conserva ID y separa incendio/mentira/Villa entre IV–V. La mentira es la fuga de gas, con cobro posterior pendiente. Elenna sólo mediante embarazo y futuro familiar: nacimiento, falsa muerte y separación son Libro II. **SUPERSEDIDO POR DECISIÓN AUTORAL 2026-09-20:** cualquier orden contrario en los bloques históricos de cinco partes y en [[01_Timeline/02_Cadena_De_Eventos_Libro_I]]. No usar esos bloques para colocar F4/F3/H8/F2/Villa/Stavanger. Washington/Anya y el antiguo disparador de Silas requieren reconciliación fina, sin alterar el orden fijado.
+
 > **TÍTULOS VIGENTES — CANON DEL AUTOR (2026-09-20):** C04 **Tarifa nocturna**; C21 **El primer huésped**; C22 **Causalidad**; C28 conserva **La correa**; C30 **Media Baraja**; C33 **Más de la cuenta**. Encabezados, archivos y rutas actualizados. Las menciones históricas a La primera llamada, La promesa, Sin rastro, Las cascadas y La periferia corresponden a estos mismos capítulos. Primera ronda cerrada. Registro: [[01_Timeline/07_Matriz_Renombramiento_Capitulos_Libro_I#Decisiones del autor — primera ronda (2026-09-20)]].
 
 *Mapa narrativo operativo para montar la novela como libro y EPUB.*

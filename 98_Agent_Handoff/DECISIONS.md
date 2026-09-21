@@ -1,5 +1,9 @@
 # Decisions
 
+## 2026-09-20 — Frontera IV/V y reconstrucción en Exilio
+
+**CANON DEL AUTOR:** incendio cierra IV; F4 abre V, juntos/solos/desplazados, 1 de enero; F4 → F3 → F2 (Mei-Lin/Nadir y Riley **mismo día**) → Villa → Stavanger/anillo, todo en V. VI recibe compromiso/hogar y amenaza familia futura mediante embarazo/H1/reveal; Elenna física queda en Libro II. H8 conserva ID, separa incendio/mentira/Villa; mentira existente de fuga de gas, cobro pendiente. Kal construye memorias junto al dolor; propuesta por claridad, sin absorción de identidad. Sustituye F4→F3→incendio, Villa previa a F2 e intervalo entre pérdidas. [[01_Timeline/02_Libro_01_Seda_y_Polvora]].
+
 - **C22 — CAUSALIDAD, CANON DEL AUTOR (2026-09-20):** «causalidad se queda». Sustituye Sin rastro; aplicado en encabezado, archivo y referencias. Cierra la primera ronda de seis títulos y supersede el pendiente registrado abajo. Sin cambios de prosa ni EPUB.
 
 - **TÍTULOS LIBRO I — CANON DEL AUTOR (2026-09-20):** C04 Tarifa nocturna; C21 El primer huésped; C28 La correa, confirmado sin cambio; C30 Media Baraja; C33 Más de la cuenta. Cuatro renombramientos aplicados con actualización de rutas. C22 todavía Sin rastro, pendiente de elección; Causalidad es recomendación del agente, no decisión del autor. Ver [[01_Timeline/07_Matriz_Renombramiento_Capitulos_Libro_I]].

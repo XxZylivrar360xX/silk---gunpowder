@@ -1,5 +1,13 @@
 # Kal y Chiara
 
+## Hogares, pérdidas y futuro — CANON DEL AUTOR 2026-09-20
+
+Loft: hogar descubierto y construido por ambos → Navidad/collar en IV (**RETORNA A CASA**, inscripción intacta) → incendio cierra IV → F4 abre V, juntos y solos tras perder el lugar → F3 → F2: Mei-Lin muere y Riley se va **el mismo día** → Villa Candelaria como reconstrucción conjunta → Stavanger/anillo, todavía en V → embarazo/H1/reveal en VI, familia futura. No hay otros Tres Días después de Camp Alder.
+
+Después de F2, Kal intenta construir algo bueno junto a lo que no sabe reparar: casa, tiempo, experiencias, pequeñas alegrías y futuro. La felicidad nueva no elimina la pérdida vieja. **La sobrecompensación crea el espacio; la propuesta nace de claridad, no de culpa.** No compra olvido ni convierte a Chiara en Mercer. Noruega también es salida que Kal necesita; exilio voluntario, no terapia.
+
+Elenna en VI significa embarazo, familia futura y riesgo sobre ese futuro. Nacimiento, falsa muerte y separación permanecen en Libro II. Ver [[01_Timeline/02_Libro_01_Seda_y_Polvora]].
+
 *La relación tratada como entidad con arco propio.* Este documento es tan importante como las dos fichas de personaje, porque la relación **es** la maquinaria del ascenso, no su acompañamiento.
 
 > Arquitectura emocional derivada de [[99_Reference/KYLE_RASS_GIULIA_ROSSETTI_CONTEXT]] — ver [[99_Reference/README]] para qué se heredó y qué no.
@@ -301,7 +309,7 @@ Kal lo lleva puesto. El gesto de ella — la mano en el pecho antes de que él s
 
 ### La casa de tres — embarazo, guerra y salida (CANON DEL AUTOR, 2026-08-31)
 
-H1 ocurre durante Parte II. Antes de que Kal salga, Chiara ya confirmó que está embarazada y él todavía no lo sabe. Ella planea contárselo cuando vuelva; espera unas horas porque quiere que la noticia les pertenezca en casa, no porque esté administrando un secreto prolongado.
+H1 ocurre durante Parte VI del Libro I. Antes de que Kal salga, Chiara ya confirmó que está embarazada y él todavía no lo sabe. Ella planea contárselo cuando vuelva; espera unas horas porque quiere que la noticia les pertenezca en casa, no porque esté administrando un secreto prolongado.
 
 Cuando Chiara dice *Retorna a casa*, Kal entiende **los dos** y ella sabe **los tres**. Cuando él se desangra diciendo que sólo quiere llegar a casa porque lo esperan, ya está luchando por volver hasta Elenna sin conocer su existencia. Ninguna de esas lecturas se verbaliza en prosa.
 
