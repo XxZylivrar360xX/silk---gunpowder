@@ -9,7 +9,7 @@ fuente_canon: "[[07_Ideas/Escenas_Guia/El_Regreso_De_Elenna]]"
 
 # Tornare a casa — material narrativo
 
-> **MATERIAL NARRATIVO — no canónico hasta aprobación del autor.** Borrador solicitado expresamente para [[11_Books/Book_03_Cuentas_De_Sangre|Book 03 — Cuentas de Sangre]]. Conserva el canon de la escena guía: Elenna tiene poco más de un año en este reencuentro. No fija la localización precisa de la casa, la duración de la separación ni la logística de la salida de San Aurelio.
+> **MATERIAL NARRATIVO — no canónico hasta aprobación del autor.** Borrador solicitado expresamente para [[11_Books/Book_04_Cuentas_De_Sangre|Book 03 — Cuentas de Sangre]]. Conserva el canon de la escena guía: Elenna tiene poco más de un año en este reencuentro. No fija la localización precisa de la casa, la duración de la separación ni la logística de la salida de San Aurelio.
 
 La casa estaba al final de un camino demasiado angosto para el coche, entre muros bajos de piedra y limoneros que habían dejado fruta caída sobre la tierra. Kal apagó el motor y no bajó.
 
@@ -128,6 +128,6 @@ La cámara seguía junto a la ventana. La luz de la sala seguía encendida. Afue
 ## Anclas de continuidad
 
 - Guía y canon de origen: [[07_Ideas/Escenas_Guia/El_Regreso_De_Elenna]].
-- Marco de salida y función de *Cuentas de Sangre*: [[11_Books/Book_03_Cuentas_De_Sangre/00_Book_Map]].
+- Marco de salida y función de *Cuentas de Sangre*: [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]].
 - El apego de Elenna a Riley sigue vivo; el texto no convierte el reencuentro en reconocimiento instantáneo ni desplaza a Riley de su vínculo cotidiano.
 - La nana sólo usa el estribillo canónico; melodía y letra completa siguen pendientes.

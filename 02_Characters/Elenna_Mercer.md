@@ -110,7 +110,7 @@ Muy pocas personas conocen la verdad. La lista exacta y el momento en que cada p
 
 ## La apertura de Voto de Ceniza y la entrega — DISEÑO / CANON DEL AUTOR (2026-09-11)
 
-> Arquitectura completa en [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map|el Book Map de Voto de Ceniza]]; calibración tonal no diegética en [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]]. Resumen aquí sólo lo que toca directamente a Elenna.
+> Arquitectura completa en [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map|el Book Map de Voto de Ceniza]]; calibración tonal no diegética en [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]]. Resumen aquí sólo lo que toca directamente a Elenna.
 
 **Voto de Ceniza no abre cronológicamente.** El Capítulo 1 es un flashforward de ~9 meses: nacimiento de Elenna, una breve pertenencia real, la aparente muerte, el duelo público de San Aurelio y el duelo privado de Chiara, y Kal en [[05_Locations/El_Mirador|El Mirador]]. **No confirma todavía** que Elenna sobrevivió, que fue enviada a Italia ni que Riley está implicada — el lector puede leer legítimamente que murió. Cierra con Kal diciéndole a Héctor:
 
@@ -176,7 +176,7 @@ El video sólo puede verse una vez o queda inutilizable después por el mecanism
 
 La guerra sigue abierta y Kal y Chiara todavía no han ganado San Aurelio. El video demuestra que, mientras siguen inmersos en el conflicto e intentan asegurar la ciudad, están perdiendo tiempo irrepetible de la infancia de Elenna.
 
-**H22 es el momento donde cambia la pregunta estratégica:** de *¿cómo hacemos San Aurelio suficientemente seguro para traer a Elenna?* a *¿cómo construimos una estructura capaz de funcionar sin nosotros para poder ir hacia ella?* Aquí nace conscientemente la arquitectura de salida que se desarrollará después y sembrará [[11_Books/Book_03_Cuentas_De_Sangre/00_Book_Map|Cuentas de Sangre]]. La decisión estratégica nace en H22; la ejecución de la salida ocurre mucho después. No se retiran inmediatamente: la guerra sigue abierta.
+**H22 es el momento donde cambia la pregunta estratégica:** de *¿cómo hacemos San Aurelio suficientemente seguro para traer a Elenna?* a *¿cómo construimos una estructura capaz de funcionar sin nosotros para poder ir hacia ella?* Aquí nace conscientemente la arquitectura de salida que se desarrollará después y sembrará [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map|Cuentas de Sangre]]. La decisión estratégica nace en H22; la ejecución de la salida ocurre mucho después. No se retiran inmediatamente: la guerra sigue abierta.
 
 ## El lugar que ocupa en Kal
 
@@ -289,4 +289,4 @@ No resolver ninguno de estos puntos por conveniencia:
 
 ---
 
-Ver también: [[02_Characters/Kal_Mercer]] · [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Riley_Bennett]] · [[04_Concepts/La_Guerra_de_los_Tres]] · [[06_Relationships/Hitos]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]] · [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]]
+Ver también: [[02_Characters/Kal_Mercer]] · [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Riley_Bennett]] · [[04_Concepts/La_Guerra_de_los_Tres]] · [[06_Relationships/Hitos]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]] · [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]]

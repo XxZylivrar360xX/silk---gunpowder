@@ -1,6 +1,8 @@
-# Libro V — Camino a Casa
+# Libro VI — Camino a Casa
 
-> **Fuente operativa:** [[11_Books/Book_05_Camino_A_Casa/00_Book_Map]] · **Estado:** diseño macro; reconstrucción y revelación fusionadas.
+> **Fuente operativa:** [[11_Books/Book_06_Camino_A_Casa/00_Book_Map]] · **Estado:** diseño macro; reconstrucción y revelación fusionadas.
+>
+> **Renumerado (2026-09-22):** era Libro V; ahora es Libro VI por la inserción de *Sombras de Poder* en el arco principal — ver [[00_Biblia/00_Trilogy_Structure]]. Su contenido, título y diseño de incubadora no cambian.
 
 ## Acontecimientos
 

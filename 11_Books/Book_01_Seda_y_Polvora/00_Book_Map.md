@@ -1,17 +1,22 @@
 # Book 01 - Seda y Polvora
 
-## Arquitectura operativa vigente — 2026-09-20
+## Arquitectura operativa vigente — 2026-09-22
+
+> **SUPERSESIÓN (2026-09-22):** las antiguas Partes IV-VI (Nieve y Ceniza, Exilio, Torna a
+> Casa) dejaron de pertenecer a este libro — son ahora las Partes I-III de
+> [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map|Book_02_Sombras_De_Poder]]. Este libro
+> termina en el Cap. 44 ("Ciao, bella", cierre de la Parte III — Ardizzone). Revierte la
+> reconciliación del 2026-09-20 que las había fusionado aquí.
 
 Fuente macro: [[01_Timeline/02_Libro_01_Seda_y_Polvora]]. No asigna capítulos nuevos.
 
 | Parte | Entrada y salida |
 |---|---|
-| III — Ardizzone | Conserva Matteo → H16 → crecimiento/Fabrizio → F1/Tres Días/reconciliación → Tommaso/Mei-Lin → asesinato/H13/Palermo → Camp Alder → apagón/monólogo → loft / Ciao, bella. |
-| IV — Nieve y Ceniza | Continuación inmediata; deuda Halbrook, relación reparada, Navidad/collar **RETORNA A CASA**; **incendio del loft cierra la Parte**. |
-| V — Exilio | **F4 abre**, Año Nuevo/cumpleaños de Kal, juntos y solos tras el incendio → F3 → **F2: Mei-Lin y Riley el mismo día** → consecuencias → **Villa** → **Stavanger/anillo después de Riley** → pareja comprometida, pérdidas sin borrar y nuevas memorias felices. |
-| VI — Torna a Casa | Recibe Villa, F2 y compromiso ya ocurridos; conflicto final/Silas/Varek, embarazo, H1, recuperación mínima, reveal y familia futura; coda Halbrook en San Aurelio. |
+| III — Ardizzone | Conserva Matteo → H16 → crecimiento/Fabrizio → F1/Tres Días/reconciliación → Tommaso/Mei-Lin (sembrado) → H13/Palermo → Camp Alder → apagón/monólogo → loft / **Ciao, bella — cierra el Libro I**. |
 
-H8 conserva ID y separa incendio/mentira/Villa entre IV–V. La mentira es la fuga de gas, con cobro posterior pendiente. Elenna sólo mediante embarazo y futuro familiar: nacimiento, falsa muerte y separación son Libro II. **SUPERSEDIDO POR DECISIÓN AUTORAL 2026-09-20:** cualquier orden contrario en los bloques históricos de cinco partes y en [[01_Timeline/02_Cadena_De_Eventos_Libro_I]]. No usar esos bloques para colocar F4/F3/H8/F2/Villa/Stavanger. Washington/Anya y el antiguo disparador de Silas requieren reconciliación fina, sin alterar el orden fijado.
+H8, F4, F3, F2, Villa, Stavanger y H1 ya no pertenecen a este libro — ver
+[[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]. Elenna sólo aparece aquí de forma indirecta
+(el embarazo se confirma en Libro II, no en éste).
 
 > **TÍTULOS VIGENTES — CANON DEL AUTOR (2026-09-20):** C04 **Tarifa nocturna**; C21 **El primer huésped**; C22 **Causalidad**; C28 conserva **La correa**; C30 **Media Baraja**; C33 **Más de la cuenta**. Encabezados, archivos y rutas actualizados. Las menciones históricas a La primera llamada, La promesa, Sin rastro, Las cascadas y La periferia corresponden a estos mismos capítulos. Primera ronda cerrada. Registro: [[01_Timeline/07_Matriz_Renombramiento_Capitulos_Libro_I#Decisiones del autor — primera ronda (2026-09-20)]].
 
@@ -19,7 +24,7 @@ H8 conserva ID y separa incendio/mentira/Villa entre IV–V. La mentira es la fu
 
 **Estado:** diseno / montaje inicial EPUB
 
-> **SUPERSESIÓN DE ARQUITECTURA (2026-09-11):** los bloques macro de cinco partes conservados abajo son referencia histórica, no ubicación operativa vigente. Sus menciones a Parte III / Parte IV, H22 posterior al cierre bélico y muerte pública de Halbrook dentro de la guerra quedan supersedidas por [[00_Biblia/00_Trilogy_Structure]], [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]] y [[06_Relationships/Hitos]]. H22 ocurre en Voto de Ceniza, con la guerra abierta, antes de Dario/montaña/Santa Lucía: cambia la pregunta estratégica e inicia la arquitectura de salida; su ejecución llega mucho después. Halbrook es sentenciado en Libro II y ejecutado públicamente al abrir Libro III. La reconstrucción integral del mapa sigue pendiente; para las partes vigentes del Libro I, consultar [[01_Timeline/02_Cadena_De_Eventos_Libro_I]].
+> **SUPERSESIÓN DE ARQUITECTURA (2026-09-11):** los bloques macro de cinco partes conservados abajo son referencia histórica, no ubicación operativa vigente. Sus menciones a Parte III / Parte IV, H22 posterior al cierre bélico y muerte pública de Halbrook dentro de la guerra quedan supersedidas por [[00_Biblia/00_Trilogy_Structure]], [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]] y [[06_Relationships/Hitos]]. H22 ocurre en Voto de Ceniza, con la guerra abierta, antes de Dario/montaña/Santa Lucía: cambia la pregunta estratégica e inicia la arquitectura de salida; su ejecución llega mucho después. Halbrook es sentenciado en Libro II y ejecutado públicamente al abrir Libro III. La reconstrucción integral del mapa sigue pendiente; para las partes vigentes del Libro I, consultar [[01_Timeline/02_Cadena_De_Eventos_Libro_I]].
 
 ---
 
@@ -41,17 +46,29 @@ El primer cruce ocurre en la entrada del casino: ella fuma, observa, se presenta
 
 ## Punto de salida
 
-Al final, Kal y Chiara siguen juntos, pero han abandonado San Aurelio y desaparecido de la ciudad que construyeron. El imperio queda atras; el hogar viaja con ellos a Palermo, donde recuperan la vida cotidiana con [[02_Characters/Elenna_Mercer|Elenna]]. La imagen final es domestica: una casa modesta azul, molduras blancas, jardin, Chiara con una copa de vino, Kal preparando la comida y una niña viviendo en casa, no una heredera esperando el imperio.
+> **CORREGIDO (2026-09-22):** esta sección describía el final de *toda la saga* (Palermo,
+> Elenna, la imagen doméstica de Cuentas de Sangre), no el cierre de este libro — ya estaba
+> desalineada contra el propio [[00_Biblia/00_Trilogy_Structure]] antes de este encargo. El
+> Libro I termina antes: en el reencuentro de Kal y Chiara tras la liberación inexplicada de
+> Camp Alder.
+
+Al final del Libro I, Kal y Chiara están reunidos pero sin haber hablado todavía de lo
+ocurrido — Kal liberado de un modo que no se explica, Chiara sin saber cómo. **"Ciao, bella."**
+El imperio, la guerra, la pérdida de Riley y Mei-Lin, el embarazo y la llegada de Halbrook
+pertenecen al Libro II en adelante. La imagen final de la saga completa (Palermo, la niña en
+casa) sigue siendo la de *Cuentas de Sangre* — ver [[00_Biblia/00_Trilogy_Structure]].
 
 ## Tesis emocional
 
 Dos personas que nunca tuvieron un lugar propio construyen uno tan grande que ya no caben adentro.
 
-La resolucion de esa tesis no es que conquisten mejor el imperio, sino que descubran que el hogar nunca fue el imperio: fue la persona con la que lo construyeron.
+La resolucion de esa tesis no es que conquisten mejor el imperio, sino que descubran que el hogar nunca fue el imperio: fue la persona con la que lo construyeron. Este libro sólo empieza a plantearlo: prueba la elección bajo la primera presión real.
 
 ## Arco total
 
-`conocerse -> aprender a funcionar juntos -> sobrevivir una guerra -> convertirse en institucion -> descubrir que la institucion puede devorarlos -> abandonarla juntos`
+`conocerse -> aprender a funcionar juntos -> elegirse bajo la primera presión real (Halbrook, Varek, Camp Alder) -> reencontrarse`
+
+El arco completo de la saga (`... -> convertirse en institución -> descubrir que la institución puede devorarlos -> abandonarla juntos`) continúa en *Sombras de Poder* y los libros siguientes — ver [[00_Biblia/00_Trilogy_Structure]].
 
 ## Protagonistas y arcos
 

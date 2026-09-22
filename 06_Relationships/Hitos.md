@@ -1,6 +1,6 @@
 # Hitos obligatorios
 
-> **AVISO DE SUPERSESIÓN (2026-09-07):** [[00_Biblia/00_Trilogy_Structure]] manda sobre este archivo en escala y fronteras entre libros. En particular: **H22 se movió a Voto de Ceniza (Libro II)**, antes de la caída de Dario, la montaña y Santa Lucía — la ubicación anterior (después del cierre de la Guerra de los Tres) queda superseded. H1 es ahora el clímax del Libro I. La salida de Riley pertenece al Libro I, antes de H1. Este archivo todavía no se reconstruyó hito por hito contra la nueva arquitectura de tres libros.
+> **AVISO DE SUPERSESIÓN (2026-09-07, actualizado 2026-09-22):** [[00_Biblia/00_Trilogy_Structure]] manda sobre este archivo en escala y fronteras entre libros. **Sombras de Poder se insertó como Libro II** entre *Seda y Pólvora* y *Voto de Ceniza* — revierte la reconciliación del 2026-09-20/21. En particular: **H1 es ahora el clímax del Libro II — Sombras de Poder**, no del Libro I. **La salida de Riley (F2) pertenece a *Sombras de Poder* (Libro II)**, no al Libro I. **H22 pertenece a *Voto de Ceniza*, ahora Libro III**, antes de la caída de Dario, la montaña y Santa Lucía — la ubicación anterior (después del cierre de la Guerra de los Tres) sigue superseded. *Cuentas de Sangre* es ahora Libro IV. Este archivo todavía no se reconstruyó hito por hito contra la nueva arquitectura de seis libros.
 
 Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni material de trabajo: son las anclas del libro, definidas por el autor. La trama se construye alrededor de ellos, no al revés.
 
@@ -41,43 +41,49 @@ Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni
 | 20 | **H19 — El asalto a Camp Alder** *(Kal no entra a ver a Chiara para poder cumplir la misión; se entrega para cubrir a Héctor y Nadir)* |
 | 21 | **H20 — Consecuencia: Halbrook / prisión militar / Lucia** *(Halbrook lo saca por un trato; Chiara acude a Lucia, que registra que lo suyo excede los negocios)* |
 
-**Orden vigente — CANON DEL AUTOR 2026-09-20:** incendio de H8 cierra IV → F4 abre V → F3 → F2 (Mei-Lin y Riley el mismo día) → componente Villa de H8 → Stavanger/anillo → VI / embarazo / H1. **SUPERSEDIDO:** bloque indivisible F4 → F3 → H8 y su posición pendiente respecto a Camp Alder/H21. Los IDs se conservan.
+**Orden vigente — CANON DEL AUTOR 2026-09-20, libros reasignados 2026-09-22:** incendio de H8 cierra Sombras de Poder/I → F4 abre Sombras de Poder/II → F3 → F2 (Mei-Lin y Riley el mismo día) → componente Villa de H8 → Stavanger/anillo → Sombras de Poder/III / embarazo / H1. **SUPERSEDIDO:** bloque indivisible F4 → F3 → H8 y su posición pendiente respecto a Camp Alder/H21. Los IDs se conservan.
 
 ### Posiciones macro vigentes y ejecución todavía pendiente
 
-Las posiciones de Partes IV–VI quedaron fijadas el 2026-09-20; no reabrirlas. Mantener pendientes únicamente los mecanismos, capítulos y distancias todavía no decididos.
+> **SUPERSESIÓN (2026-09-22):** las Partes IV-VI referidas abajo ya no son Partes internas del
+> Libro I — son las Partes I-III del **Libro II — Sombras de Poder** (ver
+> [[00_Biblia/00_Trilogy_Structure]] y [[01_Timeline/03_Libro_02_Sombras_De_Poder]]). Las
+> posiciones relativas entre hitos, fijadas el 2026-09-20, no cambian; sólo cambia el libro al
+> que pertenecen.
+
+Las posiciones internas quedaron fijadas el 2026-09-20; no reabrirlas. Mantener pendientes únicamente los mecanismos, capítulos y distancias todavía no decididos.
 
 | Posición | Hito |
 |---|---|
-| Final de IV; reconstrucción en V después de F2 | **H8** — incendio, mentira vinculada y Villa separados por componentes; no bloque continuo. |
-| Parte IV | Primera Navidad y collar **RETORNA A CASA**; primera vela después de F4 (V); clases de italiano sin colocación fina. |
-| Parte V, después de F2 / Riley y Villa | **Stavanger / propuesta**: ubicación canon; ejecución de [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] sigue propuesta, sin ID nuevo. Dependencia antigua de caída previa de Silas pendiente de reconciliación. |
-| Parte V, antes de Villa y Stavanger; antes de H1 | **F2** — ejecución de Mei-Lin por Nadir y destierro de Riley **el mismo día**; conflicto de Riley pendiente. |
-| Parte VI, después de F2, Villa y propuesta | **H1** — clímax; Chiara sabe del embarazo, Kal aún no. Reveal posterior a recuperación mínima. |
-| **Libro I**, después de H1, cierra el libro | **Reveal del embarazo a Kal** *(momento obligatorio por diseñar, sin ID; sólo después de que esté fuera de peligro y regrese cierta normalidad doméstica)* |
-| **Voto de Ceniza (Libro II)**, primer tramo importante | **Nacimiento, muerte pública y separación de Elenna** *(posición relativa fijada; capítulo, fecha y detonante pendientes)* |
-| **Voto de Ceniza (Libro II)**, después de que la separación sea cotidiana, **antes** del macrohito siguiente | **H22 — Los primeros pasos** *(CANON DEL AUTOR; BLOQUEADO PARA PROSA — [[00_Biblia/00_Trilogy_Structure]] la fija antes de la caída de Dario, la montaña y Santa Lucía, no después)* |
-| **Voto de Ceniza (Libro II)**, después de H22 | **Macrohito por numerar** — La caída de Dario, Santa Lucía y Halbrook *(orden interno: arresto de Dario → falso final → Santa Lucía + montaña → Kal sentencia a Halbrook; también cobra las muertes de Héctor y Kenji y la aparición posterior de Corrado. La ejecución pública de Halbrook ya no ocurre aquí: abre Cuentas de Sangre / Libro III)* |
+| Final de Sombras de Poder/I; reconstrucción en II después de F2 | **H8** — incendio, mentira vinculada y Villa separados por componentes; no bloque continuo. |
+| Sombras de Poder, Parte I | Primera Navidad y collar **RETORNA A CASA**; primera vela después de F4 (II); clases de italiano sin colocación fina. |
+| Sombras de Poder, Parte II, después de F2 / Riley y Villa | **Stavanger / propuesta**: ubicación canon; ejecución de [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] sigue propuesta, sin ID nuevo. Dependencia antigua de caída previa de Silas pendiente de reconciliación. |
+| Sombras de Poder, Parte II, antes de Villa y Stavanger; antes de H1 | **F2** — ejecución de Mei-Lin por Nadir y destierro de Riley **el mismo día**; conflicto de Riley pendiente. |
+| Sombras de Poder, Parte III, después de F2, Villa y propuesta | **H1** — clímax del Libro II; Chiara sabe del embarazo, Kal aún no. Reveal posterior a recuperación mínima. |
+| **Libro II — Sombras de Poder**, después de H1, cierra el libro | **Reveal del embarazo a Kal** *(momento obligatorio por diseñar, sin ID; sólo después de que esté fuera de peligro y regrese cierta normalidad doméstica)* |
+| **Voto de Ceniza (Libro III)**, primer tramo importante | **Nacimiento, muerte pública y separación de Elenna** *(posición relativa fijada; capítulo, fecha y detonante pendientes)* |
+| **Voto de Ceniza (Libro III)**, después de que la separación sea cotidiana, **antes** del macrohito siguiente | **H22 — Los primeros pasos** *(CANON DEL AUTOR; BLOQUEADO PARA PROSA — [[00_Biblia/00_Trilogy_Structure]] la fija antes de la caída de Dario, la montaña y Santa Lucía, no después)* |
+| **Voto de Ceniza (Libro III)**, después de H22 | **Macrohito por numerar** — La caída de Dario, Santa Lucía y Halbrook *(orden interno: arresto de Dario → falso final → Santa Lucía + montaña → Kal sentencia a Halbrook; también cobra las muertes de Héctor y Kenji y la aparición posterior de Corrado. La ejecución pública de Halbrook ya no ocurre aquí: abre Cuentas de Sangre / Libro IV)* |
 
 ---
 
-## Arco de embarazo, nacimiento y separación — CANON DEL AUTOR (2026-08-31; orden corregido 2026-09-11 contra [[00_Biblia/00_Trilogy_Structure]])
+## Arco de embarazo, nacimiento y separación — CANON DEL AUTOR (2026-08-31; orden corregido 2026-09-11 y libros reasignados 2026-09-22 contra [[00_Biblia/00_Trilogy_Structure]])
 
-> **CONTRADICCIÓN CORREGIDA:** la cadena de flechas y las reglas duras de esta sección colocaban F2 "en Parte III", después del reveal del embarazo, y hacían depender H22 del "cierre de la guerra". Ambas cosas invertían el orden que fija [[00_Biblia/00_Trilogy_Structure]] (2026-09-07): F2 es un hito de **Libro I**, anterior a H1; H22 ocurre **antes** de la caída de Dario, la montaña y Santa Lucía, no después. Corregido abajo sin mover ningún hito ni inventar contenido.
+> **CONTRADICCIÓN CORREGIDA:** la cadena de flechas y las reglas duras de esta sección colocaban F2 "en Parte III", después del reveal del embarazo, y hacían depender H22 del "cierre de la guerra". Ambas cosas invertían el orden que fija [[00_Biblia/00_Trilogy_Structure]] (2026-09-07). **Actualización 2026-09-22:** F2 y H1 son hitos de **Libro II — Sombras de Poder**, no del Libro I (revierte la reconciliación de 2026-09-20 que los había puesto en el Libro I); H22 ocurre **antes** de la caída de Dario, la montaña y Santa Lucía en **Voto de Ceniza (Libro III)**, no después. Corregido abajo sin mover ningún hito ni inventar contenido.
 
-Esta secuencia supersede cualquier colocación anterior del embarazo como sorpresa tardía de Parte II y cualquier ubicación de H1 después de la Guerra de los Tres:
+Esta secuencia supersede cualquier colocación anterior del embarazo como sorpresa tardía y cualquier ubicación de H1 después de la Guerra de los Tres:
 
-`Chiara confirma el embarazo → H1 (Chiara sabe / Kal no) → recuperación de Kal → reveal a Kal → cierre del Libro I → Voto de Ceniza abre con la guerra en escalada → nacimiento de Elenna en su primer tramo importante → muerte pública / Elenna Serra con Riley → separación y fotografías → H22 — Los primeros pasos → caída de Dario / montaña / Santa Lucía → Kal sentencia a Halbrook`.
+`Chiara confirma el embarazo → H1 (Chiara sabe / Kal no) → recuperación de Kal → reveal a Kal → cierre del Libro II — Sombras de Poder → Voto de Ceniza abre con la guerra en escalada → nacimiento de Elenna en su primer tramo importante → muerte pública / Elenna Serra con Riley → separación y fotografías → H22 — Los primeros pasos → caída de Dario / montaña / Santa Lucía → Kal sentencia a Halbrook`.
 
 Reglas duras:
 
-- **H1 pertenece al Libro I.** Ocurre después de que [[05_Locations/La_Villa|Villa Candelaria]] exista y después de F2. Su Parte está fijada: VI. Capítulo y mecanismo concreto siguen pendientes.
+- **H1 pertenece al Libro II — Sombras de Poder.** Ocurre después de que [[05_Locations/La_Villa|Villa Candelaria]] exista y después de F2. Su Parte está fijada: III — Torna a Casa. Capítulo y mecanismo concreto siguen pendientes.
 - Chiara lleva muy poco tiempo sabiendo que está embarazada cuando ocurre H1. No ha prolongado el secreto: planea contárselo a Kal cuando regrese de la operación.
 - El reveal no ocurre durante la hemorragia, la atención médica, el baño ni el pico de H1. Kal debe quedar fuera de peligro, dormir, iniciar recuperación y recuperar cierta normalidad doméstica antes de saberlo.
-- El Libro I construye poder y familia simultáneamente. El embarazo atraviesa la vida doméstica sin convertir cada capítulo en escena médica o de síntomas.
+- El Libro II construye poder y familia simultáneamente. El embarazo atraviesa la vida doméstica sin convertir cada capítulo en escena médica o de síntomas.
 - La Guerra de los Tres no nace por Elenna. Recibe a Chiara ya embarazada e invade una vida familiar en marcha.
-- **F2 ocurre en el Libro I, antes de H1**, por el conflicto propio de Riley. Su presencia futura en Italia es payoff, nunca motivo retroactivo del destierro.
-- Elenna nace en el primer tramo importante de Voto de Ceniza (Libro II), después de que Riley esté fuera de San Aurelio y tenga una vida/cobertura estable en Italia desde el Libro I. La fecha, semana y capítulo exactos siguen pendientes.
+- **F2 ocurre en el Libro II — Sombras de Poder, antes de H1**, por el conflicto propio de Riley. Su presencia futura en Italia es payoff, nunca motivo retroactivo del destierro.
+- Elenna nace en el primer tramo importante de Voto de Ceniza (Libro III), después de que Riley esté fuera de San Aurelio y tenga una vida/cobertura estable en Italia desde el Libro II. La fecha, semana y capítulo exactos siguen pendientes.
 - El detonante que obliga a ocultar a Elenna debe nacer orgánicamente de la escalada, la exposición y la imposibilidad de proteger a una bebé sin volverla objetivo. Sigue pendiente.
 - La duración de trabajo para la separación es **cerca de un año**, suficiente para que Elenna llegue a sus primeros pasos; el calendario exacto no se fija hasta cuadrar la cronología global.
 - **H22 ocurre antes de la caída de Dario, la montaña y Santa Lucía — no después.** No depende de que la arquitectura bélica esté cerrada; depende de que la separación de Elenna ya sea experiencia cotidiana.
@@ -1922,7 +1928,7 @@ Y dice **"queremos"**, no *quiero*. **Es la única vez en el libro en que Kal de
 
 ## 8. Antecedente ideológico del exilio de Elenna — DISEÑO (2026-09-11)
 
-> H8 conserva incendio, mentira y Villa como componentes separados entre IV y V; no los vuelve simultáneos ni consecutivos. Esta sección registra una consecuencia temática que sólo paga en [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map|Voto de Ceniza]] — ver ahí "H8 — el incendio del loft como antecedente ideológico".
+> H8 conserva incendio, mentira y Villa como componentes separados entre IV y V; no los vuelve simultáneos ni consecutivos. Esta sección registra una consecuencia temática que sólo paga en [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map|Voto de Ceniza]] — ver ahí "H8 — el incendio del loft como antecedente ideológico".
 
 Lo que el incendio deja sedimentado en Kal y Chiara, mucho antes de que Elenna exista siquiera como idea:
 
@@ -1962,7 +1968,7 @@ En el Libro II, esa certeza es lo que hace primero hermética a Villa Candelaria
 
 # H1 — El regreso a casa
 
-> **CANON DEL AUTOR (2026-08-22; posición y subtexto ampliados 2026-08-31).** Pico emocional de la novela. **Ocurre durante Parte VI del Libro I**, después de que Villa Candelaria exista y antes de la Guerra de los Tres.
+> **CANON DEL AUTOR (2026-08-22; posición y subtexto ampliados 2026-08-31; libro reasignado 2026-09-22).** Pico emocional de la novela. **Ocurre durante la Parte III — Torna a Casa del Libro II — Sombras de Poder** (antes: "Parte VI del Libro I"), después de que Villa Candelaria exista y antes de la Guerra de los Tres.
 
 **No es una escena: es una secuencia de siete movimientos.** La frase del baño es el sexto. Documentarla sola la vacía, porque todo lo que la hace funcionar se construye en los cinco anteriores.
 
@@ -2113,7 +2119,7 @@ Es también la respuesta a la pregunta que Kal lleva haciendo sin palabras toda 
 ## Lo que la secuencia fija, y ya no está en discusión
 
 - **Ocurre en [[05_Locations/La_Villa]]**, la casa final — no en el loft del barrio, que para entonces ya ardió ([[#H8 — El incendio, la mentira y la villa]]). *(CANON del autor, 2026-08-23.)*
-- **Ocurre en Parte VI, después de F2, Villa y Stavanger/anillo (Parte V).** Es el clímax del Libro I; capítulo y mecanismos concretos pendientes, no la Parte.
+- **Ocurre en la Parte III — Torna a Casa de Sombras de Poder, después de F2, Villa y Stavanger/anillo (Parte II).** Es el clímax del Libro II; capítulo y mecanismos concretos pendientes, no la Parte.
 - **Chiara ya sabe que está embarazada; Kal todavía no.** La noticia no se revela durante la crisis y se comparte después de su estabilización, en un momento separado.
 - **Para entonces viven juntos**, en la casa que él le compró sin que ella dijera una palabra y que ella levantó frasco por frasco.
 - **La violencia llega al lugar más privado que tienen.** El baño de su cuarto.
@@ -2169,7 +2175,7 @@ Regla de [[06_Relationships/Kal_y_Chiara]]: lo que los salva siempre es algo que
 
 > **PENDIENTE:** ¿cuál es la operación, y contra quién? Restricción: tiene que ser plausible que Kal entre él mismo en vez de mandar a alguien, y tiene que dejar heat suficiente para que los hospitales estén vigilados.
 
-> **RESUELTO EN POSICIÓN MACRO (2026-08-31; terminología corregida 2026-09-11):** H1 ocurre en el **Libro I**, después de H8 / la construcción de Villa Candelaria y antes del cierre del libro (coda de Halbrook). **PENDIENTE:** posición fina y capítulo exacto dentro de ese tramo.
+> **RESUELTO EN POSICIÓN MACRO (2026-08-31; terminología corregida 2026-09-11; libro reasignado 2026-09-22):** H1 ocurre en el **Libro II — Sombras de Poder**, después de H8 / la construcción de Villa Candelaria y antes del cierre del libro (coda de Halbrook). **PENDIENTE:** posición fina y capítulo exacto dentro de ese tramo.
 
 > **PENDIENTE:** cuántos días antes de H1 Chiara confirma el embarazo y por qué mecanismo; diálogo exacto del reveal posterior y reacción textual definitiva de Kal.
 
@@ -2368,6 +2374,8 @@ Lucia **no necesita preguntar "¿son novios?".** Lo registra y observa — eso e
 
 > **SIEMBRA ESCRITA (2026-09-20, Claude Code):** el canal por el que Chiara puede acudir a Lucia queda sembrado en [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Cap. 32 — Línea directa]]: Lucia le deja a Kal su línea directa después de que él le entrega un dato verificable sobre Los Bravos. Chiara se entera de que el canal existe en la coda de ese mismo capítulo, mucho antes de Camp Alder — así que acudir a Lucia aquí no depende de una coincidencia, sino de algo que Chiara ya sabía que existía.
 
+> **EJECUTADO EN PROSA (2026-09-22, Claude Sonnet 5).** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/44_A_Oscuras|Cap. 44 — A oscuras]], `Estado: BORRADOR`, **cierra la Parte III**. Mecanismo concreto: Chiara llega a Lucía por memoria, no por hallazgo en ningún expediente — recuerda que Kal le mencionó la línea directa de Cap. 32 — y acude a ella sólo después de agotar abogados, dinero, contactos e influencia. Lucía confirma custodia municipal → reclamo federal → Camp Alder ("Ya no lo tiene la ciudad"), no puede intervenir; su lectura de que esto excede los negocios se muestra por conducta externa, nunca narrada desde su interior. H20 ejecutado hasta el regreso inexplicado de Kal (apagón, penthouse, loft, "Ciao, bella"); la explicación de Halbrook y la reconciliación quedan para el Cap. 45. Corrección quirúrgica el mismo día: cronología cerrada en D5→D6 sin D7, y se retiró el microcanon de Lucía firmando la transferencia.
+
 ---
 
 # H21 — Mi pareja
@@ -2496,8 +2504,8 @@ Al cierre de la montaña y Santa Lucía, Kal comprende que los dos frentes perte
 Lo que sí debe existir en prosa **antes** de H22:
 
 - la Guerra de los Tres ya en escalada, no cerrada — Dario y Halbrook activos, la ciudad interpretando el choque posterior a H1;
-- el destierro de Riley (F2, Libro I) y su vida ya establecida en Italia;
-- el embarazo, H1 con conocimiento desigual y el reveal a Kal (Libro I);
+- el destierro de Riley (F2, Libro II — Sombras de Poder) y su vida ya establecida en Italia;
+- el embarazo, H1 con conocimiento desigual y el reveal a Kal (Libro II — Sombras de Poder);
 - el nacimiento de Elenna, la falsa muerte pública, Elenna Serra con Riley, y una separación ya vivida como experiencia cotidiana (fotografías escasas incluidas).
 
 Lo que ocurre **después** de H22, dentro del mismo libro (Voto de Ceniza): la caída legal de Dario (falso clímax) → la montaña y Santa Lucía —con la muerte de [[02_Characters/Hector_Navarro|Héctor Navarro]] y de [[02_Characters/Kenji_Oda|Kenji Oda]] y Chiara gravemente herida— → Kal decide que Halbrook debe morir (no lo ejecuta todavía) → Corrado revelado vivo. **H22 es la bisagra dentro de la guerra todavía abierta** que hace nacer el plan de salida antes del atentado contra Chiara.
@@ -2532,7 +2540,7 @@ Redactarlo antes de construir esas causas convertiría una bisagra estructural e
 ## Estado y posición
 
 - **ID:** H22. Era el siguiente ID libre real después de H21; no se renumeran hitos anteriores.
-- **Posición canon (CORREGIDA 2026-09-11 contra [[00_Biblia/00_Trilogy_Structure]]):** dentro de **Voto de Ceniza (Libro II)**, después de que la separación de Elenna sea experiencia cotidiana, y **antes** de la caída legal de Dario, la montaña y Santa Lucía. La formulación anterior ("apertura de Parte IV, después del cierre completo de la Guerra de los Tres") queda decanonizada — invertía el orden que el autor fijó.
+- **Posición canon (CORREGIDA 2026-09-11 contra [[00_Biblia/00_Trilogy_Structure]]; libro reasignado 2026-09-22):** dentro de **Voto de Ceniza (Libro III)**, después de que la separación de Elenna sea experiencia cotidiana, y **antes** de la caída legal de Dario, la montaña y Santa Lucía. La formulación anterior ("apertura de Parte IV, después del cierre completo de la Guerra de los Tres") queda decanonizada — invertía el orden que el autor fijó.
 - **Relación con la guerra:** ocurre dentro de la Guerra de los Tres todavía abierta, mientras Kal y Chiara siguen inmersos en el conflicto, antes del falso clímax (caída de Dario) y del clímax real (montaña + Santa Lucía).
 - **Prosa:** bloqueada hasta cumplir la matriz de dependencias.
 
@@ -2640,7 +2648,7 @@ El contraste con Dario es obligatorio: **Dario construye un sistema donde todo p
 
 Mientras San Aurelio los convierte en **La Mancuerna de Hierro y Seda**, ellos profesionalizan, delegan, construyen redundancias, separan funciones y vuelven reemplazables sus posiciones. Exterior: permanencia. Interior: salida.
 
-> **CANON DEL AUTOR (precisión de continuidad, 2026-09-11) — el giro de la pregunta.** Antes del video: *¿cómo hacemos San Aurelio suficientemente seguro para traer a Elenna?* Después: *¿cómo construimos una estructura capaz de funcionar sin nosotros para poder ir hacia ella?* La respuesta pasa a ser **ir ellos hacia ella** — el mismo giro que en [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map|el Book Map de Voto de Ceniza]] siembra la arquitectura de salida de [[11_Books/Book_03_Cuentas_De_Sangre/00_Book_Map|Cuentas de Sangre]], sin ejecutar todavía el retiro.
+> **CANON DEL AUTOR (precisión de continuidad, 2026-09-11) — el giro de la pregunta.** Antes del video: *¿cómo hacemos San Aurelio suficientemente seguro para traer a Elenna?* Después: *¿cómo construimos una estructura capaz de funcionar sin nosotros para poder ir hacia ella?* La respuesta pasa a ser **ir ellos hacia ella** — el mismo giro que en [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map|el Book Map de Voto de Ceniza]] siembra la arquitectura de salida de [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map|Cuentas de Sangre]], sin ejecutar todavía el retiro.
 
 ## Restricciones
 

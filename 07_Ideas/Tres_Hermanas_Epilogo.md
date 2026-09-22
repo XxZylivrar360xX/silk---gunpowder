@@ -54,4 +54,4 @@ Elenna abre el álbum sobre la mesa: en la primera hoja está la primera fotogra
 
 Unas semanas después del epílogo, Elenna regresa a San Aurelio para iniciar la academia como **Recluta** (tratamiento: **Recluta Mercer**) del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento de Policía de San Aurelio]]. La decisión pertenece a una historia futura hipotética centrada en Elenna y sus hermanas; no se anuncia ni se anticipa dentro de este epílogo.
 
-Ver también: [[11_Books/Book_03_Cuentas_De_Sangre/00_Book_Map]] · [[07_Ideas/Escenas_Guia/El_Regreso_De_Elenna]] · [[02_Characters/Riley_Bennett]] · [[02_Characters/Marisol_Grayson]] · [[02_Characters/Elenna_Mercer]]
+Ver también: [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]] · [[07_Ideas/Escenas_Guia/El_Regreso_De_Elenna]] · [[02_Characters/Riley_Bennett]] · [[02_Characters/Marisol_Grayson]] · [[02_Characters/Elenna_Mercer]]

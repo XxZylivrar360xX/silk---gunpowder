@@ -433,7 +433,7 @@ Esta vez, Elenna también estaba en la fotografía.
 ## Anclas de continuidad
 
 - Fuente de canon: [[07_Ideas/Tres_Hermanas_Epilogo]].
-- Marco de cierre: [[11_Books/Book_03_Cuentas_De_Sangre/00_Book_Map]].
+- Marco de cierre: [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]].
 - Rasgos físicos canónicos de epílogo: [[02_Characters/Riley_Bennett]] · [[02_Characters/Marisol_Grayson]] · [[02_Characters/Elenna_Mercer]]; fuente visual: [[99_Reference/chapter_concepts/Epilogo_Tres_Hermanas.png]].
 - Kal y Chiara no aparecen ni explican la escena; las tres sostienen trabajo, humor, viaje y afecto desde sus propias vidas.
 - La cámara vieja de rollo, el álbum físico y la chamarra de Elenna son objetos canónicos de la guía; el texto no narra el regalo de Héctor, pero sí fija que un tercero toma la fotografía final. El mesero no requiere identidad ni continuidad.

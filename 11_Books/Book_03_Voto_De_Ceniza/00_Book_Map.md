@@ -1,10 +1,12 @@
-# Book 02 — Voto de Ceniza
+# Book 03 — Voto de Ceniza
 
-*Mapa narrativo operativo. Libro II de la trilogía.*
+*Mapa narrativo operativo. Libro III de la saga.*
 
-> **DERIVADO DE [[00_Biblia/00_Trilogy_Structure]] (2026-09-09, Claude Code).** Este mapa reconstruye el volumen a partir de la arquitectura de trilogía fijada por el autor. Todo lo no citado explícitamente como CANON allí es DISEÑO discutible. **Estado: esqueleto — pendiente de validación del autor y de que la Guerra de los Tres se desglose con la matriz de [[04_Concepts/La_Guerra_de_los_Tres]].**
+> **DERIVADO DE [[00_Biblia/00_Trilogy_Structure]] (2026-09-09, Claude Code).** Este mapa reconstruye el volumen a partir de la arquitectura de la saga fijada por el autor. Todo lo no citado explícitamente como CANON allí es DISEÑO discutible. **Estado: esqueleto — pendiente de validación del autor y de que la Guerra de los Tres se desglose con la matriz de [[04_Concepts/La_Guerra_de_los_Tres]].**
 >
-> **BLOQUEO DE PROSA:** no se redacta prosa de este libro hasta cerrar el Libro I. [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] sigue expresamente bloqueado.
+> **RENUMERADO (2026-09-22):** era Libro II; ahora es Libro III por la inserción de *Sombras de Poder* — ver [[00_Biblia/00_Trilogy_Structure]]. Su contenido no cambia; hereda su estado de entrada de *Sombras de Poder*, no directamente de *Seda y Pólvora*.
+>
+> **BLOQUEO DE PROSA:** no se redacta prosa de este libro hasta cerrar los Libros I y II. [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] sigue expresamente bloqueado.
 >
 > **INTEGRACIÓN (2026-09-11, Claude Code, encargo del autor).** Incorporada la arquitectura de apertura en flashforward, el arco completo del exilio de Elenna (nacimiento → falsa muerte → pista clandestina → Riley → primer año → H22) y la siembra de la arquitectura de salida hacia *Cuentas de Sangre*, a partir de [[98_Agent_Handoff/ChatGPT/Roadmap de Voto de Ceniza — Elenna, exilio y arquitectura de salida|el roadmap aportado por el autor]]. La guía de ambientación de ese mismo capítulo vive, no diegética, en [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna|Calibración musical — Revelación del exilio de Elenna]]. Ningún mecanismo médico, legal, documental u operativo fue inventado para cerrar huecos: sigue todo marcado PENDIENTE donde ya lo estaba.
 
@@ -20,7 +22,7 @@
 
 El "voto" no es el sacrificio de Elenna. Es el sacrificio de la vida cotidiana con ella para que ella pueda sobrevivir.
 
-## Estado de entrada (hereda del cierre del Libro I)
+## Estado de entrada (hereda del cierre del Libro II — Sombras de Poder)
 
 - Kal y Chiara juntos; Chiara embarazada; Kal ya lo sabe.
 - El Patio atravesó su primer enfrentamiento abierto (H1).
@@ -54,7 +56,7 @@ El "voto" no es el sacrificio de Elenna. Es el sacrificio de la vida cotidiana c
 
 > **CANON DEL AUTOR (2026-09-11).** El libro **no abre cronológicamente.**
 
-El Capítulo 1 se sitúa **~9 meses por delante** del punto donde cierra el Libro I. Muestra, en este orden: el nacimiento de Elenna y una breve pertenencia real (Elenna cierra la mano en torno a uno de los dedos de Kal — motivo físico que se cobra más adelante, ver "Riley — payoff, no causa"); la aparente muerte de la niña; el duelo público de San Aurelio en La Almendra; el duelo privado de Chiara en el hospital; y Kal en [[05_Locations/El_Mirador|El Mirador]].
+El Capítulo 1 se sitúa **~9 meses por delante** del punto donde cierra el Libro II — Sombras de Poder. Muestra, en este orden: el nacimiento de Elenna y una breve pertenencia real (Elenna cierra la mano en torno a uno de los dedos de Kal — motivo físico que se cobra más adelante, ver "Riley — payoff, no causa"); la aparente muerte de la niña; el duelo público de San Aurelio en La Almendra; el duelo privado de Chiara en el hospital; y Kal en [[05_Locations/El_Mirador|El Mirador]].
 
 **No confirma todavía** que Elenna sobrevivió, que fue enviada a Italia, que Riley está implicada, el mecanismo de la falsa muerte ni el detonante que la volvió necesaria. La prosa restringe información; no miente. El lector puede interpretar legítimamente que Elenna murió, que la pareja se rompió, o cualquier otra lectura — no se corrige todavía.
 
@@ -71,7 +73,7 @@ Calibración tonal completa de este capítulo (referencias de temperatura emocio
 
 Tras el flashforward, la narración vuelve a **`Nueve meses antes.`** Chiara está embarazada; Kal y Chiara siguen juntos; la Guerra de los Tres sigue escalando. El lector ya conoce la consecuencia (Cap. 1); todavía no conoce la ecuación.
 
-**Tono de este tramo — no en guerra total:** consecuencias, anomalías y señales posteriores a H1; la ciudad interpreta el choque del final del Libro I; Dario reorganiza presión; Halbrook empieza a operar físicamente; Kal responde a hechos que no parecen del mismo conflicto; Chiara detecta patrones; la policía acumula evidencia sin el mapa completo. Estructura secreta: `Dario Varek vs Warren Halbrook vs Kal Mercer + Chiara Bellandi`. La policía es actor visible, no cuarto vértice.
+**Tono de este tramo — no en guerra total:** consecuencias, anomalías y señales posteriores a H1; la ciudad interpreta el choque del final del Libro II — Sombras de Poder; Dario reorganiza presión; Halbrook empieza a operar físicamente; Kal responde a hechos que no parecen del mismo conflicto; Chiara detecta patrones; la policía acumula evidencia sin el mapa completo. Estructura secreta: `Dario Varek vs Warren Halbrook vs Kal Mercer + Chiara Bellandi`. La policía es actor visible, no cuarto vértice.
 
 > **DISEÑO (2026-09-11) — los nueve meses.** Aproximadamente nueve capítulos para aproximadamente nueve meses de embarazo, sin regla mecánica de un capítulo por mes. Cada capítulo avanza a la vez: (1) embarazo/familia, (2) escalada de amenazas, (3) construcción gradual de la lógica del exilio. Progresión de lectura pretendida: ¿van a separarse? → no parece → ¿entonces Elenna murió? → ¿por qué compartimentan información? → ¿por qué construyen protocolos alrededor de la niña? → ¿la van a hacer desaparecer? → no puede ser. **Regla de misterio:** no esconder arbitrariamente lo que Kal o Chiara ya piensan; el misterio se construye por punto de vista, escenas parciales y consecuencias — no por diálogos que se niegan a decir cosas sólo para el lector. El Capítulo 1 restringe porque observa sólo fragmentos; de aquí en adelante la narración debe ser honesta: al releer, el lector debe poder comprobar que la historia nunca mintió.
 
@@ -83,13 +85,13 @@ Riley ya lleva tiempo fuera y tiene vida/cobertura estable en Italia antes de re
 
 ### H8 — el incendio del loft como antecedente ideológico
 
-> **DISEÑO (2026-09-11).** No altera la función de [[06_Relationships/Hitos#H8 — El incendio, la mentira y la villa|H8]] en el Libro I (destruye la casa de Dale y Ruth, el trabajo de Chiara, el primer hogar compartido; última victoria real de Silas Crowe; detonante de Villa Candelaria). Añade una consecuencia temática que paga en este libro.
+> **DISEÑO (2026-09-11).** No altera la función de [[06_Relationships/Hitos#H8 — El incendio, la mentira y la villa|H8]] en el Libro II — Sombras de Poder (destruye la casa de Dale y Ruth, el trabajo de Chiara, el primer hogar compartido; última victoria real de Silas Crowe; detonante de Villa Candelaria). Añade una consecuencia temática que paga en este libro.
 
 Lección sedimentada que H8 deja en Kal y Chiara: **una casa conocida deja de ser refugio cuando los enemigos saben dónde vive tu familia.**
 
 | Momento | Idea de seguridad |
 |---|---|
-| Después de H8 (Libro I) | Necesitamos una casa más segura → Villa Candelaria. |
+| Después de H8 (Libro II) | Necesitamos una casa más segura → Villa Candelaria. |
 | Chiara embarazada, inicio de este libro | Necesitamos hacer la villa hermética: vigilancia, rutas alternas, personal de confianza, compartimentación, protocolos, reducción de exposición pública. |
 | Conforme escala la guerra | Ninguna pared resuelve el problema. El problema no es Villa Candelaria: el problema es que Kal Mercer y Chiara Bellandi viven ahí. Si su hija vive ahí, cualquiera que pueda tocar a sus padres puede tocarla a ella. |
 
@@ -111,7 +113,7 @@ Kal entiende proteger como **distancia física** — cuando alguien corre peligr
 
 > **CANON DEL AUTOR (2026-09-11).** Amplía la regla dura ya fijada en [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Riley y la muerte de Mei-Lin|F2]] y en [[02_Characters/Riley_Bennett]].
 
-**Regla dura:** Riley no reaparece — ni en mensaje, llamada, interludio ni pista explícita — en ningún momento antes de la entrega de Elenna. Su ausencia permanece intacta desde el destierro del Libro I. Durante la planificación, Chiara sólo dice algo equivalente a:
+**Regla dura:** Riley no reaparece — ni en mensaje, llamada, interludio ni pista explícita — en ningún momento antes de la entrega de Elenna. Su ausencia permanece intacta desde el destierro en el Libro II — Sombras de Poder. Durante la planificación, Chiara sólo dice algo equivalente a:
 
 > Yo me encargaré de que haya alguien de confianza al otro lado.
 
@@ -151,7 +153,7 @@ Ocurre **después** de que la separación sea vida cotidiana, y **antes** de la 
 
 Sentido: **aquí Kal y Chiara comprenden que deben construir una estructura capaz de funcionar sin ellos.** El plan de salida nace en este libro; no pueden ejecutarlo porque la guerra sigue abierta. Colocación dura: **eligen a Elenna antes de Santa Lucía** — que la decisión no nazca del miedo posterior al atentado.
 
-> **CANON DEL AUTOR (precisión de continuidad, 2026-09-11) — el giro de la pregunta.** Antes del video, Kal y Chiara pueden sostener: *¿cómo hacemos San Aurelio suficientemente seguro para traer a Elenna?* Después: *¿cómo construimos una estructura capaz de funcionar sin nosotros para poder ir hacia ella?* H22 marca el cambio de pregunta estratégica y el nacimiento consciente de la arquitectura de salida que siembra [[11_Books/Book_03_Cuentas_De_Sangre/00_Book_Map|Cuentas de Sangre]]. Todavía no han ganado San Aurelio: mientras intentan asegurar la ciudad, pierden tiempo irrepetible de la infancia de Elenna. La guerra sigue abierta y la ejecución de la salida ocurre mucho después.
+> **CANON DEL AUTOR (precisión de continuidad, 2026-09-11) — el giro de la pregunta.** Antes del video, Kal y Chiara pueden sostener: *¿cómo hacemos San Aurelio suficientemente seguro para traer a Elenna?* Después: *¿cómo construimos una estructura capaz de funcionar sin nosotros para poder ir hacia ella?* H22 marca el cambio de pregunta estratégica y el nacimiento consciente de la arquitectura de salida que siembra [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map|Cuentas de Sangre]]. Todavía no han ganado San Aurelio: mientras intentan asegurar la ciudad, pierden tiempo irrepetible de la infancia de Elenna. La guerra sigue abierta y la ejecución de la salida ocurre mucho después.
 
 ### Falso clímax — Dario cae
 
@@ -167,7 +169,7 @@ Una sola operación, dos frentes físicos, tres golpes relacionales.
 
 Relación causal y orden fino montaña ↔ Santa Lucía: **PENDIENTE.**
 
-**Cierre bélico:** Kal comprende que los dos frentes eran la misma operación de Halbrook y decide: **Warren Halbrook va a morir.** La decisión es de este libro; la ejecución, del Libro III.
+**Cierre bélico:** Kal comprende que los dos frentes eran la misma operación de Halbrook y decide: **Warren Halbrook va a morir.** La decisión es de este libro; la ejecución, del Libro IV.
 
 ### Coda final — Corrado
 
@@ -207,8 +209,8 @@ La mañana posterior a Santa Lucía, Corrado Ardizzone aparece ante Kal (Chiara 
 
 ## Carpetas de partes
 
-Sin definir. Se crean cuando el autor apruebe el desglose y se cierre el Libro I.
+Sin definir. Se crean cuando el autor apruebe el desglose y se cierren los Libros I y II.
 
 ---
 
-Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[04_Concepts/La_Guerra_de_los_Tres]] · [[06_Relationships/Hitos]] · [[02_Characters/Elenna_Mercer]] · [[02_Characters/Riley_Bennett]] · [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[11_Books/Book_03_Cuentas_De_Sangre/00_Book_Map]]
+Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[04_Concepts/La_Guerra_de_los_Tres]] · [[06_Relationships/Hitos]] · [[02_Characters/Elenna_Mercer]] · [[02_Characters/Riley_Bennett]] · [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] · [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]]

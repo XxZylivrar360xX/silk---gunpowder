@@ -1,6 +1,8 @@
-# Libro IV — Juramento de Hierro
+# Libro V — Juramento de Hierro
 
-> **Fuente operativa:** [[11_Books/Book_04_Juramento_De_Hierro/00_Book_Map]] · **Estado:** diseño macro; sin desglose de partes aprobado.
+> **Fuente operativa:** [[11_Books/Book_05_Juramento_De_Hierro/00_Book_Map]] · **Estado:** diseño macro; sin desglose de partes aprobado.
+>
+> **Renumerado (2026-09-22):** era Libro IV; ahora es Libro V por la inserción de *Sombras de Poder* en el arco principal — ver [[00_Biblia/00_Trilogy_Structure]]. Su contenido, título y diseño de incubadora no cambian.
 
 ## Acontecimientos
 

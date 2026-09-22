@@ -145,7 +145,7 @@ La guerra debe producir fenómenos que ninguno de los tres ordenó. San Aurelio 
 
 Chiara entra a Voto de Ceniza (Libro II) **ya embarazada**. La Guerra de los Tres no produce el embarazo ni ocurre porque exista Elenna: invade una vida doméstica que Kal y Chiara ya habían empezado a imaginar durante Parte II.
 
-La siguiente cadena es una referencia histórica supersedida en la posición de F2 por [[00_Biblia/00_Trilogy_Structure]]: Riley ya está establecida en Italia al abrir Voto de Ceniza. Para el orden operativo vigente, consultar [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]] y [[06_Relationships/Hitos]].
+La siguiente cadena es una referencia histórica supersedida en la posición de F2 por [[00_Biblia/00_Trilogy_Structure]]: Riley ya está establecida en Italia al abrir Voto de Ceniza. Para el orden operativo vigente, consultar [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]] y [[06_Relationships/Hitos]].
 
 `inicio de la guerra → F2 / destierro de Riley → Riley establecida en Italia como Riley Colombo → nacimiento de Elenna → detonante pendiente → muerte pública falsa → Elenna Serra con Riley → separación de sus padres`.
 

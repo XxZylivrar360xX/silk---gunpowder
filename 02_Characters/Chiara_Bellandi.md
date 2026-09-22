@@ -354,7 +354,7 @@ Chiara llama a su hija **"Amore mio"**. Confirmado por el autor durante la integ
 
 Chiara entiende proteger como **control de versión e información** — si el mundo cree que algo murió, desaparece del tablero estratégico. Es la misma habilidad con la que dirige [[03_Factions/El_Faro]] y administra cada versión de sí misma, apuntada ahora contra la propia vida de su hija. El plan final de Elenna combina esa lógica con la de Kal ([[02_Characters/Kal_Mercer]], protección por distancia física): **Kal, lejos. Chiara, muerta para el mundo.**
 
-Esa capacidad no la inmuniza frente al costo: puede construir una mentira suficientemente fuerte para salvar a Elenna y, al mismo tiempo, quebrarse ante un gesto pequeño y ajeno a cualquier plan — ver [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]], "Filosofías de protección", y la calibración tonal en [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]].
+Esa capacidad no la inmuniza frente al costo: puede construir una mentira suficientemente fuerte para salvar a Elenna y, al mismo tiempo, quebrarse ante un gesto pequeño y ajeno a cualquier plan — ver [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]], "Filosofías de protección", y la calibración tonal en [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]].
 
 ## Conexiones
 

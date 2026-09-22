@@ -1,10 +1,12 @@
-# Book 05 — Camino a Casa
+# Book 06 — Camino a Casa
 
-*Mapa narrativo operativo. Libro V — saga post-trilogía (duología), reconstrucción y revelación fusionadas.*
+*Mapa narrativo operativo. Libro VI — duología post-saga-principal, reconstrucción y revelación fusionadas.*
 
-> **DERIVADO DE [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] (2026-09-16, Claude Code, encargo del autor).** Este mapa reconstruye el volumen a partir del diseño de la duología post-trilogía. Todo lo no citado explícitamente como CANON DEL AUTOR allí es DISEÑO discutible o SEMILLA. **Estado: esqueleto de carpeta — sin desglose de partes aprobado.**
+> **DERIVADO DE [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] (2026-09-16, Claude Code, encargo del autor).** Este mapa reconstruye el volumen a partir del diseño de la duología post-saga-principal. Todo lo no citado explícitamente como CANON DEL AUTOR allí es DISEÑO discutible o SEMILLA. **Estado: esqueleto de carpeta — sin desglose de partes aprobado.**
 >
-> **BLOQUEO DE PROSA:** no se redacta prosa de este libro hasta cerrar Juramento de Hierro (Libro 4).
+> **RENUMERADO (2026-09-22):** era Libro V; ahora es Libro VI por la inserción de *Sombras de Poder* en el arco principal — ver [[00_Biblia/00_Trilogy_Structure]]. Su contenido, título y portada no cambian.
+>
+> **BLOQUEO DE PROSA:** no se redacta prosa de este libro hasta cerrar Juramento de Hierro (Libro V).
 >
 > **Portada:** `99_Reference/book_covers/Camino_A_Casa_VICTOR_PAZ.png`.
 
@@ -56,4 +58,4 @@ Sin definir. Se crean cuando el autor apruebe el desglose de capítulos/partes d
 
 ---
 
-Ver también: [[07_Ideas/Libro_04_Incubadora/README]] · [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] · [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]] · [[11_Books/Book_04_Juramento_De_Hierro/00_Book_Map]]
+Ver también: [[07_Ideas/Libro_04_Incubadora/README]] · [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] · [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]] · [[11_Books/Book_05_Juramento_De_Hierro/00_Book_Map]]

@@ -1,6 +1,8 @@
-# Libro III — Cuentas de Sangre
+# Libro IV — Cuentas de Sangre
 
-> **Fuente operativa:** [[11_Books/Book_03_Cuentas_De_Sangre/00_Book_Map]] · **Estado:** esqueleto macro; pendiente de validación del autor.
+> **Fuente operativa:** [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]] · **Estado:** esqueleto macro; pendiente de validación del autor.
+>
+> **Renumerado (2026-09-22):** era Libro III; ahora es Libro IV por la inserción de *Sombras de Poder* — ver [[00_Biblia/00_Trilogy_Structure]]. Su contenido no cambia.
 
 ## Acontecimientos
 

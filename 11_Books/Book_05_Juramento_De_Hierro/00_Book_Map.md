@@ -1,8 +1,10 @@
-# Book 04 — Juramento de Hierro
+# Book 05 — Juramento de Hierro
 
-*Mapa narrativo operativo. Libro IV — saga post-trilogía (duología), plantar.*
+*Mapa narrativo operativo. Libro V — duología post-saga-principal, plantar.*
 
-> **DERIVADO DE [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] (2026-09-16, Claude Code, encargo del autor).** Este mapa reconstruye el volumen a partir del diseño de la duología post-trilogía. Todo lo no citado explícitamente como CANON DEL AUTOR allí es DISEÑO discutible o SEMILLA. **Estado: esqueleto de carpeta — sin desglose de partes aprobado.**
+> **DERIVADO DE [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] (2026-09-16, Claude Code, encargo del autor).** Este mapa reconstruye el volumen a partir del diseño de la duología post-saga-principal. Todo lo no citado explícitamente como CANON DEL AUTOR allí es DISEÑO discutible o SEMILLA. **Estado: esqueleto de carpeta — sin desglose de partes aprobado.**
+>
+> **RENUMERADO (2026-09-22):** era Libro IV; ahora es Libro V por la inserción de *Sombras de Poder* en el arco principal — ver [[00_Biblia/00_Trilogy_Structure]]. La carpeta de incubadora conserva su nombre histórico "Libro_04"; su contenido, título y portada no cambian.
 >
 > **BLOQUEO DE PROSA:** no se redacta prosa de este libro. La saga post-trilogía sigue en fase de incubadora en [[07_Ideas/Libro_04_Incubadora/README|Libro_04_Incubadora]]; título y portada son canon fijo, la arquitectura de capítulos no.
 >
@@ -63,4 +65,4 @@ Sin definir. Se crean cuando el autor apruebe el desglose de capítulos/partes d
 
 ---
 
-Ver también: [[07_Ideas/Libro_04_Incubadora/README]] · [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] · [[07_Ideas/Arco_Elenna_Libro_04]] · [[11_Books/Book_05_Camino_A_Casa/00_Book_Map]] · [[11_Books/Book_03_Cuentas_De_Sangre/00_Book_Map]]
+Ver también: [[07_Ideas/Libro_04_Incubadora/README]] · [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] · [[07_Ideas/Arco_Elenna_Libro_04]] · [[11_Books/Book_06_Camino_A_Casa/00_Book_Map]] · [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]]

@@ -82,7 +82,7 @@ Siguen pendientes el mecanismo documental de Riley Ardizzone, quién sostiene su
 
 ### La entrega — DISEÑO / CANON DEL AUTOR (2026-09-11)
 
-> Arquitectura completa en [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map|el Book Map de Voto de Ceniza]] ("Riley — payoff, no causa") y en [[02_Characters/Elenna_Mercer]].
+> Arquitectura completa en [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map|el Book Map de Voto de Ceniza]] ("Riley — payoff, no causa") y en [[02_Characters/Elenna_Mercer]].
 
 **Regla dura:** Riley no reaparece en escena —ni mensaje, ni llamada, ni interludio en Italia, ni pista explícita— en ningún momento del libro antes de la entrega de Elenna. Durante la planificación, Chiara sólo dice algo equivalente a *"yo me encargaré de que haya alguien de confianza al otro lado"*; Kal (y el lector) pueden asumir que se refiere a [[02_Characters/Ettore]]. No se corrige.
 
@@ -139,4 +139,4 @@ Ese aprendizaje la vuelve peligrosa de una forma nueva: una corredora que aprend
 
 ---
 
-Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Mei_Lin_Zhao]] · [[02_Characters/Elenna_Mercer]] · [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]]
+Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Mei_Lin_Zhao]] · [[02_Characters/Elenna_Mercer]] · [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]]

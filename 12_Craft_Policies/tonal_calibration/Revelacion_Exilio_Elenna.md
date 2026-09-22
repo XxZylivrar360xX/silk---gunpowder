@@ -1,8 +1,8 @@
 # Calibración musical — Capítulo de revelación del exilio de Elenna
 
-> **ESTADO (2026-09-11).** Documento de referencia tonal/editorial, no de prosa. Copia canónica del aporte del autor en [[98_Agent_Handoff/ChatGPT/Calibración musical — Revelación del exilio de Elenna]], conservada aquí porque es la carpeta donde vive el oficio de escribir y editar ([[12_Craft_Policies/README]]). Referenciada desde [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]].
+> **ESTADO (2026-09-11).** Documento de referencia tonal/editorial, no de prosa. Copia canónica del aporte del autor en [[98_Agent_Handoff/ChatGPT/Calibración musical — Revelación del exilio de Elenna]], conservada aquí porque es la carpeta donde vive el oficio de escribir y editar ([[12_Craft_Policies/README]]). Referenciada desde [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]].
 
-> **FUNCIÓN:** guía de ambientación emocional para la prosa del capítulo donde el lector descubre por completo el plan de exilio de Elenna Mercer (el Capítulo 1 en flashforward y, más adelante, el capítulo de revelación completa — ver [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]]).
+> **FUNCIÓN:** guía de ambientación emocional para la prosa del capítulo donde el lector descubre por completo el plan de exilio de Elenna Mercer (el Capítulo 1 en flashforward y, más adelante, el capítulo de revelación completa — ver [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]]).
 >
 > **NO ES UNA BANDA SONORA DIEGÉTICA.**
 >

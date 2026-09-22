@@ -1,6 +1,8 @@
-# Libro II — Voto de Ceniza
+# Libro III — Voto de Ceniza
 
-> **Fuente operativa:** [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]] · **Estado:** macro derivada de la arquitectura vigente; el desglose fino sigue pendiente.
+> **Fuente operativa:** [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]] · **Estado:** macro derivada de la arquitectura vigente; el desglose fino sigue pendiente.
+>
+> **Renumerado (2026-09-22):** era Libro II; ahora es Libro III por la inserción de *Sombras de Poder* — ver [[00_Biblia/00_Trilogy_Structure]]. Hereda su estado de entrada de *Sombras de Poder*, no directamente de *Seda y Pólvora*. Su contenido no cambia.
 
 ## Acontecimientos
 

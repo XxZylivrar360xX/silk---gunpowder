@@ -305,7 +305,7 @@ Elenna cambia después el propósito de su ambición. Dario construye un sistema
 
 **Regla dura:** Elenna no es heredera del imperio Mercer. Su existencia obliga a Kal a imaginar una vida en la que ella no tenga que heredar San Aurelio.
 
-**Filosofía de protección — DISEÑO (2026-09-11):** Kal entiende proteger como **distancia física** — cuando alguien corre peligro real, la respuesta que conoce es apartarlo. El antecedente directo es [[02_Characters/Riley_Bennett|Riley]], a quien destierra en el Libro I para salvarla. Con Elenna vive esa misma lógica por primera vez desde el lado de padre, no de quien decide por otro: aceptar la distancia como la única protección real es su versión del mismo acto que antes le exigió a Chiara. Ver también [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]], "Filosofías de protección".
+**Filosofía de protección — DISEÑO (2026-09-11):** Kal entiende proteger como **distancia física** — cuando alguien corre peligro real, la respuesta que conoce es apartarlo. El antecedente directo es [[02_Characters/Riley_Bennett|Riley]], a quien destierra en el Libro I para salvarla. Con Elenna vive esa misma lógica por primera vez desde el lado de padre, no de quien decide por otro: aceptar la distancia como la única protección real es su versión del mismo acto que antes le exigió a Chiara. Ver también [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]], "Filosofías de protección".
 
 ## Cómo llama a Elenna — CANON DEL AUTOR (2026-09-15)
 

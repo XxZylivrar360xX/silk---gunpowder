@@ -15,21 +15,27 @@ Este directorio contiene la **linea temporal macro** de los cinco libros. Cada e
 
 ## Mapa de lectura
 
+> **SUPERSESIÓN (2026-09-22):** se inserta *Sombras de Poder* como Libro II — ver
+> [[00_Biblia/00_Trilogy_Structure]]. *Voto de Ceniza*, *Cuentas de Sangre*, *Juramento de
+> Hierro* y *Camino a Casa* se renumeraron un lugar hacia adelante.
+
 1. [[01_Indice_Cronologico]] — continuidad completa y bisagras entre libros.
-2. [[02_Libro_01_Seda_y_Polvora]] — ascenso, H1 y llegada de Halbrook.
-3. [[03_Libro_02_Voto_De_Ceniza]] — guerra, exilio de Elenna y decisión de salida.
-4. [[04_Libro_03_Cuentas_De_Sangre]] — ejecución, Meridian y salida a Palermo.
-5. [[05_Libro_04_Juramento_De_Hierro]] — academia, caso Vera y siembra de Ethan.
-6. [[06_Libro_05_Camino_A_Casa]] — disparo, reconstrucción y revelación final.
-7. [[07_Matriz_Renombramiento_Capitulos_Libro_I]] — estudio de títulos visibles, archivos desfasados y candidatos a revisión.
+2. [[02_Libro_01_Seda_y_Polvora]] — encuentro, elección mutua y primera prueba (Camp Alder).
+3. [[03_Libro_02_Sombras_De_Poder]] — ascenso, H1 y llegada de Halbrook.
+4. [[04_Libro_03_Voto_De_Ceniza]] — guerra, exilio de Elenna y decisión de salida.
+5. [[05_Libro_04_Cuentas_De_Sangre]] — ejecución, Meridian y salida a Palermo.
+6. [[06_Libro_05_Juramento_De_Hierro]] — academia, caso Vera y siembra de Ethan.
+7. [[07_Libro_06_Camino_A_Casa]] — disparo, reconstrucción y revelación final.
+8. [[08_Matriz_Renombramiento_Capitulos_Libro_I]] — estudio de títulos visibles, archivos desfasados y candidatos a revisión.
 
 ## Fuentes
 
 - [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]]
-- [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]]
-- [[11_Books/Book_03_Cuentas_De_Sangre/00_Book_Map]]
-- [[11_Books/Book_04_Juramento_De_Hierro/00_Book_Map]]
-- [[11_Books/Book_05_Camino_A_Casa/00_Book_Map]]
+- [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]
+- [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]]
+- [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]]
+- [[11_Books/Book_05_Juramento_De_Hierro/00_Book_Map]]
+- [[11_Books/Book_06_Camino_A_Casa/00_Book_Map]]
 - [[00_Biblia/00_Trilogy_Structure]]
 - [[06_Relationships/Hitos]]
 

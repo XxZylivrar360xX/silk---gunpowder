@@ -1,10 +1,12 @@
-# Book 03 — Cuentas de Sangre
+# Book 04 — Cuentas de Sangre
 
-*Mapa narrativo operativo. Libro III de la trilogía — cierre de la saga.*
+*Mapa narrativo operativo. Libro IV de la saga — cierre del arco principal.*
 
-> **DERIVADO DE [[00_Biblia/00_Trilogy_Structure]] (2026-09-09, Claude Code).** Reconstruye el volumen a partir de la arquitectura de trilogía del autor. Todo lo no citado allí como CANON es DISEÑO discutible. **Estado: esqueleto — pendiente de validación del autor.**
+> **DERIVADO DE [[00_Biblia/00_Trilogy_Structure]] (2026-09-09, Claude Code).** Reconstruye el volumen a partir de la arquitectura de la saga fijada por el autor. Todo lo no citado allí como CANON es DISEÑO discutible. **Estado: esqueleto — pendiente de validación del autor.**
 >
-> **BLOQUEO DE PROSA:** no se redacta prosa de este libro hasta cerrar los Libros I y II.
+> **RENUMERADO (2026-09-22):** era Libro III; ahora es Libro IV por la inserción de *Sombras de Poder* — ver [[00_Biblia/00_Trilogy_Structure]]. Su contenido no cambia.
+>
+> **BLOQUEO DE PROSA:** no se redacta prosa de este libro hasta cerrar los Libros I-III.
 
 ---
 
@@ -18,7 +20,7 @@ El libro no trata de *descubrir* que Kal y Chiara deberían marcharse — esa de
 
 > **¿Qué hacen cuando finalmente pueden quedarse con todo y descubren que quedarse es precisamente lo que les está robando la vida?**
 
-## Estado de entrada (hereda del cierre del Libro II)
+## Estado de entrada (hereda del cierre del Libro III — Voto de Ceniza)
 
 - Dario preso; Halbrook sentenciado por Kal pero vivo al abrir el libro.
 - Héctor y Kenji muertos; Harper viva; Chiara sobrevivió a Santa Lucía.
@@ -49,7 +51,7 @@ Esta imagen cierra el arco inmediato de Kal y Chiara. El cierre definitivo de la
 
 ### Apertura — ejecución pública de Halbrook
 
-El libro abre con **Kal Mercer ejecutando públicamente a Warren Halbrook** (decisión tomada al final del Libro II). La muerte pública de un Brigadier General destruye la posibilidad de cerrar la crisis como problema local.
+El libro abre con **Kal Mercer ejecutando públicamente a Warren Halbrook** (decisión tomada al final del Libro III — Voto de Ceniza). La muerte pública de un Brigadier General destruye la posibilidad de cerrar la crisis como problema local.
 
 > **Meridian entra o escala como respuesta federal.**
 
@@ -102,8 +104,8 @@ Cuando su ausencia ya no significa colapso, Kal y Chiara pueden salir. No dejan 
 
 ## Carpetas de partes
 
-Sin definir. Se crean cuando el autor apruebe el desglose y se cierren los Libros I y II.
+Sin definir. Se crean cuando el autor apruebe el desglose y se cierren los Libros I-III.
 
 ---
 
-Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[03_Factions/Fuerza_de_Tarea_Meridian]] · [[03_Factions/Il_Consorzio]] · [[02_Characters/Elenna_Mercer]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[11_Books/Book_02_Voto_De_Ceniza/00_Book_Map]]
+Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[03_Factions/Fuerza_de_Tarea_Meridian]] · [[03_Factions/Il_Consorzio]] · [[02_Characters/Elenna_Mercer]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] · [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]]

@@ -40,7 +40,7 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 
 ## Reglas Intocables
 
-- **SUPERSESION VIGENTE (2026-09-07):** `00_Biblia/00_Trilogy_Structure.md` manda sobre cualquier diseno anterior en alcance, fronteras entre libros, ubicacion de Riley, H22, cierre de la Guerra de los Tres y apertura de Meridian/Il Consorzio. *Seda y Polvora* ya NO es una novela de cinco partes: es el Libro I de una trilogia (*Seda y Polvora*, *Voto de Ceniza*, *Cuentas de Sangre*). Leer ese archivo antes de planear cualquier capitulo que toque escala de libro.
+- **SUPERSESION VIGENTE (2026-09-07, actualizada 2026-09-22):** `00_Biblia/00_Trilogy_Structure.md` manda sobre cualquier diseno anterior en alcance, fronteras entre libros, ubicacion de Riley, H1, H22, cierre de la Guerra de los Tres y apertura de Meridian/Il Consorzio. *Seda y Polvora* ya NO es una novela de cinco partes ni una trilogia estricta: es el Libro I de una saga de cuatro libros de arco principal (*Seda y Polvora*, *Sombras de Poder* [nuevo], *Voto de Ceniza*, *Cuentas de Sangre*), mas la duologia post-saga-principal (*Juramento de Hierro*, *Camino a Casa*, ahora Libro V y VI). *Seda y Polvora* termina en el Cap. 44 ("Ciao, bella"), no en H1; H1, el embarazo, el incendio, Riley/Mei-Lin y la llegada de Halbrook pertenecen ahora a *Sombras de Poder* (Libro II). Leer ese archivo antes de planear cualquier capitulo que toque escala de libro.
 - **CANON DEL AUTOR:** no reinterpretar, no sustituir, no "mejorar" lineas de dialogo canon.
 - **DISENO:** inferencia del agente; se puede discutir.
 - **PENDIENTE:** falta decision del autor; no rellenar por conveniencia.
@@ -60,7 +60,7 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 - `01_Timeline/01_Indice_Cronologico.md`: continuidad de los cinco libros.
 - `01_Timeline/02_Libro_01_Seda_y_Polvora.md` a `06_Libro_05_Camino_A_Casa.md`: acontecimientos principales por libro, sólo enunciados.
 - `06_Relationships/Kal_y_Chiara.md`: arquitectura de la relacion.
-- `06_Relationships/Hitos.md`: hitos obligatorios del autor. **H22 se movio a Voto de Ceniza (Libro II); revisar ubicaciones antes de citar.**
+- `06_Relationships/Hitos.md`: hitos obligatorios del autor. **H1 se movio a Sombras de Poder (Libro II); H22 esta en Voto de Ceniza (ahora Libro III); revisar ubicaciones antes de citar.**
 - `06_Relationships/Momentos_de_Fractura.md`: conflictos que casi lo rompen todo.
 - `99_Reference/`: referencia externa no canon; no copiar.
 - `tools/editorial/README.md`: auditoria editorial determinista en modo `audit_only`.
