@@ -96,7 +96,7 @@ Salió al pasillo del último piso. Estaba vacío, como siempre. Caminó hasta l
 
 Se quedó así un momento.
 
-No sabía si estaba del otro lado. No hacía falta saberlo. Le bastaba con lo que quedaba de la noche anterior — el sillón, la distancia que ella había puesto entre los dos, la mitad de verdad que él mismo le había ofrecido a cambio — para entender lo mismo sin necesidad de comprobarlo.
+No sabía si estaba del otro lado. No hacía falta saberlo. Le bastaba con lo que quedaba de la noche anterior — el sillón, la distancia que ella había puesto entre los dos, la mitad de verdad que él mismo le había dado la noche anterior — para entender lo mismo sin necesidad de comprobarlo.
 
 Sé que si entro no voy a hacer lo que tengo que hacer.
 
