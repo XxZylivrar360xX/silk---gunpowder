@@ -114,6 +114,8 @@ En esa misma escena queda sembrado el resto del plan:
 
 **En Parte 2:** Kal compra un bufete, asociándose con otro abogado (personaje todavía sin crear).
 
+**Cap. 39 (CANON DEL AUTOR, 2026-09-21 — ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]):** Marisol recibe a Kal en Kingsley Field cuando vuelve solo de Palermo. Está de vacaciones: terminó clases y le toca buscar prácticas (coherente con los seis meses del Cap. 14). Es la única que no le cree que "Chiara se quedó un par de días más en la villa" y no lo presiona; no hablan de verdad hasta la noche, en el balcón del loft, donde Kal sólo dice "Palermo fue más complicado de lo que anticipé".
+
 **En Parte 3:** ese socio se marcha, y **Marisol entra como abogada principal del bufete** — pasa de secundaria a **personaje protagónico**, representando a la gente de La Almendra en los conflictos legales y arrestos que les toquen. Es el pago narrativo de todo lo sembrado en el Capítulo 14: la carrera, los seis meses, la negativa a defender a Kal sin experiencia.
 
 > **PENDIENTE:** nombre y ficha del socio de Kal en el bufete (Parte 2), y la razón por la que se marcha. Nombre del bufete. Escena exacta en que Marisol toma el mando.

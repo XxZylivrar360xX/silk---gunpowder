@@ -2258,6 +2258,8 @@ Kal y Chiara **viajan juntos a Italia.** En Palermo enfrentan **la Mesa de las F
 
 **No inventar todavía:** motivo formal de la convocatoria, decisión exacta de la Mesa, quién humilla a quién, resolución criminal, ni ningún detalle no dado por el autor.
 
+> **DISEÑO EN CURSO (2026-09-21):** el autor dio la apertura (Ettore recibe; cata en un viñedo de Chiara; *"Siempre tienes algo gracioso…"* / *"No. Es que me gusta hacerte reír."*), el desborde (Ettore le pide a Kal que se aleje de los Ardizzone) y el detonante del regreso separado (la llamada de Halbrook; Kal administra problemas ajenos a costa del propio). La situación de la Mesa propuesta por el agente **quedó aprobada tal cual el mismo día**, más dos canon nuevos: la Mesa le muestra a Chiara una foto de su boda con Tommaso Lusardi y le recuerda que tiene una apariencia que mantener; ella responde cortándose el cabello (lector lo ve en el 41, Kal en el 42). Línea de la cata fijada: *"Sabe a domingo. De los buenos, cuando alguien trae una botella que no le alcanzaba."* Todo en [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]], Cap. 40.
+
 **Canon:** algo ocurrido ante la Mesa **golpea la relación** y los hace regresar de manera distinta.
 
 > **Continuidad:** este viaje es el que [[#H13 — El pañuelo]] planta (Chiara deduce que el Consorcio la atacó y decide ir a Palermo por su cuenta; Kal insiste en acompañarla al ver el pañuelo y la bala). No confundir con el atentado posterior de iglesia ([[#Macrohito por numerar — La caída de Dario, Santa Lucía y Halbrook]]), que es un evento independiente y muy posterior.
@@ -2269,6 +2271,8 @@ Kal y Chiara **viajan juntos a Italia.** En Palermo enfrentan **la Mesa de las F
 > **CANON DEL AUTOR (2026-08-29).** Inmediatamente después de [[#H17 — Italia / Mesa de las Familias]]. **ID: H18** (asignado 2026-08-29).
 
 Ambos vuelven **separados físicamente y con fricción emocional** por lo sucedido en Palermo.
+
+> **PRECISIÓN (2026-09-21, CANON DEL AUTOR):** Kal regresa primero, solo, en vuelo comercial a Kingsley Field (Marisol lo recibe; dice que Chiara se quedó "un par de días más en la villa"). Chiara aterriza el mismo día al atardecer, en avión privado, con el cabello corto ([[99_Reference/character_art/Chiara_Bellandi_Invierno.png]]), y va **al penthouse, no al loft**. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
 
 **Regla:** NO significa ruptura. No contradice la regla dura (*Kal y Chiara no se separan*). Significa distancia, conflicto, cosas no dichas, mala lectura, heridas recientes.
 
@@ -2305,7 +2309,9 @@ Kal llega al casino. **Puede entrar a ver a Chiara. No entra.** Porque sabe que 
 
 > Esto demuestra cuánto peso tiene ella sobre sus decisiones **incluso ya siendo pareja declarada** — [[#H21 — Mi pareja]] se adelantó (2026-09-20) al cierre de la Parte II y ya ocurrió antes de esto. El peso no nace de la etiqueta: la etiqueta sólo lo confirma.
 
-> **PRECISIÓN (2026-09-20, decisión del autor).** Para este punto, [[06_Relationships/Momentos_de_Fractura#F1 - La mentira bajo la lluvia|F1 — la mentira bajo la lluvia]] y sus [[06_Relationships/Los_Tres_Dias|Tres Días]] ya ocurrieron y ya se reconciliaron, con espacio suficiente después para recuperar la costumbre cotidiana (Kal volviendo a contarle el día). **Kal no evita a Chiara porque estén peleados — no lo están.** La evita porque verla convertiría la obligación abstracta en una elección consciente contra alguien a quien ama, y eso haría más difícil irse. No confundir esta escena con un eco de F1.
+> **SUPERSEDIDO (2026-09-21, CANON DEL AUTOR — ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]).** La precisión de abajo queda retirada: **F1 ocurre la noche anterior a la incursión, en el penthouse, y NO se resuelve antes de Camp Alder.** Chiara duerme en el penthouse y Kal en el loft. La mañana de la incursión, mientras Nadir, Héctor, Danny y Garrett se alistan, Kal se ausenta unos minutos y va por reflejo a buscarla; todo lo ocurrido lo detiene en la puerta — no sube. Los "tres días" pasan a ser los tres días separados (F1 → arresto → loft). La reconciliación es la apertura de la Parte IV. Se conserva el texto anterior por trazabilidad.
+>
+> ~~**PRECISIÓN (2026-09-20, decisión del autor).** Para este punto, [[06_Relationships/Momentos_de_Fractura#F1 - La mentira bajo la lluvia|F1 — la mentira bajo la lluvia]] y sus [[06_Relationships/Los_Tres_Dias|Tres Días]] ya ocurrieron y ya se reconciliaron, con espacio suficiente después para recuperar la costumbre cotidiana (Kal volviendo a contarle el día). **Kal no evita a Chiara porque estén peleados — no lo están.** La evita porque verla convertiría la obligación abstracta en una elección consciente contra alguien a quien ama, y eso haría más difícil irse. No confundir esta escena con un eco de F1.~~
 
 ## La misión y el escape
 
@@ -2315,6 +2321,8 @@ Durante el escape:
 - **[[02_Characters/Garrett_Cross|Garrett]]** pilota un helicóptero de extracción;
 - Kal consigue que Héctor y Nadir salgan;
 - **Kal se queda / se entrega a las autoridades** para evitar que ellos sean capturados.
+
+> **PRECISIÓN (2026-09-21, CANON DEL AUTOR):** en el helicóptero es **Héctor quien jala a Nadir adentro** — simbólicamente abandona a Kal, porque Kal así lo decidió. Entran a la base **Kal y los chicos de La Almendra (Nadir, Héctor, Danny, Garrett)**; Dario aporta sólo el **mecanismo de distracción** (un disturbio que aleja a los soldados del punto de entrada), no gente adentro. Detención: la policía municipal lo detiene primero por el disturbio; la base lo reclama por jurisdicción federal y lo trasladan **a Camp Alder mismo** (norte rural). Ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
 
 **No inventar tácticas operativas adicionales.**
 
@@ -2336,13 +2344,15 @@ Kal es arrestado bajo **jurisdicción militar / federal**. Abre la consecuencia 
 
 Canon (2026-08-29, autor): lo que Kal extrajo para Halbrook durante el asalto es **un expediente clasificado de un soldado ajeno a la trama del libro** (ver [[#H19 — El asalto a Camp Alder]], "El encargo de Halbrook"). Después del arresto, **Halbrook comercia con esa entrega** — su valor, y lo que implica que Kal la tenga — para negociar su salida.
 
-**Sigue PENDIENTE:** el mecanismo jurídico preciso de la salida — autoridad, agencia, cargos, documento. *(El autor dio la palanca, no el trámite.)*
+> **RESUELTO (2026-09-21, CANON DEL AUTOR):** no hay trámite. Halbrook **no pisa San Aurelio**; **el apagón del sur es obra suya** desde fuera. Lo que quería del expediente era **leer un nombre**; lo consigue y **devuelve el expediente** a la base ("recupere esto; aquí no pasó nada"): sin cuerpo del delito no hay caso, y Kal sale por la ventana del apagón. **Kal sólo sabe:** se fueron las luces, una bolsa de tela, y de repente estaba en el loft. **Toda la revelación se reserva para *Voto de Ceniza*** — en Libro I ni Kal, ni Chiara, ni Lucía, ni el lector conectan apagón y liberación. El autor tiene planes para el cobro de este pago. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]], "Halbrook — la liberación".
 
 ## Chiara busca a Lucia
 
 Cuando Kal es arrestado, **Chiara pide hablar con [[02_Characters/Lucia_Varek|Lucia Varek]] para que la ayude.**
 
 Lucia **no puede intervenir** — las jurisdicciones son distintas. Pero puede investigar, preguntar, averiguar qué ocurrió y orientar sobre qué institución tiene a Kal.
+
+> **PRECISIÓN (2026-09-21, CANON DEL AUTOR):** Chiara se entera primero de que Kal está en **custodia policial** (la municipal lo detuvo por el disturbio). Cuando logra hablar con Lucía, ésta le dice que **ya no**: la base lo reclamó por jurisdicción federal y está en Camp Alder esperando proceso. Ahí se apaga el rastro civil. Chiara llega a Lucía **después** de agotar abogados, dinero, contactos e influencia, y mientras arrastra F1 sin resolver y tres días sin buscarlo. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
 
 ## Función de Lucia — siembra importante
 

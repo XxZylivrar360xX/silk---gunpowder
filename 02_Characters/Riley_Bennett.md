@@ -127,7 +127,7 @@ Ese aprendizaje la vuelve peligrosa de una forma nueva: una corredora que aprend
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** familia y motivo exacto por el que se acerca a Chiara.
+> **RESUELTO EN PARTE (2026-09-21, CANON DEL AUTOR — ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]):** es **Chiara quien la busca primero.** Al volver de Palermo (Cap. 41), Chiara necesita a alguien de calle y autos que no sea Kal para rastrear el coche del mensajero de Matteo; llama a Riley, le pide que Kal no se entere todavía, y cuando Riley pregunta por qué no se lo pide a él, Chiara le cuenta la mitad de Palermo que Kal no contó. Ahí se funda la relación: Chiara se abre primero. **Todavía no es protegida** — eso viene en Parte IV. Introducción en prosa autorizada como beats en los Caps. 37 (Kal la registra con Mei-Lin en El Patio; entiende autos) y 38 (Chiara la lee entre "los nuestros" en el yate), pendientes de ejecutar. Familia: sigue **PENDIENTE**.
 
 > **PENDIENTE:** qué quiere hacer si logra salir de las calles.
 

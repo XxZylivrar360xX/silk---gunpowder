@@ -7,7 +7,7 @@
 **Nacionalidad:** italiano.
 **Oficio:** socio del Monarch / representante de intereses Lusardi.
 **Rol:** presencia incomoda del pasado de Chiara dentro del negocio nuevo.
-**Estado:** muere asesinado por Nereo Volpi.
+**Estado:** muere asesinado por Nereo Volpi. **Posición (CANON DEL AUTOR, 2026-09-21):** en la **apertura de la Parte IV — Nieve y Ceniza**, la tarde del día siguiente a la reconciliación de Kal y Chiara tras Camp Alder; Chiara se entera por una llamada de la policía (*¿conoce al señor Tommaso Lusardi?*). Ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. **Siembra (CANON DEL AUTOR, 2026-09-21):** antes de su muerte sólo se siembra a **Mei-Lin en el radar de Kal** (Caps. 37 y 39), sin mostrar que trabajó para Tommaso ni que informa a Dario; el vínculo con Tommaso se muestra hacia el periodo de su ejecución y las revelaciones las descubre Kal después.
 
 ---
 

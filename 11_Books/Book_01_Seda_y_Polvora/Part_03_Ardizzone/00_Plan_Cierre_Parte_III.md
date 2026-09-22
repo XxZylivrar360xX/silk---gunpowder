@@ -1,0 +1,156 @@
+# Plan de cierre de la Parte III — Ardizzone (Caps. 39–44) y apertura de la Parte IV
+
+> **CANON DEL AUTOR (2026-09-21), fijado en conversación con Claude Code antes de escribir prosa.** Este archivo manda sobre las secciones de Parte III de [[01_Timeline/02_Libro_01_Seda_y_Polvora]], [[06_Relationships/Hitos]] (H18–H20), [[06_Relationships/Momentos_de_Fractura]] (F1), [[06_Relationships/Los_Tres_Dias]] y [[06_Relationships/Kal_y_Chiara]] (escalera) en cualquier conflicto; esos archivos llevan nota de supersesión que apunta aquí. Lo marcado **PENDIENTE** falta decisión del autor: no rellenar por conveniencia. Numeración de capítulos: vinculante para 39–44 salvo inserción posterior del autor.
+
+## Tesis del bloque
+
+Palermo no rompe a Kal y Chiara: los deja **a mitad de camino uno del otro**, y en ese hueco caen dos cosas a la vez — la mentira sobre Matteo (F1) y la ventana de Camp Alder. La fractura no se resuelve antes de la incursión. Kal cae preso en medio de tres días sin buscarse. Chiara, que "acaba de perderlo", descubre que lo perdió dos veces: una por decisión y otra por una institución. Parte III cierra en la oscuridad del loft con la Beretta levantada; Parte IV abre con la luz.
+
+Brújula que se cobra aquí: **progresión de hogar** (penthouse → loft). Chiara *regresa* al penthouse en el 41 por Palermo; en el 44 el penthouse deja de ser casa y va al loft. El mismo movimiento que ya estaba diseñado, ahora con causa.
+
+## Cronología del bloque
+
+| Día | Cap. | POV | Qué ocurre |
+|---|---|---|---|
+| D0 | 39 | Kal | Kal regresa solo, vuelo comercial, Kingsley Field. Marisol lo recibe. Orden de Halbrook (fecha/horario). Dario ofrece el mecanismo de distracción. Balcón, noche. |
+| D0 | 40 | Kal | Palermo — la mitad de Kal (analepsis completa). |
+| D0 (atardecer) → D1–D2 | 41 | Chiara | Chiara aterriza en avión privado, cabello corto, va al penthouse. Absorbe funciones de Matteo, encuentra la inconsistencia de mensajería, recurre a Riley y le cuenta la otra mitad de Palermo. |
+| D2–D3 (noche) | 42 | Chiara | Riley rastrea el coche, la abordan, informa a Kal. Kal reconstruye la mentira. **F1 en el penthouse, de noche.** Kal duerme en el loft, Chiara en el penthouse. |
+| D4 (mañana → noche) | 43 | Kal | Los chicos se alistan. Kal va a la puerta del penthouse y no sube. Incursión a Camp Alder. Arresto. |
+| D4 → D6 | 44 | Chiara | Se entera. Agota recursos. Lucía. Apagón del sur. Monólogo con Dios. El penthouse deja de ser casa. Loft a oscuras, Beretta. **Fin de Parte III.** |
+| D6 (misma noche) → D7 | 45 (IV.1) | Chiara | Vuelve la luz: Kal en la isla. *Ciao, bella.* Explica cómo salió. Reconciliación completa. Cama. Mañana: desayuno, hogar. Tarde: la policía llama por Tommaso Lusardi. |
+
+**Los Tres Días = D4, D5, D6:** los tres días que Kal y Chiara pasan separados sin buscarse — desde la noche de F1 hasta el loft. Kal preso durante casi todos. Es una **alegoría**, no el bloque doméstico del archivo [[06_Relationships/Los_Tres_Dias]] (ver "Qué cambia en el vault", abajo).
+
+> Nota de conteo: F1 ocurre la noche de D3; D4 es la mañana siguiente (incursión). Si al escribir conviene que la incursión sea dos días después de F1 para dar aire a la orden de Halbrook, el autor decide; lo intocable es que **Chiara duerme en el penthouse y Kal en el loft la noche anterior a la incursión**, y que no se hablan entre F1 y el loft.
+
+## Capítulo por capítulo
+
+### Cap. 39 — Kal regresa solo (POV Kal, título PENDIENTE)
+
+- Vuelo comercial a Kingsley Field. Chiara se quedó "un par de días más en la villa": eso le dice a todos, y casi todos le creen.
+- **Marisol lo recibe.** Está de vacaciones: terminó clases y le toca buscar prácticas (coherente con "seis meses antes de las estadías" del Cap. 14; la fiscal de distrito madre de Sam ya está sembrada — no resolver aquí, sólo puede mencionarse que está buscando). Marisol es la única que no le cree y **no lo presiona**: lee, espera.
+- **El mismo día llega la orden de Halbrook** con fecha y horario de la ventana de Camp Alder (expediente del soldado ajeno + armas largas, ver [[06_Relationships/Hitos#H19 — El asalto a Camp Alder]]). **Dario ofrece el mecanismo de distracción** — un disturbio que atraiga a los soldados lejos del punto de entrada — para que **Kal y los chicos** (no gente de Dario) entren después. El pago sigue siendo las armas largas (H6). No inventar el mecanismo del disturbio más allá de lo que la escena necesite.
+- Kal no puede contar a nadie ni Palermo ni Halbrook. La prosa restringe información, no miente (misma regla que la apertura de *Voto de Ceniza*): el lector ve que Kal evita pensar en Palermo, no lo que pasó.
+- Marisol y Kal no hablan de verdad hasta la noche, en el balcón del loft mirando hacia La Almendra. Única línea de Kal sobre el tema: **"Palermo fue más complicado de lo que anticipé."** Nada más. Corte.
+- Beat de siembra: **Mei-Lin** pasa por el día de Kal en el Patio como activo que él registra (joven, local, sabe cosas del norte); sólo eso. Nada de Tommaso ni de Dario.
+- No aparece Chiara. Riley puede estar entre los chicos del Patio sin función.
+
+### Cap. 40 — Palermo, la mitad de Kal (POV Kal, título PENDIENTE)
+
+- Analepsis completa del viaje desde el POV de Kal. Él es el extranjero en la Mesa: no entiende todo, no le muestran todo. Esa limitación es lo que hace posible que exista "la otra mitad" del 41. *Él toma territorio.*
+
+**Movimiento 1 — La casa y el viñedo (CANON DEL AUTOR, 2026-09-21).**
+- Llegan a la casa donde Chiara creció. **Ettore los recibe** (primera escena de Ettore en prosa — decisión del autor; su ficha lo tenía fuera de página). No entran de lleno al mundo de la Mesa.
+- Chiara lo lleva a una **cata en uno de los viñedos de los que es dueña** cerca de Palermo (propiedad nueva en el vault: no nombrar ni describir más de lo que la escena pida; no confundir con Bellandi Ridge, que está en San Aurelio). Lo hace para mostrarle su mundo en Italia, pagando que él le enseñó el suyo estos meses. Pasaje de pareja: ella es la mujer de clase que sabe estar; él se adapta pero sigue siendo hombre de barrio, y **se nota al catar el primer vino** — suelta algo que hace hablar a unos, sorprende a otros y a ella la hace reír. Línea **CANON DEL AUTOR (2026-09-21)**, elegida de candidatos del agente con la condición de que toda la sala la entienda (sin nombres propios): **Kal:** *"Sabe a domingo. De los buenos, cuando alguien trae una botella que no le alcanzaba."* La sala oye "gente que no compra vino así"; Chiara oye a Walt y a Héctor sin que nadie los nombre.
+- Línea canon, colocada aquí: **Chiara:** *"Siempre tienes algo gracioso para aligerar el ambiente."* **Kal:** *"No. Es que me gusta hacerte reír."* (Es la línea del autor guardada en [[06_Relationships/Kal_y_Chiara]] como *"No soy gracioso, me gusta hacerte reír a ti, que es diferente"* — el autor elige la redacción final al escribir.)
+
+**Movimiento 2 — La Mesa, al día siguiente (DISEÑO del agente sobre encargo del autor; APROBADO TAL CUAL por el autor el 2026-09-21).** Lo que el autor pidió: una situación lo bastante tensa para que Chiara sienta que lo está metiendo de más, y Kal lo bastante "camaleón" para que la Mesa lo detecte como algo útil; eso dispara en Chiara la urgencia de sacarlo de ahí. Propuesta:
+- **No desfilar a los seis.** En la sala: [[02_Characters/Leone_Valenti|Valenti]] (secretario, quien habla), **una** titular presente (propuesta: Livia Rinaldi — reputación y memoria; su delegado Fabrizio es quien se está alejando de Chiara), y los demás votos pesando por ausencia o por carta. Kal entra porque Chiara no puede impedirlo sin que parezca que lo esconde; la Mesa lo sienta detrás de ella, no a la mesa.
+- **El asunto formal es "pon tu casa en orden":** desde que Matteo se fue, la casa Ardizzone en San Aurelio tiene un hueco — rumores de información y de activos que circulan (los del Cap. 38), sin nombrar Kenji, periódico ni viñedo. La Mesa no confirma ni niega la bala (regla: Consorcio no confirmado como atacante). Chiara responde como Chiara: relato, versión, tiempos.
+- **El momento camaleón:** Valenti se dirige a Kal una sola vez, para reducirlo (*"¿Y usted qué es, señor Mercer?"* — *"Mecánico."*). Pero cuando la titular menciona, como quien no espera respuesta, **un problema concreto de la casa en San Aurelio** (propuesta: cómo se cierra la fuga de rumor sin que se note que se cierra), **Kal no puede evitar absorberlo** y lo resuelve en tres frases, en el registro exacto de la sala — con lo que aprendió de Varek sobre coordinar y de la ciudad sobre cómo viaja un rumor (Cap. 18). Es el reflejo que el autor nombró: *le encanta absorber problemas ajenos*. Y lo hace **en el dominio de ella** — toma territorio dentro de la habitación de Chiara.
+- **Lectura de la Mesa:** silencio, y Valenti escribe. No hay reconocimiento ni oferta (eso es Libro III, PENDIENTE): sólo pasa de "riesgo personal de Chiara" a **"pieza con nombre en el libro"** — útil, y por tanto reclamable a través del asiento Ardizzone. Coherente con [[03_Factions/Il_Consorzio]] ("Kal Mercer ante La Mesa": en Palermo la Mesa entiende que no es pasajero).
+- **La reacción de Chiara — lo que Kal no entiende del todo:** para sacarlo de la lectura de la Mesa, **decide por él** lo que es: *el señor Mercer no es parte de esta casa* — lo declara ajeno, nada, para que no sea reclamable. Cree que lo protege. Kal lo oye desde atrás y lo recibe como exclusión (la discusión que sí hace daño en [[06_Relationships/Kal_y_Chiara]]: decidir por el otro para protegerlo — aquí ella comete el pecado que en F1 él le reprochará con Riley). **Ésta es la mitad que Kal no cuenta en el 40 y Chiara sí cuenta a Riley en el 41.**
+- **La foto (CANON DEL AUTOR, 2026-09-21):** en la misma sala, la Mesa le pone delante a Chiara **una fotografía de su boda con [[02_Characters/Tommaso_Lusardi|Tommaso Lusardi]]** y le recuerda que **tiene una apariencia que mantener**, aunque ya no lleve los apellidos de la Mesa. Es el segundo jalón de la sala (el primero es Kal como pieza). Kal la ve desde atrás; no entiende del todo lo que significa. Chiara no responde ahí: responde con el cabello (abajo).
+- **Ettore desborda el vaso (CANON DEL AUTOR):** esa noche le dice a Kal que se aleje — *si de verdad está tan enamorado de ella, aléjese de la familia Ardizzone.* Ettore vio lo que vio la Mesa: lo usarán para sostenerla a ella. Regla: Ettore no revela nada de Corrado.
+- **El detonante real del vuelo comercial (CANON DEL AUTOR):** no es Ettore. Es **la llamada de Halbrook** con la fecha de la ventana de Camp Alder (o su aviso inmediato; la orden con horario cierra en el 39). Kal se va sin esperarla y se lo explica a sí mismo como logística — pero el capítulo debe dejar ver que se va **administrando problemas ajenos (Halbrook, Nadir, el Patio) a costa del propio**, y huyendo de la sala donde lo hicieron pieza y de la frase de Ettore. Chiara, en cambio, **se queda** — para deshacer con relato el nombre que la Mesa acaba de escribir. *Él toma territorio; ella toma relato.* Los dos deciden solos; F1 cobra las dos decisiones.
+- **El cabello (CANON DEL AUTOR, 2026-09-21):** lo corta en Palermo, después de la Mesa y antes de volar. **Motivo: es la protesta a la foto** — nadie le dice a ella qué debe ser. La respuesta pública a la Mesa es el corte; la privada, la que le cuesta, es declarar a Kal ajeno. **Regla de revelación:** Kal ya se fue cuando se lo corta; el **lector** lo descubre en el 41 (baja del avión); **Kal** lo ve por primera vez en el 42, al entrar al penthouse para F1, antes de la primera línea. El motivo no se explica en prosa; el lector lo arma con la foto del 40.
+- **"Un par de días más en la villa"** es lo que Kal repite en el 39; ella aterriza el mismo día al atardecer. No se quedó. Volvió por él y no fue a él (penthouse). Kal no lo sabe hasta el 41/42.
+- Reglas vigentes de H17: fricción real, **no** una fractura equivalente a F1; la presencia de Kal tiene peso político y la Mesa entiende que no es temporal; Consorcio no confirmado como atacante de H13; Volpi/Varek sin revelar.
+
+### Cap. 41 — Chiara vuelve al penthouse (POV Chiara, título PENDIENTE)
+
+- Atardecer del mismo D0. Avión privado, Kingsley Field — la misma pista de la llamada de las cuatro de la mañana del Cap. 38. **Cabello corto — primera revelación al lector** (Kal no lo ve hasta el 42): referencia visual [[99_Reference/character_art/Chiara_Bellandi_Invierno.png]] (media melena a los hombros, abrigo vino, cuello alto negro, aros). Es marca del costo de Palermo; no explicarla.
+- **Va al penthouse, no al loft.** Nadie lo comenta. El lector lo entiende por la llave del Cap. 36 que no usa.
+- Absorbe funciones de Matteo en el Monarch. Fabrizio ya contesta con otro tono (siembra de su distanciamiento; no explicar Volpi). Encuentra la **inconsistencia de mensajería** (documentación de Matteo pasó por mensajería comercial de San Aurelio; el vehículo quedó en cámara del Monarch — modelo, color, matrícula, empresa).
+- Necesita alguien de calle y autos **que no sea Kal**. Llama a **Riley** (ya vista en 37/38). Le pide que Kal no se entere todavía. Riley pregunta lo obvio — ¿por qué no se lo pides a él? — y la respuesta es **la otra mitad de Palermo**: lo que Kal no contó en el 40 porque no lo vio o no lo entendió. *Ella toma relato.* Aquí se funda la relación Chiara–Riley: Chiara se abre primero. **Todavía no es protegida**; eso viene en Parte IV.
+- Marca la relación con Kal sin escena conjunta: un mensaje, una llamada corta, o su ausencia.
+
+### Cap. 42 — El coche de Matteo y F1 (POV Chiara, título PENDIENTE)
+
+- Riley localiza el coche en Almendra Towing (territorio de Kal). Un hombre la aborda sin amenaza explícita (*"¿Buscas a alguien?"* / *"Entonces ya encontraste lo que buscabas"*); otro coche la sigue varias calles. Riley informa a Kal — no traiciona a Chiara: el riesgo ya toca la seguridad del Patio. Kal reconstruye la mentira (él ya preguntó, equivalente a *"¿Supiste algo de Matteo?"* / *"Nada"* — colocar esa pregunta en 41 o al inicio del 42).
+- **F1 — de noche, en el penthouse.** Escenario fijado por el autor: Kal llega, **ve el cabello corto por primera vez** (canon 2026-09-21; él estaba en la sala de la foto — que lo registre sin glosa), **se sienta en el sillón; Chiara se recarga en la mesa, cruzando la sala.** El lenguaje corporal dice "separados" antes de la primera línea. Sustituye a Bellandi Ridge bajo la lluvia (ver supersesión en Momentos_de_Fractura).
+- Discuten por Matteo y por Riley; el lector entiende que discuten por Palermo (regla 1 de la pareja: nunca discuten sobre la relación). El daño sigue siendo el mismo: *te pregunté y me mentiste* + *Riley también es mi gente; no decides sola qué riesgo de mi gente me concierne*.
+- La temperatura sube con cuidado hasta la **línea canon adaptada (peldaño 2 de la escalera)**:
+
+  > **— Por mucho que yo esté enamorado de ti, soy fiel a mis convicciones, a mi gente y a mí mismo.**
+
+  Construir la conversación para que la frase **duela porque tiene algo de cierto, pero no completamente**: Chiara sabe que la fidelidad a "su gente" es real y que ella la admira; también sabe que en Palermo esa misma fidelidad a "sí mismo" lo dejó a medio camino de ella. Sustituye a *"…no hay un 'fuera mi gente', eso no se negocia"* (versión histórica, conservada en Momentos_de_Fractura).
+- Kal se va. **Kal duerme en el loft; Chiara en el penthouse.** No hay "Tenemos que hablar" ni casino: eso queda supersedido.
+
+### Cap. 43 — Camp Alder (POV Kal, título PENDIENTE)
+
+- Abre **la mañana siguiente a F1**. Se alistan los chicos de La Almendra: **Nadir, Héctor, Danny y Garrett.**
+- Kal **se ausenta unos minutos**: por reflejo va a buscar a Chiara al penthouse. Todo lo ocurrido lo detiene en la puerta. *Sé que si entro no haré lo que debo hacer.* No sube. (Regalo para el 44: Chiara puede enterarse después de que él estuvo en la puerta esa mañana.)
+- Incursión: el disturbio de Dario atrae a los soldados; Kal y los chicos entran; sacan el **expediente** (objeto transaccional, no desarrollar al soldado) y las **armas largas** (pago a Varek). **No inventar tácticas adicionales.**
+- Escape: **Garrett pilota** el helicóptero. **Héctor jala a Nadir adentro** — simbólicamente abandona a Kal, porque Kal así lo decidió: se queda para cubrirlos. Arresto.
+- **Jurisdicción (canon 2026-09-21):** el disturbio fuera del perímetro trae a la **policía municipal**, que detiene a Kal primero (por eso Lucía tendrá un registro); al ser delito en instalación federal, **Camp Alder lo reclama** y lo trasladan **a la base misma** (norte rural, junto a Kingsley Field — no existe "complejo del sur"). Ahí se apaga el rastro civil. Mecanismo de salida: **RESUELTO (2026-09-21)** — ver sección "Halbrook — la liberación" abajo.
+
+### Cap. 44 — El fracaso de Chiara y el apagón (POV Chiara, título PENDIENTE)
+
+- Chiara se entera de que Kal está en custodia policial. Mueve todos los recursos: abogados, dinero, contactos, influencia, vías institucionales. Cuando logra hablar con **Lucía Varek**, Lucía le dice que ya no está en custodia policial: la base lo reclamó por jurisdicción federal; está en Camp Alder esperando proceso. Lucía no puede intervenir; investiga y orienta. Lucía registra que esto excede los negocios (canon en su ficha).
+- **Todo fracasa.** Primera vez que su poder no abre ninguna puerta (H20).
+- **Apagón del sur**: tres instalaciones de energía fallan casi simultáneamente; gran parte del sur sin luz. **No explicar la ingeniería.** Autoría **CANON (2026-09-21): es Halbrook** moviendo hilos desde fuera — pero eso **no se revela en Libro I** (ver sección "Halbrook — la liberación"). En el 44 el apagón es sólo otro golpe de una noche insoportable.
+- **Monólogo con Dios** al intentar encender la luz / entrar al penthouse. Progresión canon intacta: *Me dejas acercarme a él. / Me dejas abrirme con él. / Me dejas enamorarme de él. / ¿Y ahora lo apartas de mí? / ¡¿Qué más quieres de mí?!* — "enamorarme", no "amarlo" (peldaño 3). **La línea central *"Justo acabo de recuperarlo, y lo apartas de mí"* queda RETIRADA: ya no es verdad — no lo recuperó, lo dejó tres días. Nueva línea central — CANON DEL AUTOR (2026-09-21), elegida de candidatos del agente:** *"Ni siquiera me dejas pedirle perdón."* Va entre *Me dejas enamorarme de él.* y *¿Y ahora lo apartas de mí?*; los tres días quedan implícitos, no dichos. El sentido: *me lo diste, lo dejé ir tres días por una pelea, y ahora una institución me lo quita antes de que pueda arreglarlo.* Debajo: Matteo, Fabrizio en retirada, Palermo, F1, los tres días. **Tommaso no entra en el monólogo**: todavía vive.
+- El penthouse deja de ser casa: agotada, va **a su casa** — el loft. Movimiento demostrado por acción, no comentado.
+- Loft a oscuras. Alguien en la isla. Saca la **Beretta .25** y apunta — reacción de una mujer cuya seguridad se erosionó toda la Parte, no descripción táctica.
+- Vuelve la electricidad: en la isla está **Kal**, cansado, liberado de una forma que **no se explica en este libro** (ver sección "Halbrook — la liberación"). Viéndola apuntarle:
+
+  > **— Ciao, bella.**
+
+  Sonrisa cansada. **Es literalmente la última línea de la Parte III** (CANON DEL AUTOR, reconfirmado 2026-09-21). Sin explicación, sin abrazo, sin "volví".
+
+### Cap. 45 — Apertura de la Parte IV — Nieve y Ceniza (POV Chiara, título PENDIENTE)
+
+- Abre **inmediatamente después** del *Ciao, bella*, con la respuesta de Chiara. Línea canon **CONFIRMADA por el autor (2026-09-21):** *"¿Qué carajo haces aquí?"* / *"Bueno, señora Bellandi, resulta que esta es mi casa."* (La paráfrasis oral "¿Qué demonios estás haciendo aquí?" queda descartada.)
+- Kal le cuenta qué pasó — y **todo lo que sabe es esto (CANON 2026-09-21):** se fueron las luces, una bolsa de tela en la cabeza, y de repente estaba en el loft. Nada más. No nombra a Halbrook porque no puede probarlo ni le conviene, y Chiara no obtiene explicación. Ver "Halbrook — la liberación".
+- **Reconciliación completa** de F1 + Palermo + los tres días + el arresto: hablan de todo. Es la reconciliación más cargada de la pareja hasta aquí. Aquí se absorbe la función del viejo "Tenemos que hablar" / casino. Chiara admite que mintió para administrar el problema; Kal admite que su silencio (Palermo, Halbrook) también lastima. Puede recuperarse *"Ya estamos"* como frase ancla si cabe.
+- Momento cálido: los dos recostados en la cama, preparados para dormir.
+- Mañana siguiente: **desayuno**, vuelven al hogar que siempre fueron y que los dos echaron de menos. Función del viejo "Día 3 — Quedarse".
+- **Tarde:** llamada de la policía a Chiara — *¿conoce al señor Tommaso Lusardi?* — y el brief de lo que acaba de ocurrirle (ejecutado por Volpi en la terraza de su departamento del norte, composición que evoca a Raymond Keene; la policía sólo da el hecho). **Parte IV abre cobrando casi todas las sillas de Chiara de un solo jalón.** Después arranca la organización de Kal.
+- **Ren Wei** entra en un capítulo posterior de Parte IV, no aquí.
+
+## Halbrook — la liberación (CANON DEL AUTOR, 2026-09-21)
+
+- **Halbrook no pisa San Aurelio.** Mueve hilos desde fuera: **el apagón del sur es suyo** — la ventana para sacar a Kal de Camp Alder sin trámite.
+- **Lo que Halbrook quería** del expediente sellado era **leer un nombre**. Lo consigue. Después **devuelve el expediente** a la base con un mensaje del tenor *"recupere esto; aquí no pasó nada"*: sin cuerpo del delito, no hay caso federal que sostener, y Kal sale por la puerta que el apagón abrió. *(Lectura del agente sobre el dictado del autor: la frase va dirigida a la base, no a Kal. Corregir si no.)*
+- **Lo que Kal sabe:** luces fuera, bolsa de tela, loft. **Lo que Chiara sabe:** lo que Kal le cuenta en el 45. **Lo que el lector sabe en Libro I:** lo mismo. El autor tiene planes para el cobro de este pago.
+- **La revelación completa** (apagón = Halbrook; el nombre del expediente; qué compró Halbrook con eso) **se reserva para *Voto de Ceniza* (Libro II).** En Libro I no sembrar más de lo que la escena del 44/45 necesita: ni Kal ni Lucía ni Chiara conectan el apagón con la liberación en voz alta.
+- Consecuencia de escala: Kal le debe a Halbrook la libertad, no sólo el silencio. Eso es correa para Parte IV y Libro II; no se enuncia en prosa todavía.
+
+## Corte III → IV — RESUELTO (2026-09-21, corrección del autor)
+
+La luz vuelve y el *"Ciao, bella"* **cierran la Parte III** (lectura anterior del agente "a oscuras" retirada el mismo día). La Parte IV abre con la respuesta de Chiara. Simetría del ritual intacta: el Cap. 35 abre la Parte con *Ciao, bella* como broma telefónica; la Parte cierra con la misma frase después de una desaparición de custodia militar.
+
+## Riley — introducción sin capítulo propio (autorizado 2026-09-21)
+
+- **Cap. 37** (POV Kal, El Patio): beat nuevo — Riley y Mei-Lin como el par que llegó de la banda deshecha; Kal también le pregunta "Roma"; queda registrado que entiende autos y calle. Un beat, sin desarrollo. Mei-Lin queda en el radar de Kal como alguien que puede servir — sin Tommaso, sin Dario.
+- **Cap. 38** (yate, POV Chiara): beat nuevo — Chiara la lee entre "los nuestros" (la chica que mira las salidas); un intercambio corto. Retirar de la metadata del 38 la regla "no aparecen Riley ni Mei-Lin".
+- Con eso, en el 41 Chiara sabe a quién llamar sin coincidencia. Resuelve el PENDIENTE de la ficha ("motivo exacto por el que se acerca a Chiara"): **Chiara la busca primero.**
+- Ambos beats son prosa en capítulos ya escritos: ejecutar con el autor presente, antes del 39.
+
+## Qué cambia en el vault (supersesiones registradas 2026-09-21)
+
+| Archivo | Cambio |
+|---|---|
+| [[06_Relationships/Hitos#H19 — El asalto a Camp Alder]] | La precisión "Kal no evita a Chiara porque estén peleados — no lo están" queda **SUPERSEDIDA**: están fracturados desde la noche anterior. Héctor jala a Nadir al helicóptero; Garrett pilota (sin cambio). |
+| [[06_Relationships/Hitos#H18 — El regreso de Palermo]] | Ya decía "separados físicamente": se precisa — él comercial primero, ella privado al atardecer, mismo día; ella al penthouse. |
+| [[06_Relationships/Hitos#H20 — Consecuencia: Halbrook / prisión militar / Lucia]] | Secuencia policía municipal → reclamo federal → Camp Alder. |
+| [[06_Relationships/Momentos_de_Fractura#F1 - La mentira bajo la lluvia]] | Lugar: penthouse de noche (no Bellandi Ridge). Línea canon adaptada. "Los Tres Días terminan ANTES de Camp Alder" **SUPERSEDIDO**. Casino / "Tenemos que hablar" / "Recuperación antes de Camp Alder" **SUPERSEDIDOS**: la reconciliación es el Cap. 45. |
+| [[06_Relationships/Los_Tres_Dias]] | El bloque doméstico bajo un mismo techo no ocurre antes de Camp Alder. "Los tres días" pasan a ser los tres días separados (D4–D6). Su tesis (*Kal cruza una puerta al principio; sólo al final vuelve a estar en casa*) y sus imágenes domésticas se reutilizan en el Cap. 45 comprimidas a una noche y una mañana. |
+| [[06_Relationships/Kal_y_Chiara]] (escalera) | Peldaño 2 se dice **en la pelea**, no en la reconciliación; texto adaptado. Orden de peldaños intacto: H21 → F1 (pelea) → monólogo → H1. |
+| [[01_Timeline/02_Libro_01_Seda_y_Polvora]] | Parte III: F1 sin resolver antes de Camp Alder; "regresan juntos" → separados; monólogo sin Tommaso; corte a oscuras. Parte IV: apertura = luz + Ciao bella + reconciliación + Tommaso al día siguiente; "la relación ya está reparada desde Parte III" **SUPERSEDIDO**. Tommaso, Ren Wei y el distanciamiento pleno de Fabrizio se desplazan a Parte IV. |
+| [[02_Characters/Riley_Bennett]] | Motivo de acercamiento resuelto; introducción en 37/38. |
+| [[02_Characters/Tommaso_Lusardi]] | Muere el día siguiente a la reconciliación, ya en Parte IV. **Siembra (CANON DEL AUTOR, 2026-09-21):** lo que se siembra antes es **Mei-Lin entrando en el radar de Kal** como activo utilizable en Parte IV — beats en el Cap. 37 (con Riley) y en el 39 (día de Kal en el Patio). **Nada** de que trabajó para Tommaso ni de que informa a Dario: esas revelaciones llegan después, cuando Kal mismo las descubra (mecanismo PENDIENTE). El vínculo Tommaso → Mei-Lin no se muestra desde Tommaso hasta el periodo de su ejecución. |
+| [[02_Characters/Marisol_Grayson]] | Cap. 39: vacaciones, clases terminadas, buscando prácticas; recibe a Kal en Kingsley Field. |
+| [[02_Characters/Hector_Navarro]] | Cap. 43: jala a Nadir al helicóptero dejando a Kal. |
+
+## Reglas que no cambian
+
+- Kal y Chiara no se separan; el lector debe creer que pueden romperse. Este bloque es donde más lo cree.
+- Nunca discuten sobre la relación: discuten sobre Matteo y Riley.
+- No hay celos románticos. Blake no vuelve.
+- Consorcio no confirmado como atacante; Volpi–Varek reservado hasta Libro III.
+- Halbrook no aparece en escena en San Aurelio.
+- Lucía no libera a Kal.
+- No regenerar EPUB hasta que el autor cierre el bloque.

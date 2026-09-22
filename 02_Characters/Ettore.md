@@ -46,7 +46,7 @@ No tiene un método narrativo activo: no opera, no investiga, no protege física
 ## Reglas duras del personaje
 
 - **No confirmar ni negar en prosa que Ettore participa en la protección de Elenna** antes de que el autor decida resolverlo. La ambigüedad es el mecanismo, no un vacío a rellenar.
-- **No dar a Ettore una escena en primera persona ni POV propio** sin decisión explícita del autor — hasta ahora existe sólo nombrado, citado o recordado.
+- **No dar a Ettore POV propio.** Escena en prosa: **autorizada por el autor (2026-09-21)** para Palermo (Cap. 40, POV Kal): recibe a Kal y Chiara en la casa donde ella creció y, la noche después de la Mesa, le pide a Kal que se aleje — *si de verdad está tan enamorado de ella, aléjese de la familia Ardizzone.* No revela nada de Corrado. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
 - **No resolver qué le susurró Corrado en la redada** sin decisión del autor. Es semilla reservada, no laguna a completar por conveniencia.
 - **Las cartas de Chiara hacia él son reales, no editadas.** Si una escena lo muestra recibiendo una versión gestionada de ella, está mal escrita — ver [[02_Characters/Chiara_Bellandi]], "Las cartas".
 

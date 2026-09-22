@@ -107,7 +107,7 @@ En la operación grande (el asalto a Camp Alder, [[06_Relationships/Hitos#H19 �
 
 Con esas armas, Kal **paga a [[02_Characters/Dario_Varek]] por abrir la ventana de entrada a la base** — cerrando así, en la misma operación, la promesa de [[06_Relationships/Hitos#H6 — El pacto|H6]].
 
-**PENDIENTE:** el mecanismo jurídico preciso de la salida — autoridad, agencia, cargos, documento.
+~~**PENDIENTE:** el mecanismo jurídico preciso de la salida — autoridad, agencia, cargos, documento.~~ **RESUELTO (2026-09-21, CANON DEL AUTOR):** no hay trámite. Halbrook **no pisa San Aurelio**; provoca **el apagón del sur** desde fuera (Cap. 44) y saca a Kal de Camp Alder por esa ventana. Del expediente sólo quería **leer un nombre**; lo lee y **devuelve el expediente** a la base ("recupere esto; aquí no pasó nada") — sin cuerpo del delito, no hay caso. Kal sólo sabe: luces fuera, bolsa de tela, loft. **La revelación (apagón = Halbrook, el nombre, qué compró) se reserva para *Voto de Ceniza***; el autor tiene planes para el cobro de este pago. En Libro I no se enuncia. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
 
 > **DISEÑO:** a partir de aquí Kal lleva **dos correas al mismo tiempo** — Halbrook arriba, Varek al lado — y está trabajando para deshacer una de ellas desde dentro. Ésa es la presión que sostiene el resto de la novela.
 

@@ -82,3 +82,9 @@ Encaja con quién es: **es la única persona que quiere a Kal sin deberle nada**
 ---
 
 Ver también: [[02_Characters/Kal_Mercer]] · [[03_Factions/Almendra_Towing]] · [[06_Relationships/Hitos]]
+
+---
+
+## Camp Alder — CANON DEL AUTOR (2026-09-21)
+
+En la extracción de [[06_Relationships/Hitos#H19 — El asalto a Camp Alder|H19]], Garrett pilota y **Héctor es quien jala a Nadir adentro del helicóptero**, dejando a Kal en tierra porque Kal así lo decidió: simbólicamente lo abandona para salvar al muchacho. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
