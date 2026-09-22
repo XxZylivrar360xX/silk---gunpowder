@@ -1,3 +1,10 @@
+<!--
+EPUB: EXCLUDE
+CLASIFICACION: DOCUMENTO DE PLANEACION / CANON DEL AUTOR / NO ES CAPITULO NARRATIVO / NO EPUB.
+Este archivo fija el plan de cierre de Parte III y la frontera de libro (ver contenido abajo).
+Se conserva en el vault como referencia de diseno y canon, pero no debe exportarse al EPUB.
+-->
+
 # Plan de cierre de la Parte III — Ardizzone (Caps. 39–44) y apertura del Libro II
 
 > **CANON DEL AUTOR (2026-09-21), fijado en conversación con Claude Code antes de escribir prosa.** Este archivo manda sobre las secciones de Parte III de [[01_Timeline/02_Libro_01_Seda_y_Polvora]], [[06_Relationships/Hitos]] (H18–H20), [[06_Relationships/Momentos_de_Fractura]] (F1), [[06_Relationships/Los_Tres_Dias]] y [[06_Relationships/Kal_y_Chiara]] (escalera) en cualquier conflicto; esos archivos llevan nota de supersesión que apunta aquí. Lo marcado **PENDIENTE** falta decisión del autor: no rellenar por conveniencia. Numeración de capítulos: vinculante para 39–44 salvo inserción posterior del autor.
