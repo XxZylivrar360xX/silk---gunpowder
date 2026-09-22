@@ -14,9 +14,7 @@ Fuente: [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte
 - **PENDIENTE:** revisión de microdecisiones del 36: Kingsley Field frente a muelle marítimo, llave del loft frente a Penthouse y nombre Stella. No sustituir el canon de H16 por una alternativa sin decisión del autor.
 - **PENDIENTE:** revisión del 38: peso de «Y tú eres mi gente» frente a F1; ingreso de Blake con el capitán, yate alquilado/piano, coche de Sam, siembra Marisol–Kenji y abreviatura «Sra.» en diálogo canon. No expandir ni reescribir esa línea sin el autor.
 
-- Revisar con el autor [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/40_Mecanico|Cap. 40 — Mecánico]], BORRADOR.
-
-> **PENDIENTE antes del Cap. 41:** aclarar la fotografía de boda: plan/prosa dicen Tommaso Lusardi; su ficha lo registra como cuñado y a Alessio como esposo fallecido. Decidir si es error o retcon; no corregir por inferencia.
+- Revisar con el autor [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/40_Mecanico|Cap. 40 — Mecánico]] corregido; sigue BORRADOR. [[98_Agent_Handoff/sessions/2026-09-21_codex_cirugia_cap_40]].
 
 ## Revisión editorial y continuidad
 

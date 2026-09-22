@@ -14,6 +14,10 @@ Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces 
 
 **CANON DEL AUTOR / corrección de ejecución:** título definitivo «Un par de días más»; estructura aprobada, estado BORRADOR. Marisol ve y no obliga; Dario confirma distracción sin diseñarla ni inventar antecedentes. Corte inmediato tras la última línea canon. Prácticas sin ubicación resuelta. [[98_Agent_Handoff/sessions/2026-09-21_codex_cirugia_cap_39]].
 
+## 2026-09-21 — Cap. 40: fotografía y reserva de POV
+
+**CANON DEL AUTOR / corrección de ejecución:** la boda fotografiada en Palermo es Chiara–Alessio; Tommaso conserva parentesco y arco. «Mecánico» antecede al problema del rumor. Ni el narrador ni Ettore revelan la intención de Chiara al declarar ajeno a Kal: sigue reservada para el 41. Título definitivo y estructura intactos; BORRADOR. [[98_Agent_Handoff/sessions/2026-09-21_codex_cirugia_cap_40]].
+
 ## 2026-09-20 — Frontera IV/V y reconstrucción en Exilio
 
 **CANON DEL AUTOR:** incendio cierra IV; F4 abre V; F4 → F3 → F2 (Mei-Lin/Nadir y Riley el mismo día) → Villa → Stavanger/anillo. VI: embarazo/H1/reveal y familia futura; Elenna física en Libro II. [[01_Timeline/02_Libro_01_Seda_y_Polvora]].

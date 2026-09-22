@@ -4,7 +4,7 @@ Actualizado: 2026-09-21. Estado vigente; máximo 800 palabras. Sustituir informa
 
 ## Foco y siguiente paso
 
-Libro I, cierre de Parte III — Ardizzone y apertura de IV. Los Caps. 39 y 40 ya están escritos; el 39 fue corregido; siguen BORRADOR, pendientes de revisión del autor. Siguiente bloque de prosa: Caps. 41–45, conforme a [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Consultar [[98_Agent_Handoff/PENDING]] antes de continuar.
+Libro I, cierre de Parte III — Ardizzone y apertura de IV. Los Caps. 39 y 40 ya están escritos; ambos fueron corregidos; siguen BORRADOR, pendientes de revisión del autor. Siguiente bloque de prosa: Caps. 41–45, conforme a [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Consultar [[98_Agent_Handoff/PENDING]] antes de continuar.
 
 ## Estado del manuscrito
 
@@ -13,7 +13,7 @@ Libro I, cierre de Parte III — Ardizzone y apertura de IV. Los Caps. 39 y 40 y
 - Cap. 39: **Un par de días más**, título definitivo. POV Kal, regreso solo desde Palermo. Corrección aplicada: Marisol pregunta una vez y acompaña sin insistir; Dario confirma la distracción sin desarrollar táctica. Corte inmediato tras la frase canon final, sin reacción posterior. Detalle: [[98_Agent_Handoff/sessions/2026-09-21_codex_cirugia_cap_39]].
 - Último EPUB: 2026-09-20, 38 capítulos. No incorpora los Caps. 39–40 ni los parches posteriores. Regenerar sólo por petición expresa o al cerrar un bloque confirmado por el autor.
 
-- Cap. 40: [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/40_Mecanico|Mecánico]], título definitivo, BORRADOR pendiente de revisión. Palermo desde Kal; H17 parcialmente ejecutado, falta la mitad de Chiara en 41. Discrepancia de fotografía Tommaso/Alessio abierta en PENDING.
+- Cap. 40: [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/40_Mecanico|Mecánico]], título definitivo, BORRADOR pendiente de revisión. Palermo desde Kal; H17 parcialmente ejecutado, falta la mitad de Chiara en 41. Fotografía corregida a Alessio conforme a las fichas; oficio antes del rumor, cata restringida a Kal, advertencia de Ettore sin resolver la intención de Chiara, otoño tardío y cierre sin glosa. Registro: [[98_Agent_Handoff/sessions/2026-09-21_codex_cirugia_cap_40]].
 
 ## Fuentes que mandan
 
