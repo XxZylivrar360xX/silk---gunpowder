@@ -2250,6 +2250,8 @@ Una **cajita más pequeña, modesta, de madera.** Dentro, **una llave del loft.*
 
 # H17 — Italia / Mesa de las Familias
 
+> **EJECUTADO COMPLETO EN PROSA (2026-09-22):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/40_Mecanico|Cap. 40 — Mecánico]] (mitad de Kal) y [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/41_La_Otra_Mitad|Cap. 41 — La otra mitad]] (mitad de Chiara, contada a Riley) completan el hito. Ambos BORRADOR, pendientes de revisión del autor.
+
 > **ACTIVADO en prosa (2026-09-20):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/38_Al_Reves|Cap. 38]] cierra con Kal y Chiara en la terminal privada de Kingsley Field, alrededor de las cuatro de la mañana, con el avión a Palermo esperando. La decisión de Kal ("Voy contigo") y el motivo (la bala; su investigación de H12 nunca cerrada) ya están escritos. **Nada del viaje, la llegada, la Mesa ni Palermo está escrito** — sigue arco reservado.
 
 > **CANON DEL AUTOR (2026-08-29).** Ocurre **inmediatamente después de [[#H13 — El pañuelo]]** (su gatillo), que a su vez va después de [[#H16 — El cumpleaños / la mudanza oficial]]. **ID: H17** (asignado 2026-08-29). Arco reservado — no inventar contenido.
@@ -2273,6 +2275,8 @@ Kal y Chiara **viajan juntos a Italia.** En Palermo enfrentan **la Mesa de las F
 Ambos vuelven **separados físicamente y con fricción emocional** por lo sucedido en Palermo.
 
 > **PRECISIÓN (2026-09-21, CANON DEL AUTOR):** Kal regresa primero, solo, en vuelo comercial a Kingsley Field (Marisol lo recibe; dice que Chiara se quedó "un par de días más en la villa"). Chiara aterriza el mismo día al atardecer, en avión privado, con el cabello corto ([[99_Reference/character_art/Chiara_Bellandi_Invierno.png]]), y va **al penthouse, no al loft**. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
+
+> **EJECUTADO EN PROSA (2026-09-22):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/41_La_Otra_Mitad|Cap. 41]] dramatiza el regreso separado de Chiara — Kingsley Field, cabello corto, penthouse elegido sobre el loft por acción, sin explicación. BORRADOR, pendiente de revisión del autor.
 
 **Regla:** NO significa ruptura. No contradice la regla dura (*Kal y Chiara no se separan*). Significa distancia, conflicto, cosas no dichas, mala lectura, heridas recientes.
 

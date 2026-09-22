@@ -1,10 +1,10 @@
 # Current Brief
 
-Actualizado: 2026-09-21. Estado vigente; máximo 800 palabras. Sustituir información superada, no acumular sesiones.
+Actualizado: 2026-09-22. Estado vigente; máximo 800 palabras. Sustituir información superada, no acumular sesiones.
 
 ## Foco y siguiente paso
 
-Libro I, cierre de Parte III — Ardizzone y apertura de IV. Los Caps. 39 y 40 ya están escritos; ambos fueron corregidos; siguen BORRADOR, pendientes de revisión del autor. Siguiente bloque de prosa: Caps. 41–45, conforme a [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Consultar [[98_Agent_Handoff/PENDING]] antes de continuar.
+Libro I, cierre de Parte III — Ardizzone y apertura de IV. Los Caps. 39, 40 y 41 ya están escritos; todos BORRADOR, pendientes de revisión del autor. Siguiente bloque de prosa: Caps. 42–45, conforme a [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Consultar [[98_Agent_Handoff/PENDING]] antes de continuar.
 
 ## Estado del manuscrito
 
@@ -14,6 +14,8 @@ Libro I, cierre de Parte III — Ardizzone y apertura de IV. Los Caps. 39 y 40 y
 - Último EPUB: 2026-09-20, 38 capítulos. No incorpora los Caps. 39–40 ni los parches posteriores. Regenerar sólo por petición expresa o al cerrar un bloque confirmado por el autor.
 
 - Cap. 40: [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/40_Mecanico|Mecánico]], título definitivo, BORRADOR pendiente de revisión. Palermo desde Kal; H17 parcialmente ejecutado, falta la mitad de Chiara en 41. Fotografía corregida a Alessio conforme a las fichas; oficio antes del rumor, cata restringida a Kal, advertencia de Ettore sin resolver la intención de Chiara, otoño tardío y cierre sin glosa. Registro: [[98_Agent_Handoff/sessions/2026-09-21_codex_cirugia_cap_40]].
+
+- Cap. 41: [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/41_La_Otra_Mitad|La otra mitad]], título definitivo, BORRADOR pendiente de revisión. Palermo desde Chiara, contada a Riley; H17 queda completo. Penthouse elegido sobre el loft por acción; inconsistencia de mensajería de Matteo (camioneta de Envíos Rápidos San Aurelio, grabada el día del sobre, antes de que Matteo se fuera — no la noche del capítulo — sin ligar a antagonista); Fabrizio con primer cambio de temperatura; "—Nada." sembrado para el 42; funda la relación Chiara-Riley sin volverla protegida ni reclamarla ("contigo esto sigue siendo un coche. Con Kal deja de serlo."). Cabello corto sin explicar motivo. Corregido el mismo día (POV de apertura, cronología de la camioneta, causalidad Palermo/Matteo). Registro: [[98_Agent_Handoff/sessions/2026-09-22_sonnet_cap_41]].
 
 ## Fuentes que mandan
 
