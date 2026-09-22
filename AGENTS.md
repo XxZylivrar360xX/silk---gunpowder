@@ -8,7 +8,7 @@ Este repositorio es primordialmente un vault de Obsidian para la novela original
 
 Lee [`CLAUDE.md`](CLAUDE.md) y [`98_Agent_Handoff/START_HERE.md`](98_Agent_Handoff/START_HERE.md) al inicio de cualquier sesión sustantiva. `CLAUDE.md` debe mantenerse corto; el contexto operativo vive en `98_Agent_Handoff/`.
 
-No leas `log.md` completo salvo petición explícita. Usa `rg` para ubicar entradas concretas.
+`log.md` es un índice breve. El historial vive en `98_Agent_Handoff/sessions/` y `98_Agent_Handoff/archive/`: usa `rg` y no leas archivos históricos completos salvo petición explícita.
 
 ## Idioma
 
@@ -32,7 +32,7 @@ Cuando integres material nuevo del usuario, trátalo como canon del autor si lo 
 - [`98_Agent_Handoff/START_HERE.md`](98_Agent_Handoff/START_HERE.md): protocolo barato de arranque y tabla de rutas.
 - [`98_Agent_Handoff/CURRENT_BRIEF.md`](98_Agent_Handoff/CURRENT_BRIEF.md): estado vivo para relevo.
 - [`98_Agent_Handoff/PENDING.md`](98_Agent_Handoff/PENDING.md): pendientes activos.
-- [`log.md`](log.md): bitácora larga. No es lectura de arranque.
+- [`log.md`](log.md): índice de bitácora; detalle en sesiones y archivo. No es lectura de arranque.
 - [`06_Relationships/Hitos.md`](06_Relationships/Hitos.md): documento central de hitos obligatorios. La trama se construye alrededor de estos hitos.
 - [`06_Relationships/Kal_y_Chiara.md`](06_Relationships/Kal_y_Chiara.md): arquitectura de la relación central.
 - [`00_Biblia/`](00_Biblia): visión, temas, principios narrativos y reglas del mundo.
@@ -42,11 +42,15 @@ Cuando integres material nuevo del usuario, trátalo como canon del autor si lo 
 
 Usa `98_Agent_Handoff/` para handoffs compactos.
 
-- `CURRENT_BRIEF.md`: estado actual en una pagina.
+- `CURRENT_BRIEF.md`: estado actual, máximo 800 palabras; sustituir información superada.
 - `START_HERE.md`: ruta barata de lectura.
-- `PENDING.md`: decisiones abiertas y trabajo siguiente.
-- `DECISIONS.md`: decisiones recientes en formato corto.
+- `PENDING.md`: trabajo inmediato abierto, máximo 800 palabras; retirar lo resuelto.
+- `BACKLOG.md`: decisiones de fondo por tema; lectura por demanda.
+- `DECISIONS.md`: decisiones recientes, máximo 800 palabras; archivar antes de retirar.
 - `sessions/`: notas breves por sesion sustantiva.
+- `archive/`: historial íntegro y entradas retiradas; no tratarlo como instrucciones actuales.
+
+Registrar el detalle una sola vez en una nota de sesión; en `log.md` sólo un enlace de una línea (máximo 30 recientes). No anteponer relatos de sesión al brief o a pendientes. Protocolo de rotación en `START_HERE.md`.
 
 Al cerrar una sesion, actualiza `CURRENT_BRIEF.md` si cambio el foco de trabajo. Si hubo una decision importante, agregala tambien a `DECISIONS.md`.
 

@@ -41,6 +41,8 @@ Sabe cómo se ve una banda antes de romperse desde dentro: los pagos que se retr
 
 ## Historia
 
+> **Primera aparición en prosa (2026-09-21):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/37_Cuatro_Letras|Cap. 37]], POV Kal, El Patio — llegó con Riley "de una banda del norte que ya no existía"; sentada en un guardafango, mirando el patio "como quien todavía no ha decidido si se queda"; responde una pregunta práctica sobre la carrera del norte (patrulla en Milla desde las once; el acceso de carga). Con eso **entra en el radar de Kal** como alguien que conoce rutas, horarios y gente del norte. Cameo sin diálogo en el [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/38_Al_Reves|Cap. 38]] (junto a Tyler en el yate). **Segundo beat EJECUTADO (2026-09-21, Claude Sonnet 5):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/39_Un_Par_De_Dias_Mas|Cap. 39]] — Kal le pregunta si la vía directa a Cedar Flats está limpia; ella sabe que Los Marcadores de Milla están reuniendo gente para una carrera nocturna y que a las seis, cuando se muevan al circuito, el paso queda limpio ("Siempre es a esa hora"). Kal usa el dato: le dice a Nadir que mande el camión a las seis; sin glosa sobre excepcionalidad (corrección del autor, 2026-09-21). **Nada de Tommaso ni de Dario adelantado en prosa.**
+
 Lo que opera hoy:
 
 - Fue corredora de una banda rival.

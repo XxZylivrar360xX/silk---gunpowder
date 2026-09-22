@@ -1,9 +1,9 @@
 <!--
 Estado: BORRADOR — Parte III — Ardizzone, cuarto capítulo (Cap. 38 del manuscrito). Redactado 2026-09-20, Claude Code (modelo: Claude Opus 5), encargo detallado del autor; segunda pasada de correcciones del autor aplicada el mismo día por el mismo modelo. Título de trabajo "Al revés" — PROVISIONAL, no autorizado; el encargo prohíbe fijar automáticamente "Träumerei", "Mi amor del patio", "Palermo" o "La bala". Otros candidatos registrados: "Una noche en que todos caben", "Cuatro de la mañana", "A tierra".
 Protagonista: Chiara Bellandi (POV único hasta el cierre). **Salto de POV controlado y autorizado por el encargo** en la última sección (aeropuerto): la llamada de Marisol es de Kal y sus líneas canon tienen que oírse; no hay forma de narrarla desde Chiara sin perderlas. Es excepción puntual, igual que el muelle de carga del Cap. 36.
-Personajes con diálogo: Chiara Bellandi, Kal Mercer, Blake Stanton, Nadir Amrani, Héctor Navarro, Daniel "Danny" Hayes, Walter Keegan, Fabrizio Rinaldi, Tommaso Lusardi, Dario Varek, Marisol Grayson, el jefe de seguridad del Monarch (sin nombre), el piloto (sin nombre, una línea), los dos hombres de Il Consorzio (en el recuerdo, sin nombre).
-Cameos sin diálogo o con una línea: Harper Walker, Tyler Brooks, Kenji Oda, gente del Monarch, la mesa del Departamento (un capitán y su gente), empresarios y contactos de la ciudad, los Ferretti.
-Ausente, sentido: Matteo Bellacorte. Riley Bennett y Mei-Lin Zhao: en la versión actual no aparecen; el autor autorizó (2026-09-21) un beat nuevo en el que Chiara lee a Riley entre "los nuestros" — pendiente de ejecutar, después del beat gemelo del Cap. 37. Ver 00_Plan_Cierre_Parte_III.
+Personajes con diálogo: Chiara Bellandi, Kal Mercer, Blake Stanton, Nadir Amrani, Héctor Navarro, Daniel "Danny" Hayes, Walter Keegan, Fabrizio Rinaldi, Tommaso Lusardi, Dario Varek, Marisol Grayson, Riley Bennett (parche 2026-09-21), el jefe de seguridad del Monarch (sin nombre), el piloto (sin nombre, una línea), los dos hombres de Il Consorzio (en el recuerdo, sin nombre).
+Cameos sin diálogo o con una línea: Harper Walker, Tyler Brooks, Mei-Lin Zhao (junto a Tyler, sin diálogo), Kenji Oda, gente del Monarch, la mesa del Departamento (un capitán y su gente), empresarios y contactos de la ciudad, los Ferretti.
+Ausente, sentido: Matteo Bellacorte. **Riley Bennett y Mei-Lin Zhao (parche 2026-09-21, Claude Opus 5, encargo del autor sobre [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]):** aparecen brevemente entre el grupo de El Patio, en la sección coral (después de Héctor, antes de Marisol; ~350 palabras). Chiara tiene un primer intercambio funcional con Riley (un mesero bloqueado en el rellano; Riley ya sabe que la puerta de servicio de babor está sin candado porque "lo miró cuando subió"; Chiara le pregunta el nombre y le da la alternativa de proa) y registra su manera de leer salidas/espacio. Todavía no existe vínculo de protegida ni mentoría; la relación se funda en el Cap. 41, donde Chiara la busca. Mei-Lin sólo está junto a Tyler, sin diálogo.
 Ventana temporal: el viernes de la invitación del Cap. 35, después del Cap. 37. Comienza con la fiesta ya en marcha (nueve o diez de la noche), cierra la madrugada del sábado, alrededor de las cuatro — todavía noche cerrada; el "azul" de Kingsley Field es de pista, fluorescente y vidrio, no de amanecer (corrección del autor). Finales de noviembre / principios de diciembre — sin fecha fijada.
 Lugares: yate amarrado en una marina de [[05_Locations/San_Aurelio|La Isla]] (cubierta, proa, salón interior con piano, pasarela y muelle); [[05_Locations/Iglesia_Santa_Lucia]] y una casa neutral sin nombre (sólo en el recuerdo de H13); terminal privada de [[05_Locations/Kingsley_Field]] (cierre).
 Función: celebración coral que se convierte en el gatillo del viaje a Palermo. Curva: fiesta → Blake → proa → piano → Roma Atrii → bala/pañuelo → Palermo → aeropuerto → llamada de Marisol. Cuatro funciones macro: reunir físicamente varios mundos del elenco; cerrar el hilo de Blake sin triángulo; revelar en prosa que Kal toca el piano y sembrar *Träumerei*; pagar Roma Atrii y, acto seguido, activar H13 → H17.
@@ -75,6 +75,36 @@ Walt, en efecto, estaba junto a la barra, con las mangas bajadas y las botas de 
 —La invité para que tomara ese whisky en un lugar donde Kal no pueda preguntarle cada media hora cómo está.
 
 Héctor hizo con la garganta el ruido que en él contaba como carcajada, y se llevó el vaso a la boca para taparlo.
+
+La vio al cruzar hacia la escalera del salón, y la vio porque no estaba donde estaban los demás.
+
+Los de la cubierta abierta se habían repartido como se reparte la gente que no conoce un barco: pegados al buffet, pegados a la baranda, pegados a alguien. Ella no. Estaba de pie en el rellano donde la escalera del salón y el pasillo de la pasarela se juntaban, con la espalda a un mamparo y sin plato, y no miraba el agua ni las luces ni a nadie en particular. Miraba la escalera. Después la pasarela. Después la escalera otra vez, cada vez que alguien subía o bajaba.
+
+Kal le había hablado de las dos nuevas del patio una noche, en tres frases, como hablaba de todo lo que todavía no había decidido si le importaba. La otra —la que había llegado con ella— estaba con Tyler junto a los quesos, oyéndolo hablar sin darle la razón. Ésta no había entrado a la fiesta. Había entrado al barco.
+
+Uno de los meseros apareció por la pasarela con una charola y se detuvo: los invitados de los Ferretti habían salido a fumar al rellano y lo ocupaban entero, y el mesero no era de los que le piden permiso a la mesa de una boda.
+
+Chiara iba a resolverlo. No hizo falta.
+
+—Por babor —dijo la chica, al mesero, sin levantar la voz—. La puerta de la cadena. Está sin candado.
+
+El mesero la miró, la midió, y decidió creerle. Se fue por donde ella decía.
+
+Chiara se le puso al lado.
+
+—¿Cómo sabes que está sin candado?
+
+—Lo miré cuando subí. —No se sobresaltó; ya sabía que estaba ahí.
+
+—¿Cómo te llamas?
+
+—Riley.
+
+—Riley. —Chiara repitió el nombre una vez, para tenerlo—. La de babor la cierran a medianoche. Si vuelve a pasar, es por la escalera de proa.
+
+—Bien.
+
+Nada más. Chiara siguió hacia el salón. En el tercer escalón se dio cuenta de que, en un barco con cien personas, era la única a la que había visto mirar la cadena antes que el buffet.
 
 ---
 

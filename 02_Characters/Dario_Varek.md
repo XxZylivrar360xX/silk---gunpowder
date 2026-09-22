@@ -170,6 +170,10 @@ A cambio, Kal pide **seguridad para Chiara**. Y trae con qué pagarlo: **una ent
 
 ---
 
+## El disturbio de Camp Alder — EJECUTADO EN PROSA (2026-09-21, Claude Sonnet 5)
+
+[[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/39_Un_Par_De_Dias_Mas|Cap. 39]] (corregido 2026-09-21 por encargo del autor). Kal comunica fecha y ventana: el catorce, de dos a dos cuarenta. Dario confirma ruido al otro lado del perímetro para mover atención y abrir la ventana. No se especifican mecanismo, emergencia ni duración táctica. Sus hombres no entran; entran los de Kal. Cierra: "Las armas, Mercer. Completas." / "Van a estar completas." Sin antecedente nuevo de pagos incompletos. Cuelga sin despedirse; no habla de Chiara ni de Palermo.
+
 ## Apariciones canon
 
 - **[[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/02_Demasiado_Listo]]** — Chiara lo conoce al llegar al Monarch, en el segundo capítulo provisional. Primera aparición del lector bajo el nuevo montaje.

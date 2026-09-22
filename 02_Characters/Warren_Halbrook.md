@@ -111,6 +111,8 @@ Con esas armas, Kal **paga a [[02_Characters/Dario_Varek]] por abrir la ventana 
 
 > **DISEÑO:** a partir de aquí Kal lleva **dos correas al mismo tiempo** — Halbrook arriba, Varek al lado — y está trabajando para deshacer una de ellas desde dentro. Ésa es la presión que sostiene el resto de la novela.
 
+> **La orden con fecha — EJECUTADO EN PROSA (2026-09-21, Claude Sonnet 5):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/39_Un_Par_De_Dias_Mas|Cap. 39]]. Halbrook no aparece ni llama: la ventana llega por un mensaje de texto desde un número que Kal no tiene guardado, envuelto en lenguaje de logística ("Envío confirmado. Recogida el 14, ventana 02:00–02:40. Sin reprogramación."). Kal lo entiende sin que se lo expliquen y lo borra. Confirma en prosa la regla dura: Halbrook no pisa San Aurelio.
+
 ---
 
 ## Pendientes

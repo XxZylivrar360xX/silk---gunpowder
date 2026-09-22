@@ -17,9 +17,13 @@ Notas compactas para relevo entre agentes.
 - `START_HERE.md`: ruta barata de lectura.
 - `AGENT_ROLES.md`: responsabilidades de ChatGPT, Codex y Claude Code.
 - `CURRENT_BRIEF.md`: estado vivo del proyecto.
-- `PENDING.md`: decisiones abiertas y siguiente trabajo.
+- `PENDING.md`: trabajo inmediato abierto, máximo 800 palabras.
+- `BACKLOG.md`: decisiones de fondo por tema, fuera del arranque.
 - `DECISIONS.md`: decisiones recientes.
 - `sessions/`: handoffs compactos y notas dirigidas entre agentes.
+- `archive/`: historial íntegro, consultable con rg. Ver [[98_Agent_Handoff/archive/README]].
+
+Brief y DECISIONS también tienen límite de 800 palabras. Sustituir estado superado; no acumular relatos. El detalle va una sola vez en sessions; log sólo enlaza. Límites y rotación: [[98_Agent_Handoff/START_HERE]].
 
 ## Notas Dirigidas
 
@@ -41,7 +45,7 @@ Esto no reemplaza `CLAUDE.md`, `INDEX.md` ni `log.md`.
 
 - `CLAUDE.md`: reglas minimas de arranque.
 - `INDEX.md`: mapa canonico del vault.
-- `log.md`: bitacora larga.
+- `log.md`: índice breve de sesiones y archivo.
 - `98_Agent_Handoff/`: relevo rapido.
 
 Ninguna nota de agente crea canon por si sola. La autoridad final es el autor.

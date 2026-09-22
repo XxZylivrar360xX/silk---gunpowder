@@ -10,7 +10,7 @@ Los tokens son recurso del usuario. Por defecto:
 - Respuesta corta: 1-3 frases para tareas simples; mas detalle solo si cambia una decision.
 - No repitas salidas largas de comandos ni resumas dos veces lo mismo.
 - No leas archivos enormes "por si acaso": usa `rg`, indices, brief y lectura por demanda.
-- `log.md` es historico largo; no lo leas completo salvo peticion explicita.
+- `log.md` es indice; buscar el historico con `rg` en `98_Agent_Handoff/sessions/` y `98_Agent_Handoff/archive/`, sin leerlo completo.
 - Si el trabajo fue largo, el detalle va al vault o al handoff, no al chat.
 
 ## Checkpoints De Contexto
@@ -90,3 +90,4 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 - Para personaje: leer ficha, relacion directa y auditoria si afecta reparto.
 - Para trama: leer estructura del ascenso, primer borrador de beats y mapa de conflicto.
 - Para relevo rapido: leer solo `START_HERE`, `CURRENT_BRIEF` y `PENDING`.
+- Brief, PENDING y DECISIONS: maximo 800 palabras cada uno. Sustituir estado superado; retirar pendientes resueltos. Detalle una sola vez en `sessions/`; `log.md` recibe solo el enlace. Decisiones de fondo en `BACKLOG.md`, historial en `archive/`. Seguir rotacion de START_HERE.
