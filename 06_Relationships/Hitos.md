@@ -2330,6 +2330,8 @@ Durante el escape:
 
 **No inventar tácticas operativas adicionales.**
 
+> **EJECUTADO EN PROSA (2026-09-22, Claude Sonnet 5):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/43_La_Puerta|Cap. 43 — La puerta]], `Estado: BORRADOR`. Confirma en prosa: Kal sube hasta la puerta física del penthouse y no entra (escena titular); El Patio se alista con Nadir, Héctor, Danny y Garrett, sin gente de Dario; Dario confirma la distracción sin mecanismo por teléfono; expediente comprobado por sello, no abierto; armas largas cargadas sin especificaciones; la extracción se complica sin causa técnica señalada; Héctor jala a Nadir dentro del helicóptero mientras Kal cubre a Danny y se queda; policía municipal detiene a Kal a menos de un kilómetro del perímetro; dos horas después la base reclama jurisdicción federal y lo traslada a Camp Alder mismo. Sin bajas. Sin revelar la futura intervención de Halbrook.
+
 ## Resultado
 
 Kal es arrestado bajo **jurisdicción militar / federal**. Abre la consecuencia siguiente.

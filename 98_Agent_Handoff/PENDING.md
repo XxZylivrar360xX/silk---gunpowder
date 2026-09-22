@@ -9,8 +9,9 @@ Fuente: [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte
 - Revisar con el autor el Cap. 39 corregido; sigue BORRADOR. [[98_Agent_Handoff/sessions/2026-09-21_codex_cirugia_cap_39]].
 - Revisar Caps. 35–38, incluidos los beats nuevos de Riley/Mei-Lin de 37–38. La siembra de Mei-Lin en 39 ya está ejecutada.
 - Revisar con el autor el Cap. 41 — La otra mitad; sigue BORRADOR. [[98_Agent_Handoff/sessions/2026-09-22_sonnet_cap_41]].
-- Redactar el bloque 42–45 conforme al plan aprobado, cuando se retome ese encargo. No reabrir Mesa, línea de la cata, la otra mitad de Palermo del 41, monólogo del 44 ni respuesta del 45.
-- **PENDIENTE:** títulos definitivos de 36–38 y 42–45. El 39, el 40 y el 41 ya tienen título definitivo.
+- Revisar con el autor el Cap. 42 — Nada (F1 completo) y el Cap. 43 — La puerta (H19/Camp Alder); ambos BORRADOR. Registro del 43: [[98_Agent_Handoff/sessions/2026-09-22_sonnet_cap_43]].
+- Redactar el Cap. 44 (fracaso de Chiara, Lucía, apagón, monólogo, loft a oscuras — cierra Parte III) y el Cap. 45 (apertura de Parte IV) conforme al plan aprobado. No reabrir Mesa, línea de la cata, la otra mitad de Palermo del 41, F1 del 42, la puerta del 43, monólogo del 44 ni respuesta del 45.
+- **PENDIENTE:** títulos definitivos de 36–38 y 44–45. El 39, el 40, el 41, el 42 y el 43 ya tienen título definitivo.
 - **PENDIENTE:** confirmar la lectura del agente de que «recupere esto; aquí no pasó nada» se dirige a la base, no a Kal.
 - **PENDIENTE:** revisión de microdecisiones del 36: Kingsley Field frente a muelle marítimo, llave del loft frente a Penthouse y nombre Stella. No sustituir el canon de H16 por una alternativa sin decisión del autor.
 - **PENDIENTE:** revisión del 38: peso de «Y tú eres mi gente» frente a F1; ingreso de Blake con el capitán, yate alquilado/piano, coche de Sam, siembra Marisol–Kenji y abreviatura «Sra.» en diálogo canon. No expandir ni reescribir esa línea sin el autor.

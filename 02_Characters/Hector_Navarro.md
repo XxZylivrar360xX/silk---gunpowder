@@ -88,3 +88,5 @@ Ver también: [[02_Characters/Kal_Mercer]] · [[03_Factions/Almendra_Towing]] ·
 ## Camp Alder — CANON DEL AUTOR (2026-09-21)
 
 En la extracción de [[06_Relationships/Hitos#H19 — El asalto a Camp Alder|H19]], Garrett pilota y **Héctor es quien jala a Nadir adentro del helicóptero**, dejando a Kal en tierra porque Kal así lo decidió: simbólicamente lo abandona para salvar al muchacho. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
+
+> **EJECUTADO EN PROSA (2026-09-22):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/43_La_Puerta|Cap. 43 — La puerta]]. Héctor no dice nada al jalar a Nadir dentro; sólo tira más fuerte cuando Nadir se resiste y se queda con una mano en el marco de la puerta mirando hacia atrás hasta que Kal le hace una señal para que suba. Sin discurso, sin disculpa.
