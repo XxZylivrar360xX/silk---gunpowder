@@ -64,6 +64,7 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 - `06_Relationships/Momentos_de_Fractura.md`: conflictos que casi lo rompen todo.
 - `99_Reference/`: referencia externa no canon; no copiar.
 - `tools/editorial/README.md`: auditoria editorial determinista en modo `audit_only`.
+- `13_Auditorias/`: dictamenes editoriales de lectura humana (del autor), organizados por libro (`Book_01_Seda_y_Polvora/`, etc.); complementan, no sustituyen, la auditoria deterministica de `tools/editorial/`.
 
 ## Escritura Y Edicion
 

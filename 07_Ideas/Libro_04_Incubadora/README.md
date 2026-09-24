@@ -28,6 +28,11 @@ Esta carpeta **no sustituye** esos documentos. Los amplía con material todavía
 9. [[07_Ideas/Libro_04_Incubadora/09_Playlist_Erin]] — referencia musical no canon para el tono emocional de Erin Reyes.
 10. [[07_Ideas/Libro_04_Incubadora/CLAUDE_HANDOFF]] — encargo de integración para Claude Code.
 
+## Material narrativo de apoyo (escenas completas, no canónicas)
+
+- [[07_Ideas/Libro_04_Incubadora/Hospital_Reencuentro_Elenna]] — escena de prosa completa: despertar de Elenna en el hospital y primer reencuentro físico con Kal y Chiara, apertura del Libro 6. No canónica hasta aprobación del autor.
+- [[07_Ideas/Libro_04_Incubadora/Hangar_Despedida_Elenna]] — escena de prosa completa: despedida de Kal y Chiara en un hangar privado, contrapunto del reencuentro del hospital. No canónica hasta aprobación del autor.
+
 ## Regla de integración
 
 Claude debe clasificar cada punto como uno de los siguientes antes de moverlo fuera de esta carpeta:

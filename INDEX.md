@@ -231,6 +231,9 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[tools/editorial/reports/PILOT_01_10/PILOT_01_10_GLOBAL]] — reporte global generado del piloto 01–10
 - [[tools/editorial/reports/PILOT_01_10_V1_1/PILOT_01_10_V1_1_GLOBAL]] — reporte global V1.1 calibrado sobre capítulos 01–10
 - [[tools/editorial/reports/PILOT_01_10_V1_1/V1_VS_V1_1]] — comparación determinista de severidades y de las 15 HIGH originales
+- `13_Auditorias/` — dictámenes editoriales de lectura humana (no generados por el stack determinista de `tools/editorial/`), organizados por libro; el autor los va dejando ahí directamente
+- [[13_Auditorias/Book_01_Seda_y_Polvora/Auditoria_Editorial_Part_02]] — dictamen de Parte II (caps. 26–34): arquitectura en tres movimientos sólida, falso final en el 31, plan anti-Varek del 30 demasiado adelantado para la nueva arquitectura de saga, cronología 26–31 por sanear, prioridad alta en Media Baraja
+- [[13_Auditorias/Book_01_Seda_y_Polvora/Auditoria_Editorial_Part_03]] — dictamen de Parte III — Ardizzone (caps. 35–44): funciona como tercer acto y cierre de novela, no necesita reconstrucción ni capítulos nuevos; prioridad alta en el 35 (coda de invitaciones fuera de cronología) y el 38 (sobredimensionado ~8.600 palabras, más conflicto de canon con la vela de Santa Lucía), media-alta en el 36, ligera en 40–41, mínima en 37/39/42–44
 
 ---
 

@@ -4,6 +4,8 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-09-22 — Anexo del dictamen editorial de Parte III — Ardizzone (Caps. 35–44), [[13_Auditorias/Book_01_Seda_y_Polvora/Auditoria_Editorial_Part_03]], enlazado en [[INDEX]] y registrado en [[98_Agent_Handoff/PENDING]] para ejecutar más adelante. Sin ejecución de prosa todavía.
+- 2026-09-22 — Integración de `13_Auditorias/` al vault: carpeta nueva para dictámenes editoriales de lectura humana del autor, organizados por libro; primer archivo renombrado a `.md` y enlazado en [[INDEX]] y `CLAUDE.md`.
 - 2026-09-22 — [[98_Agent_Handoff/sessions/2026-09-22_sonnet_cap_44|Redacción del Cap. 44 — A oscuras (cierra la Parte III)]].
 - 2026-09-22 — [[98_Agent_Handoff/sessions/2026-09-22_sonnet_cap_43|Redacción del Cap. 43 — La puerta]].
 - 2026-09-22 — [[98_Agent_Handoff/sessions/2026-09-22_sonnet_cap_41|Redacción del Cap. 41 — La otra mitad]].
