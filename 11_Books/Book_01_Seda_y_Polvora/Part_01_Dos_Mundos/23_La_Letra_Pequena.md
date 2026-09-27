@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md).
+Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md). SURGERY 2026-09-27 (auditoria Parte I, lote B, E4; ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_08_18-24_Lote_B §9 parte 2): mecanica de carpetas de Rivers (A4, A5); raya de narracion (A9); siembras S6 (cheque del Monarch firmado por Matteo) y S5 (segunda frase del mensaje de Chiara, rima con el 44) -- lineas nuevas del agente, BORRADOR hasta lectura del autor. Punto de insercion de la escena de la moto (S1) marcado en el mapa para E5, sin prosa aun. Estado conservado.
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Apariciones: Héctor Navarro, Garrett Cross, Margaret Rivers (abogada de Kal), Jonathan Hoover (exsocio demandado, off-page), Giancarlo Krane (abogado de Hoover, mencionado).
 Ventana temporal: después del Cap. 22 (Causalidad; titulo de trabajo anterior: Sin rastro) y del cierre de Tierra buena. El conflicto legal completo dura ~2 semanas. Inmediatamente antes de la audiencia que continúa en el Cap. 24.
@@ -12,7 +12,7 @@ Pasada editorial 2026-09-10 (Claude Code, decision del autor): el recuerdo de la
 
 # Capítulo 23 — La letra pequeña
 
-El sobre llegó al taller a las nueve y doce de la mañana, entre una factura de neumáticos y un aviso del condado por una grúa que llevaba tres semanas estacionada donde no debía. Membrete de una sociedad que Kal conocía demasiado bien: dos páginas de lenguaje pulcro que decían, de tres maneras distintas para que pareciera inevitable, que su nombre ya no figuraba en el acuerdo del concesionario.
+El sobre llegó al taller a las nueve y doce de la mañana, entre una factura de neumáticos, el cheque del mes del Monarch firmado por Matteo Bellacorte y un aviso del condado por una grúa que llevaba tres semanas estacionada donde no debía. Membrete de una sociedad que Kal conocía demasiado bien: dos páginas de lenguaje pulcro que decían, de tres maneras distintas para que pareciera inevitable, que su nombre ya no figuraba en el acuerdo del concesionario.
 
 Kal lo abrió de pie.
 
@@ -68,7 +68,7 @@ Kal lo miró sin contestar.
 
 Ya tenía el número. Chiara se lo había pasado días antes, entre una broma sobre tomates y otra sobre su costumbre de convertir cualquier problema en un negocio. Kal le escribió para avisarle que el papel había llegado con sello. La respuesta llegó en menos de un minuto, y no fue un "lo siento" ni un "qué barbaridad":
 
-**Margaret Rivers. No le digas que vas de mi parte hasta que ella te pregunte cómo llegaste a su nombre. Se pone insoportable cuando cree que le deben gratitud.**
+**Margaret Rivers. No le digas que vas de mi parte hasta que ella te pregunte cómo llegaste a su nombre. Se pone insoportable cuando cree que le deben gratitud. Si esto se pone penal, en la oficina del fiscal hay un nombre que me debe un favor de prensa.**
 
 Kal sonrió sin querer y marcó.
 
@@ -76,7 +76,7 @@ Rivers le dio cita para esa misma tarde. Su despacho estaba en el centro, dos pi
 
 Rivers escuchó nueve minutos sin interrumpir. Kal le puso sobre la mesa contratos, transferencias, copias de facturas, mensajes, recibos de renta, registros de los vehículos que habían pasado por el lote y una libreta con cifras que Garrett había convertido en algo que un tribunal podía mirar sin asumir que era una amenaza.
 
-Rivers revisó la primera carpeta. Después la segunda.
+Rivers abrió la primera carpeta.
 
 —¿Dónde está el contrato de sociedad?
 
@@ -144,8 +144,6 @@ Kal la miró con una expresión tan plana que la pregunta siguiente murió antes
 
 —Entonces no ayuda directamente. Pero si usted ya intentaba estructurar negocios así antes de este acuerdo, es más difícil sostener que ahora se inventó una participación para cobrar. —Anotó algo—. Los casos civiles se construyen con cosas débiles puestas en el orden correcto.
 
-Cerró la carpeta.
-
 —¿Y ahora?
 
 —Ahora le contesto a Hoover. Él le mandó una explicación; yo le voy a mandar algo que un juez pueda confundir con una amenaza. Después empujo para que esto se vea rápido, antes de que él tenga tiempo de ordenar su versión.
@@ -162,7 +160,7 @@ Kal lo anotó. Chiara ya se lo había dicho a su manera.
 
 ***
 
-La primera oferta llegó al cuarto día. Dinero, no todo — suficiente para que alguien cansado aceptara. Héctor la leyó apoyado contra un coche sin capó.
+La primera oferta llegó al cuarto día. Dinero, no todo: suficiente para que alguien cansado aceptara. Héctor la leyó apoyado contra un coche sin capó.
 
 —Yo tomaría esto.
 

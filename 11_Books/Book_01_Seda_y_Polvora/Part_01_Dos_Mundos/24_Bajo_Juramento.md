@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md).
+Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md). SURGERY 2026-09-27 (auditoria Parte I, lote B, E4; ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_08_18-24_Lote_B §9 parte 2): cortada la prolepsis del cierre ("La idea... ya no se iba a ir", §L); atribucion "—dijo Kal" en el pasillo con Rivers; verbo faltante en la salida de Tommaso; podados el recordatorio de la lista de testigos y la lista repetida de la firma. Estado conservado.
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Apariciones: Tommaso Lusardi, Margaret Rivers (abogada de Kal), Jonathan Hoover (exsocio), Giancarlo Krane (abogado de Hoover).
 Ventana temporal: continuación directa del Cap. 23. El conflicto legal cierra aquí, ~2 semanas después del sobre.
@@ -175,7 +175,7 @@ Chiara bajó del estrado. Al pasar junto a Kal no lo miró, pero su mano rozó e
 
 ***
 
-Llamaron a Tommaso veinte minutos después. Rivers había dicho que aparecía en la lista contraria; Krane lo trató como si acabara de encontrar una herramienta que ya sabía usar.
+Llamaron a Tommaso veinte minutos después. Krane lo trató como si acabara de encontrar una herramienta que ya sabía usar.
 
 —Señor Lusardi, ¿estuvo presente la noche en que el señor Mercer presentó una propuesta al Monarch?
 
@@ -253,7 +253,7 @@ Rivers lo sostuvo con la mirada.
 
 —No hay más preguntas.
 
-Tommaso bajó del estrado. No giró la cabeza junto a Kal, ni junto a Chiara. Salió de la sala antes de que terminara la siguiente declaración.
+Tommaso bajó del estrado. No giró la cabeza al pasar junto a Kal, ni junto a Chiara. Salió de la sala antes de que terminara la siguiente declaración.
 
 ***
 
@@ -297,7 +297,7 @@ Rivers lo leyó dos veces antes de deslizárselo por la mesa.
 
 —Porque su propio testigo declaró más de lo que usted me contó. Usted me dijo que propuso un esquema de beneficio mutuo y que nadie lo firmó; Lusardi juró que todos en esa mesa lo aceptaron de palabra. —Destapó la pluma—. Eso, sumado a las transferencias que cubrió, a las pérdidas que absorbió y a lo que Garrett ordenó, deja a Hoover sin versión. Krane lo vio antes que el juez.
 
-—Lusardi mintió.
+—Lusardi mintió —dijo Kal.
 
 —A favor mío, y sin que yo se lo pidiera. Lo cobro ahora y pregunto por qué después.
 
@@ -371,7 +371,7 @@ El propietario levantó la vista.
 
 —A veces traigo dos.
 
-Firmaron. Cuando Kal dejó la pluma, su nombre estaba en el papel, esta vez en el renglón que le tocaba: participación, acceso, beneficios, obligaciones, una puerta de salida.
+Firmaron. Cuando Kal dejó la pluma, su nombre estaba en el papel, esta vez en el renglón que le tocaba.
 
 —¿Quieres enmarcarlo? —preguntó Garrett.
 
@@ -393,4 +393,4 @@ Kal miró el coche un rato. Después sacó el teléfono, lo sostuvo en la mano s
 
 —Vámonos.
 
-No llamó ese día. La idea, de todos modos, ya no se iba a ir.
+No llamó ese día.

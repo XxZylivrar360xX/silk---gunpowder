@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md).
+Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md). SURGERY 2026-09-27 (auditoria Parte I, lote B, E4; ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_08_18-24_Lote_B §9 parte 2): cortadas dos prolepsis por §L ("O eso creian los dos esa manana" y la cola del auto que "iba a tardar mucho tiempo en volver a existir"); separador --- normalizado a ***. Estado conservado.
 Protagonistas: Chiara Bellandi, Kal Mercer, con aparicion breve de Dario Varek.
 Ventana temporal: dias despues del Capitulo 21 (El primer huesped; titulo de trabajo anterior: La promesa). Reordenado el 2026-08-29; renumerado varias veces, la ultima el 2026-09-07 al insertar el Capitulo 21 nuevo (El primer huesped).
 Lugares: The Monarch Casino & Hotel, calles de Paseo Pacifica, Almendra Towing.
@@ -41,7 +41,7 @@ Danny no las hizo.
 
 Entre los dos subieron el auto a la plataforma en menos de diez minutos, barrieron el vidrio de la calle con una escoba que Kal siempre llevaba en la cabina —*"por si acaso", decía, sin especificar nunca de qué acaso*— y se lo llevaron al taller antes de que el sol empezara a insinuarse detrás de los cerros del norte.
 
-Ahí Kal hizo lo que sabía hacer: lo desarmó, lo guardó, y ese auto en particular iba a tardar mucho tiempo en volver a existir en ningún registro que a alguien le interesara consultar.
+Ahí Kal hizo lo que sabía hacer: lo desarmó y lo guardó.
 
 ***
 
@@ -50,8 +50,6 @@ Chiara, mientras tanto, hacía su propio trabajo.
 No tocó las cámaras. Tocarlas habría sido un error. Las dejó exactamente como estaban, con el huésped saliendo a las dos cuarenta y cinco, tambaleándose, real. Lo que cambió fue lo que venía después: una llamada a seguridad para que el registro de esa noche anotara que el valet le había ofrecido, dos veces, pedirle un taxi. Una nota en el sistema de reservas indicando que el huésped había cancelado el resto de su estadía "por motivos personales" y se había retirado por su cuenta. Una conversación breve con la única persona del personal nocturno que había visto algo más, ofreciéndole no dinero —eso se notaba— sino la clase de favor que un supervisor recuerda cuando llega la hora de repartir turnos buenos.
 
 Para las siete de la mañana, la historia que quedaba en pie era simple y verificable: un hombre bebió de más, el personal intentó ayudarlo, se fue por su cuenta. Faltaba el auto, y una farola golpeada sin un coche que lo explicara no le importaba a nadie a esa hora.
-
-O eso creían los dos esa mañana.
 
 ***
 
@@ -81,7 +79,7 @@ Ninguno de los dos dijo la palabra *sociedad*, ni nada que sonara a algo que hub
 
 Fue Kal quien se fue primero esa vez.
 
----
+***
 
 Tommaso se lo mencionó de pasada, dos días después, como quien reporta un dato administrativo sin peso.
 

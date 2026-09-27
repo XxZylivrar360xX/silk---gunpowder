@@ -1,10 +1,9 @@
 <!--
-Estado: TERMINADO (ver linea de Estado mas abajo; la marca inicial "borrador provisional" era historica, retirada en housekeeping 2026-09-26).
 Protagonistas: Kal Mercer, Chiara Bellandi, Marisol Grayson.
 Ventana temporal: la misma madrugada que cierra el Capitulo 20 (El mirador) -- horas despues de la primera intimidad, todavia de noche cerrada, NO amanecer.
 Lugares: El Penthouse, un club en algun punto de la ciudad, La Casa (el loft de Kal).
 Funcion: NUEVO (2026-09-07), a peticion del autor. Primera interaccion entre Chiara y Marisol, primera vez que Marisol ve el loft de Kal, y su primer corazon roto -- Diego (sembrado en el Cap. 14) le habia mentido: tenia novia, que al enterarse la agredio frente a media universidad en el piso del club donde Kal y Chiara la recogen. Marisol se abre primero con Chiara, no con Kal -- la propia Chiara sabe que Kal es brusco para hablar de sentimientos. Cierra con Marisol dormida en el sofa y Kal/Chiara viendola dormir desde la barandilla del mezzanine; Kal dice que Marisol es la unica promesa de su pasado a la que no quiere fallarle, en referencia a Michael Grayson. Escena nueva (sabado por la manana): Marisol paga la hospitalidad -- despierta temprano, hace desayuno y cafe para los dos explicitamente ("no solo por Kal. Por los dos"). Primera conversacion real de mujeres entre Chiara y Marisol sobre lo de Diego, con Chiara dejando claro que no tiene que contarle nada si no quiere -- Marisol se abre sin dudar. Kal baja cuando la risa ya es cotidianeidad de sabado; chiste del cafe (el bueno es para Chiara, a Kal le compro uno en el norte usando el Audi sin permiso) y linea de cierre "es una de las ventajas de ser mujer, ¿me equivoco, Chiara?" / "sin duda alguna, bambina". Version expandida (2026-09-07, segunda pasada): trayecto y escena del loft ganan cuerpo (tension fisica en el trayecto, el salto de rol de Chiara de amante a cuidadora reconocido por ella misma, mas textura de Marisol y una pregunta extra de Chiara sobre el golpe). Revision editorial (2026-09-10): conduce Chiara -- Kal llego a la cama con medio rosado encima y ella se lo objeta; el POV del trayecto sigue siendo Kal desde el asiento del copiloto. Poda de glosas en loft y desayuno; referente de "la cara" al cierre fijado en Marisol. Cierre nuevo: la despedida de Marisol -- su costumbre de visitar a Michael cuando algo la entristece (Kal termina la frase con ella, "papa"), el chiste del Audi devuelto, y Kal explicandole a Chiara que asi es siempre "el huracan Marisol" desde que Michael murio cuando ella tenia quince años -- cierra con un beso en la frente de Kal a Chiara y "volvemos adentro". SURGERY (2026-09-12): referente de "la cara" al cierre del desayuno nombrado explicitamente en Marisol (residuo de ambiguedad gramatical); "volveremos adentro" naturalizado a "volvemos adentro" (invitacion inmediata, decision del autor). Resto de la pasada del 2026-09-10 verificada intacta sin cambios nuevos.
-Estado: TERMINADO (aprobado por el autor el 2026-09-12, tras CLOSE 2026-09-12 con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_c22_la_promesa.md). Deuda documental no bloqueante: 02_Characters/Marisol_Grayson conserva residuos de graduacion/primer encuentro con Chiara y numeracion vieja del campamento de camping, pendientes de sincronizar; no afecta este estado.
+Estado: TERMINADO (aprobado por el autor el 2026-09-12, tras CLOSE 2026-09-12 con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_c22_la_promesa.md). SURGERY 2026-09-27 (auditoria Parte I, lote B, E4; ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_08_18-24_Lote_B §9 parte 2): poda de colas de tic (C14, C15, C16, C17, C18); retirada la linea de Estado duplicada que solo remitia a esta (housekeeping). Estado conservado. Deuda documental no bloqueante: 02_Characters/Marisol_Grayson conserva residuos de graduacion/primer encuentro con Chiara y numeracion vieja del campamento de camping, pendientes de sincronizar; no afecta este estado.
 Apertura por residuo: arranca directo del cierre del Capitulo 20 -- la misma noche, horas despues, todavia en la cama.
 Punto de vista (ajustado 2026-09-07): tercera persona cercana, un POV fijo por bloque de escena, segun quien paga mas el costo -- llamada y trayecto: Kal. Loft y confesion de Marisol: Chiara (es ella quien hace el trabajo emocional; Kal se queda callado, asi que perder su interioridad ahi refuerza eso mismo). Mezzanine: Kal (es su linea, su promesa). Desayuno del sabado y despedida final: Chiara, cerrando con la cara de Kal descrita desde afuera, no desde su cabeza.
 -->
@@ -21,7 +20,7 @@ La voz del otro lado llegó rota, entre hipo y palabras que no terminaban de arm
 
 —Kal... ¿puedes venir por mí?
 
-No hizo falta que dijera más. Algo en el tono —ese temblor específico que Kal reconoció antes de que la cabeza terminara de despertarle del todo— lo puso de pie.
+No hizo falta que dijera más. Algo en el tono —ese temblor específico que Kal reconoció— lo puso de pie.
 
 —¿Dónde estás?
 
@@ -39,7 +38,7 @@ Chiara ya se estaba sentando, apartando las sábanas.
 
 —No hace falta.
 
-—Kal. —Lo dijo sin levantar la voz, con la clase de calma que no dejaba espacio para discutir—. Llevas media botella de rosado encima y estabas dormido hace treinta segundos. No vas a manejar así con ella también en el auto.
+—Kal. —Lo dijo sin levantar la voz—. Llevas media botella de rosado encima y estabas dormido hace treinta segundos. No vas a manejar así con ella también en el auto.
 
 Kal no tuvo con qué contestarle eso. Le pasó las llaves sin decir nada.
 
@@ -73,7 +72,7 @@ Puso agua a calentar. No preguntó nada.
 
 Kal se sentó frente a Marisol, con las manos entre las rodillas.
 
-Marisol se abrazó las rodillas contra el pecho, todavía con el rímel corrido, mirando un punto fijo en la alfombra como si ahí estuviera escrito el orden correcto para contar lo que había pasado.
+Marisol se abrazó las piernas contra el pecho, todavía con el rímel corrido, mirando un punto fijo en la alfombra como si ahí estuviera escrito el orden correcto para contar lo que había pasado.
 
 —Marisol...
 
@@ -187,7 +186,7 @@ Terminaron el desayuno entre bromas menores y silencios fáciles, y cuando Maris
 
 ***
 
-Marisol se despidió en la puerta con el mismo aire con el que hacía todo: rápido, sin dramatizar, como si un corazón roto no fuera motivo suficiente para quedarse quieta.
+Marisol se despidió en la puerta como hacía todo: rápido, sin dramatizar, como si un corazón roto no fuera motivo suficiente para quedarse quieta.
 
 —Voy a ver a mi papá —dijo, ya con las llaves del Audi en la mano—. Siempre que algo me pone triste, voy a ver a...
 
@@ -205,6 +204,6 @@ Kal y Chiara se quedaron parados viéndola alejarse.
 
 —Siempre. —Kal no apartó la vista del camino ya vacío—. Llega el huracán Marisol, sacude todo, y después vuelve a su rutina como si nada. Siempre le ha gustado estar ocupada. Más, desde que Michael murió, cuando ella tenía quince años.
 
-Chiara no dijo nada más sobre eso. No hacía falta.
+Chiara no dijo nada más sobre eso.
 
 —Volvemos adentro —dijo Kal, al final, y le dio un beso en la frente antes de cerrar la puerta detrás de los dos.
