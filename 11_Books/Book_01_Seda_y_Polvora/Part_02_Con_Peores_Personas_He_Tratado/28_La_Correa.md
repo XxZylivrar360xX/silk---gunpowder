@@ -1,7 +1,7 @@
 <!--
-Estado: BORRADOR — tercer capítulo de la Parte II (La Construcción). Pendiente de revisión del autor.
+Estado: BORRADOR — tercer capítulo de la Parte II (*Con peores personas he tratado*). Pendiente de revisión del autor. Cirugía editorial E5 (2026-09-27, [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II]] §9): cronología fija de ~24 h, POV y glosas; sigue BORRADOR.
 Protagonistas: Chiara Bellandi (POV único). Apariciones: Kal Mercer.
-Ventana temporal: la noche siguiente a la confrontación del taller del norte (cierre del Cap. 27) y la mañana siguiente. Cierra con Kal cruzando a San Aurelio al amanecer y deja el enganche directo con el Cap. 29.
+Ventana temporal: la misma noche de la confrontación del taller del norte (Cap. 26) y el amanecer siguiente (unas 24 horas después de la salida de Kal). Abre con Chiara en el loft y Kal llegando al amanecer; cierra con Kal saliendo a ver a Varek y deja el enganche directo con el Cap. 29.
 Lugares: el loft (la casa recomprada de Dale y Ruth Mercer, diseñada por Chiara; H14). Mezzanine, escalera lateral, balcón conservado. Referencia externa: el bloque de los Bravos al sur (recon de Chiara, fuera de escena hasta el relato).
 Función: CANON DEL AUTOR. Cierra H5 (sección 14 — "La peor noche" / la sudadera como disfraz operativo) y abre H6 — El pacto (secciones 1-4: el regreso golpeado, la conversación, Kal sale "como un diablo" a llamar a Varek).
 - H5 §14: la peor noche de Chiara, en paranoia, sola en el loft. Hace vigilancia de que nadie la haya seguido al barrio. Se pone la sudadera de Kal para que quien mire desde fuera crea que él está en casa. Tradecraft y ternura en el mismo gesto. Reza, SIN ritual (la vela por Kal nace después, tras F4).
@@ -13,31 +13,31 @@ Función: CANON DEL AUTOR. Cierra H5 (sección 14 — "La peor noche" / la sudad
 - H6 §3: la conversación llega a Varek — que la amenazó entre líneas de que su vida era de Darío para dirigir. Kal "no se lo toma nada bien". Apenas lo escucha, baja las escaleras y sale hacia el auto llamando a Varek: "— ¿Nos podemos reunir?" (tres palabras corteses, ni una amenaza).
 - H6 §3 DISEÑO: lo que lo saca del cuarto corriendo NO es la paliza, ni el ultimátum, ni Nadir de rehén, ni hablar de huir — es que alguien le dijo a ella qué puede y qué no puede hacer. POV Chiara: ella lo ve y lo registra sin nombrarlo (narrador no glosa).
 - H6 §4: Chiara concluye que quedándose no resuelve nada y va tras él. Cierre del capítulo: desde el balcón lo ve salir "a toda velocidad en el coche, como un diablo".
-- AMPLIACIÓN (2026-09-16, encargo del autor): la sudadera y la vigilancia dejan de ser sólo atmósfera y se apoyan en indicios reales. Durante la ausencia de Kal, Chiara detectó un patrón (mismo sedán oscuro cerca de El Patio y luego a media cuadra del loft, sin placa visible, dos veces desaparecido al mirarlo de frente) y lo atribuyó a la amenaza de Varek en H15 ("lo va a hacer seguir"). La atribución es razonable y **incorrecta**: el sedán es del aparato de Halbrook (sembrado en el Cap. 28), interesado en Nadir/Kal, no en Varek. No se resuelve la autoría en este capítulo; Kal empieza a sospecharlo por las preguntas que hace, nunca lo dice.
-- NUEVO — las fotografías: antes de esta noche, en la ausencia de Kal, Chiara hizo por iniciativa propia una operación de vigilancia discreta (paciencia, posición, horarios; sin ser vista, sin armas, sin errores técnicos) sobre un punto del bloque de los Bravos al sur, después de que alguien preguntara demasiado por Kal en el barrio y Walt reportara movimiento raro. La información es buena (placas, rostros, entradas/salidas). El conflicto no es la calidad del trabajo — es que fue ella, en persona, quien se expuso. Motivación no verbalizada por el narrador: en esta crisis puntual, Kal se volvió emocionalmente el único plan, en lugar de activar el sistema de redundancias/intermediarios que Chiara usa normalmente ([[03_Factions/Red_Civil_de_Chiara]], i Sussurri). Sólo se entenderá del todo en el Cap. 31.
+- AMPLIACIÓN (2026-09-16, encargo del autor): la sudadera y la vigilancia dejan de ser sólo atmósfera y se apoyan en indicios reales. Durante la ausencia de Kal, Chiara detectó un patrón (mismo sedán oscuro cerca de El Patio y luego a media cuadra del loft, sin placa visible, dos veces desaparecido al mirarlo de frente) y lo atribuyó a la amenaza de Varek en H15 ("lo va a hacer seguir"). La atribución es razonable y **incorrecta**: el sedán es del aparato de Halbrook (sembrado en el Cap. 27), interesado en Nadir/Kal, no en Varek. No se resuelve la autoría en este capítulo; Kal empieza a sospecharlo por las preguntas que hace, nunca lo dice.
+- NUEVO — las fotografías: antes de esta noche, en la ausencia de Kal, Chiara hizo por iniciativa propia una operación de vigilancia discreta (paciencia, posición, horarios; sin ser vista, sin armas, sin errores técnicos) sobre un punto del bloque de los Bravos al sur, después de que alguien preguntara demasiado por Kal en el barrio y Walt reportara movimiento raro. La información es buena (placas, rostros, entradas/salidas). El conflicto no es la calidad del trabajo — es que fue ella, en persona, quien se expuso. Motivación no verbalizada por el narrador: en esta crisis puntual, Kal se volvió emocionalmente el único plan, en lugar de activar el sistema de redundancias/intermediarios que Chiara usa normalmente ([[03_Factions/Red_Civil_de_Chiara]], i Sussurri). Sólo se entenderá del todo en el Cap. 30.
 - NUEVO — discusión de autonomía/protección: núcleo dramático añadido. Ambos descubren en el otro el mismo comportamiento que se permiten a sí mismos (asumir solo el riesgo, ocultar información "para proteger"). Kal llega a proponer, seco y práctico, parar lo que están construyendo antes de que la exposición de ella empeore; Chiara sostiene su autonomía sin rogar ni reclamar exclusividad. Las líneas canon de H6 §2 quedan con doble significado: la posible ausencia impuesta por Halbrook Y la posible ausencia que Kal mismo acaba de proponer. Kal roza, sin saberlo del todo, la misma lógica de control de Varek ("no vuelvas a hacerlo sola" / "no me digas qué puedo hacer" / "no era una orden" — "sonó como una") y se detiene solo, a diferencia de Varek. NO equiparar moralmente a los dos.
-- Las fotografías sobreviven el capítulo sin destruirse ni resolverse: Kal las reconoce útiles pero es Chiara quien, antes de salir tras él, las recoge y se las lleva (no sabe todavía para qué; no deja información útil en una casa vacía). Preparan su función en el Cap. 31 (Kal se las pedirá; primer activo informal de la futura relación El Patio–i Sussurri; no fundar esa alianza aquí).
+- Las fotografías sobreviven el capítulo sin destruirse ni resolverse: Kal las reconoce útiles pero es Chiara quien, antes de salir tras él, las recoge y se las lleva (no sabe todavía para qué; no deja información útil en una casa vacía). Preparan su función en el Cap. 30 (Kal se las pedirá; primer activo informal de la futura relación El Patio–i Sussurri; no fundar esa alianza aquí).
 Regla 5 (se protegen mintiéndose), visible en ambos lados:
 - Kal NO le da el nombre de Halbrook (protege el hilo). Deflecta sin negar cuando ella supone que fue Varek — el capítulo NO resuelve la ironía.
 - Chiara le cuenta lo del taller pero SE GUARDA la tercera línea canon ("si hay que eliminar a Kal, entonces tú vas a hacerlo"). El narrador lo deja ver sin subrayarlo.
 Continuidad:
-- La línea de escalada tras el relato del taller ("A él se lo había dicho... junto a una cama de hospital... A ella se lo había dicho en un galpón helado, sola") se apoya en la siembra del Cap. 26 (DISEÑO 2026-09-10): Dario ya le había dicho a Kal "La tregua es por lo que le pasó, señor Mercer. No por ella." en el hospital (frase canonizada 2026-09-26; antes "ni en eso ni en ti") (H12) y Kal lo dejó pasar. Lo que lo detona ahora es que Dario se lo dijo a ella, directamente. Si el autor retira la siembra del 26, esta línea se convierte en un simple registro de la ofensa.
+- La línea de escalada tras el relato del taller ("A él se lo había dicho... junto a una cama de hospital... A ella se lo había dicho en un galpón helado, sola") se apoya en la siembra del Cap. 26 (DISEÑO 2026-09-10): Dario ya le había dicho a Kal "La tregua es por lo que le pasó, señor Mercer. No por ella." en el hospital (frase canonizada 2026-09-26; antes "ni en eso ni en ti") (H12) y Kal lo dejó pasar. Lo que lo detona ahora es que Dario se lo dijo a ella, directamente. Si el autor retira la siembra del 26, esta línea se convierte en un simple registro de la ofensa. **E5 (2026-09-27, D7): línea retirada por POV** (Chiara estaba sedada en el hospital y Kal no le contó esa frase); la escalada la sostienen "Nada de eso le había movido los hombros. / Esto sí."
 - Registro privado en semilla (pre-H16): calidez de conducta, algún italiano suelto de ella, sin apodos plenos, sin ritual del Ciao. Kal no se pone lírico: ternura = conducta.
 - La llave del loft que tiene Chiara es informal (noches sueltas). La cajita "oficial" es H16.
-- "Conduce él, siempre". Chiara sigue a Kal en su propio sedán (Mercedes-Benz Clase S del Monarch), no en el Peugeot de él — ficha de Chiara, ya fijado en los Caps. 30-32.
+- "Conduce él, siempre". Chiara sigue a Kal en su propio coche, el Lancia (el Mercedes-Benz Clase S es el coche corporativo del Monarch), no en el Peugeot de él. Autos fijados en E2 (D15): Kal en el Peugeot en 28–30 y en el Audi desde el 31.
 -->
 
 # Capítulo 28 — La correa
 
 La sudadera olía a él y a solvente, y a un jabón barato que Kal compraba por caja y que Chiara no habría elegido nunca y que ahora, puesta, le pareció lo más parecido a estar acompañada que iba a conseguir esa noche.
 
-Se la había puesto a las once, cuando entendió que no iba a dormir. La razón que se dio a sí misma era operativa y la sostuvo con las dos manos: si alguien había venido detrás de ella desde el taller —y alguien podía haber venido; había hecho demasiadas preguntas en dos días y las preguntas volvían— y ese alguien miraba el loft desde la calle, tenía que ver una silueta de hombre cruzando delante de una ventana. Tenía que ver que Kal estaba en casa. Así que apagó la luz grande, dejó una lámpara baja encendida en el mezzanine, y cada tanto se paraba y caminaba delante del vidrio con los hombros anchos de la sudadera y las manos en los bolsillos, despacio, como caminaba él.
+Se la había puesto a las once, cuando entendió que no iba a dormir. La razón que se dio a sí misma era operativa y la sostuvo con las dos manos: si alguien había venido detrás de ella desde el taller —y alguien podía haber venido; había hecho demasiadas preguntas y las preguntas volvían— y ese alguien miraba el loft desde la calle, tenía que ver una silueta de hombre cruzando delante de una ventana. Tenía que ver que Kal estaba en casa. Así que apagó la luz grande, dejó una lámpara baja encendida en el mezzanine, y cada tanto se paraba y caminaba delante del vidrio con los hombros anchos de la sudadera y las manos en los bolsillos, despacio, como caminaba él.
 
-No era una intuición sin base. Los dos días anteriores se los había pasado casi enteros moviéndose entre el casino, el barrio y el bloque de los Bravos al sur, y una tarde, cerca de El Patio, lo vio ella misma: un sedán oscuro parado más tiempo del que le correspondía. Walt le dijo que ya lo había visto antes, en la misma esquina, otro día. Esa noche lo volvió a ver —o a uno igual— a media cuadra del loft, apagado, sin nadie bajando. Las dos veces que lo miró de frente, ya no estaba. Varek le había dicho de madrugada, junto al jacuzzi, que no confiaba en Kal, que lo iba a investigar, que lo iba a hacer seguir. Chiara sumó una cosa con la otra sin pestañear. Le sobraban motivos para hacerlo.
+No era una intuición sin base. Desde que él se fue se había movido entre el casino, el barrio y el bloque de los Bravos al sur. Días antes, cerca de El Patio, había visto ella misma un sedán oscuro parado más tiempo del que le correspondía. Walt le dijo que ya lo había visto antes, en la misma esquina, otro día. Esa noche lo volvió a ver —o a uno igual— a media cuadra del loft, apagado, sin nadie bajando. Las dos veces que lo miró de frente, ya no estaba. Varek le había dicho esa madrugada que lo iba a hacer seguir. Chiara sumó una cosa con la otra sin pestañear.
 
 La otra razón de la sudadera no se la dijo. Estaba debajo de la primera, cómoda, y no necesitaba que la nombraran.
 
-Entre pasada y pasada se sentaba en el suelo, con la espalda contra el sofá que ella misma había elegido para un hombre que había pedido un loft de soltero, en una casa que ella había dibujado entera y de la que tenía una llave que no cerraba nada, y miraba el teléfono. *Me encuentro bien.* Ni un mensaje más desde las cinco cuarenta. Lo había llamado seis veces. La primera noche daba tono. Desde el mediodía, la operadora.
+Entre pasada y pasada se sentaba en el suelo, con la espalda contra el sofá que ella misma había elegido para un hombre que había pedido un loft de soltero, en una casa que ella había dibujado entera y de la que tenía una llave que no cerraba nada, y miraba el teléfono. *Me encuentro bien.* Ni un mensaje más desde las cinco cuarenta. Lo había llamado seis veces. Las seis, la operadora.
 
 Junto a la puerta, la bolsa de la cámara seguía donde la había dejado esa tarde, con la correa todavía puesta, y encima el sobre color hueso con el juego de copias que había mandado revelar en una hora, en un local que no pedía nombre. No había vuelto a abrirlo. Sabía lo que había dentro porque lo había tomado ella misma, foto por foto, con la paciencia de quien mide una hora entera antes de apretar el obturador una sola vez.
 
@@ -55,7 +55,7 @@ Subió las escaleras despacio, cuidando un costado, y cuando abrió la puerta en
 
 —Hace un frío de mil demonios en la carretera de noche. Deberían poner luz en ese tramo.
 
-Sus ojos ya habían hecho el resto del trabajo antes de que terminara la frase: la lámpara baja, encendida sólo la que no llegaba a la ventana; la cortina corrida hasta un punto exacto, ni abierta ni cerrada; ella sentada donde se veía la calle sin que la calle la viera a ella. No era casualidad, y él sabía reconocer cuándo un cuarto dejaba de ser un cuarto para volverse un puesto.
+Sus ojos ya habían hecho el resto del trabajo antes de que terminara la frase: la lámpara baja, encendida sólo la que no llegaba a la ventana; la cortina corrida hasta un punto exacto, ni abierta ni cerrada; ella sentada donde se veía la calle sin que la calle la viera a ella.
 
 Después la miró de arriba abajo —la sudadera, la capucha, los pies descalzos— y algo se le movió en la cara y se le acomodó enseguida.
 
@@ -93,7 +93,7 @@ Fue a levantar el brazo para alcanzar el antiséptico en el estante de arriba y 
 
 —Puedo yo —dijo Kal, sin volver la cabeza, con la voz un poco más corta de lo normal.
 
-Ella se detuvo con una mano todavía apoyada en la barra y se quedó ahí, sin dar el paso siguiente, mientras él se agachaba despacio, recogía la gasa del suelo, la tiraba y sacaba otra sin mirarla a ella ni una vez. No era que no quisiera que lo tocara. Era que necesitaba decidir él mismo cuánto cuidado aceptaba, y ella, que llevaba media vida aprendiendo cuándo no acercarse, se lo dejó decidir.
+Ella se detuvo con una mano todavía apoyada en la barra y se quedó ahí, sin dar el paso siguiente, mientras él se agachaba despacio, recogía la gasa del suelo, la tiraba y sacaba otra sin mirarla ni una vez. Ella, que llevaba media vida aprendiendo cuándo no acercarse, se lo dejó decidir.
 
 —¿Quién fue.
 
@@ -121,11 +121,9 @@ Chiara no dijo nada, y ese silencio fue lo que lo hizo darse la vuelta por compl
 
 —Las dos cosas.
 
-Kal desdobló las copias sobre la barra, al lado del botiquín, y las miró una por una. Un coche, dos veces, con la placa legible. Tres hombres entrando y saliendo de la misma puerta con demasiada frecuencia para ser casualidad. Horarios anotados al reverso con su letra apretada.
+Kal desdobló las copias sobre la barra, al lado del botiquín, y las miró una por una. Un coche de los Bravos, dos veces, con la placa legible. Tres hombres entrando y saliendo de la misma puerta con demasiada frecuencia para ser casualidad. Horarios anotados al reverso con su letra apretada.
 
 Pasó a la segunda. Volvió a la primera. Le dio vuelta y leyó el reverso otra vez, más despacio que la primera. No corrigió un solo horario. No preguntó cómo había conseguido la placa.
-
-Chiara entendió, por todo lo que él no dijo, que el material servía.
 
 —¿Fuiste tú sola a tomar esto.
 
@@ -155,7 +153,7 @@ Chiara entendió lo que quería decir antes de que él lo dijera mejor, y no le 
 
 —No quiero que me lo ofrezcas.
 
-Eso dolió más de lo que debería haber dolido una frase tan corta. Chiara se quedó con las manos quietas sobre la barra.
+Chiara se quedó con las manos quietas sobre la barra.
 
 —No vuelvas a hacer algo así sola —dijo Kal.
 
@@ -173,7 +171,7 @@ No contestó eso. Se quedó mirando las fotos, alineadas sobre la barra, como si
 
 Lo dijo seco, práctico, como quien propone cerrar una ruta que ya no rinde. Chiara reconoció el tono: era el mismo con el que él decidía cualquier otra cosa peligrosa, aplicado por primera vez a ella misma.
 
-—Si tienes que irte, lo haces. —Habló con cuidado, poniendo una palabra después de otra—. No voy a preguntarte a dónde ni por cuánto, y no voy a ser yo quien te lo reproche. —Sostuvo la mirada—. Pero lo otro no lo decides tú solo. No decides por mí qué riesgo puedo cargar, igual que yo no decidí por ti que te quedaras en esta ciudad en vez de hacer lo que sea que hiciste anoche.
+—Si tienes que irte, lo haces. —Habló con cuidado, poniendo una palabra después de otra—. No voy a preguntarte a dónde ni por cuánto, y no voy a ser yo quien te lo reproche. —Sostuvo la mirada—. Pero lo otro no lo decides tú solo. No decides por mí qué riesgo puedo cargar, igual que yo no decidí por ti que te quedaras en esta ciudad en vez de hacer lo que sea que hiciste ayer.
 
 Kal se dio vuelta a mirarla del todo. El movimiento le costó y no lo escondió del todo.
 
@@ -181,7 +179,7 @@ Kal se dio vuelta a mirarla del todo. El movimiento le costó y no lo escondió 
 
 —No es eso. —Chiara sostuvo la mirada—. Si te marchas, puedo vivir sin tu presencia. —Una pausa; no un titubeo, una elección—. Pero ya es algo que me acostumbré a tener en mi vida.
 
-No dijo *quédate*. Lo pensó entero —las dos veces, la del viaje que le imponían y la que él mismo acababa de proponer— y lo dejó sin decir las dos veces, porque decirlo era ponerle una mano encima, y ella había pasado años atada a alguien por una mano encima y sabía exactamente cómo pesaba del otro lado. Le ofrecía la puerta abierta en los dos sentidos: la de salir de la ciudad y la de salir de ella. Era lo único que podía darle que no fuera una correa más.
+No dijo *quédate*. Lo pensó entero —las dos veces, la del viaje que le imponían y la que él mismo acababa de proponer— y lo dejó sin decir las dos veces, porque decirlo era ponerle una mano encima, y ella había pasado años atada a alguien por una mano encima y sabía exactamente cómo pesaba del otro lado. Era lo único que podía darle que no fuera una correa más.
 
 Kal la miró un rato largo, con la gasa todavía en la mano, y no contestó a eso. En su cara pasó algo parecido a lo que pasa cuando a un hombre le entregan una cosa que no sabe dónde guardar.
 
@@ -201,7 +199,7 @@ Fue lo más parecido a una disculpa que iba a conseguir esa noche, y por ahora b
 
 ***
 
-Fue ella la que llevó la conversación al taller. No pensaba hacerlo esa noche —él acababa de llegar molido, no era el momento— pero Kal preguntó, con la voz plana de quien ya sabe media respuesta, qué había hecho ella los dos días que él estuvo sin dar señales, más allá de las fotografías. Y Chiara no sabía mentirle a él en lo chico. En lo grande sí; en lo chico se le trababa.
+Fue ella la que llevó la conversación al taller. No pensaba hacerlo esa noche —él acababa de llegar molido, no era el momento— pero Kal preguntó, con la voz plana de quien ya sabe media respuesta, qué había hecho ella mientras él estuvo sin dar señales, más allá de las fotografías. Y Chiara no sabía mentirle a él en lo chico. En lo grande sí; en lo chico se le trababa.
 
 Le contó que lo había buscado. Que había preguntado en el casino hasta que las preguntas empezaron a volver por el lado equivocado. Que había seguido a Varek al norte, al galpón de los coches, con una historia lista sobre un auto averiado.
 
@@ -219,9 +217,7 @@ Y se guardó la última. La que no era una amenaza contra ella sino una instrucc
 
 —Me dejó claro —terminó— que él considera que con quién ceno y con quién no ceno es una decisión suya.
 
-Kal se quedó muy quieto. A él se lo había dicho de pie junto a una cama de hospital, con las armas todavía calientes, y lo había dejado pasar como se deja pasar a un hombre que marca una pared. A ella se lo había dicho en un galpón helado, sola, a kilómetros de cualquier sitio.
-
-Kal bajó los ojos un instante hacia las fotografías, todavía alineadas sobre la barra, y volvió a mirarla a ella. No dijo nada más de lo necesario, pero algo en cómo apretó la mandíbula le dijo a Chiara que la frase acababa de caerle en un sitio que él no esperaba.
+Kal se quedó muy quieto. Bajó los ojos un instante hacia las fotografías, todavía alineadas sobre la barra, y volvió a mirarla a ella. Apretó la mandíbula.
 
 Chiara lo había visto absorber, esa misma noche, un ultimátum que podía mandarlo al otro lado del mundo, una paliza medida, y a saber qué más que no le había contado. Lo había visto encajarlo todo de pie, con la voz baja, echándose agua en la cara. Nada de eso le había movido los hombros.
 
@@ -231,7 +227,7 @@ Esto sí.
 
 —Fue suficiente.
 
-Supo que faltaba algo. No insistió. Chiara supo que él tampoco le había contado todo. Tampoco insistió.
+Kal no insistió. Chiara supo que él tampoco le había contado todo. Tampoco insistió.
 
 —Bien —dijo Kal, y la palabra no significaba nada de lo que significa normalmente.
 
@@ -249,4 +245,4 @@ El coche salió del hueco marcha atrás de un tirón, corrigió con un chirrido 
 
 Se quedó con las manos en la baranda de hierro. La sudadera ya no engañaba a nadie: la casa estaba, otra vez, exactamente tan vacía como decía estar.
 
-Quedarse ahí mirando la esquina no servía de nada. Eso lo tuvo claro enseguida; era la clase de cosa que siempre tenía clara. Entró, se quitó la sudadera y la dejó doblada sobre el respaldo. Ya tenía la mano en el picaporte cuando volvió sobre sus pasos, juntó las fotografías tal como Kal las había dejado alineadas y las metió de vuelta en el sobre color hueso. No sabía todavía para qué las iba a necesitar. Sólo sabía que no iba a dejar información útil tirada en una casa vacía. Se lo puso bajo el brazo, buscó sus llaves en el fondo del bolso y bajó a por su coche.
+Quedarse ahí mirando la esquina no servía de nada. Entró, se quitó la sudadera y la dejó doblada sobre el respaldo. Ya tenía la mano en el picaporte cuando volvió sobre sus pasos, juntó las fotografías tal como Kal las había dejado alineadas y las metió de vuelta en el sobre color hueso. No iba a dejar información útil tirada en una casa vacía. Se lo puso bajo el brazo, buscó sus llaves en el fondo del bolso y bajó a por su coche.

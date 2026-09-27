@@ -325,7 +325,7 @@ Ahí es donde supera a Kal en escala. Él acumula deudas, nombres y rutas hasta 
 - **Enciende una vela cada vez que Kal sale a trabajar.** No es superstición ni decoración: es su manera de pedir que vuelva a casa. Ver [[04_Concepts/Fe_y_Velas]].
 - **Bellandi Ridge no se contamina gratis.** Si alguien usa sus viñedos como escondite, amenaza o infraestructura criminal, debe sentirse como una profanación de algo suyo.
 - **Exige que la llamen Sra. Bellandi.** "Chiara" a secas es un privilegio, no un dato público — sólo lo usan los seleccionados. Cuando alguien lo usa sin haberlo ganado (ver [[02_Characters/Tommaso_Lusardi]], ficha de voz: "usa el nombre 'Chiara' con una familiaridad que no tiene derecho a reclamar del todo"), es una transgresión leída, no un descuido de estilo.
-- **No se siente cómoda manejando.** Prefiere que la lleven. Su método actual para moverse sola es un sedán negro del Monarch — un Mercedes-Benz Clase S, coche corporativo asignado por la empresa — que maneja ella misma cuando no quiere explicarle a nadie a dónde va. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/15_El_Porton|Capítulo 15]] (2026-09-03).
+- **No se siente cómoda manejando.** Prefiere que la lleven. Su método actual para moverse sola es un sedán negro del Monarch — un Mercedes-Benz Clase S, coche corporativo asignado por la empresa — que maneja ella misma cuando no quiere explicarle a nadie a dónde va. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/15_El_Porton|Capítulo 15]] (2026-09-03). *(Nota 2026-09-27: desde el Cap. 25 tiene auto propio, un **Lancia**, que usa en 26, 29, 30 y 34; el Mercedes sigue siendo el coche corporativo, que vuelve en el 38.)*
 
 ---
 

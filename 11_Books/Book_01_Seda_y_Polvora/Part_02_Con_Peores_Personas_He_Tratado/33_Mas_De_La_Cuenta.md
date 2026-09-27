@@ -1,11 +1,11 @@
 <!--
-Estado: BORRADOR — penúltimo capítulo de la Parte II (Cap. 33 de 34). Pendiente de revisión del autor.
+Estado: BORRADOR — penúltimo capítulo de la Parte II (Cap. 33 de 34). Pendiente de revisión del autor. Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II]], § 9 parte 4); sigue BORRADOR.
 Reubicación (2026-09-20, decisión del autor): este capítulo abría originalmente la Parte III — Ardizzone. Se adelantó, junto con el Cap. 34 — Mi pareja (H21, sin prosa todavía en ese momento), al cierre de la Parte II, para que la Parte III quede enteramente reservada al arco paralelo Kal/Dario (El Patio como administración criminal) y Chiara/Il Consorzio (reclamo de "Ardizzone"). Ver [[06_Relationships/Hitos]] (tabla de orden y H21) y `98_Agent_Handoff/PENDING.md`. El contenido de este capítulo (Kenji/Marisol, coda del loft) no cambió — sólo su posición.
 Renumerado en cascada (2026-09-20, encargo del autor): se insertó el [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Cap. 32 — Línea directa]] (Kal/Lucia Varek) entre este capítulo y "Vamos a casa". Este archivo pasó de 32 a 33; "Mi pareja" pasó de 33 a 34.
 Protagonistas: Chiara Bellandi (POV único, sin excepción). Apariciones: Kenji Oda, Marisol Grayson. Coda: Kal Mercer.
-Ventana temporal: varios días después del Cap. 32 (Línea directa) — que a su vez arrancó unos días después del Cap. 31 (Vamos a casa) y se extendió cerca de dos semanas. Sin fecha exacta, sin nombre de universidad, sin geografía académica fijada — deliberado, ver ficha de Marisol.
+Ventana temporal: varios días después del Cap. 32 (Línea directa) — que a su vez arrancó a la mañana siguiente del Cap. 31 (Vamos a casa) y se extendió cerca de dos semanas. Unas semanas después del día del regreso de Kal (Caps. 28–31), cuando Vivian le habló de Marisol (Cap. 29). Sin fecha exacta, sin nombre de universidad, sin geografía académica fijada — deliberado, ver ficha de Marisol.
 Lugares: The Monarch Casino & Hotel — corredor acristalado del nivel de administración (nuevo, compatible con [[03_Factions/El_Casino]]: edificio de costa, cristal, torre moderna de varios niveles con cámaras y piso de juego visible; no existía antes un punto de observación nombrado, se resuelve aquí como corredor de paso entre oficinas administrativas y la parte alta del piso, con mampara de cristal hacia abajo — no una oficina grande permanente) y la caja del Monarch. Coda: el loft de Kal en la Almendra ([[05_Locations/La_Casa]]).
-Función: CANON DEL AUTOR. Cierra la Parte II (penúltimo capítulo, seguido por el Cap. 34 — Mi pareja) — primera consecuencia lateral de la alianza consciente entre Kal y Chiara sellada en el Cap. 30 (Las cascadas): el principio de "vigilar la periferia de Vivian, no a Marisol" (sembrado ahí, con Kenji Oda nombrado sin ejecutarse) produce aquí su primer resultado, y el resultado es humano, no operativo.
+Función: CANON DEL AUTOR. Penúltimo capítulo de la Parte II (seguido por el Cap. 34 — Mi pareja, que la cierra) — primera consecuencia lateral de la alianza consciente entre Kal y Chiara sellada en el Cap. 30 (Media Baraja, en las cascadas): el principio de "vigilar la periferia de Vivian, no a Marisol" (sembrado ahí, con Kenji Oda nombrado sin ejecutarse) produce aquí su primer resultado, y el resultado es humano, no operativo.
 
 - REGLA ESTRUCTURAL DURA: POV único de Chiara Bellandi. NO hay POV Marisol, NO hay POV Kenji. El lector no ve la orden a Kenji, el inicio de su observación, el momento en que Marisol lo detecta, cómo comprueba el patrón, cómo lo rastrea hasta el Monarch, ni el interior de ninguno de los dos. Todo eso se reconstruye por fragmentos de diálogo cuando Chiara ya llega al resultado. Marisol y Kenji permanecen fuera de foco, tal como fijan sus fichas.
 - GEOGRAFÍA DEL MONARCH: Chiara ve la caja desde un corredor acristalado del nivel de administración (arriba del piso de juego, antes de llegar a su propia oficina) — no una gran oficina de cristal permanente, sólo un tramo de paso con visual hacia abajo, compatible con "varios niveles, cámaras, casino visible" de la ficha de facción. Kenji está en su territorio (la caja); Marisol está frente a él.
@@ -15,13 +15,13 @@ Función: CANON DEL AUTOR. Cierra la Parte II (penúltimo capítulo, seguido por
 - Cero romance narrado: ninguna mirada de deseo, ningún rubor, ningún beso. Lo que queda entre Marisol y Kenji al final es curiosidad más fricción más un primer punto de respeto — una razón verosímil para que vuelvan a hablar, nada resuelto.
 - Chiara aprende a dejar de administrar la conversación una vez que ya devolvió lo que le correspondía devolver; se retira sin necesidad de que nadie se lo pida.
 - Vivian Varek y Dario Varek NO aparecen físicamente. Vivian sigue sin saber que Marisol fue observada.
-- CODA EN EL LOFT (misma tarde/noche, POV Chiara): pasta, Kal abrazándola por detrás mientras cocina, sin etiqueta nueva de relación. Chiara introduce el tema con la pregunta base del autor; se preserva casi literal el intercambio de las piernas y del "elemento en el casino". Kal reacciona primero protector, después con algo parecido al orgullo sin verbalizarlo como tal. Pregunta si Kenji la siguió; Chiara aclara que la tarea era Vivian y que la atención extra fue decisión propia de Kenji, dicha a la cara de Marisol — a Kal eso le pesa más que si se hubiera escondido. Cierra con "La suficiente para preocuparme. No la suficiente para escoger por ella." — pago de La correa / El patio ajeno / Las cascadas, sin discurso de padre, sin mencionar a Michael. Remate cómico sobre romper piernas y cubrir turnos en la caja. Sin foreshadowing de la muerte de Kenji, sin Santa Lucía.
+- CODA EN EL LOFT (misma tarde/noche, POV Chiara): pasta, Kal abrazándola por detrás mientras cocina, sin etiqueta nueva de relación. Chiara introduce el tema con la pregunta base del autor; se preserva casi literal el intercambio de las piernas y del "elemento en el casino". Kal reacciona primero protector, después con algo parecido al orgullo sin verbalizarlo como tal. Pregunta si Kenji la siguió; Chiara aclara que la tarea era Vivian y que la atención extra fue decisión propia de Kenji, dicha a la cara de Marisol — a Kal eso le pesa más que si se hubiera escondido. Cierra con "La suficiente para preocuparme. No la suficiente para escoger por ella." — pago de La correa / El patio ajeno / Media Baraja, sin discurso de padre, sin mencionar a Michael. Remate cómico sobre romper piernas y cubrir turnos en la caja. Sin foreshadowing de la muerte de Kenji, sin Santa Lucía.
 - RESUELTO (2026-09-20): la nota anterior sobre "trabajo concurrente" quedó saldada por la reubicación de este capítulo a la Parte II — 00_Book_Map.md, INDEX.md y 06_Relationships/Hitos.md ya están sincronizados con esta posición. Sigue pendiente, sin relación con este movimiento: anotar en [[02_Characters/Marisol_Grayson]] y [[02_Characters/Kenji_Oda]] la referencia a este capítulo como primer sembrado del acercamiento, y actualizar [[03_Factions/Red_Civil_de_Chiara]].
 
 Continuidad:
-- VEHÍCULOS: no aplica — Chiara no sale del Monarch hasta el corte de escena hacia el loft; no se especifica cómo llega, evitando fijar Lancia/Audi sin necesidad narrativa.
+- VEHÍCULOS: no aplica — Chiara no sale del Monarch hasta el corte de escena hacia el loft; no se especifica cómo llega, evitando fijar vehículo sin necesidad narrativa (fijado para la Parte II: Chiara en el Lancia; Kal en el Audi desde el Cap. 31).
 - Registro privado Kal/Chiara: mismo nivel post-H7 — se comportan como pareja sin etiqueta formal, calidez de conducta, italiano suelto de Chiara.
-- Documentos que quedarán desactualizados por este capítulo y que NO se tocan aquí (reportar, no ejecutar): [[02_Characters/Marisol_Grayson]] y [[02_Characters/Kenji_Oda]] (sección "relación fuera de foco" — este capítulo ya es el primer sembrado concreto del acercamiento en Libro I, falta anotarlo con referencia al Cap. 33); [[03_Factions/Red_Civil_de_Chiara]] (Kenji ya actúa aquí más allá de la caja/i Sussurri clásico, observando entorno por encargo directo); [[06_Relationships/Hitos]] (falta un hito o sub-hito para "la periferia" dentro de la apertura de Parte III).
+- Documentos que quedarán desactualizados por este capítulo y que NO se tocan aquí (reportar, no ejecutar): [[02_Characters/Marisol_Grayson]] y [[02_Characters/Kenji_Oda]] (sección "relación fuera de foco" — este capítulo ya es el primer sembrado concreto del acercamiento en Libro I, falta anotarlo con referencia al Cap. 33); [[03_Factions/Red_Civil_de_Chiara]] (Kenji ya actúa aquí más allá de la caja/i Sussurri clásico, observando entorno por encargo directo); [[06_Relationships/Hitos]] (falta un hito o sub-hito para este capítulo, título de trabajo "La periferia"; hoy está en la Parte II, no en la apertura de la Parte III).
 -->
 
 # Capítulo 33 — Más de la cuenta
@@ -66,7 +66,7 @@ Chiara se acercó lo suficiente para que los dos la registraran. Kenji fue el pr
 
 —¿Me buscabas? —dijo Marisol, sin darle tiempo a nada más, con esa voz que Chiara ya conocía de la única vez que se habían visto de verdad, directa y filosa sin necesitar levantarse—. ¿Te debo algo? ¿O por qué me observas?
 
-No era una pregunta hecha a Chiara. Era la pregunta que le había estado haciendo a Kenji, reciclada ahora contra las dos personas que tenía enfrente, porque a esas alturas ya sospechaba que eran la misma cosa con dos caras.
+No era una pregunta hecha a Chiara. Era la pregunta que le había estado haciendo a Kenji.
 
 —No te debo nada a ti —dijo Chiara, con calma—. Y no te estaba observando a ti.
 
@@ -88,7 +88,7 @@ Chiara no lo negó. No tenía sentido negarlo, y una de las cosas que había apr
 
 No le contó todo. No le contó a Halbrook, ni a Camp Alder, ni la silla que Kal tenía ahora en una mesa que Chiara prefería no nombrar en voz alta en medio de un casino. Le contó lo que le correspondía saber, sin dorarlo y sin encogerlo:
 
-—Kal descubrió algo hace unos días. Que Vivian Varek está más metida en el negocio de su padre de lo que cualquiera pensaba. Y en la misma conversación, sin buscarlo, te mencionó sin saber que eras tú. Una pelirroja de un taller, un profesor, una discusión sobre permisos. Kal te reconoció por el contexto. No fue nada más que eso.
+—Kal descubrió algo hace unas semanas. Que Vivian Varek está más metida en el negocio de su padre de lo que cualquiera pensaba. Y en la misma conversación, sin buscarlo, te mencionó sin saber que eras tú. Una pelirroja de un taller, un profesor, una discusión sobre permisos. Kal te reconoció por el contexto. No fue nada más que eso.
 
 —¿Y? —dijo Marisol, sin bajar los brazos.
 
@@ -104,7 +104,7 @@ Chiara no dijo que no. No tenía manera honesta de decir que no.
 
 —Tienes razón —dijo—. Y lo siento por eso, aunque el objetivo nunca fuiste tú.
 
-Marisol la midió un momento, como si esperara que la frase viniera seguida de una justificación más larga, de las que la gente usa para diluir una disculpa hasta que deja de doler. No llegó ninguna. Chiara se quedó con eso, sin explicarlo más, y algo en la postura de Marisol bajó un grado, no del todo, pero lo suficiente para que se notara.
+Marisol la midió un momento, como si esperara que la frase viniera seguida de una justificación más larga, de las que la gente usa para diluir una disculpa hasta que deja de doler. No llegó ninguna. Algo en la postura de Marisol bajó un grado.
 
 ***
 
@@ -118,7 +118,7 @@ Marisol se quedó mirándolo un momento sin decir nada, y Chiara reconoció el s
 
 —Pude —dijo Kenji—. No hubiera sido cierto.
 
-Algo en eso pareció importarle a Marisol más de lo que cualquiera de las dos frases anteriores le había importado. No lo dijo. Pero dejó de tener los brazos cruzados de la misma manera, y cuando volvió a hablar, ya no sonaba a alguien atacando una excusa, sino a alguien haciendo preguntas de verdad.
+Algo en eso pareció importarle a Marisol más de lo que cualquiera de las dos frases anteriores le había importado. No lo dijo. Pero dejó de tener los brazos cruzados de la misma manera.
 
 —¿Cómo se supone que sabías que era "más atención de la que hacía falta"? —preguntó—. ¿Tienes un manual para eso?
 
@@ -134,11 +134,11 @@ Marisol lo miró como si esa respuesta la hubiera descolocado un poco más de lo
 
 —No lo sé —dijo Kenji—. Es la primera vez que alguien a quien observaba termina encontrándome a mí en el trabajo. Todavía estoy decidiendo qué hago yo con eso.
 
-Fue lo más cerca que Chiara lo había visto de perder el hilo de su propia calma, y no fue por presión, ni por miedo a que Chiara lo estuviera oyendo: fue porque, evidentemente, Marisol le resultaba más difícil de leer de lo que estaba acostumbrado.
+Fue lo más cerca que Chiara lo había visto de perder el hilo de su propia calma.
 
 ***
 
-—¿Cómo diste con él? —preguntó Chiara, con curiosidad genuina, no como interrogatorio.
+—¿Cómo diste con él? —preguntó Chiara.
 
 Marisol la miró un momento, calculando cuánto valía la pena contar.
 
@@ -150,17 +150,17 @@ Marisol la miró un momento, calculando cuánto valía la pena contar.
 
 No insistió. Entendía, mejor que casi nadie en esa sala, el valor de no explicar del todo un método que a una podría volver a servirle.
 
-—Kal me enseñó a notar cuando algo se repite —agregó Marisol, casi de pasada, como si no le pareciera gran cosa—. Y a alejarme cuando pasa.
+—Kal me enseñó a notar cuando algo se repite —agregó Marisol, casi de pasada—. Y a alejarme cuando pasa.
 
 —¿Y tú? —preguntó Chiara.
 
 —Yo no me alejé. —La sonrisa ladeada apareció por primera vez, breve—. Quería saber por qué.
 
-Chiara sintió algo parecido a reconocerse ahí, aunque no lo dijo. Guardó eso donde guardaba las cosas que no sabía todavía qué hacer con ellas.
+Chiara sintió algo parecido a reconocerse ahí, aunque no lo dijo.
 
 ***
 
-Kenji seguía con el cajón a medio cerrar, un billete de veinte asomado que nadie había terminado de guardar desde que la conversación empezó a importar más que el trabajo. Se dio cuenta al mismo tiempo que Chiara, y lo cerró con un movimiento breve, casi automático, sin dejar de mirar a Marisol.
+Kenji seguía con el cajón a medio cerrar, un billete de veinte asomado que nadie había terminado de guardar. Se dio cuenta al mismo tiempo que Chiara, y lo cerró con un movimiento breve, casi automático, sin dejar de mirar a Marisol.
 
 —¿Ibas a seguir mirándome sin decir nada? —preguntó Marisol— ¿Si no te hubiera encontrado yo primero?
 
@@ -178,13 +178,9 @@ Marisol soltó algo que no era del todo una risa, más bien el principio de una,
 
 —Pareces uno. —Lo dijo con la misma mezcla de sarcasmo y precisión con la que probablemente desarmaba a sus compañeros de clase—. Es molesto.
 
-Chiara los miró a los dos, uno y otro, y notó el cambio sin necesitar nombrarlo: la conversación ya no giraba alrededor de la acusación con la que había empezado. Giraba alrededor de otra cosa, más lenta, hecha de preguntas que ninguno de los dos tenía apuro por terminar de contestar.
+Chiara los miró a los dos, uno y otro.
 
 Marisol seguía sin estar del todo tranquila. Pero ya no quería irse.
-
-Kenji seguía siendo el mismo hombre calmado de siempre. Pero le costaba un poco más sostener esa calma de lo que a Chiara le había costado nunca verle.
-
-Cada uno había encontrado a alguien más difícil de leer de lo que esperaba. Eso, entendió Chiara, era lo único que hacía falta entender ahí.
 
 ***
 
@@ -264,7 +260,7 @@ Chiara se rió, de verdad, antes de poder evitarlo.
 
 —Peor. Ahora suena peor.
 
-Él no pareció tomarlo como corrección. Lo tomó como algo que guardar, de la misma manera en que se guardaba todo lo demás.
+Él no pareció tomarlo como corrección. Lo tomó como algo que guardar.
 
 No lo intentó de nuevo con el queso, al menos no enseguida. Se quedó apoyado cerca, viéndola poner el agua a hervir y el ajo a chisporrotear en el aceite.
 
@@ -306,7 +302,7 @@ Eso —tener razón sobre la sal— era peor que si hubiera estado equivocado. C
 
 —No era para ti.
 
-Fue después de eso, sin anunciarlo, que se acercó por detrás y la rodeó con los dos brazos mientras ella removía la salsa, apoyando la barbilla cerca de su hombro. Ella siguió removiendo. Ninguno de los dos lo comentó, porque ya no hacía falta comentarlo.
+Fue después de eso, sin anunciarlo, que se acercó por detrás y la rodeó con los dos brazos mientras ella removía la salsa, apoyando la barbilla cerca de su hombro. Ella siguió removiendo. Ninguno de los dos lo comentó.
 
 —¿Qué importancia tiene para ti —dijo Chiara, al rato, con el mismo tono con el que hubiera preguntado por la sal— con quién sale Marisol?
 
@@ -340,7 +336,7 @@ Ella bajó el fuego, se dio vuelta dentro del espacio que le dejaban los brazos 
 
 —El de la caja.
 
-Kal se quedó con eso un segundo, la mandíbula un poco tensa, reconstruyendo en silencio algo que a Chiara le tomó menos tiempo explicar de lo que a él le tomó procesar.
+Kal se quedó con eso un segundo, la mandíbula un poco tensa.
 
 —¿Desde cuándo?
 
@@ -388,11 +384,11 @@ Chiara sonrió, sin darle la satisfacción de decir nada más sobre eso, y volvi
 
 —Qué importancia tiene para ti con quién sale Marisol.
 
-Kal tardó en contestar. No porque no supiera la respuesta, entendió Chiara, sino porque decirla en voz alta le costaba un esfuerzo distinto del que le costaba resolver cualquier otra cosa esa semana.
+Kal tardó en contestar.
 
 —La suficiente para preocuparme —dijo, al fin—. No la suficiente para escoger por ella.
 
-Chiara no dijo nada. No lo felicitó, no le dijo que estaba orgullosa, no dejó la cuchara para ir a besarlo como si acabara de aprobar un examen. Sirvió la pasta en dos platos, puso uno frente a él, y dejó que la frase se quedara ahí, sola, haciendo el trabajo que tenía que hacer sin que nadie más la tocara.
+Chiara no dijo nada. No lo felicitó, no le dijo que estaba orgullosa, no dejó la cuchara para ir a besarlo como si acabara de aprobar un examen. Sirvió la pasta en dos platos, puso uno frente a él, y dejó que la frase se quedara ahí, sola.
 
 —Entonces no le vas a romper las piernas —dijo, al rato, ya sentados.
 

@@ -1,30 +1,30 @@
 <!--
-Estado: BORRADOR — sexto capítulo de la Parte II, cierre de la Parte II. Pendiente de revisión del autor.
+Estado: BORRADOR — sexto capítulo de la Parte II; cierra el arco H5–H7 (no la Parte II: siguen 32–34). Pendiente de revisión del autor. Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II]] § 9 parte 3): POV de Chiara saneado, resumen del coche comprimido, glosas cortadas, Beretta .25 (primera aparición, vestidor) y gesto de la roca (P3). Sigue BORRADOR.
 Protagonistas: Chiara Bellandi (POV único). Grupo: Kal Mercer, Nadir Amrani, Daniel "Danny" Hayes, Héctor Navarro, Walter "Walt" Keegan, Harper Walker.
-Ventana temporal: MISMO DÍA que los Caps. 28-31 (CANON DEL AUTOR — "hay que sanear, mi decisión es que sea el mismo día"). Ocurre la tarde-anochecer del día que Halbrook sacó a Kal de la ciudad de madrugada, que Kal volvió golpeado al loft, que fue a la mansión de Varek, que Kal y Chiara pactaron en Las Cascadas y que Kal reunió a su gente en El Patio. La pesca ya estaba acordada entre Nadir/Danny/Héctor/Walt/Kal al cierre de la coda del Cap. 31; la llamada de Kal a Chiara que abre este capítulo es la invitación personal a algo que el grupo ya decidió, no una convocatoria nueva. Kal sigue "recién molido": costillas y ceja de la paliza de Halbrook siguen activas.
+Ventana temporal: MISMO DÍA que los Caps. 28–30 (CANON DEL AUTOR — "hay que sanear, mi decisión es que sea el mismo día"). Ocurre la tarde-anochecer del día del regreso de Kal (Halbrook se lo llevó de la ciudad la madrugada anterior; Kal manejó de vuelta toda la noche): el día que Kal volvió golpeado al loft al amanecer, que fue a la mansión de Varek, que Kal y Chiara pactaron en Las Cascadas y que Kal reunió a su gente en El Patio. La pesca ya estaba acordada entre Nadir/Danny/Héctor/Walt/Kal al cierre de la coda del Cap. 30; la llamada de Kal a Chiara que abre este capítulo es la invitación personal a algo que el grupo ya decidió, no una convocatoria nueva. Kal sigue "recién molido": costillas y ceja de la paliza de Halbrook siguen activas.
 Lugares: AMPLIACIÓN (2026-09-16, encargo del autor): la geografía pasa de "río norte" a **el lago** — agua quieta, orilla de arena y piedra, apta para pesca y baño. Puede conservarse un recodo/entrada de agua más tranquila como detalle secundario, pero el cuerpo principal recreativo es el lago, no un río ni una desembocadura. Formación de roca cerca de la orilla para el atardecer, sin nombre fijado (PENDIENTE geográfico deliberado). **PENDIENTE DE RECONCILIAR (no resuelto en este encargo, sólo este capítulo):** otros documentos del vault (Book Map, Cadena de Eventos) todavía describen H7 como "el río norte"; revisar en sesión futura si corresponde actualizarlos o si el lago es un cuerpo de agua distinto dentro de la misma zona rural del norte.
-Función: CANON DEL AUTOR. Ejecuta H7 — El lago, cierre del arco H5-H7 y de la Parte II, el mismo día que lo abrió H5.
-- Apertura: la llamada de Kal, hecha desde El Patio poco después de que el grupo acordara ir a pescar (coda del Cap. 31). Línea canon: "— Ponte algo cómodo, porque quizá te vayas a mojar." **Reacción canon corregida (2026-09-16, segunda pasada):** la línea prioritaria de Chiara es la vacilación "— ¿A pescar? ¿Yo... a... pescar?" — no se corrige a una frase más elegante, porque Chiara normalmente tiene respuesta inmediata para todo y pescar la deja genuinamente sin repertorio; prepara directamente la escena del vestidor. "— ¿Eso es toda la invitación?" queda como línea secundaria, después de la vacilación, no como sustituto.
+Función: CANON DEL AUTOR. Ejecuta H7 — El lago, cierre del arco H5–H7.
+- Apertura: la llamada de Kal, hecha desde El Patio poco después de que el grupo acordara ir a pescar (coda del Cap. 30). Línea canon (según la prosa, D32 del mapa de auditoría, 2026-09-27): "— Ponte algo cómodo para ir a pescar. Porque quizá te vayas a mojar." ("para ir a pescar" sostiene la reacción "¿A pescar?"). **Reacción canon corregida (2026-09-16, segunda pasada):** la línea prioritaria de Chiara es la vacilación "— ¿A pescar? ¿Yo... a... pescar?" — no se corrige a una frase más elegante, porque Chiara normalmente tiene respuesta inmediata para todo y pescar la deja genuinamente sin repertorio; prepara directamente la escena del vestidor. "— ¿Eso es toda la invitación?" queda como línea secundaria, después de la vacilación, no como sustituto.
 - NUEVO — ESCENA DEL VESTIDOR: Chiara, que sabe vestirse para negociar con criminales o dirigir un casino, no tiene idea de qué ponerse para pescar. Kal sube al penthouse tras esperar de más, encuentra el vestidor en desorden (prendas descartadas, probadas y rechazadas) y la viste él mismo: short de mezclilla (que ella ya llevaba puesto sin saberlo), blusa blanca de algodón de mangas 3/4 con franjas azules, botas de campo. "Voilà", con su francés torcido. Gesto de confianza doméstica, no makeover ni erotización.
 - NUEVO — SALEN JUNTOS: no hay dos coches. Kal pasa por Chiara al Monarch; el Lancia se queda en el estacionamiento. Van y vuelven en el Audi.
-- NUEVO — EN EL CAMINO: Kal le resume, sin repetir la exposición completa de la coda del Cap. 31, cómo reaccionó cada quien en El Patio (Nadir se enojó primero y después bromeó; Walt ya piensa estructuralmente; Danny hizo la pregunta incómoda de la salida; Héctor preguntó por el sedán) y que la pesca fue idea de Nadir. No se reabre debate ni estrategia.
+- EN EL CAMINO (comprimido en la cirugía de 2026-09-27; el Cap. 30 ya dramatiza las reacciones): Chiara pregunta por Nadir; Kal contesta que se lo tomó mal, que tenía razón en enojarse y que después empezó a bromear, y que Danny le preguntó cómo piensa salir de Camp Alder y no tuvo una buena respuesta. La pesca fue idea de Nadir. Walt y Héctor no se resumen. No se reabre debate ni estrategia.
 - NUEVO — TIENDA DE PESCA: parada breve para equipar a Chiara (caña, carrete, anzuelos, señuelos). Tono ligero, sin inventario técnico.
 - NUEVO — SÁNDWICHES DE MABEL: Kal ya había comprado dos sándwiches antes de pasar por Chiara, sabiendo que probablemente no había comido. Gesto de cuidado mostrado por conducta, sin discurso ni glosa sentimental del narrador. Mabel usada según su ficha existente (dueña de tienda/cafetería de barrio), sin inventarle trasfondo nuevo.
 - NUEVO — LLAMADA DE NADIR: en el camino, Nadir avisa que ya van llegando y que invitaron a **Harper Walker** (ficha existente: 27 años, protegida operativa de Kal en la parcela del norte desde el Cap. 20 "Tierra buena"; sin relación romántica con Kal — no se inventa ninguna). Kal recuerda de golpe que tenía una reunión pendiente con ella ese día y la dejó plantada dos horas; Nadir se lo confirma con humor. Chiara contiene la risa. Nadir pregunta si "van" juntos y, al notar el plural, pregunta directamente si Chiara es su novia — Kal NO confirma ni niega: finge que se corta la llamada por un puente ("Krrr... shhh...") de manera deliberadamente mala, y cuelga. Silencio breve, después risa compartida. No se verbaliza la tesis de que ya no hace falta desmentirlo.
 - HARPER EN EL LAGO — VOZ AJUSTADA (2026-09-16, encargo del autor): veinteañera seria y reservada, sensible en el fondo — NO debe leer como parte del coro bromista de Nadir/Danny/Héctor/Walt. Su reclamo a Kal por las dos horas es seco y económico, sin chiste ("La próxima vez, cancela antes de que salga de la parcela"); cierra el asunto callándose, no con más réplicas ingeniosas. Evalúa a Chiara con una mirada cerrada, profesional, sin curiosidad abierta, y suelta una sola frase con peso real ("Kal habla de ti más de lo que cree que habla de ti") — dicha sin intención de generar cercanía, como quien reporta un dato, y se retira de la conversación enseguida. Se integra sin protagonismo excesivo. CERO celos, cero competencia entre mujeres, cero insinuación romántica.
 - GRUPO (Nadir, Danny, Héctor, Walt, Harper, Kal, Chiara — núcleo fijado, sin personajes nuevos fuera de Harper). Walt cobra MUY ligero su línea del Cap. 27 (quería verlo con sus propios ojos) — sin decir "ya veo que se aman", sólo observa y sigue con lo suyo. Rocco (perro de Danny) aparece como color.
 - TONO H7: después de cuatro capítulos de amenaza, revelación y negociación en el mismo día, aquí no pasa nada malo. Nadie habla de Halbrook, Camp Alder ni Varek — ya se habló esa tarde; ahora sólo viven.
-- FÍSICO DE KAL: sigue con las costillas y la ceja de esa misma madrugada. El forcejeo en el agua y el cargarla existen igual, pero con reconocimiento mínimo del costado — no round de boxeo, y Kal lo minimiza como es su costumbre en vez de evitarlo.
+- FÍSICO DE KAL: sigue con las costillas y la ceja de la paliza del día anterior. El forcejeo en el agua y el cargarla existen igual, pero con reconocimiento mínimo del costado — no round de boxeo, y Kal lo minimiza como es su costumbre en vez de evitarlo.
 - CHIARA APRENDE A PESCAR: nunca ha ido; Kal le enseña con su propia caña, falla el primer lanzamiento, lo logra al tercero. Sigue siendo competente — sólo es terreno nuevo.
 - PESCA: marcador disputado, discusión juguetona, sin ganador incontestable — PENDING.md sigue marcando el ganador como decisión del autor.
 - AGUA: Kal la carga, amenaza con tirarla — rima físicamente con H12 (el atentado) SIN que ni narrador ni personajes lo mencionen jamás. Nuevo intercambio: "Si me sueltas, me muero." / "Sí, como los gatos." / "Peor, yo araño y muerdo." / "Kal Mercer, no vayas a soltarme." — juego, no peligro real; Chiara no corre riesgo de ahogarse, la frase es coqueteo puro.
 - ATARDECER: formación de roca junto al lago, sin fijar geografía exacta. No confesionario: pueden hablar pero sin declaración de amor, trauma nuevo, exposición, planes de vida ni "qué somos". **AJUSTE (2026-09-17, a pedido explícito del autor):** después de "Gracias por traerme / Gracias por venir" hay un beso breve — el segundo del libro, sin torpeza (a diferencia del primero, en H11/el mirador) — mostrado sin glosa de narrador, que siembra sensorialmente la palabra "casa" (a Chiara "le supo... a algo parecido a estar en casa") para que rime con la última línea. No dispara declaración, no nombra la relación, no abre la pregunta "qué somos" — el silencio posterior se mantiene igual que antes.
 - ESTADO DE LA RELACIÓN EN H7: se comportan como pareja sin etiqueta. NO existen todavía: H21 ("mi pareja"), ritual del Ciao, H16 (mudanza oficial — Chiara tiene acceso informal al loft, nada más), la vela, el collar.
-- CIERRE (ampliado 2026-09-17, encargo del autor): "— Vamos a casa." ya NO es la última línea del capítulo — sigue una coda doméstica breve, la verdadera última escena de la Parte II. Kal la dice, con naturalidad absoluta, de vuelta en el coche; peso nuevo (no verbalizado): esa misma madrugada había planteado parar lo que construían, y horas después "casa" empieza a incluirlos a los dos sin que ninguno lo nombre.
-- CODA DEL SILLÓN (nueva, 2026-09-17): ya en el loft, discusión doméstica ligera y sin consecuencia sobre un sillón que Kal movió — comedia de pareja, no conflicto real; ninguno cede del todo, terminan riéndose de la propia discusión ("—No era una orden. —Sonó como una.", eco intencional del Cap. 29, ahora sin peso). Nadir, vecino del edificio contiguo, los interrumpe a gritos desde su balcón y llama a Chiara "señora Mercer" en broma; ninguno de los dos lo confirma ni lo desmiente, ninguno de los dos se incomoda — la misma regla del "novia" del teléfono, ahora sin necesitar el chiste de la llamada cortada. Cierra con los dos subiendo a dormir (compatible con la ficha de [[05_Locations/La_Casa]]: Chiara todavía no vive oficialmente ahí —eso es H16, posterior— pero sí puede "pasar tiempo, cenar, dormir alguna noche"; no se afirma mudanza ni rutina fija) y la última luz del loft apagándose. Sin beso nuevo, sin sexo, sin declaración — la escena hace el trabajo por conducta y humor, no por discurso. DETENER LA PROSA ahí: sin reflexión, sin glosa, sin anticipación de H1, el collar o H16.
+- CIERRE (ampliado 2026-09-17, encargo del autor): "— Vamos a casa." ya NO es la última línea del capítulo — sigue una coda doméstica breve, la última escena del arco H5–H7. Kal la dice, con naturalidad absoluta, de vuelta en el coche; peso nuevo (no verbalizado): esa misma madrugada había planteado parar lo que construían, y horas después "casa" empieza a incluirlos a los dos sin que ninguno lo nombre.
+- CODA DEL SILLÓN (nueva, 2026-09-17): ya en el loft, discusión doméstica ligera y sin consecuencia sobre un sillón que Kal movió — comedia de pareja, no conflicto real; ninguno cede del todo, terminan riéndose de la propia discusión ("—No era una orden. —Sonó como una.", eco intencional del Cap. 28, ahora sin peso). Nadir, vecino del edificio contiguo, los interrumpe a gritos desde su balcón y llama a Chiara "señora Mercer" en broma; ninguno de los dos lo confirma ni lo desmiente, ninguno de los dos se incomoda — la misma regla del "novia" del teléfono, ahora sin necesitar el chiste de la llamada cortada. Cierra con los dos subiendo a dormir (compatible con la ficha de [[05_Locations/La_Casa]]: Chiara todavía no vive oficialmente ahí —eso es H16, posterior— pero sí puede "pasar tiempo, cenar, dormir alguna noche"; no se afirma mudanza ni rutina fija) y la última luz del loft apagándose. Sin beso nuevo, sin sexo, sin declaración — la escena hace el trabajo por conducta y humor, no por discurso. DETENER LA PROSA ahí: sin reflexión, sin glosa, sin anticipación de H1, el collar o H16.
 Continuidad:
 - Registro privado todavía en semilla (pre-H16): calidez de conducta, italiano suelto de ella, sin apodos plenos, sin ritual del Ciao.
-- VEHÍCULOS: Kal conduce el Audi todo el capítulo (ida y vuelta). Chiara llega y se va con él — su Lancia se queda en el Monarch, nunca llega al lago. Sin Peugeot.
+- VEHÍCULOS: Kal conduce el Audi todo el capítulo (ida y vuelta). Chiara llega y se va con él — su Lancia se queda en el Monarch, nunca llega al lago. Sin Peugeot: el Peugeot se queda en el taller (Cap. 30).
 - INSERCIÓN BORRADOR (2026-09-26, Claude Code, decisión del autor sobre la quinta tanda de [[13_Auditorias/Book_01_Seda_y_Polvora/Evaluacion_Arco_Libro_I]]): beat de fe en la parrilla de Héctor, entre la pesca y "Kal la sacó del grupo". Chiara se persigna; Nadir dice *bismillah*; Kal bromea ("Pídele que te cuente bien los peces") y ella contesta "A Dios no se le piden esas cosas"; Kal deja el tenedor quieto hasta que ella termina. Contrapunto de Alessio: Kal puede bromear con su fe, nunca la usa ni la desprecia ([[04_Concepts/Fe_y_Velas]]). Sin glosa: no se menciona que esa mañana (Cap. 28) ella rezó por él. Pendiente de revisión del autor.
 -->
 
@@ -54,7 +54,7 @@ Colgó antes de que ella pudiera pedirle más, y Chiara se quedó mirando el tel
 
 Debía haber bajado hacía veinte minutos. No bajó.
 
-Para cuando Kal se cansó de esperar en el estacionamiento y subió al penthouse sin que nadie tuviera que abrirle, el vestidor parecía el después de un desastre bien intencionado: una blusa de seda sobre la cama, descartada; dos vestidos colgados en ganchos improvisados en la puerta del clóset, como si hubieran estado a punto de ganar y hubieran perdido en el último segundo; dos pares de sandalias en el suelo, ninguno elegido. Chiara estaba de pie frente al espejo con un short de mezclilla puesto y otra blusa colgando de la mano sin decidirse, con una expresión que Kal no le había visto nunca: la de una mujer que sabía sentarse a negociar con Dario Varek y no tenía la menor idea de qué se usaba para ir a pescar.
+Para cuando Kal se cansó de esperar en el estacionamiento y subió al penthouse sin que nadie tuviera que abrirle, el vestidor parecía el después de un desastre bien intencionado: una blusa de seda sobre la cama, descartada; dos vestidos colgados en ganchos improvisados en la puerta del clóset, como si hubieran estado a punto de ganar y hubieran perdido en el último segundo; dos pares de sandalias en el suelo, ninguno elegido. Chiara estaba de pie frente al espejo con un short de mezclilla puesto y otra blusa colgando de la mano sin decidirse. Sabía sentarse a negociar con Dario Varek. No tenía la menor idea de qué se usaba para ir a pescar.
 
 Kal se detuvo en la puerta. Se aclaró la garganta.
 
@@ -74,13 +74,13 @@ Cruzó el cuarto sin pedir permiso, descartó dos prendas con la mano casi sin m
 
 —Con esto —dijo, juntando blusa y botas con la mirada—. Voilà.
 
-Lo dijo mal, con ese francés torcido que sólo le salía cuando estaba orgulloso de algo, y a Chiara le costó un segundo entender que Kal Mercer, que esa misma mañana había negociado con Dario Varek, acababa de vestirla para ir a pescar con la misma seriedad con la que hubiera cerrado un trato.
+Lo dijo mal, con ese francés torcido que sólo le salía cuando estaba orgulloso de algo, y a Chiara le costó un segundo entender que Kal Mercer acababa de vestirla para ir a pescar con la misma seriedad con la que hubiera cerrado un trato.
 
 —¿Estás decidiendo mi ropa?
 
 —Estoy decidiendo tu ropa.
 
-Lo miró un momento más, sin moverse, y después hizo lo único que tenía sentido: se puso la blusa, se sentó en el borde de la cama a abrocharse las botas, y no dijo nada más sobre el asunto. Confiar en que un hombre eligiera bien su ropa era una cosa nueva. Confiar en éste, en particular, no lo era.
+Lo miró un momento más, sin moverse, y después hizo lo único que tenía sentido: se puso la blusa, se sentó en el borde de la cama a abrocharse las botas, pasó el teléfono, las llaves y la Beretta .25 del bolso del trabajo a uno de lona, y no dijo nada más sobre el asunto. Confiar en que un hombre eligiera bien su ropa era una cosa nueva. Confiar en éste, en particular, no lo era.
 
 ***
 
@@ -88,15 +88,11 @@ Bajaron juntos. El Audi los sacó del Monarch hacia una tarde que no se parecía
 
 —¿Cómo se lo tomó Nadir? —preguntó Chiara, ya en la carretera, con el codo apoyado en el borde de la ventanilla.
 
-—Al principio, nada bien. —Kal no lo dulcificó—. Se enojó. Tenía razón en enojarse. Después hizo las preguntas que había que hacer, y después empezó a bromear, que en él es la manera de decir que ya está bien.
-
-—¿Y los demás?
-
-—Ninguno salió corriendo. Walt ya está pensando qué cambia puertas adentro del taller. Danny me preguntó cómo pienso salir de Camp Alder, y no tuve una buena respuesta. Héctor preguntó por el sedán.
+—Mal. Tenía razón en enojarse. —Kal no lo dulcificó—. Después empezó a bromear. Danny me preguntó cómo pienso salir de Camp Alder, y no tuve una buena respuesta.
 
 —¿Y la pesca?
 
-—Idea de Nadir. En cuanto entendió que no había nada más que hacer esa tarde ni con Halbrook ni con Varek, decidió que lo único responsable era ir a pescar.
+—Idea de Nadir.
 
 Chiara sonrió, mirando pasar el paisaje. No hizo más preguntas. La mañana seria ya había terminado.
 
@@ -150,7 +146,7 @@ Hubo un silencio del otro lado, exactamente un segundo más largo de lo necesari
 
 —Oh. ¿Van? —La voz de Nadir cambió de textura, la de alguien que acaba de encontrar una moneda en la calle—. Vas con tu novia, ¿verdad que sí?
 
-Kal no dijo que sí. No dijo que no. Por primera vez en mucho tiempo no sintió la urgencia de corregir la palabra, y tampoco estaba listo para quedarse con ella.
+Kal no dijo que sí. No dijo que no.
 
 —Estoy pasando por un puente —dijo, con una seriedad completamente falsa—. Se... corta...
 
@@ -160,7 +156,7 @@ Kal no dijo que sí. No dijo que no. Por primera vez en mucho tiempo no sintió 
 
 Colgó.
 
-El coche se quedó en silencio un momento. Chiara lo miró. Kal la miró a ella. Fue ella quien se rió primero, y él la siguió, y por un rato ninguno de los dos dijo nada más sobre el tema, porque ya no hacía falta.
+El coche se quedó en silencio un momento. Chiara lo miró. Kal la miró a ella. Fue ella quien se rió primero, y él la siguió, y por un rato ninguno de los dos dijo nada más sobre el tema.
 
 ***
 
@@ -172,13 +168,13 @@ Harper estaba sentada en el capó de una camioneta que no era suya, con las bota
 
 —Lo siento.
 
-Ella no contestó eso. Se bajó del capó sin prisa y caminó hacia las cañas, y el asunto, evidentemente, quedaba cerrado ahí — no porque lo hubiera perdonado, sino porque ya había decidido no gastar más palabras en algo que no iba a cambiar.
+Ella no contestó eso. Se bajó del capó sin prisa y caminó hacia las cañas.
 
-Miró a Chiara un momento, sin la curiosidad abierta con la que la habían mirado los demás: una evaluación rápida, cerrada, del tipo que hace alguien acostumbrada a medir a la gente por lo que hace y no por lo que dice.
+Miró a Chiara un momento: una evaluación rápida, cerrada, del tipo que hace alguien acostumbrada a medir a la gente por lo que hace y no por lo que dice.
 
 —Bellandi. —No sonrió. No hacía falta que sonriera para que no sonara hostil—. Kal habla de ti más de lo que cree que habla de ti.
 
-Lo dijo sin intención de incomodar a nadie, como quien reporta un dato, y volvió a lo suyo antes de que a Chiara le diera tiempo de contestar.
+Volvió a lo suyo antes de que a Chiara le diera tiempo de contestar.
 
 Nadir la vio de reojo, sonrió, y levantó la mano hacia Chiara con esa facilidad que no le costaba nada.
 
@@ -208,11 +204,11 @@ Héctor estaba sentado en una silla plegable con una gorra vieja calada hasta la
 
 Walt estaba un poco apartado, cerca de una hielera propia con etiquetas escritas a mano, y cuando la vio llegar la miró un momento más largo de lo que hacía falta para un saludo, con esa atención suya de quien está haciendo una cuenta. Después asintió, una sola vez, y volvió a lo que estaba haciendo — acomodar botellas, comprobar que el hielo aguantara el día —, sin decir nada más.
 
-Chiara no necesitó que dijera nada más. Entendió exactamente lo que ese asentimiento significaba, y siguió caminando hacia la orilla.
+Chiara siguió caminando hacia la orilla.
 
 ***
 
-Kal estaba metido hasta las rodillas en el agua, con una caña en una mano y la otra haciendo de visera contra el sol, y cuando la vio llegar no fue hacia ella. La dejó llegar a él, que era su manera de decir que ese día no tenía prisa por nada.
+Kal estaba metido hasta las rodillas en el agua, con una caña en una mano y la otra haciendo de visera contra el sol, y cuando la vio llegar no fue hacia ella. La dejó llegar a él.
 
 —Llegaste —dijo.
 
@@ -240,7 +236,7 @@ Chiara, con tres peces propios que a esas alturas ya nadie recordaba bien cómo 
 
 —Yo no juzgo nada. Yo como lo que agarren.
 
-Para cuando el sol empezó a bajar, el marcador seguía tan disputado como al principio, con Danny acusando a Nadir de contar dos veces el mismo pez y Nadir jurando por su madre que no, y nadie —ni siquiera Chiara, que en cualquier otro terreno hubiera cerrado la discusión en diez segundos con una versión que todos aceptaran— tuvo ningún interés real en resolverlo. La discusión, entendió, era el punto. Resolverla la hubiera matado.
+Para cuando el sol empezó a bajar, el marcador seguía tan disputado como al principio, con Danny acusando a Nadir de contar dos veces el mismo pez y Nadir jurando por su madre que no, y nadie —ni siquiera Chiara, que en cualquier otro terreno hubiera cerrado la discusión en diez segundos con una versión que todos aceptaran— tuvo ningún interés real en resolverlo. La discusión, entendió, era el punto.
 
 ***
 
@@ -258,7 +254,7 @@ Del otro lado de la parrilla, Danny ya iba por el segundo pescado.
 
 ***
 
-Kal la sacó del grupo casi sin que ella lo notara, con la excusa de mostrarle un recodo del lago donde el agua estaba más tranquila, y cuando ya estaban lo bastante lejos como para que las voces de los demás llegaran sueltas y sin palabras, la levantó del agua sin avisar, un brazo bajo las rodillas y otro en la espalda, con el agua chorreándole de la ropa. Algo le tiró del costado al hacerlo — las costillas todavía le cobraban esa clase de cosas — y lo dejó pasar sin que se le notara en la cara, como dejaba pasar todo lo demás.
+Kal la sacó del grupo casi sin que ella lo notara, con la excusa de mostrarle un recodo del lago donde el agua estaba más tranquila, y cuando ya estaban lo bastante lejos como para que las voces de los demás llegaran sueltas y sin palabras, la levantó del agua sin avisar, un brazo bajo las rodillas y otro en la espalda, con el agua chorreándole de la ropa. Algo le tiró del costado al hacerlo — las costillas todavía le cobraban esa clase de cosas —. Chiara lo sintió en el brazo que la sostenía, y en la cara de él no se vio nada.
 
 Chiara se aferró a su cuello con las dos manos.
 
@@ -314,13 +310,13 @@ El cielo empezó a ponerse de un color que ninguno de los dos comentó.
 
 Se quedaron viendo el agua. No había nada que resolver ahí arriba, ninguna versión que armar, ningún dato que direccionar, y Chiara notó, sin decirlo, que la quietud no le pesaba como otras veces le había pesado la quietud. Kal tenía el brazo apoyado detrás de ella, no encima, cerca, y en algún momento sin que ninguno lo decidiera del todo, ella terminó con la cabeza apoyada en su hombro y él dejó que se quedara ahí.
 
-—Gracias por traerme —dijo Chiara, al rato.
+Chiara tomó aire para decir algo y lo soltó.
+
+—Gracias por traerme.
 
 —Gracias por venir.
 
 Ella levantó la cabeza de su hombro lo justo para mirarlo, y Kal ya la estaba mirando a ella. Esta vez no hubo torpeza ninguna — no como la primera, en el mirador, cuando ninguno de los dos sabía todavía qué estaba permitido —; fue corto, tranquilo, sin nada que demostrar ni que apurar, y a Chiara le supo, sin poder explicarse por qué, a algo parecido a estar en casa.
-
-Ningún nombre nuevo para lo que eran, ninguna pregunta sobre qué venía después, ninguna cuenta pendiente del galpón ni de la mansión ni de nada que no fuera el sol cayendo despacio detrás de un lago que no le pertenecía a ninguno de los dos y que por una tarde les había servido igual a los dos.
 
 ***
 
@@ -340,7 +336,7 @@ Kal dobló hacia el barrio sin que ella tuviera que decirle la dirección.
 
 —Estoy agotada —dijo Chiara, con la cabeza contra el vidrio, medio dormida ya.
 
-Kal no contestó enseguida. Bajó una calle, dobló otra, y cuando el loft ya se veía al final de la cuadra, con la luz del porche que alguien —Walt, probablemente— había dejado encendida, dijo, sin ningún peso especial en la voz, como quien dice cualquier otra cosa después de un día largo:
+Kal no contestó enseguida. Bajó una calle, dobló otra, y cuando el loft ya se veía al final de la cuadra, con la luz del porche que alguien —Walt, probablemente— había dejado encendida, dijo, sin ningún peso especial en la voz:
 
 —Vamos a casa.
 
@@ -404,7 +400,7 @@ Chiara cerró los ojos un segundo.
 
 Había negociado con Dario Varek esa misma mañana. Había administrado hombres que movían millones de dólares sin pestañear. Había conseguido que arquitectos cambiaran planos enteros con una sola llamada.
 
-Y ahí estaba, mojada, cansada, discutiendo con Kal Mercer por nueve pulgadas de sillón.
+Y ahí estaba, mojada, cansada, discutiendo con Kal Mercer por medio metro de sillón.
 
 —Va aquí —dijo, agarrando un extremo.
 

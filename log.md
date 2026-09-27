@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-09-27 — [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II|Parte II (Caps. 26–34) auditada y operada en nueve etapas: cronología 26–31 en unas 24 horas, poda del 30 (pacto, no plan de caída), Beretta .25 en el 31, housekeeping; escena de Irene en el 32 (Nadir sale de la mercancía, Kal acepta un favor abierto), BORRADOR/DISEÑO]].
 - 2026-09-27 — [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_08_18-24_Lote_B|Caps. 8 y 18–24 auditados y operados (Prioridad C, lote B, cinco etapas): prolepsis fuera en 18, 22 y 24; Camp Alder en el 8; rima 24↔44 y cheque de Matteo en el 23; escena nueva de la moto de Nadir en el 23 (BORRADOR, líneas canon textuales); poda neta −275; saldo ≈ +970 para Irene en el 32]].
 - 2026-09-27 — [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_04-13_Lote_A|Caps. 4, 6, 7, 11 y 13 auditados y operados (Prioridad C, lote A): fuera la camiseta del 11 (cronología), Willy del 7 y cuatro prolepsis; 6:323 alineado con H2-b; Fabrizio sembrado en el 11; −738 palabras; pendientes resueltos: Héctor en boca de Chiara, taxi conservado (nota en H3), Villani vía Garrett]].
 - 2026-09-26 — Continuidad Cap. 36 ↔ Cap. 10: la botella de H16 se esconde la noche anterior en el doble fondo (compartimiento bajo el piso al fondo de la planta baja, no un cuarto; tablón suelto), junto a la caja de acero; la cajita de la llave ya no se menciona en la apertura. Arrastre a [[06_Relationships/Hitos]] H16 y [[05_Locations/La_Casa]].

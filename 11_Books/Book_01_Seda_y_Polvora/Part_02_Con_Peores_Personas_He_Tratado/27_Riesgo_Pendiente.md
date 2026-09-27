@@ -1,24 +1,24 @@
 <!--
-Estado: BORRADOR — segundo capítulo de la Parte II (La Construcción). Pendiente de revisión del autor.
+Estado: BORRADOR — segundo capítulo de la Parte II (*Con peores personas he tratado*). Pendiente de revisión del autor. Cirugía editorial E5 (2026-09-27, [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II]] §9): cronología fija de ~24 h, POV y glosas; sigue BORRADOR.
 Protagonistas: Kal Mercer (POV único). Apariciones: Warren Halbrook; dos contratistas sin nombre.
-Ventana temporal: los mismos ~2-3 días que cubre el Cap. 26 desde el lado de Chiara, en paralelo. Arranca de madrugada, después de la noche del jacuzzi (Cap. 25) y la advertencia de Varek; Kal recibe la llamada mientras Chiara duerme. Termina al amanecer del día en que vuelve a San Aurelio — enganche directo con el Cap. 28 (H6).
+Ventana temporal: el mismo día que cubre el Cap. 26 (unas 24 horas) desde el lado de Chiara, en paralelo. Arranca de madrugada, después de la noche del jacuzzi (Cap. 25) y la advertencia de Varek; Kal recibe la llamada mientras Chiara duerme. Termina al amanecer del día en que vuelve a San Aurelio — enganche directo con el Cap. 28 (H6).
 Lugares: El Penthouse del Monarch (madrugada); la carretera al noreste; una instalación federal clausurada fuera de San Aurelio (deliberadamente sin ubicar — "cuatro horas al noreste", un hangar, oficinas con mobiliario de gobierno).
 Función: CANON DEL AUTOR, H5 — lado de Kal (secciones 12 y ss. de [[06_Relationships/Hitos#H5 — San Aurelio]] desde su POV). Cierra el pendiente de balance de POV (una escena con Kal del lado militar/criminal de su vida, sin Chiara como filtro — PENDING #11).
 - Halbrook convoca a Kal y lo saca de la ciudad para reimponerle la correa: vuelve a trabajar para él o reporta a Nadir a ICE (el problema de Nadir es un papel). Primera vez que Halbrook tira de la correa en el presente de la novela; precedente de Camp Alder (H19).
 - Halbrook se escribe como hombre funcional que convirtió el tráfico en logística: papeleo en orden, trato administrativo, trata a Kal como "gestión de un riesgo pendiente". NO psicópata que disfruta. Su versión: Kal "desertó, saboteó una operación y sabe demasiado".
 - Kal vuelve "golpeado y malherido" (H6 §1): NO de manos de Halbrook — dos contratistas, medido, "un recordatorio, no un castigo". Kal lo baja de categoría (ficha de voz) y lo cataloga como información.
-- Los dos mensajes de texto son canon fijo (ya citados en Cap. 27): a Walt ("Cuida el barrio. Si Chiara necesita algo, ayúdala sin chistar.") y a Chiara ("Salí de la ciudad por una situación externa. Me encuentro bien. Te veo al volver."). Enviados 5:40 / 5:30. Aquí se ve redactarlos, y los borradores que no manda.
+- Los dos mensajes de texto son canon fijo (ya citados en Cap. 26): a Walt ("Cuida el barrio. Si Chiara necesita algo, ayúdala sin chistar.") y a Chiara ("Salí de la ciudad por una situación externa. Me encuentro bien. Te veo al volver."). Enviados 5:40 / 5:30. Aquí se ve redactarlos, y los borradores que no manda.
 - IRONÍA CANON: Kal decide, en el camino de vuelta, no darle a Chiara ningún nombre — protege el hilo Halbrook/Nadir/convoy. Sabe que ella puede temer que fue Varek y no lo corrige.
-- SIEMBRA NUEVA (2026-09-16): antes de la convocatoria de Halbrook, su aparato ya tiene vigilancia pasiva sobre Nadir/El Patio — mapeo, no acción. Sembrada como un sedán oscuro que Walt le menciona a Kal, visto dos tardes distintas cerca del taller, sin matrícula; nunca nombrado como vigilancia. Kal lo archiva como rareza menor, contribuye sin que él lo note a que escriba "Cuida el barrio", y le vuelve medio segundo (sin resolverse) cuando Halbrook muestra el expediente de Nadir. Varek no tiene relación con esta vigilancia y no lo sabe. Prepara el Cap. 29 (Chiara detectará indicios reales de vigilancia y los atribuirá a Varek; en realidad son de Halbrook) y la relectura retrospectiva tras el Cap. 31 (nombre Halbrook revelado a Chiara). No resolver la autoría del sedán en este capítulo.
+- SIEMBRA NUEVA (2026-09-16): antes de la convocatoria de Halbrook, su aparato ya tiene vigilancia pasiva sobre Nadir/El Patio — mapeo, no acción. Sembrada como un sedán oscuro que Walt le menciona a Kal, visto dos tardes distintas cerca del taller, sin matrícula; nunca nombrado como vigilancia. Kal lo archiva como rareza menor, contribuye sin que él lo note a que escriba "Cuida el barrio", y le vuelve medio segundo (sin resolverse) cuando Halbrook muestra el expediente de Nadir. Varek no tiene relación con esta vigilancia y no lo sabe. Prepara el Cap. 28 (Chiara detectará indicios reales de vigilancia y los atribuirá a Varek; en realidad son de Halbrook) y la relectura retrospectiva tras el Cap. 30 (nombre Halbrook revelado a Chiara). No resolver la autoría del sedán en este capítulo.
 NO resolver (pendientes del autor / arco reservado):
-- en qué teatro y años sirvió Kal; qué pasó exactamente en la última operación (el lector ya tiene la versión de Kal desde el Cap. 26: parabrisas, niño, prisión — aquí sólo aparece la versión de Halbrook, oblicua);
+- en qué teatro y años sirvió Kal; qué pasó exactamente en la última operación (el lector ya tiene la versión de Kal desde el Cap. 25: parabrisas, niño, prisión — aquí sólo aparece la versión de Halbrook, oblicua);
 - si Halbrook sabe en qué se ha convertido Kal en San Aurelio;
 - qué gana Halbrook exactamente con que Kal vuelva; si tiene relación directa con Varek;
 - el mecanismo jurídico de todo esto.
 La prosa sostiene el hueco; no lo esconde.
 Continuidad:
-- El borrador *"no es Varek"* se apoya en la siembra del Cap. 26 (DISEÑO 2026-09-10): Dario le dijo a Kal junto a la cama del hospital, al bajar las armas (H12), que lo de Chiara lo arreglaba él y que Kal "no tenía vela ahí. Ni en eso ni en ti". **Actualizado 2026-09-26 (autor):** la frase canon es ahora "La tregua es por lo que le pasó, señor Mercer. No por ella."; la cita de la l. 62 ya se ajustó. Kal lo minimizó; Chiara no. Aquí Kal sabe que ella pensará en Varek (es lo que tiene a la vista) pero a él Varek no le quita el sueño — el peso real es Halbrook, y ése no lo puede nombrar. Si el autor cambia o retira la siembra del 26, revisar este párrafo.
-- Halbrook NO pisa San Aurelio todavía (su llegada física es la coda que cierra el Libro I). La reunión es fuera de la ciudad.
+- El borrador *"no es Varek"* se apoya en la siembra de la Parte I (H12; DISEÑO 2026-09-10): Dario le dijo a Kal junto a la cama del hospital, al bajar las armas (H12), que lo de Chiara lo arreglaba él y que Kal "no tenía vela ahí. Ni en eso ni en ti". **Actualizado 2026-09-26 (autor):** la frase canon es ahora "La tregua es por lo que le pasó, señor Mercer. No por ella."; la cita de la l. 62 ya se ajustó. **E5 (2026-09-27):** el razonamiento *ella va a pensar en Varek* se retiró de la l. 62 por repetir la decisión del camino de vuelta; con él salió el eco *no por ella*, que sigue vivo en el 25. Kal lo minimizó; Chiara no. Aquí Kal sabe que ella pensará en Varek (es lo que tiene a la vista) pero a él Varek no le quita el sueño — el peso real es Halbrook, y ése no lo puede nombrar. Si el autor cambia o retira la siembra del 26, revisar este párrafo.
+- Halbrook NO pisa San Aurelio todavía (su llegada física es la coda que cierra el Libro II, *Sombras de Poder*). La reunión es fuera de la ciudad.
 - Kal y Chiara se tutean desde el Cap. 7. En este punto el registro privado está en semilla (pre-H16): sin apodos plenos, sin ritual del Ciao.
 - "Conduce él, siempre": aquí es lo único que puede hacer.
 -->
@@ -59,13 +59,13 @@ Sin buscarlo le volvió el sedán oscuro que Walt le había mencionado dos tarde
 
 El de Chiara le llevó más.
 
-Escribió *volví a tener trabajo con gente de antes* y lo borró porque era darle un hilo. Escribió *no es Varek* y se detuvo con el pulgar encima. Ella iba a pensar en Varek —era lo que tenía delante: la frase de Dario junto a la cama del hospital, *no por ella*, y la manera nueva en que la miraba en el piso de juego—. A Kal, Varek no le quitaba el sueño; ya habían estado los dos en un cuarto con las armas fuera y habían salido caminando. El peso de verdad iba cuatro horas más adelante por la carretera, y ése no lo podía escribir. Así que *no es Varek* también sobraba: la calmaba con una media verdad por un lado y la empujaba a mirar hacia arriba por el otro, y ella iba a tirar del hilo que fuera. Lo borró. Escribió *te lo explico cuando vuelva* y lo dejó ahí un rato largo, con el pulgar sobre la pantalla, porque era mentira. No se lo iba a explicar cuando volviera. Había cosas que si ella las sabía dejaban de ser un peso de él para pasar a ser un peso de los dos, y el trato entero de Kal con el mundo consistía en no repartir esos pesos.
+Escribió *volví a tener trabajo con gente de antes* y lo borró porque era darle un hilo. Escribió *no es Varek* y se detuvo con el pulgar encima. El peso de verdad iba cuatro horas más adelante por la carretera, y ése no lo podía escribir. Así que *no es Varek* también sobraba: la calmaba con una media verdad por un lado y la empujaba a mirar hacia arriba por el otro, y ella iba a tirar del hilo que fuera. Lo borró. Escribió *te lo explico cuando vuelva* y lo dejó ahí un rato largo, con el pulgar sobre la pantalla, porque era mentira. No se lo iba a explicar cuando volviera. Había cosas que si ella las sabía dejaban de ser un peso de él para pasar a ser un peso de los dos, y el trato entero de Kal con el mundo consistía en no repartir esos pesos.
 
 Al final mandó lo único que era verdad sin ser un mapa.
 
 *Salí de la ciudad por una situación externa. Me encuentro bien. Te veo al volver.*
 
-Cinco y cuarenta. Lo vio salir con la marca de la hora y supo, en el mismo segundo, cómo lo iba a leer ella. *Me encuentro bien* era una respuesta, y él le estaba respondiendo algo que ella todavía no había preguntado. Chiara iba a oír eso antes que las palabras. Iba a saber que él había calculado el susto y había salido a cortarlo por delante.
+Cinco y cuarenta. Lo vio salir con la marca de la hora y supo, en el mismo segundo, cómo lo iba a leer ella. *Me encuentro bien* era una respuesta, y él le estaba respondiendo algo que ella todavía no había preguntado.
 
 Lo mandó igual. La alternativa era el silencio, y el silencio con ella era peor: el silencio lo llenaba ella sola, y lo llenaba siempre con la peor versión.
 
@@ -127,25 +127,25 @@ La mandíbula se le tensó a Kal un segundo. El mismo segundo de siempre. Se le 
 
 En el marco se cruzó con los dos hombres que entraban. Ropa de civil, la misma que los de afuera. Ninguno de los dos tenía cara de nada.
 
-—No les pedí que fueran innecesarios —les dijo Halbrook al pasar, sin detenerse—. Le pedí que quede claro en qué punto estamos. No es un castigo. Es un recordatorio. —Y a Kal, ya de espaldas, del pasillo—: Maneje con cuidado a la vuelta. Le va a doler el costado en las curvas.
+—No les pedí que fueran innecesarios —les dijo Halbrook al pasar, sin detenerse—. Les pedí que quedara claro en qué punto estamos. No es un castigo. Es un recordatorio. —Y a Kal, ya de espaldas, del pasillo—: Maneje con cuidado a la vuelta. Le va a doler el costado en las curvas.
 
 ***
 
 Fue rápido y fue ordenado, como todo lo demás en ese edificio. Uno le sostuvo el brazo detrás de la silla y el otro trabajó el torso, sin rabia, contando por lo bajo, parando cuando llegaba al número. Un labio. Dos costillas que iban a quejarse un mes. Una ceja que sangró más de lo que valía.
 
-Kal no forcejeó después del primer segundo, cuando entendió que forcejear alargaba la cuenta. Se quedó quieto y respiró como le habían enseñado hace mil años a respirar para esto, y mientras tanto hizo lo único útil que se podía hacer: los miró trabajar. Cómo se paraban. Cuál llevaba el ritmo. Que el de la izquierda cuidaba la mano derecha, vieja lesión, la usaba menos. Que ninguno de los dos disfrutaba y ninguno de los dos iba a dudar. Lo archivó entero. No eran matones de esquina ni caras que hubiera visto rondando a la gente de Varek: tenían el mismo desgano funcional de los que le habían guardado el teléfono en la entrada, gente de paso que hacía encargos chicos dentro de algo más grande y no dejaba nombre. Era gente con la que iba a volver a tratar, y de la gente con la que uno vuelve a tratar conviene saberlo todo.
+Kal no forcejeó después del primer segundo, cuando entendió que forcejear alargaba la cuenta. Se quedó quieto y respiró como le habían enseñado hace mil años a respirar para esto, y mientras tanto hizo lo único útil que se podía hacer: los miró trabajar. Cómo se paraban. Cuál llevaba el ritmo. Que el de la izquierda cuidaba la mano derecha, vieja lesión, la usaba menos. Que ninguno de los dos disfrutaba y ninguno de los dos iba a dudar. Lo archivó entero. No eran matones de esquina ni caras que hubiera visto rondando a la gente de Varek: tenían el mismo desgano funcional de los que le habían guardado el teléfono en la entrada, gente de paso que hacía encargos chicos dentro de algo más grande y no dejaba nombre. De la gente con la que uno vuelve a tratar conviene saberlo todo.
 
 Cuando terminaron, uno le devolvió el teléfono en su bolsa con cierre y el otro le alcanzó una toalla de papel para la ceja, y le dijo, casi amable, que había una máquina de agua al final del pasillo.
 
 ***
 
-Salió con las últimas luces y manejó toda la noche.
+Lo soltaron ya de noche y manejó hasta el amanecer.
 
 El costado le dolía en las curvas, tal como el hombre había dicho, con una precisión que era su propia forma de firmar. Kal tomó las curvas despacio y respiró corto y no encendió la radio. Tenía cuatro horas de recta para decidir una sola cosa, que era qué le iba a llevar a Chiara.
 
 La verdad no. La verdad tenía un nombre, y el nombre venía atado a otro nombre —Nadir— y a una tercera cosa más vieja que ninguno de los dos, y si ella tiraba de cualquiera de las puntas se le venía encima el ovillo completo. Chiara con un ovillo en la mano no lo soltaba. Lo desarmaba. Y desarmándolo se metía en el mismo cuarto donde acababan de contarle a Kal en qué punto estaba.
 
-Ella iba a pensar en Varek. Kal lo sabía. Después de lo que Varek le había dicho de madrugada —eso Kal no lo sabía con detalle, pero lo intuía por cómo había amanecido ella, midiendo el aire—, Chiara iba a juntar su mensaje raro con la amenaza de Varek y iba a llegar a la respuesta equivocada. Y él iba a dejarla ahí. Iba a dejar que persiguiera al hombre de al lado para que no mirara al de arriba.
+Ella iba a pensar en Varek. Kal lo sabía. Después de lo que Varek le había dicho de madrugada —eso Kal no lo sabía con detalle, pero lo intuía por cómo había subido ella, midiendo el aire—, Chiara iba a juntar su mensaje raro con la amenaza de Varek y iba a llegar a la respuesta equivocada. Y él iba a dejarla ahí. Iba a dejar que persiguiera al hombre de al lado para que no mirara al de arriba.
 
 No le gustó. Lo hizo lo mismo. Era el trato de siempre, sólo que esta vez le tocaba a ella pagar la parte de andar a ciegas.
 

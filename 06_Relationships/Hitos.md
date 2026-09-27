@@ -1618,6 +1618,8 @@ Y por el camino Kal encuentra el modo de salvar también a Nadir.
 
 **Kal ofrece trabajar para Varek, como parte de la organización.** A cambio: **seguridad para Chiara.**
 
+> **Mecánica vigente en prosa (nota 2026-09-27, housekeeping de la auditoría de la Parte II, [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II]]):** en el [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/29_El_Patio_Ajeno|Cap. 29]] Kal **no pide** trabajar para Varek: lo conduce a **ofrecerle una silla** y se queda con ella; la cobertura para su gente y la protección indirecta para Chiara llegan sin pedirse en esos términos. El dictamen de la Parte II lo respalda ("fundamental para *Sombras de Poder*"). El párrafo de arriba se conserva como formulación original del hito; **decisión del autor pendiente** sobre si reescribirlo.
+
 Y trae con qué pagarlo — **el medio para conseguir lo que Halbrook maneja**: una **entrada a [[05_Locations/Camp_Alder]]**, el complejo militar donde los civiles no tienen acceso, para sacar armas y venderlas en la ciudad. **Armamento largo**, que a Varek le sirve.
 
 > **Continuidad (2026-08-29):** esta promesa **se cobra en [[#H19 — El asalto a Camp Alder]]**, y en la misma operación: allí Varek abre la ventana de entrada a la base y Kal le paga con las armas largas robadas. No es un evento aparte.
@@ -1657,6 +1659,8 @@ La lleva a **un lugar de cascadas**, con ruido de naturaleza, apartado y sin int
 Y ahí **le cuenta todo lo sucedido.**
 
 **Los dos pactan estar alineados para deshacer la organización de Varek desde dentro.**
+
+> **Alcance en prosa (nota 2026-09-27, housekeeping de la auditoría de la Parte II, [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II]]):** por decisión del autor (Q1, V2), el [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/30_Media_Baraja|Cap. 30]] termina como **pacto, no plan**: entrar, hacerse necesarios, dejar de depender de Varek. El plan de caída no se enuncia en el Libro I; pertenece a los libros siguientes.
 
 > **DISEÑO:** el sitio no es romántico, es **operativo**: ruido de agua, sin líneas de visión, sin nadie. Y es **el primer lugar del libro que no es territorio de nadie** — ni el penthouse del casino, ni el barrio de él, ni la casa que todavía no es de los dos. Para pactar de igual a igual hacen falta las dos cosas: privacidad y terreno neutral.
 >
@@ -1706,7 +1710,7 @@ Y ahí **le cuenta todo lo sucedido.**
 
 > **CANON DEL AUTOR (2026-08-23).** Cierre del arco. **Y cierra en calma.**
 
-> **ESCRITO (2026-09-16, Claude Code — BORRADOR, falta revisión del autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/31_Vamos_A_Casa|Capítulo 31 — Vamos a casa]] (POV Chiara) ejecuta H7 completo y cierra la Parte II: la llamada con *"Ponte algo cómodo, porque quizá te vayas a mojar"*, el viaje al río norte con Nadir, Danny, Héctor y Walt, la competencia de pesca sin ganador resuelto, el juego en el agua, el atardecer en la formación de roca sin confesiones, y la frase final *"— Vamos a casa."* como última línea de la Parte II, sin glosa posterior. **H7 queda cubierto en prosa** salvo pases de revisión del autor.
+> **ESCRITO (2026-09-16, Claude Code — BORRADOR, falta revisión del autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/31_Vamos_A_Casa|Capítulo 31 — Vamos a casa]] (POV Chiara) ejecuta H7 completo y cierra el arco H5–H7 *(corregido 2026-09-27: ya no cierra la Parte II, que cierra el Cap. 34 — Mi pareja)*: la llamada con *"Ponte algo cómodo, porque quizá te vayas a mojar"*, el viaje al lago (antes "río norte") con Nadir, Danny, Héctor y Walt, la competencia de pesca sin ganador resuelto, el juego en el agua, el atardecer en la formación de roca sin confesiones, y la frase final *"— Vamos a casa."* como última línea del capítulo, sin glosa posterior. **H7 queda cubierto en prosa** salvo pases de revisión del autor.
 
 ---
 
@@ -1721,6 +1725,8 @@ Y ésa es una decisión de estructura, no de tono: es el principio 13 del vault 
 ## Cómo lo hace — sacándola de su zona de confort
 
 Kal organiza **un viaje masivo al río norte, a pescar**, y **la incluye en el plan.**
+
+> **Geografía vigente (nota 2026-09-27, housekeeping de la auditoría de la Parte II, [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II]]):** en la prosa del [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/31_Vamos_A_Casa|Cap. 31]] el río norte pasó a ser **el lago** (ampliación por encargo del autor, 2026-09-16; ver la metadata del capítulo). La frase de arriba se conserva como formulación original del hito.
 
 La llama y le dice:
 
@@ -1800,7 +1806,7 @@ Y para dos personas que nunca tuvieron una, **el momento en que la palabra deja 
 
 ## Pendientes de H7
 
-> **PENDIENTE:** el río norte y el arrecife necesitan entrada en `05_Locations/`. *(Nota menor de coherencia: conviene fijar si el arrecife es un banco de roca del río o el punto donde el río se abre al mar — cambia la geografía del norte de San Aurelio.)*
+> **PENDIENTE:** el río norte y el arrecife necesitan entrada en `05_Locations/`. *(Nota 2026-09-27: en la prosa hoy es el lago y la formación de roca; la entrada sigue pendiente.)* *(Nota menor de coherencia: conviene fijar si el arrecife es un banco de roca del río o el punto donde el río se abre al mar — cambia la geografía del norte de San Aurelio.)*
 
 > **PENDIENTE:** ¿quién gana la competencia de pesca? Es una tontería y va a importar después.
 

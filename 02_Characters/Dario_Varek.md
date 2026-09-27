@@ -48,7 +48,7 @@ Esa misma noche se enteró de que **las tres mellizas no eran hijas suyas.** No 
 
 ## Lo que siente por Kal — DISEÑO (2026-08-26)
 
-Después de H6 —cuando Kal se ofrece a trabajar para él— Varek empieza a desarrollar algo que nunca nombra, ni siquiera para sí mismo: **un amor romántico no correspondido y frustrado hacia Kal.**
+Después de H6 —cuando Kal entra en su organización (en la prosa del Cap. 29, Varek le ofrece la silla; nota 2026-09-27)— Varek empieza a desarrollar algo que nunca nombra, ni siquiera para sí mismo: **un amor romántico no correspondido y frustrado hacia Kal.**
 
 No se declara nunca ni aparece como pensamiento explícito. Se ve en la conducta:
 
@@ -159,6 +159,8 @@ La llegada de [[02_Characters/Elena_Vega]] es una consecuencia que Varek subesti
 ### Y lo que aceptó — CANON
 
 En [[06_Relationships/Hitos]], H6: **Kal se ofrece a trabajar para él, como parte de la organización.**
+
+> **Nota (2026-09-27, housekeeping de la auditoría de la Parte II, [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II]]):** en la prosa del [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/29_El_Patio_Ajeno|Cap. 29]] Kal no lo pide: conduce a Varek a ofrecerle la silla y la acepta. Varek cree que lo absorbe; Kal cree que usa la estructura. Ver la nota en Hitos H6 §5.
 
 A cambio, Kal pide **seguridad para Chiara**. Y trae con qué pagarlo: **una entrada a [[05_Locations/Camp_Alder]]** para sacar armamento largo y venderlo en la ciudad.
 

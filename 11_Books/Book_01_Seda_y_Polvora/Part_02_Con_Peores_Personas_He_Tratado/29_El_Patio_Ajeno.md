@@ -1,5 +1,5 @@
 <!--
-Estado: BORRADOR — cuarto capítulo de la Parte II. Pendiente de revisión del autor.
+Estado: BORRADOR — cuarto capítulo de la Parte II. Pendiente de revisión del autor. Cirugía editorial E6 (2026-09-27, [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II]] §9): auto (Peugeot), mesa de Vivian compactada, continuidades chicas y salto de POV; sigue BORRADOR.
 Protagonistas: Kal Mercer (POV único). Apariciones: Dario Varek, Vivian "VV" Varek, Chiara Bellandi (segunda mitad).
  Ventana temporal: continúa de inmediato el cierre del Cap. 28 — el mismo amanecer, minutos después de que Kal salga del loft.
 Lugares: la mansión de Varek (sin ficha propia; PENDIENTE en San_Aurelio.md). Patio interior. La Ronda Exterior, de vuelta hacia San Aurelio.
@@ -16,16 +16,16 @@ REESCRITURA PROFUNDA (2026-09-18, encargo explícito del autor) — cambia la ar
 - EL LANCIA — DARIO YA LO SABÍA: un hombre le informa a Varek al oído sobre el Lancia ANTES de que empiece la negociación seria ("¿El Lancia? / Sigue ahí. / Déjala"), plantando que la casa ya vigilaba a Chiara desde temprano. El pago llega después, cuando Varek revela cuánto tiempo lleva estacionada frente a la propiedad — no "ya que está": es una prueba deliberada para ver si Kal mintió sobre mantenerla fuera, y para observar la sincronía entre los dos.
 - ACTUACIÓN CONJUNTA: convocada al patio, Chiara lee la habitación sin ensayo, con la misma distancia profesional que Kal. Varek prueba la sincronía con una pregunta directa y no obtiene ni un cruce de miradas. Cierra con la línea canon "Me alegra que todos entendamos la misma habitación", ahora ganada por la escena.
 - AMBOS GANAN, AMBOS OCULTAN: Varek cree haber reclutado a Kal y no se equivoca. Kal consiguió exactamente la puerta que necesitaba sin haberla pedido directamente. Ninguno lo verbaliza; el lector puede sospechar que los dos están, además, equivocados sobre cuánto sabe el otro.
-- Chiara siguió a Kal (sale al final del Cap. 28 detrás de él) y se queda vigilando desde fuera que "sigue respirando" — no sabe todavía que va a ser convocada. Llega con las fotografías del Cap. 28 todavía consigo, sin mencionarlas ni usarlas aquí — vuelven en el Cap. 31.
+- Chiara siguió a Kal (sale al final del Cap. 28 detrás de él) y se queda vigilando desde fuera que "sigue respirando" — no sabe todavía que va a ser convocada. Llega con las fotografías del Cap. 28 todavía consigo, sin mencionarlas ni usarlas aquí — vuelven en el Cap. 30.
 - Línea canon preservada: "— Estás loco." (Chiara, al pasar, sin detenerse) — es el ÚLTIMO diálogo del capítulo.
-- CIERRE VEHICULAR: intervención mínima, conservado casi íntegro de la versión anterior (2026-09-16). NO existe diálogo de "Sígueme" ni ningún otro intercambio verbal después de "Estás loco". Kal no la persigue a pie. La deja irse sola en el Lancia y espera minutos reales antes de subir al Audi. La alcanza en la carretera con conducción firme, la rebasa y se coloca delante; toca el freno dos o tres veces para que las luces traseras parpadeen, sin bloquearla. En la bifurcación toma el norte sin comprobar nada y conduce kilómetros sin mirar el espejo. Cuando por fin mira, el Lancia sigue detrás.
+- CIERRE VEHICULAR: intervención mínima, conservado casi íntegro de la versión anterior (2026-09-16). NO existe diálogo de "Sígueme" ni ningún otro intercambio verbal después de "Estás loco". Kal no la persigue a pie. La deja irse sola en el Lancia y espera minutos reales antes de subir al Peugeot. La alcanza en la carretera con conducción firme, la rebasa y se coloca delante; toca el freno dos o tres veces para que las luces traseras parpadeen, sin bloquearla. En la bifurcación toma el norte sin comprobar nada y conduce kilómetros sin mirar el espejo. Cuando por fin mira, el Lancia sigue detrás.
 - FUNCIÓN TEMÁTICA DEL CIERRE: el Cap. 28 fija "no decidas por mí". Aquí Kal, por primera vez, no decide por ella: abre una ruta y deja que ella la tome o no.
 Continuidad:
 - Kal y Chiara se tutean desde el Cap. 7. Registro privado todavía en semilla (pre-H16).
 - Costillas rotas y ceja abierta de la paliza de Halbrook (Cap. 27) siguen activas todo el capítulo.
-- VEHÍCULOS: Chiara conduce el Lancia (el mismo del Cap. 27). Kal conduce un Audi. **Discontinuidad conocida y aceptada por el autor** (heredada de la revisión 2026-09-16): el Cap. 28 y el cierre del Cap. 29 (no modificados en este encargo) tienen a Kal en su Peugeot 106 XSi segundos antes de esta escena. Pendiente de reconciliar en una revisión futura de esos capítulos.
+- VEHÍCULOS: Chiara conduce el Lancia (comprado en el Cap. 25; Cap. 26). Kal, el Peugeot 106 XSi, continuidad directa con el 28; el Audi vuelve en el 31. (Discontinuidad Peugeot/Audi resuelta en E6, 2026-09-27.)
 - BOURBON, NO CAFÉ: botella y dos (luego tres) vasos bajos sobre la mesa de hierro; Varek sirve sin preguntar. Kal casi no bebe (regla dura de su ficha): toca el vaso una sola vez, en el momento de la mención incidental de Marisol.
-- DOCUMENTOS DE `develop` QUE QUEDAN DESACTUALIZADOS POR ESTA REESCRITURA (no tocados en este encargo, sólo reportados): [[02_Characters/Dario_Varek]] ("Kal se ofrece a trabajar para él, como parte de la organización"), [[01_Timeline/00_Estructura_del_Ascenso]] y [[01_Timeline/02_Cadena_De_Eventos_Libro_I]]. También [[06_Relationships/Hitos]], sección H6 §5 ("Kal ofrece trabajar para Varek... a cambio, seguridad para Chiara"), documenta el mecanismo antiguo. La nueva mecánica narrativa: **Kal conduce a Varek a ofrecerle una silla**, y consigue cobertura para su gente y protección indirecta para Chiara sin pedir ninguna de las dos cosas en esos términos.
+- DOCUMENTOS DE `develop` QUE QUEDAN DESACTUALIZADOS POR ESTA REESCRITURA (no tocados en este encargo, sólo reportados): [[02_Characters/Dario_Varek]] ("Kal se ofrece a trabajar para él, como parte de la organización"), [[01_Timeline/00_Estructura_del_Ascenso]] y [[01_Timeline/02_Cadena_De_Eventos_Libro_I]]. También [[06_Relationships/Hitos]], sección H6 §5 ("Kal ofrece trabajar para Varek... a cambio, seguridad para Chiara"), documenta el mecanismo antiguo. La nueva mecánica narrativa: **Kal conduce a Varek a ofrecerle una silla**, y consigue cobertura para su gente y protección indirecta para Chiara sin pedir ninguna de las dos cosas en esos términos. *(Housekeeping 2026-09-27, E8: anotado sin sobrescribir en Hitos H6 §5, [[02_Characters/Dario_Varek]] y [[01_Timeline/02_Libro_01_Seda_y_Polvora]]; reescribir el hito queda a decisión del autor.)*
 -->
 
 # Capítulo 29 — El patio ajeno
@@ -40,7 +40,7 @@ La casa de Varek no anunciaba nada desde la calle. Un muro alto, cámaras discre
 
 —Lo esperan en el patio, señor Mercer. Deje el coche donde le indique el compañero.
 
-Más adelante, otro hombre le hizo una seña con dos dedos hacia un hueco exacto entre dos setos, como si llevara toda la mañana reservado para él y para nadie más. Nadie le pidió las llaves. Nadie le pidió que se identificara dos veces. Un tercero le abrió la puerta lateral antes de que Kal llegara a tocarla, sin preguntarle si iba a entrar por ahí. Caminó los últimos metros con la sensación exacta —y no era la primera vez que la tenía en esa casa— de que desde que cruzó la reja alguien llevaba la cuenta de dónde estaba, sin que nadie tuviera que decírselo dos veces.
+Más adelante, otro hombre le hizo una seña con dos dedos hacia un hueco exacto entre dos setos, como si llevara toda la mañana reservado para él y para nadie más. Nadie le pidió las llaves. Nadie le pidió que se identificara dos veces. Un tercero le abrió la puerta lateral antes de que Kal llegara a tocarla, sin preguntarle si iba a entrar por ahí. Caminó los últimos metros con la sensación exacta —y no era la primera vez que la tenía en esa casa— de que desde que cruzó la reja alguien llevaba la cuenta de dónde estaba.
 
 Eso también era información.
 
@@ -56,7 +56,7 @@ Varek estaba de pie junto a la mesa, vestido —no en bata, no recién levantado
 
 Varek no insistió con la pregunta que no había hecho del todo. Sirvió los dos vasos —dedo y medio, sin preguntar cuánto— y dejó uno frente a Kal antes de sentarse él. Era temprano para beber y los dos lo sabían, y ninguno lo dijo, porque decirlo hubiera sido admitir que la hora tenía algo que ver con lo que venía.
 
-—No pregunto qué pasó —dijo Varek, sentándose por fin—. Y usted no me lo va a contar. A eso ya llegamos hace tiempo, sin firmarlo.
+—No pregunto qué pasó —dijo Varek—. Y usted no me lo va a contar. A eso ya llegamos hace tiempo, sin firmarlo.
 
 Uno de los hombres del muro se acercó por detrás y le dijo algo al oído, tan bajo que a Kal sólo le llegaron fragmentos.
 
@@ -66,9 +66,9 @@ Uno de los hombres del muro se acercó por detrás y le dijo algo al oído, tan 
 
 —Déjala.
 
-Varek no cambió la expresión ni un grado. El hombre se retiró tan silencioso como había llegado. Kal no preguntó. No tenía con qué: no sabía de qué Lancia hablaban, ni por qué le importaba a nadie en esa casa, y algo en cómo Varek había dejado pasar la frase —sin mirar hacia la calle, sin volver la cabeza, como quien ya conocía la respuesta antes de recibirla— le dijo que no era la primera vez esa mañana que alguien le llevaba esa clase de dato.
+Varek no cambió la expresión. El hombre se retiró tan silencioso como había llegado. Kal no preguntó. No tenía con qué: no sabía de qué Lancia hablaban, ni por qué le importaba a nadie en esa casa, y algo en cómo Varek había dejado pasar la frase —sin mirar hacia la calle, sin volver la cabeza, como quien ya conocía la respuesta antes de recibirla— le dijo que no era la primera vez esa mañana que alguien le llevaba esa clase de dato.
 
-Kal tardó, aun así, medio segundo de más en hablar primero — el primero de la mañana en que dudó antes de decir algo.
+Kal tardó, aun así, medio segundo de más en hablar.
 
 —Necesito una puerta —dijo.
 
@@ -106,7 +106,7 @@ Varek se quedó con eso, mirando el vaso y no a Kal.
 
 Kal no dijo nada. Dejó que el silencio hiciera el trabajo que cualquier explicación hubiera arruinado.
 
-—¿Qué es lo que realmente vino a buscar? —preguntó Varek al final, y en la pregunta había algo que no estaba en las anteriores: la curiosidad genuina que había prometido por teléfono.
+—¿Qué es lo que realmente vino a buscar? —preguntó Varek al final, y en la pregunta había algo que no estaba en las anteriores: la curiosidad genuina.
 
 —Entonces diga qué quiere.
 
@@ -144,7 +144,7 @@ Kal no dejó ver nada.
 
 —Queda.
 
-Fue todo lo que dijeron sobre el tema, y fue suficiente. Varek no se levantó a cerrar nada con un gesto. Se quedó sentado, con el vaso en la mano, como quien deja una puerta entornada porque todavía le interesa ver quién más entra por ella.
+Varek no se levantó a cerrar nada con un gesto. Se quedó sentado, con el vaso en la mano, como quien deja una puerta entornada porque todavía le interesa ver quién más entra por ella.
 
 ***
 
@@ -164,7 +164,7 @@ Se sentó en el borde de una tumbona sin que nadie se lo ofreciera —la misma c
 
 —Ya cerré en dieciocho. —Ni una disculpa en la voz—. No iba a dejar que se les hiciera costumbre.
 
-Varek asintió una vez, con algo parecido a la aprobación que un hombre le da a un balance que ya sabía que iba a cuadrar. No miró a Kal para explicarle nada, y no hacía falta: la escena hablaba sola. La hija cerrando negocio de puerto delante del padre con la misma naturalidad con la que hubiera comentado el clima, el padre corrigiéndole el precio como quien corrige una tarea, y los dos sabiendo que la corrección no iba a cambiar nada porque el trato ya estaba cerrado antes de sentarse.
+Varek asintió una vez, con algo parecido a la aprobación que un hombre le da a un balance que ya sabía que iba a cuadrar.
 
 —¿No tenías el taller esta mañana? —preguntó Varek.
 
@@ -174,7 +174,7 @@ Algo se quedó muy quieto dentro de Kal, en un sitio que no le llegó a la cara.
 
 *Marisol.*
 
-No preguntó quién. No preguntó de qué universidad, ni de qué taller, ni por qué su mundo y el de esta mujer que acababa de cerrar un trato de puerto delante de su padre compartían, aunque fuera por una frase de nada, un aula. Preguntar hubiera sido dibujar un círculo. Levantó el vaso, por primera vez esa mañana, y bebió un trago corto, más para tener algo que hacer con la mano que por el bourbon en sí.
+No preguntó quién. Preguntar hubiera sido dibujar un círculo. Levantó el vaso, por primera vez esa mañana, y bebió un trago corto, más para tener algo que hacer con la mano que por el bourbon en sí.
 
 —Entonces tenía razón —dijo Varek, sin verdadero interés, ya mirando otra vez la piscina.
 
@@ -182,7 +182,7 @@ Vivian se puso de pie con la misma facilidad con la que se había sentado.
 
 —Señor Mercer. —Se lo dijo a Kal directamente, la primera vez que reconocía que estaba ahí, con una sonrisa rápida que no tenía nada que ocultar porque no sabía que tuviera nada que ocultar.
 
-No fue una pregunta ni una presentación. Kal no supo, y no lo iba a preguntar, si sabía su nombre por negocios, por el Monarch, por algo que su padre había dicho, o porque en esa casa las cosas simplemente se sabían.
+No fue una pregunta ni una presentación. Kal no supo de dónde sabía su nombre.
 
 Se fue por donde había venido, sin despedida para su padre, como quien no necesita cerrar una conversación que va a seguir todo el día de todos modos.
 
@@ -204,7 +204,7 @@ Lo dijo sin subir la voz, con la misma rapidez con la que había dicho Camp Alde
 
 —Usted quiere sentarla en la mesa. —Kal midió cada palabra, plana, sin nada debajo que se pudiera agarrar—. Yo prefiero que siga escuchando a la gente que cree que ella no está sentada en ninguna.
 
-Varek lo estudió, y algo en su cara se movió un grado, como cuando alguien reconoce una jugada que hubiera querido pensar primero.
+Varek lo estudió, y algo en su cara se movió, como cuando alguien reconoce una jugada que hubiera querido pensar primero.
 
 —Está protegiéndola.
 
@@ -250,7 +250,7 @@ Fue un segundo. Menos de un segundo. Kal vio la información entrar en ella y vi
 
 —Sé lo que hace mi trabajo, señor Varek. No suelo preguntar el resto.
 
-Fue perfecto, y fue rápido, y no tuvo ni un gramo de más. Varek los miró a los dos, alternando, más tiempo del que la pregunta necesitaba, esperando el cruce de miradas que los delatara. No llegó. Ninguno de los dos improvisó peor que eso: ni un gesto de más, ni una palabra que sobrara, ni la tentación —que los dos sintieron, y los dos apagaron en el mismo instante— de mirarse el tiempo suficiente como para que significara algo.
+Varek los miró a los dos, alternando, más tiempo del que la pregunta necesitaba, esperando el cruce de miradas que los delatara. No llegó. Kal sintió la tentación de mirarla el tiempo suficiente como para que significara algo, y la apagó.
 
 —Bien —dijo Varek, al final, sin que quedara claro a cuál de los dos se lo decía—. Me alegra que todos entendamos la misma habitación.
 
@@ -276,7 +276,7 @@ Oyó el motor del Lancia. Oyó la grava bajo las llantas, el cambio de marcha, e
 
 Chiara salió de la propiedad sin esperarlo. El ruido se perdió calle abajo, hacia el lado de la ciudad, hacia el casino, hacia cualquier cosa que fuera su vida antes de esa mañana. Kal se quedó de pie junto a la reja el tiempo suficiente para que el costado empezara por fin a cobrarle la cuenta completa, ahora que ya no tenía delante a nadie a quien no pudiera mostrársela. Se guardó el teléfono. Respiró una vez, hondo, y le dolió. Dejó pasar los minutos que hicieran falta.
 
-Cuando por fin caminó hacia el Audi, no fue corriendo.
+Cuando por fin caminó hacia el Peugeot, no fue corriendo.
 
 ***
 

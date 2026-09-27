@@ -176,6 +176,7 @@ El robo se queda porque sostiene cuatro cosas: el silencio de Nadir y Danny en l
 - **Hilo A:** Nadir no sabe por qué lo sacaron. Si Chiara se entera por los *sussurri*, nota que Kal está administrando información.
 - **Límites:** Irene no amenaza a Nadir ni abre un frente que el Libro I tenga que resolver. Es una escena de 800 a 1,000 palabras, pagada con los recortes del 17.
 - **Encaje con el 32:** Kal queda apretado por los dos lados, la policía (Lucía) y la calle (Irene), dentro de las dos semanas que ya abarca el capítulo.
+- **APLICADO 2026-09-27** (E9 del encargo de la Parte II, [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II]]): escena escrita en el 32, tras la llamada al Departamento. Cita por Walt; Kal va solo al Canal Seco; Tomás lo cachea y cuenta "un carro oscuro" (primera línea de Tomás); Irene no sabe ni quiere saber de quién es; Kal dice "Yo no lo he visto."; Nadir sale de la mercancía y lo que faltaba se vuelve un favor abierto que Kal acepta sin regatear; cierre "Ahora sí me debe, señor Mercer." con la libreta. Cola de Nadir ("Porque ya alcanzó." / "Qué barato me salió") e hilo A en la coda ("¿Y el Canal Seco?"). **≈ 630 palabras**, por debajo del rango de 800–1,000: se escribió a la medida de las funciones, sin relleno (§J). **BORRADOR/DISEÑO hasta lectura del autor.** Cuenta como siembra de costo en la Parte II.
 
 ## 5-quater. Lagunas restantes (DISEÑO, 2026-09-26)
 
@@ -186,17 +187,17 @@ Resultado de cruzar el Libro I con [[00_Biblia/00_Trilogy_Structure]] y [[01_Tim
 | Laguna | Estado | Siembra mínima |
 |---|---|---|
 | Ritual del *Ciao* (36–43) | Sin sembrar | Prioridad 1 |
-| Beretta .25 | No aparece antes del 44 | Una aparición en la Parte I o II |
+| Beretta .25 | **APLICADA 2026-09-27** (E7): 31, cambio de bolso en el vestidor, sin glosa; BORRADOR hasta lectura del autor | Una aparición en la Parte I o II |
 | Camp Alder como geografía | No existe antes del 27 | Una imagen de la cerca en el 8, 19 o 20 |
 | Papeles de Nadir | Una línea en el 25 | Kal se interpone ante una ventanilla o un retén (1, 17 o 23–24) |
 | Fe de Chiara (misa sola, nunca pide nada) | Hay lugares, falta relación | Una vez en la Parte I y otra en la II |
 | Matteo y Fabrizio | Aprobado (hilo C) | Dos o tres apariciones funcionales |
 | Rimas 24↔44 y 14↔44 | Aprobado (hilo C) | Gestos concretos repetibles |
-| Casi-confesiones (20, 25, 31, 36) | Diseño pendiente de visto bueno | Una por tramo |
+| Casi-confesiones (20, 25, 31, 36) | 31 **APLICADA 2026-09-27** (E7: gesto en la roca, sin diálogo); 32, hilo A mínimo en la coda (E9); 36 sigue en diseño | Una por tramo |
 | Recuerdo de Palermo donde alguien sufre por saber | **Sembrado 2026-09-26** en el Cap. 12 (la compañera de colegio; DISEÑO, pendiente de lectura) | Un recuerdo breve (motivo de Chiara para callar) |
 | Penthouse o loft como pregunta abierta | Implícito | Que se lea como pregunta antes del 42 |
 | Kal cree que el corral fue por su pasado | PENDIENTE (toca H12) | — |
-| Certeza del plan contra Varek (30) | Poda pendiente | Pacto, no plan |
+| Certeza del plan contra Varek (30) | **APLICADA 2026-09-27** (E6, V2: sólo cortar; pacto sin plan de caída) | Pacto, no plan |
 
 ### B. Para el Libro II
 
@@ -205,7 +206,7 @@ Resultado de cruzar el Libro I con [[00_Biblia/00_Trilogy_Structure]] y [[01_Tim
 | **Silas Crowe / incendio del loft** (cierre de la Parte I del Libro II) | Caps. 1, 3, 11, 17 + **32 y 37 (BORRADOR 2026-09-26)** | **Cubierta.** Cap. 32: el Tasador pregunta quién arregló lo de Portillo y cuánto cobró ("nada"). Cap. 37: sube la cuota a la ferretería "por la competencia". Tasa el crecimiento de Kal sin acción. El cargamento sigue PENDIENTE. |
 | **Ren Wei / cocaína** (umbral de categoría) | Metadata del 35–37: "no introducido" + **Cap. 37 (BORRADOR 2026-09-26)** | **Cubierta.** Opción (a): "La muevo; no la vendo. Y en la Almendra, nunca.", en la escena de Danny. Respeta H16. Ren Wei la rompe dos veces: Kal pasa a proveedor de la isla y el producto llega al barrio. |
 | **Irene y Tomás Vale** | 17 + 32 (decidido) | Resuelto con 5-ter y las siembras de costo. |
-| **Nadir: lealtad y capacidad de actuar** (F2, Nadir dispara y llora) | Nadir cómico y leal | Falta un momento de la Parte II o III donde Nadir haga algo duro por el grupo y le cueste. Así el disparo de F2 no sale de la nada. |
+| **Nadir: lealtad y capacidad de actuar** (F2, Nadir dispara y llora) | Nadir cómico y leal | Falta un momento de la Parte II o III donde Nadir haga algo duro por el grupo y le cueste. Así el disparo de F2 no sale de la nada. **Resuelto 2026-09-27 (D50):** no se añade en el Libro I; el 30 y el 32 no lo cubren y el 43 sólo lo roza. Queda para el Libro II. |
 | **Riley y Mei-Lin** (amigas que viven juntas en la Almendra) | 37–39, siembras funcionales | Falta un gesto de amistad entre ellas, no sólo de trabajo. |
 | **Tommaso** | Muy sembrado | Sin laguna. |
 | **Volpi** | 35, 41 | Suficiente. |

@@ -7,6 +7,20 @@
 **Extensión aproximada actual:** 26,800 palabras  
 **Estado:** manuscrito completo / pendiente de cierre editorial
 
+> **AVANCE DE LA EJECUCIÓN** (lo mantiene el agente; encargo [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_II]], cerrado 2026-09-27)
+>
+> | Etapa | Caps. | Estado | Mapa |
+> |---|---|---|---|
+> | E1–E4 | 26–34 | AUDIT hecho y decisiones del autor registradas (Q1 V2, Q2 Beretta en el 31, Q3 Irene paquete completo, Q4 veto libre) (2026-09-27) | [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II]] |
+> | E5 | 26–28 | SURGERY hecha, −378; siguen BORRADOR | § 9 parte 1 |
+> | E6 | 29–30 | SURGERY hecha, −840 (30: −621, pacto sin plan de caída); siguen BORRADOR | § 9 parte 2 |
+> | E7 | 31–32 | SURGERY hecha, −348; Beretta .25 en 31; gesto en la roca; siguen BORRADOR | § 9 parte 3 |
+> | E8 | 33–34 + housekeeping | SURGERY hecha, −353; housekeeping por desfase hecho, contradicciones de canon anotadas | § 9 parte 4 |
+> | E9 | 32 | Escena de Irene escrita (+621) e hilo A en la coda (+9): **BORRADOR/DISEÑO hasta lectura del autor** | § 9 parte 5 |
+>
+> Los nueve capítulos siguen en **BORRADOR**. EPUB no regenerado.
+
+
 ---
 
 # DICTAMEN GENERAL
@@ -762,15 +776,15 @@ Antes de declarar Parte II cerrada hay que sanear:
 
 | Problema | Estado |
 |---|---|
-| Duración real 26–31 | inconsistente |
-| `segunda noche / dos días` | revisar contra cronología real |
-| 31 “cierre de Parte II” | desactualizado |
-| Halbrook “llega al cierre del Libro I” | desactualizado; ahora cierra Libro II |
-| Peugeot/Audi 28→29 | bug conocido |
-| Lago vs antiguos documentos de “río norte” | pendiente |
-| Mecánica antigua de H6 en Hitos/fichas | desactualizada |
-| Book Map / metadata `La Construcción` vs nombre operativo de Parte II | higiene documental |
-| Estrategia explícita de desmontar a Dario en 30 | necesita adaptación a nueva saga |
+| Duración real 26–31 | **hecho** (E5–E7: unas 24 horas; § Cronología del mapa) |
+| `segunda noche / dos días` | **hecho** (E5–E6; timeline sin apariciones) |
+| 31 “cierre de Parte II” | **hecho** (metadata del 31 en E7; Hitos H7 en E8) |
+| Halbrook “llega al cierre del Libro I” | **hecho** (metadata del 27 en E5) |
+| Peugeot/Audi 28→29 | **hecho** (E6: Peugeot 28–30, Audi desde el 31) |
+| Lago vs antiguos documentos de “río norte” | **hecho en parte** (E8); texto del hito H7 y entrada de `05_Locations/` pendientes del autor |
+| Mecánica antigua de H6 en Hitos/fichas | **anotado** (E8): timeline y DISEÑO corregidos; H6 §5/§7 esperan decisión del autor |
+| Book Map / metadata `La Construcción` vs nombre operativo de Parte II | **hecho** en el Book Map (E8); `00_Nota_Editorial.md` l. 19 pendiente del autor |
+| Estrategia explícita de desmontar a Dario en 30 | **hecho** (E6, V2: pacto sin plan de caída) |
 
 ---
 

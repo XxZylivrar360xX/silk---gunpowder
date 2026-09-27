@@ -1,10 +1,10 @@
 <!--
-Estado: BORRADOR — Capítulo 32 de la Parte II. Redactado 2026-09-20, Claude Code, encargo del autor. Renumerado en cascada el mismo día tras la aprobación del autor: este capítulo pasó de nombre provisional (31b) a Cap. 32; La periferia pasó de 32 a 33; Mi pareja pasó de 33 a 34. Ver `98_Agent_Handoff/CURRENT_BRIEF.md` y `98_Agent_Handoff/PENDING.md` para el detalle de la integración.
+Estado: BORRADOR — Capítulo 32 de la Parte II. Redactado 2026-09-20, Claude Code, encargo del autor. Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II]] § 9 parte 3): prolepsis final y salto a Chiara cortados, glosas del procedimiento cortadas, cronología interna ("Días después" / "dos semanas después"), coche de Lucia sin "sedán", bloque de DISEÑO metido en el comentario (el EPUB vigente todavía lo lleva impreso). E9 (2026-09-27): escena de Irene insertada tras "Lo archivó, junto con el resto, y volvió al taller." (cita por Walt, Canal Seco, Tomás cachea y cuenta el carro, Nadir sale de la mercancía, favor abierto aceptado sin regateo, "Ahora sí me debe, señor Mercer.", cola de Nadir "Porque ya alcanzó.") e hilo A en la coda ("¿Y el Canal Seco?"). Redacción del agente: BORRADOR/DISEÑO hasta lectura del autor. Sigue BORRADOR. Renumerado en cascada el mismo día tras la aprobación del autor: este capítulo pasó de nombre provisional (31b) a Cap. 32; La periferia pasó de 32 a 33; Mi pareja pasó de 33 a 34. Ver `98_Agent_Handoff/CURRENT_BRIEF.md` y `98_Agent_Handoff/PENDING.md` para el detalle de la integración.
 POV: Kal Mercer, único, sin excepción.
-Protagonistas: Kal Mercer, Lucia Varek. Mencionados/aparición breve: Hector Navarro (taller), Chiara Bellandi (coda). Nombrados sin aparición: Eddie Sosa (Los Bravos de Santa Brigida), Rafael "Rafe" Dominguez (mencionado, no aparece), un tercero nuevo y menor: Portillo, dueño de un taller de neumáticos en Las Calderas (aparición mínima, sin diálogo directo, mencionado por Hector).
-Ventana temporal: arranca unos dias despues del Cap. 31 (Vamos a casa) y se extiende a lo largo de aproximadamente diez a catorce dias (contacto, decision, resultado, segundo contacto). Sin fecha exacta. NOTA DE CONTINUIDAD, sin resolver en este encargo: el Cap. 33 (La periferia) se describe a si mismo como "varios dias despues" del Cap. 31 unicamente; ahora que este capitulo ocupa ese tramo, esa frase probablemente necesite ajustarse a algo como "un par de semanas despues" para no chocar con la duracion aqui propuesta — cambio de una linea, pendiente.
+Protagonistas: Kal Mercer, Lucia Varek. Aparición breve: Irene Salcedo y Tomas Vale (Canal Seco, E9), Walter Keegan (recado), Nadir Amrani (cola de Irene), Hector Navarro (taller), Chiara Bellandi (coda). Nombrados sin aparición: Eddie Sosa (Los Bravos de Santa Brigida), Rafael "Rafe" Dominguez (mencionado, no aparece), un tercero nuevo y menor: Portillo, dueño de un taller de neumáticos en Las Calderas (aparición mínima, sin diálogo directo, mencionado por Hector).
+Ventana temporal: arranca a la mañana siguiente del Cap. 31 (Vamos a casa: el sillón) y se extiende cerca de dos semanas (contacto, decision, resultado, segundo contacto: Lucia vuelve "dos semanas despues"). Sin fecha exacta. (Nota de continuidad con el Cap. 33 retirada 2026-09-27: el 33 ya dice "varios dias despues del Cap. 32".)
 Ubicacion dentro de Parte II: Cap. 32, entre el Cap. 31 (Vamos a casa) y el Cap. 33 (La periferia).
-Lugares: Almendra Towing (patio y oficina), un tramo de calle en Las Calderas (mencionado, no escenificado), el loft de Kal en la Almendra (coda).
+Lugares: Almendra Towing (patio y oficina), el Canal Seco (puesto de abarrotes de Irene, E9), un tramo de calle en Las Calderas (mencionado, no escenificado), el loft de Kal en la Almendra (coda).
 Funcion: DISEÑO NUEVO de esta sesion, a peticion del autor. Segundo escalon de la relacion Kal/Lucia despues de [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/13_Auster|Auster]] (Cap. 13): de "policia interrogando a sospechoso" a "policia probando si puede usar lo que el sabe". Siembra el canal directo que [[06_Relationships/Hitos#H20 — Consecuencia: Halbrook / prisión militar / Lucia|H20]] necesita para que Chiara acuda a Lucia despues de Camp Alder sin que se sienta una coincidencia conveniente. Primera dramatizacion concreta de la doctrina ya fijada en [[03_Factions/Departamento_de_Policia_de_San_Aurelio]] ("El Departamento cree que usa a Kal como fuente. Kal cree que usa al Departamento como valvula.") y del "metodo de las cuatro fases" de [[03_Factions/Almendra_Towing]], aplicado aqui por primera vez a una institucion en vez de a una banda: resolver un problema que la institucion no estaba resolviendo, volverse el primer telefono al que llama, sin que ninguno de los dos lo diga en voz alta.
 
 - REGLA ESTRUCTURAL: no se repite el interrogatorio de Auster. Lucia no vuelve a sospechar del Peugeot ni a reconstruir la coartada — parte de que ya sabe que no puede leer a Kal de forma simple, y ahora quiere comprobar si puede usar lo que el sabe. Auster se menciona una sola vez, de forma oblicua, sin resumirlo para el lector.
@@ -12,15 +12,15 @@ Funcion: DISEÑO NUEVO de esta sesion, a peticion del autor. Segundo escalon de 
 - Kal no fabrica nada: lugar, dia, hora aproximada y que Eddie Sosa carga algo al cinto a la vista son datos reales, verificables sin el. No entrega gente del Patio, no entrega a Nadir, Hector, Danny o Walt como fuente, no pide nada a cambio salvo, al final, un canal directo.
 - CORREGIDO (2026-09-20, nota del autor): se genericizo "arma sin registrar"/"arma sin papeles" en las dos apariciones de prosa (el chisme de Danny y la linea de Lucia) para no fijar una categoria juridica innecesaria — ver texto vigente. Tambien se suavizo "pensando en voz baja" en la coda (implicaba casi hablar) por "dandole vueltas a algo que no dijo todavia".
 - Lucia no ofrece inmunidad, no promete borrar nada, no confirma sospechas que no puede probar. Dice explicitamente que lo que Kal entregue tiene que sobrevivir sin el. El primer canal de contacto es administrativo (renovacion del convenio de grua municipal, ya canon en la ficha de Almendra Towing) — ella lo usa de pretexto real, no inventado, para verlo sin que nadie lea la visita como otra cosa.
-- Kal NO le pregunta nunca por Dario Varek, y el capitulo tampoco lo menciona: Vivian Varek, Dario Varek, Camp Alder y Halbrook no aparecen ni se mencionan.
+- Kal NO le pregunta nunca por Dario Varek, y el capitulo tampoco lo menciona: Vivian Varek, Dario Varek, Camp Alder y Halbrook no aparecen ni se mencionan. En la escena de Irene (E9) el carro que vigila a Nadir se nombra sólo como "un carro oscuro": Irene no sabe de quién es y dice que no le importa; Kal no lo dice ("Yo no lo he visto.") y nadie usa la palabra "federal".
 - Registro: "usted" entre ambos durante todo el capitulo — no hay progresion a "tu"; la distancia profesional es parte del punto. Tono: respeto tecnico, desconfianza, humor seco puntual, ninguna amistad.
 - No aparecen Marisol, Kenji, Kenji/Marisol como pareja, ni el episodio del Cap. 33 (La periferia). No se menciona "novia" ni ninguna etiqueta de relacion. La coda con Chiara es domestica y minima: ella se entera de que el canal existe, no celebra ni protesta, lo archiva.
 - REGLA DE DIALOGO aplicada: verbos de habla funcionales (dijo/pregunto/contesto/respondio), tono en clausula corta o gesto, nunca ambos apilados, sin adverbios en "-mente" — ver [[12_Craft_Policies/Redaccion_De_Capitulos#Acotaciones y tono]]. Se evito a proposito el patron "interrogatorio terapeutico escalonado" y el cierre en "antitesis limpia" (ver `12_Craft_Policies/dialogue_rules/`): ninguno de los dos resume al otro con precision perfecta; la escena de Lucia cierra en el objeto (la tarjeta), sin formula de cierre.
 - CORTADO (2026-09-20, nota del autor): la version original de este capitulo cerraba la escena de Lucia con ella notando "Nunca me ha preguntado por mi padre" / Kal contestando "No es por eso que hablo con usted". El autor la quito: en este punto no hay causa dramatica para que Lucia saque a Dario (Kal no la ha usado para nada relacionado con el, y la metadata de este mismo capitulo ya prohibia mencionarlo) y la linea contradecia su propia regla estructural. **Movimiento reservado para la Parte III** con mejor causalidad (ver DISEÑO abajo) — no escrito todavia.
 - INSERCION BORRADOR (2026-09-26, Claude Code, decision del autor sobre la quinta tanda de [[13_Auditorias/Book_01_Seda_y_Polvora/Evaluacion_Arco_Libro_I]]): primera siembra de Silas Crowe desde el Cap. 17. Tras la reapertura de la llantera, Hector cuenta que el Tasador mando a preguntar quien arreglo lo de Portillo y cuanto cobro; la respuesta es "nada" y "al muchacho no le gusto". Crowe tasa el crecimiento de Kal, sin accion. Anticipa el mecanismo de su caida (Kal da gratis lo que el vende) y el motivo del incendio ("si alguien empieza a ganar sin el, aparece una cuota nueva", [[02_Characters/Silas_Crowe]]). No se inventa el cargamento. Pendiente de revision del autor.
--->
 
 > **DISEÑO RESERVADO PARA PARTE III (2026-09-20, idea del autor, no escrito):** cuando Kal empiece a aparecer publica o semipublicamente como la persona que Dario usa para coordinar problemas entre bandas, Lucia empezara a encontrarse el nombre de Mercer en lugares extraños sin tener todavia un delito claro que ponerle encima. Ahi si, con evidencia acumulada de meses de linea directa sin que Kal la haya usado nunca para llegar a su padre, Lucia puede observarlo en voz alta: *"—Hay algo que no entiendo de usted. —La lista es larga. —Tiene contacto con mi padre. Tiene contacto conmigo. Nunca ha intentado utilizar uno para llegar al otro."* Kal: *"—Porque son dos relaciones distintas."* — declaracion sobre como Kal administra personas (no convierte automaticamente un vinculo en palanca sobre otro) que Lucia puede recordar años despues al preguntarse cuanto sabia Kal sobre Dario. No fijar capitulo ni fecha todavia; anotar tambien en `06_Relationships/Hitos.md` o `98_Agent_Handoff/PENDING.md` si se quiere proteger la idea para cuando se diseñe la Parte III.
+-->
 
 # Capítulo 32 — Línea directa
 
@@ -36,7 +36,7 @@ Se sirvió el café frío que había sobrado de la noche anterior, lo tomó de p
 
 Almendra Towing a esa hora tenía el ritmo de siempre: una grúa saliendo con el motor todavía frío, Danny maldiciendo una batería que no quería arrancar, Héctor con una factura en una mano y un café en la otra, discutiendo con un proveedor de neumáticos que juraba haber mandado el pedido completo.
 
-Kal llevaba media hora bajo un Corolla ajeno cuando oyó el coche entrar. No era una grúa, ni un cliente, ni la patrulla que pasaba los martes a revisar el convenio. Era un sedán gris, sin marcas, conducido por alguien que no dudó dónde estacionarse.
+Kal llevaba media hora bajo un Corolla ajeno cuando oyó el coche entrar. No era una grúa, ni un cliente, ni la patrulla que pasaba los martes a revisar el convenio. Era un coche gris, sin marcas, conducido por alguien que no dudó dónde estacionarse.
 
 Salió de debajo del auto limpiándose las manos con un trapo que ya no limpiaba nada, y la reconoció antes de que ella cerrara la puerta.
 
@@ -118,7 +118,7 @@ Portillo no le compraba mucho a Almendra. Dos, tres pedidos al año desde el Lot
 
 Eddie Sosa cobraba entre las seis y las siete, siempre en el mismo Charger negro, siempre con algo al cinto que no se molestaba en esconder del todo.
 
-Eso era todo lo que Kal sabía. Era, también, exactamente lo que hacía falta.
+Eso era todo lo que Kal sabía.
 
 ***
 
@@ -132,7 +132,103 @@ Lo archivó, junto con el resto, y volvió al taller.
 
 ***
 
-Le llegó por partes, como suelen llegar esas cosas.
+Walt pasó por el taller a la mañana siguiente, con un café de la esquina en la mano y sin quitarse los lentes oscuros.
+
+—Irene quiere verte —dijo—. Hoy. Solo.
+
+Kal no preguntó para qué.
+
+—¿Voy contigo?
+
+—No.
+
+Walt asintió y se llevó el café a la oficina.
+
+Llegó al límite del Canal Seco a media tarde, en el Audi, sin nadie en el asiento de al lado. Esta vez no lo esperaba nadie con las armas a la vista. Lo esperaba Tomás, recargado en el poste de un toldo, con las manos vacías. De día el mercado tenía más ruido y el mismo silencio: la gente seguía vendiendo, pero lo iba viendo pasar puesto por puesto.
+
+—Brazos.
+
+Kal los levantó. Tomás lo cacheó despacio y completo, los tobillos también, y cuando terminó no se hizo a un lado: echó a andar delante de él entre los puestos, sin voltear a ver si lo seguía.
+
+Irene estaba donde la otra vez, detrás del puesto de abarrotes, en la misma silla plegable, con la libreta abierta sobre las piernas. No levantó la vista hasta terminar la línea que estaba escribiendo.
+
+—Señor Mercer.
+
+—Señora Salcedo.
+
+No le ofreció silla. No había otra.
+
+—Tomás.
+
+Tomás se quedó de pie a un lado, con los brazos cruzados.
+
+—Un carro oscuro, sin placa adelante, tres veces en diez días, en la calle de las bodegas a la hora de cargar. Policía de aquí no es; a los de aquí los conozco.
+
+Irene pasó una hoja de la libreta, luego otra, y se detuvo en una de columnas cortas, escritas con la misma letra apretada.
+
+—Las tres veces cargaba su muchacho. El marroquí.
+
+Kal no dijo nada.
+
+—No sé de quién es el carro. —Irene cerró la libreta sobre un dedo, para no perder la hoja—. No me importa de quién es. Usted a lo mejor sí sabe.
+
+—Yo no lo he visto.
+
+—No le pregunté.
+
+Del otro lado de la lona, alguien regateaba el precio de unas naranjas y iba perdiendo.
+
+—Su muchacho conoce mis rutas —dijo Irene—. Qué bodega abre qué noche. Quién recibe. Por qué calle se sale cuando pasa la patrulla. —Fue contando con los dedos contra la tapa de la libreta, uno por cosa, sin subir la voz—. Y alguien lo está mirando.
+
+No dijo más. Tomás tampoco.
+
+—¿Qué quiere? —preguntó Kal.
+
+—Nada que usted no pueda dar. —Irene abrió la libreta otra vez—. Su muchacho ya no carga nada mío. Desde hoy.
+
+Kal esperó el resto.
+
+—Lo que faltaba del trato no se lo perdono. —Pasó el lápiz por una línea, de lado a lado, sin prisa—. Se lo cambio. Un favor suyo. No sé cuál ni cuándo. Cuando lo necesite, se lo mando decir con Tomás.
+
+Afuera, el de las naranjas había pagado. Se oyó el ruido de la bolsa de plástico y los pasos que se iban.
+
+—Está bien —dijo Kal.
+
+Irene lo miró por encima de la libreta, con el lápiz quieto.
+
+—¿No va a regatear?
+
+—Hoy no.
+
+Tomás descruzó los brazos.
+
+—Ahora sí me debe, señor Mercer.
+
+Escribió algo en la hoja, una línea corta, y no esperó respuesta.
+
+Nadir estaba en la acera del taller cuando Kal volvió, en cuclillas junto a la Kawasaki, tensando la cadena con una llave del catorce.
+
+—Se acabó lo de Irene —dijo Kal—. Ya no cargas nada.
+
+Nadir dejó de girar la llave.
+
+—¿Desde cuándo?
+
+—Desde hoy.
+
+—¿Por qué ahora?
+
+—Porque ya alcanzó.
+
+Nadir lo miró desde abajo un rato largo. Después volvió a la cadena, le dio media vuelta más a la tuerca y probó la tensión con el pulgar.
+
+—Wallah. Qué barato me salió —dijo, sin mirarlo.
+
+Kal no le contestó. Nadir no volvió a preguntar.
+
+***
+
+Le llegó por partes.
 
 Primero fue Héctor, un jueves más tarde, comentando que la llantera de Portillo había vuelto a abrir hasta la hora de siempre. Después fue Danny, que había pasado por ahí a comprar una banda y contó, sin que nadie le preguntara, que había una franja de cinta amarilla despegándose de un poste a media cuadra, y que alguien en la esquina decía que se habían llevado a "uno de los de Rafe" por el arma que llevaba.
 
@@ -140,9 +236,9 @@ Kal no fue a ver la escena. No hacía falta.
 
 Manejó por ahí dos días después, sin motivo real, y encontró la llantera abierta, con Portillo afuera fumando un cigarro con una calma que no tenía semanas atrás, sin nadie vigilando la esquina.
 
-No sintió gran cosa. Fue, sobre todo, la comprobación de que un problema se había resuelto sin que él tuviera que resolverlo con las manos, y que eso —a diferencia de lo que había hecho toda su vida— no le había costado una sola llamada a Héctor.
+No sintió gran cosa. Un problema se había resuelto sin que él tuviera que resolverlo con las manos.
 
-La semana siguiente, cerrando la caja, Héctor lo comentó sin levantar la vista de las facturas.
+Días después, cerrando la caja, Héctor lo comentó sin levantar la vista de las facturas.
 
 —El Tasador mandó a uno de los suyos a la llantera. A preguntar quién le había arreglado lo de los jueves a Portillo.
 
@@ -158,7 +254,7 @@ Kal no dijo nada. Héctor tampoco.
 
 ***
 
-Lucia volvió al taller diez días después de la primera visita, cerca del cierre, sin carpeta esta vez.
+Lucia volvió al taller dos semanas después de la primera visita, cerca del cierre, sin carpeta esta vez.
 
 —Sirvió —dijo, sin preámbulo.
 
@@ -170,7 +266,7 @@ Kal no discutió el punto. Estaba limpiando una llave que ya estaba limpia, más
 
 —¿Y ahora qué?
 
-—Ahora nada. Un arma menos en la calle, una extorsión que ya puedo sostener y un expediente que aguanta una revisión. —Lo dijo sin orgullo, como quien lee un resultado, no como quien lo celebra—. Eso no significa que confíe en usted.
+—Ahora nada. Un arma menos en la calle, una extorsión que ya puedo sostener y un expediente que aguanta una revisión. Eso no significa que confíe en usted.
 
 —Yo tampoco confío en usted.
 
@@ -200,7 +296,7 @@ Esa noche Kal llegó al loft con la tarjeta todavía en el bolsillo del pecho, d
 
 Chiara estaba en la cocina, descalza, con el pelo recogido a medias y una copa de vino que llevaba más tiempo en la mano que en la boca. Lo miró entrar, leyó algo en cómo se movía —siempre lo hacía— y esperó.
 
-—Lucia Varek me dejó su número directo —dijo Kal, colgando las llaves con más cuidado del necesario—. El de verdad, no el del Departamento.
+—Lucia Varek me dejó su número directo —dijo Kal, dejando las llaves en el cuenco con más cuidado del necesario—. El de verdad, no el del Departamento.
 
 Chiara no bajó la copa de inmediato.
 
@@ -222,6 +318,10 @@ Chiara se quedó con la copa a medio camino, dándole vueltas a algo que no dijo
 
 —Yo tampoco lo sé.
 
-Ella no dijo nada más. Bebió lo que quedaba en la copa, la dejó en el fregadero, y se acercó a él sin prisa, no para pedirle explicaciones, sino porque ya había decidido, sin anunciarlo, que aquello era un dato más que guardar, no un problema que resolver esa noche.
+—¿Y el Canal Seco?
 
-Kal la dejó acercarse, y no volvió a pensar en la tarjeta hasta mucho después.
+—Nada que no se arregle.
+
+Ella no dijo nada más. Bebió lo que quedaba en la copa, la dejó en el fregadero y se acercó a él sin prisa.
+
+Kal la dejó acercarse.

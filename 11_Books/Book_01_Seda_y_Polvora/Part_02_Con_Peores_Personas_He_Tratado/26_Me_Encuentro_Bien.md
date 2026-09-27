@@ -1,12 +1,12 @@
 <!--
-Estado: BORRADOR — primer capítulo de la Parte II (La Construcción). Pendiente de revisión del autor.
+Estado: BORRADOR — primer capítulo de la Parte II (*Con peores personas he tratado*). Pendiente de revisión del autor. Cirugía editorial E5 (2026-09-27, [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II]] §9): cronología fija de ~24 h, POV y glosas; sigue BORRADOR.
 Protagonistas: Chiara Bellandi (POV único). Apariciones: Dario Varek (recuerdo de madrugada + confrontación), Walter "Walt" Keegan.
-Ventana temporal: la mañana en que Kal sale de San Aurelio de emergencia. Un día después de H15 (la noche del jacuzzi, Cap. 25). La advertencia de Varek de madrugada ocurrió la noche del jacuzzi y aquí entra como recuerdo comprimido (cierre de H15), no como escena propia. Ejecuta el núcleo vivo de H5 — San Aurelio desde el lado de Chiara.
+Ventana temporal: la mañana en que Kal sale de San Aurelio de emergencia. La mañana siguiente a H15 (la noche del jacuzzi, Cap. 25); todo el capítulo cabe en ese día (galpón esa misma noche). La advertencia de Varek de madrugada ocurrió la noche del jacuzzi y aquí entra como recuerdo comprimido (cierre de H15), no como escena propia. Ejecuta el núcleo vivo de H5 — San Aurelio desde el lado de Chiara.
 Lugares: El Penthouse y la terraza sur del Monarch; la destilería de Walt; el taller del norte (Rutas de Milla, cerca de Kingsley Field).
 Función: CANON DEL AUTOR, H5 lado Chiara.
 - Chiara despierta motivada por lo de anoche ("libros abiertos"); tiene reservada la terraza sur para un desayuno siciliano y está por citar a Kal cuando encuentra su mensaje. El mensaje acordado ("...Me encuentro bien. Te veo al volver.") la corta: Kal no tranquiliza antes de tiempo, contesta una pregunta que ella no hizo. Su instinto lo conecta con lo que Varek le dijo de madrugada.
 - IRONÍA CANON: quien sacó a Kal de la ciudad fue Halbrook, no Varek. Chiara apunta al hombre equivocado y el capítulo NO lo resuelve. Kal no le da el nombre real (protege el hilo Halbrook/Nadir/convoy).
-- Walt: primero la destilería (sembrada en Cap. 12), después deriva a "lo que sea que es esto" entre ella y Kal. Walt got un mensaje también ("Cuida el barrio. Si Chiara necesita algo, ayúdala sin chistar."), lo que le confirma a Chiara que Kal planeó la salida. Línea canon de Walt (intención fija, puntuación adaptable): "confiaré en su palabra pero no puedo decir lo mismo de su corazón, eso tendré que verlo con mis ojos."
+- Walt: primero la destilería (sembrada en Cap. 12), después deriva a "lo que sea que es esto" entre ella y Kal. Walt recibió un mensaje también ("Cuida el barrio. Si Chiara necesita algo, ayúdala sin chistar."), lo que le confirma a Chiara que Kal planeó la salida. Línea canon de Walt (intención fija, puntuación adaptable): "confiaré en su palabra pero no puedo decir lo mismo de su corazón, eso tendré que verlo con mis ojos."
 - Dario: Chiara, creyéndolo detrás de la desaparición de Kal, investiga y lo sigue hasta el taller del norte con una coartada fina (se quedó varada; Kal la llevó ahí una vez). Varek ya sabe por qué está ahí. Le presenta a Kal como peligroso usando el incidente del hospital contado a su favor y el pasado turbio de Kal; ella se hace la que no sabe nada, pero se adelanta a todo porque Kal se lo contó en el jacuzzi. Sale la misoginia que Varek normalmente administra mejor. Las tres líneas canon: "Trabajas para mí. No conmigo." / "¿Te estás acostando con él?" / "Si hay que eliminar a Kal, entonces tú vas a hacerlo." + "vas a aprender tu lugar". El orgullo de Chiara la mantiene en la habitación más de lo prudente: NO "entiende su lugar". El arma nunca se nombra: sólo el frío del cuarto y que Chiara parece estar hablando con todo menos con un hombre (alusión al diablo, sin decir la palabra), poética por lo devota que es.
 Continuidad / provisional:
 - Llave del loft: Kal se la dio al terminar la obra/decoración del loft (informal, para noches sueltas). La llave "oficial" en una cajita — "pasa también las mañanas" — sigue siendo H16.
@@ -14,7 +14,7 @@ Continuidad / provisional:
 - El taller del norte: ficha creada [[05_Locations/El_Taller_del_Norte]] (DISEÑO). Dueño formal del terreno sigue PENDIENTE. En prosa: "el taller del norte" / "el galpón".
 - La destilería de Walt: ficha creada [[05_Locations/Destileria_de_Walt]] (DISEÑO: bodega de granos reconvertida, borde industrial de La Almendra). Nombre y punto exacto siguen PENDIENTE. En prosa: "la destilería" / "la bodega".
 - Ritual de la vela por Kal: NO existe todavía (nace tras F4 / Año Nuevo en Washington). Chiara reza, sin ritual.
-- Ritual del "Ciao, bello": NO existe todavía (nace tras H21). Los mensajes son planos y ansiosos.
+- Ritual del *Ciao*: NO existe todavía. *Ciao, bella* / *Ciao, bellissimo* nace en el Cap. 35; nunca *Ciao, bello*. Los mensajes son planos y ansiosos.
 - Dario tutea a Chiara (gesto de poder); ella le sostiene el usted como pared.
 -->
 
@@ -62,7 +62,7 @@ La destilería de Walt olía a maíz cocido y a madera nueva, y por debajo, a al
 
 —Bien. —Cortó una etiqueta torcida con la uña del pulgar y la volvió a pegar derecha—. Ya llegará la máquina. Mientras, las pego yo. Prefiero entregar tarde que entregar aguado, y quien no entienda eso que le compre a otro.
 
-Chiara reconoció la frase antes de terminar de oírla. La había oído antes, con esas mismas costuras, en otra boca.
+Chiara reconoció la frase antes de terminar de oírla.
 
 —Esa la dice Kal.
 
@@ -76,13 +76,13 @@ Walt dejó el trapo. Sacó el teléfono del bolsillo del pantalón, buscó despa
 
 —Me llegó a las cinco y media —dijo Walt—. Ni un minuto de explicación. Nunca los da.
 
-Ella miró la pantalla más tiempo del que hacía falta para leer nueve palabras. No la asustó lo que decían. La asustó la hora, y que hubiera dos mensajes, y que estuvieran escritos con calma. Un hombre al que se llevan a rastras no se sienta a repartir encargos por orden de importancia.
+Ella miró la pantalla más tiempo del que hacía falta para leer diez palabras. No la asustó lo que decían. La asustó la hora, y que hubiera dos mensajes, y que estuvieran escritos con calma. Un hombre al que se llevan a rastras no se sienta a repartir encargos por orden de importancia.
 
 —Entonces se fue por su propio pie —dijo.
 
 —Se fue por su propio pie —confirmó Walt—. Lo ha hecho antes. Vuelve cuando vuelve. —Recogió el trapo otra vez, más por tener las manos ocupadas que por usarlo—. Le voy a dar un consejo que no me pidió, señorita. En esta ciudad, cuando un hombre como Kal desaparece un par de días, la gente que lo quiere aprende a no levantar las piedras a ver qué encuentra. Las piedras de aquí tienen cosas debajo que muerden.
 
-Chiara no contestó a eso. Walt la miró un segundo de más, como si el silencio le hubiera dicho lo que ella no.
+Chiara no contestó a eso. Walt la miró un segundo de más.
 
 —Va a levantarlas de todos modos —dijo.
 
@@ -100,13 +100,13 @@ Walt la miró un rato largo. No con desconfianza; con la atención de quien est�
 
 —Le creo a su palabra, señorita. —Levantó la caja del filo del banco y se la acomodó contra el pecho—. A su corazón todavía no lo conozco lo suficiente para creerle lo mismo. Eso voy a tener que verlo con mis ojos.
 
-Se llevó las botellas a la camioneta. Las botas de cazador sonaron parejas sobre la grava, y la conversación quedó cerrada sin que hiciera falta decirlo.
+Se llevó las botellas a la camioneta. Las botas de cazador sonaron parejas sobre la grava.
 
 ***
 
 Chiara hizo lo que sabía hacer.
 
-Preguntó a los valets qué coche había sacado Varek y a qué hora. Consiguió que una chica de contaduría le enseñara la bitácora del estacionamiento sin preguntar para qué. Llamó a dos personas y le mintió a las dos con mentiras apenas distintas, para ver cuál de las dos le volvía cambiada. No fue torpe. Pero lo estaba haciendo por Kal, dentro de un edificio que era de Varek, y para la segunda noche entendió que sus preguntas caminaban de vuelta hacia él más rápido de lo que sus respuestas llegaban a ella.
+Preguntó a los valets qué coche había sacado Varek y a qué hora. Consiguió que una chica de contaduría le enseñara la bitácora del estacionamiento sin preguntar para qué. Llamó a dos personas y le mintió a las dos con mentiras apenas distintas, para ver cuál de las dos le volvía cambiada. No fue torpe. Pero lo estaba haciendo por Kal, dentro de un edificio que era de Varek, y para la noche entendió que sus preguntas caminaban de vuelta hacia él más rápido de lo que sus respuestas llegaban a ella.
 
 Así que dejó de preguntar y lo siguió.
 
@@ -124,7 +124,7 @@ Dos hombres en la puerta. Adentro hacía frío: una nave de lámina en invierno 
 
 —Del hospital, para empezar. —Habló despacio, cordial, como quien te hace un favor que después le vas a agradecer—. Dos hombres apuntándose con un arma al lado de una mujer sedada. Uno de los dos estaba fuera de sí. No fui yo. —Dejó pasar un segundo—. Y de antes. El ejército. Cómo salió de ahí. Las cosas que hace un hombre entrenado para eso cuando ya nadie le pone reglas. Podría contártelas, pero preferirías no oírlas de mí.
 
-Chiara sostuvo la cara quieta. Dejó que hiciera *esto no lo sabía*. Dejó que hiciera *cuesta oírlo*. Lo sabía todo. Se lo había contado él mismo, dos noches atrás, en el agua, sin nada entre los dos: el convoy, el vidrio del parabrisas, el niño por la ventanilla, la prisión que cayó sobre él y no sobre el general. Sostener la sorpresa en la cara mientras él creía estar revelándole algo era como sostener una copa llena y no derramarla en un tren en marcha.
+Chiara sostuvo la cara quieta. Dejó que hiciera *esto no lo sabía*. Dejó que hiciera *cuesta oírlo*. Lo sabía todo. Se lo había contado él mismo, la noche anterior, en el agua, sin nada entre los dos. Sostener la sorpresa en la cara mientras él creía estar revelándole algo era como sostener una copa llena y no derramarla en un tren en marcha.
 
 Le salió demasiado limpio. Varek lo vio.
 
