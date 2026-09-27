@@ -19,7 +19,7 @@ Fuente: [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_
 
 ## Revisión editorial y continuidad
 
-- **Título nuevo del Libro I (2026-09-27):** EPUB regenerado con título y portada nuevos (`Mascaras_de_Cristal_VICTOR_PAZ.png`, 1024×1536, aprobada por el autor). Falta: portada ≥1600×2560 (1:1.6) si va a KDP; título de `00_Nota_Editorial.md`; retirar `output/Seda_y_Polvora.epub`. Ver [[98_Agent_Handoff/sessions/2026-09-27_claude_nombre_de_saga]].
+- **Título nuevo del Libro I (2026-09-27):** EPUB regenerado con título y portada nuevos (`Mascaras_de_Cristal_VICTOR_PAZ.png`, 1024×1536, aprobada por el autor). Falta: portada ≥1600×2560 (1:1.6) si va a KDP; título de `00_Nota_Editorial.md`. EPUB viejo movido a `output/_obsoletos/`. Ver [[98_Agent_Handoff/sessions/2026-09-27_claude_nombre_de_saga]].
 
 - **Invitado de la mesa tres (Cap. 12) = Nereo Volpi con otro nombre (DISEÑO del autor, 2026-09-26):** le saca a Tommaso "la versión" de Chiara (escalón 3). "Jugaba con Alessio en Palermo" es **tapadera**: Volpi no conoció a Alessio ni sabe qué le pasó. La identidad **no se confirma en el Libro I**; la prosa del 12 no cambia. Pago retroactivo pendiente de capítulo (*Sombras de Poder* o *Cuentas de Sangre*): alguien conecta al invitado con la muerte de Tommaso, que le abre la puerta a un hombre que ya conocía. Ver [[02_Characters/Nereo_Volpi]] y el ledger (escalón 3). No mezclar con el hombre del Peugeot.
 - **Walt / Natalie Keegan (2026-09-26):** el "cambio de veredicto" era [[02_Characters/Natalie_Keegan]], ya incorporada en canon. Falta su entrada en la prosa del Cap. 3 (salida de Walt): choca con "Nadie me lo dijo en diez años" (3/672). Decide el autor.
