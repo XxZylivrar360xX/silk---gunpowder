@@ -1,6 +1,6 @@
 <!--
-Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md).
-Protagonistas: Kal Mercer, Walter Keegan, Irene Salcedo, Hector Navarro, Nadir Amrani, Daniel Hayes.
+Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-26 (Prioridad C, 5-ter, autorizada por el autor, sigue TERMINADO): se corta la escena de Tomas Vale en el minimarket (Walt nombra a Irene; Irene nombra a Tomas al soltar a Nadir y Danny), se compactan la negociacion (fuera las armas que no bajan), el recuento, el Tasador y la salida, se cortan el tercer "preguntate quien queria", "¿Y si es Dario?" y la ultima frase interpretativa (el capitulo cierra en el cafe). Se corrige la atribucion de la regla de Irene. Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_15-17.md. La linea de Funcion de abajo describe la version previa en lo que toca a la apertura.
+Protagonistas: Kal Mercer, Walter Keegan, Irene Salcedo, Tomas Vale (sin POV), Hector Navarro, Nadir Amrani, Daniel Hayes.
 Ventana temporal: dias despues del Capitulo 16 (hospital, ahora fusionado con El sobre rojo). Hector sigue en recuperacion; para el cierre del capitulo ya esta en casa. Antes de H4 (El dia nublado).
 Lugares: un negocio dentro de La Almendra (apertura), territorio de La Ronda del Canal / Canal Seco, casa de Hector Navarro (cierre).
 Funcion: FUSIONADO (2026-09-03), a peticion del autor -- el antiguo Cap. 19 (Cuentas claras, negociacion con Irene) y el antiguo Cap. 20 (Anticiparse, reunion del barrio) se unen en un solo capitulo, porque Anticiparse por separado resultaba demasiado corto para sostenerse solo. "Cuentas claras" queda como titulo oficial; "Anticiparse" se conserva como nombre de la escena de cierre en casa de Hector, marcada con su propio encabezado interno. Resuelve el hilo sembrado en el Capitulo 15 (el robo de Nadir y Danny): abre con POV del mundo criminal en plena operacion (Tomas Vale ejecutando el golpe de advertencia de Irene), sigue con la negociacion de Kal y Walt (sin Hector) en el Canal Seco, y cierra con la reunion de todo el barrio ya en casa de Hector -- el recuento de causas y consecuencias, el dato incomodo de que el rumor era demasiado preciso para ser chisme de calle (lore de trasfondo sobre Dario Varek, nunca confirmado en prosa -- ver Dario_Varek.md), y Kal explicandole a Nadir y Danny que su enojo es por no haber sido avisado a tiempo, no por el error en si.
@@ -9,25 +9,9 @@ Apertura por residuo: no depende directamente del cierre del Capitulo 16 (que ce
 
 # Capítulo 17 — Cuentas claras
 
-Tomas Vale llevaba la cuenta en la cabeza, como siempre: dos cajas de la cosecha, más lo que había costado la noche entera vigilando a un tuerto que ya ni para eso servía. Lo demás no era matemática. Era mensaje.
-
-Entró al minimarket de la esquina de Avenida Almendra pasada la medianoche, cuando el dueño ya había cerrado la caja y solo quedaba el empleado del turno de noche — un muchacho que reconoció el símbolo antes de que Tomas dijera una palabra: una ronda de tres líneas curvas, como el agua de un canal, tatuada en el antebrazo.
-
-—Tranquilo —dijo Tomas—. No venimos por ti.
-
-Se llevaron dos cajas de cigarros y una de licor, ni un peso más de lo que Irene había calculado que valía la lección. Antes de irse, Tomas sacó un marcador y dibujó la misma ronda de tres líneas en el cristal de la puerta, donde cualquiera que pasara por la Almendra a la mañana siguiente pudiera verla.
-
-No rompieron nada. No tocaron al muchacho. Irene había sido clara: esto no era una guerra. Era una factura.
-
-—Dile a tu jefe que fue La Ronda —le dijo Tomas, ya en la puerta—. Y dile que salió barato, comparado con lo que se llevaron los suyos.
-
-El muchacho no dijo nada. Se quedó mirando el símbolo en el cristal el resto de la noche, preguntándose a quién tenía que avisarle primero.
-
-***
-
 Walt se lo dijo a la mañana siguiente, en la puerta del taller, sin darle vueltas.
 
-—Golpearon el minimarket de la esquina. Dejaron la marca de La Ronda en la puerta, bien clara, para que nadie tuviera que adivinar.
+—Golpearon el minimarket de la esquina. La gente de Irene Salcedo. Dejaron la marca de La Ronda en la puerta, bien clara, para que nadie tuviera que adivinar.
 
 —¿Qué se llevaron?
 
@@ -59,9 +43,9 @@ El Canal Seco no se parecía a nada que Kal conociera de memoria. Calles más es
 
 Irene los esperaba en la parte de atrás de un puesto de abarrotes, sentada en una silla plegable, con una libreta abierta sobre las piernas. A un lado, sentados en el suelo con la espalda contra la pared y un hombre armado sin quitarles la vista de encima, estaban Nadir y Danny.
 
-Kal los miró un segundo de más — la clase de mirada que preguntaba por qué nadie le había consultado nada antes de meterse ahí, sin que hiciera falta decir una sola palabra. Nadir bajó la vista primero. Danny ni siquiera lo intentó.
+Kal los miró un segundo de más. Nadir bajó la vista primero. Danny ni siquiera lo intentó.
 
-—Así que usted es Kal Mercer. —Irene lo estudió de arriba abajo, sin levantarse—. He oído de usted. En la calle, como se oye todo. Nunca sé cuánto de lo que se dice ahí es cierto y cuánto es que a la gente le gusta exagerar.
+—Así que usted es Kal Mercer. —Irene lo estudió de arriba abajo, sin levantarse—. He oído de usted. En la calle, como se oye todo.
 
 —Lo mismo digo de La Ronda —contestó Kal—. Aunque de ustedes se habla más en números que en historias.
 
@@ -71,15 +55,7 @@ Kal los miró un segundo de más — la clase de mirada que preguntaba por qué 
 
 —O mejor. Con la calle nunca se sabe cuál de las dos.
 
-Kal notó que los dos hombres armados de la entrada no bajaban la guardia ni un centímetro, y se lo señaló a Irene con apenas un movimiento de cabeza.
-
-—Va a entender que a mi gente le cueste bajar el arma —dijo Irene, sin que se lo preguntara—. Les robaron en sus propias narices. Eso no se cura con una disculpa.
-
-—Créame que sé lo que es que le quiten a uno la tranquilidad en cinco minutos —dijo Kal—. A mí también me la quitaron esta semana. No hace falta que bajen nada. Solo que no se les dispare el dedo mientras hablamos.
-
-Irene no contestó a eso, pero algo en su cara dijo que el punto le había llegado.
-
-—No vine a pelear —dijo, cerrando la libreta—. Vine a cobrar. Sus dos muchachos entraron a una bodega mía sin permiso y se llevaron algo que no era de ellos.
+—No vine a pelear —dijo Irene, cerrando la libreta—. Vine a cobrar. Sus dos muchachos entraron a una bodega mía sin permiso y se llevaron algo que no era de ellos.
 
 —No sabían que era suya.
 
@@ -103,7 +79,7 @@ Irene se quedó pensando eso más tiempo del que le había dedicado a cualquier 
 
 —Eso no es una muestra de buena fe. Es un seguro.
 
-—Llámelo como quiera. A mí me sirve no deberle nada a nadie, y a usted le sirve un colchón si algo sale mal. Ninguno de los dos termina debiendo.
+—Llámelo como quiera. A usted le sirve un colchón si algo sale mal. Ninguno de los dos termina debiendo.
 
 —¿Y ellos? —Irene señaló a Nadir y Danny con la cabeza, sin mirarlos—. ¿Alguien les preguntó si querían jugarse la cárcel por esto?
 
@@ -119,13 +95,13 @@ Irene sonrió, apenas — la primera vez en toda la conversación.
 
 —Hecho.
 
-Irene hizo una seña con la mano, y el hombre que custodiaba a Nadir y Danny los soltó sin ceremonia. Los dos se pusieron de pie despacio, sin acercarse a Kal todavía, esperando a ver qué cara traía.
+—Tomás —dijo Irene, y el hombre que custodiaba a Nadir y Danny los soltó sin ceremonia. Los dos se pusieron de pie despacio, sin acercarse a Kal todavía, esperando a ver qué cara traía.
 
 Irene abrió la libreta de nuevo, ya volviendo a sus cuentas, como si la conversación nunca hubiera interrumpido nada importante.
 
 —Una cosa más —dijo, sin levantar la vista—. Dígale a sus dos muchachos que la próxima vez que un rumor les llegue tan fácil, se pregunten quién quería que les llegara. No todos los tuertos borrachos son casualidad.
 
-Kal no tuvo respuesta para eso. Se la guardó, junto con todo lo demás que esa tarde le había enseñado sin que él lo pidiera.
+Kal no tuvo respuesta para eso. Se la guardó.
 
 ***
 
@@ -135,7 +111,7 @@ Caminaron los cuatro de vuelta a la camioneta, sin que nadie dijera nada hasta q
 
 —¿Nos creyó?
 
-—No hacía falta que nos creyera. Le devolviste lo suyo con algo encima, y le diste una regla clara para la próxima vez. Eso es lo único que le importa a alguien como Irene: que las cuentas cierren.
+—No hacía falta que nos creyera. Le devolviste lo suyo con algo encima. Eso es lo único que le importa a alguien como Irene: que las cuentas cierren.
 
 Kal no dijo nada, pero algo en el pecho se le acomodó distinto — no orgullo todavía, pero cerca. Había resuelto algo del barrio sin Héctor parado a su lado diciéndole qué decir, y el barrio, de alguna manera que todavía no sabía nombrar, ya lo sabía.
 
@@ -143,9 +119,9 @@ Nadir esperó hasta que estuvieron subiendo a la camioneta para hablar.
 
 —Kal...
 
-—Todavía no —dijo Kal, sin subir la voz—. Primero suban. Después hablamos tú, Danny y yo. Y antes de que digas nada, pregúntate quién quería que ese rumor te llegara tan fácil. Porque yo ya me lo pregunté, y no me gustó a dónde llegué.
+—Todavía no —dijo Kal, sin subir la voz—. Primero suban. Después hablamos tú, Danny y yo.
 
-Nadir no entendió del todo, pero asintió de todos modos, y se subió a la camioneta sabiendo que ésa era, por ahora, toda la conversación que iba a tener.
+Nadir asintió y se subió a la camioneta sabiendo que ésa era, por ahora, toda la conversación que iba a tener.
 
 ***
 
@@ -157,7 +133,7 @@ Kal, Walt, Nadir y Danny se acomodaron donde pudieron: Walt en el sofá que cruj
 
 —Bueno —dijo Héctor, sin ceremonia—. Cuéntenme todo, desde el principio. Y esta vez nadie se guarda nada.
 
-Kal lo contó primero, seco, sin adornar ni suavizar: el golpe de advertencia en el minimarket, la reunión en el Canal Seco, los términos con Irene. Walt llenó los huecos que a Kal se le escapaban. Nadir y Danny escucharon sin interrumpir, como quien escucha su propia sentencia leída en voz alta por segunda vez.
+Kal lo contó primero, seco, sin adornar ni suavizar. Walt llenó los huecos. Nadir y Danny escucharon sin interrumpir, como quien escucha su propia sentencia leída en voz alta por segunda vez.
 
 —Van a mover mercancía para Irene. Gratis. El tiempo que ella decida —resumió Héctor, al final, con la voz todavía floja del infarto pero el filo intacto—. Eso le cuesta al taller dos pares de manos que ya no tenemos, justo cuando más las necesitamos.
 
@@ -185,45 +161,35 @@ El cuarto se quedó callado un momento.
 
 —¿Y eso qué significa? —preguntó Nadir, con la voz más chica de lo que él mismo esperaba.
 
-Nadie contestó enseguida, porque nadie en el cuarto tenía todavía una respuesta que quisiera decir en voz alta.
+Nadie contestó enseguida.
 
 —Significa que alguien quería que ustedes entraran ahí —dijo Kal, al final—. No sé quién. No sé por qué. Pero alguien con acceso real a lo que pasa en el Canal Seco decidió que le convenía que nosotros y La Ronda tuviéramos un problema. Y funcionó.
 
-Héctor cerró los ojos un segundo, el mismo gesto de siempre, el que usaba antes de decir algo que ya llevaba tiempo masticando.
+Héctor cerró los ojos un segundo, el mismo gesto de siempre.
 
 —Eso es peor que un error, Kal. Un error se corrige. Esto es una jugada de alguien que todavía no conocemos, y que sabe más de nuestro mapa del que nosotros sabemos del suyo.
 
-Walt se quedó mirando un punto fijo de la pared, la cara más quieta de lo que Kal le había visto en semanas.
+Walt se quedó mirando un punto fijo de la pared.
 
 —Yo sé quién mueve así —dijo, al final—. Solo conozco a un hombre en esta ciudad que planta un rumor como quien planta una semilla y espera diez años a que crezca.
 
 —El Tasador —dijo Kal. No era pregunta.
 
-—El mismo gordo hijo de puta. —Walt no subió la voz, pero algo en ella se afiló—. Diez años atrás intentó meterse con Jim. Ofrecerle trabajo, mandarlo a hacer cosas chicas, ir metiéndolo despacio en su mundo sin que yo me enterara. Cuando me enteré, fui a su oficina y le partí el escritorio con una barreta. No le puse una mano encima a él. Ni falta que hizo.
+—El mismo gordo hijo de puta. —Walt no subió la voz, pero algo en ella se afiló—. Diez años atrás intentó meterse con Jim. Cuando me enteré, fui a su oficina y le partí el escritorio con una barreta. No le puse una mano encima a él. Ni falta que hizo.
 
 Nadie interrumpió.
 
-—Tres días después hubo un asalto en una casa de empeños suya. Un guardia terminó en el hospital, casi no la cuenta. Y la barreta que encontraron en la escena tenía mis huellas — las mismas que dejé partiéndole el escritorio, nada más que movidas de lugar. No tuvo que inventar nada. Solo tuvo que guardarla.
+—Tres días después hubo un asalto en una casa de empeños suya. Un guardia terminó en el hospital, casi no la cuenta. Y la barreta que encontraron en la escena tenía mis huellas. No tuvo que inventar nada. Solo tuvo que guardarla.
 
 —¿Y un abogado? —preguntó Nadir, con la voz chica otra vez.
 
-—Tres me dijeron que sí al principio. Los tres se echaron atrás en una semana, sin explicar por qué. El cuarto era un defensor de oficio con el doble de casos de los que podía llevar bien. —Walt se encogió de hombros, un gesto que no alcanzaba a disimular diez años de peso—. No hizo falta que Crowe testificara nada. Solo tuvo que asegurarse de que nadie más lo hiciera por mí.
+—Tres me dijeron que sí al principio. Los tres se echaron atrás en una semana, sin explicar por qué. El cuarto era un defensor de oficio con el doble de casos de los que podía llevar bien. —Walt se encogió de hombros—. No hizo falta que Crowe testificara nada. Solo tuvo que asegurarse de que nadie más lo hiciera por mí.
 
 Héctor cerró los ojos.
 
 —¿Y ahora se pregunta si todavía tiene ese alcance en el sur?
 
 —Me pregunto si alguna vez lo perdió.
-
-El cuarto se quedó en silencio un momento, el peso de la pregunta más grande que cualquier respuesta que alguien tuviera para dársela.
-
-—¿Y si es Darío? —preguntó Nadir, de pronto, casi como quien tira un nombre solo para ver si aterriza en algún lado.
-
-Walt negó con la cabeza, casi antes de que Nadir terminara la pregunta.
-
-—Darío no se ensucia las manos con un rumor de barrio. Tiene gente para cosas más grandes que esto.
-
-Nadie insistió con el nombre. Nadie, tampoco, se quedó del todo convencido.
 
 ***
 
@@ -241,7 +207,7 @@ Nadir levantó la vista, sin atreverse todavía a creer que fuera a salir tan f�
 
 —Probablemente. —Kal no lo negó—. Pero si me lo hubieran dicho, y las cosas salían mal de todos modos, yo ya habría sabido qué hacer antes de que salieran mal. Habría tenido un plan esperando, en vez de estar armando uno a los golpes, sin dormir, sin saber ni siquiera qué pregunta hacer primero. Eso es lo que cuesta que no me avisen. No el error. La sorpresa.
 
-Danny no dijo nada, pero asintió despacio, como quien por fin entiende una regla que hasta ahora solo había obedecido sin comprender del todo.
+Danny no dijo nada, pero asintió despacio.
 
 —La próxima vez que se les ocurra algo así —siguió Kal—, no me pidan permiso. Avísenme. Aunque sepan que voy a decir que no. Prefiero decir que no a tiempo, que enterarme tarde de que ya dijeron que sí sin mí.
 
@@ -251,4 +217,4 @@ Nadir asintió también.
 
 —Bien.
 
-Kal se dio la vuelta hacia la cocina, donde Héctor seguía sentado dejando que Walt hiciera un café que él tampoco iba a terminar, y pensó, sin decírselo a nadie, que ojalá algún día alguien le enseñara a él la misma regla que acababa de enseñarles a ellos.
+Kal se dio la vuelta hacia la cocina, donde Héctor seguía sentado dejando que Walt hiciera un café que él tampoco iba a terminar.

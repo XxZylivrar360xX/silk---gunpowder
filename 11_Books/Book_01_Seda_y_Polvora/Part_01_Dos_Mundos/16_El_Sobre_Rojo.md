@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md).
+Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-26 (Prioridad C, autorizada por el autor, sigue TERMINADO): prolepsis de la cocina, saltos de POV (casino, cuarto, auto anclado en Kal), parte del infarto a Kal comprimido, contradiccion "llegaron / seguia conduciendo" al Monarch, tercera "respuesta suficiente", siembra de Matteo ("Matteo cubre el piso", hilo C; rima con el Cap. 41). Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_15-17.md.
 Protagonistas: Kal Mercer, Chiara Bellandi, Hector Navarro.
 Ventana temporal: continua directamente del Capitulo 15 (POV Chiara). El domingo en que Kal vuelve del campamento, y los dias siguientes en el hospital.
 Lugares: La Casa (loft de Kal), The Monarch Casino & Hotel, Hospital Santa Aurelia.
@@ -15,7 +15,7 @@ Lo reconoció como del Monarch antes de agacharse a recogerlo — el sello dorad
 
 Dejó las llaves en la isla de la cocina. Se sentó en un banco. Abrió el sobre y, casi en el mismo gesto, sacó el teléfono del bolsillo y lo encendió.
 
-Las dos cosas pasaron casi juntas — el papel desdoblándose bajo sus dedos, la pantalla iluminándose con el logo de siempre — y durante un segundo entero no pasó nada más que eso: un hombre sentado en su cocina, tranquilo, sin saber todavía que ese segundo era el último tranquilo que iba a tener por un rato.
+Las dos cosas pasaron casi juntas — el papel desdoblándose bajo sus dedos, la pantalla iluminándose con el logo de siempre — y durante un segundo entero no pasó nada más que eso: un hombre sentado en su cocina, tranquilo.
 
 Fue el aroma el que lo delató antes que la letra — canela, vainilla, algo que no pertenecía a ningún sobre con sello de casino. La letra, apretada e inclinada, ya no dejaba ninguna duda.
 
@@ -27,15 +27,15 @@ Tenía un mensaje de voz de Walt, del día anterior, con la voz de alguien que n
 
 —Kal. Eh... —silencio, un golpe seco contra el micrófono, como si buscara un botón que no encontraba—. No sé si esto ya está grabando o... —otro silencio, más largo, con algo de fondo que sonaba a Walt alejando el teléfono para mirarlo—. A ver. Kal, si me escuchas, es importante. Devuelve la llamada. —Un clic, un murmullo apagado, "¿ya? ¿le doy aquí?", y el buzón cortó solo.
 
-Kal no volvió a mirar la carta. La dejó a medio leer sobre la isla, agarró las llaves que acababa de soltar, y salió sin cerrar la puerta con la misma calma con la que la había abierto un minuto antes — que ya no le quedaba nada.
+Kal no volvió a mirar la carta. La dejó a medio leer sobre la isla, agarró las llaves que acababa de soltar, y salió sin cerrar la puerta.
 
 ***
 
-Pasó por el casino antes que por el hospital, y ni él habría sabido explicar bien por qué — salvo que Chiara era la que había encontrado a Héctor, la que había llamado a la ambulancia, la que llevaba el fin de semana entero sosteniendo algo que a él le habían dejado a medio leer en una isla de cocina.
+Pasó por el casino antes que por el hospital, y ni él habría sabido explicar bien por qué — salvo que Chiara era la que había encontrado a Héctor, la que había llamado a la ambulancia, la que llevaba el fin de semana entero sosteniendo algo que él había dejado a medio leer en una isla de cocina.
 
-Ella lo recibió antes de que llegara a preguntar nada, porque lo vio cruzar el piso de juego con una cara que ya conocía y que no le había visto nunca dirigida a ella.
+Ella lo recibió antes de que llegara a preguntar nada.
 
-—Está estable —dijo, antes de que él abriera la boca—. El viernes. Un infarto. Lo encontré en el portón de su casa, llamé a emergencias y me quedé con él hasta el hospital. Después te llamé a ti, y no paré de llamarte. Llamé a Walt. Nadie sabía dónde ir a buscarte.
+—Está estable —dijo, antes de que él abriera la boca—. No paré de llamarte. Llamé a Walt. Nadie sabía dónde ir a buscarte.
 
 —Ya sé. —Kal se pasó una mano por la cara—. Estaba en un cerro con el teléfono apagado.
 
@@ -51,11 +51,11 @@ Se detuvo.
 
 —Héctor está bien —repitió Chiara, más despacio—. Está vivo, está estable, y va a estar molesto contigo si llegas ahí gritando en vez de sentarte.
 
-Kal se quedó quieto un segundo, con la furia todavía completa y sin nada firme donde clavarla.
+Kal se quedó quieto un segundo.
 
 —Llévame con él —dijo, al final.
 
-Chiara ya tenía las llaves en la mano.
+—Matteo cubre el piso —dijo Chiara. Ya tenía las llaves en la mano.
 
 ***
 
@@ -195,7 +195,7 @@ Los dos hombres tenían la misma cara. La cara de quien acaba de escuchar algo q
 
 Nadie dijo nada sobre eso.
 
-Chiara se acercó por detrás de Kal y le puso la mano en el hombro. Kal levantó la suya y la puso encima de la de ella, sin voltear a verla, y por un momento los tres se quedaron así, en un silencio que no pedía nada más.
+Chiara se acercó por detrás de Kal y le puso la mano en el hombro. Kal levantó la suya y la puso encima de la de ella, sin voltear a verla, y por un momento los tres se quedaron así.
 
 Héctor fue el primero en romperlo.
 
@@ -205,7 +205,7 @@ Héctor fue el primero en romperlo.
 
 —Necesito dormir, y ustedes dos parados ahí no me dejan. —Cerró los ojos, ya medio ido—. Vengan mañana. Los dos, no solo usted.
 
-Kal se levantó despacio, todavía con el peso entero de la conversación encima, y le apretó el hombro a Héctor antes de dejarlo dormir.
+Kal se levantó despacio y le apretó el hombro a Héctor antes de dejarlo dormir.
 
 —Descanse.
 
@@ -213,7 +213,7 @@ Kal se levantó despacio, todavía con el peso entero de la conversación encima
 
 ***
 
-Bajaron juntos hasta el estacionamiento sin hablar, y Chiara esperó a que arrancara el auto antes de preguntar lo único que llevaba horas queriendo preguntar y que no tenía nada que ver con Héctor.
+Bajaron juntos hasta el estacionamiento sin hablar, y Chiara esperó a que arrancara el auto antes de preguntar lo único que no tenía nada que ver con Héctor.
 
 —¿Cómo estuvo el campamento?
 
@@ -229,7 +229,7 @@ Kal la miró de reojo, como si la pregunta lo hubiera tomado por sorpresa en el 
 
 —Las alubias. Las dos noches. —Se rió, corto, casi para sí mismo—. Heredé el defecto de Michael, según ella. Se distraía con la parrilla exactamente igual.
 
-Chiara guardó eso en algún lado sin comentarlo, y Kal siguió, animado por un silencio que por primera vez en dos días no le pesaba.
+Chiara guardó eso en algún lado sin comentarlo, y Kal siguió.
 
 —Me contó de un chico de su clase que le lleva café todas las mañanas. Diego.
 
@@ -242,8 +242,6 @@ Chiara guardó eso en algún lado sin comentarlo, y Kal siguió, animado por un 
 —Se llama Diego. Es un nombre. Lo dije normal.
 
 —Lo dijiste como quien memoriza a un testigo.
-
-Kal no contestó a eso, lo cual, para los dos, fue respuesta suficiente.
 
 —También me preguntó por la casa —dijo, después de un rato—. La de mis papás. Quiere ir a verla.
 
@@ -267,8 +265,8 @@ Chiara lo miró, y la sonrisa que llevaba conteniendo desde lo de Diego ya no en
 
 —Eso —dijo Chiara, sin disimular ya nada— suena exactamente a algo que haría Marisol.
 
-Para cuando llegaron al Monarch, Kal seguía hablando y Chiara ya no fingía escuchar con cortesía — escuchaba de verdad, con la clase de atención que solo se gasta en la gente que una empieza a querer sin decirlo todavía. En algún punto del camino había dejado de sentir que oía una historia ajena, y había empezado a sentir a Marisol sentada atrás, real, con una opinión sobre todo.
+Para cuando llegaron al Monarch, Kal seguía hablando y Chiara ya no fingía escuchar con cortesía: escuchaba de verdad.
 
-Kal seguía conduciendo hacia el Monarch, donde iba a dejarla, sin darse cuenta de que por primera vez en dos días no estaba pensando en Nadir, ni en Danny, ni en el peso entero del fin de semana.
+Por primera vez en dos días, Kal no estaba pensando en Nadir, ni en Danny, ni en el peso entero del fin de semana.
 
 Estaba pensando en piedras que rebotaban seis veces contra cuatro.

@@ -1,55 +1,13 @@
 <!--
-Estado: TERMINADO.
-Protagonistas: Chiara Bellandi, con apariciones de Nadir Amrani, Daniel Hayes, Walter Keegan y Lucia Varek. Hector Navarro presente pero inconsciente/fuera de escena tras el infarto.
+Estado: TERMINADO. Cirugia editorial 2026-09-26 (Prioridad C, autorizada por el autor, sigue TERMINADO): corte de la apertura de Nadir y Danny y de "Dos dias antes" (5-ter; ademas corregia una cronologia rota: la escena caia en domingo con los dos ya retenidos), prolepsis de Lucia, recuento a Walt comprimido, sedan y reflexion del corazon compactados, "Contame" -> "Cuenteme". Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_15-17.md.
+Protagonistas: Chiara Bellandi, con apariciones de Walter Keegan y Lucia Varek (Nadir Amrani y Daniel Hayes solo mencionados, inalcanzables). Hector Navarro presente pero inconsciente/fuera de escena tras el infarto.
 Ventana temporal: el viernes del Capitulo 14 (La regla del telefono), mientras Kal y Marisol estan de campamento. Bajo la reordenacion del 2026-08-29, H10 va ANTES de H4 y H11 -- en este punto Kal y Chiara TODAVIA NO se han besado.
 Lugares: Casa Comunitaria De La Almendra (sotano), casa de Hector, Hospital Santa Aurelia, The Monarch Casino & Hotel.
-Funcion: capitulo exclusivo POV Chiara (2026-09-03, a peticion del autor -- separado del nuevo Capitulo 16, POV Kal, para que el fin de semana respire). Abre con Nadir y Danny: un rumor de calle sobre una bodega mal cuidada, con la cosecha lista para vender, sin que ninguno de los dos sepa de quien es -- Nadir duda antes de decidir, y el capitulo corta antes de mostrar el golpe o la captura (eso se reserva para un capitulo de negociacion futuro). Con "Dos dias antes" como encabezado literal, sigue a Chiara: va a la Almendra con un catalogo de muebles y pan para Hector, lo encuentra con la puerta abierta y en el suelo, llama a emergencias, sube con el en la ambulancia intentando comunicarse con Kal sin respuesta. En el hospital, cameo breve de la oficial Lucia Varek (pregunta de rutina, sin saber nada todavia de Kal ni del Patio) y un medico le confirma el infarto, pendiente de especialista. Walt llega a la sala de espera; recuento completo de lo que paso, y Walt revela que Hector ya habia tenido un preinfarto menor antes de ir a prision, nunca vigilado de cerca -- Chiara lo recibe con una reflexion propia, sin nombrar a su madre, sobre el costo de no tomarse en serio una enfermedad silenciosa. Walt se queda en el hospital; Chiara va al Monarch, escribe la carta, esta a punto de mandarla con un sussurro y cambia de decision -- la lleva ella misma, consecuencia directa de la promesa que le hizo a Kal en el Capitulo 13. Cierra con la carta bajo la puerta del loft, sin revelar su contenido -- eso se paga en el Capitulo 16.
+Funcion: capitulo exclusivo POV Chiara (2026-09-03, a peticion del autor -- separado del nuevo Capitulo 16, POV Kal, para que el fin de semana respire). ~~Abre con Nadir y Danny: un rumor de calle sobre una bodega...~~ (apertura cortada 2026-09-26; el lector sabe del robo lo mismo que Chiara y Walt: "Raro", y lo descubre en el Cap. 17). Abre por residuo del Cap. 14 ("El mismo viernes que Kal cargaba la camioneta"). Chiara va a la Almendra con un catalogo de muebles y pan para Hector, lo encuentra con la puerta abierta y en el suelo, llama a emergencias, sube con el en la ambulancia intentando comunicarse con Kal sin respuesta. En el hospital, cameo breve de la oficial Lucia Varek (pregunta de rutina; no conecta a Chiara con Kal, a quien tomo declaracion en el Cap. 13) y un medico le confirma el infarto, pendiente de especialista. Walt llega a la sala de espera; recuento completo de lo que paso, y Walt revela que Hector ya habia tenido un preinfarto menor antes de ir a prision, nunca vigilado de cerca -- Chiara lo recibe con una reflexion propia, sin nombrar a su madre, sobre el costo de no tomarse en serio una enfermedad silenciosa. Walt se queda en el hospital; Chiara va al Monarch, escribe la carta, esta a punto de mandarla con un sussurro y cambia de decision -- la lleva ella misma, consecuencia directa de la promesa que le hizo a Kal en el Capitulo 12 (Roma Atrii). Cierra con la carta bajo la puerta del loft, sin revelar su contenido -- eso se paga en el Capitulo 16.
 Apertura por residuo: arranca del cierre del Capitulo 14 -- pero el beat de las llamadas perdidas de Kal se recoloca al Capitulo 16: aqui, del lado de Chiara, no hay ninguna resolucion todavia.
 -->
 
 # Capítulo 15 — El portón
-
-Nadir estaba en el sótano de la casa común, entre las lámparas y el olor dulzón que ya nadie en el barrio fingía no reconocer, revisando una planta hoja por hoja, cuando Danny bajó las escaleras sin avisar.
-
-—Tengo algo —dijo Danny, todavía con el frío de la calle metido en la chaqueta.
-
-Nadir no levantó la vista.
-
-—Todo el mundo tiene algo. Dime el número.
-
-—No es de números. Es de un lugar. —Danny se apoyó en la pared, esperando a que Nadir terminara con la hoja que tenía entre los dedos—. Una bodega al otro lado del canal. Dicen que ahí guardan una cosecha entera ya lista para vender. Buena. De la que sale cara.
-
-Eso sí hizo que Nadir levantara la vista.
-
-—¿Quién te dijo eso?
-
-—Se comenta. —Danny se encogió de hombros, sin comprometerse con una fuente—. Que la cuida un solo hombre. Tuerto. Que se pasa las noches bebiendo y ya ni se para bien de la silla.
-
-Nadir se quedó pensando, la tijera de podar todavía entre los dedos.
-
-—¿Se comenta, o alguien lo vio con sus propios ojos?
-
-—Se comenta —repitió Danny, y esa vez sonó más a advertencia que a rumor.
-
-—Wallah, khoya, eso no es lo mismo. —Nadir dejó la tijera sobre la mesa, sin decidir todavía—. Un tuerto borracho cuidando una cosecha entera sin que nadie sepa de quién es. O es la entrada más fácil del año, o es la peor mentira que alguien ha puesto a correr por esta calle a propósito.
-
-—Puede ser las dos cosas.
-
-—Puede. —Se limpió las manos en el pantalón, mirando la planta sin verla realmente—. Kal no está. Héctor tampoco sabría nada de esto. Y tú y yo solos no somos el barrio entero — somos dos hombres con una idea que a lo mejor no es nuestra para tenerla.
-
-Danny no dijo nada. Dejó que el silencio hiciera lo que Nadir necesitaba que hiciera.
-
-—Bezaf riesgo para un rumor de calle —dijo Nadir, al final, más para sí mismo que para Danny.
-
-—¿Entonces no?
-
-Nadir miró la puerta del sótano, después a Danny, y se tardó un segundo de más en contestar.
-
-—Está bien. Vamos a verlo con nuestros propios ojos primero. Si el rumor es cierto, después decidimos.
-
-***
-
-## Dos días antes
 
 El mismo viernes que Kal cargaba la camioneta para el campamento, del otro lado de la ciudad, Chiara conducía el sedán negro del Monarch — un Mercedes-Benz Clase S que la empresa le había asignado como quien asigna un traje, sin preguntar si le quedaba bien — con las dos manos en el volante y la espalda más recta de lo que el asiento pedía. Nunca se había sentido cómoda manejando; prefería que la llevaran, prefería mirar por la ventana en vez de vigilar el espejo. Pero era, por ahora, el método más rápido que tenía para moverse sola sin explicarle a nadie a dónde iba ni por qué — así que manejaba, con el catálogo y una bolsa de pan todavía caliente en el asiento del copiloto, hacia la casa de Héctor.
 
@@ -57,7 +15,7 @@ No era una visita anunciada, pero tampoco necesitaba serlo — llevaba semanas v
 
 La puerta de la casa estaba abierta.
 
-No mucho — una franja de sombra entre la puerta y el marco, la clase de detalle que un día cualquiera no significa nada y que ese día, sin que Chiara supiera todavía por qué, le cerró el estómago antes de que sus piernas terminaran de decidir apurar el paso.
+No mucho — una franja de sombra entre la puerta y el marco, la clase de detalle que un día cualquiera no significa nada y que ese día le cerró el estómago antes de que sus piernas terminaran de decidir apurar el paso.
 
 Lo encontró junto al portón, de lado, con una mano todavía estirada hacia algo que ya no importaba qué era.
 
@@ -99,7 +57,7 @@ Lucía anotó algo breve, asintió, y no se quedó más de lo necesario.
 
 —Señora Bellandi.
 
-Se fue con el mismo paso con el que había llegado, y Chiara no volvió a pensar en ella hasta mucho después.
+Se fue con el mismo paso con el que había llegado.
 
 El médico que salió minutos más tarde le dio un nombre: infarto. Estable, por ahora. Un especialista de cardiología se haría cargo del seguimiento apenas hubiera cama libre, y hasta entonces no había nada confirmado del todo — solo lo suficiente para saber que la palabra correcta era esa y no otra.
 
@@ -113,9 +71,9 @@ Se obligó a pensarlo despacio, como pensaba todo. ¿Dónde estaba? Fuera de la 
 
 Walt llegó al hospital antes de que ella terminara de explicarle bien qué había pasado, con la misma cara que Chiara imaginaba que tenía ella misma.
 
-—Contame todo —dijo, sentándose a su lado sin quitarse la chaqueta.
+—Cuénteme todo —dijo, sentándose a su lado sin quitarse la chaqueta.
 
-Se lo contó en orden, sin saltarse nada: que había ido a dejarle un catálogo y pan, que la puerta estaba abierta, que lo encontró junto al portón, que llamó a emergencias, que subió con él en la ambulancia, que intentó a Kal tres veces y ninguna contestó.
+Se lo contó en orden, sin saltarse nada.
 
 —Un infarto —terminó—. Estable. Todavía esperan que venga el especialista a confirmar del todo.
 
@@ -123,7 +81,7 @@ Walt se quedó callado un momento, con las manos entre las rodillas.
 
 —Ya había tenido uno antes —dijo, al final—. Chiquito. Antes de que yo me fuera. Ni se dio bien cuenta de lo que fue hasta después, y para cuando alguien le insistió que se hiciera ver, ya se le había pasado el susto y no quiso. Nunca fue nada que alguien le vigilara de cerca.
 
-Chiara no dijo nada. Pensó, sin decirlo, en lo poco que avisa un corazón antes de fallar del todo — en que a veces el cuerpo entero sigue funcionando exactamente igual hasta el día que deja de hacerlo, y en el precio que puede llegar a tener no tomarse en serio algo que no duele lo suficiente como para asustar a nadie.
+Chiara no dijo nada. Pensó, sin decirlo, en lo poco que avisa un corazón antes de fallar del todo, y en el precio que puede llegar a tener no tomarse en serio algo que no duele lo suficiente como para asustar a nadie.
 
 —¿Nadir? ¿Danny? —preguntó Walt, después—. Alguno de los dos tiene que saber cómo llegar a Kal.
 
@@ -145,7 +103,7 @@ Se quedó con el sobre en la mano un momento de más, pensando en un chico de do
 
 —Yo lo llevo —le dijo al sussurro, y se guardó el sobre en el bolsillo del abrigo antes de que nadie pudiera ofrecerse a ahorrarle el viaje.
 
-Condujo hasta la Almendra con el sedán negro del Monarch, las dos manos en el volante, sin la costumbre suficiente para sentirse cómoda pero sin nadie a quien pedirle que manejara por ella. Metió el sobre por debajo de la puerta de Kal, sin abrirlo de nuevo, sin releerlo, sin darse el permiso de dudar de lo que había escrito.
+Condujo hasta la Almendra. Metió el sobre por debajo de la puerta de Kal, sin abrirlo de nuevo, sin releerlo, sin darse el permiso de dudar de lo que había escrito.
 
 Tenía llaves. Nunca las había usado para entrar cuando él no estaba, y no iba a empezar ese día — no porque el momento no lo ameritara, sino precisamente porque sí lo ameritaba, y cruzar esa puerta sin él adentro le pareció, incluso entonces, una intimidad que todavía no le correspondía tomarse sola.
 
