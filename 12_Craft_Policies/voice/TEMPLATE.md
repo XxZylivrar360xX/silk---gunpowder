@@ -1,23 +1,46 @@
-# Ficha de Voz — Nombre
+# Ficha de Voz - Nombre
 
-Existe para que este personaje no suene como los demás. Se lee **antes** de escribir cualquier escena en la que hable.
+> Copiar a `Nombre_Apellido.md`. Se lee antes de escribir cualquier diálogo de este personaje.
 
 ## Cadencia y sintaxis
 
-Largo de frase. Si interrumpe o espera. Si pregunta o afirma. Si responde lo que le preguntaron.
+Frases cortas o largas. Si interrumpe o deja terminar. Si pregunta, afirma, rodea o evade. Cómo cambia cuando está en calma, bajo presión o en público.
 
 ## Vocabulario
 
-Palabras que usa y de qué campo vienen (oficio, calle, dinero, mecánica, prensa). Palabras que no usaría jamás.
+Campos de lenguaje que sí usa: calle, mecánica, prensa, fe, dinero, política, cocina, derecho, medicina, logística.
+
+Palabras o giros que jamás usaría.
 
 ## Lo que nunca dice
 
-Los temas que rodea, y cómo los rodea.
+Temas que rodea, frases que delatarían voz genérica, explicaciones que el personaje no se permitiría.
 
 ## Comportamiento físico al hablar
 
-Qué hace con las manos. En qué momento deja de hacerlo — ésa suele ser la señal de que la conversación se volvió real.
+Qué hace con manos, cuerpo, mirada, cigarro, vaso, herramientas, bolso, teléfono. Cuándo deja de hacerlo.
+
+## Contraste deliberado con otro personaje
+
+Con quién comparte escenas y cómo se diferencia su voz. Esto evita que dos personajes inteligentes suenen como el mismo agente editorial.
+
+## Bajo presión
+
+Completar sólo con evidencia real, no por simetría.
+
+- **Enfadado:**
+- **Asustado:**
+- **Herido:**
+- **Afectuoso:**
+- **Mintiendo:**
+- **Relación con el silencio:**
+- **Arma conversacional preferida:**
+- **Evasión típica:**
 
 ## Muestra
 
-Dos o tres líneas de referencia que suenen inconfundiblemente a esta persona.
+Dos o tres líneas que suenen inconfundiblemente a esta persona.
+
+## Línea genérica a evitar
+
+Una línea que sería "correcta" pero no de este personaje, y por qué.

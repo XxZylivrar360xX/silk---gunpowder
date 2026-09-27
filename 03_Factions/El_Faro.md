@@ -46,6 +46,10 @@ Las reglas del juego están en [[00_Biblia/Reglas_del_Mundo]], regla 4. Resumen:
 - **Nadie desmiente. Se sustituye.**
 - **El favor de que algo no salga es la moneda más cara de la ciudad**, y es lo que hace que gente muy por encima de Chiara termine debiéndole algo sin haber firmado nada.
 
+Pero *El Faro* no es el origen de toda la información. Antes está la [[03_Factions/Red_Civil_de_Chiara]]: tiendas, restaurantes, cocinas, valet, salones, iglesias y gente que habla sin creer que está moviendo poder.
+
+El diario convierte algunos rumores en hechos públicos. Otros los mata. Otros ni siquiera los toca: Chiara los direcciona hacia la persona exacta para provocar movimiento.
+
 ---
 
 ## La tensión que este lugar genera
@@ -56,4 +60,12 @@ Las reglas del juego están en [[00_Biblia/Reglas_del_Mundo]], regla 4. Resumen:
 
 ---
 
-Ver también: [[02_Characters/Chiara_Bellandi]] · [[00_Biblia/Reglas_del_Mundo]] · [[00_Biblia/Temas]]
+---
+
+## Nota de futuro (incubadora, no canon de Libro I)
+
+> **INCUBADORA (2026-09-16):** para la época de *Libro 4* (posterior a *Cuentas de Sangre*), *El Faro* ya no pertenece a Chiara — consistente con que Kal y Chiara distribuyeron/soltaron su poder institucional al cerrar la trilogía. En ese diario trabaja **Erin Reyes**, periodista y mejor amiga de Elenna Mercer (ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]]). No es la misma "joven periodista" mencionada arriba como pendiente de diseño de Libro I — la línea de tiempo no lo permite — pero queda disponible como eco temático: el diario que Chiara convirtió en instrumento de precisión, una generación después, en manos de alguien ajena a ella por completo. **RESUELTO (2026-09-16): no se desarrolla como trama activa** — queda como resonancia de fondo, sin subrayar.
+
+> **CANON DEL AUTOR (2026-09-16):** *El Faro* mantiene una política de ética que recusa a su personal de cubrir casos ligados al Departamento de Policía de San Aurelio cuando conviven o tienen pareja/familiar cercano dentro de él. Esta regla es la razón oficial de que Erin Reyes y Elenna Mercer no vivan juntas pese a ser mejores amigas, y también aparta a Erin de cualquier cobertura del caso que persigue [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss|Nicholas Voss]] — su sospecha sobre el antagonista sigue siendo relacional, nunca de investigación periodística. Ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]].
+
+Ver también: [[02_Characters/Chiara_Bellandi]] · [[00_Biblia/Reglas_del_Mundo]] · [[00_Biblia/Temas]] · [[03_Factions/Red_Civil_de_Chiara]]

@@ -1,0 +1,323 @@
+<!--
+Estado: TERMINADO.
+Protagonistas: Chiara Bellandi (partes 1-2), Kal Mercer (parte 3).
+Ventana temporal: parte 1 es anterior al Capitulo 11 (evento altruista, y tambien anterior/independiente de la noche de Gabriella's del Capitulo 7 y del arco de H12 en los Capitulos 10-11); parte 2 ocurre la misma noche del torneo del Capitulo 11; parte 3, semanas despues -- Kal y Chiara ya viven a caballo entre el penthouse y la casa de el.
+Lugares: salon de gala (evento altruista, sin nombre fijo), The Monarch Casino & Hotel (piso de juego y caja), Almendra Towing / El Patio.
+Funcion: ejecutar beats 12-c y 13-b — nace i Sussurri con Kenji Oda; se muestra la red en funcionamiento con multiples fuentes y tipos de informacion (calle, comercio/Mabel, elite, institucional) llegando al escritorio del penthouse; y el primer roce de valores entre Kal y Chiara por el mensajero menor. Version revisada (2026-09-02): se le da contenido real y urgencia al papel -- esa misma manana un hombre no identificado pregunto en el piso del Monarch por "un Peugeot rojo, tuneado", sembrando la primera alarma aislada del hilo que se paga en el Capitulo 13 (Auster); la reaccion de Kal se ancla, sin explicarla en bloque, a su propio origen (comprado de bebe, carrera perdida por gente que movia ninos) via el mismo tic fisico de la mandibula ya usado en el Capitulo 1; y la confrontacion se extiende para que Chiara admita honestamente, sin excusarse, por que no espero a la noche.
+-->
+
+# Capítulo 12 — Roma Atrii
+
+La tarjeta se negó dos veces antes de que el hombre del esmoquin empezara a sudar.
+
+Chiara lo vio desde el otro lado del salón — un donante mayor, de los que llevaban el apellido en la solapa en vez del nombre, tratando de pagar una pieza de subasta silenciosa mientras dos personas detrás de él esperaban con la paciencia cara de quien también quiere ver a alguien humillarse un poco.
+
+No llegó a tiempo.
+
+Un joven del personal de eventos sí.
+
+—Ya está resuelto, señor Aldrich. —Ni una pausa, ni una mirada al lector de tarjetas—. El sistema estuvo cobrando doble toda la noche. Le anoto el nombre y mañana el comité le confirma el monto correcto.
+
+No era cierto. Chiara lo supo en el mismo segundo en que lo escuchó: el sistema funcionaba perfecto, lo había probado ella misma dos horas antes. Lo que el joven acababa de hacer era cubrir la diferencia con su propio teléfono, tan rápido que el hombre del esmoquin ni se dio cuenta de que acababa de deberle un favor a un desconocido de veintitantos años.
+
+Aldrich se fue satisfecho. La fila avanzó. Nadie aplaudió, porque nadie había visto nada digno de aplauso.
+
+Chiara sí.
+
+***
+
+Lo encontró junto a la mesa de postres, ordenando copas vacías con una eficiencia que no correspondía al sueldo de un evento de caridad.
+
+—Eso que hizo con el señor Aldrich.
+
+El joven no se sobresaltó.
+
+—¿Qué cosa?
+
+—No me haga repetirlo. Ya sabe qué cosa.
+
+Él se encogió de hombros, sin culpa y sin orgullo, como quien reporta el clima.
+
+—No me pagan por dejar que alguien pase vergüenza delante de sus amigos. Me pagan por servir copas. Lo otro salió gratis.
+
+—¿Cómo se llama?
+
+—Kenji Oda.
+
+—¿Trabaja para la agencia del evento?
+
+—Trabajo para quien me necesite esa noche. —Apiló tres copas más, sin mirarla, sin necesitar mirarla para sostener la conversación—. Mañana soy otra persona en otro salón.
+
+Chiara lo observó un momento más. No era el gesto lo que le interesaba — cualquiera con dinero suficiente podía cubrir una tarjeta ajena. Era la velocidad. La cara que no cambió. La forma en que ya tenía lista la mentira sobre el sistema antes de que Aldrich terminara de sudar.
+
+—¿Le gustaría dejar de ser otra persona en otro salón?
+
+Kenji dejó de apilar copas.
+
+—Depende de qué me esté ofreciendo.
+
+—Un puesto fijo. En un casino. Administraría fichas y pagos de premio.
+
+—¿Por qué yo?
+
+Chiara sonrió, la sonrisa corta.
+
+—Porque acabo de verlo resolver un problema que no era suyo, sin que nadie se lo pidiera y sin que nadie lo note nunca. Eso, en mi casino, vale más de lo que usted cree.
+
+Kenji la miró de verdad por primera vez.
+
+—¿Cuándo empiezo?
+
+—Cuando yo lo llame.
+
+***
+
+Lo llamó dos semanas después, y para la noche del primer torneo Kenji Oda ya llevaba puesto el chaleco del Monarch como si lo hubiera usado toda la vida.
+
+Chiara lo cruzó de lejos, ocupada con la mesa de Walt Keegan, con Fabrizio, con las luces ámbar que había elegido ella misma. No volvió a pensar en él hasta que Tommaso se le acercó por detrás, apoyado en el borde de su mesa como si llevara ahí toda la noche.
+
+—Bellandi.
+
+Ella no se dio vuelta enseguida.
+
+—Un invitado de la mesa tres te reconoció —dijo Tommaso, bajito—. Dice que jugaba con Alessio en Palermo.
+
+Chiara sintió el nombre antes de oírlo completo.
+
+—Ya me contó la versión —siguió Tommaso, con la pausa exacta que usaba siempre—. La tuya, esta vez.
+
+Ella no se movió. Tommaso esperaba encontrar algo en la cara, y no había nada que encontrar, porque ya llevaba un minuto entendiendo lo importante: alguien de su propio torneo había hablado antes con Tommaso que con ella.
+
+No fue el comentario. Los comentarios los manejaba dormida. Fue la ruta. Alguien de la mesa tres se lo dijo a alguien que se lo dijo a él, y esa cadena tardó menos en llegar a Tommaso que cualquier cosa en tardar en llegar a ella.
+
+En su casa. Sobre su piso. Con su nombre.
+
+—Gracias por avisarme —dijo, y la frase salió tan lisa que Tommaso no tuvo dónde clavar la siguiente.
+
+Se fue antes de que él pudiera decidir si eso había sido una victoria suya o de ella.
+
+***
+
+Buscó a Kenji sin darse cuenta de que lo estaba buscando.
+
+Lo encontró en la caja, exactamente donde debía estar: un jugador furioso golpeando el mostrador porque el conteo no le cuadraba, dos de seguridad acercándose con la lentitud que promete escándalo, y Kenji resolviéndolo con una calculadora en una mano y algo parecido a una broma en la otra, tan bajo que el jugador tuvo que inclinarse para oírlo y perdió el impulso de gritar.
+
+Nadie llamó a nadie. Nadie escribió un reporte.
+
+En menos de dos minutos el problema dejó de existir para todos menos para Chiara, que lo había visto entero.
+
+Ahí estaba la diferencia, tan simple que dolía habérsela perdido: Tommaso tenía gente en su piso que hablaba primero con él. Ella tenía, en el mismo piso, a alguien que no hablaba con nadie — hasta que le tocaba hablar con ella.
+
+No necesitaba más rumores. Los rumores le sobraban; la ciudad entera hablaba sola, tarde o temprano, y a ella le bastaba con estar cerca. Lo que le faltaba era la primera llamada.
+
+No enterarse de las cosas. Enterarse antes que Tommaso.
+
+Esa noche, de vuelta en el penthouse, sacó el papel que usaba para las cartas — el bueno, el que olía a lo que ella olía, el que nadie más en San Aurelio tenía permiso de tocar — y en vez de escribir una carta escribió cuatro palabras en una lengua que llevaba años sin usar más que en misa.
+
+Las miró un momento.
+
+Después las rompió.
+
+Todavía no era el momento. Pero ya sabía que iba a necesitarlo, y sabía exactamente para quién.
+
+***
+
+Se lo propuso a Kenji un mes después, cuando ya llevaba tiempo suficiente en la caja como para que nadie se preguntara por qué Chiara pasaba cada tanto a saludarlo.
+
+—Un favor —le dijo, en voz baja, casi en italiano—. Nada que vaya a incomodarlo.
+
+—¿Qué clase de favor?
+
+—Lo que oiga en su mesa. A veces vale más de lo que cree.
+
+Kenji no preguntó para qué, ni para quién.
+
+—¿Cómo se lo hago llegar?
+
+—Yo le enseño.
+
+Fue la primera vez que Chiara le llevó un papel de su propio membrete, cortado en un rectángulo pequeño, y le enseñó cuatro palabras que él no sabía leer y que iba a tener que aprender a escribir de memoria.
+
+Kenji las miró.
+
+—¿Latín?
+
+—Nadie sospecha de una lengua muerta.
+
+—¿Y si alguien lo intercepta?
+
+—Entonces ve basura. —Chiara guardó el resto del papel en el bolso—. Si yo lo leo, veo exactamente lo que necesito.
+
+Kenji no volvió a preguntar nada más esa noche. Guardó el papel donde nadie mira — entre las fichas que nadie cuenta dos veces — y desde entonces, cuando algo pasaba en el piso que valía la pena saber, Chiara lo sabía antes que nadie.
+
+Antes que Tommaso.
+
+***
+
+Las semanas que siguieron le enseñaron algo que ningún año en Palermo le había enseñado: cuánto puede saber una mujer que nunca sale a buscar nada.
+
+Llegaba de maneras que no seguían ningún orden. Un domingo por la mañana, todavía en bata, encontró sobre el escritorio del penthouse tres papeles distintos, cada uno con su propio peso.
+
+El primero olía a gasolina y a fritanga. Un chico de una estación de servicio en la Ronda Exterior — nadie recordaba después quién lo había reclutado, o si alguien lo había reclutado siquiera; simplemente empezó a hablar, y alguien empezó a escuchar — contaba que dos hombres de traje se estacionaban ahí cada tantas semanas, pasada la medianoche, y esperaban un tercer coche que nunca llegaba con las luces encendidas. Fiscales, entendió Chiara. Reuniéndose de noche, en un lugar que ningún fiscal elegiría por gusto.
+
+El segundo llevaba el desorden feliz de Mabel, que nunca escribía nada — sólo lo decía, y dejaba que alguien más lo pusiera en papel después. Era sobre Blake. *El policía rubio, el que salía con la signora antes de que la ciudad tuviera nombre para lo suyo con Mercer* — así lo describía Mabel, sin nombrarlo con respeto ni con desprecio — se había estado viendo con una recepcionista del Departamento, y la cosa se había apagado tan rápido como había empezado. Ella lo dejó. Él se lo tomó peor de lo que un hombre como Blake admitiría en voz alta. "Puede que no sea nada", cerraba la nota, en la letra de quien la había transcrito. "Puede que sea todo. Yo sólo sirvo café."
+
+El tercero no tenía nada que ver con calle ni con barra de cafetería: un recorte de la sección de negocios de un periódico que ni siquiera circulaba en San Aurelio, con una nota manuscrita al margen — *viñedo al norte, dueño cansado, puede que venda antes del otoño*.
+
+Tres fuentes. Tres lenguajes. Tres personas que jamás se habían visto entre sí y que nunca sabrían que habían escrito, sin saberlo, la misma página.
+
+Chiara los leyó en orden distinto al que habían llegado: primero el que menos urgía, después el que más. Guardó el del viñedo en un cajón aparte — todavía no sabía para qué lo quería, pero algo en el fondo del estómago le decía que lo iba a querer. Quemó el de los fiscales sobre el lavabo, después de memorizar la fecha. El de Blake lo dejó un rato más de lo necesario sobre el escritorio, sin decidir todavía si era información o sólo la clase de vanidad pequeña que a veces se permitía.
+
+Un cuarto llegó esa misma semana: un rumor sobre la subjefa del Departamento — nadie decía su nombre completo, sólo "la que va después de Vega" — vista dos veces en un restaurante de la costa con alguien que nadie en la mesa reconoció, pero que pagó en efectivo y dejó el auto a media cuadra, no en la puerta. Chiara no sabía todavía qué hacer con eso. Lo guardó de todos modos. Un dato sin uso hoy era sólo un dato que todavía no había encontrado su pregunta.
+
+Nada de esto llegaba con instrucciones. Nada llegaba en el papel bueno, ni en latín, ni con la ceremonia de i Sussurri — sólo el rumor viejo, orgánico, el que la ciudad producía sola sin que nadie lo cultivara. Kenji le daba lo que pasaba en su propio piso, cifrado, puntual, imposible de rastrear. La calle, los comercios, la vida civil entera de San Aurelio le daban el resto, sin cifrado ni ceremonia, en el idioma en que la gente habla cuando cree que nadie más los está escuchando.
+
+Chiara empezaba a entender que no necesitaba una sola red. Necesitaba dos: una que ella construía dato por dato, persona por persona, con paciencia de artesana — y otra que ya existía sola, hacía años, y que sólo tenía que aprender a leer.
+
+***
+
+Semanas después, esa misma mañana, Kenji le hizo llegar algo que no cabía en el ritmo tranquilo de las últimas semanas.
+
+Alguien de la mesa dos —un hombre que nadie en el piso conocía, que pagó su entrada en efectivo y no volvió a jugar una sola mano después de preguntar lo que preguntó— quiso saber si el Monarch tenía algún socio, cliente o proveedor "que anduviera en un Peugeot rojo, de los viejos, tuneado". Kenji le dijo que no sabía de qué hablaba. El hombre no insistió. Cambió sus fichas de vuelta sin haber jugado, y se fue.
+
+No era nada todavía. Podía ser un curioso, un apostador con mal gusto para las preguntas, una casualidad sin dientes. Pero Chiara no sobrevivía haciendo esa clase de apuesta, y una sola pregunta sobre ese coche, en su propio piso, un día cualquiera, no era algo que pudiera permitirse dejar para la noche.
+
+Tenía que llegarle algo a Kal antes de que se hiciera tarde. Por primera vez desde que empezó a construir la red, no tuvo tiempo de llevárselo ella misma.
+
+***
+
+Un chico de doce o trece años se paseaba esa misma tarde cerca de la cerca trasera de Almendra Towing con la clase de disimulo que sólo delata a quien nunca lo ha hecho antes.
+
+Kal lo vio antes de que el chico lo viera a él. Miraba un reloj que no traía. Se cambiaba el peso de un pie a otro. Kal lo dejó acercarse dos pasos más antes de salir de donde estaba.
+
+—¿Perdiste algo?
+
+El chico se congeló.
+
+—Tengo que entregarle algo a un hombre. Aquí. En el Patio.
+
+—¿A quién?
+
+—Roma Atrii —dijo el chico, despacio, mal, como quien repite sonidos y no palabras—. Así me dijeron que preguntara.
+
+Kal no conocía a nadie con ese nombre. Nadie en el Patio se hacía llamar así, y los años que llevaba ahí adentro le alcanzaban de sobra para saberlo.
+
+—¿Y si te digo que aquí no hay ningún Roma?
+
+El chico se encogió de hombros, ya más asustado que confundido.
+
+—A mí me dijeron el nombre. Yo sólo tengo que entregarlo. Y si no lo encuentro, se lo devuelvo a un señor en la caja del Monarch. Eso es todo lo que sé.
+
+Sacó el papel del bolsillo, doblado en cuatro, y antes de que Kal lo tuviera en la mano ya sabía de quién era. El olor llegó primero que la letra — canela, vainilla, algo que no pertenecía a ningún lugar cerca de un taller de grúas, y que ya conocía de otra parte sin haberse dado cuenta de que lo había memorizado.
+
+Arriba del todo, en letra cursiva apretada, inclinada siempre hacia el mismo lado, las mismas dos palabras que el chico acababa de mascullar: **ROMA ATRII.** Debajo, más líneas en un idioma que Kal no leía. No hacía falta leerlas para saber de quién era la mano que las había escrito.
+
+—¿Quién te mandó?
+
+—Un señor. De la caja, en el Monarch. Me dijo que buscara a Roma Atrii, y que si no lo encontraba, se lo devolviera a él. Nada más.
+
+No un nombre. No una mujer. Sólo un hombre de la caja, puesto ahí para que la cadena se cortara antes de llegar a ella. Y no le hizo falta más — el chico no sabía nada, y decía la verdad al no saber nada, porque el papel ya se lo había dicho todo.
+
+La mandíbula se le tensó un segundo — el mismo segundo de siempre, el que nadie en el Patio sabía nombrar — y se le pasó antes de que nadie hubiera podido preguntarle por qué.
+
+Fue eso lo que le cerró algo en el pecho — no la respuesta del chico, sino lo bien armada que estaba: nadie en la cadena, hasta el final, podía delatarla. Porque no era la información lo que le molestaba. Ésa se la habría dado gratis; se la había estado dando gratis, en los dos sentidos, desde antes de que ninguno de los dos le pusiera nombre a lo que estaban construyendo. Lo que le molestaba era la ruta que había elegido para mandarla: un crío parado en la calle equivocada, cargando algo que no entendía, para gente que tampoco lo entendería si algo salía mal — un crío que en otra vida, en otra ciudad, podría haber sido exactamente la clase de carga que a él lo compró de bebé, y la clase de trabajo que le costó una carrera entera — y encima buscando, con nombre y todo, a un desconocido dentro de su propio territorio.
+
+—Vete a tu casa —le dijo al chico, sin dureza—. Y no vuelvas a hacer esto. Para nadie.
+
+El chico no esperó a que se lo repitiera.
+
+***
+
+Fue al casino esa misma tarde con la idea ya armada de que esto se terminaba ahí — el favor, el arreglo, lo que fuera que estuvieran construyendo sin nombre, y que llevaba semanas pareciéndose cada vez más a otra cosa.
+
+No preguntó por Chiara primero.
+
+Preguntó por el hombre de la caja.
+
+Lo encontró donde el chico había dicho que estaría — chaleco del Monarch, manos rápidas, una fila corta de jugadores esperando turno para cambiar fichas. Kal esperó a que despachara al último y se paró frente a él.
+
+—¿Usted mandó a un chico a buscar a alguien llamado Roma Atrii?
+
+Kenji no dejó de contar un fajo de billetes.
+
+—No sé de qué me habla.
+
+—Un niño. Doce, trece años. Dijo que si no encontraba a nadie, le devolvía un papel a un hombre de la caja. Usted es el único hombre en esta caja.
+
+—Trabajo mucho, señor. Veo mucha gente.
+
+No mentía con miedo. Mentía con la misma cara pareja que Chiara le había visto usar con Aldrich, y eso, más que cualquier otra cosa, le confirmó a Kal que estaba en el lugar correcto.
+
+—Gracias, Kenji. Yo atiendo al señor Mercer.
+
+Chiara había llegado sin que ninguno de los dos la oyera acercarse — o quizás la habían oído y ninguno quiso ser el primero en voltear. Llevaba el mismo aire con el que recibía a un socio, ni un grado más cálido, y a Kenji le bastó con esa temperatura para volver a lo suyo sin hacer una sola pregunta.
+
+Kal entendió, en el mismo segundo, dos cosas: que Kenji no sabía nada de lo que había entre ellos, y que Chiara acababa de decidir, delante de él, que seguiría sin saberlo.
+
+Lo llevó aparte, a la franja de piso entre la caja y el pasillo de servicio, donde el ruido de las máquinas tapaba cualquier conversación a menos de un metro.
+
+Chiara no discutió. No preguntó cómo se había enterado. No defendió el método, no dijo que el chico estaba bien pagado ni que nunca lo habría puesto en peligro real. Lo miró, entendió exactamente qué línea había cruzado sin haberla visto nunca, y dijo la única frase que no le dejó nada para responder:
+
+—Tienes razón. No vuelve a pasar. Tienes mi palabra.
+
+—¿Por qué no esperaste? —Kal no subió la voz, pero tampoco la bajó—. Siempre esperas a la noche.
+
+Chiara no buscó una versión más cómoda.
+
+—Porque esta mañana alguien preguntó por tu coche en mi propio piso. Un hombre que nunca había visto, que pagó en efectivo y no jugó una sola mano. No sé si es nada. No sé si es algo. Pero no iba a quedarme sentada hasta la noche con esa duda y contigo sin saberlo.
+
+Kal se quedó callado un momento.
+
+—Pudiste llamarme.
+
+—Pude. —No se disculpó por eso tampoco—. Y la próxima vez lo hago. Ésta no lo pensé lo suficiente, y el chico pagó el precio de que no lo pensara. Eso no tiene defensa, y no la voy a inventar.
+
+Y con eso pudo haberse acabado.
+
+Kal todavía tenía el papel en la mano — lo había traído sin decidir por qué, como si fuera evidencia de algo que ya no necesitaba probar. Lo levantó de todos modos.
+
+—¿Y esto? ¿Qué es exactamente lo que estás construyendo aquí?
+
+Chiara miró el papel, después a él, y decidió algo que no había decidido cuando salió de la casa esa mañana.
+
+—Se llama i Sussurri. Los susurros. —Lo dijo bajo, casi como quien confiesa algo, aunque la cara no tuviera nada de arrepentida—. Gente que oye cosas y me las hace llegar. Nadie sabe que pertenece a algo, salvo Kenji, que aceptó saberlo.
+
+—¿Por qué latín? ¿Por qué no me lo dices y ya?
+
+—Porque una red visible es un blanco, y una invisible es una costumbre. —Se cruzó de brazos, no a la defensiva, sino como quien empieza una clase que ya dio antes, para sí misma, muchas veces—. Nadie delata una costumbre, Kal. No sabe que es parte de ella.
+
+—Suena a iglesia.
+
+Chiara no se sorprendió de que él lo notara.
+
+—Es iglesia, un poco. —Casi sonrió—. Crecí aprendiendo que una confesión no vale nada si sale de la boca equivocada, o le llega al oído equivocado. Esto funciona igual. No importa lo que alguien sepa. Importa a quién se lo dice, en qué lengua se atreve a decirlo, y si esa persona sabe guardarlo como se guarda un secreto en un confesionario.
+
+—Tú crees en eso. En serio.
+
+—Creo en Dios, en las velas que enciendo por ti, y en que una mentira dicha con cuidado puede proteger más gente que una verdad dicha sin él. —Lo miró de frente—. Tú no crees en nada de eso.
+
+—Creo en lo que puedo pagar, arreglar o cobrar. —No sonó a defensa. Sonó a inventario—. Supongo que también es una fe, a su manera.
+
+—No es la misma. —Algo cerca de ternura le cruzó la cara, breve, antes de que la guardara de vuelta—. La mía no pide resultados. Sólo pide que seas honesto cuando nadie más te está oyendo.
+
+—Ya no mando a nadie a buscar a nadie —dijo después, y no había disculpa en la voz, sólo la constatación de algo ya decidido—. De ahora en más, si tengo que llegarte algo, lo traigo yo.
+
+*Llegarte.* No *llegarle a alguien.*
+
+Kal no dijo nada, y ella tampoco esperó que lo hiciera — ya estaba dicho, aunque ninguno de los dos lo hubiera dicho del todo.
+
+—¿Qué significa esto? —preguntó él, sosteniendo el papel un poco más alto, señalando las dos palabras de arriba, como si eso ayudara.
+
+—Eso no te lo voy a decir. —Chiara no sonrió, pero algo cerca de sonreír le cruzó la cara—. Todavía no.
+
+No fue un no. Kal lo notó, y no supo qué hacer con eso tampoco.
+
+Caminó de vuelta al taller esperando todavía sentir algo del peso con el que había llegado, y no lo encontró. Se había armado para una pelea entera y volvía con las manos vacías de la manera equivocada — no porque hubiera perdido, sino porque no había habido nada que ganar. Ella había cedido antes de que él terminara de exigir, y encima le había dejado una puerta entreabierta que no le había pedido, y una fe entera de la que nunca le había hablado tan claro.
+
+Quedó, sin lugar donde ponerlo, el nombre que el chico había repetido como una contraseña.
+
+*Roma Atrii.*
+
+No volvió a preguntar qué significaba. No estaba seguro de querer que significara algo.
+
+No supo qué hacer con eso el resto del día.

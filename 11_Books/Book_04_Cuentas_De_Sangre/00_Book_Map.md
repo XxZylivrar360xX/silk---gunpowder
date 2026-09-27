@@ -1,0 +1,111 @@
+# Book 04 — Cuentas de Sangre
+
+*Mapa narrativo operativo. Libro IV de la saga — cierre del arco principal.*
+
+> **DERIVADO DE [[00_Biblia/00_Trilogy_Structure]] (2026-09-09, Claude Code).** Reconstruye el volumen a partir de la arquitectura de la saga fijada por el autor. Todo lo no citado allí como CANON es DISEÑO discutible. **Estado: esqueleto — pendiente de validación del autor.**
+>
+> **RENUMERADO (2026-09-22):** era Libro III; ahora es Libro IV por la inserción de *Sombras de Poder* — ver [[00_Biblia/00_Trilogy_Structure]]. Su contenido no cambia.
+>
+> **BLOQUEO DE PROSA:** no se redacta prosa de este libro hasta cerrar los Libros I-III.
+
+---
+
+## Función
+
+**Consecuencia, vacío de poder, consolidación, renuncia y salida.**
+
+El libro no trata de *descubrir* que Kal y Chiara deberían marcharse — esa decisión ya nació en H22 (Libro II). *Cuentas de Sangre* trata de **hacer posible la salida**.
+
+## Pregunta del libro
+
+> **¿Qué hacen cuando finalmente pueden quedarse con todo y descubren que quedarse es precisamente lo que les está robando la vida?**
+
+## Estado de entrada (hereda del cierre del Libro III — Voto de Ceniza)
+
+- Dario preso; Halbrook sentenciado por Kal pero vivo al abrir el libro.
+- Héctor y Kenji muertos; Harper viva; Chiara sobrevivió a Santa Lucía.
+- Elenna vive como Elenna Serra con Riley en Italia; la separación ya es larga.
+- Corrado revelado vivo (a Kal; el encuentro con Chiara, pendiente y decisión de ella).
+- Kal y Chiara ya decidieron construir una salida; no pueden ejecutarla aún.
+- San Aurelio con un enorme vacío de poder; todos esperan saber quién gobernará.
+
+## Estado de salida — resolución inmediata
+
+Palermo. Casa modesta azul, molduras blancas, jardín. Chiara con una copa de vino; Kal preparando la comida; Elenna viviendo con ellos **como hija, no como heredera**.
+
+> **Chiara:** —No vayas a quemar de nuevo la cocina, amore.
+> **Kal:** —No prometo nada.
+
+Esta imagen cierra el arco inmediato de Kal y Chiara. El cierre definitivo de la saga se cobra, tras un salto de aproximadamente veinte años, en [[07_Ideas/Tres_Hermanas_Epilogo|«Tres Hermanas»]]: una escena en San Aurelio donde Riley, Marisol y Elenna viven su propia historia sin requerir la presencia ni validación de ellos. Elenna tiene 21 años. Unas semanas después, una historia futura hipotética puede seguir su regreso a San Aurelio como Recluta (tratamiento: Recluta Mercer); esa posibilidad queda fuera de este libro y no altera el cierre.
+
+## Arcos de los protagonistas
+
+> **CONTINUIDAD POSTERIOR (2026-09-13):** el epílogo ocurre con Elenna a los 21 años, tras un salto de aproximadamente veinte años desde el cierre inmediato de Palermo. Unas semanas después, una historia futura hipotética puede seguirla al iniciar la academia como Recluta (tratamiento: Recluta Mercer). Esta posibilidad queda fuera de *Cuentas de Sangre* y no altera su cierre.
+
+| | Movimiento | Fractura | Aprendizaje |
+|---|---|---|---|
+| **Kal** | `ser indispensable → construir reemplazo → soltar` | Meridian convierte su centralidad en jaula | **Si todo necesita que yo esté, construí una prisión.** — *Ser necesario no es lo mismo que ser amado.* |
+| **Chiara** | `hacer desaparecer para proteger → rechazar que otros definan su pertenencia → terminar la ausencia` | Il Consorzio intenta decidir qué significa su sangre y su apellido | **La salida consiste en terminar la ausencia, no en heredar una corona.** |
+
+## Estructura macro
+
+### Apertura — ejecución pública de Halbrook
+
+El libro abre con **Kal Mercer ejecutando públicamente a Warren Halbrook** (decisión tomada al final del Libro III — Voto de Ceniza). La muerte pública de un Brigadier General destruye la posibilidad de cerrar la crisis como problema local.
+
+> **Meridian entra o escala como respuesta federal.**
+
+No convertir la escena en manual táctico: su función es narrativa, política e institucional.
+
+### Tres frentes que se cruzan
+
+**Kal — Meridian.** La fuerza federal intenta reconstruir y demostrar la estructura causal del poder de Kal: negocios, propiedades, favores, sociedades, aliados, cadáveres, decisiones. El cerco obliga a Kal a **distribuir** lo que centralizó durante años en su persona. Andrew Callahan / comando RICO; su obsesión inicial es Varek, no Kal.
+
+**Chiara — Il Consorzio.** El vacío de Dario deja a Il Consorzio más libre para presionar, reconocer, reorganizar o disputar San Aurelio. Chiara enfrenta a la institución que pretende definirla como Ardizzone. **No completa su arco heredando una corona italiana ni obteniendo reconocimiento: lo completa rechazando la premisa de que necesita ese reconocimiento.** Corrado aporta conocimiento, contexto y una relación personal imposible de ignorar; **no sustituye a Chiara como protagonista del conflicto ni regresa para ponerla en un trono.**
+
+**Chiara — Volpi; Corrado — La Mesa.** [[02_Characters/Nereo_Volpi|Volpi]] encarna el reverso del oficio de Chiara: él fabrica ausencias y caos bajo una apariencia de procedimiento; ella debe volver legible esa cadena para impedir nuevas pérdidas. [[02_Characters/Corrado_Ardizzone|Corrado]] carga el frente personal e institucional con La Mesa, sin desplazar a Chiara de la decisión sobre su apellido y su vida. El tercer asesinato de Volpi, posterior a la apertura de Halbrook, reactiva el patrón que la ciudad había descartado y se vuelve expediente paralelo de Meridian. **PENDIENTE:** víctima, motivo, investigador de Meridian y función precisa del regreso de [[02_Characters/Matteo_Bellacorte|Matteo]], cuya evidencia debe unir el arco de la desaparición con esta cadena sin resolverla por conveniencia.
+
+### Ejecución del plan de salida
+
+El plan existe desde H22. En *Cuentas de Sangre* se convierte en arquitectura concreta: delegación, redundancia, separación de funciones, nodos que sobreviven sin supervisión, socios capaces de decidir, una red civil que no dependa de la presencia diaria de Chiara, un Patio que funcione sin Kal.
+
+Tesis heredada de Héctor: **no sostenerlo con el cuerpo; construirlo para poder dejar de sostenerlo.**
+
+La salida no depende de que Meridian persiga una mentira. La investigación reconstruye una red de contingencias real, vinculada a La Mesa y a la escalada de la Guerra de los Tres, pero llega a ella cuando su arquitectura operativa ya está muerta: mandos, comunicaciones y funciones centrales han sido desactivados. Kal y Chiara no dejan una organización clandestina idéntica detrás del expediente; dejan sistemas distribuidos que ya no requieren su presencia. La red encontrada explica una parte causal de la guerra —la mecha, no toda la pólvora— y absorbe la investigación institucional sin volver inocente a nadie que haya causado daño.
+
+Contraste obligatorio con Dario: **Dario construyó un sistema donde todo pasaba por Dario; Kal construye uno donde cada vez menos cosas necesitan pasar por Kal.** No pierde ambición: cambia su propósito.
+
+La prensa termina llamándolos **La Mancuerna de Hierro y Seda.** Exterior: permanencia y máximo poder. Interior: arquitectura de salida.
+
+### Resolución
+
+Meridian cierra el cerco. Il Consorzio pierde la capacidad de decidir quién debe ser Chiara. Corrado completa su arco — comprende que la victoria de su hija no es heredar posición, sino poder abandonar la obligación de ocuparla. El Patio deja de ser idéntico a Kal; la red de Chiara deja de requerir que ella controle cada versión.
+
+Cuando su ausencia ya no significa colapso, Kal y Chiara pueden salir. No dejan San Aurelio como derrota moral ni entregan el imperio a Elenna. **Elenna no hereda una dinastía criminal.** Desaparecen de la ciudad juntos y vuelven con su hija.
+
+## Bisagra de cierre de saga
+
+`Halbrook ejecutado provoca Meridian; el vacío de Dario activa Il Consorzio; Kal y Chiara vuelven reemplazable su poder y salen hacia Elenna.`
+
+## Límites del libro
+
+- No abrir Meridian como epílogo explicativo ni convertir a su mando en una copia federal de Dario.
+- Corrado no regresa para entronizar a Chiara.
+- La salida no es esquivar el conflicto: es evolucionar y salir distintos.
+- Elenna no es heredera ni promesa de dinastía.
+
+## Pendientes (de [[00_Biblia/00_Trilogy_Structure]])
+
+- Construcción exacta del caso Meridian.
+- Estrategia precisa de Il Consorzio durante el libro.
+- Mecanismo concreto de desaparición / salida de Kal y Chiara de San Aurelio.
+- Colocación fina de la consolidación frente a la escalada federal.
+- Forma final del arco de Corrado y del reencuentro con Chiara.
+
+## Carpetas de partes
+
+Sin definir. Se crean cuando el autor apruebe el desglose y se cierren los Libros I-III.
+
+---
+
+Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[03_Factions/Fuerza_de_Tarea_Meridian]] · [[03_Factions/Il_Consorzio]] · [[02_Characters/Elenna_Mercer]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] · [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]]

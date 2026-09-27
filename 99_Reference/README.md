@@ -2,15 +2,21 @@
 
 Material de inspiración que **no es canon de esta novela**. Se conserva intacto, tal como llegó. Nada de aquí se cita, se copia ni se da por establecido en `00_Biblia/`, `02_Characters/` o `10_Chapters/`.
 
+> **Excepción autorizada por el autor (2026-09-13):** [[99_Reference/chapter_concepts/Epilogo_Tres_Hermanas.png]] fija únicamente los rasgos físicos adultos ya transcritos como **CANON DEL AUTOR** en [[02_Characters/Riley_Bennett]], [[02_Characters/Marisol_Grayson]] y [[02_Characters/Elenna_Mercer]]. La imagen sigue siendo referencia; no canoniza biografía, edades, vestuario fuera del epílogo, ciudad ni hechos que no estén escritos de forma expresa en esas fichas.
+
 ---
 
 ## Contenido
+
+### `character_art/`
+
+Arte conceptual de los personajes originales de *Seda y Pólvora*. Por encargo del autor (2026-09-11), se enlaza y muestra en sus fichas como apoyo visual bajo **DISEÑO**, sin establecer canon nuevo por inferencia. El canon escrito manda ante discrepancias. Catálogo, usos y diferencias detectadas: [[99_Reference/character_art/README]]. Este uso específico no autoriza copiar escenas, biografías ni formulaciones de las fuentes externas.
 
 ### `KYLE_RASS_GIULIA_ROSSETTI_CONTEXT.md`
 
 Documento de contexto sobre **Kylia** (Kyle Rass + Giulia Rossetti), del roleplay *La Ciudad de los Santos*. Interpretaciones originales: DessT3 y Elisawaves. Aportado por el autor el 2026-08-22.
 
-Es la fuente de inspiración principal de la relación entre [[02_Characters/Cole_Mercer]] y [[02_Characters/Chiara_Bellandi]]. **No es material a adaptar.**
+Es la fuente de inspiración principal de la relación entre [[02_Characters/Kal_Mercer]] y [[02_Characters/Chiara_Bellandi]]. **No es material a adaptar.**
 
 ---
 
@@ -30,7 +36,7 @@ Regla del proyecto (`CLAUDE.md`): de las fuentes se hereda **nacionalidad y arqu
 **No se tomó — pertenece a Kylia, no a este libro:**
 
 - Los nombres Kyle, Giulia, Enrico, Rosa, y cualquier nombre secundario.
-- *"Ciao, Bella" / "Ciao, Bellissimo".* El ritual es de ellos. Lo que se hereda es el **mecanismo** — dos palabras que cambian de significado por repetición —, no las palabras. El equivalente propio está en [[06_Relationships/Cole_y_Chiara]].
+- *"Ciao, Bella" / "Ciao, Bellissimo".* El ritual era de ellos; lo que se heredaba era el **mecanismo** — dos palabras que cambian de significado por repetición. **CUARENTENA LEVANTADA (2026-09-09, decisión del autor):** Kal y Chiara adoptan una versión propia — *"Ciao, bello"* (ella) / *"ciao, bellissima"* (él, con acento malo a propósito) —, con los géneros invertidos y un origen propio: nace tras [[06_Relationships/Hitos#H21 — Mi pareja|H21]], en la primera llamada, como broma que se queda para toda la trilogía. Ver [[06_Relationships/Kal_y_Chiara]], "El acento que cede, y el 'Ciao' que lo compensa".
 - Cualquier suceso, cronología, oneshot o escena del roleplay.
 - El entorno de *La Ciudad de los Santos*. Esta novela ocurre en [[05_Locations/San_Aurelio]].
 
@@ -40,4 +46,4 @@ Regla del proyecto (`CLAUDE.md`): de las fuentes se hereda **nacionalidad y arqu
 
 El archivo trae sus propias instrucciones para agentes (secciones 30 y 31: reglas de canon, marcadores `[CANON POR RECUPERAR]`, checklist). **Esas instrucciones gobiernan la escritura de Kylia, no la de esta novela.** Aquí no hay canon que recuperar ni huecos que respetar: todo se inventa desde cero.
 
-Lo que sí se adoptó de ahí, traducido a este proyecto, vive en [[00_Biblia/Principios_Narrativos]] y en las reglas de escritura de [[06_Relationships/Cole_y_Chiara]]. Cuando este README y el documento fuente digan cosas distintas, manda este README.
+Lo que sí se adoptó de ahí, traducido a este proyecto, vive en [[00_Biblia/Principios_Narrativos]] y en las reglas de escritura de [[06_Relationships/Kal_y_Chiara]]. Cuando este README y el documento fuente digan cosas distintas, manda este README.

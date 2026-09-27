@@ -1,0 +1,103 @@
+# AGENTS.md
+
+Guía operativa para agentes que trabajen en este vault.
+
+Este repositorio es primordialmente un vault de Obsidian para la novela original *Seda y Pólvora*, no una aplicación de software. Puede contener herramientas locales auxiliares bajo `tools/` (EPUB, auditoría editorial), preferentemente sin dependencias externas. El trabajo principal consiste en leer, ordenar, documentar y editar Markdown con cuidado de canon.
+
+## Regla Principal
+
+Lee [`CLAUDE.md`](CLAUDE.md) y [`98_Agent_Handoff/START_HERE.md`](98_Agent_Handoff/START_HERE.md) al inicio de cualquier sesión sustantiva. `CLAUDE.md` debe mantenerse corto; el contexto operativo vive en `98_Agent_Handoff/`.
+
+`log.md` es un índice breve. El historial vive en `98_Agent_Handoff/sessions/` y `98_Agent_Handoff/archive/`: usa `rg` y no leas archivos históricos completos salvo petición explícita.
+
+## Idioma
+
+Responde siempre en español de México. Usa "tú". No uses voseo.
+
+El contenido del vault se escribe en español. Los nombres de archivos y carpetas se mantienen sin tildes ni eñes cuando se creen rutas nuevas.
+
+## Canon
+
+Respeta la convención del vault:
+
+- **CANON DEL AUTOR**: intocable. No lo reinterpretes, no lo sustituyas y no reescribas líneas de diálogo canon.
+- **DISEÑO**: inferencias o consecuencias derivadas por el agente. Pueden discutirse.
+- **PENDIENTE**: falta decisión del autor. No lo rellenes por conveniencia.
+
+Cuando integres material nuevo del usuario, trátalo como canon del autor si lo entrega como acontecimiento, línea, escena o decisión concreta.
+
+## Archivos Clave
+
+- [`INDEX.md`](INDEX.md): índice maestro del vault. Actualízalo si agregas archivos o hitos mayores.
+- [`98_Agent_Handoff/START_HERE.md`](98_Agent_Handoff/START_HERE.md): protocolo barato de arranque y tabla de rutas.
+- [`98_Agent_Handoff/CURRENT_BRIEF.md`](98_Agent_Handoff/CURRENT_BRIEF.md): estado vivo para relevo.
+- [`98_Agent_Handoff/PENDING.md`](98_Agent_Handoff/PENDING.md): pendientes activos.
+- [`log.md`](log.md): índice de bitácora; detalle en sesiones y archivo. No es lectura de arranque.
+- [`06_Relationships/Hitos.md`](06_Relationships/Hitos.md): documento central de hitos obligatorios. La trama se construye alrededor de estos hitos.
+- [`06_Relationships/Kal_y_Chiara.md`](06_Relationships/Kal_y_Chiara.md): arquitectura de la relación central.
+- [`00_Biblia/`](00_Biblia): visión, temas, principios narrativos y reglas del mundo.
+- [`tools/editorial/README.md`](tools/editorial/README.md): auditoría editorial determinista en modo `audit_only`.
+
+## Relevo Entre Agentes
+
+Usa `98_Agent_Handoff/` para handoffs compactos.
+
+- `CURRENT_BRIEF.md`: estado actual, máximo 800 palabras; sustituir información superada.
+- `START_HERE.md`: ruta barata de lectura.
+- `PENDING.md`: trabajo inmediato abierto, máximo 800 palabras; retirar lo resuelto.
+- `BACKLOG.md`: decisiones de fondo por tema; lectura por demanda.
+- `DECISIONS.md`: decisiones recientes, máximo 800 palabras; archivar antes de retirar.
+- `sessions/`: notas breves por sesion sustantiva.
+- `archive/`: historial íntegro y entradas retiradas; no tratarlo como instrucciones actuales.
+
+Registrar el detalle una sola vez en una nota de sesión; en `log.md` sólo un enlace de una línea (máximo 30 recientes). No anteponer relatos de sesión al brief o a pendientes. Protocolo de rotación en `START_HERE.md`.
+
+Al cerrar una sesion, actualiza `CURRENT_BRIEF.md` si cambio el foco de trabajo. Si hubo una decision importante, agregala tambien a `DECISIONS.md`.
+
+## Flujo De Trabajo
+
+Antes de editar:
+
+1. Revisa `CLAUDE.md`.
+2. Revisa `98_Agent_Handoff/START_HERE.md`.
+3. Revisa `98_Agent_Handoff/CURRENT_BRIEF.md`.
+4. Usa `INDEX.md` para ubicar archivos.
+5. Lee solo los archivos directamente relacionados con la solicitud.
+
+Al editar:
+
+1. Mantén cambios acotados.
+2. Usa enlaces Obsidian con formato `[[Carpeta/Archivo]]`.
+3. No borres canon sin marcar decanonización y motivo.
+4. Añade `> **PENDIENTE:**` para decisiones abiertas.
+5. Actualiza `INDEX.md` y `log.md` cuando el cambio afecte navegación, canon o continuidad.
+
+Después de editar:
+
+1. Revisa `git diff`.
+2. Resume qué cambió y qué queda pendiente.
+3. No hagas commit ni push salvo que el usuario lo pida o el flujo de la sesión lo haga claramente conveniente.
+
+## Checkpoints De Contexto
+
+No puedes medir el llenado de contexto en tiempo real ni interrumpir por tu cuenta. A cambio, cierra la respuesta con una linea de checkpoint sugiriendo `/clear` (mismo terminal, contexto limpio) o terminal nueva cuando se cumpla alguno de estos disparadores:
+
+- La tarea quedo cerrada y `98_Agent_Handoff/CURRENT_BRIEF.md` / `PENDING.md` / `log.md` ya estan actualizados.
+- Lo siguiente que pide el usuario no tiene relacion con lo recien hecho.
+- En la sesion ya se leyeron varios archivos grandes (capitulos completos, `Hitos.md`, `log.md`) y el historial pesa.
+- Cambia el rol de agente para el siguiente trabajo (ver `98_Agent_Handoff/AGENT_ROLES.md`): sugerir terminal nueva, no solo `/clear`.
+
+Es una sugerencia breve al final, no un bloqueo: si el usuario quiere seguir, se sigue.
+
+## Referencia Externa
+
+`99_Reference/` es material de inspiración externo y no es canon. No copies escenas, biografías ni formulaciones desde ahí. Antes de usarlo, lee [`99_Reference/README.md`](99_Reference/README.md).
+
+## Reglas Narrativas Mínimas
+
+- La relación de Kal y Chiara es la maquinaria del ascenso, no un adorno.
+- Pase lo que pase, Kal y Chiara no se separan, pero el lector debe llegar a creer que sí.
+- El romance avanza por trabajo compartido, escenas pequeñas y peligro, no por declaraciones limpias.
+- El territorio y el relato deben avanzar juntos.
+- La violencia tiene que cambiar una relación o una estructura; si no, sobra.
+- La ciudad se escribe como un lugar concreto, nunca como decorado genérico.

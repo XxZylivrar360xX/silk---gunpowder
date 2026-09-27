@@ -1,0 +1,215 @@
+# La Guerra de los Tres
+
+> **AVISO DE SUPERSESIÓN (2026-09-11).** Este documento es de 2026-08-30, anterior a [[00_Biblia/00_Trilogy_Structure]] (2026-09-07), y usaba "Parte III" como nombre operativo de todo el tramo de la guerra; las etiquetas operativas del cuerpo se actualizaron a Voto de Ceniza / Guerra de los Tres. Leer **"Parte III" como el tramo de *Voto de Ceniza* (Libro II)** que va desde su apertura hasta la caída de Dario, la montaña y Santa Lucía. Dos puntos quedaban en contradicción directa con la trilogía y se corrigen abajo: (1) [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] ocurre **antes** de la caída de Dario/montaña/Santa Lucía, no después de "cerrar Parte III"; (2) la **muerte pública de Halbrook no ocurre dentro de este tramo** — Kal sólo lo sentencia aquí; la ejecución abre *Cuentas de Sangre* (Libro III). No se movió ningún hito ni se inventó contenido nuevo.
+
+> **CANON DEL AUTOR (2026-08-30). REGLA DURA DE VOTO DE CENIZA / GUERRA DE LOS TRES.** “Guerra de los Tres” es una denominación de arquitectura narrativa para el autor, los agentes y, progresivamente, el lector. **No existe públicamente.**
+
+## Lo que el nombre no significa
+
+“Guerra de los Tres” no es:
+
+- un nombre utilizado por la prensa;
+- un concepto conocido por la policía;
+- una guerra públicamente atribuida a [[02_Characters/Kal_Mercer]], [[02_Characters/Dario_Varek]] y [[02_Characters/Warren_Halbrook]];
+- un enfrentamiento donde los tres aparecen como jefes visibles de ejércitos.
+
+Sería absurdo para sus métodos y destruiría sus fachadas.
+
+Los tres vértices secretos son:
+
+- **Dario**;
+- **Halbrook**;
+- **Kal + Chiara**.
+
+La Policía de San Aurelio es el cuarto actor **visible**, pero no un cuarto vértice de la guerra: el Estado intenta contener las consecuencias de una arquitectura que todavía no puede ver completa.
+
+> **Sustitución de canon provisional:** el anterior “Gatillo” deja de ser el tercer vértice de Parte III. Halbrook ocupa esa función por decisión posterior del autor. El personaje provisional no se traslada ni se reutiliza por intuición.
+
+## Las tres capas de verdad
+
+La Guerra de los Tres debe escribirse simultáneamente en tres niveles que nunca pueden volverse idénticos.
+
+## La red de contingencias — la mecha, no un cuarto vértice
+
+> **CANON DEL AUTOR (2026-09-12).** La infraestructura negable de La Mesa en San Aurelio funciona como una red de contingencias: administra presión, versiones, recursos y ausencias para volver utilizables tensiones que ya existen. No crea los motivos de [[02_Characters/Dario_Varek|Dario]], [[02_Characters/Warren_Halbrook|Halbrook]] o [[02_Characters/Kal_Mercer|Kal]], ni sustituye los tres vértices de la guerra. **No crea la pólvora; decide dónde prender el cerillo.**
+
+Su intervención debe ayudar a que el primer choque abierto de H1 se vuelva inevitable, pero sólo mediante **una** acción concreta aún pendiente. La coalición sigue alineada, favorecida o manipulada por Dario; Halbrook conserva su motivo autónomo y llega después como tercer frente. No convertir la red en explicación total ni en un cuarto bando público.
+
+La arquitectura se siembra en Libro I mediante las ausencias y operaciones de [[02_Characters/Nereo_Volpi|Nereo Volpi]]; en Libro II acelera la escalada y aprovecha el caos para borrar registros, cobrar deudas o reordenar rutas; en *Cuentas de Sangre*, Meridian puede reconstruirla como nexo real entre crímenes y presiones que parecían aislados.
+
+El hallazgo federal no debe ser una organización falsa plantada para engañarlos ni un chivo expiatorio inocente. Meridian encuentra una estructura real, criminal y causalmente relevante, pero ya desactivada: sin mando vivo, sin comunicaciones activas y sin depender de Kal o Chiara. La salida de ambos sólo funciona si han vuelto reemplazable su propio poder y no si escondieron una estructura idéntica detrás del expediente.
+
+> **PENDIENTE:** definir la única intervención de la red de contingencias que prende la mecha de H1 y cómo deja una huella que Meridian pueda leer después sin acceder a una explicación omnisciente.
+
+### Capa 1 — Lo que ve San Aurelio
+
+La población observa aumento de violencia entre bandas, disputas territoriales, incendios, ataques a negocios, vehículos destruidos, tiroteos, desapariciones, ajustes de cuentas, represalias, cierres de zonas, armas largas, operativos, detenciones, cateos, controles, helicópteros, conferencias de prensa, hospitales recibiendo heridos y comercios cerrando temprano.
+
+La interpretación pública es:
+
+> San Aurelio atraviesa una escalada de delincuencia organizada y enfrentamientos entre organizaciones criminales mientras las autoridades intentan recuperar el control.
+
+Nunca:
+
+> Kal Mercer está en guerra con Dario Varek y Warren Halbrook.
+
+### Capa 2 — Lo que saben las instituciones
+
+El [[03_Factions/Departamento_de_Policia_de_San_Aurelio]] funciona durante toda la guerra. Recoge cuerpos, abre investigaciones, conecta armas y vehículos, interroga sobrevivientes, establece perímetros, investiga incendios, procesa escenas, ejecuta órdenes, hace arrestos, responde a llamadas, protege eventos y genera inteligencia parcial. Después trabaja o choca con instancias estatales y federales.
+
+Puede detectar que varias organizaciones se mueven al mismo tiempo y sospechar una coordinación mayor. No recibe de inmediato el organigrama real.
+
+Cada escena importante deja:
+
+- evidencia física;
+- testigos imperfectos;
+- versiones contradictorias;
+- patrones;
+- consecuencias jurídicas.
+
+Los tres poderes clandestinos saben por qué ocurre cada enfrentamiento. La policía recibe el cadáver, el vehículo quemado, el arma, el testimonio y la versión pública. Esa distancia genera tensión.
+
+### Capa 3 — Lo que sabe el lector
+
+El lector entiende gradualmente que la violencia aparentemente desordenada tiene tres centros de gravedad. Aun así, no accede a cada orden.
+
+Que un ataque beneficie a Dario no prueba de inmediato si él lo ordenó, si una banda aliada actuó por iniciativa propia, si alguien interpretó una expectativa, si Halbrook provocó indirectamente la situación o si Kal permitió que ocurriera.
+
+No escribir a los tres como jugadores de Risk que mueven fichas de forma explícita.
+
+## Fachadas que deben sobrevivir a la guerra
+
+### Dario Varek
+
+Dario sigue siendo públicamente magnate, empresario, figura vinculada al Monarch, hombre de contactos y personaje respetable con zonas grises. Puede condenar la violencia, pedir estabilidad, hablar de seguridad, colaborar superficialmente con las autoridades y mantener distancia visible respecto de bandas que orbitan su estructura.
+
+Su caída pública no es la derrota de un jefe visible de ejército. Es el arresto de **Dario Varek, prominente empresario de San Aurelio, acusado de estar detrás de una estructura criminal cuya escala la ciudad apenas comienza a comprender**. La investigación de Lucia rompe una fachada que todavía funcionaba; por eso el arresto debe sentirse enorme.
+
+### Warren Halbrook
+
+Halbrook es Brigadier General. La presencia de recursos estatales o militares alrededor de San Aurelio debe tener justificación institucional visible: contener una crisis de seguridad, proteger infraestructura o responder a delincuencia armada.
+
+No convertir al ejército completo en una organización criminal ni hacer que todos los soldados conozcan su operación. Halbrook corrompe, aprovecha y redirige partes de una infraestructura legítima. Su participación clandestina nunca equivale públicamente a una declaración de guerra del Ejército contra Kal.
+
+### Kal Mercer
+
+Kal no aparece públicamente como jefe del ejército criminal rival. Puede ser conocido como empresario, dueño de Almendra Towing, inversionista, operador local, figura influyente, hombre relacionado con numerosos negocios y persona que parece conocer a todo el mundo.
+
+La calle puede saber mucho más que la policía, pero saber y demostrar son cosas distintas:
+
+> Todos saben algo; nadie puede probar el mapa completo.
+
+Sus hombres no usan uniformes, insignias ni lenguaje de milicia Mercer. Desde fuera son bandas, trabajadores, contactos, aliados, operadores y grupos con intereses coincidentes. Desde dentro, Kal construye una red.
+
+### Chiara Bellandi
+
+Cada explosión, operativo, arresto, muerte, cierre o ataque deja un vacío narrativo. Chiara compite por decidir qué explicación ocupa ese vacío; no se limita a “controlar la prensa”.
+
+Ejemplo de capas:
+
+| Nivel | Lectura |
+|---|---|
+| Realidad | Una estructura de Dario pierde una ruta. |
+| Calle | Hubo una represalia entre bandas. |
+| Policía | Investiga crimen organizado. |
+| Prensa | Informa una nueva escalada territorial. |
+| Chiara | Trabaja para que una interpretación concreta gane sobre las otras. |
+| Lector | Entiende que el movimiento debilitó a Dario. |
+
+Ésta es la ejecución madura de la tesis: **Kal toma territorio. Chiara toma relato.**
+
+## Matriz obligatoria de enfrentamientos
+
+Antes de diseñar cada enfrentamiento importante de la Guerra de los Tres, registrar esta matriz. No todos los campos tienen que aparecer en prosa; la matriz existe para impedir omnisciencia accidental.
+
+| Pregunta | Respuesta necesaria |
+|---|---|
+| Qué ocurrió realmente | arquitectura secreta |
+| Quién lo ordenó realmente | si se sabe |
+| Quién lo ejecutó | organización o intermediario |
+| Qué vio la policía | evidencia |
+| Qué vio un civil | experiencia |
+| Qué informó la prensa | versión pública |
+| Qué cree la ciudad | percepción |
+| Qué quiere Chiara que crean | objetivo narrativo |
+| Qué puede demostrar la ley | umbral jurídico |
+| Qué sabe el lector | información dramática |
+
+## La guerra excede a sus autores
+
+Kal, Dario y Halbrook no controlan cada incidente. Cuando mueven estructuras, los subordinados interpretan, los aliados reaccionan, los enemigos aprovechan, las bandas ajustan cuentas propias, los oportunistas se meten, los rumores provocan violencia, la policía responde y los ciudadanos toman decisiones.
+
+La guerra debe producir fenómenos que ninguno de los tres ordenó. San Aurelio entra realmente en crisis; no se vuelve un tablero habitado sólo por tres personajes.
+
+## La guerra invade una familia en marcha — CANON DEL AUTOR (2026-08-31)
+
+Chiara entra a Voto de Ceniza (Libro II) **ya embarazada**. La Guerra de los Tres no produce el embarazo ni ocurre porque exista Elenna: invade una vida doméstica que Kal y Chiara ya habían empezado a imaginar durante Parte II.
+
+La siguiente cadena es una referencia histórica supersedida en la posición de F2 por [[00_Biblia/00_Trilogy_Structure]]: Riley ya está establecida en Italia al abrir Voto de Ceniza. Para el orden operativo vigente, consultar [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]] y [[06_Relationships/Hitos]].
+
+`inicio de la guerra → F2 / destierro de Riley → Riley establecida en Italia como Riley Colombo → nacimiento de Elenna → detonante pendiente → muerte pública falsa → Elenna Serra con Riley → separación de sus padres`.
+
+El detonante concreto que vuelve imposible conservar a Elenna en San Aurelio sigue pendiente. Debe surgir de la escalada, la exposición creciente y la imposibilidad de proteger a una bebé sin convertirla en objetivo; no puede ser un incidente agregado sólo para moverla a Italia.
+
+La maniobra conserva las tres capas de verdad:
+
+| Capa | Estado de Elenna |
+|---|---|
+| San Aurelio / versión pública | La hija de Kal Mercer y Chiara Bellandi murió durante o alrededor del parto |
+| Círculo íntimo, todavía por fijar | Elenna vive; la lista y el momento de conocimiento permanecen pendientes |
+| Realidad | Vive en Italia como Elenna Serra bajo el cuidado cotidiano de Riley |
+
+Ni Dario Varek ni Warren Halbrook conocen que sobrevivió. La guerra no se simplifica a una operación para “salvar a la bebé”: Elenna puede cumplir su función sin estar físicamente en peligro en escena. Su poder narrativo es la vida que continúa en otro lugar mientras sus padres terminan la guerra.
+
+La separación debe durar lo suficiente para convertirse en experiencia acumulada —fotografías escasas, crecimiento y ausencia— antes de [[06_Relationships/Hitos#H22 — Los primeros pasos|H22 — Los primeros pasos]]. **Corrección (2026-09-11):** H22 no depende del cierre de la guerra — [[00_Biblia/00_Trilogy_Structure]] lo coloca **antes** de la caída de Dario, la montaña y Santa Lucía, mientras la guerra sigue abierta. Sigue bloqueado para prosa por su propia matriz de dependencias, no por el cierre bélico.
+
+## Curva institucional de Voto de Ceniza / Guerra de los Tres
+
+1. **Inicio:** el Departamento interpreta los incidentes como violencia criminal elevada pero reconocible.
+2. **Mitad:** detecta coordinación, armas, recursos y movimientos que exceden una guerra de bandas ordinaria.
+3. **Caída de Dario:** una parte del rompecabezas se vuelve visible; hechos antes separados revelan una estructura mayor.
+4. **Después de Dario:** las instituciones creen haber cortado el centro principal de la crisis. Esto produce el falso final.
+5. **Santa Lucía + montaña:** la hipótesis vuelve a romperse. Si Dario está detenido, ¿quién acaba de hacer esto? Halbrook empieza a convertirse en una explicación para el lector y para las instituciones pertinentes.
+6. **Kal sentencia a Halbrook:** decide que debe morir. **No lo ejecuta todavía** — [[00_Biblia/00_Trilogy_Structure]] fija que la ejecución pública, por mano de Kal, es el evento que abre *Cuentas de Sangre* (Libro III), no el cierre de este tramo.
+
+Antes del corte a *Cuentas de Sangre* también deben haberse cobrado las muertes de Héctor y Kenji, la herida grave de Chiara, la aparición posterior de Corrado según su arco y el cierre reconocible de la arquitectura bélica dentro de *Voto de Ceniza*. La causa y posición exactas de la muerte de Héctor y el orden fino Santa Lucía/montaña permanecen pendientes.
+
+> **PENDIENTE:** relación causal y orden fino entre el atentado de Santa Lucía y la secuencia de montaña; qué institución formula primero una hipótesis demostrable sobre Halbrook. **RESUELTO por [[00_Biblia/00_Trilogy_Structure]]:** quien dispara contra Halbrook es **Kal**, en *Cuentas de Sangre* (Libro III) — ya no es una incógnita de este tramo.
+
+## Regla particular — Santa Lucía
+
+El atentado no se lee inmediatamente en la opinión pública como “Halbrook atacó a Chiara”. Para la ciudad es un atentado armado en la [[05_Locations/Iglesia_Santa_Lucia]] que deja muertos y heridos, entre ellos figuras conocidas.
+
+La policía investiga. La prensa especula. La ciudad busca explicación. Kal sabe o descubre otra cosa.
+
+La distancia entre lo demostrable públicamente y lo que Kal sabe ayuda a explicar por qué su respuesta contra Halbrook no pasa necesariamente por el mismo camino legal utilizado contra Dario.
+
+Se conserva del hito anterior, mientras el autor no decida lo contrario: Kenji muere; Chiara recibe dos disparos, sobrevive gravemente herida y entra en coma. Quedan **decanonizados por decisión posterior**: que Dario orqueste este atentado, que su caída legal ocurra después del ataque y que Kal lo ejecute antes de su arresto.
+
+## Principio visual
+
+Un noticiero de San Aurelio nunca muestra un gráfico `KAL vs DARIO vs HALBROOK`. Muestra titulares como:
+
+- “Ola de violencia en San Aurelio”.
+- “Nuevos enfrentamientos entre grupos criminales”.
+- “Autoridades refuerzan seguridad en el puerto”.
+- “Fuerzas estatales desplegadas tras nuevos incidentes”.
+- “Empresario Dario Varek detenido”.
+- “Ataque en Santa Lucía deja muertos y heridos”.
+
+Debajo de esos titulares, el lector reconstruye otra guerra.
+
+## Criterio de éxito
+
+Al terminar el tramo bélico de *Voto de Ceniza* (la "Parte III" de este documento):
+
+- el lector puede reconstruir `Dario vs Halbrook vs Kal/Chiara`;
+- un detective puede reconstruir parcialmente varias organizaciones, intereses y operaciones vinculadas;
+- un periodista puede describir una crisis de delincuencia organizada y respuesta estatal;
+- un ciudadano común sólo sabe que San Aurelio se volvió peligrosa.
+
+Esas cuatro percepciones no deben ser idénticas.
+
+---
+
+Ver también: [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[03_Factions/Departamento_de_Policia_de_San_Aurelio]] · [[04_Concepts/El_Territorio_y_El_Relato]] · [[06_Relationships/Hitos]]

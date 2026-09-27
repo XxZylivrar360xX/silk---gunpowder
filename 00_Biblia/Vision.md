@@ -24,13 +24,13 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 
 ## La historia en un párrafo
 
-Cole Mercer llegó a San Aurelio sin saber de dónde venía y aprendió a sobrevivir volviéndose lo que cada habitación necesitaba. Chiara Bellandi llegó desde Palermo a hacerse cargo de un negocio que no era suyo, con instrucciones de no llamar la atención. Se conocen cuando ninguno de los dos es nadie: ella con un vestido que cuesta más que el coche de él, él debajo de ese coche. Lo que empieza como el peor malentendido posible entre dos mundos se convierte en la sociedad más eficiente que ha visto la ciudad — porque él descubre que puede tomar cualquier calle, y ella descubre que puede decidir lo que la calle significa. La novela es el ascenso de los dos y el precio exacto que cobra.
+Kal Mercer llegó a San Aurelio sin saber de dónde venía y aprendió a sobrevivir volviéndose lo que cada habitación necesitaba. Chiara Bellandi llegó desde Palermo a hacerse cargo de un negocio que no era suyo, con instrucciones de no llamar la atención. Se conocen cuando ninguno de los dos es nadie: ella con un vestido que cuesta más que el coche de él, él debajo de ese coche. Lo que empieza como el peor malentendido posible entre dos mundos se convierte en la sociedad más eficiente que ha visto la ciudad — porque él descubre que puede tomar cualquier calle, y ella descubre que puede decidir lo que la calle significa. La novela es el ascenso de los dos y el precio exacto que cobra.
 
 ## El núcleo emocional
 
 **Dos personas que nunca tuvieron un lugar propio construyen uno tan grande que ya no caben adentro.**
 
-Cole fue comprado de bebé: literalmente no hay documento que diga de quién es hijo. Chiara usa el apellido de su madre porque el de su padre pertenece a otra gente. Ninguno de los dos tiene un origen al que volver. Todo lo que construyen — el negocio, el territorio, el periódico, la casa — es un intento de fabricar la pertenencia que nadie les dio.
+Kal fue comprado de bebé: literalmente no hay documento que diga de quién es hijo. Chiara usa el apellido de su madre porque el de su padre pertenece a otra gente. Ninguno de los dos tiene un origen al que volver. Todo lo que construyen — el negocio, el territorio, el periódico, la casa — es un intento de fabricar la pertenencia que nadie les dio.
 
 Funciona. Ése es el problema. Al final tienen la ciudad entera, siguen juntos — **eso es regla dura y no está en discusión en ningún momento del libro** — y la pregunta que queda no es si se quedan, sino qué quedó de ellos mientras se quedaban.
 
@@ -59,7 +59,7 @@ Registro: realista. Sucio en la calle, elegante en las oficinas, con humor. No h
 
 ## Estructura provisional
 
-> **PENDIENTE:** confirmar con el autor el número de partes y si esto es una novela única o el primer libro de una serie.
+> **REFERENCIA HISTÓRICA:** la propuesta de tres movimientos de abajo conserva la nomenclatura anterior; no enumera las partes vigentes del Libro I. Los títulos actuales están en [[01_Timeline/02_Cadena_De_Eventos_Libro_I#Partes del Libro I — títulos del autor]] y la división en libros en [[00_Biblia/00_Trilogy_Structure]]. Se conserva el diseño anterior sin reconciliación narrativa en esta migración.
 
 Propuesta de trabajo en tres movimientos:
 

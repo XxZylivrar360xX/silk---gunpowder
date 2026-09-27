@@ -1,14 +1,20 @@
 # Silas Crowe — *El Tasador*
 
+## Reconciliación macro — CANON DEL AUTOR 2026-09-20
+
+El incendio del loft cierra **Parte IV**; el desplazamiento precede a F4, F2 y Villa, que se reconstruye **después** del día Mei-Lin/Riley en Parte V. No es una mudanza inmediata hacia riqueza.
+
+La caída de Silas corresponde al conflicto final de **Parte VI**, con mecanismo concreto pendiente. **SUPERSEDIDA POR DECISIÓN AUTORAL 2026-09-20** su función cronológica de caída obligatoria antes de Stavanger (viaje/anillo ahora en Parte V, después de Riley). Se conserva el material autoral sobre Dale/red de colocación y la derrota económica; no se ejecuta ni se adelanta automáticamente. **PENDIENTE DE RECONCILIACIÓN:** cómo llega a encajar la información de origen que la incubadora hacía depender de esa derrota; no inventar sustituto. También sigue pendiente ajustar la relación entre el cargamento antiguo y la autonomía de Kal al ocurrir H8.
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-08-23).**
 
-**Rol:** **antagonista inicial de [[02_Characters/Cole_Mercer]].** El primer obstáculo real del libro, y el que define su código.
+**Rol:** **antagonista inicial de [[02_Characters/Kal_Mercer]].** El primer obstáculo real del libro, y el que define su código.
 **Alias:** *el Tasador*.
 **Territorio:** la Almendra. Ver [[05_Locations/San_Aurelio]].
 **Qué representa:** la explotación del barrio.
-**Estado:** vivo.
+**Estado:** vivo; derrota diseñada (CANON DEL AUTOR 2026-09-19) — ver "Pendientes".
 
 ---
 
@@ -39,31 +45,51 @@ Si en ese barrio alguien necesita un vehículo robado, un arma, cobrar una deuda
 
 ---
 
-## Por qué es exactamente el antagonista de Cole
+## Por qué es exactamente el antagonista de Kal
 
 Silas cree que **la lealtad tiene precio. Que las personas tienen precio. Que la Almendra tiene precio.**
 
-Y **Cole construye buena parte de su código alrededor de demostrar que hay cosas que no están en venta.**
+Y **Kal construye buena parte de su código alrededor de demostrar que hay cosas que no están en venta.**
 
 ### La conexión que lo vuelve devastador
 
-**A Cole lo compraron.** De bebé, a una red que movía niños. Ver [[02_Characters/Cole_Mercer]], "El origen que no está".
+**A Kal lo compraron.** De bebé, a una red que movía niños. Ver [[02_Characters/Kal_Mercer]], "El origen que no está".
 
-Así que cuando Silas Crowe dice *todo vale algo, la única diferencia es quién pone el precio*, no le está soltando una filosofía criminal a Cole: **le está describiendo lo que le pasó a él.** Cole es literalmente el resultado de que alguien le pusiera precio a una persona.
+Así que cuando Silas Crowe dice *todo vale algo, la única diferencia es quién pone el precio*, no le está soltando una filosofía criminal a Kal: **le está describiendo lo que le pasó a él.** Kal es literalmente el resultado de que alguien le pusiera precio a una persona.
 
 Odiar esa frase no es ideología. **Es autobiografía.** Y por eso el enfrentamiento con el Tasador no puede ser sólo territorial — es el único antagonista del libro que toca su origen.
 
 *(Conecta también con su aversión al juego de azar: a él lo pagaron una vez, como se paga una apuesta.)*
 
+### El primer trato que nadie cuenta — CANON DEL AUTOR (2026-09-19)
+
+> **Resuelve un PENDIENTE de esta ficha y motiva [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] (BORRADOR PROPUESTO, no integrado al manuscrito).**
+
+Antes de ser "el Tasador" para todo el barrio, cuando todavía era sólo el hombre que le prestaba fácil a Dale Mercer, Silas hizo su primer trato de verdad. Dale le contó, borracho y ya quebrado, que Ruth no podía tener hijos y que eso la estaba consumiendo. Silas conocía a alguien — un contacto de una red de colocación que movía niños desde el norte de Europa hacia la costa oeste. Consiguió al bebé. Cobró por el favor, como cobra todo, pero se quedó con algo mejor que dinero: **una deuda que Dale nunca pudo terminar de pagar**, porque no era una deuda de dinero. Era una deuda de silencio.
+
+Años después, cuando empezaron a llegar cartas de Noruega preguntando por el niño, Dale se las llevó a Silas — no porque confiara en él, sino porque no sabía a quién más acudir sin que la verdad saliera a la luz. Silas le dijo que las contestara él mismo, con pocas palabras, y que no volviera a mencionarlo. Fue el consejo más barato que le dio en toda su vida como prestamista, y el más caro que Kal terminaría pagando.
+
+> **CONFIRMADO POR EL AUTOR (2026-09-19): retcon aplicado.** La línea de más abajo, en "Lo que le hace a Kal — CANON", quedaba en *"Y toca su origen dos veces... El mismo hombre no: la misma idea."* Deja de ser una idea repetida por dos hombres distintos y pasa a ser, literalmente, **el mismo hombre las dos veces** — ya corregida en esa sección.
+
 ### Y el espejo incómodo
 
 Aquí está lo que impide que Silas sea un villano plano, y hay que escribirlo:
 
-**Cole también le pone precio a todo.** Convierte cualquier regalo en transacción para no deberle nada a nadie. Lleva un libro de contabilidad de favores que sólo él conoce. Media ciudad le debe algo y ésa es toda su fuente de poder.
+**Kal también le pone precio a todo.** Convierte cualquier regalo en transacción para no deberle nada a nadie. Lleva un libro de contabilidad de favores que sólo él conoce. Media ciudad le debe algo y ésa es toda su fuente de poder.
 
-> **Cole está peleando contra un hombre cuya visión del mundo comparte a medias.**
+> **Kal está peleando contra un hombre cuya visión del mundo comparte a medias.**
 
-La diferencia — y el libro tiene que ganársela, no declararla — es **para qué**. Silas tasa para quedarse con la diferencia. Cole tasa para que nadie pueda quitarle a nadie. Pero el mecanismo es el mismo, y **el día que Cole se dé cuenta va a ser una de las peores escenas de su vida.**
+La diferencia — y el libro tiene que ganársela, no declararla — es **para qué**. Silas tasa para quedarse con la diferencia. Kal tasa para que nadie pueda quitarle a nadie. Pero el mecanismo es el mismo, y **el día que Kal se dé cuenta va a ser una de las peores escenas de su vida.**
+
+---
+
+## Lo que le hizo a Dale Mercer, mucho antes — CANON
+
+**RESUELTO DE DISEÑO (2026-08-25).** Antes de ser "el Tasador" para todo el barrio, Crowe ya era el hombre que le prestaba fácil a Dale Mercer, padre de Kal. Dale jugaba, perdía y pedía más. Cuando la deuda superó lo que Dale podía cubrir, Crowe se la cobró poniéndolo a trabajar en algo que salió mal — y Dale terminó preso, después de años en los que la casa de los Mercer se volvió un lugar donde Ruth y un Kal niño aprendían a leer su humor antes de que él abriera la puerta.
+
+**Es el primer boceto de su tesis, ensayado en privado años antes de convertirla en filosofía pública.** Todo vale algo, y él decide cuánto — incluso un hombre roto por sus propias apuestas. Crowe nunca sabe que esto conecta directamente con el origen de Kal (a Kal lo compraron una vez, como se paga una apuesta); si lo supiera, tendría todavía más motivos para sentir que su tesis es correcta.
+
+**Restricción de diseño:** esto no se dramatiza como escena — Kal nunca lo cuenta. Se filtra en conducta, igual que el resto de lo que le pasó a Ruth. Ver [[02_Characters/Kal_Mercer]].
 
 ---
 
@@ -77,60 +103,62 @@ Silas llegó y empezó a convertirlo todo en tarifa. Y Walt entendió al instant
 
 Silas necesitaba quitarse de encima a **uno de los pocos hombres lo bastante antiguos y respetados como para decirle que no.** Así que **consiguió que lo condenaran. Diez años** — una década entera para construir su reino sin él.
 
+> **RESUELTO (2026-09-03):** el mecanismo — Crowe intentó reclutar a Jim, el hijo de Walt, a espaldas de éste. Walt le partió el escritorio con una barreta al enterarse. Días después, esa misma barreta (con sus huellas reales, no fabricadas) apareció como arma en un asalto violento a una casa de empeños de Crowe. Crowe se aseguró además de que ningún abogado sostuviera el caso. Ver [[02_Characters/Walter_Keegan]] y [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/17_Cuentas_Claras|Capítulo 17]].
+
 **Y Walt sale justo cuando empieza la novela.** Ver su ficha.
 
 > **DISEÑO:** es la mejor grieta que tiene el Tasador. Su tesis es que todo tiene precio — **y lo que lo pone nervioso es un hombre que no le debe nada y que no quiere nada de él.** Walt ni siquiera necesita amenazarlo: le basta con volver a su casa y pedirse una cerveza.
 
 ---
 
-## Lo que le hace a Cole — CANON
+## Lo que le hace a Kal — CANON
 
-**Silas Crowe incendia [[05_Locations/La_Casa]], el loft de Cole.**
+**Silas Crowe incendia [[05_Locations/La_Casa]], el loft de Kal.**
 
-El motivo declarado: **un cargamento que Cole no entregó a tiempo**, cuando todavía trabajaba para él. Cole **aún no era autónomo, pero estaba empezando a serlo.**
+El motivo declarado: **un cargamento que Kal no entregó a tiempo**, cuando todavía trabajaba para él. Kal **aún no era autónomo, pero estaba empezando a serlo.**
 
 **Y eso último es lo que de verdad está castigando.** Su propia ficha lo anuncia arriba: *si alguien empieza a ganar demasiado sin él, de pronto aparece una cuota nueva.* **El incendio es esa cuota, escalada hasta lo irreversible.**
 
 ### Por qué es la mejor jugada del antagonista
 
 - **Es su tesis ejecutada sin misericordia.** *Todo vale algo, la única diferencia es quién pone el precio.* Aquí **le pone precio a un hogar**, y el precio es un retraso. **Una casa a cambio de un cargamento tarde: la tasación definitiva.**
-- **Quema exactamente lo único de la vida de Cole que no estaba en venta.** El código entero de Cole nace contra este hombre — *hay cosas que no están en venta* — y Silas le contesta incendiando la prueba.
-- **Y toca su origen dos veces.** A Cole lo compraron de bebé; Silas acaba de ponerle precio a su casa. **El mismo hombre no: la misma idea.**
+- **Quema exactamente lo único de la vida de Kal que no estaba en venta.** El código entero de Kal nace contra este hombre — *hay cosas que no están en venta* — y Silas le contesta incendiando la prueba.
+- **Y toca su origen dos veces.** A Kal lo compraron de bebé; Silas acaba de ponerle precio a su casa. **CANON DEL AUTOR (2026-09-19, retcon confirmado):** ya no es sólo la misma idea repetida por casualidad — es, literalmente, **el mismo hombre las dos veces**. Fue Silas quien conectó a Dale con la red que trajo a Kal (ver "El primer trato que nadie cuenta", arriba); el incendio es la segunda vez que le pone precio a lo mismo.
 
 ### El costo que casi nadie va a contar
 
-**Silas Crowe saca a Cole de la Almendra.** Después del incendio se mudan al penthouse y luego a [[05_Locations/La_Villa]], en la zona de prestigio.
+**Silas Crowe saca a Kal de la Almendra.** Después del incendio se mudan al penthouse y luego a [[05_Locations/La_Villa]], en la zona de prestigio.
 
 **El hombre que protege al barrio termina desplazado de él** — y el barrio que lo cubría en silencio se queda sin nadie a quien cubrir. Es la única victoria real que el Tasador consigue en toda la novela, y probablemente ni la registre como tal.
 
-> **PENDIENTE:** ¿cuál era la amenaza que venía después del incendio, la que Cole le ocultó a Chiara?
+> **PENDIENTE:** ¿cuál era la amenaza que venía después del incendio, la que Kal le ocultó a Chiara?
 
 ---
 
-## Relación con [[02_Characters/Dario_Valcora]]
+## Relación con [[02_Characters/Dario_Varek]]
 
 **CANON.** Hacen negocios indirectamente, pero **no son aliados.**
 
-| Valcora ve al Tasador como | El Tasador ve a Valcora como |
+| Varek ve al Tasador como | El Tasador ve a Varek como |
 |---|---|
 | útil, vulgar y reemplazable | un aristócrata criminal que cree que el puerto le da derecho a gobernar toda San Aurelio |
 
 **Se necesitan ocasionalmente y se detestan permanentemente.**
 
-**Función estructural:** esto le permite a Cole **entrar al ecosistema de Valcora desde abajo, muchos años antes de enfrentarlo como igual.** El Tasador es la puerta de servicio del poder de esta ciudad.
+**Función estructural:** esto le permite a Kal **entrar al ecosistema de Varek desde abajo, muchos años antes de enfrentarlo como igual.** El Tasador es la puerta de servicio del poder de esta ciudad.
 
 ---
 
 ## Pendientes
 
-> **PENDIENTE:** apariencia, edad, y cómo se comporta cuando alguien deja de pagarle.
+> **RESUELTO EN PARTE (2026-09-03): apariencia.** Obeso — Walt se refiere a él como "el gordo hijo de puta" ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/17_Cuentas_Claras|Cap. 18]]). Edad y el resto del comportamiento siguen PENDIENTES.
 
 > **PENDIENTE:** su lógica decente ([[00_Biblia/Principios_Narrativos]], principio 3). Propuesta a validar: cree sinceramente que **él es lo único que mantiene la Almendra funcionando** — que sin alguien que ponga precios, el barrio se devora a sí mismo. Que se equivoque no significa que mienta.
 
-> **PENDIENTE:** cómo termina. Restricción de diseño: **si Cole lo resuelve pagándole, pierde el libro.** La derrota del Tasador tiene que demostrar la tesis contraria a la suya.
+> **CANON DEL AUTOR (2026-09-19, resuelve el PENDIENTE "cómo termina").** Silas no cae por un golpe único ni porque Kal lo compre o lo destruya a la fuerza — eso perdería el libro. Cae porque Kal ataca exactamente su tesis: en vez de pagarle, pelearlo o negociar, empieza a construir alternativas gratuitas o recíprocas para cada servicio que el Tasador vende en la Almendra — trabajo, protección, resolución de deudas y disputas — a través de El Patio, sin declarar guerra abierta y sin que se note como campaña. Meses después, nadie en el barrio necesita ya a alguien que le ponga precio a las cosas. Cuando Silas intenta tasar algo y la gente simplemente se niega a pagar, entiende que perdió sin que nadie lo tocara. En la última conversación con Kal — sin dinero de por medio, sin amenaza directa — suelta lo único que le queda como arma: la conexión con el origen de Kal y las cartas que Dale escondió (ver "El primer trato que nadie cuenta", arriba), como golpe final de despecho, no como negociación. Después de eso no necesariamente muere: se vuelve irrelevante, y el barrio que antes lo protegía con su silencio deja de necesitar protegerlo a él. **Restricción respetada:** Kal no le paga nada; su derrota es la prueba viva de que no todo tiene precio.
 
-> **PARCIALMENTE RESUELTO:** Cole **trabajaba para él** en la primera etapa, y se estaba soltando. Falta el detalle de qué le debía exactamente, y qué era ese cargamento.
+> **PARCIALMENTE RESUELTO:** Kal **trabajaba para él** en la primera etapa, y se estaba soltando. Falta el detalle de qué le debía exactamente, y qué era ese cargamento.
 
 ---
 
-Ver también: [[02_Characters/Cole_Mercer]] · [[04_Concepts/Quien_Decide_Quien_Soy]] · [[03_Factions/Almendra_Towing]]
+Ver también: [[02_Characters/Kal_Mercer]] · [[04_Concepts/Quien_Decide_Quien_Soy]] · [[03_Factions/Almendra_Towing]]
