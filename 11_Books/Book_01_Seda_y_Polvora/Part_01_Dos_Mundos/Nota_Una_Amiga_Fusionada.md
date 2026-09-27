@@ -6,9 +6,11 @@ Este capitulo fue fusionado con el antiguo Capitulo 5 (La casa no quiere ruido).
 El contenido completo vive ahora en:
 [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/05_La_Casa_No_Quiere_Ruido]]
 bajo el titulo "Una amiga".
-Este archivo se conserva vacio de prosa unicamente para no romper enlaces existentes
-mientras la renumeracion global de capitulos sigue pendiente (ver seccion 10 del plan).
-No añadir prosa nueva aqui. No borrar hasta la renumeracion final.
+Este archivo se conserva vacio de prosa unicamente para no romper enlaces existentes.
+La renumeracion global de capitulos ya se completo (2026-09). Queda pendiente, como
+housekeeping aparte, normalizar el nombre del archivo del Cap. 5 a 05_Una_Amiga
+(ver 01_Timeline/08_Matriz_Renombramiento_Capitulos_Libro_I).
+No añadir prosa nueva aqui. No borrar hasta ese renombrado.
 -->
 
 # Capítulo 6 — fusionado con el Capítulo 5

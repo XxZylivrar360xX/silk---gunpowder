@@ -261,7 +261,9 @@ Kal caminó hacia la puerta y se detuvo con la mano en la manija.
 
 —Riley hizo lo correcto —dijo, sin volverse—. Por si te lo estás preguntando.
 
-—Lo sé —dijo Chiara—. Se lo dije yo misma antes de que llegaras.
+—Lo sé —dijo Chiara—. Se lo dije yo misma antes de que llegaras. Ciao, tesoro.
+
+La mano de Kal se quedó quieta en la manija un segundo.
 
 Kal no dijo nada más. Abrió la puerta, salió, y la cerró detrás de él sin fuerza, con el mismo cuidado con el que cerraba cualquier puerta que no fuera suya.
 

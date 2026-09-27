@@ -1,5 +1,6 @@
 <!--
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_c11_el_loft_del_soltero.md). Deuda de canon no bloqueante conservada: por que la familia Mercer dejo de poseer La Casa y si Chiara sabe durante el diseno que era la casa de los Mercer -- no afecta este estado, no resueltas.
+Cirugía editorial extraordinaria 2026-09-26 (autorizada por el autor, sigue TERMINADO): poda de glosas, salto de POV a Nadir, prolepsis, inventario de obra y regateos repetidos; la tercera visita queda sin luces ni lista de muebles; media línea nueva ancla el regreso al penthouse en la vigilancia de Dario. Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_10_El_Loft_Del_Soltero.md §10.
 Protagonistas: Kal Mercer, Chiara Bellandi, Nadir Amrani.
 Ventana temporal: continúa directamente del Capítulo 9. Semanas en la casa común, después la recompra y el diseño de la casa.
 Lugares: Casa Comunitaria de La Almendra, La Casa (la vieja casa de los padres de Kal).
@@ -15,7 +16,7 @@ No era nada que pudiera señalarse. Le pasaba la sal antes de que la pidiera. Le
 
 Era, en la superficie, un anfitrión impecable.
 
-Pero cada gesto tenía la temperatura exacta de una cortesía cobrada, no regalada, y Chiara, que llevaba media vida leyendo eso mismo en salones mucho más caros, lo notó desde la segunda noche.
+Pero cada gesto tenía la temperatura de una cortesía cobrada, no regalada, y Chiara, que llevaba media vida leyendo eso mismo en salones mucho más caros, lo notó desde la segunda noche.
 
 Lo que no dijo fue que también había empezado a notar cuánto espacio ocupaba ella.
 
@@ -40,8 +41,6 @@ La tuerca dejó de moverse.
 —Ya sé —dijo Kal—. Voy a resolverlo.
 
 Nadir abrió la boca, quizá para preguntar qué significaba eso. Luego miró el libro cerrado y guardó la pregunta.
-
-Sabía que, cuando Kal decía *voy a resolverlo* con esa calma exacta, la conversación ya había terminado.
 
 ***
 
@@ -89,13 +88,7 @@ Ella soltó una risa breve, profesional.
 
 —Estoy pagando lo que vale después de restar lo que cuesta impedir que se caiga.
 
-La agente salió al porche a llamar. Kal esperó en la cocina con el folleto doblado en cuatro, sin volver a recorrer la casa. Desde ahí oía su voz amortiguada por la puerta y, más lejos, una llave de impacto trabajando en el Patio. La Almendra no bajaba el volumen porque una propiedad estuviera vacía.
-
-La mujer volvió con una contraoferta. Kal tachó uno de los números del folleto, escribió otro y se lo mostró.
-
-—Ésta. Los diez días siguen en pie.
-
-Hubo una segunda llamada, más corta.
+La agente salió al porche a llamar. Kal esperó en la cocina con el folleto doblado en cuatro, sin volver a recorrer la casa. Desde ahí oía su voz amortiguada por la puerta y, más lejos, una llave de impacto trabajando en el patio. La Almendra no bajaba el volumen porque una propiedad estuviera vacía.
 
 La agente entró con la mano todavía alrededor del teléfono.
 
@@ -109,7 +102,7 @@ Kal guardó la cinta métrica.
 
 —Ya lo pensé.
 
-Habló de la casa con el mismo tono con el que habría comprado un coche usado: descontando fallas, calculando mano de obra, sin pagar un centavo por la historia. Diez días después firmó. No preguntó cómo había llegado a las manos del hombre que acababa de vendérsela, y nadie le ofreció explicárselo.
+Diez días después firmó. No preguntó cómo había llegado a las manos del hombre que acababa de vendérsela, y nadie le ofreció explicárselo.
 
 ***
 
@@ -164,8 +157,6 @@ La sostuvo un momento, bajó con ella a la calle y la guardó en el maletero del
 Hizo una lista.
 
 Electricidad. Techo. Humedad. Ventanas. Estructura. Todo lo que podía medirse, cotizarse y corregirse.
-
-Antes de irse, llamó a una cuadrilla.
 
 ***
 
@@ -275,8 +266,6 @@ Kal esperó.
 
 —Se arregla.
 
-No dijo si hablaba de la palabra, de la viga o de las dos cosas.
-
 Bajaron otra vez. Chiara se paró en medio de la sala y giró sobre sí misma muy despacio. Sin el piso de arriba, los ventanales podrían empujar luz hasta la cocina. La escalera, en lugar de cortar el centro, podía correr abierta contra uno de los muros laterales. El dormitorio quedaría suspendido sobre la parte trasera, visible desde abajo sólo hasta la barandilla.
 
 Kal siguió la ruta que ella dibujaba con el dedo.
@@ -385,7 +374,7 @@ Habían levantado parte del suelo dañado cerca del antiguo pasillo. Debajo de l
 
 Kal reconoció la línea del borde antes de verla completa.
 
-De niño había visto a Dale entrar ahí con paquetes que no llegaban por la puerta del frente y salir con las manos vacías. Dale nunca le permitió acercarse. Kal reconoció el uso del hueco y nada más.
+De niño había visto a Dale entrar ahí con paquetes que no llegaban por la puerta del frente y salir con las manos vacías. Dale nunca le permitió acercarse.
 
 —¿Lo cerramos? —preguntó el jefe de obra.
 
@@ -405,9 +394,9 @@ Una semana después, antes de que colocaran las tablas definitivas, instalaron d
 
 Chiara volvió cuando la mitad del segundo piso ya no existía.
 
-Entró y se detuvo bajo la nueva doble altura. Arriba, el mezzanine era todavía un esqueleto de vigas; abajo, la sala recibía por fin la luz completa de los ventanales. El ladrillo original aparecía en un muro entero, irregular y manchado, esperando limpieza. Del otro lado, el yeso nuevo todavía estaba gris.
+Entró y se detuvo bajo la nueva doble altura. Arriba, el mezzanine era un esqueleto de vigas; abajo, la sala recibía por fin la luz completa de los ventanales. El ladrillo original aparecía en un muro entero, irregular y manchado, esperando limpieza. Del otro lado, el yeso nuevo todavía estaba gris.
 
-El ruido de la calle entraba sin obstáculos: un perro ladrando en el Patio, una radio dos casas más allá, el golpe seco de una herramienta sobre metal.
+El ruido de la calle entraba sin obstáculos: un perro ladrando en el patio, una radio dos casas más allá, el golpe seco de una herramienta sobre metal.
 
 —Esto sí es un loft —dijo.
 
@@ -429,7 +418,7 @@ Chiara se quitó los lentes oscuros. La claridad la hizo parpadear, pero no retr
 
 Era verdad. Kal la dejó pasar.
 
-Caminaron la planta baja mientras los trabajadores medían los peldaños de la escalera. Kal había desplazado su arranque medio metro hacia la pared para dejar libre el trayecto entre la cocina y la salida trasera. Chiara había pedido que los peldaños quedaran abiertos para que la estructura no cortara la luz. El resultado todavía era sólo acero negro sujeto por puntos de soldadura, ligero a la vista y sólido cuando Kal lo probaba con la mano.
+Caminaron la planta baja mientras los trabajadores medían los peldaños de la escalera.
 
 —La barandilla del mezzanine va a la misma altura —dijo él.
 
@@ -441,17 +430,7 @@ Caminaron la planta baja mientras los trabajadores medían los peldaños de la e
 
 Kal miró desde el lugar donde iría el sofá hasta el borde del dormitorio suspendido.
 
-—Diez centímetros.
-
-—Quince.
-
-—Doce.
-
-—Trece.
-
-—Hecho.
-
-El jefe de obra, que había esperado con el lápiz en el aire, anotó trece sin preguntar qué clase de cálculo acababa de presenciar.
+El jefe de obra, que había esperado con el lápiz en el aire, anotó.
 
 En la cocina, la isla estaba marcada en el suelo con cinta. Kal caminó alrededor para comprobar el paso. Chiara movió una esquina de la cinta unos centímetros y se plantó en el espacio que quedaba.
 
@@ -477,8 +456,6 @@ El jefe de obra volvió a anotar.
 
 Para la tercera visita, el polvo había dejado de gobernar la casa.
 
-La madera de los peldaños oscurecía la escalera sin volverla pesada. El muro de ladrillo había quedado expuesto sólo en la sala; los otros, claros, devolvían al interior la luz que antes se perdía en los pasillos. Desde el mezzanine podía verse la puerta principal, la sala y el borde de la cocina. El dormitorio se retiraba lo suficiente detrás de una pared corta para no quedar exhibido.
-
 Kal subió primero. Chiara lo siguió sin que él vigilara cada escalón, aunque esperó arriba hasta oírla llegar.
 
 El balcón tenía tablas nuevas donde hacían falta, la madera vieja restaurada donde todavía servía y una barandilla que ya no cedía. Chiara salió, comprobó el espacio con dos pasos y señaló una esquina.
@@ -488,30 +465,6 @@ El balcón tenía tablas nuevas donde hacían falta, la madera vieja restaurada 
 —Más adelante.
 
 —No dije hoy.
-
-No volvieron a hablar del balcón.
-
-Abajo, la cocina ya podía usarse. Había almacenamiento suficiente para que nada tuviera que vivir sobre la cubierta, una isla central ancha y espacio para que tres personas trabajaran sin chocarse. Kal abrió cada gabinete, probó los herrajes y se agachó a revisar las conexiones. Chiara encendió las lámparas.
-
-La luz cayó cálida sobre la madera y el concreto gris claro.
-
-—Demasiado amarilla —dijo Kal.
-
-—Es de noche.
-
-—Quiero ver lo que estoy cortando.
-
-Chiara encendió la luz de trabajo bajo los gabinetes. La superficie de la isla quedó clara, sin enfriar el resto del cuarto.
-
-Kal observó las dos luces funcionando juntas.
-
-—Bien.
-
-—Tu entusiasmo me conmueve.
-
-—Dije bien.
-
-—Por eso.
 
 La mesa del comedor llegó al día siguiente. Era de madera oscura, con estructura metálica, y podía sentar a ocho personas sin que nadie quedara en la cabecera por accidente.
 
@@ -545,15 +498,7 @@ Chiara amplió la imagen. Kal miró las medidas, no la tela.
 
 —Tienes una cama.
 
-—Puedo tener visita.
-
-—En tu loft para soltero.
-
-—Los muchachos se quedan a veces.
-
-—Claro.
-
-Eligieron el de color carbón. Kal añadió dos sillones que podían moverse sin rayar el piso. Chiara cambió una lámpara demasiado grande por otra que no obligaba a rodearla. Él pidió una mesa baja con estructura de acero. Ella puso una planta junto al ventanal y retiró las otras cuatro que había propuesto la empresa.
+Eligieron el de color carbón.
 
 Cuando terminaron, el lugar seguía siendo de Kal: despejado, resistente, con las rutas libres y las entradas a la vista. Pero la luz ya no castigaba los ojos, el acero no convertía la sala en una caja fría y había lugares donde sentarse sin tener que estar trabajando.
 
@@ -591,7 +536,7 @@ Nadie comentó el tamaño.
 
 Lo primero que Chiara dejó ahí fue un libro.
 
-Una tarde se quedó a comer, se durmió en el sofá antes de terminar el segundo capítulo y despertó con la luz del ventanal ya naranja. Kal la llevó al penthouse, que para entonces había vuelto a ser su base, porque todavía se mareaba si se levantaba demasiado rápido. El libro quedó cerrado sobre la mesa baja.
+Una tarde se quedó a comer, se durmió en el sofá antes de terminar el segundo capítulo y despertó con la luz del ventanal ya naranja. Kal la llevó al penthouse —que para entonces, con gente de Dario en cada pasillo del Monarch, había vuelto a ser su base— porque todavía se mareaba si se levantaba demasiado rápido. El libro quedó cerrado sobre la mesa baja.
 
 La siguiente vez lo encontró en la misma página, con un recibo limpio marcando el lugar.
 
@@ -599,7 +544,7 @@ Después dejó una manta doblada sobre el respaldo del sofá. No era suya; la ha
 
 Una noche se quedó porque el dolor de cabeza regresó después de cenar y Kal no quiso que cruzara la ciudad. Durmió arriba. Él durmió en el sofá de color carbón cuya medida había revisado antes que la tela.
 
-Por la mañana apareció un cepillo de dientes junto al suyo. Días más tarde, dos cremas pequeñas ocuparon una esquina del botiquín. Ninguno de los objetos bastaba para llamar mudanza a nada. Podían caber en el bolso grande con el que ella todavía llegaba y se iba.
+Por la mañana apareció un cepillo de dientes junto al suyo. Días más tarde, dos cremas pequeñas ocuparon una esquina del botiquín. Podían caber en el bolso grande con el que ella todavía llegaba y se iba.
 
 La taza fue distinta sólo porque Danny intentó usarla.
 

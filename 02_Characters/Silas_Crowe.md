@@ -133,6 +133,17 @@ El motivo declarado: **un cargamento que Kal no entregó a tiempo**, cuando toda
 
 > **PENDIENTE:** ¿cuál era la amenaza que venía después del incendio, la que Kal le ocultó a Chiara?
 
+### Siembras en el Libro I (*Seda y Pólvora*)
+
+Crowe aparece en los Caps. 1, 3, 11 y 17. Entre el 18 y el 44 sólo se le ve **tasando el crecimiento de Kal**, sin acción (BORRADOR 2026-09-26, decisión del autor):
+
+| Cap. | Siembra |
+|---|---|
+| 32 | Después de que reabre la llantera de Portillo, Héctor cuenta que el Tasador mandó preguntar quién lo arregló y cuánto cobró. Respuesta: "nada". "Al muchacho no le gustó la respuesta." |
+| 37 | El de la ferretería de la esquina: el Tasador le subió la cuota "por la competencia" y quiere saber si la competencia es Kal. Kal no cobra cuotas; sólo anota el día de cobro. |
+
+Las dos preparan el incendio como cuota escalada y la caída como consecuencia de que Kal dé gratis lo que él vende. **No se inventó el cargamento no entregado:** sigue PENDIENTE.
+
 ---
 
 ## Relación con [[02_Characters/Dario_Varek]]

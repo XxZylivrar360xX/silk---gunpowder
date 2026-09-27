@@ -132,9 +132,11 @@ Llega al casino con ese hombre. **Ella está afuera, en la entrada, fumando un c
 
 Y la historia de los dos empieza con **un apretón de manos** y dos líneas:
 
-> **— Io sono Chiara Bellandi.**
+> **— Ciao, sono Chiara Bellandi.**
 >
 > **— Encantado de conocerla.**
+
+> **CANON DEL AUTOR (2026-09-26):** la presentación es *"Ciao, sono Chiara Bellandi"*; sustituye a *"Io sono Chiara Bellandi"*. El *Ciao* de Chiara queda así sembrado desde la primera línea, y el *"Ciao, bella"* de Kal en Cap. 35 lo cita directamente.
 
 ### Por qué estas dos líneas son enormes
 
@@ -323,7 +325,7 @@ Llega con **dos hamburguesas y dos malteadas** para la cena, y una dotación de 
 
 > **DISEÑO:** dos personas que mueven dinero ajeno, cuidándole el sillón a alguien más. Es el chiste y la ternura de la noche entera en un solo gesto, y es la primera aparición de *la incomodidad de estar cómodos*.
 
-**1-b. La cocina que nadie usa (durante el recorrido).** Kal abre un cajón vacío; Chiara, **sin que él pregunte**, cuenta una anécdota suya de la infancia — a los seis años se pasó una fiesta entera grabando con una cámara de video pesadísima desde un rincón, muy seria, mientras Vitto le pisaba los pies bailando, y su padre le dijo que *en la vida no se baila concentrada* y que *una Ardizzone baila aunque le pisen los pies*. Ella se quedó con la frase y la sigue usando. Cierra con Kal: *"Yo habría pisado peor que Vitto." / "De eso no tengo ninguna duda."* — lo más cerca que están esa noche de hablar de bailar juntos.
+**1-b. La cocina que nadie usa (durante el recorrido).** Kal abre un cajón vacío; Chiara, **sin que él pregunte**, cuenta una anécdota suya de la infancia — a los seis años se pasó una fiesta entera grabando con una cámara de video pesadísima desde un rincón, muy seria, mientras Fabrizio le pisaba los pies bailando, y su padre le dijo que *en la vida no se baila concentrada* y que *una Ardizzone baila aunque le pisen los pies*. Ella se quedó con la frase y la sigue usando. Cierra con Kal: *"Yo habría pisado peor que Vitto." / "De eso no tengo ninguna duda."* — lo más cerca que están esa noche de hablar de bailar juntos.
 
 > **AJUSTE DE BORRADOR (2026-08-27).** Se añadió para que la noche **no sea asimétrica**: Kal abría (Michael/Marisol, calavera, carreras) y Chiara sólo administraba versiones. Ahora ella también pone algo sobre la mesa por voluntad propia, ligero, con forma de anécdota. El **Capítulo 2** siembra la imagen sin resolverla (el recuerdo del vuelo: la niña con la cámara pesada, Vitto pisándole el pie, ella que no baja la cámara) — pero **la frase de Corrado y su significado se recortaron de allí** para que **estrenen aquí**. La frase es de **Corrado**, no "de la Ardizzone". Función temática: es la semilla de su problema de control (documentar/gestionar en vez de estar) y a la vez la promesa de que puede soltarlo. El pago está completo en el Cap. 7: el lector que vio a la niña negándose a bajar la cámara siente que ella le está entregando algo que guarda.
 
@@ -528,9 +530,11 @@ En el hospital, con el cuarto en silencio y Chiara todavía sin despertar, Kal l
 
 Le pide a Héctor que lo cubra y sale a investigar un nombre — un guardia de las caballerizas que se fue temprano sin avisar. Lo secuestra, lo interroga, no saca nada útil, lo suelta. **Es un fracaso, y es feo — el libro no lo justifica.**
 
-Vuelve al cuarto y se encuentra con Dario Varek, de pie junto a la cama sedada. **Se apuntan con sus armas, culpándose mutuamente de lo que le pasó a Chiara.** Llegan a una tregua: cada uno investiga por su lado y comparten lo que encuentren. Kal omite la llamada por reflejo — es información, y la información es una carta — y le da a Dario la primera versión oficial: estaba en el taller, volvió y la encontró en las caballerizas. Cuando Chiara despierta, Kal la pone al tanto antes de que vuelva a dormirse.
+Vuelve al cuarto y se encuentra con Dario Varek, de pie junto a la cama sedada. **Se apuntan con sus armas, culpándose mutuamente de lo que le pasó a Chiara.** Llegan a una tregua: cada uno investiga por su lado y comparten lo que encuentren. Kal omite la llamada por reflejo — es información, y la información es una carta — y le da a Dario la primera versión oficial: estaba en el taller, volvió y la encontró en las caballerizas. ~~Cuando Chiara despierta, Kal la pone al tanto antes de que vuelva a dormirse.~~ **CANON DEL AUTOR (2026-09-26):** al despertar Kal sólo le pide que descanse; Chiara llega al alta sin conocer la versión ni la tregua y las lee en vivo frente a Dario (de ahí el cruce corral/caballerizas: Dario no detecta el error, sino que los dos se están alineando).
 
 > **SIEMBRA DE TENSIÓN Dario→Kal (2026-09-10, Claude Code — DISEÑO, pendiente de validación del autor).** Al bajar las armas, antes de salir, **Dario le dice a Kal que lo que le pasó a Chiara lo arregla él y que Kal "no tiene vela ahí. Ni en eso ni en ella"** (frase exacta = inferencia del agente). Kal lo minimiza (*"me apuntó con un arma y los dos seguimos aquí; lo demás son frases"*); **Chiara, cuando Kal se lo cuenta, no** (*"a Dario no se le pasan las cosas; las anota… dice lo que ya decidió"*). **Función:** (a) raizar el borrador *"no es Varek"* del [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/27_Riesgo_Pendiente|Cap. 28]] y la asimetría de calma entre los dos (Kal despreocupado con Varek — el peso real es Halbrook; Chiara no, porque Varek es su jefe y es lo único visible); (b) escalar hacia las tres líneas canon del taller ([[#H5 — San Aurelio]]): de "marcar una pared" a instruir a Chiara directamente y hacerla el instrumento. Sembrado en prosa en el [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 26]] (jacuzzi) y pagado en Caps. 28-29. Si el autor cambia o retira la frase, revisar esos tres capítulos.
+
+> **Actualización (2026-09-26):** la línea canon de Dario al salir es *"La tregua es por lo que le pasó, señor Mercer. No por ella."* (sustituye la frase DISEÑO de arriba); desde hoy está en la prosa del Cap. 9 y el 25 la cita. **Siembra (DISEÑO, aprobada en lugar):** tras la llamada ("¿Es usted el mecánico?"), el primer pensamiento de Kal es que vinieron por su pasado, no por ella; no lo dice. Espejo del temblor de Chiara en la casa común. Ver [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_09_El_Corral]].
 
 Ejecutado en el Capítulo 9. **Esto absorbe y ejecuta los beats 1-6 de H5 — ver nota de fusión al final de H5.**
 
@@ -699,7 +703,7 @@ Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Leone_Valenti
 
 > **CANON DEL AUTOR (2026-08-26; reposicionado 2026-08-29).** El primer beso y la primera intimidad de Kal y Chiara. **Nueva posición canon:** ocurre **después de [[#H4 — El día nublado]]** y antes de [[#H15 — La noche del jacuzzi]]. La secuencia es **H10 → H4 → H11**: H10 = terceros los empujan; H4 = conocimiento y elección; **H11 = el cruce romántico y físico.** Cuatro movimientos: los bolos, el drift, el mirador, el penthouse.
 >
-> **ORDEN DE MANUSCRITO — RESUELTO por reordenación (2026-08-29, opción A) + renumerado +1 dos veces (Cap. 14 puente *La regla del teléfono* y Cap. 9 nuevo *La carrera de máscaras*).** Numeración vigente: **Cap. 15 = El portón** (H10 1ª mitad) · **Cap. 16 = Cuatro letras** (H10 2ª mitad) · **Cap. 17 = El día nublado** (H4) · **Cap. 18 = El mirador** (este hito) · **Cap. 19 = Sin rastro**. **Prosa cerrada el 2026-08-29 (triaje PROSA-A/B/C/D):** apertura del Cap. 15 reescrita, apertura del Cap. 18 reescrita al residuo del Cap. 17 (H4), Cap. 17 redactado completo, Héctor en Caps. 15-16 revisado sin cambios. Falta regenerar el EPUB.
+> **ORDEN DE MANUSCRITO — RESUELTO por reordenación (2026-08-29, opción A) + renumerado +1 dos veces (Cap. 14 puente *La regla del teléfono* y Cap. 9 nuevo *La carrera de máscaras*).** Numeración vigente: **Cap. 15 = El portón** (H10 1ª mitad) · **Cap. 16 = Cuatro letras** (H10 2ª mitad) · **Cap. 17 = El día nublado** (H4) · **Cap. 18 = El mirador** (este hito) · **Cap. 19 = Sin rastro**. *(Numeracion historica. Vigente al 2026-09-26: Cap. 15 = El portón · Cap. 16 = El sobre rojo · Cap. 18 = El día nublado · Cap. 20 = El mirador · Cap. 22 = Causalidad.)* **Prosa cerrada el 2026-08-29 (triaje PROSA-A/B/C/D):** apertura del Cap. 15 reescrita, apertura del Cap. 18 reescrita al residuo del Cap. 17 (H4), Cap. 17 redactado completo, Héctor en Caps. 15-16 revisado sin cambios. Falta regenerar el EPUB.
 
 ## Los bolos y el vino
 
@@ -716,7 +720,7 @@ Kal para el auto en seco. Se gira hacia ella con una mirada de incredulidad fing
 
 Y ahí Chiara entiende que cometió un error: Kal no contesta con palabras, se lo muestra. Baja una curva entera driftando, impecable, sin chocar una sola vez. Chiara se agarra —figurativamente— hasta del tapete.
 
-> **SINCRONIZADO CON LA PROSA (2026-09-10).** La formulación anterior de este beat era una sola línea de Chiara («¿No me digas que tú...», Kal sin contestar). La prosa aprobada y protegida del Cap. 21 (el autor la considera cerrada) tiene el intercambio de dos réplicas: **Kal abre** «No me digas que tú...» siguiendo su indignación fingida y **Chiara la voltea** con «No me digas *tú* que no», y ahí entiende que lo provocó. Manda la prosa; esta tabla se ajustó a ella. Decisión del autor.
+> **SINCRONIZADO CON LA PROSA (2026-09-10).** La formulación anterior de este beat era una sola línea de Chiara («¿No me digas que tú...», Kal sin contestar). La prosa aprobada y protegida del Cap. 20 (el autor la considera cerrada) tiene el intercambio de dos réplicas: **Kal abre** «No me digas que tú...» siguiendo su indignación fingida y **Chiara la voltea** con «No me digas *tú* que no», y ahí entiende que lo provocó. Manda la prosa; esta tabla se ajustó a ella. Decisión del autor.
 
 Él la reta: que lo intente ella. Ella dice que no sabría hacerlo.
 
@@ -1474,9 +1478,9 @@ Y **se pone la sudadera de Kal para aparentar que él está en casa.**
 
 > **ESCRITO (2026-09-09, catchup manual desde borrador de sesión de escritorio; falta revisión del autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/25_Libros_Abiertos|Capítulo 25 — Libros abiertos]] cubre la compra del Lancia y la noche de libros abiertos (familia de Chiara e Il Consorzio; ejército, Nadir, cicatriz y "lo de los niños" de Kal, sin la reserva del bebé). **La advertencia de Varek de madrugada queda fuera de este capítulo por decisión del autor (2026-09-09): se rinde como recuerdo comprimido en el [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/26_Me_Encuentro_Bien|Capítulo 26]], NO como escena propia.**
 
-> **REVISIÓN DE PROSA (2026-09-09, Claude Code, sobre el reporte editorial de Codex + decisiones del autor):** el Cap. 26 se reescribió aplicando las 5 decisiones del autor. Sobre esta noche: (a) Chiara cree que **perdió** a su padre — versión pública = el capo de la famiglia Ardizzone falleció, caída desde el acantilado de la villa de Palermo, federales y comisión "palabra por palabra", nunca hubo cuerpo; no se fija edad. (b) La cicatriz queda **confirmada por el autor** (ver nota abajo). (c) La confesión se repartió en intercambios cortos, sin dossier; se podaron las glosas del narrador que recitaban lo reservado. Sigue BORRADOR pendiente de revisión final del autor.
+> **REVISIÓN DE PROSA (2026-09-09, Claude Code, sobre el reporte editorial de Codex + decisiones del autor):** el Cap. 26 *(numeración histórica; hoy Cap. 25)* se reescribió aplicando las 5 decisiones del autor. Sobre esta noche: (a) Chiara cree que **perdió** a su padre — versión pública = el capo de la famiglia Ardizzone falleció, caída desde el acantilado de la villa de Palermo, federales y comisión "palabra por palabra", nunca hubo cuerpo; no se fija edad. (b) La cicatriz queda **confirmada por el autor** (ver nota abajo). (c) La confesión se repartió en intercambios cortos, sin dossier; se podaron las glosas del narrador que recitaban lo reservado. Sigue BORRADOR pendiente de revisión final del autor.
 
-> **PASADA EDITORIAL (2026-09-10, Claude Code, decisión del autor — toque mínimo):** en el Cap. 26, Chiara **nombra Il Consorzio una vez** (Kal identifica por fin la estructura que ella no nombró en el Corral); Kal menciona a la contacto rusa como *"una rusa que conseguía papeles"* — **Anya sin nombrar**, el nombre se guarda para F4 (ver nota abajo). No se ampliaron los secretos; reservas de Alessio y del bebé intactas. Costura temporal 26→27 corregida: la intercepción de Varek es *la misma madrugada* del jacuzzi, no "dos noches atrás".
+> **PASADA EDITORIAL (2026-09-10, Claude Code, decisión del autor — toque mínimo):** en el Cap. 26 *(numeración histórica; hoy Cap. 25)*, Chiara **nombra Il Consorzio una vez** (Kal identifica por fin la estructura que ella no nombró en el Corral); Kal menciona a la contacto rusa como *"una rusa que conseguía papeles"* — **Anya sin nombrar**, el nombre se guarda para F4 (ver nota abajo). No se ampliaron los secretos; reservas de Alessio y del bebé intactas. Costura temporal 26→27 corregida: la intercepción de Varek es *la misma madrugada* del jacuzzi, no "dos noches atrás".
 
 ## Relación con H2-b — la hija adulta de la noche de hierba
 
@@ -1510,7 +1514,7 @@ Y el resto: **fue Nadir quien lo ayudó a salir.** En agradecimiento, Kal lo ayu
 
 > **Mantener las reservas ya canon.** No inventar qué secretos exactos entregan más allá de lo listado. En particular:
 > - **Kal le cuenta lo de los niños, pero casi seguro NO que a él lo compraron.** Ver [[02_Characters/Warren_Halbrook]]. Que el lector tenga esa información y ella no es el hueco más grande que queda abierto en la pareja.
-> - **Ella le cuenta del Consorcio, no de Alessio.** Los dos entregan el sistema que los formó y se guardan el hecho concreto. Simetría exacta, y ninguno lo nota.
+> - **Ella le cuenta del Consorcio y nombra a Alessio sólo como herida y precio** ("no iba a ser yo"), **no lo que hizo.** Los dos entregan el sistema que los formó y se guardan el hecho concreto. Simetría exacta, y ninguno lo nota. *(Ajustado 2026-09-26, decisión del autor: la línea de Alessio en la prosa es deliberada; antes decía "no de Alessio".)*
 
 > **CONFIRMADO POR EL AUTOR (2026-09-09):** la cicatriz viene de la última noche del convoy — un vidrio del parabrisas le abrió la cara cuando sacaba a un niño por la ventanilla. No es la pelea de cantina que dice el rumor del barrio. **Ya no es diseño provisional del agente.** Ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/25_Libros_Abiertos|Capítulo 25]].
 
@@ -1871,7 +1875,7 @@ El doble fondo plantado en H14 y la caja de acero resistente al fuego protegen s
 
 **Esto no abarata el incendio.** Sobrevive lo que podía guardarse, tasarse, documentarse o protegerse. Se destruye lo que hacía hogar al loft: la estructura habitable, la mesa, la manta, los muebles, los objetos cotidianos y los recuerdos que quedaron expuestos. El contraste es parte del costo.
 
-> **PRESAGIO SIN NOMBRAR (2026-08-31):** esa misma mañana — horas antes del incendio, no durante — el imán de refrigerador con forma de manzana roja que Marisol le hizo comprar a Kal en el Capítulo 13 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono]]) se despega solo de la puerta y cae. Se raja. Chiara lo levanta y se lo da a Kal; él dice que lo puede pegar. Lo pega. **La marca queda** — completo otra vez, pero partido. Nadie lo dice en voz alta, y no hace falta: para cuando llega la noche y ven el incendio, el lector ya vio la imagen que se repite. El imán no sobrevive el incendio como objeto especial — es un objeto cualquiera, roto y reparado esa misma mañana, que se pierde con todo lo demás. Su función es la escena en sí, no su supervivencia.
+> **PRESAGIO SIN NOMBRAR (2026-08-31):** esa misma mañana — horas antes del incendio, no durante — el imán de refrigerador con forma de manzana roja que Marisol le hizo comprar a Kal en el Capítulo 14 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono]]) se despega solo de la puerta y cae. Se raja. Chiara lo levanta y se lo da a Kal; él dice que lo puede pegar. Lo pega. **La marca queda** — completo otra vez, pero partido. Nadie lo dice en voz alta, y no hace falta: para cuando llega la noche y ven el incendio, el lector ya vio la imagen que se repite. El imán no sobrevive el incendio como objeto especial — es un objeto cualquiera, roto y reparado esa misma mañana, que se pierde con todo lo demás. Su función es la escena en sí, no su supervivencia.
 
 ## 4. El penthouse otra vez — desplazamiento posterior al cierre de IV
 
@@ -2234,7 +2238,7 @@ Traer la yegua hasta el hipódromo **sin que Chiara se entere es una odisea cóm
 
 ### Regalo 2 — la botella
 
-Una noche antes, Kal deja en el **cuarto bodega del loft**, envuelto en una manta, una botella de **Domaine de la Romanée-Conti** — *"el vino más caro del mundo jamás vendido en una subasta"*. La **robó de la casa de un rico del norte**: llega con **las botas llenas de lodo y los nudillos ensangrentados**. **Qué pasó con ese hombre, y si alguna vez supo del robo, no se explica — queda a imaginación del lector.**
+Una noche antes, Kal deja en el **doble fondo de Dale** —el compartimiento bajo el piso del loft, al fondo de la planta baja, acostada junto a la caja de acero bajo el tablón suelto (nota 2026-09-26: cuadrado con el hueco del Cap. 10; sustituye "cuarto bodega": no es un cuarto)—, envuelta en una manta, una botella de **Domaine de la Romanée-Conti** — *"el vino más caro del mundo jamás vendido en una subasta"*. La **robó de la casa de un rico del norte**: llega con **las botas llenas de lodo y los nudillos ensangrentados**. **Qué pasó con ese hombre, y si alguna vez supo del robo, no se explica — queda a imaginación del lector.**
 
 Al entregarla, Chiara le pregunta **si sabe lo que significa regalar una botella así**. Kal: **— Sin duda alguna.** *(El significado no se explicita; se deja en la pregunta y la respuesta.)*
 
@@ -2433,7 +2437,7 @@ La redacción final de la explicación emocional de Kal queda abierta. No debe c
 
 > **CANON DEL AUTOR (2026-09-20, decisión del autor — sustituye la versión 2026-09-09). Escrito en prosa (2026-09-20, Claude Code):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35 — Sin fecha de regreso]], `Estado: BORRADOR`, abre la Parte III. El ritual **no** nace inmediatamente después de "Mi pareja": esa llamada (arriba) fue a tres, con Nadir en altavoz, y quedó explícitamente sin dramatizar. Nace en la **apertura de la Parte III — Ardizzone** ([[01_Timeline/02_Libro_01_Seda_y_Polvora]], sección "Apertura de Parte III"): la primera llamada telefónica a dos, cuando Chiara le cuenta a Kal —que está en [[03_Factions/Almendra_Towing|Almendra Towing]] con Nadir presente— que Matteo se fue abruptamente de San Aurelio.
 >
-> **Kal abre:** *"Ciao, bella."* — acento italiano deliberadamente malo, citando/homenajeando su vieja imitación burlona del *"Io sono Chiara Bellandi"* de ella en [[#H2 — El apretón de manos|H2]].
+> **Kal abre:** *"Ciao, bella."* — acento italiano deliberadamente malo, citando/homenajeando su vieja imitación burlona del *"Ciao, sono Chiara Bellandi"* de ella en [[#H2 — El apretón de manos|H2]].
 > **Chiara responde:** *"Ciao, bellissimo."* — italiano impecable y deliberadamente marcado; subtexto privado: *mi acento sigue aquí.*
 >
 > Nadir presencia la llamada y registra en silencio cuánto ha suavizado Chiara a Kal (no verbalizar "domado"). Pasa como intercambio espontáneo y **se queda como ritual de la pareja para toda la trilogía**. Levanta la cuarentena de [[99_Reference/README]] sobre *"Ciao, Bella" / "Ciao, Bellissimo"*. Coherente con "Kal es el aprendiz de italiano y no lo domina nunca": el mal acento es el chiste; Chiara responde con la forma más difícil (el superlativo) para reafirmar que su fluidez —y su identidad italiana, bajo presión durante toda la Parte III— sigue intacta.

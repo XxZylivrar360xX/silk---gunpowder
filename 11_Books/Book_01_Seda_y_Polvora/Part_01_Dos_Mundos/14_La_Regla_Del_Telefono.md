@@ -6,6 +6,7 @@ Lugares: La Casa (loft de Kal), la universidad / residencia de Marisol, carreter
 Funcion: capitulo puente / beat de familia. Presentar a Marisol en escena; mostrar por conducta la relacion casi paternal con Kal; explorar "la amiga Chiara" desde alguien que conoce a Kal de antes de Chiara; justificar por caracter (la regla del telefono, heredada de Michael) que Kal quede incomunicado durante el infarto de Hector; cerrar con las llamadas perdidas que abren H10. Version expandida (2026-09-02): mas cuerpo y aventura para el fin de semana -- competencia de piedras en el arroyo con mencion de un compañero de clase (Diego) que le lleva cafe; dato curioso de derecho (engaño investigativo en interrogatorios) que Kal guarda sin decir para que, sembrado para pago futuro; escena de mediodia donde Marisol pregunta por el loft/la casa recomprada y comparten, sin caer en elegia, cuanto extrañan a Michael; broma nueva donde a Kal se le escapa una palabra en italiano ("dai") sin darse cuenta y Marisol lo cacha -- "en serio te gusta, para que hayas aprendido italiano" -- el le resta importancia en voz alta y le da la razon por dentro.
 Sin ID de hito. En este punto Kal y Chiara ya tienen vinculo emocional pero TODAVIA NO se han besado; oficialmente son "buenos amigos". Michael Grayson aparece solo por conducta (una regla, un nudo de tienda, un cazo, una casa), nunca como elegia.
 Apertura por residuo: arranca del cierre del Capitulo 12 — el papel de "Roma Atrii" sin abrir sobre la repisa y la promesa de Chiara de traer ella misma lo que tenga que llegarle.
+Cirugia editorial (2026-09-26, decisiones del autor; ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_14_La_Regla_Del_Telefono.md): se corto la linea final de prolepsis (el cierre queda en la regla que termina en su propia puerta); se sembro el buzon sin mensaje de Kal (rima 14-44) en la escena de la regla; poda de lluvia, lupinos, planta invasora y codas de narrador. La ultima frase de la nota siguiente ("una linea que le avisa al lector") queda SUPERADA por esta cirugia.
 Cierre corregido (2026-09-03): ya NO termina con Kal prendiendo el telefono y viendo las llamadas perdidas en la carretera -- eso se recoloca al inicio del Capitulo 15, cuando llega al loft. Aqui cierra con el telefono todavia apagado y una linea que le avisa al lector, sin que Kal lo sepa, que algo paso en paralelo en la ciudad mientras el estaba en la montaña -- ancla el "Dos dias antes" del Capitulo 15 al mismo fin de semana, no a un salto temporal separado.
 -->
 
@@ -73,7 +74,7 @@ Arrancó.
 
 ***
 
-La carretera se vació a la media hora de San Aurelio, y a la hora ya no había más que cerros pelados y vallas de alambre. Kal conocía el desvío aunque no lo tomaba desde hacía años; lo agarró sin dudar, y la camioneta empezó a subir por un camino de tierra donde el teléfono, apoyado en el salpicadero, pasó de dos rayas a una.
+La carretera se vació a la media hora, y a la hora ya no había más que cerros pelados y vallas de alambre. Kal conocía el desvío aunque no lo tomaba desde hacía años; lo agarró sin dudar, y la camioneta empezó a subir por un camino de tierra donde el teléfono, apoyado en el salpicadero, pasó de dos rayas a una.
 
 —Dámelo —dijo Marisol.
 
@@ -101,7 +102,9 @@ Kal no lo soltó enseguida.
 
 Kal sacó el teléfono del salpicadero y se lo puso en la mano. Marisol lo apagó sin mirarlo, lo hundió en el fondo de su mochila junto con el suyo y subió la ventanilla como si con eso cerrara el tema.
 
-—Ya está —dijo—. Ahora eres una persona normal dos días. A ver si sobrevives.
+—Ya está —dijo—. Ahora eres una persona normal dos días. A ver si sobrevives. Y si alguien te busca, que le conteste ese buzón tuyo que ni mensaje tiene.
+
+—El que me llama sabe a quién llama.
 
 ***
 
@@ -113,13 +116,13 @@ La tienda le llevó tres intentos. La primera vez quedó torcida y la desarmó. 
 
 —Así se pone bien.
 
-—Así la ponía él —repitió, sin discutir, solo dejándolo dicho.
+—Así la ponía él —repitió.
 
 Kal probó un viento con el pie y no contestó.
 
 ***
 
-El arroyo, flaco de agosto, tenía un tramo de piedras planas que Marisol reconoció antes que Kal.
+El arroyo tenía un tramo de piedras planas que Marisol reconoció antes que Kal.
 
 —Aquí competíamos —dijo, ya agachándose a buscar una piedra del tamaño correcto—. Papá ganaba casi siempre. Yo gané dos veces en mi vida, y las dos veces él dijo que había tenido el sol en contra.
 
@@ -127,7 +130,7 @@ El arroyo, flaco de agosto, tenía un tramo de piedras planas que Marisol recono
 
 —Ahora te toca perder a ti.
 
-No perdió por cortesía. Perdió porque Marisol tiraba con una muñeca que Kal no recordaba haberle enseñado y que evidentemente no necesitaba que nadie le enseñara. La piedra de ella rebotó seis veces contra las cuatro de la mejor tirada de él, y Marisol levantó los brazos como si acabara de ganar algo de verdad.
+No perdió por cortesía. Perdió porque Marisol tiraba con una muñeca que Kal no recordaba haberle enseñado. La piedra de ella rebotó seis veces contra las cuatro de la mejor tirada de él, y Marisol levantó los brazos como si acabara de ganar algo de verdad.
 
 —Seis, Kal. Seis.
 
@@ -173,17 +176,7 @@ Marisol se rió con la boca llena, como se reía de niña, y Kal registró que h
 
 ***
 
-Llovió de madrugada, poco, del tipo de lluvia que suena mucho en la lona y moja nada. Kal se despertó dos veces a comprobar que los vientos aguantaran. Aguantaban. Marisol no se despertó ninguna.
-
 Por la mañana caminaron arroyo arriba. Kal iba delante por costumbre hasta que Marisol lo pasó en una bifurcación y agarró la que él no habría agarrado.
-
-—Es por aquí.
-
-—Por ahí se sube.
-
-—Ya sé que se sube. Arriba hay un prado con lupinos y quiero ver si todavía quedan. Papá me traía aquí en esta época, cuando salían.
-
-Kal no dijo nada. Subió detrás de ella.
 
 —¿Cómo va lo de derecho?
 
@@ -207,7 +200,7 @@ Marisol se rió, corta y sin malicia.
 
 —Tengo fe.
 
-—Guárdala para cuando de verdad la necesites. —Le señaló, sin frenar, una mata baja al borde del camino—. Esa la trajo alguien de un jardín y ahora no la para nadie. Se come a las de aquí. Tu barrio tiene lo mismo, pero con gente.
+—Guárdala para cuando de verdad la necesites.
 
 —¿Qué es lo más raro que te han enseñado hasta ahora? —preguntó Kal, más para cambiar de tema que otra cosa.
 
@@ -223,8 +216,6 @@ Kal guardó eso en algún lugar sin decir para qué, con la misma costumbre con 
 
 La luz de la mañana le aclaró los ojos hasta volverlos casi ámbar. Las pecas le cruzaban la nariz y se le perdían hacia los pómulos.
 
-Kal subió detrás de ella pensando en eso más de lo que esperaba.
-
 ***
 
 Volvieron al campamento pasado el mediodía, con hambre y las piernas cansadas del desnivel. Kal armó sándwiches en la mesa plegable mientras Marisol se sentaba a limpiarse las botas de barro seco.
@@ -233,7 +224,7 @@ Volvieron al campamento pasado el mediodía, con hambre y las piernas cansadas d
 
 Kal le pasó un sándwich sin comentar cómo se había enterado. Con Héctor, esas cosas viajaban solas.
 
-—Chiara la diseñó —dijo, al final—. Doble altura, un mezzanine, cocina que sí funciona.
+—Quedó bien —dijo, al final—. Doble altura, un mezzanine, cocina que sí funciona.
 
 —¿Puedo verla alguna vez?
 
@@ -245,7 +236,7 @@ Kal le pasó un sándwich sin comentar cómo se había enterado. Con Héctor, es
 
 Marisol masticó un momento, mirando el arroyo.
 
-—Es raro pensar en esa casa con gente adentro otra vez. —Lo dijo sin darle peso de más, como quien deja caer algo que lleva un rato cargando—. Papá decía que ustedes dos, tú y Héctor, eran los únicos del barrio que todavía se acordaban de cómo era antes de que se pusiera fea.
+—Es raro pensar en esa casa con gente adentro otra vez. —Lo dijo sin darle peso de más—. Papá decía que ustedes dos, tú y Héctor, eran los únicos del barrio que todavía se acordaban de cómo era antes de que se pusiera fea.
 
 —La memoria no es tan generosa como la hace sonar tu papá.
 
@@ -261,11 +252,9 @@ Kal no contestó enseguida. Miró el fuego apagado de esa mañana, todavía hume
 
 Marisol no dijo nada. Se acercó lo suficiente para apoyar el hombro contra el de él, sin abrazo, sin declaración, el tipo de contacto que Kal sabía recibir sin ponerse rígido.
 
-Se quedaron así un rato, comiendo despacio, sin apuro por llenar el silencio con nada más.
-
 ***
 
-Esa noche, con el fuego ya bajo y la segunda tanda de alubias mejor cuidada que la primera, Kal se quemó los dedos moviendo un leño y siseó algo por lo bajo, una sola palabra, rápida, que no era en español ni en inglés.
+Esa noche, con el fuego ya bajo, Kal se quemó los dedos moviendo un leño y siseó algo por lo bajo, una sola palabra, rápida, que no era en español ni en inglés.
 
 Marisol levantó la cabeza de golpe.
 
@@ -315,7 +304,7 @@ Kal movió una brasa con un palo.
 
 —No dije que fuera mala. —Lo miró por encima del fuego—. Dije que la nombras como no se nombra a una amiga.
 
-Kal no contestó. Marisol lo dejó estar un rato, porque conocía el límite y sabía que empujarlo no daba nada.
+Kal no contestó. Marisol lo dejó estar un rato.
 
 —¿Ella sabe cómo eres cuando no estás trabajando? —preguntó al final, más bajo, ya sin burla.
 
@@ -368,5 +357,3 @@ Se fue hacia el edificio sin mirar atrás, con la chaqueta de Michael que le que
 Estuvo de buen humor todo el camino. Puso música. Pensó en el imán, que iba en la guantera envuelto en una servilleta para que no se rayara, y en que iba a tener que aguantar que Chiara le preguntara de dónde había salido.
 
 Sacó el teléfono de la guantera —Marisol se lo había devuelto al bajar— y lo dejó apagado sobre el asiento. La regla no terminaba hasta que cruzara su propia puerta, y Kal no era de los que se saltaban sus propias reglas a la primera oportunidad.
-
-No tenía manera de saber que, mientras él pensaba en imanes feos y en cómo Chiara iba a levantar una ceja al verlo, la ciudad llevaba dos días encima de una fila de teléfonos que nadie contestaba.

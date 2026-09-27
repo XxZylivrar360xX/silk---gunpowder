@@ -41,7 +41,9 @@ Lo que opera hoy:
 - Se une al final del armado del núcleo.
 - Su llegada consolida a Kal como proveedor principal para bandas por calidad y pureza del producto.
 
-> **PENDIENTE:** de dónde viene, para quién cocinaba antes y por qué decide entrar con Kal.
+> **CANON DEL AUTOR (2026-09-26):** Ren Wei fabricó el cargamento de cocaína que Kal escolta para [[02_Characters/Dario_Varek]] en su primera incursión como activo de campo (Libro II, entre F4 y el incendio). Al cobrar y notar la cantidad, Kal lo pone en su radar: Ren opera como **proveedor independiente**, no como cocinero de Dario. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]].
+>
+> **PENDIENTE:** de dónde viene, cuándo pasa de radar a integración y por qué decide entrar con Kal.
 
 ---
 

@@ -104,7 +104,7 @@ No lo dijo en voz alta. No hacía falta.
 
 Bajó la mano.
 
-Se quedó unos segundos más frente a la puerta. Después dio media vuelta y caminó de regreso al elevador con el mismo paso con el que había llegado, ni más rápido ni más lento, como si esa parte del día ya hubiera terminado.
+Se quedó unos segundos más frente a la puerta. Movió los labios una vez, sin sonido, en el acento malo de siempre. Después dio media vuelta y caminó de regreso al elevador con el mismo paso con el que había llegado, ni más rápido ni más lento, como si esa parte del día ya hubiera terminado.
 
 No dejó ningún recado en recepción. No le escribió. No llamó.
 

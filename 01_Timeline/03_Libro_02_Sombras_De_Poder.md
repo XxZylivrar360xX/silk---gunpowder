@@ -113,7 +113,7 @@ que siempre fueron.
 **Esa misma tarde**, la policía llama a Chiara: *¿conoce al señor Tommaso Lusardi?* — su
 asesinato (ejecutado por Nereo Volpi, composición que evoca a Raymond Keene) se desplaza aquí.
 El libro abre cobrando casi todas las sillas de Chiara de un solo jalón; después arranca la
-organización de Kal (**Ren Wei** entra en un capítulo posterior, umbral de categoría: paso de
+organización de Kal (**Ren Wei** entra en un capítulo posterior — **canon 2026-09-26:** Kal lo detecta al cobrar la escolta de cocaína para Dario, entre F4 y el incendio — umbral de categoría: paso de
 favores/logística a participación consciente en un mercado de cocaína — rompe cualquier
 lectura de Kal como "criminal bueno").
 
@@ -148,7 +148,15 @@ exige que ese uso cotidiano siga presente.
 - **Componente Villa:** se separa temporalmente; reconstrucción en Parte II, después del día
   Mei-Lin/Riley. H8 conserva su ID y título de referencia, pero ya no es un bloque continuo.
 
-El collar y la caja de acero sobreviven según H8; no salvan el hogar.
+El collar y la caja de acero sobreviven según H8; no salvan el hogar. **El piano de pared** (regalo de Kal por Año Nuevo) también sobrevive, porque lo entregaron por error en el penthouse y no en el loft (CANON DEL AUTOR, 2026-09-26).
+
+### Año Nuevo / F4 — CANON DEL AUTOR (2026-09-26)
+
+**F4 ocurre entre Navidad y el incendio**; el loft arde días después. Noche **separada**: Kal en Washington pagando la deuda con [[02_Characters/Anya_Voronina]] (pretexto: programa de apoyo a veteranos, muchos exsubordinados de Halbrook; Kal sólo la ayuda con el trabajo); Chiara en la fiesta de fin de año del Monarch, ebria y sola en el penthouse. Kal vuelve esa misma noche en auto, con el collar en la mano; no llega a tiempo para su cumpleaños. Llegan distanciados desde Bellandi Ridge (Nueva York; ella nunca sube al avión). 31: Chiara baila y bebe sola. 1: películas y depresión. 2: la cruda moral y el piano en el penthouse. Kal llega la noche del 2 (21:00–23:00) y la encuentra sin glamour: la primera vez en la saga. Ver [[06_Relationships/Momentos_de_Fractura#F4 - Año Nuevo en Washington]].
+
+Anya sabe del patrón Halbrook y lo usa como gancho para que Kal acepte (canon 2026-09-26).
+
+**La primera incursión de Kal como activo de campo de [[02_Characters/Dario_Varek]] — CANON DEL AUTOR (2026-09-26).** Entre F4 y el incendio. Kal escolta **toneladas de cocaína** desde el norte hasta el puerto marítimo para sacarlas. El peligro: un **grupo rival sabe del cargamento y lo está buscando**. Termina en una persecución: para perder a la policía se tiran **con el coche a la bahía**, nadan hasta el otro extremo de la bahía y se esconden **por separado** en la zona industrial: **Kal, [[02_Characters/Nadir_Amrani]], [[02_Characters/Harper_Walker]] y Danny**. **Cuando Kal vuelve, le cuenta a Chiara lo que pasó y el peligro que corrió.** Ésa es la conversación que empieza a reparar después de F4 y de ahí nace la vela. **Ren Wei fabricó el cargamento:** al cobrar y ver la cantidad, Kal pone a [[02_Characters/Ren_Wei]] en su radar, porque opera como **proveedor independiente**, no como cocinero de Dario (canon 2026-09-26).
 
 ### Condición de salida — Parte I
 
@@ -172,8 +180,10 @@ futuro.
 
 ### Apertura: Año Nuevo / F4
 
-**F4 abre esta Parte, después del incendio.** Es el 1 de enero, cumpleaños de Kal. Kal y
-Chiara pasan el cambio de año **solos, juntos y desplazados**; todavía no han construido Villa
+> **SUPERSEDIDO (CANON DEL AUTOR, 2026-09-26):** F4 ya no abre esta Parte; ocurre antes del incendio, con la noche separada. Ver "Año Nuevo / F4" en la Parte I. **Nueva apertura (canon 2026-09-26):** el día después del incendio, Kal y Chiara sin casa, entre las cenizas. Texto anterior:
+
+~~**F4 abre esta Parte, después del incendio.**~~ Es el 1 de enero, cumpleaños de Kal. ~~Kal y
+Chiara pasan el cambio de año **solos, juntos y desplazados**;~~ todavía no han construido Villa
 Candelaria. El primer exilio es haber perdido la casa que hicieron suya. Por un momento, hogar
 son solamente ellos dos.
 
@@ -247,7 +257,7 @@ Parte.
 
 ### Noruega / Stavanger y el anillo
 
-La propuesta ocurre en **Noruega / Stavanger**. **La sobrecompensación crea el espacio; la
+La propuesta ocurre en **Noruega / Stavanger**. **CANON DEL AUTOR (2026-09-26):** la escena de la línea de Anya ("Llegará el día…" / "¿Y ahora qué piensas?" / "Ya llegó.") ya no es un día de campo: ocurre en **Noruega**. Es la misma escena que la propuesta (canon 2026-09-26). **La sobrecompensación crea el espacio; la
 propuesta nace de claridad, no de culpa.** Kal quiere seguir eligiendo a Chiara y construir
 futuro con ella. No propone convertirla en Mercer ni absorber su identidad.
 
@@ -310,11 +320,13 @@ extensa. Fin del Libro II, antes del nacimiento de Elenna y antes de la guerra a
 ## Orden macro vigente de esta Parte — CANON DEL AUTOR, 2026-09-20 (renumerado 2026-09-22)
 
 - **I / NIEVE Y CENIZA:** apertura = luz + *Ciao, bella* + reconciliación completa + desayuno →
-  **asesinato de Tommaso esa tarde** → organización de Kal / Ren Wei → misterio / costo
+  **asesinato de Tommaso esa tarde** → organización de Kal → misterio / costo
   Halbrook → consecuencias de Camp Alder → crecimiento y presión → Navidad / collar / Torna a
-  casa → último tramo del loft como hogar → amenaza/incidente de H8 → **incendio del loft →
-  FIN**.
-- **II / EXILIO:** **Año Nuevo / F4**, Kal y Chiara solos → F3 (distancia precisa pendiente) →
+  casa → **Año Nuevo / F4, separados (Washington / Monarch); piano** [canon 2026-09-26] →
+  **primera incursión de Kal para Dario (cocaína norte → puerto, rival, bahía); se lo cuenta a
+  Chiara; nace la vela; Ren Wei entra al radar de Kal** [canon 2026-09-26] → último tramo del loft como hogar → amenaza/incidente de H8 → **incendio del loft, días
+  después → FIN**.
+- **II / EXILIO:** **el día después del incendio: sin casa, entre las cenizas** [canon 2026-09-26] → ~~Año Nuevo / F4~~ [movido a I] → F3 (distancia precisa pendiente) →
   organización y consecuencias → descubrimiento de Mei-Lin → **mismo día: ejecución de Mei-Lin
   por Nadir + destierro de Riley** → consecuencias en Kal / Chiara / Nadir / El Patio →
   reconstrucción / **Villa Candelaria** → nuevas memorias → **Noruega / Stavanger / anillo** →
@@ -330,7 +342,7 @@ extensa. Fin del Libro II, antes del nacimiento de Elenna y antes de la guerra a
 |---|---|
 | Loft (Libro I) | Hogar descubierto casi accidentalmente. |
 | Incendio | Incluso el hogar puede desaparecer. |
-| Año Nuevo | Por un momento, hogar son solamente ellos dos. |
+| Año Nuevo (antes del incendio) | Separados: Kal elige volver; el piano se salva del fuego. *(Brújula anterior "hogar son solamente ellos dos" SUPERSEDIDA 2026-09-26.)* |
 | Mei-Lin / Riley | La familia elegida también puede reducirse. |
 | Villa Candelaria | Hogar reconstruido deliberadamente. |
 | Stavanger / anillo | Futuro elegido. |
@@ -356,7 +368,7 @@ nacimiento de Elenna, antes de la Guerra de los Tres abierta, con Halbrook reci�
 
 - Mecanismo del incendio del loft y contenido exacto de la amenaza de Crowe; cobro posterior
   de la mentira de la fuga de gas.
-- Encaje logístico de Washington/Anya con F4 (Kal y Chiara juntos esa noche).
+- ~~Encaje logístico de Washington/Anya con F4~~ RESUELTO 2026-09-26 (separados). Resuelto también: Anya sabe del patrón Halbrook; la conversación reparadora y la vela salen de la incursión para Dario. Parte II abre el día después del incendio; Ren Wei fabricó el cargamento. Pendiente: hora de llegada de Kal; cuándo pasa Ren de radar a integración.
 - Distancia fina F4 → F3 → F2.
 - Conflicto propio de Riley; frecuencia y nivel de daño de la filtración de Mei-Lin.
 - Logística de adquisición/obra de Villa Candelaria.

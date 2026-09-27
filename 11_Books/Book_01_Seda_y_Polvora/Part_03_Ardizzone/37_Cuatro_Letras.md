@@ -1,7 +1,7 @@
 <!--
 Estado: BORRADOR — Parte III — Ardizzone, tercer capítulo (Cap. 37 del manuscrito). Redactado 2026-09-20, Claude Code, encargo detallado del autor. Título de trabajo — PROVISIONAL, no autorizado como definitivo (ver regla de título en el encargo); el autor lo aprobó como buen candidato ("Cuatro letras" — funciona hoy como Roma, y retrospectivamente como amor), sigue sin fijarse formal. Segunda pasada (correcciones del autor, misma fecha): apertura menos lírica para el registro de Kal; flashback de Roma Atrii recortado a lo mínimo; línea de Nadir bajada de "negocia grúas, armas y bandas enteras" a "arregla grúas, favores y problemas de media ciudad" — Kal todavía no llega a ese nivel de ascenso tras H16; "media Almendra tiene invitación" bajado a "varios de los nuestros"; Héctor ya no ancla el capítulo al día siguiente exacto de Stella (queda "todavía rígido por la persecución"); cortado el guiño metanarrativo de que Danny "pasó más cerca" de resolverlo; corregido "dobló la carta por la misma línea de siempre" a "otra vez por el mismo pliegue" (es la primera vez que Kal la dobla). Cedar Flats confirmado como ubicación ya existente en el canon geográfico (ver [[05_Locations/Mapa_Operativo_de_San_Aurelio]], ya asociada a "El Patio en expansión"), no inventada para este capítulo. Tercera pasada (correcciones del autor, misma fecha): la certeza de Kal sobre que su carta era única se movió de la apertura (antes de ver las invitaciones ajenas) a una sospecha, confirmada después en la escena de Nadir; "una pila de sobres" bajado a "varios sobres" para no implicar que Chiara centralizó el envío de todo el Patio; cortada la repetición "guardó otra vez" al cierre.
 Protagonista: Kal Mercer (POV único). Chiara Bellandi no aparece físicamente — sólo en la carta, el recuerdo del Cap. 12 y el pensamiento de Kal.
-Personajes en escena: Nadir Amrani, Héctor Navarro, Walter Keegan, Daniel "Danny" Hayes, Riley Bennett, Mei-Lin Zhao (parche 2026-09-21, ver abajo).
+Personajes en escena: Nadir Amrani, Héctor Navarro, Walter Keegan, Daniel "Danny" Hayes, Riley Bennett, Mei-Lin Zhao (parche 2026-09-21, ver abajo), el de la ferretería de la esquina (sin nombre, inserción 2026-09-26). Mencionado: Silas Crowe ("el Tasador").
 Ventana temporal: después de H16 (Cap. 36) — el autor fijó explícitamente que la lectura de esta carta ocurre después de la mudanza oficial, no antes. Sin fecha exacta; un solo día, de la mañana a la noche.
 Lugares: loft de La Almendra (apertura); Almendra Towing / El Patio (resto del capítulo); destilería de Walt (una escena breve).
 Función: paga el siguiente tramo del hilo de la invitación del yate — Kal lee la carta cifrada de Chiara, no logra descifrar "Roma", pregunta a su gente sin obtener respuesta, y de fondo el capítulo dramatiza que El Patio empieza a crecer alrededor de él (delega, coordina, recibe consultas que antes no le habrían llegado). La fiesta del yate y la explicación del cifrado quedan para un capítulo posterior, todavía sin escribir.
@@ -17,6 +17,7 @@ Función: paga el siguiente tramo del hilo de la invitación del yate — Kal le
 - **F1 / investigación de Matteo: NO iniciada.** Ninguna mención a la inconsistencia de mensajería, Bellandi Ridge ni Los Tres Días. (Riley aparece, pero sin ninguna función de investigación — ver parche.)
 - **Parche quirúrgico (2026-09-21, Claude Opus 5, encargo del autor sobre [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]):** beat nuevo (~410 palabras) entre el tramo de delegación de la mañana y Héctor al mediodía. **Primera aparición en prosa de Riley Bennett y Mei-Lin Zhao**, presentadas como el par que llegó junto "de una banda del norte que ya no existía" (una frase; sin explicar la banda). Riley: diagnostica una avería que el gruero leyó mal (bomba, no batería), mueve el coche en una maniobra y lo estaciona de frente a la salida — Kal la registra como alguien de autos y calle; nada de protegida. Mei-Lin: responde una pregunta práctica sobre la carrera del norte (patrulla en Milla desde las once; acceso de carga) — entra en el radar de Kal como alguien que conoce rutas y horarios del norte. **Nada de Tommaso, Dario, informantes ni futuro.** Riley entra en el patrón cómico de "Roma" ("Si es un coche, no lo conozco. Si es una carrera, tampoco. […] Lo más cerca que tengo es Alfa Romeo, y no es."); el cifrado sigue sin resolverse y el cierre no cambió.
 - **Ren Wei: NO introducido.** El crecimiento de El Patio se muestra en escala de barrio y coordinación creciente, no en salto a mercado de cocaína.
+- **Inserciones BORRADOR (2026-09-26, Claude Code, decisión del autor sobre la quinta tanda de [[13_Auditorias/Book_01_Seda_y_Polvora/Evaluacion_Arco_Libro_I]]).** La apertura (Kal + invitación) no se tocó. (1) **Crowe**, en las consultas de la mañana, después del mensaje de Tyler: el de la ferretería de la esquina (sin nombre ni ficha) cuenta que el Tasador le subió la cuota "por la competencia" y pregunta si la competencia es Kal; Kal sólo anota el día de cobro. Es la "cuota nueva" de [[02_Characters/Silas_Crowe]] que el incendio escala; segunda siembra tras el Cap. 32. (2) **Línea de la cocaína**, al abrir la escena de Danny: un tipo de fuera pide coca para vender en el barrio; Kal: "La muevo; no la vendo. Y en la Almendra, nunca." Opción (a): respeta H16 (entrega de cocaína con Héctor) y traza la línea que Ren Wei rompe en el Libro II. Escala de barrio: Ren Wei sigue sin introducirse. Pendiente de revisión del autor.
 - H16 ya asentado: Chiara vive en el loft sin que se reabra la pregunta de la mudanza; sus objetos (cafetera programada, algo suyo en el baño, etc.) aparecen como parte normal del espacio, sin sorpresa de Kal.
 - Héctor: una sola línea de continuidad post-Stella (rigidez, cansancio leve), sin reabrir el susto cardíaco ni medicalizarlo.
 - Walt: segunda vez que Kal le pregunta algo sobre Chiara que él tampoco sabe responder (la primera fue la Romanée-Conti en el Cap. 36) — patrón cómico reconocido por el propio Walt, sin alargarlo más de una escena.
@@ -120,6 +121,16 @@ Se quedó mirando a Kal un segundo más de lo que hacía falta para cerrar el te
 
 El resto de la mañana se le fue en cosas que, un año atrás, no le habrían llegado a él directamente. Un contacto nuevo de Cedar Flats, alguien que ninguno de los suyos conocía todavía, llamó preguntando por "el hombre de la Almendra que arregla lo que nadie más quiere tocar" —así, sin nombre— y Kal dejó que fuera Danny quien devolviera la llamada, con las preguntas correctas ya anotadas en un papel. Tyler mandó un mensaje corto sobre la próxima carrera cerca de Kingsley Field, pidiendo sólo confirmación de fecha; Kal contestó con dos palabras y siguió con lo suyo.
 
+A media mañana entró el de la ferretería de la esquina, con la gorra en la mano.
+
+—El Tasador me subió la cuota este mes. —Le dio una vuelta a la gorra—. Dice que es por la competencia. Quería preguntarle si la competencia es usted.
+
+—Yo no cobro cuotas.
+
+—Eso le dije. Me la subió igual.
+
+Kal le preguntó qué día pasaban a cobrar y lo anotó. Nada más.
+
 En la bahía del fondo, la que Danny todavía no había llegado a tocar, había un sedán gris que la grúa había traído al amanecer y una chica con medio cuerpo bajo el cofre.
 
 Riley. Había llegado hacía poco con Mei-Lin, las dos de una banda del norte que ya no existía; Kal no había preguntado más y ninguna de las dos había ofrecido más. Desde entonces aparecían temprano, hacían lo que había, y se iban sin que hiciera falta decirles a qué hora.
@@ -214,9 +225,21 @@ Kal no sonrió del todo, pero algo cerca.
 
 ---
 
-Le preguntó a Danny cerca del final de la tarde, los dos apoyados contra el mismo camión mientras él se limpiaba el aceite de las manos.
+Danny habló primero, cerca del final de la tarde, los dos apoyados contra el mismo camión mientras él se limpiaba el aceite de las manos.
 
-—¿Roma? —repitió—. ¿Como en Italia, o como la lucha? Porque hay una llave que se llama así. Grecorromana.
+—Vino un tipo a mediodía. No era de aquí. —Se frotó un nudillo con el trapo—. Preguntó si le podíamos conseguir coca. Para venderla aquí, en el barrio.
+
+—¿Qué le dijiste?
+
+—Que te preguntara a ti. ¿Qué le digo si vuelve?
+
+—La muevo; no la vendo. Y en la Almendra, nunca.
+
+Danny asintió una vez y siguió con el trapo.
+
+Kal le preguntó lo otro.
+
+—¿Roma? —repitió Danny—. ¿Como en Italia, o como la lucha? Porque hay una llave que se llama así. Grecorromana.
 
 —No es una llave.
 

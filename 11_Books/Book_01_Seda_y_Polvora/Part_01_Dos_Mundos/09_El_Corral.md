@@ -2,14 +2,14 @@
 Estado: TERMINADO
 Protagonistas: Chiara Bellandi, Kal Mercer, con apariciones de Dario Varek, Nadir Amrani, Hector Navarro y personal del hospital.
 Ventana temporal: dias despues del Capitulo 8 (la carrera de mascaras). Todavia no hay primer beso. Cierra con el traslado nocturno a la casa comun.
-Apertura recosida el 2026-08-29 (encargo PROMPT_CLAUDE_H9): el residuo ya no es "desde la noche del ladrillo Chiara empezo a evitar a Kal", sino carrera de mascaras -> se divirtio demasiado facil -> retrocede unos dias (no por arrepentimiento, por lo contrario) -> el calendario emocional (aniversario de Marta, homenaje de Alessio) la golpea -> termina queriendo oir la voz de Kal -> telefono en la mano con su nombre en pantalla -> el golpe. El cuerpo del capitulo, intacto. Microedicion 2026-08-29 (ENCARGO_CLAUDE_MICROEDICION): se podo la recapitulacion concreta de H9 (Peugeot, tienda, Kingsley, motor, antifaz) — la apertura arranca ya desde el residuo emocional, no desde el resumen del capitulo anterior. Microedicion 2026-08-29 (ENCARGO_CLAUDE_TENSION_HOSPITAL): el golpe deja de ser "conmocion, dos o tres dias de observacion" y pasa a ser un hematoma que requiere cirugia de urgencia (craniotomia descompresiva) para estabilizar la hemorragia. Se introduce a Beatrice Varek como la neurocirujana que opera -- primera aparicion en prosa, adelantada desde su funcion original en el atentado futuro de la iglesia. Establece "tres dias para ver como evoluciona" como el reloj del resto del capitulo. La escena del turno de guardia se adelanta a la madrugada de la cirugia (justificada explicitamente por Kal contandoles lo raro del ataque, con ella sedada e indefensa) y la escena de "Chiara despierta" se mueve del "pasada la medianoche" original al tercer dia, ahora con dolor de cabeza real y con Kal insistiendo en que descanse en vez de resolver la coartada de inmediato. Se anade el giro de investigacion: Kal nota que el ataque esta armado con precision quirurgica para parecer accidente, y que la unica grieta es la llamada -- lo que lo deja entre dos conclusiones sin resolver: Dario organizo el ataque, o alguien mas tiene el mismo interes en dañar a Chiara. Microedicion global bloque M2 (2026-09-11, ENCARGO_CLAUDE_M2): tras M1 aprobado, cinco cortes quirurgicos centrados en "confiar en la accion cuando la accion ya hizo el trabajo" -- se quita la certificacion de competencia de Kal tras el rescate en el corral (se conserva la imagen del "uniforme"), se poda la reiteracion de verguenza tras soltar al guardia interrogado, se quita una repeticion casi identica del gesto de Dario "un momento de mas" (se conserva la primera aparicion, que ancla su caracterizacion), se quita el cierre explicativo tras "Pero tampoco me arrepiento" en el parador (el dialogo ya cierra la escena solo) y se poda la certificacion de la creencia de Kal sobre favores familiares (ya demostrada por la accion). Ningun cambio de estructura, informacion, canon o dialogo canon. Detalle completo: [[98_Agent_Handoff/sessions/2026-09-11_claude_c10_microedicion_m2]].
+Apertura recosida el 2026-08-29 (encargo PROMPT_CLAUDE_H9): el residuo ya no es "desde la noche del ladrillo Chiara empezo a evitar a Kal", sino carrera de mascaras -> se divirtio demasiado facil -> retrocede unos dias (no por arrepentimiento, por lo contrario) -> el calendario emocional (aniversario de Marta, homenaje de Alessio) la golpea -> termina queriendo oir la voz de Kal -> telefono en la mano con su nombre en pantalla -> el golpe. El cuerpo del capitulo, intacto. Microedicion 2026-08-29 (ENCARGO_CLAUDE_MICROEDICION): se podo la recapitulacion concreta de H9 (Peugeot, tienda, Kingsley, motor, antifaz) — la apertura arranca ya desde el residuo emocional, no desde el resumen del capitulo anterior. Microedicion 2026-08-29 (ENCARGO_CLAUDE_TENSION_HOSPITAL): el golpe deja de ser "conmocion, dos o tres dias de observacion" y pasa a ser un hematoma que requiere cirugia de urgencia (craniotomia descompresiva) para estabilizar la hemorragia. Se introduce a Beatrice Varek como la neurocirujana que opera -- primera aparicion en prosa, adelantada desde su funcion original en el atentado futuro de la iglesia. Establece "tres dias para ver como evoluciona" como el reloj del resto del capitulo. La escena del turno de guardia se adelanta a la madrugada de la cirugia (justificada explicitamente por Kal contandoles lo raro del ataque, con ella sedada e indefensa) y la escena de "Chiara despierta" se mueve del "pasada la medianoche" original al tercer dia, ahora con dolor de cabeza real y con Kal insistiendo en que descanse en vez de resolver la coartada de inmediato. Se anade el giro de investigacion: Kal nota que el ataque esta armado con precision quirurgica para parecer accidente, y que la unica grieta es la llamada -- lo que lo deja entre dos conclusiones sin resolver: Dario organizo el ataque, o alguien mas tiene el mismo interes en dañar a Chiara. Microedicion global bloque M2 (2026-09-11, ENCARGO_CLAUDE_M2): tras M1 aprobado, cinco cortes quirurgicos centrados en "confiar en la accion cuando la accion ya hizo el trabajo" -- se quita la certificacion de competencia de Kal tras el rescate en el corral (se conserva la imagen del "uniforme"), se poda la reiteracion de verguenza tras soltar al guardia interrogado, se quita una repeticion casi identica del gesto de Dario "un momento de mas" (se conserva la primera aparicion, que ancla su caracterizacion), se quita el cierre explicativo tras "Pero tampoco me arrepiento" en el parador (el dialogo ya cierra la escena solo) y se poda la certificacion de la creencia de Kal sobre favores familiares (ya demostrada por la accion). Ningun cambio de estructura, informacion, canon o dialogo canon. Detalle completo: [[98_Agent_Handoff/sessions/2026-09-11_claude_c10_microedicion_m2]]. Cirugia editorial extraordinaria 2026-09-26 (autorizada por el autor; sigue TERMINADO): cronologia interna corregida (llamada al caer la tarde, Monarch cerrado, Dario se entera pasado el mediodia), el despertar ya no trata la coartada (decision del autor: Chiara llega al alta sin conocer version ni tregua y las lee en vivo frente a Dario; supersede la linea de H12 "Kal la pone al tanto antes de que vuelva a dormirse"), "novio" -> "mecanico" en la grieta de la llamada, la ironia de Beatrice como suposicion de Kal ("como parecia"), poda de glosas, tics, prolepsis y saltos de POV, triple resumen del duelo reducido a uno (Corrado sin cuerpo queda en la apertura como eco del 25), linea canon de Dario "La tregua es por lo que le paso, señor Mercer. No por ella." insertada al salir del cuarto 221 (el 25 la cita), y siembra H12 (DISEÑO): tras la llamada, el primer pensamiento de Kal es que su pasado encontro la direccion y empezo por ella. Detalle: [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_09_El_Corral]] §9.
 Lugares: Hipodromo del Monarch (propiedad del casino), Hospital Santa Aurelia, bahia de carga / tunel este del Monarch, parador de autopista al norte, Casa Comunitaria de La Almendra.
 Funcion: fusiona H12 y el arranque de H5 -- el ataque ocurre en el hipodromo del Monarch, no en Bellandi Ridge. Kal recibe una llamada desde el celular de ella, contestada por un desconocido que tantea su paradero y cuelga sin decir nada util. Buzon de voz al llamarla directo. Entra armado al Monarch (domingo, cerrado), lo recorre vacio, sube al penthouse, tambien vacio, ve las botas de montar y recuerda que ella monta los domingos. Baja al hipodromo (misma propiedad, no hace falta auto), encuentra a Vento suelto, la halla inconsciente junto al corral -- repite su nombre sin respuesta, la sube el mismo al Audi y la lleva al hospital (nunca llama ambulancia -- el conduce, siempre). Aqui se ve al soldado: calma entrenada por fuera, quiebre por dentro. Kal recoge el bolso antes que nadie y se guarda cartera y reloj: un asalto que perdona un reloj asi no se lo cree nadie. Investiga y secuestra sin exito a un sospechoso. Encanonamiento con Dario en el cuarto de hospital -- tregua. Kal omite la llamada, arma coartada. El dia del alta Kal la ayuda a alistarse y llega Dario a interrogarla; Chiara percibe la tregua ya firmada y se sube a la version en marcha. Dos grietas pequeñas -- "corral" vs "caballerizas", y si lo esperaba ese domingo -- que remiendan en vivo con una mentira conjunta pasable pero no creible. Dario anuncia "vigilancia" en el casino (proteccion y vigilancia son la misma palabra en su boca) y manda un hombre a seguir a Kal. Kal se ofrece a llevarla. En el camino Kal detecta un sedan gris siguiendolos: cuadran que ella entre por la bahia de carga (tunel este, bajo el puente del canal, la "salida de evacuacion" del Monarch) y salgan a pie por atras, fuera de la vista del espia. Van al norte, a un parador de autopista; aparcan y reconstruyen los hechos. Chiara estuvo a punto de nombrar el Consorcio y se detiene: solo dice que viejos enemigos o rivales de los socios estan plantando una bandera con el atentado, y que no quiere meter a Kal. Kal: "Yo ya estoy dentro contigo. ¿O como era? El es Kal Mercer, vengan a conocerlo." Chiara: "No. Pero tampoco me arrepiento." Ella pide un motel de paso; Kal se burla ("un motel, dice ella... tu vienes conmigo") y ella se queda con la lectura mas economica, la que le deja decir "solo esta vez". Llegan de madrugada a la casa comun; Kal le da el unico cuarto que no grita de quien es, le da su palabra de que ahi esta segura, ella baja la mirada y el la abraza -- la siente temblar porque entendio que ya no hay punto de retorno: lo que viene tras ella puede alcanzarlo ahora a el, no porque a eso le interese ella sino porque a ella le interesa el. Cierre: los muchachos la dejan quedarse; alguien pregunta por cuanto tiempo y Kal dice "lo necesario, hasta que ya no lo sea" -- se lo gano, porque a la familia no se le cobran favores y el nunca les dijo que no; pueden pelearle, dudar de el no. Nadir cumple como los demas y, como los demas, calla; pero es el unico que al decir que si no la mira a ella. El atacante no se identifica ni se sugiere.
 -->
 
 # Capítulo 9 — El corral
 
-No se lo había dicho a nadie. Ni a Ettore, el único hombre en Palermo al que todavía le escribía cartas de verdad — el amigo de su padre que la había criado en todo menos el nombre después de que se quedó sin ninguno de los dos, y que seguía preguntándole por el casino con la paciencia de quien espera, sin exigirlo nunca, que ella también le cuente algo de sí misma. Ni a Blake, que había dejado de llamar después de la noche del ladrillo, con un silencio que a ella le supo más a alivio que a pérdida. Ni siquiera a sí misma, en voz alta, frente al espejo, donde una frase así habría tenido que sonar de verdad.
+No se lo había dicho a nadie. Ni a Ettore, el único hombre en Palermo al que todavía le escribía cartas de verdad — el amigo de su padre que la había criado en todo menos el nombre después de que se quedó sin ninguno de los dos. Ni a Blake, que había dejado de llamar después de la noche del ladrillo, con un silencio que a ella le supo más a alivio que a pérdida. Ni siquiera a sí misma, en voz alta, frente al espejo, donde una frase así habría tenido que sonar de verdad.
 
 Pero lo sabía. Desde la noche del ladrillo lo sabía, con la misma certeza tranquila con la que sabía leer un balance o una mentira: había encontrado los ojos correctos, y no tenía ni la más remota idea de qué hacer con eso.
 
@@ -17,11 +17,13 @@ Lo que hizo, primero, fue lo contrario de huir: cuando Kal le preguntó una noch
 
 Así que retrocedió. No porque se arrepintiera; precisamente porque no se arrepentía en absoluto, y eso la inquietaba más que cualquier error. Unos días estuvo demasiado correcta: dejó que los mensajes se acumularan un día de más antes de contestarlos, que las llamadas se acortaran solas, que las excusas de trabajo llegaran justo a tiempo para no quedarse a solas con él en ningún cuarto.
 
-Esa semana la distancia le costó más caro de lo que había calculado, porque coincidió con una fecha que llevaba marcada en el cuerpo desde los diecinueve años, sin que nadie en San Aurelio lo supiera: el aniversario de la muerte de su madre. El corazón de Marta había fallado sin avisar demasiado, de esa manera silenciosa y traicionera en que fallan los corazones que nadie está vigilando. En Palermo esos días se sentían distinto — había una tumba a la que ir, una misa donde llorar sin tener que explicar por qué, gente que entendía el silencio sin preguntarlo. Aquí no había nada de eso. Ni siquiera había un padre enterrado junto a esa tumba: de Corrado nunca hubo un cuerpo que descansara junto a Marta, y ésa era otra cuenta que Chiara pagaba sola, todos los años, sin que nadie supiera que la estaba pagando.
+Esa semana la distancia le costó más caro de lo que había calculado, porque coincidió con una fecha que llevaba marcada en el cuerpo desde los diecinueve años, sin que nadie en San Aurelio lo supiera: el aniversario de la muerte de su madre. El corazón de Marta había fallado sin avisar demasiado, de esa manera silenciosa y traicionera en que fallan los corazones que nadie está vigilando. En Palermo esos días se sentían distinto — había una tumba a la que ir, una misa donde llorar sin tener que explicar por qué, gente que entendía el silencio sin preguntarlo. Aquí había sólo la misa. Fue a la de siete, sola, a una parroquia donde nadie la conocía; se sentó en la última banca y no le pidió nada a Dios, como no le pedía nada nunca. Iba para estar cerca de su madre. Y, ya ahí, de Él. No lloró: llorar ahí habría sido explicarse. Tampoco en Palermo había un padre enterrado junto a aquella tumba: de Corrado nunca hubo un cuerpo que descansara junto a Marta, y ésa era otra cuenta que Chiara pagaba sola, todos los años, sin que nadie supiera que la estaba pagando.
 
 Y como si el calendario quisiera demostrar algo, esa misma semana Tommaso escribió avisando que organizaba una pequeña ceremonia por el aniversario de Alessio. Necesitaba una lista de invitados. Necesitaba que ella confirmara una fecha.
 
-Fue el colmo. No porque Alessio todavía doliera de la forma en que duele extrañar a alguien — sino porque sentarse a planear un homenaje para el hombre que más daño le había hecho en la vida, un infierno que vivió en Roma y que el mundo entero decidió no escuchar, mientras cargaba en silencio el aniversario de su madre y el padre que no tenía dónde visitar, mientras se obligaba a guardar distancia con el único hombre con el que en meses había querido ser sincera de verdad, era más de lo que un fin de semana en San Aurelio podía sostener.
+Fue el colmo. No porque Alessio todavía doliera de la forma en que duele extrañar a alguien — sino porque sentarse a planear un homenaje para el hombre que más daño le había hecho en la vida, un infierno que vivió en Roma y que el mundo entero decidió no escuchar, mientras se obligaba a guardar distancia con el único hombre con el que en meses había querido ser sincera de verdad, era más de lo que un fin de semana en San Aurelio podía sostener.
+
+Alessio también había hablado de Dios, una vez, con la voz de un sacerdote que repite algo aprendido de memoria. *Questo è un mandato divino. Dio lo sa. E anch'io.* Ella siguió yendo a misa. Eso no iba a quitárselo también.
 
 Por eso, ese domingo, en vez de contestar cualquier mensaje, bajó sola al hipódromo del Monarch. Necesitaba tierra, no gente — y ahí, entre las caballerizas que administraba pero que nunca sentía completamente suyas, al menos tenía a Vento.
 
@@ -31,7 +33,7 @@ El hipódromo olía a paja y a cuero, con la tarde de domingo tan vacía como s�
 
 Volvió a las caballerizas cuando ya casi no había luz. Desensilló a Vento, lo cepilló más rato del necesario, y salió al corral a cerrar el portón de madera antes de subir de vuelta al penthouse.
 
-Cerró el portón con las dos manos y se quedó un momento apoyada en él, dejando que el cansancio del cuerpo tapara, por un rato, el otro cansancio. El día había sido gris por dentro aunque el cielo no lo pareciera — un padre sin tumba, una madre sin nadie a quien nombrarle el aniversario, un homenaje ajeno que no podía rechazar sin explicar por qué. Después de un día así, lo único que quería era oír la voz de alguien que no le pidiera editarse antes de hablar.
+Cerró el portón con las dos manos y se quedó un momento apoyada en él, dejando que el cansancio del cuerpo tapara, por un rato, el otro cansancio. Después de un día así, lo único que quería era oír la voz de alguien que no le pidiera editarse antes de hablar.
 
 Sacó el teléfono del bolsillo, ya decidida, buscando su nombre en la pantalla.
 
@@ -41,7 +43,7 @@ No hubo forcejeo. No hubo un segundo golpe, ni una voz, ni un olor que después 
 
 ***
 
-El teléfono de Kal vibró sobre el banco de trabajo a media tarde, mientras enderezaba un guardabarros que llevaba días torcido. **Chiara**, decía la pantalla.
+El teléfono de Kal vibró sobre el banco de trabajo al caer la tarde, mientras enderezaba un guardabarros que llevaba días torcido. **Chiara**, decía la pantalla.
 
 Contestó con la llave inglesa todavía en la mano.
 
@@ -67,17 +69,19 @@ Kal se quedó con el teléfono pegado a la oreja un segundo de más, oyendo el s
 
 Buzón de voz. Al primer tono, sin que llegara a sonar completo.
 
+*¿Es usted el mecánico?* No había preguntado por ella. Había preguntado por él. Lo primero que pensó Kal, antes que en Dario o en cualquier otro, fue que su pasado había encontrado por fin la dirección, y que había empezado por ella.
+
 ***
 
 Dejó todo en el taller — el guardabarros a medio enderezar, la llave inglesa sobre el banco, la radio todavía encendida — y sacó del cajón del fondo lo único que guardaba ahí para ocasiones que prefería no tener que explicar.
 
-Era domingo. El Monarch estaba cerrado hasta la tarde, la cadena puesta en las puertas principales, el estacionamiento vacío salvo por dos camionetas de mantenimiento. Kal tenía llave de la entrada de servicio — de los tiempos en que Chiara dejó de anunciarle las visitas — y entró por ahí, el arma baja y el paso corto de quien ha hecho esto antes en un lugar donde no debería tener que volver a hacerlo.
+Era domingo. El Monarch estaba cerrado, la cadena puesta en las puertas principales, el estacionamiento vacío salvo por dos camionetas de mantenimiento. Kal tenía llave de la entrada de servicio — de los tiempos en que Chiara dejó de anunciarle las visitas — y entró por ahí, el arma baja y el paso corto de quien ha hecho esto antes en un lugar donde no debería tener que volver a hacerlo.
 
-Recorrió el casino entero. El piso de juego, oscuro y en silencio, con las mesas cubiertas. Los pasillos administrativos. La cocina, las oficinas, hasta el cuarto de seguridad, vacío también, con los monitores parpadeando sobre nada. No encontró a nadie. No encontró rastro de ella.
+Recorrió el casino entero: el piso de juego, oscuro, con las mesas cubiertas; el cuarto de seguridad, vacío también, con los monitores parpadeando sobre nada. No encontró a nadie. No encontró rastro de ella.
 
 Subió al penthouse por el elevador de servicio, el único que no necesitaba pedir permiso para usar.
 
-También estaba vacío. Recorrió cada cuarto — la cocina, la sala de cine donde habían compartido una canción semanas atrás, el cuarto donde ella dormía cuando ninguno de los dos hablaba de qué eran — sin encontrar nada fuera de lugar, lo cual, de alguna manera, era peor que encontrar algo roto.
+También estaba vacío. Recorrió cada cuarto — la cocina, la sala de cine donde habían compartido una canción semanas atrás, el cuarto donde ella dormía — sin encontrar nada fuera de lugar, lo cual, de alguna manera, era peor que encontrar algo roto.
 
 Fue al salir cuando las vio: las botas de montar de Chiara, junto a la puerta, donde normalmente dejaba los tacones.
 
@@ -109,7 +113,7 @@ Ató a Vento al primer poste que encontró — rápido, sin ceremonia — y se a
 
 Y ahí, con las manos ocupadas en algo útil, la misma calma que lo había mantenido con vida en otro país, en otra vida, se le acomodó encima como un uniforme que todavía le quedaba.
 
-No esperó ninguna sirena. La levantó con el cuidado exacto que la nuca le exigía, la subió al Audi A7 que había dejado con el motor encendido junto a la entrada de carga, y condujo hacia el Santa Aurelia como si las calles de San Aurelio le debieran algo — sujetando el volante con una mano y con la otra buscando, cada pocos segundos, el pulso en su cuello, sin que le temblara nada por fuera.
+No esperó ninguna sirena. La levantó con el cuidado exacto que la nuca le exigía, la subió al Audi A7 que había dejado junto a la entrada de carga, y condujo hacia el Santa Aurelia como si las calles de San Aurelio le debieran algo — sujetando el volante con una mano y con la otra buscando, cada pocos segundos, el pulso en su cuello, sin que le temblara nada por fuera.
 
 Por dentro se estaba partiendo en dos, sosteniendo junto a él, en el asiento del copiloto, a la única persona que en años había logrado importarle así, sin saber todavía si el segundo golpe de esa noche no iba a ser llegar demasiado tarde.
 
@@ -117,13 +121,13 @@ Por dentro se estaba partiendo en dos, sosteniendo junto a él, en el asiento de
 
 En el Santa Aurelia no hubo tiempo para explicaciones largas. Un golpe en la nuca, uno solo, pero lo bastante fuerte para abrir un sangrado dentro del cráneo — un hematoma que la tomografía mostró creciendo en tiempo real, empujando contra algo que no debía empujarse. La palabra que usó la médica de guardia fue *craniotomía descompresiva*, dicha rápido, sin dramatismo, como quien ya la ha dicho demasiadas veces para asustarse con ella.
 
-La cirujana se presentó como **Beatrice Varek** — bata blanca, el apellido cayendo sobre Kal como una moneda que tardó un segundo en reconocer, aunque la cara no se pareciera en nada a la de su padre. Le habló con la calma exacta de alguien acostumbrada a hablarle a hombres que están a punto de perder el control frente a ella.
+La cirujana se presentó como **Beatrice Varek** — bata blanca, el apellido cayendo sobre Kal como una moneda que tardó un segundo en reconocer, aunque la cara no se pareciera en nada a la de su padre. Le habló con la calma de alguien acostumbrada a hablarle a hombres que están a punto de perder el control frente a ella.
 
 —Hay sangrado activo. Vamos a entrar, aliviar la presión y sacar lo que no debería estar ahí. Es una cirugía que hacemos seguido, y la hacemos bien. —Hizo una pausa, midiendo cuánto podía darle de golpe—. Pero no le voy a prometer nada sobre lo que pasa después. Necesitamos, como mínimo, tres días para ver cómo evoluciona. Antes de eso, cualquier cosa que le diga es una adivinanza con bata blanca.
 
-Kal firmó lo que había que firmar sin leerlo del todo, y se quedó con una sola pregunta clavada, que no hizo en voz alta: si la hija de Dario Varek operaba en ese hospital sin saber nada de lo que hacía su padre, qué otra cosa, en esa ciudad, tampoco sabía nadie.
+Kal firmó lo que había que firmar sin leerlo del todo, y se quedó con una sola pregunta clavada, que no hizo en voz alta: si, como parecía, la hija de Dario Varek operaba en ese hospital sin saber nada de lo que hacía su padre, qué otra cosa, en esa ciudad, tampoco sabía nadie.
 
-El bolso lo había levantado Kal del suelo de las caballerizas, antes que nadie. Para cuando una enfermera se sentó a inventariar lo que traía dentro, ya no había ahí nada que valiera la pena llevarse: la cartera y el reloj —que costaba más que la mayoría de los coches del barrio— iban en el bolsillo de su chaqueta, porque un asalto que perdona un reloj así no se lo cree nadie. La única pieza que de verdad faltaba era el teléfono, y ésa no la tenía él.
+El bolso lo había levantado Kal del suelo, junto al portón, antes que nadie. Para cuando una enfermera se sentó a inventariar lo que traía dentro, ya no había ahí nada que valiera la pena llevarse: la cartera y el reloj —que costaba más que la mayoría de los coches del barrio— iban en el bolsillo de su chaqueta, porque un asalto que perdona un reloj así no se lo cree nadie. La única pieza que de verdad faltaba era el teléfono, y ésa no la tenía él.
 
 Ya estaba armando la versión, sin haber decidido del todo armarla.
 
@@ -141,7 +145,7 @@ Se quedó callado un momento, todavía con la mano de ella entre las suyas.
 
 —Chiara.
 
-No dijo nada más. No hacía falta — el nombre solo, dicho así, ya era más de lo que Kal se permitía decir en voz alta casi nunca.
+No dijo nada más.
 
 ***
 
@@ -150,8 +154,6 @@ No podía quedarse sentado. Le pidió a Héctor que llegara a cubrirlo — nadie
 Tenía un nombre, apenas — un guardia de las caballerizas que se había ido temprano ese domingo sin avisar, algo que a cualquier otro le habría parecido nada. Lo encontró, lo metió al asiento trasero de una camioneta prestada, y le hizo las preguntas que hacía cuando de verdad quería una respuesta.
 
 No sacó nada. El hombre no sabía nada, o sabía mentir mejor de lo que Kal esperaba, y después de una hora larga entendió que estaba a punto de hacerle daño a alguien que probablemente no se lo merecía. Lo soltó a dos calles del hipódromo, sin explicaciones, y volvió al hospital con las manos vacías y algo parecido a vergüenza pisándole los talones.
-
-No se lo contó a nadie, ni esa noche ni después.
 
 ***
 
@@ -169,13 +171,13 @@ Kal no preguntó cómo había entrado.
 
 Dario no se movió de donde estaba.
 
-—Curioso. Nadie me avisó del incidente hasta esta mañana, y ya estaba pasado el mediodía. Para cuando llegué, usted ya la había traído, ya había hablado con los médicos, y ya se le había ocurrido interrogar a uno de mis empleados sin mi permiso.
+—Curioso. Nadie me avisó del incidente hasta pasado el mediodía. Para cuando llegué, usted ya la había traído, ya había hablado con los médicos, y ya se le había ocurrido interrogar a uno de mis empleados sin mi permiso.
 
 —No es su empleado. Trabaja para el hipódromo.
 
 —El hipódromo es mío.
 
-El silencio que siguió tuvo el peso exacto de dos hombres midiendo hasta dónde estaba dispuesto a llegar el otro.
+El silencio que siguió tuvo el peso de dos hombres midiendo hasta dónde estaba dispuesto a llegar el otro.
 
 —Voy a preguntarle una vez, con la cortesía que se merece la situación —dijo Dario—. ¿Qué sabe usted de lo que le pasó a Chiara que yo no sé?
 
@@ -193,7 +195,7 @@ Se apuntaron sobre la cama de un hospital, con Chiara sedada entre los dos, sin 
 
 —Y si fue usted quien la puso en peligro con lo que sea que esté metido, **yo** no voy a dejar que salga de esta ciudad.
 
-Ninguno de los dos disparó. Ninguno de los dos bajó el arma tampoco, no de inmediato — se quedaron así, dos hombres midiéndose sobre el cuerpo de la única persona que a ambos, por razones que no compartían, les importaba de verdad.
+Ninguno de los dos disparó. Ninguno de los dos bajó el arma tampoco, no de inmediato.
 
 Fue Dario quien cedió el gesto primero, aunque no la sospecha.
 
@@ -203,25 +205,27 @@ Kal bajó la suya un segundo después, sin que le temblara la mano.
 
 —Trato.
 
-Fue en ese momento, y no antes, cuando Kal decidió no mencionar la llamada. No fue una decisión meditada — fue puro reflejo, el mismo instinto que lo hacía guardarse cualquier información que todavía pudiera servirle de algo. Le dijo a Dario que había estado en el taller, que volvió y la encontró tirada en las caballerizas, y que no tenía ni idea de cuánto tiempo llevaba ahí.
+Kal no mencionó la llamada. Fue reflejo, no decisión. Le dijo a Dario que había estado en el taller, que volvió y la encontró tirada en las caballerizas, y que no tenía ni idea de cuánto tiempo llevaba ahí.
 
 Dario lo miró un momento de más, como quien archiva algo para después.
 
-—Que se mejore pronto —dijo, mirando hacia la cama, no hacia Kal—. San Aurelio la necesita entera.
+—Que se mejore pronto —dijo, mirando hacia la cama, no hacia Kal.
+
+Ya en la puerta, añadió:
+
+—La tregua es por lo que le pasó, señor Mercer. No por ella.
 
 Y se fue sin despedirse del todo.
 
 ***
 
-Los turnos los organizó Kal mismo, esa misma madrugada, con la misma voz que usaba para repartir trabajo en el taller — no era una petición. Chiara seguía sedada, indefensa en un cuarto con una sola puerta, y lo que Kal les contó del golpe — sin forcejeo, sin testigos, un desconocido que llamaba desde el teléfono de ella horas después preguntando por sus costumbres de los domingos — bastó para que nadie discutiera la orden. Nadir el primero, después Omar, después Danny cuando Danny estaba en condiciones de sostener una conversación con una enfermera sin que resultara en un problema nuevo. Alguien tenía que quedarse con Kal en el cuarto 221, no porque Kal lo pidiera para sí mismo — nunca pedía nada para sí mismo — sino porque si no lo obligaban a bajar a comer o a bañarse, sencillamente no lo iba a hacer.
+Los turnos los organizó Kal mismo, esa misma madrugada, con la misma voz que usaba para repartir trabajo en el taller — no era una petición. Chiara seguía sedada, indefensa en un cuarto con una sola puerta, y lo que Kal les contó del golpe — sin forcejeo, sin testigos, un desconocido que llamaba desde el teléfono de ella después preguntando por sus costumbres de los domingos — bastó para que nadie discutiera la orden. Nadir el primero, después Omar, después Danny cuando Danny estaba en condiciones de sostener una conversación con una enfermera sin que resultara en un problema nuevo. Alguien tenía que quedarse con Kal en el cuarto 221, no porque Kal lo pidiera para sí mismo, sino porque si no lo obligaban a bajar a comer o a bañarse, sencillamente no lo iba a hacer.
 
 —¿Y si tengo cosas que hacer? —preguntó Nadir, cruzado de brazos, sin decir que no.
 
 —Entonces las haces después.
 
 Nadir masculló algo en árabe que no sonó a bendición, pero a la mañana siguiente ya estaba en el pasillo del Santa Aurelia con un café de más en la mano, sin que nadie tuviera que recordárselo dos veces. Refunfuñaba cada turno que le tocaba, y cumplía cada turno que le tocaba, y entre las dos cosas Kal nunca tuvo que elegir cuál de las dos creerle.
-
-No se despegaba de ese cuarto ni para lo mínimo, y el barrio entero pareció entenderlo sin que nadie tuviera que explicarlo.
 
 Le tocó a Héctor la noche del segundo día.
 
@@ -241,7 +245,7 @@ Le tomó la mano, un segundo apenas, torpe, como quien no está acostumbrado al 
 
 —Así que despierte, ¿quiere? No por mí. Por ese muchacho que no se ha movido de esa silla en dos días. Despierte, y déjeme seguir siendo un viejo cascarrabias con dos personas de las que quejarme, en vez de uno con dos tumbas más.
 
-Afuera, en el pasillo, Kal volvía con dos cafés de máquina, sin saber que se había perdido lo único que Héctor Navarro había dicho en voz alta en años sin que nadie se lo sacara a la fuerza.
+Afuera, en el pasillo, Kal volvía con dos cafés de máquina.
 
 ***
 
@@ -259,19 +263,9 @@ Chiara tardó un segundo en procesarlo, todavía con la cabeza pesada por los se
 
 —¿Operarme?
 
-—Descansa —dijo Kal—. De eso hablamos después, cuando estés mejor. Ahora sólo importa que sigas aquí.
+—Descansa —dijo Kal—. De eso hablamos después, cuando estés mejor. Ahora sólo importa que sigas aquí. Duerme. Yo me quedo.
 
-—Dario estuvo aquí —dijo, en cambio, un momento después, en voz baja—. Le dije que estaba en el taller, que volví y te encontré así. Nada más.
-
-—¿Te creyó?
-
-—No del todo.
-
-—Entonces tenemos que estar de acuerdo en la misma mentira.
-
-—Después —repitió Kal, con la firmeza tranquila de quien no va a ceder en esto—. Ya nos preocuparemos de eso cuando tengas la cabeza para sostenerlo. Ahora duerme. Yo me quedo.
-
-Ella lo miró un momento más de lo necesario, y por primera vez desde que Kal la conocía, no dijo nada ingenioso ni calculado. Sólo cerró los ojos.
+Ella lo miró un momento, y por primera vez desde que Kal la conocía, no dijo nada ingenioso ni calculado. Sólo cerró los ojos.
 
 ***
 
@@ -285,11 +279,11 @@ Cuanto más juntaba, más se le acomodaba una idea que no le gustaba nada: todo 
 
 Lo único que no encajaba con esa lectura era la llamada.
 
-Un ladrón no llama al novio de su víctima a preguntarle si sale mucho los domingos. Eso no era ruido ni casualidad — era alguien que necesitaba confirmar algo antes de actuar, o alguien que quería que Kal supiera, sin decírselo del todo, que esto no había sido un accidente en absoluto. La precisión de todo lo demás, sumada a esa sola grieta, sólo le dejaba dos caminos, y ninguno de los dos le gustaba: o Dario había organizado el golpe y la tregua era puro teatro, o había alguien más — alguien que Kal todavía no podía nombrar — con el mismo interés en hacerle daño a Chiara.
+Un ladrón no llama al mecánico de su víctima a preguntarle si sale mucho los domingos. Eso no era ruido ni casualidad — era alguien que necesitaba confirmar algo antes de actuar, o alguien que quería que Kal supiera, sin decírselo del todo, que esto no había sido un accidente en absoluto. La precisión de todo lo demás, sumada a esa sola grieta, sólo le dejaba dos caminos, y ninguno de los dos le gustaba: o Dario había organizado el golpe y la tregua era puro teatro, o había alguien más — alguien que Kal todavía no podía nombrar — con el mismo interés en hacerle daño a Chiara.
 
 No compartió ninguna de las dos ideas. Ni con Dario, que seguía siendo, oficialmente, su socio en esto. Ni con Chiara, que todavía no tenía la cabeza para cargar con una sospecha que no podía probar.
 
-La mañana del alta tuvo que aceptar lo que ya sabía: no había pista que lo resolviera del todo. La había buscado en todos los sitios donde sabía buscar, y todos los sitios estaban vacíos. Lo guardó, sin cerrarlo, de la misma manera en que guardaba todo lo que no podía arreglar todavía.
+La mañana del alta tuvo que aceptar lo que ya sabía: no había pista que lo resolviera del todo. Lo guardó, sin cerrarlo, de la misma manera en que guardaba todo lo que no podía arreglar todavía.
 
 ***
 
@@ -339,7 +333,7 @@ No dijo que no les creía. No le hizo falta. Se ajustó el puño de la camisa y 
 
 —Se lo agradezco.
 
-Lo dijo con la cortesía exacta, y por dentro tradujo la frase sin esfuerzo: no iba a estar sola en ningún pasillo porque siempre iba a haber alguien de Dario mirándola. Protección y vigilancia eran, en el idioma de ese hombre, la misma palabra dicha con dos tonos.
+Lo dijo con cortesía, y por dentro tradujo la frase sin esfuerzo: no iba a estar sola en ningún pasillo porque siempre iba a haber alguien de Dario mirándola. Protección y vigilancia eran, en el idioma de ese hombre, la misma palabra dicha con dos tonos.
 
 —Yo la llevo al casino —dijo Kal.
 
@@ -393,11 +387,11 @@ Salieron de San Aurelio por el norte, ya sin el sedán detrás, con la ciudad ac
 
 Kal condujo cuarenta minutos sin decir gran cosa. Paró en uno de esos paradores de autopista que existen sólo para camioneros y para gente que necesita una excusa para detenerse: una gasolinera, una cafetería con luz de quirófano, un estacionamiento de grava demasiado grande para el edificio que servía. Aparcó de frente a la carretera, apagó el motor y dejó las llaves en el contacto. Por primera vez en tres días, nadie los miraba.
 
-Metió la mano en el bolsillo de la chaqueta y puso sobre el tablero el reloj de ella y un fajo de billetes doblado.
+Metió la mano en el bolsillo de la chaqueta y puso sobre el tablero el reloj de ella y la cartera.
 
-—Tu asalto te dejó sin teléfono —dijo—. Lo demás lo tenía yo. Un ladrón que te deja el reloj no es un ladrón, y Varek sabe contar.
+—Tu asalto te dejó sin teléfono —dijo—. Lo demás lo tenía yo.
 
-Chiara miró el reloj sobre el tablero un momento largo, entendiendo de golpe cuánta versión se había construido alrededor de ella mientras dormía.
+Chiara miró el reloj sobre el tablero un momento largo. Kal la vio sacar la cuenta de todo lo que se había armado mientras dormía.
 
 —Cuéntame otra vez qué recuerdas —dijo Kal—. Despacio. No para la versión. Para mí.
 
@@ -405,7 +399,7 @@ Se lo contó despacio. El domingo gris por dentro, la fecha que no le había nom
 
 —Iba a llamarte —dijo, como si eso fuera lo que había que confesar—. Justo antes. Tenía el pulgar encima de tu nombre.
 
-Kal no hizo nada con eso. Lo guardó, como guardaba todo.
+Kal no hizo nada con eso. Lo guardó.
 
 —¿Quién, Chiara?
 
@@ -457,11 +451,11 @@ Chiara bajó la mirada. No contestó.
 
 Y Kal, que no era hombre de cruzar una habitación sin motivo, la cruzó y la abrazó — torpe al principio, como quien no tiene el gesto ensayado, y después no torpe. La sintió temblar contra él, y no era frío.
 
-Lo que fuera que venía tras ella podía ahora alcanzarlo también a él — y eso, en el mundo del que venía Chiara, era exactamente el hilo del que tiraban.
+Kal entendió, o creyó entender, por qué temblaba: lo que fuera que venía tras ella podía ahora alcanzarlo también a él.
 
-Ninguno de los dos lo dijo. No hubo frase que lo explicara. Sólo dos cuerpos en un cuarto a oscuras, diciéndose lo que las palabras habrían echado a perder, en un idioma que los dos llevaban meses fingiendo no hablar.
+Dos cuerpos en un cuarto a oscuras.
 
-Esa noche se dijo, como se lo diría muchas otras, que era sólo un favor, y que los favores se hacen y se olvidan. No se lo creyó entonces y no se lo creería después.
+Esa noche se dijo que era sólo un favor, y que los favores se hacen y se olvidan. No se lo creyó.
 
 ***
 

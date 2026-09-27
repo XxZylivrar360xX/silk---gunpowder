@@ -3,7 +3,7 @@ Estado: BORRADOR — Parte III — Ardizzone, segundo capítulo (Cap. 36 del man
 Protagonistas: Chiara Bellandi (POV único). Kal Mercer. Héctor Navarro (escena, voz propia, primera mitad del capítulo).
 Mencionados sin aparición: Matteo Bellacorte (sigue en Génova, sin fecha de regreso), Walt Keegan (consultado sobre la botella, referido, no en escena), Fabrizio Rinaldi, Nadir Amrani, Dario Varek (referencia administrativa mínima).
 Ventana temporal: aproximadamente tres semanas después del Cap. 35. 23 de noviembre — cumpleaños de Chiara. La primera mitad del capítulo (muelle de carga, persecución) es un salto de POV controlado — ver nota abajo — que ocurre esa misma mañana y tarde; la segunda mitad (llamada, hipódromo, loft) es la noche del mismo día, en POV de Chiara.
-Lugares: loft de La Almendra (apertura, muy temprano); muelle de carga de [[05_Locations/Kingsley_Field|Kingsley Field]] (mañana); campo abierto hacia las Rutas de Milla (persecución); Penthouse de Chiara en The Monarch; [[05_Locations/Hipodromo_Del_Monarch|Hipódromo del Monarch]] y sus caballerizas (de noche); loft de La Almendra otra vez (cierre, incluido el cuarto bodega).
+Lugares: loft de La Almendra (apertura, muy temprano); muelle de carga de [[05_Locations/Kingsley_Field|Kingsley Field]] (mañana); campo abierto hacia las Rutas de Milla (persecución); Penthouse de Chiara en The Monarch; [[05_Locations/Hipodromo_Del_Monarch|Hipódromo del Monarch]] y sus caballerizas (de noche); loft de La Almendra otra vez (cierre, incluido el compartimiento bajo el piso).
 Función: ejecuta [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial|H16]] con el arco completo dictado por el autor. Explica por qué la entrega se adelanta a la noche (persecución de la yegua consume casi todo el día) y por qué Kal llega con el traje arruinado. Espejo nuevo de Parte III: mientras el Monarch sigue con una silla vacía, el hogar elegido gana raíces.
 
 - REGLA ESTRUCTURAL: sigue [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]] al detalle, con el orden de regalos (yegua → botella → llave) dictado por el autor, y la llave como mudanza oficial sin caja de mudanza ni camión.
@@ -23,7 +23,7 @@ Función: ejecuta [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza o
 
 Kal se lavó las manos en el fregadero de la cocina antes de que hiciera falta café, viendo cómo el agua se llevaba, cada vez más clara, lo que le quedaba de rojo entre los dedos. Las botas, todavía junto a la puerta, tenían más lodo seco del que un hombre podía explicar sin mentir. No pensaba intentarlo con nadie, y mucho menos esa noche con ella.
 
-Se puso en cuclillas junto al tablón suelto del cuarto bodega, lo levantó, y comprobó —sin necesitarlo del todo, sólo para estar seguro— que la cajita de madera seguía exactamente donde la había dejado la noche anterior, encima de la caja de acero, cerrada. La devolvió a su sitio, encajó el tablón otra vez, y se cambió de camisa antes de llamar a Héctor.
+Se puso en cuclillas al fondo de la planta baja, junto al tablón suelto, lo levantó, y comprobó —sin necesitarlo del todo, sólo para estar seguro— que la botella seguía exactamente donde la había dejado la noche anterior: acostada en el hueco, junto a la caja de acero, envuelta en una manta gris. No la tocó. Encajó el tablón otra vez y se cambió de camisa antes de llamar a Héctor.
 
 —Dime que ya estás despierto.
 
@@ -109,7 +109,9 @@ Para cuando volvieron a subirla al remolque, el sol ya estaba bajo y naranja sob
 
 Chiara contestó al tercer timbre, con la voz de quien ya se ha quitado los zapatos y está pensando en poco más.
 
-—¿Dónde estás?
+—Ciao, bella. —Sin la caricatura esta vez; sólo cansado.
+
+—Ciao, bellissimo. ¿Dónde estás?
 
 —En los establos.
 
@@ -177,7 +179,7 @@ Ella lo pensó un momento, con la mano quieta contra el pelaje tibio.
 
 ---
 
-Ya en el loft, con Chiara todavía oliendo un poco a establo y Kal sin haberse cambiado el traje porque a esas alturas ya no tenía sentido, encontraron la segunda sorpresa en el cuarto bodega: una botella envuelta en una manta gris, apoyada contra la pared con el descuido de alguien que la había dejado ahí de prisa, en algún momento de los últimos dos días, sin pensar en la puesta en escena.
+Ya en el loft, con Chiara todavía oliendo un poco a establo y Kal sin haberse cambiado el traje porque a esas alturas ya no tenía sentido, él la llevó al fondo de la planta baja, se puso en cuclillas y levantó el tablón suelto. La segunda sorpresa estaba acostada en el hueco, junto a la caja de acero: una botella envuelta en una manta gris, metida ahí de prisa, sin ninguna puesta en escena.
 
 Chiara leyó la etiqueta dos veces antes de creerla.
 
@@ -237,7 +239,7 @@ Kal no sonrió del todo. Hizo algo más cercano a relajar la mandíbula, un gest
 
 ---
 
-Más tarde, cuando Kal ya dormía y el loft estaba en silencio salvo por el motor lejano de algún auto en la calle, Chiara bajó al cuarto bodega con la caja de las joyas que nunca usaba en público —las que su madre le había dejado, las que no cabían en ninguna versión de sí misma que hubiera construido hasta ahora— y las guardó, sin pensarlo demasiado, en la caja de acero que Kal había instalado meses atrás bajo el tablón suelto del suelo. Ya había ahí un sobre con escrituras, algo de efectivo que no era ni completamente suyo ni completamente de él, y la llave sobrante de un auto que ninguno de los dos manejaba.
+Más tarde, cuando Kal ya dormía y el loft estaba en silencio salvo por el motor lejano de algún auto en la calle, Chiara bajó con la caja de las joyas que nunca usaba en público —las que su madre le había dejado, las que no cabían en ninguna versión de sí misma que hubiera construido hasta ahora— y las guardó, sin pensarlo demasiado, en la caja de acero que Kal había instalado meses atrás bajo el tablón suelto del suelo. Ya había ahí un sobre con escrituras, algo de efectivo que no era ni completamente suyo ni completamente de él, y la llave sobrante de un auto que ninguno de los dos manejaba.
 
 No hizo ningún comentario al respecto, ni en voz alta ni para sí misma. Simplemente cerró la caja, encajó el tablón de vuelta a su lugar, y subió a dormir.
 

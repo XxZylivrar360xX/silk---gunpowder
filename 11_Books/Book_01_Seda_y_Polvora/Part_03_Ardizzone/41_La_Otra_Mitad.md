@@ -87,7 +87,11 @@ No lo llamó.
 
 El teléfono sonó cerca de las nueve, cuando Chiara todavía estaba en el despacho con la hoja doblada en el bolsillo.
 
-—¿Supiste algo de Matteo? —preguntó Kal, sin preámbulo, con la voz de alguien que llevaba un rato queriendo hacer esa pregunta y sólo ahora encontraba el momento.
+—Ciao, bella.
+
+—Ciao.
+
+—¿Supiste algo de Matteo? —preguntó Kal, sin más preámbulo, con la voz de alguien que llevaba un rato queriendo hacer esa pregunta y sólo ahora encontraba el momento.
 
 —Nada —dijo Chiara.
 

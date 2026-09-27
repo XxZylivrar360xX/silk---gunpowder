@@ -200,6 +200,20 @@ Chiara se lo quedó mirando, entendiendo poco a poco lo absurdo y lo espontáneo
 
 Kal se rió también, la clase de risa que no usaba con nadie más en ese salón.
 
+Después se enderezó, se llevó una mano al pecho y bajó la voz un tono.
+
+—Ciao, sono Chiara Bellandi.
+
+La erre arrastrada, la vocal final estirada hasta el pasillo, un acento que no existía en ningún mapa de Italia. Sonaba a alguien con sombrero y un puro sin encender.
+
+Chiara le pegó en el brazo con el ladrillo, sin fuerza.
+
+—Así no hablo.
+
+—Así entras a los cuartos.
+
+No le contestó. Se estaba riendo otra vez.
+
 Se quedaron ahí un momento, ella con un ladrillo en las manos en un pasillo de baños de una fiesta de etiqueta, él sin ninguna prisa por explicarse, hasta que el teléfono de Kal vibró y su cara cambió lo suficiente para que ella entendiera que la noche, para él, ya se había terminado.
 
 —Tengo que irme. Trabajo de madrugada.

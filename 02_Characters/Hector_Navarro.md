@@ -12,6 +12,9 @@
 
 **Apariencia — CANON DEL AUTOR (2026-09-01):** americano, tez caucásica. Pelo cano/gris, abundante y poco arreglado. Viste camisas de leñador — su prenda fija, dentro y fuera del taller.
 
+
+> **CANON DEL AUTOR (2026-09-26):** con Walt preso y Jim fuera de la ciudad, Héctor crió a [[02_Characters/Natalie_Keegan|Natalie Keegan]], la hija menor de Walt, desde los 14 hasta los 18, cuando ella empezó su carrera de paramédica. Él es "el hombre que permaneció" también para ella.
+
 ---
 
 ## Referencia visual — DISEÑO (2026-09-11)

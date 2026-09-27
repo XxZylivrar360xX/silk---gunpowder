@@ -17,6 +17,7 @@ Funcion: DISEÑO NUEVO de esta sesion, a peticion del autor. Segundo escalon de 
 - No aparecen Marisol, Kenji, Kenji/Marisol como pareja, ni el episodio del Cap. 33 (La periferia). No se menciona "novia" ni ninguna etiqueta de relacion. La coda con Chiara es domestica y minima: ella se entera de que el canal existe, no celebra ni protesta, lo archiva.
 - REGLA DE DIALOGO aplicada: verbos de habla funcionales (dijo/pregunto/contesto/respondio), tono en clausula corta o gesto, nunca ambos apilados, sin adverbios en "-mente" — ver [[12_Craft_Policies/Redaccion_De_Capitulos#Acotaciones y tono]]. Se evito a proposito el patron "interrogatorio terapeutico escalonado" y el cierre en "antitesis limpia" (ver `12_Craft_Policies/dialogue_rules/`): ninguno de los dos resume al otro con precision perfecta; la escena de Lucia cierra en el objeto (la tarjeta), sin formula de cierre.
 - CORTADO (2026-09-20, nota del autor): la version original de este capitulo cerraba la escena de Lucia con ella notando "Nunca me ha preguntado por mi padre" / Kal contestando "No es por eso que hablo con usted". El autor la quito: en este punto no hay causa dramatica para que Lucia saque a Dario (Kal no la ha usado para nada relacionado con el, y la metadata de este mismo capitulo ya prohibia mencionarlo) y la linea contradecia su propia regla estructural. **Movimiento reservado para la Parte III** con mejor causalidad (ver DISEÑO abajo) — no escrito todavia.
+- INSERCION BORRADOR (2026-09-26, Claude Code, decision del autor sobre la quinta tanda de [[13_Auditorias/Book_01_Seda_y_Polvora/Evaluacion_Arco_Libro_I]]): primera siembra de Silas Crowe desde el Cap. 17. Tras la reapertura de la llantera, Hector cuenta que el Tasador mando a preguntar quien arreglo lo de Portillo y cuanto cobro; la respuesta es "nada" y "al muchacho no le gusto". Crowe tasa el crecimiento de Kal, sin accion. Anticipa el mecanismo de su caida (Kal da gratis lo que el vende) y el motivo del incendio ("si alguien empieza a ganar sin el, aparece una cuota nueva", [[02_Characters/Silas_Crowe]]). No se inventa el cargamento. Pendiente de revision del autor.
 -->
 
 > **DISEÑO RESERVADO PARA PARTE III (2026-09-20, idea del autor, no escrito):** cuando Kal empiece a aparecer publica o semipublicamente como la persona que Dario usa para coordinar problemas entre bandas, Lucia empezara a encontrarse el nombre de Mercer en lugares extraños sin tener todavia un delito claro que ponerle encima. Ahi si, con evidencia acumulada de meses de linea directa sin que Kal la haya usado nunca para llegar a su padre, Lucia puede observarlo en voz alta: *"—Hay algo que no entiendo de usted. —La lista es larga. —Tiene contacto con mi padre. Tiene contacto conmigo. Nunca ha intentado utilizar uno para llegar al otro."* Kal: *"—Porque son dos relaciones distintas."* — declaracion sobre como Kal administra personas (no convierte automaticamente un vinculo en palanca sobre otro) que Lucia puede recordar años despues al preguntarse cuanto sabia Kal sobre Dario. No fijar capitulo ni fecha todavia; anotar tambien en `06_Relationships/Hitos.md` o `98_Agent_Handoff/PENDING.md` si se quiere proteger la idea para cuando se diseñe la Parte III.
@@ -140,6 +141,20 @@ Kal no fue a ver la escena. No hacía falta.
 Manejó por ahí dos días después, sin motivo real, y encontró la llantera abierta, con Portillo afuera fumando un cigarro con una calma que no tenía semanas atrás, sin nadie vigilando la esquina.
 
 No sintió gran cosa. Fue, sobre todo, la comprobación de que un problema se había resuelto sin que él tuviera que resolverlo con las manos, y que eso —a diferencia de lo que había hecho toda su vida— no le había costado una sola llamada a Héctor.
+
+La semana siguiente, cerrando la caja, Héctor lo comentó sin levantar la vista de las facturas.
+
+—El Tasador mandó a uno de los suyos a la llantera. A preguntar quién le había arreglado lo de los jueves a Portillo.
+
+—¿Y Portillo?
+
+—Dijo que no sabía. —Héctor firmó una hoja y pasó a la siguiente—. Después le preguntaron cuánto le habían cobrado.
+
+—¿Y?
+
+—Nada. Eso contestó. —Dejó la pluma sobre el escritorio—. Al muchacho no le gustó la respuesta.
+
+Kal no dijo nada. Héctor tampoco.
 
 ***
 

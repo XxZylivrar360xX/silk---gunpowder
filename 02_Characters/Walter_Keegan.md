@@ -8,6 +8,7 @@
 **Edad:** cincuenta y tantos o sesenta.
 **Territorio:** la Almendra. Ver [[05_Locations/San_Aurelio]].
 **Estado:** vivo, y **recién salido de prisión** cuando empieza la novela.
+**Hijos:** [[02_Characters/Jim_Keegan|Jim]] (†, Afganistán) y [[02_Characters/Natalie_Keegan|Natalie "Nat"]], la menor. CANON DEL AUTOR (2026-09-26): bombera-paramédica; estuvo en su audiencia y lo recibe a la salida junto a Kal y Héctor (ya escrito en el Cap. 3, BORRADOR). Su esposa, **Amanda Keegan**, murió en un asalto que terminó en homicidio con Walt ya preso. Él se enteró adentro.
 
 **Apariencia — CANON DEL AUTOR (2026-09-01):** mestizo, americano y latino. Calvo, piel morena clara. Barba de candado gris. Vestimenta neutra — nada que llame la atención — pero siempre con botas de cazador, pase lo que pase.
 
@@ -151,4 +152,4 @@ Walt empieza a seguir, sin decirlo así, el mismo método de Kal para hacer nego
 
 ---
 
-Ver también: [[02_Characters/Kal_Mercer]] · [[02_Characters/Hector_Navarro]] · [[02_Characters/Silas_Crowe]] · [[03_Factions/Almendra_Towing]]
+Ver también: [[02_Characters/Kal_Mercer]] · [[02_Characters/Natalie_Keegan]] · [[02_Characters/Hector_Navarro]] · [[02_Characters/Silas_Crowe]] · [[03_Factions/Almendra_Towing]]

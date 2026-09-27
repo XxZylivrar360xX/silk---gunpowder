@@ -36,7 +36,7 @@ Cuenta cómo Kal Mercer y Chiara Bellandi se conocen, se vuelven útiles el uno 
 
 ### Secuencia de acontecimientos
 
-- El encuentro en el [[03_Factions/El_Casino|Monarch]]: el apretón de manos y las dos líneas fundacionales (*"Io sono Chiara Bellandi." / "Encantado de conocerla."*) — **[[06_Relationships/Hitos#H2 — El apretón de manos|H2]]**.
+- El encuentro en el [[03_Factions/El_Casino|Monarch]]: el apretón de manos y las dos líneas fundacionales (*"Ciao, sono Chiara Bellandi." / "Encantado de conocerla."*) — **[[06_Relationships/Hitos#H2 — El apretón de manos|H2]]**.
 - La cadena de favores que los acerca como algo más que socios — continuación de H2.
 - **H2-a** — la primera cena que ninguno llama cita (*Il Gelsomino*, Rocco el perro, los primeros testigos del barrio).
 - **H2-b** — la noche que todo cambió (el penthouse, la música que se enseñan, la calavera, el paso del usted al tú).
@@ -133,7 +133,7 @@ Dos procesos simultáneos:
 
 > **CANON DEL AUTOR (2026-09-20).** Chiara llama a Kal mientras él está en [[03_Factions/Almendra_Towing|Almendra Towing]] con Nadir. Es la primera llamada telefónica a dos entre Kal y Chiara desde que formalizaron en "Mi pareja" (Cap. 34, que fue a tres, con Nadir en altavoz, y explícitamente no dramatizó este ritual). Aquí nace:
 >
-> **Kal → Chiara:** *"Ciao, bella."* — con su italiano deliberadamente malo, citando su vieja imitación burlona del *"Io sono Chiara Bellandi"* de H2.
+> **Kal → Chiara:** *"Ciao, bella."* — con su italiano deliberadamente malo, citando su vieja imitación burlona del *"Ciao, sono Chiara Bellandi"* de H2.
 > **Chiara → Kal:** *"Ciao, bellissimo."* — italiano impecable y deliberadamente marcado; subtexto privado: *mi acento sigue aquí.*
 >
 > Nadir presencia la llamada y registra en silencio cuánto ha suavizado Chiara a Kal (no verbalizar "domado"). Se queda como ritual de la pareja para toda la trilogía. **Resuelto (2026-09-20):** [[06_Relationships/Hitos#H21 — Mi pareja|Hitos, H21]] y [[06_Relationships/Kal_y_Chiara]] ("El acento que cede...") quedaron actualizados para reflejar esta versión — sustituye la nota anterior (2026-09-09), que tenía a Chiara diciendo "Ciao, bello" primero y a Kal respondiendo "ciao, bellissima".

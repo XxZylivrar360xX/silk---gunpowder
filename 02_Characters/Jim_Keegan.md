@@ -6,7 +6,7 @@
 
 ## Identidad
 
-- Hijo de [[02_Characters/Walter_Keegan]].
+- Hijo de [[02_Characters/Walter_Keegan]]. Hermano mayor de [[02_Characters/Natalie_Keegan|Natalie]] (CANON DEL AUTOR 2026-09-26); ocho años mayor que ella. Tenía unos 22 cuando se fue de San Aurelio, después de que asesinaran a su madre, Amanda, en un asalto con Walt preso. Dejó a Natalie de 14, a quien crió Héctor. En el Cap. 3, cuando Kal lo confronta por el reporte y le pregunta "¿Y tu hermana?", Jim le pide que ella no se entere nunca. Murió hacia los 27. Tenía a Natalie como contacto de emergencia (DISEÑO).
 - **Estado: muerto.** Ya fallecido para cuando abre la novela.
 
 ## Historia

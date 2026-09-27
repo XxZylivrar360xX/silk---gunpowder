@@ -234,7 +234,7 @@ No fue un recorrido ordenado. Fue ella caminando descalza por el penthouse y él
 
 Kal apoyó la cadera en la encimera y esperó. Con él, esperar era una forma de preguntar.
 
-—Cuando tenía seis años me dieron una cámara de video para una fiesta. Una de esas viejas, que pesaban como un ladrillo. Me pasé la noche entera grabando desde un rincón, con un ojo cerrado, seria, seria, seria, para que todo saliera derecho. Un niño, Vitto, me sacó a bailar y me pisó los pies media hora. Yo no bajé la cámara.
+—Cuando tenía seis años me dieron una cámara de video para una fiesta. Una de esas viejas, que pesaban como un ladrillo. Me pasé la noche entera grabando desde un rincón, con un ojo cerrado, seria, seria, seria, para que todo saliera derecho. Un niño, Fabrizio, me sacó a bailar y me pisó los pies media hora. Yo no bajé la cámara.
 
 —Muy tú.
 
@@ -246,7 +246,7 @@ Kal apoyó la cadera en la encimera y esperó. Con él, esperar era una forma de
 
 Kal lo pensó un momento.
 
-—Yo habría pisado peor que Vitto.
+—Yo habría pisado peor que Fabrizio.
 
 —De eso no tengo ninguna duda.
 

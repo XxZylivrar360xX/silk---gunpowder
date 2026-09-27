@@ -4,6 +4,7 @@ Protagonistas: Chiara Bellandi, Kal Mercer.
 Ventana temporal: Fase 0, domingo, misma tarde-noche del Capitulo 1; ocurre H2.
 Lugares: Kingsley Field, carreteras del norte de San Aurelio, The Monarch Casino & Hotel, Almendra Towing.
 Funcion: dar a Chiara entrada propia, presentar a Fabrizio, Tommaso y Dario, la reunion interna sin Kal, el primer apreton de manos, el rechazo por "demasiado listo" y el cierre paralelo de radar mutuo.
+Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_01-03.md (seccion 9). Canon del autor: Chiara administraba casinos de Il Consorzio en Nueva York antes de San Aurelio; Il Consigliere la llama signora Ardizzone (institucion); entre sus aliados, el unico que naturalmente la llama Ardizzone es Fabrizio, por la amistad de infancia; la sala del Monarch queda en POV de Kal hasta que el sale, y despues pasa a Chiara.
 -->
 
 # Capítulo 2 — Demasiado listo
@@ -14,9 +15,9 @@ Chiara Bellandi miró por la ventanilla mientras la costa de California subía h
 
 Desde el aire, todo parecía limpio. Hasta las zonas feas tenían una geometría obediente: almacenes alineados, patios de camiones, avenidas rectas, canales de concreto que recogían una lluvia que no estaba. Chiara sabía que los lugares mentían mejor cuando se miraban desde lejos. Palermo también podía parecer una postal si uno elegía la altura correcta.
 
-La primera vez que entendió que una orden podía llegar disfrazada de cortesía fue unas semanas antes de subir a ese avión, en un despacho de Nueva York, bien pasada la medianoche.
+La orden le había llegado disfrazada de cortesía unas semanas antes de subir a ese avión, en un despacho de Nueva York, bien pasada la medianoche.
 
-El evento de esa noche llevaba dos horas de haber terminado: una recaudación para un ala de museo que la mitad de los invitados no volvería a visitar, más joyas que preguntas, un cuarteto que había costado más que el catering. Chiara se había quedado a cerrar la caja como quien cierra una herida, cifra por cifra, hasta que el salón quedó vacío y sólo circulaban los de limpieza con carritos silenciosos.
+El evento de esa noche llevaba dos horas de haber terminado: una recaudación para un ala de museo que la mitad de los invitados no volvería a visitar, montada en el salón privado de uno de los casinos que Chiara administraba para Il Consorzio, más joyas que preguntas, un cuarteto que había costado más que el catering. Chiara se había quedado a cerrar la caja como quien cierra una herida, cifra por cifra, hasta que el salón quedó vacío y sólo circulaban los de limpieza con carritos silenciosos.
 
 Estaba revisando la última columna del reporte —propinas, comisión, la diferencia de siempre entre lo que el bar declaraba y lo que el bar servía— cuando la puerta del despacho se abrió sin que nadie tocara antes.
 
@@ -54,23 +55,13 @@ No dijo el nombre del socio. No dijo qué se había prometido exactamente, ni a 
 
 —Va bene.
 
-Chiara sabía que no iba a obtener más información por la forma en que lo había declarado el consigliere: sin pausa, sin dejar una pregunta abierta al final. Una puerta que se cerraba con buenos modales.
-
-—Hubo quien prefería, en la mesa, un nombre con más años encima —dijo él, con la misma calma de quien todavía habla del edificio de la calle 57—. Il Consorzio decidió que el suyo ya pesa lo suficiente.
-
-—Dígale a la mesa que estén tranquilos. El apellido va a estar bien cuidado.
-
-—Nadie lo dudó nunca, signora. Se discutió el momento. Nunca el nombre.
-
-Chiara no le dio las gracias. Un cumplido de la mesa siempre llegaba con la factura adjunta, y ella ya sabía en qué moneda se la iban a cobrar.
-
 Il Consigliere sonrió, con la misma cordialidad exacta con la que había hablado del cuarteto.
 
-—Dirigir, observar y reportar a la mesa.
+—Dirigir y observar. Nada más.
 
 Lo dijo con tan poco peso que casi sonó a favor.
 
-Chiara supo exactamente lo que esas palabras significaban, porque las había usado ella misma, en otro idioma, con gente a la que quería vigilar sin que lo notara. Dirigir era la parte que se veía. Observar era la parte que le pertenecía sólo a Il Consorzio. Reportar a la mesa era la correa: cualquier palabra de Bellacorte, cualquier gesto de ese socio sin nombre, iba a llegar a oídos que jamás pisarían San Aurelio.
+Chiara supo exactamente lo que esas palabras significaban, porque las había usado ella misma, en otro idioma, con gente a la que quería vigilar sin que lo notara.
 
 —¿Algo más?
 
@@ -78,15 +69,11 @@ Chiara supo exactamente lo que esas palabras significaban, porque las había usa
 
 Salió sin esperar que ella lo acompañara a la puerta.
 
-Chiara se quedó con la carpeta cerrada bajo la mano y la sensación clara, física, de haber recibido una orden vestida de noticia. No preguntó por qué ella. No dijo que aceptaba. Las dos cosas habrían sido redundantes: en esa familia, cuando Il Consorzio decidía, la única pregunta que quedaba abierta era cuánto tiempo se tardaría en obedecer.
+No preguntó por qué ella. No dijo que aceptaba. Las dos cosas habrían sido redundantes: en esa familia, cuando Il Consorzio decidía, la única pregunta que quedaba abierta era cuánto tiempo se tardaría en obedecer.
 
 Muy poco, pensó. Empezó esa misma madrugada.
 
 Apoyó dos dedos en el borde de la ventanilla y siguió el trazo de una carretera que nacía cerca del aeropuerto y se perdía hacia el norte. Pensó que San Aurelio sería eso: una escala con nombre propio. Unos días para ordenar un casino, medir a unos socios, firmar lo necesario y volver a casa con la sensación profesional de haber dejado algo funcionando mejor de lo que lo encontró.
-
-No podía saber que abajo había años.
-
-No podía saber que la ciudad que en ese momento le parecía provisional iba a aprender su apellido, su acento, su manera de entrar a una habitación y hasta el sonido de sus tacones en ciertos pasillos. No podía saber que aquel lugar, visto desde la ventanilla como una pieza ajena en un tablero ajeno, terminaría exigiéndole raíces.
 
 Las ruedas tocaron la pista con un golpe seco. Chiara parpadeó una vez, como si el cuerpo regresara antes que la mente.
 
@@ -106,7 +93,7 @@ El abrigo corto de felpa blanco le sobraba para California. No se lo quitó. Al 
 
 Matteo Bellacorte la esperaba junto a una columna, hablando por teléfono y usando la mano libre para dirigir a un chofer que no lo estaba mirando.
 
-No estaba solo. Dos hombres con gafetes del aeropuerto se mantenían a una distancia útil: lo bastante cerca para ser servicio, lo bastante lejos para no parecer escolta. Un empleado de aduana reconoció a Matteo, levantó dos dedos y siguió caminando sin pedirle nada. Las ciudades nuevas siempre se presentaban primero por sus permisos.
+No estaba solo. Dos hombres con gafetes del aeropuerto se mantenían a una distancia útil: lo bastante cerca para ser servicio, lo bastante lejos para no parecer escolta. Un empleado de aduana reconoció a Matteo, levantó dos dedos y siguió caminando sin pedirle nada.
 
 —Chiara.
 
@@ -138,8 +125,6 @@ Matteo sonrió.
 
 Caminaron hacia la salida privada, donde el vidrio mostraba la pista y, más allá, una carretera larga que se perdía entre terrenos secos. Chiara vio hangares, camiones de carga, una patrulla aeroportuaria, lectores de placas en la salida. No era sólo un aeropuerto. Era una boca, y todo lugar que traga y escupe gente sirve para algo más.
 
-Una cinta transportadora de equipaje se detuvo a mitad de vuelta y volvió a arrancar con un golpe seco. A tres metros, una familia discutía con una agente porque faltaba una maleta. El padre elevó la voz; la agente no. Chiara miró primero a la agente. La mujer no tenía poder real, pero tenía el formulario. A veces bastaba.
-
 —Los demás ya llegaron —dijo Matteo—. Fabrizio vino anoche. Tommaso esta mañana.
 
 Chiara no cambió el paso.
@@ -168,9 +153,7 @@ Matteo bajó la voz.
 
 El coche esperaba afuera: negro, limpio, con un chofer que miró a Matteo antes de mirar a Chiara.
 
-En el trayecto, San Aurelio apareció por partes. Primero las carreteras del norte, planas y calientes. Después los bordes industriales, bodegas bajas, anuncios de talleres, patios con coches levantados sobre bloques. Más adelante, el perfil de la ciudad subió hacia torres nuevas y cristal. La costa brillaba al fondo como si no tuviera nada que ver con las calles que acababan de cruzar.
-
-La ciudad no cambiaba de cara de golpe. Se iba corrigiendo. Los anuncios pintados cedían lugar a lonas nuevas; las bardas con alambre a jardineras municipales; los talleres a cafés con nombres en inglés. En cada transición quedaba alguien trabajando para que el cambio pareciera natural.
+En el trayecto, la ciudad no cambiaba de cara de golpe. Se iba corrigiendo. Los anuncios pintados cedían lugar a lonas nuevas; las bardas con alambre a jardineras municipales; los talleres a cafés con nombres en inglés. En cada transición quedaba alguien trabajando para que el cambio pareciera natural.
 
 Chiara no creyó en nada natural.
 
@@ -208,13 +191,11 @@ Chiara asintió una vez. No era miedo. Era archivo.
 
 El Monarch Casino & Hotel se levantaba en el borde del Distrito Marino como una mentira recién lavada: fachada antigua restaurada, torre nueva encima, valet, palmeras, vidrio, banderas sin viento. El edificio tenía la arrogancia de los lugares que aún no han sido ensuciados por sus propios clientes.
 
-Dos botones se pelearon en silencio por quién tocaba primero su equipaje. Ganó el mayor sin moverse más rápido: el joven vio a Matteo, vio al hombre mayor, y entendió que la antigüedad también era una llave. Chiara dejó que el mayor tomara la maleta pequeña y conservó el bolso grande.
-
 El lobby estaba demasiado frío. El tipo de frío que los hoteles caros usan para fingir que el exterior no existe.
 
 Fabrizio Rinaldi la esperaba en el lobby con una sonrisa demasiado grande para una ciudad desconocida.
 
-—Chiara Bellandi en California —dijo—. Ahora sí el mundo se quedó sin mapas.
+—Chiara Ardizzone en California —dijo—. Ahora sí el mundo se quedó sin mapas.
 
 Ella le permitió besarle ambas mejillas.
 
@@ -251,8 +232,6 @@ En otra mesa del lobby, dos hombres de traje local fingieron revisar documentos 
 Entonces llegó Dario Varek.
 
 No entró con prisa. No la necesitaba. La gente del lobby ajustó su volumen antes de que él hablara, como si una mano invisible hubiera bajado el sonido de la habitación.
-
-El gerente del hotel apareció desde un pasillo lateral con la velocidad de quien había sido avisado por alguien que no estaba visible. No saludó primero a Dario. Esperó a que Dario decidiera si quería verlo. Cuando Dario no lo miró, el gerente se quedó a dos pasos de una maceta, sonriendo hacia ningún sitio.
 
 Traje oscuro, postura impecable, rostro de hombre que había aprendido a parecer tranquilo en fotografías. Le dio la mano a Fabrizio, a Tommaso, a Matteo. Cuando llegó a Chiara, la miró el tiempo exacto para que la cortesía pareciera atención y la atención pudiera pasar por inventario.
 
@@ -308,15 +287,7 @@ Tommaso levantó la vista.
 
 Lo dijo con el tono con que un hombre recuerda una factura que ya pagó.
 
-Chiara no miró el anular izquierdo. Miró las carpetas.
-
 —La prensa no es el primer problema. La primera semana sólo necesita tres cosas: que nadie espere demasiado, que nadie pierda una maleta y que ningún empleado tenga una historia mejor que la nuestra.
-
-Fabrizio soltó una risa baja.
-
-—Eso último ya suena a Palermo.
-
-—Palermo habría pedido cuatro cosas.
 
 Matteo tocó con dos dedos la carpeta de proveedores.
 
@@ -442,7 +413,7 @@ No era moral. La moral habría sido más fácil de explicar. Lo que le daba asco
 
 Se acomodó el saco del traje azul.
 
-Le quedaba demasiado bien para que pudiera fingir que era accidente y demasiado ajustado para olvidar, ni un segundo, que alguien había decidido vestirlo para una habitación. Los tenis blancos eran la única concesión que se había permitido: limpios, absurdos bajo el corte correcto del pantalón, una manera de llegar presentable sin entregar la garganta.
+Los tenis blancos eran la única concesión que se había permitido: limpios, absurdos bajo el corte correcto del pantalón, una manera de llegar presentable sin entregar la garganta.
 
 El espejo negro de la puerta giratoria le devolvió una cara que nunca terminaba de pertenecer al barrio que lo había criado: pelo rubio, ojos azules, huesos de un norte que sus papeles no sabían nombrar. La cicatriz le cruzaba la mejilla izquierda desde la comisura de la boca hasta el rabillo del ojo, una línea clara sobre una cara que habría parecido demasiado limpia sin ella.
 
@@ -496,7 +467,7 @@ Matteo sonrió, pero miró hacia la entrada como si esperara a alguien.
 
 Algo en Matteo había cambiado. Una espera mínima. Una pequeña demora que no era logística.
 
-Kal no preguntó quién era Dario. Si importaba, la sala se lo iba a decir.
+Kal no preguntó quién era Dario.
 
 Entonces la vio.
 
@@ -526,7 +497,7 @@ Matteo hizo la presentación con una satisfacción pequeña, casi teatral.
 
 Ella apagó el cigarro en un cenicero de pie, dio un paso y le ofreció la mano.
 
-—Io sono Chiara Bellandi.
+—Ciao, sono Chiara Bellandi.
 
 Kal tomó su mano.
 
@@ -568,7 +539,7 @@ Eso, más que una presencia, le dijo a Kal qué clase de hombre faltaba.
 
 Tommaso giraba un anillo de sello en el dedo, una vuelta y otra, sin mirárselo. Fabrizio se había servido algo ámbar de la cava y sostenía el vaso sin beberlo, más utilería que sed. Matteo miraba hacia el ventanal, hacia el piso de juego que todavía no era nada, como quien revisa una apuesta que ya hizo. Chiara se quedó donde estaba, los brazos cruzados detrás de la espalda, la barbilla nivelada — la única postura en el cuarto que no le pedía nada prestado a un objeto.
 
-Los leyó sin proponérselo, por costumbre: el anillo giraba cuando algo todavía no estaba decidido, el vaso servía para medir a un extraño sin mirarlo, el ventanal era la manera de Matteo de comprobar que su apuesta seguía ahí. Él no les dio nada que leer de vuelta.
+Kal no les dio nada que leer de vuelta.
 
 Fabrizio Rinaldi saludó con una cordialidad amplia, Tommaso Lusardi con una cortesía que no gastaba calor. Elise, la mujer del bolígrafo, abrió una página nueva.
 
@@ -594,7 +565,7 @@ Matteo se llevó una mano al pecho.
 
 —Me hieren en mi propia casa.
 
-Chiara miró a Kal. Él no estaba jugando al gracioso. Estaba quitándole brillo a la mesa para ver qué quedaba debajo.
+Chiara lo miró. Kal no estaba jugando al gracioso. Estaba quitándole brillo a la mesa para ver qué quedaba debajo.
 
 Tommaso entrelazó los dedos.
 
@@ -606,13 +577,13 @@ Tommaso entrelazó los dedos.
 
 —Es una forma de cobrar menos impuestos por decir lo mismo.
 
-Elise levantó el bolígrafo y luego decidió no escribir. Chiara notó que Kal también lo había visto.
+Elise levantó el bolígrafo y luego decidió no escribir. Kal vio que Chiara también lo había notado.
 
 Tommaso dejó de girar el anillo.
 
 —¿Y qué cree que puede hacer por un casino, señor Mercer?
 
-Kal miró la mesa antes de contestar. No por nervios. Por orden.
+Kal miró la mesa antes de contestar.
 
 —Depende de qué problema tenga el casino.
 
@@ -660,7 +631,7 @@ Kal lo miró por primera vez.
 
 —Entonces fui generoso.
 
-Chiara sintió el gesto antes de pensarlo: la atención, limpia, completa. No admiración. No todavía. Algo más útil. Alguien había entrado a la sala y había rechazado el papel que le dieron sin hacer escándalo. No por orgullo. Por precisión.
+Kal sintió la atención de Chiara antes de verla: limpia, completa. No era admiración. Era algo más útil.
 
 Tommaso dejó pasar un segundo.
 
@@ -700,8 +671,6 @@ Kal volteó hacia ella. No parecía sorprendido de que hubiera hablado; parecía
 
 —Mi nombre va en la factura.
 
-La respuesta le gustó por un motivo incómodo: era de alguien que entendía la versión pública como activo, no como decoración. Un mecánico del sur que hablaba de su nombre como quien habla de una garantía. Un hombre vestido de empresario que no parecía creer del todo en el traje, pero sí en la firma.
-
 Tommaso miró la cabecera vacía.
 
 —Demasiado listo.
@@ -714,7 +683,7 @@ Kal lo oyó. Chiara también. Y la frase se quedó en la mesa, esperando a un ho
 
 —Depende de quién la administre —dijo Tommaso.
 
-Kal se acomodó el saco. Fue un gesto mínimo, pero a Chiara le pareció que el traje le pesaba más desde hacía tres minutos.
+Kal se acomodó el saco. El traje le pesaba más desde hacía tres minutos.
 
 —Si buscan a alguien que no vea, hay talleres más baratos.
 
@@ -728,7 +697,7 @@ Tommaso le concedió una sonrisa de cortesía.
 
 Ahí estaba. La sala entera obedeció a la palabra sin moverse.
 
-Kal no discutió. Chiara agradeció eso antes de preguntarse por qué. Kal la leyó como pared y buscó la puerta.
+Kal no discutió la palabra. La leyó como pared y buscó la puerta.
 
 —Entonces autoricen una prueba —dijo—. Treinta días. Dos unidades. Mantenimiento y emergencias. Si llego tarde una vez, llaman a otro. Si alguno de mis hombres habla, llaman a otro. Si una factura no sirve, llaman a otro. Si todo funciona, hablamos de lo demás.
 
@@ -744,7 +713,7 @@ Kal asintió una vez.
 
 —Claro.
 
-No vendió más. No pidió otra oportunidad. No ofreció bajar el precio. Chiara archivó eso con más cuidado que lo anterior.
+No vendió más. No pidió otra oportunidad. No ofreció bajar el precio.
 
 Matteo lo acompañó hacia la puerta con una prisa social que intentaba convertir el rechazo en pausa.
 
@@ -763,6 +732,8 @@ Ella sostuvo su mirada.
 —Señor Mercer.
 
 La puerta se cerró detrás de él.
+
+***
 
 Matteo no volvió a sentarse.
 
@@ -908,13 +879,13 @@ Corrado abrió un espacio a su lado, como si la pared pudiera recibir una decisi
 
 La memoria cambió de luz.
 
-La misma tarde, o quizá otra de la que sólo había sobrevivido el ruido, Chiara sostenía una cámara de video vieja y pesada contra el pecho. La fiesta estaba llena de adultos que hablaban demasiado alto, niños que corrían entre las piernas y música que hacía vibrar los vasos sobre la mesa. Vitto le había pisado un pie. Ella no había dejado de grabar.
+La misma tarde, o quizá otra de la que sólo había sobrevivido el ruido, Chiara sostenía una cámara de video vieja y pesada contra el pecho. La fiesta estaba llena de adultos que hablaban demasiado alto, niños que corrían entre las piernas y música que hacía vibrar los vasos sobre la mesa. Fabrizio le había pisado un pie. Ella no había dejado de grabar.
 
 Corrado y Marta bailaban en el centro del salón. No bailaban bien. Bailaban como si eso no tuviera ninguna relación con hacerlo bien.
 
 —No bailes tan seria, Chiara, y deja la cámara.
 
-—Sono concentrata y Vitto me ha pisado.
+—Sono concentrata y Fabrizio me ha pisado.
 
 Corrado extendió una mano hacia el objetivo, pero Chiara se apartó justo a tiempo. La imagen se inclinó, atrapó el techo, volvió a encontrar a su madre y después el rostro de su padre, que sonreía con la paciencia de quien sabe que va a ser obedecido más tarde.
 

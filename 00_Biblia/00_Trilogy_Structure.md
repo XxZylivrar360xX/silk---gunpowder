@@ -188,7 +188,7 @@ Abre **inmediatamente después** del *"Ciao, bella"* que cierra el Libro I: la r
 
 ## Estructura por Partes
 
-`Parte I — Nieve y Ceniza` (reconciliación, Tommaso, Ren Wei, Navidad/collar, incendio del loft) → `Parte II — Exilio` (Año Nuevo/F4, F3, F2 — Mei-Lin y Riley el mismo día —, Villa Candelaria, Stavanger/anillo) → `Parte III — Torna a Casa` (conflicto final, Silas Crowe, embarazo, H1, reveal, coda Halbrook). Desarrollo completo en [[01_Timeline/03_Libro_02_Sombras_De_Poder]] y [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]].
+`Parte I — Nieve y Ceniza` (reconciliación, Tommaso, Ren Wei, Navidad/collar, Año Nuevo/F4 separados [canon 2026-09-26], incendio del loft) → `Parte II — Exilio` (F3, F2 — Mei-Lin y Riley el mismo día —, Villa Candelaria, Stavanger/anillo) → `Parte III — Torna a Casa` (conflicto final, Silas Crowe, embarazo, H1, reveal, coda Halbrook). Desarrollo completo en [[01_Timeline/03_Libro_02_Sombras_De_Poder]] y [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]].
 
 ## H1 — El regreso a casa
 

@@ -6,7 +6,7 @@ Actualizado: 2026-09-21. Lectura por tema, no de arranque. Extraído de pendient
 
 > **PENDIENTE:** reconciliación integral de los Book Maps y Hitos con [[00_Biblia/00_Trilogy_Structure]], [[01_Timeline/02_Libro_01_Seda_y_Polvora]] y el plan de cierre de III. Usar los Book Maps para detalle; no volver a expandir fases/beats históricos. Revisar carpetas vestigiales sin borrarlas por iniciativa.
 
-- Reconciliar F4 juntos con el material heredado de Washington/Anya; viejo disparador de caída de Silas → Stavanger; alias italiano Riley Ardizzone/Colombo.
+- F4/Anya resuelto (2026-09-26, separados, antes del incendio). Pendiente: viejo disparador de caída de Silas → Stavanger; alias italiano Riley Ardizzone/Colombo.
 - Precisar distancia F4/F3/F2 y consolidación de Villa al cerrar V; logística de Villa y ejecución de Stavanger. Mantener el orden macro aprobado.
 - Definir contenido de la amenaza de Crowe, mecanismo de su caída y momento de cobro de la mentira de fuga de gas de H8.
 - Reconciliar Corrado vivo en fichas, relación, Il Consorzio, Meridian, Ettore, reparto y revelaciones, además de formulaciones heredadas de capítulos 2 y 10. Rediseñar la herida federal y función de Ettore, no hacer sustitución mecánica.
@@ -19,12 +19,13 @@ Actualizado: 2026-09-21. Lectura por tema, no de arranque. Extraído de pendient
 
 - F2: información exacta, frecuencia, daño y descubrimiento de las filtraciones de Mei-Lin; conflicto de Riley. La traición por coerción/miedo y la cadena Tommaso → Varek ya están fijadas.
 - H1: adversario/coalición y una intervención concreta de la infraestructura negable de La Mesa que vuelva inevitable el ataque y deje huella investigable.
-- F4/Anya: favor exacto en Washington. F3: ejecutor material del sabotaje. Unión invisible: quién la filtra o rompe.
+- F4/Anya: qué sabe Anya del patrón Halbrook en el programa de veteranos. F3: ejecutor material del sabotaje. Unión invisible: quién la filtra o rompe.
 - Segundo atentado: lugar, mecanismo y consecuencias; conservar la coacción de Fabrizio y el 2x1 no planeado. No adelantar prueba concluyente Volpi–Varek en Libros I–II.
 - Elio/Matteo: destino de Elio, qué descubrió, nota privada; evidencia, costo y motivo/momento del regreso de Matteo. Nombre, oficio y Génova ya fijados.
 - El Faro: equipo mínimo. Fabrizio/Tommaso: verificar confirmación de nombres/peso frente a fichas y plan recientes.
 - La Casa: por qué los Mercer dejaron de poseerla; si Chiara sabe su origen mientras la diseña. No bloquea el capítulo aprobado del loft.
 - Libro I, Parte II: nombre/ubicación de cascadas y río norte, formación rocosa y ganador de pesca; beneficio de Halbrook y relación directa con Varek; tercera línea que Chiara oculta. Los papeles de Nadir quedan pendiendo deliberadamente.
+- Nadir y la moto (DISEÑO 2026-09-26, [[13_Auditorias/Book_01_Seda_y_Polvora/Evaluacion_Arco_Libro_I#5-sexies. Nadir y la moto (DISEÑO aprobado en concepto por el autor, 2026-09-26; sin prosa)|5-sexies]]): capítulo de la Parte I antes del 25 y si el pago en el 42 lleva línea o sólo conducta.
 - Origen del talento de Kal al piano; no inventarlo desde su aparición en el 38.
 - Yegua: procedencia exacta abierta; verificar Stella con el autor como indica PENDING. Regalo de cámara de Héctor a Chiara: momento, mecanismo y prosa.
 - Villani Motors: verificar ejecución de compra/venta del auto y siembra de adquisición del local antes de dar por vigente el antiguo encargo de redactarlas.

@@ -49,11 +49,13 @@ Trabaja mientras habla, como Kal — pero donde Kal minimiza, Héctor pincha. Es
 - **Mintiendo:** casi no lo hace; calla antes que mentir.
 - **Relación con el silencio:** lo usa como sentencia. Un silencio suyo pesa más que un grito de otro.
 - **Arma conversacional preferida:** quitarle al otro la excusa. "No es tuyo decidir de qué la cuidas. Es de ella."
+- **Cuándo habla y cuándo calla (canon del autor, 2026-09-26):** Héctor mide cuándo Kal necesita oír algo y cuándo le conviene callar para que Kal lo descubra solo. Su silencio no es falta de palabras: es una decisión pedagógica (Cap. 3, en la tumba de Jim, sólo le pone la mano en el hombro a Walt).
+- **Sarcasmo al revés:** atribuye un defecto que el otro no tiene para ridiculizarlo. "Temperamental y poca paciencia" (Cap. 3) sobre Dario, que es todo calma, dicho entre hombres que funcionan con paciencia.
 - **Evasión típica:** el chiste seco sobre su edad o sobre el trabajo acumulado.
 
 ## Muestra
 
-—No venimos de la escuela. Sabemos leer.
+—No venimos de la escuela. Sabemos leer. *(Ya no está en la prosa: se cortó con la escena del chofer del Cap. 1 el 2026-09-26. Se conserva como muestra de voz.)*
 
 —Los papeles los ve Garrett. La gente la veo yo.
 

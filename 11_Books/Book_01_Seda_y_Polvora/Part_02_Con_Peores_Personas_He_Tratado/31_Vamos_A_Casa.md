@@ -25,6 +25,7 @@ Función: CANON DEL AUTOR. Ejecuta H7 — El lago, cierre del arco H5-H7 y de la
 Continuidad:
 - Registro privado todavía en semilla (pre-H16): calidez de conducta, italiano suelto de ella, sin apodos plenos, sin ritual del Ciao.
 - VEHÍCULOS: Kal conduce el Audi todo el capítulo (ida y vuelta). Chiara llega y se va con él — su Lancia se queda en el Monarch, nunca llega al lago. Sin Peugeot.
+- INSERCIÓN BORRADOR (2026-09-26, Claude Code, decisión del autor sobre la quinta tanda de [[13_Auditorias/Book_01_Seda_y_Polvora/Evaluacion_Arco_Libro_I]]): beat de fe en la parrilla de Héctor, entre la pesca y "Kal la sacó del grupo". Chiara se persigna; Nadir dice *bismillah*; Kal bromea ("Pídele que te cuente bien los peces") y ella contesta "A Dios no se le piden esas cosas"; Kal deja el tenedor quieto hasta que ella termina. Contrapunto de Alessio: Kal puede bromear con su fe, nunca la usa ni la desprecia ([[04_Concepts/Fe_y_Velas]]). Sin glosa: no se menciona que esa mañana (Cap. 28) ella rezó por él. Pendiente de revisión del autor.
 -->
 
 # Capítulo 31 — Vamos a casa
@@ -240,6 +241,20 @@ Chiara, con tres peces propios que a esas alturas ya nadie recordaba bien cómo 
 —Yo no juzgo nada. Yo como lo que agarren.
 
 Para cuando el sol empezó a bajar, el marcador seguía tan disputado como al principio, con Danny acusando a Nadir de contar dos veces el mismo pez y Nadir jurando por su madre que no, y nadie —ni siquiera Chiara, que en cualquier otro terreno hubiera cerrado la discusión en diez segundos con una versión que todos aceptaran— tuvo ningún interés real en resolverlo. La discusión, entendió, era el punto. Resolverla la hubiera matado.
+
+***
+
+Héctor golpeó la parrilla con la espátula y la competencia se suspendió sin que nadie la diera por terminada. Comieron de pie o sentados en las hieleras, con los platos de cartón doblándose bajo el pescado.
+
+Chiara se persignó antes de probar nada y bajó la cabeza un momento. A su lado, Nadir murmuró *bismillah* sobre su plato y empezó a comer.
+
+—Aprovecha —dijo Kal—. Pídele que te cuente bien los peces.
+
+—A Dios no se le piden esas cosas —contestó ella, sin levantar la cabeza.
+
+Kal dejó el tenedor quieto sobre el plato. No lo levantó hasta que ella volvió a persignarse.
+
+Del otro lado de la parrilla, Danny ya iba por el segundo pescado.
 
 ***
 

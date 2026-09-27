@@ -86,6 +86,8 @@ Cada vez que Kal sale a "trabajar", ella detiene lo que estaba haciendo y encien
 
 El ritual nace después del Año Nuevo en Washington: la noche en que Kal viaja por una deuda con [[02_Characters/Anya_Voronina]] y Chiara entiende, con demasiada claridad, que amarlo también significa verlo elegir obligaciones que lo destruyen. Ver [[06_Relationships/Momentos_de_Fractura]], F4.
 
+> **CANON DEL AUTOR (2026-09-26):** entre el 31 de diciembre y el 2 de enero de F4 (Libro II) está **la única vez en la saga en que Chiara deja de cuidar su imagen**: un chongo improvisado, el maquillaje corrido y nada de glamour. Kal vuelve y la encuentra así. Ver [[02_Characters/Anya_Voronina]].
+
 ### Las cartas — CANON DEL AUTOR (2026-08-26), BASE DE ARCO RESERVADO
 
 **Chiara escribe cartas para decir lo que importa.** No es un recurso ocasional: es su medio de comunicación real, el que usa cuando algo de verdad necesita quedar dicho y no simplemente hablado. Habla mucho — pero **escribe lo que pesa.**
@@ -174,7 +176,7 @@ Su canción es *Un anno d'amore*, de Mina. **No es una canción que le guste: es
 
 La relación terminó convirtiéndolo en **persona non grata en su vida**. Y en algún punto ocurrió el incidente definitivo:
 
-> **Chiara lo apuñaló. Alessio murió.**
+> **Chiara le disparó con su propia pistola. Alessio murió.** *(Corregido 2026-09-26, canon del autor: antes decía "apuñaló"; la escena de la muerte escrita por el autor lo fija como disparo con la pistola personal de Alessio.)*
 
 **Alguien construyó la versión que la salvó** — porque la verdad no sólo la habría destruido ante la justicia: una Ardizzone/Bellandi matando a un Lusardi puede volverse un problema entre familias, y [[03_Factions/Il_Consorzio]] habría tenido preguntas. Alessio fue encontrado muerto en su residencia, Chiara quedó fuera de la escena, los informes coincidieron, y el asunto quedó formalmente cerrado.
 
@@ -221,6 +223,8 @@ Nunca fue de las que dan órdenes. Fue de las que **deciden qué se supo**. Cobr
 La mandan. No huye — o al menos ésa es la versión, y la versión la escribió ella. Viene a sostener la imagen de un negocio que no es suyo, con la instrucción explícita de no llamar la atención y de irse cuando termine.
 
 > **RESUELTO (2026-09-12), escrito en prosa en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/02_Demasiado_Listo|Cap. 2]]:** quien la manda es **Il Consorzio**, no Varek ni su propia familia por iniciativa propia. La orden llega semanas antes, de noche, en un despacho de Nueva York: **[[02_Characters/Leone_Valenti]]** ("Il Consigliere") le informa que un socio de San Aurelio (fuertemente insinuado como [[02_Characters/Dario_Varek]], nunca nombrado en prosa) requirió respaldo a cambio de lo que Il Consorzio necesitaba en esa costa, y que Il Consorzio aceptó. Su tarea asignada: **"Dirigir y observar. Nada más."** — que ella entiende de inmediato como vigilancia para el Consorcio, disfrazada de administración de imagen. Valenti nunca dice el nombre del socio ni el precio exacto (regla de escritura del personaje: la consecuencia y el motivo real no se explican en la conversación donde se deciden). Chiara obedece sin discutir, pero un párrafo después se cuenta a sí misma una versión más liviana del encargo ("unos días para ordenar un casino... y volver a casa") — primera nota de su fricción de fondo con la autoridad del Consorcio, nunca declarada como desacuerdo abierto.
+
+> **CANON DEL AUTOR (2026-09-26):** antes de San Aurelio, Chiara administraba casinos propiedad de Il Consorzio en Nueva York. La orden de viajar se la da Il Consigliere en el salón privado de uno de ellos (Cap. 2). Por eso llega sabiendo leer un casino por dentro.
 
 **El negocio es [[03_Factions/El_Casino]]**, y llega de Italia con los otros socios. Ver [[06_Relationships/Hitos]], H2.
 

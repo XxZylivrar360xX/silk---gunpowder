@@ -420,7 +420,7 @@ Matteo se acercó a Chiara.
 
 Chiara miró hacia la salida de carga, donde las luces de la grúa se perdían en Terminal Road.
 
-—Entonces mañana sabrá que alguien sí trabajó.
+—Entonces mañana sabrá que alguien sí trabajó. Ciao, tesoro.
 
 Matteo volvió adentro. Ella se quedó en la rampa un momento más.
 

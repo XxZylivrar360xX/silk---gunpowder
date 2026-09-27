@@ -19,6 +19,7 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 - [[02_Characters/Anya_Voronina]] — contacto rusa de Washington; amor pasado de Kal en Afganistán y deuda por los papeles de Nadir.
 - [[02_Characters/Daniel_Hayes]] — Danny; amigo del barrio y dueño de Rocco.
 - [[02_Characters/Walter_Keegan]] — amigo del padre de Kal, recién salido de prisión.
+- [[02_Characters/Natalie_Keegan]] — hija menor de Walt; bombera-paramédica (Libro I: salida de Walt; Libro II: recurrente).
 - [[02_Characters/Marisol_Grayson]] — hija de Michael; termómetro moral de Kal.
 - [[02_Characters/Michael_Grayson]] — viejo amigo militar de Kal; muerto de cáncer.
 - [[02_Characters/Blake_Stanton]] — policía; error de identificación de Chiara.

@@ -1,5 +1,6 @@
 <!--
 Estado: TERMINADO.
+Cirugía editorial extraordinaria 2026-09-26 (autorizada por el autor, sigue TERMINADO): poda de la deuda interior repetida del Cap. 4, glosas, tres saltos de POV, eco huérfano, segunda ronda de burlas de la familia; Nadir huele la colonia en casa y la cobra en la acera (H2-a); siembra aprobada de Fabrizio como llamada en la escena del proveedor. Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_05_Una_Amiga.md §11.
 Protagonistas: Chiara Bellandi, Kal Mercer.
 Ventana temporal: dias/semanas posteriores al primer favor, hasta la primera noche que ninguno de los dos llama cita.
 Lugares: The Monarch Casino & Hotel, La Almendra, centro de San Aurelio, Il Gelsomino.
@@ -20,14 +21,6 @@ Era impecable, aburrida y enseñable.
 Eso la irritó un poco menos de lo que la tranquilizó.
 
 Le transfirió el pago desde una cuenta operativa menor del Monarch y guardó el archivo en una carpeta que no se llamaba Mercer. Después se quedó mirando la pantalla.
-
-El problema no era pagar.
-
-El problema era que el dinero no cerraba la cuenta.
-
-Kal no había cobrado el momento en que Varga bajó la voz. No había cobrado el ángulo desde el que se colocó entre el hombre y la grúa. No había cobrado haber entendido que el problema no era el coche sino el video, la mesera llorando, la puerta de carga bloqueada y el nombre de Dario a punto de usarse como arma barata.
-
-La factura cobraba metal; el resto quedaba flotando.
 
 Chiara odiaba las deudas que no sabían ponerse un número.
 
@@ -93,7 +86,7 @@ Chiara miró la ciudad por el vidrio.
 
 —¿Quiere que lo revise?
 
-Otra vez esa palabra. Quiere. No necesita. No le pidió una orden ni le ofreció rescatar nada.
+Quiere. No necesita. No le pidió una orden ni le ofreció rescatar nada.
 
 —¿Cuánto cobra?
 
@@ -112,8 +105,6 @@ Eso ya era más aceptable.
 —¿Perdón?
 
 —Si le mando una propuesta, alguien puede leerla. Si quiere que no parezca problema del casino, no lo convierta en contrato del casino.
-
-Chiara cerró los ojos.
 
 Otra vez tenía razón.
 
@@ -187,7 +178,7 @@ Kal la miró.
 
 —Entonces no acepte.
 
-La respuesta la alcanzó mal. No porque fuera dura, sino porque le devolvía la decisión completa. Kal ponía la herramienta sobre la mesa y se iba antes de pedir que se la agradecieran.
+La respuesta la alcanzó mal. No porque fuera dura, sino porque le devolvía la decisión completa.
 
 —Usted sabe que no es tan simple.
 
@@ -233,11 +224,9 @@ Chiara recuperó la cara antes de que el gesto se volviera demasiado privado.
 
 —No es suyo.
 
-Fue una frase simple, dicha sin intención de herir, y por eso llegó hasta el fondo.
-
 Chiara no contestó.
 
-Kal entendió tarde que había tocado algo, pero no intentó arreglarlo con palabras. Eso lo salvó.
+Kal no intentó arreglarlo con palabras. Eso lo salvó.
 
 —Buenas tardes, señora Bellandi.
 
@@ -247,7 +236,7 @@ Ella asintió y subió por el elevador de servicio, molesta con él por haber di
 
 Con las semanas, Kal empezó a pasar por el Monarch sin que hubiera siempre una emergencia.
 
-Al principio era trabajo. Una firma. Una factura. Un coche. Un nombre que debía dejar de estar en una lista o aparecer en otra. Después empezó a llevar pequeñas cosas que no parecían regalos porque venían disfrazadas de utilidad: un contacto de lavandería que sí contestaba de madrugada, el número de una empresa de hielo que no duplicaba recibos.
+A veces llevaba pequeñas cosas que no parecían regalos porque venían disfrazadas de utilidad: un contacto de lavandería que sí contestaba de madrugada, el número de una empresa de hielo que no duplicaba recibos.
 
 Y una bisagra.
 
@@ -297,7 +286,7 @@ No aceptó cuando no había concepto.
 
 —No todo.
 
-—Eso lo decide usted?
+—¿Eso lo decide usted?
 
 —Cuando yo soy la que queda debiendo, sí.
 
@@ -347,7 +336,7 @@ Chiara no preguntó más. Aprendía rápido dónde había puerta y dónde había
 
 —¿Le alcanza?
 
-Kal bebió café. Estaba malo. Lo agradeció porque le dio algo que odiar sin consecuencias.
+Kal bebió café. Estaba malo.
 
 —No sé todavía.
 
@@ -401,8 +390,6 @@ Tommaso sonrió tarde.
 
 —Alessio también decía eso.
 
-La frase fue pequeña y vulgar. Justo por eso funcionó.
-
 Chiara no le dio el gusto de tocarse el anular.
 
 —No vuelvas a traerlo a una conversación de proveedores.
@@ -427,7 +414,7 @@ Lo dijo sin énfasis, como quien devuelve un objeto prestado. No dijo *la verdad
 
 —Por supuesto. Y la repito muy bien. Llevo años repitiéndola.
 
-No la había acusado de nada. No había preguntado nada. Ni siquiera había dicho que no le creyera. Sólo había dejado sobre la mesa que la versión que la sostenía dependía, en una parte pequeña y perfectamente educada, de un hombre cada vez menos contento con ella en las juntas. El nombre había sido un timbre; esto era una mano puesta en la llave.
+Había dejado sobre la mesa que la versión que la sostenía dependía, en una parte pequeña y perfectamente educada, de un hombre cada vez menos contento con ella en las juntas. El nombre había sido un timbre; esto era una mano puesta en la llave.
 
 Pasó junto a él y entró al elevador antes de que la furia se le acomodara demasiado bien en la cara.
 
@@ -453,7 +440,7 @@ Apagó la luz de la oficina.
 
 La conversación con Tommaso no la sacó de trabajo. La metió más adentro.
 
-En la oficina administrativa abrió el registro de accesos de servicio de las últimas semanas y lo leyó como leía un balance: buscando el renglón que se repetía. Ahí estaba. Almendra Towing, una grúa. Almendra Towing, una camioneta prestada. Un tal Omar con uniforme limpio y una factura sin nada interesante. Una batería muerta que no lo estaba. Cada entrada venía entre paréntesis, con la misma nota de seguridad al margen —*visitante no programado, autorizado en sitio*—, y cada nota era una piedra que alguien como Tommaso podía levantar dentro de seis meses para ver qué había debajo.
+En la oficina administrativa abrió el registro de accesos de servicio de las últimas semanas y lo leyó como leía un balance: buscando el renglón que se repetía. Ahí estaba: la grúa, la camioneta prestada, Omar con su factura sin nada interesante, una batería muerta que no lo estaba. Cada entrada venía entre paréntesis, con la misma nota de seguridad al margen —*visitante no programado, autorizado en sitio*—, y cada nota era una piedra que alguien como Tommaso podía levantar dentro de seis meses para ver qué había debajo.
 
 El problema no era que Kal entrara. Era que entraba como excepción, y las excepciones se acumulan hasta que alguien se sienta a contarlas.
 
@@ -461,13 +448,21 @@ Lo corrigió antes de que existiera la pregunta.
 
 Almendra Towing tenía licencia municipal, seguro al día y una flota que ya trabajaba media ciudad. Convertirla en el proveedor externo de remolque y asistencia vehicular del Monarch entraba, con holgura, en lo que ella podía firmar sin llevar nada a junta. Redactó la autorización en el lenguaje más aburrido que encontró —tarifa por acto, respuesta en veinticuatro horas, ingreso por Terminal Road, facturación a fin de mes— y la archivó entre el contrato de lavandería y el de hielo, donde nadie leía porque nadie quería.
 
-No lo hizo socio. No contradijo el "no" de la mesa: aquello había sido sobre el casino; esto era una grúa. Su nombre no quedó en ningún lugar donde no estuviera también el de una empresa de toallas.
+El nombre de Kal no quedó en ningún lugar donde no estuviera también el de una empresa de toallas.
 
 Firmó, y se quedó un segundo con el cursor encima antes de mandarlo, porque poner su firma sobre la palabra *Almendra* era escribirse un renglón propio en un registro que otros también leían.
 
 Lo mandó.
 
-La siguiente vez que Kal cruzó la caseta de la salida de carga, el guardia no salió a preguntarle nada: miró una pantalla, miró la placa, levantó la pluma. Chiara lo vio desde el muelle. Vio también que Kal se quedaba un segundo con el pie en el freno antes de avanzar, como si la pluma levantada fuera un dato que había que verificar.
+A la media hora, Fabrizio la llamó.
+
+—¿Una grúa, Ardizzone?
+
+—Una grúa.
+
+—Bene. Entonces yo también leí una grúa.
+
+La siguiente vez que Kal cruzó la caseta de la salida de carga, el guardia no salió a preguntarle nada: miró una pantalla, miró la placa, levantó la pluma. Chiara lo vio desde el muelle. Vio también que Kal se quedaba un segundo con el pie en el freno antes de avanzar.
 
 Bajó cuando él ya tenía el cofre de un coche abierto y se limpiaba las manos con un trapo, mirando la caseta como quien revisa una junta nueva para ver si va a aguantar el invierno.
 
@@ -609,18 +604,6 @@ Eso se dijo.
 
 Luego se puso una camisa limpia, saco oscuro, zapatos que no eran tenis y una fragancia que Nadir olió desde la cocina de la casa común.
 
-—No.
-
-Kal tomó las llaves.
-
-—¿Qué?
-
-—Eso.
-
-—Es colonia.
-
-—Eso es rendición.
-
 Danny apareció detrás de él con Rocco, que llevaba un pañuelo rojo en el cuello y la dignidad confusa de un animal al que nadie le pidió opinión.
 
 —Si mi perro vuelve hablando italiano, me lo pagas.
@@ -642,28 +625,6 @@ Kal se sorprendió.
 —¿Bien?
 
 —Si fuera tuya, tendría que preguntarte de dónde sacaste esa pendejada.
-
-Nadir le dio una palmada a Rocco.
-
-—Pata.
-
-Rocco levantó la pata.
-
-Los cuatro se quedaron mirando.
-
-Danny se llevó una mano al pecho.
-
-—Traidor.
-
-Kal tomó la correa.
-
-—Vuelvo tarde.
-
-—Claro —dijo Nadir—. Con una amiga.
-
-Kal no respondió.
-
-Eso fue suficiente para que los tres sonrieran.
 
 ***
 
@@ -803,9 +764,9 @@ Chiara lo miró con una atención que ya no intentaba disimular del todo.
 
 —Usted habla de piezas como si fueran versiones.
 
-—Touche.
+—Touché.
 
-—Eso cuenta como italiano?
+—¿Eso cuenta como italiano?
 
 —Francés.
 
@@ -844,8 +805,6 @@ Ella sonrió apenas.
 Kal dobló la servilleta.
 
 —No todo.
-
-La respuesta le gustó a ella porque no era explicación. Le gustó más porque no pidió nada a cambio.
 
 ***
 
@@ -909,6 +868,10 @@ Danny olfateó el aire.
 
 Chiara sí se rió.
 
+—Ciao, tesoro.
+
+Nadir se llevó una mano al pecho.
+
 Kal abrió la puerta de la camioneta con demasiada eficiencia. Rocco subió, luego Chiara. Antes de cerrar, ella miró a Nadir y Danny.
 
 —Cuídenlo.
@@ -942,10 +905,6 @@ Chiara esperó a que giraran la esquina.
 —No era una pregunta difícil.
 
 Ella miró por la ventana, sonriendo hacia la calle.
-
-No le preguntó por la tarde con Rocco.
-
-Kal lo agradeció tanto que casi se le notó.
 
 ***
 

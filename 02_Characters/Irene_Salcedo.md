@@ -19,6 +19,8 @@ Primera fricción directa entre El Patio y La Ronda del Canal — ver [[03_Facti
 
 ## Pendientes
 
-> **PENDIENTE:** edad exacta, apariencia física, historia previa a la cabeza de La Ronda, y si vuelve a aparecer después de esta negociación o queda como relación neutral cerrada.
+> **CANON DEL AUTOR (2026-09-26):** Irene y Tomás Vale (sin ficha todavía) vuelven en *Sombras de Poder* (Libro II). El trato que Irene termina pactando con Kal es el parteaguas de ese arco. Segunda aparición en el Libro I: Cap. 32, por el sedán de Halbrook en sus rutas (nivel medio: Nadir sale de la mercancía y Kal acepta deberle un favor). Diseño en [[13_Auditorias/Book_01_Seda_y_Polvora/Evaluacion_Arco_Libro_I#5-ter. El robo de la bodega (Caps. 15 y 17) e Irene en el 32 (2026-09-26)|Evaluación de arco, 5-ter]].
+>
+> **PENDIENTE:** edad exacta, apariencia física e historia previa a la cabeza de La Ronda.
 
 Ver también [[03_Factions/La_Ronda_del_Canal]], [[02_Characters/Kal_Mercer]], [[02_Characters/Walter_Keegan]].
