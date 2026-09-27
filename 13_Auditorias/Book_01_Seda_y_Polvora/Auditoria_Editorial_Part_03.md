@@ -7,6 +7,20 @@
 **Extensión aproximada actual:** **31,677 palabras**  
 **Estado:** redacción completa / pendiente de cierre editorial definitivo
 
+> **AVANCE DE LA EJECUCIÓN** (lo mantiene el agente; encargo [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_III]], cerrado 2026-09-27)
+>
+> | Etapa | Caps. | Estado | Mapa |
+> |---|---|---|---|
+> | E1–E4 | 35–44 | AUDIT hecho; el autor aprobó todas las recomendaciones (Q1–Q19, Anya y P3 incluidas) (2026-09-27) | [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_35-44_Parte_III]] |
+> | E5 | 35–37 | SURGERY hecha, −264; coda de las invitaciones al final del 36; Héctor desmedicalizado; "Sin duda alguna" restaurada; siguen BORRADOR | § 9 parte 1 |
+> | E6 | 38 | SURGERY hecha, −843 (8,628 → 7,785); vela retirada; el rango 5,500–6,500 no se alcanzó sin tocar inviolables; sigue BORRADOR | § 9 parte 2 |
+> | E7 | 39–41 | SURGERY hecha, −291; "un par de días más" restaurado; Riley sin confidencia sobrante; P3 (+13); siguen BORRADOR | § 9 parte 3 |
+> | E8 | 42–44 + housekeeping | SURGERY hecha, −142; housekeeping por desfase hecho; "Parte IV" en H8 de Hitos anotado para el autor | § 9 parte 4 |
+> | E9 | 35 | Escena de Anya en el Monarch escrita (+573): **BORRADOR/DISEÑO hasta lectura del autor** | § 9 parte 5 |
+>
+> Los diez capítulos siguen en **BORRADOR**. Parte III: 31,999 → 31,032 (−967, con Anya); sin Anya, −1,540. EPUB no regenerado.
+
+
 ---
 
 # DICTAMEN GENERAL
@@ -1321,16 +1335,16 @@ No buscar cambios porque sí.
 
 Antes de cierre definitivo:
 
-- sincronizar títulos 36–38;
-- eliminar referencias a Parte IV dentro de Libro I;
-- trasladar Cap. 45 documentalmente a *Sombras de Poder*;
-- actualizar `00_Plan_Cierre_Parte_III.md`;
-- actualizar `00_Book_Map.md`;
-- retirar vela prematura del 38;
-- decidir Stella como canon o cambiar nombre;
-- revisar metadata del origen de Romanée-Conti;
-- consolidar firma conductual de Riley;
-- marcar 35–44 como cerrados sólo después de la pasada editorial.
+- ✅ sincronizar títulos 36–38; *(E5–E6: confirmados por el autor y sin "(título provisional)" impreso)*
+- ✅ eliminar referencias a Parte IV dentro de Libro I; *(E8: Plan de cierre y metadata; en parte: "Parte IV" en H8 de Hitos no es simple desfase, anotado para el autor)*
+- ✅ trasladar Cap. 45 documentalmente a *Sombras de Poder*; *(E8)*
+- ✅ actualizar `00_Plan_Cierre_Parte_III.md`; *(E8)*
+- ✅ actualizar `00_Book_Map.md`; *(E8 premisa; E9 entrada de 35–44)*
+- ✅ retirar vela prematura del 38; *(E6)*
+- ✅ decidir Stella como canon o cambiar nombre; *(canon, Q6)*
+- ✅ revisar metadata del origen de Romanée-Conti; *(E5)*
+- ✅ consolidar firma conductual de Riley; *(fuerte en el 38; variaciones en 37 y 41)*
+- ⏳ marcar 35–44 como cerrados sólo después de la pasada editorial. *(pasada hecha; el CLOSE queda para cuando lo pida el autor)*
 
 ---
 

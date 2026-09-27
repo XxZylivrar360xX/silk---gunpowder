@@ -1,8 +1,8 @@
 <!--
-Estado: BORRADOR — Parte III — Ardizzone, cuarto capítulo (Cap. 38 del manuscrito). Redactado 2026-09-20, Claude Code (modelo: Claude Opus 5), encargo detallado del autor; segunda pasada de correcciones del autor aplicada el mismo día por el mismo modelo. Título de trabajo "Al revés" — PROVISIONAL, no autorizado; el encargo prohíbe fijar automáticamente "Träumerei", "Mi amor del patio", "Palermo" o "La bala". Otros candidatos registrados: "Una noche en que todos caben", "Cuatro de la mañana", "A tierra".
-Protagonista: Chiara Bellandi (POV único hasta el cierre). **Salto de POV controlado y autorizado por el encargo** en la última sección (aeropuerto): la llamada de Marisol es de Kal y sus líneas canon tienen que oírse; no hay forma de narrarla desde Chiara sin perderlas. Es excepción puntual, igual que el muelle de carga del Cap. 36.
-Personajes con diálogo: Chiara Bellandi, Kal Mercer, Blake Stanton, Nadir Amrani, Héctor Navarro, Daniel "Danny" Hayes, Walter Keegan, Fabrizio Rinaldi, Tommaso Lusardi, Dario Varek, Marisol Grayson, Riley Bennett (parche 2026-09-21), el jefe de seguridad del Monarch (sin nombre), el piloto (sin nombre, una línea), los dos hombres de Il Consorzio (en el recuerdo, sin nombre).
-Cameos sin diálogo o con una línea: Harper Walker, Tyler Brooks, Mei-Lin Zhao (junto a Tyler, sin diálogo), Kenji Oda, gente del Monarch, la mesa del Departamento (un capitán y su gente), empresarios y contactos de la ciudad, los Ferretti.
+Estado: BORRADOR — Parte III — Ardizzone, cuarto capítulo (Cap. 38 del manuscrito). Redactado 2026-09-20, Claude Code (modelo: Claude Opus 5), encargo detallado del autor; segunda pasada de correcciones del autor aplicada el mismo día por el mismo modelo. Cirugía editorial E6 (2026-09-27, [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_35-44_Parte_III]] §9 parte 2): microedición firme, paquete P2 + P4 (Héctor/Walt; segunda ronda de Blake), vela retirada, bala abierta en la casa neutral (no en el Penthouse), "señora" en la línea canon de H13; sigue BORRADOR. Título **"Al revés" confirmado por el autor** (2026-09-27); "(título provisional)" retirado de la prosa.
+Protagonista: Chiara Bellandi (POV único hasta el cierre). **Salto de POV controlado y autorizado por el encargo** en la última sección (aeropuerto): la llamada de Marisol es de Kal y sus líneas canon tienen que oírse; no hay forma de narrarla desde Chiara sin perderlas. Es excepción puntual (el Cap. 36 también parte su POV: Kal en el muelle de carga, Chiara desde la llamada).
+Personajes con diálogo: Chiara Bellandi, Kal Mercer, Blake Stanton, Nadir Amrani, Héctor Navarro, Daniel "Danny" Hayes, Fabrizio Rinaldi, Tommaso Lusardi, Dario Varek, Marisol Grayson, Riley Bennett (parche 2026-09-21), el jefe de seguridad del Monarch (sin nombre), el piloto (sin nombre, una línea), los dos hombres de Il Consorzio (en el recuerdo, sin nombre).
+Cameos sin diálogo o con una línea: Walter Keegan (sólo nombrado desde E6: "Walt tiene una destilería", la botella de 613), Harper Walker, Tyler Brooks, Mei-Lin Zhao (junto a Tyler, sin diálogo), Kenji Oda, gente del Monarch, la mesa del Departamento (un capitán y su gente), empresarios y contactos de la ciudad, los Ferretti.
 Ausente, sentido: Matteo Bellacorte. **Riley Bennett y Mei-Lin Zhao (parche 2026-09-21, Claude Opus 5, encargo del autor sobre [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]):** aparecen brevemente entre el grupo de El Patio, en la sección coral (después de Héctor, antes de Marisol; ~350 palabras). Chiara tiene un primer intercambio funcional con Riley (un mesero bloqueado en el rellano; Riley ya sabe que la puerta de servicio de babor está sin candado porque "lo miró cuando subió"; Chiara le pregunta el nombre y le da la alternativa de proa) y registra su manera de leer salidas/espacio. Todavía no existe vínculo de protegida ni mentoría; la relación se funda en el Cap. 41, donde Chiara la busca. Mei-Lin sólo está junto a Tyler, sin diálogo.
 Ventana temporal: el viernes de la invitación del Cap. 35, después del Cap. 37. Comienza con la fiesta ya en marcha (nueve o diez de la noche), cierra la madrugada del sábado, alrededor de las cuatro — todavía noche cerrada; el "azul" de Kingsley Field es de pista, fluorescente y vidrio, no de amanecer (corrección del autor). Finales de noviembre / principios de diciembre — sin fecha fijada.
 Lugares: yate amarrado en una marina de [[05_Locations/San_Aurelio|La Isla]] (cubierta, proa, salón interior con piano, pasarela y muelle); [[05_Locations/Iglesia_Santa_Lucia]] y una casa neutral sin nombre (sólo en el recuerdo de H13); terminal privada de [[05_Locations/Kingsley_Field]] (cierre).
@@ -10,10 +10,10 @@ Función: celebración coral que se convierte en el gatillo del viaje a Palermo.
 
 - REGLA ESTRUCTURAL: sigue el encargo del autor (2026-09-20) al detalle y [[06_Relationships/Hitos#H13 — El pañuelo|H13]] para el contenido canon de la intercepción. Beats no divididos en capítulos distintos.
 - APERTURA POR RESIDUO del Cap. 35/37: la carta prometía "el día entero" antes de la fiesta — el capítulo abre con ese día ya gastado y la fiesta viva, sin resumir nada.
-- **Blake:** entra legítimamente — vino en el grupo del capitán del Departamento al que Chiara sí invitó. No burla seguridad; Chiara no queda incompetente. No es rival: su herida es ego. Chiara cierra la puerta sin frase cruel: "Terminé contigo por ti." Kal observa desde lejos y **no se acerca** hasta que Chiara ordena a seguridad que lo acompañen a tierra; sólo entonces dice "Yo lo acompaño". La escena Kal–Blake en el muelle se resuelve **sin romper el POV**: Chiara la oye desde la baranda sobre la pasarela. Kal: "Ella me lo contará si quiere." / "Buenas noches, Stanton." Sin amenaza, sin celos.
+- **Blake (E6):** sin la segunda ronda ("Eso no es verdad"…): Blake se queda después de "Terminé contigo por ti" y eso basta para la orden a seguridad; Kal–Blake en el muelle sin la insistencia repetida. **Blake:** entra legítimamente — vino en el grupo del capitán del Departamento al que Chiara sí invitó. No burla seguridad; Chiara no queda incompetente. No es rival: su herida es ego. Chiara cierra la puerta sin frase cruel: "Terminé contigo por ti." Kal observa desde lejos y **no se acerca** hasta que Chiara ordena a seguridad que lo acompañen a tierra; sólo entonces dice "Yo lo acompaño". La escena Kal–Blake en el muelle se resuelve **sin romper el POV**: Chiara la oye desde la baranda sobre la pasarela. Kal: "Ella me lo contará si quiere." / "Buenas noches, Stanton." Sin amenaza, sin celos.
 - **Piano:** primera revelación en prosa. Chiara no sabía. No se siembra antes en el capítulo. No se fija maestro, edad, nivel, motivo ni quién tenía el piano — Kal esquiva ("Desde antes"). Pieza obligatoria: *Träumerei*, Schumann; Kal la nombra, no hay exposición musicológica. Manos curtidas sobre teclas blancas, una vez, sin fetiche. **Elenna y el origen NO se mencionan.** Origen musical de Kal: sigue PENDIENTE.
 - **Roma Atrii:** pagado. ROMA al revés = AMOR; Kal lo entiende rápido. "¿Y Atrii?" → traducción canon de Chiara: **"Mi amor del patio."** Tratado como cifrado privado de ella, no como latín corregido. Kal repite "Del patio" y se lo guarda; **no se diseña conscientemente ningún nombre de organización** — el residuo queda dentro de Kal para uso futuro (origen del nombre El Patio, ver documentación).
-- **H13:** ejecutado como recuerdo dramatizado (no resumen en diálogo), compacto pero completo: iglesia → dos hombres → casa neutral → lógica de la Mesa → "signora Lusardi" → "—Ardizzone." → acusación → negación parcialmente cierta → pañuelo con "C" → bala → línea canon *"—Pon tu casa en orden, Sra. Ardizzone, o hablaremos de este Mercer tuyo."* (textual, sólo puntuación; la abreviatura "Sra." se conservó tal cual por la regla de no reescribir — señalar al autor si prefiere "señora"). Ocurrió "hace unos días", sin fijar cuántos (corrección del autor; la primera versión decía "anteayer"). **Lo que la Mesa sabe, acotado por el autor (segunda pasada):** que Matteo se fue, que Chiara "no se ha hecho más chica" desde entonces, y rumores de que reúne información y activos y de que "hay quien cree que está construyendo algo suyo". **No enumera** Kenji, periódico, viñedo ni círculo — la Mesa inquieta porque sabe demasiado, no porque lo sepa todo; Chiara no sabe cuánto de la mitad verdadera conocen de verdad.
+- **H13:** ejecutado como recuerdo dramatizado (no resumen en diálogo), compacto pero completo: iglesia → dos hombres → casa neutral → lógica de la Mesa → "signora Lusardi" → "—Ardizzone." → acusación → negación parcialmente cierta → pañuelo con "C" → bala → línea canon *"—Pon tu casa en orden, Sra. Ardizzone, o hablaremos de este Mercer tuyo."* (textual, sólo puntuación; "Sra." → "señora" por decisión del autor, Q9, 2026-09-27: sólo ortografía). Ocurrió "hace unos días", sin fijar cuántos (corrección del autor; la primera versión decía "anteayer"). **Lo que la Mesa sabe, acotado por el autor (segunda pasada):** que Matteo se fue, que Chiara "no se ha hecho más chica" desde entonces, y rumores de que reúne información y activos y de que "hay quien cree que está construyendo algo suyo". **No enumera** Kenji, periódico, viñedo ni círculo — la Mesa inquieta porque sabe demasiado, no porque lo sepa todo; Chiara no sabe cuánto de la mitad verdadera conocen de verdad.
 - Pañuelo y bala mostrados físicamente; Kal recibe la bala en la mano — es lo que lo decide, tal como fija el canon. **Sin forense** (corrección del autor): Kal la gira y dice "Es corriente" / "Que no nos lleva a nadie"; la ausencia de pista es el dato, no una munición imposible de rastrear. "Esto tampoco lleva a nadie. Pero el que lo mandó, sí." Conexión con H12 sin recap largo. Chiara **cree**, no afirma, que Il Consorzio estuvo detrás del atentado.
 - Tercera pasada (2026-09-20, pulido de línea conservador, encargo del autor, skill `editorial-surgery` modo SURGERY, Claude Opus 5): 24 intervenciones de superficie — repeticiones lexicales ("exactamente", "No hacía falta", "un momento largo", "barco alquilado"), glosa corporal en la proa, un residuo "otro barco" en el símil tras el piano, una inconsistencia física ("manos en el regazo" de pie), dos sobrepasos de focalización (Blake "entendió", Kal "sin darse cuenta"), poda de una imagen en el párrafo de las manos, "latón limpio" retirado por eco forense, "una sola luz" vs. fluorescente. Ningún beat, hecho, línea canon ni orden tocado. Detalle before/after en `CURRENT_BRIEF.md`.
 - Segunda pasada (correcciones del autor, misma fecha): cortada la glosa transaccional antes de "Está bien" ("la cuenta estaba de su lado") — Chiara sólo lo mira y decide; lo de Blake sin duración fijada ("Un tiempo") ni instrucciones de Palermo citadas; cortada la frase final "Ya no había nadie en la línea." — la última línea del capítulo es literalmente "—Espera... ¿cómo que estamos?".
@@ -26,7 +26,7 @@ Función: celebración coral que se convierte en el gatillo del viaje a Palermo.
 - **ORDEN — RESUELTO POR EL AUTOR (2026-09-20, misma sesión):** el orden viejo (F1 → Los Tres Días → reconciliación → H13 → Palermo) queda **SUPERSEDIDO**. Nuevo canon: `H16 → Cuatro letras → fiesta / H13 → Palermo (H17) → regreso (H18) → investigación de Matteo / F1 → Los Tres Días → reconciliación`. Razón del autor: F1 pesa más después de Palermo, cuando Blake y la bala ya establecieron que Chiara normalmente sí le cuenta las cosas a Kal — su "Nada" sobre Matteo será mucho más grave. Timeline, Hitos y Kal_y_Chiara actualizados en consecuencia.
 -->
 
-# Capítulo 38 — Al revés (título provisional)
+# Capítulo 38 — Al revés
 
 El día entero que le había prometido en la carta se había gastado a la hora exacta, sin sobrar ni faltar un minuto, y ahora Chiara lo sentía todavía en los hombros como se siente el sol después de haberse ido: un desayuno largo en el loft, la costa de tarde, la pregunta que él no había hecho ni una sola vez en todas esas horas y que ella había visto pasarle por la cara cada vez que alguien decía *Roma* por casualidad.
 
@@ -36,17 +36,13 @@ La fiesta ya estaba viva cuando terminó de pensarlo. El yate llevaba una hora a
 
 Chiara había elegido la música, las luces y la hora en que el buffet cambiaba de caliente a frío. Lo demás lo había dejado en manos de la gente correcta, que era la única forma que conocía de que una noche pareciera no tener manos.
 
-—Signora.
-
-Uno de los meseros le señaló, con la barbilla, un problema en la cubierta de popa. Ella lo resolvió con dos palabras y una mirada, y siguió caminando.
-
 ---
 
 Lo primero que entendió, con la copa todavía sin tocar, fue que no había dos fiestas, sino tres, y que las tres cabían.
 
-Cerca de la barra estaba la gente del Monarch, la que sabía dónde poner los codos. Los Ferretti, con la boda encima, hablaban con Tommaso de flores y de una fecha que no pensaban mover; Tommaso los escuchaba con la paciencia de quien está cobrando algo por escuchar, pero los escuchaba, y la boda iba a salir bien por eso. Fabrizio iba y venía entre las mesas con la copa en alto, tocando hombros, riéndose de cosas que no eran tan graciosas para que los demás se sintieran graciosos. Había dos empresarios de la costa que Chiara había invitado por si algún día hacía falta que le debieran una noche, y un hombre del ayuntamiento que no recordaba haber invitado y que, por lo visto, había venido con alguien que sí.
+Cerca de la barra estaba la gente del Monarch, la que sabía dónde poner los codos. Los Ferretti, con la boda encima, hablaban con Tommaso de flores y de una fecha que no pensaban mover; Tommaso los escuchaba con la paciencia de quien está cobrando algo por escuchar, pero los escuchaba. Fabrizio iba y venía entre las mesas con la copa en alto, tocando hombros, riéndose de cosas que no eran tan graciosas para que los demás se sintieran graciosos. Había dos empresarios de la costa que Chiara había invitado por si algún día hacía falta que le debieran una noche, y un hombre del ayuntamiento que no recordaba haber invitado y que, por lo visto, había venido con alguien que sí.
 
-En la cubierta abierta estaba lo otro. Franela a cuadros bajo sacos que no eran de nadie en particular. Tyler Brooks, junto a la mesa de los quesos, comía como si el buffet fuera una carrera que iba ganando. Harper Walker se había apoyado en la baranda de babor y miraba el agua con la cara de quien calcula cuánto tarda en cruzarse a nado. Danny le explicaba a una mujer del Monarch, con las manos, algo que tenía que ver con un motor y que la mujer no entendía y no quería dejar de oír. Nadir estaba parado entre la barra y el buffet, con un plato en una mano y el cálculo de lo que costaba esa noche en la otra.
+En la cubierta abierta estaba lo otro. Franela a cuadros bajo sacos que no eran de nadie en particular. Tyler Brooks, junto a la mesa de los quesos, comía como si el buffet fuera una carrera que iba ganando. Harper Walker se había apoyado en la baranda de babor y miraba el agua con la cara de quien calcula cuánto tarda en cruzarse a nado. Danny le explicaba a una mujer del Monarch, con las manos, algo que tenía que ver con un motor y que la mujer no entendía y no quería dejar de oír. Nadir estaba parado entre la barra y el buffet, con un plato en la mano.
 
 Y en el medio, cruzando de un lado al otro sin quedarse en ninguno, Kal.
 
@@ -62,13 +58,7 @@ Chiara lo vio saludar a uno de los empresarios de la costa con el apretón que u
 
 Héctor estaba sentado en el único lugar de la cubierta donde no llegaba el viento, con una pierna estirada más de lo que un hombre estira una pierna sana, y un vaso de whisky que no había tocado.
 
-—El whisky es de Walt —dijo Chiara, deteniéndose junto a él.
-
-—Ya lo sé. Se nota en lo caro que lo está mirando desde allá.
-
-Walt, en efecto, estaba junto a la barra, con las mangas bajadas y las botas de cazador asomándole bajo el pantalón, viendo cómo los meseros servían su propio whisky en vasos que valían más que la botella. No decía nada. Se limitaba a contar.
-
-—¿Cómo sigue eso? —Chiara señaló la pierna con la barbilla.
+—¿Cómo sigue eso? —Chiara se detuvo junto a él y le señaló la pierna con la barbilla.
 
 —Sigue. —Héctor por fin tomó el vaso—. Y usted no me ha invitado a un barco para preguntarme por la pierna.
 
@@ -104,7 +94,7 @@ Chiara se le puso al lado.
 
 —Bien.
 
-Nada más. Chiara siguió hacia el salón. En el tercer escalón se dio cuenta de que, en un barco con cien personas, era la única a la que había visto mirar la cadena antes que el buffet.
+Nada más. Chiara siguió hacia el salón.
 
 ---
 
@@ -170,7 +160,7 @@ No había venido con nadie. Tenía un vaso en la mano que no era el whisky de Wa
 
 —Vine un rato. —Miró hacia donde Kal, a lo lejos, le explicaba algo a uno de los empresarios de la costa señalando el muelle—. Se mueve bien entre su gente.
 
-No dijo *la de usted*. No dijo *la de él*. Dejó el *su* colgado en el aire el tiempo suficiente para que Chiara supiera que había elegido esa palabra y ninguna otra, y después dio un sorbo, la miró el segundo justo, y volvió a mirar la cubierta.
+No dijo *la de usted*. No dijo *la de él*. Dio un sorbo, la miró el segundo justo, y volvió a mirar la cubierta.
 
 —Hay mucho que cuidar —dijo, y se fue diez minutos después, sin despedirse de nadie más, como si la fiesta hubiera cumplido ya la única función que tenía para él.
 
@@ -180,11 +170,7 @@ Lo vio antes de que él la viera, que era la única ventaja que Chiara pedía en
 
 Blake Stanton estaba en la cubierta de popa, en el grupo del capitán del Departamento — el capitán al que ella sí había invitado, con los dos tenientes que trabajaban los casos que al Monarch le convenía que se trabajaran, y con los tres o cuatro hombres que ellos habían traído porque un capitán nunca llega solo a ningún lado. Blake era uno de esos. Chaqueta de civil. El pelo rubio un poco más corto que la última vez. La risa un poco más alta de lo que el chiste merecía. Estaba de espaldas a ella, con un vaso en la mano, y ya había mirado dos veces por encima del hombro hacia la cubierta principal como quien busca una cara.
 
-No era un error de la lista. La lista estaba bien. La lista incluía al Departamento porque el Departamento tenía que estar, y el Departamento traía a quien traía. Chiara no se había preguntado a quién porque no se había permitido preguntárselo, y ahora tenía la respuesta parada en su popa, con un vaso de su whisky.
-
-Podía hacer que no lo viera en toda la noche. Tenía la práctica. Un yate era pequeño, pero ella había hecho cosas más difíciles en salones más chicos.
-
-No lo hizo. No porque no pudiera, sino porque Blake ya la había visto, y un hombre como Blake, una vez que ve, no vuelve a no ver.
+Chiara no se había preguntado a quién traerían porque no se había permitido preguntárselo, y ahora tenía la respuesta parada en su popa, con un vaso de su whisky.
 
 Se acercó él. Por supuesto que se acercó él.
 
@@ -202,7 +188,7 @@ Se acercó él. Por supuesto que se acercó él.
 
 —Se nota. —Miró la cubierta otra vez, y esta vez sus ojos se detuvieron a propósito en la franela, en las botas, en Danny riéndose con la mujer del Monarch—. Y has bajado también, por lo que veo. Las dos cosas al mismo tiempo. Eso sí que no lo hace cualquiera.
 
-Chiara no contestó eso. No hacía falta. Dejó que la frase se quedara en el aire y que fuera él quien la oyera por segunda vez.
+Chiara no contestó eso. Dejó que la frase se quedara en el aire y que fuera él quien la oyera por segunda vez.
 
 —No vine a pelear —dijo Blake, más bajo—. En serio. Vine con el capitán, te vi, y pensé que después de tanto tiempo podíamos hablar como adultos.
 
@@ -218,7 +204,7 @@ Chiara no contestó eso. No hacía falta. Dejó que la frase se quedara en el ai
 
 Blake tragó saliva y sostuvo la sonrisa, que era lo que hacía cuando la conversación no iba por donde él quería y todavía no había decidido si eso era una derrota.
 
-—Mira. Yo entiendo. —Bajó todavía más la voz, como si le estuviera haciendo un favor—. Cambiaste de mundo muy rápido. Un día estabas en Gabriella's con nosotros y al siguiente andabas en un Peugeot que a mí me hacía quedar mal en el expediente. Yo lo vi venir antes que tú, ¿te acuerdas? Yo te dije el nombre.
+—Mira. Yo entiendo. —Bajó todavía más la voz, como si le estuviera haciendo un favor—. Cambiaste de mundo muy rápido. Yo lo vi venir antes que tú, ¿te acuerdas? Yo te dije el nombre.
 
 —Tú dijiste muchas cosas.
 
@@ -230,23 +216,11 @@ Chiara lo miró un momento largo. Eso era lo que Blake nunca había entendido: q
 
 Blake no dijo nada durante un segundo. Después hizo lo que Chiara había visto hacer a hombres mucho más peligrosos que él y mucho menos: en vez de irse, se quedó.
 
-—Eso no es verdad.
-
-—Es la única verdad que hay.
-
-—No. —Sacudió la cabeza, con la mandíbula tensa—. Tú no me vas a reescribir la historia a mí también. A media ciudad se la puedes contar como quieras. A mí no. Yo estuve ahí.
-
-—Estuviste ahí. Yo también. Y aun así ésta es la versión que hubo. —Chiara giró un poco el cuerpo hacia la cubierta principal, el gesto de una anfitriona que da una conversación por terminada—. Disfruta la fiesta. El whisky es bueno.
-
-—No me voy a ir a ningún lado hasta que —
-
-—Blake.
-
-Él se calló. Chiara ya no lo estaba mirando a él. Miraba a un hombre de traje gris, sin corbata, que había estado a cuatro metros durante toda la conversación sin parecer estar en ninguna parte, y que ahora dio un paso hacia ella sin que hiciera falta llamarlo con la mano.
+Chiara ya no lo estaba mirando a él. Miraba a un hombre de traje gris, sin corbata, que había estado a cuatro metros durante toda la conversación sin parecer estar en ninguna parte, y que ahora dio un paso hacia ella sin que hiciera falta llamarlo con la mano.
 
 —El señor Stanton ya terminó por esta noche —dijo Chiara, con la misma voz con la que resolvía una factura—. Acompáñenlo a tierra, por favor. Con cuidado. Es invitado del capitán.
 
-El de seguridad asintió. No tocó a Blake. No hacía falta tocarlo. Sólo se colocó donde el camino más corto hacia la pasarela pasaba por él, y esperó.
+El de seguridad asintió. No tocó a Blake. Sólo se colocó donde el camino más corto hacia la pasarela pasaba por él, y esperó.
 
 Blake miró a Chiara, miró al hombre de gris, y se rio, una risa breve y sin nada adentro.
 
@@ -256,7 +230,7 @@ Blake miró a Chiara, miró al hombre de gris, y se rio, una risa breve y sin na
 
 Fue entonces cuando Chiara levantó los ojos por encima del hombro de Blake y vio a Kal.
 
-No se había movido. Estaba junto a la baranda de estribor, a doce o quince metros, con un vaso que no había tocado, hablando con Danny. Había estado hablando con Danny los últimos diez minutos, y en los últimos diez minutos Chiara había sentido su atención sobre ella como se siente una lámpara encendida en otro cuarto: sin verla, sabiendo que está. Había visto, con el rabillo del ojo, el momento en que Kal dejó de mirar a Danny y empezó a mirar la conversación. Había visto que no daba un paso. Que no dejaba el vaso. Que no cambiaba de postura ni de cara. Que se quedaba donde estaba, con la mandíbula apenas más apretada que un minuto antes, y le dejaba a ella la cubierta entera.
+No se había movido. Estaba junto a la baranda de estribor, a doce o quince metros, con un vaso que no había tocado, hablando con Danny. Durante toda la conversación Chiara había sentido su atención sobre ella como se siente una lámpara encendida en otro cuarto: sin verla, sabiendo que está. Había visto, con el rabillo del ojo, el momento en que Kal dejó de mirar a Danny y empezó a mirar la conversación. Había visto que no daba un paso. Que no dejaba el vaso. Que no cambiaba de postura ni de cara. Que se quedaba donde estaba, con la mandíbula apenas más apretada que un minuto antes, y le dejaba a ella la cubierta entera.
 
 Ahora sí se movió. Le dijo algo a Danny, le puso el vaso en la mano, y cruzó los quince metros sin apuro, hasta quedar junto al hombre de gris.
 
@@ -280,10 +254,6 @@ Iban caminando despacio por las tablas, uno junto al otro, sin que Kal lo tocara
 
 —...la cosa es que tú no la conoces —estaba diciendo Blake—. Yo salí con ella. Yo sé cómo es cuando no está actuando. ¿Sabes lo que me dijo cuando me dejó? ¿Te lo contó? Seguro que no te lo contó.
 
-Kal siguió caminando.
-
-—¿Sabes qué pasó entre nosotros? —insistió Blake—. ¿Te lo ha dicho alguna vez? Porque yo sí podría decírtelo.
-
 —Ella me lo contará si quiere.
 
 Lo dijo sin detenerse y sin volverse a mirarlo, con la voz que usaba para decirle a un proveedor a qué hora pasaba la grúa. Blake se quedó un paso atrás, como si hubiera esperado otra cosa, y tuvo que apurarse para alcanzarlo.
@@ -296,7 +266,7 @@ Llegaron al final del muelle, donde las tablas se volvían concreto y empezaba e
 
 —Aquí ya puede solo —dijo—. Buenas noches, Stanton.
 
-Blake se quedó parado un momento, mirándolo, con el vaso vacío todavía en la mano. Buscó algo que decir y no lo encontró: el hombre que tenía enfrente no iba a discutir, ni a amenazar, ni a darle la pelea que había traído desde la popa. Sólo iba a esperar, con una calma que a Chiara, desde la baranda, le pareció por primera vez casi irritante, hasta que Blake se fuera.
+Blake se quedó parado un momento, mirándolo, con el vaso vacío todavía en la mano. Buscó algo que decir y no lo encontró. Kal sólo esperaba, con una calma que a Chiara, desde la baranda, le pareció por primera vez casi irritante, hasta que Blake se fuera.
 
 Blake se fue. Dejó el vaso en un poste, mal apoyado, y caminó hacia los autos sin volverse.
 
@@ -326,11 +296,11 @@ Pasó un minuto. Dos.
 
 Chiara respiró hondo, y el frío le entró hasta abajo.
 
-—Era policía, era rubio, y era fácil. Eso fue todo. Yo no pensaba quedarme en esta ciudad, y él era exactamente la clase de hombre con el que una mujer que no piensa quedarse sale un rato para no cenar sola. Me llevó a La Isla, me llevó a Gabriella's, me presentó a sus amigos como se presenta un reloj que uno acaba de comprarse. Y una noche, en la calle, cuando me vio mirar hacia una puerta por la que acababas de entrar tú, me preguntó si era por ti.
+—Era policía, era rubio, y era fácil. Eso fue todo. Yo no pensaba quedarme en esta ciudad, y él era exactamente la clase de hombre con el que una mujer que no piensa quedarse sale un rato para no cenar sola. Me llevó a La Isla, me llevó a Gabriella's. Y una noche, en la calle, cuando me vio mirar hacia una puerta por la que acababas de entrar tú, me preguntó si era por ti.
 
 Kal no se movió.
 
-—No lo era —dijo Chiara—. No todavía. Pero él ya había decidido que sí, y decidió también que si lo dejaba era porque una italiana coleccionaba de todo un poco, y me lo dijo así, con el acento y todo. Y ahí terminó. No por ti. Por él. Porque me mostró en tres frases qué era, y yo ya sabía qué estaba buscando, y no era eso. —Hizo una pausa—. Esta noche vino a que le corrigiera la historia. Quería que le dijera que sí fue por ti, para poder ser el hombre al que le quitaron algo en vez del hombre que no supo qué hacer con lo que tenía enfrente. No se lo di. Se quedó donde ya no tenía lugar. Y lo saqué.
+—No lo era —dijo Chiara—. No todavía. —Hizo una pausa—. Esta noche vino a que le corrigiera la historia. Quería que le dijera que sí fue por ti, para poder ser el hombre al que le quitaron algo en vez del hombre que no supo qué hacer con lo que tenía enfrente. No se lo di.
 
 Kal asintió despacio, como quien termina de leer una factura y la encuentra en orden.
 
@@ -340,7 +310,7 @@ Kal asintió despacio, como quien termina de leer una factura y la encuentra en 
 
 —Bien.
 
-No dijo nada más sobre Blake. No preguntó nada más de lo que ella había resumido, no preguntó cuánto había durado ni hasta dónde, no comparó nada con nada. Se quedó con los antebrazos en la baranda, mirando el agua, y Chiara entendió que el tema no se había cerrado porque él fuera discreto, sino porque para él no había habido tema: un hombre se quedó donde no debía, ella lo sacó, él lo acompañó a la puerta, y ya está.
+No dijo nada más sobre Blake. No preguntó cuánto había durado ni hasta dónde. Se quedó con los antebrazos en la baranda, mirando el agua.
 
 —Te arruinó veinte minutos —dijo Kal, después de un rato.
 
@@ -358,7 +328,7 @@ Se quedó callado un rato más. Después se enderezó, se apartó de la baranda,
 
 El salón interior estaba vacío. Alguien había bajado las luces a la mitad para la cena, y nadie las había vuelto a subir. Olía a cera de muebles y a la comida que ya se habían llevado. Por las ventanas laterales se veía pasar, cada tanto, la silueta de un invitado en la cubierta, y la música llegaba filtrada por el vidrio, más grave que aguda.
 
-El piano estaba al fondo, junto a la ventana de popa, con la tapa levantada, tal como lo había dejado el pianista contratado cuando se fue a cenar. Un piano de cola pequeño, negro, absurdo en un barco, que Chiara había alquilado con el yate porque venía con el yate y porque alguna vez en su vida había querido tener uno cerca sin saber para qué.
+El piano estaba al fondo, junto a la ventana de popa, con la tapa levantada, tal como lo había dejado el pianista contratado cuando se fue a cenar. Un piano de cola pequeño, negro, absurdo en un barco. Alguna vez en su vida Chiara había querido tener uno cerca sin saber para qué.
 
 Kal cerró la puerta del salón detrás de ellos. Después caminó hasta el piano, corrió el banco con el pie, y se sentó.
 
@@ -390,7 +360,7 @@ Chiara no aplaudió. No hizo ninguna de las cosas que se hacen. Se quedó sentad
 
 —Kal.
 
-—Es un piano. —Ahora sí la miró, y en la cara tenía algo que en cualquier otro hombre habría sido vergüenza y que en él era sólo la incomodidad de estar en un lugar de sí mismo con la puerta abierta—. No es nada.
+—Es un piano. —Ahora sí la miró—. No es nada.
 
 —No me lo dijiste.
 
@@ -430,7 +400,7 @@ Se quedó callada un segundo. Después sonrió, sin que él la viera, y dejó de
 
 —Ya pasó "todavía". —Kal giró la cabeza hacia ella—. Me mandaste una carta con esa palabra. Me pasé un día entero preguntándole a medio barrio qué significaba. Nadir cree que voy a importar aceite. Danny cree que es una llave de lucha. Walt me va a cobrar una botella. Y hoy me quedé el día entero sin preguntar, como me pediste. —Hizo una pausa—. Ya pasó.
 
-Chiara lo miró. Estaba sentado en el banco de un piano con el traje que ella le había elegido, con las manos quietas en las rodillas y la expresión de un hombre que está pidiendo algo que le importa con la cara de quien pregunta la hora.
+Chiara lo miró. Estaba sentado en el banco de un piano, con las manos quietas en las rodillas y la expresión de un hombre que está pidiendo algo que le importa con la cara de quien pregunta la hora.
 
 —Está bien —dijo.
 
@@ -458,13 +428,13 @@ Chiara se sentó otra vez a su lado.
 
 Kal repitió las palabras sin sonido, moviendo apenas los labios.
 
-—Del patio —dijo, en voz alta, y esta vez sí sonó a algo: no a pregunta, sino a alguien que se guarda una llave en el bolsillo.
+—Del patio —dijo, en voz alta.
 
 —Del patio.
 
 —Entonces el chico. Ese día. —Lo dijo despacio, armándolo—. Venía buscándome a mí.
 
-—Siempre fuiste tú. —Chiara no apartó los ojos del papel—. Desde antes de que ninguno de los dos pudiera decirlo. Yo no sabía decirlo. Así que lo escribí en una lengua que nadie lee, arriba de un papel que nadie iba a entender, y se lo mandé a la única persona que no tenía ninguna posibilidad de descifrarlo. Me pareció lo más seguro.
+—Siempre fuiste tú. —Chiara no apartó los ojos del papel—. Desde antes de que ninguno de los dos pudiera decirlo. Lo escribí en una lengua que nadie lee y se lo mandé a la única persona que no tenía ninguna posibilidad de descifrarlo. Me pareció lo más seguro.
 
 Kal dobló el papel por la mitad. Después lo dobló otra vez, y se lo guardó en el bolsillo interior de la chaqueta, contra el pecho, donde había llevado la carta todo el día.
 
@@ -492,7 +462,7 @@ Una *C*. En hilo azul oscuro, pequeña, en una esquina, del tipo que borda una c
 
 ---
 
-Había sido una mañana cualquiera entre semana, de las que Chiara reservaba para la misa de las ocho porque a las ocho no había nadie en Santa Lucía salvo tres viejas y el sacristán, y podía encender la vela sin que nadie le preguntara por quién.
+Había sido una mañana cualquiera entre semana, de las que Chiara reservaba para la misa de las ocho porque a las ocho no había nadie en Santa Lucía salvo tres viejas y el sacristán, y nadie le preguntaba nada.
 
 Salió con el bolso al hombro y las llaves del Mercedes en la mano. El sol todavía no había subido del todo por encima de la colina. En la banqueta, junto al coche, había dos hombres que no habían estado cuando entró.
 
@@ -544,15 +514,13 @@ No la tocó. La miró. Y después miró al hombre.
 
 El hombre lo dijo con la calma de quien repite algo que le dictaron y que está de acuerdo en repetir:
 
-—Pon tu casa en orden, Sra. Ardizzone, o hablaremos de este Mercer tuyo.
+—Pon tu casa en orden, señora Ardizzone, o hablaremos de este Mercer tuyo.
 
-La llevaron de vuelta a Santa Lucía en el mismo coche. Le abrieron la puerta. El sol ya había subido. Las tres viejas ya se habían ido. El Mercedes seguía donde lo había dejado, con las llaves en su mano, y el pañuelo con la bala adentro, en el bolso, junto a lo otro.
-
-El Consorcio nunca había necesitado dar su nombre para que ella supiera quién le hablaba. Tampoco esa mañana.
+La llevaron de vuelta a Santa Lucía en el mismo coche. El Mercedes seguía donde lo había dejado, y el pañuelo con la bala adentro, en el bolso, junto a lo otro.
 
 ---
 
-—No la abrí en el coche —dijo Chiara, en el salón del yate, mirando el pañuelo sobre el piano—. La abrí en el Penthouse, con la puerta cerrada. Y no la he vuelto a sacar hasta ahora.
+—No lo he vuelto a sacar hasta ahora —dijo Chiara, en el salón del yate, mirando el pañuelo sobre el piano.
 
 Kal no había dicho una palabra en todo el tiempo que ella tardó en contarlo. Ahora alargó la mano, tomó el pañuelo, y lo abrió sobre la palma con el cuidado con el que se abre algo que puede tener adentro cualquier cosa.
 
@@ -624,7 +592,7 @@ Chiara cerró los ojos un segundo.
 
 Chiara abrió los ojos.
 
-Se quedaron mirándose un momento, en el salón a media luz, con la música de la cubierta filtrándose por el vidrio. Ella tenía en la garganta tres o cuatro objeciones buenas, ordenadas, cada una con su razón, y las repasó todas en el tiempo que se tarda en repasar cuatro cosas, y no dijo ninguna, porque cada una de las cuatro era la clase de objeción que se le hace a alguien que está pidiendo permiso, y Kal no estaba pidiendo permiso. Estaba diciéndole a qué hora pasaba la grúa.
+Se quedaron mirándose un momento, en el salón a media luz, con la música de la cubierta filtrándose por el vidrio. Ella tenía en la garganta tres o cuatro objeciones buenas, ordenadas, cada una con su razón, y no dijo ninguna, porque eran la clase de objeción que se le hace a alguien que está pidiendo permiso, y Kal no estaba pidiendo permiso. Estaba diciéndole a qué hora pasaba la grúa.
 
 —A las cuatro —dijo ella por fin.
 
@@ -637,8 +605,6 @@ Se quedaron mirándose un momento, en el salón a media luz, con la música de l
 —¿Vigente?
 
 —Chiara.
-
-Y con eso, en un salón vacío de un barco alquilado, sin que nadie de los que estaban afuera bailando lo supiera, dos personas que habían pasado la noche siendo un mecánico y una mujer del Monarch decidieron cruzar un océano juntas, y volvieron a abrir la puerta.
 
 ---
 
@@ -654,7 +620,7 @@ Y él.
 
 A las cuatro menos algo, Kingsley Field era un lugar azul.
 
-No por el cielo, que seguía negro y cerrado y no pensaba abrirse hasta dentro de horas: por las luces de la pista, azules a intervalos exactos hasta perderse; por el fluorescente de la terminal privada, que le ponía a todo el color de un pasillo de hospital; por el vidrio, que devolvía la sala entera encima de la pista como si las dos cosas ocurrieran en el mismo lugar. Una lámpara sobre el mostrador y un empleado que ya había firmado todo lo que tenía que firmar y ahora tomaba café mirando afuera. Más allá del vidrio, el avión esperaba con la puerta abierta y las luces de posición encendidas, blanco contra la noche. Había dos maletas junto a la puerta, una grande y una que Kal había armado en el loft en once minutos, y olía a café de máquina y a la fiesta que los dos traían todavía en la ropa.
+No por el cielo, que seguía negro y cerrado y no pensaba abrirse hasta dentro de horas: por las luces de la pista, azules a intervalos exactos hasta perderse; por el fluorescente de la terminal privada, que le ponía a todo el color de un pasillo de hospital; por el vidrio, que devolvía la sala entera encima de la pista como si las dos cosas ocurrieran en el mismo lugar. Más allá del vidrio, el avión esperaba con la puerta abierta y las luces de posición encendidas, blanco contra la noche. Había dos maletas junto a la puerta, una grande y una que Kal había armado en el loft en once minutos, y olía a café de máquina y a la fiesta que los dos traían todavía en la ropa.
 
 Chiara estaba de pie junto al mostrador, hablando con el piloto sobre algo de combustible y una escala que no le gustaba, con el abrigo puesto y el bolso al hombro, administrando a las cuatro de la mañana igual que a las nueve de la noche. Kal la miraba desde una silla de plástico, con los codos en las rodillas, un vaso de café que ya no estaba caliente, y el cansancio de veinte horas asentándose por fin en algún lugar detrás de los ojos.
 
@@ -666,7 +632,7 @@ Contestó al segundo timbre, más por reflejo que por decisión.
 
 —¿Sabes qué hora es?
 
-—Sé perfectamente qué hora es. —La voz de Marisol venía con ruido de carretera y una radio bajita—. Por eso te llamo. Sabía que seguirías despierto. Esas fiestas de tu italiana no terminan nunca, y tú nunca te vas antes de que termine nada.
+—Sé perfectamente qué hora es. —La voz de Marisol venía con ruido de carretera y una radio bajita—. Por eso te llamo. Sabía que seguirías despierto.
 
 —¿Dónde estás?
 

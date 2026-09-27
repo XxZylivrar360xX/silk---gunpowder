@@ -1,5 +1,5 @@
 <!--
-Estado: BORRADOR — Parte III — Ardizzone, octavo capítulo (Cap. 42 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "Nada". No es provisional.
+Estado: BORRADOR — Parte III — Ardizzone, octavo capítulo (Cap. 42 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "Nada". No es provisional. **Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_III]]):** "Tú dijiste tres" (no "cuatro": "Tengo que volver" son tres palabras); "No se sirvió nada" (no hubo copa, sólo el vaso de agua); presagio garantizado de 92 → "que Kal iba a venir"; tres glosas sobre Riley y el silencio cortadas; la repetición "sin nada más que decir" antes del final de F1, cortada (se queda la de Chiara). La línea canon, "—Nada.", "—Sí. Te mentí.", "Ciao, tesoro" y la mano en la manija, intactos. Detalle en [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_35-44_Parte_III]], § 9 parte 4. Sigue BORRADOR.
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). El rastreo de Riley ocurre fuera de página: se conoce por completo a través de la llamada en la que Riley se lo reporta a Chiara. Kal aparece en escena sólo en el penthouse, para F1; su conversación con Riley nunca se dramatiza.
 Personajes con diálogo: Chiara Bellandi, Riley Bennett (por teléfono), Kal Mercer (en persona, F1).
 Ausente, sentido: Matteo Bellacorte (funciones absorbidas, silla vacía). Mencionado sin aparecer: el hombre que aborda a Riley, Ettore, La Mesa, Valenti, Livia Rinaldi, Halbrook (nunca nombrado).
@@ -12,7 +12,7 @@ Función: cobra la mentira del Cap. 41 ("—Nada."). Riley encuentra la camionet
 - **F1:** penthouse, de noche. Kal se sienta en el sillón; Chiara se recarga en la mesa, cruzando la sala. Escalada en cinco etapas (hechos, mentira, agencia, Palermo debajo, línea canon). Kal se va; Chiara se queda; no se habla de terminar la relación.
 - Línea canon textual, sin parafrasear: "—Por mucho que yo esté enamorado de ti, soy fiel a mis convicciones, a mi gente y a mí mismo."
 
-> **CORRECCIÓN QUIRÚRGICA (2026-09-22, mismo día, encargo del autor):** arquitectura de F1 conservada intacta; se corrigió (1) metadata — el Cap. 41 cierra con Riley físicamente en el despacho de Chiara, no con una llamada; (2) se retiró la precisión "semanas después de Palermo" (sólo han pasado días); (3) causalidad Riley→Kal — Riley ahora le da a Kal el mínimo contexto operativo ("Chiara me pidió rastrear una camioneta relacionada con Matteo" + Almendra Towing + el seguimiento), sin mencionar Palermo ni la orden de discreción, lo que permite a Kal reconstruir la mentira sin intuición mágica; (4) se eliminó la deducción imposible de la "orden de silencio" que Kal no podía conocer; (5) el intercambio inicial de F1 ya no depende de que Kal "ya sabía por qué" — cita el dato concreto que le dio Riley; (6) "alguien que depende de mí para estar segura" pasa a "alguien de mi gente" (Riley todavía no es protegida); (7) la respuesta de Chiara a "Riley es de mi gente" deja de sonar calculadora ("por eso funcionó... no iba a contártelo") y pasa a "le pedí que encontrara un coche, no esperaba que la siguieran"; (8) sintaxis de "por su territorio, en su gente, en su Patio" simplificada a "en territorio del Patio"; (9) se retiró la llave permanente de Kal al penthouse (microcanon no autorizado) — ahora toca la puerta y Chiara abre; (10) la línea sobre "perderte en esa mesa italiana" se reformuló a la simetría correcta: lo que Chiara dijo en la Mesa también fue decidir por Kal; (11) dos fugas de POV retiradas ("lo dijo sin planearlo, y los dos lo notaron"; "los dos entendieron... que seguir esa noche...") y reemplazadas por percepción externa de Chiara; (12) "Entonces los dos lo hicimos mal" se retira — Kal ya no cierra el acuerdo, la simetría queda nombrada pero no resuelta; (13) "No voy a pedirte perdón por Palermo" se abre a "Tenía que volver. Eso no cambió." para no bloquear la evolución del Cap. 45; (14) se redujo a cero la glosa explicando por qué duele la línea canon — queda sólo "Lo sé"; (15) se corrigió "alguien mía" a "alguien mío". No se tocó la línea canon, "—Nada.", "—Sí. Te mentí.", el intercambio con el hombre de Almendra Towing, ni el cierre sin reconciliación. **Dos microajustes adicionales (mismo día, observación directa del autor):** "No usaste a alguien mío sin decírmelo..." sonaba posesivo justo donde el tema es pertenencia comunitaria, no propiedad — pasa a "Metiste a alguien de mi gente en esto sin decírmelo..."; y "Eso no es tu decisión de callar o no callar, Chiara. Es mía." sonaba a reclamo de derecho exclusivo de Kal sobre Riley, en vez de la tesis real del conflicto (agencia compartida) — pasa a "Eso ya no era sólo tuyo para decidir, Chiara.", dejando que "No decides tú sola qué riesgo de mi gente me concierne" (unas líneas después) cargue la tesis. Sigue BORRADOR. Sin EPUB, commit ni push.
+> **CORRECCIÓN QUIRÚRGICA (2026-09-22, mismo día, encargo del autor):** arquitectura de F1 conservada intacta; se corrigió (1) metadata — el Cap. 41 cierra con Riley físicamente en el despacho de Chiara, no con una llamada; (2) se retiró la precisión "semanas después de Palermo" (sólo han pasado días); (3) causalidad Riley→Kal — Riley ahora le da a Kal el mínimo contexto operativo ("Chiara me pidió rastrear una camioneta relacionada con Matteo" + Almendra Towing + el seguimiento), sin mencionar Palermo ni la orden de discreción, lo que permite a Kal reconstruir la mentira sin intuición mágica; (4) se eliminó la deducción imposible de la "orden de silencio" que Kal no podía conocer; (5) el intercambio inicial de F1 ya no depende de que Kal "ya sabía por qué" — cita el dato concreto que le dio Riley; (6) "alguien que depende de mí para estar segura" pasa a "alguien de mi gente" (Riley todavía no es protegida); (7) la respuesta de Chiara a "Riley es de mi gente" deja de sonar calculadora ("por eso funcionó... no iba a contártelo") y pasa a "le pedí que encontrara un coche, no esperaba que la siguieran"; (8) sintaxis de "por su territorio, en su gente, en su Patio" simplificada a "en territorio del Patio"; (9) se retiró la llave permanente de Kal al penthouse (microcanon no autorizado) — ahora toca la puerta y Chiara abre; (10) la línea sobre "perderte en esa mesa italiana" se reformuló a la simetría correcta: lo que Chiara dijo en la Mesa también fue decidir por Kal; (11) dos fugas de POV retiradas ("lo dijo sin planearlo, y los dos lo notaron"; "los dos entendieron... que seguir esa noche...") y reemplazadas por percepción externa de Chiara; (12) "Entonces los dos lo hicimos mal" se retira — Kal ya no cierra el acuerdo, la simetría queda nombrada pero no resuelta; (13) "No voy a pedirte perdón por Palermo" se abre a "Tenía que volver. Eso no cambió." para no bloquear la evolución del Libro II (*Sombras de Poder*; el Cap. 45 ya pertenece a ese libro); (14) se redujo a cero la glosa explicando por qué duele la línea canon — queda sólo "Lo sé"; (15) se corrigió "alguien mía" a "alguien mío". No se tocó la línea canon, "—Nada.", "—Sí. Te mentí.", el intercambio con el hombre de Almendra Towing, ni el cierre sin reconciliación. **Dos microajustes adicionales (mismo día, observación directa del autor):** "No usaste a alguien mío sin decírmelo..." sonaba posesivo justo donde el tema es pertenencia comunitaria, no propiedad — pasa a "Metiste a alguien de mi gente en esto sin decírmelo..."; y "Eso no es tu decisión de callar o no callar, Chiara. Es mía." sonaba a reclamo de derecho exclusivo de Kal sobre Riley, en vez de la tesis real del conflicto (agencia compartida) — pasa a "Eso ya no era sólo tuyo para decidir, Chiara.", dejando que "No decides tú sola qué riesgo de mi gente me concierne" (unas líneas después) cargue la tesis. Sigue BORRADOR. Sin EPUB, commit ni push.
 -->
 
 # Capítulo 42 — Nada
@@ -77,7 +77,7 @@ Chiara no contestó de inmediato.
 
 —¿Por qué?
 
-—Porque ya no es sólo un coche raro entregando un sobre —dijo Riley, y por primera vez en la llamada su voz tuvo algo parecido a la firmeza de alguien que ha decidido algo y no va a pedir permiso por ello—. Alguien en el territorio de Kal sabía que yo estaba buscando, y alguien me siguió. Eso no es de usted. Eso es del Patio. Y si algo del Patio se mueve así, él tiene que saberlo esta misma noche, no cuando a mí me convenga contárselo.
+—Porque ya no es sólo un coche raro entregando un sobre —dijo Riley, sin pedir permiso—. Alguien en el territorio de Kal sabía que yo estaba buscando, y alguien me siguió. Eso no es de usted. Eso es del Patio. Y si algo del Patio se mueve así, él tiene que saberlo esta misma noche, no cuando a mí me convenga contárselo.
 
 Chiara se quedó con el teléfono pegado a la oreja, mirando la ventana, las luces de San Aurelio abajo, todas encendidas como cualquier otra noche.
 
@@ -89,7 +89,7 @@ Chiara se quedó con el teléfono pegado a la oreja, mirando la ventana, las luc
 
 —Que usted me pidió rastrear una camioneta de mensajería relacionada con unos papeles de Matteo. Y de ahí, Almendra Towing, el tipo, el coche que me siguió. —Una pausa—. No le conté lo demás. No le dije por qué usted no se lo pidió a él directamente. Él no preguntó. Sólo si estaba bien, y después colgó.
 
-Eso, más que ninguna otra cosa que Riley había dicho esa noche, le dijo a Chiara exactamente lo que iba a pasar después.
+Eso, más que ninguna otra cosa que Riley había dicho esa noche, le dijo a Chiara que Kal iba a venir.
 
 —¿Va a venir? —preguntó Riley, como si le hubiera leído el pensamiento por el teléfono.
 
@@ -105,7 +105,7 @@ Riley no discutió eso.
 
 —Todavía no lo sé —dijo Chiara, y fue lo más honesto que había dicho en dos días—. Descansa. Y Riley —añadió, antes de que la otra colgara—: no hiciste nada mal.
 
-—Lo sé —repitió Riley, y esta vez sonó menos a defensa y más a algo que ya sabía y no necesitaba que nadie se lo confirmara dos veces.
+—Lo sé —repitió Riley.
 
 Colgó.
 
@@ -137,7 +137,7 @@ No dijo nada sobre eso.
 
 Ella tampoco.
 
-Kal cruzó la sala sin quitarse la chaqueta y se sentó en el sillón, en el lado más alejado de la mesa, con los codos en las rodillas y las manos juntas, la postura de alguien que ha decidido no acercarse más de lo necesario. Chiara no se movió de donde estaba. Se recargó apenas en el borde de la mesa, cruzando la sala entera con la distancia entre los dos, y por un momento ninguno dijo nada, y ese silencio ya decía más que cualquier frase que fueran a usar después.
+Kal cruzó la sala sin quitarse la chaqueta y se sentó en el sillón, en el lado más alejado de la mesa, con los codos en las rodillas y las manos juntas, la postura de alguien que ha decidido no acercarse más de lo necesario. Chiara no se movió de donde estaba. Se recargó apenas en el borde de la mesa, cruzando la sala entera con la distancia entre los dos, y por un momento ninguno dijo nada.
 
 —¿Qué encontraste de Matteo? —preguntó Kal, al fin.
 
@@ -201,7 +201,7 @@ Kal se detuvo.
 
 —Porque yo no te mentí. Te dije que tenía que irme.
 
-—Me dijiste la mitad de una frase y esperaste que fuera suficiente. —Chiara lo miró de frente—. Yo dije una palabra y tú la llamas mentira. Tú dijiste cuatro y las llamas honestidad. La diferencia no es tan grande como te gustaría, Kal.
+—Me dijiste la mitad de una frase y esperaste que fuera suficiente. —Chiara lo miró de frente—. Yo dije una palabra y tú la llamas mentira. Tú dijiste tres y las llamas honestidad. La diferencia no es tan grande como te gustaría, Kal.
 
 Se quedaron mirándose un momento sin que ninguno cediera el punto.
 
@@ -253,7 +253,7 @@ Kal la miró un momento más, como esperando algo distinto, y cuando no llegó n
 
 —Lo sé.
 
-Se quedaron así un momento, sin nada más que decir que no fuera a empeorar lo que ya estaba dicho. Ninguno mencionó el resto: ni Matteo, ni la camioneta, ni lo que faltaba de esa conversación para estar completa.
+Ninguno mencionó el resto: ni Matteo, ni la camioneta, ni lo que faltaba de esa conversación para estar completa.
 
 Chiara no encontró nada más que decir que no fuera a costarles más caro que la mentira misma. Por la forma en que Kal se acomodó la chaqueta que nunca se había quitado, supo que él tampoco.
 
@@ -273,7 +273,7 @@ Chiara oyó el elevador bajar. Se quedó de pie junto a la mesa un rato después
 
 Al final se sentó en el sillón donde había estado Kal, en el lugar exacto donde el cojín todavía guardaba el peso de otra persona, y se quedó ahí un momento con las manos sobre las rodillas, en la misma postura que él había tenido media hora antes.
 
-No lloró. No se sirvió otra copa. No llamó a nadie.
+No lloró. No se sirvió nada. No llamó a nadie.
 
 Apagó las pocas luces que había encendido esa noche, una por una, y dejó las cortinas tal como estaban, a medio abrir, porque cambiarlas tampoco iba a arreglar nada.
 

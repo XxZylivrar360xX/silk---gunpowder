@@ -1,6 +1,7 @@
 <!--
-Estado: BORRADOR — abre la Parte III (Cap. 35 de la Parte III — Ardizzone; Cap. 35 del manuscrito). Redactado 2026-09-20, Claude Code, encargo del autor. Ampliado el mismo día con un beat final (invitaciones del yate) encargado directamente por el autor.
+Estado: BORRADOR — abre la Parte III (Cap. 35 de la Parte III — Ardizzone; Cap. 35 del manuscrito). Redactado 2026-09-20, Claude Code, encargo del autor. Ampliado el mismo día con un beat final (invitaciones del yate) encargado directamente por el autor; **ese beat se trasladó al final del Cap. 36 en la cirugía E5**. **Cirugía editorial E5 (2026-09-27, Claude Code, [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_35-44_Parte_III]], § 9 parte 1):** coda de las invitaciones al 36 (opción 1 del dictamen, Q1: ocurría después de H16; el 35 vuelve a terminar en la taza); "la erre" retirada de la caricatura de "Ciao, bella" (no tiene erre); dos saltos de POV hacia Kal cortados (el "no porque no tuviera respuesta…" del despacho y el "dejando que la palabra…" de la salida); dos glosas de cierre cortadas. **Escena de Anya en el Monarch añadida en E9 (2026-09-27, Claude Code, aprobada por el autor en Q13; redacción del agente, +573 palabras): queda BORRADOR/DISEÑO hasta que la lea el autor.** Sigue BORRADOR.
 Protagonistas: Chiara Bellandi (POV único). Kal Mercer.
+Aparición sin nombre: [[02_Characters/Anya_Voronina]] (nadie la nombra en escena; el nombre queda guardado para F4). Secundario sin nombre: el encargado del bar del casino.
 Voz sólo por teléfono: Nadir Amrani (no habla en escena; se infiere por lo que Kal le dice, nunca se cita directamente — respeta el POV único de Chiara).
 Mencionado sin aparición: Matteo Bellacorte. Referidos de paso: Fabrizio Rinaldi, Tommaso Lusardi, Dario Varek (ninguno aparece en escena).
 Ventana temporal: muy poco después del Cap. 34 — Mi pareja. No la misma noche; la mañana siguiente o dentro de dos o tres días, sin fecha fijada. Primera llamada telefónica privada entre Kal y Chiara desde que él la nombró "mi pareja".
@@ -15,9 +16,8 @@ Función: CANON DEL AUTOR. Abre la Parte III — Ardizzone. Nace el ritual del *
 - Dario Varek no aparece ni se menciona más que como referencia administrativa mínima (ya fue informado). Fabrizio y Tommaso se mencionan de paso, ya absorbiendo trabajo — ninguno tiene escena ni diálogo propio aquí.
 - No se siembra todavía la investigación de Chiara sobre Matteo, ni Riley Bennett, ni ninguna pista — eso pertenece a [[06_Relationships/Momentos_de_Fractura#F1 - La mentira bajo la lluvia|F1]], más adelante en la Parte III. Este capítulo sólo planta la observación de conducta de Kal.
 - No se escribe H16 (cumpleaños/mudanza) ni ningún material de Camp Alder, Palermo, H13, Ren Wei o El Patio más allá de Almendra Towing como lugar.
-- **Beat final añadido (2026-09-20, encargo directo del autor):** fiesta en un yate en la costa, este viernes — NO es el cumpleaños de Chiara (ver H16 en el Cap. 36, evento separado). Es una fiesta cualquiera que ella organiza; cien invitaciones idénticas de imprenta, sin nombres propios en el cuerpo. Sólo la de Kal es distinta: escrita a mano por Chiara, con el cierre cifrado "Te veo, con mucha Roma" — CANON DEL AUTOR, texto dado casi textual. No se explica el juego de palabras en prosa (ni aquí ni en capítulos futuros hasta que ella se lo explique a Kal, ver abajo); el capítulo deja sólo la satisfacción privada de Chiara al escribirlo.
-- **CORRECCIÓN DE CONTINUIDAD (2026-09-20, mismo encargo):** se eliminó la cifra "dos días después" que fijaba las invitaciones muy cerca de la llamada principal del capítulo — chocaba con que el Cap. 36 (H16) ocurre tres semanas después de este capítulo y con que Kal debe leer la invitación recién en el Cap. 37, posterior a H16. La escena ya no lleva marcador temporal explícito; **queda flotando después del resto del capítulo, libre para caer después de H16 en la cronología real.** No se introdujo fecha nueva. El evento y su contenido emocional no cambiaron.
-- **Roadmap explícito del autor para capítulos futuros (no escribir todavía, sólo no perder el hilo):** Kal recibe la carta y es "el texto más críptico de toda su vida" — no entiende el juego de palabras, pero el nombre "Roma" le recuerda a **Roma Atrii** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/12_Roma_Atrii|Cap. 12]], donde Chiara nunca le explicó qué significaba esa frase) sin que logre descifrarlo. **Ejecutado (2026-09-20):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/37_Cuatro_Letras|Capítulo 37]] cubre a Kal leyendo la carta y preguntando por el barrio sin obtener respuesta. La fiesta del yate sigue siendo un capítulo futuro aparte, todavía sin escribir; **ahí se siembra uno de los talentos ocultos de Kal — toca el piano —, descrito por el autor como "importantísimo para el futuro"** (no diseñar todavía por qué). Recién **después** de esa fiesta, Chiara le explica el cifrado a Kal. Esto reubica el pago pendiente de "Roma Atrii" — antes anotado vagamente "en el cumpleaños de Chiara" en `PENDING.md` — a la fiesta del yate, un evento distinto de H16.
+- **Beat de las invitaciones del yate (CANON DEL AUTOR, 2026-09-20): trasladado al final del [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/36_Tambien_Las_Mananas|Cap. 36]] en E5 (2026-09-27).** Su nota de canon y de cronología se movió a la metadata del 36. El roadmap que se anotaba aquí ya está ejecutado: Kal lee la carta en el [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/37_Cuatro_Letras|Cap. 37]]; la fiesta del yate, el piano ("importantísimo para el futuro", según el autor) y la explicación del cifrado están en el [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/38_Al_Reves|Cap. 38]].
+- **Anya en el Monarch (P1, aprobada por el autor 2026-09-27, Q13; escrita en E9, BORRADOR/DISEÑO):** cuarta sección, POV Chiara, entre la salida de Kal ("…y salió sin decir nada de italiano.") y la vuelta de Chiara al despacho ("Subió al despacho por el pasillo alfombrado…", que sustituye a "Chiara escuchó sus pasos alejarse…"). Kal no se fue: la máquina de hielo del bar del casino es de las que arreglaba el técnico de Matteo (el hueco de la silla vacía). Chiara baja por la firma del vino de los Ferretti en el libro de la cava. Canon cumplido: rubia, Kal detrás de la barra, escalofrío y se esconde, la ceja, "Kal" y luego "Ojos azules" con las dos ya cerca. Línea de Anya: "No vengo a cobrar nada, Ojos azules. Todavía." Kal, sin que ella pregunte: "Alguien de antes." Chiara registra por conducta (la mano seca que se limpia, el tornillo ya apretado), sin deducción explícita; el acento no se menciona (el Cap. 25 le daría la llave por información). Sin prolepsis de F4, sin Nadir nombrado en la escena. Diseño en el mapa de la auditoría (§ P1) y § 9 parte 5.
 -->
 
 # Capítulo 35 — Sin fecha de regreso
@@ -40,7 +40,7 @@ Contestó al segundo timbre, con un fondo de radio y algo metálico golpeando al
 
 —Ciao, bella.
 
-Lo dijo con un acento tan exagerado que sonaba a caricatura de sí mismo: la vocal final estirada, la erre demasiado marcada, la voz un tono más grave de lo normal, como si estuviera imitando a alguien que llevara sombrero y un puro sin encender. Chiara lo reconoció al instante — era su propia voz, la de hacía meses, la primera noche que le dijo *ciao, sono Chiara Bellandi* con el orgullo de quien no sabe todavía que va a tener que aprender a sonar de otra forma para que la ciudad la tome en serio.
+Lo dijo con un acento tan exagerado que sonaba a caricatura de sí mismo: la vocal final estirada, la voz un tono más grave de lo normal, como si estuviera imitando a alguien que llevara sombrero y un puro sin encender. Chiara lo reconoció al instante — era su propia voz, la de hacía meses, la primera noche que le dijo *ciao, sono Chiara Bellandi* con el orgullo de quien no sabe todavía que va a tener que aprender a sonar de otra forma para que la ciudad la tome en serio.
 
 —Ciao, bellissimo —contestó ella, sin la caricatura. Cada sílaba en su sitio, el acento marcado a propósito, un poco más de lo que le hacía falta.
 
@@ -138,7 +138,7 @@ Kal esperó.
 
 —Tampoco suele desaparecerle un hermano, Kal.
 
-Eso lo detuvo un momento. No porque no tuviera respuesta, sino porque no había pensado en discutir la lógica, sólo en decirla en voz alta para ver cómo sonaba fuera de su cabeza.
+Eso lo detuvo un momento.
 
 —Es curioso —dijo, más despacio—. Lo conocí un rato nada más, la noche que me llevó a conocer a los demás. Pero me acuerdo de que ya tenía la mesa puesta antes de sentarse en ella. No sé. No lo hubiera imaginado dejando algo así, sin más.
 
@@ -150,7 +150,7 @@ Se quedó mirando la agenda cerrada bajo la mano de Chiara, no la nota.
 
 —Yo también me habría ido —dijo por fin—. Si fuera mi hermano.
 
-Chiara asintió, y con eso la conversación encontró su propio final, sin que ninguno de los dos necesitara cerrarla con una frase.
+Chiara asintió.
 
 ---
 
@@ -174,7 +174,7 @@ No dijo nada más. No se ofreció a tomar una carpeta, no preguntó qué firma f
 
 El teléfono volvió a sonar. Esta vez era Tommaso, con una duda sobre el calendario de la sala privada para la semana siguiente. Chiara resolvió eso también, de pie, con la agenda de Matteo abierta contra el pecho y el lápiz de Fabrizio —que había terminado, sin que nadie lo decidiera del todo, en su bolsillo— marcando una fecha nueva sobre la vieja.
 
-Antes de que pudiera colgar del todo, alguien de recepción llamó desde el otro lado del piso: la sala que Matteo tenía reservada para los Ferretti necesitaba confirmación de vino y flores antes del mediodía, y nadie sabía a quién preguntarle ahora. Chiara resolvió eso también, de memoria, citando el pedido exacto que Matteo había anotado dos páginas atrás en la misma agenda — Domaine algo, dos cajas, lirios blancos, nada de rosas porque la novia les tenía alergia — sin necesidad de leerlo dos veces.
+Antes de que pudiera colgar del todo, alguien de recepción llamó desde el otro lado del piso: la sala que Matteo tenía reservada para los Ferretti necesitaba confirmación de vino y flores antes del mediodía, y nadie sabía a quién preguntarle ahora. Chiara resolvió eso también, de memoria, citando el pedido exacto que Matteo había anotado dos páginas atrás en la misma agenda — Domaine algo, dos cajas, lirios blancos, nada de rosas porque la novia les tenía alergia.
 
 —Dario ya sabe —dijo, cuando por fin colgó, sin que Kal preguntara—. Le mandaron copia de todo esta mañana. No ha dicho nada.
 
@@ -192,34 +192,54 @@ Kal se acercó por fin, no al escritorio, sino a ella, y le puso la mano en la b
 
 —Voy a estar ocupada. No es lo mismo.
 
-Kal no le preguntó cuál era la diferencia. Se quedó un segundo más en la puerta, mirando otra vez la silla que nadie había vuelto a acomodar, y salió sin decir nada de italiano, sin repetir lo de antes, dejando que la palabra de la llamada siguiera siendo la única de ese peso en todo el día.
+Kal no le preguntó cuál era la diferencia. Se quedó un segundo más en la puerta, mirando otra vez la silla que nadie había vuelto a acomodar, y salió sin decir nada de italiano.
 
-Chiara escuchó sus pasos alejarse por el pasillo alfombrado hasta que el sonido se perdió entre el ruido de fondo del piso — cristalería, una risa en algún salón, el motor lejano de un elevador. Después se sentó, por fin, en la silla de Matteo, sacó su propio teléfono y empezó a hacer una lista de todo lo que hacía falta resolver antes del viernes.
+---
+
+Tardó veinte minutos en bajar. El vino de los Ferretti necesitaba una firma en el libro de la cava, y el libro de la cava vivía detrás del bar del casino, en un cajón que sólo Matteo y el encargado sabían abrir sin forcejear.
+
+A esa hora el piso de juego estaba a media luz: las mesas cubiertas con sus fundas, dos técnicos con una tragamonedas abierta como un paciente, el zumbido parejo de un lugar que todavía no empezaba su día. Desde la columna del fondo, Chiara vio primero las botas de Kal asomando por el hueco de la barra. Estaba de rodillas del lado de adentro, con el panel de la máquina de hielo en el piso y el encargado inclinado encima de él, sosteniéndole una linterna.
+
+No se había ido. La máquina era de las que Matteo mandaba arreglar con un técnico que no le contestaba a nadie más.
+
+Kal se enderezó para pedir otra llave y se quedó a medio camino.
+
+Una mujer venía cruzando el piso desde el lobby. Rubia, el pelo recogido sin cuidado aparente, un abrigo oscuro doblado sobre el brazo, con el paso de quien ya se sabe el plano de un edificio y no necesita preguntarle a nadie dónde queda nada. No miró las mesas ni los candelabros. Miró la barra.
+
+Chiara vio a Kal verla. Algo le pasó por los hombros, corto, como un escalofrío a destiempo, y un segundo después ya no estaba: se había vuelto a agachar detrás de la barra, rápido, con la misma economía con la que se habría quitado de una ventana. El encargado se quedó con la linterna en la mano, alumbrando el lugar donde había estado su cabeza.
+
+Chiara levantó una ceja.
+
+La mujer llegó a la barra, dejó el abrigo sobre un taburete y apoyó los antebrazos en la madera, sin inclinarse a buscar nada.
+
+—Kal.
+
+No lo dijo alto. Lo dijo como se dice el nombre de alguien que está en el mismo cuarto.
+
+Chiara caminó hasta la barra sin apurarse. La mujer la oyó llegar y giró apenas la cabeza — un vistazo breve, sin hostilidad, el de alguien que calcula cuánto cuesta un traje y quién lo pagó — y después volvió a mirar el borde de la barra, del lado de adentro.
+
+Kal se levantó. Traía el desarmador en la mano y una mancha de agua en la rodilla del pantalón. Miró a la mujer. Miró a Chiara. Se limpió la mano libre en el pantalón, aunque ya estaba seca.
+
+—¿Qué haces aquí?
+
+—Estaba en la ciudad. —La mujer miró el panel en el piso, la linterna, al encargado que de pronto tenía algo urgente que revisar en la caja registradora—. Tranquilo. No vengo a cobrar nada, Ojos azules. Todavía.
+
+Recogió el abrigo. A Chiara le dedicó un gesto con la barbilla, cortés, de igual a igual, sin preguntarle el nombre y sin darle el suyo, y se fue por donde había llegado, con el mismo paso de antes.
+
+Chiara pidió el libro de la cava. El encargado lo sacó del cajón al primer intento. Firmó los dos renglones de los Ferretti con el lápiz de Fabrizio, despacio, y Kal volvió a arrodillarse junto a la máquina.
+
+—Alguien de antes —dijo, sin levantar la cabeza.
+
+Ella no había preguntado. Cerró el libro y se lo devolvió al encargado.
+
+Kal apretó un tornillo que ya estaba apretado.
+
+Chiara no dijo nada. Se guardó el apodo, y el tornillo.
+
+---
+
+Subió al despacho por el pasillo alfombrado, con el ruido del piso quedándose atrás — cristalería, una risa en algún salón, el motor lejano de un elevador. Después se sentó, por fin, en la silla de Matteo, sacó su propio teléfono y empezó a hacer una lista de todo lo que hacía falta resolver antes del viernes.
 
 La taza de café frío seguía donde había estado toda la mañana.
 
 No la movió todavía.
-
----
-
-Las invitaciones llegaron en sobres de papel grueso, cien en total, todos con la misma letra impersonal de imprenta. *La señora Bellandi la invita a una velada a bordo, este viernes, en la costa.* Nada de cumpleaños. Ningún nombre propio en el cuerpo del texto — sólo fecha, hora, muelle —, porque a Chiara nunca le había hecho falta un motivo para reunir a la ciudad correcta en el lugar correcto.
-
-Las firmó una por una, de pie junto al escritorio, con la misma rúbrica rápida que usaba para todo lo que no le exigía pensar.
-
-La de Kal la dejó para el final.
-
-No usó la de la imprenta. Sacó su propio papel —el bueno, el que olía a lo que ella olía— y escribió a mano algo que no cabía en el molde de las otras noventa y nueve.
-
-*Kal.*
-
-*La velada de este viernes voy a celebrar una fiesta en un yate, en la costa. Muchos estarán invitados, pero antes de la fiesta quiero pasar el día contigo, y quizá podamos tener una velada mágica. Te veré ahí.*
-
-*Te veo, con mucha Roma.*
-
-*—Chiara*
-
-La releyó una vez, dobló el papel, y algo parecido a una sonrisa —de las que no llegan del todo a la boca— le cruzó la cara sola, sin testigos, en un despacho que todavía no era suyo.
-
-Noventa y nueve personas iban a recibir, esa semana, exactamente la misma carta. Sólo una iba a recibir otra. Y de todos los que la abrirían, era el único que no tenía ninguna posibilidad de entenderla.
-
-Guardó el sobre de Kal aparte, separado de la pila, antes de mandar el resto.

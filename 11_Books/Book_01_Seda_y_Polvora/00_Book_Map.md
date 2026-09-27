@@ -30,13 +30,15 @@ H8, F4, F3, F2, Villa, Stavanger y H1 ya no pertenecen a este libro — ver
 
 ## Que es este libro
 
-*Seda y Polvora* es una novela de crimen de ascenso y romance. Sigue a Kal Mercer y Chiara Bellandi desde la noche en que se conocen sin poder real hasta el momento en que la ciudad de San Aurelio ya no puede moverse sin que uno de los dos lo sepa.
+*Seda y Polvora* es una novela de crimen de ascenso y romance. Sigue a Kal Mercer y Chiara Bellandi desde la noche en que se conocen sin poder real hasta la primera prueba que los separa: construyen juntos un hogar y un lugar en San Aurelio, y el libro termina cuando ese lugar resiste su primera presión real (Palermo, F1, Camp Alder) y se reencuentran.
 
 No es una historia de separacion ni de castigo moral. La pregunta no es si terminan juntos: esa regla es dura. La pregunta es en que se convierten para poder quedarse.
 
 ## Premisa narrativa
 
-Dos personas sin origen propio descubren que juntas pueden construir pertenencia, territorio y relato. El conflicto dramatico del libro es si ese lugar construido puede seguir siendo hogar cuando ya crecio hasta convertirse en imperio.
+Dos personas sin origen propio descubren que juntas pueden construir pertenencia, territorio y relato. El conflicto dramatico de la saga es si ese lugar construido puede seguir siendo hogar cuando ya crecio hasta convertirse en imperio; este libro lo plantea con el encuentro, la construcción y la primera prueba.
+
+> **CORREGIDO (2026-09-27, housekeeping E8 de [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_III]]):** la premisa decía que el libro llegaba "hasta el momento en que la ciudad de San Aurelio ya no puede moverse sin que uno de los dos lo sepa" y que su conflicto era el lugar que "ya crecio hasta convertirse en imperio". Eso describe la escala de la saga, no el Libro I, que termina en "Ciao, bella" (ver "Punto de salida" y [[00_Biblia/00_Trilogy_Structure]]).
 
 ## Punto de entrada
 
@@ -326,6 +328,8 @@ Elenna no es un *stake* ornamental ni la única razón de Palermo. Palermo tambi
 **Auditoría editorial de la Parte II (2026-09-27):** 26–34 operados por etapas (E1–E9) según [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II]]: cronología 26–31 fijada en unas 24 horas, poda del 30 (pacto, no plan de caída), Beretta .25 en el 31, escena de Irene en el 32. Los nueve siguen en BORRADOR.
 
 **· · · CORTE PARTE II → PARTE III — ARDIZZONE · · ·** *(fijado 2026-09-20, autor)*
+
+**Parte III — Ardizzone (Caps. 35–44), en `Part_03_Ardizzone/`; auditoría editorial 2026-09-27:** los diez operados por etapas (E1–E9) según [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_35-44_Parte_III]]. 35 *Sin fecha de regreso* (recibe en E9 la escena de Anya en el Monarch, BORRADOR/DISEÑO; la coda de las invitaciones pasó al 36) · 36 *También las mañanas* (H16, compactado) · 37 *Cuatro letras* · 38 *Al revés* (8,628 → 7,785, sin vela) · 39 *Un par de días más* · 40 *Mecánico* · 41 *La otra mitad* · 42 *Nada* (F1) · 43 *La puerta* (H19) · 44 *A oscuras* (H20, cierra el Libro I). Títulos 36–38 confirmados por el autor. Los diez siguen en BORRADOR; prosa 31,999 → 31,032.
 
 ## Proximo paso
 

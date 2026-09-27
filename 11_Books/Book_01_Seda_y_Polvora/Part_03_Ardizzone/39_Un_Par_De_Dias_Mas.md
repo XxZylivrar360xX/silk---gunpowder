@@ -1,15 +1,15 @@
 <!--
-Estado: BORRADOR — Parte III — Ardizzone, quinto capítulo (Cap. 39 del manuscrito). Redactado 2026-09-21, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO POR EL AUTOR EN EL ENCARGO (2026-09-21): "Un par de días más". No es provisional.
-Protagonista: Kal Mercer (POV único, tercera persona cercana). No hay salto de POV. Chiara Bellandi no aparece físicamente ni por mensaje — sólo como la frase que Kal repite y como los objetos que dejó en el loft.
+Estado: BORRADOR — Parte III — Ardizzone, quinto capítulo (Cap. 39 del manuscrito). Redactado 2026-09-21, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO POR EL AUTOR EN EL ENCARGO (2026-09-21): "Un par de días más". No es provisional. **Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_III]]):** frase canon de H18 restaurada tres veces, POV de la llegada, C55 y gesto P3; detalle en [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_35-44_Parte_III]] § 9 parte 3. Sigue BORRADOR hasta lectura del autor.
+Protagonista: Kal Mercer (POV único, tercera persona cercana). No hay salto de POV. Chiara Bellandi no aparece físicamente ni por mensaje — sólo como la frase que Kal repite y como los objetos que dejó en el loft. La llamada de las nueve de Kal a Chiara ("Ciao, bella" / "—Nada.", Cap. 41) ocurre esa misma noche fuera de cuadro, en la elipsis entre la cena en el patio y el loft; el 39 no la narra (E7 Parte III, D40).
 Personajes con diálogo: Kal Mercer, Marisol Grayson, Nadir Amrani, Mei-Lin Zhao, Héctor Navarro, Dario Varek (por teléfono).
-Cameos sin diálogo: Riley Bennett (bajo un coche, sin función), Danny Hayes (saludo mínimo).
+Cameos sin diálogo: Riley Bennett (bajo un coche; lleva el gesto P3 con Mei-Lin: un café igual junto a sus botas y en la mano de Mei-Lin, sin diálogo ni glosa — aprobado por el autor 2026-09-27, Q15), Danny Hayes (saludo mínimo).
 Ausente, sentido: Chiara Bellandi. Mencionado sin aparecer: Warren Halbrook (mensaje de texto, nunca en persona, nunca en San Aurelio).
-Ventana temporal: un solo día, varios después del cierre del Cap. 38 (el viaje a Palermo se cursó y transcurrió fuera de cuadro). Empieza a media tarde con el vuelo comercial de Kal; cierra de noche en el balcón del loft. Palermo NO se narra: ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/40|Cap. 40]] (todavía sin escribir).
+Ventana temporal: un solo día, varios después del cierre del Cap. 38 (el viaje a Palermo se cursó y transcurrió fuera de cuadro). Empieza a media tarde con el vuelo comercial de Kal; cierra de noche en el balcón del loft. Palermo NO se narra aquí: es la analepsis del [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/40_Mecanico|Cap. 40]].
 Lugares: Kingsley Field, terminal comercial (apertura); Almendra Towing / El Patio (cuerpo del capítulo); loft de La Almendra, incluido el balcón (cierre).
 Función: primer capítulo de regreso tras Palermo. Muestra a Kal administrando dos problemas que no puede nombrar (Palermo, la orden de Halbrook) mientras finge normalidad ante todos menos Marisol. Instala la fecha/ventana de Camp Alder y la promesa de Dario. Cierra con la única línea que Kal dice sobre Palermo en todo el capítulo.
 
 - REGLA ESTRUCTURAL: sigue el plan de cierre de Parte III al detalle. No se resuelve Palermo, no se resuelve Camp Alder, no aparece Chiara, no hay mensaje de Chiara.
-- **Regla de información (restricción, no mentira):** Kal no miente en grande. La frase que repite todo el día ("Chiara se quedó unos días más en la villa") es técnicamente posible — él mismo no sabe todavía que ella vuelve esa misma tarde. Evita reconstruir a solas lo que pasó en la Mesa; no hay ninguna frase del tipo "decidió no pensar en ello" ni "eso ya no importaba ahora". La restricción se muestra por conducta: cambia de tema, contesta con lo funcional, no deja que el silencio se alargue con nadie salvo Marisol.
+- **Regla de información (restricción, no mentira):** Kal no miente en grande. La frase que repite todo el día ("Chiara se quedó un par de días más en la villa", canon de H18; restaurada en E7 2026-09-27, antes "unos días más") es técnicamente posible — él mismo no sabe todavía que ella vuelve esa misma tarde. Evita reconstruir a solas lo que pasó en la Mesa; no hay ninguna frase del tipo "decidió no pensar en ello" ni "eso ya no importaba ahora". La restricción se muestra por conducta: cambia de tema, contesta con lo funcional, no deja que el silencio se alargue con nadie salvo Marisol.
 - **Marisol** es la única que no cree la versión. No tiene información: tiene costumbre de él. Registra que volvió solo y mira a Kal un momento más después de la versión de la villa. Tras "Largo", cambia de tema ella. No lo presiona en ningún momento del capítulo; cuando ve que no va a hablar, deja de preguntar. Practicas: sigue buscando, sin resolver dónde (siembra ya existente de la madre de Sam, fiscal de distrito).
 - **Riley:** cameo sin función, ya presentada en 37/38. **Mei-Lin:** segundo beat de siembra — pregunta práctica sobre una ruta del norte, Kal usa el dato para mandar el camión a las seis. Nada de Tommaso, Dario, informante ni pago.
 - **Halbrook:** no aparece en persona ni pisa San Aurelio. Llega por un mensaje de texto desde un número no guardado, con fecha y ventana horaria envueltas en lenguaje mundano (una entrega, sin explicar de qué). Kal entiende sin que se lo expliquen.
@@ -24,7 +24,7 @@ El sol de las tres de la tarde le pegaba distinto a Kingsley Field que el azul d
 
 Marisol tenía las intermitentes puestas y medio auto subido a la banqueta, como si lo hubiera estacionado a media frenada.
 
-Lo vio antes de que él la viera a ella, y en el segundo que tardó en cruzar la calle Kal la observó hacer lo que hacía siempre que lo recibía en un aeropuerto: mirar detrás de él, hacia la puerta todavía abriéndose y cerrándose, esperando que saliera alguien más.
+En el segundo que tardó en cruzar la calle, Kal la observó hacer lo que hacía siempre que lo recibía en un aeropuerto: mirar detrás de él, hacia la puerta todavía abriéndose y cerrándose, esperando que saliera alguien más.
 
 No salió nadie más.
 
@@ -40,7 +40,7 @@ Marisol bajó la vista a la maleta —una, no dos— y después volvió a subirl
 
 Kal metió la maleta y cerró la cajuela.
 
-—Se quedó unos días más. En la villa.
+—Se quedó un par de días más. En la villa.
 
 Marisol lo miró un momento más. Después rodeó el coche hacia el lado del conductor.
 
@@ -88,7 +88,7 @@ Nadir sonrió, corto, y volvió a contar algo contra el mostrador.
 
 —Sobreviví. Mi hígado no, pero yo sí. —Levantó la vista—. ¿Y la señora? No la vi bajar contigo.
 
-—Se quedó unos días más en la villa.
+—Se quedó un par de días más en la villa.
 
 —Ah. —Nadir asintió, ya volviendo al fajo de billetes en la mano, sin darle más peso del que le daba a cualquier otro dato del día—. Bien por ella. Que descanse. Tú, en cambio, pareces que dormiste en el avión sentado.
 
@@ -100,7 +100,7 @@ Kal dejó la maleta detrás del mostrador, donde la dejaba siempre que llegaba d
 
 ---
 
-Riley estaba bajo un sedán distinto al del otro día, con las botas asomando y una llave inglesa que hacía ruido contra algo cada pocos segundos. No salió a saludarlo. Kal tampoco se detuvo a que lo hiciera. La registró ahí, trabajando, y siguió caminando, y eso fue toda la interacción.
+Riley estaba bajo un sedán distinto al del otro día, con las botas asomando, un vaso de café junto a una de ellas, y una llave inglesa que hacía ruido contra algo cada pocos segundos. No salió a saludarlo. Kal tampoco se detuvo a que lo hiciera. La registró ahí, trabajando, y siguió caminando, y eso fue toda la interacción.
 
 Danny estaba con el motor que tosía, y levantó apenas la cabeza.
 
@@ -108,7 +108,7 @@ Danny estaba con el motor que tosía, y levantó apenas la cabeza.
 
 —Danny.
 
-Nada más. Kal encontró a Mei-Lin en la bahía de siempre, sentada en el borde de una llanta apilada, con el teléfono en la mano y la cara de quien está leyendo algo que no le interesa del todo.
+Nada más. Kal encontró a Mei-Lin en la bahía de siempre, sentada en el borde de una llanta apilada, con el teléfono en una mano, un café igual en la otra, y la cara de quien está leyendo algo que no le interesa del todo.
 
 —Necesito que muevan un camión hasta el norte antes de que oscurezca —dijo Kal, sin preámbulo—. Cedar Flats. ¿Está limpio o hay que rodear?
 
@@ -134,7 +134,7 @@ Encontró a Héctor donde lo encontraba siempre a esa hora, en la sombra del gal
 
 —¿Y ella?
 
-—Se quedó unos días más. En la villa.
+—Se quedó un par de días más. En la villa.
 
 Héctor no dijo nada durante un momento. Después abrió los ojos y lo miró de lado, el tiempo justo para que Kal supiera que lo estaba mirando de verdad y no de pasada.
 
@@ -198,7 +198,7 @@ Otro silencio, más corto que el primero.
 
 —Bien.
 
-Colgó sin despedirse, y Kal se quedó con el teléfono en la oreja un segundo de más, mirando la calle otra vez, ahora sí viéndola: el patio detrás de él, la grúa terminando de maniobrar, Danny cerrando el cofre del motor que ya no tosía. Se guardó el teléfono y volvió adentro, y lo primero que hizo fue buscar a Nadir con la mirada, y después a Héctor, calculando sin decirlo en voz alta quién de los dos iba a necesitar saber qué y cuándo.
+Colgó sin despedirse, y Kal se quedó con el teléfono en la oreja un segundo de más, mirando la calle otra vez, ahora sí viéndola: el patio detrás de él, la grúa terminando de maniobrar, Danny cerrando el cofre del motor que ya no tosía. Se guardó el teléfono y volvió adentro, y lo primero que hizo fue buscar a Nadir con la mirada, y después a Héctor, calculando quién de los dos iba a necesitar saber qué y cuándo.
 
 No le dijo a nadie todavía. Pero empezó, sin que se notara del todo, a organizar.
 

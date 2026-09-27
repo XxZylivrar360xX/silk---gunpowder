@@ -283,6 +283,20 @@ También se actualizaron [[02_Characters/Marta_Bellandi]] (misa) y [[06_Relation
 
 **PENDIENTE del autor:** capítulo exacto de la Parte I; si el 42 lleva línea o sólo conducta. Leer las escenas completas antes de insertar.
 
+## 5-septies. Ejecución en la Parte III (auditoría 35–44, 2026-09-27)
+
+Mapa: [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_35-44_Parte_III]]. Los diez capítulos siguen en **BORRADOR**.
+
+| # | Laguna | Estado |
+|---|---|---|
+| P1 | Anya en el Monarch | **Escrita (E9), BORRADOR/DISEÑO hasta lectura del autor.** Cap. 35, cuarta sección, POV Chiara. Sin nombre; línea "No vengo a cobrar nada, Ojos azules. Todavía."; Kal: "Alguien de antes." Queda en el 35, no en 36–37 (Q13) |
+| P2 | Casi-confesión del 36 (hilo A) | **Resuelta sin prosa nueva:** ya existía (la ceja, el silencio, la verdad chica alrededor de "Sin duda alguna"); protegida |
+| P3 | Riley y Mei-Lin como amigas | **Aplicada (E7):** el 37 ya sembraba; gesto de +13 palabras en el 39 (cafés), sin diálogo |
+| P4 | Penthouse o loft como pregunta; rutina doméstica | **Resuelta sin prosa nueva:** existe en 36–43; protegida |
+
+**Ritual del *Ciao*:** la búsqueda de E4 confirmó 35 (nace), 36 (llamada de la noche), 41 ("Ciao, bella" / "Ciao"), 42 ("Ciao, tesoro" y la mano quieta), 43 (los labios sin sonido) y 44 (cierre). Nada choca; nada se podó.
+**Rimas 14↔44 y 24↔44:** protegidas, sin cambios. La Beretta del 44 cobra la del 31.
+
 ## 6. PENDIENTE — decisiones del autor
 
 - ¿Se aprueban las siembras de Camp Alder como geografía en la Parte I? ¿En qué capítulo?

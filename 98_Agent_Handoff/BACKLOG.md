@@ -27,7 +27,7 @@ Actualizado: 2026-09-21. Lectura por tema, no de arranque. Extraído de pendient
 - Libro I, Parte II: nombre/ubicación de cascadas y río norte, formación rocosa y ganador de pesca; beneficio de Halbrook y relación directa con Varek; tercera línea que Chiara oculta. Los papeles de Nadir quedan pendiendo deliberadamente.
 - Nadir y la moto (DISEÑO 2026-09-26, [[13_Auditorias/Book_01_Seda_y_Polvora/Evaluacion_Arco_Libro_I#5-sexies. Nadir y la moto (DISEÑO aprobado en concepto por el autor, 2026-09-26; sin prosa)|5-sexies]]): capítulo de la Parte I antes del 25 y si el pago en el 42 lleva línea o sólo conducta.
 - Origen del talento de Kal al piano; no inventarlo desde su aparición en el 38.
-- Yegua: procedencia exacta abierta; verificar Stella con el autor como indica PENDING. Regalo de cámara de Héctor a Chiara: momento, mecanismo y prosa.
+- Yegua: procedencia exacta abierta. Nombre **Stella: CANON DEL AUTOR (2026-09-27)**. Regalo de cámara de Héctor a Chiara: momento, mecanismo y prosa.
 - Villani Motors: verificar ejecución de compra/venta del auto y siembra de adquisición del local antes de dar por vigente el antiguo encargo de redactarlas.
 - Lucia: ubicar el futuro reconocimiento de sus dos relaciones distintas con Kal cuando él ya coordine problemas entre bandas; no reinsertar en «Línea directa» la observación retirada por prematura.
 - Palermo y liberación: el plan del 2026-09-21 ya resuelve la reserva general. Sólo desarrollar lo que el plan autoriza; comprobar cualquier detalle jurídico residual contra ese mecanismo antes de pedir nuevas decisiones.

@@ -66,7 +66,11 @@ Chiara nota que ella lo llama **Kal**. Cuando las dos se acercan, Anya lo llama 
 
 **Regla de la escena:** Chiara empieza a conectar puntos, pero **no por su cuenta ni porque Anya lo insinúe. Es por el comportamiento de Kal.** Anya no provoca; Kal se delata solo. (Cumple la regla "no hay celos, hay información" y la de "Kal administrando".)
 
-> **PENDIENTE:** capítulo exacto (diseño: 36–37); la línea de Anya que deja abierta la deuda; qué le dice Kal a Chiara después.
+> **ESCRITA (2026-09-27, E9 de la auditoría de la Parte III; decisiones del autor en Q13): BORRADOR/DISEÑO hasta que la lea el autor.** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35]], cuarta sección, POV Chiara, el día que se va Matteo (no en 36–37). Kal se queda a arreglar la máquina de hielo del bar del casino (el técnico era de Matteo); Chiara baja a firmar el libro de la cava.
+> - **Nadie la nombra**; el acento no se menciona. El nombre sigue guardado para F4.
+> - **Línea de Anya (deja abierta la deuda):** "No vengo a cobrar nada, Ojos azules. Todavía."
+> - **Kal a Chiara, sin que ella pregunte:** "Alguien de antes." Chiara no contesta; se guarda el apodo y el tornillo ya apretado.
+> - Diseño y alternativas descartadas: [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_35-44_Parte_III]] (§ P1 y § 9 parte 5).
 
 ---
 

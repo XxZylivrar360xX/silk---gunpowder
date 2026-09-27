@@ -1,24 +1,24 @@
 <!--
-Estado: BORRADOR — Parte III — Ardizzone, décimo y último capítulo (Cap. 44 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "A oscuras". No es provisional, aunque notas anteriores del vault todavía digan PENDIENTE.
+Estado: BORRADOR — Parte III — Ardizzone, décimo y último capítulo (Cap. 44 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "A oscuras". No es provisional. **Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_III]]):** "tres palabras" (no "cuatro": "Kal no salió."); "Sra." → "Señora" en diálogo (tres veces; criterio único con el 38); la recepción es "la misma que días antes le había anunciado a Kal" (en el 42 la recepción llamó a Chiara, no al revés); cortadas la glosa "Entre las dos había un límite claro…" y la frase oscura "Ninguno de los dos había detenido nada esa noche.". El monólogo, el buzón, la Beretta, el loft y "—Ciao, bella.", intactos. Detalle en [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_35-44_Parte_III]], § 9 parte 4. Sigue BORRADOR.
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal Mercer NO aparece en escena hasta la última imagen del capítulo, y no tiene diálogo salvo la última línea. No hay POV de Kal, Lucía, policías, abogados, Halbrook ni personal de Camp Alder: todo llega a Chiara por llamadas, registros, silencios y puertas institucionales que no abren.
-Personajes con diálogo: Chiara Bellandi, Hector Navarro (por teléfono, breve), Lucia Varek (en persona). Kal Mercer, una sola línea, al cierre. Mencionados sin aparecer: Warren Halbrook (nunca nombrado), Nadir Amrani, Danny Hayes, Garrett Cross, Riley Bennett, Dario Varek.
-Ventana temporal: D5 (la madrugada en que Kal queda detenido, continuación directa del cierre del Cap. 43) hasta la noche de D6 (apagón, penthouse, loft). Sin encabezados de fecha en el cuerpo. Cierra la Parte III.
+Personajes con diálogo: Chiara Bellandi, Héctor Navarro (por teléfono, breve), Lucía Varek (en persona). Kal Mercer, una sola línea, al cierre. Mencionados sin aparecer: Warren Halbrook (nunca nombrado), Nadir Amrani, Danny Hayes, Garrett Cross, Riley Bennett, Dario Varek.
+Ventana temporal: D5 (la madrugada en que Kal queda detenido, continuación directa del cierre del Cap. 43) hasta la noche de D6 (apagón, penthouse, loft). Sin encabezados de fecha en el cuerpo. Cierra la Parte III y el Libro I.
 Lugares: The Monarch — despacho y penthouse de Chiara; un local cerca de la comisaría donde se reúne con Lucía Varek; el penthouse durante el apagón; el loft de La Almendra, a oscuras.
-Función: ejecuta la consecuencia visible de H20 hasta el regreso inexplicado de Kal. Chiara agota abogados, dinero, contactos e influencia intentando alcanzar a Kal y descubre, por primera vez en el libro, que ninguna herramienta suya abre la puerta que lo tiene. Lucía confirma jurisdicción federal y no puede intervenir. El apagón y el monólogo con Dios cierran su arco de administración; el penthouse deja de ser casa; el loft, a oscuras, la recibe con Kal vivo. La mecánica real de la liberación (Halbrook, el apagón, el expediente) se reserva para Voto de Ceniza; aquí no se explica. Cierra la Parte III con "—Ciao, bella." como última línea absoluta.
+Función: ejecuta la consecuencia visible de H20 hasta el regreso inexplicado de Kal. Chiara agota abogados, dinero, contactos e influencia intentando alcanzar a Kal y descubre, por primera vez en el libro, que ninguna herramienta suya abre la puerta que lo tiene. Lucía confirma jurisdicción federal y no puede intervenir. El apagón y el monólogo con Dios cierran su arco de administración; el penthouse deja de ser casa; el loft, a oscuras, la recibe con Kal vivo. La mecánica real de la liberación (Halbrook, el apagón, el expediente) se reserva para Voto de Ceniza; aquí no se explica. Cierra la Parte III y el Libro I con "—Ciao, bella." como última línea absoluta.
 
 - REGLA ESTRUCTURAL: sigue el plan de cierre de Parte III y el encargo del autor al detalle. Sin bajas, sin explicar la ingeniería del apagón, sin insinuar autoría de Halbrook, sin explicar cómo salió Kal, sin resolver F1, sin reconciliación, sin "te amo" de ninguno de los dos.
 - **Cronología cerrada en D5→D6, sin D7:** Héctor llama la mañana de D5; abogados, municipal y transferencia ocupan D5; Chiara agota el resto de sus vías y pide ver a Lucía esa misma noche; se reúnen la mañana de D6; el resto de D6 es desgaste y el beat de la puerta; el apagón cae la noche de D6. Corrección quirúrgica (2026-09-22): se retiró toda extensión a "los días siguientes" (plural) que empujaba el capítulo a D7.
 - **Fuente de la noticia:** Héctor llama a Chiara esa misma mañana — no un abogado inventado, no un policía recurrente nuevo, no un informante milagroso. Sabe lo mínimo: salieron cuatro, volvieron tres, la municipal se llevó a Kal cerca del perímetro.
 - **La maquinaria:** abogados (genéricos, ya establecidos como aparato del casino/Chiara, sin nombre nuevo), dinero, contactos, el nombre Bellandi/Monarch, vía institucional. Cada uno funciona parcialmente antes de fallar. El expediente de transferencia que consiguen sólo dice hora de salida y "reclamación federal" — **Lucía Varek no lo firma ni lo autoriza**; no aparece en ningún papel.
 - **Cómo llega Chiara a Lucía (corregido):** no por hallazgo en ningún expediente — por memoria. Recuerda que Kal le dijo, una noche, que Lucía Varek le había dejado su número directo (Cap. 32, Línea Directa); ese dato, guardado sin usar entonces, se vuelve útil ahora. Pide que la comuniquen con la subjefa Lucía Varek, alegando que es sobre Kal Mercer. No es coincidencia: es algo que Chiara ya sabía que existía.
-- **Lucía:** confirma custodia municipal → reclamo federal → Camp Alder; no puede intervenir; investiga y orienta. Su lectura de que esto excede los negocios se muestra por conducta externa (mirada sostenida, tono, el gesto de la mano al final), nunca narrada desde su interior — sin fuga de POV. Línea funcional: "—Ya no lo tiene la ciudad."
-- **Beat opcional de la puerta del Cap. 43, usado:** llega por la recepción de la Torre Norte, a la que Chiara ya recurrió una vez en el Cap. 42 para anunciar visitas; ahora pregunta si alguien subió a verla en los últimos días y se entera, de forma banal, de que el señor Mercer subió esa tarde y se fue sin tocar. No sabe por qué. No se explica la simetría con la línea "Ni siquiera me dejas pedirle perdón."
+- **Lucía:** confirma custodia municipal → reclamo federal → Camp Alder; no puede intervenir; investiga y orienta. Su lectura de que esto excede los negocios se muestra por conducta externa (mirada sostenida, tono, el gesto de la mano al final), nunca narrada desde su interior — sin fuga de POV. Línea funcional: "—Ya no lo tiene la ciudad." — en prosa la dice **Chiara**, más para sí misma, y Lucía la confirma ("No. Ya no."); se conserva así (Q12, 2026-09-27).
+- **Beat opcional de la puerta del Cap. 43, usado:** llega por la recepción de la Torre Norte, la misma que en el Cap. 42 le anunció a Chiara la visita de Kal; ahora pregunta si alguien subió a verla en los últimos días y se entera, de forma banal, de que el señor Mercer subió esa tarde y se fue sin tocar. No sabe por qué. No se explica la simetría con la línea "Ni siquiera me dejas pedirle perdón."
 - **Monólogo con Dios:** orden textual exacto pedido por el autor — Me dejas acercarme a él. / Me dejas abrirme con él. / Me dejas enamorarme de él. / Ni siquiera me dejas pedirle perdón. / ¿Y ahora lo apartas de mí? / ¡¿Qué más quieres de mí?! Sin vela (el ritual nace después, en F4 — Cap. Fe_y_Velas). Sin Tommaso (sigue vivo). Sin resolución divina. Sin glosa de narrador antes o después ("dejó de administrar" retirado; el hecho de que ya no le queda a quién llamar y empieza a hablarle a Dios ya lo demuestra).
 - **El penthouse deja de ser casa:** mostrado por acción (toma lo necesario, sale, conduce ella misma su sedán del Monarch, sin pedir permiso a Nadir ni a Riley), sin explicar el motivo ni afirmar que no piensa en Kal.
 - **El loft, hogar ya compartido:** desde la mudanza oficial (H16) es casa de los dos; se retiró cualquier frase que sugiriera que Chiara todavía no lo siente suyo.
 - **Beretta .25:** mano al bolso, sin detalle táctico, sin fetichizar modelo ni postura, sin historial de disparos insinuado.
 - **Kal, POV estrictamente de lo visible:** Chiara no vio salir a Kal del Patio ni puede saber con qué ropa se fue; sólo describe lo que ve (ropa sucia, cansancio), nunca su origen.
-- **Última línea absoluta del capítulo y de la Parte III:** "—Ciao, bella." Nada después: ni reacción de Chiara, ni gesto, ni separador, ni metadata narrativa. Corte inmediato.
+- **Última línea absoluta del capítulo, de la Parte III y del Libro I:** "—Ciao, bella." Nada después: ni reacción de Chiara, ni gesto, ni separador, ni metadata narrativa. Corte inmediato.
 - Sin EPUB, commit ni push.
 -->
 
@@ -32,7 +32,7 @@ Chiara lo vio vibrar sobre la mesa, un número que no tenía nombre completo gua
 
 —Kal no salió.
 
-La voz de Héctor no tenía el registro con el que hablaba de coches ni de facturas. Era más baja, más corta, la de alguien que ha estado despierto toda la noche decidiendo cómo decir cuatro palabras.
+La voz de Héctor no tenía el registro con el que hablaba de coches ni de facturas. Era más baja, más corta, la de alguien que ha estado despierto toda la noche decidiendo cómo decir tres palabras.
 
 Chiara no se sentó. Tampoco se movió del lugar exacto donde estaba de pie.
 
@@ -70,7 +70,7 @@ Cada puerta se abrió lo justo para dejarle ver la siguiente cerrada.
 
 A media tarde, el segundo abogado volvió a llamar, y esta vez su voz tenía algo que Chiara reconoció antes de que terminara la frase: el tono de quien va a dar una mala noticia usando palabras que sabe que no van a alcanzar para suavizarla.
 
-—Sra. Bellandi. Ya no está ahí.
+—Señora Bellandi. Ya no está ahí.
 
 —¿Cómo que no está ahí.
 
@@ -96,7 +96,7 @@ Pidió que localizaran a la subjefa Lucía Varek, y que le dijeran que era sobre
 
 Se vieron al día siguiente, en un local pequeño a dos calles de la comisaría, con mesas de fórmica y café que nadie iba a elogiar. Lucía llegó sin uniforme, con una carpeta que no abrió en toda la conversación, y se sentó frente a Chiara sin ofrecerle la mano.
 
-—Sra. Bellandi.
+—Señora Bellandi.
 
 —Gracias por venir.
 
@@ -124,7 +124,7 @@ La palabra cayó sin adorno, sin disculpa detrás.
 
 —No. Ya no.
 
-Chiara no le preguntó a Lucía qué había pasado esa noche cerca del perímetro, ni por qué Kal se había quedado atrás en vez de salir con los demás. Lucía tampoco se lo ofreció. Entre las dos había un límite claro, y ninguna lo cruzó.
+Chiara no le preguntó a Lucía qué había pasado esa noche cerca del perímetro, ni por qué Kal se había quedado atrás en vez de salir con los demás. Lucía tampoco se lo ofreció.
 
 Lucía la miró un momento más de lo que la conversación necesitaba. No dijo nada de lo que fuera que hubiera en esa mirada. Tomó la carpeta que no había abierto, se puso de pie, y por primera vez le ofreció la mano.
 
@@ -142,13 +142,13 @@ El resto de ese día tuvo la forma de una misma hora repetida, sin descanso entr
 
 Chiara dejó de mirar la placa con el nombre de Matteo en la puerta del despacho porque dejó de entrar al despacho. El café se le enfriaba en la taza antes de que se acordara de que lo había servido. Cambió de ropa sin que fuera por nadie, sólo porque llevaba puesta la misma desde el día anterior y en algún momento eso empezó a importarle otra vez. El teléfono nunca se alejó de un cargador, y las respuestas que daba se hicieron cada vez más cortas, no porque dejara de pensar, sino porque ya no le quedaba nada nuevo que preguntar.
 
-Entre una llamada que no llevó a nada y la siguiente que tampoco, la mentira de "—Nada." volvió a subir. No como recuerdo completo: como fragmento. La voz de Kal, a media frase, sin terminarla. Ninguno de los dos había detenido nada esa noche.
+Entre una llamada que no llevó a nada y la siguiente que tampoco, la mentira de "—Nada." volvió a subir. No como recuerdo completo: como fragmento. La voz de Kal, a media frase, sin terminarla.
 
 No se permitió quedarse ahí. Volvió al teléfono.
 
-Fue la recepción de la Torre Norte, a la que ya había recurrido antes para anunciar a Kal, quien le dio lo último que nadie le había pedido.
+Fue la recepción de la Torre Norte, la misma que días antes le había anunciado a Kal, quien le dio lo último que nadie le había pedido.
 
-—Sra. Bellandi, ya que pregunta por los registros de esos días… el señor Mercer subió, ¿sabe? La tarde antes de que empezara todo esto. Se quedó un momento en el piso y volvió a bajar. No llegó a tocar, según el de seguridad. Pensamos que usted ya lo sabía.
+—Señora Bellandi, ya que pregunta por los registros de esos días… el señor Mercer subió, ¿sabe? La tarde antes de que empezara todo esto. Se quedó un momento en el piso y volvió a bajar. No llegó a tocar, según el de seguridad. Pensamos que usted ya lo sabía.
 
 Chiara se quedó con el teléfono en la mano un rato después de colgar.
 

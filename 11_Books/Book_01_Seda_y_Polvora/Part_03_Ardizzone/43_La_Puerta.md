@@ -1,5 +1,5 @@
 <!--
-Estado: BORRADOR — Parte III — Ardizzone, noveno capítulo (Cap. 43 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "La puerta". No es provisional, aunque notas históricas del vault todavía digan PENDIENTE.
+Estado: BORRADOR — Parte III — Ardizzone, noveno capítulo (Cap. 43 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "La puerta". No es provisional. **Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_III]]):** Kal sale del loft hacia El Patio (no "hacia La Almendra": el loft ya está ahí); prolepsis de narrador cortada ("en algún punto que después nadie iba a poder señalar" → "sin aviso"); dos casos del tic "no hacía falta / no necesitaba decir nada más" (Garrett, "Ahora") y la inercia "que no había nada más que discutir ahí"; "la noche anterior" dos veces en la frase de la puerta → una. La puerta (sus dos "No hacía falta"), el expediente sin abrir, Héctor jalando a Nadir y la reja, intactos. Detalle en [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_35-44_Parte_III]], § 9 parte 4. Sigue BORRADOR.
 Protagonista: Kal Mercer (POV único, tercera persona cercana). No hay salto de POV. Chiara Bellandi NO aparece físicamente en ningún momento del capítulo — ni llamada, ni mensaje, ni reconciliación.
 Personajes con diálogo: Kal Mercer, Nadir Amrani, Héctor Navarro, Danny Hayes, Dario Varek (por teléfono). Garrett Cross participa sin diálogo propio relevante (una instrucción operativa mínima).
 Ausente, sentido: Chiara Bellandi (objetos en el loft, la puerta del penthouse). Mencionado sin aparecer: Warren Halbrook (encargo ya sabido, no en escena), Lucía Varek (no en este capítulo).
@@ -30,7 +30,7 @@ Se levantó, se lavó la cara, y en la cocina encontró la cafetera exactamente 
 
 Se vistió rápido: la ropa que se ponía cuando el día iba a terminar tarde, botas, una chaqueta que no le importaba perder. Revisó el teléfono. Nada de Chiara. No esperaba nada de Chiara.
 
-Salió del loft antes de las ocho, dejando la taza sin lavar en el fregadero, y condujo hacia La Almendra con las ventanas bajas y la radio apagada.
+Salió del loft antes de las ocho, dejando la taza sin lavar en el fregadero, y condujo hacia El Patio con las ventanas bajas y la radio apagada.
 
 ---
 
@@ -62,7 +62,7 @@ El día avanzó despacio y rápido a la vez, de esa manera en que avanzan los d�
 
 —Necesito que estés en el aire antes de que alguien tenga que pedírtelo dos veces.
 
-—Voy a estar —dijo Garrett, y no dijo nada más, porque no necesitaba decir nada más.
+—Voy a estar —dijo Garrett, y no dijo nada más.
 
 El teléfono le vibró a Kal pasadas las seis. Un número que ya tenía guardado, aunque nunca con un nombre completo.
 
@@ -96,7 +96,7 @@ Salió al pasillo del último piso. Estaba vacío, como siempre. Caminó hasta l
 
 Se quedó así un momento.
 
-No sabía si estaba del otro lado. No hacía falta saberlo. Le bastaba con lo que quedaba de la noche anterior — el sillón, la distancia que ella había puesto entre los dos, la mitad de verdad que él mismo le había dado la noche anterior — para entender lo mismo sin necesidad de comprobarlo.
+No sabía si estaba del otro lado. No hacía falta saberlo. Le bastaba con lo que quedaba de la noche anterior — el sillón, la distancia que ella había puesto entre los dos, la mitad de verdad que él mismo le había dado — para entender lo mismo sin necesidad de comprobarlo.
 
 Sé que si entro no voy a hacer lo que tengo que hacer.
 
@@ -118,7 +118,7 @@ Salieron después de la medianoche, en dos vehículos, sin luces innecesarias, y
 
 El ruido empezó del otro lado del perímetro, donde Dario había dicho que iba a empezar. No hizo falta más que eso para que la atención se moviera hacia allá.
 
-—Ahora —dijo Kal, y no hizo falta decir nada más.
+—Ahora —dijo Kal.
 
 Cuando llegó la ventana, entraron. Kal no llevaba en la cabeza un plano ni una ruta memorizada de un manual: llevaba lo que le quedaba de conocer un lugar como éste desde adentro, la misma calma con la que se movía en cualquier sitio que no fuera suyo. Nadir se movía cerca de él sin hacer preguntas. Héctor cubría la parte de atrás. Danny llevaba lo que había que llevar. Garrett ya no estaba con ellos: había ido hacia el punto donde tenía que estar el helicóptero, y su trabajo, a partir de ese momento, era mantener eso posible.
 
@@ -138,7 +138,7 @@ Alcanzaba. Hasta que dejó de alcanzar.
 
 ---
 
-La salida dejó de ser limpia en algún punto que después nadie iba a poder señalar con precisión: un movimiento que no debía haber pasado por ahí, una luz que se encendió donde no tenía que encenderse, una distancia que de pronto se volvió más corta de lo calculado. Lo que importó no fue la causa. Fue que, de un momento a otro, Héctor y Nadir quedaron más cerca del ruido que del punto de recogida, y el ruido empezó a acercarse a ellos.
+La salida dejó de ser limpia sin aviso: un movimiento que no debía haber pasado por ahí, una luz que se encendió donde no tenía que encenderse, una distancia que de pronto se volvió más corta de lo calculado. Lo que importó no fue la causa. Fue que, de un momento a otro, Héctor y Nadir quedaron más cerca del ruido que del punto de recogida, y el ruido empezó a acercarse a ellos.
 
 —Vayan —dijo Kal.
 
@@ -156,7 +156,7 @@ No fue una pregunta. Fue el principio de una decisión que Nadir estaba a punto 
 
 Héctor no dijo nada. Tiró más fuerte, lo metió dentro, y se quedó con una mano en el marco de la puerta, mirando hacia atrás, hacia el punto donde Kal seguía de pie.
 
-Kal levantó una mano. No fue una despedida larga. Fue lo justo para que Héctor entendiera que la decisión ya estaba tomada, que no había nada más que discutir ahí, que subiera él también.
+Kal levantó una mano. No fue una despedida larga. Fue lo justo para que Héctor entendiera que la decisión ya estaba tomada, que subiera él también.
 
 Héctor subió.
 

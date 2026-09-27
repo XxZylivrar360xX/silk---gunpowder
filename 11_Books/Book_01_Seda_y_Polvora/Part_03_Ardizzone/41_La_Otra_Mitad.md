@@ -1,5 +1,5 @@
 <!--
-Estado: BORRADOR — Parte III — Ardizzone, séptimo capítulo (Cap. 41 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "La otra mitad". No es provisional.
+Estado: BORRADOR — Parte III — Ardizzone, séptimo capítulo (Cap. 41 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "La otra mitad". No es provisional. **Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_III]]):** el vuelo de Kal "había llegado"; la fiesta del yate "la semana anterior" (no "semanas atrás"); Riley deja de ser escucha-confidente (se cortan dos silencios de escucha y la frase "las dos cosas se me quedaron pegadas"; la foto de la boda se funde al parlamento anterior); firma de Riley variada por posición de otros (los dos de seguridad), sin callback al yate. "¿Y él qué dijo cuando volvieron?" se conserva. Detalle en [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_35-44_Parte_III]] § 9 parte 3. Sigue BORRADOR hasta lectura del autor.
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal Mercer no aparece en escena: sólo su voz, por teléfono, y su ausencia sostenida a través del loft y de la llave que Chiara no usa.
 Personajes con diálogo: Chiara Bellandi, Riley Bennett, Kal Mercer (por teléfono, una línea). Fabrizio Rinaldi con diálogo breve, por teléfono.
 Ausente, sentido: Matteo Bellacorte (silla vacía, funciones absorbidas). Mencionado sin aparecer: Kal Mercer en persona, Ettore, La Mesa, Valenti, Livia Rinaldi, Alessio Lusardi (todos referidos por Chiara al hablar con Riley, sin escena).
@@ -19,11 +19,11 @@ Función: la otra mitad de Palermo, desde Chiara. Muestra lo que Kal no pudo ver
 
 # Capítulo 41 — La otra mitad
 
-El sol ya se acostaba sobre Kingsley Field cuando el jet se detuvo al final de la pista, lejos de la terminal comercial por la que el vuelo de Kal había salido unas horas antes.
+El sol ya se acostaba sobre Kingsley Field cuando el jet se detuvo al final de la pista, lejos de la terminal comercial a la que el vuelo de Kal había llegado unas horas antes.
 
 Chiara bajó la escalerilla ella sola, sin nadie detrás que anunciara nada.
 
-Llevaba el cabello corto, apenas rozándole los hombros. El abrigo vino le cubría los hombros sobre un cuello alto negro; los aros pequeños, dorados, se movían apenas con el viento de la pista. Nadie en tierra lo comentó. El hombre que la esperaba junto al sedán del Monarch —uno de los choferes de siempre, no el de siempre— le abrió la puerta con la misma inclinación de cabeza que le habría dado con el pelo largo, con el pelo corto, con cualquier pelo.
+Llevaba el cabello corto, apenas rozándole los hombros. El abrigo vino iba sobre un cuello alto negro; los aros pequeños, dorados, se movían apenas con el viento de la pista. Nadie en tierra lo comentó. El hombre que la esperaba junto al sedán del Monarch —uno de los choferes de siempre, no el de siempre— le abrió la puerta con la misma inclinación de cabeza que le habría dado con el pelo largo, con el pelo corto, con cualquier pelo.
 
 —¿A casa, señora Bellandi?
 
@@ -99,9 +99,9 @@ Fue todo lo que dijo. Kal no insistió, y ella tampoco alargó la llamada más d
 
 ---
 
-Buscar a Riley le tomó una llamada, no más. El equipo de seguridad del Monarch había manejado los accesos del grupo del Patio en la fiesta del yate semanas atrás, y ahí quedó, en alguna lista de control, el nombre de Riley junto a un número. De ahí hubo un solo paso.
+Buscar a Riley le tomó una llamada, no más. El equipo de seguridad del Monarch había manejado los accesos del grupo del Patio en la fiesta del yate, la semana anterior, y ahí quedó, en alguna lista de control, el nombre de Riley junto a un número. De ahí hubo un solo paso.
 
-Riley llegó al Monarch pasada la medianoche, con una chaqueta que no era de vestir y las manos en los bolsillos, mirando el vestíbulo con la misma atención con la que había mirado, semanas atrás, una puerta de servicio en un yate: no admirando el mármol, registrando por dónde se salía.
+Riley llegó al Monarch pasada la medianoche, con una chaqueta que no era de vestir y las manos en los bolsillos. En el vestíbulo no miró el mármol: miró a los dos de seguridad, y hacia dónde miraba cada uno.
 
 Se detuvo un segundo de más al ver a Chiara, algo entre el pelo y la ropa, y no dijo nada.
 
@@ -121,7 +121,7 @@ Riley miró la hoja, después a Chiara.
 
 —¿Por qué no se lo pide a Kal? Esto es justo lo suyo.
 
-Chiara no contestó enseguida. Se sentó al otro lado del escritorio, no detrás de él, y por un momento dejó que el silencio corriera antes de decidir que sí iba a contestar de verdad.
+Chiara no contestó enseguida. Se sentó al otro lado del escritorio, no detrás de él.
 
 —Porque en Palermo entendí algo que todavía no sé qué hacer con ello.
 
@@ -131,15 +131,11 @@ Riley no dijo nada. Esperó.
 
 —¿Y eso qué significa?
 
-—Que un hombre vinculado a mi asiento deja de ser un invitado. Se vuelve reclamable. —Chiara se tocó el anular izquierdo sin darse cuenta, y lo bajó antes de que Riley lo notara—. Así que dije que no era parte de mi casa. Delante de todos. Para que no pudieran usarlo así.
-
-—En la misma sala me pusieron delante una fotografía de mi boda. Para recordarme cómo debe verse una Ardizzone. No tenía nada que ver con Kal, pero pasó en el mismo cuarto, casi al mismo tiempo, y las dos cosas se me quedaron pegadas.
+—Que un hombre vinculado a mi asiento deja de ser un invitado. Se vuelve reclamable. —Chiara se tocó el anular izquierdo sin darse cuenta, y lo bajó antes de que Riley pudiera notarlo—. Así que dije que no era parte de mi casa. Delante de todos. Para que no pudieran usarlo así. En la misma sala me pusieron delante una fotografía de mi boda. Para recordarme cómo debe verse una Ardizzone.
 
 —¿Y él lo escuchó?
 
 —Desde atrás de la sala. Sí.
-
-Riley esperó otra vez, sin llenar el silencio.
 
 —Supe que lo había herido antes de terminar la frase —dijo Chiara—. Y la terminé igual.
 

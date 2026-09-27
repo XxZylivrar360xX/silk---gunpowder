@@ -16,10 +16,12 @@ Se conserva en el vault como referencia de diseno y canon, pero no debe exportar
 > sólo cambia el libro al que pertenece. Se redactará dentro de
 > `11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/` cuando el autor apruebe
 > escribirlo. Ver [[00_Biblia/00_Trilogy_Structure]] y [[01_Timeline/03_Libro_02_Sombras_De_Poder]].
+>
+> **HOUSEKEEPING DOCUMENTAL (2026-09-27, E8 de [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_III]]):** sincronizado con la frontera de libro sin tocar el diseño: "Parte IV" / "IV.1" → Libro II; la tesis y la cronología ya ponen la luz y el *Ciao, bella* dentro del 44 (antes: "Parte III cierra en la oscuridad del loft con la Beretta levantada; Parte IV abre con la luz"); "*Voto de Ceniza* (Libro II)" → Libro III. Detalle en [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_35-44_Parte_III]], § 9 parte 4.
 
 ## Tesis del bloque
 
-Palermo no rompe a Kal y Chiara: los deja **a mitad de camino uno del otro**, y en ese hueco caen dos cosas a la vez — la mentira sobre Matteo (F1) y la ventana de Camp Alder. La fractura no se resuelve antes de la incursión. Kal cae preso en medio de tres días sin buscarse. Chiara, que "acaba de perderlo", descubre que lo perdió dos veces: una por decisión y otra por una institución. Parte III cierra en la oscuridad del loft con la Beretta levantada; Parte IV abre con la luz.
+Palermo no rompe a Kal y Chiara: los deja **a mitad de camino uno del otro**, y en ese hueco caen dos cosas a la vez — la mentira sobre Matteo (F1) y la ventana de Camp Alder. La fractura no se resuelve antes de la incursión. Kal cae preso en medio de tres días sin buscarse. Chiara, que "acaba de perderlo", descubre que lo perdió dos veces: una por decisión y otra por una institución. La Parte III y el Libro I cierran en el loft, con la Beretta levantada, cuando vuelve la luz y Kal dice *Ciao, bella*; el Libro II abre con la respuesta de Chiara.
 
 Brújula que se cobra aquí: **progresión de hogar** (penthouse → loft). Chiara *regresa* al penthouse en el 41 por Palermo; en el 44 el penthouse deja de ser casa y va al loft. El mismo movimiento que ya estaba diseñado, ahora con causa.
 
@@ -32,8 +34,8 @@ Brújula que se cobra aquí: **progresión de hogar** (penthouse → loft). Chia
 | D0 (atardecer) → D1–D2 | 41 | Chiara | Chiara aterriza en avión privado, cabello corto, va al penthouse. Absorbe funciones de Matteo, encuentra la inconsistencia de mensajería, recurre a Riley y le cuenta la otra mitad de Palermo. |
 | D2–D3 (noche) | 42 | Chiara | Riley rastrea el coche, la abordan, informa a Kal. Kal reconstruye la mentira. **F1 en el penthouse, de noche.** Kal duerme en el loft, Chiara en el penthouse. |
 | D4 (mañana → noche) | 43 | Kal | Los chicos se alistan. Kal va a la puerta del penthouse y no sube. Incursión a Camp Alder. Arresto. |
-| D4 → D6 | 44 | Chiara | Se entera. Agota recursos. Lucía. Apagón del sur. Monólogo con Dios. El penthouse deja de ser casa. Loft a oscuras, Beretta. **Fin de Parte III.** |
-| D6 (misma noche) → D7 | 45 (IV.1) | Chiara | Vuelve la luz: Kal en la isla. *Ciao, bella.* Explica cómo salió. Reconciliación completa. Cama. Mañana: desayuno, hogar. Tarde: la policía llama por Tommaso Lusardi. |
+| D4 → D6 | 44 | Chiara | Se entera. Agota recursos. Lucía. Apagón del sur. Monólogo con Dios. El penthouse deja de ser casa. Loft a oscuras, Beretta. Vuelve la luz: Kal en la isla. *Ciao, bella.* **Fin de Parte III y del Libro I.** |
+| D6 (misma noche) → D7 | 45 (Libro II, I.1) | Chiara | Respuesta de Chiara al *Ciao, bella*. Explica cómo salió. Reconciliación completa. Cama. Mañana: desayuno, hogar. Tarde: la policía llama por Tommaso Lusardi. |
 
 **Los Tres Días = D4, D5, D6:** los tres días que Kal y Chiara pasan separados sin buscarse — desde la noche de F1 hasta el loft. Kal preso durante casi todos. Es una **alegoría**, no el bloque doméstico del archivo [[06_Relationships/Los_Tres_Dias]] (ver "Qué cambia en el vault", abajo).
 
@@ -129,29 +131,29 @@ Brújula que se cobra aquí: **progresión de hogar** (penthouse → loft). Chia
 
   > **— Ciao, bella.**
 
-  Sonrisa cansada. **Es literalmente la última línea de la Parte III** (CANON DEL AUTOR, reconfirmado 2026-09-21). Sin explicación, sin abrazo, sin "volví".
+  Sonrisa cansada. **Es literalmente la última línea de la Parte III y del Libro I** (CANON DEL AUTOR, reconfirmado 2026-09-21). Sin explicación, sin abrazo, sin "volví".
 
-### Cap. 45 — Apertura de la Parte IV — Nieve y Ceniza (POV Chiara, título PENDIENTE)
+### Cap. 45 — Apertura del Libro II (*Sombras de Poder*), Parte I — Nieve y Ceniza (POV Chiara, título PENDIENTE)
 
 - Abre **inmediatamente después** del *Ciao, bella*, con la respuesta de Chiara. Línea canon **CONFIRMADA por el autor (2026-09-21):** *"¿Qué carajo haces aquí?"* / *"Bueno, señora Bellandi, resulta que esta es mi casa."* (La paráfrasis oral "¿Qué demonios estás haciendo aquí?" queda descartada.)
 - Kal le cuenta qué pasó — y **todo lo que sabe es esto (CANON 2026-09-21):** se fueron las luces, una bolsa de tela en la cabeza, y de repente estaba en el loft. Nada más. No nombra a Halbrook porque no puede probarlo ni le conviene, y Chiara no obtiene explicación. Ver "Halbrook — la liberación".
 - **Reconciliación completa** de F1 + Palermo + los tres días + el arresto: hablan de todo. Es la reconciliación más cargada de la pareja hasta aquí. Aquí se absorbe la función del viejo "Tenemos que hablar" / casino. Chiara admite que mintió para administrar el problema; Kal admite que su silencio (Palermo, Halbrook) también lastima. Puede recuperarse *"Ya estamos"* como frase ancla si cabe.
 - Momento cálido: los dos recostados en la cama, preparados para dormir.
 - Mañana siguiente: **desayuno**, vuelven al hogar que siempre fueron y que los dos echaron de menos. Función del viejo "Día 3 — Quedarse".
-- **Tarde:** llamada de la policía a Chiara — *¿conoce al señor Tommaso Lusardi?* — y el brief de lo que acaba de ocurrirle (ejecutado por Volpi en la terraza de su departamento del norte, composición que evoca a Raymond Keene; la policía sólo da el hecho). **Parte IV abre cobrando casi todas las sillas de Chiara de un solo jalón.** Después arranca la organización de Kal.
-- **Ren Wei** entra en un capítulo posterior de Parte IV, no aquí.
+- **Tarde:** llamada de la policía a Chiara — *¿conoce al señor Tommaso Lusardi?* — y el brief de lo que acaba de ocurrirle (ejecutado por Volpi en la terraza de su departamento del norte, composición que evoca a Raymond Keene; la policía sólo da el hecho). **El Libro II abre cobrando casi todas las sillas de Chiara de un solo jalón.** Después arranca la organización de Kal.
+- **Ren Wei** entra en un capítulo posterior del Libro II, no aquí.
 
 ## Halbrook — la liberación (CANON DEL AUTOR, 2026-09-21)
 
 - **Halbrook no pisa San Aurelio.** Mueve hilos desde fuera: **el apagón del sur es suyo** — la ventana para sacar a Kal de Camp Alder sin trámite.
 - **Lo que Halbrook quería** del expediente sellado era **leer un nombre**. Lo consigue. Después **devuelve el expediente** a la base con un mensaje del tenor *"recupere esto; aquí no pasó nada"*: sin cuerpo del delito, no hay caso federal que sostener, y Kal sale por la puerta que el apagón abrió. *(Lectura del agente sobre el dictado del autor: la frase va dirigida a la base, no a Kal. Corregir si no.)*
 - **Lo que Kal sabe:** luces fuera, bolsa de tela, loft. **Lo que Chiara sabe:** lo que Kal le cuenta en el 45. **Lo que el lector sabe en Libro I:** lo mismo. El autor tiene planes para el cobro de este pago.
-- **La revelación completa** (apagón = Halbrook; el nombre del expediente; qué compró Halbrook con eso) **se reserva para *Voto de Ceniza* (Libro II).** En Libro I no sembrar más de lo que la escena del 44/45 necesita: ni Kal ni Lucía ni Chiara conectan el apagón con la liberación en voz alta.
-- Consecuencia de escala: Kal le debe a Halbrook la libertad, no sólo el silencio. Eso es correa para Parte IV y Libro II; no se enuncia en prosa todavía.
+- **La revelación completa** (apagón = Halbrook; el nombre del expediente; qué compró Halbrook con eso) **se reserva para *Voto de Ceniza* (Libro III).** En Libro I no sembrar más de lo que la escena del 44/45 necesita: ni Kal ni Lucía ni Chiara conectan el apagón con la liberación en voz alta.
+- Consecuencia de escala: Kal le debe a Halbrook la libertad, no sólo el silencio. Eso es correa para el Libro II en adelante; no se enuncia en prosa todavía.
 
-## Corte III → IV — RESUELTO (2026-09-21, corrección del autor)
+## Corte Libro I → Libro II (antes "Corte III → IV") — RESUELTO (2026-09-21, corrección del autor)
 
-La luz vuelve y el *"Ciao, bella"* **cierran la Parte III** (lectura anterior del agente "a oscuras" retirada el mismo día). La Parte IV abre con la respuesta de Chiara. Simetría del ritual intacta: el Cap. 35 abre la Parte con *Ciao, bella* como broma telefónica; la Parte cierra con la misma frase después de una desaparición de custodia militar.
+La luz vuelve y el *"Ciao, bella"* **cierran la Parte III** (lectura anterior del agente "a oscuras" retirada el mismo día). El Libro II abre con la respuesta de Chiara. Simetría del ritual intacta: el Cap. 35 abre la Parte con *Ciao, bella* como broma telefónica; la Parte cierra con la misma frase después de una desaparición de custodia militar.
 
 ## Riley — introducción sin capítulo propio (autorizado 2026-09-21)
 
