@@ -1,9 +1,9 @@
 <!--
-Estado: TERMINADO.
+Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): prolepsis (secretos, carreras/calavera, puerta), 6:323 alineado con H2-b (el no tiene forma de saberlo), glosa del cierre tras 'Eres increible' cortada (salto de POV), pronunciacion de Mina (la hace Parole), codas y recuentos de la noche. Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_04-13_Lote_A.md.
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Ventana temporal: despues de la primera cena y de la costumbre de contarse el dia.
 Lugares: The Monarch Casino & Hotel, El Penthouse.
-Funcion: ejecutar H2-b. Costumbre de contarse el dia (primera comida: torta de Mabel sin mostaza, dato de la alergia de Chiara), noche del penthouse (hamburguesas, hierba), paso del usted al tu en la escena de la hierba, cancion de Kal (The World Is Yours, Peugeot) y de Chiara (Un anno d'amore, ahora traducida por completo), juego de Parole Parole como escena nueva de idioma en vivo, llamada de Danny, silla de estetica con fragmento de la cicatriz, calavera, jacuzzi con mueca espejo, habitaciones separadas, choque de punos. Cierre recontextualizado: "eres increible" ya no marca el tu -- marca que cada uno le devolvio al otro una alegria que ninguno sabia que todavia podia sentir.
+Funcion: ejecutar H2-b. Costumbre de contarse el dia (primera comida: torta de Mabel sin mostaza, dato de la alergia de Chiara), noche del penthouse (hamburguesas, hierba), paso del usted al tu en la escena de la hierba, cancion de Kal (The World Is Yours, Peugeot) y de Chiara (Un anno d'amore, ahora traducida por completo), juego de Parole Parole como escena nueva de idioma en vivo, llamada de Danny, silla de estetica con fragmento de la cicatriz, calavera, jacuzzi con mueca espejo, habitaciones separadas, choque de punos. Cierre recontextualizado: "eres increible" ya no marca el tu -- marca que cada uno le devolvio al otro una alegria que ninguno sabia que todavia podia sentir. (Nota 2026-09-27: el parrafo que glosaba esa lectura se corto en la cirugia del lote A; la linea canon queda sin comentario, como pide H2-b: 'Nadie dice que la noche fue especial'.)
 -->
 
 # Capítulo 6 — Ambos
@@ -14,7 +14,7 @@ Al principio Kal pasaba por el Monarch porque había una factura que firmar, una
 
 Chiara descubrió que le gustaba oír cómo contaba el día. No porque sus días fueran tranquilos: justamente por lo contrario. Kal narraba grúas, vecinos, coches rotos, Walt peleándose con formularios de libertad condicional, Héctor insultando una bomba de agua, Nadir vendiendo una pieza como si estuviera negociando una paz internacional. Lo decía todo como si no importara demasiado, y en esa forma de quitarle peso a las cosas ella empezaba a ver cuánto cargaba.
 
-Ella, a cambio, le contaba versiones. No secretos, todavía no. Versiones: qué socio quería parecer menos asustado, qué invitado fingía riqueza, qué periodista local no sabía hacer una pregunta sin disculparse, qué agujero de administración del casino iba a convertirse en incendio si nadie lo tapaba antes del viernes.
+Ella, a cambio, le contaba versiones. No secretos. Versiones: qué socio quería parecer menos asustado, qué invitado fingía riqueza, qué periodista local no sabía hacer una pregunta sin disculparse, qué agujero de administración del casino iba a convertirse en incendio si nadie lo tapaba antes del viernes.
 
 Kal la escuchaba como escuchaba un motor: sin interrumpir hasta ubicar de dónde venía el ruido.
 
@@ -68,7 +68,7 @@ Ella miró sus pies descalzos y luego a él.
 
 —Claro.
 
-Traía chaqueta de mezclilla con cuello de borrego, sin camisa debajo, porque en esa etapa de su vida Kal parecía haber decidido que el clima era una sugerencia y las normas de vestimenta una negociación menor. Tenía el pelo revuelto, la mandíbula cansada y una bolsa de papel en la mano.
+Traía chaqueta de mezclilla con cuello de borrego, sin camisa debajo, porque Kal parecía haber decidido que el clima era una sugerencia y las normas de vestimenta una negociación menor. Tenía el pelo revuelto, la mandíbula cansada y una bolsa de papel en la mano.
 
 —¿Qué trae?
 
@@ -154,7 +154,7 @@ Kal se detuvo en la puerta.
 
 —Yo sí.
 
-Y se fue antes de que la frase pudiera volverse más grande.
+Y se fue.
 
 ***
 
@@ -260,7 +260,7 @@ Chiara esperó.
 
 —Un amigo del ejército. De los pocos de esa época que había sobrevivido a esa época y había salido entero, o casi. Se retiró, volvió a San Aurelio y se puso a morir de cáncer con la misma discreción con la que había hecho todo lo demás.
 
-Lo dijo sin dramatizarlo, como quien reporta un dato ya cerrado.
+Lo dijo sin dramatizarlo.
 
 —Dejó una hija. Marisol. Está en la universidad ahora, lejos de aquí, donde nadie sabe de dónde viene. —Y ahí, hablando de ella, se le puso una sonrisa que no era la que usaba para cerrar tratos: más chica, menos vigilada—. Es lista. Discute todo. La semana pasada me colgó el teléfono porque le dije que no manejara de noche.
 
@@ -268,7 +268,7 @@ Lo dijo sin dramatizarlo, como quien reporta un dato ya cerrado.
 
 —El que firma cosas. El que aparece si hace falta.
 
-Chiara conocía esa manera de quedarse sin padre. No la de la enfermedad: la otra, la de que un día se lo llevan y no alcanzas ni a despedirte. No lo dijo. Pero algo se movió, y fue la primera vez en toda la noche que lo que se movía no era ironía. Un hombre que se hacía cargo de una chica que no le debía nada y de la que no iba a sacar nada. Le pareció lo más raro que le había contado, más que las carreras que todavía no le había mencionado, más que la calavera que todavía no le había visto.
+Chiara conocía esa manera de quedarse sin padre. No la de la enfermedad: la otra, la de que un día se lo llevan y no alcanzas ni a despedirte. No lo dijo. Pero algo se movió, y fue la primera vez en toda la noche que lo que se movía no era ironía. Un hombre que se hacía cargo de una chica que no le debía nada y de la que no iba a sacar nada. Le pareció lo más raro que le había contado.
 
 ***
 
@@ -306,13 +306,13 @@ Lo dijo sin mirarla, con los ojos en la pantalla, de la misma forma en que un ra
 
 —Todavía no.
 
-La respuesta fue pequeña y enorme, y Chiara no la tocó.
+Chiara no la tocó.
 
 Cuando la canción terminó, buscó ella la suya. *Un anno d'amore*, de Mina. La voz llenó la sala de cine con un pasado que no era de California.
 
 —Te la traduzco —dijo, y lo hizo, despacio, parando entre frases.
 
-No fue fácil. Se le fue el idioma varias veces y no se molestó en corregirse, y a Kal se le fue la paciencia varias veces también, pero de la otra manera: preguntando de nuevo lo que no había entendido, haciéndola repetir una palabra, probando a decirla él mismo con la boca torpe de alguien que todavía cargaba el acento del barrio encima del italiano. Ella lo corrigió dos veces sin burlarse. A la tercera dejó de corregirlo, porque ya no hacía falta: él la había entendido, aunque la pronunciación siguiera mal.
+No fue fácil. Se le fue el idioma varias veces y no se molestó en corregirse, y a Kal se le fue la paciencia varias veces también, pero de la otra manera: preguntando de nuevo lo que no había entendido.
 
 —Es sobre amores que no se terminan de la noche a la mañana aunque uno quiera —le dijo—. Que dejan marca. Que se quedan en las cosas de la casa mucho después de que la persona se fue. Mina la canta como quien acepta al mismo tiempo una condena y una suerte.
 
@@ -320,7 +320,7 @@ No fue fácil. Se le fue el idioma varias veces y no se molestó en corregirse, 
 
 —En mi casa, de niña, sonaba los domingos. Mis padres se miraban cuando sonaba.
 
-No dijo más que eso. No hacía falta decir más para estar diciéndolo todo: le estaba enseñando el matrimonio de sus padres, lo único que había querido en la vida y no había tenido, y esta vez, por primera vez, él sí tenía manera de saberlo. Se lo veía en la cara, buscando la palabra exacta y no encontrándola, y quedándose con la aproximada.
+No dijo más que eso. Le estaba enseñando el matrimonio de sus padres, lo único que había querido en la vida y no había tenido.
 
 —¿Ésa eres tú? —preguntó él cuando la canción llevaba un minuto.
 
@@ -361,8 +361,6 @@ Le puso el celular con la letra abierta en la mano, como quien entrega un arma q
 —Vas a hacer que me digan que sí a todo.
 
 —Ya lo hago. Sólo que ahora lo sabes.
-
-Cuando terminó la canción ninguno de los dos supo bien en qué momento habían dejado de jugar y habían empezado, sin decirlo, a simplemente estar cerca.
 
 ***
 
@@ -436,7 +434,7 @@ Kal no se movió. En el espejo, la cara no le cambió, pero dejó pasar un segun
 
 —Gracias a esto conocí a Nadir.
 
-Chiara esperó por si venía algo detrás. No vino. No tiró del hilo: lo guardó donde guardaba las cosas, para mirarlo con calma después.
+Chiara esperó por si venía algo detrás. No vino. No tiró del hilo: lo guardó para mirarlo con calma después.
 
 —El corte que traes te va bien —dijo, y le soltó el pelo.
 
@@ -473,8 +471,6 @@ Chiara lo sabía en abstracto; la chaqueta abierta ya lo sugería desde hacía s
 Le cubría media espalda. No era decorativa, no intentaba embellecerlo. Era una muerte enorme, metida en la piel, mirando hacia atrás por él.
 
 Chiara se quedó demasiado quieta.
-
-Kal lo sintió.
 
 —¿Qué?
 
@@ -544,13 +540,11 @@ Kal asintió.
 
 —Sí.
 
-No se movieron. Habían pasado ocho horas juntos sin que nada físico ocurriera, y a ninguno de los dos le había pasado por encima como ocho horas. Se habían sentido como un instante largo — risas, miradas, tensión, silencios cómodos, un juego con una canción tonta — y ninguno lo había notado hasta ahora, parados frente a una puerta sin ganas de cruzarla todavía.
+No se movieron. Habían pasado ocho horas juntos y ninguno lo había notado hasta ahora, parados frente a una puerta sin ganas de cruzarla todavía.
 
 Kal fue el primero en bajar la mirada.
 
 —Eres increíble.
-
-No lo dijo por el tuteo, que ya llevaba toda la noche instalado sin ceremonia. Lo dijo porque no encontró otra manera de nombrar lo que había pasado: que ella lo había hecho disfrutar una noche entera como hacía mucho tiempo nadie lograba, sin que le costara nada fingir, sin administrar nada.
 
 Chiara levantó la mano, cerró el puño y lo dejó entre los dos. Un gesto que no era suyo. Una forma de barrio. Una forma de él.
 
@@ -558,6 +552,6 @@ Chiara levantó la mano, cerró el puño y lo dejó entre los dos. Un gesto que 
 
 Kal miró el puño un momento. Luego chocó el suyo contra el de ella. Suave, sin solemnidad.
 
-La puerta se cerró entre los dos con la delicadeza de las cosas que todavía no saben que ya lo cambiaron todo.
+La puerta se cerró entre los dos.
 
-Chiara volvió sola a su cuarto y no encendió la luz. En la sala de cine, a oscuras, la música seguía sonando bajito, ocupando el aire que habían dejado — y en algún punto de la noche, sin que ninguno de los dos lo hubiera decidido a propósito, había dejado de sonar de fondo para sonar, simplemente, como la de ellos.
+Chiara volvió sola a su cuarto y no encendió la luz. En la sala de cine, a oscuras, la música seguía sonando bajito, ocupando el aire que habían dejado — y en algún punto de la noche había dejado de sonar de fondo para sonar, simplemente, como la de ellos.

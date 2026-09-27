@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO.
+Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): mecanico (signo de interrogacion en la rampa). Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_04-13_Lote_A.md.
 Protagonistas: Chiara Bellandi, Kal Mercer.
 Ventana temporal: dias posteriores a la salida de Walt.
 Lugares: The Monarch Casino & Hotel, La Isla, La Almendra.
@@ -296,7 +296,7 @@ Kal miró el Mercedes.
 
 Kal señaló la línea amarilla bajo la llanta.
 
-—La pintura también?
+—¿La pintura también?
 
 Varga levantó el teléfono.
 

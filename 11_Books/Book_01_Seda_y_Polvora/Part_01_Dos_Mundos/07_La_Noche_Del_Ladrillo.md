@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO.
+Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): conteo de H3 despejado, Willy fuera (sin antecedente), glosas de 'Te veo despues' y de la risa, tercera formulacion del taxi. Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_04-13_Lote_A.md.
 Protagonistas: Chiara Bellandi, con apariciones de Blake Stanton, Dario Varek, Kal Mercer, Nadir Amrani, Daniel Hayes y Hector Navarro.
 Ventana temporal: dias despues del Capitulo 6 (la noche de hierba en el penthouse). Todavia se estan conociendo — antes del primer beso.
 Lugares: Gabriella's (fiesta de vestimenta blanca).
@@ -54,7 +54,7 @@ Fue la primera vez esa noche que Kal se le metió en la cabeza sin haber sido in
 
 No dijo el nombre en voz alta. No hacía falta decírselo a nadie, y mucho menos a Blake.
 
-Él volvió a entrar cuando alguien lo llamó desde la puerta — otro grupo, otra ronda de presentaciones donde ella iba a ser el florero otra vez —, y por primera vez en la noche Chiara se quedó sola con el teléfono en la mano y una idea que no debía tener.
+Él volvió a entrar cuando alguien lo llamó desde la puerta — otro grupo, otra ronda de presentaciones donde ella iba a ser el florero otra vez —, y Chiara se quedó sola con el teléfono en la mano y una idea que no debía tener.
 
 Escribió antes de pensarlo del todo:
 
@@ -130,7 +130,7 @@ El portero, en efecto, no dejó pasar el comentario.
 
 —Esto es una fiesta de etiqueta, caballeros.
 
-Kal miró su propia ropa como si la viera por primera vez esa noche. Después miró al portero.
+Kal miró su propia ropa como si la viera por primera vez. Después miró al portero.
 
 —Bueno… mis calcetas son blancas.
 
@@ -152,19 +152,11 @@ Adentro, entre el ruido de la fiesta y la gente vestida exactamente igual, Chiar
 
 —Vine con unos amigos —dijo ella, con la cara seria de quien está explicando algo que no necesita explicación.
 
-—¿Y Héctor cuenta como amigo o como supervisión?
+—¿Y Héctor cuenta como amigo o como supervisión? —preguntó ella.
 
 —Las dos.
 
 Nadir y Danny se habían quedado cerca de la barra, discutiendo en voz baja sobre cuál de los dos iba a atreverse a pedir algo que no supieran pronunciar. Héctor los vigilaba desde una distancia prudente, con la cara de un hombre que ha visto suficientes fiestas ajenas como para no esperar nada de ninguna.
-
-—¿Y Willy? —preguntó Chiara—. Pensé que donde va Nadir, va Willy.
-
-—Willy está cumpliendo un castigo doméstico. Su novia se enteró de la apuesta del viernes.
-
-—¿Cuál apuesta?
-
-—Mejor no. —Kal sonrió apenas—. Es más fácil quererlo si no sabes los detalles.
 
 Un mesero pasó con una charola de copas. Kal tomó dos, le dio una y levantó la suya sin ceremonia.
 
@@ -194,7 +186,7 @@ De arcilla. Literal. Del tamaño exacto de un ladrillo de verdad, porque lo era.
 
 Se lo puso en las manos como si le estuviera entregando algo de valor real.
 
-Chiara se lo quedó mirando, entendiendo poco a poco lo absurdo y lo espontáneo que podía llegar a ser este hombre, y se rió — una risa que no calculó, que le salió antes de que pudiera decidir si convenía tenerla.
+Chiara se lo quedó mirando, entendiendo poco a poco lo absurdo y lo espontáneo que podía llegar a ser este hombre, y se rió — una risa que no calculó.
 
 —Qué bobo eres.
 
@@ -224,7 +216,7 @@ Se quedaron ahí un momento, ella con un ladrillo en las manos en un pasillo de 
 
 —Te veo después.
 
-No era una promesa grande. No tenía adornos. Era, simplemente, un hecho — la certeza tranquila de alguien que sabe que va a volver a aparecer, sin necesidad de jurarlo.
+No era una promesa grande. No tenía adornos. Era, simplemente, un hecho.
 
 Chiara se quedó con el ladrillo todavía en las manos, viéndolo irse por donde había entrado, tan mal vestido y tan seguro de sí mismo como cuando llegó.
 
@@ -299,7 +291,5 @@ No había salido con Blake por Blake. Había salido buscando algo que ya conocí
 Porque el rubio de ojos azules que le importaba no era Blake.
 
 Nunca había sido Blake.
-
-Había estado, toda la noche, toda esas semanas, parada frente al cuadro correcto colgado en la pared equivocada, preguntándose por qué no terminaba de gustarle del todo.
 
 El ladrillo, todavía en el bolso, se le clavó en la cadera con cada bache del camino, y por primera vez en mucho tiempo, a Chiara no le importó que algo le doliera un poco.

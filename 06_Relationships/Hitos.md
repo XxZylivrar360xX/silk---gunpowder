@@ -999,6 +999,8 @@ Y la otra mitad:
 - **Nadie nombra el parecido físico.** Es información para el lector, no para los personajes.
 - **El ladrillo no se explica.** Ni el chiste, ni por qué le hizo gracia.
 
+> **DECISIÓN DEL AUTOR (2026-09-27, cirugía del lote A):** en la prosa del Cap. 7, las dos primeras restricciones ceden ante la tesis canon ("Lo que Chiara entiende esa noche"). El taxi conserva un monólogo breve que nombra el parecido físico ("Los dos rubios…" / "el rubio de ojos azules que le importaba no era Blake"), porque [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/18_El_Dia_Nublado|18]] lo cobra. Sólo se cortó una tercera formulación redundante. Ver [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_04-13_Lote_A]].
+
 ## Pendientes de H3
 
 > **PENDIENTE:** ¿cuándo y cómo termina lo de Blake? Y si él vuelve más adelante — un policía despechado que además conoce a Chiara es una pieza cargada.

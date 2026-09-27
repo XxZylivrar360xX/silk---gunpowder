@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO.
+Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): fuera la manana de la camiseta (residuo de H2-b, cronologia rota), tuteo corregido, POV de Tommaso, silencio repetido; Fabrizio firma el acta (siembra APROBADA, redaccion DISENO). Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_04-13_Lote_A.md.
 Protagonistas: Chiara Bellandi, con apariciones de Mabel Ortiz y Walter "Walt" Keegan.
 Ventana temporal: semanas despues del Capitulo 7 (la noche del ladrillo) -- de por medio ocurrieron H9 (Capitulo 8, la carrera de mascaras) y todo el arco de H12 en los Capitulos 9-10 (el ataque, la casa comun, la recompra y el diseno de la casa de Kal). Chiara ya deja cosas suyas en la casa de el por costumbre, pero conserva el penthouse como base -- no hubo mudanza formal, y esa costumbre no se anuncia en esta escena.
 Lugares: El Penthouse, La Esquina de Mabel (La Almendra), The Monarch Casino & Hotel (piso de juego, torneo de poker).
@@ -11,18 +11,6 @@ Funcion: ejecutar beats 12 y 12-b — nace en pequeno la red civil de Chiara (Ma
 El ladrillo de arcilla seguía en la repisa de la entrada, donde Chiara lo había dejado la noche de Gabriella's sin decidir todavía si guardarlo o tirarlo.
 
 No lo había tirado.
-
-La camiseta seguía doblada sobre la silla cuando Chiara despertó.
-
-No la había tocado. No sabía a qué hora se había ido Kal, ni si había dormido de verdad o simplemente había esperado a que el pasillo dejara de sonar. Lo único que quedaba de él era eso: una camiseta limpia doblada con una precisión que no correspondía a un hombre que decía no importarle nada.
-
-La dejó donde estaba.
-
-Se dio una ducha y se sostuvo un segundo del borde de vidrio cuando el agua caliente le aflojó el equilibrio de golpe. Se vistió para el día y bajó a la oficina con la lista de invitados del torneo bajo el brazo, como si la noche anterior hubiera sido de otra persona.
-
-Casi lo consiguió.
-
-***
 
 El nombre la detuvo antes del café.
 
@@ -80,7 +68,7 @@ Chiara bebió el café. Estaba mejor que el del casino, y no dijo nada al respec
 
 —¿Por qué querría jugar en mi torneo?
 
-—Eso —dijo Mabel, ya volviendo a la cafetera— pregúntaselo tú. Yo solo sirvo café.
+—Eso —dijo Mabel, ya volviendo a la cafetera— pregúntaselo tú. Yo sólo sirvo café.
 
 Chiara se quedó un momento más de lo necesario, terminando algo que ya no necesitaba terminar. No era la información lo que la retenía. Era la manera en que Mabel la había dado: sin presumir, sin venderla, sin necesitar que Chiara supiera que acababa de recibir un favor.
 
@@ -136,7 +124,7 @@ Walt barajó sus fichas sin mirarlas, un gesto de manos que llevaba más prácti
 
 —Porque llevo diez años sin poder decidir dónde sentarme. —Lo dijo sin dramatismo, como quien reporta el clima—. Y esta silla la elegí yo.
 
-Chiara no contestó enseguida. Había algo en la frase que no pedía respuesta.
+Chiara no contestó enseguida.
 
 —Juega bien.
 
@@ -164,7 +152,7 @@ Walt se recostó en la silla.
 
 —Lo que tengo, más lo de esta noche, más paciencia. —Se encogió de hombros, sin ninguna prisa por parecer necesitado—. No pienso pedirle nada a nadie. Ya pasé diez años debiendo algo que no debía.
 
-Chiara miró la mesa, las fichas, la cara que Walt no cambiaba ni ganando ni perdiendo, y pensó en el casino: en cuánto licor compraba cada mes, en cuánto de eso llegaba con margen para terceros que no eran ni honestos ni locales.
+Chiara miró la mesa, las fichas, y pensó en el casino: en cuánto licor compraba cada mes, en cuánto de eso llegaba con margen para terceros que no eran ni honestos ni locales.
 
 —Cuando la tenga —dijo—, hábleme antes de firmar con nadie más.
 
@@ -176,19 +164,19 @@ Walt la miró con algo parecido a la sorpresa, aunque en su cara la sorpresa se 
 
 Se fue antes de que Walt pudiera decidir si eso había sido un cumplido.
 
-Desde la mesa de blackjack, Tommaso la vio alejarse del hombre que había marcado para no perder su tiempo. No dijo nada. Se lo guardó, como guardaba todo lo que no sabía todavía cómo iba a costarle.
+Desde la mesa de blackjack, Tommaso la vio alejarse del hombre que había marcado para no perder su tiempo.
 
-Ganó la ronda final veinte minutos después, con la misma cara.
+Ganó la ronda final veinte minutos después, con la misma cara. Fabrizio le trajo el acta para que la firmara.
 
 ***
 
-Kal llegó pasada la medianoche, con la excusa de siempre y la bolsa de siempre, aunque esa noche ni siquiera se molestó en inventar el pretexto.
+Kal llegó pasada la medianoche con la bolsa de siempre, aunque esa noche ni siquiera se molestó en inventar el pretexto.
 
 —¿Cómo estuvo?
 
 Chiara se quitó los tacones antes de contestar.
 
-—Conocí a un amigo suyo.
+—Conocí a un amigo tuyo.
 
 —¿A cuál?
 
@@ -220,7 +208,7 @@ Kal la miró un momento largo.
 
 Se tocó el anular izquierdo sin darse cuenta. No era el torneo. Era la manera en que Walt la había mirado, como si llevara reconociéndola desde antes de conocerla.
 
-Kal no dijo nada más. Se sentó a su lado, cerca, sin tocarla todavía, y por un momento los dos dejaron que el silencio hiciera el trabajo que ninguna frase habría hecho mejor.
+Kal no dijo nada más. Se sentó a su lado, cerca, sin tocarla.
 
 Afuera, San Aurelio seguía encendida, con su propio farol repartido en cien cocinas y cien esquinas — gente que sabía cosas antes que nadie las publicara, y que las contaba sólo si alguien se sentaba a escuchar sin exigirlas.
 

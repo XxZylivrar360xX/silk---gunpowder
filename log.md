@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-09-27 — [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_04-13_Lote_A|Caps. 4, 6, 7, 11 y 13 auditados y operados (Prioridad C, lote A): fuera la camiseta del 11 (cronología), Willy del 7 y cuatro prolepsis; 6:323 alineado con H2-b; Fabrizio sembrado en el 11; −738 palabras; pendientes resueltos: Héctor en boca de Chiara, taxi conservado (nota en H3), Villani vía Garrett]].
 - 2026-09-26 — Continuidad Cap. 36 ↔ Cap. 10: la botella de H16 se esconde la noche anterior en el doble fondo (compartimiento bajo el piso al fondo de la planta baja, no un cuarto; tablón suelto), junto a la caja de acero; la cajita de la llave ya no se menciona en la apertura. Arrastre a [[06_Relationships/Hitos]] H16 y [[05_Locations/La_Casa]].
 - 2026-09-26 — [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_10_El_Loft_Del_Soltero|Cap. 10: AUDIT + cirugía editorial extraordinaria (sigue TERMINADO)]]. Obra podada a una visita intermedia + cierre; continuidad nueva: Chiara vuelve al penthouse con gente de Dario en los pasillos del Monarch.
 - 2026-09-26 — [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_09_El_Corral|Cap. 9: AUDIT + cirugía editorial extraordinaria (sigue TERMINADO)]]. Cronología interna corregida; línea de Dario del 25 insertada en la escena del 221; siembra H12 (Kal cree que vinieron por su pasado). Canon del autor: el despertar ya no trata la coartada (Chiara lee versión y tregua en vivo en el alta; nota en H12).

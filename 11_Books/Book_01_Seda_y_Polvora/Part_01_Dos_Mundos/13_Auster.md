@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO.
+Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): prolepsis de Lucia ('el primero de muchos expedientes'), glosa de 'mi gente', competencia explicada, sintesis repetida de los tres papeles, 'nombre completo' de Mabel, 'dos palabras' de Kenji. Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_04-13_Lote_A.md.
 Protagonistas: Chiara Bellandi (partes 1-4), Kal Mercer (parte 5).
 Ventana temporal: semanas despues del Capitulo 12 (Roma Atrii). Kal y Chiara siguen a caballo entre el penthouse y la casa de el; todavia no hay primer beso.
 Lugares: El Penthouse, La Esquina de Mabel, The Monarch Casino & Hotel (piso de juego), Almendra Towing / El Patio, Comisaria central de San Aurelio (Calle Corona).
@@ -53,9 +53,9 @@ La segunda pieza tardó una semana más, y llegó con el acento de siempre.
 
 —¿Qué dicen de él?
 
-—Que anda nervioso. Que mandó a dos de los suyos a comprarle un abogado que no es de por aquí. —Mabel se encogió de hombros, ese gesto que en ella nunca significaba indiferencia, sino la clase de cautela que no quería que se le notara—. Puede que no sea nada. Puede que sea todo. Yo sólo sirvo café.
+—Que anda nervioso. Que mandó a dos de los suyos a comprarle un abogado que no es de por aquí. —Mabel se encogió de hombros—. Puede que no sea nada. Puede que sea todo. Yo sólo sirvo café.
 
-Chiara conocía el patrón lo bastante bien como para no exigirle más. Ésa era la frontera exacta de lo que Mabel entregaba: nunca una conclusión, nunca un nombre completo si podía evitarlo.
+Chiara conocía el patrón lo bastante bien como para no exigirle más. Ésa era la frontera exacta de lo que Mabel entregaba: nunca una conclusión.
 
 Volvió a escribir, esa misma noche, otra referencia al margen del mismo papel.
 
@@ -67,7 +67,7 @@ El sur. Rafe Domínguez, de Los Bravos de Santa Brígida, nervioso por primera v
 
 Un candidato perfecto.
 
-Demasiado perfecto, pensó Chiara, y guardó el pensamiento junto con el papel.
+Demasiado perfecto, pensó Chiara.
 
 ***
 
@@ -77,7 +77,7 @@ Kenji se lo entregó una noche de martes, en la caja, sin mirarla a los ojos, co
 
 —Un abogado perdió mucho en la mesa cuatro —dijo, bajo, mientras contaba fichas que no necesitaba contar—. Habló más de la cuenta con el que tenía al lado. Dijo un nombre que no era el suyo.
 
-Chiara no le pidió el nombre ahí mismo. Se llevó el papel al penthouse, lo abrió bajo la lámpara, y leyó las dos palabras que Kenji ya sabía escribir de memoria.
+Chiara no le pidió el nombre ahí mismo. Se llevó el papel al penthouse, lo abrió bajo la lámpara y leyó.
 
 **MICH. 7:6.**
 
@@ -87,13 +87,7 @@ No necesitó buscarla. La conocía desde antes de que nadie le enseñara a usarl
 
 Chiara se quedó de pie un momento largo, con el papel entre los dedos, sintiendo cómo las tres piezas dejaban de ser tres piezas.
 
-Un caso formal, armándose en silencio.
-
-Un candidato del sur, perfecto, nervioso, con abogado nuevo.
-
-Y un segundo nombre — no un desconocido, no alguien de fuera. Alguien de la propia casa.
-
-No hacía falta que Kenji le dijera cuál era el nombre que el abogado había soltado en la mesa cuatro. Chiara ya lo sabía desde la primera vez que vio un Peugeot rojo entrar al Monarch por la puerta que nadie más usaba.
+No hacía falta que Kenji le dijera cuál era el nombre que el abogado había soltado en la mesa cuatro. Chiara ya lo sabía desde la primera vez que vio un Peugeot rojo entrar al Monarch.
 
 ***
 
@@ -117,9 +111,9 @@ Lo que hizo fue sacar una libreta que nunca usaba para las cartas, y empezar a e
 
 Le tomó cuatro días construir algo que nadie pudiera desarmar con una llamada.
 
-No inventó un culpable — eso, lo sabía, era el error que cualquier aficionado cometería primero. Un nombre inventado se cae en cuanto alguien lo busca. Lo que hizo fue más lento, y más sucio, y por eso funcionaba: encontró algo verdadero y lo puso donde hiciera más ruido.
+No inventó un culpable. Un nombre inventado se cae en cuanto alguien lo busca. Lo que hizo fue más lento, y más sucio, y por eso funcionaba: encontró algo verdadero y lo puso donde hiciera más ruido.
 
-Un corredor de piezas en el norte, cerca de Cedar Flats, llevaba meses pagando cargamentos enteros en efectivo, sin recibos, con la clase de descuido que un hombre honesto nunca se permite y que un hombre con algo que ocultar tampoco debería, pero a veces se permite de todos modos. Chiara no lo conocía. No necesitaba conocerlo — necesitaba que existiera, y que fuera verdad, porque una mentira que se puede confirmar a medias aguanta más que cualquier mentira completa.
+Un corredor de piezas en el norte, cerca de Cedar Flats, llevaba meses pagando cargamentos enteros en efectivo, sin recibos, con la clase de descuido que un hombre honesto nunca se permite y que un hombre con algo que ocultar tampoco debería, pero a veces se permite de todos modos. Chiara no lo conocía. No necesitaba conocerlo — necesitaba que existiera, y que fuera verdad.
 
 Movió tres conversaciones, ninguna suya, ninguna con su nombre puesto encima. Un comentario aquí, sobre piezas de motor que aparecían y desaparecían del inventario de un taller que nadie vigilaba con cuidado. Una pregunta allá, hecha por alguien que ni siquiera sabía que la pregunta era suya. Para cuando terminó, el rumor ya no necesitaba que nadie lo empujara más: caminaba solo, con piernas propias, hacia cualquier investigador que se molestara en tirar del hilo del dinero en vez del hilo del coche.
 
@@ -137,7 +131,7 @@ Kal se limpió las manos con un trapo que ya no limpiaba nada.
 
 —¿Cómo lo sabes?
 
-—Porque llevo semanas armando cómo lo sé, y no tenemos tiempo para que te lo explique entero. —Se cruzó de brazos, no a la defensiva, sino como quien ya decidió qué parte de la verdad alcanza—. Hay un segundo sospechoso. Un hombre del sur, Rafe Domínguez. Y hay algo peor: si alguien te pregunta por qué compras piezas en efectivo alguna vez, en algún taller del norte, di que fue en Villani Motors, cerca de Cedar Flats, hace cosa de dos meses. Va a sonar cierto porque en parte lo es. Y si te preguntan por las noches que llegabas tarde al taller sin que Héctor supiera dónde estabas, la respuesta es Kingsley Field, revisando motores para carreras legales de fin de semana. Nada de eso es mentira completa. Eso es lo que lo hace útil.
+—Porque llevo semanas armando cómo lo sé, y no tenemos tiempo para que te lo explique entero. —Se cruzó de brazos, no a la defensiva, sino como quien ya decidió qué parte de la verdad alcanza—. Hay un segundo sospechoso. Un hombre del sur, Rafe Domínguez. Si alguien te pregunta por qué compras piezas en efectivo alguna vez, en algún taller del norte, di que Garrett las recogió en Villani Motors, cerca de Cedar Flats, hace cosa de dos meses. Va a sonar cierto porque en parte lo es. Y si te preguntan por las noches que llegabas tarde al taller sin que Héctor supiera dónde estabas, la respuesta es Kingsley Field, revisando motores para carreras legales de fin de semana. Nada de eso es mentira completa. Eso es lo que lo hace útil.
 
 Kal no dijo nada durante un momento demasiado largo.
 
@@ -169,7 +163,7 @@ Se sentó frente a él con una carpeta que abrió sin apuro, y Kal entendió, en
 
 —El suyo es el que menos me gusta, para serle honesta. —Lucía no sonrió, pero algo en su voz sonó casi a advertencia amistosa—. El otro sospechoso tiene historial. Usted tiene un taller legal, un contrato de mantenimiento con este mismo Departamento, y una cuenta que, hasta donde mis analistas han podido rastrear, no debería poder pagar un coche así de rápido con papeles así de limpios.
 
-—Compro piezas en efectivo cuando el vendedor las vende en efectivo —dijo Kal, con la calma exacta que Chiara le había pedido que no ensayara demasiado, porque lo ensayado se nota—. Villani Motors, cerca de Cedar Flats. Pregúnteles. Y las noches que preguntan dónde estaba, estaba en Kingsley Field, revisando motores para las carreras de los sábados. Legales. Con permiso del circuito.
+—Compro piezas en efectivo cuando el vendedor las vende en efectivo —dijo Kal, con la calma exacta que Chiara le había pedido que no ensayara demasiado, porque lo ensayado se nota—. Villani Motors, cerca de Cedar Flats. Garrett las recoge. Pregúnteles. Y las noches que preguntan dónde estaba, estaba en Kingsley Field, revisando motores para las carreras de los sábados. Legales. Con permiso del circuito.
 
 Lucía lo miró un momento más de lo estrictamente necesario, y Kal sostuvo la mirada sin que nada en su cara se moviera de más.
 
@@ -197,8 +191,8 @@ Chiara no bajó la vista. No sonrió tampoco, no todavía.
 
 —Lo soy cuando amenazan a mi gente.
 
-Kal se quedó con eso un momento, dándole vueltas a la palabra que ella había elegido — *mi gente*, no *tu problema*, no *un favor* — y no encontró nada que decir que no fuera a sonar más pequeño que la frase misma.
+Kal se quedó con eso un momento.
 
-Afuera, San Aurelio seguía su ritmo de siempre: alguien en el sur cargando un nombre que no le pertenecía del todo, alguien en el norte a punto de recibir una visita incómoda por un delito que probablemente sí había cometido, aunque no ése, y una subjefa de policía que, sin saberlo todavía, acababa de archivar el primero de muchos expedientes con el nombre de Kal Mercer adentro.
+Afuera, San Aurelio seguía su ritmo de siempre: alguien en el sur cargando un nombre que no le pertenecía del todo, alguien en el norte a punto de recibir una visita incómoda por un delito que probablemente sí había cometido, aunque no ése.
 
 Chiara ya lo sabía. Se lo guardó, junto con los tres papeles que nadie más iba a ver nunca juntos.
