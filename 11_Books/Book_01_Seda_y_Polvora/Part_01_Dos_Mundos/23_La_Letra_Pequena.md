@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md). SURGERY 2026-09-27 (auditoria Parte I, lote B, E4; ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_08_18-24_Lote_B §9 parte 2): mecanica de carpetas de Rivers (A4, A5); raya de narracion (A9); siembras S6 (cheque del Monarch firmado por Matteo) y S5 (segunda frase del mensaje de Chiara, rima con el 44) -- lineas nuevas del agente, BORRADOR hasta lectura del autor. Punto de insercion de la escena de la moto (S1) marcado en el mapa para E5, sin prosa aun. Estado conservado.
+Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md). SURGERY 2026-09-27 (auditoria Parte I, lote B, E4; ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_08_18-24_Lote_B §9 parte 2): mecanica de carpetas de Rivers (A4, A5); raya de narracion (A9); siembras S6 (cheque del Monarch firmado por Matteo) y S5 (segunda frase del mensaje de Chiara, rima con el 44) -- lineas nuevas del agente, BORRADOR hasta lectura del autor. E5 2026-09-27: escena nueva de la moto de Nadir (S1, con S2 dentro; 438 palabras) entre "lo quiero por escrito" y la respuesta de Hoover -- redaccion del agente, BORRADOR/DISENO hasta lectura del autor; lineas canon textuales. Estado de la prosa previa conservado.
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Apariciones: Héctor Navarro, Garrett Cross, Margaret Rivers (abogada de Kal), Jonathan Hoover (exsocio demandado, off-page), Giancarlo Krane (abogado de Hoover, mencionado).
 Ventana temporal: después del Cap. 22 (Causalidad; titulo de trabajo anterior: Sin rastro) y del cierre de Tierra buena. El conflicto legal completo dura ~2 semanas. Inmediatamente antes de la audiencia que continúa en el Cap. 24.
@@ -181,6 +181,72 @@ Héctor dobló el papel y se quedó mirándolo, como si el que hubiera hablado d
 Kal guardó la oferta en el bolsillo y volvió a la abrazadera que estaba ajustando.
 
 —Porque esta vez lo quiero por escrito.
+
+***
+
+La moto estaba estacionada frente al taller cuando Kal llegó, a las siete y diez, con la cortina todavía a medio subir. Una Kawasaki verde, usada pero no mucho, con el tanque recién encerado.
+
+Kal la rodeó una vez. Se agachó junto a la rueda trasera y empujó la cadena con el pulgar. Floja.
+
+Adentro, Nadir dormía sentado en el sillón de la oficina, con las botas puestas y la chamarra cerrada hasta el cuello. Olía a carretera. En el escritorio había un café que ya no echaba vapor.
+
+Kal no lo despertó. Abrió el cajón de abajo del archivero, sacó la caja de lámina donde se guardaba el dinero de los tratos, las piezas que no pasaban por factura y la mercancía que se movía sin papel, y lo contó de pie. Lo contó dos veces.
+
+Faltaba casi exactamente lo que valía una Kawasaki verde con el tanque encerado.
+
+Cerró la caja. El ruido de la lámina despertó a Nadir, que abrió los ojos sin moverse, como quien calcula antes de saber dónde está.
+
+—Khoya. —Se frotó la cara con las dos manos—. ¿Qué hora es?
+
+—Siete y diez.
+
+Nadir miró la caja. Miró a Kal. No se levantó.
+
+—La vi el sábado. El dueño se iba a Phoenix y necesitaba vender rápido. Pedía cuatro mil doscientos; se la dejé en tres mil seiscientos, con casco, y las llantas son nuevas, wallah, no de las que pintan de negro para que parezcan...
+
+—Nadir.
+
+Se calló.
+
+—¿Por qué no me dijiste?
+
+Nadir dejó de frotarse la cara. Por una vez no tenía las manos ocupadas en nada.
+
+—Porque ibas a decir que no.
+
+Kal dejó la caja sobre el escritorio, junto al café frío.
+
+—Iba a decir que sí.
+
+Nadir se quedó mirándolo. Afuera, Danny terminó de subir la cortina y el ruido de la calle entró de golpe.
+
+Kal sacó la cartera, contó de su dinero lo que faltaba, lo metió en la caja y la devolvió al cajón.
+
+—Te lo pago —dijo Nadir.
+
+—Ya sé.
+
+—En abonos. Doscientos por semana. Trescientos cuando... —Se interrumpió—. Cuando se pueda.
+
+—Doscientos está bien.
+
+—Me sale caro.
+
+—Te sale lo que costó.
+
+Nadir se levantó por fin. Tenía los ojos rojos y la chamarra todavía cerrada. No dijo dónde había pasado la noche.
+
+Salieron juntos a la acera. Nadir pasó la mano por el tanque, despacio, como si todavía tuviera que convencerse de que era suyo.
+
+—La cadena está floja —dijo Kal.
+
+—¿Me la cambias?
+
+—Te la ajusto. Si hay que cambiarla, la pagas tú.
+
+Nadir sonrió por primera vez en la mañana.
+
+—Safi. Ésa te la pago de contado.
 
 ***
 

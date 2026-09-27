@@ -13,7 +13,7 @@
 | E2 | AUDIT 21–24, consolidación y preguntas al autor | **HECHA** | 2026-09-27 | §0–§5 de 21–24, S1/S2/S5/S6, balance; decisiones D1–D18 respondidas por el autor ("todo según recomendación") |
 | E3 | SURGERY 8, 18, 19, 20 | **HECHA** | 2026-09-27 | §9 Resultado (parte 1). Poda −257, S3 +42, neto −215. S4 protegida sin añadir; S1 no cae aquí (va en el 23) |
 | E4 | SURGERY 21–24 | **HECHA** | 2026-09-27 | §9 Resultado (parte 2). Poda −93, mecánica +4, S5+S6 +29, neto −60. Punto de inserción de la moto marcado en el 23 (entre 183 y el *** de 185) para E5 |
-| E5 | Escena de la moto y registro final | pendiente | — | — |
+| E5 | Escena de la moto y registro final | **HECHA** | 2026-09-27 | §9 Resultado (parte 3). Moto en el 23 (+438, con S2 dentro), BORRADOR/DISEÑO. Registro compartido hecho. Saldo para el 32: ≈ +970 |
 
 **Estado de los capítulos auditados en E1 (para el `git diff --stat` de E3):** los cuatro sin cambios en el árbol de trabajo al 2026-09-27; último commit `a8b7be0`. Palabras de prosa (sin metadata, `wc -w`, con encabezado): 8 = 2,699 · 18 = 3,187 · 19 = 1,650 · 20 = 2,277. La matriz del encargo da cifras un poco menores (2,675 / 3,166 / 1,639 / 2,260) porque cuenta distinto; para el antes/después de E3 se usa `wc -w`.
 
@@ -560,3 +560,59 @@ El 32 pide 800–1,000. Si se ejercen los vetos libres (C2, C6, C15 y C20 conser
 - **Racionalizar interioridad:** no. C14 conserva el reconocimiento de Kal y sólo quita la repetición del mecanismo.
 - **Prosa más genérica:** C17 ("como hacía todo") es más plana que la fórmula, pero la fórmula era un tic marcado en tres capítulos seguidos.
 - **Líneas nuevas del agente para que las lea el autor:** S6 (23:15) y S5 (23:71).
+
+---
+
+# §9 Resultado (parte 3) — Escena de la moto y registro final (E5, 2026-09-27)
+
+**Rol:** redacción, no microedición (adenda B, 5-sexies; pagada con el 5-ter). **La escena entera es BORRADOR/DISEÑO del agente hasta que la lea el autor.** El 23 sigue TERMINADO en la prosa previa; la línea de Estado lo registra.
+
+**Lugar (D10):** `23_La_Letra_Pequena.md`, sección nueva entre "—Porque esta vez lo quiero por escrito." y el `***` que abre "Hoover respondió con otra versión de la historia.". Queda: réplica → `***` → **moto** → `***` → Hoover.
+
+**Palabras:** escena = **438** (`wc -w`), bajo el tope de 600. Prosa del 23: **1,811 → 2,250** (+439, con el separador).
+
+**Qué hace la escena, beat por beat:**
+
+| Beat | Qué pasa | Condición de la adenda que cumple |
+|---|---|---|
+| 1 | Kal llega a las siete y diez; la Kawasaki verde frente al taller; revisa la cadena: floja | "Kal lo descubre por la moto frente al taller" |
+| 2 | Nadir dormido en el sillón de la oficina, botas y chamarra, "Olía a carretera" | **S2** (D12): cansancio de las rutas de la Ronda, sin explicar ni quejarse |
+| 3 | Kal cuenta dos veces la caja de lámina "de los tratos, las piezas que no pasaban por factura y la mercancía que se movía sin papel"; falta lo que vale la moto | Fondo de tratos y mercancía, **no cocaína**. No se dice "el Patio": el nombre nace en el 38 |
+| 4 | Nadir sobreexplica el precio (Phoenix, 4,200 → 3,600, llantas nuevas, *wallah*) | Ficha de voz: "Mintiendo/evadiendo: sobreexplica el número" |
+| 5 | **"—¿Por qué no me dijiste?" / "—Porque ibas a decir que no." / "—Iba a decir que sí."** | Líneas canon **textuales** |
+| 6 | Kal repone con su dinero; "Te lo pago" / "Ya sé"; abonos de doscientos por semana, "Trescientos cuando… Cuando se pueda" | Kal repone el fondo; Nadir paga en abonos. El "cuando se pueda" roza S2 sin nombrarlo |
+| 7 | "No dijo dónde había pasado la noche."; afuera, la cadena: "Te la ajusto. Si hay que cambiarla, la pagas tú." / "Safi. Ésa te la pago de contado." | La moto se queda. Rima de conducta con la Honda de Rafa (Cap. 1: la cadena, los pagos), sin citarla |
+
+**Controles:**
+- **Sin glosa del narrador:** nadie enlaza la moto con el "Avísenme" del 17 ni con el "por escrito" de Hoover; la yuxtaposición queda al lector. La escena **no menciona a Hoover**.
+- **Sin prolepsis (§L):** nada anuncia F1 ni el 42. El pago en el 42 es sólo conducta (D11); el 42 no se tocó.
+- **POV:** Kal todo el tiempo. Lo de Nadir es observable (olor, ojos rojos, manos quietas); "como quien calcula antes de saber dónde está" es comparación desde fuera.
+- **Voz de Nadir:** *khoya*, *wallah*, *safi* (tres en toda la escena, nunca dos en una línea); humor comercial herido ("Me sale caro"); se queda quieto cuando le importa ("Por una vez no tenía las manos ocupadas en nada"). **Voz de Kal:** frases cortas, trabaja mientras decide (cadena, caja, cartera), no explica por qué dice que sí.
+- **Finales de línea:** el 23 queda entero en CRLF (0 LF sueltos). Se normalizó además un LF suelto que había en la línea 5 de la metadata.
+
+**Registro compartido (regla común 6), releído justo antes y con edición puntual:**
+- Dictamen, tabla de avance: fila del lote B y fila de cierre de la Parte I (reemplaza "resto").
+- Adenda B: Camp Alder, S2, moto, casi-confesión del 20, rima 24↔44 y Matteo en el 23, marcados como aplicados o resueltos. Sección D: decisiones 1 (moto) y 2 (hilo B) resueltas.
+- `CURRENT_BRIEF.md` (paso 11 y la moto en la evaluación de arco), `log.md`, `INDEX.md` (enlace al mapa), `00_Book_Map.md` (entrada del 23) y ficha de Nadir (Historia).
+
+## § Saldo final de palabras (lote B)
+
+| Concepto | Palabras |
+|---|---|
+| Saldo de partida (5-ter) | **+1,134** |
+| Neto E3 (8, 18, 19, 20; poda −257, S3 +42) | +215 |
+| Neto E4 (21–24; poda −93, mecánica +4, S5+S6 +29) | +60 |
+| E5, la moto (con S2 dentro) | −438 |
+| **Saldo final para Irene en el 32** | **≈ +971** |
+
+El 32 pide 800–1,000: el saldo cabe entero. (La previsión de E2 era ≈ +796 con la moto a tope de 600.) Contabilidad, no meta (§J).
+
+## Autocrítica final (MICROEDICION §F)
+
+- **Más dudas:** el beat 3, la caja "de los tratos, las piezas que no pasaban por factura y la mercancía que se movía sin papel". Es la única frase que explica, y el "sin papel" puede leerse como eco buscado del "por escrito" de Hoover. Se sostiene porque la adenda exige que el lector sepa de qué fondo se trata (no cocaína). Si al autor le pesa, basta con "la caja de lámina de los tratos".
+- **Más agresivo:** insertar una sección entera en un capítulo TERMINADO que ya cargaba S5 y S6. El 23 pasa de ~1,810 a ~2,250 palabras y ahora tiene dos cuentas en paralelo (Hoover y Nadir). La escena lo sostiene sin que el narrador las enlace, pero el autor debe juzgar si el capítulo aguanta el tercer hilo.
+- **De corte a protección:** descarté una línea de Kal tipo "Kal no le preguntó" tras "No dijo dónde había pasado la noche": repetía la forma de 23:207 ("Kal tampoco preguntó") y explicaba el silencio.
+- **Riesgo de esterilizar voz:** no aplica a prosa previa, que no se tocó.
+- **Racionalizar interioridad:** bajo. Kal no piensa nada en la escena y todo pasa por conducta, como pide el pago en F1. El riesgo contrario es que el "Iba a decir que sí" se lea frío; lo sostiene la línea de Héctor justo antes ("Cuando eras chico no te enojabas si te quitaban algo").
+- **Prosa genérica:** la Kawasaki verde, Phoenix y los números son detalles de mi invención (DISEÑO), igual que la cadena como cierre. Si el autor tenía otra moto en mente, cambian sin tocar las líneas canon.
+- **Líneas nuevas del agente para que las lea el autor en todo el lote:** S3 (8:109), S6 (23:15), S5 (23:71) y la escena completa de la moto (23, entre "lo quiero por escrito" y "Hoover respondió").
