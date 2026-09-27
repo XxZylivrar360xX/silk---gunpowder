@@ -257,7 +257,7 @@ def main() -> None:
     parser.add_argument("--series", default="Seda y Pólvora", help="Saga name for EPUB collection metadata.")
     parser.add_argument("--series-position", default="1")
     parser.add_argument("--lang", default="es")
-    parser.add_argument("--cover", default="99_Reference/book_covers/Seda_y_Polvora_VICTOR_PAZ.png")
+    parser.add_argument("--cover", default="99_Reference/book_covers/Mascaras_de_Cristal_VICTOR_PAZ.png")
     parser.add_argument("--css", default="tools/epub-build/epub_style.css")
     parser.add_argument("--output-name", default="Mascaras_De_Cristal")
     parser.add_argument("--keep-manuscript", action="store_true")

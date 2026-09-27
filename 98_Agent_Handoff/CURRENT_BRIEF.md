@@ -4,7 +4,7 @@ Actualizado: 2026-09-27. Estado vigente; máximo 800 palabras. Sustituir informa
 
 ## Foco y siguiente paso
 
-> **CANON (2026-09-27):** *Seda y Pólvora* es el nombre de la saga; **el Libro I se llama *Máscaras de Cristal*** (carpetas `Book_01_Mascaras_De_Cristal`). Ver [[98_Agent_Handoff/sessions/2026-09-27_claude_nombre_de_saga]]. EPUB y portada pendientes con el título nuevo.
+> **CANON (2026-09-27):** *Seda y Pólvora* es el nombre de la saga; **el Libro I se llama *Máscaras de Cristal*** (carpetas `Book_01_Mascaras_De_Cristal`). Ver [[98_Agent_Handoff/sessions/2026-09-27_claude_nombre_de_saga]]. Portada nueva aprobada (pasillo a oscuras, máscara rota); EPUB regenerado como `Mascaras_De_Cristal.epub`.
 
 > **SUPERSESIÓN (2026-09-22):** se insertó *Sombras de Poder* como Libro II, entre *Seda y
 > Pólvora* y *Voto de Ceniza* (ahora Libro III) — ver [[00_Biblia/00_Trilogy_Structure]].
