@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md).
+Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): fuera la glosa de como se llevan Kal y Claudio, la cola "con la misma velocidad..." y dos "de verdad"; "Los lentes eran una herramienta, no una vanidad." La videollamada conserva su contracorte (decision del autor); el letrero del notario se deja. Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_08_18-24_Lote_B.md §9.
 Protagonistas: Kal Mercer, Harper Walker. Primera aparicion en prosa de Garrett Cross. Aparicion breve de Claudio (dueño de Il Gelsomino).
 Ventana temporal: en algun punto del mismo periodo que los capitulos de Kal/Chiara ya escritos -- meses despues de que ellos empezaran a pasar tiempo juntos (el flashback del parque lo confirma). Sin hito H asignado -- es un capitulo de expansion de El Patio, no de la relacion central.
 Lugares: notaria, Il Gelsomino, una parcela nueva al norte de San Aurelio, un parque cerca de Santa Lucia (flashback).
@@ -17,7 +17,7 @@ Firmó el terreno un martes, en la oficina de un notario que olía a café frío
 
 —Eso es lo que la hace buena.
 
-Garrett llevaba, como siempre, los lentes oscuros puestos incluso ahí adentro, con la luz de la oficina apenas suficiente para leer. Nadie en el cuarto le preguntó por qué — la gente que lo conocía sabía que la misma metralla que le había abierto el costado a Jim aquella tarde le había dejado a él otro precio que pagar: fotofobia, le habían dicho los médicos, un nombre limpio y clínico para algo que en la práctica significaba que la luz de un mediodía cualquiera le clavaba agujas detrás de los ojos si se quedaba expuesto demasiado tiempo. Moreno, con barba corta y el pelo negro rizado más largo de lo que cualquier reglamento militar habría tolerado, Garrett llevaba los lentes como quien lleva una herramienta, no una vanidad.
+Garrett llevaba, como siempre, los lentes oscuros puestos incluso ahí adentro, con la luz de la oficina apenas suficiente para leer. Nadie en el cuarto le preguntó por qué — la gente que lo conocía sabía que la misma metralla que le había abierto el costado a Jim aquella tarde le había dejado a él otro precio que pagar: fotofobia, le habían dicho los médicos, un nombre limpio y clínico para algo que en la práctica significaba que la luz de un mediodía cualquiera le clavaba agujas detrás de los ojos si se quedaba expuesto demasiado tiempo. Moreno, con barba corta y el pelo negro rizado más largo de lo que cualquier reglamento militar habría tolerado. Los lentes eran una herramienta, no una vanidad.
 
 Firmó Kal. Firmó el vendedor, un hombre mayor que llevaba esa tierra en la familia desde antes de que San Aurelio tuviera nombre y que ya no tenía quién la trabajara. Garrett selló la última página con la fecha y guardó la copia en una carpeta que ya tenía etiqueta.
 
@@ -47,7 +47,7 @@ Harper lo miró con la misma desconfianza plana con la que miraba a todo el mund
 
 —La encargada decidió que ya no encajaba con "la nueva imagen" del lugar. —Lo dijo sin amargura, como quien reporta el clima—. Llevo dos semanas buscando.
 
-Claudio, ya de vuelta adentro, levantó la mano a modo de saludo sin detenerse. Ninguno de los dos le debía al otro una explicación por lo que acababa de pasar en esa puerta — así funcionaban, y así les había funcionado bien hasta ahora: cada quien en lo suyo, sin pisarse, de acuerdo casi siempre y en desacuerdo alguna vez, sin que ninguna de las dos cosas se convirtiera nunca en problema.
+Claudio, ya de vuelta adentro, levantó la mano a modo de saludo sin detenerse. Ninguno de los dos le debía al otro una explicación por lo que acababa de pasar en esa puerta.
 
 —No te preocupes —dijo Kal—. No vas a trabajar aquí. Tengo un trabajo mucho más adecuado para ti.
 
@@ -105,7 +105,7 @@ Kal se había comprado un sombrero de paja —ancho, ridículo, exactamente el t
 
 A Kal se le ocurrió la idea de golpe, con el teléfono ya en la mano y un guante quitado para poder marcar. Videollamada. Chiara nunca esperaba las videollamadas.
 
-Del otro lado, Chiara vio el nombre en la pantalla y, por un segundo entero, el pánico específico de quien no está lista para que la vean le cruzó la cara — antes de que lo desechara con la misma velocidad con la que hacía cualquier otra cosa. Se acomodó el pelo con dos movimientos, se desabrochó dos botones de la blusa, y volvió a abrocharse uno, dejando el segundo abierto con la naturalidad de quien nunca calculó nada.
+Del otro lado, Chiara vio el nombre en la pantalla y, por un segundo entero, el pánico específico de quien no está lista para que la vean le cruzó la cara — antes de que lo desechara. Se acomodó el pelo con dos movimientos, se desabrochó dos botones de la blusa, y volvió a abrocharse uno, dejando el segundo abierto con la naturalidad de quien nunca calculó nada.
 
 Contestó.
 
@@ -131,7 +131,7 @@ Chiara se quedó callada el tiempo justo para que él supiera que la había sorp
 
 Se rió, una carcajada corta y de verdad que llegó hasta el otro lado del terreno — Harper levantó la cabeza un segundo, sin comentar nada, y volvió a lo suyo.
 
-—Kal. Kal Mercer. —Chiara negó con la cabeza, con esa media sonrisa que reservaba para cuando de verdad no sabía qué más decir—. Nunca paras de sorprenderme.
+—Kal. Kal Mercer. —Chiara negó con la cabeza, con esa media sonrisa que reservaba para cuando no sabía qué más decir—. Nunca paras de sorprenderme.
 
 —Espero que eso no se me acabe nunca.
 
@@ -139,7 +139,7 @@ Se rió, una carcajada corta y de verdad que llegó hasta el otro lado del terre
 
 —Por cierto —dijo Kal, ya más serio—, también estoy buscando abogado. Tuve un problema con mi socio, el dueño del espacio donde está el concesionario. Parece que en papel me sacó completo del acuerdo.
 
-—Qué casualidad. —Chiara ya sonaba distinta, la voz de quien vuelve a un terreno donde de verdad puede ayudar—. Acabo de conocer a alguien. Margaret Rivers. Competente, y con un detalle que a ti te va a servir: ella y el fiscal del distrito se odian desde la facultad. Para alguien con tu tipo de negocios, eso vale más que los diplomas.
+—Qué casualidad. —Chiara ya sonaba distinta, la voz de quien vuelve a un terreno donde puede ayudar—. Acabo de conocer a alguien. Margaret Rivers. Competente, y con un detalle que a ti te va a servir: ella y el fiscal del distrito se odian desde la facultad. Para alguien con tu tipo de negocios, eso vale más que los diplomas.
 
 —Pásame el contacto. Quiero proponerle un trato.
 

@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_c21_el_mirador.md). Deuda documental no bloqueante conservada: H11 (penthouse) en Hitos.md todavia describe el beso en el sofa; la prosa vigente lo sitúa de pie, tras el baile, junto al espejo del recibidor. SINCRONIZADA (verificado en housekeeping 2026-09-26: Hitos H11, seccion El penthouse, ya describe el beso de pie tras el baile junto al espejo).
+Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_c21_el_mirador.md). Deuda documental no bloqueante conservada: H11 (penthouse) en Hitos.md todavia describe el beso en el sofa; la prosa vigente lo sitúa de pie, tras el baile, junto al espejo del recibidor. SINCRONIZADA (verificado en housekeeping 2026-09-26: Hitos H11, seccion El penthouse, ya describe el beso de pie tras el baile junto al espejo). Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): un solo corte, la relativa "que habia cuidado durante meses" en el penthouse (la frase queda sola en el baile). S4 (casi-confesion, hilo A) ya existe en "la verdad de lo pequeno" y se protege sin anadir nada; 20:218 se conserva. Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_08_18-24_Lote_B.md §9.
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Ventana temporal: despues del Capitulo 18 (H4, el dia nublado) y del Capitulo 19 (Tierra buena, capitulo lateral de expansion sin hito H). Reordenado el 2026-08-29: H11 pasa a ir DESPUES de H10 y H4; renumerado varias veces, la ultima el 2026-09-07 al insertar el Capitulo 19 nuevo (Tierra buena).
 Lugares: bolera de la playa, carretera del norte, El Mirador, The Monarch Casino & Hotel / El Penthouse.
@@ -175,7 +175,7 @@ Kal se quitó la chaqueta sin que se lo pidieran, con la misma naturalidad con l
 
 Chiara puso algo en el estéreo antes de servir — *Fade Into You*, de Mazzy Star, bajo, apenas por encima del silencio.
 
-La botella que habían comprado era un Chiaretto de Bardolino, rosado de verdad — el que Chiara elegía solo para las noches que quería que fueran algo más que una cena. Sirvió dos copas y se sentó cerca de él —no pegada, pero sin la distancia de cortesía que había cuidado durante meses.
+La botella que habían comprado era un Chiaretto de Bardolino, rosado de verdad — el que Chiara elegía solo para las noches que quería que fueran algo más que una cena. Sirvió dos copas y se sentó cerca de él —no pegada, pero sin la distancia de cortesía.
 
 —Tengo una regla —dijo, con la copa todavía en la mano, sin beber—. Nunca miento en lo pequeño.
 

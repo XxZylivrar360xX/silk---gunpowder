@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO.
+Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): "semanas atras" -> "dias atras" (Cap. 7); fuera el amanecer a las dos de la manana y la prolepsis de la Colombina ("No volvio a acordarse de ella"; queda disponible para reaparecer); fuera el parrafo "Esa semana... Recortado" (lo hace 21), "el reverso de la primera reunion" y "El camaleon perfecto" (palabra reservada a Kal); "Mandorla" leido desde Chiara (salto de POV). Siembra S3 (hilo B): la cerca de Camp Alder, una imagen, Kal no gira la cabeza. Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_08_18-24_Lote_B.md §9.
 Protagonistas: Kal Mercer, Chiara Bellandi; Tyler Brooks como aparicion.
 Ventana temporal: dias despues del Capitulo 7 (la noche del ladrillo). Todavia son formalmente amigos; no hay primer beso.
 Lugares: Il Gelsomino (arranque), corredor comercial de salida al interior, La Tramoya (tienda de vestuario/utileria/mascaras), Kingsley Field y carreteras perimetrales / Carretera de Milla.
@@ -11,8 +11,6 @@ Funcion: ejecutar H9 -- Kal saca a Chiara de su zona de confort y le presta una 
 Il Gelsomino cerraba a las nueve entre semana, y para las ocho y media ya no quedaba nadie en la terraza salvo ellos dos y una silla que el mozo había subido a una mesa sin llegar a las demás.
 
 Era la hora de contarse el día. Se había vuelto costumbre sin que ninguno la nombrara: Kal pasaba, ella bajaba, se sentaban veinte minutos con un café que se enfriaba y cada uno le entregaba al otro la versión corta de sus últimas doce horas. A Chiara le gustaba esa media hora más de lo que le convenía admitir, porque era el único rato del día en que no tenía que decidir qué cara poner antes de hablar.
-
-Esa semana, sin embargo, había estado llegando con el día ya archivado. Ordenado de antemano. Recortado.
 
 —Firmé lo del calendario del torneo —dijo—. Tommaso puso una cara. Nada más.
 
@@ -54,7 +52,7 @@ Chiara se detuvo un momento en el escalón.
 
 —Sí.
 
-No hubo explicación, y ella tampoco la pidió. Lo había armado sola semanas atrás, en el asiento trasero de un taxi, con un ladrillo clavándosele en la cadera: el coche del que Blake presumía derrotas, el que se le escapaba a media comisaría cerca de Kingsley Field, el terror de la policía del que nadie había visto la cara. Siempre había sido éste. Siempre había sido él.
+No hubo explicación, y ella tampoco la pidió. Lo había armado sola días atrás, en el asiento trasero de un taxi, con un ladrillo clavándosele en la cadera: el coche del que Blake presumía derrotas, el que se le escapaba a media comisaría cerca de Kingsley Field, el terror de la policía del que nadie había visto la cara. Siempre había sido éste. Siempre había sido él.
 
 Abrió la puerta y se subió.
 
@@ -106,13 +104,13 @@ Kal pagó en efectivo. El dueño metió las dos máscaras en una bolsa de papel 
 
 Kingsley Field de noche era una reja de tela metálica que corría kilómetros junto a una carretera recta, un puñado de hangares con luz de sodio al otro lado y, más allá, la pista de verdad, oscura y quieta, que no era donde iban.
 
-Iban a las afueras: las vías de servicio y los tramos perimetrales, la Carretera de Milla estirándose paralela a la reja hasta perderse. Cuando Kal salió de la autopista y bajó por una rampa sin señalizar, Chiara empezó a ver los coches. Veinte, treinta, aparcados de cualquier modo sobre la grava, con las cajuelas abiertas y los faros de algunos apuntando hacia la carretera para marcar dónde empezaba el asfalto que importaba.
+Iban a las afueras: las vías de servicio y los tramos perimetrales, la Carretera de Milla estirándose paralela a la reja hasta perderse. Más allá de los hangares, donde la autopista seguía hacia el noreste, corría otra cerca, más alta, con alambre arriba y una luz blanca y pareja que no era la de Kingsley. Un letrero verde: CAMP ALDER. Kal no giró la cabeza.
+
+Cuando Kal salió de la autopista y bajó por una rampa sin señalizar, Chiara empezó a ver los coches. Veinte, treinta, aparcados de cualquier modo sobre la grava, con las cajuelas abiertas y los faros de algunos apuntando hacia la carretera para marcar dónde empezaba el asfalto que importaba.
 
 Se bajaron. El aire olía a combustible quemado y a hierba seca. Alguien aceleraba un motor a lo lejos sin ningún motivo salvo que lo oyeran. Había cajas de herramientas abiertas sobre las defensas, billetes cambiando de mano sin que nadie explicara a cuenta de qué, grupos que se reconocían con un gesto de la barbilla y se separaban igual de rápido.
 
 Chiara hizo lo que sabía hacer en cualquier sala nueva: buscar quién mandaba. No lo encontró. En una junta del Monarch le habría bastado un minuto para ordenar la mesa por peso; aquí las jerarquías no se leían igual — el que importaba podía ser el del coche más feo, o el que no hablaba con nadie, o el chico de la sudadera que iba de grupo en grupo sin quedarse en ninguno.
-
-Era el reverso de la primera reunión en el Monarch — sólo que esta vez la que estaba parada en un cuarto que no era suyo era ella.
 
 Kal no se apartó. No la llevó del brazo por el estacionamiento como un premio ni la dejó sola contra el coche. Se quedó a su lado, con la bolsa de papel bajo el brazo, saludando a la gente que había que saludar sin soltar la conversación que estaba teniendo con ella.
 
@@ -122,7 +120,7 @@ El de la sudadera resultó ser el que importaba. Llegó caminando, joven — de 
 
 —Cambié de idea.
 
-Nadie ahí lo llamaba Kal. **Mac**, le decían, tan campante como si fuera cualquier apodo — hasta que Chiara cayó en la cuenta, un segundo tarde, de que invertir las iniciales de Mercer Kal daba exactamente eso. Un nombre falso hecho enteramente del nombre real, para poder gritarlo en una recta sin que sirviera de nada después en una comisaría. El camaleón perfecto: cambiaba de color sin cambiar una sola letra.
+Nadie ahí lo llamaba Kal. **Mac**, le decían, tan campante como si fuera cualquier apodo — hasta que Chiara cayó en la cuenta, un segundo tarde, de que invertir las iniciales de Mercer Kal daba exactamente eso. Un nombre falso hecho enteramente del nombre real, para poder gritarlo en una recta sin que sirviera de nada después en una comisaría.
 
 —Bien. —Tyler le echó un ojo al motor por la rejilla, con el gesto de quien tasa sin tocar—. La recta está peor que el mes pasado. Pusieron guardaganado nuevo pasado el tanque de agua. Se los aviso a todos y la mitad se olvida.
 
@@ -134,7 +132,7 @@ Nadie ahí lo llamaba Kal. **Mac**, le decían, tan campante como si fuera cualq
 
 Tyler asintió, sin pedir más, satisfecho con lo poco que le habían dado.
 
-Kal la miró un segundo de más. No dijo nada — pero algo en la comisura de la boca se le movió, el principio de una sonrisa que no llegó a completarse, porque acababa de entender de dónde había salido esa palabra.
+Kal la miró un segundo de más. No dijo nada — pero algo en la comisura de la boca se le movió, el principio de una sonrisa que no llegó a completarse: había entendido de dónde salía esa palabra.
 
 —¿Salida por dónde? —le preguntó a Tyler, para no tener que decir nada más.
 
@@ -216,7 +214,7 @@ Y ahí volvió la risa, más chica esta vez, la de los dos.
 
 ***
 
-Entró a la ciudad por el sur, con el cielo empezando a decidirse por un gris muy claro sobre el agua. Chiara tenía la Colombina en el regazo y, cuando se estiró hacia el asiento de atrás para alcanzar el abrigo, la dejó caer ahí sin pensarlo, entre el respaldo y un trapo de taller. No volvió a acordarse de ella.
+Entró a la ciudad por el sur. Chiara tenía la Colombina en el regazo y, cuando se estiró hacia el asiento de atrás para alcanzar el abrigo, la dejó caer ahí sin pensarlo, entre el respaldo y un trapo de taller.
 
 Kal la dejó en la puerta de servicio del Monarch, la misma por la que la había recogido. Pasaban de las dos de la mañana.
 

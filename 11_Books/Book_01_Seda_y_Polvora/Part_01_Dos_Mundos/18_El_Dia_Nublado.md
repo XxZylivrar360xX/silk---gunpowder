@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO (aprobado por el autor 2026-09-12, tras M6 verificada y CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md).
+Estado: TERMINADO (aprobado por el autor 2026-09-12, tras M6 verificada y CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): cierra en "Nadie llamo a eso una cita." (fuera la prolepsis "Al dia siguiente..." y el sol del ultimo parrafo, que contradecia el regreso con la nube sin romperse); colas de tic cortadas ("la clase de", "con la misma... con la que"), certificacion "Una vez mas, Kal Mercer lo habia conseguido" fuera; Blake: "Kal ya sabia de quien hablaba" (salto de POV). La luz del golf queda como esta (decision del autor). Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_08_18-24_Lote_B.md §9.
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Ventana temporal: dias despues del Capitulo 17 (Cuentas claras / Anticiparse, la negociacion con Irene y la reunion en casa de Hector). Antes del Capitulo 20 (H11, el mirador). Reordenado el 2026-08-29: H10 -> H4 -> H11; renumerado varias veces, la ultima el 2026-09-03 al fusionar los capitulos de la negociacion con Irene y la reunion del barrio en un solo Capitulo 17.
 Lugares: Il Gelsomino (terraza), boutique de golf en el norte, campo de golf al norte de San Aurelio, carretera del norte, The Monarch / El Penthouse.
@@ -76,7 +76,7 @@ Enzo levantó las cejas, con el interés específico de quien lleva años sirvie
 
 Chiara volteó a verlo con una confusión que no se molestó en disimular. Jamás habían quedado en nada — el plan llevaba semanas siendo una broma sin fecha, y de pronto tenía una, puesta ahí, sin que nadie se la hubiera consultado. Kal no explicó nada más. No hacía falta: era exactamente la clase de cosa que hacía cuando quería sacarla de donde ella se sentía cómoda, sin pedir permiso primero.
 
-Ella lo dejó pasar. Se acomodó en la silla, con la copa todavía en la mano, y decidió seguirle la corriente con la misma naturalidad con la que aceptaba todo lo que él improvisaba.
+Ella lo dejó pasar. Se acomodó en la silla, con la copa todavía en la mano, y decidió seguirle la corriente.
 
 —El campo del norte es de los mejores lugares de la ciudad para ver el atardecer —dijo, como si hubiera sido idea suya desde el principio.
 
@@ -84,7 +84,7 @@ Ella lo dejó pasar. Se acomodó en la silla, con la copa todavía en la mano, y
 
 —No dije eso.
 
-Se sostuvieron la mirada un momento de más, con esa clase de tensión que no pedía nada en voz alta pero tampoco se molestaba en esconderse del todo.
+Se sostuvieron la mirada un momento de más.
 
 Cuando llegó la cuenta, Chiara alcanzó su bolso por costumbre. Kal puso la mano encima de la mesa, no sobre la de ella, simplemente ahí, como quien cierra una conversación antes de que empiece.
 
@@ -94,7 +94,7 @@ Cuando llegó la cuenta, Chiara alcanzó su bolso por costumbre. Kal puso la man
 
 —No me vas a deber un favor. —Kal se guardó la cartera que ni siquiera había sacado—. Tú puedes pagar las entradas al campo. Es solo un préstamo temporal.
 
-Chiara lo miró con una sonrisa medio torcida, la clase de mueca que reservaba para las pocas veces que alguien se salía con la suya delante de ella. Una vez más, Kal Mercer lo había conseguido.
+Chiara lo miró con una sonrisa medio torcida, la clase de mueca que reservaba para las pocas veces que alguien se salía con la suya delante de ella.
 
 —¿Vamos? —dijo él, ya de pie.
 
@@ -142,7 +142,7 @@ Chiara la sostuvo, la miró, y levantó una ceja.
 
 —Kal.
 
-Fue lo único que dijo antes de que la risa se le escapara, corta y genuina, la clase que no se molestaba en contener delante de él.
+Fue lo único que dijo antes de que la risa se le escapara, corta y genuina.
 
 Terminaron pagando dos conjuntos considerablemente más sensatos que las primeras propuestas de cada uno, y se los pusieron ahí mismo, en los probadores contiguos, hablando por encima de la cortina como si llevaran años haciendo exactamente eso.
 
@@ -212,7 +212,7 @@ Kal se tomó un momento antes de preguntar, con la clase de calma que usaba cuan
 
 Pero contestó.
 
-—Sí. Antes. —No dio nombres, no hizo falta: lo que Kal necesitaba saber ya lo tenía guardado desde antes sin haberlo pedido, un rubio de ojos azules que la paseaba por la ciudad como un trofeo bien iluminado—. Ya no es nada. No me sacude ni un poco.
+—Sí. Antes. —No dio nombres, no hizo falta: Kal ya sabía de quién hablaba, un rubio de ojos azules que la paseaba por la ciudad como un trofeo bien iluminado—. Ya no es nada. No me sacude ni un poco.
 
 Kal asintió, sereno, con la cara que ponía cuando algo le convenía disimular profesionalmente. Se le arrugó la nariz, apenas, ese medio segundo que Chiara ya empezaba a reconocer como la única grieta que él no sabía tapar del todo.
 
@@ -318,6 +318,4 @@ Kal le tomó la mano. Sin pena, sin preguntar, como si fuera una cosa que ya se 
 
 Se quedaron así. En algún momento ella se durmió contra su hombro, y un rato después él también, sentados, sin que pasara nada más.
 
-Nadie llamó a eso una cita. Al día siguiente, cuando alguien preguntó, los dos dijeron que eran buenos amigos, y lo dijeron sin que se les moviera un músculo.
-
-Ese jueves, de camino a casa, la nube por fin se abrió y salió el sol de siempre, tarde y sin ganas, sobre una ciudad que ya había dejado de mirar el cielo.
+Nadie llamó a eso una cita.
