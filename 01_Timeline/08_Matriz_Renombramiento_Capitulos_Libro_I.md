@@ -6,9 +6,9 @@
 
 ## Fuentes y regla de trabajo
 
-- Mapa operativo: [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]].
+- Mapa operativo: [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 - Continuidad de hitos: [[06_Relationships/Hitos]].
-- Manuscrito: carpeta [[11_Books/Book_01_Seda_y_Polvora]].
+- Manuscrito: carpeta [[11_Books/Book_01_Mascaras_De_Cristal]].
 - **Advertencia sobre las etiquetas heredadas:** que un título cite una línea o coincida con un hito canon no demuestra que el autor haya fijado ese título como definitivo. Las etiquetas `CANON / FUERTE`, `CANON / FRASE` y similares de la primera pasada no acreditan aprobación: son valoraciones editoriales pendientes de verificar. Las recomendaciones y alternativas de este documento son **DISEÑO**.
 - **PROVISIONAL:** título de trabajo que puede cambiar sin alterar el acontecimiento.
 - **ARCHIVO DESFASADO:** el título visible y el nombre del archivo no coinciden, o el nombre conserva una etapa anterior.
@@ -93,12 +93,12 @@
 
 ### Fuentes de esta ronda
 
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/04_Tarifa_Nocturna]]: tarifa, factura enseñable, respuesta al tercer tono y cierre sobre lo que no aparecerá en la hoja.
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/21_El_Primer_Huesped]]: declaración de Kal en el mezzanine, desayuno dedicado a ambos y despedida de Marisol.
-- [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/22_Causalidad]]: llamada inicial, retiro del auto, versión del hotel y coda Dario/Tommaso.
-- [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/28_La_Correa]]: sudadera, discusión de autonomía y puerta abierta en los dos sentidos.
-- [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/30_Media_Baraja]]: media baraja, fotografías, acuerdo y reunión con El Patio.
-- [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta]]: atención extra de Kenji, reclamo de Marisol, dinero contado y límite de Kal al decidir por ella.
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/04_Tarifa_Nocturna]]: tarifa, factura enseñable, respuesta al tercer tono y cierre sobre lo que no aparecerá en la hoja.
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21_El_Primer_Huesped]]: declaración de Kal en el mezzanine, desayuno dedicado a ambos y despedida de Marisol.
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/22_Causalidad]]: llamada inicial, retiro del auto, versión del hotel y coda Dario/Tommaso.
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/28_La_Correa]]: sudadera, discusión de autonomía y puerta abierta en los dos sentidos.
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/30_Media_Baraja]]: media baraja, fotografías, acuerdo y reunión con El Patio.
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta]]: atención extra de Kenji, reclamo de Marisol, dinero contado y límite de Kal al decidir por ella.
 
 ## Decisiones del autor — primera ronda (2026-09-20)
 

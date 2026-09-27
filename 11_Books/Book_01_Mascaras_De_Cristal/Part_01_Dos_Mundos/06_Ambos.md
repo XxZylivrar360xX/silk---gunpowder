@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): prolepsis (secretos, carreras/calavera, puerta), 6:323 alineado con H2-b (el no tiene forma de saberlo), glosa del cierre tras 'Eres increible' cortada (salto de POV), pronunciacion de Mina (la hace Parole), codas y recuentos de la noche. Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_04-13_Lote_A.md.
+Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): prolepsis (secretos, carreras/calavera, puerta), 6:323 alineado con H2-b (el no tiene forma de saberlo), glosa del cierre tras 'Eres increible' cortada (salto de POV), pronunciacion de Mina (la hace Parole), codas y recuentos de la noche. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_04-13_Lote_A.md.
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Ventana temporal: despues de la primera cena y de la costumbre de contarse el dia.
 Lugares: The Monarch Casino & Hotel, El Penthouse.

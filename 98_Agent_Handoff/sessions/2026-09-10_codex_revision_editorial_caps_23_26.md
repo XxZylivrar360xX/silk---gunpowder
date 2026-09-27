@@ -4,7 +4,7 @@ Fecha: 2026-09-10. Diagnóstico de la versión de trabajo, **sin modificar manus
 
 ## Alcance y dictamen
 
-Lectura completa de [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/23_Sin_Rastro]], [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/24_La_Letra_Pequena]], [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/25_Bajo_Juramento]] y [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/26_Libros_Abiertos]]. Cotejo dirigido con la reunión del Cap. 2, la entrega del contacto en el 20, apertura del 27, H15, beats 16–17, políticas editoriales, voces de Cole/Chiara/Tommaso y ledgers. No es validación jurídica externa ni auditoría integral del resto del libro. No se ejecutó el piloto determinista.
+Lectura completa de [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/23_Sin_Rastro]], [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/24_La_Letra_Pequena]], [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/25_Bajo_Juramento]] y [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/26_Libros_Abiertos]]. Cotejo dirigido con la reunión del Cap. 2, la entrega del contacto en el 20, apertura del 27, H15, beats 16–17, políticas editoriales, voces de Cole/Chiara/Tommaso y ledgers. No es validación jurídica externa ni auditoría integral del resto del libro. No se ejecutó el piloto determinista.
 
 La progresión funciona: colaboración clandestina → pelea por reconocimiento escrito → victoria con deuda inquietante → apertura privada. **No recomiendo reescribir el bloque completo.** El 23 necesita reconstrucción localizada de claridad causal; 24–25 necesitan reconciliar la prueba con el hecho que se pretende demostrar; 26 necesita completar el cotejo de H15 y una poda breve. La reescritura anterior ya mejoró el trámite, el juego del Lancia y la alternancia de la confesión: no aplicar otra vez el diagnóstico de fragmentación como si nada hubiera cambiado.
 
@@ -94,7 +94,7 @@ La confesión ya alterna preguntas, silencios y contacto. **No devolverla a voz 
 
 ## 4. Costura hacia el 27 y estado documental
 
-La apertura de [[11_Books/Book_01_Seda_y_Polvora/Part_02_La_Construccion/27_Me_Encuentro_Bien]] coloca el jacuzzi «anoche», pero fecha la intercepción de Varek **«Dos noches atrás, con el pelo todavía húmedo del jacuzzi»**. La metadata y H15 la colocan después del mismo jacuzzi. **Contradicción temporal concreta:** reconciliar esa referencia antes de cerrar el bloque. No volver a pedir que se redacte una advertencia ausente: ya está escrita como recuerdo en el 27.
+La apertura de [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_La_Construccion/27_Me_Encuentro_Bien]] coloca el jacuzzi «anoche», pero fecha la intercepción de Varek **«Dos noches atrás, con el pelo todavía húmedo del jacuzzi»**. La metadata y H15 la colocan después del mismo jacuzzi. **Contradicción temporal concreta:** reconciliar esa referencia antes de cerrar el bloque. No volver a pedir que se redacte una advertencia ausente: ya está escrita como recuerdo en el 27.
 
 H15 todavía la marca pendiente en una nota heredada. Además llama completa a la noche; revisar esa cobertura junto a Consorcio/Anya. Son desajustes de registro, no permiso para inventar contenido.
 

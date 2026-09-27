@@ -11,7 +11,7 @@
 >
 > | Etapa | Caps. | Estado | Mapa |
 > |---|---|---|---|
-> | E1–E4 | 35–44 | AUDIT hecho; el autor aprobó todas las recomendaciones (Q1–Q19, Anya y P3 incluidas) (2026-09-27) | [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_35-44_Parte_III]] |
+> | E1–E4 | 35–44 | AUDIT hecho; el autor aprobó todas las recomendaciones (Q1–Q19, Anya y P3 incluidas) (2026-09-27) | [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]] |
 > | E5 | 35–37 | SURGERY hecha, −264; coda de las invitaciones al final del 36; Héctor desmedicalizado; "Sin duda alguna" restaurada; siguen BORRADOR | § 9 parte 1 |
 > | E6 | 38 | SURGERY hecha, −843 (8,628 → 7,785); vela retirada; el rango 5,500–6,500 no se alcanzó sin tocar inviolables; sigue BORRADOR | § 9 parte 2 |
 > | E7 | 39–41 | SURGERY hecha, −291; "un par de días más" restaurado; Riley sin confidencia sobrante; P3 (+13); siguen BORRADOR | § 9 parte 3 |

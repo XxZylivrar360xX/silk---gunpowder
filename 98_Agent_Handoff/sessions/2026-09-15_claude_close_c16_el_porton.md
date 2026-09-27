@@ -1,6 +1,6 @@
 # CLOSE C16 — El portón (2026-09-15, Claude Code, encargo del autor)
 
-Ejecutado exclusivamente el lifecycle **CLOSE** de [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/16_El_Porton]]. Sin AUDIT, sin SURGERY, sin microedición, sin reabrir M4 (ya cerrado; única intervención aceptada — comunicación médica explícita del infarto — ya aplicada). M5 no generó deuda transversal específica para C16.
+Ejecutado exclusivamente el lifecycle **CLOSE** de [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/16_El_Porton]]. Sin AUDIT, sin SURGERY, sin microedición, sin reabrir M4 (ya cerrado; única intervención aceptada — comunicación médica explícita del infarto — ya aplicada). M5 no generó deuda transversal específica para C16.
 
 ## Gates
 

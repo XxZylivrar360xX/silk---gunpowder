@@ -27,7 +27,7 @@ No tratarlo como una copia de un villano caótico ni reducirlo a una etiqueta cl
 
 Nereo es su reverso negable. No sustituye a Valenti ni recibe voto propio. Hace posible que La Mesa diga, con verdad técnica, que nunca ordenó lo que ocurrió.
 
-## Participación en Libro I — *Seda y Polvora*
+## Participación en Libro I — *Mascaras de Cristal*
 
 El primer trabajo de Nereo que afecta la novela no ocurre en San Aurelio: desaparece a [[02_Characters/Elio_Bellacorte|Elio Bellacorte]], hermano de [[02_Characters/Matteo_Bellacorte|Matteo Bellacorte]], en **Génova, Italia** (ciudad resuelta y corregida 2026-09-20). No hay violencia mostrada ni cadáver: Elio rompe una rutina que jamás rompe (deja de responder, falta a dos compromisos profesionales seguidos), y una pieza de información privada distinta llega a Matteo y lo convence de que esto no se resuelve por teléfono — esa nota nunca la ve Chiara ni el lector en Parte III.
 
@@ -61,7 +61,7 @@ La verdad de su lealtad a Varek se revela hasta que Varek ya está encarcelado, 
 
 Después de Keene, Volpi entra como un desconocido al departamento del norte de [[02_Characters/Tommaso_Lusardi|Tommaso Lusardi]] y lo ejecuta sentado en la banca de su terraza. La composición recuerda el cadáver de Keene en Plaza Corona: una muerte expuesta, casi quieta, hecha para ser vista antes de ser comprendida.
 
-> **DISEÑO del autor (2026-09-26): el invitado de la mesa tres.** En el primer torneo del Monarch ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/12_Roma_Atrii|Cap. 12]]), un invitado sin nombre que dice haber jugado con Alessio en Palermo le cuenta a Tommaso "la versión" de Chiara (escalón 3 de la escalera de presión, ver [[12_Craft_Policies/revelations/Book_01_Seda_y_Polvora]]). Es Volpi con otro nombre, trabajando para Varek, que ya había preguntado por Palermo en el Cap. 5. **Lo de Alessio es tapadera:** Volpi no lo conoció ni sabe qué le pasó. Fabrizio está en ese mismo torneo. **Consecuencia para esta escena:** "entra como un desconocido" vale para la ciudad y la policía, **no para Tommaso**, que le abre la puerta a un hombre que conoció una sola vez, como amigo de Alessio. **Reglas:** la identidad no se confirma en el Libro I; el 12 no se toca; la pista apunta a Palermo y a La Mesa, nunca a Varek. Pago retroactivo pendiente de capítulo.
+> **DISEÑO del autor (2026-09-26): el invitado de la mesa tres.** En el primer torneo del Monarch ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/12_Roma_Atrii|Cap. 12]]), un invitado sin nombre que dice haber jugado con Alessio en Palermo le cuenta a Tommaso "la versión" de Chiara (escalón 3 de la escalera de presión, ver [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]]). Es Volpi con otro nombre, trabajando para Varek, que ya había preguntado por Palermo en el Cap. 5. **Lo de Alessio es tapadera:** Volpi no lo conoció ni sabe qué le pasó. Fabrizio está en ese mismo torneo. **Consecuencia para esta escena:** "entra como un desconocido" vale para la ciudad y la policía, **no para Tommaso**, que le abre la puerta a un hombre que conoció una sola vez, como amigo de Alessio. **Reglas:** la identidad no se confirma en el Libro I; el 12 no se toca; la pista apunta a Palermo y a La Mesa, nunca a Varek. Pago retroactivo pendiente de capítulo.
 
 La policía local y la prensa empiezan a plantear un asesino serial. Tras meses sin otro ataque, esa hipótesis se descarta. No era un asesino serial: eran intervenciones separadas cuyo vínculo real nadie podía probar todavía.
 

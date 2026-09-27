@@ -10,7 +10,7 @@
 
 | Orden | Libro | Bisagra de entrada | Bisagra de salida |
 |---|---|---|---|
-| 1 | [[02_Libro_01_Seda_y_Polvora]] | Kal y Chiara se conocen en San Aurelio | Reencuentro tras Camp Alder ("Ciao, bella") |
+| 1 | [[02_Libro_01_Mascaras_De_Cristal]] | Kal y Chiara se conocen en San Aurelio | Reencuentro tras Camp Alder ("Ciao, bella") |
 | 2 | [[03_Libro_02_Sombras_De_Poder]] | Reconciliación tras Camp Alder y asesinato de Tommaso | H1 cierra el libro; Halbrook llega a la ciudad |
 | 3 | [[04_Libro_03_Voto_De_Ceniza]] | Chiara está embarazada y Halbrook ya está presente | Kal sentencia a Halbrook y nace la arquitectura de salida |
 | 4 | [[05_Libro_04_Cuentas_De_Sangre]] | Halbrook abre el libro como objetivo público | Kal y Chiara viven en Palermo con Elenna |
@@ -20,7 +20,7 @@
 ## Reglas de continuidad
 
 - Kal y Chiara permanecen juntos en los seis libros.
-- El Libro I (*Seda y Pólvora*) termina en el reencuentro tras Camp Alder, antes de H1 y del embarazo confirmado.
+- El Libro I (*Máscaras de Cristal*) termina en el reencuentro tras Camp Alder, antes de H1 y del embarazo confirmado.
 - H1 y el reveal del embarazo cierran el Libro II (*Sombras de Poder*); el nacimiento de Elenna sigue perteneciendo al Libro III.
 - H22 ocurre en el Libro III (*Voto de Ceniza*), antes de la caída legal de Dario, la montaña y Santa Lucía.
 - La ejecución pública de Halbrook abre el Libro IV (*Cuentas de Sangre*).

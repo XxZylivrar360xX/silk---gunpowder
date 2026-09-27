@@ -2,7 +2,7 @@
 
 Guía operativa para agentes que trabajen en este vault.
 
-Este repositorio es primordialmente un vault de Obsidian para la novela original *Seda y Pólvora*, no una aplicación de software. Puede contener herramientas locales auxiliares bajo `tools/` (EPUB, auditoría editorial), preferentemente sin dependencias externas. El trabajo principal consiste en leer, ordenar, documentar y editar Markdown con cuidado de canon.
+Este repositorio es primordialmente un vault de Obsidian para la saga original *Seda y Pólvora* (Libro I: *Máscaras de Cristal*), no una aplicación de software. Puede contener herramientas locales auxiliares bajo `tools/` (EPUB, auditoría editorial), preferentemente sin dependencias externas. El trabajo principal consiste en leer, ordenar, documentar y editar Markdown con cuidado de canon.
 
 ## Regla Principal
 

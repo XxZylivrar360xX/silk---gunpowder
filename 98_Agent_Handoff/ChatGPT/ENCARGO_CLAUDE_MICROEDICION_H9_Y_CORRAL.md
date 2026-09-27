@@ -25,8 +25,8 @@ La función narrativa debe permanecer idéntica.
 
 Trabajar únicamente sobre:
 
-- `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_La_Carrera_De_Mascaras.md`
-- `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Corral.md`
+- `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_La_Carrera_De_Mascaras.md`
+- `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Corral.md`
 
 Leer ambos completos antes de editar.
 

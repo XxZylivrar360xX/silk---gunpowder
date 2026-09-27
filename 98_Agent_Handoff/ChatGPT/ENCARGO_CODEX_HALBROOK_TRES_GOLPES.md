@@ -57,7 +57,7 @@ Leer de forma dirigida:
 - `02_Characters/Kenji_Oda.md`
 - `02_Characters/Dario_Varek.md`
 - `06_Relationships/Hitos.md`
-- `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`
+- `11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map.md`
 - `04_Concepts/La_Guerra_de_los_Tres.md`
 - `03_Factions/Departamento_de_Policia_de_San_Aurelio.md`
 - `03_Factions/Fuerza_de_Tarea_Meridian.md`
@@ -978,7 +978,7 @@ Como mínimo auditar y modificar donde corresponda:
 - `02_Characters/Warren_Halbrook.md`
 - `06_Relationships/Hitos.md`
 - `04_Concepts/La_Guerra_de_los_Tres.md`
-- `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`
+- `11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map.md`
 - `98_Agent_Handoff/CURRENT_BRIEF.md`
 - `98_Agent_Handoff/DECISIONS.md`
 - `98_Agent_Handoff/PENDING.md`

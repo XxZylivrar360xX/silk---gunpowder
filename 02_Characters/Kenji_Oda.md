@@ -58,7 +58,7 @@ Si alguien lo intercepta antes de que llegue a Chiara, ve basura: unas palabras 
 
 ## Kenji y Marisol — relación fuera de foco (Libros I y II)
 
-> **CANON DEL AUTOR (2026-09-10):** Kenji y [[02_Characters/Marisol_Grayson]] empiezan a salir. La relación se desarrolla fuera de foco durante *Seda y Pólvora* (Libro I) y *Voto de Ceniza* (Libro II): sus hitos se perciben desde Kal y Chiara, por los cambios visibles en sus interacciones y por lo que la pareja decide contarles. No se abre una línea de escenas íntimas ni un POV propio para narrar el noviazgo.
+> **CANON DEL AUTOR (2026-09-10):** Kenji y [[02_Characters/Marisol_Grayson]] empiezan a salir. La relación se desarrolla fuera de foco durante *Máscaras de Cristal* (Libro I) y *Voto de Ceniza* (Libro II): sus hitos se perciben desde Kal y Chiara, por los cambios visibles en sus interacciones y por lo que la pareja decide contarles. No se abre una línea de escenas íntimas ni un POV propio para narrar el noviazgo.
 
 - **Libro I:** sembrar el acercamiento y el inicio de la relación en las interacciones con los protagonistas; colocación exacta pendiente.
 - **Libro II:** dar continuidad perceptible a la pareja antes de Santa Lucía. Su vida compartida avanza aunque quede fuera de escena. La muerte de Kenji en el atentado de Halbrook, ya fijada en [[00_Biblia/00_Trilogy_Structure]], alcanza así también a Marisol y amplía las consecuencias sobre el conjunto de personajes.

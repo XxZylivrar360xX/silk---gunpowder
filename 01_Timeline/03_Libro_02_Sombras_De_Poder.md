@@ -1,10 +1,10 @@
 # Libro II — Sombras de Poder
 
-> **CANON DEL AUTOR (2026-09-22).** Libro nuevo, insertado entre *Seda y Pólvora* (Libro I) y
+> **CANON DEL AUTOR (2026-09-22).** Libro nuevo, insertado entre *Máscaras de Cristal* (Libro I) y
 > *Voto de Ceniza* (ahora Libro III). Absorbe el material que hasta el 2026-09-21 vivía como
 > Partes IV-VI internas del Libro I (`Nieve y Ceniza`, `Exilio`, `Torna a Casa`) y que ahora
 > son sus propias Partes I-III. **Supersede** en este punto la reconciliación del 2026-09-20/21
-> que las mantenía dentro de *Seda y Pólvora* — ver la sección de supersesiones en
+> que las mantenía dentro de *Máscaras de Cristal* — ver la sección de supersesiones en
 > [[00_Biblia/00_Trilogy_Structure]]. El contenido de diseño no cambia: sólo cambia el libro al
 > que pertenece y su numeración interna de Partes (IV→I, V→II, VI→III).
 >
@@ -12,7 +12,7 @@
 >
 > **Estado:** sin prosa. El Libro I termina en el Cap. 44 ("Ciao, bella"); este libro abre en
 > el Cap. 45 (reconciliación, todavía sin redactar — plan capítulo por capítulo en
-> [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]], que cubre el
+> [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]], que cubre el
 > tramo 39-45 aunque el 45 en adelante pertenezca ya a este libro).
 >
 > **Regla de lectura:** mismas categorías que [[06_Relationships/Hitos]] — **CANON**, **DISEÑO**,
@@ -24,7 +24,7 @@
 ## Lectura macro
 
 > **Ascenso criminal, consolidación de poder y prueba de la unión entre Kal y Chiara.**
-> *Seda y Pólvora* narró cómo se encuentran, se eligen y descubren que funcionan juntos.
+> *Máscaras de Cristal* narró cómo se encuentran, se eligen y descubren que funcionan juntos.
 > *Sombras de Poder* narra qué ocurre cuando esa fórmula empieza a funcionar demasiado bien y
 > convierte a Kal en un actor real del poder criminal de San Aurelio. La trama criminal tiene
 > aquí mayor centralidad que en el Libro I.
@@ -102,7 +102,7 @@ por protección; este libro prueba esa dinámica a escala mucho mayor.
 > que sabe es esto: se fueron las luces, una bolsa de tela en la cabeza, y de repente estaba en
 > el loft. Nada más; no nombra a Halbrook porque no puede probarlo ni le conviene, y Chiara no
 > obtiene explicación completa. Ver "Halbrook — la liberación" en
-> [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
+> [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
 
 **Reconciliación completa** de F1 + Palermo + los tres días + el arresto: hablan de todo. Es
 la reconciliación más cargada de la pareja hasta aquí. Chiara admite que mintió para

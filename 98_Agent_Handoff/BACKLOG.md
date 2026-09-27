@@ -4,7 +4,7 @@ Actualizado: 2026-09-21. Lectura por tema, no de arranque. Extraído de pendient
 
 ## Continuidad y arquitectura
 
-> **PENDIENTE:** reconciliación integral de los Book Maps y Hitos con [[00_Biblia/00_Trilogy_Structure]], [[01_Timeline/02_Libro_01_Seda_y_Polvora]] y el plan de cierre de III. Usar los Book Maps para detalle; no volver a expandir fases/beats históricos. Revisar carpetas vestigiales sin borrarlas por iniciativa.
+> **PENDIENTE:** reconciliación integral de los Book Maps y Hitos con [[00_Biblia/00_Trilogy_Structure]], [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]] y el plan de cierre de III. Usar los Book Maps para detalle; no volver a expandir fases/beats históricos. Revisar carpetas vestigiales sin borrarlas por iniciativa.
 
 - F4/Anya resuelto (2026-09-26, separados, antes del incendio). Pendiente: viejo disparador de caída de Silas → Stavanger; alias italiano Riley Ardizzone/Colombo.
 - Precisar distancia F4/F3/F2 y consolidación de Villa al cerrar V; logística de Villa y ejecución de Stavanger. Mantener el orden macro aprobado.
@@ -25,7 +25,7 @@ Actualizado: 2026-09-21. Lectura por tema, no de arranque. Extraído de pendient
 - El Faro: equipo mínimo. Fabrizio/Tommaso: verificar confirmación de nombres/peso frente a fichas y plan recientes.
 - La Casa: por qué los Mercer dejaron de poseerla; si Chiara sabe su origen mientras la diseña. No bloquea el capítulo aprobado del loft.
 - Libro I, Parte II: nombre/ubicación de cascadas y río norte, formación rocosa y ganador de pesca; beneficio de Halbrook y relación directa con Varek; tercera línea que Chiara oculta. Los papeles de Nadir quedan pendiendo deliberadamente.
-- Nadir y la moto (DISEÑO 2026-09-26, [[13_Auditorias/Book_01_Seda_y_Polvora/Evaluacion_Arco_Libro_I#5-sexies. Nadir y la moto (DISEÑO aprobado en concepto por el autor, 2026-09-26; sin prosa)|5-sexies]]): capítulo de la Parte I antes del 25 y si el pago en el 42 lleva línea o sólo conducta.
+- Nadir y la moto (DISEÑO 2026-09-26, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Evaluacion_Arco_Libro_I#5-sexies. Nadir y la moto (DISEÑO aprobado en concepto por el autor, 2026-09-26; sin prosa)|5-sexies]]): capítulo de la Parte I antes del 25 y si el pago en el 42 lleva línea o sólo conducta.
 - Origen del talento de Kal al piano; no inventarlo desde su aparición en el 38.
 - Yegua: procedencia exacta abierta. Nombre **Stella: CANON DEL AUTOR (2026-09-27)**. Regalo de cámara de Héctor a Chiara: momento, mecanismo y prosa.
 - Villani Motors: verificar ejecución de compra/venta del auto y siembra de adquisición del local antes de dar por vigente el antiguo encargo de redactarlas.

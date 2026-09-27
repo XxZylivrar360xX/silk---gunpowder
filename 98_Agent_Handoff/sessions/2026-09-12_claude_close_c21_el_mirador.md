@@ -1,6 +1,6 @@
 # CLOSE C21 — El mirador
 
-**Fecha:** 2026-09-12. **Agente:** Claude Code. **Encargo:** ejecutar exclusivamente el lifecycle CLOSE de [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/21_El_Mirador]] después de VERIFY satisfactorio. Sin AUDIT, sin SURGERY, sin nuevo VERIFY, sin microedición, sin reabrir decisiones autorales.
+**Fecha:** 2026-09-12. **Agente:** Claude Code. **Encargo:** ejecutar exclusivamente el lifecycle CLOSE de [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21_El_Mirador]] después de VERIFY satisfactorio. Sin AUDIT, sin SURGERY, sin nuevo VERIFY, sin microedición, sin reabrir decisiones autorales.
 
 ## Antecedentes tomados como dados
 

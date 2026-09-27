@@ -4,7 +4,7 @@
 
 > **DERIVADO DE [[00_Biblia/00_Trilogy_Structure]] (2026-09-09, Claude Code).** Este mapa reconstruye el volumen a partir de la arquitectura de la saga fijada por el autor. Todo lo no citado explícitamente como CANON allí es DISEÑO discutible. **Estado: esqueleto — pendiente de validación del autor y de que la Guerra de los Tres se desglose con la matriz de [[04_Concepts/La_Guerra_de_los_Tres]].**
 >
-> **RENUMERADO (2026-09-22):** era Libro II; ahora es Libro III por la inserción de *Sombras de Poder* — ver [[00_Biblia/00_Trilogy_Structure]]. Su contenido no cambia; hereda su estado de entrada de *Sombras de Poder*, no directamente de *Seda y Pólvora*.
+> **RENUMERADO (2026-09-22):** era Libro II; ahora es Libro III por la inserción de *Sombras de Poder* — ver [[00_Biblia/00_Trilogy_Structure]]. Su contenido no cambia; hereda su estado de entrada de *Sombras de Poder*, no directamente de *Máscaras de Cristal*.
 >
 > **BLOQUEO DE PROSA:** no se redacta prosa de este libro hasta cerrar los Libros I y II. [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] sigue expresamente bloqueado.
 >
@@ -213,4 +213,4 @@ Sin definir. Se crean cuando el autor apruebe el desglose y se cierren los Libro
 
 ---
 
-Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[04_Concepts/La_Guerra_de_los_Tres]] · [[06_Relationships/Hitos]] · [[02_Characters/Elenna_Mercer]] · [[02_Characters/Riley_Bennett]] · [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] · [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]]
+Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[04_Concepts/La_Guerra_de_los_Tres]] · [[06_Relationships/Hitos]] · [[02_Characters/Elenna_Mercer]] · [[02_Characters/Riley_Bennett]] · [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]] · [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] · [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] · [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]]

@@ -11,7 +11,7 @@
 >
 > | Etapa | Caps. | Estado | Mapa |
 > |---|---|---|---|
-> | E1–E4 | 26–34 | AUDIT hecho y decisiones del autor registradas (Q1 V2, Q2 Beretta en el 31, Q3 Irene paquete completo, Q4 veto libre) (2026-09-27) | [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II]] |
+> | E1–E4 | 26–34 | AUDIT hecho y decisiones del autor registradas (Q1 V2, Q2 Beretta en el 31, Q3 Irene paquete completo, Q4 veto libre) (2026-09-27) | [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] |
 > | E5 | 26–28 | SURGERY hecha, −378; siguen BORRADOR | § 9 parte 1 |
 > | E6 | 29–30 | SURGERY hecha, −840 (30: −621, pacto sin plan de caída); siguen BORRADOR | § 9 parte 2 |
 > | E7 | 31–32 | SURGERY hecha, −348; Beretta .25 en 31; gesto en la roca; siguen BORRADOR | § 9 parte 3 |

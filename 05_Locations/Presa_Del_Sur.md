@@ -2,7 +2,7 @@
 
 *Ficha de Lugar*
 
-> **INCUBADORA — saga post-trilogía (Libro 4/5, 2026-09-16).** No es canon de *Seda y Pólvora*, *Voto de Ceniza* ni *Cuentas de Sangre*. Pertenece a *Juramento de Hierro* / *Camino a Casa* — ver [[07_Ideas/Libro_04_Incubadora/README]].
+> **INCUBADORA — saga post-trilogía (Libro 4/5, 2026-09-16).** No es canon de *Máscaras de Cristal*, *Voto de Ceniza* ni *Cuentas de Sangre*. Pertenece a *Juramento de Hierro* / *Camino a Casa* — ver [[07_Ideas/Libro_04_Incubadora/README]].
 
 **Qué es:** represa masiva al sur de [[05_Locations/San_Aurelio]] que contiene el lago y regula el flujo hacia los canales que desembocan en la costa.
 **Dónde:** sur de San Aurelio, sin ficha de barrio fina todavía.

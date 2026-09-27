@@ -1,8 +1,8 @@
 # AUDIT — Cap. 25 — `Libros abiertos`
 
 **Modo:** AUDIT (skill `editorial-surgery`). **No se tocó prosa.**
-**Fecha:** 2026-09-26. **Encargo:** Prioridad A del [[13_Auditorias/Book_01_Seda_y_Polvora/Auditoria_Editorial_Part_01|dictamen de Parte I]] + adenda C (sin siembras nuevas; decidir la línea de Dario).
-**Archivo:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/25_Libros_Abiertos]] (~3,000 palabras de prosa). Líneas citadas según el archivo al 2026-09-26.
+**Fecha:** 2026-09-26. **Encargo:** Prioridad A del [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_01|dictamen de Parte I]] + adenda C (sin siembras nuevas; decidir la línea de Dario).
+**Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos]] (~3,000 palabras de prosa). Líneas citadas según el archivo al 2026-09-26.
 
 ---
 
@@ -70,7 +70,7 @@ Hay además **dos asuntos que no son de microedición** (sección 3) y una decis
 
 ## 3. Fuera de microedición (se reporta, no se opera)
 
-**3.1 Alessio en el jacuzzi — contradicción documental.** La metadata del capítulo (l. 6) y H15 dicen "Chiara cuenta de su familia y de Il Consorzio (**nunca de Alessio**)" y "los dos entregan el sistema y se guardan el hecho concreto". Tu reescritura manual (125–133) sí nombra a Alessio y cierra con: *"Sabía que ese precio lo iba a pagar alguien con sangre. Y no iba a ser yo, Kal. No iba a ser yo."* Esa línea roza lo que Chiara hizo, que el ledger reserva ([[12_Craft_Policies/revelations/Book_01_Seda_y_Polvora]]: ni Tommaso lo confirma). La prosa es tuya y manda; hay que decidir cuál de estas dos es la verdad:
+**3.1 Alessio en el jacuzzi — contradicción documental.** La metadata del capítulo (l. 6) y H15 dicen "Chiara cuenta de su familia y de Il Consorzio (**nunca de Alessio**)" y "los dos entregan el sistema y se guardan el hecho concreto". Tu reescritura manual (125–133) sí nombra a Alessio y cierra con: *"Sabía que ese precio lo iba a pagar alguien con sangre. Y no iba a ser yo, Kal. No iba a ser yo."* Esa línea roza lo que Chiara hizo, que el ledger reserva ([[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]]: ni Tommaso lo confirma). La prosa es tuya y manda; hay que decidir cuál de estas dos es la verdad:
   - (a) La línea es deliberada: Chiara deja ver *que hubo un precio*, no qué hizo. Entonces se actualiza la metadata del 25 y H15 ("habla de Alessio como herida, no del hecho").
   - (b) Se pasa de la raya: se suaviza la línea para que la simetría de H15 siga exacta.
 

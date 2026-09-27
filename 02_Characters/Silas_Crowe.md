@@ -103,7 +103,7 @@ Silas llegó y empezó a convertirlo todo en tarifa. Y Walt entendió al instant
 
 Silas necesitaba quitarse de encima a **uno de los pocos hombres lo bastante antiguos y respetados como para decirle que no.** Así que **consiguió que lo condenaran. Diez años** — una década entera para construir su reino sin él.
 
-> **RESUELTO (2026-09-03):** el mecanismo — Crowe intentó reclutar a Jim, el hijo de Walt, a espaldas de éste. Walt le partió el escritorio con una barreta al enterarse. Días después, esa misma barreta (con sus huellas reales, no fabricadas) apareció como arma en un asalto violento a una casa de empeños de Crowe. Crowe se aseguró además de que ningún abogado sostuviera el caso. Ver [[02_Characters/Walter_Keegan]] y [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/17_Cuentas_Claras|Capítulo 17]].
+> **RESUELTO (2026-09-03):** el mecanismo — Crowe intentó reclutar a Jim, el hijo de Walt, a espaldas de éste. Walt le partió el escritorio con una barreta al enterarse. Días después, esa misma barreta (con sus huellas reales, no fabricadas) apareció como arma en un asalto violento a una casa de empeños de Crowe. Crowe se aseguró además de que ningún abogado sostuviera el caso. Ver [[02_Characters/Walter_Keegan]] y [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/17_Cuentas_Claras|Capítulo 17]].
 
 **Y Walt sale justo cuando empieza la novela.** Ver su ficha.
 
@@ -133,7 +133,7 @@ El motivo declarado: **un cargamento que Kal no entregó a tiempo**, cuando toda
 
 > **PENDIENTE:** ¿cuál era la amenaza que venía después del incendio, la que Kal le ocultó a Chiara?
 
-### Siembras en el Libro I (*Seda y Pólvora*)
+### Siembras en el Libro I (*Máscaras de Cristal*)
 
 Crowe aparece en los Caps. 1, 3, 11 y 17. Entre el 18 y el 44 sólo se le ve **tasando el crecimiento de Kal**, sin acción (BORRADOR 2026-09-26, decisión del autor):
 
@@ -162,7 +162,7 @@ Las dos preparan el incendio como cuota escalada y la caída como consecuencia d
 
 ## Pendientes
 
-> **RESUELTO EN PARTE (2026-09-03): apariencia.** Obeso — Walt se refiere a él como "el gordo hijo de puta" ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/17_Cuentas_Claras|Cap. 18]]). Edad y el resto del comportamiento siguen PENDIENTES.
+> **RESUELTO EN PARTE (2026-09-03): apariencia.** Obeso — Walt se refiere a él como "el gordo hijo de puta" ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/17_Cuentas_Claras|Cap. 18]]). Edad y el resto del comportamiento siguen PENDIENTES.
 
 > **PENDIENTE:** su lógica decente ([[00_Biblia/Principios_Narrativos]], principio 3). Propuesta a validar: cree sinceramente que **él es lo único que mantiene la Almendra funcionando** — que sin alguien que ponga precios, el barrio se devora a sí mismo. Que se equivoque no significa que mienta.
 

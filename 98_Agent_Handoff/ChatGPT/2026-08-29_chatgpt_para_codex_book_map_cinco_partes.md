@@ -22,7 +22,7 @@ Trabaja exclusivamente sobre `develop`.
 
 Actualizar la macroestructura de:
 
-`11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`
+`11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map.md`
 
 El Book Map actual todavía organiza la novela en tres partes:
 
@@ -55,7 +55,7 @@ Antes de editar:
 1. `CLAUDE.md`
 2. `98_Agent_Handoff/START_HERE.md`
 3. `98_Agent_Handoff/CURRENT_BRIEF.md`
-4. `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`
+4. `11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map.md`
 5. `00_Biblia/Vision.md`
 6. `00_Biblia/Principios_Narrativos.md`
 7. `01_Timeline/00_Estructura_del_Ascenso.md`
@@ -792,7 +792,7 @@ Al terminar entregar:
 
 Idealmente:
 
-- `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`
+- `11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map.md`
 
 Si consideras indispensable modificar otro documento, **no lo hagas automáticamente**: indícalo como recomendación.
 
@@ -822,7 +822,7 @@ Especialmente:
 
 Mostrar:
 
-`git diff -- 11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`
+`git diff -- 11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map.md`
 
 y:
 

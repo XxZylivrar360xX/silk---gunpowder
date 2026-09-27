@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO. Cirugia editorial 2026-09-26 (Prioridad C, autorizada por el autor, sigue TERMINADO): corte de la apertura de Nadir y Danny y de "Dos dias antes" (5-ter; ademas corregia una cronologia rota: la escena caia en domingo con los dos ya retenidos), prolepsis de Lucia, recuento a Walt comprimido, sedan y reflexion del corazon compactados, "Contame" -> "Cuenteme". Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_15-17.md.
+Estado: TERMINADO. Cirugia editorial 2026-09-26 (Prioridad C, autorizada por el autor, sigue TERMINADO): corte de la apertura de Nadir y Danny y de "Dos dias antes" (5-ter; ademas corregia una cronologia rota: la escena caia en domingo con los dos ya retenidos), prolepsis de Lucia, recuento a Walt comprimido, sedan y reflexion del corazon compactados, "Contame" -> "Cuenteme". Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17.md.
 Protagonistas: Chiara Bellandi, con apariciones de Walter Keegan y Lucia Varek (Nadir Amrani y Daniel Hayes solo mencionados, inalcanzables). Hector Navarro presente pero inconsciente/fuera de escena tras el infarto.
 Ventana temporal: el viernes del Capitulo 14 (La regla del telefono), mientras Kal y Marisol estan de campamento. Bajo la reordenacion del 2026-08-29, H10 va ANTES de H4 y H11 -- en este punto Kal y Chiara TODAVIA NO se han besado.
 Lugares: Casa Comunitaria De La Almendra (sotano), casa de Hector, Hospital Santa Aurelia, The Monarch Casino & Hotel.
@@ -95,7 +95,7 @@ No lo consiguió esa noche, ni Chiara tampoco.
 
 ***
 
-En el Monarch, sentada a su propio escritorio, sacó su papel de siempre — el bueno, el que olía a canela y vainilla, el mismo en el que llevaba meses escribiendo todo lo que de verdad importaba — y escribió lo que tenía que escribir. Metió la hoja en uno de los sobres del hotel — grueso, rojo, con el sello dorado del casino en la solapa; no hacía falta esconder este mensaje de nadie, podía permitirse, por una vez, que se viera desde lejos —, lo cerró y trazó el nombre de Kal en tinta sobre la solapa. Llamó, por costumbre, a uno de los sussurros de guardia.
+En el Monarch, sentada a su propio escritorio, sacó su papel de siempre — el bueno, el que olía a canela y vainilla, el mismo en el que llevaba meses escribiendo todo lo que de verdad importaba — y escribió lo que tenía que escribir. Metió la hoja en uno de los sobres del hotel — grueso, rojo, con el sello dorado del casino en la solapa; no hacía falta esconder este mensaje de nadie, podía permitirse, por una vez, que se viera desde lejos—, lo cerró y trazó el nombre de Kal en tinta sobre la solapa. Llamó, por costumbre, a uno de los sussurros de guardia.
 
 No llegó a dárselo.
 

@@ -1,5 +1,5 @@
 <!--
-Estado: BORRADOR — tercer capítulo de la Parte II (*Con peores personas he tratado*). Pendiente de revisión del autor. Cirugía editorial E5 (2026-09-27, [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II]] §9): cronología fija de ~24 h, POV y glosas; sigue BORRADOR.
+Estado: BORRADOR — tercer capítulo de la Parte II (*Con peores personas he tratado*). Pendiente de revisión del autor. Cirugía editorial E5 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): cronología fija de ~24 h, POV y glosas; sigue BORRADOR.
 Protagonistas: Chiara Bellandi (POV único). Apariciones: Kal Mercer.
 Ventana temporal: la misma noche de la confrontación del taller del norte (Cap. 26) y el amanecer siguiente (unas 24 horas después de la salida de Kal). Abre con Chiara en el loft y Kal llegando al amanecer; cierra con Kal saliendo a ver a Varek y deja el enganche directo con el Cap. 29.
 Lugares: el loft (la casa recomprada de Dale y Ruth Mercer, diseñada por Chiara; H14). Mezzanine, escalera lateral, balcón conservado. Referencia externa: el bloque de los Bravos al sur (recon de Chiara, fuera de escena hasta el relato).

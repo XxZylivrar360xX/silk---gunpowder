@@ -1,9 +1,9 @@
 # AUDIT — Cap. 12 — `Roma Atrii`
 
 **Modo:** AUDIT (skill `editorial-surgery`). **No se tocó prosa.**
-**Fecha:** 2026-09-26. **Encargo:** Prioridad B del [[13_Auditorias/Book_01_Seda_y_Polvora/Auditoria_Editorial_Part_01|dictamen de Parte I]] (matriz: "Esencial, pero cronología interna compleja", MEDIA–ALTA; PROBLEMA MACRO 4) + adenda B y D (recuerdo de Palermo, hilo A). Se leyó el capítulo completo antes de marcar nada, además de los Caps. 11 y 13 completos, y los pasajes que cobran el cifrado en los Caps. 14, 37 y 38.
-**Archivo:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/12_Roma_Atrii]]. Las líneas corresponden al archivo al 2026-09-26. La prosa tiene ~3,760 palabras.
-**Cruces:** [[12_Craft_Policies/revelations/Book_01_Seda_y_Polvora]] ("El código Roma Atrii", "La escalera de presión de Tommaso", primera alarma del Peugeot), [[12_Craft_Policies/revelations/SAGA_LEVEL]] (origen de Kal), [[06_Relationships/Hitos]] (H10/H11, reubicación del pago del cifrado), [[04_Concepts/Fe_y_Velas]], [[12_Craft_Policies/voice/Tommaso_Lusardi]], [[13_Auditorias/Book_01_Seda_y_Polvora/Evaluacion_Arco_Libro_I]] (hilo A), microedición previa [[98_Agent_Handoff/sessions/2026-09-11_codex_microedicion_m4_intuicion_presagio_percepcion]] (C13 = este capítulo; se respetan sus protecciones).
+**Fecha:** 2026-09-26. **Encargo:** Prioridad B del [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_01|dictamen de Parte I]] (matriz: "Esencial, pero cronología interna compleja", MEDIA–ALTA; PROBLEMA MACRO 4) + adenda B y D (recuerdo de Palermo, hilo A). Se leyó el capítulo completo antes de marcar nada, además de los Caps. 11 y 13 completos, y los pasajes que cobran el cifrado en los Caps. 14, 37 y 38.
+**Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/12_Roma_Atrii]]. Las líneas corresponden al archivo al 2026-09-26. La prosa tiene ~3,760 palabras.
+**Cruces:** [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]] ("El código Roma Atrii", "La escalera de presión de Tommaso", primera alarma del Peugeot), [[12_Craft_Policies/revelations/SAGA_LEVEL]] (origen de Kal), [[06_Relationships/Hitos]] (H10/H11, reubicación del pago del cifrado), [[04_Concepts/Fe_y_Velas]], [[12_Craft_Policies/voice/Tommaso_Lusardi]], [[13_Auditorias/Book_01_Mascaras_De_Cristal/Evaluacion_Arco_Libro_I]] (hilo A), microedición previa [[98_Agent_Handoff/sessions/2026-09-11_codex_microedicion_m4_intuicion_presagio_percepcion]] (C13 = este capítulo; se respetan sus protecciones).
 **Estado de partida:** `Estado: TERMINADO`. Operarlo es reabrirlo.
 
 ---
@@ -278,7 +278,7 @@ Pregunta: *si saco este tramo, ¿otro ya hace su trabajo?*
 | A2 (D2) | "—Creo en Dios, en las velas que enciendo por ti, y en que una mentira…" | "—Creo en Dios, y en que una mentira…" | Canon (diálogo, con autorización) | La vela por Kal nace después de F4 ([[04_Concepts/Fe_y_Velas]]). La fe y el hilo A de la línea siguen intactos. |
 | D6 | "No volvió a preguntar qué significaba. No estaba seguro…" | "No estaba seguro…" | PROLEPSIS DE NARRADOR | El 37 introduce la promesa en retrospectiva ("Se lo había prometido a sí mismo no volver a preguntar"), sin que el 12 la confirme antes. |
 
-**Se tocó además:** cabecera del 12 (nota de cirugía), [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] (sinopsis del 12, "tercer papel" en la del 13) y el ledger, en "Primera alarma aislada".
+**Se tocó además:** cabecera del 12 (nota de cirugía), [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] (sinopsis del 12, "tercer papel" en la del 13) y el ledger, en "Primera alarma aislada".
 
 ### D7 — El anular del Cap. 11 (revisado, sin tocar el 11)
 

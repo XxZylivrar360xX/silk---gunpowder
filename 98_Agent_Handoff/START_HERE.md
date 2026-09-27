@@ -32,7 +32,7 @@ Trabajar en *Seda y Polvora* sin cargar todo el contexto historico. Leer lo mini
 | Tesis de la novela | `00_Biblia/Vision.md` |
 | Reglas de escritura | `00_Biblia/Principios_Narrativos.md` |
 | Línea temporal macro | `01_Timeline/00_README.md` y `01_Timeline/01_Indice_Cronologico.md` |
-| Acontecimientos por libro | `01_Timeline/02_Libro_01_Seda_y_Polvora.md` a `06_Libro_05_Camino_A_Casa.md` |
+| Acontecimientos por libro | `01_Timeline/02_Libro_01_Mascaras_De_Cristal.md` a `06_Libro_05_Camino_A_Casa.md` |
 | Kal/Chiara | `06_Relationships/Kal_y_Chiara.md` |
 | Hitos canon | `06_Relationships/Hitos.md` |
 | Fracturas | `06_Relationships/Momentos_de_Fractura.md` |

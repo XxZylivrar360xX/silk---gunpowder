@@ -46,7 +46,7 @@ Dentro del macroarco de *Cuentas de Sangre*, Matteo no vuelve sólo para entrega
 
 > **PENDIENTE:** destino final de Elio; texto exacto de esa nota privada; el miembro o voto de La Mesa que activa a Nereo; qué logra descubrir Matteo y en qué momento exacto vuelve en Libro III.
 
-> **Escrito en prosa (2026-09-20, Claude Code; actualizado el mismo día tras resolverse nombre/ciudad):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35 — Sin fecha de regreso]], BORRADOR, dramatiza su salida abrupta (referida, no en escena — Matteo no aparece): la nota funcional que deja (ya con el núcleo canon "Elio desapareció. Tengo que volver a Génova...") y el diálogo del despacho nombran a Elio y a Génova. Su oficio y qué descubrió siguen sin mencionarse en prosa — permanecen `[PENDIENTE]`.
+> **Escrito en prosa (2026-09-20, Claude Code; actualizado el mismo día tras resolverse nombre/ciudad):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35 — Sin fecha de regreso]], BORRADOR, dramatiza su salida abrupta (referida, no en escena — Matteo no aparece): la nota funcional que deja (ya con el núcleo canon "Elio desapareció. Tengo que volver a Génova...") y el diálogo del despacho nombran a Elio y a Génova. Su oficio y qué descubrió siguen sin mencionarse en prosa — permanecen `[PENDIENTE]`.
 
 ## Reglas de escritura
 
@@ -66,7 +66,7 @@ Dentro del macroarco de *Cuentas de Sangre*, Matteo no vuelve sólo para entrega
 
 ## Pendientes
 
-> **RESUELTO DE DISEÑO (2026-08-25):** Matteo es el administrador con mayor participacion entre los socios operativos del Monarch (Tommaso, Fabrizio) — distinto de Dario, que es dueño/socio mayoritario pero no administrador. Por eso la "sala privada" donde se reune con Kal es, en el papel, el despacho principal de Matteo. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/02_Demasiado_Listo]].
+> **RESUELTO DE DISEÑO (2026-08-25):** Matteo es el administrador con mayor participacion entre los socios operativos del Monarch (Tommaso, Fabrizio) — distinto de Dario, que es dueño/socio mayoritario pero no administrador. Por eso la "sala privada" donde se reune con Kal es, en el papel, el despacho principal de Matteo. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo]].
 
 > **PENDIENTE:** precisar su posición frente a Dario antes de salir y la forma de su alianza incómoda con Kal y Chiara al volver. Su función ya no es la de pieza desechada: la salida viene de una contingencia de La Mesa.
 

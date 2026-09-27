@@ -1,5 +1,5 @@
 <!--
-Estado: BORRADOR — sexto capítulo de la Parte II; cierra el arco H5–H7 (no la Parte II: siguen 32–34). Pendiente de revisión del autor. Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II]] § 9 parte 3): POV de Chiara saneado, resumen del coche comprimido, glosas cortadas, Beretta .25 (primera aparición, vestidor) y gesto de la roca (P3). Sigue BORRADOR.
+Estado: BORRADOR — sexto capítulo de la Parte II; cierra el arco H5–H7 (no la Parte II: siguen 32–34). Pendiente de revisión del autor. Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] § 9 parte 3): POV de Chiara saneado, resumen del coche comprimido, glosas cortadas, Beretta .25 (primera aparición, vestidor) y gesto de la roca (P3). Sigue BORRADOR.
 Protagonistas: Chiara Bellandi (POV único). Grupo: Kal Mercer, Nadir Amrani, Daniel "Danny" Hayes, Héctor Navarro, Walter "Walt" Keegan, Harper Walker.
 Ventana temporal: MISMO DÍA que los Caps. 28–30 (CANON DEL AUTOR — "hay que sanear, mi decisión es que sea el mismo día"). Ocurre la tarde-anochecer del día del regreso de Kal (Halbrook se lo llevó de la ciudad la madrugada anterior; Kal manejó de vuelta toda la noche): el día que Kal volvió golpeado al loft al amanecer, que fue a la mansión de Varek, que Kal y Chiara pactaron en Las Cascadas y que Kal reunió a su gente en El Patio. La pesca ya estaba acordada entre Nadir/Danny/Héctor/Walt/Kal al cierre de la coda del Cap. 30; la llamada de Kal a Chiara que abre este capítulo es la invitación personal a algo que el grupo ya decidió, no una convocatoria nueva. Kal sigue "recién molido": costillas y ceja de la paliza de Halbrook siguen activas.
 Lugares: AMPLIACIÓN (2026-09-16, encargo del autor): la geografía pasa de "río norte" a **el lago** — agua quieta, orilla de arena y piedra, apta para pesca y baño. Puede conservarse un recodo/entrada de agua más tranquila como detalle secundario, pero el cuerpo principal recreativo es el lago, no un río ni una desembocadura. Formación de roca cerca de la orilla para el atardecer, sin nombre fijado (PENDIENTE geográfico deliberado). **PENDIENTE DE RECONCILIAR (no resuelto en este encargo, sólo este capítulo):** otros documentos del vault (Book Map, Cadena de Eventos) todavía describen H7 como "el río norte"; revisar en sesión futura si corresponde actualizarlos o si el lago es un cuerpo de agua distinto dentro de la misma zona rural del norte.
@@ -25,7 +25,7 @@ Función: CANON DEL AUTOR. Ejecuta H7 — El lago, cierre del arco H5–H7.
 Continuidad:
 - Registro privado todavía en semilla (pre-H16): calidez de conducta, italiano suelto de ella, sin apodos plenos, sin ritual del Ciao.
 - VEHÍCULOS: Kal conduce el Audi todo el capítulo (ida y vuelta). Chiara llega y se va con él — su Lancia se queda en el Monarch, nunca llega al lago. Sin Peugeot: el Peugeot se queda en el taller (Cap. 30).
-- INSERCIÓN BORRADOR (2026-09-26, Claude Code, decisión del autor sobre la quinta tanda de [[13_Auditorias/Book_01_Seda_y_Polvora/Evaluacion_Arco_Libro_I]]): beat de fe en la parrilla de Héctor, entre la pesca y "Kal la sacó del grupo". Chiara se persigna; Nadir dice *bismillah*; Kal bromea ("Pídele que te cuente bien los peces") y ella contesta "A Dios no se le piden esas cosas"; Kal deja el tenedor quieto hasta que ella termina. Contrapunto de Alessio: Kal puede bromear con su fe, nunca la usa ni la desprecia ([[04_Concepts/Fe_y_Velas]]). Sin glosa: no se menciona que esa mañana (Cap. 28) ella rezó por él. Pendiente de revisión del autor.
+- INSERCIÓN BORRADOR (2026-09-26, Claude Code, decisión del autor sobre la quinta tanda de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Evaluacion_Arco_Libro_I]]): beat de fe en la parrilla de Héctor, entre la pesca y "Kal la sacó del grupo". Chiara se persigna; Nadir dice *bismillah*; Kal bromea ("Pídele que te cuente bien los peces") y ella contesta "A Dios no se le piden esas cosas"; Kal deja el tenedor quieto hasta que ella termina. Contrapunto de Alessio: Kal puede bromear con su fe, nunca la usa ni la desprecia ([[04_Concepts/Fe_y_Velas]]). Sin glosa: no se menciona que esa mañana (Cap. 28) ella rezó por él. Pendiente de revisión del autor.
 -->
 
 # Capítulo 31 — Vamos a casa
@@ -202,7 +202,7 @@ Héctor estaba sentado en una silla plegable con una gorra vieja calada hasta la
 
 —Entonces ya le caigo mejor que hace un minuto.
 
-Walt estaba un poco apartado, cerca de una hielera propia con etiquetas escritas a mano, y cuando la vio llegar la miró un momento más largo de lo que hacía falta para un saludo, con esa atención suya de quien está haciendo una cuenta. Después asintió, una sola vez, y volvió a lo que estaba haciendo — acomodar botellas, comprobar que el hielo aguantara el día —, sin decir nada más.
+Walt estaba un poco apartado, cerca de una hielera propia con etiquetas escritas a mano, y cuando la vio llegar la miró un momento más largo de lo que hacía falta para un saludo, con esa atención suya de quien está haciendo una cuenta. Después asintió, una sola vez, y volvió a lo que estaba haciendo — acomodar botellas, comprobar que el hielo aguantara el día—, sin decir nada más.
 
 Chiara siguió caminando hacia la orilla.
 
@@ -254,7 +254,7 @@ Del otro lado de la parrilla, Danny ya iba por el segundo pescado.
 
 ***
 
-Kal la sacó del grupo casi sin que ella lo notara, con la excusa de mostrarle un recodo del lago donde el agua estaba más tranquila, y cuando ya estaban lo bastante lejos como para que las voces de los demás llegaran sueltas y sin palabras, la levantó del agua sin avisar, un brazo bajo las rodillas y otro en la espalda, con el agua chorreándole de la ropa. Algo le tiró del costado al hacerlo — las costillas todavía le cobraban esa clase de cosas —. Chiara lo sintió en el brazo que la sostenía, y en la cara de él no se vio nada.
+Kal la sacó del grupo casi sin que ella lo notara, con la excusa de mostrarle un recodo del lago donde el agua estaba más tranquila, y cuando ya estaban lo bastante lejos como para que las voces de los demás llegaran sueltas y sin palabras, la levantó del agua sin avisar, un brazo bajo las rodillas y otro en la espalda, con el agua chorreándole de la ropa. Algo le tiró del costado al hacerlo — las costillas todavía le cobraban esa clase de cosas—. Chiara lo sintió en el brazo que la sostenía, y en la cara de él no se vio nada.
 
 Chiara se aferró a su cuello con las dos manos.
 
@@ -316,7 +316,7 @@ Chiara tomó aire para decir algo y lo soltó.
 
 —Gracias por venir.
 
-Ella levantó la cabeza de su hombro lo justo para mirarlo, y Kal ya la estaba mirando a ella. Esta vez no hubo torpeza ninguna — no como la primera, en el mirador, cuando ninguno de los dos sabía todavía qué estaba permitido —; fue corto, tranquilo, sin nada que demostrar ni que apurar, y a Chiara le supo, sin poder explicarse por qué, a algo parecido a estar en casa.
+Ella levantó la cabeza de su hombro lo justo para mirarlo, y Kal ya la estaba mirando a ella. Esta vez no hubo torpeza ninguna — no como la primera, en el mirador, cuando ninguno de los dos sabía todavía qué estaba permitido—; fue corto, tranquilo, sin nada que demostrar ni que apurar, y a Chiara le supo, sin poder explicarse por qué, a algo parecido a estar en casa.
 
 ***
 

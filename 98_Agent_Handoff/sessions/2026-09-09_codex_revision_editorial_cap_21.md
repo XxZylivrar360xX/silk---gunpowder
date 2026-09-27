@@ -2,7 +2,7 @@
 
 **Fecha:** 2026-09-09. **Alcance:** diagnóstico solicitado por el autor; manuscrito sin modificar. Lectura cercana, no auditoría automática ni comparación estadística del corpus. Referencias de línea corresponden a la versión revisada.
 
-Capítulo: [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/21_El_Mirador]]. Cotejo: H11, pasajes de H4/Cap. 19, ficha del mirador, voces, política editorial, registro privado y ledger del Libro I.
+Capítulo: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/21_El_Mirador]]. Cotejo: H11, pasajes de H4/Cap. 19, ficha del mirador, voces, política editorial, registro privado y ledger del Libro I.
 
 ## Dictamen — DISEÑO editorial
 

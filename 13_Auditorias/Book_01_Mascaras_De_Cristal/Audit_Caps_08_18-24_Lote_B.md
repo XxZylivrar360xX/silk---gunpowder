@@ -2,7 +2,7 @@
 
 **Encargo:** [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_I_Lote_B]] (terminal B, por etapas). **Modo:** AUDIT en E1–E2 (no toca prosa); SURGERY en E3–E4; redacción de la escena de la moto (S1) en E5.
 **Política:** [[12_Craft_Policies/editorial/EDITORIAL_POLICY]] (§L prolepsis, §J sin cuotas), [[12_Craft_Policies/editorial/DO_NOT_TOUCH]], [[12_Craft_Policies/editorial/MICROEDICION]]. Prioridad C: protección y microedición.
-**Dictamen de origen:** [[13_Auditorias/Book_01_Seda_y_Polvora/Auditoria_Editorial_Part_01]] (matriz y adenda B, resumidas en el encargo).
+**Dictamen de origen:** [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_01]] (matriz y adenda B, resumidas en el encargo).
 **No se tocan aquí:** los Caps. 4, 6, 7, 11 y 13 (terminal A), el EPUB, Natalie Keegan en el 3, el recuerdo de Palermo del 12 ni las flores de la carta del 16.
 
 ## Estado de etapas

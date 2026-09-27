@@ -1,8 +1,8 @@
 # Evaluación de arco — *Seda y Pólvora* como novela autosuficiente
 
-> **Estado:** DISEÑO del agente (Claude Code, Opus 5.5, 2026-09-26), a petición del autor. Nada de esto es canon ni está aplicado a la prosa. Complementa los dictámenes de [[13_Auditorias/Book_01_Seda_y_Polvora/Auditoria_Editorial_Part_01|Parte I]], [[13_Auditorias/Book_01_Seda_y_Polvora/Auditoria_Editorial_Part_02|Parte II]] y [[13_Auditorias/Book_01_Seda_y_Polvora/Auditoria_Editorial_Part_03|Parte III]]: aquellos evalúan cada parte por dentro; éste evalúa **si las Partes I y II construyen el final que hoy tiene el libro (Cap. 44)**.
+> **Estado:** DISEÑO del agente (Claude Code, Opus 5.5, 2026-09-26), a petición del autor. Nada de esto es canon ni está aplicado a la prosa. Complementa los dictámenes de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_01|Parte I]], [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_02|Parte II]] y [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_03|Parte III]]: aquellos evalúan cada parte por dentro; éste evalúa **si las Partes I y II construyen el final que hoy tiene el libro (Cap. 44)**.
 >
-> Fuentes: [[00_Biblia/00_Trilogy_Structure]] (Libro I), [[01_Timeline/02_Libro_01_Seda_y_Polvora]], [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/44_A_Oscuras]], búsqueda de motivos en la prosa de los 44 capítulos.
+> Fuentes: [[00_Biblia/00_Trilogy_Structure]] (Libro I), [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]], [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/44_A_Oscuras]], búsqueda de motivos en la prosa de los 44 capítulos.
 
 ---
 
@@ -176,7 +176,7 @@ El robo se queda porque sostiene cuatro cosas: el silencio de Nadir y Danny en l
 - **Hilo A:** Nadir no sabe por qué lo sacaron. Si Chiara se entera por los *sussurri*, nota que Kal está administrando información.
 - **Límites:** Irene no amenaza a Nadir ni abre un frente que el Libro I tenga que resolver. Es una escena de 800 a 1,000 palabras, pagada con los recortes del 17.
 - **Encaje con el 32:** Kal queda apretado por los dos lados, la policía (Lucía) y la calle (Irene), dentro de las dos semanas que ya abarca el capítulo.
-- **APLICADO 2026-09-27** (E9 del encargo de la Parte II, [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II]]): escena escrita en el 32, tras la llamada al Departamento. Cita por Walt; Kal va solo al Canal Seco; Tomás lo cachea y cuenta "un carro oscuro" (primera línea de Tomás); Irene no sabe ni quiere saber de quién es; Kal dice "Yo no lo he visto."; Nadir sale de la mercancía y lo que faltaba se vuelve un favor abierto que Kal acepta sin regatear; cierre "Ahora sí me debe, señor Mercer." con la libreta. Cola de Nadir ("Porque ya alcanzó." / "Qué barato me salió") e hilo A en la coda ("¿Y el Canal Seco?"). **≈ 630 palabras**, por debajo del rango de 800–1,000: se escribió a la medida de las funciones, sin relleno (§J). **BORRADOR/DISEÑO hasta lectura del autor.** Cuenta como siembra de costo en la Parte II.
+- **APLICADO 2026-09-27** (E9 del encargo de la Parte II, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]]): escena escrita en el 32, tras la llamada al Departamento. Cita por Walt; Kal va solo al Canal Seco; Tomás lo cachea y cuenta "un carro oscuro" (primera línea de Tomás); Irene no sabe ni quiere saber de quién es; Kal dice "Yo no lo he visto."; Nadir sale de la mercancía y lo que faltaba se vuelve un favor abierto que Kal acepta sin regatear; cierre "Ahora sí me debe, señor Mercer." con la libreta. Cola de Nadir ("Porque ya alcanzó." / "Qué barato me salió") e hilo A en la coda ("¿Y el Canal Seco?"). **≈ 630 palabras**, por debajo del rango de 800–1,000: se escribió a la medida de las funciones, sin relleno (§J). **BORRADOR/DISEÑO hasta lectura del autor.** Cuenta como siembra de costo en la Parte II.
 
 ## 5-quater. Lagunas restantes (DISEÑO, 2026-09-26)
 
@@ -285,7 +285,7 @@ También se actualizaron [[02_Characters/Marta_Bellandi]] (misa) y [[06_Relation
 
 ## 5-septies. Ejecución en la Parte III (auditoría 35–44, 2026-09-27)
 
-Mapa: [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_35-44_Parte_III]]. Los diez capítulos siguen en **BORRADOR**.
+Mapa: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]]. Los diez capítulos siguen en **BORRADOR**.
 
 | # | Laguna | Estado |
 |---|---|---|

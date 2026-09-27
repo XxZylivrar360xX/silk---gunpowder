@@ -26,7 +26,7 @@ No hay que reescribir la arquitectura.
 
 Localizar en `develop`:
 
-`11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/15_El_Porton.md`
+`11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/15_El_Porton.md`
 
 Leerlo completo antes de editar.
 
@@ -180,7 +180,7 @@ Revisar documentos vivos que todavía digan `18 capítulos escritos`.
 
 Se detectó al menos ese desfase en:
 
-- `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`
+- `11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map.md`
 
 `CURRENT_BRIEF.md` ya registra 19 en el estado conocido; verificar antes de tocar.
 

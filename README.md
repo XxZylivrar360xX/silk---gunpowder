@@ -1,6 +1,6 @@
 # Seda y Pólvora
 
-*Seda y Pólvora* (*Silk & Gunpowder*) es una novela original de crimen y romance, organizada como un vault de Obsidian.
+*Seda y Pólvora* (*Silk & Gunpowder*) es una saga original de crimen y romance, organizada como un vault de Obsidian. Su Libro I es *Máscaras de Cristal*.
 
 La historia sigue a Kal Mercer y Chiara Bellandi desde el momento en que llegan a San Aurelio sin poder real hasta convertirse en la pareja que decide qué le pasa a la ciudad.
 

@@ -1,12 +1,12 @@
 # C10 — CLOSE (2026-09-11, Claude Code) — primera prueba del lifecycle
 
-Encargo: ejecutar el workflow CLOSE de [[12_Craft_Policies/CHAPTER_LIFECYCLE]] sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Corral]], como primera prueba del sistema. Sin AUDIT, sin SURGERY, sin mejoras opcionales, sin tocar prosa.
+Encargo: ejecutar el workflow CLOSE de [[12_Craft_Policies/CHAPTER_LIFECYCLE]] sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/10_El_Corral]], como primera prueba del sistema. Sin AUDIT, sin SURGERY, sin mejoras opcionales, sin tocar prosa.
 
 ## Gates
 
 | Gate | Resultado | Razón mínima |
 |---|---|---|
-| A — Estructura | GREEN | Función identificable (H12, ejecuta beats 1-8 de H5 fusionados); posición confirmada en [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]]; sin cirugía estructural abierta conocida (M1/M1.5/M2 cerrados); dentro del perímetro de Libro I según [[00_Biblia/00_Trilogy_Structure]] (no menciona Riley/Halbrook/embarazo). |
+| A — Estructura | GREEN | Función identificable (H12, ejecuta beats 1-8 de H5 fusionados); posición confirmada en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]; sin cirugía estructural abierta conocida (M1/M1.5/M2 cerrados); dentro del perímetro de Libro I según [[00_Biblia/00_Trilogy_Structure]] (no menciona Riley/Halbrook/embarazo). |
 | B — Continuidad | GREEN | Cotejado línea por línea contra [[06_Relationships/Hitos]] H12: ataque, llamada, bolso/reloj, Beatrice Varek, craniotomía/tres días, tregua con Dario, coartada con las dos grietas, vigilancia, sedán gris, túnel/bahía de carga, parador, restricción de no nombrar al atacante ni a Il Consorzio — todo coincide. Referencia a Corrado (línea 20) coincide palabra por palabra con la versión pública fijada en [[12_Craft_Policies/revelations/SAGA_LEVEL]] ("nunca se devolvió un cuerpo", "paga esa cuenta sola"). Encontrada nota obsoleta en `Hitos.md` (ver candidatos). |
 | C — Voz y focalización | GREEN | POV dual (Chiara → Cole) es función deliberada del capítulo (fusiona H12 + apertura de H5), no defecto. El propio reporte de M2 verificó explícitamente que Cole conserva interioridad además de competencia observable y que Chiara conserva agencia perceptiva pese a estar herida. |
 | D — Editorial | GREEN | M1, M1.5 y M2 (2026-09-11) ya aplicados y cerrados; el reporte de M2 concluye "no se detectó ninguna zona adicional con el mismo criterio". Único hallazgo pendiente es el HIGH del pilot editorial V1.1 (ver candidatos), no tratado por no bloquear. |
@@ -31,7 +31,7 @@ El header usaba `Estado: borrador provisional.` (convención heredada, previa al
 
 ## Archivos modificados
 
-- `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Corral.md` — sólo la línea `Estado:` (→ `LISTO PARA AUTOR`). Sin cambios de prosa.
+- `11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/10_El_Corral.md` — sólo la línea `Estado:` (→ `LISTO PARA AUTOR`). Sin cambios de prosa.
 - `12_Craft_Policies/CHAPTER_STATUS.md` — primera fila poblada (Cap. 10).
 - `98_Agent_Handoff/CURRENT_BRIEF.md` — entrada de handoff mínima.
 - `98_Agent_Handoff/sessions/2026-09-11_claude_c10_close_lifecycle_test.md` — este archivo (nuevo).

@@ -1,8 +1,8 @@
-# Libro 1 — Seda y Pólvora — Incubadora de material tardío
+# Libro 1 — Máscaras de Cristal — Incubadora de material tardío
 
 > **ESTADO:** INCUBADORA / DISEÑO. Nada dentro de esta carpeta se vuelve canon por existir aquí, salvo lo marcado explícitamente como CANON DEL AUTOR.
 >
-> **OBJETIVO:** desarrollar, fuera del manuscrito y de `00_Book_Map.md`, material especulativo para el tramo tardío de *Seda y Pólvora* que todavía no tiene lugar fijo en `00_Biblia/00_Trilogy_Structure.md` (que ya no reconoce la antigua "Parte IV"). Sirve para discutir y madurar ideas antes de decidir si se integran al Libro I, se mueven a otro libro de la trilogía, o se descartan.
+> **OBJETIVO:** desarrollar, fuera del manuscrito y de `00_Book_Map.md`, material especulativo para el tramo tardío de *Máscaras de Cristal* que todavía no tiene lugar fijo en `00_Biblia/00_Trilogy_Structure.md` (que ya no reconoce la antigua "Parte IV"). Sirve para discutir y madurar ideas antes de decidir si se integran al Libro I, se mueven a otro libro de la trilogía, o se descartan.
 
 ## Contenido
 

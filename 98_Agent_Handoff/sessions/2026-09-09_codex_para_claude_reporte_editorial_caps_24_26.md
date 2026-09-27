@@ -22,10 +22,10 @@ Antes de editar:
 5. [[12_Craft_Policies/Redaccion_De_Capitulos]]
 6. [[12_Craft_Policies/editorial/EDITORIAL_POLICY]]
 7. [[12_Craft_Policies/editorial/DO_NOT_TOUCH]]
-8. [[12_Craft_Policies/revelations/Book_01_Seda_y_Polvora]]
+8. [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]]
 9. [[12_Craft_Policies/revelations/SAGA_LEVEL]]
 10. [[12_Craft_Policies/voice/Cole_Mercer]], [[12_Craft_Policies/voice/Chiara_Bellandi]], [[12_Craft_Policies/voice/Hector_Navarro]] y [[12_Craft_Policies/voice/Tommaso_Lusardi]]
-11. [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/20_Tierra_Buena]] y los capitulos 23-26 completos
+11. [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/20_Tierra_Buena]] y los capitulos 23-26 completos
 12. [[06_Relationships/Hitos#H15 — La noche del jacuzzi]]
 13. [[00_Biblia/00_Trilogy_Structure]]
 
@@ -87,7 +87,7 @@ No debe recapitular ni repetir una escena anterior. Este principio es especialme
 
 Este punto fue indicado expresamente por el autor y debe quedar visible para cualquier revision.
 
-En [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/20_Tierra_Buena]], lineas actuales 140-144:
+En [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/20_Tierra_Buena]], lineas actuales 140-144:
 
 - Cole ya dice que **esta buscando abogado**;
 - ya identifica el problema con **su socio, dueño del espacio donde esta el concesionario**;
@@ -146,7 +146,7 @@ No convertir este pendiente en jerga legal inventada. Si sigue abierto, Claude d
 
 El beat `mi... amigo` es potente y debe preservarse como nucleo de la escena. Sin embargo, el contrainterrogatorio deja en registro publico que Chiara ve a Cole con frecuencia, tiene una relacion cercana y razones personales para ayudarlo.
 
-Cruzar con [[12_Craft_Policies/revelations/Book_01_Seda_y_Polvora]]: fuera de La Almendra, la ciudad todavia no debe ver la union. El autor/Codex debe decidir si esta exposicion es la primera sospecha permitida o si el intercambio necesita un grado distinto de cobertura. No cortar el beat por reflejo y no actualizar el ledger sin decision.
+Cruzar con [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]]: fuera de La Almendra, la ciudad todavia no debe ver la union. El autor/Codex debe decidir si esta exposicion es la primera sospecha permitida o si el intercambio necesita un grado distinto de cobertura. No cortar el beat por reflejo y no actualizar el ledger sin decision.
 
 ## Capitulo 24 — `La letra pequena`
 

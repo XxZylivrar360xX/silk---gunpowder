@@ -11,16 +11,16 @@
 >
 > | Prioridad | Cap. | Estado | Mapa |
 > |---|---|---|---|
-> | A | 1–3 | AUDIT + SURGERY hechos (2026-09-26), siguen TERMINADO | [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_01-03]] |
-> | A | 9 | AUDIT + SURGERY hechos (2026-09-26), sigue TERMINADO | [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_09_El_Corral]] |
-> | A | 25 | AUDIT + SURGERY hechos (2026-09-26), BORRADOR hasta lectura del autor | [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_25_Libros_Abiertos]] |
-> | B | 10 | AUDIT + SURGERY hechos (2026-09-26), sigue TERMINADO | [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_10_El_Loft_Del_Soltero]] |
-> | B | 5 | AUDIT + SURGERY hechos (2026-09-26), sigue TERMINADO | [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_05_Una_Amiga]] |
-> | B | 12 | AUDIT + SURGERY hechos (2026-09-26), sigue TERMINADO; recuerdo de Palermo en DISEÑO pendiente de lectura | [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_12_Roma_Atrii]] |
-> | B | 14 | AUDIT + SURGERY hechos (2026-09-26), sigue TERMINADO; imán conservado (paga Hitos §3-a) | [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_14_La_Regla_Del_Telefono]] |
-> | C | 15–17 | AUDIT + SURGERY hechos (2026-09-26), siguen TERMINADO. 5-ter aplicado: libera 1,134 palabras (lote −1,402); Matteo sembrado en el 16 | [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_15-17]] |
-> | C | 4, 6, 7, 11, 13 (terminal A) | AUDIT + SURGERY hechos (2026-09-27), siguen TERMINADO. Lote −738 palabras; fuera la camiseta del 11 (cronología), prolepsis del 6 y el 13, 6:323 alineado con H2-b; Fabrizio sembrado en el 11 | [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_04-13_Lote_A]] |
-> | C | 8, 18–24 (terminal B) | AUDIT + SURGERY hechos (2026-09-27), siguen TERMINADO. Poda neta −275 (E3 −215, E4 −60); S3 Camp Alder en el 8, S5 y S6 en el 23; **escena nueva de la moto de Nadir en el 23 (+438, BORRADOR/DISEÑO hasta lectura del autor)**. Saldo del 5-ter para Irene en el 32: ≈ +970 | [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_08_18-24_Lote_B]] |
+> | A | 1–3 | AUDIT + SURGERY hechos (2026-09-26), siguen TERMINADO | [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_01-03]] |
+> | A | 9 | AUDIT + SURGERY hechos (2026-09-26), sigue TERMINADO | [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_09_El_Corral]] |
+> | A | 25 | AUDIT + SURGERY hechos (2026-09-26), BORRADOR hasta lectura del autor | [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_25_Libros_Abiertos]] |
+> | B | 10 | AUDIT + SURGERY hechos (2026-09-26), sigue TERMINADO | [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_10_El_Loft_Del_Soltero]] |
+> | B | 5 | AUDIT + SURGERY hechos (2026-09-26), sigue TERMINADO | [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_05_Una_Amiga]] |
+> | B | 12 | AUDIT + SURGERY hechos (2026-09-26), sigue TERMINADO; recuerdo de Palermo en DISEÑO pendiente de lectura | [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_12_Roma_Atrii]] |
+> | B | 14 | AUDIT + SURGERY hechos (2026-09-26), sigue TERMINADO; imán conservado (paga Hitos §3-a) | [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_14_La_Regla_Del_Telefono]] |
+> | C | 15–17 | AUDIT + SURGERY hechos (2026-09-26), siguen TERMINADO. 5-ter aplicado: libera 1,134 palabras (lote −1,402); Matteo sembrado en el 16 | [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17]] |
+> | C | 4, 6, 7, 11, 13 (terminal A) | AUDIT + SURGERY hechos (2026-09-27), siguen TERMINADO. Lote −738 palabras; fuera la camiseta del 11 (cronología), prolepsis del 6 y el 13, 6:323 alineado con H2-b; Fabrizio sembrado en el 11 | [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_04-13_Lote_A]] |
+> | C | 8, 18–24 (terminal B) | AUDIT + SURGERY hechos (2026-09-27), siguen TERMINADO. Poda neta −275 (E3 −215, E4 −60); S3 Camp Alder en el 8, S5 y S6 en el 23; **escena nueva de la moto de Nadir en el 23 (+438, BORRADOR/DISEÑO hasta lectura del autor)**. Saldo del 5-ter para Irene en el 32: ≈ +970 | [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B]] |
 > | — | Parte I | Todos los capítulos (1–25) auditados. Pendiente: lectura del autor de las líneas en DISEÑO/BORRADOR | — |
 >
 > Siembras y decisiones: ver la adenda al final (B y D).
@@ -1404,7 +1404,7 @@ Es:
 # ADENDA — Siembras de la evaluación de arco para ejecutar en esta auditoría
 ## Agregada por el agente, 2026-09-26. No forma parte del dictamen original.
 
-Cruza este dictamen con [[13_Auditorias/Book_01_Seda_y_Polvora/Evaluacion_Arco_Libro_I]]. Regla de la evaluación (orden de trabajo, punto 2): **cada capítulo se abre una sola vez para podar y sembrar a la vez.** Las siembras son de una línea o de un beat; se pagan con la poda. La Parte I debe terminar más corta que hoy, no más larga.
+Cruza este dictamen con [[13_Auditorias/Book_01_Mascaras_De_Cristal/Evaluacion_Arco_Libro_I]]. Regla de la evaluación (orden de trabajo, punto 2): **cada capítulo se abre una sola vez para podar y sembrar a la vez.** Las siembras son de una línea o de un beat; se pagan con la poda. La Parte I debe terminar más corta que hoy, no más larga.
 
 ## A. Ya aplicado en la Parte I (prosa BORRADOR, 2026-09-26)
 
@@ -1435,7 +1435,7 @@ La metadata de los Caps. 11–25 y H11 ya se limpió ([[98_Agent_Handoff/session
 | 8 o 19 | Camp Alder como geografía: la cerca, una sola imagen, Kal desvía la mirada o cambia de ruta sin decir nada (hilo B) | **APLICADO 2026-09-27** (Cap. 8, 8:109; lote B, E3; redacción DISEÑO) | El 20 también era candidato, pero este dictamen pide no cargarlo |
 | 9 | El primer pensamiento de Kal tras el ataque: vinieron por su pasado, no por ella. No lo dice | **APLICADO 2026-09-26** (Cap. 9, tras la llamada; DISEÑO) | Si se aprueba, entra dentro de la compresión del corral, no como estación nueva |
 | 14 | Algo concreto sobre el buzón o el teléfono apagado de Kal, para que el 44 lo cobre ("un buzón que no tenía mensaje grabado") (rima 14↔44, hilo C) | **APLICADO 2026-09-26** (Cap. 14, escena de la regla: "ese buzón tuyo que ni mensaje tiene" / "El que me llama sabe a quién llama"; redacción DISEÑO) | Encaja con la poda moderada del camping sin tocar la llamada perdida |
-| 15, 17 | Robo de la bodega: cortes y compactación (5-ter) | **APLICADO 2026-09-26** (libera 1,134 palabras; [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_15-17]]) | Libera ~1,000–1,200 palabras. **Conservar íntegras** "Avísenme. Aunque sepan que voy a decir que no" y "Tres me dijeron que sí… se echaron atrás". Cortar "¿Y si es Darío?" |
+| 15, 17 | Robo de la bodega: cortes y compactación (5-ter) | **APLICADO 2026-09-26** (libera 1,134 palabras; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17]]) | Libera ~1,000–1,200 palabras. **Conservar íntegras** "Avísenme. Aunque sepan que voy a decir que no" y "Tres me dijeron que sí… se echaron atrás". Cortar "¿Y si es Darío?" |
 | 17–24 | Siembra de costo del trato con Irene: Nadir ausente o cansado por las rutas de la Ronda, sin explicar ni quejarse (una o dos veces) | **APLICADO 2026-09-27** (Cap. 23, dentro de la escena de la moto: Nadir dormido en la oficina, oliendo a carretera; "No dijo dónde había pasado la noche"; BORRADOR) | Puede ir en la misma escena que la moto |
 | 18–24 | **Nadir y la moto** (5-sexies): toma del fondo del Patio (tratos y mercancía, no cocaína) para una moto, sin avisar. Kal lo descubre por la moto frente al taller. "—¿Por qué no me dijiste?" / "—Porque ibas a decir que no." / "—Iba a decir que sí." Kal repone el fondo; Nadir se lo paga en abonos; la moto se queda | **APLICADO 2026-09-27** (Cap. 23, sección nueva entre "lo quiero por escrito" y la respuesta de Hoover; 438 palabras; líneas canon textuales; BORRADOR/DISEÑO hasta lectura del autor; pago en el 42 sólo por conducta) | **Después del 17**: Nadir desobedece la lección "Avísenme" sabiendo la regla. Antes del 25, en paralelo a la deuda con Anya. Escena nueva de no más de ~600 palabras, pagada con los recortes del 15/17. Paga en el 42 (F1) |
 | 20 | Casi-confesión: uno abre la boca, piensa en el costo y elige una verdad más chica (hilo A) | **RESUELTO 2026-09-27:** el 20 se protege sin añadir nada (lote B, D2) | Choca con "no cargarse con más siembras": sólo un silencio, sin línea nueva |
@@ -1455,12 +1455,12 @@ El dictamen pide bajar las revelaciones. Por eso no recibe siembras nuevas. Sól
 
 ## D. Decisiones del autor que bloquean la ejecución
 
-1. ~~Capítulo de la moto de Nadir (18–24) y si el pago en el 42 lleva línea o sólo conducta.~~ **Resuelta 2026-09-27:** Cap. 23, y el 42 paga sólo por conducta ([[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_08_18-24_Lote_B]], D10–D11).
+1. ~~Capítulo de la moto de Nadir (18–24) y si el pago en el 42 lleva línea o sólo conducta.~~ **Resuelta 2026-09-27:** Cap. 23, y el 42 paga sólo por conducta ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B]], D10–D11).
 2. ~~Hilo B: ¿Anya en el 3? ¿Camp Alder en el 8 o el 19? ¿Papeles de Nadir en el 1, el 17 o el 23–24?~~ **Resuelta:** Anya en el 3 y papeles de Nadir en el 1 (2026-09-26); Camp Alder en el 8 (2026-09-27, lote B, D1).
-3. ~~H12: ¿Kal cree que el corral fue por su pasado?~~ **Resuelta 2026-09-26:** sí, como primer pensamiento tras la llamada ([[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_09_El_Corral]]).
-4. ~~Hilo A: lugar del recuerdo de Palermo.~~ **Resuelta 2026-09-26:** Cap. 12, opción (a) ([[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_12_Roma_Atrii]]).
-5. ~~5-ter: visto bueno a los cortes del 15 y el 17.~~ **Resuelta y aplicada 2026-09-26** ([[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_15-17]]).
+3. ~~H12: ¿Kal cree que el corral fue por su pasado?~~ **Resuelta 2026-09-26:** sí, como primer pensamiento tras la llamada ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_09_El_Corral]]).
+4. ~~Hilo A: lugar del recuerdo de Palermo.~~ **Resuelta 2026-09-26:** Cap. 12, opción (a) ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_12_Roma_Atrii]]).
+5. ~~5-ter: visto bueno a los cortes del 15 y el 17.~~ **Resuelta y aplicada 2026-09-26** ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17]]).
 6. ~~Línea de Darío del 25.~~ **Resuelta 2026-09-26:** "La tregua es por lo que le pasó, señor Mercer. No por ella."
-7. ~~Modo de trabajo.~~ **Resuelto 2026-09-26:** AUDIT (mapa) primero, luego SURGERY por capítulo. Cap. 25 hecho: [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_25_Libros_Abiertos]].
+7. ~~Modo de trabajo.~~ **Resuelto 2026-09-26:** AUDIT (mapa) primero, luego SURGERY por capítulo. Cap. 25 hecho: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_25_Libros_Abiertos]].
 
 Lo APROBADO (rimas 14↔44 y 24↔44, Matteo y Fabrizio) puede ejecutarse ya, dentro de la poda del capítulo correspondiente.

@@ -730,7 +730,7 @@ NO:
 Revisar y actualizar lo necesario en:
 
 - `06_Relationships/Hitos.md`
-- `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`
+- `11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map.md`
 - `98_Agent_Handoff/CURRENT_BRIEF.md`
 - `98_Agent_Handoff/PENDING.md`
 - cualquier índice de capítulos de la Parte I

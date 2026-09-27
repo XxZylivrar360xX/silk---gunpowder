@@ -8,7 +8,7 @@
 
 > Ejecuta la etapa N de `98_Agent_Handoff/ENCARGO_Auditoria_Parte_III.md`.
 
-**Mapa de la auditoría** (lo crea E1): `13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_35-44_Parte_III.md`. Modelo de formato: `Audit_Caps_26-34_Parte_II.md` (tabla de estado, §0–§5 por capítulo, § Decisiones, § 9 Resultado), **sin leerlo entero**: basta con su tabla de estado, una tabla de §1 y una de §9.
+**Mapa de la auditoría** (lo crea E1): `13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III.md`. Modelo de formato: `Audit_Caps_26-34_Parte_II.md` (tabla de estado, §0–§5 por capítulo, § Decisiones, § 9 Resultado), **sin leerlo entero**: basta con su tabla de estado, una tabla de §1 y una de §9.
 
 ---
 
@@ -48,7 +48,7 @@
 | 43 | `43_La_Puerta.md` | Clímax moral correcto | MÍNIMA | 2,150 | Proteger; no convertir Camp Alder en set piece |
 | 44 | `44_A_Oscuras.md` | Funciona como final de novela | MÍNIMA / HOUSEKEEPING | 2,280 | Proteger; metadata |
 
-Todos están en `11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/`. Total ≈ **31,999**. Prioridad: **A** 38, 35, 36; **B** 40, 41; **C** 37, 39, 42, 43, 44 (proteger; no buscar cambios porque sí).
+Todos están en `11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/`. Total ≈ **31,999**. Prioridad: **A** 38, 35, 36; **B** 40, 41; **C** 37, 39, 42, 43, 44 (proteger; no buscar cambios porque sí).
 
 **El 35 — opciones del dictamen para la coda de las invitaciones**, en orden de preferencia: (1) mover el beat al final del 36; (2) convertirlo en una coda brevísima entre 36 y 37; (3) eliminar la escena y dejar que el 37 revele que Kal recibió una carta distinta. **No** arreglarlo escribiendo "tres semanas después" dentro del 35.
 

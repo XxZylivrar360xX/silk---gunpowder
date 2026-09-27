@@ -2,7 +2,7 @@
 
 **Encargo:** [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_II]] (una terminal, nueve etapas secuenciales). **Modo:** AUDIT en E1–E4 (no toca prosa); SURGERY en E5–E8; escena de Irene y registro en E9.
 **Política:** [[12_Craft_Policies/editorial/EDITORIAL_POLICY]] (§L prolepsis, §J sin cuotas), [[12_Craft_Policies/editorial/DO_NOT_TOUCH]], [[12_Craft_Policies/editorial/MICROEDICION]].
-**Dictamen de origen:** [[13_Auditorias/Book_01_Seda_y_Polvora/Auditoria_Editorial_Part_02]] (matriz, inviolables y housekeeping resumidos en el encargo).
+**Dictamen de origen:** [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_02]] (matriz, inviolables y housekeeping resumidos en el encargo).
 **Estado de los capítulos:** los nueve siguen en **BORRADOR**. La cirugía no los sube de estado. No hay CLOSE.
 **No se tocan aquí:** el EPUB, la Parte I, la Parte III (sólo lectura por búsqueda), los archivos compartidos antes de E9.
 

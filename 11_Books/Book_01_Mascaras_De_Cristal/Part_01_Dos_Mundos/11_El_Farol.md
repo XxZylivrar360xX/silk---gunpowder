@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): fuera la manana de la camiseta (residuo de H2-b, cronologia rota), tuteo corregido, POV de Tommaso, silencio repetido; Fabrizio firma el acta (siembra APROBADA, redaccion DISENO). Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_04-13_Lote_A.md.
+Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): fuera la manana de la camiseta (residuo de H2-b, cronologia rota), tuteo corregido, POV de Tommaso, silencio repetido; Fabrizio firma el acta (siembra APROBADA, redaccion DISENO). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_04-13_Lote_A.md.
 Protagonistas: Chiara Bellandi, con apariciones de Mabel Ortiz y Walter "Walt" Keegan.
 Ventana temporal: semanas despues del Capitulo 7 (la noche del ladrillo) -- de por medio ocurrieron H9 (Capitulo 8, la carrera de mascaras) y todo el arco de H12 en los Capitulos 9-10 (el ataque, la casa comun, la recompra y el diseno de la casa de Kal). Chiara ya deja cosas suyas en la casa de el por costumbre, pero conserva el penthouse como base -- no hubo mudanza formal, y esa costumbre no se anuncia en esta escena.
 Lugares: El Penthouse, La Esquina de Mabel (La Almendra), The Monarch Casino & Hotel (piso de juego, torneo de poker).

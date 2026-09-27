@@ -12,12 +12,12 @@ VI amenaza ese futuro: embarazo/Elenna, H1 y declaración completa, recuperació
 
 ## Archivos modificados por este encargo
 
-- [[01_Timeline/02_Libro_01_Seda_y_Polvora]]
+- [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]]
 - [[06_Relationships/Hitos]], [[06_Relationships/Momentos_de_Fractura]], [[06_Relationships/Kal_y_Chiara]]
 - [[02_Characters/Kal_Mercer]], [[02_Characters/Mei_Lin_Zhao]], [[02_Characters/Riley_Bennett]], [[02_Characters/Nadir_Amrani]], [[02_Characters/Silas_Crowe]]
 - [[05_Locations/La_Villa]]
 - [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] — sólo metadatos/notas, prosa intacta
-- [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] — bloque operativo; cinco partes históricas supersedidas
+- [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] — bloque operativo; cinco partes históricas supersedidas
 - [[98_Agent_Handoff/PENDING]], [[98_Agent_Handoff/CURRENT_BRIEF]], [[98_Agent_Handoff/DECISIONS]], esta nota, [[INDEX]], [[log]]
 
 Tommaso fue revisado sin cambios: su causalidad no requería reescritura. Cambios de C35/C36 y milestones/INDEX presentes al arranque no pertenecen a este encargo.

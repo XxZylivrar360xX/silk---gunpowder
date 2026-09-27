@@ -2,7 +2,7 @@
 
 Este directorio contiene la **linea temporal macro** de los cinco libros. Cada entrada debe ser un acontecimiento enunciado en una sola frase o una fila breve; no contiene escenas, mecanismos, motivaciones desarrolladas ni prosa.
 
-> **Excepción (2026-09-20):** [[02_Libro_01_Seda_y_Polvora]] opera a granularidad intermedia por decisión expresa del autor — más detalle que un enunciado de una frase, menos que un índice de capítulos — para servir de mapa cronológico-macronarrativo operativo del Libro I por Partes. No usar esa granularidad como precedente para los demás archivos de este directorio sin instrucción equivalente.
+> **Excepción (2026-09-20):** [[02_Libro_01_Mascaras_De_Cristal]] opera a granularidad intermedia por decisión expresa del autor — más detalle que un enunciado de una frase, menos que un índice de capítulos — para servir de mapa cronológico-macronarrativo operativo del Libro I por Partes. No usar esa granularidad como precedente para los demás archivos de este directorio sin instrucción equivalente.
 
 ## Regla de autoridad
 
@@ -20,7 +20,7 @@ Este directorio contiene la **linea temporal macro** de los cinco libros. Cada e
 > Hierro* y *Camino a Casa* se renumeraron un lugar hacia adelante.
 
 1. [[01_Indice_Cronologico]] — continuidad completa y bisagras entre libros.
-2. [[02_Libro_01_Seda_y_Polvora]] — encuentro, elección mutua y primera prueba (Camp Alder).
+2. [[02_Libro_01_Mascaras_De_Cristal]] — encuentro, elección mutua y primera prueba (Camp Alder).
 3. [[03_Libro_02_Sombras_De_Poder]] — ascenso, H1 y llegada de Halbrook.
 4. [[04_Libro_03_Voto_De_Ceniza]] — guerra, exilio de Elenna y decisión de salida.
 5. [[05_Libro_04_Cuentas_De_Sangre]] — ejecución, Meridian y salida a Palermo.
@@ -30,7 +30,7 @@ Este directorio contiene la **linea temporal macro** de los cinco libros. Cada e
 
 ## Fuentes
 
-- [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]]
+- [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]
 - [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]
 - [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]]
 - [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]]

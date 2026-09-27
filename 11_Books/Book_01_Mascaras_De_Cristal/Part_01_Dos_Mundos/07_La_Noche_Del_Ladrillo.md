@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): conteo de H3 despejado, Willy fuera (sin antecedente), glosas de 'Te veo despues' y de la risa, tercera formulacion del taxi. Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_04-13_Lote_A.md.
+Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): conteo de H3 despejado, Willy fuera (sin antecedente), glosas de 'Te veo despues' y de la risa, tercera formulacion del taxi. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_04-13_Lote_A.md.
 Protagonistas: Chiara Bellandi, con apariciones de Blake Stanton, Dario Varek, Kal Mercer, Nadir Amrani, Daniel Hayes y Hector Navarro.
 Ventana temporal: dias despues del Capitulo 6 (la noche de hierba en el penthouse). Todavia se estan conociendo — antes del primer beso.
 Lugares: Gabriella's (fiesta de vestimenta blanca).
@@ -54,7 +54,7 @@ Fue la primera vez esa noche que Kal se le metió en la cabeza sin haber sido in
 
 No dijo el nombre en voz alta. No hacía falta decírselo a nadie, y mucho menos a Blake.
 
-Él volvió a entrar cuando alguien lo llamó desde la puerta — otro grupo, otra ronda de presentaciones donde ella iba a ser el florero otra vez —, y Chiara se quedó sola con el teléfono en la mano y una idea que no debía tener.
+Él volvió a entrar cuando alguien lo llamó desde la puerta — otro grupo, otra ronda de presentaciones donde ella iba a ser el florero otra vez—, y Chiara se quedó sola con el teléfono en la mano y una idea que no debía tener.
 
 Escribió antes de pensarlo del todo:
 

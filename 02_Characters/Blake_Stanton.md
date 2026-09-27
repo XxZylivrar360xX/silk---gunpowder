@@ -46,7 +46,7 @@ En [[06_Relationships/Hitos]], H3-a, presume sus habilidades al volante y la inf
 
 ---
 
-## El regreso — la fiesta del yate (2026-09-20, Claude Code, [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/38_Al_Reves|Cap. 38]], BORRADOR)
+## El regreso — la fiesta del yate (2026-09-20, Claude Code, [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 38]], BORRADOR)
 
 Blake vuelve una sola vez, y es la última. Llega al yate de Chiara **legítimamente**: en el grupo del capitán del Departamento, al que ella sí invitó (un capitán nunca llega solo). No burla seguridad; Chiara no queda incompetente — la lista estaba bien, y el Departamento trae a quien trae.
 
@@ -58,7 +58,7 @@ Consecuencia práctica registrada en escena: el capitán "va a preferir no acord
 
 ## Pendientes
 
-> ~~**PENDIENTE:** cuándo y cómo termina lo suyo con Chiara.~~ **ESCRITO** en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/07_La_Noche_Del_Ladrillo|Cap. 7]] (la banqueta de Gabriella's) y **cerrado definitivamente** en el Cap. 38 con la formulación canon: ella no lo dejó por Kal, terminó con él por él.
+> ~~**PENDIENTE:** cuándo y cómo termina lo suyo con Chiara.~~ **ESCRITO** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/07_La_Noche_Del_Ladrillo|Cap. 7]] (la banqueta de Gabriella's) y **cerrado definitivamente** en el Cap. 38 con la formulación canon: ella no lo dejó por Kal, terminó con él por él.
 
 > ~~**PENDIENTE:** ¿vuelve?~~ **RESUELTO (2026-09-20):** vuelve una vez, en el Cap. 38, y sale acompañado a tierra. No es rival, no hay triángulo. Si el autor quiere cobrar más adelante al policía despechado con acceso al Departamento, el material sigue disponible (sabe que Chiara "está con Mercer" y lo dijo en voz alta delante del capitán), pero nada lo obliga.
 

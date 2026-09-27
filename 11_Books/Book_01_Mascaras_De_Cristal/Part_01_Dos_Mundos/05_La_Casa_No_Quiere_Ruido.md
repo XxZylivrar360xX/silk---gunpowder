@@ -1,6 +1,6 @@
 <!--
 Estado: TERMINADO.
-Cirugía editorial extraordinaria 2026-09-26 (autorizada por el autor, sigue TERMINADO): poda de la deuda interior repetida del Cap. 4, glosas, tres saltos de POV, eco huérfano, segunda ronda de burlas de la familia; Nadir huele la colonia en casa y la cobra en la acera (H2-a); siembra aprobada de Fabrizio como llamada en la escena del proveedor. Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_05_Una_Amiga.md §11.
+Cirugía editorial extraordinaria 2026-09-26 (autorizada por el autor, sigue TERMINADO): poda de la deuda interior repetida del Cap. 4, glosas, tres saltos de POV, eco huérfano, segunda ronda de burlas de la familia; Nadir huele la colonia en casa y la cobra en la acera (H2-a); siembra aprobada de Fabrizio como llamada en la escena del proveedor. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_05_Una_Amiga.md §11.
 Protagonistas: Chiara Bellandi, Kal Mercer.
 Ventana temporal: dias/semanas posteriores al primer favor, hasta la primera noche que ninguno de los dos llama cita.
 Lugares: The Monarch Casino & Hotel, La Almendra, centro de San Aurelio, Il Gelsomino.

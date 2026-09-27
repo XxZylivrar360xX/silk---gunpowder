@@ -19,7 +19,7 @@
 
 **Consecuencia estructural:** F4 pasa de abrir la Parte II del Libro II (después del incendio) a quedar **entre Navidad y el incendio**, en la Parte I.
 
-**Archivos:** [[02_Characters/Anya_Voronina]], [[06_Relationships/Momentos_de_Fractura]], [[01_Timeline/03_Libro_02_Sombras_De_Poder]], [[06_Relationships/Kal_y_Chiara]], [[00_Biblia/00_Trilogy_Structure]], [[04_Concepts/Fe_y_Velas]], [[13_Auditorias/Book_01_Seda_y_Polvora/Evaluacion_Arco_Libro_I]], [[98_Agent_Handoff/BACKLOG]]. Las versiones anteriores quedan marcadas como SUPERSEDIDAS, sin borrarlas.
+**Archivos:** [[02_Characters/Anya_Voronina]], [[06_Relationships/Momentos_de_Fractura]], [[01_Timeline/03_Libro_02_Sombras_De_Poder]], [[06_Relationships/Kal_y_Chiara]], [[00_Biblia/00_Trilogy_Structure]], [[04_Concepts/Fe_y_Velas]], [[13_Auditorias/Book_01_Mascaras_De_Cristal/Evaluacion_Arco_Libro_I]], [[98_Agent_Handoff/BACKLOG]]. Las versiones anteriores quedan marcadas como SUPERSEDIDAS, sin borrarlas.
 
 **Nota:** el autor dijo "Torna a casa"; se conservó la inscripción canon **RETORNA A CASA**.
 

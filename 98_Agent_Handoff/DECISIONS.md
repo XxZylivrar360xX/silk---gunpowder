@@ -8,7 +8,7 @@ Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces 
 
 ## 2026-09-21 — Cierre de Parte III y apertura de IV
 
-**CANON DEL AUTOR:** el plan de Caps. 39–45 manda en su tramo. Mesa del 40 aprobada; foto de boda y cabello corto; cata, monólogo y respuesta del 45 confirmados; liberación mediante Halbrook/apagón/expediente, revelación reservada a Libro II. Texto y límites exactos: [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Las reservas anteriores que ese plan resuelve son históricas.
+**CANON DEL AUTOR:** el plan de Caps. 39–45 manda en su tramo. Mesa del 40 aprobada; foto de boda y cabello corto; cata, monólogo y respuesta del 45 confirmados; liberación mediante Halbrook/apagón/expediente, revelación reservada a Libro II. Texto y límites exactos: [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Las reservas anteriores que ese plan resuelve son históricas.
 
 ## 2026-09-21 — Cap. 39: contención y corte
 
@@ -20,7 +20,7 @@ Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces 
 
 ## 2026-09-20 — Frontera IV/V y reconstrucción en Exilio
 
-**CANON DEL AUTOR:** incendio cierra IV; F4 abre V; F4 → F3 → F2 (Mei-Lin/Nadir y Riley el mismo día) → Villa → Stavanger/anillo. VI: embarazo/H1/reveal y familia futura; Elenna física en Libro II. [[01_Timeline/02_Libro_01_Seda_y_Polvora]].
+**CANON DEL AUTOR:** incendio cierra IV; F4 abre V; F4 → F3 → F2 (Mei-Lin/Nadir y Riley el mismo día) → Villa → Stavanger/anillo. VI: embarazo/H1/reveal y familia futura; Elenna física en Libro II. [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]].
 
 ## 2026-09-20 — Títulos del Libro I
 

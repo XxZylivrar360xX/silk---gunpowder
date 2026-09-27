@@ -108,4 +108,4 @@ Sin definir. Se crean cuando el autor apruebe el desglose y se cierren los Libro
 
 ---
 
-Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[03_Factions/Fuerza_de_Tarea_Meridian]] · [[03_Factions/Il_Consorzio]] · [[02_Characters/Elenna_Mercer]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] · [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]]
+Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[03_Factions/Fuerza_de_Tarea_Meridian]] · [[03_Factions/Il_Consorzio]] · [[02_Characters/Elenna_Mercer]] · [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] · [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] · [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]]

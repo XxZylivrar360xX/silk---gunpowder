@@ -1,9 +1,9 @@
 # AUDIT — Cap. 10 — `El loft del soltero`
 
 **Modo:** AUDIT (skill `editorial-surgery`). **No se tocó prosa.**
-**Fecha:** 2026-09-26. **Encargo:** Prioridad B del [[13_Auditorias/Book_01_Seda_y_Polvora/Auditoria_Editorial_Part_01|dictamen de Parte I]] (PROBLEMA MACRO 3) + adenda B y D. Se leyó el capítulo completo antes de marcar nada.
-**Archivo:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]]. Las líneas corresponden al archivo al 2026-09-26: la prosa tiene 4,819 palabras.
-**Cruces:** [[06_Relationships/Hitos]] H14 (y la nota de H12 sobre la poda de cohabitación), [[05_Locations/La_Casa]], [[02_Characters/Kal_Mercer]] (balcón, Dale, Ruth), [[12_Craft_Policies/revelations/Book_01_Seda_y_Polvora]] (doble fondo), [[12_Craft_Policies/revelations/SAGA_LEVEL]] (caja de runas, origen de Kal), [[12_Craft_Policies/voice/Nadir_Amrani]], y el [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_El_Corral|Cap. 9]] ya operado.
+**Fecha:** 2026-09-26. **Encargo:** Prioridad B del [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_01|dictamen de Parte I]] (PROBLEMA MACRO 3) + adenda B y D. Se leyó el capítulo completo antes de marcar nada.
+**Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]]. Las líneas corresponden al archivo al 2026-09-26: la prosa tiene 4,819 palabras.
+**Cruces:** [[06_Relationships/Hitos]] H14 (y la nota de H12 sobre la poda de cohabitación), [[05_Locations/La_Casa]], [[02_Characters/Kal_Mercer]] (balcón, Dale, Ruth), [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]] (doble fondo), [[12_Craft_Policies/revelations/SAGA_LEVEL]] (caja de runas, origen de Kal), [[12_Craft_Policies/voice/Nadir_Amrani]], y el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_El_Corral|Cap. 9]] ya operado.
 **Estado de partida:** `Estado: TERMINADO` (CLOSE del 2026-09-12). Operarlo es reabrirlo.
 
 ---
@@ -130,7 +130,7 @@ Pregunta: *si saco este tramo, ¿otro ya hace su trabajo?*
 2. **Cuándo vuelve Chiara al penthouse, y por qué ya es seguro.** En 30 Kal dice "No puede volver al penthouse", y en el 9 le dice a ella: "Vuelves ahí y sigues siendo la mujer más fácil de encontrar". En 594 el penthouse "para entonces había vuelto a ser su base", sin puente. Tampoco se dice cómo resuelve la fricción con Nadir el "Voy a resolverlo": la casa tarda semanas y ella sigue en la casa común durante los presupuestos. **Opción mínima:** media línea en 594 que ancle el regreso en la vigilancia de Dario del Cap. 9 ("Protección y vigilancia"), por ejemplo *"que para entonces, con gente de Dario en cada pasillo, había vuelto a ser su base"*. Es añadir, así que decides tú.
 3. **Dale "la miró" (134).** La ficha de Kal dice "Dale no la mira, pero… encuentra la forma de exigirle algo con los ojos". La ficha se contradice a sí misma, y la prosa eligió "La miró". No lo toco. Si quieres, se alinea la ficha.
 4. **"el Patio" con mayúscula (92, 410) como lugar físico.** Los Caps. 1–9 usan "el patio" en minúscula para el patio de grúas, y "El Patio" una sola vez (1:586) como nombre de la red. En el 10, "una llave de impacto trabajando en el Patio" y "un perro ladrando en el Patio" mezclan las dos capas de [[03_Factions/El_Patio]]. **DUDOSA:** ¿minúscula aquí?
-5. **Housekeeping de metadata:** el header cita la sesión `…close_c11…` y [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]]:275 llama a este archivo "Capítulo 11" (numeración vieja). Además, la ficha de Kal (157) dice que Kal regresa a la casa "para venderla remodelada", y el canon es la recompra. Nada de esto es prosa.
+5. **Housekeeping de metadata:** el header cita la sesión `…close_c11…` y [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]:275 llama a este archivo "Capítulo 11" (numeración vieja). Además, la ficha de Kal (157) dice que Kal regresa a la casa "para venderla remodelada", y el canon es la recompra. Nada de esto es prosa.
 6. **Deuda de canon del header** (por qué los Mercer perdieron la casa; si Chiara sabe que era de ellos). La prosa la deja abierta a propósito (112: "nadie le ofreció explicárselo"). No se toca.
 
 ---
@@ -206,7 +206,7 @@ Pregunta: *si saco este tramo, ¿otro ya hace su trabajo?*
 
 **No se tocó:** P3 (312, DUDOSA — CONSERVAR, según la recomendación) y todo lo de §6.
 
-**Arrastre:** [[02_Characters/Kal_Mercer]] (157): Dale "apenas gira la cabeza para mirarla", y "casa vacía recién recomprada" en lugar de "para venderla remodelada". [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]]: el archivo pasa a ser "Capítulo 10". Hitos H14 no cambia. EPUB sin regenerar.
+**Arrastre:** [[02_Characters/Kal_Mercer]] (157): Dale "apenas gira la cabeza para mirarla", y "casa vacía recién recomprada" en lugar de "para venderla remodelada". [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]: el archivo pasa a ser "Capítulo 10". Hitos H14 no cambia. EPUB sin regenerar.
 
 **Costuras revisadas:** "La barandilla del mezzanine va a la misma altura" ahora se apoya en la escalera que se está midiendo, y se sigue leyendo. "La mesa baja" (538, 570) pierde su presentación en la lista de muebles, pero se entiende con artículo definido. "Discutido la altura de las lámparas" (cena) queda como algo que pasó fuera de escena. "La luz ya no castigaba los ojos" (558) se sostiene con los ventanales y la doble altura.
 

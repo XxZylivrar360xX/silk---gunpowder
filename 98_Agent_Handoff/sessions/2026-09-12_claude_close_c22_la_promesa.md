@@ -1,6 +1,6 @@
 # CLOSE C22 — La promesa (2026-09-12, Claude Code, encargo del autor)
 
-Modo: **CLOSE** exclusivo (no AUDIT, no SURGERY, no VERIFY, sin microedición, sin búsqueda de nuevos problemas, sin reescritura). Ámbito: [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/22_La_Promesa]].
+Modo: **CLOSE** exclusivo (no AUDIT, no SURGERY, no VERIFY, sin microedición, sin búsqueda de nuevos problemas, sin reescritura). Ámbito: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/22_La_Promesa]].
 
 Antecedentes: diagnóstico [[98_Agent_Handoff/sessions/2026-09-10_codex_revision_editorial_cap_22]], SURGERY [[98_Agent_Handoff/sessions/2026-09-12_claude_surgery_c22_la_promesa]], VERIFY posterior reportado como satisfactorio por el encargo (conductor, referente Marisol, puesta en escena, focalización, madrugada/desayuno, voz de Chiara, glosas, limpieza de línea, cierre, promesa, sueño sin vigilancia, agencia de Marisol, desayuno y visita a Michael — todo resuelto/intacto; sin bloqueadores para CLOSE).
 

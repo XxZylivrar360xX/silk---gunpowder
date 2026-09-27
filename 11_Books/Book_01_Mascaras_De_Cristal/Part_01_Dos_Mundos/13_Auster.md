@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): prolepsis de Lucia ('el primero de muchos expedientes'), glosa de 'mi gente', competencia explicada, sintesis repetida de los tres papeles, 'nombre completo' de Mabel, 'dos palabras' de Kenji. Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_04-13_Lote_A.md.
+Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): prolepsis de Lucia ('el primero de muchos expedientes'), glosa de 'mi gente', competencia explicada, sintesis repetida de los tres papeles, 'nombre completo' de Mabel, 'dos palabras' de Kenji. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_04-13_Lote_A.md.
 Protagonistas: Chiara Bellandi (partes 1-4), Kal Mercer (parte 5).
 Ventana temporal: semanas despues del Capitulo 12 (Roma Atrii). Kal y Chiara siguen a caballo entre el penthouse y la casa de el; todavia no hay primer beso.
 Lugares: El Penthouse, La Esquina de Mabel, The Monarch Casino & Hotel (piso de juego), Almendra Towing / El Patio, Comisaria central de San Aurelio (Calle Corona).
@@ -37,7 +37,7 @@ Mabel se limpió las manos en el delantal, ese gesto que usaba cuando decidía c
 
 —Lo que digo es que hay gente de traje reuniéndose de noche en un lugar que ningún hombre de traje elegiría por gusto. El resto lo armas tú, que para eso te pago yo el café.
 
-Chiara no la corrigió. Volvió al penthouse esa misma tarde y, antes de guardar la nota en el cajón nuevo — el que ya empezaba a llenarse —, escribió al margen, en la letra apretada que sólo ella entendía, una sola línea:
+Chiara no la corrigió. Volvió al penthouse esa misma tarde y, antes de guardar la nota en el cajón nuevo — el que ya empezaba a llenarse—, escribió al margen, en la letra apretada que sólo ella entendía, una sola línea:
 
 *Ps. 26:12.*
 

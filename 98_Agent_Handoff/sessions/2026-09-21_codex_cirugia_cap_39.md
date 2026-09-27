@@ -2,7 +2,7 @@
 
 Modo: SURGERY + verificación acotada. Encargo expreso del autor; estructura aprobada, título confirmado, Estado: BORRADOR. Trabajo en develop; sin EPUB, commit ni push.
 
-Capítulo: [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/39_Un_Par_De_Dias_Mas]].
+Capítulo: [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/39_Un_Par_De_Dias_Mas]].
 
 ## Intervenciones
 

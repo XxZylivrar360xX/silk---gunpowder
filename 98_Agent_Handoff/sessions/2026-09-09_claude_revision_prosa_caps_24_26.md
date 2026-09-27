@@ -47,8 +47,8 @@ El autor cerró en sesión las **5 cuestiones de Fase 0** del reporte y se hizo 
 
 ## Archivos
 
-- **Reescritos:** `11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/24_La_Letra_Pequena.md`, `25_Bajo_Juramento.md`, `26_Libros_Abiertos.md` (prosa + bloques de metadata).
-- **Ledgers:** `06_Relationships/Hitos.md` (H15), `12_Craft_Policies/revelations/SAGA_LEVEL.md`, `12_Craft_Policies/revelations/Book_01_Seda_y_Polvora.md`, `02_Characters/Chiara_Bellandi.md`.
+- **Reescritos:** `11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/24_La_Letra_Pequena.md`, `25_Bajo_Juramento.md`, `26_Libros_Abiertos.md` (prosa + bloques de metadata).
+- **Ledgers:** `06_Relationships/Hitos.md` (H15), `12_Craft_Policies/revelations/SAGA_LEVEL.md`, `12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal.md`, `02_Characters/Chiara_Bellandi.md`.
 - **Handoff:** `CURRENT_BRIEF.md`, `PENDING.md`, `log.md`.
 
 ## Pendiente para el siguiente relevo

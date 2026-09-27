@@ -27,7 +27,7 @@ Su método afectivo es la paciencia sin exigencia: pregunta por el casino, por S
 
 Amigo de **[[02_Characters/Corrado_Ardizzone]]**, de origen previo a la redada. Cuando la familia de Chiara se derrumbó dos veces —la muerte de Marta por un fallo cardíaco, y después la caída pública de Corrado tras la redada federal— fue Ettore quien la crió en todo menos el nombre.
 
-**Presente en el momento de la caída de Corrado.** En el recuerdo que Chiara comparte con Kal en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 25 ("Libros abiertos")]], la última vez que vio a su padre, Corrado le dijo a ella *"Tesoro mio, no temas, yo me hago cargo de esto"* — y **le susurró a Ettore otras cosas que ella no pudo escuchar.** Es el único dato objetivo del vault que sitúa a Ettore físicamente en la escena de la redada, recibiendo del propio Corrado una comunicación que Chiara nunca oyó.
+**Presente en el momento de la caída de Corrado.** En el recuerdo que Chiara comparte con Kal en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 25 ("Libros abiertos")]], la última vez que vio a su padre, Corrado le dijo a ella *"Tesoro mio, no temas, yo me hago cargo de esto"* — y **le susurró a Ettore otras cosas que ella no pudo escuchar.** Es el único dato objetivo del vault que sitúa a Ettore físicamente en la escena de la redada, recibiendo del propio Corrado una comunicación que Chiara nunca oyó.
 
 > **Por qué importa, sin resolverlo:** esa frase deja abierta, sin confirmar ni negar, la posibilidad de que Ettore sepa o haya sabido más de lo que Chiara cree — incluyendo, potencialmente, que Corrado sigue vivo (ver [[02_Characters/Corrado_Ardizzone]], verdad del autor). El vault no debe resolver esto por conveniencia; es material que el autor puede cobrar más adelante.
 
@@ -46,7 +46,7 @@ No tiene un método narrativo activo: no opera, no investiga, no protege física
 ## Reglas duras del personaje
 
 - **No confirmar ni negar en prosa que Ettore participa en la protección de Elenna** antes de que el autor decida resolverlo. La ambigüedad es el mecanismo, no un vacío a rellenar.
-- **No dar a Ettore POV propio.** Escena en prosa: **autorizada por el autor (2026-09-21)** para Palermo (Cap. 40, POV Kal): recibe a Kal y Chiara en la casa donde ella creció y, la noche después de la Mesa, le pide a Kal que se aleje — *si de verdad está tan enamorado de ella, aléjese de la familia Ardizzone.* No revela nada de Corrado. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
+- **No dar a Ettore POV propio.** Escena en prosa: **autorizada por el autor (2026-09-21)** para Palermo (Cap. 40, POV Kal): recibe a Kal y Chiara en la casa donde ella creció y, la noche después de la Mesa, le pide a Kal que se aleje — *si de verdad está tan enamorado de ella, aléjese de la familia Ardizzone.* No revela nada de Corrado. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
 - **No resolver qué le susurró Corrado en la redada** sin decisión del autor. Es semilla reservada, no laguna a completar por conveniencia.
 - **Las cartas de Chiara hacia él son reales, no editadas.** Si una escena lo muestra recibiendo una versión gestionada de ella, está mal escrita — ver [[02_Characters/Chiara_Bellandi]], "Las cartas".
 

@@ -12,10 +12,10 @@
 
 ## Reglas comunes a todas las etapas
 
-1. **Lectura mínima al arrancar:** este encargo completo; la tabla **"Estado de etapas"** del mapa (`13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_26-34_Parte_II.md`), si ya existe, y sólo las secciones del mapa que la etapa indique; la skill `editorial-surgery` y sus tres políticas (EDITORIAL_POLICY, DO_NOT_TOUCH y MICROEDICION). **No leer** START_HERE, el brief completo, `log.md`, el dictamen de la Parte II ni la evaluación de arco enteros: lo necesario está resumido aquí abajo.
+1. **Lectura mínima al arrancar:** este encargo completo; la tabla **"Estado de etapas"** del mapa (`13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II.md`), si ya existe, y sólo las secciones del mapa que la etapa indique; la skill `editorial-surgery` y sus tres políticas (EDITORIAL_POLICY, DO_NOT_TOUCH y MICROEDICION). **No leer** START_HERE, el brief completo, `log.md`, el dictamen de la Parte II ni la evaluación de arco enteros: lo necesario está resumido aquí abajo.
 2. **Verificar la etapa anterior:** si la tabla de estado no marca la etapa previa como hecha, detenerse y avisar al autor.
 3. **Capítulos:** leer completos sólo los de la etapa en curso. Los cruces se hacen **con búsquedas** (`rg`/Grep), sin abrir archivos enteros: `06_Relationships/`, `01_Timeline/`, `02_Characters/`, `03_Factions/`, `05_Locations/`, `07_Ideas/`, los Book Maps, la Parte I y los Caps. 35–44. Antes de proponer cortar un objeto, frase, gesto o plan, **buscar sus pagos en la Parte III y en el Libro II** (lección del imán del 14).
-4. **Formato:** el modelo es `13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_08_18-24_Lote_B.md`, pero **no leerlo entero**. Basta con la tabla de estado, una tabla de §1 y una de §9.
+4. **Formato:** el modelo es `13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B.md`, pero **no leerlo entero**. Basta con la tabla de estado, una tabla de §1 y una de §9.
 5. **Política:** Prioridad según la matriz de abajo. Aplicar §L (el narrador no adelanta el futuro) y revisar saltos de POV. Palabras liberadas **sin cuotas** (§J): el 15–20 % del 30 es la referencia del dictamen, no una meta.
 6. **Estado de los capítulos:** los nueve están en **BORRADOR**. La cirugía no los sube de estado: siguen BORRADOR hasta que el autor los lea. No hay CLOSE en este encargo.
 7. **Lo estructural** (poda del 30, plan contra Varek, cronología 26–31) está autorizado por el dictamen **sólo como propuesta**: se mapea en AUDIT, el autor decide en E4 y se ejecuta en SURGERY. Si aparece otro problema estructural no previsto (motivación rota, un arco que hay que reordenar), se reporta y no se opera.
@@ -43,7 +43,7 @@
 | 33 | `33_Mas_De_La_Cuenta.md` | Funciona y es útil | MEDIA | 3,720 | Compactar Kenji/Marisol: química y respeto, no miniromance |
 | 34 | `34_Mi_Pareja.md` | Muy sólido | MÍNIMA | 1,529 | Calibración fina de la transición Marisol → compromiso |
 
-Todos están en `11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/`. Prioridad: **alta** 30; **media-alta** 26, 28, 31, 33; **media** 29; **ligera** 27, 32; **mínima** 34.
+Todos están en `11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/`. Prioridad: **alta** 30; **media-alta** 26, 28, 31, 33; **media** 29; **ligera** 27, 32; **mínima** 34.
 
 **Columna que se protege (Hallazgo 2):** 28 descubren el problema ("No vuelvas a hacer algo así sola." / "No me digas qué puedo hacer." / "No era una orden." / "Sonó como una.") → 29 Kal abre ruta y ella decide tomarla → 30 lo vuelven sistema → 33 lo aplican a otros ("La suficiente para preocuparme. No la suficiente para escoger por ella.") → 34 compromiso sin control. **Se protegen los beats y se quitan las glosas que los traducen.**
 
@@ -163,7 +163,7 @@ Todos están en `11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_
 
 ## Etapa 8 — SURGERY de los Caps. 33 y 34, y housekeeping documental
 
-**Lee:** del mapa, la tabla de estado, § Decisiones y §1 y §4 del 33 y el 34. Los dos capítulos completos. Para el housekeeping, **sólo por búsqueda**: "río norte" y "lago", la mecánica de H6 en `06_Relationships/Hitos.md` y las fichas, "La Construcción" en `00_Book_Map.md` y `01_Timeline/`, "cierre de Parte II", "dos días" en `01_Timeline/02_Libro_01_Seda_y_Polvora.md`.
+**Lee:** del mapa, la tabla de estado, § Decisiones y §1 y §4 del 33 y el 34. Los dos capítulos completos. Para el housekeeping, **sólo por búsqueda**: "río norte" y "lago", la mecánica de H6 en `06_Relationships/Hitos.md` y las fichas, "La Construcción" en `00_Book_Map.md` y `01_Timeline/`, "cierre de Parte II", "dos días" en `01_Timeline/02_Libro_01_Mascaras_De_Cristal.md`.
 **Hace:**
 - `git diff --stat` como en E5. Aplica lo aprobado para 33 y 34, con nota de cirugía (siguen BORRADOR).
 - **Housekeeping documental** (sin prosa): corrige, con Edit puntual, las referencias viejas de la lista del dictamen. Cuando haya contradicción de canon y no de simple desfase, **no sobrescribe**: la anota en el mapa para el autor.

@@ -10,7 +10,12 @@
 
 ## Títulos oficiales
 
-1. **Seda y Pólvora**
+> **CANON DEL AUTOR — 2026-09-27.** ***Seda y Pólvora* es el nombre de la saga completa**, no el del Libro I: nombra el motor de toda la historia (seda = Chiara, relato; pólvora = Kal, territorio) y alcanza también al ciclo de Elenna. El Libro I pasa a llamarse **Máscaras de Cristal**, en la misma forma "X de Y" que los demás títulos. Las menciones de *Seda y Pólvora* como Libro I anteriores a esta fecha (supersesiones, sesiones, archivo, dictámenes de `13_Auditorias/`) se refieren a *Máscaras de Cristal*; no se reescriben. Para el ciclo de Elenna queda guardada la palabra *Entropía* como idea (PENDIENTE, ver [[07_Ideas/Entropia_Ciclo_Elenna]]).
+
+**Saga:** *Seda y Pólvora*
+
+
+1. **Máscaras de Cristal**
 2. **Sombras de Poder** *(working title)*
 3. **Voto de Ceniza**
 4. **Cuentas de Sangre**
@@ -43,7 +48,7 @@ Cada libro debe crear el conflicto del siguiente. No se introducen antagonistas 
 
 ---
 
-# LIBRO I — SEDA Y PÓLVORA
+# LIBRO I — MÁSCARAS DE CRISTAL
 
 ## Función
 
@@ -113,7 +118,7 @@ El libro cierra con el reencuentro de Kal y Chiara tras la liberación inexplica
 
 Sin explicación de la liberación, sin abrazo, sin "volví" — el *"Ciao, bella"* es el cierre. Todo lo que sigue (la respuesta de Chiara, la reconciliación completa, el asesinato de Tommaso esa misma tarde) abre *Sombras de Poder*.
 
-> **FIN DE SEDA Y PÓLVORA.**
+> **FIN DE MÁSCARAS DE CRISTAL.**
 
 Estado de salida:
 
@@ -132,13 +137,13 @@ Estado de salida:
 
 **Ascenso criminal, consolidación de poder y prueba de la unión entre Kal y Chiara.**
 
-*Seda y Pólvora* narró cómo se encuentran, se eligen y descubren que funcionan juntos. *Sombras de Poder* narra qué ocurre cuando esa fórmula empieza a funcionar demasiado bien y convierte a Kal en un actor real del mundo criminal de San Aurelio.
+*Máscaras de Cristal* narró cómo se encuentran, se eligen y descubren que funcionan juntos. *Sombras de Poder* narra qué ocurre cuando esa fórmula empieza a funcionar demasiado bien y convierte a Kal en un actor real del mundo criminal de San Aurelio.
 
 El eje principal del volumen es:
 
 > **el ascenso de Kal Mercer dentro del poder criminal de San Aurelio y cómo ese crecimiento pone a prueba tanto a Kal y Chiara individualmente como a su relación.**
 
-La trama criminal tiene aquí mayor centralidad que en *Seda y Pólvora*.
+La trama criminal tiene aquí mayor centralidad que en *Máscaras de Cristal*.
 
 ## Pregunta del libro
 
@@ -176,7 +181,7 @@ La pregunta no es `¿van a seguir juntos?` — la regla de permanencia continúa
 
 > **¿cómo permanecen juntos cuando cada uno empieza a tener responsabilidades, secretos, gente y decisiones que el otro no controla?**
 
-La tensión introducida por F1 en *Seda y Pólvora* no desaparece mágicamente: evoluciona. Tema subyacente importante:
+La tensión introducida por F1 en *Máscaras de Cristal* no desaparece mágicamente: evoluciona. Tema subyacente importante:
 
 > **amar al otro no concede jurisdicción sobre sus decisiones.**
 
@@ -600,7 +605,7 @@ Elenna viviendo con ellos como hija, no como heredera.
 
 | Libro | Creencia de entrada | Fractura | Aprendizaje |
 |---|---|---|---|
-| **Seda y Pólvora** | Estar a salvo significa no necesitar a nadie | Chiara y Camp Alder convierten pertenencia en necesidad real | **Tengo un lugar al cual volver.** |
+| **Máscaras de Cristal** | Estar a salvo significa no necesitar a nadie | Chiara y Camp Alder convierten pertenencia en necesidad real | **Tengo un lugar al cual volver.** |
 | **Sombras de Poder** | Puedo seguir siendo el hombre que resuelve problemas uno por uno, sin volverme el centro de nada | El ascenso lo convierte en jefe reconocido; H1 pone en riesgo perderlo todo justo cuando más tiene que perder | **Ser el centro de todo también puede costarme todo.** |
 | **Voto de Ceniza** | Proteger significa mantener a todos bajo alcance y decidir el riesgo | Elenna, H22, Héctor y Santa Lucía demuestran el límite del control | **No puedo salvarlos a todos sosteniéndolos.** |
 | **Cuentas de Sangre** | Si soy indispensable, el sistema y los míos estarán seguros | Meridian convierte su centralidad en jaula | **Si todo necesita que yo esté, construí una prisión.** |
@@ -618,7 +623,7 @@ O, en su herida más profunda:
 
 | Libro | Movimiento emocional | Fractura | Resolución parcial |
 |---|---|---|---|
-| **Seda y Pólvora** | Elegir quedarse y construir pertenencia | Matteo y Fabrizio se alejan; Kal cae preso en Camp Alder | **Lo que ama puede desaparecer — y aun así, Kal vuelve.** |
+| **Máscaras de Cristal** | Elegir quedarse y construir pertenencia | Matteo y Fabrizio se alejan; Kal cae preso en Camp Alder | **Lo que ama puede desaparecer — y aun así, Kal vuelve.** |
 | **Sombras de Poder** | Reconocer antes que Kal qué estructura está naciendo y ayudarlo a sobrevivir de todos modos | Mei-Lin muere, Riley es desterrada, Kal casi no vuelve en H1 | **Ayudarlo a sobrevivir también puede convertirlo en lo que ella conoce el precio de ser.** |
 | **Voto de Ceniza** | Proteger aquello que ama aunque implique ausencia | Debe hacer desaparecer públicamente a Elenna y vivir lejos de ella | **A veces amar exige aceptar una ausencia que ella misma provoca.** |
 | **Cuentas de Sangre** | Rechazar que ausencia, apellido o institución decidan su vida | Il Consorzio intenta definir su pertenencia | **La salida consiste en terminar la ausencia, no en heredar una corona.** |
@@ -629,7 +634,7 @@ O, en su herida más profunda:
 
 | De | Hacia | Bisagra |
 |---|---|---|
-| **Seda y Pólvora** | **Sombras de Poder** | Reencuentro tras Camp Alder ("Ciao, bella") + reconciliación completa + asesinato de Tommaso esa misma tarde + arranque de la organización de Kal (Ren Wei) |
+| **Máscaras de Cristal** | **Sombras de Poder** | Reencuentro tras Camp Alder ("Ciao, bella") + reconciliación completa + asesinato de Tommaso esa misma tarde + arranque de la organización de Kal (Ren Wei) |
 | **Sombras de Poder** | **Voto de Ceniza** | Primer choque abierto asociado a la presión de Dario + H1 + embarazo revelado + llegada física de Halbrook a San Aurelio |
 | **Voto de Ceniza** | **Cuentas de Sangre** | Dario preso + montaña + Santa Lucía + Kal sentencia a Halbrook + Corrado vivo |
 | **Cuentas de Sangre** | cierre de saga | Halbrook ejecutado provoca Meridian; vacío de Dario activa Consorzio; Kal/Chiara vuelven reemplazable su poder y salen hacia Elenna |

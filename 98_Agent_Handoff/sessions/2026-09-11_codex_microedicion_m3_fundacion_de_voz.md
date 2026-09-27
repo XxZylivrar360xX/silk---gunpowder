@@ -31,7 +31,7 @@ La cirugía estructural de Parte I y la continuidad se consideran cerradas por i
 
 ### C01.1 — La patrulla al salir del Departamento
 
-**Archivo:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]]
+**Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]]
 
 **Antes:**
 > una patrulla que salió demasiado rápido para no tener prisa.
@@ -47,7 +47,7 @@ La cirugía estructural de Parte I y la continuidad se consideran cerradas por i
 
 ### C01.2 — La sonrisa de Matteo
 
-**Archivo:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]]
+**Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/01_Un_Hombre_De_Negocios_Intachable]]
 
 **Antes:**
 > Matteo sonrió como si esa respuesta le hubiera confirmado algo que venía a buscar.
@@ -63,7 +63,7 @@ La cirugía estructural de Parte I y la continuidad se consideran cerradas por i
 
 ### C02.1 — La ciudad que se corrige
 
-**Archivo:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo]]
+**Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo]]
 
 **Antes:**
 > En cada transición quedaba alguien trabajando para que el cambio pareciera natural.
@@ -83,7 +83,7 @@ Continúa directamente con «—El casino está listo —dijo Matteo».
 
 ### C02.2 — La salida que Cole encuentra
 
-**Archivo:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo]]
+**Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo]]
 
 **Antes:**
 > Cole no discutió. Chiara agradeció eso antes de preguntarse por qué. Un hombre menos listo habría confundido la frase con invitación a empujar. Cole la leyó como pared y buscó la puerta.
@@ -99,7 +99,7 @@ Continúa directamente con «—El casino está listo —dijo Matteo».
 
 ### C03.1 — Héctor junto a Walt
 
-**Archivo:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias]]
+**Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias]]
 
 **Antes:**
 > y le puso la mano en el hombro sin decir nada — el mismo gesto que sabía hacer sin que hiciera falta ensayarlo.
@@ -115,7 +115,7 @@ Continúa directamente con «—El casino está listo —dijo Matteo».
 
 ### C03.2 — Blake como imitación
 
-**Archivo:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias]]
+**Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/03_Los_Viejos_Dias]]
 
 **Antes:**
 > Blake no era eso, pero podía servir de imitación barata. Y a veces una imitación barata alcanzaba para pasar la noche.

@@ -1,6 +1,6 @@
 # El chico del Patio — primer roce Kal/Chiara, semilla de escena
 
-*Los hechos ya son canon — ejecutados en el Capítulo 12 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/12_Roma_Atrii]]), como tercera parte del capítulo. **Placement corregido (2026-08-26):** ocurre semanas después de H2-b / Capítulo 6, no antes — se confirmó no insertar este beat entre capítulos ya escritos. Ubicado como beat 13-b en [[01_Timeline/01_Primer_Borrador_Beats]]. Este archivo queda como boceto de referencia; la versión final está en el capítulo.*
+*Los hechos ya son canon — ejecutados en el Capítulo 12 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/12_Roma_Atrii]]), como tercera parte del capítulo. **Placement corregido (2026-08-26):** ocurre semanas después de H2-b / Capítulo 6, no antes — se confirmó no insertar este beat entre capítulos ya escritos. Ubicado como beat 13-b en [[01_Timeline/01_Primer_Borrador_Beats]]. Este archivo queda como boceto de referencia; la versión final está en el capítulo.*
 
 ---
 

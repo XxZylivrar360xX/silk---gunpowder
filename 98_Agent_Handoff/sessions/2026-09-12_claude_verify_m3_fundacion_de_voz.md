@@ -21,7 +21,7 @@ Sin decisiones DUDOSA — DECISIÓN DEL AUTOR: los seis casos se resolvieron con
 
 ## Ejecución (encargo de seguimiento del autor)
 
-Restaurada únicamente C02.1 en [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo]]: «Chiara no creyó en nada natural.» vuelve como párrafo propio, inmediatamente después de «En cada transición quedaba alguien trabajando para que el cambio pareciera natural.» y antes de «—El casino está listo —dijo Matteo.»
+Restaurada únicamente C02.1 en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/02_Demasiado_Listo]]: «Chiara no creyó en nada natural.» vuelve como párrafo propio, inmediatamente después de «En cada transición quedaba alguien trabajando para que el cambio pareciera natural.» y antes de «—El casino está listo —dijo Matteo.»
 
 Verificado tras el cambio:
 - la frase aparece una sola vez, en su posición original;

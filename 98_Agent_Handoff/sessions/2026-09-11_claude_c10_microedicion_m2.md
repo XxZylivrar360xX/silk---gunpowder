@@ -1,6 +1,6 @@
 # C10 — Microedición global bloque M2 (2026-09-11, Claude Code)
 
-Encargo: MICROEDICIÓN GLOBAL — BLOQUE M2 sobre [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/10_El_Corral]], tras M1 aprobado y M1.5 (no restaurar material de C07 ni "brazos hasta el codo" de C10). Objetivo único: confiar en la acción cuando la acción ya hizo el trabajo, sin secar el capítulo ni tocar estructura, canon o diálogos.
+Encargo: MICROEDICIÓN GLOBAL — BLOQUE M2 sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/10_El_Corral]], tras M1 aprobado y M1.5 (no restaurar material de C07 ni "brazos hasta el codo" de C10). Objetivo único: confiar en la acción cuando la acción ya hizo el trabajo, sin secar el capítulo ni tocar estructura, canon o diálogos.
 
 ## Resumen
 

@@ -17,7 +17,7 @@ El autor ha redefinido la cronología del arco temprano de Cole Mercer y Chiara 
 La información más reciente de este documento **supersede** las posiciones antiguas incompatibles de:
 
 - `06_Relationships/Hitos.md`
-- `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`
+- `11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map.md`
 - `01_Timeline/00_Estructura_del_Ascenso.md`
 - `01_Timeline/01_Primer_Borrador_Beats.md`, sólo si contiene referencias directas incompatibles
 - `06_Relationships/Cole_y_Chiara.md`
@@ -49,7 +49,7 @@ Antes de editar:
 3. leer `98_Agent_Handoff/CURRENT_BRIEF.md`;
 4. leer `06_Relationships/Hitos.md`;
 5. leer `06_Relationships/Cole_y_Chiara.md`;
-6. leer `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`;
+6. leer `11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map.md`;
 7. consultar timeline/ascenso sólo para corregir referencias afectadas.
 
 No leer `log.md` completo.
@@ -982,7 +982,7 @@ Los IDs existentes H2/H3/H4/H5/etc. NO se renumeran para hacerlos cronológicos.
 
 ---
 
-## B. `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`
+## B. `11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map.md`
 
 Actualizar sólo lo necesario.
 
@@ -1285,7 +1285,7 @@ Mostrar:
 ```bash
 git diff --stat
 git diff -- 06_Relationships/Hitos.md
-git diff -- 11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md
+git diff -- 11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map.md
 ```
 
 Para otros archivos, resumen de cambios; no inundar el chat con miles de líneas.

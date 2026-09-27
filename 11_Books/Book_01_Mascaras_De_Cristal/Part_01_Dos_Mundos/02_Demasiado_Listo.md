@@ -4,7 +4,7 @@ Protagonistas: Chiara Bellandi, Kal Mercer.
 Ventana temporal: Fase 0, domingo, misma tarde-noche del Capitulo 1; ocurre H2.
 Lugares: Kingsley Field, carreteras del norte de San Aurelio, The Monarch Casino & Hotel, Almendra Towing.
 Funcion: dar a Chiara entrada propia, presentar a Fabrizio, Tommaso y Dario, la reunion interna sin Kal, el primer apreton de manos, el rechazo por "demasiado listo" y el cierre paralelo de radar mutuo.
-Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_01-03.md (seccion 9). Canon del autor: Chiara administraba casinos de Il Consorzio en Nueva York antes de San Aurelio; Il Consigliere la llama signora Ardizzone (institucion); entre sus aliados, el unico que naturalmente la llama Ardizzone es Fabrizio, por la amistad de infancia; la sala del Monarch queda en POV de Kal hasta que el sale, y despues pasa a Chiara.
+Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_01-03.md (seccion 9). Canon del autor: Chiara administraba casinos de Il Consorzio en Nueva York antes de San Aurelio; Il Consigliere la llama signora Ardizzone (institucion); entre sus aliados, el unico que naturalmente la llama Ardizzone es Fabrizio, por la amistad de infancia; la sala del Monarch queda en POV de Kal hasta que el sale, y despues pasa a Chiara.
 -->
 
 # Capítulo 2 — Demasiado listo

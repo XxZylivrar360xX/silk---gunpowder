@@ -139,7 +139,7 @@ No inferirlos mediante `glob` como fuente principal.
 Usar los paths vigentes en `develop`:
 
 ```text
-11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/
+11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/
 ```
 
 y los capítulos numerados 01 a 10 actualmente existentes.

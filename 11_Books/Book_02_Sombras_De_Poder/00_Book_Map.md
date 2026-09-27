@@ -2,9 +2,9 @@
 
 *Mapa narrativo operativo. Libro II de la saga (working title).*
 
-> **CANON DEL AUTOR (2026-09-22).** Este libro se inserta entre *Seda y Pólvora* (Libro I) y
+> **CANON DEL AUTOR (2026-09-22).** Este libro se inserta entre *Máscaras de Cristal* (Libro I) y
 > *Voto de Ceniza* (ahora Libro III). Absorbe el material que del 2026-09-20 al 2026-09-21
-> vivió como Partes IV-VI internas de *Seda y Pólvora* (`Nieve y Ceniza`, `Exilio`,
+> vivió como Partes IV-VI internas de *Máscaras de Cristal* (`Nieve y Ceniza`, `Exilio`,
 > `Torna a Casa`), ahora sus propias Partes I-III. Deriva de
 > [[00_Biblia/00_Trilogy_Structure]] y de [[01_Timeline/03_Libro_02_Sombras_De_Poder]], que
 > contiene el desarrollo Parte por Parte con todo el detalle de diseño ya fijado. **Estado:
@@ -90,7 +90,7 @@ Desarrollo completo, Parte por Parte, en [[01_Timeline/03_Libro_02_Sombras_De_Po
 
 Sin capítulos escritos todavía. El Cap. 45 (apertura de la Parte I de este libro) está
 planeado capítulo a capítulo — sin redactar — en
-[[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]], que cubre el
+[[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]], que cubre el
 tramo 39-45 aunque el 45 en adelante pertenezca ya a este libro. Carpetas de Partes creadas
 (`Part_01_Nieve_Y_Ceniza/`, `Part_02_Exilio/`, `Part_03_Torna_A_Casa/`), vacías.
 
@@ -103,4 +103,4 @@ Candelaria, cobro de la mentira de H8.
 
 ---
 
-Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[01_Timeline/03_Libro_02_Sombras_De_Poder]] · [[06_Relationships/Hitos]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[11_Books/README]]
+Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[01_Timeline/03_Libro_02_Sombras_De_Poder]] · [[06_Relationships/Hitos]] · [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] · [[11_Books/README]]

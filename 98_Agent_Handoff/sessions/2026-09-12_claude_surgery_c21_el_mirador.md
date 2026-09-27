@@ -4,7 +4,7 @@
 
 ## Hallazgo inicial
 
-Antes de tocar una sola línea, se leyó el capítulo completo ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/21_El_Mirador]]) y su comentario de cabecera. El comentario y `CURRENT_BRIEF.md` (entradas del 2026-09-10, bajo "REVISIÓN EDITORIAL CAP. 21") documentan que **la totalidad de la cirugía pedida en este encargo ya fue ejecutada el 2026-09-10** por Claude Code, con las mismas decisiones autorales que trae este encargo (conservar núcleo de seguridad, no invertir drift, no tocar Hitos.md más allá de la sincronización documental ya hecha entonces).
+Antes de tocar una sola línea, se leyó el capítulo completo ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21_El_Mirador]]) y su comentario de cabecera. El comentario y `CURRENT_BRIEF.md` (entradas del 2026-09-10, bajo "REVISIÓN EDITORIAL CAP. 21") documentan que **la totalidad de la cirugía pedida en este encargo ya fue ejecutada el 2026-09-10** por Claude Code, con las mismas decisiones autorales que trae este encargo (conservar núcleo de seguridad, no invertir drift, no tocar Hitos.md más allá de la sincronización documental ya hecha entonces).
 
 Se contrastó línea por línea cada instrucción del encargo contra la prosa vigente. Resultado: **cero intervenciones nuevas requeridas.** El archivo en disco (rama `develop`, árbol limpio al inicio de la sesión) ya cumple todos los puntos.
 

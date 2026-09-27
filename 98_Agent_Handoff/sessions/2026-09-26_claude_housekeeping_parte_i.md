@@ -1,6 +1,6 @@
 # 2026-09-26 — Housekeeping de metadata, Parte I (Claude Code)
 
-Primer paso de la ejecución de [[13_Auditorias/Book_01_Seda_y_Polvora/Auditoria_Editorial_Part_01]]. **Sólo metadata y documentación; cero cambios de prosa.**
+Primer paso de la ejecución de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_01]]. **Sólo metadata y documentación; cero cambios de prosa.**
 
 ## Verificación del dictamen
 

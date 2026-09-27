@@ -1,6 +1,6 @@
 # 2026-09-26 — Claude Code (Opus 5.5) — Evaluación de arco del Libro I
 
-**Resultado:** [[13_Auditorias/Book_01_Seda_y_Polvora/Evaluacion_Arco_Libro_I]]. Diagnóstico: el Cap. 44 cobra cosas que la Parte I no sembró (Halbrook y Camp Alder ausentes hasta el 27; "Ciao, bella" sólo en el 35; la Beretta sin sembrar; Matteo ausente del 6 al 34). Propone tres hilos: A (páginas cerradas), B (el pasado de Kal que vuelve), C (las puertas de Chiara).
+**Resultado:** [[13_Auditorias/Book_01_Mascaras_De_Cristal/Evaluacion_Arco_Libro_I]]. Diagnóstico: el Cap. 44 cobra cosas que la Parte I no sembró (Halbrook y Camp Alder ausentes hasta el 27; "Ciao, bella" sólo en el 35; la Beretta sin sembrar; Matteo ausente del 6 al 34). Propone tres hilos: A (páginas cerradas), B (el pasado de Kal que vuelve), C (las puertas de Chiara).
 
 **Decisiones del autor:** C aprobado. A con dirección del autor (la necesidad de contarse frenada por la protección, justificada por situaciones vividas). B con idea del autor: Anya Voronina en un recuerdo de rotación y de paso en la ciudad antes del final del libro. Detalle en la sección 5-bis del documento.
 
@@ -29,7 +29,7 @@
 
 ## Arranque para la siguiente sesión
 
-Leer sólo: esta nota, [[13_Auditorias/Book_01_Seda_y_Polvora/Evaluacion_Arco_Libro_I]] (secciones 5-ter a 5-quinquies) y [[12_Craft_Policies/voice/Chiara_Bellandi]] (regla "Ciao, tesoro").
+Leer sólo: esta nota, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Evaluacion_Arco_Libro_I]] (secciones 5-ter a 5-quinquies) y [[12_Craft_Policies/voice/Chiara_Bellandi]] (regla "Ciao, tesoro").
 
 Orden sugerido:
 1. **"Ciao, tesoro" en la Parte I** (3–4 siembras): Matteo, Nadir, valet o Mabel, y una escena donde Kal oiga que ella se lo dice a otro. Leer la escena completa antes de insertar. A Héctor siempre "Héctor".
@@ -92,10 +92,10 @@ Prosa BORRADOR, registrada en la metadata de cada capítulo:
 - **32:** tras la reapertura de la llantera, Héctor cuenta que el Tasador mandó preguntar quién arregló lo de Portillo y cuánto cobró. "Nada." "Al muchacho no le gustó la respuesta."
 - **37:** (1) en las consultas, el de la ferretería de la esquina: cuota subida "por la competencia"; Kal anota el día de cobro. (2) La escena de Danny abre con un tipo de fuera que pide coca para el barrio: "La muevo; no la vendo. Y en la Almendra, nunca." Apertura intacta; Ren Wei sigue sin introducirse.
 
-Ajustes: [[04_Concepts/Fe_y_Velas]] (regla nueva), [[02_Characters/Silas_Crowe]] (tabla de siembras), [[13_Auditorias/Book_01_Seda_y_Polvora/Evaluacion_Arco_Libro_I]] (5-quater B y 5-quinquies). H16 y la ficha de Héctor sin tocar por la opción (a). EPUB sin regenerar.
+Ajustes: [[04_Concepts/Fe_y_Velas]] (regla nueva), [[02_Characters/Silas_Crowe]] (tabla de siembras), [[13_Auditorias/Book_01_Mascaras_De_Cristal/Evaluacion_Arco_Libro_I]] (5-quater B y 5-quinquies). H16 y la ficha de Héctor sin tocar por la opción (a). EPUB sin regenerar.
 
 **Idea nueva del autor, diseñada (sin prosa):** Nadir toma dinero del fondo del Patio para una moto sin avisar; Kal, decepcionado y no enojado; se cobra en F1 (42). Ver 5-sexies de la evaluación y [[98_Agent_Handoff/BACKLOG]].
 
-**Adenda en [[13_Auditorias/Book_01_Seda_y_Polvora/Auditoria_Editorial_Part_01]]:** lo aplicado hoy en la Parte I, las siembras pendientes por capítulo con estado, lo que no se le suma al 25 y siete decisiones del autor que bloquean. La moto queda después del 17 (rima con "Avísenme. Aunque sepan que voy a decir que no").
+**Adenda en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_01]]:** lo aplicado hoy en la Parte I, las siembras pendientes por capítulo con estado, lo que no se le suma al 25 y siete decisiones del autor que bloquean. La moto queda después del 17 (rima con "Avísenme. Aunque sepan que voy a decir que no").
 
 **Siguiente:** revisión del autor de los tres beats. Quedan en 5-quater B: Nadir haciendo algo duro (F2), gesto de amistad Riley/Mei-Lin, ficha de Anya.

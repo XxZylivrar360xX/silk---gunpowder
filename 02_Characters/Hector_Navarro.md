@@ -78,7 +78,7 @@ Encaja con quién es: **es la única persona que quiere a Kal sin deberle nada**
 
 > **PENDIENTE (2026-08-31):** causa, posición exacta y consecuencias de su muerte durante la montaña, en *Voto de Ceniza* (Libro II), después de H22. No usarla sólo como escalón de violencia: debe cambiar una relación o estructura.
 
-> **RESUELTO (2026-08-26; renumerado 2026-08-29, dos veces):** el momento existe — [[06_Relationships/Hitos]], H10, **Capítulo 14** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/16_Cuatro_Letras]]). No fue tarde: fue en el hospital, después del infarto, cuando le dice a Kal que decidir de qué protege a Chiara no es suyo — es de ella.
+> **RESUELTO (2026-08-26; renumerado 2026-08-29, dos veces):** el momento existe — [[06_Relationships/Hitos]], H10, **Capítulo 14** ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/16_Cuatro_Letras]]). No fue tarde: fue en el hospital, después del infarto, cuando le dice a Kal que decidir de qué protege a Chiara no es suyo — es de ella.
 
 > **RESUELTO (2026-08-23):** no había colisión. El sanitario de Afganistán es **Michael Grayson** y su hija **Marisol Grayson**. *Héctor Duarte* es **otro personaje distinto, que el autor definirá después** — nombre reservado, no usar.
 
@@ -90,6 +90,6 @@ Ver también: [[02_Characters/Kal_Mercer]] · [[03_Factions/Almendra_Towing]] ·
 
 ## Camp Alder — CANON DEL AUTOR (2026-09-21)
 
-En la extracción de [[06_Relationships/Hitos#H19 — El asalto a Camp Alder|H19]], Garrett pilota y **Héctor es quien jala a Nadir adentro del helicóptero**, dejando a Kal en tierra porque Kal así lo decidió: simbólicamente lo abandona para salvar al muchacho. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
+En la extracción de [[06_Relationships/Hitos#H19 — El asalto a Camp Alder|H19]], Garrett pilota y **Héctor es quien jala a Nadir adentro del helicóptero**, dejando a Kal en tierra porque Kal así lo decidió: simbólicamente lo abandona para salvar al muchacho. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
 
-> **EJECUTADO EN PROSA (2026-09-22):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/43_La_Puerta|Cap. 43 — La puerta]]. Héctor no dice nada al jalar a Nadir dentro; sólo tira más fuerte cuando Nadir se resiste y se queda con una mano en el marco de la puerta mirando hacia atrás hasta que Kal le hace una señal para que suba. Sin discurso, sin disculpa.
+> **EJECUTADO EN PROSA (2026-09-22):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/43_La_Puerta|Cap. 43 — La puerta]]. Héctor no dice nada al jalar a Nadir dentro; sólo tira más fuerte cuando Nadir se resiste y se queda con una mano en el marco de la puerta mirando hacia atrás hasta que Kal le hace una señal para que suba. Sin discurso, sin disculpa.

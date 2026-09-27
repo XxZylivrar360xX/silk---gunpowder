@@ -1,9 +1,9 @@
 # AUDIT — Caps. 15–17 — `El portón` · `El sobre rojo` · `Cuentas claras`
 
 **Modo:** AUDIT (skill `editorial-surgery`). **No se tocó prosa.**
-**Fecha:** 2026-09-26. **Encargo:** primer lote de la Prioridad C del [[13_Auditorias/Book_01_Seda_y_Polvora/Auditoria_Editorial_Part_01|dictamen de Parte I]]. Matriz: 15 "Corto y funcional" (LIGERA); 16 "Buena fusión; revisar ritmo hospitalario con 15" (LIGERA); 17 "Construye aprendizaje de Kal y barrio" (LIGERA–MEDIA). Sólo protección y microedición. Además: adenda B, 5-ter (DISEÑO); Matteo y Fabrizio (APROBADO); hilo A (DISEÑO, no añadir ni podar), y los pendientes que dejó el [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_14_La_Regla_Del_Telefono|audit del 14]] (X2, X3, X4).
-**Archivos:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/15_El_Porton]], [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/16_El_Sobre_Rojo]] y [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/17_Cuentas_Claras]]. Las líneas corresponden a los archivos al 2026-09-26. **Prosa sin metadata:** 15 = **1,805**, 16 = **2,831**, 17 = **2,817** palabras.
-**Lectura:** los tres capítulos completos antes de marcar nada. **Cruces de pagos** (lección del 14, no sólo `11_Books/`): [[06_Relationships/Hitos]] (H10, §3-a), [[01_Timeline/02_Libro_01_Seda_y_Polvora]], [[13_Auditorias/Book_01_Seda_y_Polvora/Evaluacion_Arco_Libro_I]] §5-ter, las fichas de [[02_Characters/Walter_Keegan]], [[02_Characters/Nadir_Amrani]], [[02_Characters/Dario_Varek]], [[02_Characters/Matteo_Bellacorte]] y [[02_Characters/Fabrizio_Rinaldi]], y la prosa de los Caps. 18, 26, 32, 37, 38, 41 y 44.
+**Fecha:** 2026-09-26. **Encargo:** primer lote de la Prioridad C del [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_01|dictamen de Parte I]]. Matriz: 15 "Corto y funcional" (LIGERA); 16 "Buena fusión; revisar ritmo hospitalario con 15" (LIGERA); 17 "Construye aprendizaje de Kal y barrio" (LIGERA–MEDIA). Sólo protección y microedición. Además: adenda B, 5-ter (DISEÑO); Matteo y Fabrizio (APROBADO); hilo A (DISEÑO, no añadir ni podar), y los pendientes que dejó el [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_14_La_Regla_Del_Telefono|audit del 14]] (X2, X3, X4).
+**Archivos:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/15_El_Porton]], [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/16_El_Sobre_Rojo]] y [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/17_Cuentas_Claras]]. Las líneas corresponden a los archivos al 2026-09-26. **Prosa sin metadata:** 15 = **1,805**, 16 = **2,831**, 17 = **2,817** palabras.
+**Lectura:** los tres capítulos completos antes de marcar nada. **Cruces de pagos** (lección del 14, no sólo `11_Books/`): [[06_Relationships/Hitos]] (H10, §3-a), [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]], [[13_Auditorias/Book_01_Mascaras_De_Cristal/Evaluacion_Arco_Libro_I]] §5-ter, las fichas de [[02_Characters/Walter_Keegan]], [[02_Characters/Nadir_Amrani]], [[02_Characters/Dario_Varek]], [[02_Characters/Matteo_Bellacorte]] y [[02_Characters/Fabrizio_Rinaldi]], y la prosa de los Caps. 18, 26, 32, 37, 38, 41 y 44.
 **Estado de partida:** los tres están `TERMINADO` (15 sin fecha en cabecera; 16 y 17 aprobados el 2026-09-12 tras un CLOSE por lote). Operarlos es reabrirlos.
 
 ---
@@ -62,7 +62,7 @@ El 15 bajaría de 1,805 a ~1,320; el 16, de 2,831 a ~2,620, y el 17, de 2,817 a 
 
 ### C. 5-ter: el robo de la bodega (DISEÑO; necesita tu visto bueno)
 
-Veredicto de la [[13_Auditorias/Book_01_Seda_y_Polvora/Evaluacion_Arco_Libro_I|evaluación, 5-ter]], bloque por bloque:
+Veredicto de la [[13_Auditorias/Book_01_Mascaras_De_Cristal/Evaluacion_Arco_Libro_I|evaluación, 5-ter]], bloque por bloque:
 
 | # | Cap:línea | Bloque (5-ter) | Propuesta concreta | Palabras |
 |---|---|---|---|---|
@@ -231,7 +231,7 @@ Pregunta: *si saco este tramo, ¿otro ya hace su trabajo?*
 
 ## 6. Lo que no es de microedición
 
-- **A1 y C3 (cortar dos escenas)** cambian qué ve el lector. Son del 5-ter (DISEÑO) y requieren tu visto bueno. Las fichas que describen esa prosa quedarían desfasadas: [[02_Characters/Nadir_Amrani]] ("RESUELTO… escrito en Capítulo 15: Danny le trae a Nadir un rumor…"), [[03_Factions/La_Ronda_del_Canal]], [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] y la metadata del 15 y el 17. Se actualizan en la SURGERY, sin tocar canon.
+- **A1 y C3 (cortar dos escenas)** cambian qué ve el lector. Son del 5-ter (DISEÑO) y requieren tu visto bueno. Las fichas que describen esa prosa quedarían desfasadas: [[02_Characters/Nadir_Amrani]] ("RESUELTO… escrito en Capítulo 15: Danny le trae a Nadir un rumor…"), [[03_Factions/La_Ronda_del_Canal]], [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] y la metadata del 15 y el 17. Se actualizan en la SURGERY, sin tocar canon.
 - **La vuelta atrás del 16 (62)** y el orden de sus dos conversaciones son arquitectura de la fusión. No se tocan.
 - **Las flores de la carta (A7):** si quieres que Chiara las lleve, es prosa nueva.
 - **La redacción de M-a y de los dos toques de C3** es DISEÑO del agente hasta que la leas.
@@ -322,7 +322,7 @@ Pregunta: *si saco este tramo, ¿otro ya hace su trabajo?*
 | C15 | "…asintió despacio, como quien por fin entiende una regla…" | "…asintió despacio." | GLOSA | La lección, íntegra en diálogo |
 | C14 (D4a) | "…un café que él tampoco iba a terminar, y pensó, sin decírselo a nadie, que ojalá…" | "…un café que él tampoco iba a terminar." | 5-ter | Rima del café con 16:64 |
 
-**Colaterales (sin tocar canon):** cabeceras del 15, 16 y 17; notas de cirugía añadidas, sin borrar texto, en [[03_Factions/La_Ronda_del_Canal]], [[02_Characters/Nadir_Amrani]], [[02_Characters/Daniel_Hayes]] y [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] (Caps. 15 y 17).
+**Colaterales (sin tocar canon):** cabeceras del 15, 16 y 17; notas de cirugía añadidas, sin borrar texto, en [[03_Factions/La_Ronda_del_Canal]], [[02_Characters/Nadir_Amrani]], [[02_Characters/Daniel_Hayes]] y [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] (Caps. 15 y 17).
 
 **Incidente de ejecución (sin efecto final):** los dos cortes de bloque (A1 y C3) se hicieron con un script que verificaba los límites antes de escribir. El script pasó el 15 y el 17 de CRLF a LF. Se restauró CRLF y el diff contra `HEAD` contiene sólo las intervenciones de esta tabla. Los tres archivos coincidían con `HEAD` al empezar.
 

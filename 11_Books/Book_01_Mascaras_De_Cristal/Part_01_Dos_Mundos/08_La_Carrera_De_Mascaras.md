@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): "semanas atras" -> "dias atras" (Cap. 7); fuera el amanecer a las dos de la manana y la prolepsis de la Colombina ("No volvio a acordarse de ella"; queda disponible para reaparecer); fuera el parrafo "Esa semana... Recortado" (lo hace 21), "el reverso de la primera reunion" y "El camaleon perfecto" (palabra reservada a Kal); "Mandorla" leido desde Chiara (salto de POV). Siembra S3 (hilo B): la cerca de Camp Alder, una imagen, Kal no gira la cabeza. Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_08_18-24_Lote_B.md §9.
+Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): "semanas atras" -> "dias atras" (Cap. 7); fuera el amanecer a las dos de la manana y la prolepsis de la Colombina ("No volvio a acordarse de ella"; queda disponible para reaparecer); fuera el parrafo "Esa semana... Recortado" (lo hace 21), "el reverso de la primera reunion" y "El camaleon perfecto" (palabra reservada a Kal); "Mandorla" leido desde Chiara (salto de POV). Siembra S3 (hilo B): la cerca de Camp Alder, una imagen, Kal no gira la cabeza. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B.md §9.
 Protagonistas: Kal Mercer, Chiara Bellandi; Tyler Brooks como aparicion.
 Ventana temporal: dias despues del Capitulo 7 (la noche del ladrillo). Todavia son formalmente amigos; no hay primer beso.
 Lugares: Il Gelsomino (arranque), corredor comercial de salida al interior, La Tramoya (tienda de vestuario/utileria/mascaras), Kingsley Field y carreteras perimetrales / Carretera de Milla.
@@ -86,7 +86,7 @@ Adentro olía a naftalina y a cartón viejo. Había pelucas en cabezas de unicel
 
 Kal recorrió el panel de un vistazo y descolgó una máscara negra, lisa, de plástico mate, sin una sola línea que quisiera decir algo. Sin cejas dibujadas, sin boca, sin gesto. Una cara que no era una cara. Se la probó de espaldas al espejo, no de frente, y con eso le bastó: no buscaba parecer otro. Buscaba que no supieran quién era.
 
-Chiara fue más despacio. Pasó la mano por una hilera de antifaces simples, de esos que se atan con un cordón y no cubren más que los ojos, y no se detuvo en ninguno. Siguió hasta una máscara negra de media cara, con el borde superior levantado en dos curvas suaves sobre las cejas y una línea limpia bajando por el pómulo. Versión de tienda — el plástico se notaba, la pintura tenía un brillo barato en los bordes —, pero tenía forma. Cubría lo que había que cubrir y, aun así, alguien la había diseñado para que se viera bien.
+Chiara fue más despacio. Pasó la mano por una hilera de antifaces simples, de esos que se atan con un cordón y no cubren más que los ojos, y no se detuvo en ninguno. Siguió hasta una máscara negra de media cara, con el borde superior levantado en dos curvas suaves sobre las cejas y una línea limpia bajando por el pómulo. Versión de tienda — el plástico se notaba, la pintura tenía un brillo barato en los bordes—, pero tenía forma. Cubría lo que había que cubrir y, aun así, alguien la había diseñado para que se viera bien.
 
 Se la probó frente al espejo. Ésa.
 
@@ -114,7 +114,7 @@ Chiara hizo lo que sabía hacer en cualquier sala nueva: buscar quién mandaba. 
 
 Kal no se apartó. No la llevó del brazo por el estacionamiento como un premio ni la dejó sola contra el coche. Se quedó a su lado, con la bolsa de papel bajo el brazo, saludando a la gente que había que saludar sin soltar la conversación que estaba teniendo con ella.
 
-El de la sudadera resultó ser el que importaba. Llegó caminando, joven — de esos que parecen tener siempre sueño, tres conversaciones a medias y una salida trasera ya pensada —, y miró el Peugeot antes de mirar a Kal.
+El de la sudadera resultó ser el que importaba. Llegó caminando, joven — de esos que parecen tener siempre sueño, tres conversaciones a medias y una salida trasera ya pensada—, y miró el Peugeot antes de mirar a Kal.
 
 —El Peugeot. —Después levantó la vista—. Pensé que este mes no venías, Mac.
 

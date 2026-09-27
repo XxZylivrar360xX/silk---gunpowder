@@ -1,6 +1,6 @@
 <!--
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_c11_el_loft_del_soltero.md). Deuda de canon no bloqueante conservada: por que la familia Mercer dejo de poseer La Casa y si Chiara sabe durante el diseno que era la casa de los Mercer -- no afecta este estado, no resueltas.
-Cirugía editorial extraordinaria 2026-09-26 (autorizada por el autor, sigue TERMINADO): poda de glosas, salto de POV a Nadir, prolepsis, inventario de obra y regateos repetidos; la tercera visita queda sin luces ni lista de muebles; media línea nueva ancla el regreso al penthouse en la vigilancia de Dario. Ver 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_10_El_Loft_Del_Soltero.md §10.
+Cirugía editorial extraordinaria 2026-09-26 (autorizada por el autor, sigue TERMINADO): poda de glosas, salto de POV a Nadir, prolepsis, inventario de obra y regateos repetidos; la tercera visita queda sin luces ni lista de muebles; media línea nueva ancla el regreso al penthouse en la vigilancia de Dario. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_10_El_Loft_Del_Soltero.md §10.
 Protagonistas: Kal Mercer, Chiara Bellandi, Nadir Amrani.
 Ventana temporal: continúa directamente del Capítulo 9. Semanas en la casa común, después la recompra y el diseño de la casa.
 Lugares: Casa Comunitaria de La Almendra, La Casa (la vieja casa de los padres de Kal).

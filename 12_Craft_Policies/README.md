@@ -54,7 +54,7 @@ En caso de conflicto:
 1. Revisar el `00_Book_Map.md` del libro activo.
 2. Leer [[12_Craft_Policies/Redaccion_De_Capitulos]].
 3. Revisar `milestones/INDEX.md` si la escena depende de un hito ya fijado.
-4. Revisar `revelations/Book_01_Seda_y_Polvora.md` si la escena toca secretos, mentiras, rituales, pasado familiar, identidad o información retenida.
+4. Revisar `revelations/Book_01_Mascaras_De_Cristal.md` si la escena toca secretos, mentiras, rituales, pasado familiar, identidad o información retenida.
 5. Leer las fichas de voz de cada personaje que habla.
 6. Si la escena es diálogo emocional largo, repasar `dialogue_rules/`.
 7. Antes de cerrar, repasar `staging_rules/`: lugar, cuerpos, silencio, transición y costo físico/social.

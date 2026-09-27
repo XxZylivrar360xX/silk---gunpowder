@@ -212,4 +212,4 @@ Esas cuatro percepciones no deben ser idénticas.
 
 ---
 
-Ver también: [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[03_Factions/Departamento_de_Policia_de_San_Aurelio]] · [[04_Concepts/El_Territorio_y_El_Relato]] · [[06_Relationships/Hitos]]
+Ver también: [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] · [[03_Factions/Departamento_de_Policia_de_San_Aurelio]] · [[04_Concepts/El_Territorio_y_El_Relato]] · [[06_Relationships/Hitos]]

@@ -35,3 +35,5 @@ Markdown sigue siendo la fuente; una futura base de búsqueda deberá poder reco
 Durante la compactación otra sesión agregó el Cap. 40. También se conservaron íntegros [[98_Agent_Handoff/archive/2026-09-21_CURRENT_BRIEF_cap40]] y [[98_Agent_Handoff/archive/2026-09-21_PENDING_cap40]]. El relevo compacto incorpora ese avance y la discrepancia Tommaso/Alessio.
 
 - Bitácora al terminar esa sesión: [[98_Agent_Handoff/archive/log_hasta_2026-09-21_cap40]]. Conserva también el registro completo del Cap. 40.
+
+- [[98_Agent_Handoff/archive/2026-09_sesiones]]: enlaces retirados del registro reciente.

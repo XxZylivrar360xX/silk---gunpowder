@@ -28,7 +28,7 @@ Vivian heredó el fuego de Dario y representa la consecuencia viva de su lógica
 
 ## Destino post-trilogía — incubadora Libro 4/5 (2026-09-16, CANON DEL AUTOR)
 
-> **No afecta su presencia viva y activa durante *Seda y Pólvora*, *Voto de Ceniza* ni *Cuentas de Sangre*.** Este destino pertenece a la saga post-trilogía (*Juramento de Hierro* / *Camino a Casa*), todavía en incubadora — ver [[07_Ideas/Libro_04_Incubadora/README]].
+> **No afecta su presencia viva y activa durante *Máscaras de Cristal*, *Voto de Ceniza* ni *Cuentas de Sangre*.** Este destino pertenece a la saga post-trilogía (*Juramento de Hierro* / *Camino a Casa*), todavía en incubadora — ver [[07_Ideas/Libro_04_Incubadora/README]].
 
 Tras el homicidio de Vera Kessler ([[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]]), Dario le encarga a Vivian la crianza del niño responsable —**Dylan Marsh**, más adelante **Ethan Cole**— como limpieza de un cabo suelto de la organización, no como gesto de generosidad de Vivian. Ella no elige hacerse cargo al principio, pero con los años desarrolla un apego real por él.
 

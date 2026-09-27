@@ -11,10 +11,10 @@
 
 ## Reglas comunes a todas las etapas
 
-1. **Lectura mínima al arrancar:** este encargo completo; la tabla **"Estado de etapas"** del mapa (`13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_08_18-24_Lote_B.md`), si ya existe, y sólo las secciones del mapa que la etapa indique; la skill `editorial-surgery` y sus tres políticas (EDITORIAL_POLICY, DO_NOT_TOUCH y MICROEDICION). **No leer** START_HERE, el brief completo, `log.md` ni el dictamen entero. Del dictamen sólo hacen falta la matriz y la adenda B, que ya están resumidas aquí abajo.
+1. **Lectura mínima al arrancar:** este encargo completo; la tabla **"Estado de etapas"** del mapa (`13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B.md`), si ya existe, y sólo las secciones del mapa que la etapa indique; la skill `editorial-surgery` y sus tres políticas (EDITORIAL_POLICY, DO_NOT_TOUCH y MICROEDICION). **No leer** START_HERE, el brief completo, `log.md` ni el dictamen entero. Del dictamen sólo hacen falta la matriz y la adenda B, que ya están resumidas aquí abajo.
 2. **Verificar la etapa anterior:** si la tabla de estado no marca la etapa previa como hecha, detenerse y avisar al autor.
 3. **Capítulos:** leer completos sólo los de la etapa en curso. Los cruces de pagos se hacen **con búsquedas** (`rg`/Grep), sin abrir archivos enteros: `06_Relationships/`, `01_Timeline/`, `02_Characters/`, `03_Factions/`, `07_Ideas/`, los Book Maps y los Caps. 26–44. Es la lección del 14 con el imán: antes de proponer cortar un objeto, frase o gesto, buscar sus pagos fuera de la Parte I.
-4. **Formato:** el modelo es `13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_15-17.md`, pero **no leerlo entero**. Basta con §1 (tablas de candidatos), §3 (función por movimiento) y §9 (registro de SURGERY con before/after).
+4. **Formato:** el modelo es `13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17.md`, pero **no leerlo entero**. Basta con §1 (tablas de candidatos), §3 (función por movimiento) y §9 (registro de SURGERY con before/after).
 5. **Política:** Prioridad C = protección y microedición; no hay cirugía profunda sin una causa concreta. Aplicar §L (el narrador no adelanta el futuro) y revisar saltos de POV. Palabras liberadas **sin cuotas** (§J), pero siempre medidas y con su origen.
 6. **Archivos compartidos con la terminal A** (tabla de avance del dictamen, adenda B, `CURRENT_BRIEF.md`, `log.md` e `INDEX.md`): sólo se tocan en la **etapa 5**, releyéndolos justo antes, con Edit puntual y conservando los cambios ajenos. Si un script corta bloques, debe conservar los finales de línea **CRLF** (verificarlo al terminar).
 7. **Al cerrar cada etapa:** actualizar la tabla "Estado de etapas" del mapa, reportar al autor en 5–8 líneas y terminar con la línea de checkpoint que sugiere `/clear` o terminal nueva. **No encadenar la etapa siguiente.**
@@ -37,7 +37,7 @@
 | 23 | `23_La_Letra_Pequena.md` | Hilo legal funcional | LIGERA | 1,780 |
 | 24 | `24_Bajo_Juramento.md` | Tommaso gana importancia retroactiva | LIGERA–MEDIA | 2,239 |
 
-Todos están en `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/`. El dictamen prohíbe tocar el corazón de *El mirador*, eliminar *Tierra buena* y convertir a Tommaso en presagio obvio de muerte.
+Todos están en `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/`. El dictamen prohíbe tocar el corazón de *El mirador*, eliminar *Tierra buena* y convertir a Tommaso en presagio obvio de muerte.
 
 **Siembras de la adenda B para este lote:**
 
@@ -71,7 +71,7 @@ Todos están en `11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/`. El dictam
 
 ## Etapa 2 — AUDIT de los Caps. 21–24, consolidación y preguntas
 
-**Lee:** del mapa, la tabla de estado, §3 y § Decisiones (borrador). Los Caps. 21–24 completos. El **Cap. 44** (`Part_03_Ardizzone/44_A_Oscuras.md`, ~2,270 palabras) completo, sólo para S5. El ledger de revelaciones (`12_Craft_Policies/revelations/Book_01_Seda_y_Polvora.md`), sólo la sección de Tommaso, por búsqueda.
+**Lee:** del mapa, la tabla de estado, §3 y § Decisiones (borrador). Los Caps. 21–24 completos. El **Cap. 44** (`Part_03_Ardizzone/44_A_Oscuras.md`, ~2,270 palabras) completo, sólo para S5. El ledger de revelaciones (`12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal.md`), sólo la sección de Tommaso, por búsqueda.
 **Hace:**
 - Añade al mapa §1–§5 para 21–24, con la misma estructura de E1.
 - **S5:** propone el gesto o los gestos de la red de Chiara en el 23–24 que el 44 repite, citando las líneas del 44.

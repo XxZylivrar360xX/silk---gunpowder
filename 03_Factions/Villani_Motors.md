@@ -29,7 +29,7 @@ Es una compra limpia, no un favor con condiciones ni una jugada de poder. Encaja
 
 > **RESUELTO (2026-08-29, autor):** la escena de compra es un **juego de roles** — Kal y Chiara fingiendo ser desconocidos, él el vendedor —, cae en la **Parte I, poco antes de La noche del jacuzzi**, y se comenta esa misma noche en el jacuzzi. Antes se siembra que Kal compró el local del concesionario.
 
-> **ESCRITO (2026-09-09, catchup manual; falta revisión del autor).** La siembra previa quedó resuelta en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/24_Bajo_Juramento|Capítulo 24 — Bajo juramento]]: Kal entra a Villani Motors con participación minoritaria usando parte del dinero recuperado en el litigio civil por su antiguo concesionario. La escena de compra y el juego de roles del vendedor viven en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/25_Libros_Abiertos|Capítulo 25 — Libros abiertos]].
+> **ESCRITO (2026-09-09, catchup manual; falta revisión del autor).** La siembra previa quedó resuelta en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24_Bajo_Juramento|Capítulo 24 — Bajo juramento]]: Kal entra a Villani Motors con participación minoritaria usando parte del dinero recuperado en el litigio civil por su antiguo concesionario. La escena de compra y el juego de roles del vendedor viven en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Capítulo 25 — Libros abiertos]].
 
 > **PENDIENTE:** nombre de pila del dueño/representante de la familia Villani con quien Kal trata, si la escena necesita un personaje con cara y no solo un negocio de fondo. *(Puede que no haga falta: en la escena de compra, el "vendedor" es Kal.)*
 

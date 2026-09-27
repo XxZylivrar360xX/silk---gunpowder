@@ -33,7 +33,7 @@ Búsqueda de las siete expresiones solicitadas en Markdown del vault. `log.md` c
 - [[05_Locations/La_Villa]]
 - [[05_Locations/Iglesia_Santa_Lucia]]
 - [[12_Craft_Policies/Redaccion_De_Capitulos]]
-- [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] — sólo aviso.
+- [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] — sólo aviso.
 - [[01_Timeline/01_Primer_Borrador_Beats]] — aviso y etiqueta histórica de la nota.
 - [[INDEX]]
 - [[98_Agent_Handoff/START_HERE]]

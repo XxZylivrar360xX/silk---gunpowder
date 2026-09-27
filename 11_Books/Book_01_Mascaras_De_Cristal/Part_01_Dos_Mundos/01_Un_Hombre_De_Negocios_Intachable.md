@@ -4,7 +4,7 @@ Protagonistas: Kal Mercer, Chiara Bellandi.
 Ventana temporal: Fase 0, domingo; el dia en que llegan los socios del Monarch y ocurre H2.
 Lugares: La Almendra, Departamento de Policia de San Aurelio, Il Gelsomino, Lote Almendra, Cementerio Santa Lucia, La Esquina de Mabel, Casa Comunitaria de la Almendra.
 Funcion: instalar el dia normal de Kal, la carta de Walt, el acuerdo con Keene, Matteo Bellacorte como bisagra y la invitacion al Monarch. Continua en el Capitulo 2.
-Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Seda_y_Polvora/Audit_Caps_01-03.md (seccion 9). Incluye la siembra de los papeles de Nadir (formato del condado, Kal firma por el).
+Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_01-03.md (seccion 9). Incluye la siembra de los papeles de Nadir (formato del condado, Kal firma por el).
 -->
 
 # Capítulo 1 — Un hombre de negocios intachable

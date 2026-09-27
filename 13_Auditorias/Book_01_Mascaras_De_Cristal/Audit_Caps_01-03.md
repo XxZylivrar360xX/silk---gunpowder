@@ -1,8 +1,8 @@
 # AUDIT — Caps. 1–3 — `Un hombre de negocios intachable` · `Demasiado listo` · `Los viejos días`
 
 **Modo:** AUDIT (skill `editorial-surgery`). **No se tocó prosa.**
-**Fecha:** 2026-09-26. **Encargo:** Prioridad A del [[13_Auditorias/Book_01_Seda_y_Polvora/Auditoria_Editorial_Part_01|dictamen de Parte I]] + adenda A/B. Lectura completa de los tres antes de marcar.
-**Archivos:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable]] · [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/02_Demasiado_Listo]] · [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/03_Los_Viejos_Dias]]. Líneas según los archivos al 2026-09-26.
+**Fecha:** 2026-09-26. **Encargo:** Prioridad A del [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_01|dictamen de Parte I]] + adenda A/B. Lectura completa de los tres antes de marcar.
+**Archivos:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable]] · [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo]] · [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias]]. Líneas según los archivos al 2026-09-26.
 **Estado de partida:** los tres están en `Estado: TERMINADO` (tu declaración) y ya pasaron M3, M5 y CLOSE (2026-09-15). Operarlos es reabrirlos.
 
 ---

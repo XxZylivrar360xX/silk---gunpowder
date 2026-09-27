@@ -1,6 +1,6 @@
 # CLOSE C11 — El loft del soltero (2026-09-12, Claude Code, encargo del autor)
 
-Encargo: ejecutar exclusivamente el lifecycle CLOSE de [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/11_El_Loft_Del_Soltero]] y determinar si la prosa actual está madura para `LISTO PARA AUTOR`. Sin AUDIT, sin SURGERY, sin VERIFY, sin microedición, sin poda. Sin editar prosa salvo la línea de `Estado:`.
+Encargo: ejecutar exclusivamente el lifecycle CLOSE de [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/11_El_Loft_Del_Soltero]] y determinar si la prosa actual está madura para `LISTO PARA AUTOR`. Sin AUDIT, sin SURGERY, sin VERIFY, sin microedición, sin poda. Sin editar prosa salvo la línea de `Estado:`.
 
 ## Contexto de entrada
 

@@ -12,7 +12,7 @@
 **Territorio narrativo:** estaciones de bomberos, ambulancias, incendios, accidentes, escenas violentas una vez aseguradas, hospitales y emergencias urbanas de San Aurelio  
 **Padre:** [[02_Characters/Walter_Keegan|Walter "Walt" Keegan]]  
 **Hermano mayor:** [[02_Characters/Jim_Keegan|Jim Keegan]]  
-**Libros:** *Seda y Pólvora* (sólo la salida de Walt, [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Cap. 3]], ESCRITO BORRADOR 2026-09-26) · *Sombras de Poder* (personaje recurrente)  
+**Libros:** *Máscaras de Cristal* (sólo la salida de Walt, [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Cap. 3]], ESCRITO BORRADOR 2026-09-26) · *Sombras de Poder* (personaje recurrente)  
 **Estado:** viva
 
 ---
@@ -66,7 +66,7 @@ Cuando vuelve a verla, puede reconocerla inmediatamente y aun así necesitar un 
 
 ## La salida de Walt
 
-> **CANON DE DISEÑO (2026-09-26):** Natalie está presente cuando Walt recupera la libertad, junto con Kal y [[02_Characters/Hector_Navarro|Héctor Navarro]]. Es la que sí estuvo en su audiencia. En *Seda y Pólvora* ésta es su única aparición; su desarrollo pertenece a *Sombras de Poder*.
+> **CANON DE DISEÑO (2026-09-26):** Natalie está presente cuando Walt recupera la libertad, junto con Kal y [[02_Characters/Hector_Navarro|Héctor Navarro]]. Es la que sí estuvo en su audiencia. En *Máscaras de Cristal* ésta es su única aparición; su desarrollo pertenece a *Sombras de Poder*.
 
 Su presencia cambia la naturaleza de la escena.
 
@@ -86,7 +86,7 @@ Walt todavía no.
 
 Eso convierte los primeros momentos de libertad de Walt en algo emocionalmente incómodo: las personas que lo reciben saben que todavía falta decirle que su hijo murió en Afganistán.
 
-> **CANON DEL AUTOR (2026-09-26) — resolución de continuidad con el [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Capítulo 3]]:**
+> **CANON DEL AUTOR (2026-09-26) — resolución de continuidad con el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Capítulo 3]]:**
 >
 > 1. **Por qué calló.** Cuando Kal volvió a San Aurelio, hace cuatro años, le pidió a Natalie que le dejara decírselo a él: en persona y afuera, no detrás de un vidrio. Ella aceptó y guardó el silencio cuatro años, incluida la audiencia. En el cementerio, cuando Walt dice *"Nadie me lo dijo en diez años… el mundo entero menos yo"*, Natalie está a pocos metros y absorbe el golpe sin defenderse.
 > 2. **El día de la salida (ESCRITO, BORRADOR, 2026-09-26).** Natalie llega a la cárcel antes que Walt, y él la ve a ella primero. Se salta el café y el porche con un pretexto ("Entro a las seis. Cambié media guardia"). La razón real sólo se la dice a Kal: no puede pasar tres horas frente a Walt callándose lo de Jim. A las cuatro llega en su coche al cementerio y se queda junto a Kal, detrás de Walt. Cuando Walt se voltea, ella admite: *"Me pidió que se lo dejara a él. Y yo quise."* Después se va a su guardia.

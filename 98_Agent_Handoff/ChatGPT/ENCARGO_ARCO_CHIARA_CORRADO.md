@@ -1220,7 +1220,7 @@ Cuando el autor autorice integración, auditar al menos:
 - `02_Characters/Ettore.md`
 - `03_Factions/Il_Consorzio.md`
 - `06_Relationships/Hitos.md`
-- `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`
+- `11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map.md`
 - H13
 - H17
 - H18

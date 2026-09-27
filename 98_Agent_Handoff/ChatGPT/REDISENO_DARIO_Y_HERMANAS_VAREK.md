@@ -1226,7 +1226,7 @@ Cuando el autor apruebe migrar el rediseño:
 
 ### Estructura
 
-- `11_Books/Book_01_Seda_y_Polvora/00_Book_Map.md`
+- `11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map.md`
 
 ---
 

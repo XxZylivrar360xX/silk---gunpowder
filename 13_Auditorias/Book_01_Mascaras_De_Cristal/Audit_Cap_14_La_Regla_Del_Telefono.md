@@ -1,9 +1,9 @@
 # AUDIT — Cap. 14 — `La regla del teléfono`
 
 **Modo:** AUDIT (skill `editorial-surgery`). **No se tocó prosa.**
-**Fecha:** 2026-09-26. **Encargo:** último de la Prioridad B del [[13_Auditorias/Book_01_Seda_y_Polvora/Auditoria_Editorial_Part_01|dictamen de Parte I]] (matriz: "Necesario; camping puede compactarse", MEDIA): poda moderada de la aventura sin afectar la regla del teléfono, a Michael, la relación Kal/Marisol ni la llamada perdida final. Además: adenda B, rima 14↔44 (APROBADA) e hilo A (DISEÑO, no podar). Se leyó el capítulo completo antes de marcar nada. También se cruzaron el 13 (sección de Kal y cierre), el 12 en su versión operada (M9), el 15 (metadata y "Dos días antes"), el 16 (vuelta, hospital y trayecto con Chiara) y el 44 (la llamada a Kal).
-**Archivo:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono]]. Las líneas corresponden al archivo al 2026-09-26. La prosa tiene **2,855 palabras**, sin metadata.
-**Cruces:** [[12_Craft_Policies/revelations/Book_01_Seda_y_Polvora]] ("El dato del engaño investigativo"), [[12_Craft_Policies/voice/Marisol_Grayson]], [[02_Characters/Marisol_Grayson]], [[12_Craft_Policies/editorial/EDITORIAL_POLICY]] §L, [[13_Auditorias/Book_01_Seda_y_Polvora/Audit_Cap_12_Roma_Atrii]] §11.
+**Fecha:** 2026-09-26. **Encargo:** último de la Prioridad B del [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_01|dictamen de Parte I]] (matriz: "Necesario; camping puede compactarse", MEDIA): poda moderada de la aventura sin afectar la regla del teléfono, a Michael, la relación Kal/Marisol ni la llamada perdida final. Además: adenda B, rima 14↔44 (APROBADA) e hilo A (DISEÑO, no podar). Se leyó el capítulo completo antes de marcar nada. También se cruzaron el 13 (sección de Kal y cierre), el 12 en su versión operada (M9), el 15 (metadata y "Dos días antes"), el 16 (vuelta, hospital y trayecto con Chiara) y el 44 (la llamada a Kal).
+**Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono]]. Las líneas corresponden al archivo al 2026-09-26. La prosa tiene **2,855 palabras**, sin metadata.
+**Cruces:** [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]] ("El dato del engaño investigativo"), [[12_Craft_Policies/voice/Marisol_Grayson]], [[02_Characters/Marisol_Grayson]], [[12_Craft_Policies/editorial/EDITORIAL_POLICY]] §L, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_12_Roma_Atrii]] §11.
 **Estado de partida:** `Estado: TERMINADO` (aprobado 2026-09-12). Operarlo es reabrirlo.
 
 ---
