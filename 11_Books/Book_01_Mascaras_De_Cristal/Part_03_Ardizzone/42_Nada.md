@@ -23,7 +23,7 @@ El contrato de climatización consiguió su segunda firma al fin, de un proveedo
 
 Fabrizio contestó una sola llamada esos dos días, corta, correcta, y colgó antes de que hiciera falta. Chiara guardó eso donde guardaba todo lo que no tenía forma todavía.
 
-De Kal hubo lo mínimo: un mensaje sobre un proveedor que compartían, una llamada de cuatro minutos sobre nada que no fuera logística del casino, ningún "¿cómo estás" que no viniera envuelto en otra cosa. Ninguno de los dos había ido a buscar al otro. Chiara no había vuelto al loft. Kal no había subido al penthouse. Era, pensó Chiara una tarde sin decírselo a nadie, la primera vez en meses que pasaban tanto tiempo en la misma ciudad sin verse, y no había una palabra buena para nombrar esa distancia sin decir también lo que había pasado en Palermo.
+De Kal hubo lo mínimo: un mensaje sobre un proveedor que compartían, una llamada de cuatro minutos sobre nada que no fuera logística del casino, ningún "cómo estás" que no viniera envuelto en otra cosa. Ninguno de los dos había ido a buscar al otro. Chiara no había vuelto al loft. Kal no había subido al penthouse. Era, pensó Chiara una tarde sin decírselo a nadie, la primera vez en meses que pasaban tanto tiempo en la misma ciudad sin verse, y no había una palabra buena para nombrar esa distancia sin decir también lo que había pasado en Palermo.
 
 No la nombró. Siguió trabajando.
 

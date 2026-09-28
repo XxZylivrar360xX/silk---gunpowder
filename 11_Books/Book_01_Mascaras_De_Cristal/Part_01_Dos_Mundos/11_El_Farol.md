@@ -46,7 +46,7 @@ Mabel no levantó la vista de la cafetera.
 
 Eso sí la hizo mirarla.
 
-—¿Walt Keegan. En el Monarch. Jugando cartas.
+—Walt Keegan. En el Monarch. Jugando cartas.
 
 —Es lo que dice la lista.
 
@@ -184,7 +184,7 @@ Chiara se quitó los tacones antes de contestar.
 
 Kal se detuvo a medio camino de dejar la bolsa sobre la mesa.
 
-—¿Walt estuvo aquí.
+—Walt estuvo aquí.
 
 —Jugó. Ganó más de lo que perdió. —Se sentó, con los pies descalzos sobre el sofá frío—. Fui a preguntar por él a la Almendra antes de dejarlo sentarse a mi mesa.
 

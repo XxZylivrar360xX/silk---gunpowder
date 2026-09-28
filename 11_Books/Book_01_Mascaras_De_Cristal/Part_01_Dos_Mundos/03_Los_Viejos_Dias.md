@@ -514,7 +514,7 @@ Walt bajó la voz.
 
 —Está más chico.
 
-—El barrio?
+—¿El barrio?
 
 —No. Nosotros.
 
@@ -596,7 +596,7 @@ Kal chocó la botella con ellos.
 
 Walt miró hacia el taller.
 
-—Tú y tus niños?
+—¿Tú y tus niños?
 
 —Entre otros.
 
@@ -1046,7 +1046,7 @@ La frase habría sonado distinta en otra boca. En la de Blake era vanidad, no am
 
 Él miró hacia la plaza.
 
-—Hoy? Una ciudad con mala prensa.
+—¿Hoy? Una ciudad con mala prensa.
 
 —Eso ya lo tengo.
 

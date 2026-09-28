@@ -63,21 +63,21 @@ Después la miró de arriba abajo —la sudadera, la capucha, los pies descalzos
 
 —Kal.
 
-—¿Quién está mirando la calle.
+—Quién está mirando la calle.
 
 No fue una pregunta sobre la sudadera. Chiara tardó un segundo en darse cuenta de que no hacía falta explicarle lo demás; él ya lo había leído todo.
 
 —No lo sé —dijo—. Por eso hice esto.
 
-—¿Qué viste.
+—Qué viste.
 
 —Un coche. Dos veces. —Se levantó del banco donde llevaba horas sentada—. Lo vi cerca de El Patio hace dos días. Walt me dijo que ya lo había visto antes, ahí mismo. Anoche volví a verlo, o a uno igual, a media cuadra de aquí.
 
-—¿Cuándo apareció aquí.
+—Cuándo apareció aquí.
 
 —Anoche. Antes de que oscureciera del todo.
 
-—¿Era el mismo coche.
+—Era el mismo coche.
 
 —Creo que sí. No le vi la placa. Nadie se la ha visto nunca.
 
@@ -95,15 +95,15 @@ Fue a levantar el brazo para alcanzar el antiséptico en el estante de arriba y 
 
 Ella se detuvo con una mano todavía apoyada en la barra y se quedó ahí, sin dar el paso siguiente, mientras él se agachaba despacio, recogía la gasa del suelo, la tiraba y sacaba otra sin mirarla ni una vez. Ella, que llevaba media vida aprendiendo cuándo no acercarse, se lo dejó decidir.
 
-—¿Quién fue.
+—Quién fue.
 
 —Gente de antes. —Tiró la gasa nueva ya usada—. De una vida que yo creía cerrada y resulta que sólo estaba con llave. —Se apoyó con las dos manos en el borde del fregadero y bajó la cabeza un segundo—. Volvió a haber trabajo para mí. Del que no se dice que no.
 
-—¿Fuera de la ciudad.
+—Fuera de la ciudad.
 
 —Lejos. —Abrió y cerró la mano derecha, comprobándola.
 
-—¿Qué hiciste tú mientras yo no estaba —preguntó él, todavía sin volverse del todo.
+—Qué hiciste tú mientras yo no estaba —preguntó él, todavía sin volverse del todo.
 
 —Te busqué.
 
@@ -111,13 +111,13 @@ Ella se detuvo con una mano todavía apoyada en la barra y se quedó ahí, sin d
 
 Chiara no dijo nada, y ese silencio fue lo que lo hizo darse la vuelta por completo. La vio entonces: la bolsa de la cámara junto a la puerta, la correa colgando, y encima el sobre color hueso. Kal cruzó los dos pasos, lo cogió y lo sopesó en la mano antes de abrirlo.
 
-—¿Qué es esto.
+—Qué es esto.
 
 —Fotografías.
 
-—¿De qué.
+—De qué.
 
-—¿Quieres verlas primero o quieres que te cuente primero.
+—Quieres verlas primero o quieres que te cuente primero.
 
 —Las dos cosas.
 
@@ -125,15 +125,15 @@ Kal desdobló las copias sobre la barra, al lado del botiquín, y las miró una 
 
 Pasó a la segunda. Volvió a la primera. Le dio vuelta y leyó el reverso otra vez, más despacio que la primera. No corrigió un solo horario. No preguntó cómo había conseguido la placa.
 
-—¿Fuiste tú sola a tomar esto.
+—Fuiste tú sola a tomar esto.
 
 —Sí.
 
-—¿Dónde.
+—Dónde.
 
 —Cerca del bloque de los Bravos, al sur. —Mantuvo la voz plana—. Alguien empezó a preguntar demasiado por ti en el barrio mientras no estabas, y Walt vio un coche parado más tiempo del que debía. No quise esperar a que alguien más lo confirmara.
 
-—¿Por qué no mandaste a alguien.
+—Por qué no mandaste a alguien.
 
 —Porque yo sé hacerlo bien y no quería perder tiempo explicándoselo a nadie.
 
@@ -143,7 +143,7 @@ Kal dejó las fotos en la barra, alineadas, como si alinearlas fuera a cambiar a
 
 —No deberías haber sido tú.
 
-—¿Por qué no. Salieron bien.
+—Por qué no. Salieron bien.
 
 —Por eso mismo.
 
@@ -205,11 +205,11 @@ Le contó que lo había buscado. Que había preguntado en el casino hasta que la
 
 Kal se apoyó otra vez con las dos manos en el borde de la barra, como si necesitara algo sólido debajo.
 
-—¿Fuiste sola al taller del norte. A ver a Varek.
+—Fuiste sola al taller del norte. A ver a Varek.
 
 —Creía que te tenía él. —Lo dijo sin disculparse—. Estaba dispuesta a comprobar que respirabas.
 
-—¿Y qué te dijo.
+—Y qué te dijo.
 
 Chiara ordenó lo que iba a entregar y lo que no, rápido, como ordenaba siempre. Le dio lo del hospital contado a favor de Varek. Le dio que había sacado a relucir su pasado y que ella se había hecho la que no sabía nada. Le dio las palabras: *trabajas para mí, no conmigo.* Le dio *vas a aprender tu lugar.*
 

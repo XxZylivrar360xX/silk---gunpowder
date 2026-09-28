@@ -634,7 +634,7 @@ Del día 3 en adelante (Mesa, fotografía, Ettore, Halbrook, despedida) el capí
 | **A25** | 43:33 | "…condujo hacia **La Almendra**…" | "…condujo hacia **El Patio**…" | 0 | DUDOSA — aplicar: el loft ya está en La Almendra |
 | **A26** | 44:149 | "…a la que ya había **recurrido antes para anunciar a Kal**…" | "…**la misma que le había anunciado a Kal dos noches antes**…" | +2 | Aplicar: en el 42 (124–126) la recepción llamó a Chiara, no al revés |
 | — | 42:40 | Camioneta remolcada "hace unas semanas" | — | — | Protegida con nota: el 41 no fecha el sobre (41:70); sólo choca si el autor fija que llegó durante Palermo |
-| — | 44:75; 42:26 | "¿Cómo que no está ahí." / "¿cómo estás" | — | — | Protegidas: la pregunta plana con punto es convención del libro (19 casos en Partes I–II) |
+| — | 44:75; 42:26 | "¿Cómo que no está ahí." / "¿cómo estás" | — | — | Protegidas: la pregunta plana con punto es convención del libro (19 casos en Partes I–II). **Actualización 2026-09-27 (decisión del autor):** la pregunta plana se escribe ahora sin signos y con punto ("Cómo que no está ahí.", "cómo estás"); se retiró el "¿" suelto en 11:49, 11:187, 27:118, 28 (16 líneas), 42:26 y 44:75 |
 | — | 44:211 | "la isla que ella misma había ayudado a diseñar" | — | — | Protegida: paga 10:435 |
 
 ### B. Prolepsis y saltos de POV (§L)

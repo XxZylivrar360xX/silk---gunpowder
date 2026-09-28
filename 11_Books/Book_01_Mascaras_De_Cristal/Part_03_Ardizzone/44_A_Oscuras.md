@@ -72,7 +72,7 @@ A media tarde, el segundo abogado volvió a llamar, y esta vez su voz tenía alg
 
 —Señora Bellandi. Ya no está ahí.
 
-—¿Cómo que no está ahí.
+—Cómo que no está ahí.
 
 —Lo tuvieron unas horas. Después llegó una reclamación de jurisdicción y se lo llevaron. La municipal ya no tiene nada que decirnos. Legalmente, para ellos, esto ya no existió.
 

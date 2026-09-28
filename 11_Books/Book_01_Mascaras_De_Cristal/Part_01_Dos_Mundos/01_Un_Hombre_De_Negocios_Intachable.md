@@ -163,7 +163,7 @@ Kal miró el patio, las grúas, los coches que esperaban piezas.
 
 —Cuando vuelva se pone con eso. Turno nocturno, dos nombres buenos, papeles limpios. También llega a tiempo para nóminas.
 
-—Si no llega?
+—¿Si no llega?
 
 Kal volvió a tomar la pieza marcada.
 
@@ -839,7 +839,7 @@ Kal dejó una bolsa sobre la mesa del cuarto de atrás.
 
 —¿El nuevo?
 
-—Hay otro?
+—¿Hay otro?
 
 Nadir apoyó el hombro en la pared, con esa manera suya de parecer cómodo justo cuando estaba haciendo cuentas.
 

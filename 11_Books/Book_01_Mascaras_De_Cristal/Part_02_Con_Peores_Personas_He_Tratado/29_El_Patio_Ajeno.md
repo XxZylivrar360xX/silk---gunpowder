@@ -20,6 +20,7 @@ REESCRITURA PROFUNDA (2026-09-18, encargo explícito del autor) — cambia la ar
 - Línea canon preservada: "— Estás loco." (Chiara, al pasar, sin detenerse) — es el ÚLTIMO diálogo del capítulo.
 - CIERRE VEHICULAR: intervención mínima, conservado casi íntegro de la versión anterior (2026-09-16). NO existe diálogo de "Sígueme" ni ningún otro intercambio verbal después de "Estás loco". Kal no la persigue a pie. La deja irse sola en el Lancia y espera minutos reales antes de subir al Peugeot. La alcanza en la carretera con conducción firme, la rebasa y se coloca delante; toca el freno dos o tres veces para que las luces traseras parpadeen, sin bloquearla. En la bifurcación toma el norte sin comprobar nada y conduce kilómetros sin mirar el espejo. Cuando por fin mira, el Lancia sigue detrás.
 - FUNCIÓN TEMÁTICA DEL CIERRE: el Cap. 28 fija "no decidas por mí". Aquí Kal, por primera vez, no decide por ella: abre una ruta y deja que ella la tome o no.
+- AJUSTE (2026-09-27, encargo del autor): tras *Marisol.*, un párrafo interno justifica el reconocimiento — no el pelo sino la conducta (estudiante de derecho que no suelta un punto hasta que se lo conceden; eco de la regla del teléfono). Se refleja en el diálogo del Cap. 30.
 Continuidad:
 - Kal y Chiara se tutean desde el Cap. 7. Registro privado todavía en semilla (pre-H16).
 - Costillas rotas y ceja abierta de la paliza de Halbrook (Cap. 27) siguen activas todo el capítulo.
@@ -173,6 +174,8 @@ Varek asintió una vez, con algo parecido a la aprobación que un hombre le da a
 Algo se quedó muy quieto dentro de Kal, en un sitio que no le llegó a la cara.
 
 *Marisol.*
+
+No por el pelo; pelirrojas había en cualquier universidad. Por lo otro: una estudiante de derecho que se lee la ordenanza mejor que quien la enseña y no suelta el punto hasta que se lo conceden. Kal se lo había visto hacer con Héctor, con Michael, con él mismo, por una regla de teléfonos o por cualquier cosa que alguien le dijera que decía lo que no decía. Esa terquedad tenía firma.
 
 No preguntó quién. Preguntar hubiera sido dibujar un círculo. Levantó el vaso, por primera vez esa mañana, y bebió un trago corto, más para tener algo que hacer con la mano que por el bourbon en sí.
 

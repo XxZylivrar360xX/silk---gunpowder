@@ -115,7 +115,7 @@ El sedán que Walt le había mencionado le cruzó la cabeza medio segundo y Kal 
 
 Kal miró la hoja el tiempo justo para no darle el gusto de mirarla de más. No era un papel armado esa misma mañana: Halbrook no se sentaba a una mesa sin saber ya qué iba a servir. Después miró a Halbrook.
 
-—¿Qué trabajo.
+—Qué trabajo.
 
 —Se lo dirán cuando corresponda. Hoy sólo se establece que hay uno y que usted lo va a hacer. —Recogió la carpeta—. Le va a llegar una entrada a un sitio donde usted ya estuvo. Material que sacar. Es logística, Mercer. Cosas que se mueven de un lado a otro por rutas que no figuran en ningún manifiesto. —Una pausa mínima, casi cortés—. De todos los hombres que conozco, usted es el que mejor entiende cómo se mueve una carga que no puede aparecer en una lista.
 

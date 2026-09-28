@@ -58,6 +58,8 @@ La liberación de Kal ya tiene mecanismo canonizado en el plan: Halbrook/apagón
 
 *Sombras de Poder* (Libro II) conserva bloqueo general de prosa salvo el Cap. 45 ya planeado (sin redactar); H22, en *Voto de Ceniza* (Libro III), mantiene su bloqueo propio. Las escenas dictadas por el autor no autorizan continuar por iniciativa del agente.
 
+Ortotipografía (decisión del autor, 2026-09-27): la pregunta de tono plano se escribe sin signos y con punto ("Qué viste."); nunca "¿" suelto con punto. Preguntas normales, con ambos signos.
+
 ## Relevo y archivo
 
 Mantenimiento del 2026-09-21: historial íntegro separado; Markdown sigue siendo la fuente. Sin base de datos por ahora. [[98_Agent_Handoff/START_HERE]] fija límites y protocolo; [[log]] es índice. Antecedentes: [[98_Agent_Handoff/archive/README]]. Decisiones de fondo: [[98_Agent_Handoff/BACKLOG]]. La compactación no aprueba borradores ni cambia canon.
