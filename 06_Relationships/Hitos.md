@@ -1516,6 +1516,7 @@ Y el resto: **fue Nadir quien lo ayudó a salir.** En agradecimiento, Kal lo ayu
 
 > **Mantener las reservas ya canon.** No inventar qué secretos exactos entregan más allá de lo listado. En particular:
 > - **Kal le cuenta lo de los niños, pero casi seguro NO que a él lo compraron.** Ver [[02_Characters/Warren_Halbrook]]. Que el lector tenga esa información y ella no es el hueco más grande que queda abierto en la pareja.
+> - **SUPERSEDIDO (2026-09-28, autor):** ahora Chiara **sí cuenta lo que pasó con Alessio** (el disparo, el "mandato divino"), sin nombrar a quien construyó la versión; y Kal cuenta Jim (sin la promesa), Michael y el duelo que nunca vivió. Kal llora por primera vez. Es el verdadero punto sin retorno de la pareja. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 25]]. Texto anterior:
 > - **Ella le cuenta del Consorcio y nombra a Alessio sólo como herida y precio** ("no iba a ser yo"), **no lo que hizo.** Los dos entregan el sistema que los formó y se guardan el hecho concreto. Simetría exacta, y ninguno lo nota. *(Ajustado 2026-09-26, decisión del autor: la línea de Alessio en la prosa es deliberada; antes decía "no de Alessio".)*
 
 > **CONFIRMADO POR EL AUTOR (2026-09-09):** la cicatriz viene de la última noche del convoy — un vidrio del parabrisas le abrió la cara cuando sacaba a un niño por la ventanilla. No es la pelea de cantina que dice el rumor del barrio. **Ya no es diseño provisional del agente.** Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Capítulo 25]].
@@ -1523,6 +1524,8 @@ Y el resto: **fue Nadir quien lo ayudó a salir.** En agradecimiento, Kal lo ayu
 > **RESUELTO DE DISEÑO (2026-08-23):** la contacto rusa es [[02_Characters/Anya_Voronina]]. La deuda vuelve en [[06_Relationships/Momentos_de_Fractura]], F4 — Año Nuevo en Washington.
 
 ## Varek llega de madrugada — el contraste que dispara H5
+
+> **AJUSTE (2026-09-28, autor):** ya no es una interceptación en persona. **Varek la llama durante la noche del jacuzzi**, fuera de cuadro, mientras Chiara sale "al tocador" en el Cap. 25; Kal sólo ve el teléfono bocabajo. Así lo cuentan los Caps. 26 y 27. El contenido de la advertencia no cambia.
 
 **Después de esa noche, Varek intercepta a Chiara de madrugada.** Le dice:
 
@@ -2490,6 +2493,8 @@ Chiara entra a la [[05_Locations/Iglesia_Santa_Lucia]] acompañada por [[02_Char
 - Chiara recibe dos disparos.
 - Sobrevive gravemente herida y entra en coma.
 
+**Tiempos (CANON DEL AUTOR 2026-09-28):** Chiara pasa **unas 2–3 semanas en coma** tras Santa Lucía (dos disparos casi mortales: vientre y muslo), ajustable a lo que pida la prosa; la victoria electoral y la ejecución de Halbrook caen dentro de ese tramo, así que Santa Lucía ocurre en la recta final de la campaña. **La recuperación (despertar, hospital, rehabilitación de meses) pertenece a *Cuentas de Sangre*.**
+
 No describirlo como manual táctico. La función es romper la estabilidad, cruzar una frontera y dejar a Kal ante la posibilidad real de perderla.
 
 Para la opinión pública no es “Halbrook atacó a Chiara”: es un atentado en una iglesia de San Aurelio que deja muertos y heridos, entre ellos figuras conocidas. La policía investiga, la prensa especula y la ciudad busca una explicación.
@@ -2500,7 +2505,10 @@ Dario ya está detenido. Por eso Santa Lucía, junto con la secuencia de montañ
 
 La relación causal y el orden fino entre Santa Lucía y la montaña permanecen **PENDIENTES**. Lo fijo es su función: convertir a Halbrook en una explicación que antes ni el lector ni las instituciones pertinentes podían formular completa.
 
-Al cierre de la montaña y Santa Lucía, Kal comprende que los dos frentes pertenecían a la misma operación de Halbrook y decide: **Warren Halbrook va a morir.** Esa decisión pertenece a este libro (Voto de Ceniza); **la ejecución no** — [[00_Biblia/00_Trilogy_Structure]] la fija como apertura de Cuentas de Sangre (Libro III), pública y por mano de Kal. La muerte de un Brigadier General en ese acto destruye cualquier posibilidad de seguir tratando la violencia como un problema exclusivamente local y contribuye a justificar la siguiente escalada federal — pero eso ya ocurre en el libro siguiente, no aquí.
+Al cierre de la montaña y Santa Lucía, Kal comprende que los dos frentes pertenecían a la misma operación de Halbrook y decide: **Warren Halbrook va a morir.**
+
+> **CANON DEL AUTOR (2026-09-28) — el despacho:** después de Santa Lucía y de ver a Chiara, Kal va a la sede de Halbrook, ya candidato. Puede guardarse el duelo por Héctor; Santa Lucía basta. Lo amedrenta y se contiene por una sola razón, que oculta: **Elenna**. Halbrook: *"¡Ha! ¿Es el gran Kal Mercer tan cobarde para tomar mi cabeza de mis hombros?"* Kal no dice nada y se retira. PENDIENTE: si es la sentencia misma o la precede. Después vienen la victoria y la ejecución.
+ **SUPERSEDIDO (2026-09-28, CANON DEL AUTOR): la ejecución también pertenece a este libro** — Halbrook muere en su discurso de victoria, cierre de *Voto de Ceniza*, seguido de la coda de Corrado en el hospital; ver [[02_Characters/Warren_Halbrook]], "Muerte". *(Histórico:)* Esa decisión pertenece a este libro (Voto de Ceniza); **la ejecución no** — [[00_Biblia/00_Trilogy_Structure]] la fija como apertura de Cuentas de Sangre (Libro IV), pública. ~~y por mano de Kal~~ **(SUPERSEDIDO 2026-09-28, canon del autor: dispara Harper Walker; Kal y Nadir la cubren; revelación al final del Libro IV. Ver [[02_Characters/Warren_Halbrook]].)** La muerte de un Brigadier General en ese acto destruye cualquier posibilidad de seguir tratando la violencia como un problema exclusivamente local y contribuye a justificar la siguiente escalada federal — pero eso ya ocurre en el libro siguiente, no aquí.
 
 ## Restricciones de continuidad
 
@@ -2531,7 +2539,7 @@ Lo que ocurre **después** de H22, dentro del mismo libro (Voto de Ceniza): la c
 - Motivo exacto de la presencia de Chiara y Kenji en Santa Lucía.
 - Relación causal y orden fino de Santa Lucía + montaña.
 - Qué descubre Kal sobre Halbrook y qué puede demostrar la ley.
-- ~~Quién dispara contra Halbrook en la explanada del Ayuntamiento.~~ **RESUELTO por [[00_Biblia/00_Trilogy_Structure]] (2026-09-07):** lo ejecuta **Kal**, públicamente, y ese acto abre Cuentas de Sangre (Libro III) — no ocurre dentro de este macrohito de Voto de Ceniza. Aquí sólo queda la decisión de sentenciarlo.
+- ~~Quién dispara contra Halbrook en la explanada del Ayuntamiento.~~ **RESUELTO de nuevo (2026-09-28, CANON DEL AUTOR):** dispara **Harper Walker** durante el discurso de victoria de Halbrook, al cierre de este libro; Kal y Nadir la cubren; la ciudad duda entre ellos dos; la verdad sale al final del Libro IV, cuando Nadir se lo cuenta a Chiara. *(Histórico, 2026-09-07: lo ejecutaba **Kal**, públicamente, y ese acto abre Cuentas de Sangre (Libro III) — no ocurre dentro de este macrohito de Voto de Ceniza. Aquí sólo queda la decisión de sentenciarlo.
 - Desarrollo de las consecuencias federales y de la reconciliación de Kal y Chiara.
 - Causa, posición exacta y pago relacional de la muerte de Héctor.
 

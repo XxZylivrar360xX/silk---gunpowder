@@ -46,6 +46,10 @@ Michael importa menos por lo que hizo en escena que por el momento en que muere:
 
 ---
 
+**Cap. 25 (2026-09-28, CANON DEL AUTOR):** Kal le cuenta a Chiara que Michael ya se estaba muriendo cuando volvió, que Marisol se quedó a los quince y a nadie más, y que él aprendió a sostenerle la vida sin que lo viera caer: **nunca lloró a Michael (ni a Jim) hasta esa noche.** Duelo en piloto automático: **fundamental para el Libro II.** Detalles de textura (lo llevaba a sus citas; abrió la puerta "pesando la mitad") = DISEÑO.
+
+---
+
 ## Método
 
 > **PENDIENTE:** definir cómo era Michael como militar, padre y amigo.

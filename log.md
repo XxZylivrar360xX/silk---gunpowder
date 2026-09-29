@@ -4,6 +4,10 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-09-28 — [[98_Agent_Handoff/sessions/2026-09-28_claude_reconstruccion_halbrook|Halbrook reconstruido por canon del autor: ficha, política, muerte a manos de Harper (supersede "por Kal"), despacho en el Libro III; Cap. 27 retratado, toques en 30 y 40; la muerte pasa al cierre de *Voto de Ceniza* con la coda de Corrado en el hospital]].
+- 2026-09-28 — [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 25: noche reescrita por canon del autor (punto sin retorno): Chiara cuenta lo de Alessio, pasan del jacuzzi a la sala, Kal cuenta Jim, el ejército, Michael y su duelo nunca vivido, y llora por primera vez. Detalle en la metadata del capítulo]].
+- 2026-09-28 — [[98_Agent_Handoff/sessions/2026-09-28_codex_generador_pdf|Generador PDF Pandoc + Typst y primera copia de lectura de *Máscaras de Cristal* (44 capítulos, 589 páginas, borrador)]].
+- 2026-09-28 — [[98_Agent_Handoff/sessions/2026-09-28_codex_epub_regenerado|EPUB regenerado por solicitud del autor; portada aprobada y 44 capítulos]].
 - 2026-09-27 — [[98_Agent_Handoff/sessions/2026-09-27_claude_nombre_de_saga|*Seda y Pólvora* pasa a ser el nombre de la saga; el Libro I se llama *Máscaras de Cristal* (carpetas y rutas renombradas; EPUB sin regenerar)]].
 - 2026-09-27 — [[98_Agent_Handoff/sessions/2026-09-27_codex_epub_limpio|EPUB regenerado: 44 capítulos, sin metadata interna, capítulos sólo por título y partes con romano]].
 - 2026-09-27 — [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III|Parte III (Caps. 35–44) auditada y operada en nueve etapas: coda de las invitaciones al final del 36, 36 compactado, 38 podado (8,628 → 7,785) y sin vela, "un par de días más" y "Sin duda alguna" restaurados, housekeeping; escena de Anya en el Monarch en el 35, BORRADOR/DISEÑO]].
@@ -30,12 +34,6 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 - 2026-09-26 — [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_14_La_Regla_Del_Telefono|Cap. 14 auditado y operado: fuera la prolepsis final, buzón sin mensaje sembrado (rima 14↔44), poda del campamento; imán conservado (paga Hitos §3-a)]].
 - 2026-09-26 — [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17|Caps. 15–17 auditados y operados (Prioridad C): 5-ter aplicado (fuera la apertura de Nadir y Danny, que rompía la cronología, y la escena de Tomás; 1,134 palabras para la moto); dos prolepsis fuera; Matteo sembrado en el 16]].
 - 2026-09-22 — Anexo del dictamen editorial de Parte III — Ardizzone (Caps. 35–44), [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_03]], enlazado en [[INDEX]] y registrado en [[98_Agent_Handoff/PENDING]] para ejecutar más adelante. Sin ejecución de prosa todavía.
-- 2026-09-22 — Integración de `13_Auditorias/` al vault: carpeta nueva para dictámenes editoriales de lectura humana del autor, organizados por libro; primer archivo renombrado a `.md` y enlazado en [[INDEX]] y `CLAUDE.md`.
-- 2026-09-22 — [[98_Agent_Handoff/sessions/2026-09-22_sonnet_cap_44|Redacción del Cap. 44 — A oscuras (cierra la Parte III)]].
-- 2026-09-22 — [[98_Agent_Handoff/sessions/2026-09-22_sonnet_cap_43|Redacción del Cap. 43 — La puerta]].
-- 2026-09-22 — [[98_Agent_Handoff/sessions/2026-09-22_sonnet_cap_41|Redacción del Cap. 41 — La otra mitad]].
-- 2026-09-21 — [[98_Agent_Handoff/sessions/2026-09-21_codex_cirugia_cap_40|Corrección quirúrgica del Cap. 40 — Mecánico]].
-- 2026-09-21 — [[98_Agent_Handoff/sessions/2026-09-21_codex_compactacion_relevo|Compactación del relevo e historial íntegro]].
 
 ## Historial
 

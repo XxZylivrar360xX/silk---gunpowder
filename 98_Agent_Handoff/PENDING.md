@@ -16,6 +16,7 @@ Fuente: [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_
 - **PENDIENTE:** título definitivo del 45. Del 35 al 44 ya tienen título definitivo (36–38 confirmados 2026-09-27).
 - **PENDIENTE:** confirmar la lectura del agente de que «recupere esto; aquí no pasó nada» se dirige a la base, no a Kal.
 
+- **Halbrook (2026-09-28):** leer el retrato del Cap. 27 y los toques del 30/40; mandar el resto del encargo (llegó truncado en §15) y decidir los pendientes 2–6 de [[98_Agent_Handoff/sessions/2026-09-28_claude_reconstruccion_halbrook]].
 
 ## Revisión editorial y continuidad
 
@@ -37,4 +38,6 @@ Fuente: [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_
 
 ## Exportación
 
-Sin regeneración pendiente: EPUB actualizado por solicitud expresa el 2026-09-27, con 44 capítulos y tres partes. Ver [[98_Agent_Handoff/sessions/2026-09-27_codex_epub_limpio]]. Las futuras regeneraciones siguen sujetas a CLAUDE.md.
+Sin regeneración pendiente: EPUB actualizado por solicitud expresa el 2026-09-28, con 44 capítulos y tres partes. Ver [[98_Agent_Handoff/sessions/2026-09-28_codex_epub_regenerado]]. Las futuras regeneraciones siguen sujetas a CLAUDE.md.
+
+PDF de lectura generado el 2026-09-28 desde la misma fuente: `output/pdf/Mascaras_De_Cristal.pdf` (44 capítulos, 589 páginas, sigue siendo borrador). Instrucciones para regenerar: [[tools/pdf-build/README]]. Registro: [[98_Agent_Handoff/sessions/2026-09-28_codex_generador_pdf]].

@@ -40,7 +40,9 @@ Lo leyó dos veces sentada en el borde de la cama, con los pies todavía sin toc
 
 Kal no tranquilizaba a la gente antes de que tuviera miedo. Contestaba preguntas. Y ella no le había preguntado nada: él se había ido a las cinco cuarenta sin despertarla y había contestado, solo, una pregunta que ella no había llegado a hacerse. Un hombre te dice que está bien cuando ya sabe que se lo vas a preguntar, y calcula que la frase te va a llegar antes que el susto.
 
-Esa misma madrugada, con el pelo todavía húmedo del jacuzzi, Varek la había parado junto al ascensor privado. Sin levantar la voz, como quien comenta el clima: que Kal no le cuadraba, que iba a mirarlo de cerca, que iba a poner a alguien detrás de él, y que ella, si era lista, se mantendría lejos. Chiara lo había archivado esa noche como una más de las cosas que Varek decía para recordarte que podía decirlas.
+Hacía unas horas lo había tenido llorando contra su hombro. Y ahora le escribía como a una socia.
+
+La noche anterior, con el pelo todavía húmedo del jacuzzi y Kal esperándola en el agua, Varek la había llamado. Sin levantar la voz, como quien comenta el clima: que Kal no le cuadraba, que iba a mirarlo de cerca, que iba a poner a alguien detrás de él, y que ella, si era lista, se mantendría lejos. Chiara le había contestado con la voz de gerente, había colgado y lo había archivado como una más de las cosas que Varek decía para recordarte que podía decirlas.
 
 A las siete y diez de la mañana, con el teléfono en la mano, dejó de estar archivada.
 

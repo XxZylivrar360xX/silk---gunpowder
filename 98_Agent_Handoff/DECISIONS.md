@@ -2,6 +2,10 @@
 
 Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]. Archivar entradas antiguas antes de retirarlas.
 
+## 2026-09-28 — Reconstrucción de Warren Halbrook
+
+**CANON DEL AUTOR:** nueva psicología, voz y conducta (sustituye la anterior; los hechos se quedan); carrera política con el nombre de Camp Alder como llave; evento benéfico (Libro II); despacho tras Santa Lucía con la línea "¡Ha! ¿Es el gran Kal Mercer tan cobarde para tomar mi cabeza de mis hombros?" (Libro III); muerte en el discurso de victoria, disparo de Harper cubierta por Kal y Nadir (supersede "por Kal Mercer"). Misma fecha: la muerte **cierra el Libro III** (no abre el IV) y la sigue la coda de Corrado en el hospital, con la silueta de Halbrook como engaño. [[98_Agent_Handoff/sessions/2026-09-28_claude_reconstruccion_halbrook]].
+
 ## 2026-09-21 — Relevo compacto e historial separado
 
 **DECISIÓN OPERATIVA DEL AUTOR:** ejecutar la recomendación de compactar el relevo y separar historial en Markdown. CURRENT_BRIEF contiene estado vigente; PENDING sólo trabajo inmediato; BACKLOG conserva decisiones de fondo; log es índice de sesiones y archivo. Sin SQLite por ahora. No se elimina ni decanoniza material: los cuatro archivos originales se conservaron íntegros. [[98_Agent_Handoff/sessions/2026-09-21_codex_compactacion_relevo]].

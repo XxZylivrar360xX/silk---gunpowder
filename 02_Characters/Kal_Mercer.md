@@ -182,6 +182,8 @@ En su última operación, **Kal libera el convoy.**
 
 **Y las consecuencias lo llevan a prisión.**
 
+> **CANON DEL AUTOR (2026-09-28):** esa noche **Kal mató a un niño**, y por eso terminó en prisión. Es la raíz de su regla: *"Los niños no entran a este mundo."* Lo confiesa a Chiara en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 25]]: *"Yo también cargo sangre en mis manos, y no toda es de culpables o criminales."* **DISEÑO del agente:** el niño (unos 12 años) era un guardia armado de los traficantes. Kal disparó por entrenamiento contra una silueta con fusil, en la oscuridad, y nunca sabrá si el niño iba a disparar. El expediente borra el convoy y conserva al menor muerto.
+
 > **La ironía que ordena su vida entera y que nadie en el libro le señala:** a los dieciocho un juez le dio a elegir entre alistarse o entrar. Se alistó. **Y el ejército terminó metiéndolo de todos modos.**
 
 > **Y la columna del personaje, que hay que ver sin que él la diga jamás:** a Kal **lo compraron de bebé**, de una red que movía niños. Lo que destruye su carrera es descubrir una red que mueve niños. **No liberó ese convoy por principios. Lo liberó porque él iba en uno.**

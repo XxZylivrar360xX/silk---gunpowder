@@ -78,6 +78,12 @@ Su método debe ser concreto: **conoce terreno, animales, caminos secundarios y 
 
 ---
 
+## Halbrook — CANON DEL AUTOR (2026-09-28), revelación reservada
+
+**Harper Walker es quien dispara contra [[02_Characters/Warren_Halbrook]] durante su discurso de victoria, al cierre de *Voto de Ceniza*.** Kal y Nadir la cubren durante *Cuentas de Sangre* y dejan que la ciudad crea que fue uno de ellos. La verdad se reserva para el final del Libro IV (Nadir se lo cuenta a Chiara). Halbrook, que mató a Héctor en la montaña donde ella sobrevivió, nunca la clasificó como algo más que una pieza de Kal. **No sembrar nada de esto en *Máscaras de Cristal*.** Motivo interno exacto y quién sabía antes: PENDIENTE.
+
+---
+
 ## Preguntas abiertas
 
 > **PENDIENTE:** nombre y ficha de la propiedad rural del norte. ¿Rancho, granja, taller encubierto o mezcla?

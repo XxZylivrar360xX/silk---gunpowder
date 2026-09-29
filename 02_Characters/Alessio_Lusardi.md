@@ -44,7 +44,7 @@ Y **Lusardi** funciona igual de bien en la puerta de un casino que en una conver
 >
 > **Uso de la fe (CANON DEL AUTOR, 2026-09-26):** "Questo è un mandato divino. Dio lo sa. E anch'io." es Alessio usando la fe de Chiara contra ella. **Kal jamás hará eso.** Puede bromear con su fe, pero la respeta, porque es parte de quien ella es y eligió ser. Sembrada en el Cap. 9.
 >
-> **Uso en el Libro I:** la escena no se muestra. Sólo la frase del mandato divino regresa como recuerdo (Cap. 9).
+> **Uso en el Libro I:** la escena no se muestra. Sólo la frase del mandato divino regresa como recuerdo (Cap. 9). **Actualizado 2026-09-28 (autor):** en el Cap. 25 Chiara se lo **cuenta a Kal** en sus palabras (pistola del cajón, "no puedes irte", la frase del mandato divino, el disparo). No nombra a quien construyó la versión. **CANON DEL AUTOR (2026-09-28):** Alessio era impecable en público y siempre estaba detrás de ella con las manos en sus hombros, impidiéndole crecer ("la donna di Lusardi... hasta que la muerte nos separe"); hubo humillaciones, negaciones y **violencia física**. Chiara no debe leerse como asesina, sino como una mujer que aguantó. Detalles concretos de la violencia en el Cap. 25 = DISEÑO.
 
 Alessio la miró durante unos segundos.
 

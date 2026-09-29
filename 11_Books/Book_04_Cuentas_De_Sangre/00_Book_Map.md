@@ -22,7 +22,7 @@ El libro no trata de *descubrir* que Kal y Chiara deberían marcharse — esa de
 
 ## Estado de entrada (hereda del cierre del Libro III — Voto de Ceniza)
 
-- Dario preso; Halbrook sentenciado por Kal pero vivo al abrir el libro.
+- Dario preso; Halbrook **muerto** al abrir el libro (ejecutado al cierre del Libro III; tirador desconocido; se sospecha de Kal o de Nadir). Chiara en coma; su despertar y su recuperación (hospital, rehabilitación de meses) pertenecen a este libro. *(Supersesión del autor 2026-09-28; ver [[02_Characters/Warren_Halbrook]], "Muerte".)*
 - Héctor y Kenji muertos; Harper viva; Chiara sobrevivió a Santa Lucía.
 - Elenna vive como Elenna Serra con Riley en Italia; la separación ya es larga.
 - Corrado revelado vivo (a Kal; el encuentro con Chiara, pendiente y decisión de ella).
@@ -49,7 +49,9 @@ Esta imagen cierra el arco inmediato de Kal y Chiara. El cierre definitivo de la
 
 ## Estructura macro
 
-### Apertura — ejecución pública de Halbrook
+### Apertura — después de Halbrook
+
+> **SUPERSEDIDO (2026-09-28, CANON DEL AUTOR):** la ejecución cierra el Libro III y no la hizo Kal: disparó Harper Walker, a quien Kal y Nadir cubren; se revela al final de este libro, cuando Nadir se lo cuenta a Chiara. El libro abre cargando Halbrook muerto, tirador desconocido, Chiara en coma, Héctor y Kenji muertos y Corrado frente a Kal. En POV de Kal, nada de rodeos artificiales alrededor de Harper. El párrafo siguiente queda como histórico.
 
 El libro abre con **Kal Mercer ejecutando públicamente a Warren Halbrook** (decisión tomada al final del Libro III — Voto de Ceniza). La muerte pública de un Brigadier General destruye la posibilidad de cerrar la crisis como problema local.
 
@@ -85,7 +87,7 @@ Cuando su ausencia ya no significa colapso, Kal y Chiara pueden salir. No dejan 
 
 ## Bisagra de cierre de saga
 
-`Halbrook ejecutado provoca Meridian; el vacío de Dario activa Il Consorzio; Kal y Chiara vuelven reemplazable su poder y salen hacia Elenna.`
+`La muerte de Halbrook (cierre del III; tiradora revelada al final: Harper) provoca Meridian; el vacío de Dario activa Il Consorzio; Kal y Chiara vuelven reemplazable su poder y salen hacia Elenna.`
 
 ## Límites del libro
 

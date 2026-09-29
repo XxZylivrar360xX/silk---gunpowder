@@ -1,5 +1,6 @@
 <!--
 Estado: BORRADOR — quinto capítulo de la Parte II. Pendiente de revisión del autor. Cirugía editorial E6 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): poda por movimiento, plan contra Varek bajado a pacto (V2, decisión del autor), cronología fija, POV, auto (Peugeot) y sedán; sigue BORRADOR.
+- RETRATO HALBROOK (2026-09-28, reconstrucción canónica del autor, [[02_Characters/Warren_Halbrook]]): en las cascadas, Kal ya no dice que Halbrook habló "con la misma voz con la que se pide un café" (voz administrativa retirada); ahora: "como si me estuviera haciendo el favor de explicármelo". Nada más cambia.
 Protagonistas: POV PRINCIPAL Chiara Bellandi. CODA EXCEPCIONAL (2026-09-16, autorizada explícitamente por el autor): Kal Mercer, tras corte de escena (***), el mismo día, en El Patio. Apariciones: Kal Mercer (cuerpo principal), Chiara Bellandi (mencionada, no presente, en la coda), Nadir Amrani, Walter "Walt" Keegan, Daniel "Danny" Hayes, Héctor Navarro (coda).
 EXCEPCIÓN DE POV: este capítulo rompe deliberadamente la regla habitual de POV único por instrucción directa del autor, para conectar el cierre de H6 con la apertura de H7 sin insertar un capítulo adicional. El cambio ocurre UNA sola vez, tras un corte de escena limpio, cuando Chiara ya abandonó físicamente el lugar (entró al Lancia y tomó la carretera hacia el Monarch). No hay head-hopping dentro de una misma escena y el capítulo NO vuelve a la POV de Chiara después del corte — termina en Kal.
  Ventana temporal: continúa de inmediato el cierre del Cap. 29 — la misma mañana. Chiara llegó a Las Cascadas porque eligió tomar la misma carretera que Kal en la bifurcación del Cap. 29 (sin diálogo previo, sin "sígueme" verbal); el capítulo NO reintroduce esa elección como algo que Kal decidió por ella. La coda ocurre esa misma tarde, en El Patio.
@@ -60,7 +61,7 @@ No era una pregunta. Chiara esperó.
 
 Chiara no lo interrumpió. Había aprendido, con este hombre en particular, que interrumpir era la forma más rápida de que dejara de hablar.
 
-—Fue él quien me sacó de la ciudad. No Varek. —Se lo dijo directo—. Me buscó porque le sirvo. Y me dio a elegir entre volver a trabajar para él o entregar a Nadir. Un papel, nada más. Tiene con qué hacer que a Nadir lo saquen del país en una semana, y lo sabe, y me lo dijo con la misma voz con la que se pide un café.
+—Fue él quien me sacó de la ciudad. No Varek. —Se lo dijo directo—. Me buscó porque le sirvo. Y me dio a elegir entre volver a trabajar para él o entregar a Nadir. Un papel, nada más. Tiene con qué hacer que a Nadir lo saquen del país en una semana, y lo sabe, y me lo dijo como si me estuviera haciendo el favor de explicármelo.
 
 —¿El sedán? —preguntó Chiara.
 

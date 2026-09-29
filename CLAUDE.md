@@ -76,14 +76,12 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 - No hacer commit ni push salvo que el usuario lo pida.
 - Para auditoria, microedicion o verificacion editorial de prosa, usar la skill `editorial-surgery` y las politicas bajo `12_Craft_Policies/editorial/`.
 
-## Regeneracion De EPUB
-
-**El EPUB no se regenera gratis.** Incidente 2026-09-09: una sesion de Claude Desktop lo regenero tras casi cada micro-cambio y ayudo a quemar el cupo de tokens de 5 horas del autor en minutos. Regla dura desde entonces:
+## Regeneracion De EPUB y PDF
 
 - Regenerar el EPUB solo cuando el autor lo pida explicitamente, **o** al cerrar un bloque de capitulos que el autor ya confirmo (no borradores).
-- Nunca regenerar por un ajuste de linea, una correccion de continuidad menor o un capitulo todavia marcado BORRADOR / sin revision del autor.
-- Si se acumulan varios cambios chicos, esperar y regenerar una sola vez al final del bloque, no despues de cada uno.
-- Al dejar pendiente una regeneracion, decirlo explicitamente en `CURRENT_BRIEF.md` / `PENDING.md` en vez de ejecutarla por iniciativa propia.
+- No regenerar el EPUB por un ajuste de linea, una correccion de continuidad menor o un capitulo todavia marcado BORRADOR / sin revision del autor. Si se acumulan cambios chicos, esperar al final del bloque.
+- El PDF de lectura puede regenerarse cuando el autor lo pida o cuando haga falta actualizar la copia de lectura tras cambios en las fuentes.
+- La regeneracion rutinaria de EPUB o PDF no necesita registro individual en `CLAUDE.md`, `AGENTS.md`, `log.md`, `CURRENT_BRIEF.md` o `PENDING.md`, ni una nota de sesion. Registrar solo cambios de proceso, decisiones o hitos editoriales que aporten contexto duradero.
 
 ## Lectura Bajo Demanda
 

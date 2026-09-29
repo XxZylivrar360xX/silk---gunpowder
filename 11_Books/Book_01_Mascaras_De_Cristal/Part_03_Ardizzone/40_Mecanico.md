@@ -4,6 +4,7 @@ Protagonista: Kal Mercer (POV único, tercera persona cercana). Analepsis comple
 Personajes con diálogo: Kal Mercer, Chiara Bellandi, Ettore, Leone Valenti, Livia Rinaldi.
 Presencia sin nombre desarrollado: personal de la casa, el encargado del viñedo.
 Mencionado sin aparecer en persona: Warren Halbrook (llamada telefónica, sin pisar Italia); Alessio Lusardi (fotografía).
+- RETRATO HALBROOK (2026-09-28, reconstrucción canónica del autor, [[02_Characters/Warren_Halbrook]]): en la llamada, voz grave y amable en lugar de "sin calor, como si leyera de una lista"; saluda con "Señor Mercer" y se despide con cortesía antes de colgar. Hechos y función intactos.
 Ventana temporal: varios días en Palermo — llegada y casa (día 1), viñedo (día 2), la Mesa (día 3), advertencia de Ettore y llamada de Halbrook (noche del día 3), partida (día 4). Cierra con Kal en tránsito de regreso, antes de Kingsley Field, que ya abrió el Cap. 39.
 Lugares: la casa donde Chiara creció, en las colinas sobre Palermo; uno de los viñedos que Chiara posee cerca de la ciudad (sin nombre); una sala donde se reúne La Mesa, en la ciudad baja; el aeropuerto de Palermo (cierre, breve).
 Función: la mitad de Kal sobre Palermo — lo que ve, oye, entiende e interpreta, sin resolver lo que Chiara calla. Instala H17 sin agotarlo: dispara el reflejo camaleónico de Kal ante La Mesa, la respuesta de Chiara que él lee como exclusión, la fotografía de la boda, la advertencia de Ettore y el detonante real del regreso (Halbrook). Cierra con los dos decidiendo solos, sin ruptura visible. La otra mitad de Palermo (por qué Chiara hace lo que hace) se reserva para el Cap. 41, POV Chiara.
@@ -271,9 +272,9 @@ El teléfono le vibró pasada la medianoche, con la casa ya a oscuras.
 
 Un número internacional que no reconoció, sin nombre guardado. No fue un mensaje esta vez: fue una llamada, dos timbres, y cuando contestó no hubo saludo.
 
-—Mercer.
+—Señor Mercer.
 
-Reconoció la voz antes de que dijera nada más. La había oído antes en circunstancias que preferiría no recordar, y siempre sonaba igual: sin prisa, sin calor, como si estuviera leyendo de una lista.
+Reconoció la voz antes de que dijera nada más. La había oído antes en circunstancias que preferiría no recordar, y siempre sonaba igual: grave, sin prisa, con una amabilidad que no pedía nada porque ya lo tenía.
 
 —Halbrook.
 
@@ -281,9 +282,9 @@ Reconoció la voz antes de que dijera nada más. La había oído antes en circun
 
 —Estoy en Italia.
 
-—Entonces vuelva.
+—Entonces vuelva. Buenas noches, sargento.
 
-Colgó sin despedirse, de la misma forma en que colgaba Dario, de la misma forma en que colgaba cualquier hombre que hablaba con Kal sólo cuando necesitaba algo de él.
+Colgó sin esperar respuesta. La cortesía no cambiaba nada: era la misma forma en que colgaba Dario, la misma en que colgaba cualquier hombre que hablaba con Kal sólo cuando necesitaba algo de él.
 
 Kal se quedó con el teléfono en la mano, en la oscuridad de la habitación, con la respiración pareja de Chiara al otro lado de la cama — dormida, o fingiendo, no lo sabía con certeza, y no iba a preguntarlo.
 

@@ -19,9 +19,9 @@ Misterios o verdades que cruzan todo *Seda y Polvora* o que no pertenecen a un s
 ## Redada federal contra Corrado Ardizzone
 
 - **Que es:** los federales destruyeron la estabilidad final de la casa de Chiara. **La versión anterior que fijaba la muerte de Corrado quedó supersedida el 2026-08-31:** Corrado está vivo y oculto en Italia durante buena parte de la novela.
-- **Version publica (decision del autor 2026-09-09):** el capo de la famiglia Ardizzone **falleció** en una **caída desde el acantilado de la villa de Palermo**. Los federales y la comisión (Il Consorzio) dieron **la misma frase, palabra por palabra**. **Nunca se devolvió un cuerpo** — Chiara no pudo verlo ni enterrarlo junto a Marta.
+- **Version publica (decision del autor 2026-09-09):** el capo de la famiglia Ardizzone **falleció** en una **caída desde el acantilado de la villa de Palermo**. Los federales y la comisión (Il Consorzio) dieron **la misma frase, palabra por palabra**. **Nunca se devolvió un cuerpo** — Chiara no pudo verlo ni enterrarlo junto a Marta. **ACTUALIZADO 2026-09-28 (CANON DEL AUTOR):** la versión pública ahora es que **los federales abrieron fuego y el cuerpo cayó por la ladera de la villa**, junto al mirador sobre la costa de Mondello, y que el comunicado salió en los periódicos **a la mañana siguiente**. Sigue sin haber cuerpo. Intención del autor: el disparo "constata" la muerte, para que el lector lo crea muerto sin dudarlo y el reveal de *Voto de Ceniza* le pegue más fuerte. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 25]].
 - **Qué cree Chiara:** que **perdió** a su padre; vive el duelo como real y paga esa cuenta sola cada aniversario. **NO sabe ni sospecha que está vivo.** Puede notar que las dos versiones coinciden demasiado sin que eso signifique que lo cree vivo. No fijar edad concreta al momento de la pérdida (la de Marta ya está sembrada: † cuando Chiara tenía 19).
-- **Estado al inicio:** la redada y ausencia de Corrado pesan sobre Chiara. Aplicado en prosa por primera vez en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 26]] (jacuzzi/H15). Pendiente reconciliar las escenas heredadas que presuponen cuerpo retenido y el punto exacto del reveal a Kal (coda del Libro II).
+- **Estado al inicio:** la redada y ausencia de Corrado pesan sobre Chiara. Aplicado en prosa por primera vez en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 26]] (jacuzzi/H15). Pendiente reconciliar las escenas heredadas que presuponen cuerpo retenido y el punto exacto del reveal a Kal (coda del Libro II). **Resuelto 2026-09-28 (canon del autor):** en el hospital, al cierre de *Voto de Ceniza*, tras la ejecución de Halbrook; ver [[02_Characters/Corrado_Ardizzone]].
 - **Quien ya lo sabe:** pendiente bajo el nuevo canon; no heredar automáticamente la lista anterior.
 - **Quien NO debe saberlo/insinuarlo todavia:** agentes federales de Meridian no deben conocer automaticamente el peso emocional si no hay escena/fuente que lo justifique.
 - **Lineas o gestos prohibidos:** Chiara explicando su trauma federal como monologo de informacion.
@@ -40,6 +40,18 @@ Misterios o verdades que cruzan todo *Seda y Polvora* o que no pertenecen a un s
 - **Evidencia:** las fotografías se destruyen en la chimenea de Villa Candelaria. El video de H22 queda inutilizable después de una reproducción por mecanismo todavía pendiente.
 - **Lineas o gestos prohibidos:** revelar el embarazo durante la hemorragia/baño de H1; explicar mecanismos médicos, documentales o logísticos no fijados; tratar a Elenna como heredera criminal; adelantar H22 a prosa antes de cumplir sus dependencias.
 - **Estado:** canon de arquitectura; H22 bloqueado para prosa.
+
+---
+
+## Quién mató a Warren Halbrook — CANON DEL AUTOR (2026-09-28)
+
+- **Que es:** Halbrook muere de un disparo durante su discurso de victoria ("Es un nuevo futuro para San Aurelio"), al cierre de *Voto de Ceniza*. **Disparó [[02_Characters/Harper_Walker]]; Kal y Nadir la cubrieron.**
+- **Engaño lícito del cierre del Libro III:** corte del disparo a Kal respirando frente a la puerta de Chiara; el lector concluye que fue él, pero el texto nunca lo afirma. En la relectura, la respiración era por Chiara.
+- **Version publica:** dos hipótesis vivas durante la mayor parte del Libro IV: Kal (cobro por Héctor, Chiara y la guerra) o Nadir (cortar la correa). Ninguno las desmiente.
+- **Quien ya lo sabe:** Harper, Kal, Nadir. Chiara lo sabe al final, por Nadir.
+- **Siembra y pagos:** nada en *Máscaras de Cristal*. La debilidad de Halbrook (no reconoce la agencia de quienes clasificó como piezas) se construye antes sin señalar a Harper.
+- **Lineas o gestos prohibidos:** pistas obvias de Harper como tiradora antes del final del Libro IV; mostrar al tirador o el mecanismo del disparo; afirmar en prosa que Kal disparó; en POV de Kal, rodeos artificiales para no pensar en Harper.
+- **Estado:** canon de arquitectura; detalles pendientes. Ver [[02_Characters/Warren_Halbrook]].
 
 ---
 

@@ -13,6 +13,10 @@
 
 ---
 
+## Retrato de los Ardizzone — CANON DEL AUTOR (2026-09-28)
+
+Tras la redada, Ettore conserva el retrato familiar al óleo (Corrado de pie tras la silla, Marta sentada, Chiara niña en su regazo). Cuando se construye Villa Candelaria, Chiara lo manda traer de Italia. Ver [[05_Locations/La_Villa]].
+
 ## Apariencia
 
 **PENDIENTE.** No hay descripción física en ningún documento del vault ni en prosa.

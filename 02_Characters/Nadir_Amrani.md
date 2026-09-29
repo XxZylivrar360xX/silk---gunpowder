@@ -119,7 +119,7 @@ Kal lo mantiene lejos de las finanzas centrales de Almendra Towing. No porque Na
 
 - [[02_Characters/Kal_Mercer]] — mejor amigo. Fue quien lo ayudó primero; Kal le pagó consiguiéndole papeles.
 - [[02_Characters/Anya_Voronina]] — contacto rusa que consiguió sus papeles; su favor vuelve como deuda en Año Nuevo.
-- [[02_Characters/Warren_Halbrook]] — usa su estatus migratorio como correa contra Kal.
+- [[02_Characters/Warren_Halbrook]] — usa su estatus migratorio como correa contra Kal. **Lectura renovada (2026-09-28, canon del autor):** Halbrook no lo usa por quién es, sino porque la lealtad de Kal es más explotable que su miedo; tarda demasiado en verlo como agente propio. En *Cuentas de Sangre* la ciudad sospecha de Nadir por la muerte de Halbrook; él lo permite para cubrir a Harper y, al final, se lo cuenta a Chiara.
 - [[02_Characters/Daniel_Hayes]] — testigo junto con él de la primera cena de Kal y Chiara.
 - [[02_Characters/Hector_Navarro]] — parte del núcleo que aparece con Kal en Gabriella's.
 - [[02_Characters/Chiara_Bellandi]] — al principio desconfía de ella; tolera su presencia por Kal y le exige demostrar que no es una complicación pasajera. La incomodidad empieza antes de que se conozcan.

@@ -39,8 +39,8 @@ El "voto" no es el sacrificio de Elenna. Es el sacrificio de la vida cotidiana c
 - Chiara ha sobrevivido a Santa Lucía (crítica, coma).
 - Elenna vive lejos bajo la identidad Serra, con Riley.
 - Kal y Chiara ya decidieron construir una salida (nace en H22).
-- Kal ha **sentenciado** a Halbrook (no lo ejecuta todavía).
-- Corrado ha sido revelado vivo — primero a Kal.
+- Kal ha **sentenciado** a Halbrook; Halbrook muere en su discurso de victoria (tirador sin mostrar). *(Supersesión del autor 2026-09-28; ver [[02_Characters/Warren_Halbrook]], "Muerte".)*
+- Corrado ha sido revelado vivo — primero a Kal, en el hospital. Chiara sigue en coma.
 - Il Consorzio tiene más espacio por el vacío de Dario.
 
 ## Arcos de los protagonistas
@@ -165,19 +165,19 @@ Una sola operación, dos frentes físicos, tres golpes relacionales.
 
 **Montaña:** Héctor y Harper dentro del frente. Héctor pide a Kal elegir a Harper. Kal intenta elegir a Héctor. **Halbrook mata a Héctor.** Harper sobrevive. Kal no dispara en esta secuencia. Residuo: *"Yo dije su nombre."*
 
-**Santa Lucía (en paralelo):** Chiara es el objetivo. **Kenji muere.** Chiara recibe dos disparos, sobrevive crítica y entra en coma. El ataque es de Halbrook, **no de Il Consorzio**. En shock, en el suelo de la iglesia, el recuerdo que puede cerrar su conciencia es el video de Elenna dando sus primeros pasos.
+**Santa Lucía (en paralelo):** Chiara es el objetivo. **Kenji muere.** Chiara recibe dos disparos (vientre y muslo), sobrevive crítica y entra en coma (unas 2–3 semanas, canon del autor 2026-09-28; la elección y la ejecución de Halbrook caen dentro de ese tramo). El ataque es de Halbrook, **no de Il Consorzio**. En shock, en el suelo de la iglesia, el recuerdo que puede cerrar su conciencia es el video de Elenna dando sus primeros pasos.
 
 Relación causal y orden fino montaña ↔ Santa Lucía: **PENDIENTE.**
 
-**Cierre bélico:** Kal comprende que los dos frentes eran la misma operación de Halbrook y decide: **Warren Halbrook va a morir.** La decisión es de este libro; la ejecución, del Libro IV.
+**Cierre bélico:** Kal comprende que los dos frentes eran la misma operación de Halbrook y decide: **Warren Halbrook va a morir.** ~~La decisión es de este libro; la ejecución, del Libro IV.~~ Decisión y ejecución son de este libro: tras Santa Lucía, el despacho (Kal amedrenta a Halbrook, ya candidato, y se contiene por Elenna; "¡Ha! ¿Es el gran Kal Mercer tan cobarde para tomar mi cabeza de mis hombros?"); después, la victoria electoral y el disparo en el discurso ("Es un nuevo futuro para San Aurelio"). Sin mostrar al tirador. *(Supersesión del autor 2026-09-28; ver [[02_Characters/Warren_Halbrook]], "Muerte".)*
 
 ### Coda final — Corrado
 
-La mañana posterior a Santa Lucía, Corrado Ardizzone aparece ante Kal (Chiara no está en condiciones de recibirlo). **Corrado está vivo.** Reglas duras: Santa Lucía no fue obra de Il Consorzio; Corrado no diseña ni facilita la ejecución de Halbrook; su regreso responde a que el equilibrio cambió (mientras su ausencia protegía a Chiara, seguir "muerto" era útil; tras la caída de Dario, su ausencia empieza a favorecer al enemigo). El primer reveal es a Kal; el encuentro con Chiara ocurre después y es decisión de ella.
+~~La mañana posterior a Santa Lucía~~ Tras el corte del disparo: Kal respira frente a la puerta del cuarto de Chiara, en coma (el lector cree que viene de matar a Halbrook; el texto nunca lo afirma); abre; de espaldas, un hombre con la silueta de Halbrook; mano al arma. Primera voz de Corrado: "Señor Mercer, no hace falta eso. No vengo a hacerle daño, ni a usted ni a ella." — "¿Quién es usted?" — Kal lo reconoce por las fotos de Villa Candelaria — "Creo que usted y yo tenemos que hablar." Fin. *(Supersesión del autor 2026-09-28; ver [[02_Characters/Warren_Halbrook]], "Muerte".)* **Corrado está vivo.** Reglas duras: Santa Lucía no fue obra de Il Consorzio; Corrado no diseña ni facilita la ejecución de Halbrook; su regreso responde a que el equilibrio cambió (mientras su ausencia protegía a Chiara, seguir "muerto" era útil; tras la caída de Dario, su ausencia empieza a favorecer al enemigo). El primer reveal es a Kal; el encuentro con Chiara ocurre después y es decisión de ella.
 
 ## Bisagra hacia Cuentas de Sangre
 
-`Dario preso + montaña + Santa Lucía + Kal sentencia a Halbrook + Corrado vivo`
+`Dario preso + montaña + Santa Lucía + Kal sentencia a Halbrook + Halbrook muerto (tirador oculto) + Corrado vivo en el hospital`
 
 ## Límites del libro
 

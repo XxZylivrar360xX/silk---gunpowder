@@ -6,7 +6,7 @@
 
 *Novela original de crimen y romance — índice maestro del vault.*
 
-> **Nomenclatura vigente (2026-09-13, CANON DEL AUTOR):** **Kal Mercer**. Migración aplicada al material vivo y a sus rutas; historial preservado. Supersesión: [[98_Agent_Handoff/DECISIONS]]. EPUB actualizado por solicitud expresa del autor (2026-09-27): 44 capítulos, Partes I–III. [[tools/epub-build/output/Seda_y_Polvora.epub]].
+> **Nomenclatura vigente (2026-09-13, CANON DEL AUTOR):** **Kal Mercer**. Migración aplicada al material vivo y a sus rutas; historial preservado. Supersesión: [[98_Agent_Handoff/DECISIONS]]. EPUB actualizado por solicitud expresa del autor (2026-09-28): 44 capítulos, Partes I–III. [[tools/epub-build/output/Mascaras_De_Cristal.epub]].
 
 > *Silk & Gunpowder* · Bitácora de sesiones: [[log]] · Reglas del agente: `CLAUDE.md`
 
@@ -184,6 +184,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[01_Timeline/90_Archivo_Historico_Estructura_del_Ascenso]] · [[01_Timeline/91_Archivo_Historico_Primer_Borrador_Beats]] · [[01_Timeline/92_Archivo_Historico_Cadena_De_Eventos_Libro_I]] — documentos anteriores, sólo para trazabilidad
 - [[10_Chapters/README]] — prosa (vacío; el protocolo previo a escribir está ahí)
 - [[11_Books/README]] — montaje editorial del libro y flujo EPUB
+- [[tools/pdf-build/README]] — generador reproducible de PDF de lectura para *Máscaras de Cristal* (Pandoc + Typst)
 - [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] — mapa operativo del libro activo; termina en el Cap. 44
 - [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] — Libro II, nuevo; absorbe las antiguas Partes IV-VI del Libro I. Sin prosa; abre en el Cap. 45.
 - [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]] — esqueleto del Libro III derivado de [[00_Biblia/00_Trilogy_Structure]] (2026-09-09; sin prosa, pendiente de validación). **Integrado (2026-09-11):** apertura en flashforward (Cap. 1), los ~9 meses de embarazo, H8 como antecedente ideológico del exilio, la lista creciente de amenazas, las filosofías de protección de Kal/Chiara, la regla de Riley como payoff (no causa) y su pista clandestina, el capítulo de revelación completa y el primer año de Elenna hasta el giro "ir hacia ella" de H22.

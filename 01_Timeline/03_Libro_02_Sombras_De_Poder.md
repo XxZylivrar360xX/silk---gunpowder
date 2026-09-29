@@ -315,6 +315,8 @@ La coda se mantiene: un helicóptero aterriza en una instalación militar del á
 Aurelio; **Warren Halbrook llega físicamente**. Sin presentación pública ni exposición
 extensa. Fin del Libro II, antes del nacimiento de Elenna y antes de la guerra abierta.
 
+> **SEMILLA CANÓNICA DEL AUTOR (2026-09-28), colocación pendiente — el evento benéfico:** Chiara organiza o preside un evento benéfico; Halbrook aparece como nuevo benefactor. Chiara conoce primero al hombre (conversación y un baile) y después el nombre, cuando Kenji los presenta; reacción mínima. Primer duelo Chiara–Halbrook y primera entrada de Halbrook al circuito cívico (no presentarlo como campaña). Debe caer antes o después de su llegada física según decida el autor. Ver [[02_Characters/Warren_Halbrook]].
+
 ---
 
 ## Orden macro vigente de esta Parte — CANON DEL AUTOR, 2026-09-20 (renumerado 2026-09-22)

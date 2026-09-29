@@ -52,6 +52,8 @@ Usa `98_Agent_Handoff/` para handoffs compactos.
 
 Registrar el detalle una sola vez en una nota de sesión; en `log.md` sólo un enlace de una línea (máximo 30 recientes). No anteponer relatos de sesión al brief o a pendientes. Protocolo de rotación en `START_HERE.md`.
 
+Las regeneraciones rutinarias de EPUB y PDF no requieren anotación individual en `CLAUDE.md`, `AGENTS.md`, `log.md` o `98_Agent_Handoff/`, ni crear una nota de sesión. Registra solo decisiones, cambios de proceso o hitos editoriales que deban conservarse como contexto.
+
 Al cerrar una sesion, actualiza `CURRENT_BRIEF.md` si cambio el foco de trabajo. Si hubo una decision importante, agregala tambien a `DECISIONS.md`.
 
 ## Flujo De Trabajo

@@ -5,7 +5,7 @@ Ventana temporal: el mismo día que cubre el Cap. 26 (unas 24 horas) desde el la
 Lugares: El Penthouse del Monarch (madrugada); la carretera al noreste; una instalación federal clausurada fuera de San Aurelio (deliberadamente sin ubicar — "cuatro horas al noreste", un hangar, oficinas con mobiliario de gobierno).
 Función: CANON DEL AUTOR, H5 — lado de Kal (secciones 12 y ss. de [[06_Relationships/Hitos#H5 — San Aurelio]] desde su POV). Cierra el pendiente de balance de POV (una escena con Kal del lado militar/criminal de su vida, sin Chiara como filtro — PENDING #11).
 - Halbrook convoca a Kal y lo saca de la ciudad para reimponerle la correa: vuelve a trabajar para él o reporta a Nadir a ICE (el problema de Nadir es un papel). Primera vez que Halbrook tira de la correa en el presente de la novela; precedente de Camp Alder (H19).
-- Halbrook se escribe como hombre funcional que convirtió el tráfico en logística: papeleo en orden, trato administrativo, trata a Kal como "gestión de un riesgo pendiente". NO psicópata que disfruta. Su versión: Kal "desertó, saboteó una operación y sabe demasiado".
+- Halbrook se escribe como hombre funcional que convirtió el tráfico en logística: papeleo en orden, trata a Kal como "gestión de un riesgo pendiente" (su lenguaje, no toda su motivación). NO psicópata que disfruta. **RETRATO 2026-09-28 (reconstrucción canónica del autor, [[02_Characters/Warren_Halbrook]]):** voz grave, cálida, pausada y articulada en lugar de administrativa; atención completa (ya no lee la carpeta mientras habla, sin "tengo un vuelo" ni "no lo estoy disfrutando"); amenaza como consecuencia ("circunstancias extraordinariamente frágiles"); un elogio incómodo; retrato físico al día. Hechos, estructura y líneas funcionales (papel, riesgo pendiente, recordatorio, el costado en las curvas) intactos. Sin filosofía expuesta ni pistas de política. Su versión: Kal "desertó, saboteó una operación y sabe demasiado".
 - Kal vuelve "golpeado y malherido" (H6 §1): NO de manos de Halbrook — dos contratistas, medido, "un recordatorio, no un castigo". Kal lo baja de categoría (ficha de voz) y lo cataloga como información.
 - Los dos mensajes de texto son canon fijo (ya citados en Cap. 26): a Walt ("Cuida el barrio. Si Chiara necesita algo, ayúdala sin chistar.") y a Chiara ("Salí de la ciudad por una situación externa. Me encuentro bien. Te veo al volver."). Enviados 5:40 / 5:30. Aquí se ve redactarlos, y los borradores que no manda.
 - IRONÍA CANON: Kal decide, en el camino de vuelta, no darle a Chiara ningún nombre — protege el hilo Halbrook/Nadir/convoy. Sabe que ella puede temer que fue Varek y no lo corrige.
@@ -27,7 +27,7 @@ Continuidad:
 
 El teléfono vibró contra el mármol del baño a las tres y algo de la mañana, y Kal lo tenía en la mano antes de saber que se había movido.
 
-Chiara dormía. La había oído asentarse una hora antes, ese cambio de respiración que ya sabía leer, y había salido del cuarto descalzo para no despertarla. La noche había sido larga y buena. Se habían contado cosas que ninguno de los dos contaba. Todavía le duraba en el cuerpo la sensación rara de no haber calculado nada durante varias horas seguidas.
+Chiara dormía. La había oído asentarse una hora antes, ese cambio de respiración que ya sabía leer, y había salido del cuarto descalzo para no despertarla. La noche había sido larga. Todavía le pesaban los ojos, como después de una fiebre. Había dicho en voz alta cosas que llevaba años sin decirse ni a sí mismo, y el cuerpo no terminaba de creer que siguiera entero.
 
 Miró la pantalla. Un número sin nombre, con el código de área de un estado que no era éste.
 
@@ -87,21 +87,23 @@ Un hombre con ropa de civil cara le indicó dónde estacionar. Otro le pidió el
 
 La oficina tenía mobiliario de gobierno: un escritorio metálico, dos sillas que no combinaban, un archivero con un candado de combinación y un calendario de pared de una empresa de neumáticos, tres meses atrasado. Olía a café recalentado y a alfombra vieja. En cualquier otro país habría sido la recepción de un depósito de repuestos.
 
-Warren Halbrook estaba de pie junto al archivero, con una carpeta abierta en una mano, leyéndola como se lee algo que ya se sabe. Más viejo de lo que Kal cargaba en la memoria. Igual de ordenado. La camisa sin una arruga, los puños abrochados, la clase de hombre que a los sesenta y tantos sigue haciendo la cama con esquina de hospital.
+Warren Halbrook estaba de pie junto al archivero, con una carpeta abierta en una mano. Más viejo de lo que Kal cargaba en la memoria y no más blando: el mismo cuerpo compacto de hombre que nunca había dejado del todo de entrenar, los hombros cuadrados bajo una camisa sin una arruga, los puños abrochados, el pelo gris acero cortado como para una revista que ya nadie le pasaba. La nariz seguía un poco desviada, de alguna vez que nadie le había preguntado. Andaría por los sesenta y estaba de pie como si el cuarto se hubiera acomodado alrededor de él.
 
-—Sargento. —No levantó la vista de la carpeta—. Gracias por venir.
+Cerró la carpeta cuando Kal entró, no después, y lo miró. Nada más que eso. Kal había olvidado esa parte, o había preferido olvidarla: cuando Halbrook te miraba, no le quedaba atención para ninguna otra cosa del cuarto.
+
+—Sargento Mercer. —La voz tampoco había cambiado. Grave, pausada, con una calidez de sobremesa que nunca había significado nada bueno—. Gracias por venir.
 
 —No parecía optativo.
 
-—No lo era. Pero se agradece igual. —Cerró la carpeta y la dejó sobre el escritorio, alineada con el borde—. Siéntese. Esto es corto.
+—No lo era. Se agradece de todas maneras; la cortesía no depende de que uno tenga alternativa. —Dejó la carpeta sobre el escritorio, alineada con el borde—. Siéntese, por favor.
 
 Kal se sentó. Halbrook no.
 
-—Voy a ahorrarnos el preámbulo, porque usted no lo necesita y yo tengo un vuelo. —Habló como quien repasa una orden de compra—. Su situación y la mía volvieron a cruzarse. Hay trabajo. Del que usted hacía bien. Va a volver a hacerlo.
+—No voy a insultarlo con un preámbulo. Nuestras situaciones volvieron a cruzarse. Hay trabajo, del que usted siempre hizo mejor que nadie, y va a volver a hacerlo.
 
 —Estoy fuera de eso hace años.
 
-—Nadie está fuera de nada. Está inactivo. Es una condición administrativa, y las condiciones administrativas se revisan. —Apoyó dos dedos sobre la carpeta cerrada—. Le voy a explicar por qué esta conversación termina como yo digo y no como usted quisiera, y le pido que lo escuche como un dato y no como una amenaza, porque no lo estoy disfrutando y no tengo tiempo.
+—Nadie está fuera de nada. Está inactivo. Es una condición administrativa, y las condiciones administrativas se revisan. —Apoyó dos dedos sobre la carpeta cerrada—. Voy a explicarle por qué esta conversación termina como yo digo y no como usted preferiría. Le pido que lo escuche como un dato. Las amenazas son para los hombres que necesitan que se les crea.
 
 Abrió la carpeta otra vez. La giró sobre el escritorio para que Kal leyera del derecho.
 
@@ -111,23 +113,23 @@ Nadir.
 
 El sedán que Walt le había mencionado le cruzó la cabeza medio segundo y Kal lo apartó. Podía significar algo. Podía no significar nada. Halbrook no regalaba explicaciones y él no iba a fabricarlas por su cuenta.
 
-—Es un expediente limpio —dijo Halbrook—. Está a un sello de dejar de serlo. Usted sabe mejor que nadie lo que le pasa a un hombre en la situación de su amigo cuando alguien con firma decide mirarlo de cerca. No hay favor que lo arregle. No hay dinero. No es una puerta que usted pueda abrir con una llamada. —Enderezó la hoja medio centímetro, como había hecho con la carpeta—. Es un papel. Y los papeles los muevo yo.
+—El señor Amrani —dijo Halbrook, y pronunció bien el apellido, como quien se tomó el trabajo de aprenderlo— continúa en este país gracias a circunstancias extraordinariamente frágiles. Hoy es un expediente limpio. Está a un sello de dejar de serlo. Usted sabe mejor que nadie lo que le pasa a un hombre en su situación cuando alguien con firma decide mirarlo de cerca. No hay favor que lo arregle. No hay dinero. No es una puerta que usted pueda abrir con una llamada. —Enderezó la hoja medio centímetro, como había hecho con la carpeta—. Es un papel. Y los papeles los muevo yo.
 
-Kal miró la hoja el tiempo justo para no darle el gusto de mirarla de más. No era un papel armado esa misma mañana: Halbrook no se sentaba a una mesa sin saber ya qué iba a servir. Después miró a Halbrook.
+Kal miró la hoja el tiempo justo para no darle el gusto de mirarla de más. No era un papel armado esa misma mañana: Halbrook no se sentaba a una mesa sin saber ya qué iba a servir. Después levantó la vista, y Halbrook no había dejado de mirarlo a él.
 
 —Qué trabajo.
 
-—Se lo dirán cuando corresponda. Hoy sólo se establece que hay uno y que usted lo va a hacer. —Recogió la carpeta—. Le va a llegar una entrada a un sitio donde usted ya estuvo. Material que sacar. Es logística, Mercer. Cosas que se mueven de un lado a otro por rutas que no figuran en ningún manifiesto. —Una pausa mínima, casi cortés—. De todos los hombres que conozco, usted es el que mejor entiende cómo se mueve una carga que no puede aparecer en una lista.
+—Se lo dirán cuando corresponda. Hoy sólo se establece que hay uno y que usted lo va a hacer. —Recogió la carpeta—. Le va a llegar una entrada a un sitio donde usted ya estuvo. Material que sacar. Cosas que se mueven de un lado a otro por rutas que no figuran en ningún manifiesto. —Una pausa mínima, casi cortés—. Han pasado muchos hombres capaces por mis manos, sargento. Ninguno entendía como usted cómo se mueve una carga que no puede aparecer en una lista. Se lo digo como un elogio. Ya sé que no lo va a recibir así.
 
-La mandíbula se le tensó a Kal un segundo. El mismo segundo de siempre. Se le pasó antes de que Halbrook, que ya se estaba guardando la carpeta bajo el brazo, hubiera podido leerlo aunque hubiera querido.
+La mandíbula se le tensó a Kal un segundo. El mismo segundo de siempre. Halbrook lo vio; no hizo nada con eso, y ésa fue la peor parte.
 
 —Usted y yo tenemos versiones distintas de la última vez —dijo Kal.
 
-—Tenemos la misma versión. Le damos nombres distintos. —Halbrook fue hacia la puerta—. En la mía, un soldado abandonó su puesto, comprometió una operación en curso y salió cargando información que no le pertenecía. Que a usted esa frase le suene fea no la hace inexacta. —Abrió—. Yo no lo persigo, Mercer. Perseguir es caro y es ruidoso. Usted es un riesgo pendiente, y los riesgos pendientes se administran. Esto es administrarlo.
+—Tenemos la misma versión. Le damos nombres distintos. —No se movió todavía hacia la puerta; le concedió la frase entera, mirándolo—. En la mía, un soldado abandonó su puesto, comprometió una operación en curso y salió cargando información que no le pertenecía. Que a usted esa frase le suene fea no la vuelve inexacta. —Se acomodó la carpeta bajo el brazo y fue hacia la puerta—. No lo persigo, Mercer. Perseguir es caro y es ruidoso, y usted nunca fue un hombre al que hiciera falta perseguir. Usted es un riesgo pendiente. Los riesgos pendientes se administran. Esto es administrarlo.
 
 En el marco se cruzó con los dos hombres que entraban. Ropa de civil, la misma que los de afuera. Ninguno de los dos tenía cara de nada.
 
-—No les pedí que fueran innecesarios —les dijo Halbrook al pasar, sin detenerse—. Les pedí que quedara claro en qué punto estamos. No es un castigo. Es un recordatorio. —Y a Kal, ya de espaldas, del pasillo—: Maneje con cuidado a la vuelta. Le va a doler el costado en las curvas.
+—No les pedí nada innecesario —les dijo Halbrook al pasar, sin apuro—. Les pedí que quedara claro en qué punto estamos. No es un castigo. Es un recordatorio. —Y a Kal, ya de espaldas, desde el pasillo, con la misma voz amable—: Maneje con cuidado a la vuelta, sargento. Le va a doler el costado en las curvas.
 
 ***
 
@@ -145,7 +147,7 @@ El costado le dolía en las curvas, tal como el hombre había dicho, con una pre
 
 La verdad no. La verdad tenía un nombre, y el nombre venía atado a otro nombre —Nadir— y a una tercera cosa más vieja que ninguno de los dos, y si ella tiraba de cualquiera de las puntas se le venía encima el ovillo completo. Chiara con un ovillo en la mano no lo soltaba. Lo desarmaba. Y desarmándolo se metía en el mismo cuarto donde acababan de contarle a Kal en qué punto estaba.
 
-Ella iba a pensar en Varek. Kal lo sabía. Después de lo que Varek le había dicho de madrugada —eso Kal no lo sabía con detalle, pero lo intuía por cómo había subido ella, midiendo el aire—, Chiara iba a juntar su mensaje raro con la amenaza de Varek y iba a llegar a la respuesta equivocada. Y él iba a dejarla ahí. Iba a dejar que persiguiera al hombre de al lado para que no mirara al de arriba.
+Ella iba a pensar en Varek. Kal lo sabía. Después de lo que Varek le había dicho de madrugada —eso Kal no lo sabía con detalle, pero lo intuía por el teléfono bocabajo en el sofá y por la voz de gerente que todavía le quedaba cuando la encontró—, Chiara iba a juntar su mensaje raro con la amenaza de Varek y iba a llegar a la respuesta equivocada. Y él iba a dejarla ahí. Iba a dejar que persiguiera al hombre de al lado para que no mirara al de arriba.
 
 No le gustó. Lo hizo lo mismo. Era el trato de siempre, sólo que esta vez le tocaba a ella pagar la parte de andar a ciegas.
 

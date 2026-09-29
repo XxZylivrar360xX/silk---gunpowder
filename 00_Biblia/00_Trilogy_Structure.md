@@ -43,7 +43,7 @@ Cada libro debe crear el conflicto del siguiente. No se introducen antagonistas 
 - La llegada física de Halbrook a San Aurelio al final del Libro II convierte una amenaza del pasado en un actor presente.
 - La caída legal de Dario en el Libro III abre un vacío territorial que vuelve a Il Consorzio más libre para intervenir.
 - La operación final de Halbrook destruye la falsa sensación de victoria y obliga a Kal a sentenciarlo.
-- La ejecución pública de Halbrook abre el Libro IV y provoca la escalada federal que encarna Meridian.
+- La ejecución pública de Halbrook **cierra el Libro III** (supersesión del autor 2026-09-28; antes abría el IV) y provoca la escalada federal que encarna Meridian en el Libro IV. Muere en su discurso de victoria; la ciudad duda entre Kal y Nadir; la verdad (Harper disparó; Kal y Nadir la cubren) se reserva para el final del Libro IV. Ver [[02_Characters/Warren_Halbrook]].
 - El vacío dejado por Dario y Halbrook hace que todos esperen un nuevo poder central; Kal y Chiara responden construyendo una estructura capaz de sobrevivir sin ellos.
 
 ---
@@ -299,7 +299,7 @@ Comienza con consecuencias, anomalías y señales posteriores a H1:
 
 - la ciudad intenta interpretar el choque del final del Libro II;
 - Dario reorganiza presión;
-- Halbrook empieza a operar físicamente en San Aurelio;
+- Halbrook empieza a operar físicamente en San Aurelio (y, a lo largo del libro, pasa de autoridad de crisis a figura pública y candidato; canon del autor 2026-09-28, ver [[02_Characters/Warren_Halbrook]]);
 - Kal responde a hechos que no parecen pertenecer todos al mismo conflicto;
 - Chiara empieza a detectar patrones;
 - la policía acumula evidencia sin conocer el mapa completo.
@@ -413,11 +413,15 @@ Kal decide:
 
 > **Warren Halbrook va a morir.**
 
-La decisión pertenece al Libro III. La ejecución pertenece al Libro IV.
+> **CANON DEL AUTOR (2026-09-28) — el despacho:** después de Santa Lucía y de ver a Chiara, Kal va a la sede de Halbrook, ya candidato. Lo amedrenta y se contiene por una sola razón, que oculta: Elenna. Halbrook: *"¡Ha! ¿Es el gran Kal Mercer tan cobarde para tomar mi cabeza de mis hombros?"* Kal no dice nada y se retira. Si es la sentencia misma o la precede: PENDIENTE. Ver [[02_Characters/Warren_Halbrook]].
+
+~~La decisión pertenece al Libro III. La ejecución pertenece al Libro IV.~~ **SUPERSEDIDO (2026-09-28, CANON DEL AUTOR): decisión y ejecución pertenecen ambas al Libro III.** Halbrook gana su elección y muere de un disparo de francotirador durante el discurso de victoria (*"Es un nuevo futuro para San Aurelio."*). No se muestra al tirador. Ver la secuencia completa en [[02_Characters/Warren_Halbrook]], "Muerte".
 
 ## Coda final — Corrado
 
-La mañana posterior a Santa Lucía, Corrado Ardizzone aparece ante Kal mientras Chiara no está en condiciones de recibirlo.
+~~La mañana posterior a Santa Lucía, Corrado Ardizzone aparece ante Kal mientras Chiara no está en condiciones de recibirlo.~~
+
+> **SUPERSEDIDO (2026-09-28, CANON DEL AUTOR) — el hospital:** tras el corte del disparo, Kal llega a la puerta del cuarto donde Chiara sigue en coma; toma la perilla, cierra los ojos, respira como quien deja pasar una noche larga (el lector cree que viene de matar a Halbrook; el texto nunca lo afirma). Abre: un hombre de espaldas con la silueta de Halbrook; Kal cree que sobrevivió y lleva la mano al arma. Primera voz de Corrado en prosa: *"Señor Mercer, no hace falta eso. No vengo a hacerle daño, ni a usted ni a ella."* Kal: *"¿Quién es usted?"* Corrado se vuelve; Kal lo reconoce por las fotografías de Villa Candelaria y se queda sin palabras. Corrado: *"Creo que usted y yo tenemos que hablar."* Fin del libro, sin que entre la conversación. Detalle y reglas: [[02_Characters/Warren_Halbrook]], "Muerte"; [[02_Characters/Corrado_Ardizzone]].
 
 > **Corrado está vivo.**
 
@@ -437,8 +441,9 @@ Estado de salida:
 - Chiara ha sobrevivido a Santa Lucía.
 - Elenna sigue viva y lejos bajo la identidad Serra.
 - Kal y Chiara ya decidieron construir una salida.
-- Kal ha sentenciado a Halbrook.
-- Corrado ha sido revelado vivo.
+- Kal ha sentenciado a Halbrook; Halbrook está muerto (tirador sin revelar; la ciudad y el lector sospechan de Kal).
+- Chiara sigue en coma.
+- Corrado ha sido revelado vivo, sólo a Kal.
 - Il Consorzio tiene más espacio para actuar por el vacío de Dario.
 
 ---
@@ -463,7 +468,7 @@ Movimiento esencial:
 
 `ser indispensable -> construir reemplazo -> soltar`
 
-Kal abre el libro todavía usando la solución que conoce: eliminar la amenaza. Ejecuta a Halbrook y descubre que resolver un problema acumulando poder produce un problema todavía mayor.
+Kal abre el libro con Halbrook ya eliminado, cargando la solución que conoce: eliminar la amenaza. ~~Ejecuta a Halbrook~~ **(SUPERSEDIDO 2026-09-28, canon del autor: Kal lo sentenció, pero quien dispara es Harper Walker; Kal y Nadir la cubren y dejan que la ciudad crea que fue uno de ellos)** y descubre que resolver un problema acumulando poder produce un problema todavía mayor.
 
 Halbrook muere y aparece Meridian.
 
@@ -491,17 +496,21 @@ Chiara no completa su arco convirtiéndose en heredera de una corona italiana ni
 
 Su objetivo final es dejar de aceptar la separación de Elenna como solución permanente.
 
-## Apertura — ejecución de Halbrook
+## Apertura — después de Halbrook
 
-El Libro IV abre con la **ejecución pública de Warren Halbrook por Kal Mercer**.
+> **SUPERSEDIDO (2026-09-28, CANON DEL AUTOR):** la ejecución ya no abre el Libro IV; cierra el III. El Libro IV abre cargando a la vez: Halbrook muerto, tirador desconocido, Chiara en coma, Héctor y Kenji muertos, Corrado vivo y Kal frente al padre de Chiara por primera vez. **Regla de POV:** en POV de Kal no escribir rodeos artificiales para esquivar a Harper; el hecho se trata por consecuencias externas (investigación, acusaciones, prensa). Lo que sigue en esta sección se conserva como histórico donde choque. Ver [[02_Characters/Warren_Halbrook]].
 
-La decisión ya fue tomada al final de *Voto de Ceniza*. La apertura muestra su cumplimiento y, de inmediato, su consecuencia.
+~~El Libro IV abre con la **ejecución pública de Warren Halbrook**.~~
+
+> **CANON DEL AUTOR (2026-09-28) — SUPERSEDE "por Kal Mercer":** Halbrook, ya electo, muere durante su **discurso de victoria**, en el instante en que dice *"Es un nuevo futuro para San Aurelio."* La identidad del tirador no se revela durante la mayor parte del libro: la ciudad y los personajes sostienen dos hipótesis (Kal, como cobro por Héctor, Chiara y la guerra; Nadir, para cortar la correa). Ambos las dejan vivir para proteger a la verdadera responsable. **Verdad reservada para el final del Libro IV: Harper Walker disparó; Kal y Nadir la cubrieron.** La revelación llega cuando Nadir se lo cuenta a Chiara. Colocación resuelta el mismo día: cierre del Libro III. Ver [[02_Characters/Warren_Halbrook]].
+
+La decisión y la ejecución ocurren al final de *Voto de Ceniza*. La apertura del Libro IV muestra la consecuencia.
 
 La muerte pública de un Brigadier General rompe la posibilidad de cerrar la crisis como problema meramente local.
 
 > **Meridian entra o escala como respuesta federal.**
 
-No convertir la escena de ejecución en manual táctico. Su función es narrativa, política e institucional.
+No convertir la escena de ejecución (al cierre del Libro III) en manual táctico. Su función es narrativa, política e institucional.
 
 ## El sentido de Cuentas de Sangre
 
@@ -636,8 +645,8 @@ O, en su herida más profunda:
 |---|---|---|
 | **Máscaras de Cristal** | **Sombras de Poder** | Reencuentro tras Camp Alder ("Ciao, bella") + reconciliación completa + asesinato de Tommaso esa misma tarde + arranque de la organización de Kal (Ren Wei) |
 | **Sombras de Poder** | **Voto de Ceniza** | Primer choque abierto asociado a la presión de Dario + H1 + embarazo revelado + llegada física de Halbrook a San Aurelio |
-| **Voto de Ceniza** | **Cuentas de Sangre** | Dario preso + montaña + Santa Lucía + Kal sentencia a Halbrook + Corrado vivo |
-| **Cuentas de Sangre** | cierre de saga | Halbrook ejecutado provoca Meridian; vacío de Dario activa Consorzio; Kal/Chiara vuelven reemplazable su poder y salen hacia Elenna |
+| **Voto de Ceniza** | **Cuentas de Sangre** | Dario preso + montaña + Santa Lucía + Kal sentencia a Halbrook + Halbrook ejecutado en su discurso de victoria (tirador oculto) + Corrado vivo en el hospital |
+| **Cuentas de Sangre** | cierre de saga | La muerte de Halbrook (cierre del III) provoca Meridian; el tirador se revela al final (Harper); vacío de Dario activa Consorzio; Kal/Chiara vuelven reemplazable su poder y salen hacia Elenna |
 
 ---
 
@@ -658,9 +667,9 @@ Este documento cambió canon anterior en los siguientes puntos:
 9. **La caída legal de Dario ocurre cerca del final del libro de la guerra y funciona como falso clímax.** *(Vigente, en Libro III.)*
 10. **La operación montaña + Santa Lucía pertenece al clímax real del libro de la guerra.** *(Vigente, en Libro III.)*
 11. **Chiara puede cerrar su conciencia en Santa Lucía recordando el video de H22.** *(Vigente.)*
-12. **Kal decide que Halbrook debe morir al final del libro de la guerra; no lo ejecuta todavía.** *(Vigente, en Libro III.)*
-13. **Corrado es revelado vivo en la coda final del libro de la guerra, después de Santa Lucía.** *(Vigente, en Libro III.)*
-14. **La ejecución pública de Halbrook abre el libro siguiente.** *(Vigente; ese libro es ahora Libro IV — Cuentas de Sangre.)*
+12. **Kal decide que Halbrook debe morir al final del libro de la guerra.** *(Vigente, en Libro III. "No lo ejecuta todavía" supersedido 2026-09-28: Halbrook muere al cierre del mismo libro, por mano de Harper.)*
+13. **Corrado es revelado vivo en la coda final del libro de la guerra, después de Santa Lucía.** *(Vigente, en Libro III; desde 2026-09-28, en el hospital, después de la ejecución de Halbrook.)*
+14. ~~**La ejecución pública de Halbrook abre el libro siguiente.**~~ *(SUPERSEDIDO 2026-09-28, canon del autor: cierra el Libro III, antes de la coda de Corrado. Tirador: Harper Walker, cubierta por Kal y Nadir; revelación al final del Libro IV.)*
 15. **Meridian y el conflicto pleno con Il Consorzio pertenecen principalmente a ese libro.** *(Vigente, Libro IV.)*
 16. **Ese libro ejecuta un plan de salida que ya nació en el libro de la guerra.** *(Vigente.)*
 
