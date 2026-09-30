@@ -94,6 +94,21 @@ planeado capítulo a capítulo — sin redactar — en
 tramo 39-45 aunque el 45 en adelante pertenezca ya a este libro. Carpetas de Partes creadas
 (`Part_01_Nieve_Y_Ceniza/`, `Part_02_Exilio/`, `Part_03_Torna_A_Casa/`), vacías.
 
+## Escenas en reserva
+
+**"Mac a Almendra" — CANON DEL AUTOR (2026-09-30), ubicación PENDIENTE.** Escena cómica por radio durante un crimen o una operación que hacen juntos. Paga el "Mac" de las carreras y el "Mandorla" del contacto telefónico (Caps. 6 y 8, ver [[02_Characters/Chiara_Bellandi]]). Diálogo del autor, intocable:
+
+> K: Mac a Almendra, cambio.
+> C: ...
+> K: Repito, Mac a Almendra, cambio.
+> C: ¡Es Mandorla!
+> K: Es lo mismo.
+> C: No lo es, Kal.
+> K: ¡Pero no digas mi nombre en radio abierta, mujer!
+> C: [suelta una carcajada por radio]
+
+La ocasión, el momento del libro y quién más escucha la radio siguen PENDIENTES del autor.
+
 ## Pendientes explícitos
 
 Ver la lista completa en [[01_Timeline/03_Libro_02_Sombras_De_Poder]], sección "Elementos

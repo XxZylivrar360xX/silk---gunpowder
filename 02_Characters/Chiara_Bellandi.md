@@ -346,6 +346,8 @@ Guardarraíles. Si un borrador la empuja hacia aquí, está mal escrita:
 
 En las carreras de Kingsley Field ([[06_Relationships/Hitos]], H9 — Capítulo 8), cuando Tyler Brooks le pide un nombre, Chiara contesta por sí misma antes de que Kal hable por ella: **"Mandorla"** — almendra, en italiano. Disimulado para cualquiera que lo oiga, es una traducción directa de **La Almendra**, el barrio de Kal (ver [[03_Factions/Almendra_Towing]]), dicha en su propio idioma para que solo él la entienda.
 
+**CANON DEL AUTOR (2026-09-30) — origen en el teléfono.** "Mandorla" no nace frente a Tyler: es el nombre con que Chiara tiene guardado a Kal en el celular, porque "Mercer lo lee cualquiera" (mismo gesto que la carpeta "que no se llamaba Mercer" del Cap. 5). Kal lo descubre en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Ambos|Capítulo 6]], tras *Parole Parole*, en las llamadas recientes; ella le dice "Almendra. En italiano." Asimetría: él la guarda como **Bellandi** (Cap. 5), el apellido sin disfraz. En el Cap. 8, Chiara se pone como nombre propio la máscara con que lo esconde a él.
+
 Es la asimetría exacta con el apodo de él ([[02_Characters/Kal_Mercer]], "Mac"): Mac esconde su propio nombre. Mandorla nombra el de Kal sin que nadie más lo note. Él se da cuenta y no dice nada — la sonrisa que no llega a completarse es toda la confirmación que necesita.
 
 ---
