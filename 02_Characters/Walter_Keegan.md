@@ -92,6 +92,8 @@ Y Silas Crowe entiende al instante lo que significa: **uno de los pocos hombres 
 >
 > Es la mejor prueba posible de la tesis del Tasador y su contraria a la vez: Silas cree que todo tiene precio, y lo que lo pone nervioso es **un hombre que no le debe nada.**
 
+> **SUPERSEDIDO EN PARTE (2026-09-29, autor, reapertura del Cap. 3):** el porche con cervezas se retiró. El núcleo del capítulo es Walt volviendo a un mundo que cambió: salida (Nat ya está ahí), cementerio inmediatamente después, la Almendra (donde Nat está en casa), presentación con Nadir y Danny, y el trabajo del Tasador que Kal plantea delante de él. Las líneas del joyero, la libertad condicional, "legal es el camino más corto" y "si hay problema, respondo" pasaron a esa escena; Walt no va al trabajo. Nueva (DISEÑO): Walt todavía llama a Crowe "el joyero" y no sabía que ahora le dicen el Tasador; a "le hago un trabajo" de Kal contesta "Eso decía tu padre". El pacto de "los viejos días, renovados y con sangre nueva" ya no se dice: se ve.
+
 **CANON DEL AUTOR (2026-08-24):** en el Capítulo 3, Kal y Héctor van a recibirlo cuando sale de prisión. Walt vuelve queriendo cuidar su libertad condicional y mantenerse del lado legal de la vida, aunque deja claro que si llega a haber problema, responderá. En el porche, con cervezas, menciona que sigue un poco resentido con "el joyero", pero ahora valora más estar afuera.
 
 Esa primera tarde, Walt, Héctor y Kal prometen traer de vuelta los viejos días de La Almendra, renovados y con sangre nueva.

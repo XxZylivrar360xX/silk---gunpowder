@@ -1,12 +1,275 @@
 <!--
 Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): mecanico (signo de interrogacion en la rampa). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_04-13_Lote_A.md.
 Protagonistas: Chiara Bellandi, Kal Mercer.
-Ventana temporal: dias posteriores a la salida de Walt.
-Lugares: The Monarch Casino & Hotel, La Isla, La Almendra.
-Funcion: mostrar el primer favor bajo la mesa, el error funcional de Blake y la incomodidad de Chiara al aceptar ayuda de Kal.
+Ventana temporal: lunes, mismo dia de la salida de Walt (Cap. 3), de la manana a la noche. (Corregido 2026-09-29: el bloque de Chiara que abre el capitulo fija la fiesta en "esta noche"; mientras Kal esta en el trabajo del Cap. 3, Chiara esta en La Isla, y la llamada de Varga llega despues.)
+Lugares: The Monarch Casino & Hotel, centro de San Aurelio (cafeteria frente a Plaza Corona), La Isla, La Almendra.
+Traslado (2026-09-29, decision del autor en la reapertura del Cap. 3): el bloque de Chiara que cerraba el Cap. 3 (titular de Keene, torneo de poker y roce con Tommaso, salida al centro, Blake y la invitacion a La Isla) abre ahora este capitulo, integro y sin pulir; el 3 queda en POV Kal y el POV compartido deliberado se reserva para el Cap. 5. Pendiente: pasada de pulido del bloque trasladado dentro de la economia del 4.
+Funcion: abrir el dia de Chiara (Keene como comunicado, Tommaso, Blake) y mostrar el primer favor bajo la mesa, el error funcional de Blake y la incomodidad de Chiara al aceptar ayuda de Kal.
 -->
 
 # Capítulo 4 — Tarifa nocturna
+
+Chiara empezó la mañana con el titular de Keene y una taza de café que sabía a hotel caro.
+
+La pantalla del teléfono descansaba junto al plato de fruta intacto. Plaza Corona. Tres tiros. Jefe de policía ejecutado en una banca. La versión pública todavía buscaba palabras: atentado, crimen, investigación, comunidad consternada. Chiara leyó cada una y descartó casi todas.
+
+Lo que le interesaba no era quién había disparado. Era el calendario.
+
+Un casino a punto de abrir necesitaba que la palabra San Aurelio significara costa, dinero nuevo y un fin de semana caro. Desde esa mañana significaba un jefe de policía con tres tiros en la plaza principal. Cada nota que se escribiera sobre el Monarch en las próximas semanas iba a llevar esa fotografía pegada detrás aunque nadie la imprimiera, y los invitados de fuera no cancelarían por miedo: cancelarían porque cancelar los hacía verse prudentes.
+
+Quien lo hizo eligió la plaza, la hora y la banca. Eso no era rabia. Era un comunicado escrito en otro alfabeto, publicado encima del suyo.
+
+Recordó a Dario dejando la reunión del día anterior por una diligencia en el centro y no permitió que la conclusión se formara completa. No porque le diera miedo pensarla. Porque una conclusión sin prueba era un lujo, y ella no pagaba por lujos inútiles.
+
+A las diez, ya estaba en la sala de administración del Monarch con una carpeta nueva.
+
+El casino olía distinto de día. Menos promesa. Más cables, detergente, café de empleados, alfombra húmeda y metal de máquinas abiertas. Las luces del piso de juego estaban encendidas a medias. Sin noche encima, los dorados parecían más delgados y las sonrisas de los carteles un poco desesperadas.
+
+Matteo llegó tarde con dos llamadas encima. Fabrizio llegó con gafas oscuras y cara de no haber dormido. Tommaso llegó puntual, que era su manera de recordarle a la mesa que la disciplina podía ser arma.
+
+Dario no llegó.
+
+Nadie preguntó por qué.
+
+Chiara abrió su carpeta.
+
+—Poker.
+
+Matteo parpadeó.
+
+—Buenos días a ti también.
+
+—Torneos de poker —dijo ella—. Semanales primero. Después mensuales con bolsa mayor. Entrada alta, registro limpio, patrocinadores visibles, invitados de fuera y diez por ciento para la casa.
+
+Fabrizio se quitó las gafas.
+
+—Diez por ciento limpio.
+
+—Exactamente.
+
+Tommaso miró la carpeta.
+
+—El casino ya tiene mesas.
+
+—Mesas no son relato. Un torneo sí.
+
+Matteo se sentó.
+
+—Explícate.
+
+Chiara empujó una hoja al centro.
+
+—Un jugador pierde cincuenta mil en una noche y parece idiota. Un jugador paga entrada, recompra fichas, llega a semifinal y pierde contra alguien de Los Ángeles: parece parte de un evento. La casa toma diez por ciento, el hotel llena habitaciones, los restaurantes venden, prensa social cubre fotos, y el dinero que entra tiene una historia más elegante que la desesperación.
+
+Fabrizio sonrió despacio.
+
+—Esto sí suena a Palermo.
+
+—No. Palermo habría querido veinte por ciento y un primo en la mesa final.
+
+Matteo soltó una risa. Tommaso no.
+
+—¿Y quién garantiza que el torneo no se vuelva un imán de problemas? —preguntó.
+
+—Nadie. Por eso se diseña.
+
+—Qué cómodo.
+
+Chiara lo miró.
+
+—Cómodo sería abrir mesas y esperar que la gente elegante llegue sola.
+
+Tommaso dejó la pluma sobre la mesa.
+
+—No necesito una lección de elegancia.
+
+—No estaba ofreciendo una.
+
+Fabrizio bajó la voz.
+
+—Chiara.
+
+Ella no apartó la mirada de Tommaso.
+
+El roce venía desde antes de San Aurelio, desde antes del casino. Tommaso no necesitaba nombrar a Alessio para traerlo. Le bastaba con pronunciar su nombre de pila con una familiaridad cuidadosamente vencida.
+
+—La familia siempre agradeció tu capacidad para ordenar versiones —dijo él.
+
+Matteo dejó de moverse.
+
+Fabrizio cerró los ojos un instante.
+
+Chiara sintió el anular izquierdo.
+
+Esta vez sí lo tocó.
+
+No fue mucho. Apenas la yema del pulgar sobre la piel donde ya no había anillo. Lo suficiente para odiarse por haberlo hecho delante de él.
+
+—Y yo siempre agradecí que ciertas familias confundieran silencio con discreción —dijo.
+
+Tommaso sonrió tarde.
+
+—Sigues siendo directa.
+
+—Sigues confundiendo eso con invitación.
+
+El silencio que quedó no pertenecía al casino. Era más viejo.
+
+Matteo carraspeó.
+
+—El torneo se revisa. Números, seguridad, invitados y calendario. Chiara, si puedes preparar una proyección—
+
+—Ya está preparada.
+
+Le pasó la segunda hoja.
+
+Matteo la tomó como quien recibe algo caliente.
+
+Fabrizio se inclinó hacia ella cuando Tommaso empezó a leer.
+
+—Sal de aquí una hora.
+
+—Estoy trabajando.
+
+—Por eso.
+
+Chiara lo miró.
+
+Fabrizio no sonreía.
+
+—No le regales el resto del día.
+
+Ella cerró la carpeta despacio. No era retirada ni obediencia: era administración de daño.
+
+—Revisen los números —dijo—. Vuelvo después de comer.
+
+Tommaso no levantó la vista.
+
+—Como prefieras.
+
+Chiara tomó el bolso y salió antes de contestarle. En el pasillo, el aire frío del Monarch le pareció de pronto demasiado tocado por todos.
+
+No pidió coche del hotel.
+
+Pidió un taxi.
+
+***
+
+El centro de San Aurelio no intentaba seducirla. Eso le gustó.
+
+Calle Corona tenía juzgados, bancos viejos, oficinas municipales, cafeterías con mesas demasiado juntas, gente que caminaba rápido aunque no pareciera ir a ningún lugar bueno y patrullas todavía estacionadas alrededor de Plaza Corona. La banca donde habían encontrado a Keene estaba cubierta y lejos, convertida en punto ciego por cinta, cuerpos y cámaras.
+
+Chiara no se acercó.
+
+Pagó el taxi una cuadra antes y caminó sin prisa, sólo para sentir la ciudad debajo de los tacones. Palermo sabía empujar desde los balcones. Nueva York desde la acera. San Aurelio empujaba desde los bordes: una patrulla mal estacionada, una mujer vendiendo flores frente a un edificio público, un hombre con traje barato que no dejaba de mirar su teléfono, una reportera acomodándose el cabello antes de salir en vivo.
+
+Entró a una cafetería sin elegirla demasiado.
+
+Tenía piso de mosaico viejo, barra de madera, vitrinas con pan dulce, estudiantes con laptops, dos abogados hablando en voz baja y un televisor sobre la máquina de espresso mostrando la misma fotografía de Keene que todo el mundo había decidido mirar sin sonido.
+
+Chiara pidió un espresso doble.
+
+—Aquí lo hacemos más largo —dijo la chica de la caja.
+
+—Entonces hágalo menos largo.
+
+La chica la miró, decidió que no valía la pena discutir con el acento y cobró.
+
+Chiara se sentó junto a la ventana. Sacó el teléfono, pero no lo desbloqueó. Afuera, Plaza Corona seguía cercada. Adentro, la gente fingía que un asesinato a cincuenta metros no cambiaba el sabor del café.
+
+—No eres de aquí.
+
+La frase llegó desde su derecha, con confianza de hombre acostumbrado a que las frases le abrieran espacio.
+
+Chiara giró la cabeza.
+
+Rubio. Ojos azules. Uniforme de patrulla con las mangas ajustadas de una manera que no debía ser reglamentaria por accidente. Veintitantos largos o treinta mal llevados por exceso de espejo. Sonreía como si ya hubiera ensayado la respuesta de ella.
+
+—Qué observación tan difícil —dijo.
+
+Él soltó una risa.
+
+—Blake Stanton.
+
+No le ofreció la mano. Le mostró el nombre en la placa con dos dedos, como si eso hiciera el saludo más interesante.
+
+—Chiara.
+
+—¿Sólo Chiara?
+
+—Por ahora.
+
+Blake apoyó el codo en el respaldo de la silla de enfrente sin sentarse.
+
+—¿Italia?
+
+—Sí.
+
+—Estuve en Roma una vez.
+
+—Lo siento.
+
+Él tardó medio segundo en decidir que era broma y se rió otra vez.
+
+—Me gusta tu estilo.
+
+Chiara bebió el espresso. Estaba largo, pero no tanto como temía.
+
+—No sabía que estaba ofreciendo uno.
+
+—Todo el mundo ofrece algo.
+
+La frase habría sonado distinta en otra boca. En la de Blake era vanidad, no amenaza. Eso la volvió menos peligrosa y más fácil.
+
+—¿Y tú qué ofreces, oficial Stanton?
+
+Él miró hacia la plaza.
+
+—¿Hoy? Una ciudad con mala prensa.
+
+—Eso ya lo tengo.
+
+—Esta noche hay una fiesta en La Isla. Gente del Departamento, gente del puerto, unos amigos que creen que saben bailar. Podrías ver una parte de San Aurelio que no salga en las noticias.
+
+Chiara debería haber dicho no.
+
+No porque Blake fuera peligroso. Porque era obvio. Porque el día ya estaba lleno de hombres ocupando espacio que no se habían ganado. Porque Tommaso seguía sentado en una sala del Monarch con el apellido de su hermano como cuchillo sin sangre.
+
+Justamente por eso no dijo no.
+
+Extrañó, con una punzada breve y ridícula, la sensación de salir en Palermo sin que todo fuera expediente. Nueva York, con sus bares demasiado caros, sus taxis amarillos, sus noches donde una podía fingir dos horas que nadie esperaba nada de ella salvo que eligiera otra copa. La vibra de moverse porque sí. De aceptar una invitación porque el cuerpo necesitaba recordar que también existía fuera de las mesas.
+
+Blake no era eso, pero podía servir de imitación barata.
+
+—¿A qué hora?
+
+La sonrisa de Blake se abrió demasiado rápido.
+
+—Diez.
+
+—Mándame la dirección.
+
+—Necesitaría tu número.
+
+Chiara lo miró en silencio.
+
+Blake sostuvo la sonrisa tres segundos y luego sacó el teléfono como si la idea hubiera sido de ella.
+
+Chiara le dictó el número.
+
+No el principal.
+
+Cuando él se fue, caminando un poco más derecho que antes, Chiara volvió a mirar la plaza.
+
+El televisor cambió de imagen. Keene otra vez. La banca. La cinta amarilla.
+
+El espresso se enfrió.
+
+Chiara pensó en Kal Mercer, en la forma en que había dicho *mi nombre va en la factura*, y se obligó a guardar el teléfono antes de preguntarse por qué ese pensamiento había llegado ahí.
+
+La ciudad nueva ya estaba empezando a comportarse como si la conociera.
+
+***
 
 La fiesta de La Isla empezó con una pulsera blanca.
 

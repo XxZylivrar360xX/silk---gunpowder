@@ -1,70 +1,43 @@
 <!--
-Estado: TERMINADO.
-Protagonistas: Kal Mercer, Chiara Bellandi.
-Ventana temporal: Fase 0, lunes, manana posterior a H2.
-Lugares: taller de Almendra Towing, carcel del condado, norte rural, La Almendra, The Monarch Casino & Hotel, centro de San Aurelio.
-Funcion: cobrar el guino de Dario/Keene, presentar la salida de Walt, sembrar a Harper, mostrar a Chiara detectando huecos del casino y abrir la salida con Blake. Añadido (2026-09-03), a peticion del autor: la escena de la tumba de Jim Keegan (hijo de Walt) -- Walt sale de prision y ese mismo dia se entera, por Kal, de que Jim murio en Afganistan hace mas de cuatro años (antes del regreso de Kal a San Aurelio; Kal lleva cuatro años en la ciudad, asi que la muerte tuvo que ser anterior a eso). Filtrada con la misma restriccion que el resto de las muertes del libro: gestos fisicos, dialogo minimo, sin detallar las circunstancias exactas de la muerte en la conversacion con Walt (el recuerdo privado de Kal si las detalla, para el lector solo). Necesaria para que la mencion de Walt a Jim en el Capitulo 17 (Cuentas claras / Anticiparse) tenga peso contenido en vez de aparecer de la nada.
-Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_01-03.md (seccion 9). Incluye la siembra de Anya (hilo B): sin nombre, "la que sabia a quien llamar", el romance apenas insinuado; Kal no la llama. En el porche, el "Temperamental y poca paciencia" de Hector sobre Dario es sarcasmo (intencion del autor).
-Insercion Natalie Keegan (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; los pasajes nuevos son BORRADOR pendiente de revision. Natalie esta en la salida de la carcel (llega antes que Walt; el "No vuelvas a prision" es canon de ficha), se va con el pretexto de su guardia de las seis y vuelve al cementerio a las cuatro: se queda junto a Kal y confiesa que calló porque Kal le pidio dejarselo a el. Cafeteria y porche intactos. En el recuerdo de Afganistan, Kal pregunta "¿Y tu hermana?" y Jim le pide que Nat no se entere nunca. Lineas canon de Walt/Kal en el cementerio sin cambios. Ver 02_Characters/Natalie_Keegan.
+Estado: BORRADOR (reapertura autorizada por el autor, 2026-09-29; antes TERMINADO). Reescritura estructural pendiente de lectura del autor.
+Protagonistas: Kal Mercer, Walter "Walt" Keegan. Con Natalie Keegan, Hector Navarro, Nadir Amrani y Danny Hayes.
+POV: Kal, unico. Chiara no aparece (su bloque paso integro al Cap. 4).
+Ventana temporal: Fase 0, lunes, manana posterior a H2. De las 10:00 (salida de Walt) al anochecer (salida al trabajo).
+Lugares: taller de Almendra Towing, carcel del condado, cementerio de Santa Lucia, La Almendra, casa comun.
+Nucleo (autor, 2026-09-29): un hombre que acaba de salir de una celda vuelve a un mundo que cambio mucho mientras no estaba. El capitulo es de Walt, no de Keene.
+Secuencia: Keene solo como titular -> carcel (Nat ya esta ahi: estuvo en la audiencia) -> cementerio inmediatamente despues (Kal no deja pasar mas tiempo) -> la Almendra, donde Nat esta en casa aunque no viva ahi -> Walt conoce a Nadir y Danny (Danny consume y lo disfraza de emocion; empieza a mentir) -> Nat se va a su turno de las 14:00 -> Kal plantea el trabajo -> se alistan de negro, con mascaras, y salen. En el alistamiento, Nadir cuenta que "el otro dia" Varek fue a buscar a Kal al porton y no dijo para que (canon del autor, 2026-09-29); Kal recupera la advertencia del antiguo porche ("Cuidense de Dario Varek...", "¿Le debes algo?" / "Todavia no"), ahora dirigida a Nadir y Danny.
+El trabajo (canon del autor, 2026-09-29): mover un cargamento de hierba por encargo del Tasador y entregarlo a Cuadra Nueve (Maya Rios, Nueve Puentes; eleccion del agente, no es la banda de Irene) a cambio de un pago fuerte, para inyectar capital y volver a poner a la Almendra en el juego. Mascaras y prendas negras. Todavia no son El Patio. El trabajo NO se muestra: Kal se lo contara a Chiara en un capitulo futuro.
+Peldano Kal-Chiara: el 2 deja la simbiosis inicial (quiza pueda obtener algo de esta persona); el 3 no la toca en escena. Lo unico que mueve es el costo: el Monarch no llama (el "te llamo manana" de Matteo queda en nada) y Kal toma el dinero oscuro. Esto es la vida cotidiana que Kal ira contandole a Chiara; la llamada de ella en el 4 reabre la puerta legal esa misma noche.
+Lineas canon conservadas: salida de la carcel ("No vuelvas a prision", "Navarro"/"Keegan", "Llevas intentando saludar como adulto...", "Tu padre hacia esa cara..."), cementerio completo de Walt/Kal/Nat (anadida por el autor, 2026-09-29: Walt deja en la lapida una carta que le escribio a Jim desde la carcel, sin direccion; nadie pregunta que dice), recuerdo de Afganistan (Jim, reporte, "¿Y tu hermana?", la mujer rusa, emboscada). "Estoy un poco resentido con el joyero" / "La libertad condicional me volvio moderado" / "Quiero mantenerme afuera..." / "Si hay problema, respondo" se reubican del porche a la escena del trabajo.
+Retirado por el autor (2026-09-29): porche con cervezas (Kal, Walt, Hector), "Quiero levantarlo", el sarcasmo de Hector y la broma de Walt sobre Dario, cafeteria del norte y Harper (su primera aparicion pasa a ser el Cap. 19), la meditacion de Kal sobre Keene. Version anterior en git (commit 14d8c4f).
+Palabras de prosa: ~4,780 (antes ~7,000 con el bloque de Chiara, que ahora vive en el Cap. 4). DISENO del agente, pendiente de lectura: la banda receptora (Cuadra Nueve), la cifra (treinta mil, mitad por adelantado), la bodega del norte, el Buick sobre la grua, la cadena "Eso decia tu padre", Walt llamando "el joyero" a Crowe, el telefono de Nat, la casa comun como vestidor.
 -->
 
 # Capítulo 3 — Los viejos días
 
 El lunes, Kal despertó antes de que sonara el teléfono, con la misma incomodidad exacta con la que se había dormido.
 
-El catre no perdonaba el traje de la noche anterior. Le había dejado una marca en el hombro, otra en la cadera y una tercera en la paciencia. La camisa azul seguía doblada sobre la caja de recibos. El saco colgaba del respaldo de la silla como si también estuviera cansado de fingir. Sobre el escritorio, junto a las llaves del Peugeot, el celular vibró una vez y se quedó quieto.
+El catre no perdonaba el traje de la noche anterior. La camisa azul seguía doblada sobre la caja de recibos y el saco colgaba del respaldo de la silla como si también estuviera cansado de fingir. La grieta del techo seguía ahí. No había aprendido nada durante la noche.
 
-Después vibró otra.
-
-Kal abrió los ojos.
-
-La grieta del techo seguía ahí. No había aprendido nada durante la noche.
-
-Tomó el teléfono sin incorporarse del todo. Tenía seis mensajes, dos llamadas perdidas y un enlace que Nadir le había mandado sin texto. Eso ya era texto suficiente.
-
-Kal abrió la nota.
-
-El titular ocupó la pantalla con una sobriedad que no alcanzaba a esconder la violencia:
+En el celular había seis mensajes y un enlace que Nadir le había mandado sin texto. Eso ya era texto suficiente.
 
 **Encuentran ejecutado al jefe de policía Raymond Keene en Plaza Corona.**
 
-Debajo, una fotografía tomada demasiado lejos mostraba la plaza principal a primera hora, cerrada con cinta amarilla. Una banca. Dos patrullas. Un toldo blanco que todavía no había terminado de cubrir lo que todos estaban mirando aunque fingieran mirar otra cosa.
+Una banca. Cinta amarilla. Un toldo blanco que todavía no terminaba de cubrir lo que todos estaban mirando. Tres tiros antes de que abrieran los juzgados.
 
-La nota decía que un trabajador de limpieza lo había encontrado sentado, con la cabeza ladeada, como si se hubiera quedado dormido antes de que abrieran los juzgados. Tres tiros. Ejecución. Sin robo aparente. Plaza Corona, frente al edificio municipal, a unos pasos del Departamento.
+La mañana anterior, Keene había firmado una hoja. No todas. Una.
 
-Kal se sentó.
+Kal dejó el teléfono bocabajo sobre el escritorio. Ya habría tiempo de averiguar quién iba a decidir ahora qué patrulla pasaba lento por la Almendra y cuál no pasaba.
 
-El catre crujió como una queja vieja.
-
-Leyó la nota dos veces. Luego dejó el teléfono sobre el escritorio, junto a las llaves del Peugeot, y se quedó mirando la pantalla apagada.
-
-La mañana anterior, Keene había firmado una hoja.
-
-No todas. Una.
-
-Legal lo revisa.
-
-Kal se pasó una mano por la cara. No pensó en duelo. No conocía a Keene lo suficiente para eso.
-
-Pensó en la calle Almendra.
-
-Un jefe de policía era un mapa: qué zonas tenía marcadas, qué favores debía, a quién le contestaba el teléfono a las tres de la mañana. Alguien acababa de borrar ese mapa antes del amanecer. Ahora cada cuadra de San Aurelio iba a tener que averiguar otra vez quién decidía qué patrulla pasaba lento y cuál no pasaba, y ese cálculo no se hacía en las mismas mesas en todas partes: en el Distrito Marino se resolvía en una junta con carpetas, en la Almendra se resolvía en la calle y siempre lo pagaba el mismo tipo de gente.
-
-Pensó también en Dario Varek, no por prueba sino por temperatura.
-
-El teléfono vibró otra vez.
+El teléfono vibró contra la madera.
 
 Héctor.
 
-Kal contestó.
+—Ya lo vi —dijo Kal.
 
-—Ya lo vi.
-
-—No te llamo por eso —dijo Héctor.
+—No te llamo por eso.
 
 La voz le salió más áspera de lo normal, pero no rota. Héctor no se rompía por teléfono. Si algo tenía que romperse, lo hacía con las manos.
-
-Kal miró la hora.
 
 —Walt.
 
@@ -74,97 +47,47 @@ Kal miró la hora.
 
 —Ya estoy afuera.
 
-Kal se puso de pie. El cuerpo protestó tarde.
-
 —Te dije que pasaba por ti.
 
 —Y yo te escuché.
 
 Héctor colgó.
 
-Kal dejó el teléfono en el escritorio, miró la camisa del día anterior y decidió que no. Abrió la bolsa de ropa limpia bajo el catre y sacó una camiseta oscura, jeans, botas. Nada que pareciera reunión. Nada que pareciera casino. Mientras se cambiaba, la noticia siguió ocupando el cuarto aunque la pantalla estuviera apagada.
-
-Keene en una banca.
-
-Tres tiros antes de que la ciudad terminara de despertar.
-
-Kal tomó las llaves del Peugeot y salió al patio.
+Kal miró la camisa del día anterior y decidió que no. Sacó de la bolsa bajo el catre una camiseta oscura, jeans, botas. Nada que pareciera reunión. Nada que pareciera casino.
 
 ***
 
-La cárcel del condado quedaba lejos de todo lo que San Aurelio ponía en postales.
-
-No estaba en el centro, donde los edificios públicos todavía pretendían dignidad, ni en el norte, donde el dinero nuevo compraba distancia. Estaba en una zona seca, de bardas largas, estacionamientos vacíos y árboles demasiado jóvenes para dar sombra útil. El edificio parecía diseñado para que nadie se quedara mirándolo más de lo necesario: concreto, rejas, cámaras, ventanas estrechas y una bandera que se movía apenas.
+La cárcel del condado quedaba lejos de todo lo que San Aurelio ponía en postales: una zona seca de bardas largas, estacionamientos vacíos y árboles demasiado jóvenes para dar sombra. Concreto, rejas, ventanas estrechas y una bandera que se movía apenas.
 
 Héctor esperaba junto a la entrada de visitantes, con gorra vieja, camisa de cuadros y una bolsa de papel en la mano.
 
-—¿Qué traes?
+No estaba solo.
 
-—Pan dulce.
+Recargada en el cofre de un Corolla gris, con los brazos cruzados, Natalie Keegan miraba la puerta metálica como si pudiera abrirla por insistencia. Traía la sudadera azul marino del Departamento de Bomberos de San Aurelio, jeans y botas con las agujetas metidas por dentro. El pelo oscuro iba en una trenza tan apretada que parecía parte del uniforme. Tenía los ojos de Walt, y Kal volvió a notarlo como cada vez: la misma manera de contar un lugar antes de entrar en él. En la barbilla llevaba una cicatriz pequeña que Kal sabía de dónde venía. Fue el borde de una hielera, un Cuatro de Julio, mucha sangre para tan poca herida.
 
-Kal apagó el motor.
+—Llegaste tarde —le dijo.
 
-—¿Para Walt?
+—Son diez para las diez.
+
+—Yo llegué a las nueve.
+
+—Y se comió dos conchas —dijo Héctor.
+
+—Una y media. La otra mitad era tuya.
+
+Héctor le ofreció la bolsa a Kal. Kal tomó una concha sin preguntar. Ése era el tipo de cariño que los tres aceptaban: comida pasada de mano en mano sin convertirla en escena.
+
+—¿Era para Walt? —preguntó Kal.
 
 —Para mí. Si quería pan, que no se metiera diez años.
 
-Kal bajó del coche.
-
-Héctor le ofreció la bolsa. Kal tomó una concha sin preguntar. Ese era el tipo de cariño que los dos aceptaban: comida pasada de mano en mano sin convertirla en escena.
-
-Kal se recargó en el Peugeot y mordió la concha.
-
-—Ayer lo vi —dijo.
-
-Héctor giró la cabeza.
-
-—¿A Keene?
-
-—Le llevé un contrato de mantenimiento para patrullas.
-
-—Mierda.
-
-—Firmó piloto.
-
-Héctor soltó aire por la nariz.
-
-—Más mierda.
-
-—Legal tenía que revisarlo.
-
-—Entonces ahora lo va a revisar medio mundo.
-
-Kal terminó la concha, dobló la servilleta y la guardó en el bolsillo porque no había bote cerca. Héctor lo vio hacerlo y no dijo nada. Había cosas que uno aprendía de niño y ya no podía desactivar.
-
-Un Corolla gris entró al estacionamiento más rápido de lo que convenía en un lugar con tantas cámaras y se quedó en diagonal, ocupando dos cajones.
-
-—Llegó la puntual —dijo Héctor, sin voltear.
-
-Natalie Keegan bajó con las llaves todavía en la mano. Traía la sudadera azul marino del Departamento de Bomberos de San Aurelio, jeans y botas con las agujetas metidas por dentro. El pelo oscuro iba en una trenza tan apretada que parecía parte del uniforme. Tenía los ojos de Walt, y Kal volvió a notarlo como cada vez: la misma manera de contar un lugar antes de entrar en él. En la barbilla llevaba una cicatriz pequeña que Kal sabía de dónde venía. Fue el borde de una hielera, un Cuatro de Julio, mucha sangre para tan poca herida.
-
-—Tienes ojeras —le dijo Héctor.
-
-—Dormí poco.
-
-—¿Desayunaste?
-
-—Café.
-
-—Eso no es desayuno.
-
-Le extendió la bolsa de papel. Natalie sacó una concha.
-
-—¿No era para ti?
-
-—Todo lo que traigo es para mí —dijo Héctor—. Luego se me acerca gente.
-
-Ella mordió el pan y miró a Kal por encima de la bolsa.
+Natalie buscó a Kal por encima de la bolsa.
 
 —¿Hoy?
 
 —Hoy.
 
-Natalie asintió una vez. Héctor se quedó mirando la puerta metálica como si no hubiera oído. Los tres sabían de qué hablaban.
+Ella asintió una vez. Héctor siguió mirando la puerta como si no hubiera oído. Los tres sabían de qué hablaban.
 
 La puerta se abrió a las diez con cuatro minutos.
 
@@ -174,13 +97,13 @@ Walt Keegan salió tercero.
 
 No parecía un hombre libre. Todavía no. Parecía un hombre al que acababan de cambiar de cuarto.
 
-Llevaba una camisa gris demasiado grande, pantalón oscuro, zapatos sin brillo y una bolsa de plástico con papeles doblados, una libreta, un cepillo de dientes y lo que el estado consideraba pertenencias. El pelo le había salido más blanco de lo que Kal recordaba de las fotos viejas. La espalda seguía recta. Eso sí.
+Llevaba una camisa gris demasiado grande, pantalón oscuro, zapatos sin brillo y una bolsa de plástico con papeles doblados, una libreta, un cepillo de dientes y lo que el estado consideraba pertenencias. El pelo le había salido más blanco de lo que Kal recordaba. La espalda seguía recta. Eso sí.
 
 Héctor se apartó del coche. Natalie no.
 
 Walt la vio a ella primero.
 
-Se detuvo a media banqueta, con la bolsa de plástico colgándole de una mano, y por un segundo Kal le vio en la cara las dos cosas a la vez: la niña de catorce años que había dejado en la puerta de su casa y la mujer de sudadera azul que lo esperaba recargada en un coche, sin moverse, dejando que fuera él quien llegara.
+Se detuvo a media banqueta, con la bolsa colgándole de una mano, y por un segundo Kal le vio en la cara las dos cosas a la vez: la niña de catorce años que había dejado en la puerta de su casa y la mujer de sudadera azul que lo esperaba recargada en un coche, sin moverse, dejando que fuera él quien llegara.
 
 La había visto en la audiencia. Kal lo sabía. No era lo mismo: ahí había una mesa, un guardia y un reloj.
 
@@ -198,17 +121,13 @@ Walt se rió con la cara metida en el pelo de su hija, y Kal tuvo que mirar haci
 
 Después Walt vio a Héctor.
 
-Y luego a Kal.
-
-No sonrió de inmediato. Lo midió como se mide una casa que uno dejó cerrada mucho tiempo: buscando qué seguía ahí y qué se había caído sin hacer ruido.
-
 —Navarro.
 
 —Keegan.
 
-Se abrazaron sin golpearse la espalda. Eso fue lo que hizo que a Kal se le moviera algo en el pecho: dos viejos que entendían que había cansancios a los que no se les pega.
+Se abrazaron sin golpearse la espalda. Dos viejos que entendían que había cansancios a los que no se les pega.
 
-Walt se volvió hacia él.
+Walt se volvió hacia Kal y lo midió como se mide una casa que uno dejó cerrada mucho tiempo: buscando qué seguía ahí y qué se había caído sin hacer ruido.
 
 —Mercer.
 
@@ -218,17 +137,11 @@ Walt la miró, luego miró su cara.
 
 —Llevas intentando saludar como adulto desde que tenías doce años.
 
-Kal bajó la mano.
+Kal bajó la mano. Walt lo abrazó.
 
-Walt lo abrazó.
-
-Olía a jabón institucional, tela guardada y aire que no había elegido todavía. Kal sostuvo el abrazo un segundo menos de lo que Héctor habría querido y un segundo más de lo que él mismo habría planeado.
-
-Walt se apartó y le tocó la mejilla con dos dedos, cerca de la cicatriz, sin llegar a tocarla.
+Olía a jabón institucional, tela guardada y aire que no había elegido todavía. Cuando se apartó, le tocó la mejilla con dos dedos, cerca de la cicatriz, sin llegar a tocarla.
 
 —Tu padre hacía esa cara cuando quería que nadie notara que estaba contento.
-
-Kal miró hacia el estacionamiento.
 
 —Tengo otra.
 
@@ -238,7 +151,7 @@ Héctor le dio la bolsa de papel.
 
 —Pan.
 
-Walt la abrió, miró adentro y soltó una risa corta.
+Walt miró adentro.
 
 —Diez años y me recibes con concha fría.
 
@@ -246,437 +159,93 @@ Walt la abrió, miró adentro y soltó una risa corta.
 
 —La libertad te ablanda el estándar, Navarro.
 
-Por primera vez, Kal lo vio sonreír de verdad.
+Walt miró entonces las letras de la sudadera de su hija. Ya lo sabía; se lo había contado ella por teléfono y en la audiencia. Pero una cosa era saberlo detrás de un vidrio y otra verlo escrito en su pecho a media banqueta.
 
-No duró mucho. Pero alcanzó.
-
-Kal sintió la mirada de Natalie antes de verla. Lo miraba como él suponía que ella miraba en su trabajo a quien sostenía el otro extremo de una camilla: no para agradecer, sino para comprobar que no iba a soltar.
-
-Ella miró el reloj.
-
-—Entro a las seis. Cambié media guardia para venir.
-
-Walt miró las letras de la sudadera. Ya lo sabía. Se lo había contado ella por teléfono y en la audiencia. Pero una cosa era saberlo detrás de un vidrio y otra verlo escrito en el pecho de su hija a media banqueta.
-
-—Bomberos —dijo.
+—Bomberos.
 
 —Hace cuatro meses.
 
 —Ya sé desde cuándo.
 
-Kal vio pasar por la cara de Walt algo que no llegó a ser objeción. Todavía.
+Natalie sacó del bolsillo de la sudadera una caja pequeña y se la puso en la mano.
 
-—Vente con nosotros. Un café.
+—Ya tiene mi número, el de Héctor y el de Kal. Nada más.
 
-—Duermo tres horas y entro. —Natalie miró a Kal—. ¿A las cuatro?
+Walt abrió la caja. El teléfono era un rectángulo negro sin un solo botón. Lo sostuvo como se sostiene un animal que uno no sabe si muerde.
 
-—A las cuatro.
+—¿Dónde se marca?
 
-—¿Qué hay a las cuatro? —preguntó Walt.
+Natalie le pasó el pulgar por la pantalla y el vidrio se encendió.
 
-—Yo.
+—Ahí.
 
-Le robó a Héctor otra concha, le dio un beso en la mejilla que él recibió como quien recibe una multa y caminó hacia el Corolla. Kal la acompañó sin que nadie se lo pidiera.
+Walt se quedó mirando la luz. Después miró el estacionamiento: el Corolla, la camioneta de Héctor y, al final de la fila, el Peugeot rojo.
 
-Del otro lado del coche, con el techo entre ellos y su padre, Natalie bajó la voz.
+—¿Eso es tuyo?
 
-—No puedo, Kal. Tres horas enfrente de él, sirviéndole café, con eso aquí. —Se tocó el esternón con dos dedos, justo donde se marca un punto de compresión.
+—Sí —dijo Kal.
 
-—Ya sé.
+—Me voy contigo. Quiero ver en qué maneja un hombre que ya no me pide permiso.
 
-—Tú sí puedes.
-
-Kal no contestó. No era cierto, y ella lo sabía.
-
-Natalie abrió la puerta.
-
-—Hoy no lo sueltes.
-
-—No lo iba a soltar.
-
-Se fue sin tocar el claxon. Walt siguió el coche con la vista hasta que dobló hacia la carretera y después se volvió hacia Kal con la pregunta ya armada.
-
-—Tu hija tiene turno —dijo Héctor antes de que la hiciera—. Y tú tienes un café horrible pendiente.
+Natalie buscó a Kal por encima del techo del Peugeot. Él asintió una vez. Ella se subió al Corolla sin decir nada.
 
 ***
 
-No fueron directo al barrio.
+Walt entró al 106 doblándose en tres partes y dejó la bolsa de plástico sobre las rodillas.
 
-Walt pidió café primero. No uno bueno. Uno de carretera, dijo. De esos que sabían igual antes de entrar y después de salir, para comprobar que el mundo seguía teniendo cosas horribles sin importancia.
+—Tu padre tuvo uno más grande.
 
-Héctor sugirió una gasolinera. Kal manejó hacia el norte.
+—Mi padre tuvo uno más feo.
 
-La cafetería quedaba en una carretera secundaria antes de que San Aurelio terminara de convertirse en campo. Tenía techo rojo, ventanales con anuncios de desayunos todo el día, máquinas de hielo junto a la entrada y una barra de comida rápida donde el menú iluminado prometía hamburguesas, café, papas, burritos y una ensalada que nadie en su sano juicio debía pedir ahí.
+—Eso también.
 
-Adentro olía a aceite, café quemado, pan tostado y limpiador de limón. Un trailero dormía con la frente sobre los brazos en una mesa de esquina. Dos trabajadores agrícolas comían en silencio. Una mujer con uniforme de mensajería cargaba el teléfono junto a la caja registradora y miraba la noticia de Keene en la pantalla de arriba, sin sonido.
+La radio entró a media nota: Plaza Corona, investigación en curso, el Departamento pide a la ciudadanía. Walt subió el volumen con un dedo.
 
-Walt se quedó mirando el televisor.
+—¿Keene?
 
-—Empezaron temprano.
+—Jefe de policía.
 
-—Anoche —dijo Kal.
+—Cuando entré ponía multas afuera del estadio.
 
-Héctor le lanzó una mirada. Kal no la recogió.
+Escuchó hasta que la nota se terminó y bajó el volumen.
 
-La chica de la barra no levantó la voz para pedirles orden. Sólo esperó.
+—¿Quién lo mató?
 
-Tendría veintitantos. Pelo recogido sin intención de gustar, botas usadas, camiseta negra debajo del mandil, manos de trabajo real: nudillos raspados, uñas cortas, una quemadura pequeña en la muñeca. No sonreía como parte del servicio. Tampoco era grosera. Miraba a cada cliente el tiempo exacto para saber si iba a ser problema.
+—No se sabe.
 
-—Café —dijo Walt—. El más feo que tengas.
+—Eso no cambió.
 
-Ella señaló la máquina sin moverse.
+Por la ventana, la ciudad le iba pasando cosas que no estaban cuando él se fue. Un puente nuevo sobre el canal. Un centro comercial de tres pisos donde antes había un lote de tráileres. Una gasolinera que ya no se llamaba como se llamaba. Walt no comentó ninguna. Las miraba con la atención de quien revisa un expediente propio escrito por otra gente.
 
-—Todos cuestan lo mismo.
+En el cruce de la carretera vieja, Kal no dobló hacia el sur.
 
-—Eso no responde.
+Walt lo notó a la primera calle.
 
-—El de la jarra izquierda lleva más tiempo sufriendo.
+—Por aquí no es la Almendra.
 
-Walt la miró dos segundos y luego se echó a reír.
+Kal no contestó.
 
-—Me cae bien.
+Walt miró el espejo lateral. El Corolla había tomado la misma salida sin dudar, y detrás venía la camioneta de Héctor, en el mismo orden, a la misma distancia.
 
-—No viene incluido.
-
-Kal miró el gafete: **Harper**.
-
-—Tres cafés —dijo—. Y lo que tengas que no haya muerto dos veces.
-
-Harper lo miró por primera vez completo.
-
-No lo miró como las meseras del Distrito Marino miraban un reloj o un saco. Lo miró como se mira un motor que llegó haciendo un ruido raro: sin impresionarse, buscando la falla.
-
-—Huevos, pan y papas. Si quiere carne, murió tres veces.
-
-—Huevos.
-
-—¿Revueltos?
-
-—Como salgan rápido.
-
-—Eso siempre es revuelto.
-
-Héctor hizo un ruido bajo, casi aprobación.
-
-Kal pagó en efectivo. Harper contó los billetes una sola vez y dejó el cambio sobre la barra sin empujarlo hacia él.
-
-—¿De dónde es ese acento? —preguntó Walt.
-
-Harper sirvió el café.
-
-—De dormir poco.
-
-—El mejor país.
-
-Ella no sonrió. Pero algo en la boca se le movió apenas.
-
-Kal tomó las tazas. Al hacerlo, vio por la ventana trasera una camioneta con lodo seco hasta media puerta, un remolque vacío, dos postes de cerca cargados junto al basurero y un camino de tierra que salía hacia la parte que los clientes de carretera no miraban.
-
-—¿Trabajas aquí todos los días?
-
-Harper cerró la caja.
-
-—Cuando pagan.
-
-—¿Y cuando no?
-
-—También.
-
-Kal asintió una vez.
-
-Walt tomó su café y bebió demasiado pronto. Hizo una mueca.
-
-—Perfecto. Horrible.
-
-Harper volvió a mirar el televisor. En la pantalla, la foto de Keene dio paso a una imagen de la plaza cercada.
-
-—Matar a un policía en la plaza no es matar a un policía —dijo, más para sí que para ellos.
-
-Kal la miró.
-
-—¿Entonces qué es?
-
-—Decirle a todo el mundo dónde puede sentarse.
-
-Héctor dejó de mover el azúcar.
-
-Walt bajó la taza.
-
-Harper se dio cuenta de que los tres la estaban mirando y volvió a la plancha.
-
-—Los huevos salen en cuatro.
-
-Kal llevó las tazas a la mesa.
-
-No dijo nada. Pero se quedó con dos cosas.
-
-La primera: lo había dicho delante de tres desconocidos, uno de ellos recién salido de la cárcel, sin bajar la voz y sin revisar después las caras para ver si le había salido bien. La gente que acierta por accidente revisa las caras.
-
-La segunda: la camioneta seguía atrás, con los postes de cerca todavía sin subir. Nadie deja un trabajo a medias en un camino de tierra para venir a servir café por gusto.
-
-Kal se acordó del nombre.
+Walt se quedó mirando el espejo un rato largo. Ya no preguntó.
 
 ***
 
-La Almendra los recibió con más memoria que fiesta.
-
-No hubo globos, ni música, ni vecinos saliendo a la calle como en las películas malas. Hubo cortinas que se movieron. Una mujer que levantó la mano desde el otro lado de la calle. Un niño que le preguntó a su abuela quién era ese señor y recibió un pellizco suave en el brazo por preguntar demasiado alto. Hubo un viejo sentado frente a la barbería que se quitó la gorra al ver a Walt y luego se la volvió a poner, como si se hubiera descubierto más de lo que pensaba.
-
-Walt vio todo.
-
-No comentó nada hasta que llegaron al porche de la vieja casa de Héctor, a tres calles del taller.
-
-La madera crujió bajo su peso.
-
-—Sigue igual.
-
-Héctor abrió una hielera pequeña con el pie.
-
-—No te emociones. Es porque nadie tuvo dinero para cambiarlo.
-
-Sacó tres cervezas. Le dio una a Walt, una a Kal y se quedó con la tercera. Kal abrió la suya contra el borde de la baranda. Walt lo vio hacerlo y negó con la cabeza.
-
-—Tu padre hacía eso y tu madre le decía que un día iba a romper la casa.
-
-Kal miró la marca vieja en la madera.
-
-—No la rompió.
-
-—No esa parte.
-
-El comentario se quedó en el porche con ellos.
-
-Héctor se sentó en una silla de metal. Walt eligió el escalón. Kal se quedó recargado en el poste, con la cerveza fría en la mano y la calle de frente.
-
-Durante un rato no hablaron de nada que importara. El calor. La cárcel. El café horrible. La noticia de Keene, pero sólo en superficie. Un hombre que había salido después de diez años merecía unos minutos antes de que el mundo volviera a cobrarle interés.
-
-Walt bebió y miró hacia la esquina.
-
-—Estoy un poco resentido con el joyero.
-
-Héctor soltó una risa seca.
-
-—¿Un poco?
-
-—La libertad condicional me volvió moderado.
-
-Kal no sonrió, pero bajó la mirada a la botella.
-
-—No tienes que hacer nada.
-
-Walt lo miró.
-
-—Ya sé.
-
-—Lo digo en serio.
-
-—Yo también.
-
-Héctor se acomodó la gorra.
-
-—Eso sería nuevo en esta familia.
-
-Walt bebió otro trago.
-
-—Diez años enseñan dos o tres cosas. Una: las camas del estado están hechas por gente que odia las espaldas. Dos: el hombre que te dice que tengas paciencia casi siempre duerme en su casa. Tres: la libertad condicional vale más cuando uno deja de verla como insulto.
-
-Kal escuchó sin moverse.
-
-—¿Quieres mantenerte legal?
-
-—Quiero mantenerme afuera —dijo Walt—. Legal es el camino más corto por ahora.
-
-Héctor lo miró de lado.
-
-—¿Y si hay problema?
-
-Walt sonrió apenas.
-
-—Si hay problema, respondo. No dije que me volví santo. Dije que aprendí a leer formularios.
-
-Kal levantó la botella.
-
-—Eso ya te pone encima de medio barrio.
-
-Walt chocó su cerveza contra la de él.
-
-—No insultes al barrio el día que vuelvo.
-
-—Mañana.
-
-—Mañana puedes.
-
-Héctor chocó su botella con las dos.
-
-La calle seguía moviéndose despacio. Una camioneta pasó con música vieja. Dos adolescentes caminaron hacia el taller fingiendo que no querían ver a Walt. Una señora cruzó con bolsas de mandado y saludó a Héctor por su nombre, a Kal con la barbilla y a Walt con una pausa.
-
-Walt bajó la voz.
-
-—Está más chico.
-
-—¿El barrio?
-
-—No. Nosotros.
-
-Héctor miró la casa de enfrente. La pintura se caía en escamas largas, como piel seca.
-
-—Antes se veía distinto.
-
-—Antes tu esposa todavía te gritaba desde la ventana.
-
-Héctor se quedó quieto.
-
-Walt no se disculpó. Héctor no se lo pidió.
-
-—Sí —dijo al fin—. Antes de que se largara, gritaba bonito.
-
-Kal miró a Héctor. No había oído esa versión en años. La exesposa de Héctor era una ausencia que el barrio trataba como grieta vieja: se sabía dónde estaba, nadie la pisaba.
-
-—Los viejos días no eran tan buenos —dijo Kal.
-
-Walt señaló la calle con la botella.
-
-—Algunos sí.
-
-Héctor asintió.
-
-—No todos. Pero algunos.
-
-Kal miró la calle Almendra: las casas de una planta, los carros viejos, los cables cruzados, los niños aprendiendo rutas antes que reglas. Pensó en Dale antes de irse. En Ruth antes de cansarse. En Walt antes de prisión. En Héctor antes de quedarse solo. En todos los antes que el barrio usaba como excusa para no mirar lo que todavía podía hacerse.
-
-—Quiero levantarlo —dijo.
-
-Walt lo miró.
-
-Kal no se explicó rápido. Eso hizo que Héctor también lo mirara.
-
-—No limpiar la calle para que venga gente de fuera a comprar barato. No ponerle pintura a dos fachadas y llamarlo progreso. Levantarlo de verdad. Talleres, casas que no se caigan, negocios que duren, gente que no tenga que irse para sobrevivir. Devolverle algo de lo que era antes de que todo se fuera al diablo.
-
-Héctor bajó la cerveza.
-
-Walt no apartó la mirada.
-
-—Eso cuesta más que dinero, niño.
-
-Kal aceptó la palabra sin corregirlo.
-
-—Ya sé.
-
-—¿Tienes plan?
-
-—Tengo rutas.
-
-Héctor soltó una risa baja.
-
-—Eso es un no con botas nuevas.
-
-Kal miró al viejo.
-
-—Tengo algunas piezas.
-
-Walt bebió.
-
-—Las piezas no son barrio.
-
-—No. Pero sin piezas no arranca.
-
-El silencio que siguió no fue incómodo. Era de los silencios donde los hombres viejos revisan si una locura tiene suficientes tornillos para no matarlos de entrada.
-
-Héctor levantó su cerveza.
-
-—Los viejos días, pero sin repetir las mismas pendejadas.
-
-Walt levantó la suya.
-
-—Renovados.
-
-Kal chocó la botella con ellos.
-
-—Y con sangre nueva.
-
-Walt miró hacia el taller.
-
-—¿Tú y tus niños?
-
-—Entre otros.
-
-Héctor sonrió.
-
-—Eso suena a que ya adoptaste problemas.
-
-—Tengo práctica.
-
-Bebieron.
-
-Después Kal dijo:
-
-—Cuídense de Dario Varek.
-
-El nombre cambió el aire del porche.
-
-Walt lo repitió despacio.
-
-—Varek.
-
-—Magnate. Puerto. Casino. Todo el mundo habla de él como si fuera clima.
-
-Héctor escupió a un lado.
-
-—El clima por lo menos no manda factura.
-
-—Si pueden evitar deberle favores, mejor —dijo Kal—. No he escuchado cosas buenas de él con los otros líderes. Nadie lo dice completo, pero todos se enderezan cuando sale el nombre.
-
-Walt se frotó la mandíbula.
-
-—¿Le debes algo?
-
-—No.
-
-—¿Él cree que sí?
-
-Kal pensó en la cabecera vacía de la sala del Monarch, en Matteo diciendo que Dario tuvo que salir, en la noticia de Keene ocupando la pantalla del teléfono.
-
-—Todavía no.
-
-Héctor soltó aire.
-
-—Temperamental y poca paciencia. Esa es receta para inflar las pelotas.
-
-Walt levantó la botella.
-
-—Al fin un área donde puedo aportar. Soy experto en eso.
-
-Héctor se rió primero.
-
-Fue una risa áspera, inesperada, casi oxidada. Walt lo siguió. Kal tardó medio segundo más y luego también se rió, no fuerte, no limpio, pero lo bastante para que dos vecinos voltearan hacia el porche y fingieran enseguida que no habían oído.
-
-Por un momento, la Almendra pareció recordar cómo sonaba antes de que todo se fuera al diablo.
-
-***
-
-No fueron al taller esa tarde.
-
-Kal condujo hacia el cementerio de Santa Lucía sin decir a dónde iban, y Walt no preguntó — quizás porque diez años enseñan a no preguntar hacia dónde va un coche cuando el que maneja tiene esa cara.
-
-Héctor se quedó en el asiento trasero, callado de una manera que Kal reconoció: la de las veces en que decidía no decir nada y dejar que uno llegara solo.
-
-Se detuvieron frente a una hilera de lápidas nuevas, del lado donde el pasto todavía no terminaba de agarrar.
+El cementerio de Santa Lucía tenía a esa hora el silencio de los lunes. Kal se detuvo frente a una hilera de lápidas nuevas, del lado donde el pasto todavía no terminaba de agarrar.
 
 Walt bajó del coche despacio, todavía con la camisa gris que le habían dado al salir, y caminó los últimos metros solo.
-
-Detrás del Peugeot se estacionó un Corolla gris. Eran las cuatro en punto. Walt no volteó.
 
 Se detuvo frente a una.
 
 *JAMES "JIM" KEEGAN.*
 
-Kal no se acercó. Se quedó junto al coche, con las manos en los bolsillos, mirando la espalda de un hombre que llevaba diez años esperando una carta que nunca iba a llegar completa.
+Kal no se acercó. Se quedó junto al coche, con las manos en los bolsillos, mirando la espalda de Walt.
 
 Natalie se paró a su lado sin decir nada, con los brazos cruzados, y miró la misma espalda.
 
-Y por un segundo, sin pedirlo, volvió a estar ahí.
+Y por un segundo, sin pedirlo, Kal volvió a estar ahí.
 
-Un pueblo sin nombre que la radio marcaba solo con coordenadas, una escuela a medio construir, y una fila de niños que se habían quedado sin nada que hacer desde que el único maestro del lugar había dejado de aparecer.
+Un pueblo sin nombre que la radio marcaba sólo con coordenadas, una escuela a medio construir y una fila de niños que se habían quedado sin nada que hacer desde que el único maestro del lugar había dejado de aparecer.
 
 Kal no recordaba haber decidido acercarse. Recordaba estar ahí, en cuclillas, enseñándole a un niño de unos siete años a atarse las botas que alguien de la unidad le había regalado, mientras otros cuatro esperaban su turno con la paciencia exacta de quien no tiene otra cosa que esperar.
 
@@ -692,9 +261,9 @@ Kal no contestó.
 
 Esa misma tarde, en la carpa de mando, alguien le puso delante un reporte con el nombre de Jim escrito arriba: cargamentos de suministros que no cuadraban, ventas a civiles que jamás debieron pasar por manos de un soldado. Nada que fuera a corte marcial por crímenes de guerra. Suficiente, sin embargo, para una baja deshonrosa, si alguien decidía perseguirlo.
 
-Encontró a Jim esa misma noche, fumando solo detrás de las carpas de suministro.
+Encontró a Jim esa noche, fumando solo detrás de las carpas de suministro.
 
-—Vi el reporte —dijo Kal, sin preámbulo.
+—Vi el reporte.
 
 Jim no se dio la vuelta enseguida.
 
@@ -706,7 +275,7 @@ Jim no se dio la vuelta enseguida.
 
 —Tampoco es un sí. —Kal se paró a su lado, mirando la misma oscuridad—. ¿Por qué, Jim?
 
-—Porque el sueldo de un soldado no alcanza para nada, y aquí hay gente que paga bien por cosas que a nosotros nos sobran. —Jim se encogió de hombros, con una calma que no le llegaba a los ojos—. No es tan distinto de lo que hacía mi padre antes de que el Tasador se lo arruinara. Solo que yo no tuve que romperle el escritorio a nadie.
+—Porque el sueldo de un soldado no alcanza para nada, y aquí hay gente que paga bien por cosas que a nosotros nos sobran. —Jim se encogió de hombros, con una calma que no le llegaba a los ojos—. No es tan distinto de lo que hacía mi padre antes de que el Tasador se lo arruinara. Sólo que yo no tuve que romperle el escritorio a nadie.
 
 —Suena exactamente a lo que él odiaba.
 
@@ -730,9 +299,7 @@ Jim se quedó quieto. Por primera vez en toda la conversación, la calma le lleg
 
 —O la próxima vez no voy a ser yo el que encuentre el reporte primero.
 
-Jim no contestó eso. Se fue caminando hacia las carpas sin decir nada más, y Kal se quedó ahí, con el reporte todavía en el bolsillo, preguntándose si acababa de proteger a un amigo o de encubrir exactamente lo que el padre de ese amigo había pasado media vida peleando.
-
-Kal no volvió a mencionarlo. Se guardó el reporte de la misma manera en que guardaba todo lo que no sabía todavía cómo iba a costarle.
+Jim se fue caminando hacia las carpas sin decir nada más, y Kal se quedó ahí, con el reporte en el bolsillo, preguntándose si acababa de proteger a un amigo o de encubrir exactamente lo que el padre de ese amigo había pasado media vida peleando.
 
 Del otro lado de las carpas de los contratistas había una mujer con acento ruso que sabía a quién llamar. Con una llamada suya, un papel como ése podía decir otra cosa, o no haber existido nunca. Kal conocía el camino hasta su tienda mejor de lo que le convenía, y no siempre por trabajo.
 
@@ -740,7 +307,7 @@ Esa noche no lo tomó.
 
 La emboscada llegó dos días después, en la curva que todos habían dejado de vigilar porque nunca antes había pasado nada ahí.
 
-Kal no recordaba el ruido completo — solo fragmentos: el camino abriéndose, Russ gritando algo sobre la pierna, Garrett tirándose detrás de una roca que no alcanzaba a cubrirlo del todo, y Jim, a dos metros de él, cayendo de una manera que Kal reconoció antes de que su cabeza terminara de procesar por qué.
+Kal no recordaba el ruido completo, sólo fragmentos: el camino abriéndose, Russ gritando algo sobre la pierna, Garrett tirándose detrás de una roca que no alcanzaba a cubrirlo del todo, y Jim, a dos metros de él, cayendo de una manera que Kal reconoció antes de que su cabeza terminara de procesar por qué.
 
 Lo arrastró detrás del mismo camión donde antes le había dicho lo de la madera de padre. La metralla le había abierto el costado de una forma que Kal no necesitaba ser médico para entender.
 
@@ -758,7 +325,7 @@ Jim sonrió, apenas, con la clase de sonrisa que ya no le pedía nada al cuerpo.
 
 Kal volvió al presente con el sonido de un pájaro que no debería estar en un cementerio en esa época del año.
 
-Walt no se arrodilló. No lloró, al menos no de la manera que se nota desde lejos. Se quedó de pie, quieto, con los hombros un poco más caídos de lo que estaban esa mañana, leyendo una fecha que le decía todo lo que nadie le había dicho todavía.
+Walt no se arrodilló. No lloró, al menos no de la manera que se nota desde lejos. Se quedó de pie, quieto, con los hombros un poco más caídos de lo que estaban a la salida, leyendo una fecha que le decía todo lo que nadie le había dicho todavía.
 
 —¿Cuándo? —preguntó, sin voltear.
 
@@ -794,13 +361,13 @@ Walt no contestó a eso. Se quedó en cuclillas un rato más, la mano todavía s
 
 Cuando Walt se puso de pie, tenía la cara seca y los ojos rojos, que no eran lo mismo.
 
-—Diez años —dijo, mirando la lápida una última vez—. Y lo único que hice fue perderme lo poco que me quedaba.
+—Diez años —dijo, mirando la lápida—. Y lo único que hice fue perderme lo poco que me quedaba.
 
 Nadie tuvo con qué contestarle eso tampoco.
 
-Walt se dio la vuelta y la vio.
+Walt se dio la vuelta y la miró a ella.
 
-No le preguntó si sabía. No hacía falta: estaba ahí, a las cuatro, en un cementerio al que nadie la había invitado delante de él.
+No le preguntó si sabía. No hacía falta: el Corolla había tomado la salida sin dudar.
 
 —¿Desde cuándo? —dijo solamente.
 
@@ -814,278 +381,342 @@ Natalie no miró a Kal.
 
 —Me pidió que se lo dejara a él. —Hizo una pausa—. Y yo quise.
 
-Walt se quedó con eso un rato. Después señaló el Corolla con la barbilla.
+Walt se quedó con eso un rato. Después abrió la bolsa de plástico y buscó entre los papeles doblados hasta dar con un sobre sin estampilla, con las esquinas gastadas de tanto cambiarlo de lugar. Tenía el nombre de Jim escrito con la misma letra inclinada de siempre. No tenía dirección.
 
-—Vas a llegar tarde.
+Volvió a la lápida, se agachó y lo dejó recargado contra la piedra. Tomó una piedra del camino y la puso encima, para que no se lo llevara el viento.
 
-—Entro en una hora.
+Nadie le preguntó qué decía.
 
-—Entonces ve.
+—Vámonos de aquí.
 
-Natalie se acercó, le puso la mano en el brazo un segundo, sobre la tela gris que todavía olía a cárcel, y la retiró. Al pasar junto a Kal, sin detenerse, le apretó el antebrazo una vez. No era un gracias. Era lo que uno hace en una escena cuando suelta su extremo de la camilla y confía en que el otro no suelte el suyo.
+—¿A la casa? —preguntó Héctor.
 
-El Corolla salió del cementerio sin prisa.
+—A donde haya ruido.
 
-Volvieron al coche en silencio, y Kal condujo de vuelta a la Almendra despacio, sin apuro, dándole al hombre del asiento de atrás todo el tiempo que un camino puede dar.
+Natalie le puso la mano en el brazo un segundo, sobre la tela gris que todavía olía a cárcel. Al pasar junto a Kal hacia el Corolla, le apretó el antebrazo una vez. No era un gracias. Era lo que uno hace cuando suelta su extremo de la camilla y confía en que el otro no suelte el suyo.
 
 ***
 
-Chiara empezó la mañana con el titular de Keene y una taza de café que sabía a hotel caro.
+La Almendra los recibió con más memoria que fiesta.
 
-La pantalla del teléfono descansaba junto al plato de fruta intacto. Plaza Corona. Tres tiros. Jefe de policía ejecutado en una banca. La versión pública todavía buscaba palabras: atentado, crimen, investigación, comunidad consternada. Chiara leyó cada una y descartó casi todas.
+No hubo globos ni música ni vecinos saliendo a la calle como en las películas malas. Hubo cortinas que se movieron. Una mujer que levantó la mano desde el otro lado de la calle. Un viejo sentado frente a la barbería que se quitó la gorra al ver a Walt y se la volvió a poner, como si se hubiera descubierto más de lo que pensaba.
 
-Lo que le interesaba no era quién había disparado. Era el calendario.
+Walt vio todo. Vio también lo demás: que la barbería ahora compartía la fachada con una lavandería de monedas, que en la esquina de la ferretería había una cámara nueva apuntando a la banqueta, que el lote baldío donde él había enseñado a manejar a Jim tenía un portón, dos grúas azules y un letrero pintado a mano.
 
-Un casino a punto de abrir necesitaba que la palabra San Aurelio significara costa, dinero nuevo y un fin de semana caro. Desde esa mañana significaba un jefe de policía con tres tiros en la plaza principal. Cada nota que se escribiera sobre el Monarch en las próximas semanas iba a llevar esa fotografía pegada detrás aunque nadie la imprimiera, y los invitados de fuera no cancelarían por miedo: cancelarían porque cancelar los hacía verse prudentes.
+—*Almendra Towing* —leyó.
 
-Quien lo hizo eligió la plaza, la hora y la banca. Eso no era rabia. Era un comunicado escrito en otro alfabeto, publicado encima del suyo.
+—Es del niño —dijo Héctor.
 
-Recordó a Dario dejando la reunión del día anterior por una diligencia en el centro y no permitió que la conclusión se formara completa. No porque le diera miedo pensarla. Porque una conclusión sin prueba era un lujo, y ella no pagaba por lujos inútiles.
+—El niño tiene cuarenta y uno.
 
-A las diez, ya estaba en la sala de administración del Monarch con una carpeta nueva.
+—Por eso lo digo así. Para que no se le suba.
 
-El casino olía distinto de día. Menos promesa. Más cables, detergente, café de empleados, alfombra húmeda y metal de máquinas abiertas. Las luces del piso de juego estaban encendidas a medias. Sin noche encima, los dorados parecían más delgados y las sonrisas de los carteles un poco desesperadas.
+El Corolla entró primero y se estacionó junto al portón, en el único cajón que nadie usaba. Natalie no preguntó si podía. Bajó, le rascó la cabeza a la perra flaca que dormía a la sombra de la grúa dos y la perra se levantó por ella, cosa que no hacía por nadie. Desde el elevador, Omar le gritó algo; ella le contestó preguntándole por su mamá, y él le contestó que ya había salido del hospital, y ella dijo *te dije*, y los dos se rieron de algo que Walt no alcanzó a saber.
 
-Matteo llegó tarde con dos llamadas encima. Fabrizio llegó con gafas oscuras y cara de no haber dormido. Tommaso llegó puntual, que era su manera de recordarle a la mesa que la disciplina podía ser arma.
+Walt se quedó en la entrada del patio con la bolsa de plástico en la mano.
 
-Dario no llegó.
+Natalie entró a la oficina, sacó una Coca del refrigerador de Kal sin pedirla, dejó las llaves en la taza del escritorio donde había otras llaves suyas y volvió a salir abriendo la lata con los dientes, cosa que su madre le había prohibido a los ocho años.
 
-Nadie preguntó por qué.
+—¿Quieres algo? —le preguntó a su padre.
 
-Chiara abrió su carpeta.
+Walt negó con la cabeza. La miraba.
 
-—Poker.
+Kal entendió lo que estaba mirando. No el taller. A su hija moviéndose en un lugar que había aprendido a quererla sin él.
 
-Matteo parpadeó.
+—Viene los domingos —dijo Kal—. Cuando no tiene guardia.
 
-—Buenos días a ti también.
+—¿Desde cuándo?
 
-—Torneos de poker —dijo ella—. Semanales primero. Después mensuales con bolsa mayor. Entrada alta, registro limpio, patrocinadores visibles, invitados de fuera y diez por ciento para la casa.
+—Desde siempre.
 
-Fabrizio se quitó las gafas.
+Walt asintió como quien firma algo sin leerlo porque ya sabe lo que dice.
 
-—Diez por ciento limpio.
+Nadir salió del fondo del taller limpiándose las manos en un trapo. Había convertido la noticia en comida, como hacía con todas: sobre una mesa plegable, entre la grúa dos y la pared, había una olla de sopa roja con garbanzos, un kilo de tortillas de Mabel todavía en su papel y pan que no venía de ninguna panadería del barrio.
 
-—Exactamente.
+—Señor Keegan.
 
-Tommaso miró la carpeta.
+Le dio la mano y después se la llevó al pecho.
 
-—El casino ya tiene mesas.
+Walt miró el gesto.
 
-—Mesas no son relato. Un torneo sí.
+—¿Y tú de quién eres?
 
-Matteo se sentó.
+—Nadir Amrani. —Sonrió apenas—. De Marruecos. Y de aquí, ya.
 
-—Explícate.
+—¿Qué haces con estos?
 
-Chiara empujó una hoja al centro.
+—Cuido que no se mueran de hambre.
 
-—Un jugador pierde cincuenta mil en una noche y parece idiota. Un jugador paga entrada, recompra fichas, llega a semifinal y pierde contra alguien de Los Ángeles: parece parte de un evento. La casa toma diez por ciento, el hotel llena habitaciones, los restaurantes venden, prensa social cubre fotos, y el dinero que entra tiene una historia más elegante que la desesperación.
+—Es cierto —dijo Natalie desde el refrigerador.
 
-Fabrizio sonrió despacio.
+Walt lo midió como había medido a Kal en la banqueta, buscando qué había debajo. Nadir le sostuvo la mirada sin endurecerla, que era lo más difícil, y señaló la olla.
 
-—Esto sí suena a Palermo.
+—¿Come picante?
 
-—No. Palermo habría querido veinte por ciento y un primo en la mesa final.
+Walt no le contestó. Tomó un plato.
 
-Matteo soltó una risa. Tommaso no.
+Danny llegó cuando ya estaban comiendo.
 
-—¿Y quién garantiza que el torneo no se vuelva un imán de problemas? —preguntó.
+Entró por el portón a pie, con la chaqueta de mezclilla abierta sobre una playera de un grupo que nadie más en el taller escuchaba, el pelo negro suelto y demasiada energía para un lunes a mediodía.
 
-—Nadie. Por eso se diseña.
+—¡Walt Keegan! —Abrió los brazos desde el patio—. Usted no me conoce, pero yo sí a usted. Aquí todo el mundo. El de la barreta. —Lo abrazó antes de que Walt pudiera decidir si quería—. Bienvenido, de verdad, qué bueno, qué bueno que ya está afuera.
 
-—Qué cómodo.
+Walt se dejó abrazar con la bolsa de plástico todavía en una mano.
 
-Chiara lo miró.
+—¿Y tú quién eres?
 
-—Cómodo sería abrir mesas y esperar que la gente elegante llegue sola.
+—Danny. Mecánico. El mejor de aquí, pregúntele a quien quiera, menos a él. —Señaló a Kal con la barbilla y se rió—. No dormí nada, jefe. De la emoción.
 
-Tommaso dejó la pluma sobre la mesa.
+Kal no dijo nada.
 
-—No necesito una lección de elegancia.
+—¿Y las balatas del Ford? —preguntó Nadir.
 
-—No estaba ofreciendo una.
+Danny tenía las manos vacías.
 
-Fabrizio bajó la voz.
+—No tenían. Mañana.
 
-—Chiara.
+Se sorbió la nariz y se la frotó con el dorso de la mano.
 
-Ella no apartó la mirada de Tommaso.
+—Alergia. En esta pinche ciudad florece todo menos yo.
 
-El roce venía desde antes de San Aurelio, desde antes del casino. Tommaso no necesitaba nombrar a Alessio para traerlo. Le bastaba con pronunciar su nombre de pila con una familiaridad cuidadosamente vencida.
+Se rió solo. Nadir miró a Kal. Kal siguió comiendo.
 
-—La familia siempre agradeció tu capacidad para ordenar versiones —dijo él.
+Natalie dejó la lata en la mesa y miró a Danny un segundo más de lo necesario, con la misma atención con la que Kal suponía que miraba a quien subía a una ambulancia: primero los ojos, después las manos. Danny lo sintió. Le pasó un brazo por los hombros desde atrás y le dio un beso ruidoso en la cabeza.
 
-Matteo dejó de moverse.
+—Nat, mi amor. ¿Sigues salvando gente?
 
-Fabrizio cerró los ojos un instante.
+—Unos cuantos.
 
-Chiara sintió el anular izquierdo.
+—Deja algunos para mí.
 
-Esta vez sí lo tocó.
+Ella lo dejó pasar. Kal vio que lo dejaba pasar.
 
-No fue mucho. Apenas la yema del pulgar sobre la piel donde ya no había anillo. Lo suficiente para odiarse por haberlo hecho delante de él.
+Comieron entre las grúas. Danny habló por los cinco: de un Mustang que iba a quedar mejor que nuevo, de una banda que tocaba el sábado, de lo que costaba ahora una cerveza en la Isla, que Walt no quiso creer. Movía la rodilla debajo de la mesa sin darse cuenta. No se terminó el plato.
 
-—Y yo siempre agradecí que ciertas familias confundieran silencio con discreción —dijo.
+Walt preguntó cuánto costaba una Coca.
 
-Tommaso sonrió tarde.
+Natalie le dijo.
 
-—Sigues siendo directa.
+Walt dejó la cuchara.
 
-—Sigues confundiendo eso con invitación.
+—Me estás mintiendo.
 
-El silencio que quedó no pertenecía al casino. Era más viejo.
+—Te lo juro.
 
-Matteo carraspeó.
+—Diez años no alcanzan para eso.
 
-—El torneo se revisa. Números, seguridad, invitados y calendario. Chiara, si puedes preparar una proyección—
+—Alcanzan para más —dijo Héctor.
 
-—Ya está preparada.
+Walt se rió por primera vez desde el cementerio. No duró. Pero alcanzó.
 
-Le pasó la segunda hoja.
+A la una y media, Natalie miró el reloj.
 
-Matteo la tomó como quien recibe algo caliente.
+—Entro a las dos.
 
-Fabrizio se inclinó hacia ella cuando Tommaso empezó a leer.
+—¿Hasta qué hora? —preguntó Walt.
 
-—Sal de aquí una hora.
+—Hasta mañana a las dos.
 
-—Estoy trabajando.
+—¿Veinticuatro horas?
 
-—Por eso.
+—Así son las guardias.
 
-Chiara lo miró.
+Walt no dijo nada. Kal vio pasar por su cara algo que no llegó a ser objeción.
 
-Fabrizio no sonreía.
+Natalie se levantó, se llevó el plato de Danny junto con el suyo y los dejó en la tina del fondo como si la tina fuera de ella. Después abrazó a su padre desde atrás, sin ceremonia, con la barbilla un momento sobre el pelo blanco.
 
-—No le regales el resto del día.
+—Contesta el teléfono.
 
-Ella cerró la carpeta despacio. No era retirada ni obediencia: era administración de daño.
+—No sé cómo.
 
-—Revisen los números —dijo—. Vuelvo después de comer.
+—Kal te enseña.
 
-Tommaso no levantó la vista.
+Recogió las llaves de la taza. Kal la acompañó hasta el portón sin que nadie se lo pidiera.
 
-—Como prefieras.
+—Hoy no lo sueltes —dijo ella, en voz baja.
 
-Chiara tomó el bolso y salió antes de contestarle. En el pasillo, el aire frío del Monarch le pareció de pronto demasiado tocado por todos.
+—No lo iba a soltar.
 
-No pidió coche del hotel.
-
-Pidió un taxi.
+El Corolla salió sin tocar el claxon. Walt lo siguió con la vista desde la mesa hasta que dobló la esquina.
 
 ***
 
-El centro de San Aurelio no intentaba seducirla. Eso le gustó.
+Kal miró el teléfono antes de volver a la oficina.
 
-Calle Corona tenía juzgados, bancos viejos, oficinas municipales, cafeterías con mesas demasiado juntas, gente que caminaba rápido aunque no pareciera ir a ningún lugar bueno y patrullas todavía estacionadas alrededor de Plaza Corona. La banca donde habían encontrado a Keene estaba cubierta y lejos, convertida en punto ciego por cinta, cuerpos y cámaras.
+Nada del Monarch. Matteo había dicho *te llamo mañana*, y mañana ya era hoy, y eran casi las dos.
 
-Chiara no se acercó.
+Guardó el teléfono.
 
-Pagó el taxi una cuadra antes y caminó sin prisa, sólo para sentir la ciudad debajo de los tacones. Palermo sabía empujar desde los balcones. Nueva York desde la acera. San Aurelio empujaba desde los bordes: una patrulla mal estacionada, una mujer vendiendo flores frente a un edificio público, un hombre con traje barato que no dejaba de mirar su teléfono, una reportera acomodándose el cabello antes de salir en vivo.
+En la oficina, Nadir cerró la puerta. Danny se sentó sobre el archivero, Héctor en la silla de visitas. Walt se quedó en el marco, con un café en la mano, y nadie le pidió que se fuera.
 
-Entró a una cafetería sin elegirla demasiado.
+—Hay un trabajo —dijo Kal.
 
-Tenía piso de mosaico viejo, barra de madera, vitrinas con pan dulce, estudiantes con laptops, dos abogados hablando en voz baja y un televisor sobre la máquina de espresso mostrando la misma fotografía de Keene que todo el mundo había decidido mirar sin sonido.
+Danny dejó de mover la pierna.
 
-Chiara pidió un espresso doble.
+—Un cargamento de hierba. De una bodega en el norte a Nueve Puentes. Lo recibe la gente de Maya Ríos.
 
-—Aquí lo hacemos más largo —dijo la chica de la caja.
+—¿Cuadra Nueve? —dijo Nadir.
 
-—Entonces hágalo menos largo.
+—Cuadra Nueve.
 
-La chica la miró, decidió que no valía la pena discutir con el acento y cobró.
+—¿Cuánto?
 
-Chiara se sentó junto a la ventana. Sacó el teléfono, pero no lo desbloqueó. Afuera, Plaza Corona seguía cercada. Adentro, la gente fingía que un asesinato a cincuenta metros no cambiaba el sabor del café.
+—Treinta mil. La mitad ya está en la caja.
 
-—No eres de aquí.
+Danny soltó un silbido largo. Héctor no se movió.
 
-La frase llegó desde su derecha, con confianza de hombre acostumbrado a que las frases le abrieran espacio.
+—¿Por qué hoy? —preguntó Nadir.
 
-Chiara giró la cabeza.
+Kal señaló el teléfono bocabajo sobre el escritorio.
 
-Rubio. Ojos azules. Uniforme de patrulla con las mangas ajustadas de una manera que no debía ser reglamentaria por accidente. Veintitantos largos o treinta mal llevados por exceso de espejo. Sonreía como si ya hubiera ensayado la respuesta de ella.
+—Porque desde anoche nadie sabe qué patrulla pasa por dónde. En una semana alguien lo va a volver a saber.
 
-—Qué observación tan difícil —dijo.
+—¿Y de quién es la hierba?
 
-Él soltó una risa.
+Lo preguntó Walt, desde la puerta.
 
-—Blake Stanton.
+Kal lo miró.
 
-No le ofreció la mano. Le mostró el nombre en la placa con dos dedos, como si eso hiciera el saludo más interesante.
+—Del Tasador.
 
-—Chiara.
+Walt frunció el ceño.
 
-—¿Sólo Chiara?
+—¿De quién?
 
-—Por ahora.
+—De Crowe —dijo Héctor.
 
-Blake apoyó el codo en el respaldo de la silla de enfrente sin sentarse.
+Walt se quedó un momento con eso.
 
-—¿Italia?
+—¿Así le dicen ahora?
 
-—Sí.
+—Así le dice todo el mundo.
 
-—Estuve en Roma una vez.
+—Cuando yo entré era el joyero. Tenía tres casas de empeño y ni un anillo propio. —Walt le dio un trago al café—. Estoy un poco resentido con el joyero.
 
-—Lo siento.
+Héctor soltó una risa seca.
 
-Él tardó medio segundo en decidir que era broma y se rió otra vez.
+—¿Un poco?
 
-—Me gusta tu estilo.
+—La libertad condicional me volvió moderado.
 
-Chiara bebió el espresso. Estaba largo, pero no tanto como temía.
+Nadie se rió. Walt no apartó los ojos de Kal.
 
-—No sabía que estaba ofreciendo uno.
+—¿Sabes para quién estás trabajando?
 
-—Todo el mundo ofrece algo.
+—Sé quién paga.
 
-La frase habría sonado distinta en otra boca. En la de Blake era vanidad, no amenaza. Eso la volvió menos peligrosa y más fácil.
+—Es lo mismo.
 
-—¿Y tú qué ofreces, oficial Stanton?
+—No trabajo para él —dijo Kal—. Le hago un trabajo.
 
-Él miró hacia la plaza.
+—Eso decía tu padre.
 
-—¿Hoy? Una ciudad con mala prensa.
+El cuarto se quedó sin ruido. Hasta Danny.
 
-—Eso ya lo tengo.
+Kal le sostuvo la mirada. No se defendió. Walt tampoco insistió; no había dicho eso para ganar nada.
 
-—Esta noche hay una fiesta en La Isla. Gente del Departamento, gente del puerto, unos amigos que creen que saben bailar. Podrías ver una parte de San Aurelio que no salga en las noticias.
+—Con eso la Almendra vuelve a estar en el juego —dijo Kal al fin—. Con el dinero de él. Es el único dinero que me va a dar gusto gastar.
 
-Chiara debería haber dicho no.
+Walt lo pensó con el café en la mano.
 
-No porque Blake fuera peligroso. Porque era obvio. Porque el día ya estaba lleno de hombres ocupando espacio que no se habían ganado. Porque Tommaso seguía sentado en una sala del Monarch con el apellido de su hermano como cuchillo sin sangre.
+—Yo no voy.
 
-Justamente por eso no dijo no.
+—Nadie te iba a invitar.
 
-Extrañó, con una punzada breve y ridícula, la sensación de salir en Palermo sin que todo fuera expediente. Nueva York, con sus bares demasiado caros, sus taxis amarillos, sus noches donde una podía fingir dos horas que nadie esperaba nada de ella salvo que eligiera otra copa. La vibra de moverse porque sí. De aceptar una invitación porque el cuerpo necesitaba recordar que también existía fuera de las mesas.
+—Quiero mantenerme afuera. Legal es el camino más corto por ahora.
 
-Blake no era eso, pero podía servir de imitación barata.
+—Ya sé.
 
-—¿A qué hora?
+—Y si hay problema, respondo. —Walt se encogió de hombros—. No dije que me volví santo. Dije que aprendí a leer formularios.
 
-La sonrisa de Blake se abrió demasiado rápido.
+Héctor se levantó de la silla.
 
-—Diez.
+—Yo tampoco voy. Alguien tiene que cuidar que este no aprenda a usar el teléfono solo.
 
-—Mándame la dirección.
+Danny se bajó del archivero de un salto.
 
-—Necesitaría tu número.
+—Yo sí voy.
 
-Chiara lo miró en silencio.
+—Ya sé que tú sí vas —dijo Nadir.
 
-Blake sostuvo la sonrisa tres segundos y luego sacó el teléfono como si la idea hubiera sido de ella.
+—Como en los viejos tiempos.
 
-Chiara le dictó el número.
+Walt lo miró desde la puerta.
 
-No el principal.
+—¿Qué sabes tú de los viejos tiempos?
 
-Cuando él se fue, caminando un poco más derecho que antes, Chiara volvió a mirar la plaza.
+Danny abrió la boca, la cerró y sonrió.
 
-El televisor cambió de imagen. Keene otra vez. La banca. La cinta amarilla.
+—Lo que me contaron.
 
-El espresso se enfrió.
+Walt no sonrió. Pero algo en la boca se le movió apenas.
 
-Chiara pensó en Kal Mercer, en la forma en que había dicho *mi nombre va en la factura*, y se obligó a guardar el teléfono antes de preguntarse por qué ese pensamiento había llegado ahí.
+—¿A qué hora? —preguntó Nadir.
 
-La ciudad nueva ya estaba empezando a comportarse como si la conociera.
+—Cuando oscurezca.
+
+***
+
+A las siete y media, el cuarto de atrás de la casa común olía a detergente, comino y aceite de motor.
+
+Era el cuarto para lo que hiciera falta: dormir una noche, contar dinero, guardar cajas, cambiarse de ropa antes de ir a una habitación donde el barrio no cabía. Esa noche servía para lo último.
+
+Kal se puso la sudadera negra sobre la camiseta. Pantalón negro, botas, guantes metidos en el bolsillo de atrás. Nadir se abotonó una chamarra negra hasta el cuello y revisó el reloj dos veces. Danny no se estaba quieto: se cambió de playera, se volvió a cambiar, tamborileó en la puerta del clóset una canción que sólo él oía y dijo que se sentía increíble, que hacía años que no se sentía tan bien, que iba a ser un paseo.
+
+Nadir le pasó una botella de agua sin decir nada. Danny se la tomó entera.
+
+Nadir se sentó en la orilla del catre a atarse las botas.
+
+—Se me olvidaba, khoya. El otro día vino ese tal Varek a buscarte.
+
+Kal se detuvo con el cierre de la sudadera a medio subir.
+
+—¿Aquí?
+
+—Al portón. No se bajó del coche. —Nadir jaló la agujeta—. Parece que quiere hablar contigo de algo. No mencionó qué.
+
+—¿El del casino? —preguntó Danny.
+
+—Magnate. Puerto. Casino —dijo Kal—. Todo el mundo habla de él como si fuera clima.
+
+Terminó de subir el cierre.
+
+—Cuídense de Dario Varek. Si pueden evitar deberle favores, mejor. No he escuchado cosas buenas de él con los otros líderes. Nadie lo dice completo, pero todos se enderezan cuando sale el nombre.
+
+Nadir levantó la vista de la bota.
+
+—¿Le debes algo?
+
+—No.
+
+—¿Él cree que sí?
+
+Kal pensó en la cabecera vacía de la sala del Monarch, en Matteo diciendo que Dario tuvo que salir, en el teléfono bocabajo sobre el escritorio con el titular de Keene.
+
+—Todavía no.
+
+—Pues que haga fila —dijo Danny, y se rió solo.
+
+En la mesa quedaron tres máscaras de tela negra, dobladas como servilletas.
+
+Afuera, en la calle, la grúa azul esperaba con las luces de trabajo encendidas. Arriba, sujeto con cadenas, un Buick sin motor, de los que ningún policía de San Aurelio se detiene a revisar. La hierba iba en la cajuela y en el hueco de la llanta de refacción, envuelta en plástico y en olor a gasolina vieja.
+
+Cuando salieron, Walt y Héctor estaban sentados en el escalón de la casa común. Walt seguía con la camisa gris de la mañana. Tenía el teléfono nuevo en la mano, bocabajo, como Kal había dejado el suyo en el escritorio.
+
+Los miró bajar los tres escalones, de negro.
+
+—Eso sí no cambió.
+
+Después vio las máscaras en la mano de Danny.
+
+—En mis tiempos no nos tapábamos la cara.
+
+—En tus tiempos no había una cámara en cada poste —dijo Héctor.
+
+Walt miró hacia la esquina de la ferretería. La luz roja de la cámara parpadeaba sobre la banqueta vacía.
+
+No dijo nada más.
+
+Kal subió a la grúa. Nadir se sentó a su lado; Danny, en medio, con la rodilla otra vez en marcha. Kal encendió las luces, como cualquier grúa que sale a trabajar un lunes en la noche.
+
+En el espejo lateral, Walt seguía en el escalón. No levantó la mano. Se quedó mirando, como se mira una calle que uno conocía, hasta que la grúa dobló la esquina.

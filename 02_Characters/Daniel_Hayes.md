@@ -147,4 +147,6 @@ Danny funciona como **testigo de barrio**: ve cosas que los protagonistas no pue
 
 ---
 
+> **Cap. 3 (reescrito 2026-09-29, canon del autor):** el consumo se insinúa bajo apariencia de emoción por la salida de Walt: no durmió "de la emoción", las balatas que no trae ("No tenían. Mañana."), "alergia", la rodilla, el plato sin terminar. Primeras mentiras a los demás. Kal y Nadir ya lo saben (Cap. 1); Nat lo mira un segundo de más y lo deja pasar. Va al trabajo del Tasador.
+
 Ver también: [[03_Factions/Almendra_Towing]] · [[06_Relationships/Hitos]] · [[02_Characters/Kal_Mercer]]

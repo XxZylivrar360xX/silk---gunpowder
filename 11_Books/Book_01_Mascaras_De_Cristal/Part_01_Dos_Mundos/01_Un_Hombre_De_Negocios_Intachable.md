@@ -5,6 +5,7 @@ Ventana temporal: Fase 0, domingo; el dia en que llegan los socios del Monarch y
 Lugares: La Almendra, Departamento de Policia de San Aurelio, Il Gelsomino, Lote Almendra, Cementerio Santa Lucia, La Esquina de Mabel, Casa Comunitaria de la Almendra.
 Funcion: instalar el dia normal de Kal, la carta de Walt, el acuerdo con Keene, Matteo Bellacorte como bisagra y la invitacion al Monarch. Continua en el Capitulo 2.
 Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_01-03.md (seccion 9). Incluye la siembra de los papeles de Nadir (formato del condado, Kal firma por el).
+Ajuste (2026-09-29, autor, reapertura del Cap. 3): en la tumba de Michael, "Quiero que El Patio vuelva a estar en el juego" pasa a "Quiero que la Almendra vuelva a estar en el juego"; todavia no son El Patio.
 -->
 
 # Capítulo 1 — Un hombre de negocios intachable
@@ -583,7 +584,7 @@ Abrió la suya y le dio un trago largo antes de seguir hablando.
 
 Bajó la botella y la giró entre los dedos, mirando la humedad despegar la etiqueta.
 
-—Y no me gusta que esté tranquilo así. Quiero que cambie. Quiero que El Patio vuelva a estar en el juego. Y sobre todo seguridad, que hoy es lo más difícil de conseguir en el sur. O proteges, o te protegen. Nunca hay paz sin una de las dos.
+—Y no me gusta que esté tranquilo así. Quiero que cambie. Quiero que la Almendra vuelva a estar en el juego. Y sobre todo seguridad, que hoy es lo más difícil de conseguir en el sur. O proteges, o te protegen. Nunca hay paz sin una de las dos.
 
 Kal se quedó mirando la condensación resbalar sobre el nombre grabado en la piedra.
 

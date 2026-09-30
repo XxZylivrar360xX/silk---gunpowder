@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-09-29 — [[98_Agent_Handoff/sessions/2026-09-29_claude_reapertura_cap_03|Cap. 3 reabierto y reescrito (BORRADOR, núcleo Walt); bloque de Chiara al Cap. 4; "El Patio" → "la Almendra" en el Cap. 1]].
 - 2026-09-28 — [[98_Agent_Handoff/sessions/2026-09-28_claude_reconstruccion_halbrook|Halbrook reconstruido por canon del autor: ficha, política, muerte a manos de Harper (supersede "por Kal"), despacho en el Libro III; Cap. 27 retratado, toques en 30 y 40; la muerte pasa al cierre de *Voto de Ceniza* con la coda de Corrado en el hospital]].
 - 2026-09-28 — [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 25: noche reescrita por canon del autor (punto sin retorno): Chiara cuenta lo de Alessio, pasan del jacuzzi a la sala, Kal cuenta Jim, el ejército, Michael y su duelo nunca vivido, y llora por primera vez. Detalle en la metadata del capítulo]].
 - 2026-09-28 — [[98_Agent_Handoff/sessions/2026-09-28_codex_generador_pdf|Generador PDF Pandoc + Typst y primera copia de lectura de *Máscaras de Cristal* (44 capítulos, 589 páginas, borrador)]].
