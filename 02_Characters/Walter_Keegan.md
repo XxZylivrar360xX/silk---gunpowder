@@ -5,10 +5,11 @@
 > **CANON DEL AUTOR (2026-08-23).**
 
 **Rol:** el amigo del padre de Kal. **El hombre que recuerda quién era Kal antes de que Kal pudiera recordarse a sí mismo.**
-**Edad:** cincuenta y tantos o sesenta.
+**Edad:** 60 *(CANON DEL AUTOR, 2026-09-29; antes "cincuenta y tantos o sesenta"). Un año mayor que [[02_Characters/Mabel_Ortiz|Mabel]] (59).*
 **Territorio:** la Almendra. Ver [[05_Locations/San_Aurelio]].
 **Estado:** vivo, y **recién salido de prisión** cuando empieza la novela.
 **Hijos:** [[02_Characters/Jim_Keegan|Jim]] (†, Afganistán) y [[02_Characters/Natalie_Keegan|Natalie "Nat"]], la menor. CANON DEL AUTOR (2026-09-26): bombera-paramédica; estuvo en su audiencia y lo recibe a la salida junto a Kal y Héctor (ya escrito en el Cap. 3, BORRADOR). Su esposa, **Amanda Keegan**, murió en un asalto que terminó en homicidio con Walt ya preso. Él se enteró adentro.
+**Amor maduro — CANON DEL AUTOR (2026-09-29):** [[02_Characters/Mabel_Ortiz|Mabel Ortiz]], su amor de secundaria que no fue; ella es viuda (causa natural), él viudo desde que entró a prisión, aproximadamente. Detalle, DISEÑO y pendientes en la ficha de Mabel. Se casan en *Sombras de Poder*, Parte II, antes de Stavanger, en la terraza del Monarch (CANON DEL AUTOR, 2026-09-29): [[01_Timeline/03_Libro_02_Sombras_De_Poder#La boda de Mabel y Walt — la terraza del Monarch]].
 
 **Apariencia — CANON DEL AUTOR (2026-09-01):** mestizo, americano y latino. Calvo, piel morena clara. Barba de candado gris. Vestimenta neutra — nada que llame la atención — pero siempre con botas de cazador, pase lo que pase.
 
@@ -22,7 +23,7 @@
 
 **Distinción de reparto:** Héctor tiene pelo abundante, camisa de cuadros y cercanía de taller; Walt se reconoce por la cabeza despejada, el candado y la sobriedad de la ropa. Son apoyos de silueta, no una sustitución de sus funciones distintas en la vida de Kal.
 
-**Control de continuidad:** el rótulo de la lámina propone **58–60 años** y un origen en el sur de California. No se adoptan como datos nuevos: la ficha mantiene «cincuenta y tantos o sesenta» y no fija lugar de nacimiento. Las botas de cazador siguen siendo obligatorias aunque el encuadre no las muestre. `Walt_Keegan.png` corresponde a esta ficha de **Walter Keegan**, no a otro personaje.
+**Control de continuidad:** el rótulo de la lámina propone **58–60 años** y un origen en el sur de California. La edad quedó fijada después en 60 (CANON DEL AUTOR, 2026-09-29), dentro del rango de la lámina; el origen no se adopta y la ficha no fija lugar de nacimiento. Las botas de cazador siguen siendo obligatorias aunque el encuadre no las muestre. `Walt_Keegan.png` corresponde a esta ficha de **Walter Keegan**, no a otro personaje.
 
 Catálogo y criterio de uso: [[99_Reference/character_art/README]].
 

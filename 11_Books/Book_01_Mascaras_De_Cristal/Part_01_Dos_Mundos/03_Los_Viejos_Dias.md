@@ -153,7 +153,7 @@ Héctor le dio la bolsa de papel.
 
 Walt miró adentro.
 
-—Diez años y me recibes con concha fría.
+—Diez años y me recibes con una concha fría.
 
 —Está tibia.
 
@@ -165,7 +165,7 @@ Walt miró entonces las letras de la sudadera de su hija. Ya lo sabía; se lo ha
 
 —Hace cuatro meses.
 
-—Ya sé desde cuándo.
+—Cuatro... ¿Eh?.
 
 Natalie sacó del bolsillo de la sudadera una caja pequeña y se la puso en la mano.
 
@@ -213,7 +213,7 @@ Escuchó hasta que la nota se terminó y bajó el volumen.
 
 —No se sabe.
 
-—Eso no cambió.
+—Algunas cosas no cambian.
 
 Por la ventana, la ciudad le iba pasando cosas que no estaban cuando él se fue. Un puente nuevo sobre el canal. Un centro comercial de tres pisos donde antes había un lote de tráileres. Una gasolinera que ya no se llamaba como se llamaba. Walt no comentó ninguna. Las miraba con la atención de quien revisa un expediente propio escrito por otra gente.
 
@@ -271,11 +271,11 @@ Jim no se dio la vuelta enseguida.
 
 —Todavía no he decidido qué voy a hacer con él.
 
-—Eso no es un no.
+—Eso no es una negativa.
 
 —Tampoco es un sí. —Kal se paró a su lado, mirando la misma oscuridad—. ¿Por qué, Jim?
 
-—Porque el sueldo de un soldado no alcanza para nada, y aquí hay gente que paga bien por cosas que a nosotros nos sobran. —Jim se encogió de hombros, con una calma que no le llegaba a los ojos—. No es tan distinto de lo que hacía mi padre antes de que el Tasador se lo arruinara. Sólo que yo no tuve que romperle el escritorio a nadie.
+—Porque el sueldo de un soldado no alcanza para nada, y aquí hay gente que paga bien por cosas que a nosotros nos sobran. —Jim se encogió de hombros, con una calma que no le llegaba a los ojos—. No es tan distinto de lo que hacía mi padre antes de que Crowe se lo arruinara. Sólo que yo no tuve que romperle el escritorio a nadie.
 
 —Suena exactamente a lo que él odiaba.
 
@@ -283,7 +283,7 @@ Jim tiró el cigarro y lo apagó con el talón, más fuerte de lo necesario.
 
 —Entonces qué bueno que él no está aquí para verlo.
 
-—¿Y tu hermana?
+—¿Y que hay de tu hermana?
 
 Jim se quedó quieto. Por primera vez en toda la conversación, la calma le llegó tarde.
 
@@ -291,7 +291,7 @@ Jim se quedó quieto. Por primera vez en toda la conversación, la calma le lleg
 
 —Tiene diecinueve años y se sube a una ambulancia todas las noches a recoger gente que se muere por mucho menos que esto.
 
-—Justo por eso. —Jim no lo miró—. Ella no se entera. Nunca.
+—Me estas dando el punto. —Jim no lo miró—. Ella no se enterará. Nunca.
 
 —No se lo voy a decir —dijo Kal, al final—. Pero vas a parar.
 
@@ -347,7 +347,7 @@ No lo era del todo, y los dos lo sabían, y ninguno de los dos iba a discutirlo 
 
 Walt se agachó, por fin, y tocó la tierra con dos dedos.
 
-—Nadie me lo dijo en diez años —dijo, todavía sin levantar la vista—. Y ahora que salgo, resulta que llevaba más de cuatro años sabiéndolo el mundo entero menos yo.
+—Nadie me lo dijo. —dijo, todavía sin levantar la vista—. Y ahora que salgo, resulta que llevaba más de cuatro años sabiéndolo el mundo entero menos yo.
 
 A su lado, Kal sintió que Natalie se quedaba quieta de otra manera: no como quien espera, sino como quien recibe un golpe y decide no moverse para no mover a nadie más.
 
@@ -355,7 +355,7 @@ A su lado, Kal sintió que Natalie se quedaba quieta de otra manera: no como qui
 
 —¿Por qué no en la cárcel?
 
-—Porque ahí no tenías nada. Aquí, al menos, tenías dónde pararte.
+—Porque ahí no tenías nada. Aquí, al menos, tenías dónde y con quien pararte.
 
 Walt no contestó a eso. Se quedó en cuclillas un rato más, la mano todavía sobre la tierra, y Héctor se acercó por fin, despacio, y le puso la mano en el hombro sin decir nada.
 
@@ -371,7 +371,7 @@ No le preguntó si sabía. No hacía falta: el Corolla había tomado la salida s
 
 —¿Desde cuándo? —dijo solamente.
 
-—Desde que dos soldados me tocaron la puerta.
+—Desde que dos soldados tocaron la puerta.
 
 Walt asintió despacio. Miró a Kal. Volvió a mirar a su hija.
 
@@ -389,9 +389,9 @@ Nadie le preguntó qué decía.
 
 —Vámonos de aquí.
 
-—¿A la casa? —preguntó Héctor.
+—¿Al barrio? —preguntó Héctor.
 
-—A donde haya ruido.
+—A donde sea que haya ruido.
 
 Natalie le puso la mano en el brazo un segundo, sobre la tela gris que todavía olía a cárcel. Al pasar junto a Kal hacia el Corolla, le apretó el antebrazo una vez. No era un gracias. Era lo que uno hace cuando suelta su extremo de la camilla y confía en que el otro no suelte el suyo.
 

@@ -255,6 +255,26 @@ es hogar escogido conscientemente después de la pérdida.
 **PENDIENTE:** logística de adquisición/obra y cuánto ha madurado como hogar al cierre de esta
 Parte.
 
+### La boda de Mabel y Walt — la terraza del Monarch
+
+**CANON DEL AUTOR (2026-09-29):** [[02_Characters/Mabel_Ortiz|Mabel]] y [[02_Characters/Walter_Keegan|Walt]] se casan en la Parte II, **después de Villa Candelaria y antes de Stavanger** (tramo de "nuevas memorias"). Chiara organiza la boda en la terraza del [[03_Factions/El_Casino|Monarch]].
+
+**El momento de Chiara (canon):** antes de la boda, le muestra a Kal la decoración del altar. Kal, con camisa negra, camina hacia el altar comentando que las flores y la alfombra están mal alineadas; ella lo espera con un vestido blanco casual, ajustado, de un hombro descubierto. Durante unos diez segundos se imagina a sí misma esperando en el altar a Kal Mercer. En su mente repite, con la voz de Mabel, una frase que Mabel le dijo:
+
+> **CANON DEL AUTOR — línea de Mabel, no reescribir:** *"Cuando pasas una vida entera, buscando el amor que toque a tu puerta casi siempre te marchitas en la espera, pero cuando el amor es el que llega, lo reconoces como tuyo, lo vives como propio, y entiendes que debes cuidarlo y protegerlo cuando su sola compañía te arranca del pecho una sola frase..."*
+
+Viendo a Kal a lo lejos, bajo el arco de flores, con el atardecer de fondo, Chiara completa la frase en un susurro: **"Te amo."** Kal no la oye. Ella desecha la idea enseguida: un hombre como Kal jamás se casaría.
+
+> *Sustituido (2026-09-29, autor): la primera formulación registraba el pensamiento como "Que amo."; la idea completa es la frase de Mabel completada en voz baja con "Te amo." Transcripción: "marchiras" → "marchitas", confirmado por el autor.*
+
+- **Por qué es la primera vez:** tras su matrimonio con [[02_Characters/Alessio_Lusardi|Alessio]] había decidido no volver a creer en el amor, ni enamorarse, ni casarse. A Alessio no lo amó así. *Roma Atrii* (Libro I, Cap. 38) fue cifrado, juego, algo dicho de lado; aquí se lo admite a sí misma, sin disfraz y en presente, por primera vez en su vida.
+- **La ironía (canon):** Kal ya lleva el anillo guardado en la billetera. Chiara cree que Kal no quiere casarse; Kal cree que ella no quiere volver a casarse por su matrimonio anterior. Los dos quieren. Tono: divertido, no angustioso.
+- **Encaje:** el anillo en la billetera presupone la joyería con Héctor (PENDIENTE, fuera de página) antes de esta boda. Stavanger paga la ironía.
+
+> **CANON DEL AUTOR (2026-09-29) — la siembra:** Mabel le dice la frase a Chiara **después del destierro de Riley (F2)**, cuando Chiara cae en depresión. Para sacarla de ahí, le encarga la planeación de la boda. La boda es, para Chiara, trabajo de recuperación antes que evento social. PENDIENTE: escena, lugar y cuánto después de F2.
+
+> **PENDIENTE:** capítulo exacto; quién oficia; si Chiara toca el anular izquierdo en ese instante (su tic, ver [[02_Characters/Chiara_Bellandi]]); si el lector ve la billetera en esta escena o sólo en Stavanger.
+
 ### Noruega / Stavanger y el anillo
 
 La propuesta ocurre en **Noruega / Stavanger**. **CANON DEL AUTOR (2026-09-26):** la escena de la línea de Anya ("Llegará el día…" / "¿Y ahora qué piensas?" / "Ya llegó.") ya no es un día de campo: ocurre en **Noruega**. Es la misma escena que la propuesta (canon 2026-09-26). **La sobrecompensación crea el espacio; la
@@ -330,8 +350,8 @@ extensa. Fin del Libro II, antes del nacimiento de Elenna y antes de la guerra a
   después → FIN**.
 - **II / EXILIO:** **el día después del incendio: sin casa, entre las cenizas** [canon 2026-09-26] → ~~Año Nuevo / F4~~ [movido a I] → F3 (distancia precisa pendiente) →
   organización y consecuencias → descubrimiento de Mei-Lin → **mismo día: ejecución de Mei-Lin
-  por Nadir + destierro de Riley** → consecuencias en Kal / Chiara / Nadir / El Patio →
-  reconstrucción / **Villa Candelaria** → nuevas memorias → **Noruega / Stavanger / anillo** →
+  por Nadir + destierro de Riley** → consecuencias en Kal / Chiara / Nadir / El Patio (depresión de Chiara; Mabel le dice su frase y le encarga planear la boda) →
+  reconstrucción / **Villa Candelaria** → nuevas memorias → **boda de Mabel y Walt (terraza del Monarch; frase de Mabel, "Te amo.")** → **Noruega / Stavanger / anillo** →
   futuro elegido.
 - **III / TORNA A CASA:** conflicto final creciendo → Silas Crowe (mecanismo pendiente) →
   conflicto Varek → embarazo de Chiara → **H1 / `Perché ti amo con tutto il mio cuore.`** →

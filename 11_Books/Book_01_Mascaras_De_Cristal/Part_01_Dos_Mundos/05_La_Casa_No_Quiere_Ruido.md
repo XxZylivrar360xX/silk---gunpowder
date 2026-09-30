@@ -2,13 +2,80 @@
 Estado: TERMINADO.
 Cirugía editorial extraordinaria 2026-09-26 (autorizada por el autor, sigue TERMINADO): poda de la deuda interior repetida del Cap. 4, glosas, tres saltos de POV, eco huérfano, segunda ronda de burlas de la familia; Nadir huele la colonia en casa y la cobra en la acera (H2-a); siembra aprobada de Fabrizio como llamada en la escena del proveedor. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_05_Una_Amiga.md §11.
 Protagonistas: Chiara Bellandi, Kal Mercer.
-Ventana temporal: dias/semanas posteriores al primer favor, hasta la primera noche que ninguno de los dos llama cita.
+Ventana temporal: abre la misma noche del primer favor (lunes) y sigue dias/semanas despues, hasta la primera noche que ninguno de los dos llama cita.
+Traslado (2026-09-29, decision del autor): la coda Kal/Nadir que cerraba el Cap. 4 (corralon, Mabel, "El problema llamo", mensaje de Chiara, contacto guardado como Bellandi) abre ahora este capitulo, integra. El 4 queda en POV Chiara completo y cierra con ella mandando el mensaje sin respuesta; aqui el lector descubre que el tampoco lo trato como llamada cualquiera. Este capitulo es el primer POV compartido deliberado del libro.
 Lugares: The Monarch Casino & Hotel, La Almendra, centro de San Aurelio, Il Gelsomino.
 Funcion: convertir el favor en cadena, mostrar a Kal como telefono recurrente y a Chiara aprendiendo a dirigir informacion; ejecutar H2-a, la primera cena que ninguno llama cita.
 Nota de fusion (2026-09-10, BLOQUE 2 de PLAN_CIRUGIA_EDITORIAL_PARTE_I): capitulo resultante de fusionar los antiguos Capitulo 5 (La casa no quiere ruido) y Capitulo 6 (Una amiga). El archivo conserva su nombre original (05_La_Casa_No_Quiere_Ruido.md) por trazabilidad de enlaces; el titulo visible pasa a ser "Una amiga". El antiguo Nota_Una_Amiga_Fusionada.md queda como nota de redireccion. La renumeracion global posterior ya fue completada en cascada.
 -->
 
 # Capítulo 5 — Una amiga
+
+Kal dejó el Mercedes en un corralón privado a cuatro calles de la Almendra y no volvió directo al taller.
+
+Pasó por La Esquina de Mabel, aunque ya estaba cerrada. La luz de la cocina seguía prendida. Mabel no abrió. Sólo apareció detrás del vidrio, le enseñó una taza y negó con la cabeza. Kal levantó la mano. No quería café. Quería comprobar que el barrio seguía donde lo había dejado.
+
+Cuando llegó al patio, Nadir estaba sentado sobre el cofre de un Civic sin motor.
+
+—¿Casino?
+
+—Mercedes.
+
+—¿Eso es sí?
+
+Kal bajó de la grúa.
+
+—Eso es Mercedes.
+
+Nadir lo siguió hasta la oficina.
+
+—¿Te pagaron?
+
+—Van a pagar.
+
+—Peor.
+
+Kal dejó la tabla de trabajo en el escritorio y giró el hombro derecho, despacio. Seguía tronando donde se le había zafado la cadena del Buick.
+
+—Ponte hielo —dijo Nadir.
+
+—Luego.
+
+—Eso dijiste en la descarga.
+
+Nadir se recargó en el marco de la puerta.
+
+—¿Ella llamó?
+
+Kal abrió un cajón, sacó una libreta y anotó matrícula, hora y nombre.
+
+—El problema llamó.
+
+—Qué bonito, wallah. ¿Traía acento?
+
+Kal levantó la vista.
+
+Nadir sonrió.
+
+—Ya, ya. Mercedes.
+
+Kal volvió a escribir.
+
+El teléfono vibró.
+
+Un mensaje de un número sin nombre:
+
+**La factura completa. Por favor.**
+
+Kal miró la pantalla.
+
+Luego guardó el contacto como **Bellandi**.
+
+No contestó.
+
+Todavía.
+
+***
 
 La factura llegó a las ocho y diecisiete de la mañana.
 

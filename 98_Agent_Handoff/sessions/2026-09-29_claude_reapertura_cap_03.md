@@ -28,3 +28,11 @@ Cuadra Nueve / Maya Ríos como banda receptora; treinta mil, mitad por adelantad
 - **Resuelto (autor, misma sesión):** la advertencia sobre Dario vuelve en el alistamiento: Nadir cuenta que Varek fue a buscar a Kal al portón "el otro día" sin decir para qué, y Kal repite la advertencia a Nadir y Danny. "Quiero levantarlo" sigue fuera.
 - **Resuelto (autor):** el trabajo no se conecta con el cargamento no entregado del incendio.
 - EPUB no regenerado (capítulo en BORRADOR).
+
+## Adenda: POV del Cap. 4 y coda al Cap. 5 (2026-09-29, autorizado por el autor)
+
+- Cap. 4 en POV Chiara completo. Chiara llega a la rampa antes que la grúa y ve a Kal trabajar desde la puerta de carga junto a Matteo (que no sale para no quedar en el video de Varga). Se retiraron "Eso era lo que Kal esperaba" y el salto de cabeza a media escena. Prosa nueva de enlace: DISEÑO del agente, pendiente de lectura.
+- Cierre nuevo del 4: ya en el penthouse, Chiara manda "La factura completa. Por favor." y él no contesta. Se cortó "Era la primera vez que quedaba del otro lado" por opaca.
+- La coda Kal/Nadir (corralón, Mabel, "El problema llamó", contacto guardado como Bellandi) abre ahora el Cap. 5, íntegra, antes de "La factura llegó a las ocho y diecisiete". El 5 es el primer POV compartido deliberado.
+- Escalón relacional anotado en la metadata del 4: Cap. 2 "quizá pueda obtener algo de él" → Cap. 4 "lo llamé y apareció" → Cap. 5 "quiero seguir hablando aunque no necesite nada".
+- Secuela del trabajo del Tasador (pedido del autor): en el 4, Chiara ve a Kal girar el hombro derecho al bajar el gancho y lo anota sin preguntar; en la coda del 5, el hombro "sigue tronando donde se le había zafado la cadena del Buick" y Nadir le pide hielo ("Eso dijiste en la descarga"). La causa concreta (la cadena) es DISEÑO del agente.

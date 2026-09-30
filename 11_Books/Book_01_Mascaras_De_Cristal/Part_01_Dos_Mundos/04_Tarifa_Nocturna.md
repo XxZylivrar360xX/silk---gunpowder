@@ -2,8 +2,10 @@
 Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): mecanico (signo de interrogacion en la rampa). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_04-13_Lote_A.md.
 Protagonistas: Chiara Bellandi, Kal Mercer.
 Ventana temporal: lunes, mismo dia de la salida de Walt (Cap. 3), de la manana a la noche. (Corregido 2026-09-29: el bloque de Chiara que abre el capitulo fija la fiesta en "esta noche"; mientras Kal esta en el trabajo del Cap. 3, Chiara esta en La Isla, y la llamada de Varga llega despues.)
-Lugares: The Monarch Casino & Hotel, centro de San Aurelio (cafeteria frente a Plaza Corona), La Isla, La Almendra.
+Lugares: The Monarch Casino & Hotel, centro de San Aurelio (cafeteria frente a Plaza Corona), La Isla.
+POV: Chiara completo (fijado 2026-09-29, decision del autor). El remolque se ve desde la puerta de servicio: Chiara llega antes que la grua y mira a Kal trabajar; se retiraron las frases interiores de Kal y el salto de cabeza a media escena. Cierre nuevo: Chiara manda "La factura completa. Por favor." desde el penthouse y no hay respuesta. Se corto la linea opaca "Era la primera vez que quedaba del otro lado" (la sustituye el mensaje sin respuesta). Secuela fisica del trabajo del Tasador (Cap. 3): Chiara ve a Kal cuidar el hombro derecho al bajar el gancho y no pregunta; en el 5 se nombra la causa (cadena del Buick en la descarga). DISEÑO del agente a pedido del autor. La coda Kal/Nadir (Mabel, "El problema llamo", contacto guardado como Bellandi) paso a abrir el Cap. 5.
 Traslado (2026-09-29, decision del autor en la reapertura del Cap. 3): el bloque de Chiara que cerraba el Cap. 3 (titular de Keene, torneo de poker y roce con Tommaso, salida al centro, Blake y la invitacion a La Isla) abre ahora este capitulo, integro y sin pulir; el 3 queda en POV Kal y el POV compartido deliberado se reserva para el Cap. 5. Pendiente: pasada de pulido del bloque trasladado dentro de la economia del 4.
+Escalon relacional: Cap. 2 "quiza pueda obtener algo de el" -> Cap. 4 "lo llame y aparecio" -> Cap. 5 "quiero seguir hablando aunque no necesite nada".
 Funcion: abrir el dia de Chiara (Keene como comunicado, Tommaso, Blake) y mostrar el primer favor bajo la mesa, el error funcional de Blake y la incomodidad de Chiara al aceptar ayuda de Kal.
 -->
 
@@ -513,17 +515,31 @@ Le sirvió.
 
 ***
 
-Kal llegó al Monarch en una grúa azul, no en el Peugeot.
+El taxi la dejó en la rampa de servicio del Monarch catorce minutos después.
 
-La grúa no tenía nada elegante. Por eso funcionaba. El guardia de la entrada de carga la vio entrar, leyó el logo de Almendra Towing y decidió que aquello era explicación suficiente. El mundo legal estaba lleno de objetos que venían con permiso incorporado: uniformes, carpetas, llaves maestras, camiones de mantenimiento.
+Matteo la esperaba en el marco de la puerta de carga, con la corbata floja y el teléfono todavía en la mano. No había salido. Varga tenía un teléfono levantado y Matteo no pensaba regalarle su cara.
 
-Kal bajó con una tabla de trabajo en la mano.
+—¿Viene?
 
-Varga estaba junto a un Mercedes gris, gritando hacia dos guardias que no sabían si contenerlo o dejar que se cansara. Era de esos hombres que usaban el saco abierto para demostrar que no tenían miedo de arrugarlo. Tenía el cuello rojo, la voz húmeda y un teléfono levantado hacia la cara de quien se atreviera a respirar cerca.
+—Dijo veinte minutos.
+
+—¿Y le crees?
+
+Chiara no contestó. Se acomodó el abrigo sobre los hombros y se quedó junto a él, del lado de adentro.
+
+Desde ahí se veía todo. Varga estaba junto a un Mercedes gris, gritando hacia dos guardias que no sabían si contenerlo o dejar que se cansara. Era de esos hombres que usaban el saco abierto para demostrar que no tenían miedo de arrugarlo. Tenía el cuello rojo, la voz húmeda y el teléfono levantado hacia la cara de quien se atreviera a respirar cerca.
 
 —Esto es robo —decía—. Esto es secuestro de propiedad.
 
-Kal no habló con él primero.
+A los veinte minutos de la llamada entró una grúa azul. No el Peugeot.
+
+La grúa no tenía nada elegante. Por eso funcionaba. El guardia de la entrada de carga la vio pasar, leyó el logo de Almendra Towing y decidió que aquello era explicación suficiente. Chiara conocía el mecanismo: el mundo legal estaba lleno de objetos que venían con permiso incorporado. Uniformes, carpetas, llaves maestras, camiones de mantenimiento.
+
+Kal bajó con una tabla de trabajo en la mano.
+
+La vio en la puerta. No cambió de ritmo.
+
+Tampoco habló primero con Varga.
 
 Fue con el guardia más viejo.
 
@@ -541,7 +557,7 @@ Kal le mostró una hoja.
 
 —El que va a quitar el coche antes de que su jefe tenga que explicar por qué carga no carga.
 
-El guardia miró la hoja sin leerla. Eso era lo que Kal esperaba.
+El guardia miró la hoja sin leerla. Kal no parecía haber esperado otra cosa.
 
 Varga se acercó.
 
@@ -593,9 +609,7 @@ Kal levantó la vista.
 
 La frase no sonó fuerte. No hizo falta. El guardia más joven miró al suelo.
 
-La puerta de servicio se abrió. Matteo salió con la cara de quien venía a arreglar una escena que ya estaba siendo arreglada por alguien que no debería estar ahí. Detrás de él, Chiara apareció con un abrigo negro sobre los hombros y el bolso en la mano.
-
-Kal la vio, pero no cambió de ritmo.
+Matteo salió al fin, con la cara de quien venía a arreglar una escena que ya estaba siendo arreglada por alguien que no debería estar ahí. Chiara salió detrás de él.
 
 —Señor Mercer —dijo Matteo.
 
@@ -617,7 +631,9 @@ Chiara le devolvió la pluma a Kal.
 
 —Acabo de hacerlo.
 
-Kal bajó el gancho.
+Kal bajó el gancho. Movió la palanca con la izquierda; el brazo derecho se le quedó colgando un segundo de más, y luego giró el hombro una vez, corto, como quien revisa una bisagra.
+
+Chiara lo anotó. No era un gesto de alguien que llevara la noche entera esperando su llamada.
 
 El Mercedes subió de atrás con un quejido limpio. La escena perdió volumen al instante. Un coche levantado ya no era amenaza: era trámite.
 
@@ -691,64 +707,14 @@ La factura iba a llegar completa y enseñable, y ella la iba a pagar el mismo d�
 
 Lo que no iba a aparecer en ninguna hoja era que un hombre al que esa misma mesa había rechazado contestó al tercer tono, llegó en veinte minutos y no preguntó ni una vez por qué lo llamaba ella y no Matteo.
 
-Era la primera vez que quedaba del otro lado.
+Ya en el penthouse, con los tacones en la mano y el abrigo todavía puesto, sacó el teléfono.
 
-***
+El número seguía sin nombre.
 
-Kal dejó el Mercedes en un corralón privado a cuatro calles de la Almendra y no volvió directo al taller.
-
-Pasó por La Esquina de Mabel, aunque ya estaba cerrada. La luz de la cocina seguía prendida. Mabel no abrió. Sólo apareció detrás del vidrio, le enseñó una taza y negó con la cabeza. Kal levantó la mano. No quería café. Quería comprobar que el barrio seguía donde lo había dejado.
-
-Cuando llegó al patio, Nadir estaba sentado sobre el cofre de un Civic sin motor.
-
-—¿Casino?
-
-—Mercedes.
-
-—¿Eso es sí?
-
-Kal bajó de la grúa.
-
-—Eso es Mercedes.
-
-Nadir lo siguió hasta la oficina.
-
-—¿Te pagaron?
-
-—Van a pagar.
-
-—Peor.
-
-Kal dejó la tabla de trabajo en el escritorio.
-
-Nadir se recargó en el marco de la puerta.
-
-—¿Ella llamó?
-
-Kal abrió un cajón, sacó una libreta y anotó matrícula, hora y nombre.
-
-—El problema llamó.
-
-—Qué bonito, wallah. ¿Traía acento?
-
-Kal levantó la vista.
-
-Nadir sonrió.
-
-—Ya, ya. Mercedes.
-
-Kal volvió a escribir.
-
-El teléfono vibró.
-
-Un mensaje de un número sin nombre:
+Escribió el mensaje, lo leyó una vez y lo mandó antes de corregirlo.
 
 **La factura completa. Por favor.**
 
-Kal miró la pantalla.
+La pantalla se quedó quieta.
 
-Luego guardó el contacto como **Bellandi**.
-
-No contestó.
-
-Todavía.
+Él no contestó.
