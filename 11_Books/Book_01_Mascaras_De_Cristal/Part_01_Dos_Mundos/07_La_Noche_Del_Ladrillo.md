@@ -1,7 +1,8 @@
 <!--
 Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): conteo de H3 despejado, Willy fuera (sin antecedente), glosas de 'Te veo despues' y de la risa, tercera formulacion del taxi. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_04-13_Lote_A.md.
 Protagonistas: Chiara Bellandi, con apariciones de Blake Stanton, Dario Varek, Kal Mercer, Nadir Amrani, Daniel Hayes y Hector Navarro.
-Ventana temporal: dias despues del Capitulo 6 (la noche de hierba en el penthouse). Todavia se estan conociendo — antes del primer beso.
+Callbacks post 5-6 (2026-09-29, autorizados por el autor, sigue TERMINADO): (1) Peugeot: Chiara ya sabe desde el Cap. 6 que Kal lo maneja; la pregunta a Blake es tanteo y el silencio es lealtad, no distraccion. (2) Reconoce a Nadir, Danny y Hector por las historias (Danny: Mustang/lineas del patio, sin subrayar). (3) CANON DEL AUTOR: se cobra el "quiere hablar contigo" de Nadir (Cap. 3): Dario le da una tarjeta a Kal en la acera; Chiara lo ve de lejos y le extrana porque Kal ya trabaja para el Monarch. Fuera de cuadro, cuando Kal se va, Dario aborda a Nadir: mover 5 kg de cocaina al norte, entrega en una parcela, 50,000 por la entrega. La prosa no lo dice; solo queda que Nadir se quede en la barra. Pendiente: payoff posterior.
+Ventana temporal: dias despues del Capitulo 6 (la noche de hierba en el penthouse). Ya comparten cotidianeidad (llamadas, historias de los amigos, la confesion del Peugeot), aunque lo suyo todavia no tiene nombre — antes del primer beso.
 Lugares: Gabriella's (fiesta de vestimenta blanca).
 Funcion: ejecutar H3 completo (a, b, c) — la noche del ladrillo. Tres apariciones de Kal en la cabeza de Chiara sin que este presente: el Peugeot (primera vez), la dedicatoria de Volare (segunda vez, ya registrada como patron y no como dato suelto), y su llegada real con la banda de la Almendra (la tercera, esta si en persona). Cierra con el final de lo de Blake — ruptura en la calle, no por Kal sino porque ella entiende que buscaba algo que ya habia encontrado en otro lado.
 -->
@@ -48,11 +49,15 @@ Blake se enderezó como si el coche le hubiera activado algo.
 
 Chiara no dijo nada.
 
-No porque no tuviera nada que decir, sino porque en la cabeza ya no estaba en la conversación. No estaba en un auto. Estaba en un hombre: en la forma en que había apoyado el antebrazo en la puerta de una grúa, en una voz que decía *no le mando propuesta* como si estuviera dictando ley, en una mano que se había negado a soltar unas llaves frente a un valet asustado.
+Había hecho la pregunta para medir cuánto sabían. No sabían nada.
+
+Ella sí. La recta de Kingsley Field de madrugada, los faros de los que iban a apostar, una canción que alguien oía cuando la ciudad ya había cerrado y las calles eran suyas un rato. *Termina donde yo digo que termine.* Se lo había contado tirado en un sillón del penthouse, sin presumir, como quien cuenta de qué trabaja.
+
+Tenía el nombre en la boca, y enfrente a un policía que llevaba meses queriendo ponérselo a un expediente.
+
+No lo dijo. Ni siquiera tuvo que decidirlo; se dio cuenta después, cuando ya lo estaba guardando, de que no lo había considerado ni un segundo.
 
 Fue la primera vez esa noche que Kal se le metió en la cabeza sin haber sido invitado.
-
-No dijo el nombre en voz alta. No hacía falta decírselo a nadie, y mucho menos a Blake.
 
 Él volvió a entrar cuando alguien lo llamó desde la puerta — otro grupo, otra ronda de presentaciones donde ella iba a ser el florero otra vez—, y Chiara se quedó sola con el teléfono en la mano y una idea que no debía tener.
 
@@ -116,15 +121,15 @@ Dario Varek estaba saliendo cuando ella volvió a entrar.
 
 No era un cumplido. Tampoco una amenaza. Era, como todo lo que decía Dario, una cifra: la ubicaba en un mapa y seguía caminando.
 
-Chiara lo vio subir a su auto y perderse hacia el centro, y estaba por volver a entrar cuando el mismo Peugeot rojo pasó otra vez — en dirección contraria esta vez — y giró en el callejón junto al local.
+Chiara lo dejó en la acera esperando su auto, y estaba por volver a entrar cuando el mismo Peugeot rojo pasó otra vez — en dirección contraria esta vez — y giró en el callejón junto al local.
 
-No se detuvo a pensarlo. Se quedó mirando la boca del callejón con el bolso apretado contra el costado, sin saber bien qué esperaba ver.
+Esta vez no tuvo que preguntarse quién iba dentro. Se quedó mirando la boca del callejón con el bolso apretado contra el costado, con Blake a veinte pasos, adentro, todavía presumiendo curvas.
 
 A los dos minutos aparecieron cuatro figuras caminando hacia la entrada principal.
 
-Kal. Nadir. Danny. Y detrás, con el paso de quien no necesita apurarse por nada, Héctor Navarro.
+Kal, con la chaqueta de siempre. Y tres hombres que ella no conocía de cara pero sí de oídas, y que se fue acomodando sola, por las historias: el de la ropa que parecía sacada directo del taller tenía que ser Nadir; el de la gorra que ningún portero de Gabriella's iba a dejar pasar sin comentario tenía que ser Danny, el del Mustang en una noche y las líneas del patio; y el que venía detrás, con el paso de quien no necesita apurarse por nada, sólo podía ser Héctor.
 
-Los cuatro con ropa que no correspondía a nada de lo que había adentro — Kal con la chaqueta de siempre, Nadir con algo que parecía sacado directo del taller, Danny con una gorra que ningún portero de Gabriella's iba a dejar pasar sin comentario.
+Ninguno con ropa que correspondiera a nada de lo que había adentro.
 
 El portero, en efecto, no dejó pasar el comentario.
 
@@ -146,17 +151,33 @@ El portero, resignado o simplemente cansado, los dejó pasar.
 
 Ésta ya no fue un pensamiento suelto ni una canción prestada. Ésta fue la tercera vez esa noche, y era él, entero, cruzando la puerta.
 
+No había terminado de cruzarla cuando Dario, que seguía en la acera, dio dos pasos hacia él.
+
+Chiara estaba demasiado lejos para oír. Vio lo suficiente: Dario hablando poco y sin sonreír, como hablaba siempre; Kal escuchando con las manos en los bolsillos; una tarjeta que pasó de una mano a otra sin ceremonia. Kal la miró un segundo y la guardó en la chaqueta. Nadir, a su lado, la miró más tiempo que él.
+
+Le pareció raro. Le siguió pareciendo raro cuando el auto de Dario llegó y él no se subió, sino que volvió a entrar al salón como quien se acuerda de algo. Kal ya trabajaba para el Monarch. Las grúas, las facturas, los proveedores: todo pasaba ya por la casa. Si Dario quería algo de él, tenía oficina, tenía socios, la tenía a ella. Una tarjeta en la acera de una fiesta era otra cosa. Era querer algo que no cabía en el contrato.
+
 ***
 
 Adentro, entre el ruido de la fiesta y la gente vestida exactamente igual, Chiara se apartó con Kal a un rincón donde nadie más estaba escuchando.
 
-—Vine con unos amigos —dijo ella, con la cara seria de quien está explicando algo que no necesita explicación.
+—Vine con unos amigos —dijo él, con la cara seria de quien está explicando algo que no necesita explicación.
 
 —¿Y Héctor cuenta como amigo o como supervisión? —preguntó ella.
 
 —Las dos.
 
 Nadir y Danny se habían quedado cerca de la barra, discutiendo en voz baja sobre cuál de los dos iba a atreverse a pedir algo que no supieran pronunciar. Héctor los vigilaba desde una distancia prudente, con la cara de un hombre que ha visto suficientes fiestas ajenas como para no esperar nada de ninguna.
+
+Kal la miró un segundo más de lo que había mirado la fiesta.
+
+—Traes la sonrisa de las juntas.
+
+—¿Cuál sonrisa?
+
+—La que pones cuando alguien habla y tú ya sabes cómo va a terminar.
+
+Chiara la soltó. No sabía que la traía puesta todavía.
 
 Un mesero pasó con una charola de copas. Kal tomó dos, le dio una y levantó la suya sin ceremonia.
 
@@ -166,9 +187,9 @@ Un mesero pasó con una charola de copas. Kal tomó dos, le dio una y levantó l
 
 Chocaron las copas. Chiara bebió más rápido de lo que solía — ésta ya era la segunda del rato, entre el brindis y el nervio que traía desde el tocador — y el calor le llegó a la cara antes de que pudiera decidir si le convenía.
 
-—Vine con unos amigos —repitió, aunque ya lo había dicho, porque el vino a veces repetía cosas por ella.
+—Vine con unos amigos —repitió ella, con la misma cara seria que él había puesto, porque el vino a veces le soltaba la burla antes que el juicio.
 
-Kal no se lo hizo notar.
+Kal no se defendió.
 
 —¿No quieres un ladrillo?
 
@@ -218,7 +239,9 @@ Se quedaron ahí un momento, ella con un ladrillo en las manos en un pasillo de 
 
 No era una promesa grande. No tenía adornos. Era, simplemente, un hecho.
 
-Chiara se quedó con el ladrillo todavía en las manos, viéndolo irse por donde había entrado, tan mal vestido y tan seguro de sí mismo como cuando llegó.
+Chiara se quedó con el ladrillo todavía en las manos, viéndolo irse por donde había entrado, tan mal vestido y tan seguro de sí mismo como cuando llegó. Danny y Héctor salieron detrás de él.
+
+Nadir no. Se quedó en la barra, con una copa que por fin había conseguido pedir. Chiara no le dio importancia. Tenía un ladrillo en las manos.
 
 ***
 
