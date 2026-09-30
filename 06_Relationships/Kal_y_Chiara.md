@@ -248,7 +248,8 @@ La intimidad no se construye sólo con confesiones o peligro. Antes de *Libros a
 |---|---|
 | 2 | Puedo obtener algo de ti. |
 | 4 | Sé que puedo llamarte cuando necesito algo. **Última etapa puramente funcional**: la llamada de Varga no se vuelve conversación personal. |
-| 5 (*Una amiga*) | Estoy aquí contigo y, curiosamente, no necesito nada. |
+| 5, apertura (reunión privada) | Veamos qué podemos construir cuando nadie más está sentado en la mesa. Negocian después de una prueba (Varga), sin socios; al cerrar, ella ya obtuvo lo que quería en el 2. **La sociedad precede al romance**: Chiara lo elige porque funciona; Kal la elige porque ella sabe usar lo que él vale. (Añadido 2026-09-29, autor.) |
+| 5 (*Una amiga*) | Estoy aquí contigo y, curiosamente, no necesito nada. Ya no hay mesa de negociación: ¿por qué sigo aquí? |
 | 6 en adelante | Te cuento esto simplemente porque quiero contártelo a ti. |
 
 **Progresión del hábito:**

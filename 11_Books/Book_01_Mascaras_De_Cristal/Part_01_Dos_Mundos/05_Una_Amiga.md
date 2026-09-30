@@ -6,6 +6,7 @@ Ventana temporal: abre la misma noche del primer favor (lunes) y sigue dias/sema
 Traslado (2026-09-29, decision del autor): la coda Kal/Nadir que cerraba el Cap. 4 (corralon, Mabel, "El problema llamo", mensaje de Chiara, contacto guardado como Bellandi) abre ahora este capitulo, integra. El 4 queda en POV Chiara completo y cierra con ella mandando el mensaje sin respuesta; aqui el lector descubre que el tampoco lo trato como llamada cualquiera. Este capitulo es el primer POV compartido deliberado del libro.
 Contarse el dia (2026-09-29, aplica canon del autor en 06_Relationships/Kal_y_Chiara "Como se construye la costumbre"; DISENO del agente, pendiente de lectura): registro del capitulo = "estoy aqui contigo y no necesito nada". Dos migajas del banco del Cap. 3, sin tocar dialogo previo: (1) maquina de cafe, Kal ofrece sin que se lo pidan lo del telefono de Walt (paso 1: el cuenta); (2) Il Gelsomino, Chiara recuerda y pregunta por el telefono de Walt; plantas de Nadir y precio de la Coca en resumen narrado (paso 2: ella pregunta aunque no le sirva). Correspondencia de Chiara (paso 3) queda para el 6 en adelante.
 Staging rule 04 (2026-09-29, pedido del autor; DISENO pendiente de lectura): en la llamada de la manana, dos veredictos interiores ("Eso ya era más aceptable", "Otra vez tenía razón") sustituidos por conducta sobre el PDF de la factura, y un beat de cuerpo (gota del cabello, bata) antes de "Eso me deja dependiendo de usted". Dialogo intacto; se conserva "Quiere. No necesita..." como lectura de lenguaje del POV.
+Reunion privada (2026-09-29, progresion CANON DEL AUTOR; prosa DISENO del agente, BORRADOR pendiente de lectura): tras la llamada de la factura, Chiara cita a Kal por mensaje ("Esta noche. A la una. Entrada de carga." / "¿Quienes?" / "Yo." / "La una es la una", eco de "Nueve es nueve"). Despues de la apertura privada, en la sala privada vacia (cabecera en sombra, se sientan los dos), retoman la propuesta de treinta dias del Cap. 2 que la mesa rechazo. Kal quiere el Monarch en su factura como referencia para crecer en la costa, no ser "la grua del casino"; Chiara quiere a alguien que lea la ciudad. Beat de simbiosis: Kal detecta el cuello de botella de valet del torneo de poker y, en vez de cobrarlo, da la solucion que no lo necesita (lote de la naviera); Chiara corrige su fijo mensual (contrato -> junta -> Tommaso) por tarifa por acto bajo su firma. Pacto: treinta dias, por acto, factura ensenable, sin contrato; el coche del sorteo "todavia" no. Cierra con Chiara habiendo obtenido lo que buscaba en el 2 ("ya lo obtuve") y la silla de el sin acomodar. Siembra: el carrito con la rueda que chilla. Regla staging 04 aplicada el mismo dia: fuera el veredicto "No lo hizo, y el lo sabia" (ademas rompia POV) por conducta (Kal tacha una cifra en la palma), fuera "Era plan.", tag en "Las condiciones del domingo siguen" y beat de mesas plegables antes del sorteo. La sociedad precede al romance: Chiara lo elige porque funciona. No declara objetivo compartido (eso sigue siendo H6).
 Lugares: The Monarch Casino & Hotel, La Almendra, centro de San Aurelio, Il Gelsomino.
 Funcion: convertir el favor en cadena, mostrar a Kal como telefono recurrente y a Chiara aprendiendo a dirigir informacion; ejecutar H2-a, la primera cena que ninguno llama cita.
 Nota de fusion (2026-09-10, BLOQUE 2 de PLAN_CIRUGIA_EDITORIAL_PARTE_I): capitulo resultante de fusionar los antiguos Capitulo 5 (La casa no quiere ruido) y Capitulo 6 (Una amiga). El titulo visible pasa a ser "Una amiga"; el archivo (antes 05_La_Casa_No_Quiere_Ruido.md) se normalizo a 05_Una_Amiga.md el 2026-09-29, con enlaces vivos actualizados. El antiguo stub Nota_Una_Amiga_Fusionada.md se retiro el 2026-09-29, tras el renombrado. La renumeracion global posterior ya fue completada en cascada.
@@ -191,13 +192,203 @@ Colgó antes que ella pudiera decidir si eso era insolente.
 
 Chiara bajó el teléfono.
 
-El día ya había empezado.
+Un teléfono no tenía precio. Tenía costumbre, y la costumbre era la forma más cara de deber algo.
+
+Escribió:
+
+**Esta noche. A la una. Entrada de carga.**
+
+La respuesta tardó cuatro minutos.
+
+**¿Quiénes?**
+
+**Yo.**
+
+Esta vez no tardó.
+
+**La una es la una.**
+
+***
+
+La apertura privada terminó a las doce y cuarenta, con el último invitado de Los Ángeles convencido de que el Monarch había existido siempre.
+
+Chiara no subió al penthouse. Bajó por el elevador de servicio con los tacones todavía puestos y el cuello cansado de sonreír, y esperó en el muelle de carga, junto a la puerta donde la noche anterior había firmado en una tabla ajena. Adentro, alguien arrastraba mesas plegables. Afuera, Terminal Road estaba vacía hasta el puerto.
+
+A la una en punto entró una camioneta blanca con el logo de Almendra Towing medio despintado en la puerta. No la grúa. No el Peugeot.
+
+Kal bajó con la misma chamarra oscura. Sin traje. Sin tenis blancos.
+
+—La una es la una —dijo ella.
+
+—Usted la puso.
+
+Lo llevó por el pasillo de servicio, no por el lobby. Él caminó medio paso atrás, como el domingo, y como el domingo contó puertas. Al pasar junto al arreglo floral del pasillo, miró de reojo la puerta mal puesta. No dijo nada. Ella tampoco.
+
+La sala privada tenía las sillas donde las habían dejado los socios. Chiara no encendió la luz grande; sólo la lámpara del aparador, que dejaba la cabecera en sombra. No se sentó ahí. Se sentó a un costado y le señaló la silla de enfrente.
+
+Esta vez se sentaron los dos.
+
+—Quiero volver a hablar de su propuesta.
+
+—Hice tres.
+
+—La de los treinta días.
+
+—Ésa la rechazaron.
+
+—La rechazó una mesa.
+
+Kal miró las sillas vacías, una por una, y volvió a ella.
+
+—Anoche no le pregunté por qué llamaba usted y no Matteo.
+
+—Me di cuenta.
+
+—Ya no hace falta.
+
+—¿No?
+
+—Matteo quería que alguien quitara el coche. Usted quería saber si yo podía.
+
+Chiara no lo negó. Negarlo habría sido perder tiempo con alguien que no lo perdía.
+
+—¿Y eso le molesta?
+
+—Me dice con quién estoy hablando. —Apoyó los antebrazos en la mesa—. Con alguien que firma en el cuadro correcto sin preguntar si puede.
+
+—Firmé una autorización de remolque.
+
+—Contra lo que dijo su mesa el domingo.
+
+—La mesa no estaba en el estacionamiento.
+
+Kal casi sonrió. No terminó de hacerlo.
+
+—Entonces dígame qué quiere, señora Bellandi.
+
+—Usted primero. No lo que ofreció el domingo. Lo que quiere.
+
+Él tardó en contestar. Afuera pasó un carrito de servicio con una rueda que chillaba.
+
+—No quiero ser la grúa de su casino.
+
+—Llegó en una.
+
+—Llegué en lo que servía. —Se echó atrás en la silla—. Quiero que cuando alguien del Distrito Marino pregunte quién le mueve los coches al Monarch, le digan Almendra. Los hoteles de la costa no leen anuncios. Leen facturas de otros hoteles.
+
+—Quiere mi edificio en su lista de clientes.
+
+—Quiero su edificio en mi factura. El resto lo consigo yo.
+
+Chiara lo registró sin moverse. *Mi nombre va en la factura.*
+
+—¿Y usted? —dijo él.
+
+—Tengo un casino, un hotel, cuatro socios y una ciudad que todavía no sé leer. —Lo dijo como se dice un saldo—. Balances sí. Calles no.
+
+—Por eso preguntó el porcentaje.
+
+—Por eso lo llamé anoche.
+
+Kal no hizo comentario. Señaló con la barbilla la carpeta que ella había dejado junto a la lámpara.
+
+—¿Qué viene?
+
+Chiara dudó un segundo. Luego la abrió.
+
+—Un torneo de poker. El primero en tres semanas. Ciento veinte jugadores, la mitad de fuera.
+
+—¿Dónde estacionan?
+
+—Valet.
+
+—¿Cuántos cajones tiene valet?
+
+—Ciento ochenta.
+
+—Un viernes normal ocupa ciento cuarenta. Lo vi el domingo y lo vi anoche. —Tocó la mesa con un dedo, una vez—. Súmele ciento veinte jugadores que no vienen solos. A las once, la fila le llega a Terminal Road. A las doce, alguien se estaciona en la línea amarilla. Y su torneo sale en la foto como una hilera de Mercedes con el letrero de su casino atrás y un Varga en cada uno.
+
+Chiara no contestó. Hizo la cuenta, y la cuenta le dio lo mismo que a él.
+
+Esperó el precio. Era el momento exacto para ponerlo: ella acababa de enseñarle dónde iba a necesitarlo.
+
+—La naviera de enfrente tiene un lote vacío después de las seis —dijo Kal—. Réntelo esas noches. Dos camionetas de ida y vuelta, con chofer que sepa sonreír. Si nadie se estaciona mal, no necesita grúa.
+
+Chiara lo miró.
+
+—Acaba de quitarse trabajo.
+
+—Si su torneo sale mal, su edificio ya no le sirve a mi factura.
+
+Ella bajó la vista a la hoja. Tachó la cifra de valet que había dado por buena y escribió *naviera* en el margen. Tardó más de lo necesario en cerrar la pluma.
+
+Luego levantó la vista.
+
+—Su fijo mensual no pasa.
+
+—¿Por qué?
+
+—Porque un fijo mensual es contrato. Un contrato va a junta. Y la junta es el señor Lusardi. —Cerró la carpeta—. Cobre por acto. Por debajo de cierta cifra, firmo yo sola, y nadie lee lo que firmo sola si es aburrido.
+
+—¿Cuál cifra?
+
+—No se la voy a decir.
+
+—Entonces le voy a cobrar mal.
+
+—No. Me va a cobrar aburrido.
+
+Kal se quedó quieto. La miró como la había mirado el domingo cuando ella preguntó el porcentaje. Luego sacó una pluma del bolsillo de la chamarra, tachó algo en la palma de la mano izquierda —una cifra que ella no alcanzó a ver— y la guardó.
+
+—Treinta días —dijo Chiara—. Por acto. Factura enseñable. Sin contrato.
+
+—Las condiciones del domingo siguen —dijo él.
+
+—Las puso usted.
+
+—Por eso siguen.
+
+—¿Y si funciona?
+
+—Si funciona, un día alguien del Distrito Marino va a preguntar quién le mueve los coches al Monarch.
+
+Kal asintió una vez.
+
+Del otro lado de la pared, alguien plegó la última mesa de la apertura y la dejó caer contra las demás. El golpe de metal recorrió el pasillo y se apagó. Chiara empujó la carpeta cerrada hacia el borde de la mesa.
+
+—¿Y el coche del sorteo?
+
+—El coche no.
+
+—¿Por qué?
+
+—Porque se vería.
+
+—Todavía.
+
+Chiara no lo corrigió.
+
+Él se levantó primero y le tendió la mano por encima de la mesa. Ella la tomó. Esta vez ninguno la retuvo un segundo de más. No había nada que medir.
+
+—Conozco la salida —dijo Kal.
+
+—La contó el domingo.
+
+—Y anoche.
+
+Se fue sin que ella lo acompañara. Chiara oyó sus pasos en el pasillo de servicio hasta que dejaron de oírse.
+
+Se quedó en la sala. Tenía lo que había ido a buscar el domingo cuando preguntó el porcentaje. Treinta días, un proveedor que leía calles y una cifra que nadie iba a leer.
+
+Apagó la lámpara.
+
+La silla de él seguía separada de la mesa, en el ángulo en que la había dejado al levantarse. No la acomodó.
 
 ***
 
 Varga no volvió.
 
-Volvieron otros, repartidos a lo largo de las semanas en que Plaza Corona fue saliendo de los noticieros y la ciudad encontró otras cosas de qué hablar.
+Volvieron otros, repartidos a lo largo de los treinta días y de las semanas que siguieron, mientras Plaza Corona iba saliendo de los noticieros y la ciudad encontraba otras cosas de qué hablar.
 
 Una camioneta de lavandería que llegó con sábanas de menos y cajas de más. Un proveedor de hielo que intentó facturar dos entregas en la misma hora. Un huésped que perdió fichas, acusó a la mesa de trampa y resultó deber dinero en Santa Brígida. Un valet que anotaba matrículas en una libreta personal. Dos hombres del puerto que querían usar un reservado para una conversación que ningún hotel sensato habría querido alojar.
 
@@ -375,7 +566,7 @@ Kal sostuvo el vaso de café con las dos manos, no por frío sino por tener algo
 
 La frase no sonó como lema. Sonó como cansancio.
 
-Chiara lo miró mejor. Tenía grasa en la orilla de una uña, una marca roja en el cuello donde el uniforme de trabajo le había rozado y el pelo más desordenado que en la noche de la reunión. En el Monarch, aun vestido de taller, parecía menos fuera de lugar que muchos hombres de traje. No porque perteneciera. Porque no intentaba convencer al edificio.
+Chiara lo miró mejor. Tenía grasa en la orilla de una uña, una marca roja en el cuello donde el uniforme de trabajo le había rozado y el pelo más desordenado que la noche del traje. En el Monarch, aun vestido de taller, parecía menos fuera de lugar que muchos hombres de traje. No porque perteneciera. Porque no intentaba convencer al edificio.
 
 —¿Cómo está Walt? —preguntó ella.
 
