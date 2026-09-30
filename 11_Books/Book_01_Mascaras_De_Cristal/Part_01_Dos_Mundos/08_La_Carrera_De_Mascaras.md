@@ -1,5 +1,6 @@
 <!--
 Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): "semanas atras" -> "dias atras" (Cap. 7); fuera el amanecer a las dos de la manana y la prolepsis de la Colombina ("No volvio a acordarse de ella"; queda disponible para reaparecer); fuera el parrafo "Esa semana... Recortado" (lo hace 21), "el reverso de la primera reunion" y "El camaleon perfecto" (palabra reservada a Kal); "Mandorla" leido desde Chiara (salto de POV). Siembra S3 (hilo B): la cerca de Camp Alder, una imagen, Kal no gira la cabeza. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B.md §9.
+Pagos de la costumbre 3-6 (2026-09-30, propuesta del autor, redaccion DISENO del agente; sigue TERMINADO pendiente de lectura): (1) Rumbo a La Tramoya, Kal cuenta como chisme la entrega de Nadir para Dario (cobra el encargo del Cap. 7): Kal manejo, Danny y Hector fueron; Dario sale del granero con gabardina, capucha y mascara de plata brillante ("¿el cliente o el jefe final?", Nadir: "Batman"). No se nombra la carga. Cierra con "Hablando de mascaras". Primer italiano de comodidad: "Madonna, Kal". "Nada de brillos" en La Tramoya queda como eco. (2) Rumbo a Kingsley: Chiara admite que la noche posterior a Gabriella's fue mala, no explica; Kal no excava y cambia el aire con la fiscal que lo invito a "un cafe en un lugar mas privado" ("trabajando no bebo ni agua"; Garrett se lo explica; "¿Y era guapa?" / "Era fiscal"). Italiano de comodidad en escalada; Kal empieza a reconocerlo sin traducirlo. La fiscal queda sin nombre (no fijada como Claire Han). La carcajada de la carrera sigue siendo la primera perdida total de control de la risa.
 Protagonistas: Kal Mercer, Chiara Bellandi; Tyler Brooks como aparicion.
 Ventana temporal: dias despues del Capitulo 7 (la noche del ladrillo). Todavia son formalmente amigos; no hay primer beso.
 Lugares: Il Gelsomino (arranque), corredor comercial de salida al interior, La Tramoya (tienda de vestuario/utileria/mascaras), Kingsley Field y carreteras perimetrales / Carretera de Milla.
@@ -72,6 +73,44 @@ Chiara miró la ciudad empezar a abrirse por la ventana, los edificios espacián
 
 No le pidió que diera la vuelta.
 
+Pasaron dos semáforos en verde antes de que Kal volviera a hablar.
+
+—¿Te conté lo de Dario?
+
+Chiara giró la cabeza despacio.
+
+—No me has contado nada de Dario.
+
+—Nadir le hizo un encargo. Una entrega en una parcela, por la vieja carretera del norte, a medianoche. —Lo dijo como quien cuenta que Nadir le pintó la cerca a un vecino—. Yo manejé, porque Nadir no iba a ir solo a una parcela a medianoche a ver a un hombre que reparte tarjetas en la banqueta. Danny fue porque se enteró. Héctor fue porque iba Danny.
+
+La tarjeta de la acera, pensó Chiara. Así que eso era.
+
+—¿Y?
+
+—Y esperamos veinte minutos con las luces apagadas, oyendo a Danny contar vacas. Y entonces se abre la puerta del granero y sale Dario. —Tenía el volante en una sola mano—. Gabardina negra hasta aquí. Capucha. Y una máscara de plata. Brillante. De las que reflejan.
+
+—No.
+
+—Sí.
+
+—Kal.
+
+—Con la capucha encima. Se para en la luz de los faros y la máscara nos regresa los faros a la cara. Héctor se tapa los ojos. Y Danny, en voz alta, con la ventana abajo: "¿Ése es el cliente o el jefe final?"
+
+Chiara se tapó la boca con el dorso de la mano.
+
+—*Madonna, Kal.*
+
+No se lo tradujo, y él no preguntó. Siguió manejando con la cara de quien ya contó una historia dos veces y sabe dónde viene lo bueno.
+
+—Nadir no se rió. Hizo lo suyo, recibió el sobre, le dio las gracias, se subió y cerró la puerta. No dijo una palabra hasta la carretera. Y ya en la carretera dijo: "Batman."
+
+Esta vez Chiara no se tapó nada.
+
+Kal esperó a que terminara. Después puso la direccional hacia la lateral.
+
+—Hablando de máscaras.
+
 ***
 
 Pararon en un corredor comercial a la salida de la ciudad, donde San Aurelio se adelgaza hasta volverse gasolineras, talleres de hojalatería y locales con la mitad de las letras del anuncio apagadas. Entre dos de ellos había una tienda angosta con un escaparate polvoriento y un maniquí sin cabeza vestido de terciopelo comido por el sol.
@@ -81,6 +120,8 @@ Pararon en un corredor comercial a la salida de la ciudad, donde San Aurelio se 
 Adentro olía a naftalina y a cartón viejo. Había pelucas en cabezas de unicel, capas colgadas en un riel que iba de pared a pared, cajones rotulados a mano — *guantes*, *coronas*, *plumas* — y, al fondo, un panel entero de máscaras clavadas a un corcho. El dueño levantó la vista de un crucigrama el tiempo justo para no levantarse de la silla.
 
 —Buscamos dos —dijo Kal—. Que cubran la cara. Nada de brillos.
+
+Chiara tuvo que mirar hacia las pelucas.
 
 —Todo lo que ve.
 
@@ -99,6 +140,48 @@ Se la probó frente al espejo. Ésa.
 —Cubre lo que tiene que cubrir. —Se la bajó y la sostuvo del cordón—. Vámonos.
 
 Kal pagó en efectivo. El dueño metió las dos máscaras en una bolsa de papel sin preguntar para qué las querían, que era exactamente por lo que ese tipo de tiendas seguía existiendo.
+
+***
+
+Volvieron a la autopista con la bolsa de papel en el regazo de ella. Los anuncios se acabaron; quedó el asfalto, los reflejantes y, de vez en cuando, un tráiler con todas las luces encendidas.
+
+Chiara dejó pasar dos salidas.
+
+—Después de Gabriella's —dijo— no fue una noche especialmente buena.
+
+Kal no contestó enseguida. Bajó un cambio para una curva que no lo pedía y dejó el silencio abierto.
+
+Ella no puso nada adentro. Miró los faros del carril contrario hasta que se acabaron.
+
+Kal asintió una vez, sin mirarla.
+
+—El martes fui con Garrett a la fiscalía —dijo, en otro tono—. Por unos papeles de las grúas. Nos atendió una fiscal. Firmó todo, me regresó la pluma y me dijo: "Usted y yo deberíamos tomar un café en un lugar más privado".
+
+Chiara giró la cabeza.
+
+—¿Y tú qué dijiste?
+
+—Que trabajando no bebo ni agua.
+
+Lo miró. Él tenía la vista en la carretera y la cara de alguien que todavía no entiende qué hizo mal.
+
+—*Ma che risposta è?*
+
+—No sé qué dijiste —dijo Kal—, pero es la segunda vez esta noche que lo dices con esa cara.
+
+—Sigue. Per favore. Sigue.
+
+—Garrett se aguantó hasta el estacionamiento. Se bajó los lentes con los dedos, que en él es gritar, y me dijo que la mujer me estaba coqueteando y yo le contesté como si me hubiera ofrecido una cerveza en horario de servicio.
+
+—¿Y era guapa?
+
+—Era fiscal.
+
+Chiara se dobló sobre la bolsa de papel. Algo le salió a medias, *ma senti questo, era fiscal, dice*, y Kal la miró de reojo, esperando, y ella tuvo que repetirlo en español, todavía riéndose: que él había contestado *era fiscal* como si eso respondiera la pregunta.
+
+No pidió perdón por la primera versión.
+
+—Sí la responde —dijo Kal.
 
 ***
 
