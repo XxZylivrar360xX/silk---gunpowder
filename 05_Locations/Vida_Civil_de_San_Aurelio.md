@@ -136,7 +136,7 @@ La tercera es la más peligrosa, porque parece casualidad.
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** decidir si La Esquina de Mabel está en Calle Corona, La Almendra o una frontera entre ambas. La frontera funciona mejor si queremos que Mabel oiga élite baja, barrio y policías.
+> **RESUELTO (2026-09-29, autor):** frontera Calle Corona / La Almendra (ver [[05_Locations/La_Esquina_de_Mabel]]). *Texto previo:* decidir si La Esquina de Mabel está en Calle Corona, La Almendra o una frontera entre ambas. La frontera funciona mejor si queremos que Mabel oiga élite baja, barrio y policías.
 
 > **PENDIENTE:** nombrar dos o tres negocios civiles recurrentes más para que la ciudad tenga memoria cotidiana.
 

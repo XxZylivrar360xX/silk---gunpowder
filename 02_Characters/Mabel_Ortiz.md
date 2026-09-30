@@ -45,6 +45,8 @@ Lleva décadas en San Aurelio. Vio cerrar refinerías, cambiar alcaldes, crecer 
 
 Su local sobrevivió porque nunca pretendió ser elegante. Es útil. Abre temprano, cierra tarde, fía con cuidado y no pregunta delante de otros.
 
+**CANON DEL AUTOR (2026-09-29):** emplea a [[02_Characters/Harper_Walker]] en la máquina de espresso por las mañanas. Chiara pasa por la tienda en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/04_Tarifa_Nocturna|Cap. 4]] sin saber de quién es el barrio; Mabel deja de mover las manos cuando Blake presume de Roma.
+
 Conoce a [[02_Characters/Kal_Mercer]] como se conoce a alguien de barrio: por lo que hizo antes de que tuviera nombre. Sabe que ayudó a gente sin cobrar, pero eso no la vuelve ciega. Mabel distingue entre un muchacho bueno y un hombre peligroso.
 
 Con [[02_Characters/Chiara_Bellandi]], la relación empieza cuando Chiara entra como forastera y no la trata como parte del decorado. Compra algo pequeño, escucha más de lo que habla y vuelve otro día. Mabel entiende rápido que esa italiana no busca chisme: busca dirección.

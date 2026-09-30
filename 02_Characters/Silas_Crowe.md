@@ -135,7 +135,7 @@ El motivo declarado: **un cargamento que Kal no entregó a tiempo**, cuando toda
 
 ### Siembras en el Libro I (*Máscaras de Cristal*)
 
-Crowe aparece en los Caps. 1, 3, 11 y 17. **Cap. 3 (reescrito 2026-09-29, canon del autor):** no entra en escena; encarga a Kal mover un cargamento de hierba a Cuadra Nueve, pagado (mitad por adelantado). Primer trabajo de Kal para Crowe en prosa, coherente con "cuando todavía trabajaba para él". El trabajo no se muestra; Kal se lo contará a Chiara más adelante. Walt lo conocía como "el joyero". **Decidido por el autor (2026-09-29):** este trabajo NO se conecta con el cargamento no entregado del incendio. Entre el 18 y el 44 sólo se le ve **tasando el crecimiento de Kal**, sin acción (BORRADOR 2026-09-26, decisión del autor):
+Crowe aparece en los Caps. 1, 3, 11 y 17. **Cap. 3 (reescrito 2026-09-29, canon del autor):** no entra en escena; encarga a Kal mover un cargamento de hierba a Cuadra Nueve, pagado (mitad por adelantado). Primer trabajo de Kal para Crowe en prosa, coherente con "cuando todavía trabajaba para él". El trabajo no se muestra; Kal se lo contará a Chiara más adelante. Walt no sabía que ahora le dicen el Tasador y repite el apodo con sorna ("el joyero" retirado por el autor, 2026-09-29). **Decidido por el autor (2026-09-29):** este trabajo NO se conecta con el cargamento no entregado del incendio. Entre el 18 y el 44 sólo se le ve **tasando el crecimiento de Kal**, sin acción (BORRADOR 2026-09-26, decisión del autor):
 
 | Cap. | Siembra |
 |---|---|

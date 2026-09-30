@@ -26,6 +26,7 @@ Continuidad:
 - Registro privado todavía en semilla (pre-H16): calidez de conducta, italiano suelto de ella, sin apodos plenos, sin ritual del Ciao.
 - VEHÍCULOS: Kal conduce el Audi todo el capítulo (ida y vuelta). Chiara llega y se va con él — su Lancia se queda en el Monarch, nunca llega al lago. Sin Peugeot: el Peugeot se queda en el taller (Cap. 30).
 - INSERCIÓN BORRADOR (2026-09-26, Claude Code, decisión del autor sobre la quinta tanda de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Evaluacion_Arco_Libro_I]]): beat de fe en la parrilla de Héctor, entre la pesca y "Kal la sacó del grupo". Chiara se persigna; Nadir dice *bismillah*; Kal bromea ("Pídele que te cuente bien los peces") y ella contesta "A Dios no se le piden esas cosas"; Kal deja el tenedor quieto hasta que ella termina. Contrapunto de Alessio: Kal puede bromear con su fe, nunca la usa ni la desprecia ([[04_Concepts/Fe_y_Velas]]). Sin glosa: no se menciona que esa mañana (Cap. 28) ella rezó por él. Pendiente de revisión del autor.
+Reconocimiento (2026-09-29, decision del autor): Chiara ubica a Harper como la muchacha de la maquina de La Esquina de Mabel del Cap. 4; Harper la reconocio desde el principio.
 -->
 
 # Capítulo 31 — Vamos a casa
@@ -175,6 +176,10 @@ Miró a Chiara un momento: una evaluación rápida, cerrada, del tipo que hace a
 —Bellandi. —No sonrió. No hacía falta que sonriera para que no sonara hostil—. Kal habla de ti más de lo que cree que habla de ti.
 
 Volvió a lo suyo antes de que a Chiara le diera tiempo de contestar.
+
+A Chiara le costó un segundo ubicarla sin delantal y con gorra: la máquina de espresso de Calle Corona, la mañana de Keene, un café que había salido menos largo de lo que le advirtieron y más largo de lo que pidió.
+
+Harper no había tardado nada.
 
 Nadir la vio de reojo, sonrió, y levantó la mano hacia Chiara con esa facilidad que no le costaba nada.
 

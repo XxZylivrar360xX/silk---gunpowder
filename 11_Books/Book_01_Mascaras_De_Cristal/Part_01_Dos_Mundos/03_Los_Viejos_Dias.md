@@ -8,9 +8,9 @@ Nucleo (autor, 2026-09-29): un hombre que acaba de salir de una celda vuelve a u
 Secuencia: Keene solo como titular -> carcel (Nat ya esta ahi: estuvo en la audiencia) -> cementerio inmediatamente despues (Kal no deja pasar mas tiempo) -> la Almendra, donde Nat esta en casa aunque no viva ahi -> Walt conoce a Nadir y Danny (Danny consume y lo disfraza de emocion; empieza a mentir) -> Nat se va a su turno de las 14:00 -> Kal plantea el trabajo -> se alistan de negro, con mascaras, y salen. En el alistamiento, Nadir cuenta que "el otro dia" Varek fue a buscar a Kal al porton y no dijo para que (canon del autor, 2026-09-29); Kal recupera la advertencia del antiguo porche ("Cuidense de Dario Varek...", "¿Le debes algo?" / "Todavia no"), ahora dirigida a Nadir y Danny.
 El trabajo (canon del autor, 2026-09-29): mover un cargamento de hierba por encargo del Tasador y entregarlo a Cuadra Nueve (Maya Rios, Nueve Puentes; eleccion del agente, no es la banda de Irene) a cambio de un pago fuerte, para inyectar capital y volver a poner a la Almendra en el juego. Mascaras y prendas negras. Todavia no son El Patio. El trabajo NO se muestra: Kal se lo contara a Chiara en un capitulo futuro.
 Peldano Kal-Chiara: el 2 deja la simbiosis inicial (quiza pueda obtener algo de esta persona); el 3 no la toca en escena. Lo unico que mueve es el costo: el Monarch no llama (el "te llamo manana" de Matteo queda en nada) y Kal toma el dinero oscuro. Esto es la vida cotidiana que Kal ira contandole a Chiara; la llamada de ella en el 4 reabre la puerta legal esa misma noche.
-Lineas canon conservadas: salida de la carcel ("No vuelvas a prision", "Navarro"/"Keegan", "Llevas intentando saludar como adulto...", "Tu padre hacia esa cara..."), cementerio completo de Walt/Kal/Nat (anadida por el autor, 2026-09-29: Walt deja en la lapida una carta que le escribio a Jim desde la carcel, sin direccion; nadie pregunta que dice), recuerdo de Afganistan (Jim, reporte, "¿Y tu hermana?", la mujer rusa, emboscada). "Estoy un poco resentido con el joyero" / "La libertad condicional me volvio moderado" / "Quiero mantenerme afuera..." / "Si hay problema, respondo" se reubican del porche a la escena del trabajo.
+Lineas canon conservadas: salida de la carcel ("No vuelvas a prision", "Navarro"/"Keegan", "Llevas intentando saludar como adulto...", "Tu padre hacia esa cara..."), cementerio completo de Walt/Kal/Nat (anadida por el autor, 2026-09-29: Walt deja en la lapida una carta que le escribio a Jim desde la carcel, sin direccion; nadie pregunta que dice), recuerdo de Afganistan (Jim, reporte, "¿Y tu hermana?", la mujer rusa, emboscada). "Estoy un poco resentido con el... 'Tasador'" (autor, 2026-09-29: "joyero" retirado; Walt repite con sorna el apodo nuevo) / "La libertad condicional me volvio moderado" / "Quiero mantenerme afuera..." / "Si hay problema, respondo" se reubican del porche a la escena del trabajo.
 Retirado por el autor (2026-09-29): porche con cervezas (Kal, Walt, Hector), "Quiero levantarlo", el sarcasmo de Hector y la broma de Walt sobre Dario, cafeteria del norte y Harper (su primera aparicion pasa a ser el Cap. 19), la meditacion de Kal sobre Keene. Version anterior en git (commit 14d8c4f).
-Palabras de prosa: ~4,780 (antes ~7,000 con el bloque de Chiara, que ahora vive en el Cap. 4). DISENO del agente, pendiente de lectura: la banda receptora (Cuadra Nueve), la cifra (treinta mil, mitad por adelantado), la bodega del norte, el Buick sobre la grua, la cadena "Eso decia tu padre", Walt llamando "el joyero" a Crowe, el telefono de Nat, la casa comun como vestidor.
+Palabras de prosa: ~4,780 (antes ~7,000 con el bloque de Chiara, que ahora vive en el Cap. 4). DISENO del agente, pendiente de lectura: la banda receptora (Cuadra Nueve), la cifra (treinta mil, mitad por adelantado), la bodega del norte, el Buick sobre la grua, la cadena "Eso decia tu padre", el telefono de Nat, la casa comun como vestidor.
 -->
 
 # Capítulo 3 — Los viejos días
@@ -477,7 +477,7 @@ Danny tenía las manos vacías.
 
 Se sorbió la nariz y se la frotó con el dorso de la mano.
 
-—Alergia. En esta pinche ciudad florece todo menos yo.
+—Alergia. En esta ciudad del demonio florece todo menos yo.
 
 Se rió solo. Nadir miró a Kal. Kal siguió comiendo.
 
@@ -493,7 +493,7 @@ Ella lo dejó pasar. Kal vio que lo dejaba pasar.
 
 Comieron entre las grúas. Danny habló por los cinco: de un Mustang que iba a quedar mejor que nuevo, de una banda que tocaba el sábado, de lo que costaba ahora una cerveza en la Isla, que Walt no quiso creer. Movía la rodilla debajo de la mesa sin darse cuenta. No se terminó el plato.
 
-Walt preguntó cuánto costaba una Coca.
+Walt preguntó cuánto costaba un refresco de cola en envase de vidrio.
 
 Natalie le dijo.
 
@@ -591,7 +591,7 @@ Walt se quedó un momento con eso.
 
 —Así le dice todo el mundo.
 
-—Cuando yo entré era el joyero. Tenía tres casas de empeño y ni un anillo propio. —Walt le dio un trago al café—. Estoy un poco resentido con el joyero.
+—Cuando yo entré era un gánster de cuadra. Tenía tres casas de empeño y ni un anillo propio. —Walt le dio un trago al café—. Estoy un poco resentido con el... "Tasador".
 
 Héctor soltó una risa seca.
 
@@ -621,13 +621,9 @@ Walt lo pensó con el café en la mano.
 
 —Yo no voy.
 
-—Nadie te iba a invitar.
+—Y lo entiendo, no te lo pediría de cualquier manera.
 
-—Quiero mantenerme afuera. Legal es el camino más corto por ahora.
-
-—Ya sé.
-
-—Y si hay problema, respondo. —Walt se encogió de hombros—. No dije que me volví santo. Dije que aprendí a leer formularios.
+—Quiero mantenerme afuera. Legal es el camino más corto por ahora. —Walt se encogió de hombros y se frotó la barbilla—. Y si hay problema, respondo. No dije que me volví santo, solo dije que aprendí a leer formularios.
 
 Héctor se levantó de la silla.
 

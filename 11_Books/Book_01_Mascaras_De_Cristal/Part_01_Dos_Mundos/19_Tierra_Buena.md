@@ -3,7 +3,7 @@ Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gat
 Protagonistas: Kal Mercer, Harper Walker. Primera aparicion en prosa de Garrett Cross. Aparicion breve de Claudio (dueño de Il Gelsomino).
 Ventana temporal: en algun punto del mismo periodo que los capitulos de Kal/Chiara ya escritos -- meses despues de que ellos empezaran a pasar tiempo juntos (el flashback del parque lo confirma). Sin hito H asignado -- es un capitulo de expansion de El Patio, no de la relacion central.
 Lugares: notaria, Il Gelsomino, una parcela nueva al norte de San Aurelio, un parque cerca de Santa Lucia (flashback).
-Funcion: NUEVO (2026-09-07), a peticion del autor. Insertado como Capitulo 19, justo antes de El mirador. Kal compra doce hectareas al norte para montar una parcela de vegetales -- diversificacion de negocio, y suministro directo para Il Gelsomino. Primera aparicion en prosa de Garrett Cross (moreno, barba, cabello rizado oscuro, lentes de sol permanentes por fotofobia -- secuela de la misma emboscada donde murio Jim Keegan y Russ perdio la movilidad de la pierna). De ahi, Kal llega a Il Gelsomino justo cuando Claudio le niega trabajo a Harper Walker (recien despedida de la cafeteria del norte). Kal la recluta no como empleada sino como responsable total del nuevo negocio -- proveedora de viveres y materia prima para el restaurante. Flashback (POV Kal): un gesto que vio hacer a Chiara en un parque -- darle una oportunidad real, no caridad, a un muchacho que reparaba bicicletas -- como el origen de este mismo instinto en Kal. Cierra con el trato hecho. Escena nueva (salto de un par de semanas): videollamada de Kal a Chiara desde la parcela, sombrero de paja y bandana, primeros tomates -- ella se arregla rapido antes de contestar (dos botones, uno se vuelve a abrochar), sorpresa por la parcela, el chiste del porcentaje del mercado agricola, y siembra un hilo legal nuevo: el socio de Kal en el espacio del concesionario del taller (Jonathan Hoover, nombrado en el Cap. 23) lo saco del acuerdo en papel: Chiara le ofrece el contacto de Margaret Rivers, abogada competente que se odia con el fiscal de distrito desde la facultad -- indirecta de que sirve para el giro de negocios de Kal. Es la UNICA entrega del contacto: los Caps. 23-24 no lo repiten, solo lo usan. Sienta las bases operativas para cuando El Patio necesite mas manos de confianza en capitulos futuros, y abre un hilo legal nuevo (Hoover, Rivers) sin resolver todavia.
+Funcion: NUEVO (2026-09-07), a peticion del autor. Insertado como Capitulo 19, justo antes de El mirador. Kal compra doce hectareas al norte para montar una parcela de vegetales -- diversificacion de negocio, y suministro directo para Il Gelsomino. Primera aparicion en prosa de Garrett Cross (moreno, barba, cabello rizado oscuro, lentes de sol permanentes por fotofobia -- secuela de la misma emboscada donde murio Jim Keegan y Russ perdio la movilidad de la pierna). De ahi, Kal llega a Il Gelsomino justo cuando Claudio le niega trabajo a Harper Walker (trabaja en las mananas en La Esquina de Mabel y busca un segundo empleo porque la renta ya no le alcanza; corregido 2026-09-29, decision del autor: antes "despedida de la cafeteria del norte". Kal le ofrece mejor paga que ambos empleos y el cuarto que venia con el terreno, sin renta). Kal la recluta no como empleada sino como responsable total del nuevo negocio -- proveedora de viveres y materia prima para el restaurante. Flashback (POV Kal): un gesto que vio hacer a Chiara en un parque -- darle una oportunidad real, no caridad, a un muchacho que reparaba bicicletas -- como el origen de este mismo instinto en Kal. Cierra con el trato hecho. Escena nueva (salto de un par de semanas): videollamada de Kal a Chiara desde la parcela, sombrero de paja y bandana, primeros tomates -- ella se arregla rapido antes de contestar (dos botones, uno se vuelve a abrochar), sorpresa por la parcela, el chiste del porcentaje del mercado agricola, y siembra un hilo legal nuevo: el socio de Kal en el espacio del concesionario del taller (Jonathan Hoover, nombrado en el Cap. 23) lo saco del acuerdo en papel: Chiara le ofrece el contacto de Margaret Rivers, abogada competente que se odia con el fiscal de distrito desde la facultad -- indirecta de que sirve para el giro de negocios de Kal. Es la UNICA entrega del contacto: los Caps. 23-24 no lo repiten, solo lo usan. Sienta las bases operativas para cuando El Patio necesite mas manos de confianza en capitulos futuros, y abre un hilo legal nuevo (Hoover, Rivers) sin resolver todavia.
 Apertura por residuo: no depende de un residuo directo de Kal/Chiara -- es un capitulo lateral de expansion. Abre en su propio tiempo, entre el Cap. 18 (El dia nublado) y el Cap. 20 (El mirador).
 -->
 
@@ -39,13 +39,13 @@ Encontró a Claudio en la puerta de la cocina, terminando una conversación que 
 
 —Lo siento —le decía Claudio a una mujer que Kal reconoció de inmediato, aunque tardó un segundo en ubicar de dónde—. No tengo nada. Ya tengo mesera, ya tengo quien lave. No hay lugar.
 
-Harper. La chica seria de la cafetería del norte, la que servía el café más fuerte de la zona sin sonreír nunca de más, ahora de pie en la acera de un restaurante que no la necesitaba, con una carpeta delgada bajo el brazo que Kal adivinó llena de solicitudes rechazadas antes que ésta.
+Harper. La muchacha seria de la barra de Mabel, la que servía el café más largo de Calle Corona sin sonreír nunca de más, ahora de pie en la acera de un restaurante que no la necesitaba, con una carpeta delgada bajo el brazo que Kal adivinó llena de solicitudes rechazadas antes que ésta.
 
-—¿Perdiste el trabajo de la cafetería? —preguntó, acercándose.
+—¿Y lo de Mabel? —preguntó, acercándose.
 
 Harper lo miró con la misma desconfianza plana con la que miraba a todo el mundo, sin sorprenderse de verlo ahí.
 
-—La encargada decidió que ya no encajaba con "la nueva imagen" del lugar. —Lo dijo sin amargura, como quien reporta el clima—. Llevo dos semanas buscando.
+—Sigo en las mañanas. —Lo dijo sin amargura, como quien reporta el clima—. Me volvieron a subir la renta. Con un sueldo ya no alcanza. Llevo dos semanas buscando el segundo.
 
 Claudio, ya de vuelta adentro, levantó la mano a modo de saludo sin detenerse. Ninguno de los dos le debía al otro una explicación por lo que acababa de pasar en esa puerta.
 
@@ -68,6 +68,12 @@ Harper caminó unos metros dentro del terreno, tocó la tierra con la punta de l
 —Tú no vas a trabajar para nadie. —Se metió las manos en los bolsillos, mirando el terreno como quien ya lo ve terminado—. Quiero que te hagas cargo del negocio entero. Contratas, siembras, decides qué se vende y a quién. Van a trabajar con nosotros, como nuestra proveedora de víveres y materia prima.
 
 Harper se lo quedó mirando un momento, calculando si eso era una oferta real o una prueba.
+
+—Yo necesito pagar renta, no comprar tierra.
+
+—Te pago más de lo que sacas con Mabel y lo que ibas a sacar aquí juntos. —Kal señaló con la barbilla el otro lado de la cerca, donde un cuarto de block con techo de lámina se caía despacio—. Y eso venía con el terreno. Necesita techo. El techo lo pongo yo. Mientras la parcela sea tuya, el cuarto también, y no pagas renta.
+
+Harper miró el cuarto más tiempo que el terreno.
 
 —¿Y tu socio? ¿No va a haber problema?
 

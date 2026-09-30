@@ -3,7 +3,7 @@ Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada
 Protagonistas: Chiara Bellandi, Kal Mercer.
 Ventana temporal: lunes, mismo dia de la salida de Walt (Cap. 3), de la manana a la noche. (Corregido 2026-09-29: el bloque de Chiara que abre el capitulo fija la fiesta en "esta noche"; mientras Kal esta en el trabajo del Cap. 3, Chiara esta en La Isla, y la llamada de Varga llega despues.)
 Lugares: The Monarch Casino & Hotel, centro de San Aurelio (cafeteria frente a Plaza Corona), La Isla.
-POV: Chiara completo (fijado 2026-09-29, decision del autor). El remolque se ve desde la puerta de servicio: Chiara llega antes que la grua y mira a Kal trabajar; se retiraron las frases interiores de Kal y el salto de cabeza a media escena. Cierre nuevo: Chiara manda "La factura completa. Por favor." desde el penthouse y no hay respuesta. Se corto la linea opaca "Era la primera vez que quedaba del otro lado" (la sustituye el mensaje sin respuesta). Secuela fisica del trabajo del Tasador (Cap. 3): Chiara ve a Kal cuidar el hombro derecho al bajar el gancho y no pregunta; en el 5 se nombra la causa (cadena del Buick en la descarga). DISEÑO del agente a pedido del autor. La coda Kal/Nadir (Mabel, "El problema llamo", contacto guardado como Bellandi) paso a abrir el Cap. 5.
+POV: Chiara completo (fijado 2026-09-29, decision del autor). El remolque se ve desde la puerta de servicio: Chiara llega antes que la grua y mira a Kal trabajar; se retiraron las frases interiores de Kal y el salto de cabeza a media escena. Cierre nuevo: Chiara manda "La factura completa. Por favor." desde el penthouse y no hay respuesta. Se corto la linea opaca "Era la primera vez que quedaba del otro lado" (la sustituye el mensaje sin respuesta). Cafeteria del centro = La Esquina de Mabel (2026-09-29, decision del autor): primera aparicion de Harper Walker en prosa (en la maquina de espresso, nombrada por Mabel) y de Mabel vista por Chiara (deja de mover las manos cuando Blake dice lo de Roma). Chiara no sabe que es territorio de Kal. Ubica a Mabel en la frontera Calle Corona / La Almendra, a unas cuadras de Plaza Corona. Secuela fisica del trabajo del Tasador (Cap. 3): Chiara ve a Kal cuidar el hombro derecho al bajar el gancho y no pregunta; en el 5 se nombra la causa (cadena del Buick en la descarga). DISEÑO del agente a pedido del autor. La coda Kal/Nadir (Mabel, "El problema llamo", contacto guardado como Bellandi) paso a abrir el Cap. 5.
 Traslado (2026-09-29, decision del autor en la reapertura del Cap. 3): el bloque de Chiara que cerraba el Cap. 3 (titular de Keene, torneo de poker y roce con Tommaso, salida al centro, Blake y la invitacion a La Isla) abre ahora este capitulo, integro y sin pulir; el 3 queda en POV Kal y el POV compartido deliberado se reserva para el Cap. 5. Pendiente: pasada de pulido del bloque trasladado dentro de la economia del 4.
 Escalon relacional: Cap. 2 "quiza pueda obtener algo de el" -> Cap. 4 "lo llame y aparecio" -> Cap. 5 "quiero seguir hablando aunque no necesite nada".
 Funcion: abrir el dia de Chiara (Keene como comunicado, Tommaso, Blake) y mostrar el primer favor bajo la mesa, el error funcional de Blake y la incomodidad de Chiara al aceptar ayuda de Kal.
@@ -165,19 +165,25 @@ Chiara no se acercó.
 
 Pagó el taxi una cuadra antes y caminó sin prisa, sólo para sentir la ciudad debajo de los tacones. Palermo sabía empujar desde los balcones. Nueva York desde la acera. San Aurelio empujaba desde los bordes: una patrulla mal estacionada, una mujer vendiendo flores frente a un edificio público, un hombre con traje barato que no dejaba de mirar su teléfono, una reportera acomodándose el cabello antes de salir en vivo.
 
-Entró a una cafetería sin elegirla demasiado.
+Caminó hasta donde Calle Corona empezaba a perder bancos y a ganar talleres, y entró a una cafetería de esquina sin elegirla demasiado. En el vidrio, con letras blancas despintadas: *La Esquina de Mabel*.
 
-Tenía piso de mosaico viejo, barra de madera, vitrinas con pan dulce, estudiantes con laptops, dos abogados hablando en voz baja y un televisor sobre la máquina de espresso mostrando la misma fotografía de Keene que todo el mundo había decidido mirar sin sonido.
+Mitad tienda, mitad cafetería. Tenía piso de mosaico viejo, barra de madera, vitrinas con pan dulce, sodas en un refrigerador que zumbaba, cigarros detrás del mostrador, dos enfermeras de turno con sopa, dos abogados hablando en voz baja y un televisor sobre la máquina de espresso mostrando la misma fotografía de Keene que todo el mundo había decidido mirar sin sonido.
 
 Chiara pidió un espresso doble.
 
-—Aquí lo hacemos más largo —dijo la chica de la caja.
+Detrás de la caja, una mujer de unos sesenta, con lentes colgados de una cadena fina, contaba cambio sin mirar las monedas. La máquina la atendía una muchacha más joven, cola de caballo apretada, cara de no haber sonreído gratis en años.
+
+—Aquí lo hacemos más largo —dijo la muchacha.
 
 —Entonces hágalo menos largo.
 
-La chica la miró, decidió que no valía la pena discutir con el acento y cobró.
+La muchacha la miró y decidió que no valía la pena discutir con el acento.
 
-Chiara se sentó junto a la ventana. Sacó el teléfono, pero no lo desbloqueó. Afuera, Plaza Corona seguía cercada. Adentro, la gente fingía que un asesinato a cincuenta metros no cambiaba el sabor del café.
+—Harper —dijo la mujer de la caja, sin levantar la vista—. Como lo pide la señora.
+
+Harper apretó el café en el portafiltro con más fuerza de la necesaria.
+
+Chiara se sentó junto a la ventana. Sacó el teléfono, pero no lo desbloqueó. Afuera, al fondo de la calle, las torretas seguían girando alrededor de la plaza. Adentro, la gente fingía que un asesinato a unas cuadras no cambiaba el sabor del café.
 
 —No eres de aquí.
 
@@ -209,6 +215,8 @@ Blake apoyó el codo en el respaldo de la silla de enfrente sin sentarse.
 
 —Estuve en Roma una vez.
 
+Detrás de la caja, la mujer de los lentes dejó de mover las manos.
+
 —Lo siento.
 
 Él tardó medio segundo en decidir que era broma y se rió otra vez.
@@ -225,7 +233,7 @@ La frase habría sonado distinta en otra boca. En la de Blake era vanidad, no am
 
 —¿Y tú qué ofreces, oficial Stanton?
 
-Él miró hacia la plaza.
+Él miró hacia el fondo de la calle, hacia las torretas.
 
 —¿Hoy? Una ciudad con mala prensa.
 
@@ -261,7 +269,7 @@ Chiara le dictó el número.
 
 No el principal.
 
-Cuando él se fue, caminando un poco más derecho que antes, Chiara volvió a mirar la plaza.
+Cuando él se fue, caminando un poco más derecho que antes, Chiara volvió a mirar hacia el fondo de la calle.
 
 El televisor cambió de imagen. Keene otra vez. La banca. La cinta amarilla.
 
