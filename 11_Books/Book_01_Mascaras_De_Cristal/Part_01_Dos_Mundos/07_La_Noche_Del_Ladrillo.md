@@ -51,7 +51,7 @@ Chiara no dijo nada.
 
 Había hecho la pregunta para medir cuánto sabían. No sabían nada.
 
-Ella sí. La recta de Kingsley Field de madrugada, los faros de los que iban a apostar, una canción que alguien oía cuando la ciudad ya había cerrado y las calles eran suyas un rato. *Termina donde yo digo que termine.* Se lo había contado tirado en un sillón del penthouse, sin presumir, como quien cuenta de qué trabaja.
+Ella sí. La recta de Kingsley Field de madrugada, los faros de los que iban a apostar, una canción que alguien oía cuando la ciudad ya había cerrado y las calles eran suyas un rato. *Termina donde yo digo que termine.* Se lo había contado tirado en un sillón del penthouse, sin presumir, como quien cuenta de dónde es.
 
 Tenía el nombre en la boca, y enfrente a un policía que llevaba meses queriendo ponérselo a un expediente.
 
