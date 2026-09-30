@@ -4,15 +4,86 @@ Protagonistas: Kal Mercer, Chiara Bellandi.
 Ventana temporal: despues de la primera cena y de la costumbre de contarse el dia.
 Lugares: The Monarch Casino & Hotel, El Penthouse.
 Funcion: ejecutar H2-b. Costumbre de contarse el dia (primera comida: torta de Mabel sin mostaza, dato de la alergia de Chiara), noche del penthouse (hamburguesas, hierba), paso del usted al tu en la escena de la hierba, cancion de Kal (The World Is Yours, Peugeot) y de Chiara (Un anno d'amore, ahora traducida por completo), juego de Parole Parole como escena nueva de idioma en vivo, llamada de Danny, silla de estetica con fragmento de la cicatriz, calavera, jacuzzi con mueca espejo, habitaciones separadas, choque de punos. Cierre recontextualizado: "eres increible" ya no marca el tu -- marca que cada uno le devolvio al otro una alegria que ninguno sabia que todavia podia sentir. (Nota 2026-09-27: el parrafo que glosaba esa lectura se corto en la cirugia del lote A; la linea canon queda sin comentario, como pide H2-b: 'Nadie dice que la noche fue especial'.)
+Contarse el dia (2026-09-29, aplica canon del autor en 06_Relationships/Kal_y_Chiara "Como se construye la costumbre" y staging_rules/04; DISENO del agente, pendiente de lectura; sigue TERMINADO): el resumen de apertura pasa a dos migajas en escena. (1) Salida de carga: Kal cambia la rueda del carrito del 5; Chiara pregunta "¿Y qué hizo Nadir ahora?" (alternador vendido al doble con te y comida) y corresponde con el huesped de la 1412 al que el oceano le hace ruido (paso 3). (2) Llamada sin motivo pasadas las once: Kal pregunta por el del oceano (el recuerda lo de ella) y cuenta que Danny termino el Mustang en una noche y pinto las lineas del patio (siembra minima de Danny, sin subrayar). Walt/formularios y Hector/bomba quedan en resumen; se conservan "versiones" y "motor". La torta queda como culminacion (recordar -> actuar), sin tocar dialogo. Continuidad: la mostaza se dijo en La Esquina de Mabel la noche de Blake (Cap. 4), cuando Chiara no sabia de quien era esa calle; se retiro la visita previa inexistente y la variante "o el lo habia oido". Regla 04: beat nuevo en "A las tres" (Kal encuentra el marco de la puerta). Michael/Marisol sin cambios: techo emocional del capitulo.
 -->
 
 # Capítulo 6 — Ambos
 
 La costumbre nació sin pedir permiso.
 
-Al principio Kal pasaba por el Monarch porque había una factura que firmar, una pieza que revisar, un proveedor que medir o un problema pequeño que Chiara prefería resolver antes de que aprendiera a gritar. Después empezó a pasar cuando no hacía falta quedarse. Decía siempre cinco minutos y nunca eran cinco, y los dos habían dejado de fingir que la cuenta importaba.
+Al principio Kal pasaba por el Monarch porque había una factura que firmar, una pieza que revisar o un proveedor que medir. La primera vez después de Il Gelsomino fue por la rueda del carrito. Llegó con una nueva en una bolsa de ferretería y la cambió en la salida de carga, en cuclillas, con el carrito tumbado de lado y dos camareras fingiendo que no miraban.
 
-Chiara descubrió que le gustaba oír cómo contaba el día. No porque sus días fueran tranquilos: justamente por lo contrario. Kal narraba grúas, vecinos, coches rotos, Walt peleándose con formularios de libertad condicional, Héctor insultando una bomba de agua, Nadir vendiendo una pieza como si estuviera negociando una paz internacional. Lo decía todo como si no importara demasiado, y en esa forma de quitarle peso a las cosas ella empezaba a ver cuánto cargaba.
+Chiara bajó a firmar la orden, que podía haber firmado cualquiera.
+
+—¿Y qué hizo Nadir ahora?
+
+Lo preguntó antes de saludar. Kal levantó la vista desde el piso con una tuerca entre los dientes y se la sacó para contestar.
+
+—¿Por qué asume que hizo algo?
+
+—Porque usted tiene cara de haberlo arreglado.
+
+Kal enroscó la tuerca con los dedos antes de buscar la llave.
+
+—Le vendió un alternador a un tipo de la Isla. Le sirvió té, le dio de comer, le preguntó por los hijos. Tres horas.
+
+—¿Y?
+
+—Y el tipo se fue con el alternador, un frasco de salsa y sin saber cuánto había pagado.
+
+—¿Cuánto pagó?
+
+—El doble. —Apretó la última vuelta—. Y le dio las gracias.
+
+Chiara firmó la orden sobre la rodilla. Kal enderezó el carrito y lo empujó un par de metros por el pasillo. La rueda giró sin un ruido.
+
+—En la 1412 tengo a un señor que pidió cambio de habitación porque el océano hace demasiado ruido.
+
+Kal miró hacia la puerta de carga, por donde se oía, lejos, el mar.
+
+—¿Y qué le dio?
+
+—Una del lado de la ciudad. Ahora se queja de las sirenas.
+
+—¿Y mañana?
+
+—Mañana le mando fruta. La fruta no hace ruido.
+
+Kal se rió por la nariz, sin abrir la boca, y se guardó la llave en el bolsillo de atrás.
+
+Tres noches después la llamó pasadas las once. Chiara seguía en la oficina, con los tacones bajo el escritorio y la ciudad encendida detrás del vidrio.
+
+—¿Pasó algo?
+
+—No.
+
+Del otro lado se oía un compresor y, más lejos, una radio mal sintonizada. Chiara esperó a que él dijera para qué llamaba. Kal no lo dijo.
+
+—¿Sigue ahí el del océano?
+
+Ella tardó un segundo en entender que se había acordado.
+
+—Se fue esta mañana. Dejó cinco estrellas y una queja por las gaviotas.
+
+—Nadie les avisó a las gaviotas.
+
+El compresor se apagó. En el silencio, Kal habló como si ésa fuera la noticia que traía.
+
+—Danny terminó el Mustang. En una noche.
+
+—Eso es bueno.
+
+—Y como le sobró noche, pintó las líneas del patio. Todas. Nadie se lo pidió.
+
+—¿Rectas?
+
+—Más o menos. Héctor ya se estacionó chueco dos veces, por respeto.
+
+Chiara se rió frente al vidrio, con la frente casi contra el frío, y se tapó la boca aunque en el piso no quedaba nadie para oírla.
+
+Colgaron sin que ninguno dijera por qué había llamado.
+
+Después vinieron otras: Walt peleándose con los formularios de la libertad condicional, Héctor insultando una bomba de agua. Kal lo contaba todo como si no importara demasiado, y en esa forma de quitarle peso a las cosas ella empezaba a ver cuánto cargaba.
 
 Ella, a cambio, le contaba versiones. No secretos. Versiones: qué socio quería parecer menos asustado, qué invitado fingía riqueza, qué periodista local no sabía hacer una pregunta sin disculparse, qué agujero de administración del casino iba a convertirse en incendio si nadie lo tapaba antes del viernes.
 
@@ -34,7 +105,7 @@ Dejó la bolsa sobre la mesa, lejos de los papeles, con un cuidado que no combin
 
 Sin mostaza.
 
-Ella nunca se lo había dicho. Lo había mencionado una vez, de pasada, la única ocasión en que pisó La Esquina de Mabel a mirar el barrio de él: que la mostaza le cerraba la garganta desde niña. No había vuelto a pensarlo. Mabel, que sabía de todo el mundo cosas que nadie le contaba de frente, se lo había guardado, y se lo había pasado a él, o él lo había oído sin que nadie se lo dirigiera, que en ese hombre venía siendo lo mismo.
+Ella nunca se lo había dicho. Lo había dicho una sola vez, sin pensar, en La Esquina de Mabel, la noche de Blake, cuando todavía no sabía de quién era esa calle: que la mostaza le cerraba la garganta desde niña. La mujer de la caja no había levantado la vista de las monedas. No había vuelto a pensarlo. Mabel, que sabía de todo el mundo cosas que nadie le contaba de frente, se lo había guardado, y se lo había pasado a él.
 
 —Mabel la preparó —dijo Kal, como si hiciera falta aclararlo—. Yo cargué la bolsa.
 
@@ -50,7 +121,7 @@ Chiara cerró la carpeta. No le dio las gracias por la mostaza que no estaba; de
 
 Comieron de pie junto al escritorio. Ella con una servilleta doblada bajo la torta para no manchar la lista de invitados; él apoyado contra la pared, como si el cuerpo no supiera ocupar una silla cuando no estaba seguro de cuánto iba a quedarse.
 
-Después de esa noche la comida volvió más veces. Café a veces. Una rueda nueva para un carrito de servicio. A veces sólo él, sin excusa, que era lo menos justificable y lo que menos explicaciones terminó pidiendo.
+Después de esa noche la comida volvió más veces. Café a veces. A veces sólo él, sin excusa, que era lo menos justificable y lo que menos explicaciones terminó pidiendo.
 
 ***
 
@@ -507,6 +578,8 @@ Chiara señaló la pared.
 —Dime cuántas puertas hay hasta el elevador.
 
 —Las necesarias.
+
+Se levantó para demostrarlo y encontró el marco de la puerta un poco antes de lo previsto. Se quedó apoyado ahí, con dignidad, como si lo hubiera buscado.
 
 —Basta. Te quedas.
 
