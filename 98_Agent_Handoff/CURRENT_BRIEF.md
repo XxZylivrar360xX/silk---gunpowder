@@ -26,7 +26,9 @@ Libro I: **completo en prosa (Caps. 1–44), Parte III — Ardizzone cerrada con
 
 **Reunión privada en el Cap. 5 (2026-09-29, progresión canon del autor):** tras la llamada de la factura, Chiara cita a Kal a la una en la sala privada vacía; retoman los treinta días del Cap. 2, Kal resuelve el valet del torneo sin cobrarlo, Chiara cambia su fijo mensual por tarifa por acto bajo su firma. Prosa BORRADOR/DISEÑO, espera lectura. **El montaje cotidiano del 6 queda en pausa** hasta que el autor valide la reunión.
 
-**Cap. 7 (2026-09-29, autor):** callbacks post 5-6 (Peugeot: Chiara sabe y calla ante Blake; reconoce a la banda por las historias). **Canon:** Dario da tarjeta a Kal; fuera de cuadro contrata a Nadir para mover 5 kg de cocaína al norte (parcela, 50,000). Nada de eso en prosa; payoff PENDIENTE. Reciprocidad: Kal le reconoce "la sonrisa de las juntas" y ella se la quita.
+**Cap. 7 (2026-09-29, autor):** callbacks post 5-6 (Peugeot: Chiara sabe y calla ante Blake; reconoce a la banda por las historias). **Canon:** Dario da tarjeta a Kal; fuera de cuadro contrata a Nadir para mover 5 kg de cocaína al norte (parcela, 50,000). Payoff en el Cap. 8 (Kal lo cuenta como chisme: Dario con máscara de plata en la entrega). Reciprocidad: Kal le reconoce "la sonrisa de las juntas" y ella se la quita.
+
+**Caps. 6 y 8 (2026-09-30, autor):** el 8 suma dos pagos de la costumbre en el coche (chisme de Dario → "Hablando de máscaras"; confesión mínima de Chiara → la fiscal del café) con italiano de comodidad en escalada; prosa DISEÑO, espera lectura. **Canon:** Chiara guarda a Kal como "Mandorla" en el celular; Kal lo descubre en el 6 tras *Parole Parole*, y por eso entiende el "Mandorla" del 8. Escena de radio "Mac a Almendra" en reserva en el Book Map de *Sombras de Poder*.
 
 ## Auditoría editorial Parte I (en curso)
 
