@@ -1149,6 +1149,8 @@ Filename:
 
 > `05_La_Casa_No_Quiere_Ruido.md`
 
+> **RESUELTO (2026-09-29):** archivo normalizado a `05_Una_Amiga.md`.
+
 Título visible:
 
 > `Una amiga`

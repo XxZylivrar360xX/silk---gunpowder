@@ -30,7 +30,7 @@
 | 2 | Demasiado listo | `02_Demasiado_Listo` | Chiara llega al Monarch; primer apretón de manos y rechazo de Kal por parte de los socios. | CANON / FUERTE | Frase de juicio que define cómo la ciudad lee a Kal. | Conservar salvo que aparezca una alternativa claramente superior. |
 | 3 | Los viejos días | `03_Los_Viejos_Dias` | Keene aparece muerto, Walt sale de prisión y la Almendra imagina una renovación. | PROVISIONAL | Apunta a la nostalgia de Walt y Héctor, pero puede sonar genérico. | PENDIENTE: buscar una imagen de regreso, deuda o sangre nueva. |
 | 4 | Tarifa nocturna | `04_Tarifa_Nocturna` | Chiara abandona la fiesta de Blake y recurre a Kal para retirar el Mercedes de Varga; exige una factura que pueda enseñar. | CANON DEL AUTOR — APLICADO | La llamada inicia una relación cuyo valor excede el precio del servicio. | Aprobado: Tarifa nocturna; encabezado, archivo y referencias sincronizados. |
-| 5 | Una amiga | `05_La_Casa_No_Quiere_Ruido` | La cadena de favores se vuelve costumbre y ocurre H2-a, la primera cena. | ARCHIVO DESFASADO | El título visible tiene peso relacional; el archivo conserva un nombre anterior. | PENDIENTE: normalizar archivo a `05_Una_Amiga` o sustituir ambos nombres. |
+| 5 | Una amiga | `05_Una_Amiga` (antes `05_La_Casa_No_Quiere_Ruido`) | La cadena de favores se vuelve costumbre y ocurre H2-a, la primera cena. | RESUELTO | El título visible tiene peso relacional; archivo y título ya coinciden. | RESUELTO (2026-09-29): archivo normalizado a `05_Una_Amiga`. |
 | 6 | Ambos | `06_Ambos` | H2-b: penthouse, canciones, calavera, silencios cómodos y primer paso al tú. | PROVISIONAL | Resume reciprocidad, pero es abstracto y poco visual. | PENDIENTE: buscar la imagen concreta que represente la noche. |
 | 7 | La noche del ladrillo | `07_La_Noche_Del_Ladrillo` | H3: fiesta de blanco, llegada de Kal y el ladrillo de arcilla. | CANON / FUERTE | Objeto concreto, escena memorable y amenaza latente. | Conservar. |
 | 8 | La carrera de máscaras | `08_La_Carrera_De_Mascaras` | H9: Peugeot, La Tramoya, Colombina, carrera y primera risa genuina de Chiara. | CANON / FUERTE | Une el objeto, el juego y la identidad performativa. | Conservar. |
@@ -73,7 +73,7 @@
 
 ### Problemas de nomenclatura antes de cualquier cambio
 
-- El archivo del Capítulo 5 se llama `05_La_Casa_No_Quiere_Ruido`, pero el título visible es `Una amiga`.
+- ~~El archivo del Capítulo 5 se llama `05_La_Casa_No_Quiere_Ruido`, pero el título visible es `Una amiga`.~~ Resuelto 2026-09-29: el archivo es ahora `05_Una_Amiga`.
 - La matriz estudia títulos visibles; no renombra todavía archivos ni enlaces Obsidian.
 - Hay que tratar por separado títulos canon, títulos provisionales y títulos que sólo requieren sincronización de archivo/encabezado.
 - Cualquier propuesta debe revisarse contra el `Book_Map`, el encabezado del capítulo, `INDEX.md`, referencias en `Hitos.md` y el flujo EPUB.

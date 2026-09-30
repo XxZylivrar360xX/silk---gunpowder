@@ -4,9 +4,11 @@ Cirugía editorial extraordinaria 2026-09-26 (autorizada por el autor, sigue TER
 Protagonistas: Chiara Bellandi, Kal Mercer.
 Ventana temporal: abre la misma noche del primer favor (lunes) y sigue dias/semanas despues, hasta la primera noche que ninguno de los dos llama cita.
 Traslado (2026-09-29, decision del autor): la coda Kal/Nadir que cerraba el Cap. 4 (corralon, Mabel, "El problema llamo", mensaje de Chiara, contacto guardado como Bellandi) abre ahora este capitulo, integra. El 4 queda en POV Chiara completo y cierra con ella mandando el mensaje sin respuesta; aqui el lector descubre que el tampoco lo trato como llamada cualquiera. Este capitulo es el primer POV compartido deliberado del libro.
+Contarse el dia (2026-09-29, aplica canon del autor en 06_Relationships/Kal_y_Chiara "Como se construye la costumbre"; DISENO del agente, pendiente de lectura): registro del capitulo = "estoy aqui contigo y no necesito nada". Dos migajas del banco del Cap. 3, sin tocar dialogo previo: (1) maquina de cafe, Kal ofrece sin que se lo pidan lo del telefono de Walt (paso 1: el cuenta); (2) Il Gelsomino, Chiara recuerda y pregunta por el telefono de Walt; plantas de Nadir y precio de la Coca en resumen narrado (paso 2: ella pregunta aunque no le sirva). Correspondencia de Chiara (paso 3) queda para el 6 en adelante.
+Staging rule 04 (2026-09-29, pedido del autor; DISENO pendiente de lectura): en la llamada de la manana, dos veredictos interiores ("Eso ya era más aceptable", "Otra vez tenía razón") sustituidos por conducta sobre el PDF de la factura, y un beat de cuerpo (gota del cabello, bata) antes de "Eso me deja dependiendo de usted". Dialogo intacto; se conserva "Quiere. No necesita..." como lectura de lenguaje del POV.
 Lugares: The Monarch Casino & Hotel, La Almendra, centro de San Aurelio, Il Gelsomino.
 Funcion: convertir el favor en cadena, mostrar a Kal como telefono recurrente y a Chiara aprendiendo a dirigir informacion; ejecutar H2-a, la primera cena que ninguno llama cita.
-Nota de fusion (2026-09-10, BLOQUE 2 de PLAN_CIRUGIA_EDITORIAL_PARTE_I): capitulo resultante de fusionar los antiguos Capitulo 5 (La casa no quiere ruido) y Capitulo 6 (Una amiga). El archivo conserva su nombre original (05_La_Casa_No_Quiere_Ruido.md) por trazabilidad de enlaces; el titulo visible pasa a ser "Una amiga". El antiguo Nota_Una_Amiga_Fusionada.md queda como nota de redireccion. La renumeracion global posterior ya fue completada en cascada.
+Nota de fusion (2026-09-10, BLOQUE 2 de PLAN_CIRUGIA_EDITORIAL_PARTE_I): capitulo resultante de fusionar los antiguos Capitulo 5 (La casa no quiere ruido) y Capitulo 6 (Una amiga). El titulo visible pasa a ser "Una amiga"; el archivo (antes 05_La_Casa_No_Quiere_Ruido.md) se normalizo a 05_Una_Amiga.md el 2026-09-29, con enlaces vivos actualizados. El antiguo stub Nota_Una_Amiga_Fusionada.md se retiro el 2026-09-29, tras el renombrado. La renumeracion global posterior ya fue completada en cascada.
 -->
 
 # Capítulo 5 — Una amiga
@@ -163,7 +165,7 @@ Quiere. No necesita. No le pidió una orden ni le ofreció rescatar nada.
 
 —Por resolver, depende de lo que encuentre.
 
-Eso ya era más aceptable.
+Chiara volvió al escritorio y pasó el cursor sobre la tarifa nocturna del PDF.
 
 —Mándeme una propuesta.
 
@@ -173,11 +175,13 @@ Eso ya era más aceptable.
 
 —Si le mando una propuesta, alguien puede leerla. Si quiere que no parezca problema del casino, no lo convierta en contrato del casino.
 
-Otra vez tenía razón.
+Chiara cerró el PDF. En la carpeta que no se llamaba Mercer quedó un solo archivo.
 
 —Entonces, ¿qué sugiere?
 
 —Que me llame si Varga vuelve.
+
+Una gota del cabello le cayó en la muñeca. Se la secó contra la bata.
 
 —Eso me deja dependiendo de usted.
 
@@ -396,6 +400,18 @@ Kal miró el café.
 —Está intentando que afuera le alcance.
 
 Chiara no preguntó más. Aprendía rápido dónde había puerta y dónde había pared.
+
+Kal le dio vuelta al vaso.
+
+—Natalie le regaló un teléfono. Contesta con la palma entera, como si apagara una vela. Ayer le colgó tres veces a Héctor.
+
+No había pregunta que eso contestara.
+
+—¿Y Héctor?
+
+—Le quiere comprar uno de botones. Walt dice que es un insulto.
+
+Chiara bajó el vaso para que no se le notara la boca.
 
 —¿Y usted? —dijo.
 
@@ -808,6 +824,20 @@ Kal no había previsto que ella recogiera la palabra.
 Ella soltó una risa más clara.
 
 Kal abrió el menú aunque ya sabía lo que Enzo iba a recomendar y lo que Claudio iba a mandar de todos modos. La noche avanzó por cosas pequeñas: pan, aceite de oliva, pasta, vino que ella eligió después de olerlo y no aprobarlo del todo, una discusión sobre si San Aurelio sabía hacer café, otra sobre por qué los estadounidenses creían que poner pollo encima de cualquier cosa la volvía italiana.
+
+A media pasta, ella preguntó por el teléfono de Walt.
+
+Kal tardó un segundo en entender que se acordaba.
+
+—Ya contesta. Ahora no sabe colgar. Anoche Héctor lo oyó roncar veinte minutos por la línea.
+
+—¿Y no colgó él?
+
+—Dice que así sabe que sigue afuera.
+
+Le contó también de las plantas de Nadir, que Nadir llamaba medicinales y Héctor llamaba evidencia, y del mediodía en que Walt supo cuánto costaba una Coca y dejó la cuchara como si le hubieran dado una mala noticia. Ella quiso saber qué plantas. Él no le dijo. Ella se rió igual.
+
+A ella nada de eso le servía para nada. Lo preguntó igual.
 
 No hablaron de Alessio.
 

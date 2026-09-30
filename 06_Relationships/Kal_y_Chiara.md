@@ -238,6 +238,32 @@ No es una escena: es un **hábito**, y es lo que se acumula durante cientos de p
 
 **Y es lo que desaparece en la Fase V.** Cuando este documento dice que "dejan de tener escenas pequeñas", lo que concretamente deja de ocurrir es esto: **él deja de ir a contarle el día.** Nadie lo dice. Sólo deja de pasar. Ver "La grieta", más abajo.
 
+#### Cómo se construye la costumbre — CANON DEL AUTOR (2026-09-29)
+
+La intimidad no se construye sólo con confesiones o peligro. Antes de *Libros abiertos* (Cap. 25) tienen que haber acumulado mucho **conocimiento aparentemente inútil** sobre el otro. Saber qué pasó con las plantas de Nadir, que Walt no sabe usar el smartphone o que Chiara aguantó a un huésped insoportable **también es intimidad**, y es la infraestructura que vuelve creíble "te voy a contar la peor parte de mí": el lector debe pensar *claro que se cuentan esto; llevan medio libro contándose todo lo demás*.
+
+**Escalón de la razón para hablar:**
+
+| Cap. | Registro |
+|---|---|
+| 2 | Puedo obtener algo de ti. |
+| 4 | Sé que puedo llamarte cuando necesito algo. **Última etapa puramente funcional**: la llamada de Varga no se vuelve conversación personal. |
+| 5 (*Una amiga*) | Estoy aquí contigo y, curiosamente, no necesito nada. |
+| 6 en adelante | Te cuento esto simplemente porque quiero contártelo a ti. |
+
+**Progresión del hábito:**
+
+1. Kal cuenta aventuras de La Almendra porque son graciosas o absurdas: Nadir y sus "plantas mágicas"; Walt adaptándose al mundo moderno y, más adelante, su proyecto de destilería; permisos, equipo, clientes; Danny haciendo cosas que empiezan como anécdota divertida y poco a poco dejan de serlo.
+2. Chiara empieza como **oyente**. Luego recuerda detalles y pregunta ("¿Y qué pasó con…?", por Walt, por Nadir, por el problema de ayer): lo escucha aunque la información no le sirva para nada.
+3. Ella corresponde: absurdos del Monarch, huéspedes, socios, empleados, hotelería, gente rica portándose como idiota.
+4. Ya no hace falta razón para llamar. Se cuentan qué les pasó ese día.
+
+**Separado de las revelaciones profundas.** Lo cotidiano no es antesala de la confesión ni la sustituye; corre en paralelo.
+
+**Forma en página:** migajas cotidianas recurrentes dentro de escenas con otra función, no escenas dedicadas a "desarrollar la relación" (ver [[00_Biblia/Principios_Narrativos]], miniatura cotidiana).
+
+**Banco de material sembrado en el Cap. 3** (no gastarlo todo de golpe; existe para que Kal lo cuente después): Walt y el smartphone; el precio de la Coca; Nadir y la comida; la libertad condicional que "lo volvió moderado"; el regreso del viejo a La Almendra; fragmentos inocuos del trabajo clandestino (el Tasador), siempre en versión contable para ella.
+
 ### CANON — El cruce de idiomas, en cuatro tiempos
 
 Toda la relación se puede medir en quién se mueve hacia el idioma del otro. **Es el esqueleto emocional del libro** y cada tiempo está anclado en un hito:

@@ -5,6 +5,7 @@ Ventana temporal: lunes, mismo dia de la salida de Walt (Cap. 3), de la manana a
 Lugares: The Monarch Casino & Hotel, centro de San Aurelio (cafeteria frente a Plaza Corona), La Isla.
 POV: Chiara completo (fijado 2026-09-29, decision del autor). El remolque se ve desde la puerta de servicio: Chiara llega antes que la grua y mira a Kal trabajar; se retiraron las frases interiores de Kal y el salto de cabeza a media escena. Cierre nuevo: Chiara manda "La factura completa. Por favor." desde el penthouse y no hay respuesta. Se corto la linea opaca "Era la primera vez que quedaba del otro lado" (la sustituye el mensaje sin respuesta). Cafeteria del centro = La Esquina de Mabel (2026-09-29, decision del autor): primera aparicion de Harper Walker en prosa (en la maquina de espresso, nombrada por Mabel) y de Mabel vista por Chiara (deja de mover las manos cuando Blake dice lo de Roma). Chiara no sabe que es territorio de Kal. Ubica a Mabel en la frontera Calle Corona / La Almendra, a unas cuadras de Plaza Corona. Secuela fisica del trabajo del Tasador (Cap. 3): Chiara ve a Kal cuidar el hombro derecho al bajar el gancho y no pregunta; en el 5 se nombra la causa (cadena del Buick en la descarga). DISEÑO del agente a pedido del autor. La coda Kal/Nadir (Mabel, "El problema llamo", contacto guardado como Bellandi) paso a abrir el Cap. 5.
 Traslado (2026-09-29, decision del autor en la reapertura del Cap. 3): el bloque de Chiara que cerraba el Cap. 3 (titular de Keene, torneo de poker y roce con Tommaso, salida al centro, Blake y la invitacion a La Isla) abre ahora este capitulo, integro y sin pulir; el 3 queda en POV Kal y el POV compartido deliberado se reserva para el Cap. 5. Pendiente: pasada de pulido del bloque trasladado dentro de la economia del 4.
+Textura (2026-09-29, a pedido del autor): del telefono a Kal hasta el cierre se anadieron beats fisicos y de ambiente (sonido del otro lado de la llamada, trayecto por Terminal Road, trasera del Monarch, luces ambar de la grua, cabina, penthouse a oscuras con las torretas de Plaza Corona). Ningun dialogo se toco. DISENO del agente.
 Escalon relacional: Cap. 2 "quiza pueda obtener algo de el" -> Cap. 4 "lo llame y aparecio" -> Cap. 5 "quiero seguir hablando aunque no necesite nada".
 Funcion: abrir el dia de Chiara (Keene como comunicado, Tommaso, Blake) y mostrar el primer favor bajo la mesa, el error funcional de Blake y la incomodidad de Chiara al aceptar ayuda de Kal.
 -->
@@ -435,7 +436,9 @@ Salió sola.
 
 En la acera se quitó la pulsera. La tela cedió sin resistencia, que era lo peor que podía decirse de una marca de pertenencia. La dejó en el bote de la esquina, sobre vasos de plástico y colillas, y el logo plateado siguió brillando ahí dentro un rato más de lo que merecía.
 
-El aire de La Isla le pegó en la cara con sal, diésel y música filtrada por muros. Pidió un taxi con una aplicación, pero antes de confirmarlo abrió otro contacto.
+El aire de La Isla le pegó en la cara con sal, diésel y música filtrada por muros. Detrás de ella la puerta del club se abrió y se cerró: un golpe de bajo, una risa, otra vez el muro. Un valet fumaba recargado en un poste con el chaleco desabotonado. Más allá de los techos, las grúas del puerto parpadeaban en rojo, lentas, como si llevaran otra hora.
+
+Pidió un taxi con una aplicación, pero antes de confirmarlo abrió otro contacto.
 
 No tenía el número de Kal guardado con nombre. Matteo se lo había mandado como quien pasa una herramienta.
 
@@ -443,7 +446,7 @@ Chiara lo miró en la pantalla dos segundos.
 
 Luego llamó.
 
-Contestó al tercer tono.
+Contestó al tercer tono. Del otro lado no había música. Había un motor en ralentí y algo metálico que terminaba de rodar.
 
 —Mercer.
 
@@ -457,11 +460,11 @@ Hubo una pausa mínima del otro lado. No sorpresa. Ajuste.
 
 —Eso dice el letrero.
 
-No quiso sonreír. Sonrió igual, apenas.
+No quiso sonreír. Sonrió igual, apenas, y le dio la espalda al valet.
 
 —Y necesito que no parezca un problema del casino.
 
-La pausa siguiente fue más larga.
+La pausa siguiente fue más larga. Oyó abrirse una puerta de cabina, el cambio de aire en la línea, pasos sobre grava.
 
 —¿Dónde está?
 
@@ -475,9 +478,11 @@ La pausa siguiente fue más larga.
 
 —Presente e inútil.
 
+Creyó oírlo escribir: un roce corto, de pluma contra papel apoyado en algo duro.
+
 —Matrícula.
 
-Ella leyó el mensaje de Matteo.
+Chiara despegó el teléfono de la oreja, buscó el mensaje de Matteo con el pulgar y leyó letras y números despacio, en el inglés más plano que tenía.
 
 Kal no pidió repetir nada.
 
@@ -487,7 +492,7 @@ Kal no pidió repetir nada.
 
 —No pregunté dónde está usted.
 
-Chiara se quedó quieta en la acera.
+Chiara se quedó quieta en la acera. En la pantalla, el taxi seguía sin confirmar, un punto gris esperando su dedo.
 
 No era grosería sino precisión: había separado el problema de ella con una limpieza que Blake no habría sabido imitar aunque le dieran instrucciones.
 
@@ -515,6 +520,8 @@ Chiara oyó un portón metálico moverse del otro lado de la llamada.
 
 Kal colgó.
 
+La pantalla volvió a la lista de llamadas: un número sin nombre, un minuto con doce segundos.
+
 Chiara se quedó mirando el teléfono con ganas de insultarlo en italiano y una irritación distinta debajo. No era que le hubieran negado control. Era que él había actuado como si el control pudiera esperar veinte minutos sin que el mundo se terminara.
 
 No le gustó.
@@ -523,9 +530,11 @@ Le sirvió.
 
 ***
 
-El taxi la dejó en la rampa de servicio del Monarch catorce minutos después.
+El taxi tomó Terminal Road con las ventanas cerradas y un pino de cartón colgando del espejo. Del lado del mar pasaban contenedores apilados bajo luz de sodio, naranja y sucia, y camiones dormidos con la cabina a oscuras. El Monarch apareció primero como resplandor, luego como edificio, y al final, cuando el taxi dio la vuelta hacia servicio, como lo que era por detrás: concreto, extractores, un contenedor de basura con la tapa abierta.
 
-Matteo la esperaba en el marco de la puerta de carga, con la corbata floja y el teléfono todavía en la mano. No había salido. Varga tenía un teléfono levantado y Matteo no pensaba regalarle su cara.
+El taxi la dejó en la rampa de servicio catorce minutos después de la llamada.
+
+Matteo la esperaba en el marco de la puerta de carga, con la corbata floja y el teléfono todavía en la mano. La luz blanca de la puerta le marcaba las ojeras. No había salido. Varga tenía un teléfono levantado y Matteo no pensaba regalarle su cara.
 
 —¿Viene?
 
@@ -533,17 +542,17 @@ Matteo la esperaba en el marco de la puerta de carga, con la corbata floja y el 
 
 —¿Y le crees?
 
-Chiara no contestó. Se acomodó el abrigo sobre los hombros y se quedó junto a él, del lado de adentro.
+Chiara no contestó. Se acomodó el abrigo sobre los hombros y se quedó junto a él, del lado de adentro. Ahí olía a cartón mojado, cloro y comida de empleados recalentada; la música del lobby llegaba como rumor de otro edificio.
 
 Desde ahí se veía todo. Varga estaba junto a un Mercedes gris, gritando hacia dos guardias que no sabían si contenerlo o dejar que se cansara. Era de esos hombres que usaban el saco abierto para demostrar que no tenían miedo de arrugarlo. Tenía el cuello rojo, la voz húmeda y el teléfono levantado hacia la cara de quien se atreviera a respirar cerca.
 
 —Esto es robo —decía—. Esto es secuestro de propiedad.
 
-A los veinte minutos de la llamada entró una grúa azul. No el Peugeot.
+A los veinte minutos de la llamada entró una grúa azul. No el Peugeot. Las luces ámbar del techo barrieron la rampa, las paredes, las caras de los guardias, y se quedaron girando.
 
 La grúa no tenía nada elegante. Por eso funcionaba. El guardia de la entrada de carga la vio pasar, leyó el logo de Almendra Towing y decidió que aquello era explicación suficiente. Chiara conocía el mecanismo: el mundo legal estaba lleno de objetos que venían con permiso incorporado. Uniformes, carpetas, llaves maestras, camiones de mantenimiento.
 
-Kal bajó con una tabla de trabajo en la mano.
+Kal bajó con una tabla de trabajo en la mano. Chamarra oscura, guantes metidos en el bolsillo trasero, las botas sin prisa sobre el concreto aceitoso.
 
 La vio en la puerta. No cambió de ritmo.
 
@@ -567,11 +576,11 @@ Kal le mostró una hoja.
 
 El guardia miró la hoja sin leerla. Kal no parecía haber esperado otra cosa.
 
-Varga se acercó.
+Varga se acercó con el teléfono por delante, como una linterna.
 
 —Ese coche es mío.
 
-Kal miró el Mercedes.
+Kal miró el Mercedes, no a él.
 
 —Sí.
 
@@ -595,6 +604,8 @@ El hombre dudó. La gente que grababa esperaba miedo o enojo. Kal le dio utilida
 
 —Diga su nombre completo y confirme que se niega a retirar el vehículo de una ruta de carga marcada. Así me ahorra dos firmas.
 
+Lo dijo escribiendo en la tabla, sin levantar la vista.
+
 Varga bajó el teléfono medio centímetro.
 
 —¿Usted sabe quién soy?
@@ -603,7 +614,7 @@ Varga bajó el teléfono medio centímetro.
 
 Uno de los guardias tosió para esconder una risa.
 
-Varga volteó hacia él. Error. Kal ya estaba junto a la rueda, agachado, revisando ángulo y altura.
+Varga volteó hacia él. Error. Kal ya estaba junto a la rueda, agachado, una mano en el concreto y la otra abierta sobre el costado de la llanta, revisando ángulo y altura.
 
 —No lo toca.
 
@@ -625,7 +636,7 @@ Matteo salió al fin, con la cara de quien venía a arreglar una escena que ya e
 
 Matteo miró a Chiara.
 
-Ella tomó la pluma de Kal y firmó en el cuadro correcto sin preguntar si podía. Él la dejó.
+Ella tomó la pluma de Kal y firmó en el cuadro correcto sin preguntar si podía. Él la dejó. La tabla estaba tibia donde él la había sostenido, y la hoja tenía una huella gris de grasa en la esquina.
 
 Varga la reconoció.
 
@@ -643,7 +654,7 @@ Kal bajó el gancho. Movió la palanca con la izquierda; el brazo derecho se le 
 
 Chiara lo anotó. No era un gesto de alguien que llevara la noche entera esperando su llamada.
 
-El Mercedes subió de atrás con un quejido limpio. La escena perdió volumen al instante. Un coche levantado ya no era amenaza: era trámite.
+El Mercedes subió de atrás con un quejido limpio. Las cadenas se tensaron y el coche quedó con la nariz hacia el piso. La escena perdió volumen al instante. Un coche levantado ya no era amenaza: era trámite.
 
 Varga dio dos pasos hacia la grúa.
 
@@ -663,11 +674,11 @@ Chiara vio a Varga medir a Kal y elegir seguir viviendo en una versión donde é
 
 Subió a la grúa.
 
-Chiara caminó hasta la ventana del conductor antes de que arrancara.
+Chiara caminó hasta la ventana del conductor antes de que arrancara. El motor le vibraba en la mano cuando la apoyó en la puerta. La cabina olía a café viejo y a grasa; en el tablero, una radio de despacho decía en voz baja nombres de calles que ella todavía no conocía.
 
 —Le pregunté cuánto cobra.
 
-Kal apoyó el antebrazo en la puerta.
+Kal apoyó el antebrazo en la puerta, a un palmo de su mano. Las luces ámbar le pasaban por la cara cada segundo; entre una vuelta y otra, ella no alcanzaba a leerle nada.
 
 —Tarifa de remolque. Nocturna. Más espera si el dueño sigue actuando.
 
@@ -695,9 +706,9 @@ Kal lo notó. Tuvo la decencia de no sonreír.
 
 —Buenas noches, señora Bellandi.
 
-La grúa salió con el Mercedes levantado como si aquello hubiera estado escrito en el horario.
+La grúa salió con el Mercedes levantado como si aquello hubiera estado escrito en el horario. Las luces ámbar se llevaron el color de la rampa y la dejaron otra vez blanca.
 
-Matteo se acercó a Chiara.
+Matteo se acercó a Chiara, guardando por fin el teléfono.
 
 —Los socios dijeron que no.
 
@@ -709,13 +720,15 @@ Chiara miró hacia la salida de carga, donde las luces de la grúa se perdían e
 
 —Entonces mañana sabrá que alguien sí trabajó. Ciao, tesoro.
 
-Matteo volvió adentro. Ella se quedó en la rampa un momento más.
+Matteo volvió adentro. Ella se quedó en la rampa un momento más. Los guardias recogían los conos. Uno empujaba con la punta del zapato un vaso que Varga había tirado. Del mar subía un viento húmedo que no tenía nada que ver con el aire del casino.
 
 La factura iba a llegar completa y enseñable, y ella la iba a pagar el mismo día. Eso era lo cómodo de un precio: se termina.
 
 Lo que no iba a aparecer en ninguna hoja era que un hombre al que esa misma mesa había rechazado contestó al tercer tono, llegó en veinte minutos y no preguntó ni una vez por qué lo llamaba ella y no Matteo.
 
-Ya en el penthouse, con los tacones en la mano y el abrigo todavía puesto, sacó el teléfono.
+Ya en el penthouse, con los tacones en la mano y el abrigo todavía puesto, no encendió las luces. Por el ventanal, San Aurelio se veía entera y quieta: la costa iluminada, el puerto, y más adentro, donde terminaban los hoteles, las torretas que seguían girando alrededor de Plaza Corona.
+
+Sacó el teléfono.
 
 El número seguía sin nombre.
 
