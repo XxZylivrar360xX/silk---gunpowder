@@ -68,6 +68,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[02_Characters/Raymond_Keene]] (†) — jefe de policía anterior, asesinado por orden de Varek; probable colusión convertida en problema.
 - [[02_Characters/Luis_Ortega]] · [[02_Characters/Noah_Pierce]] · [[02_Characters/Gloria_Chen]] — detectives locales: Homicidios, compañero joven y crimen organizado/vice.
 - [[02_Characters/Claire_Han]] — fiscal principal local para homicidios relacionados con Kal.
+- [[02_Characters/Edward_Connors]] — fiscal general del estado; enemigo de Rivers desde la facultad.
 - [[02_Characters/Camila_Rivas]] — médica de confianza de Chiara; salva a Kal en H1 y prueba que la red de Chiara es infraestructura.
 - [[02_Characters/Owen_Kincaid]] — médico por fuera; vende discreción clínica como mercancía.
 - [[02_Characters/Mabel_Ortiz]] — mujer mayor, dueña de tienda/cafetería; nodo civil de la red de chismes de Chiara.

@@ -1,6 +1,7 @@
 <!--
 Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): "semanas atras" -> "dias atras" (Cap. 7); fuera el amanecer a las dos de la manana y la prolepsis de la Colombina ("No volvio a acordarse de ella"; queda disponible para reaparecer); fuera el parrafo "Esa semana... Recortado" (lo hace 21), "el reverso de la primera reunion" y "El camaleon perfecto" (palabra reservada a Kal); "Mandorla" leido desde Chiara (salto de POV). Siembra S3 (hilo B): la cerca de Camp Alder, una imagen, Kal no gira la cabeza. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B.md §9.
 Pagos de la costumbre 3-6 (2026-09-30, propuesta del autor, redaccion DISENO del agente; sigue TERMINADO pendiente de lectura): (1) Rumbo a La Tramoya, Kal cuenta como chisme la entrega de Nadir para Dario (cobra el encargo del Cap. 7): Kal manejo, Danny y Hector fueron; Dario sale del granero con gabardina, capucha y mascara de plata brillante ("¿el cliente o el jefe final?", Nadir: "Batman"). No se nombra la carga. Cierra con "Hablando de mascaras". Primer italiano de comodidad: "Madonna, Kal". "Nada de brillos" en La Tramoya queda como eco. (2) Rumbo a Kingsley: Chiara admite que la noche posterior a Gabriella's fue mala, no explica; Kal no excava y cambia el aire con la fiscal que lo invito a "un cafe en un lugar mas privado" ("trabajando no bebo ni agua"; Garrett se lo explica; "¿Y era guapa?" / "Era fiscal"). Italiano de comodidad en escalada; Kal empieza a reconocerlo sin traducirlo. La fiscal queda sin nombre (no fijada como Claire Han). La carcajada de la carrera sigue siendo la primera perdida total de control de la risa.
+Ajuste 2026-09-30 (autor): la fiscal del cafe es Katherine Rowe, a quien Chiara presento a Kal en la entrada del Monarch (Cap. 5); Chiara la reconoce: "¿La del brazo?".
 Protagonistas: Kal Mercer, Chiara Bellandi; Tyler Brooks como aparicion.
 Ventana temporal: dias despues del Capitulo 7 (la noche del ladrillo). Todavia son formalmente amigos; no hay primer beso.
 Lugares: Il Gelsomino (arranque), corredor comercial de salida al interior, La Tramoya (tienda de vestuario/utileria/mascaras), Kingsley Field y carreteras perimetrales / Carretera de Milla.
@@ -155,9 +156,13 @@ Ella no puso nada adentro. Miró los faros del carril contrario hasta que se aca
 
 Kal asintió una vez, sin mirarla.
 
-—El martes fui con Garrett a la fiscalía —dijo, en otro tono—. Por unos papeles de las grúas. Nos atendió una fiscal. Firmó todo, me regresó la pluma y me dijo: "Usted y yo deberíamos tomar un café en un lugar más privado".
+—El martes fui con Garrett a la fiscalía —dijo, en otro tono—. Por unos papeles de las grúas. Nos atendió Rowe.
 
 Chiara giró la cabeza.
+
+—¿La del brazo?
+
+—Firmó todo, me regresó la pluma y me dijo: "Usted y yo deberíamos tomar un café en un lugar más privado".
 
 —¿Y tú qué dijiste?
 

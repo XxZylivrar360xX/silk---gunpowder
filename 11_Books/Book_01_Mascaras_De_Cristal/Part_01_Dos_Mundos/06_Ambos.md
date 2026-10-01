@@ -6,6 +6,7 @@ Lugares: The Monarch Casino & Hotel, El Penthouse.
 Funcion: ejecutar H2-b. Costumbre de contarse el dia (primera comida: torta de Mabel sin mostaza, dato de la alergia de Chiara), noche del penthouse (hamburguesas, hierba), paso del usted al tu en la escena de la hierba, cancion de Kal (The World Is Yours, Peugeot) y de Chiara (Un anno d'amore, ahora traducida por completo), juego de Parole Parole como escena nueva de idioma en vivo, llamada de Danny, silla de estetica con fragmento de la cicatriz, calavera, jacuzzi con mueca espejo, habitaciones separadas, choque de punos. Cierre recontextualizado: "eres increible" ya no marca el tu -- marca que cada uno le devolvio al otro una alegria que ninguno sabia que todavia podia sentir. (Nota 2026-09-27: el parrafo que glosaba esa lectura se corto en la cirugia del lote A; la linea canon queda sin comentario, como pide H2-b: 'Nadie dice que la noche fue especial'.)
 Contarse el dia (2026-09-29, aplica canon del autor en 06_Relationships/Kal_y_Chiara "Como se construye la costumbre" y staging_rules/04; DISENO del agente, pendiente de lectura; sigue TERMINADO): el resumen de apertura pasa a dos migajas en escena. (1) Salida de carga: Kal cambia la rueda del carrito del 5; Chiara pregunta "¿Y qué hizo Nadir ahora?" (alternador vendido al doble con te y comida) y corresponde con el huesped de la 1412 al que el oceano le hace ruido (paso 3). (2) Llamada sin motivo pasadas las once: Kal pregunta por el del oceano (el recuerda lo de ella) y cuenta que Danny termino el Mustang en una noche y pinto las lineas del patio (siembra minima de Danny, sin subrayar). Walt/formularios y Hector/bomba quedan en resumen; se conservan "versiones" y "motor". La torta queda como culminacion (recordar -> actuar), sin tocar dialogo. Continuidad: la mostaza se dijo en La Esquina de Mabel la noche de Blake (Cap. 4), cuando Chiara no sabia de quien era esa calle; se retiro la visita previa inexistente y la variante "o el lo habia oido". Regla 04: beat nuevo en "A las tres" (Kal encuentra el marco de la puerta). Michael/Marisol sin cambios: techo emocional del capitulo.
 Mandorla (2026-09-30, propuesta del autor; DISENO de redaccion): tras Parole Parole, Kal ve en las llamadas recientes del celular de Chiara que ella lo tiene guardado como "Mandorla" ("Almendra. En italiano." / "¿Y por que no Mercer?" / "Porque Mercer lo lee cualquiera."). Asimetria con el Bellandi del Cap. 5. Siembra del "Mandorla" del Cap. 8.
+Pizza de calabaza (2026-10-01, canon del autor): cuando Kal llega de noche con la torta de Mabel, Chiara: "Espero que lo que trae no sea pizza de calabaza." / "Enzo le manda saludos." / "Eso no es un no." / "Es una torta." Paga el chiste de Il Gelsomino (Cap. 5).
 -->
 
 # Capítulo 6 — Ambos
@@ -102,7 +103,17 @@ Chiara levantó la vista de una lista de invitados.
 
 —Qué peligroso.
 
-Dejó la bolsa sobre la mesa, lejos de los papeles, con un cuidado que no combinaba con la bolsa. Adentro había una torta todavía tibia, envuelta en papel de estraza y partida a la mitad. Chiara la abrió por curiosidad administrativa, como abría todo, y se quedó un segundo mirándola.
+Chiara miró la bolsa.
+
+—Espero que lo que trae no sea pizza de calabaza.
+
+—Enzo le manda saludos.
+
+—Eso no es un no.
+
+—Es una torta.
+
+Kal dejó la bolsa sobre la mesa, lejos de los papeles, con un cuidado que no combinaba con la bolsa. Adentro había una torta todavía tibia, envuelta en papel de estraza y partida a la mitad. Chiara la abrió por curiosidad administrativa, como abría todo, y se quedó un segundo mirándola.
 
 Sin mostaza.
 

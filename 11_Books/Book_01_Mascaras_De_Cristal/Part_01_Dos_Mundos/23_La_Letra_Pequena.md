@@ -5,7 +5,7 @@ Apariciones: Héctor Navarro, Garrett Cross, Margaret Rivers (abogada de Kal), J
 Ventana temporal: después del Cap. 22 (Causalidad; titulo de trabajo anterior: Sin rastro) y del cierre de Tierra buena. El conflicto legal completo dura ~2 semanas. Inmediatamente antes de la audiencia que continúa en el Cap. 24.
 Lugares: La Almendra / oficina del taller, despacho de Margaret Rivers, loft de Kal.
 Función: primera mitad del hilo legal sembrado en Tierra buena. Hoover, dueño en papel del espacio del concesionario, reclasificó a Kal de socio a proveedor para negarle beneficios e inversión. Kal elige vía civil, no presión de calle. Chiara aportó el contacto (Rivers) en Tierra buena; aquí sólo se usa. El sobre NO es un descubrimiento — Kal ya lo sabía por canal informal; es la notificación formal, con fecha, litigable.
-Teoría jurídica (decisión del autor 2026-09-09): acuerdo comercial vinculante de hecho / implícito por conducta, sin contrato de sociedad firmado. Rivers tiene historia con el fiscal de distrito desde la facultad — por eso Chiara la eligió, dado el giro de actividades de Kal.
+Teoría jurídica (decisión del autor 2026-09-09): acuerdo comercial vinculante de hecho / implícito por conducta, sin contrato de sociedad firmado. Rivers tiene historia con el fiscal general del estado (Edward Connors; corregido 2026-09-30 por decision del autor, antes "fiscal de distrito") desde la facultad — por eso Chiara la eligió, dado el giro de actividades de Kal.
 Continuidad: la propuesta de Kal la primera noche del Monarch (Caps. 1-2) se usa como conducta previa consistente. Tommaso aparece en la lista de testigos de la contraparte al final.
 Pasada editorial 2026-09-10 (Claude Code, decision del autor): el recuerdo de la primera reunion se ajusta a lo dramatizado en el Cap. 2 (beneficio mutuo / "una silla en su mesa", no un "no" a un porcentaje concreto); explicitado el enlace propuso-antes -> se le cae a Hoover que se la invento ahora; podadas glosas de descubrimiento (fiscal, parcela) y remates; doble armado de carpetas de Garrett marcado como version para la audiencia.
 -->
@@ -150,7 +150,7 @@ Kal la miró con una expresión tan plana que la pregunta siguiente murió antes
 
 Se puso de pie.
 
-—Una cosa más. Si alguien intenta llevar esto a lo penal, sepa que el fiscal del distrito y yo no nos hablamos desde la facultad. A usted eso le conviene más de lo que cree.
+—Una cosa más. Si alguien intenta llevar esto a lo penal, sepa que el fiscal general y yo no nos hablamos desde la facultad. A usted eso le conviene más de lo que cree.
 
 Kal lo anotó. Chiara ya se lo había dicho a su manera.
 

@@ -5,8 +5,12 @@ Protagonistas: Chiara Bellandi, Kal Mercer.
 Ventana temporal: abre la misma noche del primer favor (lunes) y sigue dias/semanas despues, hasta la primera noche que ninguno de los dos llama cita.
 Traslado (2026-09-29, decision del autor): la coda Kal/Nadir que cerraba el Cap. 4 (corralon, Mabel, "El problema llamo", mensaje de Chiara, contacto guardado como Bellandi) abre ahora este capitulo, integra. El 4 queda en POV Chiara completo y cierra con ella mandando el mensaje sin respuesta; aqui el lector descubre que el tampoco lo trato como llamada cualquiera. Este capitulo es el primer POV compartido deliberado del libro.
 Contarse el dia (2026-09-29, aplica canon del autor en 06_Relationships/Kal_y_Chiara "Como se construye la costumbre"; DISENO del agente, pendiente de lectura): registro del capitulo = "estoy aqui contigo y no necesito nada". Dos migajas del banco del Cap. 3, sin tocar dialogo previo: (1) maquina de cafe, Kal ofrece sin que se lo pidan lo del telefono de Walt (paso 1: el cuenta); (2) Il Gelsomino, Chiara recuerda y pregunta por el telefono de Walt; plantas de Nadir y precio de la Coca en resumen narrado (paso 2: ella pregunta aunque no le sirva). Correspondencia de Chiara (paso 3) queda para el 6 en adelante.
-Staging rule 04 (2026-09-29, pedido del autor; DISENO pendiente de lectura): en la llamada de la manana, dos veredictos interiores ("Eso ya era más aceptable", "Otra vez tenía razón") sustituidos por conducta sobre el PDF de la factura, y un beat de cuerpo (gota del cabello, bata) antes de "Eso me deja dependiendo de usted". Dialogo intacto; se conserva "Quiere. No necesita..." como lectura de lenguaje del POV.
-Reunion privada (2026-09-29, progresion CANON DEL AUTOR; prosa DISENO del agente, BORRADOR pendiente de lectura): tras la llamada de la factura, Chiara cita a Kal por mensaje ("Esta noche. A la una. Entrada de carga." / "¿Quienes?" / "Yo." / "La una es la una", eco de "Nueve es nueve"). Despues de la apertura privada, en la sala privada vacia (cabecera en sombra, se sientan los dos), retoman la propuesta de treinta dias del Cap. 2 que la mesa rechazo. Kal quiere el Monarch en su factura como referencia para crecer en la costa, no ser "la grua del casino"; Chiara quiere a alguien que lea la ciudad. Beat de simbiosis: Kal detecta el cuello de botella de valet del torneo de poker y, en vez de cobrarlo, da la solucion que no lo necesita (lote de la naviera); Chiara corrige su fijo mensual (contrato -> junta -> Tommaso) por tarifa por acto bajo su firma. Pacto: treinta dias, por acto, factura ensenable, sin contrato; el coche del sorteo "todavia" no. Cierra con Chiara habiendo obtenido lo que buscaba en el 2 ("ya lo obtuve") y la silla de el sin acomodar. Siembra: el carrito con la rueda que chilla. Regla staging 04 aplicada el mismo dia: fuera el veredicto "No lo hizo, y el lo sabia" (ademas rompia POV) por conducta (Kal tacha una cifra en la palma), fuera "Era plan.", tag en "Las condiciones del domingo siguen" y beat de mesas plegables antes del sorteo. La sociedad precede al romance: Chiara lo elige porque funciona. No declara objetivo compartido (eso sigue siendo H6).
+Staging rule 04 (2026-09-29, pedido del autor; DISENO pendiente de lectura): en la llamada de la manana, dos veredictos interiores ("Eso ya era más aceptable", "Otra vez tenía razón") sustituidos por conducta sobre el PDF de la factura, y un beat de cuerpo (gota del cabello, bata) antes de "Eso me deja dependiendo de usted". Dialogo intacto; se conserva "Quiere. No necesita..." como lectura de lenguaje del POV. Revision 2026-09-30 (autor): fuera el veredicto residual "La precisión le acomodó algo".
+Reunion privada (reescrita 2026-09-30 sobre idea del autor, NO canon duro; prosa DISENO del agente, BORRADOR pendiente de lectura; sustituye la version del 2026-09-29, que el autor rechazo por ritmo y falta de quimica). Cita por mensaje para la noche siguiente a la apertura ("Manana. A la una. Bar del lobby." / "La una es la una"). POV Chiara. Kal de negro (traje, camisa, corbata) con lentes cafe polarizados, espera en el bar y la ve primero; saludo de mano como la primera vez; "Senor Mercer. Por aqui, por favor"; elevador privado al despacho (sala privada de Matteo, Cap. 2): su dia ("movido, manejable"), la apertura ("una copa", "No me gusta el juego", Walt jugo poker). Despacho: Kal elogia la cava; "esta mesa": Matteo de acuerdo, los demas ven prestacion de servicios. Kal llevo a Walt a la apertura (decision del autor) y lo espero en el estacionamiento; Chiara hablo con Walt en la caja, no en el torneo (el primer torneo sigue siendo el Cap. 11, ajustado), y Walt lo llamo "buscavidas, pero honesto" (canon del autor; ella lo entrega en dos tiempos: "buscavidas" -> "Viejo cabron" -> "Pero honesto"); cuentas claras / plan maestro / "el dinero, por lo que abre"; clientes dificiles, "Le importaria mancharse las manos?". Se conservan los anclajes canon: treinta dias, valet del primer torneo resuelto sin cobrar (naviera; cuarenta jugadores, alineado con las cuatro mesas del Cap. 11), por acto bajo su firma ("me va a cobrar aburrido"). Fuera: Matteo/porque llamo ella, discurso de ambiciones, "condiciones del domingo", "si funciona", coche del sorteo, carrito como siembra. Continuidad: en la maquina de cafe, "Quien le dijo? / Matteo habla demasiado" pasa a "Lo vio una noche. / Por eso pregunto." (ella ya conocio a Walt).
+Llegada a la cena (2026-09-30, idea del autor; prosa DISENO, pendiente de lectura): Kal espera en la entrada principal con la camioneta; en cuclillas le pide a Rocco que ayude a "aparentar que no somos barrio" (canon del autor en sustancia). Chiara sale con Katherine Rowe (fiscal de distrito) y Edward Connors (fiscal general del estado, 62+, barba y cabello blancos; canon del autor) y presenta a Kal como proveedor. La pata se hace frente a ellos; Rocco le planta la pata a Connors en el zapato; "Funciona mejor con tortilla" delata el barrio. Rowe se despide apretandole el biceps a traves del traje: "Es un placer, senor Mercer" (canon del autor); Kal no lee el coqueteo. En la cena, Chiara explica que se acerco a ellos porque jugaban baccarat en su casino: "Al enemigo hay que tenerlo cerca" (canon del autor). Kal ahora va de traje oscuro. Siembra Hoover (2026-09-30, idea del autor): en la cena Kal cuenta el rumor de que Hoover, su socio del lote, se reunio con la mesa directiva del Monarch a sus espaldas (lo vio Omar; el guardia dijo a que piso subio); Chiara no fue invitada y tambien lo encontro extrano; "Estoy impresionada. No pense que usted tuviera ojos en todos lados" (canon del autor). Prepara la salida de Kal del trato (Cap. 23) y a Tommaso como testigo de Hoover; no se nombra quien estuvo en la reunion.
+Il Gelsomino (2026-10-01, idea del autor; prosa DISENO, pendiente de lectura): temporada de Halloween (canon del autor; fija la primera cena a fines de octubre). Calabazas talladas, telaranas en la buganvilia, esqueleto con delantal y bigote; Chiara: "¿Un restaurante italiano que celebra Halloween?" y la linea de los muertos de Palermo el 2 de noviembre (DISENO). Enzo se hace el mesero de alcurnia (voz fingida, servilleta al brazo) para ayudar a Kal a aparentar: "¿Quiere que le ofrezca vino, senor?" / "No. Solo trae agua." / "¿...el agua de manantial que viene de los arcos de Italia?" / "Si. Esa agua esta bien." (canon del autor). Especialidad: pizza de calabaza de Halloween, no de la verde (canon del autor); la piden pasta, Claudio la manda igual ("Sabe a octubre"). Chiste recurrente: se cobra en el Cap. 6. El vino del resumen paso a la escena de Enzo.
+Cirugia editorial 2026-10-01 (autorizada por el autor; AUDIT previo en sesion): fuera dos prolepsis de narrador en la llegada ("lo primero que Kal le admiro esa noche"; "su primera forma de pagarle bien", que ademas saltaba al POV de Chiara); gesto de la copa en la cena reducido de siete a tres; tic de taparse la boca reducido (nudillo y copa fuera; quedan vaso de la maquina de cafe y servilleta con Enzo); POV de Enzo convertido en inferencia de Kal; glosas fuera ("Sabia que faltaba algo", "Chiara entendio que ese era el precio", "supo en cuanto lo dijo... barrio"); un simil y un objeto-que-responde (esqueleto) fuera; "termino Chiara" -> "dijo Chiara". Bit nuevo al pagar (canon del autor): Enzo "Que bonita pareja hacen los dos"; silencio y miradas fijas; "Perdone por eso"; "¿Cuanto les pago?"; Rocco ladra dos veces; "No digas que si"; Chiara se rie sin taparse la boca.
+Siembra empresa de seguridad (2026-10-01, canon del autor): tras lo de Hoover, Kal enumera sus negocios (lote, taller, gruas) y menciona que piensa abrir una empresa de seguridad legitima; le ofrece seguridad al casino si la concreta. Nace el chiste recurrente de los negocios: "Siempre con los negocios bajo la manga, ¿eh? No pierde un momento" / "Soy culpable por quitarle un poco de trabajo de encima" / "Yo creo que hasta deberia estar agradecida" (eco de "plan maestro bajo la manga" de la reunion). Sin canon previo sobre la empresa de seguridad: PENDIENTE nombre, cuando se concreta y relacion con El Patio.
 Lugares: The Monarch Casino & Hotel, La Almendra, centro de San Aurelio, Il Gelsomino.
 Funcion: convertir el favor en cadena, mostrar a Kal como telefono recurrente y a Chiara aprendiendo a dirigir informacion; ejecutar H2-a, la primera cena que ninguno llama cita.
 Nota de fusion (2026-09-10, BLOQUE 2 de PLAN_CIRUGIA_EDITORIAL_PARTE_I): capitulo resultante de fusionar los antiguos Capitulo 5 (La casa no quiere ruido) y Capitulo 6 (Una amiga). El titulo visible pasa a ser "Una amiga"; el archivo (antes 05_La_Casa_No_Quiere_Ruido.md) se normalizo a 05_Una_Amiga.md el 2026-09-29, con enlaces vivos actualizados. El antiguo stub Nota_Una_Amiga_Fusionada.md se retiro el 2026-09-29, tras el renombrado. La renumeracion global posterior ya fue completada en cascada.
@@ -138,8 +142,6 @@ Chiara sonrió sin querer.
 
 —Si vuelve como cliente, lo deja entrar una persona que quiera tener un problema. Si vuelve como amenaza, se le quita público. Si vuelve con abogado, se le contesta con papel. Si vuelve con amigos, entonces no era un cliente.
 
-La precisión le acomodó algo.
-
 —¿Y si vuelve con Dario?
 
 Esta vez Kal tardó en contestar.
@@ -196,7 +198,7 @@ Un teléfono no tenía precio. Tenía costumbre, y la costumbre era la forma má
 
 Escribió:
 
-**Esta noche. A la una. Entrada de carga.**
+**Mañana. A la una. Bar del lobby.**
 
 La respuesta tardó cuatro minutos.
 
@@ -210,125 +212,159 @@ Esta vez no tardó.
 
 ***
 
-La apertura privada terminó a las doce y cuarenta, con el último invitado de Los Ángeles convencido de que el Monarch había existido siempre.
+La noche siguiente a la apertura, el Monarch ya no practicaba su manera de mirar. La ejercía.
 
-Chiara no subió al penthouse. Bajó por el elevador de servicio con los tacones todavía puestos y el cuello cansado de sonreír, y esperó en el muelle de carga, junto a la puerta donde la noche anterior había firmado en una tabla ajena. Adentro, alguien arrastraba mesas plegables. Afuera, Terminal Road estaba vacía hasta el puerto.
+A la una menos cinco el piso de juego seguía lleno: ruletas, fichas, el murmullo de doscientas personas convencidas de que la próxima mano les debía algo. Chiara bajó por la escalera del mezzanine, con una carpeta bajo el brazo, y no por el elevador. Desde la escalera se veía el bar antes de que el bar la viera a ella.
 
-A la una en punto entró una camioneta blanca con el logo de Almendra Towing medio despintado en la puerta. No la grúa. No el Peugeot.
+Kal ya estaba ahí.
 
-Kal bajó con la misma chamarra oscura. Sin traje. Sin tenis blancos.
+Traje negro, camisa negra, corbata negra. Nada de color en todo el cuerpo salvo el pelo y la línea clara de la cicatriz. Llevaba lentes de cristal café, polarizados, que de lejos parecían oscuros y de cerca no del todo. Estaba sentado de espaldas a la barra, con un vaso de agua mineral intacto junto al codo, de frente al salón, como si las botellas no le interesaran y la gente sí.
 
-—La una es la una —dijo ella.
+Chiara iba a la mitad de la escalera cuando él levantó el vaso, apenas, en su dirección.
 
-—Usted la puso.
+La había visto primero. Los lentes servían para eso.
 
-Lo llevó por el pasillo de servicio, no por el lobby. Él caminó medio paso atrás, como el domingo, y como el domingo contó puertas. Al pasar junto al arreglo floral del pasillo, miró de reojo la puerta mal puesta. No dijo nada. Ella tampoco.
+Bajó el resto de los escalones sin apurarse, para que no pareciera que había perdido algo.
 
-La sala privada tenía las sillas donde las habían dejado los socios. Chiara no encendió la luz grande; sólo la lámpara del aparador, que dejaba la cabecera en sombra. No se sentó ahí. Se sentó a un costado y le señaló la silla de enfrente.
+Kal se puso de pie cuando ella llegó al bar. Ella le tendió la mano igual que la primera vez, y él la tomó igual: firme, seca, sin quedarse.
 
-Esta vez se sentaron los dos.
+—Señor Mercer. Por aquí, por favor.
 
-—Quiero volver a hablar de su propuesta.
+Lo llevó por detrás de la caja, hasta el panel sin picaporte. El elevador privado subía al despacho sin pasar por ningún pasillo. Kal miró el panel como quien mira un truco de magia del que ya vio el cable.
 
-—Hice tres.
+—¿Qué tal le fue hoy? —preguntó ella cuando se cerraron las puertas.
 
-—La de los treinta días.
+—Movido.
 
-—Ésa la rechazaron.
+—¿Y?
 
-—La rechazó una mesa.
+—Manejable.
 
-Kal miró las sillas vacías, una por una, y volvió a ella.
+Chiara miró los números encenderse.
 
-—Anoche no le pregunté por qué llamaba usted y no Matteo.
+—¿Al final pasó por la apertura?
 
-—Me di cuenta.
+—Una copa.
 
-—Ya no hace falta.
+—¿Sólo una?
 
-—¿No?
+—No me encontré.
 
-—Matteo quería que alguien quitara el coche. Usted quería saber si yo podía.
+Ella esperó. Él se acomodó los lentes con un dedo.
 
-Chiara no lo negó. Negarlo habría sido perder tiempo con alguien que no lo perdía.
+—No me gusta el juego.
 
-—¿Y eso le molesta?
+—Está en un casino, señor Mercer.
 
-—Me dice con quién estoy hablando. —Apoyó los antebrazos en la mesa—. Con alguien que firma en el cuadro correcto sin preguntar si puede.
+—Por eso fue una. —Las puertas se abrieron—. Mi amigo Walt sí jugó. Un par de manos de poker.
 
-—Firmé una autorización de remolque.
+—¿Y ganó?
 
-—Contra lo que dijo su mesa el domingo.
+—Dice que sí.
 
-—La mesa no estaba en el estacionamiento.
+Chiara no contestó. Salió primero.
 
-Kal casi sonrió. No terminó de hacerlo.
+El despacho estaba en penumbra, sólo con la lámpara del aparador encendida. Abajo, a través del ventanal, el piso de juego hacía lo que días antes apenas ensayaba: perder dinero bajo luces que no dejaban saber qué hora era. Kal no se acercó al vidrio. Fue a la cava, pasó el pulgar por la junta entre dos tablones y lo dejó ahí un segundo.
 
-—Entonces dígame qué quiere, señora Bellandi.
+—Esto lo niveló alguien a mano.
 
-—Usted primero. No lo que ofreció el domingo. Lo que quiere.
+—¿Es un cumplido?
 
-Él tardó en contestar. Afuera pasó un carrito de servicio con una rueda que chillaba.
+—Es lo mejor que tiene el edificio. Lo único que no intenta parecer otra cosa.
 
-—No quiero ser la grúa de su casino.
+—Lo escogió Matteo.
 
-—Llegó en una.
+—Matteo tiene mejor gusto del que deja ver.
 
-—Llegué en lo que servía. —Se echó atrás en la silla—. Quiero que cuando alguien del Distrito Marino pregunte quién le mueve los coches al Monarch, le digan Almendra. Los hoteles de la costa no leen anuncios. Leen facturas de otros hoteles.
+Chiara se sentó a un costado de la mesa, no en la cabecera. Kal no se sentó todavía. Apoyó dos dedos sobre la madera, donde la otra noche habían estado las carpetas de los socios.
 
-—Quiere mi edificio en su lista de clientes.
+—¿Ha pensado algo acerca de lo que se planteó en esta mesa?
 
-—Quiero su edificio en mi factura. El resto lo consigo yo.
+—Matteo está de acuerdo.
 
-Chiara lo registró sin moverse. *Mi nombre va en la factura.*
+—Matteo me trajo.
 
-—¿Y usted? —dijo él.
+—Los demás no ven un contrato largo. Ven prestación de servicios.
 
-—Tengo un casino, un hotel, cuatro socios y una ciudad que todavía no sé leer. —Lo dijo como se dice un saldo—. Balances sí. Calles no.
+—Una grúa con factura.
 
-—Por eso preguntó el porcentaje.
+—Con buena factura.
 
-—Por eso lo llamé anoche.
+Kal no discutió. Se sentó.
 
-Kal no hizo comentario. Señaló con la barbilla la carpeta que ella había dejado junto a la lámpara.
+Chiara dejó pasar un segundo más de lo cómodo.
 
-—¿Qué viene?
+—Hablé con su amigo.
 
-Chiara dudó un segundo. Luego la abrió.
+Él no se movió, pero algo se detuvo.
 
-—Un torneo de poker. El primero en tres semanas. Ciento veinte jugadores, la mitad de fuera.
+—¿Con Walt?
 
-—¿Dónde estacionan?
+—En la caja, cambiando fichas. Usted lo esperaba en el estacionamiento; llevaba cuarenta minutos ahí. —No esperó a que él preguntara cómo lo sabía—. Le pregunté si había ganado. Me dijo que eso no se le pregunta a un caballero. Le pregunté cómo había llegado al Monarch y me dijo que de copiloto.
 
-—Valet.
+—¿Cuánto cambió?
 
-—¿Cuántos cajones tiene valet?
+—Ciento cuarenta dólares.
 
-—Ciento ochenta.
+—Para Walt, eso es ganar.
 
-—Un viernes normal ocupa ciento cuarenta. Lo vi el domingo y lo vi anoche. —Tocó la mesa con un dedo, una vez—. Súmele ciento veinte jugadores que no vienen solos. A las once, la fila le llega a Terminal Road. A las doce, alguien se estaciona en la línea amarilla. Y su torneo sale en la foto como una hilera de Mercedes con el letrero de su casino atrás y un Varga en cada uno.
+Chiara se permitió la pausa.
 
-Chiara no contestó. Hizo la cuenta, y la cuenta le dio lo mismo que a él.
+—Me habló bien de usted.
 
-Esperó el precio. Era el momento exacto para ponerlo: ella acababa de enseñarle dónde iba a necesitarlo.
+—¿Qué tan bien?
 
-—La naviera de enfrente tiene un lote vacío después de las seis —dijo Kal—. Réntelo esas noches. Dos camionetas de ida y vuelta, con chofer que sepa sonreír. Si nadie se estaciona mal, no necesita grúa.
+—Dijo que era un buscavidas.
 
-Chiara lo miró.
+Por un segundo, el hombre que contaba las puertas de cada edificio que pisaba no supo qué hacer con la cara. Luego algo se le aflojó en la boca, debajo de los lentes, como si estuviera oyendo la voz exacta con que Walt lo había dicho.
 
-—Acaba de quitarse trabajo.
+—Viejo cabrón —dijo, en voz baja.
 
-—Si su torneo sale mal, su edificio ya no le sirve a mi factura.
+—Pero honesto —dijo Chiara.
 
-Ella bajó la vista a la hoja. Tachó la cifra de valet que había dado por buena y escribió *naviera* en el margen. Tardó más de lo necesario en cerrar la pluma.
+Eso le costó más trabajo que lo primero. Kal bajó la vista a la mesa.
 
-Luego levantó la vista.
+—¿Alguna de las dos es mentira? —preguntó ella.
 
-—Su fijo mensual no pasa.
+—Es Walt.
 
-—¿Por qué?
+Chiara dejó que la risa pasara de largo antes de seguir.
 
-—Porque un fijo mensual es contrato. Un contrato va a junta. Y la junta es el señor Lusardi. —Cerró la carpeta—. Cobre por acto. Por debajo de cierta cifra, firmo yo sola, y nadie lee lo que firmo sola si es aburrido.
+—En cuestión de negocios —dijo— quiero tener las cuentas claras sobre la mesa.
+
+—¿Me está preguntando si tengo una especie de plan maestro bajo la manga?
+
+—Le pregunto qué lo mueve.
+
+Kal se quitó los lentes. Los dobló sin prisa y los dejó junto a su mano, con las patillas hacia ella. Sin el cristal café, los ojos eran más claros de lo que recordaba, y más cansados.
+
+—El dinero.
+
+Lo dijo sin adorno, y se quedó callado lo suficiente para que ella creyera que era todo.
+
+—No por tenerlo —siguió—. Por lo que abre. A mí, y a cualquiera que lo sepa mover.
+
+Desde que había llegado a San Aurelio, Chiara había oído a varios hombres en esa sala hablar de visión, de familia, de la ciudad. Ninguno le había puesto número a lo que quería.
+
+—Llegamos a tener problemas con clientes difíciles —dijo.
+
+—Varga.
+
+—Varga hizo ruido. Los que me preocupan no lo hacen. —Apoyó las manos sobre la mesa—. Y siento que usted podría ser el hombre que los administre. Que los encamine por donde tienen que ir.
+
+Él esperó.
+
+—¿Le importaría mancharse las manos?
+
+Kal se miró las manos. Esa noche no tenían grasa; alguien las había tallado con cepillo hasta debajo de las uñas.
+
+—Me las mancho desde los catorce, señora Bellandi.
+
+—No hablo de aceite.
+
+—Yo tampoco. —Volvió a mirarla—. Lo que no hago es mancharme por alguien que luego no quiere que se le vean las mías.
+
+—Prestación de servicios —dijo Chiara—. Por acto. Por debajo de cierta cifra firmo yo sola, y nadie lee lo que firmo sola si es aburrido. Su nombre en mi factura. El mío debajo.
 
 —¿Cuál cifra?
 
@@ -338,47 +374,49 @@ Luego levantó la vista.
 
 —No. Me va a cobrar aburrido.
 
-Kal se quedó quieto. La miró como la había mirado el domingo cuando ella preguntó el porcentaje. Luego sacó una pluma del bolsillo de la chamarra, tachó algo en la palma de la mano izquierda —una cifra que ella no alcanzó a ver— y la guardó.
+Kal casi sonrió.
 
-—Treinta días —dijo Chiara—. Por acto. Factura enseñable. Sin contrato.
+Chiara abrió la carpeta.
 
-—Las condiciones del domingo siguen —dijo él.
+—Primer cliente difícil. Un torneo de poker, el primero. Cuarenta jugadores, la mitad de fuera.
 
-—Las puso usted.
+—Ése no es un cliente.
 
-—Por eso siguen.
+—¿Entonces?
 
-—¿Y si funciona?
+—Es una fila. ¿Cuántos cajones tiene valet?
 
-—Si funciona, un día alguien del Distrito Marino va a preguntar quién le mueve los coches al Monarch.
+—Ciento ochenta.
 
-Kal asintió una vez.
+—Un viernes normal ocupa ciento cuarenta. Súmele cuarenta jugadores que no vienen solos y a la gente que viene a verlos perder. A las once, la fila le llega a Terminal Road. A las doce, alguien se estaciona en la línea amarilla, y su torneo sale en la foto con un Varga en cada coche.
 
-Del otro lado de la pared, alguien plegó la última mesa de la apertura y la dejó caer contra las demás. El golpe de metal recorrió el pasillo y se apagó. Chiara empujó la carpeta cerrada hacia el borde de la mesa.
+Chiara hizo la cuenta. Le dio lo mismo que a él. Destapó la pluma para anotar el precio.
 
-—¿Y el coche del sorteo?
+—La naviera de enfrente tiene un lote vacío después de las seis —dijo Kal—. Réntelo esas noches. Dos camionetas de ida y vuelta, con choferes que sepan sonreír. Si nadie se estaciona mal, no necesita grúa.
 
-—El coche no.
+La pluma se quedó quieta sobre la hoja.
 
-—¿Por qué?
+—Acaba de quitarse trabajo.
 
-—Porque se vería.
+—Si su torneo sale mal, mi nombre en su factura no vale nada.
 
-—Todavía.
+Ella tachó la cifra de valet y escribió *naviera* en el margen. Tardó más de lo necesario en tapar la pluma.
 
-Chiara no lo corrigió.
+—Treinta días —dijo.
 
-Él se levantó primero y le tendió la mano por encima de la mesa. Ella la tomó. Esta vez ninguno la retuvo un segundo de más. No había nada que medir.
+—Treinta días.
+
+Él se levantó primero, guardó los lentes en el bolsillo interior sin ponérselos y le tendió la mano por encima de la mesa. Esta vez fue ella quien tardó en soltarla. Medio segundo. Ninguno de los dos lo mencionó.
 
 —Conozco la salida —dijo Kal.
 
-—La contó el domingo.
+—Ya la contó.
 
-—Y anoche.
+—Dos veces.
 
-Se fue sin que ella lo acompañara. Chiara oyó sus pasos en el pasillo de servicio hasta que dejaron de oírse.
+Se fue sin que ella lo acompañara.
 
-Se quedó en la sala. Tenía lo que había ido a buscar el domingo cuando preguntó el porcentaje. Treinta días, un proveedor que leía calles y una cifra que nadie iba a leer.
+El domingo había pensado que quizá podía obtener algo de ese hombre. Ya no era quizá.
 
 Apagó la lámpara.
 
@@ -572,13 +610,9 @@ Chiara lo miró mejor. Tenía grasa en la orilla de una uña, una marca roja en 
 
 Kal levantó la vista.
 
-—¿Quién le dijo?
+—Lo vio una noche.
 
-—Matteo habla demasiado.
-
-—Eso sí.
-
-—¿Cómo está?
+—Por eso pregunto.
 
 Kal miró el café.
 
@@ -876,7 +910,7 @@ No para impresionar.
 
 Eso se dijo.
 
-Luego se puso una camisa limpia, saco oscuro, zapatos que no eran tenis y una fragancia que Nadir olió desde la cocina de la casa común.
+Luego se puso un traje oscuro, camisa limpia, zapatos que no eran tenis y una fragancia que Nadir olió desde la cocina de la casa común.
 
 Danny apareció detrás de él con Rocco, que llevaba un pañuelo rojo en el cuello y la dignidad confusa de un animal al que nadie le pidió opinión.
 
@@ -902,51 +936,89 @@ Kal se sorprendió.
 
 ***
 
-Chiara bajó por la entrada lateral del Monarch a las ocho y dos.
+Kal estacionó la camioneta frente a la entrada principal del Monarch a las ocho menos diez, en el carril del valet, y le enseñó al muchacho de chaleco una mano abierta antes de que el muchacho pudiera abrir la boca.
+
+Rocco bajó detrás de él de un salto y se quedó sentado en la banqueta, con el pañuelo rojo torcido.
+
+Kal se puso en cuclillas frente al perro y se lo acomodó.
+
+—Escucha. —Rocco le olió la corbata—. Ella es una mujer muy elegante. De alta sociedad. Yo vengo de traje y tú vienes limpio. Impecable. Danny te bañó dos veces.
+
+Rocco bostezó.
+
+—Así que esfuérzate. Por favor. Que parezca que estamos en una posición decente y que no somos plebe. —Le enderezó el nudo del pañuelo con dos dedos—. Sí, somos barrio. Ya sé. Pero ayúdame a aparentar que no.
+
+Rocco le lamió la muñeca, justo en el puño de la camisa.
+
+—Eso es exactamente lo contrario.
+
+El valet, a dos metros, encontró algo muy interesante en su libreta.
+
+Las puertas giratorias se movieron a las ocho y dos.
+
+Chiara no salió sola.
 
 No venía de rojo. Esa noche llevaba negro, líneas limpias, tacones que podían correr si hacía falta y un abrigo ligero sobre los hombros. El cabello suelto cambiaba la forma de su cara. La volvía menos administrativa, no menos peligrosa.
 
-Kal bajó de la camioneta antes de que el valet pudiera preguntar nada.
+A su izquierda caminaba una mujer de cincuenta y tantos, traje gris perla, el pelo corto y canoso de alguien que hacía años había decidido no gastar mañanas en teñírselo. A su derecha, un hombre de sesenta y tantos, barba y cabello blancos, abrigo de lana y la sonrisa de las fotos oficiales puesta incluso para el valet.
 
-Rocco saltó después y casi se llevó la correa entre las patas.
+Kal los reconoció a los dos antes de terminar de entender en qué se había metido. A ella la había visto en los noticieros de Plaza Corona, detrás de un atril con el escudo del condado: Katherine Rowe, fiscal de distrito. A él, en espectaculares de una campaña que nadie se había tomado la molestia de quitar: Edward Connors, fiscal general del estado.
 
-Chiara se detuvo.
+Se puso de pie despacio. Rocco no.
 
-—¿Trajo un perro?
+Chiara los vio a los dos, a él y al perro, y no cambió el paso.
 
-—No es mío.
+—Señor Mercer. —Se volvió hacia sus acompañantes—. Katherine, Edward: Kal Mercer, de Almendra Towing. Nos mueve los coches que nadie más quiere mover.
 
-—Eso no responde por qué está aquí.
+—Y los perros, por lo visto —dijo Connors.
+
+—Ése no es mío.
+
+—Eso no responde por qué está aquí —dijo Chiara.
 
 Kal miró a Rocco.
 
 —Quería saludar.
 
-Chiara levantó una ceja.
+Rowe le levantó una ceja a Chiara. Chiara se la levantó a Kal.
 
 —¿El perro?
 
 —Sí.
 
-Kal se agachó junto a Rocco.
+Ya era tarde para cualquier otro plan. Kal se agachó junto a Rocco.
 
 —Pata.
 
-Rocco se sentó, miró a Chiara, miró a Kal y levantó la pata con una solemnidad que no merecía la escena.
+Rocco se sentó, miró a Chiara, miró a Kal, miró al fiscal general del estado y levantó la pata con una solemnidad que no merecía la escena.
 
 Chiara se quedó quieta.
 
-Luego le tomó la pata al perro.
+Luego se inclinó, con abrigo y todo, y le tomó la pata al perro.
 
 —Buonasera, signore.
 
-Rocco movió la cola.
+Rocco movió la cola. Después, sin que nadie se lo pidiera, se volvió hacia Connors y le plantó la pata en el zapato. El zapato era de piel color tabaco. La pata venía del patio.
 
-Kal se puso de pie como si aquello no hubiera sido lo más importante que había hecho en todo el día.
+Connors miró la huella.
 
-—Funciona mejor con tortilla.
+—Encantador.
 
-Chiara miró al perro, luego a él.
+—Funciona mejor con tortilla —dijo Kal, porque algo había que decir.
+
+Rowe se rió. Fue una risa corta y seca, de pasillo de juzgado, y no la escondió.
+
+Un sedán oscuro se detuvo detrás de la camioneta. Rowe besó a Chiara en la mejilla y después se volvió hacia Kal. No le dio la mano. Le apretó el brazo, arriba, por encima del codo, a través de la tela del traje, y no lo soltó enseguida.
+
+—Es un placer, señor Mercer.
+
+—Señora fiscal.
+
+Lo apretó como quien revisa si una llanta tiene aire, pensó Kal. No supo para qué.
+
+Connors se despidió con un gesto de cabeza y, ya junto al sedán, frotó el zapato contra el borde de la banqueta, como si nadie lo estuviera viendo.
+
+El coche se fue. Chiara se quedó mirándolo hasta que dio vuelta en la esquina, y sólo entonces se volvió hacia el perro, y luego hacia él.
 
 —¿Cuánto tiempo le tomó?
 
@@ -958,7 +1030,7 @@ No contestó.
 
 Ella lo entendió.
 
-No dijo nada más, y ésa fue su primera forma de pagarle bien: no ponerle luz encima al gesto.
+No dijo nada más.
 
 ***
 
@@ -968,7 +1040,23 @@ O eso decía Enzo.
 
 En realidad, la terraza nunca cerraba del todo. Había una mesa ocupada en el interior por dos señoras que llevaban media hora discutiendo si el tiramisú era mejor antes. Un cocinero fumaba cerca de la puerta trasera. Claudio, el dueño, apareció lo suficiente para besarle la mano a Chiara y abrazar a Kal con la cautela de quien abraza a un cliente que también sabe dónde se guardan los cuchillos.
 
-Pero arriba, entre macetas de romero, buganvilia y luces pequeñas, la mesa era de ellos.
+En la escalera de la terraza, Chiara se detuvo.
+
+Había una calabaza en cada escalón. Naranjas, talladas con cuchillo de cocina, con una vela adentro y caras hechas con más entusiasmo que talento. En la baranda, telarañas de algodón enredadas en la buganvilia. En el descanso, un esqueleto de plástico con delantal blanco y bigote pintado con plumón sostenía una botella de Chianti vacía.
+
+—¿Un restaurante italiano que celebra Halloween?
+
+—Claudio celebra lo que deja propina.
+
+Chiara miró al esqueleto.
+
+—En Palermo los muertos les traen dulces a los niños el dos de noviembre —dijo—. Aquí les pintan bigote.
+
+—¿Y qué es peor?
+
+—Todavía no lo decido.
+
+Arriba, entre macetas de romero, buganvilia, calabazas encendidas y luces pequeñas, la mesa era de ellos.
 
 No había músicos tristes.
 
@@ -1014,7 +1102,63 @@ Kal no había previsto que ella recogiera la palabra.
 
 Ella soltó una risa más clara.
 
-Kal abrió el menú aunque ya sabía lo que Enzo iba a recomendar y lo que Claudio iba a mandar de todos modos. La noche avanzó por cosas pequeñas: pan, aceite de oliva, pasta, vino que ella eligió después de olerlo y no aprobarlo del todo, una discusión sobre si San Aurelio sabía hacer café, otra sobre por qué los estadounidenses creían que poner pollo encima de cualquier cosa la volvía italiana.
+Enzo subió la escalera como si la hubiera alfombrado él.
+
+Kal lo conocía de cocina: mandil manchado, trapo al hombro, la boca llena de opiniones sobre el espresso. Esa noche traía chaleco negro, una servilleta blanca doblada sobre el antebrazo, el pelo peinado con algo que brillaba y una postura que Kal no le había visto nunca. Se detuvo junto a la mesa a la distancia exacta de un mesero con treinta años en Milán.
+
+—Buonasera, signora. —Una inclinación de cabeza para ella. Otra, más honda, para él—. Señor Mercer. Siempre un honor.
+
+La voz no era la suya. Era más grave, más lenta, y traía unas erres que en la cocina no tenía.
+
+Kal lo miró. Enzo no le devolvió la mirada; tenía los ojos puestos en un punto noble del horizonte. Kal entendió: Enzo había visto la camioneta, el traje y el perro con pañuelo, y había decidido ayudarlo a esconder lo que fuera de la peor manera posible.
+
+—¿Quiere que le ofrezca vino, señor?
+
+—No. Sólo trae agua.
+
+—Claro, signore. —Enzo inclinó la cabeza un grado más—. ¿Quiere que le traiga el agua de manantial que viene de los arcos de Italia?
+
+Kal aguantó medio segundo. No le alcanzó. La risa se le escapó por la nariz y miró a Enzo de lado, con todo el sarcasmo que le cabía en la cara.
+
+—Sí. Esa agua está bien.
+
+—Eccellente scelta.
+
+Chiara se llevó la servilleta a la boca, muy despacio, como si se estuviera limpiando algo que no estaba ahí.
+
+Enzo se volvió hacia ella con la carta de vinos abierta sobre la palma. Le recomendó un Nero d'Avola "de la casa de un primo" y un Barolo que costaba lo mismo que una transmisión. Ella olió el primero, no lo aprobó del todo y lo pidió de todos modos. Enzo lo celebró como si lo hubiera elegido el Papa.
+
+—Y esta noche, signora, la especialidad de la casa. —Hizo una pausa que quería ser solemne—. Pizza de calabaza.
+
+—¿Calabaza?
+
+—No de la verde, signora. —Señaló con la servilleta la calabaza de la baranda, la que tenía un solo diente y la vela torcida—. De ésa.
+
+Chiara miró la calabaza. La calabaza la miró a ella, con su diente.
+
+—¿De ésa?
+
+—De su prima. Ésa es decoración.
+
+—Pasta —dijo Chiara.
+
+—Pasta —dijo Kal.
+
+Enzo cerró la carta con la dignidad de un hombre al que acaban de rechazarle un poema.
+
+—Como guste la signora. —Y ya de espaldas, con su voz de siempre, sólo para Kal—: Hombre de negocios.
+
+Claudio la mandó de todos modos. Llegó entre el pan y la pasta, cortesía de la casa: naranja, con salvia frita encima y un hilo de miel en el centro. Chiara probó la punta de una rebanada y masticó con la cara con que se escucha una mala propuesta dicha con mucha seguridad.
+
+—Sabe a octubre.
+
+—¿Eso es bueno?
+
+—Es un mes.
+
+Kal se comió el resto. Rocco, debajo de la mesa, se comió la orilla.
+
+La noche avanzó por cosas pequeñas: pan, aceite de oliva, pasta, una discusión sobre si San Aurelio sabía hacer café, otra sobre por qué los estadounidenses creían que poner pollo encima de cualquier cosa la volvía italiana.
 
 A media pasta, ella preguntó por el teléfono de Walt.
 
@@ -1026,9 +1170,97 @@ Kal tardó un segundo en entender que se acordaba.
 
 —Dice que así sabe que sigue afuera.
 
-Le contó también de las plantas de Nadir, que Nadir llamaba medicinales y Héctor llamaba evidencia, y del mediodía en que Walt supo cuánto costaba una Coca y dejó la cuchara como si le hubieran dado una mala noticia. Ella quiso saber qué plantas. Él no le dijo. Ella se rió igual.
+Le contó también de las plantas de Nadir, que Nadir llamaba medicinales y Héctor llamaba evidencia, y del mediodía en que Walt supo cuánto costaba un refresco y dejó la cuchara como si le hubieran dado una mala noticia. Ella quiso saber qué plantas. Él no le dijo. Ella se rió igual.
 
 A ella nada de eso le servía para nada. Lo preguntó igual.
+
+Fue Kal quien sacó a los de la entrada.
+
+—¿Puedo preguntar por sus acompañantes?
+
+—Jugaron baccarat en la mesa seis. Rowe pierde con elegancia. Connors gana y lo cuenta.
+
+—¿Y usted bajó a verlos perder?
+
+—Bajé a conocerlos. —Bebió—. Al enemigo hay que tenerlo cerca.
+
+—¿Son enemigos?
+
+—Todavía no. Por eso. Tengo un casino nuevo en una ciudad donde el jefe de policía amaneció muerto en una banca. Si la fiscalía va a mirar mi edificio, prefiero que lo mire desde una mesa que yo le puse, con una copa que pagué yo.
+
+Kal lo pensó.
+
+—A Connors no le cayó bien Rocco.
+
+—Rocco tiene criterio.
+
+Debajo de la mesa, Rocco movió la cola contra el zapato de Kal sin despertarse.
+
+—A Rowe sí le cayó bien usted —dijo Chiara.
+
+—Me revisó el brazo.
+
+—¿Y?
+
+—No sé qué buscaba.
+
+Chiara miró hacia la calle y tardó en volver.
+
+Kal partió un pedazo de pan y no se lo comió.
+
+—Yo también quería hablar con usted de algo.
+
+—¿Esta noche?
+
+—Por eso esta noche. —Dejó el pan en el plato—. Me llegó un rumor. Mi socio del lote, Hoover, se reunió con la mesa directiva del Monarch.
+
+Chiara no dejó la copa.
+
+—¿Cuándo?
+
+—El jueves. Eso es lo que se me hace raro. Yo le muevo los coches a su casino. Él es dueño del terreno donde vendo los míos. ¿Por qué se reúne su mesa con mi socio a mis espaldas, sin que yo me entere?
+
+—Sin que yo me entere tampoco.
+
+Kal levantó la vista.
+
+—No la invitaron.
+
+—No. —Ahora sí dejó la copa—. A mí también se me hizo extraño. Lo que usted y yo tenemos no pasa por su lote. No hay un papel con el nombre de Hoover en ninguna carpeta mía. No había nada que hablar con él.
+
+—A menos que alguien quiera que lo haya.
+
+—¿Quién se lo dijo?
+
+—Omar vio su coche en el estacionamiento de ejecutivos. Tres horas. El guardia de la caseta le dijo a qué piso subió.
+
+—Estoy impresionada. —Lo dijo despacio, como si apenas lo estuviera midiendo—. No pensé que usted tuviera ojos en todos lados.
+
+—En todos lados no. Nada más donde se estaciona la gente.
+
+—¿Y cuántos lugares son ésos?
+
+Kal los fue contando con los dedos sobre el mantel.
+
+—El lote. El taller. Las grúas. —Se quedó con el cuarto dedo levantado—. Y estoy pensando en una empresa de seguridad.
+
+—¿De seguridad?
+
+—Legítima. Licencia, uniformes, seguro. Gente de la Almendra que ya sabe pararse en una puerta. —Bajó la mano—. Si la concreto, ¿le interesaría? Podría ofrecerle seguridad al casino. De la que se puede enseñar.
+
+Chiara lo miró por encima de la copa.
+
+—Siempre con los negocios bajo la manga, ¿eh? No pierde un momento.
+
+—Claro. Si le interesa.
+
+—Claro que me interesa. Por supuesto que sabe que me interesa.
+
+—Bueno. Soy culpable por quitarle un poco de trabajo de encima.
+
+—Para nada. Yo creo que hasta debería estar agradecida.
+
+Y tomó un sorbo de su copa.
 
 No hablaron de Alessio.
 
@@ -1093,6 +1325,28 @@ Ella sonrió apenas.
 Kal dobló la servilleta.
 
 —No todo.
+
+Enzo trajo la cuenta en una carpeta de cuero, con la servilleta todavía en el antebrazo y la voz todavía prestada. La dejó en medio de la mesa, a la misma distancia de los dos, y no se fue.
+
+—Permítame que se lo mencione —dijo—, pero qué bonita pareja hacen los dos, ¿eh? De verdad. Se los digo con todo respeto.
+
+Ninguno contestó. Los dos lo miraron fijamente, sin parpadear, hasta que Enzo recogió la carpeta con la tarjeta de Kal adentro, inclinó la cabeza y se retiró con la dignidad intacta.
+
+Kal esperó a que bajara la escalera.
+
+—Perdone por eso, ¿eh? Yo no tengo nada que ver.
+
+Chiara sonrió con los ojos cerrados.
+
+—Diga la verdad. ¿Cuánto les pagó?
+
+—Nada. Yo no les he pagado nada. —Kal se agachó hacia debajo de la mesa—. ¿Verdad, Rocco? Yo no te he pagado nada.
+
+Rocco levantó la cabeza y ladró dos veces, con la cola golpeando la pata de la mesa.
+
+—No, no, no. No digas que sí.
+
+Chiara se rió, y esta vez no se tapó la boca.
 
 ***
 

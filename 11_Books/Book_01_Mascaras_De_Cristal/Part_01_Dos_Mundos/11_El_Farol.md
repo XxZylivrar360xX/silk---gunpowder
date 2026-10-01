@@ -1,5 +1,6 @@
 <!--
 Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): fuera la manana de la camiseta (residuo de H2-b, cronologia rota), tuteo corregido, POV de Tommaso, silencio repetido; Fabrizio firma el acta (siembra APROBADA, redaccion DISENO). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_04-13_Lote_A.md.
+Ajuste de continuidad 2026-09-30 (decision del autor, sigue TERMINADO): Chiara ya vio a Walt en la apertura del Cap. 5 (Kal lo llevo de copiloto; Walt le dijo de Kal "buscavidas, pero honesto", canon del autor). Aqui ya le pone cara al nombre de la lista; Walt la reconoce ("Así que usted puso el ámbar"); el cierre pasa a "Tu amigo jugó en mi torneo" / "Esta vez vino sin copiloto" y "Lo has visto dos veces". El primer torneo sigue siendo este; el "honesto" de Mabel funciona ahora como eco.
 Protagonistas: Chiara Bellandi, con apariciones de Mabel Ortiz y Walter "Walt" Keegan.
 Ventana temporal: semanas despues del Capitulo 7 (la noche del ladrillo) -- de por medio ocurrieron H9 (Capitulo 8, la carrera de mascaras) y todo el arco de H12 en los Capitulos 9-10 (el ataque, la casa comun, la recompra y el diseno de la casa de Kal). Chiara ya deja cosas suyas en la casa de el por costumbre, pero conserva el penthouse como base -- no hubo mudanza formal, y esa costumbre no se anuncia en esta escena.
 Lugares: El Penthouse, La Esquina de Mabel (La Almendra), The Monarch Casino & Hotel (piso de juego, torneo de poker).
@@ -20,7 +21,7 @@ No era un nombre de los que solían aparecer en una lista de un torneo de entrad
 
 Chiara sí se lo tomó.
 
-No porque desconfiara del dinero. Porque el apellido le sonaba de algo que no lograba ubicar, y ella no dejaba pasar eso.
+No porque desconfiara del dinero. Porque ya le había puesto cara a ese nombre: el viejo de la caja, la noche de la apertura, que cambiaba fichas con billetes doblados en cuatro y le había dicho de Kal *buscavidas, pero honesto*. Fuera de esa frase no sabía nada de él, y ella no dejaba pasar huecos así.
 
 Podía llamar a Kal y preguntar. Decidió no hacerlo. Si el nombre importaba, prefería llegar a él sola, con la información completa, en vez de pedirla como quien pide un favor.
 
@@ -106,7 +107,7 @@ Fue eso lo que la hizo acercarse. No el dinero — el dinero, esa noche, era el 
 
 Walt levantó la vista sin apurarse.
 
-—Usted debe ser la que puso el ámbar en las luces.
+—Así que usted puso el ámbar en las luces.
 
 —¿No le gusta?
 
@@ -176,17 +177,13 @@ Kal llegó pasada la medianoche con la bolsa de siempre, aunque esa noche ni siq
 
 Chiara se quitó los tacones antes de contestar.
 
-—Conocí a un amigo tuyo.
-
-—¿A cuál?
-
-—Walter Keegan.
+—Tu amigo jugó en mi torneo.
 
 Kal se detuvo a medio camino de dejar la bolsa sobre la mesa.
 
-—Walt estuvo aquí.
+—¿Walt?
 
-—Jugó. Ganó más de lo que perdió. —Se sentó, con los pies descalzos sobre el sofá frío—. Fui a preguntar por él a la Almendra antes de dejarlo sentarse a mi mesa.
+—Esta vez vino sin copiloto. Ganó más de lo que perdió. —Se sentó, con los pies descalzos sobre el sofá frío—. Fui a preguntar por él a la Almendra antes de dejarlo sentarse a mi mesa.
 
 —¿Y qué le dijeron?
 
@@ -202,9 +199,9 @@ Algo en la cara de Kal se aflojó, apenas, de una manera que Chiara ya empezaba 
 
 Kal la miró un momento largo.
 
-—Ni siquiera lo conocías hace seis horas.
+—Lo has visto dos veces.
 
-—No necesitaba conocerlo. —Chiara cerró los ojos, dejando que el cansancio de la noche le pesara por fin en los hombros—. Necesitaba a alguien que lo conociera de verdad. El resto lo vi yo misma.
+—No necesitaba verlo más. —Chiara cerró los ojos, dejando que el cansancio de la noche le pesara por fin en los hombros—. Necesitaba a alguien que lo conociera de verdad. El resto lo vi yo misma.
 
 Se tocó el anular izquierdo sin darse cuenta. No era el torneo. Era la manera en que Walt la había mirado, como si llevara reconociéndola desde antes de conocerla.
 
