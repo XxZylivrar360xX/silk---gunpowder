@@ -286,6 +286,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 # Referencia externa
 
 - [[99_Reference/README]] — qué se heredó de la fuente de inspiración y qué no. **Nada de `99_Reference/` es canon.**
+- [[99_Reference/Conversacion_Kyle_Giulia_Regreso]] — transcripción de la conversación de la fuente usada como estructura del Cap. 28 (no canon).
 - [[99_Reference/character_art/README]] — catálogo visual: nueve imágenes nuevas integradas como DISEÑO en las fichas de Kal, Chiara, Héctor, Walt, Marisol, Danny y Nadir (2026-09-11). Incluye usos conceptuales y discrepancias con canon.
 
 ---

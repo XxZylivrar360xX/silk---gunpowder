@@ -42,7 +42,7 @@ Kal no tranquilizaba a la gente antes de que tuviera miedo. Contestaba preguntas
 
 Hacía unas horas lo había tenido llorando contra su hombro. Y ahora le escribía como a una socia.
 
-La noche anterior, con el pelo todavía húmedo del jacuzzi y Kal esperándola en el agua, Varek la había llamado. Sin levantar la voz, como quien comenta el clima: que Kal no le cuadraba, que iba a mirarlo de cerca, que iba a poner a alguien detrás de él, y que ella, si era lista, se mantendría lejos. Chiara le había contestado con la voz de gerente, había colgado y lo había archivado como una más de las cosas que Varek decía para recordarte que podía decirlas.
+La noche anterior, con el pelo todavía húmedo del jacuzzi y Kal esperándola en el agua, Varek la había llamado. Sin levantar la voz, como quien comenta el clima: que Kal no le cuadraba, que iba a mirarlo de cerca, que iba a poner a alguien detrás de él, que en su hipódromo no se tocaba a nadie sin que alguien lo pagara con la cabeza, y que ella, si era lista, se mantendría lejos. Chiara le había contestado con la voz de gerente, había colgado y lo había archivado como una más de las cosas que Varek decía para recordarte que podía decirlas.
 
 A las siete y diez de la mañana, con el teléfono en la mano, dejó de estar archivada.
 
@@ -120,7 +120,7 @@ Dos hombres en la puerta. Adentro hacía frío: una nave de lámina en invierno 
 
 —Kal me trajo aquí una vez. Se me descompuso el coche. Fue lo único que recordé.
 
-—Qué suerte tener un recuerdo tan a la mano. —Varek acomodó algo sobre el banco, sin mirarlo, con dos dedos—. Ya que estás, te ahorro el resto de la noche. El hombre por el que preguntas en medio casino no es lo que tú crees que es.
+—Qué suerte tener un recuerdo tan a la mano. —Varek acomodó algo sobre el banco, sin mirarlo, con dos dedos—. Es un buen taller. Se lo regalé yo, ¿no te lo contó? —No esperó respuesta—. Ya que estás, te ahorro el resto de la noche. El hombre por el que preguntas en medio casino no es lo que tú crees que es.
 
 —No sé de qué me habla.
 

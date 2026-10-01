@@ -1584,7 +1584,9 @@ Kal le dice que **no sabe cómo sentirse**, que siente demasiada presión, y que
 
 > **— ¿Crees que es así de fácil?**
 >
-> **— No es eso. Si te marchas, puedo vivir sin tu presencia, pero ya es algo que me acostumbré a tener en mi vida.**
+> **— No es eso. Me explico. Tu presencia en mi vida ha sido algo maravilloso. Puedo vivir sin ella. Pero es cierto que me gusta mucho tenerla.**
+>
+> *(CANON DEL AUTOR 2026-10-01: versión original restituida. Sustituye a "Si te marchas, puedo vivir sin tu presencia, pero ya es algo que me acostumbré a tener en mi vida." Reconstrucción completa de la conversación en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/28_La_Correa]].)*
 
 > **DISEÑO — es una de las mejores líneas del libro y hay que entender por qué.** Chiara no le dice *no te vayas*. No le dice *te necesito*. **Le dice exactamente la verdad y ni un gramo más**, que es su regla profesional aplicada, por una vez, a algo que le importa.
 >

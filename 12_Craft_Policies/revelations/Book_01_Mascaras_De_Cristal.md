@@ -126,3 +126,16 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Nota de continuidad:** ocurre DESPUES, en la cronologia interna, de que Kal ya paso por su propio interrogatorio con Lucia Varek en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/13_Auster|Capitulo 13 (Auster)]] — el lector puede notar la ironia de que Kal preste mas atencion de la que admite; no explicar la conexion en prosa.
 - **Pago pendiente:** una situacion dificil futura donde Kal (o alguien a quien el aconseja) use exactamente este consejo — pedir abogado y callarse — en vez de caer en el engano. No colocar todavia sin decision del autor.
 - **Estado:** sembrado, sin pagar.
+
+---
+
+## El pedido de Nadir y la escalera del loft
+
+- **Que es:** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24b_Lo_Que_Cueste]] Nadir le pide a Chiara, de frente y a espaldas de Kal, que se aleje de el (CANON DEL AUTOR 2026-10-01). Esa misma noche Chiara usa la excusa de la escalera ("si un dia me llega el agua al cuello, agarro mis cosas y me voy") sin mencionar a Nadir.
+- **Quien lo sabe:** Nadir, Chiara y el lector. **Kal no.**
+- **La frase partida (CANON DEL AUTOR):** Kal, subiendo la escalera, solo oye la primera mitad ("…agarro mis cosas y me voy"). La segunda ("Lo que no se es si contigo podria", redaccion DISENO) no se transcribe en el 24-bis: la frase completa significa lo contrario.
+- **Pagos en el Libro I:** Cap. 28 — Kal le recuerda la frase; Chiara le dice que escucho la mitad y le da la segunda. Lo que sigue callando es por que la dijo (Nadir).
+- **Prohibido en el Libro I:** que Kal se entere, que Chiara lo insinue, que Nadir lo confiese. CANON DEL AUTOR: se paga en *Sombras de Poder* (Libro II).
+- **Deuda abierta junto a esto:** el precio del falso testimonio de Tommaso (Cap. 24) queda instalado y sin cobrar; Nadir lo usa como detonante.
+- **Estado:** sembrado, sin pagar.
+

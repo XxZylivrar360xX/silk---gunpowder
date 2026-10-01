@@ -4,6 +4,8 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-01 — [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24b_Lo_Que_Cueste|Cap. 24-bis nuevo: Kal se abre con Nadir; Nadir le pide a Chiara que se aleje; la escalera del loft (siembra del Cap. 28). sin renumerar]]
+- 2026-10-01 — [[98_Agent_Handoff/sessions/2026-10-01_reconstruccion_cap28_macroarco_corral_trato|Cap. 28 reconstruido sobre la conversación de la fuente; macroarco corral → trato; cascada en 25, 26, 29, 30, H6 y el taller del norte (propiedad de Kal)]]
 - 2026-09-30 — CANON DEL AUTOR: Chiara guarda a Kal como "Mandorla" en el celular; Kal lo descubre en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Ambos|Cap. 6]] (tras *Parole Parole*) y así entiende el "Mandorla" del Cap. 8. Ficha de [[02_Characters/Chiara_Bellandi]] actualizada.
 - 2026-09-30 — [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/08_La_Carrera_De_Mascaras|Cap. 8: pagos de la costumbre 3-6 (chisme de Dario con máscara de plata en la entrega de Nadir, cobra el encargo del 7; confesión mínima de Chiara y la fiscal del café; italiano de comodidad en escalada). DISEÑO del agente sobre propuesta del autor, pendiente de lectura]].
 - 2026-09-29 — [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/07_La_Noche_Del_Ladrillo|Cap. 7: callbacks post 5-6 (Chiara ya sabe que Kal maneja el Peugeot y se lo calla a Blake; reconoce a Nadir/Danny/Héctor por las historias). CANON DEL AUTOR: Dario le da tarjeta a Kal (cobra el "quiere hablar contigo" del Cap. 3); fuera de cuadro aborda a Nadir: 5 kg de cocaína al norte, entrega en parcela, 50,000. Payoff PENDIENTE]].

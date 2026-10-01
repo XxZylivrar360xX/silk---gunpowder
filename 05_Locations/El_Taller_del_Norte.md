@@ -39,13 +39,15 @@ No es un escenario recurrente con encanto propio: es un sitio funcional y feo. C
 
 - [[03_Factions/Los_Marcadores_de_Milla]] — quienes lo operan.
 - [[02_Characters/Tyler_Brooks]] — organizador que se mueve aquí con soltura.
-- [[02_Characters/Dario_Varek]] — lo pide prestado para la confrontación de H5.
+- [[02_Characters/Dario_Varek]] — se lo regaló a Kal; lo usa para la confrontación de H5.
 - [[05_Locations/Norte_Rural_de_San_Aurelio]] · [[05_Locations/Mapa_Operativo_de_San_Aurelio]] — geografía y rutas.
 - [[06_Relationships/Hitos]] — H9, H5.
 
 ## Preguntas abiertas
 
-> **PENDIENTE (heredado):** propiedad formal del terreno. Las dos opciones que ya baraja el vault ([[05_Locations/Norte_Rural_de_San_Aurelio]], [[05_Locations/Mapa_Operativo_de_San_Aurelio]]): (a) una parcela ligada a [[02_Characters/Harper_Walker]]; (b) terreno alquilado/ocupado por [[03_Factions/Los_Marcadores_de_Milla]] sobre una propiedad muerta con dueño ausente. DISEÑO propuesto: (b), con el dueño real fuera de cuadro — deja libre a Harper para otra cosa y explica que Varek pueda "pedirlo" sin pisar a nadie con nombre.
+> **RESUELTO (2026-10-01, CANON DEL AUTOR):** el taller es **propiedad de Kal, regalo de Dario Varek** (Varek se lo dice a Chiara en el Cap. 26; Kal lo confirma en el Cap. 28). Cuándo y a cambio de qué se lo regaló: **PENDIENTE**. Lo que sigue queda como histórico:
+>
+> ~~PENDIENTE (heredado):~~ propiedad formal del terreno. Las dos opciones que ya baraja el vault ([[05_Locations/Norte_Rural_de_San_Aurelio]], [[05_Locations/Mapa_Operativo_de_San_Aurelio]]): (a) una parcela ligada a [[02_Characters/Harper_Walker]]; (b) terreno alquilado/ocupado por [[03_Factions/Los_Marcadores_de_Milla]] sobre una propiedad muerta con dueño ausente. DISEÑO propuesto: (b), con el dueño real fuera de cuadro — deja libre a Harper para otra cosa y explica que Varek pueda "pedirlo" sin pisar a nadie con nombre.
 
 > **PENDIENTE:** ¿tiene un nombre informal entre corredores? Propuesta provisional: *"el galpón de la recta"*. Por ahora, en prosa, "el taller del norte" / "el galpón".
 

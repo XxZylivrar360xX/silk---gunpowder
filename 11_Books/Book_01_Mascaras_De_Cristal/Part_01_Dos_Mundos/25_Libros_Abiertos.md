@@ -65,7 +65,9 @@ Chiara sonrió sin romper del todo el personaje.
 
 —Sólo digo lo que veo.
 
-Firmaron la compraventa —nombre, condiciones, una cifra real— con la misma seriedad con la que habían sostenido el numerito: el auto sí cambiaba de manos. Cuando ella ya tenía las llaves, rompió la actuación con una sola frase, en un susurro que no le correspondía a ninguna clienta:
+Firmaron la compraventa —nombre, condiciones, una cifra real— con la misma seriedad con la que habían sostenido el numerito: el auto sí cambiaba de manos. Cuando ella ya tenía las llaves, Kal la acompañó hasta el auto y, todavía con la voz de vendedor, le recomendó evitar la glorieta del sur por las tardes: los Bravos andaban moviendo algo por ahí, coches entrando y saliendo de una de las casas grandes, y si algún día ella tenía forma de echarle un ojo desde el casino, la agencia se lo iba a agradecer. Lo dijo como se dice lo del aceite cada cinco mil kilómetros. Ella se lo guardó igual.
+
+Después rompió la actuación con una sola frase, en un susurro que no le correspondía a ninguna clienta:
 
 —Te veo esta noche, vendedor.
 
