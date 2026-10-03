@@ -17,6 +17,8 @@ Valora a Kal, quiere a Bonnie y encuentra hogar en La Almendra, pero teme más a
 **Oficio:** corredora callejera; operadora de rutas pendiente.
 **Rol:** secundaria; núcleo de la organización.
 **Alias:** pendiente.
+
+> **CANON DEL AUTOR (2026-10-03):** Mei-Lin es quien le pone «Bonnie» a Roberta García. El apodo sobrevive a Mei-Lin y dura toda la saga, porque la amistad era auténtica; su muerte se debe a sus propias malas decisiones. El apodo nace en la época de la banda de corredores, antes de El Patio, fuera de foco y de la prosa: Bonnie ya llega con él. Ver [[02_Characters/Bonnie_Garcia]].
 **Estado:** viva al abrir; ejecutada en F2, Parte V, el mismo día del destierro de Bonnie.
 
 ---

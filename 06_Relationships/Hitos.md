@@ -2600,7 +2600,7 @@ Sin esta presión, la separación parecería artificial.
 
 ### B — Destierro de Bonnie
 
-Bonnie debe haber sido formada por Chiara, perdido su lugar en San Aurelio por un conflicto propio, sobrevivido mediante desaparición y construido una vida suficiente en Italia como **Bonnie Colombo**.
+Bonnie debe haber sido formada por Chiara, perdido su lugar en San Aurelio por un conflicto propio, sobrevivido mediante desaparición y construido una vida suficiente en Italia como **Roberta Ardizzone**.
 
 Kal no la destierra pensando en una hija futura. Chiara no la coloca en Italia para convertirla en cuidadora. Mucho después, cuando necesitan a alguien absolutamente confiable, Bonnie ya está allí.
 

@@ -27,7 +27,7 @@ El "voto" no es el sacrificio de Elenna. Es el sacrificio de la vida cotidiana c
 - Kal y Chiara juntos; Chiara embarazada; Kal ya lo sabe.
 - El Patio atravesó su primer enfrentamiento abierto (H1).
 - Dario ya no trata el crecimiento de Kal como molestia menor.
-- **Mei y Bonnie están fuera del tablero.** Bonnie vive en Italia como Bonnie Colombo.
+- **Mei y Bonnie están fuera del tablero.** Bonnie vive en Italia como Roberta Ardizzone.
 - Halbrook está físicamente en San Aurelio.
 - Corrado sigue vivo en el canon de fondo; Chiara cree que lo perdió.
 - La mentira de H8 (fuga de gas) puede seguir sin romper — cartucho disponible.

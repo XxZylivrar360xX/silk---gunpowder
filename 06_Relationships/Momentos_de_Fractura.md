@@ -155,7 +155,7 @@ Con Bonnie, Kal cambia el destino. No puede ejecutarla sabiendo lo que Chiara la
 
 Desde ahí, Chiara arregla la salida final a Italia bajo una identidad nueva:
 
-> **Bonnie Colombo.**
+> **Roberta Ardizzone.**
 
 Bonnie termina establecida en Italia con una vida y cobertura suficientes para no depender cotidianamente de San Aurelio. **No se fija todavía** quién obtiene sus documentos, qué vínculo legal sostiene la identidad, dónde vive ni qué persona o estructura la ayuda. No asumir tutela Bellandi ni intervención de Corrado por conveniencia.
 
@@ -181,7 +181,7 @@ Después él le da un beso en la frente. No arregla nada. Sólo deja claro que l
 
 ### Consecuencias
 
-- Bonnie queda viva y fuera de San Aurelio, pero no congelada ni exiliada de toda función narrativa: empieza una vida propia en Italia bajo el nombre Bonnie Colombo.
+- Bonnie queda viva y fuera de San Aurelio, pero no congelada ni exiliada de toda función narrativa: empieza una vida propia en Italia bajo el nombre Roberta Ardizzone.
 - Mei-Lin muere como frontera moral del ascenso de El Patio.
 - Chiara aprende que proteger a alguien no siempre significa conservarlo cerca.
 - Kal aprende que ahorrar una vida también puede dejar un vacío. Al ver el daño sobre Chiara, Nadir y El Patio, empieza a sobrecompensar: construye hogar, tiempo, experiencias y memorias felices junto a pérdidas que no puede borrar. Villa y Stavanger/anillo vienen después; la propuesta nace de claridad, no de culpa.
@@ -361,7 +361,7 @@ Este orden permite que la relación escale de una mentira íntima resuelta pront
 - ~~Definir si Mei-Lin realmente traicionó o si sólo dejó demasiada duda.~~ **RESUELTO (2026-09-20):** sí traiciona realmente — es fuente pasiva de Varek desde que Tommaso la recluta — pero por coerción/miedo, no por plan de infiltración ni indiferencia hacia El Patio. Ver [[02_Characters/Mei_Lin_Zhao]] y [[02_Characters/Tommaso_Lusardi]].
 - **NUEVO PENDIENTE (2026-09-20), no inventar todavía:** qué información exacta entrega Mei-Lin a Varek, y qué hecho concreto permite a Kal/El Patio descubrir la filtración. Necesario antes de escribir F2 en Parte V; no bloquea los capítulos actuales de Parte III.
 - Nombrar la pista clandestina del norte.
-- **PENDIENTE DE RECONCILIACIÓN (2026-09-20):** aquí consta Bonnie Colombo (decisión 2026-08-31), pero su ficha usa Bonnie Ardizzone. No escoger entre ambas versiones sin decisión autoral. Mecanismo documental, cobertura legal, apoyo y localización siguen pendientes.
+- **RESUELTO (CANON DEL AUTOR 2026-10-03):** el alias en Italia es **Roberta Ardizzone**. Se descontinúa «Bonnie Colombo», porque Colombo era el apellido de la fuente de inspiración. Detalle en [[02_Characters/Bonnie_Garcia]]. Mecanismo documental, cobertura legal, apoyo y localización siguen pendientes.
 - Fijar cuánto tiempo transcurre entre F2, su establecimiento estable en Italia y el nacimiento de Elenna.
 - Decidir quién ejecuta materialmente el sabotaje de los frenos.
 - Definir las secuelas físicas de Chiara después del accidente.

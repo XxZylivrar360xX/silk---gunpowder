@@ -1,6 +1,6 @@
 # Bonnie García
 
-> **CANON DEL AUTOR (2026-10-02):** el personaje antes llamado **Riley Bennett** se llama ahora **Bonnie García** (cambio de nombre y apellido; se evita el guiño a *The Vampire Diaries*). Renombrado global en el vault; alias de resguardo «Bonnie Ardizzone» / «Bonnie Colombo» siguen con su PENDIENTE de continuidad.
+> **CANON DEL AUTOR (2026-10-02):** el personaje antes llamado **Riley Bennett** se llama ahora **Bonnie García** (cambio de nombre y apellido; se evita el guiño a *The Vampire Diaries*). Renombrado global en el vault.
 
 ## El día de F2 — CANON DEL AUTOR 2026-09-20
 
@@ -8,7 +8,12 @@ Kal la destierra **el mismo día que Nadir ejecuta a Mei-Lin**. No hay intervalo
 
 Sobrevivir no es ganar: pierde a Mei-Lin, La Almendra, Chiara, su red cotidiana, ciudad, identidad habitual y vida en construcción. Mei-Lin era su roommate en La Almendra; la amistad se construyó con casa, horarios, barrio, autos y rutinas. Villa y Stavanger/propuesta vienen después, en Parte V.
 
-> **PENDIENTE DE CONTINUIDAD:** esta ficha conserva «Bonnie Ardizzone», mientras F2 usa «Bonnie Colombo». No se elige alias por conveniencia en esta reconciliación.
+> **CANON DEL AUTOR (2026-10-03) — nombre legal y alias.** Su nombre completo es **Roberta «Bonnie» García**.
+> - **Libros I-III:** en la prosa es **Bonnie**. El apellido García solo se menciona en su presentación inicial; después no se pone foco en él.
+> - **Exilio en Italia (F2 en adelante):** su identidad de resguardo es **Roberta Ardizzone**. Usa su nombre legal real y el apellido de la familia de Chiara.
+> - **Veinte años después:** para Elenna y Marisol sigue siendo «Bonnie». Para el mundo es **Roberta Ardizzone**, dueña y administradora de la cadena hotelera.
+> - **Descontinuado:** «Bonnie Colombo». Colombo era el apellido original de Giulia (Giulia Colombo), la semilla de inspiración, y se retira para alejarse de la fuente. Queda resuelto el pendiente Ardizzone/Colombo.
+> - **Origen del apodo (CANON DEL AUTOR 2026-10-03):** **Mei-Lin** le dice «Bonnie», y el apodo se queda toda la historia porque es auténtico. Eran amigas de verdad; Mei-Lin tomó malas decisiones y eso le costó la vida. Cuando Bonnie conserva el nombre veinte años después, conserva a Mei-Lin. El apodo nace en la época de la banda de corredores, antes de El Patio, fuera de foco y de la prosa: Bonnie ya llega con él. (Se retira la propuesta DISEÑO de «bonita».)
 
 *Seda y Pólvora — Ficha de Personaje*
 
@@ -20,7 +25,7 @@ Sobrevivir no es ganar: pierde a Mei-Lin, La Almendra, Chiara, su red cotidiana,
 **Edad al abrir la novela:** 23.
 **Oficio:** corredora callejera; aprendiz operativa de lectura de escenarios.
 **Rol:** secundaria importante; protegida de Chiara.
-**Identidad de resguardo en Italia:** Bonnie Ardizzone.
+**Identidad de resguardo en Italia:** Roberta Ardizzone.
 **Estado:** viva; desterrada de San Aurelio en el **Libro I** (antes de H1) y establecida en Italia antes del nacimiento de Elenna en *Voto de Ceniza* (Libro II).
 
 ---
@@ -80,7 +85,7 @@ Bonnie recibe a Elenna Serra y se vuelve su cuidadora cotidiana durante aproxima
 
 Elenna desarrolla un apego real hacia Bonnie. Ese vínculo sobrevive al reencuentro con Kal y Chiara; la recuperación de convivencia con sus padres debe ser gradual y no borrar a Bonnie.
 
-Siguen pendientes el mecanismo documental de Bonnie Ardizzone, quién sostiene su cobertura, la localización exacta, su vida cotidiana antes de recibir a Elenna y cuánto tiempo media entre F2 y el nacimiento.
+Siguen pendientes el mecanismo documental de Roberta Ardizzone, quién sostiene su cobertura, la localización exacta, su vida cotidiana antes de recibir a Elenna y cuánto tiempo media entre F2 y el nacimiento.
 
 ### La entrega — DISEÑO / CANON DEL AUTOR (2026-09-11)
 
@@ -137,7 +142,7 @@ Ese aprendizaje la vuelve peligrosa de una forma nueva: una corredora que aprend
 
 > **PENDIENTE:** si Mei-Lin quiere salir también o si eso crea tensión entre ellas.
 
-> **RESUELTO DE ARQUITECTURA (2026-08-31; corregido por CANON DEL AUTOR 2026-09-13):** durante el resguardo en Italia vive como **Bonnie Ardizzone**, bajo la protección del apellido de Chiara. **PENDIENTES:** mecanismo documental, cobertura legal, apoyos y localización exacta.
+> **RESUELTO DE ARQUITECTURA (2026-08-31; corregido por CANON DEL AUTOR 2026-09-13):** durante el resguardo en Italia vive como **Roberta Ardizzone**, bajo la protección del apellido de Chiara. **PENDIENTES:** mecanismo documental, cobertura legal, apoyos y localización exacta.
 
 ---
 

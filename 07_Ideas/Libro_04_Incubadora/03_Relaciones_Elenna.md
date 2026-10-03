@@ -59,7 +59,7 @@ No necesita llamarla constantemente para demostrar afecto. Puede dar espacio y l
 
 ---
 
-## Bonnie Ardizzone
+## Roberta Ardizzone
 
 ### Reacción a la academia
 

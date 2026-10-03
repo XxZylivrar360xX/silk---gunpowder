@@ -32,7 +32,7 @@ Misterios o verdades que cruzan todo *Seda y Polvora* o que no pertenecen a un s
 
 ## Supervivencia de Elenna Mercer / Elenna Serra
 
-- **Que es:** Chiara ya sabe que está embarazada durante H1 (Libro I). Elenna nace en *Voto de Ceniza* (Libro II); para San Aurelio, la hija de Kal Mercer y Chiara Bellandi muere durante o alrededor del parto. En realidad vive en Italia como **Elenna Serra** bajo el cuidado de Bonnie Colombo.
+- **Que es:** Chiara ya sabe que está embarazada durante H1 (Libro I). Elenna nace en *Voto de Ceniza* (Libro II); para San Aurelio, la hija de Kal Mercer y Chiara Bellandi muere durante o alrededor del parto. En realidad vive en Italia como **Elenna Serra** bajo el cuidado de Roberta Ardizzone.
 - **Estado público:** fallecida al nacer.
 - **Estado real:** viva.
 - **Quien ya lo sabe:** círculo íntimo exacto pendiente. Kal conoce el embarazo después de H1; no durante la crisis.

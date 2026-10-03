@@ -6,7 +6,7 @@ Actualizado: 2026-09-21. Lectura por tema, no de arranque. Extraído de pendient
 
 > **PENDIENTE:** reconciliación integral de los Book Maps y Hitos con [[00_Biblia/00_Trilogy_Structure]], [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]] y el plan de cierre de III. Usar los Book Maps para detalle; no volver a expandir fases/beats históricos. Revisar carpetas vestigiales sin borrarlas por iniciativa.
 
-- F4/Anya resuelto (2026-09-26, separados, antes del incendio). Pendiente: viejo disparador de caída de Silas → Stavanger; alias italiano Bonnie Ardizzone/Colombo.
+- F4/Anya resuelto (2026-09-26, separados, antes del incendio). Pendiente: viejo disparador de caída de Silas → Stavanger. (Alias italiano resuelto 2026-10-03: Roberta Ardizzone.)
 - Precisar distancia F4/F3/F2 y consolidación de Villa al cerrar V; logística de Villa y ejecución de Stavanger. Mantener el orden macro aprobado.
 - Definir contenido de la amenaza de Crowe, mecanismo de su caída y momento de cobro de la mentira de fuga de gas de H8.
 - Reconciliar Corrado vivo en fichas, relación, Il Consorzio, Meridian, Ettore, reparto y revelaciones, además de formulaciones heredadas de capítulos 2 y 10. Rediseñar la herida federal y función de Ettore, no hacer sustitución mecánica.

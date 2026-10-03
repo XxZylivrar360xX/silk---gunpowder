@@ -147,7 +147,7 @@ Chiara entra a Voto de Ceniza (Libro II) **ya embarazada**. La Guerra de los Tre
 
 La siguiente cadena es una referencia histórica supersedida en la posición de F2 por [[00_Biblia/00_Trilogy_Structure]]: Bonnie ya está establecida en Italia al abrir Voto de Ceniza. Para el orden operativo vigente, consultar [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]] y [[06_Relationships/Hitos]].
 
-`inicio de la guerra → F2 / destierro de Bonnie → Bonnie establecida en Italia como Bonnie Colombo → nacimiento de Elenna → detonante pendiente → muerte pública falsa → Elenna Serra con Bonnie → separación de sus padres`.
+`inicio de la guerra → F2 / destierro de Bonnie → Bonnie establecida en Italia como Roberta Ardizzone → nacimiento de Elenna → detonante pendiente → muerte pública falsa → Elenna Serra con Bonnie → separación de sus padres`.
 
 El detonante concreto que vuelve imposible conservar a Elenna en San Aurelio sigue pendiente. Debe surgir de la escalada, la exposición creciente y la imposibilidad de proteger a una bebé sin convertirla en objetivo; no puede ser un incidente agregado sólo para moverla a Italia.
 
