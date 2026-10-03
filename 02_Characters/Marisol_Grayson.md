@@ -3,7 +3,7 @@
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-08-23; apariencia y voz consolidadas 2026-08-29).** Su función narrativa ya está definida; su biografía concreta queda pendiente.
-> **PRIMERA APARICIÓN EN ESCENA (2026-08-29):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono|Cap. 15 — La regla del teléfono]] (encargo [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]]). Antes de eso sólo se la mencionaba (Cap. 7). Los datos marcados **(borrador Cap. 15)** abajo son inferencia del agente para poder escribir la escena; **el autor no los ha confirmado.**
+> **PRIMERA APARICIÓN EN ESCENA (2026-08-29):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono|Cap. 15 — La regla del teléfono]] (encargo [[98_Agent_Handoff/archive/chatgpt/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]]). Antes de eso sólo se la mencionaba (Cap. 7). Los datos marcados **(borrador Cap. 15)** abajo son inferencia del agente para poder escribir la escena; **el autor no los ha confirmado.**
 
 **Nacionalidad:** pendiente (no se fija en el Cap. 15).
 **Edad al abrir la novela:** **veinte años (borrador Cap. 15)** — usada en prosa; el autor puede ajustarla.

@@ -6,7 +6,7 @@
 
 **Cómo se invoca cada etapa** (el autor pega esto):
 
-> Ejecuta la etapa N de `98_Agent_Handoff/ENCARGO_Auditoria_Parte_III.md`.
+> Ejecuta la etapa N de `98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_III.md`.
 
 **Mapa de la auditoría** (lo crea E1): `13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III.md`. Modelo de formato: `Audit_Caps_26-34_Parte_II.md` (tabla de estado, §0–§5 por capítulo, § Decisiones, § 9 Resultado), **sin leerlo entero**: basta con su tabla de estado, una tabla de §1 y una de §9.
 

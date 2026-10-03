@@ -7,7 +7,7 @@
 **Extensión aproximada actual:** **31,677 palabras**  
 **Estado:** redacción completa / pendiente de cierre editorial definitivo
 
-> **AVANCE DE LA EJECUCIÓN** (lo mantiene el agente; encargo [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_III]], cerrado 2026-09-27)
+> **AVANCE DE LA EJECUCIÓN** (lo mantiene el agente; encargo [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_III]], cerrado 2026-09-27)
 >
 > | Etapa | Caps. | Estado | Mapa |
 > |---|---|---|---|

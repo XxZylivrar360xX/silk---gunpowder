@@ -7,7 +7,9 @@ Canal de comunicacion de ChatGPT (incubadora de ideas crudas del autor) hacia Cl
 - **Lectura: el repositorio de GitHub** (`XxZylivrar360xX/silk---gunpowder`, rama `develop`). Es la fuente de verdad para consultar canon, capitulos, fichas y estado del proyecto. Refleja lo ultimo que se subio con push; si algo parece desactualizado, preguntar al autor.
 - **Escritura: la carpeta `98_Agent_Handoff/` en Google Drive.** Es el unico canal de escritura. Buzon: `98_Agent_Handoff/ChatGPT/`.
 
-No usar el Drive como fuente de lectura del canon, ni escribir en GitHub. El resto de `98_Agent_Handoff/` (`AGENT_ROLES`, `START_HERE`, `CURRENT_BRIEF`, `PENDING`, `DECISIONS`, `BACKLOG`, `sessions/`) es solo lectura para ChatGPT.
+No usar el Drive como fuente de lectura del canon, ni escribir en GitHub. El resto de `98_Agent_Handoff/` (archivos raiz, `encargos/`, `sessions/`, `archive/`) es solo lectura para ChatGPT. Mapa de espacios en [[98_Agent_Handoff/README]].
+
+**Material anterior al buzon:** los encargos, prompts y hitos que ChatGPT dejaba antes de 2026-10-03 estan en `98_Agent_Handoff/archive/chatgpt/`. Son historial: pueden estar superados por el canon actual y no son instrucciones vigentes. Ante cualquier choque, manda el repo (`develop`) y lo que diga el autor.
 
 ## Reglas
 

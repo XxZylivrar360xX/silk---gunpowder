@@ -13,6 +13,10 @@ Copias íntegras, verificadas por SHA-256 antes de compactar:
 
 Estas copias son inmutables. No corregir sus nombres, enlaces históricos ni canon superado por nuevas decisiones. Para estado actual, usar [[98_Agent_Handoff/CURRENT_BRIEF]], [[98_Agent_Handoff/PENDING]] y [[98_Agent_Handoff/BACKLOG]].
 
+## ChatGPT (2026-10-03)
+
+`archive/chatgpt/`: encargos, prompts, hitos y handoffs que ChatGPT dejaba antes del buzón actual (agosto–septiembre 2026), más las notas del buzón ya procesadas por Claude Code. Historial, no instrucciones vigentes; su contenido puede estar superado por el canon.
+
 ## Búsqueda por demanda
 
 Desde la raíz del vault:

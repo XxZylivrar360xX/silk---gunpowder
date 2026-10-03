@@ -19,7 +19,7 @@ Se conserva en el vault como referencia de diseno y canon, pero no debe exportar
 > `11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/` cuando el autor apruebe
 > escribirlo. Ver [[00_Biblia/00_Trilogy_Structure]] y [[01_Timeline/03_Libro_02_Sombras_De_Poder]].
 >
-> **HOUSEKEEPING DOCUMENTAL (2026-09-27, E8 de [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_III]]):** sincronizado con la frontera de libro sin tocar el diseño: "Parte IV" / "IV.1" → Libro II; la tesis y la cronología ya ponen la luz y el *Ciao, bella* dentro del 44 (antes: "Parte III cierra en la oscuridad del loft con la Beretta levantada; Parte IV abre con la luz"); "*Voto de Ceniza* (Libro II)" → Libro III. Detalle en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]], § 9 parte 4.
+> **HOUSEKEEPING DOCUMENTAL (2026-09-27, E8 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_III]]):** sincronizado con la frontera de libro sin tocar el diseño: "Parte IV" / "IV.1" → Libro II; la tesis y la cronología ya ponen la luz y el *Ciao, bella* dentro del 44 (antes: "Parte III cierra en la oscuridad del loft con la Beretta levantada; Parte IV abre con la luz"); "*Voto de Ceniza* (Libro II)" → Libro III. Detalle en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]], § 9 parte 4.
 
 ## Tesis del bloque
 

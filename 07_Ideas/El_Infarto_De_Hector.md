@@ -86,7 +86,7 @@ Y ahí se quedaron.
 
 > **RESUELTO (2026-08-26):** [[03_Factions/La_Ronda_del_Canal]] retiene a Nadir y Danny — intentaban robar una tienda en su territorio. Sigue **PENDIENTE** el detalle exacto del robo (respetando el pedido del autor de no profundizar a Danny todavía).
 
-> **NOTA (2026-08-29):** con el nuevo Cap. 14, Kal ya no está fuera por trabajo sino de campamento con Marisol, y la incomunicación es una decisión de carácter (la regla del teléfono heredada de Michael), no un accidente. El "olvido" de los muchachos del taller se recontextualiza: hubo intentos de localizarlo — de Chiara directo, de rutas secundarias, de Walt — y ninguno pudo. La carta pasa a ser el último canal físico que Chiara puede garantizar. Ver [[06_Relationships/Hitos]], H10, y [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]].
+> **NOTA (2026-08-29):** con el nuevo Cap. 14, Kal ya no está fuera por trabajo sino de campamento con Marisol, y la incomunicación es una decisión de carácter (la regla del teléfono heredada de Michael), no un accidente. El "olvido" de los muchachos del taller se recontextualiza: hubo intentos de localizarlo — de Chiara directo, de rutas secundarias, de Walt — y ninguno pudo. La carta pasa a ser el último canal físico que Chiara puede garantizar. Ver [[06_Relationships/Hitos]], H10, y [[98_Agent_Handoff/archive/chatgpt/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]].
 
 > **RESUELTO (2026-08-26):** Héctor tiene 63 años. Sigue PENDIENTE la gravedad médica exacta del infarto.
 

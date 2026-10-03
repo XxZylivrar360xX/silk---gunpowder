@@ -37,7 +37,7 @@ Un hombre que quiso a su mujer treinta años y no supo proteger su casa de lo qu
 
 Su motor: convertir a su hija en alguien que **Il Consorzio ya no pueda usar como moneda política**. Mientras Corrado existiera públicamente, su apellido y su posición volvían a Chiara una pieza heredable — presionable a través de él, valiosa por asociación, nunca dueña de sí misma. Así que desaparece. Finge su muerte y pasa años desmontando la estructura del Consorcio desde las sombras, despacio, sin quererlo todo: el objetivo no es destruir la mafia italiana, es romper suficiente infraestructura para que Chiara pueda volver a Palermo sin pedirle permiso a nadie.
 
-**Punto ciego — la misma patología que Kal, en otra escala:** decidió solo. Chiara no supo, no consintió, no pudo despedirse de nadie. Corrado cree que amar justifica decidir por la persona amada, y esa creencia le cuesta años de la vida de su hija. La novela no debe absolverlo con "lo hizo por amor, por lo tanto estuvo bien" — comprender la razón no equivale a perdonar el método. Ver [[98_Agent_Handoff/ChatGPT/ENCARGO_ARCO_CHIARA_CORRADO]].
+**Punto ciego — la misma patología que Kal, en otra escala:** decidió solo. Chiara no supo, no consintió, no pudo despedirse de nadie. Corrado cree que amar justifica decidir por la persona amada, y esa creencia le cuesta años de la vida de su hija. La novela no debe absolverlo con "lo hizo por amor, por lo tanto estuvo bien" — comprender la razón no equivale a perdonar el método. Ver [[98_Agent_Handoff/archive/chatgpt/ENCARGO_ARCO_CHIARA_CORRADO]].
 
 ## Historia
 
@@ -120,4 +120,4 @@ No es un personaje de campo. Su técnica es institucional y lenta: erosión pol�
 
 ---
 
-Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[12_Craft_Policies/revelations/SAGA_LEVEL]] · [[98_Agent_Handoff/ChatGPT/ENCARGO_ARCO_CHIARA_CORRADO]] · [[02_Characters/Chiara_Bellandi]]
+Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[12_Craft_Policies/revelations/SAGA_LEVEL]] · [[98_Agent_Handoff/archive/chatgpt/ENCARGO_ARCO_CHIARA_CORRADO]] · [[02_Characters/Chiara_Bellandi]]

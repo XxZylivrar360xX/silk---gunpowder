@@ -5,7 +5,7 @@
 
 **Cómo se invoca cada etapa** (el autor pega esto):
 
-> Ejecuta la etapa N de `98_Agent_Handoff/ENCARGO_Auditoria_Parte_I_Lote_B.md`.
+> Ejecuta la etapa N de `98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_I_Lote_B.md`.
 
 ---
 

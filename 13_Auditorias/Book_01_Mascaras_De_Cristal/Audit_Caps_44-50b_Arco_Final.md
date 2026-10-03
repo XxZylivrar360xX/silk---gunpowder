@@ -1,6 +1,6 @@
 # AUDIT — Arco final del Libro I — Caps. 44–50b
 
-**Encargo:** [[98_Agent_Handoff/ENCARGO_Auditoria_Arco_Final_44-50b]] (una terminal, etapas secuenciales E0–E8 y dos puertas del autor). **Modo:** AUDIT en E0–E3 (no toca prosa); correcciones estructurales en E4–E5; microedición en E6–E8.
+**Encargo:** [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Arco_Final_44-50b]] (una terminal, etapas secuenciales E0–E8 y dos puertas del autor). **Modo:** AUDIT en E0–E3 (no toca prosa); correcciones estructurales en E4–E5; microedición en E6–E8.
 **Plan del arco:** [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] (CANON DEL AUTOR vs. DISEÑO).
 **Política:** [[12_Craft_Policies/CHAPTER_LIFECYCLE]], [[12_Craft_Policies/editorial/EDITORIAL_POLICY]], [[12_Craft_Policies/editorial/DO_NOT_TOUCH]], [[12_Craft_Policies/editorial/MICROEDICION]] (tabla de ejes en el encargo).
 **Audit previo:** [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_44_Jurisdiccion]] (C1 resuelto; C2 **ya propagado**, verificado en E1: 45:61/65, 46:62/68–72, 47:199; C3 fuera de arco; C4 verificado en E1: el 50 ya no duplica nada).

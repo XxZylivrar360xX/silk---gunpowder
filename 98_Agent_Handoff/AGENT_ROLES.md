@@ -120,6 +120,8 @@ Reglas obligatorias:
 
 ## Handoffs Dirigidos
 
+Mapa de espacios y permisos por carpeta: [[98_Agent_Handoff/README]]. Encargos por etapas en `98_Agent_Handoff/encargos/`.
+
 Notas entre agentes en `98_Agent_Handoff/sessions/` (excepto ChatGPT, que usa su buzon).
 
 Convencion: `AAAA-MM-DD_origen_para_destino_tema.md`

@@ -24,7 +24,7 @@ agente: Claude Code (Sonnet 5)
 
 ## Historial preservado sin reescritura de prosa
 
-`log.md`, `98_Agent_Handoff/ChatGPT/Roadmap de Voto de Ceniza — Elenna, exilio y arquitectura de salida.md`, `98_Agent_Handoff/sessions/2026-09-11_codex_reconciliacion_residuos_h22.md`, `99_Reference/catchup-09092026/00_Trilogy_Structure.md`. En `CURRENT_BRIEF.md` y `DECISIONS.md` se repararon únicamente los enlaces `[[11_Books/Book_03_Interregno/00_Book_Map]]` rotos por el `git mv`, sin tocar la prosa histórica que dice "Interregno".
+`log.md`, `98_Agent_Handoff/archive/chatgpt/Roadmap de Voto de Ceniza — Elenna, exilio y arquitectura de salida.md`, `98_Agent_Handoff/sessions/2026-09-11_codex_reconciliacion_residuos_h22.md`, `99_Reference/catchup-09092026/00_Trilogy_Structure.md`. En `CURRENT_BRIEF.md` y `DECISIONS.md` se repararon únicamente los enlaces `[[11_Books/Book_03_Interregno/00_Book_Map]]` rotos por el `git mv`, sin tocar la prosa histórica que dice "Interregno".
 
 ## Anomalía detectada — commits no solicitados
 

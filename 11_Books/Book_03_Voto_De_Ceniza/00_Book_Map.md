@@ -8,7 +8,7 @@
 >
 > **BLOQUEO DE PROSA:** no se redacta prosa de este libro hasta cerrar los Libros I y II. [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] sigue expresamente bloqueado.
 >
-> **INTEGRACIÓN (2026-09-11, Claude Code, encargo del autor).** Incorporada la arquitectura de apertura en flashforward, el arco completo del exilio de Elenna (nacimiento → falsa muerte → pista clandestina → Bonnie → primer año → H22) y la siembra de la arquitectura de salida hacia *Cuentas de Sangre*, a partir de [[98_Agent_Handoff/ChatGPT/Roadmap de Voto de Ceniza — Elenna, exilio y arquitectura de salida|el roadmap aportado por el autor]]. La guía de ambientación de ese mismo capítulo vive, no diegética, en [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna|Calibración musical — Revelación del exilio de Elenna]]. Ningún mecanismo médico, legal, documental u operativo fue inventado para cerrar huecos: sigue todo marcado PENDIENTE donde ya lo estaba.
+> **INTEGRACIÓN (2026-09-11, Claude Code, encargo del autor).** Incorporada la arquitectura de apertura en flashforward, el arco completo del exilio de Elenna (nacimiento → falsa muerte → pista clandestina → Bonnie → primer año → H22) y la siembra de la arquitectura de salida hacia *Cuentas de Sangre*, a partir de [[98_Agent_Handoff/archive/chatgpt/Roadmap de Voto de Ceniza — Elenna, exilio y arquitectura de salida|el roadmap aportado por el autor]]. La guía de ambientación de ese mismo capítulo vive, no diegética, en [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna|Calibración musical — Revelación del exilio de Elenna]]. Ningún mecanismo médico, legal, documental u operativo fue inventado para cerrar huecos: sigue todo marcado PENDIENTE donde ya lo estaba.
 
 ---
 
