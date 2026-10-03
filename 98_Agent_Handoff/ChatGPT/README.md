@@ -55,6 +55,39 @@ Para lectura critica o auditoria, agregar al final:
 ## Recomendaciones
 ```
 
+## Manifiesto De Incubadora
+
+Cada chat de ChatGPT que entregue informacion al buzon deja **primero** su manifiesto, antes de cualquier nota de migracion. Sirve para saber de que chat sale cada nota. Nombre: `YYYY-MM-DD_manifiesto_<incubadora>.md`.
+
+```md
+# Manifiesto — <Incubadora>
+
+## Identidad
+- Chat: <nombre exacto del chat en ChatGPT>
+- Slug de incubadora: <slug usado en los nombres de archivo>
+- Alcance: libro(s), partes, arcos o personajes que trabaja.
+- Fuera de alcance: lo que este chat NO trabaja (para no pisar otras incubadoras).
+
+## Encargo del autor
+Que le pidio el autor a este chat, en dos o tres lineas.
+
+## Entregas previstas
+Lista de notas que va a dejar en el buzon, en orden:
+1. `YYYY-MM-DD_migracion_<incubadora>.md` — <que cubre>
+2. ...
+
+## Archivos del repo que toca
+[[ruta/archivo]], ... (los principales, no exhaustivo)
+
+## Cruces con otras incubadoras
+Temas compartidos con otro chat y quien manda en cada uno, si el autor lo definio.
+```
+
+Reglas del manifiesto:
+
+- Uno por chat. Si cambia el alcance, se crea uno nuevo con fecha nueva; no se edita el anterior.
+- Todas las notas posteriores del chat usan el mismo slug de incubadora en el nombre.
+
 ## Nota De Migracion (volcado de una incubadora)
 
 Cuando el autor diga "migra", "prepara la migracion" o similar, ChatGPT usa este formato sin que se lo tengan que pegar. Para pasar al buzon todo lo acumulado en una conversacion larga. Nombre: `YYYY-MM-DD_migracion_<incubadora>.md`. Si pasa de ~40 items, partir en varias notas por bloque tematico (`..._migracion_<incubadora>_parte1.md`).
