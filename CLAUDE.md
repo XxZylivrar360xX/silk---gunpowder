@@ -50,6 +50,10 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 - La violencia debe cambiar una relacion o estructura; si no, sobra.
 - La ciudad se escribe como lugar concreto, no decorado generico.
 
+## Roles De Agentes
+
+Claude Code es el maintainer principal del repositorio. Codex apoya con mantenimiento acotado por encargo. ChatGPT es incubadora de ideas y solo escribe en `98_Agent_Handoff/` (buzon `ChatGPT/`): revisarlo al arrancar. Contrato en `98_Agent_Handoff/AGENT_ROLES.md`.
+
 ## Rutas Clave
 
 - `INDEX.md`: mapa maestro del vault.

@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-03 — PROCESO: nuevos roles de agentes en [[98_Agent_Handoff/AGENT_ROLES]]. Claude Code queda como maintainer principal; Codex, como apoyo de mantenimiento por encargo; ChatGPT, como incubadora de ideas que escribe por Drive solo en `98_Agent_Handoff/` (buzón [[98_Agent_Handoff/ChatGPT/README]]). Se reflejó en CLAUDE.md, AGENTS.md y START_HERE.
 - 2026-10-03 — [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]]: E4–E5 del arco final; correcciones estructurales y de continuidad en 44–50b (Q1–Q25 del autor), Génova en la ficha de Valenti y la excepción del "Ciao" en la voz de Chiara. Espera la lectura del autor.
 - 2026-10-02 — CANON DEL AUTOR: Erin Reyes es hija de [[02_Characters/Victor_Reyes]]. Anotado en su ficha, en [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]] y en los pendientes de la incubadora; las implicaciones quedan PENDIENTES.
 - 2026-10-02 — CANON DEL AUTOR: Riley Bennett pasa a llamarse **Bonnie García** ([[02_Characters/Bonnie_Garcia]]). Renombrado global (98 archivos; ficha y arte de referencia renombrados).

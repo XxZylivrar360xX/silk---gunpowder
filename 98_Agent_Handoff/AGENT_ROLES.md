@@ -1,148 +1,134 @@
 # Agent Roles
 
-Contrato operativo para coordinar a ChatGPT, Codex y Claude Code dentro de *Seda y Polvora*.
+Contrato operativo para coordinar a Claude Code, Codex y ChatGPT dentro de *Seda y Polvora*.
 
 Este documento define responsabilidades de trabajo. No crea canon narrativo por si mismo.
 
-## Autor
+**Vigente desde 2026-10-03.** Sustituye la division anterior (ChatGPT sala editorial / Codex arquitectura y vault / Claude Code solo prosa).
 
-El autor es la autoridad final del proyecto.
+## Jerarquia
+
+1. **Autor:** decide. Autoridad final.
+2. **Claude Code:** maintainer principal del repositorio.
+3. **Codex:** apoyo de mantenimiento, por encargo.
+4. **ChatGPT:** incubadora de ideas crudas; escritura restringida a `98_Agent_Handoff/`.
+
+Si dos agentes discrepan sobre el estado del vault, manda lo que registre Claude Code, salvo decision posterior y explicita del autor.
+
+## Autor
 
 - Toda decision concreta entregada por el autor como hecho, escena, linea o acontecimiento se trata como **CANON DEL AUTOR**.
 - Ningun agente puede convertir una inferencia propia en canon.
 - Los agentes pueden proponer alternativas, diagnosticos y consecuencias.
 - Todo punto sin decision del autor permanece como **PENDIENTE**.
 - Si dos documentos entran en conflicto, prevalece la decision mas reciente y explicita del autor.
+- El autor puede reasignar cualquier tarea a cualquier agente.
 
-## ChatGPT — Sala Editorial
+## Claude Code — Maintainer Principal
 
-Rol principal: pensar con el autor antes y despues de la redaccion.
+Rol principal: responsable global del repositorio: prosa, canon, continuidad, estructura y documentacion de relevo.
 
-Responsabilidades preferentes:
+Responsabilidades:
 
-- brainstorming narrativo;
-- arquitectura de escenas junto con el autor;
-- investigacion historica, criminal, legal, geografica o cultural;
-- diseño de personajes, lugares, instituciones y conflictos;
-- lectura critica de capitulos;
-- simulacion de perfiles de lector;
-- diagnostico de ritmo, tension, voz, subtexto y causalidad;
-- auditoria de continuidad a partir del contenido disponible;
-- deteccion de pistas, pagos, redundancias y contradicciones;
-- convertir conversaciones con el autor en briefs accionables para Codex o Claude Code;
-- preparar notas de handoff compactas.
-
-ChatGPT no es el redactor principal de prosa de la novela cuando Claude Code esta disponible para esa funcion.
-
-Cuando ChatGPT no tenga escritura directa al repositorio:
-
-1. prepara archivos o notas listas para copiar;
-2. conserva las rutas reales del vault;
-3. indica con claridad que debe integrar Codex o Claude Code;
-4. no afirma que un cambio fue aplicado al repo remoto hasta que otro agente lo confirme.
-
-## Codex — Arquitectura, Continuidad Y Vault
-
-Rol principal: convertir decisiones narrativas en estructura mantenible dentro del repositorio.
-
-Responsabilidades preferentes:
-
-- arquitectura macro y meso de la novela;
-- expansion y mantenimiento de beats;
-- timeline y causalidad;
+- redaccion, reescritura y revision quirurgica de prosa;
+- arquitectura macro y meso, beats, timeline y causalidad;
 - continuidad de personajes, relaciones, pistas y conocimiento;
-- auditorias estructurales;
-- mantenimiento de biblia, fichas, indices y documentos de soporte;
-- integracion de handoffs al vault;
-- actualizacion de `CURRENT_BRIEF.md`, `DECISIONS.md`, `PENDING.md`, `INDEX.md` y `log.md` cuando corresponda;
-- revisar diffs;
-- commits y push cuando el flujo autorizado lo permita;
-- preparar para Claude Code briefs de escena o capitulo que no invadan la ejecucion de prosa.
-
-Codex puede editar prosa si el autor se lo pide, pero no es su funcion predeterminada en este proyecto.
-
-## Claude Code — Redactor De Prosa
-
-Rol principal: ejecutar la novela en pagina.
-
-Responsabilidades preferentes:
-
-- redaccion de capitulos y escenas;
-- reescritura de prosa;
-- dialogo;
-- staging;
-- ritmo de escena;
-- transiciones;
-- interioridad;
-- textura sensorial;
-- voz de personaje;
-- poda de repeticion, explicacion y tics de estilo;
-- aplicar craft policies del vault;
-- revisiones quirurgicas solicitadas por el autor o por un brief editorial aprobado.
-
-Antes de redactar debe leer solo el contexto necesario para la tarea, siguiendo `START_HERE.md`.
+- registrar decisiones del autor en los documentos canonicos;
+- mantenimiento de biblia, fichas, `INDEX.md`, `log.md`, `CURRENT_BRIEF.md`, `PENDING.md`, `DECISIONS.md` y `BACKLOG.md`;
+- revisar el buzon `98_Agent_Handoff/ChatGPT/` al arrancar sesion y procesar lo que llegue (integrar, descartar o convertir en PENDIENTE, siempre con validacion del autor);
+- encargar a Codex tareas acotadas y revisar su resultado;
+- revisar diffs; commits y push solo cuando el autor lo pida;
+- regenerar EPUB/PDF segun `CLAUDE.md`.
 
 Claude Code no debe:
 
 - resolver **PENDIENTES** por conveniencia narrativa;
 - alterar **CANON DEL AUTOR**;
-- redefinir macroestructura sin encargo;
-- introducir revelaciones antes de tiempo;
 - convertir una propuesta de otro agente en canon sin confirmacion del autor.
 
-## Regla De No Solapamiento
+## Codex — Apoyo De Mantenimiento
 
-La division por defecto es:
+Rol principal: ejecutar tareas de mantenimiento acotadas que encarguen el autor o Claude Code.
 
-- **Autor:** decide.
-- **ChatGPT:** explora, investiga, diagnostica y prepara el encargo.
-- **Codex:** estructura, mantiene continuidad e integra el vault.
-- **Claude Code:** escribe y pule la prosa.
+Responsabilidades tipicas:
 
-No es una prohibicion absoluta. El autor puede reasignar cualquier tarea.
+- auditorias pequenas y verificaciones puntuales;
+- analisis cortos (conteos, busquedas, cruces de referencias);
+- sustituciones masivas y renombrados;
+- correccion de enlaces, frontmatter e indices;
+- herramientas auxiliares bajo `tools/`.
 
-La regla existe para evitar que tres agentes rehagan el mismo trabajo con criterios distintos.
+Reglas:
+
+- Trabaja por encargo concreto; no abre frentes propios ni redefine estructura.
+- No redacta prosa de la novela salvo pedido explicito del autor.
+- No toca canon, `Hitos.md`, `00_Biblia/00_Trilogy_Structure.md` ni decisiones del autor sin encargo explicito.
+- No actualiza `CURRENT_BRIEF.md`, `PENDING.md` ni `DECISIONS.md` por iniciativa propia: deja un reporte para Claude Code.
+- Al terminar, deja reporte breve en `98_Agent_Handoff/sessions/AAAA-MM-DD_codex_para_claude_tema.md` con archivos tocados y lo que quedo sin resolver.
+- Commits y push solo cuando el autor lo pida.
+
+## ChatGPT — Incubadora De Ideas
+
+Rol principal: conversar con el autor sobre ideas crudas y dejarlas por escrito para que Claude Code las procese.
+
+Responsabilidades:
+
+- brainstorming narrativo y exploracion de ideas del autor;
+- investigacion historica, criminal, legal, geografica o cultural;
+- lectura critica y diagnostico cuando el autor lo pida;
+- convertir conversaciones con el autor en notas o briefs para Claude Code.
+
+Todo lo que produce ChatGPT es **propuesta**: no es canon ni DISENO aprobado hasta que el autor lo valide y Claude Code lo integre.
+
+### Limites De Escritura (Google Drive)
+
+Canales de ChatGPT:
+
+- **Lectura:** el repositorio de GitHub (`XxZylivrar360xX/silk---gunpowder`, rama `develop`) es su fuente de lectura del canon y del estado del proyecto.
+- **Escritura:** la carpeta `98_Agent_Handoff/` en Google Drive es su unico canal de escritura. No escribe en GitHub.
+
+Reglas obligatorias:
+
+- **Solo escribe dentro de `98_Agent_Handoff/`.** Buzon preferente: `98_Agent_Handoff/ChatGPT/`, un archivo por mensaje, nombre `YYYY-MM-DD_tema.md`.
+- **Todo lo que esta fuera de `98_Agent_Handoff/` es solo lectura.** Crear, modificar, mover o borrar algo fuera de esa carpeta requiere solicitud explicita del autor para ese cambio concreto. La autorizacion no se extiende a otros cambios ni a conversaciones posteriores.
+- Dentro de `98_Agent_Handoff/`, crear archivos nuevos en lugar de editar los de otros agentes (Drive sincroniza con retraso y puede generar copias en conflicto). No editar `CURRENT_BRIEF.md`, `PENDING.md`, `DECISIONS.md`, `START_HERE.md` ni este archivo.
+- Nunca borrar archivos, tampoco dentro de `98_Agent_Handoff/`, sin pedirlo el autor.
+- No afirmar que algo quedo integrado al vault hasta que Claude Code lo confirme.
+- No redactar prosa final de la novela para insertarse directamente.
 
 ## Flujo Recomendado
 
-### Para un capitulo nuevo
+### Idea nueva
 
-1. Autor + ChatGPT: objetivo, conflicto, beats, informacion y efecto emocional.
-2. Codex: comprueba continuidad y convierte el acuerdo en brief estructural si hace falta.
-3. Claude Code: redacta.
-4. ChatGPT: lectura editorial y diagnostico.
-5. Claude Code: revision de prosa.
-6. Codex: actualiza continuidad, brief, decisiones y pendientes si el capitulo cambio el estado del proyecto.
+1. Autor + ChatGPT exploran la idea.
+2. ChatGPT deja nota en `98_Agent_Handoff/ChatGPT/`.
+3. Claude Code la lee, la contrasta con canon y continuidad, y la presenta al autor.
+4. El autor decide; Claude Code integra o la registra como PENDIENTE.
 
-### Para una decision de canon
+### Capitulo nuevo o revision
+
+1. Claude Code prepara contexto, beats y continuidad (con ideas de ChatGPT si las hay).
+2. Claude Code redacta o revisa.
+3. Claude Code actualiza brief, decisiones, pendientes e indices.
+4. Si hace falta un barrido mecanico (sustituciones, enlaces, conteos), lo encarga a Codex.
+
+### Decision de canon
 
 1. El autor decide.
-2. Codex registra la decision en los documentos canonicos correspondientes.
-3. ChatGPT y Claude Code la tratan como restriccion en trabajos posteriores.
-
-### Para investigacion
-
-1. ChatGPT investiga y sintetiza lo narrativamente util.
-2. El autor decide que entra al proyecto.
-3. Codex documenta lo aprobado.
-4. Claude Code lo utiliza sin convertir la prosa en exposicion tecnica.
+2. Claude Code la registra en los documentos canonicos.
+3. Codex y ChatGPT la tratan como restriccion.
 
 ## Handoffs Dirigidos
 
-Las notas entre agentes viven en:
+Notas entre agentes en `98_Agent_Handoff/sessions/` (excepto ChatGPT, que usa su buzon).
 
-`98_Agent_Handoff/sessions/`
-
-Convencion sugerida:
-
-`AAAA-MM-DD_origen_para_destino_tema.md`
+Convencion: `AAAA-MM-DD_origen_para_destino_tema.md`
 
 Ejemplos:
 
-- `2026-08-28_chatgpt_para_claude_revision_capitulo_08.md`
-- `2026-08-28_chatgpt_para_codex_pistas_abiertas.md`
-- `2026-08-28_codex_para_claude_beats_capitulo_09.md`
-- `2026-08-28_claude_para_codex_cambios_continuidad_capitulo_09.md`
+- `2026-10-03_claude_para_codex_sustitucion_nombres.md`
+- `2026-10-03_codex_para_claude_reporte_enlaces_rotos.md`
+- `98_Agent_Handoff/ChatGPT/2026-10-03_idea_escena_bodega.md`
 
 ## Plantilla De Nota Dirigida
 
@@ -150,38 +136,18 @@ Ejemplos:
 # AAAA-MM-DD - Origen -> Destino - Tema
 
 ## Objetivo
-
-Que debe conseguir el agente receptor.
-
 ## Contexto Minimo
-
-Solo los hechos necesarios para ejecutar el encargo.
-
 ## Canon Del Autor
-
-- Decisiones intocables relevantes.
-
 ## Encargo
-
-- Acciones concretas.
-
 ## No Tocar
-
-- Elementos que no deben reescribirse, adelantarse o reinterpretarse.
-
 ## Resultado Esperado
-
-- Archivo, revision, diagnostico o commit esperado.
-
 ## Pendientes
-
-- Decisiones que siguen siendo del autor.
 ```
 
 ## Disciplina Del Handoff
 
-- No duplicar biblias enteras dentro de `sessions/`.
+- No duplicar biblias enteras dentro de `sessions/` ni del buzon.
 - Enlazar archivos fuente del vault cuando sea posible.
-- Una nota debe ser suficientemente compacta para que el receptor pueda empezar sin leer `log.md`.
-- Si una sesion cambia canon o estructura, el handoff no sustituye la actualizacion de los documentos canonicos.
-- Una propuesta de agente debe marcarse como **DISENO** o **PENDIENTE** hasta que el autor la confirme.
+- Una nota debe ser suficientemente compacta para empezar sin leer `log.md`.
+- Un handoff no sustituye la actualizacion de los documentos canonicos (eso lo hace Claude Code).
+- Una propuesta de agente se marca como **DISENO** o **PENDIENTE** hasta que el autor la confirme.

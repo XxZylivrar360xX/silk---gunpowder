@@ -60,11 +60,13 @@ La division predeterminada esta en `98_Agent_Handoff/AGENT_ROLES.md`.
 Resumen:
 
 - Autor: decide.
-- ChatGPT: sala editorial, investigacion, diagnostico y briefs.
-- Codex: arquitectura, continuidad, mantenimiento e integracion del vault.
-- Claude Code: redaccion y revision de prosa.
+- Claude Code: maintainer principal del repositorio (prosa, canon, continuidad, estructura, handoff).
+- Codex: apoyo de mantenimiento por encargo (auditorias pequenas, analisis cortos, sustituciones masivas); reporta a Claude Code.
+- ChatGPT: incubadora de ideas crudas del autor; solo escribe en `98_Agent_Handoff/`.
 
 Si una sesion deja trabajo dirigido a otro agente, crear una nota breve en `98_Agent_Handoff/sessions/`.
+
+ChatGPT escribe por Google Drive **solo dentro de `98_Agent_Handoff/`** (buzon: `ChatGPT/`); fuera de ahi es solo lectura salvo solicitud explicita del autor. Al arrancar, revisar `98_Agent_Handoff/ChatGPT/` por mensajes nuevos.
 
 ## Cierre De Sesion
 
