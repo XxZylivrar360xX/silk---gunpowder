@@ -441,6 +441,37 @@ intenta construir memorias que puedan vivir junto a ellas.
 
 ---
 
+## Incubadora 2026-10-03: mundo criminal, tormenta y sinergia (CANON DEL AUTOR)
+
+Fuente: migración de la incubadora de ChatGPT, validada por el autor el 2026-10-03 (M-01 a M-26 canon; M-27 diseño). Nota archivada en `98_Agent_Handoff/archive/chatgpt/2026-10-03_migracion_sombras_de_poder.md`. Sesión: [[98_Agent_Handoff/sessions/2026-10-03_claude_buzon_chatgpt_nueve_notas]].
+
+**Identidad del libro.** *Sombras de Poder* desplaza el foco del mundo de Chiara (Libro I) a la visceralidad del mundo de Kal: bandas, narcotráfico, tiroteos, policía, negociaciones inseguras y consecuencias físicas. **Silas Crowe es el conflicto vertebral**: el antagonismo activo que presiona el ascenso de Kal. Dario sigue siendo la estructura superior de poder. Kal aprende desde dentro la arquitectura de Dario: bandas, miedo, rutas, narcóticos, acuerdos y piezas sacrificables.
+
+**Bandas.** No forman dos bloques: unas pasan de enemistad con El Patio a neutralidad, otras son leales a Dario por miedo, otras son neutrales o aliadas circunstanciales de Kal. Kal gana respeto por código y conducta; **respeto no es lealtad** ni subordinación.
+
+**Pareja como sinergia (supera el énfasis anterior de "Arco de pareja").** La relación deja de ser foco: es infraestructura emocional. Kal y Chiara aprenden que pueden operar separados y seguir siendo unidad. Cada noche vuelven a Villa Candelaria (desde la Parte II) como lugar seguro del otro. Kal vuelve herido varias veces (peleas, tiroteos, choques); Chiara lo atiende y sutura lo menor; lo grave sigue necesitando atención médica real. El cuidado es recíproco: si ella llega saturada, él le lleva vino, comida o le da masaje de pies; pueden acabar la noche trabajando cada uno en lo suyo y sólo darse las buenas noches.
+
+**Chiara y la empresa.** Tras el asesinato de Tommaso, Chiara **compra *El Faro*** para tener voz propia ante la opinión pública: las fases previas (fuente → asesora → inversora) se conservan y Tommaso detona la compra legal (decisión del autor, 2026-10-03; ver [[03_Factions/El_Faro]]). Kal y Chiara **fundan juntos una cadena hotelera**; [[02_Characters/Kenji_Oda]] pasa de gerente de caja del Monarch a administrarla. Cuándo ocurre cada cosa es PENDIENTE.
+
+### El gran enfrentamiento de la tormenta (antes de H1)
+
+- Un golpe, todavía por definir, escala durante una tormenta hasta involucrar a unas tres bandas, El Patio, la policía y civiles. No convierte el libro en la Guerra de los Tres.
+- Chiara lo ve en vivo por un reportero de su propio periódico (presupone *El Faro* ya comprado). Llama a Kal. Él contesta **"Dime, Amore"**: **la única vez en toda la saga que Kal la llama así**. No se explica después.
+- Chiara se niega a esperar: habilita uno de sus almacenes del sur como triaje discreto. [[02_Characters/Camila_Rivas]] atiende lo grave; Chiara, con pijama médico, ayuda de forma inexperta en heridas leves y soporte. **No es combatiente ni médica competente.**
+- Chiara tiene una radio cerca: la voz de Kal, dando órdenes y coordinando extracciones, es durante horas la prueba intermitente de que sigue vivo.
+- Cuando la policía cierra el área, Kal cambia de prioridad: abre extracciones y saca vivos a los suyos, a miembros de bandas rivales y a civiles, adelantándose al cierre policial. Las bandas lo recuerdan: respeto, neutralidad, oportunidades; no alianzas automáticas.
+- Hay muertos y heridos reales entre aliados, rivales y civiles; el costo afecta a Kal y a Chiara después.
+- Expone que Dario sacrifica peones sin escrúpulo, en contraste con Kal.
+- **Cataliza la escalada policial:** alerta elevada, armas largas, SWAT, redadas, presencia sostenida contra bandas y El Patio. *Voto de Ceniza* escala desde este piso; no empieza de cero (ver [[03_Factions/Departamento_de_Policia_de_San_Aurelio]]).
+- Tensa la relación Kal–[[02_Characters/Lucia_Varek]]: lo que para Kal es salvar vidas, para Lucía es obstrucción, extracción de sospechosos y mando extralegal.
+- Cierre doméstico: agotados, Kal pregunta qué cenarán; Chiara pide una hamburguesa doble; Kal dice que una buena hamburguesa también le entra. Normalidad, no melodrama.
+- **DISEÑO (M-27):** el episodio puede enseñarle a Silas/Dario que la vulnerabilidad de Kal es no abandonar a quien tiene bajo su responsabilidad; H1 podría explotar esa virtud.
+- **DISEÑO (Natalie):** [[02_Characters/Natalie_Keegan]] puede estar en la respuesta oficial de la misma crisis mientras Chiara y Camila sostienen la clandestina; en staging, no entrando a escena activa.
+
+**Descartado por el autor:** la pareja como conflicto romántico central; ascenso por coronación o conquista lineal de todas las bandas; bandas rescatadas convertidas en aliadas inmediatas; Chiara combatiente o médica experta en el triaje.
+
+---
+
 ## Cierre del Libro II
 
 El Libro II termina exactamente donde [[00_Biblia/00_Trilogy_Structure]] lo fija: antes del
@@ -464,6 +495,8 @@ nacimiento de Elenna, antes de la Guerra de los Tres abierta, con Halbrook reci�
 - Composición y objetivo operativo exacto de la coalición de H1.
 - Nacimiento, falsa muerte y mecanismo hospitalario de Elenna: pendientes de *Voto de Ceniza*
   (Libro III), sin traslado a este libro.
+- **Tormenta (2026-10-03):** Parte donde cae; objetivo original del golpe; qué tres bandas; qué personajes con nombre pagan el costo; si la postura policial cambia al día siguiente o escala en semanas; autoridad operativa de Lucía esa noche; si Crowe aprende del episodio dentro de la historia o sólo el lector (M-27).
+- Cuándo compra Chiara *El Faro*, cuándo se funda la cadena hotelera y cuándo deja Kenji la caja.
 - Cualquier numeración de capítulo para estas tres Partes: usar únicamente etiquetas como
   "apertura de Parte I", nombres de hito (H1…), nunca números inventados — el Cap. 45 es el
   único ya posicionado (apertura de Parte I), por el plan de cierre de la Parte III del Libro I.

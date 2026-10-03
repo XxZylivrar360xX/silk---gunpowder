@@ -20,13 +20,30 @@ Nicholas arrastra desde hace unos dieciocho a veinte años el homicidio de una o
 
 > **RESUELTO (2026-09-16):** la naturaleza de su relación es de **colegas cercanos, casi hermanos de armas** — cariño platónico profundo, sin tensión romántica. El duelo de Nicholas es el de perder a alguien que confiaba en él ciegamente, sin ninguna sombra retroactiva sobre su matrimonio con María.
 
-> **RESUELTO (2026-09-16):** el grado de corrupción de Raymond Keene en el encubrimiento de Vera fue de **omisión** — no lo ordenó, pero dejó correr la versión oficial una vez que vio los beneficios (menos exposición, menos redadas). Encaja con el patrón ya establecido de Nicholas: cosas que sospecha pero nunca puede probar del todo — Keene, Varek y ahora Vera son la misma clase de fracaso institucional.
+> **SUPERSEDIDO (2026-10-03):** la omisión pasa a [[02_Characters/Elena_Vega]]; Keene ya estaba muerto la noche Vera. Texto anterior: el grado de corrupción de Raymond Keene en el encubrimiento de Vera fue de **omisión** — no lo ordenó, pero dejó correr la versión oficial una vez que vio los beneficios (menos exposición, menos redadas). Encaja con el patrón ya establecido de Nicholas: cosas que sospecha pero nunca puede probar del todo — Keene, Varek y ahora Vera son la misma clase de fracaso institucional.
 
-Durante años creyó que Vera murió intentando salvar a un niño de un tirador adulto. Ese niño terminó convirtiéndose, en su memoria, en “la última persona que Vera salvó”. La opción más fuerte es que Nicholas mantuviera contacto con él con los años, incluso como una figura tipo “Uncle Nick”, sin llegar a criarlo.
+Durante años creyó que Vera murió intentando salvar a un niño de un tirador adulto. Ese niño terminó convirtiéndose, en su memoria, en “la última persona que Vera salvó”. ~~La opción más fuerte es que Nicholas mantuviera contacto con él con los años, incluso como una figura tipo “Uncle Nick”, sin llegar a criarlo.~~ **CANON (2026-10-03):** Nicholas **perdió el rastro** del niño después de esa noche; le dijeron que se lo llevaron unos parientes. Honra un recuerdo, no a una persona. De adulto, Ethan se le acerca como pareja de Elenna y Nicholas lo aprecia sin saber quién es.
 
 La verdad posterior invierte esa historia: Vera murió porque **eligió no dispararle al niño**, y el niño fue quien disparó.
 
 Nicholas pasó años protegiendo o queriendo al responsable sin saberlo.
+
+> **Nota (2026-10-03):** la noche ocurrió durante el Libro I, así que la herida tiene **~22–24 años** en el V, no 18–20. Ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]].
+
+## Arco ético y némesis (CANON DEL AUTOR, 2026-10-03, lote 3 PROYECTO RECLUTA)
+
+**No es corrupción clásica: es erosión ética progresiva dentro de una vocación genuina.** Nicholas sigue siendo un buen policía: protege a sus oficiales y no encubre. Su defecto nace de creer que, si el objetivo es correcto, ciertos medios se justifican: *"El fin justifica los medios, pero no por eso soy un mal policía."* Puede defender cada paso por separado ("sólo estoy acelerando el proceso", "no estoy plantando pruebas").
+
+> **Un buen policía que empieza a creer que su bondad le concede permiso para romper ciertas reglas.**
+
+- **Falsa victoria:** el arresto y el juicio de Dylan le dan una sensación inicial de cierre. El testimonio del VII demuestra que sólo había resuelto la segunda mitad de la noche: *¿quién mató a los Marsh y por qué Vera llegó a una casa que ya estaba rota?*
+- **Némesis:** [[02_Characters/Blake_Stanton]]. Comparten Departamento desde hace décadas sin ser amigos. Uno buscó una verdad incompleta; el otro sobrevivió gracias a que siguiera incompleta. La diferencia entre ambos no es que uno rompa reglas y el otro no: **Nicholas todavía puede detenerse.**
+- **Progresión de la sospecha (DISEÑO):** testimonio de Dylan (placa) → reabre la noche → aparece la vieja confrontación del padre Marsh con un policía → registros y quejas → corrupción policial histórica → necesita expedientes internos → Blake aparece cada vez más cerca del centro de esas consultas. Nunca sospecha de él desde el principio.
+- **Escalones del deterioro (DISEÑO):** retener información para verificarla → archivo por vía gris → presionar a un testigo → favor fuera de procedimiento → dejar fuera a Asuntos Internos → justificarlo por riesgo de fuga → decidir qué reglas estorban → Elenna lo confronta como policía, no como hija simbólica.
+- **Final (DISEÑO):** recuperación ética, no caída profesional: resolver el caso sin dejar que Blake le dicte qué clase de policía tiene que ser. Se conecta con María, Adam y la pregunta de volver a casa.
+- **Lucia (DISEÑO):** contrapeso con razones defendibles (exigir evidencia, limitar recursos, evitar filtraciones), no obstrucción burocrática.
+
+**PENDIENTE:** su rango en V, VI y VII; su historia con Blake (opinión de juventud, casos juntos); si recuerda la confrontación del padre Marsh; quién encuentra el primer registro; qué procedimiento lo acerca a Asuntos Internos; si oculta la investigación a Lucia; qué línea no cruza nunca; qué costo institucional paga.
 
 ## Familia Voss
 

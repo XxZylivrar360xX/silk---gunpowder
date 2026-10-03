@@ -6,6 +6,8 @@
 >
 > **OBJETIVO:** migrar de forma segmentada las ideas desarrolladas en conversación sobre la continuación de Elenna Mercer, sin contaminar el canon ya fijado en la trilogía.
 >
+> **TRILOGÍA (2026-10-03, CANON DEL AUTOR):** la carpeta conserva su nombre histórico "Libro_04", pero el ciclo de Elenna son ahora tres libros: V *Juramento de Hierro* · VI *Hijos del Silencio* · VII *Camino a Casa*. Ver [[00_Biblia/00_Trilogy_Structure]]. Las menciones a "Libro 4/5/6" y a "duología" en esta carpeta son históricas.
+>
 > **TÍTULOS (CANON DEL AUTOR, 2026-09-16):** Libro 4 = **Juramento de Hierro** (portada: `99_Reference/book_covers/Juramento_De_Hierro_VICTOR_PAZ.png`); Libro 5 = **Camino a Casa** (portada: `99_Reference/book_covers/Camino_A_Casa_VICTOR_PAZ.png`). Ver [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] para la arquitectura de duología.
 
 ## Fuente principal ya existente
@@ -27,10 +29,11 @@ Esta carpeta **no sustituye** esos documentos. Los amplía con material todavía
 8. [[07_Ideas/Libro_04_Incubadora/08_Pendientes_De_Autor]] — registro de decisiones del autor; todas las preguntas originales quedaron resueltas el 2026-09-16.
 9. [[07_Ideas/Libro_04_Incubadora/09_Playlist_Erin]] — referencia musical no canon para el tono emocional de Erin Reyes.
 10. [[07_Ideas/Libro_04_Incubadora/CLAUDE_HANDOFF]] — encargo de integración para Claude Code.
+11. [[07_Ideas/Libro_04_Incubadora/10_Reglas_Revelacion_Caso_Vera]] — qué se revela en el VI y qué se reserva para el VII (2026-10-03).
 
 ## Material narrativo de apoyo (escenas completas, no canónicas)
 
-- [[07_Ideas/Libro_04_Incubadora/Hospital_Reencuentro_Elenna]] — escena de prosa completa: despertar de Elenna en el hospital y primer reencuentro físico con Kal y Chiara, apertura del Libro 6. No canónica hasta aprobación del autor.
+- [[07_Ideas/Libro_04_Incubadora/Hospital_Reencuentro_Elenna]] — escena de prosa completa: despertar de Elenna en el hospital y primer reencuentro físico con Kal y Chiara, apertura del Libro VII (*Camino a Casa*). No canónica hasta aprobación del autor.
 - [[07_Ideas/Libro_04_Incubadora/Hangar_Despedida_Elenna]] — escena de prosa completa: despedida de Kal y Chiara en un hangar privado, contrapunto del reencuentro del hospital. No canónica hasta aprobación del autor.
 
 ## Regla de integración

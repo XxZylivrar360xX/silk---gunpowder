@@ -4,6 +4,8 @@
 
 Aportada por el autor (2026-09-16). Orden temático, no necesariamente orden de lectura del libro.
 
+> **Reparto en la trilogía (2026-10-03):** era Río → antes del V; pre-presa → V y primera mitad del VI; después de la presa → VI; reciprocidad ("Libro 5" abajo) → *Camino a Casa* (VII). Ver [[11_Books/Book_06_Hijos_Del_Silencio/00_Book_Map]].
+
 ## Era Río / viajes (antes de San Aurelio)
 
 - **Ketchum, ID — boygenius:** la Erin viajera, la sensación de estar en todos lados y no estar realmente en ninguno. Da peso a que decida quedarse cuando Elenna vuelve a San Aurelio (ver "Origen" en [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]]).

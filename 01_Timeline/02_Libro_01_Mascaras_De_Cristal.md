@@ -88,6 +88,8 @@ Nace aquí una idea que Parte III va a poner a prueba: **proteger al otro no con
 - *(capítulo puente, sin ID)* — [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta|La periferia]] (Cap. 33): primera consecuencia lateral del pacto con Varek; Marisol / Kenji; Kal aplica el aprendizaje de preocuparse sin escoger por otro.
 - **H21 — Mi pareja** (Cap. 34): formalización verbal en el Audi de Kal, con Nadir en altavoz. Cierra la Parte II.
 
+- **Fuera de escena — la noche Marsh–Vera (CANON 2026-10-03):** entre la noche del taller del norte (Cap. 26) y el amanecer del Cap. 29, Blake Stanton mata a los padres Marsh, Dylan mata a la oficial Vera Kessler y Volpi limpia la escena y entrega al niño a Varek. Cuando Kal llega a la mansión, el niño está escondido ahí. El Libro I no lo muestra; sólo Vivian lo nombra en código (Cap. 29, PENDIENTE). Ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]].
+
 ### Movimiento Kal
 
 Entra a la estructura de Varek desde dentro por primera vez y descubre que sabe operar en ella sin dejar de ser él mismo. Aplica en La periferia la misma lección que le va a hacer falta durante toda la Parte III: preocuparse por alguien no es lo mismo que decidir por esa persona.

@@ -1,18 +1,22 @@
-# Hospital — el reencuentro con Elenna (apertura de *Camino a Casa*, Libro 6)
+# Hospital — el reencuentro con Elenna (apertura de *Camino a Casa*, Libro VII)
 
 > **MATERIAL NARRATIVO DE APOYO — NO CANÓNICO HASTA APROBACIÓN DEL AUTOR.**
 >
 > Escena de exploración para el inicio de *Camino a Casa*. La arquitectura emocional y varios
 > diálogos provienen de decisiones del autor (ver [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro|escena faro 2]]),
 > pero la ejecución en prosa permanece sujeta a revisión.
+>
+> **Reconciliado 2026-10-03 (lote 4 PROYECTO RECLUTA):** líneas canon actualizadas, deducción de Kal sobre la foto y las flores retirada, glosas podadas. Ver la sección final.
 
 ---
 
 ## La lógica, antes que la escena
 
-**Qué pasa:** Elenna despierta en el hospital después del disparo. Es el primer reencuentro
+**Qué pasa:** Elenna despierta en el hospital después del disparo, recibido en un asalto
+bancario con rehenes donde se infiltró contra las órdenes de Nicholas (CANON DEL AUTOR,
+2026-10-03; evento independiente de la trama principal). Es el primer reencuentro
 físico de Kal y Chiara con ella desde que decidió quedarse en San Aurelio e ingresar a la
-academia — todo el Libro 4 ocurrió con Kal por llamadas y Chiara por cartas, nunca en persona.
+academia — los Libros V y VI ocurrieron con Kal por llamadas y Chiara por cartas, nunca en persona.
 La función es **HOGAR**, no investigación: no se toca el caso, no se adelanta nada sobre Ethan,
 y Kal y Chiara no vuelven a ser protagonistas operativos.
 
@@ -32,12 +36,17 @@ lo que el resto de la saga ya contó. La nostalgia le pertenece al lector, nunca
 de página en vez de como explicación.
 
 **Base fija (CANON DEL AUTOR, no reescribir):** todo el diálogo bloque de
-[[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro|escena faro 2]] — "No te voy a llamar para que
-dispares por mí" / "Sobre todo debes llamar por esa razón"; la broma cruel sobre Chiara
-molesta; "Puedo estar molesta con ella y aun así no voy a dejar al amor de mi vida sola en una
-situación así" / "Auch, creí que yo era el amor de tu vida" / "Te degradaron a segundo, bello" /
-"Va bene, va bene"; "Ciao, amore mio"; la fotografía de *Tres Hermanas* junto al florero, dejada
-por Marisol, con las flores de Bonnie; Rex durmiendo en la cama pese a su tamaño. Lo que sigue
+[[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro|escena faro 2]] — "Papá" / "Te ves horrible" /
+"También me alegra verte"; "No te voy a llamar para que dispares por mí" / "Sobre todo debes
+llamar por esa razón" (no parafrasear la primera); la broma sobre Chiara molesta; "Ciao, amore
+mio"; "Puedo estar molesta contigo y aun así no voy a dejar al amor de mi vida sola en una
+situación así" / "Auch. Creí que yo era el amor de tu vida" / "Te degradaron a segundo, bello" /
+"Va bene, va bene" / "No puedo creer que todavía hagas eso" / "Porque lo haces horrible a
+propósito" / "Y aun así me entiendes" / "Ése nunca fue el problema, bello"; el beat del café; la
+última imagen (Kal sale por café, Chiara se queda, Rex descansa, Elenna cierra los ojos sin
+vigilar la puerta); la fotografía de *Tres Hermanas* junto al florero, dejada por Marisol, con
+las flores de Bonnie; Rex en la cama pese a su tamaño; Elenna sin sus gafas redondas al
+despertar. Lo que sigue
 añade puesta en escena, cuerpo y ritmo alrededor de ese esqueleto ya fijado.
 
 **Referencia visual:** ![[99_Reference/chapter_concepts/Reencuentro_Elenna.png|480]] — calibra
@@ -101,14 +110,11 @@ y en el momento en que la vio, todo lo demás dejó de necesitar explicación.
 
 —Papá.
 
-Él terminó el trago de café que ya tenía en la boca, sin prisa, como si la palabra no le hubiera
-cambiado nada por dentro.
+Él terminó el trago de café que ya tenía en la boca, sin prisa.
 
 —Te ves horrible.
 
 —También me alegra verte.
-
-Fue lo único que hizo falta decir.
 
 Dejó el vaso en la mesa lateral, sin sentarse todavía. Miró el vendaje del hombro un segundo
 más de lo necesario — no lo tocó, sólo lo miró, como quien revisa un trabajo terminado sin
@@ -143,19 +149,8 @@ voz ni cambiar el tono.
 
 Fue entonces cuando notó la fotografía, apoyada contra un florero pequeño en la mesa del rincón
 — la última que se habían tomado las tres, Bonnie y Marisol a los lados, ella al centro, todas
-mirando a la cámara de un mesero que ninguna conocía. Kal siguió la dirección de su mirada.
-
-—La foto es de Marisol.
-
-—¿Cómo sabes?
-
-—Está derecha.
-
-—¿Y las flores?
-
-—Bonnie. Los tallos están parejos.
-
-No hacía falta preguntar más. Los conocía.
+mirando a la cámara de un mesero que ninguna conocía. Kal siguió la dirección de su mirada y no
+dijo nada.
 
 —¿Y mamá?
 
@@ -211,10 +206,9 @@ dejar al amor de mi vida sola en una situación así.
 
 —Va bene, va bene.
 
-—Todavía lo dices horrible —le dijo Elenna a su padre.
+—No puedo creer que todavía hagas eso —le dijo Elenna a su padre.
 
-—Lo hace horrible a propósito —le dijo Chiara, mirando a Kal—. Lleva veinte años haciéndolo a
-propósito.
+—Porque lo haces horrible a propósito —le dijo Chiara.
 
 —Y aun así me entiendes —dijo Kal.
 
@@ -229,8 +223,7 @@ lista antes de que ella terminara de arrugar la nariz.
 
 —Siempre es lo que había contigo.
 
-Se lo devolvió de todos modos, y Kal lo aceptó de vuelta sin comentario, como si acabaran de
-resolver algo mucho más importante que un vaso de café malo.
+Se lo devolvió de todos modos, y Kal lo aceptó de vuelta sin comentario.
 
 Chiara se sentó en la silla que Kal ya había acercado a la cama sin que nadie se lo pidiera, y
 no soltó la mano de Elenna. Él se quedó de pie un momento más, mirando el vendaje una última
@@ -253,39 +246,24 @@ Y por primera vez desde el disparo, Elenna cerró los ojos sin quedarse pendient
 
 ## Notas para cuando esto encuentre capítulo
 
-> **CANON DEL AUTOR, ya fijado y no tocado aquí:** todas las líneas de diálogo listadas en
-> [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro|escena faro 2]] — se usaron literales o casi
-> literales, incluida la cadena "Puedo estar molesta contigo... / Auch... / segundo, bello... /
-> Va bene, va bene". La función (HOGAR, no investigación), la fotografía de *Tres Hermanas*
-> dejada por Marisol, las flores de Bonnie, y Rex durmiendo en la cama vienen de la misma fuente.
-> Es también la primera aparición física de Kal y Chiara ante Elenna desde que ella entró a la
-> academia — todo el libro anterior de la duología ocurrió por llamadas (Kal) y cartas (Chiara).
+> **CANON DEL AUTOR (2026-09-16, ampliado 2026-10-03 en el lote 4):** todo lo listado en "Base
+> fija" arriba. Las líneas se usan literales. Función: HOGAR, no investigación. Kal no verbaliza
+> el miedo de haberla perdido; quiere por acciones (vendaje, agua, dolor, comodidad).
 
-> **DISEÑO, ejecución de esta y la sesión anterior, revisable:** el mecanismo completo de la
-> confusión con el capitán Voss, el orden de reconstrucción sensorial del cuarto al despertar, la
-> deducción foto/Marisol y flores/Bonnie resuelta ahora como intercambio corto en vez de análisis
-> elaborado, los gestos de preocupación silenciosa de Kal (vaso de agua, revisión de los dedos
-> bajo el vendaje, la broma extendida sobre Chiara), el gesto mínimo de Rex al reconocer a
-> Chiara, los beats de pareja veinte años después (silla ya acercada, respuesta del café
-> anticipada), y los detalles físicos de envejecimiento — calibrados también contra
-> [[99_Reference/chapter_concepts/Reencuentro_Elenna.png]]. Nada de esto contradice ficha alguna.
+> **DISEÑO, revisable:** el orden de la reconstrucción sensorial del cuarto (la lámpara como
+> ancla), los gestos silenciosos de Kal (vaso de agua, dedos bajo el vendaje), el gesto mínimo de
+> Rex al reconocer a Chiara, la silla ya acercada y los detalles de envejecimiento, calibrados
+> contra [[99_Reference/chapter_concepts/Reencuentro_Elenna.png]]. Principio de poda: si la
+> conducta ya lo muestra, el narrador no lo explica.
 
-> **PENDIENTE, no resuelto por este borrador:** apariencia física exacta del capitán Voss (sin
-> ficha visual — ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]]); diálogo médico o motivo
-> exacto del alta, que no compete a esta escena.
+> **Retirado 2026-10-03 (lote 4):** la deducción de Kal ("está derecha" / "los tallos están
+> parejos"), por detectivesca; dos glosas del narrador ("Fue lo único que hizo falta decir"; "como
+> si acabaran de resolver algo mucho más importante…"); y "Todavía lo dices horrible" / "Lleva
+> veinte años haciéndolo a propósito", sustituidas por las líneas canon.
 
-> **PENDIENTE, numeración de libro (no resuelto aquí):** el título de este archivo sigue usando
-> "Libro 6" porque coincide con la carpeta vigente `11_Books/Book_06_Camino_A_Casa/`, numeración
-> que resulta de la inserción de *Sombras de Poder* como Libro II (supersesión del 2026-09-22,
-> ver [[00_Biblia/00_Trilogy_Structure]] y [[98_Agent_Handoff/CURRENT_BRIEF]]). El resto de
-> `Libro_04_Incubadora/` (README, escenas faro, fichas) todavía usa la numeración anterior a esa
-> inserción ("Libro 4 = Juramento de Hierro", "Libro 5 = Camino a Casa"). Esta carpeta completa
-> necesita una pasada de reconciliación de numeración que no corresponde hacer desde este archivo
-> de apoyo.
-
-> **No se tocó:** ninguna ficha de personaje, ningún book map, ni
-> [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]], ni cronología, ni estados de canon. Este
-> archivo es material de apoyo independiente.
+> **PENDIENTE:** apariencia física exacta del capitán Voss (sin ficha visual — ver
+> [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]]); diálogo médico y alta. *(Resuelto 2026-10-03: el asalto cierra el
+> VI con Elenna en el suelo del banco, espejo de Santa Lucía; esta escena es el payoff directo.)*
 
 ---
 
@@ -294,4 +272,4 @@ Ver también: [[07_Ideas/Libro_04_Incubadora/Hangar_Despedida_Elenna]] ·
 [[02_Characters/Chiara_Bellandi]] · [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]] ·
 [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]] ·
 [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]] ·
-[[11_Books/Book_06_Camino_A_Casa/00_Book_Map]]
+[[11_Books/Book_07_Camino_A_Casa/00_Book_Map]]

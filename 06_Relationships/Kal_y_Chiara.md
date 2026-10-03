@@ -538,6 +538,25 @@ Y la pregunta previa, antes de escribir una línea:
 
 > **PENDIENTE (2026-08-26):** eco de "quédate detrás de mí". En el Capítulo 2, el recuerdo de infancia de Chiara en la iglesia de Palermo cierra con Corrado prometiéndole "ya lo arreglo yo... quédate detrás de mí" — promesa que él no pudo cumplir (murió en la redada federal antes de poder arreglar nada, y ella ni pudo despedirse; ver el remate ya escrito en el manuscrito). Falta construir un momento posterior del libro, en una situación de riesgo real con los dos presentes y conscientes (no un rescate después del hecho, como H5 o F3, donde Kal la encuentra ya inconsciente), donde Kal se interponga físicamente entre ella y el peligro — con una frase o gesto que funcione como eco directo de la de Corrado. Chiara debe reconocer internamente el eco, y debe pesarle de un modo distinto a como pesó la primera vez: esta promesa sí se sostiene. No forzarlo dentro de F3 ni H5, que ya tienen función propia bien definida ([[06_Relationships/Momentos_de_Fractura]]); buscar un beat nuevo o uno todavía sin diseñar.
 
+## Libro II: la pareja como sinergia — CANON DEL AUTOR (2026-10-03)
+
+En *Sombras de Poder* la relación deja de ser el conflicto dominante y pasa a ser infraestructura emocional. La regla dura no cambia; cambia el énfasis. Detalle en [[01_Timeline/03_Libro_02_Sombras_De_Poder]] ("Incubadora 2026-10-03").
+
+- Pueden operar separados y seguir siendo unidad. Cada noche vuelven a Villa Candelaria como lugar seguro del otro.
+- Kal vuelve herido varias veces; Chiara sutura lo menor. Lo grave va con médico.
+- Cuidado recíproco: vino, comida o masaje de pies cuando ella llega saturada; a veces sólo trabajan cada uno en lo suyo y se dan las buenas noches.
+- **"Dime, Amore":** en la tormenta, Kal contesta así la llamada de Chiara. **Es la única vez en toda la saga que él la llama "Amore".** No se repite ni se explica. (Chiara sí usa "amore" y "amore mio"; la unicidad es sólo de Kal.)
+- La radio como indicador de vida durante el triaje; cierre con la hamburguesa doble.
+
+## Lecturas editoriales para vigilar — DISEÑO (2026-10-03)
+
+De dos lecturas críticas de la incubadora (archivadas en `98_Agent_Handoff/archive/chatgpt/`), útiles al revisar o escribir:
+
+- **"Libros abiertos" (Cap. 25) es un pacto de apertura voluntaria, no de transparencia absoluta.** Los secretos de terceros (Michael, Nadir) siguen siendo legítimos, siempre que Kal no los use para decidir por Chiara lo que afecta su agencia. No reinterpretar el 25 de modo que culpe silencios legítimos.
+- Secuencia 25 → 30: apertura elegida → recaída (cada uno carga solo lo que cree que protege al otro) → choque → nombran el patrón en "Media baraja" → pacto operativo más maduro. El 25 no cura el defecto: les da el lenguaje para reconocerlo.
+- 28 → 32: Kal no aprende a dejar de proteger, sino que **proteger no le da autoridad sobre las decisiones ajenas**. Las recaídas posteriores en "yo cargo solo" deben producir evolución, no repetición circular.
+- Postoperatorio 20–32: los Caps. 20, 21, 22 y 24 se dan por sanos; no reabrirlos por perfeccionismo, sólo ante una complicación concreta.
+
 ---
 
 Ver también: [[02_Characters/Kal_Mercer]] · [[02_Characters/Chiara_Bellandi]] · [[00_Biblia/Temas]] · [[99_Reference/README]]

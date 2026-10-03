@@ -83,6 +83,8 @@ Ahí El Patio deja de ser sólo útil y empieza a ser proveedor de la mayoría d
 
 ---
 
+> **CANON DEL AUTOR (2026-10-03):** el ecosistema es móvil, no dos bloques: bandas que pasan de enemigas de El Patio a neutrales, leales a Dario por miedo, neutrales o aliadas circunstanciales de Kal. **El respeto a Kal no equivale a lealtad.** Tras la tormenta de *Sombras de Poder*, las bandas que Kal sacó antes del cierre policial lo recuerdan: respeto, neutralidad u oportunidades, no alianzas automáticas. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]] ("Incubadora 2026-10-03").
+
 ## Preguntas Abiertas
 
 > **PENDIENTE:** cuál conflicto abre el arco electoral de Russ.

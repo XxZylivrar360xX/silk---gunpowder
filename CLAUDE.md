@@ -40,7 +40,7 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 
 ## Reglas Intocables
 
-- **SUPERSESION VIGENTE (2026-09-07, actualizada 2026-09-22):** `00_Biblia/00_Trilogy_Structure.md` manda sobre cualquier diseno anterior en alcance, fronteras entre libros, ubicacion de Bonnie, H1, H22, cierre de la Guerra de los Tres y apertura de Meridian/Il Consorzio. **Desde 2026-09-27 *Seda y Polvora* es el nombre de la saga**; el Libro I se llama *Mascaras de Cristal*. La saga tiene cuatro libros de arco principal (*Mascaras de Cristal*, *Sombras de Poder* [nuevo], *Voto de Ceniza*, *Cuentas de Sangre*), mas la duologia post-saga-principal (*Juramento de Hierro*, *Camino a Casa*, ahora Libro V y VI). *Mascaras de Cristal* termina en el Cap. 44 ("Ciao, bella"), no en H1; H1, el embarazo, el incendio, Bonnie/Mei-Lin y la llegada de Halbrook pertenecen ahora a *Sombras de Poder* (Libro II). Leer ese archivo antes de planear cualquier capitulo que toque escala de libro.
+- **SUPERSESION VIGENTE (2026-09-07, actualizada 2026-09-22 y 2026-10-03):** `00_Biblia/00_Trilogy_Structure.md` manda sobre cualquier diseno anterior en alcance, fronteras entre libros, ubicacion de Bonnie, H1, H22, cierre de la Guerra de los Tres y apertura de Meridian/Il Consorzio. **Desde 2026-09-27 *Seda y Polvora* es el nombre de la saga**; el Libro I se llama *Mascaras de Cristal*. La saga tiene cuatro libros de arco principal (*Mascaras de Cristal*, *Sombras de Poder* [nuevo], *Voto de Ceniza*, *Cuentas de Sangre*), mas la trilogia de Elenna (*Juramento de Hierro*, *Hijos del Silencio* [nuevo], *Camino a Casa*: Libros V-VII; siete libros, definitivo). *Mascaras de Cristal* termina en el Cap. 44 ("Ciao, bella"), no en H1; H1, el embarazo, el incendio, Bonnie/Mei-Lin y la llegada de Halbrook pertenecen ahora a *Sombras de Poder* (Libro II). Leer ese archivo antes de planear cualquier capitulo que toque escala de libro.
 - **CANON DEL AUTOR:** no reinterpretar, no sustituir, no "mejorar" lineas de dialogo canon.
 - **DISENO:** inferencia del agente; se puede discutir.
 - **PENDIENTE:** falta decision del autor; no rellenar por conveniencia.
@@ -62,8 +62,8 @@ Claude Code es el maintainer principal del repositorio. Codex apoya con mantenim
 - `00_Biblia/00_Trilogy_Structure.md`: **arquitectura macro de la trilogia — manda sobre 01_Timeline y Hitos en cualquier conflicto de escala o frontera entre libros.**
 - `00_Biblia/`: vision, temas, principios y reglas del mundo.
 - `01_Timeline/00_README.md`: protocolo de la linea temporal macro y separación respecto de los `Book_Map`.
-- `01_Timeline/01_Indice_Cronologico.md`: continuidad de los cinco libros.
-- `01_Timeline/02_Libro_01_Mascaras_De_Cristal.md` a `06_Libro_05_Camino_A_Casa.md`: acontecimientos principales por libro, sólo enunciados.
+- `01_Timeline/01_Indice_Cronologico.md`: continuidad de los siete libros.
+- `01_Timeline/02_Libro_01_Mascaras_De_Cristal.md` a `08_Libro_07_Camino_A_Casa.md`: acontecimientos principales por libro, sólo enunciados.
 - `06_Relationships/Kal_y_Chiara.md`: arquitectura de la relacion.
 - `06_Relationships/Hitos.md`: hitos obligatorios del autor. **H1 se movio a Sombras de Poder (Libro II); H22 esta en Voto de Ceniza (ahora Libro III); revisar ubicaciones antes de citar.**
 - `06_Relationships/Momentos_de_Fractura.md`: conflictos que casi lo rompen todo.

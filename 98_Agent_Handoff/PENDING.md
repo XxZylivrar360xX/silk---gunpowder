@@ -1,43 +1,47 @@
 # Pendientes activos
 
-Actualizado: 2026-10-03. Máximo 800 palabras. Sólo trabajo abierto inmediato; decisiones de fondo en [[98_Agent_Handoff/BACKLOG]]. Al resolver, retirar de aquí y registrar resultado en una nota de sesión.
+Actualizado: 2026-10-03. Máximo 800 palabras; decisiones de fondo en [[98_Agent_Handoff/BACKLOG]]. Al resolver, retirar y registrar en una nota de sesión. Versión anterior íntegra: [[98_Agent_Handoff/archive/2026-10-03_PENDING]].
+
+## Ciclo de Elenna
+
+- **Cap. 29:** reescribir el pasaje de Vivian como código sobre el niño escondido (canon lote 3). Requiere encargo.
 
 ## Cierre del Libro I (Caps. 44–50b)
 
-Estructura vigente: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. La Parte III va del 35 al 50 y el 50b cierra el libro (sin la palabra "epílogo"). "—Ciao, bella." es la última línea del Cap. 50, no del libro. Del 44 al 50b, todo en BORRADOR.
+Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Todo BORRADOR.
 
-- **Puerta 2 de la auditoría del arco ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]]):** E0–E5 hechas (2026-10-03). El autor lee los capítulos; qué leer está en § 9, parte 2, "Para el autor". Después, microedición E6–E8.
-- **DISEÑO por confirmar en la lectura:** el listado en el plan y en la metadata de cada capítulo (lavandería, Rosaura, grabación borrada, Puerto Viejo, "A él no", etc.).
-- **Cascada pendiente** (cuando el autor cierre la lectura): Book Maps I y II, `01_Timeline`, Nota Editorial, coda de *Sombras de Poder* y supersesiones #19 y #25 de [[00_Biblia/00_Trilogy_Structure]], que todavía dicen que el Libro I cierra en el Cap. 44.
-- **Q24:** qué hace Chiara con la oferta del Monarch (Cap. 49) y cuándo se entera Dario. El Libro II no tiene respuesta; el arco de Chiara apunta a *El Faro* ([[03_Factions/El_Casino]]).
-- **Q6:** Mei-Lin informa a Tommaso, no a Dario (corregidos el plan y la metadata del 48). Si el autor quiere que Dario sepa del asalto en el Libro I, hace falta otra vía.
-- **PENDIENTE:** confirmar que «recupere esto; aquí no pasó nada» (Halbrook devuelve el expediente sellado) se dirige a la base y no a Kal, y que el mecanismo sigue vigente tras el arco nuevo.
-- **De fondo, no ejecutar aún:** reforzar las Partes I–III para que el cierre se sienta deliberado (supersesión #25).
+- **Puerta 2 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]]:** el autor lee (§ 9, parte 2); después, microedición E6–E8.
+- **DISEÑO por confirmar en la lectura:** listado en el plan y la metadata de cada capítulo.
+- **Cascada** (tras la lectura): Book Maps I y II, `01_Timeline`, Nota Editorial, coda de *Sombras de Poder*, supersesiones #19 y #25 de [[00_Biblia/00_Trilogy_Structure]] (aún dicen cierre en el 44).
+- **Q24:** qué hace Chiara con la oferta del Monarch (49) y cuándo se entera Dario; apunta a *El Faro* ([[03_Factions/El_Casino]]).
+- **Q6:** Mei-Lin informa a Tommaso, no a Dario; si Dario debe saber del asalto en el Libro I, falta otra vía.
+- **PENDIENTE:** confirmar que «recupere esto; aquí no pasó nada» (expediente sellado) va a la base, no a Kal, y que el mecanismo sigue vigente.
+- **Integrar** "Si no vuelve, ¿qué hago con esto?" (ver plan del arco final) y decidir C1 (Héctor testigo) de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_44_Jurisdiccion]].
+- **De fondo, no ejecutar aún:** reforzar Partes I–III para que el cierre se sienta deliberado (#25).
 
-## Revisión de la Parte III operada (35–43)
+## Lectura pendiente de partes operadas
 
-- Auditoría y cirugía cerradas 2026-09-27 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]], § 9 partes 1–5). Leer sobre todo: coda de invitaciones en el 36, el 36 compactado, el 38 podado, la **escena de Anya en el 35** (DISEÑO) y las líneas nuevas del agente en 36, 39, 41 y 42. El viejo 44 de esa auditoría es hoy la base del 50.
-- Pendientes de la auditoría para el autor: "Parte IV" en H8 de Hitos (ya no hay Parte IV en el Libro I); bloques de cinco partes del Book Map (¿archivar?); geografía del traslado (43:177, 187) y la camioneta "hace unas semanas" (42:40); `00_Front_Matter/00_Nota_Editorial.md` l. 19.
+- **Parte III (35–43):** según [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]] § 9: coda de invitaciones y 36 compactado, 38 podado, **Anya en el 35** (DISEÑO), líneas del agente en 36, 39, 41 y 42. El viejo 44 es hoy la base del 50. Decidir: "Parte IV" en H8 de Hitos; bloques de cinco partes del Book Map (¿archivar?); traslado (43:177, 187) y camioneta (42:40); `00_Nota_Editorial.md` l. 19.
+- **Parte II (26–34):** leer Irene en el 32, el 30, la Beretta en el 31 (§ 9 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]]). Decidir H6 §5/§7, H7, `05_Locations/` del lago, 31:23, Danny en la mercancía de Irene.
+- **Parte I, reescrituras:** Cap. 3 (más el bloque al 4 y el arranque del 5; ¿"Quiero levantarlo" se cobra en otro lado?); reunión y cena del 5 (¿Walt en condicional jugando poker?; ¿la DA del 14 es Rowe?; nombre y momento de la empresa de seguridad); migajas del 6 y del 8 (montaje del 6 en pausa hasta validar la reunión); 22/25; 28 y 24b; moto de Nadir en el 23; flores de la carta del 16. Contexto en [[98_Agent_Handoff/archive/2026-10-03_CURRENT_BRIEF]].
 
 ## Apertura de *Sombras de Poder* (Libro II)
 
-- **En espera** hasta cerrar el Libro I. El primer capítulo del Libro II (en `Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/`) absorbe ahora nueve días, no tres: respuesta de Chiara al "Ciao, bella", Kal se entera de hasta dónde llegó ella, mañana siguiente, llamada de la policía por Tommaso. **PENDIENTE:** su número (el plan dice "45", que ya es del Libro I) y su título.
-- Al empezar la redacción, recordar al autor la muerte de Amanda Keegan (posible conspiración; ver [[02_Characters/Natalie_Keegan]]) y revisar el [[98_Agent_Handoff/BACKLOG]] antes de F2, H1 o Villa/Stavanger.
-- **Halbrook:** leer el retrato del 27 y los toques del 30/40; mandar el resto del encargo (truncado en §15); decidir los pendientes 2–6 de [[98_Agent_Handoff/sessions/2026-09-28_claude_reconstruccion_halbrook]].
+- **En espera** hasta cerrar el Libro I. Su primer capítulo (`Part_01_Nieve_Y_Ceniza/`) absorbe nueve días: respuesta al "Ciao, bella", Kal se entera de hasta dónde llegó ella, mañana siguiente, llamada por Tommaso. **PENDIENTE:** número y título.
+- Al empezar, recordar al autor la muerte de Amanda Keegan ([[02_Characters/Natalie_Keegan]]) y revisar [[98_Agent_Handoff/BACKLOG]] antes de F2, H1 o Villa/Stavanger.
+- **Incubadora 2026-10-03:** decidir Parte y bandas de la tormenta, víctimas, escalada policial, cronología de *El Faro* y hotel/Kenji ([[98_Agent_Handoff/sessions/2026-10-03_claude_buzon_chatgpt_nueve_notas]]).
+- **Halbrook:** leer el 27 y los toques del 30/40; mandar el resto del encargo (§15); pendientes 2–6 de [[98_Agent_Handoff/sessions/2026-09-28_claude_reconstruccion_halbrook]].
+- **Corrado/Manfred Gabe** ([[07_Ideas/Corrado_Manfred_Gabe]]): fechas de Jim y Manfred vs. investigación del Cap. 9 antes de tocar fichas canon.
 
-## Revisión editorial y continuidad
+## Continuidad y edición
 
-- **Título y portada del Libro I:** falta portada ≥1600×2560 (1:1.6) si va a KDP, y el título en `00_Nota_Editorial.md`. Ver [[98_Agent_Handoff/sessions/2026-09-27_claude_nombre_de_saga]].
-- **Invitado de la mesa tres (Cap. 12) = Nereo Volpi con otro nombre (DISEÑO del autor, 2026-09-26):** no se confirma en el Libro I y la prosa del 12 no cambia. Pago retroactivo pendiente de capítulo. Ver [[02_Characters/Nereo_Volpi]]. No mezclar con el hombre del Peugeot.
-- **Cap. 3 reescrito (BORRADOR):** leer el 3, el bloque trasladado al 4 y el arranque del 5; decidir si "Quiero levantarlo" se cobra en otro lado. Ver [[98_Agent_Handoff/sessions/2026-09-29_claude_reapertura_cap_03]].
-- **Sembrar *El Faro de San Aurelio*** ([[03_Factions/El_Faro]]) en prosa antes de que Chiara lo tome: No confundir con *El Farol* (Cap. 11).
+- **Portada y Nota Editorial:** portada ≥1600×2560 si va a KDP; título en `00_Nota_Editorial.md`.
+- **Mesa tres del Cap. 12 = Nereo Volpi** (DISEÑO del autor): pago retroactivo sin capítulo; no mezclar con el hombre del Peugeot ([[02_Characters/Nereo_Volpi]]).
+- **Sembrar *El Faro*** ([[03_Factions/El_Faro]]) antes de que Chiara lo tome; no confundir con *El Farol* (11).
 - **H15 y Anya:** revisar H15 junto con F4.
-- **Dictamen de la Parte II (26–34):** [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_02]]. Prioridad alta en el 30; media-alta en 26/28/31/33. Por decidir con el autor:
-  - **Modo:** AUDIT (mapa primero) o SURGERY directo por capítulo.
-  - **Cap. 30:** bajar la certeza del plan de Kal contra Varek. ¿Entra en `editorial-surgery` o es decisión de diseño aparte?
-  - Revisión final de [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Libros abiertos]]; ver [[12_Craft_Policies/CHAPTER_STATUS]].
+- **Dictamen humano Parte II** ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_02]]): Cap. 30, bajar la certeza del plan de Kal contra Varek (¿surgery o diseño?); revisión final del 25.
 - Reconciliar mapas e hitos heredados: [[98_Agent_Handoff/BACKLOG#Continuidad y arquitectura]].
 
 ## Exportación
 
-EPUB (`tools/epub-build/output/Mascaras_De_Cristal.epub`) y PDF (`output/pdf/Mascaras_De_Cristal.pdf`) regenerados por el autor el 2026-10-03 para una lectura corrida con 44–50b en BORRADOR. Sin regeneración pendiente; la próxima, al cerrar la lectura o la microedición E6–E8. Instrucciones del PDF: [[tools/pdf-build/README]].
+EPUB y PDF regenerados 2026-10-03 (44–50b en BORRADOR). Próxima, al cerrar la lectura o E6–E8.

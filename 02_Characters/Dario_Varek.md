@@ -176,6 +176,8 @@ A cambio, Kal pide **seguridad para Chiara**. Y trae con qué pagarlo: **una ent
 
 [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/39_Un_Par_De_Dias_Mas|Cap. 39]] (corregido 2026-09-21 por encargo del autor). Kal comunica fecha y ventana: el catorce, de dos a dos cuarenta. Dario confirma ruido al otro lado del perímetro para mover atención y abrir la ventana. No se especifican mecanismo, emergencia ni duración táctica. Sus hombres no entran; entran los de Kal. Cierra: "Las armas, Mercer. Completas." / "Van a estar completas." Sin antecedente nuevo de pagos incompletos. Cuelga sin despedirse; no habla de Chiara ni de Palermo.
 
+> **CANON DEL AUTOR (2026-10-03):** en *Sombras de Poder* Kal aprende desde dentro su arquitectura (bandas, miedo, rutas, narcóticos, acuerdos, piezas sacrificables). La tormenta expone que Dario sacrifica peones sin escrúpulo, en contraste con Kal, que intenta sacar vivos incluso a sus enemigos. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]] ("Incubadora 2026-10-03").
+
 ## Apariciones canon
 
 - **[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo]]** — Chiara lo conoce al llegar al Monarch, en el segundo capítulo provisional. Primera aparición del lector bajo el nuevo montaje.
@@ -199,3 +201,7 @@ A cambio, Kal pide **seguridad para Chiara**. Y trae con qué pagarlo: **una ent
 ---
 
 Ver también: [[03_Factions/El_Casino]] · [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Kal_Mercer]]
+
+## Noche Marsh (lote 3, 2026-10-03, CANON DEL AUTOR)
+
+Dario no ordena la muerte de los Marsh (el padre era asociado suyo de bajo nivel). Alguien le avisa y él manda a [[02_Characters/Nereo_Volpi|Volpi]] a contener el desastre. Absorbe al niño como cabo suelto según la lógica de su mundo. **La madrugada del Cap. 29 acaba de recibir al niño en la mansión y lo esconde mientras negocia con Kal.** No es responsable retroactivo de todo el caso. PENDIENTE: quién le avisa y qué sabía del arma y de Vera. Ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]].

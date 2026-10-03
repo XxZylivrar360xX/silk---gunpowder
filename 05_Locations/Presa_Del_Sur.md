@@ -2,7 +2,7 @@
 
 *Ficha de Lugar*
 
-> **INCUBADORA — saga post-trilogía (Libro 4/5, 2026-09-16).** No es canon de *Máscaras de Cristal*, *Voto de Ceniza* ni *Cuentas de Sangre*. Pertenece a *Juramento de Hierro* / *Camino a Casa* — ver [[07_Ideas/Libro_04_Incubadora/README]].
+> **INCUBADORA — ciclo de Elenna (2026-09-16; reubicada 2026-10-03).** No es canon de los Libros I–IV. Pertenece a ***Hijos del Silencio* (Libro VI)** — ver [[11_Books/Book_06_Hijos_Del_Silencio/00_Book_Map]] y [[07_Ideas/Libro_04_Incubadora/README]].
 
 **Qué es:** represa masiva al sur de [[05_Locations/San_Aurelio]] que contiene el lago y regula el flujo hacia los canales que desembocan en la costa.
 **Dónde:** sur de San Aurelio, sin ficha de barrio fina todavía.
@@ -23,7 +23,7 @@ El ruido del agua cayendo desde el mirador es lo bastante fuerte como para oblig
 
 **CANON DEL AUTOR (2026-09-16):** en el mirador ocurre la confesión de amor no correspondida de Erin Reyes a Elenna Mercer, antes de que se confirme la identidad de Ethan Cole — ver escena faro 6 en [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]] y el arco completo en [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]].
 
-> **CANON DEL AUTOR (2026-09-16):** [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista|Ethan Cole]] trabaja en la represa — le da conocimiento profundo de la instalación subterránea de desfogue/gestión. Esa instalación queda fijada como el escenario del **enfrentamiento final** entre Ethan, Nicholas Voss y Elenna en el Libro 5. El mirador (confesión de Erin) y el subsuelo (confrontación final) son el mismo lugar visto en dos momentos distintos de la duología — la escena de la presa deja de ser solo textura emocional y se vuelve también Chéjov geográfico.
+> **CANON DEL AUTOR (2026-09-16):** [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista|Ethan Cole]] trabaja en la represa — le da conocimiento profundo de la instalación subterránea de desfogue/gestión. Esa instalación queda fijada como el escenario del **enfrentamiento** entre Ethan, Nicholas Voss y Elenna **en la captura de Ethan, dentro de *Hijos del Silencio* (Libro VI)** (reubicado por CANON DEL AUTOR 2026-10-03; antes "enfrentamiento final del Libro 5" de la duología). El mirador (confesión de Erin) y el subsuelo (captura) son el mismo lugar en dos momentos del mismo libro: arriba Elenna pierde a Erin; abajo enfrenta a Ethan. Amor dicho a cielo abierto, verdad criminal enterrada bajo la infraestructura. La escena de la presa deja de ser sólo textura emocional y se vuelve también Chéjov geográfico.
 
 ## Preguntas abiertas
 

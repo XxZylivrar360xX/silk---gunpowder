@@ -1,5 +1,7 @@
 # Arquitectura y temas — saga post-trilogía
 
+> **SUPERSEDIDO EN LONGITUD (2026-10-03, CANON DEL AUTOR):** el ciclo de Elenna es **trilogía**: V *Juramento de Hierro* · VI *Hijos del Silencio* · VII *Camino a Casa*. La duología de abajo, la fusión de reconstrucción y revelación en *Camino a Casa* y el descarte de la alternativa de tres libros quedan superados (la trilogía nueva no restaura esa alternativa: el VI tiene función propia, IDENTIDAD / DESCENSO, y en él cae Ethan). Arquitectura vigente en [[00_Biblia/00_Trilogy_Structure]] (Ciclo de Elenna). Lo de abajo se conserva como registro; los ejes temáticos siguen vigentes.
+>
 > **ESTADO:** DISEÑO. Longitud final fijada como CANON DEL AUTOR (2026-09-16): duología. Títulos fijados como CANON DEL AUTOR (2026-09-16): Libro 4 = **Juramento de Hierro**; Libro 5 = **Camino a Casa**. Portadas: `99_Reference/book_covers/Juramento_De_Hierro_VICTOR_PAZ.png` y `99_Reference/book_covers/Camino_A_Casa_VICTOR_PAZ.png`.
 
 ## Género / tono
@@ -31,7 +33,7 @@ El antagonista debe diseñarse con suficiente profundidad para sostener la **duo
 
 ### Libro 5 — Camino a Casa — reconstrucción y revelación fusionadas
 
-- **Apertura — el disparo (CANON DEL AUTOR, 2026-09-16):** Elenna recibe un disparo serio pero no mortal (ver escena faro 2 en [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]]). Es el disparador del **primer reencuentro físico** de Kal y Chiara con Elenna desde que empezó la academia — después de un libro entero de solo llamadas y cartas, la ausencia acumulada convierte la llegada al hospital en algo más pesado que un cameo de guiño: es el peso real del tiempo no compartido. Cuidado de tono: la escena debe evitar cualquier eco reconocible de reencuentros similares en otras obras (padre e hijo separados por tiempo, "cuánto has cambiado/crecido") — la emoción es la misma familia humana, la línea tiene que ser propia.
+- **Apertura — el disparo (CANON DEL AUTOR, 2026-09-16):** Elenna recibe un disparo serio pero no mortal *(2026-10-03: en un asalto bancario con rehenes, independiente de la trama principal; ver supersesión #44 en [[00_Biblia/00_Trilogy_Structure]])* (ver escena faro 2 en [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]]). Es el disparador del **primer reencuentro físico** de Kal y Chiara con Elenna desde que empezó la academia — después de un libro entero de solo llamadas y cartas, la ausencia acumulada convierte la llegada al hospital en algo más pesado que un cameo de guiño: es el peso real del tiempo no compartido. Cuidado de tono: la escena debe evitar cualquier eco reconocible de reencuentros similares en otras obras (padre e hijo separados por tiempo, "cuánto has cambiado/crecido") — la emoción es la misma familia humana, la línea tiene que ser propia.
 - Reconstrucción del encubrimiento: niñera/testigo, Corrado reconoce patrón de Volpi, viaje a la isla, entrevista con Volpi.
 - Vínculo nacimiento/adopción/nombre actual empieza a cerrarse; relación romántica con Ethan se profundiza.
 - Tensión entre Elenna y Erin escala en paralelo — confrontación en la presa del sur (ver escena faro 6 en [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]]): confesión de amor de Erin, **antes** de que se confirme la identidad de Ethan. La discusión las aparta.

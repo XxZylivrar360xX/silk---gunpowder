@@ -71,6 +71,10 @@ Ya en *Cuentas de Sangre*, después de la apertura canónica con la ejecución p
 
 En *Cuentas de Sangre*, Volpi es el opuesto filosófico de Chiara: él usa información para borrar personas, fabricar ruido y volver la ausencia irrecuperable; ella debe convertir esas ausencias en una cadena legible que proteja a los vivos. Su caída no debe resolverse sólo con una ejecución de Kal ni con un rescate de Corrado: Chiara tiene que recuperar agencia sobre el relato y el expediente que Volpi quiso volver imposibles.
 
+## Noche Marsh–Vera (CANON DEL AUTOR, 2026-10-03, lote 3)
+
+Durante el Libro I, por encargo de Dario y fuera de escena antes del amanecer del Cap. 29: llega después de la muerte de los padres y de Vera, recoge el arma, desaparece los cuerpos, extrae a Dylan y lo entrega en la mansión. No mata a nadie esa noche. En el VII (isla) habla en fragmentos y no nombra a Blake. Ver [[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]].
+
 ## Reglas de escritura
 
 - No es un sicario teatral ni un jefe oculto de toda la trama.

@@ -28,7 +28,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 
 *Leer antes de escribir cualquier cosa.*
 
-- [[00_Biblia/00_Trilogy_Structure]] — **CANON DEL AUTOR (2026-09-07, actualizado 2026-09-22), MANDA SOBRE TODO LO DEMÁS en escala y fronteras entre libros.** **Desde 2026-09-27 *Seda y Pólvora* es el nombre de la saga y el Libro I se llama *Máscaras de Cristal*.** La saga tiene cuatro libros de arco principal (*Máscaras de Cristal* → *Sombras de Poder* → *Voto de Ceniza* → *Cuentas de Sangre*), más la duología post-saga-principal (*Juramento de Hierro*, *Camino a Casa*, ahora Libro V y VI). Leer esto antes de planear cualquier capítulo que toque el alcance macro de la historia.
+- [[00_Biblia/00_Trilogy_Structure]] — **CANON DEL AUTOR (2026-09-07, actualizado 2026-09-22 y 2026-10-03), MANDA SOBRE TODO LO DEMÁS en escala y fronteras entre libros.** **Desde 2026-09-27 *Seda y Pólvora* es el nombre de la saga y el Libro I se llama *Máscaras de Cristal*.** La saga tiene cuatro libros de arco principal (*Máscaras de Cristal* → *Sombras de Poder* → *Voto de Ceniza* → *Cuentas de Sangre*), más la **trilogía de Elenna** (*Juramento de Hierro*, *Hijos del Silencio*, *Camino a Casa*: Libros V–VII, desde 2026-10-03). Leer esto antes de planear cualquier capítulo que toque el alcance macro de la historia.
 - [[00_Biblia/Vision]] — qué historia es, su núcleo emocional, lo que no es, y la estructura en tres movimientos
 - [[00_Biblia/Temas]] — los once pilares temáticos, con su uso práctico como filtro de escena
 - [[00_Biblia/Principios_Narrativos]] — las dieciséis reglas que gobiernan toda decisión de escritura
@@ -186,7 +186,8 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[01_Timeline/04_Libro_03_Voto_De_Ceniza]] — acontecimientos principales del Libro III, enunciados
 - [[01_Timeline/05_Libro_04_Cuentas_De_Sangre]] — acontecimientos principales del Libro IV, enunciados
 - [[01_Timeline/06_Libro_05_Juramento_De_Hierro]] — acontecimientos principales del Libro V, enunciados
-- [[01_Timeline/07_Libro_06_Camino_A_Casa]] — acontecimientos principales del Libro VI, enunciados
+- [[01_Timeline/07_Libro_06_Hijos_Del_Silencio]] — acontecimientos principales del Libro VI (nuevo, 2026-10-03), enunciados
+- [[01_Timeline/08_Libro_07_Camino_A_Casa]] — acontecimientos principales del Libro VII, enunciados
 - [[01_Timeline/08_Matriz_Renombramiento_Capitulos_Libro_I]] — estudio inicial de C01–C34; primera ronda cerrada: C04 Tarifa nocturna, C21 El primer huésped, C22 Causalidad, C28 La correa (conservado), C30 Media Baraja y C33 Más de la cuenta
 - [[01_Timeline/90_Archivo_Historico_Estructura_del_Ascenso]] · [[01_Timeline/91_Archivo_Historico_Primer_Borrador_Beats]] · [[01_Timeline/92_Archivo_Historico_Cadena_De_Eventos_Libro_I]] — documentos anteriores, sólo para trazabilidad
 - [[10_Chapters/README]] — prosa (vacío; el protocolo previo a escribir está ahí)
@@ -197,8 +198,10 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]] — Libro II, Parte II: Stavanger (origen de Kal, Henrik Solberg, propuesta). Canonizado desde la incubadora 2026-10-02; prosa BORRADOR, número pendiente.
 - [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]] — esqueleto del Libro III derivado de [[00_Biblia/00_Trilogy_Structure]] (2026-09-09; sin prosa, pendiente de validación). **Integrado (2026-09-11):** apertura en flashforward (Cap. 1), los ~9 meses de embarazo, H8 como antecedente ideológico del exilio, la lista creciente de amenazas, las filosofías de protección de Kal/Chiara, la regla de Bonnie como payoff (no causa) y su pista clandestina, el capítulo de revelación completa y el primer año de Elenna hasta el giro "ir hacia ella" de H22.
 - [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]] — esqueleto del Libro IV (*Cuentas de Sangre*) derivado de [[00_Biblia/00_Trilogy_Structure]] (2026-09-09; sin prosa, pendiente de validación)
-- [[11_Books/Book_05_Juramento_De_Hierro/00_Book_Map]] — esqueleto de carpeta del Libro V (*Juramento de Hierro*), duología post-saga-principal, derivado de [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] (2026-09-16; sin prosa, sin desglose de partes aprobado)
-- [[11_Books/Book_06_Camino_A_Casa/00_Book_Map]] — esqueleto de carpeta del Libro VI (*Camino a Casa*), cierre de la duología post-saga-principal, derivado de [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] (2026-09-16; sin prosa, sin desglose de partes aprobado)
+- [[11_Books/Book_05_Juramento_De_Hierro/00_Book_Map]] — esqueleto de carpeta del Libro V (*Juramento de Hierro*), primer libro de la trilogía de Elenna, derivado de [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] (2026-09-16; sin prosa, sin desglose de partes aprobado)
+- [[11_Books/Book_06_Hijos_Del_Silencio/00_Book_Map]] — esqueleto del Libro VI (*Hijos del Silencio*, nuevo 2026-10-03): identidad / descenso; caza, confesión de Erin en la presa y arresto de Ethan / Dylan Marsh (sin prosa)
+- [[11_Books/Book_07_Camino_A_Casa/00_Book_Map]] — esqueleto del Libro VII (*Camino a Casa*): hospital, Dylan testigo, resolución final del caso Vera, hangar; cierra la saga (reconstruido 2026-10-03; sin prosa)
+- [[07_Ideas/Libro_04_Incubadora/10_Reglas_Revelacion_Caso_Vera]] — qué se revela en el VI y qué se reserva para el VII (2026-10-03)
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable]] — Capítulo 1 provisional: día normal de Kal, carta de Walt, acuerdo temprano con Keene/Departamento, Matteo como bisagra e invitación al Monarch
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo]] — Capítulo 2 provisional: llegada de Chiara a San Aurelio, Fabrizio/Tommaso/Dario, reunión interna sin Kal, primer apretón de manos, rechazo por "demasiado listo" y cierre paralelo de radar mutuo
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias]] — Capítulo 3 provisional: titular de Keene, salida de prisión de Walt, primer cruce con Harper, porche de La Almendra, torneos de poker de Chiara y primer encuentro con Blake

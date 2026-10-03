@@ -160,6 +160,8 @@ Las dos preparan el incendio como cuota escalada y la caída como consecuencia d
 
 ---
 
+> **CANON DEL AUTOR (2026-10-03):** en *Sombras de Poder* Crowe es el **conflicto vertebral**: antagonismo activo que presiona el ascenso de Kal durante todo el libro; Dario sigue siendo la estructura superior. DISEÑO: la tormenta puede enseñarle que el código de Kal (no abandonar a los suyos) es explotable en H1. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]] ("Incubadora 2026-10-03").
+
 ## Pendientes
 
 > **RESUELTO EN PARTE (2026-09-03): apariencia.** Obeso — Walt se refiere a él como "el gordo hijo de puta" ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/17_Cuentas_Claras|Cap. 18]]). Edad y el resto del comportamiento siguen PENDIENTES.

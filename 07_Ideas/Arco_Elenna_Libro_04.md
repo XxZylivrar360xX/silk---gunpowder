@@ -3,6 +3,8 @@
 > **ESTADO:** CANON DEL AUTOR como dirección futura aprobada; historia hipotética, provisional y fuera de los tres libros de Kal y Chiara.
 >
 > **No es un compromiso de publicación ni fija todavía el destino profesional de Elenna.**
+>
+> **[SUPERADO EN ESCALA 2026-10-03]:** el "Libro 4 hipotético" es hoy la trilogía de Elenna (V *Juramento de Hierro*, VI *Hijos del Silencio*, VII *Camino a Casa*), y su destino profesional ya está fijado: academia y patrulla en el V, K9 con Rex en el VI y teniente de K9 después del VII. Ver [[00_Biblia/00_Trilogy_Structure]] y [[02_Characters/Elenna_Mercer]].
 
 ## Punto de partida
 

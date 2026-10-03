@@ -1,5 +1,7 @@
 # Escenas faro — Libro 4 / saga post-trilogía
 
+> **NUMERACIÓN (2026-10-03):** donde este archivo dice "Libro 4" o "Libro 5", léase el ciclo de Elenna: V *Juramento de Hierro*, VI *Hijos del Silencio*, VII *Camino a Casa*. Hospital (2) y hangar (3) pertenecen al **VII**; la presa (6) al **VI**. Ver [[00_Biblia/00_Trilogy_Structure]].
+
 > **ESTADO:** INCUBADORA. Conserva escenas que el autor ya puede ver con claridad. No equivale a capítulo final ni fija POV/ubicación exacta salvo donde se indique.
 
 ## 1. Conversación Nicholas — Elenna sobre Kal y Chiara
@@ -34,9 +36,11 @@ Nicholas puede responder que dos verdades pueden coexistir: lo que fueron para S
 
 ## 2. Hospital — llegada de Kal y Chiara
 
-> **CANON DEL AUTOR (2026-09-16):** abre el **Libro 5**. Es el primer reencuentro físico de Kal y Chiara con Elenna desde el inicio de la academia — en el Libro 4 solo hubo llamadas (Kal) y cartas (Chiara). Escribir con voz propia, sin ecos reconocibles de reencuentros similares en otras obras.
+> **CANON DEL AUTOR (2026-09-16; renumerado 2026-10-03):** abre ***Camino a Casa* (VII)**. Es el primer reencuentro físico de Kal y Chiara con Elenna desde el inicio de la academia — en el Libro 4 solo hubo llamadas (Kal) y cartas (Chiara). Escribir con voz propia, sin ecos reconocibles de reencuentros similares en otras obras.
 
 Elenna recibe un disparo serio pero no mortal.
+
+> **CANON DEL AUTOR (2026-10-03, lote 4):** el disparo ocurre en un **asalto bancario con rehenes**, independiente de la trama principal: hay un civil en riesgo y Elenna se infiltra contra las órdenes de Nicholas. El asalto **cierra el VI**: Elenna cae en el suelo del banco, boca arriba, con el charco de sangre acumulándose detrás de ella (espejo de Chiara en Santa Lucía). El juicio de Dylan ya ocurrió. Elenna despierta **sin las gafas** (redondas) y confunde a Kal con Nicholas hasta ver la cicatriz. Las líneas fijas y la ejecución aprobada viven en [[07_Ideas/Libro_04_Incubadora/Hospital_Reencuentro_Elenna]].
 
 Detalles visuales:
 
@@ -69,7 +73,9 @@ Elenna lo golpea en el hombro y protesta en italiano.
 
 Chiara entra.
 
-> **“Puedo estar molesta con ella pero jamás voy a dejar al amor de mi vida sola en una situación así.”**
+> **“Puedo estar molesta contigo y aun así no voy a dejar al amor de mi vida sola en una situación así.”**
+
+*(Redacción vigente desde 2026-10-03, lote 4. Antes: "Puedo estar molesta con ella pero jamás voy a dejar…". Chiara entra, saluda con "Ciao, amore mio" y luego dice esta línea.)*
 
 Kal:
 
@@ -85,6 +91,15 @@ Kal responde:
 
 Debe sonar torpe y burlón, hábito intacto tras veinte años.
 
+> **CANON DEL AUTOR (2026-10-03, lote 4):** el bloque sigue así:
+>
+> Elenna: **“No puedo creer que todavía hagas eso.”**
+> Chiara: **“Porque lo haces horrible a propósito.”**
+> Kal: **“Y aun así me entiendes.”**
+> Chiara: **“Ése nunca fue el problema, bello.”**
+>
+> También son canon el beat del café (Chiara lo huele, Kal: "Es lo que había", ella se lo devuelve) y la última imagen: Kal sale por café, Chiara se queda, Rex descansa y Elenna cierra los ojos sin vigilar la puerta.
+
 Chiara a Elenna:
 
 > **“Ciao, amore mio.”**
@@ -93,11 +108,11 @@ Función: HOGAR. No resuelve la investigación. Sólo muestra que la familia pue
 
 ## 3. Aeropuerto — despedida de Kal y Chiara
 
-Después de la recuperación inicial.
+Después de la recuperación inicial: **4–5 capítulos después de la apertura del VII** (CANON, 2026-10-03).
 
 Llegaron/salen bajo cobertura discreta; no deberían producir trazabilidad ingenua ante posibles ojos de Meridian tras el cierre de veinte años atrás.
 
-Kal sigue contando con orgullo su versión de aquella vieja salida; Chiara puede desinflar cuánto de verdad planeó él.
+~~Kal sigue contando con orgullo su versión de aquella vieja salida; Chiara puede desinflar cuánto de verdad planeó él.~~ *(Retirado 2026-10-03 por el autor, lote 4: parecía remitir a un hecho que el lector debía recordar; "¿Segundo?" queda como único remate de la pareja.)*
 
 ### Nicholas y Kal
 
@@ -105,7 +120,9 @@ Deben hablar brevemente.
 
 Nicholas:
 
-> **“Ella se cuida bastante bien sola.”**
+> **“Mercer se cuida bastante bien sola.”**
+
+*(CANON DEL AUTOR 2026-10-03, lote 4; antes "Ella se cuida…".)*
 
 Kal respeta que Nicholas no trate a Elenna como una cosa bajo custodia.
 
@@ -127,7 +144,7 @@ Elenna:
 
 > **“Pero mi historia empezó en un aeropuerto así, ¿o no?”**
 
-Chiara recuerda su llegada a San Aurelio: creyó que era una escala; la ciudad le exigió raíces.
+~~Chiara recuerda su llegada a San Aurelio: creyó que era una escala; la ciudad le exigió raíces.~~ *(Retirado 2026-10-03 por el autor, lote 4: la secuencia del diálogo sostiene el subtexto sin recapitular.)*
 
 Chiara:
 
@@ -143,7 +160,16 @@ Ambas:
 
 > **“Mio cuore.”**
 
-Chiara santigua a Elenna antes de irse.
+Chiara:
+
+> **“Jamás pensé que le diría esto a una policía.”**
+> **“Estoy orgullosa de ti, Elenna.”**
+
+*(CANON DEL AUTOR. Las cartas previas nunca gastan la frase exacta. Reacción de Elenna, canon desde el lote 4: sollozo involuntario, risa encima, lágrimas y un "Mamá…" sin terminar.)*
+
+Kal, antes, en canon desde el lote 4: **“¿Segura?”**. Elenna: **“Sí.”** Él acepta la respuesta.
+
+Chiara santigua a Elenna antes de irse (persignación real, no cruz en la frente).
 
 En la escalerilla del avión, Kal vuelve sobre la broma del hospital:
 

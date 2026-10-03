@@ -20,12 +20,13 @@ Cada libro debe tener su propia carpeta, un `00_Book_Map.md` y carpetas de parte
 
 Cada libro tiene su propio `00_Book_Map.md`; las carpetas de partes de los Libros III y IV se crean cuando el autor apruebe su desglose.
 
-## Libros de la duología post-saga-principal
+## Libros del ciclo de Elenna (trilogía, 2026-10-03)
 
 - `Book_05_Juramento_De_Hierro/` - Libro V — Juramento de Hierro (era Libro IV). Solo `00_Book_Map.md` (esqueleto derivado de [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]]). Sin prosa; el diseño vive en la incubadora ([[07_Ideas/Libro_04_Incubadora/README]]) — esa carpeta conserva su nombre histórico "Libro_04" pese a la renumeración operativa.
-- `Book_06_Camino_A_Casa/` - Libro VI — Camino a Casa (era Libro V). Solo `00_Book_Map.md` (esqueleto). Sin prosa; prosa bloqueada hasta cerrar Juramento de Hierro.
+- `Book_06_Hijos_Del_Silencio/` - Libro VI — Hijos del Silencio (nuevo, 2026-10-03). Solo `00_Book_Map.md` (esqueleto). Caza y arresto de Ethan / Dylan Marsh. Sin prosa ni portada.
+- `Book_07_Camino_A_Casa/` - Libro VII — Camino a Casa (era Libro V, luego VI). Solo `00_Book_Map.md` (esqueleto). Resolución final del caso Vera; cierra la saga. Sin prosa; prosa bloqueada hasta cerrar los Libros V y VI.
 
-Título y portada de ambos son CANON DEL AUTOR (2026-09-16); la arquitectura de capítulos/partes sigue en incubadora y no está aprobada. Su renumeración a V/VI es puramente posicional — no cambia contenido, título ni portada.
+Títulos y portadas de *Juramento de Hierro* y *Camino a Casa* son CANON DEL AUTOR (2026-09-16); el título *Hijos del Silencio* es CANON DEL AUTOR (2026-10-03). La arquitectura de capítulos/partes sigue en incubadora y no está aprobada.
 
 ## Flujo EPUB
 

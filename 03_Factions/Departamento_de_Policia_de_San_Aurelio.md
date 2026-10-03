@@ -47,12 +47,15 @@ La muerte de Keene abre la puerta a [[02_Characters/Elena_Vega]].
 
 ## Estructura
 
+> **CANON DEL AUTOR (2026-10-03):** el primer cambio doctrinal visible ocurre en *Sombras de Poder*: el enfrentamiento de la tormenta pone al Departamento en alerta elevada (armas largas, SWAT, redadas, presencia sostenida contra bandas y El Patio). *Voto de Ceniza* escala desde ese piso, no desde cero. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]] ("Incubadora 2026-10-03").
+
 La policía local no compite narrativamente con los federales. Su función es mantener la ciudad funcionando, responder primero a los delitos de Kal y terminar cruzándose con la investigación federal.
 
 ### Mando
 
 - **[[02_Characters/Elena_Vega|Chief Elena Vega]]** — jefa de policía. Maneja política, presupuesto, alcaldía y presión mediática. No investiga escenas; dirige una institución bajo crisis.
-- **Martin Cho** — Deputy Chief. Enlace de alto nivel con los federales y la fiscalía cuando piden cooperación.
+- **[[02_Characters/Lucia_Varek|Lucia Varek]]** — subjefa (Assistant Chief), segunda al mando bajo Vega (CANON DEL AUTOR, 2026-09-01).
+- **Martin Cho** — Deputy Chief, **por debajo de Lucía** (decisión del autor, 2026-10-03: resuelve el choque de cadena de mando). Enlace de alto nivel con los federales y la fiscalía cuando piden cooperación.
 - **Thomas Reade** — Captain / precinct commander. Recurrente de estación. Su problema no es "atrapar a Kal": es que alguien prendió otro incendio en su distrito.
 - **Rosa Ramirez** — Lieutenant / watch commander. Controla turnos, unidades, cierres de calles, perímetros y primeras coordinaciones.
 

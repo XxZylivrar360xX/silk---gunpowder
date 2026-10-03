@@ -245,9 +245,7 @@ El padre puede pedir una sola cosa:
 
 ## Natalie y Jim
 
-Jim es su hermano mayor.
-
-La diferencia exacta de edad queda pendiente.
+Jim es su hermano mayor, ocho años mayor que ella (ver la cabecera; residuo "diferencia exacta pendiente" retirado 2026-10-03).
 
 Su marcha después de la condena de Walt debe haber dejado una segunda ausencia dentro de la casa Keegan.
 
@@ -556,6 +554,8 @@ Sus apariciones funcionan mejor cuando cumplen una o más de estas funciones:
 > **PENDIENTE:** que el autor revise la prosa insertada en el Cap. 3 (BORRADOR).
 
 > **PARA LA REDACCIÓN DEL LIBRO II — RECORDAR AL AUTOR AL EMPEZAR:** la resolución de la muerte de Amanda (posible conspiración).
+
+> **DISEÑO (2026-10-03, incubadora validada):** la inversión Walt → Kal es más fuerte porque Kal sí estuvo presente: Walt perdió una década y descubre decisiones que Natalie tomó sin él; Kal habrá protegido bien a Elenna y aun así tendrá que aceptar que eso no le concede decidir qué adulta será. En la tormenta del Libro II, Natalie puede estar en la respuesta oficial mientras Chiara y Camila sostienen la clandestina. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]] ("Incubadora 2026-10-03").
 
 > **PARA LA REDACCIÓN DEL LIBRO II:** hasta qué punto comprende en qué se ha convertido Kal; su participación en el enfrentamiento de la tormenta y en otros incidentes de la guerra.
 

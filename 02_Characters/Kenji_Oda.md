@@ -71,6 +71,10 @@ Si alguien lo intercepta antes de que llegue a Chiara, ve basura: unas palabras 
 
 ---
 
+## Administrador hotelero — CANON DEL AUTOR (2026-10-03)
+
+En *Sombras de Poder* Kal y Chiara fundan juntos una cadena hotelera; Kenji pasa de gerente de caja del Monarch a administrarla. PENDIENTE: cuándo, quién lo sustituye en la caja y qué pasa con su papel de sussurro. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]] ("Incubadora 2026-10-03").
+
 ## Pendientes
 
 > **PENDIENTE:** apellido y nombre — propuesta del agente, no canon del autor. Confirmar o cambiar.

@@ -25,6 +25,8 @@ Su arco debe conservar la tensión entre el vínculo familiar y la obligación i
 
 ## Pendientes
 
+> **CANON DEL AUTOR (2026-10-03):** Martin Cho (Deputy Chief) está por debajo de ella. En *Sombras de Poder*, la tormenta tensa la relación con Kal: él saca a rivales antes del cierre policial para salvar vidas; ella lo lee como obstrucción, extracción de sospechosos y mando extralegal. Es el punto en que la relación de "informante" empieza a volverse peligrosa. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]] ("Incubadora 2026-10-03").
+
 > **RESUELTO (2026-09-01):** cargo exacto de entrada (subjefa) y primera escena con Kal — [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/13_Auster|Capítulo 13, *Auster*]]. Lo interroga por el caso del Peugeot rojo (ver [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]], "El Peugeot rojo que Blake persigue"); confirma la coartada que Chiara le preparó a Kal y el caso se cae. Registra a Kal por primera vez como alguien que no encaja del todo en la versión fácil — semilla de la relación de "informante" que el autor quiere desarrollar más adelante.
 
 > **PENDIENTE:** cuándo descubre la verdad completa sobre Kal y el Patio, y cuánto sabe de la organización de su propio padre antes de investigarlo.
@@ -36,3 +38,9 @@ Su arco debe conservar la tensión entre el vínculo familiar y la obligación i
 Para la época del Libro 4, Lucia es **comisionada de policía**: cabeza de todo el Departamento de San Aurelio, con autoridad sobre todas las comisarías y condados — jefa directa de [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss|Nicholas Voss]]. Carga además el duelo no resuelto por la muerte de su hermana [[02_Characters/Vivian_Varek|Vivian]], oficialmente una sobredosis; cuando el caso de Ethan Cole resurge, Lucia tiene motivo institucional (jefa del Departamento) y personal (hermana de Vivian) para involucrarse directamente. Ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]].
 
 Ver también [[02_Characters/Dario_Varek]] y [[03_Factions/Fuerza_de_Tarea_Meridian]].
+
+## Trilogía de Elenna — lote 3 (2026-10-03)
+
+- **CANON:** la noche Marsh–Vera ocurre durante el Libro I, cuando Lucia ya es subjefa bajo Vega. **No participa en la omisión ni sospecha nada**, aunque esa misma madrugada su padre esconde al niño en la mansión. La ironía es del lector. Ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]].
+- **DISEÑO:** su duelo no borra sus obligaciones. Es contrapeso de Nicholas con razones defendibles (evidencia, recursos, filtraciones, reputación del Departamento), no obstrucción ni autorización automática. Evalúa a Elenna como policía, sin proyectar a Dario ni a Vivian. Puede notar zonas incómodas en Blake sin conocer el crimen. Golpe distinto al de Nicholas: *la muerte que acepté como tragedia privada también fue construida por alguien dentro del radio de mi propia familia.*
+- **PENDIENTE:** si conoció a Dylan de niño o supo que Vivian criaba a un niño; si conocía el nombre Ethan Cole; cuándo descubre que Vivian fue asesinada (VI o VII); si sabe que Elenna es hija de Kal y Chiara; historia y confianza con Nicholas; peso en cada libro; terminología exacta de "comisionada".

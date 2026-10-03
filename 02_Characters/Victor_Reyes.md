@@ -43,7 +43,7 @@ Victor escucha dónde duele:
 - [[03_Factions/Mapa_de_Conflicto_Activo]] — su terreno natural: treguas, resentimientos y bandas periféricas.
 - Erin Reyes — su hija (ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]]).
 
-> **CANON DEL AUTOR (2026-10-02):** Victor Reyes es el padre de Erin Reyes, mejor amiga y después pareja de Elenna en la duología post-saga. **PENDIENTE:** qué sabe cada uno del otro, si Victor sigue vivo o activo en esa época, qué peso tiene el parentesco en la trama y si Elenna lo sabe.
+> **CANON DEL AUTOR (2026-10-02):** Victor Reyes es el padre de Erin Reyes, mejor amiga y después pareja de Elenna en el ciclo de Elenna (trilogía desde 2026-10-03). **PENDIENTE:** qué sabe cada uno del otro, si Victor sigue vivo o activo en esa época, qué peso tiene el parentesco en la trama y si Elenna lo sabe.
 
 ---
 

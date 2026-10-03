@@ -26,6 +26,8 @@ Ni [[02_Characters/Dario_Varek|Dario Varek]] ni [[02_Characters/Warren_Halbrook|
 
 ## Apariencia
 
+> **CANON DEL AUTOR (2026-10-03):** referencia visual externa, no canon narrativo: de adulta, Elenna se parece mucho a Ester Expósito. No nombrarla en prosa; se traduce a rasgos propios: rostro ovalado y fino, pómulos altos y marcados, nariz pequeña y recta, labios llenos con arco definido, cejas oscuras y bien dibujadas, mirada intensa de párpado ligeramente caído que parece seria aun sin serlo, y complexión esbelta. Se conservan los rasgos heredados ya fijados abajo (ojos verde grisáceos, rubio oscuro ceniza, pecas, lentes); la lectura "quieta, Kal; sonriendo, Chiara" sigue mandando sobre el parecido externo.
+
 Durante sus primeros meses, Elenna parece primero hija de Kal. No es una mezcla visual calculada por mitades: quieta, la lectura de él llega antes; conforme crece y empieza a moverse, Chiara aparece con mayor claridad.
 
 - **Cabello:** nace con el cabello rubio ceniza muy claro. Durante su primer año comienza a oscurecerse. De adulta queda en **rubio oscuro ceniza**, con reflejos dorados visibles al sol; lo lleva corto, desfilado y algo despeinado, a veces recogido sin demasiada simetría.
@@ -47,7 +49,7 @@ No hereda marcas como inventario. No necesita la cicatriz de Kal, un lunar de Ch
 
 > **CANON DEL AUTOR (2026-09-13; rango formalizado 2026-09-16):** durante la etapa del epílogo de *Cuentas de Sangre*, Elenna tiene **21 años**. Aproximadamente veinte años después del cierre inmediato de Palermo, y unas semanas después del epílogo, regresa a San Aurelio para iniciar la academia como **Recluta** del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento de Policía de San Aurelio]]. Se dirige a ella como **Recluta Mercer** (no "Recruit Mercer").
 
-Esta decisión abre una historia futura hipotética centrada en Elenna, Bonnie y Marisol. No pertenece a los tres libros de Kal y Chiara, no convierte el epílogo en un teaser y no fija todavía que Elenna se gradúe, permanezca en el Departamento o adopte una especialidad.
+> **[SUPERADO 2026-10-03]** *Texto anterior: "historia futura hipotética… no fija todavía que Elenna se gradúe, permanezca en el Departamento o adopte una especialidad".* Hoy esa etapa es la trilogía de Elenna (Libros V–VII); graduación y K9 están fijados (ver abajo). No convierte el epílogo de *Cuentas de Sangre* en un teaser.
 
 Elenna no entra porque siempre haya querido ser policía ni porque Marisol pueda ayudarla. Después de años de viajes, fotografía, temporadas breves y regresos, se presenta al proceso para averiguar si puede elegir quedarse cuando quedarse significa aceptar responsabilidad, rutina, jerarquía y consecuencias. La institución pone a prueba su autonomía; no reemplaza su identidad.
 
@@ -59,13 +61,29 @@ Durante la academia conserva su humor, curiosidad, informalidad, mochila, cámar
 
 **Recluta** es el rango formal para su etapa (tratamiento: **Recluta Mercer**). Es una recluta en formación, no una oficial plenamente juramentada; no debe recibir de inmediato placa, autoridad policial plena ni funciones de patrulla autónoma. "Cadete" queda reservado como alternativa local o etapa previa si el Departamento la define así. El término en inglés "Police Recruit" / "Recruit Mercer" queda descartado.
 
-### Timeline de academia y especialidad — CANON DEL AUTOR (2026-09-16), incubadora Libro 4/5
+### Timeline de academia y especialidad — CANON DEL AUTOR (2026-09-16; ubicado en la trilogía el 2026-10-03)
 
-Academia estándar (~6 meses); pasa a patrulla y se muda de casa de Marisol a su propio departamento casi al mismo tiempo — un solo salto de independencia, simbólicamente "ya soy adulta" de golpe.
+Academia estándar (~6 meses); pasa a patrulla y se muda de casa de Marisol a su propio departamento casi al mismo tiempo — un solo salto de independencia, simbólicamente "ya soy adulta" de golpe. Todo esto ocurre en *Juramento de Hierro* (V).
+
+**Salto de ~2–3 años entre el V y el VI** (CANON DEL AUTOR, 2026-10-03): *Hijos del Silencio* (VI) la encuentra ya en K9 con Rex. Rex no aparece en el V. **Meta de carrera: teniente de K9, alcanzada después del VII** (CANON DEL AUTOR, 2026-10-03); los rangos intermedios siguen PENDIENTES. La captura de Ethan/Dylan es catalizador, no ascenso mágico: debe ganarse con trabajo, errores y años de servicio, nunca por apellido.
 
 Especialidad: **K9**, con un pastor alemán único de pelaje bronce llamado **Rex**, que ella misma nombra y entrena con comandos en italiano — eco directo de la herencia de Chiara. Ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]] para el comportamiento de Rex con cada personaje.
 
 Su parentesco con Kal/Chiara **nunca se aclara públicamente, y ya no importa**: veinte años después la ciudad tiene otras preocupaciones, y quienes preguntan reciben silencio educado de la familia. No existe versión oficial fabricada que reconcilie su identidad viva con la muerte pública registrada al nacer — el misterio simplemente dejó de ser noticia.
+
+### Arco en la trilogía (DISEÑO, PROYECTO RECLUTA lote 2; sin validar)
+
+- **V — elegir pertenecer:** ¿puede quedarse por elección y no porque algo la obligue?
+- **VI — sostener la elección** (función del libro: IDENTIDAD / DESCENSO, CANON): ¿qué cuesta seguir siendo quien eligió ser cuando esa elección empieza a herirla? Termina más respetada, más capaz y más rota. Para la ciudad: ayudó a detener a un asesino serial y su carrera despegó. Para ella: tuvo que destruir al hombre que amó porque era el hombre que cazaba. Saber que hizo lo correcto no la cura.
+- **VII — decidir qué conserva:** no "ser policía era correcto / un error", sino qué es hogar, qué vínculos elige y qué versión de sí misma sobrevive a Ethan, Vera y Nicholas.
+
+Reglas de la trilogía:
+
+- Kal y Chiara nunca la comprometen con su historia criminal: no crece con Varek, Volpi, Il Consorzio ni el mapa criminal de San Aurelio. Descubre la ciudad como policía, no como heredera de información.
+- Con Nicholas: mentoría que evoluciona hasta que puede decirle, de policía a autoridad, que cruza líneas. No es "hija rebelde contra padre sustituto".
+- La cámara sigue fuera del uniforme: descanso, otra manera de mirar la ciudad, prueba de que existía antes de la placa. Da atención, no omnisciencia.
+- La familia la ayuda a seguir siendo persona, no forma una task force: nada de Marisol consiguiendo expedientes, Bonnie investigando, Kal resolviendo amenazas desde fuera, Chiara activando redes ni Erin investigando pese a su recusación. El misterio pertenece a Elenna y Nicholas.
+- Lectura del título del VI (DISEÑO): Dylan fue absorbido por un silencio corrupto; Elenna fue protegida por un silencio amoroso.
 
 ## Quién es
 

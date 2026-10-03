@@ -20,6 +20,8 @@
 
 > **RESUELTO (2026-09-15):** nombre de nacimiento **Dylan Marsh**; nombre adulto/legal **Ethan Cole**. Sustituye la propuesta anterior no aprobada "Adrian Ward". Ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]].
 
+> **SUPERSEDIDO (2026-10-03):** trilogía, no duología — ver [[00_Biblia/00_Trilogy_Structure]].
+>
 > **RESUELTO (2026-09-16):** la saga se cierra en **duología**, no tres libros. El Libro 5 fusiona reconstrucción del encubrimiento y revelación final, usando el arco de Erin Reyes como mecanismo de compresión de la sospecha. Alternativa de tres libros considerada y descartada. Ver [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]].
 
 > **RESUELTO (2026-09-16):** mecanismo de adopción/custodia — tras la "corrección" de Volpi, Dario Varek asume al niño como cabo suelto de su organización y encarga su crianza a **Vivian Varek**; ella no elige hacerse cargo al inicio, pero desarrolla apego real. Profesión actual: **ajena por completo al mundo policial/médico** (oficio exacto sin fijar). Cuándo entra en la vida romántica de Elenna y cuándo debe sospechar el lector: **a mitad del Libro 4, sospecha gradual** en paralelo al segundo asesinato de policía. Qué recuerda de Vera e ideología consciente: **amnesia funcional** (recuerdos fragmentarios sin narrativa consciente; cree la versión oficial) + racionalización consciente como castigo institucional — confirmado como lectura definitiva, no solo diseño. Ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]].

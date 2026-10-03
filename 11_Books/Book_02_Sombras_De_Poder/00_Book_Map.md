@@ -25,6 +25,14 @@ de ser "un hombre que hace cosas ilegales" y se convierte, sin ceremonia, en el 
 organización criminal reconocida; y donde Chiara descubre que ayudarlo a sobrevivir también
 puede convertirlo en aquello de lo que ella conoce el precio.
 
+> **CANON DEL AUTOR (2026-10-03), cambio de énfasis:** el foco pasa del mundo de Chiara al mundo
+> criminal de Kal, visceral (bandas, narcotráfico, tiroteos, policía, consecuencias físicas).
+> **Silas Crowe es el conflicto vertebral**; Dario, la estructura superior. La pareja ya no es
+> el conflicto dominante: es sinergia e infraestructura emocional (pueden operar separados y
+> volver cada noche a Villa Candelaria). Donde la premisa y la tesis de abajo hablan de "prueba
+> como pareja", léase en esa clave. Detalle, gran enfrentamiento de la tormenta y único
+> "Amore" en [[01_Timeline/03_Libro_02_Sombras_De_Poder]], sección "Incubadora 2026-10-03".
+
 ## Premisa narrativa
 
 Kal y Chiara ya se eligieron y ya sobrevivieron su primera prueba (Camp Alder). Ahora deben
@@ -69,6 +77,8 @@ sobrevivan — como individuos y como pareja — a haberlo ganado.
 
 | Fuerza | Qué quiere | Cómo presiona | Qué revela |
 |--------|------------|----------------|------------|
+| Silas Crowe, el Tasador (CANON DEL AUTOR, 2026-10-03) | Frenar el ascenso de Kal | Antagonismo activo y constante; conflicto vertebral del libro | El código de Kal puede volverse su punto débil (DISEÑO: H1 lo explota) |
+| Policía de San Aurelio tras la tormenta (CANON DEL AUTOR, 2026-10-03) | Recuperar control de la calle | Alerta elevada, armas largas, SWAT, redadas | Kal se vuelve visible; se tensa la línea con Lucía |
 | El Patio en expansión | Crecer con cada problema que Kal resuelve | Cada favor genera una obligación nueva | Kal ya no puede resolver problemas sin acumular poder |
 | Dario Varek | Mantener el control territorial mientras Kal crece dentro de su estructura | Reúne, empuja o favorece una coalición contra el crecimiento de Kal | El choque de H1 ya no puede leerse como incidente aislado |
 | Chiara contra el dinero de Dario (CANON DEL AUTOR, 2026-10-02) | Que el Monarch deje de depender del efectivo sucio de Dario | Contrata a [[02_Characters/Garrett_Cross|Garrett]] como contador; con [[02_Characters/Giancarlo_Krane|Krane]] limpia el flujo de inyección de efectivo al casino y empieza a aislar a Dario en finanzas | Mientras ella le debe una cuenta abierta (Libro I, Cap. 47), le corta la llave del dinero |
@@ -110,12 +120,15 @@ tramo 39-45 aunque el 45 en adelante pertenezca ya a este libro. Carpetas de Par
 
 La ocasión, el momento del libro y quién más escucha la radio siguen PENDIENTES del autor.
 
+**Gran enfrentamiento de la tormenta — CANON DEL AUTOR (2026-10-03), antes de H1, Parte PENDIENTE.** Tres bandas, El Patio, policía y civiles; Chiara lo ve por *El Faro*, llama y Kal contesta "Dime, Amore" (única vez en la saga); triaje en un almacén del sur con Camila; radio como indicador de vida; Kal prioriza extracciones (incluidos rivales); muertos reales; cataliza la escalada policial; cierre con la hamburguesa doble. Detalle en [[01_Timeline/03_Libro_02_Sombras_De_Poder]].
+
 ## Pendientes explícitos
 
 Ver la lista completa en [[01_Timeline/03_Libro_02_Sombras_De_Poder]], sección "Elementos
 pendientes explícitos". Entre los más relevantes: composición y objetivo de la coalición de
 H1, mecanismo de la caída de Silas Crowe, distancia fina F4→F3→F2, logística de Villa
-Candelaria, cobro de la mentira de H8.
+Candelaria, cobro de la mentira de H8, ubicación y bandas de la tormenta, cronología de *El Faro*
+y de la cadena hotelera.
 
 ---
 
