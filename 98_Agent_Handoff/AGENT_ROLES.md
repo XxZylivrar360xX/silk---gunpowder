@@ -21,6 +21,7 @@ Si dos agentes discrepan sobre el estado del vault, manda lo que registre Claude
 - Ningun agente puede convertir una inferencia propia en canon.
 - Los agentes pueden proponer alternativas, diagnosticos y consecuencias.
 - Todo punto sin decision del autor permanece como **PENDIENTE**.
+- Un libro **SELLADO** (solo lo declara el autor) esta terminado y listo para lectura de terceros: su texto queda congelado. Ningun agente lo edita sin orden explicita del autor; los choques con decisiones posteriores se reportan, no se propagan.
 - Si dos documentos entran en conflicto, prevalece la decision mas reciente y explicita del autor.
 - El autor puede reasignar cualquier tarea a cualquier agente.
 

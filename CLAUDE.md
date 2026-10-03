@@ -44,6 +44,7 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 - **CANON DEL AUTOR:** no reinterpretar, no sustituir, no "mejorar" lineas de dialogo canon.
 - **DISENO:** inferencia del agente; se puede discutir.
 - **PENDIENTE:** falta decision del autor; no rellenar por conveniencia.
+- **SELLADO:** libro completo, terminado y listo para lectura de terceros. Solo el autor lo declara. Su texto queda congelado: ningun agente lo edita sin orden explicita del autor; si una decision posterior lo contradice, se reporta, no se propaga. Hoy ningun libro esta SELLADO.
 - Kal y Chiara no se separan, pero el lector debe creer que pueden romperse.
 - La relacion es maquinaria del ascenso, no subtrama.
 - El toma territorio; ella toma relato.
