@@ -42,7 +42,7 @@ Detalles visuales:
 
 - foto final de *Tres Hermanas* recargada en un florero junto a la cama;
 - Marisol dejó la fotografía;
-- Riley dejó las flores;
+- Bonnie dejó las flores;
 - señal de que ambas ya estuvieron allí antes de la llegada de los padres.
 
 > **CANON DEL AUTOR (2026-09-16):** [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna|Rex]], el pastor alemán K9 de Elenna, duerme en la cama con ella pese a su tamaño. Cuando los médicos intentan sacarlo, los chantajea con ojos de canica y orejas hacia atrás — no cede fácil. Nunca duda en proteger a Elenna cuando hace falta.

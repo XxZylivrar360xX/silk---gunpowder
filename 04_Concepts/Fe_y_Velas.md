@@ -41,6 +41,8 @@ La oración no necesita escribirse completa cada vez. La frase interna del ritua
 
 **Esto no es superstición.** Para Chiara, la vela no garantiza nada. La vela es su manera de no fingir que no tiene miedo.
 
+> **El nombre (CANON DEL AUTOR, 2026-10-02):** desde la primera vela, junto a la oración Chiara escribe un nombre en cursiva en su papel de canela y vainilla, cada vez que Kal sale y corre riesgos. El texto nunca muestra la palabra (es Elenna). Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "El nombre en cursiva".
+
 ### Origen
 
 El ritual nace después de [[06_Relationships/Momentos_de_Fractura]], **F4 - Año Nuevo en Washington**.

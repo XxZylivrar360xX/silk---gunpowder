@@ -896,7 +896,7 @@ Después vuelve:
 
 - con Cole;
 - con su hija;
-- con Riley;
+- con Bonnie;
 - con Corrado vivo;
 - sin necesitar permiso de la Mesa.
 
@@ -1202,7 +1202,7 @@ FAMILIA
 12. Primera reacción exacta de Chiara.
 13. Si existe abrazo inmediato, rechazo o inmovilidad.
 14. Cuándo Corrado conoce que su nieta está viva.
-15. Si conoce a Riley antes del final.
+15. Si conoce a Bonnie antes del final.
 16. Qué papel toma Chiara en el tramo final contra Il Consorzio.
 17. Qué estado exacto queda del Consorcio al final.
 18. Qué ocurre con Leone Valenti.

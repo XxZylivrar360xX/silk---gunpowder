@@ -128,7 +128,7 @@ También sirve para mostrar el límite moral de Chiara. Si Chiara usa a Mabel co
 
 > **CANON DEL AUTOR (2026-09-29):** Mabel y Walt se casan en *Sombras de Poder*, Parte II, después de Villa Candelaria y antes de Stavanger, en la terraza del Monarch; Chiara organiza la boda. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder#La boda de Mabel y Walt — la terraza del Monarch]].
 
-> **CANON DEL AUTOR (2026-09-29) — línea de Mabel a Chiara, no reescribir:** *"Cuando pasas una vida entera, buscando el amor que toque a tu puerta casi siempre te marchitas en la espera, pero cuando el amor es el que llega, lo reconoces como tuyo, lo vives como propio, y entiendes que debes cuidarlo y protegerlo cuando su sola compañía te arranca del pecho una sola frase..."* Se la dice después del destierro de Riley (F2), cuando Chiara cae en depresión, y le encarga planear la boda para sacarla de ahí. Chiara la completa con "Te amo." en la boda.
+> **CANON DEL AUTOR (2026-09-29) — línea de Mabel a Chiara, no reescribir:** *"Cuando pasas una vida entera, buscando el amor que toque a tu puerta casi siempre te marchitas en la espera, pero cuando el amor es el que llega, lo reconoces como tuyo, lo vives como propio, y entiendes que debes cuidarlo y protegerlo cuando su sola compañía te arranca del pecho una sola frase..."* Se la dice después del destierro de Bonnie (F2), cuando Chiara cae en depresión, y le encarga planear la boda para sacarla de ahí. Chiara la completa con "Te amo." en la boda.
 
 > **PENDIENTE:** por qué no fue en la secundaria; nombre del esposo, causa y fecha de su muerte; en qué libro se abre el romance y hasta dónde llega.
 

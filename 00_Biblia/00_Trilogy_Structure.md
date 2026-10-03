@@ -1,8 +1,8 @@
 # Estructura oficial de la saga
 
-> **CANON DEL AUTOR — 2026-09-07, actualizado 2026-09-22.** Este documento fija la arquitectura macro de la saga y los títulos oficiales de sus libros. **Supersede** cualquier diseño anterior que tratara *Seda y Pólvora* como una sola novela de cinco partes, o que tratara la saga como una trilogía estricta, cuando exista conflicto de alcance, cortes entre libros, ubicación de Riley, H1, H22, cierre de la Guerra de los Tres o apertura del arco Meridian / Il Consorzio.
+> **CANON DEL AUTOR — 2026-09-07, actualizado 2026-09-22.** Este documento fija la arquitectura macro de la saga y los títulos oficiales de sus libros. **Supersede** cualquier diseño anterior que tratara *Seda y Pólvora* como una sola novela de cinco partes, o que tratara la saga como una trilogía estricta, cuando exista conflicto de alcance, cortes entre libros, ubicación de Bonnie, H1, H22, cierre de la Guerra de los Tres o apertura del arco Meridian / Il Consorzio.
 >
-> **SUPERSESIÓN 2026-09-22 — inserción de *Sombras de Poder*.** La saga deja de ser una trilogía estricta: se inserta un libro nuevo, **Sombras de Poder**, entre *Seda y Pólvora* y *Voto de Ceniza*. Esto **revierte** la reconciliación del 2026-09-20/21 que había absorbido ese material (Nieve y Ceniza, Exilio, Torna a Casa) como Partes IV-VI internas de *Seda y Pólvora*. Consecuencia directa: **Riley y F2 dejan de pertenecer al Libro I** (vuelven a moverse a *Sombras de Poder*, ahora Libro II) y **H1 deja de ser el clímax del Libro I** (pasa a ser el clímax de *Sombras de Poder*). Esto revierte específicamente los puntos #3 y #4 de la lista de supersesiones de 2026-09-07, documentados abajo con ambas posturas y su fecha. *Voto de Ceniza* y *Cuentas de Sangre* pasan a ser Libro III y Libro IV respectivamente; la duología post-saga-principal (*Juramento de Hierro*, *Camino a Casa*) pasa a ser Libro V y Libro VI.
+> **SUPERSESIÓN 2026-09-22 — inserción de *Sombras de Poder*.** La saga deja de ser una trilogía estricta: se inserta un libro nuevo, **Sombras de Poder**, entre *Seda y Pólvora* y *Voto de Ceniza*. Esto **revierte** la reconciliación del 2026-09-20/21 que había absorbido ese material (Nieve y Ceniza, Exilio, Torna a Casa) como Partes IV-VI internas de *Seda y Pólvora*. Consecuencia directa: **Bonnie y F2 dejan de pertenecer al Libro I** (vuelven a moverse a *Sombras de Poder*, ahora Libro II) y **H1 deja de ser el clímax del Libro I** (pasa a ser el clímax de *Sombras de Poder*). Esto revierte específicamente los puntos #3 y #4 de la lista de supersesiones de 2026-09-07, documentados abajo con ambas posturas y su fecha. *Voto de Ceniza* y *Cuentas de Sangre* pasan a ser Libro III y Libro IV respectivamente; la duología post-saga-principal (*Juramento de Hierro*, *Camino a Casa*) pasa a ser Libro V y Libro VI.
 >
 > Los `00_Book_Map.md` de cada volumen deben reconstruirse a partir de esta arquitectura. Hasta que esa reconstrucción termine, este archivo manda en cualquier contradicción de escala o frontera entre libros.
 
@@ -102,9 +102,9 @@ Debe desarrollar de forma suficiente:
 - H19/H20 — Camp Alder y el fracaso de los recursos de Chiara para liberar a Kal;
 - la liberación inexplicada de Kal (mecanismo reservado a *Voto de Ceniza*) y el reencuentro — **"Ciao, bella"**.
 
-## Regla dura — Riley pertenece a *Sombras de Poder*, no al Libro I
+## Regla dura — Bonnie pertenece a *Sombras de Poder*, no al Libro I
 
-> **REVIERTE la regla de 2026-09-07** (ver supersesiones). La salida de Riley y la muerte de Mei-Lin (F2) vuelven a pertenecer a *Sombras de Poder* (Libro II), no al Libro I. Nacen de su propio conflicto, no se diseñan para acomodar a Elenna; que Riley cuide después a Elenna en Italia sigue siendo payoff de una decisión previa.
+> **REVIERTE la regla de 2026-09-07** (ver supersesiones). La salida de Bonnie y la muerte de Mei-Lin (F2) vuelven a pertenecer a *Sombras de Poder* (Libro II), no al Libro I. Nacen de su propio conflicto, no se diseñan para acomodar a Elenna; que Bonnie cuide después a Elenna en Italia sigue siendo payoff de una decisión previa.
 
 ## Escalada final
 
@@ -127,7 +127,7 @@ Estado de salida:
 - Chiara ha perdido a Matteo y ve alejarse a Fabrizio; Tommaso sigue vivo (muere al abrir el Libro II).
 - Il Consorzio ya reclamó a Chiara como Ardizzone (H13, Palermo), sin ser todavía antagonista central.
 - Kal le debe a alguien (Halbrook, sin nombrarlo en el libro) su libertad — deuda sin cobrar.
-- Riley, Mei-Lin, el incendio, Villa Candelaria, Stavanger, el embarazo, H1 y Halbrook físicamente en la ciudad **todavía no ocurrieron**: pertenecen a *Sombras de Poder*.
+- Bonnie, Mei-Lin, el incendio, Villa Candelaria, Stavanger, el embarazo, H1 y Halbrook físicamente en la ciudad **todavía no ocurrieron**: pertenecen a *Sombras de Poder*.
 
 ---
 
@@ -193,7 +193,7 @@ Abre **inmediatamente después** del *"Ciao, bella"* que cierra el Libro I: la r
 
 ## Estructura por Partes
 
-`Parte I — Nieve y Ceniza` (reconciliación, Tommaso, Ren Wei, Navidad/collar, Año Nuevo/F4 separados [canon 2026-09-26], incendio del loft) → `Parte II — Exilio` (F3, F2 — Mei-Lin y Riley el mismo día —, Villa Candelaria, Stavanger/anillo) → `Parte III — Torna a Casa` (conflicto final, Silas Crowe, embarazo, H1, reveal, coda Halbrook). Desarrollo completo en [[01_Timeline/03_Libro_02_Sombras_De_Poder]] y [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]].
+`Parte I — Nieve y Ceniza` (reconciliación, Tommaso, Ren Wei, Navidad/collar, Año Nuevo/F4 separados [canon 2026-09-26], incendio del loft) → `Parte II — Exilio` (F3, F2 — Mei-Lin y Bonnie el mismo día —, Villa Candelaria, Stavanger/anillo) → `Parte III — Torna a Casa` (conflicto final, Silas Crowe, embarazo, H1, reveal, coda Halbrook). Desarrollo completo en [[01_Timeline/03_Libro_02_Sombras_De_Poder]] y [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]].
 
 ## H1 — El regreso a casa
 
@@ -203,7 +203,7 @@ El enfrentamiento enfrenta a El Patio / red de Kal con la coalición alineada, f
 
 Los detalles tácticos, composición exacta y objetivo operativo siguen pendientes. La función dramática sí queda fijada: después de H1, los actores relevantes saben que San Aurelio ha cruzado un umbral.
 
-Chiara ya sabe que está embarazada. Kal todavía no.
+Chiara ya sabe que está embarazada. Kal todavía no. **El lector tampoco (CANON DEL AUTOR, 2026-10-02): lo descubre con Kal en la chimenea; ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]].**
 
 Se conservan las reglas previas del hito:
 
@@ -212,7 +212,7 @@ Se conservan las reglas previas del hito:
 - el reveal no ocurre durante la hemorragia, atención médica, baño ni pico de crisis;
 - Kal debe estar fuera de peligro, haber dormido y recuperar cierta normalidad doméstica antes de que Chiara se lo diga.
 
-La proximidad de la pérdida golpea a Chiara sobre una herida ya abierta por otras ausencias (Mei-Lin, Riley). **Kal es lo que todavía le queda para no romperse.**
+La proximidad de la pérdida golpea a Chiara sobre una herida ya abierta por otras ausencias (Mei-Lin, Bonnie). **Kal es lo que todavía le queda para no romperse.**
 
 ## Clímax emocional
 
@@ -238,7 +238,7 @@ Estado de salida:
 - Chiara está embarazada y Kal ya lo sabe.
 - El Patio ha atravesado su primer enfrentamiento abierto serio (H1).
 - Dario ya no puede tratar el crecimiento de Kal como una molestia menor.
-- Riley y Mei están fuera del tablero inmediato; Mei-Lin ha muerto.
+- Bonnie y Mei están fuera del tablero inmediato; Mei-Lin ha muerto.
 - Villa Candelaria es su hogar; Kal y Chiara están comprometidos (Stavanger).
 - Halbrook está físicamente en San Aurelio.
 - La guerra todavía no ha explotado por completo, pero ya es inevitable.
@@ -314,7 +314,7 @@ La policía sigue siendo actor visible, no cuarto vértice.
 
 Chiara entra embarazada al Libro III.
 
-Riley ya lleva tiempo fuera de San Aurelio y debe haber construido en Italia una vida/cobertura suficiente por razones propias antes de que Elenna necesite protección.
+Bonnie ya lleva tiempo fuera de San Aurelio y debe haber construido en Italia una vida/cobertura suficiente por razones propias antes de que Elenna necesite protección.
 
 Elenna nace durante el primer tramo importante del libro, cuando la guerra ya escala.
 
@@ -327,7 +327,7 @@ Resultado obligatorio:
 
 Dario y Halbrook no saben que sobrevivió.
 
-Riley la recibe y cuida en Italia.
+Bonnie la recibe y cuida en Italia.
 
 El verdadero Voto de Ceniza es que Kal y Chiara aceptan perder:
 
@@ -348,7 +348,7 @@ La separación debe durar y respirar. Las fotografías siguen siendo escasas y s
 
 H22 ocurre después de que la separación haya tenido tiempo suficiente para convertirse en vida cotidiana, pero **antes de la caída final de Dario, antes de la montaña y antes de Santa Lucía**.
 
-Riley envía el video. Kal y Chiara ven a Elenna caminar hacia Riley.
+Bonnie envía el video. Kal y Chiara ven a Elenna caminar hacia Bonnie.
 
 El sentido del hito cambia de epílogo de guerra a decisión activa previa a la catástrofe:
 
@@ -395,7 +395,7 @@ En paralelo:
 - Chiara recibe dos disparos;
 - el ataque pertenece a Halbrook, **no a Il Consorzio**.
 
-En shock, en el suelo de la iglesia, el recuerdo que puede cerrar su conciencia es **el video de Elenna dando sus primeros pasos hacia Riley**.
+En shock, en el suelo de la iglesia, el recuerdo que puede cerrar su conciencia es **el video de Elenna dando sus primeros pasos hacia Bonnie**.
 
 No convertirlo en monólogo explicativo. El pago es visual y afectivo: pasos torpes, movimiento, risa, ausencia.
 
@@ -633,7 +633,7 @@ O, en su herida más profunda:
 | Libro | Movimiento emocional | Fractura | Resolución parcial |
 |---|---|---|---|
 | **Máscaras de Cristal** | Elegir quedarse y construir pertenencia | Matteo y Fabrizio se alejan; Kal cae preso en Camp Alder | **Lo que ama puede desaparecer — y aun así, Kal vuelve.** |
-| **Sombras de Poder** | Reconocer antes que Kal qué estructura está naciendo y ayudarlo a sobrevivir de todos modos | Mei-Lin muere, Riley es desterrada, Kal casi no vuelve en H1 | **Ayudarlo a sobrevivir también puede convertirlo en lo que ella conoce el precio de ser.** |
+| **Sombras de Poder** | Reconocer antes que Kal qué estructura está naciendo y ayudarlo a sobrevivir de todos modos | Mei-Lin muere, Bonnie es desterrada, Kal casi no vuelve en H1 | **Ayudarlo a sobrevivir también puede convertirlo en lo que ella conoce el precio de ser.** |
 | **Voto de Ceniza** | Proteger aquello que ama aunque implique ausencia | Debe hacer desaparecer públicamente a Elenna y vivir lejos de ella | **A veces amar exige aceptar una ausencia que ella misma provoca.** |
 | **Cuentas de Sangre** | Rechazar que ausencia, apellido o institución decidan su vida | Il Consorzio intenta definir su pertenencia | **La salida consiste en terminar la ausencia, no en heredar una corona.** |
 
@@ -658,10 +658,10 @@ Este documento cambió canon anterior en los siguientes puntos:
 
 1. **La obra ya no es una sola novela de cinco partes.** *(Vigente.)*
 2. ~~**Los títulos oficiales son:** *Seda y Pólvora*, *Voto de Ceniza*, *Cuentas de Sangre* (trilogía estricta).~~ **REVERTIDO 2026-09-22** — ver abajo: ahora son cuatro libros, con *Sombras de Poder* insertado como Libro II.
-3. ~~**Riley sale de San Aurelio en el Libro I**, antes de H1, no al inicio de la antigua Parte III.~~ **REVERTIDO 2026-09-22** — ver abajo: Riley vuelve a salir en *Sombras de Poder* (Libro II).
+3. ~~**Bonnie sale de San Aurelio en el Libro I**, antes de H1, no al inicio de la antigua Parte III.~~ **REVERTIDO 2026-09-22** — ver abajo: Bonnie vuelve a salir en *Sombras de Poder* (Libro II).
 4. ~~**H1 es el clímax del Libro I** y nace del primer enfrentamiento abierto entre El Patio y una coalición alineada/favorecida/manipulada por Dario.~~ **REVERTIDO 2026-09-22** — ver abajo: H1 es ahora el clímax de *Sombras de Poder* (Libro II).
 5. **El reveal del embarazo a Kal ocurre después de H1 y antes de la coda final del libro donde ocurre H1** — vigente, pero ese libro es ahora *Sombras de Poder*, no *Seda y Pólvora*.
-6. **Halbrook llega físicamente a San Aurelio en la última coda del libro donde ocurre H1** — vigente, en *Sombras de Poder*.
+6. ~~**Halbrook llega físicamente a San Aurelio en la última coda del libro donde ocurre H1**~~ **SUPERSEDIDO 2026-10-01 (CANON DEL AUTOR):** llega en el epílogo del Libro I, *La tierra bajo sus botas*. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
 7. **H22 — Los primeros pasos se mueve al libro de la guerra**, antes de la caída final de Dario, montaña y Santa Lucía — vigente; ese libro es ahora *Voto de Ceniza* (Libro III).
 8. **H22 dispara el plan de salida antes del atentado contra Chiara.** *(Vigente.)*
 9. **La caída legal de Dario ocurre cerca del final del libro de la guerra y funciona como falso clímax.** *(Vigente, en Libro III.)*
@@ -679,7 +679,7 @@ Este documento cambió canon anterior en los siguientes puntos:
 18. **Se crea *Sombras de Poder* como Libro II**, absorbiendo el material que del 2026-09-20 al 2026-09-21 había vivido como Partes IV-VI internas de *Seda y Pólvora* (Nieve y Ceniza, Exilio, Torna a Casa). Revierte esa reconciliación.
 19. **El Libro I (*Seda y Pólvora*) ahora cierra en el Cap. 44** ("Ciao, bella", cierre de la Parte III/Ardizzone), no en H1. El Cap. 45 en adelante pertenece a *Sombras de Poder*.
 20. **H1 es ahora el clímax del Libro II — *Sombras de Poder*.**
-21. **Riley y F2 (destierro de Riley / muerte de Mei-Lin) pertenecen ahora a *Sombras de Poder* (Libro II)**, no al Libro I.
+21. **Bonnie y F2 (destierro de Bonnie / muerte de Mei-Lin) pertenecen ahora a *Sombras de Poder* (Libro II)**, no al Libro I.
 22. **El incendio del loft, Villa Candelaria, Stavanger y el compromiso pertenecen a *Sombras de Poder* (Libro II)**, no al Libro I.
 23. ***Voto de Ceniza* pasa a ser Libro III** (era Libro II); **Cuentas de Sangre pasa a ser Libro IV** (era Libro III); su función y contenido no cambian, sólo su número.
 24. **Juramento de Hierro pasa a ser Libro V; Camino a Casa pasa a ser Libro VI** (eran Libro IV y V). Su arquitectura interna, todavía en incubadora, no cambia por esta renumeración.
@@ -693,7 +693,7 @@ No inventar por conveniencia:
 
 - composición exacta de la coalición que provoca H1;
 - objetivo y mecánica operativa exacta de H1;
-- distancia temporal fina entre salida de Riley, H1 y reveal del embarazo;
+- distancia temporal fina entre salida de Bonnie, H1 y reveal del embarazo;
 - calendario exacto del embarazo y nacimiento;
 - detonante que obliga a fingir la muerte de Elenna;
 - mecanismo médico/documental/logístico de Elenna Serra;

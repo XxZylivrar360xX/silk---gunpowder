@@ -1,6 +1,6 @@
 # Hitos obligatorios
 
-> **AVISO DE SUPERSESIÓN (2026-09-07, actualizado 2026-09-22):** [[00_Biblia/00_Trilogy_Structure]] manda sobre este archivo en escala y fronteras entre libros. **Sombras de Poder se insertó como Libro II** entre *Máscaras de Cristal* y *Voto de Ceniza* — revierte la reconciliación del 2026-09-20/21. En particular: **H1 es ahora el clímax del Libro II — Sombras de Poder**, no del Libro I. **La salida de Riley (F2) pertenece a *Sombras de Poder* (Libro II)**, no al Libro I. **H22 pertenece a *Voto de Ceniza*, ahora Libro III**, antes de la caída de Dario, la montaña y Santa Lucía — la ubicación anterior (después del cierre de la Guerra de los Tres) sigue superseded. *Cuentas de Sangre* es ahora Libro IV. Este archivo todavía no se reconstruyó hito por hito contra la nueva arquitectura de seis libros.
+> **AVISO DE SUPERSESIÓN (2026-09-07, actualizado 2026-09-22):** [[00_Biblia/00_Trilogy_Structure]] manda sobre este archivo en escala y fronteras entre libros. **Sombras de Poder se insertó como Libro II** entre *Máscaras de Cristal* y *Voto de Ceniza* — revierte la reconciliación del 2026-09-20/21. En particular: **H1 es ahora el clímax del Libro II — Sombras de Poder**, no del Libro I. **La salida de Bonnie (F2) pertenece a *Sombras de Poder* (Libro II)**, no al Libro I. **H22 pertenece a *Voto de Ceniza*, ahora Libro III**, antes de la caída de Dario, la montaña y Santa Lucía — la ubicación anterior (después del cierre de la Guerra de los Tres) sigue superseded. *Cuentas de Sangre* es ahora Libro IV. Este archivo todavía no se reconstruyó hito por hito contra la nueva arquitectura de seis libros.
 
 Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni material de trabajo: son las anclas del libro, definidas por el autor. La trama se construye alrededor de ellos, no al revés.
 
@@ -41,7 +41,7 @@ Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni
 | 20 | **H19 — El asalto a Camp Alder** *(Kal no entra a ver a Chiara para poder cumplir la misión; se entrega para cubrir a Héctor y Nadir)* |
 | 21 | **H20 — Consecuencia: Halbrook / prisión militar / Lucia** *(Halbrook lo saca por un trato; Chiara acude a Lucia, que registra que lo suyo excede los negocios)* |
 
-**Orden vigente — CANON DEL AUTOR 2026-09-20, libros reasignados 2026-09-22:** incendio de H8 cierra Sombras de Poder/I → F4 abre Sombras de Poder/II → F3 → F2 (Mei-Lin y Riley el mismo día) → componente Villa de H8 → Stavanger/anillo → Sombras de Poder/III / embarazo / H1. **SUPERSEDIDO:** bloque indivisible F4 → F3 → H8 y su posición pendiente respecto a Camp Alder/H21. Los IDs se conservan.
+**Orden vigente — CANON DEL AUTOR 2026-09-20, libros reasignados 2026-09-22:** incendio de H8 cierra Sombras de Poder/I → F4 abre Sombras de Poder/II → F3 → F2 (Mei-Lin y Bonnie el mismo día) → componente Villa de H8 → Stavanger/anillo → Sombras de Poder/III / embarazo / H1. **SUPERSEDIDO:** bloque indivisible F4 → F3 → H8 y su posición pendiente respecto a Camp Alder/H21. Los IDs se conservan.
 
 ### Posiciones macro vigentes y ejecución todavía pendiente
 
@@ -57,9 +57,9 @@ Las posiciones internas quedaron fijadas el 2026-09-20; no reabrirlas. Mantener 
 |---|---|
 | Final de Sombras de Poder/I; reconstrucción en II después de F2 | **H8** — incendio, mentira vinculada y Villa separados por componentes; no bloque continuo. |
 | Sombras de Poder, Parte I | Primera Navidad y collar **RETORNA A CASA**; primera vela después de F4 (II); clases de italiano sin colocación fina. |
-| Sombras de Poder, Parte II, después de F2 / Riley y Villa | **Stavanger / propuesta**: ubicación canon; ejecución de [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] sigue propuesta, sin ID nuevo. Dependencia antigua de caída previa de Silas pendiente de reconciliación. |
+| Sombras de Poder, Parte II, después de F2 / Bonnie y Villa | **Stavanger / propuesta**: ubicación canon; [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]] **canonizado 2026-10-02** (origen de Kal, Henrik, propuesta, concepción de Elenna), prosa BORRADOR, sin ID nuevo. Anillo: robo de joyería con Héctor, Danny y Nadir (CANON DEL AUTOR 2026-10-02). Dependencia antigua de caída previa de Silas pendiente de reconciliación. |
 | Sombras de Poder, Parte II, después de Villa, antes de Stavanger | **Boda de Mabel y Walt** en la terraza del Monarch, organizada por Chiara *(CANON DEL AUTOR 2026-09-29, sin ID)*: Chiara completa en susurro una frase de Mabel con "Te amo." y desecha la idea de casarse con Kal; él ya trae el anillo en la billetera. Detalle en [[01_Timeline/03_Libro_02_Sombras_De_Poder#La boda de Mabel y Walt — la terraza del Monarch]]. |
-| Sombras de Poder, Parte II, antes de Villa y Stavanger; antes de H1 | **F2** — ejecución de Mei-Lin por Nadir y destierro de Riley **el mismo día**; conflicto de Riley pendiente. |
+| Sombras de Poder, Parte II, antes de Villa y Stavanger; antes de H1 | **F2** — ejecución de Mei-Lin por Nadir y destierro de Bonnie **el mismo día**; conflicto de Bonnie pendiente. |
 | Sombras de Poder, Parte III, después de F2, Villa y propuesta | **H1** — clímax del Libro II; Chiara sabe del embarazo, Kal aún no. Reveal posterior a recuperación mínima. |
 | **Libro II — Sombras de Poder**, después de H1, cierra el libro | **Reveal del embarazo a Kal** *(momento obligatorio por diseñar, sin ID; sólo después de que esté fuera de peligro y regrese cierta normalidad doméstica)* |
 | **Voto de Ceniza (Libro III)**, primer tramo importante | **Nacimiento, muerte pública y separación de Elenna** *(posición relativa fijada; capítulo, fecha y detonante pendientes)* |
@@ -74,7 +74,7 @@ Las posiciones internas quedaron fijadas el 2026-09-20; no reabrirlas. Mantener 
 
 Esta secuencia supersede cualquier colocación anterior del embarazo como sorpresa tardía y cualquier ubicación de H1 después de la Guerra de los Tres:
 
-`Chiara confirma el embarazo → H1 (Chiara sabe / Kal no) → recuperación de Kal → reveal a Kal → cierre del Libro II — Sombras de Poder → Voto de Ceniza abre con la guerra en escalada → nacimiento de Elenna en su primer tramo importante → muerte pública / Elenna Serra con Riley → separación y fotografías → H22 — Los primeros pasos → caída de Dario / montaña / Santa Lucía → Kal sentencia a Halbrook`.
+`Chiara confirma el embarazo → H1 (Chiara sabe / Kal no) → recuperación de Kal → reveal a Kal → cierre del Libro II — Sombras de Poder → Voto de Ceniza abre con la guerra en escalada → nacimiento de Elenna en su primer tramo importante → muerte pública / Elenna Serra con Bonnie → separación y fotografías → H22 — Los primeros pasos → caída de Dario / montaña / Santa Lucía → Kal sentencia a Halbrook`.
 
 Reglas duras:
 
@@ -83,8 +83,8 @@ Reglas duras:
 - El reveal no ocurre durante la hemorragia, la atención médica, el baño ni el pico de H1. Kal debe quedar fuera de peligro, dormir, iniciar recuperación y recuperar cierta normalidad doméstica antes de saberlo.
 - El Libro II construye poder y familia simultáneamente. El embarazo atraviesa la vida doméstica sin convertir cada capítulo en escena médica o de síntomas.
 - La Guerra de los Tres no nace por Elenna. Recibe a Chiara ya embarazada e invade una vida familiar en marcha.
-- **F2 ocurre en el Libro II — Sombras de Poder, antes de H1**, por el conflicto propio de Riley. Su presencia futura en Italia es payoff, nunca motivo retroactivo del destierro.
-- Elenna nace en el primer tramo importante de Voto de Ceniza (Libro III), después de que Riley esté fuera de San Aurelio y tenga una vida/cobertura estable en Italia desde el Libro II. La fecha, semana y capítulo exactos siguen pendientes.
+- **F2 ocurre en el Libro II — Sombras de Poder, antes de H1**, por el conflicto propio de Bonnie. Su presencia futura en Italia es payoff, nunca motivo retroactivo del destierro.
+- Elenna nace en el primer tramo importante de Voto de Ceniza (Libro III), después de que Bonnie esté fuera de San Aurelio y tenga una vida/cobertura estable en Italia desde el Libro II. La fecha, semana y capítulo exactos siguen pendientes.
 - El detonante que obliga a ocultar a Elenna debe nacer orgánicamente de la escalada, la exposición y la imposibilidad de proteger a una bebé sin volverla objetivo. Sigue pendiente.
 - La duración de trabajo para la separación es **cerca de un año**, suficiente para que Elenna llegue a sus primeros pasos; el calendario exacto no se fija hasta cuadrar la cronología global.
 - **H22 ocurre antes de la caída de Dario, la montaña y Santa Lucía — no después.** No depende de que la arquitectura bélica esté cerrada; depende de que la separación de Elenna ya sea experiencia cotidiana.
@@ -1824,7 +1824,7 @@ Y para dos personas que nunca tuvieron una, **el momento en que la palabra deja 
 
 > **CANON DEL AUTOR (2026-08-23).** Material grande: contiene **la mentira más cara del libro** y la casa más hermosa que construyen.
 
-> **POSICIÓN VIGENTE — CANON DEL AUTOR 2026-09-20:** H8 conserva ID y título, pero se distribuye en componentes. **Incendio:** cierre de Parte IV. **Mentira:** fuga de gas / ocultamiento de amenaza de Crowe, ligada al incendio; instalación en el bloque de cierre IV como **DISEÑO**, cobro posterior pendiente. **Villa:** Parte V, después del día Mei-Lin/Riley, como reconstrucción deliberada. **SUPERSEDIDO:** incendio después de F4/F3, paso inmediato a Villa y ubicación antigua en Parte II.
+> **POSICIÓN VIGENTE — CANON DEL AUTOR 2026-09-20:** H8 conserva ID y título, pero se distribuye en componentes. **Incendio:** cierre de Parte IV. **Mentira:** fuga de gas / ocultamiento de amenaza de Crowe, ligada al incendio; instalación en el bloque de cierre IV como **DISEÑO**, cobro posterior pendiente. **Villa:** Parte V, después del día Mei-Lin/Bonnie, como reconstrucción deliberada. **SUPERSEDIDO:** incendio después de F4/F3, paso inmediato a Villa y ubicación antigua en Parte II.
 >
 > **[PENDIENTE DE RECONCILIACIÓN — componente mentira de H8]:** cuándo se revela/cobra y contenido exacto de la amenaza. No se inventa otra mentira ni se exige resolverla dentro de IV.
 >
@@ -2195,7 +2195,9 @@ Regla de [[06_Relationships/Kal_y_Chiara]]: lo que los salva siempre es algo que
 
 > **RESUELTO EN POSICIÓN MACRO (2026-08-31; terminología corregida 2026-09-11; libro reasignado 2026-09-22):** H1 ocurre en el **Libro II — Sombras de Poder**, después de H8 / la construcción de Villa Candelaria y antes del cierre del libro (coda de Halbrook). **PENDIENTE:** posición fina y capítulo exacto dentro de ese tramo.
 
-> **PENDIENTE:** cuántos días antes de H1 Chiara confirma el embarazo y por qué mecanismo; diálogo exacto del reveal posterior y reacción textual definitiva de Kal.
+> **PENDIENTE:** cuántos días antes de H1 Chiara confirma el embarazo y por qué mecanismo.
+>
+> **RESUELTO (CANON DEL AUTOR, 2026-10-02):** el reveal es la misma noche de H1, después de dormir, en la chimenea de Villa Candelaria, sólo a la luz del fuego: el papel cae de la manta, "¿Quién es Elenna?", "Antes era sólo un nombre.", "Sono incinta.", "Voy... vamos a ser...", la carga con mareo y tirón, "¡Mierda!" / "¡Kal!", abrazo lento, Kal mira hacia la ciudad. **El embarazo se le oculta al lector hasta esa escena** (Chiara lo sabe en H1; el texto lo protege) y cierre del libro en [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "Cierre del Libro II". Supersede "reveal posterior a recuperación mínima" en las tablas de arriba.
 
 > **PARCIALMENTE RESUELTO:** la costumbre del barrio de callar sobre ellos es canon y viene de la etapa del loft ([[06_Relationships/Kal_y_Chiara]], "un barrio que calla"). **Pero H1 ocurre en la villa**, en la zona de prestigio — otro barrio, otro régimen.
 >
@@ -2276,7 +2278,7 @@ Una **cajita más pequeña, modesta, de madera.** Dentro, **una llave del loft.*
 
 # H17 — Italia / Mesa de las Familias
 
-> **EJECUTADO COMPLETO EN PROSA (2026-09-22):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/40_Mecanico|Cap. 40 — Mecánico]] (mitad de Kal) y [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/41_La_Otra_Mitad|Cap. 41 — La otra mitad]] (mitad de Chiara, contada a Riley) completan el hito. Ambos BORRADOR, pendientes de revisión del autor.
+> **EJECUTADO COMPLETO EN PROSA (2026-09-22):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/40_Mecanico|Cap. 40 — Mecánico]] (mitad de Kal) y [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/41_La_Otra_Mitad|Cap. 41 — La otra mitad]] (mitad de Chiara, contada a Bonnie) completan el hito. Ambos BORRADOR, pendientes de revisión del autor.
 
 > **ACTIVADO en prosa (2026-09-20):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 38]] cierra con Kal y Chiara en la terminal privada de Kingsley Field, alrededor de las cuatro de la mañana, con el avión a Palermo esperando. La decisión de Kal ("Voy contigo") y el motivo (la bala; su investigación de H12 nunca cerrada) ya están escritos. **Nada del viaje, la llegada, la Mesa ni Palermo está escrito** — sigue arco reservado.
 
@@ -2368,6 +2370,8 @@ Kal es arrestado bajo **jurisdicción militar / federal**. Abre la consecuencia 
 
 # H20 — Consecuencia: Halbrook / prisión militar / Lucia
 
+> **SUPERSEDIDO EN PARTE (2026-10-01, CANON DEL AUTOR):** H20 se ejecuta como arco de siete capítulos (Chiara agota institución, red, El Patio, Dario, los Bravos y Valenti; convoy señuelo de Halbrook; apagón = salida de Kal). Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
+
 > **CANON DEL AUTOR (2026-08-29).** Sigue directamente a [[#H19 — El asalto a Camp Alder]]. **ID: H20** (asignado 2026-08-29).
 
 ## Halbrook lo saca
@@ -2394,7 +2398,7 @@ Lucia **no necesita preguntar "¿son novios?".** Lo registra y observa — eso e
 
 > **SIEMBRA ESCRITA (2026-09-20, Claude Code):** el canal por el que Chiara puede acudir a Lucia queda sembrado en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Cap. 32 — Línea directa]]: Lucia le deja a Kal su línea directa después de que él le entrega un dato verificable sobre Los Bravos. Chiara se entera de que el canal existe en la coda de ese mismo capítulo, mucho antes de Camp Alder — así que acudir a Lucia aquí no depende de una coincidencia, sino de algo que Chiara ya sabía que existía.
 
-> **EJECUTADO EN PROSA (2026-09-22, Claude Sonnet 5).** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/44_A_Oscuras|Cap. 44 — A oscuras]], `Estado: BORRADOR`, **cierra la Parte III**. Mecanismo concreto: Chiara llega a Lucía por memoria, no por hallazgo en ningún expediente — recuerda que Kal le mencionó la línea directa de Cap. 32 — y acude a ella sólo después de agotar abogados, dinero, contactos e influencia. Lucía confirma custodia municipal → reclamo federal → Camp Alder ("Ya no lo tiene la ciudad"), no puede intervenir; su lectura de que esto excede los negocios se muestra por conducta externa, nunca narrada desde su interior. H20 ejecutado hasta el regreso inexplicado de Kal (apagón, penthouse, loft, "Ciao, bella"); la explicación de Halbrook y la reconciliación quedan para el Cap. 45. Corrección quirúrgica el mismo día: cronología cerrada en D5→D6 sin D7, y se retiró el microcanon de Lucía firmando la transferencia.
+> **EJECUTADO EN PROSA (2026-09-22, Claude Sonnet 5).** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/50_A_Oscuras|Cap. 44 — A oscuras]], `Estado: BORRADOR`, **cierra la Parte III**. Mecanismo concreto: Chiara llega a Lucía por memoria, no por hallazgo en ningún expediente — recuerda que Kal le mencionó la línea directa de Cap. 32 — y acude a ella sólo después de agotar abogados, dinero, contactos e influencia. Lucía confirma custodia municipal → reclamo federal → Camp Alder ("Ya no lo tiene la ciudad"), no puede intervenir; su lectura de que esto excede los negocios se muestra por conducta externa, nunca narrada desde su interior. H20 ejecutado hasta el regreso inexplicado de Kal (apagón, penthouse, loft, "Ciao, bella"); la explicación de Halbrook y la reconciliación quedan para el Cap. 45. Corrección quirúrgica el mismo día: cronología cerrada en D5→D6 sin D7, y se retiró el microcanon de Lucía firmando la transferencia.
 
 ---
 
@@ -2529,9 +2533,9 @@ Al cierre de la montaña y Santa Lucía, Kal comprende que los dos frentes perte
 Lo que sí debe existir en prosa **antes** de H22:
 
 - la Guerra de los Tres ya en escalada, no cerrada — Dario y Halbrook activos, la ciudad interpretando el choque posterior a H1;
-- el destierro de Riley (F2, Libro II — Sombras de Poder) y su vida ya establecida en Italia;
+- el destierro de Bonnie (F2, Libro II — Sombras de Poder) y su vida ya establecida en Italia;
 - el embarazo, H1 con conocimiento desigual y el reveal a Kal (Libro II — Sombras de Poder);
-- el nacimiento de Elenna, la falsa muerte pública, Elenna Serra con Riley, y una separación ya vivida como experiencia cotidiana (fotografías escasas incluidas).
+- el nacimiento de Elenna, la falsa muerte pública, Elenna Serra con Bonnie, y una separación ya vivida como experiencia cotidiana (fotografías escasas incluidas).
 
 Lo que ocurre **después** de H22, dentro del mismo libro (Voto de Ceniza): la caída legal de Dario (falso clímax) → la montaña y Santa Lucía —con la muerte de [[02_Characters/Hector_Navarro|Héctor Navarro]] y de [[02_Characters/Kenji_Oda|Kenji Oda]] y Chiara gravemente herida— → Kal decide que Halbrook debe morir (no lo ejecuta todavía) → Corrado revelado vivo. **H22 es la bisagra dentro de la guerra todavía abierta** que hace nacer el plan de salida antes del atentado contra Chiara.
 
@@ -2558,9 +2562,9 @@ Lo que ocurre **después** de H22, dentro del mismo libro (Voto de Ceniza): la c
 
 ## Bloqueo de prosa — regla dura
 
-> **BLOQUEO DE PROSA:** este hito no puede redactarse ni encargarse a Claude antes de que existan en prosa suficiente los tres soportes narrativos: Guerra de los Tres, destierro de Riley y embarazo/nacimiento/separación de Elenna. Su arquitectura puede diseñarse; su ejecución queda bloqueada.
+> **BLOQUEO DE PROSA:** este hito no puede redactarse ni encargarse a Claude antes de que existan en prosa suficiente los tres soportes narrativos: Guerra de los Tres, destierro de Bonnie y embarazo/nacimiento/separación de Elenna. Su arquitectura puede diseñarse; su ejecución queda bloqueada.
 
-Redactarlo antes de construir esas causas convertiría una bisagra estructural en una escena sentimental aislada. El desbloqueo exige que el lector ya haya vivido por qué Kal y Chiara no pueden viajar simplemente a Italia, por qué Riley ya está allí y por qué un video de una bebé caminando funciona como derrota.
+Redactarlo antes de construir esas causas convertiría una bisagra estructural en una escena sentimental aislada. El desbloqueo exige que el lector ya haya vivido por qué Kal y Chiara no pueden viajar simplemente a Italia, por qué Bonnie ya está allí y por qué un video de una bebé caminando funciona como derrota.
 
 ## Estado y posición
 
@@ -2576,8 +2580,8 @@ Redactarlo antes de construir esas causas convertiría una bisagra estructural e
 | Embarazo | Sí | El lector espera una hija |
 | H1 con embarazo secreto | Sí | Elenna queda ligada a volver a casa |
 | Reveal a Kal | Sí | Paternidad consciente |
-| Arco Riley–Chiara | Sí | Justifica la confianza |
-| Destierro de Riley | Sí | La coloca orgánicamente en Italia |
+| Arco Bonnie–Chiara | Sí | Justifica la confianza |
+| Destierro de Bonnie | Sí | La coloca orgánicamente en Italia |
 | Guerra de los Tres | Sí | Impide la vida familiar normal |
 | Nacimiento de Elenna | Sí | Convierte posibilidad en persona |
 | Falsa muerte | Sí | Explica la separación pública |
@@ -2594,13 +2598,13 @@ El lector debe entender por qué Kal y Chiara están atrapados terminando una gu
 
 Sin esta presión, la separación parecería artificial.
 
-### B — Destierro de Riley
+### B — Destierro de Bonnie
 
-Riley debe haber sido formada por Chiara, perdido su lugar en San Aurelio por un conflicto propio, sobrevivido mediante desaparición y construido una vida suficiente en Italia como **Riley Colombo**.
+Bonnie debe haber sido formada por Chiara, perdido su lugar en San Aurelio por un conflicto propio, sobrevivido mediante desaparición y construido una vida suficiente en Italia como **Bonnie Colombo**.
 
-Kal no la destierra pensando en una hija futura. Chiara no la coloca en Italia para convertirla en cuidadora. Mucho después, cuando necesitan a alguien absolutamente confiable, Riley ya está allí.
+Kal no la destierra pensando en una hija futura. Chiara no la coloca en Italia para convertirla en cuidadora. Mucho después, cuando necesitan a alguien absolutamente confiable, Bonnie ya está allí.
 
-Sin esa cadena, Riley cuidando a Elenna parecería una solución inventada después del problema.
+Sin esa cadena, Bonnie cuidando a Elenna parecería una solución inventada después del problema.
 
 ### C — Nacimiento y pérdida pública de Elenna
 
@@ -2627,10 +2631,10 @@ Kal y Chiara ven juntos el dispositivo o memoria USB.
 En el video:
 
 - Elenna está apoyada contra un sofá;
-- Riley permanece cerca;
+- Bonnie permanece cerca;
 - Elenna se suelta;
-- da sus primeros pasos hacia Riley;
-- Riley se ríe;
+- da sus primeros pasos hacia Bonnie;
+- Bonnie se ríe;
 - Elenna se ríe.
 
 Por primera vez sus padres no ven una imagen de su hija: la ven vivir.
@@ -2682,7 +2686,7 @@ Mientras San Aurelio los convierte en **La Mancuerna de Hierro y Seda**, ellos p
 - No hacer que Kal y Chiara viajen o se retiren inmediatamente después del video.
 - No explicar la metáfora del segundo intento de reproducción.
 - No diseñar todavía la tecnología del dispositivo.
-- No borrar el apego de Elenna hacia Riley ni convertir a Riley en niñera funcional.
+- No borrar el apego de Elenna hacia Bonnie ni convertir a Bonnie en niñera funcional.
 - No convertir a Elenna en heredera criminal o promesa de dinastía.
 
 ## Pendientes de H22

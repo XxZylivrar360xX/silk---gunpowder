@@ -224,11 +224,11 @@ Y precisamente por eso el destino es insoportable.
 
 ---
 
-# 5. Forces of Attraction — Riley
+# 5. Forces of Attraction — Bonnie
 
 ## Esencia
 
-Esta referencia representa la aparición de Riley y la transferencia de confianza.
+Esta referencia representa la aparición de Bonnie y la transferencia de confianza.
 
 Debe sentirse:
 
@@ -239,21 +239,21 @@ Debe sentirse:
 - delicada;
 - sin grandiosidad.
 
-Riley no vuelve como personaje triunfal.
+Bonnie no vuelve como personaje triunfal.
 
 No es:
 
-> ¡Riley ha regresado!
+> ¡Bonnie ha regresado!
 
 Es:
 
-> **Riley está aquí porque alguna vez Cole decidió salvarla apartándola.**
+> **Bonnie está aquí porque alguna vez Cole decidió salvarla apartándola.**
 
 Ahora esa decisión antigua se convierte en la seguridad de Elenna.
 
 ## Regla dura
 
-Riley no debe anunciarse antes.
+Bonnie no debe anunciarse antes.
 
 No debe existir preparación explícita.
 
@@ -261,7 +261,7 @@ Cole espera a otro contacto.
 
 Probablemente Ettore.
 
-Cuando ve a Riley, la revelación también es suya.
+Cuando ve a Bonnie, la revelación también es suya.
 
 ## Traducción a prosa
 
@@ -293,7 +293,7 @@ Al inicio:
 
 En la pista:
 
-> Cole debe retirar ese dedo para poder entregársela a Riley.
+> Cole debe retirar ese dedo para poder entregársela a Bonnie.
 
 No remarcarlo.
 
@@ -343,7 +343,7 @@ Nada sale mal.
 
 Elenna está segura.
 
-Riley está preparada.
+Bonnie está preparada.
 
 El avión despega.
 
@@ -498,7 +498,7 @@ Puede funcionar como referencia para una estructura paralela entre:
 
 - Cole en La Almendra;
 - Chiara en el hospital;
-- Riley con Elenna;
+- Bonnie con Elenna;
 - la ciudad continuando;
 - la falsa muerte consolidándose.
 
@@ -539,7 +539,7 @@ Su fuerza está en la combinación de:
 
 ## Uso conceptual
 
-Riley está con Elenna.
+Bonnie está con Elenna.
 
 San Aurelio se aleja.
 
@@ -645,7 +645,7 @@ Ejemplos de firma:
 
 - Cole tarda demasiado en entregar a Elenna.
 - Chiara no consigue mirar el oso.
-- Riley no pide explicaciones.
+- Bonnie no pide explicaciones.
 - alguien en La Almendra abraza a Cole y él tarda en corresponder.
 - Cole intenta mirar el avión después de que ya desapareció.
 - Chiara aprieta el listón rosa entre los dedos.
@@ -668,7 +668,7 @@ No sabe:
 - qué es una guerra;
 - qué significa Mercer;
 - qué significa Serra;
-- por qué Riley la carga.
+- por qué Bonnie la carga.
 
 Su normalidad debe aumentar el dolor.
 
@@ -731,9 +731,9 @@ El oso con listón rosa existe precisamente para romper a la mujer que logró co
 
 ---
 
-# 18. Firma de Riley
+# 18. Firma de Bonnie
 
-Riley no es niñera.
+Bonnie no es niñera.
 
 No es recurso operativo.
 

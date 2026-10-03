@@ -1,20 +1,20 @@
 <!--
-Estado: BORRADOR — Parte III — Ardizzone, séptimo capítulo (Cap. 41 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "La otra mitad". No es provisional. **Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_III]]):** el vuelo de Kal "había llegado"; la fiesta del yate "la semana anterior" (no "semanas atrás"); Riley deja de ser escucha-confidente (se cortan dos silencios de escucha y la frase "las dos cosas se me quedaron pegadas"; la foto de la boda se funde al parlamento anterior); firma de Riley variada por posición de otros (los dos de seguridad), sin callback al yate. "¿Y él qué dijo cuando volvieron?" se conserva. Detalle en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]] § 9 parte 3. Sigue BORRADOR hasta lectura del autor.
+Estado: BORRADOR — Parte III — Ardizzone, séptimo capítulo (Cap. 41 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "La otra mitad". No es provisional. **Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_III]]):** el vuelo de Kal "había llegado"; la fiesta del yate "la semana anterior" (no "semanas atrás"); Bonnie deja de ser escucha-confidente (se cortan dos silencios de escucha y la frase "las dos cosas se me quedaron pegadas"; la foto de la boda se funde al parlamento anterior); firma de Bonnie variada por posición de otros (los dos de seguridad), sin callback al yate. "¿Y él qué dijo cuando volvieron?" se conserva. Detalle en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]] § 9 parte 3. Sigue BORRADOR hasta lectura del autor.
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal Mercer no aparece en escena: sólo su voz, por teléfono, y su ausencia sostenida a través del loft y de la llave que Chiara no usa.
-Personajes con diálogo: Chiara Bellandi, Riley Bennett, Kal Mercer (por teléfono, una línea). Fabrizio Rinaldi con diálogo breve, por teléfono.
-Ausente, sentido: Matteo Bellacorte (silla vacía, funciones absorbidas). Mencionado sin aparecer: Kal Mercer en persona, Ettore, La Mesa, Valenti, Livia Rinaldi, Alessio Lusardi (todos referidos por Chiara al hablar con Riley, sin escena).
+Personajes con diálogo: Chiara Bellandi, Bonnie García, Kal Mercer (por teléfono, una línea). Fabrizio Rinaldi con diálogo breve, por teléfono.
+Ausente, sentido: Matteo Bellacorte (silla vacía, funciones absorbidas). Mencionado sin aparecer: Kal Mercer en persona, Ettore, La Mesa, Valenti, Livia Rinaldi, Alessio Lusardi (todos referidos por Chiara al hablar con Bonnie, sin escena).
 Ventana temporal: atardecer del mismo D0 en que Kal aterrizó a media tarde, cerca de las tres (Cap. 39) — Chiara aterriza por separado, en avión privado, unas horas después, al atardecer — hasta la madrugada de D1, sin marcar días con encabezado.
-Lugares: Kingsley Field (apertura); The Monarch — despacho que fue de Matteo, despacho propio de Chiara (cierre, con Riley).
-Función: la otra mitad de Palermo, desde Chiara. Muestra lo que Kal no pudo ver en el Cap. 40: por qué declaró a Kal ajeno a la casa Ardizzone, que decidió por él, y que Kal se fue sin que ella supiera de Halbrook. En paralelo, instala la inconsistencia de mensajería de Matteo, el primer cambio de temperatura de Fabrizio, y funda la relación Chiara-Riley con la mentira "—Nada." como bomba para el Cap. 42.
+Lugares: Kingsley Field (apertura); The Monarch — despacho que fue de Matteo, despacho propio de Chiara (cierre, con Bonnie).
+Función: la otra mitad de Palermo, desde Chiara. Muestra lo que Kal no pudo ver en el Cap. 40: por qué declaró a Kal ajeno a la casa Ardizzone, que decidió por él, y que Kal se fue sin que ella supiera de Halbrook. En paralelo, instala la inconsistencia de mensajería de Matteo, el primer cambio de temperatura de Fabrizio, y funda la relación Chiara-Bonnie con la mentira "—Nada." como bomba para el Cap. 42.
 
-- REGLA ESTRUCTURAL: sigue el plan de cierre de Parte III al detalle. No se explica el corte de cabello, no hay escena conjunta Kal-Chiara, no se resuelve Matteo, no se revela Nereo/Volpi/Corrado/Consorcio como atacante, Fabrizio no es traidor, Riley todavía no es protegida.
-- **Cabello:** primera revelación al lector. Kal no lo ve hasta el Cap. 42. No se explica el motivo en ningún punto del capítulo, ni siquiera a Riley.
+- REGLA ESTRUCTURAL: sigue el plan de cierre de Parte III al detalle. No se explica el corte de cabello, no hay escena conjunta Kal-Chiara, no se resuelve Matteo, no se revela Nereo/Volpi/Corrado/Consorcio como atacante, Fabrizio no es traidor, Bonnie todavía no es protegida.
+- **Cabello:** primera revelación al lector. Kal no lo ve hasta el Cap. 42. No se explica el motivo en ningún punto del capítulo, ni siquiera a Bonnie.
 - **Penthouse, no loft:** decisión mostrada por acción (dirección dada al chofer), nunca explicada en prosa.
 - **"Nada":** mentira funcional completa, colocada tras la pregunta de Kal sobre Matteo. No se glosa como mentira.
-- **Riley:** entra como elección lógica de Chiara, no coincidencia; pregunta por qué no Kal; recibe la otra mitad de Palermo comprimida a lo que responde esa pregunta, no un recuento del Cap. 40. Todavía no es protegida ni confidente recíproca.
+- **Bonnie:** entra como elección lógica de Chiara, no coincidencia; pregunta por qué no Kal; recibe la otra mitad de Palermo comprimida a lo que responde esa pregunta, no un recuento del Cap. 40. Todavía no es protegida ni confidente recíproca.
 - Cierre literal en: "—Y no le digas nada a Kal todavía." Sin coda posterior.
 
-> **CORRECCIÓN QUIRÚRGICA (2026-09-22, Claude Sonnet 5, encargo del autor):** arquitectura aprobada intacta; se corrigió (1) metadata temporal — Kal aterriza a media tarde, no por la mañana; (2) fuga de POV en la apertura — se retiró información del Cap. 39 que Chiara no puede conocer (maleta, frase repetida); (3) descripción del cabello reducida a dato físico puro, sin interpretar el gesto; (4) Torre Norte verificada como canon existente en [[05_Locations/El_Penthouse]], se conserva; (5) cronología de la camioneta corregida — la cámara registra el día que llegó el sobre, antes de que Matteo se fuera, no esa misma noche; Riley lo confirma explícitamente ("¿Cuándo la grabaron?" / "Antes de que Matteo se fuera. No es de esta noche."); (6) "una mujer puso a Kal sobre la mesa" pasa a ser un movimiento institucional de la Mesa, sin atribuírselo a Livia por nombre; (7) "un hombre cerca de mi asiento deja de ser mío" pierde la lectura posesiva y pasa a "vinculado a mi asiento... se vuelve reclamable"; (8) se separó causalmente Palermo (por qué Chiara no llama a Kal) del coche de Matteo (por qué existe la investigación) — se retiró "Por eso el coche." y se insertó el corte "¿Y el coche? / Es otra cosa."; (9) se eliminó "tú no le perteneces a nadie todavía. Eres tuya." — reemplazada por la lógica de escalamiento de Chiara ("contigo esto sigue siendo un coche. Con Kal deja de serlo."), que no reclama a Riley y prepara la objeción de Kal en el 42; (10) el hallazgo del contacto de Riley pasa por listas de control de seguridad del Monarch, no por una agenda de invitados; (11) el cierre pierde el vocativo "Riley" para calzar con la línea literal pedida. No se tocó "—Nada.", ni la confesión de que decidió por él, ni el final con "todavía". Sin EPUB, commit ni push.
+> **CORRECCIÓN QUIRÚRGICA (2026-09-22, Claude Sonnet 5, encargo del autor):** arquitectura aprobada intacta; se corrigió (1) metadata temporal — Kal aterriza a media tarde, no por la mañana; (2) fuga de POV en la apertura — se retiró información del Cap. 39 que Chiara no puede conocer (maleta, frase repetida); (3) descripción del cabello reducida a dato físico puro, sin interpretar el gesto; (4) Torre Norte verificada como canon existente en [[05_Locations/El_Penthouse]], se conserva; (5) cronología de la camioneta corregida — la cámara registra el día que llegó el sobre, antes de que Matteo se fuera, no esa misma noche; Bonnie lo confirma explícitamente ("¿Cuándo la grabaron?" / "Antes de que Matteo se fuera. No es de esta noche."); (6) "una mujer puso a Kal sobre la mesa" pasa a ser un movimiento institucional de la Mesa, sin atribuírselo a Livia por nombre; (7) "un hombre cerca de mi asiento deja de ser mío" pierde la lectura posesiva y pasa a "vinculado a mi asiento... se vuelve reclamable"; (8) se separó causalmente Palermo (por qué Chiara no llama a Kal) del coche de Matteo (por qué existe la investigación) — se retiró "Por eso el coche." y se insertó el corte "¿Y el coche? / Es otra cosa."; (9) se eliminó "tú no le perteneces a nadie todavía. Eres tuya." — reemplazada por la lógica de escalamiento de Chiara ("contigo esto sigue siendo un coche. Con Kal deja de serlo."), que no reclama a Bonnie y prepara la objeción de Kal en el 42; (10) el hallazgo del contacto de Bonnie pasa por listas de control de seguridad del Monarch, no por una agenda de invitados; (11) el cierre pierde el vocativo "Bonnie" para calzar con la línea literal pedida. No se tocó "—Nada.", ni la confesión de que decidió por él, ni el final con "todavía". Sin EPUB, commit ni push.
 -->
 
 # Capítulo 41 — La otra mitad
@@ -99,9 +99,9 @@ Fue todo lo que dijo. Kal no insistió, y ella tampoco alargó la llamada más d
 
 ---
 
-Buscar a Riley le tomó una llamada, no más. El equipo de seguridad del Monarch había manejado los accesos del grupo del Patio en la fiesta del yate, la semana anterior, y ahí quedó, en alguna lista de control, el nombre de Riley junto a un número. De ahí hubo un solo paso.
+Buscar a Bonnie le tomó una llamada, no más. El equipo de seguridad del Monarch había manejado los accesos del grupo del Patio en la fiesta del yate, la semana anterior, y ahí quedó, en alguna lista de control, el nombre de Bonnie junto a un número. De ahí hubo un solo paso.
 
-Riley llegó al Monarch pasada la medianoche, con una chaqueta que no era de vestir y las manos en los bolsillos. En el vestíbulo no miró el mármol: miró a los dos de seguridad, y hacia dónde miraba cada uno.
+Bonnie llegó al Monarch pasada la medianoche, con una chaqueta que no era de vestir y las manos en los bolsillos. En el vestíbulo no miró el mármol: miró a los dos de seguridad, y hacia dónde miraba cada uno.
 
 Se detuvo un segundo de más al ver a Chiara, algo entre el pelo y la ropa, y no dijo nada.
 
@@ -109,7 +109,7 @@ Chiara la hizo pasar a su propio despacho, no al de Matteo.
 
 —Gracias por venir a esta hora.
 
-—Me dijeron que era usted. —Riley se sentó sin que se lo pidieran, en el borde de la silla, como quien no piensa quedarse más tiempo del necesario—. Pensé que era otra cosa.
+—Me dijeron que era usted. —Bonnie se sentó sin que se lo pidieran, en el borde de la silla, como quien no piensa quedarse más tiempo del necesario—. Pensé que era otra cosa.
 
 —Es un coche.
 
@@ -117,7 +117,7 @@ Le puso la hoja delante: la camioneta blanca, el logo de Envíos Rápidos San Au
 
 —Necesito saber quién la usa. A dónde va normalmente. Nada más.
 
-Riley miró la hoja, después a Chiara.
+Bonnie miró la hoja, después a Chiara.
 
 —¿Por qué no se lo pide a Kal? Esto es justo lo suyo.
 
@@ -125,13 +125,13 @@ Chiara no contestó enseguida. Se sentó al otro lado del escritorio, no detrás
 
 —Porque en Palermo entendí algo que todavía no sé qué hacer con ello.
 
-Riley no dijo nada. Esperó.
+Bonnie no dijo nada. Esperó.
 
 —Lo llevé a una reunión de mi familia —dijo Chiara—. Entró como mi acompañante. Después de hablar, la Mesa dejó de verlo así. Empezaron a mirarlo como una pieza. No una persona. Una pieza. Y cuando vieron lo útil que podía ser, alguien lo anotó en un libro que no es mío.
 
 —¿Y eso qué significa?
 
-—Que un hombre vinculado a mi asiento deja de ser un invitado. Se vuelve reclamable. —Chiara se tocó el anular izquierdo sin darse cuenta, y lo bajó antes de que Riley pudiera notarlo—. Así que dije que no era parte de mi casa. Delante de todos. Para que no pudieran usarlo así. En la misma sala me pusieron delante una fotografía de mi boda. Para recordarme cómo debe verse una Ardizzone.
+—Que un hombre vinculado a mi asiento deja de ser un invitado. Se vuelve reclamable. —Chiara se tocó el anular izquierdo sin darse cuenta, y lo bajó antes de que Bonnie pudiera notarlo—. Así que dije que no era parte de mi casa. Delante de todos. Para que no pudieran usarlo así. En la misma sala me pusieron delante una fotografía de mi boda. Para recordarme cómo debe verse una Ardizzone.
 
 —¿Y él lo escuchó?
 
@@ -143,23 +143,23 @@ Riley no dijo nada. Esperó.
 
 —Porque explicarlo delante de esa mesa habría sido peor que decirlo. —Chiara lo dijo sin defenderse, con la misma voz con la que cerraba cualquier otro dato del día—. Quise protegerlo. Y decidí por él lo que era, sin preguntarle. Las dos cosas son ciertas.
 
-Riley se recargó apenas en la silla.
+Bonnie se recargó apenas en la silla.
 
 —¿Y él qué dijo cuando volvieron?
 
-—No volvimos juntos. —Chiara miró la hoja sobre el escritorio, no a Riley—. Esa misma noche le llamaron por algo que no me explicó. Se fue al día siguiente, sin pedirme que lo acompañara. Yo tenía cosas que todavía no había terminado, y no se lo pedí tampoco.
+—No volvimos juntos. —Chiara miró la hoja sobre el escritorio, no a Bonnie—. Esa misma noche le llamaron por algo que no me explicó. Se fue al día siguiente, sin pedirme que lo acompañara. Yo tenía cosas que todavía no había terminado, y no se lo pedí tampoco.
 
 —¿Qué cosas?
 
 —Deshacer con palabras lo que esa mesa acababa de escribir sobre él. —Chiara levantó la vista—. No lo conseguí del todo.
 
-Riley dejó pasar un segundo.
+Bonnie dejó pasar un segundo.
 
 —¿Y el coche?
 
 —Es otra cosa. —Chiara tocó la hoja doblada sobre el escritorio—. Matteo se fue antes de Palermo, sin avisar. Alguien tenía que hacer su trabajo mientras tanto, y haciéndolo encontré una ruta que no debería existir. Nada más que eso, todavía.
 
-Riley no dijo que lo entendía. No dijo que Chiara había hecho bien, ni que Kal lo entendería, ni nada que sonara a consuelo.
+Bonnie no dijo que lo entendía. No dijo que Chiara había hecho bien, ni que Kal lo entendería, ni nada que sonara a consuelo.
 
 —Si no quería que fuera de su gente allá —dijo, en cambio—, ¿por qué está usando a alguien de la suya aquí?
 
@@ -167,7 +167,7 @@ Chiara la miró un segundo de más.
 
 —Porque contigo esto sigue siendo un coche —dijo—. Con Kal deja de serlo. Se convierte en su problema, y todavía no sé si es su problema.
 
-Riley no contestó eso. Volvió a mirar la hoja.
+Bonnie no contestó eso. Volvió a mirar la hoja.
 
 —¿Modelo?
 
@@ -181,7 +181,7 @@ Riley no contestó eso. Volvió a mirar la hoja.
 
 —Entonces habré perdido una noche de sueño de las dos. —Chiara cerró la carpeta—. Pero la ruta no debería existir, y quiero saber por qué existe.
 
-Riley se guardó la hoja en el bolsillo de la chaqueta, no en el bolso, y se puso de pie.
+Bonnie se guardó la hoja en el bolsillo de la chaqueta, no en el bolso, y se puso de pie.
 
 —¿Sólo encontrarla, o algo más?
 
@@ -189,6 +189,6 @@ Riley se guardó la hoja en el bolsillo de la chaqueta, no en el bolso, y se pus
 
 —Bien.
 
-Ya en la puerta, Riley se detuvo un segundo, con la mano en el marco.
+Ya en la puerta, Bonnie se detuvo un segundo, con la mano en el marco.
 
 —Y no le digas nada a Kal todavía —dijo Chiara.

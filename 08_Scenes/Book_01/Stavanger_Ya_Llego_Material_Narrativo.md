@@ -14,10 +14,10 @@ ventana_temporal: >-
   no antes. Posicion exacta pendiente de precisar.
 localizacion: Stavanger, Noruega (ciudad propuesta, todavia no promovida a la ficha de Kal_Mercer.md)
 personajes: Kal Mercer, Chiara Bellandi, Henrik Solberg (nombre y parentesco PROVISIONALES, no aprobados)
-fuente_canon: "[[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] · [[02_Characters/Silas_Crowe]] · [[06_Relationships/Hitos]]"
+fuente_canon: "[[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]] · [[02_Characters/Silas_Crowe]] · [[06_Relationships/Hitos]]"
 ---
 
-> **MATERIAL NARRATIVO — no canónico hasta aprobación del autor.** Esta es la versión de escena, promovida desde [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] (que conserva el registro completo de diseño y de las contradicciones ya resueltas con el autor el 2026-09-19) a este directorio de `08_Scenes/Book_01`, siguiendo la convención de [[08_Scenes/Book_03/Tornare_A_Casa_Material_Narrativo]]. No se modificó ningún otro archivo del vault al crear esta versión.
+> **MATERIAL NARRATIVO — no canónico hasta aprobación del autor.** Esta es la versión de escena, promovida desde [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]] (que conserva el registro completo de diseño y de las contradicciones ya resueltas con el autor el 2026-09-19) a este directorio de `08_Scenes/Book_01`, siguiendo la convención de [[08_Scenes/Book_03/Tornare_A_Casa_Material_Narrativo]]. No se modificó ningún otro archivo del vault al crear esta versión.
 >
 > **Decisiones ya tomadas por el autor (2026-09-19), heredadas sin cambios:**
 >

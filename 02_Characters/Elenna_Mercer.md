@@ -4,7 +4,9 @@
 
 *Seda y Pólvora — Ficha de Personaje*
 
-> **CANON DEL AUTOR (2026-08-31).** El nombre verdadero es **Elenna Mercer**, con doble `n`. Durante su resguardo en Italia usa documentación como **Elenna Serra**. `Serra` no es su apellido real y no crea parentesco con ninguna familia: es una identidad destinada a cortar vínculos visibles con Kal, Chiara, Corrado y Riley.
+> **SIGNIFICADO DEL NOMBRE (CANON DEL AUTOR, 2026-10-02):** "la que resplandece" (la luz en la oscuridad de la violencia de la ciudad) y "hacia las estrellas" (guiño al Cap. 20 del Libro I, *El mirador*). No se enuncia en prosa del Libro II. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "El nombre en cursiva".
+
+> **CANON DEL AUTOR (2026-08-31).** El nombre verdadero es **Elenna Mercer**, con doble `n`. Durante su resguardo en Italia usa documentación como **Elenna Serra**. `Serra` no es su apellido real y no crea parentesco con ninguna familia: es una identidad destinada a cortar vínculos visibles con Kal, Chiara, Corrado y Bonnie.
 
 ## Datos básicos
 
@@ -16,7 +18,7 @@
 **Estado público:** fallecida al nacer  
 **Estado real:** viva  
 **Lugar de resguardo:** Italia; localización exacta pendiente  
-**Cuidadora durante el resguardo:** [[02_Characters/Riley_Bennett|Riley Bennett]]
+**Cuidadora durante el resguardo:** [[02_Characters/Bonnie_Garcia|Bonnie García]]
 
 Para la mayoría del mundo, la hija de Kal Mercer y Chiara Bellandi muere durante o alrededor del parto. La formulación pública exacta todavía no existe. En realidad, Elenna es retirada del tablero y pasa aproximadamente su primer año en Italia bajo la identidad **Elenna Serra**.
 
@@ -45,7 +47,7 @@ No hereda marcas como inventario. No necesita la cicatriz de Kal, un lunar de Ch
 
 > **CANON DEL AUTOR (2026-09-13; rango formalizado 2026-09-16):** durante la etapa del epílogo de *Cuentas de Sangre*, Elenna tiene **21 años**. Aproximadamente veinte años después del cierre inmediato de Palermo, y unas semanas después del epílogo, regresa a San Aurelio para iniciar la academia como **Recluta** del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento de Policía de San Aurelio]]. Se dirige a ella como **Recluta Mercer** (no "Recruit Mercer").
 
-Esta decisión abre una historia futura hipotética centrada en Elenna, Riley y Marisol. No pertenece a los tres libros de Kal y Chiara, no convierte el epílogo en un teaser y no fija todavía que Elenna se gradúe, permanezca en el Departamento o adopte una especialidad.
+Esta decisión abre una historia futura hipotética centrada en Elenna, Bonnie y Marisol. No pertenece a los tres libros de Kal y Chiara, no convierte el epílogo en un teaser y no fija todavía que Elenna se gradúe, permanezca en el Departamento o adopte una especialidad.
 
 Elenna no entra porque siempre haya querido ser policía ni porque Marisol pueda ayudarla. Después de años de viajes, fotografía, temporadas breves y regresos, se presenta al proceso para averiguar si puede elegir quedarse cuando quedarse significa aceptar responsabilidad, rutina, jerarquía y consecuencias. La institución pone a prueba su autonomía; no reemplaza su identidad.
 
@@ -75,9 +77,9 @@ Su curiosidad, reacción ante voces, apego, sueño, risa y conducta motriz sólo
 
 **Mercer** es su apellido real. Durante el resguardo es también un vínculo que no puede aparecer en sus documentos.
 
-**Serra** existe sólo para ocultarla. La documentación de esa etapa debe nombrarla **Elenna Serra**, nunca Mercer, Bellandi, Ardizzone ni Colombo. No se ha fijado quién obtiene los documentos, cómo se producen, qué institución los reconoce ni qué relación legal pública vincula a Riley con la niña.
+**Serra** existe sólo para ocultarla. La documentación de esa etapa debe nombrarla **Elenna Serra**, nunca Mercer, Bellandi, Ardizzone ni Colombo. No se ha fijado quién obtiene los documentos, cómo se producen, qué institución los reconoce ni qué relación legal pública vincula a Bonnie con la niña.
 
-El nombre de resguardo no reemplaza su identidad canónica y no convierte a Riley en madre documental por defecto. Cada consecuencia legal y operativa permanece pendiente.
+El nombre de resguardo no reemplaza su identidad canónica y no convierte a Bonnie en madre documental por defecto. Cada consecuencia legal y operativa permanece pendiente.
 
 ## El embarazo
 
@@ -95,7 +97,7 @@ No están fijadas la fecha de concepción, los días exactos antes de H1, el mec
 
 ## La falsa muerte
 
-Elenna nace durante el primer tramo importante de *Voto de Ceniza* (Libro II), cuando [[04_Concepts/La_Guerra_de_los_Tres|la Guerra de los Tres]] ya está escalando. Antes, en el **Libro I**, F2 debe haber expulsado a Riley de San Aurelio y Riley debe estar establecida en Italia. El capítulo, la semana y la distancia exacta entre esos hechos permanecen pendientes.
+Elenna nace durante el primer tramo importante de *Voto de Ceniza* (Libro II), cuando [[04_Concepts/La_Guerra_de_los_Tres|la Guerra de los Tres]] ya está escalando. Antes, en el **Libro I**, F2 debe haber expulsado a Bonnie de San Aurelio y Bonnie debe estar establecida en Italia. El capítulo, la semana y la distancia exacta entre esos hechos permanecen pendientes.
 
 Debe existir un detonante concreto que vuelva inaceptable mantener su existencia dentro del tablero, pero ese detonante todavía no ha sido decidido.
 
@@ -112,7 +114,7 @@ Muy pocas personas conocen la verdad. La lista exacta y el momento en que cada p
 
 > Arquitectura completa en [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map|el Book Map de Voto de Ceniza]]; calibración tonal no diegética en [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]]. Resumen aquí sólo lo que toca directamente a Elenna.
 
-**Voto de Ceniza no abre cronológicamente.** El Capítulo 1 es un flashforward de ~9 meses: nacimiento de Elenna, una breve pertenencia real, la aparente muerte, el duelo público de San Aurelio y el duelo privado de Chiara, y Kal en [[05_Locations/El_Mirador|El Mirador]]. **No confirma todavía** que Elenna sobrevivió, que fue enviada a Italia ni que Riley está implicada — el lector puede leer legítimamente que murió. Cierra con Kal diciéndole a Héctor:
+**Voto de Ceniza no abre cronológicamente.** El Capítulo 1 es un flashforward de ~9 meses: nacimiento de Elenna, una breve pertenencia real, la aparente muerte, el duelo público de San Aurelio y el duelo privado de Chiara, y Kal en [[05_Locations/El_Mirador|El Mirador]]. **No confirma todavía** que Elenna sobrevivió, que fue enviada a Italia ni que Bonnie está implicada — el lector puede leer legítimamente que murió. Cierra con Kal diciéndole a Héctor:
 
 > —La perdí, Héctor.
 > La perdí y no sé cómo voy a continuar.
@@ -121,23 +123,23 @@ Verdadera, de significado deliberadamente abierto. Cuando la cronología alcanza
 
 **El motivo del dedo:** al nacer, Elenna cierra la mano en torno a uno de los dedos de Kal. En la pista clandestina donde la entrega, Kal debe retirar ese mismo dedo de la mano de Elenna para dársela a quien la recibe. No sobreexplicar el paralelismo.
 
-**La entrega:** Kal saca personalmente a Elenna del hospital y la lleva a una pista clandestina — posiblemente la misma infraestructura, o una fuertemente asociada, a la que sacó a Riley de San Aurelio en F2 (**no fijado que sea literalmente la misma — PENDIENTE**). Ahí lo espera una figura con gabardina y capucha que resulta ser Riley Bennett. La revelación es simultánea para Kal y para el lector; Chiara ya lo sabía y sólo había dicho, durante la planificación, algo equivalente a *"yo me encargaré de que haya alguien de confianza al otro lado"* — dejando que Kal (y el lector) asuman que se refiere a Ettore.
+**La entrega:** Kal saca personalmente a Elenna del hospital y la lleva a una pista clandestina — posiblemente la misma infraestructura, o una fuertemente asociada, a la que sacó a Bonnie de San Aurelio en F2 (**no fijado que sea literalmente la misma — PENDIENTE**). Ahí lo espera una figura con gabardina y capucha que resulta ser Bonnie García. La revelación es simultánea para Kal y para el lector; Chiara ya lo sabía y sólo había dicho, durante la planificación, algo equivalente a *"yo me encargaré de que haya alguien de confianza al otro lado"* — dejando que Kal (y el lector) asuman que se refiere a Ettore.
 
-## Riley
+## Bonnie
 
-> **CANON DE DISEÑO.** [[02_Characters/Riley_Bennett|Riley Bennett]] cuida a Elenna durante su periodo de resguardo en Italia.
+> **CANON DE DISEÑO.** [[02_Characters/Bonnie_Garcia|Bonnie García]] cuida a Elenna durante su periodo de resguardo en Italia.
 
-La elección cobra el arco anterior de Riley: Chiara la formó; Kal y Chiara tuvieron que apartarla de San Aurelio para salvarla; después confían en ella aquello que más necesitan proteger.
+La elección cobra el arco anterior de Bonnie: Chiara la formó; Kal y Chiara tuvieron que apartarla de San Aurelio para salvarla; después confían en ella aquello que más necesitan proteger.
 
-Riley no es una niñera funcional, una empleada, una sustituta descartable de Chiara ni una segunda madre construida para competir con ella. Asumir el cuidado de Elenna tiene que conservar su agencia, su vida propia y un costo emocional real. La localización, la cobertura legal y la logística no pueden borrar que Riley también vive una separación y carga una responsabilidad que reorganiza su propia historia.
+Bonnie no es una niñera funcional, una empleada, una sustituta descartable de Chiara ni una segunda madre construida para competir con ella. Asumir el cuidado de Elenna tiene que conservar su agencia, su vida propia y un costo emocional real. La localización, la cobertura legal y la logística no pueden borrar que Bonnie también vive una separación y carga una responsabilidad que reorganiza su propia historia.
 
-Elenna desarrolla un apego real hacia Riley, porque Riley es su persona de seguridad cotidiana durante una etapa fundamental. Ese vínculo debe sobrevivir cuando Kal y Chiara recuperen físicamente a su hija.
+Elenna desarrolla un apego real hacia Bonnie, porque Bonnie es su persona de seguridad cotidiana durante una etapa fundamental. Ese vínculo debe sobrevivir cuando Kal y Chiara recuperen físicamente a su hija.
 
-La convivencia con sus padres no se restablece de manera instantánea. Elenna puede llegar a conocer voces, fotografías o sonidos, pero no por eso reconoce de inmediato a Kal y Chiara como las personas que satisfacen sus necesidades diarias. El reencuentro debe ser gradual, respetar la experiencia emocional de una niña de aproximadamente un año y no borrar a Riley. La reacción exacta de Elenna permanece pendiente.
+La convivencia con sus padres no se restablece de manera instantánea. Elenna puede llegar a conocer voces, fotografías o sonidos, pero no por eso reconoce de inmediato a Kal y Chiara como las personas que satisfacen sus necesidades diarias. El reencuentro debe ser gradual, respetar la experiencia emocional de una niña de aproximadamente un año y no borrar a Bonnie. La reacción exacta de Elenna permanece pendiente.
 
 ## Las fotografías
 
-> **CANON DE DISEÑO.** Durante la separación, Riley envía fotografías muy escasas de Elenna.
+> **CANON DE DISEÑO.** Durante la separación, Bonnie envía fotografías muy escasas de Elenna.
 
 Kal y Chiara las reciben, las observan y después las destruyen. Las fotografías terminan quemadas en la chimenea de [[05_Locations/La_Villa|Villa Candelaria]] para no dejar evidencia capaz de conducir hasta la niña.
 
@@ -147,7 +149,7 @@ La cantidad exacta de fotografías no está fijada.
 
 ### El álbum de Elenna — CANON DEL AUTOR (2026-09-13)
 
-Ya adulta, Elenna conserva las fotografías impresas en un álbum físico; no se las muestra a Riley y Marisol en teléfono, pantalla ni archivo digital. La primera hoja guarda arriba la primera fotografía de Elenna bebé con Kal y Chiara; debajo está la imagen de las tres hermanas el día que Elenna cumplió cinco años, con ella sobre su bicicleta en el porche de la casa de Palermo. Riley y Marisol están a cada lado, cuidando que no se vaya de lado sin tocarla, angustiadas; Elenna sólo sonríe, divertida. En el epílogo, hojea hasta las impresiones más recientes de su último viaje para enseñárselas. Después batalla con la cámara vieja de rollo para encuadrar a las tres; un mesero termina tomando la fotografía que cierra la historia. El tercero es funcional y no requiere continuidad propia.
+Ya adulta, Elenna conserva las fotografías impresas en un álbum físico; no se las muestra a Bonnie y Marisol en teléfono, pantalla ni archivo digital. La primera hoja guarda arriba la primera fotografía de Elenna bebé con Kal y Chiara; debajo está la imagen de las tres hermanas el día que Elenna cumplió cinco años, con ella sobre su bicicleta en el porche de la casa de Palermo. Bonnie y Marisol están a cada lado, cuidando que no se vaya de lado sin tocarla, angustiadas; Elenna sólo sonríe, divertida. En el epílogo, hojea hasta las impresiones más recientes de su último viaje para enseñárselas. Después batalla con la cámara vieja de rollo para encuadrar a las tres; un mesero termina tomando la fotografía que cierra la historia. El tercero es funcional y no requiere continuidad propia.
 
 El álbum no convierte a Elenna en guardiana de un linaje ni vuelve solemne cada imagen. Es un objeto de uso: se carga, se abre, se comparte y sigue adelante.
 
@@ -159,16 +161,16 @@ El álbum no convierte a Elenna en guardiana de un linaje ni vuelve solemne cada
 >
 > **NO REDACTAR TODAVÍA.**
 
-H22 ocurre dentro de *Voto de Ceniza* (Libro II), después de que la separación de Elenna sea experiencia cotidiana y **antes** de la caída de Dario, la montaña y Santa Lucía — no después del cierre de la Guerra de los Tres; [[00_Biblia/00_Trilogy_Structure]] fija ese orden. Su prosa permanece bloqueada hasta que el manuscrito haya construido embarazo/H1/reveal, relación Riley–Chiara, destierro de Riley, guerra en escalada, nacimiento, falsa muerte, Elenna Serra, separación y fotografías.
+H22 ocurre dentro de *Voto de Ceniza* (Libro II), después de que la separación de Elenna sea experiencia cotidiana y **antes** de la caída de Dario, la montaña y Santa Lucía — no después del cierre de la Guerra de los Tres; [[00_Biblia/00_Trilogy_Structure]] fija ese orden. Su prosa permanece bloqueada hasta que el manuscrito haya construido embarazo/H1/reveal, relación Bonnie–Chiara, destierro de Bonnie, guerra en escalada, nacimiento, falsa muerte, Elenna Serra, separación y fotografías.
 
-Riley envía un dispositivo o memoria USB. Debe conservarse este intercambio:
+Bonnie envía un dispositivo o memoria USB. Debe conservarse este intercambio:
 
 > **Kal:** —¿Llegó la foto?  
 > **Chiara:** —No precisamente.  
 > **Kal:** —¿Has visto el contenido?  
 > **Chiara:** —No quiero hacerlo sola.
 
-Lo ven juntos. En el video, Elenna está apoyada contra un sofá y Riley permanece cerca. Elenna da sus primeros pasos hacia Riley. Riley se ríe y Elenna también.
+Lo ven juntos. En el video, Elenna está apoyada contra un sofá y Bonnie permanece cerca. Elenna da sus primeros pasos hacia Bonnie. Bonnie se ríe y Elenna también.
 
 Es la primera vez que Kal y Chiara ven a su hija **moverse**. Hasta ese momento sólo han recibido imágenes quietas: en ellas predomina el parecido con Kal. En movimiento, y sobre todo al reírse, aparece Chiara.
 
@@ -241,16 +243,17 @@ Representa lo contrario: **la razón por la que Kal y Chiara descubren que no ne
 > **No corregir estos puntos por conveniencia.** El canon del autor de esta ficha prevalece; los archivos señalados requieren una pasada posterior y coordinada.
 
 1. **Corrado figura como muerto en el vault vivo.** Lo afirman [[02_Characters/Chiara_Bellandi]], [[06_Relationships/Kal_y_Chiara]], [[03_Factions/Il_Consorzio]], [[03_Factions/Fuerza_de_Tarea_Meridian]], [[02_Characters/Ettore]], [[02_Characters/README]] y [[12_Craft_Policies/revelations/SAGA_LEVEL]]. El Capítulo 2 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo]]) y el Capítulo 9 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_El_Corral]]) también contienen formulaciones que presuponen su muerte o la retención de su cuerpo. El nuevo canon establece que está vivo y oculto en Italia durante buena parte de la novela. Esta contradicción afecta además el duelo de Chiara, la función de Ettore, la herida federal, escenas ya escritas y el secreto de saga; no debe resolverse con una sustitución mecánica de frases.
-2. **Riley en Italia — reconciliado en arquitectura (2026-08-31).** [[06_Relationships/Momentos_de_Fractura]] ya no presupone tutela Bellandi: F2 coloca a Riley en Italia como Riley Colombo antes del nacimiento, pero mantiene pendientes documentos, cobertura, apoyo y localización. `Riley Colombo` y `Elenna Serra` son identidades distintas.
+2. **Bonnie en Italia — reconciliado en arquitectura (2026-08-31).** [[06_Relationships/Momentos_de_Fractura]] ya no presupone tutela Bellandi: F2 coloca a Bonnie en Italia como Bonnie Colombo antes del nacimiento, pero mantiene pendientes documentos, cobertura, apoyo y localización. `Bonnie Colombo` y `Elenna Serra` son identidades distintas.
 3. **No se encontró una hija con otro nombre ni una supervivencia incompatible.** La auditoría dirigida no halló `Marta`, `Marta Elena` o `Elena Mercer` usados como nombre de la hija; tampoco una niña apellidada Colombo, una hija retenida en San Aurelio ni textos donde Dario o Halbrook conozcan su supervivencia. Las menciones existentes de Marta corresponden a [[02_Characters/Chiara_Bellandi|Marta Bellandi]], madre de Chiara.
-4. **Arquitectura futura — reconciliada en documentos centrales (2026-08-31).** [[06_Relationships/Hitos]] y [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] ya integran embarazo, H1, reveal posterior, Riley, nacimiento, falsa muerte, separación y H22. El timeline de 90 beats conserva numeración antigua y requiere expansión futura; una nota de precedencia impide usar su ubicación tardía de H1.
+4. **Arquitectura futura — reconciliada en documentos centrales (2026-08-31).** [[06_Relationships/Hitos]] y [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] ya integran embarazo, H1, reveal posterior, Bonnie, nacimiento, falsa muerte, separación y H22. El timeline de 90 beats conserva numeración antigua y requiere expansión futura; una nota de precedencia impide usar su ubicación tardía de H1.
 
 ## Pendientes
 
 No resolver ninguno de estos puntos por conveniencia:
 
 1. **PENDIENTE:** fecha exacta de nacimiento.
-2. **PENDIENTE:** fecha de concepción.
+2. **RESUELTO EN LUGAR (CANON DEL AUTOR, 2026-10-02):** Elenna se concibe en el viaje a Stavanger, el mismo en que Kal y Chiara se comprometen. El texto no señala la concepción (regla ya vigente en [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]]). Fecha exacta: PENDIENTE.
+   - **Rima de saga (DISEÑO, no enunciar):** Elenna conoce por las cartas la historia de cómo se comprometieron sus padres; en el hangar de *Camino a Casa*, "Pero mi historia empezó en un aeropuerto así, ¿o no?" / "Sí." carga la noche de la salida a Stavanger (anillo e hija en el mismo viaje). Capas secundarias: Kingsley Field (Palermo, el regreso de Chiara, la llegada de Halbrook en el 50b) y el papel de canela y vainilla (el tic del nombre en el Libro II es lo primero que Chiara le escribe). Ninguna escena la explica; la rima vive en lo que trae el lector.
 3. **PENDIENTE:** momento exacto del descubrimiento del embarazo, incluido cuántos días antes de H1 lo confirma Chiara.
 4. **PENDIENTE:** cuánto embarazo ha transcurrido al iniciar *Voto de Ceniza* (Libro II).
 5. **PENDIENTE:** detonante concreto que obliga a ocultarla.
@@ -262,9 +265,9 @@ No resolver ninguno de estos puntos por conveniencia:
 11. **PENDIENTE:** quién conoce que sigue viva y desde cuándo.
 12. **PENDIENTE:** quién organiza el traslado.
 13. **PENDIENTE:** cómo llega a Italia.
-14. **PENDIENTE:** localización exacta donde vive con Riley.
+14. **PENDIENTE:** localización exacta donde vive con Bonnie.
 15. **PENDIENTE:** cuánto dura exactamente la separación.
-16. **PENDIENTE:** relación legal pública entre Riley y Elenna Serra.
+16. **PENDIENTE:** relación legal pública entre Bonnie y Elenna Serra.
 17. **PENDIENTE:** cuántas fotografías reciben.
 18. **PENDIENTE:** procedimiento exacto del USB y su mecanismo de seguridad.
 19. **PENDIENTE:** cuándo Corrado descubre que Elenna existe.
@@ -272,7 +275,7 @@ No resolver ninguno de estos puntos por conveniencia:
 21. **PENDIENTE:** primer encuentro Corrado–Elenna.
 22. **PENDIENTE:** primer reencuentro Kal/Chiara–Elenna.
 23. **PENDIENTE:** reacción de Elenna a sus padres.
-24. **PENDIENTE:** evolución posterior del vínculo con Riley.
+24. **PENDIENTE:** evolución posterior del vínculo con Bonnie.
 25. **PENDIENTE:** personalidad infantil posterior.
 
 ### Pendientes adicionales del arco H1–H22
@@ -281,12 +284,12 @@ No resolver ninguno de estos puntos por conveniencia:
 27. **PENDIENTE:** diálogo exacto del reveal a Kal.
 28. **PENDIENTE:** reacción textual definitiva de Kal.
 29. **PENDIENTE:** sexo fetal y cuándo lo conocen, si llega a importar.
-30. **PENDIENTE:** momento exacto en que eligen el nombre Elenna.
+30. **PARCIAL (CANON DEL AUTOR, 2026-10-02):** en *Sombras de Poder* Chiara escribe en cursiva, en su papel de canela y vainilla, un nombre que el texto no revela, como un tic recurrente; paga en el reveal de la chimenea de Villa Candelaria (ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "El nombre en cursiva"). **PENDIENTE:** si empieza antes de que sepa que está embarazada y cuándo lo sabe Kal.
 31. **PENDIENTE:** calendario médico del embarazo.
 32. **PENDIENTE:** capítulo exacto de H22 dentro de *Voto de Ceniza* (Libro II), antes de la caída de Dario, la montaña y Santa Lucía.
 33. **PENDIENTE:** capítulo exacto del flashforward (Cap. 1) de *Voto de Ceniza* y de la costura hacia "Nueve meses antes".
-34. **PENDIENTE:** si la pista de la entrega a Riley es la misma infraestructura del destierro de Riley en F2 o una distinta, y su ubicación exacta.
+34. **PENDIENTE:** si la pista de la entrega a Bonnie es la misma infraestructura del destierro de Bonnie en F2 o una distinta, y su ubicación exacta.
 
 ---
 
-Ver también: [[02_Characters/Kal_Mercer]] · [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Riley_Bennett]] · [[04_Concepts/La_Guerra_de_los_Tres]] · [[06_Relationships/Hitos]] · [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] · [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]] · [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]]
+Ver también: [[02_Characters/Kal_Mercer]] · [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Bonnie_Garcia]] · [[04_Concepts/La_Guerra_de_los_Tres]] · [[06_Relationships/Hitos]] · [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] · [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]] · [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]]

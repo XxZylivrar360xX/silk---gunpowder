@@ -67,7 +67,7 @@ Eso lo vuelve una pieza perfecta para San Aurelio: el crimen aquí es logística
 - [[02_Characters/Kal_Mercer]] — lo absorbe al sistema y le da escala.
 - [[02_Characters/Harper_Walker]] — posible vínculo operativo: rutas, conducción y norte rural.
 - [[02_Characters/Mei_Lin_Zhao]] — ex corredora rival; posible fricción por autoridad dentro del circuito.
-- [[02_Characters/Riley_Bennett]] — ex corredora rival; comparten entrada desde la calle hacia algo más organizado.
+- [[02_Characters/Bonnie_Garcia]] — ex corredora rival; comparten entrada desde la calle hacia algo más organizado.
 - [[03_Factions/Almendra_Towing]] — su circuito se vuelve infraestructura.
 - [[03_Factions/Los_Marcadores_de_Milla]] — circuito de carreras del norte; pendiente confirmar si Tyler pertenecía a ellos o sólo organizaba eventos que ellos usaban.
 

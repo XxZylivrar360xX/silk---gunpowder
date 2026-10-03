@@ -1,6 +1,6 @@
 # Estructura oficial de la trilogía
 
-> **CANON DEL AUTOR — 2026-09-07.** Este documento fija la arquitectura macro de la saga y los títulos oficiales de sus tres libros. **Supersede** cualquier diseño anterior que tratara *Seda y Pólvora* como una sola novela de cinco partes cuando exista conflicto de alcance, cortes entre libros, ubicación de Riley, H22, cierre de la Guerra de los Tres o apertura del arco Meridian / Il Consorzio.
+> **CANON DEL AUTOR — 2026-09-07.** Este documento fija la arquitectura macro de la saga y los títulos oficiales de sus tres libros. **Supersede** cualquier diseño anterior que tratara *Seda y Pólvora* como una sola novela de cinco partes cuando exista conflicto de alcance, cortes entre libros, ubicación de Bonnie, H22, cierre de la Guerra de los Tres o apertura del arco Meridian / Il Consorzio.
 >
 > Los `00_Book_Map.md` de cada volumen deben reconstruirse a partir de esta arquitectura. Hasta que esa reconstrucción termine, este archivo manda en cualquier contradicción de escala o frontera entre libros.
 
@@ -73,7 +73,7 @@ Chiara pasa de una vida donde el apellido, la versión pública y la movilidad s
 
 Pero el cierre del libro debe permitir que empiece a respirar una herida específica: **las personas que ama desaparecen**. No hace falta que lo verbalice como tesis.
 
-La salida de Mei y, sobre todo, la salida de Riley deben ocurrir con suficiente anticipación respecto a H1 para que esa ausencia tenga tiempo de doler. Cuando Cole casi no vuelve, Chiara no teme sólo perder a su pareja: siente que puede perder también a la última persona que todavía permanece a su lado.
+La salida de Mei y, sobre todo, la salida de Bonnie deben ocurrir con suficiente anticipación respecto a H1 para que esa ausencia tenga tiempo de doler. Cuando Cole casi no vuelve, Chiara no teme sólo perder a su pareja: siente que puede perder también a la última persona que todavía permanece a su lado.
 
 ## Alcance del libro
 
@@ -91,19 +91,19 @@ Debe desarrollar de forma suficiente:
 - la presión temprana de Il Consorzio sobre Chiara sin convertirlo todavía en antagonista principal de volumen;
 - el pasado de Halbrook entrando progresivamente en presente;
 - la salida de Mei;
-- **F2 / salida de Riley de San Aurelio y establecimiento posterior en Italia por su conflicto propio**;
+- **F2 / salida de Bonnie de San Aurelio y establecimiento posterior en Italia por su conflicto propio**;
 - la escalada que conduce a H1;
 - el embarazo de Chiara ya confirmado antes de H1.
 
-## Regla dura — Riley pertenece al Libro I
+## Regla dura — Bonnie pertenece al Libro I
 
-La salida de Riley **ya no pertenece al inicio de la Guerra de los Tres**.
+La salida de Bonnie **ya no pertenece al inicio de la Guerra de los Tres**.
 
 Debe ocurrir en *Seda y Pólvora*, antes de H1 y con espacio suficiente para que su ausencia modifique a Chiara.
 
-Su salida nace de su propio conflicto. No se escribe ni se diseña para acomodar a Elenna. Que más adelante Riley pueda cuidar a Elenna en Italia es un payoff de una decisión previa, no la causa retroactiva del destierro.
+Su salida nace de su propio conflicto. No se escribe ni se diseña para acomodar a Elenna. Que más adelante Bonnie pueda cuidar a Elenna en Italia es un payoff de una decisión previa, no la causa retroactiva del destierro.
 
-El Libro II comienza, por tanto, con el entorno de Cole y Chiara habiendo perdido ya dos activos importantes: **Mei y Riley**.
+El Libro II comienza, por tanto, con el entorno de Cole y Chiara habiendo perdido ya dos activos importantes: **Mei y Bonnie**.
 
 ## Escalada final
 
@@ -156,7 +156,7 @@ Estado de salida:
 - Chiara está embarazada y Cole ya lo sabe.
 - El Patio ha atravesado su primer enfrentamiento abierto serio.
 - Dario ya no puede tratar el crecimiento de Cole como una molestia menor.
-- Riley y Mei están fuera del tablero inmediato.
+- Bonnie y Mei están fuera del tablero inmediato.
 - Halbrook está físicamente en San Aurelio.
 - La guerra todavía no ha explotado por completo, pero ya es inevitable.
 
@@ -231,7 +231,7 @@ La policía sigue siendo actor visible, no cuarto vértice.
 
 Chiara entra embarazada al Libro II.
 
-Riley ya lleva tiempo fuera de San Aurelio y debe haber construido en Italia una vida/cobertura suficiente por razones propias antes de que Elenna necesite protección.
+Bonnie ya lleva tiempo fuera de San Aurelio y debe haber construido en Italia una vida/cobertura suficiente por razones propias antes de que Elenna necesite protección.
 
 Elenna nace durante el primer tramo importante del libro, cuando la guerra ya escala.
 
@@ -244,7 +244,7 @@ Resultado obligatorio:
 
 Dario y Halbrook no saben que sobrevivió.
 
-Riley la recibe y cuida en Italia.
+Bonnie la recibe y cuida en Italia.
 
 El verdadero Voto de Ceniza es que Cole y Chiara aceptan perder:
 
@@ -265,7 +265,7 @@ La separación debe durar y respirar. Las fotografías siguen siendo escasas y s
 
 H22 ocurre después de que la separación haya tenido tiempo suficiente para convertirse en vida cotidiana, pero **antes de la caída final de Dario, antes de la montaña y antes de Santa Lucía**.
 
-Riley envía el video. Cole y Chiara ven a Elenna caminar hacia Riley.
+Bonnie envía el video. Cole y Chiara ven a Elenna caminar hacia Bonnie.
 
 El sentido del hito cambia de epílogo de guerra a decisión activa previa a la catástrofe:
 
@@ -312,7 +312,7 @@ En paralelo:
 - Chiara recibe dos disparos;
 - el ataque pertenece a Halbrook, **no a Il Consorzio**.
 
-En shock, en el suelo de la iglesia, el recuerdo que puede cerrar su conciencia es **el video de Elenna dando sus primeros pasos hacia Riley**.
+En shock, en el suelo de la iglesia, el recuerdo que puede cerrar su conciencia es **el video de Elenna dando sus primeros pasos hacia Bonnie**.
 
 No convertirlo en monólogo explicativo. El pago es visual y afectivo: pasos torpes, movimiento, risa, ausencia.
 
@@ -539,7 +539,7 @@ O, en su herida más profunda:
 
 | Libro | Movimiento emocional | Fractura | Resolución parcial |
 |---|---|---|---|
-| **Seda y Pólvora** | Elegir quedarse y construir pertenencia | Mei y Riley salen; Cole casi no vuelve en H1 | **Lo que ama puede desaparecer.** |
+| **Seda y Pólvora** | Elegir quedarse y construir pertenencia | Mei y Bonnie salen; Cole casi no vuelve en H1 | **Lo que ama puede desaparecer.** |
 | **Voto de Ceniza** | Proteger aquello que ama aunque implique ausencia | Debe hacer desaparecer públicamente a Elenna y vivir lejos de ella | **A veces amar exige aceptar una ausencia que ella misma provoca.** |
 | **Interregno** | Rechazar que ausencia, apellido o institución decidan su vida | Il Consorzio intenta definir su pertenencia | **La salida consiste en terminar la ausencia, no en heredar una corona.** |
 
@@ -561,7 +561,7 @@ Este documento cambia canon anterior en los siguientes puntos:
 
 1. **La obra ya no es una sola novela de cinco partes. Es una trilogía.**
 2. **Los títulos oficiales son:** *Seda y Pólvora*, *Voto de Ceniza*, *Interregno*.
-3. **Riley sale de San Aurelio en el Libro I**, antes de H1, no al inicio de la antigua Parte III.
+3. **Bonnie sale de San Aurelio en el Libro I**, antes de H1, no al inicio de la antigua Parte III.
 4. **H1 es el clímax del Libro I** y nace del primer enfrentamiento abierto entre El Patio y una coalición alineada/favorecida/manipulada por Dario.
 5. **El reveal del embarazo a Cole ocurre después de H1 y antes de la coda final del Libro I.**
 6. **Halbrook llega físicamente a San Aurelio en la última coda del Libro I.**
@@ -584,7 +584,7 @@ No inventar por conveniencia:
 
 - composición exacta de la coalición que provoca H1;
 - objetivo y mecánica operativa exacta de H1;
-- distancia temporal fina entre salida de Riley, H1 y reveal del embarazo;
+- distancia temporal fina entre salida de Bonnie, H1 y reveal del embarazo;
 - calendario exacto del embarazo y nacimiento;
 - detonante que obliga a fingir la muerte de Elenna;
 - mecanismo médico/documental/logístico de Elenna Serra;

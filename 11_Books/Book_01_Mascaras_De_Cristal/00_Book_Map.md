@@ -56,7 +56,7 @@ El primer cruce ocurre en la entrada del casino: ella fuma, observa, se presenta
 
 Al final del Libro I, Kal y Chiara están reunidos pero sin haber hablado todavía de lo
 ocurrido — Kal liberado de un modo que no se explica, Chiara sin saber cómo. **"Ciao, bella."**
-El imperio, la guerra, la pérdida de Riley y Mei-Lin, el embarazo y la llegada de Halbrook
+El imperio, la guerra, la pérdida de Bonnie y Mei-Lin, el embarazo y la llegada de Halbrook
 pertenecen al Libro II en adelante. La imagen final de la saga completa (Palermo, la niña en
 casa) sigue siendo la de *Cuentas de Sangre* — ver [[00_Biblia/00_Trilogy_Structure]].
 
@@ -138,7 +138,7 @@ Para San Aurelio no existen esos tres bandos: existe una ola de violencia crimin
 
 Chiara participa desde versiones, alianzas, informacion, dinero, eventos, reputacion y neutralidades. No “controla la prensa”: compite por qué cree la ciudad que está ocurriendo. La guerra afecta civiles, hospitales, negocios, barrios, policia y normalidad, y además genera incidentes que ninguno de los tres centros ordenó.
 
-La guerra recibe una vida familiar que ya estaba en marcha. No produce el embarazo ni tiene a Elenna como causa. Durante su primer tramo importante deben ocurrir, en este orden relativo: **F2 / destierro de Riley y establecimiento en Italia → nacimiento de Elenna → detonante todavía pendiente → muerte pública falsa → Elenna Serra con Riley → separación prolongada y fotografías escasas**. Riley llega a Italia por su conflicto propio; cuidar después a Elenna es payoff, no conveniencia retroactiva.
+La guerra recibe una vida familiar que ya estaba en marcha. No produce el embarazo ni tiene a Elenna como causa. Durante su primer tramo importante deben ocurrir, en este orden relativo: **F2 / destierro de Bonnie y establecimiento en Italia → nacimiento de Elenna → detonante todavía pendiente → muerte pública falsa → Elenna Serra con Bonnie → separación prolongada y fotografías escasas**. Bonnie llega a Italia por su conflicto propio; cuidar después a Elenna es payoff, no conveniencia retroactiva.
 
 El nacimiento se coloca relativamente temprano dentro de Parte III para que la ausencia pueda volverse vida cotidiana antes del cierre bélico. No se fijan todavía semana, capítulo, hospital, mecanismo médico, documentos ni traslado.
 
@@ -152,7 +152,7 @@ Final de parte: el lector puede reconstruir `Dario vs Halbrook vs Kal/Chiara`; u
 
 Funcion: mostrar la consolidacion publica y economica de Kal y Chiara despues de la guerra. Ya no son solamente operadores: se convierten en figuras reconocibles de San Aurelio. Su motor privado es distinto: construir una ciudad y una organización capaces de funcionar sin ellos.
 
-La parte abre o comienza con [[06_Relationships/Hitos#H22 — Los primeros pasos|H22 — Los primeros pasos]], hito **bloqueado para prosa** hasta que existan sus causas. El video muestra a Elenna caminando hacia Riley y rompe la racionalización de que basta mantenerla segura mientras ellos terminan. Pueden ganar San Aurelio y perder su infancia.
+La parte abre o comienza con [[06_Relationships/Hitos#H22 — Los primeros pasos|H22 — Los primeros pasos]], hito **bloqueado para prosa** hasta que existan sus causas. El video muestra a Elenna caminando hacia Bonnie y rompe la racionalización de que basta mantenerla segura mientras ellos terminan. Pueden ganar San Aurelio y perder su infancia.
 
 La prensa termina llamandolos **La Mancuerna de Hierro y Seda**. Ellos no inventan el apodo; Kal puede incomodarse y Chiara puede entender su utilidad.
 
@@ -189,7 +189,7 @@ Material base: las consecuencias federales de la muerte pública de Halbrook, Me
 | IV — Hierro y Seda | ¿Cómo construimos algo que no nos necesite? | H22 rompe la racionalización y vuelve la consolidación arquitectura de salida |
 | V — La Factura | ¿Podemos abandonar juntos lo construido antes de que nos devore? | Ejecutan la salida hacia Elenna, Palermo y familia |
 
-Elenna no es un *stake* ornamental ni la única razón de Palermo. Palermo también pertenece a Chiara, Corrado, Il Consorzio y Riley; Elenna lo transforma de origen/exilio/política en el lugar donde está ocurriendo la vida que sus padres quieren recuperar.
+Elenna no es un *stake* ornamental ni la única razón de Palermo. Palermo también pertenece a Chiara, Corrado, Il Consorzio y Bonnie; Elenna lo transforma de origen/exilio/política en el lugar donde está ocurriendo la vida que sus padres quieren recuperar.
 
 ## Limites del libro
 
@@ -259,7 +259,7 @@ Elenna no es un *stake* ornamental ni la única razón de Palermo. Palermo tambi
 - El rediseño de Dario Varek y sus hijas ya fue integrado como canon del autor el 2026-08-29. El apellido anterior queda fuera del canon activo.
 - H1 sigue ocurriendo en Villa Candelaria; Palermo es el destino final posterior, no una sustitucion de la escena del regreso a casa.
 - **H1 ya no es un clímax posterior a la Guerra de los Tres.** El nuevo canon lo coloca en Parte II, después de que Villa Candelaria exista: Chiara sabe que está embarazada, Kal no. Las líneas canon no cambian y el reveal ocurre después, fuera de la crisis.
-- **H22 — Los primeros pasos** es el primer hito con ID posterior a H21 y abre Parte IV. Está expresamente bloqueado para prosa hasta construir embarazo/H1/reveal, Riley, guerra, nacimiento, falsa muerte, separación y cierre bélico.
+- **H22 — Los primeros pasos** es el primer hito con ID posterior a H21 y abre Parte IV. Está expresamente bloqueado para prosa hasta construir embarazo/H1/reveal, Bonnie, guerra, nacimiento, falsa muerte, separación y cierre bélico.
 - H13 — El pañuelo sigue siendo un evento independiente del atentado posterior de iglesia. No se modifica aqui.
 - Los capitulos 1–18 conservan su ubicacion fisica actual. No se crean `Part_04` ni `Part_05`.
 - El Gatillo quedó fuera del canon activo de Parte III; Halbrook es el tercer vértice secreto. Permanecen abiertos el mecanismo detallado de la caída legal de Dario y la transición exacta entre partes.

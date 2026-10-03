@@ -39,9 +39,9 @@ Su primera etapa puede incluir solicitud, investigación de antecedentes, entrev
 
 ## Las hermanas
 
-### Riley
+### Bonnie
 
-Riley entiende que el problema no es aprender a obedecer una orden, sino permanecer cuando una institución se vuelve incómoda. La cuestiona, la ayuda de manera práctica y puede exigirle que termine lo que empieza. No es madre sustituta ni instructora policial.
+Bonnie entiende que el problema no es aprender a obedecer una orden, sino permanecer cuando una institución se vuelve incómoda. La cuestiona, la ayuda de manera práctica y puede exigirle que termine lo que empieza. No es madre sustituta ni instructora policial.
 
 ### Marisol
 

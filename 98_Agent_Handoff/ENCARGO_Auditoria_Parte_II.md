@@ -27,7 +27,7 @@
 
 ## Datos de la Parte II (para no releer el dictamen)
 
-**Forma:** tres movimientos. I — La crisis (26–30). II — La casa (31). III — La consolidación (32–34). El dictamen no recomienda eliminar, fusionar ni reordenar capítulos, ni insertar personajes del Libro II (**ni Riley, ni Mei-Lin, ni Ren Wei**). Halbrook **no** necesita más siembra en el Libro I. Consigna: **"hacer más visible la progresión y menos visibles las explicaciones".**
+**Forma:** tres movimientos. I — La crisis (26–30). II — La casa (31). III — La consolidación (32–34). El dictamen no recomienda eliminar, fusionar ni reordenar capítulos, ni insertar personajes del Libro II (**ni Bonnie, ni Mei-Lin, ni Ren Wei**). Halbrook **no** necesita más siembra en el Libro I. Consigna: **"hacer más visible la progresión y menos visibles las explicaciones".**
 
 **Matriz** (palabras de prosa, `wc -w` desde el encabezado, 2026-09-27):
 
@@ -65,7 +65,7 @@ Todos están en `11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Persona
 | P4 | Nadir hace algo duro por el grupo y le cuesta (laguna para F2) | DISEÑO, "Parte II o III" | Sólo evaluar si el final del 30 (Nadir recupera agencia) o la salida de la mercancía en el 32 ya lo cubren. Proponer, no escribir, salvo aprobación |
 | — | Ya aplicado, **proteger**: fe en la parrilla del 31 (Chiara se persigna, Nadir dice *bismillah*, Kal bromea con los peces y deja el tenedor quieto); Crowe en el 32 (el Tasador pregunta quién arregló lo de Portillo y cuánto cobró: "nada") | BORRADOR | No podar. Son siembras de la Parte III y del Libro II |
 | — | Ritual del *Ciao*: antes del 34, Kal también es "tesoro"; después de formalizarse, "amore", "amore mio", "cariño" | CANON | Revisar por búsqueda que 26–34 lo respeten. Si algo choca, se reporta |
-| — | No sembrar: maternidad/Elenna, Riley, Mei-Lin, Ren Wei, más Halbrook | — | — |
+| — | No sembrar: maternidad/Elenna, Bonnie, Mei-Lin, Ren Wei, más Halbrook | — | — |
 
 **Saldo de palabras de partida:** la Parte I deja **≈ +971** para Irene (ver `Audit_Caps_08_18-24_Lote_B.md`, § Saldo final). Irene cuesta 800–1,000, así que cabe sin la poda de la Parte II. Lo que libere la Parte II es margen adicional, no meta.
 

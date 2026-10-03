@@ -216,6 +216,8 @@ En el asalto a Camp Alder ([[06_Relationships/Hitos#H19 — El asalto a Camp Ald
 
 **RESUELTO (2026-09-21, CANON DEL AUTOR):** no hay trámite. Halbrook **no pisa San Aurelio**; provoca **el apagón del sur** desde fuera (Cap. 44) y saca a Kal de Camp Alder por esa ventana. Del expediente sólo quería **leer un nombre**; lo lee y **devuelve el expediente** ("recupere esto; aquí no pasó nada"): sin cuerpo del delito no hay caso. Kal sólo sabe: luces fuera, bolsa de tela, loft. **La revelación (apagón = Halbrook, el nombre, qué compró) se reserva para *Voto de Ceniza*.** Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
 
+> **SUPERSEDIDO EN PARTE (2026-10-01, CANON DEL AUTOR):** antes del apagón, Halbrook usa el **convoy del traslado como señuelo** para ver quién está dispuesto a cometer un crimen por Kal; entra a su radar **Chiara Bellandi** (pago: la gala de *Sombras de Poder*, donde baila con ella sabiendo quién es; Kenji los presenta). El apagón sigue siendo la ventana de salida. **Llega físicamente a San Aurelio en el epílogo del Libro I** (*La tierra bajo sus botas*, POV del narrador: baja del helicóptero, un hombre delgado de traje le entrega un expediente con fotos de La Almendra, el Monarch, Il Gelsomino, Chiara, Kal y los chicos del Patio). Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
+
 > **La orden con fecha — EJECUTADO EN PROSA:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/39_Un_Par_De_Dias_Mas|Cap. 39]] (mensaje de texto en lenguaje de logística) y la llamada de [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/40_Mecanico|Cap. 40]].
 
 ### Función futura: la llave política — CANON DEL AUTOR (2026-09-28)
@@ -270,7 +272,9 @@ Abre con Halbrook ya muerto. Su asesinato público arrastra la escalada federal 
 
 ## Escenas semilla
 
-### El evento benéfico — SEMILLA CANÓNICA DEL AUTOR (2026-09-28), *Sombras de Poder*, colocación y prosa pendientes
+### El evento benéfico — SEMILLA CANÓNICA DEL AUTOR (2026-09-28), *Sombras de Poder*, prosa pendiente
+
+> **COLOCACIÓN (CANON DEL AUTOR, 2026-10-02):** tras su llegada en el Cap. 50b del Libro I (*La tierra bajo sus botas*), **la siguiente aparición de Halbrook en prosa es esta gala de beneficencia de Chiara, con el baile.** Entre el 50b y la gala, Halbrook no aparece en escena.
 
 Chiara organiza o preside un evento benéfico importante en San Aurelio; Halbrook aparece como **nuevo benefactor** o invitado legitimado del circuito cívico.
 
@@ -353,7 +357,7 @@ En ese instante ocurre el disparo.
 
 > **RESUELTO (2026-09-28):** su lógica. Cree estar protegiendo la existencia misma de las estructuras que hacen posibles moral, derecho y normalidad.
 
-> **PENDIENTE:** apariencia completa (encargo truncado); nombre/secreto/tercero del expediente; posición exacta del evento benéfico en *Sombras de Poder*.
+> **PENDIENTE:** apariencia completa (encargo truncado); nombre/secreto/tercero del expediente; posición exacta del evento benéfico dentro de *Sombras de Poder* (ya fijado como su siguiente aparición en prosa tras el Cap. 50b del Libro I).
 
 ---
 

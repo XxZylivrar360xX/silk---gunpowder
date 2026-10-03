@@ -2,9 +2,9 @@
 
 ## Sobrecompensación después de F2 — CANON DEL AUTOR 2026-09-20
 
-En Parte V — Exilio, el mismo día decide la ejecución de Mei-Lin mediante Nadir y obliga a Riley a irse para evitar otra muerte. Ve el costo sobre Chiara, Nadir y El Patio y no sabe revertirlo. **Cuando no puede reparar una herida, intenta construir algo bueno junto a ella. Sabe construir mejor de lo que sabe consolar.**
+En Parte V — Exilio, el mismo día decide la ejecución de Mei-Lin mediante Nadir y obliga a Bonnie a irse para evitar otra muerte. Ve el costo sobre Chiara, Nadir y El Patio y no sabe revertirlo. **Cuando no puede reparar una herida, intenta construir algo bueno junto a ella. Sabe construir mejor de lo que sabe consolar.**
 
-Villa Candelaria, tiempo compartido, detalles, viajes y experiencias construyen memorias felices junto a pérdidas que permanecen. No es consumo ostentoso ni curación de Chiara con regalos; Kal no cree haber compensado una muerte. Noruega/Stavanger, después de Riley en Parte V, también responde a su propia necesidad de salir de San Aurelio. **La sobrecompensación crea el espacio; la propuesta nace de claridad, no de culpa:** seguir eligiendo a Chiara, sin cambiarla a Mercer. La ejecución concreta de la incubadora y su biografía no se canonizan por esta ubicación. Ver [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]].
+Villa Candelaria, tiempo compartido, detalles, viajes y experiencias construyen memorias felices junto a pérdidas que permanecen. No es consumo ostentoso ni curación de Chiara con regalos; Kal no cree haber compensado una muerte. Noruega/Stavanger, después de Bonnie en Parte V, también responde a su propia necesidad de salir de San Aurelio. **La sobrecompensación crea el espacio; la propuesta nace de claridad, no de culpa:** seguir eligiendo a Chiara, sin cambiarla a Mercer. La ejecución concreta de la incubadora y su biografía no se canonizan por esta ubicación. Ver [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]].
 
 *Seda y Pólvora — Ficha de Personaje*
 
@@ -136,7 +136,7 @@ Kal fue comprado. No adoptado: comprado, de bebé, a través de una red que mov�
 
 Nunca ha ido a buscar. Dice que es porque no le interesa. La verdad es más simple y peor: **tiene miedo de que allá tampoco haya nadie.**
 
-> **PENDIENTE:** decidir la ciudad exacta de nacimiento en Noruega. No es material a resolver en el libro; es un hueco que debe seguir siendo un hueco casi hasta el final.
+> **RESUELTO (CANON DEL AUTOR, 2026-10-02):** **Stavanger.** Su madre biológica, **Ingrid**, murió once años antes del viaje; su hermano, **Henrik Solberg**, guarda sus cartas y la única foto de Ingrid con Kal (de dos semanas). Kal y Chiara lo descubren juntos en *Sombras de Poder*, Parte II ([[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]]); en ese viaje le propone matrimonio y se concibe Elenna. Hasta ese capítulo, el hueco se mantiene en prosa.
 
 > **CANON DEL AUTOR (2026-08-29):** hay una segunda pieza, además de la pulsera — una caja de madera con algo grabado en runas nórdicas, escondida desde niño en un conducto de aire de [[05_Locations/La_Casa]]. Kal la recupera en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]] sin abrirla y la guarda en el maletero. **No vuelve a aparecer ni a mencionarse hasta la Parte 3** — ver [[12_Craft_Policies/revelations/SAGA_LEVEL]].
 
@@ -307,7 +307,7 @@ Elenna cambia después el propósito de su ambición. Dario construye un sistema
 
 **Regla dura:** Elenna no es heredera del imperio Mercer. Su existencia obliga a Kal a imaginar una vida en la que ella no tenga que heredar San Aurelio.
 
-**Filosofía de protección — DISEÑO (2026-09-11):** Kal entiende proteger como **distancia física** — cuando alguien corre peligro real, la respuesta que conoce es apartarlo. El antecedente directo es [[02_Characters/Riley_Bennett|Riley]], a quien destierra en el Libro I para salvarla. Con Elenna vive esa misma lógica por primera vez desde el lado de padre, no de quien decide por otro: aceptar la distancia como la única protección real es su versión del mismo acto que antes le exigió a Chiara. Ver también [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]], "Filosofías de protección".
+**Filosofía de protección — DISEÑO (2026-09-11):** Kal entiende proteger como **distancia física** — cuando alguien corre peligro real, la respuesta que conoce es apartarlo. El antecedente directo es [[02_Characters/Bonnie_Garcia|Bonnie]], a quien destierra en el Libro I para salvarla. Con Elenna vive esa misma lógica por primera vez desde el lado de padre, no de quien decide por otro: aceptar la distancia como la única protección real es su versión del mismo acto que antes le exigió a Chiara. Ver también [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]], "Filosofías de protección".
 
 ## Cómo llama a Elenna — CANON DEL AUTOR (2026-09-15)
 

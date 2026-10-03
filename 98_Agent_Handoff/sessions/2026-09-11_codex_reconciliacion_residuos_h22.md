@@ -45,7 +45,7 @@ Búsqueda de las siete expresiones solicitadas en Markdown del vault. `log.md` c
 
 ## Protecciones y cierre
 
-Sin prosa, escenas, canon ni diseño nuevos. Sin modificar ubicación de F2, posición de H1, flashforward del Capítulo 1, falsa muerte, Riley como payoff ni motivo del dedo. Detonante del exilio y logística médica/legal/documental siguen PENDIENTES. H22 permanece antes de Dario/montaña/Santa Lucía, con bloqueo de prosa. Halbrook sentenciado en Libro II y ejecutado públicamente al abrir Libro III.
+Sin prosa, escenas, canon ni diseño nuevos. Sin modificar ubicación de F2, posición de H1, flashforward del Capítulo 1, falsa muerte, Bonnie como payoff ni motivo del dedo. Detonante del exilio y logística médica/legal/documental siguen PENDIENTES. H22 permanece antes de Dario/montaña/Santa Lucía, con bloqueo de prosa. Halbrook sentenciado en Libro II y ejecutado públicamente al abrir Libro III.
 
 H22 queda descrito como guerra todavía abierta, cambio de pregunta estratégica, nacimiento consciente de la arquitectura de salida que siembra Interregno y ausencia de retiro inmediato. La reconstrucción integral de los mapas históricos sigue como tarea separada.
 

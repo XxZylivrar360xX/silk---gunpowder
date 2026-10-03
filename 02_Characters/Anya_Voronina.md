@@ -149,11 +149,11 @@ Kal responde:
 
 > **Ya llegó.**
 
-Y la besa.
+Y la besa. *(Ajustado 2026-10-03, CANON DEL AUTOR: tras "Ya llegó." Kal va directo por el anillo; el beso pasa a después de ponérselo. Ver [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]].)*
 
 Esta escena no borra el daño de Año Nuevo. Lo vuelve legible: Kal no eligió bien esa noche, pero entiende por fin qué había en juego.
 
-> **CANON DEL AUTOR (2026-09-26):** es la escena de **Stavanger**, la de la propuesta. Ver [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] (incubadora, prosa sin aprobar).
+> **CANON DEL AUTOR (2026-09-26):** es la escena de **Stavanger**, la de la propuesta. Ver [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]] (canonizado 2026-10-02, prosa BORRADOR; Chiara ya la conoce del Cap. 35 y lo cobra en la cabaña: "La rubia del bar. Ojos azules.").
 
 ---
 

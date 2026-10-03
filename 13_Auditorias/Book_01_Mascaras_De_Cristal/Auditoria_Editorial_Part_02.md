@@ -746,9 +746,9 @@ Conservar.
 
 Y algo importante con la nueva división:
 
-> **no añadiría Riley, Mei-Lin ni Ren Wei a Parte II.**
+> **no añadiría Bonnie, Mei-Lin ni Ren Wei a Parte II.**
 
-Riley/Mei-Lin ya tienen su entrada natural en Parte III.
+Bonnie/Mei-Lin ya tienen su entrada natural en Parte III.
 
 Ren Wei puede debutar en *Sombras de Poder*.
 

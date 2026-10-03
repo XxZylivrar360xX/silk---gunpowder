@@ -13,7 +13,7 @@
 > - `02_Characters/Elenna_Mercer.md`
 > - `02_Characters/Cole_Mercer.md`
 > - `02_Characters/Chiara_Bellandi.md`
-> - `02_Characters/Riley_Bennett.md`
+> - `02_Characters/Bonnie_Garcia.md`
 > - hitos y fracturas relevantes
 > - roadmap/book map actual de `Voto de Ceniza`
 >
@@ -66,7 +66,7 @@ No confirmar todavía:
 
 - que Elenna sobrevivió;
 - que fue enviada a Italia;
-- que Riley está implicada;
+- que Bonnie está implicada;
 - cuál fue el mecanismo de la falsa muerte;
 - quién diseñó cada parte del plan;
 - qué amenaza concreta convirtió el exilio en necesario.
@@ -439,7 +439,7 @@ Su historial ya contiene esta lógica.
 
 Cuando alguien corre peligro, puede llegar a la conclusión de que protegerlo significa **apartarlo**.
 
-Riley es el antecedente más importante.
+Bonnie es el antecedente más importante.
 
 ## Chiara
 
@@ -462,9 +462,9 @@ Resultado:
 
 ---
 
-# 13. Riley: payoff del Libro I
+# 13. Bonnie: payoff del Libro I
 
-**REGLA DURA: Riley NO regresa públicamente durante estos nueve meses.**
+**REGLA DURA: Bonnie NO regresa públicamente durante estos nueve meses.**
 
 No:
 
@@ -498,7 +498,7 @@ Después del nacimiento, Cole saca personalmente a Elenna del hospital.
 
 La lleva a una pista clandestina.
 
-Puede ser la misma infraestructura o un espacio fuertemente asociado al mecanismo utilizado años antes para expulsar a Riley de San Aurelio.
+Puede ser la misma infraestructura o un espacio fuertemente asociado al mecanismo utilizado años antes para expulsar a Bonnie de San Aurelio.
 
 Cole llega esperando entregar a su hija al contacto organizado por Chiara.
 
@@ -510,7 +510,7 @@ Capucha.
 
 La figura se vuelve.
 
-**Riley.**
+**Bonnie.**
 
 La revelación debe ocurrir simultáneamente para:
 
@@ -521,15 +521,15 @@ Chiara ya sabía.
 
 ---
 
-# 15. Por qué Riley funciona
+# 15. Por qué Bonnie funciona
 
-Riley no aparece porque sea conveniente.
+Bonnie no aparece porque sea conveniente.
 
 Su presencia es un **payoff causal directo de Seda y Pólvora**.
 
 En Libro I:
 
-> Cole aparta a Riley para salvarla.
+> Cole aparta a Bonnie para salvarla.
 
 Chiara acepta que fue una decisión monstruosa y, al mismo tiempo, lo menos monstruoso posible.
 
@@ -556,11 +556,11 @@ El mundo recuerda lo que los personajes hicieron.
 
 # 16. La entrega de Elenna
 
-Riley extiende los brazos.
+Bonnie extiende los brazos.
 
 Cole debe entregar físicamente a su hija.
 
-La dificultad no debe surgir porque desconfíe de Riley.
+La dificultad no debe surgir porque desconfíe de Bonnie.
 
 Debe surgir precisamente porque:
 
@@ -576,7 +576,7 @@ Nacimiento:
 
 Pista:
 
-> Cole debe retirar ese mismo dedo de la mano de Elenna para poder entregársela a Riley.
+> Cole debe retirar ese mismo dedo de la mano de Elenna para poder entregársela a Bonnie.
 
 No sobreexplicar el paralelismo.
 
@@ -584,7 +584,7 @@ No sobreexplicar el paralelismo.
 
 # 17. El avión
 
-Riley parte con Elenna.
+Bonnie parte con Elenna.
 
 No resolver la despedida mediante un gran discurso.
 
@@ -645,7 +645,7 @@ Ahora conocemos:
 - la planificación;
 - la cobertura;
 - la identidad Serra;
-- Riley;
+- Bonnie;
 - Italia;
 - el significado verdadero de cada gesto visto en Capítulo 1.
 
@@ -679,7 +679,7 @@ Pero Elenna crece.
 
 # 20. Las fotografías
 
-Riley envía fotografías muy escasas.
+Bonnie envía fotografías muy escasas.
 
 No convertirlas en rutina por capítulo.
 
@@ -777,7 +777,7 @@ Y pasa a ser:
 
 El video de los primeros pasos debe permanecer como uno de los clímax emocionales del Libro II.
 
-Riley envía un dispositivo / memoria.
+Bonnie envía un dispositivo / memoria.
 
 Intercambio fijado:
 
@@ -790,11 +790,11 @@ Lo ven juntos.
 
 Elenna está apoyada junto a un sofá.
 
-Riley permanece cerca.
+Bonnie permanece cerca.
 
-Elenna da sus primeros pasos hacia Riley.
+Elenna da sus primeros pasos hacia Bonnie.
 
-Riley ríe.
+Bonnie ríe.
 
 Elenna ríe.
 
@@ -831,7 +831,7 @@ Elenna:
 
 - tiene rutina;
 - tiene seguridad;
-- reconoce a Riley;
+- reconoce a Bonnie;
 - aprende;
 - ríe;
 - avanza;
@@ -959,7 +959,7 @@ Su existencia transforma la pregunta estratégica de Cole y Chiara.
 
 Ella está viva.
 
-Cuando está con Riley:
+Cuando está con Bonnie:
 
 - juega;
 - duerme;
@@ -1012,11 +1012,11 @@ El lector debe poder releer el libro y comprobar:
 
 ---
 
-# 31. Regla de Riley
+# 31. Regla de Bonnie
 
-Riley debe ser **payoff, no causa**.
+Bonnie debe ser **payoff, no causa**.
 
-No diseñar la falsa muerte porque Riley existe.
+No diseñar la falsa muerte porque Bonnie existe.
 
 Diseñar primero la necesidad real de sacar a Elenna.
 
@@ -1031,7 +1031,7 @@ Chiara reconoce que ya existe una persona:
 - cuya vida ambos protegieron;
 - capaz de comprender lo que significa ser apartada para sobrevivir.
 
-Entonces Riley se vuelve la solución natural.
+Entonces Bonnie se vuelve la solución natural.
 
 ---
 
@@ -1110,12 +1110,12 @@ Claude Code debe:
 4. señalar contradicciones reales antes de modificar;
 5. integrar únicamente las piezas compatibles o aprobadas;
 6. mantener marcadas como **DISEÑO / PENDIENTE** las decisiones todavía no fijadas;
-7. actualizar referencias cruzadas necesarias hacia Elenna, Riley, H8 y H22;
+7. actualizar referencias cruzadas necesarias hacia Elenna, Bonnie, H8 y H22;
 8. **no redactar capítulos ni inventar mecanismos médicos, legales u operativos faltantes**;
-9. preservar que Riley permanezca fuera del tablero hasta la revelación de la pista;
+9. preservar que Bonnie permanezca fuera del tablero hasta la revelación de la pista;
 10. preservar que el Libro I termina con Chiara embarazada, Cole enterado y Halbrook físicamente en San Aurelio;
 11. preservar que el incendio del loft ocurrió antes del embarazo y funciona como antecedente, no causa inmediata;
-12. preservar que Riley fue desterrada antes de que Cole supiera que Elenna existiría.
+12. preservar que Bonnie fue desterrada antes de que Cole supiera que Elenna existiría.
 
 ---
 

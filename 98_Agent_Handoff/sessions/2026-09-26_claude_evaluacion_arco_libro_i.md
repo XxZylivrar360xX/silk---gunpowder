@@ -98,4 +98,4 @@ Ajustes: [[04_Concepts/Fe_y_Velas]] (regla nueva), [[02_Characters/Silas_Crowe]]
 
 **Adenda en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_01]]:** lo aplicado hoy en la Parte I, las siembras pendientes por capítulo con estado, lo que no se le suma al 25 y siete decisiones del autor que bloquean. La moto queda después del 17 (rima con "Avísenme. Aunque sepan que voy a decir que no").
 
-**Siguiente:** revisión del autor de los tres beats. Quedan en 5-quater B: Nadir haciendo algo duro (F2), gesto de amistad Riley/Mei-Lin, ficha de Anya.
+**Siguiente:** revisión del autor de los tres beats. Quedan en 5-quater B: Nadir haciendo algo duro (F2), gesto de amistad Bonnie/Mei-Lin, ficha de Anya.

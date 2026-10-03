@@ -2,9 +2,9 @@
 
 ## Reconciliación macro — CANON DEL AUTOR 2026-09-20
 
-El incendio del loft cierra **Parte IV**; el desplazamiento precede a F4, F2 y Villa, que se reconstruye **después** del día Mei-Lin/Riley en Parte V. No es una mudanza inmediata hacia riqueza.
+El incendio del loft cierra **Parte IV**; el desplazamiento precede a F4, F2 y Villa, que se reconstruye **después** del día Mei-Lin/Bonnie en Parte V. No es una mudanza inmediata hacia riqueza.
 
-La caída de Silas corresponde al conflicto final de **Parte VI**, con mecanismo concreto pendiente. **SUPERSEDIDA POR DECISIÓN AUTORAL 2026-09-20** su función cronológica de caída obligatoria antes de Stavanger (viaje/anillo ahora en Parte V, después de Riley). Se conserva el material autoral sobre Dale/red de colocación y la derrota económica; no se ejecuta ni se adelanta automáticamente. **PENDIENTE DE RECONCILIACIÓN:** cómo llega a encajar la información de origen que la incubadora hacía depender de esa derrota; no inventar sustituto. También sigue pendiente ajustar la relación entre el cargamento antiguo y la autonomía de Kal al ocurrir H8.
+La caída de Silas corresponde al conflicto final de **Parte VI**, con mecanismo concreto pendiente. **SUPERSEDIDA POR DECISIÓN AUTORAL 2026-09-20** su función cronológica de caída obligatoria antes de Stavanger (viaje/anillo ahora en Parte V, después de Bonnie). Se conserva el material autoral sobre Dale/red de colocación y la derrota económica; no se ejecuta ni se adelanta automáticamente. **PENDIENTE DE RECONCILIACIÓN:** cómo llega a encajar la información de origen que la incubadora hacía depender de esa derrota; no inventar sustituto. También sigue pendiente ajustar la relación entre el cargamento antiguo y la autonomía de Kal al ocurrir H8.
 
 *Seda y Pólvora — Ficha de Personaje*
 
@@ -63,7 +63,7 @@ Odiar esa frase no es ideología. **Es autobiografía.** Y por eso el enfrentami
 
 ### El primer trato que nadie cuenta — CANON DEL AUTOR (2026-09-19)
 
-> **Resuelve un PENDIENTE de esta ficha y motiva [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] (BORRADOR PROPUESTO, no integrado al manuscrito).**
+> **Resuelve un PENDIENTE de esta ficha y motiva [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]] (BORRADOR PROPUESTO, no integrado al manuscrito).**
 
 Antes de ser "el Tasador" para todo el barrio, cuando todavía era sólo el hombre que le prestaba fácil a Dale Mercer, Silas hizo su primer trato de verdad. Dale le contó, borracho y ya quebrado, que Ruth no podía tener hijos y que eso la estaba consumiendo. Silas conocía a alguien — un contacto de una red de colocación que movía niños desde el norte de Europa hacia la costa oeste. Consiguió al bebé. Cobró por el favor, como cobra todo, pero se quedó con algo mejor que dinero: **una deuda que Dale nunca pudo terminar de pagar**, porque no era una deuda de dinero. Era una deuda de silencio.
 

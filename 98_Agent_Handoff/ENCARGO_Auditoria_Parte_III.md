@@ -17,7 +17,7 @@
 1. **Lectura mínima al arrancar:** este encargo completo; la tabla **"Estado de etapas"** del mapa, si ya existe, y sólo las secciones del mapa que la etapa indique; la skill `editorial-surgery` y sus tres políticas (EDITORIAL_POLICY, DO_NOT_TOUCH y MICROEDICION). **No leer** START_HERE, el brief completo, `log.md`, el dictamen de la Parte III ni la evaluación de arco enteros: lo necesario está resumido aquí abajo.
 2. **Verificar la etapa anterior:** si la tabla de estado no marca la etapa previa como hecha, detenerse y avisar al autor.
 3. **Capítulos:** leer completos sólo los de la etapa en curso. Los cruces se hacen **con búsquedas** (`rg`/Grep), sin abrir archivos enteros: `06_Relationships/`, `01_Timeline/`, `02_Characters/`, `03_Factions/`, `04_Concepts/`, `05_Locations/`, los Book Maps, las Partes I–II y `01_Timeline/03_Libro_02_Sombras_De_Poder.md`. Antes de proponer cortar un objeto, frase, gesto o plan, **buscar sus pagos en los capítulos posteriores de la Parte III y en el Libro II** (lección del imán del 14). La Parte III cierra el libro: casi todo lo que siembra se cobra en *Sombras de Poder*.
-4. **Política:** prioridad según la matriz de abajo. Aplicar §L (el narrador no adelanta el futuro; aquí pesa doble con Tommaso, Mei-Lin, Héctor y Riley, cuyos destinos están en libros posteriores) y revisar saltos de POV. Palabras liberadas **sin cuotas** (§J): el rango del dictamen para el 38 (5,500–6,500 finales) es referencia, no meta. **Tampoco hay mínimo para lo que se escribe:** si una escena nueva cumple su función en menos palabras que su rango, se deja así y se reporta (lección de la escena de Irene, Parte II E9).
+4. **Política:** prioridad según la matriz de abajo. Aplicar §L (el narrador no adelanta el futuro; aquí pesa doble con Tommaso, Mei-Lin, Héctor y Bonnie, cuyos destinos están en libros posteriores) y revisar saltos de POV. Palabras liberadas **sin cuotas** (§J): el rango del dictamen para el 38 (5,500–6,500 finales) es referencia, no meta. **Tampoco hay mínimo para lo que se escribe:** si una escena nueva cumple su función en menos palabras que su rango, se deja así y se reporta (lección de la escena de Irene, Parte II E9).
 5. **Estado de los capítulos:** los diez están en **BORRADOR**. La cirugía no los sube de estado: siguen BORRADOR hasta que el autor los lea. El cierre de estado que pide el dictamen ("marcar 35–44 como cerrados sólo después de la pasada editorial") **no es parte de este encargo**: es un CLOSE posterior y sólo el autor declara TERMINADO.
 6. **Lo estructural** (reubicar la coda del 35, poda profunda del 38, peripecia del 36, escena de Anya) está autorizado por el dictamen **sólo como propuesta**: se mapea en AUDIT, el autor decide en E4 y se ejecuta en SURGERY. Si aparece otro problema estructural no previsto, se reporta y no se opera. **No dividir el 38 ni renumerar** (el dictamen lo descarta).
 7. **Archivos compartidos** (dictamen de la Parte III, evaluación de arco, Hitos, fichas, `CURRENT_BRIEF.md`, `PENDING.md`, `log.md`, `INDEX.md`, Book Map, `00_Plan_Cierre_Parte_III.md`): se tocan **sólo en E8** (housekeeping documental, con Edit puntual y sin borrar canon) **y en E9** (registro). La metadata de cada capítulo se sanea en su SURGERY. Se releen justo antes de editar. Si un script reescribe un archivo, debe conservar sus finales de línea (hoy el 36 es CRLF y los demás LF; verificarlo con `file` al empezar y al terminar).
@@ -40,10 +40,10 @@
 | 35 | `35_Sin_Fecha_De_Regreso.md` | Excelente apertura temática; coda fuera de cronología | **ALTA** | 2,256 | La escena de las invitaciones del yate ocurre después del 36 (Kal recibe la carta en el 37): residuo de montaje, no analepsis |
 | 36 | `36_Tambien_Las_Mananas.md` | Centro emocional excelente; demasiados incidentes | **MEDIA–ALTA** | 2,462 | Densidad de peripecia antes de la llave; sangre y lodo de la apertura; susto cardíaco de Héctor; POV (metadata dice Chiara único y las tres primeras escenas son de Kal); Stella; origen de la Romanée-Conti |
 | 37 | `37_Cuatro_Letras.md` | Compacto y funcional | MÍNIMA | 2,072 | No añadir, no explicar ROMA; título aún "provisional" |
-| 38 | `38_Al_Reves.md` | Importantísimo pero sobredimensionado; conflicto de canon | **ALTA / PRINCIPAL** | 8,628 | Poda profunda; **la vela** de Santa Lucía; firma de Riley; título aún "provisional" |
+| 38 | `38_Al_Reves.md` | Importantísimo pero sobredimensionado; conflicto de canon | **ALTA / PRINCIPAL** | 8,628 | Poda profunda; **la vela** de Santa Lucía; firma de Bonnie; título aún "provisional" |
 | 39 | `39_Un_Par_De_Dias_Mas.md` | Ya depurado | MÍNIMA | 1,988 | No reabrir salvo continuidad |
 | 40 | `40_Mecanico.md` | Largo pero justificado | MEDIA–LIGERA | 5,234 | ¿Llegada, casa, cata y cortesía de La Mesa pueden perder 10–15 % sin perder atmósfera? |
-| 41 | `41_La_Otra_Mitad.md` | Causalidad muy buena | LIGERA–MEDIA | 1,966 | Que Riley no salga como confidente íntima; firma de Riley |
+| 41 | `41_La_Otra_Mitad.md` | Causalidad muy buena | LIGERA–MEDIA | 1,966 | Que Bonnie no salga como confidente íntima; firma de Bonnie |
 | 42 | `42_Nada.md` | Cerrado | MÍNIMA | 2,963 | Proteger |
 | 43 | `43_La_Puerta.md` | Clímax moral correcto | MÍNIMA | 2,150 | Proteger; no convertir Camp Alder en set piece |
 | 44 | `44_A_Oscuras.md` | Funciona como final de novela | MÍNIMA / HOUSEKEEPING | 2,280 | Proteger; metadata |
@@ -59,7 +59,7 @@ Todos están en `11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/`. Total
 **La vela (ALTA / CANON):** en 38:495, Chiara va a misa a Santa Lucía y puede "encender la vela sin que nadie le preguntara por quién". Choca con `04_Concepts/Fe_y_Velas.md`: el ritual de la vela por Kal nace después de F4, en *Sombras de Poder*. Preferencia del dictamen: **retirar la vela**; Santa Lucía y la misa se quedan (la fe de Chiara sin pedir nada es siembra del 44).
 **Pendiente del autor en el 38** (`PENDING.md`): peso de "Y tú eres mi gente" frente a F1; ingreso de Blake con el capitán; yate alquilado y piano; coche de Sam; siembra Marisol–Kenji; abreviatura "Sra." en diálogo canon. **No reescribir esa línea sin el autor**; E2 sólo lo mapea.
 
-**Riley (37, 38, 41):** la misma firma corporal (leer salidas) tres veces en pocos capítulos se vuelve etiqueta. Una firma fuerte y variaciones: en uno de los tres beats, cambiar la conducta por lectura de vehículos, manos, sonido del motor, posición de otros o conocimiento del barrio, **sin añadir biografía**. Mei-Lin: suficiente, no tocar, no sembrar su muerte. En el 41, Chiara debe sonar a quien explica por qué le asigna una tarea a una operadora, no a quien busca apoyo.
+**Bonnie (37, 38, 41):** la misma firma corporal (leer salidas) tres veces en pocos capítulos se vuelve etiqueta. Una firma fuerte y variaciones: en uno de los tres beats, cambiar la conducta por lectura de vehículos, manos, sonido del motor, posición de otros o conocimiento del barrio, **sin añadir biografía**. Mei-Lin: suficiente, no tocar, no sembrar su muerte. En el 41, Chiara debe sonar a quien explica por qué le asigna una tarea a una operadora, no a quien busca apoyo.
 
 **Personajes (no añadir):** Matteo (primera silla vacía; anomalía documental sin resolver), Lucía (Auster → Línea directa → A oscuras, nada más), Nadir/Héctor/Danny/Garrett (el 43 cobra; "Héctor jalando físicamente a Nadir"; sin arengas), Dario (estructura vigente, no antagonista final), Halbrook (sombra causal parcialmente invisible), La Mesa (la presión entra, no domina).
 
@@ -69,7 +69,7 @@ Todos están en `11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/`. Total
 |---|---|---|---|
 | P1 | **Anya en el Monarch** | CANON DEL AUTOR (2026-09-26, ficha `02_Characters/Anya_Voronina.md`, § "Libro I — Anya en el Monarch"); **capítulo PENDIENTE (diseño: 36–37)** | Anya, rubia, llega al Monarch buscando a Kal; él está detrás de la barra arreglando una máquina de hielo, siente un escalofrío y se esconde por reflejo; Chiara lo ve de lejos y levanta una ceja. Anya lo llama "Kal" y luego "Ojos azules"; Chiara registra el apodo y el nerviosismo de Kal. **Regla:** Chiara conecta puntos **por la conducta de Kal**, no porque Anya insinúe nada ("no hay celos, hay información"; Kal administrando). Pendientes del autor: capítulo exacto, la línea de Anya que deja abierta la deuda, qué le dice Kal a Chiara después. AUDIT diseña (sin prosa); E4 pregunta; E9 escribe sólo si el autor lo aprueba |
 | P2 | **Casi-confesión del 36** (hilo A) | DISEÑO | Como en el 20, 25 y 31: si ya existe un silencio donde uno elige una verdad más chica, se protege; si no, sólo un gesto o un silencio, sin línea nueva |
-| P3 | **Riley y Mei-Lin como amigas** | Laguna (evaluación de arco) | Falta un gesto de amistad entre ellas, no sólo de trabajo. Sólo evaluar si 37–39 ya lo tienen; proponer, no escribir, salvo aprobación. No empujar el Libro II |
+| P3 | **Bonnie y Mei-Lin como amigas** | Laguna (evaluación de arco) | Falta un gesto de amistad entre ellas, no sólo de trabajo. Sólo evaluar si 37–39 ya lo tienen; proponer, no escribir, salvo aprobación. No empujar el Libro II |
 | P4 | **Penthouse o loft como pregunta** y **loft como hogar vivido** | Implícito | Que se lea como pregunta antes del 42 y que 36–43 muestren rutina doméstica. Sólo evaluar y proteger lo que ya exista |
 | — | Ya aplicado, **proteger**: ritual del *Ciao* (36 llamada de la noche; 41 "Ciao, bella" / "Ciao"; 42 "Ciao, tesoro" y la mano de Kal quieta en la manija; 43 los labios sin sonido "en el acento malo de siempre"); Crowe en el 37 (cuota subida a la ferretería "por la competencia"); cocaína en el 37 ("La muevo; no la vendo. Y en la Almendra, nunca."); rimas 14↔44 (buzón sin mensaje) y 24↔44 (las puertas de Chiara); la Beretta del 44 ("llevaba ahí desde hacía años", sembrada en el 31); la moto paga en el 42 sólo por conducta | BORRADOR | No podar. Son pagos del Libro I o siembras del Libro II |
 | — | "Kal cree que el corral fue por su pasado" / Chiara cree que fue el Consorzio (38) | PENDIENTE (toca H12) | No resolver aquí. Si el 38 lo roza, se reporta |
@@ -77,13 +77,13 @@ Todos están en `11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/`. Total
 
 **Saldo de palabras de partida:** Partes I y II dejan **≈ +2,260** (ver `Audit_Caps_26-34_Parte_II.md`, § 9 parte 5). Lo que libere la Parte III es margen adicional, no meta. Anya (P1) no tiene rango fijado; E1 lo estima.
 
-**Housekeeping de la Parte III (dictamen):** sincronizar títulos 36–38 (la prosa del 37 y el 38 aún dice "título provisional" en el encabezado: **eso es prosa impresa**, se corrige en SURGERY si el autor confirma los títulos); eliminar referencias a Parte IV dentro del Libro I; trasladar documentalmente el Cap. 45 a *Sombras de Poder*; actualizar `00_Plan_Cierre_Parte_III.md` (tabla con "45 (IV.1)", "Parte III termina en oscuridad y Parte IV abre con la luz": ahora la luz y "Ciao, bella" están dentro del 44 y el 45 abre el Libro II; ya tiene una nota parcial en la l. 13); actualizar `00_Book_Map.md` (premisa vieja: "ascenso hasta imperio", "San Aurelio no puede moverse sin ellos"; el Libro I es encuentro + construcción + primera prueba); retirar la vela del 38; Stella como canon o cambio de nombre; metadata del origen de la Romanée-Conti; POV del 36 en metadata; firma de Riley. Heredado de la Parte II (sólo si el autor ya decidió; si no, se deja): `00_Front_Matter/00_Nota_Editorial.md` l. 19 ("Part 02 - La Construccion").
+**Housekeeping de la Parte III (dictamen):** sincronizar títulos 36–38 (la prosa del 37 y el 38 aún dice "título provisional" en el encabezado: **eso es prosa impresa**, se corrige en SURGERY si el autor confirma los títulos); eliminar referencias a Parte IV dentro del Libro I; trasladar documentalmente el Cap. 45 a *Sombras de Poder*; actualizar `00_Plan_Cierre_Parte_III.md` (tabla con "45 (IV.1)", "Parte III termina en oscuridad y Parte IV abre con la luz": ahora la luz y "Ciao, bella" están dentro del 44 y el 45 abre el Libro II; ya tiene una nota parcial en la l. 13); actualizar `00_Book_Map.md` (premisa vieja: "ascenso hasta imperio", "San Aurelio no puede moverse sin ellos"; el Libro I es encuentro + construcción + primera prueba); retirar la vela del 38; Stella como canon o cambio de nombre; metadata del origen de la Romanée-Conti; POV del 36 en metadata; firma de Bonnie. Heredado de la Parte II (sólo si el autor ya decidió; si no, se deja): `00_Front_Matter/00_Nota_Editorial.md` l. 19 ("Part 02 - La Construccion").
 
 ---
 
 ## Etapa 1 — AUDIT de los Caps. 35, 36 y 37, y diseño de Anya
 
-**Lee:** los Caps. 35, 36 y 37 completos. Por búsqueda: la carta del yate en 37 y 38; "Romanée", "sangre", "lodo" en 36–44 y en el Libro II (¿se cobra el origen?); el infarto de Héctor en la Parte I y su muerte en `01_Timeline/`; "Stella" en fichas e Hitos; H16 en `06_Relationships/Hitos.md`; la ficha de Anya (§ Libro I y § F4) y su voz si existe en `12_Craft_Policies/voice/`; "Monarch", "máquina de hielo", "barra" en 36–38; Riley en 37 (firma).
+**Lee:** los Caps. 35, 36 y 37 completos. Por búsqueda: la carta del yate en 37 y 38; "Romanée", "sangre", "lodo" en 36–44 y en el Libro II (¿se cobra el origen?); el infarto de Héctor en la Parte I y su muerte en `01_Timeline/`; "Stella" en fichas e Hitos; H16 en `06_Relationships/Hitos.md`; la ficha de Anya (§ Libro I y § F4) y su voz si existe en `12_Craft_Policies/voice/`; "Monarch", "máquina de hielo", "barra" en 36–38; Bonnie en 37 (firma).
 **Hace:**
 - Crea el mapa con cabecera, tabla "Estado de etapas" (E1–E9) y las palabras y finales de línea de 35–37 para el `git diff --stat` de E5.
 - Añade §0–§5 para 35, 36 y 37 (§0 diagnóstico, §1 candidatos por categoría con numeración continua A/B/C, §2 prolepsis y POV, §3 función por movimiento, §4 protegido y siembras, §5 lo que no es de microedición).
@@ -98,11 +98,11 @@ Todos están en `11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/`. Total
 
 ## Etapa 2 — AUDIT del Cap. 38
 
-**Lee:** del mapa, la tabla de estado y § Decisiones (borrador). El Cap. 38 completo (es largo: leerlo por bloques si hace falta, pero entero antes de clasificar). Por búsqueda: `04_Concepts/Fe_y_Velas.md`; Blake en la Parte I y en el Libro II; "piano", "Träumerei", "ROMA", "AMOR" en 37–44; H13 en Hitos; la bala y el pañuelo en 38–44 y el Libro II; Marisol "enamorad" en 38 y 42; Riley en 37, 38 y 41 (firma); Fabrizio y Tommaso en 41–44 y en el Libro II.
+**Lee:** del mapa, la tabla de estado y § Decisiones (borrador). El Cap. 38 completo (es largo: leerlo por bloques si hace falta, pero entero antes de clasificar). Por búsqueda: `04_Concepts/Fe_y_Velas.md`; Blake en la Parte I y en el Libro II; "piano", "Träumerei", "ROMA", "AMOR" en 37–44; H13 en Hitos; la bala y el pañuelo en 38–44 y el Libro II; Marisol "enamorad" en 38 y 42; Bonnie en 37, 38 y 41 (firma); Fabrizio y Tommaso en 41–44 y en el Libro II.
 **Hace:**
 - Añade §0–§5 para el 38, con **§3 por movimiento** (día previo, llegada, invitados, Blake, proa, piano, ROMA → AMOR, H13 y flashback, bala, Palermo, aeropuerto, Marisol): qué hace cada uno, qué se poda y cuánto.
 - **§ La vela:** before/after propuesto (retirar; Santa Lucía y la misa se quedan).
-- **§ Riley:** los tres beats de la firma, cuál se varía y con qué conducta (de la lista del dictamen).
+- **§ Bonnie:** los tres beats de la firma, cuál se varía y con qué conducta (de la lista del dictamen).
 - Mapea, sin decidir, los pendientes del autor en el 38 (`PENDING.md`: "Y tú eres mi gente", Blake con el capitán, yate/piano, coche de Sam, Marisol–Kenji, "Sra."), y la sospecha sobre el corral.
 - Estima el total de la poda con y sin los candidatos dudosos. Si el 38 no baja sin dañar inviolables, se dice.
 - Suma decisiones a § Decisiones (borrador).
@@ -112,10 +112,10 @@ Todos están en `11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/`. Total
 
 ## Etapa 3 — AUDIT de los Caps. 39, 40 y 41
 
-**Lee:** del mapa, la tabla de estado, §4 del 38 y § Decisiones (borrador). Los Caps. 39, 40 y 41 completos. Por búsqueda: La Mesa, Valenti, Livia, Ettore y Alessio en el Libro II; "Mecánico"; Riley y Mei-Lin en el Libro II (para no sembrar de más); Matteo como anomalía documental; Volpi.
+**Lee:** del mapa, la tabla de estado, §4 del 38 y § Decisiones (borrador). Los Caps. 39, 40 y 41 completos. Por búsqueda: La Mesa, Valenti, Livia, Ettore y Alessio en el Libro II; "Mecánico"; Bonnie y Mei-Lin en el Libro II (para no sembrar de más); Matteo como anomalía documental; Volpi.
 **Hace:**
-- Añade §0–§5 para 39, 40 y 41. El 39: sólo continuidad. El 40: la pregunta del 10–15 % en llegada, casa, cata y cortesía de La Mesa, protegiendo "¿Y usted qué es, señor Mercer?" / "—Mecánico.". El 41: cada línea que empuje a Riley hacia confidente íntima, y la firma.
-- **P3:** ¿37–39 ya tienen un gesto de amistad entre Riley y Mei-Lin? Si no, dónde cabría, sin escribirlo.
+- Añade §0–§5 para 39, 40 y 41. El 39: sólo continuidad. El 40: la pregunta del 10–15 % en llegada, casa, cata y cortesía de La Mesa, protegiendo "¿Y usted qué es, señor Mercer?" / "—Mecánico.". El 41: cada línea que empuje a Bonnie hacia confidente íntima, y la firma.
+- **P3:** ¿37–39 ya tienen un gesto de amistad entre Bonnie y Mei-Lin? Si no, dónde cabría, sin escribirlo.
 - Suma decisiones a § Decisiones (borrador).
 
 **No hace:** tocar prosa.
@@ -130,7 +130,7 @@ Todos están en `11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/`. Total
 - **P4:** penthouse o loft como pregunta y rutina doméstica en 36–43: qué existe y se protege.
 - **§ Metadata de 35–44:** tabla de lo que se sanea en cada SURGERY (títulos, POV, Stella, Romanée-Conti, referencias a Parte IV y al 45).
 - **§ Balance de palabras de la Parte III:** lo que libera cada capítulo, lo que cuestan P1–P4 y el saldo final, partiendo de ≈ +2,260.
-- Convierte el borrador en **§ Decisiones que necesito**: preguntas abiertas numeradas (Q1…) con recomendación, más la tabla de **vetos libres** (lo que se aplica si el autor no dice nada). Como mínimo: la coda del 35, el alcance de la poda del 36 (y Héctor), el paquete de la poda del 38, la vela, Stella, los títulos 36–38, la firma de Riley, **Anya sí o no y con qué paquete**, P2–P4 y los pendientes del 38 que el autor quiera resolver ahora. **Le pregunta todo junto al autor** y, cuando responda, **anota sus respuestas en el mapa**, con fecha.
+- Convierte el borrador en **§ Decisiones que necesito**: preguntas abiertas numeradas (Q1…) con recomendación, más la tabla de **vetos libres** (lo que se aplica si el autor no dice nada). Como mínimo: la coda del 35, el alcance de la poda del 36 (y Héctor), el paquete de la poda del 38, la vela, Stella, los títulos 36–38, la firma de Bonnie, **Anya sí o no y con qué paquete**, P2–P4 y los pendientes del 38 que el autor quiera resolver ahora. **Le pregunta todo junto al autor** y, cuando responda, **anota sus respuestas en el mapa**, con fecha.
 
 **No hace:** tocar prosa.
 **Cierra:** estado E4 = hecha, con las decisiones registradas, más el checkpoint.
@@ -149,11 +149,11 @@ Todos están en `11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/`. Total
 
 ## Etapa 6 — SURGERY del Cap. 38
 
-**Lee:** del mapa, la tabla de estado, § Decisiones y §1, §3 y §4 del 38, § La vela y § Riley. El 38 completo.
+**Lee:** del mapa, la tabla de estado, § Decisiones y §1, §3 y §4 del 38, § La vela y § Bonnie. El 38 completo.
 **Hace:**
 - `git diff --stat` como en E5.
 - Aplica lo aprobado **movimiento por movimiento**, con el registro completo, sin tocar los inviolables, y lee las costuras enteras al terminar. Si un corte rompe un pago de 39–44 o del Libro II, se conserva y se anota.
-- La vela y la variación de la firma de Riley que caiga en el 38.
+- La vela y la variación de la firma de Bonnie que caiga en el 38.
 - Metadata y nota de cirugía (sigue BORRADOR).
 - Añade al mapa **§9 Resultado (parte 2)**.
 - **Si el contexto se llena:** partir en "E6a, hasta el piano" y "E6b, de ROMA al final" (ver "Si algo sale mal").
@@ -165,7 +165,7 @@ Todos están en `11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/`. Total
 **Lee:** del mapa, la tabla de estado, § Decisiones y §1 y §4 del 39, 40 y 41. Los tres capítulos completos.
 **Hace:**
 - `git diff --stat` como en E5.
-- Aplica lo aprobado: la poda ligera del 40, Riley en el 41 (confidencia y firma), la continuidad del 39. P3 sólo si se aprobó y el autor pidió que lo escriba el agente.
+- Aplica lo aprobado: la poda ligera del 40, Bonnie en el 41 (confidencia y firma), la continuidad del 39. P3 sólo si se aprobó y el autor pidió que lo escriba el agente.
 - Metadata y nota de cirugía en 39–41 (siguen BORRADOR). Añade al mapa **§9 Resultado (parte 3)**.
 
 **Cierra:** estado E7 = hecha, más el checkpoint.

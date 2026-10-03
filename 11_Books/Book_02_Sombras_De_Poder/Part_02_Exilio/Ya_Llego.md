@@ -1,15 +1,25 @@
 ---
 title: "Ya llegó (título provisional)"
-type: capitulo_incubadora
-estado: BORRADOR PROPUESTO — NO CANONICO HASTA APROBACION DEL AUTOR
-libro: Seda y Polvora, Libro I — Parte V, despues de F2/Riley y Villa; antes de Parte VI/H1 (decision autoral 2026-09-20).
+type: capitulo
+estado: BORRADOR — diseño CANON DEL AUTOR (canonizado 2026-10-02); prosa pendiente de lectura del autor. Número de capítulo PENDIENTE.
+libro: Sombras de Poder (Libro II), Parte II — Exilio; después de F2/Bonnie, Villa y la boda de Mabel y Walt; antes de H1.
 pov: Kal Mercer, unico
-ventana_temporal: Libro I, tramo de Villa Candelaria, antes de H1 (ver decision de posicion arriba)
-localizacion: Stavanger, Noruega (ciudad propuesta, todavia no promovida a la ficha de Kal_Mercer.md)
-personajes: Kal Mercer, Chiara Bellandi, Henrik Solberg (nombre y parentesco PROVISIONALES, no aprobados)
+ventana_temporal: Libro II, Parte II, tramo de Villa Candelaria, antes de H1
+localizacion: Stavanger, Noruega (CANON DEL AUTOR 2026-10-02: ciudad de origen de Kal)
+personajes: Kal Mercer, Chiara Bellandi, Henrik Solberg (CANON DEL AUTOR 2026-10-02: hermano de Ingrid, madre de Kal)
 ---
 
-> **UBICACIÓN ANTERIOR SUPERSEDIDA POR DECISIÓN AUTORAL 2026-09-20:** antes de F2 y después de la caída de Silas. **Vigente:** Noruega/Stavanger y propuesta en Parte V — Exilio, después del día Mei-Lin/Riley y de la reconstrucción de Villa. La caída de Silas se reserva a VI: su función antigua como detonante previo del viaje queda pendiente de reconciliación. No inventar otro mecanismo ni promover la biografía propuesta por este cambio.
+> **CANONIZACIÓN (2026-10-02, decisión del autor).** Sale de `07_Ideas/Libro_01_Incubadora/` y entra al manuscrito del Libro II. Canon: el viaje, la revelación del origen con Chiara presente, Stavanger, Ingrid (madre; murió hace once años) y Henrik Solberg (tío materno), la propuesta con la línea de Anya ("Ya llegó.") y **la concepción de Elenna en este viaje** (no se señala en el texto). La prosa sigue BORRADOR y se revisará contra el Libro II cuando exista su mapa capítulo a capítulo.
+> - **El anillo (CANON DEL AUTOR, 2026-10-02):** "la joyería con Héctor" deja de ser una compra fuera de página: es **un robo a una joyería** con Héctor, Danny y Nadir, anterior a la boda de Mabel y Walt (el anillo ya va en la billetera). Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "El robo de la joyería". Las menciones de "la joyería" en este borrador deben leerse así; revisar la prosa cuando se redacte ese capítulo.
+> - **CANON DEL AUTOR (2026-10-02), línea del fiordo:** Chiara: "No. Pero puedo reconocer los detalles heredados en un rostro que veo cada mañana." (sustituye "No. Pero te conozco a ti."). Se retiró el párrafo de glosa que la seguía ("No explicó más que eso, y no hacía falta. Kal entendió…"): contradecía la línea nueva.
+> - **Anya (2026-10-02, corrección de continuidad pedida por el autor):** Chiara ya conoce a Anya (Cap. 35: la rubia del bar, "Ojos azules", el tornillo; Cap. 25: "una rusa que conseguía papeles"; F4: Washington) y el día de campo ya no existe (canon 2026-09-26). Se reescribió el pasaje de la cabaña: monólogo de Kal sobre el origen, Chiara cobra el Cap. 35, línea de Anya, "¿Y ahora qué piensas?" / "Ya llegó.", beso (CANON DEL AUTOR literal). Salieron "Conocí a una mujer en Afganistán", "¿Debería darme celos?" y "Ya me contaste esa historia. En el campo.". Puentes del agente (DISEÑO).
+> - **Sin caja (CANON DEL AUTOR, 2026-10-02):** el anillo va suelto en la billetera; Kal lo saca de ahí. Ajustadas las tres menciones de la caja y "cartera" → "billetera".
+> - **CANON DEL AUTOR (2026-10-03), la respuesta:** Chiara: "Kal Mercer, la comparto, compartí y compartiré esa vida peligrosa y divertida contigo." (sustituye "Sí."). Se retiró la réplica de Kal ("Sí —repitió él…"); la escena cierra en su mano sobre la de ella.
+> - **El beso (CANON DEL AUTOR, 2026-10-03):** ya no va después de "Ya llegó.": la vida le sirve el momento sin buscarlo y Kal ejecuta; se levanta por el anillo en el acto. El beso pasa a después de ponerle el anillo.
+> - **El pan (CANON DEL AUTOR, 2026-10-03):** la ciabatta deja el final y pasa a la cena, como callback literal del Cap. 33 del Libro I (*Más de la cuenta*, la cena en el loft): mismas réplicas, mismos papeles; la única variación es que ahora ella le pasa la mitad más grande. Tras "Ya llegó.", Kal: "Ya llegó, y resultó ser la mujer que me regaña por llevar el pan equivocado que me encargó."; Chiara cree que bromea; el anillo le sacude el tablero a la mujer que controla las versiones (se muestra desde Kal: la vio abrir la boca y volver a cerrarla; DISEÑO). Salió del final la glosa "Kal entendió… No el origen. / Lo otro.".
+> - **PENDIENTE (autor):** detonante del viaje (la caída de Silas ya no puede ser previa); número y título definitivo del capítulo.
+
+> **UBICACIÓN ANTERIOR SUPERSEDIDA POR DECISIÓN AUTORAL 2026-09-20:** antes de F2 y después de la caída de Silas. **Vigente:** Noruega/Stavanger y propuesta en Parte V — Exilio, después del día Mei-Lin/Bonnie y de la reconstrucción de Villa. La caída de Silas se reserva a VI: su función antigua como detonante previo del viaje queda pendiente de reconciliación. No inventar otro mecanismo ni promover la biografía propuesta por este cambio.
 >
 > **Función canon:** exilio voluntario que Kal también necesita; experiencias buenas junto a pérdidas que siguen. La sobrecompensación crea el espacio; la propuesta nace de claridad, no de culpa, sin convertir a Chiara en Mercer. La ejecución narrativa siguiente se conserva intacta como borrador histórico/propuesto, no se aprueba ni se reescribe en este encargo.
 
@@ -18,13 +28,13 @@ personajes: Kal Mercer, Chiara Bellandi, Henrik Solberg (nombre y parentesco PRO
 >
 > **Decisiones ya tomadas por el autor (2026-09-19) sobre las contradicciones originales:**
 >
-> 1. **Ubicación — SUPERSEDIDA POR DECISIÓN AUTORAL 2026-09-20; registro histórico.** Libro I, antes de H1. Posición propuesta: después de H8 (el incendio) y de la caída diseñada de Silas Crowe; antes de F2 (destierro de Riley) y del embarazo confirmado. Anotado en [[06_Relationships/Hitos]], tabla "Todavía sin colocar definitivamente", sin Hito numerado todavía.
+> 1. **Ubicación — SUPERSEDIDA POR DECISIÓN AUTORAL 2026-09-20; registro histórico.** Libro I, antes de H1. Posición propuesta: después de H8 (el incendio) y de la caída diseñada de Silas Crowe; antes de F2 (destierro de Bonnie) y del embarazo confirmado. Anotado en [[06_Relationships/Hitos]], tabla "Todavía sin colocar definitivamente", sin Hito numerado todavía.
 > 2. **Disparador (caída de Silas Crowe) — versión 2026-09-19, SUPERSEDIDA como dependencia cronológica el 2026-09-20.** El material de origen y derrota se conserva; su encaje con el viaje sigue pendiente. Ver [[02_Characters/Silas_Crowe]], "El primer trato que nadie cuenta" y la resolución de "cómo termina": Silas fue quien conectó a Dale con la red de colocación que trajo a Kal, cobrándose una deuda de silencio; Kal lo derrota volviéndolo económicamente irrelevante para la Almendra (nunca pagándole), y Silas suelta la conexión con Noruega como golpe final de despecho. El retcon de esa ficha ("el mismo hombre no: la misma idea" → literalmente el mismo hombre) queda **confirmado y aplicado**.
 > 3. **Qué sabe Chiara — RESUELTA.** Chiara presencia toda la revelación y queda enterada. `12_Craft_Policies/revelations/SAGA_LEVEL.md`, "Origen real de Kal", ya se actualizó: la restricción "Chiara al inicio" deja de aplicar en este tramo del libro.
 > 4. **La joyería con Héctor — QUEDA PENDIENTE, sin tocar,** tal como decidió el autor. Sigue sin escritura propia; este capítulo la sigue presuponiendo ya ocurrida fuera de página, en algún punto anterior a Stavanger.
 > 5. **Ciudad de origen (Stavanger).** Sigue como propuesta de este capítulo únicamente — no se promovió todavía a `02_Characters/Kal_Mercer.md`, que sigue pidiendo que ese hueco quede abierto "casi hasta el final". Se promueve sólo si el autor aprueba el capítulo completo.
 > 6. **La caja de madera con runas nórdicas** sigue fuera de este capítulo, sin mencionarse, respetando su bloqueo en `SAGA_LEVEL.md`.
-> 7. **Reutilización de "Ya llegó"** se mantiene como callback consciente a la escena ya canon de [[02_Characters/Anya_Voronina]] (el día de campo, después de Año Nuevo en Washington) — Kal repite una frase que ya dijo una vez, ahora con peso distinto. No se tocó esa escena.
+> 7. **[SUPERADO 2026-10-02: no hay día de campo; "Ya llegó" se dice por primera y única vez aquí. Ver la nota de Anya arriba.]** **Reutilización de "Ya llegó"** se mantiene como callback consciente a la escena ya canon de [[02_Characters/Anya_Voronina]] (el día de campo, después de Año Nuevo en Washington) — Kal repite una frase que ya dijo una vez, ahora con peso distinto. No se tocó esa escena.
 >
 > **Lo que sí se protegió sin tocar:** Dale no se rehabilita; Ruth conserva su lugar emocional aparte; Héctor no se reduce; no hay clisés vikingos; no hay foreshadowing de Elenna; el anillo no se compra en Noruega; la concepción no se señala en el texto.
 
@@ -216,9 +226,7 @@ Chiara miró la fotografía por encima de su hombro, con cuidado de no tocarla.
 
 —Tú no la conociste.
 
-—No. Pero te conozco a ti.
-
-No explicó más que eso, y no hacía falta. Kal entendió, sin que se lo tuviera que decir con otras palabras, que ella no estaba viendo un parecido genético que no podía juzgar. Estaba viendo, en la foto, algo que reconocía de él — algo en la forma de sostener a alguien, quizás, o en la manera de sonreír a medias, protegiendo algo — y se lo estaba devolviendo.
+—No. Pero puedo reconocer los detalles heredados en un rostro que veo cada mañana.
 
 ---
 
@@ -250,49 +258,67 @@ Se cambiaron la ropa mojada por el camino de vuelta y la colgaron cerca del fueg
 
 Chiara calentó algo de la despensa — sopa, pan, lo que había — y comieron sentados en el suelo, frente al fuego, sin mesa, porque ninguno de los dos tenía ganas de comportarse como si esa noche fuera cualquier otra.
 
+Al sacar el pan, Chiara se detuvo con la bolsa en la mano.
+
+—Kal.
+
+—¿Qué?
+
+—Te pedí ciabatta.
+
+—Ése está mejor.
+
+—Ése te gusta más.
+
+—Exacto.
+
+—No veo cómo eso mejora tu argumento.
+
+—Yo sí.
+
+Partió el pan de todos modos y le pasó la mitad más grande.
+
 Fue Kal quien empezó a hablar, sin que ella se lo pidiera, en ese tono que usaba cuando contaba algo importante fingiendo que era anécdota.
 
-—Conocí a una mujer en Afganistán. Rusa. Se llamaba Anya.
-
-—¿Debería darme celos? —preguntó Chiara, sin dejar la sopa.
-
-—Debería darte curiosidad. Es distinto.
-
-Le contó, sin entrar en detalles que no le correspondían a esa noche, que Anya conseguía papeles, contactos, salidas — que era la persona a la que uno recurría cuando el mundo oficial no tenía respuesta para lo que uno necesitaba. Le contó que fueron amantes, en una época en la que él no creía en nada que no pudiera medirse, pesarse o cobrarse.
-
-—Una vez me dijo algo —siguió Kal, mirando el fuego, no a ella—. Yo estaba siendo un idiota, hablando de acuerdos y de que nadie sale engañado si los dos saben qué están tomando del otro. Y ella me dijo: *llegará el día en que llegue la persona que te haga creer.*
-
-Chiara dejó el plato en el suelo, despacio.
-
-—Ya me contaste esa historia —dijo, con cuidado, como si no quisiera adelantarse a algo—. En el campo. Después de Washington.
-
-—Sí.
-
-—Me dijiste *ya llegó.*
-
-—Sí.
-
-—¿Por qué me la vuelves a contar?
-
-Kal la miró entonces, directo, por primera vez desde que empezó a hablar.
-
-—Porque esa vez lo dije y no sabía todavía cuánto era verdad. Lo dije bien, pero lo dije chico. Hoy lo entiendo más grande.
-
-Chiara no dijo nada. Lo miraba con esa quietud suya que Kal había aprendido a leer como la forma que tenía ella de no interrumpir algo que todavía no había terminado de llegar.
-
-—Vine aquí a buscar de dónde vengo —siguió Kal—. Y encontré una carta que nunca me dejaron leer, y una foto de una mujer que se parece a mí en algo que no sé nombrar, y un tío que me sirvió el café con leche sin preguntarme, como si algo en la familia supiera cómo lo tomo un bebé que nunca llegó a decirlo. Y todo eso importa. Me cambió algo hoy que no sé todavía cómo se llama.
+—Vine aquí a buscar de dónde vengo. Y encontré una carta que nunca me dejaron leer, y una foto de una mujer que se parece a mí en algo que no sé nombrar, y un tío que me sirvió el café con leche sin preguntarme, como si algo en la familia supiera cómo lo tomo un bebé que nunca llegó a decirlo. Y todo eso importa. Me cambió algo hoy que no sé todavía cómo se llama.
 
 Hizo una pausa.
 
 —Pero no vine a encontrar un hogar. Vine a encontrar de dónde salí. Y ya lo encontré. Y no es lo mismo.
 
-—Kal…
+Chiara no dijo nada. Lo miraba con esa quietud suya que Kal había aprendido a leer como la forma que tenía ella de no interrumpir algo que todavía no había terminado de llegar.
 
-—Ya llegó —dijo él—. Otra vez. Sólo que esta vez no te lo estoy contando como historia. Te lo estoy diciendo en serio.
+—Anya me dijo algo una vez —siguió Kal, mirando el fuego, no a ella.
 
-Se levantó del suelo, cruzó hasta donde estaba su chaqueta colgada cerca del fuego, y metió la mano en el bolsillo interior — el mismo donde había guardado la fotografía esa tarde, un poco más abajo.
+—La de Washington.
 
-Chiara todavía sonreía, como si pensara que la conversación ya había llegado a donde tenía que llegar.
+—La de Washington.
+
+—La rubia del bar. —Chiara no dejó la sopa—. *Ojos azules.*
+
+Kal tardó un segundo.
+
+—Ésa.
+
+—Apretaste un tornillo que ya estaba apretado.
+
+A Kal se le escapó el aire por la nariz, algo parecido a una risa.
+
+—Yo era un idiota entonces. Hablaba de acuerdos, de que nadie sale engañado si los dos saben qué están tomando del otro. Y ella me dijo: *llegará el día en que llegue la persona que te haga creer.*
+
+Chiara dejó el plato en el suelo, despacio.
+
+—¿Y ahora qué piensas?
+
+Kal la miró entonces, directo, por primera vez desde que empezó a hablar.
+
+—Ya llegó. —Se le movió algo en la boca—. Ya llegó, y resultó ser la mujer que me regaña por llevar el pan equivocado que me encargó.
+
+Chiara se rió de verdad, con la cabeza hacia atrás, y le aventó la orilla del pan.
+
+Kal se levantó del suelo, cruzó hasta donde estaba su chaqueta colgada cerca del fuego, y sacó la billetera del bolsillo interior — el mismo donde había guardado la fotografía esa tarde.
+
+Chiara seguía riéndose cuando él volvió.
 
 —Kal…
 
@@ -302,13 +328,15 @@ Chiara todavía sonreía, como si pensara que la conversación ya había llegado
 
 —No preguntes todavía.
 
-Se sentó de nuevo frente a ella, más cerca, casi torpe, con la caja pequeña en la mano. No se arrodilló — no había espacio, y no le hubiera salido natural — simplemente la abrió ahí, entre los dos, con el fuego de fondo y la ropa mojada todavía humeando contra la ventana empañada.
+Se sentó de nuevo frente a ella, más cerca, casi torpe, con el anillo entre los dedos. Lo había sacado de un compartimento de la billetera donde no cabía nada más. No se arrodilló — no había espacio, y no le hubiera salido natural — simplemente se lo enseñó ahí, entre los dos, con el fuego de fondo y la ropa mojada todavía humeando contra la ventana empañada.
 
 Era un anillo de platino, sobrio, con una piedra antigua de montura baja que no gritaba nada — el tipo de pieza que alguien elige porque la mira una y otra vez, no porque quiere que otros la miren.
 
 —Chiara Bellandi —dijo Kal, y su voz no sonó ensayada porque no lo estaba—, ¿quieres compartir una vida peligrosa y divertida conmigo?
 
 Chiara se quedó mirando el anillo, después a él, después otra vez el anillo.
+
+Kal la había visto contestarle a la Mesa de Palermo sin pestañear. La vio abrir la boca y volver a cerrarla.
 
 —¿Ésa es tu forma de pedirme matrimonio?
 
@@ -320,11 +348,9 @@ Chiara se quedó mirando el anillo, después a él, después otra vez el anillo.
 
 Ella ya se estaba riendo, con los ojos húmedos, con esa risa que le salía cuando algo la sorprendía de verdad y no sabía todavía si tapárselo con sarcasmo.
 
-—Sí.
+—Kal Mercer, la comparto, compartí y compartiré esa vida peligrosa y divertida contigo.
 
 Kal le puso el anillo con manos que no estaban tan firmes como hubiera querido, y cuando terminó, se quedó mirando su propia mano sobre la de ella como si necesitara comprobar que había pasado.
-
-—Sí —repitió él, más bajo—. Quiero compartir una vida peligrosa y divertida contigo.
 
 ---
 
@@ -346,7 +372,7 @@ Levantó la vista, y no dijo nada durante un segundo entero, y después:
 
 —No hagas esa pregunta esta noche.
 
-Chiara se rió otra vez, pero esta vez con algo detrás de los ojos que no era sólo diversión — la comprensión lenta de que la propuesta acababa de ser improvisada, y de que el sentimiento, evidentemente, no lo era. Que Kal había cargado esa cajita en el bolsillo interior de la chaqueta durante meses de discusiones, de peligro, de rutina, de un país entero de por medio, esperando sin saberlo el momento en que dejara de sentirse imposible.
+Chiara se rió otra vez, pero esta vez con algo detrás de los ojos que no era sólo diversión — la comprensión lenta de que la propuesta acababa de ser improvisada, y de que el sentimiento, evidentemente, no lo era. Que Kal había cargado ese anillo en la billetera durante meses de discusiones, de peligro, de rutina, de un país entero de por medio, esperando sin saberlo el momento en que dejara de sentirse imposible.
 
 —Kal.
 
@@ -370,29 +396,7 @@ Después, mucho después, con el fuego ya bajo y la ropa seca colgada cerca de l
 
 Se rió, y él se rió con ella, y por un momento la cabaña dejó de ser el lugar de las cartas y las fotografías y volvió a ser, simplemente, un lugar cálido en medio del frío.
 
-—Kal.
-
-—¿Qué?
-
-—Te pedí ciabatta.
-
-Él la miró, sin entender, y ella señaló con la cabeza hacia la bolsa de pan que había comprado esa mañana, antes de la carretera, antes de todo.
-
-—Compraste el otro. El integral.
-
-—Ese está mejor.
-
-—Ese te gusta más a ti.
-
-—No veo cómo eso mejora tu argumento.
-
-—Yo sí.
-
-Chiara no dijo nada más. Se acomodó contra él, con el vaso todavía en la mano, mirando el fuego bajar, y Kal entendió — sin que nadie tuviera que explicárselo, sin que el narrador de su propia vida tuviera que subrayarlo — que ahí, exactamente ahí, con el pan equivocado sobre la mesa y un anillo nuevo en la mano de ella y una fotografía guardada contra su pecho, estaba pasando la única cosa que de verdad había ido a buscar a Noruega sin saberlo.
-
-No el origen.
-
-Lo otro.
+Chiara se acomodó contra él, con el vaso todavía en la mano, mirando el fuego bajar.
 
 ---
 
@@ -400,7 +404,7 @@ Más tarde, cuando el frío de afuera ya era sólo un sonido contra la ventana y
 
 Dejó de pensar, en general.
 
-La cartera, sobre la silla, quedó por primera vez en meses sin el peso que había cargado sin decirlo — no porque hubiera vaciado nada, sino porque lo que llevaba ahí dentro por fin había encontrado dónde ir.
+La billetera, sobre la silla, quedó por primera vez en meses sin el peso que había cargado sin decirlo — no porque hubiera vaciado nada, sino porque lo que llevaba ahí dentro por fin había encontrado dónde ir.
 
 Afuera, el fiordo seguía siendo el mismo fiordo de siempre, indiferente, oscuro, frío.
 

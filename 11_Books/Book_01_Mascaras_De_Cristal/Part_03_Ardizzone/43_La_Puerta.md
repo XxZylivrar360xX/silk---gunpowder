@@ -1,5 +1,5 @@
 <!--
-Estado: BORRADOR — Parte III — Ardizzone, noveno capítulo (Cap. 43 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "La puerta". No es provisional. **Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_III]]):** Kal sale del loft hacia El Patio (no "hacia La Almendra": el loft ya está ahí); prolepsis de narrador cortada ("en algún punto que después nadie iba a poder señalar" → "sin aviso"); dos casos del tic "no hacía falta / no necesitaba decir nada más" (Garrett, "Ahora") y la inercia "que no había nada más que discutir ahí"; "la noche anterior" dos veces en la frase de la puerta → una. La puerta (sus dos "No hacía falta"), el expediente sin abrir, Héctor jalando a Nadir y la reja, intactos. Detalle en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]], § 9 parte 4. Sigue BORRADOR.
+Estado: BORRADOR — Parte III — Ardizzone, noveno capítulo (Cap. 43 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "La puerta". No es provisional. **Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/ENCARGO_Auditoria_Parte_III]]):** Kal sale del loft hacia El Patio (no "hacia La Almendra": el loft ya está ahí); prolepsis de narrador cortada ("en algún punto que después nadie iba a poder señalar" → "sin aviso"); dos casos del tic "no hacía falta / no necesitaba decir nada más" (Garrett, "Ahora") y la inercia "que no había nada más que discutir ahí"; "la noche anterior" dos veces en la frase de la puerta → una. La puerta (sus dos "No hacía falta"), el expediente sin abrir, Héctor jalando a Nadir y la reja, intactos. Detalle en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]], § 9 parte 4. Sigue BORRADOR. **Arresto reescrito 2026-10-02 (CANON DEL AUTOR en sustancia, prosa del agente, BORRADOR):** Kal se queda atrás y les revienta las llantas a las patrullas municipales (no apunta a nadie); un agente lo embiste a pie desde un punto ciego; Nadir lo ve desde la puerta y salta; Héctor lo jala de vuelta; despegan gritando "¡Kal!". Sustituye la caminata de Kal hacia el camino y la intercepción posterior. El equipo VE el arresto (lo cuenta Héctor en el 44). Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_44_Jurisdiccion]] C1.
 Protagonista: Kal Mercer (POV único, tercera persona cercana). No hay salto de POV. Chiara Bellandi NO aparece físicamente en ningún momento del capítulo — ni llamada, ni mensaje, ni reconciliación.
 Personajes con diálogo: Kal Mercer, Nadir Amrani, Héctor Navarro, Danny Hayes, Dario Varek (por teléfono). Garrett Cross participa sin diálogo propio relevante (una instrucción operativa mínima).
 Ausente, sentido: Chiara Bellandi (objetos en el loft, la puerta del penthouse). Mencionado sin aparecer: Warren Halbrook (encargo ya sabido, no en escena), Lucía Varek (no en este capítulo).
@@ -146,29 +146,33 @@ La salida dejó de ser limpia sin aviso: un movimiento que no debía haber pasad
 
 —Vayan.
 
-No hubo tiempo para discutirlo dos veces. Kal empujó a Danny hacia el punto donde Garrett ya tenía las aspas girando, y Danny corrió sin mirar atrás, con las cajas ya aseguradas, y llegó, y subió. Kal se quedó cubriendo la salida de los demás.
+No hubo tiempo para discutirlo dos veces. Kal empujó a Danny hacia el punto donde Garrett ya tenía las aspas girando, y Danny corrió sin mirar atrás, con las cajas ya aseguradas, y llegó, y subió. Héctor y Nadir corrieron detrás de él.
 
-Héctor llegó al helicóptero. Nadir se detuvo antes, a medio camino, girando hacia donde había quedado Kal.
+Por el camino de tierra que bajaba hacia el claro venían luces. Dos patrullas municipales, con los faros altos y la sirena apagada, demasiado rápido para un camino así. Iban a llegar antes de que el helicóptero se despegara del suelo.
+
+Kal se quedó a medio claro y les disparó a las llantas.
+
+La primera patrulla se fue de lado con la delantera reventada y quedó atravesada en el camino. La segunda frenó detrás, y Kal le reventó una trasera y después la otra. No apuntó más arriba de los rines ni una sola vez.
+
+Detrás de él, las aspas cambiaron de tono.
+
+No vio al agente. Venía a pie desde la cuneta, por el único lado que Kal no estaba mirando. Lo sintió antes de entenderlo: un golpe en las costillas que le sacó el aire, el suelo que subió de golpe, la tierra en la boca. El arma se le fue de la mano. Una rodilla se le clavó en la espalda.
+
+—¡Quieto! ¡Quieto, carajo!
+
+Con la mejilla contra la tierra vio la puerta abierta del helicóptero, y a Nadir en ella. Lo vio saltar.
+
+Nadir cayó al pasto y alcanzó a dar dos pasos hacia él antes de que una mano lo agarrara de la chaqueta desde adentro. Héctor. Nadir se zafó medio cuerpo, peleando contra la mano, buscando otra vez a Kal con los ojos, y Héctor se bajó hasta la mitad, lo abrazó por el pecho y tiró de él hacia atrás con una fuerza que no dejaba lugar a negociar. Cayeron los dos adentro.
+
+El helicóptero se despegó con la puerta todavía abierta.
 
 —¡Kal!
 
-No fue una pregunta. Fue el principio de una decisión que Nadir estaba a punto de tomar solo, y Héctor no le dio tiempo a terminarla: lo agarró del brazo y tiró de él hacia la puerta abierta del helicóptero con una fuerza que no dejaba lugar a negociar. Nadir se resistió medio segundo, el cuerpo entero peleando contra la mano que lo arrastraba, buscando otra vez a Kal con los ojos.
+Lo gritaron los dos, o uno primero y el otro encima, y el motor se lo comió a la mitad.
 
-Héctor no dijo nada. Tiró más fuerte, lo metió dentro, y se quedó con una mano en el marco de la puerta, mirando hacia atrás, hacia el punto donde Kal seguía de pie.
+Kal no levantó la cabeza. Dejó la mano abierta sobre la tierra, lejos del arma, mientras alguien le juntaba las muñecas en la espalda, y oyó el helicóptero subir y alejarse hasta que no fue más que un ruido decreciente sobre los árboles.
 
-Kal levantó una mano. No fue una despedida larga. Fue lo justo para que Héctor entendiera que la decisión ya estaba tomada, que subiera él también.
-
-Héctor subió.
-
-El helicóptero se elevó con Danny, Nadir y Héctor dentro, y Garrett al mando, y en menos de lo que tarda un motor en alejarse del todo ya no era más que un ruido decreciente sobre los árboles.
-
-Kal se quedó abajo, solo, con el ruido del otro lado del perímetro todavía sonando, y no corrió a ninguna parte. Caminó hacia el límite de la base, alejándose del punto de entrada por el que habían llegado, en dirección al camino rural que bordeaba la cerca exterior, porque ya no había ninguna salida esperándolo y no tenía sentido buscarla donde ya no estaba.
-
----
-
-Lo interceptaron en un camino rural cerca del perímetro: dos unidades de la policía municipal, atraídas por el mismo disturbio que había abierto la ventana, con las luces encendidas y las armas en alto antes de que Kal terminara de levantar las manos.
-
-No corrió. No intentó nada. Se dejó poner contra el capó de la patrulla sin resistencia, con la cara vuelta hacia el metal frío, mientras alguien le revisaba los bolsillos y alguien más gritaba algo por radio sobre un sospechoso detenido cerca de Camp Alder.
+Lo levantaron entre dos. Por el camino llegaba una tercera unidad, con las luces encendidas. Lo pusieron contra el capó, con la cara vuelta hacia el metal frío, mientras alguien le revisaba los bolsillos y alguien más gritaba algo por radio sobre un sospechoso detenido cerca de Camp Alder.
 
 —¿Nombre? —preguntó uno de los agentes.
 

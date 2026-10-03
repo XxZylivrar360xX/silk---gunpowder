@@ -7,6 +7,7 @@
 **Rol:** **la cara de [[03_Factions/Il_Consorzio]]** en San Aurelio. Antagonista de [[02_Characters/Chiara_Bellandi]].
 **Alias:** *Il Consigliere*.
 **Nacionalidad:** italiano. Nacido en el **norte o centro de Italia** — deliberadamente lejos de Sicilia.
+**Origen familiar:** **Génova**: su padre fue contador de una naviera en el puerto (Cap. 49; aprobado por el autor 2026-10-03, auditoría del arco final, Q7). La estatura sigue sin fijar: se retiró del 49 "más bajo de lo que lo recordaba".
 **Edad al abrir la novela:** entre 55 y 60.
 **Estado:** vivo.
 

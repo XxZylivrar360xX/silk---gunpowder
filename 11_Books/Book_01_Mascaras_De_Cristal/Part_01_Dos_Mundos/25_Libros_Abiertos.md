@@ -15,6 +15,7 @@ Ajuste 2026-09-28 (CANON DEL AUTOR): Kal abre el ejercito con "Yo tambien cargo 
 Ajuste 2026-09-28 (idea del autor): Jim deja a su hermana de 14 (Natalie, sin nombrarla) y el nino del convoy desembocan en Marisol (15). Kal agrega que la calle no la tocara, y Chiara lo reconoce en voz alta: "Por eso eres asi con Marisol, ¿no?" (CANON DEL AUTOR). La respuesta de Kal, "No se hacerlo de otra forma", es DISEÑO.
 Coda ajustada 2026-09-28 (pedido del autor: que sea el pago de haberse abierto; lineas nuevas = DISEÑO): vuelve el humor ("Si Marco me viera ahora" / "Vendedor del mes"); Kal ya no le quita peso a lo de Michael; y ahora si le dice lo que ella no lo dejo decir en el jacuzzi: "Te escuche toda la noche. Y sigo aqui." Chiara pregunta "¿Que le dirias?" (en vez de "¿Por que el?") y Kal remata lo de Michael con "Y decirle que Marisol esta bien. Que ya lo llore." Las lineas canon del juego del golf se conservan. Varek (2026-09-28, plan del autor): la advertencia de Varek es una LLAMADA fuera de cuadro mientras Chiara "va al tocador"; Kal solo ve el telefono bocabajo en el sofa. Sustituye la interceptacion en persona junto al ascensor (Caps. 26 y 27 ajustados). Callback al Cap. 6 (idea del autor): Chiara recuerda "Yo soy la muerte caminando" ("Pense que era una frase" / "Lo dije para que no preguntaras mas" / "Ya lo hice", esta ultima linea del autor); durante el llanto, su mano queda sobre la calavera tatuada en la espalda de Kal. Cortado a pedido del autor (prolepsis del narrador): "Ninguno de los dos pregunto por las paginas que el otro todavia dejaba cerradas. Eran menos que al principio de la noche." Tambien se quito "Por el no puedo contestar" (insinuaba que Corrado esta vivo).
 Ajuste 2026-09-28 (CANON DEL AUTOR): Kal pregunta por el apellido ("Dijiste Ardizzone... defendian los nombres mas que a sus mismas familias"; respuesta de Chiara dictada). Dos pausas: (1) el peso de la muerte de Marta en Corrado; (2) como era Alessio: impecable en publico, siempre detras de ella con las manos en los hombros, "la donna di Lusardi... hasta que la muerte nos separara", humillaciones, negaciones y violencia. Chiara no debe leerse como asesina sino como mujer que aguanto. "Y jale el gatillo" -> "Solo lo hice." DISEÑO del agente: Corrado deja de reir/cantar en la cocina; la primera bofetada tras una cena en que ella rio con otro, las flores, "la segunda vez ya no pidio perdon"; control del dinero y los contactos (eco del parlamento canon de Alessio).
+Monologo de Chiara en la coda (2026-10-01, pedido del autor: mas sentimiento, frustracion y verdad; redaccion = DISENO, pendiente de lectura): antes de la pregunta canon ("si, despues de todo lo que he hecho, todavia esta orgulloso de su hija", intacta) Chiara se desdice ("Primero le reclamaria"): el "yo me hago cargo" que la dejo sola a los 23, Ettore que no era el, La Mesa decidiendo boda/apellido/sonrisas, no tener tumba (le habla al mar), cansancio y manos sucias, y la rabia de seguir queriendo su aprobacion. Nada sugiere que Corrado viva. Se corrigio errata "m irarlo".
 -->
 
 # Capítulo 25 — Libros abiertos
@@ -401,7 +402,19 @@ A Chiara se le escapó una lágrima, sola, sin que el resto de la cara se le mov
 
 —¿Qué le preguntarías?
 
-—Sólo una cosa. —Miró el ventanal, como si de pronto necesitara un sitio donde no m irarlo a él—. Si, después de todo lo que he hecho, todavía está orgulloso de su hija.
+—Sólo una cosa. —Miró el ventanal, como si de pronto necesitara un sitio donde no mirarlo a él. Se quedó así un rato, y después negó con la cabeza, despacio—. No. Eso es mentira. Primero le reclamaría.
+
+Kal no se movió. Con la oreja contra su pecho, sintió cómo se le aceleraba el corazón antes de que le cambiara la voz.
+
+—Me dijo «yo me hago cargo de esto». Con esa calma que tenía para todo. Y se fue a hacerse cargo, y lo único que quedó a mi cargo fui yo. —Soltó el aire por la nariz, algo que quiso ser risa y no llegó—. Tenía veintitrés años. Ni siquiera supe a quién llamar primero. Ettore hizo lo que pudo, pero Ettore no era él, y los dos lo sabíamos cada vez que se sentaba en su silla. Después vinieron los que deciden. Con quién me casaba. Cuánto valía mi apellido. A qué cena tenía que ir y a quién le tenía que sonreír. Y yo sonreí, Kal. Sonreí tanto que se me olvidó cómo se hacía la otra cara.
+
+Algo se le quebró en la última palabra, y lo pasó de largo, como pasaba todo.
+
+—Ni siquiera tengo dónde ir a decírselo. No hay piedra. No hay nada. A veces, cuando estoy cerca del mar, le hablo al agua, porque es lo último que lo vio. Y me siento ridícula, y le hablo igual. —Tragó—. Le diría que estoy cansada. Que hice todo lo que me enseñó, y cosas que nunca me enseñó, y algunas que me habría prohibido con sólo mirarme. Que me ensucié las manos para que nadie más decidiera por mí, y que lo hice tan bien que a veces ya no sé si eso me lo enseñó él o la gente que lo mató.
+
+Kal sintió que la mano de ella se detenía en su pelo.
+
+—Y lo que más rabia me da… —La voz se le fue a un sitio más bajo, más chico—. Es que después de todo eso, de todo, sigo queriendo lo mismo que quería a los seis años. —Cerró los ojos—. Por eso le preguntaría sólo una cosa. Si, después de todo lo que he hecho, todavía está orgulloso de su hija.
 
 Kal se incorporó sobre un codo para verla.
 

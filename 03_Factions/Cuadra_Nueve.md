@@ -43,7 +43,7 @@ Dario los considera desechables. Mientras le den ojos y recados, existen. Si nec
 
 Kal puede salvar a algunos y usar a otros. Esa tensión debe quedar viva.
 
-[[02_Characters/Riley_Bennett]] puede funcionar como puente emocional si el arco necesita mostrar que Chiara ve a los jóvenes antes que Kal los convierta en piezas.
+[[02_Characters/Bonnie_Garcia]] puede funcionar como puente emocional si el arco necesita mostrar que Chiara ve a los jóvenes antes que Kal los convierta en piezas.
 
 ---
 

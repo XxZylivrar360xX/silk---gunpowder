@@ -20,7 +20,7 @@ Integrar al vault el material de `07_Ideas/Libro_04_Incubadora/` **sin convertir
    - `02_Characters/Nereo_Volpi.md`
    - `03_Factions/Departamento_de_Policia_de_San_Aurelio.md`
    - `03_Factions/El_Casino.md`
-   - fichas actuales de Kal, Chiara, Riley, Marisol, Corrado, Nadir, Danny y Walt si existen.
+   - fichas actuales de Kal, Chiara, Bonnie, Marisol, Corrado, Nadir, Danny y Walt si existen.
 
 2. Para cada idea de la incubadora, clasifica internamente:
    - `CANON YA EXISTENTE`

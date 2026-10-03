@@ -771,7 +771,7 @@ Probablemente sí, pero merece auditoría.
 
 ---
 
-# RILEY / MEI-LIN / REN WEI
+# BONNIE / MEI-LIN / REN WEI
 
 No necesitan estar en Parte I.
 
@@ -779,7 +779,7 @@ Importante:
 
 > **NO sembrarlos retrospectivamente por ansiedad editorial.**
 
-Riley y Mei-Lin tienen su entrada en Parte III.
+Bonnie y Mei-Lin tienen su entrada en Parte III.
 
 Ren Wei:
 
@@ -1314,7 +1314,7 @@ NO:
 - eliminar `Tierra buena`;
 - eliminar la trama legal;
 - recortar familia elegida por considerarla filler;
-- añadir Riley/Mei-Lin/Ren Wei;
+- añadir Bonnie/Mei-Lin/Ren Wei;
 - adelantar Halbrook;
 - adelantar Corrado;
 - adelantar embarazo;

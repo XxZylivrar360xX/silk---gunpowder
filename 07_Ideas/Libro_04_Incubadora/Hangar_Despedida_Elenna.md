@@ -28,6 +28,8 @@ bastante bien sola"; el chiste sobre Rex, no sobre el capitán; beso de Kal en l
 "Sí"; el abrazo; "Ti amo con tutto il…" / "Mio cuore"; el gesto de persignar a Elenna antes de
 irse; "¿Segundo?" en la escalerilla y el comentario final de Kal que Elenna no alcanza a oír.
 
+**Rima de saga (DISEÑO, 2026-10-02, no enunciar):** "mi historia empezó en un aeropuerto así" carga, sobre todo, la noche de la salida a Stavanger, donde sus padres se comprometen y ella es concebida (CANON DEL AUTOR); Elenna conoce esa historia por las cartas. Ver [[02_Characters/Elenna_Mercer]]. Chiara no debe recordar en voz alta el papel, el nombre ni Stavanger.
+
 **Sobre la numeración:** este archivo usa el título *Camino a Casa* y la numeración vigente en
 `develop` (`11_Books/Book_06_Camino_A_Casa/`), sin tocarla. Existe la posibilidad todavía **no
 oficial** de insertar un volumen adicional de Elenna antes de este libro — no se renumera nada

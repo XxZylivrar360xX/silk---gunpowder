@@ -31,13 +31,13 @@ El sonido llegó antes de que abrieran la puerta: una risa pequeña, golpeada co
 
 Chiara estaba detrás de él. Su respiración le dio una vez en la espalda y se interrumpió.
 
-Riley apareció desde el pasillo con una taza en una mano. Iba a decir algo. No pudo. Miró a Kal, miró a Chiara y dejó la taza sobre una mesa baja sin cuidar el ruido.
+Bonnie apareció desde el pasillo con una taza en una mano. Iba a decir algo. No pudo. Miró a Kal, miró a Chiara y dejó la taza sobre una mesa baja sin cuidar el ruido.
 
 —Chiara.
 
-El nombre se le quebró antes de terminar de salir. Cruzó la sala y la abrazó con una fuerza que les quitó el aire a las dos. Chiara se aferró a ella de inmediato, con la cara hundida en su hombro. Riley cerró los ojos un momento antes de soltarla.
+El nombre se le quebró antes de terminar de salir. Cruzó la sala y la abrazó con una fuerza que les quitó el aire a las dos. Chiara se aferró a ella de inmediato, con la cara hundida en su hombro. Bonnie cerró los ojos un momento antes de soltarla.
 
-Kal las miró sin moverse. Cuando Riley levantó la cara y lo encontró mirándolas, él asintió una vez. Ella sostuvo la mirada apenas un segundo y después se volvió hacia Elenna.
+Kal las miró sin moverse. Cuando Bonnie levantó la cara y lo encontró mirándolas, él asintió una vez. Ella sostuvo la mirada apenas un segundo y después se volvió hacia Elenna.
 
 La sala tenía juguetes debajo del sofá, una manta torcida sobre un sillón y un tapete de colores gastado en el centro. Junto a la ventana, una cámara pequeña descansaba sobre un mueble, apuntando hacia el espacio donde la niña estaba sentada.
 
@@ -53,7 +53,7 @@ La niña dejó caer el aro. El golpe seco contra el tapete le pareció a Kal la 
 
 —¿Tanto tiempo ha pasado? —dijo, y se odió un poco por necesitar decirlo.
 
-Riley no lo miró con pena. Se agachó junto a Elenna y puso una mano abierta sobre su espalda, sin sujetarla.
+Bonnie no lo miró con pena. Se agachó junto a Elenna y puso una mano abierta sobre su espalda, sin sujetarla.
 
 —Sí.
 
@@ -63,7 +63,7 @@ No caminó hacia la niña como si pudiera simplemente tomarla. Se quitó los zap
 
 Cuando Elenna volvió a mirarla, a Chiara se le quebró una risa breve.
 
-Riley inclinó la cabeza hacia la niña.
+Bonnie inclinó la cabeza hacia la niña.
 
 —Es mamá, mi amor.
 
@@ -71,11 +71,11 @@ Chiara cerró los ojos un instante. Cuando los abrió, la sonrisa le salió comp
 
 —Hola, tesoro.
 
-Elenna no entendió las palabras. Miró la cara de Riley primero, buscando la lectura que siempre encontraba ahí. Riley siguió con la mano en su espalda. No la empujó. No la llamó. Sólo se quedó donde estaba.
+Elenna no entendió las palabras. Miró la cara de Bonnie primero, buscando la lectura que siempre encontraba ahí. Bonnie siguió con la mano en su espalda. No la empujó. No la llamó. Sólo se quedó donde estaba.
 
-La niña se puso de pie con el cuidado torpe de quien todavía negocia con sus propias piernas. Se balanceó una vez. Kal dio un paso sin querer, pero Riley levantó los ojos hacia él y él se detuvo.
+La niña se puso de pie con el cuidado torpe de quien todavía negocia con sus propias piernas. Se balanceó una vez. Kal dio un paso sin querer, pero Bonnie levantó los ojos hacia él y él se detuvo.
 
-Elenna caminó dos pasos hacia Chiara y se detuvo. Miró la cara de Riley. Luego la de aquella mujer arrodillada frente a ella, con los brazos quietos y los ojos llenos de agua.
+Elenna caminó dos pasos hacia Chiara y se detuvo. Miró la cara de Bonnie. Luego la de aquella mujer arrodillada frente a ella, con los brazos quietos y los ojos llenos de agua.
 
 Chiara no la llamó. Bajó la mirada un segundo y empezó a tararear.
 
@@ -89,13 +89,13 @@ Elenna inclinó la cabeza. No dejó de dudar, pero dio un paso más. Luego otro,
 
 El primer diente apenas se asomaba abajo, blanco y ridículo contra aquella sonrisa enorme.
 
-Chiara la apretó contra sí con una urgencia que se corrigió sola. Aflojó los brazos. Dejó que Elenna tuviera sitio para girar la cara hacia Riley. La niña lo hizo. Riley estaba ahí, de rodillas ahora, con los ojos brillantes y una sonrisa que no pedía nada.
+Chiara la apretó contra sí con una urgencia que se corrigió sola. Aflojó los brazos. Dejó que Elenna tuviera sitio para girar la cara hacia Bonnie. La niña lo hizo. Bonnie estaba ahí, de rodillas ahora, con los ojos brillantes y una sonrisa que no pedía nada.
 
-—Está bien —dijo Riley, aunque nadie le había preguntado.
+—Está bien —dijo Bonnie, aunque nadie le había preguntado.
 
 Chiara respiró contra el cabello de su hija.
 
-Elenna dejó de buscar a Riley. La mano que tenía cerrada en el cuello de la blusa de Chiara se abrió. Tocó la mandíbula de su madre con dos dedos húmedos, seria de repente, estudiándole la cara como si quisiera aprenderla.
+Elenna dejó de buscar a Bonnie. La mano que tenía cerrada en el cuello de la blusa de Chiara se abrió. Tocó la mandíbula de su madre con dos dedos húmedos, seria de repente, estudiándole la cara como si quisiera aprenderla.
 
 Chiara no la besó ni insistió. Se quedó quieta para que Elenna pudiera seguir mirándola.
 
@@ -111,9 +111,9 @@ La mano era más grande de lo que recordaba y mucho más firme. Sus dedos se cer
 
 Algo en el pecho de Kal cedió sin ruido.
 
-Chiara levantó la vista. No estaba pidiéndole que dijera nada. Tenía a Elenna en brazos, Riley a su lado y el silencio de la sala alrededor. Kal entendió que no había nada que arreglar esa noche. Ni una puerta que asegurar, ni una versión que poner a salvo antes del amanecer.
+Chiara levantó la vista. No estaba pidiéndole que dijera nada. Tenía a Elenna en brazos, Bonnie a su lado y el silencio de la sala alrededor. Kal entendió que no había nada que arreglar esa noche. Ni una puerta que asegurar, ni una versión que poner a salvo antes del amanecer.
 
-Se inclinó hacia ellas y las abrazó con cuidado. A Chiara por los hombros. A Elenna sin apartarle la mano del dedo. Riley puso la palma entre los omóplatos de la niña, como lo había hecho mil veces y como tendría que hacerlo todavía algunas más.
+Se inclinó hacia ellas y las abrazó con cuidado. A Chiara por los hombros. A Elenna sin apartarle la mano del dedo. Bonnie puso la palma entre los omóplatos de la niña, como lo había hecho mil veces y como tendría que hacerlo todavía algunas más.
 
 Kal apoyó la boca en el cabello de Elenna.
 
@@ -121,7 +121,7 @@ Kal apoyó la boca en el cabello de Elenna.
 
 La niña no respondió. Se distrajo con el botón de la camisa de Kal y quiso arrancárselo.
 
-Riley soltó una risa baja. Chiara se rio también, con la cara húmeda. Kal dejó que Elenna tirara del botón todo lo que quisiera.
+Bonnie soltó una risa baja. Chiara se rio también, con la cara húmeda. Kal dejó que Elenna tirara del botón todo lo que quisiera.
 
 La cámara seguía junto a la ventana. La luz de la sala seguía encendida. Afuera, un limón cayó sobre la tierra con un golpe leve que nadie oyó.
 
@@ -129,5 +129,5 @@ La cámara seguía junto a la ventana. La luz de la sala seguía encendida. Afue
 
 - Guía y canon de origen: [[07_Ideas/Escenas_Guia/El_Regreso_De_Elenna]].
 - Marco de salida y función de *Cuentas de Sangre*: [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]].
-- El apego de Elenna a Riley sigue vivo; el texto no convierte el reencuentro en reconocimiento instantáneo ni desplaza a Riley de su vínculo cotidiano.
+- El apego de Elenna a Bonnie sigue vivo; el texto no convierte el reencuentro en reconocimiento instantáneo ni desplaza a Bonnie de su vínculo cotidiano.
 - La nana sólo usa el estribillo canónico; melodía y letra completa siguen pendientes.

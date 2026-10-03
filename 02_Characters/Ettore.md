@@ -39,9 +39,9 @@ Desde entonces, Chiara vive en San Aurelio y Ettore permanece en Palermo. El ví
 
 ### Su función en *Voto de Ceniza* — presencia usada como espejismo
 
-**CANON DE DISEÑO (arquitectura de la entrega de Elenna).** Durante la planificación para sacar a Elenna de San Aurelio, Chiara le dice a Kal algo equivalente a *"yo me encargaré de que haya alguien de confianza al otro lado"* — sin nombrar a nadie. Tanto Kal como el lector pueden asumir razonablemente que se refiere a Ettore, el único contacto de confianza en Italia que ambos ya conocen. **La suposición no se corrige en ningún momento antes de la entrega.** Cuando Kal lleva a Elenna a la pista clandestina, la figura que la recibe es **Riley Bennett**, no Ettore — la revelación es simultánea para Kal y para el lector. Ver [[02_Characters/Elenna_Mercer]] y [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]].
+**CANON DE DISEÑO (arquitectura de la entrega de Elenna).** Durante la planificación para sacar a Elenna de San Aurelio, Chiara le dice a Kal algo equivalente a *"yo me encargaré de que haya alguien de confianza al otro lado"* — sin nombrar a nadie. Tanto Kal como el lector pueden asumir razonablemente que se refiere a Ettore, el único contacto de confianza en Italia que ambos ya conocen. **La suposición no se corrige en ningún momento antes de la entrega.** Cuando Kal lleva a Elenna a la pista clandestina, la figura que la recibe es **Bonnie García**, no Ettore — la revelación es simultánea para Kal y para el lector. Ver [[02_Characters/Elenna_Mercer]] y [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]].
 
-Ettore funciona aquí como **la respuesta plausible que el texto nunca confirma ni desmiente** — su credibilidad como figura de confianza en Italia es lo que hace funcionar el giro hacia Riley. Eso no significa que esté descartado de cualquier participación real: simplemente no se ha escrito ninguna.
+Ettore funciona aquí como **la respuesta plausible que el texto nunca confirma ni desmiente** — su credibilidad como figura de confianza en Italia es lo que hace funcionar el giro hacia Bonnie. Eso no significa que esté descartado de cualquier participación real: simplemente no se ha escrito ninguna.
 
 ## Método
 
@@ -58,7 +58,7 @@ No tiene un método narrativo activo: no opera, no investiga, no protege física
 
 - [[02_Characters/Chiara_Bellandi]] — la crió tras la muerte de Marta y la caída pública de Corrado. Es la única persona a la que ella le escribe cartas reales, sin filtrar.
 - [[02_Characters/Corrado_Ardizzone]] — amigo de origen, previo a la redada. Presente en el momento de su caída; recibió de él una comunicación privada que Chiara no escuchó. Si sabe que Corrado vive: **PENDIENTE, no inventar.**
-- [[02_Characters/Elenna_Mercer]] / [[02_Characters/Riley_Bennett]] — Ettore es la suposición plausible y nunca confirmada de Kal y del lector sobre quién recibe a Elenna en Italia; la respuesta real es Riley.
+- [[02_Characters/Elenna_Mercer]] / [[02_Characters/Bonnie_Garcia]] — Ettore es la suposición plausible y nunca confirmada de Kal y del lector sobre quién recibe a Elenna en Italia; la respuesta real es Bonnie.
 
 ## Preguntas abiertas
 

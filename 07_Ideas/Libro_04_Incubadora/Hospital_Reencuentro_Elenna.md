@@ -37,7 +37,7 @@ dispares por mí" / "Sobre todo debes llamar por esa razón"; la broma cruel sob
 molesta; "Puedo estar molesta con ella y aun así no voy a dejar al amor de mi vida sola en una
 situación así" / "Auch, creí que yo era el amor de tu vida" / "Te degradaron a segundo, bello" /
 "Va bene, va bene"; "Ciao, amore mio"; la fotografía de *Tres Hermanas* junto al florero, dejada
-por Marisol, con las flores de Riley; Rex durmiendo en la cama pese a su tamaño. Lo que sigue
+por Marisol, con las flores de Bonnie; Rex durmiendo en la cama pese a su tamaño. Lo que sigue
 añade puesta en escena, cuerpo y ritmo alrededor de ese esqueleto ya fijado.
 
 **Referencia visual:** ![[99_Reference/chapter_concepts/Reencuentro_Elenna.png|480]] — calibra
@@ -142,7 +142,7 @@ Lo dijo con la misma calma con la que antes le había acercado el vaso de agua, 
 voz ni cambiar el tono.
 
 Fue entonces cuando notó la fotografía, apoyada contra un florero pequeño en la mesa del rincón
-— la última que se habían tomado las tres, Riley y Marisol a los lados, ella al centro, todas
+— la última que se habían tomado las tres, Bonnie y Marisol a los lados, ella al centro, todas
 mirando a la cámara de un mesero que ninguna conocía. Kal siguió la dirección de su mirada.
 
 —La foto es de Marisol.
@@ -153,7 +153,7 @@ mirando a la cámara de un mesero que ninguna conocía. Kal siguió la direcció
 
 —¿Y las flores?
 
-—Riley. Los tallos están parejos.
+—Bonnie. Los tallos están parejos.
 
 No hacía falta preguntar más. Los conocía.
 
@@ -257,13 +257,13 @@ Y por primera vez desde el disparo, Elenna cerró los ojos sin quedarse pendient
 > [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro|escena faro 2]] — se usaron literales o casi
 > literales, incluida la cadena "Puedo estar molesta contigo... / Auch... / segundo, bello... /
 > Va bene, va bene". La función (HOGAR, no investigación), la fotografía de *Tres Hermanas*
-> dejada por Marisol, las flores de Riley, y Rex durmiendo en la cama vienen de la misma fuente.
+> dejada por Marisol, las flores de Bonnie, y Rex durmiendo en la cama vienen de la misma fuente.
 > Es también la primera aparición física de Kal y Chiara ante Elenna desde que ella entró a la
 > academia — todo el libro anterior de la duología ocurrió por llamadas (Kal) y cartas (Chiara).
 
 > **DISEÑO, ejecución de esta y la sesión anterior, revisable:** el mecanismo completo de la
 > confusión con el capitán Voss, el orden de reconstrucción sensorial del cuarto al despertar, la
-> deducción foto/Marisol y flores/Riley resuelta ahora como intercambio corto en vez de análisis
+> deducción foto/Marisol y flores/Bonnie resuelta ahora como intercambio corto en vez de análisis
 > elaborado, los gestos de preocupación silenciosa de Kal (vaso de agua, revisión de los dedos
 > bajo el vendaje, la broma extendida sobre Chiara), el gesto mínimo de Rex al reconocer a
 > Chiara, los beats de pareja veinte años después (silla ya acercada, respuesta del café

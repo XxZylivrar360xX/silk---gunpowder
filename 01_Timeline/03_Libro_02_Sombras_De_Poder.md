@@ -146,7 +146,7 @@ exige que ese uso cotidiano siga presente.
   tiene posición suficiente. **PENDIENTE DE RECONCILIACIÓN:** ubicación del cobro y contenido
   exacto de la amenaza, sin prolongar el cierre hacia la Villa.
 - **Componente Villa:** se separa temporalmente; reconstrucción en Parte II, después del día
-  Mei-Lin/Riley. H8 conserva su ID y título de referencia, pero ya no es un bloque continuo.
+  Mei-Lin/Bonnie. H8 conserva su ID y título de referencia, pero ya no es un bloque continuo.
 
 El collar y la caja de acero sobreviven según H8; no salvan el hogar. **El piano de pared** (regalo de Kal por Año Nuevo) también sobrevive, porque lo entregaron por error en el penthouse y no en el loft (CANON DEL AUTOR, 2026-09-26).
 
@@ -172,7 +172,7 @@ incendio cierra la Parte; ni Mei-Lin ni Villa Candelaria ocupan ese cierre.
 ### Función macro
 
 Kal y Chiara pierden lugares y personas, pero empiezan a descubrir que reconstruir no
-significa reemplazar. Mei-Lin muere, Riley tiene que irse, Nadir queda herido y el loft ya no
+significa reemplazar. Mei-Lin muere, Bonnie tiene que irse, Nadir queda herido y el loft ya no
 existe. Kal responde intentando construir una nueva casa, nuevos recuerdos y una promesa de
 futuro.
 
@@ -202,7 +202,7 @@ ni mecanismos nuevos.
 
 ### F2 — una macrofractura, dos destinos, un mismo día
 
-**CANON DEL AUTOR:** la ejecución de Mei-Lin y el destierro de Riley ocurren **el mismo día**,
+**CANON DEL AUTOR:** la ejecución de Mei-Lin y el destierro de Bonnie ocurren **el mismo día**,
 dentro de una crisis. F2 conserva su identidad; F2-A y F2-B sólo distinguen componentes
 internos, no nuevos hitos. No hay intervalo de días ni semanas.
 
@@ -212,43 +212,43 @@ pasiva. Kal y Chiara no conocen esa causalidad todavía. La revelación concluye
 **Varek–Volpi** sigue reservada para *Cuentas de Sangre* (Libro IV).
 
 En esta Parte se descubre definitivamente la filtración real. Mei-Lin no entró para destruir
-El Patio: valora a Kal, quiere a Riley y encuentra hogar en La Almendra, pero teme más a Varek
+El Patio: valora a Kal, quiere a Bonnie y encuentra hogar en La Almendra, pero teme más a Varek
 de lo que confía en que Kal pueda protegerla. **Los quería + los traicionó + tenía miedo.** No
 es villana ni queda absuelta.
 
-Riley y Mei-Lin viven juntas en La Almendra. La amistad crece por casa, horarios, barrio,
+Bonnie y Mei-Lin viven juntas en La Almendra. La amistad crece por casa, horarios, barrio,
 autos, rutinas y pertenencia al grupo joven.
 
 - **F2-A / Mei-Lin:** costa, junto al mar. Cree que participan en una entrega de mercancía, no
   espera una ceremonia. Ejecución limpia; **Nadir dispara por detrás y llora**. Kal carga la
   decisión y Nadir el acto.
-- **F2-B / Riley, ese mismo día:** su conflicto propio obliga a sacarla de San Aurelio / El
+- **F2-B / Bonnie, ese mismo día:** su conflicto propio obliga a sacarla de San Aurelio / El
   Patio para evitar otra muerte. El conflicto exacto sigue pendiente. Se conserva la salida
-  norte → Nueva York → Italia. Mei-Lin se queda y muere; Riley vive porque se va.
+  norte → Nueva York → Italia. Mei-Lin se queda y muere; Bonnie vive porque se va.
 
-El destierro no es premio: Riley pierde a Mei-Lin, La Almendra, Chiara, su red cotidiana,
+El destierro no es premio: Bonnie pierde a Mei-Lin, La Almendra, Chiara, su red cotidiana,
 ciudad, identidad habitual y la vida que construía. Su futuro papel con Elenna es payoff de
 esa vida propia, nunca causa del destierro.
 
 > **PENDIENTE antes de redactar F2:** información exacta filtrada, frecuencia, daño y hecho
-> que delata a Mei-Lin; conflicto específico de Riley. No resolverlos por conveniencia.
+> que delata a Mei-Lin; conflicto específico de Bonnie. No resolverlos por conveniencia.
 
 ### Consecuencias: Chiara, Nadir y Kal
 
 Chiara carga ya con Matteo, la distancia de Fabrizio, Tommaso, la ausencia temporal de Kal y
-el loft. Ahora pierde a Mei-Lin definitivamente y a Riley para evitar otra muerte, en un solo
+el loft. Ahora pierde a Mei-Lin definitivamente y a Bonnie para evitar otra muerte, en un solo
 día.
 
 Nadir sigue leal y trabajando, puede justificar que era necesario, pero aparece una de las
 primeras grietas profundas entre la persona y el miembro de la organización.
 
-Kal autoriza la muerte, la hace ejecutar mediante Nadir, obliga a Riley a irse y ve el daño
+Kal autoriza la muerte, la hace ejecutar mediante Nadir, obliga a Bonnie a irse y ve el daño
 sobre Chiara, Nadir y El Patio. **Empieza a sobrecompensar:** cuando no puede reparar una
 herida, intenta construir algo bueno junto a ella.
 
 ### Villa Candelaria — reconstrucción deliberada
 
-**Después del incendio y después del día Mei-Lin/Riley**, [[05_Locations/La_Villa|Villa
+**Después del incendio y después del día Mei-Lin/Bonnie**, [[05_Locations/La_Villa|Villa
 Candelaria]] se adquiere / funda / convierte en hogar. El loft fue hogar descubierto; la Villa
 es hogar escogido conscientemente después de la pérdida.
 
@@ -269,9 +269,9 @@ Viendo a Kal a lo lejos, bajo el arco de flores, con el atardecer de fondo, Chia
 
 - **Por qué es la primera vez:** tras su matrimonio con [[02_Characters/Alessio_Lusardi|Alessio]] había decidido no volver a creer en el amor, ni enamorarse, ni casarse. A Alessio no lo amó así. *Roma Atrii* (Libro I, Cap. 38) fue cifrado, juego, algo dicho de lado; aquí se lo admite a sí misma, sin disfraz y en presente, por primera vez en su vida.
 - **La ironía (canon):** Kal ya lleva el anillo guardado en la billetera. Chiara cree que Kal no quiere casarse; Kal cree que ella no quiere volver a casarse por su matrimonio anterior. Los dos quieren. Tono: divertido, no angustioso.
-- **Encaje:** el anillo en la billetera presupone la joyería con Héctor (PENDIENTE, fuera de página) antes de esta boda. Stavanger paga la ironía.
+- **Encaje:** el anillo en la billetera sale del robo de la joyería (ver abajo), antes de esta boda. Stavanger paga la ironía.
 
-> **CANON DEL AUTOR (2026-09-29) — la siembra:** Mabel le dice la frase a Chiara **después del destierro de Riley (F2)**, cuando Chiara cae en depresión. Para sacarla de ahí, le encarga la planeación de la boda. La boda es, para Chiara, trabajo de recuperación antes que evento social. PENDIENTE: escena, lugar y cuánto después de F2.
+> **CANON DEL AUTOR (2026-09-29) — la siembra:** Mabel le dice la frase a Chiara **después del destierro de Bonnie (F2)**, cuando Chiara cae en depresión. Para sacarla de ahí, le encarga la planeación de la boda. La boda es, para Chiara, trabajo de recuperación antes que evento social. PENDIENTE: escena, lugar y cuánto después de F2.
 
 > **PENDIENTE:** capítulo exacto; quién oficia; si Chiara toca el anular izquierdo en ese instante (su tic, ver [[02_Characters/Chiara_Bellandi]]); si el lector ve la billetera en esta escena o sólo en Stavanger.
 
@@ -281,14 +281,27 @@ La propuesta ocurre en **Noruega / Stavanger**. **CANON DEL AUTOR (2026-09-26):*
 propuesta nace de claridad, no de culpa.** Kal quiere seguir eligiendo a Chiara y construir
 futuro con ella. No propone convertirla en Mercer ni absorber su identidad.
 
-La [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego|incubadora]] conserva su prosa como
-propuesta sin aprobar: su viejo disparador exigía la caída previa de Silas, ahora situada en
-Parte III. **PENDIENTE DE RECONCILIACIÓN**, sin adelantar esa caída ni inventar otro
-detonante.
+**CANONIZADO (2026-10-02, decisión del autor):** el capítulo [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]]
+sale de la incubadora y entra al manuscrito del Libro II (BORRADOR; número pendiente). Canon:
+**Stavanger es la ciudad de origen de Kal**; su madre, **Ingrid**, murió hace once años; su tío
+materno, **Henrik Solberg**, guarda las cartas y la única foto de los dos. Chiara presencia la
+revelación. Propuesta con la línea de Anya. **Elenna se concibe en este viaje** (no se señala).
+Su viejo disparador exigía la caída previa de Silas, ahora situada en Parte III: **sigue
+PENDIENTE DE RECONCILIACIÓN**, sin adelantar esa caída ni inventar otro detonante.
+
+### El robo de la joyería — CANON DEL AUTOR (2026-10-02)
+
+Sustituye "la joyería con Héctor" como compra fuera de página.
+
+- **Qué es:** un robo a una joyería, con **Héctor, Danny y Nadir**. Siembra el anillo y el momento sin quitarle la premura del crimen. Antes de la boda de Mabel y Walt (el anillo ya va en la billetera).
+- **La persecución:** la más temeraria de San Aurelio en los últimos quince años.
+- **La salida:** autos señuelo salen por cada salida del sistema de túneles / metro / drenaje de San Aurelio mientras ellos salen por el acceso oculto que da al Hipódromo / Monarch.
+- Encaja con la tesis del libro: el anillo del compromiso es también un crimen del ascenso de Kal.
+- **PENDIENTE (autor):** capítulo y Parte; si Chiara sabe de dónde salió el anillo (y si antes o después de Stavanger); quién conoce el acceso oculto al Hipódromo/Monarch y desde cuándo (implica infraestructura de Chiara o del casino); qué más se llevan, si algo. El sistema de túneles no existe todavía en `05_Locations/`: crear ficha cuando se fije.
 
 ### Condición de salida — Parte II
 
-- Mei-Lin está muerta; Riley está fuera de San Aurelio y encaminada hacia Italia.
+- Mei-Lin está muerta; Bonnie está fuera de San Aurelio y encaminada hacia Italia.
 - Nadir sigue dentro, con una grieta nueva. El loft ya no existe.
 - Villa Candelaria empieza a ser / ya es su nuevo hogar.
 - Kal y Chiara han ido a Noruega y están comprometidos.
@@ -326,7 +339,56 @@ Chiara puede perder al padre de su hija antes de que él siquiera sepa que exist
 casa` precede a la operación; Kal lucha por volver sin saber que ya son tres. Casa significa
 volver a Chiara, a ellos y al futuro compartido, no sólo a un edificio.
 
-### Reveal del embarazo y coda
+### Cierre del Libro II: reveal en la chimenea — CANON DEL AUTOR (2026-10-02)
+
+> **SUPERSEDE** la coda de la llegada de Halbrook (pasó al Cap. 50b del Libro I) y precisa la regla anterior: el reveal ocurre la misma noche de H1, **después de dormir**.
+
+- **Dónde:** planta baja de [[05_Locations/La_Villa|Villa Candelaria]], frente a la chimenea, **sólo a la luz del fuego.** Desde la Villa se ve San Aurelio: la mitad de los rascacielos y la mitad de los suburbios del sur (CANON DEL AUTOR).
+- **Secuencia (CANON DEL AUTOR):**
+  1. Kal despierta de noche; Chiara no está en la cama. Baja a buscarla.
+  2. La encuentra de pie frente a la chimenea, con las manos juntas por delante, a la altura del vientre, sólo viendo el fuego. (Regla: manos juntas frente al fuego; no escribir "sobre su vientre".)
+  3. Kal toma del sillón la manta de ella; de la manta cae un papel, el mismo de sus cartas (canela y vainilla). **Kal lo levanta: tirón de la herida al agacharse.**
+  4. Le pone la manta en los hombros, por detrás. Mira el papel: *"¿Quién es Elenna?"* (primera vez que el lector conoce el nombre del tic; lo dice el padre).
+  5. Chiara: *"Antes era sólo un nombre."* (línea definitiva; se retiró "hoy creo que es algo más que un nombre").
+  6. Kal no entiende; parpadea lento, dos veces.
+  7. Chiara: *"Sono incinta."* Kal lo entiende sin traducción: tiene ya el vocabulario de la vida compartida (pago del italiano de comodidad, desde el Cap. 8 del Libro I). Sin glosa.
+  8. Kal: *"Voy... vamos a ser..."*; la carga en un abrazo y **se marea** (se desangró durante minutos en H1); la baja de inmediato por el tirón de la herida: *"¡Mierda!"*.
+  9. Chiara, entre la felicidad y la preocupación: *"¡Kal!"*. Se miran y hablan en silencio. Después sólo se abrazan, lento.
+  10. **Kal mira hacia la ciudad**: sus prioridades acaban de reajustarse y él todavía no lo entiende (no se enuncia; lo cumple la mirada). **Última imagen del libro**; nada después.
+- **La postal (intención, no texto):** *una esperanza en camino perseguida por la máxima expresión de la violencia en el mundo.* El libro del ascenso y los crímenes de Kal cierra en la víspera de una guerra en San Aurelio con un brillo en medio: Elenna.
+- **Bookend con el Libro I (DISEÑO, no enunciar):** el I cierra con la oscuridad que llega; el II, con la única luz que no depende de nadie, el fuego, en la casa construida después de que el loft ardiera.
+- **Rima a futuro (DISEÑO, no enunciar):** en esa misma chimenea se destruyen después las fotografías de Elenna ([[12_Craft_Policies/revelations/SAGA_LEVEL]]). El lugar donde el nombre se dice por primera vez es donde luego se quema su rastro.
+
+### El nombre en cursiva — CANON DEL AUTOR (2026-10-02)
+
+- A lo largo del Libro II, **Chiara escribe un nombre en cursiva** en su papel de canela y vainilla ([[02_Characters/Chiara_Bellandi]]), como si verlo en el papel le respondiera por qué lo escribió en primer lugar. **El texto nunca revela lo escrito.** Se repite como un tic, sin mucho foco.
+- Paga en la chimenea: Kal lee el nombre en voz alta. Chiara no lo dice.
+- **Empieza antes de que Chiara sepa que está embarazada** (DISEÑO aprobado 2026-10-02): al principio ella de verdad no sabe por qué lo escribe, así que su POV no oculta nada; cuando lo sabe, el tic sigue igual.
+- **Significado (CANON DEL AUTOR, 2026-10-02):** mezcla de dos lecturas. *Elena/Helena*, "la que resplandece": la luz en la oscuridad de la violencia de la ciudad, contraste directo con la tesis de *Sombras de Poder*. Y *Elenna*, "hacia las estrellas": guiño a [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/20_El_Mirador|Cap. 20, El mirador]] ("el único lugar de la ciudad donde se ven las estrellas"; el padre de Chiara y las constelaciones, "el único mapa que nadie podía cambiarme de sitio"; Kal rompe ahí su regla y habla de Dale y Ruth: "Es una familia rota. La que yo tengo."; Chiara lo guarda "como algo que un día, si la vida se lo permitía, iba a devolverle en otra forma"). **Regla:** el significado no se dice en el Libro II; lo cumplen el fuego, la colocación del tic y, en relectura, el mirador. Nada de diccionarios ni explicaciones.
+- **El tic va atado al ritual de las velas (CANON DEL AUTOR, 2026-10-02; supersede el anclaje "después de cada golpe de sombra"):** Chiara escribe el nombre cada vez que Kal sale y corre riesgos por "su trabajo", junto a la vela ([[04_Concepts/Fe_y_Velas]]). Nace con el ritual, en F4: la primera vela es la primera vez que escribe el nombre. Junto a la oración, el lector lo lee como devoción.
+  - DISEÑO pendiente de aprobación: **lo quema en la vela** cada vez, salvo una: ya sabiendo del embarazo, lo dobla y lo guarda; es el papel que cae de la manta. La vela puede aparecer seguido; la cámara sólo atrapa el papel 4–5 veces, elegidas entre las noches de mayor riesgo para Kal.
+  - Tabla anterior (SUPERADA 2026-10-02; se conserva como referencia de escalada):
+  1. Tras un crimen de Kal que ella conoce o en el que participa (Parte I): al margen de un documento de Garrett, en espera al teléfono; lo tacha.
+  2. Tras el incendio del loft: en cursiva, en su papel de canela y vainilla; lo rompe en tiras.
+  3. Tras la pérdida de Mei-Lin o de Bonnie (Parte II): lo arruga y lo tira; falla al cesto y lo recoge.
+  4. Cuando Dario empieza a cobrar la cuenta abierta, rumbo a H1, ya sabiendo del embarazo (sin marcarlo): lo dobla y lo guarda.
+  5. H1: ese papel es el que cae de la manta en la chimenea.
+  Reglas: 4–5 apariciones, nunca dos capítulos seguidos; la palabra nunca se ve; separar el tic de las señales del embarazo (comida, cigarro) por capítulo. Colocación exacta por fijar cuando exista el mapa capítulo a capítulo.
+- **Concepción en Stavanger (CANON DEL AUTOR, 2026-10-02):** las apariciones del tic anteriores al viaje preceden a la hija misma; "Antes era sólo un nombre." es literal. Rima de saga con el hangar de *Camino a Casa* ("mi historia empezó en un aeropuerto así"): ver [[02_Characters/Elenna_Mercer]].
+- PENDIENTE (autor): de dónde le sale el nombre a Chiara.
+
+### El embarazo se le oculta al lector — CANON DEL AUTOR (2026-10-02)
+
+> **SUPERSEDE** la ironía dramática de H1 en primera lectura ("Chiara puede perder al padre de su hija antes de que él siquiera sepa que existe" deja de ser información del lector): **el lector descubre el embarazo al mismo tiempo que Kal, en la chimenea.** Dentro de la historia Chiara sigue sabiéndolo antes de H1; el texto lo protege. La ironía de H1 pasa a cobrar en relectura.
+
+- **Señales mínimas, sin foco (CANON DEL AUTOR):** llega tarde a reuniones; se fija más en lo que come; deja de beber y de fumar de golpe y lo justifica con que Kal le dijo que era malo. Detalles sueltos, nunca juntos en una misma página.
+  - El pretexto del cigarro ya está sembrado en el Libro I, Cap. 50 ("No me veas así. Lo digo porque me importas."): la excusa es creíble porque el lector la vio nacer.
+  - Regla (DISEÑO aprobado 2026-10-02): el vino es parte de su identidad (viñedos, catas, la botella de H16). Rechazar una copa en una ocasión marcada sería una pista demasiado visible; mejor que deje de beber donde nadie lo anota.
+- **El disfraz (DISEÑO aprobado por el autor, 2026-10-02):** Chiara quiere contarle a Kal "otra cosa", y el lector cree que el secreto es esa otra cosa. Candidato natural (DISEÑO): **la cuenta abierta con Dario** (Libro I, Cap. 47; Kal no la sabe). Es un secreto real, pesado y con fecha de cobro rumbo a H1: el lector lo tiene presente y no busca otro.
+- **Regla de POV (DISEÑO):** en los capítulos con POV de Chiara, su interioridad no miente; esquiva. Puede pensar en "lo que tiene que decirle" sin nombrarlo, y el lector lo carga a la deuda de Dario. Nada de rodeos artificiales que delaten que el narrador oculta algo; vale la misma regla que la de Harper en *Cuentas de Sangre* ([[02_Characters/Warren_Halbrook]], "Regla de POV").
+- **H1:** "Perché ti amo con tutto il mio cuore" se conserva tal cual, sola (CANON DEL AUTOR, ratificado 2026-10-02); en primera lectura suena a declaración de amor y en relectura carga a la hija.
+
+### Reveal del embarazo y coda (versión anterior, SUPERADA 2026-10-02)
 
 Después de H1, con Kal fuera de peligro, después de dormir y recuperar una mínima normalidad
 doméstica. **No durante hemorragia, atención médica, baño ni pico emocional.**
@@ -335,7 +397,9 @@ La coda se mantiene: un helicóptero aterriza en una instalación militar del á
 Aurelio; **Warren Halbrook llega físicamente**. Sin presentación pública ni exposición
 extensa. Fin del Libro II, antes del nacimiento de Elenna y antes de la guerra abierta.
 
-> **SEMILLA CANÓNICA DEL AUTOR (2026-09-28), colocación pendiente — el evento benéfico:** Chiara organiza o preside un evento benéfico; Halbrook aparece como nuevo benefactor. Chiara conoce primero al hombre (conversación y un baile) y después el nombre, cuando Kenji los presenta; reacción mínima. Primer duelo Chiara–Halbrook y primera entrada de Halbrook al circuito cívico (no presentarlo como campaña). Debe caer antes o después de su llegada física según decida el autor. Ver [[02_Characters/Warren_Halbrook]].
+> **SUPERADO EN PARTE (2026-10-02, CANON DEL AUTOR):** Halbrook ya llegó físicamente en el Cap. 50b del Libro I; la coda del Libro II queda por redefinir. **Su siguiente aparición en prosa es la gala de beneficencia de Chiara, con el baile.**
+>
+> **SEMILLA CANÓNICA DEL AUTOR (2026-09-28) — el evento benéfico:** Chiara organiza o preside un evento benéfico; Halbrook aparece como nuevo benefactor. Chiara conoce primero al hombre (conversación y un baile) y después el nombre, cuando Kenji los presenta; reacción mínima. Primer duelo Chiara–Halbrook y primera entrada de Halbrook al circuito cívico (no presentarlo como campaña). Debe caer antes o después de su llegada física según decida el autor. Ver [[02_Characters/Warren_Halbrook]].
 
 ---
 
@@ -350,7 +414,7 @@ extensa. Fin del Libro II, antes del nacimiento de Elenna y antes de la guerra a
   después → FIN**.
 - **II / EXILIO:** **el día después del incendio: sin casa, entre las cenizas** [canon 2026-09-26] → ~~Año Nuevo / F4~~ [movido a I] → F3 (distancia precisa pendiente) →
   organización y consecuencias → descubrimiento de Mei-Lin → **mismo día: ejecución de Mei-Lin
-  por Nadir + destierro de Riley** → consecuencias en Kal / Chiara / Nadir / El Patio (depresión de Chiara; Mabel le dice su frase y le encarga planear la boda) →
+  por Nadir + destierro de Bonnie** → consecuencias en Kal / Chiara / Nadir / El Patio (depresión de Chiara; Mabel le dice su frase y le encarga planear la boda) →
   reconstrucción / **Villa Candelaria** → nuevas memorias → **boda de Mabel y Walt (terraza del Monarch; frase de Mabel, "Te amo.")** → **Noruega / Stavanger / anillo** →
   futuro elegido.
 - **III / TORNA A CASA:** conflicto final creciendo → Silas Crowe (mecanismo pendiente) →
@@ -365,7 +429,7 @@ extensa. Fin del Libro II, antes del nacimiento de Elenna y antes de la guerra a
 | Loft (Libro I) | Hogar descubierto casi accidentalmente. |
 | Incendio | Incluso el hogar puede desaparecer. |
 | Año Nuevo (antes del incendio) | Separados: Kal elige volver; el piano se salva del fuego. *(Brújula anterior "hogar son solamente ellos dos" SUPERSEDIDA 2026-09-26.)* |
-| Mei-Lin / Riley | La familia elegida también puede reducirse. |
+| Mei-Lin / Bonnie | La familia elegida también puede reducirse. |
 | Villa Candelaria | Hogar reconstruido deliberadamente. |
 | Stavanger / anillo | Futuro elegido. |
 | Parte III / embarazo | Hogar se transforma en familia. |
@@ -392,7 +456,7 @@ nacimiento de Elenna, antes de la Guerra de los Tres abierta, con Halbrook reci�
   de la mentira de la fuga de gas.
 - ~~Encaje logístico de Washington/Anya con F4~~ RESUELTO 2026-09-26 (separados). Resuelto también: Anya sabe del patrón Halbrook; la conversación reparadora y la vela salen de la incursión para Dario. Parte II abre el día después del incendio; Ren Wei fabricó el cargamento. Pendiente: hora de llegada de Kal; cuándo pasa Ren de radar a integración.
 - Distancia fina F4 → F3 → F2.
-- Conflicto propio de Riley; frecuencia y nivel de daño de la filtración de Mei-Lin.
+- Conflicto propio de Bonnie; frecuencia y nivel de daño de la filtración de Mei-Lin.
 - Logística de adquisición/obra de Villa Candelaria.
 - Dependencia antigua caída de Silas → Stavanger: requiere reconciliación expresa (el viejo
   disparador de la incubadora exigía la caída previa de Silas, ahora situada en Parte III).

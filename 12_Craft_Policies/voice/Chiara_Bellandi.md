@@ -18,6 +18,7 @@ Version, nombre, favor, discrecion, publico, privado, conveniente, suficiente. E
   - **Hector:** siempre "Hector", por lo que Hector significa para Kal.
   - **Kal:** recibe "tesoro" como todos **hasta que se formalizan** (Cap. 34). Despues: "amore", "amore mio" y "carino" en casa, y en el ritual "Ciao, bellissimo" (Cap. 35). Nunca "Ciao, bello".
 - **Uso dramatico:** en el Cap. 42, despues de "Nada", ella se despide de Kal con "Ciao, tesoro": vuelve a ser uno mas. Ninguno lo comenta.
+- **Excepcion del arco final (CANON DEL AUTOR, 2026-10-03):** del Cap. 43 al 49 Chiara no dice "Ciao" a nadie; se calla su firma desde la despedida del 42. Vuelve en el Cap. 50 con "Ciao, tesoro" al valet, y despues llega "Ciao, bella" de Kal. Es deliberado: la microedicion no debe "devolverle" el saludo en 43-49 ni quitar el del valet. Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]] (Q22).
 
 ## Lo que nunca dice
 

@@ -145,9 +145,9 @@ La guerra debe producir fenómenos que ninguno de los tres ordenó. San Aurelio 
 
 Chiara entra a Voto de Ceniza (Libro II) **ya embarazada**. La Guerra de los Tres no produce el embarazo ni ocurre porque exista Elenna: invade una vida doméstica que Kal y Chiara ya habían empezado a imaginar durante Parte II.
 
-La siguiente cadena es una referencia histórica supersedida en la posición de F2 por [[00_Biblia/00_Trilogy_Structure]]: Riley ya está establecida en Italia al abrir Voto de Ceniza. Para el orden operativo vigente, consultar [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]] y [[06_Relationships/Hitos]].
+La siguiente cadena es una referencia histórica supersedida en la posición de F2 por [[00_Biblia/00_Trilogy_Structure]]: Bonnie ya está establecida en Italia al abrir Voto de Ceniza. Para el orden operativo vigente, consultar [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]] y [[06_Relationships/Hitos]].
 
-`inicio de la guerra → F2 / destierro de Riley → Riley establecida en Italia como Riley Colombo → nacimiento de Elenna → detonante pendiente → muerte pública falsa → Elenna Serra con Riley → separación de sus padres`.
+`inicio de la guerra → F2 / destierro de Bonnie → Bonnie establecida en Italia como Bonnie Colombo → nacimiento de Elenna → detonante pendiente → muerte pública falsa → Elenna Serra con Bonnie → separación de sus padres`.
 
 El detonante concreto que vuelve imposible conservar a Elenna en San Aurelio sigue pendiente. Debe surgir de la escalada, la exposición creciente y la imposibilidad de proteger a una bebé sin convertirla en objetivo; no puede ser un incidente agregado sólo para moverla a Italia.
 
@@ -157,7 +157,7 @@ La maniobra conserva las tres capas de verdad:
 |---|---|
 | San Aurelio / versión pública | La hija de Kal Mercer y Chiara Bellandi murió durante o alrededor del parto |
 | Círculo íntimo, todavía por fijar | Elenna vive; la lista y el momento de conocimiento permanecen pendientes |
-| Realidad | Vive en Italia como Elenna Serra bajo el cuidado cotidiano de Riley |
+| Realidad | Vive en Italia como Elenna Serra bajo el cuidado cotidiano de Bonnie |
 
 Ni Dario Varek ni Warren Halbrook conocen que sobrevivió. La guerra no se simplifica a una operación para “salvar a la bebé”: Elenna puede cumplir su función sin estar físicamente en peligro en escena. Su poder narrativo es la vida que continúa en otro lugar mientras sus padres terminan la guerra.
 

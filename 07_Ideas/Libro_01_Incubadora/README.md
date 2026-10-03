@@ -4,9 +4,11 @@
 >
 > **OBJETIVO:** desarrollar, fuera del manuscrito y de `00_Book_Map.md`, material especulativo para el tramo tardío de *Máscaras de Cristal* que todavía no tiene lugar fijo en `00_Biblia/00_Trilogy_Structure.md` (que ya no reconoce la antigua "Parte IV"). Sirve para discutir y madurar ideas antes de decidir si se integran al Libro I, se mueven a otro libro de la trilogía, o se descartan.
 
+> **2026-10-02:** el único contenido de esta incubadora, el capítulo de Stavanger, se **canonizó** y se movió al manuscrito del Libro II: [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]]. La carpeta queda como incubadora para material futuro; lo de abajo es historial.
+
 ## Contenido
 
-1. [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] — borrador de capítulo completo: viaje de Kal (POV único) y Chiara a Stavanger tras la caída (diseñada) de Silas Crowe; encuentro con un familiar noruego (nombre y parentesco provisionales); revelación completa del origen de Kal, con Chiara presente y enterada; propuesta de matrimonio. Decisiones de posición y de canon ya tomadas por el autor (2026-09-19) documentadas en su propio encabezado.
+1. [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]] — borrador de capítulo completo: viaje de Kal (POV único) y Chiara a Stavanger tras la caída (diseñada) de Silas Crowe; encuentro con un familiar noruego (nombre y parentesco provisionales); revelación completa del origen de Kal, con Chiara presente y enterada; propuesta de matrimonio. Decisiones de posición y de canon ya tomadas por el autor (2026-09-19) documentadas en su propio encabezado.
 
 ## Estado de la integración (actualizado 2026-09-19)
 

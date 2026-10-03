@@ -24,7 +24,7 @@ Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces 
 
 ## 2026-09-20 — Frontera IV/V y reconstrucción en Exilio
 
-**CANON DEL AUTOR:** incendio cierra IV; F4 abre V; F4 → F3 → F2 (Mei-Lin/Nadir y Riley el mismo día) → Villa → Stavanger/anillo. VI: embarazo/H1/reveal y familia futura; Elenna física en Libro II. [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]].
+**CANON DEL AUTOR:** incendio cierra IV; F4 abre V; F4 → F3 → F2 (Mei-Lin/Nadir y Bonnie el mismo día) → Villa → Stavanger/anillo. VI: embarazo/H1/reveal y familia futura; Elenna física en Libro II. [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]].
 
 ## 2026-09-20 — Títulos del Libro I
 

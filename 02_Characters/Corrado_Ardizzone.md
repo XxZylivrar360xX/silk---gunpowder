@@ -115,7 +115,7 @@ No es un personaje de campo. Su técnica es institucional y lenta: erosión pol�
 > **PENDIENTE:** qué información exacta ofrece a Kal la mañana de su reveal.
 > **PENDIENTE:** cuándo puede Chiara verlo médicamente después del atentado; su primera reacción exacta (abrazo, rechazo o inmovilidad).
 > **PENDIENTE:** el recuerdo específico de Chiara con Corrado sobre constelaciones, reservado en [[05_Locations/El_Mirador]].
-> **PENDIENTE:** cuándo se entera de que su nieta (Elenna) está viva, y si conoce a Riley antes del final.
+> **PENDIENTE:** cuándo se entera de que su nieta (Elenna) está viva, y si conoce a Bonnie antes del final.
 > **PENDIENTE:** qué relación queda entre Corrado y Kal, y si Corrado vive con ellos, cerca de ellos o mantiene casa propia al cierre de la trilogía.
 
 ---

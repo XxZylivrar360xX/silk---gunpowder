@@ -8,7 +8,7 @@
 **Nacionalidad:** pendiente (no se fija en el Cap. 15).
 **Edad al abrir la novela:** **veinte años (borrador Cap. 15)** — usada en prosa; el autor puede ajustarla.
 **Oficio:** estudiante de derecho. **CAMBIO DE CARRERA (2026-08-29):** reemplaza la carrera de ciencias ambientales / ecología de campo del borrador original del Cap. 15 (ya corregido en prosa). Le quedan **seis meses antes de empezar las estadías**.
-**Rol:** secundaria — **con arco fijado a protagonista en Parte 3** (ver más abajo).
+**Rol:** secundaria, con arco largo: penalista en Rivers & Krane, después la fiscalía y, al final, fiscal de distrito (ver más abajo).
 **Alias:** pendiente.
 **Estado:** viva.
 
@@ -112,13 +112,16 @@ En esa misma escena queda sembrado el resto del plan:
 - La madre de Sam, su amiga de clase, es **fiscal de distrito** y busca becarios para el otoño — si Marisol queda, sería en San Aurelio, lo que le permitiría ver a Kal (y aparecer en la novela) con mucha más frecuencia.
 - Kal le ofrece, medio en broma, que sea su abogada. **Ella rechaza** — no va a defender "al importantísimo señor Kal Mercer" con menos de seis meses de experiencia. Establece su carácter: prudente, consciente de sus límites, sin dejarse llevar por el cariño de Kal hacia decisiones que no está lista para tomar.
 
-**En Parte 2:** Kal compra un bufete, asociándose con otro abogado (personaje todavía sin crear).
+> **Bufete (CANON DEL AUTOR, 2026-10-02):** [[03_Factions/Rivers_y_Krane]]. Kal es socio mayoritario y el bufete se forma después del Libro I.
+>
+> **Trayectoria legal (CANON DEL AUTOR, 2026-10-02):** entra a [[03_Factions/Rivers_y_Krane]] y destaca como una de las mejores penalistas, discípula de [[02_Characters/Giancarlo_Krane]]; tanto, que Kal le ofrece ser socia nominal. Cuando en *Voto de Ceniza* le llega la plaza de paralegal en la fiscalía, la toma: es el camino que, unos veinte años después, en la era de Elenna, la lleva a fiscal de distrito ([[07_Ideas/Tres_Hermanas_Epilogo]]). Elige la fiscalía por ser lo más consistente con quién es, y eso cuida su independencia frente a los Mercer.
+>
+> Plan anterior retirado: [[97_Supersedido/Marisol_Abogada_Principal_Del_Bufete]].
 
 **Cap. 39 — Un par de días más (corregido 2026-09-21, encargo del autor; [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/39_Un_Par_De_Dias_Mas]]):** recibe a Kal en Kingsley Field, de día, vuelo comercial. Mira detrás de él y registra la maleta única. Es la única que no cree la versión de la villa, sin presionar: pregunta cómo estuvo, recibe "Largo" y cambia de tema. Comida, universidad, prácticas y humor; no vuelve a interrogarlo. Terminó clases, busca prácticas; Sam insiste en que solicite con su madre, fiscal de distrito; sigue mirando opciones sin ubicación resuelta. Lleva comida, comparten helado y se quedan en silencio en el balcón mirando La Almendra. Kal concede "Palermo fue más complicado de lo que anticipé." Corte inmediato: no hay reacción ni gesto posterior.
 
-**En Parte 3:** ese socio se marcha, y **Marisol entra como abogada principal del bufete** — pasa de secundaria a **personaje protagónico**, representando a la gente de La Almendra en los conflictos legales y arrestos que les toquen. Es el pago narrativo de todo lo sembrado en el Capítulo 14: la carrera, los seis meses, la negativa a defender a Kal sin experiencia.
 
-> **PENDIENTE:** nombre y ficha del socio de Kal en el bufete (Parte 2), y la razón por la que se marcha. Nombre del bufete. Escena exacta en que Marisol toma el mando.
+> **PENDIENTE:** en qué libro entra Marisol a Rivers & Krane y en qué escena le ofrece Kal ser socia nominal.
 
 **La graduación (2026-08-30):** al terminar las estadías, Kal lleva a Chiara como su acompañante a la graduación — uno de los momentos de mayor orgullo de su vida. Ocurre después del primer encuentro entre Marisol y Chiara en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21_El_Primer_Huesped|Capítulo 21, «La promesa»]]. La recogida ya está redactada en [[07_Ideas/La_Graduacion_De_Marisol]]; falta construir el resto.
 

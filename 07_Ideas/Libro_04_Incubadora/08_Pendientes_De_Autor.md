@@ -38,7 +38,9 @@
 
 > **RESUELTO (2026-09-16):** ficha de ubicación creada — [[05_Locations/Presa_Del_Sur]]: represa masiva con mirador público y una instalación subterránea de desfogue/gestión (sin función narrativa asignada todavía). Familia/trasfondo de Erin: clase trabajadora, padres separados, autosuficiente desde joven. Ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]].
 
-> **RESUELTO (2026-09-16):** reacciones mixtas — Riley y Marisol reciben la relación con calidez inmediata (ya conocían y querían a Erin); Nicholas necesita más tiempo, no por prejuicio sino porque apenas reconstruye su propia idea de familia. Ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]].
+> **RESUELTO (2026-09-16):** reacciones mixtas — Bonnie y Marisol reciben la relación con calidez inmediata (ya conocían y querían a Erin); Nicholas necesita más tiempo, no por prejuicio sino porque apenas reconstruye su propia idea de familia. Ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]].
+
+> **PENDIENTE (abierto 2026-10-02):** Erin es hija de [[02_Characters/Victor_Reyes]] (CANON DEL AUTOR). Falta decidir qué sabe cada quien, si Victor aparece en la duología y qué función tiene el parentesco frente a Elenna, hija de Kal.
 
 ## Volpi
 
@@ -54,9 +56,9 @@
 
 > **RESUELTO (2026-09-16):** el parentesco de Elenna con Kal/Chiara **nunca se aclara públicamente, y ya no importa** — veinte años después la ciudad tiene otras preocupaciones; quienes preguntan reciben silencio educado de la familia. No hay versión oficial fabricada ni misterio activo que sostener en prosa.
 
-## Riley / Marisol
+## Bonnie / Marisol
 
-> **RESUELTO (2026-09-16):** Elenna convoca una conversación explícita para darles la noticia de la academia con cuidado, sabiendo que les va a doler — no lo minimiza ni lo deja para que se enteren solas. Marisol se recusa de forma **total y automática** de cualquier caso conectado al Departamento de Elenna, sin excepciones — más estricto que la regla informal ya existente ("no me cuentes nada que no podrías decir delante de otro fiscal"), que queda como la conducta cotidiana previa a la recusación formal. El conflicto de sobreprotección entre Riley y Elenna nace de que **Elenna oculta el riesgo real de un incidente** — la discusión es sobre honestidad, no solo sobre control. Ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]].
+> **RESUELTO (2026-09-16):** Elenna convoca una conversación explícita para darles la noticia de la academia con cuidado, sabiendo que les va a doler — no lo minimiza ni lo deja para que se enteren solas. Marisol se recusa de forma **total y automática** de cualquier caso conectado al Departamento de Elenna, sin excepciones — más estricto que la regla informal ya existente ("no me cuentes nada que no podrías decir delante de otro fiscal"), que queda como la conducta cotidiana previa a la recusación formal. El conflicto de sobreprotección entre Bonnie y Elenna nace de que **Elenna oculta el riesgo real de un incidente** — la discusión es sobre honestidad, no solo sobre control. Ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]].
 
 ## Cameos Kal / Chiara
 

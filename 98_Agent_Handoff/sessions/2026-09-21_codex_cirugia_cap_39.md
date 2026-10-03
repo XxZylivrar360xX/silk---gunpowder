@@ -402,7 +402,7 @@ Confirma una distracción al otro lado del perímetro en la ventana comunicada, 
 
 ## Protecciones y verificación
 
-Orden de escenas, POV Kal, título y BORRADOR intactos. Protegidos: vuelo comercial, maleta, villa, Riley, carrera/Ruta de Milla/seis, Héctor, mensaje completo de Halbrook, hombres de Kal sin los de Dario, armas, prácticas abiertas, comida, loft, balcón y La Almendra. No se cuenta Palermo ni se diseña el disturbio. Sin canon nuevo.
+Orden de escenas, POV Kal, título y BORRADOR intactos. Protegidos: vuelo comercial, maleta, villa, Bonnie, carrera/Ruta de Milla/seis, Héctor, mensaje completo de Halbrook, hombres de Kal sin los de Dario, armas, prácticas abiertas, comida, loft, balcón y La Almendra. No se cuenta Palermo ni se diseña el disturbio. Sin canon nuevo.
 
 ## Autocrítica
 

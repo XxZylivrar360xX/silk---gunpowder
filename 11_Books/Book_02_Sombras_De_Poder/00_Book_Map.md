@@ -43,7 +43,7 @@ la policía por Tommaso Lusardi esa misma tarde — abre este libro.
 ## Punto de salida
 
 Al final, Kal y Chiara siguen juntos. El Patio ha sobrevivido su primer enfrentamiento abierto
-serio (H1); Chiara está embarazada y Kal ya lo sabe. Han perdido a Mei-Lin y a Riley, perdido
+serio (H1); Chiara está embarazada y Kal ya lo sabe. Han perdido a Mei-Lin y a Bonnie, perdido
 el loft, reconstruido en Villa Candelaria y se han comprometido en Stavanger. Warren Halbrook
 acaba de llegar físicamente a San Aurelio. La guerra todavía no ha explotado, pero ya es
 inevitable — eso pertenece a *Voto de Ceniza*.
@@ -63,7 +63,7 @@ sobrevivan — como individuos y como pareja — a haberlo ganado.
 | Personaje | Empieza en | Presión principal | Decisión clave | Termina en |
 |-----------|------------|-------------------|-----------------|------------|
 | Kal Mercer | Recién liberado de Camp Alder, todavía viéndose como "un hombre que resuelve problemas" | Cada solución genera más territorio, dependencias y enemigos | Aceptar, sin ceremonia, que se ha vuelto el jefe de una organización reconocida | Padre en camino, dueño de un poder que casi le cuesta la vida en H1 |
-| Chiara Bellandi | Reconciliada con Kal, absorbiendo las sillas que Matteo y Tommaso dejan vacías | Ayudar a Kal a sobrevivir puede convertirlo en lo que ella conoce el precio de ser | Crecer como operadora propia, no como estratega auxiliar del ascenso de Kal | Embarazada, comprometida, habiendo perdido a Mei-Lin y a Riley |
+| Chiara Bellandi | Reconciliada con Kal, absorbiendo las sillas que Matteo y Tommaso dejan vacías | Ayudar a Kal a sobrevivir puede convertirlo en lo que ella conoce el precio de ser | Crecer como operadora propia, no como estratega auxiliar del ascenso de Kal | Embarazada, comprometida, habiendo perdido a Mei-Lin y a Bonnie |
 
 ## Fuerzas de presión
 
@@ -71,8 +71,9 @@ sobrevivan — como individuos y como pareja — a haberlo ganado.
 |--------|------------|----------------|------------|
 | El Patio en expansión | Crecer con cada problema que Kal resuelve | Cada favor genera una obligación nueva | Kal ya no puede resolver problemas sin acumular poder |
 | Dario Varek | Mantener el control territorial mientras Kal crece dentro de su estructura | Reúne, empuja o favorece una coalición contra el crecimiento de Kal | El choque de H1 ya no puede leerse como incidente aislado |
-| La pérdida (Mei-Lin, Riley, el loft) | Cobrar el costo del crecimiento de Kal | Le quita a Chiara y a Kal personas y lugares, uno por uno | Sobrecompensar construyendo (Villa, Stavanger) no borra la pérdida |
-| Warren Halbrook (fuera de escena) | Cobrar la deuda de la liberación de Kal | Presión invisible durante todo el libro; llegada física al cierre | El pasado militar de Kal nunca terminó de pagarse |
+| Chiara contra el dinero de Dario (CANON DEL AUTOR, 2026-10-02) | Que el Monarch deje de depender del efectivo sucio de Dario | Contrata a [[02_Characters/Garrett_Cross|Garrett]] como contador; con [[02_Characters/Giancarlo_Krane|Krane]] limpia el flujo de inyección de efectivo al casino y empieza a aislar a Dario en finanzas | Mientras ella le debe una cuenta abierta (Libro I, Cap. 47), le corta la llave del dinero |
+| La pérdida (Mei-Lin, Bonnie, el loft) | Cobrar el costo del crecimiento de Kal | Le quita a Chiara y a Kal personas y lugares, uno por uno | Sobrecompensar construyendo (Villa, Stavanger) no borra la pérdida |
+| Warren Halbrook | Cobrar la deuda de la liberación de Kal | Presión invisible; ya está en San Aurelio (llegó en el Cap. 50b del Libro I). **Primera aparición en prosa del libro: la gala de beneficencia de Chiara, con el baile** (CANON DEL AUTOR, 2026-10-02) | El pasado militar de Kal nunca terminó de pagarse |
 
 ---
 
@@ -83,8 +84,8 @@ Desarrollo completo, Parte por Parte, en [[01_Timeline/03_Libro_02_Sombras_De_Po
 | Parte | Función | Cierra en |
 |---|---|---|
 | I — Nieve y Ceniza | Reconciliación completa, asesinato de Tommaso, organización de Kal (Ren Wei), Navidad y el collar RETORNA A CASA | Incendio del loft |
-| II — Exilio | Año Nuevo/F4, F3, F2 (Mei-Lin y Riley el mismo día), reconstrucción en Villa Candelaria, compromiso en Stavanger | Futuro elegido, pareja comprometida |
-| III — Torna a Casa | Conflicto final (Silas Crowe, coalición de Dario), embarazo confirmado, H1 | Reveal del embarazo + coda: Halbrook llega a San Aurelio |
+| II — Exilio | Año Nuevo/F4, F3, F2 (Mei-Lin y Bonnie el mismo día), reconstrucción en Villa Candelaria, robo de la joyería (el anillo), compromiso en Stavanger ([[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]], canonizado 2026-10-02; origen de Kal; concepción de Elenna) | Futuro elegido, pareja comprometida |
+| III — Torna a Casa | Conflicto final (Silas Crowe, coalición de Dario), embarazo confirmado, H1 | Reveal del embarazo esa misma noche de H1, en la chimenea de Villa Candelaria, sólo a la luz del fuego; el libro acaba ahí (CANON DEL AUTOR, 2026-10-02; ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "Cierre del Libro II"). Siembra: Chiara escribe en cursiva un nombre que no se revela |
 
 ## Capítulos
 

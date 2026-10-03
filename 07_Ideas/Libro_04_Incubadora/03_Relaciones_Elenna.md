@@ -12,7 +12,7 @@ Su eje ya aprobado es:
 
 La academia/policía pone a prueba estructura, pertenencia, rutina y autoridad.
 
-> **CANON DEL AUTOR (2026-09-16) — el anuncio:** Elenna convoca una conversación explícita para darles la noticia de la academia a Riley y Marisol, con cuidado, sabiendo que les va a doler — no lo minimiza en una cena de pasada ni deja que se enteren por otra vía primero.
+> **CANON DEL AUTOR (2026-09-16) — el anuncio:** Elenna convoca una conversación explícita para darles la noticia de la academia a Bonnie y Marisol, con cuidado, sabiendo que les va a doler — no lo minimiza en una cena de pasada ni deja que se enteren por otra vía primero.
 
 ---
 
@@ -59,11 +59,11 @@ No necesita llamarla constantemente para demostrar afecto. Puede dar espacio y l
 
 ---
 
-## Riley Ardizzone
+## Bonnie Ardizzone
 
 ### Reacción a la academia
 
-Riley procesa la decisión desde la **persona**, no desde la institución.
+Bonnie procesa la decisión desde la **persona**, no desde la institución.
 
 Su pregunta no es sólo “¿por qué policía?” sino “¿qué estás buscando al entrar ahí?”.
 
@@ -73,11 +73,11 @@ Línea de diseño:
 
 > **“No entres porque necesitas que algo te obligue a quedarte.”**
 
-Riley no es madre sustituta ni instructora táctica.
+Bonnie no es madre sustituta ni instructora táctica.
 
 ### Qué aporta
 
-Riley lee habitaciones y cambios humanos:
+Bonnie lee habitaciones y cambios humanos:
 
 - quién dejó de hablar;
 - quién mira la puerta;
@@ -87,15 +87,15 @@ Riley lee habitaciones y cambios humanos:
 
 No son “trucos policiales”. Son hábitos de supervivencia y gestión humana.
 
-Riley enseña indirectamente a preguntar:
+Bonnie enseña indirectamente a preguntar:
 
 > **¿Qué cambió cuando entré?**
 
 ### Fricción
 
-> **CANON DEL AUTOR (2026-09-16):** el conflicto concreto que las hace discutir por sobreprotección nace de que **Elenna oculta el riesgo real de un incidente** — Riley lo descubre después, y la discusión es sobre honestidad, no solo sobre control.
+> **CANON DEL AUTOR (2026-09-16):** el conflicto concreto que las hace discutir por sobreprotección nace de que **Elenna oculta el riesgo real de un incidente** — Bonnie lo descubre después, y la discusión es sobre honestidad, no solo sobre control.
 
-Riley probablemente lleve peor que Marisol la exposición física de Elenna.
+Bonnie probablemente lleve peor que Marisol la exposición física de Elenna.
 
 Puede escribirle al terminar turnos:
 
@@ -107,7 +107,7 @@ Elenna puede confrontarla:
 
 > **“No soy una habitación de hotel que tienes que revisar antes de cerrar.”**
 
-Riley:
+Bonnie:
 
 > **“No. Eres peor. Una habitación me avisa cuando algo está roto.”**
 
@@ -233,6 +233,8 @@ Mejor amiga de Elenna desde antes de que ella entrara al Departamento. Le da a E
 
 ### Familia y trasfondo (CANON DEL AUTOR, 2026-09-16)
 
+> **CANON DEL AUTOR (2026-10-02):** Erin es hija de [[02_Characters/Victor_Reyes]], agente de Meridian que en la saga principal desmonta la red humana de Kal. **PENDIENTE:** si el padre separado del trasfondo es Victor (lectura natural, no confirmada), qué sabe Erin de su trabajo, si Elenna lo sabe y qué función tiene el parentesco en el arco.
+
 Erin viene de una familia de clase trabajadora, con padres separados. Se financió sus propios viajes desde joven (fotografía, trabajos temporales) — es autosuficiente por necesidad, no por elección estética. Explica por qué pudo quedarse en San Aurelio sin depender de nadie cuando Elenna decidió volver.
 
 ### Origen (CANON DEL AUTOR, 2026-09-16)
@@ -253,7 +255,7 @@ Erin está enamorada de Elenna desde hace tiempo y nunca lo ha dicho. Es la úni
 
 ### Reacción del círculo a la reconciliación (CANON DEL AUTOR, 2026-09-16)
 
-Reacciones mixtas: Riley y Marisol reciben la relación con calidez inmediata — ya conocían y querían a Erin de antes. Nicholas necesita más tiempo para procesarlo, no por prejuicio, sino porque apenas está reconstruyendo su propia idea de familia (ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]]).
+Reacciones mixtas: Bonnie y Marisol reciben la relación con calidez inmediata — ya conocían y querían a Erin de antes. Nicholas necesita más tiempo para procesarlo, no por prejuicio, sino porque apenas está reconstruyendo su propia idea de familia (ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]]).
 
 ### Referencia de tono
 
@@ -285,7 +287,7 @@ Rasgos de comportamiento fijados, funcionan como termómetro emocional del repar
 La fotografía final del epílogo *Tres Hermanas* puede reaparecer junto a la cama de hospital de Elenna.
 
 - Marisol la deja recargada sobre un florero junto a la cama.
-- Riley deja las flores.
+- Bonnie deja las flores.
 - La imagen sirve como prueba de que Elenna ya tiene un círculo de protección en San Aurelio antes de que Kal/Chiara lleguen.
 
-No debe implicar que Riley/Marisol reemplazan a Kal/Chiara; muestra que Elenna construyó vida propia.
+No debe implicar que Bonnie/Marisol reemplazan a Kal/Chiara; muestra que Elenna construyó vida propia.

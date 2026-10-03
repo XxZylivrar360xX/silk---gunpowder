@@ -207,7 +207,7 @@ Resultado de cruzar el Libro I con [[00_Biblia/00_Trilogy_Structure]] y [[01_Tim
 | **Ren Wei / cocaína** (umbral de categoría) | Metadata del 35–37: "no introducido" + **Cap. 37 (BORRADOR 2026-09-26)** | **Cubierta.** Opción (a): "La muevo; no la vendo. Y en la Almendra, nunca.", en la escena de Danny. Respeta H16. Ren Wei la rompe dos veces: Kal pasa a proveedor de la isla y el producto llega al barrio. |
 | **Irene y Tomás Vale** | 17 + 32 (decidido) | Resuelto con 5-ter y las siembras de costo. |
 | **Nadir: lealtad y capacidad de actuar** (F2, Nadir dispara y llora) | Nadir cómico y leal | Falta un momento de la Parte II o III donde Nadir haga algo duro por el grupo y le cueste. Así el disparo de F2 no sale de la nada. **Resuelto 2026-09-27 (D50):** no se añade en el Libro I; el 30 y el 32 no lo cubren y el 43 sólo lo roza. Queda para el Libro II. |
-| **Riley y Mei-Lin** (amigas que viven juntas en la Almendra) | 37–39, siembras funcionales | Falta un gesto de amistad entre ellas, no sólo de trabajo. |
+| **Bonnie y Mei-Lin** (amigas que viven juntas en la Almendra) | 37–39, siembras funcionales | Falta un gesto de amistad entre ellas, no sólo de trabajo. |
 | **Tommaso** | Muy sembrado | Sin laguna. |
 | **Volpi** | 35, 41 | Suficiente. |
 | **Loft como hogar vivido** (para que el incendio duela) | 10, 36 | Bien. Conviene que 36–43 muestren rutina doméstica, no sólo espacio. |
@@ -291,7 +291,7 @@ Mapa: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]]. 
 |---|---|---|
 | P1 | Anya en el Monarch | **Escrita (E9), BORRADOR/DISEÑO hasta lectura del autor.** Cap. 35, cuarta sección, POV Chiara. Sin nombre; línea "No vengo a cobrar nada, Ojos azules. Todavía."; Kal: "Alguien de antes." Queda en el 35, no en 36–37 (Q13) |
 | P2 | Casi-confesión del 36 (hilo A) | **Resuelta sin prosa nueva:** ya existía (la ceja, el silencio, la verdad chica alrededor de "Sin duda alguna"); protegida |
-| P3 | Riley y Mei-Lin como amigas | **Aplicada (E7):** el 37 ya sembraba; gesto de +13 palabras en el 39 (cafés), sin diálogo |
+| P3 | Bonnie y Mei-Lin como amigas | **Aplicada (E7):** el 37 ya sembraba; gesto de +13 palabras en el 39 (cafés), sin diálogo |
 | P4 | Penthouse o loft como pregunta; rutina doméstica | **Resuelta sin prosa nueva:** existe en 36–43; protegida |
 
 **Ritual del *Ciao*:** la búsqueda de E4 confirmó 35 (nace), 36 (llamada de la noche), 41 ("Ciao, bella" / "Ciao"), 42 ("Ciao, tesoro" y la mano quieta), 43 (los labios sin sonido) y 44 (cierre). Nada choca; nada se podó.

@@ -43,6 +43,10 @@ Garrett escala cuando [[03_Factions/El_Patio]] deja de ser favores, grúas y car
 
 La relación con [[02_Characters/Chiara_Bellandi]] se vuelve peligrosa porque ambos entienden el relato, pero desde ángulos opuestos: ella limpia versiones; él limpia papeles.
 
+**CANON DEL AUTOR (2026-10-02) — *Sombras de Poder*:** Chiara contrata a Garrett como su contador. Con [[02_Characters/Giancarlo_Krane|Krane]] es pieza clave para empezar a aislar financieramente a [[02_Characters/Dario_Varek|Dario]]: limpia el flujo de inyección de efectivo al Monarch para que el casino deje de depender del dinero sucio de Dario.
+
+**Química con Chiara (DISEÑO aprobado por el autor, 2026-10-02):** respeto de oficio, no calidez. Él respeta a quien no le pide que mienta en papel ni presume lo que no sabe; ella respeta a quien no actúa. Gestos: se quita los lentes (fotofobia) sólo cuando algo importa (Cap. 46, cuando Chiara toma el teléfono de Marisol). Cap. 47: le entrega la carpeta gris de "lo que tiene su nombre cerca del de él" —lo que sólo hacía para Kal— y es el único del Patio que conoce la forma de la cuenta abierta con Dario ("Entonces tampoco por mí"). Juego de palabras de una sola vez: "Yo cuento números, señora. Lo otro lo cuenta usted." Mantener la fricción: Garrett anota todo, incluida ella.
+
 ---
 
 ## Método
@@ -72,6 +76,7 @@ Con ayuda de Chiara, usa el casino como una zona de niebla narrativa: apuestas, 
 
 - [[02_Characters/Kal_Mercer]] — administra activos donde Kal no puede aparecer.
 - [[02_Characters/Chiara_Bellandi]] — colabora con ella en el casino para blanquear dinero a través del relato de apuestas y mesas.
+- [[02_Characters/Giancarlo_Krane]] — en *Sombras de Poder*, socio operativo de Chiara para aislar a Dario en finanzas.
 - [[03_Factions/Cross_River_Consolidated]] — empresa donde concentra activos, participaciones y negocios visibles.
 - [[03_Factions/El_Patio]] — cara financiera/legal de la red.
 - [[02_Characters/Russell_Whitaker]] — contraparte política. Si Russ abre puertas públicas, Garrett decide qué entra por ellas.

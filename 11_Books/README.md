@@ -14,7 +14,7 @@ Cada libro debe tener su propia carpeta, un `00_Book_Map.md` y carpetas de parte
 > III y Libro IV.
 
 - `Book_01_Mascaras_De_Cristal/` - Libro I, novela activa en montaje. Termina en el **Cap. 44** ("Ciao, bella", cierre de la Parte III — Ardizzone), no en H1. Roadmap: [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]].
-- `Book_02_Sombras_De_Poder/` - Libro II — Sombras de Poder *(working title)*, nuevo. Absorbe las antiguas Partes IV-VI del Libro I, ahora sus propias Partes I-III (Nieve y Ceniza, Exilio, Torna a Casa). Contiene H1, el embarazo, el incendio, Villa Candelaria, Stavanger, Riley/Mei-Lin (F2) y la llegada de Halbrook. Sin prosa; abre en el Cap. 45, todavía sin escribir. Roadmap: [[01_Timeline/03_Libro_02_Sombras_De_Poder]].
+- `Book_02_Sombras_De_Poder/` - Libro II — Sombras de Poder *(working title)*, nuevo. Absorbe las antiguas Partes IV-VI del Libro I, ahora sus propias Partes I-III (Nieve y Ceniza, Exilio, Torna a Casa). Contiene H1, el embarazo, el incendio, Villa Candelaria, Stavanger, Bonnie/Mei-Lin (F2) y la llegada de Halbrook. Sin prosa; abre en el Cap. 45, todavía sin escribir. Roadmap: [[01_Timeline/03_Libro_02_Sombras_De_Poder]].
 - `Book_03_Voto_De_Ceniza/` - Libro III (era Libro II). Solo `00_Book_Map.md` (esqueleto derivado de [[00_Biblia/00_Trilogy_Structure]]). Sin prosa; prosa bloqueada hasta cerrar los Libros I y II.
 - `Book_04_Cuentas_De_Sangre/` - Libro IV — Cuentas de Sangre (era Libro III). Solo `00_Book_Map.md` (esqueleto). Sin prosa; prosa bloqueada hasta cerrar los Libros I-III.
 

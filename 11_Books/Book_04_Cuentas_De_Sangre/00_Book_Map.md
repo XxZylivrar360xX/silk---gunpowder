@@ -24,7 +24,7 @@ El libro no trata de *descubrir* que Kal y Chiara deberían marcharse — esa de
 
 - Dario preso; Halbrook **muerto** al abrir el libro (ejecutado al cierre del Libro III; tirador desconocido; se sospecha de Kal o de Nadir). Chiara en coma; su despertar y su recuperación (hospital, rehabilitación de meses) pertenecen a este libro. *(Supersesión del autor 2026-09-28; ver [[02_Characters/Warren_Halbrook]], "Muerte".)*
 - Héctor y Kenji muertos; Harper viva; Chiara sobrevivió a Santa Lucía.
-- Elenna vive como Elenna Serra con Riley en Italia; la separación ya es larga.
+- Elenna vive como Elenna Serra con Bonnie en Italia; la separación ya es larga.
 - Corrado revelado vivo (a Kal; el encuentro con Chiara, pendiente y decisión de ella).
 - Kal y Chiara ya decidieron construir una salida; no pueden ejecutarla aún.
 - San Aurelio con un enorme vacío de poder; todos esperan saber quién gobernará.
@@ -36,7 +36,7 @@ Palermo. Casa modesta azul, molduras blancas, jardín. Chiara con una copa de vi
 > **Chiara:** —No vayas a quemar de nuevo la cocina, amore.
 > **Kal:** —No prometo nada.
 
-Esta imagen cierra el arco inmediato de Kal y Chiara. El cierre definitivo de la saga se cobra, tras un salto de aproximadamente veinte años, en [[07_Ideas/Tres_Hermanas_Epilogo|«Tres Hermanas»]]: una escena en San Aurelio donde Riley, Marisol y Elenna viven su propia historia sin requerir la presencia ni validación de ellos. Elenna tiene 21 años. Unas semanas después, una historia futura hipotética puede seguir su regreso a San Aurelio como Recluta (tratamiento: Recluta Mercer); esa posibilidad queda fuera de este libro y no altera el cierre.
+Esta imagen cierra el arco inmediato de Kal y Chiara. El cierre definitivo de la saga se cobra, tras un salto de aproximadamente veinte años, en [[07_Ideas/Tres_Hermanas_Epilogo|«Tres Hermanas»]]: una escena en San Aurelio donde Bonnie, Marisol y Elenna viven su propia historia sin requerir la presencia ni validación de ellos. Elenna tiene 21 años. Unas semanas después, una historia futura hipotética puede seguir su regreso a San Aurelio como Recluta (tratamiento: Recluta Mercer); esa posibilidad queda fuera de este libro y no altera el cierre.
 
 ## Arcos de los protagonistas
 

@@ -40,7 +40,7 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 
 ## Reglas Intocables
 
-- **SUPERSESION VIGENTE (2026-09-07, actualizada 2026-09-22):** `00_Biblia/00_Trilogy_Structure.md` manda sobre cualquier diseno anterior en alcance, fronteras entre libros, ubicacion de Riley, H1, H22, cierre de la Guerra de los Tres y apertura de Meridian/Il Consorzio. **Desde 2026-09-27 *Seda y Polvora* es el nombre de la saga**; el Libro I se llama *Mascaras de Cristal*. La saga tiene cuatro libros de arco principal (*Mascaras de Cristal*, *Sombras de Poder* [nuevo], *Voto de Ceniza*, *Cuentas de Sangre*), mas la duologia post-saga-principal (*Juramento de Hierro*, *Camino a Casa*, ahora Libro V y VI). *Mascaras de Cristal* termina en el Cap. 44 ("Ciao, bella"), no en H1; H1, el embarazo, el incendio, Riley/Mei-Lin y la llegada de Halbrook pertenecen ahora a *Sombras de Poder* (Libro II). Leer ese archivo antes de planear cualquier capitulo que toque escala de libro.
+- **SUPERSESION VIGENTE (2026-09-07, actualizada 2026-09-22):** `00_Biblia/00_Trilogy_Structure.md` manda sobre cualquier diseno anterior en alcance, fronteras entre libros, ubicacion de Bonnie, H1, H22, cierre de la Guerra de los Tres y apertura de Meridian/Il Consorzio. **Desde 2026-09-27 *Seda y Polvora* es el nombre de la saga**; el Libro I se llama *Mascaras de Cristal*. La saga tiene cuatro libros de arco principal (*Mascaras de Cristal*, *Sombras de Poder* [nuevo], *Voto de Ceniza*, *Cuentas de Sangre*), mas la duologia post-saga-principal (*Juramento de Hierro*, *Camino a Casa*, ahora Libro V y VI). *Mascaras de Cristal* termina en el Cap. 44 ("Ciao, bella"), no en H1; H1, el embarazo, el incendio, Bonnie/Mei-Lin y la llegada de Halbrook pertenecen ahora a *Sombras de Poder* (Libro II). Leer ese archivo antes de planear cualquier capitulo que toque escala de libro.
 - **CANON DEL AUTOR:** no reinterpretar, no sustituir, no "mejorar" lineas de dialogo canon.
 - **DISENO:** inferencia del agente; se puede discutir.
 - **PENDIENTE:** falta decision del autor; no rellenar por conveniencia.
@@ -62,6 +62,7 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 - `06_Relationships/Kal_y_Chiara.md`: arquitectura de la relacion.
 - `06_Relationships/Hitos.md`: hitos obligatorios del autor. **H1 se movio a Sombras de Poder (Libro II); H22 esta en Voto de Ceniza (ahora Libro III); revisar ubicaciones antes de citar.**
 - `06_Relationships/Momentos_de_Fractura.md`: conflictos que casi lo rompen todo.
+- `97_Supersedido/`: ideas y planes retirados (no canon). Al retirar un plan, moverlo ahí y dejar una línea en la ficha. Protocolo en su README.
 - `99_Reference/`: referencia externa no canon; no copiar.
 - `tools/editorial/README.md`: auditoria editorial determinista en modo `audit_only`.
 - `13_Auditorias/`: dictamenes editoriales de lectura humana (del autor), organizados por libro (`Book_01_Mascaras_De_Cristal/`, etc.); complementan, no sustituyen, la auditoria deterministica de `tools/editorial/`.

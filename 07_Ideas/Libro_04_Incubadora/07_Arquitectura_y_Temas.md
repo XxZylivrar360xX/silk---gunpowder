@@ -59,7 +59,7 @@ Antagonista:
 
 ### 2. Protección vs control
 
-Nicholas, Kal, Riley y Chiara ofrecen variaciones distintas.
+Nicholas, Kal, Bonnie y Chiara ofrecen variaciones distintas.
 
 El aprendizaje central para Nicholas:
 
@@ -111,7 +111,7 @@ Contraste deliberado:
 - departamento modesto de Elenna;
 - cartas de Chiara;
 - llamadas de Kal;
-- Riley/Marisol como hermanas adultas.
+- Bonnie/Marisol como hermanas adultas.
 
 La calidez no debe cancelar el thriller; debe explicar qué vale la pena proteger.
 

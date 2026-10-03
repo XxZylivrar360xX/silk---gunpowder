@@ -2,7 +2,7 @@
 
 ## La grieta de F2 — CANON DEL AUTOR 2026-09-20
 
-Ejecuta a Mei-Lin **el mismo día del destierro de Riley**, en Parte V, antes de Villa Candelaria. En la costa, Mei-Lin cree participar en una entrega; Nadir dispara por detrás y llora. Kal carga con la decisión, Nadir con el acto. El protector de los jóvenes mata a una de las chicas que acabó protegiendo; sin detalle táctico.
+Ejecuta a Mei-Lin **el mismo día del destierro de Bonnie**, en Parte V, antes de Villa Candelaria. En la costa, Mei-Lin cree participar en una entrega; Nadir dispara por detrás y llora. Kal carga con la decisión, Nadir con el acto. El protector de los jóvenes mata a una de las chicas que acabó protegiendo; sin detalle táctico.
 
 Es una de las primeras grietas profundas entre Nadir persona y Nadir miembro de la organización. Sigue leal, trabaja y puede justificar que era necesario; no abandona a Kal ni expresa resentimiento inmediato. Puede contribuir mucho después a su búsqueda de vida/poder fuera de esa institución, sin convertirse en causa única.
 
@@ -88,7 +88,7 @@ Lo que opera hoy:
 
 La amenaza de deportación funciona porque Nadir es el único problema que Kal no puede resolver con sus herramientas habituales: no es dinero, no es territorio, no es un favor. Es un papel.
 
-**CANON DEL AUTOR (2026-09-20) — F2, en Parte V — Exilio:** cuando la filtración de [[02_Characters/Mei_Lin_Zhao|Mei-Lin]] se descubre (ver su ficha y [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Riley y la muerte de Mei-Lin|F2]]), es **Nadir** quien la ejecuta, no Kal. Kal decide y asume la responsabilidad de la decisión; Nadir carga el acto. La escena funciona precisamente porque Nadir es el protector de todos en la Almendra, querido y respetado — no un verdugo: para entonces Mei-Lin ya es una de las chicas del barrio, no "la corredora de otra banda". Nadir llora en el momento, no después. Esto es una deuda interpersonal que puede quedar sin pronunciarse durante años, y puede sembrarse como una de las cosas que nunca desaparecen entre Nadir y Kal — sin convertirla en la única causa de una eventual separación futura entre ellos.
+**CANON DEL AUTOR (2026-09-20) — F2, en Parte V — Exilio:** cuando la filtración de [[02_Characters/Mei_Lin_Zhao|Mei-Lin]] se descubre (ver su ficha y [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Bonnie y la muerte de Mei-Lin|F2]]), es **Nadir** quien la ejecuta, no Kal. Kal decide y asume la responsabilidad de la decisión; Nadir carga el acto. La escena funciona precisamente porque Nadir es el protector de todos en la Almendra, querido y respetado — no un verdugo: para entonces Mei-Lin ya es una de las chicas del barrio, no "la corredora de otra banda". Nadir llora en el momento, no después. Esto es una deuda interpersonal que puede quedar sin pronunciarse durante años, y puede sembrarse como una de las cosas que nunca desaparecen entre Nadir y Kal — sin convertirla en la única causa de una eventual separación futura entre ellos.
 
 ---
 

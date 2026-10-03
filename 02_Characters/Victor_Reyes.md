@@ -41,6 +41,9 @@ Victor escucha dónde duele:
 - [[02_Characters/Mara_Ellison]] — convierte testigos en caso.
 - [[02_Characters/Kal_Mercer]] — amenaza su red humana.
 - [[03_Factions/Mapa_de_Conflicto_Activo]] — su terreno natural: treguas, resentimientos y bandas periféricas.
+- Erin Reyes — su hija (ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]]).
+
+> **CANON DEL AUTOR (2026-10-02):** Victor Reyes es el padre de Erin Reyes, mejor amiga y después pareja de Elenna en la duología post-saga. **PENDIENTE:** qué sabe cada uno del otro, si Victor sigue vivo o activo en esa época, qué peso tiene el parentesco en la trama y si Elenna lo sabe.
 
 ---
 

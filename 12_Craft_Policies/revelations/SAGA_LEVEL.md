@@ -12,7 +12,8 @@ Misterios o verdades que cruzan todo *Seda y Polvora* o que no pertenecen a un s
 - **Quien NO debe saberlo/insinuarlo todavia:** socios del Monarch; Dario; policia local. **Ya NO aplica a Chiara** (ver decision del autor, abajo) — la restriccion original la protegia "al inicio" del libro; deja de aplicar en el tramo de Villa Candelaria, antes de H1.
 - **Lineas o gestos prohibidos antes del reveal:** Kal explicando su origen en bloque; narrador usando el dato como resumen sentimental.
 - **Modo correcto de siembra:** rasgos nordicos sin explicacion, asco al azar, reglas sobre regalos/deudas, rechazo a que personas tengan precio, conducta ante redes de explotacion.
-- **Estado:** sembrado por conducta y ficha; reveal narrativo **diseñado, no escrito en el manuscrito todavia**. Ver [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] (BORRADOR PROPUESTO, POV Kal, Chiara presente y enterada) y [[02_Characters/Silas_Crowe]] ("El primer trato que nadie cuenta" — la caida de Silas Crowe es lo que le da a Kal la pista hacia su familia noruega). Posicion propuesta: Libro I, despues de H8 (el incendio) y antes de F2 / del embarazo confirmado. Nada de esto se integra a `00_Book_Map.md` ni a `Hitos.md` hasta que el autor apruebe el capitulo.
+- **CANONIZADO (2026-10-02, autor):** origen = Stavanger; madre Ingrid; tío Henrik Solberg. Reveal en [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]] (*Sombras de Poder*, Parte II, BORRADOR). Lo que sigue se conserva como historial; la posicion "Libro I" esta superada.
+- **Estado:** sembrado por conducta y ficha; reveal narrativo **diseñado, no escrito en el manuscrito todavia**. Ver [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]] (BORRADOR PROPUESTO, POV Kal, Chiara presente y enterada) y [[02_Characters/Silas_Crowe]] ("El primer trato que nadie cuenta" — la caida de Silas Crowe es lo que le da a Kal la pista hacia su familia noruega). Posicion propuesta: Libro I, despues de H8 (el incendio) y antes de F2 / del embarazo confirmado. Nada de esto se integra a `00_Book_Map.md` ni a `Hitos.md` hasta que el autor apruebe el capitulo.
 
 ---
 
@@ -31,10 +32,11 @@ Misterios o verdades que cruzan todo *Seda y Polvora* o que no pertenecen a un s
 
 ## Supervivencia de Elenna Mercer / Elenna Serra
 
-- **Que es:** Chiara ya sabe que está embarazada durante H1 (Libro I). Elenna nace en *Voto de Ceniza* (Libro II); para San Aurelio, la hija de Kal Mercer y Chiara Bellandi muere durante o alrededor del parto. En realidad vive en Italia como **Elenna Serra** bajo el cuidado de Riley Colombo.
+- **Que es:** Chiara ya sabe que está embarazada durante H1 (Libro I). Elenna nace en *Voto de Ceniza* (Libro II); para San Aurelio, la hija de Kal Mercer y Chiara Bellandi muere durante o alrededor del parto. En realidad vive en Italia como **Elenna Serra** bajo el cuidado de Bonnie Colombo.
 - **Estado público:** fallecida al nacer.
 - **Estado real:** viva.
 - **Quien ya lo sabe:** círculo íntimo exacto pendiente. Kal conoce el embarazo después de H1; no durante la crisis.
+- **El lector (CANON DEL AUTOR, 2026-10-02):** no sabe del embarazo hasta el reveal en la chimenea de Villa Candelaria, al cierre de *Sombras de Poder*; lo descubre con Kal. Señales mínimas sin foco y disfraz con "otra cosa" que Chiara quiere contar. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "El embarazo se le oculta al lector".
 - **Quien NO debe saberlo:** Dario Varek y Warren Halbrook no conocen su supervivencia salvo decisión explícita posterior del autor.
 - **Siembra y pagos:** embarazo doméstico en el Libro I; nacimiento, falsa muerte, separación y fotografías escasas al abrir *Voto de Ceniza* (Libro II); [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] dentro de ese mismo libro, **antes** de la caída de Dario, la montaña y Santa Lucía *(corregido 2026-09-11: no "al abrir Parte IV" — esa colocación quedó decanonizada por [[00_Biblia/00_Trilogy_Structure]])*.
 - **Evidencia:** las fotografías se destruyen en la chimenea de Villa Candelaria. El video de H22 queda inutilizable después de una reproducción por mecanismo todavía pendiente.

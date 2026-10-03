@@ -2,7 +2,7 @@
 
 > **Estado:** BORRADOR NARRATIVO solicitado por el autor (2026-09-12). Segunda escena de la apertura en flashforward de *Voto de Ceniza*.
 >
-> **Alcance:** nacimiento y los primeros minutos de Kal, Chiara y su bebé en la habitación. No muestra la falsa muerte, su mecanismo, la entrega, Riley, Italia ni la llamada del mirador.
+> **Alcance:** nacimiento y los primeros minutos de Kal, Chiara y su bebé en la habitación. No muestra la falsa muerte, su mecanismo, la entrega, Bonnie, Italia ni la llamada del mirador.
 
 Kal aprendió pronto que no había nada que hacer con las manos.
 

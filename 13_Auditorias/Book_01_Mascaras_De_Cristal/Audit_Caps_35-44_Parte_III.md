@@ -11,12 +11,12 @@
 | Etapa | Alcance | Estado | Fecha | Nota |
 |---|---|---|---|---|
 | E1 | AUDIT 35, 36, 37 y diseño de Anya | **HECHA** | 2026-09-27 | §0–§5 de 35–37, § Cronología 35–37 (recomendada la opción 1: coda al final del 36), § El 36, P1 Anya (recomendado el 35, tras 35:195), P2 (ya existe: 36:194–200), § Metadata de 35–37, D1–D16. Hallazgos no previstos: Héctor le habla de "usted" a Kal en 36; la línea canon de H16 "Sin duda alguna" aparece como "Evidentemente"; la muerte de Vento no está en prosa |
-| E2 | AUDIT 38 | **HECHA** | 2026-09-27 | §0–§5 del 38 con palabras por movimiento, § La vela, § Riley completo (37, 38, 41), pendientes del autor mapeados, D17–D28. Microedición firme ≈ −645 (→ ≈ 7,980); con el paquete P de poda profunda ≈ −1,095 (→ ≈ 7,530). **El rango 5,500–6,500 no se alcanza sin tocar inviolables o siembras.** Hallazgos no previstos: la bala "abierta en el Penthouse" contradice 541; "El Consorcio" en 551; la pierna de Héctor sin origen en prosa |
-| E3 | AUDIT 39, 40, 41 | **HECHA** | 2026-09-27 | §0–§5 de 39–41, § Riley en el 41 (firma: variación por posición de otros), P3 (37:136 ya siembra; gesto opcional en 39:111), P4 protegido, D29–D41. Microedición ≈ −280 (40 ≈ −208: **el 10–15 % no se alcanza sin cortar atmósfera que paga**). Hallazgos no previstos: la frase canon de H18 "un par de días más" (título del 39) no aparece en prosa; Ettore "vio" la Mesa sin estar; la fiesta del yate "semanas atrás" (fueron días); la llamada de las nueve del 41 no está en el 39 |
+| E2 | AUDIT 38 | **HECHA** | 2026-09-27 | §0–§5 del 38 con palabras por movimiento, § La vela, § Bonnie completo (37, 38, 41), pendientes del autor mapeados, D17–D28. Microedición firme ≈ −645 (→ ≈ 7,980); con el paquete P de poda profunda ≈ −1,095 (→ ≈ 7,530). **El rango 5,500–6,500 no se alcanza sin tocar inviolables o siembras.** Hallazgos no previstos: la bala "abierta en el Penthouse" contradice 541; "El Consorcio" en 551; la pierna de Héctor sin origen en prosa |
+| E3 | AUDIT 39, 40, 41 | **HECHA** | 2026-09-27 | §0–§5 de 39–41, § Bonnie en el 41 (firma: variación por posición de otros), P3 (37:136 ya siembra; gesto opcional en 39:111), P4 protegido, D29–D41. Microedición ≈ −280 (40 ≈ −208: **el 10–15 % no se alcanza sin cortar atmósfera que paga**). Hallazgos no previstos: la frase canon de H18 "un par de días más" (título del 39) no aparece en prosa; Ettore "vio" la Mesa sin estar; la fiesta del yate "semanas atrás" (fueron días); la llamada de las nueve del 41 no está en el 39 |
 | E4 | AUDIT 42, 43, 44, consolidación y preguntas al autor | **HECHA** | 2026-09-27 | §0–§5 de 42–44 (A22–A26, B16–B17, C58–C68), § Ciao (nada choca), § P4, § Metadata 35–44, § Balance (≈ −1,400 a −1,600), § Decisiones que necesito (Q1–Q19). **Respuesta del autor: aplicar todas las recomendaciones** (detalle en § Respuestas del autor; Anya y P3 aprobadas) |
 | E5 | SURGERY 35, 36, 37 | **HECHA** | 2026-09-27 | § 9 parte 1. Coda al final del 36 (Q1); 36 compactado, Héctor desmedicalizado y tuteando, POV limpio, "Sin duda alguna" restaurada, frase de Vento; 37 mínimo y sin "(título provisional)". Palabras: 35 2,256 → 1,897 · 36 2,462 → 2,592 (con la coda; sin ella −134) · 37 2,072 → 2,037. Finales de línea conservados (35 LF · 36 CRLF · 37 LF). **Anya: 35:194 → 35:196** (ver § 9) |
 | E6 | SURGERY 38 | **HECHA** | 2026-09-27 | § 9 parte 2. Microedición firme (D17), P2 + P4 (Q4; en P4 se conserva 231 para sostener la orden a seguridad), vela retirada, A7 (bala abierta en la casa neutral), A8/C29 ("El Consorcio" fuera), "señora" (Q9), título sin "(título provisional)". Palabras: 38 8,628 → 7,785 (−843). LF conservado. Ningún pago de 39–44 ni del Libro II roto |
-| E7 | SURGERY 39, 40, 41 | **HECHA** | 2026-09-27 | § 9 parte 3. "Un par de días más" restaurado (39 ×3, 40:312); continuidad del 40 y el 41 (Ettore, sala, vuelo, *signora*, "había llegado", "la semana anterior"); dos prolepsis y la familia "Kal lee habitaciones" podadas; Riley sin confidencia sobrante y con firma por posición de otros; P3 escrito (+13, cafés en el 39); metadata saneada (enlace roto del 39, elipsis de la llamada). C43, C56 y el paquete hondo conservados. Palabras: 39 1,988 → 1,993 · 40 5,234 → 5,003 · 41 1,966 → 1,901. LF conservado |
+| E7 | SURGERY 39, 40, 41 | **HECHA** | 2026-09-27 | § 9 parte 3. "Un par de días más" restaurado (39 ×3, 40:312); continuidad del 40 y el 41 (Ettore, sala, vuelo, *signora*, "había llegado", "la semana anterior"); dos prolepsis y la familia "Kal lee habitaciones" podadas; Bonnie sin confidencia sobrante y con firma por posición de otros; P3 escrito (+13, cafés en el 39); metadata saneada (enlace roto del 39, elipsis de la llamada). C43, C56 y el paquete hondo conservados. Palabras: 39 1,988 → 1,993 · 40 5,234 → 5,003 · 41 1,966 → 1,901. LF conservado |
 | E8 | SURGERY 42, 43, 44 y housekeeping documental | **HECHA** | 2026-09-27 | § 9 parte 4. Q19 aplicado (A22–A26, B16–B17, C58–C66), C68 cortada (Q11), "Señora" en el 44 (Q9); C67 conservada. A26 con "días antes" (F1 → llamada son tres noches, no dos). Palabras: 42 2,963 → 2,876 · 43 2,150 → 2,116 · 44 2,280 → 2,259. LF conservado. Housekeeping: Plan de cierre (Parte IV → Libro II; *Voto de Ceniza* = Libro III), premisa del Book Map, H16 en Hitos (desfase + Stella canon), BACKLOG. Pendiente para el autor: "Parte IV" en H8 de Hitos (no es simple desfase) |
 | E9 | Escena de Anya (si se aprobó) y registro final | **HECHA** | 2026-09-27 | § 9 parte 5. Anya escrita en el 35 (+573, BORRADOR/DISEÑO), costura de la salida ajustada. Registro: dictamen (AVANCE + housekeeping marcado), evaluación de arco (§ 5-septies), ficha de Anya, `PENDING.md`, brief, log, INDEX y Book Map. Parte III 31,999 → 31,032; saldo del Libro I ≈ +3,230 |
 
@@ -30,7 +30,7 @@
 
 - **35 (ALTA, por la coda).** La apertura es de las mejores de la Parte III: la nota de Matteo, la taza, el nacimiento del *Ciao* y "amore mio", la silla vacía. El único problema grande es de montaje: la coda de las invitaciones (205–225) ocurre después del 36. Lo demás es chico: un error mecánico en la descripción de la caricatura (**no hay erre en "Ciao, bella"**), un salto de POV hacia Kal (141), dos glosas de cierre de escena (153, 195) y una certificación repetida de la memoria de Chiara (157 / 177).
 - **36 (MEDIA–ALTA).** Corazón intacto y bien construido (yegua → botella → llave; P2 ya está escrito). Los problemas: **voz de Héctor** (le habla de "usted" a Kal en la primera escena y en el muelle; su ficha dice "tú", y el propio capítulo pasa a "tú" en 92); **cuatro saltos de POV** hacia Kal dentro de la parte de Chiara (118, 132, 162, 202) y una llamada que cambia de lado a mitad de escena (110–122); una **prolepsis interna** ("Encontraron a Stella —aunque todavía no tenía nombre—", 104); la apertura enseña la botella antes de que Chiara la vea (26), y así el segundo regalo pierde la sorpresa; la línea canon de H16 **"Sin duda alguna"** aparece como "Evidentemente" (192). La peripecia (muelle + persecución + susto de Héctor ≈ 760 palabras) se puede compactar sin quitarle el cuerpo de *road-movie* que el canon le pide (ver § El 36).
-- **37 (MÍNIMA).** Compacto; hace lo que tiene que hacer. Tres cosas: una **repetición funcional** ("antes / hace un año / un año atrás", 78–86–122), una **inconsistencia con el 36** (Walt dice que le "recomendó" el vino, 208; en el 36 sólo opinó sobre su significado) y el encabezado impreso **"(título provisional)"** (26). La firma de Riley se evalúa en § Riley.
+- **37 (MÍNIMA).** Compacto; hace lo que tiene que hacer. Tres cosas: una **repetición funcional** ("antes / hace un año / un año atrás", 78–86–122), una **inconsistencia con el 36** (Walt dice que le "recomendó" el vino, 208; en el 36 sólo opinó sobre su significado) y el encabezado impreso **"(título provisional)"** (26). La firma de Bonnie se evalúa en § Bonnie.
 
 ## 1. Candidatos por categoría
 
@@ -61,7 +61,7 @@ Numeración continua para todo el mapa: **A** = continuidad y mecánica; **B** =
 | B8 | 36:156 | "…mirando hacia el box vacío del remolque con una fracción de alarma real **antes de acordarse**" | Roce de POV (el "acordarse" es de Kal) | DUDOSA — CONSERVAR: la alarma es visible y "antes de acordarse" se lee por la acción siguiente ("Por aquí"). Si se toca, cortar "antes de acordarse" | (−3) |
 | B9 | 35:63 | "algo en su tono cambió, se acomodó un grado, **como quien acaba de notar algo en el silencio de antes**" | Roce de POV | Protegido: es comparación ("como quien"), no certificación; Chiara lo oye en el tono | 0 |
 
-**§L en 35–37:** no hay prolepsis de narrador hacia el futuro del libro ni de la saga. La frase de 35:43 ("con el orgullo de quien no sabe todavía que va a tener que aprender a sonar de otra forma") es memoria del POV sobre algo ya vivido: permitida. La de Danny en 37:246 ("no te avisa hasta que ya estás en el aeropuerto") es una conjetura de un personaje que el 38 vuelve ironía: permitida y protegida. Tommaso, Mei-Lin, Héctor y Riley no reciben ningún guiño hacia su destino en estos tres capítulos. El susto cardíaco de Héctor se trata en § El 36 (no es prolepsis, pero se puede leer como promesa).
+**§L en 35–37:** no hay prolepsis de narrador hacia el futuro del libro ni de la saga. La frase de 35:43 ("con el orgullo de quien no sabe todavía que va a tener que aprender a sonar de otra forma") es memoria del POV sobre algo ya vivido: permitida. La de Danny en 37:246 ("no te avisa hasta que ya estás en el aeropuerto") es una conjetura de un personaje que el 38 vuelve ironía: permitida y protegida. Tommaso, Mei-Lin, Héctor y Bonnie no reciben ningún guiño hacia su destino en estos tres capítulos. El susto cardíaco de Héctor se trata en § El 36 (no es prolepsis, pero se puede leer como promesa).
 
 ### C. Glosa, tic, repetición y certificación
 
@@ -117,7 +117,7 @@ Numeración continua para todo el mapa: **A** = continuidad y mecánica; **B** =
 | Roma Atrii | 52–68 | Recuerdo mínimo del 12 | Proteger |
 | Nadir | 72–118 | Delegación; "Cuatro letras y te tiene dando vueltas" | Proteger; C10 |
 | Mañana de consultas, Crowe | 122–132 | Crecimiento; cuota "por la competencia" (siembra del incendio) | Proteger |
-| Riley y Mei-Lin | 134–174 | Primera aparición; bomba, no batería; patrulla de Milla | § Riley |
+| Bonnie y Mei-Lin | 134–174 | Primera aparición; bomba, no batería; patrulla de Milla | § Bonnie |
 | Héctor | 176–202 | "Una, de hecho." | Proteger |
 | Walt | 206–224 | Patrón cómico; "no de las que consigues tú" (**pago del lodo y la sangre**) | Proteger; A5 |
 | Danny | 228–250 | Línea de la cocaína; "aeropuerto" | Proteger |
@@ -235,13 +235,13 @@ Nombre en 36:104 (B3 lo retira del narrador), 36:174 (Chiara lo elige) y 37:176 
 
 ---
 
-# § Riley (lo que cae en el 37; E2 y E3 completan)
+# § Bonnie (lo que cae en el 37; E2 y E3 completan)
 
-- **37:** tres conductas de Riley: (i) 138, se acomoda los pies "como quien ya sabe que hay alguien detrás" → **posición de otros**; (ii) 140–146, diagnostica bomba, no batería → **lectura de vehículos**; (iii) 148, estaciona "de frente a la salida del patio" → **salidas** (la firma).
+- **37:** tres conductas de Bonnie: (i) 138, se acomoda los pies "como quien ya sabe que hay alguien detrás" → **posición de otros**; (ii) 140–146, diagnostica bomba, no batería → **lectura de vehículos**; (iii) 148, estaciona "de frente a la salida del patio" → **salidas** (la firma).
 - **38:** la puerta de servicio de babor ("Lo miré cuando subí", 38:97) → **salidas**.
 - **41:104:** "mirando el vestíbulo con la misma atención con la que había mirado, semanas atrás, una puerta de servicio en un yate" → **salidas**, con callback explícito al 38.
-- **Propuesta para el 37 (D12):** dejar que la firma fuerte nazca en el 38 (la puerta, que el 41 recuerda) y que el 37 sea la variación que ya tiene: vehículos (bomba) y posición de otros (los pies). Recorte mínimo en 148: "Una sola maniobra, sin mirar el espejo más de una vez, y lo dejó en la bahía de Danny. Kal lo registró y no dijo nada." (−17). Así el "autos y calle" de la metadata queda en autos (Riley) y calle (Mei-Lin, la patrulla de Milla). Alternativa: conservar 148 y variar el 41 (lo decide E3 con el 41 leído).
-- **P3 (Riley y Mei-Lin como amigas):** el 37 no tiene gesto de amistad; sólo que llegaron juntas (136) y que Mei-Lin mira desde el guardafango. Un lugar posible, sin escribirlo: 37:162 (el trapo "que había sacado de no se sabía dónde": podría venir de Mei-Lin) o 37:174 (Mei-Lin con el café). E3 evalúa 38–39 antes de proponer.
+- **Propuesta para el 37 (D12):** dejar que la firma fuerte nazca en el 38 (la puerta, que el 41 recuerda) y que el 37 sea la variación que ya tiene: vehículos (bomba) y posición de otros (los pies). Recorte mínimo en 148: "Una sola maniobra, sin mirar el espejo más de una vez, y lo dejó en la bahía de Danny. Kal lo registró y no dijo nada." (−17). Así el "autos y calle" de la metadata queda en autos (Bonnie) y calle (Mei-Lin, la patrulla de Milla). Alternativa: conservar 148 y variar el 41 (lo decide E3 con el 41 leído).
+- **P3 (Bonnie y Mei-Lin como amigas):** el 37 no tiene gesto de amistad; sólo que llegaron juntas (136) y que Mei-Lin mira desde el guardafango. Un lugar posible, sin escribirlo: 37:162 (el trapo "que había sacado de no se sabía dónde": podría venir de Mei-Lin) o 37:174 (Mei-Lin con el café). E3 evalúa 38–39 antes de proponer.
 
 ---
 
@@ -275,7 +275,7 @@ Nombre en 36:104 (B3 lo retira del narrador), 36:174 (Chiara lo elige) y 37:176 
 |---|---|---|
 | Día previo y llegada | 29–41 | 252 |
 | Invitados (tres fiestas, Nadir, Héctor/Walt) | 45–77 | 659 |
-| Riley | 79–107 | 347 |
+| Bonnie | 79–107 | 347 |
 | Marisol, campamento, Kenji | 111–147 | 381 |
 | Brindis, Ferretti, Dario | 151–175 | 385 |
 | Blake en la popa | 179–271 | 1,356 |
@@ -293,7 +293,7 @@ Nombre en 36:104 (B3 lo retira del narrador), 36:174 (Chiara lo elige) y 37:176 
 ## 0. Diagnóstico corto
 
 - **38 (ALTA / PRINCIPAL).** El capítulo funciona y todos sus inviolables están en su sitio y bien ejecutados. El sobrepeso no está en un bloque sino en tres zonas: **Blake** (popa + muelle + el relato de Chiara en la proa ≈ 2,400 palabras, con la ruptura del Cap. 7 contada dos veces en el mismo capítulo, 229 y 329–333), **glosas de cierre** (el narrador explica lo que la escena acaba de mostrar: 173, 343, 393, 641) y **logística** (flashback, aeropuerto). Dos errores de continuidad objetivos (la bala "abierta en el Penthouse" cuando la escena la abrió en la mesa; "El Consorcio" frente a *Il Consorzio*), la vela (canon) y una prolepsis menor.
-- **Veredicto de alcance:** la microedición limpia libera **≈ −645** (≈ 7,980). Con la poda profunda propuesta (paquete P, decide el autor) se llega a **≈ −1,095** (≈ 7,530). **El rango del dictamen (5,500–6,500) no se alcanza sin tocar inviolables o siembras que la metadata y el Libro II exigen** (Riley, Kenji–Marisol, Dario y "su gente", el campamento que sostiene la llamada, la calidez de Fabrizio, la despedida de Tommaso). Se dice aquí, como pide el encargo; §J: el rango es referencia, no meta.
+- **Veredicto de alcance:** la microedición limpia libera **≈ −645** (≈ 7,980). Con la poda profunda propuesta (paquete P, decide el autor) se llega a **≈ −1,095** (≈ 7,530). **El rango del dictamen (5,500–6,500) no se alcanza sin tocar inviolables o siembras que la metadata y el Libro II exigen** (Bonnie, Kenji–Marisol, Dario y "su gente", el campamento que sostiene la llamada, la calidez de Fabrizio, la despedida de Tommaso). Se dice aquí, como pide el encargo; §J: el rango es referencia, no meta.
 
 ## 1. Candidatos por categoría (numeración continua)
 
@@ -319,13 +319,13 @@ Nombre en 36:104 (B3 lo retira del narrador), 36:174 (Chiara lo elige) y 37:176 
 
 | # | Cap:línea | Texto (fragmento) | Categoría | Propuesta | Palabras |
 |---|---|---|---|---|---|
-| C13 | 38:39–41 | "—Signora. / Uno de los meseros le señaló… Ella lo resolvió con dos palabras y una mirada, y siguió caminando." | REPETICIÓN FUNCIONAL con 85–91 (otro mesero, otro problema; el segundo lo resuelve Riley y es el que importa) | DUDOSA: cortar deja la sección terminando en 37 ("…parecer no tener manos"), que es mejor cierre. Recomendado cortar | −30 |
+| C13 | 38:39–41 | "—Signora. / Uno de los meseros le señaló… Ella lo resolvió con dos palabras y una mirada, y siguió caminando." | REPETICIÓN FUNCIONAL con 85–91 (otro mesero, otro problema; el segundo lo resuelve Bonnie y es el que importa) | DUDOSA: cortar deja la sección terminando en 37 ("…parecer no tener manos"), que es mejor cierre. Recomendado cortar | −30 |
 | C14 | 38:49 | "Nadir estaba parado entre la barra y el buffet, con un plato en una mano **y el cálculo de lo que costaba esa noche en la otra.**" | REPETICIÓN FUNCIONAL: 55 ("¿Cuánto cuesta una noche así?") hace el chiste en diálogo | "…con un plato en la mano." | −10 |
 | C15 | 38:107 | "Nada más. Chiara siguió hacia el salón. **En el tercer escalón se dio cuenta de que, en un barco con cien personas, era la única a la que había visto mirar la cadena antes que el buffet.**" | COMPETENCIA EXPLICADA: 81 lo muestra y 83 ya lo registra ("Ésta no había entrado a la fiesta. Había entrado al barco.") | Cortar la segunda frase; queda "Nada más. Chiara siguió hacia el salón." | −26 |
 | C16 | 38:173 | "No dijo *la de usted*. No dijo *la de él*. **Dejó el *su* colgado en el aire el tiempo suficiente para que Chiara supiera que había elegido esa palabra y ninguna otra, y después** dio un sorbo…" | GLOSA: las dos negaciones ya hacen visible la ambigüedad (interioridad de Chiara, se protegen) | "No dijo *la de usted*. No dijo *la de él*. Dio un sorbo, la miró el segundo justo, y volvió a mirar la cubierta." | −27 |
 | C17 | 38:183 | "No era un error de la lista. La lista estaba bien. La lista incluía al Departamento porque el Departamento tenía que estar, y el Departamento traía a quien traía." | REPETICIÓN FUNCIONAL con 181 (el capitán invitado, "un capitán nunca llega solo") | Cortar las tres primeras frases; queda "Chiara no se había preguntado a quién…, con un vaso de su whisky." **Toca el pendiente "Blake con el capitán"**: la legitimidad sigue entera en 181 | −30 |
 | C18 | 38:185–187 | "Podía hacer que no lo viera en toda la noche… No lo hizo… una vez que ve, no vuelve a no ver." | REPETICIÓN FUNCIONAL (179 y 181 ya plantean quién ve a quién) | DUDOSA — CONSERVAR como voz; entra en el paquete P si el autor quiere más | (−55) |
-| C19 | 38:205 / 249 | "Chiara no contestó eso. **No hacía falta.**" / "No tocó a Blake. **No hacía falta tocarlo.**" | TIC (tercera pasada ya lo vigiló; quedan dos, más "No hizo falta" en 87) | Cortar ambos; 87 se conserva (es el giro de Riley) | −7 |
+| C19 | 38:205 / 249 | "Chiara no contestó eso. **No hacía falta.**" / "No tocó a Blake. **No hacía falta tocarlo.**" | TIC (tercera pasada ya lo vigiló; quedan dos, más "No hizo falta" en 87) | Cortar ambos; 87 se conserva (es el giro de Bonnie) | −7 |
 | C20 | 38:221 | "—Mira. Yo entiendo… Cambiaste de mundo muy rápido. Un día estabas en Gabriella's con nosotros y al siguiente andabas en un Peugeot que a mí me hacía quedar mal en el expediente. Yo lo vi venir…" | REPETICIÓN FUNCIONAL con 225 (las dos réplicas dicen "fue por Mercer") | Comprimir: "—Mira. Yo entiendo. Cambiaste de mundo muy rápido. Yo lo vi venir antes que tú, ¿te acuerdas? Yo te dije el nombre." | −30 |
 | C21 | 38:259 | "No se había movido. Estaba junto a la baranda…, hablando con Danny. **Había estado hablando con Danny los últimos diez minutos, y en los últimos diez minutos** Chiara había sentido…" | REPETICIÓN LEXICAL / ritmo | "…hablando con Danny. Durante toda la conversación Chiara había sentido su atención…" y conservar la anáfora "Que no daba un paso. Que no dejaba el vaso…" (firma de la escena) | −15 |
 | C22 | 38:283–285 | "Kal siguió caminando. / —¿Sabes qué pasó entre nosotros? —insistió Blake—. ¿Te lo ha dicho alguna vez? Porque yo sí podría decírtelo." | REPETICIÓN FUNCIONAL con 281 ("¿Te lo contó? Seguro que no te lo contó.") | Cortar 283–285; "—Ella me lo contará si quiere." responde directo a 281 | −35 |
@@ -357,7 +357,7 @@ Nombre en 36:104 (B3 lo retira del narrador), 36:174 (Chiara lo elige) y 37:176 
 |---|---|---|---|
 | Día previo y llegada (29–41) | Residuo de la carta; la pregunta de Roma que Kal no hace; la ciudad concreta desde el agua | C13 (−30) | — |
 | Invitados (45–77) | "Las tres cabían" (**inviolable**: por una noche, todos caben); Fabrizio cálido (**inviolable**); Tommaso con los Ferretti; Kal en medio sin buscarla; Nadir y Héctor/Walt | B9, C14 (−18) | **P1:** cortar el intercambio con Nadir 55–61 (−90; se pierde su única voz del capítulo; "Alguien aquí me debe mucho" no se cobra). **P2:** reducir Héctor/Walt 63–77 a Héctor con la pierna y la réplica de 75 (−70) |
-| Riley (79–107) | Firma fuerte de Riley (salidas) y primer intercambio con Chiara; Mei-Lin junto a Tyler | C15 (−26) | — (siembra exigida por el 41) |
+| Bonnie (79–107) | Firma fuerte de Bonnie (salidas) y primer intercambio con Chiara; Mei-Lin junto a Tyler | C15 (−26) | — (siembra exigida por el 41) |
 | Marisol y Kenji (111–147) | Siembra del campamento (sostiene la llamada canon); piano como objeto; Kenji–Marisol (canon 2026-09-10) | — (protegido) | **P3:** comprimir 127–135 (la grúa y Walt) a "Fin de mes, dos noches, sin teléfonos" (−55; es voz de Marisol) |
 | Brindis y Dario (151–175) | Silla vacía de Matteo (brindis, Ferretti); Dario y "su gente" (prepara 623) | C16 (−27) | — |
 | Blake en la popa (179–271) | Cierra a Blake sin triángulo; "No te dejé por nadie. Terminé contigo por ti." (**inviolable**); seguridad; "Yo lo acompaño" | C17, C19, C20, C21 (−82) | **P4:** C18 (−55) y cortar 231–243 (Blake insiste; −95): Chiara ordena la salida después de 229, sin la segunda ronda. Riesgo: la orden a seguridad queda menos justificada |
@@ -372,16 +372,16 @@ Nombre en 36:104 (B3 lo retira del narrador), 36:174 (Chiara lo elige) y 37:176 
 | Despedidas (645–651) | Fabrizio abraza (calidez para el 41); Tommaso sin presagio; "Sólo ella. / Y él." | — (protegido) | — |
 | Aeropuerto (655–699) | Azul de pista; llamada canon de Marisol; última línea | C36, C37 (−44) | **P7:** C38 (−20), si el autor resuelve "coche de Sam" quitándolo |
 
-**Totales:** microedición firme **≈ −645** (8,628 → ≈ 7,980). Paquete P completo (P1 −90, P2 −70, P3 −55, P4 −150, P5 −30, P6 −35, P7 −20) **≈ −450** adicionales → ≈ 7,530. Con los DUDOSA restantes (A12, segunda frase de C26): ≈ 7,510. Bajar de ahí exige quitar movimientos enteros que son siembra exigida (Riley, Kenji–Marisol, Dario, campamento) o inviolables.
+**Totales:** microedición firme **≈ −645** (8,628 → ≈ 7,980). Paquete P completo (P1 −90, P2 −70, P3 −55, P4 −150, P5 −30, P6 −35, P7 −20) **≈ −450** adicionales → ≈ 7,530. Con los DUDOSA restantes (A12, segunda frase de C26): ≈ 7,510. Bajar de ahí exige quitar movimientos enteros que son siembra exigida (Bonnie, Kenji–Marisol, Dario, campamento) o inviolables.
 
 ## 4. Protegido y siembras
 
 - **Inviolables verificados en prosa:** "las tres cabían" (45); Fabrizio (47, 153, 647); Blake 229 y 287; el piano y 413; ROMA → AMOR (439–447) y "Mi amor del patio" (457); H13 completo (495–547) con la línea canon textual (547); "Me voy esta noche." (587) / "Voy contigo." (613); Marisol 693 y 699; Tommaso 647.
 - **Pagos que el 38 cobra y no deben perderse en E5:** el remolque vacío del 36 (38:401 lo cita: si la compactación del 36 lo toca, se rompe este callback); la cuerda y el caballo del 36 (375); "Nadir cree que voy a importar aceite. Danny… llave de lucha. Walt… una botella" (431 cobra 37:102, 242 y la teoría del vino); la ruptura del Cap. 7 ("niño", "*signora*", "coleccionar", Gabriella's, el Peugeot); "Nueva York, de noche" (505, cobra el Cap. 2); la Beretta "junto a lo otro" (487, 549; 44).
-- **Siembras hacia 39–44 y el Libro II:** la puerta de babor de Riley (41:102–104 la cita); el grupo del Patio en la lista de seguridad del Monarch (41:102); Kenji–Marisol (Libro II); "su gente" de Dario (171) y "Y tú eres mi gente" (623) frente a F1 (42:170, 188, 242); el campamento de fin de mes (39); la llamada de Marisol ("cuando estamos enamorados", 693) prepara "Por mucho que yo esté enamorado de ti…" (42:242).
+- **Siembras hacia 39–44 y el Libro II:** la puerta de babor de Bonnie (41:102–104 la cita); el grupo del Patio en la lista de seguridad del Monarch (41:102); Kenji–Marisol (Libro II); "su gente" de Dario (171) y "Y tú eres mi gente" (623) frente a F1 (42:170, 188, 242); el campamento de fin de mes (39); la llamada de Marisol ("cuando estamos enamorados", 693) prepara "Por mucho que yo esté enamorado de ti…" (42:242).
 - **Evaluado y conservado:** 31–33 (el día sin preguntar); 37 ("que una noche pareciera no tener manos"); 53 (el traje "como quien lleva un préstamo"; "Los dos sabían dónde estaba el otro"); 161 ("y estaba bien, y aun así."); 219 y 227 (lectura de Blake por Chiara; "sentir exactamente nada"); 259 (la anáfora "Que no daba un paso…"); 311 ("Ni siquiera estaba enojada… Sólo cansada"); 345–347 ("Veinticinco."); 371 (la nota equivocada); 401 y 411 ("Nadie pregunta"; "Nunca lo busqué"); 445; 451 (el frío de la proa); 505 y 535 (las dos mitades de la mentira, canon H13); 579 (la creencia sobre el corral: canon, se protege aunque recapitule); 601 (eco de Matteo); 633–639 (pasaporte); 649–651.
 - **Firma de voz:** Nadir ("Wallah, señora"), Héctor (la carcajada de garganta), Marisol (el expediente, "Testigo"), Kal ("Sí." / "Bien." / "Desde antes").
-- **P3 (Riley y Mei-Lin como amigas):** el 38 no tiene gesto entre ellas; Mei-Lin sólo está "con Tyler junto a los quesos" (83). Lugar posible, sin escribirlo: en 83, una mirada de Mei-Lin hacia el rellano de Riley. E3 decide con 39 leído.
+- **P3 (Bonnie y Mei-Lin como amigas):** el 38 no tiene gesto entre ellas; Mei-Lin sólo está "con Tyler junto a los quesos" (83). Lugar posible, sin escribirlo: en 83, una mirada de Mei-Lin hacia el rellano de Bonnie. E3 decide con 39 leído.
 - **P4:** el 38 no toca el loft como hogar salvo "un desayuno largo en el loft" (31) y la maleta "armada en el loft en once minutos" (657): se protegen. El Penthouse aparece sólo en A7; al corregirlo desaparece, y no es siembra de "penthouse como pregunta" (la pregunta del 42 no depende de él).
 
 ## 5. Lo que no es de microedición (se reporta y no se opera)
@@ -399,7 +399,7 @@ Nombre en 36:104 (B3 lo retira del narrador), 36:174 (Chiara lo elige) y 37:176 
 
 7. **La sospecha sobre el corral (PENDIENTE, toca H12):** el 38 la roza sin resolverla y sin contradecir el pendiente: Chiara cree que fue el Consorzio (579); Kal no dice qué cree (571, 575, 619: "Llevo meses sin saber quién te puso en ese hospital"). Compatible con "Kal cree que fue por su pasado". Nada que hacer.
 8. **Poda profunda (paquete P):** es la parte estructural autorizada sólo como propuesta. Ver §3.
-9. **Riley:** ver § Riley (completo).
+9. **Bonnie:** ver § Bonnie (completo).
 
 # § La vela (A9)
 
@@ -409,7 +409,7 @@ Nombre en 36:104 (B3 lo retira del narrador), 36:174 (Chiara lo elige) y 37:176 
 - **Qué se queda:** Santa Lucía, la misa de las ocho, las tres viejas y el sacristán, la fe de Chiara sin pedir nada (siembra del 44) y la privacidad ("nadie le preguntaba nada"), que conserva la cadencia final de la frase. −7 palabras.
 - **Alternativa mínima:** cortar la cláusula entera: "…salvo tres viejas y el sacristán." (−12).
 
-# § Riley (completo: 37, 38 y 41)
+# § Bonnie (completo: 37, 38 y 41)
 
 | Cap:línea | Conducta | Tipo |
 |---|---|---|
@@ -423,7 +423,7 @@ Nombre en 36:104 (B3 lo retira del narrador), 36:174 (Chiara lo elige) y 37:176 
 | 41:104 | Mira el vestíbulo "con la misma atención con la que había mirado… una puerta de servicio en un yate" | **salidas** (callback explícito) |
 
 - **Diagnóstico:** "salidas" aparece seis veces en tres capítulos, tres de ellas dentro del mismo beat del 38. Ahí sí se vuelve etiqueta.
-- **Propuesta:** la **firma fuerte vive en el 38** (81 + la puerta de 89–97, que el 41 recuerda), aligerada con C15. El **37 queda como variación** (vehículos y posición de otros; D12: recortar 148). El **41** es lo que decide E3: el callback explícito de 41:104 convierte la firma en rótulo; la opción más limpia es que ahí Riley lea **manos o posición de otros** en el vestíbulo (quién está sentado de cara a la puerta, qué seguridad está de espaldas), sin repetir "salida" ni nombrar el yate. **La información de 41:102 (Riley en la lista de accesos de la fiesta) se queda:** es causalidad, no firma. Sin biografía nueva en ninguno.
+- **Propuesta:** la **firma fuerte vive en el 38** (81 + la puerta de 89–97, que el 41 recuerda), aligerada con C15. El **37 queda como variación** (vehículos y posición de otros; D12: recortar 148). El **41** es lo que decide E3: el callback explícito de 41:104 convierte la firma en rótulo; la opción más limpia es que ahí Bonnie lea **manos o posición de otros** en el vestíbulo (quién está sentado de cara a la puerta, qué seguridad está de espaldas), sin repetir "salida" ni nombrar el yate. **La información de 41:102 (Bonnie en la lista de accesos de la fiesta) se queda:** es causalidad, no firma. Sin biografía nueva en ninguno.
 
 ---
 
@@ -452,7 +452,7 @@ Nombre en 36:104 (B3 lo retira del narrador), 36:174 (Chiara lo elige) y 37:176 
 
 - **39 (MÍNIMA).** Limpio; hace exactamente lo que su metadata pide (restricción por conducta, Marisol que no pregunta, Mei-Lin útil, Halbrook por texto, Dario seco, la línea canon al final). Un hallazgo de canon: **el capítulo se titula "Un par de días más" y la frase no aparece nunca**: Kal dice tres veces "unos días más" (43, 91, 137). H18 (Hitos, l. 2295, CANON DEL AUTOR) y el Plan de cierre (l. 48 y 77) fijan **"un par de días más en la villa"**. Fuera de eso, una entrada de POV menor (27) y una doble explicación al cierre de la escena de Dario (201–203).
 - **40 (MEDIA–LIGERA).** Largo y justificado; la atmósfera paga casi toda (pozo seco, perro, cuarteto, "Sabe a vino"). Lo que sí sobra: una **familia de certificaciones de que Kal "lee habitaciones"** (42, 70, 72, 74, 142, 168, 196: siete veces; se conservan 42, 168 y 196), una **prolepsis** ("entendería más tarde", 122), un **triple inventario** de lo que no se dijeron en la despedida (334 / 336 / 348) y **cuatro errores de continuidad**: Ettore dice que vio a Chiara "en esa sala" y no estuvo (244); "la sala de esa mañana" el día siguiente (334); "a éste sí **lo** llamó *signora*" (88); el vuelo "de esta tarde" que sale "tarde esa noche" (302 / 348). **Respuesta a la pregunta del dictamen:** el 10–15 % (−520 a −785) **no se alcanza sin cortar atmósfera que paga**; la microedición firme libera ≈ **−200 (≈ 4 %)**, y un paquete hondo de atmósfera llegaría a ≈ −430 (≈ 8 %) con pérdida real (ver §3).
-- **41 (LIGERA–MEDIA).** La causalidad es muy buena y "—Nada." está bien puesto. Dos errores objetivos: la fiesta del yate fue **"semanas atrás"** (102, 104), pero Chiara se fue a Palermo esa misma noche (38; H13: "Chiara se va esa misma noche"): fueron días; y "la terminal … por la que el vuelo de Kal había **salido**" (22): el vuelo de Kal llegó. Riley se acerca a confidente íntima por **tres preguntas de escucha y una confesión sobrante** (124, 136, 142, 152); se corrige con poco. La firma de Riley (104) es el callback explícito que § Riley ya marcó.
+- **41 (LIGERA–MEDIA).** La causalidad es muy buena y "—Nada." está bien puesto. Dos errores objetivos: la fiesta del yate fue **"semanas atrás"** (102, 104), pero Chiara se fue a Palermo esa misma noche (38; H13: "Chiara se va esa misma noche"): fueron días; y "la terminal … por la que el vuelo de Kal había **salido**" (22): el vuelo de Kal llegó. Bonnie se acerca a confidente íntima por **tres preguntas de escucha y una confesión sobrante** (124, 136, 142, 152); se corrige con poco. La firma de Bonnie (104) es el callback explícito que § Bonnie ya marcó.
 
 ## 1. Candidatos por categoría (numeración continua)
 
@@ -468,7 +468,7 @@ Nombre en 36:104 (B3 lo retira del narrador), 36:174 (Chiara lo elige) y 37:176 
 | A18 | 40:334 | "Kal sintió que **la sala de esa mañana**, la fotografía…" | La Mesa fue el día 3; la despedida, el día 4 (metadata l. 7; 294 "Se lo dijo por la mañana") | "la sala **del día anterior**" | +1 |
 | A19 | 40:348 | "El vuelo salía **tarde esa noche**" | Contra 302–304 ("Esta tarde, si hay vuelo." / "Lo hay."). La luz de 348–352 (cielo que se oscurece) pide atardecer | "El vuelo salía **al anochecer**" | −1 |
 | A20 | 41:22 | "la terminal comercial por la que el vuelo de Kal **había salido** unas horas antes" | El vuelo de Kal **llegó** a Kingsley Field (39:23). Chiara lo sabe porque ella le compró el boleto (40:310) | "…a la que el vuelo de Kal **había llegado** unas horas antes" | 0 |
-| A21 | 41:102 y 104 | "en la fiesta del yate **semanas atrás**" / "había mirado, **semanas atrás**, una puerta de servicio" | La fiesta fue la noche de la partida a Palermo (38; H13 en Hitos l. 648: "Chiara se va esa misma noche"); 40 son cuatro días; 39 dice "varios días". Son unos seis días | 102: "en la fiesta del yate, **la semana anterior**,". 104: se resuelve con la firma (§ Riley 41, C57), que retira el callback | 0 |
+| A21 | 41:102 y 104 | "en la fiesta del yate **semanas atrás**" / "había mirado, **semanas atrás**, una puerta de servicio" | La fiesta fue la noche de la partida a Palermo (38; H13 en Hitos l. 648: "Chiara se va esa misma noche"); 40 son cuatro días; 39 dice "varios días". Son unos seis días | 102: "en la fiesta del yate, **la semana anterior**,". 104: se resuelve con la firma (§ Bonnie 41, C57), que retira el callback | 0 |
 
 ### B. Prolepsis y saltos de POV (§L)
 
@@ -477,7 +477,7 @@ Nombre en 36:104 (B3 lo retira del narrador), 36:174 (Chiara lo elige) y 37:176 
 | B11 | 39:27 | "**Lo vio antes de que él la viera a ella**, y en el segundo que tardó en cruzar la calle Kal la observó hacer…" | SALTO DE POV leve: capítulo de POV único de Kal; él no puede saber cuándo lo vio ella | "En el segundo que tardó en cruzar la calle, Kal la observó hacer…" (DUDOSA: el lector lo lee como inferencia de Kal; coste mínimo) | −8 |
 | B12 | 40:72 | "No hubo ninguna pregunta sobre quién era, qué hacía, de dónde venía. **Todavía no.**" | PROLEPSIS DE NARRADOR intracapítulo: garantiza que la pregunta llegará (llega en 162 y le quita sorpresa a "¿Y usted qué es, señor Mercer?") | Cortar "Todavía no." | −2 |
 | B13 | 40:122 | "…que a cualquier cosa que Kal hubiera imaginado cuando Chiara dijo *la Mesa* por primera vez, y eso **—entendería más tarde, sin poder explicar del todo por qué—** era peor que cualquier cosa que hubiera imaginado." | PROLEPSIS DE NARRADOR ("entendería más tarde") + repetición de "cualquier cosa que hubiera imaginado" | "…por primera vez, y eso era peor." | −17 |
-| B14 | 41:134 | "se tocó el anular izquierdo sin darse cuenta, y lo bajó **antes de que Riley lo notara**" | POV Chiara: no sabe si Riley lo notó | "…y lo bajó **antes de que Riley pudiera notarlo**" (el gesto del anular es eco de Parte I: se protege) | +1 |
+| B14 | 41:134 | "se tocó el anular izquierdo sin darse cuenta, y lo bajó **antes de que Bonnie lo notara**" | POV Chiara: no sabe si Bonnie lo notó | "…y lo bajó **antes de que Bonnie pudiera notarlo**" (el gesto del anular es eco de Parte I: se protege) | +1 |
 | B15 | 41:94 | "con la voz de alguien que llevaba un rato queriendo hacer esa pregunta" | Lectura de la voz de Kal por Chiara | **DUDOSA — CONSERVAR**: es lectura observable, no interioridad ajena | 0 |
 
 ### C. Glosa, tic, repetición y certificación
@@ -496,19 +496,19 @@ Nombre en 36:104 (B3 lo retira del narrador), 36:174 (Chiara lo elige) y 37:176 
 | C48 | 40:316 | "—¿Estás bien? —preguntó, en cambio, **por segunda vez en dos días, porque seguía siendo la única pregunta que sentía que podía cargar.**" | GLOSA de un eco que el diálogo ya hace (228–230) | "—¿Estás bien? —preguntó, en cambio." | −17 |
 | C49 | 40:336 | "No se dijeron nada sobre lo que había pasado. No hablaron de La Mesa, ni de la fotografía, ni de la frase que ella había dicho delante de todos." | REPETICIÓN FUNCIONAL: tercer inventario de lo mismo (334 y 348 lo hacen; 348 es el que cierra) | Cortar el párrafo | −30 |
 | C50 | 40:350 | "No tenía manera de saber si lo había protegido o si lo había apartado. **Las dos cosas seguían pesando lo mismo, una al lado de la otra, sin que ninguna ganara.**" | REPETICIÓN FUNCIONAL de 196–198 ("Las dos cosas le llegaron juntas"); la fórmula "las dos cosas" aparece además en 41:136 y 41:148 | Cortar la segunda frase; la primera cierra sola | −17 |
-| C51 | 41:136 | "—En la misma sala me pusieron delante una fotografía de mi boda. Para recordarme cómo debe verse una Ardizzone. **No tenía nada que ver con Kal, pero pasó en el mismo cuarto, casi al mismo tiempo, y las dos cosas se me quedaron pegadas.**" | Riley como confidente (Chiara se confiesa sobre algo que ella misma dice que no responde a la pregunta). **Las dos primeras frases se protegen:** son el único puente, sin glosa, entre la foto (canon H17) y el corte de cabello que el lector acaba de ver en 26. Mecánica: el párrafo abre con raya tras otro parlamento de Chiara (134) y puede leerse como si hablara Riley | Cortar la tercera frase y **fundir** las dos primeras al final de 134 (sin raya nueva) | −24 |
-| C52 | 41:142 | "Riley esperó otra vez, sin llenar el silencio." | Riley como escucha (128 ya lo hizo: "Riley no dijo nada. Esperó.") | Cortar | −8 |
+| C51 | 41:136 | "—En la misma sala me pusieron delante una fotografía de mi boda. Para recordarme cómo debe verse una Ardizzone. **No tenía nada que ver con Kal, pero pasó en el mismo cuarto, casi al mismo tiempo, y las dos cosas se me quedaron pegadas.**" | Bonnie como confidente (Chiara se confiesa sobre algo que ella misma dice que no responde a la pregunta). **Las dos primeras frases se protegen:** son el único puente, sin glosa, entre la foto (canon H17) y el corte de cabello que el lector acaba de ver en 26. Mecánica: el párrafo abre con raya tras otro parlamento de Chiara (134) y puede leerse como si hablara Bonnie | Cortar la tercera frase y **fundir** las dos primeras al final de 134 (sin raya nueva) | −24 |
+| C52 | 41:142 | "Bonnie esperó otra vez, sin llenar el silencio." | Bonnie como escucha (128 ya lo hizo: "Bonnie no dijo nada. Esperó.") | Cortar | −8 |
 | C53 | 41:124 | "Se sentó al otro lado del escritorio, no detrás de él, **y por un momento dejó que el silencio corriera antes de decidir que sí iba a contestar de verdad.**" | Sube la confidencia ("de verdad") | Cortar desde "y por un momento…". "No detrás de él" se queda: es trato de igual a una operadora | −19 |
 | C54 | 41:26 | "apenas rozándole los **hombros**. El abrigo vino le cubría los **hombros** sobre un cuello alto negro" | REPETICIÓN LEXICAL contigua | "El abrigo vino iba sobre un cuello alto negro" | −2 |
 | C55 | 39:201 | "calculando **sin decirlo en voz alta** quién de los dos iba a necesitar saber qué y cuándo. / No le dijo a nadie todavía." | REPETICIÓN FUNCIONAL inmediata | Cortar "sin decirlo en voz alta"; 203 se queda como cierre de escena | −5 |
 | C56 | 41:152 | "—¿Y él qué dijo cuando volvieron?" | Pregunta de confidente (la vida de la pareja), no de operadora | **Reformulación (pregunta al autor):** "—¿Él sabe que usted ya volvió?" / 154: "—No. —Chiara miró la hoja…—. No volvimos juntos. Esa misma noche…". Pone la pregunta al servicio del cierre ("Y no le digas nada a Kal todavía") | +1 |
-| C57 | 41:104 | Firma de Riley (callback al yate) | Ver § Riley en el 41 | — | −13 a −30 |
+| C57 | 41:104 | Firma de Bonnie (callback al yate) | Ver § Bonnie en el 41 | — | −13 a −30 |
 
 ## 2. Prolepsis y POV — lectura por capítulo
 
 - **39:** POV Kal limpio salvo B11. "No le dijo a nadie todavía" (203) es plan de Kal, no anuncio: se protege. No siembra la muerte de Héctor (la pierna estirada de 129 es continuidad del 38, A11/D28).
 - **40:** POV Kal limpio (las lecturas de Chiara son siempre "no supo", "no sabía con certeza": 106, 112, 196, 288, 298). Dos anuncios: B12 y B13. La predicción de Ettore ("Va a tener un nombre en un libro que no eligió abrir", 254) es voz de personaje: permitida por §L.
-- **41:** POV Chiara limpio; B14 es menor. El capítulo no nombra a Halbrook (Chiara no lo sabe: "le llamaron por algo que no me explicó", 154): correcto. Riley y Mei-Lin: nada que siembre sus destinos del Libro II.
+- **41:** POV Chiara limpio; B14 es menor. El capítulo no nombra a Halbrook (Chiara no lo sabe: "le llamaron por algo que no me explicó", 154): correcto. Bonnie y Mei-Lin: nada que siembre sus destinos del Libro II.
 
 ## 3. Función por movimiento
 
@@ -526,7 +526,7 @@ Nombre en 36:104 (B3 lo retira del narrador), 36:174 (Chiara lo elige) y 37:176 
 
 Del día 3 en adelante (Mesa, fotografía, Ettore, Halbrook, despedida) el capítulo es causal: **se protege**, salvo C45–C50 y A16–A19.
 
-**41.** Aterrizaje y penthouse (22–40: el cabello, las llaves del loft, "Torre Norte") → la silla de Matteo y Fabrizio (44–64: el enfriamiento) → el sobre de Génova (68–84: "No lo llamó.") → "—Nada." (88–98) → Riley (102–198). La escena de Riley tiene dos funciones: darle al lector la otra mitad de Palermo y encargar el coche. Con C51–C53 y, si el autor quiere, C56, Chiara entrega la otra mitad **como razón para no usar a Kal** (126–134, 144–148, 154–158, 172), y Riley queda como la operadora que pregunta lo que necesita (122, 162, 168, 176–192). Se protege sin cambios: 144 ("Supe que lo había herido antes de terminar la frase. Y la terminé igual."), 148 (la confesión de que decidió por él: protegida por la corrección del 22-09), 154 ("Yo tenía cosas que todavía no había terminado": eco de 40:312), 158, 166 (Riley **no** consuela: hace el trabajo que pide el dictamen) y 172 ("Porque contigo esto sigue siendo un coche. Con Kal deja de serlo.": justo la voz de quien explica por qué asigna una tarea).
+**41.** Aterrizaje y penthouse (22–40: el cabello, las llaves del loft, "Torre Norte") → la silla de Matteo y Fabrizio (44–64: el enfriamiento) → el sobre de Génova (68–84: "No lo llamó.") → "—Nada." (88–98) → Bonnie (102–198). La escena de Bonnie tiene dos funciones: darle al lector la otra mitad de Palermo y encargar el coche. Con C51–C53 y, si el autor quiere, C56, Chiara entrega la otra mitad **como razón para no usar a Kal** (126–134, 144–148, 154–158, 172), y Bonnie queda como la operadora que pregunta lo que necesita (122, 162, 168, 176–192). Se protege sin cambios: 144 ("Supe que lo había herido antes de terminar la frase. Y la terminé igual."), 148 (la confesión de que decidió por él: protegida por la corrección del 22-09), 154 ("Yo tenía cosas que todavía no había terminado": eco de 40:312), 158, 166 (Bonnie **no** consuela: hace el trabajo que pide el dictamen) y 172 ("Porque contigo esto sigue siendo un coche. Con Kal deja de serlo.": justo la voz de quien explica por qué asigna una tarea).
 
 ## 4. Protegido y siembras
 
@@ -535,23 +535,23 @@ Del día 3 en adelante (Mesa, fotografía, Ettore, Halbrook, despedida) el capí
 - **Siembras hacia 42–44 y el Libro II:** 40:184 (la libreta de Valenti: "un nombre en un libro", 254; la ficha de Valenti deja pendiente su trato futuro con Kal); 40:304 ("Yo no puedo darte el avión, lo necesito": el regreso secreto de Chiara); 41:30–38 (penthouse contra loft, P4); 41:56–62 (Fabrizio frío: hace legible el 42); 41:78 (la placa 4-T-9); 41:172 (prepara la objeción de Kal en el 42); 39:235 (cafetera y cepillo: el loft como hogar vivido, P4).
 - **Ritual del *Ciao*:** 41:90–92 ("Ciao, bella" / "Ciao"): intacto.
 - **Evaluado y conservado:** 39:31 ("cosa que en ella equivalía a un párrafo entero"), 39:103 ("y eso fue toda la interacción": sequedad de Kal, DUDOSA — CONSERVAR), 39:237 (Kal levanta la vista cuando Marisol repite un nombre: la distracción mostrada sin decirla); 40:42 (la mirada que calcula: funda la familia de lectura y se conserva), 40:50 ("No dijo *mi casa*…"), 40:86, 40:90 ("mira lo que hice que funcionara"), 40:124 (el traje que llama la atención cuando uno sabe mirarlo), 40:168 (Kal distingue cuándo Chiara administra la verdad: información, no certificación), 40:178, 40:192, 40:198, 40:216, 40:220 (el triple "entender": DUDOSA — CONSERVAR), 40:226, 40:230, 40:242, 40:266 y 346 (el "paso contado" y el "otra vez": eco deliberado), 40:306 ("No fue un reproche. Fue información."), 40:344, 40:352 (Palermo blanca contra el mar: rima con 18); 41:26 (el pelo "con cualquier pelo"), 41:62, 41:64, 41:82–84, 41:134 (el anular, eco de la Parte I), 41:188.
-- **Firma de voz:** Nadir ("Wallah"), Marisol (quejas que son cariño; "Tú *inventas* cómo pagar tus favores"), Dario ("Una pausa, exacta"), Héctor (una sola pregunta), Ettore (inglés cuidado, "No se lo decía a usted. Me lo decía a mí."), Riley (usted a Chiara, frases cortas).
-- **P3 (Riley y Mei-Lin como amigas):** **37** tiene el vínculo previo, no un gesto ("Había llegado hacía poco con Mei-Lin, las dos de una banda del norte que ya no existía", 37:136; Mei-Lin en el guardafango junto al trabajo de Riley, 37:150 y 174); **38** no tiene gesto (E2); **39** las pone separadas (Riley bajo el sedán, 103; Mei-Lin en su bahía, 111). El Libro II hace crecer la amistad por casa, horarios y barrio (timeline del Libro II, l. 219: "Riley y Mei-Lin viven juntas en La Almendra"). **Veredicto:** el Libro I ya siembra lo suficiente con 37:136; un gesto es opcional. Si el autor lo quiere, el lugar es **39:111** (POV Kal, observable, sin diálogo, ≤ 15 palabras: p. ej., Mei-Lin con dos cafés y uno junto a las botas de Riley). No escribirlo sin aprobación (D38).
+- **Firma de voz:** Nadir ("Wallah"), Marisol (quejas que son cariño; "Tú *inventas* cómo pagar tus favores"), Dario ("Una pausa, exacta"), Héctor (una sola pregunta), Ettore (inglés cuidado, "No se lo decía a usted. Me lo decía a mí."), Bonnie (usted a Chiara, frases cortas).
+- **P3 (Bonnie y Mei-Lin como amigas):** **37** tiene el vínculo previo, no un gesto ("Había llegado hacía poco con Mei-Lin, las dos de una banda del norte que ya no existía", 37:136; Mei-Lin en el guardafango junto al trabajo de Bonnie, 37:150 y 174); **38** no tiene gesto (E2); **39** las pone separadas (Bonnie bajo el sedán, 103; Mei-Lin en su bahía, 111). El Libro II hace crecer la amistad por casa, horarios y barrio (timeline del Libro II, l. 219: "Bonnie y Mei-Lin viven juntas en La Almendra"). **Veredicto:** el Libro I ya siembra lo suficiente con 37:136; un gesto es opcional. Si el autor lo quiere, el lugar es **39:111** (POV Kal, observable, sin diálogo, ≤ 15 palabras: p. ej., Mei-Lin con dos cafés y uno junto a las botas de Bonnie). No escribirlo sin aprobación (D38).
 - **P4:** se protege lo que existe: 39:235 (la cafetera "donde Chiara la dejaba siempre", el cepillo en el vaso), 41:30 (las llaves del loft "un peso que no había cambiado en meses"), 41:32 ("Torre Norte", decidido por acción) y 41:38 (el penthouse como sitio "para guardar cosas"). La pregunta penthouse/loft queda planteada antes del 42 sin glosa.
 
 ## 5. Lo que no es de microedición (se reporta y no se opera)
 
 - **La llamada de las nueve (41:88–98) no existe en el 39.** El 39 sigue a Kal toda la noche (patio con Marisol, loft, balcón) y su metadata dice que Chiara no aparece "ni por mensaje"; el 41 pone una llamada de Kal ("Ciao, bella" / "¿Supiste algo de Matteo?" / "—Nada.") hacia las nueve de ese mismo D0. La prosa no se contradice (el 39 la elide), pero el diseño del 39 sí. **Opciones para el autor:** (a) dejarlo: el 39 es elíptico y el lector une los capítulos; (b) cambiar la metadata del 39 en E7 para registrar la elipsis. Recomendación: (a) + (b). Sin prosa nueva (D40).
 - **A13 ("un par de días más")** es línea canon: se pregunta (D29).
-- **C56** reformula una línea de diálogo no canon, pero cambia lo que Riley pregunta: se pregunta al autor.
+- **C56** reformula una línea de diálogo no canon, pero cambia lo que Bonnie pregunta: se pregunta al autor.
 - **Metadata que se sanea en E7** (no es prosa): 39 l. 7 (dice que el 40 está "todavía sin escribir" y el enlace `[[…/40|Cap. 40]]` está roto); 39 l. 12 (cita la frase como "unos días más": se sincroniza con D29); 41 l. 5 (Alessio "referido por Chiara": se conserva si C51 conserva la foto); 40 l. 11 ("Consorcio" sólo en metadata: coherente con § Metadata del 38). Nada que borrar en el 40.
 
-# § Riley en el 41 (completa § Riley)
+# § Bonnie en el 41 (completa § Bonnie)
 
 - **Firma (104).** Hoy: "…mirando el vestíbulo con la misma atención con la que había mirado, semanas atrás, una puerta de servicio en un yate: no admirando el mármol, registrando por dónde se salía." Es la sexta "salida" en tres capítulos, con callback explícito y un error de tiempo (A21).
   - **(a) mínima (veto libre):** "…con una chaqueta que no era de vestir y las manos en los bolsillos, mirando el vestíbulo sin detenerse en el mármol." (−30). Sin firma en el 41.
   - **(b) recomendada, variación por posición de otros:** "…y las manos en los bolsillos. En el vestíbulo no miró el mármol: miró a los dos de seguridad, y hacia dónde miraba cada uno." (−13). Observable desde Chiara, sin biografía, sin "salida" ni yate.
-- **Confidencia.** Paquete R = C51 + C52 + C53 (+ C56 si el autor lo aprueba): −51 (−50 con C56). Riley pregunta tres cosas operativas (122, 162, 168) y deja de ser la que invita a confesarse; Chiara conserva sus tres verdades (144, 148, 158) porque son la otra mitad de Palermo que el lector necesita y que Kal no tiene.
+- **Confidencia.** Paquete R = C51 + C52 + C53 (+ C56 si el autor lo aprueba): −51 (−50 con C56). Bonnie pregunta tres cosas operativas (122, 162, 168) y deja de ser la que invita a confesarse; Chiara conserva sus tres verdades (144, 148, 158) porque son la otra mitad de Palermo que el lector necesita y que Kal no tiene.
 - **Resultado de la firma en 37–41:** fuerte en el 38 (con C15); variación de vehículos y posición en el 37 (D12); posición de otros en el 41 (b). Ninguna repetición de "salida" fuera del 38.
 
 ---
@@ -573,7 +573,7 @@ Del día 3 en adelante (Mesa, fotografía, Ettore, Halbrook, despedida) el capí
 | D9 | Títulos 36–37 (y "(título provisional)" impreso en 37:26) | Confirmar "También las mañanas" y "Cuatro letras"; quitar la marca impresa | No tocar la prosa del título; sólo si el autor confirma |
 | D10 | Vento no está en prosa | (a) una frase en la parte de Chiara del 36 | No escribir nada (se queda en PENDIENTE) |
 | D11 | Lápiz labial de 35:33 | Preguntar si es siembra; conservar | Conservar |
-| D12 | Firma de Riley en el 37 | Recortar 148 ("de frente a la salida") y dejar la firma al 38 | Se decide con E2–E3 |
+| D12 | Firma de Bonnie en el 37 | Recortar 148 ("de frente a la salida") y dejar la firma al 38 | Se decide con E2–E3 |
 | D13 | Compactación del 36 (§ El 36, 2, 4–6, C12) | Aplicar (−85 a −120) | Aplicar |
 | D14 | Microedición del 36 y 37 (A4, A5, C6, C7, C10) | Aplicar | Aplicar |
 | D15 | **Anya (P1): sí o no, dónde, línea y respuesta** | Sí; punto A (35, tras 35:195); línea 1 ("No vengo a cobrar nada, Ojos azules. Todavía."); respuesta 1 ("Alguien de antes."); sin nombrarla | **No** es veto libre: escena nueva, se pregunta |
@@ -587,7 +587,7 @@ Del día 3 en adelante (Mesa, fotografía, Ettore, Halbrook, despedida) el capí
 | D23 | Yate alquilado y piano | Como está (el piano viene con el yate); C26 sólo quita la repetición | Como está |
 | D24 | Siembra Kenji–Marisol (137–139) | Conservar | Conservar |
 | D25 | "Sra." en la línea canon de H13 (547) | Preguntar: "señora" (sólo ortografía) o conservar | **No** es veto libre: línea canon; se conserva si no responde |
-| D26 | Firma de Riley | Firma fuerte en el 38 (con C15); variación en el 37 (D12); el 41 lo decide E3 (propuesta: manos o posición de otros, sin callback al yate) | Se decide con E3 |
+| D26 | Firma de Bonnie | Firma fuerte en el 38 (con C15); variación en el 37 (D12); el 41 lo decide E3 (propuesta: manos o posición de otros, sin callback al yate) | Se decide con E3 |
 | D27 | Dudosas del 38: C18, C28, segunda frase de C26 | Conservar (C18 entra sólo con P4) | Conservar |
 | D28 | "como me pediste" (A12) y la pierna de Héctor (A11) | Conservar ambas | Conservar |
 | D29 | **"Un par de días más"** (A13: 39:43, 91, 137 y 40:312) | Restaurar la frase canon de H18 en las tres del 39 y alinear la de Chiara en 40:312 | **No** es veto libre: línea canon; si no responde, se conserva "unos días más" |
@@ -596,10 +596,10 @@ Del día 3 en adelante (Mesa, fotografía, Ettore, Halbrook, despedida) el capí
 | D32 | Microedición firme del 40 (B12, B13, C40–C42, C44–C50) | Aplicar (≈ −200) | Aplicar |
 | D33 | Paquete del 40 (C39, C43) | Aplicar C39; conservar C43 (la anáfora 104/106) | No aplicar ninguno |
 | D34 | Paquete hondo de atmósfera del 40 (§3 de la Parte 3, ≈ −185) | No | No |
-| D35 | Riley como confidente en el 41 (C51, C52, C53; C56) | Aplicar C51–C53; C56 a juicio del autor | Aplicar C51–C53; C56 no |
-| D36 | Firma de Riley en el 41 (104, C57) | (b) posición de otros, sin yate ni "salida" | (a) cortar el callback, sin añadir prosa |
+| D35 | Bonnie como confidente en el 41 (C51, C52, C53; C56) | Aplicar C51–C53; C56 a juicio del autor | Aplicar C51–C53; C56 no |
+| D36 | Firma de Bonnie en el 41 (104, C57) | (b) posición de otros, sin yate ni "salida" | (a) cortar el callback, sin añadir prosa |
 | D37 | Microedición del 39 y el 41 (B11, B14, C54, C55) | Aplicar | Aplicar B14, C54 y C55; B11 conservar (DUDOSA) |
-| D38 | P3: gesto Riley–Mei-Lin | Opcional: ≤ 15 palabras en 39:111, sin diálogo; o nada (37:136 ya siembra) | Nada |
+| D38 | P3: gesto Bonnie–Mei-Lin | Opcional: ≤ 15 palabras en 39:111, sin diálogo; o nada (37:136 ya siembra) | Nada |
 | D39 | P4 en 39 y 41 | Proteger lo que existe; sin cambios | Proteger |
 | D40 | Llamada de las nueve (41:88) ausente del 39 | Conservar la elipsis; registrarla en la metadata del 39 en E7 | Conservar; sanear metadata |
 | D41 | Metadata de 39–41 (§5 de la Parte 3) | Sanear en E7 | Sanear |
@@ -618,7 +618,7 @@ Del día 3 en adelante (Mesa, fotografía, Ettore, Halbrook, despedida) el capí
 
 ## 0. Diagnóstico corto
 
-- **42 (MÍNIMA).** Cerrado. F1 bien escalado, la línea canon intacta (242), el *Ciao, tesoro* y la mano quieta en la manija (264–266). Un error de conteo que el propio diálogo exhibe (**"Tú dijiste cuatro"**, 204: "Tengo que volver" son tres palabras, 40:296), una "copa" que nunca se sirvió (276: la noche es un vaso de agua, 32 y 120), un presagio garantizado leve (92), tres glosas sobre Riley y el silencio (80, 108, 140) y una repetición funcional al final de F1 (256 / 258).
+- **42 (MÍNIMA).** Cerrado. F1 bien escalado, la línea canon intacta (242), el *Ciao, tesoro* y la mano quieta en la manija (264–266). Un error de conteo que el propio diálogo exhibe (**"Tú dijiste cuatro"**, 204: "Tengo que volver" son tres palabras, 40:296), una "copa" que nunca se sirvió (276: la noche es un vaso de agua, 32 y 120), un presagio garantizado leve (92), tres glosas sobre Bonnie y el silencio (80, 108, 140) y una repetición funcional al final de F1 (256 / 258).
 - **43 (MÍNIMA).** Clímax moral correcto y corto; no crece. Una **prolepsis de narrador** (141: "en algún punto que después nadie iba a poder señalar"), un **tic** de la familia "no hacía falta / no necesitaba decir nada más" (siete veces: 27, 65, 99, 103, 119, 121, 189; se cortan dos y se protegen las de la puerta y el final) y "la noche anterior" dos veces en la frase de la puerta (99).
 - **44 (MÍNIMA / HOUSEKEEPING).** Funciona como final; no explica. Un error de conteo gemelo del 42 (**"cuatro palabras"**, 35: "Kal no salió." son tres), una glosa (127) y una frase oscura (145). "Sra." en diálogo tres veces (73, 99, 151): mismo asunto que D25.
 
@@ -649,8 +649,8 @@ Del día 3 en adelante (Mesa, fotografía, Ettore, Halbrook, despedida) el capí
 
 | # | Línea | Before | After propuesto | Palabras | Veredicto |
 |---|---|---|---|---|---|
-| **C58** | 42:80 | "—dijo Riley, **y por primera vez en la llamada su voz tuvo algo parecido a la firmeza de alguien que ha decidido algo y no va a pedir permiso por ello**—." | "—dijo Riley, **sin pedir permiso**—." | −23 | Aplicar (GLOSA) |
-| **C59** | 42:108 | "—repitió Riley, **y esta vez sonó menos a defensa y más a algo que ya sabía y no necesitaba que nadie se lo confirmara dos veces**." | "—repitió Riley." | −22 | Aplicar (REPETICIÓN FUNCIONAL de 86) |
+| **C58** | 42:80 | "—dijo Bonnie, **y por primera vez en la llamada su voz tuvo algo parecido a la firmeza de alguien que ha decidido algo y no va a pedir permiso por ello**—." | "—dijo Bonnie, **sin pedir permiso**—." | −23 | Aplicar (GLOSA) |
+| **C59** | 42:108 | "—repitió Bonnie, **y esta vez sonó menos a defensa y más a algo que ya sabía y no necesitaba que nadie se lo confirmara dos veces**." | "—repitió Bonnie." | −22 | Aplicar (REPETICIÓN FUNCIONAL de 86) |
 | **C60** | 42:140 | "…ninguno dijo nada**, y ese silencio ya decía más que cualquier frase que fueran a usar después**." | "…ninguno dijo nada." | −15 | Aplicar (GLOSA con roce de prolepsis) |
 | **C61** | 42:256 | "**Se quedaron así un momento, sin nada más que decir que no fuera a empeorar lo que ya estaba dicho.** Ninguno mencionó el resto…" | "Ninguno mencionó el resto…" | −20 | Aplicar (REPETICIÓN FUNCIONAL con 258, que se queda) |
 | **C62** | 43:65 | "…y no dijo nada más**, porque no necesitaba decir nada más**." | "…y no dijo nada más." | −5 | Aplicar (TIC) |
@@ -671,7 +671,7 @@ Del día 3 en adelante (Mesa, fotografía, Ettore, Halbrook, despedida) el capí
 
 ## 3. Función por movimiento
 
-**42.** Dos días de distancia (20–28) → llamada de Riley (32–110) → espera (114–120) → F1 (124–268) → sola (272–280). Todo trabaja. Microedición ≈ −84.
+**42.** Dos días de distancia (20–28) → llamada de Bonnie (32–110) → espera (114–120) → F1 (124–268) → sola (272–280). Todo trabaja. Microedición ≈ −84.
 **43.** Loft (25–33, P4) → Patio y Dario (37–85) → **la puerta** (89–113, intocable) → Camp Alder (117–165) → arresto (169–177) → federal (181–189) → la reja (193–197). No crece. Microedición ≈ −32.
 **44.** Héctor (27–59; buzón ↔ 14) → maquinaria (63–93) → Lucía (97–137) → el día repetido y la recepción (141–155) → apagón y monólogo (159–197, canon textual) → sedán (201–205) → loft y "Ciao, bella" (209–237, inviolable). No explica. Microedición ≈ −8.
 
@@ -718,7 +718,7 @@ Del día 3 en adelante (Mesa, fotografía, Ettore, Halbrook, despedida) el capí
 | 37 | Título y **"(título provisional)" impreso en 37:26** (D9); "respeta H16"; Walt opinó | E5 |
 | 38 | Título y **"(título provisional)" impreso en 38:29** (D20); la vela; nota de poda | E6 |
 | 39 | Elipsis de la llamada de las nueve (D40); "un par de días más" (D29) | E7 |
-| 40–41 | Notas de cirugía; firma de Riley (D36); "semanas" → días | E7 |
+| 40–41 | Notas de cirugía; firma de Bonnie (D36); "semanas" → días | E7 |
 | 42 | "la evolución del **Cap. 45**" (l. 15) → "del Libro II (*Sombras de Poder*)" | E8 |
 | 43 | "notas históricas del vault todavía digan PENDIENTE" (l. 2) si E8 las limpia | E8 |
 | 44 | "Hector", "Lucia" sin tilde (l. 4); línea funcional de Lucía (Q12); "se reserva para *Voto de Ceniza*" (l. 7): verificar contra `00_Trilogy_Structure.md`; "Cierra la Parte III" → "y el Libro I" | E8 |
@@ -757,7 +757,7 @@ Del día 3 en adelante (Mesa, fotografía, Ettore, Halbrook, despedida) el capí
 | Q5 | La vela (D19) | Retirar ("…y nadie le preguntaba nada.") | Retirar |
 | Q6 | Stella (D8) | Confirmar o dar nombre | Conservar como DISEÑO |
 | Q7 | Títulos 36–38 (D9, D20) y "(título provisional)" impreso en 37:26 y 38:29 | Confirmar "También las mañanas", "Cuatro letras", "Al revés"; quitar la marca | No tocar la prosa del título |
-| Q8 | Firma de Riley (D12, D26, D36) | Fuerte en el 38; 37 recorta 148; 41 (b) posición de otros | 38 fuerte; 37 recorta 148; 41 (a) sin firma |
+| Q8 | Firma de Bonnie (D12, D26, D36) | Fuerte en el 38; 37 recorta 148; 41 (b) posición de otros | 38 fuerte; 37 recorta 148; 41 (a) sin firma |
 | Q9 | "Sra." en diálogo (D25: 38:547; 44:73, 99, 151) | "señora" en los cuatro (sólo ortografía) | Conservar |
 | Q10 | "cuatro" → "tres" (A22, 42:204; A23, 44:35) | Corregir, salvo que sea eco buscado de *Cuatro letras* | Corregir |
 | Q11 | 44:145, "Ninguno de los dos había detenido nada esa noche" (C68) | Que el autor diga qué quiere decir; si es oscura, cortar | Conservar |
@@ -780,7 +780,7 @@ Del día 3 en adelante (Mesa, fotografía, Ettore, Halbrook, despedida) el capí
 - **Q11:** 44:145, la segunda oración (C68) se **corta**.
 - **Q13:** **Anya aprobada**: Cap. 35 tras 35:195 (punto A), POV Chiara, línea "No vengo a cobrar nada, Ojos azules. Todavía.", respuesta de Kal "Alguien de antes.", sin nombrarla. Se escribe en E9; queda BORRADOR/DISEÑO hasta que la lea el autor. E5 marca el punto exacto.
 - **Q14:** "un par de días más" restaurado en 39:43, 91, 137 y alineado en 40:312.
-- **Q15:** P2 protegido; **P3 aprobado**: gesto Riley–Mei-Lin ≤ 15 palabras, sin diálogo, en 39:111 (lo escribe E7); P4 protegido.
+- **Q15:** P2 protegido; **P3 aprobado**: gesto Bonnie–Mei-Lin ≤ 15 palabras, sin diálogo, en 39:111 (lo escribe E7); P4 protegido.
 - **Q16:** Vento: una frase en la parte de Chiara del 36 (E5); lápiz labial conservado; H16 (cocaína) se sincroniza en Hitos (E8).
 - **Q18:** C39 sí; paquete hondo no; A16 sí; **C56 no** (a juicio del agente: conservar, es la opción menos intrusiva).
 - **Q19:** microedición firme de 42–44 aplicada en E8; C67 conservada.
@@ -822,7 +822,7 @@ Del día 3 en adelante (Mesa, fotografía, Ettore, Halbrook, despedida) el capí
 | B7 | 36 | "…si debía, y Kal, viéndola reír así, decidió que la respuesta de Walt había sido… la correcta." | "…si debía." | Salto de POV | La risa hace el trabajo | −17 |
 | C7 | 36 | "…y fue lo único que dijo, porque cualquier otra palabra hubiera sobrado." | "…y fue lo único que dijo." | Glosa | El "Sí" rima con el "—Sí" del 35 | −6 |
 | C10 | 37 | "Hacía un año se habría parado ahí los diez minutos completos. Ahora sabía que Nadir…" | "Sabía que Nadir…" | Repetición funcional | "Antes lo hubiera resuelto él mismo" ya lo dijo; 122 ("un año atrás") se conserva | −13 |
-| D12 / Q8 | 37 | "…en la bahía de Danny de frente a la salida del patio, como se estaciona en una calle donde uno no sabe cuánto se va a quedar." | "…en la bahía de Danny." | Firma de Riley | El 37 queda con las variaciones (los pies, la bomba); la firma de salidas nace en el 38 | −20 |
+| D12 / Q8 | 37 | "…en la bahía de Danny de frente a la salida del patio, como se estaciona en una calle donde uno no sabe cuánto se va a quedar." | "…en la bahía de Danny." | Firma de Bonnie | El 37 queda con las variaciones (los pies, la bomba); la firma de salidas nace en el 38 | −20 |
 | A5 | 37 | "terminé recomendándote un vino" | "terminé opinando de un vino" | Continuidad | En el 36 Walt sólo opinó; regla dura del origen intacta | 0 |
 | Q7 | 37 | "# Capítulo 37 — Cuatro letras (título provisional)" | "# Capítulo 37 — Cuatro letras" | Metadata impresa | — | −2 |
 
@@ -834,7 +834,7 @@ B8 (36, "antes de acordarse"), B9 (35:63, "como quien…"), C3 (35, la puerta qu
 
 - **35:** nota de cirugía; el beat y la corrección de continuidad de las invitaciones pasaron a la metadata del 36; el roadmap viejo (fiesta "sin escribir", cifrado "después de la fiesta") se reemplazó por la nota de que está ejecutado en 37 y 38 (se conserva la cita del autor sobre el piano); nota del punto de Anya.
 - **36:** "cajita" → botella; POV Kal → Chiara; título confirmado; Héctor desmedicalizado (se conserva la nota original); Stella canon; origen de la Romanée-Conti según Hitos, "Sin duda alguna" y desfase de la entrega de cocaína; coda y su cronología; Vento.
-- **37:** título confirmado; "respeta H16" → desfase anotado (se sincroniza en E8); Walt opinó; firma de Riley.
+- **37:** título confirmado; "respeta H16" → desfase anotado (se sincroniza en E8); Walt opinó; firma de Bonnie.
 
 ### Anya (P1) — punto exacto de inserción para E9
 
@@ -869,15 +869,15 @@ B8 (36, "antes de acordarse"), B9 (35:63, "como quien…"), C3 (35, la puerta qu
 | # | Movimiento | Before | After | Categoría | Qué ya hacía la escena / qué conserva | Palabras |
 |---|---|---|---|---|---|---|
 | A10 | Título | "# Capítulo 38 — Al revés (título provisional)" | "# Capítulo 38 — Al revés" | Metadata impresa (Q7) | — | −2 |
-| C13 | Llegada | "—Signora. / Uno de los meseros le señaló… y siguió caminando." | (cortado) | Repetición funcional | La sección cierra en "…pareciera no tener manos"; el mesero que importa es el de Riley | −30 |
+| C13 | Llegada | "—Signora. / Uno de los meseros le señaló… y siguió caminando." | (cortado) | Repetición funcional | La sección cierra en "…pareciera no tener manos"; el mesero que importa es el de Bonnie | −30 |
 | B9 | Invitados | "…pero los escuchaba, y la boda iba a salir bien por eso." | "…pero los escuchaba." | Prolepsis (§L) | Tommaso sin garantía de narrador | −8 |
 | C14 | Invitados | "…con un plato en una mano y el cálculo de lo que costaba esa noche en la otra." | "…con un plato en la mano." | Repetición funcional | El chiste vive en "¿Cuánto cuesta una noche así?" | −10 |
 | P2 | Invitados | "—El whisky es de Walt…" / "—Ya lo sé. Se nota en lo caro…" / Walt en la barra contando | "—¿Cómo sigue eso? —Chiara se detuvo junto a él y le señaló la pierna con la barbilla." | Poda profunda aprobada (Q4) | Héctor con la pierna, "Sigue.", la réplica de Chiara ("donde Kal no pueda preguntarle…") y la carcajada de garganta. Walt queda nombrado (destilería, "el whisky de Walt" en Dario, la botella de las despedidas) | −58 |
-| C15 | Riley | "…En el tercer escalón se dio cuenta de que… mirar la cadena antes que el buffet." | "Nada más. Chiara siguió hacia el salón." | Competencia explicada | **Firma fuerte de Riley intacta** (81 escalera/pasarela, 89–97 la puerta de babor, "Lo miré cuando subí"): la que cita el 41 | −26 |
+| C15 | Bonnie | "…En el tercer escalón se dio cuenta de que… mirar la cadena antes que el buffet." | "Nada más. Chiara siguió hacia el salón." | Competencia explicada | **Firma fuerte de Bonnie intacta** (81 escalera/pasarela, 89–97 la puerta de babor, "Lo miré cuando subí"): la que cita el 41 | −26 |
 | C16 | Dario | "Dejó el *su* colgado en el aire el tiempo suficiente para que Chiara supiera…, y después dio un sorbo…" | "Dio un sorbo, la miró el segundo justo…" | Glosa | Las dos negaciones en cursiva hacen visible la ambigüedad de "su gente" | −27 |
 | C17 | Blake | "No era un error de la lista. La lista estaba bien. La lista incluía…" | "Chiara no se había preguntado a quién **traerían** porque…" | Repetición funcional | La legitimidad de Blake queda entera en 181 (el capitán invitado). "traerían" (+1) repone el referente que se iba con la frase cortada | −29 |
 | C18 (P4) | Blake | "Podía hacer que no lo viera… una vez que ve, no vuelve a no ver." | (cortado) | Poda profunda aprobada | "ya había mirado dos veces… como quien busca una cara" sostiene "Por supuesto que se acercó él" | −55 |
-| C19 | Blake | "No hacía falta." ×2 (205, 249) | (cortado) | Tic | 87 ("No hizo falta", el giro de Riley) se conserva | −7 |
+| C19 | Blake | "No hacía falta." ×2 (205, 249) | (cortado) | Tic | 87 ("No hizo falta", el giro de Bonnie) se conserva | −7 |
 | C20 | Blake | "Un día estabas en Gabriella's… un Peugeot que a mí me hacía quedar mal en el expediente." | (cortado) | Repetición funcional | "fue por Mercer" vive en 225. El Peugeot está pagado de sobra en 1–13 y 32; Gabriella's se conserva en la proa (ver C24) | −30 |
 | P4 | Blake | 233–245: "—Eso no es verdad." … "—No me voy a ir a ningún lado hasta que — / —Blake. / Él se calló." | Tras 231 sigue directo "Chiara ya no lo estaba mirando a él. Miraba a un hombre de traje gris…" | Poda profunda aprobada | **Ajuste sobre la propuesta de E2** (que cortaba 231–243): se conserva 231 ("en vez de irse, se quedó") porque justifica la orden a seguridad, que era el riesgo anotado de P4. Inviolable 229 intacto | −84 |
 | C21 | Blake | "Había estado hablando con Danny los últimos diez minutos, y en los últimos diez minutos Chiara…" | "Durante toda la conversación Chiara…" | Repetición lexical | La anáfora "Que no daba un paso…" (firma de la escena) intacta | −15 |
@@ -903,7 +903,7 @@ B8 (36, "antes de acordarse"), B9 (35:63, "como quien…"), C3 (35, la puerta qu
 
 Todos los inviolables de §4 de E2 (las tres cabían, Fabrizio, Blake 229 y "Ella me lo contará si quiere.", el piano y 413, ROMA → AMOR y "Mi amor del patio", H13 completo, "Me voy esta noche." / "Voy contigo." / "íntegra", Tommaso sin presagio, la llamada canon y la última línea). Además: Nadir entero (P1 no aprobado), Marisol y el campamento (P3 no), el muelle 275 (P5 no), C28 (las manos), la segunda frase de C26, C38 y Sam, A11 (la pierna), A12 ("como me pediste"), "Y tú eres mi gente" (D21), Kenji–Marisol, "Nadie sabía que se despedían de algo" (649), la sospecha sobre el corral (579) y el remolque vacío del 36 (401, callback vivo: E5 lo dejó intacto).
 
-**Riley en el 38:** la firma fuerte (salidas) queda aquí, sin la certificación de C15; el 37 ya quedó como variación (E5) y el 41 pasa a posición de otros (E7).
+**Bonnie en el 38:** la firma fuerte (salidas) queda aquí, sin la certificación de C15; el 37 ya quedó como variación (E5) y el 41 pasa a posición de otros (E7).
 
 **Pagos hacia 39–44 y el Libro II revisados después de cortar:** la puerta de babor (41:102–104), el grupo del Patio en la lista del Monarch, "su gente" de Dario frente a F1, el campamento (39), "cuando estamos enamorados" (42:242), la Beretta "junto a lo otro" (44). Ninguno se rompe.
 
@@ -963,16 +963,16 @@ Línea de Estado con nota de cirugía y título confirmado; POV: la referencia a
 | A20 | 41 | "la terminal comercial por la que el vuelo de Kal había salido" | "…a la que el vuelo de Kal había llegado" | Continuidad | Chiara lo sabe (ella compró el boleto) | 0 |
 | C54 | 41 | "El abrigo vino le cubría los hombros sobre un cuello alto negro" | "El abrigo vino iba sobre un cuello alto negro" | Repetición lexical | "rozándole los hombros" queda para el cabello | −2 |
 | A21 | 41 | "en la fiesta del yate semanas atrás" | "en la fiesta del yate, la semana anterior," | Continuidad (H13: esa misma noche a Palermo) | La lista de accesos (causalidad) | +2 |
-| C57 (b) | 41 | "…las manos en los bolsillos, mirando el vestíbulo con la misma atención con la que había mirado, semanas atrás, una puerta de servicio en un yate: no admirando el mármol, registrando por dónde se salía." | "…las manos en los bolsillos. En el vestíbulo no miró el mármol: miró a los dos de seguridad, y hacia dónde miraba cada uno." | Firma de Riley variada (Q8) | Sin callback al yate ni "salida"; observable desde Chiara, sin biografía | −13 |
-| C53 | 41 | "…no detrás de él, y por un momento dejó que el silencio corriera antes de decidir que sí iba a contestar de verdad." | "…no detrás de él." | Riley como confidente | Trato de igual a una operadora | −19 |
-| B14 + C51 | 41 | "…antes de que Riley lo notara—…usarlo así. / —En la misma sala me pusieron delante una fotografía de mi boda. Para recordarme cómo debe verse una Ardizzone. No tenía nada que ver con Kal, pero… las dos cosas se me quedaron pegadas." | "…antes de que Riley pudiera notarlo—…usarlo así. En la misma sala me pusieron delante una fotografía de mi boda. Para recordarme cómo debe verse una Ardizzone." | POV + confidencia; mecánica de raya | Puente foto (H17) → corte de cabello, sin glosa; el parlamento ya no puede leerse como de Riley | −23 |
-| C52 | 41 | "Riley esperó otra vez, sin llenar el silencio." | (cortado) | Riley como escucha (128 ya lo hizo) | "Riley no dijo nada. Esperó." (128) | −8 |
+| C57 (b) | 41 | "…las manos en los bolsillos, mirando el vestíbulo con la misma atención con la que había mirado, semanas atrás, una puerta de servicio en un yate: no admirando el mármol, registrando por dónde se salía." | "…las manos en los bolsillos. En el vestíbulo no miró el mármol: miró a los dos de seguridad, y hacia dónde miraba cada uno." | Firma de Bonnie variada (Q8) | Sin callback al yate ni "salida"; observable desde Chiara, sin biografía | −13 |
+| C53 | 41 | "…no detrás de él, y por un momento dejó que el silencio corriera antes de decidir que sí iba a contestar de verdad." | "…no detrás de él." | Bonnie como confidente | Trato de igual a una operadora | −19 |
+| B14 + C51 | 41 | "…antes de que Bonnie lo notara—…usarlo así. / —En la misma sala me pusieron delante una fotografía de mi boda. Para recordarme cómo debe verse una Ardizzone. No tenía nada que ver con Kal, pero… las dos cosas se me quedaron pegadas." | "…antes de que Bonnie pudiera notarlo—…usarlo así. En la misma sala me pusieron delante una fotografía de mi boda. Para recordarme cómo debe verse una Ardizzone." | POV + confidencia; mecánica de raya | Puente foto (H17) → corte de cabello, sin glosa; el parlamento ya no puede leerse como de Bonnie | −23 |
+| C52 | 41 | "Bonnie esperó otra vez, sin llenar el silencio." | (cortado) | Bonnie como escucha (128 ya lo hizo) | "Bonnie no dijo nada. Esperó." (128) | −8 |
 
 ### Protegido (evaluado y conservado)
 
 Todos los inviolables de §4 de E3 (39:247; 40:98, 108–110, 162–164, 248; 41:96, 198). Además: C43 (anáfora 104/106, grupo contra Chiara), el paquete hondo (pozo seco, perro, casa que no le debía nada, "Sabe a vino", cuarteto de Roma), 40:42 (funda la lectura de Kal), 40:168 y 196 (lectura de Chiara: información, no certificación), 40:220, 40:306, 40:334 (el inventario de la despedida que se queda), 39:31, 39:103, 39:203, 39:235 (P4), 41:30–38 (P4), 41:134 (el anular), 41:144, 148, 154, 158, 166, 172 y C56 (41:152).
 
-**Riley en 37–41, resultado:** firma fuerte en el 38; variación de vehículos y posición en el 37 (E5); posición de otros en el 41. "Salida" ya sólo vive en el 38. En el 39 Riley no tiene firma: sólo el café de P3.
+**Bonnie en 37–41, resultado:** firma fuerte en el 38; variación de vehículos y posición en el 37 (E5); posición de otros en el 41. "Salida" ya sólo vive en el 38. En el 39 Bonnie no tiene firma: sólo el café de P3.
 
 ### Metadata saneada
 
@@ -995,9 +995,9 @@ Todos los inviolables de §4 de E3 (39:247; 40:98, 108–110, 162–164, 248; 41
 
 - **Más dudas:** P3. Es prosa nueva del agente (+13) en un cameo que la metadata quería "sin función"; el gesto depende de que el lector note "un café igual". Si el autor lo siente plantado, se retira sin costura (son dos incisos).
 - **Más agresivo:** la fusión C51 en el 41. La foto de la boda sigue ahora en el mismo parlamento a "usarlo así", y "—¿Y él lo escuchó?" llega justo después de la foto: el "lo" se sigue entendiendo como la frase sobre Kal, pero la distancia creció una oración. Si incomoda, la alternativa es poner la foto antes de "Así que dije…"; no se hizo por no reordenar diálogo.
-- **Pareció corte y quedó protegido:** C43 (la anáfora "Por…" / "Por…" separa lo que oyó la mesa de lo que oyó Chiara) y C56 (la pregunta de Riley suena a confidente, pero la respuesta de Chiara trae información que el lector necesita; reformularla tocaba más de lo que ganaba).
+- **Pareció corte y quedó protegido:** C43 (la anáfora "Por…" / "Por…" separa lo que oyó la mesa de lo que oyó Chiara) y C56 (la pregunta de Bonnie suena a confidente, pero la respuesta de Chiara trae información que el lector necesita; reformularla tocaba más de lo que ganaba).
 - **Riesgo de esterilizar:** bajo. La familia "Kal lee habitaciones" perdió cuatro de siete apariciones; quedan las que muestran la lectura en acto o su fracaso (42, 168, 196).
-- **Riesgo de racionalizar interioridad o volver genérico:** bajo; las únicas frases nuevas son P3 y la firma de Riley (b), las dos por conducta observable.
+- **Riesgo de racionalizar interioridad o volver genérico:** bajo; las únicas frases nuevas son P3 y la firma de Bonnie (b), las dos por conducta observable.
 
 ## Parte 4 — SURGERY 42, 43 y 44, y housekeeping documental (E8, 2026-09-27)
 
@@ -1007,9 +1007,9 @@ Todos los inviolables de §4 de E3 (39:247; 40:98, 108–110, 162–164, 248; 41
 
 | # | Cap. | Before | After | Categoría | Qué ya hacía la escena / qué conserva | Palabras |
 |---|---|---|---|---|---|---|
-| C58 | 42 | "—dijo Riley, y por primera vez en la llamada su voz tuvo algo parecido a la firmeza de alguien que ha decidido algo y no va a pedir permiso por ello—." | "—dijo Riley, sin pedir permiso—." | Glosa | El parlamento (Patio, "esta misma noche") ya es la decisión | −23 |
+| C58 | 42 | "—dijo Bonnie, y por primera vez en la llamada su voz tuvo algo parecido a la firmeza de alguien que ha decidido algo y no va a pedir permiso por ello—." | "—dijo Bonnie, sin pedir permiso—." | Glosa | El parlamento (Patio, "esta misma noche") ya es la decisión | −23 |
 | B17 | 42 | "…le dijo a Chiara exactamente lo que iba a pasar después." | "…le dijo a Chiara que Kal iba a venir." | Presagio garantizado → creencia | "¿Va a venir?" / "Sí." sigue enlazando | −4 |
-| C59 | 42 | "—Lo sé —repitió Riley, y esta vez sonó menos a defensa y más a algo que ya sabía…" | "—Lo sé —repitió Riley." | Repetición funcional (86) | "repitió" carga el eco solo | −22 |
+| C59 | 42 | "—Lo sé —repitió Bonnie, y esta vez sonó menos a defensa y más a algo que ya sabía…" | "—Lo sé —repitió Bonnie." | Repetición funcional (86) | "repitió" carga el eco solo | −22 |
 | C60 | 42 | "…ninguno dijo nada, y ese silencio ya decía más que cualquier frase que fueran a usar después." | "…ninguno dijo nada." | Glosa con roce de prolepsis | La postura de Kal (codos, manos juntas) | −15 |
 | A22 | 42 | "Tú dijiste cuatro y las llamas honestidad." | "Tú dijiste tres…" | Continuidad ("Tengo que volver") | "Yo dije una palabra" sigue en pie; el eco de 226 intacto | 0 |
 | C61 | 42 | "Se quedaron así un momento, sin nada más que decir que no fuera a empeorar lo que ya estaba dicho. Ninguno mencionó…" | "Ninguno mencionó…" | Repetición funcional (258) | 258, la de Chiara con la chaqueta, cierra | −20 |
@@ -1132,5 +1132,5 @@ Nota de E9 en la línea de Estado (BORRADOR/DISEÑO de la escena); Anya en el re
 - **Más agresivo:** "Se guardó el apodo, y el tornillo." Es lo único que se acerca a nombrar lo que Chiara registra. El canon pide que lo registre; la frase no dice qué deduce. Si se siente glosa, la escena puede cerrar en "Kal apretó un tornillo que ya estaba apretado." y "Chiara no dijo nada."
 - **Riesgo de sobrecargar el 35:** el capítulo gana un segundo acontecimiento (E1 lo había anotado). Queda compensado en tamaño (1,897 → 2,470 frente a los 2,256 de partida) y la escena comparte tema con el resto: otra puerta que no le corresponde abrir a Chiara, ahora del lado de Kal.
 - **Riesgo de volver genérico:** medio en la entrada de Anya (rubia, abrigo, paso seguro son rasgos de retrato conocidos). Se contuvo con conducta concreta (no mira las mesas, mira la barra; no se inclina a buscarlo; se lleva el abrigo con el mismo paso). El autor puede darle un rasgo propio que el agente no inventó para no fijar canon.
-- **Líneas nuevas del agente que el autor debe leer (Parte III completa):** la escena de Anya (35); Vento (36); los cafés de P3 (39); la firma de Riley por posición de otros (41); "sin pedir permiso" (42); "días antes" (44).
+- **Líneas nuevas del agente que el autor debe leer (Parte III completa):** la escena de Anya (35); Vento (36); los cafés de P3 (39); la firma de Bonnie por posición de otros (41); "sin pedir permiso" (42); "días antes" (44).
 

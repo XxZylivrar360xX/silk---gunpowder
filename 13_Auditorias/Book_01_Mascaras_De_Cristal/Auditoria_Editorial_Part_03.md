@@ -14,7 +14,7 @@
 > | E1–E4 | 35–44 | AUDIT hecho; el autor aprobó todas las recomendaciones (Q1–Q19, Anya y P3 incluidas) (2026-09-27) | [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]] |
 > | E5 | 35–37 | SURGERY hecha, −264; coda de las invitaciones al final del 36; Héctor desmedicalizado; "Sin duda alguna" restaurada; siguen BORRADOR | § 9 parte 1 |
 > | E6 | 38 | SURGERY hecha, −843 (8,628 → 7,785); vela retirada; el rango 5,500–6,500 no se alcanzó sin tocar inviolables; sigue BORRADOR | § 9 parte 2 |
-> | E7 | 39–41 | SURGERY hecha, −291; "un par de días más" restaurado; Riley sin confidencia sobrante; P3 (+13); siguen BORRADOR | § 9 parte 3 |
+> | E7 | 39–41 | SURGERY hecha, −291; "un par de días más" restaurado; Bonnie sin confidencia sobrante; P3 (+13); siguen BORRADOR | § 9 parte 3 |
 > | E8 | 42–44 + housekeeping | SURGERY hecha, −142; housekeeping por desfase hecho; "Parte IV" en H8 de Hitos anotado para el autor | § 9 parte 4 |
 > | E9 | 35 | Escena de Anya en el Monarch escrita (+573): **BORRADOR/DISEÑO hasta lectura del autor** | § 9 parte 5 |
 >
@@ -102,7 +102,7 @@ Editorialmente veo tres movimientos.
 - Chiara absorbe funciones;
 - Kal le da entrada oficial al loft;
 - El Patio crece;
-- Riley/Mei empiezan a existir;
+- Bonnie/Mei empiezan a existir;
 - los mundos de ambos caben juntos en el yate;
 - ROMA se vuelve AMOR;
 - La Mesa reclama a Chiara;
@@ -126,7 +126,7 @@ Muy buena arquitectura.
 - vemos Palermo desde Kal;
 - vemos Palermo desde Chiara;
 - Matteo deja una anomalía;
-- Chiara recurre a Riley;
+- Chiara recurre a Bonnie;
 - `Nada`;
 - F1.
 
@@ -380,7 +380,7 @@ Hace tres cosas:
 
 - convierte ROMA en obsesión cómica de Kal;
 - muestra crecimiento orgánico de El Patio;
-- introduce/refuerza a Riley y Mei sin consumirlas.
+- introduce/refuerza a Bonnie y Mei sin consumirlas.
 
 Su tamaño:
 
@@ -392,7 +392,7 @@ No añadir.
 
 No explicar ROMA.
 
-No convertir Riley/Mei en promesas demasiado evidentes.
+No convertir Bonnie/Mei en promesas demasiado evidentes.
 
 ### Prioridad
 
@@ -414,7 +414,7 @@ Sus aproximadamente 8,600 palabras contienen:
 - día completo Kal/Chiara previo;
 - llegada al yate;
 - convivencia de tres mundos;
-- Riley;
+- Bonnie;
 - Mei;
 - Nadir;
 - Héctor;
@@ -613,12 +613,12 @@ No necesitamos vela aquí.
 ---
 
 # HALLAZGO 5
-## Riley está bien sembrada, pero estamos repitiendo demasiado su misma firma corporal
+## Bonnie está bien sembrada, pero estamos repitiendo demasiado su misma firma corporal
 
 En su secuencia de llegada tenemos aproximadamente:
 
 ### 37
-Riley:
+Bonnie:
 
 > piensa en la salida / deja el coche preparado para salir.
 
@@ -628,7 +628,7 @@ Chiara:
 > la ve leyendo accesos/tráfico/salida.
 
 ### 41
-Riley llega:
+Bonnie llega:
 
 > y vuelve a leer salidas.
 
@@ -644,7 +644,7 @@ La consolidación correcta sería:
 
 No:
 
-> “Riley siempre mira la salida” cada vez que aparece.
+> “Bonnie siempre mira la salida” cada vez que aparece.
 
 En uno de esos tres beats sustituiría la conducta por:
 
@@ -662,7 +662,7 @@ Sin añadir biografía.
 
 Su siembra actual me parece suficiente:
 
-- aparece integrada al mundo de Riley;
+- aparece integrada al mundo de Bonnie;
 - conoce el norte;
 - Kal registra que posee información útil.
 
@@ -776,7 +776,7 @@ debe seguir respirando.
 ---
 
 # HALLAZGO 7
-## `La otra mitad` debe vigilar que Riley no se vuelva confidente demasiado pronto
+## `La otra mitad` debe vigilar que Bonnie no se vuelva confidente demasiado pronto
 
 El capítulo funciona.
 
@@ -792,7 +792,7 @@ Muy buena causalidad.
 
 Pero existe un riesgo:
 
-Chiara termina contándole a Riley bastante de:
+Chiara termina contándole a Bonnie bastante de:
 
 - La Mesa;
 - Kal;
@@ -801,7 +801,7 @@ Chiara termina contándole a Riley bastante de:
 - Alessio;
 - exclusión en Palermo.
 
-Riley acaba de entrar a su órbita.
+Bonnie acaba de entrar a su órbita.
 
 No debe salir del capítulo convertida en:
 
@@ -1044,7 +1044,7 @@ No añadir presagio.
 
 ---
 
-# RILEY
+# BONNIE
 
 Bien sembrada.
 
@@ -1272,7 +1272,7 @@ No dejar el Libro I final con Parte I `TERMINADO` y Parte III todavía etiquetad
 | **38** | Al revés | Extraordinariamente importante pero sobredimensionado; conflicto de vela | **ALTA / PRINCIPAL** |
 | **39** | Un par de días más | Ya depurado | **MÍNIMA** |
 | **40** | Mecánico | Largo pero justificado; leve poda posible | **MEDIA–LIGERA** |
-| **41** | La otra mitad | Causalidad muy buena; vigilar intimidad prematura con Riley | **LIGERA–MEDIA** |
+| **41** | La otra mitad | Causalidad muy buena; vigilar intimidad prematura con Bonnie | **LIGERA–MEDIA** |
 | **42** | Nada | Cerrado estructural y emocionalmente | **MÍNIMA** |
 | **43** | La puerta | Cerrado estructuralmente; clímax moral correcto | **MÍNIMA** |
 | **44** | A oscuras | Funciona como final de novela | **MÍNIMA / HOUSEKEEPING** |
@@ -1317,7 +1317,7 @@ Poda ligera.
 
 ### 41 — `La otra mitad`
 
-Revisar función de Riley y nivel de confidencia.
+Revisar función de Bonnie y nivel de confidencia.
 
 ---
 
@@ -1343,7 +1343,7 @@ Antes de cierre definitivo:
 - ✅ retirar vela prematura del 38; *(E6)*
 - ✅ decidir Stella como canon o cambiar nombre; *(canon, Q6)*
 - ✅ revisar metadata del origen de Romanée-Conti; *(E5)*
-- ✅ consolidar firma conductual de Riley; *(fuerte en el 38; variaciones en 37 y 41)*
+- ✅ consolidar firma conductual de Bonnie; *(fuerte en el 38; variaciones en 37 y 41)*
 - ⏳ marcar 35–44 como cerrados sólo después de la pasada editorial. *(pasada hecha; el CLOSE queda para cuando lo pida el autor)*
 
 ---

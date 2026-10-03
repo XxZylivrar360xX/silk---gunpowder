@@ -18,13 +18,25 @@ Función: CANON DEL AUTOR. Penúltimo capítulo de la Parte II (seguido por el C
 - CODA EN EL LOFT (misma tarde/noche, POV Chiara): pasta, Kal abrazándola por detrás mientras cocina, sin etiqueta nueva de relación. Chiara introduce el tema con la pregunta base del autor; se preserva casi literal el intercambio de las piernas y del "elemento en el casino". Kal reacciona primero protector, después con algo parecido al orgullo sin verbalizarlo como tal. Pregunta si Kenji la siguió; Chiara aclara que la tarea era Vivian y que la atención extra fue decisión propia de Kenji, dicha a la cara de Marisol — a Kal eso le pesa más que si se hubiera escondido. Cierra con "La suficiente para preocuparme. No la suficiente para escoger por ella." — pago de La correa / El patio ajeno / Media Baraja, sin discurso de padre, sin mencionar a Michael. Remate cómico sobre romper piernas y cubrir turnos en la caja. Sin foreshadowing de la muerte de Kenji, sin Santa Lucía.
 - RESUELTO (2026-09-20): la nota anterior sobre "trabajo concurrente" quedó saldada por la reubicación de este capítulo a la Parte II — 00_Book_Map.md, INDEX.md y 06_Relationships/Hitos.md ya están sincronizados con esta posición. Sigue pendiente, sin relación con este movimiento: anotar en [[02_Characters/Marisol_Grayson]] y [[02_Characters/Kenji_Oda]] la referencia a este capítulo como primer sembrado del acercamiento, y actualizar [[03_Factions/Red_Civil_de_Chiara]].
 
+**Siembra del cigarro (2026-10-02, CANON DEL AUTOR; prosa DISEÑO del agente, pendiente de lectura):** al llegar al loft, antes de la salsa, Chiara fuma en la ventana de la cocina; Kal, recargado en la isla: "Sí sabes que eso es malo, ¿no?" / ella lo mira algo ofendida / "No me veas así. Lo digo porque me importas." Ella no contesta y se lo termina. Paga en el Cap. 50 (no enciende el cigarro tras el monólogo; avienta el encendedor de aluminio y deja el cigarro junto al cuadro). Sin glosa aquí.
+
 Continuidad:
 - VEHÍCULOS: no aplica — Chiara no sale del Monarch hasta el corte de escena hacia el loft; no se especifica cómo llega, evitando fijar vehículo sin necesidad narrativa (fijado para la Parte II: Chiara en el Lancia; Kal en el Audi desde el Cap. 31).
 - Registro privado Kal/Chiara: mismo nivel post-H7 — se comportan como pareja sin etiqueta formal, calidez de conducta, italiano suelto de Chiara.
 - Documentos que quedarán desactualizados por este capítulo y que NO se tocan aquí (reportar, no ejecutar): [[02_Characters/Marisol_Grayson]] y [[02_Characters/Kenji_Oda]] (sección "relación fuera de foco" — este capítulo ya es el primer sembrado concreto del acercamiento en Libro I, falta anotarlo con referencia al Cap. 33); [[03_Factions/Red_Civil_de_Chiara]] (Kenji ya actúa aquí más allá de la caja/i Sussurri clásico, observando entorno por encargo directo); [[06_Relationships/Hitos]] (falta un hito o sub-hito para este capítulo, título de trabajo "La periferia"; hoy está en la Parte II, no en la apertura de la Parte III).
+**Pago de la ciabatta (2026-10-03, CANON DEL AUTOR):** el intercambio del pan ("Te pedí ciabatta." … "Yo sí.") se repite literal en la cena de Stavanger ([[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]], *Sombras de Poder*), y Kal lo cobra en la propuesta: "Ya llegó, y resultó ser la mujer que me regaña por llevar el pan equivocado que me encargó." No tocar estas réplicas sin revisar el pago.
+**Beat del cuadro (2026-10-02, CANON DEL AUTOR: gesto cotidiano, silencioso, con moño, sin exposición; prosa DISEÑO del agente, pendiente de lectura):** abre el capítulo en el penthouse, antes del Monarch. Paga la foto que Héctor toma sin avisar en el Cap. 31; vuelve en el Cap. 50. Kal durmió en el penthouse esa noche (confirmado por el autor 2026-10-02). Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
 -->
 
 # Capítulo 33 — Más de la cuenta
+
+El cuadro estaba en la mesa cuando salió del cuarto, junto a su taza, como si siempre hubiera estado ahí. Marco de madera clara. Un moño rojo, un poco chueco. Ninguna nota.
+
+La orilla del lago, la última luz. Dos espaldas, una bolsa y una mochila, las manos juntas. Nadie en la foto sabía que había una foto.
+
+Kal se había ido temprano al taller.
+
+Chiara le quitó el moño, lo dobló una vez y lo guardó en el cajón de los cubiertos. El cuadro lo dejó donde estaba.
 
 La mañana en el Monarch tenía el ritmo que a Chiara siempre le había resultado, de una manera que nunca dijo en voz alta, casi terapéutico: pequeño, ordenado, resoluble. Un proveedor de lino que había mandado la mitad del pedido equivocado. Una empleada de piso que quería cambiar su turno del jueves por el sábado y no encontraba quién se lo cubriera. Una carpeta de permisos que alguien había archivado mal tres meses atrás y que ahora, por supuesto, alguien necesitaba con urgencia.
 
@@ -216,7 +228,21 @@ Chiara no se giró a ver la cara que puso Marisol con eso. Subió las escaleras 
 
 ***
 
-Volvió al loft ya de noche, con el cansancio ordinario de un día ordinario encima, algo que después de la semana que habían tenido se sentía casi como un lujo. Dejó el bolso sobre la barra, junto a un par de sandalias suyas que llevaban ahí tiradas desde la noche anterior y que nadie se había molestado en mover, se quitó la chaqueta y la colgó sobre el respaldo de una silla donde ya colgaba otra, y se subió las mangas antes de empezar a sacar lo que hacía falta para la salsa.
+Volvió al loft ya de noche, con el cansancio ordinario de un día ordinario encima, algo que después de la semana que habían tenido se sentía casi como un lujo. Dejó el bolso sobre la barra, junto a un par de sandalias suyas que llevaban ahí tiradas desde la noche anterior y que nadie se había molestado en mover, se quitó la chaqueta y la colgó sobre el respaldo de una silla donde ya colgaba otra.
+
+Antes de la salsa sacó la cajetilla del bolso y fue a la ventana de la cocina. La abrió una cuarta, hacia el callejón, y encendió el primero de la noche con el encendedor de aluminio.
+
+Kal estaba recargado en la isla, con una cerveza a medias. La vio dar la primera fumada.
+
+—Sí sabes que eso es malo, ¿no?
+
+Chiara volteó despacio y lo miró por encima del hombro, con el cigarro a medio camino, como se mira a un proveedor que opina de lo que no le toca.
+
+—No me veas así —dijo Kal—. Lo digo porque me importas.
+
+Ella le sostuvo la mirada un segundo más. Después se volvió hacia la ventana y siguió fumando, sin contestar, echando el humo hacia el callejón. Lo terminó entero.
+
+Cerró la ventana, se subió las mangas y empezó a sacar lo que hacía falta para la salsa.
 
 Encontró la bolsa de pan sobre la encimera y la abrió sin pensarlo mucho, hasta que vio lo que había adentro.
 

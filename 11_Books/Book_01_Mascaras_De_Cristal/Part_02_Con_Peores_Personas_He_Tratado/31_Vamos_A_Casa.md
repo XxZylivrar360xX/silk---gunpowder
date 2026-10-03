@@ -27,6 +27,7 @@ Continuidad:
 - VEHÍCULOS: Kal conduce el Audi todo el capítulo (ida y vuelta). Chiara llega y se va con él — su Lancia se queda en el Monarch, nunca llega al lago. Sin Peugeot: el Peugeot se queda en el taller (Cap. 30).
 - INSERCIÓN BORRADOR (2026-09-26, Claude Code, decisión del autor sobre la quinta tanda de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Evaluacion_Arco_Libro_I]]): beat de fe en la parrilla de Héctor, entre la pesca y "Kal la sacó del grupo". Chiara se persigna; Nadir dice *bismillah*; Kal bromea ("Pídele que te cuente bien los peces") y ella contesta "A Dios no se le piden esas cosas"; Kal deja el tenedor quieto hasta que ella termina. Contrapunto de Alessio: Kal puede bromear con su fe, nunca la usa ni la desprecia ([[04_Concepts/Fe_y_Velas]]). Sin glosa: no se menciona que esa mañana (Cap. 28) ella rezó por él. Pendiente de revisión del autor.
 Reconocimiento (2026-09-29, decision del autor): Chiara ubica a Harper como la muchacha de la maquina de La Esquina de Mabel del Cap. 4; Harper la reconocio desde el principio.
+**Siembra de la foto (2026-10-02, CANON DEL AUTOR; prosa DISEÑO del agente, pendiente de lectura):** al volver a la orilla, Kal y Chiara se quedan de la mano mirando la última luz; Héctor la fotografía sin avisar (sólo se ve que guarda el teléfono). Resuelto con el autor 2026-10-02: luz sobre el agua (no tras los árboles); la calavera de Kal no se ve en la foto. Paga en la apertura del Cap. 33 (el cuadro con moño) y en el Cap. 50 (monólogo; Chiara lo lleva al loft). Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
 -->
 
 # Capítulo 31 — Vamos a casa
@@ -326,6 +327,10 @@ Ella levantó la cabeza de su hombro lo justo para mirarlo, y Kal ya la estaba m
 ***
 
 Volvieron nadando cuando ya casi no se veía el fondo, y para cuando llegaron a la orilla el grupo estaba recogiendo: cañas enrolladas, hieleras vacías a medias, la parrilla apagándose sola. Héctor discutía con Danny sobre quién se llevaba las sobras del pescado; Nadir hacía cuentas en voz alta sobre lo que le debía o le debían, sin que quedara claro si hablaba en serio; Harper ya estaba guardando su equipo con la eficiencia de quien no necesita que nadie le diga cuándo terminar; Rocco corría entre las piernas de todos, exhausto y feliz, con arena hasta el lomo.
+
+Kal le pasó la mochila sin preguntarle si la quería y se echó la bolsa al hombro, y en vez de ir hacia los coches se quedaron un momento más en la orilla, de cara al agua, mirando lo que quedaba de luz sobre el lago. Él le tomó la mano. Ella no dijo nada.
+
+Cuando se dieron la vuelta, Héctor se guardaba el teléfono en el bolsillo de la camisa y volvía a discutir con Danny por las sobras, como si nunca hubiera dejado de hacerlo.
 
 —Última carga —anunció Walt, cerrando su hielera—, o nos agarra la noche en el camino.
 
