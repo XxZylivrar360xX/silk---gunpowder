@@ -266,7 +266,7 @@ Kal dejó la carpeta sobre el escritorio.
 
 —Quiero que dejen de pagar cada avería como emergencia.
 
-Keene abrió la carpeta con dos dedos. Contrato de servicio. Anexo de unidades. Calendario de mantenimiento. Tarifa mensual. Línea separada para reparaciones financiadas. Todo con el membrete azul de Almendra Towing y suficiente lenguaje administrativo para aburrir a un auditor.
+Keene abrió la carpeta con un dedo. Contrato de servicio. Anexo de unidades. Calendario de mantenimiento. Tarifa mensual. Línea separada para reparaciones financiadas. Todo con el membrete azul de Almendra Towing y suficiente lenguaje administrativo para aburrir a un auditor.
 
 —Renta mensual —leyó Keene.
 
@@ -668,13 +668,13 @@ Kal le dio la mano. Matteo tenía una palma seca, cuidada, pero apretó como alg
 
 —¿Y cómo?
 
-Matteo se tocó la propia mejilla con dos dedos, sin perder la sonrisa, como si ya esperara la pregunta.
+Matteo se tocó la propia mejilla con el índice, sin perder la sonrisa, como si ya esperara la pregunta.
 
 —La cicatriz. Le pedí a quien me habló de usted algo más útil que rubio, ojos azules. Resopló y me dijo que eso, en este país, es como pedirme que encuentre la diferencia entre dos gotas de agua. La cicatriz, en cambio, no la comparte nadie más en esta cuadra.
 
 Lo dijo con la calma de un hombre que explica por qué siempre gana la misma mano: sin prisa, sin necesidad de convencer a nadie, porque ya sabía que el otro se iba a quedar a escuchar el resto.
 
-Kal señaló la silla frente a él con dos dedos.
+Kal señaló la silla frente a él con los dedos juntos.
 
 —Entonces lleva ventaja.
 

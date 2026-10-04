@@ -224,7 +224,7 @@ Kal la miró un segundo de más. No dijo nada — pero algo en la comisura de la
 
 —¿Salida por dónde? —le preguntó a Tyler, para no tener que decir nada más.
 
-—Como siempre. —Tyler dibujó la ruta en el aire con dos dedos, un trazo largo y una curva al final, sin decir una sola calle en voz alta—. Y si aparecen luces, cada quien por su lado. No me esperen.
+—Como siempre. —Tyler dibujó la ruta en el aire con el índice, un trazo largo y una curva al final, sin decir una sola calle en voz alta—. Y si aparecen luces, cada quien por su lado. No me esperen.
 
 Se fue hacia el siguiente coche antes de que nadie le contestara.
 

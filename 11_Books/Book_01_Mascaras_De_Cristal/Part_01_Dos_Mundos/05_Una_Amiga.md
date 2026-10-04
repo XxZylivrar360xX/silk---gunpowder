@@ -16,6 +16,7 @@ Dialogo K/C, resto del capitulo (2026-10-04, misma direccion del autor; DISENO, 
 Lugares: The Monarch Casino & Hotel, La Almendra, centro de San Aurelio, Il Gelsomino.
 Funcion: convertir el favor en cadena, mostrar a Kal como telefono recurrente y a Chiara aprendiendo a dirigir informacion; ejecutar H2-a, la primera cena que ninguno llama cita.
 Nota de fusion (2026-09-10, BLOQUE 2 de PLAN_CIRUGIA_EDITORIAL_PARTE_I): capitulo resultante de fusionar los antiguos Capitulo 5 (La casa no quiere ruido) y Capitulo 6 (Una amiga). El titulo visible pasa a ser "Una amiga"; el archivo (antes 05_La_Casa_No_Quiere_Ruido.md) se normalizo a 05_Una_Amiga.md el 2026-09-29, con enlaces vivos actualizados. El antiguo stub Nota_Una_Amiga_Fusionada.md se retiro el 2026-09-29, tras el renombrado. La renumeracion global posterior ya fue completada en cascada.
+Canon del autor (2026-10-04): en la escena de Rocco, Hector cierra el dialogo de los ojos del Cap. 3: "¡Ah! ¿Te referias a esos ojos?" (sustituye "¿La del casino?"). Acotacion "Se quedo mirando a Kal un momento": DISENO.
 -->
 
 # Capítulo 5 — Una amiga
@@ -250,7 +251,7 @@ El despacho estaba en penumbra, sólo con la lámpara del aparador encendida. Ab
 
 —Matteo tiene mejor gusto del que deja ver.
 
-Chiara se sentó a un costado de la mesa, no en la cabecera. Kal no se sentó todavía. Apoyó dos dedos sobre la madera, donde la otra noche habían estado las carpetas de los socios.
+Chiara se sentó a un costado de la mesa, no en la cabecera. Kal no se sentó todavía. Apoyó las yemas de los dedos sobre la madera, donde la otra noche habían estado las carpetas de los socios.
 
 —¿Ha pensado algo acerca de lo que se planteó en esta mesa?
 
@@ -818,9 +819,9 @@ Nadir sonrió demasiado lento.
 
 —Lo dijiste con la cara.
 
-Héctor dejó la caja sobre una mesa.
+Héctor dejó la caja sobre una mesa. Se quedó mirando a Kal un momento.
 
-—¿La del casino?
+—¡Ah! ¿Te referías a esos ojos?
 
 Kal le dio a Rocco otro pedazo de tortilla.
 
@@ -916,7 +917,7 @@ Kal se puso en cuclillas frente al perro y se lo acomodó.
 
 Rocco bostezó.
 
-—Así que esfuérzate. Por favor. Que parezca que estamos en una posición decente y que no somos plebe. —Le enderezó el nudo del pañuelo con dos dedos—. Sí, somos barrio. Ya sé. Pero ayúdame a aparentar que no.
+—Así que esfuérzate. Por favor. Que parezca que estamos en una posición decente y que no somos plebe. —Le enderezó el nudo del pañuelo con la punta de los dedos—. Sí, somos barrio. Ya sé. Pero ayúdame a aparentar que no.
 
 Rocco le lamió la muñeca, justo en el puño de la camisa.
 

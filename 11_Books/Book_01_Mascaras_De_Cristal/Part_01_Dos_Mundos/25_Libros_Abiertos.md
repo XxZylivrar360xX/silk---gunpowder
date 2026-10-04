@@ -84,7 +84,7 @@ El jacuzzi del penthouse llevaba media hora encendido cuando por fin se metieron
 
 —Casi te delatas cuando dijiste "un taller de la Almendra que conozco". Una clienta de verdad no conoce talleres en la Almendra.
 
-—Una clienta de verdad, no. —Movió el agua con dos dedos—. Yo sí.
+—Una clienta de verdad, no. —Movió el agua con un dedo—. Yo sí.
 
 Se rieron los dos del numerito. El silencio que vino después no fue incómodo.
 

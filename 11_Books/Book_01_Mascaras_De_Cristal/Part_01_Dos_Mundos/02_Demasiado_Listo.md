@@ -5,6 +5,7 @@ Ventana temporal: Fase 0, domingo, misma tarde-noche del Capitulo 1; ocurre H2.
 Lugares: Kingsley Field, carreteras del norte de San Aurelio, The Monarch Casino & Hotel, Almendra Towing.
 Funcion: dar a Chiara entrada propia, presentar a Fabrizio, Tommaso y Dario, la reunion interna sin Kal, el primer apreton de manos, el rechazo por "demasiado listo" y el cierre paralelo de radar mutuo.
 Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_01-03.md (seccion 9). Canon del autor: Chiara administraba casinos de Il Consorzio en Nueva York antes de San Aurelio; Il Consigliere la llama signora Ardizzone (institucion); entre sus aliados, el unico que naturalmente la llama Ardizzone es Fabrizio, por la amistad de infancia; la sala del Monarch queda en POV de Kal hasta que el sale, y despues pasa a Chiara.
+Dialogo K/C y reparto reescrito (2026-10-04, cirugia extraordinaria autorizada por el autor sobre capitulo TERMINADO; el estado se conserva). Direccion del autor: Chiara quiere entender la decision del Consigliere (que hace ella ahi) y cataloga a Tommaso, Matteo y Kal como variables externas, Kal la interesante por nueva; Kal busca dinero a gran escala y prestigio (Nadir ya abrio la estetica de autos; el casino abre carreras callejeras y tuneo), y los ojos de ella le duran mas que los pocos segundos que da a las mujeres de su circulo; Tommaso la vigila porque la version de Alessio asaltado solo en casa no le cierra, y la tolera porque su vision de negocio es afilada; Matteo ve en Kal a un hombre de calle que como socio puede abrir negocios futuros. DISENO del agente, BORRADOR pendiente de lectura; ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I.md §7. Intactos: Consigliere, H2, catre (salvo un parrafo), tina, y las lineas protegidas de Audit_Caps_01-03 §9.
 -->
 
 # Capítulo 2 — Demasiado listo
@@ -73,7 +74,9 @@ No preguntó por qué ella. No dijo que aceptaba. Las dos cosas habrían sido re
 
 Muy poco, pensó. Empezó esa misma madrugada.
 
-Apoyó dos dedos en el borde de la ventanilla y siguió el trazo de una carretera que nacía cerca del aeropuerto y se perdía hacia el norte. Pensó que San Aurelio sería eso: una escala con nombre propio. Unos días para ordenar un casino, medir a unos socios, firmar lo necesario y volver a casa con la sensación profesional de haber dejado algo funcionando mejor de lo que lo encontró.
+Apoyó la yema del índice en el borde de la ventanilla y siguió el trazo de una carretera que nacía cerca del aeropuerto y se perdía hacia el norte. Pensó que San Aurelio sería eso: una escala con nombre propio. Unos días para ordenar un casino, medir a unos socios, firmar lo necesario y volver a casa con la sensación profesional de haber dejado algo funcionando mejor de lo que lo encontró.
+
+Y, mientras tanto, averiguar qué había comprado Il Consorzio con ella.
 
 Las ruedas tocaron la pista con un golpe seco. Chiara parpadeó una vez, como si el cuerpo regresara antes que la mente.
 
@@ -93,7 +96,7 @@ El abrigo corto de felpa blanco le sobraba para California. No se lo quitó. Al 
 
 Matteo Bellacorte la esperaba junto a una columna, hablando por teléfono y usando la mano libre para dirigir a un chofer que no lo estaba mirando.
 
-No estaba solo. Dos hombres con gafetes del aeropuerto se mantenían a una distancia útil: lo bastante cerca para ser servicio, lo bastante lejos para no parecer escolta. Un empleado de aduana reconoció a Matteo, levantó dos dedos y siguió caminando sin pedirle nada.
+No estaba solo. Dos hombres con gafetes del aeropuerto se mantenían a una distancia útil: lo bastante cerca para ser servicio, lo bastante lejos para no parecer escolta. Un empleado de aduana reconoció a Matteo, se llevó un dedo a la frente y siguió caminando sin pedirle nada.
 
 —Chiara.
 
@@ -103,29 +106,19 @@ Ella dejó que la abrazara. Un segundo menos de lo que él habría querido, un s
 
 —Matteo.
 
-—Bienvenida a San Aurelio.
+—Bienvenida a San Aurelio. —Le tomó una de las maletas antes de que ella decidiera si se la daba. Ella conservó el bolso—. ¿Cómo estuvo el vuelo? No me digas: largo. Desde Nueva York todos son largos, aunque duren cinco horas; es el aire de adentro, te seca hasta las ideas. Te dejé agua en el coche. ¿Y la aduana? Les avisé que venías.
 
-—Eso suena a advertencia.
+—Me pidieron tres copias de la dirección.
 
-—Lo es, pero con hospitalidad.
+Matteo se detuvo medio paso.
 
-Él tomó una de sus maletas. Ella conservó el bolso.
+—Les avisé —repitió.
 
-—¿Cómo estuvo el vuelo?
-
-—Largo.
-
-—¿La aduana?
-
-—Aburrida.
-
-Matteo sonrió.
-
-—Entonces ya empezaste a adaptarte.
+Chiara no dijo nada. Él volvió a caminar, un poco más rápido.
 
 Caminaron hacia la salida privada, donde el vidrio mostraba la pista y, más allá, una carretera larga que se perdía entre terrenos secos. Chiara vio hangares, camiones de carga, una patrulla aeroportuaria, lectores de placas en la salida. No era sólo un aeropuerto. Era una boca, y todo lugar que traga y escupe gente sirve para algo más.
 
-—Los demás ya llegaron —dijo Matteo—. Fabrizio vino anoche. Tommaso esta mañana.
+—Los demás ya llegaron —dijo Matteo—. Fabrizio vino anoche; quiso cenar en el muelle y le cobraron como a turista, no se lo menciones. Tommaso esta mañana.
 
 Chiara no cambió el paso.
 
@@ -139,17 +132,13 @@ Matteo bajó la voz.
 
 —No sabía si te lo habían dicho.
 
-—Si no me lo hubieran dicho, habrías quedado peor.
+No se lo habían dicho. Il Consigliere había tenido un minuto entero para el cuarteto y el edificio de la calle 57, y ninguno para Tommaso.
 
-Él encajó el golpe sin defenderse.
+Matteo esperó una respuesta que no llegó, y se fue a terreno seguro.
 
-—Fabrizio está contento de verte.
+—Fabrizio preguntó si sigues odiando el merlot. Pedí que lo sacaran de la suite.
 
-—Fabrizio siempre está contento de verse reflejado en alguien que lo conoció más joven.
-
-—También preguntó si sigues odiando el merlot.
-
-—Eso no es amistad. Es memoria útil.
+—Sigo.
 
 El coche esperaba afuera: negro, limpio, con un chofer que miró a Matteo antes de mirar a Chiara.
 
@@ -157,9 +146,11 @@ En el trayecto, la ciudad no cambiaba de cara de golpe. Se iba corrigiendo. Los 
 
 Chiara no creyó en nada natural.
 
-—El casino está listo —dijo Matteo.
+—El casino está listo —dijo Matteo—. Bueno, listo. La lavandería no confirma, dos autos de la flotilla se murieron esta semana y el valet… ya vas a ver el valet. Pero la sala está lista, que es lo que importa.
 
-—Nada está listo el día que alguien dice que está listo.
+—Entonces no está listo.
+
+Matteo se rió.
 
 —Por eso estás aquí.
 
@@ -169,7 +160,7 @@ Chiara miró por la ventana. Una grúa amarilla pasó junto a ellos en sentido c
 
 Matteo tardó medio segundo más de lo necesario.
 
-—Depende de qué parte.
+—Depende de qué parte. El puerto tiene sus cosas, el ayuntamiento cree que tiene las suyas, los del norte…
 
 —No pregunté quién firma.
 
@@ -177,9 +168,9 @@ Matteo tardó medio segundo más de lo necesario.
 
 —Dario Varek.
 
-—¿Socio local?
+—¿Socio de Il Consorzio?
 
-—Socio mayoritario.
+—Socio mayoritario del Monarch.
 
 —Eso tampoco fue lo que pregunté.
 
@@ -199,11 +190,19 @@ Fabrizio Rinaldi la esperaba en el lobby con una sonrisa demasiado grande para u
 
 Ella le permitió besarle ambas mejillas.
 
-—Fabrizio. Sigues diciendo tonterías con buena pronunciación.
+—Fabrizio.
 
-—Es lo único que el norte de Italia nos dejó a los demás.
+—¿Comiste? Lo del avión no cuenta.
 
-La risa de él era real. También era útil. Un viejo amigo en una habitación nueva le daba a Chiara una coordenada que nadie más podía comprar.
+—Comí.
+
+—No comiste. —Bajó la voz, como si Palermo pudiera oírlos desde ahí—. Tu madre me mataría.
+
+—Fabrizio.
+
+—Ya, ya.
+
+Retrocedió medio paso, riéndose. La risa de él era real. También era útil. Un viejo amigo en una habitación nueva le daba a Chiara una coordenada que nadie más podía comprar.
 
 Tommaso Lusardi estaba tres pasos detrás.
 
@@ -217,13 +216,11 @@ Tenía los ojos de una familia que había aprendido a confundir duelo con propie
 
 Él le tomó la mano sin besarla. La mirada le bajó al anular izquierdo con una precisión mínima.
 
-—Me alegra verte bien.
+—Me alegra verte bien. Después de todo.
 
-—Qué frase tan amplia.
+Chiara retiró la mano. No contestó.
 
-Tommaso sonrió tarde.
-
-—La amplitud evita errores.
+Tommaso sonrió tarde, como si el silencio también fuera un dato y pensara guardarlo.
 
 Fabrizio dejó de sonreír lo suficiente para que Chiara supiera que también lo había oído. Matteo se ocupó de indicarle algo al chofer aunque el chofer ya se había ido.
 
@@ -241,7 +238,7 @@ Traje oscuro, postura impecable, rostro de hombre que había aprendido a parecer
 
 —Me alegra que haya llegado bien. San Aurelio puede ser confusa al principio.
 
-—Las ciudades suelen esforzarse mucho por parecerlo.
+—Me dijeron que venía a dirigir.
 
 Varek sostuvo una sonrisa educada.
 
@@ -289,7 +286,7 @@ Lo dijo con el tono con que un hombre recuerda una factura que ya pagó.
 
 —La prensa no es el primer problema. La primera semana sólo necesita tres cosas: que nadie espere demasiado, que nadie pierda una maleta y que ningún empleado tenga una historia mejor que la nuestra.
 
-Matteo tocó con dos dedos la carpeta de proveedores.
+Matteo tocó con el índice la carpeta de proveedores.
 
 —Conozco a alguien para una parte.
 
@@ -297,7 +294,7 @@ Dario lo miró.
 
 —¿Una parte?
 
-—Grúas, taller, mantenimiento. Tiene reputación limpia en La Almendra y suficientes rutas para que media ciudad no se sorprenda si lo ve llegar.
+—Grúas, taller, mantenimiento. Para empezar. —Matteo giró la carpeta hacia el centro de la mesa, como si el nombre estuviera escrito ahí—. Tiene reputación limpia en La Almendra y suficientes rutas para que media ciudad no se sorprenda si lo ve llegar. Y conoce la calle. No la de los periódicos. La otra. Un casino nuevo va a necesitar a alguien así cuando quiera crecer hacia donde no llegan las licencias.
 
 —¿Nombre? —preguntó Tommaso.
 
@@ -315,11 +312,7 @@ Chiara levantó la vista.
 
 —¿Lo revisaste?
 
-—Lo conocí hoy. En una cafetería del barrio.
-
-—Eso no es revisar.
-
-—No. Eso fue verlo funcionar.
+—Lo conocí hoy. En una cafetería del barrio. Ya sé, ya sé. Pero escúchenme.
 
 Dario cerró la carpeta.
 
@@ -337,19 +330,11 @@ Dario la miró un segundo.
 
 —¿Le parece interesante, signora Bellandi?
 
-—Me parece prematuro.
+Chiara apoyó las manos sobre la carpeta. En la mesa ya tenía a un socio que rodeaba los puntos, a un Lusardi que le miraba la mano y a un dueño que no estaría en la junta. Mercer era el único que no venía con ella en el avión.
 
-—No le pregunté si era momento.
+—Quiero verlo.
 
-Chiara apoyó las manos sobre la carpeta.
-
-—Entonces sí.
-
-Fabrizio bajó la mirada para esconder una sonrisa. Tommaso no escondió nada.
-
-—Interesante no significa conveniente —dijo él.
-
-—Casi nunca —contestó Chiara.
+Tommaso la miró a ella, no a Matteo.
 
 Dario no sonrió.
 
@@ -411,6 +396,8 @@ Odiaba el azar con una calma que había aprendido a no enseñar.
 
 No era moral. La moral habría sido más fácil de explicar. Lo que le daba asco era la serenidad con la que una habitación entera aceptaba que algo valiera más o menos por caer del lado correcto. Una ficha, una carta, un cuerpo, un nombre. El casino lo llamaba suerte porque la palabra precio habría espantado a los clientes.
 
+Y aun así había venido. Nadir ya andaba metiendo pintura y alerones en los coches del barrio; detrás de la estética venían las carreras de madrugada, el tuneo, los clientes que pagaban por correr lo que nadie más tenía. Esa gente no se juntaba en La Almendra. Se juntaba bajo marquesinas como ésa. Para llegarles hacía falta dinero de otra escala y un nombre que entrara por la puerta principal.
+
 Se acomodó el saco del traje azul.
 
 Los tenis blancos eran la única concesión que se había permitido: limpios, absurdos bajo el corte correcto del pantalón, una manera de llegar presentable sin entregar la garganta.
@@ -425,49 +412,29 @@ Matteo apareció bajo la marquesina antes de que Kal tocara la puerta giratoria.
 
 —Nueve es nueve.
 
-—Los socios apreciarán eso.
+—Bien. Bien. —Matteo le acomodó la solapa sin pedir permiso y la soltó enseguida—. Escuche: Dario no va a estar, le salió una diligencia, y casi mejor; Dario decide antes de oír. Tommaso va a preguntar cosas que no le importan. No se lo tome personal, es así con todos. Fabrizio es buena gente. Y la signora…
 
-—Los socios aprecian lo que les conviene.
+No terminó.
 
-Matteo sonrió.
-
-—Va a caerles fatal.
-
-—Entonces la noche va bien.
-
-Matteo hizo ademán de llevarlo adentro, pero no cruzó la puerta.
+Hizo ademán de llevarlo adentro, pero no cruzó la puerta.
 
 —Entramos por principal —dijo—. No por carga.
 
 Kal miró el vidrio, las cámaras pequeñas sobre las columnas, los guardias con saco que miraban manos antes que caras, la puerta de servicio mal disimulada detrás de un arreglo floral demasiado grande.
 
-—Eso ya lo decidió usted.
+—¿Quién decidió eso?
 
-—Lo decidieron ellos.
+—Ellos.
 
 Matteo lo vio contar.
 
-—Costumbre.
-
-—Trabajo.
-
 —Esta noche no está trabajando todavía.
 
-Kal miró una cámara y luego a él.
+Kal siguió contando.
 
-—Entonces no me están pagando suficiente.
+Matteo sonrió, pero miró hacia la entrada como si esperara a alguien. Algo en él había cambiado. Una espera mínima. Una pequeña demora que no era logística.
 
-Matteo sonrió, pero miró hacia la entrada como si esperara a alguien.
-
-—La sala privada está lista.
-
-—¿Todos?
-
-—Casi. Dario tuvo que salir.
-
-Algo en Matteo había cambiado. Una espera mínima. Una pequeña demora que no era logística.
-
-Kal no preguntó quién era Dario.
+Kal no preguntó quién era la signora.
 
 Entonces la vio.
 
@@ -575,7 +542,7 @@ Tommaso entrelazó los dedos.
 
 —Eso suena limitado.
 
-—Es una forma de cobrar menos impuestos por decir lo mismo.
+—Es lo que hago.
 
 Elise levantó el bolígrafo y luego decidió no escribir. Kal vio que Chiara también lo había notado.
 
@@ -589,9 +556,11 @@ Kal miró la mesa antes de contestar.
 
 —Hable en general.
 
-—En general nadie paga bien por soluciones generales.
+Kal se tomó un momento. De casinos en general no sabía nada que sirviera en esa mesa.
 
-Fabrizio se rió. Esta vez no lo escondió.
+—En general, no sé. De coches, sí.
+
+Fabrizio se rió, sin malicia, como se ríe uno de alguien que no fingió.
 
 Tommaso mantuvo la voz igual.
 
@@ -629,7 +598,7 @@ Tommaso se inclinó hacia delante.
 
 Kal lo miró por primera vez.
 
-—Entonces fui generoso.
+—Usted preguntó qué podía hacer por el casino.
 
 Kal sintió la atención de Chiara antes de verla: limpia, completa. No era admiración. Era algo más útil.
 
@@ -641,7 +610,7 @@ Tommaso dejó pasar un segundo.
 
 —¿Está retirando la observación?
 
-—No. Estoy retirando la discusión.
+Kal no contestó. El arreglo floral seguía donde estaba, con o sin su permiso.
 
 Fabrizio bajó la vista a sus manos. Matteo miró a Chiara como si quisiera saber si eso acababa de salir bien o de salir carísimo.
 
@@ -659,11 +628,11 @@ Tommaso tardó en contestar.
 
 —Sus aspiraciones son altas.
 
-—Las bajas no pagan.
+—Son las de cualquiera que tiene un negocio.
 
 —¿Qué porcentaje pediría? —preguntó ella.
 
-Kal volteó hacia ella. No parecía sorprendido de que hubiera hablado; parecía haber estado esperando que la pregunta correcta saliera de algún lado.
+Kal volteó hacia ella. Era la primera pregunta de la noche que no le pedía justificarse, sólo una cifra. La miró más de lo que necesitaba para contestar. Ella no apartó los ojos, verdes por dentro, oscuros en el borde, ni lo ayudó a terminar.
 
 —Sobre mantenimiento, fijo mensual y piezas aparte. Sobre remolques, tarifa preferente por volumen. Sobre problemas que no sean de coches, no doy porcentaje sin saber qué estoy comprando con mi nombre.
 
@@ -681,7 +650,7 @@ Kal lo oyó. Chiara también. Y la frase se quedó en la mesa, esperando a un ho
 
 —La inteligencia no es un defecto —dijo Fabrizio.
 
-—Depende de quién la administre —dijo Tommaso.
+Tommaso no le contestó. Volvió a girar el anillo de sello.
 
 Kal se acomodó el saco. El traje le pesaba más desde hacía tres minutos.
 
@@ -691,7 +660,7 @@ Tommaso le concedió una sonrisa de cortesía.
 
 —Buscamos continuidad, señor Mercer. Orden. Confianza.
 
-—La confianza no se compra en paquete.
+—Eso se gana con tiempo.
 
 —No. Se autoriza.
 
@@ -717,11 +686,9 @@ No vendió más. No pidió otra oportunidad. No ofreció bajar el precio.
 
 Matteo lo acompañó hacia la puerta con una prisa social que intentaba convertir el rechazo en pausa.
 
-—Te llamo mañana.
+—Te llamo mañana. Esto es normal, así son las primeras juntas, Tommaso es así con todos…
 
-—Si hay algo por lo que llamar.
-
-—Siempre hay algo.
+—Está bien, Matteo.
 
 Kal miró una vez hacia Chiara. No buscó complicidad. No buscó ayuda. Sólo registró que ella seguía ahí, sentada en una mesa que acababa de preferir no verlo.
 
@@ -755,13 +722,11 @@ Tommaso giró apenas la cabeza.
 
 —O cuánto vale arreglarlas —dijo Chiara.
 
-Tommaso sonrió tarde.
+Tommaso la sostuvo con la mirada lo que tarda una cuenta en revisarse. No encontró el error.
 
-—Qué optimista.
+—Puede ser.
 
-—No. Conveniente.
-
-Tommaso se levantó. Los demás lo hicieron medio segundo después, menos Chiara.
+Se levantó. Los demás lo hicieron medio segundo después, menos Chiara.
 
 —No habrá contrato con Mercer por ahora —dijo Tommaso—. Matteo, busque una opción menos creativa. Chiara, mañana revisaremos prensa local y lista de invitados.
 
@@ -779,7 +744,11 @@ Fabrizio la conocía lo bastante para no creerle.
 
 Ella cerró la carpeta.
 
-—Sólo estoy haciendo inventario.
+—Sólo quiero saber para qué me trajeron.
+
+—Para dirigir un casino.
+
+—Eso lo hacía en Nueva York.
 
 ***
 
@@ -809,6 +778,8 @@ Chiara Bellandi.
 
 Italiano primero. Español después. Mano firme. Ojos que no miraron el traje para decidir si creerlo. Miraron lo que el traje no tapaba.
 
+A las mujeres de su círculo, a las de su edad, Kal les daba los segundos que pedía la cortesía y después las olvidaba sin culpa. Esos ojos verdes, oscuros en el borde, seguían ahí.
+
 Kal cerró los ojos.
 
 No era inicio de nada. No se dijo eso. No habría sabido qué hacer con una idea tan inútil.
@@ -819,7 +790,7 @@ Alguien en esa mesa había entendido que su nombre también era una pieza del ne
 
 Eso bastaba para dejarla en el radar.
 
-Lo raro era no saber por qué seguía ahí después de haber apagado la luz.
+Lo raro era lo demás.
 
 ***
 

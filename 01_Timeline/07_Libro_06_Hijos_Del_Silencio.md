@@ -12,7 +12,7 @@
 - Elenna participa en la caza y el arresto del asesino serial; el enfrentamiento ocurre en el subsuelo de la Presa del Sur.
 - La captura impulsa su carrera y la rompe en lo privado.
 - Resolver a Ethan no resuelve el caso Vera.
-- Corrado muere de muerte natural en San Aurelio; Walt se retira del Monarch; Michael Ardizzone, hermano menor de Elenna, llega al funeral y se queda como representante familiar del Monarch y Bellandi Ridge; Livia Ferraro, su prometida, regresa sola a Palermo; Michael se enamora de Iris y se queda en San Aurelio; al cierre la nombra administradora de Ridge y él toma el Monarch como director general. *(CANON DEL AUTOR 2026-10-04.)*
+- Corrado muere de muerte natural en San Aurelio; Walt se retira del Monarch; Michael, hermano menor de Elenna, regresa al funeral, ahora como Michael Ardizzone, y se queda como representante familiar del Monarch y Bellandi Ridge; Livia Ferraro, su prometida, regresa sola a Palermo; Michael se enamora de Iris y se queda en San Aurelio; al cierre la nombra administradora de Ridge y él toma el Monarch como director general. *(CANON DEL AUTOR 2026-10-04.)*
 
 ## Cierre
 

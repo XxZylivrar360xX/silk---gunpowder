@@ -2,7 +2,7 @@
 
 *Seda y Pólvora — Ficha de Personaje*
 
-> **CANON DEL AUTOR (2026-10-04).** Segundo hijo de [[02_Characters/Kal_Mercer]] y [[02_Characters/Chiara_Bellandi]]. Hermano menor de [[02_Characters/Elenna_Mercer]]. Entra en el **Libro VI** (*Hijos del Silencio*) y sigue en el VII con una historia civil; no es protagonista de la línea policial de Elenna.
+> **CANON DEL AUTOR (2026-10-04).** Segundo hijo de [[02_Characters/Kal_Mercer]] y [[02_Characters/Chiara_Bellandi]]. Hermano menor de [[02_Characters/Elenna_Mercer]]. **Visita San Aurelio en el Libro V** (*Juramento de Hierro*) como Michael Mercer; entra de lleno en el **Libro VI** (*Hijos del Silencio*), ya como Michael Ardizzone, y sigue en el VII con una historia civil; no es protagonista de la línea policial de Elenna.
 
 **Nombre legal:** Michael Mercer Ardizzone. Nace **Michael Mercer**; agrega legalmente **Ardizzone** cuando decide asumir responsabilidad dentro de la famiglia. Profesionalmente y en Italia se presenta como **Michael Ardizzone**. Nunca lleva Bellandi: es la identidad que Chiara eligió para sí, no un apellido acumulable para los hijos.
 **Nombre de pila:** Michael, no Michele (decisión del autor, 2026-10-04), porque lleva el nombre de [[02_Characters/Michael_Grayson]], el amigo de Kal (DISEÑO: la razón no se explica en prosa).
@@ -36,6 +36,17 @@ Corrado se la entrega **en vida**. No es una coronación por muerte: así se evi
 
 Por eso, en el VI, la muerte de Corrado **no le da poder**: le quita a su mentor. La silla ya era suya. Lo que hereda es todo lo que Corrado sostenía en persona, y por eso se queda en San Aurelio y vuelve a decirse que "el deber siempre es primero".
 
+## Libro V: la visita al abuelo (CANON DEL AUTOR, 2026-10-04)
+
+- A los ~19, en su etapa de observador y aprendiz, llega a San Aurelio **de visita con el abuelo**, que vive como Manfred Gabe y administra Bellandi Ridge.
+- Se presenta como **Michael Mercer**: todavía no agrega Ardizzone.
+- Conoce a [[02_Characters/Iris_Harlow|Iris]]. Para ella es el hermano de Elenna, el nieto del señor Gabe. La historia pasada no necesita foco para que la revelación funcione después; basta con diseñarla bien.
+- En el VI regresa **como el señor Ardizzone**.
+- DISEÑO: visita acotada, no presencia de todo el libro; se va antes del cierre, llamado por la mesa. El deber lo saca de San Aurelio en el V y le sirve de excusa para quedarse en el VI. No cruza la línea policial de Elenna (no es testigo de Ethan).
+- DISEÑO: es la única vez que el lector ve juntos en vida a Corrado y a Michael; le da peso al funeral del VI.
+- DISEÑO (derivado): a los 19 no está comprometido; Livia entra en su vida en el salto entre el V y el VI.
+- **PENDIENTE:** duración y momento de la visita dentro del V; qué percibe Michael del cariño del abuelo por Iris (el porqué lo dan los diarios del camper en el VI).
+
 ## Lo que ve Chiara
 
 Chiara entiende a sus dos hijos desde ambos lados: quiso alejarlos de las armas que le hicieron daño en la vida, y los dos decidieron tomar esas armas como propias. Elenna, como policía de San Aurelio; Michael, como cabeza en la mesa para hacer una diferencia contra las costumbres viejas.
@@ -46,7 +57,9 @@ Ficha propia: [[02_Characters/Livia_Ferraro]]. Arquitecta palermitana, civil; es
 
 ## Iris (CANON DEL AUTOR, 2026-10-04)
 
-En San Aurelio se enamora de [[02_Characters/Iris_Harlow|Iris]], hija de Trix y nieta de Varek, que conoció a Corrado como "el señor Gabe" y trabaja en Bellandi Ridge. Con ella se presenta como Michael Mercer. Sus diarios le revelan que el abuelo se acercó a ella a propósito. Su frase se vuelve coartada: dice que se queda por deber, y se queda por ella.
+Transición completa V–VII: [[06_Relationships/Michael_e_Iris]].
+
+En San Aurelio se enamora de [[02_Characters/Iris_Harlow|Iris]], hija de Trix y nieta de Varek, que conoció a Corrado como "el señor Gabe" y trabaja en Bellandi Ridge. La conoce en la visita del V como Michael Mercer; en el VI regresa como el señor Ardizzone. Sus diarios le revelan que el abuelo se acercó a ella a propósito. Su frase se vuelve coartada: dice que se queda por deber, y se queda por ella.
 
 ## Se queda y pierde la silla (CANON DEL AUTOR, 2026-10-04)
 
@@ -55,7 +68,7 @@ En San Aurelio se enamora de [[02_Characters/Iris_Harlow|Iris]], hija de Trix y 
 - **Michael se queda en San Aurelio y pierde la silla.** Por primera vez pone algo por delante del deber, y lo sabe. Su frase se paga.
 - **Protege el cierre del IV:** la silla Ardizzone no se muda a San Aurelio. Se queda el hombre, no el poder de la familia. En San Aurelio, con Iris, vuelve a ser Michael Mercer (DISEÑO: sin cambiar su nombre legal).
 - **Pasa al VII como historia civil.** Su trama no invade la línea policial de Elenna; está atada al pasado, el suyo y el de sus padres.
-- **PENDIENTE:** si pierde la silla en el VI o en el VII; si renuncia o se la quitan; quién la ocupa en Palermo; ~~qué conserva en San Aurelio~~ (resuelto: director general, ver abajo); qué pasa con Livia.
+- ~~**PENDIENTE:** si pierde la silla en el VI o en el VII; si renuncia o se la quitan~~ (resuelto 2026-10-04: **renuncia en el VII, después de la bomba doble**, sin que le compre el perdón; ver [[06_Relationships/Michael_e_Iris]]). **PENDIENTE:** quién la ocupa en Palermo; ~~qué conserva en San Aurelio~~ (resuelto: director general, ver abajo); qué pasa con Livia.
 
 ## Lo que sabe: el camper y el caso Vera
 
@@ -79,18 +92,18 @@ Michael **sabe menos de lo que podría**. Antes de que Elenna lo toque, no conoc
 
 ## Su arco en el Libro VI
 
-1. Corrado muere de muerte natural en su casa de San Aurelio. Michael viaja al funeral con Livia.
+1. Corrado muere de muerte natural en su casa de San Aurelio. Michael regresa al funeral con Livia, ahora como el señor Ardizzone (en el V vino como Michael Mercer).
 2. Walt, golpeado por perder a su viejo amigo, se retira de la administración del Monarch para pasar más tiempo con Nat.
 3. Livia conoce a Elenna, ve Ridge y el Monarch, y regresa sola a Palermo. Michael promete alcanzarla en unos días.
 4. Michael se queda a sostener, como representante familiar, **el Monarch y Bellandi Ridge**, y además ordena el camper. ~~Su estancia es **temporal**.~~ No la alcanza: dice "el deber siempre es primero", pero se queda por Iris.
-5. A lo largo del libro, la relación profesional con Iris se vuelve mucho más que amistad, sin empezar todavía.
-6. ~~Instala una administración profesional y regresa a Italia.~~ **Cierre del VI:** se queda en San Aurelio, nombra a Iris administradora de Ridge y toma el Monarch como director general de ambos. Pierde la silla (momento PENDIENTE: VI o VII).
+5. A lo largo del libro, la relación profesional con Iris se vuelve mucho más que amistad, hasta el error: se acuestan mientras él sigue comprometido con Livia (CANON DEL AUTOR, 2026-10-04). Él le promete terminar con Livia y **no lo cumple**; Iris sí cumple con [[02_Characters/John|John]]. Livia rompe primero. La relación no empieza todavía.
+6. ~~Instala una administración profesional y regresa a Italia.~~ **Cierre del VI:** se queda en San Aurelio, nombra a Iris administradora de Ridge y toma el Monarch como director general de ambos. La silla la pierde en el VII: renuncia después de la bomba doble.
 
 **En el VII:** empieza la relación con Iris.
 
 ## Conexiones
 
-- [[02_Characters/Elenna_Mercer]]: hermana mayor; se criaron juntos. Le abre la puerta hacia Volpi sin resolverle el caso.
+- [[02_Characters/Elenna_Mercer]]: hermana mayor; se criaron juntos. Los dos saben desde niños que el señor Gabe es Corrado (CANON DEL AUTOR, 2026-10-04). Le abre la puerta hacia Volpi sin resolverle el caso. Relación: [[06_Relationships/Elenna_y_Michael]].
 - [[02_Characters/Corrado_Ardizzone]]: abuelo y mentor; le entrega la silla en vida. Lo llama Michele. Pasaba temporadas en Italia con la familia.
 - [[02_Characters/Walter_Keegan]]: lo releva en el Monarch.
 - [[02_Characters/Livia_Ferraro]]: prometida.
@@ -98,4 +111,4 @@ Michael **sabe menos de lo que podría**. Antes de que Elenna lo toque, no conoc
 
 ## Preguntas abiertas
 
-> **PENDIENTE (reservado a esos libros):** cómo termina lo de Livia.
+> ~~**PENDIENTE (reservado a esos libros):** cómo termina lo de Livia.~~ **CANON DEL AUTOR (2026-10-04):** Livia rompe desde Palermo en el VI, sin escándalo. CANON DEL AUTOR (2026-10-04): antes de que ella rompa, Michael e Iris se acuestan mientras él sigue comprometido. Ver [[06_Relationships/Michael_e_Iris]].

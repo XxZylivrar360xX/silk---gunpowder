@@ -40,6 +40,12 @@ Ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]] y [[07_Ideas/Libro_04_Incu
 - **Trayecto de Elenna (CANON DEL AUTOR, 2026-09-16; ubicado en el V el 2026-10-03):** academia (~6 meses) → graduación → patrulla y mudanza de casa de Marisol a su departamento propio, casi al mismo tiempo. **Rex y K9 no aparecen en este libro** (entran en el VI tras un salto de ~2–3 años; CANON DEL AUTOR 2026-10-03).
 - **Cierre — doble golpe:** el duelo de Nicholas sin objeto, en paralelo a la **tensión sin resolver** entre Elenna y Erin — dos personas que deberían protegerse mutuamente, alejándose justo cuando más se necesitan, mientras Ethan queda cómodo y sin sospecha. **Sólo tensión, no ruptura** (CANON DEL AUTOR, 2026-10-03): la fractura abierta se reserva para la presa en el VI.
 
+## Línea civil: la visita de Michael (CANON DEL AUTOR, 2026-10-04)
+
+- [[02_Characters/Michael_Ardizzone|Michael]] (~19) visita a su abuelo, que vive como Manfred Gabe y administra Bellandi Ridge. Se presenta como **Michael Mercer** y conoce a [[02_Characters/Iris_Harlow|Iris]], para quien es el hermano de Elenna y el nieto del señor Gabe.
+- DISEÑO: visita acotada; se va antes del cierre, llamado por la mesa. No toca la línea policial ni a Ethan. Es la única vez que se ve en vida a Corrado con Michael.
+- PENDIENTE: duración y momento de la visita.
+
 ## Temas (comparte eje con los Libros VI y VII, ver [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]])
 
 1. Heredar una historia vs elegir una vida.

@@ -201,7 +201,7 @@ Pregunta: *si saco este tramo, ¿otro ya hace su trabajo?*
 - **163:** la nota de Mabel sobre Blake. Es la herida de ego que el 38 usa ("su herida es ego"), y "Yo sólo sirvo café" es su firma. La "vanidad pequeña" de 169 está protegida por M4.
 - **169 y 171:** el viñedo y "Un dato sin uso hoy…" (CONSERVAR por M4, 2026-09-11).
 - **255:** Kal entiende que Chiara decide que Kenji siga sin saber. Es inferencia suya y primera muestra de la regla de i Sussurri.
-- **283–301:** i Sussurri, "una red visible es un blanco, y una invisible es una costumbre", la iglesia y el confesionario, "Creo en lo que puedo pagar, arreglar o cobrar". Es fe más hilo A en diálogo ("una mentira dicha con cuidado puede proteger más gente…"). **Sólo se toca A2.**
+- **283–301:** i Sussurri, "una red visible es un blanco, y una invisible es una costumbre", la iglesia y el confesionario, "Creo en lo que puedo pagar, arreglar o cobrar". Es fe más hilo A en diálogo ("una mentira dicha con cuidado puede proteger más gente…"). **Sólo se toca A2.** *(2026-10-04: protección levantada por el autor para la reescritura del diálogo; ver §12.)*
 - **303–305:** "De ahora en más, si tengo que llegarte algo, lo traigo yo." / "*Llegarte.* No *llegarle a alguien.*" (paga el 14).
 - **315:** "Se había armado para una pelea entera y volvía con las manos vacías de la manera equivocada…" (interioridad).
 
@@ -316,3 +316,18 @@ Pregunta: *si saco este tramo, ¿otro ya hace su trabajo?*
 **Autocrítica de la segunda tanda:** lo más arriesgado es el recuerdo. Es prosa nueva en un capítulo TERMINADO y la escribió el agente: si la voz no es la tuya, se reescribe o se retira sin tocar lo demás (B1 y B4 se sostienen solos). En los cortes, el riesgo mayor es B1: "Fue la ruta." queda más seco. La explicación llega veinte líneas después, en 109, y creo que el lector aguanta ese hueco.
 
 **Adenda (2026-09-26, autor):** el invitado de la mesa tres es Nereo Volpi con otro nombre, y "jugaba con Alessio" es tapadera (DISEÑO). Registrado en PENDING, en la ficha de Volpi y en el ledger (escalón 3). La prosa del 12 no cambia y la identidad no se confirma en el Libro I.
+
+## 12. Reescritura del diálogo Kal/Chiara (2026-10-04)
+
+**Origen:** nota de ChatGPT (archivada en `98_Agent_Handoff/archive/chatgpt/2026-10-04_auditoria_dialogo_cap12_roma_atrii.md`) más la dirección del autor en la sesión. Protocolo corregido por el autor: **sin VOD**; diseño directo desde personaje, emoción, deseos y situación; Claude ejecuta la prosa. Vara: [[12_Craft_Policies/voice/Kal_Mercer|Kal]] y [[12_Craft_Policies/voice/Chiara_Bellandi|Chiara]] (registro emocional piloto).
+
+**Dirección del autor (resumen):** Kal llega a reconstruir un hecho, no a discutir una idea, y el papel conduce la conversación. Chiara admite pronto y eso no cierra la escena. La escala del conflicto cambia sin anunciarse: el lector entiende la compartimentación al mismo tiempo que Kal. Chiara defiende decisiones, no "su filosofía", y marca una pequeña defensa territorial. Al menos una pregunta se queda sin respuesta. Las emociones no van sincronizadas: ella sube en control y él baja en certeza. Recursos físicos: el papel, Kenji cerca y fuera de la conversación, y el casino que Chiara administra mientras habla. Salida con concesiones distintas: ella cambia una práctica porque él vio un riesgo real; él no exige control sobre una estructura que no entiende. La fe aparece como origen antiguo de la red, sin que ninguno la articule entera. Se sustituye, no se expande.
+
+**Ejecución (DISEÑO, pendiente de lectura del autor):** tramo M9 desde "Lo llevó aparte" hasta el final (751 → 833 palabras, +82).
+- Se conservan: la admisión ("Tienes razón. No vuelve a pasar…"), el hombre que preguntó por el Peugeot, "Pude… no la voy a inventar", "red visible / invisible / costumbre", "Suena a iglesia / Es iglesia, un poco", la confesión y el oído equivocado (acortada), "Creo en Dios, y en que una mentira…", "pagar, arreglar o cobrar / inventario", la ternura, el cambio de ruta, *Llegarte*, "¿Qué significa esto? / Todavía no / No fue un no" y el cierre "Roma Atrii".
+- Salen: "La mía no pide resultados. Sólo pide que seas honesto…" y "Supongo que también es una fe, a su manera" (esgrima de tesis); "¿Por qué latín?" (ya está respondido en el reclutamiento de Kenji); el párrafo de salida "no había habido nada que ganar", que ya no es verdad, sustituido por el peso "cambiado de lugar".
+- Nuevo: interrogatorio de la cadena (¿lo escribiste tú?, ¿él sabe leer?, ¿quién es el chico? "No lo sé. Kenji sí."); "Yo lo paré"; Chiara resuelve una mesa con dos dedos sin moverse; Kal capta "*su* caja" y deduce que hay otras; "El chico ya te lo di, Kal. Esto otro es mío" (la pregunta sin respuesta, un *no* que hace contraste con el "Todavía no"); la concesión de Chiara está anclada a que el nombre se dijo en voz alta en el Patio; la de Kal es que se guarda la pregunta de "cuántos, quiénes, en qué pisos".
+- Los pagos se mantienen: 14 (papel doblado en cuatro, sin abrir; promesa de traerlo ella), 37 (cita textual intacta) y 38 (el chico buscaba a Kal). "Lo escribiste tú / Sí" no revela el significado de Roma Atrii.
+
+**PENDIENTE:** lectura del autor; revisar si "Algo en ella cambió de mano, como una ficha" glosa demasiado el cruce; reevaluar las matrices sólo si la prosa aprobada muestra conducta nueva.
+

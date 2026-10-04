@@ -201,7 +201,7 @@ Rubio. Ojos azules. Uniforme de patrulla con las mangas ajustadas de una manera 
 
 —Blake Stanton.
 
-No le ofreció la mano. Le mostró el nombre en la placa con dos dedos, como si eso hiciera el saludo más interesante.
+No le ofreció la mano. Le mostró el nombre en la placa con el pulgar, como si eso hiciera el saludo más interesante.
 
 —Chiara.
 

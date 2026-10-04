@@ -44,5 +44,6 @@ Elenna es la ironía de esa frase; Livia es quien la pone a prueba. Su conflicto
 
 ## Preguntas abiertas
 
-> **PENDIENTE (reservado a esos libros):** cómo termina lo suyo con Michael. Se decide al escribirlos; no se rellena antes.
+> ~~**PENDIENTE (reservado a esos libros):** cómo termina lo suyo con Michael.~~ **CANON DEL AUTOR (2026-10-04):** ella rompe desde Palermo en el VI, sin escándalo: entiende antes que él que no va a volver (*si siempre es primero, yo siempre soy segunda*). CANON DEL AUTOR (2026-10-04): antes de que ella rompa, Michael e Iris se acuestan mientras él sigue comprometido. Livia **intuye y rompe antes de que él confiese**, y antes de que él cumpla lo que le prometió a Iris (terminar con ella); DISEÑO: nunca sabe con certeza qué pasó. Ver [[06_Relationships/Michael_e_Iris]].
 > **PENDIENTE:** apariencia; cómo conoció a Michael; su relación con Kal y Chiara.
+> **DISEÑO (derivado de la visita del V, 2026-10-04):** a los ~19 Michael no está comprometido; Livia entra en su vida en el salto entre el V y el VI.

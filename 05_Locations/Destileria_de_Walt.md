@@ -4,7 +4,7 @@
 
 **Qué es:** una vieja bodega de granos reconvertida en destilería. [[02_Characters/Walter_Keegan|Walt]] hace whisky de maíz en alambique de cobre y lo añeja en barrica nueva; también saca un destilado blanco para tener caja mientras el otro madura.
 **Dónde:** borde industrial de [[05_Locations/San_Aurelio|La Almendra]], del lado del ramal de ferrocarril / el Canal Seco — donde el barrio se vuelve naves, patios de maniobra y bardas. **PENDIENTE** confirmar el punto exacto.
-**De quién es:** de Walt. [[02_Characters/Chiara_Bellandi|Chiara]] lo ayudó a comprarla (ver [[06_Relationships/Hitos#El torneo de poker|Cap. 12]] / ficha de Walt). Que ella tenga o no papel sobre el inmueble: **PENDIENTE** — la propuesta es que no, que sea de Walt y limpia, porque eso es exactamente lo que hace a Walt distinto (nadie le debe nada, él no le debe nada a nadie).
+**De quién es (CANON DEL AUTOR, 2026-10-04):** de Walt, con [[02_Characters/Chiara_Bellandi|Chiara]] como **socia minoritaria** a título personal (su dinero, su firma; fuera de la dirección del casino). El Monarch es cliente con contrato de suministro, no socio. Pacto en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/11_El_Farol|Cap. 11]]. *Supera lo siguiente:* de Walt. [[02_Characters/Chiara_Bellandi|Chiara]] lo ayudó a comprarla (ver [[06_Relationships/Hitos#El torneo de poker|Cap. 12]] / ficha de Walt). Que ella tenga o no papel sobre el inmueble: **PENDIENTE** — la propuesta es que no, que sea de Walt y limpia, porque eso es exactamente lo que hace a Walt distinto (nadie le debe nada, él no le debe nada a nadie).
 
 ---
 
@@ -49,7 +49,7 @@ La destilería no es un "lugar donde se da información". Como La Esquina de Mab
 
 > **PENDIENTE:** qué producía la bodega antes (propuesta: granos y forraje — encaja con el whisky de maíz y con el "olor a edificio viejo"). Confirmar o cambiar.
 
-> **PENDIENTE:** si Chiara conserva algún instrumento sobre el inmueble o el préstamo, o si la operación fue y quedó limpia. DISEÑO: limpia.
+> **RESUELTO (2026-10-04, autor):** no hay préstamo: Chiara es socia minoritaria. PENDIENTE sólo el porcentaje y si la participación es sobre el inmueble, la operación o ambos.
 
 ---
 

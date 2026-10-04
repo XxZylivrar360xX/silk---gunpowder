@@ -120,7 +120,7 @@ Dos hombres en la puerta. Adentro hacía frío: una nave de lámina en invierno 
 
 —Kal me trajo aquí una vez. Se me descompuso el coche. Fue lo único que recordé.
 
-—Qué suerte tener un recuerdo tan a la mano. —Varek acomodó algo sobre el banco, sin mirarlo, con dos dedos—. Es un buen taller. Se lo regalé yo, ¿no te lo contó? —No esperó respuesta—. Ya que estás, te ahorro el resto de la noche. El hombre por el que preguntas en medio casino no es lo que tú crees que es.
+—Qué suerte tener un recuerdo tan a la mano. —Varek acomodó algo sobre el banco, sin mirarlo, con la punta de los dedos—. Es un buen taller. Se lo regalé yo, ¿no te lo contó? —No esperó respuesta—. Ya que estás, te ahorro el resto de la noche. El hombre por el que preguntas en medio casino no es lo que tú crees que es.
 
 —No sé de qué me habla.
 

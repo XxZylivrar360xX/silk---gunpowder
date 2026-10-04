@@ -200,7 +200,7 @@ Sintió que la sala había dejado de mirarlo de la manera en que lo había mirad
 
 ---
 
-Fue Livia quien trajo la fotografía. No la sacó de un sobre, no la anunció: la tenía ya sobre la mesa, boca abajo, debajo de su propia taza, como si llevara ahí toda la reunión esperando el momento, y la giró con dos dedos hacia Chiara sin decir nada primero.
+Fue Livia quien trajo la fotografía. No la sacó de un sobre, no la anunció: la tenía ya sobre la mesa, boca abajo, debajo de su propia taza, como si llevara ahí toda la reunión esperando el momento, y la giró con un dedo hacia Chiara sin decir nada primero.
 
 Una fotografía en blanco y negro, o quizás sólo vieja de un modo que ya no distinguía colores. Chiara mucho más joven, con un vestido de novia, y a su lado un hombre con traje oscuro al que Kal no reconoció.
 

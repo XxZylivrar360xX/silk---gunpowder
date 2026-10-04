@@ -1,5 +1,6 @@
 <!--
-Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_c21_el_mirador.md). Deuda documental no bloqueante conservada: H11 (penthouse) en Hitos.md todavia describe el beso en el sofa; la prosa vigente lo sitúa de pie, tras el baile, junto al espejo del recibidor. SINCRONIZADA (verificado en housekeeping 2026-09-26: Hitos H11, seccion El penthouse, ya describe el beso de pie tras el baile junto al espejo). Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): un solo corte, la relativa "que habia cuidado durante meses" en el penthouse (la frase queda sola en el baile). S4 (casi-confesion, hilo A) ya existe en "la verdad de lo pequeno" y se protege sin anadir nada; 20:218 se conserva. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B.md §9.
+Cirugia de dialogo K/C (2026-10-04, autorizada por el autor sobre capitulo TERMINADO; DISEÑO pendiente de lectura): bolera reescrita (460 -> 815 palabras) + cena en la banca de la playa (~270 palabras; costumbre de contarle el dia, CANON del ritual, invertida: ella estuvo en el dia) segun [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]] §7; "Bochas y orgullo" -> "las juegan los viejos"; penthouse "Lo se. Por eso te lo dije yo primero" -> "No. Pero ibas a dejar que lo dijera yo" (rompe el molde repetido del mirador). Drift, mirador, baile, beso, "¿Seguro? / Llevo meses seguro" y cierre intactos.
+Estado previo: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_c21_el_mirador.md). Deuda documental no bloqueante conservada: H11 (penthouse) en Hitos.md todavia describe el beso en el sofa; la prosa vigente lo sitúa de pie, tras el baile, junto al espejo del recibidor. SINCRONIZADA (verificado en housekeeping 2026-09-26: Hitos H11, seccion El penthouse, ya describe el beso de pie tras el baile junto al espejo). Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): un solo corte, la relativa "que habia cuidado durante meses" en el penthouse (la frase queda sola en el baile). S4 (casi-confesion, hilo A) ya existe en "la verdad de lo pequeno" y se protege sin anadir nada; 20:218 se conserva. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B.md §9.
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Ventana temporal: despues del Capitulo 18 (H4, el dia nublado) y del Capitulo 19 (Tierra buena, capitulo lateral de expansion sin hito H). Reordenado el 2026-08-29: H11 pasa a ir DESPUES de H10 y H4; renumerado varias veces, la ultima el 2026-09-07 al insertar el Capitulo 19 nuevo (Tierra buena).
 Lugares: bolera de la playa, carretera del norte, El Mirador, The Monarch Casino & Hotel / El Penthouse.
@@ -33,63 +34,133 @@ Fue ella la que llamó dos días después, sin excusa de negocios, sin pretexto 
 
 —¿Nunca?
 
-—En Palermo no hay bolos, Kal. Hay bochas y hay orgullo. No es lo mismo.
+—En Palermo no hay bolos, Kal. Hay bochas, y las juegan los viejos.
 
 ***
 
 La bolera de la playa olía a cera de pista, sal y algo frito que nadie preguntaba qué era. Las luces eran demasiado brillantes y la música demasiado vieja, y a ninguno de los dos pareció importarle.
 
-Chiara tiró la primera bola con la misma seriedad con la que firmaba un contrato —postura correcta, cálculo exacto de ángulo— y la vio irse derecho al canal sin tocar un solo pino.
+El muchacho del mostrador les cambió los zapatos sin levantar la vista. Chiara se quedó mirando los suyos —rojo y azul, un número pintado en el talón, una suela que habían pisado mil personas— con una cara que Kal no le había visto ni frente a Tommaso.
 
-—Eso no cuenta —dijo, antes de que Kal alcanzara a decir nada.
+—No.
 
-—Cuenta. Lo vi en el marcador.
+—Sin zapatos no tiras.
 
-—El marcador miente.
+—Entonces tiras tú y yo miro.
+
+—Póntelos, Bellandi.
+
+Se los puso. Con la bola fue peor: los agujeros no estaban hechos para uñas como las suyas. Probó de un lado, probó del otro, y al final se quitó los anillos uno por uno y se los fue dejando a Kal en la palma, sin mirarlo, como quien deja las llaves al entrar a su casa.
+
+—¿Y yo qué hago con esto?
+
+—Cuidarlos.
+
+Kal se los guardó en el bolsillo de la camisa.
+
+Chiara tiró la primera bola con la misma seriedad con la que firmaba un contrato —postura correcta, cálculo exacto de ángulo— y la vio irse derecho al canal sin tocar un solo pino. Se buscó el anillo con el pulgar. No estaba; lo tenía él.
+
+—No. No, esa no.
+
+—Esa sí. Ahí está en la pantalla. Cero.
 
 Kal tiró después, sin ninguna técnica visible, y tumbó siete pinos por pura suerte de brazo. Levantó los dos puños como si acabara de ganar un campeonato.
 
-—Eso sí que fue suerte.
+—¡Siete! ¿Viste eso? ¿Lo viste?
 
-—Eso fue talento puro, Bellandi.
+—Fue suerte.
+
+—Fue suerte —admitió él—. Pero cuenta.
 
 Ella tiró de nuevo. Canal. Otra vez, canal. Para la cuarta bola ya se estaba riendo de sí misma, algo que Kal no recordaba haberla visto hacer nunca — reírse de perder, no de ganar.
 
-—Estás pésima en esto.
+—Eres malísima.
 
-—Soy excelente en otras cosas.
+—Ya sé. —No podía parar—. Ya sé, ya sé. Enséñame, ¿no? Para algo te traje.
 
-—No lo dudo. Pero aquí, esta noche, eres pésima.
+—Tú me trajiste a mí.
 
-—Enséñame, entonces, ya que te crees tan bueno.
+—Pues por eso.
 
-Kal se paró detrás de ella, le acomodó el brazo con dos dedos, sin insistir más de lo necesario, y le señaló la flecha del carril.
+Kal se paró detrás de ella. Le acomodó el brazo con los dedos y, con la otra mano en la cadera, la cuadró con el carril; se quedó así un segundo más de lo que pedía la lección, y ella no se movió hasta que él se quitó.
 
-—Apunta ahí, no al pino. La bola hace el resto.
+—Apunta a la flecha, no al pino. La bola hace el resto.
 
 Chiara tiró. Cuatro pinos cayeron.
 
-—¡Cuatro!
+—¡Cuatro! —Se giró con las dos manos arriba—. ¡Cuatro, Kal!
 
 —Ahí está.
 
-Se giró a mirarlo con una sonrisa que no se molestó en esconder.
+La señora de la pista de al lado, que llevaba dos nietos y ninguna prisa, aplaudió también.
 
-Para la tercera ronda ya tiraba con una postura casi decente, y Kal, envalentonado, empezó a apostar tonterías: quien perdiera la ronda se comía las papas más feas del plato, quien ganara elegía la próxima canción de la rocola. Chiara perdió dos rondas seguidas y se comió las papas con una dignidad que a Kal le pareció más divertida que si hubiera protestado.
+Para la tercera ronda Chiara ya tiraba con una postura casi decente, y Kal, envalentonado, empezó a apostar tonterías: quien perdiera la ronda se comía las papas más feas del plato, quien ganara elegía la próxima canción de la rocola. Chiara perdió dos rondas seguidas y se comió las papas con una dignidad que a Kal le pareció más divertida que si hubiera protestado. Él eligió dos canciones malas a propósito. Ella se sabía la letra de una y no lo quiso admitir, pero la boca se le movía.
 
-En la quinta, Kal tiró una chuza limpia y se giró hacia ella con los brazos abiertos, exigiendo aplausos que ella le dio, sarcástica pero genuina, aplaudiendo despacio como quien premia a un niño por algo pequeño.
+En la quinta, Kal tiró una chuza limpia y se giró hacia ella con los brazos abiertos, exigiendo aplausos que ella le dio despacio, sarcástica pero genuina, como quien premia a un niño por algo pequeño.
 
 —Bravo. Impresionante. Nunca había visto algo así.
 
-—Puedes fingir mejor que eso.
+—Nunca habías visto una bolera.
 
-—No, en serio. Once años tirando bolos y nunca vi a nadie hacer exactamente eso.
+—Por eso. Eres lo mejor que he visto en una.
 
-Se rieron los dos, sin motivo real más que el gusto de estar ahí, en un lugar sin cámaras, sin nombres que cuidar, sin nadie que necesitara nada de ninguno de los dos.
+Lo dijo para burlarse y le salió otra cosa. Los dos lo oyeron. Ninguno lo recogió.
 
-En la última ronda Chiara jugó bien de verdad — no perfecto, pero con la clase de mejora visible que la hizo enderezarse un poco más entre tiro y tiro. La ganó. Kal se lo reconoció con una inclinación de cabeza exagerada, como un caballero rindiendo pleitesía, y ella se rió de eso también.
+En la última ronda Chiara se quedó un rato con la bola contra el pecho, mirando la flecha, y tiró como él le había dicho. Los diez pinos se fueron juntos.
 
-Compraron una botella de vino rosado de camino a la salida, sin razón particular, porque la noche todavía no quería terminar y ninguno de los dos lo dijo en voz alta.
+No gritó. Se dio la vuelta, cruzó los tres pasos que los separaban con esos zapatos ridículos y se le colgó del cuello. Kal la levantó del suelo sin pensarlo y la sostuvo así, con la risa de ella pegada a la oreja, más tiempo del que dura un festejo.
+
+Después la bajó. Chiara se acomodó el pelo. Kal se puso a mirar la pantalla como si la cuenta fuera difícil. Sonreían los dos, cada uno hacia un lado distinto.
+
+—Te gané —dijo ella al rato.
+
+—Me ganaste.
+
+La señora de al lado los miraba con la cara de quien ya ha visto esto antes y sabe cómo termina.
+
+Al devolver los zapatos, el muchacho del mostrador por fin los miró.
+
+—¿Vuelven la otra semana? Los martes hay dos por uno para parejas.
+
+—No somos… —empezó Kal.
+
+Chiara no lo ayudó. Le extendió la mano con la palma hacia arriba, y Kal se sacó los anillos del bolsillo de la camisa y se los fue devolviendo uno por uno, y ella se los fue poniendo ahí mismo, frente al mostrador, sin prisa.
+
+—Ajá —dijo el muchacho.
+
+Kal se pasó la mano por la cara y no terminó la frase.
+
+Cenaron en la playa, a dos cuadras: hamburguesas de un puesto del malecón, envueltas en un papel que la grasa volvía transparente, y dos malteadas. La de Chiara era la primera de su vida; la sostuvo con las dos manos, desconfiada, hasta el segundo trago. Se sentaron en una banca de cara al agua. Hacía más frío del que ninguno había previsto y la banca era más corta de lo que hacía falta, y ninguno se cambió de lugar.
+
+Chiara le sacaba papas del cartucho sin pedirlas. Ya no había apuesta.
+
+—¿Y? —dijo, como cada noche en el casino—. ¿Cómo estuvo el día?
+
+Kal se quedó con la hamburguesa a medio camino.
+
+—Estuviste en él.
+
+—No en todo. Cuéntamelo igual.
+
+Se lo contó igual. Un Buick con el cárter partido en la Novena antes de las ocho. Walt llamándolo dos veces para preguntarle cómo se mandaba una foto, y la foto, al final, del techo de la destilería. Y en la noche una mujer que le ganó en los bolos con zapatos rentados, después de tirar cinco bolas seguidas al canal.
+
+—Tres.
+
+—Cinco.
+
+—Tres, Kal.
+
+—Lo vi en la pantalla.
+
+Ella se rió con la boca llena y se le recargó en el hombro, por el frío, dijo. Nadie le había preguntado. Se chupó la sal del pulgar, un anillo después del otro brillándole con la luz del malecón, y se quedó así, sin acomodarse nada.
+
+—¿Y la mujer? —preguntó al rato, mirando el agua—. ¿Qué tal es?
+
+Kal le quitó la malteada y le dio un trago largo.
+
+—Malísima en bolos.
+
+Compraron una botella de vino rosado de camino al auto, sin razón particular, porque la noche todavía no quería terminar y ninguno de los dos lo dijo en voz alta.
 
 Volvían al casino por la carretera del norte, con las ventanas bajas y la ciudad apagándose despacio a los costados, cuando Chiara soltó el comentario sin pensarlo demasiado.
 
@@ -185,7 +256,7 @@ La botella que habían comprado era un Chiaretto de Bardolino, rosado de verdad 
 
 —No he dicho que quisiera que se termine.
 
-—Lo sé. Por eso te lo dije yo primero.
+—No. Pero ibas a dejar que lo dijera yo.
 
 Kal se rió, bajo, la clase de risa que no necesitaba salir completa para que ella la sintiera de todos modos. No dijo nada más. Se quedó un rato con la copa en la mano, mirando la ciudad del otro lado del ventanal, y cuando se levantó fue con el gesto de siempre: el del hombre que no sabe quedarse sentado cuando ya no hay nada que resolver.
 

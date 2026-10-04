@@ -1,10 +1,11 @@
 <!--
-Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): fuera la manana de la camiseta (residuo de H2-b, cronologia rota), tuteo corregido, POV de Tommaso, silencio repetido; Fabrizio firma el acta (siembra APROBADA, redaccion DISENO). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_04-13_Lote_A.md.
-Ajuste de continuidad 2026-09-30 (decision del autor, sigue TERMINADO): Chiara ya vio a Walt en la apertura del Cap. 5 (Kal lo llevo de copiloto; Walt le dijo de Kal "buscavidas, pero honesto", canon del autor). Aqui ya le pone cara al nombre de la lista; Walt la reconoce ("Así que usted puso el ámbar"); el cierre pasa a "Tu amigo jugó en mi torneo" / "Esta vez vino sin copiloto" y "Lo has visto dos veces". El primer torneo sigue siendo este; el "honesto" de Mabel funciona ahora como eco.
-Protagonistas: Chiara Bellandi, con apariciones de Mabel Ortiz y Walter "Walt" Keegan.
-Ventana temporal: semanas despues del Capitulo 7 (la noche del ladrillo) -- de por medio ocurrieron H9 (Capitulo 8, la carrera de mascaras) y todo el arco de H12 en los Capitulos 9-10 (el ataque, la casa comun, la recompra y el diseno de la casa de Kal). Chiara ya deja cosas suyas en la casa de el por costumbre, pero conserva el penthouse como base -- no hubo mudanza formal, y esa costumbre no se anuncia en esta escena.
+Estado: BORRADOR. Rediseño 2026-10-04 (decision del autor; prosa DISENO del agente, pendiente de lectura). Sustituye la version TERMINADA de 2026-09-27/30, en la que Chiara investigaba a un Walt casi desconocido.
+Decisiones del autor (2026-10-04): (1) Walt y Chiara ya se conocen: la caja del Cap. 5 y el arco del loft (insercion en el Cap. 10: casa comun, cerillos, primera cena con la pregunta del licor). El capitulo ya no descubre a Walt; parte del reconocimiento. (2) La destileria encuentra en Chiara una benefactora confiable y legitima: Chiara entra como SOCIA MINORITARIA, con su dinero y su firma, fuera de la direccion del casino; el Monarch es solo CLIENTE (contrato de suministro a precio de lista). "El cliente es el Monarch. La socia soy yo." (3) Chiara es testigo del primer encuentro de Walt y Mabel desde que el salio de prision: Walt llevaba semanas evitando La Esquina (freno del duelo de Amanda, ficha de Mabel); entra la manana del torneo. "Walter" solo se lo dice Mabel (DISENO). Paga el cafe completo; Mabel no mete las monedas en la caja.
+Se conserva del texto anterior: el ladrillo, el trapo detenido (semilla de Mabel, ahora con causa visible), "Es honesto... asusta mas que un arma", "Mabel dice muchas cosas...", "como quien reporta el clima", "esta silla la elegi yo", "Juego honesto...", "Se sienta como el", "Se fue antes de que Walt pudiera decidir si eso habia sido un cumplido", "Tu amigo jugo en mi torneo" / "Esta vez vino sin copiloto", el anular (D7), el farol y "Chiara ya habia aprendido a sentarse". Fabrizio con el acta (siembra APROBADA, ahora sin ambiguedad: firma Chiara). Se corrige la logica de las manos de poker y la doble replica sin acotacion. Sale "Lo has visto dos veces" (ya no es verdad).
+Protagonistas: Chiara Bellandi, con apariciones de Mabel Ortiz, Walter "Walt" Keegan y Kal Mercer.
+Ventana temporal: despues del Capitulo 10 (la casa del loft ya terminada y estrenada). Chiara deja cosas suyas en la casa de Kal por costumbre, pero conserva el penthouse como base.
 Lugares: El Penthouse, La Esquina de Mabel (La Almendra), The Monarch Casino & Hotel (piso de juego, torneo de poker).
-Funcion: ejecutar beats 12 y 12-b — nace en pequeno la red civil de Chiara (Mabel), y se ejecuta el primer torneo de poker: aparece Walter Keegan, extraordinario mintiendo en la mesa, y nace la relacion cordial de la que saldra la destileria.
+Funcion: beats 12 y 12-b. Red civil de Chiara (Mabel); primer reencuentro Walt/Mabel visto por Chiara; primer torneo de poker (Walt miente en la mesa); nace la sociedad de la destileria, separada del casino.
 -->
 
 # Capítulo 11 — El farol
@@ -17,63 +18,113 @@ El nombre la detuvo antes del café.
 
 *Walter Keegan.*
 
-No era un nombre de los que solían aparecer en una lista de un torneo de entrada alta: sin tarjeta corporativa, sin referencia de otro casino, sin la dirección de una zona que a nadie le costara reconocer. Tommaso lo había marcado con una nota breve — *verificar solvencia* — y nada más, que en el idioma de Tommaso significaba *no vale la pena mi tiempo*.
+Tommaso lo había marcado en la lista del torneo con una nota breve —*verificar solvencia*— y nada más, que en el idioma de Tommaso significaba *no vale la pena mi tiempo*. Para él era un nombre sin tarjeta corporativa, sin referencia de otro casino y con una dirección de la Almendra.
 
-Chiara sí se lo tomó.
+Para Chiara era el viejo de la mesa larga. El que jugaba por cerillos porque no apostaba dinero bajo un techo ajeno, el que había rodeado la isla del loft como si revisara un motor y el que, la noche del estreno, entre el pan y la carne, le había preguntado cuánto licor compraba el Monarch al mes, y a quién.
 
-No porque desconfiara del dinero. Porque ya le había puesto cara a ese nombre: el viejo de la caja, la noche de la apertura, que cambiaba fichas con billetes doblados en cuatro y le había dicho de Kal *buscavidas, pero honesto*. Fuera de esa frase no sabía nada de él, y ella no dejaba pasar huecos así.
+Ella le había dado una cifra redonda y ningún nombre. Él no había vuelto a preguntar.
 
-Podía llamar a Kal y preguntar. Decidió no hacerlo. Si el nombre importaba, prefería llegar a él sola, con la información completa, en vez de pedirla como quien pide un favor.
+La entrada de ese torneo no la pagaba un hombre que todavía discutía el precio de un refresco.
 
-Fue a buscarla a la Almendra.
+Podía preguntarle a Kal. Podía preguntarle a Walt, que le habría contestado la verdad en la menor cantidad de palabras posible. No hizo ninguna de las dos cosas. Si ese nombre en esa lista significaba algo, prefería llegar a ello sola, con la información completa, en vez de pedirla como quien pide un favor.
+
+Fue a la Almendra a buscar a Mabel.
 
 ***
 
 La Esquina de Mabel olía a café recalentado y a algo dulce horneándose atrás. Dos hombres mayores ocupaban la mesa del rincón, jugando dominó sin apostar en voz alta; una radio vieja repetía boleros que nadie subía ni bajaba de volumen. Era el tipo de lugar que no necesitaba pedir silencio para conseguirlo.
 
-Chiara entró con el pretexto de un termo de café — el suyo, dijo, se había echado a perder — y Mabel la miró como quien ya sabe que el pretexto es pretexto y decide, de todos modos, no hacer preguntas.
+Chiara entró con el pretexto de un termo de café —el suyo, dijo, se había echado a perder— y Mabel la miró como quien ya sabe que el pretexto es pretexto y decide, de todos modos, no hacer preguntas.
 
 —Siéntate. Te doy uno de verdad.
 
 Chiara se sentó en la barra, no en una mesa. Desde ahí veía la puerta.
 
-—¿Conoce a un Walter Keegan?
+Mabel pasaba un trapo por la madera, de un extremo al otro, sin prisa.
 
-Mabel no levantó la vista de la cafetera.
-
-—Todo el mundo aquí conoce a Walt.
-
-—Va a jugar en mi torneo esta noche.
-
-Eso sí la hizo mirarla.
+—Walt se inscribió en mi torneo de esta noche.
 
 —Walt Keegan. En el Monarch. Jugando cartas.
 
 —Es lo que dice la lista.
 
-Mabel puso la taza frente a ella y se limpió las manos en el delantal, sin prisa, como si estuviera decidiendo cuánto valía la pena contar.
+Mabel puso la taza frente a ella y se limpió las manos en el delantal, decidiendo cuánto valía la pena contar.
 
-—Salió de prisión hace poco. Diez años. Se los debe al Tasador, aunque eso no te lo va a decir nadie con esas palabras. —Bajó la voz, no por miedo, sino por costumbre—. Conocía al padre de Kal. Conoció a Kal de niño. Si le preguntas a los viejos de aquí, te van a decir que Walt Keegan es de los pocos que le puede decir que no a cualquiera y que nadie se atreve a contradecirlo.
+—Lleva tres semanas yendo al norte del canal, a una bodega de granos que se cae a pedazos desde antes de que tú nacieras. Sale a las seis en el camión de la basura, porque el chofer le debe un favor de hace veinte años, y regresa a la hora de la comida con polvo hasta las rodillas. —Bajó la voz, no por miedo, sino por costumbre—. El lunes vendió la camioneta de Amanda.
+
+—¿Para la entrada?
+
+—Yo no dije para qué. Yo sólo sirvo café.
+
+—¿Se lo contó él?
+
+—El chofer. La del lote. Héctor, sin darse cuenta. —Mabel volvió al trapo—. Él no ha venido.
+
+Chiara esperó.
+
+—Ni una vez —dijo Mabel—. Desde que salió.
+
+—En esta calle cualquiera le prestaría.
 
 Mabel dejó de limpiar la barra a la mitad del gesto, el trapo quieto sobre la madera. Chiara lo notó antes que la pausa en la voz.
 
-—¿Le debe algo más que dinero?
+—Ya pagó diez años por algo que no debía. —Mabel volvió a mover el trapo, como si necesitara las manos ocupadas para terminar la frase—. No le va a deber nada a nadie el resto de su vida.
 
-—Le debe diez años que no va a recuperar. —Mabel volvió a mover el trapo, como si necesitara las manos ocupadas para terminar la frase—. Eso no se cobra con nada que el Tasador sepa contar.
+—Mi gerente lo marcó para verificar solvencia.
 
-—¿Es peligroso?
+—Que lo verifique. Va a encontrar a un hombre honesto. —Mabel dijo la palabra como si fuera la más rara del idioma—. Eso, en este barrio, asusta más que un arma.
 
-—Es honesto. —Mabel dijo la palabra como si fuera la más rara del idioma—. Eso, en este barrio, asusta más que un arma.
+La campanita de la puerta sonó tarde, como sonaba siempre.
 
-Chiara bebió el café. Estaba mejor que el del casino, y no dijo nada al respecto porque sabía que decirlo habría sonado a cumplido barato.
+Chiara lo vio primero, porque veía la puerta. Mabel lo vio en el vidrio de la vitrina, y el trapo se quedó quieto otra vez.
 
-—¿Por qué querría jugar en mi torneo?
+Walt se detuvo en el umbral un segundo de más. Miró el dominó, la radio, la mesa junto a la ventana que cojeaba si uno no ponía el pie sobre la base. Miró a Chiara.
 
-—Eso —dijo Mabel, ya volviendo a la cafetera— pregúntaselo tú. Yo sólo sirvo café.
+—Señorita.
 
-Chiara se quedó un momento más de lo necesario, terminando algo que ya no necesitaba terminar. No era la información lo que la retenía. Era la manera en que Mabel la había dado: sin presumir, sin venderla, sin necesitar que Chiara supiera que acababa de recibir un favor.
+—Señor Keegan.
 
-Pagó el café. Mabel no le devolvió el cambio completo.
+Luego miró la barra.
+
+—Mabel.
+
+—Walter.
+
+Nadie más en la Almendra le decía así. Chiara lo supo sin que nadie se lo dijera, por la manera en que Walt recibió el nombre: sin moverse, como se recibe una mano en el hombro en un lugar donde no se esperaba ninguna.
+
+—Un café para llevar.
+
+Mabel no le preguntó cómo. Lo sirvió negro, sin azúcar, y le puso la tapa sin mirarlo.
+
+Walt miró el vaso.
+
+—Te acordaste.
+
+—Es café, Walter. No es un poema.
+
+Él sacó unas monedas del bolsillo y las contó sobre la barra, una por una, hasta el precio exacto.
+
+—Va por la casa —dijo Mabel.
+
+—No.
+
+Lo dijo sin dureza, como quien corrige una cuenta. Mabel miró las monedas y no las tocó.
+
+—Hoy juego —dijo Walt.
+
+—Ya sé.
+
+—Claro que sabes.
+
+Le hizo a Chiara un gesto breve con el vaso, que podía ser despedida o advertencia, y salió. La campanita sonó tarde también al cerrarse.
+
+Mabel siguió mirando la puerta. Chiara la había visto leer a medio barrio por la forma en que movía las manos al mentir; con Walt no había tenido nada que leer. La cara de él no había cambiado en ningún momento, ni al entrar, ni con el nombre, ni con el café.
+
+Mabel recogió las monedas. No las metió en la caja. Las dejó en un plato junto a la cafetera y volvió a limpiar una mancha que no existía.
+
+Chiara no preguntó. Terminó el café despacio. Estaba mejor que el del casino, y no lo dijo porque habría sonado a cumplido barato.
+
+Pagó. Mabel no le devolvió el cambio completo.
 
 —La próxima vez traes tu termo de verdad —dijo, y no era una acusación. Era una invitación a volver.
 
@@ -81,7 +132,7 @@ Chiara entendió las dos cosas.
 
 —Ciao, tesoro.
 
-Mabel resopló sin levantar la vista de la cafetera.
+Mabel resopló sin levantar la vista.
 
 ***
 
@@ -91,17 +142,17 @@ Walt Keegan llegó sin traje.
 
 Llevaba una chaqueta que había visto mejores años y una camisa planchada por alguien que se había tomado el trabajo, y caminó hasta su mesa sin mirar el techo ni las lámparas ni nada de lo que el Monarch quería que mirara. Se sentó como quien se sienta en su propia cocina.
 
-Desde la mesa de blackjack, Tommaso levantó la vista un segundo — el tiempo justo para confirmar que el hombre de la lista había llegado y que no valía la pena seguir mirando — y volvió a las cartas.
+Desde la mesa de blackjack, Tommaso levantó la vista un segundo, el tiempo justo para confirmar que el hombre de la lista había llegado, y volvió a las cartas.
 
 Chiara lo observó desde el borde del piso, donde podía ver las cuatro mesas sin que nadie la viera mirar ninguna en particular.
 
-Perdió la segunda mano con una cara que no cambió en absoluto.
+Walt perdió la segunda mano sin que la cara le cambiara en absoluto.
 
-Un joven de traje más caro que su fortuna se inclinó hacia adelante, buscando algo en los ojos de Walt que le confirmara el farol. No encontró nada. Se retiró de la mano con el dinero adentro y una arruga nueva en la frente que no tenía cuando se sentó.
+En la tercera, un joven de traje más caro que su fortuna se inclinó hacia adelante, buscando en los ojos de Walt algo que le confirmara el farol. No encontró nada. Se retiró y dejó su dinero en el bote, con una arruga nueva en la frente que no tenía cuando se sentó. Walt recogió las fichas sin enseñar sus cartas.
 
-Ganó la tercera con la misma cara.
+Chiara le había visto esa cara en la mesa larga de la casa común, ganándole cerillos a Danny. Esa mañana se la había visto delante de Mabel. No sabía que aguantaba igual con dinero de verdad enfrente y desconocidos que sí sabían jugar.
 
-Fue eso lo que la hizo acercarse. No el dinero — el dinero, esa noche, era el punto menos interesante de la sala. Fue que un hombre pudiera perder y ganar con la misma expresión, en una mesa llena de gente que llevaba máscaras carísimas y aun así dejaba ver cada carta en la cara.
+Fue eso lo que la hizo acercarse. No el dinero; el dinero, esa noche, era lo menos interesante de la sala. Fue que un hombre pudiera perder y ganar con la misma expresión, en una mesa llena de gente que llevaba máscaras carísimas y aun así dejaba ver cada carta en la cara.
 
 —Señor Keegan.
 
@@ -113,15 +164,15 @@ Walt levantó la vista sin apurarse.
 
 —Me gusta que alguien haya pensado en eso. La mayoría de esta gente ni lo nota.
 
-Chiara se sentó en la silla vacía a su lado, la del jugador que había abandonado la mesa una hora antes con menos dinero del que había llegado.
+Chiara se sentó en la silla vacía a su lado, la del jugador que había abandonado la mesa una hora antes con menos dinero del que había traído.
 
-—Mabel me dijo que lo conoce todo el mundo.
+—Esta mañana no me dijo que venía a jugar.
 
-—Mabel dice muchas cosas. La mayoría son ciertas, lo cual es peor.
+—Esta mañana usted no me preguntó.
 
 —¿Por qué está aquí?
 
-Walt barajó sus fichas sin mirarlas, un gesto de manos que llevaba más práctica de la que cualquier torneo podía darle.
+Walt barajó sus fichas sin mirarlas, con más práctica de la que cualquier torneo podía darle.
 
 —Porque llevo diez años sin poder decidir dónde sentarme. —Lo dijo sin dramatismo, como quien reporta el clima—. Y esta silla la elegí yo.
 
@@ -133,45 +184,67 @@ Chiara no contestó enseguida.
 
 Ella sonrió, la sonrisa corta que reservaba para la gente que no necesitaba que la administrara.
 
-Walt la miró un momento de más, como quien reconoce un gesto en otra persona sin poder ubicar dónde lo vio antes.
+Walt la miró un momento de más, como si reconociera el gesto en otra persona sin poder ubicar dónde lo había visto antes.
 
 —Se sienta como él —dijo, sin explicar quién.
 
 Chiara no preguntó. Ya sabía la respuesta, y preguntarla habría sido pedir un favor que no necesitaba.
 
-—¿Y qué va a hacer con lo que gane?
+—La bodega al norte del canal —dijo en cambio.
 
-Walt se recostó en la silla.
+Walt dejó las fichas quietas.
 
-—Tengo el ojo puesto en una bodega, al norte de aquí. Vieja, grande, con más goteras que historia. La quiero para montar algo propio. Whisky, quizás. Algo que se pueda hacer bien si a uno no le urge la prisa.
+—Mabel.
 
-—¿Una destilería?
+—Yo no dije nombres.
+
+—Mabel dice muchas cosas. La mayoría son ciertas, lo cual es peor. —Se recostó en la silla—. Vieja, grande, con más goteras que historia. La quiero para montar algo propio. Whisky, quizás. Algo que se pueda hacer bien si a uno no le urge la prisa.
+
+—Una destilería.
 
 —Todavía no lo llamo así en voz alta. Da mala suerte ponerle nombre a algo antes de tenerlo.
 
-—¿Cuánto necesita?
+—¿Cuánto le falta?
 
 —Lo que tengo, más lo de esta noche, más paciencia. —Se encogió de hombros, sin ninguna prisa por parecer necesitado—. No pienso pedirle nada a nadie. Ya pasé diez años debiendo algo que no debía.
 
-Chiara miró la mesa, las fichas, y pensó en el casino: en cuánto licor compraba cada mes, en cuánto de eso llegaba con margen para terceros que no eran ni honestos ni locales.
+Chiara miró la mesa, las fichas, y pensó en el casino: en cuánto licor compraba cada mes, en cuánto de eso llegaba con margen para terceros que no eran ni honestos ni de aquí.
 
-—Cuando la tenga —dijo—, hábleme antes de firmar con nadie más.
+—No le estoy ofreciendo un préstamo —dijo.
+
+—Todavía no me ofrece nada.
+
+—Le ofrezco entrar. Con mi dinero, no con el del Monarch. Una parte chica. La bodega, el alambique y las decisiones son suyas. Con abogado, con papeles, con su firma y la mía.
+
+—¿Y el casino?
+
+—El casino le compra. Con contrato y a precio de lista, como le compra a cualquier proveedor que haga bien su trabajo. —Chiara sostuvo la mirada—. El cliente es el Monarch. La socia soy yo. No se mezclan.
+
+Walt miró hacia la mesa de blackjack, donde Tommaso fingía no mirar.
+
+—Su gente del casino qué va a decir.
+
+—Mi gente del casino no tiene nada que decir sobre mi dinero.
+
+—¿Y por qué querría usted un pedazo de una bodega con goteras?
+
+—Porque el whisky que sirvo hoy viene de gente que no conozco. —Chiara se puso de pie, alisándose la falda con un gesto que no admitía réplica—. Y porque usted no me lo pidió.
 
 Walt la miró con algo parecido a la sorpresa, aunque en su cara la sorpresa se parecía mucho a la calma.
 
-—¿Por qué haría eso por un desconocido?
+—Minoritaria —dijo.
 
-—No lo hago por un desconocido. —Chiara se puso de pie, alisándose la falda con un gesto que no admitía réplica—. Lo hago por el hombre que Mabel me describió sin necesitar exagerar nada.
+—Minoritaria.
 
 Se fue antes de que Walt pudiera decidir si eso había sido un cumplido.
 
 Desde la mesa de blackjack, Tommaso la vio alejarse del hombre que había marcado para no perder su tiempo.
 
-Ganó la ronda final veinte minutos después, con la misma cara. Fabrizio le trajo el acta para que la firmara.
+Walt ganó la mesa final veinte minutos después de la medianoche, con la misma cara. Fabrizio le llevó el acta a Chiara para que la firmara.
 
 ***
 
-Kal llegó pasada la medianoche con la bolsa de siempre, aunque esa noche ni siquiera se molestó en inventar el pretexto.
+Kal llegó pasada la una con la bolsa de siempre, aunque esa noche ni siquiera se molestó en inventar el pretexto.
 
 —¿Cómo estuvo?
 
@@ -183,30 +256,38 @@ Kal se detuvo a medio camino de dejar la bolsa sobre la mesa.
 
 —¿Walt?
 
-—Esta vez vino sin copiloto. Ganó más de lo que perdió. —Se sentó, con los pies descalzos sobre el sofá frío—. Fui a preguntar por él a la Almendra antes de dejarlo sentarse a mi mesa.
+—Esta vez vino sin copiloto. Ganó la mesa final. —Se sentó, con los pies descalzos sobre el sofá frío—. Y voy a comprar una parte de su destilería.
 
-—¿Y qué le dijeron?
+—Walt no tiene destilería.
 
-—Que es honesto. Que eso asusta más que un arma.
+—Tiene una bodega al norte del canal con más goteras que historia. Y desde esta noche tiene una socia.
 
-Algo en la cara de Kal se aflojó, apenas, de una manera que Chiara ya empezaba a reconocer como la forma que tenía de estar orgulloso sin decirlo.
+Kal dejó la bolsa.
 
-—Es cierto.
+—¿El Monarch?
 
-—Tommaso lo había marcado para "verificar solvencia". —Dijo el nombre con el desprecio exacto que merecía, ni un gramo más—. Como si un hombre así necesitara que alguien lo verificara.
-
-—Le ofrecí comprarle el licor cuando tenga su destilería.
+—Yo. El Monarch le va a comprar el licor, como a cualquier proveedor. La socia soy yo, con mi dinero.
 
 Kal la miró un momento largo.
 
-—Lo has visto dos veces.
+—No es lo mismo.
 
-—No necesitaba verlo más. —Chiara cerró los ojos, dejando que el cansancio de la noche le pesara por fin en los hombros—. Necesitaba a alguien que lo conociera de verdad. El resto lo vi yo misma.
+—No. Por eso lo hice así.
+
+—¿Te lo pidió?
+
+—Tú sabes mejor que yo que no le pide nada a nadie. —Chiara cerró los ojos, dejando que el cansancio de la noche le pesara por fin en los hombros—. Dijo "minoritaria". En su idioma creo que es un sí.
+
+Algo en la cara de Kal se aflojó, apenas, de una manera que Chiara ya empezaba a reconocer como la forma que tenía de estar orgulloso sin decirlo.
+
+—Es un sí.
+
+No le contó lo de Mabel. No era suyo para contarlo.
 
 Se tocó el anular izquierdo sin darse cuenta. No era el torneo. Era la manera en que Walt la había mirado, como si llevara reconociéndola desde antes de conocerla.
 
 Kal no dijo nada más. Se sentó a su lado, cerca, sin tocarla.
 
-Afuera, San Aurelio seguía encendida, con su propio farol repartido en cien cocinas y cien esquinas — gente que sabía cosas antes que nadie las publicara, y que las contaba sólo si alguien se sentaba a escuchar sin exigirlas.
+Afuera, San Aurelio seguía encendida, con su propio farol repartido en cien cocinas y cien esquinas: gente que sabía cosas antes de que nadie las publicara, y que las contaba sólo si alguien se sentaba a escuchar sin exigirlas.
 
 Chiara ya había aprendido a sentarse.

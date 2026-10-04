@@ -106,7 +106,7 @@ Marisol llegó a la cubierta desde el salón con la chaqueta de Michael abierta 
 
 —Qué cosa más inútil de tener en un barco. —Marisol tomó una copa de una charola que pasaba, la miró, y la devolvió—. Me encanta.
 
-Buscó a Kal con los ojos, lo encontró junto a Harper, y le hizo desde lejos una seña con dos dedos que Chiara no supo leer y él sí. Kal le hizo a Harper un gesto de disculpa con la cabeza y cruzó la cubierta hacia ellas sin apurarse.
+Buscó a Kal con los ojos, lo encontró junto a Harper, y le hizo desde lejos una seña con los dedos que Chiara no supo leer y él sí. Kal le hizo a Harper un gesto de disculpa con la cabeza y cruzó la cubierta hacia ellas sin apurarse.
 
 —¿Qué?
 
@@ -526,7 +526,7 @@ Kal no había dicho una palabra en todo el tiempo que ella tardó en contarlo. A
 
 La bala rodó hasta el centro de su mano y se quedó ahí.
 
-La miró sin prisa. Después la tomó entre dos dedos, la giró, y la volvió a dejar sobre el lino.
+La miró sin prisa. Después la tomó entre el índice y el pulgar, la giró, y la volvió a dejar sobre el lino.
 
 —Es corriente —dijo.
 

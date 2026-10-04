@@ -1,5 +1,6 @@
 <!--
 Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): prolepsis de Lucia ('el primero de muchos expedientes'), glosa de 'mi gente', competencia explicada, sintesis repetida de los tres papeles, 'nombre completo' de Mabel, 'dos palabras' de Kenji. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_04-13_Lote_A.md.
+Dialogo Kal/Chiara (2026-10-04, direccion del autor y ChatGPT; prosa DISENO del agente, pendiente de lectura): escena del taller reescrita como descubrimiento por capas; Kal busca el precio (Rafe, el corredor del norte, los favores) y "¿Por que tanto?" queda sin respuesta para que la pague "mi gente". Penthouse intacto salvo una glosa. Detalle: Audit_Dialogo_Kal_Chiara_Parte_I.md §7.
 Protagonistas: Chiara Bellandi (partes 1-4), Kal Mercer (parte 5).
 Ventana temporal: semanas despues del Capitulo 12 (Roma Atrii). Kal y Chiara siguen a caballo entre el penthouse y la casa de el; todavia no hay primer beso.
 Lugares: El Penthouse, La Esquina de Mabel, The Monarch Casino & Hotel (piso de juego), Almendra Towing / El Patio, Comisaria central de San Aurelio (Calle Corona).
@@ -121,31 +122,69 @@ No borró a Rafe Domínguez del mapa. No podía, y tampoco era su trabajo — Ra
 
 ***
 
-Fue a buscar a Kal al taller, no al revés — la primera vez, cayó en la cuenta, que ella hacía ese camino sin que él la llamara antes.
+Fue a buscar a Kal al taller, no al revés — la primera vez, cayó en la cuenta, que ella hacía ese camino sin que él la llamara antes. Se lo había prometido en el Monarch. Hasta ahora no había tenido nada que traerle.
 
-Lo encontró debajo de un auto que no era suyo, y esperó a que saliera.
+Lo encontró debajo de un auto que no era suyo. No esperó a que saliera.
 
-—Te van a citar a declarar —dijo, sin preámbulo, porque los preámbulos eran un lujo que ya no tenían—. Por el Peugeot.
+—Te van a citar a declarar. Por el Peugeot.
 
-Kal se limpió las manos con un trapo que ya no limpiaba nada.
+La llave, abajo, siguió girando.
+
+—¿Quién?
+
+—Calle Corona. Esta semana.
 
 —¿Cómo lo sabes?
 
-—Porque llevo semanas armando cómo lo sé, y no tenemos tiempo para que te lo explique entero. —Se cruzó de brazos, no a la defensiva, sino como quien ya decidió qué parte de la verdad alcanza—. Hay un segundo sospechoso. Un hombre del sur, Rafe Domínguez. Si alguien te pregunta por qué compras piezas en efectivo alguna vez, en algún taller del norte, di que Garrett las recogió en Villani Motors, cerca de Cedar Flats, hace cosa de dos meses. Va a sonar cierto porque en parte lo es. Y si te preguntan por las noches que llegabas tarde al taller sin que Héctor supiera dónde estabas, la respuesta es Kingsley Field, revisando motores para carreras legales de fin de semana. Nada de eso es mentira completa. Eso es lo que lo hace útil.
+—Lo sé desde hace tres semanas.
 
-Kal no dijo nada durante un momento demasiado largo.
+La llave se detuvo. Kal salió sobre el carrito y se quedó sentado ahí, con un trapo que ya no limpiaba nada.
 
-—¿Hiciste todo esto sin decirme nada?
+—Hay otro sospechoso: Rafe Domínguez, del sur. —Chiara sacó una hoja doblada del bolso y no se la dio; la leyó ella—. Si te preguntan por piezas en efectivo, Garrett las recogió en Villani Motors, cerca de Cedar Flats, hace cosa de dos meses. Si te preguntan por las noches que llegabas tarde sin que Héctor supiera dónde estabas, estabas en Kingsley Field, revisando motores para las carreras de los sábados. Nada de eso es mentira completa.
 
-—Te lo estoy diciendo ahora. Antes de que hiciera falta que lo supieras, no había nada que decir — sólo trabajo, y el trabajo no siempre necesita permiso para empezar.
+—Villani no se va a acordar de mí.
 
-—¿Por qué?
+—Ya se acuerda.
 
-Chiara lo miró como si la pregunta fuera casi ofensiva.
+Kal dejó el trapo en el piso.
 
-—Porque tú lo harías por mí sin preguntarte si debías.
+—¿Lo llamaste tú?
 
-No fue una respuesta completa. Era, sin embargo, la única que a Kal no le quedó nada para responder.
+—Alguien lo llamó. Sin tu nombre.
+
+—¿Y Rafe? ¿Lo pusiste tú?
+
+—No. Ya estaba. —Chiara giró el anillo una vez—. Tampoco lo puedo sacar.
+
+—Entonces el caso se queda con él.
+
+—No. Desde el lunes hay un tercero: un corredor de piezas del norte que paga cargamentos enteros en efectivo, sin recibos. Eso es verdad; no lo inventé. Sólo hice que se oyera donde hacía falta.
+
+Kal no la miró. Miró el auto, el carrito, el trapo en el piso, y Chiara supo que estaba sacando la cuenta.
+
+—¿Y a él qué le pasa?
+
+—Una visita incómoda por algo que sí hizo.
+
+—Por esto no.
+
+—Por esto no.
+
+—¿A quién le debes esto?
+
+—Tres favores. Ninguno con tu nombre.
+
+—Pero con el tuyo.
+
+Chiara no contestó eso.
+
+—Chiara. —Lo dijo bajo—. ¿Por qué tanto?
+
+Tenía la respuesta, y no era para un taller. Dobló la hoja.
+
+—Cuando te llamen, no lo ensayes demasiado. Lo ensayado se nota.
+
+Kal no volvió a meterse debajo del auto mientras ella estuvo ahí.
 
 ***
 
@@ -184,8 +223,6 @@ Chiara lo esperó en el penthouse esa noche, sin preguntarle cómo había ido, p
 Kal entró, dejó las llaves sobre la mesa con más cuidado del que necesitaban, y se quedó de pie un momento, mirándola como si la estuviera viendo por primera vez desde un ángulo que llevaba meses sin usar.
 
 —Eres realmente buena en esto.
-
-No sonó a cumplido barato. Sonó a un hombre revisando, en voz alta, algo que llevaba tiempo asumiendo mal.
 
 Chiara no bajó la vista. No sonrió tampoco, no todavía.
 

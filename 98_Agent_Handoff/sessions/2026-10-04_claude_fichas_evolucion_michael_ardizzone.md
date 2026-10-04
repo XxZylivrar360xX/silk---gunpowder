@@ -56,3 +56,27 @@ Fichas de Kal, Chiara, Elenna, Corrado, Walt y Michael (nueva); [[11_Books/Book_
 ## Adenda 5
 
 - Iris descubre en el VII que Manfred era Corrado y que Michael es el Ardizzone. Apellido: **Harlow**; padre, Dr. Sean Harlow, médico del Santa Aurelia. Ficha renombrada a [[02_Characters/Iris_Harlow]] (enlaces actualizados).
+
+## Adenda 5 — Michael visita en el V (CANON DEL AUTOR, 2026-10-04)
+
+- En el Libro V, Michael (~19) llega de visita con el abuelo y se presenta como **Michael Mercer**. Conoce a Iris, que lo ubica como hermano de Elenna y nieto del señor Gabe. Supersede "se conocen en el funeral".
+- En el VI regresa como **el señor Ardizzone**.
+- Tras el IV, la identidad pública de Corrado sigue siendo Manfred Gabe: la vida de Corrado Ardizzone se quedó en Italia; administra Ridge como un hombre de confianza de Walt, sin más explicación en prosa.
+- La revelación no requiere foco en el pasado; hay que diseñarla bien.
+- DISEÑO: visita acotada, se va llamado por la mesa; no cruza la línea policial; Livia llega en el salto V→VI.
+- PENDIENTE: duración y momento de la visita; nudo del apellido (qué entiende Iris cuando el nieto de Gabe regresa como Ardizzone).
+- Tocados: fichas de Michael, Iris, Corrado, Elenna y Livia; `01_Timeline` V y VI; Book Maps V y VI.
+
+## Adenda 6 — Transición Michael e Iris (CANON DEL AUTOR, 2026-10-04)
+
+Nueva ficha de relación: [[06_Relationships/Michael_e_Iris]]. Decisiones del autor: para Iris, Gabe es "nonno" por cariño, no por sangre (resuelve el nudo del apellido); la bomba doble la detona Iris leyendo los diarios; Michael renuncia a la silla en el VII, después de la bomba, sin que le compre el perdón; Livia rompe desde Palermo en el VI. **Propuesta sin confirmar:** Michael e Iris se acuestan con él todavía comprometido (choca con "sin consumarse" en el VI). Propagado a fichas de Michael, Iris y Livia, Book Maps VI–VII, timeline VII e INDEX.
+- **Confirmado por el autor:** en el V solo hay química y Michael se va. En el VI, lo primero que ve Iris es al hombre que regresó, y llega con prometida. Livia se va, ellos se quedan y se acuestan con él aún comprometido; eso los lastima a ellos y a terceros. Es la firma que distingue su historia de la de Kal y Chiara: son jóvenes que apenas empiezan a sentir algo así de fuerte. Supersede "sin consumarse".
+
+## Adenda 7 — Diseño del error (CANON DEL AUTOR, 2026-10-04)
+
+El error ocurre después de que Michael lee los diarios. Iris también tiene pareja: un hombre civil y decente, nombre PENDIENTE, sin ficha todavía. Livia intuye y rompe antes de que él confiese, y él se queda con una deuda que no puede pagar. Iris retrocede por vergüenza. Elenna carga el secreto en el VI. Propagado a [[06_Relationships/Michael_e_Iris]] y a las fichas de Iris, Elenna y Livia.
+
+## Adenda 8 — Las promesas (CANON DEL AUTOR, 2026-10-04)
+
+La pareja de Iris es John, periodista de *El Faro* (ficha nueva; apellido PENDIENTE). Después del error se prometen: ella, "voy a hablar con John"; él, "terminaré mi compromiso con Livia". Iris cumple y él no; Livia rompe primero. En el VII, ruptura y posible reconciliación, sin garantía de final feliz.
+- **Adenda 9 (CANON DEL AUTOR):** John recibe un trabajo en Nueva York y le pide a Iris que se vaya con él; ella no puede porque se enamoró de otro hombre. Él se va solo y sale de la saga. Se retira el DISEÑO de John escarbando en el VII.

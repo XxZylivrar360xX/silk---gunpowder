@@ -521,7 +521,7 @@ Chiara, detrás de la silla, se reía también, sin ganas de disimularlo del tod
 
 —Me vigilan. Es distinto.
 
-Se quedó parada detrás de él. Le acomodó un mechón con dos dedos antes de que ninguno de los dos alcanzara a pensar si eso estaba permitido. Kal se quedó inmóvil; la inmovilidad dijo más que cualquier retirada.
+Se quedó parada detrás de él. Le acomodó un mechón con un dedo antes de que ninguno de los dos alcanzara a pensar si eso estaba permitido. Kal se quedó inmóvil; la inmovilidad dijo más que cualquier retirada.
 
 Los dedos de ella bajaron un poco, hasta el borde de la cicatriz que le marcaba la mejilla. No la tocó. Se quedó cerca, nada más.
 

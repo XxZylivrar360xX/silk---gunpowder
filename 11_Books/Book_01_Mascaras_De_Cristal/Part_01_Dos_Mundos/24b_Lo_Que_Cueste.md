@@ -42,7 +42,7 @@ Dijo un número. Lo dijo bien. Siempre los decía bien.
 
 —Más o menos para arriba, *khoya*. Hoy no me hagas llorar.
 
-Kal apretó una abrazadera. Probó la manguera con dos dedos. La volvió a apretar.
+Kal apretó una abrazadera. Probó la manguera con el pulgar. La volvió a apretar.
 
 —¿Y el italiano? —preguntó Nadir.
 

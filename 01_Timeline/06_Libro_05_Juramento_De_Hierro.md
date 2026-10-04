@@ -11,6 +11,7 @@
 - Elenna, a los 21 años, regresa a San Aurelio para entrar a la academia.
 - Nicholas Voss retoma el caso Vera sin resolverlo.
 - Erin Reyes, su mejor amiga desde Río (anterior a la academia), se queda en San Aurelio con ella; Elenna comienza una relación con Ethan.
+- Michael Mercer, hermano menor de Elenna (~19), visita a su abuelo, el señor Gabe de Bellandi Ridge, y conoce a Iris Harlow. *(CANON DEL AUTOR 2026-10-04.)*
 - Un homicidio reproduce rasgos del caso Vera.
 - Nicholas demuestra que el sospechoso perseguido durante años no pudo ser el tirador.
 - Erin advierte que algo no encaja en Ethan y Elenna la descarta.

@@ -124,7 +124,7 @@ Se acercó al escritorio y levantó la nota sin pedir permiso, la leyó en el ti
 
 —¿Así cómo?
 
-—Irse dejando una carta. —Señaló el papel con dos dedos, sin tocarlo otra vez—. A mí me dio una impresión diferente cuando lo conocí.
+—Irse dejando una carta. —Señaló el papel con un dedo, sin tocarlo otra vez—. A mí me dio una impresión diferente cuando lo conocí.
 
 Chiara cerró la agenda.
 

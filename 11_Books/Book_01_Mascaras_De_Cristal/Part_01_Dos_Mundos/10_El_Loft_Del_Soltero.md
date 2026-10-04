@@ -1,7 +1,8 @@
 <!--
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_c11_el_loft_del_soltero.md). Deuda de canon no bloqueante conservada: por que la familia Mercer dejo de poseer La Casa y si Chiara sabe durante el diseno que era la casa de los Mercer -- no afecta este estado, no resueltas.
 Cirugía editorial extraordinaria 2026-09-26 (autorizada por el autor, sigue TERMINADO): poda de glosas, salto de POV a Nadir, prolepsis, inventario de obra y regateos repetidos; la tercera visita queda sin luces ni lista de muebles; media línea nueva ancla el regreso al penthouse en la vigilancia de Dario. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_10_El_Loft_Del_Soltero.md §10.
-Protagonistas: Kal Mercer, Chiara Bellandi, Nadir Amrani.
+Insercion 2026-10-04 (decision del autor; prosa DISENO del agente, BORRADOR pendiente de lectura; el resto sigue TERMINADO): Walt entra al arco del loft para que el Cap. 11 se apoye en un trato ya visto. Casa comun: es el unico que no se vuelve cuidadoso con Chiara ("La de la caja" / "El copiloto"), el telefono de botones (eco del Cap. 5), cerillos con Danny y Nadir (Chiara ve que pierde y gana con la misma cara) y tardes en que desaparece sin decir a donde (semilla muda de Corrado/Cap. 9). Primera cena del loft: Walt revisa la isla y pregunta cuanto licor compra el Monarch y a quien; con el, seis comensales cuadran con "dos sillas vacias" de ocho.
+Protagonistas: Kal Mercer, Chiara Bellandi, Nadir Amrani; aparicion de Walt Keegan.
 Ventana temporal: continúa directamente del Capítulo 9. Semanas en la casa común, después la recompra y el diseño de la casa.
 Lugares: Casa Comunitaria de La Almendra, La Casa (la vieja casa de los padres de Kal).
 Función: ejecutar H14, "El loft del soltero": la fricción con Nadir, la recompra, el diseño pagado por Chiara y la comodidad doméstica que empieza a crecer. Chiara NO se muda aquí (eso es H16, el cumpleaños): deja objetos sueltos y se queda alguna noche, nada más.
@@ -23,6 +24,26 @@ Lo que no dijo fue que también había empezado a notar cuánto espacio ocupaba 
 Su neceser estaba en el baño que compartían tres hombres. Dormía en el único cuarto sin dueño. Si se cansaba a media tarde, alguien dejaba de usar la mesa larga para que pudiera apoyar la cabeza lejos del ruido. Los muchachos bajaban la voz cuando la veían llevarse dos dedos a la sien. Kal dormía en cualquier sitio desde el que pudiera oír su puerta.
 
 La casa común no se había vuelto hostil. Se había vuelto cuidadosa, que era otra forma de dejar de ser la misma.
+
+El único que no se había vuelto cuidadoso era Walt.
+
+Aparecía a la hora de la cena sin avisar, colgaba la chaqueta en el respaldo de la primera silla libre y le hablaba a Chiara con la misma voz que usaba para todos: de usted y sin preguntarle cómo seguía. La primera noche la miró desde el otro extremo de la mesa larga, con la cuchara a medio camino.
+
+—La de la caja —dijo.
+
+—El copiloto.
+
+Walt asintió, como si eso dejara las cuentas en orden, y siguió comiendo.
+
+Días después le preguntó, sin preámbulo, si Kal ya le había contado lo del teléfono.
+
+—Que le quiere comprar uno de botones.
+
+—Y que es un insulto. —Walt dejó la taza—. Que me compre uno de los otros y me enseñe a usarlo, o que no me compre nada. Lo de en medio es lástima.
+
+Después de cenar se quedaba en la mesa con una baraja vieja y les ganaba a Danny y a Nadir los cerillos de la semana. Dinero no apostaba bajo un techo que no era suyo. Danny perdía siempre y nunca entendía por qué. Chiara, desde el sofá, tardó tres noches en notar que Walt perdía y ganaba con la misma cara.
+
+Algunas tardes desaparecía sin decir a dónde y volvía con polvo de otra parte de la ciudad en los zapatos. Nadie le preguntaba. Chiara tampoco.
 
 ***
 
@@ -510,7 +531,7 @@ De cara a los demás, fue apoyo del casino. En el libro de cuentas de Kal, la de
 
 La primera cena en la casa fue para probar la cocina.
 
-Kal invitó a los muchachos porque una isla hecha para varias personas no podía estrenarse con una sola. Nadir llegó con pan. Danny llevó cerveza. Héctor inspeccionó la mesa, se sentó en una de las cabeceras y decidió que eso contaba como aprobación.
+Kal invitó a los muchachos porque una isla hecha para varias personas no podía estrenarse con una sola. Nadir llegó con pan. Danny llevó cerveza. Héctor inspeccionó la mesa, se sentó en una de las cabeceras y decidió que eso contaba como aprobación. Walt llegó el último, rodeó la isla como quien revisa un motor y dijo que estaba bien hecha, que era lo más que decía de cualquier cosa.
 
 Chiara no llegó con nada. Había elegido los platos, discutido la altura de las lámparas y pagado la sartén que Kal estaba a punto de arruinar; consideró suficiente su contribución.
 
@@ -528,7 +549,11 @@ Kal levantó la sartén. La carne se había pegado.
 
 Ella tomó el cuchillo de su mano, separó lo que todavía podía salvarse y le explicó algo en italiano cuando la palabra en español tardó demasiado. Kal no entendió la frase, pero sí el gesto. Bajó el fuego.
 
-Comieron en la mesa grande. Quedaron dos sillas vacías.
+Comieron en la mesa grande. Entre el pan y la carne, Walt le preguntó a Chiara cuánto licor compraba el Monarch al mes, y a quién.
+
+Ella le dio una cifra redonda y ningún nombre. Él asintió y no volvió a preguntar.
+
+Quedaron dos sillas vacías.
 
 Nadie comentó el tamaño.
 

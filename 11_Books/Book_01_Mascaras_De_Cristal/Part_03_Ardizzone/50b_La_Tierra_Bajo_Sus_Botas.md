@@ -109,7 +109,7 @@ Era más delgada que las demás, impresa en papel común, y la tinta todavía te
 
 El general la sostuvo frente a sí sin moverla. El hombre del traje no dijo nada. Del otro lado de la reja pasó un camión de carga rumbo a los hangares, y su ruido llegó y se fue.
 
-Después puso la última foto encima de las demás, cuadró el borde con dos dedos, cerró la carpeta y se la acomodó bajo el brazo.
+Después puso la última foto encima de las demás, cuadró el borde con las yemas, cerró la carpeta y se la acomodó bajo el brazo.
 
 Volvió a mirar hacia el sur.
 

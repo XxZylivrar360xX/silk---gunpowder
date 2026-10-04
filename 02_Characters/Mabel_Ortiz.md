@@ -120,7 +120,9 @@ También sirve para mostrar el límite moral de Chiara. Si Chiara usa a Mabel co
 - **No cambia sus reglas duras.** Sigue sin pertenecerle a nadie, tampoco a Walt; y no entra a reuniones criminales, lo que encaja con un Walt en libertad condicional que quiere quedarse del lado legal.
 - **Freno propio, sin inventar obstáculos:** Walt nunca hizo el duelo de Amanda afuera, y cortejar puede sentirse como traición. Natalie tiene su propia lectura del asunto.
 
-**Semilla ya escrita:** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/11_El_Farol|Cap. 11]], hablando de Walt, Mabel detiene el trapo a mitad del gesto y necesita las manos ocupadas para terminar la frase ("Le debe diez años que no va a recuperar"). Su señal de mentira, aplicada a sí misma. No hace falta tocar la prosa: ya funciona como primer indicio.
+**Primer reencuentro (CANON DEL AUTOR, 2026-10-04):** ocurre en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/11_El_Farol|Cap. 11]], con Chiara en la barra como testigo. Walt llevaba semanas fuera de prisión sin entrar a La Esquina; entra la mañana del torneo. DISEÑO de la escena: "Mabel." / "Walter." (sólo ella le dice así); café negro sin azúcar sin preguntar ("Es café, Walter. No es un poema."); él paga exacto y rechaza el "va por la casa"; ella no mete las monedas en la caja. Mabel sabe todo de él por terceros (chofer, lote, Héctor) y no puede leerle la cara.
+
+**Semilla ya escrita (texto ajustado 2026-10-04):** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/11_El_Farol|Cap. 11]], hablando de Walt, Mabel detiene el trapo a mitad del gesto y necesita las manos ocupadas para terminar la frase (ahora: "Ya pagó diez años por algo que no debía… No le va a deber nada a nadie el resto de su vida"). Su señal de mentira, aplicada a sí misma. No hace falta tocar la prosa: ya funciona como primer indicio.
 
 > **DISEÑO:** el apellido *Ortiz* puede ser el de casada, lo que dejaría su apellido de soltera como el nombre con que Walt la conoció.
 

@@ -77,7 +77,7 @@ La puerta de la oficina se abrió. Garrett salió con el teléfono todavía en l
 
 Garrett la miró a través de los lentes. Después asintió una vez, como quien anota algo en una columna que todavía no tiene título.
 
-—Eso lo sabíamos el primer día —dijo Nadir—. Que lo tenía la base. Lo supimos cuando no salió de la comisaría. —Golpeó el libro cerrado con dos dedos—. No necesitábamos un casino entero para saber eso, señora.
+—Eso lo sabíamos el primer día —dijo Nadir—. Que lo tenía la base. Lo supimos cuando no salió de la comisaría. —Golpeó el libro cerrado con los nudillos—. No necesitábamos un casino entero para saber eso, señora.
 
 Héctor no lo corrigió. Walt tampoco. Debajo del sedán, Danny no se movía.
 

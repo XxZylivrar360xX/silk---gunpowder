@@ -9,6 +9,7 @@ Secuencia: Keene solo como titular -> carcel (Nat ya esta ahi: estuvo en la audi
 El trabajo (canon del autor, 2026-09-29): mover un cargamento de hierba por encargo del Tasador y entregarlo a Cuadra Nueve (Maya Rios, Nueve Puentes; eleccion del agente, no es la banda de Irene) a cambio de un pago fuerte, para inyectar capital y volver a poner a la Almendra en el juego. Mascaras y prendas negras. Todavia no son El Patio. El trabajo NO se muestra: Kal se lo contara a Chiara en un capitulo futuro.
 Peldano Kal-Chiara: el 2 deja la simbiosis inicial (quiza pueda obtener algo de esta persona); el 3 no la toca en escena. Lo unico que mueve es el costo: el Monarch no llama (el "te llamo manana" de Matteo queda en nada) y Kal toma el dinero oscuro. Esto es la vida cotidiana que Kal ira contandole a Chiara; la llamada de ella en el 4 reabre la puerta legal esa misma noche.
 Lineas canon conservadas: salida de la carcel ("No vuelvas a prision", "Navarro"/"Keegan", "Llevas intentando saludar como adulto...", "Tu padre hacia esa cara..."), cementerio completo de Walt/Kal/Nat (anadida por el autor, 2026-09-29: Walt deja en la lapida una carta que le escribio a Jim desde la carcel, sin direccion; nadie pregunta que dice), recuerdo de Afganistan (Jim, reporte, "¿Y tu hermana?", la mujer rusa, emboscada). "Estoy un poco resentido con el... 'Tasador'" (autor, 2026-09-29: "joyero" retirado; Walt repite con sorna el apodo nuevo) / "La libertad condicional me volvio moderado" / "Quiero mantenerme afuera..." / "Si hay problema, respondo" se reubican del porche a la escena del trabajo.
+Canon del autor (2026-10-04): antes de que salga Walt, Kal pregunta a Hector "¿Los ojos, segun el color, brillan mas?" / Hector: "¿De que hablas?" / Nat: "Depende." / Kal: "¿Depende de que?" / Nat: "De los ojos que los miren." Eco de los ojos verdes de Chiara en el Cap. 2. Lectura (autor): Nat no comenta la idea de Kal; habla de volver a ver los ojos de su padre, por eso contesta mirando la puerta. Callback de Hector mas adelante: "¡Ah! ¿Te referias a esos ojos?" (Cap. 5, escena de Rocco). Acotaciones (concha, "sin quitarle la vista a la puerta"): DISENO.
 Retirado por el autor (2026-09-29): porche con cervezas (Kal, Walt, Hector), "Quiero levantarlo", el sarcasmo de Hector y la broma de Walt sobre Dario, cafeteria del norte y Harper (su primera aparicion pasa a ser el Cap. 19), la meditacion de Kal sobre Keene. Version anterior en git (commit 14d8c4f).
 Palabras de prosa: ~4,780 (antes ~7,000 con el bloque de Chiara, que ahora vive en el Cap. 4). DISENO del agente, pendiente de lectura: la banda receptora (Cuadra Nueve), la cifra (treinta mil, mitad por adelantado), la bodega del norte, el Buick sobre la grua, la cadena "Eso decia tu padre", el telefono de Nat, la casa comun como vestidor.
 -->
@@ -88,6 +89,20 @@ Natalie buscó a Kal por encima de la bolsa.
 —Hoy.
 
 Ella asintió una vez. Héctor siguió mirando la puerta como si no hubiera oído. Los tres sabían de qué hablaban.
+
+Kal se terminó la concha. Miró la puerta, luego a Héctor.
+
+—¿Los ojos, según el color, brillan más?
+
+—¿De qué hablas?
+
+—Depende —dijo Natalie.
+
+Kal se quedó con la de ella.
+
+—¿Depende de qué?
+
+—De los ojos que los miren —dijo, sin quitarle la vista a la puerta.
 
 La puerta se abrió a las diez con cuatro minutos.
 

@@ -41,7 +41,7 @@ La casa de Varek no anunciaba nada desde la calle. Un muro alto, cámaras discre
 
 —Lo esperan en el patio, señor Mercer. Deje el coche donde le indique el compañero.
 
-Más adelante, otro hombre le hizo una seña con dos dedos hacia un hueco exacto entre dos setos, como si llevara toda la mañana reservado para él y para nadie más. Nadie le pidió las llaves. Nadie le pidió que se identificara dos veces. Un tercero le abrió la puerta lateral antes de que Kal llegara a tocarla, sin preguntarle si iba a entrar por ahí. Caminó los últimos metros con la sensación exacta —y no era la primera vez que la tenía en esa casa— de que desde que cruzó la reja alguien llevaba la cuenta de dónde estaba.
+Más adelante, otro hombre le hizo una seña con el índice hacia un hueco exacto entre dos setos, como si llevara toda la mañana reservado para él y para nadie más. Nadie le pidió las llaves. Nadie le pidió que se identificara dos veces. Un tercero le abrió la puerta lateral antes de que Kal llegara a tocarla, sin preguntarle si iba a entrar por ahí. Caminó los últimos metros con la sensación exacta —y no era la primera vez que la tenía en esa casa— de que desde que cruzó la reja alguien llevaba la cuenta de dónde estaba.
 
 Eso también era información.
 

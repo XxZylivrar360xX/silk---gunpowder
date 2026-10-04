@@ -69,7 +69,7 @@ Cinco y cuarenta. Lo vio salir con la marca de la hora y supo, en el mismo segun
 
 Lo mandó igual. La alternativa era el silencio, y el silencio con ella era peor: el silencio lo llenaba ella sola, y lo llenaba siempre con la peor versión.
 
-Entró al cuarto por la chaqueta. Chiara estaba de lado, con una mano abierta sobre el lugar donde él había dormido, no encima, cerca. Se quedó un segundo mirándola y no la despertó. Despertarla era una conversación, y una conversación era darle el hilo. La tapó un poco más con la orilla del edredón, con dos dedos, y bajó por el elevador privado para no cruzar el lobby.
+Entró al cuarto por la chaqueta. Chiara estaba de lado, con una mano abierta sobre el lugar donde él había dormido, no encima, cerca. Se quedó un segundo mirándola y no la despertó. Despertarla era una conversación, y una conversación era darle el hilo. La tapó un poco más con la orilla del edredón, con los dedos, y bajó por el elevador privado para no cruzar el lobby.
 
 ***
 
@@ -103,7 +103,7 @@ Kal se sentó. Halbrook no.
 
 —Estoy fuera de eso hace años.
 
-—Nadie está fuera de nada. Está inactivo. Es una condición administrativa, y las condiciones administrativas se revisan. —Apoyó dos dedos sobre la carpeta cerrada—. Voy a explicarle por qué esta conversación termina como yo digo y no como usted preferiría. Le pido que lo escuche como un dato. Las amenazas son para los hombres que necesitan que se les crea.
+—Nadie está fuera de nada. Está inactivo. Es una condición administrativa, y las condiciones administrativas se revisan. —Apoyó el índice sobre la carpeta cerrada—. Voy a explicarle por qué esta conversación termina como yo digo y no como usted preferiría. Le pido que lo escuche como un dato. Las amenazas son para los hombres que necesitan que se les crea.
 
 Abrió la carpeta otra vez. La giró sobre el escritorio para que Kal leyera del derecho.
 

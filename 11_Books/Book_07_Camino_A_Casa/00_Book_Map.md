@@ -32,6 +32,7 @@
 - La noche Marsh sigue sin explicar.
 - Kal y Chiara ausentes físicamente desde el inicio de la academia (dos libros).
 - **Michael se quedó en San Aurelio** por [[02_Characters/Iris_Harlow|Iris]] (CANON DEL AUTOR, 2026-10-04). Iris administra Ridge y Michael dirige ambos como director general; **en este libro empieza su relación**. Historia civil, paralela; no invade la investigación de Elenna. DISEÑO: el regreso físico de Kal y Chiara los pone frente a su hijo sin silla y frente a la hija de Trix.
+- **Bomba doble y silla (CANON DEL AUTOR, 2026-10-04):** Iris descubre por los diarios de Gabe que Manfred era Corrado Ardizzone y que Michael lo sabía; Michael renuncia a la silla después, sin que eso le compre el perdón. Ver [[06_Relationships/Michael_e_Iris]].
 
 ## Estructura macro (CANON DEL AUTOR salvo donde se indica)
 

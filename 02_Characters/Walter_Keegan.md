@@ -121,6 +121,8 @@ Cuando Kal sea *Kal Mercer* — dueño de negocios, pareja de Chiara Bellandi, u
 
 ## El torneo de poker y la destilería — DISEÑO (2026-08-26)
 
+> **CANON DEL AUTOR (2026-10-04), rediseño del [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/11_El_Farol|Cap. 11]]:** Walt y Chiara **ya se conocen** antes del torneo (caja del Cap. 5; arco del loft, Cap. 10: casa común, cerillos, primera cena). En el torneo no se conocen: se asocian. **Chiara es socia minoritaria** de la destilería, con su dinero y su firma, fuera de la dirección del casino; Walt conserva bodega, alambique y decisiones. **El Monarch es sólo cliente** (contrato de suministro a precio de lista). Línea DISEÑO: *"El cliente es el Monarch. La socia soy yo. No se mezclan."* Walt acepta con una palabra: *"Minoritaria."* Esa mañana, Chiara presencia el **primer encuentro de Walt y Mabel desde que salió de prisión** (CANON DEL AUTOR; Walt llevaba semanas evitando La Esquina). Lo que sigue abajo sobre "ahí conoce a Chiara" y "lo ayuda a comprar" queda superado en esos dos puntos.
+
 Walt se sienta en el primer torneo de poker de Chiara ([[03_Factions/El_Casino]]) — y es **extraordinario para mentir en la mesa.** Toda una vida leyendo al barrio antes que a las cartas le sirve exactamente igual con un mazo enfrente.
 
 Ahí conoce a Chiara. Nace entre los dos una **relación cordial** — dos personas que se leen bien y se respetan rápido. De esa relación salen dos cosas:

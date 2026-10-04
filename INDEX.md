@@ -47,8 +47,11 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[02_Characters/Michael_Ardizzone]] — segundo hijo de Kal y Chiara, ~2 años menor que Elenna, nacido en Palermo. Michael Mercer Ardizzone (Ardizzone por elección); silla entregada en vida por Corrado. Llega en el VI tras la muerte de Corrado, se enamora de Iris, se queda en San Aurelio y pierde la silla; historia civil en el VII. Prometida: Livia Ferraro.
 - [[02_Characters/Livia_Ferraro]] — prometida de Michael; arquitecta palermitana de restauración, civil. Libro VI: viaja al funeral de Corrado y regresa sola a Palermo. Destino PENDIENTE.
 - [[02_Characters/Iris_Harlow]] — hija de Trix y del Dr. Sean Harlow, nieta de Varek; viticultora en Bellandi Ridge que conoció a Corrado como "el señor Gabe". Interés amoroso de Michael en el VI.
+- [[02_Characters/John]] — periodista de *El Faro*, pareja de Iris en el VI; ella no se va con él a Nueva York porque se enamoró de Michael; sale de la saga en el VI. Apellido PENDIENTE.
 - [[06_Relationships/Kal_y_Chiara]] — la relación como entidad con arco propio: los dos conflictos, la unión invisible, el ritual del collar, la incomodidad de estar cómodos, las fases, la grieta y la prueba de autenticidad de escena
 - [[06_Relationships/Momentos_de_Fractura]] — conflictos que casi lo rompen todo: la mentira bajo la lluvia, Año Nuevo en Washington, los frenos y el destierro de Bonnie con la muerte de Mei-Lin.
+- [[06_Relationships/Elenna_y_Michael]] — hermanos (V–VII): apellidos cruzados, el secreto del abuelo compartido desde niños, el camper y el error de Michael.
+- [[06_Relationships/Michael_e_Iris]] — transición V–VII: la visita, el nonno de cariño, la segunda mentira, los diarios y la renuncia a la silla.
 - [[06_Relationships/Los_Tres_Dias]] — reconstrucción doméstica después de la mentira bajo la lluvia: regresar no es lo mismo que volver a casa.
 
 ---
@@ -241,6 +244,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - `12_Craft_Policies/staging_rules/` — anti-patrones de puesta en escena adaptados desde *Memories Of A Ghost*
 - [[12_Craft_Policies/staging_rules/03-presentacion-por-catalogo-en-vez-de-gesto]] — gesto antes que catálogo: cómo entrar un personaje o una herida sin inventario físico
 - [[12_Craft_Policies/staging_rules/04-dialogo-de-guion-sin-anclaje]] — diálogo de guion: cuándo un intercambio largo pide un beat y qué beat se gana el lugar
+- [[12_Craft_Policies/staging_rules/05-gesto-de-manos-en-serie]] — gesto de manos en serie: el tic de "dos dedos" y cómo ajustar el dedo a la acción
 - [[12_Craft_Policies/editorial/EDITORIAL_POLICY]] — política de edición posterior al triaje: una alerta no ordena modificar
 - [[12_Craft_Policies/editorial/DO_NOT_TOUCH]] — límites de canon, arquitectura, revelaciones y voz durante edición
 - [[12_Craft_Policies/editorial/MICROEDICION]] — procedimiento de microedición: modos AUDIT/SURGERY/VERIFY, clasificación de candidatos, árbol de decisión

@@ -1,6 +1,7 @@
 <!--
 Estado: TERMINADO.
 Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_12_Roma_Atrii.md (§11). Resumen: marca temporal en la apertura; la pieza de la gasolinera/fiscales sale del montaje (es del Cap. 13); se corta el movimiento de la alarma del Peugeot (la razon llega solo en el dialogo de Chiara con Kal); fuera "las velas que enciendo por ti" (la vela por Kal nace despues de F4); "membrete" -> "papel de los suyos"; cortes de glosa, repeticion y POV (B1-B14); recuerdo de Palermo del hilo A en la noche del penthouse (DISEÑO del agente, pendiente de lectura del autor). Lo de abajo describe el diseno previo a la cirugia.
+Dialogo Kal/Chiara (2026-10-04, direccion del autor; prosa DISENO del agente, pendiente de lectura): la confrontacion del Monarch se reescribe por descubrimiento progresivo. El error del chico se admite pronto; Kal sigue preguntando por la cadena (quien escribio, quien sabe leer, quien es el chico: "No lo se. Kenji si.") y la friccion pasa al sistema; Chiara defiende decisiones, no doctrina, y marca territorio ("Esto otro es mio"); fe como origen antiguo de la red, sin intercambio de tesis; concesiones cruzadas: ella cambia la ruta porque el nombre se dijo en voz alta en el Patio, el se guarda la pregunta de cuantos son. Se conservan la admision, el Peugeot, "red visible/invisible", iglesia, "pagar, arreglar o cobrar", ternura, *Llegarte* y "Todavia no". Salen "La mia no pide resultados..." y "Supongo que tambien es una fe". Detalle: Audit_Cap_12_Roma_Atrii.md §12.
 Protagonistas: Chiara Bellandi (partes 1-2), Kal Mercer (parte 3).
 Ventana temporal: parte 1 es anterior al Capitulo 11 (evento altruista, y tambien anterior/independiente de la noche de Gabriella's del Capitulo 7 y del arco de H12 en los Capitulos 9-10); parte 2 ocurre la misma noche del torneo del Capitulo 11; parte 3, semanas despues -- Kal y Chiara ya viven a caballo entre el penthouse y la casa de el.
 Lugares: salon de gala (evento altruista, sin nombre fijo), The Monarch Casino & Hotel (piso de juego y caja), Almendra Towing / El Patio.
@@ -249,57 +250,99 @@ Chiara no discutió. No preguntó cómo se había enterado. No defendió el mét
 
 —Tienes razón. No vuelve a pasar. Tienes mi palabra.
 
-—¿Por qué no esperaste? —Kal no subió la voz, pero tampoco la bajó—. Siempre esperas a la noche.
+Kal traía el resto preparado. Se quedó con el papel en la mano y sin la siguiente pregunta.
+
+—¿Por qué no esperaste? —dijo al fin. No subió la voz, pero tampoco la bajó—. Siempre esperas a la noche.
 
 Chiara no buscó una versión más cómoda.
 
 —Porque esta mañana alguien preguntó por tu coche en mi propio piso. Un hombre que nunca había visto, que pagó en efectivo y no jugó una sola mano. No sé si es nada. No sé si es algo. Pero no iba a quedarme sentada hasta la noche con esa duda y contigo sin saberlo.
 
-Kal se quedó callado un momento.
-
 —Pudiste llamarme.
 
-—Pude. —No se disculpó por eso tampoco—. Ésta no lo pensé lo suficiente, y el chico pagó el precio de que no lo pensara. Eso no tiene defensa, y no la voy a inventar.
+—Pude. —No se disculpó por eso tampoco—. Ésta no la pensé lo suficiente, y el chico pagó el precio de que no la pensara. Eso no tiene defensa, y no la voy a inventar.
 
 Y con eso pudo haberse acabado.
 
-Kal todavía tenía el papel en la mano — lo había traído sin decidir por qué, como si fuera evidencia de algo que ya no necesitaba probar. Lo levantó de todos modos.
+Kal le dio vuelta al papel entre los dedos, todavía doblado en cuatro.
 
-—¿Y esto? ¿Qué es exactamente lo que estás construyendo aquí?
+—¿Lo escribiste tú?
 
-Chiara miró el papel, después a él.
+—Sí.
 
-—Se llama i Sussurri. Los susurros. —Lo dijo bajo, casi como quien confiesa algo, aunque la cara no tuviera nada de arrepentida—. Gente que oye cosas y me las hace llegar. Nadie sabe que pertenece a algo, salvo Kenji, que aceptó saberlo.
+—¿Y él sabe lo que dice? —No miró hacia la caja.
 
-—¿Por qué latín? ¿Por qué no me lo dices y ya?
+—No. Sabe escribir cuatro palabras. Leer, ninguna.
 
-—Porque una red visible es un blanco, y una invisible es una costumbre. —Se cruzó de brazos, no a la defensiva, sino como quien empieza una clase que ya dio antes, para sí misma, muchas veces—. Nadie delata una costumbre, Kal. No sabe que es parte de ella.
+—¿El chico?
+
+—Tampoco.
+
+—¿Quién es?
+
+Chiara tardó un segundo más que en las otras.
+
+—No lo sé. Kenji sí.
+
+Kal levantó la vista. A diez metros, Kenji cambiaba fichas sin voltear hacia ellos ni una vez, con el cuidado de quien sabe adónde no tiene que mirar.
+
+—¿Y si lo paraban? ¿Quién respondía por él?
+
+—Nadie para a un niño por un papel que no se entiende.
+
+—Yo lo paré.
+
+Chiara no contestó enseguida. A espaldas de Kal, en una mesa, algo subió de tono. Ella levantó un dedo hacia alguien de seguridad, apenas, y el problema se resolvió sin que tuviera que moverse.
+
+—Kenji sabe lo de su caja. El chico sabía una dirección y un nombre que no entendía. Si alguno cae, cae con eso y nada más. —Lo dijo al ritmo de quien cuenta piezas de algo que funciona—. Una red visible es un blanco, Kal. Una invisible es una costumbre. Nadie delata una costumbre.
+
+—El chico no sabía que estaba adentro.
+
+—Por eso no puede delatar a nadie.
+
+Kal no le contestó eso. Miró el papel.
+
+—Kenji sabe lo de su caja —repitió—. ¿Y lo de las otras?
+
+—¿Qué otras?
+
+—Dijiste *su* caja.
+
+Chiara lo sostuvo un momento. Algo en ella cambió de mano, como una ficha.
+
+—El chico ya te lo di, Kal. —Ni dura ni suave—. Esto otro es mío.
+
+Kal bajó la vista al papel, a la letra inclinada siempre hacia el mismo lado, al latín que no leía.
 
 —Suena a iglesia.
 
-—Es iglesia, un poco. —Casi sonrió—. Crecí aprendiendo que una confesión no vale nada si sale de la boca equivocada, o le llega al oído equivocado. Esto funciona igual. No importa lo que alguien sepa. Importa a quién se lo dice, en qué lengua se atreve a decirlo, y si esa persona sabe guardarlo como se guarda un secreto en un confesionario.
+—Es iglesia, un poco. —Casi sonrió—. Crecí aprendiendo que una confesión no vale nada si le llega al oído equivocado.
 
 —Tú crees en eso. En serio.
 
 —Creo en Dios, y en que una mentira dicha con cuidado puede proteger más gente que una verdad dicha sin él. —Lo miró de frente—. Tú no crees en nada de eso.
 
-—Creo en lo que puedo pagar, arreglar o cobrar. —No sonó a defensa. Sonó a inventario—. Supongo que también es una fe, a su manera.
+—Creo en lo que puedo pagar, arreglar o cobrar. —No sonó a defensa. Sonó a inventario.
 
-—No es la misma. —Algo cerca de ternura le cruzó la cara, breve, antes de que la guardara de vuelta—. La mía no pide resultados. Sólo pide que seas honesto cuando nadie más te está oyendo.
+Algo cerca de ternura le cruzó la cara a ella, breve, antes de que la guardara de vuelta. No le contestó. Volvió a mirar el piso, la caja, a Kenji, y otra vez a él.
 
-—Ya no mando a nadie a buscar a nadie —dijo después, y no había disculpa en la voz, sólo la constatación de algo ya decidido—. De ahora en más, si tengo que llegarte algo, lo traigo yo.
+—Preguntó ese nombre en voz alta —dijo—. En tu patio. Delante de quien estuviera.
+
+—Ya no mando a nadie a buscar a nadie. —No había disculpa en la voz, sólo la constatación de algo ya decidido—. De ahora en más, si tengo que llegarte algo, lo traigo yo.
 
 *Llegarte.* No *llegarle a alguien.*
 
 Kal no dijo nada, y ella tampoco esperó que lo hiciera — ya estaba dicho, aunque ninguno de los dos lo hubiera dicho del todo.
 
-—¿Qué significa esto? —preguntó él, sosteniendo el papel un poco más alto, señalando las dos palabras de arriba, como si eso ayudara.
+Tuvo en la boca la otra pregunta — cuántos, quiénes, en qué pisos — y no la hizo.
+
+—¿Qué significa esto? —preguntó en cambio, sosteniendo el papel un poco más alto, señalando las dos palabras de arriba, como si eso ayudara.
 
 —Eso no te lo voy a decir. —Chiara no sonrió—. Todavía no.
 
 No fue un no. Kal lo notó, y no supo qué hacer con eso tampoco.
 
-Caminó de vuelta al taller esperando todavía sentir algo del peso con el que había llegado, y no lo encontró. Se había armado para una pelea entera y volvía con las manos vacías de la manera equivocada — no porque hubiera perdido, sino porque no había habido nada que ganar. Ella había cedido antes de que él terminara de exigir, y encima le había dejado una puerta entreabierta que no le había pedido, y una fe entera de la que nunca le había hablado tan claro.
+Caminó de vuelta al taller esperando todavía sentir el peso con el que había llegado. Lo encontró, cambiado de lugar. El chico estaba resuelto. Lo demás seguía allá atrás, funcionando, en gente que no sabía que estaba adentro y que él no iba a conocer.
 
 Quedó, sin lugar donde ponerlo, el nombre que el chico había repetido como una contraseña.
 
