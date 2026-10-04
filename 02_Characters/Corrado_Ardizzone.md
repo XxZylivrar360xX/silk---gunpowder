@@ -69,6 +69,14 @@ Los federales irrumpen contra Corrado. Semanas después llega un comunicado: el 
 
 Pendientes de detalle (Dale, cómo se esfuma Manfred, desde cuándo trabaja en las caballerizas, la señal para Nereo, el costo para Walt): ver [[07_Ideas/Corrado_Manfred_Gabe]].
 
+> **CANON DEL AUTOR (2026-10-04): Manfred nunca se va.** Corrado permanece en San Aurelio prácticamente siempre, tras bambalinas. "Se esfuma" solo en prosa, porque la trama lo exige: después del Cap. 9 deja el trabajo de mozo (por día, en negro, en efectivo; su ausencia se lee como rotación normal), pero sigue siendo Manfred en su camper del norte. **Corrado Ardizzone sigue muerto para el mundo hasta el final**: la ciudad conoce a Manfred Gabe, administra Ridge como "el señor Gabe" y San Aurelio lo entierra con ese nombre en el VI.
+>
+> **Huellas en los Libros II y III (CANON DEL AUTOR):** Manfred aparece en pequeños detalles. No es una persona perceptible: es alguien que estuvo ahí y cumplió una función, y que cualquiera desestimaría como un civil más. Solo en el cuadro grande se ve la cadena: está influyendo para favorecer un resultado hacia Kal o hacia Chiara. En el IV ya no hace falta, porque la coda del III lo revela.
+>
+> **Cómo se escriben (DISEÑO, reconcilia las reglas duras):** (1) son rastros, no presencia: un testigo que cambia de versión, un camión que se retrasa, un aviso que llega a tiempo, casi siempre a través de terceros (Walt, Ettore, civiles); (2) **nunca le ven la cara ni Kal ni Chiara**, porque Chiara reconocería a su padre y Kal solo lo reconoce en la coda; (3) en primera lectura no se leen como pista de que vive: nada de siluetas, miradas desde lejos ni misterio de thriller; (4) inclinan la balanza, no salvan: Kal y Chiara siguen ganando o perdiendo por sí mismos, y Corrado no resuelve la Guerra de los Tres. Llevar un registro de las huellas en los Book Maps.
+
+> **Iris (CANON DEL AUTOR, 2026-10-04):** en los Libros I–III vigila a la familia Varek por la tensión que Dario hace crecer alrededor de Chiara; además le debe a [[02_Characters/Beatrice_Varek|Trix]] la vida de su hija (la operó en el Cap. 9). Con los años, la vigilancia se vuelve cariño por la nieta, [[02_Characters/Iris_Harlow|Iris]], que lo conoce como "el señor Gabe" y aprende la viña con él. Los diarios del camper lo registran.
+
 ~~Corrado fingió su muerte y pasó años oculto en Italia desmantelando gradualmente Il Consorzio~~ *(supersedido 2026-10-04: el desmantelamiento a distancia lo opera Ettore; ver arriba.)*
 
 Tras la muerte de ambos padres, quien crió a Chiara en todo menos el nombre fue **Ettore**, amigo de Corrado que se quedó cuando nadie más se quedó. Ver [[02_Characters/Ettore]].
@@ -91,7 +99,7 @@ Corrado aporta conocimiento, contexto y una relación personal imposible de igno
 
 ### Su muerte — Libro VI (CANON DEL AUTOR, 2026-10-04)
 
-Muere de muerte natural, en su casa, ya muy mayor (~91, derivado), para volver con Marta: uno de los cierres más bonitos del personaje. Detona dos cosas: Walt, al perder a su viejo amigo, se retira del Monarch para pasar más tiempo con Nat; y su nieto [[02_Characters/Michael_Ardizzone]] viaja al funeral y se queda a sostener el Monarch y Bellandi Ridge. En vida fue mentor de Michael en la mesa de familias: después de la saga administra Bellandi Ridge y **pasa temporadas en Italia** con Kal, Chiara y los nietos.
+Muere de muerte natural, en su casa, ya muy mayor (~91, derivado), para volver con Marta: uno de los cierres más bonitos del personaje. Detona dos cosas: Walt, al perder a su viejo amigo, se retira del Monarch para pasar más tiempo con Nat; y su nieto [[02_Characters/Michael_Ardizzone]] viaja al funeral y se queda a sostener el Monarch y Bellandi Ridge. En vida fue mentor de Michael (a quien llama *Michele*) en la mesa de familias y **le entregó la silla en vida**, un año antes del VI aprox.; su muerte no corona a Michael, le quita al mentor: después de la saga administra Bellandi Ridge y **pasa temporadas en Italia** con Kal, Chiara y los nietos.
 
 **El camper del abuelo (CANON DEL AUTOR, 2026-10-04):** deja el viejo camper lleno de expedientes y diarios de lo que vio, vivió y recopiló. Es herencia: de ahí le viene a Chiara escribir lo que pesa (ver "Las cartas" en su ficha). Cuando Elenna y Michael lo revisan, cada uno saca lo suyo: **él, la historia vieja del Consorzio; ella, las pistas que la llevan a Volpi** y encauzan el caso Vera (Libro VII). Así entra Corrado al VII estando muerto.
 
@@ -107,9 +115,9 @@ No es un personaje de campo. Su técnica es institucional y lenta: erosión pol�
 
 ## Reglas duras del personaje
 
-- **No insinuar su supervivencia en prosa antes de la coda de *Voto de Ceniza*.** Nada de hombres misteriosos observando desde Italia, llamadas anónimas, POV ocultos, fotografías ambiguas, siluetas o pistas de thriller. La única anomalía permitida desde antes es la que ya es parte de la herida: **nunca hubo cuerpo para Chiara** — se lee como crueldad burocrática y duelo incompleto, nunca como pista.
+- **No insinuar su supervivencia en prosa antes de la coda de *Voto de Ceniza*.** *(Matizada 2026-10-04: se permiten las huellas civiles de Manfred, ver "La verdad"; siguen prohibidas las pistas de supervivencia.)* Nada de hombres misteriosos observando desde Italia, llamadas anónimas, POV ocultos, fotografías ambiguas, siluetas o pistas de thriller. La única anomalía permitida desde antes es la que ya es parte de la herida: **nunca hubo cuerpo para Chiara** — se lee como crueldad burocrática y duelo incompleto, nunca como pista.
 - **No resuelve la Guerra de los Tres.** No mata a Halbrook, no diseña su ejecución, no derrota a Dario, no trae un ejército italiano, no sustituye a Kal ni toma San Aurelio.
-- **No es líder secreto omnisciente del Consorcio ni controla la novela en secreto.** No debe haber protegido físicamente cada paso de Chiara desde las sombras.
+- **No es líder secreto omnisciente del Consorcio ni controla la novela en secreto.** No debe haber protegido físicamente cada paso de Chiara desde las sombras. Las huellas de los Libros II–III son pocas, indirectas y solo inclinan la balanza.
 - **Se presenta primero ante Kal, nunca ante Chiara.** El segundo reveal es exclusivamente decisión de ella — nadie decide por ella si lo ve o cuándo.
 - **Sin absolución automática.** Dejar que su hija lo creyera muerto no se resuelve con "lo hice por ti"; esa frase es precisamente el problema que la novela debe sostener.
 - **No hace que Chiara vuelva a firmar como Ardizzone.** Su mayor gesto paternal es aceptar que Bellandi es quien su hija decidió ser — recupera una hija, no una heredera.

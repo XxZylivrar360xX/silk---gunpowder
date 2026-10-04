@@ -87,6 +87,8 @@ sobrevivan — como individuos y como pareja — a haberlo ganado.
 
 ---
 
+> **Huellas de Manfred (CANON DEL AUTOR, 2026-10-04):** Corrado, como Manfred Gabe, deja en este libro pocos rastros civiles que, en el cuadro grande, inclinan un resultado hacia Kal o Chiara. Nunca le ven la cara; nunca funcionan como pista de que vive. Reglas en [[02_Characters/Corrado_Ardizzone]], "La verdad". Registro de huellas: PENDIENTE.
+
 ## Estructura por Partes
 
 Desarrollo completo, Parte por Parte, en [[01_Timeline/03_Libro_02_Sombras_De_Poder]]. Resumen:

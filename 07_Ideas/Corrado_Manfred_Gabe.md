@@ -71,12 +71,20 @@ Interroga al atacante: lo contrató **[[02_Characters/Nereo_Volpi]]**. Corrado c
 
 Explica el legado ya incubado ([[07_Ideas/Libro_04_Incubadora/04_Legado_Post_Trilogia]]): Walt opera el Monarch y Corrado administra Bellandi Ridge, y la relación de negocios entre los dos es la más longeva de la saga porque ya existía antes de Chiara y sobrevive al nacimiento y la adultez de Elenna.
 
+> **CANON DEL AUTOR (2026-10-04): Manfred nunca se va.** Corrado permanece en San Aurelio prácticamente siempre, tras bambalinas. "Se esfuma" solo en prosa, porque la trama lo exige: después del Cap. 9 deja el trabajo de mozo (por día, en negro, en efectivo; su ausencia se lee como rotación normal), pero sigue siendo Manfred en su camper del norte. **Corrado Ardizzone sigue muerto para el mundo hasta el final**: la ciudad conoce a Manfred Gabe, administra Ridge como "el señor Gabe" y San Aurelio lo entierra con ese nombre en el VI.
+>
+> **Huellas en los Libros II y III (CANON DEL AUTOR):** Manfred aparece en pequeños detalles. No es una persona perceptible: es alguien que estuvo ahí y cumplió una función, y que cualquiera desestimaría como un civil más. Solo en el cuadro grande se ve la cadena: está influyendo para favorecer un resultado hacia Kal o hacia Chiara. En el IV ya no hace falta, porque la coda del III lo revela.
+>
+> **Cómo se escriben (DISEÑO, reconcilia las reglas duras):** (1) son rastros, no presencia: un testigo que cambia de versión, un camión que se retrasa, un aviso que llega a tiempo, casi siempre a través de terceros (Walt, Ettore, civiles); (2) **nunca le ven la cara ni Kal ni Chiara**, porque Chiara reconocería a su padre y Kal solo lo reconoce en la coda; (3) en primera lectura no se leen como pista de que vive: nada de siluetas, miradas desde lejos ni misterio de thriller; (4) inclinan la balanza, no salvan: Kal y Chiara siguen ganando o perdiendo por sí mismos, y Corrado no resuelve la Guerra de los Tres. Llevar un registro de las huellas en los Book Maps.
+
+> Iris, nieta de Varek, hija de Trix: ver [[02_Characters/Iris_Harlow|Iris]].
+
 ---
 
 ## Pendientes abiertos
 
 1. **Fechas de Jim** — ver París, arriba.
-2. **Manfred se esfuma vs. Cap. 9.** Kal entrevista a "los otros mozos de cuadra" y no encuentra "nada que no encajara". Un mozo que desaparece al día siguiente sí encaja como pista. **DISEÑO:** Manfred trabajaba en negro, por día, pagado en efectivo por un capataz; no figura en ninguna lista y su ausencia se lee como rotación normal. Alternativa: se va antes de que Kal empiece a preguntar, con una excusa ya conocida.
+2. **RESUELTO (CANON DEL AUTOR, 2026-10-04): Manfred nunca se va** (ver "Después de la saga"); deja el empleo de mozo con el DISEÑO de abajo. ~~**Manfred se esfuma vs. Cap. 9.** Kal entrevista a "los otros mozos de cuadra" y no encuentra "nada que no encajara". Un mozo que desaparece al día siguiente sí encaja como pista. **DISEÑO:** Manfred trabajaba en negro, por día, pagado en efectivo por un capataz; no figura en ninguna lista y su ausencia se lee como rotación normal. Alternativa: se va antes de que Kal empiece a preguntar, con una excusa ya conocida.~~
 3. **Desde cuándo trabaja en las caballerizas.** ¿Antes de que llegue Chiara (casualidad), o entra al llegar ella para verla de lejos? Lo segundo roza la regla de su ficha ("no debe haber protegido físicamente cada paso"), aunque sólo interviene una vez.
 4. **RESUELTO (CANON DEL AUTOR, 2026-10-04): Kal reconoce la voz en el hospital, en la coda de *Voto de Ceniza*.** ~~**La voz.** Kal oyó a Corrado en la llamada del Cap. 9; en la coda, Corrado habla primero. ¿Kal la reconoce? **DISEÑO:** no en la coda; pago en la apertura de *Cuentas de Sangre*, cuando Corrado le cuenta la llamada.~~
 5. **Señal para Nereo.** Su sicario se esfuma: para Nereo, alguien protege a Chiara, lo que podría confirmar la sospecha de que Corrado vive. ¿Se usa?

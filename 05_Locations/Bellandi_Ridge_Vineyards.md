@@ -56,6 +56,8 @@ Por la mañana huele a tierra caliente y hojas. De noche, las luces de San Aurel
 - Si el primer evento público ahí es benéfico, político o familiar.
 - Quién administra el viñedo cuando Chiara está en guerra.
 
+> **CANON DEL AUTOR (2026-10-04), Libros V-VI:** tras el IV la familia conserva sus activos en San Aurelio vía una holding familiar Bellandi; Corrado administra Ridge; DISEÑO: Ridge puede ser legalmente de Elenna. Tras la muerte de Corrado, [[02_Characters/Michael_Ardizzone]] lo representa; al cierre del VI nombra administradora a [[02_Characters/Iris_Harlow|Iris]] y él queda como director general de Ridge y el Monarch.
+
 ---
 
 Ver también: [[02_Characters/Chiara_Bellandi]] / [[05_Locations/Norte_Rural_de_San_Aurelio]] / [[05_Locations/La_Villa]]

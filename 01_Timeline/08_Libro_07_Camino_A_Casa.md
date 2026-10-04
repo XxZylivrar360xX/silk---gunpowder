@@ -17,6 +17,7 @@
 - El antagonista histórico ligado a Nicholas ([[02_Characters/Blake_Stanton|Blake Stanton]]) cae por convergencia de evidencia.
 - Nicholas admite que su obsesión y la institución fallaron.
 - Elenna y Erin se reconcilian.
+- Michael sigue en San Aurelio; empieza su relación con Iris; historia civil y paralela (CANON DEL AUTOR 2026-10-04; detalle PENDIENTE).
 
 ## Cierre
 

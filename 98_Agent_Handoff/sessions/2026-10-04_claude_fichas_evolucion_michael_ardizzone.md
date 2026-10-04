@@ -21,6 +21,38 @@ Fichas de Kal, Chiara, Elenna, Corrado, Walt y Michael (nueva); [[11_Books/Book_
 
 - Chiara: quién es en los Libros II-IV.
 - Corrado: resuelto por la incubadora Manfred Gabe (ver punto 7). Siguen abiertos los pendientes de detalle de [[07_Ideas/Corrado_Manfred_Gabe]] (Dale, qué se filtra en las cartas, cómo se esfuma Manfred, el costo para Walt).
-- Michael: prometida (nombre, si viaja); nombre en casa; cuándo ocupa la silla; qué sabe del caso Vera; participación de la familia en el Monarch.
+- ~~Michael: prometida, nombre en casa, silla, Vera, Monarch~~ RESUELTO (adenda abajo).
 - Brasil: por qué Marisol, cuánto dura, si ahí cabe Río (amistad con Erin).
 - "Oculto en Italia" corregido en las fichas de Corrado, Chiara, Elenna y README, en SAGA_LEVEL y en INDEX. Queda sin tocar la idea [[07_Ideas/Corrado_Manfred_Gabe]] (incubadora). El método de Corrado ("desmantela el Consorzio") sigue escrito como si operara desde Italia: revisar cuando el autor fije cómo lo hace desde San Aurelio.
+
+## Adenda — Michael Ardizzone (CANON DEL AUTOR)
+
+- **Livia Ferraro:** prometida palermitana de 22–24 años, civil, arquitecta de restauración patrimonial; no es "donna del capo". Viaja una sola vez en el VI (funeral), conoce a Elenna y regresa sola; Michael promete alcanzarla y no va. "Si siempre es primero, yo siempre soy segunda."
+- **Nombre:** nace Michael Mercer y agrega Ardizzone por elección (Michael Mercer Ardizzone); nunca Bellandi. Kal y Elenna dicen Michael, Corrado dice Michele y Chiara usa los dos. El autor consideró *Michele* y decidió quedarse con Michael.
+- **Silla:** aprendiz a los 18–19 y formal a los 20–21; Corrado se la entrega en vida. Su muerte no lo corona, le quita al mentor.
+- **Vera:** no sabe nada antes de que Elenna lo toque. Del camper solo sale "sé dónde terminó Volpi"; la cadena completa le pertenece al VII.
+- **Monarch/Ridge:** holding familiar Bellandi; Walt administra el Monarch y Corrado Ridge; Michael queda como representante temporal con gerencia profesional y luego supervisa desde Palermo.
+- Ficha propia: [[02_Characters/Livia_Ferraro]]; su destino queda PENDIENTE hasta escribir esos libros.
+- Tocados: ficha de Michael, Elenna, Corrado, Bellandi Ridge, mapa y timeline del VI, INDEX.
+
+## Adenda 2 — Iris y Manfred tras bambalinas (CANON DEL AUTOR)
+
+- **Iris:** hija de Trix y nieta de Varek, nacida hacia los Libros II–III; viticultora en Ridge (DISEÑO), conoció a Corrado como "el señor Gabe". Corrado se acercó por la tensión de Dario alrededor de Chiara (I–III) y por la deuda con Trix (operó a Chiara en el Cap. 9). Interés amoroso de Michael en el VI. Ficha con apariencia: [[02_Characters/Iris_Harlow|Iris]].
+- **Manfred nunca se va:** se esfuma en prosa, pero vive siempre en San Aurelio; Corrado sigue muerto para el mundo y lo entierran como Manfred Gabe. **Huellas en los Libros II–III:** rastros civiles que, en el cuadro grande, favorecen a Kal o a Chiara. Se matizaron dos reglas duras de Corrado (no insinuar supervivencia; no proteger cada paso): siguen prohibidas las pistas, se permiten las huellas indirectas sin que le vean la cara.
+- **Abierto:** si Michael se queda en San Aurelio (supersedería "temporal" y "regresa a Italia"); registro de huellas en los Book Maps II–III.
+- Tocados: Iris (nueva), Corrado, Trix, Michael, incubadora Manfred Gabe, Book Maps II y III, INDEX.
+
+## Adenda 3 — Michael se queda; Vivian fuera de San Aurelio (CANON DEL AUTOR)
+
+- **Michael se queda en San Aurelio por Iris y pierde la silla** (supersede "temporal" y el regreso a Italia). Historia civil en el VI y el VII; no invade la línea policial de Elenna. PENDIENTE: cuándo y cómo pierde la silla, quién la ocupa, qué conserva, Livia.
+- **Vivian cría a Dylan fuera de San Aurelio:** el niño pasa en la mansión solo el día del Cap. 29, mientras se prepara su extracción; la carrera de streamer de Vivian le da cobertura; lo deja con una cuidadora en otra ciudad y después se muda con él. Iris (nacida después) nunca lo conoció. PENDIENTE: ciudad, muerte de Vivian, llegada de Ethan a San Aurelio.
+- Tocados: Michael, Iris, Elenna, Vivian, Caso Vera (incubadora), Book Maps VI y VII, timelines VI y VII, INDEX.
+
+## Adenda 4 — Ridge y el Monarch (CANON DEL AUTOR)
+
+- Al cierre del VI, Michael nombra a Iris administradora de Bellandi Ridge y toma el Monarch como director general de ambos. En el VI la relación profesional crece hacia algo más que amistad, sin empezar; en el VII empieza la relación.
+- Tocados: Michael, Iris, Bellandi Ridge, Book Maps y timelines VI y VII.
+
+## Adenda 5
+
+- Iris descubre en el VII que Manfred era Corrado y que Michael es el Ardizzone. Apellido: **Harlow**; padre, Dr. Sean Harlow, médico del Santa Aurelia. Ficha renombrada a [[02_Characters/Iris_Harlow]] (enlaces actualizados).

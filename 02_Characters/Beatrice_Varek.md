@@ -30,6 +30,6 @@ Representa la medicina institucional y puede atender a Chiara en el atentado fut
 
 > No afecta su arco durante la trilogía. Pertenece a la saga post-trilogía (*Juramento de Hierro* / *Camino a Casa*), todavía en incubadora — ver [[07_Ideas/Libro_04_Incubadora/README]].
 
-Beatrice **no vuelve a aparecer** en la historia para la época del Libro 4/5: vive lejos, fuera de San Aurelio. No participa en la reconstrucción del caso de Ethan Cole ni en el destino de [[02_Characters/Lucia_Varek|Lucia]] tras la muerte de [[02_Characters/Vivian_Varek|Vivian]].
+Beatrice **no vuelve a aparecer** en la historia para la época del Libro 4/5: vive lejos, fuera de San Aurelio. **Hija (CANON DEL AUTOR, 2026-10-04):** [[02_Characters/Iris_Harlow|Iris]], nacida hacia los Libros II–III, hija del Dr. Sean Harlow (médico del Santa Aurelia), que se queda en San Aurelio y trabaja en Bellandi Ridge con "el señor Gabe" (Corrado). Corrado le debe a Trix la vida de Chiara. No participa en la reconstrucción del caso de Ethan Cole ni en el destino de [[02_Characters/Lucia_Varek|Lucia]] tras la muerte de [[02_Characters/Vivian_Varek|Vivian]].
 
 Ver también [[02_Characters/Dario_Varek]] y [[05_Locations/Hospital_Santa_Aurelia]].

@@ -50,6 +50,8 @@ El "voto" no es el sacrificio de Elenna. Es el sacrificio de la vida cotidiana c
 | **Kal** | `proteger → decidir por otros → descubrir el límite del control` | Elenna, H22, Héctor y Santa Lucía | **No puedo salvarlos a todos sosteniéndolos.** |
 | **Chiara** | `temer que todo lo amado desaparezca → elegir una ausencia para salvar → sobrevivir al precio` | Debe hacer desaparecer públicamente a Elenna y vivir lejos de ella | **A veces amar exige aceptar una ausencia que ella misma provoca.** |
 
+> **Huellas de Manfred (CANON DEL AUTOR, 2026-10-04):** Corrado, como Manfred Gabe, deja en este libro pocos rastros civiles que, en el cuadro grande, inclinan un resultado hacia Kal o Chiara. Nunca le ven la cara; nunca funcionan como pista de que vive. Reglas en [[02_Characters/Corrado_Ardizzone]], "La verdad". Registro de huellas: PENDIENTE.
+
 ## Estructura macro
 
 ### Apertura — Capítulo 1, flashforward incompleto

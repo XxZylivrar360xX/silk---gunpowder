@@ -31,6 +31,7 @@
 - Elenna y Erin separadas tras la confesión de la presa.
 - La noche Marsh sigue sin explicar.
 - Kal y Chiara ausentes físicamente desde el inicio de la academia (dos libros).
+- **Michael se quedó en San Aurelio** por [[02_Characters/Iris_Harlow|Iris]] (CANON DEL AUTOR, 2026-10-04). Iris administra Ridge y Michael dirige ambos como director general; **en este libro empieza su relación**. Historia civil, paralela; no invade la investigación de Elenna. DISEÑO: el regreso físico de Kal y Chiara los pone frente a su hijo sin silla y frente a la hija de Trix.
 
 ## Estructura macro (CANON DEL AUTOR salvo donde se indica)
 
