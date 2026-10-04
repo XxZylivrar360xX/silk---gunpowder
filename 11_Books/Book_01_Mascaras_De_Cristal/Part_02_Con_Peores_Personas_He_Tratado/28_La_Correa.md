@@ -278,7 +278,7 @@ Kal abrió la boca y la cerró. Algo le cruzó la cara, rápido, que Chiara cono
 
 —Da igual eso ahora mismo —dijo al fin.
 
-—Ya lo sé. —Chiara se pasó las manos por la cara, despacio—. Voy a tomar mis cosas y me voy a ir.
+—Ya lo sé. —Chiara pasó el pulgar por el filo de las uñas, una por una, despacio—. Voy a tomar mis cosas y me voy a ir.
 
 —Eso es justo lo de hoy. Intento decirte que hay algo más importante y tú…
 

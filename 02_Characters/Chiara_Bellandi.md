@@ -41,6 +41,8 @@ En su llegada a San Aurelio viste **blusa roja sin mangas, pantalón de vestir n
 
 El único tic que no controla: cuando algo la sorprende de verdad, se toca el anular izquierdo. **Ahí llevó un anillo de matrimonio.** Ya no está, y la mano no lo ha aceptado.
 
+**Uñas y joyas — CANON DEL AUTOR (2026-10-04):** Chiara jamás anda por la vida sin las uñas arregladas (postizas), ni en sudadera ni en crisis. Cuando algo la alcanza, juega con las joyas que lleve puestas (gira un anillo, enrosca un collar, mueve las pulseras, ajusta un arete que no se mueve); si no trae joyas, con las uñas. Nunca se pasa la mano por la cara: ese gesto es de Kal. Uso en diálogo: [[12_Craft_Policies/voice/Chiara_Bellandi]].
+
 **Herencia física — DISEÑO (fijada 2026-09-18):** el cabello negro azabache, la estructura facial más afilada y la mandíbula marcada vienen de [[02_Characters/Corrado_Ardizzone]]; los ojos almendrados con matices verdes/oliva, las cejas expresivas, la forma de la boca, los labios llenos y el lunar junto al labio vienen de [[02_Characters/Marta_Bellandi]]. Formulación de síntesis: Chiara tiene el rostro emocional de Marta y la presencia oscura de Corrado.
 
 **Canon menor (2026-08-27):** es **alérgica a la mostaza** desde niña — le cierra la garganta. Lo mencionó una vez, de pasada, a [[02_Characters/Mabel_Ortiz]]. En el Capítulo 6, el primer plato que Kal le lleva es una torta de La Esquina de Mabel **hecha sin mostaza a propósito**: él retuvo el dato sin que ella se lo dijera. Uso narrativo: es de las primeras señales de que Kal pone atención en lo pequeño.

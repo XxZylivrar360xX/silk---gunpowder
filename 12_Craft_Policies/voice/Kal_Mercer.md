@@ -46,7 +46,7 @@ Trabaja mientras habla: limpia una pieza, revisa una factura, abre una puerta, s
 
 ## Registro emocional (piloto 2026-10-04)
 
-> DISEÑO del agente sobre lineas del libro; pendiente de validacion del autor. Las anclas citan capitulos BORRADOR o TERMINADO; "sin ancla" = propuesta a discutir, no regla. Si funciona, se replica en el resto del reparto.
+> DISEÑO del agente sobre lineas del libro; **aprobado por el autor como piloto (2026-10-04)**: se usa como vara de escritura y se sigue ajustando con prosa real. Las anclas citan capitulos BORRADOR o TERMINADO; "sin ancla" = propuesta a discutir, no regla. Si funciona, se replica en el resto del reparto.
 
 **Principio:** Kal siente con las manos y con logistica; la palabra llega al final o no llega. A mas emocion, menos palabras y mas accion practica. Unica excepcion: el desarme (Cap. 25), cuando alguien lo sostiene y habla en bloques largos, "como se dicen las cosas que ya se dijeron muchas veces por dentro".
 
@@ -77,7 +77,7 @@ Trabaja mientras habla: limpia una pieza, revisa una factura, abre una puerta, s
 ### Contraste con Chiara (no compartir fuga)
 
 - **"No se":** el de Kal *cierra* (muro: "No se." a Nadir). El de Chiara *se rompe* y sigue hablando. No invertirlos.
-- **Mano por la cara:** hoy la comparten (Kal 25 y 28; Chiara 28, "se paso las manos por la cara"). Propuesta: reservarla a Kal; Chiara usa el pelo, el anular o los brazos cruzados. Revisar en cirugia, no editar ahora.
+- **Mano por la cara (CANON DEL AUTOR, 2026-10-04):** gesto exclusivo de Kal. Chiara nunca se pasa la mano por la cara; su gesto equivalente es jugar con las joyas que lleve puestas (ver ficha de Chiara). La coincidencia del Cap. 28 ya se corrigio (28:281, uñas).
 - **Humor:** el de Kal es seco y de cara seria; el de ella, burla con italiano. Si los dos rematan igual, uno sobra.
 
 ### Evolucion en el Libro I

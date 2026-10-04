@@ -36,6 +36,7 @@ Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Todo 
 ## Continuidad y edición
 
 - **Portada y Nota Editorial:** portada ≥1600×2560 si va a KDP; título en `00_Nota_Editorial.md`.
+- **Gesto de manos (CANON 2026-10-04):** la mano por la cara es solo de Kal; Chiara juega con sus joyas o, sin ellas, con sus uñas postizas (siempre arregladas). 28:281 ya corregido; revisar otros capítulos al pasar por ellos.
 - **Mesa tres del Cap. 12 = Nereo Volpi** (DISEÑO del autor): pago retroactivo sin capítulo; no mezclar con el hombre del Peugeot ([[02_Characters/Nereo_Volpi]]).
 - **Sembrar *El Faro*** ([[03_Factions/El_Faro]]) antes de que Chiara lo tome; no confundir con *El Farol* (11).
 - **H15 y Anya:** revisar H15 junto con F4.

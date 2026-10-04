@@ -52,11 +52,13 @@ No confiesa vulnerabilidad para informar. No explica a Alessio ni a su padre si 
 
 Administra manos, bolso, cigarro, copa o telefono. Si se toca el anular izquierdo, algo la alcanzo antes de que pudiera acomodarlo.
 
-*(Cap. 28)* Sin sus objetos de administracion, las manos la delatan: se quita la capucha y "no supo que hacer con las manos despues"; se cruza de brazos dentro de mangas que le sobran; se pasa las manos por la cara. Mide la distancia por pasos ("se acerco un paso, el primero"). Mira el lugar del recuerdo en vez de a la persona (la escalera del mezzanine). Sostiene la mirada y levanta la barbilla cuando planta postura.
+**Gesto de las joyas (CANON DEL AUTOR, 2026-10-04):** cuando algo la alcanza, Chiara juega con las joyas que lleve puestas: gira un anillo, enrosca un collar, mueve las pulseras, ajusta un arete que no se mueve. Es su equivalente a la mano por la cara de Kal, que ella nunca usa. Solo con joyas que lleve en la escena. Sin joyas, juega con las uñas postizas (las repasa con el pulgar, las golpea contra algo, se revisa una): **Chiara Bellandi jamás anda sin las uñas arregladas, ni en sudadera ni en crisis** (CANON DEL AUTOR, 2026-10-04).
+
+*(Cap. 28)* Sin sus objetos de administracion, las manos la delatan: se quita la capucha y "no supo que hacer con las manos despues"; se cruza de brazos dentro de mangas que le sobran. Repasa con el pulgar el filo de las uñas, una por una, antes de anunciar que se va (corregido 2026-10-04: antes se pasaba las manos por la cara). Mide la distancia por pasos ("se acerco un paso, el primero"). Mira el lugar del recuerdo en vez de a la persona (la escalera del mezzanine). Sostiene la mirada y levanta la barbilla cuando planta postura.
 
 ## Registro emocional (piloto 2026-10-04)
 
-> DISEÑO del agente sobre lineas del libro; pendiente de validacion del autor. Las anclas citan capitulos BORRADOR o TERMINADO; "sin ancla" = propuesta a discutir, no regla. Si funciona, se replica en el resto del reparto.
+> DISEÑO del agente sobre lineas del libro; **aprobado por el autor como piloto (2026-10-04)**: se usa como vara de escritura y se sigue ajustando con prosa real. Las anclas citan capitulos BORRADOR o TERMINADO; "sin ancla" = propuesta a discutir, no regla. Si funciona, se replica en el resto del reparto.
 
 **Principio:** Chiara convierte la emocion en informe, cifra o version. Cuanto mas siente, mas precisa intenta ser, y lo que se nota es la grieta: el italiano, la mano, la frase que se rompe y se rehace.
 
@@ -87,7 +89,7 @@ Administra manos, bolso, cigarro, copa o telefono. Si se toca el anular izquierd
 ### Contraste con Kal (no compartir fuga)
 
 - **"No se":** el de ella *se rompe* y sigue hablando ("No se. Por eso no voy a aportar mas"); el de Kal *cierra*.
-- **Mano por la cara:** hoy compartida en el 28. Propuesta: reservarla a Kal; Chiara usa el pelo, el anular o los brazos cruzados.
+- **Mano por la cara (CANON DEL AUTOR, 2026-10-04):** solo Kal. El de Chiara es jugar con sus joyas: girar un anillo, enroscar un collar, mover pulseras, ajustar un arete que no se mueve. Sin joyas, las uñas postizas.
 - **Confesion:** Kal confiesa al objeto o a un tercero (24b); Chiara confiesa a la persona, como dato, y sigue antes de que el otro pueda hacer algo con eso.
 
 ### Evolucion en el Libro I
