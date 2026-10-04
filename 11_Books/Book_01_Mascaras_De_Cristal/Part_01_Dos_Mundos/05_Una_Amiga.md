@@ -11,6 +11,8 @@ Llegada a la cena (2026-09-30, idea del autor; prosa DISENO, pendiente de lectur
 Il Gelsomino (2026-10-01, idea del autor; prosa DISENO, pendiente de lectura): temporada de Halloween (canon del autor; fija la primera cena a fines de octubre). Calabazas talladas, telaranas en la buganvilia, esqueleto con delantal y bigote; Chiara: "¿Un restaurante italiano que celebra Halloween?" y la linea de los muertos de Palermo el 2 de noviembre (DISENO). Enzo se hace el mesero de alcurnia (voz fingida, servilleta al brazo) para ayudar a Kal a aparentar: "¿Quiere que le ofrezca vino, senor?" / "No. Solo trae agua." / "¿...el agua de manantial que viene de los arcos de Italia?" / "Si. Esa agua esta bien." (canon del autor). Especialidad: pizza de calabaza de Halloween, no de la verde (canon del autor); la piden pasta, Claudio la manda igual ("Sabe a octubre"). Chiste recurrente: se cobra en el Cap. 6. El vino del resumen paso a la escena de Enzo.
 Cirugia editorial 2026-10-01 (autorizada por el autor; AUDIT previo en sesion): fuera dos prolepsis de narrador en la llegada ("lo primero que Kal le admiro esa noche"; "su primera forma de pagarle bien", que ademas saltaba al POV de Chiara); gesto de la copa en la cena reducido de siete a tres; tic de taparse la boca reducido (nudillo y copa fuera; quedan vaso de la maquina de cafe y servilleta con Enzo); POV de Enzo convertido en inferencia de Kal; glosas fuera ("Sabia que faltaba algo", "Chiara entendio que ese era el precio", "supo en cuanto lo dijo... barrio"); un simil y un objeto-que-responde (esqueleto) fuera; "termino Chiara" -> "dijo Chiara". Bit nuevo al pagar (canon del autor): Enzo "Que bonita pareja hacen los dos"; silencio y miradas fijas; "Perdone por eso"; "¿Cuanto les pago?"; Rocco ladra dos veces; "No digas que si"; Chiara se rie sin taparse la boca.
 Siembra empresa de seguridad (2026-10-01, canon del autor): tras lo de Hoover, Kal enumera sus negocios (lote, taller, gruas) y menciona que piensa abrir una empresa de seguridad legitima; le ofrece seguridad al casino si la concreta. Nace el chiste recurrente de los negocios: "Siempre con los negocios bajo la manga, ¿eh? No pierde un momento" / "Soy culpable por quitarle un poco de trabajo de encima" / "Yo creo que hasta deberia estar agradecida" (eco de "plan maestro bajo la manga" de la reunion). Sin canon previo sobre la empresa de seguridad: PENDIENTE nombre, cuando se concreta y relacion con El Patio.
+Dialogo K/C, llamada de la manana reescrita (2026-10-03, direccion del autor: ella quiere a alguien para lo que no se atiende legalmente --fichas, palizas, cobros, aliados en la calle; precedente de i Sussurri--; el quiere participacion legitima en el casino, lugar en la mesa, prestigio de ciudad). DISENO del agente, BORRADOR pendiente de lectura; ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I.md §7. Fuera: 'No me agradezca pagar una factura', 'Inventario', 'No trabajo bien en general', las cuatro condiciones de Varga, 'Quiere que lo revise / Quiere. No necesita', 'Mandeme una propuesta / No', 'La deja con un telefono', el parrafo de la costumbre como deuda. Entran: el Mercedes en el corralon como tercero (Varga paga piso a las diez), la frase que ella no puede terminar por telefono (replica perdida), 'Me refiero a otra cosa / Ya se', 'lo que yo hago para su casino lleva mi nombre en el membrete' (deseo de el). Se conserva Dario/'el problema no es Varga' y el beat de la gota. '¿Quienes? / Yo.' adquiere lectura nueva: el pregunta por la mesa.
+Dialogo K/C, resto del capitulo (2026-10-04, misma direccion del autor; DISENO, BORRADOR pendiente de lectura). Reunion: 'Lo que no hago es mancharme...' -> 'Lo que no me gusta es entrar siempre por la puerta de carga' (sin replica). Salida de carga: ella pide que el hombre del puerto no vuelva; '¿Eso quien lo pide? / Yo. / ¿Y la mesa?' sin respuesta; la rueda queda ('Ese si se lo puedo facturar' dispara la risa); 'pidamelo el dia que pueda decir que me lo pidio'; 'No es suyo' ahora pega en la mesa. Fuera: 'Le respondi a el', 'Entonces no acepte', 'Casi nada que sirve lo es', 'Solo cuando me pagan / hoy le salio gratis'. Bisagra: 'una bisagra y no una alfombra' -> 'A mi nadie me pregunto por la alfombra'. Maquina de cafe: fuera 'contabilidad distinta / salva barrios'; entra el sobre sin factura que el no toma ('Si lo agarro, ya no soy proveedor... no entra por el lobby'). Il Gelsomino: fuera 'mal diseno estructural', 'piezas/versiones/Touche', 'Por delicadeza / Por supervivencia'; entran Dario ('Esto no lo firmo nadie / Entonces no') y Palermo concreto (mercado, lotes los sabados, 'Algun sabado, entonces').
 Lugares: The Monarch Casino & Hotel, La Almendra, centro de San Aurelio, Il Gelsomino.
 Funcion: convertir el favor en cadena, mostrar a Kal como telefono recurrente y a Chiara aprendiendo a dirigir informacion; ejecutar H2-a, la primera cena que ninguno llama cita.
 Nota de fusion (2026-09-10, BLOQUE 2 de PLAN_CIRUGIA_EDITORIAL_PARTE_I): capitulo resultante de fusionar los antiguos Capitulo 5 (La casa no quiere ruido) y Capitulo 6 (Una amiga). El titulo visible pasa a ser "Una amiga"; el archivo (antes 05_La_Casa_No_Quiere_Ruido.md) se normalizo a 05_Una_Amiga.md el 2026-09-29, con enlaces vivos actualizados. El antiguo stub Nota_Una_Amiga_Fusionada.md se retiro el 2026-09-29, tras el renombrado. La renumeracion global posterior ya fue completada en cascada.
@@ -96,51 +98,59 @@ Eso la irritó un poco menos de lo que la tranquilizó.
 
 Le transfirió el pago desde una cuenta operativa menor del Monarch y guardó el archivo en una carpeta que no se llamaba Mercer. Después se quedó mirando la pantalla.
 
-Chiara odiaba las deudas que no sabían ponerse un número.
+La factura decía todo lo que había pasado en la rampa salvo lo único que a ella le interesaba.
 
 Marcó.
 
 —Mercer.
 
+Del otro lado sonaba un compresor y alguien gritaba un número de placa.
+
 —La factura está pagada.
 
-—Buenos días.
-
-Ella miró el café.
+—Ya llegó. —El compresor se apagó—. Buenos días.
 
 —Buenos días.
 
-—Gracias.
-
-—No me agradezca pagar una factura.
-
-—Entonces gracias por llamar para decirlo.
-
-Chiara se quedó callada medio segundo. Él no llenó el silencio. Eso era raro en hombres que querían vender algo.
+Chiara miró el café. Había llamado para decir una cosa y ya la había dicho.
 
 —Varga no volvió.
 
-—Va a volver.
+—Al casino no. Al corralón sí. Hoy a las diez, por el Mercedes.
 
-—¿Eso es advertencia o pronóstico?
+Ella no había pensado en el coche. Seguía siendo de Varga, en un patio de Kal, con la tarifa corriendo.
 
-—Inventario.
+—¿Y qué va a pasar?
+
+—Paga el arrastre, paga dos días de piso, firma y se lo lleva.
+
+—¿Nada más?
+
+—Es un corralón.
 
 Ella caminó hacia la ventana. Abajo, la ciudad todavía estaba fingiendo normalidad alrededor de la muerte de Keene. Plaza Corona seguía en todos los noticieros. En el Monarch, en cambio, la gente hablaba de alfombras, listas de invitados y reservas de hotel como si el jefe de policía no hubiera amanecido con tres tiros en una banca.
 
-—¿Qué haría usted si vuelve?
+—Lo que quiero decir es que…
 
-—Depende de por dónde intente entrar.
+No encontró cómo terminar la frase de una forma que se pudiera decir por teléfono a las ocho y media de la mañana.
 
-—Responda en general.
+Kal esperó. No la ayudó.
 
-—No trabajo bien en general.
+—Quiero que no vuelva.
 
-Chiara sonrió sin querer.
+—Va a pagar el piso completo. Sin descuento.
 
-—Ya me di cuenta.
+—Me refiero a otra cosa.
 
-—Si vuelve como cliente, lo deja entrar una persona que quiera tener un problema. Si vuelve como amenaza, se le quita público. Si vuelve con abogado, se le contesta con papel. Si vuelve con amigos, entonces no era un cliente.
+—Ya sé.
+
+El compresor volvió a arrancar del otro lado, y alguien le gritó a alguien que lo apagara.
+
+—¿Y?
+
+—Y lo que yo hago para su casino lleva mi nombre en el membrete, señora Bellandi.
+
+Una gota del cabello le cayó en la muñeca. Se la secó contra la bata.
 
 —¿Y si vuelve con Dario?
 
@@ -152,49 +162,13 @@ Chiara miró la ciudad por el vidrio.
 
 —No.
 
-—Señora Bellandi.
-
-—Sí.
-
-—¿Quiere que lo revise?
-
-Quiere. No necesita. No le pidió una orden ni le ofreció rescatar nada.
-
-—¿Cuánto cobra?
-
-—Por revisar, nada.
-
-—Señor Mercer.
-
-—Por resolver, depende de lo que encuentre.
-
-Chiara volvió al escritorio y pasó el cursor sobre la tarifa nocturna del PDF.
-
-—Mándeme una propuesta.
+—¿Algo más?
 
 —No.
 
-—¿Perdón?
+—Que tenga buen día.
 
-—Si le mando una propuesta, alguien puede leerla. Si quiere que no parezca problema del casino, no lo convierta en contrato del casino.
-
-Chiara cerró el PDF. En la carpeta que no se llamaba Mercer quedó un solo archivo.
-
-—Entonces, ¿qué sugiere?
-
-—Que me llame si Varga vuelve.
-
-Una gota del cabello le cayó en la muñeca. Se la secó contra la bata.
-
-—Eso me deja dependiendo de usted.
-
-—No. La deja con un teléfono.
-
-Colgó antes que ella pudiera decidir si eso era insolente.
-
-Chiara bajó el teléfono.
-
-Un teléfono no tenía precio. Tenía costumbre, y la costumbre era la forma más cara de deber algo.
+Colgó él. Chiara se quedó con el teléfono en la mano y el PDF abierto en la pantalla, impecable, aburrido, con su membrete azul. Volvió a leer el nombre de arriba: Almendra Towing. Un hombre que firmaba así no se ofrecía por teléfono. Se cotizaba en persona.
 
 Escribió:
 
@@ -362,7 +336,7 @@ Kal se miró las manos. Esa noche no tenían grasa; alguien las había tallado c
 
 —No hablo de aceite.
 
-—Yo tampoco. —Volvió a mirarla—. Lo que no hago es mancharme por alguien que luego no quiere que se le vean las mías.
+—Yo tampoco. —Volvió a mirarla—. Lo que no me gusta es entrar siempre por la puerta de carga.
 
 —Prestación de servicios —dijo Chiara—. Por acto. Por debajo de cierta cifra firmo yo sola, y nadie lee lo que firmo sola si es aburrido. Su nombre en mi factura. El mío debajo.
 
@@ -466,23 +440,23 @@ Kal cerró el cofre del coche.
 
 —Que la batería no era el problema.
 
-—Eso no responde.
+—¿Nada más?
 
-—Le respondí a él.
+—Se fue con eso.
 
-Ella cruzó los brazos.
+—Esta vez. —Ella cruzó los brazos—. El mes que entra va a estar otra vez en la lista, con otro nombre. Quiero que no vuelva.
 
-—Me incomoda no saber qué estoy aceptando.
+Kal tardó en guardar el trapo.
 
-Kal la miró.
+—¿Eso quién lo pide?
 
-—Entonces no acepte.
+—Yo.
 
-La respuesta la alcanzó mal. No porque fuera dura, sino porque le devolvía la decisión completa.
+—¿Y la mesa?
 
-—Usted sabe que no es tan simple.
+Chiara no contestó.
 
-—Casi nada que sirve lo es.
+Kal asintió, como si eso también fuera una respuesta.
 
 Un carrito de lavandería pasó detrás de ellos con una rueda chillando. Kal lo siguió con la mirada.
 
@@ -492,29 +466,27 @@ Chiara cerró los ojos.
 
 —Por favor, no me dé otro problema.
 
-—Ya lo tenía. Yo solo lo señalé.
-
-Quiso reírse. No lo hizo.
-
-—¿Siempre hace eso?
-
-—¿Qué?
-
-—Volver imposible no ver algo.
-
-Kal pensó la respuesta.
-
-—Sólo cuando me pagan.
-
-—No le estoy pagando por eso.
-
-—Entonces hoy le salió gratis.
+—Ése sí se lo puedo facturar.
 
 Esta vez sí se rió.
 
 Fue breve. Suficiente para que él la mirara como si acabara de oír una herramienta funcionar con un sonido que no esperaba.
 
 Chiara recuperó la cara antes de que el gesto se volviera demasiado privado.
+
+—Lo del puerto no se lo estoy pidiendo por factura.
+
+—Ya sé.
+
+—¿Entonces?
+
+Kal miró el carrito hasta que dio vuelta al final del pasillo.
+
+—Entonces pídamelo el día que pueda decir que me lo pidió.
+
+—Usted sabe que no es tan simple.
+
+Él no le contestó eso.
 
 —Tengo que volver arriba.
 
@@ -570,7 +542,7 @@ Chiara la dejó sobre el escritorio con más cuidado del que pensaba tener.
 
 —¿Sabe cuánto costó la alfombra del piso de juego?
 
-—Sí. Por eso le traje una bisagra y no una alfombra.
+—Sí. —Terminó de acomodarse la chaqueta—. A mí nadie me preguntó por la alfombra.
 
 Cuando se fue, ella se quedó un rato con el trapo vacío en la mano. La pieza podía justificarse en una hoja de mantenimiento sin que a nadie se le moviera una ceja, y ése era exactamente el problema.
 
@@ -578,33 +550,31 @@ Chiara intentó pagar cada cosa.
 
 Él aceptó cuando había factura.
 
-No aceptó cuando no había concepto.
+No aceptó cuando ella quiso pagar sin ella.
 
-—Tiene que cobrar —dijo ella una noche, junto a la máquina de café del área administrativa.
+—Tiene que cobrar —dijo ella una noche, junto a la máquina de café del área administrativa. Entre los dos, sobre la mesa, había un sobre que llevaba cinco minutos ahí.
 
-—Cobré.
+—Cobré lo del hielo.
 
-—No todo.
+—Lo del hombre del puerto.
 
-—¿Eso lo decide usted?
+—Eso fue una batería.
 
-—Cuando yo soy la que queda debiendo, sí.
+—Señor Mercer.
 
-Kal sostuvo el vaso de café con las dos manos, no por frío sino por tener algo que hacer.
+Kal sostuvo el vaso de café con las dos manos, no por frío sino por tener algo que hacer. No miró el sobre.
 
-—No me debe nada.
+—Si lo agarro, ya no soy proveedor.
 
-—Eso es mentira.
+—¿Y qué es?
 
-—No. Es contabilidad distinta.
+Lo pensó.
 
-—La contabilidad distinta es la que arruina negocios.
-
-—También salva barrios.
-
-La frase no sonó como lema. Sonó como cansancio.
+—No sé cómo se llama. Pero no entra por el lobby.
 
 Chiara lo miró mejor. Tenía grasa en la orilla de una uña, una marca roja en el cuello donde el uniforme de trabajo le había rozado y el pelo más desordenado que la noche del traje. En el Monarch, aun vestido de taller, parecía menos fuera de lugar que muchos hombres de traje. No porque perteneciera. Porque no intentaba convencer al edificio.
+
+Chiara guardó el sobre en la carpeta.
 
 —¿Cómo está Walt? —preguntó ella.
 
@@ -1266,29 +1236,15 @@ No hablaron de Alessio.
 
 No hablaron de Keene.
 
-No hablaron de Dario, salvo cuando Chiara dijo:
+No hablaron de Dario, salvo cuando Kal preguntó, mirando el pan:
 
-—Su nombre pesa incluso cuando no está.
+—¿Él sabe que está aquí?
 
-Kal cortó un pedazo de pan.
+—Él sabe todo lo que firma la mesa.
 
-—Eso es mal diseño estructural.
+—Esto no lo firmó nadie.
 
-—¿De poder?
-
-—De edificio. Si una columna falta y todo se inclina, alguien construyó mal.
-
-Chiara lo miró con una atención que ya no intentaba disimular del todo.
-
-—Usted habla de personas como si fueran piezas.
-
-—Usted habla de piezas como si fueran versiones.
-
-—Touché.
-
-—¿Eso cuenta como italiano?
-
-—Francés.
+Chiara tardó en contestar.
 
 —Entonces no.
 
@@ -1306,25 +1262,19 @@ Ella no contestó de inmediato.
 
 —No todo.
 
-—Eso suena honesto.
+Kal no preguntó qué parte.
 
-—Lo fue.
+—El mercado de la mañana —dijo ella de todos modos—. Los gritos. Aquí todo el mundo vende en voz baja.
 
-—Entonces no pregunto qué parte.
+—En los lotes se grita.
 
-Chiara volvió a mirarlo.
+—¿En el suyo?
 
-—¿Por delicadeza?
+—Los sábados.
 
-—Por supervivencia.
+—Algún sábado, entonces.
 
-Ella sonrió apenas.
-
-—Sí extraña algo, entonces.
-
-Kal dobló la servilleta.
-
-—No todo.
+Kal dobló la servilleta y no dijo que no.
 
 Enzo trajo la cuenta en una carpeta de cuero, con la servilleta todavía en el antebrazo y la voz todavía prestada. La dejó en medio de la mesa, a la misma distancia de los dos, y no se fue.
 

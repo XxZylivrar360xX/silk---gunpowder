@@ -37,6 +37,7 @@ RECONSTRUCCIÓN 2026-10-01 (Claude Code, CANON DEL AUTOR — SUPERSEDE las notas
 - VEHÍCULOS (CANON 2026-10-01): Kal llega y se va en el AUDI. Chiara usó el PEUGEOT de Kal, con vinil gris y placas falsas, para el reconocimiento (guiño al Peugeot rojo de Auster); el Lancia ya lo conoce Varek. Chiara sale tras él en el Lancia. Cascada: 29 y 30 pasan a Audi.
 - CANON (2026-10-01, autor): a "si yo no estoy aquí, no puedo protegerte" Chiara responde con un desliz, "Cielo, no hace falta"; Kal alza la voz: "No. Sí hace falta." (sustituye a "No necesito que me protejas" / "Claro que lo necesitas").
 - CANON (2026-10-01, autor): "Me importas muchísimo" va justo después de "Entonces, ¿qué me estás diciendo, Chiara?" (antes iba tras "Pues parece que no").
+- CORRECCIÓN DE ATRIBUCIÓN (2026-10-03, autor): "Pues en ese momento lo pensé... no voy a ser ni un pensamiento en su cabeza... Fíjate que lo pensé y no te dije nada" es de CHIARA (como en la fuente), no de Kal.
 - CIERRE: tras la llamada, junto al Audi, Kal revisa la recámara y guarda la pistola atrás en la cintura; Chiara lo ve desde el balcón.
 - SEMBRADO 2026-10-01 en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24b_Lo_Que_Cueste]] (primera mitad, la que Kal oye: "Si un día me llega el agua al cuello, agarro mis cosas y me voy."). CANON DEL AUTOR (2026-10-01): Kal sólo oyó la primera mitad; aquí Chiara revela la segunda ("no sabía si contigo podría", redacción DISEÑO). Lo que sigue callando es POR QUÉ lo dijo esa noche (el pedido de Nadir); Kal no lo sabe en el Libro I. Nota previa: PENDIENTE DE SIEMBRA: la escalera ("hace días, en esta misma casa… el agua al cuello… fue cuando subiste la escalera"). Nace de un beat aparte del autor (Nadir le pide a Chiara que se aleje de Kal); no escribir hasta que el autor lo dicte.
 -->
@@ -357,11 +358,11 @@ Kal la miró un rato largo. En su cara pasó algo parecido a lo que pasa cuando 
 
 —Pues parece que no. Ojalá cambiara todo. —Kal se apoyó en la barra, al lado de las fotos—. Me lo dejaste claro, hace días. En esta misma casa. Que el día que tuvieras el agua al cuello, no tendrías problema en agarrar tus cosas y largarte.
 
-—Sí. —Chiara miró la escalera del mezzanine, sin querer—. Fue cuando ibas subiendo la escalera.
+—Sí. —Chiara miró la escalera del mezzanine, sin querer—. Fue cuando ibas subiendo la escalera. Pues en ese momento lo pensé. Dije: no voy a ser ni un pensamiento en su cabeza. —Se encogió de hombros dentro de la sudadera—. Fíjate que lo pensé y no te dije nada.
 
-—Pues en ese momento lo pensé. Dije: no voy a ser ni un pensamiento en su cabeza. —Se encogió de hombros, y el costado se lo cobró—. Fíjate que lo pensé y no te dije nada.
+Kal no dijo nada. Chiara no apartó los ojos de la escalera.
 
-—Escuchaste la mitad. —Chiara no apartó los ojos de la escalera—. Ibas subiendo. Lo que dije después fue que no sabía si contigo podría. —Tragó—. Y lo cierto es que desde que lo dije no he pensado en nada más.
+—Escuchaste la mitad. Ibas subiendo. Lo que dije después fue que no sabía si contigo podría. —Tragó—. Y lo cierto es que desde que lo dije no he pensado en nada más.
 
 —Entonces, ¿qué me estás diciendo, Chiara?
 

@@ -7,6 +7,7 @@ POV: Chiara completo (fijado 2026-09-29, decision del autor). El remolque se ve 
 Traslado (2026-09-29, decision del autor en la reapertura del Cap. 3): el bloque de Chiara que cerraba el Cap. 3 (titular de Keene, torneo de poker y roce con Tommaso, salida al centro, Blake y la invitacion a La Isla) abre ahora este capitulo, integro y sin pulir; el 3 queda en POV Kal y el POV compartido deliberado se reserva para el Cap. 5. Pendiente: pasada de pulido del bloque trasladado dentro de la economia del 4.
 Textura (2026-09-29, a pedido del autor): del telefono a Kal hasta el cierre se anadieron beats fisicos y de ambiente (sonido del otro lado de la llamada, trayecto por Terminal Road, trasera del Monarch, luces ambar de la grua, cabina, penthouse a oscuras con las torretas de Plaza Corona). Ningun dialogo se toco. DISENO del agente.
 Escalon relacional: Cap. 2 "quiza pueda obtener algo de el" -> Cap. 4 "lo llame y aparecio" (prueba practica no autorizada: "tenia razon sobre el") -> apertura del Cap. 5, reunion privada sin socios ("ya lo obtuve"; anadida 2026-09-29, autor) -> Cap. 5 "quiero seguir hablando aunque no necesite nada".
+Dialogo K/C reescrito (2026-10-03, direccion del autor: respeto; los dos quieren algo del otro sin saberlo del todo ni tener confianza para decirlo; el favor no le sirve a Chiara y la empuja a fijar terminos en el 5). DISENO del agente, BORRADOR pendiente de lectura; ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I.md §7. Llamada: fuera "Eso dice el letrero", "No pregunte donde esta usted" y "Un diagnostico"; entran "¿Lo desperte? / Ojala", "Su mesa me dijo que no", el malentendido "¿Y usted?" (ella contesta lugar; el pregunta quien llama), la respuesta que ella esquiva y que el no cobra. Ventanilla: fuera "Entretenimiento / Ensenable"; Kal se niega a facturar "lo demas" y le da "una que pueda ensenar"; lo otro queda fuera de la hoja. Cierre: "hizo una sola pregunta que importaba. Ella no la contesto. El no la repitio." El mensaje "La factura completa. Por favor." ahora reclama lo no facturado.
 Funcion: abrir el dia de Chiara (Keene como comunicado, Tommaso, Blake) y mostrar el primer favor bajo la mesa, el error funcional de Blake y la incomodidad de Chiara al aceptar ayuda de Kal.
 -->
 
@@ -456,13 +457,13 @@ Hubo una pausa mínima del otro lado. No sorpresa. Ajuste.
 
 —Señora Bellandi.
 
-—Necesito mover un coche.
+—¿Lo desperté?
 
-—Eso dice el letrero.
+—Ojalá.
 
 No quiso sonreír. Sonrió igual, apenas, y le dio la espalda al valet.
 
-—Y necesito que no parezca un problema del casino.
+—Necesito mover un coche. Y necesito que no parezca un problema del casino.
 
 La pausa siguiente fue más larga. Oyó abrirse una puerta de cabina, el cambio de aire en la línea, pasos sobre grava.
 
@@ -480,7 +481,35 @@ La pausa siguiente fue más larga. Oyó abrirse una puerta de cabina, el cambio 
 
 Creyó oírlo escribir: un roce corto, de pluma contra papel apoyado en algo duro.
 
+—Su mesa me dijo que no.
+
+No lo dijo con filo. Lo dijo como quien lee un dato de la hoja.
+
+Detrás de ella, la puerta del club se abrió y soltó un golpe de bajo antes de cerrarse.
+
+—Mi mesa no está en el estacionamiento.
+
+Era la frase de Matteo. Le molestó oírsela en la boca.
+
+—¿Y usted?
+
+—En La Isla. Salgo para allá en cuanto…
+
+—No le pregunté dónde está.
+
+Chiara se quedó quieta en la acera. En la pantalla, el taxi seguía sin confirmar, un punto gris esperando su dedo.
+
+—Le pregunté quién me llama.
+
+Tenía dos respuestas y ninguna servía para decirse en una acera, con un valet a tres metros.
+
+—Un cliente vetado le está gritando a dos guardias que no saben qué hacer con él —dijo—. Y la apertura privada es mañana.
+
+Del otro lado, nada. Después:
+
 —Matrícula.
+
+No insistió. Blake habría insistido; Blake no habría sabido dejar pasar una respuesta que no llegó.
 
 Chiara despegó el teléfono de la oreja, buscó el mensaje de Matteo con el pulgar y leyó letras y números despacio, en el inglés más plano que tenía.
 
@@ -488,35 +517,19 @@ Kal no pidió repetir nada.
 
 —Veinte minutos.
 
-—Estoy en La Isla.
-
-—No pregunté dónde está usted.
-
-Chiara se quedó quieta en la acera. En la pantalla, el taxi seguía sin confirmar, un punto gris esperando su dedo.
-
-No era grosería sino precisión: había separado el problema de ella con una limpieza que Blake no habría sabido imitar aunque le dieran instrucciones.
-
 —¿Cuánto cobra?
 
 —Luego vemos.
 
-—No.
-
-—Entonces no cuelgue.
-
-—Eso no es una tarifa.
-
-—Es una forma de no perder tiempo.
+—Luego no.
 
 Chiara oyó un portón metálico moverse del otro lado de la llamada.
 
-—No acepto favores sin precio.
+—Si cuelgo ahora, son veinte. Si seguimos, son treinta.
 
-—No le ofrecí un favor.
+—Eso no es una tarifa.
 
-—¿Entonces?
-
-—Un diagnóstico.
+—No —dijo él—. No es.
 
 Kal colgó.
 
@@ -682,23 +695,39 @@ Kal apoyó el antebrazo en la puerta, a un palmo de su mano. Las luces ámbar le
 
 —Tarifa de remolque. Nocturna. Más espera si el dueño sigue actuando.
 
-—Eso no cubre lo otro.
+—¿Y lo demás?
 
-—Lo otro fue entretenimiento.
+—¿Qué demás?
+
+—La mesera. Los guardias. Que Varga se va a ir a su casa sin un video que enseñar.
+
+Kal miró por encima de ella, hacia la puerta de carga, donde Matteo fingía revisar el teléfono.
+
+—Eso no es remolque.
+
+—Por eso pregunto.
+
+—Usted me pidió mover un coche.
+
+—Le pedí que no pareciera un problema del casino.
+
+—Y no parece.
 
 Ella sostuvo la mirada.
 
 —No me haga eso.
 
-Kal no fingió no entender.
+Kal no fingió no entender. Tampoco cedió.
 
 —Mañana le mando factura.
 
 —Completa.
 
-—Enseñable.
+Tardó en contestar. Una vuelta de las luces ámbar, otra.
 
-La palabra le quitó el enojo más rápido de lo que habría querido. Enseñable. Él había entendido cuál era el valor real.
+—Una que pueda enseñar.
+
+No era lo que había pedido. Era, lo supo con fastidio, lo que necesitaba: una hoja que pudiera dejar sobre la mesa de Matteo, de Tommaso, de Dario, sin explicar nada. Lo otro se quedaba fuera, y fuera de la hoja no tenía precio.
 
 —Gracias —dijo, y le costó.
 
@@ -722,9 +751,9 @@ Chiara miró hacia la salida de carga, donde las luces de la grúa se perdían e
 
 Matteo volvió adentro. Ella se quedó en la rampa un momento más. Los guardias recogían los conos. Uno empujaba con la punta del zapato un vaso que Varga había tirado. Del mar subía un viento húmedo que no tenía nada que ver con el aire del casino.
 
-La factura iba a llegar completa y enseñable, y ella la iba a pagar el mismo día. Eso era lo cómodo de un precio: se termina.
+La factura iba a llegar enseñable, y ella la iba a pagar el mismo día. Eso era lo cómodo de un precio: se termina.
 
-Lo que no iba a aparecer en ninguna hoja era que un hombre al que esa misma mesa había rechazado contestó al tercer tono, llegó en veinte minutos y no preguntó ni una vez por qué lo llamaba ella y no Matteo.
+Lo que no iba a aparecer en ninguna hoja era que un hombre al que esa misma mesa había rechazado contestó al tercer tono, llegó en veinte minutos e hizo una sola pregunta que importaba. Ella no la contestó. Él no la repitió.
 
 Ya en el penthouse, con los tacones en la mano y el abrigo todavía puesto, no encendió las luces. Por el ventanal, San Aurelio se veía entera y quieta: la costa iluminada, el puerto, y más adentro, donde terminaban los hoteles, las torretas que seguían girando alrededor de Plaza Corona.
 
