@@ -13,7 +13,7 @@
 - 4–5 capítulos después, Kal y Chiara se marchan del hangar; Elenna se queda en San Aurelio.
 - Dylan Marsh, ya detenido, pasa a ser testigo: Vera no fue la primera víctima de esa noche.
 - La pregunta cambia de quién mató a Vera a quién mató a los Marsh y por qué.
-- Se reconstruye el encubrimiento mediante testimonio, archivos, balística, Corrado, la isla y Nereo Volpi.
+- Se reconstruye el encubrimiento mediante testimonio, archivos, balística, Corrado, la isla y Nereo Volpi. **Corrado entra muerto, por su camper** de expedientes y diarios: de ahí Elenna saca las pistas hacia Volpi *(CANON DEL AUTOR 2026-10-04)*.
 - El antagonista histórico ligado a Nicholas ([[02_Characters/Blake_Stanton|Blake Stanton]]) cae por convergencia de evidencia.
 - Nicholas admite que su obsesión y la institución fallaron.
 - Elenna y Erin se reconcilian.

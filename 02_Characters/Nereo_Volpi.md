@@ -77,6 +77,7 @@ Durante el Libro I, por encargo de Dario y fuera de escena antes del amanecer de
 
 ## Reglas de escritura
 
+- **Cap. 9 (CANON DEL AUTOR, 2026-10-04):** él contrató al atacante del corral. Corrado lo descubre al interrogarlo, lo mata y lo desaparece. Para Nereo, el sicario se esfuma (PENDIENTE: si eso le confirma que Corrado vive). Ver [[07_Ideas/Corrado_Manfred_Gabe]].
 - No es un sicario teatral ni un jefe oculto de toda la trama.
 - No presume violencia: la violencia visible es un fallo de procedimiento, salvo que La Mesa quiera que alguien la vea.
 - No explica la decisión política; ésa no le pertenece.

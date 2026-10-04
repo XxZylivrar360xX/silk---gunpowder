@@ -7,6 +7,7 @@
 ## Acontecimientos
 
 - El libro abre con Halbrook ya muerto (ejecutado al cierre de *Voto de Ceniza*), Chiara en coma y Corrado frente a Kal. La crisis local se vuelve conflicto federal. La ciudad cree que el tirador fue Kal o Nadir; ellos lo permiten. *(Supersede "Kal ejecuta" y la apertura con la ejecución, canon del autor 2026-09-28.)*
+- Apertura: Corrado le cuenta a Kal su exilio como Manfred Gabe en San Aurelio, la amistad con Walt, las cartas, por qué La Mesa mandó a Chiara y lo que hizo en el Cap. 9. *(CANON DEL AUTOR 2026-10-04.)*
 - Meridian entra o escala como respuesta al asesinato público de Halbrook.
 - Kal y Chiara enfrentan el vacío de poder dejado por Dario y la presión de Il Consorzio.
 - La pareja construye reemplazos para que la ciudad no dependa de su presencia constante.

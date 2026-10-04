@@ -501,6 +501,8 @@ La noche en que todo cambia es **la única noche del libro en que no puede condu
 
 # H12 — El atentado / El corral
 
+> **VERDAD DEL AUTOR (2026-10-04) — NO ESCRIBIR EN PROSA ANTES DE LA CODA DE *VOTO DE CENIZA*:** quien llama a Kal desde el teléfono de Chiara es **Corrado** (Manfred Gabe, mozo de las caballerizas). Duerme al atacante, lo interroga (lo contrató Nereo Volpi), lo mata y lo desaparece con ayuda de Walt; el teléfono que falta lo tiene él. **Pago:** en el hospital, al final de *Voto de Ceniza*, Kal reconoce esa voz con *"¿Larga noche, señor Mercer?"*. La prosa del Cap. 9 no cambia: "¿Ella sale mucho los domingos?" funciona como pista cifrada. Ver [[02_Characters/Corrado_Ardizzone]] y [[07_Ideas/Corrado_Manfred_Gabe]].
+
 > **CANON DEL AUTOR (2026-08-27; delimitación revisada 2026-08-29).** Cae después de [[#H9 — La carrera de máscaras]] y antes de [[#H14 — El loft del soltero]]. **ESCRITO** en el Capítulo 9 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_El_Corral]]); el Capítulo 10 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]]) ejecuta el hito siguiente, ya separado. Es la **primera aparición en prosa de Il Consorzio**, aunque no se revela como tal en el momento del ataque — sólo se deduce después, ver [[#H13 — El pañuelo]].
 
 > **NUEVA DELIMITACIÓN CONCEPTUAL (2026-08-29).** H12 cubre **sólo**: el atentado, el hospital, la investigación inmediata, la salida, y que Chiara termine **refugiándose temporalmente** en [[05_Locations/Casa_Comunitaria_De_La_Almendra]]. La recompra y el diseño de la casa quedan como **hito propio siguiente** ([[#H14 — El loft del soltero]]).

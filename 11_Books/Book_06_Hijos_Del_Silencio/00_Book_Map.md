@@ -41,6 +41,7 @@ Es el libro donde la investigación contemporánea alcanza **resolución visible
 - **Salto de ~2–3 años entre el V y el VI** (CANON DEL AUTOR, 2026-10-03, por verosimilitud institucional). El VI la encuentra ya en **K9 con Rex**: entrar a K9 y recibir a Rex ocurre en este libro o en el salto, no en el V.
 - **Presa del Sur, dos registros en el mismo libro** (CANON DEL AUTOR, 2026-10-03): arriba, en el mirador, Erin confiesa y Elenna la pierde; abajo, en la instalación subterránea de desfogue, se enfrentan Ethan, Nicholas y Elenna en la captura. Ver [[05_Locations/Presa_Del_Sur]].
 - El lector puede reconocer conexiones con la era de Kal y Chiara que Elenna desconoce.
+- **Corrado, Walt y Michael (CANON DEL AUTOR, 2026-10-04):** Corrado muere de muerte natural en su casa de San Aurelio ("para volver con Marta"). Walt, que administraba el Monarch, se retira para pasar tiempo con Nat. [[02_Characters/Michael_Ardizzone]], hermano menor de Elenna, llega al funeral y se queda de forma temporal a sostener el Monarch y Bellandi Ridge; tiene conflicto con su prometida ("el deber siempre es primero") y regresa a Italia al final. Puede aparecer en una gala. No es protagonista de la vida de Elenna.
 
 ## Lo que este libro puede y no puede revelar
 

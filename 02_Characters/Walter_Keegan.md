@@ -143,6 +143,12 @@ Walt empieza a seguir, sin decirlo así, el mismo método de Kal para hacer nego
 
 ---
 
+## La etapa de Elenna — CANON DEL AUTOR (2026-10-04)
+
+- **Walt administra el Monarch** cuando Elenna regresa a San Aurelio, unos veinte años después (Libros V-VI).
+- **Amistad con [[02_Characters/Corrado_Ardizzone|Corrado]]** (propagado de [[07_Ideas/Corrado_Manfred_Gabe]]): se conocen en un bar de París ~35 años antes del Libro I, cuando Walt viaja con Amanda (buscaban hijo; no mueve las fechas de Jim) y Corrado lo defiende de un borracho. **Walt nunca supo el apellido.** Corrado lo visita en San Aurelio; tras la redada se refugia en la ciudad como Manfred Gabe. Diez años de cartas mientras Walt está preso; una filtración de ese correo es la razón de que La Mesa mande a Chiara. En el Cap. 9, recién en libertad condicional, Walt lo ayuda a cubrir sus huellas y desaparecer, con el contexto justo. Después de la saga: Walt opera el Monarch y Corrado administra Bellandi Ridge. PENDIENTES (cuánto sabe, cuándo descubre el apellido, el costo del Cap. 9): ver la incubadora.
+- **Libro VI:** la muerte natural de Corrado lo hace replantearse lo que le queda; se retira para pasar más tiempo con [[02_Characters/Natalie_Keegan|Nat]]. Lo releva [[02_Characters/Michael_Ardizzone]]. Edad derivada en el VI: ~85.
+
 ## Pendientes
 
 > **PENDIENTE:** por qué exactamente lo condenaron, y cómo lo armó Silas.

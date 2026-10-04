@@ -48,7 +48,7 @@
 - No es "otro libro persiguiendo a Ethan": Ethan ya cayó en el VI.
 - Kal y Chiara no entregan archivos secretos, no le cuentan todo el pasado a Elenna, no resuelven el caso ni dominan el clímax. Su presencia es emocional y familiar.
 - Erin no se vuelve detective informal.
-- Volpi y Corrado no resuelven el misterio por los protagonistas.
+- Volpi y Corrado no resuelven el misterio por los protagonistas. Corrado (muerto en el VI) entra por su camper de expedientes y diarios, que Elenna revisa con Michael *(CANON DEL AUTOR 2026-10-04)*.
 - Nada de confesión total espontánea, archivo milagroso ni evidencia nueva demasiado conveniente en el último acto.
 
 ## Supersedido (2026-10-03)

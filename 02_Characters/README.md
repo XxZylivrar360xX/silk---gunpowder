@@ -54,7 +54,7 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 - [[02_Characters/Warren_Halbrook]] — general; verdugo de Kal.
 - [[02_Characters/Leone_Valenti]] — Il Consigliere; cara del Consorcio.
 - [[02_Characters/Alessio_Lusardi]] — primer marido de Chiara; muerto.
-- [[02_Characters/Corrado_Ardizzone]] — padre de Chiara. Creído muerto tras una redada federal (verdad del autor: vive, oculto en Italia; reveal en la coda de *Voto de Ceniza*). No villano plano ni inocente limpio.
+- [[02_Characters/Corrado_Ardizzone]] — padre de Chiara. Creído muerto tras una redada federal (verdad del autor: vive, oculto en San Aurelio desde antes del Libro I (2026-10-04); muere en el VI; reveal en la coda de *Voto de Ceniza*). No villano plano ni inocente limpio.
 - [[02_Characters/Ettore]] — amigo de Corrado que crió a Chiara en todo menos el nombre; fuera de página, presencia epistolar. Estuvo junto a Corrado en el momento de la redada y recibió de él algo que Chiara nunca escuchó.
 - [[02_Characters/Marta_Bellandi]] (†) — madre de Chiara. Fallo cardíaco cuando Chiara tenía diecinueve. El apellido que su hija eligió llevar, el modelo de lo que es amar, y la teología práctica de la vela ("no es para que se cumpla, es para que tu mente esté más tranquila").
 

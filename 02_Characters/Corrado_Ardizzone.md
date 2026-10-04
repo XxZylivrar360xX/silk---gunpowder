@@ -2,12 +2,12 @@
 
 *Seda y Pólvora — Ficha de Personaje*
 
-> **VERDAD DEL AUTOR — NO ESCRIBIR EN PROSA ANTES DE LA CODA DE *VOTO DE CENIZA* (Libro II):** Corrado está vivo, oculto en Italia. Para Chiara, para el mundo y para toda la prosa del Libro I y la mayor parte del Libro II, **está muerto**. Ver [[00_Biblia/00_Trilogy_Structure]] y [[12_Craft_Policies/revelations/SAGA_LEVEL]]. No sembrar pistas de su supervivencia antes de ese punto — ver "Reglas duras" abajo.
+> **VERDAD DEL AUTOR — NO ESCRIBIR EN PROSA ANTES DE LA CODA DE *VOTO DE CENIZA* (Libro II):** Corrado está vivo, **oculto en San Aurelio** (CANON DEL AUTOR 2026-10-04; antes "oculto en Italia", ver "La verdad"). Para Chiara, para el mundo y para toda la prosa del Libro I y la mayor parte del Libro II, **está muerto**. Ver [[00_Biblia/00_Trilogy_Structure]] y [[12_Craft_Policies/revelations/SAGA_LEVEL]]. No sembrar pistas de su supervivencia antes de ese punto — ver "Reglas duras" abajo.
 
 **Nacionalidad:** italiano (Palermo, Sicilia)
 **Edad al morir Marta (Chiara tenía 19):** **51 años** (fijado 2026-09-18, ligeramente mayor que ella, sin forzar el gap por "treinta años" — ver nota de cronología abajo)
 **Edad en la redada / falsa muerte (Chiara tenía 23):** **55 años** (derivado — ver "La redada y la muerte pública")
-**Edad al abrir la novela:** **66 años** (fijado 2026-09-18, derivado: Chiara tiene 34 al abrir el libro, 11 años después de la redada). Oculto en Italia; no aparece en escena hasta la coda de *Voto de Ceniza*.
+**Edad al abrir la novela:** **66 años** (fijado 2026-09-18, derivado: Chiara tiene 34 al abrir el libro, 11 años después de la redada). Oculto en San Aurelio; no aparece en escena hasta la coda de *Voto de Ceniza*.
 **Oficio:** capo de la famiglia Ardizzone (crimen organizado, Palermo); posición exacta dentro o alrededor de **La Mesa de las Familias** — PENDIENTE
 **Rol:** figura paterna ausente / secundario de arco reservado. No aparece en escena en el Libro I. Primera aparición real en prosa: ~~la mañana siguiente al atentado de Santa Lucía~~ en el hospital, junto a Chiara en coma, después de la ejecución de Halbrook (canon del autor 2026-09-28), coda de *Voto de Ceniza* (Libro II)
 **Alias:** ninguno confirmado
@@ -57,24 +57,45 @@ Los federales irrumpen contra Corrado. Semanas después llega un comunicado: el 
 
 ### La verdad — Corrado vivo
 
-Corrado fingió su muerte y pasó años oculto en Italia desmantelando gradualmente Il Consorzio: fracturas internas, alianzas, erosión de acuerdos, aislamiento de actores — nunca violencia espectacular ni un ejército propio. Su hija nunca lo supo. Ver [[00_Biblia/00_Trilogy_Structure]], "Coda final — Corrado".
+> **SUPERSEDE (CANON DEL AUTOR, 2026-10-04; propagado de [[07_Ideas/Corrado_Manfred_Gabe]]):** Corrado pasó los años de su falsa muerte **oculto en San Aurelio** como **Manfred Gabe**, no en Italia. Ya no "pasó años desmantelando" el Consorcio en persona. La regla de no sembrar pistas en prosa antes de la coda del III sigue intacta.
+
+- **París (~35 años antes del Libro I):** Corrado y Marta, embarazada de Chiara de tres meses, conocen a Walt y Amanda en un bar (Walt y Amanda **buscaban hijo**). Un borracho empuja a Walt; Corrado lo noquea de un codazo. Trago, caminata, y Corrado le pregunta qué es ser padre. **Walt nunca supo el apellido.**
+- **Antes de la redada:** lo visita en San Aurelio y ahí coincide con Dale Mercer (contraste de padres). PENDIENTE: qué pasa y si ve a Kal niño.
+- **El exilio:** tras la redada el mar lo saca a una playa días después. Se refugia en la ciudad de su amigo. Walt sabe que algo en Italia lo quiere muerto; Corrado le oculta el nombre de su hija. Vive como Manfred Gabe: hombre humilde, en un camper en el norte rural.
+- **El método, desde lejos:** desmantela el Consorcio **a través de [[02_Characters/Ettore|Ettore]]** en Palermo, debilitando y exponiendo sutilmente las artimañas de las viejas familias. Su lucha propia, en persona, empieza con el atentado del Cap. 9.
+- **Las cartas:** diez años de cartas con Walt preso. Algo se filtra del correo penitenciario a La Mesa, y por eso **Il Consorzio manda a Chiara a San Aurelio, como anzuelo**. La petición de Dario es la ocasión, no la razón. PENDIENTE: qué se filtra.
+- **Cap. 9:** trabaja en las caballerizas del hipódromo, oculto. Ve el ataque, duerme al atacante, llama al número de la pantalla ("Mandorla") porque sabe que Kal iría. Interroga al atacante, que lo contrató [[02_Characters/Nereo_Volpi]]; lo mata y lo desaparece con ayuda de Walt. Después se esfuma. Kal no lo ve nunca antes de la coda: en el hospital lo reconoce por la voz de esa llamada y por las fotos de Villa Candelaria.
+- **Apertura de *Cuentas de Sangre*:** le cuenta todo esto a Kal. Comparten un terreno: los dos protegieron a Chiara decidiendo sin pedirle permiso. La novela no absuelve a ninguno.
+
+Pendientes de detalle (Dale, cómo se esfuma Manfred, desde cuándo trabaja en las caballerizas, la señal para Nereo, el costo para Walt): ver [[07_Ideas/Corrado_Manfred_Gabe]].
+
+~~Corrado fingió su muerte y pasó años oculto en Italia desmantelando gradualmente Il Consorzio~~ *(supersedido 2026-10-04: el desmantelamiento a distancia lo opera Ettore; ver arriba.)*
 
 Tras la muerte de ambos padres, quien crió a Chiara en todo menos el nombre fue **Ettore**, amigo de Corrado que se quedó cuando nadie más se quedó. Ver [[02_Characters/Ettore]].
 
-> **PENDIENTE, no inventar:** si Ettore sabe que Corrado vive; qué creen exactamente las autoridades italianas y estadounidenses sobre su muerte; qué método concreto usa para desmontar el Consorcio; qué costo acumuló en los años escondido.
+> **RESUELTO (CANON DEL AUTOR, 2026-10-04):** Ettore sabe que Corrado vive: es su brazo en Palermo. **PENDIENTE, no inventar:** qué le susurró en la redada; qué creen exactamente las autoridades italianas y estadounidenses sobre su muerte; qué método concreto usa para desmontar el Consorcio; qué costo acumuló en los años escondido.
 
-### La reaparición — coda de *Voto de Ceniza*
+### La reaparición — coda de *Voto de Ceniza* (Libro III)
 
 Regla fija en [[00_Biblia/00_Trilogy_Structure]]:
 
 - **Santa Lucía no fue obra de Il Consorzio.** Corrado no resuelve, diseña, autoriza ni facilita la ejecución de Halbrook.
 - Su regreso responde a un cambio de equilibrio: mientras su ausencia protegía a Chiara, seguir "muerto" era útil. Después de la caída de Dario y del colapso del equilibrio de San Aurelio, esa ausencia empieza a favorecer más al enemigo que a su hija — y el ataque directo a Chiara en Santa Lucía rompe su umbral de tolerancia.
-- **El primer reveal es a Kal**, no a Chiara, mientras ella sigue en coma. ~~La mañana posterior al atentado. Se presenta con su nombre completo.~~ **CANON DEL AUTOR (2026-09-28):** ocurre en el cuarto del hospital, justo después de la ejecución de Halbrook. Kal abre la puerta, ve de espaldas a un hombre con la silueta de Halbrook y lleva la mano al arma. Primera voz de Corrado en prosa: *"Señor Mercer, no hace falta eso. No vengo a hacerle daño, ni a usted ni a ella."* Kal: *"¿Quién es usted?"* Corrado se vuelve y **no dice su nombre**: Kal lo reconoce por las fotografías de Villa Candelaria (Corrado y Marta bailando, la del [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo|Cap. 2]]; Corrado de espaldas en la playa con Chiara niña sobre los hombros, y el retrato familiar al óleo: Corrado de pie tras la silla de Marta, Chiara en el regazo de ella). La cara la da el retrato; el reconocimiento es la suma de las tres. Kal se queda sin palabras. Corrado: *"Creo que usted y yo tenemos que hablar."* **Fin de *Voto de Ceniza*.** No explica por qué vive, no pregunta por Chiara, no revela qué sabe, no menciona a Halbrook; la conversación no entra en el libro. Ver [[02_Characters/Warren_Halbrook]], "Muerte". El encuentro emocional con Chiara ocurre después y es **decisión de ella**, no de Kal ni de Corrado.
+- **El primer reveal es a Kal**, no a Chiara, mientras ella sigue en coma. ~~La mañana posterior al atentado. Se presenta con su nombre completo.~~ **CANON DEL AUTOR (2026-09-28):** ocurre en el cuarto del hospital, justo después de la ejecución de Halbrook. Kal abre la puerta, ve de espaldas a un hombre con la silueta de Halbrook . **[SECUENCIA CANON DEL AUTOR, 2026-10-04 — supersede el orden anterior]** (1) Terror de Kal ante la silueta: *"¿Está vivo?"* (cree que Halbrook sobrevivió). (2) Primera voz de Corrado en prosa: *"¿Larga noche, señor Mercer?"* (3) Kal saca el arma y le apunta; en su mente: *esa voz ya la había oído* (la llamada del domingo, Cap. 9). (4) Corrado: *"No hace falta eso. No vengo a hacerle daño, ni a usted ni a ella."* Kal: *"¿Quién es usted?"* Corrado se vuelve y **no dice su nombre**: Kal lo reconoce por las fotografías de Villa Candelaria (Corrado y Marta bailando, la del [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo|Cap. 2]]; Corrado de espaldas en la playa con Chiara niña sobre los hombros, y el retrato familiar al óleo: Corrado de pie tras la silla de Marta, Chiara en el regazo de ella). La cara la da el retrato; el reconocimiento es la suma de las tres. Kal se queda sin palabras. Corrado: *"Creo que usted y yo tenemos que hablar."* **Fin de *Voto de Ceniza*.** No explica por qué vive, no pregunta por Chiara, no revela qué sabe, no menciona a Halbrook; la conversación no entra en el libro. Ver [[02_Characters/Warren_Halbrook]], "Muerte". El encuentro emocional con Chiara ocurre después y es **decisión de ella**, no de Kal ni de Corrado.
+- **La voz (CANON DEL AUTOR, 2026-10-04):** en el cuarto del hospital, al final de *Voto de Ceniza*, Kal **reconoce la voz**: es la de la llamada de aquel domingo del Cap. 9, desde el teléfono de Chiara ("¿Es usted el mecánico?"). La reconoce con la primera frase de Corrado, antes de las fotos de Villa Candelaria o junto con ellas. Le da al reveal un peso extra y real. Supersede el DISEÑO de la incubadora ("no en la coda; pago en la apertura de *Cuentas de Sangre*"). En la apertura del IV, Corrado le explica la llamada.
 - Corrado llega a ayudar, no a resolver la guerra: puede ofrecer inteligencia, contactos, confirmaciones y protección de la retaguardia italiana de Chiara. No mata a Halbrook, no derrota a Dario, no sustituye a Kal ni toma San Aurelio.
 
-### El arco en *Cuentas de Sangre* (Libro III)
+### El arco en *Cuentas de Sangre* (Libro IV)
 
 Corrado aporta conocimiento, contexto y una relación personal imposible de ignorar, pero **no sustituye a Chiara como protagonista de su propio conflicto** contra Il Consorzio ni la sienta en un trono. Inició solo el desmantelamiento del Consorcio; no debe terminarlo solo — en la fase final Chiara participa como Chiara Bellandi, no como heredera obediente. El arco de Corrado termina cuando comprende que la victoria de su hija no es heredar una posición, sino poder abandonar la obligación de ocuparla. Ver [[00_Biblia/00_Trilogy_Structure]].
+
+### Su muerte — Libro VI (CANON DEL AUTOR, 2026-10-04)
+
+Muere de muerte natural, en su casa, ya muy mayor (~91, derivado), para volver con Marta: uno de los cierres más bonitos del personaje. Detona dos cosas: Walt, al perder a su viejo amigo, se retira del Monarch para pasar más tiempo con Nat; y su nieto [[02_Characters/Michael_Ardizzone]] viaja al funeral y se queda a sostener el Monarch y Bellandi Ridge. En vida fue mentor de Michael en la mesa de familias: después de la saga administra Bellandi Ridge y **pasa temporadas en Italia** con Kal, Chiara y los nietos.
+
+**El camper del abuelo (CANON DEL AUTOR, 2026-10-04):** deja el viejo camper lleno de expedientes y diarios de lo que vio, vivió y recopiló. Es herencia: de ahí le viene a Chiara escribir lo que pesa (ver "Las cartas" en su ficha). Cuando Elenna y Michael lo revisan, cada uno saca lo suyo: **él, la historia vieja del Consorzio; ella, las pistas que la llevan a Volpi** y encauzan el caso Vera (Libro VII). Así entra Corrado al VII estando muerto.
+
+~~**Choque a resolver:** el timeline del VII reconstruye el encubrimiento Vera "mediante... Corrado"; muerto en el VI, solo puede entrar por archivos, cartas o testimonio de otros.~~ *(resuelto: el camper)*
 
 ### Después de la trilogía — material de incubadora (Libro 4/5, no canon cerrado)
 

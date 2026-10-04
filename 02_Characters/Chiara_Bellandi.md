@@ -13,6 +13,22 @@
 **Rol:** protagonista. La que toma el relato.
 **Estado:** viva
 
+### Quién es en cada libro — II a IV PENDIENTES DEL AUTOR (2026-10-04)
+
+Espejo de la tabla de [[02_Characters/Kal_Mercer]]. La cabecera describe el Libro I; al escribir otro libro manda esta tabla. Solo el autor llena la columna "Quién es"; la columna de contexto resume el timeline, no lo sustituye.
+
+| Libro | Quién es | Contexto del timeline |
+|---|---|---|
+| I — *Máscaras de Cristal* | Gestión de imagen y contención de prensa en el Monarch (cabecera) | Il Consorzio la reclama como Ardizzone (H13, Palermo) |
+| II — *Sombras de Poder* | **PENDIENTE** | Embarazo; depresión tras Mei-Lin y Bonnie; organiza la boda de Mabel y Walt |
+| III — *Voto de Ceniza* | **PENDIENTE** | Santa Lucía: sobrevive en estado crítico; termina en coma |
+| IV — *Cuentas de Sangre* | **PENDIENTE** | Abre en coma; enfrenta a Il Consorzio, resuelve a Corrado y el apellido; sale con Kal a Palermo |
+| V–VII | **CANON DEL AUTOR (2026-10-04):** cofundadora con Kal de un viñedo en Palermo y de una distribuidora del sector agrícola, proveedores de negocios en Italia. **Ella es la figura pública**; él concreta los tratos. Vida tranquila el resto de la saga | Ausentes físicamente para Elenna (llamadas y cartas); regresan en el VII tras el disparo y se van del hangar |
+
+**Entre el IV y el V (CANON DEL AUTOR, 2026-10-04):** los primeros diez años de Elenna se dedican a criarla y darle la mejor vida, compensando el año perdido cuando era bebé. A los 15 Elenna se va a Brasil con Marisol, y Kal y Chiara empiezan a emprender juntos. Segundo hijo: [[02_Characters/Michael_Ardizzone]] (~2 años menor que Elenna).
+
+**Sus hijos y las armas (CANON DEL AUTOR, 2026-10-04):** Chiara entiende a sus dos hijos desde ambos lados: quiso alejarlos de las armas que le hicieron daño en la vida, y los dos decidieron tomarlas como propias. Elenna, como policía de San Aurelio; Michael, en la silla Ardizzone de la mesa de familias, para hacer una diferencia contra las costumbres viejas.
+
 ---
 
 ## Apariencia
@@ -100,6 +116,8 @@ Tres rasgos fijos, siempre los tres juntos:
 
 > **AUTOR — arco reservado con Kal:** el autor tiene planeado un arco con Kal construido sobre esta característica. El agente no debe inventar su contenido ni adelantarlo — sólo sostener el rasgo con consistencia (papel propio, aroma, manuscrita) cada vez que aparezca una carta suya en el manuscrito, para que el arco tenga suelo firme cuando el autor lo escriba.
 
+**Herencia (CANON DEL AUTOR, 2026-10-04):** escribir lo que pesa le viene de Corrado, que deja un camper lleno de expedientes y diarios (Libro VI). Chiara no lo sabe en el Libro I; el narrador no lo señala.
+
 **Y es la base de [[03_Factions/Red_Civil_de_Chiara]], sección "I Sussurri":** los papelitos en latín que mueve su red no son un objeto aparte inventado para el espionaje. **Son recortes del mismo papel de sus cartas** — el mismo aroma, la misma letra, distinta lengua. Ver esa sección para el ejemplo físico completo.
 
 ### Su función en la novela: no dejar que Kal se borre
@@ -143,7 +161,7 @@ De ahí sale entera: Chiara sabe exactamente cuánto cuesta quedarse, y se queda
 
 > **CREENCIA DE CHIARA (canon del autor, actualizado 2026-09-09):** los federales irrumpieron en una redada contra Corrado. Semanas después llegó un comunicado: el capo de la famiglia Ardizzone había fallecido en una **caída desde el acantilado de la villa de Palermo**; federales y comisión dieron la misma frase, palabra por palabra. **Nunca hubo cuerpo.** Chiara cree que lo perdió, y no tener siquiera un cuerpo que poner junto al de Marta es una cuenta que paga sola cada aniversario, sin que nadie en San Aurelio lo sepa. Formulada así por primera vez en prosa en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 26]] (jacuzzi). **ACTUALIZADO 2026-09-28 (CANON DEL AUTOR):** la versión pública ahora es que **los federales abrieron fuego y el cuerpo cayó por la ladera de la villa**, junto al mirador sobre la costa de Mondello, y que el comunicado salió en los periódicos **a la mañana siguiente**. Sigue sin haber cuerpo. Intención del autor: el disparo "constata" la muerte, para que el lector lo crea muerto sin dudarlo y el reveal de *Voto de Ceniza* le pegue más fuerte. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 25]].
 >
-> **VERDAD DEL AUTOR (Chiara no la conoce; no insinuar en prosa):** el canon de fondo vigente ([[00_Biblia/00_Trilogy_Structure]], [[12_Craft_Policies/revelations/SAGA_LEVEL]]) es que **Corrado está vivo** y oculto en Italia; primer reveal a Kal en la coda del Libro II.
+> **VERDAD DEL AUTOR (Chiara no la conoce; no insinuar en prosa):** el canon de fondo vigente ([[00_Biblia/00_Trilogy_Structure]], [[12_Craft_Policies/revelations/SAGA_LEVEL]]) es que **Corrado está vivo** y oculto en San Aurelio (CANON DEL AUTOR 2026-10-04; antes Italia); primer reveal a Kal en la coda del Libro II.
 
 La culpa de fondo era del [[03_Factions/Il_Consorzio]]: el Consorcio puso las condiciones, los intereses y la trampa. Pero la mano visible fue federal.
 
@@ -388,7 +406,7 @@ Halbrook la reconoce muy pronto como algo más que "la mujer de Kal": Kal genera
 - **[[02_Characters/Walter_Keegan]]** — amigo del padre de Kal. Se conocen en el primer torneo de poker; ella lo ayuda a comprar la bodega para su destilería y él se vuelve el proveedor de licor del casino.
 - **[[02_Characters/Blake_Stanton]]** — con quien sale al llegar a la ciudad. Rubio, ojos azules: el hombre equivocado con la cara correcta.
 - **[[02_Characters/Camila_Rivas]]** — su médica de confianza. Atiende fuera de los registros cuando la razón moral o la deuda lo justifican, y le contesta el teléfono a Chiara a cualquier hora. Es quien mantiene vivo a Kal en [[06_Relationships/Hitos]], H1, y por lo tanto **la prueba de que la red de Chiara es infraestructura real y no contactos sociales.**
-- [[02_Characters/Corrado_Ardizzone]] — el padre. Chiara lo cree muerto tras una redada federal (verdad del autor: vive, oculto en Italia — ver "Historia" arriba); no debe escribirse como villano plano ni como inocente limpio. Fue un hombre que quiso a su mujer treinta años y no supo proteger su casa de lo que su mundo era.
+- [[02_Characters/Corrado_Ardizzone]] — el padre. Chiara lo cree muerto tras una redada federal (verdad del autor: vive, oculto en San Aurelio — ver "Historia" arriba); no debe escribirse como villano plano ni como inocente limpio. Fue un hombre que quiso a su mujer treinta años y no supo proteger su casa de lo que su mundo era.
 - [[02_Characters/Marta_Bellandi]] (†) — la madre. El apellido, y el modelo entero de lo que Chiara entiende por amar.
 
 ---

@@ -45,6 +45,16 @@ En ese epílogo lleva la chamarra de mezclilla con cuello de borrego de Kal, cam
 
 No hereda marcas como inventario. No necesita la cicatriz de Kal, un lunar de Chiara ni una colección literal de piezas reconocibles. El contraste importante es más sencillo: **quieta puede recordar muchísimo a Kal; cuando sonríe o se ríe, Chiara aparece.**
 
+## Infancia y adolescencia en Palermo — CANON DEL AUTOR (2026-10-04)
+
+Tras *Cuentas de Sangre*, Kal y Chiara dedican los primeros diez años de Elenna (y de su hermano [[02_Characters/Michael_Ardizzone|Michael]], que nace unos 2 años después) a criarla y darle la mejor vida, compensando la herida del año perdido cuando era bebé. **A los 15 se va a Brasil con [[02_Characters/Marisol_Grayson|Marisol]]**; desde ahí empiezan los "años de viajes" que preceden a la academia (DISEÑO: ahí cabría Río, de donde viene su amistad con Erin). Kal y Chiara se quedan en Palermo y fundan un viñedo y una distribuidora agrícola. **PENDIENTE:** por qué Marisol y por qué Brasil; cuánto dura esa estancia; cómo encaja con la vida de Marisol en San Aurelio.
+
+## El hermano — CANON DEL AUTOR (2026-10-04)
+
+Elenna es la hermana mayor. [[02_Characters/Michael_Ardizzone]] nace en Palermo unos 2 años después y crecen juntos. **Los apellidos se cruzan:** Elenna usa Mercer y sabe que es Ardizzone; Michael usa Ardizzone por deber y sabe que es Mercer en sangre y carácter. Él parece el mayor por personalidad. Aparece solo en el Libro VI (relevo de Walt en el Monarch tras la muerte de Corrado) y regresa a Italia; no es protagonista de su vida en San Aurelio. Ironía: él vive por "el deber siempre es primero"; la policía es ella, y ella no está casada con esa idea.
+
+**El camper del abuelo (CANON DEL AUTOR, 2026-10-04):** tras la muerte de Corrado revisan juntos su viejo camper de expedientes y diarios. Michael saca la historia vieja del Consorzio; Elenna, las pistas que la llevan a Volpi y encauzan el caso Vera (VII).
+
 ## Etapa adulta — 21 años y Recluta
 
 > **CANON DEL AUTOR (2026-09-13; rango formalizado 2026-09-16):** durante la etapa del epílogo de *Cuentas de Sangre*, Elenna tiene **21 años**. Aproximadamente veinte años después del cierre inmediato de Palermo, y unas semanas después del epílogo, regresa a San Aurelio para iniciar la academia como **Recluta** del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento de Policía de San Aurelio]]. Se dirige a ella como **Recluta Mercer** (no "Recruit Mercer").
@@ -214,7 +224,7 @@ Las fotografías y el video cobran esa distancia sin reducir a Chiara a madre su
 
 ## Corrado y la nieta
 
-> **CANON DEL AUTOR (2026-08-31).** Corrado Ardizzone está vivo y oculto en Italia durante buena parte de la novela.
+> **CANON DEL AUTOR (2026-08-31).** Corrado Ardizzone está vivo y oculto durante buena parte de la novela (en San Aurelio, CANON DEL AUTOR 2026-10-04; antes Italia).
 
 No se asume que Corrado conoce inmediatamente la existencia de Elenna ni que sabe que sobrevivió. Tampoco se utiliza a Corrado para obtener documentos, organizar el traslado o resolver el resguardo.
 
@@ -260,7 +270,7 @@ Representa lo contrario: **la razón por la que Kal y Chiara descubren que no ne
 
 > **No corregir estos puntos por conveniencia.** El canon del autor de esta ficha prevalece; los archivos señalados requieren una pasada posterior y coordinada.
 
-1. **Corrado figura como muerto en el vault vivo.** Lo afirman [[02_Characters/Chiara_Bellandi]], [[06_Relationships/Kal_y_Chiara]], [[03_Factions/Il_Consorzio]], [[03_Factions/Fuerza_de_Tarea_Meridian]], [[02_Characters/Ettore]], [[02_Characters/README]] y [[12_Craft_Policies/revelations/SAGA_LEVEL]]. El Capítulo 2 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo]]) y el Capítulo 9 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_El_Corral]]) también contienen formulaciones que presuponen su muerte o la retención de su cuerpo. El nuevo canon establece que está vivo y oculto en Italia durante buena parte de la novela. Esta contradicción afecta además el duelo de Chiara, la función de Ettore, la herida federal, escenas ya escritas y el secreto de saga; no debe resolverse con una sustitución mecánica de frases.
+1. **Corrado figura como muerto en el vault vivo.** Lo afirman [[02_Characters/Chiara_Bellandi]], [[06_Relationships/Kal_y_Chiara]], [[03_Factions/Il_Consorzio]], [[03_Factions/Fuerza_de_Tarea_Meridian]], [[02_Characters/Ettore]], [[02_Characters/README]] y [[12_Craft_Policies/revelations/SAGA_LEVEL]]. El Capítulo 2 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo]]) y el Capítulo 9 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_El_Corral]]) también contienen formulaciones que presuponen su muerte o la retención de su cuerpo. El nuevo canon establece que está vivo y oculto durante buena parte de la novela (en San Aurelio, CANON DEL AUTOR 2026-10-04; antes Italia). Esta contradicción afecta además el duelo de Chiara, la función de Ettore, la herida federal, escenas ya escritas y el secreto de saga; no debe resolverse con una sustitución mecánica de frases.
 2. **Bonnie en Italia — reconciliado en arquitectura (2026-08-31).** [[06_Relationships/Momentos_de_Fractura]] ya no presupone tutela Bellandi: F2 coloca a Bonnie en Italia como Roberta Ardizzone antes del nacimiento, pero mantiene pendientes documentos, cobertura, apoyo y localización. `Roberta Ardizzone` y `Elenna Serra` son identidades distintas.
 3. **No se encontró una hija con otro nombre ni una supervivencia incompatible.** La auditoría dirigida no halló `Marta`, `Marta Elena` o `Elena Mercer` usados como nombre de la hija; tampoco una niña apellidada Colombo, una hija retenida en San Aurelio ni textos donde Dario o Halbrook conozcan su supervivencia. Las menciones existentes de Marta corresponden a [[02_Characters/Chiara_Bellandi|Marta Bellandi]], madre de Chiara.
 4. **Arquitectura futura — reconciliada en documentos centrales (2026-08-31).** [[06_Relationships/Hitos]] y [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] ya integran embarazo, H1, reveal posterior, Bonnie, nacimiento, falsa muerte, separación y H22. El timeline de 90 beats conserva numeración antigua y requiere expansión futura; una nota de precedencia impide usar su ubicación tardía de H1.

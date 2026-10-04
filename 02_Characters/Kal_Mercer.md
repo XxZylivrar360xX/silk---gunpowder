@@ -13,10 +13,24 @@ Villa Candelaria, tiempo compartido, detalles, viajes y experiencias construyen 
 **Nacionalidad:** estadounidense (nacimiento fuera del país, sin registro fiable)
 **Edad al abrir la novela:** 41 *(corrección del autor, 2026-08-26; antes 31)*
 **Cumpleaños:** 1 de enero.
-**Oficio:** mecánico y operador de grúas — dueño de [[03_Factions/Almendra_Towing]]
+**Oficio:** mecánico y operador de grúas — dueño de [[03_Factions/Almendra_Towing]] *(Libro I; cambia por libro, ver tabla)*
 **Rol:** protagonista. El que toma el territorio.
 **Alias:** *el Gancho* (como lo llama la calle) · *el camaleón* (como se llama él, una sola vez, y sólo delante de ella)
 **Estado:** vivo
+
+### Quién es en cada libro — CANON DEL AUTOR (2026-10-04)
+
+El "mecánico" es solo el punto de partida. Al escribir un libro, el oficio y la posición que mandan son los de esta tabla, no los de la cabecera.
+
+| Libro | Quién es | Fuente |
+|---|---|---|
+| I — *Máscaras de Cristal* | Mecánico y conductor de grúas | Autor |
+| II — *Sombras de Poder* | Líder sicario de una banda | Autor |
+| III — *Voto de Ceniza* | Magnate acaudalado y jefe de la mafia, El Patio | Autor |
+| IV — *Cuentas de Sangre* | Criminal perseguido por el FBI | Autor |
+| V–VII (*Juramento de Hierro*, *Hijos del Silencio*, *Camino a Casa*) | Un hombre y padre que trabaja el campo: cofundador con Chiara de un viñedo en Palermo y de una distribuidora del sector agrícola, proveedores de negocios en Italia. **Él es el as de los negocios**: el que concreta los tratos nuevos. Vida tranquila el resto de la saga | Autor |
+
+**Entre el IV y el V (CANON DEL AUTOR, 2026-10-04):** los primeros diez años de Elenna, Kal y Chiara se dedican a criarla y a darle la mejor vida, compensando la herida del año perdido cuando era bebé. A los 15, Elenna se va a Brasil con Marisol; entonces ellos empiezan a emprender juntos. Segundo hijo: [[02_Characters/Michael_Ardizzone]], nacido en Palermo ~2 años después de Elenna; lleva el nombre de Michael Grayson. Ver [[02_Characters/Elenna_Mercer]].
 
 ---
 

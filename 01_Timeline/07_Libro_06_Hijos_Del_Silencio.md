@@ -12,6 +12,7 @@
 - Elenna participa en la caza y el arresto del asesino serial; el enfrentamiento ocurre en el subsuelo de la Presa del Sur.
 - La captura impulsa su carrera y la rompe en lo privado.
 - Resolver a Ethan no resuelve el caso Vera.
+- Corrado muere de muerte natural en San Aurelio; Walt se retira del Monarch; Michael Ardizzone, hermano menor de Elenna, llega al funeral y se queda temporalmente al frente del Monarch y Bellandi Ridge. *(CANON DEL AUTOR 2026-10-04.)*
 
 ## Cierre
 
