@@ -1,5 +1,5 @@
 <!--
-Estado: BORRADOR — Parte III — Ardizzone, Cap. 45 (segundo del arco final sin Kal, 44–50). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
+Estado: BORRADOR — Parte III — Ardizzone, Cap. 45 (segundo del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
 Título: PENDIENTE. "Ropa limpia" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece salvo en una grabación de seguridad, de espaldas y sin cara.
 Personajes con diálogo: Kenji Oda, Mabel Ortiz, el recepcionista de noche de la Torre Norte, un guardia de seguridad (sin nombre), Bonnie García, Mei-Lin Zhao, Rosaura Quintero (nueva, DISEÑO: planchadora del turno de noche, comadre de Mabel).

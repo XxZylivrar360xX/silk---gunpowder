@@ -1,5 +1,5 @@
 <!--
-Estado: BORRADOR — Parte III — Ardizzone, Cap. 49 (sexto del arco final sin Kal, 44–50). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
+Estado: BORRADOR — Parte III — Ardizzone, Cap. 49 (sexto del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
 Título: PENDIENTE. "Enfrente" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
 Personajes con diálogo: Leone Valenti, una voz de mujer en Nueva York (por teléfono), el portero del Monarch, la recepción del Monarch (por teléfono).
@@ -19,8 +19,8 @@ DISEÑO del agente, pendiente de lectura:
 - Chiara piensa en la deuda abierta con Dario sin nombrarla (bodega nueve, "una cuenta abierta").
 - "Si acepto, ¿lo sacan?" / "Una cosa no compra la otra. Por eso se lo ofrezco hoy: para que no las confunda." "Il Consorzio no tiene prisa."
 - Ella no contesta. Sale; Valenti la acompaña a la puerta hablando de otra cosa (un concierto). Cruza el Paseo a pie; el portero del Monarch: "Buenas tardes, señora Bellandi."
-- Valenti, hijo de un contador de naviera en Génova (biografía mínima nueva, DISEÑO; coherente con "norte o centro de Italia"). Teatro de la calle Alameda: lugar de pasada, DISEÑO.
-- Continuidad a revisar (no tocada): el Cap. 47 (l. 328) dice que desde el despacho de Chiara se ve "la calle Corona" y "el hotel de enfrente"; aquí el hotel de enfrente está sobre el Paseo Pacífica, conforme a [[03_Factions/El_Casino]].
+- Valenti, hijo de un contador de naviera en Génova (CANON DEL AUTOR, aprobado el 2026-10-03 en Q7; integrado en [[02_Characters/Leone_Valenti]]). Teatro de la calle Alameda: lugar de pasada, DISEÑO.
+- Continuidad geográfica corregida en E4 (auditoría del arco, Q1, 2026-10-03): la vista del despacho del Cap. 47 se ajustó a Paseo Pacífica, en coherencia con [[03_Factions/El_Casino]].
 - Coda D13: recepción avisa que Valenti dejó el hotel esa mañana y dejó dicho que no hay prisa (se va antes del convoy; ambigüedad intacta). "¿Quiere dejarle algún recado?" Chiara cuelga sin contestar; firma la hoja de turnos que estaba sin firmar desde el 48; baja por el Lancia. No se dice adónde va (el 50 la encuentra fuera y la hace volver).
 - No se usa "Qué lamentable" (no está sembrado en prosa; queda reservado). No se describe a Valenti más allá de lo fijado en el Cap. 40; apariencia y manía siguen PENDIENTE. No se nombra a Halbrook ni el señuelo. Sin EPUB, commit ni push.
 -->

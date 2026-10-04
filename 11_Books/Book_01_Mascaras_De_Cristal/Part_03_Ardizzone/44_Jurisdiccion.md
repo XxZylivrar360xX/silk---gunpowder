@@ -1,5 +1,5 @@
 <!--
-Estado: BORRADOR — Parte III — Ardizzone, Cap. 44 (primero del arco final sin Kal, 44–50). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Pendiente de lectura del autor.
+Estado: BORRADOR — Parte III — Ardizzone, Cap. 44 (primero del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Pendiente de lectura del autor.
 Título: PENDIENTE. "Jurisdicción" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
 Personajes con diálogo: Héctor Navarro (teléfono), un abogado del Monarch (sin nombre), Giancarlo Krane (teléfono), Katherine Rowe (teléfono), Edward Connors (teléfono), Lucía Varek (en persona).
