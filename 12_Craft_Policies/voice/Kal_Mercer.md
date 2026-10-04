@@ -44,6 +44,46 @@ Trabaja mientras habla: limpia una pieza, revisa una factura, abre una puerta, s
 
 *(Cap. 28)* Cuando el golpe es emocional, busca algo solido bajo las manos (borde del fregadero, barra) y habla hacia la madera, no hacia ella. Ordena objetos para no ordenar la conversacion: alinea las fotos "como si alinearlas fuera a cambiar algo". La salida es accion: llaves del cuenco, telefono en la oreja antes de llegar a la puerta, revision de la recamara.
 
+## Registro emocional (piloto 2026-10-04)
+
+> DISEÑO del agente sobre lineas del libro; pendiente de validacion del autor. Las anclas citan capitulos BORRADOR o TERMINADO; "sin ancla" = propuesta a discutir, no regla. Si funciona, se replica en el resto del reparto.
+
+**Principio:** Kal siente con las manos y con logistica; la palabra llega al final o no llega. A mas emocion, menos palabras y mas accion practica. Unica excepcion: el desarme (Cap. 25), cuando alguien lo sostiene y habla en bloques largos, "como se dicen las cosas que ya se dijeron muchas veces por dentro".
+
+### Arbol de decision (antes de escribir la linea)
+
+1. **¿Quien escucha?**
+   - *Rival o mesa* (Dario, Tommaso, Varek): cortesia plana. Cuanto mas siente, mas cortes ("¿Nos podemos reunir?", "Su gente esta sedada. No necesita compañia", "No me importa"). No se filtra nada.
+   - *Su gente* (Nadir, Walt, Garrett, Marisol): habla al objeto, no a la persona (confesion "al motor", 24b). Minimiza: "Mas o menos", "No se".
+   - *Chiara a solas*: si ella esta en riesgo, interroga; "Chiara." como bisagra. Si esta sostenido, cuenta entero.
+   - *Nadie*: inventario. Lava las dos copas, las seca, las guarda cada una en su sitio (24b).
+2. **¿Intensidad?** *Contenida:* manda el filtro de arriba. *Se escapa:* una fuga, una sola vez, y la corrige ("No era una orden"). *Desborda:* accion (llaves, telefono, recamara) o quietud total.
+3. **¿Fuga?** Ver columna de la matriz. No repetir la de Chiara en la misma escena.
+
+### Matriz
+
+| Estado | Sintaxis | Dice / evita | Fuga | Ancla |
+|---|---|---|---|---|
+| Feliz | Seca, seria; sostiene el chiste sin reirse | Dato exacto como remate ("Era fiscal", "mis calcetas son blancas"); nunca dice que esta contento | Cara seria sostenida demasiado; el remate va con un gesto (levanta el indice: "Vendedor del mes") | 7, 8, 25 |
+| Emocionado | Mas larga de lo normal, en relato | Cuenta anecdotas de otros con detalle (Danny, Nadir, "Batman"); ofrece la salida antes de entrar ("si quieres que de la vuelta, la doy") | El entusiasmo sale por persona interpuesta; volante en una sola mano | 8 |
+| Triste | Dato sin fondo; frase pareada ("Tardo menos de lo que uno cree y mas de lo que uno aguanta") | Baja de categoria ("Lo demas son frases"); evita "me duele" | La voz "se queda sin fondo"; el pulgar por la cicatriz "como quien señala una herramienta"; llora sin anunciarlo, primero con los hombros | 25 |
+| Preocupado | Preguntas cortas encadenadas, con el nombre al final | Logistica de seguridad ("¿Donde te vas a quedar?"); la orden se le escapa | Interroga; ironia que cita a la otra ("Un motel, dice ella") | 9, 28 |
+| Esceptico | No discute; pregunta el precio | "No se que gana"; "Lo demas son frases"; con rival, cortesia sin arista | Mira el telefono o la pieza, no al otro | 24b, 25, 9 |
+| Pensativo | Contesta tarde o no contesta | Nada; deja que la pregunta "se hunda sola" | Ordena objetos sin necesidad (llaves por tamaño, "No hacia falta moverla") | 24b, 25 |
+| Disperso | Minima, de tramite | "Estoy esperando una llamada"; no dice de quien | Mira el telefono "como si le debiera dinero" (Nadir lo nota) | 24b |
+| Agobiado | Repeticion como muro; cierre seco | "No se ni como estoy" x2; "Ok. Listo."; autoborrado ("No voy a ser mas un problema para ti") | Busca algo solido (fregadero, barra) y habla a la madera; se va a la accion | 28 |
+| Aterrorizado | Hielo con el rival; con ella, la frase mas larga y tierna que tiene | "Te vas a mejorar, ¿vale?"; "Duerme. Yo me quedo." | Inmovilidad: no se mueve de la silla dos dias (lo cuenta Hector, no el) | 9 |
+
+### Contraste con Chiara (no compartir fuga)
+
+- **"No se":** el de Kal *cierra* (muro: "No se." a Nadir). El de Chiara *se rompe* y sigue hablando. No invertirlos.
+- **Mano por la cara:** hoy la comparten (Kal 25 y 28; Chiara 28, "se paso las manos por la cara"). Propuesta: reservarla a Kal; Chiara usa el pelo, el anular o los brazos cruzados. Revisar en cirugia, no editar ahora.
+- **Humor:** el de Kal es seco y de cara seria; el de ella, burla con italiano. Si los dos rematan igual, uno sobra.
+
+### Evolucion en el Libro I
+
+usted-duelo, deadpan (2-5) → juego seco, anecdotas de otros (6-8) → cuidado logistico, interroga (9-21) → confesion al motor, a un tercero (24b) → desarme narrativo, llora (25) → pelea: orden que se escapa, groseria, autoborrado (28) → Parte III: PENDIENTE de mapear tras los Caps. 35-50.
+
 ## Muestra
 
 —No es problema.
