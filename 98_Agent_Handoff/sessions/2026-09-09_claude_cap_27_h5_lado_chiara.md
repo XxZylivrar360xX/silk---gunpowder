@@ -2,7 +2,7 @@
 
 ## Qué se hizo
 
-Se redactó [[11_Books/Book_01_Seda_y_Polvora/Part_02_La_Construccion/27_Me_Encuentro_Bien]] — **Capítulo 27, primer capítulo de la Parte II**. Se creó la carpeta `Part_02_La_Construccion/`. POV único de Chiara. Ejecuta el material vivo de [[06_Relationships/Hitos#H5 — San Aurelio|H5 — San Aurelio]] desde el lado de Chiara, más el cierre de H15 (advertencia de Varek de madrugada) rendido como recuerdo.
+Se redactó [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_La_Construccion/27_Me_Encuentro_Bien]] — **Capítulo 27, primer capítulo de la Parte II**. Se creó la carpeta `Part_02_La_Construccion/`. POV único de Chiara. Ejecuta el material vivo de [[06_Relationships/Hitos#H5 — San Aurelio|H5 — San Aurelio]] desde el lado de Chiara, más el cierre de H15 (advertencia de Varek de madrugada) rendido como recuerdo.
 
 ## Estructura del capítulo (3 movimientos)
 

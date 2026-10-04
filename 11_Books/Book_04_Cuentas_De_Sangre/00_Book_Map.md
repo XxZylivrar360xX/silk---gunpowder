@@ -22,9 +22,9 @@ El libro no trata de *descubrir* que Kal y Chiara deberían marcharse — esa de
 
 ## Estado de entrada (hereda del cierre del Libro III — Voto de Ceniza)
 
-- Dario preso; Halbrook sentenciado por Kal pero vivo al abrir el libro.
+- Dario preso; Halbrook **muerto** al abrir el libro (ejecutado al cierre del Libro III; tirador desconocido; se sospecha de Kal o de Nadir). Chiara en coma; su despertar y su recuperación (hospital, rehabilitación de meses) pertenecen a este libro. *(Supersesión del autor 2026-09-28; ver [[02_Characters/Warren_Halbrook]], "Muerte".)*
 - Héctor y Kenji muertos; Harper viva; Chiara sobrevivió a Santa Lucía.
-- Elenna vive como Elenna Serra con Riley en Italia; la separación ya es larga.
+- Elenna vive como Elenna Serra con Bonnie en Italia; la separación ya es larga.
 - Corrado revelado vivo (a Kal; el encuentro con Chiara, pendiente y decisión de ella).
 - Kal y Chiara ya decidieron construir una salida; no pueden ejecutarla aún.
 - San Aurelio con un enorme vacío de poder; todos esperan saber quién gobernará.
@@ -36,7 +36,7 @@ Palermo. Casa modesta azul, molduras blancas, jardín. Chiara con una copa de vi
 > **Chiara:** —No vayas a quemar de nuevo la cocina, amore.
 > **Kal:** —No prometo nada.
 
-Esta imagen cierra el arco inmediato de Kal y Chiara. El cierre definitivo de la saga se cobra, tras un salto de aproximadamente veinte años, en [[07_Ideas/Tres_Hermanas_Epilogo|«Tres Hermanas»]]: una escena en San Aurelio donde Riley, Marisol y Elenna viven su propia historia sin requerir la presencia ni validación de ellos. Elenna tiene 21 años. Unas semanas después, una historia futura hipotética puede seguir su regreso a San Aurelio como Recluta (tratamiento: Recluta Mercer); esa posibilidad queda fuera de este libro y no altera el cierre.
+Esta imagen cierra el arco inmediato de Kal y Chiara. El cierre definitivo de la saga se cobra, tras un salto de aproximadamente veinte años, en [[07_Ideas/Tres_Hermanas_Epilogo|«Tres Hermanas»]]: una escena en San Aurelio donde Bonnie, Marisol y Elenna viven su propia historia sin requerir la presencia ni validación de ellos. Elenna tiene 21 años. Unas semanas después, una historia futura hipotética puede seguir su regreso a San Aurelio como Recluta (tratamiento: Recluta Mercer); esa posibilidad queda fuera de este libro y no altera el cierre.
 
 ## Arcos de los protagonistas
 
@@ -49,7 +49,9 @@ Esta imagen cierra el arco inmediato de Kal y Chiara. El cierre definitivo de la
 
 ## Estructura macro
 
-### Apertura — ejecución pública de Halbrook
+### Apertura — después de Halbrook
+
+> **SUPERSEDIDO (2026-09-28, CANON DEL AUTOR):** la ejecución cierra el Libro III y no la hizo Kal: disparó Harper Walker, a quien Kal y Nadir cubren; se revela al final de este libro, cuando Nadir se lo cuenta a Chiara. El libro abre cargando Halbrook muerto, tirador desconocido, Chiara en coma, Héctor y Kenji muertos y Corrado frente a Kal. En POV de Kal, nada de rodeos artificiales alrededor de Harper. El párrafo siguiente queda como histórico.
 
 El libro abre con **Kal Mercer ejecutando públicamente a Warren Halbrook** (decisión tomada al final del Libro III — Voto de Ceniza). La muerte pública de un Brigadier General destruye la posibilidad de cerrar la crisis como problema local.
 
@@ -85,7 +87,7 @@ Cuando su ausencia ya no significa colapso, Kal y Chiara pueden salir. No dejan 
 
 ## Bisagra de cierre de saga
 
-`Halbrook ejecutado provoca Meridian; el vacío de Dario activa Il Consorzio; Kal y Chiara vuelven reemplazable su poder y salen hacia Elenna.`
+`La muerte de Halbrook (cierre del III; tiradora revelada al final: Harper) provoca Meridian; el vacío de Dario activa Il Consorzio; Kal y Chiara vuelven reemplazable su poder y salen hacia Elenna.`
 
 ## Límites del libro
 
@@ -108,4 +110,4 @@ Sin definir. Se crean cuando el autor apruebe el desglose y se cierren los Libro
 
 ---
 
-Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[03_Factions/Fuerza_de_Tarea_Meridian]] · [[03_Factions/Il_Consorzio]] · [[02_Characters/Elenna_Mercer]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] · [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]]
+Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[03_Factions/Fuerza_de_Tarea_Meridian]] · [[03_Factions/Il_Consorzio]] · [[02_Characters/Elenna_Mercer]] · [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] · [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] · [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]]

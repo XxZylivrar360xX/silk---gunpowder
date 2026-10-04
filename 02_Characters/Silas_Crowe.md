@@ -2,9 +2,9 @@
 
 ## Reconciliación macro — CANON DEL AUTOR 2026-09-20
 
-El incendio del loft cierra **Parte IV**; el desplazamiento precede a F4, F2 y Villa, que se reconstruye **después** del día Mei-Lin/Riley en Parte V. No es una mudanza inmediata hacia riqueza.
+El incendio del loft cierra **Parte IV**; el desplazamiento precede a F4, F2 y Villa, que se reconstruye **después** del día Mei-Lin/Bonnie en Parte V. No es una mudanza inmediata hacia riqueza.
 
-La caída de Silas corresponde al conflicto final de **Parte VI**, con mecanismo concreto pendiente. **SUPERSEDIDA POR DECISIÓN AUTORAL 2026-09-20** su función cronológica de caída obligatoria antes de Stavanger (viaje/anillo ahora en Parte V, después de Riley). Se conserva el material autoral sobre Dale/red de colocación y la derrota económica; no se ejecuta ni se adelanta automáticamente. **PENDIENTE DE RECONCILIACIÓN:** cómo llega a encajar la información de origen que la incubadora hacía depender de esa derrota; no inventar sustituto. También sigue pendiente ajustar la relación entre el cargamento antiguo y la autonomía de Kal al ocurrir H8.
+La caída de Silas corresponde al conflicto final de **Parte VI**, con mecanismo concreto pendiente. **SUPERSEDIDA POR DECISIÓN AUTORAL 2026-09-20** su función cronológica de caída obligatoria antes de Stavanger (viaje/anillo ahora en Parte V, después de Bonnie). Se conserva el material autoral sobre Dale/red de colocación y la derrota económica; no se ejecuta ni se adelanta automáticamente. **PENDIENTE DE RECONCILIACIÓN:** cómo llega a encajar la información de origen que la incubadora hacía depender de esa derrota; no inventar sustituto. También sigue pendiente ajustar la relación entre el cargamento antiguo y la autonomía de Kal al ocurrir H8.
 
 *Seda y Pólvora — Ficha de Personaje*
 
@@ -63,7 +63,7 @@ Odiar esa frase no es ideología. **Es autobiografía.** Y por eso el enfrentami
 
 ### El primer trato que nadie cuenta — CANON DEL AUTOR (2026-09-19)
 
-> **Resuelve un PENDIENTE de esta ficha y motiva [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] (BORRADOR PROPUESTO, no integrado al manuscrito).**
+> **Resuelve un PENDIENTE de esta ficha y motiva [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]] (BORRADOR PROPUESTO, no integrado al manuscrito).**
 
 Antes de ser "el Tasador" para todo el barrio, cuando todavía era sólo el hombre que le prestaba fácil a Dale Mercer, Silas hizo su primer trato de verdad. Dale le contó, borracho y ya quebrado, que Ruth no podía tener hijos y que eso la estaba consumiendo. Silas conocía a alguien — un contacto de una red de colocación que movía niños desde el norte de Europa hacia la costa oeste. Consiguió al bebé. Cobró por el favor, como cobra todo, pero se quedó con algo mejor que dinero: **una deuda que Dale nunca pudo terminar de pagar**, porque no era una deuda de dinero. Era una deuda de silencio.
 
@@ -103,7 +103,7 @@ Silas llegó y empezó a convertirlo todo en tarifa. Y Walt entendió al instant
 
 Silas necesitaba quitarse de encima a **uno de los pocos hombres lo bastante antiguos y respetados como para decirle que no.** Así que **consiguió que lo condenaran. Diez años** — una década entera para construir su reino sin él.
 
-> **RESUELTO (2026-09-03):** el mecanismo — Crowe intentó reclutar a Jim, el hijo de Walt, a espaldas de éste. Walt le partió el escritorio con una barreta al enterarse. Días después, esa misma barreta (con sus huellas reales, no fabricadas) apareció como arma en un asalto violento a una casa de empeños de Crowe. Crowe se aseguró además de que ningún abogado sostuviera el caso. Ver [[02_Characters/Walter_Keegan]] y [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/17_Cuentas_Claras|Capítulo 17]].
+> **RESUELTO (2026-09-03):** el mecanismo — Crowe intentó reclutar a Jim, el hijo de Walt, a espaldas de éste. Walt le partió el escritorio con una barreta al enterarse. Días después, esa misma barreta (con sus huellas reales, no fabricadas) apareció como arma en un asalto violento a una casa de empeños de Crowe. Crowe se aseguró además de que ningún abogado sostuviera el caso. Ver [[02_Characters/Walter_Keegan]] y [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/17_Cuentas_Claras|Capítulo 17]].
 
 **Y Walt sale justo cuando empieza la novela.** Ver su ficha.
 
@@ -133,6 +133,17 @@ El motivo declarado: **un cargamento que Kal no entregó a tiempo**, cuando toda
 
 > **PENDIENTE:** ¿cuál era la amenaza que venía después del incendio, la que Kal le ocultó a Chiara?
 
+### Siembras en el Libro I (*Máscaras de Cristal*)
+
+Crowe aparece en los Caps. 1, 3, 11 y 17. **Cap. 3 (reescrito 2026-09-29, canon del autor):** no entra en escena; encarga a Kal mover un cargamento de hierba a Cuadra Nueve, pagado (mitad por adelantado). Primer trabajo de Kal para Crowe en prosa, coherente con "cuando todavía trabajaba para él". El trabajo no se muestra; Kal se lo contará a Chiara más adelante. Walt no sabía que ahora le dicen el Tasador y repite el apodo con sorna ("el joyero" retirado por el autor, 2026-09-29). **Decidido por el autor (2026-09-29):** este trabajo NO se conecta con el cargamento no entregado del incendio. Entre el 18 y el 44 sólo se le ve **tasando el crecimiento de Kal**, sin acción (BORRADOR 2026-09-26, decisión del autor):
+
+| Cap. | Siembra |
+|---|---|
+| 32 | Después de que reabre la llantera de Portillo, Héctor cuenta que el Tasador mandó preguntar quién lo arregló y cuánto cobró. Respuesta: "nada". "Al muchacho no le gustó la respuesta." |
+| 37 | El de la ferretería de la esquina: el Tasador le subió la cuota "por la competencia" y quiere saber si la competencia es Kal. Kal no cobra cuotas; sólo anota el día de cobro. |
+
+Las dos preparan el incendio como cuota escalada y la caída como consecuencia de que Kal dé gratis lo que él vende. **No se inventó el cargamento no entregado:** sigue PENDIENTE.
+
 ---
 
 ## Relación con [[02_Characters/Dario_Varek]]
@@ -149,9 +160,11 @@ El motivo declarado: **un cargamento que Kal no entregó a tiempo**, cuando toda
 
 ---
 
+> **CANON DEL AUTOR (2026-10-03):** en *Sombras de Poder* Crowe es el **conflicto vertebral**: antagonismo activo que presiona el ascenso de Kal durante todo el libro; Dario sigue siendo la estructura superior. DISEÑO: la tormenta puede enseñarle que el código de Kal (no abandonar a los suyos) es explotable en H1. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]] ("Incubadora 2026-10-03").
+
 ## Pendientes
 
-> **RESUELTO EN PARTE (2026-09-03): apariencia.** Obeso — Walt se refiere a él como "el gordo hijo de puta" ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/17_Cuentas_Claras|Cap. 18]]). Edad y el resto del comportamiento siguen PENDIENTES.
+> **RESUELTO EN PARTE (2026-09-03): apariencia.** Obeso — Walt se refiere a él como "el gordo hijo de puta" ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/17_Cuentas_Claras|Cap. 18]]). Edad y el resto del comportamiento siguen PENDIENTES.
 
 > **PENDIENTE:** su lógica decente ([[00_Biblia/Principios_Narrativos]], principio 3). Propuesta a validar: cree sinceramente que **él es lo único que mantiene la Almendra funcionando** — que sin alguien que ponga precios, el barrio se devora a sí mismo. Que se equivoque no significa que mienta.
 

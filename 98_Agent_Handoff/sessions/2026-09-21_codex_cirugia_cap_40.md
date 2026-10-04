@@ -6,7 +6,7 @@ Fecha: 2026-09-21. Agente: Codex. Rama: develop. Modo: SURGERY por encargo expl�
 
 Se conserva título definitivo **Mecánico**, POV Kal y secuencia casa → viñedo → La Mesa → Ettore → Halbrook → partida comercial. Encargo del autor manda para correcciones de canon y orden; skill local editorial-surgery aplicada a la poda.
 
-Fuentes: [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]], fichas de Chiara, Alessio, Tommaso, Leone, Ettore y Halbrook; [[03_Factions/Il_Consorzio]], H17 en [[06_Relationships/Hitos]], Redaccion_De_Capitulos, voces de Kal/Chiara y políticas editoriales. Voces sin ficha propia: fichas de personaje y función institucional.
+Fuentes: [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]], fichas de Chiara, Alessio, Tommaso, Leone, Ettore y Halbrook; [[03_Factions/Il_Consorzio]], H17 en [[06_Relationships/Hitos]], Redaccion_De_Capitulos, voces de Kal/Chiara y políticas editoriales. Voces sin ficha propia: fichas de personaje y función institucional.
 
 ## Intervenciones: categoría, razón y función conservada
 
@@ -52,7 +52,7 @@ Cada intervención de prosa se registra una sola vez; razones y funciones en la 
 --- 40_Mecanico.md antes
 +++ 40_Mecanico.md despues
 @@ -3,7 +3,7 @@
- Protagonista: Kal Mercer (POV único, tercera persona cercana). Analepsis completa: todo el capítulo ocurre en Palermo, antes de la primera línea del [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/39_Un_Par_De_Dias_Mas|Cap. 39]].
+ Protagonista: Kal Mercer (POV único, tercera persona cercana). Analepsis completa: todo el capítulo ocurre en Palermo, antes de la primera línea del [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/39_Un_Par_De_Dias_Mas|Cap. 39]].
  Personajes con diálogo: Kal Mercer, Chiara Bellandi, Ettore, Leone Valenti, Livia Rinaldi.
  Presencia sin nombre desarrollado: personal de la casa, el encargado del viñedo.
 -Mencionado sin aparecer en persona: Warren Halbrook (llamada telefónica, sin pisar Italia); Tommaso Lusardi (fotografía).

@@ -6,9 +6,18 @@
 
 > **CANON DEL AUTOR (2026-09-15):** nombre de nacimiento y nombre adulto/legal del antagonista fijados — **Dylan Marsh** (nacimiento) → **Ethan Cole** (adulto/legal, tras adopción/cambio de custodia). Sustituye la propuesta anterior no aprobada "Adrian Ward". Retirado de `08_Pendientes_De_Autor.md`.
 
-## Evento fundacional — hace ~18 años
+> **CANON DEL AUTOR (2026-10-03, lote 3 PROYECTO RECLUTA) — la noche reconstruida.** Supersede lo que choque abajo (los pasajes afectados llevan nota). Supersesiones #38–#43 en [[00_Biblia/00_Trilogy_Structure]].
+>
+> - **Cuándo:** durante el Libro I, fuera de escena, entre la noche del taller del norte (Cap. 26) y el amanecer del [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/29_El_Patio_Ajeno|Cap. 29]]. Cuando Kal llama de madrugada y llega a la mansión, **Varek acaba de recibir al niño** y lo mantiene oculto durante la reunión. Lo que Vivian dice en el patio es código sobre el niño. Consecuencias: Nicholas carga a Vera **~22–24 años** (no 18–20) y **Ethan tiene ~27–29 en el V** (no 23–24).
+> - **Secuencia:** [[02_Characters/Blake_Stanton|Blake Stanton]] mata a la madre y luego ejecuta al padre, que es el asociado de bajo nivel de Varek. Deja en la casa un arma no registrada. Dylan ve una placa, no un rostro, y toma el arma. Vera llega después; Dylan la mata. Alguien avisa a Dario de que los Marsh fueron ejecutados, y Dario manda a Volpi. **Volpi** recoge el arma, desaparece los cuerpos de los padres, extrae a Dylan y lo entrega a la mansión.
+> - **Versión oficial:** el padre disparó a Vera y huyó con la madre. El padre es el "sospechoso oficial que desaparece". El cierre del V prueba que él no pudo disparar (DISEÑO: estaba herido en el suelo, lejos del ángulo), pero no que estuviera muerto: **"Vera no fue la primera víctima"** se reserva para el VII.
+> - **Omisión institucional:** la hereda **Elena Vega**, jefa recién llegada tras la muerte de Keene (que muere antes del Cap. 3). Deja correr la versión simple porque el Departamento ya está expuesto. Lucia, subjefa, no participa ni sospecha.
+> - **Nicholas perdió el rastro del niño:** le dijeron que se lo llevaron unos parientes. Honra un recuerdo, no a una persona. Ethan se le acerca de adulto como pareja de Elenna y Nicholas lo aprecia sin saber quién es. Supersede el "Uncle Nick".
+> - **Memoria de Ethan (DISEÑO, compatible con el canon 2026-09-16):** el "adulto armado" que cree recordar existe: es el hombre de la placa que mató a sus padres. Ethan funde a ese adulto con el disparo a Vera. Por eso su ritual castiga a policías: la placa es real; la autoría que se atribuye a ese adulto, no. El testimonio del VII separa las dos cosas.
 
-Época previa al ascenso de Kal Mercer. Departamento todavía marcado por Raymond Keene y arreglos territoriales en San Aurelio.
+## Evento fundacional — durante el Libro I *(antes "hace ~18 años"; ver arriba)*
+
+Época del arranque del ascenso de Kal Mercer (la madrugada del Cap. 29 es cuando Kal entra a la mesa de Varek). Departamento todavía marcado por la muerte de Raymond Keene y por arreglos territoriales en San Aurelio.
 
 Un niño de aproximadamente cinco o seis años — **Dylan Marsh** — vive en un hogar violento/problemático en **Canal Seco** (sur bajo de [[05_Locations/San_Aurelio|San Aurelio]], alrededor del canal de drenaje y mercados nocturnos, territorio de [[03_Factions/La_Ronda_del_Canal]]). Tiene acceso a un arma.
 
@@ -52,11 +61,23 @@ Forense/autopsia/ballística deben permanecer **ambiguas**, no mágicamente fals
 - compatible con niño o adulto disparando desde posición baja/recostada;
 - la versión oficial endurece la posibilidad “adulto en el suelo” hasta convertirla en relato dominante.
 
-Existe un adulto real en la casa —padre/padrastro/tío, violento y con conexiones criminales— que se convierte en sospechoso oficial y luego desaparece.
+Existe un adulto real en la casa —padre/padrastro/tío, violento y con conexiones criminales— que se convierte en sospechoso oficial y luego desaparece. *(2026-10-03: es el padre Marsh, ya muerto a manos de Blake; "desaparece" porque Volpi se lleva el cuerpo.)*
 
 > **CANON DEL AUTOR (2026-09-16):** las "conexiones criminales" de ese adulto son con la organización de [[02_Characters/Dario_Varek]] — un asociado de bajo nivel, no un mando. Esto es lo que explica por qué "corregir" la crisis beneficia también a Varek (ver [[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]], sección "Continuidad Varek/La Mesa") y por qué, más adelante, es la propia organización de Varek la que termina haciéndose cargo del niño. Nombre exacto del adulto sigue sin fijar; no bloquea el resto del diseño.
 
 Nicholas pasa años buscando al hombre equivocado.
+
+### La escena que encuentra Nicholas (lote 4, 2026-10-03)
+
+Fuente: nota PROYECTO RECLUTA `caso_marsh_vera_reconstruccion_noche` (archivada en `98_Agent_Handoff/archive/chatgpt/`), cruzada con el canon del lote 3. La nota describía "tres muertos y un adulto desconocido que huyó"; **gana el canon del lote 3** (Volpi se lleva los cuerpos de los padres; el sospechoso oficial es el padre).
+
+- **CANON (lote 3 + nota):** la misma arma no registrada sirvió a dos tiradores: Blake (los padres) y Dylan (Vera). Volpi llega después de Vera y antes que Nicholas; recoge el arma, se lleva al niño y los cuerpos. Cuando llega Nicholas, la casa tiene **un muerto (Vera), sangre del padre, ningún arma y ningún niño**.
+- **Método de Volpi (CANON, de la nota):** retira las piezas que permitirían demostrar la secuencia real; no fabrica una escena falsa perfecta. Su misión es contener el desastre, no averiguar la verdad.
+- **Hipótesis forense (DISEÑO adaptado):** la balística histórica puede ser correcta y la lectura, equivocada. Los proyectiles recuperados en la casa salen de una sola arma → "misma arma = un solo tirador" → **el padre**, herido, que huye con la madre. La sangre del padre se lee como parte de la pelea doméstica. El error está en la interpretación, no en datos falsificados. El cierre del V rompe la lectura (el padre estaba en el suelo, lejos del ángulo); el VII separa a los dos tiradores.
+- **Ventana abierta al fondo del pasillo (DISEÑO):** la salida de Volpi; refuerza la versión "huyó".
+- **Paranoia de Blake (CANON, en [[02_Characters/Blake_Stanton]]):** no sabe que Dylan vio algo; al saber que Vera murió, que el arma no apareció y que había un niño, entiende que alguien más intervino.
+
+**PENDIENTE (de la nota):** intervalos entre la muerte de los padres, la llegada de Vera, el disparo de Dylan, la llegada de Volpi y la de Nicholas; quién avisa a Dario y cómo se entera tan rápido; si Volpi sabe que Dylan disparó o sólo lo deduce; qué hace Volpi con el arma; si la ventana ya estaba abierta; cómo explica la versión oficial que un padre herido saliera cargando o acompañando a la madre.
 
 ## Encubrimiento
 
@@ -68,7 +89,7 @@ La opción más fuerte es que Nereo Volpi llegara **después del disparo** para 
 
 ## Antagonista adulto — Dylan Marsh / Ethan Cole
 
-Edad presente preferida: **23–24 años**, cercano a Elenna (21).
+Edad presente: ~~23–24 años~~ **~27–29 años en el V** (CANON 2026-10-03, por la noche en el Libro I).
 
 Nombre de nacimiento: **Dylan Marsh**. Nombre adulto/legal, tras adopción/cambio de custodia: **Ethan Cole**. La niñera/caregiver de la infancia conserva el nombre de nacimiento; no requiere falsificación infantil imposible.
 
@@ -124,7 +145,7 @@ En un nivel psicológico sigue “matando a Vera”. En un nivel consciente pued
 
 ## Relación previa con Nicholas
 
-Opción más fuerte:
+~~Opción más fuerte:~~ *(Superado 2026-10-03: Nicholas perdió el rastro del niño; ver arriba.)*
 
 Nicholas conoció al antagonista desde niño porque creyó que Vera murió intentando salvarlo de un adulto.
 

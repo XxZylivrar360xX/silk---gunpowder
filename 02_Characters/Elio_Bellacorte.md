@@ -2,7 +2,7 @@
 
 *Seda y Pólvora - Ficha de Personaje*
 
-> **CANON DEL AUTOR (2026-09-20, ampliado el mismo día):** hermano de [[02_Characters/Matteo_Bellacorte]]. No aparece en escena en el Libro I — su desaparición es la contingencia que Nereo Volpi ejecuta para podar a Matteo de San Aurelio. Ver [[06_Relationships/Hitos]] y [[01_Timeline/02_Libro_01_Seda_y_Polvora]], "Apertura de Parte III".
+> **CANON DEL AUTOR (2026-09-20, ampliado el mismo día):** hermano de [[02_Characters/Matteo_Bellacorte]]. No aparece en escena en el Libro I — su desaparición es la contingencia que Nereo Volpi ejecuta para podar a Matteo de San Aurelio. Ver [[06_Relationships/Hitos]] y [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]], "Apertura de Parte III".
 
 **Nacionalidad:** italiano.
 **Oficio:** el arquitecto financiero y societario de los negocios Bellacorte — no un contador de la mafia.
@@ -41,7 +41,7 @@ Elio rompe una rutina que jamás rompe: deja de responder a Matteo y falta a dos
 
 ## La carta que Matteo deja en el Monarch
 
-Distinta de la nota anterior: es puramente operativa, dirigida a Chiara, y ya está escrita en prosa en [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35 — Sin fecha de regreso]]. Núcleo canon:
+Distinta de la nota anterior: es puramente operativa, dirigida a Chiara, y ya está escrita en prosa en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35 — Sin fecha de regreso]]. Núcleo canon:
 
 > **Elio desapareció. Tengo que volver a Génova. No sé cuánto tardaré. Te llamaré cuando sepa algo.**
 
@@ -61,4 +61,4 @@ Seguido de pendientes reales del casino — nada siniestro.
 
 ---
 
-Ver también: [[02_Characters/Matteo_Bellacorte]] · [[02_Characters/Nereo_Volpi]] · [[01_Timeline/02_Libro_01_Seda_y_Polvora]]
+Ver también: [[02_Characters/Matteo_Bellacorte]] · [[02_Characters/Nereo_Volpi]] · [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]]

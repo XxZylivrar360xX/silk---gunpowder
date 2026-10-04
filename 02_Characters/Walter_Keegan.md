@@ -5,9 +5,11 @@
 > **CANON DEL AUTOR (2026-08-23).**
 
 **Rol:** el amigo del padre de Kal. **El hombre que recuerda quién era Kal antes de que Kal pudiera recordarse a sí mismo.**
-**Edad:** cincuenta y tantos o sesenta.
+**Edad:** 60 *(CANON DEL AUTOR, 2026-09-29; antes "cincuenta y tantos o sesenta"). Un año mayor que [[02_Characters/Mabel_Ortiz|Mabel]] (59).*
 **Territorio:** la Almendra. Ver [[05_Locations/San_Aurelio]].
 **Estado:** vivo, y **recién salido de prisión** cuando empieza la novela.
+**Hijos:** [[02_Characters/Jim_Keegan|Jim]] (†, Afganistán) y [[02_Characters/Natalie_Keegan|Natalie "Nat"]], la menor. CANON DEL AUTOR (2026-09-26): bombera-paramédica; estuvo en su audiencia y lo recibe a la salida junto a Kal y Héctor (ya escrito en el Cap. 3, BORRADOR). Su esposa, **Amanda Keegan**, murió en un asalto que terminó en homicidio con Walt ya preso. Él se enteró adentro.
+**Amor maduro — CANON DEL AUTOR (2026-09-29):** [[02_Characters/Mabel_Ortiz|Mabel Ortiz]], su amor de secundaria que no fue; ella es viuda (causa natural), él viudo desde que entró a prisión, aproximadamente. Detalle, DISEÑO y pendientes en la ficha de Mabel. Se casan en *Sombras de Poder*, Parte II, antes de Stavanger, en la terraza del Monarch (CANON DEL AUTOR, 2026-09-29): [[01_Timeline/03_Libro_02_Sombras_De_Poder#La boda de Mabel y Walt — la terraza del Monarch]].
 
 **Apariencia — CANON DEL AUTOR (2026-09-01):** mestizo, americano y latino. Calvo, piel morena clara. Barba de candado gris. Vestimenta neutra — nada que llame la atención — pero siempre con botas de cazador, pase lo que pase.
 
@@ -21,7 +23,7 @@
 
 **Distinción de reparto:** Héctor tiene pelo abundante, camisa de cuadros y cercanía de taller; Walt se reconoce por la cabeza despejada, el candado y la sobriedad de la ropa. Son apoyos de silueta, no una sustitución de sus funciones distintas en la vida de Kal.
 
-**Control de continuidad:** el rótulo de la lámina propone **58–60 años** y un origen en el sur de California. No se adoptan como datos nuevos: la ficha mantiene «cincuenta y tantos o sesenta» y no fija lugar de nacimiento. Las botas de cazador siguen siendo obligatorias aunque el encuadre no las muestre. `Walt_Keegan.png` corresponde a esta ficha de **Walter Keegan**, no a otro personaje.
+**Control de continuidad:** el rótulo de la lámina propone **58–60 años** y un origen en el sur de California. La edad quedó fijada después en 60 (CANON DEL AUTOR, 2026-09-29), dentro del rango de la lámina; el origen no se adopta y la ficha no fija lugar de nacimiento. Las botas de cazador siguen siendo obligatorias aunque el encuadre no las muestre. `Walt_Keegan.png` corresponde a esta ficha de **Walter Keegan**, no a otro personaje.
 
 Catálogo y criterio de uso: [[99_Reference/character_art/README]].
 
@@ -71,7 +73,7 @@ Silas, por su parte, necesita quitarse de encima a **uno de los pocos hombres lo
 
 Así que **consigue que Walt termine condenado. Diez años.**
 
-> **RESUELTO (2026-09-03), escrito en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/17_Cuentas_Claras|Capítulo 17, sección "Anticiparse"]]:** el mecanismo exacto. Crowe intentó reclutar a **Jim**, el hijo de Walt, sin que Walt lo supiera — trabajos chicos, mandados, metiéndolo despacio en su mundo. Cuando Walt se enteró, fue a la oficina de Crowe y le partió el escritorio con una barreta, sin tocarlo a él. Tres días después, un guardia terminó gravemente herido en un asalto a una casa de empeños de Crowe — y la misma barreta, con las huellas de Walt todavía en ella (movida de lugar, no fabricada), apareció en la escena. Crowe no tuvo que inventar evidencia: la evidencia ya existía, solo tuvo que reposicionarla. Tres abogados aceptaron el caso y se echaron atrás en una semana sin explicar por qué; el defensor de oficio asignado estaba desbordado. Diez años. En la misma escena, Walt se pregunta si Crowe todavía tiene ese alcance sobre el sur de la ciudad — el rumor que le costó a Nadir y Danny la bodega de La Ronda le suena exactamente igual. Nadir sugiere que podría ser Darío; Walt lo descarta ("no se ensucia las manos con un rumor de barrio"), pero el capítulo deja la duda abierta.
+> **RESUELTO (2026-09-03), escrito en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/17_Cuentas_Claras|Capítulo 17, sección "Anticiparse"]]:** el mecanismo exacto. Crowe intentó reclutar a **Jim**, el hijo de Walt, sin que Walt lo supiera — trabajos chicos, mandados, metiéndolo despacio en su mundo. Cuando Walt se enteró, fue a la oficina de Crowe y le partió el escritorio con una barreta, sin tocarlo a él. Tres días después, un guardia terminó gravemente herido en un asalto a una casa de empeños de Crowe — y la misma barreta, con las huellas de Walt todavía en ella (movida de lugar, no fabricada), apareció en la escena. Crowe no tuvo que inventar evidencia: la evidencia ya existía, solo tuvo que reposicionarla. Tres abogados aceptaron el caso y se echaron atrás en una semana sin explicar por qué; el defensor de oficio asignado estaba desbordado. Diez años. En la misma escena, Walt se pregunta si Crowe todavía tiene ese alcance sobre el sur de la ciudad — el rumor que le costó a Nadir y Danny la bodega de La Ronda le suena exactamente igual. Nadir sugiere que podría ser Darío; Walt lo descarta ("no se ensucia las manos con un rumor de barrio"), pero el capítulo deja la duda abierta.
 
 Y Silas tiene **una década entera** para construir su pequeño reino sin él.
 
@@ -90,6 +92,8 @@ Y Silas Crowe entiende al instante lo que significa: **uno de los pocos hombres 
 > **Lo mejor de esto: Walt no necesita entrar diciendo que quiere venganza.** Puede volver a su casa, pedirse una cerveza, ir a ver a Héctor — **y hacer que Crowe se ponga nervioso solo.**
 >
 > Es la mejor prueba posible de la tesis del Tasador y su contraria a la vez: Silas cree que todo tiene precio, y lo que lo pone nervioso es **un hombre que no le debe nada.**
+
+> **SUPERSEDIDO EN PARTE (2026-09-29, autor, reapertura del Cap. 3):** el porche con cervezas se retiró. El núcleo del capítulo es Walt volviendo a un mundo que cambió: salida (Nat ya está ahí), cementerio inmediatamente después, la Almendra (donde Nat está en casa), presentación con Nadir y Danny, y el trabajo del Tasador que Kal plantea delante de él. La línea del resentimiento (ahora "Estoy un poco resentido con el... 'Tasador'"; "el joyero" retirado por el autor, 2026-09-29), la libertad condicional, "legal es el camino más corto" y "si hay problema, respondo" pasaron a esa escena; Walt no va al trabajo. Nueva (DISEÑO): Walt no sabía que ahora le dicen el Tasador y repite el apodo con sorna; a "le hago un trabajo" de Kal contesta "Eso decía tu padre". El pacto de "los viejos días, renovados y con sangre nueva" ya no se dice: se ve.
 
 **CANON DEL AUTOR (2026-08-24):** en el Capítulo 3, Kal y Héctor van a recibirlo cuando sale de prisión. Walt vuelve queriendo cuidar su libertad condicional y mantenerse del lado legal de la vida, aunque deja claro que si llega a haber problema, responderá. En el porche, con cervezas, menciona que sigue un poco resentido con "el joyero", pero ahora valora más estar afuera.
 
@@ -135,7 +139,7 @@ Walt empieza a seguir, sin decirlo así, el mismo método de Kal para hacer nego
 ## Apariciones canon
 
 - **[[06_Relationships/Hitos#H5 — San Aurelio|H5 — San Aurelio]], sección 12** — Kal le manda un mensaje el día que sale de la ciudad de emergencia. Canon funcional del texto: *"Cuida el barrio. Si Chiara necesita algo, ayúdala sin chistar."* *(Qué desencadena la salida: PENDIENTE.)*
-- **[[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/26_Me_Encuentro_Bien|Capítulo 26 — Me encuentro bien]]** (BORRADOR) — Chiara va a la destilería a preguntarle si sabe algo de Kal. Primero hablan de negocio (un lote atrasado, el método de Kal "en otra boca"); Walt le enseña su propio mensaje de Kal, lo que confirma que la salida fue planeada. Le desaconseja "levantar las piedras" de esta ciudad. Al cerrar, sobre lo que hay entre ella y Kal: dice que sabe de qué casa salió el muchacho, que pagó de niño una cuenta que no abrió, y suelta su línea — *"Le creo a su palabra, señorita. A su corazón todavía no lo conozco lo suficiente para creerle lo mismo. Eso voy a tener que verlo con mis ojos."* Botas de cazador; usted con Chiara.
+- **[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/26_Me_Encuentro_Bien|Capítulo 26 — Me encuentro bien]]** (BORRADOR) — Chiara va a la destilería a preguntarle si sabe algo de Kal. Primero hablan de negocio (un lote atrasado, el método de Kal "en otra boca"); Walt le enseña su propio mensaje de Kal, lo que confirma que la salida fue planeada. Le desaconseja "levantar las piedras" de esta ciudad. Al cerrar, sobre lo que hay entre ella y Kal: dice que sabe de qué casa salió el muchacho, que pagó de niño una cuenta que no abrió, y suelta su línea — *"Le creo a su palabra, señorita. A su corazón todavía no lo conozco lo suficiente para creerle lo mismo. Eso voy a tener que verlo con mis ojos."* Botas de cazador; usted con Chiara.
 
 ---
 
@@ -151,4 +155,4 @@ Walt empieza a seguir, sin decirlo así, el mismo método de Kal para hacer nego
 
 ---
 
-Ver también: [[02_Characters/Kal_Mercer]] · [[02_Characters/Hector_Navarro]] · [[02_Characters/Silas_Crowe]] · [[03_Factions/Almendra_Towing]]
+Ver también: [[02_Characters/Kal_Mercer]] · [[02_Characters/Natalie_Keegan]] · [[02_Characters/Hector_Navarro]] · [[02_Characters/Silas_Crowe]] · [[03_Factions/Almendra_Towing]]

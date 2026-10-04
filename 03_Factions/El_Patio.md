@@ -46,7 +46,7 @@ Esa ubicación le da tres ventajas:
 
 El patio físico existe desde antes (es el patio de grúas de Almendra Towing, y la calle ya dice "el patio" y "los del Patio" desde la Fase III). Lo que fija el autor es **de dónde saca Kal el nombre cuando la estructura necesite uno**: de Chiara.
 
-En [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/38_Al_Reves|Cap. 38]], Chiara le explica por fin el cifrado de [[03_Factions/Red_Civil_de_Chiara|i Sussurri]]: ROMA al revés es AMOR, y "Atrii" es su traducción privada — **"Mi amor del patio."** Kal repite "Del patio" y se lo guarda "como quien se guarda una llave en el bolsillo". Ese residuo es el origen del nombre.
+En [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 38]], Chiara le explica por fin el cifrado de [[03_Factions/Red_Civil_de_Chiara|i Sussurri]]: ROMA al revés es AMOR, y "Atrii" es su traducción privada — **"Mi amor del patio."** Kal repite "Del patio" y se lo guarda "como quien se guarda una llave en el bolsillo". Ese residuo es el origen del nombre.
 
 **Reglas:**
 
@@ -138,7 +138,7 @@ Nombre privado de Chiara para el núcleo joven.
 - **[[02_Characters/Harper_Walker|Harper "Sparks" Walker]]** — norte rural, conducción, terreno.
 - **[[02_Characters/Tyler_Brooks|Tyler "Switch" Brooks]]** — carreras, convocatoria, red informal.
 - **[[02_Characters/Mei_Lin_Zhao]]** — ex banda rival, conducción fría, memoria de una organización caída.
-- **[[02_Characters/Riley_Bennett]]** — ex banda rival, protegida de Chiara, aprendizaje de lectura de escenarios.
+- **[[02_Characters/Bonnie_Garcia]]** — ex banda rival, protegida de Chiara, aprendizaje de lectura de escenarios.
 
 ### Consolidación
 

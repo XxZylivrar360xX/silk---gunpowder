@@ -48,7 +48,7 @@ Esa misma noche se enteró de que **las tres mellizas no eran hijas suyas.** No 
 
 ## Lo que siente por Kal — DISEÑO (2026-08-26)
 
-Después de H6 —cuando Kal se ofrece a trabajar para él— Varek empieza a desarrollar algo que nunca nombra, ni siquiera para sí mismo: **un amor romántico no correspondido y frustrado hacia Kal.**
+Después de H6 —cuando Kal entra en su organización (en la prosa del Cap. 29, Varek le ofrece la silla; nota 2026-09-27)— Varek empieza a desarrollar algo que nunca nombra, ni siquiera para sí mismo: **un amor romántico no correspondido y frustrado hacia Kal.**
 
 No se declara nunca ni aparece como pensamiento explícito. Se ve en la conducta:
 
@@ -100,7 +100,7 @@ La obediencia que produce es rápida y profunda, pero no leal. Las bandas no lo 
 
 Las organizaciones menores relevantes están en [[03_Factions/Bandas_Menores_de_San_Aurelio]]: cuatro del sur, dos del norte y una banda motociclista costera. Varek no las maneja como empleados; las maneja como clima.
 
-> **DISEÑO — trasfondo, NUNCA en prosa (2026-09-03):** el rumor que le llega a Danny sobre la bodega de La Ronda del Canal ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/15_El_Porton|Cap. 16]]; consecuencias en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/17_Cuentas_Claras|Cap. 18, secciones *Cuentas claras* y *Anticiparse*]]) es exactamente ese "clima": demasiado preciso para ser chisme de barra, nacido de alguien con acceso real al Canal Seco que Danny conoció "jugando billar cerca del Monarch". Varek se beneficia de que El Patio y La Ronda queden enemistados en vez de fusionar territorio o información — dos bandas del sur en fricción es más fácil de leer, y más fácil de gobernar, que dos bandas del sur aliadas. **Los personajes no llegan a identificar el origen ni la razón; el lector, si conecta esta ficha, puede sospechar.** No confirmar ni nombrar a Varek como la fuente en ningún capítulo futuro sin que el autor lo decida explícitamente — esto es telón de fondo, no una revelación programada.
+> **DISEÑO — trasfondo, NUNCA en prosa (2026-09-03):** el rumor que le llega a Danny sobre la bodega de La Ronda del Canal ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/15_El_Porton|Cap. 16]]; consecuencias en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/17_Cuentas_Claras|Cap. 18, secciones *Cuentas claras* y *Anticiparse*]]) es exactamente ese "clima": demasiado preciso para ser chisme de barra, nacido de alguien con acceso real al Canal Seco que Danny conoció "jugando billar cerca del Monarch". Varek se beneficia de que El Patio y La Ronda queden enemistados en vez de fusionar territorio o información — dos bandas del sur en fricción es más fácil de leer, y más fácil de gobernar, que dos bandas del sur aliadas. **Los personajes no llegan a identificar el origen ni la razón; el lector, si conecta esta ficha, puede sospechar.** No confirmar ni nombrar a Varek como la fuente en ningún capítulo futuro sin que el autor lo decida explícitamente — esto es telón de fondo, no una revelación programada.
 
 El centro viejo queda fuera de ese reparto. Nadie sostiene mercado permanente junto a hospitales, Ayuntamiento, juzgados y comisarías: demasiado uniforme, demasiada cámara, demasiada prensa cerca.
 
@@ -160,6 +160,8 @@ La llegada de [[02_Characters/Elena_Vega]] es una consecuencia que Varek subesti
 
 En [[06_Relationships/Hitos]], H6: **Kal se ofrece a trabajar para él, como parte de la organización.**
 
+> **Nota (2026-09-27, housekeeping de la auditoría de la Parte II, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]]):** en la prosa del [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/29_El_Patio_Ajeno|Cap. 29]] Kal no lo pide: conduce a Varek a ofrecerle la silla y la acepta. Varek cree que lo absorbe; Kal cree que usa la estructura. Ver la nota en Hitos H6 §5.
+
 A cambio, Kal pide **seguridad para Chiara**. Y trae con qué pagarlo: **una entrada a [[05_Locations/Camp_Alder]]** para sacar armamento largo y venderlo en la ciudad.
 
 **Varek acepta** — y con eso **desvía momentáneamente su atención de Chiara.**
@@ -172,13 +174,15 @@ A cambio, Kal pide **seguridad para Chiara**. Y trae con qué pagarlo: **una ent
 
 ## El disturbio de Camp Alder — EJECUTADO EN PROSA (2026-09-21, Claude Sonnet 5)
 
-[[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/39_Un_Par_De_Dias_Mas|Cap. 39]] (corregido 2026-09-21 por encargo del autor). Kal comunica fecha y ventana: el catorce, de dos a dos cuarenta. Dario confirma ruido al otro lado del perímetro para mover atención y abrir la ventana. No se especifican mecanismo, emergencia ni duración táctica. Sus hombres no entran; entran los de Kal. Cierra: "Las armas, Mercer. Completas." / "Van a estar completas." Sin antecedente nuevo de pagos incompletos. Cuelga sin despedirse; no habla de Chiara ni de Palermo.
+[[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/39_Un_Par_De_Dias_Mas|Cap. 39]] (corregido 2026-09-21 por encargo del autor). Kal comunica fecha y ventana: el catorce, de dos a dos cuarenta. Dario confirma ruido al otro lado del perímetro para mover atención y abrir la ventana. No se especifican mecanismo, emergencia ni duración táctica. Sus hombres no entran; entran los de Kal. Cierra: "Las armas, Mercer. Completas." / "Van a estar completas." Sin antecedente nuevo de pagos incompletos. Cuelga sin despedirse; no habla de Chiara ni de Palermo.
+
+> **CANON DEL AUTOR (2026-10-03):** en *Sombras de Poder* Kal aprende desde dentro su arquitectura (bandas, miedo, rutas, narcóticos, acuerdos, piezas sacrificables). La tormenta expone que Dario sacrifica peones sin escrúpulo, en contraste con Kal, que intenta sacar vivos incluso a sus enemigos. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]] ("Incubadora 2026-10-03").
 
 ## Apariciones canon
 
-- **[[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/02_Demasiado_Listo]]** — Chiara lo conoce al llegar al Monarch, en el segundo capítulo provisional. Primera aparición del lector bajo el nuevo montaje.
+- **[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo]]** — Chiara lo conoce al llegar al Monarch, en el segundo capítulo provisional. Primera aparición del lector bajo el nuevo montaje.
 - **[[06_Relationships/Hitos]], H3-b** — conversación con Chiara en la entrada de Gabriella's, de salida, justo antes de que aparezca Kal. Ya no es su primera aparición, pero sigue siendo su primera escena de presión directa sobre ella si el montaje actual se conserva.
-- **[[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/26_Me_Encuentro_Bien|Capítulo 26 — Me encuentro bien]]** (BORRADOR) — ejecuta la **confrontación Dario–Chiara** de [[06_Relationships/Hitos#H5 — San Aurelio|H5]] en el taller del norte: las tres líneas canon (*"Trabajas para mí. No conmigo." / "¿Te estás acostando con él?" / "…entonces lo vas a hacer tú."*) + *"vas a aprender tu lugar"*. Cortés y sin subir la voz incluso al amenazar; tutea a Chiara como gesto de poder; el arma nunca se nombra (sólo el frío del galpón). La deja ir por cálculo, no por piedad. La advertencia de madrugada tras el jacuzzi entra en el mismo capítulo como recuerdo de Chiara.
+- **[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/26_Me_Encuentro_Bien|Capítulo 26 — Me encuentro bien]]** (BORRADOR) — ejecuta la **confrontación Dario–Chiara** de [[06_Relationships/Hitos#H5 — San Aurelio|H5]] en el taller del norte: las tres líneas canon (*"Trabajas para mí. No conmigo." / "¿Te estás acostando con él?" / "…entonces lo vas a hacer tú."*) + *"vas a aprender tu lugar"*. Cortés y sin subir la voz incluso al amenazar; tutea a Chiara como gesto de poder; el arma nunca se nombra (sólo el frío del galpón). La deja ir por cálculo, no por piedad. La advertencia de madrugada tras el jacuzzi entra en el mismo capítulo como recuerdo de Chiara.
 
 ---
 
@@ -197,3 +201,7 @@ A cambio, Kal pide **seguridad para Chiara**. Y trae con qué pagarlo: **una ent
 ---
 
 Ver también: [[03_Factions/El_Casino]] · [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Kal_Mercer]]
+
+## Noche Marsh (lote 3, 2026-10-03, CANON DEL AUTOR)
+
+Dario no ordena la muerte de los Marsh (el padre era asociado suyo de bajo nivel). Alguien le avisa y él manda a [[02_Characters/Nereo_Volpi|Volpi]] a contener el desastre. Absorbe al niño como cabo suelto según la lógica de su mundo. **La madrugada del Cap. 29 acaba de recibir al niño en la mansión y lo esconde mientras negocia con Kal.** No es responsable retroactivo de todo el caso. PENDIENTE: quién le avisa y qué sabía del arma y de Vera. Ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]].

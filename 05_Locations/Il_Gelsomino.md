@@ -26,6 +26,10 @@ Ese detalle prepara H2-a: la primera cena con Chiara no sale de la nada; Kal ya 
 - El humor del personal debe venir de rutina laboral, no de color local.
 - Cuando Kal use la terraza para impresionar, el lector debe recordar que antes entro por cocina.
 
+## Chistes recurrentes
+
+- **Pizza de calabaza** (canon del autor, 2026-10-01): especialidad de Halloween de la primera cena (Cap. 5), hecha con calabaza naranja, no verde; Enzo la ofrece haciéndose el mesero de alcurnia y Claudio la manda aunque pidieron pasta. Se vuelve chiste local entre Kal y Chiara (primer pago: Cap. 6).
+
 ## Conexiones
 
 - [[02_Characters/Kal_Mercer]]

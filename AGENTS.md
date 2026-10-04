@@ -2,11 +2,15 @@
 
 Guía operativa para agentes que trabajen en este vault.
 
-Este repositorio es primordialmente un vault de Obsidian para la novela original *Seda y Pólvora*, no una aplicación de software. Puede contener herramientas locales auxiliares bajo `tools/` (EPUB, auditoría editorial), preferentemente sin dependencias externas. El trabajo principal consiste en leer, ordenar, documentar y editar Markdown con cuidado de canon.
+Este repositorio es primordialmente un vault de Obsidian para la saga original *Seda y Pólvora* (Libro I: *Máscaras de Cristal*), no una aplicación de software. Puede contener herramientas locales auxiliares bajo `tools/` (EPUB, auditoría editorial), preferentemente sin dependencias externas. El trabajo principal consiste en leer, ordenar, documentar y editar Markdown con cuidado de canon.
 
 ## Regla Principal
 
 Lee [`CLAUDE.md`](CLAUDE.md) y [`98_Agent_Handoff/START_HERE.md`](98_Agent_Handoff/START_HERE.md) al inicio de cualquier sesión sustantiva. `CLAUDE.md` debe mantenerse corto; el contexto operativo vive en `98_Agent_Handoff/`.
+
+## Rol De Codex (desde 2026-10-03)
+
+Claude Code es el maintainer principal del repositorio. Codex es **apoyo de mantenimiento por encargo**: auditorías pequeñas, análisis cortos, sustituciones masivas, enlaces, frontmatter e índices. No redacta prosa, no toca canon ni estructura macro y no actualiza `CURRENT_BRIEF.md`, `PENDING.md` ni `DECISIONS.md` por iniciativa propia; al terminar deja reporte en `98_Agent_Handoff/sessions/AAAA-MM-DD_codex_para_claude_tema.md`. Contrato completo en [`98_Agent_Handoff/AGENT_ROLES.md`](98_Agent_Handoff/AGENT_ROLES.md).
 
 `log.md` es un índice breve. El historial vive en `98_Agent_Handoff/sessions/` y `98_Agent_Handoff/archive/`: usa `rg` y no leas archivos históricos completos salvo petición explícita.
 
@@ -51,6 +55,8 @@ Usa `98_Agent_Handoff/` para handoffs compactos.
 - `archive/`: historial íntegro y entradas retiradas; no tratarlo como instrucciones actuales.
 
 Registrar el detalle una sola vez en una nota de sesión; en `log.md` sólo un enlace de una línea (máximo 30 recientes). No anteponer relatos de sesión al brief o a pendientes. Protocolo de rotación en `START_HERE.md`.
+
+Las regeneraciones rutinarias de EPUB y PDF no requieren anotación individual en `CLAUDE.md`, `AGENTS.md`, `log.md` o `98_Agent_Handoff/`, ni crear una nota de sesión. Registra solo decisiones, cambios de proceso o hitos editoriales que deban conservarse como contexto.
 
 Al cerrar una sesion, actualiza `CURRENT_BRIEF.md` si cambio el foco de trabajo. Si hubo una decision importante, agregala tambien a `DECISIONS.md`.
 

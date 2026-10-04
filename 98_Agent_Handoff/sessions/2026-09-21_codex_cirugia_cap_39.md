@@ -2,7 +2,7 @@
 
 Modo: SURGERY + verificación acotada. Encargo expreso del autor; estructura aprobada, título confirmado, Estado: BORRADOR. Trabajo en develop; sin EPUB, commit ni push.
 
-Capítulo: [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/39_Un_Par_De_Dias_Mas]].
+Capítulo: [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/39_Un_Par_De_Dias_Mas]].
 
 ## Intervenciones
 
@@ -402,7 +402,7 @@ Confirma una distracción al otro lado del perímetro en la ventana comunicada, 
 
 ## Protecciones y verificación
 
-Orden de escenas, POV Kal, título y BORRADOR intactos. Protegidos: vuelo comercial, maleta, villa, Riley, carrera/Ruta de Milla/seis, Héctor, mensaje completo de Halbrook, hombres de Kal sin los de Dario, armas, prácticas abiertas, comida, loft, balcón y La Almendra. No se cuenta Palermo ni se diseña el disturbio. Sin canon nuevo.
+Orden de escenas, POV Kal, título y BORRADOR intactos. Protegidos: vuelo comercial, maleta, villa, Bonnie, carrera/Ruta de Milla/seis, Héctor, mensaje completo de Halbrook, hombres de Kal sin los de Dario, armas, prácticas abiertas, comida, loft, balcón y La Almendra. No se cuenta Palermo ni se diseña el disturbio. Sin canon nuevo.
 
 ## Autocrítica
 

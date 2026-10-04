@@ -1,16 +1,16 @@
 # C06 — REDIRECT STUB formalizado / excluido del EPUB (2026-09-15/16, Claude Code)
 
-Encargo del autor: formalizar que [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/06_Una_Amiga]] no es un capítulo narrativo y evitar que vuelva a entrar al EPUB, sin renumerar C07+ ni romper enlaces históricos.
+Encargo del autor: formalizar que [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Una_Amiga]] no es un capítulo narrativo y evitar que vuelva a entrar al EPUB, sin renumerar C07+ ni romper enlaces históricos.
 
 ## Contexto
 
-C06 contiene únicamente una nota de redirección desde 2026-09-10 (BLOQUE 2 de PLAN_CIRUGIA_EDITORIAL_PARTE_I): el capítulo fue fusionado con el antiguo Cap. 5, cuya prosa vive en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/05_La_Casa_No_Quiere_Ruido]] bajo el título «Una amiga». El archivo se conserva solo para no romper enlaces existentes mientras la renumeración global sigue pendiente.
+C06 contiene únicamente una nota de redirección desde 2026-09-10 (BLOQUE 2 de PLAN_CIRUGIA_EDITORIAL_PARTE_I): el capítulo fue fusionado con el antiguo Cap. 5, cuya prosa vive en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05_La_Casa_No_Quiere_Ruido]] bajo el título «Una amiga». El archivo se conserva solo para no romper enlaces existentes mientras la renumeración global sigue pendiente.
 
 `tools/epub-build/build_epub.py` recopilaba antes todos los `*.md` de cada carpeta `Part_*` sin distinguir capítulos narrativos de redirects/stubs, así que C06 aparecía en el EPUB como «Capítulo 6 — fusionado con el Capítulo 5».
 
 ## 1. Directiva en C06
 
-Añadida al inicio del comentario HTML de [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/06_Una_Amiga]]:
+Añadida al inicio del comentario HTML de [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Una_Amiga]]:
 
 ```
 EPUB: EXCLUDE
@@ -46,7 +46,7 @@ Ejecutado `python tools/epub-build/build_epub.py`. Log relevante:
 
 ```
 + .../05_La_Casa_No_Quiere_Ruido.md
-- excluded from EPUB: 11_Books\Book_01_Seda_y_Polvora\Part_01_Dos_Mundos\06_Una_Amiga.md
+- excluded from EPUB: 11_Books\Book_01_Mascaras_De_Cristal\Part_01_Dos_Mundos\06_Una_Amiga.md
 + .../07_Ambos.md
 ...
 EPUB ready: .../output/Seda_y_Polvora.epub

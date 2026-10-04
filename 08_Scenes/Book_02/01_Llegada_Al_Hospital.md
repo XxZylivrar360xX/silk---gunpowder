@@ -2,7 +2,7 @@
 
 > **Estado:** BORRADOR NARRATIVO solicitado por el autor (2026-09-12). Primera escena de la apertura en flashforward de *Voto de Ceniza*.
 >
-> **Alcance:** sólo la llegada de Kal y Chiara al hospital. No muestra el nacimiento, a la bebé, la falsa muerte, su mecanismo, la entrega, Riley ni Italia. Esos movimientos pertenecen a escenas posteriores.
+> **Alcance:** sólo la llegada de Kal y Chiara al hospital. No muestra el nacimiento, a la bebé, la falsa muerte, su mecanismo, la entrega, Bonnie ni Italia. Esos movimientos pertenecen a escenas posteriores.
 
 La ciudad empezaba a ponerse azul cuando Kal dobló hacia urgencias.
 

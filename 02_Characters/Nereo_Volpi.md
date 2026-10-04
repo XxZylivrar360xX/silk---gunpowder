@@ -27,7 +27,7 @@ No tratarlo como una copia de un villano caótico ni reducirlo a una etiqueta cl
 
 Nereo es su reverso negable. No sustituye a Valenti ni recibe voto propio. Hace posible que La Mesa diga, con verdad técnica, que nunca ordenó lo que ocurrió.
 
-## Participación en Libro I — *Seda y Polvora*
+## Participación en Libro I — *Mascaras de Cristal*
 
 El primer trabajo de Nereo que afecta la novela no ocurre en San Aurelio: desaparece a [[02_Characters/Elio_Bellacorte|Elio Bellacorte]], hermano de [[02_Characters/Matteo_Bellacorte|Matteo Bellacorte]], en **Génova, Italia** (ciudad resuelta y corregida 2026-09-20). No hay violencia mostrada ni cadáver: Elio rompe una rutina que jamás rompe (deja de responder, falta a dos compromisos profesionales seguidos), y una pieza de información privada distinta llega a Matteo y lo convence de que esto no se resuelve por teléfono — esa nota nunca la ve Chiara ni el lector en Parte III.
 
@@ -61,6 +61,8 @@ La verdad de su lealtad a Varek se revela hasta que Varek ya está encarcelado, 
 
 Después de Keene, Volpi entra como un desconocido al departamento del norte de [[02_Characters/Tommaso_Lusardi|Tommaso Lusardi]] y lo ejecuta sentado en la banca de su terraza. La composición recuerda el cadáver de Keene en Plaza Corona: una muerte expuesta, casi quieta, hecha para ser vista antes de ser comprendida.
 
+> **DISEÑO del autor (2026-09-26): el invitado de la mesa tres.** En el primer torneo del Monarch ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/12_Roma_Atrii|Cap. 12]]), un invitado sin nombre que dice haber jugado con Alessio en Palermo le cuenta a Tommaso "la versión" de Chiara (escalón 3 de la escalera de presión, ver [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]]). Es Volpi con otro nombre, trabajando para Varek, que ya había preguntado por Palermo en el Cap. 5. **Lo de Alessio es tapadera:** Volpi no lo conoció ni sabe qué le pasó. Fabrizio está en ese mismo torneo. **Consecuencia para esta escena:** "entra como un desconocido" vale para la ciudad y la policía, **no para Tommaso**, que le abre la puerta a un hombre que conoció una sola vez, como amigo de Alessio. **Reglas:** la identidad no se confirma en el Libro I; el 12 no se toca; la pista apunta a Palermo y a La Mesa, nunca a Varek. Pago retroactivo pendiente de capítulo.
+
 La policía local y la prensa empiezan a plantear un asesino serial. Tras meses sin otro ataque, esa hipótesis se descarta. No era un asesino serial: eran intervenciones separadas cuyo vínculo real nadie podía probar todavía.
 
 Ya en *Cuentas de Sangre*, después de la apertura canónica con la ejecución pública de Halbrook, un tercer asesinato —víctima pendiente— reactiva el patrón. Es la carta de presentación operativa de La Mesa en San Aurelio y el expediente paralelo que Meridian hereda mientras escala por la crisis federal. La investigación debe revelar que Keene, Tommaso y el tercer caso siempre estuvieron conectados; no porque Kal y Chiara los ordenaran, sino porque los motivos de cada muerte orbitaban su ascenso, sus alianzas y las presiones que se ejercían sobre ellos.
@@ -68,6 +70,10 @@ Ya en *Cuentas de Sangre*, después de la apertura canónica con la ejecución p
 ### Contrapeso de Chiara
 
 En *Cuentas de Sangre*, Volpi es el opuesto filosófico de Chiara: él usa información para borrar personas, fabricar ruido y volver la ausencia irrecuperable; ella debe convertir esas ausencias en una cadena legible que proteja a los vivos. Su caída no debe resolverse sólo con una ejecución de Kal ni con un rescate de Corrado: Chiara tiene que recuperar agencia sobre el relato y el expediente que Volpi quiso volver imposibles.
+
+## Noche Marsh–Vera (CANON DEL AUTOR, 2026-10-03, lote 3)
+
+Durante el Libro I, por encargo de Dario y fuera de escena antes del amanecer del Cap. 29: llega después de la muerte de los padres y de Vera, recoge el arma, desaparece los cuerpos, extrae a Dylan y lo entrega en la mansión. No mata a nadie esa noche. En el VII (isla) habla en fragmentos y no nombra a Blake. Ver [[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]].
 
 ## Reglas de escritura
 

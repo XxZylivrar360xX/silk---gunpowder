@@ -17,7 +17,7 @@ Raymond Keene era el jefe de policía al inicio de la novela.
 
 Muere asesinado por orden de [[02_Characters/Dario_Varek]]. La versión pública puede presentarlo como una tragedia institucional, pero la verdad narrativa debe ser más sucia: Keene probablemente estaba coludido, aceptó demasiadas concesiones y se volvió un problema. **CANON DEL AUTOR (2026-09-12):** [[02_Characters/Nereo_Volpi]] ejecuta la orden; Varek advierte entonces que Volpi es más peligroso que un simple ejecutor y comienza a mantenerlo aislado y controlado.
 
-**Canon de apertura:** la mañana del Capítulo 3, Kal despierta con el titular: Keene fue encontrado en Plaza Corona, sentado en una banca como si estuviera dormido, ejecutado con tres tiros.
+**Canon de apertura:** la mañana del Capítulo 3, Kal despierta con el titular (desde la reapertura del 2026-09-29, sólo el titular: el capítulo es de Walt; la lectura de Keene como comunicado queda en Chiara, al abrir el Cap. 4): Keene fue encontrado en Plaza Corona, sentado en una banca como si estuviera dormido, ejecutado con tres tiros.
 
 El día anterior, Keene había recibido a [[02_Characters/Kal_Mercer]] para oír una propuesta de renta mensual de mantenimiento y reparaciones financiadas para unidades del Departamento. Aceptó un piloto parcial antes de morir.
 
@@ -52,6 +52,8 @@ No necesita estar vivo para pesar. Su cadáver deja un departamento en crisis y 
 
 > **PENDIENTE:** grado exacto de colusión con Varek: dinero, favores, omisión o chantaje.
 
-> **RESUELTO (2026-09-16), caso puntual — incubadora Libro 4/5:** en el encubrimiento del homicidio de la oficial Vera Kessler (ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]]), la corrupción de Keene fue de **omisión**: no lo ordenó, pero dejó correr la versión oficial una vez que vio los beneficios. No resuelve por sí solo el grado general de colusión con Varek en el Libro I, que sigue abierto.
+> **SUPERSEDIDO (2026-10-03):** la noche Vera ocurre durante el Libro I, después de la muerte de Keene; la omisión pasa a [[02_Characters/Elena_Vega]]. Texto anterior:
+>
+> ~~**RESUELTO (2026-09-16), caso puntual — incubadora Libro 4/5:** en el encubrimiento del homicidio de la oficial Vera Kessler (ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]]), la corrupción de Keene fue de **omisión**: no lo ordenó, pero dejó correr la versión oficial una vez que vio los beneficios. No resuelve por sí solo el grado general de colusión con Varek en el Libro I, que sigue abierto.~~
 
 > **PENDIENTE:** cómo se presenta públicamente su asesinato.

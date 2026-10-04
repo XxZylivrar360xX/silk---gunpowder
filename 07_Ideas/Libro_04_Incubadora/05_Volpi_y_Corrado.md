@@ -4,6 +4,8 @@
 
 ## Función de Volpi en Vera
 
+> **CANON DEL AUTOR (2026-10-03, lote 3):** Volpi llega por encargo de **Dario** (en el Libro I trabaja en secreto para él, aunque parezca responder a La Mesa). Llega después de la muerte de los padres y de Vera, recoge el arma, desaparece los cuerpos, extrae a Dylan y lo entrega en la mansión antes del amanecer del Cap. 29. No sabe con certeza quién mató a los Marsh y **nunca nombra a Blake**. En la isla (VII) habla en fragmentos ("La casa ya estaba muerta cuando llegué", "Me enviaron para corregir una consecuencia", "Lo entregué"); su amenaza real es estar a punto de reconocer a Elenna. Escalada investigativa y reglas en [[07_Ideas/Libro_04_Incubadora/10_Reglas_Revelacion_Caso_Vera]]. *Principio:* la vieja estructura no es el villano final; es el suelo histórico sobre el que el villano sobrevivió.
+
 Nereo **no mata a Vera**.
 
 Llega después del disparo como corrector de una crisis que distintos actores necesitan volver administrativamente manejable.
@@ -70,7 +72,7 @@ Corrado identifica al **arquitecto del encubrimiento**, no al asesino.
 
 > **RESUELTO (2026-09-15, CANON DEL AUTOR):** confirmada la propuesta de confinamiento no oficial en isla mediterránea aislada. La escena de la entrevista y el reconocimiento de Elenna (más abajo) quedan fijados.
 
-> **RESUELTO (2026-09-16, CANON DEL AUTOR):** **Corrado negoció personalmente el confinamiento** — lo sabe todo porque él mismo lo organizó, no como intermediario. La instalación es una que **heredó de una operación antigua** (contrabando/cuarentena que La Mesa ya usaba), mantenida al mínimo por un solo cuidador de confianza. La entrevista con Volpi ocurre en el **Libro 5** (*Camino a Casa*), como parte de la reconstrucción del encubrimiento — ya fijado en [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]].
+> **RESUELTO (2026-09-16, CANON DEL AUTOR):** **Corrado negoció personalmente el confinamiento** — lo sabe todo porque él mismo lo organizó, no como intermediario. La instalación es una que **heredó de una operación antigua** (contrabando/cuarentena que La Mesa ya usaba), mantenida al mínimo por un solo cuidador de confianza. La entrevista con Volpi ocurre en el ~~**Libro 5**~~ **Libro VII** (*Camino a Casa*; confirmado 2026-10-03, después del testimonio de Dylan), como parte de la reconstrucción del encubrimiento — ya fijado en [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]].
 
 Como último acto relacionado con La Mesa, Volpi queda confinado en una instalación aislada y no oficial en una pequeña isla mediterránea.
 

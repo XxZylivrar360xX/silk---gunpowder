@@ -1,6 +1,8 @@
 # Relaciones de Elenna — post-trilogía
 
 > **ESTADO:** mezcla de canon ya existente, decisiones del autor y diseño fuerte. Claude debe separar capas al integrar.
+>
+> **NUMERACIÓN (2026-10-03):** este archivo nació en la duología. Donde dice "Libro 4" léase *Juramento de Hierro* (V) **y** *Hijos del Silencio* (VI); donde dice "Libro 5", *Camino a Casa* (VII). Reparto vigente de la trilogía en [[00_Biblia/00_Trilogy_Structure]] y en los Book Maps de [[11_Books/Book_05_Juramento_De_Hierro/00_Book_Map|V]], [[11_Books/Book_06_Hijos_Del_Silencio/00_Book_Map|VI]] y [[11_Books/Book_07_Camino_A_Casa/00_Book_Map|VII]]. Integración PROYECTO RECLUTA lote 2: [[98_Agent_Handoff/sessions/2026-10-03_claude_trilogia_elenna_lote2]].
 
 ## Principio general
 
@@ -12,7 +14,7 @@ Su eje ya aprobado es:
 
 La academia/policía pone a prueba estructura, pertenencia, rutina y autoridad.
 
-> **CANON DEL AUTOR (2026-09-16) — el anuncio:** Elenna convoca una conversación explícita para darles la noticia de la academia a Riley y Marisol, con cuidado, sabiendo que les va a doler — no lo minimiza en una cena de pasada ni deja que se enteren por otra vía primero.
+> **CANON DEL AUTOR (2026-09-16) — el anuncio:** Elenna convoca una conversación explícita para darles la noticia de la academia a Bonnie y Marisol, con cuidado, sabiendo que les va a doler — no lo minimiza en una cena de pasada ni deja que se enteren por otra vía primero.
 
 ---
 
@@ -59,11 +61,13 @@ No necesita llamarla constantemente para demostrar afecto. Puede dar espacio y l
 
 ---
 
-## Riley Ardizzone
+## Bonnie — Roberta «Bonnie» García
+
+> Nombre legal Roberta «Bonnie» García; para el mundo, veinte años después, **Roberta Ardizzone** (CANON DEL AUTOR, 2026-10-03; ver [[02_Characters/Bonnie_Garcia]]). Para Elenna es «Bonnie».
 
 ### Reacción a la academia
 
-Riley procesa la decisión desde la **persona**, no desde la institución.
+Bonnie procesa la decisión desde la **persona**, no desde la institución.
 
 Su pregunta no es sólo “¿por qué policía?” sino “¿qué estás buscando al entrar ahí?”.
 
@@ -73,11 +77,11 @@ Línea de diseño:
 
 > **“No entres porque necesitas que algo te obligue a quedarte.”**
 
-Riley no es madre sustituta ni instructora táctica.
+Bonnie no es madre sustituta ni instructora táctica.
 
 ### Qué aporta
 
-Riley lee habitaciones y cambios humanos:
+Bonnie lee habitaciones y cambios humanos:
 
 - quién dejó de hablar;
 - quién mira la puerta;
@@ -87,15 +91,17 @@ Riley lee habitaciones y cambios humanos:
 
 No son “trucos policiales”. Son hábitos de supervivencia y gestión humana.
 
-Riley enseña indirectamente a preguntar:
+Bonnie enseña indirectamente a preguntar:
 
 > **¿Qué cambió cuando entré?**
 
 ### Fricción
 
-> **CANON DEL AUTOR (2026-09-16):** el conflicto concreto que las hace discutir por sobreprotección nace de que **Elenna oculta el riesgo real de un incidente** — Riley lo descubre después, y la discusión es sobre honestidad, no solo sobre control.
+> **CANON DEL AUTOR (2026-09-16):** el conflicto concreto que las hace discutir por sobreprotección nace de que **Elenna oculta el riesgo real de un incidente** — Bonnie lo descubre después, y la discusión es sobre honestidad, no solo sobre control.
+>
+> **DISEÑO (2026-10-03):** ubicarlo en *Hijos del Silencio* (VI), como parte del costo de la vida que Elenna ya eligió. PENDIENTES: qué incidente, cuánto peligro hubo, cómo se entera Bonnie, cuánto dura la fractura.
 
-Riley probablemente lleve peor que Marisol la exposición física de Elenna.
+Bonnie probablemente lleve peor que Marisol la exposición física de Elenna.
 
 Puede escribirle al terminar turnos:
 
@@ -107,7 +113,7 @@ Elenna puede confrontarla:
 
 > **“No soy una habitación de hotel que tienes que revisar antes de cerrar.”**
 
-Riley:
+Bonnie:
 
 > **“No. Eres peor. Una habitación me avisa cuando algo está roto.”**
 
@@ -117,7 +123,7 @@ Diseño fuerte, no canon cerrado.
 
 ## Kal Mercer
 
-> **CANON DEL AUTOR (2026-09-16):** en el Libro 4, Kal no aparece físicamente — solo por llamadas. Su primera aparición en persona es en el Libro 5, en el hospital (ver más abajo), tras un libro entero de ausencia acumulada.
+> **CANON DEL AUTOR (2026-09-16; renumerado 2026-10-03):** en *Juramento de Hierro* (V) y en *Hijos del Silencio* (VI), Kal no aparece físicamente — solo por llamadas. Su primera aparición en persona es en *Camino a Casa* (VII), en el hospital (ver más abajo), tras un libro entero de ausencia acumulada.
 
 > **CANON DEL AUTOR (2026-09-16) — viaje y duración:** Kal y Chiara viajan a San Aurelio con identidades limpias y aburridas (pasaportes de negocios legítimos, sin relación aparente con la ciudad) — la discreción viene de ser gente ordinaria, no de aparato de espionaje. El cameo completo es **muy breve, apenas unos días**: solo la crisis médica inmediata y la despedida; el libro vuelve rápido a Elenna/Nicholas.
 
@@ -139,7 +145,7 @@ San Aurelio de noche puede inquietarlo más que los viajes internacionales porqu
 
 ### Hospital
 
-> **CANON DEL AUTOR (2026-09-16):** el disparo y esta escena abren el **Libro 5** — es el primer reencuentro físico de Kal (y Chiara) con Elenna desde que empezó la academia. Cuidar el tono: la emoción de "tiempo perdido/todo cambió" debe escribirse con voz propia, sin ecos reconocibles de escenas similares de otras obras.
+> **CANON DEL AUTOR (2026-09-16):** el disparo y esta escena abren ***Camino a Casa* (VII)**; el disparo ocurre en un asalto bancario con rehenes, independiente de la trama, donde Elenna se infiltra contra las órdenes de Nicholas (CANON, lote 4, 2026-10-03) — es el primer reencuentro físico de Kal (y Chiara) con Elenna desde que empezó la academia. Cuidar el tono: la emoción de "tiempo perdido/todo cambió" debe escribirse con voz propia, sin ecos reconocibles de escenas similares de otras obras.
 
 Elenna recibe un disparo no mortal pero serio.
 
@@ -175,7 +181,7 @@ Reglas familiares preferidas:
 
 Chiara puede decir:
 
-> **“Puedo estar molesta con ella pero jamás voy a dejar al amor de mi vida sola en una situación así.”**
+> **“Puedo estar molesta contigo y aun así no voy a dejar al amor de mi vida sola en una situación así.”** *(redacción vigente desde 2026-10-03; bloque completo en [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro|escena faro 2]])*
 
 Kal protesta que creía ser el amor de su vida.
 
@@ -233,6 +239,8 @@ Mejor amiga de Elenna desde antes de que ella entrara al Departamento. Le da a E
 
 ### Familia y trasfondo (CANON DEL AUTOR, 2026-09-16)
 
+> **CANON DEL AUTOR (2026-10-02):** Erin es hija de [[02_Characters/Victor_Reyes]], agente de Meridian que en la saga principal desmonta la red humana de Kal. **PENDIENTE:** si el padre separado del trasfondo es Victor (lectura natural, no confirmada), qué sabe Erin de su trabajo, si Elenna lo sabe y qué función tiene el parentesco en el arco.
+
 Erin viene de una familia de clase trabajadora, con padres separados. Se financió sus propios viajes desde joven (fotografía, trabajos temporales) — es autosuficiente por necesidad, no por elección estética. Explica por qué pudo quedarse en San Aurelio sin depender de nadie cuando Elenna decidió volver.
 
 ### Origen (CANON DEL AUTOR, 2026-09-16)
@@ -243,7 +251,9 @@ Erin es periodista en *El Faro de San Aurelio* — el mismo diario que [[02_Char
 
 Erin está enamorada de Elenna desde hace tiempo y nunca lo ha dicho. Es la única persona cercana a quien la presencia de Ethan le resulta genuinamente mal — y, a diferencia de otras versiones consideradas, **sí lo dice, sin autocensurarse.** Elenna la descarta. El patrón se repite y se lee, para Elenna y para el lector, como celos no reconocidos más que como percepción real — ambigüedad deliberada que debe sostenerse hasta la escena de la presa.
 
-### Arco a través del libro que absorbe la revelación (ver [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]])
+### Arco en la trilogía (CANON DEL AUTOR, 2026-10-03): V tensión → VI ruptura en la presa → VII reconciliación
+
+> El V cierra con tensión, no con ruptura. La confesión de la presa y la revelación de Ethan ocurren en el VI; la reconciliación, en el VII. Los pasos de abajo nacieron en la duología y conservan su orden.
 
 1. Erin advierte sobre Ethan, en voz alta, más de una vez. Elenna la aleja cada vez más.
 2. La tensión estalla en la presa del sur (lugar nuevo, sin ficha de `05_Locations/` todavía) — confesión de amor no correspondida (ver escena faro en [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]]). Ocurre **antes** de que se confirme la identidad de Ethan, mientras Elenna todavía lo defiende. La discusión las aparta.
@@ -253,7 +263,7 @@ Erin está enamorada de Elenna desde hace tiempo y nunca lo ha dicho. Es la úni
 
 ### Reacción del círculo a la reconciliación (CANON DEL AUTOR, 2026-09-16)
 
-Reacciones mixtas: Riley y Marisol reciben la relación con calidez inmediata — ya conocían y querían a Erin de antes. Nicholas necesita más tiempo para procesarlo, no por prejuicio, sino porque apenas está reconstruyendo su propia idea de familia (ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]]).
+Reacciones mixtas: Bonnie y Marisol reciben la relación con calidez inmediata — ya conocían y querían a Erin de antes. Nicholas necesita más tiempo para procesarlo, no por prejuicio, sino porque apenas está reconstruyendo su propia idea de familia (ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]]).
 
 ### Referencia de tono
 
@@ -271,13 +281,15 @@ Esto también resuelve si vale la pena activar el eco temático de "la joven per
 ## Rex
 
 > **CANON DEL AUTOR (2026-09-16):** compañero K9 de Elenna, pastor alemán de pelaje bronce único, entrenado y comandado en italiano por ella misma — eco directo de la herencia de Chiara. Ver [[02_Characters/Elenna_Mercer]], sección "Timeline de academia y especialidad".
+>
+> **CANON DEL AUTOR (2026-10-03):** Rex **no aparece en el V**. Entra con K9 tras el salto de ~2–3 años entre el V y el VI. Regla: termómetro emocional, no detector de maldad ni sustituto de evidencia; sus reacciones no deben volver obvio el reveal de Ethan.
 
 Rasgos de comportamiento fijados, funcionan como termómetro emocional del reparto sin que nadie tenga que explicarlo en voz alta:
 
 - **Le gruñe a Ethan siempre**, sin excepción — instinto animal detectando lo que nadie más ve todavía. No es una prueba narrativa ("los perros nunca se equivocan"), es una semilla que el lector puede notar y que Elenna, enamorada, racionaliza o ignora.
 - **Juega sin reservas con Kal** desde que lo conoce, pese a no tener motivo aparente para confiar en él tan rápido — reconoce a la familia antes de que se lo digan.
 - **Solo deja que Erin le acaricie la panza** — ni siquiera Elenna tiene ese privilegio. Refuerza, sin necesidad de diálogo, que Erin ocupa un lugar único y confiable en la vida de Elenna.
-- **Hospital (disparo de Elenna, apertura del Libro 5):** Rex, de gran tamaño, duerme en la cama con ella. Cuando los médicos intentan sacarlo, los chantajea con ojos de canica y orejas hacia atrás — no cede fácil, y nunca duda en proteger a Elenna cuando hace falta. Ver escena faro 2 en [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]].
+- **Hospital (disparo de Elenna, apertura de *Camino a Casa*, VII):** Rex, de gran tamaño, duerme en la cama con ella. Cuando los médicos intentan sacarlo, los chantajea con ojos de canica y orejas hacia atrás — no cede fácil, y nunca duda en proteger a Elenna cuando hace falta. Ver escena faro 2 en [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]].
 - **Aeropuerto (despedida):** Kal puede bromear que se va tranquilo sabiendo que Elenna está bien cuidada — no necesariamente por el capitán (Nicholas). El chiste es sobre Rex. Ver escena faro 3 en [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]].
 
 ## Foto de Tres Hermanas
@@ -285,7 +297,7 @@ Rasgos de comportamiento fijados, funcionan como termómetro emocional del repar
 La fotografía final del epílogo *Tres Hermanas* puede reaparecer junto a la cama de hospital de Elenna.
 
 - Marisol la deja recargada sobre un florero junto a la cama.
-- Riley deja las flores.
+- Bonnie deja las flores.
 - La imagen sirve como prueba de que Elenna ya tiene un círculo de protección en San Aurelio antes de que Kal/Chiara lleguen.
 
-No debe implicar que Riley/Marisol reemplazan a Kal/Chiara; muestra que Elenna construyó vida propia.
+No debe implicar que Bonnie/Marisol reemplazan a Kal/Chiara; muestra que Elenna construyó vida propia.

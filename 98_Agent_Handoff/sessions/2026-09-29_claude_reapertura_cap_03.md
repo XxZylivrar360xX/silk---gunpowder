@@ -1,0 +1,44 @@
+# 2026-09-29 — Claude — Reapertura y reescritura del Cap. 3
+
+**Encargo del autor:** reabrir el Cap. 3 (no pulido): un solo núcleo, más conciso, Nat orgánica, sin Harper ni foco en Keene, porche retirado, cementerio inmediato, presentaciones con Nadir y Danny, consumo de Danny insinuado, trabajo del Tasador; el bloque de Chiara pasa al 4.
+
+## Hecho
+
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Cap. 3]] reescrito, **BORRADOR** (antes TERMINADO). POV Kal único. Prosa ~7,000 → ~4,780 (sin Chiara).
+  - **Núcleo:** Walt, recién salido de una celda, vuelve a un mundo que cambió (Keene era cabo, el teléfono sin botones, el precio de una Coca, el lote que ahora es taller, Crowe que ahora es "el Tasador", su hija en casa en un barrio que la quiso sin él, las máscaras).
+  - Secuencia: titular de Keene (sólo titular) → cárcel, Nat ya ahí → Peugeot, radio, el Corolla que toma la salida sin dudar → cementerio (canon intacto) → la Almendra → Nadir y Danny → Nat a su guardia de 24 h a las 14:00 → Kal ve que el Monarch no llamó → trabajo → casa común, negro y máscaras, salen al anochecer.
+  - Líneas canon del porche reubicadas en la escena del trabajo (joyero, libertad condicional, "legal es el camino más corto", "si hay problema, respondo").
+- **Bloque de Chiara** (Keene, poker/Tommaso, Blake) movido **íntegro, sin pulir** al inicio del [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/04_Tarifa_Nocturna|Cap. 4]]; ventana del 4 corregida al mismo lunes.
+- Cap. 1: "El Patio" → "la Almendra" en la tumba de Michael.
+- Fichas: Walt, Natalie, Keene, Blake, Harper, Danny, Crowe; Book Map; CHAPTER_STATUS.
+
+## Respuesta a la pregunta del autor (peldaño Kal–Chiara)
+
+El 2 deja la simbiosis inicial; el 5 descubre que disfrutan estar juntos sin necesitar nada. El 3 no pone a Chiara en escena. Lo que mueve es el **costo**: el "te llamo mañana" de Matteo queda en nada y Kal toma el dinero oscuro del Tasador. Esa misma noche Chiara lo llama (Cap. 4) y la puerta legal se abre por ella. El trabajo y la vida de la Almendra son lo que Kal le contará después.
+
+## DISEÑO del agente (para leer)
+
+Cuadra Nueve / Maya Ríos como banda receptora; treinta mil, mitad por adelantado; bodega del norte; hierba en un Buick sobre la grúa; "Eso decía tu padre" (Walt, sobre Dale y Crowe); Walt no sabía el apodo "el Tasador"; teléfono que le da Nat; casa común como vestidor; Omar y la perra del taller.
+
+## Pendientes
+
+- Lectura del autor del 3 nuevo.
+- Pulido del bloque de Chiara dentro del 4 (hoy es un 4 de ~3,900 palabras con dos mitades).
+- Harper debuta ahora en el 19. **Autor:** buscar un mejor momento posterior para presentarla (pendiente).
+- **Resuelto (autor, misma sesión):** la advertencia sobre Dario vuelve en el alistamiento: Nadir cuenta que Varek fue a buscar a Kal al portón "el otro día" sin decir para qué, y Kal repite la advertencia a Nadir y Danny. "Quiero levantarlo" sigue fuera.
+- **Resuelto (autor):** el trabajo no se conecta con el cargamento no entregado del incendio.
+- EPUB no regenerado (capítulo en BORRADOR).
+
+## Adenda: POV del Cap. 4 y coda al Cap. 5 (2026-09-29, autorizado por el autor)
+
+- Cap. 4 en POV Chiara completo. Chiara llega a la rampa antes que la grúa y ve a Kal trabajar desde la puerta de carga junto a Matteo (que no sale para no quedar en el video de Varga). Se retiraron "Eso era lo que Kal esperaba" y el salto de cabeza a media escena. Prosa nueva de enlace: DISEÑO del agente, pendiente de lectura.
+- Cierre nuevo del 4: ya en el penthouse, Chiara manda "La factura completa. Por favor." y él no contesta. Se cortó "Era la primera vez que quedaba del otro lado" por opaca.
+- La coda Kal/Nadir (corralón, Mabel, "El problema llamó", contacto guardado como Bellandi) abre ahora el Cap. 5, íntegra, antes de "La factura llegó a las ocho y diecisiete". El 5 es el primer POV compartido deliberado.
+- Escalón relacional anotado en la metadata del 4: Cap. 2 "quizá pueda obtener algo de él" → Cap. 4 "lo llamé y apareció" → Cap. 5 "quiero seguir hablando aunque no necesite nada".
+- Secuela del trabajo del Tasador (pedido del autor): en el 4, Chiara ve a Kal girar el hombro derecho al bajar el gancho y lo anota sin preguntar; en la coda del 5, el hombro "sigue tronando donde se le había zafado la cadena del Buick" y Nadir le pide hielo ("Eso dijiste en la descarga"). La causa concreta (la cadena) es DISEÑO del agente.
+- Harper y Mabel en el 4 (decisión del autor): la cafetería donde Chiara conoce a Blake es La Esquina de Mabel, en la frontera Calle Corona / La Almendra (pendiente de ubicación resuelto). Harper atiende la máquina; Mabel la nombra y deja de mover las manos cuando Blake dice lo de Roma. Chiara no sabe que es territorio de Kal. En el Cap. 19, Harper sigue con Mabel en las mañanas y busca un segundo empleo por la renta; Kal le ofrece paga mayor que ambos y el cuarto de block que venía con el terreno, sin renta (redacción del cuarto: DISEÑO). Se retiran "cafetería del norte" y "nueva imagen". Fichas de Harper y Mabel y las dos notas de ubicación, al día.
+- Cap. 31: en el lago, tras "Bellandi", Chiara reconoce a Harper como la muchacha del espresso de La Esquina de Mabel (Cap. 4); "Harper no había tardado nada". Redacción: DISEÑO del agente, pedida por el autor.
+
+## Adenda — Cap. 6, apertura cotidiana (2026-09-29, Claude)
+
+A pedido del autor (plan "vida cotidiana" + regla staging 04). Sin tocar la noche del penthouse salvo un beat en "A las tres". El resumen "la costumbre nació" pasa a dos migajas en escena: Nadir y el alternador (ella pregunta), huésped de la 1412 (ella corresponde), llamada sin motivo (él recuerda al del océano; Danny, el Mustang y las líneas del patio, siembra mínima). No se repitió el teléfono de Walt (ya gastado en el 5). Mostaza alineada con el Cap. 4 (noche de Blake). Detalle en la metadata del 6. DISEÑO pendiente de lectura; sigue TERMINADO; EPUB no regenerado.

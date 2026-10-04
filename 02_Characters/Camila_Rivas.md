@@ -83,6 +83,12 @@ Camila mantiene vivo a Kal en [[06_Relationships/Hitos]], H1, pero no le roba el
 
 ---
 
+## Antes de H1 — CANON DEL AUTOR (2026-10-03)
+
+- En la tormenta de *Sombras de Poder*, Camila atiende los casos graves en el triaje discreto que Chiara monta en un almacén del sur; Chiara ayuda de forma inexperta en lo leve. Responde en parte el PENDIENTE de abajo: Camila existe antes de H1.
+- Kal vuelve herido varias veces durante el libro: Chiara sutura lo menor; lo grave sigue requiriendo atención médica real.
+- DISEÑO: Natalie Keegan representa la respuesta oficial; Camila, la de confianza y clandestina. No duplicarlas. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]] ("Incubadora 2026-10-03").
+
 ## Conexiones
 
 - [[02_Characters/Chiara_Bellandi]] — le debe carrera, reputación y quizá libertad. No le pertenece.

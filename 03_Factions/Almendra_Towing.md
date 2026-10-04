@@ -76,10 +76,10 @@ Principio de diseño: **nadie aquí firmó nada.** La lealtad se sostiene por fa
 - **[[02_Characters/Harper_Walker|Harper "Sparks" Walker]]** — empleada ganadera del norte; Kal la instruye como conductora y operadora de campo. Protegida suya, pero no igual que Marisol: Harper es formación de oficio.
 - **[[02_Characters/Tyler_Brooks|Tyler "Switch" Brooks]]** — organizador de carreras callejeras, 21 años, el más joven del núcleo. Convierte movimiento informal en red útil.
 - **[[02_Characters/Mei_Lin_Zhao]]** — corredora china de una banda rival desintegrada. Entra con experiencia y sospecha.
-- **[[02_Characters/Riley_Bennett]]** — corredora de la misma banda rival. Se vuelve protegida de Chiara, que le enseña a leer escenarios y reconducir situaciones.
+- **[[02_Characters/Bonnie_Garcia]]** — corredora de la misma banda rival. Se vuelve protegida de Chiara, que le enseña a leer escenarios y reconducir situaciones.
 - **[[02_Characters/Ren_Wei]]** — cocinero de cocaína y metanfetaminas. Entra último y consolida a Kal como proveedor por calidad y pureza.
 
-Este bloque cambia la escala de lo que nace alrededor de Almendra Towing. Hasta aquí, Kal controla **movimiento**. Con Tyler, Harper, Mei-Lin y Riley, empieza a controlar el circuito humano de las carreras y las rutas del norte. Con Ren, empieza a tocar **suministro**.
+Este bloque cambia la escala de lo que nace alrededor de Almendra Towing. Hasta aquí, Kal controla **movimiento**. Con Tyler, Harper, Mei-Lin y Bonnie, empieza a controlar el circuito humano de las carreras y las rutas del norte. Con Ren, empieza a tocar **suministro**.
 
 > **DISEÑO:** la entrada de Ren debe sentirse como una frontera moral. La organización no puede volverse principal proveedor de otras bandas sin que el libro cobre el costo.
 
@@ -87,7 +87,7 @@ Este bloque cambia la escala de lo que nace alrededor de Almendra Towing. Hasta 
 
 **CANON DEL AUTOR (2026-08-23):** en privado, [[02_Characters/Chiara_Bellandi]] llama al núcleo joven de Kal **"los niños del Patio"**.
 
-No es nombre público, no es marca de organización y no aparece en expedientes. Es una forma privada de Chiara para nombrar a los más jóvenes que orbitan el patio: Harper, Tyler, Mei-Lin, Riley y cualquiera que entre en esa generación.
+No es nombre público, no es marca de organización y no aparece en expedientes. Es una forma privada de Chiara para nombrar a los más jóvenes que orbitan el patio: Harper, Tyler, Mei-Lin, Bonnie y cualquiera que entre en esa generación.
 
 Funciona por dos razones:
 
@@ -106,7 +106,7 @@ Ese nombre no escala para nombrar el imperio. Cuando la organización criminal c
 
 > **PENDIENTE, PRIORITARIO:** confirmar si **El Patio** queda como nombre de calle definitivo. No usar Almendra Towing para cubrir esa función ni la de holding.
 
-> **NUEVO HILO SEMBRADO (2026-09-07), escrito en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/19_Tierra_Buena|Capítulo 19, "Tierra buena"]]:** Kal tiene un socio en el espacio/terreno donde opera el taller (el "concesionario") — sin nombre todavía. En papel, ese socio lo saca completo del acuerdo. Kal busca acciones legales; Chiara le ofrece el contacto de un abogado competente que no se lleva bien con el fiscal de distrito (personaje sin nombre todavía). **PENDIENTE:** identidad del socio, motivo del movimiento, nombre del abogado, y cómo se resuelve.
+> **NUEVO HILO SEMBRADO (2026-09-07), escrito en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/19_Tierra_Buena|Capítulo 19, "Tierra buena"]]:** Kal tiene un socio en el espacio/terreno donde opera el taller (el "concesionario") — sin nombre todavía. En papel, ese socio lo saca completo del acuerdo. Kal busca acciones legales; Chiara le ofrece el contacto de un abogado competente que no se lleva bien con el fiscal de distrito (personaje sin nombre todavía). **PENDIENTE:** identidad del socio, motivo del movimiento, nombre del abogado, y cómo se resuelve.
 
 ---
 

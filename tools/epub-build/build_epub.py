@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Build the Seda y Polvora EPUB from the active book folder.
+Build a Seda y Polvora saga EPUB (default: Book I, Mascaras de Cristal).
 
 The script is intentionally tolerant during early drafting:
 - front matter in 00_Front_Matter is included first;
@@ -10,9 +10,12 @@ The script is intentionally tolerant during early drafting:
 """
 
 import argparse
+import html
 import re
+import shutil
 import subprocess
 import sys
+import zipfile
 from pathlib import Path
 
 VAULT_ROOT = Path(__file__).resolve().parents[2]
@@ -21,6 +24,28 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 WIKILINK_RE = re.compile(r"\[\[([^\]|#]+)?(?:#[^\]|]+)?(?:\|([^\]]+))?\]\]")
 HTML_COMMENT_RE = re.compile(r"<!--.*?-->\s*", re.DOTALL)
 EPUB_EXCLUDE_MARKER = "EPUB: EXCLUDE"
+# Fixed so e-readers keep bookmarks/progress across rebuilds.
+BOOK_IDENTIFIER = "urn:uuid:d5a720bc-fd66-4111-9375-e208ecc973e6"
+STRAIGHT_QUOTES_RE = re.compile(r'"([^"\n]+)"')
+PART_ORDINALS = {
+    "01": "Primera parte", "02": "Segunda parte", "03": "Tercera parte",
+    "04": "Cuarta parte", "05": "Quinta parte", "06": "Sexta parte",
+}
+# Reader-facing part titles: sentence case, as Spanish typography requires.
+PART_TITLES = {
+    "Part_01_Dos_Mundos": "Dos mundos",
+    "Part_02_Con_Peores_Personas_He_Tratado": "Con peores personas he tratado",
+    "Part_03_Ardizzone": "Ardizzone",
+}
+CHAPTER_TITLE_RE = re.compile(
+    r"^(#\s+)(?:Capítulo|Capitulo|Cap\.?)\s+\d+\s*(?:[—–:.-]\s*)?(.+)$",
+    re.IGNORECASE | re.MULTILINE,
+)
+INTERNAL_MARKER_RE = re.compile(
+    r"<!--|-->|%%|\b(?:BORRADOR|TERMINADO|PENDIENTE|DISEÑO|CANON DEL AUTOR)\b"
+    r"|^\s*(?:>\s*)?(?:\*\*)?(?:Estado|POV|Protagonistas|Ventana temporal)\s*:",
+    re.MULTILINE,
+)
 
 
 def is_epub_excluded(raw_text: str) -> bool:
@@ -43,18 +68,13 @@ def clean_wikilinks(text: str) -> str:
 
 
 def divider_title(folder_name: str) -> str:
-    # Reader-facing capitalization for the current manuscript folders.
-    aliases = {
-        "Part_01_Dos_Mundos": "Part_01_Dos_Mundos",
-        "Part_02_Con_Peores_Personas_He_Tratado": "Part_02_Con_peores_personas_he_tratado",
-    }
-    folder_name = aliases.get(folder_name, folder_name)
     parts = folder_name.split("_")
     if parts[0].lower() == "part" and len(parts) >= 3:
-        roman = {"01": "I", "02": "II", "03": "III", "04": "IV", "05": "V", "06": "VI"}
-        number = roman.get(parts[1], parts[1])
-        title = " ".join(parts[2:]).replace(" Y ", " y ")
-        return f"Parte {number} — {title} {{.part-title}}"
+        ordinal = PART_ORDINALS.get(parts[1], f"Parte {parts[1]}")
+        title = PART_TITLES.get(folder_name, " ".join(parts[2:]).capitalize())
+        return (
+            f"[{ordinal}]{{.part-number}} [{title}]{{.part-name}} {{.part-title}}"
+        )
     if parts and parts[0].isdigit():
         parts = parts[1:]
     return " ".join(parts)
@@ -72,7 +92,14 @@ def strip_yaml_frontmatter(text: str) -> str:
 def format_markdown(text: str) -> str:
     text = strip_yaml_frontmatter(text)
     text = HTML_COMMENT_RE.sub("", text)
+    text = strip_yaml_frontmatter(text.lstrip())
+    marker = INTERNAL_MARKER_RE.search(text)
+    if marker:
+        raise ValueError(f"Possible internal metadata in EPUB prose: {marker.group(0)!r}")
+    text = CHAPTER_TITLE_RE.sub(r"\1\2", text)
     text = clean_wikilinks(text)
+    # Spanish first-level quotes; nested quotes are written as “ ” in the source.
+    text = STRAIGHT_QUOTES_RE.sub(r"«\1»", text)
     return text.strip() + "\n"
 
 
@@ -137,15 +164,63 @@ def collect_manuscript(book_dir: Path, include_front_matter: bool) -> str:
     return "\n\n".join(sections) + "\n"
 
 
-def build_frontmatter(title: str, subtitle: str, author: str, lang: str) -> str:
+def build_frontmatter(title: str, subtitle: str, author: str, lang: str,
+                      year: str, series: str, series_position: str) -> str:
+    lines = [
+        "---",
+        f'title: "{title}"',
+        f'author: "{author}"',
+        f"lang: {lang}",
+        f'identifier: "{BOOK_IDENTIFIER}"',
+        f'rights: "© {year} {author}. Todos los derechos reservados."',
+        'toc-title: "Índice"',
+    ]
+    if subtitle:
+        lines.append(f'subtitle: "{subtitle}"')
+    if series:
+        lines += [f'belongs-to-collection: "{series}"', f"group-position: {series_position}"]
+    lines += ["---", "", ""]
+    return "\n".join(lines)
+
+
+def build_credits_page(title: str, author: str, year: str) -> str:
+    # Unlisted, frontmatter-typed section: not in the TOC, heading hidden by CSS.
     return (
-        "---\n"
-        f'title: "{title}"\n'
-        f'subtitle: "{subtitle}"\n'
-        f'author: "{author}"\n'
-        f"lang: {lang}\n"
-        "---\n\n"
+        "# Créditos {.unlisted .credits epub:type=copyright-page}\n\n"
+        f"*{title}*\n\n"
+        f"© {year} {author}\n\n"
+        "Todos los derechos reservados. Queda prohibida la reproducción total o "
+        "parcial de esta obra sin autorización escrita del autor.\n\n"
+        "Esta es una obra de ficción. Los nombres, personajes, lugares y sucesos "
+        "son producto de la imaginación del autor o se usan de manera ficticia. "
+        "Cualquier parecido con personas, vivas o muertas, o con hechos reales es "
+        "pura coincidencia.\n"
     )
+
+
+def polish_epub(epub_path: Path) -> None:
+    """Pandoc names split chapters after their file (ch001.xhtml); readers
+    show that <title>, so replace it with the chapter heading."""
+    tmp_path = epub_path.with_suffix(".tmp.epub")
+    title_re = re.compile(r"<title>ch\d+\.xhtml</title>")
+    h1_re = re.compile(r"<h1[^>]*>(.*?)</h1>", re.DOTALL)
+    with zipfile.ZipFile(epub_path) as src, zipfile.ZipFile(tmp_path, "w") as dst:
+        for item in src.infolist():
+            data = src.read(item.filename)
+            if item.filename.endswith(".xhtml") and "/text/ch" in item.filename:
+                page = data.decode("utf-8")
+                heading = h1_re.search(page)
+                if heading:
+                    label = heading.group(1).replace(
+                        '</span> <span class="part-name">', ": "
+                    )
+                    label = re.sub(r"<[^>]+>", " ", label)
+                    label = " ".join(html.unescape(label).split())
+                    page = title_re.sub(f"<title>{html.escape(label)}</title>", page)
+                    data = page.encode("utf-8")
+            compress = zipfile.ZIP_STORED if item.filename == "mimetype" else zipfile.ZIP_DEFLATED
+            dst.writestr(item, data, compress_type=compress)
+    shutil.move(tmp_path, epub_path)
 
 
 def run_pandoc(manuscript_path: Path, output_path: Path, cover: Path | None,
@@ -174,14 +249,17 @@ def run_pandoc(manuscript_path: Path, output_path: Path, cover: Path | None,
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--book", default="11_Books/Book_01_Seda_y_Polvora")
-    parser.add_argument("--title", default="Seda y Polvora")
-    parser.add_argument("--subtitle", default="Silk & Gunpowder")
-    parser.add_argument("--author", default="VICTOR PAZ")
+    parser.add_argument("--book", default="11_Books/Book_01_Mascaras_De_Cristal")
+    parser.add_argument("--title", default="Máscaras de Cristal")
+    parser.add_argument("--subtitle", default="")
+    parser.add_argument("--author", default="Víctor Paz")
+    parser.add_argument("--year", default="2026")
+    parser.add_argument("--series", default="Seda y Pólvora", help="Saga name for EPUB collection metadata.")
+    parser.add_argument("--series-position", default="1")
     parser.add_argument("--lang", default="es")
-    parser.add_argument("--cover", default="99_Reference/book_covers/Seda_y_Polvora_VICTOR_PAZ.png")
+    parser.add_argument("--cover", default="99_Reference/book_covers/Mascaras_de_Cristal_VICTOR_PAZ.png")
     parser.add_argument("--css", default="tools/epub-build/epub_style.css")
-    parser.add_argument("--output-name", default="Seda_y_Polvora")
+    parser.add_argument("--output-name", default="Mascaras_De_Cristal")
     parser.add_argument("--keep-manuscript", action="store_true")
     parser.add_argument(
         "--include-front-matter",
@@ -197,7 +275,9 @@ def main() -> None:
     out_dir.mkdir(exist_ok=True)
 
     print(f"Building manuscript from {book_dir} ...")
-    manuscript = build_frontmatter(args.title, args.subtitle, args.author, args.lang)
+    manuscript = build_frontmatter(args.title, args.subtitle, args.author, args.lang,
+                                   args.year, args.series, args.series_position)
+    manuscript += build_credits_page(args.title, args.author, args.year) + "\n"
     manuscript += collect_manuscript(book_dir, args.include_front_matter)
 
     manuscript_path = out_dir / f"{args.output_name}.manuscript.md"
@@ -207,6 +287,7 @@ def main() -> None:
     epub_path = out_dir / f"{args.output_name}.epub"
     print("Running Pandoc (EPUB) ...")
     run_pandoc(manuscript_path, epub_path, cover, css)
+    polish_epub(epub_path)
     print(f"EPUB ready: {epub_path}")
 
     if not args.keep_manuscript:

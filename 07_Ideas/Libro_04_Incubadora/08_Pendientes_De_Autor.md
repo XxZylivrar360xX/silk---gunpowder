@@ -20,6 +20,8 @@
 
 > **RESUELTO (2026-09-15):** nombre de nacimiento **Dylan Marsh**; nombre adulto/legal **Ethan Cole**. Sustituye la propuesta anterior no aprobada "Adrian Ward". Ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]].
 
+> **SUPERSEDIDO (2026-10-03):** trilogía, no duología — ver [[00_Biblia/00_Trilogy_Structure]].
+>
 > **RESUELTO (2026-09-16):** la saga se cierra en **duología**, no tres libros. El Libro 5 fusiona reconstrucción del encubrimiento y revelación final, usando el arco de Erin Reyes como mecanismo de compresión de la sospecha. Alternativa de tres libros considerada y descartada. Ver [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]].
 
 > **RESUELTO (2026-09-16):** mecanismo de adopción/custodia — tras la "corrección" de Volpi, Dario Varek asume al niño como cabo suelto de su organización y encarga su crianza a **Vivian Varek**; ella no elige hacerse cargo al inicio, pero desarrolla apego real. Profesión actual: **ajena por completo al mundo policial/médico** (oficio exacto sin fijar). Cuándo entra en la vida romántica de Elenna y cuándo debe sospechar el lector: **a mitad del Libro 4, sospecha gradual** en paralelo al segundo asesinato de policía. Qué recuerda de Vera e ideología consciente: **amnesia funcional** (recuerdos fragmentarios sin narrativa consciente; cree la versión oficial) + racionalización consciente como castigo institucional — confirmado como lectura definitiva, no solo diseño. Ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]].
@@ -38,7 +40,9 @@
 
 > **RESUELTO (2026-09-16):** ficha de ubicación creada — [[05_Locations/Presa_Del_Sur]]: represa masiva con mirador público y una instalación subterránea de desfogue/gestión (sin función narrativa asignada todavía). Familia/trasfondo de Erin: clase trabajadora, padres separados, autosuficiente desde joven. Ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]].
 
-> **RESUELTO (2026-09-16):** reacciones mixtas — Riley y Marisol reciben la relación con calidez inmediata (ya conocían y querían a Erin); Nicholas necesita más tiempo, no por prejuicio sino porque apenas reconstruye su propia idea de familia. Ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]].
+> **RESUELTO (2026-09-16):** reacciones mixtas — Bonnie y Marisol reciben la relación con calidez inmediata (ya conocían y querían a Erin); Nicholas necesita más tiempo, no por prejuicio sino porque apenas reconstruye su propia idea de familia. Ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]].
+
+> **PENDIENTE (abierto 2026-10-02):** Erin es hija de [[02_Characters/Victor_Reyes]] (CANON DEL AUTOR). Falta decidir qué sabe cada quien, si Victor aparece en la duología y qué función tiene el parentesco frente a Elenna, hija de Kal.
 
 ## Volpi
 
@@ -54,9 +58,9 @@
 
 > **RESUELTO (2026-09-16):** el parentesco de Elenna con Kal/Chiara **nunca se aclara públicamente, y ya no importa** — veinte años después la ciudad tiene otras preocupaciones; quienes preguntan reciben silencio educado de la familia. No hay versión oficial fabricada ni misterio activo que sostener en prosa.
 
-## Riley / Marisol
+## Bonnie / Marisol
 
-> **RESUELTO (2026-09-16):** Elenna convoca una conversación explícita para darles la noticia de la academia con cuidado, sabiendo que les va a doler — no lo minimiza ni lo deja para que se enteren solas. Marisol se recusa de forma **total y automática** de cualquier caso conectado al Departamento de Elenna, sin excepciones — más estricto que la regla informal ya existente ("no me cuentes nada que no podrías decir delante de otro fiscal"), que queda como la conducta cotidiana previa a la recusación formal. El conflicto de sobreprotección entre Riley y Elenna nace de que **Elenna oculta el riesgo real de un incidente** — la discusión es sobre honestidad, no solo sobre control. Ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]].
+> **RESUELTO (2026-09-16):** Elenna convoca una conversación explícita para darles la noticia de la academia con cuidado, sabiendo que les va a doler — no lo minimiza ni lo deja para que se enteren solas. Marisol se recusa de forma **total y automática** de cualquier caso conectado al Departamento de Elenna, sin excepciones — más estricto que la regla informal ya existente ("no me cuentes nada que no podrías decir delante de otro fiscal"), que queda como la conducta cotidiana previa a la recusación formal. El conflicto de sobreprotección entre Bonnie y Elenna nace de que **Elenna oculta el riesgo real de un incidente** — la discusión es sobre honestidad, no solo sobre control. Ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]].
 
 ## Cameos Kal / Chiara
 

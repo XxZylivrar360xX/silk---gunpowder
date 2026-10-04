@@ -16,9 +16,11 @@ No de forma decorativa, ni como postal italiana, ni como contradicción barata c
 
 Kal no es tan católico. Probablemente no sabe rezar bien, no sabe cuándo sentarse o levantarse sin mirar a otros, y no tiene la misma relación con la Iglesia. Pero por ella mantiene respeto absoluto.
 
-No se burla. No interrumpe. No la apura. No convierte su fe en chiste.
+No interrumpe. No la apura. Puede bromear con ella; nunca la usa, nunca la desprecia.
 
 Para un hombre como Kal, eso ya es una forma de amor.
+
+> **CANON DEL AUTOR (2026-09-26).** Sustituye "No se burla… No convierte su fe en chiste": Kal sí bromea con la fe de Chiara, pero la respeta porque es parte de quien ella es y eligió ser. Contrapunto de [[02_Characters/Alessio_Lusardi]], que la usó contra ella ("Questo è un mandato divino. Dio lo sa. E anch'io.", Cap. 9). Primera escena en prosa: la parrilla del lago, Cap. 31 ("Pídele que te cuente bien los peces." / "A Dios no se le piden esas cosas."; Kal deja el tenedor quieto hasta que ella termina).
 
 ---
 
@@ -39,11 +41,13 @@ La oración no necesita escribirse completa cada vez. La frase interna del ritua
 
 **Esto no es superstición.** Para Chiara, la vela no garantiza nada. La vela es su manera de no fingir que no tiene miedo.
 
+> **El nombre (CANON DEL AUTOR, 2026-10-02):** desde la primera vela, junto a la oración Chiara escribe un nombre en cursiva en su papel de canela y vainilla, cada vez que Kal sale y corre riesgos. El texto nunca muestra la palabra (es Elenna). Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "El nombre en cursiva".
+
 ### Origen
 
 El ritual nace después de [[06_Relationships/Momentos_de_Fractura]], **F4 - Año Nuevo en Washington**.
 
-Kal viaja a Washington, D.C. para reunirse con [[02_Characters/Anya_Voronina]], la contacto rusa que consiguió los papeles de [[02_Characters/Nadir_Amrani]]. Lo hace por deuda, en Año Nuevo y cumpleaños suyo, justo cuando Chiara esperaba pasar con él su primer Año Nuevo juntos.
+Kal viaja a Washington, D.C. para reunirse con [[02_Characters/Anya_Voronina]], la contacto rusa que consiguió los papeles de [[02_Characters/Nadir_Amrani]]. Lo hace por deuda, en Año Nuevo y cumpleaños suyo, justo cuando Chiara esperaba pasar con él su primer Año Nuevo juntos. (Noche separada **restaurada por el autor, 2026-09-26**: Chiara, ebria y sola en el penthouse tras la fiesta del Monarch; Kal vuelve en auto esa misma noche. Ver [[02_Characters/Anya_Voronina]].) **La primera vela nace días después (canon 2026-09-26),** cuando Kal le cuenta su primera incursión para Dario: la escolta de cocaína, el rival, el coche en la bahía.
 
 Chiara entiende la razón. Ese es el problema: la entiende y aun así le duele.
 

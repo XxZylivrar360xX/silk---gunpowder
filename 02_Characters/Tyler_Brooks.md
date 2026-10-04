@@ -27,7 +27,7 @@ Es el puente natural entre [[03_Factions/Almendra_Towing]] y [[03_Factions/Los_M
 
 Después termina formando parte de la organización de Kal.
 
-> **RESUELTO (2026-08-29):** Tyler organiza la carrera de máscaras de [[06_Relationships/Hitos]], H9 — **es su primera aparición en prosa** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/08_La_Carrera_De_Mascaras|Capítulo 8]]). Aparece sin biografía: conoce a Kal, reconoce el Peugeot rojo, avisa de un guardaganado nuevo en la recta, y no pide ni necesita el apellido de Chiara (Kal la presenta sólo como "Chiara"). Sigue **PENDIENTE** qué facción menor respaldaba el circuito antes de Kal.
+> **RESUELTO (2026-08-29):** Tyler organiza la carrera de máscaras de [[06_Relationships/Hitos]], H9 — **es su primera aparición en prosa** ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/08_La_Carrera_De_Mascaras|Capítulo 8]]). Aparece sin biografía: conoce a Kal, reconoce el Peugeot rojo, avisa de un guardaganado nuevo en la recta, y no pide ni necesita el apellido de Chiara (Kal la presenta sólo como "Chiara"). Sigue **PENDIENTE** qué facción menor respaldaba el circuito antes de Kal.
 
 ---
 
@@ -67,7 +67,7 @@ Eso lo vuelve una pieza perfecta para San Aurelio: el crimen aquí es logística
 - [[02_Characters/Kal_Mercer]] — lo absorbe al sistema y le da escala.
 - [[02_Characters/Harper_Walker]] — posible vínculo operativo: rutas, conducción y norte rural.
 - [[02_Characters/Mei_Lin_Zhao]] — ex corredora rival; posible fricción por autoridad dentro del circuito.
-- [[02_Characters/Riley_Bennett]] — ex corredora rival; comparten entrada desde la calle hacia algo más organizado.
+- [[02_Characters/Bonnie_Garcia]] — ex corredora rival; comparten entrada desde la calle hacia algo más organizado.
 - [[03_Factions/Almendra_Towing]] — su circuito se vuelve infraestructura.
 - [[03_Factions/Los_Marcadores_de_Milla]] — circuito de carreras del norte; pendiente confirmar si Tyler pertenecía a ellos o sólo organizaba eventos que ellos usaban.
 

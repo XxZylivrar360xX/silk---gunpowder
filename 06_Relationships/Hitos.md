@@ -1,6 +1,6 @@
 # Hitos obligatorios
 
-> **AVISO DE SUPERSESIÓN (2026-09-07, actualizado 2026-09-22):** [[00_Biblia/00_Trilogy_Structure]] manda sobre este archivo en escala y fronteras entre libros. **Sombras de Poder se insertó como Libro II** entre *Seda y Pólvora* y *Voto de Ceniza* — revierte la reconciliación del 2026-09-20/21. En particular: **H1 es ahora el clímax del Libro II — Sombras de Poder**, no del Libro I. **La salida de Riley (F2) pertenece a *Sombras de Poder* (Libro II)**, no al Libro I. **H22 pertenece a *Voto de Ceniza*, ahora Libro III**, antes de la caída de Dario, la montaña y Santa Lucía — la ubicación anterior (después del cierre de la Guerra de los Tres) sigue superseded. *Cuentas de Sangre* es ahora Libro IV. Este archivo todavía no se reconstruyó hito por hito contra la nueva arquitectura de seis libros.
+> **AVISO DE SUPERSESIÓN (2026-09-07, actualizado 2026-09-22):** [[00_Biblia/00_Trilogy_Structure]] manda sobre este archivo en escala y fronteras entre libros. **Sombras de Poder se insertó como Libro II** entre *Máscaras de Cristal* y *Voto de Ceniza* — revierte la reconciliación del 2026-09-20/21. En particular: **H1 es ahora el clímax del Libro II — Sombras de Poder**, no del Libro I. **La salida de Bonnie (F2) pertenece a *Sombras de Poder* (Libro II)**, no al Libro I. **H22 pertenece a *Voto de Ceniza*, ahora Libro III**, antes de la caída de Dario, la montaña y Santa Lucía — la ubicación anterior (después del cierre de la Guerra de los Tres) sigue superseded. *Cuentas de Sangre* es ahora Libro IV. Este archivo todavía no se reconstruyó hito por hito contra la nueva arquitectura de seis libros.
 
 Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni material de trabajo: son las anclas del libro, definidas por el autor. La trama se construye alrededor de ellos, no al revés.
 
@@ -8,7 +8,7 @@ Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni
 
 **Los IDs se asignan en orden de recepción, no cronológico.** Son etiquetas estables para poder citarlas desde otros archivos sin renombrar nada. **Los IDs H2, H3, H4, H5, etc. no se renumeran para volverlos cronológicos.** Los hitos de la consolidación de cronología recibieron IDs el 2026-08-29: **H14** El loft del soltero · **H15** La noche del jacuzzi · **H16** El cumpleaños / la mudanza · **H17** Italia / Mesa de las Familias · **H18** El regreso de Palermo · **H19** El asalto a Camp Alder · **H20** Consecuencia: Halbrook / prisión militar / Lucia · **H21** Mi pareja. El siguiente ID libre se asignó el 2026-08-31: **H22 — Los primeros pasos**. El orden de la historia va aparte:
 
-> **CONSOLIDACIÓN DE CRONOLOGÍA RELACIONAL (2026-08-29, CANON DEL AUTOR).** El autor redefinió el orden del arco temprano de Kal y Chiara. Esta tabla y las notas de posición de cada hito **superseden** cualquier posición anterior incompatible. Cambios principales: **H9** se adelanta a entre H3 y H12; **El loft del soltero** se separa de H12 como hito propio; **H10 → H4 → H11** en ese orden (la primera intimidad, H11, ocurre *después* de H10 y H4); **La noche del jacuzzi** se separa de H5 como hito propio, inmediatamente antes de H5; **H5 deja de ser "El hipódromo" y pasa a ser "San Aurelio"**; la **mudanza oficial** se retrasa al cumpleaños de Chiara; **"Mi pareja"** (formalización verbal) ocurre muy tarde, después de Palermo y del asalto a Camp Alder. Progresión emocional: `confianza → protección → espacio → conocimiento → intimidad → apertura → amenaza → lealtad → hogar → fricción → riesgo de pérdida → nombre`. Ver el encargo completo en [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_CONSOLIDAR_NUEVA_LINEA_TEMPORAL_RELACIONAL]].
+> **CONSOLIDACIÓN DE CRONOLOGÍA RELACIONAL (2026-08-29, CANON DEL AUTOR).** El autor redefinió el orden del arco temprano de Kal y Chiara. Esta tabla y las notas de posición de cada hito **superseden** cualquier posición anterior incompatible. Cambios principales: **H9** se adelanta a entre H3 y H12; **El loft del soltero** se separa de H12 como hito propio; **H10 → H4 → H11** en ese orden (la primera intimidad, H11, ocurre *después* de H10 y H4); **La noche del jacuzzi** se separa de H5 como hito propio, inmediatamente antes de H5; **H5 deja de ser "El hipódromo" y pasa a ser "San Aurelio"**; la **mudanza oficial** se retrasa al cumpleaños de Chiara; **"Mi pareja"** (formalización verbal) ocurre muy tarde, después de Palermo y del asalto a Camp Alder. Progresión emocional: `confianza → protección → espacio → conocimiento → intimidad → apertura → amenaza → lealtad → hogar → fricción → riesgo de pérdida → nombre`. Ver el encargo completo en [[98_Agent_Handoff/archive/chatgpt/PROMPT_CLAUDE_CONSOLIDAR_NUEVA_LINEA_TEMPORAL_RELACIONAL]].
 >
 > **ACTUALIZACIÓN DE POSICIÓN (2026-09-20, CANON DEL AUTOR — sustituye la frase de arriba sobre "Mi pareja").** "Mi pareja" (H21) **ya NO ocurre después de Palermo y de Camp Alder**: el autor decidió adelantarla al cierre de la Parte II, inmediatamente después de "La periferia" (Cap. 33), como Cap. 34 — **escrita en prosa el mismo día** (BORRADOR, pendiente de revisión del autor). Razón: dejar la Parte III — Ardizzone enteramente reservada al arco paralelo Kal (administración criminal junto a Dario, El Patio) / Chiara (Il Consorzio reclamándola como Ardizzone), que ahora incluye el cumpleaños/mudanza (H16), el pañuelo (H13), Italia (H17), el regreso (H18) y Camp Alder (H19-H20). El ID **H21 no cambia** (los IDs son estables, no cronológicos); sólo se mueve su fila en la tabla de orden, de la posición 21 a la 15. **Renumerado en cascada el mismo día (2026-09-20, encargo del autor):** se insertó el Cap. 32 — Línea directa (Kal/Lucia Varek, sin ID de hito propio) entre "Vamos a casa" y "La periferia"; "La periferia" pasó de Cap. 32 a Cap. 33 y "Mi pareja" de Cap. 33 a Cap. 34. Ver tabla actualizada abajo y la sección propia de H21.
 
@@ -21,17 +21,17 @@ Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni
 | 5 | **H9** — La carrera de máscaras *(primera salida fuera de la zona de confort de Chiara; ahora entre H3 y H12)* |
 | 6 | **H12** — El atentado / El corral *(el ataque, el hospital, la investigación fallida, el refugio temporal en La Almendra)* |
 | 7 | **H14 — El loft del soltero** *(Kal recompra la casa de sus padres; Chiara la diseña; ella todavía NO se muda)* |
-| — | *(capítulo puente, sin ID: [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono|La regla del teléfono]] — fin de semana de campamento de Kal con Marisol; instala por qué está incomunicado cuando le da el infarto a Héctor)* |
+| — | *(capítulo puente, sin ID: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono|La regla del teléfono]] — fin de semana de campamento de Kal con Marisol; instala por qué está incomunicado cuando le da el infarto a Héctor)* |
 | 8 | **H10** — El infarto de Héctor *(Héctor los empuja al otro; la mano sobre la mano; terceros ya los leen)* |
 | 9 | **H4** — El día nublado *(la cita del golf; se profundiza la elección — NO se formaliza)* |
 | 10 | **H11** — El mirador *(bolos, el drift, las estrellas — el primer beso y la primera intimidad)* |
 | 11 | **H15 — La noche del jacuzzi** *(máxima apertura deliberada; Varek advierte a Chiara de madrugada)* |
-| — | **· · · CORTE PARTE I → PARTE II · · ·** *(fijado 2026-08-29, autor — Costura A: la Parte I cierra con H11 + el jacuzzi; la Parte II arranca en H5. Ver [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] > "Umbrales auditados > A".)* |
+| — | **· · · CORTE PARTE I → PARTE II · · ·** *(fijado 2026-08-29, autor — Costura A: la Parte I cierra con H11 + el jacuzzi; la Parte II arranca en H5. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] > "Umbrales auditados > A".)* |
 | 12 | **H5** — San Aurelio *(Kal sale de la ciudad; "me encuentro bien"; confrontación Varek–Chiara — arco de la tensión, parte 1)* |
 | 13 | **H6** — El pacto *(arco de la tensión, parte 2)* |
 | 14 | **H7** — El río *(arco de la tensión, parte 3 — el cierre; pareja de facto sin etiqueta)* |
-| — | *(capítulo puente, sin ID: [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Línea directa]], Cap. 32 — DISEÑO NUEVO, insertado 2026-09-20 por encargo del autor: segundo escalón de Kal/[[02_Characters/Lucia_Varek|Lucia Varek]] después de [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/13_Auster|Auster]]; siembra el canal directo que necesita [[#H20 — Consecuencia: Halbrook / prisión militar / Lucia|H20]])* |
-| — | *(capítulo puente, sin ID: [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta|La periferia]], Cap. 33 — primera consecuencia lateral del pacto con Varek sellado en H6; Kenji/Marisol)* |
+| — | *(capítulo puente, sin ID: [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Línea directa]], Cap. 32 — DISEÑO NUEVO, insertado 2026-09-20 por encargo del autor: segundo escalón de Kal/[[02_Characters/Lucia_Varek|Lucia Varek]] después de [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/13_Auster|Auster]]; siembra el canal directo que necesita [[#H20 — Consecuencia: Halbrook / prisión militar / Lucia|H20]])* |
+| — | *(capítulo puente, sin ID: [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta|La periferia]], Cap. 33 — primera consecuencia lateral del pacto con Varek sellado en H6; Kenji/Marisol)* |
 | 15 | **H21 — Mi pareja** *(formalización verbal de Kal y Chiara; Cap. 34, BORRADOR — escrito 2026-09-20. Adelantada aquí 2026-09-20 — ver nota de posición arriba)* |
 | — | **· · · CORTE PARTE II → PARTE III (Ardizzone) · · ·** *(fijado 2026-09-20, autor: la Parte II cierra con H7 + "Línea directa" (Cap. 32) + "La periferia" (Cap. 33) + H21 "Mi pareja" (Cap. 34); la Parte III arranca con H16 — el cumpleaños/mudanza.)* |
 | 16 | **H16 — El cumpleaños / la mudanza oficial** *(Chiara se muda con Kal el día de su cumpleaños; porque lo eligen)* |
@@ -41,7 +41,7 @@ Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni
 | 20 | **H19 — El asalto a Camp Alder** *(Kal no entra a ver a Chiara para poder cumplir la misión; se entrega para cubrir a Héctor y Nadir)* |
 | 21 | **H20 — Consecuencia: Halbrook / prisión militar / Lucia** *(Halbrook lo saca por un trato; Chiara acude a Lucia, que registra que lo suyo excede los negocios)* |
 
-**Orden vigente — CANON DEL AUTOR 2026-09-20, libros reasignados 2026-09-22:** incendio de H8 cierra Sombras de Poder/I → F4 abre Sombras de Poder/II → F3 → F2 (Mei-Lin y Riley el mismo día) → componente Villa de H8 → Stavanger/anillo → Sombras de Poder/III / embarazo / H1. **SUPERSEDIDO:** bloque indivisible F4 → F3 → H8 y su posición pendiente respecto a Camp Alder/H21. Los IDs se conservan.
+**Orden vigente — CANON DEL AUTOR 2026-09-20, libros reasignados 2026-09-22:** incendio de H8 cierra Sombras de Poder/I → F4 abre Sombras de Poder/II → F3 → F2 (Mei-Lin y Bonnie el mismo día) → componente Villa de H8 → Stavanger/anillo → Sombras de Poder/III / embarazo / H1. **SUPERSEDIDO:** bloque indivisible F4 → F3 → H8 y su posición pendiente respecto a Camp Alder/H21. Los IDs se conservan.
 
 ### Posiciones macro vigentes y ejecución todavía pendiente
 
@@ -57,8 +57,9 @@ Las posiciones internas quedaron fijadas el 2026-09-20; no reabrirlas. Mantener 
 |---|---|
 | Final de Sombras de Poder/I; reconstrucción en II después de F2 | **H8** — incendio, mentira vinculada y Villa separados por componentes; no bloque continuo. |
 | Sombras de Poder, Parte I | Primera Navidad y collar **RETORNA A CASA**; primera vela después de F4 (II); clases de italiano sin colocación fina. |
-| Sombras de Poder, Parte II, después de F2 / Riley y Villa | **Stavanger / propuesta**: ubicación canon; ejecución de [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] sigue propuesta, sin ID nuevo. Dependencia antigua de caída previa de Silas pendiente de reconciliación. |
-| Sombras de Poder, Parte II, antes de Villa y Stavanger; antes de H1 | **F2** — ejecución de Mei-Lin por Nadir y destierro de Riley **el mismo día**; conflicto de Riley pendiente. |
+| Sombras de Poder, Parte II, después de F2 / Bonnie y Villa | **Stavanger / propuesta**: ubicación canon; [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]] **canonizado 2026-10-02** (origen de Kal, Henrik, propuesta, concepción de Elenna), prosa BORRADOR, sin ID nuevo. Anillo: robo de joyería con Héctor, Danny y Nadir (CANON DEL AUTOR 2026-10-02). Dependencia antigua de caída previa de Silas pendiente de reconciliación. |
+| Sombras de Poder, Parte II, después de Villa, antes de Stavanger | **Boda de Mabel y Walt** en la terraza del Monarch, organizada por Chiara *(CANON DEL AUTOR 2026-09-29, sin ID)*: Chiara completa en susurro una frase de Mabel con "Te amo." y desecha la idea de casarse con Kal; él ya trae el anillo en la billetera. Detalle en [[01_Timeline/03_Libro_02_Sombras_De_Poder#La boda de Mabel y Walt — la terraza del Monarch]]. |
+| Sombras de Poder, Parte II, antes de Villa y Stavanger; antes de H1 | **F2** — ejecución de Mei-Lin por Nadir y destierro de Bonnie **el mismo día**; conflicto de Bonnie pendiente. |
 | Sombras de Poder, Parte III, después de F2, Villa y propuesta | **H1** — clímax del Libro II; Chiara sabe del embarazo, Kal aún no. Reveal posterior a recuperación mínima. |
 | **Libro II — Sombras de Poder**, después de H1, cierra el libro | **Reveal del embarazo a Kal** *(momento obligatorio por diseñar, sin ID; sólo después de que esté fuera de peligro y regrese cierta normalidad doméstica)* |
 | **Voto de Ceniza (Libro III)**, primer tramo importante | **Nacimiento, muerte pública y separación de Elenna** *(posición relativa fijada; capítulo, fecha y detonante pendientes)* |
@@ -73,7 +74,7 @@ Las posiciones internas quedaron fijadas el 2026-09-20; no reabrirlas. Mantener 
 
 Esta secuencia supersede cualquier colocación anterior del embarazo como sorpresa tardía y cualquier ubicación de H1 después de la Guerra de los Tres:
 
-`Chiara confirma el embarazo → H1 (Chiara sabe / Kal no) → recuperación de Kal → reveal a Kal → cierre del Libro II — Sombras de Poder → Voto de Ceniza abre con la guerra en escalada → nacimiento de Elenna en su primer tramo importante → muerte pública / Elenna Serra con Riley → separación y fotografías → H22 — Los primeros pasos → caída de Dario / montaña / Santa Lucía → Kal sentencia a Halbrook`.
+`Chiara confirma el embarazo → H1 (Chiara sabe / Kal no) → recuperación de Kal → reveal a Kal → cierre del Libro II — Sombras de Poder → Voto de Ceniza abre con la guerra en escalada → nacimiento de Elenna en su primer tramo importante → muerte pública / Elenna Serra con Bonnie → separación y fotografías → H22 — Los primeros pasos → caída de Dario / montaña / Santa Lucía → Kal sentencia a Halbrook`.
 
 Reglas duras:
 
@@ -82,8 +83,8 @@ Reglas duras:
 - El reveal no ocurre durante la hemorragia, la atención médica, el baño ni el pico de H1. Kal debe quedar fuera de peligro, dormir, iniciar recuperación y recuperar cierta normalidad doméstica antes de saberlo.
 - El Libro II construye poder y familia simultáneamente. El embarazo atraviesa la vida doméstica sin convertir cada capítulo en escena médica o de síntomas.
 - La Guerra de los Tres no nace por Elenna. Recibe a Chiara ya embarazada e invade una vida familiar en marcha.
-- **F2 ocurre en el Libro II — Sombras de Poder, antes de H1**, por el conflicto propio de Riley. Su presencia futura en Italia es payoff, nunca motivo retroactivo del destierro.
-- Elenna nace en el primer tramo importante de Voto de Ceniza (Libro III), después de que Riley esté fuera de San Aurelio y tenga una vida/cobertura estable en Italia desde el Libro II. La fecha, semana y capítulo exactos siguen pendientes.
+- **F2 ocurre en el Libro II — Sombras de Poder, antes de H1**, por el conflicto propio de Bonnie. Su presencia futura en Italia es payoff, nunca motivo retroactivo del destierro.
+- Elenna nace en el primer tramo importante de Voto de Ceniza (Libro III), después de que Bonnie esté fuera de San Aurelio y tenga una vida/cobertura estable en Italia desde el Libro II. La fecha, semana y capítulo exactos siguen pendientes.
 - El detonante que obliga a ocultar a Elenna debe nacer orgánicamente de la escalada, la exposición y la imposibilidad de proteger a una bebé sin volverla objetivo. Sigue pendiente.
 - La duración de trabajo para la separación es **cerca de un año**, suficiente para que Elenna llegue a sus primeros pasos; el calendario exacto no se fija hasta cuadrar la cronología global.
 - **H22 ocurre antes de la caída de Dario, la montaña y Santa Lucía — no después.** No depende de que la arquitectura bélica esté cerrada; depende de que la separación de Elenna ya sea experiencia cotidiana.
@@ -132,9 +133,11 @@ Llega al casino con ese hombre. **Ella está afuera, en la entrada, fumando un c
 
 Y la historia de los dos empieza con **un apretón de manos** y dos líneas:
 
-> **— Io sono Chiara Bellandi.**
+> **— Ciao, sono Chiara Bellandi.**
 >
 > **— Encantado de conocerla.**
+
+> **CANON DEL AUTOR (2026-09-26):** la presentación es *"Ciao, sono Chiara Bellandi"*; sustituye a *"Io sono Chiara Bellandi"*. El *Ciao* de Chiara queda así sembrado desde la primera línea, y el *"Ciao, bella"* de Kal en Cap. 35 lo cita directamente.
 
 ### Por qué estas dos líneas son enormes
 
@@ -263,7 +266,7 @@ Kal es el hombre que se vuelve lo que cada habitación necesita, y aquí **no le
 - **Ella se da cuenta de todo.** Chiara lee gente para vivir: sabe perfectamente lo que es esta noche. Y **le sigue la corriente**, que es una forma de ternura y también su primera concesión.
 - **Kal nunca menciona lo que le costó nada de esto.** Ni el restaurante, ni la camioneta, ni la tarde con el perro.
 
-> **RESUELTO EN BORRADOR (2026-08-24):** en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/05_La_Casa_No_Quiere_Ruido|Capítulo 5 — Una amiga]] *(fusionado con el antiguo Cap. 6 el 2026-09-10; el contenido vive ahora en el archivo 05)*, la terraza conversa sin revelaciones limpias: comida, San Aurelio, Palermo, cafe, version/piezas, y silencios comodos. Lo que avanza es el hecho de estar ahi.
+> **RESUELTO EN BORRADOR (2026-08-24):** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05_Una_Amiga|Capítulo 5 — Una amiga]] *(fusionado con el antiguo Cap. 6 el 2026-09-10; el contenido vive ahora en el archivo 05)*, la terraza conversa sin revelaciones limpias: comida, San Aurelio, Palermo, cafe, version/piezas, y silencios comodos. Lo que avanza es el hecho de estar ahi.
 
 > **RESUELTO EN BORRADOR (2026-08-24):** el acuerdo con *Il Gelsomino* queda sembrado desde Capitulo 1: Kal arregla/atiende camioneta refrigerada, extractor, filtros y cerradura trasera; Claudio le deja la terraza disponible cuando la pida. *(Nota: gelsomino = jazmín. El vault ya tenía el jazmín como olor de Cuesta Bonita — coincidencia útil, no forzarla.)*
 
@@ -323,7 +326,7 @@ Llega con **dos hamburguesas y dos malteadas** para la cena, y una dotación de 
 
 > **DISEÑO:** dos personas que mueven dinero ajeno, cuidándole el sillón a alguien más. Es el chiste y la ternura de la noche entera en un solo gesto, y es la primera aparición de *la incomodidad de estar cómodos*.
 
-**1-b. La cocina que nadie usa (durante el recorrido).** Kal abre un cajón vacío; Chiara, **sin que él pregunte**, cuenta una anécdota suya de la infancia — a los seis años se pasó una fiesta entera grabando con una cámara de video pesadísima desde un rincón, muy seria, mientras Vitto le pisaba los pies bailando, y su padre le dijo que *en la vida no se baila concentrada* y que *una Ardizzone baila aunque le pisen los pies*. Ella se quedó con la frase y la sigue usando. Cierra con Kal: *"Yo habría pisado peor que Vitto." / "De eso no tengo ninguna duda."* — lo más cerca que están esa noche de hablar de bailar juntos.
+**1-b. La cocina que nadie usa (durante el recorrido).** Kal abre un cajón vacío; Chiara, **sin que él pregunte**, cuenta una anécdota suya de la infancia — a los seis años se pasó una fiesta entera grabando con una cámara de video pesadísima desde un rincón, muy seria, mientras Fabrizio le pisaba los pies bailando, y su padre le dijo que *en la vida no se baila concentrada* y que *una Ardizzone baila aunque le pisen los pies*. Ella se quedó con la frase y la sigue usando. Cierra con Kal: *"Yo habría pisado peor que Vitto." / "De eso no tengo ninguna duda."* — lo más cerca que están esa noche de hablar de bailar juntos.
 
 > **AJUSTE DE BORRADOR (2026-08-27).** Se añadió para que la noche **no sea asimétrica**: Kal abría (Michael/Marisol, calavera, carreras) y Chiara sólo administraba versiones. Ahora ella también pone algo sobre la mesa por voluntad propia, ligero, con forma de anécdota. El **Capítulo 2** siembra la imagen sin resolverla (el recuerdo del vuelo: la niña con la cámara pesada, Vitto pisándole el pie, ella que no baja la cámara) — pero **la frase de Corrado y su significado se recortaron de allí** para que **estrenen aquí**. La frase es de **Corrado**, no "de la Ardizzone". Función temática: es la semilla de su problema de control (documentar/gestionar en vez de estar) y a la vez la promesa de que puede soltarlo. El pago está completo en el Cap. 7: el lector que vio a la niña negándose a bajar la cámara siente que ella le está entregando algo que guarda.
 
@@ -488,7 +491,7 @@ La noche en que todo cambia es **la única noche del libro en que no puede condu
 
 > **RESUELTO (2026-08-23):** las canciones (*Un anno d'amore* / *The World Is Yours*), que **fuman los dos**, y la ficha del penthouse — creada en [[05_Locations/El_Penthouse]].
 
-> **RESUELTO EN BORRADOR (2026-08-24):** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/06_Ambos]] ejecuta H2-b y coloca el paso del usted al tu al final, con la linea canon *Eres increible / Ambos somos increibles*.
+> **RESUELTO EN BORRADOR (2026-08-24):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Ambos]] ejecuta H2-b y coloca el paso del usted al tu al final, con la linea canon *Eres increible / Ambos somos increibles*.
 
 > **PENDIENTE:** dónde vuelve *Un anno d'amore*. Ahora que se sabe que es la casa de sus padres, tiene dos destinos posibles y opuestos: en la Fase V señala lo que están perdiendo; al final, lo que consiguieron. **Elegir uno.**
 
@@ -498,7 +501,7 @@ La noche en que todo cambia es **la única noche del libro en que no puede condu
 
 # H12 — El atentado / El corral
 
-> **CANON DEL AUTOR (2026-08-27; delimitación revisada 2026-08-29).** Cae después de [[#H9 — La carrera de máscaras]] y antes de [[#H14 — El loft del soltero]]. **ESCRITO** en el Capítulo 9 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/09_El_Corral]]); el Capítulo 10 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]]) ejecuta el hito siguiente, ya separado. Es la **primera aparición en prosa de Il Consorzio**, aunque no se revela como tal en el momento del ataque — sólo se deduce después, ver [[#H13 — El pañuelo]].
+> **CANON DEL AUTOR (2026-08-27; delimitación revisada 2026-08-29).** Cae después de [[#H9 — La carrera de máscaras]] y antes de [[#H14 — El loft del soltero]]. **ESCRITO** en el Capítulo 9 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_El_Corral]]); el Capítulo 10 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]]) ejecuta el hito siguiente, ya separado. Es la **primera aparición en prosa de Il Consorzio**, aunque no se revela como tal en el momento del ataque — sólo se deduce después, ver [[#H13 — El pañuelo]].
 
 > **NUEVA DELIMITACIÓN CONCEPTUAL (2026-08-29).** H12 cubre **sólo**: el atentado, el hospital, la investigación inmediata, la salida, y que Chiara termine **refugiándose temporalmente** en [[05_Locations/Casa_Comunitaria_De_La_Almendra]]. La recompra y el diseño de la casa quedan como **hito propio siguiente** ([[#H14 — El loft del soltero]]).
 >
@@ -528,9 +531,11 @@ En el hospital, con el cuarto en silencio y Chiara todavía sin despertar, Kal l
 
 Le pide a Héctor que lo cubra y sale a investigar un nombre — un guardia de las caballerizas que se fue temprano sin avisar. Lo secuestra, lo interroga, no saca nada útil, lo suelta. **Es un fracaso, y es feo — el libro no lo justifica.**
 
-Vuelve al cuarto y se encuentra con Dario Varek, de pie junto a la cama sedada. **Se apuntan con sus armas, culpándose mutuamente de lo que le pasó a Chiara.** Llegan a una tregua: cada uno investiga por su lado y comparten lo que encuentren. Kal omite la llamada por reflejo — es información, y la información es una carta — y le da a Dario la primera versión oficial: estaba en el taller, volvió y la encontró en las caballerizas. Cuando Chiara despierta, Kal la pone al tanto antes de que vuelva a dormirse.
+Vuelve al cuarto y se encuentra con Dario Varek, de pie junto a la cama sedada. **Se apuntan con sus armas, culpándose mutuamente de lo que le pasó a Chiara.** Llegan a una tregua: cada uno investiga por su lado y comparten lo que encuentren. Kal omite la llamada por reflejo — es información, y la información es una carta — y le da a Dario la primera versión oficial: estaba en el taller, volvió y la encontró en las caballerizas. ~~Cuando Chiara despierta, Kal la pone al tanto antes de que vuelva a dormirse.~~ **CANON DEL AUTOR (2026-09-26):** al despertar Kal sólo le pide que descanse; Chiara llega al alta sin conocer la versión ni la tregua y las lee en vivo frente a Dario (de ahí el cruce corral/caballerizas: Dario no detecta el error, sino que los dos se están alineando).
 
-> **SIEMBRA DE TENSIÓN Dario→Kal (2026-09-10, Claude Code — DISEÑO, pendiente de validación del autor).** Al bajar las armas, antes de salir, **Dario le dice a Kal que lo que le pasó a Chiara lo arregla él y que Kal "no tiene vela ahí. Ni en eso ni en ella"** (frase exacta = inferencia del agente). Kal lo minimiza (*"me apuntó con un arma y los dos seguimos aquí; lo demás son frases"*); **Chiara, cuando Kal se lo cuenta, no** (*"a Dario no se le pasan las cosas; las anota… dice lo que ya decidió"*). **Función:** (a) raizar el borrador *"no es Varek"* del [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/27_Riesgo_Pendiente|Cap. 28]] y la asimetría de calma entre los dos (Kal despreocupado con Varek — el peso real es Halbrook; Chiara no, porque Varek es su jefe y es lo único visible); (b) escalar hacia las tres líneas canon del taller ([[#H5 — San Aurelio]]): de "marcar una pared" a instruir a Chiara directamente y hacerla el instrumento. Sembrado en prosa en el [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 26]] (jacuzzi) y pagado en Caps. 28-29. Si el autor cambia o retira la frase, revisar esos tres capítulos.
+> **SIEMBRA DE TENSIÓN Dario→Kal (2026-09-10, Claude Code — DISEÑO, pendiente de validación del autor).** Al bajar las armas, antes de salir, **Dario le dice a Kal que lo que le pasó a Chiara lo arregla él y que Kal "no tiene vela ahí. Ni en eso ni en ella"** (frase exacta = inferencia del agente). Kal lo minimiza (*"me apuntó con un arma y los dos seguimos aquí; lo demás son frases"*); **Chiara, cuando Kal se lo cuenta, no** (*"a Dario no se le pasan las cosas; las anota… dice lo que ya decidió"*). **Función:** (a) raizar el borrador *"no es Varek"* del [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/27_Riesgo_Pendiente|Cap. 28]] y la asimetría de calma entre los dos (Kal despreocupado con Varek — el peso real es Halbrook; Chiara no, porque Varek es su jefe y es lo único visible); (b) escalar hacia las tres líneas canon del taller ([[#H5 — San Aurelio]]): de "marcar una pared" a instruir a Chiara directamente y hacerla el instrumento. Sembrado en prosa en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 26]] (jacuzzi) y pagado en Caps. 28-29. Si el autor cambia o retira la frase, revisar esos tres capítulos.
+
+> **Actualización (2026-09-26):** la línea canon de Dario al salir es *"La tregua es por lo que le pasó, señor Mercer. No por ella."* (sustituye la frase DISEÑO de arriba); desde hoy está en la prosa del Cap. 9 y el 25 la cita. **Siembra (DISEÑO, aprobada en lugar):** tras la llamada ("¿Es usted el mecánico?"), el primer pensamiento de Kal es que vinieron por su pasado, no por ella; no lo dice. Espejo del temblor de Chiara en la casa común. Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_09_El_Corral]].
 
 Ejecutado en el Capítulo 9. **Esto absorbe y ejecuta los beats 1-6 de H5 — ver nota de fusión al final de H5.**
 
@@ -580,7 +585,7 @@ Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Kal_Mercer]] 
 
 # H14 — El loft del soltero
 
-> **CANON DEL AUTOR (2026-08-29).** Cae después de [[#H12 — El atentado / El corral]] y antes de [[#H10 — El infarto de Héctor]]. Se separa de H12, del que antes era la segunda mitad. **Ejecutado en prosa en el Capítulo 10** ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]]); la prosa se podó el 2026-08-29 (opción A) para retirar la convivencia prematura — ver la nota de H12. **ID: H14** (asignado 2026-08-29).
+> **CANON DEL AUTOR (2026-08-29).** Cae después de [[#H12 — El atentado / El corral]] y antes de [[#H10 — El infarto de Héctor]]. Se separa de H12, del que antes era la segunda mitad. **Ejecutado en prosa en el Capítulo 10** ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]]); la prosa se podó el 2026-08-29 (opción A) para retirar la convivencia prematura — ver la nota de H12. **ID: H14** (asignado 2026-08-29).
 
 ## La recompra
 
@@ -641,7 +646,7 @@ Ver también: [[02_Characters/Kal_Mercer]] · [[02_Characters/Chiara_Bellandi]] 
 
 # H13 — El pañuelo
 
-> **ESCRITO (2026-09-20, Claude Code, BORRADOR, encargo del autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/38_Al_Reves|Capítulo 38 — Al revés]] (título provisional). La intercepción se rinde como **recuerdo dramatizado** dentro de la fiesta del yate (ocurrió "hace unos días", sin fijar cuántos, al salir de la misa de las ocho de Santa Lucía), con todos los beats canon de abajo: dos hombres, casa neutral en la ladera con muebles tapados, café servido en el orden de la Mesa, "signora Lusardi" → "—Ardizzone.", acusación de "recolectando migajas de poder", negación que es verdad a medias, pañuelo de lino con "C" bordada, bala corriente, y la línea canon textual (se conservó la abreviatura "Sra." tal cual; señalar si el autor prefiere "señora"). **Lo que la Mesa sabe, acotado por el autor:** que Matteo se fue, que Chiara consolida poder, rumores de que reúne información y activos y de que "hay quien cree que está construyendo algo suyo" — no enumera Kenji, periódico, viñedo ni círculo. De vuelta en el yate, Chiara le muestra el pañuelo y **Kal recibe la bala en la mano** ("Es corriente" / "Que no nos lleva a nadie" — sin forense); es lo que lo decide. Chiara dice que **cree**, sin pruebas, que fue el Consorcio en H12; Kal confirma que su investigación nunca cerró y que "esto tiene por dónde seguir". **Chiara se va esa misma noche** ("no sé si voy a regresar íntegra"); Kal: **"Voy contigo."** — activa [[#H17 — Italia / Mesa de las Familias|H17]] sin escribir nada de Palermo.
+> **ESCRITO (2026-09-20, Claude Code, BORRADOR, encargo del autor):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Capítulo 38 — Al revés]] (título provisional). La intercepción se rinde como **recuerdo dramatizado** dentro de la fiesta del yate (ocurrió "hace unos días", sin fijar cuántos, al salir de la misa de las ocho de Santa Lucía), con todos los beats canon de abajo: dos hombres, casa neutral en la ladera con muebles tapados, café servido en el orden de la Mesa, "signora Lusardi" → "—Ardizzone.", acusación de "recolectando migajas de poder", negación que es verdad a medias, pañuelo de lino con "C" bordada, bala corriente, y la línea canon textual (se conservó la abreviatura "Sra." tal cual; señalar si el autor prefiere "señora"). **Lo que la Mesa sabe, acotado por el autor:** que Matteo se fue, que Chiara consolida poder, rumores de que reúne información y activos y de que "hay quien cree que está construyendo algo suyo" — no enumera Kenji, periódico, viñedo ni círculo. De vuelta en el yate, Chiara le muestra el pañuelo y **Kal recibe la bala en la mano** ("Es corriente" / "Que no nos lleva a nadie" — sin forense); es lo que lo decide. Chiara dice que **cree**, sin pruebas, que fue el Consorcio en H12; Kal confirma que su investigación nunca cerró y que "esto tiene por dónde seguir". **Chiara se va esa misma noche** ("no sé si voy a regresar íntegra"); Kal: **"Voy contigo."** — activa [[#H17 — Italia / Mesa de las Familias|H17]] sin escribir nada de Palermo.
 
 > **CANON DEL AUTOR (2026-08-27; posición fijada 2026-08-29).** **Posición canon:** ocurre **después del [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños / la mudanza]] e inmediatamente antes de [[#H17 — Italia / Mesa de las Familias|Italia / Mesa de las Familias]]** — es el gatillo de ese viaje. **Arco reservado: planta el viaje a Palermo — el agente no debe adelantar ni inventar contenido de ese viaje.**
 
@@ -699,7 +704,7 @@ Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Leone_Valenti
 
 > **CANON DEL AUTOR (2026-08-26; reposicionado 2026-08-29).** El primer beso y la primera intimidad de Kal y Chiara. **Nueva posición canon:** ocurre **después de [[#H4 — El día nublado]]** y antes de [[#H15 — La noche del jacuzzi]]. La secuencia es **H10 → H4 → H11**: H10 = terceros los empujan; H4 = conocimiento y elección; **H11 = el cruce romántico y físico.** Cuatro movimientos: los bolos, el drift, el mirador, el penthouse.
 >
-> **ORDEN DE MANUSCRITO — RESUELTO por reordenación (2026-08-29, opción A) + renumerado +1 dos veces (Cap. 14 puente *La regla del teléfono* y Cap. 9 nuevo *La carrera de máscaras*).** Numeración vigente: **Cap. 15 = El portón** (H10 1ª mitad) · **Cap. 16 = Cuatro letras** (H10 2ª mitad) · **Cap. 17 = El día nublado** (H4) · **Cap. 18 = El mirador** (este hito) · **Cap. 19 = Sin rastro**. **Prosa cerrada el 2026-08-29 (triaje PROSA-A/B/C/D):** apertura del Cap. 15 reescrita, apertura del Cap. 18 reescrita al residuo del Cap. 17 (H4), Cap. 17 redactado completo, Héctor en Caps. 15-16 revisado sin cambios. Falta regenerar el EPUB.
+> **ORDEN DE MANUSCRITO — RESUELTO por reordenación (2026-08-29, opción A) + renumerado +1 dos veces (Cap. 14 puente *La regla del teléfono* y Cap. 9 nuevo *La carrera de máscaras*).** Numeración vigente: **Cap. 15 = El portón** (H10 1ª mitad) · **Cap. 16 = Cuatro letras** (H10 2ª mitad) · **Cap. 17 = El día nublado** (H4) · **Cap. 18 = El mirador** (este hito) · **Cap. 19 = Sin rastro**. *(Numeracion historica. Vigente al 2026-09-26: Cap. 15 = El portón · Cap. 16 = El sobre rojo · Cap. 18 = El día nublado · Cap. 20 = El mirador · Cap. 22 = Causalidad.)* **Prosa cerrada el 2026-08-29 (triaje PROSA-A/B/C/D):** apertura del Cap. 15 reescrita, apertura del Cap. 18 reescrita al residuo del Cap. 17 (H4), Cap. 17 redactado completo, Héctor en Caps. 15-16 revisado sin cambios. Falta regenerar el EPUB.
 
 ## Los bolos y el vino
 
@@ -716,7 +721,7 @@ Kal para el auto en seco. Se gira hacia ella con una mirada de incredulidad fing
 
 Y ahí Chiara entiende que cometió un error: Kal no contesta con palabras, se lo muestra. Baja una curva entera driftando, impecable, sin chocar una sola vez. Chiara se agarra —figurativamente— hasta del tapete.
 
-> **SINCRONIZADO CON LA PROSA (2026-09-10).** La formulación anterior de este beat era una sola línea de Chiara («¿No me digas que tú...», Kal sin contestar). La prosa aprobada y protegida del Cap. 21 (el autor la considera cerrada) tiene el intercambio de dos réplicas: **Kal abre** «No me digas que tú...» siguiendo su indignación fingida y **Chiara la voltea** con «No me digas *tú* que no», y ahí entiende que lo provocó. Manda la prosa; esta tabla se ajustó a ella. Decisión del autor.
+> **SINCRONIZADO CON LA PROSA (2026-09-10).** La formulación anterior de este beat era una sola línea de Chiara («¿No me digas que tú...», Kal sin contestar). La prosa aprobada y protegida del Cap. 20 (el autor la considera cerrada) tiene el intercambio de dos réplicas: **Kal abre** «No me digas que tú...» siguiendo su indignación fingida y **Chiara la voltea** con «No me digas *tú* que no», y ahí entiende que lo provocó. Manda la prosa; esta tabla se ajustó a ella. Decisión del autor.
 
 Él la reta: que lo intente ella. Ella dice que no sabría hacerlo.
 
@@ -766,11 +771,11 @@ Ver también: [[02_Characters/Kal_Mercer]] · [[02_Characters/Chiara_Bellandi]] 
 
 # H10 — El infarto de Héctor
 
-> **CANON DEL AUTOR (2026-08-26; reposicionado 2026-08-29; causa de la ausencia de Kal redefinida el 2026-08-29 — encargo [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]]).** Ocurre con Kal ya viviendo en el loft de sus padres ([[05_Locations/La_Casa]]) — que ya recompró y que Chiara ya diseñó ([[#H14 — El loft del soltero]]). **Nueva posición canon:** va **antes de [[#H4 — El día nublado]] y de [[#H11 — El mirador]]**. En este punto Kal y Chiara **todavía no han cruzado la intimidad** — H11 es el primer beso y viene después. Lo que ocurre aquí es que **Héctor los empuja emocionalmente el uno hacia el otro** y **terceros ya leen lo que ellos evitan nombrar.**
+> **CANON DEL AUTOR (2026-08-26; reposicionado 2026-08-29; causa de la ausencia de Kal redefinida el 2026-08-29 — encargo [[98_Agent_Handoff/archive/chatgpt/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]]).** Ocurre con Kal ya viviendo en el loft de sus padres ([[05_Locations/La_Casa]]) — que ya recompró y que Chiara ya diseñó ([[#H14 — El loft del soltero]]). **Nueva posición canon:** va **antes de [[#H4 — El día nublado]] y de [[#H11 — El mirador]]**. En este punto Kal y Chiara **todavía no han cruzado la intimidad** — H11 es el primer beso y viene después. Lo que ocurre aquí es que **Héctor los empuja emocionalmente el uno hacia el otro** y **terceros ya leen lo que ellos evitan nombrar.**
 
 ## Contexto — la ausencia elegida
 
-Kal pasa **todo el fin de semana de campamento con [[02_Characters/Marisol_Grayson]]**, poco antes de que ella vuelva a clases — un capítulo puente propio ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono|Cap. 14 — La regla del teléfono]]). La incomunicación **no es un accidente**: existe una regla vieja entre ellos, heredada de [[02_Characters/Michael_Grayson]] — durante el campamento los teléfonos se guardan. Kal protesta porque el taller no puede quedarse sin él dos días; Marisol responde que Walt sabe encargarse y gana: la regla existe para que Kal esté presente allí. Kal apaga el teléfono con sus propias manos. Puede haber además mala cobertura en la montaña, pero la causa principal es la decisión de estar presente con Marisol.
+Kal pasa **todo el fin de semana de campamento con [[02_Characters/Marisol_Grayson]]**, poco antes de que ella vuelva a clases — un capítulo puente propio ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono|Cap. 14 — La regla del teléfono]]). La incomunicación **no es un accidente**: existe una regla vieja entre ellos, heredada de [[02_Characters/Michael_Grayson]] — durante el campamento los teléfonos se guardan. Kal protesta porque el taller no puede quedarse sin él dos días; Marisol responde que Walt sabe encargarse y gana: la regla existe para que Kal esté presente allí. Kal apaga el teléfono con sus propias manos. Puede haber además mala cobertura en la montaña, pero la causa principal es la decisión de estar presente con Marisol.
 
 > **Reemplaza** la versión anterior (Kal y Walt salen a mover un cargamento de hierba de Nadir). Walt ya no viaja: se queda en la ciudad, sabe que Kal está de campamento con Marisol "por el norte" pero no en qué sitio.
 
@@ -995,11 +1000,13 @@ Y la otra mitad:
 - **Nadie nombra el parecido físico.** Es información para el lector, no para los personajes.
 - **El ladrillo no se explica.** Ni el chiste, ni por qué le hizo gracia.
 
+> **DECISIÓN DEL AUTOR (2026-09-27, cirugía del lote A):** en la prosa del Cap. 7, las dos primeras restricciones ceden ante la tesis canon ("Lo que Chiara entiende esa noche"). El taxi conserva un monólogo breve que nombra el parecido físico ("Los dos rubios…" / "el rubio de ojos azules que le importaba no era Blake"), porque [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/18_El_Dia_Nublado|18]] lo cobra. Sólo se cortó una tercera formulación redundante. Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_04-13_Lote_A]].
+
 ## Pendientes de H3
 
 > **PENDIENTE:** ¿cuándo y cómo termina lo de Blake? Y si él vuelve más adelante — un policía despechado que además conoce a Chiara es una pieza cargada.
 
-> **RESUELTO EN BORRADOR (2026-08-27):** Dario le confirma que los preparativos del torneo de póker van bien (Tommaso se lo dijo "con menos entusiasmo del que le hubiera gustado mostrar") y cierra con su línea de asignar valor: "San Aurelio premia a la gente que entiende su lugar." Breve, sin amenaza directa. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/07_La_Noche_Del_Ladrillo]]. Inferencia del agente, discutible.
+> **RESUELTO EN BORRADOR (2026-08-27):** Dario le confirma que los preparativos del torneo de póker van bien (Tommaso se lo dijo "con menos entusiasmo del que le hubiera gustado mostrar") y cierra con su línea de asignar valor: "San Aurelio premia a la gente que entiende su lugar." Breve, sin amenaza directa. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/07_La_Noche_Del_Ladrillo]]. Inferencia del agente, discutible.
 
 > **PENDIENTE:** ¿qué trabajo tienen de madrugada los cuatro? Explica por qué el Peugeot entró a un callejón antes de la fiesta.
 
@@ -1130,9 +1137,9 @@ Y es también **la primera vez que se quedan dormidos juntos**, sin que pase nad
 
 > **CANON DEL AUTOR (2026-08-23; reposicionado 2026-08-29).** Uno de los primeros momentos en que Kal saca a Chiara de su zona de confort. **Nueva posición canon:** ocurre **entre [[#H3 — La noche del ladrillo]] y [[#H12 — El atentado / El corral]]** — ya no después de H4. Todavía son formalmente amigos. Función: Kal la saca de su zona de confort; sube la intimidad y la confianza. Actualizar toda tabla cronológica donde aparezca en otra posición.
 >
-> **ESCRITO (2026-08-29)** como **Capítulo 8** — [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/08_La_Carrera_De_Mascaras]] (encargo [[98_Agent_Handoff/ChatGPT/PROMPT_CLAUDE_H9_CARRERA_DE_MASCARAS_Y_COSTURA_CORRAL]]). En la misma pasada se recosió la apertura de [[#H12 — El atentado / El corral]] (Cap. 10) al residuo de H9 y se renumeró el manuscrito (9→10 … 18→19). Las dos líneas canon van intactas.
+> **ESCRITO (2026-08-29)** como **Capítulo 8** — [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/08_La_Carrera_De_Mascaras]] (encargo [[98_Agent_Handoff/archive/chatgpt/PROMPT_CLAUDE_H9_CARRERA_DE_MASCARAS_Y_COSTURA_CORRAL]]). En la misma pasada se recosió la apertura de [[#H12 — El atentado / El corral]] (Cap. 10) al residuo de H9 y se renumeró el manuscrito (9→10 … 18→19). Las dos líneas canon van intactas.
 >
-> **TRIADO — pendiente de edición editorial global (2026-08-29).** Microedición de prosa aplicada (encargo [[98_Agent_Handoff/ChatGPT/ENCARGO_CLAUDE_MICROEDICION_H9_Y_CORRAL]]): podados residuos de encargo ("No narró lo que hizo con el coche", checklist "no hubo beso / no hubo un sube"), la sobreexplicación de la risa de Chiara y varias frases de tesis (inversión Monarch, apellido, "Chiara entendió una cosa"); la apertura de *El corral* deja de recapitular el evento de H9. Función y beats idénticos. No CERRADO.
+> **TRIADO — pendiente de edición editorial global (2026-08-29).** Microedición de prosa aplicada (encargo [[98_Agent_Handoff/archive/chatgpt/ENCARGO_CLAUDE_MICROEDICION_H9_Y_CORRAL]]): podados residuos de encargo ("No narró lo que hizo con el coche", checklist "no hubo beso / no hubo un sube"), la sobreexplicación de la risa de Chiara y varias frases de tesis (inversión Monarch, apellido, "Chiara entendió una cosa"); la apertura de *El corral* deja de recapitular el evento de H9. Función y beats idénticos. No CERRADO.
 
 ## La pregunta
 
@@ -1229,9 +1236,9 @@ Esa sonrisa es el centro del hito.
 > **NOTA DE ARCHIVO.** Lo que sigue en las secciones numeradas 1–10 y 11 es el **material antiguo de H5**, que se conserva como registro pero **ya está ejecutado dentro de [[#H12 — El atentado / El corral]] y [[#H15 — La noche del jacuzzi]]**. El material **vivo y sin escribir** de H5 empieza en la sección **"12. El mensaje, y la salida de la ciudad"** y sigue en **"La confrontación Dario–Chiara"**.
 
 > **ESCRITO (2026-09-09 / 2026-09-10, Claude Code — BORRADOR, falta revisión del autor):**
-> - [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/26_Me_Encuentro_Bien|Capítulo 26 — Me encuentro bien]] (abre la Parte II), POV Chiara: la advertencia de Varek de madrugada (**rendida como recuerdo comprimido, cierre de H15 — decisión del autor 2026-09-09: se queda como recuerdo, no se escribe como escena**), el mensaje *"me encuentro bien"* como detonante, la conversación con Walt en la destilería, la investigación a Varek y **la confrontación Dario–Chiara completa con las tres líneas canon** + *"vas a aprender tu lugar"*, en el [[05_Locations/El_Taller_del_Norte|taller del norte]].
-> - [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/27_Riesgo_Pendiente|Capítulo 27 — Riesgo pendiente]], POV Kal (paralelo al 27): las secciones 12 y ss. desde su lado — la convocatoria de madrugada, los dos mensajes canon redactados desde su mano, el trayecto, la reunión con Halbrook fuera de San Aurelio (la correa reimpuesta: trabajar para él o Nadir a ICE; "es un papel"), la paliza como "recordatorio" a manos de contratistas (no de Halbrook), y la decisión de no darle a Chiara ningún nombre. **Halbrook escrito como hombre funcional / logística**, trata a Kal como "riesgo pendiente". No se resuelve teatro/años, la última operación (sólo su versión oblicua), qué gana, ni la relación con Varek.
-> - [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/28_La_Correa|Capítulo 28 — La correa]], POV Chiara: **sección 14 completa** ("La peor noche" — sola en el loft, la sudadera de Kal como disfraz operativo, reza sin ritual) y el arranque de H6 (ver nota en H6).
+> - [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/26_Me_Encuentro_Bien|Capítulo 26 — Me encuentro bien]] (abre la Parte II), POV Chiara: la advertencia de Varek de madrugada (**rendida como recuerdo comprimido, cierre de H15 — decisión del autor 2026-09-09: se queda como recuerdo, no se escribe como escena**), el mensaje *"me encuentro bien"* como detonante, la conversación con Walt en la destilería, la investigación a Varek y **la confrontación Dario–Chiara completa con las tres líneas canon** + *"vas a aprender tu lugar"*, en el [[05_Locations/El_Taller_del_Norte|taller del norte]].
+> - [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/27_Riesgo_Pendiente|Capítulo 27 — Riesgo pendiente]], POV Kal (paralelo al 27): las secciones 12 y ss. desde su lado — la convocatoria de madrugada, los dos mensajes canon redactados desde su mano, el trayecto, la reunión con Halbrook fuera de San Aurelio (la correa reimpuesta: trabajar para él o Nadir a ICE; "es un papel"), la paliza como "recordatorio" a manos de contratistas (no de Halbrook), y la decisión de no darle a Chiara ningún nombre. **Halbrook escrito como hombre funcional / logística**, trata a Kal como "riesgo pendiente". No se resuelve teatro/años, la última operación (sólo su versión oblicua), qué gana, ni la relación con Varek.
+> - [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/28_La_Correa|Capítulo 28 — La correa]], POV Chiara: **sección 14 completa** ("La peor noche" — sola en el loft, la sudadera de Kal como disfraz operativo, reza sin ritual) y el arranque de H6 (ver nota en H6).
 > **H5 queda cubierto en prosa** salvo pases de revisión del autor.
 
 ---
@@ -1472,11 +1479,11 @@ Y **se pone la sudadera de Kal para aparentar que él está en casa.**
 
 > **CANON DEL AUTOR (2026-08-29).** Se separa definitivamente de H5. Hito independiente. Ocurre **después de [[#H11 — El mirador]]** y **inmediatamente antes de [[#H5 — San Aurelio]]** — es su detonante. **ID: H15** (asignado 2026-08-29).
 
-> **ESCRITO (2026-09-09, catchup manual desde borrador de sesión de escritorio; falta revisión del autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/25_Libros_Abiertos|Capítulo 25 — Libros abiertos]] cubre la compra del Lancia y la noche de libros abiertos (familia de Chiara e Il Consorzio; ejército, Nadir, cicatriz y "lo de los niños" de Kal, sin la reserva del bebé). **La advertencia de Varek de madrugada queda fuera de este capítulo por decisión del autor (2026-09-09): se rinde como recuerdo comprimido en el [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/26_Me_Encuentro_Bien|Capítulo 26]], NO como escena propia.**
+> **ESCRITO (2026-09-09, catchup manual desde borrador de sesión de escritorio; falta revisión del autor):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Capítulo 25 — Libros abiertos]] cubre la compra del Lancia y la noche de libros abiertos (familia de Chiara e Il Consorzio; ejército, Nadir, cicatriz y "lo de los niños" de Kal, sin la reserva del bebé). **La advertencia de Varek de madrugada queda fuera de este capítulo por decisión del autor (2026-09-09): se rinde como recuerdo comprimido en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/26_Me_Encuentro_Bien|Capítulo 26]], NO como escena propia.**
 
-> **REVISIÓN DE PROSA (2026-09-09, Claude Code, sobre el reporte editorial de Codex + decisiones del autor):** el Cap. 26 se reescribió aplicando las 5 decisiones del autor. Sobre esta noche: (a) Chiara cree que **perdió** a su padre — versión pública = el capo de la famiglia Ardizzone falleció, caída desde el acantilado de la villa de Palermo, federales y comisión "palabra por palabra", nunca hubo cuerpo; no se fija edad. (b) La cicatriz queda **confirmada por el autor** (ver nota abajo). (c) La confesión se repartió en intercambios cortos, sin dossier; se podaron las glosas del narrador que recitaban lo reservado. Sigue BORRADOR pendiente de revisión final del autor.
+> **REVISIÓN DE PROSA (2026-09-09, Claude Code, sobre el reporte editorial de Codex + decisiones del autor):** el Cap. 26 *(numeración histórica; hoy Cap. 25)* se reescribió aplicando las 5 decisiones del autor. Sobre esta noche: (a) Chiara cree que **perdió** a su padre — versión pública = el capo de la famiglia Ardizzone falleció, caída desde el acantilado de la villa de Palermo, federales y comisión "palabra por palabra", nunca hubo cuerpo; no se fija edad. (b) La cicatriz queda **confirmada por el autor** (ver nota abajo). (c) La confesión se repartió en intercambios cortos, sin dossier; se podaron las glosas del narrador que recitaban lo reservado. Sigue BORRADOR pendiente de revisión final del autor.
 
-> **PASADA EDITORIAL (2026-09-10, Claude Code, decisión del autor — toque mínimo):** en el Cap. 26, Chiara **nombra Il Consorzio una vez** (Kal identifica por fin la estructura que ella no nombró en el Corral); Kal menciona a la contacto rusa como *"una rusa que conseguía papeles"* — **Anya sin nombrar**, el nombre se guarda para F4 (ver nota abajo). No se ampliaron los secretos; reservas de Alessio y del bebé intactas. Costura temporal 26→27 corregida: la intercepción de Varek es *la misma madrugada* del jacuzzi, no "dos noches atrás".
+> **PASADA EDITORIAL (2026-09-10, Claude Code, decisión del autor — toque mínimo):** en el Cap. 26 *(numeración histórica; hoy Cap. 25)*, Chiara **nombra Il Consorzio una vez** (Kal identifica por fin la estructura que ella no nombró en el Corral); Kal menciona a la contacto rusa como *"una rusa que conseguía papeles"* — **Anya sin nombrar**, el nombre se guarda para F4 (ver nota abajo). No se ampliaron los secretos; reservas de Alessio y del bebé intactas. Costura temporal 26→27 corregida: la intercepción de Varek es *la misma madrugada* del jacuzzi, no "dos noches atrás".
 
 ## Relación con H2-b — la hija adulta de la noche de hierba
 
@@ -1510,13 +1517,16 @@ Y el resto: **fue Nadir quien lo ayudó a salir.** En agradecimiento, Kal lo ayu
 
 > **Mantener las reservas ya canon.** No inventar qué secretos exactos entregan más allá de lo listado. En particular:
 > - **Kal le cuenta lo de los niños, pero casi seguro NO que a él lo compraron.** Ver [[02_Characters/Warren_Halbrook]]. Que el lector tenga esa información y ella no es el hueco más grande que queda abierto en la pareja.
-> - **Ella le cuenta del Consorcio, no de Alessio.** Los dos entregan el sistema que los formó y se guardan el hecho concreto. Simetría exacta, y ninguno lo nota.
+> - **SUPERSEDIDO (2026-09-28, autor):** ahora Chiara **sí cuenta lo que pasó con Alessio** (el disparo, el "mandato divino"), sin nombrar a quien construyó la versión; y Kal cuenta Jim (sin la promesa), Michael y el duelo que nunca vivió. Kal llora por primera vez. Es el verdadero punto sin retorno de la pareja. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 25]]. Texto anterior:
+> - **Ella le cuenta del Consorcio y nombra a Alessio sólo como herida y precio** ("no iba a ser yo"), **no lo que hizo.** Los dos entregan el sistema que los formó y se guardan el hecho concreto. Simetría exacta, y ninguno lo nota. *(Ajustado 2026-09-26, decisión del autor: la línea de Alessio en la prosa es deliberada; antes decía "no de Alessio".)*
 
-> **CONFIRMADO POR EL AUTOR (2026-09-09):** la cicatriz viene de la última noche del convoy — un vidrio del parabrisas le abrió la cara cuando sacaba a un niño por la ventanilla. No es la pelea de cantina que dice el rumor del barrio. **Ya no es diseño provisional del agente.** Ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/25_Libros_Abiertos|Capítulo 25]].
+> **CONFIRMADO POR EL AUTOR (2026-09-09):** la cicatriz viene de la última noche del convoy — un vidrio del parabrisas le abrió la cara cuando sacaba a un niño por la ventanilla. No es la pelea de cantina que dice el rumor del barrio. **Ya no es diseño provisional del agente.** Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Capítulo 25]].
 
 > **RESUELTO DE DISEÑO (2026-08-23):** la contacto rusa es [[02_Characters/Anya_Voronina]]. La deuda vuelve en [[06_Relationships/Momentos_de_Fractura]], F4 — Año Nuevo en Washington.
 
 ## Varek llega de madrugada — el contraste que dispara H5
+
+> **AJUSTE (2026-09-28, autor):** ya no es una interceptación en persona. **Varek la llama durante la noche del jacuzzi**, fuera de cuadro, mientras Chiara sale "al tocador" en el Cap. 25; Kal sólo ve el teléfono bocabajo. Así lo cuentan los Caps. 26 y 27. El contenido de la advertencia no cambia.
 
 **Después de esa noche, Varek intercepta a Chiara de madrugada.** Le dice:
 
@@ -1546,9 +1556,9 @@ Ver también: [[06_Relationships/Kal_y_Chiara]] · [[02_Characters/Dario_Varek]]
 
 > **CANON DEL AUTOR (2026-08-23).** Continúa directamente [[#H5 — San Aurelio]]. **Parte 3 por recibir.**
 
-> **ESCRITO PARCIALMENTE (2026-09-10, Claude Code — BORRADOR, falta revisión del autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/28_La_Correa|Capítulo 28 — La correa]] redacta las **secciones 1-4** desde el POV de Chiara: el regreso golpeado ("entra hablando de otra cosa"), la conversación con las dos líneas canon, Chiara ofreciéndole la salida sin cadena (y guardándose la tercera línea del taller), y Kal saliendo *"como un diablo"* a llamar a Varek (*"¿Nos podemos reunir?"*). Cierra con Chiara yendo tras él.
+> **ESCRITO PARCIALMENTE (2026-09-10, Claude Code — BORRADOR, falta revisión del autor):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/28_La_Correa|Capítulo 28 — La correa]] redacta las **secciones 1-4** desde el POV de Chiara: el regreso golpeado ("entra hablando de otra cosa"), la conversación con las dos líneas canon, Chiara ofreciéndole la salida sin cadena (y guardándose la tercera línea del taller), y Kal saliendo *"como un diablo"* a llamar a Varek (*"¿Nos podemos reunir?"*). Cierra con Chiara yendo tras él.
 
-> **ESCRITO COMPLETO (2026-09-16, Claude Code — BORRADOR, falta revisión del autor):** las secciones 5-7 quedan cubiertas en prosa. [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/29_El_Patio_Ajeno|Capítulo 29 — El patio ajeno]] (POV Kal) ejecuta las secciones 5-6: el patio de la mansión, la oferta a Varek (seguridad para Chiara a cambio de que Kal entre a la organización), la moneda de Camp Alder sembrada como promesa futura sin ejecutarse, el intento parcial de sacar a Nadir del alcance inmediato de Halbrook (Varek ofrece cobertura, no resolución), Chiara convocada y la primera actuación conjunta sin ensayo, y *"— Estás loco."* preservada. [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/30_Media_Baraja|Capítulo 30 — Las cascadas]] (POV Chiara) ejecuta la sección 7: Kal le cuenta todo lo que sabe (Halbrook, el pasado militar, el ultimátum sobre Nadir, los golpes como recordatorio) — primera vez que rompe voluntariamente su propio patrón de no repartir pesos (ver Cap. 28); Chiara entiende sin que eso resuelva su incomodidad y se guarda, sin resolverlo, la tercera línea de Varek; el pacto de desmontar a Varek desde dentro queda explícito y la frase *"…con peores personas he tratado"* preservada sin parafrasear. **H6 queda cubierto en prosa** salvo pases de revisión del autor.
+> **ESCRITO COMPLETO (2026-09-16, Claude Code — BORRADOR, falta revisión del autor):** las secciones 5-7 quedan cubiertas en prosa. [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/29_El_Patio_Ajeno|Capítulo 29 — El patio ajeno]] (POV Kal) ejecuta las secciones 5-6: el patio de la mansión, la oferta a Varek (seguridad para Chiara a cambio de que Kal entre a la organización), la moneda de Camp Alder sembrada como promesa futura sin ejecutarse, el intento parcial de sacar a Nadir del alcance inmediato de Halbrook (Varek ofrece cobertura, no resolución), Chiara convocada y la primera actuación conjunta sin ensayo, y *"— Estás loco."* preservada. [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/30_Media_Baraja|Capítulo 30 — Las cascadas]] (POV Chiara) ejecuta la sección 7: Kal le cuenta todo lo que sabe (Halbrook, el pasado militar, el ultimátum sobre Nadir, los golpes como recordatorio) — primera vez que rompe voluntariamente su propio patrón de no repartir pesos (ver Cap. 28); Chiara entiende sin que eso resuelva su incomodidad y se guarda, sin resolverlo, la tercera línea de Varek; el pacto de desmontar a Varek desde dentro queda explícito y la frase *"…con peores personas he tratado"* preservada sin parafrasear. **H6 queda cubierto en prosa** salvo pases de revisión del autor.
 
 ---
 
@@ -1574,7 +1584,9 @@ Kal le dice que **no sabe cómo sentirse**, que siente demasiada presión, y que
 
 > **— ¿Crees que es así de fácil?**
 >
-> **— No es eso. Si te marchas, puedo vivir sin tu presencia, pero ya es algo que me acostumbré a tener en mi vida.**
+> **— No es eso. Me explico. Tu presencia en mi vida ha sido algo maravilloso. Puedo vivir sin ella. Pero es cierto que me gusta mucho tenerla.**
+>
+> *(CANON DEL AUTOR 2026-10-01: versión original restituida. Sustituye a "Si te marchas, puedo vivir sin tu presencia, pero ya es algo que me acostumbré a tener en mi vida." Reconstrucción completa de la conversación en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/28_La_Correa]].)*
 
 > **DISEÑO — es una de las mejores líneas del libro y hay que entender por qué.** Chiara no le dice *no te vayas*. No le dice *te necesito*. **Le dice exactamente la verdad y ni un gramo más**, que es su regla profesional aplicada, por una vez, a algo que le importa.
 >
@@ -1611,6 +1623,8 @@ Dentro, en el patio, **hablan de Chiara y de cómo mantenerla a salvo.** Disimul
 Y por el camino Kal encuentra el modo de salvar también a Nadir.
 
 **Kal ofrece trabajar para Varek, como parte de la organización.** A cambio: **seguridad para Chiara.**
+
+> **Mecánica vigente en prosa (nota 2026-09-27, housekeeping de la auditoría de la Parte II, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]]):** en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/29_El_Patio_Ajeno|Cap. 29]] Kal **no pide** trabajar para Varek: lo conduce a **ofrecerle una silla** y se queda con ella; la cobertura para su gente y la protección indirecta para Chiara llegan sin pedirse en esos términos. El dictamen de la Parte II lo respalda ("fundamental para *Sombras de Poder*"). El párrafo de arriba se conserva como formulación original del hito; **decisión del autor pendiente** sobre si reescribirlo.
 
 Y trae con qué pagarlo — **el medio para conseguir lo que Halbrook maneja**: una **entrada a [[05_Locations/Camp_Alder]]**, el complejo militar donde los civiles no tienen acceso, para sacar armas y venderlas en la ciudad. **Armamento largo**, que a Varek le sirve.
 
@@ -1651,6 +1665,8 @@ La lleva a **un lugar de cascadas**, con ruido de naturaleza, apartado y sin int
 Y ahí **le cuenta todo lo sucedido.**
 
 **Los dos pactan estar alineados para deshacer la organización de Varek desde dentro.**
+
+> **Alcance en prosa (nota 2026-09-27, housekeeping de la auditoría de la Parte II, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]]):** por decisión del autor (Q1, V2), el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/30_Media_Baraja|Cap. 30]] termina como **pacto, no plan**: entrar, hacerse necesarios, dejar de depender de Varek. El plan de caída no se enuncia en el Libro I; pertenece a los libros siguientes.
 
 > **DISEÑO:** el sitio no es romántico, es **operativo**: ruido de agua, sin líneas de visión, sin nadie. Y es **el primer lugar del libro que no es territorio de nadie** — ni el penthouse del casino, ni el barrio de él, ni la casa que todavía no es de los dos. Para pactar de igual a igual hacen falta las dos cosas: privacidad y terreno neutral.
 >
@@ -1700,7 +1716,7 @@ Y ahí **le cuenta todo lo sucedido.**
 
 > **CANON DEL AUTOR (2026-08-23).** Cierre del arco. **Y cierra en calma.**
 
-> **ESCRITO (2026-09-16, Claude Code — BORRADOR, falta revisión del autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/31_Vamos_A_Casa|Capítulo 31 — Vamos a casa]] (POV Chiara) ejecuta H7 completo y cierra la Parte II: la llamada con *"Ponte algo cómodo, porque quizá te vayas a mojar"*, el viaje al río norte con Nadir, Danny, Héctor y Walt, la competencia de pesca sin ganador resuelto, el juego en el agua, el atardecer en la formación de roca sin confesiones, y la frase final *"— Vamos a casa."* como última línea de la Parte II, sin glosa posterior. **H7 queda cubierto en prosa** salvo pases de revisión del autor.
+> **ESCRITO (2026-09-16, Claude Code — BORRADOR, falta revisión del autor):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/31_Vamos_A_Casa|Capítulo 31 — Vamos a casa]] (POV Chiara) ejecuta H7 completo y cierra el arco H5–H7 *(corregido 2026-09-27: ya no cierra la Parte II, que cierra el Cap. 34 — Mi pareja)*: la llamada con *"Ponte algo cómodo, porque quizá te vayas a mojar"*, el viaje al lago (antes "río norte") con Nadir, Danny, Héctor y Walt, la competencia de pesca sin ganador resuelto, el juego en el agua, el atardecer en la formación de roca sin confesiones, y la frase final *"— Vamos a casa."* como última línea del capítulo, sin glosa posterior. **H7 queda cubierto en prosa** salvo pases de revisión del autor.
 
 ---
 
@@ -1715,6 +1731,8 @@ Y ésa es una decisión de estructura, no de tono: es el principio 13 del vault 
 ## Cómo lo hace — sacándola de su zona de confort
 
 Kal organiza **un viaje masivo al río norte, a pescar**, y **la incluye en el plan.**
+
+> **Geografía vigente (nota 2026-09-27, housekeeping de la auditoría de la Parte II, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]]):** en la prosa del [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/31_Vamos_A_Casa|Cap. 31]] el río norte pasó a ser **el lago** (ampliación por encargo del autor, 2026-09-16; ver la metadata del capítulo). La frase de arriba se conserva como formulación original del hito.
 
 La llama y le dice:
 
@@ -1794,7 +1812,7 @@ Y para dos personas que nunca tuvieron una, **el momento en que la palabra deja 
 
 ## Pendientes de H7
 
-> **PENDIENTE:** el río norte y el arrecife necesitan entrada en `05_Locations/`. *(Nota menor de coherencia: conviene fijar si el arrecife es un banco de roca del río o el punto donde el río se abre al mar — cambia la geografía del norte de San Aurelio.)*
+> **PENDIENTE:** el río norte y el arrecife necesitan entrada en `05_Locations/`. *(Nota 2026-09-27: en la prosa hoy es el lago y la formación de roca; la entrada sigue pendiente.)* *(Nota menor de coherencia: conviene fijar si el arrecife es un banco de roca del río o el punto donde el río se abre al mar — cambia la geografía del norte de San Aurelio.)*
 
 > **PENDIENTE:** ¿quién gana la competencia de pesca? Es una tontería y va a importar después.
 
@@ -1806,7 +1824,7 @@ Y para dos personas que nunca tuvieron una, **el momento en que la palabra deja 
 
 > **CANON DEL AUTOR (2026-08-23).** Material grande: contiene **la mentira más cara del libro** y la casa más hermosa que construyen.
 
-> **POSICIÓN VIGENTE — CANON DEL AUTOR 2026-09-20:** H8 conserva ID y título, pero se distribuye en componentes. **Incendio:** cierre de Parte IV. **Mentira:** fuga de gas / ocultamiento de amenaza de Crowe, ligada al incendio; instalación en el bloque de cierre IV como **DISEÑO**, cobro posterior pendiente. **Villa:** Parte V, después del día Mei-Lin/Riley, como reconstrucción deliberada. **SUPERSEDIDO:** incendio después de F4/F3, paso inmediato a Villa y ubicación antigua en Parte II.
+> **POSICIÓN VIGENTE — CANON DEL AUTOR 2026-09-20:** H8 conserva ID y título, pero se distribuye en componentes. **Incendio:** cierre de Parte IV. **Mentira:** fuga de gas / ocultamiento de amenaza de Crowe, ligada al incendio; instalación en el bloque de cierre IV como **DISEÑO**, cobro posterior pendiente. **Villa:** Parte V, después del día Mei-Lin/Bonnie, como reconstrucción deliberada. **SUPERSEDIDO:** incendio después de F4/F3, paso inmediato a Villa y ubicación antigua en Parte II.
 >
 > **[PENDIENTE DE RECONCILIACIÓN — componente mentira de H8]:** cuándo se revela/cobra y contenido exacto de la amenaza. No se inventa otra mentira ni se exige resolverla dentro de IV.
 >
@@ -1871,7 +1889,7 @@ El doble fondo plantado en H14 y la caja de acero resistente al fuego protegen s
 
 **Esto no abarata el incendio.** Sobrevive lo que podía guardarse, tasarse, documentarse o protegerse. Se destruye lo que hacía hogar al loft: la estructura habitable, la mesa, la manta, los muebles, los objetos cotidianos y los recuerdos que quedaron expuestos. El contraste es parte del costo.
 
-> **PRESAGIO SIN NOMBRAR (2026-08-31):** esa misma mañana — horas antes del incendio, no durante — el imán de refrigerador con forma de manzana roja que Marisol le hizo comprar a Kal en el Capítulo 13 ([[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono]]) se despega solo de la puerta y cae. Se raja. Chiara lo levanta y se lo da a Kal; él dice que lo puede pegar. Lo pega. **La marca queda** — completo otra vez, pero partido. Nadie lo dice en voz alta, y no hace falta: para cuando llega la noche y ven el incendio, el lector ya vio la imagen que se repite. El imán no sobrevive el incendio como objeto especial — es un objeto cualquiera, roto y reparado esa misma mañana, que se pierde con todo lo demás. Su función es la escena en sí, no su supervivencia.
+> **PRESAGIO SIN NOMBRAR (2026-08-31):** esa misma mañana — horas antes del incendio, no durante — el imán de refrigerador con forma de manzana roja que Marisol le hizo comprar a Kal en el Capítulo 14 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono]]) se despega solo de la puerta y cae. Se raja. Chiara lo levanta y se lo da a Kal; él dice que lo puede pegar. Lo pega. **La marca queda** — completo otra vez, pero partido. Nadie lo dice en voz alta, y no hace falta: para cuando llega la noche y ven el incendio, el lector ya vio la imagen que se repite. El imán no sobrevive el incendio como objeto especial — es un objeto cualquiera, roto y reparado esa misma mañana, que se pierde con todo lo demás. Su función es la escena en sí, no su supervivencia.
 
 ## 4. El penthouse otra vez — desplazamiento posterior al cierre de IV
 
@@ -2177,7 +2195,9 @@ Regla de [[06_Relationships/Kal_y_Chiara]]: lo que los salva siempre es algo que
 
 > **RESUELTO EN POSICIÓN MACRO (2026-08-31; terminología corregida 2026-09-11; libro reasignado 2026-09-22):** H1 ocurre en el **Libro II — Sombras de Poder**, después de H8 / la construcción de Villa Candelaria y antes del cierre del libro (coda de Halbrook). **PENDIENTE:** posición fina y capítulo exacto dentro de ese tramo.
 
-> **PENDIENTE:** cuántos días antes de H1 Chiara confirma el embarazo y por qué mecanismo; diálogo exacto del reveal posterior y reacción textual definitiva de Kal.
+> **PENDIENTE:** cuántos días antes de H1 Chiara confirma el embarazo y por qué mecanismo.
+>
+> **RESUELTO (CANON DEL AUTOR, 2026-10-02):** el reveal es la misma noche de H1, después de dormir, en la chimenea de Villa Candelaria, sólo a la luz del fuego: el papel cae de la manta, "¿Quién es Elenna?", "Antes era sólo un nombre.", "Sono incinta.", "Voy... vamos a ser...", la carga con mareo y tirón, "¡Mierda!" / "¡Kal!", abrazo lento, Kal mira hacia la ciudad. **El embarazo se le oculta al lector hasta esa escena** (Chiara lo sabe en H1; el texto lo protege) y cierre del libro en [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "Cierre del Libro II". Supersede "reveal posterior a recuperación mínima" en las tablas de arriba.
 
 > **PARCIALMENTE RESUELTO:** la costumbre del barrio de callar sobre ellos es canon y viene de la etapa del loft ([[06_Relationships/Kal_y_Chiara]], "un barrio que calla"). **Pero H1 ocurre en la villa**, en la zona de prestigio — otro barrio, otro régimen.
 >
@@ -2195,7 +2215,7 @@ Regla de [[06_Relationships/Kal_y_Chiara]]: lo que los salva siempre es algo que
 
 > **CANON DEL AUTOR (2026-08-29).** Ocurre **después de [[#H7 — El río]]**. **ID: H16** (asignado 2026-08-29). **Posición actualizada (2026-09-20):** también después de "La periferia" (Cap. 33) y de [[#H21 — Mi pareja]] (Cap. 34), que ahora cierran la Parte II — H16 abre la Parte III (Cap. 35). Ver tabla de orden arriba.
 
-> **ESCRITO (2026-09-20, Claude Code, BORRADOR — reestructurado el mismo día con el arco completo dictado por el autor):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/36_Tambien_Las_Mananas|Capítulo 36 — También las mañanas]] (título provisional), segundo capítulo de la Parte III. Abre con salto de POV puntual a Kal (justificado en el propio capítulo): Kal y Héctor reciben a la yegua en el muelle de carga de Kingsley Field, un descuido la espanta, la persiguen cuatro horas con un susto cardíaco de Héctor de por medio (no infarto), y pierden casi todo el día — por eso la entrega se hace de noche y Kal llega con el traje arruinado. Vuelve al POV de Chiara con la llamada ("Bellandi en remojo"), la recogida en el Penthouse y la caminata con los ojos cubiertos hasta las caballerizas, con las campanas de Santa Lucía sonando al llegar. Yegua nombrada **Stella** en escena (microdecisión del agente, resuelve el candidato "que la nombre Chiara"); botella con Kal confesando que ni él ni Walt estaban seguros de su significado; llave con la frase canon. Estado de EE. UU. de origen de la yegua sigue deliberadamente sin nombrar en prosa.
+> **ESCRITO (2026-09-20, Claude Code, BORRADOR — reestructurado el mismo día con el arco completo dictado por el autor):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/36_Tambien_Las_Mananas|Capítulo 36 — También las mañanas]] (título confirmado por el autor el 2026-09-27), segundo capítulo de la Parte III. Abre con salto de POV puntual a Kal (justificado en el propio capítulo): Kal y Héctor reciben a la yegua en el muelle de carga de Kingsley Field, un descuido la espanta, la persiguen cuatro horas con un susto cardíaco de Héctor de por medio (no infarto), y pierden casi todo el día — por eso la entrega se hace de noche y Kal llega con el traje arruinado. Vuelve al POV de Chiara con la llamada ("Bellandi en remojo"), la recogida en el Penthouse y la caminata con los ojos cubiertos hasta las caballerizas, con las campanas de Santa Lucía sonando al llegar. Yegua nombrada **Stella** en escena (microdecisión del agente, resuelve el candidato "que la nombre Chiara"); botella con Kal confesando que ni él ni Walt estaban seguros de su significado; llave con la frase canon. Estado de EE. UU. de origen de la yegua sigue deliberadamente sin nombrar en prosa.
 
 El día del **cumpleaños de Chiara** (23 de noviembre), **Chiara se muda oficialmente con Kal.** Éste es el momento real de convivencia.
 
@@ -2204,6 +2224,8 @@ El día del **cumpleaños de Chiara** (23 de noviembre), **Chiara se muda oficia
 | podía quedarse, dormir, tener objetos accidentales | llegan cosas permanentemente — cajas, ropa, computadora, objetos permanentes |
 | — | hay decisión, hay traslado |
 | casa de Kal donde ella pasa tiempo | la casa pasa a ser **hogar compartido** |
+
+> **DESFASE DE PROSA — SINCRONIZADO (2026-09-27, E8 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_III]]; decisión del autor Q16 en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]]).** La prosa del Cap. 36 no ejecuta dos puntos de "La magia del cumpleaños" (abajo): **no abre *in medias res*** en el hipódromo (es lineal: yegua → botella → llave) y **no hay entrega de cocaína con Héctor** (la idea no se cuenta en ese trayecto). La *road-movie* quedó compactada, no como cuerpo del capítulo, y el susto de Héctor quedó desmedicalizado (cansancio, no corazón). Se conserva el canon de 2026-08-29 abajo como diseño de origen; **manda la prosa** salvo que el autor pida la entrega en prosa. **Nombre de la yegua: Stella — CANON DEL AUTOR (2026-09-27)**, lo elige Chiara (Cap. 36). La línea de la llave, "Sin duda alguna", restaurada en prosa.
 
 ## Regla temática
 
@@ -2234,7 +2256,7 @@ Traer la yegua hasta el hipódromo **sin que Chiara se entere es una odisea cóm
 
 ### Regalo 2 — la botella
 
-Una noche antes, Kal deja en el **cuarto bodega del loft**, envuelto en una manta, una botella de **Domaine de la Romanée-Conti** — *"el vino más caro del mundo jamás vendido en una subasta"*. La **robó de la casa de un rico del norte**: llega con **las botas llenas de lodo y los nudillos ensangrentados**. **Qué pasó con ese hombre, y si alguna vez supo del robo, no se explica — queda a imaginación del lector.**
+Una noche antes, Kal deja en el **doble fondo de Dale** —el compartimiento bajo el piso del loft, al fondo de la planta baja, acostada junto a la caja de acero bajo el tablón suelto (nota 2026-09-26: cuadrado con el hueco del Cap. 10; sustituye "cuarto bodega": no es un cuarto)—, envuelta en una manta, una botella de **Domaine de la Romanée-Conti** — *"el vino más caro del mundo jamás vendido en una subasta"*. La **robó de la casa de un rico del norte**: llega con **las botas llenas de lodo y los nudillos ensangrentados**. **Qué pasó con ese hombre, y si alguna vez supo del robo, no se explica — queda a imaginación del lector.**
 
 Al entregarla, Chiara le pregunta **si sabe lo que significa regalar una botella así**. Kal: **— Sin duda alguna.** *(El significado no se explicita; se deja en la pregunta y la respuesta.)*
 
@@ -2246,7 +2268,7 @@ Una **cajita más pequeña, modesta, de madera.** Dentro, **una llave del loft.*
 
 **Esto ES la mudanza oficial.** No hay caja de camión ni escena de traslado: hay una llave y una frase. Ella se muda porque lo eligen. Los gestos domésticos reservados (la computadora que se queda, el café cada mañana) empiezan a partir de aquí.
 
-> **REUBICADO (2026-09-20, encargo directo del autor):** el pago del cifrado "Roma Atrii" ya no cae en el cumpleaños de Chiara. El autor sembró un nuevo eco del cifrado al cierre del [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35]] (invitación cifrada al yate, "Te veo, con mucha Roma") y fijó el pago real para **después de la fiesta del yate**, un capítulo futuro todavía sin escribir — ver la nota de roadmap en el encabezado del Cap. 35 y [[98_Agent_Handoff/PENDING]]. Ver también [[07_Ideas/El_Chico_Del_Patio]] para el origen de la nota anterior.
+> **REUBICADO (2026-09-20, encargo directo del autor):** el pago del cifrado "Roma Atrii" ya no cae en el cumpleaños de Chiara. El autor sembró un nuevo eco del cifrado al cierre del [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35]] (invitación cifrada al yate, "Te veo, con mucha Roma") y fijó el pago real para **después de la fiesta del yate**, un capítulo futuro todavía sin escribir — ver la nota de roadmap en el encabezado del Cap. 35 y [[98_Agent_Handoff/PENDING]]. Ver también [[07_Ideas/El_Chico_Del_Patio]] para el origen de la nota anterior.
 
 > **PENDIENTE menor:** confirmar el estado de EE. UU. de donde traen la yegua.
 
@@ -2256,9 +2278,9 @@ Una **cajita más pequeña, modesta, de madera.** Dentro, **una llave del loft.*
 
 # H17 — Italia / Mesa de las Familias
 
-> **EJECUTADO COMPLETO EN PROSA (2026-09-22):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/40_Mecanico|Cap. 40 — Mecánico]] (mitad de Kal) y [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/41_La_Otra_Mitad|Cap. 41 — La otra mitad]] (mitad de Chiara, contada a Riley) completan el hito. Ambos BORRADOR, pendientes de revisión del autor.
+> **EJECUTADO COMPLETO EN PROSA (2026-09-22):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/40_Mecanico|Cap. 40 — Mecánico]] (mitad de Kal) y [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/41_La_Otra_Mitad|Cap. 41 — La otra mitad]] (mitad de Chiara, contada a Bonnie) completan el hito. Ambos BORRADOR, pendientes de revisión del autor.
 
-> **ACTIVADO en prosa (2026-09-20):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/38_Al_Reves|Cap. 38]] cierra con Kal y Chiara en la terminal privada de Kingsley Field, alrededor de las cuatro de la mañana, con el avión a Palermo esperando. La decisión de Kal ("Voy contigo") y el motivo (la bala; su investigación de H12 nunca cerrada) ya están escritos. **Nada del viaje, la llegada, la Mesa ni Palermo está escrito** — sigue arco reservado.
+> **ACTIVADO en prosa (2026-09-20):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 38]] cierra con Kal y Chiara en la terminal privada de Kingsley Field, alrededor de las cuatro de la mañana, con el avión a Palermo esperando. La decisión de Kal ("Voy contigo") y el motivo (la bala; su investigación de H12 nunca cerrada) ya están escritos. **Nada del viaje, la llegada, la Mesa ni Palermo está escrito** — sigue arco reservado.
 
 > **CANON DEL AUTOR (2026-08-29).** Ocurre **inmediatamente después de [[#H13 — El pañuelo]]** (su gatillo), que a su vez va después de [[#H16 — El cumpleaños / la mudanza oficial]]. **ID: H17** (asignado 2026-08-29). Arco reservado — no inventar contenido.
 
@@ -2266,7 +2288,7 @@ Kal y Chiara **viajan juntos a Italia.** En Palermo enfrentan **la Mesa de las F
 
 **No inventar todavía:** motivo formal de la convocatoria, decisión exacta de la Mesa, quién humilla a quién, resolución criminal, ni ningún detalle no dado por el autor.
 
-> **DISEÑO EN CURSO (2026-09-21):** el autor dio la apertura (Ettore recibe; cata en un viñedo de Chiara; *"Siempre tienes algo gracioso…"* / *"No. Es que me gusta hacerte reír."*), el desborde (Ettore le pide a Kal que se aleje de los Ardizzone) y el detonante del regreso separado (la llamada de Halbrook; Kal administra problemas ajenos a costa del propio). La situación de la Mesa propuesta por el agente **quedó aprobada tal cual el mismo día**, más dos canon nuevos: la Mesa le muestra a Chiara una foto de su boda con Alessio Lusardi y le recuerda que tiene una apariencia que mantener; ella responde cortándose el cabello (lector lo ve en el 41, Kal en el 42). Línea de la cata fijada: *"Sabe a domingo. De los buenos, cuando alguien trae una botella que no le alcanzaba."* Todo en [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]], Cap. 40.
+> **DISEÑO EN CURSO (2026-09-21):** el autor dio la apertura (Ettore recibe; cata en un viñedo de Chiara; *"Siempre tienes algo gracioso…"* / *"No. Es que me gusta hacerte reír."*), el desborde (Ettore le pide a Kal que se aleje de los Ardizzone) y el detonante del regreso separado (la llamada de Halbrook; Kal administra problemas ajenos a costa del propio). La situación de la Mesa propuesta por el agente **quedó aprobada tal cual el mismo día**, más dos canon nuevos: la Mesa le muestra a Chiara una foto de su boda con Alessio Lusardi y le recuerda que tiene una apariencia que mantener; ella responde cortándose el cabello (lector lo ve en el 41, Kal en el 42). Línea de la cata fijada: *"Sabe a domingo. De los buenos, cuando alguien trae una botella que no le alcanzaba."* Todo en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]], Cap. 40.
 
 **Canon:** algo ocurrido ante la Mesa **golpea la relación** y los hace regresar de manera distinta.
 
@@ -2280,9 +2302,9 @@ Kal y Chiara **viajan juntos a Italia.** En Palermo enfrentan **la Mesa de las F
 
 Ambos vuelven **separados físicamente y con fricción emocional** por lo sucedido en Palermo.
 
-> **PRECISIÓN (2026-09-21, CANON DEL AUTOR):** Kal regresa primero, solo, en vuelo comercial a Kingsley Field (Marisol lo recibe; dice que Chiara se quedó "un par de días más en la villa"). Chiara aterriza el mismo día al atardecer, en avión privado, con el cabello corto ([[99_Reference/character_art/Chiara_Bellandi_Invierno.png]]), y va **al penthouse, no al loft**. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
+> **PRECISIÓN (2026-09-21, CANON DEL AUTOR):** Kal regresa primero, solo, en vuelo comercial a Kingsley Field (Marisol lo recibe; dice que Chiara se quedó "un par de días más en la villa"). Chiara aterriza el mismo día al atardecer, en avión privado, con el cabello corto ([[99_Reference/character_art/Chiara_Bellandi_Invierno.png]]), y va **al penthouse, no al loft**. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
 
-> **EJECUTADO EN PROSA (2026-09-22):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/41_La_Otra_Mitad|Cap. 41]] dramatiza el regreso separado de Chiara — Kingsley Field, cabello corto, penthouse elegido sobre el loft por acción, sin explicación. BORRADOR, pendiente de revisión del autor.
+> **EJECUTADO EN PROSA (2026-09-22):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/41_La_Otra_Mitad|Cap. 41]] dramatiza el regreso separado de Chiara — Kingsley Field, cabello corto, penthouse elegido sobre el loft por acción, sin explicación. BORRADOR, pendiente de revisión del autor.
 
 **Regla:** NO significa ruptura. No contradice la regla dura (*Kal y Chiara no se separan*). Significa distancia, conflicto, cosas no dichas, mala lectura, heridas recientes.
 
@@ -2319,7 +2341,7 @@ Kal llega al casino. **Puede entrar a ver a Chiara. No entra.** Porque sabe que 
 
 > Esto demuestra cuánto peso tiene ella sobre sus decisiones **incluso ya siendo pareja declarada** — [[#H21 — Mi pareja]] se adelantó (2026-09-20) al cierre de la Parte II y ya ocurrió antes de esto. El peso no nace de la etiqueta: la etiqueta sólo lo confirma.
 
-> **SUPERSEDIDO (2026-09-21, CANON DEL AUTOR — ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]).** La precisión de abajo queda retirada: **F1 ocurre la noche anterior a la incursión, en el penthouse, y NO se resuelve antes de Camp Alder.** Chiara duerme en el penthouse y Kal en el loft. La mañana de la incursión, mientras Nadir, Héctor, Danny y Garrett se alistan, Kal se ausenta unos minutos y va por reflejo a buscarla; todo lo ocurrido lo detiene en la puerta — no sube. Los "tres días" pasan a ser los tres días separados (F1 → arresto → loft). La reconciliación es la apertura de la Parte IV. Se conserva el texto anterior por trazabilidad.
+> **SUPERSEDIDO (2026-09-21, CANON DEL AUTOR — ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]).** La precisión de abajo queda retirada: **F1 ocurre la noche anterior a la incursión, en el penthouse, y NO se resuelve antes de Camp Alder.** Chiara duerme en el penthouse y Kal en el loft. La mañana de la incursión, mientras Nadir, Héctor, Danny y Garrett se alistan, Kal se ausenta unos minutos y va por reflejo a buscarla; todo lo ocurrido lo detiene en la puerta — no sube. Los "tres días" pasan a ser los tres días separados (F1 → arresto → loft). La reconciliación es la apertura de la Parte IV. Se conserva el texto anterior por trazabilidad.
 >
 > ~~**PRECISIÓN (2026-09-20, decisión del autor).** Para este punto, [[06_Relationships/Momentos_de_Fractura#F1 - La mentira bajo la lluvia|F1 — la mentira bajo la lluvia]] y sus [[06_Relationships/Los_Tres_Dias|Tres Días]] ya ocurrieron y ya se reconciliaron, con espacio suficiente después para recuperar la costumbre cotidiana (Kal volviendo a contarle el día). **Kal no evita a Chiara porque estén peleados — no lo están.** La evita porque verla convertiría la obligación abstracta en una elección consciente contra alguien a quien ama, y eso haría más difícil irse. No confundir esta escena con un eco de F1.~~
 
@@ -2332,11 +2354,11 @@ Durante el escape:
 - Kal consigue que Héctor y Nadir salgan;
 - **Kal se queda / se entrega a las autoridades** para evitar que ellos sean capturados.
 
-> **PRECISIÓN (2026-09-21, CANON DEL AUTOR):** en el helicóptero es **Héctor quien jala a Nadir adentro** — simbólicamente abandona a Kal, porque Kal así lo decidió. Entran a la base **Kal y los chicos de La Almendra (Nadir, Héctor, Danny, Garrett)**; Dario aporta sólo el **mecanismo de distracción** (un disturbio que aleja a los soldados del punto de entrada), no gente adentro. Detención: la policía municipal lo detiene primero por el disturbio; la base lo reclama por jurisdicción federal y lo trasladan **a Camp Alder mismo** (norte rural). Ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
+> **PRECISIÓN (2026-09-21, CANON DEL AUTOR):** en el helicóptero es **Héctor quien jala a Nadir adentro** — simbólicamente abandona a Kal, porque Kal así lo decidió. Entran a la base **Kal y los chicos de La Almendra (Nadir, Héctor, Danny, Garrett)**; Dario aporta sólo el **mecanismo de distracción** (un disturbio que aleja a los soldados del punto de entrada), no gente adentro. Detención: la policía municipal lo detiene primero por el disturbio; la base lo reclama por jurisdicción federal y lo trasladan **a Camp Alder mismo** (norte rural). Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
 
 **No inventar tácticas operativas adicionales.**
 
-> **EJECUTADO EN PROSA (2026-09-22, Claude Sonnet 5):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/43_La_Puerta|Cap. 43 — La puerta]], `Estado: BORRADOR`. Confirma en prosa: Kal sube hasta la puerta física del penthouse y no entra (escena titular); El Patio se alista con Nadir, Héctor, Danny y Garrett, sin gente de Dario; Dario confirma la distracción sin mecanismo por teléfono; expediente comprobado por sello, no abierto; armas largas cargadas sin especificaciones; la extracción se complica sin causa técnica señalada; Héctor jala a Nadir dentro del helicóptero mientras Kal cubre a Danny y se queda; policía municipal detiene a Kal a menos de un kilómetro del perímetro; dos horas después la base reclama jurisdicción federal y lo traslada a Camp Alder mismo. Sin bajas. Sin revelar la futura intervención de Halbrook.
+> **EJECUTADO EN PROSA (2026-09-22, Claude Sonnet 5):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/43_La_Puerta|Cap. 43 — La puerta]], `Estado: BORRADOR`. Confirma en prosa: Kal sube hasta la puerta física del penthouse y no entra (escena titular); El Patio se alista con Nadir, Héctor, Danny y Garrett, sin gente de Dario; Dario confirma la distracción sin mecanismo por teléfono; expediente comprobado por sello, no abierto; armas largas cargadas sin especificaciones; la extracción se complica sin causa técnica señalada; Héctor jala a Nadir dentro del helicóptero mientras Kal cubre a Danny y se queda; policía municipal detiene a Kal a menos de un kilómetro del perímetro; dos horas después la base reclama jurisdicción federal y lo traslada a Camp Alder mismo. Sin bajas. Sin revelar la futura intervención de Halbrook.
 
 ## Resultado
 
@@ -2348,6 +2370,8 @@ Kal es arrestado bajo **jurisdicción militar / federal**. Abre la consecuencia 
 
 # H20 — Consecuencia: Halbrook / prisión militar / Lucia
 
+> **SUPERSEDIDO EN PARTE (2026-10-01, CANON DEL AUTOR):** H20 se ejecuta como arco de siete capítulos (Chiara agota institución, red, El Patio, Dario, los Bravos y Valenti; convoy señuelo de Halbrook; apagón = salida de Kal). Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
+
 > **CANON DEL AUTOR (2026-08-29).** Sigue directamente a [[#H19 — El asalto a Camp Alder]]. **ID: H20** (asignado 2026-08-29).
 
 ## Halbrook lo saca
@@ -2356,7 +2380,7 @@ Kal es arrestado bajo **jurisdicción militar / federal**. Abre la consecuencia 
 
 Canon (2026-08-29, autor): lo que Kal extrajo para Halbrook durante el asalto es **un expediente clasificado de un soldado ajeno a la trama del libro** (ver [[#H19 — El asalto a Camp Alder]], "El encargo de Halbrook"). Después del arresto, **Halbrook comercia con esa entrega** — su valor, y lo que implica que Kal la tenga — para negociar su salida.
 
-> **RESUELTO (2026-09-21, CANON DEL AUTOR):** no hay trámite. Halbrook **no pisa San Aurelio**; **el apagón del sur es obra suya** desde fuera. Lo que quería del expediente era **leer un nombre**; lo consigue y **devuelve el expediente** a la base ("recupere esto; aquí no pasó nada"): sin cuerpo del delito no hay caso, y Kal sale por la ventana del apagón. **Kal sólo sabe:** se fueron las luces, una bolsa de tela, y de repente estaba en el loft. **Toda la revelación se reserva para *Voto de Ceniza*** — en Libro I ni Kal, ni Chiara, ni Lucía, ni el lector conectan apagón y liberación. El autor tiene planes para el cobro de este pago. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]], "Halbrook — la liberación".
+> **RESUELTO (2026-09-21, CANON DEL AUTOR):** no hay trámite. Halbrook **no pisa San Aurelio**; **el apagón del sur es obra suya** desde fuera. Lo que quería del expediente era **leer un nombre**; lo consigue y **devuelve el expediente** a la base ("recupere esto; aquí no pasó nada"): sin cuerpo del delito no hay caso, y Kal sale por la ventana del apagón. **Kal sólo sabe:** se fueron las luces, una bolsa de tela, y de repente estaba en el loft. **Toda la revelación se reserva para *Voto de Ceniza*** — en Libro I ni Kal, ni Chiara, ni Lucía, ni el lector conectan apagón y liberación. El autor tiene planes para el cobro de este pago. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]], "Halbrook — la liberación".
 
 ## Chiara busca a Lucia
 
@@ -2364,7 +2388,7 @@ Cuando Kal es arrestado, **Chiara pide hablar con [[02_Characters/Lucia_Varek|Lu
 
 Lucia **no puede intervenir** — las jurisdicciones son distintas. Pero puede investigar, preguntar, averiguar qué ocurrió y orientar sobre qué institución tiene a Kal.
 
-> **PRECISIÓN (2026-09-21, CANON DEL AUTOR):** Chiara se entera primero de que Kal está en **custodia policial** (la municipal lo detuvo por el disturbio). Cuando logra hablar con Lucía, ésta le dice que **ya no**: la base lo reclamó por jurisdicción federal y está en Camp Alder esperando proceso. Ahí se apaga el rastro civil. Chiara llega a Lucía **después** de agotar abogados, dinero, contactos e influencia, y mientras arrastra F1 sin resolver y tres días sin buscarlo. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
+> **PRECISIÓN (2026-09-21, CANON DEL AUTOR):** Chiara se entera primero de que Kal está en **custodia policial** (la municipal lo detuvo por el disturbio). Cuando logra hablar con Lucía, ésta le dice que **ya no**: la base lo reclamó por jurisdicción federal y está en Camp Alder esperando proceso. Ahí se apaga el rastro civil. Chiara llega a Lucía **después** de agotar abogados, dinero, contactos e influencia, y mientras arrastra F1 sin resolver y tres días sin buscarlo. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
 
 ## Función de Lucia — siembra importante
 
@@ -2372,9 +2396,9 @@ Por el grado de preocupación y movilización de Chiara, **Lucia comprende que C
 
 Lucia **no necesita preguntar "¿son novios?".** Lo registra y observa — eso es más propio de ella.
 
-> **SIEMBRA ESCRITA (2026-09-20, Claude Code):** el canal por el que Chiara puede acudir a Lucia queda sembrado en [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Cap. 32 — Línea directa]]: Lucia le deja a Kal su línea directa después de que él le entrega un dato verificable sobre Los Bravos. Chiara se entera de que el canal existe en la coda de ese mismo capítulo, mucho antes de Camp Alder — así que acudir a Lucia aquí no depende de una coincidencia, sino de algo que Chiara ya sabía que existía.
+> **SIEMBRA ESCRITA (2026-09-20, Claude Code):** el canal por el que Chiara puede acudir a Lucia queda sembrado en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Cap. 32 — Línea directa]]: Lucia le deja a Kal su línea directa después de que él le entrega un dato verificable sobre Los Bravos. Chiara se entera de que el canal existe en la coda de ese mismo capítulo, mucho antes de Camp Alder — así que acudir a Lucia aquí no depende de una coincidencia, sino de algo que Chiara ya sabía que existía.
 
-> **EJECUTADO EN PROSA (2026-09-22, Claude Sonnet 5).** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/44_A_Oscuras|Cap. 44 — A oscuras]], `Estado: BORRADOR`, **cierra la Parte III**. Mecanismo concreto: Chiara llega a Lucía por memoria, no por hallazgo en ningún expediente — recuerda que Kal le mencionó la línea directa de Cap. 32 — y acude a ella sólo después de agotar abogados, dinero, contactos e influencia. Lucía confirma custodia municipal → reclamo federal → Camp Alder ("Ya no lo tiene la ciudad"), no puede intervenir; su lectura de que esto excede los negocios se muestra por conducta externa, nunca narrada desde su interior. H20 ejecutado hasta el regreso inexplicado de Kal (apagón, penthouse, loft, "Ciao, bella"); la explicación de Halbrook y la reconciliación quedan para el Cap. 45. Corrección quirúrgica el mismo día: cronología cerrada en D5→D6 sin D7, y se retiró el microcanon de Lucía firmando la transferencia.
+> **EJECUTADO EN PROSA (2026-09-22, Claude Sonnet 5).** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/50_A_Oscuras|Cap. 44 — A oscuras]], `Estado: BORRADOR`, **cierra la Parte III**. Mecanismo concreto: Chiara llega a Lucía por memoria, no por hallazgo en ningún expediente — recuerda que Kal le mencionó la línea directa de Cap. 32 — y acude a ella sólo después de agotar abogados, dinero, contactos e influencia. Lucía confirma custodia municipal → reclamo federal → Camp Alder ("Ya no lo tiene la ciudad"), no puede intervenir; su lectura de que esto excede los negocios se muestra por conducta externa, nunca narrada desde su interior. H20 ejecutado hasta el regreso inexplicado de Kal (apagón, penthouse, loft, "Ciao, bella"); la explicación de Halbrook y la reconciliación quedan para el Cap. 45. Corrección quirúrgica el mismo día: cronología cerrada en D5→D6 sin D7, y se retiró el microcanon de Lucía firmando la transferencia.
 
 ---
 
@@ -2427,13 +2451,13 @@ La redacción final de la explicación emocional de Kal queda abierta. No debe c
 - **ID:** H21 (asignado 2026-08-29). Los IDs no se renumeran; sólo cambió su posición en la tabla de orden.
 - **Posición canon (ACTUALIZADA 2026-09-20, decisión del autor — sustituye la posición fijada 2026-08-29):** ya NO ocurre después de H16-H20. Ahora cierra la **Parte II**, inmediatamente después de "La periferia" (Cap. 33) — es el **Cap. 34**. Ocurre después de H5–H7 (San Aurelio, el pacto, el río), del capítulo puente "Línea directa" (Cap. 32, Kal/Lucia Varek, sin ID propio) y de "La periferia", y antes de [[#H16 — El cumpleaños / la mudanza oficial|H16 — el cumpleaños/mudanza]], que abre la Parte III — Ardizzone (Cap. 35). Es el **puesto 15** de la tabla de orden narrativo (ID **H21**). **Razón del adelanto:** dejar la Parte III enteramente dedicada al arco paralelo Kal (administración criminal junto a Dario) / Chiara (Il Consorzio reclamándola como Ardizzone), sin que una escena de formalización de pareja interrumpa ese registro. El retraso frente a H2-H7 sigue siendo intencional — han sido pareja **por conducta** durante mucho tiempo antes de etiquetarla; formalizar no crea la pareja, sólo le pone nombre — sólo se acortó el tramo posterior: ya no espera a Italia, Palermo, Camp Alder ni la intervención de Lucia. **Renumerado en cascada (2026-09-20):** este capítulo pasó de Cap. 33 a Cap. 34 al insertarse "Línea directa" como nuevo Cap. 32.
 - **Posición canon anterior (2026-08-29, HISTÓRICA — ya no vigente):** ocurría después del [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños/mudanza]], del [[#H17 — Italia / Mesa de las Familias|viaje a Italia]], del [[#H18 — El regreso de Palermo|regreso con fricción]], del [[#H19 — El asalto a Camp Alder|asalto a la base]] y de la [[#H20 — Consecuencia: Halbrook / prisión militar / Lucia|intervención de Lucia]] — puesto 21 de la tabla. Se conserva aquí sólo por trazabilidad.
-- **Estado:** CANON DEL AUTOR; **escrito en prosa (2026-09-20, Claude Code)** en [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/34_Mi_Pareja|Cap. 34 — Mi pareja]], `Estado: BORRADOR`, pendiente de revisión del autor. Apertura por residuo del Cap. 33 — La periferia (Kal hace seguimiento del episodio Marisol/Kenji semanas después; Marisol lo detecta y le devuelve la jugada con "Lo haré cuando tú pongas el ejemplo" — DISEÑO nuevo de esta sesión, dispara la pregunta canon de Chiara). El ritual del Ciao (abajo) **no se dramatizó** en este capítulo — la llamada de esta escena es a tres, con Nadir en altavoz, no la "primera llamada telefónica entre los dos" que el ritual requiere. Esa primera llamada a dos llega más tarde — ver abajo.
+- **Estado:** CANON DEL AUTOR; **escrito en prosa (2026-09-20, Claude Code)** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/34_Mi_Pareja|Cap. 34 — Mi pareja]], `Estado: BORRADOR`, pendiente de revisión del autor. Apertura por residuo del Cap. 33 — La periferia (Kal hace seguimiento del episodio Marisol/Kenji semanas después; Marisol lo detecta y le devuelve la jugada con "Lo haré cuando tú pongas el ejemplo" — DISEÑO nuevo de esta sesión, dispara la pregunta canon de Chiara). El ritual del Ciao (abajo) **no se dramatizó** en este capítulo — la llamada de esta escena es a tres, con Nadir en altavoz, no la "primera llamada telefónica entre los dos" que el ritual requiere. Esa primera llamada a dos llega más tarde — ver abajo.
 
 ## El ritual del *Ciao* — nace aquí
 
-> **CANON DEL AUTOR (2026-09-20, decisión del autor — sustituye la versión 2026-09-09). Escrito en prosa (2026-09-20, Claude Code):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35 — Sin fecha de regreso]], `Estado: BORRADOR`, abre la Parte III. El ritual **no** nace inmediatamente después de "Mi pareja": esa llamada (arriba) fue a tres, con Nadir en altavoz, y quedó explícitamente sin dramatizar. Nace en la **apertura de la Parte III — Ardizzone** ([[01_Timeline/02_Libro_01_Seda_y_Polvora]], sección "Apertura de Parte III"): la primera llamada telefónica a dos, cuando Chiara le cuenta a Kal —que está en [[03_Factions/Almendra_Towing|Almendra Towing]] con Nadir presente— que Matteo se fue abruptamente de San Aurelio.
+> **CANON DEL AUTOR (2026-09-20, decisión del autor — sustituye la versión 2026-09-09). Escrito en prosa (2026-09-20, Claude Code):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35 — Sin fecha de regreso]], `Estado: BORRADOR`, abre la Parte III. El ritual **no** nace inmediatamente después de "Mi pareja": esa llamada (arriba) fue a tres, con Nadir en altavoz, y quedó explícitamente sin dramatizar. Nace en la **apertura de la Parte III — Ardizzone** ([[01_Timeline/02_Libro_01_Mascaras_De_Cristal]], sección "Apertura de Parte III"): la primera llamada telefónica a dos, cuando Chiara le cuenta a Kal —que está en [[03_Factions/Almendra_Towing|Almendra Towing]] con Nadir presente— que Matteo se fue abruptamente de San Aurelio.
 >
-> **Kal abre:** *"Ciao, bella."* — acento italiano deliberadamente malo, citando/homenajeando su vieja imitación burlona del *"Io sono Chiara Bellandi"* de ella en [[#H2 — El apretón de manos|H2]].
+> **Kal abre:** *"Ciao, bella."* — acento italiano deliberadamente malo, citando/homenajeando su vieja imitación burlona del *"Ciao, sono Chiara Bellandi"* de ella en [[#H2 — El apretón de manos|H2]].
 > **Chiara responde:** *"Ciao, bellissimo."* — italiano impecable y deliberadamente marcado; subtexto privado: *mi acento sigue aquí.*
 >
 > Nadir presencia la llamada y registra en silencio cuánto ha suavizado Chiara a Kal (no verbalizar "domado"). Pasa como intercambio espontáneo y **se queda como ritual de la pareja para toda la trilogía**. Levanta la cuarentena de [[99_Reference/README]] sobre *"Ciao, Bella" / "Ciao, Bellissimo"*. Coherente con "Kal es el aprendiz de italiano y no lo domina nunca": el mal acento es el chiste; Chiara responde con la forma más difícil (el superlativo) para reafirmar que su fluidez —y su identidad italiana, bajo presión durante toda la Parte III— sigue intacta.
@@ -2442,13 +2466,13 @@ La redacción final de la explicación emocional de Kal queda abierta. No debe c
 
 ## El motivo *"amore mio"* — reglas de aparición
 
-> **CANON DEL AUTOR (2026-09-20).** Nace en esta misma escena, [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35 — Sin fecha de regreso]]: es Chiara quien lo dice, no Kal — *"Aquí espero, amore mio."* Kal no lo reciproca en esa llamada; su registro de motes queda limitado a *bella/bellissima*.
+> **CANON DEL AUTOR (2026-09-20).** Nace en esta misma escena, [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35 — Sin fecha de regreso]]: es Chiara quien lo dice, no Kal — *"Aquí espero, amore mio."* Kal no lo reciproca en esa llamada; su registro de motes queda limitado a *bella/bellissima*.
 >
 > **Segunda aparición:** durante la discusión bajo la lluvia en Bellandi Ridge — ver [[06_Relationships/Momentos_de_Fractura#F1 - La mentira bajo la lluvia|F1 — La mentira bajo la lluvia]].
 >
 > **A partir de ahí:** aparece con moderación, contadas veces según lo requiera la ocasión — no es muletilla recurrente de Chiara.
 >
-> **Kal lo dice una sola vez en toda la saga:** en una llamada telefónica durante la Parte IV. *(La nomenclatura "Parte IV" es la del mapa de partes de [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]]; reconciliar contra [[00_Biblia/00_Trilogy_Structure]] para confirmar si esa llamada cae aún en Libro I o ya en Voto de Ceniza. Capítulo exacto: PENDIENTE.)*
+> **Kal lo dice una sola vez en toda la saga:** en una llamada telefónica durante la Parte IV. *(La nomenclatura "Parte IV" es la del mapa de partes de [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]; reconciliar contra [[00_Biblia/00_Trilogy_Structure]] para confirmar si esa llamada cae aún en Libro I o ya en Voto de Ceniza. Capítulo exacto: PENDIENTE.)*
 
 ---
 
@@ -2476,6 +2500,8 @@ Chiara entra a la [[05_Locations/Iglesia_Santa_Lucia]] acompañada por [[02_Char
 - Chiara recibe dos disparos.
 - Sobrevive gravemente herida y entra en coma.
 
+**Tiempos (CANON DEL AUTOR 2026-09-28):** Chiara pasa **unas 2–3 semanas en coma** tras Santa Lucía (dos disparos casi mortales: vientre y muslo), ajustable a lo que pida la prosa; la victoria electoral y la ejecución de Halbrook caen dentro de ese tramo, así que Santa Lucía ocurre en la recta final de la campaña. **La recuperación (despertar, hospital, rehabilitación de meses) pertenece a *Cuentas de Sangre*.**
+
 No describirlo como manual táctico. La función es romper la estabilidad, cruzar una frontera y dejar a Kal ante la posibilidad real de perderla.
 
 Para la opinión pública no es “Halbrook atacó a Chiara”: es un atentado en una iglesia de San Aurelio que deja muertos y heridos, entre ellos figuras conocidas. La policía investiga, la prensa especula y la ciudad busca una explicación.
@@ -2486,7 +2512,10 @@ Dario ya está detenido. Por eso Santa Lucía, junto con la secuencia de montañ
 
 La relación causal y el orden fino entre Santa Lucía y la montaña permanecen **PENDIENTES**. Lo fijo es su función: convertir a Halbrook en una explicación que antes ni el lector ni las instituciones pertinentes podían formular completa.
 
-Al cierre de la montaña y Santa Lucía, Kal comprende que los dos frentes pertenecían a la misma operación de Halbrook y decide: **Warren Halbrook va a morir.** Esa decisión pertenece a este libro (Voto de Ceniza); **la ejecución no** — [[00_Biblia/00_Trilogy_Structure]] la fija como apertura de Cuentas de Sangre (Libro III), pública y por mano de Kal. La muerte de un Brigadier General en ese acto destruye cualquier posibilidad de seguir tratando la violencia como un problema exclusivamente local y contribuye a justificar la siguiente escalada federal — pero eso ya ocurre en el libro siguiente, no aquí.
+Al cierre de la montaña y Santa Lucía, Kal comprende que los dos frentes pertenecían a la misma operación de Halbrook y decide: **Warren Halbrook va a morir.**
+
+> **CANON DEL AUTOR (2026-09-28) — el despacho:** después de Santa Lucía y de ver a Chiara, Kal va a la sede de Halbrook, ya candidato. Puede guardarse el duelo por Héctor; Santa Lucía basta. Lo amedrenta y se contiene por una sola razón, que oculta: **Elenna**. Halbrook: *"¡Ha! ¿Es el gran Kal Mercer tan cobarde para tomar mi cabeza de mis hombros?"* Kal no dice nada y se retira. PENDIENTE: si es la sentencia misma o la precede. Después vienen la victoria y la ejecución.
+ **SUPERSEDIDO (2026-09-28, CANON DEL AUTOR): la ejecución también pertenece a este libro** — Halbrook muere en su discurso de victoria, cierre de *Voto de Ceniza*, seguido de la coda de Corrado en el hospital; ver [[02_Characters/Warren_Halbrook]], "Muerte". *(Histórico:)* Esa decisión pertenece a este libro (Voto de Ceniza); **la ejecución no** — [[00_Biblia/00_Trilogy_Structure]] la fija como apertura de Cuentas de Sangre (Libro IV), pública. ~~y por mano de Kal~~ **(SUPERSEDIDO 2026-09-28, canon del autor: dispara Harper Walker; Kal y Nadir la cubren; revelación al final del Libro IV. Ver [[02_Characters/Warren_Halbrook]].)** La muerte de un Brigadier General en ese acto destruye cualquier posibilidad de seguir tratando la violencia como un problema exclusivamente local y contribuye a justificar la siguiente escalada federal — pero eso ya ocurre en el libro siguiente, no aquí.
 
 ## Restricciones de continuidad
 
@@ -2504,9 +2533,9 @@ Al cierre de la montaña y Santa Lucía, Kal comprende que los dos frentes perte
 Lo que sí debe existir en prosa **antes** de H22:
 
 - la Guerra de los Tres ya en escalada, no cerrada — Dario y Halbrook activos, la ciudad interpretando el choque posterior a H1;
-- el destierro de Riley (F2, Libro II — Sombras de Poder) y su vida ya establecida en Italia;
+- el destierro de Bonnie (F2, Libro II — Sombras de Poder) y su vida ya establecida en Italia;
 - el embarazo, H1 con conocimiento desigual y el reveal a Kal (Libro II — Sombras de Poder);
-- el nacimiento de Elenna, la falsa muerte pública, Elenna Serra con Riley, y una separación ya vivida como experiencia cotidiana (fotografías escasas incluidas).
+- el nacimiento de Elenna, la falsa muerte pública, Elenna Serra con Bonnie, y una separación ya vivida como experiencia cotidiana (fotografías escasas incluidas).
 
 Lo que ocurre **después** de H22, dentro del mismo libro (Voto de Ceniza): la caída legal de Dario (falso clímax) → la montaña y Santa Lucía —con la muerte de [[02_Characters/Hector_Navarro|Héctor Navarro]] y de [[02_Characters/Kenji_Oda|Kenji Oda]] y Chiara gravemente herida— → Kal decide que Halbrook debe morir (no lo ejecuta todavía) → Corrado revelado vivo. **H22 es la bisagra dentro de la guerra todavía abierta** que hace nacer el plan de salida antes del atentado contra Chiara.
 
@@ -2517,7 +2546,7 @@ Lo que ocurre **después** de H22, dentro del mismo libro (Voto de Ceniza): la c
 - Motivo exacto de la presencia de Chiara y Kenji en Santa Lucía.
 - Relación causal y orden fino de Santa Lucía + montaña.
 - Qué descubre Kal sobre Halbrook y qué puede demostrar la ley.
-- ~~Quién dispara contra Halbrook en la explanada del Ayuntamiento.~~ **RESUELTO por [[00_Biblia/00_Trilogy_Structure]] (2026-09-07):** lo ejecuta **Kal**, públicamente, y ese acto abre Cuentas de Sangre (Libro III) — no ocurre dentro de este macrohito de Voto de Ceniza. Aquí sólo queda la decisión de sentenciarlo.
+- ~~Quién dispara contra Halbrook en la explanada del Ayuntamiento.~~ **RESUELTO de nuevo (2026-09-28, CANON DEL AUTOR):** dispara **Harper Walker** durante el discurso de victoria de Halbrook, al cierre de este libro; Kal y Nadir la cubren; la ciudad duda entre ellos dos; la verdad sale al final del Libro IV, cuando Nadir se lo cuenta a Chiara. *(Histórico, 2026-09-07: lo ejecutaba **Kal**, públicamente, y ese acto abre Cuentas de Sangre (Libro III) — no ocurre dentro de este macrohito de Voto de Ceniza. Aquí sólo queda la decisión de sentenciarlo.
 - Desarrollo de las consecuencias federales y de la reconciliación de Kal y Chiara.
 - Causa, posición exacta y pago relacional de la muerte de Héctor.
 
@@ -2533,9 +2562,9 @@ Lo que ocurre **después** de H22, dentro del mismo libro (Voto de Ceniza): la c
 
 ## Bloqueo de prosa — regla dura
 
-> **BLOQUEO DE PROSA:** este hito no puede redactarse ni encargarse a Claude antes de que existan en prosa suficiente los tres soportes narrativos: Guerra de los Tres, destierro de Riley y embarazo/nacimiento/separación de Elenna. Su arquitectura puede diseñarse; su ejecución queda bloqueada.
+> **BLOQUEO DE PROSA:** este hito no puede redactarse ni encargarse a Claude antes de que existan en prosa suficiente los tres soportes narrativos: Guerra de los Tres, destierro de Bonnie y embarazo/nacimiento/separación de Elenna. Su arquitectura puede diseñarse; su ejecución queda bloqueada.
 
-Redactarlo antes de construir esas causas convertiría una bisagra estructural en una escena sentimental aislada. El desbloqueo exige que el lector ya haya vivido por qué Kal y Chiara no pueden viajar simplemente a Italia, por qué Riley ya está allí y por qué un video de una bebé caminando funciona como derrota.
+Redactarlo antes de construir esas causas convertiría una bisagra estructural en una escena sentimental aislada. El desbloqueo exige que el lector ya haya vivido por qué Kal y Chiara no pueden viajar simplemente a Italia, por qué Bonnie ya está allí y por qué un video de una bebé caminando funciona como derrota.
 
 ## Estado y posición
 
@@ -2551,8 +2580,8 @@ Redactarlo antes de construir esas causas convertiría una bisagra estructural e
 | Embarazo | Sí | El lector espera una hija |
 | H1 con embarazo secreto | Sí | Elenna queda ligada a volver a casa |
 | Reveal a Kal | Sí | Paternidad consciente |
-| Arco Riley–Chiara | Sí | Justifica la confianza |
-| Destierro de Riley | Sí | La coloca orgánicamente en Italia |
+| Arco Bonnie–Chiara | Sí | Justifica la confianza |
+| Destierro de Bonnie | Sí | La coloca orgánicamente en Italia |
 | Guerra de los Tres | Sí | Impide la vida familiar normal |
 | Nacimiento de Elenna | Sí | Convierte posibilidad en persona |
 | Falsa muerte | Sí | Explica la separación pública |
@@ -2569,13 +2598,13 @@ El lector debe entender por qué Kal y Chiara están atrapados terminando una gu
 
 Sin esta presión, la separación parecería artificial.
 
-### B — Destierro de Riley
+### B — Destierro de Bonnie
 
-Riley debe haber sido formada por Chiara, perdido su lugar en San Aurelio por un conflicto propio, sobrevivido mediante desaparición y construido una vida suficiente en Italia como **Riley Colombo**.
+Bonnie debe haber sido formada por Chiara, perdido su lugar en San Aurelio por un conflicto propio, sobrevivido mediante desaparición y construido una vida suficiente en Italia como **Roberta Ardizzone**.
 
-Kal no la destierra pensando en una hija futura. Chiara no la coloca en Italia para convertirla en cuidadora. Mucho después, cuando necesitan a alguien absolutamente confiable, Riley ya está allí.
+Kal no la destierra pensando en una hija futura. Chiara no la coloca en Italia para convertirla en cuidadora. Mucho después, cuando necesitan a alguien absolutamente confiable, Bonnie ya está allí.
 
-Sin esa cadena, Riley cuidando a Elenna parecería una solución inventada después del problema.
+Sin esa cadena, Bonnie cuidando a Elenna parecería una solución inventada después del problema.
 
 ### C — Nacimiento y pérdida pública de Elenna
 
@@ -2602,10 +2631,10 @@ Kal y Chiara ven juntos el dispositivo o memoria USB.
 En el video:
 
 - Elenna está apoyada contra un sofá;
-- Riley permanece cerca;
+- Bonnie permanece cerca;
 - Elenna se suelta;
-- da sus primeros pasos hacia Riley;
-- Riley se ríe;
+- da sus primeros pasos hacia Bonnie;
+- Bonnie se ríe;
 - Elenna se ríe.
 
 Por primera vez sus padres no ven una imagen de su hija: la ven vivir.
@@ -2657,7 +2686,7 @@ Mientras San Aurelio los convierte en **La Mancuerna de Hierro y Seda**, ellos p
 - No hacer que Kal y Chiara viajen o se retiren inmediatamente después del video.
 - No explicar la metáfora del segundo intento de reproducción.
 - No diseñar todavía la tecnología del dispositivo.
-- No borrar el apego de Elenna hacia Riley ni convertir a Riley en niñera funcional.
+- No borrar el apego de Elenna hacia Bonnie ni convertir a Bonnie en niñera funcional.
 - No convertir a Elenna en heredera criminal o promesa de dinastía.
 
 ## Pendientes de H22

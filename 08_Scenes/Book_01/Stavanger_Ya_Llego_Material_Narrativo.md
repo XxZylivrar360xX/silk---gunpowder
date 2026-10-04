@@ -3,7 +3,7 @@ tags:
   - material-narrativo
   - book-01-seda-y-polvora
 estado: BORRADOR_DE_ESCENA — NO CANONICO HASTA APROBACION DEL AUTOR
-libro: "Book 01 — Seda y Polvora"
+libro: "Book 01 — Mascaras de Cristal"
 pov: Kal Mercer, unico
 ventana_temporal: >-
   DESACTUALIZADA (ver nota de contradiccion al final del documento). La
@@ -14,10 +14,10 @@ ventana_temporal: >-
   no antes. Posicion exacta pendiente de precisar.
 localizacion: Stavanger, Noruega (ciudad propuesta, todavia no promovida a la ficha de Kal_Mercer.md)
 personajes: Kal Mercer, Chiara Bellandi, Henrik Solberg (nombre y parentesco PROVISIONALES, no aprobados)
-fuente_canon: "[[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] · [[02_Characters/Silas_Crowe]] · [[06_Relationships/Hitos]]"
+fuente_canon: "[[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]] · [[02_Characters/Silas_Crowe]] · [[06_Relationships/Hitos]]"
 ---
 
-> **MATERIAL NARRATIVO — no canónico hasta aprobación del autor.** Esta es la versión de escena, promovida desde [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] (que conserva el registro completo de diseño y de las contradicciones ya resueltas con el autor el 2026-09-19) a este directorio de `08_Scenes/Book_01`, siguiendo la convención de [[08_Scenes/Book_03/Tornare_A_Casa_Material_Narrativo]]. No se modificó ningún otro archivo del vault al crear esta versión.
+> **MATERIAL NARRATIVO — no canónico hasta aprobación del autor.** Esta es la versión de escena, promovida desde [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]] (que conserva el registro completo de diseño y de las contradicciones ya resueltas con el autor el 2026-09-19) a este directorio de `08_Scenes/Book_01`, siguiendo la convención de [[08_Scenes/Book_03/Tornare_A_Casa_Material_Narrativo]]. No se modificó ningún otro archivo del vault al crear esta versión.
 >
 > **Decisiones ya tomadas por el autor (2026-09-19), heredadas sin cambios:**
 >
@@ -31,7 +31,7 @@ fuente_canon: "[[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] · [[02_Chara
 >
 > **Protegido sin tocar:** Dale no se rehabilita; Ruth conserva su lugar emocional aparte; Héctor no se reduce; no hay clisés vikingos; no hay foreshadowing de Elenna; el anillo no se compra en Noruega; la concepción no se señala en el texto.
 >
-> **Añadido en esta versión (no estaba en el borrador de incubadora del 2026-09-19):** el intercambio "mide uno setenta / pan equivocado para la pasta" — engarza directamente con el chiste del pan/ciabatta ya escrito en [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta|Capítulo 33 — La periferia]]. **CORREGIDO (nota del autor, ver conversación):** Stavanger ocurre mucho DESPUÉS del Cap. 33, no antes. La dirección correcta es la inversa de lo que decía la primera versión de esta nota: el Cap. 33 es la semilla del chiste ("ciabatta"/pan equivocado como dinámica doméstica ya asentada); este capítulo es el que lo cobra, con Kal citándolo desde la memoria de esa dinámica ya vivida. Esto también implica que la posición registrada en `ventana_temporal` (heredada de [[06_Relationships/Hitos]], "antes de F2 y del embarazo confirmado") queda **desactualizada** — Stavanger va bastante más adelante en la línea de tiempo de lo que esa nota de 2026-09-19 fijaba. Posición correcta pendiente de que el autor la precise. Ver nota de contradicción al final de este documento.
+> **Añadido en esta versión (no estaba en el borrador de incubadora del 2026-09-19):** el intercambio "mide uno setenta / pan equivocado para la pasta" — engarza directamente con el chiste del pan/ciabatta ya escrito en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta|Capítulo 33 — La periferia]]. **CORREGIDO (nota del autor, ver conversación):** Stavanger ocurre mucho DESPUÉS del Cap. 33, no antes. La dirección correcta es la inversa de lo que decía la primera versión de esta nota: el Cap. 33 es la semilla del chiste ("ciabatta"/pan equivocado como dinámica doméstica ya asentada); este capítulo es el que lo cobra, con Kal citándolo desde la memoria de esa dinámica ya vivida. Esto también implica que la posición registrada en `ventana_temporal` (heredada de [[06_Relationships/Hitos]], "antes de F2 y del embarazo confirmado") queda **desactualizada** — Stavanger va bastante más adelante en la línea de tiempo de lo que esa nota de 2026-09-19 fijaba. Posición correcta pendiente de que el autor la precise. Ver nota de contradicción al final de este documento.
 
 ---
 
@@ -439,6 +439,6 @@ Adentro, alguien por fin había dejado de calcular cuánto tiempo faltaba para t
 
 **CORREGIDO tras revisión con el autor** (la versión original de esta nota tenía la dirección invertida):
 
-- **Stavanger ocurre mucho después de** [[11_Books/Book_01_Seda_y_Polvora/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta|Capítulo 33 — La periferia]], no antes. El chiste del pan equivocado/ciabatta que cierra este capítulo (Movimiento VIII, "—Te pedí ciabatta") **no siembra** esa dinámica: la **cobra**. El Cap. 33 es la semilla (ciabatta vs. integral, "—No veo cómo eso mejora tu argumento. —Yo sí."); este capítulo la reutiliza porque, para cuando ocurre Stavanger, es ya una discusión doméstica vieja y asentada entre Kal y Chiara — coherente con que Kal la use como broma resumida frente a Henrik/Chiara ("mide uno setenta y me regaña por el pan equivocado") en vez de como algo que recién empieza a existir.
+- **Stavanger ocurre mucho después de** [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta|Capítulo 33 — La periferia]], no antes. El chiste del pan equivocado/ciabatta que cierra este capítulo (Movimiento VIII, "—Te pedí ciabatta") **no siembra** esa dinámica: la **cobra**. El Cap. 33 es la semilla (ciabatta vs. integral, "—No veo cómo eso mejora tu argumento. —Yo sí."); este capítulo la reutiliza porque, para cuando ocurre Stavanger, es ya una discusión doméstica vieja y asentada entre Kal y Chiara — coherente con que Kal la use como broma resumida frente a Henrik/Chiara ("mide uno setenta y me regaña por el pan equivocado") en vez de como algo que recién empieza a existir.
 - **Consecuencia sobre la posición del capítulo:** la `ventana_temporal` de este documento (heredada del borrador de incubadora del 2026-09-19, "antes de F2 y del embarazo confirmado" en [[06_Relationships/Hitos]]) queda **desactualizada** — esa nota se escribió antes de que existiera la Parte III — Ardizzone (Corrado, Marta, el Cap. 33) en el manuscrito. Stavanger debe reubicarse más adelante en la línea de tiempo, después del Cap. 33 como mínimo. **Posición exacta pendiente de que el autor la precise** (¿después de todo el arco Ardizzone? ¿en qué Parte del Libro I — probablemente `Part_04_Nieve_Y_Ceniza`, `Part_05_Exilio` o `Part_06_Torna_A_Casa`, a juzgar por sus títulos?). No se actualizó [[06_Relationships/Hitos]] ni el Book Map en este encargo — solo se señala aquí.
 - La línea nueva "mide uno setenta", añadida en esta versión, es un dato físico de Chiara que **no está fijado en ningún otro documento del vault** (su ficha no especifica estatura). No es contradictorio, pero se introduce aquí por primera vez como canon potencial si el capítulo se aprueba — señalarlo para que el autor decida si lo confirma, lo cambia, o lo deja como línea de humor sin intención de fijar una estatura exacta.

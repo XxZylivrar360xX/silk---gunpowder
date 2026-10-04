@@ -2,7 +2,7 @@
 
 Fecha: 2026-09-10. Lectura de la versión de trabajo; manuscrito sin modificar. Las referencias de línea corresponden a esta revisión y pueden moverse al editar.
 
-Capítulo: [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/22_La_Promesa]]. Cotejo: cierre del 21, siembra de Diego en el 15, fichas de Marisol y Michael, voces de Cole y Chiara, política editorial y ledger de revelaciones. Diagnóstico humano; no se ejecutó ni amplió el piloto determinista.
+Capítulo: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/22_La_Promesa]]. Cotejo: cierre del 21, siembra de Diego en el 15, fichas de Marisol y Michael, voces de Cole y Chiara, política editorial y ledger de revelaciones. Diagnóstico humano; no se ejecutó ni amplió el piloto determinista.
 
 ## Dictamen — DISEÑO editorial
 

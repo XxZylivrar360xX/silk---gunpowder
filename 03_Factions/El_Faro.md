@@ -23,6 +23,8 @@ No comprándolo de golpe: eso levanta preguntas y además ella no tiene el diner
 
 Las fases previsibles: fuente → asesora → inversora → dueña de hecho antes de ser dueña de papel.
 
+> **CANON DEL AUTOR (2026-10-03):** la compra legal ocurre en *Sombras de Poder*, **después del asesinato de Tommaso**: Chiara necesita voz propia ante la opinión pública. Las fases previas se conservan; Tommaso detona la compra. Ya dueña, un reportero de *El Faro* transmite en vivo el enfrentamiento de la tormenta, y así Chiara ve su escala. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]] ("Incubadora 2026-10-03").
+
 > **PENDIENTE:** decidir quién es el dueño actual y por qué está desesperado. Restricción de diseño: no puede ser corrupto. Tiene que ser alguien decente y agotado, para que lo que Chiara hace duela.
 
 ---

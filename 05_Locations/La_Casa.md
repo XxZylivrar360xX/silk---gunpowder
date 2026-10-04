@@ -45,7 +45,7 @@
 
 ## El doble fondo y la caja de acero — CANON DEL AUTOR (2026-08-30)
 
-Durante la demolición de H14 aparece un **doble fondo bajo el suelo** que Dale Mercer usaba para contrabando. Kal reconoce su función sin convertir el hallazgo en explicación técnica. Decide no eliminarlo y hace instalar dentro una **caja de acero resistente al fuego**.
+Durante la demolición de H14 aparece un **doble fondo bajo el suelo** que Dale Mercer usaba para contrabando. Queda al fondo de la planta baja, cerca de donde corría el antiguo pasillo; es un compartimiento bajo el piso, no un cuarto, y el acceso es un tablón suelto (nota 2026-09-26, cuadrado con Caps. 10 y 36). Kal reconoce su función sin convertir el hallazgo en explicación técnica. Decide no eliminarlo y hace instalar dentro una **caja de acero resistente al fuego**.
 
 **Estado en H14:** es infraestructura de Kal. Puede guardar documentos, escrituras, contratos sensibles, efectivo, armas y papeles personales; no se inventaría un inventario exhaustivo ni se adelantan objetos futuros.
 
@@ -149,7 +149,7 @@ Su *me quedo* también es geográfico. Ver [[00_Biblia/Temas]], tema 5 — y [[0
 
 > **REVISADO (2026-08-29) — sí hay hito de mudanza.** Bajo la cronología consolidada, la **mudanza oficial de Chiara es un hito propio**, el día de su cumpleaños, después de H7: [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]]. Antes de eso, en el hito [[06_Relationships/Hitos#H14 — El loft del soltero|El loft del soltero]], ella sólo puede pasar tiempo, cenar, dormir alguna noche y dejar algún objeto suelto — **NO** closet propio, computadora instalada, rutina diaria ni cajones. (La prosa del Capítulo 9 se podó el 2026-08-29 para respetar esto; la laptop y el café diario pasaron al hito del cumpleaños.) La "noche de la sudadera" de H5 (San Aurelio) queda como una noche de vigilancia en una casa donde ella todavía no vive.
 
-> **CÓMO SE EJECUTA LA MUDANZA — CANON DEL AUTOR (2026-08-29):** no hay escena de traslado. En su cumpleaños, Kal le da una **cajita de madera con una llave del loft**: *"ya pasas las noches ahí, quiero que pases también las mañanas, si estás de acuerdo".* La llave es el acto. Detalle de la casa que estrena aquí: el **cuarto bodega**, donde la noche anterior Kal esconde bajo una manta la botella robada de Domaine de la Romanée-Conti (ver el hito). A partir de la llave empiezan la computadora que se queda y el café listo cada mañana.
+> **CÓMO SE EJECUTA LA MUDANZA — CANON DEL AUTOR (2026-08-29):** no hay escena de traslado. En su cumpleaños, Kal le da una **cajita de madera con una llave del loft**: *"ya pasas las noches ahí, quiero que pases también las mañanas, si estás de acuerdo".* La llave es el acto. Detalle de la casa que estrena aquí: el **doble fondo** bajo el piso, al fondo de la planta baja (no es un cuarto: es el compartimiento, nota 2026-09-26); la noche anterior Kal esconde ahí, en el hueco junto a la caja de acero y envuelta en una manta, la botella robada de Domaine de la Romanée-Conti (ver el hito). A partir de la llave empiezan la computadora que se queda y el café listo cada mañana.
 
 > **PENDIENTE:** los perros. Kal se queda con lo que aparece en el patio ([[02_Characters/Kal_Mercer]], reglas duras). ¿Viven en el taller o en la casa?
 

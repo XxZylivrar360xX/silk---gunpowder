@@ -54,7 +54,7 @@ En caso de conflicto:
 1. Revisar el `00_Book_Map.md` del libro activo.
 2. Leer [[12_Craft_Policies/Redaccion_De_Capitulos]].
 3. Revisar `milestones/INDEX.md` si la escena depende de un hito ya fijado.
-4. Revisar `revelations/Book_01_Seda_y_Polvora.md` si la escena toca secretos, mentiras, rituales, pasado familiar, identidad o información retenida.
+4. Revisar `revelations/Book_01_Mascaras_De_Cristal.md` si la escena toca secretos, mentiras, rituales, pasado familiar, identidad o información retenida.
 5. Leer las fichas de voz de cada personaje que habla.
 6. Si la escena es diálogo emocional largo, repasar `dialogue_rules/`.
 7. Antes de cerrar, repasar `staging_rules/`: lugar, cuerpos, silencio, transición y costo físico/social.
@@ -83,6 +83,7 @@ En caso de conflicto:
 | [01-vineta-de-tesis-sin-encarnacion-espacial](staging_rules/01-vineta-de-tesis-sin-encarnacion-espacial.md) | La tesis llega antes que el lugar. |
 | [02-encuentro-grande-resuelto-por-resumen-funcional](staging_rules/02-encuentro-grande-resuelto-por-resumen-funcional.md) | Una reunión, golpe, amenaza u operación se resume por función sin beats físicos/sociales intermedios. |
 | [03-presentacion-por-catalogo-en-vez-de-gesto](staging_rules/03-presentacion-por-catalogo-en-vez-de-gesto.md) | Un personaje o su pasado entran por inventario físico en vez de por un gesto que se le escapa al cuerpo. |
+| [04-dialogo-de-guion-sin-anclaje](staging_rules/04-dialogo-de-guion-sin-anclaje.md) | Intercambio largo sin cuerpo ni espacio, o sostenido por veredictos del narrador o relleno de guion; el beat tiene que hacer algo. |
 
 ## Fichas de voz existentes
 

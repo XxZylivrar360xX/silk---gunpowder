@@ -1,6 +1,6 @@
 # SURGERY C16 — carta/sobre (2026-09-15, Claude Code, encargo del autor)
 
-Zona única, encargo puntual: resolver el bloqueador de CLOSE ([[98_Agent_Handoff/sessions/2026-09-15_claude_close_c16_el_porton]]) sobre la secuencia física carta/sobre en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/16_El_Porton]]. Sin AUDIT, sin revisión del resto del capítulo, sin buscar candidatos nuevos.
+Zona única, encargo puntual: resolver el bloqueador de CLOSE ([[98_Agent_Handoff/sessions/2026-09-15_claude_close_c16_el_porton]]) sobre la secuencia física carta/sobre en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/16_El_Porton]]. Sin AUDIT, sin revisión del resto del capítulo, sin buscar candidatos nuevos.
 
 ## Antes
 

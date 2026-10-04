@@ -17,7 +17,7 @@ Garrett parece más aburrido de lo que es. Trajes correctos, reloj discreto, man
 
 Si Russ Whitaker se reconoce por el bastón, Garrett se reconoce por lo contrario: puede salir de una reunión y dejar la sensación de que siempre estuvo ahí, pero nadie recuerda una frase concreta.
 
-**CANON (2026-09-07):** moreno, barba corta, cabello negro rizado más largo de lo que cualquier reglamento militar habría tolerado. Lleva lentes de sol de forma permanente, incluso en interiores — **fotofobia**, secuela de la misma emboscada en Afganistán donde murió [[02_Characters/Jim_Keegan]] y [[02_Characters/Russell_Whitaker|Russ]] perdió la movilidad de la pierna (ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Capítulo 3]]). No contradice lo de "no quedarse en la memoria de nadie": los lentes le tapan los ojos, que es justo por donde la gente suele leer a alguien — refuerzan su ilegibilidad de otra forma, no la rompen. Primera aparición en prosa: [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/19_Tierra_Buena|Capítulo 19, "Tierra buena"]].
+**CANON (2026-09-07):** moreno, barba corta, cabello negro rizado más largo de lo que cualquier reglamento militar habría tolerado. Lleva lentes de sol de forma permanente, incluso en interiores — **fotofobia**, secuela de la misma emboscada en Afganistán donde murió [[02_Characters/Jim_Keegan]] y [[02_Characters/Russell_Whitaker|Russ]] perdió la movilidad de la pierna (ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Capítulo 3]]). No contradice lo de "no quedarse en la memoria de nadie": los lentes le tapan los ojos, que es justo por donde la gente suele leer a alguien — refuerzan su ilegibilidad de otra forma, no la rompen. Primera aparición en prosa: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/19_Tierra_Buena|Capítulo 19, "Tierra buena"]].
 
 ---
 
@@ -25,7 +25,7 @@ Si Russ Whitaker se reconoce por el bastón, Garrett se reconoce por lo contrari
 
 Garrett administra dinero, recursos y activos de la organización de [[02_Characters/Kal_Mercer]]. En la etapa temprana ya ayuda con nóminas, papeles básicos y contratación limpia para Almendra Towing; más adelante es el hombre que convierte crecimiento criminal en balances, participaciones, propiedades, préstamos, contratos y empresas.
 
-**RESUELTO (2026-09-03):** estuvo presente en la emboscada en Afganistán donde murió [[02_Characters/Jim_Keegan]] y [[02_Characters/Russell_Whitaker|Russ]] sufrió la lesión permanente de la pierna — ver [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Capítulo 3]] (memoria de Kal).
+**RESUELTO (2026-09-03):** estuvo presente en la emboscada en Afganistán donde murió [[02_Characters/Jim_Keegan]] y [[02_Characters/Russell_Whitaker|Russ]] sufrió la lesión permanente de la pierna — ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Capítulo 3]] (memoria de Kal).
 
 No es el contador del taller. Es el administrador de la capa donde Kal ya no puede firmar sin dejar rastro.
 
@@ -42,6 +42,10 @@ Garrett ya orbita a Kal desde la etapa de Almendra Towing: lleva nóminas, orden
 Garrett escala cuando [[03_Factions/El_Patio]] deja de ser favores, grúas y carreras, y empieza a necesitar estructura patrimonial. Su empresa, [[03_Factions/Cross_River_Consolidated]], sostiene activos y participaciones donde Kal no debe figurar.
 
 La relación con [[02_Characters/Chiara_Bellandi]] se vuelve peligrosa porque ambos entienden el relato, pero desde ángulos opuestos: ella limpia versiones; él limpia papeles.
+
+**CANON DEL AUTOR (2026-10-02) — *Sombras de Poder*:** Chiara contrata a Garrett como su contador. Con [[02_Characters/Giancarlo_Krane|Krane]] es pieza clave para empezar a aislar financieramente a [[02_Characters/Dario_Varek|Dario]]: limpia el flujo de inyección de efectivo al Monarch para que el casino deje de depender del dinero sucio de Dario.
+
+**Química con Chiara (DISEÑO aprobado por el autor, 2026-10-02):** respeto de oficio, no calidez. Él respeta a quien no le pide que mienta en papel ni presume lo que no sabe; ella respeta a quien no actúa. Gestos: se quita los lentes (fotofobia) sólo cuando algo importa (Cap. 46, cuando Chiara toma el teléfono de Marisol). Cap. 47: le entrega la carpeta gris de "lo que tiene su nombre cerca del de él" —lo que sólo hacía para Kal— y es el único del Patio que conoce la forma de la cuenta abierta con Dario ("Entonces tampoco por mí"). Juego de palabras de una sola vez: "Yo cuento números, señora. Lo otro lo cuenta usted." Mantener la fricción: Garrett anota todo, incluida ella.
 
 ---
 
@@ -72,6 +76,7 @@ Con ayuda de Chiara, usa el casino como una zona de niebla narrativa: apuestas, 
 
 - [[02_Characters/Kal_Mercer]] — administra activos donde Kal no puede aparecer.
 - [[02_Characters/Chiara_Bellandi]] — colabora con ella en el casino para blanquear dinero a través del relato de apuestas y mesas.
+- [[02_Characters/Giancarlo_Krane]] — en *Sombras de Poder*, socio operativo de Chiara para aislar a Dario en finanzas.
 - [[03_Factions/Cross_River_Consolidated]] — empresa donde concentra activos, participaciones y negocios visibles.
 - [[03_Factions/El_Patio]] — cara financiera/legal de la red.
 - [[02_Characters/Russell_Whitaker]] — contraparte política. Si Russ abre puertas públicas, Garrett decide qué entra por ellas.
@@ -82,4 +87,4 @@ Con ayuda de Chiara, usa el casino como una zona de niebla narrativa: apuestas, 
 
 > **PENDIENTE:** cómo conoce Kal a Garrett: abogado recomendado, contador comprado, deuda antigua, favor de Chiara o pieza heredada de Varek.
 
-> **PENDIENTE:** cuál es la primera vez que Garrett le dice "no" a Kal y Kal lo obedece. *(2026-09-09, catchup manual: en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/24_Bajo_Juramento|Capítulo 24]] Garrett le dice "No" cuando Kal mira un Lancia para Chiara recién salido del litigio del concesionario; Kal no compra ese día, pero ya piensa volver en dos semanas — obediencia parcial, no la resolución definitiva de este pendiente.)*
+> **PENDIENTE:** cuál es la primera vez que Garrett le dice "no" a Kal y Kal lo obedece. *(2026-09-09, catchup manual: en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24_Bajo_Juramento|Capítulo 24]] Garrett le dice "No" cuando Kal mira un Lancia para Chiara recién salido del litigio del concesionario; Kal no compra ese día, pero ya piensa volver en dos semanas — obediencia parcial, no la resolución definitiva de este pendiente.)*

@@ -1,8 +1,8 @@
 # Linea temporal
 
-Este directorio contiene la **linea temporal macro** de los cinco libros. Cada entrada debe ser un acontecimiento enunciado en una sola frase o una fila breve; no contiene escenas, mecanismos, motivaciones desarrolladas ni prosa.
+Este directorio contiene la **linea temporal macro** de los siete libros. Cada entrada debe ser un acontecimiento enunciado en una sola frase o una fila breve; no contiene escenas, mecanismos, motivaciones desarrolladas ni prosa.
 
-> **Excepción (2026-09-20):** [[02_Libro_01_Seda_y_Polvora]] opera a granularidad intermedia por decisión expresa del autor — más detalle que un enunciado de una frase, menos que un índice de capítulos — para servir de mapa cronológico-macronarrativo operativo del Libro I por Partes. No usar esa granularidad como precedente para los demás archivos de este directorio sin instrucción equivalente.
+> **Excepción (2026-09-20):** [[02_Libro_01_Mascaras_De_Cristal]] opera a granularidad intermedia por decisión expresa del autor — más detalle que un enunciado de una frase, menos que un índice de capítulos — para servir de mapa cronológico-macronarrativo operativo del Libro I por Partes. No usar esa granularidad como precedente para los demás archivos de este directorio sin instrucción equivalente.
 
 ## Regla de autoridad
 
@@ -18,24 +18,29 @@ Este directorio contiene la **linea temporal macro** de los cinco libros. Cada e
 > **SUPERSESIÓN (2026-09-22):** se inserta *Sombras de Poder* como Libro II — ver
 > [[00_Biblia/00_Trilogy_Structure]]. *Voto de Ceniza*, *Cuentas de Sangre*, *Juramento de
 > Hierro* y *Camino a Casa* se renumeraron un lugar hacia adelante.
+>
+> **SUPERSESIÓN (2026-10-03):** el ciclo de Elenna pasa a trilogía; se inserta *Hijos del
+> Silencio* como Libro VI y *Camino a Casa* pasa a Libro VII.
 
 1. [[01_Indice_Cronologico]] — continuidad completa y bisagras entre libros.
-2. [[02_Libro_01_Seda_y_Polvora]] — encuentro, elección mutua y primera prueba (Camp Alder).
+2. [[02_Libro_01_Mascaras_De_Cristal]] — encuentro, elección mutua y primera prueba (Camp Alder).
 3. [[03_Libro_02_Sombras_De_Poder]] — ascenso, H1 y llegada de Halbrook.
 4. [[04_Libro_03_Voto_De_Ceniza]] — guerra, exilio de Elenna y decisión de salida.
 5. [[05_Libro_04_Cuentas_De_Sangre]] — ejecución, Meridian y salida a Palermo.
 6. [[06_Libro_05_Juramento_De_Hierro]] — academia, caso Vera y siembra de Ethan.
-7. [[07_Libro_06_Camino_A_Casa]] — disparo, reconstrucción y revelación final.
-8. [[08_Matriz_Renombramiento_Capitulos_Libro_I]] — estudio de títulos visibles, archivos desfasados y candidatos a revisión.
+7. [[07_Libro_06_Hijos_Del_Silencio]] — caza, captura y arresto de Ethan / Dylan Marsh.
+8. [[08_Libro_07_Camino_A_Casa]] — hospital, reconstrucción de la noche Marsh y cierre del caso Vera.
+9. [[08_Matriz_Renombramiento_Capitulos_Libro_I]] — estudio de títulos visibles, archivos desfasados y candidatos a revisión.
 
 ## Fuentes
 
-- [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]]
+- [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]
 - [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]
 - [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]]
 - [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]]
 - [[11_Books/Book_05_Juramento_De_Hierro/00_Book_Map]]
-- [[11_Books/Book_06_Camino_A_Casa/00_Book_Map]]
+- [[11_Books/Book_06_Hijos_Del_Silencio/00_Book_Map]]
+- [[11_Books/Book_07_Camino_A_Casa/00_Book_Map]]
 - [[00_Biblia/00_Trilogy_Structure]]
 - [[06_Relationships/Hitos]]
 

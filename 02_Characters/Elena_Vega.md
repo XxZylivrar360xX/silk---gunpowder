@@ -83,6 +83,12 @@ La respuesta de Vega:
 
 ---
 
+## Caso Vera (CANON DEL AUTOR, 2026-10-03, lote 3)
+
+Hereda de Keene la **omisión** en el caso Vera: como jefa recién llegada, con un Departamento ya expuesto, deja correr la versión simple (el padre Marsh disparó y huyó) porque le conviene. No la ordena ni la diseña. Ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]].
+
+---
+
 ## Conexiones
 
 - [[03_Factions/Departamento_de_Policia_de_San_Aurelio]] — departamento que dirige.

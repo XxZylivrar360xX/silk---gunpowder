@@ -5,6 +5,9 @@
 > Escena de exploración para *Camino a Casa*. La arquitectura emocional y varios diálogos
 > provienen de decisiones del autor (ver [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro|escena
 > faro 3]]), pero la ejecución en prosa permanece sujeta a revisión.
+>
+> **Reconciliado 2026-10-03 (lote 4 PROYECTO RECLUTA):** línea de Nicholas, elementos subidos a
+> canon y podas del autor. Ver la sección final.
 
 ---
 
@@ -23,15 +26,15 @@ su amor a que volviera con ellos. Ninguna de las dos frases se escribe en la pro
 
 **Base fija (CANON DEL AUTOR, no reescribir):** todo el bloque de
 [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro|escena faro 3]] — Nicholas: "Ella se cuida
-bastante bien sola"; el chiste sobre Rex, no sobre el capitán; beso de Kal en la frente;
+bastante bien sola" (desde 2026-10-03: "Mercer se cuida…"); el chiste sobre Rex, no sobre el capitán; beso de Kal en la frente;
 "Nunca me gustaron los aeropuertos" / "Pero mi historia empezó en un aeropuerto así, ¿o no?" /
 "Sí"; el abrazo; "Ti amo con tutto il…" / "Mio cuore"; el gesto de persignar a Elenna antes de
 irse; "¿Segundo?" en la escalerilla y el comentario final de Kal que Elenna no alcanza a oír.
 
-**Sobre la numeración:** este archivo usa el título *Camino a Casa* y la numeración vigente en
-`develop` (`11_Books/Book_06_Camino_A_Casa/`), sin tocarla. Existe la posibilidad todavía **no
-oficial** de insertar un volumen adicional de Elenna antes de este libro — no se renumera nada
-por esa posibilidad; queda registrada como pendiente en la nota final.
+**Rima de saga (DISEÑO, 2026-10-02, no enunciar):** "mi historia empezó en un aeropuerto así" carga, sobre todo, la noche de la salida a Stavanger, donde sus padres se comprometen y ella es concebida (CANON DEL AUTOR); Elenna conoce esa historia por las cartas. Ver [[02_Characters/Elenna_Mercer]]. Chiara no debe recordar en voz alta el papel, el nombre ni Stavanger.
+
+**Numeración:** *Camino a Casa* es el **Libro VII** desde 2026-10-03 (inserción de *Hijos del
+Silencio*); ver [[00_Biblia/00_Trilogy_Structure]].
 
 ---
 
@@ -141,14 +144,6 @@ Chiara la miró un momento más largo de lo normal.
 
 —Sí.
 
-Elenna conocía esa historia por las cartas — el papel grueso, la letra inclinada siempre hacia
-el mismo lado, el olor a canela y vainilla que llegaba antes que cualquier palabra. En alguna de
-ellas, entre un consejo sobre el frío y una posdata sobre comer a tiempo, Chiara le había contado
-que llegó a San Aurelio creyendo que sería una escala. La ciudad no la dejó irse. Le pidió
-raíces, y se las cobró completas.
-
-Elenna, en cambio, sí sabía por qué se quedaba.
-
 El abrazo llegó después de esa palabra, y duró más que el de Kal. Chiara le tocó el pelo, después
 la mejilla, y se quedó ahí, con la mano quieta, como si estuviera memorizando algo con los dedos
 en vez de con los ojos.
@@ -180,16 +175,7 @@ hombro, el otro — despacio, sin prisa por nadie que estuviera mirando.
 
 Y entonces, por fin, la soltó.
 
-Kal y Chiara caminaron juntos hacia la escalerilla. A mitad de camino, Kal dijo algo que Elenna
-no alcanzó a oír completo, algo sobre la última vez que había salido de una pista como ésa con
-un plan perfecto.
-
-—Tenías un plan que casi no funciona —dijo Chiara, sin mirarlo—, y saliste porque alguien más
-limpió detrás de ti.
-
-—Ese es un detalle menor.
-
-Ya en el primer peldaño, Kal se dio la vuelta.
+Kal y Chiara caminaron juntos hacia la escalerilla. Ya en el primer peldaño, Kal se dio la vuelta.
 
 —¿Segundo?
 
@@ -211,54 +197,43 @@ otra vez.
 
 San Aurelio seguía ahí, detrás de ella, con todo lo que tenía pendiente.
 
-Elenna se quedó un momento más, sola, mirando la pista vacía.
+Elenna se quedó un momento más, mirando la pista vacía.
 
 ---
 
 ## Notas para cuando esto encuentre capítulo
 
-> **CANON DEL AUTOR, ya fijado y no tocado aquí:** todo el bloque de
-> [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro|escena faro 3]] — Nicholas ("Ella se cuida
-> bastante bien sola"), el chiste de Kal sobre Rex y no sobre el capitán, el beso en la frente,
-> "Nunca me gustaron los aeropuertos" / "Pero mi historia empezó en un aeropuerto así, ¿o no?" /
-> "Sí", el abrazo, "Ti amo con tutto il…" / "Mio cuore", Chiara santiguando a Elenna (no dibujando
-> una cruz en la frente — corregido en esta pasada), y "¿Segundo?" con el comentario final
-> inaudible de Kal. Se suma como CANON DEL AUTOR de esta pasada el payoff exacto: "—Jamás pensé
-> que le diría esto a una policía." / "—Estoy orgullosa de ti, Elenna." — línea fijada, no
-> parafraseable, sin "ragazza" ni "amore mio" pegados a ella.
+> **CANON DEL AUTOR:** todo el bloque de
+> [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro|escena faro 3]] — Nicholas: "Mercer se cuida
+> bastante bien sola" (redacción fijada 2026-10-03); el chiste de Kal sobre Rex, no sobre el
+> capitán; el beso en la frente; "Nunca me gustaron los aeropuertos" / "Pero mi historia empezó en
+> un aeropuerto así, ¿o no?" / "Sí"; el abrazo; "Ti amo con tutto il…" / "Mio cuore"; Chiara
+> santiguando a Elenna (persignación real); "¿Segundo?", el beso en la mejilla y el comentario
+> inaudible; el payoff "—Jamás pensé que le diría esto a una policía." / "—Estoy orgullosa de ti,
+> Elenna." (sin "ragazza" ni "amore mio" pegados). **Subidos a canon el 2026-10-03 (lote 4):**
+> "—¿Segura?" / "—Sí", con Kal aceptando la respuesta, y la reacción física de Elenna al payoff
+> (sollozo involuntario, risa encima, lágrimas, "Mamá…" sin terminar).
 
-> **DISEÑO, ejecución de esta sesión, revisable:** la ambientación del hangar privado; la
-> secuencia de comprobaciones prácticas de Kal (pastillas, cargador, chamarra); el intercambio
-> "Cuídala" / "Mercer se cuida bastante bien sola" / "Hablaba con él" (Rex) / "Entonces estamos de
-> acuerdo" entre Kal y Nicholas — Nicholas no acepta la transferencia paternal, Kal no contradice
-> la autonomía de Elenna, y el desvío hacia Rex resuelve el chiste sin que ninguno ceda terreno;
-> el comentario vago de Kal y Chiara sobre "aquella vieja salida" (deliberadamente sin
-> detalle, para no inventar hechos de la trama que no están fijados); el orden y ritmo de los
-> gestos de despedida; que Elenna complete "Mio cuore" antes de que Chiara termine la frase; el
-> chiste final de Kal ("Una llamada... Contesto rápido. Siempre.") y el "Ciao, papà" de Elenna que
-> lo deja carraspeando; el recuerdo de las cartas (papel, letra, canela y vainilla, la anécdota de
-> San Aurelio como "escala" que se volvió raíz) como puente hacia el "Sí" de Chiara, sin nombrar a
-> Elenna como "una de esas raíces" — se deja que el lector arme la conexión; y la reacción física
-> de Elenna al payoff (sollozo real e involuntario, risa casi encima, lágrimas, "Mamá..." sin
-> terminar) en vez de discurso o explicación del narrador.
+> **DISEÑO, revisable:** el hangar privado; las comprobaciones prácticas de Kal (pastillas,
+> cargador, chamarra y botón); "Cuídala" / "Hablaba con él" / "Entonces estamos de acuerdo"; "Una
+> llamada… Contesto rápido. Siempre." y el "Ciao, papà"; que Elenna complete "Mio cuore" a la vez;
+> el cierre con el avión alejándose, Nicholas y Rex presentes sin invadir.
 
-> **DEPENDENCIA EDITORIAL, no ejecutar aquí:** para que este payoff funcione en el libro final,
-> las cartas de Chiara a Elenna durante *Juramento de Hierro* deben construir el hueco que se paga
-> en esta escena — amor, consejo, humor, reconocimiento implícito ("Sabía que podías hacerlo"),
-> pero **nunca** la frase exacta "Estoy orgullosa de ti", para que su aparición aquí tenga peso.
-> Esta escena de apoyo no redacta esas cartas ni el libro anterior; sólo deja registrada la
-> dependencia para quien redacte *Juramento de Hierro*.
+> **Retirado 2026-10-03 por el autor (lote 4):** la broma de Kal y Chiara sobre "aquella vieja
+> salida" y el "plan perfecto" (sonaba a un hecho que el lector debía recordar; "¿Segundo?" queda
+> como único remate de la pareja) y el recuerdo de las cartas (papel, canela y vainilla, "escala"
+> que se volvió raíz; explicaba justo después del diálogo del aeropuerto). Se quitó también
+> "sola" del cierre: Nicholas y Rex siguen ahí.
 
-> **PENDIENTE, no resuelto por este borrador:** la posibilidad no oficial de un volumen adicional
-> de Elenna antes de *Camino a Casa*, y cómo afectaría esta escena si se inserta — no se
-> renumeró ni se ajustó nada por esa posibilidad, según instrucción explícita. Numeración
-> definitiva de libro: mismo estado que en
-> [[07_Ideas/Libro_04_Incubadora/Hospital_Reencuentro_Elenna]] — el vault tiene dos esquemas en
-> paralelo (pre y post inserción de *Sombras de Poder*) sin reconciliar en esta carpeta.
+> **Rima con Stavanger (DISEÑO):** "mi historia empezó en un aeropuerto así" carga la noche de la
+> salida a Stavanger; Elenna la conoce por las cartas. Nadie la explica en voz alta.
 
-> **No se tocó:** ninguna ficha de personaje, ningún book map, ni
-> [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]], ni cronología, ni numeración oficial, ni
-> estados de canon. Este archivo es material de apoyo independiente.
+> **DEPENDENCIA EDITORIAL:** las cartas de Chiara en *Juramento de Hierro* e *Hijos del Silencio*
+> construyen el hueco (amor, consejo, "Sabía que podías hacerlo"), pero **nunca** usan la frase
+> exacta "Estoy orgullosa de ti".
+
+> **CANON DEL AUTOR (2026-10-03):** el hangar va 4–5 capítulos después de la apertura del VII,
+> antes del clímax policial; el resto del libro ocurre sin Kal y Chiara.
 
 ---
 
@@ -266,4 +241,4 @@ Ver también: [[07_Ideas/Libro_04_Incubadora/Hospital_Reencuentro_Elenna]] ·
 [[02_Characters/Elenna_Mercer]] · [[02_Characters/Kal_Mercer]] ·
 [[02_Characters/Chiara_Bellandi]] · [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]] ·
 [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]] ·
-[[11_Books/Book_06_Camino_A_Casa/00_Book_Map]]
+[[11_Books/Book_07_Camino_A_Casa/00_Book_Map]]

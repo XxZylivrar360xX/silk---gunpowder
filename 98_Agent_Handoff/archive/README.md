@@ -13,6 +13,10 @@ Copias íntegras, verificadas por SHA-256 antes de compactar:
 
 Estas copias son inmutables. No corregir sus nombres, enlaces históricos ni canon superado por nuevas decisiones. Para estado actual, usar [[98_Agent_Handoff/CURRENT_BRIEF]], [[98_Agent_Handoff/PENDING]] y [[98_Agent_Handoff/BACKLOG]].
 
+## ChatGPT (2026-10-03)
+
+`archive/chatgpt/`: encargos, prompts, hitos y handoffs que ChatGPT dejaba antes del buzón actual (agosto–septiembre 2026), más las notas del buzón ya procesadas por Claude Code. Historial, no instrucciones vigentes; su contenido puede estar superado por el canon.
+
 ## Búsqueda por demanda
 
 Desde la raíz del vault:
@@ -35,3 +39,12 @@ Markdown sigue siendo la fuente; una futura base de búsqueda deberá poder reco
 Durante la compactación otra sesión agregó el Cap. 40. También se conservaron íntegros [[98_Agent_Handoff/archive/2026-09-21_CURRENT_BRIEF_cap40]] y [[98_Agent_Handoff/archive/2026-09-21_PENDING_cap40]]. El relevo compacto incorpora ese avance y la discrepancia Tommaso/Alessio.
 
 - Bitácora al terminar esa sesión: [[98_Agent_Handoff/archive/log_hasta_2026-09-21_cap40]]. Conserva también el registro completo del Cap. 40.
+
+- [[98_Agent_Handoff/archive/2026-09_sesiones]]: enlaces retirados del registro reciente.
+
+## Corte del 2026-10-03
+
+Copias íntegras antes de compactar el relevo (el brief medía ~3,900 palabras):
+
+- [[98_Agent_Handoff/archive/2026-10-03_CURRENT_BRIEF|Brief acumulado]].
+- [[98_Agent_Handoff/archive/2026-10-03_PENDING|Pendientes]].

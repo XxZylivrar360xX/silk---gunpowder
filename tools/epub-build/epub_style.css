@@ -1,5 +1,9 @@
+/* Seda y Pólvora — hoja de estilo EPUB.
+   Convenciones de libro impreso: sangría sin espacio entre párrafos,
+   primer párrafo sin sangría, cortes de escena con ornamento. */
+
 body {
-  font-family: "Bookerly", "Georgia", "Palatino Linotype", serif;
+  font-family: "Georgia", "Palatino Linotype", serif;
   line-height: 1.45;
   text-align: justify;
   margin: 0;
@@ -8,33 +12,57 @@ body {
   -webkit-hyphens: auto;
 }
 
+/* Títulos de capítulo */
 h1 {
   font-family: "Georgia", serif;
-  font-weight: bold;
+  font-weight: normal;
   text-align: center;
-  font-size: 1.6em;
-  line-height: 1.2;
-  margin: 1.8em 0 1.4em;
+  font-size: 1.5em;
+  line-height: 1.25;
+  margin: 3em 0 2em;
   page-break-before: always;
   break-before: page;
+  page-break-after: avoid;
+  break-after: avoid;
+  hyphens: none;
+  -webkit-hyphens: none;
 }
 
-/* Aperturas de parte: una pagina limpia, con el titulo como portada interior. */
+/* Aperturas de parte: página propia, ordinal en versalitas y título debajo.
+   Centrado vertical: margin-top en % se calcula sobre el ANCHO (por eso
+   quedaba arriba) y flex/100vh lo ignoran Kindle y otros lectores. Se usa
+   padding en vh (alto de pantalla) con respaldo en em para lectores viejos;
+   padding, no margin, porque varios lectores anulan el margen superior al
+   inicio de página. */
+section.part-title {
+  padding-top: 11em;
+  padding-top: 34vh;
+  page-break-before: always;
+  break-before: page;
+  page-break-after: always;
+  break-after: page;
+}
+
 h1.part-title {
-  display: flex;
-  min-height: 100vh;
-  box-sizing: border-box;
-  align-items: center;
-  justify-content: center;
   margin: 0 8%;
   padding: 0;
   font-size: 1.8em;
-  font-weight: normal;
-  letter-spacing: 0.04em;
-  page-break-before: always;
-  page-break-after: always;
-  break-before: page;
-  break-after: page;
+  letter-spacing: 0.03em;
+  page-break-before: avoid;
+  break-before: avoid;
+}
+
+h1.part-title .part-number {
+  display: block;
+  font-size: 0.55em;
+  font-variant: small-caps;
+  letter-spacing: 0.15em;
+  margin-bottom: 1em;
+}
+
+h1.part-title .part-name {
+  display: block;
+  font-style: italic;
 }
 
 h2 {
@@ -47,37 +75,100 @@ h2 {
   margin: 2em 0 1em;
 }
 
+/* Párrafos: sólo sangría, sin espacio vertical entre ellos. */
 p {
-  margin: 0 0 0.75em 0;
-  text-indent: 1.2em;
+  margin: 0;
+  text-indent: 1.5em;
   orphans: 2;
   widows: 2;
 }
 
-p + p {
-  margin-top: 0;
-}
-
+/* Primer párrafo de capítulo y tras un corte de escena: sin sangría. */
 h1 + p,
 h2 + p,
 h3 + p,
+hr + p,
 blockquote p {
   text-indent: 0;
 }
 
+/* Arranque de capítulo: primera línea en versalitas. */
+h1 + p::first-line {
+  font-variant: small-caps;
+  letter-spacing: 0.03em;
+}
+
+/* Cartas, notas y mensajes citados. */
 blockquote {
+  margin: 1.2em 1.5em;
+  font-size: 0.95em;
   text-align: left;
 }
 
+blockquote p {
+  margin: 0 0 0.5em;
+}
+
+/* Cortes de escena: ornamento centrado que no queda huérfano al pie. */
 hr {
   border: none;
   text-align: center;
-  margin: 1.4em 0;
+  margin: 1.2em 0;
+  height: 1.2em;
+  page-break-after: avoid;
+  break-after: avoid;
 }
 
 hr::after {
-  content: "* * *";
-  letter-spacing: 0.2em;
+  content: "⁂";
+  font-size: 1.1em;
+}
+
+/* Portadilla */
+section.titlepage {
+  text-align: center;
+  margin-top: 30%;
+}
+
+section.titlepage h1.title {
+  page-break-before: avoid;
+  break-before: avoid;
+  font-size: 2em;
+  margin: 0 0 1.5em;
+}
+
+section.titlepage .author {
+  text-indent: 0;
+  font-variant: small-caps;
+  letter-spacing: 0.1em;
+  font-size: 1.15em;
+}
+
+/* Los derechos ya van en la página de créditos. */
+section.titlepage .rights {
+  display: none;
+}
+
+/* Página de créditos: encabezado oculto, texto pequeño al pie. */
+h1.credits {
+  display: none;
+}
+
+section.credits {
+  margin-top: 55%;
+  font-size: 0.8em;
+  text-align: left;
+}
+
+section.credits p {
+  text-indent: 0;
+  margin-bottom: 0.8em;
+}
+
+/* Índice */
+nav#toc h1 {
+  page-break-before: avoid;
+  break-before: avoid;
 }
 
 nav#toc ol {
@@ -95,14 +186,25 @@ nav#toc a {
 }
 
 nav#toc > ol > li {
-  margin: 1em 0;
-  font-weight: bold;
+  margin: 1.2em 0 0.4em;
+}
+
+nav#toc > ol > li > a .part-number {
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+}
+
+nav#toc > ol > li > a .part-number::after {
+  content: ": ";
+}
+
+nav#toc > ol > li > a .part-name {
+  font-style: italic;
 }
 
 nav#toc > ol > li > ol {
   margin-top: 0.35em;
   padding-left: 1.2em;
-  font-weight: normal;
 }
 
 nav#toc li {

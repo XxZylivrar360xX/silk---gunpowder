@@ -34,21 +34,26 @@ La linea de checkpoint es una sugerencia breve al final, no un bloqueo: si el us
 
 ## Que Es Esto
 
-*Seda y Polvora* es una novela original de crimen y romance en un vault de Obsidian, no una aplicacion de software. Puede haber herramientas locales auxiliares bajo `tools/` (EPUB, auditoria editorial), preferentemente sin dependencias externas; el trabajo central sigue siendo Markdown, canon, continuidad y estructura narrativa.
+*Seda y Polvora* es una saga original de crimen y romance (Libro I: *Mascaras de Cristal*) en un vault de Obsidian, no una aplicacion de software. Puede haber herramientas locales auxiliares bajo `tools/` (EPUB, auditoria editorial), preferentemente sin dependencias externas; el trabajo central sigue siendo Markdown, canon, continuidad y estructura narrativa.
 
 No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion: nacionalidad y arquitectura de personalidad. Nombres, biografia, ciudad, familia, negocios y trama son originales. Si algo empieza a parecer copia de la fuente, hay que alejarlo.
 
 ## Reglas Intocables
 
-- **SUPERSESION VIGENTE (2026-09-07, actualizada 2026-09-22):** `00_Biblia/00_Trilogy_Structure.md` manda sobre cualquier diseno anterior en alcance, fronteras entre libros, ubicacion de Riley, H1, H22, cierre de la Guerra de los Tres y apertura de Meridian/Il Consorzio. *Seda y Polvora* ya NO es una novela de cinco partes ni una trilogia estricta: es el Libro I de una saga de cuatro libros de arco principal (*Seda y Polvora*, *Sombras de Poder* [nuevo], *Voto de Ceniza*, *Cuentas de Sangre*), mas la duologia post-saga-principal (*Juramento de Hierro*, *Camino a Casa*, ahora Libro V y VI). *Seda y Polvora* termina en el Cap. 44 ("Ciao, bella"), no en H1; H1, el embarazo, el incendio, Riley/Mei-Lin y la llegada de Halbrook pertenecen ahora a *Sombras de Poder* (Libro II). Leer ese archivo antes de planear cualquier capitulo que toque escala de libro.
+- **SUPERSESION VIGENTE (2026-09-07, actualizada 2026-09-22 y 2026-10-03):** `00_Biblia/00_Trilogy_Structure.md` manda sobre cualquier diseno anterior en alcance, fronteras entre libros, ubicacion de Bonnie, H1, H22, cierre de la Guerra de los Tres y apertura de Meridian/Il Consorzio. **Desde 2026-09-27 *Seda y Polvora* es el nombre de la saga**; el Libro I se llama *Mascaras de Cristal*. La saga tiene cuatro libros de arco principal (*Mascaras de Cristal*, *Sombras de Poder* [nuevo], *Voto de Ceniza*, *Cuentas de Sangre*), mas la trilogia de Elenna (*Juramento de Hierro*, *Hijos del Silencio* [nuevo], *Camino a Casa*: Libros V-VII; siete libros, definitivo). *Mascaras de Cristal* termina en el Cap. 44 ("Ciao, bella"), no en H1; H1, el embarazo, el incendio, Bonnie/Mei-Lin y la llegada de Halbrook pertenecen ahora a *Sombras de Poder* (Libro II). Leer ese archivo antes de planear cualquier capitulo que toque escala de libro.
 - **CANON DEL AUTOR:** no reinterpretar, no sustituir, no "mejorar" lineas de dialogo canon.
 - **DISENO:** inferencia del agente; se puede discutir.
 - **PENDIENTE:** falta decision del autor; no rellenar por conveniencia.
+- **SELLADO:** libro completo, terminado y listo para lectura de terceros. Solo el autor lo declara. Su texto queda congelado: ningun agente lo edita sin orden explicita del autor; si una decision posterior lo contradice, se reporta, no se propaga. Hoy ningun libro esta SELLADO.
 - Kal y Chiara no se separan, pero el lector debe creer que pueden romperse.
 - La relacion es maquinaria del ascenso, no subtrama.
 - El toma territorio; ella toma relato.
 - La violencia debe cambiar una relacion o estructura; si no, sobra.
 - La ciudad se escribe como lugar concreto, no decorado generico.
+
+## Roles De Agentes
+
+Claude Code es el maintainer principal del repositorio. Codex apoya con mantenimiento acotado por encargo. ChatGPT es incubadora de ideas y solo escribe en `98_Agent_Handoff/` (buzon `ChatGPT/`): revisarlo al arrancar. Contrato en `98_Agent_Handoff/AGENT_ROLES.md`.
 
 ## Rutas Clave
 
@@ -57,14 +62,15 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 - `00_Biblia/00_Trilogy_Structure.md`: **arquitectura macro de la trilogia — manda sobre 01_Timeline y Hitos en cualquier conflicto de escala o frontera entre libros.**
 - `00_Biblia/`: vision, temas, principios y reglas del mundo.
 - `01_Timeline/00_README.md`: protocolo de la linea temporal macro y separación respecto de los `Book_Map`.
-- `01_Timeline/01_Indice_Cronologico.md`: continuidad de los cinco libros.
-- `01_Timeline/02_Libro_01_Seda_y_Polvora.md` a `06_Libro_05_Camino_A_Casa.md`: acontecimientos principales por libro, sólo enunciados.
+- `01_Timeline/01_Indice_Cronologico.md`: continuidad de los siete libros.
+- `01_Timeline/02_Libro_01_Mascaras_De_Cristal.md` a `08_Libro_07_Camino_A_Casa.md`: acontecimientos principales por libro, sólo enunciados.
 - `06_Relationships/Kal_y_Chiara.md`: arquitectura de la relacion.
 - `06_Relationships/Hitos.md`: hitos obligatorios del autor. **H1 se movio a Sombras de Poder (Libro II); H22 esta en Voto de Ceniza (ahora Libro III); revisar ubicaciones antes de citar.**
 - `06_Relationships/Momentos_de_Fractura.md`: conflictos que casi lo rompen todo.
+- `97_Supersedido/`: ideas y planes retirados (no canon). Al retirar un plan, moverlo ahí y dejar una línea en la ficha. Protocolo en su README.
 - `99_Reference/`: referencia externa no canon; no copiar.
 - `tools/editorial/README.md`: auditoria editorial determinista en modo `audit_only`.
-- `13_Auditorias/`: dictamenes editoriales de lectura humana (del autor), organizados por libro (`Book_01_Seda_y_Polvora/`, etc.); complementan, no sustituyen, la auditoria deterministica de `tools/editorial/`.
+- `13_Auditorias/`: dictamenes editoriales de lectura humana (del autor), organizados por libro (`Book_01_Mascaras_De_Cristal/`, etc.); complementan, no sustituyen, la auditoria deterministica de `tools/editorial/`.
 
 ## Escritura Y Edicion
 
@@ -76,14 +82,12 @@ No es adaptacion. Giulia Rossetti y Kyle Rass fueron solo semilla de inspiracion
 - No hacer commit ni push salvo que el usuario lo pida.
 - Para auditoria, microedicion o verificacion editorial de prosa, usar la skill `editorial-surgery` y las politicas bajo `12_Craft_Policies/editorial/`.
 
-## Regeneracion De EPUB
-
-**El EPUB no se regenera gratis.** Incidente 2026-09-09: una sesion de Claude Desktop lo regenero tras casi cada micro-cambio y ayudo a quemar el cupo de tokens de 5 horas del autor en minutos. Regla dura desde entonces:
+## Regeneracion De EPUB y PDF
 
 - Regenerar el EPUB solo cuando el autor lo pida explicitamente, **o** al cerrar un bloque de capitulos que el autor ya confirmo (no borradores).
-- Nunca regenerar por un ajuste de linea, una correccion de continuidad menor o un capitulo todavia marcado BORRADOR / sin revision del autor.
-- Si se acumulan varios cambios chicos, esperar y regenerar una sola vez al final del bloque, no despues de cada uno.
-- Al dejar pendiente una regeneracion, decirlo explicitamente en `CURRENT_BRIEF.md` / `PENDING.md` en vez de ejecutarla por iniciativa propia.
+- No regenerar el EPUB por un ajuste de linea, una correccion de continuidad menor o un capitulo todavia marcado BORRADOR / sin revision del autor. Si se acumulan cambios chicos, esperar al final del bloque.
+- El PDF de lectura puede regenerarse cuando el autor lo pida o cuando haga falta actualizar la copia de lectura tras cambios en las fuentes.
+- La regeneracion rutinaria de EPUB o PDF no necesita registro individual en `CLAUDE.md`, `AGENTS.md`, `log.md`, `CURRENT_BRIEF.md` o `PENDING.md`, ni una nota de sesion. Registrar solo cambios de proceso, decisiones o hitos editoriales que aporten contexto duradero.
 
 ## Lectura Bajo Demanda
 

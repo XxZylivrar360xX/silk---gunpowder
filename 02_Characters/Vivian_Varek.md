@@ -28,10 +28,16 @@ Vivian heredó el fuego de Dario y representa la consecuencia viva de su lógica
 
 ## Destino post-trilogía — incubadora Libro 4/5 (2026-09-16, CANON DEL AUTOR)
 
-> **No afecta su presencia viva y activa durante *Seda y Pólvora*, *Voto de Ceniza* ni *Cuentas de Sangre*.** Este destino pertenece a la saga post-trilogía (*Juramento de Hierro* / *Camino a Casa*), todavía en incubadora — ver [[07_Ideas/Libro_04_Incubadora/README]].
+> **No afecta su presencia viva y activa durante *Máscaras de Cristal*, *Voto de Ceniza* ni *Cuentas de Sangre*.** Este destino pertenece a la saga post-trilogía (*Juramento de Hierro* / *Camino a Casa*), todavía en incubadora — ver [[07_Ideas/Libro_04_Incubadora/README]].
 
 Tras el homicidio de Vera Kessler ([[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]]), Dario le encarga a Vivian la crianza del niño responsable —**Dylan Marsh**, más adelante **Ethan Cole**— como limpieza de un cabo suelto de la organización, no como gesto de generosidad de Vivian. Ella no elige hacerse cargo al principio, pero con los años desarrolla un apego real por él.
 
 Cuando Ethan cumple **15 años**, la envenena con una mezcla de narcóticos y adrenalina calculada para simular una sobredosis — cobertura perfecta dada su identidad pública de influencer/figura de fiesta. Nadie la investiga como algo distinto de una tragedia esperable. Es el primer homicidio de Ethan: pragmático, no ritual, muy anterior al patrón que desarrollará de adulto contra policías.
 
 Ver también [[02_Characters/Dario_Varek]], [[02_Characters/Lucia_Varek]], [[02_Characters/Beatrice_Varek]] y [[03_Factions/Fuerza_de_Tarea_Meridian]].
+
+## Lote 3 (2026-10-03)
+
+> **CANON DEL AUTOR:** el niño llega a la mansión la madrugada del [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/29_El_Patio_Ajeno|Cap. 29]], y Varek lo mantiene oculto durante la reunión con Kal. **Lo que Vivian dice en el patio es código sobre el niño.** Reescritura del pasaje: PENDIENTE (hoy habla del puerto y de "la pelirroja", y el narrador la describe como alguien que "no sabía que tuviera nada que ocultar", lo que habrá que ajustar).
+>
+> **Consecuencia de cronología:** Vivian cría a Dylan durante los Libros II–IV (de los ~5 a los 15 años de él). Hay que decidir cuánto de eso se ve o se siembra en esos libros. PENDIENTE.

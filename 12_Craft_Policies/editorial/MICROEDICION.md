@@ -67,6 +67,8 @@ Categorías mínimas. No todas son categorías de corte: algunas existen para no
 - **INTENSIFICADOR** — refuerzo que no agrega una medida, un riesgo o una segunda lectura.
 - **PRESAGIO GARANTIZADO** — una intuición se resuelve con certeza que el personaje no podía tener.
 - **CONOCIMIENTO CORPORAL INJUSTIFICADO** — una reacción física se convierte en diagnóstico o dato objetivo.
+- **PROLEPSIS DE NARRADOR** — el narrador anuncia o confirma algo posterior al presente de la escena. Se corta (ver [[12_Craft_Policies/editorial/EDITORIAL_POLICY|EDITORIAL_POLICY]] sección L).
+- **SALTO DE POV** — dentro de una sección focalizada, la prosa entra en la cabeza de otro personaje. Se convierte en algo observable por el POV, o se abre sección nueva con `***`.
 
 **Categorías de protección (no se cortan por defecto):**
 

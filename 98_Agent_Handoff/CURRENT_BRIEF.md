@@ -1,43 +1,43 @@
 # Current Brief
 
-Actualizado: 2026-09-22. Estado vigente; máximo 800 palabras. Sustituir información superada, no acumular sesiones.
+Actualizado: 2026-10-03. Estado vigente; máximo 800 palabras. Sustituir información superada, no acumular sesiones. Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-10-03_CURRENT_BRIEF]].
 
 ## Foco y siguiente paso
 
-> **SUPERSESIÓN (2026-09-22):** se insertó *Sombras de Poder* como Libro II, entre *Seda y
-> Pólvora* y *Voto de Ceniza* (ahora Libro III) — ver [[00_Biblia/00_Trilogy_Structure]].
-> Revierte la reconciliación del 2026-09-20/21 que fusionaba las antiguas Partes IV-VI dentro
-> del Libro I. **Con el Cap. 44 ya escrito, el Libro I queda completo y cerrado (Caps. 1-44).
-> El Cap. 45 ya no abre "la Parte IV": abre el Libro II — Sombras de Poder**, Parte I — Nieve
-> y Ceniza. No se tocó prosa ni el diseño capítulo a capítulo de 44-45; sólo el libro al que
-> pertenecen.
+1. **Lectura del autor del arco final del Libro I (Caps. 44–50b), puerta 2** de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]] (E0–E5 hechas, Q1–Q25 aplicadas y aprobadas). Después, microedición E6–E8. Los ocho capítulos siguen BORRADOR.
+2. **Cascada pendiente** cuando el autor cierre esa lectura: Book Maps I y II, `01_Timeline`, Nota Editorial y supersesiones #19/#25 de [[00_Biblia/00_Trilogy_Structure]], que aún dicen que el Libro I cierra en el 44.
+3. Lista operativa en [[98_Agent_Handoff/PENDING]].
 
-Libro I: **completo en prosa (Caps. 1–44), Parte III — Ardizzone cerrada con el Cap. 44**, toda BORRADOR, pendiente de revisión del autor. Siguiente bloque de prosa: Cap. 45, apertura del **Libro II — Sombras de Poder** (respuesta de Chiara al "Ciao, bella", reconciliación completa, Tommaso al cierre), conforme a [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]; se redactará en `11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/`. Título del 45 sigue PENDIENTE. Consultar [[98_Agent_Handoff/PENDING]] antes de continuar.
+## Saga (CANON DEL AUTOR)
 
-## Estado del manuscrito
+- *Seda y Pólvora* es la saga; siete libros: I *Máscaras de Cristal* · II *Sombras de Poder* · III *Voto de Ceniza* · IV *Cuentas de Sangre* · V *Juramento de Hierro* · VI *Hijos del Silencio* · VII *Camino a Casa* (V–VII: trilogía de Elenna). Fronteras en [[00_Biblia/00_Trilogy_Structure]].
+- **Trilogía de Elenna:** integración PROYECTO RECLUTA cerrada (lotes 1–4, 2026-10-03). Claves: Blake mató a los Marsh (noche en el Libro I; en el Cap. 29 Varek esconde al niño, reescritura PENDIENTE); el VI cierra con Elenna herida en un asalto bancario ajeno a la trama; hangar 4–5 capítulos después de abrir el VII. Detalle: [[98_Agent_Handoff/sessions/2026-10-03_claude_trilogia_elenna_lote1|lote 1]] · [[98_Agent_Handoff/sessions/2026-10-03_claude_trilogia_elenna_lote2|2]] · [[98_Agent_Handoff/sessions/2026-10-03_claude_trilogia_elenna_lote3|3]] · [[98_Agent_Handoff/sessions/2026-10-03_claude_trilogia_elenna_lote4|4]].
+- **Cierre del Libro II (2026-10-02):** reveal del embarazo la noche de H1, en la chimenea de Villa Candelaria; Elenna concebida en Stavanger (canonizado); anillo = robo de joyería. [[98_Agent_Handoff/sessions/2026-10-02_claude_cap50b_cierre_libro_ii_stavanger]].
+- **Halbrook reconstruido (2026-09-28):** lo mata Harper en su discurso de victoria; cierra *Voto de Ceniza*. [[02_Characters/Warren_Halbrook]] · [[98_Agent_Handoff/sessions/2026-09-28_claude_reconstruccion_halbrook]].
+- **Incubadora sin propagar:** [[07_Ideas/Corrado_Manfred_Gabe]] (Corrado como Manfred Gabe; llamada del Cap. 9; atacante contratado por Volpi). Faltan pendientes antes de tocar fichas canon.
 
-- Parte II (Caps. 27–34) y Parte III (Caps. 35–44) completas en prosa; todo BORRADOR, no confundir escrito con aprobado. Caps. 35–38 y 36–38 con títulos aún provisionales; 39–44 con títulos definitivos del autor.
-- Último EPUB: 2026-09-20, 38 capítulos. No incorpora los Caps. 39–44 ni los parches posteriores. Regenerar sólo por petición expresa o al cerrar un bloque confirmado por el autor.
-- Caps. 39–40 (Kal, regreso/Palermo) y 41 (Chiara, la otra mitad/Riley), H17 completo: detalle en sesiones [[98_Agent_Handoff/sessions/2026-09-21_codex_cirugia_cap_39|cap_39]], [[98_Agent_Handoff/sessions/2026-09-21_codex_cirugia_cap_40|cap_40]], [[98_Agent_Handoff/sessions/2026-09-22_sonnet_cap_41|cap_41]].
-- Cap. 42: [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/42_Nada|Nada]], BORRADOR, POV Chiara. Riley localiza la camioneta y avisa a Kal y Chiara; F1 esa noche en el penthouse con la línea canon del peldaño 2 ("Por mucho que yo esté enamorado de ti, soy fiel a mis convicciones, a mi gente y a mí mismo."), sin resolución.
-- Cap. 43: [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/43_La_Puerta|La puerta]], BORRADOR. POV Kal. Sube a la puerta del penthouse y no entra; Camp Alder de noche sin granularidad táctica; Héctor jala a Nadir al helicóptero, Kal se queda cubriendo; detención municipal → reclamo federal → Camp Alder mismo. H19 ejecutado. Registro: [[98_Agent_Handoff/sessions/2026-09-22_sonnet_cap_43]].
-- Cap. 44: [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/44_A_Oscuras|A oscuras]], BORRADOR, **cierra la Parte III**. POV único Chiara, D5→D6 sin D7. Héctor avisa que Kal no salió; abogados/dinero/contactos fallan hasta la reclamación federal; llega a Lucía por memoria (línea directa del Cap. 32, no por expediente firmado) sólo al final — confirma Camp Alder, no interviene ("Ya no lo tiene la ciudad"). Puerta del 43 confirmada por la recepción; apagón; monólogo con Dios (orden canon exacto, sin vela); penthouse deja de ser casa, Chiara al loft (hogar ya compartido); Beretta .25 ante una presencia junto a la isla; vuelve la luz, Kal vivo, sin explicar cómo salió. Cierra en "—Ciao, bella." Corregido quirúrgicamente (retirada firma de Lucía, fuga de POV, glosas de narrador). Registro: [[98_Agent_Handoff/sessions/2026-09-22_sonnet_cap_44]].
+## Estado del manuscrito (Libro I)
+
+- **Caps. 1–50b completos en prosa.** Parte I (1–25, con 24b), Parte II (26–34), Parte III (35–50); el 50b *La tierra bajo sus botas* cierra el libro (sin la palabra "epílogo"). "—Ciao, bella." es la última línea del 50, no del libro. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
+- Estados por capítulo: metadata de cada archivo y [[12_Craft_Policies/CHAPTER_STATUS]]. Escrito no es aprobado.
+- **Auditorías editoriales:** Parte I auditada entera (2026-09-26/27); Parte II ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]]) y Parte III ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]]) cerradas 2026-09-27; arco final en curso (arriba). Qué leer en cada una: su § 9.
+- **Reescrituras recientes en BORRADOR/DISEÑO, esperan lectura:** Cap. 3 reabierto ([[98_Agent_Handoff/sessions/2026-09-29_claude_reapertura_cap_03|sesión]]); reunión privada y cena del 5; migajas del 6 y del 8 ("Mandorla" es canon); Cap. 7 (Dario contrata a Nadir, canon); Cap. 22/25 (Marisol quince años reservado al 25); Cap. 25 noche sin retorno (canon); Cap. 28 reconstruido + 24b *Lo que cueste* ([[98_Agent_Handoff/sessions/2026-10-01_reconstruccion_cap28_macroarco_corral_trato|sesión]]). Progresión "contarse el día": [[06_Relationships/Kal_y_Chiara]].
+- **Exportación:** EPUB y PDF regenerados 2026-10-03 con 44–50b en BORRADOR. Portada aprobada (1024×1536; falta alta resolución para KDP). Ver `tools/epub-build/README.md` y [[tools/pdf-build/README]].
 
 ## Fuentes que mandan
 
-- Para Caps. 39–45 manda [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]], incluidas sus supersesiones. La Mesa del 40 y las líneas pendientes del 44/45 ya fueron aprobadas; no volver a pedir esas decisiones. Ese plan ahora incluye la frontera de libro: 44 cierra Libro I, 45 abre Libro II.
-- Para orden macro del Libro I: [[01_Timeline/02_Libro_01_Seda_y_Polvora]]. Termina en el Cap. 44 ("Ciao, bella"). El incendio, F4/F3/F2, Villa/Stavanger y el embarazo/H1/reveal ya no viven aquí: pasaron a [[01_Timeline/03_Libro_02_Sombras_De_Poder]] (Libro II).
-- Para fronteras de la saga: [[00_Biblia/00_Trilogy_Structure]]. *Sombras de Poder* es Libro II (H1, incendio, Riley/Mei-Lin, Villa, Stavanger, embarazo, coda Halbrook). H22 pertenece a *Voto de Ceniza*, ahora Libro III; ejecución pública de Halbrook abre *Cuentas de Sangre*, ahora Libro IV. Los Libros V/VI (antes IV/V) tienen incubadora y mapas propios.
-- Estados editoriales: metadata de cada capítulo y [[12_Craft_Policies/CHAPTER_STATUS]]. No usar numeraciones antiguas de bitácora para localizar prosa.
+- Fronteras de libro y saga: [[00_Biblia/00_Trilogy_Structure]] (salvo el cierre en el 44, ya superado por el plan del arco final).
+- Caps. 44–50b: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]; Caps. 35–43: [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
+- Orden macro: [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]] y [[01_Timeline/03_Libro_02_Sombras_De_Poder]] (aún sin la cascada del arco final).
 
 ## Restricciones vigentes
 
-CANON DEL AUTOR intocable; DISEÑO y PENDIENTE deben conservar su categoría. Kal y Chiara no se separan. No inventar mecanismos abiertos ni adelantar revelaciones.
-
-La liberación de Kal ya tiene mecanismo canonizado en el plan: Halbrook/apagón/expediente; su revelación se reserva para *Voto de Ceniza* (Libro III). Kal sólo sabe luces, bolsa de tela y loft. No tratar la antigua reserva general de Palermo o liberación como si siguiera sin decisiones.
-
-*Sombras de Poder* (Libro II) conserva bloqueo general de prosa salvo el Cap. 45 ya planeado (sin redactar); H22, en *Voto de Ceniza* (Libro III), mantiene su bloqueo propio. Las escenas dictadas por el autor no autorizan continuar por iniciativa del agente.
+- CANON DEL AUTOR intocable; DISEÑO y PENDIENTE conservan su categoría. Ningún libro está SELLADO.
+- Liberación de Kal: mecanismo canonizado (Halbrook/apagón/expediente); su revelación se reserva para *Voto de Ceniza*. Kal sólo sabe luces, bolsa de tela y loft.
+- *Sombras de Poder*: bloqueo general de prosa; su apertura espera el cierre del Libro I. H22 mantiene bloqueo propio. Escenas dictadas por el autor no autorizan continuar por iniciativa del agente.
+- Ortotipografía (2026-09-27): pregunta de tono plano sin signos y con punto ("Qué viste."); nunca "¿" suelto.
+- Penalista de Chiara: Krane (no Rivers), desde el Cap. 44.
 
 ## Relevo y archivo
 
-Mantenimiento del 2026-09-21: historial íntegro separado; Markdown sigue siendo la fuente. Sin base de datos por ahora. [[98_Agent_Handoff/START_HERE]] fija límites y protocolo; [[log]] es índice. Antecedentes: [[98_Agent_Handoff/archive/README]]. Decisiones de fondo: [[98_Agent_Handoff/BACKLOG]]. La compactación no aprueba borradores ni cambia canon.
+[[98_Agent_Handoff/START_HERE]] fija límites y protocolo; [[log]] es índice; decisiones de fondo en [[98_Agent_Handoff/BACKLOG]]; antecedentes en [[98_Agent_Handoff/archive/README]]. La compactación no aprueba borradores ni cambia canon.

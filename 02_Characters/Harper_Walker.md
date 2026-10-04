@@ -38,10 +38,11 @@ La instruye, le enseña trucos para conducir, leer terreno, perder patrullas, en
 Lo que opera hoy:
 
 - Trabaja con ganado en el norte rural de San Aurelio.
-- Entra primero en escena como chica seria que atiende la barra de comida rápida en una cafetería del norte; no intenta caer bien, lee clientes como si fueran motores con ruido raro y dice de Keene que matarlo en la plaza fue "decirle a todo el mundo dónde puede sentarse".
+- **CANON DEL AUTOR (2026-09-29, posterior):** Harper trabaja en la barra de [[05_Locations/La_Esquina_de_Mabel]]. Primera aparición en prosa: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/04_Tarifa_Nocturna|Cap. 4]], vista por Chiara (Mabel la nombra; ella apenas le hace el espresso "menos largo"). En el Cap. 19 no la despiden: sigue con Mabel en las mañanas y busca un segundo empleo porque la renta ya no le alcanza (vida de alguien sola en California). Kal le ofrece más paga que ambos empleos y el cuarto que venía con la parcela, sin renta. Sustituye la "cafetería del norte" y la "nueva imagen" de abajo.
+- **SUPERSEDIDO (2026-09-29, autor):** la escena de la cafetería del Cap. 3 se retiró en la reapertura; la primera aparición de Harper en prosa es ahora el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/19_Tierra_Buena|Cap. 19]], donde ya entra como "la chica seria de la cafetería del norte" (Kal la conoce de antes, fuera de página). La línea sobre Keene se pierde. **PENDIENTE (autor, 2026-09-29):** buscar un mejor momento posterior para su presentación. Texto previo, como registro: Entra primero en escena como chica seria que atiende la barra de comida rápida en una cafetería del norte; no intenta caer bien, lee clientes como si fueran motores con ruido raro y dice de Keene que matarlo en la plaza fue "decirle a todo el mundo dónde puede sentarse".
 - Entra al radio de Kal cuando él compra, usa o absorbe esa propiedad.
 
-**RESUELTO (2026-09-07), escrito en [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/19_Tierra_Buena|Capítulo 19, "Tierra buena"]]:** Kal compra doce hectáreas al norte para montar una parcela de vegetales — diversificación de negocio y suministro directo para [[05_Locations/Il_Gelsomino|Il Gelsomino]]. El mismo día, Harper acaba de perder su trabajo en la cafetería del norte (la encargada decide que "ya no encaja con la nueva imagen") y va a pedir trabajo al restaurante — Kal llega justo cuando Claudio se lo niega. En vez de darle trabajo ahí, la lleva a la parcela y le ofrece hacerse cargo del negocio entero como proveedora de víveres y materia prima, no como empleada de nadie. Kal ya la conocía de vista, de los últimos meses observándola trabajar detrás del mostrador antes de esto.
+**RESUELTO (2026-09-07), escrito en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/19_Tierra_Buena|Capítulo 19, "Tierra buena"]]:** Kal compra doce hectáreas al norte para montar una parcela de vegetales — diversificación de negocio y suministro directo para [[05_Locations/Il_Gelsomino|Il Gelsomino]]. El mismo día, Harper acaba de perder su trabajo en la cafetería del norte (la encargada decide que "ya no encaja con la nueva imagen") y va a pedir trabajo al restaurante — Kal llega justo cuando Claudio se lo niega. En vez de darle trabajo ahí, la lleva a la parcela y le ofrece hacerse cargo del negocio entero como proveedora de víveres y materia prima, no como empleada de nadie. Kal ya la conocía de vista, de los últimos meses observándola trabajar detrás del mostrador antes de esto.
 - Kal detecta que sabe moverse en terreno difícil y empieza a enseñarle conducción práctica.
 - Se vuelve una protegida operativa: alguien a quien Kal forma con sus propios trucos.
 
@@ -75,6 +76,12 @@ Su método debe ser concreto: **conoce terreno, animales, caminos secundarios y 
 - [[03_Factions/Almendra_Towing]] — termina dentro del núcleo operativo.
 - [[03_Factions/Alamo_Salvage]] — infraestructura sucia del norte; posible zona donde Harper sabe más que Kal antes de que él vea el valor.
 - [[03_Factions/Los_Marcadores_de_Milla]] — carreras y rutas rurales que tocan su terreno.
+
+---
+
+## Halbrook — CANON DEL AUTOR (2026-09-28), revelación reservada
+
+**Harper Walker es quien dispara contra [[02_Characters/Warren_Halbrook]] durante su discurso de victoria, al cierre de *Voto de Ceniza*.** Kal y Nadir la cubren durante *Cuentas de Sangre* y dejan que la ciudad crea que fue uno de ellos. La verdad se reserva para el final del Libro IV (Nadir se lo cuenta a Chiara). Halbrook, que mató a Héctor en la montaña donde ella sobrevivió, nunca la clasificó como algo más que una pieza de Kal. **No sembrar nada de esto en *Máscaras de Cristal*.** Motivo interno exacto y quién sabía antes: PENDIENTE.
 
 ---
 

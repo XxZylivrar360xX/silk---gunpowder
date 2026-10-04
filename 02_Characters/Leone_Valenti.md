@@ -7,6 +7,7 @@
 **Rol:** **la cara de [[03_Factions/Il_Consorzio]]** en San Aurelio. Antagonista de [[02_Characters/Chiara_Bellandi]].
 **Alias:** *Il Consigliere*.
 **Nacionalidad:** italiano. Nacido en el **norte o centro de Italia** — deliberadamente lejos de Sicilia.
+**Origen familiar:** **Génova**: su padre fue contador de una naviera en el puerto (Cap. 49; aprobado por el autor 2026-10-03, auditoría del arco final, Q7). La estatura sigue sin fijar: se retiró del 49 "más bajo de lo que lo recordaba".
 **Edad al abrir la novela:** entre 55 y 60.
 **Estado:** vivo.
 
@@ -91,7 +92,7 @@ Es lo único que dijo cuando escuchó el reporte de la muerte de Alessio Lusardi
 
 ## Primera aparición en prosa — 2026-09-12
 
-**[[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/02_Demasiado_Listo|Cap. 2]]**, en un recuerdo de Chiara: la visita a su despacho en un casino de Nueva York, semanas antes de que ella viaje a San Aurelio, para comunicarle que Il Consorzio decidió darle un lugar a la familia Ardizzone allí y que su tarea será "dirigir y observar". Escena escrita respetando lo ya fijado: habla de otra cosa (un cuarteto, un edificio) antes de llegar al asunto; nunca dice "yo decidí", siempre "Il Consorzio ha decidido"; no nombra al socio que pidió el favor ni explica el precio exacto; la llama **signora Ardizzone**, no Bellandi. **No se inventó apariencia física ni manía** — ambas siguen `PENDIENTE` (ver abajo); la escena no lo describe físicamente.
+**[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo|Cap. 2]]**, en un recuerdo de Chiara: la visita a su despacho en un casino de Nueva York, semanas antes de que ella viaje a San Aurelio, para comunicarle que Il Consorzio decidió darle un lugar a la familia Ardizzone allí y que su tarea será "dirigir y observar". Escena escrita respetando lo ya fijado: habla de otra cosa (un cuarteto, un edificio) antes de llegar al asunto; nunca dice "yo decidí", siempre "Il Consorzio ha decidido"; no nombra al socio que pidió el favor ni explica el precio exacto; la llama **signora Ardizzone**, no Bellandi (confirmado por el autor 2026-09-26). El despacho es de **uno de los casinos de Il Consorzio que Chiara administraba en Nueva York** (canon del autor, 2026-09-26). **No se inventó apariencia física ni manía** — ambas siguen `PENDIENTE` (ver abajo); la escena no lo describe físicamente.
 
 ## Pendientes
 

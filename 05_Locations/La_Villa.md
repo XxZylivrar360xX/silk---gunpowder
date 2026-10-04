@@ -2,7 +2,7 @@
 
 ## Posición y función vigentes — CANON DEL AUTOR 2026-09-20
 
-Villa Candelaria se adquiere / funda / convierte en hogar en **Parte V — Exilio, después del incendio que cierra IV y después del mismo día de ejecución de Mei-Lin y destierro de Riley**. **SUPERSEDIDA** la transición inmediata incendio → Villa y cualquier Villa ya construida antes de F2. El plan previo de Kal no equivale a haberla adquirido o levantado.
+Villa Candelaria se adquiere / funda / convierte en hogar en **Parte V — Exilio, después del incendio que cierra IV y después del mismo día de ejecución de Mei-Lin y destierro de Bonnie**. **SUPERSEDIDA** la transición inmediata incendio → Villa y cualquier Villa ya construida antes de F2. El plan previo de Kal no equivale a haberla adquirido o levantado.
 
 El loft fue hogar descubierto; Villa es hogar reconstruido deliberadamente. Kal hace posible el lugar y Chiara lo convierte junto con él en casa. Privacidad, seguridad, organización mayor y vida adulta con futuro, sin reducirla a fortaleza ni riqueza. Las lecturas de clase conservadas abajo no sustituyen esta función. Stavanger/anillo siguen después, en Parte V; H1 recibe la casa en VI. **PENDIENTE:** adquisición, obra y grado de consolidación doméstica al salir de Exilio; posición después de F2 ya cerrada.
 
@@ -102,7 +102,9 @@ H1 ocurre aquí durante Parte VI del Libro I, después de que la villa ya existe
 
 El reveal no ocurre durante H1. Llega después, cuando Kal está fuera de peligro, duerme, comienza a recuperarse y regresa cierta normalidad. Desde ese momento, la villa debe adquirir suficientes huellas de expectativa familiar para que el lector imagine la vida que ambos creen posible, sin convertir la casa en catálogo de habitación infantil ni fijar detalles médicos o decorativos pendientes.
 
-Durante Voto de Ceniza (Libro II), cuando Elenna vive en Italia como Elenna Serra, Riley envía muy pocas fotografías. Kal y Chiara las ven y después las queman en **la chimenea de Villa Candelaria** para no dejar evidencia que pueda conducir hasta ella. La chimenea queda fijada como parte de la casa; número de fotografías y escenas exactas pendientes.
+Durante Voto de Ceniza (Libro II), cuando Elenna vive en Italia como Elenna Serra, Bonnie envía muy pocas fotografías. Kal y Chiara las ven y después las queman en **la chimenea de Villa Candelaria** para no dejar evidencia que pueda conducir hasta ella. La chimenea queda fijada como parte de la casa; número de fotografías y escenas exactas pendientes.
+
+**Fotografías de Corrado — CANON DEL AUTOR (2026-09-28):** en Villa Candelaria hay **dos** fotografías de Corrado que Chiara conserva: (1) **Corrado y Marta bailando en el salón**, la que sale en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo|Cap. 2]] ("desenfocados por el movimiento"); (2) **Corrado y Chiara niña de espaldas en la playa, ella sobre sus hombros**. Además, (3) **un retrato familiar al óleo**, a la manera de las familias italianas de linaje: Corrado de pie detrás de la silla, Marta sentada, Chiara niña en el regazo de su madre. **Reconocimiento (CANON DEL AUTOR 2026-09-28, opción c):** Kal reconoce a Corrado por la suma de las tres: el retrato le da la cara; el baile, el gesto; la playa, el cuerpo. La foto de la playa nunca se describe como la espalda de un hombre ancho y recto (no sembrar la silueta). **Procedencia (CANON DEL AUTOR 2026-09-28):** tras la redada, el retrato lo conserva [[02_Characters/Ettore]]; cuando se construye Villa Candelaria, Chiara lo manda traer de Italia. Son retratos de un padre que ella cree muerto, no pistas: no subrayarlas ni hacerlas ambiguas. Pagan al cierre de *Voto de Ceniza*, cuando Kal reconoce por ellas a Corrado en el hospital. Ver [[02_Characters/Corrado_Ardizzone]].
 
 La villa sostiene así dos conocimientos desiguales: en H1, Kal no sabe que su hija lo espera; durante la separación, San Aurelio no sabe que la hija que creen muerta sigue viva.
 

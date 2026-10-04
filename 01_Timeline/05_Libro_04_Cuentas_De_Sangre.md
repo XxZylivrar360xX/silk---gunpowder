@@ -6,7 +6,7 @@
 
 ## Acontecimientos
 
-- Kal ejecuta públicamente a Warren Halbrook y convierte la crisis local en conflicto federal.
+- El libro abre con Halbrook ya muerto (ejecutado al cierre de *Voto de Ceniza*), Chiara en coma y Corrado frente a Kal. La crisis local se vuelve conflicto federal. La ciudad cree que el tirador fue Kal o Nadir; ellos lo permiten. *(Supersede "Kal ejecuta" y la apertura con la ejecución, canon del autor 2026-09-28.)*
 - Meridian entra o escala como respuesta al asesinato público de Halbrook.
 - Kal y Chiara enfrentan el vacío de poder dejado por Dario y la presión de Il Consorzio.
 - La pareja construye reemplazos para que la ciudad no dependa de su presencia constante.
@@ -15,6 +15,7 @@
 - Kal y Chiara abandonan San Aurelio juntos.
 - La familia se reúne en Palermo y Elenna vuelve a vivir con ellos como hija, no como heredera.
 - El epílogo muestra a Elenna adulta en la historia de las Tres Hermanas.
+- Al final del libro, Nadir le cuenta a Chiara la verdad: Harper Walker disparó contra Halbrook; Kal y Nadir la cubrieron. Ver [[02_Characters/Warren_Halbrook]].
 
 ## Cierre
 

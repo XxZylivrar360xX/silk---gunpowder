@@ -4,11 +4,11 @@
 
 > **DERIVADO DE [[00_Biblia/00_Trilogy_Structure]] (2026-09-09, Claude Code).** Este mapa reconstruye el volumen a partir de la arquitectura de la saga fijada por el autor. Todo lo no citado explícitamente como CANON allí es DISEÑO discutible. **Estado: esqueleto — pendiente de validación del autor y de que la Guerra de los Tres se desglose con la matriz de [[04_Concepts/La_Guerra_de_los_Tres]].**
 >
-> **RENUMERADO (2026-09-22):** era Libro II; ahora es Libro III por la inserción de *Sombras de Poder* — ver [[00_Biblia/00_Trilogy_Structure]]. Su contenido no cambia; hereda su estado de entrada de *Sombras de Poder*, no directamente de *Seda y Pólvora*.
+> **RENUMERADO (2026-09-22):** era Libro II; ahora es Libro III por la inserción de *Sombras de Poder* — ver [[00_Biblia/00_Trilogy_Structure]]. Su contenido no cambia; hereda su estado de entrada de *Sombras de Poder*, no directamente de *Máscaras de Cristal*.
 >
 > **BLOQUEO DE PROSA:** no se redacta prosa de este libro hasta cerrar los Libros I y II. [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] sigue expresamente bloqueado.
 >
-> **INTEGRACIÓN (2026-09-11, Claude Code, encargo del autor).** Incorporada la arquitectura de apertura en flashforward, el arco completo del exilio de Elenna (nacimiento → falsa muerte → pista clandestina → Riley → primer año → H22) y la siembra de la arquitectura de salida hacia *Cuentas de Sangre*, a partir de [[98_Agent_Handoff/ChatGPT/Roadmap de Voto de Ceniza — Elenna, exilio y arquitectura de salida|el roadmap aportado por el autor]]. La guía de ambientación de ese mismo capítulo vive, no diegética, en [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna|Calibración musical — Revelación del exilio de Elenna]]. Ningún mecanismo médico, legal, documental u operativo fue inventado para cerrar huecos: sigue todo marcado PENDIENTE donde ya lo estaba.
+> **INTEGRACIÓN (2026-09-11, Claude Code, encargo del autor).** Incorporada la arquitectura de apertura en flashforward, el arco completo del exilio de Elenna (nacimiento → falsa muerte → pista clandestina → Bonnie → primer año → H22) y la siembra de la arquitectura de salida hacia *Cuentas de Sangre*, a partir de [[98_Agent_Handoff/archive/chatgpt/Roadmap de Voto de Ceniza — Elenna, exilio y arquitectura de salida|el roadmap aportado por el autor]]. La guía de ambientación de ese mismo capítulo vive, no diegética, en [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna|Calibración musical — Revelación del exilio de Elenna]]. Ningún mecanismo médico, legal, documental u operativo fue inventado para cerrar huecos: sigue todo marcado PENDIENTE donde ya lo estaba.
 
 ---
 
@@ -27,7 +27,7 @@ El "voto" no es el sacrificio de Elenna. Es el sacrificio de la vida cotidiana c
 - Kal y Chiara juntos; Chiara embarazada; Kal ya lo sabe.
 - El Patio atravesó su primer enfrentamiento abierto (H1).
 - Dario ya no trata el crecimiento de Kal como molestia menor.
-- **Mei y Riley están fuera del tablero.** Riley vive en Italia como Riley Colombo.
+- **Mei y Bonnie están fuera del tablero.** Bonnie vive en Italia como Roberta Ardizzone.
 - Halbrook está físicamente en San Aurelio.
 - Corrado sigue vivo en el canon de fondo; Chiara cree que lo perdió.
 - La mentira de H8 (fuga de gas) puede seguir sin romper — cartucho disponible.
@@ -37,10 +37,10 @@ El "voto" no es el sacrificio de Elenna. Es el sacrificio de la vida cotidiana c
 - Dario está preso (caída legal — falso clímax).
 - Héctor y Kenji están muertos.
 - Chiara ha sobrevivido a Santa Lucía (crítica, coma).
-- Elenna vive lejos bajo la identidad Serra, con Riley.
+- Elenna vive lejos bajo la identidad Serra, con Bonnie.
 - Kal y Chiara ya decidieron construir una salida (nace en H22).
-- Kal ha **sentenciado** a Halbrook (no lo ejecuta todavía).
-- Corrado ha sido revelado vivo — primero a Kal.
+- Kal ha **sentenciado** a Halbrook; Halbrook muere en su discurso de victoria (tirador sin mostrar). *(Supersesión del autor 2026-09-28; ver [[02_Characters/Warren_Halbrook]], "Muerte".)*
+- Corrado ha sido revelado vivo — primero a Kal, en el hospital. Chiara sigue en coma.
 - Il Consorzio tiene más espacio por el vacío de Dario.
 
 ## Arcos de los protagonistas
@@ -56,9 +56,9 @@ El "voto" no es el sacrificio de Elenna. Es el sacrificio de la vida cotidiana c
 
 > **CANON DEL AUTOR (2026-09-11).** El libro **no abre cronológicamente.**
 
-El Capítulo 1 se sitúa **~9 meses por delante** del punto donde cierra el Libro II — Sombras de Poder. Muestra, en este orden: el nacimiento de Elenna y una breve pertenencia real (Elenna cierra la mano en torno a uno de los dedos de Kal — motivo físico que se cobra más adelante, ver "Riley — payoff, no causa"); la aparente muerte de la niña; el duelo público de San Aurelio en La Almendra; el duelo privado de Chiara en el hospital; y Kal en [[05_Locations/El_Mirador|El Mirador]].
+El Capítulo 1 se sitúa **~9 meses por delante** del punto donde cierra el Libro II — Sombras de Poder. Muestra, en este orden: el nacimiento de Elenna y una breve pertenencia real (Elenna cierra la mano en torno a uno de los dedos de Kal — motivo físico que se cobra más adelante, ver "Bonnie — payoff, no causa"); la aparente muerte de la niña; el duelo público de San Aurelio en La Almendra; el duelo privado de Chiara en el hospital; y Kal en [[05_Locations/El_Mirador|El Mirador]].
 
-**No confirma todavía** que Elenna sobrevivió, que fue enviada a Italia, que Riley está implicada, el mecanismo de la falsa muerte ni el detonante que la volvió necesaria. La prosa restringe información; no miente. El lector puede interpretar legítimamente que Elenna murió, que la pareja se rompió, o cualquier otra lectura — no se corrige todavía.
+**No confirma todavía** que Elenna sobrevivió, que fue enviada a Italia, que Bonnie está implicada, el mecanismo de la falsa muerte ni el detonante que la volvió necesaria. La prosa restringe información; no miente. El lector puede interpretar legítimamente que Elenna murió, que la pareja se rompió, o cualquier otra lectura — no se corrige todavía.
 
 Cierre canon del capítulo: Chiara no puede salir del hospital y llama a Héctor para que busque a Kal. Él lo encuentra mirando el cielo. Línea canon:
 
@@ -79,9 +79,9 @@ Tras el flashforward, la narración vuelve a **`Nueve meses antes.`** Chiara est
 
 Orden relativo obligatorio de este tramo (de [[06_Relationships/Hitos]], arco de embarazo/nacimiento/separación):
 
-`nacimiento de Elenna (la guerra ya escala) → detonante pendiente que vuelve inaceptable mantenerla en el tablero → muerte pública falsa → Elenna Serra con Riley en Italia → separación prolongada y fotografías escasas que se destruyen tras verlas`
+`nacimiento de Elenna (la guerra ya escala) → detonante pendiente que vuelve inaceptable mantenerla en el tablero → muerte pública falsa → Elenna Serra con Bonnie en Italia → separación prolongada y fotografías escasas que se destruyen tras verlas`
 
-Riley ya lleva tiempo fuera y tiene vida/cobertura estable en Italia antes de recibir a Elenna (payoff de F2, no causa).
+Bonnie ya lleva tiempo fuera y tiene vida/cobertura estable en Italia antes de recibir a Elenna (payoff de F2, no causa).
 
 ### H8 — el incendio del loft como antecedente ideológico
 
@@ -107,23 +107,23 @@ Nace de una red creciente de vulnerabilidades: Dario Varek, Warren Halbrook, Il 
 
 > **DISEÑO (2026-09-11).** Ver también [[02_Characters/Kal_Mercer]] y [[02_Characters/Chiara_Bellandi]].
 
-Kal entiende proteger como **distancia física** — cuando alguien corre peligro, apartarlo. Antecedente directo: Riley. Chiara entiende proteger como **control de versión e información** — si el mundo cree que algo murió, desaparece del tablero estratégico. La solución final combina ambos instintos: **Kal, lejos. Chiara, muerta para el mundo.** Resultado: Elenna Mercer desaparece públicamente; Elenna Serra aparece clandestinamente en Italia.
+Kal entiende proteger como **distancia física** — cuando alguien corre peligro, apartarlo. Antecedente directo: Bonnie. Chiara entiende proteger como **control de versión e información** — si el mundo cree que algo murió, desaparece del tablero estratégico. La solución final combina ambos instintos: **Kal, lejos. Chiara, muerta para el mundo.** Resultado: Elenna Mercer desaparece públicamente; Elenna Serra aparece clandestinamente en Italia.
 
-### Riley — payoff, no causa
+### Bonnie — payoff, no causa
 
-> **CANON DEL AUTOR (2026-09-11).** Amplía la regla dura ya fijada en [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Riley y la muerte de Mei-Lin|F2]] y en [[02_Characters/Riley_Bennett]].
+> **CANON DEL AUTOR (2026-09-11).** Amplía la regla dura ya fijada en [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Bonnie y la muerte de Mei-Lin|F2]] y en [[02_Characters/Bonnie_Garcia]].
 
-**Regla dura:** Riley no reaparece — ni en mensaje, llamada, interludio ni pista explícita — en ningún momento antes de la entrega de Elenna. Su ausencia permanece intacta desde el destierro en el Libro II — Sombras de Poder. Durante la planificación, Chiara sólo dice algo equivalente a:
+**Regla dura:** Bonnie no reaparece — ni en mensaje, llamada, interludio ni pista explícita — en ningún momento antes de la entrega de Elenna. Su ausencia permanece intacta desde el destierro en el Libro II — Sombras de Poder. Durante la planificación, Chiara sólo dice algo equivalente a:
 
 > Yo me encargaré de que haya alguien de confianza al otro lado.
 
 Kal puede asumir que se refiere a Ettore. El lector puede asumir lo mismo. No se corrige.
 
-**La pista clandestina:** Kal saca personalmente a Elenna del hospital y la lleva a una pista clandestina — posiblemente la misma infraestructura o una fuertemente asociada a la que sacó a Riley de San Aurelio en F2 (cerca de Cedar Flats y las rutas de Kingsley Field). **No fijado que sea literalmente la misma pista — DISEÑO.** Kal ve una figura con gabardina y capucha. Se vuelve. **Riley.** La revelación ocurre simultáneamente para Kal y para el lector; Chiara ya sabía.
+**La pista clandestina:** Kal saca personalmente a Elenna del hospital y la lleva a una pista clandestina — posiblemente la misma infraestructura o una fuertemente asociada a la que sacó a Bonnie de San Aurelio en F2 (cerca de Cedar Flats y las rutas de Kingsley Field). **No fijado que sea literalmente la misma pista — DISEÑO.** Kal ve una figura con gabardina y capucha. Se vuelve. **Bonnie.** La revelación ocurre simultáneamente para Kal y para el lector; Chiara ya sabía.
 
-**Por qué funciona — causalidad, no conveniencia:** en el Libro I, Kal aparta a Riley para salvarla; Chiara acepta que fue una decisión monstruosa y, a la vez, lo menos monstruoso posible. En este libro, Kal y Chiara apartan a Elenna para salvarla — Kal vive ahora la misma lógica que antes le impuso a Chiara. Riley no se diseña para acomodar a Elenna: primero existe la necesidad real de sacarla; sólo después Chiara reconoce que ya hay alguien fuera de San Aurelio, en Italia, de confianza, emocionalmente vinculada, y que ya sabe lo que es ser apartada para sobrevivir.
+**Por qué funciona — causalidad, no conveniencia:** en el Libro I, Kal aparta a Bonnie para salvarla; Chiara acepta que fue una decisión monstruosa y, a la vez, lo menos monstruoso posible. En este libro, Kal y Chiara apartan a Elenna para salvarla — Kal vive ahora la misma lógica que antes le impuso a Chiara. Bonnie no se diseña para acomodar a Elenna: primero existe la necesidad real de sacarla; sólo después Chiara reconoce que ya hay alguien fuera de San Aurelio, en Italia, de confianza, emocionalmente vinculada, y que ya sabe lo que es ser apartada para sobrevivir.
 
-**La entrega:** cobra el motivo físico del nacimiento (Elenna cierra la mano en torno a un dedo de Kal) — en la pista, Kal debe retirar ese mismo dedo de la mano de Elenna para entregársela a Riley. No sobreexplicar el paralelismo. Riley parte con Elenna; no hay gran discurso de despedida.
+**La entrega:** cobra el motivo físico del nacimiento (Elenna cierra la mano en torno a un dedo de Kal) — en la pista, Kal debe retirar ese mismo dedo de la mano de Elenna para entregársela a Bonnie. No sobreexplicar el paralelismo. Bonnie parte con Elenna; no hay gran discurso de despedida.
 
 ### El capítulo de revelación completa — el segundo nacimiento
 
@@ -143,13 +143,13 @@ Tras la entrega, cambia el reloj narrativo: los nueve meses medidos por el embar
 
 **La guerra valida temporalmente el exilio.** Durante gran parte de este tramo, cada escalada confirma *todavía no podemos traerla*: después de esta operación, después de esta guerra, después de estabilizar el territorio, después de eliminar esta amenaza — siempre aparece otra condición. Esto evita que Kal y Chiara parezcan pasivos: quieren recuperarla, pero encuentran razones legítimas para posponerlo, hasta que el video de H22 rompe esa racionalización.
 
-**Regla emocional:** Elenna no tiene sólo función de pérdida. Con Riley, juega, duerme, aprende, ríe, camina — su motivo puro debe poder existir sin tragedia. Lo doloroso no es Elenna: es la distancia entre Elenna y sus padres.
+**Regla emocional:** Elenna no tiene sólo función de pérdida. Con Bonnie, juega, duerme, aprende, ríe, camina — su motivo puro debe poder existir sin tragedia. Lo doloroso no es Elenna: es la distancia entre Elenna y sus padres.
 
 ### H22 — Los primeros pasos
 
 > **CANON DEL AUTOR. BLOQUEADO PARA PROSA.**
 
-Ocurre **después** de que la separación sea vida cotidiana, y **antes** de la caída final de Dario, la montaña y Santa Lucía. Riley envía un video: Elenna camina hacia Riley. Kal intenta reproducirlo otra vez y no puede.
+Ocurre **después** de que la separación sea vida cotidiana, y **antes** de la caída final de Dario, la montaña y Santa Lucía. Bonnie envía un video: Elenna camina hacia Bonnie. Kal intenta reproducirlo otra vez y no puede.
 
 Sentido: **aquí Kal y Chiara comprenden que deben construir una estructura capaz de funcionar sin ellos.** El plan de salida nace en este libro; no pueden ejecutarlo porque la guerra sigue abierta. Colocación dura: **eligen a Elenna antes de Santa Lucía** — que la decisión no nazca del miedo posterior al atentado.
 
@@ -165,19 +165,19 @@ Una sola operación, dos frentes físicos, tres golpes relacionales.
 
 **Montaña:** Héctor y Harper dentro del frente. Héctor pide a Kal elegir a Harper. Kal intenta elegir a Héctor. **Halbrook mata a Héctor.** Harper sobrevive. Kal no dispara en esta secuencia. Residuo: *"Yo dije su nombre."*
 
-**Santa Lucía (en paralelo):** Chiara es el objetivo. **Kenji muere.** Chiara recibe dos disparos, sobrevive crítica y entra en coma. El ataque es de Halbrook, **no de Il Consorzio**. En shock, en el suelo de la iglesia, el recuerdo que puede cerrar su conciencia es el video de Elenna dando sus primeros pasos.
+**Santa Lucía (en paralelo):** Chiara es el objetivo. **Kenji muere.** Chiara recibe dos disparos (vientre y muslo), sobrevive crítica y entra en coma (unas 2–3 semanas, canon del autor 2026-09-28; la elección y la ejecución de Halbrook caen dentro de ese tramo). El ataque es de Halbrook, **no de Il Consorzio**. En shock, en el suelo de la iglesia, el recuerdo que puede cerrar su conciencia es el video de Elenna dando sus primeros pasos.
 
 Relación causal y orden fino montaña ↔ Santa Lucía: **PENDIENTE.**
 
-**Cierre bélico:** Kal comprende que los dos frentes eran la misma operación de Halbrook y decide: **Warren Halbrook va a morir.** La decisión es de este libro; la ejecución, del Libro IV.
+**Cierre bélico:** Kal comprende que los dos frentes eran la misma operación de Halbrook y decide: **Warren Halbrook va a morir.** ~~La decisión es de este libro; la ejecución, del Libro IV.~~ Decisión y ejecución son de este libro: tras Santa Lucía, el despacho (Kal amedrenta a Halbrook, ya candidato, y se contiene por Elenna; "¡Ha! ¿Es el gran Kal Mercer tan cobarde para tomar mi cabeza de mis hombros?"); después, la victoria electoral y el disparo en el discurso ("Es un nuevo futuro para San Aurelio"). Sin mostrar al tirador. *(Supersesión del autor 2026-09-28; ver [[02_Characters/Warren_Halbrook]], "Muerte".)*
 
 ### Coda final — Corrado
 
-La mañana posterior a Santa Lucía, Corrado Ardizzone aparece ante Kal (Chiara no está en condiciones de recibirlo). **Corrado está vivo.** Reglas duras: Santa Lucía no fue obra de Il Consorzio; Corrado no diseña ni facilita la ejecución de Halbrook; su regreso responde a que el equilibrio cambió (mientras su ausencia protegía a Chiara, seguir "muerto" era útil; tras la caída de Dario, su ausencia empieza a favorecer al enemigo). El primer reveal es a Kal; el encuentro con Chiara ocurre después y es decisión de ella.
+~~La mañana posterior a Santa Lucía~~ Tras el corte del disparo: Kal respira frente a la puerta del cuarto de Chiara, en coma (el lector cree que viene de matar a Halbrook; el texto nunca lo afirma); abre; de espaldas, un hombre con la silueta de Halbrook; mano al arma. Primera voz de Corrado: "Señor Mercer, no hace falta eso. No vengo a hacerle daño, ni a usted ni a ella." — "¿Quién es usted?" — Kal lo reconoce por las fotos de Villa Candelaria — "Creo que usted y yo tenemos que hablar." Fin. *(Supersesión del autor 2026-09-28; ver [[02_Characters/Warren_Halbrook]], "Muerte".)* **Corrado está vivo.** Reglas duras: Santa Lucía no fue obra de Il Consorzio; Corrado no diseña ni facilita la ejecución de Halbrook; su regreso responde a que el equilibrio cambió (mientras su ausencia protegía a Chiara, seguir "muerto" era útil; tras la caída de Dario, su ausencia empieza a favorecer al enemigo). El primer reveal es a Kal; el encuentro con Chiara ocurre después y es decisión de ella.
 
 ## Bisagra hacia Cuentas de Sangre
 
-`Dario preso + montaña + Santa Lucía + Kal sentencia a Halbrook + Corrado vivo`
+`Dario preso + montaña + Santa Lucía + Kal sentencia a Halbrook + Halbrook muerto (tirador oculto) + Corrado vivo en el hospital`
 
 ## Límites del libro
 
@@ -201,11 +201,11 @@ La mañana posterior a Santa Lucía, Corrado Ardizzone aparece ante Kal (Chiara 
 - Número definitivo del macrohito o su división en hitos separados.
 - Mecanismo técnico del video de un solo uso (H22).
 - Capítulo exacto del flashforward (Cap. 1) y de la costura hacia el Cap. 2 ("Nueve meses antes").
-- Si la pista de entrega de Elenna a Riley es la misma infraestructura usada para el destierro de Riley en F2 o una distinta.
+- Si la pista de entrega de Elenna a Bonnie es la misma infraestructura usada para el destierro de Bonnie en F2 o una distinta.
 - Ubicación exacta de la pista de entrega.
 - Distribución fina de los ~9 capítulos del tramo de embarazo (no fijada como regla de un capítulo por mes).
 - Diagnóstico, certificado, hospital, médico cómplice y procedimiento de la falsa muerte de Elenna.
-- Quién más, además de Kal, Chiara y Riley, conoce la verdad, y desde cuándo.
+- Quién más, además de Kal, Chiara y Bonnie, conoce la verdad, y desde cuándo.
 
 ## Carpetas de partes
 
@@ -213,4 +213,4 @@ Sin definir. Se crean cuando el autor apruebe el desglose y se cierren los Libro
 
 ---
 
-Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[04_Concepts/La_Guerra_de_los_Tres]] · [[06_Relationships/Hitos]] · [[02_Characters/Elenna_Mercer]] · [[02_Characters/Riley_Bennett]] · [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]] · [[11_Books/Book_01_Seda_y_Polvora/00_Book_Map]] · [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] · [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]]
+Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[04_Concepts/La_Guerra_de_los_Tres]] · [[06_Relationships/Hitos]] · [[02_Characters/Elenna_Mercer]] · [[02_Characters/Bonnie_Garcia]] · [[12_Craft_Policies/tonal_calibration/Revelacion_Exilio_Elenna]] · [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] · [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] · [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]]

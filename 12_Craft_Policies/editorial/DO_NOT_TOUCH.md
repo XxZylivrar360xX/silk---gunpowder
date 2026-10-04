@@ -23,5 +23,5 @@ Una pasada editorial no puede alterar, reinterpretar ni sustituir:
 - cambiar arquitectura porque “suena mejor”;
 - corregir prosa para satisfacer una métrica.
 
-Si una alerta toca cualquiera de estas zonas, se detiene la edición y se consulta canon, [[12_Craft_Policies/revelations/Book_01_Seda_y_Polvora]], [[12_Craft_Policies/milestones/INDEX]] y las fichas de voz correspondientes.
+Si una alerta toca cualquiera de estas zonas, se detiene la edición y se consulta canon, [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]], [[12_Craft_Policies/milestones/INDEX]] y las fichas de voz correspondientes.
 

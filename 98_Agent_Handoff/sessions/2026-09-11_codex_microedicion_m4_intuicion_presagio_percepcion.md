@@ -78,7 +78,7 @@ Las tres sensaciones principales son de Chiara. La reacción de Cole ante el men
 
 ### M4.1 — C14: presagio temporal
 
-**Archivo:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_Auster]]
+**Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/14_Auster]]
 
 **Antes:**
 > No era pereza. Era que un dato sin pregunta todavía no era un dato — era sólo una espera con forma de papel. Y algo en el fondo del estómago, la misma voz que nunca se equivocaba del todo, le decía que ésa en particular iba a tardar en encontrar su pregunta.
@@ -90,7 +90,7 @@ Las tres sensaciones principales son de Chiara. La reacción de Cole ante el men
 
 ### M4.2 — C14: garantía de acierto de Mabel
 
-**Archivo:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/14_Auster]]
+**Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/14_Auster]]
 
 **Antes:**
 > Chiara conocía el patrón lo bastante bien como para no exigirle más. Ésa era la frontera exacta de lo que Mabel entregaba: nunca una conclusión, nunca un nombre completo si podía evitarlo, nunca la certeza de estar equivocada, porque casi nunca lo estaba.
@@ -102,7 +102,7 @@ Las tres sensaciones principales son de Chiara. La reacción de Cole ante el men
 
 ### M4.3 — C16: diagnóstico atribuido al cuerpo
 
-**Archivo:** [[11_Books/Book_01_Seda_y_Polvora/Part_01_El_Encuentro_Y_La_Nada/16_El_Porton]]
+**Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_El_Encuentro_Y_La_Nada/16_El_Porton]]
 
 **Antes:**
 > El médico que salió minutos más tarde no le dio mucho más que un nombre para lo que ya sabía en el cuerpo: infarto.

@@ -9,7 +9,7 @@ Brief: sólo estado vigente, máximo 800 palabras. PENDING: trabajo inmediato ab
 ## Criterios de depuración
 
 - Plan del 2026-09-21 prevalece para III/IV: Mesa, monólogo, respuesta del 45 y mecanismo de liberación ya resueltos.
-- Beats de Riley/Mei-Lin 37–39 ejecutados; revisión autoral aún abierta.
+- Beats de Bonnie/Mei-Lin 37–39 ejecutados; revisión autoral aún abierta.
 - Última exportación: 38 capítulos, 2026-09-20; quedan fuera Caps. 39–40 y parches posteriores.
 - Incubadora IV/V: pendientes originales cerrados el 2026-09-16; desglose futuro abierto.
 - Referencias viejas a Cap. 26 Libros abiertos normalizadas a ruta vigente del 25; revisión sigue abierta.

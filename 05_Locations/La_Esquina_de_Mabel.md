@@ -42,4 +42,4 @@ La Esquina de Mabel nunca debe funcionar como "lugar donde dan informacion". La 
 
 ## Pendientes
 
-> **PENDIENTE:** confirmar si La Esquina de Mabel queda exactamente en La Almendra o en frontera Calle Corona / La Almendra.
+> **RESUELTO (2026-09-29, autor):** frontera Calle Corona / La Almendra, donde la calle "empieza a perder bancos y a ganar talleres", a unas cuadras de Plaza Corona (se ven las torretas al fondo). Harper Walker atiende la máquina de espresso en las mañanas. Primera aparición en prosa: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/04_Tarifa_Nocturna|Cap. 4]] (Chiara conoce a Blake ahí sin saber que es territorio de Kal).

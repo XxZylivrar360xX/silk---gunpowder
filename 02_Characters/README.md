@@ -19,6 +19,7 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 - [[02_Characters/Anya_Voronina]] — contacto rusa de Washington; amor pasado de Kal en Afganistán y deuda por los papeles de Nadir.
 - [[02_Characters/Daniel_Hayes]] — Danny; amigo del barrio y dueño de Rocco.
 - [[02_Characters/Walter_Keegan]] — amigo del padre de Kal, recién salido de prisión.
+- [[02_Characters/Natalie_Keegan]] — hija menor de Walt; bombera-paramédica (Libro I: salida de Walt; Libro II: recurrente).
 - [[02_Characters/Marisol_Grayson]] — hija de Michael; termómetro moral de Kal.
 - [[02_Characters/Michael_Grayson]] — viejo amigo militar de Kal; muerto de cáncer.
 - [[02_Characters/Blake_Stanton]] — policía; error de identificación de Chiara.
@@ -28,13 +29,14 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 - [[02_Characters/Gloria_Chen]] — crimen organizado / vice; conoce el ecosistema de Varek.
 - [[02_Characters/Noah_Pierce]] — detective joven, compañero de Luis; ve antes que algo no encaja.
 - [[02_Characters/Claire_Han]] — ADA principal local para homicidios relacionados con Kal.
+- [[02_Characters/Edward_Connors]] — fiscal general del estado; enemigo de Rivers desde la facultad.
 - [[02_Characters/Camila_Rivas]] — médica de confianza de Chiara; salva a Kal en H1 y demuestra que la red de Chiara es infraestructura real.
 - [[02_Characters/Owen_Kincaid]] — médico por fuera; vende discreción clínica como mercancía y abre riesgo de filtración.
 - [[02_Characters/Mabel_Ortiz]] — mujer mayor, dueña de tienda/cafetería; nodo civil de los chismes de Chiara.
 - [[02_Characters/Harper_Walker]] — Sparks; empleada ganadera del norte, protegida operativa de Kal.
 - [[02_Characters/Tyler_Brooks]] — Switch; organizador de carreras callejeras; el más joven del núcleo.
-- [[02_Characters/Mei_Lin_Zhao]] — ex corredora de banda rival; entra con Riley.
-- [[02_Characters/Riley_Bennett]] — ex corredora de banda rival; protegida de Chiara.
+- [[02_Characters/Mei_Lin_Zhao]] — ex corredora de banda rival; entra con Bonnie.
+- [[02_Characters/Bonnie_Garcia]] — ex corredora de banda rival; protegida de Chiara.
 - [[02_Characters/Ren_Wei]] — El Afinador; cocinero de cocaína y metanfetaminas; consolida a Kal como proveedor.
 - [[02_Characters/Russell_Whitaker]] — Russ; ex veterano con bastón, aspirante a alcalde y cara política de El Patio.
 - [[02_Characters/Garrett_Cross]] — administrador financiero, testaferro y cara legal de activos.
@@ -83,7 +85,7 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 5. ~~**El contacto ruso**~~ — resuelta como [[02_Characters/Anya_Voronina]].
 6. ~~**La persona que lleva las cuentas en Almendra Towing**~~ — resuelto a escala de organización en [[02_Characters/Garrett_Cross]]. No es contador del taller, sino administrador financiero de activos.
 7. **Propiedad rural del norte** — vinculada a Harper y al taller/carreras.
-8. **Banda rival desintegrada** — origen de Mei-Lin y Riley.
+8. **Banda rival desintegrada** — origen de Mei-Lin y Bonnie.
 
 ## Orden Recomendado
 

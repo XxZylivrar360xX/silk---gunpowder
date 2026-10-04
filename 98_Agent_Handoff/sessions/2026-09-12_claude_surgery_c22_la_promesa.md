@@ -1,6 +1,6 @@
 # SURGERY C22 — La promesa (2026-09-12, Claude Code, encargo del autor)
 
-Modo: **SURGERY** (no AUDIT, no VERIFY, no CLOSE). Ámbito: [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/22_La_Promesa]]. Diagnóstico base: [[98_Agent_Handoff/sessions/2026-09-10_codex_revision_editorial_cap_22]].
+Modo: **SURGERY** (no AUDIT, no VERIFY, no CLOSE). Ámbito: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/22_La_Promesa]]. Diagnóstico base: [[98_Agent_Handoff/sessions/2026-09-10_codex_revision_editorial_cap_22]].
 
 ## Hallazgo previo a intervenir
 

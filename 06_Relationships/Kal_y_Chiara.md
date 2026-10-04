@@ -2,11 +2,11 @@
 
 ## Hogares, pérdidas y futuro — CANON DEL AUTOR 2026-09-20
 
-Loft: hogar descubierto y construido por ambos → Navidad/collar en IV (**RETORNA A CASA**, inscripción intacta) → incendio cierra IV → F4 abre V, juntos y solos tras perder el lugar → F3 → F2: Mei-Lin muere y Riley se va **el mismo día** → Villa Candelaria como reconstrucción conjunta → Stavanger/anillo, todavía en V → embarazo/H1/reveal en VI, familia futura. No hay otros Tres Días después de Camp Alder.
+Loft: hogar descubierto y construido por ambos → Navidad/collar en IV (**RETORNA A CASA**, inscripción intacta) → **F4 separados (Kal en Washington, Chiara en el Monarch), piano de pared, antes del incendio** [canon 2026-09-26] → incendio cierra IV → F3 → F2: Mei-Lin muere y Bonnie se va **el mismo día** → Villa Candelaria como reconstrucción conjunta → Stavanger/anillo, todavía en V → embarazo/H1/reveal en VI, familia futura. No hay otros Tres Días después de Camp Alder.
 
 Después de F2, Kal intenta construir algo bueno junto a lo que no sabe reparar: casa, tiempo, experiencias, pequeñas alegrías y futuro. La felicidad nueva no elimina la pérdida vieja. **La sobrecompensación crea el espacio; la propuesta nace de claridad, no de culpa.** No compra olvido ni convierte a Chiara en Mercer. Noruega también es salida que Kal necesita; exilio voluntario, no terapia.
 
-Elenna en VI significa embarazo, familia futura y riesgo sobre ese futuro. Nacimiento, falsa muerte y separación permanecen en Libro II. Ver [[01_Timeline/02_Libro_01_Seda_y_Polvora]].
+Elenna en VI significa embarazo, familia futura y riesgo sobre ese futuro. Nacimiento, falsa muerte y separación permanecen en Libro II. Ver [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]].
 
 *La relación tratada como entidad con arco propio.* Este documento es tan importante como las dos fichas de personaje, porque la relación **es** la maquinaria del ascenso, no su acompañamiento.
 
@@ -20,7 +20,7 @@ Elenna en VI significa embarazo, familia futura y riesgo sobre ese futuro. Nacim
 
 Y van a pasar por cosas que tensen la relación hasta lo indecible. Ésa es la gracia.
 
-Los conflictos mayores que casi lo rompen todo están ordenados en [[06_Relationships/Momentos_de_Fractura]]: la mentira bajo la lluvia, el Año Nuevo en Washington, los frenos y el destierro de Riley con la muerte de Mei-Lin.
+Los conflictos mayores que casi lo rompen todo están ordenados en [[06_Relationships/Momentos_de_Fractura]]: la mentira bajo la lluvia, el Año Nuevo en Washington, los frenos y el destierro de Bonnie con la muerte de Mei-Lin.
 
 ### Qué implica, en la práctica
 
@@ -209,7 +209,7 @@ Es la escena fundacional y toda la segunda mitad del libro es su inversión. Req
 - **Termina con un favor, no con atracción.** Él resuelve algo que ella no podía resolver, no lo cobra, y se va.
 - **Ella miente en esa escena.** Sobre algo pequeño. Y él se da cuenta, y no dice nada. Ése es el verdadero comienzo.
 
-> **RESUELTO (2026-08-23):** el encuentro es canon del autor. Ella fumando en la entrada del casino, el apretón de manos, *"Io sono Chiara Bellandi" / "Encantado de conocerla"*. Las tres semillas del agente quedan descartadas. Ver [[06_Relationships/Hitos]], **H2**.
+> **RESUELTO (2026-08-23):** el encuentro es canon del autor. Ella fumando en la entrada del casino, el apretón de manos, *"Ciao, sono Chiara Bellandi" / "Encantado de conocerla"*. Las tres semillas del agente quedan descartadas. Ver [[06_Relationships/Hitos]], **H2**.
 
 **Nota sobre los requisitos de arriba:** el encuentro canon cumple casi todos — no hay poder todavía, hay diferencia de mundos, y termina en una relación de favores no cobrados (H2, continuación). Lo que **no** trae de fábrica es la comedia ni la humillación física, y eso hay que construirlo alrededor: la incomodidad de un hombre que huele a taller entrando a un casino, y la de un tipo que odia el juego de azar fingiendo que no. Ver [[03_Factions/El_Casino]].
 
@@ -238,13 +238,40 @@ No es una escena: es un **hábito**, y es lo que se acumula durante cientos de p
 
 **Y es lo que desaparece en la Fase V.** Cuando este documento dice que "dejan de tener escenas pequeñas", lo que concretamente deja de ocurrir es esto: **él deja de ir a contarle el día.** Nadie lo dice. Sólo deja de pasar. Ver "La grieta", más abajo.
 
+#### Cómo se construye la costumbre — CANON DEL AUTOR (2026-09-29)
+
+La intimidad no se construye sólo con confesiones o peligro. Antes de *Libros abiertos* (Cap. 25) tienen que haber acumulado mucho **conocimiento aparentemente inútil** sobre el otro. Saber qué pasó con las plantas de Nadir, que Walt no sabe usar el smartphone o que Chiara aguantó a un huésped insoportable **también es intimidad**, y es la infraestructura que vuelve creíble "te voy a contar la peor parte de mí": el lector debe pensar *claro que se cuentan esto; llevan medio libro contándose todo lo demás*.
+
+**Escalón de la razón para hablar:**
+
+| Cap. | Registro |
+|---|---|
+| 2 | Puedo obtener algo de ti. |
+| 4 | Sé que puedo llamarte cuando necesito algo. **Última etapa puramente funcional**: la llamada de Varga no se vuelve conversación personal. |
+| 5, apertura (reunión privada) | Veamos qué podemos construir cuando nadie más está sentado en la mesa. Negocian después de una prueba (Varga), sin socios; al cerrar, ella ya obtuvo lo que quería en el 2. **La sociedad precede al romance**: Chiara lo elige porque funciona; Kal la elige porque ella sabe usar lo que él vale. (Añadido 2026-09-29, autor.) |
+| 5 (*Una amiga*) | Estoy aquí contigo y, curiosamente, no necesito nada. Ya no hay mesa de negociación: ¿por qué sigo aquí? |
+| 6 en adelante | Te cuento esto simplemente porque quiero contártelo a ti. |
+
+**Progresión del hábito:**
+
+1. Kal cuenta aventuras de La Almendra porque son graciosas o absurdas: Nadir y sus "plantas mágicas"; Walt adaptándose al mundo moderno y, más adelante, su proyecto de destilería; permisos, equipo, clientes; Danny haciendo cosas que empiezan como anécdota divertida y poco a poco dejan de serlo.
+2. Chiara empieza como **oyente**. Luego recuerda detalles y pregunta ("¿Y qué pasó con…?", por Walt, por Nadir, por el problema de ayer): lo escucha aunque la información no le sirva para nada.
+3. Ella corresponde: absurdos del Monarch, huéspedes, socios, empleados, hotelería, gente rica portándose como idiota.
+4. Ya no hace falta razón para llamar. Se cuentan qué les pasó ese día.
+
+**Separado de las revelaciones profundas.** Lo cotidiano no es antesala de la confesión ni la sustituye; corre en paralelo.
+
+**Forma en página:** migajas cotidianas recurrentes dentro de escenas con otra función, no escenas dedicadas a "desarrollar la relación" (ver [[00_Biblia/Principios_Narrativos]], miniatura cotidiana).
+
+**Banco de material sembrado en el Cap. 3** (no gastarlo todo de golpe; existe para que Kal lo cuente después): Walt y el smartphone; el precio de la Coca; Nadir y la comida; la libertad condicional que "lo volvió moderado"; el regreso del viejo a La Almendra; fragmentos inocuos del trabajo clandestino (el Tasador), siempre en versión contable para ella.
+
 ### CANON — El cruce de idiomas, en cuatro tiempos
 
 Toda la relación se puede medir en quién se mueve hacia el idioma del otro. **Es el esqueleto emocional del libro** y cada tiempo está anclado en un hito:
 
 | | Quién cruza | Qué pasa |
 |---|---|---|
-| **H2** | nadie | *"Io sono Chiara Bellandi." / "Encantado de conocerla."* Dos idiomas, ningún puente. Y de usted. |
+| **H2** | nadie | *"Ciao, sono Chiara Bellandi." / "Encantado de conocerla."* Dos idiomas, ningún puente. Y de usted. |
 | **H2-b** | **ella** | **Choca el puño con él.** Un gesto de barrio aceptado por una mujer de Palermo. El primer puente lo tiende ella, y con el cuerpo. |
 | *(medio libro)* | **él** | Ella le enseña italiano. Él es el aprendiz, y no lo domina nunca. **Sembrado en página en el Cap. 7** (la tina del penthouse en H2-b — no confundir con el hito "La noche del jacuzzi", posterior): a Chiara se le patina el italiano por la hierba, Kal no entiende, y ella suelta *"Algún día te enseño"*. |
 | **H1** | **él** | *"Volevo solo tornare a casa per mantenere la mia promessa, amore."* En el idioma de ella, mal, desangrándose. |
@@ -255,11 +282,11 @@ Toda la relación se puede medir en quién se mueve hacia el idioma del otro. **
 
 Debajo de los cuatro tiempos de arriba corre una corriente continua, no un hito puntual: mientras ella le enseña italiano a Kal en lecciones puntuales, **él le enseña el suyo a ella sin lecciones — solo por exposición.** Cuanto más interactúan, más modismos del barrio se le pegan a Chiara sin que lo decida, y su acento cede terreno de forma real y medible con el tiempo.
 
-**Nunca desaparece del todo.** Ella no se "americaniza" — conserva su acento base y su identidad intactos. Pero en los momentos en que ella misma nota la cesión, sobrecompensa: ahí es cuando dice **"Ciao"** — su saludo de siempre, salvo en H2, donde su ausencia ya es canon (ver el cuadro de arriba: *"Io sono Chiara Bellandi"*, no "Ciao"). No es un gesto dirigido a Kal. Es ella recordándose a sí misma quién es.
+**Nunca desaparece del todo.** Ella no se "americaniza" — conserva su acento base y su identidad intactos. Pero en los momentos en que ella misma nota la cesión, sobrecompensa: ahí es cuando dice **"Ciao"** — su saludo de siempre, presente ya desde H2 (**canon del autor 2026-09-26:** se presenta con *"Ciao, sono Chiara Bellandi"*, sustituye el anterior *"Io sono Chiara Bellandi"*). No es un gesto dirigido a Kal. Es ella recordándose a sí misma quién es.
 
 > Es el mismo miedo del libro entero — quién decide quién soy — jugado en la voz en vez de en el territorio. Kal nunca le pide que se le parezca (ver más abajo, "El apellido que él nunca ofrece"); el barrio se le mete solo, sin permiso, y ella es quien tiene que vigilarse a sí misma para no perderse. Ver [[04_Concepts/Quien_Decide_Quien_Soy]].
 
-> **RESUELTO (2026-09-20, canon del autor — sustituye la versión 2026-09-09). Escrito en prosa (2026-09-20, Claude Code):** [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35 — Sin fecha de regreso]], BORRADOR, abre la Parte III. Sí se lo devuelve, y es el ritual recíproco de la pareja. **No nace inmediatamente después de [[06_Relationships/Hitos#H21 — Mi pareja|H21]]** — esa llamada fue a tres, con Nadir en altavoz, y quedó explícitamente sin dramatizar. Nace en la **apertura de la Parte III — Ardizzone** ([[01_Timeline/02_Libro_01_Seda_y_Polvora]]), en la primera llamada telefónica a dos: Chiara le cuenta a Kal, que está en Almendra Towing con Nadir presente, que Matteo se fue de San Aurelio. **Kal abre:** *"Ciao, bella"* — acento deliberadamente malo, citando su vieja imitación burlona del *"Io sono Chiara Bellandi"* de H2. **Chiara responde:** *"Ciao, bellissimo"* — italiano impecable y deliberadamente marcado (subtexto: *mi acento sigue aquí*). Pasa como intercambio espontáneo y **se queda para toda la trilogía**. Coherente con "Kal es el aprendiz y no domina el italiano nunca": el mal acento es el chiste; ella responde con el superlativo, la forma más difícil, para reafirmar que su fluidez —y su identidad italiana, bajo presión durante toda la Parte III— sigue intacta. Distinto del *"Ciao"* en solitario de Chiara (arriba), que es ella anclándose a sí misma y no un gesto hacia él — misma palabra, función distinta. *(Versión histórica, ya no vigente: Chiara decía "Ciao, bello" primero y Kal respondía "ciao, bellissima"; ver [[06_Relationships/Hitos#H21 — Mi pareja|Hitos, H21]] para la traza completa.)*
+> **RESUELTO (2026-09-20, canon del autor — sustituye la versión 2026-09-09). Escrito en prosa (2026-09-20, Claude Code):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35 — Sin fecha de regreso]], BORRADOR, abre la Parte III. Sí se lo devuelve, y es el ritual recíproco de la pareja. **No nace inmediatamente después de [[06_Relationships/Hitos#H21 — Mi pareja|H21]]** — esa llamada fue a tres, con Nadir en altavoz, y quedó explícitamente sin dramatizar. Nace en la **apertura de la Parte III — Ardizzone** ([[01_Timeline/02_Libro_01_Mascaras_De_Cristal]]), en la primera llamada telefónica a dos: Chiara le cuenta a Kal, que está en Almendra Towing con Nadir presente, que Matteo se fue de San Aurelio. **Kal abre:** *"Ciao, bella"* — acento deliberadamente malo, citando su vieja imitación burlona del *"Ciao, sono Chiara Bellandi"* de H2. **Chiara responde:** *"Ciao, bellissimo"* — italiano impecable y deliberadamente marcado (subtexto: *mi acento sigue aquí*). Pasa como intercambio espontáneo y **se queda para toda la trilogía**. Coherente con "Kal es el aprendiz y no domina el italiano nunca": el mal acento es el chiste; ella responde con el superlativo, la forma más difícil, para reafirmar que su fluidez —y su identidad italiana, bajo presión durante toda la Parte III— sigue intacta. Distinto del *"Ciao"* en solitario de Chiara (arriba), que es ella anclándose a sí misma y no un gesto hacia él — misma palabra, función distinta. *(Versión histórica, ya no vigente: Chiara decía "Ciao, bello" primero y Kal respondía "ciao, bellissima"; ver [[06_Relationships/Hitos#H21 — Mi pareja|Hitos, H21]] para la traza completa.)*
 
 ### CANON — La vela
 
@@ -377,7 +404,7 @@ Nunca lo domina. Eso es requisito, no defecto: **el italiano machucado de Kal es
    - **Y la sociedad se vuelve explícita en H6**, en las cascadas: pactan deshacer la organización de Varek desde dentro. Es la primera vez que tienen **un objetivo compartido y declarado**, no una cadena de favores.
 
 **3. La pareja.** El romance se consuma cuando ya son imprescindibles el uno para el otro profesionalmente — lo cual es exactamente el problema, porque a partir de ahí ninguno puede saber si está eligiendo a la persona o al socio. Esa duda no se resuelve: se administra.
-   - **RESUELTO (2026-08-26; reposicionado 2026-08-29):** la primera vez que tienen intimidad es [[06_Relationships/Hitos]], H11 — el mirador. Bolos, Kal le enseña a driftear, suben al mirador del norte a ver estrellas, él le cuenta de Dale y Ruth (rompiendo, por única vez, la regla de no hablar nunca de eso), y esa noche terminan juntos en el penthouse. **Bajo la cronología consolidada de 2026-08-29 cae DESPUÉS de H10 y de H4** — la secuencia es `H12 -> loft -> H10 -> H4 -> H11`. Después de las dos inserciones del 2026-08-29 —[[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono|Cap. 14, *La regla del teléfono*]] y [[06_Relationships/Hitos#H9 — La carrera de máscaras|Cap. 9, H9]]— la numeración vigente es: **Caps. 15-16 = H10, Cap. 17 = H4, Cap. 18 = H11**; el bloque de prosa se cerró el 2026-08-29 (aperturas de los Caps. 15 y 18 reescritas, Cap. 17 redactado, Cap. 14 nuevo + causalidad de *El portón* corregida).
+   - **RESUELTO (2026-08-26; reposicionado 2026-08-29):** la primera vez que tienen intimidad es [[06_Relationships/Hitos]], H11 — el mirador. Bolos, Kal le enseña a driftear, suben al mirador del norte a ver estrellas, él le cuenta de Dale y Ruth (rompiendo, por única vez, la regla de no hablar nunca de eso), y esa noche terminan juntos en el penthouse. **Bajo la cronología consolidada de 2026-08-29 cae DESPUÉS de H10 y de H4** — la secuencia es `H12 -> loft -> H10 -> H4 -> H11`. Después de las dos inserciones del 2026-08-29 —[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono|Cap. 14, *La regla del teléfono*]] y [[06_Relationships/Hitos#H9 — La carrera de máscaras|Cap. 9, H9]]— la numeración vigente es: **Caps. 15-16 = H10, Cap. 17 = H4, Cap. 18 = H11**; el bloque de prosa se cerró el 2026-08-29 (aperturas de los Caps. 15 y 18 reescritas, Cap. 17 redactado, Cap. 14 nuevo + causalidad de *El portón* corregida).
    - **DISEÑO — quien los empuja:** en H10, [[02_Characters/Hector_Navarro]] es quien, desde el hospital, le quita a cada uno la excusa que se estaba poniendo — a ella la vergüenza de clase, a él la costumbre de decidir por ella. **En ese punto todavía no se han besado**; Héctor empuja hacia el cruce, que llega en H11. Cierra con Chiara poniendo la mano en su hombro y Kal poniendo la mano sobre la de ella. Ver esa entrada para el detalle completo.
    - **La apertura deliberada** — [[06_Relationships/Hitos]], "La noche del jacuzzi" (hito propio desde 2026-08-29): ya cruzada la intimidad y ya sobrios, los dos se abren sin filtros por elección. Es la excepción a la regla de que sólo se abren bajo fuego, y detona H5.
    - **Viven juntos** de forma oficial sólo en [[06_Relationships/Hitos]], "El cumpleaños / la mudanza oficial", después de H7 — no antes. El loft es comodidad creciente sin decisión; la mudanza es decisión.
@@ -434,15 +461,15 @@ Cuando el autor quiera medir si la Fase V está bien escrita, la pregunta es una
 
 ### La escalera de lo que se permiten decir
 
-> **ENTRE PELDAÑOS — Roma Atrii pagado y el piano (2026-09-20, Claude Code, [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/38_Al_Reves|Cap. 38]], BORRADOR).** En la fiesta del yate, dentro del registro privado (proa y salón cerrado), ocurren dos revelaciones que **no son peldaños** de esta escalera porque ninguno de los dos dice "te amo" ni "estoy enamorado": Kal toca *Träumerei* al piano (primera vez en prosa; Chiara no sabía) y Chiara le explica por fin el cifrado — ROMA al revés es AMOR, y "Atrii" es su traducción privada: **"Mi amor del patio."** Kal la entiende rápido, repite "Del patio" y se la guarda en el bolsillo interior con la carta. Es la primera vez que la palabra *amor* pasa entre los dos por escrito y con firma, pero sigue sin decirse a la cara en voz alta — coherente con "las declaraciones grandes siguen cayendo bajo fuego": esta noche cae, en cambio, una bala. Nota de orden (**resuelta por el autor, 2026-09-20**): F1 (peldaño 2) se reubica **después del regreso de Palermo (H18)** — la cadena de peldaños no cambia (H21 → F1 → monólogo con Dios → H1), sólo se corre F1 detrás de H13/H17/H18. El Cap. 38 queda entre el peldaño 1 y el 2. Y al cierre, Marisol verbaliza por teléfono lo que Kal todavía no sabe decir ("cuando estamos enamorados, las explicaciones sobran") — no cuenta como peldaño: lo dice ella, y él se queda preguntando "¿cómo que estamos?".
+> **ENTRE PELDAÑOS — Roma Atrii pagado y el piano (2026-09-20, Claude Code, [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 38]], BORRADOR).** En la fiesta del yate, dentro del registro privado (proa y salón cerrado), ocurren dos revelaciones que **no son peldaños** de esta escalera porque ninguno de los dos dice "te amo" ni "estoy enamorado": Kal toca *Träumerei* al piano (primera vez en prosa; Chiara no sabía) y Chiara le explica por fin el cifrado — ROMA al revés es AMOR, y "Atrii" es su traducción privada: **"Mi amor del patio."** Kal la entiende rápido, repite "Del patio" y se la guarda en el bolsillo interior con la carta. Es la primera vez que la palabra *amor* pasa entre los dos por escrito y con firma, pero sigue sin decirse a la cara en voz alta — coherente con "las declaraciones grandes siguen cayendo bajo fuego": esta noche cae, en cambio, una bala. Nota de orden (**resuelta por el autor, 2026-09-20**): F1 (peldaño 2) se reubica **después del regreso de Palermo (H18)** — la cadena de peldaños no cambia (H21 → F1 → monólogo con Dios → H1), sólo se corre F1 detrás de H13/H17/H18. El Cap. 38 queda entre el peldaño 1 y el 2. Y al cierre, Marisol verbaliza por teléfono lo que Kal todavía no sabe decir ("cuando estamos enamorados, las explicaciones sobran") — no cuenta como peldaño: lo dice ella, y él se queda preguntando "¿cómo que estamos?".
 
 > **ACTUALIZADO (2026-09-20, decisión del autor).** El orden de los dos primeros peldaños se invierte respecto a la versión anterior (2026-09-10): "Mi pareja" (H21) cierra la Parte II y ocurre **antes** de F1, no después — F1 ya vive dentro de la Parte III — Ardizzone. Se añade además un peldaño nuevo, de Chiara, entre la fractura y H1: el monólogo con Dios que cierra la Parte III.
 
 Lo que Kal y Chiara se permiten decir sube en cuatro peldaños, cada uno más caro que el anterior, y ninguno es una escena romántica:
 
 1. **Nombrar la relación** (Kal) — [[06_Relationships/Hitos#H21 — Mi pareja|H21]], "Mi pareja", por teléfono, con Nadir de testigo incómodo. Cierra la Parte II. No dice "te amo"; dice *pareja*, y le cuesta más que el efectivo del Audi.
-2. **El primero, soltado a media discusión** (Kal) — como oración subordinada, no como confesión. **Texto vigente (CANON DEL AUTOR, 2026-09-21):** *"Por mucho que yo esté enamorado de ti, soy fiel a mis convicciones, a mi gente y a mí mismo."* El punto de la frase es la fidelidad (a sus convicciones, a su gente, a sí mismo); el *"estoy enamorado"* se le escapa de paso. Debe doler porque tiene algo de cierto, pero no completamente. Es la primera vez que lo dice en voz alta, a ella. **Cae bajo fuego** — y ahora literalmente: se dice **dentro de la pelea de F1**, en el penthouse, la noche anterior a Camp Alder, **sin reconciliación después** — Kal se va, y al día siguiente cae preso. Chiara lo oye y no contesta; tres días después se lo describe a Dios (peldaño 3). Ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. *(Versión histórica, supersedida 2026-09-21: "Podré tener mil problemas encima, y por mucho que yo esté enamorado de ti, no hay un 'fuera mi gente', eso no se negocia", dicha en la conversación del casino que cerraba F1 después de los tres días, antes de Camp Alder.)*
-3. **El proceso, descrito a Dios, no a él** (Chiara) — el monólogo que cierra la Parte III, tras el fracaso de Chiara intentando liberar a Kal de Camp Alder: *"Me dejas acercarme a él. Me dejas abrirme con él. Me dejas enamorarme de él."* Deliberadamente **"enamorarme"**, no "amarlo" — reserva el peso mayor para H1. No es una declaración a Kal: es a Dios, y describe un proceso causal, no un sentimiento presente confesado al otro. Ver [[01_Timeline/02_Libro_01_Seda_y_Polvora]], cierre de Parte III.
+2. **El primero, soltado a media discusión** (Kal) — como oración subordinada, no como confesión. **Texto vigente (CANON DEL AUTOR, 2026-09-21):** *"Por mucho que yo esté enamorado de ti, soy fiel a mis convicciones, a mi gente y a mí mismo."* El punto de la frase es la fidelidad (a sus convicciones, a su gente, a sí mismo); el *"estoy enamorado"* se le escapa de paso. Debe doler porque tiene algo de cierto, pero no completamente. Es la primera vez que lo dice en voz alta, a ella. **Cae bajo fuego** — y ahora literalmente: se dice **dentro de la pelea de F1**, en el penthouse, la noche anterior a Camp Alder, **sin reconciliación después** — Kal se va, y al día siguiente cae preso. Chiara lo oye y no contesta; tres días después se lo describe a Dios (peldaño 3). Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. *(Versión histórica, supersedida 2026-09-21: "Podré tener mil problemas encima, y por mucho que yo esté enamorado de ti, no hay un 'fuera mi gente', eso no se negocia", dicha en la conversación del casino que cerraba F1 después de los tres días, antes de Camp Alder.)*
+3. **El proceso, descrito a Dios, no a él** (Chiara) — el monólogo que cierra la Parte III, tras el fracaso de Chiara intentando liberar a Kal de Camp Alder: *"Me dejas acercarme a él. Me dejas abrirme con él. Me dejas enamorarme de él."* Deliberadamente **"enamorarme"**, no "amarlo" — reserva el peso mayor para H1. No es una declaración a Kal: es a Dios, y describe un proceso causal, no un sentimiento presente confesado al otro. Ver [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]], cierre de Parte III.
 4. **La declaración entera** (Chiara) — H1, desangrándose, en el idioma de ella, directamente a él: *"Perché ti amo con tutto il mio cuore."* Es la primera vez que el amor deja de estar escondido en una oración subordinada, descrito a Dios o insinuado, y se vuelve **te amo, directamente al otro**.
 
 Los cuatro peldaños quedan encadenados: H21 (peldaño 1) → F1 (peldaño 2) → monólogo con Dios (peldaño 3) → H1 (peldaño 4).
@@ -459,7 +486,7 @@ Para que esto funcione, **ya tienen que amarse por conducta mucho antes de H21**
 
 **Restricción de escritura, para que el orden no suene hueco:** cualquier capítulo de Partes I-II tiene que seguir dejando evidencia de conducta amorosa (no declarada) antes de H21. Si en algún punto Partes I-II dejan de mostrarlo y el lector llega a "Mi pareja" sintiendo que es una decisión fría o práctica, el orden de los cuatro peldaños deja de sostenerse y habría que revisarlo. Mientras esa evidencia exista —y ya existe—, **no hay que reordenar los acontecimientos.**
 
-> **LÍNEA DEL AUTOR — COLOCADA (2026-09-21):** *"No soy gracioso, me gusta hacerte reír a ti, que es diferente"* va en la **cata del viñedo de Palermo, Cap. 40**, como respuesta a *"Siempre tienes algo gracioso para aligerar el ambiente."* El autor la dictó ese día como *"No. Es que me gusta hacerte reír."* — elige la redacción final al escribir. Ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. La frase del peldaño 1 ya tiene sitio (ver arriba). Guardada aquí para que no se pierda ni se reescriba. **La línea de Kal que la provoca (primer sorbo de la cata) quedó fijada el mismo día:** *"Sabe a domingo. De los buenos, cuando alguien trae una botella que no le alcanzaba."*
+> **LÍNEA DEL AUTOR — COLOCADA (2026-09-21):** *"No soy gracioso, me gusta hacerte reír a ti, que es diferente"* va en la **cata del viñedo de Palermo, Cap. 40**, como respuesta a *"Siempre tienes algo gracioso para aligerar el ambiente."* El autor la dictó ese día como *"No. Es que me gusta hacerte reír."* — elige la redacción final al escribir. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. La frase del peldaño 1 ya tiene sitio (ver arriba). Guardada aquí para que no se pierda ni se reescriba. **La línea de Kal que la provoca (primer sorbo de la cata) quedó fijada el mismo día:** *"Sabe a domingo. De los buenos, cuando alguien trae una botella que no le alcanzaba."*
 - **La discusión recurrente:** él dice que ella no arregla nada, sólo cambia cómo se ve. Ella dice que él cree que las cosas existen porque las tocó. Los dos tienen razón, y por eso la pelea nunca se acaba.
 - **La discusión que sí hace daño:** cuando él decide algo por ella *para protegerla*. Ella lo lee como exclusión, y tiene razón. Ver [[00_Biblia/Temas]], tema 6.
 - **Hablan mal.** Se interrumpen, dejan frases a medias, se provocan, contestan otra cosa. Ninguno de los dos es filósofo. El subtexto carga la mitad de la relación.
@@ -510,6 +537,25 @@ Y la pregunta previa, antes de escribir una línea:
 > **PENDIENTE:** confirmar el ritual. *"¿Te llevo?"* es propuesta, no canon.
 
 > **PENDIENTE (2026-08-26):** eco de "quédate detrás de mí". En el Capítulo 2, el recuerdo de infancia de Chiara en la iglesia de Palermo cierra con Corrado prometiéndole "ya lo arreglo yo... quédate detrás de mí" — promesa que él no pudo cumplir (murió en la redada federal antes de poder arreglar nada, y ella ni pudo despedirse; ver el remate ya escrito en el manuscrito). Falta construir un momento posterior del libro, en una situación de riesgo real con los dos presentes y conscientes (no un rescate después del hecho, como H5 o F3, donde Kal la encuentra ya inconsciente), donde Kal se interponga físicamente entre ella y el peligro — con una frase o gesto que funcione como eco directo de la de Corrado. Chiara debe reconocer internamente el eco, y debe pesarle de un modo distinto a como pesó la primera vez: esta promesa sí se sostiene. No forzarlo dentro de F3 ni H5, que ya tienen función propia bien definida ([[06_Relationships/Momentos_de_Fractura]]); buscar un beat nuevo o uno todavía sin diseñar.
+
+## Libro II: la pareja como sinergia — CANON DEL AUTOR (2026-10-03)
+
+En *Sombras de Poder* la relación deja de ser el conflicto dominante y pasa a ser infraestructura emocional. La regla dura no cambia; cambia el énfasis. Detalle en [[01_Timeline/03_Libro_02_Sombras_De_Poder]] ("Incubadora 2026-10-03").
+
+- Pueden operar separados y seguir siendo unidad. Cada noche vuelven a Villa Candelaria como lugar seguro del otro.
+- Kal vuelve herido varias veces; Chiara sutura lo menor. Lo grave va con médico.
+- Cuidado recíproco: vino, comida o masaje de pies cuando ella llega saturada; a veces sólo trabajan cada uno en lo suyo y se dan las buenas noches.
+- **"Dime, Amore":** en la tormenta, Kal contesta así la llamada de Chiara. **Es la única vez en toda la saga que él la llama "Amore".** No se repite ni se explica. (Chiara sí usa "amore" y "amore mio"; la unicidad es sólo de Kal.)
+- La radio como indicador de vida durante el triaje; cierre con la hamburguesa doble.
+
+## Lecturas editoriales para vigilar — DISEÑO (2026-10-03)
+
+De dos lecturas críticas de la incubadora (archivadas en `98_Agent_Handoff/archive/chatgpt/`), útiles al revisar o escribir:
+
+- **"Libros abiertos" (Cap. 25) es un pacto de apertura voluntaria, no de transparencia absoluta.** Los secretos de terceros (Michael, Nadir) siguen siendo legítimos, siempre que Kal no los use para decidir por Chiara lo que afecta su agencia. No reinterpretar el 25 de modo que culpe silencios legítimos.
+- Secuencia 25 → 30: apertura elegida → recaída (cada uno carga solo lo que cree que protege al otro) → choque → nombran el patrón en "Media baraja" → pacto operativo más maduro. El 25 no cura el defecto: les da el lenguaje para reconocerlo.
+- 28 → 32: Kal no aprende a dejar de proteger, sino que **proteger no le da autoridad sobre las decisiones ajenas**. Las recaídas posteriores en "yo cargo solo" deben producir evolución, no repetición circular.
+- Postoperatorio 20–32: los Caps. 20, 21, 22 y 24 se dan por sanos; no reabrirlos por perfeccionismo, sólo ante una complicación concreta.
 
 ---
 

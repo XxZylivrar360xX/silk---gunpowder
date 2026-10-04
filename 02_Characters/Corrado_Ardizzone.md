@@ -9,7 +9,7 @@
 **Edad en la redada / falsa muerte (Chiara tenía 23):** **55 años** (derivado — ver "La redada y la muerte pública")
 **Edad al abrir la novela:** **66 años** (fijado 2026-09-18, derivado: Chiara tiene 34 al abrir el libro, 11 años después de la redada). Oculto en Italia; no aparece en escena hasta la coda de *Voto de Ceniza*.
 **Oficio:** capo de la famiglia Ardizzone (crimen organizado, Palermo); posición exacta dentro o alrededor de **La Mesa de las Familias** — PENDIENTE
-**Rol:** figura paterna ausente / secundario de arco reservado. No aparece en escena en el Libro I. Primera aparición real en prosa: la mañana siguiente al atentado de Santa Lucía, coda de *Voto de Ceniza* (Libro II)
+**Rol:** figura paterna ausente / secundario de arco reservado. No aparece en escena en el Libro I. Primera aparición real en prosa: ~~la mañana siguiente al atentado de Santa Lucía~~ en el hospital, junto a Chiara en coma, después de la ejecución de Halbrook (canon del autor 2026-09-28), coda de *Voto de Ceniza* (Libro II)
 **Alias:** ninguno confirmado
 **Estado:** **vivo (verdad del autor)** — creído muerto por Chiara y por el mundo desde la redada federal hasta su reveal en la coda del Libro II
 
@@ -27,6 +27,8 @@ Hombre siciliano, alto, de complexión delgada a atlética — presencia vertica
 
 **Herencia hacia Chiara:** Corrado le aporta el **cabello negro azabache**, la estructura facial más afilada, la mandíbula marcada, la presencia severa y buena parte de su capacidad de "llenar una habitación" con silencio en vez de volumen. Ver [[02_Characters/Chiara_Bellandi]], "Apariencia", y [[02_Characters/Marta_Bellandi]] para el resto de la herencia (ojos, boca, calidez del rostro).
 
+> **Silueta en el presente — CANON DEL AUTOR (2026-09-28), prevalece sobre la lámina donde choque:** en el presente narrativo, desde atrás, Corrado y [[02_Characters/Warren_Halbrook]] tienen una semejanza incidental pero notable: estatura cercana, hombros maduros y sólidos, complexión madura y compacta (la delgadez atlética es de su juventud), cabello gris, postura muy recta, ropa oscura/formal y una quietud particular. **De frente no se parecen.** Existe sólo para el cierre de *Voto de Ceniza* (Kal lo confunde de espaldas con Halbrook) y **no se subraya ni se siembra antes.**
+
 Esta referencia es DISEÑO visual, no prosa escrita: el canon narrativo conserva prioridad si algún capítulo futuro lo describe de otra forma. No inventar su edad exacta a partir de la imagen — la lámina representa una etapa de su vida (matrimonio con Marta / flashback), no necesariamente su aspecto en el presente narrativo de la trilogía, donde ya llevaría más tiempo oculto.
 
 ## Quién es
@@ -35,7 +37,7 @@ Un hombre que quiso a su mujer treinta años y no supo proteger su casa de lo qu
 
 Su motor: convertir a su hija en alguien que **Il Consorzio ya no pueda usar como moneda política**. Mientras Corrado existiera públicamente, su apellido y su posición volvían a Chiara una pieza heredable — presionable a través de él, valiosa por asociación, nunca dueña de sí misma. Así que desaparece. Finge su muerte y pasa años desmontando la estructura del Consorcio desde las sombras, despacio, sin quererlo todo: el objetivo no es destruir la mafia italiana, es romper suficiente infraestructura para que Chiara pueda volver a Palermo sin pedirle permiso a nadie.
 
-**Punto ciego — la misma patología que Kal, en otra escala:** decidió solo. Chiara no supo, no consintió, no pudo despedirse de nadie. Corrado cree que amar justifica decidir por la persona amada, y esa creencia le cuesta años de la vida de su hija. La novela no debe absolverlo con "lo hizo por amor, por lo tanto estuvo bien" — comprender la razón no equivale a perdonar el método. Ver [[98_Agent_Handoff/ChatGPT/ENCARGO_ARCO_CHIARA_CORRADO]].
+**Punto ciego — la misma patología que Kal, en otra escala:** decidió solo. Chiara no supo, no consintió, no pudo despedirse de nadie. Corrado cree que amar justifica decidir por la persona amada, y esa creencia le cuesta años de la vida de su hija. La novela no debe absolverlo con "lo hizo por amor, por lo tanto estuvo bien" — comprender la razón no equivale a perdonar el método. Ver [[98_Agent_Handoff/archive/chatgpt/ENCARGO_ARCO_CHIARA_CORRADO]].
 
 ## Historia
 
@@ -47,7 +49,7 @@ Corrado y **Marta Bellandi** se quisieron treinta años, de verdad, eligiéndose
 
 ### La redada y la muerte pública
 
-Los federales irrumpen contra Corrado. Semanas después llega un comunicado: el capo de la famiglia Ardizzone falleció en una **caída desde el acantilado de la villa de Palermo** — federales y comisión del Consorcio dieron la misma frase, palabra por palabra. **Nunca hubo cuerpo.** Chiara cree que lo perdió y paga esa cuenta sola cada aniversario, sin cuerpo que poner junto al de Marta. La culpa de fondo fue del [[03_Factions/Il_Consorzio]] — puso las condiciones, los intereses y la trampa — pero la mano visible fue federal, y por eso Chiara no ve en los federales una institución de justicia sino la que le explicó que su duelo era evidencia. Ver [[12_Craft_Policies/revelations/SAGA_LEVEL]].
+Los federales irrumpen contra Corrado. Semanas después llega un comunicado: el capo de la famiglia Ardizzone falleció en una **caída desde el acantilado de la villa de Palermo** — federales y comisión del Consorcio dieron la misma frase, palabra por palabra. **Nunca hubo cuerpo.** Chiara cree que lo perdió y paga esa cuenta sola cada aniversario, sin cuerpo que poner junto al de Marta. La culpa de fondo fue del [[03_Factions/Il_Consorzio]] — puso las condiciones, los intereses y la trampa — pero la mano visible fue federal, y por eso Chiara no ve en los federales una institución de justicia sino la que le explicó que su duelo era evidencia. Ver [[12_Craft_Policies/revelations/SAGA_LEVEL]]. **ACTUALIZADO 2026-09-28 (CANON DEL AUTOR):** la versión pública ahora es que **los federales abrieron fuego y el cuerpo cayó por la ladera de la villa**, junto al mirador sobre la costa de Mondello, y que el comunicado salió en los periódicos **a la mañana siguiente**. Sigue sin haber cuerpo. Intención del autor: el disparo "constata" la muerte, para que el lector lo crea muerto sin dudarlo y el reveal de *Voto de Ceniza* le pegue más fuerte. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 25]].
 
 > **Cronología fijada (2026-09-18):** la redada ocurre cuando Chiara tiene **23 años** — cuatro años después de la muerte de Marta (19) y once antes de la apertura de la novela (34). Esta fecha conecta con una frase ya existente en [[02_Characters/Chiara_Bellandi]], "El oficio": *"No empezó por ambición: empezó apagando un incendio de familia a los veintitrés."* Lectura fijada: **ese "incendio de familia" es la redada y la caída pública de Corrado** — no un hecho distinto sin relación. Es la crisis que la obliga a aprender a administrar versiones, y de ahí, en diez años, construye la reputación con la que llega a San Aurelio a los 34.
 
@@ -67,7 +69,7 @@ Regla fija en [[00_Biblia/00_Trilogy_Structure]]:
 
 - **Santa Lucía no fue obra de Il Consorzio.** Corrado no resuelve, diseña, autoriza ni facilita la ejecución de Halbrook.
 - Su regreso responde a un cambio de equilibrio: mientras su ausencia protegía a Chiara, seguir "muerto" era útil. Después de la caída de Dario y del colapso del equilibrio de San Aurelio, esa ausencia empieza a favorecer más al enemigo que a su hija — y el ataque directo a Chiara en Santa Lucía rompe su umbral de tolerancia.
-- **El primer reveal es a Kal**, no a Chiara, la mañana posterior al atentado, mientras ella sigue hospitalizada e incapaz de recibir la noticia. Se presenta con su nombre completo; no necesita explicar quién es. El encuentro emocional con Chiara ocurre después y es **decisión de ella**, no de Kal ni de Corrado.
+- **El primer reveal es a Kal**, no a Chiara, mientras ella sigue en coma. ~~La mañana posterior al atentado. Se presenta con su nombre completo.~~ **CANON DEL AUTOR (2026-09-28):** ocurre en el cuarto del hospital, justo después de la ejecución de Halbrook. Kal abre la puerta, ve de espaldas a un hombre con la silueta de Halbrook y lleva la mano al arma. Primera voz de Corrado en prosa: *"Señor Mercer, no hace falta eso. No vengo a hacerle daño, ni a usted ni a ella."* Kal: *"¿Quién es usted?"* Corrado se vuelve y **no dice su nombre**: Kal lo reconoce por las fotografías de Villa Candelaria (Corrado y Marta bailando, la del [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo|Cap. 2]]; Corrado de espaldas en la playa con Chiara niña sobre los hombros, y el retrato familiar al óleo: Corrado de pie tras la silla de Marta, Chiara en el regazo de ella). La cara la da el retrato; el reconocimiento es la suma de las tres. Kal se queda sin palabras. Corrado: *"Creo que usted y yo tenemos que hablar."* **Fin de *Voto de Ceniza*.** No explica por qué vive, no pregunta por Chiara, no revela qué sabe, no menciona a Halbrook; la conversación no entra en el libro. Ver [[02_Characters/Warren_Halbrook]], "Muerte". El encuentro emocional con Chiara ocurre después y es **decisión de ella**, no de Kal ni de Corrado.
 - Corrado llega a ayudar, no a resolver la guerra: puede ofrecer inteligencia, contactos, confirmaciones y protección de la retaguardia italiana de Chiara. No mata a Halbrook, no derrota a Dario, no sustituye a Kal ni toma San Aurelio.
 
 ### El arco en *Cuentas de Sangre* (Libro III)
@@ -113,9 +115,9 @@ No es un personaje de campo. Su técnica es institucional y lenta: erosión pol�
 > **PENDIENTE:** qué información exacta ofrece a Kal la mañana de su reveal.
 > **PENDIENTE:** cuándo puede Chiara verlo médicamente después del atentado; su primera reacción exacta (abrazo, rechazo o inmovilidad).
 > **PENDIENTE:** el recuerdo específico de Chiara con Corrado sobre constelaciones, reservado en [[05_Locations/El_Mirador]].
-> **PENDIENTE:** cuándo se entera de que su nieta (Elenna) está viva, y si conoce a Riley antes del final.
+> **PENDIENTE:** cuándo se entera de que su nieta (Elenna) está viva, y si conoce a Bonnie antes del final.
 > **PENDIENTE:** qué relación queda entre Corrado y Kal, y si Corrado vive con ellos, cerca de ellos o mantiene casa propia al cierre de la trilogía.
 
 ---
 
-Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[12_Craft_Policies/revelations/SAGA_LEVEL]] · [[98_Agent_Handoff/ChatGPT/ENCARGO_ARCO_CHIARA_CORRADO]] · [[02_Characters/Chiara_Bellandi]]
+Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[12_Craft_Policies/revelations/SAGA_LEVEL]] · [[98_Agent_Handoff/archive/chatgpt/ENCARGO_ARCO_CHIARA_CORRADO]] · [[02_Characters/Chiara_Bellandi]]

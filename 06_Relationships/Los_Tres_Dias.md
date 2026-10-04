@@ -1,12 +1,14 @@
 # Los Tres Dias
 
+> **SUPERSEDIDO EN PARTE (2026-10-01, CANON DEL AUTOR):** "Los Tres Días" como alegoría D4–D6 se retira: Kal pasa ~9 días en Camp Alder. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
+
 *Kal y Chiara - reconstruccion domestica despues de F1*
 
 > **CANON DE DISEÑO (2026-08-23):** adaptacion para *Seda y Polvora* del documento fuente `LOS_TRES_DIAS_CONTEXTO.md`, aportado por el autor desde Descargas. No se copian sucesos ni nombres de la continuidad original; se toma el ADN emocional: regresar no es lo mismo que volver a casa.
 >
-> **ACTUALIZADO (2026-09-20, decision del autor — segunda correccion, sustituye la nota "Palermo -> Camp Alder -> liberacion" de la misma fecha).** F1 conserva su detonante y lugar originales -la mentira bajo la lluvia, en Bellandi Ridge- pero con causa nueva: nace de la investigacion discreta de Chiara sobre la salida de Matteo (apertura de la Parte III) y del uso de Riley Bennett sin avisarle a Kal (ver [[06_Relationships/Momentos_de_Fractura]], F1, para la version vigente). F1 ocurre **antes** de H13 / Palermo / Camp Alder, no despues. La estructura de Dia 1 / Dia 2 / Dia 3 y su ADN emocional no cambian.
+> **ACTUALIZADO (2026-09-20, decision del autor — segunda correccion, sustituye la nota "Palermo -> Camp Alder -> liberacion" de la misma fecha).** F1 conserva su detonante y lugar originales -la mentira bajo la lluvia, en Bellandi Ridge- pero con causa nueva: nace de la investigacion discreta de Chiara sobre la salida de Matteo (apertura de la Parte III) y del uso de Bonnie García sin avisarle a Kal (ver [[06_Relationships/Momentos_de_Fractura]], F1, para la version vigente). F1 ocurre **antes** de H13 / Palermo / Camp Alder, no despues. La estructura de Dia 1 / Dia 2 / Dia 3 y su ADN emocional no cambian.
 
-> **SUPERSEDIDO EN SU UBICACION (2026-09-21, CANON DEL AUTOR — ver [[11_Books/Book_01_Seda_y_Polvora/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]).** El bloque domestico de tres dias bajo un mismo techo **no ocurre antes de Camp Alder**: F1 (ahora en el penthouse, de noche, vispera de la incursion) no se resuelve, Chiara duerme en el penthouse y Kal en el loft, y al dia siguiente Kal cae preso. "Los tres dias" pasan a ser una **alegoria**: los tres dias que pasan separados sin buscarse, desde F1 hasta que Chiara encuentra a Kal en el loft a oscuras (cierre de Parte III). La tesis de este archivo (*Kal cruza una puerta al principio; solo al final vuelve a estar en casa*), su regla de escena (la domesticidad es el acontecimiento) y sus imagenes (cafe, cama, quien toca primero, *Ya estamos*) **se reutilizan comprimidas en la apertura de la Parte IV**: reconciliacion completa esa misma noche, los dos recostados en la cama, desayuno a la manana siguiente. Dia 1 / Dia 2 / Dia 3 dejan de ser tres dias de calendario; conservan su orden emocional (regresar → recordar → quedarse) dentro de una noche y una manana. La nota de 2026-09-20 de arriba (F1 antes de Palermo, Bellandi Ridge) ya estaba supersedida en posicion y ahora tambien en lugar.
+> **SUPERSEDIDO EN SU UBICACION (2026-09-21, CANON DEL AUTOR — ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]).** El bloque domestico de tres dias bajo un mismo techo **no ocurre antes de Camp Alder**: F1 (ahora en el penthouse, de noche, vispera de la incursion) no se resuelve, Chiara duerme en el penthouse y Kal en el loft, y al dia siguiente Kal cae preso. "Los tres dias" pasan a ser una **alegoria**: los tres dias que pasan separados sin buscarse, desde F1 hasta que Chiara encuentra a Kal en el loft a oscuras (cierre de Parte III). La tesis de este archivo (*Kal cruza una puerta al principio; solo al final vuelve a estar en casa*), su regla de escena (la domesticidad es el acontecimiento) y sus imagenes (cafe, cama, quien toca primero, *Ya estamos*) **se reutilizan comprimidas en la apertura de la Parte IV**: reconciliacion completa esa misma noche, los dos recostados en la cama, desayuno a la manana siguiente. Dia 1 / Dia 2 / Dia 3 dejan de ser tres dias de calendario; conservan su orden emocional (regresar → recordar → quedarse) dentro de una noche y una manana. La nota de 2026-09-20 de arriba (F1 antes de Palermo, Bellandi Ridge) ya estaba supersedida en posicion y ahora tambien en lugar.
 
 **Que es:** los tres dias posteriores a [[06_Relationships/Momentos_de_Fractura]], F1 - La mentira bajo la lluvia.
 
@@ -37,9 +39,9 @@ En la logica de esta pareja, eso es mas importante que una reconciliacion dramat
 La fractura viene de F1:
 
 - Despues de que Matteo se va de San Aurelio (apertura de la Parte III) con una explicacion razonable, Chiara no logra dejar la pregunta quieta y empieza a investigar discretamente, sin saber nada de Volpi, Varek ni La Mesa.
-- Obtiene una pista menor: la documentacion que hizo salir a Matteo no llego directamente desde Genova -paso antes por un servicio de mensajeria comercial de San Aurelio antes de llegar al Monarch. No prueba nada, pero le molesta. El vehiculo del mensajero queda registrado en una camara del Monarch (modelo, color, matricula, empresa). Chiara le pide a Riley Bennett encontrar el coche y decir quien lo usa -pidiendole que Kal no se entere todavia.
-- Kal le pregunta directamente algo equivalente a *"¿Supiste algo de Matteo?"* Chiara contesta *"Nada"* -mintiendo, porque ya tiene una pista y probablemente ya involucro a Riley.
-- Mientras Riley localiza el coche en Almendra Towing, un hombre la aborda sin amenaza explicita ("¿Buscas a alguien?" / "Entonces ya encontraste lo que buscabas") y despues otro coche la sigue varias calles antes de que lo pierda -el peligro se mueve al territorio de Kal, no al de Chiara. Eso la obliga a informarle a Kal. Kal reconstruye la mentira.
+- Obtiene una pista menor: la documentacion que hizo salir a Matteo no llego directamente desde Genova -paso antes por un servicio de mensajeria comercial de San Aurelio antes de llegar al Monarch. No prueba nada, pero le molesta. El vehiculo del mensajero queda registrado en una camara del Monarch (modelo, color, matricula, empresa). Chiara le pide a Bonnie García encontrar el coche y decir quien lo usa -pidiendole que Kal no se entere todavia.
+- Kal le pregunta directamente algo equivalente a *"¿Supiste algo de Matteo?"* Chiara contesta *"Nada"* -mintiendo, porque ya tiene una pista y probablemente ya involucro a Bonnie.
+- Mientras Bonnie localiza el coche en Almendra Towing, un hombre la aborda sin amenaza explicita ("¿Buscas a alguien?" / "Entonces ya encontraste lo que buscabas") y despues otro coche la sigue varias calles antes de que lo pierda -el peligro se mueve al territorio de Kal, no al de Chiara. Eso la obliga a informarle a Kal. Kal reconstruye la mentira.
 - Bajo la lluvia, en Bellandi Ridge, vestidos para una fiesta a la que ya no llegan, Kal le dice (linea de trabajo, no fijada como dialogo canon):
 
 > **No estoy enojado porque hayas buscado a Matteo. Estoy enojado porque te pregunte y me mentiste.**
@@ -213,7 +215,7 @@ Eso prepara fracturas futuras:
 - en **F4**, cuando Kal se va a Washington, Chiara entiende mejor lo que cuesta que el lugar quede vacio;
 - en **F3**, cuando casi lo pierde todo con los frenos, Kal entiende que volver vivo no siempre depende de el;
 - en **Camp Alder** (H19-H20), mas adelante en la misma Parte III, esta reconciliacion ya reparada es lo que permite que Kal y Chiara esten bien cuando Halbrook abre la ventana -ver [[06_Relationships/Momentos_de_Fractura]], F1, "Recuperacion antes de Camp Alder";
-- en **F2**, cuando Riley desaparece y Mei-Lin muere, los dos ya saben que hay vacios que se habitan juntos o se vuelven grieta.
+- en **F2**, cuando Bonnie desaparece y Mei-Lin muere, los dos ya saben que hay vacios que se habitan juntos o se vuelven grieta.
 
 ---
 
@@ -295,8 +297,8 @@ Estos motivos pueden aparecer literal o quedar como guia de escena:
 - Decidir si Kal duerme fuera de la cama la primera noche o si se acuesta con demasiada distancia.
 - Elegir quien dice **"Ya estamos"**.
 - Decidir si aparece literalmente **"Aqui duermo mejor"** o si queda como subtexto.
-- Confirmar o ajustar el motivo **"No era la pista"** (equivalente de "No era el auto" para la causa vigente de F1: Matteo / Riley).
-- ~~Objeto exacto de la pista de Matteo e incidente exacto de Riley.~~ **RESUELTO (2026-09-20)** -ver [[06_Relationships/Momentos_de_Fractura]], F1, "Pendientes".
+- Confirmar o ajustar el motivo **"No era la pista"** (equivalente de "No era el auto" para la causa vigente de F1: Matteo / Bonnie).
+- ~~Objeto exacto de la pista de Matteo e incidente exacto de Bonnie.~~ **RESUELTO (2026-09-20)** -ver [[06_Relationships/Momentos_de_Fractura]], F1, "Pendientes".
 
 ---
 

@@ -98,6 +98,15 @@ Prohibido fijar objetivos como "reducir *como si* un X%", "eliminar N *demasiado
 
 Tras varias rondas editoriales sobre el mismo material, cambiar la pregunta de control: en vez de "¿qué puedo mejorar?", preguntar "¿estoy empezando a eliminar rareza, ritmo o voz solo porque puedo?". Una prosa limpia pero genérica es un fracaso editorial, no un éxito silencioso.
 
+## L. El narrador no adelanta el futuro (canon del autor, 2026-09-26)
+
+El narrador no le promete al lector lo que va a pasar. Protege la integridad de la lectura: el lector descubre la historia al mismo tiempo que los personajes la viven, no antes.
+
+- **Prohibido (PROLEPSIS DE NARRADOR):** frases del tipo "no podía saber que…", "todavía no sabía que iba a necesitar…", "faltaban semanas para que todo terminara", "años después recordaría…", o cualquier formulación que confirme un hecho posterior al presente de la escena, aunque sea vago. Tampoco vale anunciar una catástrofe dentro de un recuerdo cuando esa catástrofe se revela más adelante en el libro.
+- **Permitido:** lo que el personaje cree o espera en ese momento, aunque sea falso ("Pensó que San Aurelio sería eso: una escala"); la ironía queda en manos del lector. También la memoria del POV sobre lo que ya vivió ("por alguna razón que entonces no supo nombrar"), siempre que no anticipe una revelación reservada ([[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]]).
+- **Guiños:** una alusión a instituciones o familias que ya existen en el presente de la escena (la mesa, las familias) es válida si no explica su función futura. Si el guiño necesita glosa para entenderse, sobra.
+- **Intervención:** se corta. No se reformula como insinuación más suave, porque el problema es el anuncio, no el tono.
+
 ## Uso del auditor
 
 El piloto y su criterio están en [[12_Craft_Policies/editorial/PILOT_01_10]]. La operación técnica está en `tools/editorial/README.md`.

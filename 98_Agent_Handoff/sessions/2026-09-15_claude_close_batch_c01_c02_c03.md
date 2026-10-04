@@ -1,6 +1,6 @@
 # CLOSE BATCH — C01 / C02 / C03 (2026-09-15, Claude Code)
 
-Encargo del autor: ejecutar lifecycle CLOSE, de forma independiente, sobre los tres capítulos fundacionales de Book I — [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable]], [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/02_Demasiado_Listo]] y [[11_Books/Book_01_Seda_y_Polvora/Part_01_Dos_Mundos/03_Los_Viejos_Dias]]. Modo CLOSE: sin AUDIT, sin SURGERY, sin VERIFY nuevo, sin microedición, sin reapertura de M3 ni M5.
+Encargo del autor: ejecutar lifecycle CLOSE, de forma independiente, sobre los tres capítulos fundacionales de Book I — [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable]], [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo]] y [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias]]. Modo CLOSE: sin AUDIT, sin SURGERY, sin VERIFY nuevo, sin microedición, sin reapertura de M3 ni M5.
 
 Nomenclatura: se evaluó la prosa vigente en `develop` (rutas `Part_01_Dos_Mundos`, nombre `Kal Mercer`). Las referencias a `Part_01_El_Encuentro_Y_La_Nada` y `Cole Mercer` en los reportes M3/M5 son históricas y no se tradujeron como inconsistencia.
 

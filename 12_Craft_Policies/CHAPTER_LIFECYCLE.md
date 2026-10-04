@@ -64,7 +64,7 @@ Si existe problema estructural: **BLOCKED**. No intentar solucionarlo mediante m
 
 Confirmar, según aplique: cronología, canon, conocimiento de personajes, orden de revelaciones, relaciones, objetos recurrentes, seeds, callbacks, consecuencias previas.
 
-No exige releer todo el vault. Usar los ledgers e índices correspondientes ([[12_Craft_Policies/revelations/Book_01_Seda_y_Polvora]], [[12_Craft_Policies/milestones/INDEX]], `06_Relationships/Hitos.md`).
+No exige releer todo el vault. Usar los ledgers e índices correspondientes ([[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]], [[12_Craft_Policies/milestones/INDEX]], `06_Relationships/Hitos.md`).
 
 ### Gate C — Voz y focalización
 
