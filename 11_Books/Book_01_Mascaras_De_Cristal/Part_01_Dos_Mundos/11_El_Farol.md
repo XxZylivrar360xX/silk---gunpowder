@@ -6,6 +6,7 @@ Protagonistas: Chiara Bellandi, con apariciones de Mabel Ortiz, Walter "Walt" Ke
 Ventana temporal: despues del Capitulo 10 (la casa del loft ya terminada y estrenada). Chiara deja cosas suyas en la casa de Kal por costumbre, pero conserva el penthouse como base.
 Lugares: El Penthouse, La Esquina de Mabel (La Almendra), The Monarch Casino & Hotel (piso de juego, torneo de poker).
 Funcion: beats 12 y 12-b. Red civil de Chiara (Mabel); primer reencuentro Walt/Mabel visto por Chiara; primer torneo de poker (Walt miente en la mesa); nace la sociedad de la destileria, separada del casino.
+Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); sigue BORRADOR): Mabel, fuera "Yo solo sirvo cafe" (queda "Yo no dije para que" como eco con variacion del Cap. 1) y fuera el remate "Eso, en este barrio, asusta mas que un arma" (decision del autor; supersede la linea "Se conserva" de arriba en ese punto).
 -->
 
 # Capítulo 11 — El farol
@@ -54,7 +55,7 @@ Mabel puso la taza frente a ella y se limpió las manos en el delantal, decidien
 
 —¿Para la entrada?
 
-—Yo no dije para qué. Yo sólo sirvo café.
+—Yo no dije para qué.
 
 —¿Se lo contó él?
 
@@ -72,7 +73,7 @@ Mabel dejó de limpiar la barra a la mitad del gesto, el trapo quieto sobre la m
 
 —Mi gerente lo marcó para verificar solvencia.
 
-—Que lo verifique. Va a encontrar a un hombre honesto. —Mabel dijo la palabra como si fuera la más rara del idioma—. Eso, en este barrio, asusta más que un arma.
+—Que lo verifique. Va a encontrar a un hombre honesto. —Mabel dijo la palabra como si fuera la más rara del idioma.
 
 La campanita de la puerta sonó tarde, como sonaba siempre.
 

@@ -18,7 +18,9 @@ Función: celebración coral que se convierte en el gatillo del viaje a Palermo.
 - Pañuelo y bala mostrados físicamente; Kal recibe la bala en la mano — es lo que lo decide, tal como fija el canon. **Sin forense** (corrección del autor): Kal la gira y dice "Es corriente" / "Que no nos lleva a nadie"; la ausencia de pista es el dato, no una munición imposible de rastrear. "Esto tampoco lleva a nadie. Pero el que lo mandó, sí." Conexión con H12 sin recap largo. Chiara **cree**, no afirma, que Il Consorzio estuvo detrás del atentado.
 - Tercera pasada (2026-09-20, pulido de línea conservador, encargo del autor, skill `editorial-surgery` modo SURGERY, Claude Opus 5): 24 intervenciones de superficie — repeticiones lexicales ("exactamente", "No hacía falta", "un momento largo", "barco alquilado"), glosa corporal en la proa, un residuo "otro barco" en el símil tras el piano, una inconsistencia física ("manos en el regazo" de pie), dos sobrepasos de focalización (Blake "entendió", Kal "sin darse cuenta"), poda de una imagen en el párrafo de las manos, "latón limpio" retirado por eco forense, "una sola luz" vs. fluorescente. Ningún beat, hecho, línea canon ni orden tocado. Detalle before/after en `CURRENT_BRIEF.md`.
 - Segunda pasada (correcciones del autor, misma fecha): cortada la glosa transaccional antes de "Está bien" ("la cuenta estaba de su lado") — Chiara sólo lo mira y decide; lo de Blake sin duración fijada ("Un tiempo") ni instrucciones de Palermo citadas; cortada la frase final "Ya no había nadie en la línea." — la última línea del capítulo es literalmente "—Espera... ¿cómo que estamos?".
-- **"Me voy esta noche."** Palermo esa misma madrugada. Motivo: "no sé si voy a regresar íntegra" (palabra preservada). La fiesta era también despedida privada; Chiara no canceló al recibir la amenaza. Kal: **"Voy contigo."** Inmediato, no posesivo; no impide, acompaña. H17 activado. Palermo NO escrito.
+- **CONVERSACIÓN DE LA VÍSPERA (2026-10-05, decisión del autor; prosa DISEÑO pendiente de lectura):** material de la fuente reescrito en voz propia, en dos tramos. (1) Nueva sección tras "Y se lo quedó." (Roma Atrii) y antes de "Hay otra cosa": "¿De qué tienes miedo?" (eco del Cap. 18), "quiero grabármelo", el espejo cuarenta veces, "Aquí estoy, ¿no?", el agradecimiento de Chiara (la tumba que se cavó sola), "no hablemos de frenos", Kal y la vida civil (el arma bajo la almohada), la palma en el hombro. "Chiara se apartó de la mano" → "Chiara retiró la mano". (2) Tras "íntegra" y antes de que Kal se levante: "No quiero que te pase nada", "¿Va a estar todo bien?", "No te noto convencido", "Tengo ganas de que ya estés de vuelta" (decisión del autor: va antes de que Kal decida ir). Fuera, por decisión del autor: "vaya día" / golf / pesca. Arrastre por la carta nueva del 37: "El día entero que le había prometido en la carta" → "que le había pedido"; "Nadie lo supo" → "Tú lo sabías por la carta; los demás no".
+- **LÍNEAS DEL AUTOR (2026-10-04, CANON DEL AUTOR; sustituyen a las inviolables "Me voy esta noche." / "Voy contigo."):** Chiara: **"Me queda una noche antes de irme."**; Kal: **"Bien. Entonces nos vamos a Italia."** Origen: el autor fecha el viaje en la víspera, con el mundo afuera en tormenta. Arrastre mínimo: "¿Esta noche?" / "Esta noche." → "¿Ésta?" / "Ésta."; "una vez antes de irme" → "una última vez" (eco). El resto del bloque, intacto. Material posterior de la misma fuente: PENDIENTE de ubicar.
+- **(Histórico) "Me voy esta noche."** Palermo esa misma madrugada. Motivo: "no sé si voy a regresar íntegra" (palabra preservada). La fiesta era también despedida privada; Chiara no canceló al recibir la amenaza. Kal: **"Voy contigo."** Inmediato, no posesivo; no impide, acompaña. H17 activado. Palermo NO escrito.
 - **Aeropuerto:** Kingsley Field, terminal privada, ~4:00 a. m., sin minuto exacto. Marisol llama (sigue despierta, de regreso de la fiesta). Líneas canon: "—Olvidé mencionarlo hace rato en la fiesta. Tengo que salir. Ya sabes. Negocios." / "—¿Negocios en sábado, qué...?" / "—Ahhhh, tu negocio es una bella y cariñosa italiana." / "—Marisol." / "—Te perdono solo porque cuando estamos enamorados, las explicaciones sobran." / última línea: **"—Espera... ¿cómo que estamos?"** Corte ahí, sin reflexión ni despegue.
 - Sembrado antes, en la fiesta: el fin de semana en el campo de Kal y Marisol a fin de mes, para que la llamada tenga de qué colgarse.
 - Dario presente, observa, habla poco, se va temprano; una sola línea sobre Kal y Chiara como unidad ("su gente"). No revela nada. Fabrizio cercano todavía (hace el brindis que habría hecho Matteo). Tommaso vivo, funcional, con los Ferretti. Matteo: su ausencia se siente en el brindis y en una pregunta de invitado; sin investigación.
@@ -29,7 +31,7 @@ Función: celebración coral que se convierte en el gatillo del viaje a Palermo.
 
 # Capítulo 38 — Al revés
 
-El día entero que le había prometido en la carta se había gastado a la hora exacta, sin sobrar ni faltar un minuto, y ahora Chiara lo sentía todavía en los hombros como se siente el sol después de haberse ido: un desayuno largo en el loft, la costa de tarde, la pregunta que él no había hecho ni una sola vez en todas esas horas y que ella había visto pasarle por la cara cada vez que alguien decía *Roma* por casualidad.
+El día entero que le había pedido se había gastado a la hora exacta, sin sobrar ni faltar un minuto, y ahora Chiara lo sentía todavía en los hombros como se siente el sol después de haberse ido: un desayuno largo en el loft, la costa de tarde, la pregunta que él no había hecho ni una sola vez en todas esas horas y que ella había visto pasarle por la cara cada vez que alguien decía *Roma* por casualidad.
 
 No la iba a hacer. Ella lo sabía. Él también.
 
@@ -447,7 +449,69 @@ Y se lo quedó.
 
 ---
 
-Chiara se apartó de la mano primero.
+Afuera alguien había subido la música y la había vuelto a bajar. En el salón no quedaba nadie más que ellos y el piano.
+
+—¿Y ahora? —preguntó Kal—. ¿De qué tienes miedo?
+
+Chiara tardó en entender que era la misma pregunta de aquella noche en el auto, frente a las puertas de vidrio del Monarch, con la nube sin romperse.
+
+—De nada —dijo—. Ahora, de nada.
+
+—Entonces ya está. Estamos solos. No hay nadie del otro lado de esa puerta que nos importe. No hay nada de qué tener miedo.
+
+—Tengo que sostenerlo mañana también. Y pasado. —Giró la pulsera en la muñeca—. Quiero grabármelo.
+
+—Mañana, cuando te despiertes, te lo voy a hacer repetir cuarenta veces frente al espejo. —Kal lo dijo con la cara seria—. En italiano. En chino. En lo que haga falta.
+
+—Espero que tengas paciencia.
+
+—Aquí estoy, ¿no?
+
+Chiara no le dijo dónde iba a estar mañana.
+
+—Gracias —dijo en cambio.
+
+—¿De qué?
+
+—No te imaginas. —Lo dijo bajo, y lo repitió, porque la primera vez no le había salido entera—. No tienes ni idea, Kal.
+
+—A mí no tienes que darme las gracias de nada.
+
+—Claro que sí. Siempre. Y ahora más.
+
+—¿Por qué ahora?
+
+Chiara lo ordenó antes de decirlo, como ordenaba todo, y aun así no le salió en orden.
+
+—Porque me dejaste enseñar quién soy. Y vivir tranquila, a gusto. Me levantaste cuando tropecé. Y cuando tropezando me cavé yo sola la tumba, me diste la mano igual.
+
+Kal se quedó mirando el teclado.
+
+—Entonces no hablemos de frenos —dijo—. Ni de nada de eso. Yo estoy bien así. Lo que tenga que venir, que venga.
+
+—Necesito esa filosofía tuya en la cabeza.
+
+—Yo no pensaba así. —Pasó el pulgar por el borde de una tecla sin hundirla—. Hubo un tiempo en que no quería tratar con nadie. No de la forma que piensas. Con nadie, en general. Con la gente. —Una pausa—. Se vive mejor con gente al lado. Con la que uno está a gusto. Amigos, o como se llame.
+
+—Se te nota.
+
+—Te das cuenta de cosas que yo no. —Una pausa—. Cuando volví a la vida civil, lo que más me costó fue apagar la cabeza. Dormir. Oír un ruido en la calle y que fuera sólo un ruido.
+
+Chiara le puso la palma en el hombro. Despacio, sin apretar, el tiempo que tarda una mano en decidir que se queda.
+
+—¿Todavía te pasa?
+
+—¿Qué cosa?
+
+—Eso. Tener la cabeza en otro lado.
+
+—Casi nunca. Dejé de dormir con el arma bajo la almohada. —Se encogió apenas, debajo de la mano de ella—. Estos días ha habido presión. Hay que estar atento a todo.
+
+—Está bien que estés atento.
+
+---
+
+Chiara retiró la mano primero.
 
 No de golpe. Despacio, como quien se retira de una habitación tibia porque hay otra cosa que hacer en una fría. Se enderezó en el banco y se miró las manos.
 
@@ -553,15 +617,15 @@ Chiara no contestó enseguida.
 
 Kal asintió, y por fin le devolvió el pañuelo. Chiara lo guardó en el bolso, en el mismo lugar, y cerró el bolso, y se quedó de pie junto al sillón con las dos manos apoyadas en el respaldo.
 
-—Me voy esta noche —dijo.
+—Me queda una noche antes de irme —dijo.
 
 Kal levantó la cabeza.
 
 —A Palermo. Hay un avión en Kingsley a las cuatro. Lo arreglé ayer.
 
-—¿Esta noche?
+—¿Ésta?
 
-—Esta noche. —No le tembló la voz, y Chiara se lo agradeció a su propia voz—. Cuando mandé las invitaciones todavía no había pasado nada. Después pasó. Y pensé en cancelar, y no cancelé, porque quería verlos a todos juntos una vez antes de irme. A los del Monarch. A los tuyos. A Marisol. A Héctor con su whisky. —Casi sonrió—. Fue una despedida. Nadie lo supo, y así tenía que ser. Pero fue eso.
+—Ésta. —No le tembló la voz, y Chiara se lo agradeció a su propia voz—. Cuando mandé las invitaciones todavía no había pasado nada. Después pasó. Y pensé en cancelar, y no cancelé, porque quería verlos a todos juntos una última vez. A los del Monarch. A los tuyos. A Marisol. A Héctor con su whisky. —Casi sonrió—. Fue una despedida. Tú lo sabías por la carta; los demás no, y así tenía que ser.
 
 —¿Cuánto tiempo?
 
@@ -575,11 +639,29 @@ Se oyó decirlo, y se oyó también, un segundo después, que era la misma frase
 
 —Con todo lo que me llevo. —Lo miró—. El apellido. El casino. El diario. Lo que tú y yo somos. La Mesa no quita una cosa, Kal. Quita la parte de la cosa que le estorba, y deja el resto para que uno siga caminando. Yo lo he visto hacer. —Respiró—. No sé con cuánto de mí vuelvo. Eso es lo que no sé.
 
+—No quiero que te pase nada —dijo Kal—. Y menos si lo puedo impedir.
+
+—No me va a pasar nada.
+
+—¿Va a estar todo bien?
+
+—Sí. Claro que sí. —Lo dijo, y lo dijo otra vez, más despacio, para él—: Escúchame. Va a estar todo bien. ¿Estás conmigo?
+
+—Claro.
+
+—No te noto convencido.
+
+Kal miró la tapa del piano, donde un rato antes había estado el pañuelo.
+
+—Tengo ganas de que ya estés de vuelta. Que esto se quede en un recuerdo y ya.
+
+—Yo también. —Y luego—: Y así va a ser.
+
 Kal se levantó del banco.
 
 Lo hizo sin apuro y sin gesto, con las manos a los lados, y se quedó de pie frente a ella a un metro de distancia, sin acortarlo.
 
-—Voy contigo.
+—Bien. Entonces nos vamos a Italia.
 
 Chiara cerró los ojos un segundo.
 

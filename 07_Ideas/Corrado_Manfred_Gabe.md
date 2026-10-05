@@ -20,7 +20,7 @@
 | 11 | Redada en Palermo. Falsa muerte. Corrado llega a San Aurelio. |
 | 10 | Walt entra preso (diez años). Empiezan las cartas. |
 | 0 | Il Consorzio manda a Chiara a San Aurelio (Cap. 2). Walt sale (Cap. 3). |
-| Libro I | Cap. 9: atentado en el corral. Corrado interviene y se esfuma. |
+| Libro I | Cap. 24c (antes 9): atentado en el corral. Corrado interviene y se esfuma. |
 | Libro III | Santa Lucía → coda de *Voto de Ceniza*: Corrado frente a Kal. |
 | Libro IV | Apertura de *Cuentas de Sangre*: Corrado cuenta todo esto a Kal. |
 

@@ -17,6 +17,7 @@ Función: ejecuta [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza o
 - La llave entregada al cierre es la del **loft de La Almendra** (no del Penthouse de Chiara, que es donde Kal la recoge) — coherente con el canon ya fijado de H16 en [[06_Relationships/Hitos]] y con el resto de Parte III. Si el autor quería la llave del Penthouse en su lugar, es un cambio de una escena, no de arquitectura.
 - No se escribe todavía la investigación de Chiara sobre Matteo, Bonnie García, Ren Wei, H13 ni ningún material de Palermo — pertenecen a bloques posteriores del mismo tercio de Ardizzone.
 - El doble fondo / caja de acero (H14, evoluciona a caja fuerte de ambos "sin escena de propiedad") se cierra con una imagen mínima, sin diálogo ni ceremonia, tal como exige su canon.
+- **CARTA DE KAL (2026-10-05, CANON DEL AUTOR):** el texto de la carta se sustituyó por *La Notte Bellandi* y se lee entero en el Cap. 37. Aquí sólo se ve a Chiara escribirla; "No la firmó con su nombre" (firma: Roma Atrii).
 - **Coda de las invitaciones del yate — trasladada del [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35]] en E5 (2026-09-27, Q1; nota original del 35, 2026-09-20, encargo directo del autor):** fiesta en un yate en la costa, este viernes — NO es el cumpleaños de Chiara (ver H16 en el Cap. 36, evento separado). Es una fiesta cualquiera que ella organiza; cien invitaciones idénticas de imprenta, sin nombres propios en el cuerpo. Sólo la de Kal es distinta: escrita a mano por Chiara, con el cierre cifrado "Te veo, con mucha Roma" — CANON DEL AUTOR, texto dado casi textual. No se explica el juego de palabras en prosa (ni aquí ni en capítulos futuros hasta que ella se lo explique a Kal, ver abajo); el capítulo deja sólo la satisfacción privada de Chiara al escribirlo.
 - **CORRECCIÓN DE CONTINUIDAD (2026-09-20, mismo encargo):** se eliminó la cifra "dos días después" que fijaba las invitaciones muy cerca de la llamada principal del capítulo — chocaba con que el Cap. 36 (H16) ocurre tres semanas después de este capítulo y con que Kal debe leer la invitación recién en el Cap. 37, posterior a H16. La escena ya no lleva marcador temporal explícito; **queda flotando después del resto del capítulo, libre para caer después de H16 en la cronología real.** No se introdujo fecha nueva. El evento y su contenido emocional no cambiaron.
 - **Cronología de la coda (E5):** cae unos días después del cumpleaños y antes de la mañana del [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/37_Cuatro_Letras|Cap. 37]] (Kal encuentra la carta en la cafetera del loft) y de H13 ("hace unos días" en el 38). Sin marcador temporal en prosa: el blanco de sección basta; no escribir "días después". En el 35 estaba "flotando" después de un capítulo que ocurre tres semanas antes de H16; por eso se movió. "Nada de cumpleaños." leída aquí, justo después del cumpleaños, es precisa. C5 comprimió las dos frases de las "noventa y nueve" (repetían 211 y dejaban la aritmética en 101).
@@ -255,15 +256,7 @@ Las firmó una por una, de pie junto al escritorio, con la misma rúbrica rápid
 
 La de Kal la dejó para el final.
 
-No usó la de la imprenta. Sacó su propio papel —el bueno, el que olía a lo que ella olía— y escribió a mano algo que no cabía en el molde de las otras noventa y nueve.
-
-*Kal.*
-
-*La velada de este viernes voy a celebrar una fiesta en un yate, en la costa. Muchos estarán invitados, pero antes de la fiesta quiero pasar el día contigo, y quizá podamos tener una velada mágica. Te veré ahí.*
-
-*Te veo, con mucha Roma.*
-
-*—Chiara*
+No usó la de la imprenta. Sacó su propio papel —el bueno, el que olía a lo que ella olía— y escribió a mano algo que no cabía en el molde de las otras noventa y nueve. No la firmó con su nombre.
 
 La releyó una vez, dobló el papel, y algo parecido a una sonrisa —de las que no llegan del todo a la boca— le cruzó la cara sola, sin testigos, en un despacho que todavía no era suyo.
 

@@ -9,6 +9,7 @@ Textura (2026-09-29, a pedido del autor): del telefono a Kal hasta el cierre se 
 Escalon relacional: Cap. 2 "quiza pueda obtener algo de el" -> Cap. 4 "lo llame y aparecio" (prueba practica no autorizada: "tenia razon sobre el") -> apertura del Cap. 5, reunion privada sin socios ("ya lo obtuve"; anadida 2026-09-29, autor) -> Cap. 5 "quiero seguir hablando aunque no necesite nada".
 Dialogo K/C reescrito (2026-10-03, direccion del autor: respeto; los dos quieren algo del otro sin saberlo del todo ni tener confianza para decirlo; el favor no le sirve a Chiara y la empuja a fijar terminos en el 5). DISENO del agente, BORRADOR pendiente de lectura; ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I.md §7. Llamada: fuera "Eso dice el letrero", "No pregunte donde esta usted" y "Un diagnostico"; entran "¿Lo desperte? / Ojala", "Su mesa me dijo que no", el malentendido "¿Y usted?" (ella contesta lugar; el pregunta quien llama), la respuesta que ella esquiva y que el no cobra. Ventanilla: fuera "Entretenimiento / Ensenable"; Kal se niega a facturar "lo demas" y le da "una que pueda ensenar"; lo otro queda fuera de la hoja. Cierre: "hizo una sola pregunta que importaba. Ella no la contesto. El no la repitio." El mensaje "La factura completa. Por favor." ahora reclama lo no facturado.
 Funcion: abrir el dia de Chiara (Keene como comunicado, Tommaso, Blake) y mostrar el primer favor bajo la mesa, el error funcional de Blake y la incomodidad de Chiara al aceptar ayuda de Kal.
+Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); el estado se conserva; DISENO pendiente de lectura): el narrador decia que Tommaso la llamaba por su nombre de pila; ahora "Le bastaba con llamarla Bellandi" (regla dura de su ficha).
 -->
 
 # Capítulo 4 — Tarifa nocturna
@@ -95,7 +96,7 @@ Fabrizio bajó la voz.
 
 Ella no apartó la mirada de Tommaso.
 
-El roce venía desde antes de San Aurelio, desde antes del casino. Tommaso no necesitaba nombrar a Alessio para traerlo. Le bastaba con pronunciar su nombre de pila con una familiaridad cuidadosamente vencida.
+El roce venía desde antes de San Aurelio, desde antes del casino. Tommaso no necesitaba nombrar a Alessio para traerlo. Le bastaba con llamarla Bellandi, con una cortesía cuidadosamente vencida.
 
 —La familia siempre agradeció tu capacidad para ordenar versiones —dijo él.
 

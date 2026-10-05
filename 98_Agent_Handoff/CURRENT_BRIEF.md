@@ -1,49 +1,58 @@
 # Current Brief
 
-Actualizado: 2026-10-04. Estado vigente; máximo 800 palabras. Sustituir información superada, no acumular sesiones. Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-10-03_CURRENT_BRIEF]].
+Actualizado: 2026-10-04. Estado vigente; máximo 800 palabras. Sustituir información superada, no acumular sesiones. Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-10-04_CURRENT_BRIEF]].
 
 ## Foco y siguiente paso
 
-1. **Lectura del autor del arco final del Libro I (Caps. 44–50b), puerta 2** de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]] (E0–E5 hechas, Q1–Q25 aplicadas y aprobadas). Después, microedición E6–E8. Los ocho capítulos siguen BORRADOR.
-2. **Cascada pendiente** cuando el autor cierre esa lectura: Book Maps I y II, `01_Timeline`, Nota Editorial y supersesiones #19/#25 de [[00_Biblia/00_Trilogy_Structure]], que aún dicen que el Libro I cierra en el 44.
-3. **Reubicación del Corral (2026-10-04, CANON DEL AUTOR), ejecutada en BORRADOR:** nuevo Cap. 9 *La balanza* y Corral como 24c (con el parador y el beat de la cama del autor). AUDIT y SURGERY del 24c hechos ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_24c_El_Corral]] §8, [[98_Agent_Handoff/sessions/2026-10-04_claude_surgery_24c]]). CANON: la reunión del 13 de la carta es la razón del viaje a Palermo después del cumpleaños; el supervisor de Eagle Eye se llama Charles (sembrado en el 22). CANON: la Mesa es el 13 de diciembre y la Parte II no lo menciona. El Cap. 38 ya está conciliado (BORRADOR; la fiesta del yate cae el viernes 10). Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Reubicacion_Corral]].
-4. **Parador del 24c integrado (2026-10-04, BORRADOR):** diálogo calibrado del autor (Caluca de Eagle Eye Security, carta de Il Consorzio, Kenji, Vivian, Trix). Falta lectura. [[98_Agent_Handoff/sessions/2026-10-04_claude_parador_24c]]
-5. **Cap. 34 *Mi pareja* ampliado (2026-10-04, BORRADOR):** diálogo cómico del autor reconducido a la destilería y SURGERY de fluidez. Falta lectura. [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]].
-6. Lista operativa en [[98_Agent_Handoff/PENDING]].
+1. **Lectura del autor del arco final (Caps. 44–50b), puerta 2** de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]]; después, microedición E6–E8. Los ocho capítulos siguen BORRADOR. Al cerrar: cascada (Book Maps I y II, `01_Timeline`, Nota Editorial, supersesiones #19/#25 de [[00_Biblia/00_Trilogy_Structure]]).
+2. **Auditoría de diálogo de terceros (Parte I):** [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]. Fichas de voz hechas; Cap. 1 (Matteo) operado. Sigue el Cap. 17 (Walt), con dirección del autor. Relevo: [[98_Agent_Handoff/sessions/2026-10-04_claude_auditoria_dialogo_terceros]]. Segunda tanda (Héctor, Natalie, Marisol, Irene, Enzo, Harper, Lucía) diagnosticada en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I_Tanda_2]]; decisiones del autor en su §5 (Harper creció en rancho: CANON) y fichas hechas; cirugía en cinco sesiones paralelas según [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]] (las sesiones no tocan archivos compartidos; consolida S0).
+3. **Corral reubicado (CANON 2026-10-04, BORRADOR):** nuevo Cap. 9 *La balanza*; el Corral pasa a ser el 24c, con el parador. AUDIT y SURGERY hechos ([[98_Agent_Handoff/sessions/2026-10-04_claude_surgery_24c]]); el 38 ya está conciliado. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Reubicacion_Corral]].
+4. **Día nublado / víspera de Italia (2026-10-04):** conversación del miedo en el Cap. 18 y de la víspera en el 38 (DISEÑO); líneas del autor en el 38 y carta *La Notte Bellandi* en el 37 (CANON). Falta la subida con lluvia del 18 ([[98_Agent_Handoff/sessions/2026-10-04_claude_dia_nublado_vispera_italia]]).
+5. Lista operativa: [[98_Agent_Handoff/PENDING]].
 
 ## Saga (CANON DEL AUTOR)
 
-- *Seda y Pólvora* es la saga; siete libros: I *Máscaras de Cristal* · II *Sombras de Poder* · III *Voto de Ceniza* · IV *Cuentas de Sangre* · V *Juramento de Hierro* · VI *Hijos del Silencio* · VII *Camino a Casa* (V–VII: trilogía de Elenna). Fronteras en [[00_Biblia/00_Trilogy_Structure]].
-- **Trilogía de Elenna:** integración PROYECTO RECLUTA cerrada (lotes 1–4, 2026-10-03). Claves: Blake mató a los Marsh (noche en el Libro I; en el Cap. 29 Varek esconde al niño, reescritura PENDIENTE); el VI cierra con Elenna herida en un asalto bancario ajeno a la trama; hangar 4–5 capítulos después de abrir el VII. Detalle: [[98_Agent_Handoff/sessions/2026-10-03_claude_trilogia_elenna_lote1|lote 1]] · [[98_Agent_Handoff/sessions/2026-10-03_claude_trilogia_elenna_lote2|2]] · [[98_Agent_Handoff/sessions/2026-10-03_claude_trilogia_elenna_lote3|3]] · [[98_Agent_Handoff/sessions/2026-10-03_claude_trilogia_elenna_lote4|4]].
-- **Cierre del Libro II (2026-10-02):** reveal del embarazo la noche de H1, en la chimenea de Villa Candelaria; Elenna concebida en Stavanger (canonizado); anillo = robo de joyería. [[98_Agent_Handoff/sessions/2026-10-02_claude_cap50b_cierre_libro_ii_stavanger]].
-- **Halbrook reconstruido (2026-09-28):** lo mata Harper en su discurso de victoria; cierra *Voto de Ceniza*. [[02_Characters/Warren_Halbrook]] · [[98_Agent_Handoff/sessions/2026-09-28_claude_reconstruccion_halbrook]].
-- **Incubadora sin propagar:** [[07_Ideas/Corrado_Manfred_Gabe]] (Corrado como Manfred Gabe; llamada del Cap. 9; atacante contratado por Volpi). Faltan pendientes antes de tocar fichas canon.
+- Siete libros: I *Máscaras de Cristal* · II *Sombras de Poder* · III *Voto de Ceniza* · IV *Cuentas de Sangre* · V–VII, la trilogía de Elenna (*Juramento de Hierro*, *Hijos del Silencio*, *Camino a Casa*). Fronteras: [[00_Biblia/00_Trilogy_Structure]].
+- **Trilogía de Elenna** (lotes 1–4 cerrados 2026-10-03): [[98_Agent_Handoff/sessions/2026-10-03_claude_trilogia_elenna_lote4]] y anteriores.
+- **Cierre del Libro II:** reveal del embarazo la noche de H1 en Villa Candelaria; Elenna concebida en Stavanger ([[98_Agent_Handoff/sessions/2026-10-02_claude_cap50b_cierre_libro_ii_stavanger]]).
+- **Halbrook:** lo mata Harper en su discurso de victoria; cierra *Voto de Ceniza* ([[02_Characters/Warren_Halbrook]]).
+- **Michael Ardizzone, Corrado como Manfred Gabe, Iris, Elenna y Michael (2026-10-04):** [[98_Agent_Handoff/sessions/2026-10-04_claude_fichas_evolucion_michael_ardizzone]], [[06_Relationships/Michael_e_Iris]], [[06_Relationships/Elenna_y_Michael]].
+- **Aura de la pareja (2026-10-04):** juntos imponen ("perdón por mirarlos"); es fundacional para los Libros II y III; se escribe desde el tercero que entra ([[06_Relationships/Kal_y_Chiara]], "El aura"). Bancos de vestuario en las fichas de Kal y de Chiara.
 
 ## Estado del manuscrito (Libro I)
 
-- **Caps. 1–50b completos en prosa.** Parte I (1–25, con 24b), Parte II (26–34), Parte III (35–50); el 50b *La tierra bajo sus botas* cierra el libro (sin la palabra "epílogo"). "—Ciao, bella." es la última línea del 50, no del libro. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
-- Estados por capítulo: metadata de cada archivo y [[12_Craft_Policies/CHAPTER_STATUS]]. Escrito no es aprobado.
-- **Auditorías editoriales:** Parte I auditada entera (2026-09-26/27); Parte II ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]]) y Parte III ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]]) cerradas 2026-09-27; arco final en curso (arriba). Qué leer en cada una: su § 9.
-- **Reescrituras recientes en BORRADOR/DISEÑO, esperan lectura:** Cap. 3 reabierto ([[98_Agent_Handoff/sessions/2026-09-29_claude_reapertura_cap_03|sesión]]); reunión privada y cena del 5; migajas del 6 y del 8 ("Mandorla" es canon); Cap. 7 (Dario contrata a Nadir, canon); Cap. 22/25 (Marisol quince años reservado al 25); Cap. 25 noche sin retorno (canon); Cap. 28 reconstruido + 24b *Lo que cueste* ([[98_Agent_Handoff/sessions/2026-10-01_reconstruccion_cap28_macroarco_corral_trato|sesión]]). Progresión "contarse el día": [[06_Relationships/Kal_y_Chiara]].
-- **Fichas de voz Kal/Chiara recalibradas (2026-10-03)** con los diálogos del Cap. 28: [[12_Craft_Policies/voice/Kal_Mercer]], [[12_Craft_Policies/voice/Chiara_Bellandi]] (incluye el desliz "Cielo" como excepción canon, no apodo). Diagnóstico del diálogo de la Parte I contra esa vara: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]] (prioridad alta: Caps. 4, 5, 12). Sin VODs: el autor da la dirección por capítulo y el agente redacta. Caps. 2, 4, 5, 6, 10, 12, 13 y 20 reescritos (DISEÑO), pendientes de lectura; 2, 6, 10, 12, 13 y 20 con dirección directa del autor ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I|bitácora §7]]). CANON 2026-10-04: Chiara no sabía de quién era la casa; Kal se lo dice en el Cap. 10. **Aura de la pareja (CANON 2026-10-04):** juntos imponen ("perdón por mirarlos"); fundacional para los Libros II y III; se escribe desde el tercero que entra, sin afecto público ([[06_Relationships/Kal_y_Chiara]], "El aura"); bancos de vestuario en las fichas de Kal y de Chiara. **Terceros (2026-10-04):** diagnóstico por personaje en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]; fichas de voz hechas (Walt, Danny, Alessio nuevas; seis recalibradas); decisiones del autor en §5 (Tommaso dice "Bellandi"); Cap. 1 (Matteo en La Esquina) reescrito, DISEÑO pendiente de lectura; siguiente: Cap. 17 (Walt). Quedan sólo los de prioridad baja: 18, 21, 22, 23, 24 (Cap. 6: coqueteo puro, beat canon de la mirada y las mariposas con espejo en el vestidor). Canon 2026-10-04: Tommaso vigila a Chiara porque la versión de Alessio no le cierra ([[02_Characters/Tommaso_Lusardi]]). **Piloto "Registro emocional" (2026-10-04)** en ambas fichas: árbol (quién escucha → intensidad → fuga) + matriz de 9 estados anclada en Caps. 7-9, 24b, 25, 28; **aprobado como piloto por el autor (2026-10-04)**; canon: la mano por la cara es solo de Kal, el gesto de Chiara es jugar con sus joyas (anillo, collar, pulseras, arete) o, sin joyas, con sus uñas postizas; nunca anda sin uñas arregladas. **CANON 2026-10-04:** Michael Ardizzone (segundo hijo, Libro VI; prometida Livia Ferraro, silla entregada en vida, holding Bellandi; se queda Michael, Corrado le dice Michele; se enamora de [[02_Characters/Iris_Harlow|Iris]], hija de Trix; se queda en San Aurelio y pierde la silla; Vivian cría a Dylan fuera de la ciudad); Manfred nunca se va: huellas civiles en II–III (reglas en la ficha de Corrado); Corrado oculto en San Aurelio como Manfred Gabe (incubadora propagada: París, cartas, Cap. 9, Ettore, camper en el VII) y muere en el VI; Walt administra el Monarch. **Adenda:** Michael visita al abuelo en el V como Michael Mercer y ahí conoce a Iris; regresa en el VI como Ardizzone; tras el IV Corrado sigue siendo Manfred Gabe en público. Transición V–VII en [[06_Relationships/Michael_e_Iris]]; canon: química en el V, y en el VI se acuestan con él aún comprometido con Livia. Ver [[98_Agent_Handoff/sessions/2026-10-04_claude_fichas_evolucion_michael_ardizzone]]. **Elenna y Michael (2026-10-04):** [[06_Relationships/Elenna_y_Michael]]; Elenna sabe desde niña que Gabe es Corrado; Brasil a los 15 es viaje corto.
-- **Cap. 11 *El farol* rediseñado (2026-10-04, decisión del autor; BORRADOR) + inserción de Walt en el Cap. 10:** Chiara ya conoce a Walt; presencia el primer reencuentro Walt/Mabel en La Esquina (CANON); entra como **socia minoritaria** de la destilería con su dinero, fuera del casino, y el Monarch es sólo cliente (CANON). Fichas de Walt, Mabel, destilería, casino y Chiara actualizadas.
-- **Tic "dos dedos" resuelto (2026-10-04):** 31 → 6 en el Libro I; el "dos dedos" queda como gesto de Walt (y su eco en el 50), más la sien del 10 y el teclear del 6. Vigilar "el índice"/"un dedo" como tic de reemplazo. [[98_Agent_Handoff/sessions/2026-10-04_claude_tic_dos_dedos_libro_i]]. Regla: [[12_Craft_Policies/staging_rules/05-gesto-de-manos-en-serie]].
-- **Exportación:** EPUB y PDF regenerados 2026-10-03 con 44–50b en BORRADOR. Portada aprobada (1024×1536; falta alta resolución para KDP). Ver `tools/epub-build/README.md` y [[tools/pdf-build/README]].
+- **Caps. 1–50b completos en prosa** (Parte I 1–25 con 24b y 24c; Parte II 26–34; Parte III 35–50). El 50b cierra el libro; "—Ciao, bella." es la última línea del 50. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
+- Estados: metadata de cada capítulo y [[12_Craft_Policies/CHAPTER_STATUS]]. Escrito no es aprobado.
+- **Auditorías editoriales:** Partes I–III cerradas (qué leer: § 9 de cada una); arco final en curso.
+- **Diálogo K/C de la Parte I:** auditoría completa ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]], bitácora §7). Reescritos los Caps. 2, 4, 5, 6, 10, 12, 13, 20 y 34; microcirugía en los Caps. 9, 21, 22, 23 y 24. Todo DISEÑO pendiente de lectura. Método: sin VODs; el autor da la dirección por capítulo.
+- **Fichas de voz:** Kal y Chiara con el piloto "Registro emocional" (aprobado como piloto). Terceros: Walt, Danny y Alessio (en cita) son nuevas; Matteo, Tommaso, Dario, Mabel, Fabrizio y Nadir, recalibradas. Regla: las muestras enseñan registro y no se copian literales.
+- **Otras reescrituras que esperan lectura:** Cap. 3 reabierto; reunión y cena del 5; migajas del 6 y del 8; Cap. 7; 22/25; 28 y 24b; Cap. 11 *El farol* rediseñado y Walt en el 10. Detalle en [[98_Agent_Handoff/archive/2026-10-04_CURRENT_BRIEF]].
+- **Exportación:** EPUB y PDF del 2026-10-03 (44–50b en BORRADOR). Portada aprobada; falta la de alta resolución para KDP.
+
+## Canon menor vigente (2026-10-04)
+
+- Chiara no sabía de quién era la casa; Kal se lo dice en el Cap. 10.
+- Chiara es socia minoritaria de la destilería con su dinero; el Monarch es sólo cliente. Presencia el reencuentro de Walt y Mabel.
+- Gesto de manos: la mano por la cara es sólo de Kal. Chiara juega con sus joyas o con sus uñas postizas, que siempre lleva arregladas.
+- Tommaso vigila a Chiara porque la versión de Alessio no le cierra, y **la llama "Bellandi"**.
+- Tic "dos dedos": queda como gesto de Walt. Vigilar "el índice" como reemplazo ([[12_Craft_Policies/staging_rules/05-gesto-de-manos-en-serie]]).
+- La Mesa es el 13 de diciembre; el supervisor de Eagle Eye se llama Charles. Kal absorbe Eagle Eye en el Libro II.
+- Rowe le debe un favor a Chiara (Cap. 9), pendiente. La Casa se vendió por desocupada cuando Kal se fue al ejército. Propagación del Corral: [[98_Agent_Handoff/sessions/2026-10-04_claude_propagacion_reubicacion_corral]].
 
 ## Fuentes que mandan
 
-- Fronteras de libro y saga: [[00_Biblia/00_Trilogy_Structure]] (salvo el cierre en el 44, ya superado por el plan del arco final).
+- Fronteras: [[00_Biblia/00_Trilogy_Structure]] (salvo el cierre en el 44, ya superado).
 - Caps. 44–50b: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]; Caps. 35–43: [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
-- Orden macro: [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]] y [[01_Timeline/03_Libro_02_Sombras_De_Poder]] (aún sin la cascada del arco final).
+- Orden macro: [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]] y [[01_Timeline/03_Libro_02_Sombras_De_Poder]] (sin la cascada del arco final).
 
 ## Restricciones vigentes
 
-- CANON DEL AUTOR intocable; DISEÑO y PENDIENTE conservan su categoría. Ningún libro está SELLADO.
-- Liberación de Kal: mecanismo canonizado (Halbrook/apagón/expediente); su revelación se reserva para *Voto de Ceniza*. Kal sólo sabe luces, bolsa de tela y loft.
-- *Sombras de Poder*: bloqueo general de prosa; su apertura espera el cierre del Libro I. H22 mantiene bloqueo propio. Escenas dictadas por el autor no autorizan continuar por iniciativa del agente.
-- Ortotipografía (2026-09-27): pregunta de tono plano sin signos y con punto ("Qué viste."); nunca "¿" suelto.
+- CANON DEL AUTOR es intocable; DISEÑO y PENDIENTE conservan su categoría. Ningún libro está SELLADO.
+- Liberación de Kal: su revelación se reserva para *Voto de Ceniza*. Kal sólo sabe luces, bolsa de tela y loft.
+- *Sombras de Poder*: bloqueo general de prosa hasta cerrar el Libro I; H22 con bloqueo propio. Las escenas dictadas no autorizan continuar.
+- Ortotipografía: pregunta de tono plano sin signos y con punto ("Qué viste."); nunca "¿" suelto.
 - Penalista de Chiara: Krane (no Rivers), desde el Cap. 44.
 
 ## Relevo y archivo
 
-[[98_Agent_Handoff/START_HERE]] fija límites y protocolo; [[log]] es índice; decisiones de fondo en [[98_Agent_Handoff/BACKLOG]]; antecedentes en [[98_Agent_Handoff/archive/README]]. La compactación no aprueba borradores ni cambia canon.
+[[98_Agent_Handoff/START_HERE]] fija el protocolo; [[log]] es índice; decisiones de fondo en [[98_Agent_Handoff/BACKLOG]]; antecedentes en [[98_Agent_Handoff/archive/README]]. La compactación no aprueba borradores ni cambia canon.

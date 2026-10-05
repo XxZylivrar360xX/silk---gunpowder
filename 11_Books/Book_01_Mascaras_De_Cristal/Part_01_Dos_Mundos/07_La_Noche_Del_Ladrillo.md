@@ -2,6 +2,7 @@
 Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): conteo de H3 despejado, Willy fuera (sin antecedente), glosas de 'Te veo despues' y de la risa, tercera formulacion del taxi. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_04-13_Lote_A.md.
 Protagonistas: Chiara Bellandi, con apariciones de Blake Stanton, Dario Varek, Kal Mercer, Nadir Amrani, Daniel Hayes y Hector Navarro.
 Callbacks post 5-6 (2026-09-29, autorizados por el autor, sigue TERMINADO): (1) Peugeot: Chiara ya sabe desde el Cap. 6 que Kal lo maneja; la pregunta a Blake es tanteo y el silencio es lealtad, no distraccion. (2) Reconoce a Nadir, Danny y Hector por las historias (Danny: Mustang/lineas del patio, sin subrayar). (3) CANON DEL AUTOR: se cobra el "quiere hablar contigo" de Nadir (Cap. 3): Dario le da una tarjeta a Kal en la acera; Chiara lo ve de lejos y le extrana porque Kal ya trabaja para el Monarch. Fuera de cuadro, cuando Kal se va, Dario aborda a Nadir: mover 5 kg de cocaina al norte, entrega en una parcela, 50,000 por la entrega. La prosa no lo dice; solo queda que Nadir se quede en la barra. Payoff: Cap. 8 (Kal lo cuenta como chisme rumbo a La Tramoya; Dario sale con mascara de plata en la entrega).
+Cirugia de dialogo de terceros S4 2026-10-04 (decision del autor; prosa DISENO pendiente de lectura; el resto sigue TERMINADO; plan 13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I.md): Dario en la puerta quiere tantear a Kal a traves de Chiara ("¿El senor Mercer viene esta noche?"); ella lo cubre ("Trabaja para el Monarch") y el repite "Para el Monarch" (palabra del otro; prepara la tarjeta fuera del contrato). Fuera los tres aforismos ("A usted la perdona todo", "A Tommaso le cuesta todo lo que no controla", la segunda vez de "San Aurelio premia...", protegida en el 2) y el "Dario se ajusto el abrigo, listo para irse"; "Dario" con tilde corregido a "senor Varek". Se queda en la acera esperando a Kal, no el auto.
 Ventana temporal: dias despues del Capitulo 6 (la noche de hierba en el penthouse). Ya comparten cotidianeidad (llamadas, historias de los amigos, la confesion del Peugeot), aunque lo suyo todavia no tiene nombre — antes del primer beso.
 Lugares: Gabriella's (fiesta de vestimenta blanca).
 Funcion: ejecutar H3 completo (a, b, c) — la noche del ladrillo. Tres apariciones de Kal en la cabeza de Chiara sin que este presente: el Peugeot (primera vez), la dedicatoria de Volare (segunda vez, ya registrada como patron y no como dato suelto), y su llegada real con la banda de la Almendra (la tercera, esta si en persona). Cierra con el final de lo de Blake — ruptura en la calle, no por Kal sino porque ella entiende que buscaba algo que ya habia encontrado en otro lado.
@@ -111,17 +112,17 @@ Dario Varek estaba saliendo cuando ella volvió a entrar.
 
 —Signora Bellandi. —La miró el tiempo exacto para medirla, ni un segundo más—. Veo que la fiesta blanca le sienta.
 
-—Es un color que perdona poco, Darío.
+—Es un color que perdona poco, señor Varek.
 
-—A usted la perdona todo. —Lo dijo sin sonreír, como quien constata un dato de inventario—. Los preparativos del torneo van bien. Tommaso me lo confirmó esta mañana, aunque con menos entusiasmo del que le hubiera gustado mostrar.
+—Los preparativos del torneo van bien. Tommaso me lo confirmó esta mañana. —Miró hacia la calle, no a ella—. ¿El señor Mercer viene esta noche?
 
-—A Tommaso le cuesta el entusiasmo en general.
+—No sabría decirle. Trabaja para el Monarch, no para Gabriella's.
 
-—A Tommaso le cuesta todo lo que no controla. —Dario se ajustó el abrigo, listo para irse—. Siga así, signora. San Aurelio premia a la gente que entiende su lugar.
+—Para el Monarch. —Dario dejó que la palabra se quedara un momento entre los dos—. Que disfrute la fiesta, signora.
 
-No era un cumplido. Tampoco una amenaza. Era, como todo lo que decía Dario, una cifra: la ubicaba en un mapa y seguía caminando.
+No fue hacia el auto. Se quedó en la acera, con las manos en los bolsillos del abrigo, mirando la calle.
 
-Chiara lo dejó en la acera esperando su auto, y estaba por volver a entrar cuando el mismo Peugeot rojo pasó otra vez — en dirección contraria esta vez — y giró en el callejón junto al local.
+Chiara lo dejó ahí, y estaba por volver a entrar cuando el mismo Peugeot rojo pasó otra vez — en dirección contraria esta vez — y giró en el callejón junto al local.
 
 Esta vez no tuvo que preguntarse quién iba dentro. Se quedó mirando la boca del callejón con el bolso apretado contra el costado, con Blake a veinte pasos, adentro, todavía presumiendo curvas.
 

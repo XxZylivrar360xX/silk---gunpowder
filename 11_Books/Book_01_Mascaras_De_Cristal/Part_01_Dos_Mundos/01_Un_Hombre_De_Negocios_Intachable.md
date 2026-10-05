@@ -7,6 +7,7 @@ Funcion: instalar el dia normal de Kal, la carta de Walt, el acuerdo con Keene, 
 Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_01-03.md (seccion 9). Incluye la siembra de los papeles de Nadir (formato del condado, Kal firma por el).
 Ajuste (2026-09-29, autor, reapertura del Cap. 3): en la tumba de Michael, "Quiero que El Patio vuelva a estar en el juego" pasa a "Quiero que la Almendra vuelva a estar en el juego"; todavia no son El Patio.
 Dialogo de terceros, La Esquina (2026-10-04, cirugia sobre capitulo TERMINADO; el estado se conserva; prosa DISENO del agente, BORRADOR pendiente de lectura). Direccion del autor: Matteo quiere a Kal como socio para abrir negocios. Deseo opuesto (agente): Kal no se fia de la palabra "socio" en boca de quien no controla la mesa. Fuera: "Eso dice el letrero / El letrero dice gruas", "No todo el mundo tiene que meter coches por la entrada de carga", "No le gusta el juego / No dije eso / No hizo falta", "Eso cuesta / Todo cuesta / No todo se vende / Los socios se aburren...", "Pregunte por mi / No pregunto por gente que me invito". Entran: el pitch de socio (coleccionistas, carreras, talleres: rima con lo que Kal busca en el 2); "¿Ellos saben que me esta ofreciendo eso?" sin respuesta (prepara el "Ya esta citado a las nueve" del 2); Matteo pisa la herida del juego y se disculpa ("Hablo demasiado. Me lo dicen en dos idiomas"); Mabel corrige a Kal y el obedece con Rafa mirando (siembra literal del "Tiene testigos" del 2); "Nueve es nueve" (siembra del "Matteo dijo que diria algo asi" de Fabrizio); Matteo intenta pagar las seis ordenes y Mabel: "Ya estan pagadas" (alimenta "Pagaba antes para que pareciera favor"). Intactos: entrada a La Esquina, cicatriz, networking/puerta, coda de Mabel. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I.md §6.
+Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); capitulo TERMINADO, el estado se conserva): fuera la linea de Enzo "Tu no vienes al Gelsomino por la pasta..." (glosa del narrador en boca del mesero; el narrador ya lo dice con la bisagra) y la replica de Kal que colgaba de ella. Ficha 12_Craft_Policies/voice/Enzo.
 -->
 
 # Capítulo 1 — Un hombre de negocios intachable
@@ -463,11 +464,7 @@ Firmó una hoja sobre una esquina libre de harina. El dueño no estaba, pero el 
 
 Kal lo miró. Enzo sonrió con la impunidad de los hombres que sobreviven sirviendo mesas: veía demasiado y fingía que sólo recordaba órdenes.
 
-—Tú no vienes al Gelsomino por la pasta —dijo—. Vienes a revisar si un lugar caro puede obedecer.
-
 Kal guardó el sobre.
-
-—La pasta tampoco ayuda.
 
 Cuando salió, Enzo le gritó desde la cocina:
 

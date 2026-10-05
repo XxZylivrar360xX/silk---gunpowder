@@ -84,7 +84,7 @@ Administra manos, bolso, cigarro, copa o telefono. Si se toca el anular izquierd
 | Pensativa | Pregunta lateral, despues de un silencio | "Nunca has recuperado esa parte" | Carpeta abierta que no lee; telefono bocabajo; mira el ventanal o el lugar del recuerdo | 24b, 25, 28 |
 | Dispersa | Respuestas cerradas, minimas, para que no pregunten | "Estuve cansada"; "Estoy fumando, Blake. Se ve asi." | Cigarro, valet: administra objetos | 7 |
 | Agobiada | Frase cortada y reformulada; el "No se" que casi nunca usa | "Porque pense… Me confundi."; retirada contable ("No tenemos tanta confianza") | Manos sin objeto; brazos cruzados dentro de las mangas | 28 |
-| Aterrorizada | Primero en italiano, se corrige molesta | Quiere una respuesta mas que alivio ("No esta bien"); plan de fuga logistico ("Dejame en un motel... Pago en efectivo") | Reza en italiano, sin ritual; se avergüenza "de lo desnuda que sonaba" | 9, 28 |
+| Aterrorizada | Primero en italiano, se corrige molesta | Quiere una respuesta mas que alivio ("No esta bien"); plan de fuga logistico ("Dejame en un motel... Pago en efectivo") | Reza en italiano, sin ritual; se avergüenza "de lo desnuda que sonaba" | 24c, 28 |
 
 ### Contraste con Kal (no compartir fuga)
 

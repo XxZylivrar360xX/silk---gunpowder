@@ -1,9 +1,10 @@
 <!--
 Estado: TERMINADO. Cirugia editorial 2026-09-26 (Prioridad C, autorizada por el autor, sigue TERMINADO): corte de la apertura de Nadir y Danny y de "Dos dias antes" (5-ter; ademas corregia una cronologia rota: la escena caia en domingo con los dos ya retenidos), prolepsis de Lucia, recuento a Walt comprimido, sedan y reflexion del corazon compactados, "Contame" -> "Cuenteme". Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17.md.
+Cirugia de dialogo de terceros 2026-10-04 (S2 del Plan_Cirugia_Terceros_Parte_I; sigue TERMINADO): escena de Lucia en el hospital reescrita por decision del autor (va la subjefa a proposito, sin uniforme; fuera "uniformada, joven" y la explicacion de la rutina; cruce de apellidos Varek/Bellandi). La prosa nueva es DISENO pendiente de lectura del autor. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I.md.
 Protagonistas: Chiara Bellandi, con apariciones de Walter Keegan y Lucia Varek (Nadir Amrani y Daniel Hayes solo mencionados, inalcanzables). Hector Navarro presente pero inconsciente/fuera de escena tras el infarto.
 Ventana temporal: el viernes del Capitulo 14 (La regla del telefono), mientras Kal y Marisol estan de campamento. Bajo la reordenacion del 2026-08-29, H10 va ANTES de H4 y H11 -- en este punto Kal y Chiara TODAVIA NO se han besado.
 Lugares: Casa Comunitaria De La Almendra (sotano), casa de Hector, Hospital Santa Aurelia, The Monarch Casino & Hotel.
-Funcion: capitulo exclusivo POV Chiara (2026-09-03, a peticion del autor -- separado del nuevo Capitulo 16, POV Kal, para que el fin de semana respire). ~~Abre con Nadir y Danny: un rumor de calle sobre una bodega...~~ (apertura cortada 2026-09-26; el lector sabe del robo lo mismo que Chiara y Walt: "Raro", y lo descubre en el Cap. 17). Abre por residuo del Cap. 14 ("El mismo viernes que Kal cargaba la camioneta"). Chiara va a la Almendra con un catalogo de muebles y pan para Hector, lo encuentra con la puerta abierta y en el suelo, llama a emergencias, sube con el en la ambulancia intentando comunicarse con Kal sin respuesta. En el hospital, cameo breve de la oficial Lucia Varek (pregunta de rutina; no conecta a Chiara con Kal, a quien tomo declaracion en el Cap. 13) y un medico le confirma el infarto, pendiente de especialista. Walt llega a la sala de espera; recuento completo de lo que paso, y Walt revela que Hector ya habia tenido un preinfarto menor antes de ir a prision, nunca vigilado de cerca -- Chiara lo recibe con una reflexion propia, sin nombrar a su madre, sobre el costo de no tomarse en serio una enfermedad silenciosa. Walt se queda en el hospital; Chiara va al Monarch, escribe la carta, esta a punto de mandarla con un sussurro y cambia de decision -- la lleva ella misma, consecuencia directa de la promesa que le hizo a Kal en el Capitulo 12 (Roma Atrii). Cierra con la carta bajo la puerta del loft, sin revelar su contenido -- eso se paga en el Capitulo 16.
+Funcion: capitulo exclusivo POV Chiara (2026-09-03, a peticion del autor -- separado del nuevo Capitulo 16, POV Kal, para que el fin de semana respire). ~~Abre con Nadir y Danny: un rumor de calle sobre una bodega...~~ (apertura cortada 2026-09-26; el lector sabe del robo lo mismo que Chiara y Walt: "Raro", y lo descubre en el Cap. 17). Abre por residuo del Cap. 14 ("El mismo viernes que Kal cargaba la camioneta"). Chiara va a la Almendra con un catalogo de muebles y pan para Hector, lo encuentra con la puerta abierta y en el suelo, llama a emergencias, sube con el en la ambulancia intentando comunicarse con Kal sin respuesta. En el hospital, la subjefa Lucia Varek va en persona y sin uniforme (la casa es del circulo de Kal, a quien interrogo en el Cap. 13); dice "Es rutina", que es la mentira; Chiara registra "Varek" y Lucia registra "Bellandi" y un medico le confirma el infarto, pendiente de especialista. Walt llega a la sala de espera; recuento completo de lo que paso, y Walt revela que Hector ya habia tenido un preinfarto menor antes de ir a prision, nunca vigilado de cerca -- Chiara lo recibe con una reflexion propia, sin nombrar a su madre, sobre el costo de no tomarse en serio una enfermedad silenciosa. Walt se queda en el hospital; Chiara va al Monarch, escribe la carta, esta a punto de mandarla con un sussurro y cambia de decision -- la lleva ella misma, consecuencia directa de la promesa que le hizo a Kal en el Capitulo 12 (Roma Atrii). Cierra con la carta bajo la puerta del loft, sin revelar su contenido -- eso se paga en el Capitulo 16.
 Apertura por residuo: arranca del cierre del Capitulo 14 -- pero el beat de las llamadas perdidas de Kal se recoloca al Capitulo 16: aqui, del lado de Chiara, no hay ninguna resolucion todavia.
 -->
 
@@ -39,9 +40,11 @@ No contestó.
 
 ***
 
-En el hospital la sentaron en una sala pequeña, de esas que existen solo para que alguien espere en ellas, y una oficial se acercó antes que ningún médico — uniformada, joven, con la clase de calma que no se aprende en un solo turno.
+En el hospital la sentaron en una sala pequeña, de esas que existen solo para que alguien espere en ellas, y una mujer se acercó antes que ningún médico: sin uniforme, con una carpeta bajo el brazo y la clase de calma que no se aprende en un solo turno.
 
-—Lucía Varek —dijo, sin sentarse—. Nada más un par de preguntas de rutina, cuando la casa queda con la puerta abierta y alguien adentro sin poder explicarlo. ¿Usted lo encontró así?
+—Lucía Varek. Subjefa. —No se sentó—. ¿Usted lo encontró?
+
+El apellido le llegó antes que el cargo. Varek, como Dario. Subjefa, como la mujer del rumor que semanas antes había tenido sobre la mesa el caso de Kal. Chiara no movió nada de la cara.
 
 —Sí. La puerta ya estaba abierta cuando llegué.
 
@@ -49,13 +52,19 @@ En el hospital la sentaron en una sala pequeña, de esas que existen solo para q
 
 —No que yo haya visto.
 
-Lucía anotó algo breve, asintió, y no se quedó más de lo necesario.
+—¿Faltaba algo en la casa?
 
-—Un médico va a salir a hablarle en un momento. Gracias por su tiempo, señora...
+—No entré a fijarme. Él estaba en el suelo.
 
-—Bellandi.
+Lucía anotó algo breve.
 
-—Señora Bellandi.
+—Es rutina —dijo, sin que nadie se lo hubiera preguntado—. Un médico va a salir en un momento. ¿Su nombre?
+
+—Chiara Bellandi.
+
+Lucía levantó la vista de la carpeta y la dejó en ella un momento más de lo cómodo.
+
+—Señora Bellandi. —Lo anotó con más cuidado que lo demás.
 
 Se fue con el mismo paso con el que había llegado.
 

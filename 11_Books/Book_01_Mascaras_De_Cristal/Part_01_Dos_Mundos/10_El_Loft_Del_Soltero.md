@@ -3,6 +3,7 @@ Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE con Gates A-F ve
 Cirugia de dialogo K/C 2026-10-04 (autorizada por el autor, alcance completo; prosa DISEÑO del agente, BORRADOR pendiente de lectura; el resto sigue TERMINADO). Deseos (autor): ella quiere dejar de ser carga y saldar la proteccion con lo unico que hoy puede hacer bien; el quiere una casa que nadie le cobre. Pedido: fuera fotos/"no es lo mismo" y el regateo de la hora + "Y casco / No abuses de la victoria"; entra Danny que se quita las botas ("Ya se. Por eso.", replica perdida de Kal) y "Si te duele la cabeza, nos regresamos". Primera visita: "¿Quien va a venir? / ¿Por la puerta de atras tambien?" sin respuesta (Kal mide un marco ya medido); roble de la escalera de servicio del Monarch en lugar de "hombres peores que tus botas". Presupuestos: el arquitecto ya pagado por ella; "¿yo que hago aqui? / Recuperarte / Eso lo hago sola"; "Era de mis padres" dicho a las carpetas; arete; Nadir cierra la llave; "Entonces que no sea mio. Que sea apoyo del casino"; "Anotala"; fuera "No acepto regalos", "Tus cuentas no son mi problema" y la glosa "parecio disfrutar". Segunda visita: "¿Donde va la cama?" por "Buenos dias para ti tambien"; molde "Privacidad no significa pared" deshecho. Sofa sin el ping-pong de los tres grises. Cena: fuera "El humo no conoce la diferencia / La cocina funciona / Eso nunca estuvo en duda"; Danny y el embrague de la grua chica; Kal le pasa lo que ella pide. Intactos: balcon, viga, "Los muchachos comen", cinta de la isla, objetos, Nadir.
 Cirugía editorial extraordinaria 2026-09-26 (autorizada por el autor, sigue TERMINADO): poda de glosas, salto de POV a Nadir, prolepsis, inventario de obra y regateos repetidos; la tercera visita queda sin luces ni lista de muebles; media línea nueva ancla el regreso al penthouse en la vigilancia de Dario. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_10_El_Loft_Del_Soltero.md §10.
 Insercion 2026-10-04 (decision del autor; prosa DISENO del agente, BORRADOR pendiente de lectura; el resto sigue TERMINADO): Walt entra al arco del loft para que el Cap. 11 se apoye en un trato ya visto. Casa comun: es el unico que no se vuelve cuidadoso con Chiara ("La de la caja" / "El copiloto"), el telefono de botones (eco del Cap. 5), cerillos con Danny y Nadir (Chiara ve que pierde y gana con la misma cara) y tardes en que desaparece sin decir a donde (semilla muda de Corrado/Cap. 9). Primera cena del loft: Walt revisa la isla y pregunta cuanto licor compra el Monarch y a quien; con el, seis comensales cuadran con "dos sillas vacias" de ocho.
+Cirugia de dialogo de terceros S4 2026-10-04 (decision del autor; prosa DISENO pendiente de lectura; el resto sigue TERMINADO; plan 13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I.md): la objecion de Nadir lleva costo concreto (regla de objecion de su ficha): la casa deja de ser refugio y lo pagan otros ("los jueves eramos catorce... Anoche fuimos seis"; el chico de la vulcanizadora tres noches en el taller porque el cuarto de atras tiene duena). Fuera "esto no es un hotel", "cada dia que se queda es un dia que este lugar dejo de ser lo que era", "Y Crowe lo sabe" y el "Tienes razon / Ya se" de Kal: Kal pregunta en idioma de Nadir ("¿Cuanto les queda?"), pierde la replica ("A los otros ocho ya se les acabo") y queda "Voy a resolverlo" como puente a la compra. El 24b ("cuando vivio en la casa con nosotros menos") sigue apoyado. Walt no se toca.
 Protagonistas: Kal Mercer, Chiara Bellandi, Nadir Amrani; aparicion de Walt Keegan.
 Ventana temporal: continúa directamente del Capítulo 9. Semanas en la casa común, después la recompra y el diseño de la casa.
 Lugares: Casa Comunitaria de La Almendra, La Casa (la vieja casa de los padres de Kal).
@@ -50,19 +51,21 @@ Algunas tardes desaparecía sin decir a dónde y volvía con polvo de otra parte
 
 ***
 
-—No es que no me caiga bien —le dijo Nadir a Kal una semana después, los dos solos en el taller mientras Kal cerraba las cuentas de la grúa—. Es que esto no es un hotel, khoya. Es la casa donde comemos, donde se cambian los muchachos, donde alguien duerme cuando no tiene a dónde ir. No es sitio para una mujer que tiene un penthouse esperándola.
+—No es que no me caiga bien —le dijo Nadir a Kal una semana después, los dos solos en el taller mientras Kal cerraba las cuentas de la grúa—. Pero los jueves éramos catorce en esa mesa, khoya. Anoche fuimos seis.
 
 —No puede volver al penthouse. Ya te lo expliqué.
 
-—Me explicaste que la gente de Crowe le torció la muñeca por un papel que firmaste tú. —Nadir hacía rodar una tuerca entre los nudillos. No subió la voz. Nunca la subía cuando de verdad le importaba algo—. Eso sí me quedó claro. Lo que no me queda claro es por qué el problema que te buscaste tú se volvió el problema de todos los que vivimos aquí. Wallah, Kal, yo no le deseo mal. Pero cada día que se queda es un día que este lugar dejó de ser lo que era. Y Crowe lo sabe.
+—Me explicaste que la gente de Crowe le torció la muñeca por un papel que firmaste tú. Eso sí me quedó claro. —Nadir hacía rodar una tuerca entre los nudillos. No subió la voz. Nunca la subía cuando de verdad le importaba algo—. El chico de la vulcanizadora durmió tres noches aquí, en el rincón de las llantas, porque el cuarto de atrás ya tiene dueña. No vino a pedirlo. Lo encontré yo. Wallah, no le deseo mal. Pero eso no lo pagas tú.
 
 Kal no contestó de inmediato. Terminó de anotar una cifra, repasó la suma y cerró el libro de cuentas.
 
-—Tienes razón.
+—¿Cuánto les queda?
 
-La tuerca dejó de moverse.
+—A los seis, mucho. —La tuerca dejó de moverse—. A los otros ocho ya se les acabó.
 
-—Ya sé —dijo Kal—. Voy a resolverlo.
+Kal no discutió.
+
+—Voy a resolverlo.
 
 Nadir abrió la boca, quizá para preguntar qué significaba eso. Luego miró el libro cerrado y guardó la pregunta.
 

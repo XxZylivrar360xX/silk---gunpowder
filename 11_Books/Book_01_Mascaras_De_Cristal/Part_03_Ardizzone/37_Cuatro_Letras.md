@@ -6,6 +6,7 @@ Ventana temporal: después de H16 (Cap. 36) — el autor fijó explícitamente q
 Lugares: loft de La Almendra (apertura); Almendra Towing / El Patio (resto del capítulo); destilería de Walt (una escena breve).
 Función: paga el siguiente tramo del hilo de la invitación del yate — Kal lee la carta cifrada de Chiara, no logra descifrar "Roma", pregunta a su gente sin obtener respuesta, y de fondo el capítulo dramatiza que El Patio empieza a crecer alrededor de él (delega, coordina, recibe consultas que antes no le habrían llegado). La fiesta del yate y la explicación del cifrado quedan para un capítulo posterior, todavía sin escribir.
 
+- **CARTA COMPLETA (2026-10-05, CANON DEL AUTOR):** el texto íntegro de *La Notte Bellandi* sustituye a la carta anterior ("Te veo, con mucha Roma"). Abre con "Tesoro", anuncia el viaje a Italia y firma "Roma Atrii". Sólo se ajustó la ortografía (tildes) y una coma de aposición; el ".," del cierre se resolvió como punto. El cuerpo sale del Cap. 36, donde Chiara la escribe sin que se lea, para no duplicarlo. "Conocía esa palabra" → "Conocía esa firma".
 - REGLA ESTRUCTURAL: sigue el encargo del autor al detalle. Abre con Kal + la invitación, sin resumen del Cap. 36 ni diálogo de terceros primero.
 - El beso de labial rojo junto al nombre de Kal es CANON DEL AUTOR, tratado como gesto pequeño e íntimo, no descripción sensorial ni símbolo melodramático.
 - La reacción de Kal al ver el beso y leer la firma es mínima: "—Chiara", sonrisa ladeada. Nada de monólogo interno sentimental, nada de "estaba enamorado" explicitado.
@@ -17,7 +18,7 @@ Función: paga el siguiente tramo del hilo de la invitación del yate — Kal le
 - **F1 / investigación de Matteo: NO iniciada.** Ninguna mención a la inconsistencia de mensajería, Bellandi Ridge ni Los Tres Días. (Bonnie aparece, pero sin ninguna función de investigación — ver parche.)
 - **Parche quirúrgico (2026-09-21, Claude Opus 5, encargo del autor sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]):** beat nuevo (~410 palabras) entre el tramo de delegación de la mañana y Héctor al mediodía. **Primera aparición en prosa de Bonnie García y Mei-Lin Zhao**, presentadas como el par que llegó junto "de una banda del norte que ya no existía" (una frase; sin explicar la banda). Bonnie: diagnostica una avería que el gruero leyó mal (bomba, no batería), mueve el coche en una maniobra y lo estaciona de frente a la salida — Kal la registra como alguien de autos y calle [E5, Q8: "de frente a la salida" retirado; en el 37 Bonnie queda con las variaciones —vehículos y posición de otros— y la firma de salidas nace en el 38]; nada de protegida. Mei-Lin: responde una pregunta práctica sobre la carrera del norte (patrulla en Milla desde las once; acceso de carga) — entra en el radar de Kal como alguien que conoce rutas y horarios del norte. **Nada de Tommaso, Dario, informantes ni futuro.** Bonnie entra en el patrón cómico de "Roma" ("Si es un coche, no lo conozco. Si es una carrera, tampoco. […] Lo más cerca que tengo es Alfa Romeo, y no es."); el cifrado sigue sin resolverse y el cierre no cambió.
 - **Ren Wei: NO introducido.** El crecimiento de El Patio se muestra en escala de barrio y coordinación creciente, no en salto a mercado de cocaína.
-- **Inserciones BORRADOR (2026-09-26, Claude Code, decisión del autor sobre la quinta tanda de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Evaluacion_Arco_Libro_I]]).** La apertura (Kal + invitación) no se tocó. (1) **Crowe**, en las consultas de la mañana, después del mensaje de Tyler: el de la ferretería de la esquina (sin nombre ni ficha) cuenta que el Tasador le subió la cuota "por la competencia" y pregunta si la competencia es Kal; Kal sólo anota el día de cobro. Es la "cuota nueva" de [[02_Characters/Silas_Crowe]] que el incendio escala; segunda siembra tras el Cap. 32. (2) **Línea de la cocaína**, al abrir la escena de Danny: un tipo de fuera pide coca para vender en el barrio; Kal: "La muevo; no la vendo. Y en la Almendra, nunca." Opción (a); Hitos (H16) pedía una entrega de cocaína con Héctor que la prosa del 36 no tiene (desfase anotado en E5; se sincroniza en Hitos en E8). Traza la línea que Ren Wei rompe en el Libro II. Escala de barrio: Ren Wei sigue sin introducirse. Pendiente de revisión del autor.
+- **Inserciones BORRADOR (2026-09-26, Claude Code, decisión del autor sobre la quinta tanda de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Evaluacion_Arco_Libro_I]]).** La apertura (Kal + invitación) no se tocó. (1) **Crowe**, en las consultas de la mañana, después del mensaje de Tyler: el de la ferretería de la esquina (sin nombre ni ficha) cuenta que el Tasador le subió la cuota "por la competencia" y pregunta si la competencia es Kal; Kal sólo anota el día de cobro. AJUSTE 2026-10-04 (decision del autor, arrastre de la reubicacion del Corral; BORRADOR): lo anota "debajo de otra fecha que no había tachado" (Calle Corona, Cap. 9). Es la "cuota nueva" de [[02_Characters/Silas_Crowe]] que el incendio escala; segunda siembra tras el Cap. 32. (2) **Línea de la cocaína**, al abrir la escena de Danny: un tipo de fuera pide coca para vender en el barrio; Kal: "La muevo; no la vendo. Y en la Almendra, nunca." Opción (a); Hitos (H16) pedía una entrega de cocaína con Héctor que la prosa del 36 no tiene (desfase anotado en E5; se sincroniza en Hitos en E8). Traza la línea que Ren Wei rompe en el Libro II. Escala de barrio: Ren Wei sigue sin introducirse. Pendiente de revisión del autor.
 - H16 ya asentado: Chiara vive en el loft sin que se reabra la pregunta de la mudanza; sus objetos (cafetera programada, algo suyo en el baño, etc.) aparecen como parte normal del espacio, sin sorpresa de Kal.
 - Héctor: una sola línea de continuidad post-Stella (rigidez, cansancio leve), sin reabrir el susto cardíaco ni medicalizarlo.
 - Walt: segunda vez que Kal le pregunta algo sobre Chiara que él tampoco sabe responder (la primera fue la Romanée-Conti en el Cap. 36, donde Walt opinó sobre su significado, no la recomendó) — patrón cómico reconocido por el propio Walt, sin alargarlo más de una escena.
@@ -31,17 +32,27 @@ Junto al nombre, un beso. Rojo, perfecto, dejado sobre el papel con el mismo cui
 
 Kal se quedó un momento mirándolo, con el café todavía en la otra mano, antes de abrir el sobre.
 
-Adentro, el mismo papel bueno de siempre. Su nombre otra vez arriba de todo, y debajo la letra apretada que llevaba meses aprendiendo a leer más rápido que cualquier contrato que le hubieran puesto delante.
+Adentro, el mismo papel bueno de siempre, y la letra apretada que llevaba meses aprendiendo a leer más rápido que cualquier contrato que le hubieran puesto delante. Arriba de todo, como un título:
 
-*Kal.*
+*La Notte Bellandi.*
+
+Y debajo:
+
+*Tesoro.*
 
 —Chiara —dijo, en voz baja, a la cocina vacía, y la sonrisa se le ladeó sola, sin que hiciera nada por evitarlo.
 
-Leyó el resto de un tirón: el yate, la costa, el viernes, el día entero que quería para los dos antes de que empezara la fiesta.
+Leyó el resto de un tirón.
 
-Llegó al cierre.
+*Antes de partir a Italia quiero regalarme una noche única y celebrar una velada distinta y compartirla contigo. Vendrá gente de distintos círculos. Algunos por aprecio, otros por interés, ya sabes cómo funciona este tablero. Y creo que es mejor que estemos juntos en esa mesa, y podamos jugar las cartas a nuestro gusto, siempre tienes buena mano. Así que de forma oficial te invito a La Notte Bellandi, una velada en un yate, donde habrá música, vino y más de sobra para todos.*
 
-*Te veo, con mucha Roma.*
+*Vestiti come se fosse l'ultima notte del mondo.*
+
+*Ti vedo con il cuore.*
+
+Llegó a la firma.
+
+*Roma Atrii.*
 
 Ahí se detuvo.
 
@@ -49,9 +60,7 @@ No mucho. Lo suficiente para que el café se enfriara un grado que no tenía por
 
 ---
 
-Conocía esa palabra. La conocía de una forma que no debería importarle tanto como le importaba.
-
-*Roma Atrii.*
+Conocía esa firma. La conocía de una forma que no debería importarle tanto como le importaba.
 
 Un chico junto a la cerca. Un papel doblado en cuatro.
 
@@ -129,7 +138,7 @@ A media mañana entró el de la ferretería de la esquina, con la gorra en la ma
 
 —Eso le dije. Me la subió igual.
 
-Kal le preguntó qué día pasaban a cobrar y lo anotó. Nada más.
+Kal le preguntó qué día pasaban a cobrar y lo anotó. Debajo de otra fecha que no había tachado.
 
 En la bahía del fondo, la que Danny todavía no había llegado a tocar, había un sedán gris que la grúa había traído al amanecer y una chica con medio cuerpo bajo el cofre.
 

@@ -8,6 +8,7 @@ Función: primera mitad del hilo legal sembrado en Tierra buena. Hoover, dueño 
 Teoría jurídica (decisión del autor 2026-09-09): acuerdo comercial vinculante de hecho / implícito por conducta, sin contrato de sociedad firmado. Rivers tiene historia con el fiscal general del estado (Edward Connors; corregido 2026-09-30 por decision del autor, antes "fiscal de distrito") desde la facultad — por eso Chiara la eligió, dado el giro de actividades de Kal.
 Continuidad: la propuesta de Kal la primera noche del Monarch (Caps. 1-2) se usa como conducta previa consistente. Tommaso aparece en la lista de testigos de la contraparte al final.
 Pasada editorial 2026-09-10 (Claude Code, decision del autor): el recuerdo de la primera reunion se ajusta a lo dramatizado en el Cap. 2 (beneficio mutuo / "una silla en su mesa", no un "no" a un porcentaje concreto); explicitado el enlace propuso-antes -> se le cae a Hoover que se la invento ahora; podadas glosas de descubrimiento (fiscal, parcela) y remates; doble armado de carpetas de Garrett marcado como version para la audiencia.
+Microcirugia de dialogo K/C 2026-10-04 (autorizada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]] §7; DISEÑO pendiente de lectura): loft sin la escalera "Que elegante / Mas elegante todavia / habilidad mas comun / Eso viene de Italia"; queda "Me esta borrando con sinonimos" y ella no contesta "¿Eso viene de experiencia?" (llena la copa); Chiara ya le escribio a Rivers el martes sin preguntarle ("No me preguntaste / Te estoy avisando"); fuera "Estaba metida desde esa mesa". Rima con "La señorita Bellandi me dijo otra cosa" del 24.
 -->
 
 # Capítulo 23 — La letra pequeña
@@ -252,25 +253,15 @@ Nadir sonrió por primera vez en la mañana.
 
 Hoover respondió con otra versión de la historia. Kal la leyó en el loft una noche, sentado al borde de la mesa de la cocina mientras Chiara abría una botella de vino.
 
-—Según esto, yo era un contratista con participación variable.
+—Según esto, yo era un contratista con participación variable. —Pasó la hoja—. Y el dinero que puse era adelanto operativo. Me está borrando con sinónimos.
 
-—Qué elegante.
+—Mm.
 
-—Y el dinero que puse era adelanto operativo.
-
-Chiara sirvió dos copas.
-
-—Más elegante todavía.
-
-—Me está borrando con sinónimos.
-
-—Es una habilidad más común de lo que crees.
+Lo dijo sin sorpresa, como quien reconoce una letra.
 
 —¿Eso viene de experiencia?
 
-—Eso viene de Italia.
-
-No añadió más. Kal tampoco preguntó.
+Chiara llenó la segunda copa hasta arriba, más de lo que servía nunca, y no contestó. Kal no volvió a preguntar.
 
 Ella se sentó enfrente y leyó la respuesta en silencio. A mitad de la segunda página, su expresión cambió apenas.
 
@@ -282,21 +273,35 @@ Kal estiró la mano. Chiara no le devolvió la hoja.
 
 —No igual.
 
-—Lo bastante parecido. Pone esa frase para que el juez crea que te inventaste la participación ahora, para cobrar. Si ya la proponías antes de conocer a Hoover, no se sostiene. —Dejó la hoja en la mesa—. Y que Tommaso no te quisiera en su mesa prueba que la propuesta existió, no que no.
+—Lo bastante parecido. Pone esa frase para que el juez crea que te inventaste la participación ahora, para cobrar. Si ya la proponías antes de conocer a Hoover, no se sostiene. —Dejó la hoja en la mesa—. Y que Tommaso no te quisiera en su mesa prueba que la propuesta existió.
 
 Kal apoyó los antebrazos en la mesa.
 
 —Mi abogada quiere testigos.
 
-—Entonces tiene uno.
+—Ya tiene uno.
 
-—No tienes que hacerlo. Van a preguntarte por qué te acuerdas con ese detalle, y por qué ayudas a un mecánico en un juicio civil.
+Kal levantó la vista.
 
-—Ya lo pensé. —Chiara tomó su copa—. Estuve en esa mesa. Recuerdo lo que dijiste. Puedo repetirlo sin adornarlo, que es lo único que le sirve a un juez.
+—Le escribí a Rivers el martes. —Chiara tomó su copa—. Me cita el jueves para preparar la declaración.
 
-—No me gusta meterte en esto.
+—El martes.
 
-—No me estás metiendo. Estaba metida desde esa mesa. —La media sonrisa apareció detrás de la copa—. Además, tengo curiosidad por ver qué cara pone Tommaso cuando le llegue que testifiqué por ti.
+—El martes.
+
+—No me preguntaste.
+
+—Te estoy avisando.
+
+Kal dejó la hoja sobre la mesa.
+
+—Van a preguntarte por qué te acuerdas con ese detalle. Y por qué la directora del Monarch ayuda a un mecánico en un juicio civil.
+
+—Estuve en esa mesa. —Le dio media vuelta al anillo—. Recuerdo lo que dijiste. Puedo repetirlo sin adornarlo, que es lo único que le sirve a un juez.
+
+Kal no contestó. Se quedó mirando la respuesta de Hoover como si en alguna parte trajera el precio.
+
+—Además —dijo ella, y la media sonrisa apareció detrás de la copa—, tengo curiosidad por ver qué cara pone Tommaso cuando le llegue que testifiqué por ti.
 
 Kal soltó aire por la nariz.
 

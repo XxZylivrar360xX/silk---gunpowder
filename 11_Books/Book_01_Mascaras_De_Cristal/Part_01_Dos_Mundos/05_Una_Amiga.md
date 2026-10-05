@@ -17,6 +17,7 @@ Lugares: The Monarch Casino & Hotel, La Almendra, centro de San Aurelio, Il Gels
 Funcion: convertir el favor en cadena, mostrar a Kal como telefono recurrente y a Chiara aprendiendo a dirigir informacion; ejecutar H2-a, la primera cena que ninguno llama cita.
 Nota de fusion (2026-09-10, BLOQUE 2 de PLAN_CIRUGIA_EDITORIAL_PARTE_I): capitulo resultante de fusionar los antiguos Capitulo 5 (La casa no quiere ruido) y Capitulo 6 (Una amiga). El titulo visible pasa a ser "Una amiga"; el archivo (antes 05_La_Casa_No_Quiere_Ruido.md) se normalizo a 05_Una_Amiga.md el 2026-09-29, con enlaces vivos actualizados. El antiguo stub Nota_Una_Amiga_Fusionada.md se retiro el 2026-09-29, tras el renombrado. La renumeracion global posterior ya fue completada en cascada.
 Canon del autor (2026-10-04): en la escena de Rocco, Hector cierra el dialogo de los ojos del Cap. 3: "¡Ah! ¿Te referias a esos ojos?" (sustituye "¿La del casino?"). Acotacion "Se quedo mirando a Kal un momento": DISENO.
+Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); el estado se conserva): esgrima del pasillo reducida a una sola replica de Chiara; fuera "Que eficiente." de Tommaso.
 -->
 
 # Capítulo 5 — Una amiga
@@ -638,8 +639,6 @@ Tommaso miró a Kal, luego a ella.
 Chiara sostuvo el vaso.
 
 —Incluye lo que yo autorice.
-
-—Qué eficiente.
 
 Kal dejó el vaso en la mesa.
 

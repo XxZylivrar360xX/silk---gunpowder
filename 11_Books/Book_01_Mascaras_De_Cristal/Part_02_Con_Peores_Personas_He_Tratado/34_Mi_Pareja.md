@@ -13,7 +13,7 @@ Función: CANON DEL AUTOR. Ejecuta [[06_Relationships/Hitos#H21 — Mi pareja|H2
 - Kenji permanece fuera de página. Marisol sólo por teléfono, oída de cerca por Kal sin altavoz.
 - NO se dramatiza aquí el ritual del *Ciao* entre ellos (nace en el Cap. 35). Chiara usa "tesoro" con todos, Kal incluido, como hasta ahora: el cambio de apodo es posterior.
 - No se toca la herida de Dale/Ruth, el arco del matrimonio ni la escena futura de la joyería. Vivian, Il Consorzio y material de la Parte III no aparecen; Dario sólo en la llamada colgada.
-- Continuidad vehicular: Audi A7 de Kal (segundo auto, ver Cap. 9 — El corral). Sin Lancia en escena; Chiara se va con él desde la destilería de Walt.
+- Continuidad vehicular: Audi A7 de Kal (segundo auto, ver Cap. 24c — El corral). Sin Lancia en escena; Chiara se va con él desde la destilería de Walt.
 -->
 
 # Capítulo 34 — Mi pareja

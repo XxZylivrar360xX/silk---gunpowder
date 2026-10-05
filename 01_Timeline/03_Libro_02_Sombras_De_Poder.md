@@ -481,6 +481,10 @@ nacimiento de Elenna, antes de la Guerra de los Tres abierta, con Halbrook reci�
 
 ---
 
+## Eagle Eye Security — CANON DEL AUTOR (2026-10-04)
+
+- Kal absorbe Eagle Eye Security (la seguridad del Monarch, sembrada en los Caps. 22 y 24c). Momento y mecanismo: PENDIENTE.
+
 ## Elementos pendientes explícitos (no rellenar por conveniencia)
 
 - Mecanismo del incendio del loft y contenido exacto de la amenaza de Crowe; cobro posterior

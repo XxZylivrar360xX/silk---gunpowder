@@ -1,5 +1,6 @@
 <!--
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): fuera la glosa de como se llevan Kal y Claudio, la cola "con la misma velocidad..." y dos "de verdad"; "Los lentes eran una herramienta, no una vanidad." La videollamada conserva su contracorte (decision del autor); el letrero del notario se deja. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B.md §9.
+Cirugia de dialogo de terceros 2026-10-04 (S3 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]]; sigue TERMINADO, la prosa nueva es DISEÑO pendiente de lectura): Harper con oficio (CANON DEL AUTOR: crecio en rancho). Decisiones del autor: el dato es el agua (el "riego" del papel baja del canal del vecino de arriba, que lo cierra en julio; "a ti no te va a abrir"), y "¿Y tu socio?" pasa a "¿A quien le contesto?". Fuera "No necesito caridad", la explicacion de la renta y "como quien reporta el clima" (ahora "Busco tardes"; la renta se ve en el cuarto). El "¿Por que yo?" lo contesta Kal con el dato de ella ("Porque a mi no me va a abrir"); la imagen "como si el cafe le debiera algo" queda una vez, en el flashback. "Aqui" del Gelsomino corregido a "las tardes". Fuera "al final" y "algo en la voz sonaba distinto" del cierre del trato. Pago nuevo en el salto de semanas: Harper negocio sola con el vecino y no lo cuenta. Sesion: 98_Agent_Handoff/sessions/2026-10-04_claude_cirugia_terceros_S3.md.
 Protagonistas: Kal Mercer, Harper Walker. Primera aparicion en prosa de Garrett Cross. Aparicion breve de Claudio (dueño de Il Gelsomino).
 Ventana temporal: en algun punto del mismo periodo que los capitulos de Kal/Chiara ya escritos -- meses despues de que ellos empezaran a pasar tiempo juntos (el flashback del parque lo confirma). Sin hito H asignado -- es un capitulo de expansion de El Patio, no de la relacion central.
 Lugares: notaria, Il Gelsomino, una parcela nueva al norte de San Aurelio, un parque cerca de Santa Lucia (flashback).
@@ -45,23 +46,25 @@ Harper. La muchacha seria de la barra de Mabel, la que servía el café más lar
 
 Harper lo miró con la misma desconfianza plana con la que miraba a todo el mundo, sin sorprenderse de verlo ahí.
 
-—Sigo en las mañanas. —Lo dijo sin amargura, como quien reporta el clima—. Me volvieron a subir la renta. Con un sueldo ya no alcanza. Llevo dos semanas buscando el segundo.
+—Sigo en las mañanas. Busco tardes.
 
 Claudio, ya de vuelta adentro, levantó la mano a modo de saludo sin detenerse. Ninguno de los dos le debía al otro una explicación por lo que acababa de pasar en esa puerta.
 
 —No te preocupes —dijo Kal—. No vas a trabajar aquí. Tengo un trabajo mucho más adecuado para ti.
 
-—No necesito caridad.
+—¿Haciendo qué?
 
-—No te estoy ofreciendo caridad. —Ya estaba caminando hacia la camioneta—. Sube. Te voy a enseñar algo.
+—Sube. —Ya estaba caminando hacia la camioneta—. Es más fácil enseñártelo.
+
+Harper miró la camioneta antes de mirarlo a él. Después subió, con la carpeta en las piernas.
 
 ***
 
 La tierra todavía no tenía ni una zanja marcada, solo el pasto crecido de años sin que nadie la tocara y, al fondo, el letrero nuevo con el nombre del notario grapado a un poste.
 
-Harper caminó unos metros dentro del terreno, tocó la tierra con la punta de la bota, y esperó.
+Harper caminó unos metros dentro del terreno, tocó la tierra con la punta de la bota, se agachó y deshizo un terrón entre los dedos. Después miró hacia el fondo, más allá del poste, donde una línea de carrizo seco cortaba el terreno de lado a lado.
 
-—Doce hectáreas —dijo Kal—. Las compré esta mañana. Van a sembrar verduras para el Gelsomino, para empezar, y para lo que se ofrezca después.
+—Doce hectáreas —dijo Kal—. Las compré esta mañana, con riego. Van a sembrar verduras para el Gelsomino, para empezar, y para lo que se ofrezca después.
 
 —¿Y qué tengo que ver yo con esto?
 
@@ -69,19 +72,33 @@ Harper caminó unos metros dentro del terreno, tocó la tierra con la punta de l
 
 Harper se lo quedó mirando un momento, calculando si eso era una oferta real o una prueba.
 
-—Yo necesito pagar renta, no comprar tierra.
+—Ese riego no es tuyo. —Señaló el carrizo—. Baja del canal de arriba. El de arriba lo cierra en julio, y en julio es cuando lo vas a necesitar.
 
-—Te pago más de lo que sacas con Mabel y lo que ibas a sacar aquí juntos. —Kal señaló con la barbilla el otro lado de la cerca, donde un cuarto de block con techo de lámina se caía despacio—. Y eso venía con el terreno. Necesita techo. El techo lo pongo yo. Mientras la parcela sea tuya, el cuarto también, y no pagas renta.
+Kal miró la línea seca. En el papel decía riego; Garrett lo había leído dos veces.
+
+—¿Se arregla?
+
+—Con un pozo, o con el de arriba.
+
+—¿Cuál sale más barato?
+
+—El de arriba. —Se limpió los dedos en el pantalón—. Pero a ti no te va a abrir.
+
+—Te pago más de lo que sacas con Mabel y con las tardes juntos. —Kal señaló con la barbilla el otro lado de la cerca, donde un cuarto de block con techo de lámina se caía despacio—. Y eso venía con el terreno. Necesita techo. El techo lo pongo yo. Mientras la parcela sea tuya, el cuarto también, y no pagas renta.
 
 Harper miró el cuarto más tiempo que el terreno.
 
-—¿Y tu socio? ¿No va a haber problema?
+—¿A quién le contesto?
 
-—Yo me encargo de él.
+—A mí.
+
+—¿Nada más?
+
+—Nada más.
 
 —¿Por qué yo?
 
-—Porque te he visto trabajar los últimos meses detrás de un mostrador como si el mostrador te debiera algo, y nunca te he visto fallarle a nadie que te haya dado una razón real para confiar. —Se encogió de hombros, casi incómodo con lo directo que acababa de sonar—. Eso, en mi experiencia, no abunda.
+—Porque a mí no me va a abrir.
 
 ***
 
@@ -97,7 +114,7 @@ Kal no había entendido del todo, en su momento, por qué eso le importaba tanto
 
 ***
 
-—Está bien —dijo Harper, al final, con la misma cara seria de siempre, aunque algo en la voz sonaba distinto—. Pero si esto sale mal, la culpa es tuya, no mía.
+—Está bien —dijo Harper, con la misma cara seria de siempre—. Pero si esto sale mal, la culpa es tuya, no mía.
 
 —Trato hecho.
 
@@ -105,7 +122,7 @@ Se dieron la mano ahí mismo, en medio del pasto sin sembrar, y Kal pensó, sin 
 
 ***
 
-Un par de semanas después, la tierra ya tenía surcos de verdad, y los primeros tomates empezaban a asomar verdes entre las guías.
+Un par de semanas después, la tierra ya tenía surcos de verdad, y los primeros tomates empezaban a asomar verdes entre las guías. El de arriba ya no iba a cerrar el canal en julio. Harper había subido a hablar con él un domingo y nunca le contó a Kal qué se dijeron.
 
 Kal se había comprado un sombrero de paja —ancho, ridículo, exactamente el tipo de cosa que nunca se habría puesto antes de tener tierra propia que cuidar— y una bandana anudada al cuello, para que el sol de mediodía no le terminara de cocinar la nuca. Harper trabajaba unos surcos más allá, sin levantar la vista, ya acostumbrada a que Kal apareciera por la parcela sin avisar.
 

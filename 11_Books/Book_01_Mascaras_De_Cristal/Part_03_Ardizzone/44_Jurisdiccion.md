@@ -5,7 +5,7 @@ Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no apar
 Personajes con diálogo: Héctor Navarro (teléfono), un abogado del Monarch (sin nombre), Giancarlo Krane (teléfono), Katherine Rowe (teléfono), Edward Connors (teléfono), Lucía Varek (en persona).
 Ventana temporal: mañana de D5 (horas después del arresto del Cap. 43) hasta la mañana de D6. Sin encabezados de fecha.
 Lugares: penthouse de la Torre Norte; despacho que fue de Matteo en el Monarch; un local de fórmica a dos calles de la comisaría.
-Función: "Institución". Chiara agota la vía legal y política: abogados del Monarch, Krane (penalista; desde el Cap. 24 lleva asuntos comerciales de Chiara. CANON DEL AUTOR 2026-10-02: Rivers no es penalista, Krane sí; el bufete de Kal se forma después), fianza, ayuntamiento (favor de El Faro), Rowe (rima con el "favor de prensa" del Cap. 23), Connors. La municipal lo pierde por la reclamación federal. Lucía lo confirma.
+Función: "Institución". Chiara agota la vía legal y política: abogados del Monarch, Krane (penalista; desde el Cap. 24 lleva asuntos comerciales de Chiara. CANON DEL AUTOR 2026-10-02: Rivers no es penalista, Krane sí; el bufete de Kal se forma después), fianza, ayuntamiento (favor de El Faro), Rowe (rima con el "favor de prensa" del Cap. 23; AJUSTE 2026-10-04 (decision del autor, arrastre de la reubicacion del Corral; BORRADOR): Chiara cobra el favor que Rowe le debe desde el Cap. 9 y Rowe lo reconoce sin poder pagarlo; sigue vivo hacia el Libro II), Connors. La municipal lo pierde por la reclamación federal. Lucía lo confirma.
 - Cronología (DISEÑO, coherente con el Cap. 43): el reclamo federal y el traslado a Camp Alder ocurren esa misma madrugada; el papel municipal tarda un día en enterarse. Chiara pasa D5 persiguiendo un expediente que ya no tiene cuerpo.
 - Arresto (CANON DEL AUTOR 2026-10-02, ver Cap. 43): el equipo lo ve desde el helicóptero (Kal revienta llantas, un agente lo embiste); en la playa la radio de Garrett confirma "un detenido"; reclamos mutuos y el puñetazo de Garrett a la puerta, contados por Héctor fuera de cuadro.
 - Héctor no le dice adónde fueron ("Eso no me toca a mí"): Chiara no sabe de la incursión ni de Halbrook; el arma de Dario y el expediente quedan para los Caps. 46–47.
@@ -151,7 +151,7 @@ La llamada volvió cuarenta minutos después. Para entonces el abogado mayor hab
 
 —¿Qué significa eso?
 
-—Que yo no tengo nada que firmar. —Una pausa breve, política—. Lo siento de verdad. Era un hombre encantador.
+—Que yo no tengo nada que firmar. —Una pausa breve, política—. Te debo una, Chiara. Y no me alcanza para pagártela con esto. Lo siento de verdad. Era un hombre encantador.
 
 Chiara no le corrigió el tiempo verbal. Le dio las gracias y colgó.
 

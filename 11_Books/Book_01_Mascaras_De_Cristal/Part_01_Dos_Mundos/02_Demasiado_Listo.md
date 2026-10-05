@@ -6,6 +6,7 @@ Lugares: Kingsley Field, carreteras del norte de San Aurelio, The Monarch Casino
 Funcion: dar a Chiara entrada propia, presentar a Fabrizio, Tommaso y Dario, la reunion interna sin Kal, el primer apreton de manos, el rechazo por "demasiado listo" y el cierre paralelo de radar mutuo.
 Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_01-03.md (seccion 9). Canon del autor: Chiara administraba casinos de Il Consorzio en Nueva York antes de San Aurelio; Il Consigliere la llama signora Ardizzone (institucion); entre sus aliados, el unico que naturalmente la llama Ardizzone es Fabrizio, por la amistad de infancia; la sala del Monarch queda en POV de Kal hasta que el sale, y despues pasa a Chiara.
 Dialogo K/C y reparto reescrito (2026-10-04, cirugia extraordinaria autorizada por el autor sobre capitulo TERMINADO; el estado se conserva). Direccion del autor: Chiara quiere entender la decision del Consigliere (que hace ella ahi) y cataloga a Tommaso, Matteo y Kal como variables externas, Kal la interesante por nueva; Kal busca dinero a gran escala y prestigio (Nadir ya abrio la estetica de autos; el casino abre carreras callejeras y tuneo), y los ojos de ella le duran mas que los pocos segundos que da a las mujeres de su circulo; Tommaso la vigila porque la version de Alessio asaltado solo en casa no le cierra, y la tolera porque su vision de negocio es afilada; Matteo ve en Kal a un hombre de calle que como socio puede abrir negocios futuros. DISENO del agente, BORRADOR pendiente de lectura; ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I.md §7. Intactos: Consigliere, H2, catre (salvo un parrafo), tina, y las lineas protegidas de Audit_Caps_01-03 §9.
+Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); capitulo TERMINADO, el estado se conserva; prosa nueva DISENO pendiente de lectura): Tommaso la llama "Bellandi" (regla dura de su ficha) en el lobby y al cerrar la junta. Fabrizio: "La inteligencia no es un defecto" sustituida por la anecdota del abuelo que corria a los listos (eleccion del autor). "Chiara Ardizzone en California... mapas" se queda (decision del autor).
 -->
 
 # Capítulo 2 — Demasiado listo
@@ -210,7 +211,7 @@ No se acercó de inmediato. Esperó a que ella tuviera que mirarlo.
 
 Tenía los ojos de una familia que había aprendido a confundir duelo con propiedad.
 
-—Chiara.
+—Bellandi.
 
 —Tommaso.
 
@@ -650,7 +651,7 @@ Lo dijo bajo, pero no lo bastante.
 
 Kal lo oyó. Chiara también. Y la frase se quedó en la mesa, esperando a un hombre que ni siquiera estaba en el cuarto.
 
-—La inteligencia no es un defecto —dijo Fabrizio.
+—Mi abuelo corría a los listos —dijo Fabrizio, riéndose a medias—. Luego los volvía a contratar más caros.
 
 Tommaso no le contestó. Volvió a girar el anillo de sello.
 
@@ -730,7 +731,7 @@ Tommaso la sostuvo con la mirada lo que tarda una cuenta en revisarse. No encont
 
 Se levantó. Los demás lo hicieron medio segundo después, menos Chiara.
 
-—No habrá contrato con Mercer por ahora —dijo Tommaso—. Matteo, busque una opción menos creativa. Chiara, mañana revisaremos prensa local y lista de invitados.
+—No habrá contrato con Mercer por ahora —dijo Tommaso—. Matteo, busque una opción menos creativa. Bellandi, mañana revisaremos prensa local y lista de invitados.
 
 —Por supuesto.
 

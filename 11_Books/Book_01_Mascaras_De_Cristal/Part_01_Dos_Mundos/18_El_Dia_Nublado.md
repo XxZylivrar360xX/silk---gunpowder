@@ -9,6 +9,7 @@ Apertura por residuo: profundiza el cierre del Capitulo 16 (la mano sobre la man
 Confirmado por el autor (2026-08-29): esta escena ES "el dia nublado" que menciono el autor; Blake Stanton ya esta fuera del cuadro y no se menciona por nombre; el campo de golf no lleva ficha y la propiedad de Kal queda vaga a proposito (chiste). Ver [[06_Relationships/Hitos]] #H4, seccion Pendientes.
 Ajuste al juego de preguntas (2026-09-07), a peticion del autor: la pregunta de la cicatriz se quita por completo -- su historia real (Medio Oriente, como conocio a Nadir) queda reservada para la noche del jacuzzi, no se contradice aqui con una explicacion falsa. Se reemplaza por una pregunta frivola (primer carro). Se añade un chiste sobre los siete años de diferencia de edad tras la pregunta de la edad, que ambos entienden sin nombrarlo. Se añade una pregunta nueva de tono mas alto: si ha estado con alguien mas desde que llego a la ciudad -- Chiara responde pensando en Blake sin nombrarlo, nota el microgesto de celos de Kal (arruga la nariz) y lo tranquiliza tocandole el brazo. La pregunta pivote cambia de "has matado a alguien" a "has visto morir a alguien frente a ti" -- ahora contextualiza tanto la muerte de Jim Keegan (respuesta de Kal) como la del exmarido de Chiara (respuesta reciproca), sin que ninguno lo diga explicito.
 Cirugia de dialogo 2026-10-04 (DISEÑO pendiente de lectura; autorizada por el autor, ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I §7): solo la mitad comica, hasta el hoyo 7. Del octavo hoyo al final, intacto.
+Conversacion del miedo 2026-10-04 (decision del autor; prosa DISEÑO pendiente de lectura; el capitulo sigue TERMINADO): material traido por el autor de la fuente, reescrito en voz propia (no transcrito). Entra en el auto frente al Monarch, despues de que Kal apaga el motor (la decision silenciosa de quedarse se conserva intacta) y antes de "Anda, hay que subir": "lo que paso no lo puedes cambiar", "puños arriba", el remolino, el freno por miedo, "lo llevo de copiloto" (ancla: la carrera del Peugeot, Cap. 8), el miedo como señal de que algo importa, y la disculpa de Chiara por el juego de preguntas. Fugas: Chiara gira la pulsera; Kal, mano y pulgar en el volante. Fuera de esta entrada (decision pendiente del autor): "me queda una noche antes de irme" (paso al Cap. 38), la lluvia al subir, el elevador y el casino cerrado.
 Siembra 2026-10-04 (DISEÑO aprobado por el autor; arrastre de la reubicacion del Corral): en el relato del matrimonio, Chiara menciona "unas familias... que se sentaban a una misma mesa" (sin nombre del marido, sin "Il Consorzio"). Origen de "Me nombro familias. Las que tu me habias mencionado" en el parador del 24c. El nombre Il Consorzio sigue reservado al 25.
 -->
 
@@ -386,7 +387,57 @@ Toda la vida de Kal había funcionado así: motor encendido, salida calculada an
 
 Pasó un minuto entero así —ella con la mano en la manija, él sin decir nada, la nube quieta arriba— y en algún punto de ese minuto, sin ruido, sin nombrarlo siquiera para sí mismo, Kal decidió no hacer lo de siempre. No leyó la situación. No se volvió lo que pedía. Se quedó.
 
-Apagó el motor. Se bajó, dio la vuelta al auto por delante y le abrió la puerta desde fuera. Le tendió la mano.
+Apagó el motor.
+
+Chiara miró la llave quieta en el contacto. No soltó la manija.
+
+—Lo que pasó no lo puedes cambiar —dijo Kal—. Ni tú ni nadie. Y que te salga contarlo conmigo no tiene nada de malo. No te va a costar nada. —Movió la mano sobre el volante, una sola vez—. Conmigo no tienes que tener los puños arriba.
+
+—Lo sé.
+
+—¿Pero?
+
+Chiara giró la pulsera en la muñeca.
+
+—Pero cuando hablo de eso contigo no lo controlo. Empiezo y ya no paro. Es un remolino: una vez adentro, no sale una cuando quiere. —Se detuvo y lo rehízo—. No me pasaba. No en años.
+
+—¿Y por eso frenas?
+
+Ella no contestó.
+
+—¿Por miedo? —preguntó él—. ¿A qué?
+
+—A todo, supongo. —Era una cifra redonda, y los dos lo sabían—. A muchas cosas que preferiría no frenar. Las freno igual.
+
+—¿Y quieres vivir así?
+
+—No.
+
+Kal siguió mirando las puertas de vidrio.
+
+—Desde que te conozco haces cosas que no hacías. Hoy te metiste a un campo de golf con una falda que escogí yo. Nadie te obligó, y no te vi pensando qué iban a decir. —Una pausa—. Entonces dime qué quieres. Esto, lo de hoy. O el plan que traes en la cabeza desde hace años.
+
+—Eso lo tengo claro. —Chiara soltó por fin la manija—. Lo que no se va es el miedo. Pero así hago las cosas, Kal. Con miedo, todo el tiempo. Cuando me sales con uno de tus planes y te digo que sí, te digo que sí con miedo. La noche de la carrera, en el Peugeot, iba con miedo. Todo lo hago con miedo. Pero lo hago. —Lo pensó un segundo y lo dejó como estaba—. Lo llevo de copiloto.
+
+—¿Y así estás bien?
+
+—Lo sigo intentando. —Volvió a la pulsera—. Por ahora creo que voy bien.
+
+Kal tardó en contestar.
+
+—El miedo no es lo malo. Te dice que sigues viva. Mientras no te pare, sirve. —Se pasó el pulgar por el borde del volante—. He conocido a un par que no le tenían miedo a nada. No quieres conocerlos. Si tienes miedo, es que hay algo que te importa. Perderlo, echarlo a perder, lo que sea. Hay que estar atento. Nada más.
+
+Chiara volvió a mirar el vestíbulo.
+
+—Me habría gustado no contarlo así. Sé cuándo se cuentan esas cosas, y cómo, y que se cuentan de a poco. Hoy no lo hice. —Lo miró—. Te pido disculpas.
+
+—No tienes de qué.
+
+—El juego fue idea mía.
+
+—Y la pregunta te la devolví yo. —Le sostuvo la mirada—. No es culpa de nadie.
+
+Se bajó, dio la vuelta al auto por delante y le abrió la puerta desde fuera. Le tendió la mano.
 
 —Anda, hay que subir.
 

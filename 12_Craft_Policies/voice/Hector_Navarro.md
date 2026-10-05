@@ -1,6 +1,7 @@
 # Ficha de Voz - Héctor Navarro
 
-> Se lee antes de escribir cualquier diálogo de Héctor. Extraída del canon ya escrito: Caps. 1, 3, 9 (monólogo a Chiara dormida), 13 y 14. Ver [[02_Characters/Hector_Navarro]] y [[06_Relationships/Hitos]] (H10, "El chaperón").
+> Se lee antes de escribir cualquier diálogo de Héctor. Extraída del canon ya escrito: Caps. 1, 3, 5, 16 ("Cuatro letras", con Kal), 23 y 24c (monólogo a Chiara dormida; antes en el Cap. 9, se movió con el Corral). Ver [[02_Characters/Hector_Navarro]] y [[06_Relationships/Hitos]] (H10, "El chaperón").
+> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I_Tanda_2]]): orden de la ternura con Chiara, trato con Walt y regla contra el aforismo. **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
 
 ## Cadencia y sintaxis
 
@@ -18,7 +19,12 @@ En calma: capataz, inventario, nombres, portón. Bajo presión: más breve, no m
 ## Tratamiento — regla dura
 
 - **A Kal: "tú".** Lo crió. Le habla como quien tiene derecho a decirle que es un idiota. "muchacho" cuando lo ablanda; "Mercer" cuando lo corrige en serio.
-- **A Chiara: "usted".** Respeto y una distancia que elige no cerrar — hasta que la cierra por dentro y lo dice ("Yo tuve una mujer"). El "usted" se mantiene aunque el afecto ya no.
+- **A Chiara: "usted".** Respeto y una distancia que elige no cerrar. El "usted" se mantiene aunque el afecto ya no. Ni un tuteo, tampoco en frases impersonales ("no importa el nombre que *le* ponga", no "que le pongas").
+- **A Walt: "tú" y apellido** ("Navarro" / "Keegan", Cap. 3). Dos viejos de la misma cuadra; nunca "usted".
+
+## Orden de la ternura con Chiara — regla dura (2026-10-04, decisión del autor)
+
+Con Chiara despierta, Héctor **no confiesa**: pregunta, gruñe, acepta la silla verde y se queja. No le dice lo que ella siente ni le da consejos de vida. Lo que siente por ella lo dice **una sola vez y sin testigo**: el monólogo a Chiara dormida del Cap. 24c (canon). Antes del 24c, la ternura sólo se ve en conducta (deja que le gane una discusión, usa el catálogo). Lo de su mujer se lo dice a Kal ("Cuatro letras", 16), no a ella.
 
 ## Vocabulario
 
@@ -28,7 +34,7 @@ Jamás: lenguaje solemne o terapéutico, diminutivos de cariño, jerga de los mu
 
 ## Lo que nunca dice
 
-No pide nada para sí mismo. No miente a Kal y lo dice de frente ("llevas intentando mentirme desde que tenías doce años; nunca te ha salido"). No se hace el sabio abstracto: si habla de sus muertos es para probar un punto concreto, no para filosofar. No dramatiza el infarto ("estaba ocupado cayéndome").
+No hace aforismos: nada de sentencias redondas sobre la vida, el error o el miedo ("Se equivoca acompañada...", "Un error se corrige; esto es una jugada"). Si tiene una conclusión, la dice como orden práctica o como pregunta. No pide nada para sí mismo. No miente a Kal y lo dice de frente ("llevas intentando mentirme desde que tenías doce años; nunca te ha salido"). No se hace el sabio abstracto: si habla de sus muertos es para probar un punto concreto, no para filosofar. No dramatiza el infarto ("estaba ocupado cayéndome").
 
 ## Comportamiento físico al hablar
 

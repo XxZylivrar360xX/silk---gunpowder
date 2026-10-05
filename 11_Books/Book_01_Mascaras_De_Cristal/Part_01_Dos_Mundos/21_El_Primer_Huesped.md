@@ -7,6 +7,8 @@ Estado: TERMINADO (aprobado por el autor el 2026-09-12, tras CLOSE 2026-09-12 co
 Ajuste 2026-10-01 (idea del autor, redaccion = DISENO): Kal ya no dice la edad de Marisol al morir Michael; se reserva para el Cap. 25 (Libros abiertos). Ahora: "Lo de Michael fue difícil. Pero con sus risas y sus ocurrencias, hasta eso se volvió habitable."
 Apertura por residuo: arranca directo del cierre del Capitulo 20 -- la misma noche, horas despues, todavia en la cama.
 Punto de vista (ajustado 2026-09-07): tercera persona cercana, un POV fijo por bloque de escena, segun quien paga mas el costo -- llamada y trayecto: Kal. Loft y confesion de Marisol: Chiara (es ella quien hace el trabajo emocional; Kal se queda callado, asi que perder su interioridad ahi refuerza eso mismo). Mezzanine: Kal (es su linea, su promesa). Desayuno del sabado y despedida final: Chiara, cerrando con la cara de Kal descrita desde afuera, no desde su cabeza.
+Microcirugia de dialogo K/C 2026-10-04 (autorizada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]] §7; DISEÑO pendiente de lectura, el resto sigue TERMINADO): fuera "Kal no tuvo con que contestarle eso"; mezzanine sin "No le vas a fallar / No lo se todavia / Yo si": Chiara da el dato ("Te llamo a ti. A las tres de la mañana") y Kal le busca la mano en la barandilla; Chiara con Marisol en su voz (revisa el pomulo, "¿Alguien grabo? ... Esas cosas se bajan"; los huevos; "Yo tarde mas que tu" como confesion-dato) en lugar de sentencias. Lineas del autor intactas.
+Cirugia de dialogo de terceros 2026-10-04 (S3 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]]; sigue TERMINADO, la prosa nueva es DISEÑO pendiente de lectura): Marisol en el desayuno. Decisiones del autor: el iman de la manzana (Cap. 14) estaba en el refrigerador del loft, Kal nunca se lo dio a Chiara; Marisol lo despega en el desayuno, Kal lo explica frente a las dos ("Era para Chiara" / "Porque es feo" / "Por eso", eco del 14) y Chiara lo vuelve a pegar mas arriba, sin comentario. Fuera, con confirmacion del autor aunque Lote B las protegia: "Es lo minimo, considerando...", "Para los dos. No solo por Kal. Por los dos", "Es raro... contigo no" y "Es una de las ventajas de ser mujer" (ahora "Roncabas"; "¿Me equivoco, Chiara?" / "Sin duda alguna, bambina" intactas). La Funcion de arriba conserva la version anterior como registro. Sesion: 98_Agent_Handoff/sessions/2026-10-04_claude_cirugia_terceros_S3.md.
 -->
 
 # Capítulo 21 — El primer huésped
@@ -41,7 +43,7 @@ Chiara ya se estaba sentando, apartando las sábanas.
 
 —Kal. —Lo dijo sin levantar la voz—. Llevas media botella de rosado encima y estabas dormido hace treinta segundos. No vas a manejar así con ella también en el auto.
 
-Kal no tuvo con qué contestarle eso. Le pasó las llaves sin decir nada.
+Kal le pasó las llaves.
 
 ***
 
@@ -91,9 +93,15 @@ Chiara se sentó al otro lado de Marisol y le puso la taza entre las manos.
 
 —Más el orgullo.
 
-—Eso también se cura. Tarda más, pero se cura.
+Chiara le giró la barbilla hacia la lámpara con dos dedos, sin pedir permiso, y miró el pómulo de cerca.
 
-—No te quedaste ahí como una idiota —dijo Chiara, después, más bajo—. Te quedaste ahí como alguien a quien mintieron. Eso no es lo mismo.
+—Sin anillo. Mañana va a estar morado, no abierto. —Le soltó la barbilla—. ¿Alguien grabó?
+
+Marisol tardó en entender la pregunta.
+
+—No sé. Creo que no.
+
+—Si alguien grabó, me dices. Esas cosas se bajan.
 
 Marisol no contestó, pero algo en sus hombros bajó un poco.
 
@@ -109,13 +117,9 @@ Subieron al mezzanine sin decir nada, y se quedaron un momento apoyados en la ba
 
 Chiara no preguntó a quién se refería. No hacía falta.
 
-—No le vas a fallar.
+—Te llamó a ti —dijo Chiara—. A las tres de la mañana.
 
-—No lo sé todavía.
-
-—Yo sí.
-
-Kal la miró un segundo, y no discutió eso.
+Kal no contestó. Siguió mirando el bulto de la manta, y al rato, sin apartar la vista, le buscó la mano sobre la barandilla.
 
 Se fueron a la cama poco después, con la casa en silencio y la luz de la ciudad entrando apenas por la ventana del mezzanine, y por primera vez en años, Kal se durmió con alguien despierta a su lado sin sentir la necesidad de quedarse alerta él también.
 
@@ -125,11 +129,11 @@ El sábado por la mañana, Marisol se despertó antes que ninguno de los dos.
 
 Para cuando Chiara bajó, descalza, todavía medio dormida, la cocina ya olía a café de verdad y algo se doraba en la sartén.
 
-—Buenos días —dijo Marisol, sin voltear, concentrada en no quemar los huevos—. Hice desayuno. Es lo mínimo, considerando que anoche me recibieron sin preguntar nada.
+—Buenos días —dijo Marisol, sin voltear, concentrada en no quemar los huevos—. Hice desayuno.
 
 —No hacía falta.
 
-—Ya sé que no hacía falta. Lo hice de todos modos. —Volteó por fin, con una sonrisa todavía un poco cansada pero real—. Para los dos. No solo por Kal. Por los dos.
+—Ya sé que no hacía falta. —Volteó por fin y señaló la isla con la espátula—. Siéntate. Ya casi está.
 
 Chiara se sentó en la isla, aceptando la taza que Marisol le puso enfrente sin que se lo pidiera.
 
@@ -137,23 +141,19 @@ Chiara se sentó en la isla, aceptando la taza que Marisol le puso enfrente sin 
 
 —Mejor. —Marisol se encogió de hombros—. Todavía me duele la cara. Y el orgullo, un poco más.
 
-—¿Quieres hablar de eso, o prefieres que hablemos de otra cosa? No tienes que contarme nada si no te sientes cómoda.
+—Si quieres hablar de eso, hablamos. Si no, me explicas cómo le haces para que no se peguen los huevos.
 
-—No, está bien. —Marisol se sentó frente a ella, con su propia taza—. Es raro. Pensé que me iba a costar más decirlo en voz alta, pero contigo no.
+—Mantequilla, y no moverlos. —Marisol se sentó frente a ella, con su propia taza—. Y lo otro también.
 
 Esta vez lo contó sin lágrimas, con una distancia que la noche anterior no tenía: que Diego era simpático pero cobarde, que la novia enojada daba más miedo del que Marisol jamás le hubiera imaginado, y que en el fondo ya sospechaba que algo no cuadraba y se lo había callado a sí misma porque el café gratis se sentía bien.
 
 —Eso último es lo peor —dijo Marisol—. No que me haya mentido. Que yo ya lo sabía y decidí no verlo.
 
-—Eso no te hace tonta. Te hace humana. —Chiara le dio un trago al café—. Todos hacemos esa cuenta alguna vez: lo que sabemos contra lo que queremos creer.
+—Yo tardé más que tú. —Chiara le dio un trago al café y siguió antes de que Marisol pudiera preguntar cuánto—. ¿Y el café era bueno, por lo menos?
 
-—¿Y tú? ¿Alguna vez perdiste esa cuenta?
+—Malísimo. —A Marisol se le escapó la risa por la nariz.
 
-Chiara sonrió, corto, sin contestar del todo.
-
-—Más de una vez. Por eso sé reconocerla en otra persona.
-
-Se rieron de algo después de eso —Marisol imitando la cara de Diego la primera vez que le sirvió el café mal a propósito, solo para ver si se daba cuenta— y para cuando Kal bajó, con el pelo aplastado de un lado, la risa entre las dos ya sonaba a costumbre.
+Se rieron un rato de eso —Marisol imitando la cara de Diego la primera vez que le sirvió el café mal a propósito, solo para ver si se daba cuenta— y para cuando Kal bajó, con el pelo aplastado de un lado, la risa entre las dos ya sonaba a costumbre.
 
 —Ese café huele demasiado bien para ser mío —dijo, sirviéndose una taza sin preguntar.
 
@@ -167,7 +167,7 @@ Kal se quedó con la taza a medio camino de la boca.
 
 —¿Te dio tiempo de todo eso?
 
-—Claro. —Marisol se encogió de hombros, como si la pregunta no mereciera más—. Es una de las ventajas de ser mujer. ¿Me equivoco, Chiara?
+—Claro. —Marisol se encogió de hombros, como si la pregunta no mereciera más—. Roncabas. ¿Me equivoco, Chiara?
 
 —Sin duda alguna, bambina.
 
@@ -182,6 +182,24 @@ Kal se sentó.
 —Está bueno, de todos modos —dijo, resignado.
 
 —Obvio que está bueno. Lo elegí yo.
+
+Marisol se levantó por la leche. Al cerrar el refrigerador despegó algo de la puerta y lo dejó en la isla, junto al vaso de Kal: una manzana roja de plástico, con el nombre de un lago pintado en una hoja diminuta.
+
+—¿Y esto?
+
+Kal dejó el vaso.
+
+—Era para Chiara.
+
+—Eso ya lo sé. —Marisol señaló la manzana con el cartón de leche—. ¿Y por qué sigue aquí?
+
+—Porque es feo.
+
+—Por eso.
+
+Chiara tomó la manzana, la miró por los dos lados y la volvió a pegar en la puerta del refrigerador, más arriba, a la altura de los ojos.
+
+Marisol no dijo nada. Kal tampoco.
 
 Terminaron el desayuno entre bromas menores y silencios fáciles, y cuando Marisol se levantó a lavar los platos sin que nadie se lo pidiera, Kal la dejó hacerlo. Marisol tenía la cara más suelta que unas horas antes; en algún punto entre el café y la risa, el golpe de la noche anterior había empezado a doler menos.
 

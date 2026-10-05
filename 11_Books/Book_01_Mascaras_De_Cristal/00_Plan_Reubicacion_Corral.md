@@ -30,7 +30,7 @@ El ataque del Corral (Cap. 9, H12) queda a meses de la Parte II, pero la Parte I
 - **Aprobado por el autor (2026-10-04):** Kal la saca antes de que llegue la policía y Rowe deja a Chiara fuera del parte. Rowe le queda debiendo a Chiara (posible uno de los "tres favores" del 13; define su pendiente de facción como oportunista que sobrevive).
 - **Por qué el barrio y no el Monarch (DISEÑO):** en el Monarch, Dario preguntaría qué hacía ella en un café privado con la fiscal; en la Almendra, Crowe no la toca sin abrir guerra con Kal. Se queda unos días en la casa común. **No es mudanza** (H16).
 - **Del Corral actual se conserva para el nuevo 9:** el cierre en la casa común (el cuarto que "no gritaba de quién era", la palabra de Kal, el abrazo) y "Lo necesario. Hasta que ya no lo sea", ajustados a la deuda: aquí el que pide es Kal.
-- **Espejo de la aceptación (autor 2026-10-04: "más dramático dicho por ella"; reparto: recomendación del agente, pendiente de confirmar):** en el 9 lo dice ella. Para ella es aceptar que puede contar con él; Kal lee que está dispuesta a ponerse en peligro por él. Malentendido real, como en el 28; la lectura de Kal se ve en lo que hace (le pide que se quede cerca), no se narra. Línea propuesta (DISEÑO): "Entonces que me vean contigo." En el 24c, el temblor corporal canon de H12 sigue igual (su mundo puede alcanzarlo a él), sin frase. Primero ella lo dice y él lo malinterpreta; después ella lo siente y no lo dice.
+- **Espejo de la aceptación (autor 2026-10-04: "más dramático dicho por ella"; reparto CONFIRMADO por el autor 2026-10-04):** en el 9 lo dice ella. Para ella es aceptar que puede contar con él; Kal lee que está dispuesta a ponerse en peligro por él. Malentendido real, como en el 28; la lectura de Kal se ve en lo que hace (le pide que se quede cerca), no se narra. Línea propuesta (DISEÑO): "Entonces que me vean contigo." En el 24c, el temblor corporal canon de H12 sigue igual (su mundo puede alcanzarlo a él), sin frase. Primero ella lo dice y él lo malinterpreta; después ella lo siente y no lo dice.
 
 ## Corral reubicado como Cap. 24c (entre 24b y 25) — DISEÑO
 
@@ -53,7 +53,7 @@ El ataque del Corral (Cap. 9, H12) queda a meses de la Parte II, pero la Parte I
 | 10 | Detonante = deuda de Kal. Los deseos de la cirugía 2026-10-04 se voltean: ya no "ella deja de ser carga", sino "él le debe". La fricción con Nadir cambia de signo: le reprocha a Kal haber provocado al Tasador más que desconfiar de ella. Fuera: los mareos y "dos dedos a la sien" (pasan a la muñeca), la receta, "con gente de Dario en cada pasillo del Monarch" (l. 570). |
 | 11 | Mención de la mesa larga de la casa común: sigue valiendo. |
 | 12 | Metadata ("arco de H12 en Caps. 9-10") y el sedán/Peugeot: revisar. |
-| 13 | Revisar si un favor de Rowe entra en los "tres favores". |
+| 13 | RESUELTO (autor 2026-10-04): el favor de Rowe queda pendiente; no entra en los "tres favores" del 13. |
 | 17 | Revisar contra lo que Walt cuenta de Crowe; el Tasador ya está activo. |
 | 24b → Corral → 25 | Inserción; ventana del 25. |
 | 25 | La cita de la tregua sigue; "Pero ahora ya es diferente" gana. Ajustar fecha del contrato. |
@@ -63,7 +63,7 @@ El ataque del Corral (Cap. 9, H12) queda a meses de la Parte II, pero la Parte I
 
 **Fuera de prosa:** [[06_Relationships/Hitos]] (H12 posición y gravedad; H14 detonante), [[05_Locations/La_Casa]] (l. 17), [[03_Factions/Fiscalia_de_San_Aurelio]], [[02_Characters/Silas_Crowe]] (primera acción en presente), [[02_Characters/Beatrice_Varek]], [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]], [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]], [[12_Craft_Policies/CHAPTER_STATUS]].
 
-**Posible resonancia, PENDIENTE (no rellenar):** Dale le debía a Crowe y La_Casa tiene pendiente "por qué había dejado de ser suya". Si la casa se perdió por esa deuda, recomprarla justo después del asalto sería quitarle algo al Tasador. Sólo si el autor lo decide.
+**DESCARTADA (2026-10-04, CANON DEL AUTOR: la casa se vendió por desocupada cuando Kal se fue al ejército).** ~~Posible resonancia, PENDIENTE (no rellenar):~~ Dale le debía a Crowe y La_Casa tiene pendiente "por qué había dejado de ser suya". Si la casa se perdió por esa deuda, recomprarla justo después del asalto sería quitarle algo al Tasador. Sólo si el autor lo decide.
 
 ## Numeración — CANON DEL AUTOR (2026-10-04)
 

@@ -9,6 +9,7 @@ Resolución (decisión del autor 2026-09-09): NO hay fallo del juez. Krane, vien
 Siembra: al cerrar, Kal le da un apretón fuerte a Hoover (sin rencor) y le pasa a Krane un número en media hoja — le quiere ofrecer trabajo. Precedente del bufete "Rivers & Krane".
 REGLA DURA: Tommaso no se vuelve aliado, no explica su motivo, no recibe agradecimiento, no da ninguna pista del Consorzio.
 Pasada editorial 2026-09-10 (Claude Code, decision del autor): recuerdo de la primera reunion alineado con el Cap. 2 ("una silla en la mesa", no "participacion"); hecho legible como la contradiccion de Tommaso se suma a transferencias/perdidas/documentos de Garrett para dejar a Hoover sin version, y por que Rivers sabe que Tommaso mintio; corregidos referentes (objecion, defensa, la otra parte, Rivers, focalizacion de Chiara, "cuarto intermedio" fuera); poda de glosas y remates.
+Microcirugia de dialogo K/C 2026-10-04 (autorizada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]] §7; DISEÑO pendiente de lectura): escaleras sin "Naturalmente / enfermedad / Ambicion / peor pronostico"; ahora "Ma dai... Todavia no cobras el cheque / Ya vi uno". Opcion A del autor: el "mi... amigo" no se nombra despues; la mano ofrecida y soltada "No antes" es la respuesta.
 -->
 
 # Capítulo 24 — Bajo juramento
@@ -329,21 +330,15 @@ Chiara lo alcanzó en las escaleras del juzgado. La luz de media tarde hacía qu
 
 Kal bajó dos escalones antes de responder.
 
-—Comprar otra cosa.
-
-—Naturalmente.
-
-—Un concesionario.
+—Comprar otra cosa. Un concesionario.
 
 Ella se detuvo. Kal bajó otro escalón y giró.
 
 —¿Qué?
 
-—Nada. —Chiara siguió caminando—. Sólo intento imaginar qué enfermedad te impide recibir dinero sin convertirlo en otro negocio.
+—Ma dai. —Chiara se rió, corto, sorprendida de sí misma, y siguió bajando—. Todavía no cobras el cheque.
 
-—Ambición.
-
-—Eso tiene peor pronóstico.
+—Ya vi uno.
 
 Kal le ofreció la mano para bajar el último escalón. Chiara la tomó. La soltó al llegar a la acera. No antes.
 

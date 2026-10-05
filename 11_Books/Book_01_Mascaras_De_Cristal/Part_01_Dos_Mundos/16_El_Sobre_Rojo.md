@@ -1,5 +1,6 @@
 <!--
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-26 (Prioridad C, autorizada por el autor, sigue TERMINADO): prolepsis de la cocina, saltos de POV (casino, cuarto, auto anclado en Kal), parte del infarto a Kal comprimido, contradiccion "llegaron / seguia conduciendo" al Monarch, tercera "respuesta suficiente", siembra de Matteo ("Matteo cubre el piso", hilo C; rima con el Cap. 41). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17.md.
+Cirugia de dialogo de terceros 2026-10-04 (S2 del Plan_Cirugia_Terceros_Parte_I; sigue TERMINADO): visita de Chiara a Hector podada por decision del autor -- Hector solo pregunta y gruñe; salen sus aforismos ("Se equivoca acompañada...", "sostener algo con el cuerpo..."), "Usted ya siente por el...", "con usted no me sale ser el cascarrabias" y el tuteo; la ternura queda para el monologo del Cap. 24c. Chiara se va con la pregunta "¿Y el que no le ha contado a usted?" (decision del autor). Lineas de Chiara intactas salvo el ajuste minimo de enlace. "Cuatro letras" intacta. La prosa nueva es DISENO pendiente de lectura del autor. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I.md.
 Protagonistas: Kal Mercer, Chiara Bellandi, Hector Navarro.
 Ventana temporal: continua directamente del Capitulo 15 (POV Chiara). El domingo en que Kal vuelve del campamento, y los dias siguientes en el hospital.
 Lugares: La Casa (loft de Kal), The Monarch Casino & Hotel, Hospital Santa Aurelia.
@@ -67,13 +68,13 @@ Le llevaba café que él no siempre terminaba y noticias del taller que él fing
 
 —¿Y eligió?
 
-—La silla verde. La que cuesta lo que cuesta un auto usado. —Gruñó, pero sin el peso de siempre—. No sé cómo hace usted para convencer a un viejo terco sin ni siquiera intentarlo.
+—La silla verde. La que cuesta lo que cuesta un auto usado. —Gruñó, pero sin el peso de siempre.
 
 —No lo convencí. Solo dejé el catálogo donde lo pudiera ver.
 
-—Es lo mismo, con usted. —La miró un momento, casi sorprendido de sí mismo—. No sé por qué con usted no me sale ser el cascarrabias que soy con todo el mundo. Con Kal soy un dolor de cabeza. Con los del taller, peor. Con usted no me sale.
+—Es lo mismo, con usted.
 
-—Usted no tiene que venir todos los días —añadió, después de un silencio, como si la frase anterior no le hubiera costado nada.
+—Usted no tiene que venir todos los días —añadió, después de un silencio.
 
 —Ya lo sé.
 
@@ -91,25 +92,17 @@ Héctor la miró un momento, con la clase de atención que no gastaba en cualqui
 
 —Somos de mundos distintos, Héctor —dijo, casi de pasada, como quien cierra un tema antes de que nadie lo abra—. Eso no cambia porque yo venga a traerle café, ni porque usted me deje ganarle una discusión sobre muebles.
 
-—Eso ya lo sé. —La voz le salía más floja que antes del infarto, y aun así no perdía el filo—. Lo que no sé es por qué le importa tanto decírmelo a mí en vez de decírselo a usted misma.
+—Eso ya lo sé. —La voz le salía más floja que antes del infarto, y aun así no perdía el filo—. ¿Y por qué me lo dice a mí?
 
 Chiara no contestó enseguida.
 
-—Usted ya siente por él algo que no es solo cuidado —dijo Héctor, sin que sonara a pregunta—. No hace falta que lo diga en voz alta para que yo lo note. Lo he visto crecer despacio, semana a semana, antes de que usted misma se diera cuenta.
+—Hay cosas de donde vengo que él no conoce —dijo, al final, mirando algún punto de la sábana en vez de a él—. Cosas que si las conociera, tal vez no me miraría igual. No sé si es justo arrastrarlo a eso sin que él sepa lo que arrastra.
 
-—Y aunque así fuera —dijo ella, al final, mirando algún punto de la sábana en vez de a él—, hay cosas de donde vengo que él no conoce. Cosas que si las conociera, tal vez no me miraría igual. No sé si es justo arrastrarlo a eso sin que él sepa lo que arrastra.
+Héctor gruñó.
 
-—Los dos entienden el mismo peligro —siguió Héctor, como si no la hubiera oído del todo, aunque la había oído perfectamente—. Eso no lo tiene nadie más en la vida de ese muchacho. Juntos van a llegar más lejos que separados, y usted lo sabe tan bien como yo.
+—¿Y él qué no le ha contado a usted?
 
-—¿Y si me equivoco?
-
-—Entonces se equivoca acompañada. Es mejor que acertar sola. —Cerró los ojos un momento, no de cansancio—. Yo pasé media vida calculando qué era justo arrastrarle a alguien y qué no. Al final no arrastré nada. Me quedé solo, calculando, y la única cosecha que tengo de todo ese cuidado es no saber nunca qué habría pasado si hubiera medido menos.
-
-Abrió los ojos otra vez, buscando algo en el techo antes de seguir.
-
-—Lo que a mí me faltó no fue valor. Fue construir algo que no necesitara que yo estuviera siempre ahí parado para que no se cayera. Un barrio, un negocio, una vida — no importa el nombre que le pongas. Si necesita que uno esté presente todo el tiempo para no derrumbarse, no lo construyó. Lo sostuvo con el cuerpo. Y sostener algo con el cuerpo no es lo mismo que vivir.
-
-Chiara no supo qué contestar a eso, así que no contestó nada. Se quedó otro rato, hablando de nada, hasta que la hora de visitas se acabó y ella se fue sin haber ganado ni perdido la conversación — pero esta vez con algo distinto pesándole en el pecho, algo que todavía no tenía nombre y que, por ahora, prefería dejar así.
+Chiara no contestó. Se quedó otro rato, hablando de nada, hasta que se acabó la hora de visitas, y se fue con una pregunta que no era suya y que no se pudo quitar de encima en todo el camino.
 
 ***
 

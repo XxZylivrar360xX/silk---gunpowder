@@ -6,6 +6,7 @@ Ventana temporal: semanas despues del Capitulo 12 (Roma Atrii). Kal y Chiara sig
 Lugares: El Penthouse, La Esquina de Mabel, The Monarch Casino & Hotel (piso de juego), Almendra Towing / El Patio, Comisaria central de San Aurelio (Calle Corona).
 Funcion: DISEÑO nuevo (2026-09-01), a peticion del autor. Primer favor grande que Chiara le devuelve a Kal sin que el se lo pida. La policia arma un caso formal contra el conductor del Peugeot rojo (ver ledger, "El Peugeot rojo que Blake persigue") con dos sospechosos: Rafael "Rafe" Dominguez (Los Bravos de Santa Brigida) y Kal. Chiara arma la verdad completa cruzando tres piezas de su red -- calle (gasolinera), Mabel (chisme de barra sobre el sur) y Kenji/i Sussurri (cifrado real) -- usando un codigo tematico propio basado en versiculos de la Vulgata que memorizo de niña: cada referencia tiene un significado fijo, no es traduccion literal. Resuelve el "tercer papel" (la subjefa) sembrado en el Capitulo 12: la subjefa es Lucia Varek, primera escena de ella con Kal. Chiara siembra duda razonable esparciendo un rumor sobre un corredor de piezas del norte que paga en efectivo sin recibos -- candidato mas creible que cualquiera de los dos sospechosos reales -- y le da a Kal la coartada antes de que declare. El caso se cae. Cierra con la linea del autor: "Eres realmente buena en esto" / "Lo soy cuando amenazan a mi gente."
 Apertura por residuo: retoma el "tercer papel" del Capitulo 12 -- el rumor sin resolver sobre la subjefa vista con alguien del mundo criminal, que Chiara guardo sin saber para que.
+Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); el estado se conserva): Mabel, fuera "Yo solo sirvo cafe" en la pieza de Rafe Dominguez (la muletilla tiene origen en el 1 y eco en el 11; decision del autor). "Te pago yo el cafe" se queda (decision del autor).
 -->
 
 # Capítulo 13 — Auster
@@ -54,7 +55,7 @@ La segunda pieza tardó una semana más, y llegó con el acento de siempre.
 
 —¿Qué dicen de él?
 
-—Que anda nervioso. Que mandó a dos de los suyos a comprarle un abogado que no es de por aquí. —Mabel se encogió de hombros—. Puede que no sea nada. Puede que sea todo. Yo sólo sirvo café.
+—Que anda nervioso. Que mandó a dos de los suyos a comprarle un abogado que no es de por aquí. —Mabel se encogió de hombros—. Puede que no sea nada. Puede que sea todo.
 
 Chiara conocía el patrón lo bastante bien como para no exigirle más. Ésa era la frontera exacta de lo que Mabel entregaba: nunca una conclusión.
 

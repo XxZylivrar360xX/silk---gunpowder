@@ -5,7 +5,8 @@ Ventana temporal: dias despues del Capitulo 8 (la carrera de mascaras); un sabad
 Lugares: el Monarch (oficina), panaderia portuguesa de Calle Corona (a dos cuadras del bar de Mabel) y su callejon trasero, consultorio de la Almendra, cabina de la grua grande de Almendra Towing, Casa Comunitaria de La Almendra.
 Funcion: nuevo detonante de la estancia de Chiara en el barrio (H14 la necesita). Lo que la pone en riesgo es el mundo de Kal, no el de ella: que Kal le pida quedarse cerca es deuda de el con ella.
 CANON DEL AUTOR (2026-10-04): el Tasador asalta a la fiscal Rowe y Chiara esta con ella en una reunion casual. Asalto, no atentado: una cachetada a Rowe; forcejeo con Chiara, que queda con una muñeca lesionada (leve, suficiente para preocupar a Kal). Mensaje a la fiscal: "Las joyas pesan mas en la balanza." Rowe no lo entiende, Chiara tampoco, Kal si. Motivo: el convenio de Kal con la fiscalia alcanza un negocio de Crowe. Kal la saca antes de que llegue la policia y Rowe la deja fuera del parte. La aceptacion la dice ella ("mas dramatico dicho por ella"): para ella es aceptar que puede contar con el; Kal lee que esta dispuesta a ponerse en peligro por el.
-DISEÑO (agente): Rowe invita con la misma frase que le dijo a Kal en el 8 ("un lugar mas privado"); el convenio es el resguardo de vehiculos asegurados de la fiscalia, que antes tenia un corralon del sur que le pagaba cuota a Crowe ("el primero que nos entrego Mercer traia el tanque lleno"); "Lo se" de Chiara delata que Kal le cuenta cosas (replica perdida); la frase la oyo Kal de niño del otro lado del mostrador de una casa de empeño (una linea, sin escena; no se nombra a Dale); "Crowe no pagaba a tiempo. Pagaba antes para que pareciera favor" (Cap. 1) como razon de que Kal no pueda cobrarselo todavia; Kal llega en la grua grande y engancha el Mercedes del Monarch; la lima y la uña rota; "Ciao, tesoro" a Rowe; Rowe "le debe una" (siembra del "nombre que me debe un favor de prensa" del Cap. 23); la linea "Entonces que me vean contigo" (DISEÑO, el autor puede cambiarla); Kal le dice a Chiara que fue por el pero no le da el nombre (espejo invertido del parador del 24c); Nadir, al decir que si, mira a Kal y no a ella (la friccion del 10 cambia de signo).
+DISEÑO (agente): Rowe invita con la misma frase que le dijo a Kal en el 8 ("un lugar mas privado"); el convenio es el resguardo de vehiculos asegurados de la fiscalia, que antes tenia un corralon del sur que le pagaba cuota a Crowe ("el primero que nos entrego Mercer traia el tanque lleno"); "Lo se" de Chiara delata que Kal le cuenta cosas (replica perdida); la frase la oyo Kal de niño del otro lado del mostrador de una casa de empeño (una linea, sin escena; no se nombra a Dale); "Crowe no pagaba a tiempo. Pagaba antes para que pareciera favor" (Cap. 1) como razon de que Kal no pueda cobrarselo todavia; Kal llega en la grua grande y engancha el Mercedes del Monarch; la lima y la uña rota; "Ciao, tesoro" a Rowe; Rowe "le debe una" (siembra del "nombre que me debe un favor de prensa" del Cap. 23); la linea "Entonces que me vean contigo" (CANON DEL AUTOR 2026-10-04: se queda); Kal le dice a Chiara que fue por el pero no le da el nombre (espejo invertido del parador del 24c); Nadir, al decir que si, mira a Kal y no a ella (la friccion del 10 cambia de signo).
+Microcirugia de dialogo K/C (2026-10-04, autorizada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]] §7): "Mi coche no se va a manejar solo" pasa a Chiara desde el piso; Kal deja de explicarse en la cabina ("Todavia no puedo hacer nada con el. Tu si querrias"); fuera la glosa "lo mas que le habia dicho de corrido", "y eso el lo sabe" y "No tenia con que contestarle eso"; el silencio de la puerta se vuelve objeto (pestillo, silla del lado izquierdo); fuga de Chiara en la llamada: empieza en italiano y se corrige.
 Fuera de este capitulo (se van al 24c): el calendario de Marta y el homenaje de Alessio, el hipodromo, la llamada de Corrado, el hospital, Beatrice, la tregua y la vigilancia de Dario, el parador, el temblor en el abrazo.
 Continuidad: el abrazo y el temblor canon de H12 quedan para el 24c; aqui no hay abrazo. "Tienes mi palabra" y "Lo necesario. Hasta que ya no lo sea" se quedan aqui (casa comun). Arrastre al Cap. 10: la estancia es por la muñeca (ferula, tres semanas), no por conmocion: retirar mareos, receta, "dos dedos a la sien" y la gente de Dario en el Monarch.
 -->
@@ -136,7 +137,7 @@ Chiara buscó su teléfono con la mano izquierda. Tardó en encontrar el nombre,
 
 —Dime.
 
-—Estoy en Calle Corona. En el callejón de atrás de la panadería portuguesa. —Se obligó a hacerlo en orden, como un parte—. Estoy bien. Dos hombres. Me torcieron la muñeca. No puedo manejar.
+—Sono dietro la… —Se oyó, y empezó otra vez, molesta, en orden, como un parte—. Estoy en Calle Corona. En el callejón de atrás de la panadería portuguesa. Estoy bien. Dos hombres. Me torcieron la muñeca. No puedo manejar.
 
 —¿Quién?
 
@@ -158,7 +159,7 @@ Llegó en siete minutos, y no llegó en el Audi. Llegó en la grúa grande de Al
 
 —¿Viene en grúa? —dijo Rowe.
 
-—Mi coche no se va a manejar solo.
+—Mi coche no se va a manejar solo —dijo Chiara desde el piso.
 
 Kal bajó de la cabina sin cerrar la puerta. Fue directo a Chiara, no a Rowe, y se agachó frente a ella sin tocarla.
 
@@ -254,7 +255,7 @@ Lo dijo hacia el parabrisas. Ella lo dejó acomodarse un momento, con la férula
 
 —Kal.
 
-—No te lo voy a dar. —Por fin la miró—. No porque no confíe en ti. Porque todavía no puedo hacer nada con él, y tú sí querrías hacer algo.
+—No te lo voy a dar. —Por fin la miró—. Todavía no puedo hacer nada con él. Tú sí querrías.
 
 —No me digas qué querría.
 
@@ -262,9 +263,7 @@ Lo dijo hacia el parabrisas. Ella lo dejó acomodarse un momento, con la férula
 
 No retiró nada. Sólo dejó de decirlo.
 
-—Quédate unos días en la Almendra —dijo después—. En la casa común. Ahí no entra nadie que Danny no vea desde el sofá, y Danny ve todo lo que pasa por esa puerta aunque parezca que está dormido. Nadir cocina. Walt va a cenar casi todas las noches. El taller está a tres cuadras y la grúa duerme enfrente. En el Monarch te ve cualquiera con una reservación, y el que te torció la muñeca ya sabe cómo te ves. En la Almendra no te toca nadie sin tocarme a mí primero, y eso él lo sabe.
-
-Era lo más que le había dicho de corrido desde la noche de la carrera, y no era sobre él.
+—Quédate unos días en la Almendra —dijo después—. En la casa común. Ahí no entra nadie que Danny no vea desde el sofá, y Danny ve todo lo que pasa por esa puerta aunque parezca que está dormido. Nadir cocina. Walt va a cenar casi todas las noches. El taller está a tres cuadras y la grúa duerme enfrente. En el Monarch te ve cualquiera con una reservación, y el que te torció la muñeca ya sabe cómo te ves. En la Almendra no te toca nadie sin tocarme a mí primero.
 
 Chiara miró la férula. Hizo la cuenta que hacía siempre, en voz baja, por dentro. En el Monarch alguien iba a ver la muñeca antes del mediodía, y Dario iba a preguntar, y ella iba a tener que darle una versión en su propia casa. En la Almendra nadie le iba a pedir ninguna.
 
@@ -274,7 +273,7 @@ Kal no contestó.
 
 Metió la primera. La grúa salió del estacionamiento del consultorio con el Mercedes meciéndose detrás, y en el primer semáforo, con el pie en el freno, Kal volvió a ver lo que no había visto: a ella con el brazo de un hombre de Crowe entre las dos manos, sin saber de quién era el brazo, sin saber que el recado no era para la fiscal. Y ahora, sabiéndolo, ella pedía que la vieran con él. En la calle. En su barrio. Donde Crowe tenía ojos en cada mostrador.
 
-No tenía con qué contestarle eso. El semáforo se puso en verde y arrancó.
+El semáforo se puso en verde. Arrancó.
 
 ***
 
@@ -294,7 +293,7 @@ Chiara se sentó en la cama con la férula sobre las rodillas.
 
 En la grúa lo había dicho como se dice lo más sencillo: que aceptaba. Que podía contar con él, y que no le importaba que se supiera. No le había parecido una frase grande. Pero él la estaba mirando desde la puerta como se mira a alguien que acaba de bajar de la banqueta sin ver la calle, y Chiara no entendió por qué.
 
-No preguntó. Kal tampoco dijo nada más. Bajó a desenganchar el Mercedes.
+No preguntó. Kal cruzó el cuarto, revisó el pestillo de la ventana, que no hacía falta revisar, y le acercó la silla a la cama, del lado izquierdo, donde la alcanzaba sin la férula. Después bajó a desenganchar el Mercedes.
 
 ***
 

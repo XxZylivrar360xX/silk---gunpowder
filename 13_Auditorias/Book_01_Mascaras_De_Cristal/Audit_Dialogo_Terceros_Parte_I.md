@@ -1,7 +1,7 @@
 # Auditoría de diálogo de terceros — Parte I
 
 > 2026-10-04, Claude Code, a pedido del autor. Modo diagnóstico: no se tocó prosa. Gemela de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]]; mismas marcas de ping-pong (§1 de esa auditoría).
-> **Alcance (autor):** por personaje, Parte I. Gente de Kal (Nadir, Danny, Dario), familia del Monarch (Tommaso, Matteo, Fabrizio, Alessio), Walt y Mabel. Fuera por ahora: Héctor, Natalie, Marisol, Irene, Enzo, Harper, Lucía.
+> **Alcance (autor):** por personaje, Parte I. Gente de Kal (Nadir, Danny, Dario), familia del Monarch (Tommaso, Matteo, Fabrizio, Alessio), Walt y Mabel. Fuera por ahora: Héctor, Natalie, Marisol, Irene, Enzo, Harper, Lucía (segunda tanda en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I_Tanda_2]]).
 > **Vara (autor):** las líneas CANON DEL AUTOR y las escenas vivas de cada personaje; con ellas se recalibran o crean las fichas de voz antes de operar, como se hizo con el Cap. 28 para K/C.
 > **Leído:** todas las escenas de los Caps. 1–25 (con 24b) donde habla alguno de los nueve.
 

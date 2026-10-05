@@ -24,7 +24,7 @@ Representa la medicina institucional y puede atender a Chiara en el atentado fut
 
 > **ACTUALIZADO (2026-10-04, CANON DEL AUTOR):** el Corral se reubicó como Cap. 24c, justo antes del jacuzzi, y la gravedad bajó a conmoción con hematoma en observación: Beatrice **evalúa y decide no operar** ("Por ahora no vamos a operar... Si crece, entramos"). Su primera aparición en prosa sigue siendo ésa, ahora más tarde en el libro. Donde abajo dice craniotomía o Capítulo 9, queda supersedido.
 >
-> **PRIMERA APARICIÓN EJECUTADA (2026-08-29):** se adelanta desde el atentado de la iglesia — opera a Chiara en [[06_Relationships/Hitos]], H12 (Capítulo 9, "El corral"), una craniotomía descompresiva de urgencia tras el golpe en el hipódromo. Es quien fija el reloj de "tres días para ver cómo evoluciona" que organiza el resto del capítulo. Kal nota, sin decírselo a nadie, la ironía de que la hija de Dario le esté salvando la vida a Chiara sin saber nada del mundo de su padre.
+> **PRIMERA APARICIÓN EJECUTADA (2026-08-29; capítulo y gravedad SUPERSEDIDOS 2026-10-04 por la nota anterior: Cap. 24c, Beatrice evalúa y no opera):** se adelanta desde el atentado de la iglesia — opera a Chiara en [[06_Relationships/Hitos]], H12 (Capítulo 9, "El corral"), una craniotomía descompresiva de urgencia tras el golpe en el hipódromo. Es quien fija el reloj de "tres días para ver cómo evoluciona" que organiza el resto del capítulo. Kal nota, sin decírselo a nadie, la ironía de que la hija de Dario le esté salvando la vida a Chiara sin saber nada del mundo de su padre.
 
 > **PENDIENTE:** cargo definitivo, y razón concreta por la que está con Dario cuando Lucia llega a arrestarlo.
 
