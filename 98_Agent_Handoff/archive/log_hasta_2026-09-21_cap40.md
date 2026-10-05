@@ -2181,7 +2181,7 @@ El autor entregó canon nuevo: el ataque a Chiara (un golpe cerrando un corral, 
 
 ## [2026-08-27] write | Capítulos 9 y 10 — El corral / El loft del soltero (H12 completo)
 
-Redactados los dos capítulos que ejecutan [[06_Relationships/Hitos]], H12 completo, según el diseño ya registrado en la sesión anterior. **Capítulo 9** ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_El_Corral]]): abre profundizando el residuo del Capítulo 8 (la certeza no dicha de Chiara sobre Cole); Chiara recibe un golpe por la espalda cerrando el corral en Bellandi Ridge Vineyards, sin forcejeo ni segunda agresión, y no despierta hasta el hospital; Matteo avisa a Cole; Cole investiga por su cuenta (capataz, camino de tierra, barrio) sin encontrar ninguna pista; cierra con el traslado a la Casa Comunitaria de La Almendra, donde Nadir la recibe con cortesía fría — primer asomo de la fricción que se desarrolla en el Capítulo 10.
+Redactados los dos capítulos que ejecutan [[06_Relationships/Hitos]], H12 completo, según el diseño ya registrado en la sesión anterior. **Capítulo 9** ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24c_El_Corral]]): abre profundizando el residuo del Capítulo 8 (la certeza no dicha de Chiara sobre Cole); Chiara recibe un golpe por la espalda cerrando el corral en Bellandi Ridge Vineyards, sin forcejeo ni segunda agresión, y no despierta hasta el hospital; Matteo avisa a Cole; Cole investiga por su cuenta (capataz, camino de tierra, barrio) sin encontrar ninguna pista; cierra con el traslado a la Casa Comunitaria de La Almendra, donde Nadir la recibe con cortesía fría — primer asomo de la fricción que se desarrolla en el Capítulo 10.
 
 **Durante la escritura, el autor pidió insertar una escena adicional:** con Chiara todavía inconsciente en el hospital, Cole le toma la mano y dice la línea canon completa: *"Te vas a mejorar, ¿vale? Eres la mujer más fuerte que tengo la dicha de haber conocido, y esto no te va a ganar la partida."* Pausa. *"Chiara."* Es un momento sin testigos — ella no lo oye — y queda como el único lugar del libro, hasta ahora, donde Cole dice algo así en voz alta sin que nadie se lo cobre. Registrado también en [[06_Relationships/Hitos]], H12.
 
@@ -2195,7 +2195,7 @@ Redactados los dos capítulos que ejecutan [[06_Relationships/Hitos]], H12 compl
 
 Se regeneró el EPUB (232,271 caracteres, 16 capítulos). Actualizado `98_Agent_Handoff/CURRENT_BRIEF.md` (conteo de capítulos, Cap. 9-10 marcados ESCRITO, siguiente paso apunta al beat 19/Capítulo 17).
 
-**Archivos tocados:** `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_El_Corral.md` (nuevo), `10_El_Loft_Del_Soltero.md` (nuevo), `11_El_Farol.md`, `12_Roma_Atrii.md`, `13_El_Mirador.md`, `14_El_Porton.md`, `15_Cuatro_Letras.md`, `16_Sin_Rastro.md`, `06_Relationships/Hitos.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24c_El_Corral.md` (nuevo), `10_El_Loft_Del_Soltero.md` (nuevo), `11_El_Farol.md`, `12_Roma_Atrii.md`, `13_El_Mirador.md`, `14_El_Porton.md`, `15_Cuatro_Letras.md`, `16_Sin_Rastro.md`, `06_Relationships/Hitos.md`, `01_Timeline/01_Primer_Borrador_Beats.md`, `11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map.md`, `98_Agent_Handoff/CURRENT_BRIEF.md`, `tools/epub-build/output/Seda_y_Polvora.epub`, `log.md`.
 
 ## [2026-08-27] edit | Capítulo 7 — Ambos (pasada de corrección + ajustes de canon)
 
@@ -2277,7 +2277,7 @@ A pedido del autor, se reescribió todo el tramo del Capítulo 9 desde el alta d
 
 El atacante sigue sin identificarse ni sugerirse.
 
-**Archivos tocados:** `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_El_Corral.md`, `06_Relationships/Hitos.md` (H12: nueva subsección "El alta, la coartada conjunta y la salida al norte", ampliadas "La casa común" y "La fricción con Nadir", nota del bolso; H5: nota de fusión ampliada a beats 1-8), `03_Factions/El_Casino.md` (bahía de carga / túnel este), `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
+**Archivos tocados:** `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24c_El_Corral.md`, `06_Relationships/Hitos.md` (H12: nueva subsección "El alta, la coartada conjunta y la salida al norte", ampliadas "La casa común" y "La fricción con Nadir", nota del bolso; H5: nota de fusión ampliada a beats 1-8), `03_Factions/El_Casino.md` (bahía de carga / túnel este), `98_Agent_Handoff/CURRENT_BRIEF.md`, `log.md`.
 
 ## [2026-08-29] canon | Migración Valcora -> Varek y nuevos hitos
 

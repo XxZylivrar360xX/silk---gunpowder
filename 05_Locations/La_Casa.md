@@ -14,6 +14,8 @@
 >
 > **La casa es la vieja casa de los padres de Kal.** Donde lo criaron Dale y Ruth Mercer, donde su padre lo abandonó y donde su madre se murió.
 >
+> **ACTUALIZADO (2026-10-04, CANON DEL AUTOR):** la estancia de Chiara en la casa común ya no sale del ataque de H12 (reubicado antes del jacuzzi) sino del asalto del Tasador a Rowe del Cap. 9 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_La_Balanza]]). El resto de la nota sigue valiendo; donde dice "se recuperaba del ataque de H12", leer "de la muñeca".
+>
 > **RESUELTO (2026-08-27; hito separado 2026-08-29):** Kal la **recompró** en el hito **[[06_Relationships/Hitos#H14 — El loft del soltero]]** (antes segunda mitad de H12) — no por nostalgia ni cálculo, sino porque la fricción entre Chiara y [[02_Characters/Nadir_Amrani]], conviviendo en [[05_Locations/Casa_Comunitaria_De_La_Almendra]] mientras ella se recuperaba del ataque de [[06_Relationships/Hitos#H12 — El atentado / El corral|H12]], se volvió insostenible. Necesitaba un lugar propio. **Sigue PENDIENTE** por qué la familia había dejado de tener la casa (deudas de Dale con Crowe, u otra razón). Para cuando ocurre H10 (el infarto de Héctor), Kal ya vive ahí, ya recomprada y ya diseñada por Chiara.
 >
 > Kal la **recompra después de una inspección y una negociación reales**, entra solo y luego le pide a Chiara ayuda para plantear la distribución. Le dice que quiere montar **un loft para soltero.** Ella no se limita a decorar: lee el cascarón, propone retirar gran parte del segundo piso para crear la doble altura y participa en las decisiones de circulación, proporción, luz, cocina, mezzanine, escalera y mobiliario. Chiara contrata la obra y **paga cada factura**; de cara a los demás, la versión es "apoyo del casino".
@@ -97,7 +99,7 @@ Y la mujer que vuelve habitable el conjunto es Chiara. Él pidió *un loft para 
 
 > **Regla de escritura: nadie lo comenta nunca.** Ni él, ni ella, ni el narrador. El lector hace la cuenta solo — y la vuelve a hacer cada vez que esa casa aparece, incluida la noche del baño en [[06_Relationships/Hitos]], H1.
 
-> **PENDIENTE:** ¿sabe Chiara de quién era la casa cuando la diseña? Las dos respuestas son buenas y muy distintas.
+> **RESUELTO (CANON DEL AUTOR, 2026-10-04):** Chiara no lo sabe al empezar a diseñarla; Kal se lo dice en la discusión de presupuestos del Cap. 10, sólo el hecho ("Era de mis padres"). La historia de Dale y Ruth sigue reservada al mirador del Cap. 20. Ver [[06_Relationships/Hitos]], H14.
 
 ---
 

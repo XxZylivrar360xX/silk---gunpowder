@@ -230,7 +230,9 @@ Entonces llegó Dario Varek.
 
 No entró con prisa. No la necesitaba. La gente del lobby ajustó su volumen antes de que él hablara, como si una mano invisible hubiera bajado el sonido de la habitación.
 
-Traje oscuro, postura impecable, rostro de hombre que había aprendido a parecer tranquilo en fotografías. Le dio la mano a Fabrizio, a Tommaso, a Matteo. Cuando llegó a Chiara, la miró el tiempo exacto para que la cortesía pareciera atención y la atención pudiera pasar por inventario.
+Traje oscuro, postura impecable. Era calvo, y la cabeza la llevaba como llevaba el traje: limpia, cuidada, sin nada que pidiera disculpas. La quemadura le tomaba el lado derecho de la cara. Empezaba arriba de la sien, donde la piel del cráneo cambiaba de textura sin aviso, bajaba por la mejilla hasta el filo de la mandíbula y se perdía bajo el cuello de la camisa. No era una línea, como las cicatrices que Chiara conocía en hombres de ese oficio, sino una superficie: piel más lisa que la otra, de un rosa pálido y tirante, que la luz del lobby hacía brillar un poco. El párpado de ese lado cerraba un instante más tarde. No llevaba barba que la cubriera ni giraba la cabeza para dar el perfil sano. El resto era rostro de hombre que había aprendido a parecer tranquilo en fotografías.
+
+Le dio la mano a Fabrizio, a Tommaso, a Matteo. Cuando llegó a Chiara, la miró el tiempo exacto para que la cortesía pareciera atención y la atención pudiera pasar por inventario.
 
 —Signora Bellandi.
 

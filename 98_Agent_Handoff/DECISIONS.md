@@ -2,6 +2,10 @@
 
 Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]. Archivar entradas antiguas antes de retirarlas.
 
+## 2026-10-04 — 24c: reunión del 13 y Charles
+
+**CANON DEL AUTOR:** la reunión del 13 que anuncia la carta de Il Consorzio en el 24c es la razón por la que Kal y Chiara terminan yendo a Palermo después del cumpleaños (H16 → H17; H13 sigue siendo el gatillo inmediato). El supervisor de Eagle Eye se llama **Charles** (no César) y queda sembrado en el Cap. 22. Se corta la camioneta "de las caballerizas". Fuente: [[98_Agent_Handoff/sessions/2026-10-04_claude_surgery_24c]].
+
 ## 2026-10-03 — Sombras de Poder: incubadora integrada
 
 **CANON DEL AUTOR:** foco en el mundo criminal de Kal; Silas Crowe como conflicto vertebral; pareja como sinergia; gran enfrentamiento de la tormenta antes de H1 (único "Amore" de Kal, triaje con Camila, extracciones, escalada policial); Chiara compra *El Faro* tras Tommaso (las fases previas se conservan); cadena hotelera con Kenji. Lucía es subjefa n.º 2 y Cho, Deputy Chief, queda debajo. [[98_Agent_Handoff/sessions/2026-10-03_claude_buzon_chatgpt_nueve_notas]].

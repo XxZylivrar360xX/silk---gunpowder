@@ -28,6 +28,7 @@ Su funcion es cargar desde el primer capitulo una verdad que Chiara no puede ord
 - No debe hablar como villano obvio.
 - Si quiere herir, usa cortesia.
 - **CANON DEL AUTOR (2026-10-04):** vigila a Chiara porque la version de Alessio asaltado solo en casa no le cierra; busca mas informacion y la mantiene bajo lupa. La tolera porque reconoce que su vision de negocio es afilada y pocas veces erratica. En prosa: duda sin acusar ("Despues de todo", Cap. 2); nunca formula la sospecha sin ventaja.
+- **CANON DEL AUTOR (2026-10-04):** la llama "Bellandi" (ni "Chiara" ni "signora"). Ver [[12_Craft_Policies/voice/Tommaso_Lusardi]].
 - No tocar los hechos de la muerte de Alessio: siguen pendientes y delicados.
 
 ## Conexiones

@@ -7,6 +7,7 @@ Funcion: ejecutar H2-b. Costumbre de contarse el dia (primera comida: torta de M
 Contarse el dia (2026-09-29, aplica canon del autor en 06_Relationships/Kal_y_Chiara "Como se construye la costumbre" y staging_rules/04; DISENO del agente, pendiente de lectura; sigue TERMINADO): el resumen de apertura pasa a dos migajas en escena. (1) Salida de carga: Kal cambia la rueda del carrito del 5; Chiara pregunta "¿Y qué hizo Nadir ahora?" (alternador vendido al doble con te y comida) y corresponde con el huesped de la 1412 al que el oceano le hace ruido (paso 3). (2) Llamada sin motivo pasadas las once: Kal pregunta por el del oceano (el recuerda lo de ella) y cuenta que Danny termino el Mustang en una noche y pinto las lineas del patio (siembra minima de Danny, sin subrayar). Walt/formularios y Hector/bomba quedan en resumen; se conservan "versiones" y "motor". La torta queda como culminacion (recordar -> actuar), sin tocar dialogo. Continuidad: la mostaza se dijo en La Esquina de Mabel la noche de Blake (Cap. 4), cuando Chiara no sabia de quien era esa calle; se retiro la visita previa inexistente y la variante "o el lo habia oido". Regla 04: beat nuevo en "A las tres" (Kal encuentra el marco de la puerta). Michael/Marisol sin cambios: techo emocional del capitulo.
 Mandorla (2026-09-30, propuesta del autor; DISENO de redaccion): tras Parole Parole, Kal ve en las llamadas recientes del celular de Chiara que ella lo tiene guardado como "Mandorla" ("Almendra. En italiano." / "¿Y por que no Mercer?" / "Porque Mercer lo lee cualquiera."). Asimetria con el Bellandi del Cap. 5. Siembra del "Mandorla" del Cap. 8.
 Pizza de calabaza (2026-10-01, canon del autor): cuando Kal llega de noche con la torta de Mabel, Chiara: "Espero que lo que trae no sea pizza de calabaza." / "Enzo le manda saludos." / "Eso no es un no." / "Es una torta." Paga el chiste de Il Gelsomino (Cap. 5).
+Dialogo K/C (2026-10-04, cirugia completa autorizada sobre capitulo TERMINADO; DISENO del agente pendiente de lectura). Direccion del autor: coqueteo puro, conocerse como hombre y mujer. CANON DEL AUTOR: beat de la mirada de Kal mientras Chiara pone Parole Parole (pelo -> espalda baja -> mas abajo; los puntitos del short son mariposas; sacude la cabeza por el tiempo que se quedo; ella vuelve y se sienta mas cerca: el cojin termina en el piso), con espejo en el vestidor (la mirada de ella baja por la espalda de el; "la misma mirada que ella habia sentido en la espalda"; Kal la ve mirarlo en el espejo). Vestuario: pijama de verdad, short y camisola de seda azul oscuro con puntitos, suéter blanco encima (CANON DEL AUTOR: es noviembre, hace frío). Replicas perdidas: Chiara no recuerda que comio; Kal ante "Me esta mintiendo"; Kal no contesta "¿Ya te perdieron?"; Kal no encuentra la direccion para el taxi. Fuera: "¿Eso fue pregunta?/Que peligroso", "sin contrato/mas barato", "Cinco minutos/Siempre dice eso", "No recuerdo haberlo aceptado/Esta pensando hacerlo", "administrativa para marihuana/factura", "Tecnicamente lo renta/lo empeora", "si administrado", "No era para tranquilizarte", "Ya lo hago. Solo que ahora lo sabes", "problema de mantenimiento/mejor iluminacion", "Lo renta el casino/Todo aqui lo renta alguien", "tijeras con vista al mar", "Me vigilan. Es distinto", "Era tentacion/Peor", "Nada con ambicion", "No todo sale", "innecesario/generoso". Intactos: carrito, llamada de las once, torta y pizza, reto, Recreativo, tuteo, cocina, Michael/Marisol, canciones, Mandorla, excepcion y mueca, Danny, cicatriz, muerte caminando, cierre.
 -->
 
 # Capítulo 6 — Ambos
@@ -97,13 +98,11 @@ Una noche, después de que una máquina de hielo se rindiera y el proveedor inte
 
 Chiara levantó la vista de una lista de invitados.
 
-—¿Eso fue pregunta?
+—Comí algo a las cuatro.
 
-—No.
+—¿Qué?
 
-—Qué peligroso.
-
-Chiara miró la bolsa.
+Chiara lo pensó. No se acordó. Miró la bolsa.
 
 —Espero que lo que trae no sea pizza de calabaza.
 
@@ -127,9 +126,11 @@ Chiara cerró la carpeta. No le dio las gracias por la mostaza que no estaba; de
 
 —Entonces coma en nueve.
 
-—Usted da órdenes muy tranquilo para un hombre sin contrato.
+Ella iba a contestar algo y se fijó otra vez en la torta. Partida a la mitad. Nadie parte a la mitad una torta para una sola persona.
 
-—Es más barato que tener uno.
+—¿Usted ya cenó?
+
+Kal tardó en contestar lo suficiente para que no hiciera falta.
 
 Comieron de pie junto al escritorio. Ella con una servilleta doblada bajo la torta para no manchar la lista de invitados; él apoyado contra la pared, como si el cuerpo no supiera ocupar una silla cuando no estaba seguro de cuánto iba a quedarse.
 
@@ -165,11 +166,7 @@ Ella le indicó la silla con la barbilla.
 
 —Cinco minutos.
 
-—Siempre dice eso.
-
-—Y usted siempre lo ignora.
-
-Kal dejó la bolsa sobre el escritorio y no se sentó. Miró los zapatos junto a la pata de la mesa.
+Kal dejó la bolsa sobre el escritorio y no se sentó. Miró los zapatos junto a la pata de la mesa, y después los pies de ella, que se escondieron solos debajo de la silla.
 
 —¿Es cierto?
 
@@ -213,21 +210,19 @@ Chiara cruzó los brazos.
 
 —¿Quiere subir?
 
-—Tengo que resolver algo antes.
+—Tengo que resolver algo antes. Pero tenemos un trato.
 
 Era mentira. No una grande ni peligrosa: una mentira pequeña, dicha con la cara demasiado limpia de los hombres que creen que una omisión no deja huella si nadie les pregunta lo correcto. Chiara la oyó. No supo qué tapaba. Sí supo que tapaba algo.
 
-—Entonces no quiere subir tanto.
+—Me está mintiendo, señor Mercer.
 
-—Tenemos un trato.
+Kal abrió la boca y la volvió a cerrar.
 
-—No recuerdo haberlo aceptado.
-
-—Está pensando hacerlo.
+—A las ocho —dijo al fin.
 
 Chiara se puso los tacones sin dejar de mirarlo.
 
-—Vaya a resolver su misterio, señor Mercer.
+—A las ocho. Y me cuenta qué era.
 
 —Vuelvo.
 
@@ -249,15 +244,21 @@ Kal cerró la puerta del penthouse detrás de él.
 
 —Recreativo.
 
-—Qué palabra tan administrativa para marihuana.
+Chiara le quitó la bolsa pequeña, la abrió, la olió y la volvió a cerrar.
 
-—Tengo factura de las hamburguesas.
+—Me mintió por esto.
 
-—No cambia nada.
+—Poquito.
 
-El penthouse de noche no se parecía al de la mañana posterior al encuentro. La ciudad brillaba abajo, el mar devolvía pedazos de luz, la sala estaba ordenada con esa limpieza impersonal de los lugares caros que alguien más mantiene vivos. Chiara llevaba un conjunto de seda oscuro, no exactamente pijama y no exactamente ropa para recibir visitas. El cabello suelto le caía sobre los hombros. No llevaba zapatos.
+—¿Hace cuánto?
 
-Kal no comentó nada. Eso fue, para ella, más efectivo que cualquier cumplido.
+—Una semana larga. —Se encogió de hombros—. ¿Y usted?
+
+Chiara no contestó. Le quitó también la bolsa de las hamburguesas y se fue con las dos hacia la sala.
+
+El penthouse de noche no se parecía al de la mañana posterior al encuentro. La ciudad brillaba abajo, el mar devolvía pedazos de luz, la sala estaba ordenada con esa limpieza impersonal de los lugares caros que alguien más mantiene vivos. Chiara llevaba pijama de verdad, porque así se lo habían pedido: short y camisola de seda azul oscuro, con un estampado de puntitos claros, y encima un suéter blanco, porque era noviembre y de noche el vidrio del penthouse dejaba entrar el frío del mar. El cabello suelto le caía sobre los hombros. No llevaba zapatos.
+
+Kal la miró una vez, de arriba abajo, y luego se puso a mirar la ciudad con muchísimo interés. No comentó nada. Eso fue, para ella, más efectivo que cualquier cumplido.
 
 —No vamos a ensuciar los sillones —dijo.
 
@@ -273,11 +274,13 @@ Terminaron sentados en el suelo de la sala, con la espalda contra el sofá que n
 
 —Sí.
 
-—Dos adultos en el piso para no manchar muebles de un penthouse que ninguno posee.
+—Dos adultos en el piso para no manchar los muebles de un penthouse que ninguno de los dos paga.
 
-—Técnicamente usted lo renta.
+Una gota de malteada le resbalaba a ella por el dorso de la mano. Kal se la quitó con el pulgar antes de que llegara a la seda.
 
-—Técnicamente eso lo empeora.
+—Ésa iba para el short.
+
+Chiara se miró la mano. Lo miró a él. Kal ya estaba otra vez con su hamburguesa, como si no hubiera hecho nada.
 
 Fumaron después de comer, junto a la ventana entreabierta, con la ventilación puesta y una toalla húmeda contra la ranura de la puerta, como dos adolescentes con dinero tratando de engañar a un internado. Chiara se rió de eso primero. Kal tardó en seguirla, y cuando lo hizo fue con el cuerpo entero, echado hacia atrás sobre las manos.
 
@@ -291,7 +294,7 @@ Chiara sostuvo el humo un momento y lo soltó hacia la ventana.
 
 —Eso es un sí.
 
-—Es un sí administrado.
+Chiara le devolvió el cigarro sin contestar, y al dárselo le rozó los dedos más de lo que hacía falta para pasar un cigarro.
 
 Y así quedó: el usted se cayó de la conversación sin ceremonia, como se cae un abrigo que ya nadie necesitaba tener puesto.
 
@@ -355,7 +358,7 @@ Chiara conocía esa manera de quedarse sin padre. No la de la enfermedad: la otr
 
 ***
 
-La sala de cine tenía sillones demasiado grandes y una pantalla que bajaba del techo con obediencia teatral. Se sentaron en el mismo sillón sin decidirlo, con un cojín de distancia que fue achicándose sin que ninguno lo moviera a propósito.
+La sala de cine tenía sillones demasiado grandes y una pantalla que bajaba del techo con obediencia teatral. Se sentaron en el mismo sillón sin decidirlo, con un cojín de distancia que ninguno de los dos movió.
 
 —Pon algo —dijo ella—. Algo tuyo.
 
@@ -375,9 +378,9 @@ Le tradujo lo que pudo, sin cuidar mucho la letra, más el tono que las frases: 
 
 —Termina donde yo digo que termine.
 
-—Eso no me tranquiliza.
+—¿Siempre?
 
-—No era para tranquilizarte. —Una pausa—. Algún día vienes y lo ves.
+—Casi. Dos veces, no. —Una pausa—. Algún día vienes y lo ves.
 
 Lo dijo sin mirarla, con los ojos en la pantalla, de la misma forma en que un rato antes había reacomodado el cenicero: como si moverlo un centímetro no contara como moverlo.
 
@@ -421,6 +424,12 @@ Kal aceptó la respuesta completa aunque fuera de una palabra. A ella la sorpren
 
 —Espera —dijo Chiara, y se levantó a buscar algo en el sistema—. Ahora yo te enseño una de verdad.
 
+Se quedó de espaldas a él, frente a la pantalla, pasando canciones con el pulgar. Kal la miró. Empezó por el pelo, que se le había ido de lado sobre un hombro, y bajó por la espalda, por el suéter blanco hasta donde se acababa, en la cintura, y de ahí a la seda, donde la espalda dejaba de llamarse espalda. Ahí se quedó. Se quedó tanto que alcanzó a descubrir que los puntitos del short no eran puntitos. Eran mariposas. Chiquitas, blancas, cientos.
+
+Sacudió la cabeza. No por las mariposas: por el tiempo que le había tomado distinguirlas.
+
+Chiara encontró la canción y volvió al sillón. No se sentó donde estaba antes. Se sentó del lado del cojín, y el cojín terminó en el piso.
+
 Puso *Parole Parole*. La voz de mujer entraba primero, toda promesa; la de hombre, hablada, entraba después, escéptica, repitiendo la misma palabra como quien la pesa y la encuentra liviana.
 
 —Es un dueto —explicó—. Ella dice cosas bonitas. Él no le cree ni una.
@@ -441,9 +450,11 @@ Le puso el celular con la letra abierta en la mano, como quien entrega un arma q
 
 —Otra vez.
 
-—Vas a hacer que me digan que sí a todo.
+—Me estás usando para reírte.
 
-—Ya lo hago. Sólo que ahora lo sabes.
+—Sí. —Le acomodó el celular en la mano, con la rodilla pegada a la suya—. Otra vez.
+
+Lo hizo otra vez.
 
 Kal le devolvió el celular y, antes de soltarlo, se quedó mirando la pantalla. Con tanto dedo se había salido de la letra y había ido a dar a las llamadas recientes. Arriba de todo, un número que conocía porque era el suyo, y encima del número, un nombre que no.
 
@@ -463,13 +474,11 @@ Kal no dijo nada. Repitió la palabra una vez, bajito, con el mismo acento con q
 
 El jacuzzi quedó en promesa. Kal miró las luces bajo el agua.
 
-—Eso sí parece problema de mantenimiento.
+—¿Y esto qué es?
 
 —È un idromassaggio.
 
-—Los problemas caros siempre tienen mejor iluminación.
-
-Chiara se oyó a sí misma con un segundo de retraso y se rió sola.
+Kal esperó, con las cejas arriba. Chiara se oyó a sí misma con un segundo de retraso y se rió sola.
 
 —Jacuzzi. Quise decir jacuzzi.
 
@@ -477,11 +486,15 @@ Chiara se oyó a sí misma con un segundo de retraso y se rió sola.
 
 —Lo mismo, en otro idioma. Algún día te enseño.
 
-Se sentó en el borde, con los pies dentro sin encender nada.
+Se sentó en el borde, con los pies dentro sin encender nada. Kal se quedó de pie.
 
-—Lo renta el casino.
+—¿Lo usas?
 
-—Todo aquí lo renta alguien.
+—Nunca. No es para visitas.
+
+Kal miró el agua, y luego los pies de ella dentro del agua.
+
+—Lástima.
 
 —Por ti podría hacer una excepción.
 
@@ -505,7 +518,15 @@ Kal se sentó.
 
 —Te cortaría el pelo.
 
-—No confío en tijeras con vista al mar.
+Sacó las tijeras del estuche. Kal la vio en el espejo: una mujer descalza, con cinco horas de hierba encima, probando el filo contra la yema del dedo.
+
+—¿Cuántas veces has hecho esto?
+
+—Ninguna.
+
+—Ah.
+
+Y no se levantó.
 
 Le sonó el teléfono en el bolsillo. Miró la pantalla, dudó y contestó de mala gana, porque no contestarle a Danny a esa hora era peor que contestarle.
 
@@ -517,9 +538,9 @@ Del otro lado alguien se rió. Kal colgó.
 
 Chiara, detrás de la silla, se reía también, sin ganas de disimularlo del todo.
 
-—Tus amigos te cuidan.
+—¿Ya te perdieron?
 
-—Me vigilan. Es distinto.
+Kal se guardó el teléfono sin contestar.
 
 Se quedó parada detrás de él. Le acomodó un mechón con un dedo antes de que ninguno de los dos alcanzara a pensar si eso estaba permitido. Kal se quedó inmóvil; la inmovilidad dijo más que cualquier retirada.
 
@@ -537,11 +558,11 @@ Chiara esperó por si venía algo detrás. No vino. No tiró del hilo: lo guard�
 
 Él la miró por el espejo.
 
-—Entonces no era crítica.
+—¿Entonces para qué las tijeras?
 
-—Era tentación.
+Chiara las guardó en el estuche de fieltro.
 
-—Peor.
+—Para ver si te dejabas.
 
 El silencio no se rompió: cambió de cuarto con ellos.
 
@@ -555,19 +576,15 @@ Fue culpa de un bolígrafo sin tapa sobre una isla de cajones. Chiara lo había 
 
 —Déjame ver.
 
-—No es nada.
+Kal ya se estaba quitando la chaqueta. No llevaba camisa debajo.
 
-—Es tinta.
+Chiara lo sabía en abstracto; la chaqueta abierta ya lo sugería desde hacía semanas. Verlo de golpe fue otra cosa. La mirada se le fue sola: la nuca, los hombros de trabajo, la piel marcada por sol, golpes y años que no habían pedido permiso, la espalda ancha que se angostaba hacia la cintura de los jeans. Ahí se quedó. Era la misma mirada que ella había sentido en la espalda frente a la pantalla, sin voltear.
 
-—Exacto. Nada con ambición.
-
-Se quitó la chaqueta. No llevaba camisa debajo.
-
-Chiara lo sabía en abstracto; la chaqueta abierta ya lo sugería desde hacía semanas. Verlo de golpe fue otra cosa: espalda ancha, hombros de trabajo, piel marcada por sol, golpes y años que no habían pedido permiso. Y la calavera.
+Sólo al subir otra vez entendió lo que había tenido delante todo el tiempo. La calavera.
 
 Le cubría media espalda. No era decorativa, no intentaba embellecerlo. Era una muerte enorme, metida en la piel, mirando hacia atrás por él.
 
-Chiara se quedó demasiado quieta.
+Chiara se quedó demasiado quieta. En el espejo del fondo, Kal la estaba mirando mirarlo.
 
 —¿Qué?
 
@@ -583,13 +600,13 @@ Kal miró la chaqueta en sus manos. Luego, sin voltear del todo:
 
 Lo dijo como quien dice que mañana hay que cambiar el aceite. Eso lo volvió peor.
 
-Chiara no preguntó por Afganistán. No preguntó por la calavera. No preguntó qué clase de hombre decía algo así en un vestidor, medio desnudo, después de hamburguesas y canciones, sin que la voz se le rompiera. Ya había preguntado una cosa esa noche y él le había contestado con un nombre; entendió que ésta no venía con nombre. Sólo tocó la tinta de la chaqueta con un pañuelo.
+Chiara no preguntó por Afganistán. No preguntó por la calavera. No preguntó qué clase de hombre decía algo así en un vestidor, medio desnudo, después de hamburguesas y canciones, sin que la voz se le rompiera. Ya había preguntado una cosa esa noche y él le había contestado con un nombre; entendió que ésta no venía con nombre. Sólo frotó la tinta de la chaqueta con un pañuelo, por hacer algo con las manos.
 
-—Esto no sale fácil.
+—No va a salir.
 
-—No todo sale.
+—Déjala así.
 
-La frase no iba dirigida a nada. Por eso le creyó.
+Ella la siguió frotando.
 
 ***
 
@@ -611,13 +628,13 @@ Se levantó para demostrarlo y encontró el marco de la puerta un poco antes de 
 
 —Puedo pedir un taxi.
 
-—Puedes dormir en una habitación que no uso y marcharte cuando te acuerdes de cómo funcionan los números.
+—¿A qué dirección?
 
-—Eso fue innecesario.
+Kal abrió la boca. La dirección no llegó.
 
-—Fue generoso.
+—Hay un cuarto que no uso —dijo Chiara.
 
-Aceptó porque no tenía salida elegante y porque, en el fondo, el cuerpo ya lo había decidido antes que el orgullo. Chiara le dio una camiseta limpia del cajón de huéspedes y una toalla. Kal las tomó como si fueran herramienta prestada, no un regalo.
+Aceptó porque no tenía salida elegante y porque, en el fondo, el cuerpo ya lo había decidido antes que el orgullo. Chiara le dio una camiseta limpia del cajón de huéspedes y una toalla, y se las tendió mirándolo a la cara, sólo a la cara, con un esfuerzo que esperaba que no se le notara. Kal las tomó como si fueran herramienta prestada, no un regalo.
 
 El pasillo hacia los cuartos estaba en silencio. Frente a la puerta, él se detuvo.
 

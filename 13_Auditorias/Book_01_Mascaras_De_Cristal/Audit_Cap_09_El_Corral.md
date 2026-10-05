@@ -2,7 +2,7 @@
 
 **Modo:** AUDIT (skill `editorial-surgery`). **No se tocó prosa.**
 **Fecha:** 2026-09-26. **Encargo:** Prioridad A del [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_01|dictamen de Parte I]] (PROBLEMA MACRO 2) + adenda A, B y D. Se leyó el capítulo completo antes de marcar nada.
-**Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_El_Corral]]. Las líneas corresponden al archivo al 2026-09-26: 7,698 palabras con metadata; la prosa ronda las 6,500.
+**Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24c_El_Corral]]. Las líneas corresponden al archivo al 2026-09-26: 7,698 palabras con metadata; la prosa ronda las 6,500.
 **Cruces:** [[06_Relationships/Hitos]] H12 (casi todos los beats son CANON DEL AUTOR), [[02_Characters/Beatrice_Varek]], [[12_Craft_Policies/revelations/SAGA_LEVEL]] (Alessio, Corrado), [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 25]] (tregua, Corrado).
 **Estado de partida:** `Estado: TERMINADO`. Ya pasó M2 (2026-09-11). Operarlo es reabrirlo.
 

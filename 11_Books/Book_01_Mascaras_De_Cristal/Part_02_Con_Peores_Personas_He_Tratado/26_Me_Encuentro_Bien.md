@@ -1,5 +1,5 @@
 <!--
-Estado: BORRADOR — primer capítulo de la Parte II (*Con peores personas he tratado*). Pendiente de revisión del autor. Cirugía editorial E5 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): cronología fija de ~24 h, POV y glosas; sigue BORRADOR.
+Estado: BORRADOR — primer capítulo de la Parte II (*Con peores personas he tratado*). Pendiente de revisión del autor. Cirugía editorial E5 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): cronología fija de ~24 h, POV y glosas; sigue BORRADOR. Ajuste 2026-10-04 (C7 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_24c_El_Corral]], autorizado por el autor): Varek "ya tenía" a alguien detrás de Kal (la vigilancia arranca en el 24c).
 Protagonistas: Chiara Bellandi (POV único). Apariciones: Dario Varek (recuerdo de madrugada + confrontación), Walter "Walt" Keegan.
 Ventana temporal: la mañana en que Kal sale de San Aurelio de emergencia. La mañana siguiente a H15 (la noche del jacuzzi, Cap. 25); todo el capítulo cabe en ese día (galpón esa misma noche). La advertencia de Varek de madrugada ocurrió la noche del jacuzzi y aquí entra como recuerdo comprimido (cierre de H15), no como escena propia. Ejecuta el núcleo vivo de H5 — San Aurelio desde el lado de Chiara.
 Lugares: El Penthouse y la terraza sur del Monarch; la destilería de Walt; el taller del norte (Rutas de Milla, cerca de Kingsley Field).
@@ -42,7 +42,7 @@ Kal no tranquilizaba a la gente antes de que tuviera miedo. Contestaba preguntas
 
 Hacía unas horas lo había tenido llorando contra su hombro. Y ahora le escribía como a una socia.
 
-La noche anterior, con el pelo todavía húmedo del jacuzzi y Kal esperándola en el agua, Varek la había llamado. Sin levantar la voz, como quien comenta el clima: que Kal no le cuadraba, que iba a mirarlo de cerca, que iba a poner a alguien detrás de él, que en su hipódromo no se tocaba a nadie sin que alguien lo pagara con la cabeza, y que ella, si era lista, se mantendría lejos. Chiara le había contestado con la voz de gerente, había colgado y lo había archivado como una más de las cosas que Varek decía para recordarte que podía decirlas.
+La noche anterior, con el pelo todavía húmedo del jacuzzi y Kal esperándola en el agua, Varek la había llamado. Sin levantar la voz, como quien comenta el clima: que Kal no le cuadraba, que iba a mirarlo de cerca, que ya tenía a alguien detrás de él, que en su hipódromo no se tocaba a nadie sin que alguien lo pagara con la cabeza, y que ella, si era lista, se mantendría lejos. Chiara le había contestado con la voz de gerente, había colgado y lo había archivado como una más de las cosas que Varek decía para recordarte que podía decirlas.
 
 A las siete y diez de la mañana, con el teléfono en la mano, dejó de estar archivada.
 

@@ -1,6 +1,6 @@
 <!--
-Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md). SURGERY 2026-09-27 (auditoria Parte I, lote B, E4; ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B §9 parte 2): cortadas dos prolepsis por §L ("O eso creian los dos esa manana" y la cola del auto que "iba a tardar mucho tiempo en volver a existir"); separador --- normalizado a ***. Estado conservado.
-Protagonistas: Chiara Bellandi, Kal Mercer, con aparicion breve de Dario Varek.
+Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md). SURGERY 2026-09-27 (auditoria Parte I, lote B, E4; ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B §9 parte 2): cortadas dos prolepsis por §L ("O eso creian los dos esa manana" y la cola del auto que "iba a tardar mucho tiempo en volver a existir"); separador --- normalizado a ***. Estado conservado. SIEMBRA 2026-10-04 (decision del autor sobre C5 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_24c_El_Corral]]; texto DISEÑO, pendiente de lectura): en la oficina, cuatro replicas nuevas siembran Eagle Eye (seguridad del Monarch), Charles (supervisor; CANON DEL AUTOR: antes "Cesar") y el acoso de Caluca, que el 24c cobra ("Kal lo conocia de oidas"). El resto del capitulo sigue TERMINADO.
+Protagonistas: Chiara Bellandi, Kal Mercer, con aparicion breve de Dario Varek. Mencionados: Charles y Caluca (Eagle Eye).
 Ventana temporal: dias despues del Capitulo 21 (El primer huesped; titulo de trabajo anterior: La promesa). Reordenado el 2026-08-29; renumerado varias veces, la ultima el 2026-09-07 al insertar el Capitulo 21 nuevo (El primer huesped).
 Lugares: The Monarch Casino & Hotel, calles de Paseo Pacifica, Almendra Towing.
 Funcion: ejecutar beats 16 y 17 — un trabajo chico y sucio resuelto juntos, sin nombrarlo como hito (ese titulo lo conserva H5), y Dario notando por primera vez una variacion en Chiara que no viene solo del Monarch.
@@ -58,6 +58,14 @@ Se encontraron esa tarde en la oficina de Chiara, los dos con la clase de cansan
 —¿El valet? —preguntó Kal.
 
 —Tiene turno normal mañana. Nadie le va a preguntar nada, porque no hay nada que preguntar.
+
+—¿Y seguridad?
+
+—Charles anotó lo que le pedí y no preguntó por qué. Me debía una desde lo de Caluca.
+
+Kal esperó.
+
+—Uno de sus guardias de Eagle Eye. Argentino. Llevaba semanas apareciéndoseme en los pasillos más de lo que su turno explicaba, hasta que Charles lo hizo disculparse delante de mí. Ahora me saluda de lejos.
 
 —¿El huésped?
 

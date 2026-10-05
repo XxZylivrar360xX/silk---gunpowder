@@ -223,7 +223,7 @@ La noche del penthouse debe seguir siendo:
 
 Archivo:
 
-`11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_El_Corral.md`
+`11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24c_El_Corral.md`
 
 ## Problema actual
 

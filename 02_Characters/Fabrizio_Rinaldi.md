@@ -26,6 +26,8 @@ Su funcion es mostrar que el pasado italiano de Chiara no es un bloque unico. No
 - Si recuerda Palermo, lo hace de lado, como quien sabe que hay cosas que no se ponen sobre una mesa nueva.
 - La coerción sobre su familia explica distancia, silencios o una retirada práctica; no lo convierte en traidor ni en informante voluntario.
 
+- **Decisión del autor (2026-10-04):** actor más involucrado en la Parte I (hoy sólo habla en el Cap. 2); se diseña por capítulo. Ver [[12_Craft_Policies/voice/Fabrizio_Rinaldi]].
+
 ## Conexiones
 
 - [[02_Characters/Chiara_Bellandi]] - vieja amistad de Italia.

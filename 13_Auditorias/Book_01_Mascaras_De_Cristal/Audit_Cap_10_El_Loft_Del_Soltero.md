@@ -3,7 +3,7 @@
 **Modo:** AUDIT (skill `editorial-surgery`). **No se tocó prosa.**
 **Fecha:** 2026-09-26. **Encargo:** Prioridad B del [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_01|dictamen de Parte I]] (PROBLEMA MACRO 3) + adenda B y D. Se leyó el capítulo completo antes de marcar nada.
 **Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]]. Las líneas corresponden al archivo al 2026-09-26: la prosa tiene 4,819 palabras.
-**Cruces:** [[06_Relationships/Hitos]] H14 (y la nota de H12 sobre la poda de cohabitación), [[05_Locations/La_Casa]], [[02_Characters/Kal_Mercer]] (balcón, Dale, Ruth), [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]] (doble fondo), [[12_Craft_Policies/revelations/SAGA_LEVEL]] (caja de runas, origen de Kal), [[12_Craft_Policies/voice/Nadir_Amrani]], y el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_El_Corral|Cap. 9]] ya operado.
+**Cruces:** [[06_Relationships/Hitos]] H14 (y la nota de H12 sobre la poda de cohabitación), [[05_Locations/La_Casa]], [[02_Characters/Kal_Mercer]] (balcón, Dale, Ruth), [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]] (doble fondo), [[12_Craft_Policies/revelations/SAGA_LEVEL]] (caja de runas, origen de Kal), [[12_Craft_Policies/voice/Nadir_Amrani]], y el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24c_El_Corral|Cap. 9]] ya operado.
 **Estado de partida:** `Estado: TERMINADO` (CLOSE del 2026-09-12). Operarlo es reabrirlo.
 
 ---

@@ -6,6 +6,7 @@ Lugares: La Almendra, Departamento de Policia de San Aurelio, Il Gelsomino, Lote
 Funcion: instalar el dia normal de Kal, la carta de Walt, el acuerdo con Keene, Matteo Bellacorte como bisagra y la invitacion al Monarch. Continua en el Capitulo 2.
 Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_01-03.md (seccion 9). Incluye la siembra de los papeles de Nadir (formato del condado, Kal firma por el).
 Ajuste (2026-09-29, autor, reapertura del Cap. 3): en la tumba de Michael, "Quiero que El Patio vuelva a estar en el juego" pasa a "Quiero que la Almendra vuelva a estar en el juego"; todavia no son El Patio.
+Dialogo de terceros, La Esquina (2026-10-04, cirugia sobre capitulo TERMINADO; el estado se conserva; prosa DISENO del agente, BORRADOR pendiente de lectura). Direccion del autor: Matteo quiere a Kal como socio para abrir negocios. Deseo opuesto (agente): Kal no se fia de la palabra "socio" en boca de quien no controla la mesa. Fuera: "Eso dice el letrero / El letrero dice gruas", "No todo el mundo tiene que meter coches por la entrada de carga", "No le gusta el juego / No dije eso / No hizo falta", "Eso cuesta / Todo cuesta / No todo se vende / Los socios se aburren...", "Pregunte por mi / No pregunto por gente que me invito". Entran: el pitch de socio (coleccionistas, carreras, talleres: rima con lo que Kal busca en el 2); "¿Ellos saben que me esta ofreciendo eso?" sin respuesta (prepara el "Ya esta citado a las nueve" del 2); Matteo pisa la herida del juego y se disculpa ("Hablo demasiado. Me lo dicen en dos idiomas"); Mabel corrige a Kal y el obedece con Rafa mirando (siembra literal del "Tiene testigos" del 2); "Nueve es nueve" (siembra del "Matteo dijo que diria algo asi" de Fabrizio); Matteo intenta pagar las seis ordenes y Mabel: "Ya estan pagadas" (alimenta "Pagaba antes para que pareciera favor"). Intactos: entrada a La Esquina, cicatriz, networking/puerta, coda de Mabel. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I.md §6.
 -->
 
 # Capítulo 1 — Un hombre de negocios intachable
@@ -672,7 +673,7 @@ Matteo se tocó la propia mejilla con el índice, sin perder la sonrisa, como si
 
 —La cicatriz. Le pedí a quien me habló de usted algo más útil que rubio, ojos azules. Resopló y me dijo que eso, en este país, es como pedirme que encuentre la diferencia entre dos gotas de agua. La cicatriz, en cambio, no la comparte nadie más en esta cuadra.
 
-Lo dijo con la calma de un hombre que explica por qué siempre gana la misma mano: sin prisa, sin necesidad de convencer a nadie, porque ya sabía que el otro se iba a quedar a escuchar el resto.
+Lo dijo con gusto, como quien cuenta un chiste que ya le funcionó en otra mesa.
 
 Kal señaló la silla frente a él con los dedos juntos.
 
@@ -680,41 +681,33 @@ Kal señaló la silla frente a él con los dedos juntos.
 
 Matteo se sentó. Mabel miró a Kal, luego a Matteo, luego otra vez a Kal. No preguntó. Dejó otra servilleta sobre la mesa, que en su idioma significaba *te estoy viendo*, y volvió a cerrar recipientes.
 
-—Me dijeron que usted resuelve problemas de coches —dijo Matteo.
+—Me dijeron que usted resuelve problemas de coches —dijo Matteo—. Me dijeron muchas cosas, en realidad. Un proveedor del puerto, un valet que trabajó en La Isla, un hombre muy aburrido del Ayuntamiento que me habló cuarenta minutos de banquetas. Todos terminaban igual: si quiere que algo se mueva en esta ciudad sin hacer ruido, hable con Mercer. El del Ayuntamiento lo dijo en voz baja, que en él ya es un elogio.
 
 Kal abrió la tapa de una taza de café que Mabel le había puesto enfrente sin consultarlo.
 
-—Eso dice el letrero.
+—Muevo coches.
 
-—El letrero dice grúas.
+—Por eso empiezo por ahí. —Matteo le dio media vuelta a su taza sobre el plato—. Tengo gente llegando hoy. Socios. Abrimos el Monarch, en el Distrito Marino. ¿Lo ha visto?
 
-—Las grúas son problemas de coches que ya se cansaron de esperar.
+—La obra.
 
-Matteo sonrió.
-
-—Tengo gente llegando hoy. Socios. Una operación nueva en el Distrito Marino. El Monarch Casino & Hotel.
+—Todo el mundo ha visto la obra. Ése es el punto. —Se rió solo—. Un casino nuevo necesita flotilla, mantenimiento, alguien que levante un coche un sábado a las dos de la mañana sin que se entere la prensa. Eso, para empezar. Pero no vine hasta aquí por una grúa, señor Mercer. Grúas hay en el directorio.
 
 Kal bebió café. Estaba demasiado caliente y demasiado viejo. Perfecto.
 
-—He visto la obra.
+—Por un casino entran coches que nunca van a pisar la Almendra —siguió Matteo, y abrió la mano sobre la mesa, hacia la ventana, hacia la ciudad entera—. Coleccionistas. Gente que corre los sábados y paga lo que sea por un motor que nadie más le sabe tocar. Talleres de los que arman un coche desde cero. Un hombre que conoce la calle y tiene la factura limpia, parado junto a esa puerta… Eso ya no es un proveedor. Eso es un socio.
 
-—Todo el mundo ha visto la obra. Ése es el punto.
+La palabra se quedó sobre la mesa, entre el café y la servilleta de Mabel. Kal la había oído antes, en otras bocas, casi siempre de hombres que pagaban por adelantado.
 
-—No todo el mundo tiene que meter coches por la entrada de carga.
+—¿Socio de quién?
 
-La sonrisa de Matteo se quedó un segundo en el mismo lugar.
+—Nuestro. Mío, para empezar. Los demás… —Matteo hizo un gesto vago con la taza, como si los demás vinieran incluidos en el precio—. Ya los va a conocer.
 
-—Eso también me dijeron.
+—¿Ellos saben que me está ofreciendo eso?
 
-—¿Quién?
+Matteo abrió la boca y la volvió a cerrar. Después sonrió más ancho, que en él era la manera de no contestar.
 
-—Un proveedor del puerto. Un valet que trabajó en La Isla. Un hombre muy aburrido del Ayuntamiento. Todos dijeron lo mismo con palabras distintas: si quiere que algo se mueva en esta ciudad sin hacer ruido, hable con Mercer.
-
-Kal dejó la taza.
-
-—Depende de qué quiera mover.
-
-—Por ahora, reputación. Después, quizás coches. Flotillas, mantenimiento, servicio de emergencia, proveedores que no nos dejen tirados un sábado a las dos de la mañana. El casino abre demasiado pronto para estar improvisando con mecánicos que creen que discreción significa cobrar en efectivo.
+—Lo van a saber esta noche.
 
 Kal miró por la ventana. En la acera de enfrente, un niño empujaba una bicicleta sin cadena. Rafa Luna fingía mirar su casco y escuchaba con todo el cuerpo.
 
@@ -722,39 +715,25 @@ Ya tenía la comisaría. Ya tenía el barrio. El Distrito Marino era el único c
 
 —No trabajo con casinos.
 
-Matteo no se movió.
+No subió la voz. Matteo, que llevaba diez minutos sin dejar un hueco, dejó uno.
 
-—No le gusta el juego.
+—No le pido que juegue —dijo después, más rápido—. Ni que pise el salón. Conozco gente que no entra a un casino ni para usar el baño, y no le pregunto a nadie por qué, Dios me libre, cada quien con lo suyo, yo sólo…
 
-—No dije eso.
-
-—No hizo falta.
-
-Kal volvió a mirarlo. Esta vez Matteo dejó de sonreír, no por miedo; por respeto a la línea que acababa de pisar.
+Se detuvo. Kal no había cambiado la cara y aun así Matteo supo que acababa de pisar algo.
 
 En la mesa de al lado, la mujer de la farmacia dejó la cuchara dentro del plato sin hacer ruido. Nadie en La Esquina de Mabel sabía exactamente qué parte de Kal no se tocaba. Todos sabían cuándo alguien acababa de tocarla.
 
-—No necesito que juegue, señor Mercer. Necesito que llegue a tiempo, que sus hombres no hablen, que sus facturas se puedan enseñar y que sus soluciones no obliguen a nadie a decir una palabra que después salga cara.
+—Perdone —dijo Matteo—. Hablo demasiado. Me lo dicen en dos idiomas.
 
-—Eso cuesta.
+Mabel salió de atrás del mostrador con un recipiente abierto y lo plantó frente a Kal, encima de la palabra que seguía en la mesa.
 
-—Todo cuesta.
+—Primero comes. Después haces negocios. Así no.
 
-—No todo se vende.
+Kal la miró. Luego tomó el tenedor de plástico y comió. Matteo lo vio obedecer como quien anota una cifra, y Rafa Luna, desde su mesa, también: el muchacho no le quitó los ojos de encima hasta que Kal dio el segundo bocado.
 
-Matteo inclinó la cabeza, despacio.
+—¿Qué quiere esta noche? —preguntó Kal con la boca medio llena.
 
-—Mejor. Los socios se aburren de los hombres que venden todo.
-
-Mabel dejó un vaso de agua en la mesa. Nadie se lo había pedido.
-
-—La comida se enfría, Kal.
-
-Kal no apartó los ojos de Matteo.
-
-—¿Qué quiere?
-
-—Que venga esta noche. Le presento a los socios. Nada formal. Una conversación. Si no hay trato, por lo menos conoce el edificio antes de que media ciudad finja que siempre fue suyo.
+—Que venga. Le presento a los socios. Nada formal: una copa, una conversación. Si no hay trato, por lo menos conoce el edificio antes de que media ciudad finja que siempre fue suyo.
 
 Kal miró las bolsas de comida. Después el recibo de las flores. Después el coche de Matteo, demasiado limpio afuera.
 
@@ -768,29 +747,31 @@ No podía despreciar la puerta.
 
 —¿Hora?
 
-Matteo volvió a sonreír.
+—A las nueve. Nueve y algo, en realidad, los socios vienen de lejos y ya sabe cómo es eso, la primera noche nadie llega…
+
+—Nueve es nueve.
+
+Matteo lo miró dos segundos y se rió con ganas, como si por fin hubiera encontrado algo en San Aurelio que no venía en el dossier.
 
 —Nueve.
 
 —Mande la dirección de carga. No entro por valet con botas de taller.
 
-—Esta noche, quizá convenga que sí.
+—Le mando las dos.
 
-Kal tomó una de las bolsas.
+Kal no contestó. Matteo se puso de pie, se acomodó el saco y sacó la cartera.
 
-—Entonces quizá convenga que no llegue.
+—Las seis órdenes del señor van por mi cuenta.
 
-Matteo lo miró dos segundos y se rió con ganas, como si por fin hubiera encontrado algo en San Aurelio que no venía en el dossier.
+—Ya están pagadas —dijo Mabel, sin levantar la vista de la caja.
 
-—Nueve —repitió—. Pregunte por mí.
+No lo estaban. Matteo miró a Mabel, miró a Kal, que seguía comiendo, y guardó la cartera con la sonrisa de un hombre que acaba de aprender algo caro.
 
-—No pregunto por gente que me invitó.
+—Pregunte por mí en la entrada. Por Matteo. Bellacorte, si hay otro Matteo, que no creo, aunque en ese edificio uno nunca sabe quién va a aparecer…
 
-Matteo se puso de pie.
+Lo dijo ya caminando hacia la puerta, y la campanita le cortó el resto.
 
-—Entonces yo estaré atento.
-
-Cuando salió, la campanita volvió a sonar tarde. Mabel esperó a que el coche arrancara.
+Mabel esperó a que el coche arrancara.
 
 —Ese trae zapatos de hombre que nunca ha cargado una caja.
 

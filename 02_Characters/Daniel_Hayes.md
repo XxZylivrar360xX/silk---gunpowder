@@ -128,6 +128,8 @@ Danny funciona como **testigo de barrio**: ve cosas que los protagonistas no pue
 
 ---
 
+- **Decisión del autor (2026-10-04):** en la Parte I el consumo empieza a salir más a flote en el diálogo; escalones (DISEÑO) en [[12_Craft_Policies/voice/Danny_Hayes]].
+
 ## Conexiones
 
 - [[02_Characters/Kal_Mercer]] — amigo del barrio; lo ve en una de sus primeras grietas.

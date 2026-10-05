@@ -40,6 +40,7 @@ RECONSTRUCCIÓN 2026-10-01 (Claude Code, CANON DEL AUTOR — SUPERSEDE las notas
 - CORRECCIÓN DE ATRIBUCIÓN (2026-10-03, autor): "Pues en ese momento lo pensé... no voy a ser ni un pensamiento en su cabeza... Fíjate que lo pensé y no te dije nada" es de CHIARA (como en la fuente), no de Kal.
 - CIERRE: tras la llamada, junto al Audi, Kal revisa la recámara y guarda la pistola atrás en la cintura; Chiara lo ve desde el balcón.
 - SEMBRADO 2026-10-01 en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24b_Lo_Que_Cueste]] (primera mitad, la que Kal oye: "Si un día me llega el agua al cuello, agarro mis cosas y me voy."). CANON DEL AUTOR (2026-10-01): Kal sólo oyó la primera mitad; aquí Chiara revela la segunda ("no sabía si contigo podría", redacción DISEÑO). Lo que sigue callando es POR QUÉ lo dijo esa noche (el pedido de Nadir); Kal no lo sabe en el Libro I. Nota previa: PENDIENTE DE SIEMBRA: la escalera ("hace días, en esta misma casa… el agua al cuello… fue cuando subiste la escalera"). Nace de un beat aparte del autor (Nadir le pide a Chiara que se aleje de Kal); no escribir hasta que el autor lo dicte.
+- CONTINUIDAD (2026-10-04, autor): la baranda del balcon ya no la "hizo conservar" Chiara por estetica; en el Cap. 10 fue Kal quien no dejo quitarla y ella sabe que era la casa de sus padres (y, por el mirador del Cap. 20, el arresto de Dale en la calle). Linea: "la baranda de hierro que Kal no habia dejado quitar". Sin glosa.
 -->
 
 # Capítulo 28 — La correa
@@ -66,7 +67,7 @@ A las cuatro y media se quedó dormida sentada, sin querer, con la capucha puest
 
 Un coche. En la calle del loft, a esa hora, frenando junto al hueco.
 
-Chiara estaba en el balcón antes de decidir moverse, con las manos en la baranda de hierro que había hecho conservar porque era lo único original que valía la pena. El Audi. Se detuvo detrás del Peugeot gris y se quedó así un momento largo, con el motor encendido y las luces sobre la placa ajena, antes de apagarse. La puerta tardó en abrirse más de lo que tardaba cuando el que bajaba estaba entero.
+Chiara estaba en el balcón antes de decidir moverse, con las manos en la baranda de hierro que Kal no había dejado quitar. El Audi. Se detuvo detrás del Peugeot gris y se quedó así un momento largo, con el motor encendido y las luces sobre la placa ajena, antes de apagarse. La puerta tardó en abrirse más de lo que tardaba cuando el que bajaba estaba entero.
 
 ***
 

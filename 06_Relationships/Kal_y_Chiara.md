@@ -163,6 +163,23 @@ Las escenas de los dos son **privadas por defecto**: cocinas, coches, teléfonos
 
 ---
 
+## El aura — CANON DEL AUTOR (2026-10-04), fundacional para *Sombras de Poder* y *Voto de Ceniza*
+
+**Juntos en una habitación imponen.** El que entra siente que interrumpió algo y está a punto de decir *perdón por mirarlos*. Es el efecto de los dos juntos, no de cada uno por separado. Es fundacional para los Libros II y III.
+
+**Cómo se escribe (DISEÑO del agente sobre la indicación del autor):**
+
+- **Se escribe desde el tercero que entra, nunca desde el narrador.** El aura se mide en la reacción ajena: alguien baja la voz, se disculpa sin saber de qué, se queda en el marco, se va a buscar algo que no necesita. El narrador nunca dice "imponían", "eran poderosos juntos" ni nada parecido.
+- **No es afecto: es presencia.** No se tocan ni se miran el uno al otro. Por eso no rompe la unión invisible ni la regla de no mostrar afecto en público (arriba): la ciudad no ve una pareja, ve algo cerrado a lo que no la invitaron. *Lectura del material visual del autor:* los dos quietos, él de brazos cruzados y ella con el cigarro, y **los dos mirando hacia el mismo lado, no el uno al otro**.
+- **Quietud compartida.** Cuando están juntos ninguno llena el silencio: nadie se acomoda, nadie explica. El que entra es el único que se mueve.
+- **Gradiente.** En el Libro I, a lo más, hay destellos, y no se toca la prosa existente para sembrarlos. El aura plena empieza cuando ya son socios declarados y pareja por conducta, y es material del Libro II. Su apogeo, la pareja que ya es poder, es material del Libro III.
+- **Se gasta si se usa mucho:** una o dos veces por libro, en una habitación que importe y frente a un tercero cuya reacción también importe.
+- **Vestuario:** bancos en [[02_Characters/Kal_Mercer]] y [[02_Characters/Chiara_Bellandi]] (2026-10-04).
+
+> **PENDIENTE:** la primera escena del Libro II donde alguien entra y casi dice *perdón por mirarlos* (quién entra y dónde). Queda sujeta al bloqueo de prosa de *Sombras de Poder*.
+
+---
+
 ## La incomodidad de estar cómodos
 
 El descubrimiento más específico de esta pareja, y no se parece a nada que suela escribirse:

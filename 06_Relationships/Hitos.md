@@ -19,12 +19,13 @@ Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni
 | 3 | **H2-b** — La noche que todo cambió *(amistad íntima; madre simbólica del jacuzzi)* |
 | 4 | **H3** — La noche del ladrillo *(a: el florero · b: las calcetas blancas · c: el ladrillo; atracción ya reconocida por Chiara)* |
 | 5 | **H9** — La carrera de máscaras *(primera salida fuera de la zona de confort de Chiara; ahora entre H3 y H12)* |
-| 6 | **H12** — El atentado / El corral *(el ataque, el hospital, la investigación fallida, el refugio temporal en La Almendra)* |
+| 6 | *(capítulo sin ID, 2026-10-04: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_La_Balanza|La balanza]], Cap. 9 — el Tasador asalta a la fiscal Rowe; Chiara, con la muñeca lesionada, se refugia en La Almendra. Ocupa el lugar que tenía H12)* |
 | 7 | **H14 — El loft del soltero** *(Kal recompra la casa de sus padres; Chiara la diseña; ella todavía NO se muda)* |
 | — | *(capítulo puente, sin ID: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono|La regla del teléfono]] — fin de semana de campamento de Kal con Marisol; instala por qué está incomunicado cuando le da el infarto a Héctor)* |
 | 8 | **H10** — El infarto de Héctor *(Héctor los empuja al otro; la mano sobre la mano; terceros ya los leen)* |
 | 9 | **H4** — El día nublado *(la cita del golf; se profundiza la elección — NO se formaliza)* |
 | 10 | **H11** — El mirador *(bolos, el drift, las estrellas — el primer beso y la primera intimidad)* |
+| 10-b | **H12** — El atentado / El corral *(REUBICADO 2026-10-04, CANON DEL AUTOR: Cap. 24c, justo antes del jacuzzi; ataque, hospital en observación, tregua y vigilancia de Dario)* |
 | 11 | **H15 — La noche del jacuzzi** *(máxima apertura deliberada; Varek advierte a Chiara de madrugada)* |
 | — | **· · · CORTE PARTE I → PARTE II · · ·** *(fijado 2026-08-29, autor — Costura A: la Parte I cierra con H11 + el jacuzzi; la Parte II arranca en H5. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] > "Umbrales auditados > A".)* |
 | 12 | **H5** — San Aurelio *(Kal sale de la ciudad; "me encuentro bien"; confrontación Varek–Chiara — arco de la tensión, parte 1)* |
@@ -501,9 +502,15 @@ La noche en que todo cambia es **la única noche del libro en que no puede condu
 
 # H12 — El atentado / El corral
 
+> **REUBICACIÓN (2026-10-04, CANON DEL AUTOR) — manda sobre las posiciones de abajo.** H12 ya no cae entre H9 y H14: va **justo antes de [[#H15 — La noche del jacuzzi]]**, como Cap. 24c ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24c_El_Corral]]), sin renumerar. Gravedad: **conmoción con hematoma en observación**, sin craniotomía. La tregua y la vigilancia de Dario se mueven con el capítulo. Ya hubo H11: no aplica "todavía no hay primer beso"; el refugio es el loft de Kal (abrazo y temblor intactos), no la casa común. La casa común, "Tienes mi palabra" y "Lo necesario. Hasta que ya no lo sea" pasaron al nuevo Cap. 9 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_La_Balanza]]), donde el detonante de la estancia en La Almendra es el asalto del Tasador a la fiscal Rowe: el riesgo viene del mundo de Kal, y la estancia es deuda de él con ella. Las secuelas pendientes de los Caps. 11-14 quedan sin objeto; el rastro del golpe vive en la Parte II (28). Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Reubicacion_Corral]].
+
+> **INTEGRACIÓN DEL PARADOR (2026-10-04, CANON DEL AUTOR; prosa BORRADOR):** el diálogo calibrado de [[07_Ideas/Escenas_Guia/El_Parador_Del_Norte]] entra al 24c. Cambios a este hito: el sospechoso que Kal secuestra es **Caluca**, guardia de **Eagle Eye Security** (seguridad del Monarch) que acosaba a Chiara; Kal encuentra en el penthouse una **carta de Il Consorzio** que quiere "evaluar" su desempeño, con reunión el día 13 (sin firma: Chiara sigue sin dar el nombre en el parador); Kenji le consigue la lista de los hombres de Dario en el Monarch; Kal y Dario, cada uno por su lado, se reúnen en la mansión de Dario con Vivian presente; Chiara ve juntos a Kal, Dario y Trix en el alta. En el parador, Chiara: "No. Pero tampoco me arrepiento" responde ahora a "¿Me elegiste?". **Sembrados en el Cap. 22 (2026-10-04, DISEÑO pendiente de lectura):** Eagle Eye, Charles (antes "César", CANON DEL AUTOR) y el acoso de Caluca.
+
+> **LA REUNIÓN DEL 13 (2026-10-04, CANON DEL AUTOR):** la reunión que anuncia la carta que lee Kal es justo la razón por la que Kal y Chiara terminan yendo a Palermo después del cumpleaños ([[#H16 — El cumpleaños / la mudanza oficial|H16]] → [[#H17 — Italia / Mesa de las Familias|H17]]). **RESUELTO (2026-10-04, CANON DEL AUTOR):** "il 13" es el **13 de diciembre, fecha de la Mesa** (día 3 en Palermo, Cap. 40); la fiesta del yate del Cap. 38 cae el viernes 10. La Parte II no menciona la fecha. Cap. 38 conciliado (BORRADOR): Chiara ya cree desde el parador que fueron "ellos", sin prueba ("Te lo dije en el parador"), y "El 13 voy a ir a la Mesa".
+
 > **VERDAD DEL AUTOR (2026-10-04) — NO ESCRIBIR EN PROSA ANTES DE LA CODA DE *VOTO DE CENIZA*:** quien llama a Kal desde el teléfono de Chiara es **Corrado** (Manfred Gabe, mozo de las caballerizas). Duerme al atacante, lo interroga (lo contrató Nereo Volpi), lo mata y lo desaparece con ayuda de Walt; el teléfono que falta lo tiene él. **Pago:** en el hospital, al final de *Voto de Ceniza*, Kal reconoce esa voz con *"¿Larga noche, señor Mercer?"*. La prosa del Cap. 9 no cambia: "¿Ella sale mucho los domingos?" funciona como pista cifrada. Ver [[02_Characters/Corrado_Ardizzone]] y [[07_Ideas/Corrado_Manfred_Gabe]].
 
-> **CANON DEL AUTOR (2026-08-27; delimitación revisada 2026-08-29).** Cae después de [[#H9 — La carrera de máscaras]] y antes de [[#H14 — El loft del soltero]]. **ESCRITO** en el Capítulo 9 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_El_Corral]]); el Capítulo 10 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]]) ejecuta el hito siguiente, ya separado. Es la **primera aparición en prosa de Il Consorzio**, aunque no se revela como tal en el momento del ataque — sólo se deduce después, ver [[#H13 — El pañuelo]].
+> **CANON DEL AUTOR (2026-08-27; delimitación revisada 2026-08-29).** Cae después de [[#H9 — La carrera de máscaras]] y antes de [[#H14 — El loft del soltero]]. **ESCRITO** en el Capítulo 9 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24c_El_Corral]]); el Capítulo 10 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]]) ejecuta el hito siguiente, ya separado. Es la **primera aparición en prosa de Il Consorzio**, aunque no se revela como tal en el momento del ataque — sólo se deduce después, ver [[#H13 — El pañuelo]].
 
 > **NUEVA DELIMITACIÓN CONCEPTUAL (2026-08-29).** H12 cubre **sólo**: el atentado, el hospital, la investigación inmediata, la salida, y que Chiara termine **refugiándose temporalmente** en [[05_Locations/Casa_Comunitaria_De_La_Almendra]]. La recompra y el diseño de la casa quedan como **hito propio siguiente** ([[#H14 — El loft del soltero]]).
 >
@@ -516,6 +523,8 @@ La noche en que todo cambia es **la única noche del libro en que no puede condu
 Chiara está montando a caballo en el hipódromo del Monarch, propiedad del casino — **no en Bellandi Ridge**, decisión revisada el 2026-08-28 para fusionar este hito con el arranque de H5 (ver nota más abajo). Al cerrar el corral, recibe un golpe. Uno solo. Nada más — no hay forcejeo largo, no hay segunda agresión. No despierta hasta el hospital.
 
 > **Restricción de escritura:** el atacante no se identifica ni se sugiere en la escena. Ni Chiara ni el lector deben saber quién fue. Se deduce después, sin pruebas, en H13.
+
+> **Conciliación (2026-10-04, autorizada por el autor; C4 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_24c_El_Corral]]):** con el parador integrado, la deducción se adelanta: en el 24c Chiara ("Totalmente") y Dario ya creen que fueron "ellos" (Il Consorzio). Es creencia de personaje, sin prueba: el atacante sigue sin identificarse ni sugerirse en escena y el lector no sabe quién fue (verdad del autor reservada, arriba). H13 ya no origina la deducción; la refuerza.
 
 > **CANON DEL AUTOR (2026-08-28):** Kal recibe una llamada desde el celular de Chiara — pero contesta un hombre desconocido, que hace preguntas sueltas tratando de deducir sus movimientos ("¿ella sale mucho los domingos? Me da la impresión de que le gusta estar sola") y cuelga sin identificarse. **Restricción:** esta llamada no revela nada del atacante — ni motivo, ni nombre, ni afiliación. Es puro desasosiego, no pista. **La frase "me da la impresión de que le gusta estar sola" queda marcada como eco pendiente — candidata a que Dario la repita, sin saberlo, en una escena futura con ella, sembrando sospecha real sin que el lector reciba una pista falsa.** Kal marca directo a Chiara: buzón de voz inmediato.
 
@@ -587,6 +596,8 @@ Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Kal_Mercer]] 
 
 # H14 — El loft del soltero
 
+> **DETONANTE CAMBIADO (2026-10-04, CANON DEL AUTOR).** La estancia de Chiara en la casa común ya no viene de H12 (reubicado antes del jacuzzi) sino del asalto del Tasador a Rowe del nuevo Cap. 9 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_La_Balanza]]): muñeca con férula, no conmoción. La fricción con Nadir cambia de signo: le reprocha a Kal haber provocado a Crowe. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Reubicacion_Corral]].
+
 > **CANON DEL AUTOR (2026-08-29).** Cae después de [[#H12 — El atentado / El corral]] y antes de [[#H10 — El infarto de Héctor]]. Se separa de H12, del que antes era la segunda mitad. **Ejecutado en prosa en el Capítulo 10** ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]]); la prosa se podó el 2026-08-29 (opción A) para retirar la convivencia prematura — ver la nota de H12. **ID: H14** (asignado 2026-08-29).
 
 ## La recompra
@@ -636,7 +647,7 @@ La **mudanza oficial** pertenece al [[#H16 — El cumpleaños / la mudanza ofici
 
 ## Pendientes
 
-> **PENDIENTE:** ¿sabe Chiara de quién era la casa cuando la diseña? Las dos respuestas son buenas y muy distintas.
+> **RESUELTO (CANON DEL AUTOR, 2026-10-04):** Chiara no lo sabe al empezar; Kal se lo dice en el Cap. 10. Detalle más abajo, en "10. El loft — CANON MAYOR".
 
 > **RESUELTO (2026-08-29, opción A):** la prosa del Capítulo 10 se podó — se quitaron la almohada "de ella", la laptop instalada y la rutina del café diario; quedan libro, manta, cepillo, cremas, taza favorita y noches sueltas.
 
@@ -651,6 +662,8 @@ Ver también: [[02_Characters/Kal_Mercer]] · [[02_Characters/Chiara_Bellandi]] 
 > **ESCRITO (2026-09-20, Claude Code, BORRADOR, encargo del autor):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Capítulo 38 — Al revés]] (título provisional). La intercepción se rinde como **recuerdo dramatizado** dentro de la fiesta del yate (ocurrió "hace unos días", sin fijar cuántos, al salir de la misa de las ocho de Santa Lucía), con todos los beats canon de abajo: dos hombres, casa neutral en la ladera con muebles tapados, café servido en el orden de la Mesa, "signora Lusardi" → "—Ardizzone.", acusación de "recolectando migajas de poder", negación que es verdad a medias, pañuelo de lino con "C" bordada, bala corriente, y la línea canon textual (se conservó la abreviatura "Sra." tal cual; señalar si el autor prefiere "señora"). **Lo que la Mesa sabe, acotado por el autor:** que Matteo se fue, que Chiara consolida poder, rumores de que reúne información y activos y de que "hay quien cree que está construyendo algo suyo" — no enumera Kenji, periódico, viñedo ni círculo. De vuelta en el yate, Chiara le muestra el pañuelo y **Kal recibe la bala en la mano** ("Es corriente" / "Que no nos lleva a nadie" — sin forense); es lo que lo decide. Chiara dice que **cree**, sin pruebas, que fue el Consorcio en H12; Kal confirma que su investigación nunca cerró y que "esto tiene por dónde seguir". **Chiara se va esa misma noche** ("no sé si voy a regresar íntegra"); Kal: **"Voy contigo."** — activa [[#H17 — Italia / Mesa de las Familias|H17]] sin escribir nada de Palermo.
 
 > **CANON DEL AUTOR (2026-08-27; posición fijada 2026-08-29).** **Posición canon:** ocurre **después del [[#H16 — El cumpleaños / la mudanza oficial|cumpleaños / la mudanza]] e inmediatamente antes de [[#H17 — Italia / Mesa de las Familias|Italia / Mesa de las Familias]]** — es el gatillo de ese viaje. **Arco reservado: planta el viaje a Palermo — el agente no debe adelantar ni inventar contenido de ese viaje.**
+
+> **CONCILIACIÓN (2026-10-04, autorizada por el autor; C3/C4 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_24c_El_Corral]]):** la deducción de que fue el Consorcio ya ocurre en el 24c (parador), como creencia de Chiara y de Dario, sin prueba; H13 la refuerza, no la origina. La razón del viaje a Palermo es la reunión del 13 de la carta del 24c (CANON DEL AUTOR); H13 sigue siendo el gatillo inmediato: la bala no origina el viaje, lo confirma y le pone hora. La Mesa es el 13 de diciembre (CANON DEL AUTOR, 2026-10-04). El texto de abajo ("Deduce, sin poder confirmarlo…") se conserva como diseño original.
 
 ## La intercepción
 
@@ -1355,7 +1368,7 @@ Ella llama a una empresa de construcción y decoración de interiores, y **escog
 
 **Regla de escritura:** nadie lo comenta jamás. Ni él, ni ella, ni el narrador. **El lector hace la cuenta solo**, y la vuelve a hacer cada vez que aparece esa casa — incluida la noche del baño en [[#H1 — El regreso a casa]].
 
-> **PENDIENTE:** ¿sabe Chiara de quién era la casa cuando la diseña? Las dos respuestas son buenas y muy distintas.
+> **RESUELTO (CANON DEL AUTOR, 2026-10-04):** Chiara no sabe de quién era la casa cuando empieza a diseñarla (por eso propone cerrar el balcón); **Kal se lo dice.** Ubicación DISEÑO: la discusión de los presupuestos del [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero|Cap. 10]], sólo el hecho ("Era de mis padres"), sin la historia, que sigue reservada al mirador ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/20_El_Mirador|Cap. 20]]). La regla de escritura se mantiene: nadie comenta lo que significa que ella haya construido ahí la casa de los dos.
 
 ---
 
@@ -2285,6 +2298,8 @@ Una **cajita más pequeña, modesta, de madera.** Dentro, **una llave del loft.*
 > **ACTIVADO en prosa (2026-09-20):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 38]] cierra con Kal y Chiara en la terminal privada de Kingsley Field, alrededor de las cuatro de la mañana, con el avión a Palermo esperando. La decisión de Kal ("Voy contigo") y el motivo (la bala; su investigación de H12 nunca cerrada) ya están escritos. **Nada del viaje, la llegada, la Mesa ni Palermo está escrito** — sigue arco reservado.
 
 > **CANON DEL AUTOR (2026-08-29).** Ocurre **inmediatamente después de [[#H13 — El pañuelo]]** (su gatillo), que a su vez va después de [[#H16 — El cumpleaños / la mudanza oficial]]. **ID: H17** (asignado 2026-08-29). Arco reservado — no inventar contenido.
+
+> **LA REUNIÓN DEL 13 (2026-10-04, CANON DEL AUTOR):** la reunión que anuncia la carta de Il Consorzio en el 24c es la razón por la que Kal y Chiara terminan yendo a Palermo después del cumpleaños; [[#H13 — El pañuelo]] queda como gatillo inmediato. Fecha: 13 de diciembre (CANON DEL AUTOR, 2026-10-04); Cap. 38 conciliado. Ver [[#H12 — El atentado / El corral]].
 
 Kal y Chiara **viajan juntos a Italia.** En Palermo enfrentan **la Mesa de las Familias.** Lo sucedido allí produce una **fricción seria** entre ellos.
 

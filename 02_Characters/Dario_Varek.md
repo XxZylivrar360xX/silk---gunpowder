@@ -8,6 +8,7 @@
 **Qué es:** magnate de la ciudad y **cabeza de la mafia vigente — todo pasa por él**. Además, **socio mayoritario de [[03_Factions/El_Casino|The Monarch Casino & Hotel]]**.
 **Estado:** vivo.
 **Origen:** croata-estadounidense, con ascendencia dálmata o balcánica. Su identidad pública está integrada en Estados Unidos y no depende de una mafia étnica específica.
+**Apariencia:** calvo (CANON DEL AUTOR 2026-10-04) y con la cicatriz de quemadura en la cara (canon 2026-08-26). DISEÑO (2026-10-04, discutible): lado derecho, de la sien a la mandíbula y bajo el cuello de la camisa; piel lisa, rosa pálida y tirante, no una línea; el párpado derecho cierra un instante tarde; no la cubre con barba ni esconde el perfil. Prosa de referencia: entrada en el Cap. 2 (lobby del Monarch). La de Kal es en la mejilla izquierda: no cruzarlas.
 
 > **CANON DEL AUTOR (2026-08-29):** el apellido anterior **Valcora** queda reemplazado por **Varek**. El origen croata-estadounidense también queda fijado. No leer su organización como una mafia italiana.
 

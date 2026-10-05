@@ -53,6 +53,11 @@ Se lo dice a Chiara la primera noche, acordándose de Afganistán. Es lo más os
 
 Se viste como si el día pudiera terminar debajo de un coche, porque normalmente termina así: oscuro, holgado, botas. Cuando lo obligan a ponerse traje se ve bien y se siente disfrazado, y **se le nota exactamente cuánto lo odia** — dato que Chiara aprende a usar y después a proteger. En la primera noche del Monarch llega con **traje azul ajustado y tenis blancos**, presentable sin entregar del todo el cuerpo al disfraz.
 
+**Banco de vestuario, Libros II–III — CANON DEL AUTOR (2026-10-04, rescatado de material visual del autor; sólo la ropa):**
+- **Camisa a rayas finas,** negra o verde muy oscuro, abierta sobre playera blanca de cuello redondo, con las mangas arremangadas al antebrazo. Reloj de acero plateado en la muñeca. Es el Kal que ya no viene del taller pero tampoco se disfraza.
+- **Saco azul marino** sobre camisa blanca abierta en el cuello, sin corbata. Es el traje a su manera: formal arriba y con el cuello abierto, que es lo único del traje que no acepta.
+- *Límites:* el material visual no cambia rasgos ni tatuajes. Siguen la calavera en la espalda, el blackout en el antebrazo derecho y el cuello sin tatuaje. Ver "El aura" en [[06_Relationships/Kal_y_Chiara]].
+
 ---
 
 ## Referencia visual — DISEÑO (2026-09-11)

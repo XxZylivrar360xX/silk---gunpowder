@@ -1,7 +1,7 @@
 <!--
 Estado: BORRADOR (2026-10-01, Claude Code, encargo del autor; falta revisión del autor). Capítulo NUEVO insertado entre el 24 (Bajo juramento) y el 25 (Libros abiertos). Sin renumeración (decisión del autor 2026-10-01): el manuscrito no muestra números; el orden lo da el nombre de archivo ("24b" ordena entre 24 y 25). Encabezado sin "Capítulo N" para que el build no lo deforme.
 Protagonistas: Kal Mercer (POV bloques 1 y 3), Chiara Bellandi (POV bloque 2). Apariciones: Nadir Amrani, Enzo (Il Gelsomino).
-Ventana temporal: dentro de las dos semanas entre el cierre del conflicto legal (Cap. 24) y la compra del Lancia (Cap. 25). Bloque 1: noche, pocos días después del tribunal. Bloque 2: días después, 4pm. Bloque 3: esa misma noche. Coda: la mañana siguiente.
+Ventana temporal: en las dos semanas que siguen al cierre del conflicto legal (Cap. 24), antes del Corral (Cap. 24c) y de la compra del Lancia (Cap. 25; ajustado 2026-10-04 al reubicar el Corral). Bloque 1: noche, pocos días después del tribunal. Bloque 2: días después, 4pm. Bloque 3: esa misma noche. Coda: la mañana siguiente.
 Lugares: el taller de autopartes de La Almendra; terraza de Il Gelsomino; el loft (escalera lateral al mezzanine).
 Función: CANON DEL AUTOR (beat de Nadir en tres capas, 2026-10-01).
 - Capa 1 — Kal se abre con Nadir: primero eran visitas de negocios, después quería ir a contarle el día, hasta que descubrió que sólo quería que se acabara el día para verla. Nadir: no confía en ella, pero la decisión de Kal es ley, porque es su líder y su hermano.

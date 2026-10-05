@@ -39,6 +39,11 @@ Se viste con una precisión que no es lujo sino cálculo: **cada prenda está el
 
 En su llegada a San Aurelio viste **blusa roja sin mangas, pantalón de vestir negro, tacones rojos y abrigo corto de felpa blanco**. Lleva el cabello en un chongo elegante que despeja el cuello y deja visible la gargantilla.
 
+**Banco de vestuario, Libros II–III — CANON DEL AUTOR (2026-10-04, rescatado de material visual del autor; sólo la ropa):**
+- **Vestido negro de cuello halter** con un suéter rojo anudado sobre los hombros; bolso negro grande colgado del hombro; lentes de sol redondos, de armazón metálico fino y cristal ahumado; labial vino. Es el rojo y negro de su llegada, ya sin el blanco del Monarch.
+- **Camisa de franela a cuadros** (gris y blanco) abierta sobre cuello de tortuga negro; cigarro entre los dedos, uñas rojas largas, anillo. Es su ropa de la Almendra. *Lectura (DISEÑO):* la clase que baja se ve en la franela; la precisión sigue en las uñas.
+- *Límites:* el material visual no cambia rasgos. El cabello sigue hasta media espalda suelto y la lateralidad del lunar sigue PENDIENTE. Ver "El aura" en [[06_Relationships/Kal_y_Chiara]].
+
 El único tic que no controla: cuando algo la sorprende de verdad, se toca el anular izquierdo. **Ahí llevó un anillo de matrimonio.** Ya no está, y la mano no lo ha aceptado.
 
 **Uñas y joyas — CANON DEL AUTOR (2026-10-04):** Chiara jamás anda por la vida sin las uñas arregladas (postizas), ni en sudadera ni en crisis. Cuando algo la alcanza, juega con las joyas que lleve puestas (gira un anillo, enrosca un collar, mueve las pulseras, ajusta un arete que no se mueve); si no trae joyas, con las uñas. Nunca se pasa la mano por la cara: ese gesto es de Kal. Uso en diálogo: [[12_Craft_Policies/voice/Chiara_Bellandi]].

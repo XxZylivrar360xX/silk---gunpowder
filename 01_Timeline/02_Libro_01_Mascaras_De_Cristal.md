@@ -42,12 +42,13 @@ Cuenta cómo Kal Mercer y Chiara Bellandi se conocen, se vuelven útiles el uno 
 - **H2-b** — la noche que todo cambió (el penthouse, la música que se enseñan, la calavera, el paso del usted al tú).
 - **H3** — la noche del ladrillo (el florero, las calcetas blancas, el ladrillo; atracción ya reconocida por Chiara).
 - **H9** — la carrera de máscaras: primera salida fuera de la zona de confort de Chiara.
-- **H12** — el atentado / el corral: ataque, hospital, investigación fallida, refugio temporal en La Almendra.
+- *(sin ID, Cap. 9)* — el Tasador asalta a la fiscal Rowe; Chiara, con la muñeca lesionada, se refugia en La Almendra (2026-10-04; ocupa el lugar que tenía H12).
 - **H14** — el loft del soltero: Kal recompra la casa de sus padres; Chiara la diseña (ella todavía no se muda).
 - *(capítulo puente, sin ID)* — [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono|La regla del teléfono]]: fin de semana de campamento de Kal con Marisol; instala la incomunicación que explica el infarto de Héctor.
 - **H10** — el infarto de Héctor: terceros ya leen lo que Kal y Chiara evitan nombrar.
 - **H4** — el día nublado (la cita del golf; profundiza la elección, no la formaliza).
 - **H11** — el mirador: bolos, drift, el mirador (Kal habla por primera y única vez de Dale y Ruth), primer beso y primera intimidad en el penthouse.
+- **H12** — el atentado / el corral (reubicado 2026-10-04, Cap. 24c): ataque, hospital en observación, tregua y vigilancia de Dario, parador.
 - **H15** — la noche del jacuzzi: máxima apertura deliberada.
 - La advertencia nocturna de Varek a Chiara, de madrugada, funciona como gancho hacia la Parte II.
 

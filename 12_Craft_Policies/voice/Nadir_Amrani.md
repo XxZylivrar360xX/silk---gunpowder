@@ -1,5 +1,7 @@
 # Ficha de Voz - Nadir Amrani
 
+> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]): se añaden registro por capas (23, 24b) y reglas de uso. Las muestras de abajo vienen de la llamada canon del Cap. 1. **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
+
 ## Cadencia y sintaxis
 
 Rapido, comercial, siempre calculando en voz alta mientras habla de otra cosa. Interrumpe con preguntas de precio o de numero antes de que el otro termine. No suaviza: dice el numero, la ganancia o el riesgo de frente y deja que el silencio del otro haga el resto. Bajo presion se vuelve mas breve, no mas dócil.
@@ -55,3 +57,22 @@ Con Kal: Kal calla y decide: Nadir habla y decide, a la vez, sin pausa entre pen
 ## Línea genérica a evitar
 
 "No te preocupes, todo va a salir bien" — demasiado suave y sin numero adentro. Nadir diria algo mas cercano a "sale caro, pero sale" o directamente cambiaria el tema al dinero.
+
+## Registro por capas (2026-10-04, anclado en prosa)
+
+- **Con el barrio (1, 3, 5):** comida y burla. Cuida con ollas y tortillas; cobra con una sola línea ("Hueles bien", "¿Traía acento?").
+- **Pillado (23, la moto):** sobreexplica el precio en cascada ("cuatro mil doscientos; se la dejé en tres mil seiscientos, con casco, y las llantas son nuevas, wallah...") hasta que lo cortan por su nombre. Después, las manos quietas: es la primera vez que no tiene nada que hacer con ellas.
+- **Confesión ajena (24b, con Kal):** cuenta con los dedos contra la madera, primero con número y después sin número, "sólo por el gesto". Dice lo duro una vez ("lo voy a decir una vez y después no lo vuelvo a decir") y lo cierra con humor de cobro ("Mañana te cobro el doble").
+- **Frente a frente (24b, con Chiara):** abre con la pregunta de dinero ("¿Cuánto cuesta esa copa?"). Pide como quien pone un precio ("Que te alejes"). Paga él para no deber.
+- **Su propia crisis (17):** silencio y frases mínimas. Si la escena le da líneas, que sean de cuenta (cuánto, cuántos días, qué se debe), no preguntas para darle pie a otro.
+
+## Regla de objeción
+
+Cuando Nadir se opone a algo (la casa común en el 10, Chiara en el 24b), la objeción lleva **costo concreto**: qué se pierde, cuánto, a quién le toca pagar. Si la objeción es un discurso de principios sin número, está fuera de voz.
+
+## Muestras de registro añadidas (con origen)
+
+- "Me sale caro. / Te sale lo que costó." (23)
+- "Safi. Ésa te la pago de contado." (23)
+- "Hoy pago yo. Así no te debo nada." (24b)
+

@@ -1,31 +1,29 @@
 <!--
-Estado: TERMINADO
+Estado: BORRADOR (reubicado 2026-10-04 por decision del autor; antes TERMINADO como Cap. 9). REUBICACION (CANON DEL AUTOR, 2026-10-04): el Corral pasa de entre el 8 y el 10 a justo antes de la noche del jacuzzi, como Cap. 24c, sin renumerar (el manuscrito no muestra numeros; encabezado sin "Capitulo N", como el 24b). Razon: la Parte II (26, 28) trata el ataque como reciente; asi la tension con Dario llega viva y el 25 cobra el parador dias despues. Gravedad: conmocion con hematoma en observacion, sin craneotomia (Beatrice evalua y no opera). La vigilancia de Dario se mueve con el capitulo. Su antiguo hueco lo ocupa el nuevo Cap. 9, [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_La_Balanza]] (asalto del Tasador a Rowe). Ajustes de prosa 2026-10-04 (DISEÑO, pendientes de lectura): apertura desde el homenaje de Alessio que Tommaso organiza tras mentir bajo juramento (fuera el retroceso posterior a la carrera, que paso al 9); primer pensamiento de Kal anclado en Calle Corona; gravedad medica; Kal descarta a Crowe ("Crowe firmaba sus recados"); en el parador Kal reconoce su propia razon de la grua; "Solo esta vez" -> "Unos dias"; cierre en el loft (abrazo y temblor canon de H12 intactos) en vez de la casa comun (la casa comun, "Tienes mi palabra", "Lo necesario..." y Nadir pasaron al 9); coda nueva: cuatro dias en el loft, regreso al Monarch con tres hombres de Dario, "Necesito un coche que no sea del Monarch / Conozco uno" (puente al Lancia del 25). Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Reubicacion_Corral]]. INTEGRACION DEL DIALOGO DEL PARADOR (2026-10-04, encargo del autor; BORRADOR): se integra la calibracion [[07_Ideas/Escenas_Guia/El_Parador_Del_Norte]]. CANON DEL AUTOR: Caluca (guardia de Eagle Eye Security, la empresa de seguridad del Monarch, que acosaba a Chiara; Cesar, supervisor contratado por Tommaso, lo obligo a disculparse) sustituye al guardia de caballerizas; carta de Il Consorzio en el penthouse ("valutazione", reunion el 13), que Kal guarda y no menciona a Dario; Kenji consigue la lista de los hombres de Dario en el Monarch; Kal y Dario investigan cada uno por su lado (Kal golpea a uno en Eagle Eye, Dario lo cita en su mansion con Vivian); Chiara ve juntos a Kal, Dario y Trix en el alta; plan de salida: entrada principal y recogida en el tunel este por la puerta que seguridad no conoce. DISEÑO: "¿Con que telefono, tesoro?" (el telefono lo tiene Corrado); Dario no pronuncia el nombre del Consorzio ante Kal, para conservar "Dame el nombre / No" y el cobro del 25; la llamada canon y la coartada del forraje se conservan (el mirador de la fuente no entra). Sesion: [[98_Agent_Handoff/sessions/2026-10-04_claude_parador_24c]].
+SURGERY 2026-10-04 (autorizada por el autor sobre [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_24c_El_Corral]] §8): CANON DEL AUTOR: el supervisor de Eagle Eye se llama Charles (antes "Cesar"), sembrado en el Cap. 22; la reunion del 13 de la carta es la razon por la que Kal y Chiara terminan yendo a Palermo despues del cumpleaños (H16 -> H17). Cortada la camioneta "de las caballerizas" (C2). Microedicion: glosa del alta (P1), salto de POV del Audi pasado tras el *** (P2), resumen de Caluca comprimido (P3), "cabina" -> "coche" (P4), reloj despues de "no es barato" (P5), "mensajes suyos" (P7), mirada a la carretera (P8), "devuelta casi palabra por palabra" (P9), "un segundo de mas" (P10), hoja de Kenji en la coda (C6). Estado conservado: BORRADOR. Fecha de la carta (2026-10-04, CANON DEL AUTOR): "il 13" es el 13 de diciembre, fecha de la Mesa; en la narracion *il 13* -> *il 13 dicembre* (el dialogo "El 13" no cambia). El Cap. 38 queda conciliado.
+Protagonistas (vigente 2026-10-04): Chiara Bellandi, Kal Mercer; Dario Varek, Beatrice Varek (Trix), Caluca, Hector Navarro, Nadir Amrani; mencionados Kenji, Vivian, Charles (Eagle Eye).
+Historial anterior a la reubicacion (cuando era el Cap. 9; las referencias a "Capitulo 8", casa comun, craneotomia y "todavia no hay primer beso" quedan supersedidas por la nota de arriba):
 Protagonistas: Chiara Bellandi, Kal Mercer, con apariciones de Dario Varek, Nadir Amrani, Hector Navarro y personal del hospital.
-Ventana temporal: dias despues del Capitulo 8 (la carrera de mascaras). Todavia no hay primer beso. Cierra con el traslado nocturno a la casa comun.
+Ventana temporal (vigente 2026-10-04): despues del 24b (dentro del mes que sigue al juicio de los Caps. 23-24) y una semana antes del 25 (Lancia y jacuzzi). Ya hubo mirador y primera intimidad (H11). Cierra en el loft de Kal y con el regreso de Chiara al Monarch vigilado. [Version anterior: dias despues del Capitulo 8; todavia no hay primer beso; cierra con el traslado nocturno a la casa comun.]
 Apertura recosida el 2026-08-29 (encargo PROMPT_CLAUDE_H9): el residuo ya no es "desde la noche del ladrillo Chiara empezo a evitar a Kal", sino carrera de mascaras -> se divirtio demasiado facil -> retrocede unos dias (no por arrepentimiento, por lo contrario) -> el calendario emocional (aniversario de Marta, homenaje de Alessio) la golpea -> termina queriendo oir la voz de Kal -> telefono en la mano con su nombre en pantalla -> el golpe. El cuerpo del capitulo, intacto. Microedicion 2026-08-29 (ENCARGO_CLAUDE_MICROEDICION): se podo la recapitulacion concreta de H9 (Peugeot, tienda, Kingsley, motor, antifaz) — la apertura arranca ya desde el residuo emocional, no desde el resumen del capitulo anterior. Microedicion 2026-08-29 (ENCARGO_CLAUDE_TENSION_HOSPITAL): el golpe deja de ser "conmocion, dos o tres dias de observacion" y pasa a ser un hematoma que requiere cirugia de urgencia (craniotomia descompresiva) para estabilizar la hemorragia. Se introduce a Beatrice Varek como la neurocirujana que opera -- primera aparicion en prosa, adelantada desde su funcion original en el atentado futuro de la iglesia. Establece "tres dias para ver como evoluciona" como el reloj del resto del capitulo. La escena del turno de guardia se adelanta a la madrugada de la cirugia (justificada explicitamente por Kal contandoles lo raro del ataque, con ella sedada e indefensa) y la escena de "Chiara despierta" se mueve del "pasada la medianoche" original al tercer dia, ahora con dolor de cabeza real y con Kal insistiendo en que descanse en vez de resolver la coartada de inmediato. Se anade el giro de investigacion: Kal nota que el ataque esta armado con precision quirurgica para parecer accidente, y que la unica grieta es la llamada -- lo que lo deja entre dos conclusiones sin resolver: Dario organizo el ataque, o alguien mas tiene el mismo interes en dañar a Chiara. Microedicion global bloque M2 (2026-09-11, ENCARGO_CLAUDE_M2): tras M1 aprobado, cinco cortes quirurgicos centrados en "confiar en la accion cuando la accion ya hizo el trabajo" -- se quita la certificacion de competencia de Kal tras el rescate en el corral (se conserva la imagen del "uniforme"), se poda la reiteracion de verguenza tras soltar al guardia interrogado, se quita una repeticion casi identica del gesto de Dario "un momento de mas" (se conserva la primera aparicion, que ancla su caracterizacion), se quita el cierre explicativo tras "Pero tampoco me arrepiento" en el parador (el dialogo ya cierra la escena solo) y se poda la certificacion de la creencia de Kal sobre favores familiares (ya demostrada por la accion). Ningun cambio de estructura, informacion, canon o dialogo canon. Detalle completo: [[98_Agent_Handoff/sessions/2026-09-11_claude_c10_microedicion_m2]]. Cirugia editorial extraordinaria 2026-09-26 (autorizada por el autor; sigue TERMINADO): cronologia interna corregida (llamada al caer la tarde, Monarch cerrado, Dario se entera pasado el mediodia), el despertar ya no trata la coartada (decision del autor: Chiara llega al alta sin conocer version ni tregua y las lee en vivo frente a Dario; supersede la linea de H12 "Kal la pone al tanto antes de que vuelva a dormirse"), "novio" -> "mecanico" en la grieta de la llamada, la ironia de Beatrice como suposicion de Kal ("como parecia"), poda de glosas, tics, prolepsis y saltos de POV, triple resumen del duelo reducido a uno (Corrado sin cuerpo queda en la apertura como eco del 25), linea canon de Dario "La tregua es por lo que le paso, señor Mercer. No por ella." insertada al salir del cuarto 221 (el 25 la cita), y siembra H12 (DISEÑO): tras la llamada, el primer pensamiento de Kal es que su pasado encontro la direccion y empezo por ella. Detalle: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_09_El_Corral]] §9.
-Lugares: Hipodromo del Monarch (propiedad del casino), Hospital Santa Aurelia, bahia de carga / tunel este del Monarch, parador de autopista al norte, Casa Comunitaria de La Almendra.
-Funcion: fusiona H12 y el arranque de H5 -- el ataque ocurre en el hipodromo del Monarch, no en Bellandi Ridge. Kal recibe una llamada desde el celular de ella, contestada por un desconocido que tantea su paradero y cuelga sin decir nada util. Buzon de voz al llamarla directo. Entra armado al Monarch (domingo, cerrado), lo recorre vacio, sube al penthouse, tambien vacio, ve las botas de montar y recuerda que ella monta los domingos. Baja al hipodromo (misma propiedad, no hace falta auto), encuentra a Vento suelto, la halla inconsciente junto al corral -- repite su nombre sin respuesta, la sube el mismo al Audi y la lleva al hospital (nunca llama ambulancia -- el conduce, siempre). Aqui se ve al soldado: calma entrenada por fuera, quiebre por dentro. Kal recoge el bolso antes que nadie y se guarda cartera y reloj: un asalto que perdona un reloj asi no se lo cree nadie. Investiga y secuestra sin exito a un sospechoso. Encanonamiento con Dario en el cuarto de hospital -- tregua. Kal omite la llamada, arma coartada. El dia del alta Kal la ayuda a alistarse y llega Dario a interrogarla; Chiara percibe la tregua ya firmada y se sube a la version en marcha. Dos grietas pequeñas -- "corral" vs "caballerizas", y si lo esperaba ese domingo -- que remiendan en vivo con una mentira conjunta pasable pero no creible. Dario anuncia "vigilancia" en el casino (proteccion y vigilancia son la misma palabra en su boca) y manda un hombre a seguir a Kal. Kal se ofrece a llevarla. En el camino Kal detecta un sedan gris siguiendolos: cuadran que ella entre por la bahia de carga (tunel este, bajo el puente del canal, la "salida de evacuacion" del Monarch) y salgan a pie por atras, fuera de la vista del espia. Van al norte, a un parador de autopista; aparcan y reconstruyen los hechos. Chiara estuvo a punto de nombrar el Consorcio y se detiene: solo dice que viejos enemigos o rivales de los socios estan plantando una bandera con el atentado, y que no quiere meter a Kal. Kal: "Yo ya estoy dentro contigo. ¿O como era? El es Kal Mercer, vengan a conocerlo." Chiara: "No. Pero tampoco me arrepiento." Ella pide un motel de paso; Kal se burla ("un motel, dice ella... tu vienes conmigo") y ella se queda con la lectura mas economica, la que le deja decir "solo esta vez". Llegan de madrugada a la casa comun; Kal le da el unico cuarto que no grita de quien es, le da su palabra de que ahi esta segura, ella baja la mirada y el la abraza -- la siente temblar porque entendio que ya no hay punto de retorno: lo que viene tras ella puede alcanzarlo ahora a el, no porque a eso le interese ella sino porque a ella le interesa el. Cierre: los muchachos la dejan quedarse; alguien pregunta por cuanto tiempo y Kal dice "lo necesario, hasta que ya no lo sea" -- se lo gano, porque a la familia no se le cobran favores y el nunca les dijo que no; pueden pelearle, dudar de el no. Nadir cumple como los demas y, como los demas, calla; pero es el unico que al decir que si no la mira a ella. El atacante no se identifica ni se sugiere.
+Lugares: Hipodromo del Monarch (propiedad del casino), Hospital Santa Aurelia, bahia de carga / tunel este del Monarch, parador de autopista al norte, La Casa (loft de Kal), el Monarch.
+Funcion [historica; supersedida en: sospechoso = Caluca de Eagle Eye, no guardia de caballerizas; cierre en el loft, no en la casa comun; el parador vigente es el de la integracion de arriba]: fusiona H12 y el arranque de H5 -- el ataque ocurre en el hipodromo del Monarch, no en Bellandi Ridge. Kal recibe una llamada desde el celular de ella, contestada por un desconocido que tantea su paradero y cuelga sin decir nada util. Buzon de voz al llamarla directo. Entra armado al Monarch (domingo, cerrado), lo recorre vacio, sube al penthouse, tambien vacio, ve las botas de montar y recuerda que ella monta los domingos. Baja al hipodromo (misma propiedad, no hace falta auto), encuentra a Vento suelto, la halla inconsciente junto al corral -- repite su nombre sin respuesta, la sube el mismo al Audi y la lleva al hospital (nunca llama ambulancia -- el conduce, siempre). Aqui se ve al soldado: calma entrenada por fuera, quiebre por dentro. Kal recoge el bolso antes que nadie y se guarda cartera y reloj: un asalto que perdona un reloj asi no se lo cree nadie. Investiga y secuestra sin exito a un sospechoso. Encanonamiento con Dario en el cuarto de hospital -- tregua. Kal omite la llamada, arma coartada. El dia del alta Kal la ayuda a alistarse y llega Dario a interrogarla; Chiara percibe la tregua ya firmada y se sube a la version en marcha. Dos grietas pequeñas -- "corral" vs "caballerizas", y si lo esperaba ese domingo -- que remiendan en vivo con una mentira conjunta pasable pero no creible. Dario anuncia "vigilancia" en el casino (proteccion y vigilancia son la misma palabra en su boca) y manda un hombre a seguir a Kal. Kal se ofrece a llevarla. En el camino Kal detecta un sedan gris siguiendolos: cuadran que ella entre por la bahia de carga (tunel este, bajo el puente del canal, la "salida de evacuacion" del Monarch) y salgan a pie por atras, fuera de la vista del espia. Van al norte, a un parador de autopista; aparcan y reconstruyen los hechos. Chiara estuvo a punto de nombrar el Consorcio y se detiene: solo dice que viejos enemigos o rivales de los socios estan plantando una bandera con el atentado, y que no quiere meter a Kal. Kal: "Yo ya estoy dentro contigo. ¿O como era? El es Kal Mercer, vengan a conocerlo." Chiara: "No. Pero tampoco me arrepiento." Ella pide un motel de paso; Kal se burla ("un motel, dice ella... tu vienes conmigo") y ella se queda con la lectura mas economica, la que le deja decir "solo esta vez". Llegan de madrugada a la casa comun; Kal le da el unico cuarto que no grita de quien es, le da su palabra de que ahi esta segura, ella baja la mirada y el la abraza -- la siente temblar porque entendio que ya no hay punto de retorno: lo que viene tras ella puede alcanzarlo ahora a el, no porque a eso le interese ella sino porque a ella le interesa el. Cierre: los muchachos la dejan quedarse; alguien pregunta por cuanto tiempo y Kal dice "lo necesario, hasta que ya no lo sea" -- se lo gano, porque a la familia no se le cobran favores y el nunca les dijo que no; pueden pelearle, dudar de el no. Nadir cumple como los demas y, como los demas, calla; pero es el unico que al decir que si no la mira a ella. El atacante no se identifica ni se sugiere.
+Beat del autor (CANON DEL AUTOR, 2026-10-04): al volver del parador, tras "Tu vienes conmigo", Kal dice "Nos vamos al barrio" y Chiara: "El loft es solo para uno" (Kal no contesta). En el loft: "Si quieres, tu quedate en la cama arriba y yo acomodo el sillon para mi" / "Voy a hacer de cuenta como que no dijiste eso" / "...como que no dijiste 'que este lugar era solo para uno'" / "Tesoro, es tu espacio..." / "Ya, pero te invite a estar en mi espacio" / "...malabares con el para que no te atrapara en la mentira..." / "No estoy discutiendo" / "Bien. Entonces ven a la cama. O sea... tu entiendes." Kal se rie mientras se sienta de su lado de la cama. Costuras DISEÑO: Kal con su almohada junto a la escalera (el loft tiene el dormitorio arriba; eco del 10, donde el dormia en el sofa); "Cuando se le acabo la risa, Chiara bajo la mirada" enlaza con el abrazo y el temblor canon de H12, que quedan intactos.
 -->
 
-# Capítulo 9 — El corral
+# El corral
 
-No se lo había dicho a nadie. Ni a Ettore, el único hombre en Palermo al que todavía le escribía cartas de verdad — el amigo de su padre que la había criado en todo menos el nombre después de que se quedó sin ninguno de los dos. Ni a Blake, que había dejado de llamar después de la noche del ladrillo, con un silencio que a ella le supo más a alivio que a pérdida. Ni siquiera a sí misma, en voz alta, frente al espejo, donde una frase así habría tenido que sonar de verdad.
+Tommaso había mentido bajo juramento por Kal, y menos de dos semanas después le escribió a Chiara para avisarle que organizaba una pequeña ceremonia por el aniversario de Alessio. Necesitaba una lista de invitados. Necesitaba que ella confirmara una fecha.
 
-Pero lo sabía. Desde la noche del ladrillo lo sabía, con la misma certeza tranquila con la que sabía leer un balance o una mentira: había encontrado los ojos correctos, y no tenía ni la más remota idea de qué hacer con eso.
+No relacionó una cosa con la otra. Tommaso nunca relacionaba nada en voz alta: dejaba las cosas juntas en la misma semana y esperaba a que el otro sacara la cuenta.
 
-Lo que hizo, primero, fue lo contrario de huir: cuando Kal le preguntó una noche qué era lo más ilegal que la habían atrapado haciendo y después le dijo que se pusiera algo cómodo, ella dijo que sí. Y la noche terminó con ella riéndose de un modo que llevaba años sin permitirse. Lo que la asustó después no fue el riesgo — el riesgo lo sabía medir. Fue la facilidad. Lo poco que le había costado dejar de administrarlo todo por unas horas.
+La cuenta le llegó en mala semana, porque coincidió con otra fecha que llevaba marcada en el cuerpo desde los diecinueve años, sin que nadie en San Aurelio lo supiera: el aniversario de la muerte de su madre. El corazón de Marta había fallado sin avisar demasiado, de esa manera silenciosa y traicionera en que fallan los corazones que nadie está vigilando. En Palermo esos días se sentían distinto — había una tumba a la que ir, una misa donde llorar sin tener que explicar por qué, gente que entendía el silencio sin preguntarlo. Aquí había sólo la misa. Fue a la de siete, sola, a una parroquia donde nadie la conocía; se sentó en la última banca y no le pidió nada a Dios, como no le pedía nada nunca. Iba para estar cerca de su madre. Y, ya ahí, de Él. No lloró: llorar ahí habría sido explicarse. Tampoco en Palermo había un padre enterrado junto a aquella tumba: de Corrado nunca hubo un cuerpo que descansara junto a Marta, y ésa era otra cuenta que Chiara pagaba sola, todos los años, sin que nadie supiera que la estaba pagando.
 
-Así que retrocedió. No porque se arrepintiera; precisamente porque no se arrepentía en absoluto, y eso la inquietaba más que cualquier error. Unos días estuvo demasiado correcta: dejó que los mensajes se acumularan un día de más antes de contestarlos, que las llamadas se acortaran solas, que las excusas de trabajo llegaran justo a tiempo para no quedarse a solas con él en ningún cuarto.
-
-Esa semana la distancia le costó más caro de lo que había calculado, porque coincidió con una fecha que llevaba marcada en el cuerpo desde los diecinueve años, sin que nadie en San Aurelio lo supiera: el aniversario de la muerte de su madre. El corazón de Marta había fallado sin avisar demasiado, de esa manera silenciosa y traicionera en que fallan los corazones que nadie está vigilando. En Palermo esos días se sentían distinto — había una tumba a la que ir, una misa donde llorar sin tener que explicar por qué, gente que entendía el silencio sin preguntarlo. Aquí había sólo la misa. Fue a la de siete, sola, a una parroquia donde nadie la conocía; se sentó en la última banca y no le pidió nada a Dios, como no le pedía nada nunca. Iba para estar cerca de su madre. Y, ya ahí, de Él. No lloró: llorar ahí habría sido explicarse. Tampoco en Palermo había un padre enterrado junto a aquella tumba: de Corrado nunca hubo un cuerpo que descansara junto a Marta, y ésa era otra cuenta que Chiara pagaba sola, todos los años, sin que nadie supiera que la estaba pagando.
-
-Y como si el calendario quisiera demostrar algo, esa misma semana Tommaso escribió avisando que organizaba una pequeña ceremonia por el aniversario de Alessio. Necesitaba una lista de invitados. Necesitaba que ella confirmara una fecha.
-
-Fue el colmo. No porque Alessio todavía doliera de la forma en que duele extrañar a alguien — sino porque sentarse a planear un homenaje para el hombre que más daño le había hecho en la vida, un infierno que vivió en Roma y que el mundo entero decidió no escuchar, mientras se obligaba a guardar distancia con el único hombre con el que en meses había querido ser sincera de verdad, era más de lo que un fin de semana en San Aurelio podía sostener.
+Fue el colmo. No porque Alessio todavía doliera de la forma en que duele extrañar a alguien — sino porque sentarse a planear un homenaje para el hombre que más daño le había hecho en la vida, un infierno que vivió en Roma y que el mundo entero decidió no escuchar, mientras pasaba algunas noches en la casa del único hombre con el que en años había querido ser sincera de verdad, y al que todavía no le había contado nada de eso, era más de lo que un fin de semana en San Aurelio podía sostener.
 
 Alessio también había hablado de Dios, una vez, con la voz de un sacerdote que repite algo aprendido de memoria. *Questo è un mandato divino. Dio lo sa. E anch'io.* Ella siguió yendo a misa. Eso no iba a quitárselo también.
 
-Por eso, ese domingo, en vez de contestar cualquier mensaje, bajó sola al hipódromo del Monarch. Necesitaba tierra, no gente — y ahí, entre las caballerizas que administraba pero que nunca sentía completamente suyas, al menos tenía a Vento.
+Por eso, ese domingo, en vez de contestar cualquier mensaje —el de Tommaso, el de Kal, que preguntaba si iba a cenar—, bajó sola al hipódromo del Monarch. Necesitaba tierra, no gente — y ahí, entre las caballerizas que administraba pero que nunca sentía completamente suyas, al menos tenía a Vento.
 
 ***
 
@@ -69,7 +67,7 @@ Kal se quedó con el teléfono pegado a la oreja un segundo de más, oyendo el s
 
 Buzón de voz. Al primer tono, sin que llegara a sonar completo.
 
-*¿Es usted el mecánico?* No había preguntado por ella. Había preguntado por él. Lo primero que pensó Kal, antes que en Dario o en cualquier otro, fue que su pasado había encontrado por fin la dirección, y que había empezado por ella.
+*¿Es usted el mecánico?* No había preguntado por ella. Había preguntado por él. Lo primero que pensó Kal, antes que en Dario o en cualquier otro, fue en el callejón de Calle Corona: que lo suyo había vuelto a encontrarla, y que otra vez había empezado por ella.
 
 ***
 
@@ -77,11 +75,31 @@ Dejó todo en el taller — el guardabarros a medio enderezar, la llave inglesa 
 
 Era domingo. El Monarch estaba cerrado, la cadena puesta en las puertas principales, el estacionamiento vacío salvo por dos camionetas de mantenimiento. Kal tenía llave de la entrada de servicio — de los tiempos en que Chiara dejó de anunciarle las visitas — y entró por ahí, el arma baja y el paso corto de quien ha hecho esto antes en un lugar donde no debería tener que volver a hacerlo.
 
-Recorrió el casino entero: el piso de juego, oscuro, con las mesas cubiertas; el cuarto de seguridad, vacío también, con los monitores parpadeando sobre nada. No encontró a nadie. No encontró rastro de ella.
+Recorrió el casino entero: el piso de juego, oscuro, con las mesas cubiertas; el cuarto de seguridad, vacío también, con los monitores parpadeando sobre nada y la silla girada hacia la puerta. Los domingos el Monarch se quedaba con un solo guardia de Eagle Eye, la empresa que Tommaso había traído para la seguridad del edificio. No estaba en su silla.
+
+En el pasillo de las cajas oyó pasos. Dos, tres, en algún punto que el eco no dejaba ubicar, arriba o abajo. Se quedó quieto con el arma baja hasta que dejaron de oírse, fue hacia donde creyó que venían, y no encontró a nadie.
+
+Cuando volvió al corredor de servicio, la puerta se abrió desde afuera.
+
+Un muchacho con el uniforme gris de Eagle Eye, la corbata floja, el gafete torcido. Se detuvo en seco. Kal ya tenía el arma bajo la chaqueta.
+
+—Está cerrado —dijo el muchacho, con un acento argentino que no se molestaba en esconder—. ¿Usted quién es?
+
+—Matías. Vengo a cobrar unas fichas. Me dijeron que hoy había alguien.
+
+—Hoy no hay nadie.
+
+—Por eso. Búsqueme a alguno de los dueños. Lo espero.
+
+El gafete decía *Caluca*. Kal lo conocía de oídas: el de Eagle Eye que llevaba semanas rondando a Chiara por los pasillos, al que Charles, el supervisor, había obligado a pedirle disculpas. El muchacho lo midió y se fue hacia las oficinas sin ninguna prisa, para ser alguien que acababa de dejar su puesto vacío.
+
+Kal no lo esperó.
 
 Subió al penthouse por el elevador de servicio, el único que no necesitaba pedir permiso para usar.
 
-También estaba vacío. Recorrió cada cuarto — la cocina, la sala de cine donde habían compartido una canción semanas atrás, el cuarto donde ella dormía — sin encontrar nada fuera de lugar, lo cual, de alguna manera, era peor que encontrar algo roto.
+También estaba vacío. Recorrió cada cuarto — la cocina, la sala de cine donde ella le había puesto una canción hacía meses, la recámara — sin encontrar nada fuera de lugar, lo cual, de alguna manera, era peor que encontrar algo roto.
+
+Lo único que no era de ella estaba sobre el escritorio: un sobre color hueso, abierto, sin remitente. Adentro, una hoja de papel grueso y tres líneas en italiano. Kal no lo hablaba, pero entendió lo suficiente: una fecha, *il 13 dicembre*; una palabra, *valutazione*, que no necesitaba diccionario; ninguna firma. Lo dobló y se lo guardó en el bolsillo interior.
 
 Fue al salir cuando las vio: las botas de montar de Chiara, junto a la puerta, donde normalmente dejaba los tacones.
 
@@ -119,11 +137,11 @@ Por dentro se estaba partiendo en dos, sosteniendo junto a él, en el asiento de
 
 ***
 
-En el Santa Aurelia no hubo tiempo para explicaciones largas. Un golpe en la nuca, uno solo, pero lo bastante fuerte para abrir un sangrado dentro del cráneo — un hematoma que la tomografía mostró creciendo en tiempo real, empujando contra algo que no debía empujarse. La palabra que usó la médica de guardia fue *craniotomía descompresiva*, dicha rápido, sin dramatismo, como quien ya la ha dicho demasiadas veces para asustarse con ella.
+En el Santa Aurelia no hubo tiempo para explicaciones largas. Un golpe en la nuca, uno solo, pero lo bastante fuerte para dejarla inconsciente y abrir un sangrado chico dentro del cráneo: un hematoma que en la tomografía era una mancha del tamaño de una uña. La palabra que usó la médica de guardia fue *conmoción*, y después, más despacio, *observación*.
 
-La cirujana se presentó como **Beatrice Varek** — bata blanca, el apellido cayendo sobre Kal como una moneda que tardó un segundo en reconocer, aunque la cara no se pareciera en nada a la de su padre. Le habló con la calma de alguien acostumbrada a hablarle a hombres que están a punto de perder el control frente a ella.
+La neurocirujana que bajó a verla se presentó como **Beatrice Varek** — bata blanca, el apellido cayendo sobre Kal como una moneda que tardó un segundo en reconocer, aunque la cara no se pareciera en nada a la de su padre. Le habló con la calma de alguien acostumbrada a hablarle a hombres que están a punto de perder el control frente a ella.
 
-—Hay sangrado activo. Vamos a entrar, aliviar la presión y sacar lo que no debería estar ahí. Es una cirugía que hacemos seguido, y la hacemos bien. —Hizo una pausa, midiendo cuánto podía darle de golpe—. Pero no le voy a prometer nada sobre lo que pasa después. Necesitamos, como mínimo, tres días para ver cómo evoluciona. Antes de eso, cualquier cosa que le diga es una adivinanza con bata blanca.
+—Por ahora no vamos a operar. Es chico y no está creciendo. Si crece, entramos; es una cirugía que hacemos seguido, y la hacemos bien. —Hizo una pausa, midiendo cuánto podía darle de golpe—. Pero no le voy a prometer nada sobre lo que pasa después. Necesitamos, como mínimo, tres días para ver cómo evoluciona. Antes de eso, cualquier cosa que le diga es una adivinanza con bata blanca.
 
 Kal firmó lo que había que firmar sin leerlo del todo, y se quedó con una sola pregunta clavada, que no hizo en voz alta: si, como parecía, la hija de Dario Varek operaba en ese hospital sin saber nada de lo que hacía su padre, qué otra cosa, en esa ciudad, tampoco sabía nadie.
 
@@ -131,9 +149,9 @@ El bolso lo había levantado Kal del suelo, junto al portón, antes que nadie. P
 
 Ya estaba armando la versión, sin haber decidido del todo armarla.
 
-La cirugía tomó tres horas. Kal las pasó en una sala de espera que olía a café quemado, sin sentarse más de un minuto seguido.
+La segunda tomografía tardó tres horas. Kal las pasó en una sala de espera que olía a café quemado, sin sentarse más de un minuto seguido. La mancha no había crecido.
 
-Cuando por fin lo dejaron entrar, Chiara ya estaba en una habitación distinta — más máquinas, más cables, un vendaje que le cubría buena parte de la cabeza. Iba a seguir sedada, le dijeron, mientras el cuerpo decidía si el trabajo de Beatrice Varek había sido suficiente.
+Cuando por fin lo dejaron entrar, Chiara ya estaba en una habitación distinta — monitores, cables, la cabecera alzada, un vendaje sobre los puntos de la nuca. La tenían sedada, ligera, para que no se agitara; una enfermera iba a despertarla cada dos horas para preguntarle su nombre y la fecha, le dijeron, y ella iba a contestar lo que pudiera y volver a dormirse, mientras el cuerpo decidía si la mancha se quedaba quieta.
 
 Kal se sentó junto a la cama y no se movió de ahí en toda la noche. No porque alguien se lo pidiera.
 
@@ -151,9 +169,11 @@ No dijo nada más.
 
 No podía quedarse sentado. Le pidió a Héctor que llegara a cubrirlo — nadie más en quien confiara tanto sin tener que explicarle por qué — y salió a resolver, porque no sabía estar quieto en un pasillo mientras alguien seguía libre por ahí afuera.
 
-Tenía un nombre, apenas — un guardia de las caballerizas que se había ido temprano ese domingo sin avisar, algo que a cualquier otro le habría parecido nada. Lo encontró, lo metió al asiento trasero de una camioneta prestada, y le hizo las preguntas que hacía cuando de verdad quería una respuesta.
+En la acera de enfrente del Santa Aurelia, recargado en una camioneta blanca, estaba Caluca, mirando la puerta de urgencias.
 
-No sacó nada. El hombre no sabía nada, o sabía mentir mejor de lo que Kal esperaba, y después de una hora larga entendió que estaba a punto de hacerle daño a alguien que probablemente no se lo merecía. Lo soltó a dos calles del hipódromo, sin explicaciones, y volvió al hospital con las manos vacías y algo parecido a vergüenza pisándole los talones.
+Lo que siguió duró más de lo que debía y salió peor de lo que Kal le habría permitido a cualquiera de sus muchachos: una pistola en el pecho, una carrera hacia la parte de atrás del hospital, dos armas afuera a la vuelta de la esquina con una patrulla estacionada a cien metros. Al final el muchacho se subió al coche. Kal le quitó el teléfono, la cartera y el arma, y le hizo las preguntas que hacía cuando de verdad quería una respuesta.
+
+No sacó nada. El muchacho no sabía nada, o sabía mentir mejor de lo que Kal esperaba, y después de una hora larga entendió que estaba a punto de hacerle daño a alguien que probablemente no se lo merecía. Lo soltó lejos del hipódromo, con el arma descargada de vuelta y sin el teléfono, y volvió al hospital con las manos vacías y algo parecido a vergüenza pisándole los talones.
 
 ***
 
@@ -171,9 +191,9 @@ Kal no preguntó cómo había entrado.
 
 Dario no se movió de donde estaba.
 
-—Curioso. Nadie me avisó del incidente hasta pasado el mediodía. Para cuando llegué, usted ya la había traído, ya había hablado con los médicos, y ya se le había ocurrido interrogar a uno de mis empleados sin mi permiso.
+—Curioso. Nadie me avisó del incidente hasta pasado el mediodía. Para cuando llegué, usted ya la había traído, ya había hablado con los médicos, y ya había entrado a mi hipódromo sin mi permiso.
 
-—No es su empleado. Trabaja para el hipódromo.
+—Fui a buscarla. No a pedir permiso.
 
 —El hipódromo es mío.
 
@@ -205,7 +225,7 @@ Kal bajó la suya un segundo después, sin que le temblara la mano.
 
 —Trato.
 
-Kal no mencionó la llamada. Fue reflejo, no decisión. Le dijo a Dario que había estado en el taller, que volvió y la encontró tirada en las caballerizas, y que no tenía ni idea de cuánto tiempo llevaba ahí.
+Kal no mencionó la llamada, ni el papel doblado que llevaba en el bolsillo interior. Fue reflejo, no decisión. Le dijo a Dario que había estado en el taller, que volvió y la encontró tirada en las caballerizas, y que no tenía ni idea de cuánto tiempo llevaba ahí.
 
 Dario lo miró un momento de más, como quien archiva algo para después.
 
@@ -257,25 +277,27 @@ Chiara despertó de verdad al tercer día, casi a la hora exacta en que Beatrice
 
 —No está bien. —Se llevó una mano a la cabeza y encontró el vendaje, y algo en su cara se endureció, como si el dolor físico le molestara menos que no tener una respuesta—. Alguien me golpeó en las caballerizas y no sé quién. —Cerró los ojos un segundo, apretando los dientes—. Me duele la cabeza como si me la hubieran partido en dos.
 
-—Te la partieron casi en dos —dijo Kal—. Tuvieron que operarte.
+—Casi —dijo Kal—. Tienes un golpe por dentro. Si crecía, te operaban.
 
 Chiara tardó un segundo en procesarlo, todavía con la cabeza pesada por los sedantes y por algo más profundo que los sedantes.
 
-—¿Operarme?
+—¿Y creció?
 
-—Descansa —dijo Kal—. De eso hablamos después, cuando estés mejor. Ahora sólo importa que sigas aquí. Duerme. Yo me quedo.
+—No. Descansa. De eso hablamos después, cuando estés mejor. Ahora sólo importa que sigas aquí. Duerme. Yo me quedo.
 
 Ella lo miró un momento, y por primera vez desde que Kal la conocía, no dijo nada ingenioso ni calculado. Sólo cerró los ojos.
 
 ***
 
-Los días siguientes, entre los turnos que le compraban a Kal una hora aquí y otra allá para comer o dormir algo parecido a dormir, Kal siguió preguntando — con más cuidado esta vez, después de lo del guardia.
+Los días siguientes, entre los turnos que le compraban a Kal una hora aquí y otra allá para comer o dormir algo parecido a dormir, Kal siguió preguntando — con más cuidado esta vez, después de lo de Caluca.
 
 Volvió al hipódromo y habló con quien no había podido detener esa primera noche: los otros mozos de cuadra, la mujer que llevaba la contabilidad del lugar, el par de veterinarios que rotaban las visitas. No había cámaras en las caballerizas — nunca las había habido, porque hasta ese domingo a nadie se le había ocurrido que hicieran falta. Revisó los accesos, buscando algo que no encajara, y encontró exactamente lo que esperaba encontrar: nada que sirviera.
 
 Con Dario mantuvo la tregua tal como habían quedado — le pasaba lo poco que encontraba, y Dario, por su parte, le confirmó que su propio hombre tampoco había sacado nada. Ninguno de los dos dijo en voz alta que no confiaba del todo en lo que el otro estaba compartiendo.
 
 Cuanto más juntaba, más se le acomodaba una idea que no le gustaba nada: todo estaba armado demasiado bien. Ni rastro, ni testigo, ni cámara, ni un solo cabo suelto en ningún sitio donde debería haber al menos uno — como si alguien hubiera diseñado el golpe entero para que, visto desde cualquier ángulo oficial, sólo pudiera leerse como un accidente. Un asalto que sale mal. Una caída. Mala suerte en un domingo vacío.
+
+Pensó en Crowe primero, porque ya una vez le había caído encima a ella por él. Lo descartó en una noche. Crowe firmaba sus recados: los dejaba en voz alta, en el idioma de su mostrador, para que alguien los reconociera. Esto estaba hecho para que nadie pudiera firmarlo.
 
 Lo único que no encajaba con esa lectura era la llamada.
 
@@ -291,13 +313,11 @@ Le dieron de alta con instrucciones de reposo y una advertencia sobre no forzar 
 
 Kal llegó temprano, con ropa limpia que alguien le había subido del penthouse, y se quedó junto a la cama mientras ella se vestía despacio, con la lentitud de quien descubre que levantar los brazos todavía cuesta. Le sostuvo el abrigo para que metiera las mangas sin girar el cuello. Le acomodó el pelo por encima del vendaje sin que se lo pidiera, con más cuidado del que Chiara le habría atribuido a esas manos. Ninguno de los dos habló mientras lo hacía. El silencio, esa mañana, era lo más parecido a un idioma común que les quedaba.
 
-Dario llegó antes de que terminaran de firmar el papeleo.
+Dario llegó antes de que terminaran de firmar el papeleo. Beatrice firmaba la última hoja sobre el carrito de la enfermera; su padre le besó la frente al pasar — *Trix*, le dijo, como si estuvieran en la cocina de su casa — y por un segundo Chiara los tuvo a los tres en el mismo cuadro: el hombre que la había traído en brazos, el hombre que le pagaba el sueldo y la mujer que había decidido no abrirle la cabeza. Algo se le fue al estómago. No dejó que se le viera.
 
 —Signora Bellandi. —Sonrió, la clase de sonrisa que no le llegaba a los ojos—. Qué alivio verla de pie.
 
 —Señor Varek. Gracias por la preocupación.
-
-Ella no preguntó cómo se había enterado de la hora del alta. Había dejado de sorprenderle que Dario supiera cosas que nadie le decía.
 
 —Kal me cuenta que estaba en el taller cuando pasó. Que la encontró al volver.
 
@@ -347,7 +367,11 @@ Chiara esperó a que el elevador se cerrara detrás de él antes de soltar el ai
 
 —No —dijo Kal—. Pero no puede probar que mentimos, y por ahora eso alcanza.
 
+—Espérame aquí —le dijo en la puerta—. Voy por el coche.
+
 ***
+
+Había dejado el Audi en la calle de atrás, frente a unas casas, y no en el estacionamiento del hospital, donde cualquiera con una credencial de Dario había tenido tres días para ponerle un micrófono o un localizador.
 
 En el auto, Chiara apoyó la cabeza contra el reposacabezas con cuidado y cerró los ojos.
 
@@ -373,13 +397,25 @@ Chiara no se giró a mirar. Aprendía rápido.
 
 —Entonces está bien que vayamos igual al casino, como le dije.
 
-Se lo explicó en tres frases, sin adornarlo. Ella entraba por la bahía de carga, la que da al túnel este, debajo del puente del canal — la ruta que el Monarch tiene marcada como salida de evacuación y que no usa nadie nunca porque huele a marea y a diésel. El sedán la vería meterse por ahí y anotaría que la mujer había vuelto a casa. Le daban veinte minutos. Después los dos salían a pie por la parte de atrás, por la rampa de proveedores que no cubre ninguna cámara del lobby, lejos de donde el sedán tuviera puestos los ojos.
+Chiara abrió los ojos.
 
-—Conozco ese túnel mejor que el hombre que lo diseñó —dijo Chiara—. Me peleé un mes con la aseguradora por él.
+—Vamos a hacer una cosa, si te parece. Me dejas en la entrada principal, que me vean entrar. Atrás, en el corredor de proveedores, hay una puerta que los de seguridad no conocen. Si alguien la conoce, es uno solo. Sale al túnel este.
 
-—Entonces sabes por dónde salir sin que te vean.
+—El de la bahía de carga.
 
-—Sé por dónde sale todo lo que este edificio prefiere que no se vea. —Se permitió media sonrisa, la primera del día—. De acuerdo.
+—Ése. No te metas por el caminito de atrás, el de las puertas, rumbo al hipódromo. Entra con el coche al túnel desde el estacionamiento de proveedores. Ahí me recoges.
+
+—Cuando estés en la puerta, mándame tu ubicación. Por si me equivoco.
+
+—¿Con qué teléfono, *tesoro*?
+
+Kal la miró de reojo.
+
+—Cierto.
+
+—Yo me las arreglo. Conozco ese túnel mejor que el hombre que lo diseñó. Me peleé un mes con la aseguradora por él. —Se permitió media sonrisa, la primera del día—. Que crean que sigo en el Monarch.
+
+La dejó frente a la entrada principal, a la vista de cualquiera. El sedán se estacionó al otro lado de la calle. Veinte minutos después, en la penumbra del túnel que olía a marea y a diésel, la puerta que nadie conocía se abrió y Chiara se subió al coche sin que nadie la viera salir.
 
 ***
 
@@ -391,15 +427,59 @@ Metió la mano en el bolsillo de la chaqueta y puso sobre el tablero el reloj de
 
 —Tu asalto te dejó sin teléfono —dijo—. Lo demás lo tenía yo.
 
-Chiara miró el reloj sobre el tablero un momento largo. Kal la vio sacar la cuenta de todo lo que se había armado mientras dormía.
+Chiara miró el reloj sobre el tablero un momento largo. Kal la vio sacar la cuenta de todo lo que se había armado mientras dormía. Se lo puso, despacio, y se quedó girándolo en la muñeca.
 
 —Cuéntame otra vez qué recuerdas —dijo Kal—. Despacio. No para la versión. Para mí.
 
-Se lo contó despacio. El domingo gris por dentro, la fecha que no le había nombrado a nadie, las ganas de tierra y no de gente. Vento. El portón. El teléfono en la mano, ya con el nombre de él en la pantalla. Y después el suelo, y después el cuarto 221.
+Se lo contó despacio. El domingo gris por dentro, la fecha que no le había nombrado a nadie, las ganas de tierra y no de gente. Vento. El portón. El teléfono en la mano, ya con el nombre de él en la pantalla. Pasos, quizá; no sabía si eran de antes o de después. Y después el suelo, y después el cuarto 221.
 
 —Iba a llamarte —dijo, como si eso fuera lo que había que confesar—. Justo antes. Tenía el pulgar encima de tu nombre.
 
 Kal no hizo nada con eso. Lo guardó.
+
+—Ahora yo.
+
+Le contó lo que ella no podía saber, en el orden en que había pasado y sin adornarlo: la llamada desde su teléfono, la voz cordial que preguntaba por el mecánico y por sus domingos; el arma del cajón del taller; el Monarch cerrado, la silla vacía del cuarto de seguridad, los pasos en el pasillo de las cajas.
+
+—No debiste ir solo.
+
+—Cuando volví al corredor de servicio, entró Caluca. Le dije que me llamaba Matías y que iba a cobrar unas fichas.
+
+Chiara dejó de girar el reloj.
+
+—En tu escritorio había una carta —dijo Kal.
+
+—No la leíste, ¿verdad?
+
+—Sí.
+
+—*Ma dai*, Kal.
+
+Él sacó el sobre del bolsillo interior y lo dejó en el tablero, junto a la cartera. Ella no lo tocó.
+
+—Si la leíste, ya lo sabes.
+
+—Sé que hay una fecha.
+
+—Quieren *evaluar mi desempeño*. —Lo dijo con el acento de quien cita un contrato—. Así lo escriben. Elegante, como siempre. Es su manera de avisar que van a deshacerse de mí.
+
+—Si se quisieran deshacer de ti, te habrían dado un tiro ahí mismo. No un golpe en la nuca. —Esperó—. ¿Hay algo que no me quieras contar?
+
+—No. Lo de la carta no tenías que saberlo así. Quería hablarlo contigo. Con calma.
+
+—Yo nunca te voy a obligar a contarme nada. Pero ya no sabía ni qué mentir, ni a quién. A los muchachos no les dije nada. A Dario, menos.
+
+—No tienes que estar en esto. No tienes que estar en medio de nada de esto.
+
+—¿Y qué tenía que haber hecho? Te llamo y me contesta otro. ¿Qué hago?
+
+—Todo pudo haber salido mal, *tesoro*.
+
+—¿Dónde estarías tú ahora?
+
+—No lo sé. —Se le quebró algo en la voz y lo enderezó antes de seguir—. Pero no quiero que te pase nada. No me entiendes. Quiero mantenerte fuera de toda esta mierda. Fuera de Dario. —El reloj dio otra vuelta en la muñeca—. Cuando los vi a los tres juntos se me dio un vuelco el corazón. Eso no tiene que pasar.
+
+Kal no preguntó cuáles tres.
 
 —¿Quién, Chiara?
 
@@ -411,13 +491,117 @@ Ella miró la carretera un rato.
 
 —No. —Lo dijo sin dureza—. No porque no confíe en ti. Porque en el momento en que te doy el nombre, quedas dentro de algo que no vas a poder soltar cuando quieras. Y no voy a hacerte eso.
 
+Kal reconoció la razón. Era la suya, la de la cabina de la grúa en Calle Corona.
+
 Kal se quedó mirando la carretera, con las dos manos todavía en el volante de un coche que no iba a ningún lado.
 
-—Ya estoy dentro contigo. —Giró la cabeza—. ¿O cómo era? *Él es Kal Mercer. Vengan a conocerlo.* Lo dijiste tú, delante de gente que valía más que esta ciudad entera. No puedes presentarme como tu carta fuerte y después querer levantarme de la mesa cuando la mano se pone fea.
+—Ya estoy dentro contigo. —Giró la cabeza—. ¿O cómo era? *Él es Kal Mercer. Vengan a conocerlo.* Lo dijiste tú. ¿Me elegiste? ¿Me buscaste en la sección amarilla y dijiste «éste»?
 
 Chiara cerró los ojos.
 
 —No —dijo—. Pero tampoco me arrepiento.
+
+—Pues esto es igual. Pasó y ya. —Volvió a mirar al frente—. Ahora no se puede mirar para atrás. Sólo para adelante.
+
+***
+
+—Hay otro problema —dijo Kal—. Aparte del tuyo.
+
+Le contó lo de Caluca frente al Santa Aurelia, y cómo había acabado subiéndolo al coche.
+
+—Yo habría hecho lo mismo.
+
+—Le quité todo. Le pedí a Kenji que me dijera si había tenido algo más contigo, además de lo que ya sabíamos. No había nada.
+
+—Kenji fue a verme esta mañana —dijo ella—. Me habló de una fiesta. Nada más.
+
+Kal asintió.
+
+—Me quedé con su teléfono y le devolví el arma descargada. Desde entonces me llegan mensajes suyos a ese teléfono. Que esto no se va a quedar así. Que va a venir por mí.
+
+—¿Ese imbécil? No tiene ni dónde caerse muerto.
+
+—No lo digo por él. Lo digo por Dario.
+
+—Es un cabo suelto.
+
+—Lo sé. —Kal apoyó la muñeca en el volante—. Dario pensó desde el principio que yo tenía algo que ver. Me sacó el arma en tu cuarto mientras dormías. Saqué la mía.
+
+Chiara no dijo nada.
+
+—Quedamos en que cada quien buscaba por su lado. Fui a las oficinas de Eagle Eye, en el norte. Ya sabía que no eran ellos. Le rompí la boca a uno para tener algo que llevarle a Dario, y para hacer tiempo hasta que despertaras.
+
+—Lo entiendo.
+
+—La carta la traía encima cuando me apuntó. Antes de ir al norte la escondí en otro coche. No vio nada.
+
+—Eres un chico listo.
+
+—Cuando le llevé lo de Eagle Eye, me citó en su casa. La mansión que está junto al psiquiátrico.
+
+—La conozco.
+
+—Estaba Vivian. Todo el tiempo. Sospecharon de mí hasta que empezaron a contarme cosas tuyas.
+
+—¿Les costó mucho?
+
+—No. Te venderían por treinta dólares.
+
+—Qué hijo de puta.
+
+—El que habló fue él. Dijo que trabajas para él, que Vivian también. Después me nombró familias. Las que tú me habías mencionado. Me hice el tonto. Me preguntó si sabía para quién se sientan esas familias a una misma mesa, y le dije que no sabía ni de qué me hablaba. Él cree que son ellos los que están detrás.
+
+—Ah, qué bueno que se hable de eso. —Chiara soltó el aire por la nariz—. Quién sabe a quién más se lo habrá contado.
+
+Pasó un camión por la carretera y el coche se llenó de luz y después volvió a quedarse a oscuras.
+
+—Perdón por lo del corral —dijo ella.
+
+—No pasa nada.
+
+—Debí darme cuenta cuando se volteó a preguntarme a mí sola. Tenía que haberlo pensado más.
+
+—Acababas de despertar. Y yo seguía encima, aventándote cosas para que las agarraras.
+
+—Ya lo sé. Lo siento muchísimo.
+
+Kal metió la mano otra vez en la chaqueta y puso una hoja doblada junto al sobre.
+
+—Tengo otra cosa. Por si te interesa. Quién tiene Dario en el Monarch, con nombres y turnos. Lo sacó Kenji. Dario dijo que iba a poner gente. Ya la tenía puesta desde el lunes. Nadie más lo ha visto.
+
+Chiara desdobló la hoja, leyó los nombres y la volvió a doblar por la misma línea.
+
+—Pues vamos a quemarlos.
+
+—Y ahora te pregunto yo. ¿No sabes quién te lo hizo? Una persona.
+
+—Esta gente no se mancha las manos. Lo encarga. A veces sale bien y a veces no. —Se tocó el vendaje, apenas—. Puede que el que mandaron no fuera profesional.
+
+—¿Y estás segura de que son ellos?
+
+—Totalmente.
+
+—La carta trae una fecha. El 13. Si querían quitarte de en medio, no iba a haber reunión.
+
+—Tiene que haber reunión. Una sin mí.
+
+—¿Y si se enteran de que estás viva?
+
+—¿Que vuelvan? Pues voy yo. Pongo las cosas sobre la mesa. —Lo miró por primera vez en un rato—. Me he partido el alma por el Monarch, Kal. No me lo van a quitar así como así.
+
+—¿Y con Dario?
+
+—Que se haga a un lado. Que no estorbe. Está muy ocupado; que siga así.
+
+—Va a hacer llamadas. Va a preguntar. Puede que hable con ellos. ¿Crees que le van a decir que intentaron quitarte de en medio?
+
+—No. No confían en nadie de fuera de la familia. Lo están usando como a un perro.
+
+—Tú decides. —Kal giró la llave hasta la mitad, sin arrancar—. En lo que te pueda ayudar, aquí me tienes.
+
+—*Grazie mille*. Por todo. Según me contaste, no es barato.
+
+Kal no lo negó. Ella se acomodó el reloj en la muñeca, ya sin girarlo.
 
 ***
 
@@ -425,48 +609,62 @@ Chiara cerró los ojos.
 
 Kal se rió. No mucho, pero se rió, y era la primera vez en tres días.
 
-—Un motel, dice ella. —Metió la palanca—. Tú vienes conmigo. El golpe te dejó peor de lo que pensé si de verdad crees que te voy a soltar en una carretera después de esto.
+—Un motel, dice ella. —Metió la palanca—. Tú vienes conmigo. El golpe te dejó peor de lo que pensé si de verdad crees que te voy a soltar en una carretera después de esto. Nos vamos al barrio.
 
-En su cabeza, la frase venía con demasiados significados encima, y Chiara —que sabía hacer justo eso, elegir de un montón de lecturas la que le convenía cargar— se quedó con la más barata de todas. La operativa. La que le permitía decir que sí sólo esta vez, sin que el sí quisiera decir nada más. Fue la mentira más económica que se dijo en toda la noche, y se la dijo a sí misma sin que le costara un centavo.
+—El loft es sólo para uno.
 
-—Sólo esta vez —dijo en voz alta.
+Kal no le contestó eso.
 
-—Sólo esta vez —repitió Kal.
+En su cabeza, *tú vienes conmigo* venía con demasiados significados encima, y Chiara —que sabía hacer justo eso, elegir de un montón de lecturas la que le convenía cargar— se quedó con la más barata de todas. La operativa. La que le permitía decir que sí a unos días en casa de él sin que el sí quisiera decir nada más: ni un cajón propio, ni nadie que lo llamara mudanza. Fue la mentira más económica que se dijo en toda la noche, y se la dijo a sí misma sin que le costara un centavo.
+
+—Unos días —dijo en voz alta.
+
+—Unos días —repitió Kal.
 
 Ninguno de los dos se lo creyó. Ninguno de los dos lo dijo.
 
 ***
 
-La casa común de la Almendra la recibió pasada la medianoche con el olor a comino y detergente de siempre, la cancha de concreto vacía, la mesa larga sin nadie. Danny dormía en el sofá con la tele encendida y el perro a los pies. Nadir salió de la cocina secándose las manos en un trapo y se quedó quieto un segundo de más al verla entrar del brazo de Kal, pálida, con el vendaje asomándole por el pelo recogido.
+La casa de Kal la recibió pasada la medianoche con la luz del pasillo encendida, la que él dejaba siempre, y la taza azul boca abajo junto al fregadero. Kal no prendió más luces. La llevó del brazo escalera arriba, medio escalón detrás de ella, le quitó los zapatos sin dejar que se agachara y le acomodó dos almohadas para que la cabeza quedara alta, como habían dicho en el hospital.
 
-—Va a quedarse unos días —dijo Kal, sin pedir permiso y sin ofrecer explicación.
+Chiara se quedó sentada en la orilla de la cama, con el abrigo todavía puesto. Kal tomó su propia almohada y se quedó de pie junto a la escalera.
 
-Nadir no dijo que no. No dijo nada, en realidad — bajó la llama de lo que hervía, miró a Chiara con la cortesía exacta que se le da a un huésped y no a alguien de la casa, y le dijo a Kal, no a ella, que había un cuarto que servía.
+—Si quieres, tú quédate en la cama arriba y yo acomodo el sillón para mí.
 
-La llevó él mismo. Era el único cuarto de la planta que no gritaba de quién era: sin pósters despegándose de la pared, sin ropa en el piso, sin el desorden con firma de Danny ni las cajas de mercancía de Nadir apiladas contra el zócalo. Una cama hecha, una silla, una ventana a la cancha. Alguien lo mantenía así por si hacía falta, y esa noche hizo falta.
+—Voy a hacer de cuenta como que no dijiste eso.
 
-—Aquí estás segura —dijo Kal desde la puerta—. Tienes mi palabra.
+—Bueno, y yo voy a hacer de cuenta como que no dijiste «que este lugar era sólo para uno».
 
-Chiara bajó la mirada. No contestó.
+—Tesoro, es tu espacio. Tú haces lo que quieras con tu espacio.
 
-Y Kal, que no era hombre de cruzar una habitación sin motivo, la cruzó y la abrazó — torpe al principio, como quien no tiene el gesto ensayado, y después no torpe. La sintió temblar contra él, y no era frío.
+—Ya, pero te invité a estar en mi espacio.
+
+—¿Tú crees que después de aguantar a Dario, y un golpe en la cabeza, y escucharte hacer malabares con él para que no te atrapara en la mentira, tengo ganas de discutir esto?
+
+—No estoy discutiendo.
+
+—Bien. Entonces ven a la cama. O sea… tú entiendes.
+
+Kal se rió del comentario mientras se sentaba de su lado de la cama, con la almohada todavía bajo el brazo.
+
+Cuando se le acabó la risa, Chiara bajó la mirada.
+
+Kal la abrazó por encima del edredón, con una mano en la espalda y la otra lejos de la nuca, como si la cabeza fuera lo único que se podía romper. La sintió temblar contra él, y no era frío.
 
 Kal entendió, o creyó entender, por qué temblaba: lo que fuera que venía tras ella podía ahora alcanzarlo también a él.
 
 Dos cuerpos en un cuarto a oscuras.
 
-Esa noche se dijo que era sólo un favor, y que los favores se hacen y se olvidan. No se lo creyó.
-
 ***
 
-Los muchachos la dejaron quedarse.
+Se quedó cuatro días. Kal le cambió el vendaje dos veces y no le preguntó nada que tuviera que ver con Palermo; ella no se lo agradeció en voz alta, y tampoco le pidió que dejara de hacerlo.
 
-No hubo votación ni discusión. Alguno preguntó, un par de días después, con ella lo bastante lejos para no oírlo, que por cuánto tiempo.
+Al quinto volvió al Monarch. Los hombres de Dario estaban donde decía la hoja de Kenji: uno en el lobby, otro junto al elevador privado y el tercero, el que Dario no había mencionado, en el estacionamiento de empleados, recargado en el Mercedes de la empresa como si el Mercedes también fuera suyo.
 
-—Lo necesario —dijo Kal—. Hasta que ya no lo sea.
+Esa noche llamó a Kal.
 
-Y con eso bastó. En las últimas semanas Kal se había ganado el derecho de pedirles exactamente eso y nada más: cuando alguno de ellos había necesitado un favor, no les había dicho que no una sola vez, y no les había cobrado ninguno. Podían pelearse con él. Discutirle a gritos en el taller, mandarlo al diablo, volver al día siguiente. Dudar de él, no.
+—Necesito un coche que no sea del Monarch.
 
-Nadir cumplió como los demás. Y como los demás, no dijo nada.
+Del otro lado se oyó una herramienta dejada sobre el banco.
 
-Pero fue el único que, al decir que sí, no la miró a ella.
+—Conozco uno —dijo él.

@@ -8,6 +8,8 @@ Version expandida (2026-09-07), a peticion del autor: nueva apertura completa an
 Apertura por residuo: profundiza el cierre del Capitulo 16 (la mano sobre la mano en el hospital; lo que Hector le dijo a Kal y no se repite) y, mas cercano, el Capitulo 17 (Kal deseando en silencio que alguien le hubiera enseñado a el la misma regla de anticiparse que acababa de ensenarle a Nadir y Danny).
 Confirmado por el autor (2026-08-29): esta escena ES "el dia nublado" que menciono el autor; Blake Stanton ya esta fuera del cuadro y no se menciona por nombre; el campo de golf no lleva ficha y la propiedad de Kal queda vaga a proposito (chiste). Ver [[06_Relationships/Hitos]] #H4, seccion Pendientes.
 Ajuste al juego de preguntas (2026-09-07), a peticion del autor: la pregunta de la cicatriz se quita por completo -- su historia real (Medio Oriente, como conocio a Nadir) queda reservada para la noche del jacuzzi, no se contradice aqui con una explicacion falsa. Se reemplaza por una pregunta frivola (primer carro). Se añade un chiste sobre los siete años de diferencia de edad tras la pregunta de la edad, que ambos entienden sin nombrarlo. Se añade una pregunta nueva de tono mas alto: si ha estado con alguien mas desde que llego a la ciudad -- Chiara responde pensando en Blake sin nombrarlo, nota el microgesto de celos de Kal (arruga la nariz) y lo tranquiliza tocandole el brazo. La pregunta pivote cambia de "has matado a alguien" a "has visto morir a alguien frente a ti" -- ahora contextualiza tanto la muerte de Jim Keegan (respuesta de Kal) como la del exmarido de Chiara (respuesta reciproca), sin que ninguno lo diga explicito.
+Cirugia de dialogo 2026-10-04 (DISEÑO pendiente de lectura; autorizada por el autor, ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I §7): solo la mitad comica, hasta el hoyo 7. Del octavo hoyo al final, intacto.
+Siembra 2026-10-04 (DISEÑO aprobado por el autor; arrastre de la reubicacion del Corral): en el relato del matrimonio, Chiara menciona "unas familias... que se sentaban a una misma mesa" (sin nombre del marido, sin "Il Consorzio"). Origen de "Me nombro familias. Las que tu me habias mencionado" en el parador del 24c. El nombre Il Consorzio sigue reservado al 25.
 -->
 
 # Capítulo 18 — El día nublado
@@ -60,7 +62,25 @@ Kal llegó veinte minutos después, con el mismo paso vacilón con que entraba a
 
 Kal no preguntó por ninguna mesa. Cruzó directo a la de Chiara y se sentó frente a ella como si llevara ahí toda la tarde, como si la reserva hubiera sido suya desde el principio. Chiara no dijo nada al respecto — ni una ceja, ni una pregunta—, lo cual, viniendo de ella, era casi una bienvenida formal.
 
-Hablaron de nada durante un rato largo, que era la clase de conversación que a los dos les costaba encontrar con cualquier otra persona. Del vino, que a Kal le parecía caro para lo que sabía y a Chiara le parecía exactamente lo que debía costar. De Héctor, que ya se quejaba de la silla verde como si hubiera sido idea de otro. De un huésped del Monarch que había intentado pagar una suite con una promesa en vez de una tarjeta. Kal se rió de verdad una vez, corto, y Chiara se quedó mirando eso más de lo que miró el vino.
+Hablaron de nada durante un rato largo. Del vino, que a Kal le parecía caro para lo que sabía y a Chiara le parecía exactamente lo que debía costar. De Héctor, que ya se quejaba de la silla verde como si hubiera sido idea de otro. De un huésped del Monarch que había intentado pagar una suite sin tarjeta.
+
+—¿Y con qué pagó?
+
+Chiara abrió el bolso y puso un reloj sobre el mantel. Pesado, dorado, con la carátula llena de agujas que no medían nada.
+
+—Con esto. Dijo que valía tres noches.
+
+Kal lo levantó, lo giró, le pasó la uña por el canto. Se lo acercó al oído.
+
+—Hace ruido.
+
+—Los relojes hacen ruido.
+
+—Éste hace ruido de pila. —Se lo devolvió—. Vale una noche. Si no la usa.
+
+—Ya la usó. Las tres.
+
+Kal se rió de verdad, corto, y Chiara se quedó mirando eso más de lo que miró el vino.
 
 Enzo se acercó cuando la luz gris ya empezaba a espesarse hacia el gris más oscuro que en esta ciudad hacía las veces de noche.
 
@@ -80,11 +100,11 @@ Ella lo dejó pasar. Se acomodó en la silla, con la copa todavía en la mano, y
 
 —El campo del norte es de los mejores lugares de la ciudad para ver el atardecer —dijo, como si hubiera sido idea suya desde el principio.
 
-—Entonces no te vas a quejar.
+Enzo miró hacia arriba, al techo gris parejo que llevaba todo el día sin moverse.
 
-—No dije eso.
+—¿Cuál atardecer?
 
-Se sostuvieron la mirada un momento de más.
+Nadie le contestó. Chiara se terminó el vino.
 
 Cuando llegó la cuenta, Chiara alcanzó su bolso por costumbre. Kal puso la mano encima de la mesa, no sobre la de ella, simplemente ahí, como quien cierra una conversación antes de que empiece.
 
@@ -94,7 +114,7 @@ Cuando llegó la cuenta, Chiara alcanzó su bolso por costumbre. Kal puso la man
 
 —No me vas a deber un favor. —Kal se guardó la cartera que ni siquiera había sacado—. Tú puedes pagar las entradas al campo. Es solo un préstamo temporal.
 
-Chiara lo miró con una sonrisa medio torcida, la clase de mueca que reservaba para las pocas veces que alguien se salía con la suya delante de ella.
+Chiara lo miró con una sonrisa medio torcida, la que reservaba para las pocas veces que alguien se salía con la suya delante de ella.
 
 —¿Vamos? —dijo él, ya de pie.
 
@@ -116,27 +136,39 @@ Kal la miró de reojo, un segundo, calculando si eso era una trampa o una invita
 
 La boutique olía a tela nueva y a un perfume genérico que alguien rociaba cada hora exacta. Un dependiente los recibió con el entusiasmo profesional de quien vende ropa que nadie necesita a gente que puede pagarla sin mirar la etiqueta.
 
-Chiara sostuvo una boina frente a Kal con las dos manos, como una ofrenda.
+Chiara no tardó nada. Un polo negro, que Kal aceptó sin mirarlo, y unos pantalones blancos que sacó del perchero y le puso en los brazos antes de que él pudiera leer la talla.
 
-—No.
+—Ésos no.
 
-—Es parte del conjunto.
+—Ésos sí. Cumplen el código.
 
-—Entonces el conjunto se queda incompleto.
+—Son blancos.
 
-Ella la devolvió al perchero sin insistir, guardándose la victoria para más tarde.
+—Es golf, Kal.
 
-Kal, por su parte, encontró una falda de golf en la sección de mujer y se la extendió con una cara completamente seria.
+Kal, por su parte, ya traía la de ella: una falda de golf que había sacado de la sección de mujer camino al probador. Se la pasó con una cara completamente seria y se metió detrás de la cortina con los pantalones y con la mandíbula. Desde adentro se le oyó pelear con algo que no era la cremallera.
 
-—Ésta.
+—¿Quién diseña esto?
 
-Chiara la sostuvo, la miró, y levantó una ceja.
+—Gente que no se agacha —dijo Chiara, sin voltear.
+
+Sostuvo la falda a contraluz.
 
 —Es demasiado corta.
 
-—Es reglamentaria.
+—Es reglamentaria —dijo la cortina.
 
-—Es demasiado corta para ser reglamentaria y demasiado reglamentaria para lo corta que es. —Se la probó contra el cuerpo frente al espejo, sin ninguna intención de comprarla todavía—. Vas a pasar todo el partido mirándome las piernas en vez del campo.
+Chiara se volvió hacia el dependiente, con la falda en alto.
+
+—¿Es reglamentaria?
+
+El dependiente miró la falda. Miró la cortina, de donde acababa de salir un ruido de tela a punto de rendirse. Volvió a mirar la falda.
+
+—Técnicamente.
+
+Chiara se la puso contra el cuerpo frente al espejo.
+
+—Vas a pasar todo el partido mirándome las piernas en vez del campo.
 
 —No dije que fuera un problema.
 
@@ -144,7 +176,19 @@ Chiara la sostuvo, la miró, y levantó una ceja.
 
 Fue lo único que dijo antes de que la risa se le escapara, corta y genuina.
 
-Terminaron pagando dos conjuntos considerablemente más sensatos que las primeras propuestas de cada uno, y se los pusieron ahí mismo, en los probadores contiguos, hablando por encima de la cortina como si llevaran años haciendo exactamente eso.
+Él salió del probador. El polo le quedaba bien. Los pantalones le quedaban como una opinión que alguien tenía de él. Caminó hasta el espejo con las rodillas un poco más separadas de lo necesario, se miró de frente, de lado, y no dijo nada, que era peor que cualquier queja.
+
+Chiara se puso una blusa suelta sobre la falda, una gorra, y se hizo una coleta con la liga que traía en la muñeca, sin espejo, en cuatro segundos. Parecía que hubiera salido así de su casa.
+
+Entonces le sostuvo una boina frente a la cara, con las dos manos, como una ofrenda.
+
+—No.
+
+—Es parte del conjunto.
+
+—No.
+
+Ella la devolvió al perchero sin insistir. Ya había ganado los pantalones.
 
 ***
 
@@ -160,11 +204,13 @@ Chiara se rió, sin escandalizarse. La chica del mostrador se rió también, un 
 
 —Es broma —le dijo Kal, con las manos en alto—. Si tuviera que elegir, prefiero un bate de béisbol.
 
-—Eso es muy americano de tu parte.
+La chica le acercó la bolsa por encima del mostrador, con el brazo estirado todo lo que daba.
 
-—Yo diría que es más práctico.
+—El estacionamiento tiene vigilancia, señor.
 
-Chiara no le discutió eso. Cargó su propia bolsa al hombro y caminó hacia el primer hoyo sin esperarlo, dejando que la siguiera con la misma facilidad con la que la seguía siempre.
+—Ya sé.
+
+Chiara tuvo que darse la vuelta. Cargó su propia bolsa al hombro y caminó hacia el primer hoyo sin esperarlo, dejando que la siguiera con la misma facilidad con la que la seguía siempre.
 
 ***
 
@@ -220,7 +266,47 @@ Ella le tocó el brazo, sin darle más peso del necesario.
 
 —En serio. Eso ya no me hace sentir nada.
 
-Los hoyos siguientes se los repartieron con preguntas más livianas — el postre que no admitían que les gustaba, la peor canción que se sabían completa, si alguna vez habían hecho trampa jugando algo que no fuera esto. Las respuestas iban y venían fáciles, la clase que no dejaba marca.
+El quinto lo perdió Kal por un golpe que él no contó y ella sí. Chiara buscó algo liviano a propósito.
+
+—La peor canción que te sabes completa.
+
+Kal se apoyó en el palo. Tardó.
+
+—*Achy Breaky Heart*.
+
+—No la conozco.
+
+—Mejor.
+
+—Cántame el coro.
+
+—La pregunta era cuál. No que la cantara.
+
+Chiara abrió la boca y la cerró. Era su regla. La había dicho ella, en el primer hoyo, palabra por palabra.
+
+—Es cierto —dijo, y le dolió.
+
+Kal se agachó a recoger el *tee* y se detuvo a medio camino, con una mano en la costura de atrás de los pantalones blancos. Se enderezó despacio. Chiara se quedó mirando el lago con una disciplina enorme.
+
+El sexto lo perdió ella.
+
+—¿Qué postre pides cuando nadie te ve?
+
+—No pido postre.
+
+—Todo el mundo pide postre.
+
+Chiara metió el palo en la bolsa, y lo sacó, y lo volvió a meter.
+
+—Los cannoli de la gasolinera de la Novena.
+
+Kal se paró en seco.
+
+—¿De la gasolinera?
+
+—Vienen en una caja de plástico. Están bien. —Y luego, más bajo, ya caminando—: No le digas a Enzo.
+
+El séptimo no lo perdió nadie, y nadie preguntó nada; caminaron al octavo con Kal tarareando algo entre dientes y Chiara fingiendo, durante casi cien metros, que no se le estaba pegando.
 
 En el octavo hoyo, con la bola de Kal enterrada en un búnker y la nube más baja que antes, Chiara alineó su golpe y preguntó sin levantar la vista.
 
@@ -248,7 +334,7 @@ Chiara se quedó un momento mirando el cielo gris, como si ahí estuviera escrit
 
 —Sí —dijo.
 
-Y contó lo suficiente. Que se había casado joven, en Italia, con un hombre que al principio le pareció una salida y después fue una puerta cerrada. Que ese hombre le enseñó lo que era vivir midiendo el ruido de unos zapatos en un pasillo. Que la cosa terminó, y que ella salió de ahí y él no.
+Y contó lo suficiente. Que se había casado joven, en Italia, con un hombre que al principio le pareció una salida y después fue una puerta cerrada. Que en su mundo un matrimonio así no lo decidía nadie solo: lo bendecían unas familias, las mismas de siempre, que se sentaban a una misma mesa. Que ese hombre le enseñó lo que era vivir midiendo el ruido de unos zapatos en un pasillo. Que la cosa terminó, y que ella salió de ahí y él no.
 
 No dijo *yo lo maté*. No dijo el nombre. Ordenó cada frase con el cuidado de quien acomoda algo frágil en una caja, y cuando llegó al final dejó claro, sin subir la voz, que el tema estaba cerrado.
 
