@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-04 — Cap. 34 *Mi pareja*: diálogo cómico del autor integrado y reconducido a la destilería (BORRADOR, pendiente de lectura). Apertura con Walt, llamadas a Dario (colgada), Danny (fallida), Nadir (canon H21) y Marisol (cierre). Bitácora en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]].
 - 2026-10-04 — [[98_Agent_Handoff/sessions/2026-10-04_claude_relacion_elenna_michael]]: CANON DEL AUTOR. Brasil a los 15 es viaje de unos días, no mudanza; Elenna sabe desde niña que Gabe es Corrado; nueva ficha [[06_Relationships/Elenna_y_Michael]].
 - 2026-10-04 — [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/11_El_Farol|Cap. 11 *El farol*]] rediseñado (BORRADOR) y Walt insertado en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero|Cap. 10]]. CANON DEL AUTOR: Chiara socia minoritaria de la destilería (el Monarch, sólo cliente); Chiara testigo del primer reencuentro Walt/Mabel tras la prisión. Fila corrupta del Cap. 11 en CHAPTER_STATUS sustituida. Carpeta vacía `11_Books/Book_01_Seda_y_Polvora/` eliminada.
 - 2026-10-04 — Cap. 3: CANON DEL AUTOR, diálogo de los ojos (Kal, Héctor, Nat) antes de que salga Walt (Nat habla de los ojos de su padre); Héctor lo cierra en el Cap. 5: "¡Ah! ¿Te referías a esos ojos?".

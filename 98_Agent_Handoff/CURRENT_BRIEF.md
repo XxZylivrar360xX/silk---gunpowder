@@ -6,7 +6,8 @@ Actualizado: 2026-10-04. Estado vigente; máximo 800 palabras. Sustituir informa
 
 1. **Lectura del autor del arco final del Libro I (Caps. 44–50b), puerta 2** de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]] (E0–E5 hechas, Q1–Q25 aplicadas y aprobadas). Después, microedición E6–E8. Los ocho capítulos siguen BORRADOR.
 2. **Cascada pendiente** cuando el autor cierre esa lectura: Book Maps I y II, `01_Timeline`, Nota Editorial y supersesiones #19/#25 de [[00_Biblia/00_Trilogy_Structure]], que aún dicen que el Libro I cierra en el 44.
-3. Lista operativa en [[98_Agent_Handoff/PENDING]].
+3. **Cap. 34 *Mi pareja* ampliado (2026-10-04, BORRADOR):** diálogo cómico del autor reconducido a la destilería y SURGERY de fluidez. Falta lectura. [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]].
+4. Lista operativa en [[98_Agent_Handoff/PENDING]].
 
 ## Saga (CANON DEL AUTOR)
 

@@ -39,6 +39,7 @@ No explica su origen, su miedo ni el costo real de lo que hace. No pide cuidado.
 **Ordenes que se le escapan (Cap. 28):** "No vuelvas a hacer algo asi sola." Se oye un segundo tarde y corrige ("No era una orden"), pero no retira el contenido. Roza la logica de control de Varek y se detiene; no equipararlos.
 
 ## Comportamiento fisico al hablar
+**Tic del volante (CANON DEL AUTOR, 2026-10-04):** mover el volante de un lado a otro, con el coche detenido o sin razon mecanica, aparece solo cuando algo que le dice Chiara lo incomoda (ancla: Cap. 34, tras "Yo crei que era porque querias que no le pusieramos nombre a esto"). No usarlo como gesto suelto ni detonado por el mismo Kal o por terceros.
 
 Trabaja mientras habla: limpia una pieza, revisa una factura, abre una puerta, sirve cafe, mira una ruta. Cuando se queda quieto, la conversacion ya importa (Cap. 28: "se quedo quieto con la chaqueta a medio colgar").
 
