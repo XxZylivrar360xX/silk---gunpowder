@@ -17,6 +17,7 @@ Función: primer capítulo de regreso tras Palermo. Muestra a Kal administrando 
 - **Dario:** por teléfono, breve, preciso, sin explicar nada. Confirma una distracción al otro lado del perímetro en la ventana comunicada, sin mecanismo ni duración táctica. Cierra con una frase seca sobre las armas (paga H6), sin reexplicar el pacto.
 - **Héctor:** una sola pregunta, la deja caer cuando Kal dice que está bien. **Nadir:** acepta la versión de la villa sin indagar, más ocupado en la operación del Patio que en leer a Kal.
 - Cierre: balcón del loft, de noche, vista a La Almendra. Objetos de Chiara mencionados sin glosa (uno o dos, no inventario). Línea canon del autor, textual: "—Palermo fue más complicado de lo que anticipé." Corte inmediato después, sin que Marisol pregunte qué pasó.
+**Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N39-1, N39-2, C39-Danny. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
 # Capítulo 39 — Un par de días más
@@ -95,7 +96,7 @@ Nadir sonrió, corto, y volvió a contar algo contra el mostrador.
 
 —Algo así.
 
-—Se nota. —Y no dijo nada más, porque ya había otra cosa esperándolo en la oficina, y Nadir tenía la costumbre de moverse hacia el siguiente problema sin quedarse a mirar el anterior.
+—Se nota. —Y no dijo nada más.
 
 Kal dejó la maleta detrás del mostrador, donde la dejaba siempre que llegaba directo al patio antes que a casa, y caminó hacia el fondo.
 
@@ -123,7 +124,7 @@ Mei-Lin no levantó la vista del teléfono enseguida. Cuando lo hizo, lo pensó 
 
 —¿Cómo lo sabes?
 
-—Porque a esa hora es cuando se corre —dijo ella, con la paciencia de quien explica algo obvio a alguien que llegó tarde—. Siempre es a esa hora.
+—Porque a esa hora es cuando se corre —dijo ella—. Siempre es a esa hora.
 
 Kal asintió y no preguntó más. En la oficina le dijo a Nadir que mandara el camión a las seis.
 
@@ -213,7 +214,7 @@ Del otro lado hubo un silencio corto.
 
 —Ahí voy a estar.
 
-Se guardó el teléfono y volvió adentro, y lo primero que hizo fue buscar a Nadir con la mirada, y después a Héctor, calculando quién de los dos iba a necesitar saber qué y cuándo. Ahora sí tenía qué contestarle a Danny.
+Se guardó el teléfono y volvió adentro, y lo primero que hizo fue buscar a Nadir con la mirada, y después a Héctor, calculando quién de los dos iba a necesitar saber qué y cuándo.
 
 ---
 

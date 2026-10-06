@@ -22,6 +22,7 @@ Función: paga el siguiente tramo del hilo de la invitación del yate — Kal le
 - H16 ya asentado: Chiara vive en el loft sin que se reabra la pregunta de la mudanza; sus objetos (cafetera programada, algo suyo en el baño, etc.) aparecen como parte normal del espacio, sin sorpresa de Kal.
 - Héctor: una sola línea de continuidad post-Stella (rigidez, cansancio leve), sin reabrir el susto cardíaco ni medicalizarlo.
 - Walt: segunda vez que Kal le pregunta algo sobre Chiara que él tampoco sabe responder (la primera fue la Romanée-Conti en el Cap. 36, donde Walt opinó sobre su significado, no la recomendó) — patrón cómico reconocido por el propio Walt, sin alargarlo más de una escena.
+**Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N37-1. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
 # Capítulo 37 — Cuatro letras
@@ -124,7 +125,7 @@ Se quedó mirando a Kal un segundo más de lo que hacía falta para cerrar el te
 
 —No estoy dando vueltas.
 
-—Safi —dijo Nadir, que evidentemente no le creía una sola palabra, y no insistió más.
+—Safi —dijo Nadir, y no insistió más.
 
 ---
 

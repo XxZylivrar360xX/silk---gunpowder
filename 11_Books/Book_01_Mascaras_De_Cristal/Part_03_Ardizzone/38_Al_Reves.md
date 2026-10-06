@@ -29,11 +29,12 @@ Función: celebración coral que se convierte en el gatillo del viaje a Palermo.
 - **ORDEN — RESUELTO POR EL AUTOR (2026-09-20, misma sesión):** el orden viejo (F1 → Los Tres Días → reconciliación → H13 → Palermo) queda **SUPERSEDIDO**. Nuevo canon: `H16 → Cuatro letras → fiesta / H13 → Palermo (H17) → regreso (H18) → investigación de Matteo / F1 → Los Tres Días → reconciliación`. Razón del autor: F1 pesa más después de Palermo, cuando Blake y la bala ya establecieron que Chiara normalmente sí le cuenta las cosas a Kal — su "Nada" sobre Matteo será mucho más grave. Timeline, Hitos y Kal_y_Chiara actualizados en consecuencia.
 - **Frente 3, densidad (2026-10-05, SURGERY autorizada por el autor; sigue BORRADOR):** en la proa, fuera lo que Chiara le repite a Kal de Blake ("Esta noche vino a que le corrigiera la historia… No se lo di.", F3-6); queda "No lo era. No todavia." La vispera, comprimida (F3-7): fuera el agradecimiento razonado ("Porque me dejaste ensenar quien soy… me diste la mano igual"), "no hablemos de frenos" y la filosofia de "se vive mejor con gente al lado"; despues de "A mi no tienes que darme las gracias de nada", el gesto de la tecla lleva directo a la vida civil y al arma bajo la almohada. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Densidad_Funcion_Frente_3.md §5.
 - **Microcostura de la vispera (2026-10-05, pedida por el autor tras la lectura postoperatoria; DISENO del agente, pendiente de lectura):** entre la tecla y la vida civil entra una sola replica puente, "Yo tampoco sabia tener a nadie tan cerca", con la acotacion "No levanto la vista del teclado". La gratitud de Chiara le abre a Kal la confesion. No se restauro nada de F3-7 (ni "me dejaste ensenar quien soy", ni frenos, ni "se vive mejor con gente al lado").
+**Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N38-1, N38-2, N38-3, N38-4. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
 # Capítulo 38 — Al revés
 
-El día entero que le había pedido se había gastado a la hora exacta, sin sobrar ni faltar un minuto, y ahora Chiara lo sentía todavía en los hombros como se siente el sol después de haberse ido: un desayuno largo en el loft, la costa de tarde, la pregunta que él no había hecho ni una sola vez en todas esas horas y que ella había visto pasarle por la cara cada vez que alguien decía *Roma* por casualidad.
+El día entero que le había pedido se había gastado sin sobrar ni faltar un minuto, y ahora Chiara lo sentía todavía en los hombros como se siente el sol después de haberse ido: un desayuno largo en el loft, la costa de tarde, la pregunta que él no había hecho ni una sola vez en todas esas horas y que ella había visto pasarle por la cara cada vez que alguien decía *Roma* por casualidad.
 
 No la iba a hacer. Ella lo sabía. Él también.
 
@@ -385,7 +386,7 @@ Chiara se quedó mirándolo un momento más. Después se levantó, cruzó el sal
 
 —No sé. Sueño. Soñar. Algo así. —Miró las teclas—. Nunca lo busqué.
 
-Chiara no insistió. Sabía, con la precisión con la que sabía casi todo de él, que si insistía iba a recibir una puerta cerrada con cortesía, y que si no insistía iba a recibir, algún día, sin avisar, la puerta entera. Prefería la puerta entera.
+Chiara no insistió. Sabía que si insistía iba a recibir una puerta cerrada con cortesía, y que si no insistía iba a recibir, algún día, sin avisar, la puerta entera. Prefería la puerta entera.
 
 Se quedaron sentados en el banco, uno junto al otro, sin que ninguno de los dos dijera nada durante casi un minuto. Fue Chiara la primera en darse cuenta de que no estaba incómoda, y de cuánto había tardado en que eso ocurriera.
 
@@ -523,7 +524,7 @@ No hicieron nada rápido. Eso fue lo primero que registró: la lentitud. Uno de 
 
 El otro ya había abierto la puerta trasera de un coche gris estacionado detrás del suyo.
 
-Chiara podía haber gritado. Había tres viejas y un sacristán a veinte metros. Podía haber metido la mano en el bolso. Sabía exactamente cuánto tardaba en meter la mano en el bolso. No hizo ninguna de las dos cosas, porque los dos hombres tenían la cortesía exacta de la gente que no necesita amenazar para que uno entienda, y porque esa cortesía ella ya la conocía: era la de un despacho de Nueva York, de noche, y sabía de quién era.
+Chiara podía haber gritado. Había tres viejas y un sacristán a veinte metros. Podía haber metido la mano en el bolso. Sabía exactamente cuánto tardaba en meter la mano en el bolso. No hizo ninguna de las dos cosas, porque los dos hombres tenían la cortesía de la gente que no necesita amenazar para que uno entienda, y porque esa cortesía ella ya la conocía: era la de un despacho de Nueva York, de noche, y sabía de quién era.
 
 —Un café —repitió, y subió al coche.
 
@@ -713,7 +714,7 @@ Contestó al segundo timbre, más por reflejo que por decisión.
 
 —Marisol. —Kal se pasó la mano por la cara—. Olvidé mencionarlo hace rato en la fiesta. Tengo que salir. Ya sabes. Negocios.
 
-Un silencio corto del otro lado. Después, con el tono exacto de alguien que empieza a contar con los dedos:
+Un silencio corto del otro lado. Después:
 
 —¿Negocios en sábado, qué...?
 

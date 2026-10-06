@@ -18,6 +18,7 @@ Función: CANON DEL AUTOR. Abre la Parte III — Ardizzone. Nace el ritual del *
 - No se escribe H16 (cumpleaños/mudanza) ni ningún material de Camp Alder, Palermo, H13, Ren Wei o El Patio más allá de Almendra Towing como lugar.
 - **Beat de las invitaciones del yate (CANON DEL AUTOR, 2026-09-20): trasladado al final del [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/36_Tambien_Las_Mananas|Cap. 36]] en E5 (2026-09-27).** Su nota de canon y de cronología se movió a la metadata del 36. El roadmap que se anotaba aquí ya está ejecutado: Kal lee la carta en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/37_Cuatro_Letras|Cap. 37]]; la fiesta del yate, el piano ("importantísimo para el futuro", según el autor) y la explicación del cifrado están en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 38]].
 - **Anya en el Monarch (P1, aprobada por el autor 2026-09-27, Q13; escrita en E9, BORRADOR/DISEÑO):** cuarta sección, POV Chiara, entre la salida de Kal ("…y salió sin decir nada de italiano.") y la vuelta de Chiara al despacho ("Subió al despacho por el pasillo alfombrado…", que sustituye a "Chiara escuchó sus pasos alejarse…"). Kal no se fue: la máquina de hielo del bar del casino es de las que arreglaba el técnico de Matteo (el hueco de la silla vacía). Chiara baja por la firma del vino de los Ferretti en el libro de la cava. Canon cumplido: rubia, Kal detrás de la barra, escalofrío y se esconde, la ceja, "Kal" y luego "Ojos azules" con las dos ya cerca. Línea de Anya: "No vengo a cobrar nada, Ojos azules. Todavía." Kal, sin que ella pregunte: "Alguien de antes." Chiara registra por conducta (la mano seca que se limpia, el tornillo ya apretado), sin deducción explícita; el acento no se menciona (el Cap. 25 le daría la llave por información). Sin prolepsis de F4, sin Nadir nombrado en la escena. Diseño en el mapa de la auditoría (§ P1) y § 9 parte 5.
+**Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N35-1, N35-2. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
 # Capítulo 35 — Sin fecha de regreso
@@ -60,7 +61,7 @@ Chiara sonrió sin que él pudiera verla.
 
 Detrás de su voz había un compresor y algo que sonaba a llanta rodando contra concreto. Chiara cerró los ojos un segundo e imaginó el patio entero sin haberlo visto nunca de día: la grúa a medio subir, Nadir con las manos manchadas hasta la muñeca, Kal con el teléfono sostenido entre la oreja y el hombro para no soltar lo que tuviera en las manos.
 
-—¿Qué haces? —preguntó él, y algo en su tono cambió, se acomodó un grado, como quien acaba de notar algo en el silencio de antes que no había registrado del todo.
+—¿Qué haces? —preguntó él, y algo en su tono cambió, se acomodó un grado.
 
 Chiara miró la taza fría.
 
@@ -170,7 +171,7 @@ Miró las carpetas. Después la miró a ella.
 
 —Es trabajo.
 
-No dijo nada más. No se ofreció a tomar una carpeta, no preguntó qué firma faltaba ni a quién había que llamar. Se quedó exactamente donde estaba, con la misma postura de alguien que sabe que hay una puerta que no le corresponde abrir, y eso, más que cualquier otra cosa que hubiera podido decir, fue lo que Chiara agradeció sin decírselo.
+No dijo nada más. No se ofreció a tomar una carpeta, no preguntó qué firma faltaba ni a quién había que llamar. Se quedó donde estaba, con la misma postura de alguien que sabe que hay una puerta que no le corresponde abrir, y eso, más que cualquier otra cosa que hubiera podido decir, fue lo que Chiara agradeció sin decírselo.
 
 El teléfono volvió a sonar. Esta vez era Tommaso, con una duda sobre el calendario de la sala privada para la semana siguiente. Chiara resolvió eso también, de pie, con la agenda de Matteo abierta contra el pecho y el lápiz de Fabrizio —que había terminado, sin que nadie lo decidiera del todo, en su bolsillo— marcando una fecha nueva sobre la vieja.
 

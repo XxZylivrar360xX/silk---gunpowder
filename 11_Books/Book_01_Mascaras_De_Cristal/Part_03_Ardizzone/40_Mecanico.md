@@ -12,6 +12,7 @@ Función: la mitad de Kal sobre Palermo — lo que ve, oye, entiende e interpret
 - REGLA ESTRUCTURAL: sigue el plan de cierre de Parte III al detalle. No confirma a Corrado vivo, no confirma al Consorcio como autor de H12/H13, no narra el corte de cabello, no revela que Chiara regresa el mismo día a San Aurelio, no resuelve ni glosa el motivo exacto de Chiara al declarar a Kal ajeno a la casa, no formaliza a Kal ante la Mesa ni le ofrece lugar.
 - POV restringido: sólo lo que Kal ve, oye, entiende e interpreta. Nunca se explica desde dentro la razón de Chiara.
 - Líneas canon textuales conservadas: "Sabe a domingo. De los buenos, cuando alguien trae una botella que no le alcanzaba." / "—Siempre tienes algo gracioso para aligerar el ambiente." — "—No. Es que me gusta hacerte reír." / "—¿Y usted qué es, señor Mercer?" — "—Mecánico." / advertencia de Ettore sobre alejarse de la familia Ardizzone.
+**Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N40-1, N40-2, N40-3, N40-4, N40-5, N40-6, N40-7, N40-8, N40-9, N40-10, N40-11, N40-12, L40-89, L40-125, L40-211, L40-225. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
 # Capítulo 40 — Mecánico
@@ -48,7 +49,7 @@ Kal la reconoció porque era la misma clase de mirada que él mismo hacía cien 
 
 —Ettore. —Le dio la mano. El apretón fue firme, breve, ni una prueba de fuerza ni una cortesía vacía—. Bienvenido a la casa de Chiara.
 
-No dijo *mi casa*. No dijo *nuestra casa*. Lo dijo así, con la posesión puesta exactamente donde correspondía, y Kal entendió sin que nadie se lo explicara que ese hombre llevaba media vida cuidando algo que no era suyo con más cuidado del que la mayoría de la gente le pone a lo que sí lo es.
+No dijo *mi casa*. No dijo *nuestra casa*. Lo dijo así, y Kal entendió sin que nadie se lo explicara que ese hombre llevaba media vida cuidando algo que no era suyo con más cuidado del que la mayoría de la gente le pone a lo que sí lo es.
 
 ---
 
@@ -66,13 +67,13 @@ Ettore los alcanzó en el pasillo, ya sin la urgencia del recibimiento, con las 
 
 —No —dijo Chiara, sin levantar la voz, sin apuro, sin dejar espacio para que nadie insistiera.
 
-Ettore no insistió. Asintió una vez, como quien anota algo sin que se le note que lo anotó, y siguió de largo hacia la cocina.
+Ettore no insistió. Asintió una vez y siguió de largo hacia la cocina.
 
 Kal no dijo nada. Pero registró que la pregunta de Ettore no había sido sobre habitaciones.
 
 Comieron esa noche en una mesa larga que sobraba de comensales, con Ettore a la cabecera sin que nadie se la hubiera cedido y sin que nadie lo discutiera, hablando de la cosecha, del calor que llegó tarde ese año, de un primo de alguien que Kal no conocía. Ettore le habló dos o tres veces directamente — le preguntó por el vuelo, por el tiempo, si el pescado le gustaba — con una corrección impecable que no dejaba ver nada debajo. No hubo ninguna pregunta sobre quién era, qué hacía, de dónde venía.
 
-Contenido. Correcto. Difícil de leer. No pudo leer del todo a ese hombre, y eso en sí mismo ya le decía algo.
+Contenido. Correcto. Difícil de leer, y eso en sí mismo ya le decía algo.
 
 ---
 
@@ -86,7 +87,7 @@ Al día siguiente Chiara lo despertó temprano con una taza de café en la mano 
 
 No sonó a broma del todo, y Kal no la tomó como tal del todo.
 
-Manejó ella misma, por un camino sin pavimentar que serpenteaba entre colinas bajas cubiertas de vides en filas tan derechas que parecían trazadas con regla, hasta un edificio de piedra con las puertas abiertas y una mesa larga puesta afuera, bajo un toldo, con copas ya dispuestas. Un hombre mayor salió a recibirlos con el mismo respeto exacto que le había visto a Ettore el día anterior, aunque éste sí la llamó *signora* antes de que Chiara terminara de bajar del coche.
+Manejó ella misma, por un camino sin pavimentar que serpenteaba entre colinas bajas cubiertas de vides en filas tan derechas que parecían trazadas con regla, hasta un edificio de piedra con las puertas abiertas y una mesa larga puesta afuera, bajo un toldo, con copas ya dispuestas. Un hombre mayor salió a recibirlos con el mismo respeto que le había visto a Ettore el día anterior, aunque éste sí la llamó *signora* antes de que Chiara terminara de bajar del coche.
 
 Era suyo. No lo dijo así. Lo dijo señalando una fila de vides con la barbilla, contándole a Kal cuántas hectáreas sin sonar a que estaba presumiendo, explicándole por qué esa ladera daba mejor uva que la de al lado sin necesitar que él entendiera de tierra para seguir la lógica. Era, entendió Kal, la misma clase de orgullo que él sentía enseñándole a alguien el taller: no *mira lo que tengo*, sino *mira lo que hice que funcionara*.
 
@@ -98,7 +99,7 @@ Con el segundo, un tinto más oscuro que sirvió el mismo hombre con una ceremon
 
 —Sabe a domingo. De los buenos, cuando alguien trae una botella que no le alcanzaba.
 
-Se hizo un silencio corto en la mesa, del tipo que no es incómodo sino que se detiene a mirar algo. El hombre de la bodega levantó las cejas y dijo algo rápido en italiano que Kal no siguió, pero que sonó a aprobación. Alguien más repitió la frase en voz baja, traduciéndosela a otro, y alguien rio.
+Se hizo un silencio corto en la mesa. El hombre de la bodega levantó las cejas y dijo algo rápido en italiano que Kal no siguió, pero que sonó a aprobación. Alguien más repitió la frase en voz baja, traduciéndosela a otro, y alguien rio.
 
 Chiara no dijo nada durante un segundo. Después se rio de verdad, la risa completa que Kal conocía de las cuatro paredes del loft y que casi nunca sacaba a la calle, y le tocó el brazo con el dorso de la mano, un gesto rápido, casi sin pensar.
 
@@ -122,7 +123,7 @@ Fue con ella de todos modos.
 
 No fue en la casa. Un coche distinto, más grande, con un chofer que no era el de siempre, los llevó a una sala en lo que parecía una residencia más formal en la ciudad baja — techos altos, persianas medio cerradas contra el sol de la mañana, una mesa de madera oscura ya puesta con agua, café, y nada más. No había nada teatral en el sitio. Ningún hombre armado en la puerta que Kal pudiera ver, ningún cuadro amenazante, ninguna luz baja. Era, si acaso, más parecido a la sala de juntas de un banco que a cualquier cosa que Kal hubiera imaginado cuando Chiara dijo *la Mesa* por primera vez, y eso era peor.
 
-Un hombre los recibió en la puerta. Elegante sin exceso, con el pelo gris bien cortado y un traje que no llamaba la atención sobre sí mismo, que era exactamente la clase de traje que llama la atención cuando uno sabe mirarlo. Saludó a Chiara con una inclinación de cabeza y una frase en italiano que ella devolvió en el mismo tono — cordial, medido, sin nada personal en el saludo de ninguno de los dos.
+Un hombre los recibió en la puerta. Elegante sin exceso, con el pelo gris bien cortado y un traje que no llamaba la atención sobre sí mismo, que era la clase de traje que llama la atención cuando uno sabe mirarlo. Saludó a Chiara con una inclinación de cabeza y una frase en italiano que ella devolvió en el mismo tono — cordial, medido, sin nada personal en el saludo de ninguno de los dos.
 
 —Signora Ardizzone —dijo el hombre, y sólo entonces miró a Kal, con una cortesía que no cambió en absoluto de temperatura—. Y su acompañante.
 
@@ -140,7 +141,7 @@ Nadie presentó a Kal a Livia Rinaldi. Nadie tuvo que hacerlo: la mujer lo evalu
 
 Valenti señaló dos sillas. Una, junto a la mesa, para Chiara. La otra, un poco atrás, contra la pared, para Kal.
 
-Nadie lo dijo en voz alta. Kal se sentó donde le señalaron y entendió exactamente qué acababan de decidir sobre él sin dirigirle una palabra.
+Nadie lo dijo en voz alta. Kal se sentó donde le señalaron.
 
 ---
 
@@ -168,7 +169,7 @@ Valenti lo sostuvo con la mirada un segundo, como esperando el resto, y cuando n
 
 Chiara respondió con la versión que Kal ya la había visto construir antes, tantas veces, en tantas salas distintas: una redistribución ordenada, una ausencia temporal cubierta, nada que no pudiera explicarse en una frase. No mintió en nada verificable — Kal, que llevaba meses aprendiendo a distinguir cuándo Chiara administraba la verdad y cuándo la inventaba, no oyó una sola cosa que no pudiera sostenerse si alguien fuera a comprobarla. Sólo eligió qué decir primero, qué dejar para el final, y qué no decir en absoluto.
 
-Livia escuchaba con la cabeza ligeramente inclinada, sin interrumpir, sin que su cara revelara si le creía o no. Fue ella quien, cuando Chiara terminó, dejó pasar un silencio de dos segundos y dijo, como quien piensa en voz alta y no espera respuesta de nadie en particular:
+Livia escuchaba con la cabeza ligeramente inclinada, sin interrumpir, sin que su cara revelara si le creía o no. Fue ella quien, cuando Chiara terminó, dejó pasar un silencio de dos segundos y dijo:
 
 —Hay también algo de San Aurelio mismo. Un rumor pequeño, tonto quizás. Que la casa perdió el paso con su propia gente después de que el señor Bellacorte se fue. Que nadie sabe bien a quién dirigirse. —Se encogió de hombros, apenas—. Estas cosas, si se dejan, crecen. Y si se cierran demasiado rápido, también crecen, porque entonces todos preguntan por qué había algo que cerrar.
 
@@ -194,7 +195,7 @@ Lo dijo rápido. Más rápido de lo que Chiara decía normalmente las cosas que 
 
 Valenti inclinó la cabeza, aceptando la aclaración con la misma cortesía con la que había aceptado todo lo demás esa mañana, y la conversación siguió a otra cosa —algo sobre un envío, una fecha, palabras que Kal ya no siguió del todo porque estaba ocupado con algo más pequeño y más frío instalándosele en el pecho.
 
-No la vio dudar. No la vio pensarlo. Chiara había medido la distancia exacta entre él y esa mesa y la había cerrado en una frase, con la misma precisión con la que hacía todo, y Kal —contra la pared, otra vez fuera de la conversación, otra vez sin que nadie le dirigiera la palabra— no pudo leer si lo había hecho por él o en contra de él.
+No la vio dudar. No la vio pensarlo. Chiara había medido la distancia exacta entre él y esa mesa y la había cerrado en una frase, y Kal —contra la pared, otra vez fuera de la conversación, otra vez sin que nadie le dirigiera la palabra— no pudo leer si lo había hecho por él o en contra de él.
 
 Sintió que la sala había dejado de mirarlo de la manera en que lo había mirado un minuto antes. No supo decir si eso era alivio o pérdida. Las dos cosas le llegaron juntas, y no encontró cómo separarlas.
 
@@ -208,13 +209,11 @@ Una fotografía en blanco y negro, o quizás sólo vieja de un modo que ya no di
 
 Su marido muerto. Kal volvió a mirar a Chiara en la fotografía.
 
-Chiara no tocó la fotografía. La miró desde donde estaba, sin acercar la mano, con la misma cara exacta que había tenido un momento antes hablando del cuarteto de Roma.
+Chiara no tocó la fotografía. La miró desde donde estaba, sin acercar la mano, con la misma cara que había tenido un momento antes hablando del cuarteto de Roma.
 
 —Lo fue —dijo.
 
 —Es una lástima que ciertas cosas se pierdan con el tiempo —dijo Livia, con la voz de quien comenta el clima—. Los apellidos. Las formas. Lo que una debe a quien fue. San Aurelio está muy lejos de aquí, signora, y desde lejos es fácil olvidar cómo se ve una desde cerca.
-
-No fue una amenaza. No sonó como una. Sonó, para Kal, a algo peor: a una mujer mayor recordándole a otra más joven, con toda la cortesía del mundo, que tenía una apariencia que sostener y que alguien, en alguna parte, seguía llevando la cuenta.
 
 Chiara no respondió eso. Dejó que el silencio corriera un segundo más de lo cómodo, y después preguntó por el envío de Livia con la misma voz de siempre, y la conversación volvió a moverse a otra parte.
 
@@ -222,7 +221,7 @@ Kal, desde la pared, vio la fotografía seguir ahí, boca arriba, entre las taza
 
 ---
 
-La reunión terminó como había empezado: con Valenti hablando de otra cosa, acompañándolos hasta la puerta con la misma cortesía exacta del principio. Livia se despidió de Chiara con otro beso en cada mejilla y no volvió a mirar a Kal.
+La reunión terminó como había empezado: con Valenti hablando de otra cosa, acompañándolos hasta la puerta con la misma cortesía del principio. Livia se despidió de Chiara con otro beso en cada mejilla y no volvió a mirar a Kal.
 
 En el coche de regreso, Chiara se sentó con las manos sobre el regazo, quieta, mirando la ciudad pasar por la ventanilla sin verla del todo. Kal no le preguntó por la fotografía. No le preguntó por lo que había dicho de él delante de la Mesa. Había una versión de sí mismo que sabía cuándo una pregunta necesitaba hacerse ahí mismo y otra que sabía cuándo esperaba, y en ese coche, con Chiara tan quieta que hasta su respiración parecía administrada, eligió la segunda.
 
@@ -302,9 +301,7 @@ Chiara no preguntó por qué. Lo miró un momento, con la taza a medio camino de
 
 —Hoy. Esta tarde, si hay vuelo.
 
-—Lo hay. —Lo dijo sin comprobarlo, porque Chiara sabía esas cosas sin necesidad de mirar un teléfono—. Comercial. Yo no puedo darte el avión, lo necesito.
-
-No fue un reproche. Fue información.
+—Lo hay. —Lo dijo sin comprobarlo—. Comercial. Yo no puedo darte el avión, lo necesito.
 
 Kal no le preguntó por qué lo necesitaba. No le dijo *ven conmigo*.
 
@@ -332,7 +329,7 @@ Ettore lo llevó al aeropuerto. Chiara se despidió en la casa, en el patio, jun
 
 —No —dijo Kal—. Pero suena bien.
 
-Ella se rio, corta, contra su camisa, y por un segundo —sólo un segundo— Kal sintió que la sala del día anterior, la fotografía, la frase de Valenti, la frase de ella misma delante de la Mesa, todo eso se apartaba lo suficiente para dejarlos ser, otra vez, solamente dos personas despidiéndose en un patio.
+Ella se rio, corta, contra su camisa, y por un segundo —sólo un segundo— Kal sintió que la sala del día anterior se apartaba lo suficiente para dejarlos ser, otra vez, solamente dos personas despidiéndose en un patio.
 
 En el coche, camino a la ciudad, Ettore no dijo nada más de lo que ya había dicho la noche anterior. Manejaba mirando el camino, con las manos firmes sobre el volante, y sólo cuando llegaron a la terminal, mientras Kal bajaba la maleta, agregó una última cosa.
 
@@ -344,7 +341,7 @@ En el coche, camino a la ciudad, Ettore no dijo nada más de lo que ya había di
 
 Se fue sin esperar respuesta, otra vez, con el mismo paso contado.
 
-El vuelo salía al anochecer, con una escala que Kal no se molestó en recordar. Se sentó en la sala de espera con la maleta entre los pies, viendo aviones despegar por un vidrio que le devolvía su propio reflejo cada vez que el cielo se oscurecía un poco más, y pensó en la fotografía sobre la mesa, en Valenti escribiendo algo que nunca leyó, en la voz de Chiara diciendo *el señor Mercer no es parte de esta casa* con la misma exactitud con la que decía cualquier otra cosa que importaba.
+El vuelo salía al anochecer, con una escala que Kal no se molestó en recordar. Se sentó en la sala de espera con la maleta entre los pies, viendo aviones despegar por un vidrio que le devolvía su propio reflejo cada vez que el cielo se oscurecía un poco más, y pensó en la fotografía sobre la mesa, en Valenti escribiendo algo que nunca leyó, en la voz de Chiara diciendo *el señor Mercer no es parte de esta casa*.
 
 No tenía manera de saber si lo había protegido o si lo había apartado.
 

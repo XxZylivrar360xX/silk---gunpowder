@@ -264,3 +264,61 @@ Casi todos los del 33 (49, 57, 81, 127, 179, 185 y 385) y 30:426. Son interiorid
 - **Riesgo de racionalizar interioridad:** N30-2 y D-2 cortan pensamiento de Chiara y de Kal. En los dos casos el otro personaje lo dice en voz alta o el capítulo espejo ya lo dio.
 - **Riesgo de prosa genérica:** bajo. Todo son cortes o compresiones. No hay ninguna reformulación ni ninguna palabra nueva.
 - **Límite:** el 28 queda casi intacto por encargo. Si el autor siente que el narrador del 28 sigue "perfecto", eso es diálogo y calibración, no este frente.
+
+---
+
+## 5b. Decisión del autor (2026-10-06)
+
+- **Bloque firme (32) y lote "exacto": APROBADOS completos.** El autor revisó en contexto N29-4, N30-5 y N30-6 y los confirmó. También N32-1 y N32-2: dejar sólo la versión del diálogo le da más peso a la línea directa de Lucia.
+- **Dudosos:** se aplican D-2, D-4 y D-5; se conservan D-1, D-3, D-6, D-7, D-8 y D-9.
+  - D-5, según el autor: "quitar la explicación fortalece el payoff. Basta: —¿Puedo verlas?". Por eso sale el párrafo entero, incluido "Preguntó permiso.", que también certificaba.
+- **Motivo "clima":** se queda como firma de Varek. No se convierte en motivo Chiara←Varek; sale N29-5.
+- **Continuidades §4.1–4.3: resolver ahora**, no en PENDING.
+  - 29: la referencia al 28 se ajusta a lo que Kal dijo de verdad, y se limpian las metadata que arrastraban la versión vieja.
+  - "Nueve palabras" se ajusta al diálogo actual.
+  - En el 32, la línea es de Irene.
+
+## 7. Resultado — SURGERY (2026-10-06)
+
+**Rebase:** entre `fc871fe` y `d6a64f4` sólo cambió este audit; los nueve capítulos estaban como se auditaron. Cada candidato se aplicó sobre el texto exacto citado en el §1.
+
+- **Aplicados 35 de 35:** 32 firmes, más D-2, D-4 y D-5. Nada sumado salvo las correcciones mecánicas de continuidad.
+- **Prosa: −452 palabras netas.**
+
+  | Cap. | Palabras |
+  |---|---:|
+  | 26 | −15 |
+  | 27 | −18 |
+  | 28 | −22 |
+  | 29 | −94 |
+  | 30 | −156 |
+  | 31 | −15 |
+  | 32 | −69 |
+  | 33 | −38 |
+  | 34 | −25 |
+
+- **Ajustes respecto del §1:**
+  - **D-5:** el corte es completo; queda "—¿Puedo verlas?" y va directo a "Fue por el sobre y volvió".
+  - **N30-11** queda "—¿Y ya sabes a quién más vas a invitar? —Nadir sonrió.", con la acotación cerrada.
+- **Continuidad:**
+  - **29:34:** "nueve palabras de él" → "tres palabras de él" ("¿Nos podemos reunir?").
+  - **29:36:** la frase recordada pasa a ser "—*no voy a ser más un problema para ti*—", literal del 28:292. La "cara de Chiara al no contestarla como él esperaba" se sostiene con su "Lo entiendo.".
+  - **29:248:** "cuando él le dijo que a lo mejor debían parar" → "cuando él le dijo que a lo mejor tenía que irse" (28:292, "Es posible que esta noche me tenga que ir").
+  - **Metadata:** en 28 l. 18 y en el [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] (bloque del 28) se anotó "SUPERSEDIDO" sin borrar la nota vieja. En 31 l. 23, la premisa "había planteado parar lo que construían" se cambió por la vigente. Así queda saldado el pendiente 5 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]].
+  - **32:203:** se añade "Irene bajó la vista a la libreta." después de "Tomás descruzó los brazos.", para que "—Ahora sí me debe, señor Mercer." y la línea que escribe en la hoja sean de ella. Son 6 palabras.
+- **Costuras revisadas:**
+  - 28:144, "Hacia Kingsley. Lo seguí.";
+  - 28:232, "—La del sur. En Villani…";
+  - 29:136, "Entra. Sus problemas…";
+  - 29:238, "Se lo dijo ya de pie…";
+  - 29:274, "No bajó la voz. No la subió.", que pasa a "Kal no levantó la cabeza.";
+  - 30:56, "Chiara esperó.";
+  - 30:82, que pasa a "—¿Nadir lo sabe?";
+  - 30:166, que pasa a "—Eso no toca lo de Halbrook —dijo." (por alternancia se lee como de Chiara);
+  - 30:192, "—Lo suficiente.", que pasa a `***`;
+  - 32:51, que pasa a "—Eso normalmente lo maneja alguien de logística.";
+  - 32:127, que pasa a "Lo archivó, junto con el resto";
+  - 33:417, "Chiara no dijo nada. Sirvió la pasta…";
+  - 34:447, la línea de Chiara, que pasa al tren de carga.
+- **Estados:** los nueve siguen BORRADOR. Cada cabecera lleva su nota de cirugía.
+- **Fuera de alcance, sin tocar:** 33:109 ("como quien clava algo") sigue protegido por la cirugía Marisol.

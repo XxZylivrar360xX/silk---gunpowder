@@ -22,6 +22,7 @@ Función: ejecuta [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza o
 - **CORRECCIÓN DE CONTINUIDAD (2026-09-20, mismo encargo):** se eliminó la cifra "dos días después" que fijaba las invitaciones muy cerca de la llamada principal del capítulo — chocaba con que el Cap. 36 (H16) ocurre tres semanas después de este capítulo y con que Kal debe leer la invitación recién en el Cap. 37, posterior a H16. La escena ya no lleva marcador temporal explícito; **queda flotando después del resto del capítulo, libre para caer después de H16 en la cronología real.** No se introdujo fecha nueva. El evento y su contenido emocional no cambiaron.
 - **Cronología de la coda (E5):** cae unos días después del cumpleaños y antes de la mañana del [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/37_Cuatro_Letras|Cap. 37]] (Kal encuentra la carta en la cafetera del loft) y de H13 ("hace unos días" en el 38). Sin marcador temporal en prosa: el blanco de sección basta; no escribir "días después". En el 35 estaba "flotando" después de un capítulo que ocurre tres semanas antes de H16; por eso se movió. "Nada de cumpleaños." leída aquí, justo después del cumpleaños, es precisa. C5 comprimió las dos frases de las "noventa y nueve" (repetían 211 y dejaban la aritmética en 101).
 - **Vento (E5, Q16):** su muerte (~2 semanas antes, canon de [[05_Locations/Hipodromo_Del_Monarch]]) no estaba en prosa; se añadió una frase en POV de Chiara frente al box, sin escena.
+**Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N36-1, N36-2, N36-3. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
 # Capítulo 36 — También las mañanas
@@ -104,7 +105,7 @@ Esta vez no discutió. Se dejó caer despacio sobre un tronco caído, con la res
 
 —Mercer.
 
-—No —repitió Kal, y se quedó ahí, en cuclillas, sin moverse, hasta que Héctor soltó el aire despacio y le hizo un gesto seco con la mano, algo entre rendición y orden, que Kal entendió sin necesidad de traducción: *ahora sí, vamos.*
+—No —repitió Kal, y se quedó ahí, en cuclillas, sin moverse, hasta que Héctor soltó el aire despacio y le hizo un gesto seco con la mano, algo entre rendición y orden.
 
 Encontraron a la yegua veinte minutos después, quieta al borde de un viñedo que no era Bellandi Ridge, arrancando hojas bajas de una vid con la cuerda todavía colgando del cabestro, ya sin fuerzas para correr más. Kal se le acercó despacio, sin apurar el paso, hablándole bajo, y ella lo dejó tomar la cuerda sin resistirse, como si también a ella se le hubiera acabado el argumento para seguir sola.
 
@@ -216,9 +217,9 @@ Adentro había una sola llave, sin llavero, con la superficie ya desgastada de u
 
 —Ya pasas las noches ahí —dijo—. Quiero que pases también las mañanas, si estás de acuerdo.
 
-No dijo nada más. No explicó lo que significaba, ni por qué ese día y no otro, ni qué parte de él llevaba meses queriendo decir esto sin encontrar la forma.
+No dijo nada más. No explicó lo que significaba, ni por qué ese día y no otro.
 
-No hacía falta. Chiara se quedó mirando la llave en la palma de su mano y sintió cómo algo se ordenaba detrás de los ojos con la misma precisión con la que ordenaba cualquier otra cosa —una versión, un nombre, un favor sin cobrar—, sólo que esta vez el orden le dolía un poco al formarse. El remolque vacío, enseñado primero como broma. Un caballo entero, cruzado medio día de terreno abierto, para que no fuera Vento pero tampoco cualquier otro caballo. Una botella que le había costado algo que prefería no preguntarle, cuyo significado exacto ni él mismo conocía del todo y aun así se las había arreglado para conseguir. Y esto último, lo más pequeño de los tres, lo más callado — y por eso mismo lo único que en realidad importaba.
+No hacía falta. Chiara se quedó mirando la llave en la palma de su mano y sintió cómo algo se ordenaba detrás de los ojos con la misma precisión con la que ordenaba cualquier otra cosa —una versión, un nombre, un favor sin cobrar—, sólo que esta vez el orden le dolía un poco al formarse. El remolque vacío, enseñado primero como broma. Un caballo entero, cruzado medio día de terreno abierto, para que no fuera Vento pero tampoco cualquier otro caballo. Una botella que le había costado algo que prefería no preguntarle, cuyo significado exacto ni él mismo conocía del todo y aun así se las había arreglado para conseguir. Y esto último, lo más pequeño de los tres, lo más callado.
 
 No eran tres regalos. Era una sola frase, la más larga que Kal Mercer le había dicho nunca, construida entera sin usar casi ninguna palabra.
 

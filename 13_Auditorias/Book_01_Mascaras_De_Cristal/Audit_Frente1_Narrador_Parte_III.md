@@ -333,3 +333,44 @@ Las dos últimas condicionan a N41-2 y N41-3: se queda la versión del 42 y se a
 - **Riesgo de racionalizar interioridad:** N36-2, N36-3 y N38-2 cortan frases en la mente de Chiara. Por eso los dos primeros van como DUDOSOS, y N38-2 sólo quita el inciso de competencia, no la interioridad.
 - **Riesgo de prosa genérica:** bajo. No hay reformulaciones. Sólo cortes y tres compresiones (N40-3, N41-2 y N40-12).
 - **Límite del método:** la búsqueda del patrón gesto → glosa se hizo leyendo los ocho capítulos completos. Aun así, en una sola pasada puede quedar alguna glosa sin marca léxica. **No se abre otra ronda:** según el encargo (§9), lo siguiente es la lectura postoperatoria del autor y después la lectura corrida.
+
+---
+
+## 5. Decisión del autor y resultado — SURGERY (2026-10-06)
+
+**Decisión:**
+- **Aprobados los 27 firmes:** 23 candidatos más el lote "exacto" del 40. El autor confirma N40-6 de forma expresa: "Si conservamos N40-6, Kal entiende demasiado y luego afirma que no entiende. Cortarlo mejora el POV."
+- **Dudosos que se aplican:** N36-2, N36-3, N39-2, **N40-10** (que el auditor recomendaba conservar), N40-11, N40-12 y N41-3.
+- **Dudosos que se conservan:** N36-4, N37-2, N38-5, N38-6 y N35-3.
+- **El 42 sigue cerrado.** La microcostura del 38 y Camp Alder quedan protegidos.
+- **Residuo de continuidad del 39 (§2): cortar.**
+- Criterio del autor: "quitar certificación, no quitar novela".
+
+**Ejecución:** cada candidato se rebasó contra el `develop` vigente. Para aplicarlo, el texto tenía que aparecer una sola vez y en la prosa, no en la metadata. Se aplicaron los **35 cambios** (27 firmes, 7 dudosos y C39-Danny), sin sumar nada. Los estados no cambian: todo sigue en BORRADOR. Cada cabecera de capítulo lleva su nota.
+
+| Cap. | Cambios | Palabras |
+|---|---|---:|
+| 35 | N35-1, N35-2 | −18 |
+| 36 | N36-1, N36-2, N36-3 | −35 |
+| 37 | N37-1 | −8 |
+| 38 | N38-1 a N38-4 | −29 |
+| 39 | N39-1, N39-2, C39-Danny ("Ahora sí tenía qué contestarle a Danny.") | −46 |
+| 40 | N40-1 a N40-12, más el lote 89 / 125 / 211 / 225 | −172 |
+| 41 | N41-1, N41-2, N41-3 | −43 |
+| 43 | N43-1, N43-2, N43-3 | −11 |
+| **Total** | **35** | **−362** |
+
+El before/after exacto de cada cambio es el de las tablas de §1. La cifra real (−362) supera la estimada (−265 + ~60) porque N40-6 y N39-1 eran más largos de lo calculado y porque se sumaron N40-10 y C39-Danny.
+
+**Costuras revisadas:**
+- 40:216 → 218: la línea de Livia ("…cómo se ve una desde cerca.") pasa a "Chiara no respondió eso." La interioridad de Kal queda sólo en 221, que es la lectura limitada.
+- 40:304 → 306: "Yo no puedo darte el avión, lo necesito." pasa a "Kal no le preguntó por qué lo necesitaba." La ambigüedad del jet queda abierta para el 41.
+- 40:143: "Nadie lo dijo en voz alta. Kal se sentó donde le señalaron." Ahora es la silla contra la pared la que lo dice.
+- 40:347: "*el señor Mercer no es parte de esta casa*." Ya no contradice a 193.
+- 38:716: "Un silencio corto del otro lado. Después:" pasa a la línea canon de Marisol.
+- 39:216: el párrafo cierra en "calculando quién de los dos iba a necesitar saber qué y cuándo."
+- 43:202: "Nadie le dijo a dónde iba." La garita lo revela.
+
+**Qué ya hacía la escena (resumen):** en todos los casos, el gesto, el objeto o la línea anterior ya entregaba la lectura que el narrador repetía: la silla, la fotografía, "Se nota", "rendición y orden", "Siempre es a esa hora", la casa "de Chiara". Lo que se conserva es la interioridad que sólo el POV puede dar (221, 199, 349, 223, 388 sin el inciso) y todas las firmas de taller, cuentas, deuda y casa.
+
+**Detenido:** no hay segunda pasada. Lo siguiente es la lectura postoperatoria del autor y después la lectura corrida (encargo §9).

@@ -15,6 +15,7 @@ Función: la otra mitad de Palermo, desde Chiara. Muestra lo que Kal no pudo ver
 - Cierre literal en: "—Y no le digas nada a Kal todavía." Sin coda posterior.
 
 > **CORRECCIÓN QUIRÚRGICA (2026-09-22, Claude Sonnet 5, encargo del autor):** arquitectura aprobada intacta; se corrigió (1) metadata temporal — Kal aterriza a media tarde, no por la mañana; (2) fuga de POV en la apertura — se retiró información del Cap. 39 que Chiara no puede conocer (maleta, frase repetida); (3) descripción del cabello reducida a dato físico puro, sin interpretar el gesto; (4) Torre Norte verificada como canon existente en [[05_Locations/El_Penthouse]], se conserva; (5) cronología de la camioneta corregida — la cámara registra el día que llegó el sobre, antes de que Matteo se fuera, no esa misma noche; Bonnie lo confirma explícitamente ("¿Cuándo la grabaron?" / "Antes de que Matteo se fuera. No es de esta noche."); (6) "una mujer puso a Kal sobre la mesa" pasa a ser un movimiento institucional de la Mesa, sin atribuírselo a Livia por nombre; (7) "un hombre cerca de mi asiento deja de ser mío" pierde la lectura posesiva y pasa a "vinculado a mi asiento... se vuelve reclamable"; (8) se separó causalmente Palermo (por qué Chiara no llama a Kal) del coche de Matteo (por qué existe la investigación) — se retiró "Por eso el coche." y se insertó el corte "¿Y el coche? / Es otra cosa."; (9) se eliminó "tú no le perteneces a nadie todavía. Eres tuya." — reemplazada por la lógica de escalamiento de Chiara ("contigo esto sigue siendo un coche. Con Kal deja de serlo."), que no reclama a Bonnie y prepara la objeción de Kal en el 42; (10) el hallazgo del contacto de Bonnie pasa por listas de control de seguridad del Monarch, no por una agenda de invitados; (11) el cierre pierde el vocativo "Bonnie" para calzar con la línea literal pedida. No se tocó "—Nada.", ni la confesión de que decidió por él, ni el final con "todavía". Sin EPUB, commit ni push.
+**Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N41-1, N41-2, N41-3. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
 # Capítulo 41 — La otra mitad
@@ -47,7 +48,7 @@ Chiara se sentó en la silla que no era suya.
 
 Sobre el escritorio había tres carpetas que en cualquier otra semana habrían llegado directamente a manos de Matteo: una aprobación de nómina para la sala privada, pendiente desde hacía cuatro días; un contrato de mantenimiento del sistema de climatización que alguien había firmado a medias, esperando la segunda firma que nadie sabía a quién pedirle ahora; y una llamada, ya registrada dos veces en la libreta de la recepción, de un proveedor de licores preguntando a quién debía facturarle desde que "el señor Bellacorte" había dejado de contestar.
 
-Firmó la nómina. Dejó el contrato para el día siguiente. Le devolvió la llamada al proveedor ella misma, con la voz exacta que usaba para cerrar cualquier cosa sin dejar preguntas abiertas.
+Firmó la nómina. Dejó el contrato para el día siguiente. Le devolvió la llamada al proveedor ella misma.
 
 Llamó después a Fabrizio, por la mantelería de un evento que Matteo había dejado a medio resolver antes de irse.
 
@@ -61,7 +62,7 @@ Contestó al quinto timbre, no al segundo.
 
 Colgó antes de que ella terminara de decir que no había más que decir.
 
-Chiara se quedó con el teléfono todavía en la mano, mirando la puerta con el nombre de Matteo, y guardó el dato donde guardaba todo lo que todavía no tenía forma: en un sitio aparte, sin decisión tomada, para revisarlo después con más tiempo del que tenía esa noche.
+Chiara se quedó con el teléfono todavía en la mano, mirando la puerta con el nombre de Matteo, y guardó el dato para revisarlo después, con más tiempo del que tenía esa noche.
 
 ---
 
@@ -141,7 +142,7 @@ Bonnie no dijo nada. Esperó.
 
 —¿Por qué no se lo explicó ahí mismo?
 
-—Porque explicarlo delante de esa mesa habría sido peor que decirlo. —Chiara lo dijo sin defenderse, con la misma voz con la que cerraba cualquier otro dato del día—. Quise protegerlo. Y decidí por él lo que era, sin preguntarle. Las dos cosas son ciertas.
+—Porque explicarlo delante de esa mesa habría sido peor que decirlo. —Chiara lo dijo sin defenderse—. Quise protegerlo. Y decidí por él lo que era, sin preguntarle. Las dos cosas son ciertas.
 
 Bonnie se recargó apenas en la silla.
 

@@ -19,13 +19,14 @@ Función: cierra H19 en prosa. Muestra a Kal decidiendo no cruzar una puerta que
 - Cierre: Kal bajo custodia de Camp Alder. Imagen concreta de acceso que se cierra, sin explicar el paralelo con la puerta del penthouse. Corte inmediato.
 
 > **CORRECCIÓN QUIRÚRGICA (2026-09-22, mismo agente, mismo día, encargo del autor):** estructura aprobada intacta. Se corrigió: (1) Dario ya no fija duración de ventana ("cuarenta minutos, ni uno más" retirado) ni aporta ruta/punto de entrada — sólo confirma que va a cumplir su parte de distracción; (2) se podó granularidad táctica del perímetro (garitas, radios, camionetas, sectores, lectura de "dónde deja de mirar la gente") y de los preparativos del Patio (ruta y hora exacta con Nadir/Garrett); (3) se retiró el reloj operativo "cuarenta minutos / llevamos veintidós", sustituido por tensión sin cifra (el ruido cambia de tono); (4) se resolvió la contradicción de la puerta: Kal ya no "sabe que ella abriría" — no sabe si está del otro lado, y no necesita saberlo; (5) se podó la sobreexplicación de la escena de la puerta (de tres frases sobre "el peligro está en él" a una alusión mínima vía la propia mentira a medias que le ofreció); (6) se redujo el repaso de F1 a un residuo mínimo; (7) "entre los tres" se volvió impersonal; (8) se retiró el ángulo táctico de cobertura de Kal; (9) se redujo la geografía del arresto ("a menos de un kilómetro... camino de tierra paralelo a la cerca" pasa a "un camino rural cerca del perímetro"); (10) se retiró el checklist de silencio (Halbrook/Dario/expediente/armas) por "contestó lo indispensable"; (11) se simplificó la transferencia federal (sin "enseñaron algo... firmaron un papel"); (12) se eliminaron las dos frases finales que explicaban el paralelo puerta-penthouse/reja-Camp Alder ("pensó... puerta distinta" y "ésta no la decidió él"); la última línea queda "El vehículo avanzó hacia el interior de la base, y la reja terminó de cerrarse detrás." sin glosa posterior. No se tocó: apertura del loft, equipo completo en El Patio, ausencia de Chiara, expediente sin abrir, armas sin especificar, gesto de Héctor con Nadir, salida de Danny y Garrett, decisión de Kal de quedarse, orden municipal→federal. Sigue BORRADOR. Sin EPUB, commit ni push.
+**Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N43-1, N43-2, N43-3. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
 # Capítulo 43 — La puerta
 
 El loft tenía la misma luz de siempre a esa hora, entrando en franjas por la persiana que nunca cerraba del todo, y aun así el silencio era distinto. Kal se quedó un momento bocarriba antes de moverse, escuchándolo como quien revisa un motor que suena raro sin saber todavía por qué.
 
-No había dormido bien. No hacía falta preguntarse por qué.
+No había dormido bien.
 
 Se levantó, se lavó la cara, y en la cocina encontró la cafetera exactamente donde Chiara la dejaba siempre, en el mismo ángulo, con el filtro que ella usaba y él nunca había aprendido a comprar bien. La llenó de agua, la puso a andar, y se quedó de pie esperando el café sin pensar en nada que pudiera nombrar después.
 
@@ -35,7 +36,7 @@ Salió del loft antes de las ocho, dejando la taza sin lavar en el fregadero, y 
 
 ---
 
-El Patio ya tenía movimiento cuando llegó. Nadir estaba con Danny junto a la grúa, contando algo en voz baja que no sonaba a dinero por primera vez en mucho tiempo. Héctor estaba sentado en el capó de siempre, con una taza de algo que humeaba, mirando hacia la calle como si esperara que Kal llegara exactamente a esa hora.
+El Patio ya tenía movimiento cuando llegó. Nadir estaba con Danny junto a la grúa, contando algo en voz baja que no sonaba a dinero por primera vez en mucho tiempo. Héctor estaba sentado en el capó de siempre, con una taza de algo que humeaba, mirando hacia la calle como si esperara que Kal llegara a esa hora.
 
 —Ahí está —dijo Nadir, sin levantar del todo la vista—. Pensé que ibas a quedarte dormido.
 
@@ -199,7 +200,7 @@ No se presentaron como policías. Hablaron con los agentes en un tono que no dej
 
 Lo sacaron esposado, lo metieron en otro vehículo, distinto al primero, y condujeron de vuelta hacia el noreste, más allá de Kingsley Field, por la misma carretera rural que había recorrido esa noche en sentido contrario.
 
-Nadie le dijo a dónde iba. No hacía falta preguntarlo.
+Nadie le dijo a dónde iba.
 
 ---
 
