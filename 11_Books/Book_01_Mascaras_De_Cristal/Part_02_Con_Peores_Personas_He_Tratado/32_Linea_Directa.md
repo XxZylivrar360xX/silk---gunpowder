@@ -1,5 +1,6 @@
 <!--
 Estado: BORRADOR — Capítulo 32 de la Parte II. Redactado 2026-09-20, Claude Code, encargo del autor. Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] § 9 parte 3): prolepsis final y salto a Chiara cortados, glosas del procedimiento cortadas, cronología interna ("Días después" / "dos semanas después"), coche de Lucia sin "sedán", bloque de DISEÑO metido en el comentario (el EPUB vigente todavía lo lleva impreso). E9 (2026-09-27): escena de Irene insertada tras "Lo archivó, junto con el resto, y volvió al taller." (cita por Walt, Canal Seco, Tomás cachea y cuenta el carro, Nadir sale de la mercancía, favor abierto aceptado sin regateo, "Ahora sí me debe, señor Mercer.", cola de Nadir "Porque ya alcanzó.") e hilo A en la coda ("¿Y el Canal Seco?"). Redacción del agente: BORRADOR/DISEÑO hasta lectura del autor. Sigue BORRADOR. Renumerado en cascada el mismo día tras la aprobación del autor: este capítulo pasó de nombre provisional (31b) a Cap. 32; La periferia pasó de 32 a 33; Mi pareja pasó de 33 a 34. Ver `98_Agent_Handoff/CURRENT_BRIEF.md` y `98_Agent_Handoff/PENDING.md` para el detalle de la integración.
+Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 4 cortes (N32-1 a N32-4) y atribución de "Ahora sí me debe" a Irene; sigue BORRADOR.
 POV: Kal Mercer, único, sin excepción.
 Protagonistas: Kal Mercer, Lucia Varek. Aparición breve: Irene Salcedo y Tomas Vale (Canal Seco, E9), Walter Keegan (recado), Nadir Amrani (cola de Irene), Hector Navarro (taller), Chiara Bellandi (coda). Nombrados sin aparición: Eddie Sosa (Los Bravos de Santa Brigida), Rafael "Rafe" Dominguez (mencionado, no aparece), un tercero nuevo y menor: Portillo, dueño de un taller de neumáticos en Las Calderas (aparición mínima, sin diálogo directo, mencionado por Hector).
 Ventana temporal: arranca a la mañana siguiente del Cap. 31 (Vamos a casa: el sillón) y se extiende cerca de dos semanas (contacto, decision, resultado, segundo contacto: Lucia vuelve "dos semanas despues"). Sin fecha exacta. (Nota de continuidad con el Cap. 33 retirada 2026-09-27: el 33 ya dice "varios dias despues del Cap. 32".)
@@ -38,7 +39,7 @@ Almendra Towing a esa hora tenía el ritmo de siempre: una grúa saliendo con el
 
 Kal llevaba media hora bajo un Corolla ajeno cuando oyó el coche entrar. No era una grúa, ni un cliente, ni la patrulla que pasaba los martes a revisar el convenio. Era un coche gris, sin marcas, conducido por alguien que no dudó dónde estacionarse.
 
-Salió de debajo del auto limpiándose las manos con un trapo que ya no limpiaba nada, y la reconoció antes de que ella cerrara la puerta.
+Salió de debajo del auto limpiándose las manos con un trapo, y la reconoció antes de que ella cerrara la puerta.
 
 Lucia Varek no llevaba uniforme. Llevaba una carpeta bajo el brazo y el mismo aire de alguien que no improvisa nada.
 
@@ -49,8 +50,6 @@ Lucia Varek no llevaba uniforme. Llevaba una carpeta bajo el brazo y el mismo ai
 Ella miró el patio, el letrero, la fila de camiones, sin prisa, como quien lee un lugar antes de hablar en él.
 
 —Vengo por el convenio de grúa. Toca renovarlo este trimestre y alguien en el Departamento decidió que había que revisar los términos en persona, no por correo.
-
-Kal sabía, sin que nadie se lo dijera, que una subjefa no entregaba papeles de rutina. Eso ya era información, y ella probablemente lo sabía tan bien como él.
 
 —Eso normalmente lo maneja alguien de logística.
 
@@ -126,8 +125,6 @@ Llamar al número no fue simple.
 
 Contestó un operador que le pidió su nombre completo, después una recepcionista que lo pasó a un escritorio, después alguien que anotó todo dos veces porque la primera vez, dijo, "el sistema se cayó". Kal repitió lugar, día, hora aproximada y la descripción del Charger tres veces distintas a tres voces distintas, y colgó sin que nadie le dijera qué iba a pasar con eso.
 
-Se quedó mirando el teléfono un momento, pensando que si alguna vez tenía algo que de verdad importara, ese circuito de escritorios era exactamente el tipo de cosa que no podía permitirse.
-
 Lo archivó, junto con el resto, y volvió al taller.
 
 ***
@@ -200,7 +197,7 @@ Irene lo miró por encima de la libreta, con el lápiz quieto.
 
 —Hoy no.
 
-Tomás descruzó los brazos.
+Tomás descruzó los brazos. Irene bajó la vista a la libreta.
 
 —Ahora sí me debe, señor Mercer.
 
@@ -262,7 +259,7 @@ Lucia volvió al taller dos semanas después de la primera visita, cerca del cie
 
 —No dijo eso. No dijo nada, hasta que llamó.
 
-Kal no discutió el punto. Estaba limpiando una llave que ya estaba limpia, más por tener algo en las manos que por necesidad.
+Kal no discutió el punto. Estaba limpiando una llave que ya estaba limpia.
 
 —¿Y ahora qué?
 

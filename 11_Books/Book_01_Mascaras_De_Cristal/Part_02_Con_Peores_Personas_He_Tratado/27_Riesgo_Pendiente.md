@@ -1,5 +1,6 @@
 <!--
 Estado: BORRADOR — segundo capítulo de la Parte II (*Con peores personas he tratado*). Pendiente de revisión del autor. Cirugía editorial E5 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): cronología fija de ~24 h, POV y glosas; sigue BORRADOR.
+Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 1 corte (D-2); sigue BORRADOR.
 Protagonistas: Kal Mercer (POV único). Apariciones: Warren Halbrook; dos contratistas sin nombre.
 Ventana temporal: el mismo día que cubre el Cap. 26 (unas 24 horas) desde el lado de Chiara, en paralelo. Arranca de madrugada, después de la noche del jacuzzi (Cap. 25) y la advertencia de Varek; Kal recibe la llamada mientras Chiara duerme. Termina al amanecer del día en que vuelve a San Aurelio — enganche directo con el Cap. 28 (H6).
 Lugares: El Penthouse del Monarch (madrugada); la carretera al noreste; una instalación federal clausurada fuera de San Aurelio (deliberadamente sin ubicar — "cuatro horas al noreste", un hangar, oficinas con mobiliario de gobierno).
@@ -65,7 +66,7 @@ Al final mandó lo único que era verdad sin ser un mapa.
 
 *Salí de la ciudad por una situación externa. Me encuentro bien. Te veo al volver.*
 
-Cinco y cuarenta. Lo vio salir con la marca de la hora y supo, en el mismo segundo, cómo lo iba a leer ella. *Me encuentro bien* era una respuesta, y él le estaba respondiendo algo que ella todavía no había preguntado.
+Cinco y cuarenta. Lo vio salir con la marca de la hora y supo, en el mismo segundo, cómo lo iba a leer ella.
 
 Lo mandó igual. La alternativa era el silencio, y el silencio con ella era peor: el silencio lo llenaba ella sola, y lo llenaba siempre con la peor versión.
 

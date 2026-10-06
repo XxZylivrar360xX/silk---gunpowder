@@ -1,5 +1,6 @@
 <!--
 Estado: BORRADOR — tercer capítulo de la Parte II (*Con peores personas he tratado*). Pendiente de revisión del autor. Cirugía editorial E5 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): cronología fija de ~24 h, POV y glosas; sigue BORRADOR.
+Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 3 cortes (N28-1 a N28-3); diálogo intacto; sigue BORRADOR.
 Protagonistas: Chiara Bellandi (POV único). Apariciones: Kal Mercer.
 Ventana temporal: la misma noche de la confrontación del taller del norte (Cap. 26) y el amanecer siguiente (unas 24 horas después de la salida de Kal). Abre con Chiara en el loft y Kal llegando al amanecer; cierra con Kal saliendo a ver a Varek y deja el enganche directo con el Cap. 29.
 Lugares: el loft (la casa recomprada de Dale y Ruth Mercer, diseñada por Chiara; H14). Mezzanine, escalera lateral, balcón conservado. Referencia externa: el bloque de los Bravos al sur (recon de Chiara, fuera de escena hasta el relato).
@@ -15,7 +16,7 @@ Función: CANON DEL AUTOR. Cierra H5 (sección 14 — "La peor noche" / la sudad
 - H6 §4: Chiara concluye que quedándose no resuelve nada y va tras él. Cierre del capítulo: desde el balcón lo ve salir "a toda velocidad en el coche, como un diablo".
 - AMPLIACIÓN (2026-09-16, encargo del autor): la sudadera y la vigilancia dejan de ser sólo atmósfera y se apoyan en indicios reales. Durante la ausencia de Kal, Chiara detectó un patrón (mismo sedán oscuro cerca de El Patio y luego a media cuadra del loft, sin placa visible, dos veces desaparecido al mirarlo de frente) y lo atribuyó a la amenaza de Varek en H15 ("lo va a hacer seguir"). La atribución es razonable y **incorrecta**: el sedán es del aparato de Halbrook (sembrado en el Cap. 27), interesado en Nadir/Kal, no en Varek. No se resuelve la autoría en este capítulo; Kal empieza a sospecharlo por las preguntas que hace, nunca lo dice.
 - NUEVO — las fotografías: antes de esta noche, en la ausencia de Kal, Chiara hizo por iniciativa propia una operación de vigilancia discreta (paciencia, posición, horarios; sin ser vista, sin armas, sin errores técnicos) sobre un punto del bloque de los Bravos al sur, después de que alguien preguntara demasiado por Kal en el barrio y Walt reportara movimiento raro. La información es buena (placas, rostros, entradas/salidas). El conflicto no es la calidad del trabajo — es que fue ella, en persona, quien se expuso. Motivación no verbalizada por el narrador: en esta crisis puntual, Kal se volvió emocionalmente el único plan, en lugar de activar el sistema de redundancias/intermediarios que Chiara usa normalmente ([[03_Factions/Red_Civil_de_Chiara]], i Sussurri). Sólo se entenderá del todo en el Cap. 30.
-- NUEVO — discusión de autonomía/protección: núcleo dramático añadido. Ambos descubren en el otro el mismo comportamiento que se permiten a sí mismos (asumir solo el riesgo, ocultar información "para proteger"). Kal llega a proponer, seco y práctico, parar lo que están construyendo antes de que la exposición de ella empeore; Chiara sostiene su autonomía sin rogar ni reclamar exclusividad. Las líneas canon de H6 §2 quedan con doble significado: la posible ausencia impuesta por Halbrook Y la posible ausencia que Kal mismo acaba de proponer. Kal roza, sin saberlo del todo, la misma lógica de control de Varek ("no vuelvas a hacerlo sola" / "no me digas qué puedo hacer" / "no era una orden" — "sonó como una") y se detiene solo, a diferencia de Varek. NO equiparar moralmente a los dos.
+- NUEVO — discusión de autonomía/protección: núcleo dramático añadido. Ambos descubren en el otro el mismo comportamiento que se permiten a sí mismos (asumir solo el riesgo, ocultar información "para proteger"). [SUPERSEDIDO por la reconstrucción del 2026-10-01: Kal ya no propone parar; dice "No voy a ser más un problema para ti. Es posible que esta noche me tenga que ir." Referencias del 29 y el 31 alineadas el 2026-10-06] Kal llega a proponer, seco y práctico, parar lo que están construyendo antes de que la exposición de ella empeore; Chiara sostiene su autonomía sin rogar ni reclamar exclusividad. Las líneas canon de H6 §2 quedan con doble significado: la posible ausencia impuesta por Halbrook Y la posible ausencia que Kal mismo acaba de proponer. Kal roza, sin saberlo del todo, la misma lógica de control de Varek ("no vuelvas a hacerlo sola" / "no me digas qué puedo hacer" / "no era una orden" — "sonó como una") y se detiene solo, a diferencia de Varek. NO equiparar moralmente a los dos.
 - Las fotografías sobreviven el capítulo sin destruirse ni resolverse: Kal las reconoce útiles pero es Chiara quien, antes de salir tras él, las recoge y se las lleva (no sabe todavía para qué; no deja información útil en una casa vacía). Preparan su función en el Cap. 30 (Kal se las pedirá; primer activo informal de la futura relación El Patio–i Sussurri; no fundar esa alianza aquí).
 Regla 5 (se protegen mintiéndose), visible en ambos lados:
 - Kal NO le da el nombre de Halbrook (protege el hilo). Deflecta sin negar cuando ella supone que fue Varek — el capítulo NO resuelve la ironía.
@@ -141,7 +142,7 @@ Le mostró el teléfono, desde lejos, como si él no supiera lo que había escri
 
 Kal no contestó eso.
 
-—Y en el casino —siguió ella— Varek había sacado su coche a la misma hora. Hacia el norte. Hacia Kingsley. —Lo dijo sin adornarlo—. Lo seguí. Terminó en tu taller.
+—Y en el casino —siguió ella— Varek había sacado su coche a la misma hora. Hacia el norte. Hacia Kingsley. Lo seguí. Terminó en tu taller.
 
 —En un taller mío. ¿Quién?
 
@@ -185,7 +186,7 @@ Kal se apoyó con las dos manos en el borde de la barra, como si necesitara algo
 
 Chiara lo dejó terminar. Después dijo lo que llevaba la noche entera armando.
 
-—He estado dándole vueltas. Toda la noche. —Se le acercó otro paso—. ¿Te acuerdas de lo que me contaste? Que hubo un hombre. El general. El de los convoyes, el que hizo toda esa mierda con los niños, y que se fue limpio. —No le tembló la voz al decir *niños*; la cuidó para que no temblara—. Dime que tienes alguna forma de encontrarlo. Alguna. Necesito que tengas alguna forma de saber dónde está. Porque si lo consigues, quedas fuera de todo.
+—He estado dándole vueltas. Toda la noche. —Se le acercó otro paso—. ¿Te acuerdas de lo que me contaste? Que hubo un hombre. El general. El de los convoyes, el que hizo toda esa mierda con los niños, y que se fue limpio. —No le tembló la voz al decir *niños*—. Dime que tienes alguna forma de encontrarlo. Alguna. Necesito que tengas alguna forma de saber dónde está. Porque si lo consigues, quedas fuera de todo.
 
 Kal levantó la cabeza.
 
@@ -229,7 +230,7 @@ Chiara no dijo nada, y ese silencio fue lo que lo hizo mirar hacia la puerta. La
 
 —¿Qué glorieta?
 
-—La del sur. —Lo dijo como se recuerda una cosa en voz alta para otro—. En Villani, con las llaves del Lancia en la mano. Que los Bravos estaban moviendo algo por la glorieta, que si un día podía echarle un ojo desde el casino. Le di vueltas a todo lo que me dijiste. No sé si es esto. Había una zona con coches.
+—La del sur. En Villani, con las llaves del Lancia en la mano. Que los Bravos estaban moviendo algo por la glorieta, que si un día podía echarle un ojo desde el casino. Le di vueltas a todo lo que me dijiste. No sé si es esto. Había una zona con coches.
 
 —Ah. Sí. —Desdobló las copias sobre la barra, al lado del grifo—. La zona de las casas grandes. Correcto.
 

@@ -1,5 +1,6 @@
 <!--
 Estado: BORRADOR — cierra la Parte II (Cap. 34 de 34). Redactado 2026-09-20, Claude Code, encargo del autor. Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]], § 9 parte 4). Ampliación de diálogo cómico 2026-10-04 (material del autor, ver abajo); sigue BORRADOR, pendiente de lectura del autor.
+Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 2 cortes (N34-1, N34-2); gag intacto; sigue BORRADOR.
 Renumerado en cascada (2026-09-20, encargo del autor): se insertó el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Cap. 32 — Línea directa]] (Kal/Lucia Varek) antes de "La periferia". Este archivo pasó de 33 a 34; "La periferia" (hoy *Más de la cuenta*) pasó de 32 a 33.
 Protagonistas: Kal Mercer (POV único). Chiara Bellandi. En escena al abrir: Walt Keegan. Voces sólo por teléfono: Dario Varek, Danny Hayes, Nadir Amrani (altavoz), Marisol Grayson. Mencionados sin aparición: Kenji Oda; la viuda (clienta del Monarch, sin nombre).
 Ventana temporal: semanas después del Cap. 33 (Más de la cuenta), sin fecha exacta — mismo tipo de elipsis que abre ese capítulo.
@@ -248,7 +249,7 @@ No lo decidió. Su pie fue al freno antes de que el resto de él entendiera por 
 
 —¡¿Qué?!
 
-Kal empezó a mover el volante de un lado a otro, un centímetro, con el coche ya detenido y sin ninguna razón mecánica para tocarlo. Sus manos necesitaban algo que hacer y el volante era lo único a la mano.
+Kal empezó a mover el volante de un lado a otro, un centímetro, con el coche ya detenido y sin ninguna razón mecánica para tocarlo.
 
 —Estamos parados, Kal.
 
@@ -445,8 +446,6 @@ Kal colgó sin despedirse.
 El Audi se quedó a oscuras por dentro salvo por la luz del tablero. Afuera, la última claridad del día se apagaba despacio sobre los techos de lámina de las naves vecinas, y algo se movía entre la maleza junto a las vías —un perro callejero, tal vez, o algo más pequeño— sin que ninguno de los dos volteara a mirar.
 
 —Eso —dijo Chiara, con la voz distinta, ya sin filo— te costó más que el efectivo de este auto.
-
-No era una acusación. Era casi ternura disfrazada de cifra.
 
 Afuera, del lado de las vías, un tren de carga empezó a moverse con ese chirrido largo de metal contra metal que tardaba minutos en apagarse.
 

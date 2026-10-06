@@ -1,5 +1,6 @@
 <!--
 Estado: BORRADOR — cuarto capítulo de la Parte II. Pendiente de revisión del autor. Cirugía editorial E6 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): auto (Peugeot), mesa de Vivian compactada, continuidades chicas y salto de POV; sigue BORRADOR.
+Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 7 cortes (N29-1 a N29-6, D-4) y continuidad: llamada de "tres palabras" y cita del 28 alineada a "no voy a ser más un problema para ti" / "tenía que irse"; sigue BORRADOR.
 Protagonistas: Kal Mercer (POV único). Apariciones: Dario Varek, Vivian "VV" Varek, Chiara Bellandi (segunda mitad).
  Ventana temporal: continúa de inmediato el cierre del Cap. 28 — el mismo amanecer, minutos después de que Kal salga del loft.
 Lugares: la mansión de Varek (sin ficha propia; PENDIENTE en San_Aurelio.md). Patio interior. La Ronda Exterior, de vuelta hacia San Aurelio.
@@ -31,9 +32,9 @@ Continuidad:
 
 # Capítulo 29 — El patio ajeno
 
-La llamada había durado nueve palabras de él y cuatro de Varek. *Ven ahora. Sabes dónde.* Kal condujo con las dos manos en el volante y las costillas contestándole en cada bache, y no bajó la velocidad hasta que la reja de tela metálica del barrio quedó atrás y empezaron las otras rejas, las que no eran de nadie que él conociera.
+La llamada había durado tres palabras de él y cuatro de Varek. *Ven ahora. Sabes dónde.* Kal condujo con las dos manos en el volante y las costillas contestándole en cada bache, y no bajó la velocidad hasta que la reja de tela metálica del barrio quedó atrás y empezaron las otras rejas, las que no eran de nadie que él conociera.
 
-Detrás quedaban el loft, las fotografías alineadas sobre la barra, y la frase que había dicho sin medirla del todo —*a lo mejor lo cortamos antes de que se vuelva otra cosa*— junto con la cara de Chiara al no contestarla como él esperaba. No tuvo tiempo de pensar en nada de eso con cuidado. Lo llevaba encima de todos modos, mezclado con el dolor del costado, ya casi indistinguible de él.
+Detrás quedaban el loft, las fotografías alineadas sobre la barra, y la frase que había dicho sin medirla del todo —*no voy a ser más un problema para ti*— junto con la cara de Chiara al no contestarla como él esperaba. No tuvo tiempo de pensar en nada de eso con cuidado. Lo llevaba encima de todos modos, mezclado con el dolor del costado, ya casi indistinguible de él.
 
 El cuerpo le estaba pasando la factura con retraso, como siempre. La adrenalina que lo había sacado del loft y metido en el coche todavía le tapaba la mitad del dolor; la otra mitad se la iba a cobrar en cuanto se detuviera. No se detuvo.
 
@@ -41,7 +42,7 @@ La casa de Varek no anunciaba nada desde la calle. Un muro alto, cámaras discre
 
 —Lo esperan en el patio, señor Mercer. Deje el coche donde le indique el compañero.
 
-Más adelante, otro hombre le hizo una seña con el índice hacia un hueco exacto entre dos setos, como si llevara toda la mañana reservado para él y para nadie más. Nadie le pidió las llaves. Nadie le pidió que se identificara dos veces. Un tercero le abrió la puerta lateral antes de que Kal llegara a tocarla, sin preguntarle si iba a entrar por ahí. Caminó los últimos metros con la sensación exacta —y no era la primera vez que la tenía en esa casa— de que desde que cruzó la reja alguien llevaba la cuenta de dónde estaba.
+Más adelante, otro hombre le hizo una seña con el índice hacia un hueco exacto entre dos setos, como si llevara toda la mañana reservado para él y para nadie más. Nadie le pidió las llaves. Nadie le pidió que se identificara dos veces. Un tercero le abrió la puerta lateral antes de que Kal llegara a tocarla, sin preguntarle si iba a entrar por ahí. Caminó los últimos metros con la sensación —y no era la primera vez que la tenía en esa casa— de que desde que cruzó la reja alguien llevaba la cuenta de dónde estaba.
 
 Eso también era información.
 
@@ -83,7 +84,7 @@ Varek levantó el vaso sin beber todavía y lo giró despacio, dejando que el hi
 
 —Camp Alder.
 
-El nombre no hizo ruido. Pero algo en el patio cambió de todos modos, un grado, como cuando pasa una nube fina delante del sol y nadie mira hacia arriba para confirmarlo. Varek sabía qué era Camp Alder. No hacía falta que lo dijera.
+El nombre no hizo ruido. Pero algo en el patio cambió de todos modos, un grado, como cuando pasa una nube fina delante del sol y nadie mira hacia arriba para confirmarlo.
 
 —¿Qué hay dentro?
 
@@ -133,7 +134,7 @@ Kal no contestó enseguida. Dejó pasar el tiempo suficiente para que pareciera 
 
 Varek se recostó, con el vaso apoyado en la pierna.
 
-—Deja de ser proveedor. Entra. —No lo dijo como una lista; lo dijo como quien explica una vez y espera que baste—. Sus problemas dejan de ser sólo suyos. Y los míos, desde hoy, un poco suyos también. —Una pausa exacta—. Su gente opera bajo su nombre. Y su nombre queda bajo el mío.
+—Deja de ser proveedor. Entra. Sus problemas dejan de ser sólo suyos. Y los míos, desde hoy, un poco suyos también. —Una pausa exacta—. Su gente opera bajo su nombre. Y su nombre queda bajo el mío.
 
 —¿Toda mi gente?
 
@@ -165,7 +166,7 @@ Se sentó en el borde de una tumbona sin que nadie se lo ofreciera —la misma c
 
 —Ya cerré en dieciocho. —Ni una disculpa en la voz—. No iba a dejar que se les hiciera costumbre.
 
-Varek asintió una vez, con algo parecido a la aprobación que un hombre le da a un balance que ya sabía que iba a cuadrar.
+Varek asintió una vez.
 
 —¿No tenías el taller esta mañana? —preguntó Varek.
 
@@ -235,7 +236,7 @@ Kal no se movió. Por dentro, algo terminó de encajar: el Lancia, el hombre al 
 
 —Su activo —dijo Varek, sin prisa, saboreando la palabra que le acababan de prestar— lleva cuarenta y tres minutos frente a mi casa. Vamos a ver qué tan limpia se mantiene cuando la siento a esta mesa.
 
-No era una pregunta. Se lo dijo ya de pie, con una seña hacia uno de los hombres del muro.
+Se lo dijo ya de pie, con una seña hacia uno de los hombres del muro.
 
 —Tráiganla.
 
@@ -245,7 +246,7 @@ Chiara entró al patio caminando como si la hubieran invitado desde el principio
 
 —Chiara. —Varek le señaló la silla vacía, la tercera que alguien había traído sin que nadie lo pidiera—. Justo a tiempo. Le estaba ofreciendo al señor Mercer una silla más cerca de esta casa.
 
-Fue un segundo. Menos de un segundo. Kal vio la información entrar en ella y vio que no se le movió nada en la cara —ni sorpresa, ni alivio, ni pregunta. Era la misma cara que le había visto horas antes, en la cocina del loft, cuando él le dijo que a lo mejor debían parar: la cara de alguien decidiendo en tiempo real qué mostrar y qué no. Y Kal, al mismo tiempo, sin haberlo hablado, sin haberlo ensayado ni una vez, entendió exactamente lo mismo que esa habitación necesitaba de él.
+Fue un segundo. Menos de un segundo. Kal vio la información entrar en ella y vio que no se le movió nada en la cara —ni sorpresa, ni alivio, ni pregunta. Era la misma cara que le había visto horas antes, en la cocina del loft, cuando él le dijo que a lo mejor tenía que irse: la cara de alguien decidiendo en tiempo real qué mostrar y qué no.
 
 —Qué generoso de su parte —dijo Chiara, y se sentó, y cruzó las piernas, y miró a Kal con la misma distancia cordial con la que hubiera mirado a un socio nuevo del casino.
 
@@ -271,7 +272,7 @@ Chiara pasó a su lado sin detenerse.
 
 —Estás loco.
 
-No bajó la voz. No la subió. Lo dijo como quien constata el clima y sigue caminando hacia su coche.
+No bajó la voz. No la subió.
 
 Kal no levantó la cabeza. No dijo *era necesario*, ni *lo hice por ti*, ni *espera*. Se quedó donde estaba, con el teléfono todavía encendido en la mano, dejando que la frase terminara de asentarse antes de hacer nada con ella.
 

@@ -1,5 +1,6 @@
 <!--
 Estado: BORRADOR — quinto capítulo de la Parte II. Pendiente de revisión del autor. Cirugía editorial E6 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): poda por movimiento, plan contra Varek bajado a pacto (V2, decisión del autor), cronología fija, POV, auto (Peugeot) y sedán; sigue BORRADOR.
+Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 12 cortes (N30-1 a N30-11, D-5); sigue BORRADOR.
 - RETRATO HALBROOK (2026-09-28, reconstrucción canónica del autor, [[02_Characters/Warren_Halbrook]]): en las cascadas, Kal ya no dice que Halbrook habló "con la misma voz con la que se pide un café" (voz administrativa retirada); ahora: "como si me estuviera haciendo el favor de explicármelo". Nada más cambia.
 Protagonistas: POV PRINCIPAL Chiara Bellandi. CODA EXCEPCIONAL (2026-09-16, autorizada explícitamente por el autor): Kal Mercer, tras corte de escena (***), el mismo día, en El Patio. Apariciones: Kal Mercer (cuerpo principal), Chiara Bellandi (mencionada, no presente, en la coda), Nadir Amrani, Walter "Walt" Keegan, Daniel "Danny" Hayes, Héctor Navarro (coda).
 EXCEPCIÓN DE POV: este capítulo rompe deliberadamente la regla habitual de POV único por instrucción directa del autor, para conectar el cierre de H6 con la apertura de H7 sin insertar un capítulo adicional. El cambio ocurre UNA sola vez, tras un corte de escena limpio, cuando Chiara ya abandonó físicamente el lugar (entró al Lancia y tomó la carretera hacia el Monarch). No hay head-hopping dentro de una misma escena y el capítulo NO vuelve a la POV de Chiara después del corte — termina en Kal.
@@ -53,7 +54,7 @@ Se sentó a su lado, no encima, cerca, con las piernas cruzadas sobre la roca fr
 
 —Te voy a contar todo —dijo Kal.
 
-No era una pregunta. Chiara esperó.
+Chiara esperó.
 
 ***
 
@@ -69,7 +70,7 @@ Kal no fingió no saber de qué hablaba.
 
 —No lo sé con certeza. Pero ahora sé a quién le conviene saber en todo momento dónde está Nadir.
 
-No era una confirmación. Era casi peor: significaba que había pasado el día entero mirando al hombre equivocado, con razones perfectamente buenas para hacerlo.
+No era una confirmación. Era casi peor: significaba que había pasado el día entero mirando al hombre equivocado.
 
 —No estabas viendo cosas que no existían —dijo Kal, como si le hubiera leído el pensamiento—. Estabas equivocada en a quién se lo atribuías. Y eso es mío, no tuyo.
 
@@ -80,8 +81,6 @@ No era una confirmación. Era casi peor: significaba que había pasado el día e
 —¿Por qué no me lo dijiste en el loft?
 
 —Porque no vi ninguna salida que no pusiera a Nadir en la línea de fuego. —La miró, por primera vez desde que empezó a hablar—. Y porque si te lo contaba, dejaba de ser mi problema y pasaba a ser nuestro problema, y llevo toda la vida sin saber compartir eso con nadie.
-
-Lo dijo sin dramatismo, como quien admite un defecto de fábrica en una máquina que de todos modos sigue usando.
 
 —¿Nadir lo sabe?
 
@@ -95,7 +94,7 @@ Chiara se quedó con eso un momento largo, escuchando el agua.
 
 ***
 
-No sintió el impulso de reclamarle nada, y eso la sorprendió un poco de sí misma. Entendía exactamente por qué lo había hecho — la lógica era tan limpia que casi dolía verla completa: un hombre sin salidas va a golpear la única puerta que conoce — y entender no era lo mismo que estar contenta.
+No sintió el impulso de reclamarle nada, y eso la sorprendió un poco de sí misma. Entendía por qué lo había hecho — la lógica era tan limpia que casi dolía verla completa: un hombre sin salidas va a golpear la única puerta que conoce — y entender no era lo mismo que estar contenta.
 
 —No me gusta —dijo, al fin—. Que decidas solo cuánto me cuentas y cuándo. Que Nadir haya sido la correa con la que te movieron y que yo me entere recién ahora, en una roca, y no en casa.
 
@@ -165,8 +164,6 @@ Chiara se quedó callada un segundo, encajando la pieza.
 
 —Ni siquiera le di el nombre.
 
-No era una solución: era un techo puesto sobre parte del problema, no sobre todo el problema.
-
 —Eso no toca lo de Halbrook —dijo.
 
 —No. No toca el expediente, no toca el papel, no toca Camp Alder. Compra presión local. Gente. Si alguien intenta algo contra Nadir en esta ciudad, primero tiene que pasar por Varek. Nada más.
@@ -191,8 +188,6 @@ Chiara no se movió.
 
 —Lo suficiente.
 
-Chiara entendió las dos cosas al mismo tiempo, sin tener que elegir una: Kal había defendido una estrategia que funcionaba, y también la había protegido, y las dos cosas cabían en la misma frase sin contradecirse.
-
 ***
 
 —¿Todavía tienes las fotografías? —preguntó Kal.
@@ -202,8 +197,6 @@ Chiara lo miró, sorprendida a medias. Horas antes esas mismas fotografías hab�
 —En el Lancia.
 
 —¿Puedo verlas?
-
-No dijo *quiero verlas otra vez*, ni *déjame revisarlas*. Preguntó permiso.
 
 Fue por el sobre y volvió, y se sentaron con las copias extendidas sobre la piedra plana, sujetas con dos guijarros para que el viento del cañón no se las llevara. Kal las miró de nuevo, más despacio que la primera vez, y esta vez habló mientras miraba.
 
@@ -219,7 +212,7 @@ Se quedaron así un momento. Ninguno de los dos había visto la fotografía comp
 
 Chiara dudó un segundo, no por desconfianza sino porque nunca lo había dicho en voz alta con esas palabras.
 
-—Gente que ya está ahí. Meseras, cajeras, valets, alguien en el casino que no parece nada. Los escucho, o los recluto. Les digo lo que necesito saber y ellos me lo hacen llegar. —Se encogió de hombros, como quien explica algo que dejó de parecerle extraordinario hace tiempo—. Los llamo, para mí misma, i Sussurri.
+—Gente que ya está ahí. Meseras, cajeras, valets, alguien en el casino que no parece nada. Los escucho, o los recluto. Les digo lo que necesito saber y ellos me lo hacen llegar. —Se encogió de hombros—. Los llamo, para mí misma, i Sussurri.
 
 Kal se quedó con eso.
 
@@ -305,7 +298,7 @@ Kal no contestó enseguida.
 
 Silencio.
 
-—Tendrías que explicarle, o mentirle, o decidir por ella sin las dos cosas. —Chiara no lo dijo como reproche. Lo dijo como quien señala un mapa—. Ya sabes cómo termina eso.
+—Tendrías que explicarle, o mentirle, o decidir por ella sin las dos cosas. —Lo dijo como quien señala un mapa—. Ya sabes cómo termina eso.
 
 Kal se quedó con la mandíbula tensa un momento.
 
@@ -391,7 +384,7 @@ Caminaron de vuelta hacia los coches sin apuro, dejando que el agua se quedara a
 
 —Es la segunda vez el día de hoy que has fallado. —Lo dijo con la misma voz plana con la que había negociado con Varek, lo cual, viniendo de él, era casi una declaración—. ¿Debo preocuparme?
 
-Chiara no contestó. Le devolvió una sonrisa ladeada, la clase que no explica nada y no necesita hacerlo, y siguió caminando hacia el Lancia.
+Chiara no contestó. Le devolvió una sonrisa ladeada y siguió caminando hacia el Lancia.
 
 Ya casi en los coches, sin voltear, como quien comenta el clima:
 
@@ -439,7 +432,7 @@ Ahí estaba. Kal lo había visto venir y no intentó esquivarlo.
 
 —Sí. Ahora. En cuanto pude ordenarlo.
 
-—Podías anoche. —No lo dijo gritando; lo dijo con la voz de alguien que hace la cuenta y no le gusta el resultado—. Podías esta mañana. Decidiste otra vez cargar tú solo con algo mío antes de decírmelo.
+—Podías anoche. —No lo dijo gritando—. Podías esta mañana. Decidiste otra vez cargar tú solo con algo mío antes de decírmelo.
 
 Kal no se defendió. No dijo *era para protegerte*, ni *no había tiempo*, ni *iba a arreglarlo antes de que te enteraras*. Se quedó con eso encima el tiempo que hizo falta.
 
@@ -547,7 +540,7 @@ Nadir se giró hacia Kal, que todavía no había dicho nada.
 
 —Voy.
 
-—¿Y ya sabes a quién más vas a invitar? —Nadir sonrió, esa clase de sonrisa que sabía exactamente lo que estaba preguntando y disfrutaba no decirlo del todo.
+—¿Y ya sabes a quién más vas a invitar? —Nadir sonrió.
 
 Kal no contestó eso. Pero en algún lugar detrás de todo lo demás que llevaba encima ese día, ya estaba pensando en una llamada que todavía no había hecho.
 

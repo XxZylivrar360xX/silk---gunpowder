@@ -1,5 +1,6 @@
 <!--
 Estado: BORRADOR — sexto capítulo de la Parte II; cierra el arco H5–H7 (no la Parte II: siguen 32–34). Pendiente de revisión del autor. Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] § 9 parte 3): POV de Chiara saneado, resumen del coche comprimido, glosas cortadas, Beretta .25 (primera aparición, vestidor) y gesto de la roca (P3). Sigue BORRADOR.
+Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 2 cortes (N31-1, N31-2); sigue BORRADOR.
 Protagonistas: Chiara Bellandi (POV único). Grupo: Kal Mercer, Nadir Amrani, Daniel "Danny" Hayes, Héctor Navarro, Walter "Walt" Keegan, Harper Walker.
 Ventana temporal: MISMO DÍA que los Caps. 28–30 (CANON DEL AUTOR — "hay que sanear, mi decisión es que sea el mismo día"). Ocurre la tarde-anochecer del día del regreso de Kal (Halbrook se lo llevó de la ciudad la madrugada anterior; Kal manejó de vuelta toda la noche): el día que Kal volvió golpeado al loft al amanecer, que fue a la mansión de Varek, que Kal y Chiara pactaron en Las Cascadas y que Kal reunió a su gente en El Patio. La pesca ya estaba acordada entre Nadir/Danny/Héctor/Walt/Kal al cierre de la coda del Cap. 30; la llamada de Kal a Chiara que abre este capítulo es la invitación personal a algo que el grupo ya decidió, no una convocatoria nueva. Kal sigue "recién molido": costillas y ceja de la paliza de Halbrook siguen activas.
 Lugares: AMPLIACIÓN (2026-09-16, encargo del autor): la geografía pasa de "río norte" a **el lago** — agua quieta, orilla de arena y piedra, apta para pesca y baño. Puede conservarse un recodo/entrada de agua más tranquila como detalle secundario, pero el cuerpo principal recreativo es el lago, no un río ni una desembocadura. Formación de roca cerca de la orilla para el atardecer, sin nombre fijado (PENDIENTE geográfico deliberado). **PENDIENTE DE RECONCILIAR (no resuelto en este encargo, sólo este capítulo):** otros documentos del vault (Book Map, Cadena de Eventos) todavía describen H7 como "el río norte"; revisar en sesión futura si corresponde actualizarlos o si el lago es un cuerpo de agua distinto dentro de la misma zona rural del norte.
@@ -20,7 +21,7 @@ Función: CANON DEL AUTOR. Ejecuta H7 — El lago, cierre del arco H5–H7.
 - AGUA: Kal la carga, amenaza con tirarla — rima físicamente con H12 (el atentado) SIN que ni narrador ni personajes lo mencionen jamás. Nuevo intercambio: "Si me sueltas, me muero." / "Sí, como los gatos." / "Peor, yo araño y muerdo." / "Kal Mercer, no vayas a soltarme." — juego, no peligro real; Chiara no corre riesgo de ahogarse, la frase es coqueteo puro.
 - ATARDECER: formación de roca junto al lago, sin fijar geografía exacta. No confesionario: pueden hablar pero sin declaración de amor, trauma nuevo, exposición, planes de vida ni "qué somos". **AJUSTE (2026-09-17, a pedido explícito del autor):** después de "Gracias por traerme / Gracias por venir" hay un beso breve — el segundo del libro, sin torpeza (a diferencia del primero, en H11/el mirador) — mostrado sin glosa de narrador, que siembra sensorialmente la palabra "casa" (a Chiara "le supo... a algo parecido a estar en casa") para que rime con la última línea. No dispara declaración, no nombra la relación, no abre la pregunta "qué somos" — el silencio posterior se mantiene igual que antes.
 - ESTADO DE LA RELACIÓN EN H7: se comportan como pareja sin etiqueta. NO existen todavía: H21 ("mi pareja"), ritual del Ciao, H16 (mudanza oficial — Chiara tiene acceso informal al loft, nada más), la vela, el collar.
-- CIERRE (ampliado 2026-09-17, encargo del autor): "— Vamos a casa." ya NO es la última línea del capítulo — sigue una coda doméstica breve, la última escena del arco H5–H7. Kal la dice, con naturalidad absoluta, de vuelta en el coche; peso nuevo (no verbalizado): esa misma madrugada había planteado parar lo que construían, y horas después "casa" empieza a incluirlos a los dos sin que ninguno lo nombre.
+- CIERRE (ampliado 2026-09-17, encargo del autor): "— Vamos a casa." ya NO es la última línea del capítulo — sigue una coda doméstica breve, la última escena del arco H5–H7. Kal la dice, con naturalidad absoluta, de vuelta en el coche; peso nuevo (no verbalizado): esa misma madrugada le había dicho que no iba a ser más un problema para ella y que quizá tenía que irse (Cap. 28 reconstruido; la versión "parar lo que construían" quedó supersedida el 2026-10-06), y horas después "casa" empieza a incluirlos a los dos sin que ninguno lo nombre.
 - CODA DEL SILLÓN (nueva, 2026-09-17): ya en el loft, discusión doméstica ligera y sin consecuencia sobre un sillón que Kal movió — comedia de pareja, no conflicto real; ninguno cede del todo, terminan riéndose de la propia discusión ("—No era una orden. —Sonó como una.", eco intencional del Cap. 28, ahora sin peso). Nadir, vecino del edificio contiguo, los interrumpe a gritos desde su balcón y llama a Chiara "señora Mercer" en broma; ninguno de los dos lo confirma ni lo desmiente, ninguno de los dos se incomoda — la misma regla del "novia" del teléfono, ahora sin necesitar el chiste de la llamada cortada. Cierra con los dos subiendo a dormir (compatible con la ficha de [[05_Locations/La_Casa]]: Chiara todavía no vive oficialmente ahí —eso es H16, posterior— pero sí puede "pasar tiempo, cenar, dormir alguna noche"; no se afirma mudanza ni rutina fija) y la última luz del loft apagándose. Sin beso nuevo, sin sexo, sin declaración — la escena hace el trabajo por conducta y humor, no por discurso. DETENER LA PROSA ahí: sin reflexión, sin glosa, sin anticipación de H1, el collar o H16.
 Continuidad:
 - Registro privado todavía en semilla (pre-H16): calidez de conducta, italiano suelto de ella, sin apodos plenos, sin ritual del Ciao.
@@ -44,7 +45,7 @@ Chiara se quedó con el teléfono pegado a la oreja un segundo de más, sin sabe
 
 —¿A pescar? ¿Yo... a... pescar?
 
-—Sí. A pescar. —Sonó divertido, no burlón, como quien ya esperaba exactamente esa reacción.
+—Sí. A pescar. —Sonó divertido, no burlón.
 
 —¿Eso es toda la invitación?
 
@@ -200,7 +201,7 @@ Danny llegó desde la orilla con un perro pisándole los talones, ladrando a alg
 
 —Sobreviviré.
 
-Héctor estaba sentado en una silla plegable con una gorra vieja calada hasta las cejas, vigilando la parrilla como quien vigila una máquina que podría fallarle.
+Héctor estaba sentado en una silla plegable con una gorra vieja calada hasta las cejas, vigilando la parrilla.
 
 —Señorita Bellandi. —Ni se levantó—. Espero que traiga hambre, porque si no come, este —señaló con la barbilla hacia Danny— se va a comer su parte y la mía.
 
