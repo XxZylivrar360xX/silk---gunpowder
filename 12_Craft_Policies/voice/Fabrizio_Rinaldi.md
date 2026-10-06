@@ -7,7 +7,7 @@
 
 Cálido, rápido, de confianza antigua. Pregunta y se contesta con cariño mandón ("¿Comiste? / No comiste"). Su afecto puede ser real y aun así interesado. Le baja la voz a Italia, como si Palermo pudiera oírlos. Es el único de la mesa que se ríe sin malicia.
 
-**Apellido (canon del autor, 2026-09-26):** por la amistad de infancia, es el único cercano a quien le cuadra llamarla *Ardizzone* en confianza ("Chiara Ardizzone en California"). Es un guiño, no una declaración política. La institución también la llama Ardizzone, pero por jerarquía.
+**Apellido (canon del autor, 2026-09-26):** por la amistad de infancia, es el único cercano a quien le cuadra llamarla *Ardizzone* en confianza ("Chiara Ardizzone en la costa oeste"; antes "en California", cambiado por el autor 2026-10-06). Es un guiño, no una declaración política. La institución también la llama Ardizzone, pero por jerarquía.
 
 ## Vocabulario
 
@@ -41,7 +41,7 @@ Abre los brazos, besa las dos mejillas, baja la voz al recordar Italia, toca el 
 
 ## Muestras de registro (con origen)
 
-- "Chiara Ardizzone en California. Ahora sí el mundo se quedó sin mapas." (2, protegida: no reusar)
+- "Chiara Ardizzone en la costa oeste. Ahora sí el mundo se quedó sin mapas." (2, protegida: no reusar; CANON DEL AUTOR 2026-10-06, antes "en California")
 - "¿Comiste? Lo del avión no cuenta. / No comiste. Tu madre me mataría." (2)
 - "No te conviene pelear ésta el primer día." (2, en voz baja, después de la junta)
 

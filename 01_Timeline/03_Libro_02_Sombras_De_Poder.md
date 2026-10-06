@@ -126,6 +126,8 @@ pendiente de revelar en prosa — reservado a *Voto de Ceniza*). La Parte evoluc
 
 ### Navidad y el último hogar completo
 
+> **CANON DEL AUTOR (2026-10-06):** el Libro I ya se comió Navidad, Año Nuevo y el cumpleaños de Kal con Kal preso; cierra a principios de enero. *Sombras de Poder* cubre esencialmente **un año**. Su Navidad, a fin de ese año, es la primera juntos: Chiara la quiere perfecta porque no quiere perder ni un minuto más con él. Ahí va el collar, y F4 (el Año Nuevo siguiente) duele más. **PENDIENTE:** redistribuir las Partes ahora que el libro cubre un año ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]).
+
 La primera Navidad pertenece a esta Parte. El eje **Torna a casa / Retorna a casa** se
 sostiene en el collar cuya inscripción vigente es **RETORNA A CASA**, según
 [[06_Relationships/Kal_y_Chiara#CANON — Retorna a casa]]. No se cambia el texto grabado.

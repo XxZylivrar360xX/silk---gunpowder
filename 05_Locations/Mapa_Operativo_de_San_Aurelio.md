@@ -2,6 +2,8 @@
 
 *Ficha de Lugar - geografia, carreteras y tiempos narrativos*
 
+> **AVISO (2026-10-06):** el autor planteó una forma nueva para la ciudad: La Media Luna, La Isla al centro y un puente de piedra antigua (ver [[05_Locations/San_Aurelio]]). Además, la ciudad pasa a Oregon, así que la "CA-19" necesita nombre nuevo. Este mapa se rehace cuando exista el boceto del autor. Hasta entonces, sus tiempos siguen vigentes para la prosa ya escrita.
+
 **Que es:** el mapa practico de San Aurelio. No sustituye la ficha de la ciudad; la vuelve usable para persecuciones, traslados, vigilancia, jurisdiccion, logistica criminal y escenas donde llegar tarde o llegar por otra ruta cambia el resultado.
 
 **Funcion narrativa:** impedir que la ciudad sea decorado. Cada movimiento importante debe poder responder cuatro preguntas: por donde van, cuanto tardan, quien los puede ver y quien conoce un atajo.

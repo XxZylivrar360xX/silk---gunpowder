@@ -203,6 +203,8 @@ Abre **inmediatamente después** del *"Ciao, bella"* que cierra el Libro I: la r
 
 `Parte I — Nieve y Ceniza` (reconciliación, Tommaso, Ren Wei, Navidad/collar, Año Nuevo/F4 separados [canon 2026-09-26], incendio del loft) → `Parte II — Exilio` (F3, F2 — Mei-Lin y Bonnie el mismo día —, Villa Candelaria, Stavanger/anillo) → `Parte III — Torna a Casa` (conflicto final, Silas Crowe, embarazo, H1, reveal, coda Halbrook). Desarrollo completo en [[01_Timeline/03_Libro_02_Sombras_De_Poder]] y [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]].
 
+> **CANON DEL AUTOR (2026-10-06):** el Libro I termina a principios de enero. Navidad, Año Nuevo y el cumpleaños de Kal pasan con Kal preso. *Sombras de Poder* cubre esencialmente un año, y la Navidad/collar va a fin de ese año (la primera juntos), seguida de F4 en el Año Nuevo siguiente. **PENDIENTE:** redistribuir las Partes; la secuencia de arriba sigue valiendo como orden, no como calendario ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]).
+
 ## H1 — El regreso a casa
 
 > **REGLA DE SAGA:** H1 es el clímax del Libro II y el primer enfrentamiento abierto que anticipa la Guerra de los Tres.

@@ -1,4 +1,5 @@
 <!--
+PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): geometría de poder sin decoración nueva. Los tres lados cerrados son la casa y dos muros, con un hombre contra cada muro. Varek está del lado de la casa, de cara a la piscina y al lado abierto. Kal ocupa la silla de espaldas a la piscina: ve la casa y la puerta por donde entra Vivian. La tercera silla, la de Chiara, queda en el lado libre de la mesa, entre los dos: un triángulo.
 Estado: BORRADOR — cuarto capítulo de la Parte II. Pendiente de revisión del autor. Cirugía editorial E6 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): auto (Peugeot), mesa de Vivian compactada, continuidades chicas y salto de POV; sigue BORRADOR.
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 7 cortes (N29-1 a N29-6, D-4) y continuidad: llamada de "tres palabras" y cita del 28 alineada a "no voy a ser más un problema para ti" / "tenía que irse"; sigue BORRADOR.
 Protagonistas: Kal Mercer (POV único). Apariciones: Dario Varek, Vivian "VV" Varek, Chiara Bellandi (segunda mitad).
@@ -48,13 +49,13 @@ Eso también era información.
 
 ***
 
-El patio quedaba detrás de la casa, cerrado por tres lados y abierto hacia una piscina que a esa hora todavía tenía la superficie lisa, sin nadie que la hubiera tocado. Piedra clara, macetas grandes, una mesa de hierro forjado. Sobre ella, una botella de bourbon a medio empezar y dos vasos bajos, uno con hielo, el otro sin.
+El patio quedaba detrás de la casa, cerrado por tres lados —la casa y dos muros altos, con un hombre de pie contra cada uno— y abierto hacia una piscina que a esa hora todavía tenía la superficie lisa, sin nadie que la hubiera tocado. Piedra clara, macetas grandes, una mesa de hierro forjado. Sobre ella, una botella de bourbon a medio empezar y dos vasos bajos, uno con hielo, el otro sin.
 
-Varek estaba de pie junto a la mesa, vestido —no en bata, no recién levantado, como si llevara despierto desde antes de que Kal colgara el teléfono.
+Varek estaba de pie junto a la mesa, del lado de la casa, vestido —no en bata, no recién levantado, como si llevara despierto desde antes de que Kal colgara el teléfono.
 
 —Mercer. —Lo miró de arriba abajo, sin prisa, con la misma atención con la que revisaba un balance—. Te trataron mal.
 
-—Me trataron con cuidado. —Kal se sentó sin que se lo ofrecieran, porque quedarse de pie con el costado así era pedir que se le notara más de lo necesario.
+—Me trataron con cuidado. —Kal se sentó sin que se lo ofrecieran, en la silla que daba la espalda a la piscina, porque quedarse de pie con el costado así era pedir que se le notara más de lo necesario.
 
 Varek no insistió con la pregunta que no había hecho del todo. Sirvió los dos vasos —dedo y medio, sin preguntar cuánto— y dejó uno frente a Kal antes de sentarse él. Era temprano para beber y los dos lo sabían, y ninguno lo dijo, porque decirlo hubiera sido admitir que la hora tenía algo que ver con lo que venía.
 
@@ -244,7 +245,7 @@ Se lo dijo ya de pie, con una seña hacia uno de los hombres del muro.
 
 Chiara entró al patio caminando como si la hubieran invitado desde el principio, con el abrigo mal cerrado sobre la ropa con la que había salido del loft dos horas antes, y ni una sola mirada hacia Kal que pudiera leerse desde fuera.
 
-—Chiara. —Varek le señaló la silla vacía, la tercera que alguien había traído sin que nadie lo pidiera—. Justo a tiempo. Le estaba ofreciendo al señor Mercer una silla más cerca de esta casa.
+—Chiara. —Varek le señaló la silla vacía, la tercera, que alguien había traído sin que nadie lo pidiera y puesto en el lado libre de la mesa, entre los dos—. Justo a tiempo. Le estaba ofreciendo al señor Mercer una silla más cerca de esta casa.
 
 Fue un segundo. Menos de un segundo. Kal vio la información entrar en ella y vio que no se le movió nada en la cara —ni sorpresa, ni alivio, ni pregunta. Era la misma cara que le había visto horas antes, en la cocina del loft, cuando él le dijo que a lo mejor tenía que irse: la cara de alguien decidiendo en tiempo real qué mostrar y qué no.
 

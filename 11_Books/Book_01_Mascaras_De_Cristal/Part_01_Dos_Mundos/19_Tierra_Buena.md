@@ -1,4 +1,5 @@
 <!--
+PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): la parcela gana escala (camioneta en el camino viejo, ondulación que esconde la mitad del terreno, viento sobre el pasto) y Harper la lee caminando: el terrón seco por fuera y oscuro por dentro, el carrizo, la propiedad de arriba cuesta arriba; Kal la alcanza en el carrizo. Kal lee accesos (por dónde entra un camión) en vez de "como quien ya lo ve terminado". El cuarto queda de vuelta hacia el camino, junto a la cerca. Sin canon geográfico nuevo, salvo la ondulación.
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): fuera la glosa de como se llevan Kal y Claudio, la cola "con la misma velocidad..." y dos "de verdad"; "Los lentes eran una herramienta, no una vanidad." La videollamada conserva su contracorte (decision del autor); el letrero del notario se deja. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B.md §9.
 Cirugia de dialogo de terceros 2026-10-04 (S3 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]]; sigue TERMINADO, la prosa nueva es DISEÑO pendiente de lectura): Harper con oficio (CANON DEL AUTOR: crecio en rancho). Decisiones del autor: el dato es el agua (el "riego" del papel baja del canal del vecino de arriba, que lo cierra en julio; "a ti no te va a abrir"), y "¿Y tu socio?" pasa a "¿A quien le contesto?". Fuera "No necesito caridad", la explicacion de la renta y "como quien reporta el clima" (ahora "Busco tardes"; la renta se ve en el cuarto). El "¿Por que yo?" lo contesta Kal con el dato de ella ("Porque a mi no me va a abrir"); la imagen "como si el cafe le debiera algo" queda una vez, en el flashback. "Aqui" del Gelsomino corregido a "las tardes". Fuera "al final" y "algo en la voz sonaba distinto" del cierre del trato. Pago nuevo en el salto de semanas: Harper negocio sola con el vecino y no lo cuenta. Sesion: 98_Agent_Handoff/sessions/2026-10-04_claude_cirugia_terceros_S3.md.
 Protagonistas: Kal Mercer, Harper Walker. Primera aparicion en prosa de Garrett Cross. Aparicion breve de Claudio (dueño de Il Gelsomino).
@@ -60,19 +61,19 @@ Harper miró la camioneta antes de mirarlo a él. Después subió, con la carpet
 
 ***
 
-La tierra todavía no tenía ni una zanja marcada, solo el pasto crecido de años sin que nadie la tocara y, al fondo, el letrero nuevo con el nombre del notario grapado a un poste.
+Dejaron la camioneta en el camino viejo, junto a la cerca. Desde ahí no se veía todo: el terreno bajaba apenas y volvía a subir, y la mitad de las doce hectáreas quedaba detrás de esa ondulación. La tierra todavía no tenía ni una zanja marcada, solo el pasto crecido de años sin que nadie la tocara, que el viento acostaba en una sola dirección, y al fondo, el letrero nuevo con el nombre del notario grapado a un poste.
 
-Harper caminó unos metros dentro del terreno, tocó la tierra con la punta de la bota, se agachó y deshizo un terrón entre los dedos. Después miró hacia el fondo, más allá del poste, donde una línea de carrizo seco cortaba el terreno de lado a lado.
+Harper caminó unos metros dentro del terreno, tocó la tierra con la punta de la bota, se agachó y deshizo un terrón entre los dedos: dura y clara por fuera, oscura por dentro. Después siguió hacia el fondo, más allá del poste, hasta una línea de carrizo seco que cortaba el terreno de lado a lado. Kal la alcanzó ahí.
 
 —Doce hectáreas —dijo Kal—. Las compré esta mañana, con riego. Van a sembrar verduras para el Gelsomino, para empezar, y para lo que se ofrezca después.
 
 —¿Y qué tengo que ver yo con esto?
 
-—Tú no vas a trabajar para nadie. —Se metió las manos en los bolsillos, mirando el terreno como quien ya lo ve terminado—. Quiero que te hagas cargo del negocio entero. Contratas, siembras, decides qué se vende y a quién. Van a trabajar con nosotros, como nuestra proveedora de víveres y materia prima.
+—Tú no vas a trabajar para nadie. —Se metió las manos en los bolsillos, mirando hacia el camino viejo, calculando por dónde iba a entrar un camión—. Quiero que te hagas cargo del negocio entero. Contratas, siembras, decides qué se vende y a quién. Van a trabajar con nosotros, como nuestra proveedora de víveres y materia prima.
 
 Harper se lo quedó mirando un momento, calculando si eso era una oferta real o una prueba.
 
-—Ese riego no es tuyo. —Señaló el carrizo—. Baja del canal de arriba. El de arriba lo cierra en julio, y en julio es cuando lo vas a necesitar.
+—Ese riego no es tuyo. —Señaló el carrizo y después, cuesta arriba, la propiedad de al lado—. Baja del canal de arriba. El de arriba lo cierra en julio, y en julio es cuando lo vas a necesitar.
 
 Kal miró la línea seca. En el papel decía riego; Garrett lo había leído dos veces.
 
@@ -84,7 +85,7 @@ Kal miró la línea seca. En el papel decía riego; Garrett lo había leído dos
 
 —El de arriba. —Se limpió los dedos en el pantalón—. Pero a ti no te va a abrir.
 
-—Te pago más de lo que sacas con Mabel y con las tardes juntos. —Kal señaló con la barbilla el otro lado de la cerca, donde un cuarto de block con techo de lámina se caía despacio—. Y eso venía con el terreno. Necesita techo. El techo lo pongo yo. Mientras la parcela sea tuya, el cuarto también, y no pagas renta.
+—Te pago más de lo que sacas con Mabel y con las tardes juntos. —Kal señaló con la barbilla, de vuelta hacia el camino, un cuarto de block con techo de lámina que se caía despacio junto a la cerca—. Y eso venía con el terreno. Necesita techo. El techo lo pongo yo. Mientras la parcela sea tuya, el cuarto también, y no pagas renta.
 
 Harper miró el cuarto más tiempo que el terreno.
 

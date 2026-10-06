@@ -115,7 +115,7 @@ Así que dejó de preguntar y lo siguió.
 
 El Lancia todavía olía a sala de exhibición. Pasó Kingsley Field, pasó la reja de tela metálica que corría kilómetros junto a la carretera recta, y se metió por el camino de servicio hacia el taller del norte, el galpón donde se preparaban los coches de las carreras. Kal se lo había descrito una vez y nunca la había llevado, lo cual era un problema, porque la versión que traía lista era que él la había llevado ahí la noche que el coche la dejó tirada.
 
-Dos hombres en la puerta. Adentro hacía frío: una nave de lámina en invierno con los portones abiertos por los dos extremos, una lámpara de trabajo colgada de una cadena, olor a solvente y a metal. Varek estaba de pie junto a un banco, con el abrigo puesto, como quien espera una cita que anotó él mismo.
+Dos hombres en la puerta. Adentro hacía frío: una nave de lámina que de noche no guardaba nada del calor del día, con los portones abiertos por los dos extremos, una lámpara de trabajo colgada de una cadena, olor a solvente y a metal. Varek estaba de pie junto a un banco, con el abrigo puesto, como quien espera una cita que anotó él mismo.
 
 —Chiara. —No preguntó qué hacía ahí—. Vienes helada. —Le hizo un gesto a uno de los hombres, que arrastró una silla plegable hasta ella. Chiara no se sentó—. Es un mal camino para quedarse varada de noche.
 

@@ -15,7 +15,7 @@ Bellandi Ridge es la primera propiedad de San Aurelio que Chiara puede llamar su
 
 No es una fachada criminal principal. Puede servir para eventos, cenas, donaciones, botellas en mesas correctas y legitimidad social, pero su valor dramático es más íntimo:
 
-- Chiara trae a California una versión de hogar que entiende: tierra, mesa, vino, familia elegida.
+- Chiara trae a Oregon una versión de hogar que entiende: tierra, mesa, vino, familia elegida.
 - Kal ve que ella no sólo administra habitaciones ajenas; también puede plantar algo y esperar.
 - La ciudad aprende a leer a Chiara fuera del casino y fuera del periódico.
 

@@ -1,4 +1,5 @@
 <!--
+PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto; sigue NO OPERATIVO): Camp Alder existe por los sentidos con rasgos de su ficha (seca, hangares bajos, garita). Desde el perímetro, los techos de los hangares bajo reflectores blancos y el olor a polvo y pasto seco. Adentro, concreto, estantes de metal y pasos que suenan de más. El claro es la vuelta al aire frío de la noche. En la custodia, el mismo lugar con la primera luz desde la ventanilla (alambre, tierra seca, hangares grises). Sin rutas, tiempos, posiciones ni procedimientos nuevos.
 Estado: BORRADOR — Parte III — Ardizzone, noveno capítulo (Cap. 43 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "La puerta". No es provisional. **Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_III]]):** Kal sale del loft hacia El Patio (no "hacia La Almendra": el loft ya está ahí); prolepsis de narrador cortada ("en algún punto que después nadie iba a poder señalar" → "sin aviso"); dos casos del tic "no hacía falta / no necesitaba decir nada más" (Garrett, "Ahora") y la inercia "que no había nada más que discutir ahí"; "la noche anterior" dos veces en la frase de la puerta → una. La puerta (sus dos "No hacía falta"), el expediente sin abrir, Héctor jalando a Nadir y la reja, intactos. Detalle en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]], § 9 parte 4. Sigue BORRADOR. **Arresto reescrito 2026-10-02 (CANON DEL AUTOR en sustancia, prosa del agente, BORRADOR):** Kal se queda atrás y les revienta las llantas a las patrullas municipales (no apunta a nadie); un agente lo embiste a pie desde un punto ciego; Nadir lo ve desde la puerta y salta; Héctor lo jala de vuelta; despegan gritando "¡Kal!". Sustituye la caminata de Kal hacia el camino y la intercepción posterior. El equipo VE el arresto (lo cuenta Héctor en el 44). Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_44_Jurisdiccion]] C1.
 **Frente 4, Camp Alder (2026-10-05, P2 aprobada por el autor; prosa del agente, BORRADOR):** el éxito dentro de la base se muestra en vez de resumirse. La primera carga llega limpia al helicóptero; Kal decide volver por el resto porque Varek las quiere completas, y el quiebre llega en la segunda vuelta. La causa es una decisión, no técnica, y sigue siendo no operativa. Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente_4_Camp_Alder]].
 Protagonista: Kal Mercer (POV único, tercera persona cercana). No hay salto de POV. Chiara Bellandi NO aparece físicamente en ningún momento del capítulo — ni llamada, ni mensaje, ni reconciliación.
@@ -116,7 +117,7 @@ Nadie le preguntó dónde había estado. Héctor lo miró bajar del coche un seg
 
 ---
 
-Salieron después de la medianoche, en dos vehículos, sin luces innecesarias, y llegaron al perímetro de Camp Alder con tiempo de sobra para esperar. Desde ahí, entre los árboles, la base era una línea de cercas y luces bajas contra un cielo sin luna.
+Salieron después de la medianoche, en dos vehículos, sin luces innecesarias, y llegaron al perímetro de Camp Alder con tiempo de sobra para esperar. Desde ahí, entre los árboles, la base era una línea de cercas y luces bajas contra un cielo sin luna. Más adentro, bajo reflectores blancos, se recortaban los techos de los hangares. El aire olía a polvo y a pasto seco.
 
 El ruido empezó del otro lado del perímetro, donde Dario había dicho que iba a empezar. No hizo falta más que eso para que la atención se moviera hacia allá.
 
@@ -124,11 +125,11 @@ El ruido empezó del otro lado del perímetro, donde Dario había dicho que iba 
 
 Cuando llegó la ventana, entraron. Kal no llevaba en la cabeza un plano ni una ruta memorizada de un manual: llevaba lo que le quedaba de conocer un lugar como éste desde adentro, la misma calma con la que se movía en cualquier sitio que no fuera suyo. Nadir se movía cerca de él sin hacer preguntas. Héctor cubría la parte de atrás. Danny llevaba lo que había que llevar. Garrett ya no estaba con ellos: había ido hacia el punto donde tenía que estar el helicóptero, y su trabajo, a partir de ese momento, era mantener eso posible.
 
-Encontraron lo que habían ido a buscar donde tenían que encontrarlo.
+Encontraron lo que habían ido a buscar donde tenían que encontrarlo. Adentro todo era concreto y estantes de metal, y un silencio que hacía sonar cada paso más de la cuenta.
 
 El expediente estaba sellado. Kal comprobó la etiqueta contra lo que llevaba anotado, la confirmó, y lo guardó. No lo abrió. No le dio vuelta para leer nada.
 
-Las armas pesaban más de lo que se veían. La primera carga salió como salen las cosas que se ensayaron de más: Danny y Nadir delante, Héctor detrás, Kal en medio, nadie hablando. Cruzaron hasta el claro sin que se encendiera una sola luz que no estuviera encendida antes. Garrett recibió las cajas en la puerta del helicóptero y les levantó el pulgar sin quitarse los lentes.
+Las armas pesaban más de lo que se veían. La primera carga salió como salen las cosas que se ensayaron de más: Danny y Nadir delante, Héctor detrás, Kal en medio, nadie hablando. Cruzaron hasta el claro, de vuelta al aire frío de la noche, sin que se encendiera una sola luz que no estuviera encendida antes. Garrett recibió las cajas en la puerta del helicóptero y les levantó el pulgar sin quitarse los lentes.
 
 Nadir soltó una risa corta, sin aire, y se tapó la boca con el dorso del guante.
 
@@ -204,7 +205,7 @@ Nadie le dijo a dónde iba.
 
 ---
 
-Cruzaron la garita de Camp Alder poco antes del amanecer. Un guardia comprobó algo en una pantalla, dijo algo que Kal no alcanzó a oír del todo, y la reja se abrió el ancho justo para que pasara el vehículo.
+Cruzaron la garita de Camp Alder poco antes del amanecer. Un guardia comprobó algo en una pantalla, dijo algo que Kal no alcanzó a oír del todo, y la reja se abrió el ancho justo para que pasara el vehículo. Por la ventanilla, con la primera luz, Kal vio lo que de noche había sido una línea de luces: alambre, tierra seca, los hangares bajos, todo del mismo gris.
 
 Kal miró hacia atrás, un segundo, antes de que la reja empezara a cerrarse detrás de ellos.
 

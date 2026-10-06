@@ -1,4 +1,5 @@
 <!--
+PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura): el mirador ya muestra la postal. Último apartadero sin alumbrado y grava; vista orientada con landmarks canon (Distrito Marino a la derecha sobre la costa, Calle Corona, La Almendra y las vías, grúas del Puerto Viejo, el mar negro al oeste); se sientan en la grava fría junto al borde de piedra; el motor se enfría (tictac) y después se calla, marcando el tiempo; viento seco de arriba. Kal habla de Dale y Ruth mirando abajo, hacia las vías (antes, "el cielo"); Chiara mira arriba en las constelaciones. Supersede la nota de 2026-09-07 ("el mirador NO se tocó, el autor lo considera perfecto") por decisión del autor. Diálogo intacto.
 Cirugia de dialogo K/C (2026-10-04, autorizada por el autor sobre capitulo TERMINADO; DISEÑO pendiente de lectura): bolera reescrita (460 -> 815 palabras) + cena en la banca de la playa (~270 palabras; costumbre de contarle el dia, CANON del ritual, invertida: ella estuvo en el dia) segun [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]] §7; "Bochas y orgullo" -> "las juegan los viejos"; penthouse "Lo se. Por eso te lo dije yo primero" -> "No. Pero ibas a dejar que lo dijera yo" (rompe el molde repetido del mirador). Drift, mirador, baile, beso, "¿Seguro? / Llevo meses seguro" y cierre intactos.
 Estado previo: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_c21_el_mirador.md). Deuda documental no bloqueante conservada: H11 (penthouse) en Hitos.md todavia describe el beso en el sofa; la prosa vigente lo sitúa de pie, tras el baile, junto al espejo del recibidor. SINCRONIZADA (verificado en housekeeping 2026-09-26: Hitos H11, seccion El penthouse, ya describe el beso de pie tras el baile junto al espejo). Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): un solo corte, la relativa "que habia cuidado durante meses" en el penthouse (la frase queda sola en el baile). S4 (casi-confesion, hilo A) ya existe en "la verdad de lo pequeno" y se protege sin anadir nada; 20:218 se conserva. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B.md §9.
 Protagonistas: Kal Mercer, Chiara Bellandi.
@@ -200,9 +201,9 @@ Cuando volvieron a cambiar de asiento, Kal no arrancó de inmediato.
 
 —Hay un lugar —dijo—. El único de la ciudad donde se ven las estrellas.
 
-Subieron. La carretera se fue angostando, la ciudad se fue quedando abajo, hasta que llegaron al último mirador de la serie, el más alto, y San Aurelio se extendió debajo como una postal que no se movía.
+Subieron. La carretera se fue angostando, la ciudad se fue quedando abajo, hasta que llegaron al último mirador de la serie, el más alto, donde ya no llegaba el alumbrado y el asfalto se deshacía en grava. Kal dejó el auto atrás, de cara a la ladera, y San Aurelio se extendió debajo como una postal que no se movía. A la derecha, las torres del Distrito Marino encendidas a lo largo de la costa. Al centro, la cuadrícula de Calle Corona. A la izquierda, más baja y con menos luz, La Almendra siguiendo la línea de las vías. Al fondo, las grúas del Puerto Viejo. Y donde se acababan las luces, de golpe, el mar: una sola masa negra.
 
-Se sentaron en el suelo. El cielo estaba lleno.
+Se sentaron en el suelo, sobre la grava fría, a un paso del borde bajo de piedra. Detrás, el motor hacía tictac al enfriarse. Arriba soplaba un viento que abajo no había, seco, con olor a matorral. El cielo estaba lleno.
 
 —Mi padre me enseñó los nombres —dijo Chiara, mirando arriba—. En una terraza en Palermo. Decía que si aprendía las constelaciones nunca iba a estar perdida, porque el cielo era el único mapa que nadie podía cambiarme de sitio.
 
@@ -216,9 +217,9 @@ Kal no dijo nada por un rato. Después, sin que ella se lo pidiera, empezó a ha
 
 No dijo mucho al principio. Que Dale nunca fue un padre amoroso — que nunca fingió serlo, tampoco — pero que le enseñó todo lo que sabía de sobrevivir en una calle que no perdonaba nada. Que Ruth sí lo fue. Que lo fue de verdad, hasta que el juego de Dale empezó a comérselo todo, y ella se fue perdiendo detrás de él, cubriéndolo, persiguiéndolo, hasta que no quedó mucho de la mujer que había sido — sólo la sombra, todavía moviéndose.
 
-—El único recuerdo que tengo de los dos juntos —dijo, mirando el cielo y no a ella— es el día que se lo llevaron. A él. Y ella arrastrándose detrás, en la calle, humillándose delante de todo el barrio para que no se lo llevaran.
+—El único recuerdo que tengo de los dos juntos —dijo, mirando abajo, hacia las vías, y no a ella— es el día que se lo llevaron. A él. Y ella arrastrándose detrás, en la calle, humillándose delante de todo el barrio para que no se lo llevaran.
 
-Chiara no dijo nada. No lo tocó todavía. Se quedó sentada a su lado, mirando el mismo cielo, dejando que el silencio hiciera lo que tenía que hacer.
+Chiara no dijo nada. No lo tocó todavía. Se quedó sentada a su lado, mirando lo mismo que él, dejando que el silencio hiciera lo que tenía que hacer. Detrás, el motor ya se había callado.
 
 —Es una familia rota —dijo Kal al final, como si estuviera cerrando un expediente—. La que yo tengo.
 

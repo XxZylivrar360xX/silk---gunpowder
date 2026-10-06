@@ -394,7 +394,7 @@ Lo dijo sin mirarla, con los ojos en la pantalla, de la misma forma en que un ra
 
 Chiara no la tocó.
 
-Cuando la canción terminó, buscó ella la suya. *Un anno d'amore*, de Mina. La voz llenó la sala de cine con un pasado que no era de California.
+Cuando la canción terminó, buscó ella la suya. *Un anno d'amore*, de Mina. La voz llenó la sala de cine con un pasado que no era de Oregon.
 
 —Te la traduzco —dijo, y lo hizo, despacio, parando entre frases.
 

@@ -1,4 +1,5 @@
 <!--
+PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto). Supersede la decisión del 2026-09-27 "la luz del golf queda como está". Cambios: postal del campo bajo la nube al abrir el juego (césped sin brillo, humedad de riego en la sombra, el lago sin reflejo, banderas quietas); el putt del cuarto hoyo; en el octavo, Kal saca la bola del búnker y limpia la arena húmeda del palo antes de contestar; la vuelta a pie por la orilla del lago tras la confesión, en silencio, hasta la casa club (sustituye el "carrito" que aparecía de golpe: iban a pie desde el primer hoyo); Kal deja las bolsas en el mostrador y sube al auto.
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras M6 verificada y CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): cierra en "Nadie llamo a eso una cita." (fuera la prolepsis "Al dia siguiente..." y el sol del ultimo parrafo, que contradecia el regreso con la nube sin romperse); colas de tic cortadas ("la clase de", "con la misma... con la que"), certificacion "Una vez mas, Kal Mercer lo habia conseguido" fuera; Blake: "Kal ya sabia de quien hablaba" (salto de POV). La luz del golf queda como esta (decision del autor). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B.md §9.
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Ventana temporal: dias despues del Capitulo 17 (Cuentas claras / Anticiparse, la negociacion con Irene y la reunion en casa de Hector). Antes del Capitulo 20 (H11, el mirador). Reordenado el 2026-08-29: H10 -> H4 -> H11; renumerado varias veces, la ultima el 2026-09-03 al fusionar los capitulos de la negociacion con Irene y la reunion del barrio en un solo Capitulo 17.
@@ -51,7 +52,7 @@ Y ahí se quedó, suspendido, uno de esos planes que los dos mencionaban de tant
 
 ***
 
-San Aurelio no hacía días nublados. Salía el sol trescientos y pico días al año, y los otros llovía de golpe y se acababa. Aquel jueves amaneció gris parejo, sin lluvia y sin sol, un techo bajo de nube que no se decidía, y la ciudad entera andaba mirando el cielo como si le debiera una explicación.
+En junio San Aurelio ya no hacía días nublados: la primavera se llevaba las lluvias y el calor entraba sin pedir permiso. Aquel jueves amaneció gris parejo, sin lluvia y sin sol, un techo bajo de nube que no se decidía, y la ciudad entera andaba mirando el cielo como si le debiera una explicación.
 
 Chiara llegó a Il Gelsomino a las cuatro, cuando la terraza todavía estaba vacía y la luz de la tarde —gris, pareja, sin nada que se pudiera llamar atardecer todavía— apenas empezaba a cambiar de tono sobre los techos de la calle que la ciudad insistía en llamar pintoresca. Pidió una copa de vino tinto, se sentó de cara a la calle, y dejó que la tarde hiciera lo suyo sin apurarla.
 
@@ -215,6 +216,8 @@ Chiara tuvo que darse la vuelta. Cargó su propia bolsa al hombro y caminó haci
 
 ***
 
+El campo estaba casi vacío. Bajo la nube, el césped tenía un verde sin brillo, todavía húmedo de riego a la sombra de los árboles; el lago del fondo no devolvía ningún reflejo, y las banderas de los hoyos lejanos colgaban casi quietas.
+
 Kal era malo. Malo de un modo que a Chiara le daba risa contenida en el primer hoyo y risa abierta en el cuarto. Ella no era buena, pero le pegaba a la bola como quien firma un cheque: sin dudar y sin mirar atrás.
 
 Fue ella la que inventó el castigo.
@@ -249,7 +252,7 @@ Perdió el segundo hoyo también. Fue Chiara quien preguntó esta vez, con la ce
 
 Ganó el tercero por accidente, y gastó la pregunta en algo tonto: el nombre de la primera calle donde vivió ella, porque todavía estaban en la parte del día en que las preguntas eran souvenirs.
 
-En el cuarto hoyo perdió ella.
+En el cuarto hoyo perdió ella, por un putt que se quedó a un palmo.
 
 Kal se tomó un momento antes de preguntar, con la clase de calma que usaba cuando en realidad llevaba días queriendo preguntar algo y por fin tenía la excusa.
 
@@ -319,6 +322,8 @@ Kal no dejó de mirar su propia bola.
 
 Ella metió la suya. Esperó.
 
+Kal le pegó a la arena. La bola salió a medias, y la arena, pesada de humedad, se le quedó pegada a la cara del palo. Se puso a limpiarla con el pulgar.
+
 —En el ejército —dijo Kal—. Un amigo. No es una historia. Es algo que pasó y que no se cuenta bonito.
 
 Chiara asintió una sola vez, como quien recibe un dato y lo guarda sin abrirlo, y caminaron al siguiente hoyo sin agregar nada.
@@ -343,9 +348,9 @@ No dijo *yo lo maté*. No dijo el nombre. Ordenó cada frase con el cuidado de q
 
 Kal no preguntó lo que seguía.
 
-Pero escuchó todo lo demás. Escuchó los años que no cuadraban si se contaban hacia atrás. Escuchó dónde bajaba ella la voz y dónde la saltaba. Escuchó la palabra *terminó* usada para dos cosas distintas en la misma frase. Y para cuando llegaron al carrito ya lo sabía, con la misma certeza tranquila con que sabía leer un motor por el sonido: al marido lo había matado ella.
+Pero escuchó todo lo demás. Escuchó los años que no cuadraban si se contaban hacia atrás. Escuchó dónde bajaba ella la voz y dónde la saltaba. Escuchó la palabra *terminó* usada para dos cosas distintas en la misma frase. Volvieron a pie por la orilla del lago, con las bolsas al hombro y sin una palabra, y para cuando llegaron a la casa club ya lo sabía, con la misma certeza tranquila con que sabía leer un motor por el sonido: al marido lo había matado ella.
 
-No le cambió la cara. No la miró distinto. Guardó las bolsas, se subió al carrito y esperó a que ella se subiera también.
+No le cambió la cara. No la miró distinto. Dejó las dos bolsas en el mostrador, se subió al auto y esperó a que ella se subiera también.
 
 Chiara lo miró de reojo. Vio que lo sabía. Vio que no iba a hacer nada con eso.
 

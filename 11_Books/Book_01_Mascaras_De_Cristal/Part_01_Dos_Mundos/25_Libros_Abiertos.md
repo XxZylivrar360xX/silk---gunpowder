@@ -1,4 +1,5 @@
 <!--
+PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): tres reanclajes que marcan el tiempo. Después de Corrado y Marta, el ventanal empañado hasta la mitad (sustituye "Movió el agua sin mirarla", que además chocaba con "sin mover el agua" de la línea anterior); antes del apellido, la copa ya tibia (sustituye otro "movió el agua"); entre Nadir y Michael, una torre que se apaga del otro lado del ventanal. Después de Alessio no se añadió nada: el párrafo de la copa que deja de sudar y los chorros que se apagan ya lo hace.
 Estado: BORRADOR (unico de Parte I). Auditoria formal hecha 2026-09-26 (AUDIT + SURGERY, decisiones del autor): [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_25_Libros_Abiertos]] — incorpora las decisiones del autor 2026-09-09. Ajuste 2026-10-04 (C1 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_24c_El_Corral]], autorizado por el autor): en el jacuzzi Kal ya no repite lo de las armas (lo contó en el parador del 24c); sólo agrega la frase de Dario.
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Ventana temporal: casi un mes después del cierre del conflicto legal (Caps. 23-24) y una semana después del alta de Chiara (Cap. 24c, El corral; ajustado 2026-10-04 al reubicar el Corral, antes "dos semanas"). Ejecuta H15 — La noche del jacuzzi. Precede al arco de Dario/H5.
@@ -132,7 +133,7 @@ Dejó pasar un segundo, con el agua moviéndose despacio contra su pecho.
 
 Kal se quedó con la mano quieta contra el borde del jacuzzi, sin mover el agua.
 
-—Mi madre tenía un dicho parecido. A su manera. —Movió el agua sin mirarla—. Los sábados que Dale no estaba, hacía panqueques con tocino y miel, y tarareaba una canción que nunca le pregunté de dónde la había sacado. Se comía la mitad de las palabras. Yo la tarareaba con ella sin entender ninguna.
+—Mi madre tenía un dicho parecido. A su manera. —Miró el ventanal, empañado ya hasta la mitad—. Los sábados que Dale no estaba, hacía panqueques con tocino y miel, y tarareaba una canción que nunca le pregunté de dónde la había sacado. Se comía la mitad de las palabras. Yo la tarareaba con ella sin entender ninguna.
 
 Tarareó dos compases, bajo, casi sin querer, y se detuvo enseguida.
 
@@ -152,7 +153,7 @@ Kal no contestó. Dejó que la pregunta se quedara flotando en el agua entre los
 
 Chiara no la rescató. Fue Kal el que volvió a hablar, y no de sí mismo.
 
-—Dijiste Ardizzone. —Movió el agua con la mano abierta—. Pero llevas el apellido Bellandi. Pensé que los italianos defendían los nombres más que a sus mismas familias.
+—Dijiste Ardizzone. —Alcanzó su copa del borde; el vino ya estaba tibio—. Pero llevas el apellido Bellandi. Pensé que los italianos defendían los nombres más que a sus mismas familias.
 
 —Bellandi es el apellido de mi madre. —Chiara sonrió apenas, sin mirarlo—. Y sí, en parte no estás equivocado. Pero siempre hay historia detrás de un cambio.
 
@@ -321,6 +322,8 @@ Se frotó las manos, despacio, una contra otra.
 —¿Y eso qué te dejó?
 
 —Al principio pensé que le debía toda la vida. Lo ayudé a entrar al país después, con una rusa que conseguía papeles. Pero no fue para emparejar la cuenta. Cuando alguien te saca de un sitio sin pedir nada a cambio, deja de ser una deuda que se cobra algún día. Se vuelve otra cosa. Lo más parecido a un hermano que tengo en este mundo.
+
+Del otro lado del ventanal, una torre se apagó de una vez.
 
 —¿Y después?
 

@@ -1,4 +1,5 @@
 <!--
+PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): reanclajes cortos sin volver a describir el lago. El agua del recodo es más fría que la de la orilla. La piedra de la roca está tibia del día y se oscurece con lo que les escurre. Desde la roca se ve la orilla en pequeño (hieleras, figuras, el humo de la parrilla que llega a ratos). Al volver, la piedra suelta bajo los pies. CLIMA (CANON DEL AUTOR 2026-10-06, supersede el "sigue siendo invierno" del mismo día): 26–31 caen en SEPTIEMBRE del año 2 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]] § A). La tarde de calor en la orilla es la de septiembre. El agua del recodo, más fría que la orilla, es la de un lago de sierra. El frío al irse el sol y la calefacción se explican por la ropa mojada, no por el invierno. Firma de otoño: pendiente de decisión del autor.
 Estado: BORRADOR — sexto capítulo de la Parte II; cierra el arco H5–H7 (no la Parte II: siguen 32–34). Pendiente de revisión del autor. Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] § 9 parte 3): POV de Chiara saneado, resumen del coche comprimido, glosas cortadas, Beretta .25 (primera aparición, vestidor) y gesto de la roca (P3). Sigue BORRADOR.
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 2 cortes (N31-1, N31-2); sigue BORRADOR.
 Protagonistas: Chiara Bellandi (POV único). Grupo: Kal Mercer, Nadir Amrani, Daniel "Danny" Hayes, Héctor Navarro, Walter "Walt" Keegan, Harper Walker.
@@ -163,7 +164,7 @@ El coche se quedó en silencio un momento. Chiara lo miró. Kal la miró a ella.
 
 ***
 
-El lago apareció después de un último tramo de terreno irregular: agua quieta y ancha, bordeada de árboles bajos, con una orilla de arena y piedra donde ya había media docena de coches mal estacionados y una parrilla encendida desde antes de que llegaran.
+El lago apareció después de un último tramo de terreno irregular: agua quieta y ancha, bordeada de árboles bajos, con una orilla de arena y piedra donde ya había media docena de coches mal estacionados y una parrilla encendida desde antes de que llegaran. La tarde era de las que San Aurelio da en septiembre sin explicar nada: sol de frente, sin viento, calor de manga corta en la orilla. El agua era otra cosa.
 
 Harper estaba sentada en el capó de una camioneta que no era suya, con las botas cruzadas a la altura de los tobillos y una gorra calada hasta las cejas, y no se levantó cuando los vio bajar del Audi.
 
@@ -289,7 +290,7 @@ Kal se rió, una carcajada corta y de verdad.
 
 —No sé de qué hablas. —Y la tiró.
 
-El agua se le metió por la nariz y salió a la superficie maldiciendo en italiano, con el pelo pegado a la cara, y encontró a Kal riéndose lo suficientemente cerca como para alcanzarlo con las dos manos y hundirle la cabeza antes de que pudiera defenderse. Forcejearon, torpes, sin ninguna elegancia, hasta que los dos terminaron igual de empapados y sin aire, de pie en el agua que les llegaba a la cintura, riéndose todavía.
+El agua, mucho más fría ahí que en la orilla, le cortó el aire y se le metió por la nariz, y salió a la superficie maldiciendo en italiano, con el pelo pegado a la cara, y encontró a Kal riéndose lo suficientemente cerca como para alcanzarlo con las dos manos y hundirle la cabeza antes de que pudiera defenderse. Forcejearon, torpes, sin ninguna elegancia, hasta que los dos terminaron igual de empapados y sin aire, de pie en el agua que les llegaba a la cintura, riéndose todavía.
 
 —Eso —dijo ella, apartándose el pelo de la cara— fue una declaración de guerra.
 
@@ -303,9 +304,9 @@ Ella le tiró agua a la cara con la mano abierta, sin previo aviso, y él respon
 
 ***
 
-Nadaron hasta una formación de roca cerca de la orilla, una lengua ancha y plana que sobresalía del agua lo suficiente como para sentarse fuera del alcance de las olas chicas, con el sol ya bajando detrás de los árboles del otro lado. Se sentaron con las piernas colgando hacia el agua, hombro con hombro, chorreando todavía.
+Nadaron hasta una formación de roca cerca de la orilla, una lengua ancha y plana que sobresalía del agua lo suficiente como para sentarse fuera del alcance de las olas chicas, con el sol ya bajando detrás de los árboles del otro lado. Se sentaron con las piernas colgando hacia el agua, hombro con hombro, y la piedra, tibia de todo el día, se oscureció debajo de ellos con lo que les escurría de la ropa.
 
-El cielo empezó a ponerse de un color que ninguno de los dos comentó.
+El cielo empezó a ponerse de un color que ninguno de los dos comentó. Desde ahí se veía la orilla entera, chica: las hieleras, las figuras de los demás alrededor de la parrilla, el humo que a ratos les llegaba sobre el agua y a ratos se iba hacia los árboles.
 
 —¿Quién crees que ganó la pesca? —preguntó ella, después de un rato de silencio que no pedía llenarse.
 
@@ -327,9 +328,9 @@ Ella levantó la cabeza de su hombro lo justo para mirarlo, y Kal ya la estaba m
 
 ***
 
-Volvieron nadando cuando ya casi no se veía el fondo, y para cuando llegaron a la orilla el grupo estaba recogiendo: cañas enrolladas, hieleras vacías a medias, la parrilla apagándose sola. Héctor discutía con Danny sobre quién se llevaba las sobras del pescado; Nadir hacía cuentas en voz alta sobre lo que le debía o le debían, sin que quedara claro si hablaba en serio; Harper ya estaba guardando su equipo con la eficiencia de quien no necesita que nadie le diga cuándo terminar; Rocco corría entre las piernas de todos, exhausto y feliz, con arena hasta el lomo.
+Volvieron nadando cuando ya casi no se veía el fondo, y para cuando sintieron otra vez la piedra suelta bajo los pies, el grupo estaba recogiendo: cañas enrolladas, hieleras vacías a medias, la parrilla apagándose sola. Héctor discutía con Danny sobre quién se llevaba las sobras del pescado; Nadir hacía cuentas en voz alta sobre lo que le debía o le debían, sin que quedara claro si hablaba en serio; Harper ya estaba guardando su equipo con la eficiencia de quien no necesita que nadie le diga cuándo terminar; Rocco corría entre las piernas de todos, exhausto y feliz, con arena hasta el lomo.
 
-Kal le pasó la mochila sin preguntarle si la quería y se echó la bolsa al hombro, y en vez de ir hacia los coches se quedaron un momento más en la orilla, de cara al agua, mirando lo que quedaba de luz sobre el lago. Él le tomó la mano. Ella no dijo nada.
+Sin el sol, el frío les cayó encima de golpe. Kal sacó una sudadera seca de la mochila, se la pasó sin preguntarle si la quería y se echó la bolsa al hombro, y en vez de ir hacia los coches se quedaron un momento más en la orilla, de cara al agua, mirando lo que quedaba de luz sobre el lago. Él le tomó la mano. Ella no dijo nada.
 
 Cuando se dieron la vuelta, Héctor se guardaba el teléfono en el bolsillo de la camisa y volvía a discutir con Danny por las sobras, como si nunca hubiera dejado de hacerlo.
 
@@ -339,7 +340,7 @@ Fueron subiendo al coche de cada quien entre despedidas cortas, gritos de "el s�
 
 ***
 
-El camino de vuelta fue callado. La radio sonaba baja, el aire por la ventanilla les fue secando la ropa de a poco, y las luces de los otros coches se fueron perdiendo una por una en las bifurcaciones hasta que quedaron solos en la carretera, con el olor a lago todavía metido en la piel y en el pelo.
+El camino de vuelta fue callado. La radio sonaba baja, la calefacción a tope les fue secando la ropa de a poco, y las luces de los otros coches se fueron perdiendo una por una en las bifurcaciones hasta que quedaron solos en la carretera, con el olor a lago todavía metido en la piel y en el pelo.
 
 La ciudad apareció despacio, primero como un resplandor contra las nubes bajas y después como calles de verdad, semáforos, gente. El ruido del día — la pesca, las risas, el agua — se fue quedando atrás con cada cuadra, hasta que sólo quedaron ellos dos y el motor.
 

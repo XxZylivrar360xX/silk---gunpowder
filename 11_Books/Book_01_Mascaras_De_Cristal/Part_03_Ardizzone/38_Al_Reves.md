@@ -1,4 +1,5 @@
 <!--
+PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): sólo transiciones, porque proa y salón ya estaban anclados (viento de diciembre, música amortiguada, cera, luces a media, música filtrada por el vidrio). En la proa se añade el agua golpeando el casco. A la salida del salón, el viento y la música entran de golpe al abrir la puerta, en la línea que abre la sección de despedida. Nada más.
 Estado: BORRADOR — Parte III — Ardizzone, cuarto capítulo (Cap. 38 del manuscrito). Redactado 2026-09-20, Claude Code (modelo: Claude Opus 5), encargo detallado del autor; segunda pasada de correcciones del autor aplicada el mismo día por el mismo modelo. Cirugía editorial E6 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]] §9 parte 2): microedición firme, paquete P2 + P4 (Héctor/Walt; segunda ronda de Blake), vela retirada, bala abierta en la casa neutral (no en el Penthouse), "señora" en la línea canon de H13; sigue BORRADOR. Título **"Al revés" confirmado por el autor** (2026-09-27); "(título provisional)" retirado de la prosa.
 CONCILIACIÓN CON EL 24c (2026-10-04, decisión del autor; pendiente C3 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_24c_El_Corral]]): CANON DEL AUTOR: "il 13" de la carta del Consorzio que Kal lee en el 24c es el 13 de diciembre, fecha de la Mesa; la Parte II no la menciona. Tres retoques de continuidad (BORRADOR, pendientes de lectura): (1) "Creo que fueron ellos [...] No lo sé. No tengo nada que lo diga. Pero" -> "Fueron ellos [...] Te lo dije en el parador. Sigo sin tener nada que lo diga, pero" (en el 24c Chiara ya estaba "Totalmente" segura; aquí se conserva que no hay prueba); (2) "Voy a ir a la Mesa" -> "El 13 voy a ir a la Mesa" (Kal ya conoce la fecha; lo nuevo para él es "esta noche"); (3) "casi diciembre" -> "diciembre". La línea canon del pañuelo, "Voy contigo" y "íntegra" quedan intactas.
 Protagonista: Chiara Bellandi (POV único hasta el cierre). **Salto de POV controlado y autorizado por el encargo** en la última sección (aeropuerto): la llamada de Marisol es de Kal y sus líneas canon tienen que oírse; no hay forma de narrarla desde Chiara sin perderlas. Es excepción puntual (el Cap. 36 también parte su POV: Kal en el muelle de carga, Chiara desde la llamada).
@@ -282,7 +283,7 @@ Kal se quedó un momento más al final del muelle, con las manos en los bolsillo
 
 Se fue a la proa.
 
-No lo decidió. Sus pies decidieron, y ella los dejó. La proa era el único lugar del barco donde la fiesta quedaba entera a la espalda: la música se convertía en un murmullo con ritmo, las voces en un rumor sin palabras, y adelante sólo había el agua negra, el viento frío de diciembre metiéndosele por el vestido, y la costa oscura hacia el sur donde no había nada que mirar.
+No lo decidió. Sus pies decidieron, y ella los dejó. La proa era el único lugar del barco donde la fiesta quedaba entera a la espalda: la música se convertía en un murmullo con ritmo, las voces en un rumor sin palabras, y adelante sólo había el agua negra golpeando el casco, el viento frío de diciembre metiéndosele por el vestido, y la costa oscura hacia el sur donde no había nada que mirar.
 
 No estaba rota. No estaba llorando. Ni siquiera estaba enojada — eso era lo que más le molestaba: que un hombre tan chico hubiera podido gastarle veinte minutos de una noche que ella había armado durante semanas, y que no le hubiera dejado ni la dignidad de estar enojada. Sólo cansada. Cansada de esa forma específica en que se cansa alguien que acaba de tener que explicar, por segunda vez, algo que ya había explicado bien.
 
@@ -677,6 +678,8 @@ Se quedaron mirándose un momento, en el salón a media luz, con la música de l
 —Chiara.
 
 ---
+
+Cuando abrieron la puerta del salón, el viento y la música entraron de golpe.
 
 La fiesta terminó como terminan las fiestas buenas: sin que nadie se diera cuenta de en qué momento había dejado de ser fiesta.
 

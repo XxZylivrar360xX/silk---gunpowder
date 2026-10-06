@@ -116,7 +116,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 
 # Mundo
 
-- [[05_Locations/San_Aurelio]] — la ciudad. Puerto medio en la costa de California, partida en dos alturas. Mapa de barrios y geografía moral.
+- [[05_Locations/San_Aurelio]] — la ciudad. Puerto medio en una bahía de la costa de Oregon (inspiración: Portland; CANON 2026-10-06), partida en dos alturas. Cuatro estaciones marcadas; las heladas mueven mercancía por La Isla. Mapa de barrios y geografía moral.
 - [[05_Locations/Mapa_Operativo_de_San_Aurelio]] — geografía práctica: carreteras, tiempos narrativos, puntos de cierre, rutas de El Patio, rutas de Varek y ubicación recomendada de lugares pendientes.
 - [[05_Locations/Norte_Rural_de_San_Aurelio]] — eje norte: Lomas de San Jacinto, Kingsley Field, Rutas de Milla, Bellandi Ridge, Cedar Flats y Camp Alder.
 - [[05_Locations/Estado_de_la_Ciudad]] — tablero electoral y criminal: elecciones municipales, barrios del sur, mercado, gobierno de miedo de Varek y contraste con el ascenso de El Patio.
@@ -261,6 +261,8 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente_4_Camp_Alder]]: frente 4 (2026-10-05). La operación del 43 funcionaba, pero se resumía, y la salida nunca se había sembrado. Se ejecutaron P1 (llamada a Garrett en el 39) y P2 (dos viajes en el 43). CANON: Garrett pilotó en el ejército.
 - [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I]] — frente 1, Parte I (2026-10-05, AUDIT): narrador demasiado perfecto en los Caps. 1–25. Hay 51 candidatos, casi todos glosa y la acotación "Lo dijo…, como quien". Protegidos razonados. SURGERY hecha: 47 cortes, −615 palabras.
 - [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]] — frente 1, Parte II (2026-10-06, AUDIT): Caps. 26–34 leídos enteros. Hay 32 candidatos firmes (unas −390 palabras) y 9 dudosos; sobre todo fórmulas repetidas entre capítulos ("No era una pregunta", "No lo dijo como X; lo dijo como Y") y tesis del 29–30. SURGERY hecha (2026-10-06): 35 cortes, −452 palabras, más tres continuidades del 29 y el 32 (§7).
+- [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]] — plan de puesta en escena del Libro I (matriz del autor, 2026-10-06): ejecutado completo (🔴 18, 19, 20, 24c, 30; 🟡 12, 25, 29, 31, 38, 43), pendiente de lectura.
+- [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]] — matriz temporal por estaciones (2026-10-06, AUDIT): el libro dura ~15 meses (sep A1 → 29 dic A2). La Parte II cae en septiembre, no en invierno. La Navidad A2 cae dentro del arco sin Kal y la A1 en la elipsis del Cap. 10. Base para la pasada de vestuario; cuatro decisiones del autor.
 - [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Puesta_En_Escena_Cap_30_Piloto]] — piloto de puesta en escena y anclaje espacial (2026-10-06, AUDIT): Cap. 30; 11 candidatos (capó, abrigo/pantalón, el agua como relleno, luz ausente) y la geografía de las cascadas marcada para el autor.
 - [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]] — frente 1, Parte III (2026-10-06): AUDIT y SURGERY. Caps. 35–43 (el 42 no se reabrió): 35 cambios, −362 palabras, sobre todo la glosa institucional del 40 y el tic "con la misma X exacta". Falta la lectura del autor.
 - [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_03_Proporcion_Jim_Walt]] — frente 5 (2026-10-05): proporción del recuerdo de Jim frente a Walt en el Cap. 3. Diagnóstico: es de posición, no de longitud. B+D ejecutado (el recuerdo entra en la pausa antes del "Sí").
@@ -354,7 +356,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 
 **Y lo demás:**
 
-5. ~~Nombres provisionales.~~ **Ninguno queda.** Confirmados 2026-08-23: el título *Seda y Pólvora*, Chiara Ardizzone Bellandi y San Aurelio, California. Nombre vigente del protagonista desde 2026-09-13: **Kal Mercer**.
+5. ~~Nombres provisionales.~~ **Ninguno queda.** Confirmados 2026-08-23: el título *Seda y Pólvora*, Chiara Ardizzone Bellandi y San Aurelio (Oregon desde 2026-10-06; antes California). Nombre vigente del protagonista desde 2026-09-13: **Kal Mercer**.
 6. El nombre legal de la sociedad que opera The Monarch y los socios italianos visibles.
 7. **El nombre que la calle le pone a la organización de Kal.** Candidato natural a título del libro.
 8. **Por qué la familia dejó de poseer [[05_Locations/La_Casa]]** — PENDIENTE del autor; la recompra, arquitectura y doble fondo ya son canon.

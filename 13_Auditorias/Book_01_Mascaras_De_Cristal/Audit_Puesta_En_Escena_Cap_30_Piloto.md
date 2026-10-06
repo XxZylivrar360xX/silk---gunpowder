@@ -1,6 +1,6 @@
 # Auditoría de puesta en escena y anclaje espacial — Cap. 30 (piloto)
 
-**Modo:** AUDIT (skill `editorial-surgery`). **Aplicado por orden del autor (2026-10-06):** E30-1 y E30-2, la llegada a Las Gemelas (unas +50 palabras de lugar; según el CANON DEL AUTOR del 2026-10-06, las expansiones geográficas necesarias quedan excluidas de la poda y de los conteos, ver DO_NOT_TOUCH). El resto sigue sin aplicar. **Fecha:** 2026-10-06.
+**Modo:** AUDIT (skill `editorial-surgery`). **Aplicado por orden del autor (2026-10-06):** E30-1 y E30-2, la llegada a Las Gemelas, y E30-4, abrigo y pantalón (unas +50 palabras de lugar; según el CANON DEL AUTOR del 2026-10-06, las expansiones geográficas necesarias quedan excluidas de la poda y de los conteos, ver DO_NOT_TOUCH). El resto sigue sin aplicar. **Fecha:** 2026-10-06.
 **Capítulo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/30_Media_Baraja]] (BORRADOR).
 **Encargo del autor:** en cada escena importante, ¿el lector puede armar una postal básica del lugar y seguir sabiendo dónde están los cuerpos mientras hablan? Si no, diagnosticar qué falta: geometría, escala, luz, material, temperatura, sonido o interacción física. La interacción va antes que la descripción estática. No embellecer, no subir el conteo de palabras, no explicar qué simboliza el lugar y no inventar canon geográfico sin marcarlo.
 **Políticas:** [[12_Craft_Policies/staging_rules/04-dialogo-de-guion-sin-anclaje]], [[12_Craft_Policies/staging_rules/WATCHLIST]] (separadores) y [[12_Craft_Policies/editorial/MICROEDICION]].

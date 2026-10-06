@@ -892,7 +892,7 @@ Blake vuelve adentro. Ella se queda afuera y le manda un mensaje:
 
 > **RESUELTO (2026-08-23):** *Trent* era el nombre del personaje en el material de origen. Aquí es **Blake**.
 
-> **NOTA DE ADAPTACIÓN:** el material de origen habla de persecuciones "por la isla". Aquí es **San Aurelio, California** — ciudad costera, no isla. Traducir siempre.
+> **NOTA DE ADAPTACIÓN:** el material de origen habla de persecuciones "por la isla". Aquí es **San Aurelio, Oregon** (antes California; CANON DEL AUTOR 2026-10-06) — ciudad costera, no isla. Traducir siempre.
 
 ---
 
@@ -2720,6 +2720,7 @@ Mientras San Aurelio los convierte en **La Mancuerna de Hierro y Seda**, ellos p
 
 - **El paso del usted al tú.** Umbral, no descuido. Ver H2. **Resuelto provisionalmente en el Capítulo 6** (escena de la hierba); se puede mover si el autor prefiere otro umbral.
 - **La primera Navidad y el collar.** Obligatorio: es donde nace el ritual que sostiene H1, y es la única vez en su vida adulta que Kal acepta un regalo sin convertirlo en transacción.
+  > **CANON DEL AUTOR (2026-10-06):** en el Libro I, Navidad, Año Nuevo y el cumpleaños de Kal pasan con Kal preso (arco sin Kal), y la Navidad del año 1 tampoco la pasaron juntos. La reconciliación carga con esas ausencias. *Sombras de Poder* cubre esencialmente un año: su Navidad, a fin de ese año, es la primera juntos, la que Chiara quiere perfecta para no perder ni un minuto con él. Ahí va el collar, y F4 duele más. [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]].
 - **La primera vela.** **Resuelta de diseño:** nace después de [[06_Relationships/Momentos_de_Fractura]], F4, el Año Nuevo en Washington. Falta escribir la escena exacta.
 - **~~La mudanza~~ — COLOCADA (2026-08-29):** es [[#H16 — El cumpleaños / la mudanza oficial]], el día del cumpleaños de Chiara, después de H7. Para estos dos, mudarse pesa más que casarse. Faltan los detalles de ejecución.
 - **Las clases de italiano** — canon obligatorio, porque H1 las cobra. Domésticas, repetidas, cómicas.

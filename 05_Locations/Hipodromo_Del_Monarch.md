@@ -19,6 +19,8 @@ Es el escenario del ataque de [[06_Relationships/Hitos]], H12 — "El corral". K
 
 ## Pendientes
 
+> **Microespacio del corral (DISEÑO en el Cap. 24c, 2026-10-06, pendiente de lectura):** detrás del Monarch el asfalto termina en tierra apisonada de servicio. Las caballerizas son un bloque largo de madera y lámina con un foco de servicio sobre la puerta, y el corral, de cerca de tablones con portón y pasador de fierro, está pegado a un par de pasos. La pista se pierde detrás.
+
 > **PENDIENTE:** cómo se ve exactamente — tamaño, cuántos empleados, si tiene nombre propio más allá de "el hipódromo".
 
 > **PENDIENTE:** por qué Chiara no tiene su propio caballo en Bellandi Ridge en cambio — decisión narrativa ya tomada (2026-08-28: el ataque se mueve aquí desde Bellandi Ridge), pero vale la pena una línea en prosa en algún momento que explique por qué monta aquí y no en su viñedo.

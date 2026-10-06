@@ -1,4 +1,5 @@
 <!--
+PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): geometría de la franja hecha visible una vez (vidrio de la caja con Kenji a un lado, puerta batiente del pasillo de servicio al otro, piso de juego a espaldas de Kal; por eso "A espaldas de Kal, en una mesa" pasa a "En una de las mesas"); segunda interferencia del casino: un mesero con una charola obliga a Kal a dar medio paso hacia ella y no lo devuelve.
 Estado: TERMINADO.
 Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_12_Roma_Atrii.md (§11). Resumen: marca temporal en la apertura; la pieza de la gasolinera/fiscales sale del montaje (es del Cap. 13); se corta el movimiento de la alarma del Peugeot (la razon llega solo en el dialogo de Chiara con Kal); fuera "las velas que enciendo por ti" (la vela por Kal nace despues de F4); "membrete" -> "papel de los suyos"; cortes de glosa, repeticion y POV (B1-B14); recuerdo de Palermo del hilo A en la noche del penthouse (DISEÑO del agente, pendiente de lectura del autor). Lo de abajo describe el diseno previo a la cirugia.
 Dialogo Kal/Chiara (2026-10-04, direccion del autor; prosa DISENO del agente, pendiente de lectura): la confrontacion del Monarch se reescribe por descubrimiento progresivo. El error del chico se admite pronto; Kal sigue preguntando por la cadena (quien escribio, quien sabe leer, quien es el chico: "No lo se. Kenji si.") y la friccion pasa al sistema; Chiara defiende decisiones, no doctrina, y marca territorio ("Esto otro es mio"); fe como origen antiguo de la red, sin intercambio de tesis; concesiones cruzadas: ella cambia la ruta porque el nombre se dijo en voz alta en el Patio, el se guarda la pregunta de cuantos son. Se conservan la admision, el Peugeot, "red visible/invisible", iglesia, "pagar, arreglar o cobrar", ternura, *Llegarte* y "Todavia no". Salen "La mia no pide resultados..." y "Supongo que tambien es una fe". Detalle: Audit_Cap_12_Roma_Atrii.md §12.
@@ -245,7 +246,7 @@ Chiara había llegado sin que ninguno de los dos la oyera acercarse — o quizá
 
 Kal entendió, en el mismo segundo, dos cosas: que Kenji no sabía nada de lo que había entre ellos, y que Chiara acababa de decidir, delante de él, que seguiría sin saberlo.
 
-Lo llevó aparte, a la franja de piso entre la caja y el pasillo de servicio, donde el ruido de las máquinas tapaba cualquier conversación a menos de un metro.
+Lo llevó aparte, a la franja de piso entre la caja y el pasillo de servicio, donde el ruido de las máquinas tapaba cualquier conversación a menos de un metro. De un lado quedaba el vidrio de la caja, con Kenji detrás; del otro, la puerta batiente del pasillo de servicio. A espaldas de Kal, el piso de juego.
 
 Chiara no discutió. No preguntó cómo se había enterado. No defendió el método, no dijo que el chico estaba bien pagado ni que nunca lo habría puesto en peligro real. Lo miró y dijo:
 
@@ -293,7 +294,7 @@ Kal levantó la vista. A diez metros, Kenji cambiaba fichas sin voltear hacia el
 
 —Yo lo paré.
 
-Chiara no contestó enseguida. A espaldas de Kal, en una mesa, algo subió de tono. Ella levantó un dedo hacia alguien de seguridad, apenas, y el problema se resolvió sin que tuviera que moverse.
+Chiara no contestó enseguida. En una de las mesas, algo subió de tono. Ella levantó un dedo hacia alguien de seguridad, apenas, y el problema se resolvió sin que tuviera que moverse.
 
 —Kenji sabe lo de su caja. El chico sabía una dirección y un nombre que no entendía. Si alguno cae, cae con eso y nada más. —Lo dijo al ritmo de quien cuenta piezas de algo que funciona—. Una red visible es un blanco, Kal. Una invisible es una costumbre. Nadie delata una costumbre.
 
@@ -312,6 +313,8 @@ Kal no le contestó eso. Miró el papel.
 Chiara lo sostuvo un momento. Algo en ella cambió de mano, como una ficha.
 
 —El chico ya te lo di, Kal. —Ni dura ni suave—. Esto otro es mío.
+
+Un mesero salió del pasillo de servicio con una charola de copas, y Kal tuvo que dar medio paso hacia ella para dejarlo pasar. No lo devolvió.
 
 Kal bajó la vista al papel, a la letra inclinada siempre hacia el mismo lado, al latín que no leía.
 

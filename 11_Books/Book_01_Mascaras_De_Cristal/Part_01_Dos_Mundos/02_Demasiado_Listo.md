@@ -6,7 +6,7 @@ Lugares: Kingsley Field, carreteras del norte de San Aurelio, The Monarch Casino
 Funcion: dar a Chiara entrada propia, presentar a Fabrizio, Tommaso y Dario, la reunion interna sin Kal, el primer apreton de manos, el rechazo por "demasiado listo" y el cierre paralelo de radar mutuo.
 Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_01-03.md (seccion 9). Canon del autor: Chiara administraba casinos de Il Consorzio en Nueva York antes de San Aurelio; Il Consigliere la llama signora Ardizzone (institucion); entre sus aliados, el unico que naturalmente la llama Ardizzone es Fabrizio, por la amistad de infancia; la sala del Monarch queda en POV de Kal hasta que el sale, y despues pasa a Chiara.
 Dialogo K/C y reparto reescrito (2026-10-04, cirugia extraordinaria autorizada por el autor sobre capitulo TERMINADO; el estado se conserva). Direccion del autor: Chiara quiere entender la decision del Consigliere (que hace ella ahi) y cataloga a Tommaso, Matteo y Kal como variables externas, Kal la interesante por nueva; Kal busca dinero a gran escala y prestigio (Nadir ya abrio la estetica de autos; el casino abre carreras callejeras y tuneo), y los ojos de ella le duran mas que los pocos segundos que da a las mujeres de su circulo; Tommaso la vigila porque la version de Alessio asaltado solo en casa no le cierra, y la tolera porque su vision de negocio es afilada; Matteo ve en Kal a un hombre de calle que como socio puede abrir negocios futuros. DISENO del agente, BORRADOR pendiente de lectura; ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I.md §7. Intactos: Consigliere, H2, catre (salvo un parrafo), tina, y las lineas protegidas de Audit_Caps_01-03 §9.
-Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); capitulo TERMINADO, el estado se conserva; prosa nueva DISENO pendiente de lectura): Tommaso la llama "Bellandi" (regla dura de su ficha) en el lobby y al cerrar la junta. Fabrizio: "La inteligencia no es un defecto" sustituida por la anecdota del abuelo que corria a los listos (eleccion del autor). "Chiara Ardizzone en California... mapas" se queda (decision del autor).
+Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); capitulo TERMINADO, el estado se conserva; prosa nueva DISENO pendiente de lectura): Tommaso la llama "Bellandi" (regla dura de su ficha) en el lobby y al cerrar la junta. Fabrizio: "La inteligencia no es un defecto" sustituida por la anecdota del abuelo que corria a los listos (eleccion del autor). "Chiara Ardizzone en California... mapas" se queda (decision del autor); el 2026-10-06 el autor la cambio a "Chiara Ardizzone en la costa oeste" (San Aurelio pasa a Oregon; sarcasmo: hasta ahora siempre habia estado en la costa este, en Nueva York).
 Narrador (2026-10-05, SURGERY autorizada por el autor sobre capitulo TERMINADO; el estado se conserva): fuera "Era solo un dato." del lado de Kal (el "dato" es lexico de Chiara; el espejo sigue con "No era inicio de nada" y el radar), "el dato mas honesto de la tarde", la maxima del apreton de manos y "No era admiracion. Era algo mas util." Detalle: 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Narrador_Tesis_Resenas_ChatGPT.md.
 -->
 
@@ -14,7 +14,7 @@ Narrador (2026-10-05, SURGERY autorizada por el autor sobre capitulo TERMINADO; 
 
 Antes de que San Aurelio tuviera calles para ella, fue una mancha de luz bajo el ala del avión.
 
-Chiara Bellandi miró por la ventanilla mientras la costa de California subía hacia ellos con una paciencia falsa. Primero vio el mar, demasiado ancho para parecer íntimo. Después la franja pálida de playa, las carreteras que cortaban la tierra seca, los techos bajos de los barrios industriales y, más lejos, el brillo vertical de una ciudad que había aprendido a venderse desde arriba.
+Chiara Bellandi miró por la ventanilla mientras la costa de Oregon subía hacia ellos con una paciencia falsa. Primero vio el mar, demasiado ancho para parecer íntimo. Después la franja pálida de playa, las carreteras que cortaban la tierra seca, los techos bajos de los barrios industriales y, más lejos, el brillo vertical de una ciudad que había aprendido a venderse desde arriba.
 
 Desde el aire, todo parecía limpio. Hasta las zonas feas tenían una geometría obediente: almacenes alineados, patios de camiones, avenidas rectas, canales de concreto que recogían una lluvia que no estaba. Chiara sabía que los lugares mentían mejor cuando se miraban desde lejos. Palermo también podía parecer una postal si uno elegía la altura correcta.
 
@@ -44,7 +44,7 @@ Se sentó sin que ella lo invitara, en la silla al otro lado del escritorio, y d
 
 Chiara cerró la carpeta despacio, sin la prisa que él pudiera leer.
 
-—La familia Ardizzone va a tener un lugar en San Aurelio. Una ciudad modesta, en California. Usted la conocerá pronto.
+—La familia Ardizzone va a tener un lugar en San Aurelio. Una ciudad modesta, en Oregon. Usted la conocerá pronto.
 
 —¿Un lugar?
 
@@ -84,7 +84,7 @@ Las ruedas tocaron la pista con un golpe seco. Chiara parpadeó una vez, como si
 
 Miró la carpeta sobre sus piernas como se mira a un animal que todavía no ha decidido si va a morder.
 
-La carpeta era el primer error de California. En Palermo, nadie con poder real llevaba papeles visibles fuera de una oficina. En San Aurelio, por lo visto, los hombres de migración querían sellos, direcciones, teléfonos, copias, confirmaciones, y después le sonreían como si toda esa burocracia no fuera una forma menor de violencia.
+La carpeta era el primer error de Oregon. En Palermo, nadie con poder real llevaba papeles visibles fuera de una oficina. En San Aurelio, por lo visto, los hombres de migración querían sellos, direcciones, teléfonos, copias, confirmaciones, y después le sonreían como si toda esa burocracia no fuera una forma menor de violencia.
 
 En la fila de migración había tres ventanillas abiertas. Chiara eligió la del oficial más joven, no por prisa: el muchacho todavía revisaba cada sello como si alguien fuera a auditarlo después. Le entregó los papeles en el orden exacto en que iba a pedírselos y le sostuvo la mirada el tiempo justo para que sintiera que estaba haciendo bien su trabajo.
 
@@ -94,7 +94,7 @@ No porque le hiciera gracia. Porque la gente que cree tener una ventanilla suele
 
 Salió de ahí con el sello y con la primera medida del país: en San Aurelio el trámite era la frontera, no el hombre que la vigilaba.
 
-El abrigo corto de felpa blanco le sobraba para California. No se lo quitó. Al salir de la zona internacional de Kingsley Field, lo primero que notó fue el olor: aire acondicionado, café quemado, combustible de avión y algo seco, vegetal, que no supo nombrar. La luz entraba desde los ventanales con una claridad demasiado honesta. En Sicilia, la luz sabía negociar. En California parecía llegar con abogados.
+El abrigo corto de felpa blanco le sobraba para Oregon. No se lo quitó. Al salir de la zona internacional de Kingsley Field, lo primero que notó fue el olor: aire acondicionado, café quemado, combustible de avión y algo seco, vegetal, que no supo nombrar. La luz entraba desde los ventanales con una claridad demasiado honesta. En Sicilia, la luz sabía negociar. En Oregon parecía llegar con abogados.
 
 Matteo Bellacorte la esperaba junto a una columna, hablando por teléfono y usando la mano libre para dirigir a un chofer que no lo estaba mirando.
 
@@ -188,7 +188,7 @@ El lobby estaba demasiado frío. El tipo de frío que los hoteles caros usan par
 
 Fabrizio Rinaldi la esperaba en el lobby con una sonrisa demasiado grande para una ciudad desconocida.
 
-—Chiara Ardizzone en California —dijo—. Ahora sí el mundo se quedó sin mapas.
+—Chiara Ardizzone en la costa oeste —dijo—. Ahora sí el mundo se quedó sin mapas.
 
 Ella le permitió besarle ambas mejillas.
 

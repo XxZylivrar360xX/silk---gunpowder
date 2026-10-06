@@ -2,9 +2,19 @@
 
 *Ficha de Lugar — la ciudad*
 
-> **NOMBRE CONFIRMADO POR EL AUTOR (2026-08-23): San Aurelio, California.** Era la última pieza provisional del proyecto. Ya no queda ninguna.
+> **NOMBRE CONFIRMADO POR EL AUTOR (2026-08-23): San Aurelio.** Era la última pieza provisional del proyecto. Ya no queda ninguna.
+>
+> **CANON DEL AUTOR (2026-10-06): San Aurelio, Oregon** (antes California; ya no). Inspiración: **Portland**. Es una ciudad ficticia en una bahía de la costa de Oregon: licencia de ficción, porque Portland está sobre un río y no hay una ciudad costera de ese tamaño en Oregon. Se conservan intactos el mar, el puerto, la bahía, La Isla y toda la geografía ya planteada. La línea de Fabrizio en el Cap. 2 pasa a "Chiara Ardizzone en la costa oeste" (sarcasmo: hasta ahora siempre había estado en la costa este, en Nueva York).
 
-**Qué es:** ciudad ficticia de la costa de California. Puerto medio, población de alrededor de un millón, fundación española y decadencia industrial encima.
+> **FORMA DE LA CIUDAD — PLANTEADO POR EL AUTOR (2026-10-06), pendiente del boceto de mapa. No propagar a prosa todavía.**
+> - La ciudad tiene forma de **gran luna creciente: La Media Luna**.
+> - En el centro, en el mar, dentro del abrazo de la luna, está **La Isla**: masa de tierra grande, centro y capital de la ciudad, con forma de **corona**. Las puntas miran al océano abierto y la base mira a La Media Luna. [Antes "estrella irregular"; el autor la cambió el mismo día.]
+> - **El Monarch está en la punta central de la corona, la más cercana al océano.** Corona = Monarch: la geografía explica el nombre. Ya hay apoyo en el canon: Calle Corona, Plaza Corona y Bulevar Corona existen (25 menciones en 9 fichas), y pueden leerse como nombres que vienen de la forma de la isla. Hay que reconciliarlo con "cerca de La Isla pero no dentro" del Mapa Operativo; quizá la punta es un enclave privado fuera del territorio de los Saints.
+> - Un **gran puente de piedra antigua** conecta La Isla con La Media Luna.
+> - **Dimensión de La Isla — PENDIENTE.** El autor la estima en "aproximadamente 1/3 de Númenor". Por el núcleo de Númenor (unas 250 millas, ~400 km), eso da unos 130 km, del tamaño de Puerto Rico o Córcega. Esa escala choca con "un millón de habitantes", con los tiempos del [[05_Locations/Mapa_Operativo_de_San_Aurelio]] (Milla → La Isla, 25–40 min) y con un puente de piedra. Se calibra con el boceto.
+> - **Cómo se reconcilia con lo escrito — PENDIENTE.** Hoy La Isla es la "zona costera de ocio" de los Breakwater Saints. El Monarch está "cerca de La Isla pero no dentro". Hay 41 menciones en 14 capítulos del Libro I. Se reconcilia cuando exista el mapa.
+
+**Qué es:** ciudad ficticia de la costa de Oregon. Puerto medio, población de alrededor de un millón, nombre español heredado de las cartas de navegación del siglo XVIII (en esa costa hay cabos con nombres españoles) y decadencia industrial encima. [Antes: "fundación española"; se matizó con el traslado a Oregon, 2026-10-06, DISEÑO.]
 **Función narrativa:** no es escenario. Es la tercera protagonista, y el premio por el que compiten los dos primeros.
 
 **Mapa operativo:** ver [[05_Locations/Mapa_Operativo_de_San_Aurelio]] para carreteras, tiempos narrativos, puntos de cierre, rutas de El Patio, rutas de Varek y ubicación recomendada de lugares pendientes.
@@ -17,7 +27,16 @@ Una ciudad que fue importante hace cuarenta años y no ha terminado de aceptarlo
 
 **El resultado es la geografía moral del libro:** una ciudad partida en dos alturas donde los de arriba necesitan constantemente servicios de los de abajo y prefieren no saber cómo se prestan.
 
-Clima: sol seco casi todo el año, niebla marina de madrugada que borra las calles bajas y no sube a la colina. Eso es literal y es útil.
+**Clima — CANON DEL AUTOR (2026-10-06, Oregon; ficción con licencia para jugar con el clima).** Cuatro estaciones marcadas:
+- **Primavera:** vegetación alta, cosechas y colores vivos. Se lleva las lluvias.
+- **Verano:** tanto calor que usar pantalón largo es un crimen. El calor entra de golpe en junio; un día gris de junio es una rareza (Cap. 18).
+- **Otoño:** hojas naranjas y amarillas que caen y el viento arrastra por las calles.
+- **Invierno:** lluvia y **temporadas de heladas**. **Regla de mundo:** el crimen usa las heladas para mover más mercancía por La Isla (marinas, costa). Se exponen las vidas al clima a cambio de más dinero.
+- Todo el año: niebla marina de madrugada que borra las calles bajas y no sube a la colina.
+
+Ubicación en el calendario del Libro I: los Caps. 26–31 son septiembre, con calor de fin de verano, madrugadas y noches de sierra que refrescan y las primeras señales de otoño. El abrigo de Chiara en 29–30 es una capa ligera de madrugada. El invierno son los Caps. 7–11 y 38–50b ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]).
+
+[Retirado 2026-10-06: "sol seco casi todo el año" y el párrafo "Invierno templado" (DISEÑO del mismo día), superados por el traslado a Oregon.]
 
 ---
 
@@ -79,7 +98,7 @@ San Aurelio es una ciudad ficticia de Estados Unidos. Puede incorporar cultura l
 
 **La mansión de Varek** — donde Kal se le ofrece, en el patio ([[06_Relationships/Hitos]], H6). **PENDIENTE:** ficha propia.
 
-**Las Gemelas (las cascadas)** — apartado, con ruido de naturaleza y sin interrupciones. **El primer lugar del libro que no es territorio de nadie**, y donde Kal y Chiara sellan su pacto. **Aspecto (CANON DEL AUTOR, 2026-10-06):** caída alta en varios saltos dentro de una hondonada cerrada de roca oscura con musgo y helecho, poza verde, banco de piedras grandes en una orilla y luz difusa sin sol directo. Se baja a pie desde donde termina el camino de tierra. Es el único verde húmedo en una ciudad de sol seco. **Nombre y ubicación (CANON DEL AUTOR, 2026-10-06):** *Las Gemelas*, por las dos caídas altas, una frente a la otra; cerros del noreste. La carretera "al norte" del Cap. 29 tuerce hacia allá. Idealización visual (no es canon de detalle): [[99_Reference/location_references/Las_Gemelas_idealizacion.webp]].
+**Las Gemelas (las cascadas)** — apartado, con ruido de naturaleza y sin interrupciones. **El primer lugar del libro que no es territorio de nadie**, y donde Kal y Chiara sellan su pacto. **Aspecto (CANON DEL AUTOR, 2026-10-06):** caída alta en varios saltos dentro de una hondonada cerrada de roca oscura con musgo y helecho, poza verde, banco de piedras grandes en una orilla y luz difusa sin sol directo. Se baja a pie desde donde termina el camino de tierra. Es el verde más húmedo de la región: no se seca ni en el peor calor del verano. **Nombre y ubicación (CANON DEL AUTOR, 2026-10-06):** *Las Gemelas*, por las dos caídas altas, una frente a la otra; cerros del noreste. La carretera "al norte" del Cap. 29 tuerce hacia allá. Idealización visual (no es canon de detalle): [[99_Reference/location_references/Las_Gemelas_idealizacion.webp]].
 
 **[[05_Locations/Camp_Alder|Camp Alder]]** — complejo militar al noreste, donde los civiles no tienen acceso. La fuente del armamento largo que Kal ofrece a Varek en H6.
 

@@ -215,7 +215,7 @@ Elenna no es un *stake* ornamental ni la única razón de Palermo. Palermo tambi
 - Victoria o transformacion que cierra la guerra y abre el vacio de poder.
 - Afinar el corte Parte III → Parte IV alrededor de la muerte pública de Halbrook y su consecuencia federal.
 - Posicion y ejecucion de la formalizacion “mi pareja”.
-- Primera Navidad y entrega del collar.
+- ~~Primera Navidad y entrega del collar.~~ **Pertenece al Libro II**, a fin de su año (CANON DEL AUTOR 2026-10-06). En este libro, la Navidad, el Año Nuevo y el cumpleaños de Kal del año 2 pasan con Kal preso (arco sin Kal), y la Navidad A1 cae en la elipsis del Cap. 10 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]).
 - Operacion especifica de H1.
 - Posición fina de H1 dentro de Parte II, diálogo del reveal posterior y reacción textual de Kal.
 - Detonante exacto que obliga a ocultar a Elenna y mecanismos médico, documental y logístico de su muerte pública / traslado.

@@ -4,6 +4,7 @@ Título: PENDIENTE. "Llaves" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
 Personajes con diálogo: Héctor Navarro, Nadir Amrani, Danny Hayes, Garrett Cross, Walt Keegan, Marisol Grayson (una línea, por teléfono).
 Ventana temporal: tarde y anochecer de D8 (horas después del amanecer en el Cutoff, Cap. 45). El plan decía D8–D9; el capítulo cabe en una sola tarde. Sin encabezados de fecha.
+Calendario (CANON DEL AUTOR 2026-10-06, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]): jueves 30 de diciembre. El "campamento de fin de mes" de Marisol pasa a fin de año (prosa pendiente).
 Lugares: La Almendra (el rodeo para no pasar frente al loft); Almendra Towing / El Patio: portón, capó de Héctor, mostrador de Nadir, oficina de Garrett, la camioneta del fondo.
 Función: "Los de Kal". La gente de Kal la recibe fría y termina siguiéndola. Movimiento de poder: Nadir le entrega las llaves; Chiara cita al hombre de Dario; Héctor le pasa el teléfono para Marisol.
 - Frialdad (DISEÑO): no por F1 (nadie en el Patio sabe de la pelea ni de la puerta del penthouse, Cap. 43), sino por cuatro días de silencio: Héctor le preguntó en el 44 "¿Usted puede hacer algo?" y ella no volvió a llamar.

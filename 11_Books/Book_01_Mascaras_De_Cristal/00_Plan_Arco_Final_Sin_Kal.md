@@ -16,7 +16,9 @@ Cada puerta es más cara que la anterior y lo que se paga deja de ser dinero par
 
 ## Duración (CANON DEL AUTOR)
 
-Kal pasa **unos nueve días** en Camp Alder: arresto la noche de D4 (Cap. 43), regreso la noche de D13. Se retira "Los Tres Días" como alegoría D4–D6. Solo POV de Chiara en todo el arco; no hay interludios de Kal.
+> **CALENDARIO (CANON DEL AUTOR 2026-10-06, supersede los "nueve días"):** Kal pasa **unos dieciséis días** preso. Navidad, Año Nuevo y su cumpleaños (1 ene) pasan sin él. La semana extra entra en el Cap. 45 (*Su red*: la prueba de vida tarda), y ahí cae la Navidad. 46 = jue 30 dic; 47 = vie 31 dic – sáb 1 ene; 48 = sáb 1 – lun 3 ene; 49–50 = lun 3 – mar 4 ene; 50b = mié 5 ene, alba. Los días de la semana citados en prosa no cambian. Las etiquetas D de la tabla de abajo, de 45 en adelante, se leen +7. La prosa (Navidad en el 45, Nochevieja y Año Nuevo en 47–48, "fin de mes" de Marisol en el 46) está pendiente de pasada. [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]].
+
+~~Kal pasa **unos nueve días** en Camp Alder: arresto la noche de D4 (Cap. 43), regreso la noche de D13.~~ Se retira "Los Tres Días" como alegoría D4–D6. Solo POV de Chiara en todo el arco; no hay interludios de Kal.
 
 ## Estructura
 

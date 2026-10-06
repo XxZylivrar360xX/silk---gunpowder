@@ -4,6 +4,7 @@ Título: PENDIENTE. "Intereses" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
 Personajes con diálogo: Héctor Navarro, Nadir Amrani, Danny Hayes, Garrett Cross, el hombre del Audi (sin nombre), Dario Varek, Lucía Varek (por teléfono).
 Ventana temporal: tarde y noche de D9 (viernes) y mañana de D10 (sábado). Sin encabezados de fecha.
+Calendario (CANON DEL AUTOR 2026-10-06: Navidad, Año Nuevo y el cumpleaños de Kal, sin Kal; confirmado por el autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]] § Decisiones): viernes 31 de diciembre (Nochevieja) y sábado 1 de enero (Año Nuevo y cumpleaños de Kal). La prosa todavía no lo registra; falta la pasada, con dirección del autor.
 Lugares: El Patio (portón, capó, camioneta lavada); Terminal Road y una bodega del Puerto Viejo con oficina en alto sobre los muelles; el despacho de Chiara en el Monarch.
 Función: CANON DEL AUTOR — Chiara concreta con El Patio la entrega de las armas largas y el pago a Dario; Dario exige intereses por el retraso, pagados por el barrio con trabajos; Chiara se niega y queda a deber personalmente un favor sin nombre que Dario cobra cuando quiera (Kal no lo sabe). Llama Lucía con la fecha del traslado. Cierre: el reloj.
 DISEÑO del agente, pendiente de lectura:

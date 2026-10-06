@@ -4,6 +4,7 @@ Título: PENDIENTE. "Enfrente" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
 Personajes con diálogo: Leone Valenti, una voz de mujer en Nueva York (por teléfono), el portero del Monarch, la recepción del Monarch (por teléfono).
 Ventana temporal: mañana de D12 (lunes) a tarde de D13 (martes, antes del convoy). Sin encabezados de fecha.
+Calendario (CANON DEL AUTOR 2026-10-06, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]): lunes 3 a martes 4 de enero.
 Lugares: despacho de Chiara en el Monarch; el Hotel Pacífica, enfrente del Monarch sobre el Paseo Pacífica (DISEÑO: nuevo, hotel de los años veinte, el "hotel de enfrente" del Cap. 48), suite del piso once; el Paseo Pacífica a pie.
 Función: CANON DEL AUTOR — Il Consigliere. Valenti puede ayudar y se niega: la mesa no lo ve oportuno; Kal Mercer es un activo interesante, aún irrelevante, que no vale la atención. A ella le ofrecen mover los hilos para que sea dueña legítima del Monarch. Le niegan al hombre y le ofrecen la corona. Cierre: ella no contesta (DISEÑO del plan).
 Decisiones del autor en sesión (2026-10-02): Valenti ya está en San Aurelio cuando ella lo busca; ella pide la ayuda (última puerta humana); la oferta implica quitarle el Monarch a Dario (socio mayoritario): la corona viene con guerra, Valenti no lo dice y ella lo entiende.
@@ -107,7 +108,7 @@ Chiara tomó su taza. El café estaba bueno. Lo tomó como se toma algo en una c
 
 —¿Sí? Entonces sabe de qué hablo.
 
-Valenti tomó una galleta del plato, la miró y la volvió a dejar. Habló un rato de Génova, del puerto donde su padre había trabajado de contador para una naviera, de lo mal que se comía en los hoteles de California y lo bien que se comía en las cocinas de los mismos hoteles, si uno conocía a alguien. Chiara le siguió el paso. Hizo una pregunta sobre la naviera; él la contestó con gusto. Afuera la luz empezaba a ponerse naranja sobre la torre del Monarch y a hacer brillar la fila de ventanas del último piso.
+Valenti tomó una galleta del plato, la miró y la volvió a dejar. Habló un rato de Génova, del puerto donde su padre había trabajado de contador para una naviera, de lo mal que se comía en los hoteles de Oregon y lo bien que se comía en las cocinas de los mismos hoteles, si uno conocía a alguien. Chiara le siguió el paso. Hizo una pregunta sobre la naviera; él la contestó con gusto. Afuera la luz empezaba a ponerse naranja sobre la torre del Monarch y a hacer brillar la fila de ventanas del último piso.
 
 Después Valenti dejó la taza en el plato con un sonido pequeño y exacto.
 

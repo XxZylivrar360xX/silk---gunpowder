@@ -4,6 +4,7 @@ Título: "La tierra bajo sus botas" — CANON DEL AUTOR (plan, 2026-10-01; confi
 POV: narrador, aislado y externo (CANON DEL AUTOR). No hay interioridad de Halbrook ni de nadie.
 Personajes: Warren Halbrook (sin nombrar en prosa; el lector lo reconoce por el retrato del Cap. 27), un hombre delgado de traje (una palabra de diálogo: "General.").
 Momento: CANON DEL AUTOR — madrugada posterior al apagón, hacia las 5 a. m., primeras luces.
+Calendario (CANON DEL AUTOR 2026-10-06, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]): miércoles 5 de enero, alba.
 Encargo del autor (2026-10-02): la presencia de Halbrook debe salir del libro y acosar al lector. Cliffhanger en dos tiempos: (1) ¿cómo salió Kal?; (2) este hombre es peligroso y tiene un expediente con los protagonistas. Cierra con una sola sonrisa, del tipo "Thanos después de chasquear los dedos".
 CANON DEL AUTOR respetado: baja del helicóptero; un hombre delgado de traje le entrega un expediente; fotos de La Almendra, el Monarch, Il Gelsomino, Chiara, Kal y los chicos del Patio; primeras luces.
 DISEÑO del agente, pendiente de lectura:
