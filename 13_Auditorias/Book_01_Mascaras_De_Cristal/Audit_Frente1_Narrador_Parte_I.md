@@ -222,6 +222,7 @@ La noche del jacuzzi es casi toda diálogo canon y no se toca. Lo que pesa son l
   - 24c:197, "—El hipódromo es mío.", va directo a la pregunta de Dario.
   - 25:338, "—A mí. Y yo no sabía nada.": el eco "A ti / A mí" sostiene el ritmo sin acotación.
 - **Conservados por decisión:** N5-2, N5-7 y N18-6.
+- **F3-9 (frente 3, Cap. 1:444), arrastrado:** el autor lo había aprobado para ejecutarse con este frente y se había quedado fuera del dictamen. Se aplicó después: salen "Nadir no había preguntado… terminara de celebrarla." (unas 60 palabras) y el párrafo arranca en "Kal nunca lo dejaba cerca de los libros que importaban…". Total del frente en la Parte I: 48 cortes, unas −675 palabras.
 
 ## 5. Autocrítica (MICROEDICION §F)
 

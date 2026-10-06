@@ -103,3 +103,5 @@ Todo junto, si apruebas F3-1 (b y c), F3-2, F3-4, F3-5, F3-6 y F3-9, son unas 50
 - **Lo más agresivo:** F3-2, unas 275 palabras de diseño.
 - **Lo que más dudo:** F3-7. El puente es un gesto movido de lugar, no texto nuevo, pero cambia el motivo de la confesión de la vida civil: antes nacía de "esa filosofía tuya"; ahora nace de la gratitud. Si al leerlo no te cierra, la alternativa es restaurar "—Te das cuenta de cosas que yo no." antes de "Cuando volví…".
 - **Riesgo de esterilizar:** bajo. No se tocó ninguna línea canon ni ninguna firma de voz.
+
+**Microcostura del 38 (2026-10-05, tras la lectura postoperatoria):** la costura vigilada en la víspera se resolvió con una sola réplica puente, sin restaurar F3-7: *"—Yo tampoco sabía tener a nadie tan cerca. —No levantó la vista del teclado—. Cuando volví a la vida civil…"*. DISEÑO pendiente de lectura.

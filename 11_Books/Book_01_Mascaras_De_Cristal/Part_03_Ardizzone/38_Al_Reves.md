@@ -28,6 +28,7 @@ Función: celebración coral que se convierte en el gatillo del viaje a Palermo.
 - Registro: público sin afecto (Kal invitado especial, no anfitrión; no vigila a Chiara; no celos). Registro privado aflojado en proa y salón. Kal no se pone lírico; el narrador no glosa. Acotaciones: dijo / preguntó / contestó / repitió; sin adverbios en -mente en los tags.
 - **ORDEN — RESUELTO POR EL AUTOR (2026-09-20, misma sesión):** el orden viejo (F1 → Los Tres Días → reconciliación → H13 → Palermo) queda **SUPERSEDIDO**. Nuevo canon: `H16 → Cuatro letras → fiesta / H13 → Palermo (H17) → regreso (H18) → investigación de Matteo / F1 → Los Tres Días → reconciliación`. Razón del autor: F1 pesa más después de Palermo, cuando Blake y la bala ya establecieron que Chiara normalmente sí le cuenta las cosas a Kal — su "Nada" sobre Matteo será mucho más grave. Timeline, Hitos y Kal_y_Chiara actualizados en consecuencia.
 - **Frente 3, densidad (2026-10-05, SURGERY autorizada por el autor; sigue BORRADOR):** en la proa, fuera lo que Chiara le repite a Kal de Blake ("Esta noche vino a que le corrigiera la historia… No se lo di.", F3-6); queda "No lo era. No todavia." La vispera, comprimida (F3-7): fuera el agradecimiento razonado ("Porque me dejaste ensenar quien soy… me diste la mano igual"), "no hablemos de frenos" y la filosofia de "se vive mejor con gente al lado"; despues de "A mi no tienes que darme las gracias de nada", el gesto de la tecla lleva directo a la vida civil y al arma bajo la almohada. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Densidad_Funcion_Frente_3.md §5.
+- **Microcostura de la vispera (2026-10-05, pedida por el autor tras la lectura postoperatoria; DISENO del agente, pendiente de lectura):** entre la tecla y la vida civil entra una sola replica puente, "Yo tampoco sabia tener a nadie tan cerca", con la acotacion "No levanto la vista del teclado". La gratitud de Chiara le abre a Kal la confesion. No se restauro nada de F3-7 (ni "me dejaste ensenar quien soy", ni frenos, ni "se vive mejor con gente al lado").
 -->
 
 # Capítulo 38 — Al revés
@@ -480,7 +481,7 @@ Chiara no le dijo dónde iba a estar mañana.
 
 Pasó el pulgar por el borde de una tecla sin hundirla.
 
-—Cuando volví a la vida civil, lo que más me costó fue apagar la cabeza. Dormir. Oír un ruido en la calle y que fuera sólo un ruido.
+—Yo tampoco sabía tener a nadie tan cerca. —No levantó la vista del teclado—. Cuando volví a la vida civil, lo que más me costó fue apagar la cabeza. Dormir. Oír un ruido en la calle y que fuera sólo un ruido.
 
 Chiara le puso la palma en el hombro. Despacio, sin apretar, el tiempo que tarda una mano en decidir que se queda.
 
