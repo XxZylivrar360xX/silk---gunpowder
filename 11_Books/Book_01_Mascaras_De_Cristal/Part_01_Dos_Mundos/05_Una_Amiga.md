@@ -19,6 +19,7 @@ Nota de fusion (2026-09-10, BLOQUE 2 de PLAN_CIRUGIA_EDITORIAL_PARTE_I): capitul
 Canon del autor (2026-10-04): en la escena de Rocco, Hector cierra el dialogo de los ojos del Cap. 3: "¡Ah! ¿Te referias a esos ojos?" (sustituye "¿La del casino?"). Acotacion "Se quedo mirando a Kal un momento": DISENO.
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); el estado se conserva): esgrima del pasillo reducida a una sola replica de Chiara; fuera "Que eficiente." de Tommaso.
 Frente 3, densidad (2026-10-05, SURGERY autorizada por el autor; el estado se conserva): fuera la replica de la alfombra al cierre de la bisagra (F3-4; la bisagra cierra en "La puerta no estuvo en la reunion") y la entrada de agenda antes del rumor de Hoover ("Yo tambien queria hablar con usted de algo / ¿Esta noche? / Por eso esta noche", F3-5); el rumor sale directo del pan. Lo canon de Hoover y de la empresa de seguridad, intacto. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Densidad_Funcion_Frente_3.md §5.
+Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N5-1, N5-3, N5-4, N5-5, N5-6, N5-8 (N5-2 y N5-7 conservados). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
 # Capítulo 5 — Una amiga
@@ -293,7 +294,7 @@ Chiara se permitió la pausa.
 
 —Dijo que era un buscavidas.
 
-Por un segundo, el hombre que contaba las puertas de cada edificio que pisaba no supo qué hacer con la cara. Luego algo se le aflojó en la boca, debajo de los lentes, como si estuviera oyendo la voz exacta con que Walt lo había dicho.
+Por un segundo, el hombre que contaba las puertas de cada edificio que pisaba no supo qué hacer con la cara. Luego algo se le aflojó en la boca, debajo de los lentes, como si estuviera oyendo la voz con que Walt lo había dicho.
 
 —Viejo cabrón —dijo, en voz baja.
 
@@ -543,7 +544,7 @@ Kal se acomodó la chaqueta para irse.
 
 Chiara la dejó sobre el escritorio con más cuidado del que pensaba tener.
 
-Cuando se fue, ella se quedó un rato con el trapo vacío en la mano. La pieza podía justificarse en una hoja de mantenimiento sin que a nadie se le moviera una ceja, y ése era exactamente el problema.
+Cuando se fue, ella se quedó un rato con el trapo vacío en la mano. La pieza podía justificarse en una hoja de mantenimiento sin que a nadie se le moviera una ceja, y ése era el problema.
 
 Chiara intentó pagar cada cosa.
 
@@ -571,7 +572,7 @@ Lo pensó.
 
 —No sé cómo se llama. Pero no entra por el lobby.
 
-Chiara lo miró mejor. Tenía grasa en la orilla de una uña, una marca roja en el cuello donde el uniforme de trabajo le había rozado y el pelo más desordenado que la noche del traje. En el Monarch, aun vestido de taller, parecía menos fuera de lugar que muchos hombres de traje. No porque perteneciera. Porque no intentaba convencer al edificio.
+Chiara lo miró mejor. Tenía grasa en la orilla de una uña, una marca roja en el cuello donde el uniforme de trabajo le había rozado y el pelo más desordenado que la noche del traje. En el Monarch, aun vestido de taller, parecía menos fuera de lugar que muchos hombres de traje: no intentaba convencer al edificio.
 
 Chiara guardó el sobre en la carpeta.
 
@@ -641,8 +642,6 @@ Kal dejó el vaso en la mesa.
 
 —Ya me iba.
 
-No lo dijo como retirada. Lo dijo como alguien que entiende cuándo una habitación quiere cobrarle el aire a otra persona.
-
 Chiara habría querido que se quedara sólo para no darle a Tommaso la satisfacción de verlo salir. Pero Kal no le preguntó con los ojos. No pidió papel en una escena ajena.
 
 —Gracias por venir —dijo ella.
@@ -683,7 +682,7 @@ Chiara no se movió.
 
 —Le di la versión.
 
-Lo dijo sin énfasis, como quien devuelve un objeto prestado. No dijo *la verdad*. No dijo *lo que pasó*. Dijo la versión, y dejó la palabra ahí, en el pasillo, para que ella la recogiera sola.
+Lo dijo sin énfasis, como quien devuelve un objeto prestado.
 
 —Es la única que hay —dijo Chiara.
 
@@ -1138,8 +1137,6 @@ Kal tardó un segundo en entender que se acordaba.
 —Dice que así sabe que sigue afuera.
 
 Le contó también de las plantas de Nadir, que Nadir llamaba medicinales y Héctor llamaba evidencia, y del mediodía en que Walt supo cuánto costaba un refresco y dejó la cuchara como si le hubieran dado una mala noticia. Ella quiso saber qué plantas. Él no le dijo. Ella se rió igual.
-
-A ella nada de eso le servía para nada. Lo preguntó igual.
 
 Fue Kal quien sacó a los de la entrada.
 

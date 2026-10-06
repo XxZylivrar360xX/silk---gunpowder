@@ -5,6 +5,7 @@ Ventana temporal: dias despues del Capitulo 16 (hospital, ahora fusionado con El
 Lugares: un negocio dentro de La Almendra (apertura), territorio de La Ronda del Canal / Canal Seco, casa de Hector Navarro (cierre).
 Funcion: FUSIONADO (2026-09-03), a peticion del autor -- el antiguo Cap. 19 (Cuentas claras, negociacion con Irene) y el antiguo Cap. 20 (Anticiparse, reunion del barrio) se unen en un solo capitulo, porque Anticiparse por separado resultaba demasiado corto para sostenerse solo. "Cuentas claras" queda como titulo oficial; "Anticiparse" se conserva como nombre de la escena de cierre en casa de Hector, marcada con su propio encabezado interno. Resuelve el hilo sembrado en el Capitulo 15 (el robo de Nadir y Danny): abre con POV del mundo criminal en plena operacion (Tomas Vale ejecutando el golpe de advertencia de Irene), sigue con la negociacion de Kal y Walt (sin Hector) en el Canal Seco, y cierra con la reunion de todo el barrio ya en casa de Hector -- el recuento de causas y consecuencias, el dato incomodo de que el rumor era demasiado preciso para ser chisme de calle (lore de trasfondo sobre Dario Varek, nunca confirmado en prosa -- ver Dario_Varek.md), y Kal explicandole a Nadir y Danny que su enojo es por no haber sido avisado a tiempo, no por el error en si.
 Apertura por residuo: no depende directamente del cierre del Capitulo 16 (que cerro con Kal y Chiara en el auto) -- abre en un punto distinto, el mundo criminal, para dar la sensacion de que la ciudad sigue moviendose aunque Kal no este mirando.
+Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N17-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
 # Capítulo 17 — Cuentas claras
@@ -17,7 +18,7 @@ Walt se lo dijo a la mañana siguiente, en la puerta del taller, sin darle vuelt
 
 —Cigarros. Licor. Nada que no se pueda reponer. —Walt se cruzó de brazos—. Lo hicieron aquí. No en su canal.
 
-Kal entendió. No era venganza. Era un anuncio.
+Kal entendió.
 
 —Nadir y Danny.
 

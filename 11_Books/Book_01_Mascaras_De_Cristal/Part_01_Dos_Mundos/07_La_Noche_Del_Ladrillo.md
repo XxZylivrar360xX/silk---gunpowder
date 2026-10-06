@@ -7,6 +7,7 @@ Blake con rasgos propios (2026-10-05, direccion del autor; prosa DISENO del agen
 Ventana temporal: dias despues del Capitulo 6 (la noche de hierba en el penthouse). Ya comparten cotidianeidad (llamadas, historias de los amigos, la confesion del Peugeot), aunque lo suyo todavia no tiene nombre — antes del primer beso.
 Lugares: Gabriella's (fiesta de vestimenta blanca).
 Funcion: ejecutar H3 completo (a, b, c) — la noche del ladrillo. Tres apariciones de Kal en la cabeza de Chiara sin que este presente: el Peugeot (primera vez), la dedicatoria de Volare (segunda vez, ya registrada como patron y no como dato suelto), y su llegada real con la banda de la Almendra (la tercera, esta si en persona). Cierra con el final de lo de Blake — ruptura en la calle, no por Kal sino porque ella entiende que buscaba algo que ya habia encontrado en otro lado.
+Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N7-1 a N7-7. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
 # Capítulo 7 — La noche del ladrillo
@@ -33,7 +34,7 @@ Salió a fumar cuando ya no pudo sostenerla más.
 
 ***
 
-El aire de afuera olía a sal y a algo frito de algún puesto callejero tres calles más allá. Chiara encendió el cigarro con la espalda contra la pared, mirando la calle en vez del salón, que era exactamente lo que necesitaba.
+El aire de afuera olía a sal y a algo frito de algún puesto callejero tres calles más allá. Chiara encendió el cigarro con la espalda contra la pared, mirando la calle en vez del salón.
 
 Blake salió detrás de ella dos minutos después.
 
@@ -105,7 +106,7 @@ No era la canción. Era lo que la canción decía de lo que Blake creía haber e
 
 En el tocador, con las manos apoyadas en el mármol frío del lavabo, Chiara se miró en el espejo más tiempo del necesario.
 
-Se acordó del penthouse, sin buscarlo. De un teléfono sostenido como quien entrega un arma que no sabe usar. *Es un dueto. Ella dice cosas bonitas. Él no le cree ni una.* De Kal fallando la letra la primera vez, encontrándola a medias en la segunda, y para la tercera ya riéndose de sí mismo con el acento del barrio pisándole cada sílaba italiana, sin que a ella le importara lo mal que sonaba, porque lo que importaba no era la pronunciación: era que lo estaba intentando, en serio, sin que nadie se lo pidiera.
+Se acordó del penthouse, sin buscarlo. De un teléfono sostenido como quien entrega un arma que no sabe usar. *Es un dueto. Ella dice cosas bonitas. Él no le cree ni una.* De Kal fallando la letra la primera vez, encontrándola a medias en la segunda, y para la tercera ya riéndose de sí mismo con el acento del barrio pisándole cada sílaba italiana, sin que a ella le importara lo mal que sonaba.
 
 Esa canción sí la definía. Nadie en Gabriella's sabía que existía.
 
@@ -155,7 +156,7 @@ Chiara, desde lejos, se rió disimuladamente detrás de la mano.
 
 Kal la vio.
 
-No dijo nada, no se acercó, no le hizo una seña — sólo le dedicó una media sonrisa discreta, el tipo de gesto que cabía entero en dos segundos y que significaba exactamente lo que ella necesitaba que significara: *no respondí, pero vine de todas formas.*
+No dijo nada, no se acercó, no le hizo una seña — sólo le dedicó una media sonrisa discreta.
 
 El portero, resignado o simplemente cansado, los dejó pasar.
 
@@ -169,7 +170,7 @@ Le pareció raro. Le siguió pareciendo raro cuando el auto de Dario llegó y é
 
 ***
 
-Adentro, entre el ruido de la fiesta y la gente vestida exactamente igual, Chiara se apartó con Kal a un rincón donde nadie más estaba escuchando.
+Adentro, entre el ruido de la fiesta y la gente vestida igual, Chiara se apartó con Kal a un rincón donde nadie más estaba escuchando.
 
 —Vine con unos amigos —dijo él, con la cara seria de quien está explicando algo que no necesita explicación.
 
@@ -203,7 +204,7 @@ Kal no se defendió.
 
 —¿No quieres un ladrillo?
 
-Chiara lo miró. En este mundo, en esta ciudad, esa pregunta significaba exactamente lo que parecía significar en cualquier fiesta donde el dinero corría más rápido que la conversación.
+Chiara lo miró.
 
 —Nooo, es demasiado público.
 
@@ -217,7 +218,7 @@ De arcilla. Literal. Del tamaño exacto de un ladrillo de verdad, porque lo era.
 
 Se lo puso en las manos como si le estuviera entregando algo de valor real.
 
-Chiara se lo quedó mirando, entendiendo poco a poco lo absurdo y lo espontáneo que podía llegar a ser este hombre, y se rió — una risa que no calculó.
+Chiara se lo quedó mirando y se rió — una risa que no calculó.
 
 —Qué bobo eres.
 
@@ -246,8 +247,6 @@ Se quedaron ahí un momento, ella con un ladrillo en las manos en un pasillo de 
 Él dio dos pasos y se detuvo, mirándola una vez más.
 
 —Te veo después.
-
-No era una promesa grande. No tenía adornos. Era, simplemente, un hecho.
 
 Chiara se quedó con el ladrillo todavía en las manos, viéndolo irse por donde había entrado, tan mal vestido y tan seguro de sí mismo como cuando llegó. Danny y Héctor salieron detrás de él.
 

@@ -10,6 +10,7 @@ Punto de vista (ajustado 2026-09-07): tercera persona cercana, un POV fijo por b
 Microcirugia de dialogo K/C 2026-10-04 (autorizada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]] §7; DISEÑO pendiente de lectura, el resto sigue TERMINADO): fuera "Kal no tuvo con que contestarle eso"; mezzanine sin "No le vas a fallar / No lo se todavia / Yo si": Chiara da el dato ("Te llamo a ti. A las tres de la mañana") y Kal le busca la mano en la barandilla; Chiara con Marisol en su voz (revisa el pomulo, "¿Alguien grabo? ... Esas cosas se bajan"; los huevos; "Yo tarde mas que tu" como confesion-dato) en lugar de sentencias. Lineas del autor intactas.
 Cirugia de dialogo de terceros 2026-10-04 (S3 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]]; sigue TERMINADO, la prosa nueva es DISEÑO pendiente de lectura): Marisol en el desayuno. Decisiones del autor: el iman de la manzana (Cap. 14) estaba en el refrigerador del loft, Kal nunca se lo dio a Chiara; Marisol lo despega en el desayuno, Kal lo explica frente a las dos ("Era para Chiara" / "Porque es feo" / "Por eso", eco del 14) y Chiara lo vuelve a pegar mas arriba, sin comentario. Fuera, con confirmacion del autor aunque Lote B las protegia: "Es lo minimo, considerando...", "Para los dos. No solo por Kal. Por los dos", "Es raro... contigo no" y "Es una de las ventajas de ser mujer" (ahora "Roncabas"; "¿Me equivoco, Chiara?" / "Sin duda alguna, bambina" intactas). La Funcion de arriba conserva la version anterior como registro. Sesion: 98_Agent_Handoff/sessions/2026-10-04_claude_cirugia_terceros_S3.md.
 SURGERY frente 2 (2026-10-05, autorizada por el autor; sigue TERMINADO): M21-1 Marisol queda en "Eso ultimo es lo peor" (fuera "No que me haya mentido. Que yo ya lo sabia y decidi no verlo"); M21-2 Kal queda en "Lo de Michael fue dificil." (fuera "hasta eso se volvio habitable"; la linea de 2026-10-01 de arriba queda como registro). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Lucidez_Personajes_Frente_2.md.
+Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N21-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
 # Capítulo 21 — El primer huésped
@@ -202,7 +203,7 @@ Chiara tomó la manzana, la miró por los dos lados y la volvió a pegar en la p
 
 Marisol no dijo nada. Kal tampoco.
 
-Terminaron el desayuno entre bromas menores y silencios fáciles, y cuando Marisol se levantó a lavar los platos sin que nadie se lo pidiera, Kal la dejó hacerlo. Marisol tenía la cara más suelta que unas horas antes; en algún punto entre el café y la risa, el golpe de la noche anterior había empezado a doler menos.
+Terminaron el desayuno entre bromas menores y silencios fáciles, y cuando Marisol se levantó a lavar los platos sin que nadie se lo pidiera, Kal la dejó hacerlo. Marisol tenía la cara más suelta que unas horas antes.
 
 ***
 

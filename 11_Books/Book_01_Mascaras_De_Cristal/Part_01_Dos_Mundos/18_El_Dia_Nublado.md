@@ -12,6 +12,7 @@ Cirugia de dialogo 2026-10-04 (DISEÑO pendiente de lectura; autorizada por el a
 Conversacion del miedo 2026-10-04 (decision del autor; prosa DISEÑO pendiente de lectura; el capitulo sigue TERMINADO): material traido por el autor de la fuente, reescrito en voz propia (no transcrito). Entra en el auto frente al Monarch, despues de que Kal apaga el motor (la decision silenciosa de quedarse se conserva intacta) y antes de "Anda, hay que subir": "lo que paso no lo puedes cambiar", "puños arriba", el remolino, el freno por miedo, "lo llevo de copiloto" (ancla: la carrera del Peugeot, Cap. 8), el miedo como señal de que algo importa, y la disculpa de Chiara por el juego de preguntas. Fugas: Chiara gira la pulsera; Kal, mano y pulgar en el volante. Fuera de esta entrada (decision pendiente del autor): "me queda una noche antes de irme" (paso al Cap. 38), la lluvia al subir, el elevador y el casino cerrado.
 Siembra 2026-10-04 (DISEÑO aprobado por el autor; arrastre de la reubicacion del Corral): en el relato del matrimonio, Chiara menciona "unas familias... que se sentaban a una misma mesa" (sin nombre del marido, sin "Il Consorzio"). Origen de "Me nombro familias. Las que tu me habias mencionado" en el parador del 24c. El nombre Il Consorzio sigue reservado al 25.
 SURGERY frente 2 (2026-10-05, autorizada por el autor; sigue TERMINADO): L18-1 fuera la reprise en cursiva de la frase de Hector (la metadata de arriba ya pedia que no se repitiera); L18-2 "No leyo la situacion. No se volvio lo que pedia." fuera; L18-3 a L18-5, la conversacion del miedo sin el pegamento del agente: fuera "¿Y quieres vivir asi?", el resumen del arco de Chiara y "dime que quieres" (Kal sólo dice lo de la falda y Chiara contesta "Con miedo."), fuera "¿Y asi estas bien?" ("Lo llevo de copiloto" queda sin evaluacion) y el aforismo del miedo (quedan los hombres sin miedo y "Si tienes miedo, es que algo te importa"). Beats del autor intactos. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Lucidez_Personajes_Frente_2.md.
+Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N18-1 a N18-5 (N18-6 conservado). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
 # Capítulo 18 — El día nublado
@@ -88,13 +89,13 @@ Enzo se acercó cuando la luz gris ya empezaba a espesarse hacia el gris más os
 
 —No —dijo Kal—. Ya tenemos planes.
 
-Enzo levantó las cejas, con el interés específico de quien lleva años sirviendo mesas y sabe exactamente cuándo una frase esconde algo.
+Enzo levantó las cejas.
 
 —¿Qué planes?
 
 —Vamos a jugar golf.
 
-Chiara volteó a verlo con una confusión que no se molestó en disimular. Jamás habían quedado en nada — el plan llevaba semanas siendo una broma sin fecha, y de pronto tenía una, puesta ahí, sin que nadie se la hubiera consultado. Kal no explicó nada más. No hacía falta: era exactamente la clase de cosa que hacía cuando quería sacarla de donde ella se sentía cómoda, sin pedir permiso primero.
+Chiara volteó a verlo con una confusión que no se molestó en disimular. Jamás habían quedado en nada — el plan llevaba semanas siendo una broma sin fecha, y de pronto tenía una, puesta ahí, sin que nadie se la hubiera consultado. Kal no explicó nada más.
 
 Ella lo dejó pasar. Se acomodó en la silla, con la copa todavía en la mano, y decidió seguirle la corriente.
 
@@ -234,7 +235,7 @@ Chiara hizo la cuenta en silencio, con esa rapidez que solo tienen las personas 
 
 —¿Perdón?
 
-—Nada. —Pero algo en su cara decía que no era nada, y algo en la de él, un segundo después, decía que había hecho la misma cuenta y había llegado exactamente al mismo número. Ninguno de los dos le puso nombre a la indirecta que acababan de lanzarse sin querer.
+—Nada. —Pero algo en su cara decía que no era nada, y algo en la de él, un segundo después, decía que había hecho la misma cuenta.
 
 Perdió el segundo hoyo también. Fue Chiara quien preguntó esta vez, con la ceja levantada, buscando algo liviano después de lo anterior.
 
@@ -336,7 +337,7 @@ Chiara se quedó un momento mirando el cielo gris, como si ahí estuviera escrit
 
 Y contó lo suficiente. Que se había casado joven, en Italia, con un hombre que al principio le pareció una salida y después fue una puerta cerrada. Que en su mundo un matrimonio así no lo decidía nadie solo: lo bendecían unas familias, las mismas de siempre, que se sentaban a una misma mesa. Que ese hombre le enseñó lo que era vivir midiendo el ruido de unos zapatos en un pasillo. Que la cosa terminó, y que ella salió de ahí y él no.
 
-No dijo *yo lo maté*. No dijo el nombre. Ordenó cada frase con el cuidado de quien acomoda algo frágil en una caja, y cuando llegó al final dejó claro, sin subir la voz, que el tema estaba cerrado.
+No dijo *yo lo maté*. No dijo el nombre. Ordenó cada frase con el cuidado de quien acomoda algo frágil en una caja.
 
 —Ya está —dijo—. No preguntes lo que sigue.
 
@@ -374,7 +375,7 @@ Chiara no se giró.
 
 Era, con mucho, lo más largo que le había dicho sobre sí mismo sin que se lo sacaran.
 
-Chiara siguió mirando las puertas de vidrio. Del otro lado se veía el vestíbulo, la gente entrando y saliendo, un mundo que sabía exactamente qué hacer a esa hora.
+Chiara siguió mirando las puertas de vidrio. Del otro lado se veía el vestíbulo, la gente entrando y saliendo, un mundo que sabía qué hacer a esa hora.
 
 —No sé cómo vas a reaccionar a lo que te dije —dijo ella—. No hoy. Mañana. En un mes, cuando lo hayas pensado bien y saques tus cuentas. —Apoyó los dedos en la manija sin abrirla—. Si quieres marcharte, yo lo entenderé.
 

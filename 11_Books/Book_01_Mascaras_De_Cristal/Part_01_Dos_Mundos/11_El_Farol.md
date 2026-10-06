@@ -7,6 +7,7 @@ Ventana temporal: despues del Capitulo 10 (la casa del loft ya terminada y estre
 Lugares: El Penthouse, La Esquina de Mabel (La Almendra), The Monarch Casino & Hotel (piso de juego, torneo de poker).
 Funcion: beats 12 y 12-b. Red civil de Chiara (Mabel); primer reencuentro Walt/Mabel visto por Chiara; primer torneo de poker (Walt miente en la mesa); nace la sociedad de la destileria, separada del casino.
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); sigue BORRADOR): Mabel, fuera "Yo solo sirvo cafe" (queda "Yo no dije para que" como eco con variacion del Cap. 1) y fuera el remate "Eso, en este barrio, asusta mas que un arma" (decision del autor; supersede la linea "Se conserva" de arriba en ese punto).
+Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N11-1 a N11-3. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
 # Capítulo 11 — El farol
@@ -35,7 +36,7 @@ Fue a la Almendra a buscar a Mabel.
 
 La Esquina de Mabel olía a café recalentado y a algo dulce horneándose atrás. Dos hombres mayores ocupaban la mesa del rincón, jugando dominó sin apostar en voz alta; una radio vieja repetía boleros que nadie subía ni bajaba de volumen. Era el tipo de lugar que no necesitaba pedir silencio para conseguirlo.
 
-Chiara entró con el pretexto de un termo de café —el suyo, dijo, se había echado a perder— y Mabel la miró como quien ya sabe que el pretexto es pretexto y decide, de todos modos, no hacer preguntas.
+Chiara entró con el pretexto de un termo de café —el suyo, dijo, se había echado a perder— y Mabel la miró como quien ya sabe que el pretexto es pretexto.
 
 —Siéntate. Te doy uno de verdad.
 
@@ -127,7 +128,7 @@ Chiara no preguntó. Terminó el café despacio. Estaba mejor que el del casino,
 
 Pagó. Mabel no le devolvió el cambio completo.
 
-—La próxima vez traes tu termo de verdad —dijo, y no era una acusación. Era una invitación a volver.
+—La próxima vez traes tu termo de verdad —dijo.
 
 Chiara entendió las dos cosas.
 
@@ -175,7 +176,7 @@ Chiara se sentó en la silla vacía a su lado, la del jugador que había abandon
 
 Walt barajó sus fichas sin mirarlas, con más práctica de la que cualquier torneo podía darle.
 
-—Porque llevo diez años sin poder decidir dónde sentarme. —Lo dijo sin dramatismo, como quien reporta el clima—. Y esta silla la elegí yo.
+—Porque llevo diez años sin poder decidir dónde sentarme. Y esta silla la elegí yo.
 
 Chiara no contestó enseguida.
 

@@ -19,7 +19,7 @@
 | # | Punto débil | Lo señalan | Dónde | Modo | Decide el autor |
 |---|---|---|---|---|---|
 | 0 | **Cerrar el arco final** (E6–E8) con las restricciones de lector | 3.ª | 44–50b | SURGERY ya encargada | No, ya aprobada |
-| 1 | **Narrador demasiado perfecto**: gesto convertido en tesis, "como quien…", "exacto", "no X, era Y" | las tres | todo el libro | AUDIT por Parte → SURGERY | Aprobar los cortes por Parte |
+| 1 | **Parte I: HECHA** (2026-10-05): [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I]], §6. Se aplicaron 47 cortes (−615 palabras) rebasados después de los frentes 2 y 3; N24c-8 ya había desaparecido; N5-2, N5-7 y N18-6 se conservan. Partes II (26–34) y III (35–43): PENDIENTES. Caps. 2, 12, 13 y 42 ya hechos; 44–50b cubiertos en el frente 0 |
 | 2 | **Personajes demasiado lúcidos sobre su propio arco** | 2.ª y 3.ª | 18 (tramos reflexivos), Héctor fuera de *Cuatro letras*, Marisol (14, 33–34) | AUDIT de diálogo con las fichas de voz | Sí (es diálogo) |
 | 3 | **Densidad y duplicación de función** | las tres | 1 (nombres), 5 (reunión frente a cena; Hoover y la empresa de seguridad), 10 (vigas y presupuestos), 24c, 38 | AUDIT de función por movimiento ("¿dos escenas hacen el mismo trabajo?") | Sí: cortes de escena |
 | 4 | **Camp Alder se siente compacto**: falta la sensación de "esto estaba funcionando" antes del quiebre | 3.ª | 37, 39, 41 (siembra) → 43 | DISEÑO | Sí |

@@ -10,6 +10,7 @@ Escalon relacional: Cap. 2 "quiza pueda obtener algo de el" -> Cap. 4 "lo llame 
 Dialogo K/C reescrito (2026-10-03, direccion del autor: respeto; los dos quieren algo del otro sin saberlo del todo ni tener confianza para decirlo; el favor no le sirve a Chiara y la empuja a fijar terminos en el 5). DISENO del agente, BORRADOR pendiente de lectura; ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I.md §7. Llamada: fuera "Eso dice el letrero", "No pregunte donde esta usted" y "Un diagnostico"; entran "¿Lo desperte? / Ojala", "Su mesa me dijo que no", el malentendido "¿Y usted?" (ella contesta lugar; el pregunta quien llama), la respuesta que ella esquiva y que el no cobra. Ventanilla: fuera "Entretenimiento / Ensenable"; Kal se niega a facturar "lo demas" y le da "una que pueda ensenar"; lo otro queda fuera de la hoja. Cierre: "hizo una sola pregunta que importaba. Ella no la contesto. El no la repitio." El mensaje "La factura completa. Por favor." ahora reclama lo no facturado.
 Funcion: abrir el dia de Chiara (Keene como comunicado, Tommaso, Blake) y mostrar el primer favor bajo la mesa, el error funcional de Blake y la incomodidad de Chiara al aceptar ayuda de Kal.
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); el estado se conserva; DISENO pendiente de lectura): el narrador decia que Tommaso la llamaba por su nombre de pila; ahora "Le bastaba con llamarla Bellandi" (regla dura de su ficha).
+Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N4-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
 # Capítulo 4 — Tarifa nocturna
@@ -483,8 +484,6 @@ La pausa siguiente fue más larga. Oyó abrirse una puerta de cabina, el cambio 
 Creyó oírlo escribir: un roce corto, de pluma contra papel apoyado en algo duro.
 
 —Su mesa me dijo que no.
-
-No lo dijo con filo. Lo dijo como quien lee un dato de la hoja.
 
 Detrás de ella, la puerta del club se abrió y soltó un golpe de bajo antes de cerrarse.
 

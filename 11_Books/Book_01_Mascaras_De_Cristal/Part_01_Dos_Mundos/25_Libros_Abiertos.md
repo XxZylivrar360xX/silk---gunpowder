@@ -17,6 +17,7 @@ Coda ajustada 2026-09-28 (pedido del autor: que sea el pago de haberse abierto; 
 Ajuste 2026-09-28 (CANON DEL AUTOR): Kal pregunta por el apellido ("Dijiste Ardizzone... defendian los nombres mas que a sus mismas familias"; respuesta de Chiara dictada). Dos pausas: (1) el peso de la muerte de Marta en Corrado; (2) como era Alessio: impecable en publico, siempre detras de ella con las manos en los hombros, "la donna di Lusardi... hasta que la muerte nos separara", humillaciones, negaciones y violencia. Chiara no debe leerse como asesina sino como mujer que aguanto. "Y jale el gatillo" -> "Solo lo hice." DISEÑO del agente: Corrado deja de reir/cantar en la cocina; la primera bofetada tras una cena en que ella rio con otro, las flores, "la segunda vez ya no pidio perdon"; control del dinero y los contactos (eco del parlamento canon de Alessio).
 Monologo de Chiara en la coda (2026-10-01, pedido del autor: mas sentimiento, frustracion y verdad; redaccion = DISENO, pendiente de lectura): antes de la pregunta canon ("si, despues de todo lo que he hecho, todavia esta orgulloso de su hija", intacta) Chiara se desdice ("Primero le reclamaria"): el "yo me hago cargo" que la dejo sola a los 23, Ettore que no era el, La Mesa decidiendo boda/apellido/sonrisas, no tener tumba (le habla al mar), cansancio y manos sucias, y la rabia de seguir queriendo su aprobacion. Nada sugiere que Corrado viva. Se corrigio errata "m irarlo".
 Ajuste 2026-10-04 (autor): Kal ya conocia la forma (familias sentadas a una misma mesa) desde el golf del 18 y lo que Dario le nombro en el 24c; aqui recibe el nombre y lo que el Consorzio es para ella. "Entendio la forma" -> "Le puso nombre".
+Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N25-1 a N25-10; N25-5, N25-8 y N25-10 comprimidos a "Lo dijo sin subir la voz / sin rencor / despacio" para no perder las pausas entre revelaciones. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
 # Capítulo 25 — Libros abiertos
@@ -113,7 +114,7 @@ Kal ya lo había guardado en el cajón de lo resuelto. Ella lo dejó encima de l
 
 —Que conozco el tipo de lugar donde una mentira así rara vez pertenece sólo al hombre que la dice. —Bajó la voz, aunque no había nadie en el penthouse—. Es la misma institución que me negó a mi padre. Il Consorzio. Aquella noche, en el camino al norte, no te di el nombre para no meterte dentro. Pero ahora ya es diferente.
 
-Kal no lo repitió. Le puso nombre, por fin, a lo que ella había esquivado aquella noche, y no pidió más.
+Kal no lo repitió, y no pidió más.
 
 —Cuando los federales armaron la redada que selló el destino de Corrado Ardizzone —dijo, al final, mirando el agua—. Todo fue tan preciso, tan organizado, como si fuera una puesta en escena y mi padre fuera el único que nunca sostuvo el libreto. Recuerdo lo que me dijo: "Tesoro mio, no temas, yo me hago cargo de esto." Le susurró a Ettore otras cosas que yo no pude escuchar, y lo único que recuerdo después de eso fue el encabezado en los periódicos locales la mañana siguiente: el capo de la famiglia Ardizzone había fallecido: los federales abrieron fuego y su cuerpo cayó por la ladera de la villa junto al mirador que daba a la costa en Mondello. Los federales anunciaron el deceso y luego Il Consorzio repitió la misma versión, palabra por palabra. Nunca hubo un cuerpo que poner junto al de mi madre. Esa cuenta la pago yo sola, cada año. Estoy segura que fue La Mesa la que orquestó la caída de mi padre. El porqué, aun a la fecha, no lo sé.
 
@@ -127,13 +128,13 @@ Chiara se quedó quieta un momento, como si la pregunta hubiera llegado por un l
 
 Dejó pasar un segundo, con el agua moviéndose despacio contra su pecho.
 
-—La última que me contó antes de que el corazón le fallara terminó distinto. Yo tenía diecinueve, ya grande para que me arroparan. Me arropó de todos modos y me dijo: *"Un giorno, bambina mia, capirai il prezzo di reggere il mondo sulle tue spalle. Ma non dimenticare mai: la chiave è non farlo da sola."* —Lo repitió después en español, despacio, como quien no quiere que algo se pierda en la traducción—. Algún día, mi amada niña, entenderás el precio que tiene sostener el mundo en tus hombros. Solo no olvides que la clave está en no hacerlo sola. —No la entendí entonces. Pensé que hablaba de crecer, nada más.
+—La última que me contó antes de que el corazón le fallara terminó distinto. Yo tenía diecinueve, ya grande para que me arroparan. Me arropó de todos modos y me dijo: *"Un giorno, bambina mia, capirai il prezzo di reggere il mondo sulle tue spalle. Ma non dimenticare mai: la chiave è non farlo da sola."* —Lo repitió después en español, despacio—. Algún día, mi amada niña, entenderás el precio que tiene sostener el mundo en tus hombros. Solo no olvides que la clave está en no hacerlo sola. —No la entendí entonces. Pensé que hablaba de crecer, nada más.
 
 Kal se quedó con la mano quieta contra el borde del jacuzzi, sin mover el agua.
 
 —Mi madre tenía un dicho parecido. A su manera. —Movió el agua sin mirarla—. Los sábados que Dale no estaba, hacía panqueques con tocino y miel, y tarareaba una canción que nunca le pregunté de dónde la había sacado. Se comía la mitad de las palabras. Yo la tarareaba con ella sin entender ninguna.
 
-Tarareó dos compases, bajo, casi sin querer, y se detuvo enseguida, como quien nota tarde lo que acaba de hacer.
+Tarareó dos compases, bajo, casi sin querer, y se detuvo enseguida.
 
 —¿Y qué decía? —preguntó Chiara, sin burla.
 
@@ -161,7 +162,7 @@ Se quedó callada. Kal la dejó.
 
 El agua se movió despacio entre los dos.
 
-—El apellido lo cambié entonces. No para castigar a mi padre. Para quedarme con algo de ella, y para que la parte de mi vida que decidían otros fuera un poco más chica. —Dejó pasar un segundo—. Y lo recuperé una segunda vez, en cuanto Alessio murió. —Algo en el rostro de Chiara se tensó—. En medio, La Mesa decidió que debía cargar con el peso del apellido Lusardi.
+—El apellido lo cambié entonces. No para castigar a mi padre. Para quedarme con algo de ella, y para que la parte de mi vida que decidían otros fuera un poco más chica. —Dejó pasar un segundo—. Y lo recuperé una segunda vez, en cuanto Alessio murió. En medio, La Mesa decidió que debía cargar con el peso del apellido Lusardi.
 
 Kal observó cómo la mandíbula de Chiara se tensaba, con el agua caliente subiéndole por el pecho como si el nombre hubiera alterado su temperatura. Esperó a que ella midiera si quería contar más. No presionó.
 
@@ -175,11 +176,11 @@ Kal no apartó la vista de ella.
 
 Movió los dedos bajo el agua, despacio, como si comprobara que seguían siendo suyos.
 
-—En casa ya no era chiste. Me corregía delante del servicio. Me dejaba sin hablar días enteros y luego me explicaba por qué me lo había merecido. Y la primera vez que me levantó la mano fue después de una cena en la que me reí demasiado fuerte con alguien que no era él. —Lo dijo sin subir la voz, como quien recita una lista que ya se sabe de memoria—. Me pidió perdón. Me trajo flores. La segunda vez ya no pidió perdón.
+—En casa ya no era chiste. Me corregía delante del servicio. Me dejaba sin hablar días enteros y luego me explicaba por qué me lo había merecido. Y la primera vez que me levantó la mano fue después de una cena en la que me reí demasiado fuerte con alguien que no era él. —Lo dijo sin subir la voz—. Me pidió perdón. Me trajo flores. La segunda vez ya no pidió perdón.
 
 Kal sintió que se le cerraba el puño bajo el agua y lo abrió antes de que ella lo notara.
 
-—Ese maldito figlio di puttana. —Lo dijo mordaz, casi como si escupiera el nombre. Kal vio la impotencia acomodarse en sus ojos, y después el silencio que cargaba todo lo demás—. Sabía que el precio de ese matrimonio lo iba a pagar alguien con sangre. Y no iba a ser yo, Kal. No iba a ser yo.
+—Ese maldito figlio di puttana. —Lo dijo mordaz, casi como si escupiera el nombre—. Sabía que el precio de ese matrimonio lo iba a pagar alguien con sangre. Y no iba a ser yo, Kal. No iba a ser yo.
 
 Kal no supo qué palabra devolverle. Le buscó la mano bajo el agua y puso la palma sobre la de ella.
 
@@ -251,7 +252,7 @@ Chiara levantó los ojos. No lo sabía.
 
 —¿Qué pasó?
 
-—Una emboscada. Metralla. —Lo dijo como se dicen las cosas que ya se dijeron muchas veces por dentro—. Se murió en mis brazos. Tardó menos de lo que uno cree y más de lo que uno aguanta.
+—Una emboscada. Metralla. Se murió en mis brazos. Tardó menos de lo que uno cree y más de lo que uno aguanta.
 
 Chiara no se movió.
 
@@ -307,7 +308,7 @@ Tardó en seguir.
 
 —¿Y la prisión?
 
-—Del convoy no quedó nada en ningún papel. Del chico, sí. En el expediente dice que un soldado abrió fuego y mató a un menor. —Lo dijo sin rencor, como quien da un dato—. Es lo único verdadero que dice. Las consecuencias de esa noche cayeron sobre mí, no sobre él. Ahí estaba Nadir.
+—Del convoy no quedó nada en ningún papel. Del chico, sí. En el expediente dice que un soldado abrió fuego y mató a un menor. —Lo dijo sin rencor—. Es lo único verdadero que dice. Las consecuencias de esa noche cayeron sobre mí, no sobre él. Ahí estaba Nadir.
 
 —¿Preso por lo mismo?
 
@@ -335,7 +336,7 @@ Chiara esperó y devolvió una sonrisa melancólica.
 
 —A ti.
 
-—A mí. —Lo dijo como quien todavía no termina de creérselo—. Y yo no sabía nada. Nada, Chiara. Tuve que aprender a sostenerle la vida a una niña de quince años que acababa de enterrar a su papá. Juntas de la escuela. Firmas. A qué hora llegaba, qué comía, si dormía. Con quién hablaba por teléfono a las dos de la mañana. Y que la calle no la tocara. Ni una vez. Que el barrio fuera para ella un lugar que se visita, no uno del que se sale. —Se pasó una mano por la cara—. Y tuve que aprenderlo sin que me viera. Porque si yo me caía, ella se caía conmigo.
+—A mí. Y yo no sabía nada. Nada, Chiara. Tuve que aprender a sostenerle la vida a una niña de quince años que acababa de enterrar a su papá. Juntas de la escuela. Firmas. A qué hora llegaba, qué comía, si dormía. Con quién hablaba por teléfono a las dos de la mañana. Y que la calle no la tocara. Ni una vez. Que el barrio fuera para ella un lugar que se visita, no uno del que se sale. —Se pasó una mano por la cara—. Y tuve que aprenderlo sin que me viera. Porque si yo me caía, ella se caía conmigo.
 
 Chiara lo miró un largo rato.
 
@@ -353,7 +354,7 @@ Kal la miró sin entender.
 
 Abrió la boca para contestar y no encontró qué. Buscó la respuesta en algún lado —el panteón, las dos cervezas, las cosas que le contaba a una lápida como si le contara el clima— y no estaba ahí.
 
-—No había dónde. —Lo dijo despacio, como si lo estuviera descubriendo al mismo tiempo que ella—. Ni cuándo. Un día fue el entierro y al día siguiente había que levantarla para la escuela. Y después ya había pasado demasiado tiempo para empezar. —Negó con la cabeza—. Ni a Jim. Ni a Michael. Seguí caminando. Para eso servía.
+—No había dónde. —Lo dijo despacio—. Ni cuándo. Un día fue el entierro y al día siguiente había que levantarla para la escuela. Y después ya había pasado demasiado tiempo para empezar. —Negó con la cabeza—. Ni a Jim. Ni a Michael. Seguí caminando. Para eso servía.
 
 Chiara bajó las piernas del sofá. Se inclinó hacia él hasta que sus rodillas se tocaron, y le tomó la cara con las dos manos, las palmas todavía tibias del agua.
 

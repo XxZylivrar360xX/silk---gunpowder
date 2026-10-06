@@ -204,6 +204,24 @@ La noche del jacuzzi es casi toda diálogo canon y no se toca. Lo que pesa son l
   - Aplicar N5-4, N7-5 (el chiste mejora sin explicación), N18-6 y N24c-12.
   - Comprimir N25-10 a "—Lo dijo despacio—.".
 - **Total a operar:** 44 firmes + 5 dudosos = 49.
+- **Cambio posterior (2026-10-05, nota de ChatGPT [[98_Agent_Handoff/ChatGPT/2026-10-05_cierre_auditoria_fortalecimiento_libro1]], §4, que el autor remitió):** **N18-6 = CONSERVAR**. El frente 2 ya le quitó a la conversación del miedo su capa explicativa, y esa interioridad conserva el residuo: la respuesta de Kal no fue lo que Chiara esperaba. Quedan 48. Precaución en el 25: no adelgazar las pausas entre revelaciones.
+
+## 6. Resultado — SURGERY (2026-10-05)
+
+**Condición cumplida:** los frentes 2 y 3 ya estaban HECHOS. Cada candidato se rebasó contra la prosa vigente y se aplicó sólo si el texto seguía exactamente igual.
+
+- **Aplicados 47 de 48**, alrededor de **−615 palabras**, sin sumar nada. Los estados no cambian. Cada cabecera de capítulo lleva su nota.
+- **Descartado N24c-8:** el pasaje de los mozos de cuadra desapareció con el frente 3.
+- **Ajuste por la precaución del 25:** N25-8 se **comprimió** a "—Lo dijo sin rencor—." en vez de cortarse, para que no desaparezca la pausa antes de "Es lo único verdadero que dice". N25-5 y N25-10 se comprimieron, como estaba previsto.
+- **Costuras revisadas:**
+  - 4:485, "—Su mesa me dijo que no.", pasa directo a la puerta del club.
+  - 5:642, "—Ya me iba.", pasa a "Chiara habría querido…".
+  - 5:1138 cierra en "Ella se rió igual.".
+  - 7:248, "—Te veo después.", pasa a "Chiara se quedó con el ladrillo…".
+  - 11:130–132, "—dijo." / "Chiara entendió las dos cosas.": las dos cosas quedan para el lector, el cambio incompleto y la invitación.
+  - 24c:197, "—El hipódromo es mío.", va directo a la pregunta de Dario.
+  - 25:338, "—A mí. Y yo no sabía nada.": el eco "A ti / A mí" sostiene el ritmo sin acotación.
+- **Conservados por decisión:** N5-2, N5-7 y N18-6.
 
 ## 5. Autocrítica (MICROEDICION §F)
 

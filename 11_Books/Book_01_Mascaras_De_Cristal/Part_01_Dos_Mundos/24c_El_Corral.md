@@ -10,6 +10,7 @@ Lugares: Hipodromo del Monarch (propiedad del casino), Hospital Santa Aurelia, b
 Funcion [historica; supersedida en: sospechoso = Caluca de Eagle Eye, no guardia de caballerizas; cierre en el loft, no en la casa comun; el parador vigente es el de la integracion de arriba]: fusiona H12 y el arranque de H5 -- el ataque ocurre en el hipodromo del Monarch, no en Bellandi Ridge. Kal recibe una llamada desde el celular de ella, contestada por un desconocido que tantea su paradero y cuelga sin decir nada util. Buzon de voz al llamarla directo. Entra armado al Monarch (domingo, cerrado), lo recorre vacio, sube al penthouse, tambien vacio, ve las botas de montar y recuerda que ella monta los domingos. Baja al hipodromo (misma propiedad, no hace falta auto), encuentra a Vento suelto, la halla inconsciente junto al corral -- repite su nombre sin respuesta, la sube el mismo al Audi y la lleva al hospital (nunca llama ambulancia -- el conduce, siempre). Aqui se ve al soldado: calma entrenada por fuera, quiebre por dentro. Kal recoge el bolso antes que nadie y se guarda cartera y reloj: un asalto que perdona un reloj asi no se lo cree nadie. Investiga y secuestra sin exito a un sospechoso. Encanonamiento con Dario en el cuarto de hospital -- tregua. Kal omite la llamada, arma coartada. El dia del alta Kal la ayuda a alistarse y llega Dario a interrogarla; Chiara percibe la tregua ya firmada y se sube a la version en marcha. Dos grietas pequeñas -- "corral" vs "caballerizas", y si lo esperaba ese domingo -- que remiendan en vivo con una mentira conjunta pasable pero no creible. Dario anuncia "vigilancia" en el casino (proteccion y vigilancia son la misma palabra en su boca) y manda un hombre a seguir a Kal. Kal se ofrece a llevarla. En el camino Kal detecta un sedan gris siguiendolos: cuadran que ella entre por la bahia de carga (tunel este, bajo el puente del canal, la "salida de evacuacion" del Monarch) y salgan a pie por atras, fuera de la vista del espia. Van al norte, a un parador de autopista; aparcan y reconstruyen los hechos. Chiara estuvo a punto de nombrar el Consorcio y se detiene: solo dice que viejos enemigos o rivales de los socios estan plantando una bandera con el atentado, y que no quiere meter a Kal. Kal: "Yo ya estoy dentro contigo. ¿O como era? El es Kal Mercer, vengan a conocerlo." Chiara: "No. Pero tampoco me arrepiento." Ella pide un motel de paso; Kal se burla ("un motel, dice ella... tu vienes conmigo") y ella se queda con la lectura mas economica, la que le deja decir "solo esta vez". Llegan de madrugada a la casa comun; Kal le da el unico cuarto que no grita de quien es, le da su palabra de que ahi esta segura, ella baja la mirada y el la abraza -- la siente temblar porque entendio que ya no hay punto de retorno: lo que viene tras ella puede alcanzarlo ahora a el, no porque a eso le interese ella sino porque a ella le interesa el. Cierre: los muchachos la dejan quedarse; alguien pregunta por cuanto tiempo y Kal dice "lo necesario, hasta que ya no lo sea" -- se lo gano, porque a la familia no se le cobran favores y el nunca les dijo que no; pueden pelearle, dudar de el no. Nadir cumple como los demas y, como los demas, calla; pero es el unico que al decir que si no la mira a ella. El atacante no se identifica ni se sugiere.
 Beat del autor (CANON DEL AUTOR, 2026-10-04): al volver del parador, tras "Tu vienes conmigo", Kal dice "Nos vamos al barrio" y Chiara: "El loft es solo para uno" (Kal no contesta). En el loft: "Si quieres, tu quedate en la cama arriba y yo acomodo el sillon para mi" / "Voy a hacer de cuenta como que no dijiste eso" / "...como que no dijiste 'que este lugar era solo para uno'" / "Tesoro, es tu espacio..." / "Ya, pero te invite a estar en mi espacio" / "...malabares con el para que no te atrapara en la mentira..." / "No estoy discutiendo" / "Bien. Entonces ven a la cama. O sea... tu entiendes." Kal se rie mientras se sienta de su lado de la cama. Costuras DISEÑO: Kal con su almohada junto a la escalera (el loft tiene el dormitorio arriba; eco del 10, donde el dormia en el sofa); "Cuando se le acabo la risa, Chiara bajo la mirada" enlaza con el abrazo y el temblor canon de H12, que quedan intactos.
 Frente 3, densidad (2026-10-05, SURGERY autorizada por el autor; sigue BORRADOR): la apertura ya no adelanta al Cap. 25 lo de Corrado sin cuerpo junto a Marta (F3-1b) ni la frase del mandato divino de Alessio (F3-1c): las dos pertenecen ahora solo a la confesion de *Libros abiertos*. Se conservan la misa, Marta, el homenaje de Alessio y la fe. Fuera el resumen de la investigacion de Kal (hipodromo, tregua con Dario, "armado demasiado bien", "No compartio ninguna de las dos ideas", la manana del alta) porque el parador la cuenta dramatizada (F3-2). Se quedan Crowe descartado y la llamada como grieta, con las dos salidas. No se parte el capitulo (F3-3, decision del autor). Supera la ubicacion "Sembrada en el Cap. 9" de la ficha de Alessio. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Densidad_Funcion_Frente_3.md §5.
+Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N24c-1 a N24c-12 salvo N24c-8, que ya habia desaparecido con el frente 3. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
 # El corral
@@ -54,7 +55,7 @@ Kal dejó la llave sobre el banco, despacio.
 
 —¿Quién habla?
 
-—Un amigo. —La voz sonaba satisfecha consigo misma, como quien juega un juego cuyas reglas sólo él conoce—. Dígame, ¿ella sale mucho los domingos? Me da la impresión de que le gusta estar sola.
+—Un amigo. —La voz sonaba satisfecha consigo misma—. Dígame, ¿ella sale mucho los domingos? Me da la impresión de que le gusta estar sola.
 
 —¿Dónde está Chiara?
 
@@ -102,7 +103,7 @@ Lo único que no era de ella estaba sobre el escritorio: un sobre color hueso, a
 
 Fue al salir cuando las vio: las botas de montar de Chiara, junto a la puerta, donde normalmente dejaba los tacones.
 
-Kal se quedó mirándolas un segundo entero antes de que el dato terminara de acomodarse.
+Kal se quedó mirándolas un segundo entero.
 
 Le gustaba montar. Los domingos, cuando nadie le pedía nada.
 
@@ -196,8 +197,6 @@ Dario no se movió de donde estaba.
 
 —El hipódromo es mío.
 
-El silencio que siguió tuvo el peso de dos hombres midiendo hasta dónde estaba dispuesto a llegar el otro.
-
 —Voy a preguntarle una vez, con la cortesía que se merece la situación —dijo Dario—. ¿Qué sabe usted de lo que le pasó a Chiara que yo no sé?
 
 —Lo mismo que usted. Nada.
@@ -250,7 +249,7 @@ Le tocó a Héctor la noche del segundo día.
 
 Se sentó en la silla de plástico junto a la cama, con las manos grandes cruzadas sobre las rodillas, y esperó a que Kal desapareciera por el pasillo antes de decir nada. Chiara dormía, o algo parecido a dormir, con el vendaje asomándole por el pelo y la cara más pequeña de lo que se veía despierta.
 
-—No sé si me oye —dijo Héctor, en voz baja, como quien no está seguro de si habla para ella o para sí mismo—. Pero le voy a hablar de todos modos, porque a este paso nadie más lo va a hacer.
+—No sé si me oye —dijo Héctor, en voz baja—. Pero le voy a hablar de todos modos, porque a este paso nadie más lo va a hacer.
 
 Se quedó callado un momento, mirándose las manos.
 
@@ -260,7 +259,7 @@ Le tembló la voz en la última palabra, y se tomó un segundo antes de seguir.
 
 —Así que aquí estoy, a mis años, con miedo. Miedo de verdad, del que no se dice en el taller ni delante de los muchachos. Porque si algo le pasa a usted, pierdo dos personas de un solo golpe: la pierdo a usted, y pierdo al Kal que empezó a reírse otra vez desde que llegó. Y yo ya enterré suficiente en esta vida. Ya pagué suficiente por el privilegio de querer a alguien. No quiero pagar este precio también.
 
-Le tomó la mano, un segundo apenas, torpe, como quien no está acostumbrado al gesto.
+Le tomó la mano, un segundo apenas, torpe.
 
 —Así que despierte, ¿quiere? No por mí. Por ese muchacho que no se ha movido de esa silla en dos días. Despierte, y déjeme seguir siendo un viejo cascarrabias con dos personas de las que quejarme, en vez de uno con dos tumbas más.
 
@@ -268,13 +267,13 @@ Afuera, en el pasillo, Kal volvía con dos cafés de máquina.
 
 ***
 
-Chiara despertó de verdad al tercer día, casi a la hora exacta en que Beatrice Varek había dicho que empezarían a saber algo. Abrió los ojos despacio, con la clase de mirada de alguien que está reconstruyendo el mundo pieza por pieza y todavía no confía en el resultado.
+Chiara despertó de verdad al tercer día, casi a la hora exacta en que Beatrice Varek había dicho que empezarían a saber algo. Abrió los ojos despacio.
 
 —No me acuerdo de nada. —Lo dijo primero en italiano, después se corrigió, molesta consigo misma—. Estaba cerrando el corral. Y después estaba aquí.
 
 —Está bien.
 
-—No está bien. —Se llevó una mano a la cabeza y encontró el vendaje, y algo en su cara se endureció, como si el dolor físico le molestara menos que no tener una respuesta—. Alguien me golpeó en las caballerizas y no sé quién. —Cerró los ojos un segundo, apretando los dientes—. Me duele la cabeza como si me la hubieran partido en dos.
+—No está bien. —Se llevó una mano a la cabeza y encontró el vendaje, y algo en su cara se endureció—. Alguien me golpeó en las caballerizas y no sé quién. —Cerró los ojos un segundo, apretando los dientes—. Me duele la cabeza como si me la hubieran partido en dos.
 
 —Casi —dijo Kal—. Tienes un golpe por dentro. Si crecía, te operaban.
 
@@ -322,7 +321,7 @@ Era un metro de diferencia. En una versión que funcionara de verdad, no habría
 
 —Estaba entre las dos cosas —dijo Kal, sin prisa—. Cerró el corral y volvía a las caballerizas. Ahí la encontré.
 
-—Ah. —Dario asintió, como quien acepta una cifra que sabe mal cuadrada—. ¿Y qué lo llevó al hipódromo un domingo, señor Mercer, sin que nadie lo llamara?
+—Ah. —Dario asintió—. ¿Y qué lo llevó al hipódromo un domingo, señor Mercer, sin que nadie lo llamara?
 
 —No contestaba el teléfono. Con ella, eso nunca es buena señal.
 
@@ -336,7 +335,7 @@ Y ahí estaba el hueco. Si decía que sí, mentía sobre algo que se podía comp
 
 —Forraje. —Dario repitió la palabra, y en su boca sonó a lo que era: una tabla clavada encima de un agujero, funcional y a la vista.
 
-No dijo que no les creía. No le hizo falta. Se ajustó el puño de la camisa y los miró a los dos, uno y después el otro, con la paciencia de un hombre que ha decidido esperar a que la mentira se pudra sola.
+Se ajustó el puño de la camisa y los miró a los dos, uno y después el otro.
 
 —Voy a poner gente en el casino —dijo—. Un par de hombres. Discretos. Hasta que sepamos quién le hizo esto, la signora no va a estar sola en ningún pasillo.
 
@@ -596,7 +595,7 @@ Kal no lo negó. Ella se acomodó el reloj en la muñeca, ya sin girarlo.
 
 —Déjame en un motel —dijo cuando él arrancó otra vez—. Hay tres sobre esta carretera. Pago en efectivo, no doy nombre, no salgo del cuarto. Una semana. A nadie se le ocurre buscarme en un sitio así.
 
-Kal se rió. No mucho, pero se rió, y era la primera vez en tres días.
+Kal se rió. No mucho, pero se rió.
 
 —Un motel, dice ella. —Metió la palanca—. Tú vienes conmigo. El golpe te dejó peor de lo que pensé si de verdad crees que te voy a soltar en una carretera después de esto. Nos vamos al barrio.
 
@@ -604,7 +603,7 @@ Kal se rió. No mucho, pero se rió, y era la primera vez en tres días.
 
 Kal no le contestó eso.
 
-En su cabeza, *tú vienes conmigo* venía con demasiados significados encima, y Chiara —que sabía hacer justo eso, elegir de un montón de lecturas la que le convenía cargar— se quedó con la más barata de todas. La operativa. La que le permitía decir que sí a unos días en casa de él sin que el sí quisiera decir nada más: ni un cajón propio, ni nadie que lo llamara mudanza. Fue la mentira más económica que se dijo en toda la noche, y se la dijo a sí misma sin que le costara un centavo.
+En su cabeza, *tú vienes conmigo* venía con demasiados significados encima, y Chiara —que sabía hacer justo eso, elegir de un montón de lecturas la que le convenía cargar— se quedó con la más barata de todas. La operativa. La que le permitía decir que sí a unos días en casa de él sin que el sí quisiera decir nada más: ni un cajón propio, ni nadie que lo llamara mudanza.
 
 —Unos días —dijo en voz alta.
 

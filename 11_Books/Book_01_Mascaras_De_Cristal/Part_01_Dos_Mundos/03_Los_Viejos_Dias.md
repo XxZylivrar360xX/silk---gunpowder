@@ -13,11 +13,12 @@ Canon del autor (2026-10-04): antes de que salga Walt, Kal pregunta a Hector "¿
 Retirado por el autor (2026-09-29): porche con cervezas (Kal, Walt, Hector), "Quiero levantarlo", el sarcasmo de Hector y la broma de Walt sobre Dario, cafeteria del norte y Harper (su primera aparicion pasa a ser el Cap. 19), la meditacion de Kal sobre Keene. Version anterior en git (commit 14d8c4f).
 Orden del autor (2026-10-05, frente 5, B+D de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_03_Proporcion_Jim_Walt]]): el recuerdo de Jim ya no corta a Walt al leer la lapida; entra en la pausa de "Kal tardo en contestar" tras "¿Fue rapido?" y vuelve al "Si" (la mentira). Walt de pie y sus preguntas pasan antes del recuerdo. Cortada la glosa "que le decia todo lo que nadie le habia dicho todavia" (adelantaba el "Nadie me lo dijo" de Walt).
 Palabras de prosa: ~4,780 (antes ~7,000 con el bloque de Chiara, que ahora vive en el Cap. 4). DISENO del agente, pendiente de lectura: la banda receptora (Cuadra Nueve), la cifra (treinta mil, mitad por adelantado), la bodega del norte, el Buick sobre la grua, la cadena "Eso decia tu padre", el telefono de Nat, la casa comun como vestidor.
+Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N3-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
 # Capítulo 3 — Los viejos días
 
-El lunes, Kal despertó antes de que sonara el teléfono, con la misma incomodidad exacta con la que se había dormido.
+El lunes, Kal despertó antes de que sonara el teléfono, con la misma incomodidad con la que se había dormido.
 
 El catre no perdonaba el traje de la noche anterior. La camisa azul seguía doblada sobre la caja de recibos y el saco colgaba del respaldo de la silla como si también estuviera cansado de fingir. La grieta del techo seguía ahí. No había aprendido nada durante la noche.
 

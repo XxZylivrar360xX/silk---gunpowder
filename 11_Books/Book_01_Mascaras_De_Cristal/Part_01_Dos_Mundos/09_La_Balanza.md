@@ -9,6 +9,7 @@ DISEÑO (agente): Rowe invita con la misma frase que le dijo a Kal en el 8 ("un 
 Microcirugia de dialogo K/C (2026-10-04, autorizada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]] §7): "Mi coche no se va a manejar solo" pasa a Chiara desde el piso; Kal deja de explicarse en la cabina ("Todavia no puedo hacer nada con el. Tu si querrias"); fuera la glosa "lo mas que le habia dicho de corrido", "y eso el lo sabe" y "No tenia con que contestarle eso"; el silencio de la puerta se vuelve objeto (pestillo, silla del lado izquierdo); fuga de Chiara en la llamada: empieza en italiano y se corrige.
 Fuera de este capitulo (se van al 24c): el calendario de Marta y el homenaje de Alessio, el hipodromo, la llamada de Corrado, el hospital, Beatrice, la tregua y la vigilancia de Dario, el parador, el temblor en el abrazo.
 Continuidad: el abrazo y el temblor canon de H12 quedan para el 24c; aqui no hay abrazo. "Tienes mi palabra" y "Lo necesario. Hasta que ya no lo sea" se quedan aqui (casa comun). Arrastre al Cap. 10: la estancia es por la muñeca (ferula, tres semanas), no por conmocion: retirar mareos, receta, "dos dedos a la sien" y la gente de Dario en el Monarch.
+Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N9-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
 # Capítulo 9 — La balanza
@@ -209,7 +210,7 @@ Kal conocía la frase.
 
 No la había oído en años, pero la conocía como se conoce un olor. La había oído de niño del otro lado de un mostrador con vidrio, en el primer local del Tasador, cuando tenía edad para cargar lo que había que empeñar y no para preguntar por qué. Crowe la decía cuando alguien protestaba por lo poco que le daban: la joya era de quien la traía, pero la balanza era suya. En la Almendra no había nadie que hubiera empeñado algo y no la hubiera oído.
 
-Rowe no la iba a entender. No era una frase para entenderse en Plaza Corona. Era una frase para que alguien en la Almendra la reconociera.
+Rowe no la iba a entender.
 
 El corralón del sur le pagaba cuota a Crowe. Todo el barrio lo sabía, y Kal lo sabía cuando firmó. Lo que no había calculado era a quién le iba a cobrar Crowe. Había pensado en él mismo: un recado en el taller, una llanta cortada, un precio nuevo por algo que antes era gratis. Crowe no le había cobrado a él. Le había cobrado a la fiscal que firmó, y a la mujer que estaba sentada con ella.
 
