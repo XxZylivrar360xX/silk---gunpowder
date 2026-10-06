@@ -27,7 +27,7 @@ A las cinco menos diez, San Aurelio tenía otra vez todas las luces encendidas y
 
 Pasada la medianoche no se había oído otra cosa. Sólo sirenas, de un extremo a otro del sur, cruzándose en las avenidas sin semáforos, llegando tarde a todo lo que se desordena cuando una ciudad se queda a oscuras. Hacia las cuatro se fueron espaciando. Para las cinco ya no pasaba ninguna.
 
-En la Avenida Almendra los postes alumbraban banquetas vacías. La cortina de La Esquina de Mabel seguía abajo. En el poste del circo, el cartel del circo de agosto se había despegado de una esquina y se movía un poco cuando pasaba el aire del puerto.
+En la Avenida Almendra los postes alumbraban banquetas vacías. La cortina de La Esquina de Mabel seguía abajo. En el poste, el cartel del circo de agosto se había despegado de una esquina y se movía un poco cuando pasaba el aire del puerto.
 
 En la ventana de Il Gelsomino alguien había dejado prendido el letrero, y la luz roja caía sobre las sillas puestas patas arriba encima de las mesas, sobre la del fondo, la que Enzo apartaba sin que nadie se la pidiera.
 

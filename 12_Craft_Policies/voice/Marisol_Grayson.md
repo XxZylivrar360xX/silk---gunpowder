@@ -2,10 +2,11 @@
 
 > Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I_Tanda_2]]). Vara: el Cap. 14 (TERMINADO). Ancla secundaria: el 21 (primer encuentro con Chiara). Ficha de personaje: [[02_Characters/Marisol_Grayson]].
 > **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
+> **Energía de referencia (no canon, 2026-10-05):** [[99_Reference/voice_calibration/Marisol_Grayson]] (Mattie Ross, Veronica Mars, Ellie de la primera parte de *The Last of Us*). Se calibra la energía y no se copia nada; la vara sigue siendo el Cap. 14.
 
 ## Cadencia y sintaxis
 
-Rápida, directa, con sarcasmo juguetón que nunca busca herir. Interrumpe con confianza y no pide permiso para picar a Kal. Cuenta con los dedos cuando disfruta señalar algo que él prefería que no notara. Gana discusiones pequeñas con hechos ("Seis, Kal. Seis") y deja que el silencio de Kal sea la confirmación.
+Rápida, directa, con sarcasmo juguetón que nunca busca herir. Interrumpe con confianza y no pide permiso para picar a Kal. Cuenta con los dedos cuando disfruta señalar algo que él prefería que no notara. Gana casi todas las discusiones pequeñas con hechos ("Seis, Kal. Seis") y deja que el silencio de Kal sea la confirmación.
 
 ## Vocabulario
 
@@ -17,6 +18,7 @@ Lenguaje juvenil, sin vulgaridad forzada: "en serio", "no es nada", "te conozco"
 - No anuncia un vínculo ("contigo es más fácil", "es raro, pero..."). Si se lleva bien con alguien, se ve en que se ponen del mismo lado contra Kal.
 - No trata a Kal como si le debiera algo.
 - No dramatiza la ausencia de su padre: la deja caer y sigue caminando.
+- **No es detector infalible de Kal (DISEÑO, 2026-10-05).** Pica lo que ve (conducta, cuentas, el teléfono), no diagnostica lo que Kal siente ni le enuncia su arco. Puede equivocarse en el motivo aunque acierte el síntoma, y Kal puede ganarle una. **Kal le gana las suyas cuando Marisol madura y se vuelve adulta, sobre todo en la graduación** (CANON DEL AUTOR, 2026-10-05); antes, el marcador queda a favor de ella. Si una réplica suya dice en voz alta la tesis de la escena, sobra. Origen: reseña de ChatGPT del 2026-10-05 (§ VIII).
 
 ## "La amiga" — chiste recurrente, gasto controlado
 

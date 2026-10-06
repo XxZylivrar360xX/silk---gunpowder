@@ -74,7 +74,7 @@ El hombre del Audi era más joven de lo que esperaba, de traje gris sin corbata,
 
 —Me dijeron que preguntaba por Kal.
 
-—Ya no. —El hombre miró hacia el portón, hacia la grúa grande, y volvió a mirarla a ella—. El señor Varek la espera esta noche a las nueve. En el Puerto Viejo, por Terminal Road. Bodega nueve, la que tiene la oficina arriba. —Hizo una pausa del tamaño exacto de alguien que repite lo que le dijeron—. Con las cajas.
+—Ya no. —El hombre miró hacia el portón, hacia la grúa grande, y volvió a mirarla a ella—. El señor Varek la espera esta noche a las nueve. En el Puerto Viejo, por Terminal Road. Bodega nueve, la que tiene la oficina arriba. Con las cajas.
 
 —Las cajas van a estar ahí.
 
@@ -146,7 +146,7 @@ Héctor escupió a un lado, lejos del compresor.
 
 —Eso ya me lo dijo.
 
-Walt no estaba. Garrett guardó la libreta sin haberla abierto.
+Garrett guardó la libreta sin haberla abierto.
 
 —Yo los sigo de lejos —dijo—. En mi coche. No me acerco a la bodega. Me quedo donde se vea la grúa.
 
@@ -186,7 +186,7 @@ El hombre del Audi bajó la escalera y cerró una puerta abajo. Dario le señal�
 
 —La de Kal.
 
-—La de Mercer. —Asintió, como quien corrige una ficha—. Con un coche arriba. Muy discreto. —Volvió a mirar hacia la calle, donde no se veía nada desde ahí—. ¿Están completas?
+—La de Mercer. Con un coche arriba. Muy discreto. —Volvió a mirar hacia la calle, donde no se veía nada desde ahí—. ¿Están completas?
 
 —Completas.
 
@@ -200,7 +200,7 @@ Chiara no se movió.
 
 —No se lo iba a preguntar.
 
-—Claro que sí. Por eso viniste sola. —Dario la miró el tiempo exacto que le hacía falta y luego miró otra vez los muelles—. Camp Alder no es San Aurelio. Lo que pasa adentro de esa reja no lo arregla nadie de esta ciudad. Ni yo.
+—Claro que sí. Por eso viniste sola. —Dario la miró y luego miró otra vez los muelles—. Camp Alder no es San Aurelio. Lo que pasa adentro de esa reja no lo arregla nadie de esta ciudad. Ni yo.
 
 Lo dijo sin pena y sin orgullo, como un hombre que conoce el tamaño de su casa. Abajo, en el muelle, un montacargas pitó en reversa y se calló.
 

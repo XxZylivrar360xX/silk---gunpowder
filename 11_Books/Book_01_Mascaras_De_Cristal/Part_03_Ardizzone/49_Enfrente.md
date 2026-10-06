@@ -17,7 +17,7 @@ DISEÑO del agente, pendiente de lectura:
 - "¿Pueden?" / "Il Consorzio puede muchas cosas que no hace." (excepción de la regla 03: voz doctrinal de Valenti).
 - La oferta frente a la ventana: la casa Ardizzone ha vivido "en casa ajena"; el señor Varek ha sido un socio útil; la utilidad cambia de forma; sin anuncio, como si siempre hubiera sido así (eco mudo del método de Kal). "Dueña del Monarch, signora Ardizzone": el nombre de la corona no es el que ella le dio a Rafe; no se glosa.
 - Chiara piensa en la deuda abierta con Dario sin nombrarla (bodega nueve, "una cuenta abierta").
-- "Si acepto, ¿lo sacan?" / "Una cosa no compra la otra. Por eso se lo ofrezco hoy: para que no las confunda." "Il Consorzio no tiene prisa."
+- "Si acepto, ¿lo sacan?" / "Una cosa no compra la otra. Por eso se lo ofrecemos hoy: para que no las confunda." (plural desde E7, Q20). "Il Consorzio no tiene prisa."
 - Ella no contesta. Sale; Valenti la acompaña a la puerta hablando de otra cosa (un concierto). Cruza el Paseo a pie; el portero del Monarch: "Buenas tardes, señora Bellandi."
 - Valenti, hijo de un contador de naviera en Génova (CANON DEL AUTOR, aprobado el 2026-10-03 en Q7; integrado en [[02_Characters/Leone_Valenti]]). Teatro de la calle Alameda: lugar de pasada, DISEÑO.
 - Continuidad geográfica corregida en E4 (auditoría del arco, Q1, 2026-10-03): la vista del despacho del Cap. 47 se ajustó a Paseo Pacífica, en coherencia con [[03_Factions/El_Casino]].
@@ -59,7 +59,7 @@ El teléfono sonó a las ocho y cuarenta y uno.
 
 —¿En Nueva York?
 
-—En el Pacífica. Piso once. Preguntan en la recepción por la suite de la esquina.
+—En el Pacífica. Piso once. Pregunte en la recepción por la suite de la esquina.
 
 Chiara no contestó enseguida. Miró por la ventana del despacho. Del otro lado del Paseo Pacífica, entre dos palmeras, estaba la fachada color arena del hotel de enfrente, con sus balcones de hierro y su letrero de letras doradas que alguien pulía cada mañana desde una canastilla. Lo veía todos los días. Había visto su letrero encenderse el sábado mientras esperaba que Mabel le llamara.
 
@@ -195,7 +195,7 @@ Chiara miró la ventana. El sol le daba de lleno a la fila de ventanas del últi
 
 Valenti la miró con algo que en otro hombre habría sido pena.
 
-—Una cosa no compra la otra, signora. Por eso se lo ofrezco hoy y no otro día. Para que no las confunda.
+—Una cosa no compra la otra, signora. Por eso se lo ofrecemos hoy y no otro día. Para que no las confunda.
 
 La gaviota volvió, o era otra, y se posó un momento en el barandal del balcón, y se fue.
 

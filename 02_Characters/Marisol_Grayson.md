@@ -123,7 +123,7 @@ En esa misma escena queda sembrado el resto del plan:
 
 > **PENDIENTE:** en qué libro entra Marisol a Rivers & Krane y en qué escena le ofrece Kal ser socia nominal.
 
-**La graduación (2026-08-30):** al terminar las estadías, Kal lleva a Chiara como su acompañante a la graduación — uno de los momentos de mayor orgullo de su vida. Ocurre después del primer encuentro entre Marisol y Chiara en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21_El_Primer_Huesped|Capítulo 21, «La promesa»]]. La recogida ya está redactada en [[07_Ideas/La_Graduacion_De_Marisol]]; falta construir el resto.
+**La graduación (2026-08-30):** al terminar las estadías, Kal lleva a Chiara como su acompañante a la graduación — uno de los momentos de mayor orgullo de su vida. Ocurre después del primer encuentro entre Marisol y Chiara en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21_El_Primer_Huesped|Capítulo 21, «La promesa»]]. La recogida ya está redactada en [[07_Ideas/La_Graduacion_De_Marisol]]; falta construir el resto. **Marcador con Kal (CANON DEL AUTOR, 2026-10-05):** hasta aquí ella le gana casi todas; a partir de que madura, y sobre todo en la graduación, Kal empieza a ganar las suyas ([[12_Craft_Policies/voice/Marisol_Grayson]]).
 
 ---
 
@@ -135,6 +135,7 @@ En esa misma escena queda sembrado el resto del plan:
 - **Libro II:** hacer perceptible la continuidad del vínculo antes del atentado de Santa Lucía. La muerte de Kenji, ya canon en [[00_Biblia/00_Trilogy_Structure]], afecta directamente a Marisol y extiende las consecuencias de la operación de Halbrook sobre el conjunto de personajes.
 - **Límite de información:** respetar lo que Marisol y Kenji cuentan y lo que reservan. Kal y Chiara pueden interpretar o equivocarse; la narración no confirma por detrás lo que ninguno sabe.
 - **Desarrollo de Marisol:** conservar su capacidad de elegir, contradecir y sostener una vida propia. El noviazgo y la pérdida no sustituyen su carrera ni fijan de antemano su respuesta al atentado.
+- **Origen en la vigilancia — salvaguarda DISEÑO (2026-10-05):** el vínculo nace en el Cap. 33 (BORRADOR) de una observación que Marisol detecta, investiga y confronta. Ningún capítulo posterior romantiza retroactivamente ese seguimiento; su agencia (descubrir, reclamar, elegir) es lo que vuelve legítima la relación. Ver [[02_Characters/Kenji_Oda]].
 
 > **DISEÑO disponible, no hitos fijados:** hábitos compartidos, planes que cambian su disponibilidad, familiaridad que los protagonistas descubren y preguntas que decide no responder. La tensión entre protección y autonomía puede cobrar aquí, pero todavía no se fija como el conflicto concreto con Kal.
 
@@ -173,6 +174,7 @@ Su sarcasmo lo aprendió de Kal por convivencia, pero no lo imita: en ella es m�
 - [[02_Characters/Michael_Grayson]] — padre.
 - [[02_Characters/Hector_Navarro]] — espejo temático: Kal fue criado por un padre elegido; Marisol es la persona a quien Kal intenta darle una salida elegida.
 - [[02_Characters/Chiara_Bellandi]] — su primer encuentro ocurre en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21_El_Primer_Huesped|Capítulo 21, «La promesa»]]. En el Cap. 15 Marisol sólo conoce el nombre por cómo aparece en boca de Kal, y lo usa para picarlo. Su relación posterior puede revelar qué clase de familia están construyendo Kal y Chiara.
+- Voz: [[12_Craft_Policies/voice/Marisol_Grayson]] · energía de referencia, no canon: [[99_Reference/voice_calibration/Marisol_Grayson]] · auditoría "detector infalible": [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Marisol_Detector_Infalible]].
 
 ---
 

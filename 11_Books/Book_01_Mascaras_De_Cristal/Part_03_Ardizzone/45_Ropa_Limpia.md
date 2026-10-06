@@ -36,7 +36,7 @@ Y debajo, una palabra que no necesitaba latín:
 
 ALDER.
 
-Kenji tomó el billete. El papel se quedó en su palma el tiempo exacto de leerlo y después desapareció entre las fichas, donde desaparecía todo. Contó dos fichas de veinticinco y las empujó hacia ella.
+Kenji tomó el billete. El papel se quedó en su palma mientras lo leía y después desapareció entre las fichas, donde desaparecía todo. Contó dos fichas de veinticinco y las empujó hacia ella.
 
 —Hoy es día de pago en el norte —dijo—. Vienen muchos a cambiar cheques.
 
@@ -94,7 +94,7 @@ Chiara guardó los billetes en el bolso sin doblarlos. Pensó en decirle algo y 
 
 La campanita de La Esquina de Mabel sonó cuando Chiara empujó la puerta, a las seis y cuarenta de la mañana, y dentro nadie dejó de hablar. Bajaron el volumen medio tono y siguieron.
 
-Olía a café recalentado, a pan, al cloro barato con que alguien acababa de trapear el piso. En la vitrina había conchas de la víspera. Dos hombres con overol de taller desayunaban en la barra con los codos sobre la fórmica, y un taxista tomaba café de pie junto a la puerta, con las llaves en la mano, como quien no piensa quedarse. La máquina de espresso estaba apagada.
+Olía a café recalentado, a pan, al cloro barato con que alguien acababa de trapear el piso. En la vitrina había conchas de la víspera. Dos hombres con overol de taller desayunaban en la barra con los codos sobre la fórmica, y un taxista tomaba café de pie junto a la puerta, con las llaves en la mano. La máquina de espresso estaba apagada.
 
 Mabel estaba detrás del mostrador, cortando jamón. Vio a Chiara entrar y no le dijo buenos días. Le sirvió café en una taza gruesa, sin preguntarle cómo lo quería, y la puso en el extremo de la barra, lejos de los del overol.
 
@@ -220,7 +220,7 @@ El contador de la esquina avanzaba en segundos.
 
 La mano se quedó ahí. Después bajó.
 
-Kal se quedó todavía un momento frente a la puerta, con los brazos a los lados. No se le veía la cara. La cámara sólo tenía su espalda, los hombros, la nuca. Después se dio media vuelta y caminó de regreso al elevador al mismo paso con el que había llegado. Las puertas se cerraron. El pasillo se quedó vacío, y el contador siguió avanzando sobre el pasillo vacío.
+Kal se quedó todavía un momento frente a la puerta, con los brazos a los lados. La cámara sólo tenía su espalda, los hombros, la nuca. Después se dio media vuelta y caminó de regreso al elevador al mismo paso con el que había llegado. Las puertas se cerraron. El pasillo se quedó vacío, y el contador siguió avanzando sobre el pasillo vacío.
 
 —¿Quiere que se la regrese? —preguntó el guardia.
 
@@ -234,7 +234,7 @@ Se tocó el anular izquierdo. Lo notó después de hacerlo.
 
 Chiara miró la pantalla, el pasillo vacío, el contador.
 
-Kal Mercer en la puerta de su casa a las siete de la tarde. Kal Mercer, horas después, en un camino rural a menos de un kilómetro de una base federal. Dos registros, el mismo día, el mismo hombre. Una grabación que existe es una grabación que alguien puede pedir.
+Kal Mercer en la puerta de su casa a las siete de la tarde. Kal Mercer, horas después, en un camino rural a menos de un kilómetro de una base federal. Una grabación que existe es una grabación que alguien puede pedir.
 
 —No —dijo—. Bórrela.
 
@@ -294,7 +294,7 @@ Mei-Lin se dio vuelta entonces. Miró a Chiara desde el ventanal, con la luz del
 
 —Mei —dijo Bonnie.
 
-Mei-Lin no retiró la pregunta. Tampoco insistió. Esperó, con las manos en los bolsillos.
+Mei-Lin no retiró la pregunta. Tampoco insistió. Esperó.
 
 Chiara tenía una pluma en la mano. La dejó sobre el escritorio, alineada con el borde de la hoja fotocopiada que seguía ahí boca abajo desde hacía dos días, con el sello y las dos palabras.
 
@@ -306,17 +306,13 @@ El coche de Bonnie era un Civic de un color que había sido rojo, con un asiento
 
 —Mei no lo dijo para molestarla.
 
-—Lo sé.
-
-—Ella es así. Pregunta lo que todos están pensando y luego no entiende por qué la miran feo.
-
 —Fue una buena pregunta —dijo Chiara.
 
 Bonnie la miró de reojo y volvió a la carretera.
 
-Kingsley Field apareció a la derecha como aparecen los aeropuertos de carga de noche: una extensión de luces bajas y anaranjadas, sin gente, con la silueta de un avión de fuselaje ancho detenido junto a un hangar y un camión cisterna rodeándolo despacio. Bonnie tomó la salida del Alder Cutoff. Dos carriles, sin acotamiento, con postes de luz cada tanto y oscuridad entre uno y otro. Un letrero verde pasó por la ventanilla de Chiara: CAMP ALDER, y un número de millas que no alcanzó a leer.
+Kingsley Field apareció a la derecha: luces bajas y anaranjadas, sin gente, y la silueta de un avión de fuselaje ancho detenido junto a un hangar. Bonnie tomó la salida del Alder Cutoff. Dos carriles, sin acotamiento, con postes de luz cada tanto y oscuridad entre uno y otro. Un letrero verde pasó por la ventanilla de Chiara: CAMP ALDER, y un número de millas que no alcanzó a leer.
 
-La lavandería estaba a un kilómetro del letrero, del lado izquierdo. Una nave larga de lámina con la barda pintada de azul, tres chimeneas cortas sacando vapor blanco contra el cielo todavía negro, y una fila de camiones de caja junto a los andenes, con el logotipo de la empresa y el motor encendido. Mabel tenía razón: el almidón se olía desde la carretera. Un olor caliente, de tela planchada, de hospital limpio.
+La lavandería estaba a un kilómetro del letrero, del lado izquierdo. Una nave larga de lámina con la barda pintada de azul, tres chimeneas cortas sacando vapor blanco contra el cielo todavía negro, y una fila de camiones de caja junto a los andenes, con el logotipo de la empresa y el motor encendido. El almidón se olía desde la carretera. Un olor caliente, de tela planchada, de hospital limpio.
 
 Bonnie pasó de largo, dio vuelta en un retorno, regresó con las luces apagadas los últimos metros y se detuvo del lado del Cutoff, junto a la barda baja, donde no había luz. Apagó el motor.
 
@@ -406,7 +402,7 @@ Estaba vivo.
 
 —¿Está bien? —preguntó Bonnie.
 
-Chiara miró el letrero verde, de espaldas, al fondo del Cutoff. Bonnie no repitió la pregunta. Esperó con las manos en el volante hasta que fue claro que no iba a haber respuesta, y entonces giró la llave.
+Chiara miró el letrero. Bonnie no repitió la pregunta. Esperó con las manos en el volante hasta que fue claro que no iba a haber respuesta, y entonces giró la llave.
 
 —¿A dónde la llevo?
 

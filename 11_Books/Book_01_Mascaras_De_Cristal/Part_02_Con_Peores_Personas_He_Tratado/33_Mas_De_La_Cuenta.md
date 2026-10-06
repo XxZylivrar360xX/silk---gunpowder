@@ -1,5 +1,5 @@
 <!--
-Estado: BORRADOR — penúltimo capítulo de la Parte II (Cap. 33 de 34). Pendiente de revisión del autor. Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]], § 9 parte 4); sigue BORRADOR.
+Estado: BORRADOR — penúltimo capítulo de la Parte II (Cap. 33 de 34). Pendiente de revisión del autor. Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]], § 9 parte 4); sigue BORRADOR. Cirugía de narrador 2026-10-05 (M33-1 a M33-3 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Marisol_Detector_Infalible]]: tres acotaciones que certificaban la agudeza de Marisol; diálogo intacto); sigue BORRADOR.
 Reubicación (2026-09-20, decisión del autor): este capítulo abría originalmente la Parte III — Ardizzone. Se adelantó, junto con el Cap. 34 — Mi pareja (H21, sin prosa todavía en ese momento), al cierre de la Parte II, para que la Parte III quede enteramente reservada al arco paralelo Kal/Dario (El Patio como administración criminal) y Chiara/Il Consorzio (reclamo de "Ardizzone"). Ver [[06_Relationships/Hitos]] (tabla de orden y H21) y `98_Agent_Handoff/PENDING.md`. El contenido de este capítulo (Kenji/Marisol, coda del loft) no cambió — sólo su posición.
 Renumerado en cascada (2026-09-20, encargo del autor): se insertó el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Cap. 32 — Línea directa]] (Kal/Lucia Varek) entre este capítulo y "Vamos a casa". Este archivo pasó de 32 a 33; "Mi pareja" pasó de 33 a 34.
 Protagonistas: Chiara Bellandi (POV único, sin excepción). Apariciones: Kenji Oda, Marisol Grayson. Coda: Kal Mercer.
@@ -84,7 +84,7 @@ No era una pregunta hecha a Chiara. Era la pregunta que le había estado haciend
 
 —Ya. —Marisol la miró un momento, después miró a Kenji, después otra vez a Chiara, y algo terminó de encajar en su cabeza con la velocidad de alguien acostumbrada a conectar puntos más rápido de lo que el resto de la sala esperaba—. Claro.
 
-No sonó a alivio. Sonó a alguien completando un mapa que no le gustaba del todo.
+Sonó a alguien completando un mapa que no le gustaba del todo.
 
 —Trabaja para ti —dijo, no como pregunta.
 
@@ -130,7 +130,7 @@ Marisol se quedó mirándolo un momento sin decir nada, y Chiara reconoció el s
 
 —Pude —dijo Kenji—. No hubiera sido cierto.
 
-Algo en eso pareció importarle a Marisol más de lo que cualquiera de las dos frases anteriores le había importado. No lo dijo. Pero dejó de tener los brazos cruzados de la misma manera.
+Marisol no contestó. Pero dejó de tener los brazos cruzados de la misma manera.
 
 —¿Cómo se supone que sabías que era "más atención de la que hacía falta"? —preguntó—. ¿Tienes un manual para eso?
 
@@ -188,7 +188,7 @@ Marisol soltó algo que no era del todo una risa, más bien el principio de una,
 
 —No soy tan adulto.
 
-—Pareces uno. —Lo dijo con la misma mezcla de sarcasmo y precisión con la que probablemente desarmaba a sus compañeros de clase—. Es molesto.
+—Pareces uno. Es molesto.
 
 Chiara los miró a los dos, uno y otro.
 

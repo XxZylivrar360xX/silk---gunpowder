@@ -1,5 +1,5 @@
 <!--
-Estado: BORRADOR — Parte III — Ardizzone, octavo capítulo (Cap. 42 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "Nada". No es provisional. **Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_III]]):** "Tú dijiste tres" (no "cuatro": "Tengo que volver" son tres palabras); "No se sirvió nada" (no hubo copa, sólo el vaso de agua); presagio garantizado de 92 → "que Kal iba a venir"; tres glosas sobre Bonnie y el silencio cortadas; la repetición "sin nada más que decir" antes del final de F1, cortada (se queda la de Chiara). La línea canon, "—Nada.", "—Sí. Te mentí.", "Ciao, tesoro" y la mano en la manija, intactos. Detalle en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]], § 9 parte 4. Sigue BORRADOR.
+Estado: BORRADOR — Parte III — Ardizzone, octavo capítulo (Cap. 42 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "Nada". No es provisional. **Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_III]]):** "Tú dijiste tres" (no "cuatro": "Tengo que volver" son tres palabras); "No se sirvió nada" (no hubo copa, sólo el vaso de agua); presagio garantizado de 92 → "que Kal iba a venir"; tres glosas sobre Bonnie y el silencio cortadas; la repetición "sin nada más que decir" antes del final de F1, cortada (se queda la de Chiara). La línea canon, "—Nada.", "—Sí. Te mentí.", "Ciao, tesoro" y la mano en la manija, intactos. Detalle en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]], § 9 parte 4. Sigue BORRADOR. **Tesis visibles (2026-10-05, ajustes aprobados por el autor):** F1 deja de cerrar en dos tesis simétricas. Fuera la glosa "sintió el golpe de esa distinción…"; la segunda formulación de Kal ("Eso es lo que me duele…", que además choca con su voz: lo que le duele lo baja de categoría); su concesión calcada de la de Chiara ("tampoco es tan distinto como me gustaría"); "Fue lo más cerca que estuvieron…"; las glosas sobre el filo, la acotación de la línea canon y "fue exacto" (tic "exacto"). Mecánico: "—Y me dijiste" para que la réplica no parezca de Chiara. Línea canon, "—Nada.", "Te mentí", "Ciao, tesoro" y la manija, intactos. Detalle: 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Narrador_Tesis_Resenas_ChatGPT.md § 5.
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). El rastreo de Bonnie ocurre fuera de página: se conoce por completo a través de la llamada en la que Bonnie se lo reporta a Chiara. Kal aparece en escena sólo en el penthouse, para F1; su conversación con Bonnie nunca se dramatiza.
 Personajes con diálogo: Chiara Bellandi, Bonnie García (por teléfono), Kal Mercer (en persona, F1).
 Ausente, sentido: Matteo Bellacorte (funciones absorbidas, silla vacía). Mencionado sin aparecer: el hombre que aborda a Bonnie, Ettore, La Mesa, Valenti, Livia Rinaldi, Halbrook (nunca nombrado).
@@ -149,9 +149,9 @@ No era la pregunta que había hecho por teléfono, la de dos noches atrás. Era 
 
 Chiara no bajó la vista.
 
-—Me dijiste: "Nada."
+—Y me dijiste: "Nada."
 
-No lo dijo como acusación gritada. Lo dijo como quien coloca un objeto exacto sobre una mesa, para que los dos lo vean al mismo tiempo.
+No lo dijo como acusación gritada. Lo dijo como quien coloca un objeto sobre una mesa, para que los dos lo vean al mismo tiempo.
 
 Chiara no lo negó. No dijo que técnicamente no sabía nada todavía, que la pista era apenas una ruta rara y una placa a medias, que "nada" había sido casi verdad si uno la retorcía lo suficiente. Sabía exactamente lo que había hecho.
 
@@ -183,9 +183,7 @@ Lo dijo sin subir el volumen. Fue peor así.
 
 —Me preguntaste... —Kal se corrigió—. Te pregunté yo. Directamente. Y aun así elegiste "nada" en vez de "todavía no sé, dame un día." Esas dos frases no cuestan lo mismo, Chiara.
 
-Chiara sintió el golpe de esa distinción con una precisión incómoda, porque tenía razón, y ella lo sabía antes de que él lo dijera.
-
-—No decides tú sola qué riesgo de mi gente me concierne —dijo Kal, más bajo, y por eso mismo con más peso—. Eso es lo que me duele. No el coche. No que hayas buscado a Matteo. Que decidiste, tú sola, cuánto necesitaba saber yo sobre alguien de mi gente.
+—No decides tú sola qué riesgo de mi gente me concierne —dijo Kal, más bajo, y por eso mismo con más peso.
 
 —¿Y tú? —dijo Chiara, antes de poder pensarlo del todo.
 
@@ -223,13 +221,11 @@ Chiara no contestó de inmediato. Cuando lo hizo, su voz había perdido el filo 
 
 —Yo también pensé que te estaba protegiendo esa vez.
 
-—Lo sé —dijo Kal—. Y yo decidí solo subirme a ese avión sin decirte por qué. —Una pausa—. No es lo mismo que mentir con una palabra. Pero tampoco es tan distinto como me gustaría.
+—Lo sé —dijo Kal—. Y yo decidí solo subirme a ese avión sin decirte por qué.
 
 —Entonces los dos decidimos solos.
 
 Kal no contestó eso.
-
-Fue lo más cerca que estuvieron esa noche de nombrar lo mismo. Ninguno lo repitió.
 
 —Tenía que volver —dijo Kal, después de un silencio—. Eso no cambió. No pude explicarte por qué entonces y no puedo explicártelo ahora.
 
@@ -237,13 +233,13 @@ Fue lo más cerca que estuvieron esa noche de nombrar lo mismo. Ninguno lo repit
 
 —No es lo mismo, Chiara. Yo no puse en riesgo a nadie tuyo. Tú pusiste en riesgo a alguien mío mientras decidías si yo merecía saberlo.
 
-Ahí volvió el filo, y Chiara lo sintió llegar como quien reconoce un dolor que ya conoce la forma exacta de doler.
+Ahí volvió el filo.
 
-—Por mucho que yo esté enamorado de ti —dijo Kal, y lo dijo despacio, como si la frase misma le costara más que cualquier otra cosa que hubiera dicho esa noche—, soy fiel a mis convicciones, a mi gente y a mí mismo.
+—Por mucho que yo esté enamorado de ti —dijo Kal, despacio—, soy fiel a mis convicciones, a mi gente y a mí mismo.
 
 El silencio que siguió no fue el mismo silencio de antes.
 
-—Lo sé —fue lo único que dijo Chiara, y no fue frío, y no fue cálido: fue exacto, del mismo modo en que Kal acababa de ser exacto con ella.
+—Lo sé —fue lo único que dijo Chiara, y no fue frío, y no fue cálido.
 
 Kal la miró un momento más, como esperando algo distinto, y cuando no llegó nada distinto, asintió una vez, despacio, para sí mismo más que para ella.
 

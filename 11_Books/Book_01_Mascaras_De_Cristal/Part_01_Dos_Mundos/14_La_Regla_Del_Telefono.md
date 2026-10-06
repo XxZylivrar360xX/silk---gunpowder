@@ -1,5 +1,5 @@
 <!--
-Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md).
+Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Corte de diálogo autorizado por el autor (2026-10-05, M14-1 de 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Marisol_Detector_Infalible.md): se quitó "Eso no pasa por trabajar juntos, Kal."; sigue TERMINADO.
 Protagonistas: Kal Mercer, Marisol Grayson.
 Ventana temporal: el fin de semana inmediatamente anterior al infarto de Hector / H10. Se inserta entre el Capitulo 13 (Auster) y el Capitulo 15 (El porton).
 Lugares: La Casa (loft de Kal), la universidad / residencia de Marisol, carretera y camino de tierra al norte, zona de campamento en las montanas, tienda de carretera, regreso a San Aurelio.
@@ -274,7 +274,7 @@ Marisol levantó la cabeza de golpe.
 
 —No aprendí italiano.
 
-—Aprendiste una palabra. Y no te diste cuenta de que la dijiste, que es peor. —Se rió, la risa corta y feliz que a Kal todavía le costaba no contagiarse—. Eso no pasa por trabajar juntos, Kal.
+—Aprendiste una palabra. Y no te diste cuenta de que la dijiste, que es peor. —Se rió, la risa corta y feliz que a Kal todavía le costaba no contagiarse.
 
 Kal se chupó el dedo quemado y no contestó, que para Marisol fue, otra vez, confirmación suficiente.
 

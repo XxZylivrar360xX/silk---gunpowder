@@ -1,5 +1,6 @@
 <!--
 Estado: BORRADOR — Parte III — Ardizzone, noveno capítulo (Cap. 43 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "La puerta". No es provisional. **Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_III]]):** Kal sale del loft hacia El Patio (no "hacia La Almendra": el loft ya está ahí); prolepsis de narrador cortada ("en algún punto que después nadie iba a poder señalar" → "sin aviso"); dos casos del tic "no hacía falta / no necesitaba decir nada más" (Garrett, "Ahora") y la inercia "que no había nada más que discutir ahí"; "la noche anterior" dos veces en la frase de la puerta → una. La puerta (sus dos "No hacía falta"), el expediente sin abrir, Héctor jalando a Nadir y la reja, intactos. Detalle en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]], § 9 parte 4. Sigue BORRADOR. **Arresto reescrito 2026-10-02 (CANON DEL AUTOR en sustancia, prosa del agente, BORRADOR):** Kal se queda atrás y les revienta las llantas a las patrullas municipales (no apunta a nadie); un agente lo embiste a pie desde un punto ciego; Nadir lo ve desde la puerta y salta; Héctor lo jala de vuelta; despegan gritando "¡Kal!". Sustituye la caminata de Kal hacia el camino y la intercepción posterior. El equipo VE el arresto (lo cuenta Héctor en el 44). Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_44_Jurisdiccion]] C1.
+**Frente 4, Camp Alder (2026-10-05, P2 aprobada por el autor; prosa del agente, BORRADOR):** el éxito dentro de la base se muestra en vez de resumirse. La primera carga llega limpia al helicóptero; Kal decide volver por el resto porque Varek las quiere completas, y el quiebre llega en la segunda vuelta. La causa es una decisión, no técnica, y sigue siendo no operativa. Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente_4_Camp_Alder]].
 Protagonista: Kal Mercer (POV único, tercera persona cercana). No hay salto de POV. Chiara Bellandi NO aparece físicamente en ningún momento del capítulo — ni llamada, ni mensaje, ni reconciliación.
 Personajes con diálogo: Kal Mercer, Nadir Amrani, Héctor Navarro, Danny Hayes, Dario Varek (por teléfono). Garrett Cross participa sin diálogo propio relevante (una instrucción operativa mínima).
 Ausente, sentido: Chiara Bellandi (objetos en el loft, la puerta del penthouse). Mencionado sin aparecer: Warren Halbrook (encargo ya sabido, no en escena), Lucía Varek (no en este capítulo).
@@ -126,9 +127,17 @@ Encontraron lo que habían ido a buscar donde tenían que encontrarlo.
 
 El expediente estaba sellado. Kal comprobó la etiqueta contra lo que llevaba anotado, la confirmó, y lo guardó. No lo abrió. No le dio vuelta para leer nada.
 
-Las armas pesaban más de lo que se veían. Las movieron hasta el punto de carga sin decir una palabra de más, con la misma urgencia silenciosa con la que se mueve cualquier cosa que no debería estar donde está por más tiempo del necesario.
+Las armas pesaban más de lo que se veían. La primera carga salió como salen las cosas que se ensayaron de más: Danny y Nadir delante, Héctor detrás, Kal en medio, nadie hablando. Cruzaron hasta el claro sin que se encendiera una sola luz que no estuviera encendida antes. Garrett recibió las cajas en la puerta del helicóptero y les levantó el pulgar sin quitarse los lentes.
 
-El ruido del otro lado empezó a cambiar de tono, más cerca de lo que había estado un momento antes.
+Nadir soltó una risa corta, sin aire, y se tapó la boca con el dorso del guante.
+
+Kal miró hacia los almacenes y después al helicóptero. Varek las quería completas.
+
+—Una más —dijo.
+
+Volvieron. La segunda vuelta fue igual de limpia hasta la mitad.
+
+Entonces el ruido del otro lado empezó a cambiar de tono, más cerca de lo que había estado un momento antes.
 
 —Se está acabando —dijo Nadir, en voz baja.
 

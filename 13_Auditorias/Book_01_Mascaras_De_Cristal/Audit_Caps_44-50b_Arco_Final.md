@@ -17,10 +17,22 @@
 | 🟡 P1 | Puerta del autor 1: responder § Decisiones | **CUMPLIDA** | 2026-10-03 | El autor aprobó Q1–Q25 tal como se propusieron. Ver § Respuestas del autor (al final) |
 | E4 | Correcciones estructurales 44–47 (incluye C2) | **HECHA** | 2026-10-03 | 12 cambios (Q1 del 47, Q2 del 47, Q3, Q4, Q5, Q10, Q11, Q16) en § 9, parte 1. C2 ya estaba propagado. Q10 quedó en −37, no en −150/−250: el resto de la ronda son pagos. LF conservado; ningún pago roto |
 | E5 | Correcciones estructurales 48–50b y registro intermedio | **HECHA** | 2026-10-03 | 16 cambios (Q1 de 49/50/50b, Q2 del 49, Q6–Q9, Q12–Q14, Q25) en § 9, parte 2; Génova en la ficha de Valenti; excepción del "Ciao" en la voz de Chiara (Q22). CRLF del 49 y LF de los demás conservados. Registro: brief, log, INDEX, plan y PENDING |
-| 🟡 P2 | Puerta del autor 2: lectura de los capítulos | **ABIERTA** (lista para leer) | | Qué leer: § 9, parte 2, "Para el autor" |
-| E6 | Microedición 44, 45, 46 | PENDIENTE | | |
-| E7 | Microedición 47, 48, 49 | PENDIENTE | | |
-| E8 | Microedición 50 y 50b, registro final | PENDIENTE | | |
+| 🟡 P2 | Puerta del autor 2: lectura de los capítulos | **CUMPLIDA** | 2026-10-05 | El autor da todo por leído y aprueba los ajustes. Restricciones para E6–E8 en § Restricciones de lector (abajo) |
+| E6 | Microedición 44, 45, 46 | **HECHA** | 2026-10-05 | 22 intervenciones (−140 palabras), con los patrones del frente 1 incluidos. Una falla de continuidad nueva en el 45 ("Mabel tenía razón": lo del almidón lo dijo Kenji). § 9, parte 3 |
+| E7 | Microedición 47, 48, 49 | **HECHA** | 2026-10-05 | 18 intervenciones (−144 palabras de prosa), incluidas Q18–Q20. § 9, parte 4 |
+| E8 | Microedición 50 y 50b, registro final | **HECHA** | 2026-10-05 | 7 intervenciones (−86). Monólogo, columna canon y Lancia intactos. Encargo cerrado: −370 palabras en el arco, nada sumado; los ocho siguen en BORRADOR. La cascada queda como tarea aparte. § 9, parte 5 |
+
+### Restricciones de lector para E6–E8 (2026-10-05, aprobadas por el autor)
+
+Vienen de la reseña de ChatGPT del cierre ([[98_Agent_Handoff/ChatGPT/2026-10-05_resena_lector_caps_35_50b_cierre_libro1]]). La microedición **da aire, no suma**. No se añade intensidad, explicación ni revelación en ningún capítulo del arco.
+- **Proteger sin glosa nueva:** la camisa doblada como huella (45, 46, 50); "Yo no hice nada. Planché." (45); las llaves y la albahaca (46); "Chiara Bellandi… Así, solita" (48); la negativa fría, no sádica, de Valenti (49); el monólogo del 50 (**no embellecerlo**); el cigarro sin encender; "Ciao, bella"; la sonrisa de Halbrook sin explicación (50b).
+- **No suavizar** el error de Chiara con la grabación borrada (45). El 50b lo cobra.
+- **El 45 y el 50 están en el límite de densidad:** sólo cortes y compresiones, sin beats nuevos.
+- **Fuera del arco (anotado, no se opera aquí):**
+  - el 42 *Nada* (que no queden "dos tesis perfectamente expuestas"; se audita aparte);
+  - el 43 (¿se siente que Camp Alder "estaba funcionando" antes del quiebre? Es pregunta estructural);
+  - el 38 (aire, no intensidad);
+  - la mujer de "Ojos azules" del 35 (no sobreexplicarla después).
 
 ## Línea base (E0, 2026-10-02)
 
@@ -649,3 +661,125 @@ Reparto: Q1 (las del 47), Q2 (47), Q3–Q5, Q10, Q11 y Q16 → E4. Q1 (49, 50 y 
 2. **Cortes que cambian el tono de una escena:** 47:129–149 (la ronda del Patio, −37; si quieres apretar más, las candidatas son 47:103–115 y 47:89–97); 50b:54 y 50b:104 (Halbrook más externo).
 3. **Lo demás** son cambios de una palabra (Palermo, bodega, metros, sonrisa, circo, ma dai) y no hace falta buscarlos.
 4. Si algún capítulo se pide rehacer, sale del encargo y su AUDIT se invalida.
+
+### Parte 3 — E6: microedición de 44, 45 y 46 (2026-10-05)
+
+**Modo:** SURGERY dentro del ámbito de E6, con las restricciones de lector (dar aire, no sumar; en el 45 sólo cortes). Incluye los tres patrones del frente 1 del [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Fortalecimiento_Puntos_Debiles|plan de fortalecimiento]] ("como quien", "exacto", "No era X. Era Y.") en estos capítulos, para no operarlos dos veces. Leídos completos 44–46 antes de tocar nada. **Antes:** los tres en git, limpios (el antes exacto está en `git diff`). **Palabras con metadata (`wc -w`):** 44: 2,517 → 2,499 · 45: 4,755 → 4,681 · 46: 3,716 → 3,668 (−140 en total). El 44 sigue en LF; el 45 y el 46 tenían finales mezclados y quedaron en CRLF (el diff no cambia: `core.autocrlf`).
+
+| # | Cap:línea | Antes | Después | Categoría y razón | Qué ya hacía la escena / qué se conserva |
+|---|---|---|---|---|---|
+| 1 | 44:144 | "desde El Faro" | "desde *El Faro*" | A6, higiene | Es el diario, no el Farol del Cap. 11. |
+| 2 | 44:162 | "…sin secretaria de por medio, como si llevara la mañana esperándola." | "…sin secretaria de por medio." | GLOSA / REPETICIÓN SINTÁCTICA (calca el "como si ya tuviera el teléfono en la mano" de Krane, 44:90) | "Ya me enteré" y la inferencia de Chiara (44:168) dicen que la esperaba. Se conserva el detalle de la secretaria. |
+| 3 | 44:180 | "—A nadie que vaya a contestarle. —Una pausa—. Mándele saludos a Margaret." | sin "Una pausa" | C1, TIC | "Mándele saludos" pesa sola. Se conservan la pausa de Héctor (54) y la "política" de Rowe (154). |
+| 4 | 44:184 | "No había pensado nunca en la vez que necesitara ella el favor." | "Nunca había pensado en el día en que el favor lo necesitara ella." | E4 del audit del 44: INTERIORIDAD, forma | Se protege la función (el cálculo de Chiara se le voltea); sólo se arregla la sintaxis. |
+| 5 | 44:194 | "…que todavía no le llegaba. —Hubo un silencio corto—. La municipal…" | sin el silencio | C1, TIC | Krane sigue sin aire: la frase siguiente ya es el remate. |
+| 6 | 44:236 | "—En Camp Alder. —Lucía sostuvo la mirada antes de seguir—. Lo detuvo…" | sin la mirada | C6, REPETICIÓN FUNCIONAL | El gesto de Lucía llega limpio en 44:260 ("más tiempo del que la conversación necesitaba"), que es el que cumple H20. |
+| 7 | 45:39 | "el tiempo exacto de leerlo" | "mientras lo leía" | TIC "exacto" (frente 1) | Kenji ya tiene su "Cincuenta, exactos." en 45:85, que es el que importa (la cuenta como tapadera). La rapidez la da "donde desaparecía todo". |
+| 8 | 45:97 | "…con las llaves en la mano, como quien no piensa quedarse." | "…con las llaves en la mano." | GLOSA ("como quien") | Las llaves en la mano y "terminó su café, dejó una moneda y se fue" (45:105) lo enseñan. |
+| 9 | 45:223 | "No se le veía la cara. La cámara sólo tenía su espalda, los hombros, la nuca." | sin "No se le veía la cara." | REPETICIÓN (45:215 ya dice "de espaldas a la cámara") | La espalda, los hombros y la nuca siguen: Kal sin cara, como pide el plan. |
+| 10 | 45:237 | "…de una base federal. Dos registros, el mismo día, el mismo hombre. Una grabación…" | sin "Dos registros…" | GLOSA de enlace | Las dos frases yuxtapuestas ya hacen la suma. **B3 protegida** ("Una grabación que existe…"): el borrado sigue motivado y el error no se suaviza. |
+| 11 | 45:297 | "Esperó, con las manos en los bolsillos." | "Esperó." | REPETICIÓN (45:259, misma escena) | Las manos en los bolsillos ya están puestas desde su entrada. |
+| 12 | 45:307–313 | "—Mei no lo dijo para molestarla. / —Lo sé. / —Ella es así. Pregunta lo que todos están pensando y luego no entiende por qué la miran feo. / —Fue una buena pregunta…" | "—Mei no lo dijo para molestarla. / —Fue una buena pregunta…" | Q17. GLOSA de personaje: Bonnie le explica Mei-Lin al lector y empuja la lectura "honesta" de la pregunta, que tiene que quedar abierta para la relectura (el plan la quiere legible también como sondeo). | "Fue una buena pregunta" contesta ahora directamente a Bonnie, con más filo. Se conservan el Civic, la vainilla y la carretera sin radio. |
+| 13 | 45:317 | "Kingsley Field apareció a la derecha como aparecen los aeropuertos de carga de noche: una extensión de luces bajas y anaranjadas, sin gente, con la silueta de un avión… y un camión cisterna rodeándolo despacio." | "Kingsley Field apareció a la derecha: luces bajas y anaranjadas, sin gente, y la silueta de un avión de fuselaje ancho detenido junto a un hangar." | Q17. Compresión (generalización del narrador y un detalle de más) | Se conservan el Cutoff de dos carriles, los postes con oscuridad entre uno y otro (rima con 45:401) y el letrero CAMP ALDER. |
+| 14 | 45:319 | "Mabel tenía razón: el almidón se olía desde la carretera." | "El almidón se olía desde la carretera." | **Continuidad (no estaba en el mapa):** lo del olor lo dijo el contratista, vía Kenji (45:89), no Mabel. | El olor confirma la pista de Kenji sin atribuírsela a nadie. |
+| 15 | 45:409 | "Chiara miró el letrero verde, de espaldas, al fondo del Cutoff." | "Chiara miró el letrero." | REPETICIÓN LEXICAL (45:401, ocho líneas antes) | La imagen del letrero de espaldas queda en 45:401, donde se describe. |
+| 16 | 46:40 | "No era un saludo. Era el apellido." | — (cortada) | "No era X. Era Y." (frente 1), GLOSA | El "—Héctor." de Chiara, en espejo, y "Ninguno de los dos se levantó" ya dan la frialdad. |
+| 17 | 46:44 | "Nadir cerró el libro de cuentas." | "Nadir cerró el libro." | C12, n-grama (46:34, diez líneas antes) | — |
+| 18 | 46:122 | "…todavía está pensando en salir. Está llevando la cuenta. —Levantó…" | sin "Está llevando la cuenta." | C4, REDUNDANCIA en el mismo parlamento | "Entonces está contando / Los días" (46:118–122) ya dice la cuenta. La antítesis de Walt se conserva entera. |
+| 19 | 46:144 | "Bonnie había dicho que Nadir no dormía." | — (cortada) | C3, GLOSA de enlace | La camioneta lavada, la mochila y el termo lo enseñan; el lector lo tiene de 45:273. |
+| 20 | 46:280 | "…con el teléfono quieto bajo la mano, como quien espera que el otro lea un nombre a través del metal." | "…con el teléfono quieto bajo la mano." | GLOSA ("como quien"; el cuarto del capítulo) | "La niña" llega en la réplica siguiente. |
+| 21 | 46:288 | "Lo vio en la cubierta del yate" | "La vio…" | A5, mecánico | El referente es Marisol ("la niña"). |
+| 22 | 46:298 | "Nadie dijo nada. Nadir pasó una página del libro de cuentas. Danny, bajo el sedán, dejó de mover la llave. Walt miró la botella." | "Nadie dijo nada. Nadir pasó una página del libro." | C5, pase de lista repetido | Queda el de 46:318, el del clímax. Se conserva la página de Nadir porque 318 la paga ("había dejado de pasar páginas"). Danny sigue bajo el sedán desde 46:242, así que "había salido otra vez" sigue valiendo. |
+
+**Costuras leídas después de los cambios:** 44:160–196 y 232–238; 45:37–41, 95–105, 221–239, 295–319 y 399–411; 46:36–46, 116–124, 138–146 y 276–300. Leen limpias. Ningún pago roto: la ropa doblada (45:369–373 → 46:104–132), la albahaca, el rodeo, las llaves de Nadir, la gorra, las siembras de Garrett, el cuadro del lago, B2 y B3 siguen intactos.
+
+**Protegidos (evaluados y conservados):**
+- **Restricciones del autor:** "Yo no hice nada. Planché." y el resto de Rosaura (45:353–393, sin un corte); la camisa doblada (45, 46); las llaves y la albahaca (46); el borrado de la grabación, sin suavizar.
+- **44:** "sólo exacta" (44:230: modula la frase de Lucía y es el único "exacto" del capítulo); "como quien informa el tamaño de una pieza" (44:84, voz del abogado); "decidiendo cómo decir tres palabras" (44:28); el penalista "que cobra por minuto" (44:210); E3 (el tono de Rowe, 44:138) y E6 (el número del taller, 44:22) del audit del 44, que el autor no pidió tocar.
+- **45:** "Cincuenta, exactos." (45:85); "No era lo que decía siempre." (45:57: sin ella, el lector no sabe que es una señal); "como quien de pronto no sabe si… es un servicio o un chisme" (45:189, el recepcionista); "como quien revisa una camisa por si le quedó una arruga" (45:351, el tema del capítulo); "con la cara de quien no se cree del todo una cosa…" (45:391, humor de Rosaura); el inventario final ("No sabía si comía…", 45:403: interioridad, es lo único que tiene y el plan pide cerrar ahí); "Mabel lo vio y no dijo nada" justo después de "Yo no dije nada" (45:155–157, rima); el parlamento de Mei-Lin (45:279): partirlo con un gesto sería sumar, y el 45 sólo admite cortes.
+- **46:** "como quien cierra una caja que todavía tiene algo adentro" (46:44); "como quien anota algo en una columna que todavía no tiene título" (46:78, B2); "como quien se quita sudor" (46:130: es la coartada de Héctor y no se explica); "una mirada larga, sin números" (46:156); C8 (46:60), C11 (46:322) y la caracterización de Garrett (46:232).
+
+**Autocrítica (MICROEDICION §F):**
+- **Más dudas:** #16 (46:40). Héctor siempre le dice "Bellandi", y la glosa marcaba que esta vez era sin calor. Confío en el espejo de Chiara y en los que no se levantan; si el autor siente que la frialdad llega tarde, es la primera en restaurarse.
+- **Más agresivo:** #12 (Bonnie en el Civic). Quita una línea de diálogo de un personaje, pero era el narrador hablando por su boca y cerraba una ambigüedad que el plan quiere abierta.
+- **Pareció corte y quedó protegido:** el parlamento de Mei-Lin (45:279) y "No era lo que decía siempre" (45:57). El primero porque arreglarlo exigía sumar; el segundo porque, sin él, la señal de Kenji no se lee.
+- **Voz esterilizada:** no. Quedan tres "como quien" en el 45 y tres en el 46, todos con imagen propia; se cortaron sólo los que explicaban un gesto que ya estaba en la página.
+- **Interioridad racionalizada:** no. Lo cortado era glosa de narrador o de personaje; el inventario del 45 y el cálculo del 44 siguen.
+- **Prosa más genérica:** no. Los cambios son cortes; la única reformulación (#4) arregla sintaxis, y la #7 quita un tic sin sustituirlo por un sinónimo.
+
+**Sale de E6 sin operar:** nada estructural. Para la lectura del autor: #12, #14 y #16.
+
+### Parte 4 — E7: microedición de 47, 48 y 49 (2026-10-05)
+
+**Modo:** SURGERY dentro del ámbito de E7, con las mismas restricciones de lector y los patrones del frente 1 incluidos. Leídos completos 47–49 antes de tocar nada. **Antes:** los tres en git, limpios. **Palabras con metadata (`wc -w`):** 47: 4,536 → 4,506 · 48: 4,111 → 3,997 · 49: 3,464 → 3,468 (la prosa del 49 no cambia de tamaño; sube la metadata). Los tres siguen en CRLF.
+
+| # | Cap:línea | Antes | Después | Categoría y razón | Qué ya hacía la escena / qué se conserva |
+|---|---|---|---|---|---|
+| 1 | 47:77 | "…la que tiene la oficina arriba. —Hizo una pausa del tamaño exacto de alguien que repite lo que le dijeron—. Con las cajas." | "…la que tiene la oficina arriba. Con las cajas." | C21, TIC "exacto" + GLOSA | "El señor Varek la espera" ya lo hace mensajero. |
+| 2 | 47:149 | "Walt no estaba. Garrett guardó la libreta…" | "Garrett guardó la libreta…" | C13, residuo | Walt no se pasa en lista en la apertura; la frase suelta no tenía a qué amarrarse. |
+| 3 | 47:189 | "—La de Mercer. —Asintió, como quien corrige una ficha—. Con un coche arriba." | "—La de Mercer. Con un coche arriba." | GLOSA ("como quien"; además calcaba el "como quien corrige una suma" de Garrett, 47:349) | La corrección (Kal → Mercer) está en la réplica. Garrett conserva su "suma". |
+| 4 | 47:203 | "Dario la miró el tiempo exacto que le hacía falta y luego…" | "Dario la miró y luego…" | C21, TIC "exacto" | "Camp Alder no es San Aurelio… Ni yo." intacto (protegido). |
+| 5 | 48:29 | "Cuando volvió por fin al extremo de la barra, traía…" | "Cuando volvió por fin con ella, traía…" | C26, n-grama ("extremo de la barra" ×3 en 36 líneas) | El de 48:27 sitúa; el de 48:325 es el ritual del lunes y rima con 50:32. |
+| 6 | 48:37 | "Mabel no lo soltó. Lo dejó quieto sobre la barra, con la mano encima, y miró hacia la puerta…" | "Mabel dejó la mano quieta encima y miró hacia la puerta…" | C17, fórmula repetida (45:119, "Mabel no lo soltó") | El gesto de ficha (deja de mover las manos) sigue; cambia la fórmula. |
+| 7 | 48:63 | "…y no volvió al extremo de la barra en todo el tiempo…" | "…y no volvió en todo el tiempo…" | C26 | — |
+| 8 | 48:105 | "…terminara una canción y empezara otra. Chiara no lo llenó." | sin "Chiara no lo llenó." | C15, TIC (el de Lucía, 47:395, se queda) | El silencio medido por la radio ya dice que nadie lo llenó. |
+| 9 | 48:149 | "…se quedó junto al Lancia, con las manos en los bolsillos." | "…se quedó junto al Lancia." | C26 (Mei-Lin con las manos en los bolsillos tres veces) | Quedan 48:217 (lo que Rafe ve) y 48:317 (la imagen final). |
+| 10 | 48:217 | "La miró de arriba abajo: la chamarra grande…" | "La miró: la chamarra grande…" | C20 | La enumeración ya es la mirada. "De arriba abajo" queda para Dario (47:257). |
+| 11 | 48:231 | "Rafe abrió las manos sobre el mantel, como quien enseña que no tiene nada—." | "Rafe abrió las manos sobre el mantel—." | GLOSA ("como quien") | El gesto se lee solo. Se conservan "como quien prueba un vino…" (48:201) y "como se sopesa un melón" (48:239), que son voz. |
+| 12 | 48:259 | "…tuve policías tomando café en mi barra, y a mis clientes viendo a los policías, y a la gente de la plaza preguntándose si Rafe ya se había vuelto pendejo a su edad." | sin "y a mis clientes viendo a los policías" | C25 (alerta high), compresión mínima | Se recorta sólo el eslabón que repetía. Quedan "pendejo a su edad" (voz de Rafe), el principio y el final protegidos. |
+| 13 | 48:267 | "Chiara pensó en los tres pisos de gente. En el papel doblado en dos. En el corredor de piezas…" | "Chiara pensó en el corredor de piezas…" | C18, REDUNDANCIA interna (48:83) | Los tres pisos y el papel motivan el "*Tú.*" en 48:83; aquí queda la culpa por Rafe. |
+| 14 | 48:273 | "Desde la puerta, Mei-Lin miró la libreta. No el nombre en sí, que no podía leer desde ahí; la libreta, el lugar donde Maribel la puso después, debajo del sobre, sobre el mantel." | "Desde la puerta, Mei-Lin miró la libreta." | Q18 / B5, PRESAGIO GARANTIZADO | La siembra sigue y deja de explicarse. Las otras cinco señales de Mei-Lin, intactas. |
+| 15 | 48:315 | "Mei-Lin asintió. Dio dos golpes suaves con la palma en el techo del coche y se enderezó." | "Mei-Lin asintió y se enderezó." | C14, gesto repetido (47:321) | Los dos golpes quedan como gesto de cobrador de Nadir. |
+| 16 | 48:337 | "Uno de los del overol pidió más café. Mabel fue, le sirvió, le cobró, le preguntó por la hija. Volvió. Chiara se terminó…" | "Chiara se terminó…" | Q19 / C16, copia casi literal de 45:137 | El marco del lunes (la hora, la taza, el café quemado) se conserva: es ritual y es termómetro. La "hija" del 50:32 queda libre. |
+| 17 | 49:62 | "Preguntan en la recepción…" | "Pregunte en la recepción…" | C22, mecánico | La secretaria le habla de usted. |
+| 18 | 49:198 | "Por eso se lo ofrezco hoy…" | "Por eso se lo ofrecemos hoy…" | Q20 / C23, VOZ (Valenti no decide en primera persona) | Metadata del 49 (l. 20) actualizada igual. |
+
+**Costuras leídas después de los cambios:** 47:75–79, 145–151, 185–191, 199–205; 48:27–39, 61–63, 103–107, 147–151, 215–217, 229–233, 257–275, 309–317, 335–341; 49:58–64, 194–200. Leen limpias. "Uno de los del overol" ya no aparece en el 48, y "Mabel no contestó a eso. Acomodó las rebanadas…" enlaza directo con "Chiara se terminó el café".
+
+**Protegidos (evaluados y conservados):** "con un coche arriba y lo que hay adentro del coche" (C24, 47:217): eco burlón de su propio "Con un coche arriba. Muy discreto", voz de Dario. "No lo dijo con desprecio. Lo dijo como se lee un inventario." (47:259): modula el parlamento que si no se leería como desprecio, y la ficha lo pide. "Esperó, como esperaba Garrett…" (47:271): enlaza a Dario con Garrett desde el POV. "como quien corrige una suma" (47:349), "con la cara de quien hace una cuenta y no le da" (47:55), "como quien cierra un trato que ya estaba decidido" (47:283, memoria de Chiara). "No era pregunta." (48:187): con la regla ortotipográfica del vault (pregunta plana con punto), sin esa frase "Usted bebe." se leería como pregunta. "Una pausa" de Bonnie (48:111), la única del capítulo. Todo B4–B8. En el 49, nada más: Valenti cumple su ficha, el "sonido pequeño y exacto" es rima canon del 40, y la "casa ajena" de Chiara (49:104) rima a propósito con la de Valenti (49:182). La línea DISEÑO de 49:34 ya la leyó el autor en P2.
+
+**Autocrítica (MICROEDICION §F):**
+- **Más dudas:** #12. La enumeración de Rafe es su color; corté sólo el eslabón que no tenía chiste. Si el autor la quiere completa, se restaura sin costura.
+- **Más agresivo:** #14 (−25), aprobado en Q18.
+- **Pareció corte y quedó protegido:** C24 (47:217). El mapa la daba DUDOSA; al leerla en contexto es la burla de Dario sobre su propio "Muy discreto".
+- **Voz esterilizada:** no. Se quitaron tres "como quien" de glosa; los de voz siguen.
+- **Interioridad racionalizada:** no. #13 quita la repetición, no el cálculo: la culpa por Rafe sigue entera.
+- **Prosa más genérica:** no. Cortes y dos cambios de una palabra.
+
+### Parte 5 — E8: microedición de 50 y 50b, y cierre del encargo (2026-10-05)
+
+**Modo:** SURGERY con las restricciones de lector. En el 50 sólo cortes (está en el límite de densidad); el monólogo no se toca, ni para embellecerlo ni para recortarlo; la columna canon y la línea del Lancia, intactas. **Palabras con metadata (`wc -w`):** 50: 5,188 → 5,104 · 50b: 2,192 → 2,190. Los dos siguen en CRLF.
+
+| # | Cap:línea | Antes | Después | Categoría y razón | Qué ya hacía la escena / qué se conserva |
+|---|---|---|---|---|---|
+| 1 | 50:76 | "Mabel no se movió. Tenía las manos todavía quietas sobre la barra y la vista en las manos de Chiara, y Chiara supo, por la forma en que Mabel no preguntaba, que acababa de entender que lo que buscaban en esas camionetas no era una caja." | "Mabel no se movió. Tenía la vista en las manos de Chiara." | C27 / B13 (GLOSA que se adelanta a la réplica) + C29 (fórmula de las manos quietas, ya en 50:62) | "No me digas quién" (50:78) dice que Mabel entendió que era una persona. Las manos quietas quedan en 50:62. |
+| 2 | 50:222 | "Después, por costumbre, por la misma costumbre que la había hecho poner la direccional en Avenida Almendra, la mano derecha se le fue a la frente." | "Después, por costumbre, la mano derecha se le fue a la frente." | GLOSA de enlace | "Puso la direccional por costumbre" (50:96) y este "por costumbre" riman solos; el narrador ya no lo señala. El persignarse roto (protegido) sigue igual. |
+| 3 | 50:280 | "Chiara la manejó despacio, como le había dicho Mabel, con los faros altos…" | "Chiara la manejó despacio, con los faros altos…" | C31, GLOSA ligera | El "Maneja despacio" de Mabel (50:86) está a doscientas líneas y el lector hace la rima. |
+| 4 | 50:292 | "Apagó la linterna antes de entrar. No supo por qué. No la necesitaba." | sin "No la necesitaba." | C28, GLOSA contradictoria | "No supo por qué" se queda sin razón, y 50:294 ("sabiendo dónde estaba cada cosa") la da sin decirla. |
+| 5 | 50:308 | "No fue un ruido. Fue algo más simple: una forma donde un momento antes no había ninguna." | "Una forma donde un momento antes no había ninguna." | "No era X. Era Y." (frente 1); el tercer "No fue…" del capítulo (128, 140) | La forma conserva su antecedente para 50:312 ("hacia la forma que no se movía"). |
+| 6 | 50:322 | "…los pliegues marcados en cuadro, como si alguien los hubiera doblado con mucho cuidado y él se los hubiera puesto hacía poco y de prisa." | "…los pliegues marcados en cuadro." | **Restricción del autor** (la camisa doblada como huella, sin glosa). La comparación apuntaba a "alguien" (cuando el que dobla es Kal, 45 y 46) y el "de prisa" insinuaba la salida, que el plan deja muda. | Los pliegues en cuadro cierran la cadena 45 → 46 → 47 → 50 sin que nadie la explique. "Como si llevara ahí más tiempo…" (B14) se queda. |
+| 7 | 50b:30 | "En el poste del circo, el cartel del circo de agosto…" | "En el poste, el cartel del circo de agosto…" | REPETICIÓN LEXICAL que dejó el cambio de E5 (Q1, A18) | El poste ya es "el del circo" por el 50:92 y el 50:284. |
+
+**Costuras leídas después de los cambios:** 50:60–88, 218–228, 278–284, 290–296, 302–324; 50b:28–32. Leen limpias. "Tenía la ropa limpia y la cara no. … La cara le pesaba…" queda como anáfora.
+
+**Protegidos (evaluados y conservados):**
+- **Restricciones del autor:** el monólogo entero (50:186–218, ni un corte), la columna canon, la línea del Lancia, los "Merda", el cigarro sin encender (50:230–242, y en el 50b:36), "Ciao, tesoro" al valet y "—Ciao, bella.", la sonrisa del 50b sin explicación.
+- **50:** C30 (la "hija" del patrullero, 50:32: al cortar la del 48, ya no se repite cerca); C32 (raya con espacios en 50:326: es convención del libro, aparece en decenas de capítulos desde la Parte I); C34–C36; la alerta medium de 50:198 ("No mandé a nadie": se lee como "lo pagué yo") y "como quien ofrece galletas" (es voz, dentro del monólogo); "Lo dejó despacio, para que no sonara" (50:216, rima con el 49:144); el piso de juego (50:154–166), que el E3 ya había defendido; las hamburguesas en la descripción del penthouse (50:246), porque son el lugar y no la frase del monólogo; "No fue de golpe" (50:128) y "No fue una risa larga" (50:140), que miden y no glosan.
+- **50b:** B11 (Q21), B12; "No llevaba uniforme… como si llevara el uniforme debajo" (50b:54): la repetición que E5 dejó anotada se queda, porque es antítesis buscada; "No se le veía la cara" en el fotograma (50b:86), que ahora no tiene eco en el 45; la gradación de la atención del general (50b:84, 90, 104); el símil de 50b:104.
+
+**Autocrítica (MICROEDICION §F):**
+- **Más dudas:** #6. Es la última imagen antes de "Ciao, bella" y le quita textura. La restricción del autor la pedía sin glosa y la comparación apuntaba a otro que dobla; si el autor la extraña, que sea con "como si él mismo los hubiera doblado" y sin el "de prisa".
+- **Más agresivo:** #1 (−35), aprobado en el mapa como C27 y C29.
+- **Pareció corte y quedó protegido:** las hamburguesas de 50:246 (repiten el monólogo, pero son el inventario del cuarto) y C32 (la raya parecía error y es convención).
+- **Voz esterilizada:** no. El monólogo y el 50b quedan casi intactos.
+- **Interioridad racionalizada:** no. Lo cortado era el narrador explicando rimas.
+- **Prosa más genérica:** no. Todo son cortes.
+
+### Cierre del encargo E0–E8 (2026-10-05)
+
+- **Totales de E6–E8:** 47 intervenciones; **−370 palabras** de prosa en el arco (44–50b), sin una línea nueva. Ningún capítulo sube de estado: los ocho siguen en **BORRADOR**.
+- **Fallas que salieron en la microedición y no estaban en el mapa:** "Mabel tenía razón" (45:319; lo del almidón lo dijo Kenji) y "el poste del circo, el cartel del circo" (50b:30, residuo de E5). Las dos, corregidas.
+- **Para la lectura del autor (sólo lo que cambia el tono):** E6 #12 (Bonnie en el Civic), #14 y #16 ("No era un saludo"); E7 #12 (Rafe); E8 #1 (Mabel en el 50) y #6 (los pliegues de Kal). Todo se restaura sin costura.
+- **Frente 1 del plan de fortalecimiento:** los patrones del narrador ("como quien", "exacto", "No era X. Era Y.") en 44–50b quedan auditados aquí. La pasada de la Parte III del frente 1 cubre sólo **35–43**.
+- **Cascada pendiente (no es microedición; tarea aparte, ya listada en E1–E3 §5):** timeline del Libro I (l. 19, 238–272, 290); índice de hitos (H19, H20); Hitos.md (H20, l. 2401); ficha de Halbrook (l. 217, 257); ledger de revelaciones (seis entradas nuevas y la de "Unión invisible"); fichas de Dario, Mei-Lin, Mabel y El_Casino (Torre Sur); lugares nuevos (Hotel Pacífica, bodega del Puerto Viejo, La Golondrina, puente de la cementera); Book Maps I y II, Nota Editorial y supersesiones #19/#25 de [[00_Biblia/00_Trilogy_Structure]].
+- **EPUB:** no se regenera (el plan lo deja para después del frente 1 completo).

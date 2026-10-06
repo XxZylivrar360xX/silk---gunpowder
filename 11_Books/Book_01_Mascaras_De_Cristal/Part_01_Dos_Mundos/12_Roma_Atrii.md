@@ -2,6 +2,7 @@
 Estado: TERMINADO.
 Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_12_Roma_Atrii.md (§11). Resumen: marca temporal en la apertura; la pieza de la gasolinera/fiscales sale del montaje (es del Cap. 13); se corta el movimiento de la alarma del Peugeot (la razon llega solo en el dialogo de Chiara con Kal); fuera "las velas que enciendo por ti" (la vela por Kal nace despues de F4); "membrete" -> "papel de los suyos"; cortes de glosa, repeticion y POV (B1-B14); recuerdo de Palermo del hilo A en la noche del penthouse (DISEÑO del agente, pendiente de lectura del autor). Lo de abajo describe el diseno previo a la cirugia.
 Dialogo Kal/Chiara (2026-10-04, direccion del autor; prosa DISENO del agente, pendiente de lectura): la confrontacion del Monarch se reescribe por descubrimiento progresivo. El error del chico se admite pronto; Kal sigue preguntando por la cadena (quien escribio, quien sabe leer, quien es el chico: "No lo se. Kenji si.") y la friccion pasa al sistema; Chiara defiende decisiones, no doctrina, y marca territorio ("Esto otro es mio"); fe como origen antiguo de la red, sin intercambio de tesis; concesiones cruzadas: ella cambia la ruta porque el nombre se dijo en voz alta en el Patio, el se guarda la pregunta de cuantos son. Se conservan la admision, el Peugeot, "red visible/invisible", iglesia, "pagar, arreglar o cobrar", ternura, *Llegarte* y "Todavia no". Salen "La mia no pide resultados..." y "Supongo que tambien es una fe". Detalle: Audit_Cap_12_Roma_Atrii.md §12.
+Narrador (2026-10-05, SURGERY autorizada por el autor; el dialogo no cambia): fuera tres acotaciones que certificaban ("la unica frase que no le dejo nada para responder", "No habia disculpa en la voz...", "ya estaba dicho, aunque ninguno..."). Detalle: 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Narrador_Tesis_Resenas_ChatGPT.md.
 Protagonistas: Chiara Bellandi (partes 1-2), Kal Mercer (parte 3).
 Ventana temporal: parte 1 es anterior al Capitulo 11 (evento altruista, y tambien anterior/independiente de la noche de Gabriella's del Capitulo 7 y del asalto a Rowe del Capitulo 9 y del loft del 10; H12 se reubico al 24c el 2026-10-04); parte 2 ocurre la misma noche del torneo del Capitulo 11; parte 3, semanas despues -- Kal y Chiara ya viven a caballo entre el penthouse y la casa de el.
 Lugares: salon de gala (evento altruista, sin nombre fijo), The Monarch Casino & Hotel (piso de juego y caja), Almendra Towing / El Patio.
@@ -246,7 +247,7 @@ Kal entendió, en el mismo segundo, dos cosas: que Kenji no sabía nada de lo qu
 
 Lo llevó aparte, a la franja de piso entre la caja y el pasillo de servicio, donde el ruido de las máquinas tapaba cualquier conversación a menos de un metro.
 
-Chiara no discutió. No preguntó cómo se había enterado. No defendió el método, no dijo que el chico estaba bien pagado ni que nunca lo habría puesto en peligro real. Lo miró y dijo la única frase que no le dejó nada para responder:
+Chiara no discutió. No preguntó cómo se había enterado. No defendió el método, no dijo que el chico estaba bien pagado ni que nunca lo habría puesto en peligro real. Lo miró y dijo:
 
 —Tienes razón. No vuelve a pasar. Tienes mi palabra.
 
@@ -328,11 +329,11 @@ Algo cerca de ternura le cruzó la cara a ella, breve, antes de que la guardara 
 
 —Preguntó ese nombre en voz alta —dijo—. En tu patio. Delante de quien estuviera.
 
-—Ya no mando a nadie a buscar a nadie. —No había disculpa en la voz, sólo la constatación de algo ya decidido—. De ahora en más, si tengo que llegarte algo, lo traigo yo.
+—Ya no mando a nadie a buscar a nadie. De ahora en más, si tengo que llegarte algo, lo traigo yo.
 
 *Llegarte.* No *llegarle a alguien.*
 
-Kal no dijo nada, y ella tampoco esperó que lo hiciera — ya estaba dicho, aunque ninguno de los dos lo hubiera dicho del todo.
+Kal no dijo nada, y ella tampoco esperó que lo hiciera.
 
 Tuvo en la boca la otra pregunta — cuántos, quiénes, en qué pisos — y no la hizo.
 

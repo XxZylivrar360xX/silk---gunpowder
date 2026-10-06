@@ -37,11 +37,9 @@ Las piernas de mezclilla salieron rodando de debajo del sedán. Danny se incorpo
 
 —Bellandi —dijo Héctor.
 
-No era un saludo. Era el apellido.
-
 —Héctor.
 
-Nadir cerró el libro de cuentas. Lo hizo despacio, con las dos manos, como quien cierra una caja que todavía tiene algo adentro.
+Nadir cerró el libro. Lo hizo despacio, con las dos manos, como quien cierra una caja que todavía tiene algo adentro.
 
 —Cuatro días, señora —dijo.
 
@@ -119,7 +117,7 @@ Walt asintió despacio.
 
 —¿Contando qué?
 
-—Los días. —Walt se miró las botas—. Adentro la ropa es lo único que es de uno, aunque sea del gobierno. Te la dan, te la quitan, te dan otra. El que la dobla antes de devolverla todavía está pensando en salir. Está llevando la cuenta. —Levantó la vista—. El que la avienta a la bolsa como le cae, ése ya se quedó.
+—Los días. —Walt se miró las botas—. Adentro la ropa es lo único que es de uno, aunque sea del gobierno. Te la dan, te la quitan, te dan otra. El que la dobla antes de devolverla todavía está pensando en salir. —Levantó la vista—. El que la avienta a la bolsa como le cae, ése ya se quedó.
 
 Lo dijo sin bajar la voz y sin ponerle peso. Nadie le preguntó cómo lo sabía. En La Almendra todos sabían de dónde había vuelto Walt Keegan.
 
@@ -140,8 +138,6 @@ Nadir había vuelto al libro de cuentas. Lo abrió en cualquier página, miró l
 Chiara la miró por primera vez con atención.
 
 Estaba lavada. Era lo único limpio en todo el Patio: la carrocería oscura sin una mancha de polvo, los vidrios sin una marca de dedos. Estaba estacionada en reversa, con la trompa hacia el portón, y no en el lugar de siempre sino en el único desde el que se podía salir sin mover la grúa. En el asiento del copiloto había una mochila. Al lado de la mochila, un termo.
-
-Bonnie había dicho que Nadir no dormía.
 
 —¿Para qué está así esa camioneta? —preguntó Chiara.
 
@@ -277,7 +273,7 @@ Estaba bocabajo junto a la botella, y el zumbido contra el metal sonó más fuer
 
 —Ya sé contar.
 
-Chiara no preguntó. Héctor la estaba mirando con el teléfono quieto bajo la mano, como quien espera que el otro lea un nombre a través del metal.
+Chiara no preguntó. Héctor la estaba mirando con el teléfono quieto bajo la mano.
 
 —La niña —dijo Héctor—. El martes le dije que andaba en el norte con una grúa. Ayer le dije lo mismo. Hoy ya no me cree.
 
@@ -285,7 +281,7 @@ Chiara no preguntó. Héctor la estaba mirando con el teléfono quieto bajo la m
 
 —Que no contesta. Que nunca no contesta. —Héctor se pasó la mano por la cara—. Y que el sábado se van al monte.
 
-Chiara se acordó. Lo vio en la cubierta del yate, la chaqueta militar abierta sobre el vestido, la copa que Marisol había tomado de la charola y había devuelto sin probar. *Fin de mes, dos noches, sin teléfonos.*
+Chiara se acordó. La vio en la cubierta del yate, la chaqueta militar abierta sobre el vestido, la copa que Marisol había tomado de la charola y había devuelto sin probar. *Fin de mes, dos noches, sin teléfonos.*
 
 —Me pidió que le cuidara las grúas ese fin de semana —dijo Walt—. Kal. Ya tengo las llaves de la grande.
 
@@ -295,7 +291,7 @@ Había vuelto a salir de la oficina. Nadie lo había oído abrir la puerta.
 
 —Alguien tiene que decírselo —dijo Héctor.
 
-Nadie dijo nada. Nadir pasó una página del libro de cuentas. Danny, bajo el sedán, dejó de mover la llave. Walt miró la botella.
+Nadie dijo nada. Nadir pasó una página del libro.
 
 —Estudia derecho —dijo Garrett—. Le faltan seis meses para las prácticas. Lo primero que va a querer es el cargo, el número de expediente y una ventanilla. —Se acomodó los lentes—. Y si no se lo damos, va a ir a buscarlo ella. A la base. Con su cara y su nombre.
 

@@ -7,6 +7,7 @@ Funcion: dar a Chiara entrada propia, presentar a Fabrizio, Tommaso y Dario, la 
 Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_01-03.md (seccion 9). Canon del autor: Chiara administraba casinos de Il Consorzio en Nueva York antes de San Aurelio; Il Consigliere la llama signora Ardizzone (institucion); entre sus aliados, el unico que naturalmente la llama Ardizzone es Fabrizio, por la amistad de infancia; la sala del Monarch queda en POV de Kal hasta que el sale, y despues pasa a Chiara.
 Dialogo K/C y reparto reescrito (2026-10-04, cirugia extraordinaria autorizada por el autor sobre capitulo TERMINADO; el estado se conserva). Direccion del autor: Chiara quiere entender la decision del Consigliere (que hace ella ahi) y cataloga a Tommaso, Matteo y Kal como variables externas, Kal la interesante por nueva; Kal busca dinero a gran escala y prestigio (Nadir ya abrio la estetica de autos; el casino abre carreras callejeras y tuneo), y los ojos de ella le duran mas que los pocos segundos que da a las mujeres de su circulo; Tommaso la vigila porque la version de Alessio asaltado solo en casa no le cierra, y la tolera porque su vision de negocio es afilada; Matteo ve en Kal a un hombre de calle que como socio puede abrir negocios futuros. DISENO del agente, BORRADOR pendiente de lectura; ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I.md §7. Intactos: Consigliere, H2, catre (salvo un parrafo), tina, y las lineas protegidas de Audit_Caps_01-03 §9.
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); capitulo TERMINADO, el estado se conserva; prosa nueva DISENO pendiente de lectura): Tommaso la llama "Bellandi" (regla dura de su ficha) en el lobby y al cerrar la junta. Fabrizio: "La inteligencia no es un defecto" sustituida por la anecdota del abuelo que corria a los listos (eleccion del autor). "Chiara Ardizzone en California... mapas" se queda (decision del autor).
+Narrador (2026-10-05, SURGERY autorizada por el autor sobre capitulo TERMINADO; el estado se conserva): fuera "Era solo un dato." del lado de Kal (el "dato" es lexico de Chiara; el espejo sigue con "No era inicio de nada" y el radar), "el dato mas honesto de la tarde", la maxima del apreton de manos y "No era admiracion. Era algo mas util." Detalle: 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Narrador_Tesis_Resenas_ChatGPT.md.
 -->
 
 # Capítulo 2 — Demasiado listo
@@ -263,8 +264,6 @@ Chiara escuchó el clic.
 
 La primera reunión empezó sin Kal Mercer.
 
-Eso, decidió Chiara al sentarse, era el dato más honesto de la tarde.
-
 La sala privada del Monarch era, en el papel, el despacho principal de Matteo — el administrador con mayor participación entre los socios operativos, aunque puertas adentro todos se hicieran llamar directores por igual. Dario era distinto: dueño, no administrador, y por eso entraba a cualquier despacho del edificio como si ya fuera suyo, sin necesitar uno propio.
 
 Quedaba en el segundo nivel, detrás de una puerta de madera oscura que no tenía letrero. A la izquierda, una cava con barra de bebidas ocupaba el muro entero. A la derecha, un sillón de piel demasiado caro para sentarse en él sin pensarlo dos veces. Las luces se mantenían bajas incluso de día, como si el cuarto ya hubiera decidido que ahí siempre era de noche. Un ventanal cubría el ochenta por ciento del piso de juego de abajo, construido para que quien estuviera arriba pudiera ver perder dinero a quien estuviera abajo — esa tarde sólo mostraba técnicos revisando máquinas, alfombra nueva, un hombre de seguridad caminando líneas que nadie más había dibujado. El casino no estaba abierto de verdad, pero ya practicaba su manera de mirar. Detrás de un panel sin picaporte visible, un elevador privado conectaba el despacho directamente con el penthouse, el lobby y el estacionamiento subterráneo, sin pasar por ningún pasillo que un huésped pudiera caminar por accidente.
@@ -477,7 +476,7 @@ El ruido del casino siguió detrás de ellos. Una máquina celebró una pérdida
 
 Ella no retiró la mano de inmediato.
 
-No fue íntimo. Fue práctico. Un segundo más para medir temperatura, fuerza, decisión — el mismo segundo que obliga a sostenerle la mirada a quien te ofrece la mano, porque apartarla antes de tiempo también dice algo. Kal lo entendió y no apretó más. Tampoco aflojó primero. Tampoco apartó la vista.
+No fue íntimo. Fue práctico. Un segundo más para medir temperatura, fuerza, decisión. Kal lo entendió y no apretó más. Tampoco aflojó primero. Tampoco apartó la vista.
 
 Chiara bajó la mirada a los tenis blancos.
 
@@ -603,7 +602,7 @@ Kal lo miró por primera vez.
 
 —Usted preguntó qué podía hacer por el casino.
 
-Kal sintió la atención de Chiara antes de verla: limpia, completa. No era admiración. Era algo más útil.
+Kal sintió la atención de Chiara antes de verla: limpia, completa.
 
 Tommaso dejó pasar un segundo.
 
@@ -786,8 +785,6 @@ A las mujeres de su círculo, a las de su edad, Kal les daba los segundos que pe
 Kal cerró los ojos.
 
 No era inicio de nada. No se dijo eso. No habría sabido qué hacer con una idea tan inútil.
-
-Era sólo un dato.
 
 Alguien en esa mesa había entendido que su nombre también era una pieza del negocio.
 

@@ -27,6 +27,8 @@ Garrett administra dinero, recursos y activos de la organización de [[02_Charac
 
 **RESUELTO (2026-09-03):** estuvo presente en la emboscada en Afganistán donde murió [[02_Characters/Jim_Keegan]] y [[02_Characters/Russell_Whitaker|Russ]] sufrió la lesión permanente de la pierna — ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Capítulo 3]] (memoria de Kal).
 
+**CANON DEL AUTOR (2026-10-05):** Garrett **pilotó en el ejército**, antes de la emboscada. Por eso es quien vuela el helicóptero de la extracción de Camp Alder ([[06_Relationships/Hitos#H19 — El asalto a Camp Alder|H19]], Cap. 43). Se siembra en el Cap. 39 con "Voy a necesitar que vuelvas a volar". El libro no lo explica más. Pendiente: qué aparato era y de dónde sale el helicóptero civil.
+
 No es el contador del taller. Es el administrador de la capa donde Kal ya no puede firmar sin dejar rastro.
 
 Su punto ciego es creer que el papel manda sobre las personas. En una ciudad como San Aurelio, a veces tiene razón; cuando no, el error puede ser mortal.

@@ -3,6 +3,7 @@ Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada
 Protagonistas: Chiara Bellandi, con apariciones de Blake Stanton, Dario Varek, Kal Mercer, Nadir Amrani, Daniel Hayes y Hector Navarro.
 Callbacks post 5-6 (2026-09-29, autorizados por el autor, sigue TERMINADO): (1) Peugeot: Chiara ya sabe desde el Cap. 6 que Kal lo maneja; la pregunta a Blake es tanteo y el silencio es lealtad, no distraccion. (2) Reconoce a Nadir, Danny y Hector por las historias (Danny: Mustang/lineas del patio, sin subrayar). (3) CANON DEL AUTOR: se cobra el "quiere hablar contigo" de Nadir (Cap. 3): Dario le da una tarjeta a Kal en la acera; Chiara lo ve de lejos y le extrana porque Kal ya trabaja para el Monarch. Fuera de cuadro, cuando Kal se va, Dario aborda a Nadir: mover 5 kg de cocaina al norte, entrega en una parcela, 50,000 por la entrega. La prosa no lo dice; solo queda que Nadir se quede en la barra. Payoff: Cap. 8 (Kal lo cuenta como chisme rumbo a La Tramoya; Dario sale con mascara de plata en la entrega).
 Cirugia de dialogo de terceros S4 2026-10-04 (decision del autor; prosa DISENO pendiente de lectura; el resto sigue TERMINADO; plan 13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I.md): Dario en la puerta quiere tantear a Kal a traves de Chiara ("¿El senor Mercer viene esta noche?"); ella lo cubre ("Trabaja para el Monarch") y el repite "Para el Monarch" (palabra del otro; prepara la tarjeta fuera del contrato). Fuera los tres aforismos ("A usted la perdona todo", "A Tommaso le cuesta todo lo que no controla", la segunda vez de "San Aurelio premia...", protegida en el 2) y el "Dario se ajusto el abrigo, listo para irse"; "Dario" con tilde corregido a "senor Varek". Se queda en la acera esperando a Kal, no el auto.
+Blake con rasgos propios (2026-10-05, direccion del autor; prosa DISENO del agente, pendiente de lectura; el resto sigue TERMINADO): (1) el capitan del Departamento como la persona a la que Blake impresiona (siembra el grupo del capitan del Cap. 38, sin nombre, igual que alla): Blake le lee la jugada antes de presentarle a Chiara y acierta (su lectura de salas del Cap. 4, en La Isla), y luego se rie del chiste del capitan mas fuerte que el; (2) en la banqueta, cuando pierde la discusion, la mano le va al bolsillo de la camisa, donde de uniforme lleva la placa, y no hay nada (rima con el pulgar en la placa y el "Soy policia" del 4; relectura tras el Libro VII sin presagio). Canon intacto: el taxi (H3), las tres noches que cobra el 38 y el *signora*. Ficha: 02_Characters/Blake_Stanton.md.
 Ventana temporal: dias despues del Capitulo 6 (la noche de hierba en el penthouse). Ya comparten cotidianeidad (llamadas, historias de los amigos, la confesion del Peugeot), aunque lo suyo todavia no tiene nombre — antes del primer beso.
 Lugares: Gabriella's (fiesta de vestimenta blanca).
 Funcion: ejecutar H3 completo (a, b, c) — la noche del ladrillo. Tres apariciones de Kal en la cabeza de Chiara sin que este presente: el Peugeot (primera vez), la dedicatoria de Volare (segunda vez, ya registrada como patron y no como dato suelto), y su llegada real con la banda de la Almendra (la tercera, esta si en persona). Cierra con el final de lo de Blake — ruptura en la calle, no por Kal sino porque ella entiende que buscaba algo que ya habia encontrado en otro lado.
@@ -17,6 +18,14 @@ Gabriella's había amanecido blanco esa noche — manteles blancos, flores blanc
 —Ésta es Chiara —decía Blake, una y otra vez, a cada grupo nuevo—. Trabaja en el Monarch.
 
 Nunca *mi amiga*. Nunca *alguien a quien admiro*. La presentaba como se presenta un trofeo: con la mano abierta hacia ella y la voz un poco más alta de lo necesario, esperando que el grupo mirara primero el florero y después, si quedaba tiempo, a la mujer.
+
+Con el capitán fue distinto. Blake lo ubicó desde la entrada, junto a la barra, y antes de cruzar el salón se inclinó hacia ella.
+
+—Te va a preguntar por el torneo antes que por tu nombre. Y va a decir que él no juega.
+
+El capitán le preguntó por el torneo antes que por su nombre. Dijo que él no jugaba.
+
+Por un segundo fue el Blake de La Isla, el de antes de que llegaran sus amigos. Después el capitán contó un chiste, y Blake se rió más fuerte que el capitán.
 
 Chiara sonreía porque sonreír no costaba nada y porque ya llevaba suficientes fiestas de este tipo como para saber que la sonrisa correcta cerraba conversaciones más rápido que cualquier frase.
 
@@ -293,6 +302,8 @@ Blake se rió, sin nada de humor en la risa.
 Chiara lo miró un segundo entero, dejando que el silencio hiciera el trabajo que las palabras todavía no estaban listas para hacer.
 
 —Eres un niño, Blake. Un niño con placa y sueldo, pero un niño, y todavía te falta mucho para madurar. —Se acomodó el bolso en el hombro—. Y yo no estoy aquí para aguantarte desplantes de quince años cada vez que no sabes qué hacer con lo que sientes.
+
+Blake se llevó la mano al pecho, al bolsillo de la camisa blanca, donde de uniforme llevaba la placa. No había nada.
 
 —Ay, perdóname, *signora* —lo dijo con un acento burlón, cruel a propósito—. No sabía que estaba tratando con italiana ofendida.
 

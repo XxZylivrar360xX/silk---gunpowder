@@ -73,7 +73,7 @@ Chiara esperó.
 
 Chiara miró la taza. El café tenía una nata delgada que se rompía en la orilla.
 
-Mabel no se movió. Tenía las manos todavía quietas sobre la barra y la vista en las manos de Chiara, y Chiara supo, por la forma en que Mabel no preguntaba, que acababa de entender que lo que buscaban en esas camionetas no era una caja.
+Mabel no se movió. Tenía la vista en las manos de Chiara.
 
 —No me digas quién —dijo Mabel.
 
@@ -219,7 +219,7 @@ Dejó el cuadro sobre la mesa. Lo dejó despacio, para que no sonara.
 
 La sala le devolvió el final de la frase desde las ventanas.
 
-Chiara se quedó con las manos abiertas. Respiraba por la boca. Después, por costumbre, por la misma costumbre que la había hecho poner la direccional en Avenida Almendra, la mano derecha se le fue a la frente.
+Chiara se quedó con las manos abiertas. Respiraba por la boca. Después, por costumbre, la mano derecha se le fue a la frente.
 
 Llegó a la frente. Bajó al pecho.
 
@@ -277,7 +277,7 @@ El muchacho sonrió sin saber por qué, y cerró la puerta.
 
 ---
 
-La ciudad sin luz era otra ciudad. Chiara la manejó despacio, como le había dicho Mabel, con los faros altos y el cuadro en el asiento de al lado. En las esquinas los coches se esperaban unos a otros con las intermitentes puestas, sin claxon, como en un pueblo. En Corona había gente en las banquetas, afuera de los edificios, en pijama y con linternas, mirando hacia arriba. Un hombre en bata le hizo señas con la mano para que pasara, como si fuera el dueño de la esquina.
+La ciudad sin luz era otra ciudad. Chiara la manejó despacio, con los faros altos y el cuadro en el asiento de al lado. En las esquinas los coches se esperaban unos a otros con las intermitentes puestas, sin claxon, como en un pueblo. En Corona había gente en las banquetas, afuera de los edificios, en pijama y con linternas, mirando hacia arriba. Un hombre en bata le hizo señas con la mano para que pasara, como si fuera el dueño de la esquina.
 
 En el radio, una voz con batería de emergencia decía que habían fallado tres subestaciones del sur casi al mismo tiempo y que la compañía no tenía todavía un estimado. Luego repetía lo mismo. Chiara lo apagó.
 
@@ -289,7 +289,7 @@ El edificio del loft no tenía ni la luz del portal.
 
 Conocía la puerta de memoria, la llave que giraba un poco a la izquierda antes de entrar del todo, el escalón corto justo después del umbral. Subió con el cuadro contra el pecho y la linterna del teléfono en la otra mano, y arriba volvió a girar la llave a la izquierda y empujó.
 
-Apagó la linterna antes de entrar. No supo por qué. No la necesitaba.
+Apagó la linterna antes de entrar. No supo por qué.
 
 Olía a cerrado también, pero a otra cosa: a aceite de motor en el tapete de la entrada, a café viejo, y desde el fondo, apenas, a albahaca. Entró sin luz sabiendo dónde estaba cada cosa: el sillón a la derecha, la cocina al fondo, con la isla que ella misma había ayudado a diseñar. Y junto a la puerta, la mesa chica donde Kal dejaba las llaves.
 
@@ -305,7 +305,7 @@ Fue ahí, al voltear desde la ventana, cuando la oscuridad junto a la isla se mo
 
 Chiara se detuvo.
 
-No fue un ruido. Fue algo más simple: una forma donde un momento antes no había ninguna.
+Una forma donde un momento antes no había ninguna.
 
 La mano le fue al bolso antes de que terminara de pensarlo, y sacó la Beretta .25 que llevaba ahí desde hacía años.
 
@@ -319,7 +319,7 @@ En ese instante, sin ningún aviso, volvió la luz.
 
 Entró de golpe, con el zumbido bajo del refrigerador retomando su ronroneo y la lámpara de la cocina encendiéndose de lleno sobre la isla, y ahí, del otro lado del cañón que Chiara todavía sostenía en alto, estaba Kal.
 
-Tenía la ropa limpia y la cara no. La camisa y el pantalón tenían todavía los pliegues marcados en cuadro, como si alguien los hubiera doblado con mucho cuidado y él se los hubiera puesto hacía poco y de prisa. La cara le pesaba de un cansancio que no era sólo sueño. Estaba de pie, apoyado apenas contra la isla, como si llevara ahí más tiempo del que a Chiara le tomó entrar.
+Tenía la ropa limpia y la cara no. La camisa y el pantalón tenían todavía los pliegues marcados en cuadro. La cara le pesaba de un cansancio que no era sólo sueño. Estaba de pie, apoyado apenas contra la isla, como si llevara ahí más tiempo del que a Chiara le tomó entrar.
 
 Estaba vivo.
 

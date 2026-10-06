@@ -26,7 +26,7 @@ La Esquina de Mabel los sábados no tenía turno de la mañana ni de la tarde. T
 
 Chiara esperó en la puerta a que se desocupara el extremo de la barra. Tardó diez minutos. Nadie se lo ofreció antes y ella no lo pidió.
 
-Mabel le puso el café sin verla. Siguió despachando: tres tortas para llevar, la cuenta de la mesa del fondo, un vaso de agua para el niño, que dejó de llorar en cuanto tuvo algo en la mano. Cuando volvió por fin al extremo de la barra, traía un trapo y se puso a limpiar una mancha de la fórmica que no estaba ahí.
+Mabel le puso el café sin verla. Siguió despachando: tres tortas para llevar, la cuenta de la mesa del fondo, un vaso de agua para el niño, que dejó de llorar en cuanto tuvo algo en la mano. Cuando volvió por fin con ella, traía un trapo y se puso a limpiar una mancha de la fórmica que no estaba ahí.
 
 —¿Ya comiste?
 
@@ -34,7 +34,7 @@ Mabel le puso el café sin verla. Siguió despachando: tres tortas para llevar, 
 
 El trapo se detuvo.
 
-Mabel no lo soltó. Lo dejó quieto sobre la barra, con la mano encima, y miró hacia la puerta, donde una de las familias por fin estaba saliendo, con los niños por delante y el papá contando el cambio. La campanita sonó. Mabel siguió mirando la puerta después de que se cerró.
+Mabel dejó la mano quieta encima y miró hacia la puerta, donde una de las familias por fin estaba saliendo, con los niños por delante y el papá contando el cambio. La campanita sonó. Mabel siguió mirando la puerta después de que se cerró.
 
 —Rafe vivía a dos casas de mi mamá —dijo—. En la cuadra de la tortillería, la que se quemó. Tenía doce años y ya cobraba. A los otros niños, por dejarlos jugar en la banqueta.
 
@@ -60,7 +60,7 @@ Chiara tomó un trago de café. No estaba quemado esta vez. Mabel la vio tomarlo
 
 —Es no.
 
-Mabel se le quedó viendo un momento más. Luego tomó una charola de la pila y se fue a recoger la mesa que había dejado la familia, y no volvió al extremo de la barra en todo el tiempo que Chiara tardó en terminarse el café.
+Mabel se le quedó viendo un momento más. Luego tomó una charola de la pila y se fue a recoger la mesa que había dejado la familia, y no volvió en todo el tiempo que Chiara tardó en terminarse el café.
 
 ---
 
@@ -102,7 +102,7 @@ Bonnie no contestó enseguida. La sartén dejó de sonar.
 
 —No es del Patio.
 
-El silencio duró lo suficiente para que la radio terminara una canción y empezara otra. Chiara no lo llenó.
+El silencio duró lo suficiente para que la radio terminara una canción y empezara otra.
 
 —Se lo mando —dijo Bonnie.
 
@@ -146,7 +146,7 @@ Delante había un puente viejo, de concreto, angosto, con barandales bajos manch
 
 Chiara bajó del coche. El aire olía a polvo de cemento y a sorgo seco. Caminó hasta el barandal y se asomó. La vía estaba lejos, más de lo que parecía desde el coche.
 
-Mei-Lin bajó también, pero se quedó junto al Lancia, con las manos en los bolsillos.
+Mei-Lin bajó también, pero se quedó junto al Lancia.
 
 —¿Quién le dijo que por tierra? —preguntó.
 
@@ -214,7 +214,7 @@ Chiara giró apenas la cabeza hacia la puerta. Mei-Lin habló desde ahí, sin de
 
 —Por la carretera del condado. Sale por la puerta de proveedores. A los veinte minutos hay un puente de un carril sobre la vía de la cementera. Ahí todos frenan.
 
-Rafe se volvió a mirarla por primera vez. La miró de arriba abajo: la chamarra grande, las manos en los bolsillos, los tenis.
+Rafe se volvió a mirarla por primera vez. La miró: la chamarra grande, las manos en los bolsillos, los tenis.
 
 —¿Y tú de quién eres?
 
@@ -228,7 +228,7 @@ Rafe se volvió a mirarla por primera vez. La miró de arriba abajo: la chamarra
 
 —Sé que lleva a un hombre. Lo demás no lo sé.
 
-—Entonces lo demás es mío. —Rafe abrió las manos sobre el mantel, como quien enseña que no tiene nada—. Lo que vaya en esos camiones, lo que traigan los que manejan, lo que tengan en las guanteras. Todo. Menos su hombre.
+—Entonces lo demás es mío. —Rafe abrió las manos sobre el mantel—. Lo que vaya en esos camiones, lo que traigan los que manejan, lo que tengan en las guanteras. Todo. Menos su hombre.
 
 —Menos él.
 
@@ -256,7 +256,7 @@ Chiara esperó.
 
 Rafe tardó en contestar. Tomó los lentes de lectura del cordón, los miró, los volvió a soltar sobre la camisa.
 
-—Hace unos meses —dijo— alguien en Calle Corona decidió que yo manejaba un Peugeot rojo. Un coche que yo no he visto en mi vida. Y durante semanas tuve policías tomando café en mi barra, y a mis clientes viendo a los policías, y a la gente de la plaza preguntándose si Rafe ya se había vuelto pendejo a su edad. Luego un día dejaron de venir. Nadie me pidió perdón. Nadie me dijo nada. Se fueron, nomás, porque alguien encontró a otro más fácil que yo. —Juntó las manos sobre el mantel—. Yo nunca supe de quién era ese coche, señora. Cargué con el nombre de otro sin saber de quién. Y me prometí que no lo vuelvo a hacer.
+—Hace unos meses —dijo— alguien en Calle Corona decidió que yo manejaba un Peugeot rojo. Un coche que yo no he visto en mi vida. Y durante semanas tuve policías tomando café en mi barra, y a la gente de la plaza preguntándose si Rafe ya se había vuelto pendejo a su edad. Luego un día dejaron de venir. Nadie me pidió perdón. Nadie me dijo nada. Se fueron, nomás, porque alguien encontró a otro más fácil que yo. —Juntó las manos sobre el mantel—. Yo nunca supe de quién era ese coche, señora. Cargué con el nombre de otro sin saber de quién. Y me prometí que no lo vuelvo a hacer.
 
 Chiara se tocó el anular izquierdo. Fue un segundo. Luego bajó la mano al vaso.
 
@@ -264,13 +264,13 @@ Chiara se tocó el anular izquierdo. Fue un segundo. Luego bajó la mano al vaso
 
 En el patio, el muchacho cambió la bolsa de hielo de mano. Se oyó el crujido del hielo, y el muchacho dijo algo entre dientes, y nadie le contestó.
 
-Chiara pensó en los tres pisos de gente. En el papel doblado en dos. En el corredor de piezas del norte que había inventado una tarde, con tres conversaciones que no eran suyas, para que nadie mirara ni a Kal ni a este hombre, y en lo que había sentido entonces por un tal Rafe Domínguez a quien no conocía, a quien no le iba a deber nunca nada.
+Chiara pensó en el corredor de piezas del norte que había inventado una tarde, con tres conversaciones que no eran suyas, para que nadie mirara ni a Kal ni a este hombre, y en lo que había sentido entonces por un tal Rafe Domínguez a quien no conocía, a quien no le iba a deber nunca nada.
 
 Miró a Maribel. Maribel tenía la pluma levantada sobre la libreta.
 
 —Chiara Bellandi.
 
-Maribel escribió. Chiara oyó la pluma sobre el papel: dos palabras, letra apretada. Desde la puerta, Mei-Lin miró la libreta. No el nombre en sí, que no podía leer desde ahí; la libreta, el lugar donde Maribel la puso después, debajo del sobre, sobre el mantel.
+Maribel escribió. Chiara oyó la pluma sobre el papel: dos palabras, letra apretada. Desde la puerta, Mei-Lin miró la libreta.
 
 —¿Nada más? —preguntó Rafe.
 
@@ -312,7 +312,7 @@ Mei-Lin no lo tomó. Abrió la puerta y bajó. Se inclinó un momento sobre la v
 
 —Esperando a Mabel.
 
-Mei-Lin asintió. Dio dos golpes suaves con la palma en el techo del coche y se enderezó.
+Mei-Lin asintió y se enderezó.
 
 Chiara arrancó. En el retrovisor la vio quedarse en la parada, con las manos en los bolsillos, mientras el Lancia se alejaba, y cuando ya estaba a media cuadra la vio echar a caminar. No esperó el camión. Caminó en sentido contrario al de la ruta, hacia el sur.
 
@@ -334,7 +334,7 @@ Chiara se sentó. Tomó un trago. Estaba quemado.
 
 Mabel no contestó a eso. Acomodó las rebanadas en la charola con la punta del cuchillo, una sobre otra, todas del mismo grueso.
 
-Uno de los del overol pidió más café. Mabel fue, le sirvió, le cobró, le preguntó por la hija. Volvió. Chiara se terminó el café, dejó un billete debajo de la taza y se levantó.
+Chiara se terminó el café, dejó un billete debajo de la taza y se levantó.
 
 Mabel tomó el billete. Lo dobló en dos y lo puso sobre la barra, frente a Chiara, del lado de afuera de la taza.
 

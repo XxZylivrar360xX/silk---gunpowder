@@ -1,5 +1,6 @@
 <!--
 Estado: BORRADOR — Parte III — Ardizzone, quinto capítulo (Cap. 39 del manuscrito). Redactado 2026-09-21, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO POR EL AUTOR EN EL ENCARGO (2026-09-21): "Un par de días más". No es provisional. **Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_III]]):** frase canon de H18 restaurada tres veces, POV de la llegada, C55 y gesto P3; detalle en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]] § 9 parte 3. Sigue BORRADOR hasta lectura del autor.
+**Frente 4, Camp Alder (2026-10-05, P1 aprobada por el autor; prosa del agente, BORRADOR):** tras colgar con Varek, Kal llama a Garrett ("Voy a necesitar que vuelvas a volar"). Así se responde la pregunta de la salida del 30 y el 31, y se siembra el helicóptero del 43. Sustituye a "No le dijo a nadie todavía. Pero empezó [...] a organizar". CANON: Garrett pilotó en el ejército. Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente_4_Camp_Alder]].
 Protagonista: Kal Mercer (POV único, tercera persona cercana). No hay salto de POV. Chiara Bellandi no aparece físicamente ni por mensaje — sólo como la frase que Kal repite y como los objetos que dejó en el loft. La llamada de las nueve de Kal a Chiara ("Ciao, bella" / "—Nada.", Cap. 41) ocurre esa misma noche fuera de cuadro, en la elipsis entre la cena en el patio y el loft; el 39 no la narra (E7 Parte III, D40).
 Personajes con diálogo: Kal Mercer, Marisol Grayson, Nadir Amrani, Mei-Lin Zhao, Héctor Navarro, Dario Varek (por teléfono).
 Cameos sin diálogo: Bonnie García (bajo un coche; lleva el gesto P3 con Mei-Lin: un café igual junto a sus botas y en la mano de Mei-Lin, sin diálogo ni glosa — aprobado por el autor 2026-09-27, Q15), Danny Hayes (saludo mínimo).
@@ -198,9 +199,21 @@ Otro silencio, más corto que el primero.
 
 —Bien.
 
-Colgó sin despedirse, y Kal se quedó con el teléfono en la oreja un segundo de más, mirando la calle otra vez, ahora sí viéndola: el patio detrás de él, la grúa terminando de maniobrar, Danny cerrando el cofre del motor que ya no tosía. Se guardó el teléfono y volvió adentro, y lo primero que hizo fue buscar a Nadir con la mirada, y después a Héctor, calculando quién de los dos iba a necesitar saber qué y cuándo.
+Colgó sin despedirse, y Kal se quedó con el teléfono en la oreja un segundo de más, mirando la calle otra vez, ahora sí viéndola: el patio detrás de él, la grúa terminando de maniobrar, Danny cerrando el cofre del motor que ya no tosía.
 
-No le dijo a nadie todavía. Pero empezó, sin que se notara del todo, a organizar.
+Marcó otro número antes de volver adentro.
+
+—Voy a necesitar que vuelvas a volar —dijo, cuando Garrett contestó.
+
+Del otro lado hubo un silencio corto.
+
+—¿Cuándo?
+
+—El catorce. A las dos.
+
+—Ahí voy a estar.
+
+Se guardó el teléfono y volvió adentro, y lo primero que hizo fue buscar a Nadir con la mirada, y después a Héctor, calculando quién de los dos iba a necesitar saber qué y cuándo. Ahora sí tenía qué contestarle a Danny.
 
 ---
 

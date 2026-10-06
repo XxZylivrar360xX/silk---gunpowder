@@ -85,6 +85,20 @@ sobrevivan — como individuos y como pareja — a haberlo ganado.
 | La pérdida (Mei-Lin, Bonnie, el loft) | Cobrar el costo del crecimiento de Kal | Le quita a Chiara y a Kal personas y lugares, uno por uno | Sobrecompensar construyendo (Villa, Stavanger) no borra la pérdida |
 | Warren Halbrook | Cobrar la deuda de la liberación de Kal | Presión invisible; ya está en San Aurelio (llegó en el Cap. 50b del Libro I). **Primera aparición en prosa del libro: la gala de beneficencia de Chiara, con el baile** (CANON DEL AUTOR, 2026-10-02) | El pasado militar de Kal nunca terminó de pagarse |
 
+## Deudas heredadas del Libro I (DISEÑO, 2026-10-05)
+
+Obligaciones que deja el cierre de *Máscaras de Cristal* y que este libro tiene que cobrar, aunque sea en parte. Si se evaporan al cambiar de libro, el cierre del I se vuelve comodidad. Origen: reseña de ChatGPT del cierre ([[98_Agent_Handoff/ChatGPT/2026-10-05_resena_lector_caps_35_50b_cierre_libro1]], § 6), aprobada por el autor.
+
+| Deuda | Origen (Libro I) | Qué exige aquí |
+|---|---|---|
+| Favor abierto de Chiara con Dario, sin papel | Cap. 47 | Que Dario lo cobre, o amenace con cobrarlo, en un momento que le duela. Choca con la fuerza "Chiara contra el dinero de Dario". |
+| El nombre de Chiara ligado a Rafe y a una operación contra un convoy federal | Cap. 48 | Consecuencia: Rafe cobra, los Bravos reaparecen o alguien tira del hilo. Rafe cargó el nombre de Kal en el 13 y no lo sabe (revelación posible, ledger). |
+| Lucía cruzó líneas informativas por Kal | Caps. 44, 47 | Costo para Lucía o para la confianza entre ella y Kal. |
+| Il Consorzio evalúa el Monarch y a Kal ("interesante, no necesario") | Cap. 49 | La oferta del Monarch (Q24) y qué ve el Consorzio en Kal ahora. |
+| Krane, cada vez más asociado a Kal | Caps. 44 y siguientes | Que esa cercanía tenga precio profesional. |
+| Halbrook, con vigilancia activa y la grabación que Chiara borró | Cap. 50b | **Límites legibles:** qué fuentes tiene, cuánto le cuesta cada una, en qué falla. Formidable, no omnisciente. Cruza con los pendientes 2–6 de [[98_Agent_Handoff/sessions/2026-09-28_claude_reconstruccion_halbrook]]. |
+| Cómo salió Kal de Camp Alder | Caps. 50–50b | Piezas tempranas que prueben que hay una explicación concreta. **La revelación completa sigue reservada para *Voto de Ceniza*** (restricción vigente). |
+
 ---
 
 > **Huellas de Manfred (CANON DEL AUTOR, 2026-10-04):** Corrado, como Manfred Gabe, deja en este libro pocos rastros civiles que, en el cuadro grande, inclinan un resultado hacia Kal o Chiara. Nunca le ven la cara; nunca funcionan como pista de que vive. Reglas en [[02_Characters/Corrado_Ardizzone]], "La verdad". Registro de huellas: PENDIENTE.

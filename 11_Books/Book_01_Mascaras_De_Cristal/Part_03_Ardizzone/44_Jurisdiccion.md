@@ -141,7 +141,7 @@ Rowe tardó un segundo de más en contestar.
 
 —Déjame ver qué tengo.
 
-La llamada volvió cuarenta minutos después. Para entonces el abogado mayor había conseguido, con dos llamadas al ayuntamiento y un favor que se debía desde El Faro, que un asistente del fiscal municipal confirmara el nombre del oficial que había hecho el arresto. Un nombre. Chiara lo tenía escrito en una hoja que no le servía para nada.
+La llamada volvió cuarenta minutos después. Para entonces el abogado mayor había conseguido, con dos llamadas al ayuntamiento y un favor que se debía desde *El Faro*, que un asistente del fiscal municipal confirmara el nombre del oficial que había hecho el arresto. Un nombre. Chiara lo tenía escrito en una hoja que no le servía para nada.
 
 —Chiara. —Rowe había bajado la voz—. Si fuera mío, ya estaría hablando contigo de fianza. No es mío.
 
@@ -159,7 +159,7 @@ Chiara no le corrigió el tiempo verbal. Le dio las gracias y colgó.
 
 Quedaba una persona en el estado con más autoridad que Rowe, y jugaba baccarat en su casino los viernes.
 
-Edward Connors tomó la llamada él mismo, sin secretaria de por medio, como si llevara la mañana esperándola.
+Edward Connors tomó la llamada él mismo, sin secretaria de por medio.
 
 —Señora Bellandi. Me hace usted un honor.
 
@@ -177,11 +177,11 @@ Edward Connors tomó la llamada él mismo, sin secretaria de por medio, como si 
 
 —Entonces dígame a quién llamo.
 
-—A nadie que vaya a contestarle. —Una pausa—. Mándele saludos a Margaret.
+—A nadie que vaya a contestarle. Mándele saludos a Margaret.
 
 Colgó él primero.
 
-Chiara se quedó con el teléfono en la mano. Había elegido a Rivers por esa enemistad, para que nadie en la fiscalía del estado le hiciera un favor a Kal sin cobrárselo. No había pensado nunca en la vez que necesitara ella el favor.
+Chiara se quedó con el teléfono en la mano. Había elegido a Rivers por esa enemistad, para que nadie en la fiscalía del estado le hiciera un favor a Kal sin cobrárselo. Nunca había pensado en el día en que el favor lo necesitara ella.
 
 ---
 
@@ -191,7 +191,7 @@ Krane llamó a media tarde. Por primera vez desde la mañana, no sonaba como si 
 
 —¿Cómo que no está ahí?
 
-—No estaba desde antes de que yo llegara. Lo tuvieron unas horas. A las cinco y diez de la mañana llegó la reclamación de jurisdicción y se lo llevaron. Lo que el sargento me tuvo esperando toda la mañana era el papel de salida, que todavía no le llegaba. —Hubo un silencio corto—. La municipal ya no tiene nada que decirme. Para ellos esto se terminó a las cinco y diez.
+—No estaba desde antes de que yo llegara. Lo tuvieron unas horas. A las cinco y diez de la mañana llegó la reclamación de jurisdicción y se lo llevaron. Lo que el sargento me tuvo esperando toda la mañana era el papel de salida, que todavía no le llegaba. La municipal ya no tiene nada que decirme. Para ellos esto se terminó a las cinco y diez.
 
 Chiara miraba la ciudad por la ventana del despacho, las mismas luces de siempre empezando a encenderse contra la tarde.
 
@@ -233,7 +233,7 @@ Chiara no perdió tiempo.
 
 —¿Dónde está?
 
-—En Camp Alder. —Lucía sostuvo la mirada antes de seguir—. Lo detuvo una patrulla municipal en un camino rural a menos de un kilómetro del perímetro. Antes de que nadie lo procesara del todo, la base reclamó jurisdicción. Delito en instalación federal. Eso pesa más que cualquier cosa que alguien en esta ciudad pueda escribir.
+—En Camp Alder. Lo detuvo una patrulla municipal en un camino rural a menos de un kilómetro del perímetro. Antes de que nadie lo procesara del todo, la base reclamó jurisdicción. Delito en instalación federal. Eso pesa más que cualquier cosa que alguien en esta ciudad pueda escribir.
 
 —Ya me lo dijeron cuatro personas.
 
