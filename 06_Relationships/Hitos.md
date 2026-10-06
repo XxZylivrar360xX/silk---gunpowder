@@ -1719,7 +1719,7 @@ Y ahí **le cuenta todo lo sucedido.**
 
 > **PARCIALMENTE RESUELTO EN PROSA (2026-09-16, Cap. 30 — El patio ajeno):** queda pendiendo, a propósito. Kal le pide a Varek cobertura para Nadir; Varek ofrece frenar la exposición inmediata ("una fila más larga de la que esperaba") pero es honesto en que no puede resolver el problema migratorio de fondo — deja la puerta entornada, no abierta. El mecanismo documental sigue sin resolverse (arco reservado, hilo Anya/Washington).
 
-> **PENDIENTE:** las cascadas — nombre y ubicación.
+> ~~**PENDIENTE:** las cascadas — nombre y ubicación.~~ **RESUELTO (2026-10-06, CANON DEL AUTOR):** *Las Gemelas*, cerros del noreste ([[05_Locations/San_Aurelio]]).
 
 > **RESUELTO EN PROSA (2026-09-16, Cap. 31 — Las cascadas):** *todo* incluye el precio. Le da el nombre de Halbrook, que pertenece a su pasado militar, que fue él quien lo sacó de San Aurelio, el ultimátum sobre Nadir, que los golpes fueron un recordatorio, y que ya usó esa obligación para negociar con Varek — primera vez que rompe voluntariamente su propio patrón de no repartir pesos. No incluye: misión futura concreta de Halbrook, detalles de H19, el expediente clasificado, ni un posible vínculo Halbrook–Varek (porque Kal mismo no lo sabe).
 

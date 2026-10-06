@@ -5,7 +5,7 @@ Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_C
 Protagonistas: POV PRINCIPAL Chiara Bellandi. CODA EXCEPCIONAL (2026-09-16, autorizada explícitamente por el autor): Kal Mercer, tras corte de escena (***), el mismo día, en El Patio. Apariciones: Kal Mercer (cuerpo principal), Chiara Bellandi (mencionada, no presente, en la coda), Nadir Amrani, Walter "Walt" Keegan, Daniel "Danny" Hayes, Héctor Navarro (coda).
 EXCEPCIÓN DE POV: este capítulo rompe deliberadamente la regla habitual de POV único por instrucción directa del autor, para conectar el cierre de H6 con la apertura de H7 sin insertar un capítulo adicional. El cambio ocurre UNA sola vez, tras un corte de escena limpio, cuando Chiara ya abandonó físicamente el lugar (entró al Lancia y tomó la carretera hacia el Monarch). No hay head-hopping dentro de una misma escena y el capítulo NO vuelve a la POV de Chiara después del corte — termina en Kal.
  Ventana temporal: continúa de inmediato el cierre del Cap. 29 — la misma mañana. Chiara llegó a Las Cascadas porque eligió tomar la misma carretera que Kal en la bifurcación del Cap. 29 (sin diálogo previo, sin "sígueme" verbal); el capítulo NO reintroduce esa elección como algo que Kal decidió por ella. La coda ocurre esa misma tarde, en El Patio.
-Lugares: las cascadas (sin ficha propia ni nombre fijado; PENDIENTE en San_Aurelio.md y en Hitos H6/H7), terreno neutral fuera de la ciudad. Coda: el taller / El Patio, patio de atrás.
+Lugares: Las Gemelas (las cascadas; nombre, cerros del noreste y aspecto son CANON DEL AUTOR desde 2026-10-06, ver San_Aurelio.md; idealización en 99_Reference/location_references), terreno neutral fuera de la ciudad. La llegada se reescribió el 2026-10-06 para introducir el lugar (bajada, cañón, dos caídas frente a frente, poza, luz sin sol y el nombre en boca de Kal; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Puesta_En_Escena_Cap_30_Piloto]] E30-1/E30-2). Es DISEÑO pendiente de lectura. Coda: el taller / El Patio, patio de atrás.
  Función: CANON DEL AUTOR. Ejecuta H6, sección 7 — el cierre del pacto, y AMPLIACIÓN (2026-09-16, encargo del autor) que resuelve las consecuencias directas de los Caps. 28-29.
 
 REVISIÓN ESTRUCTURAL (2026-09-18, encargo explícito del autor) — dispersa dentro de este capítulo las consecuencias de la REESCRITURA PROFUNDA del Cap. 29 (misma fecha) y elimina toda formulación heredada de la versión vieja de esa negociación. Cambios de fondo:
@@ -48,9 +48,13 @@ Bajaron, cada uno de su coche. El sonido llegó antes que la vista: un salto de 
 
 —¿De quién es esto? —preguntó, más por costumbre que por necesidad de saberlo.
 
-—De nadie. —Kal caminó hacia una piedra plana junto al agua y se sentó despacio, cuidándose el costado—. Por eso vinimos.
+—De nadie. —Kal bajó despacio por un sendero de piedra, entre helechos, cuidándose el costado—. Por eso vinimos.
 
-Se sentó a su lado, no encima, cerca, con las piernas cruzadas sobre la roca fría. El agua tapaba las voces bajas y dejaba pasar las altas, así que los dos, sin acordarlo, empezaron a hablar más cerca de lo que hubieran hablado en cualquier otro sitio de la ciudad.
+Abajo, el cañón se cerraba en roca oscura y musgo: dos caídas altas, una frente a la otra, sobre la misma poza verde. El sol de la mañana todavía no llegaba al fondo.
+
+—Las Gemelas —dijo Kal.
+
+Se sentó en una piedra plana de la orilla, lejos de la brisa húmeda que levantaba el agua. Chiara se sentó a su lado, no encima, cerca, con las piernas cruzadas sobre la roca fría. El agua tapaba las voces bajas y dejaba pasar las altas, así que los dos, sin acordarlo, empezaron a hablar más cerca de lo que hubieran hablado en cualquier otro sitio de la ciudad.
 
 —Te voy a contar todo —dijo Kal.
 

@@ -94,6 +94,8 @@ Una auditoría válida puede concluir que no se necesita ninguna intervención. 
 
 Prohibido fijar objetivos como "reducir *como si* un X%", "eliminar N *demasiado*" o "cortar X palabras". Los conteos sirven para navegar el texto, nunca como meta editorial en sí misma.
 
+Las expansiones de geografía y anclaje espacial necesarias para el capítulo están **excluidas de toda regla de poda** y de los conteos (CANON DEL AUTOR, 2026-10-06; ver [[12_Craft_Policies/editorial/DO_NOT_TOUCH]]).
+
 ## K. La esterilización también es un error
 
 Tras varias rondas editoriales sobre el mismo material, cambiar la pregunta de control: en vez de "¿qué puedo mejorar?", preguntar "¿estoy empezando a eliminar rareza, ritmo o voz solo porque puedo?". Una prosa limpia pero genérica es un fracaso editorial, no un éxito silencioso.

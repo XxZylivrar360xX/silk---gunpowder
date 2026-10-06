@@ -79,7 +79,7 @@ San Aurelio es una ciudad ficticia de Estados Unidos. Puede incorporar cultura l
 
 **La mansión de Varek** — donde Kal se le ofrece, en el patio ([[06_Relationships/Hitos]], H6). **PENDIENTE:** ficha propia.
 
-**Las cascadas** — apartado, con ruido de naturaleza y sin interrupciones. **El primer lugar del libro que no es territorio de nadie**, y donde Kal y Chiara sellan su pacto. **PENDIENTE:** nombre y ubicación.
+**Las Gemelas (las cascadas)** — apartado, con ruido de naturaleza y sin interrupciones. **El primer lugar del libro que no es territorio de nadie**, y donde Kal y Chiara sellan su pacto. **Aspecto (CANON DEL AUTOR, 2026-10-06):** caída alta en varios saltos dentro de una hondonada cerrada de roca oscura con musgo y helecho, poza verde, banco de piedras grandes en una orilla y luz difusa sin sol directo. Se baja a pie desde donde termina el camino de tierra. Es el único verde húmedo en una ciudad de sol seco. **Nombre y ubicación (CANON DEL AUTOR, 2026-10-06):** *Las Gemelas*, por las dos caídas altas, una frente a la otra; cerros del noreste. La carretera "al norte" del Cap. 29 tuerce hacia allá. Idealización visual (no es canon de detalle): [[99_Reference/location_references/Las_Gemelas_idealizacion.webp]].
 
 **[[05_Locations/Camp_Alder|Camp Alder]]** — complejo militar al noreste, donde los civiles no tienen acceso. La fuente del armamento largo que Kal ofrece a Varek en H6.
 

@@ -12,6 +12,10 @@ Material de inspiración que **no es canon de esta novela**. Se conserva intacto
 
 Referencias externas de **energía de voz** (personajes de series, películas o novelas) pedidas por el autor para calibrar a un personaje antes de escribir o auditar (desde 2026-10-05). Cada archivo dice qué tomar y qué dejar. No se copian nombres, tramas ni líneas; la vara final es la prosa del libro y la ficha de `12_Craft_Policies/voice/`. Hoy: [[99_Reference/voice_calibration/Marisol_Grayson]].
 
+### `location_references/`
+
+Idealizaciones visuales de lugares, aportadas por el autor. Orientan la atmósfera y no son canon de detalle: manda lo escrito en `05_Locations/`. `Las_Gemelas_idealizacion.webp` (2026-10-06): las cascadas del Cap. 30.
+
 ### `character_art/`
 
 Arte conceptual de los personajes originales de *Seda y Pólvora*. Por encargo del autor (2026-09-11), se enlaza y muestra en sus fichas como apoyo visual bajo **DISEÑO**, sin establecer canon nuevo por inferencia. El canon escrito manda ante discrepancias. Catálogo, usos y diferencias detectadas: [[99_Reference/character_art/README]]. Este uso específico no autoriza copiar escenas, biografías ni formulaciones de las fuentes externas.

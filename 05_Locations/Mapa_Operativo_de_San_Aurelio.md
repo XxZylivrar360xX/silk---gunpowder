@@ -42,7 +42,7 @@ Kal suele ganar por conocimiento fisico de la ciudad. Chiara suele ganar por sab
 | Los Alamos | Norte industrial | Refinerias muertas, chatarra, suelo barato | [[03_Factions/Alamo_Salvage]] |
 | Rutas de Milla | Norte rural / borde de Kingsley Field | Carreras ilegales, apuestas, caminos de salida | [[03_Factions/Los_Marcadores_de_Milla]] |
 | [[05_Locations/Cedar_Flats]] | Norte agrícola lejano | Parcelas de cultivo, bodegas rurales, cobertura logística | Agricultores, El Patio en expansión |
-| Cascadas | Afuera, cerros del este | Primer lugar que no es territorio de nadie | Nadie |
+| Las Gemelas (cascadas) | Afuera, cerros del noreste (CANON 2026-10-06) | Primer lugar que no es territorio de nadie | Nadie |
 | [[05_Locations/Camp_Alder]] | Afuera, noreste restringido | Armamento, pasado militar, acceso controlado | Federal / militar |
 
 ---
@@ -88,7 +88,7 @@ No son tiempos de GPS. Son tiempos de escena: trafico, hora, presion policial y 
 | Kingsley Field -> Camp Alder | 20-30 min | No aplica sin acceso | Armamento, pasado militar |
 | La Almendra -> Cedar Flats | 75-90 min | 60 min de madrugada | Parcelas, norte rural lejano |
 | Centro -> Camp Alder | 50-65 min | No aplica sin acceso | Escala federal / militar |
-| Centro -> Cascadas | 50-70 min | 45 min de madrugada | Salida del territorio, pacto |
+| Centro -> Las Gemelas | 50-70 min | 45 min de madrugada | Salida del territorio, pacto |
 
 ---
 
@@ -154,7 +154,7 @@ Su debilidad aparece cuando Kal controla rutas chicas que Dario siempre consider
 | Casa comunitaria | La Almendra | El barrio ve llegar a Chiara por primera vez |
 | [[05_Locations/El_Taller_del_Norte|Taller del norte]] | Rutas de Milla, cerca de Kingsley Field | Carreras, amenazas de Varek (H5 / Cap. 27), caminos sin testigos |
 | Mansion de Varek | Cuesta Bonita | Poder viejo y respetabilidad comprada |
-| Cascadas | Cerros del este, mas alla de Cuesta Bonita | Primer lugar que no pertenece a nadie |
+| Las Gemelas (cascadas) | Cerros del noreste, mas alla de Cuesta Bonita (CANON 2026-10-06) | Primer lugar que no pertenece a nadie |
 | Camp Alder | Noreste restringido, mas alla de Kingsley Field | Mantiene distancia civil y escala federal |
 | La Esquina de Mabel | Frontera Calle Corona / La Almendra | Oye hospital, policia, iglesia y barrio bajo |
 | Tienda de mascaras — **La Tramoya** | Corredor comercial de servicio hacia Kingsley Field / Rutas de Milla | Vestuario teatral y utileria; hace practica la salida de H9 antes de la carrera (Cap. 9) |
