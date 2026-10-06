@@ -18,6 +18,7 @@ Funcion: convertir el favor en cadena, mostrar a Kal como telefono recurrente y 
 Nota de fusion (2026-09-10, BLOQUE 2 de PLAN_CIRUGIA_EDITORIAL_PARTE_I): capitulo resultante de fusionar los antiguos Capitulo 5 (La casa no quiere ruido) y Capitulo 6 (Una amiga). El titulo visible pasa a ser "Una amiga"; el archivo (antes 05_La_Casa_No_Quiere_Ruido.md) se normalizo a 05_Una_Amiga.md el 2026-09-29, con enlaces vivos actualizados. El antiguo stub Nota_Una_Amiga_Fusionada.md se retiro el 2026-09-29, tras el renombrado. La renumeracion global posterior ya fue completada en cascada.
 Canon del autor (2026-10-04): en la escena de Rocco, Hector cierra el dialogo de los ojos del Cap. 3: "¡Ah! ¿Te referias a esos ojos?" (sustituye "¿La del casino?"). Acotacion "Se quedo mirando a Kal un momento": DISENO.
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); el estado se conserva): esgrima del pasillo reducida a una sola replica de Chiara; fuera "Que eficiente." de Tommaso.
+Frente 3, densidad (2026-10-05, SURGERY autorizada por el autor; el estado se conserva): fuera la replica de la alfombra al cierre de la bisagra (F3-4; la bisagra cierra en "La puerta no estuvo en la reunion") y la entrada de agenda antes del rumor de Hoover ("Yo tambien queria hablar con usted de algo / ¿Esta noche? / Por eso esta noche", F3-5); el rumor sale directo del pan. Lo canon de Hoover y de la empresa de seguridad, intacto. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Densidad_Funcion_Frente_3.md §5.
 -->
 
 # Capítulo 5 — Una amiga
@@ -541,10 +542,6 @@ Kal se acomodó la chaqueta para irse.
 —La puerta no estuvo en la reunión.
 
 Chiara la dejó sobre el escritorio con más cuidado del que pensaba tener.
-
-—¿Sabe cuánto costó la alfombra del piso de juego?
-
-—Sí. —Terminó de acomodarse la chaqueta—. A mí nadie me preguntó por la alfombra.
 
 Cuando se fue, ella se quedó un rato con el trapo vacío en la mano. La pieza podía justificarse en una hoja de mantenimiento sin que a nadie se le moviera una ceja, y ése era exactamente el problema.
 
@@ -1178,11 +1175,7 @@ Chiara miró hacia la calle y tardó en volver.
 
 Kal partió un pedazo de pan y no se lo comió.
 
-—Yo también quería hablar con usted de algo.
-
-—¿Esta noche?
-
-—Por eso esta noche. —Dejó el pan en el plato—. Me llegó un rumor. Mi socio del lote, Hoover, se reunió con la mesa directiva del Monarch.
+—Me llegó un rumor. Mi socio del lote, Hoover, se reunió con la mesa directiva del Monarch.
 
 Chiara no dejó la copa.
 

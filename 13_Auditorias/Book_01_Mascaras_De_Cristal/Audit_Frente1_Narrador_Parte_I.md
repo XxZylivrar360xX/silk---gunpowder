@@ -114,7 +114,7 @@ El frente 2 lo dejó para este frente ([[13_Auditorias/Book_01_Mascaras_De_Crist
 | N24c-5 | 264 | "Le tomó la mano, un segundo apenas, torpe**, como quien no está acostumbrado al gesto.**" | GLOSA ("torpe" ya lo dice) | Cortar el símil |
 | N24c-6 | 272 | "Abrió los ojos despacio**, con la clase de mirada de alguien que está reconstruyendo el mundo pieza por pieza y todavía no confía en el resultado.**" | REPETICIÓN entre capítulos con 25:230 ("volviendo a armar pieza por pieza"), más el tic "la clase de" ya podado en el 18 | Cortar desde la coma. La imagen sobrevive en el 25, donde pesa más |
 | N24c-7 | 278 | "algo en su cara se endureció**, como si el dolor físico le molestara menos que no tener una respuesta**—" | GLOSA: lo dice en la réplica ("No está bien… no sé quién") | Cortar el símil |
-| N24c-8 | 294 | "encontró **exactamente** lo que esperaba **encontrar**: nada que sirviera" | INTENSIFICADOR | *"encontró lo que esperaba: nada que sirviera."* |
+| N24c-8 | 294 (**OBSOLETO 2026-10-05:** el tramo salió en F3-2 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Densidad_Funcion_Frente_3]]) | "encontró **exactamente** lo que esperaba **encontrar**: nada que sirviera" | INTENSIFICADOR | *"encontró lo que esperaba: nada que sirviera."* |
 | N24c-9 | 336 | "—Dario asintió**, como quien acepta una cifra que sabe mal cuadrada**—" | TIC: es el tercer "como quien" de Dario en el capítulo, y "Ah." ya lo dice | Cortar el símil. Se protegen 210 (el arma "ceremonial") y 230 ("archiva algo para después", ancla protegida en M2) |
 | N24c-10 | 350 | "**No dijo que no les creía. No le hizo falta.** Se ajustó el puño de la camisa y los miró a los dos, uno y después el otro**, con la paciencia de un hombre que ha decidido esperar a que la mentira se pudra sola.**" | GLOSA triple: 348 ya tiene "una tabla clavada encima de un agujero" y 366 trae "No nos creyó." | Queda *"Se ajustó el puño de la camisa y los miró a los dos, uno y después el otro."* Se conserva 348 |
 | N24c-11 | 610 | "Kal se rió. No mucho, pero se rió**, y era la primera vez en tres días.**" | REPETICIÓN LEXICAL ("Por primera vez en tres días", 424; "la primera del día", 416) | Cortar la coda |
@@ -194,6 +194,16 @@ La noche del jacuzzi es casi toda diálogo canon y no se toca. Lo que pesa son l
 3. **Lote "exacto"**: va dentro del bloque firme. Si prefieres no tocar intensificadores sueltos, se separa sin afectar lo demás.
 
 ---
+
+## 4b. Decisión del autor (2026-10-05)
+
+- **Filosofía aprobada:** no se persigue el "como quien" en sí. Se persigue el gesto que el narrador explica justo después de que ya significó.
+- **Bloque firme (44) y lote "exacto": APROBADOS**, pero **la SURGERY va después de los frentes 3 y 2**. Antes de operar, se rebasa contra la prosa vigente y se ignora cualquier candidato que haya desaparecido por una cirugía anterior. Si el frente 2 aplica L18-2, 18:388 no se toca aquí.
+- **Dudosos:**
+  - Conservar N5-2 ("Eso lo salvó" es un juicio de Chiara, con filo) y N5-7 (excepción → registro → exposición: el razonamiento que la lleva a institucionalizar Almendra Towing).
+  - Aplicar N5-4, N7-5 (el chiste mejora sin explicación), N18-6 y N24c-12.
+  - Comprimir N25-10 a "—Lo dijo despacio—.".
+- **Total a operar:** 44 firmes + 5 dudosos = 49.
 
 ## 5. Autocrítica (MICROEDICION §F)
 

@@ -1,6 +1,6 @@
 # Auditoría — Densidad y duplicación de función (Frente 3)
 
-**Fecha:** 2026-10-05. **Modo:** AUDIT (no se tocó prosa). **Agente:** Claude Code.
+**Fecha:** 2026-10-05. **Modo:** AUDIT y después SURGERY (§5, decisiones del autor). **Agente:** Claude Code.
 **Ámbito:** Caps. 1, 5, 10, 24c, 25 y 38, leídos completos. Origen: frente 3 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Fortalecimiento_Puntos_Debiles]], a partir de las tres reseñas de ChatGPT (2026-10-05).
 **Pregunta:** ¿hay dos escenas, o dos movimientos, haciendo el mismo trabajo? No hay meta de palabras (EDITORIAL_POLICY §J).
 **Cruces:** las auditorías previas de cada capítulo ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_01-03]], [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_05_Una_Amiga]], [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_10_El_Loft_Del_Soltero]], [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_24c_El_Corral]], [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_25_Libros_Abiertos]]), con lo que ya decidiste ahí, y los frentes 1 y 2 del mismo día ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I]], [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Lucidez_Personajes_Frente_2]]). Las glosas de frase son del frente 1 y aquí no se repiten. Este frente sólo mira escenas y movimientos.
@@ -77,3 +77,29 @@ Todo junto, si apruebas F3-1 (b y c), F3-2, F3-4, F3-5, F3-6 y F3-9, son unas 50
 - **¿Riesgo de esterilizar?** Bajo. No se toca ninguna escena, ninguna línea canon ni ninguna firma de voz. El riesgo contrario sería no atreverse con F3-1: es el único cambio que de verdad mueve la experiencia del 25.
 - **¿Riesgo de racionalizar interioridad?** En F3-1 sí, porque la apertura del 24c es interioridad de Chiara. Se conserva la parte que sólo ella puede dar (la misa sola, no pedirle nada a Dios, el calendario) y sale la que el 25 entrega en su voz.
 - **¿Prosa más genérica?** No, si sólo se aplica lo propuesto. Ningún corte sustituye texto.
+
+---
+
+## 5. SURGERY (2026-10-05, decisiones del autor)
+
+**Decisión:** el autor aprobó F3-1b, F3-1c, F3-2, F3-4, F3-5, F3-6 y F3-8 (cortar) y F3-7 (comprimir). F3-3, no: el 24c no se parte ("después de los dos cortes ya respira mejor; lo sostuvo una sola crisis"). F3-9 se aprueba, pero se ejecuta con el frente 1. Sobre F3-1: "El mandato divino debe pertenecer a la confesión de *Libros abiertos*. La apertura conserva misa, Marta, Alessio y fe sin revelar el golpe."
+
+**Prosa:** −624 palabras, nada sumado. Cap. 1: 7,510 → 7,483. Cap. 5: 7,755 → 7,712. Cap. 24c: 7,722 → 7,364. Cap. 38: 8,338 → 8,137. Los estados se conservan: el 1 y el 5 siguen TERMINADO (con nota de cirugía en la metadata); el 24c y el 38 siguen BORRADOR.
+
+| # | Antes | Después | Qué conserva |
+|---|---|---|---|
+| F3-1b | 24c:20 "…No lloró: llorar ahí habría sido explicarse. Tampoco en Palermo había un padre enterrado junto a aquella tumba: de Corrado nunca hubo un cuerpo… sin que nadie supiera que la estaba pagando." | "…No lloró: llorar ahí habría sido explicarse." | La misa sola, Marta, no pedirle nada a Dios. El "Nunca hubo un cuerpo… Esa cuenta la pago yo sola" del 25:118 pasa a ser la primera aparición. |
+| F3-1c | 24c:24, el párrafo "Alessio también había hablado de Dios… *Questo è un mandato divino*… Eso no iba a quitárselo también." | Cortado; el 22 pasa directo a "Por eso, ese domingo…" | El homenaje y "el hombre que más daño le había hecho" (22). La fe la siembra la misa. La frase suena por primera vez en el 25:196. Se actualizó [[02_Characters/Alessio_Lusardi]]: "Sembrada en el Cap. 9" queda superado. |
+| F3-2 | 24c:294–298 (hipódromo, cámaras, tregua con Dario, "armado demasiado bien") y 306–308 ("No compartió ninguna de las dos ideas…", la mañana del alta) | 292 ("Kal siguió preguntando…") → 300 (Crowe) → 302–304 (la llamada como grieta, Dario u otro) → *** | Crowe descartado y la anomalía de la llamada. El parador cuenta la investigación dramatizada. **La N24c-8 del frente 1 queda obsoleta**, porque su tramo salió. |
+| F3-4 | 5: "—¿Sabe cuánto costó la alfombra del piso de juego? / —Sí. —Terminó de acomodarse la chaqueta—. A mí nadie me preguntó por la alfombra." | Cortado | La bisagra cierra en "La puerta no estuvo en la reunión." y en que ella la deja con cuidado. |
+| F3-5 | 5: "—Yo también quería hablar con usted de algo. / —¿Esta noche? / —Por eso esta noche. —Dejó el pan en el plato—. Me llegó un rumor." | "Kal partió un pedazo de pan y no se lo comió. / —Me llegó un rumor." | Hoover, "Estoy impresionada" y la empresa de seguridad (canon) quedan intactos. El pan sin comer hace la pausa. |
+| F3-6 | 38:306 "—No lo era —dijo Chiara—. No todavía. —Hizo una pausa—. Esta noche vino a que le corrigiera la historia… No se lo di." | "—No lo era —dijo Chiara—. No todavía." | Lo único nuevo para Kal. El muelle, "Veinticinco" y "Ven" quedan intactos. |
+| F3-7 | 38: de "—Claro que sí. Siempre. Y ahora más." a "—Te das cuenta de cosas que yo no. —Una pausa—." (el agradecimiento razonado, "no hablemos de frenos", la filosofía de "se vive mejor con gente al lado") | "—A mí no tienes que darme las gracias de nada. / Pasó el pulgar por el borde de una tecla sin hundirla. / —Cuando volví a la vida civil…" | "¿De qué tienes miedo?", "quiero grabármelo / cuarenta veces", "Chiara no le dijo dónde iba a estar mañana", "Gracias / No tienes ni idea", la vida civil, la palma en el hombro y el arma bajo la almohada. El gesto de la tecla venía de la línea cortada y se reubica como puente: Kal contesta la gratitud con algo verdadero suyo. |
+| F3-8 | 1:217 "…sin hacer preguntas. Un hombre con camisa demasiado blanca apareció preguntando por convenios de flotilla… se fue con una tarjeta." | "…sin hacer preguntas." | La mañana normal (la señora del radiador, el carnicero) y "Cada conversación dejaba algo". |
+
+**Verificación (VERIFY, MICROEDICION §A):** no se perdió información de trama. Lo de Corrado y la frase de Alessio siguen en el 25; la investigación, en el parador. Se buscaron ecos de lo cortado: "alfombra" sólo aparecía en el 5; "frenos" y "filosofía", sólo en la metadata del 38, que ya está actualizada; los mozos, las cámaras y la camisa blanca no tenían eco. El 38:604 ("Lo del corral… Lo busqué. Meses. No encontré nada.") se sostiene sin el resumen. Costuras leídas en contexto: en el 24c, 22 → 26 y 292 → 300; en el 5, la bisagra → "Cuando se fue" y el pan → el rumor; en el 38, la proa 306 → 308 y la víspera. **Costura a vigilar:** en el 38, "Pasó el pulgar… / —Cuando volví a la vida civil" pone dos tiempos seguidos de Kal con un gesto en medio. Se lee como que él busca qué devolverle.
+
+**Autocrítica.**
+- **Lo más agresivo:** F3-2, unas 275 palabras de diseño.
+- **Lo que más dudo:** F3-7. El puente es un gesto movido de lugar, no texto nuevo, pero cambia el motivo de la confesión de la vida civil: antes nacía de "esa filosofía tuya"; ahora nace de la gratitud. Si al leerlo no te cierra, la alternativa es restaurar "—Te das cuenta de cosas que yo no." antes de "Cuando volví…".
+- **Riesgo de esterilizar:** bajo. No se tocó ninguna línea canon ni ninguna firma de voz.

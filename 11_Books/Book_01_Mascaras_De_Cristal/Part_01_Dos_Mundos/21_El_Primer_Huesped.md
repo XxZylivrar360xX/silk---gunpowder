@@ -9,6 +9,7 @@ Apertura por residuo: arranca directo del cierre del Capitulo 20 -- la misma noc
 Punto de vista (ajustado 2026-09-07): tercera persona cercana, un POV fijo por bloque de escena, segun quien paga mas el costo -- llamada y trayecto: Kal. Loft y confesion de Marisol: Chiara (es ella quien hace el trabajo emocional; Kal se queda callado, asi que perder su interioridad ahi refuerza eso mismo). Mezzanine: Kal (es su linea, su promesa). Desayuno del sabado y despedida final: Chiara, cerrando con la cara de Kal descrita desde afuera, no desde su cabeza.
 Microcirugia de dialogo K/C 2026-10-04 (autorizada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]] §7; DISEÑO pendiente de lectura, el resto sigue TERMINADO): fuera "Kal no tuvo con que contestarle eso"; mezzanine sin "No le vas a fallar / No lo se todavia / Yo si": Chiara da el dato ("Te llamo a ti. A las tres de la mañana") y Kal le busca la mano en la barandilla; Chiara con Marisol en su voz (revisa el pomulo, "¿Alguien grabo? ... Esas cosas se bajan"; los huevos; "Yo tarde mas que tu" como confesion-dato) en lugar de sentencias. Lineas del autor intactas.
 Cirugia de dialogo de terceros 2026-10-04 (S3 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]]; sigue TERMINADO, la prosa nueva es DISEÑO pendiente de lectura): Marisol en el desayuno. Decisiones del autor: el iman de la manzana (Cap. 14) estaba en el refrigerador del loft, Kal nunca se lo dio a Chiara; Marisol lo despega en el desayuno, Kal lo explica frente a las dos ("Era para Chiara" / "Porque es feo" / "Por eso", eco del 14) y Chiara lo vuelve a pegar mas arriba, sin comentario. Fuera, con confirmacion del autor aunque Lote B las protegia: "Es lo minimo, considerando...", "Para los dos. No solo por Kal. Por los dos", "Es raro... contigo no" y "Es una de las ventajas de ser mujer" (ahora "Roncabas"; "¿Me equivoco, Chiara?" / "Sin duda alguna, bambina" intactas). La Funcion de arriba conserva la version anterior como registro. Sesion: 98_Agent_Handoff/sessions/2026-10-04_claude_cirugia_terceros_S3.md.
+SURGERY frente 2 (2026-10-05, autorizada por el autor; sigue TERMINADO): M21-1 Marisol queda en "Eso ultimo es lo peor" (fuera "No que me haya mentido. Que yo ya lo sabia y decidi no verlo"); M21-2 Kal queda en "Lo de Michael fue dificil." (fuera "hasta eso se volvio habitable"; la linea de 2026-10-01 de arriba queda como registro). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Lucidez_Personajes_Frente_2.md.
 -->
 
 # Capítulo 21 — El primer huésped
@@ -147,7 +148,7 @@ Chiara se sentó en la isla, aceptando la taza que Marisol le puso enfrente sin 
 
 Esta vez lo contó sin lágrimas, con una distancia que la noche anterior no tenía: que Diego era simpático pero cobarde, que la novia enojada daba más miedo del que Marisol jamás le hubiera imaginado, y que en el fondo ya sospechaba que algo no cuadraba y se lo había callado a sí misma porque el café gratis se sentía bien.
 
-—Eso último es lo peor —dijo Marisol—. No que me haya mentido. Que yo ya lo sabía y decidí no verlo.
+—Eso último es lo peor —dijo Marisol.
 
 —Yo tardé más que tú. —Chiara le dio un trago al café y siguió antes de que Marisol pudiera preguntar cuánto—. ¿Y el café era bueno, por lo menos?
 
@@ -221,7 +222,7 @@ Kal y Chiara se quedaron parados viéndola alejarse.
 
 —¿Siempre es así? —preguntó Chiara.
 
-—Siempre. —Kal no apartó la vista del camino ya vacío—. Llega el huracán Marisol, sacude todo, y después vuelve a su rutina como si nada. Siempre le ha gustado estar ocupada. Lo de Michael fue difícil. Pero con sus risas y sus ocurrencias, hasta eso se volvió habitable.
+—Siempre. —Kal no apartó la vista del camino ya vacío—. Llega el huracán Marisol, sacude todo, y después vuelve a su rutina como si nada. Siempre le ha gustado estar ocupada. Lo de Michael fue difícil.
 
 Chiara no dijo nada más sobre eso.
 

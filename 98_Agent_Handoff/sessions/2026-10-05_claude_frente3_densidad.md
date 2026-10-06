@@ -11,4 +11,12 @@
 - Cortes cortos de diálogo DISEÑO en el 5 (la alfombra y la entrada del rumor de Hoover) y en el 38 (lo que Chiara repite de Blake en la proa). Siembra sin pago en el 1 (el hombre de la camisa blanca).
 - El 10 y el 25 no tienen candidatos de escena. El 38 no se parte: lo prohíbe la regla estructural del encargo.
 - **Verificación:** las líneas citadas corresponden a los archivos tal como estaban en esta sesión (ninguno de los seis estaba modificado en git). Se verificó que cada nombre del Cap. 1 tenga pago en el libro.
-- **Pendiente:** decisiones del autor en el §3 del dictamen. Si aprueba F3-2, conviene operarlo antes o junto con la SURGERY del frente 1 en el 24c (N24c-8 cae dentro).
+- **Pendiente (resuelto abajo):** decisiones del autor en el §3 del dictamen. Si aprueba F3-2, conviene operarlo antes o junto con la SURGERY del frente 1 en el 24c (N24c-8 cae dentro).
+
+## SURGERY (misma fecha, decisiones del autor)
+
+- Aplicados F3-1b, F3-1c, F3-2, F3-4, F3-5, F3-6 y F3-8 (cortes) y F3-7 (compresión de la víspera del 38). F3-3 rechazado: el 24c no se parte. F3-9 pasa al frente 1.
+- −624 palabras de prosa, nada sumado. Before/after y verificación en el §5 del dictamen. Notas de cirugía en la metadata de los Caps. 1, 5, 24c y 38; estados conservados.
+- Arrastre: [[02_Characters/Alessio_Lusardi]] ("Sembrada en el Cap. 9" queda superado). N24c-8 del frente 1 marcada OBSOLETA. Plan, PENDING, brief, INDEX y log actualizados.
+- Pendiente: lectura del autor en el 24c y en el 38, sobre todo en la costura de la víspera (§5).
+

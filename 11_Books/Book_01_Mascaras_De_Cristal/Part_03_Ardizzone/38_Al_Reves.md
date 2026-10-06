@@ -27,6 +27,7 @@ Función: celebración coral que se convierte en el gatillo del viaje a Palermo.
 - Kenji y Marisol coinciden en una baranda — siembra mínima de su relación fuera de foco (canon 2026-09-10), sin desarrollo.
 - Registro: público sin afecto (Kal invitado especial, no anfitrión; no vigila a Chiara; no celos). Registro privado aflojado en proa y salón. Kal no se pone lírico; el narrador no glosa. Acotaciones: dijo / preguntó / contestó / repitió; sin adverbios en -mente en los tags.
 - **ORDEN — RESUELTO POR EL AUTOR (2026-09-20, misma sesión):** el orden viejo (F1 → Los Tres Días → reconciliación → H13 → Palermo) queda **SUPERSEDIDO**. Nuevo canon: `H16 → Cuatro letras → fiesta / H13 → Palermo (H17) → regreso (H18) → investigación de Matteo / F1 → Los Tres Días → reconciliación`. Razón del autor: F1 pesa más después de Palermo, cuando Blake y la bala ya establecieron que Chiara normalmente sí le cuenta las cosas a Kal — su "Nada" sobre Matteo será mucho más grave. Timeline, Hitos y Kal_y_Chiara actualizados en consecuencia.
+- **Frente 3, densidad (2026-10-05, SURGERY autorizada por el autor; sigue BORRADOR):** en la proa, fuera lo que Chiara le repite a Kal de Blake ("Esta noche vino a que le corrigiera la historia… No se lo di.", F3-6); queda "No lo era. No todavia." La vispera, comprimida (F3-7): fuera el agradecimiento razonado ("Porque me dejaste ensenar quien soy… me diste la mano igual"), "no hablemos de frenos" y la filosofia de "se vive mejor con gente al lado"; despues de "A mi no tienes que darme las gracias de nada", el gesto de la tecla lleva directo a la vida civil y al arma bajo la almohada. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Densidad_Funcion_Frente_3.md §5.
 -->
 
 # Capítulo 38 — Al revés
@@ -303,7 +304,7 @@ Chiara respiró hondo, y el frío le entró hasta abajo.
 
 Kal no se movió.
 
-—No lo era —dijo Chiara—. No todavía. —Hizo una pausa—. Esta noche vino a que le corrigiera la historia. Quería que le dijera que sí fue por ti, para poder ser el hombre al que le quitaron algo en vez del hombre que no supo qué hacer con lo que tenía enfrente. No se lo di.
+—No lo era —dijo Chiara—. No todavía.
 
 Kal asintió despacio, como quien termina de leer una factura y la encuentra en orden.
 
@@ -477,25 +478,9 @@ Chiara no le dijo dónde iba a estar mañana.
 
 —A mí no tienes que darme las gracias de nada.
 
-—Claro que sí. Siempre. Y ahora más.
+Pasó el pulgar por el borde de una tecla sin hundirla.
 
-—¿Por qué ahora?
-
-Chiara lo ordenó antes de decirlo, como ordenaba todo, y aun así no le salió en orden.
-
-—Porque me dejaste enseñar quién soy. Y vivir tranquila, a gusto. Me levantaste cuando tropecé. Y cuando tropezando me cavé yo sola la tumba, me diste la mano igual.
-
-Kal se quedó mirando el teclado.
-
-—Entonces no hablemos de frenos —dijo—. Ni de nada de eso. Yo estoy bien así. Lo que tenga que venir, que venga.
-
-—Necesito esa filosofía tuya en la cabeza.
-
-—Yo no pensaba así. —Pasó el pulgar por el borde de una tecla sin hundirla—. Hubo un tiempo en que no quería tratar con nadie. No de la forma que piensas. Con nadie, en general. Con la gente. —Una pausa—. Se vive mejor con gente al lado. Con la que uno está a gusto. Amigos, o como se llame.
-
-—Se te nota.
-
-—Te das cuenta de cosas que yo no. —Una pausa—. Cuando volví a la vida civil, lo que más me costó fue apagar la cabeza. Dormir. Oír un ruido en la calle y que fuera sólo un ruido.
+—Cuando volví a la vida civil, lo que más me costó fue apagar la cabeza. Dormir. Oír un ruido en la calle y que fuera sólo un ruido.
 
 Chiara le puso la palma en el hombro. Despacio, sin apretar, el tiempo que tarda una mano en decidir que se queda.
 

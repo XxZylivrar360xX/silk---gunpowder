@@ -11,13 +11,12 @@ Ajuste al juego de preguntas (2026-09-07), a peticion del autor: la pregunta de 
 Cirugia de dialogo 2026-10-04 (DISEÑO pendiente de lectura; autorizada por el autor, ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I §7): solo la mitad comica, hasta el hoyo 7. Del octavo hoyo al final, intacto.
 Conversacion del miedo 2026-10-04 (decision del autor; prosa DISEÑO pendiente de lectura; el capitulo sigue TERMINADO): material traido por el autor de la fuente, reescrito en voz propia (no transcrito). Entra en el auto frente al Monarch, despues de que Kal apaga el motor (la decision silenciosa de quedarse se conserva intacta) y antes de "Anda, hay que subir": "lo que paso no lo puedes cambiar", "puños arriba", el remolino, el freno por miedo, "lo llevo de copiloto" (ancla: la carrera del Peugeot, Cap. 8), el miedo como señal de que algo importa, y la disculpa de Chiara por el juego de preguntas. Fugas: Chiara gira la pulsera; Kal, mano y pulgar en el volante. Fuera de esta entrada (decision pendiente del autor): "me queda una noche antes de irme" (paso al Cap. 38), la lluvia al subir, el elevador y el casino cerrado.
 Siembra 2026-10-04 (DISEÑO aprobado por el autor; arrastre de la reubicacion del Corral): en el relato del matrimonio, Chiara menciona "unas familias... que se sentaban a una misma mesa" (sin nombre del marido, sin "Il Consorzio"). Origen de "Me nombro familias. Las que tu me habias mencionado" en el parador del 24c. El nombre Il Consorzio sigue reservado al 25.
+SURGERY frente 2 (2026-10-05, autorizada por el autor; sigue TERMINADO): L18-1 fuera la reprise en cursiva de la frase de Hector (la metadata de arriba ya pedia que no se repitiera); L18-2 "No leyo la situacion. No se volvio lo que pedia." fuera; L18-3 a L18-5, la conversacion del miedo sin el pegamento del agente: fuera "¿Y quieres vivir asi?", el resumen del arco de Chiara y "dime que quieres" (Kal sólo dice lo de la falda y Chiara contesta "Con miedo."), fuera "¿Y asi estas bien?" ("Lo llevo de copiloto" queda sin evaluacion) y el aforismo del miedo (quedan los hombres sin miedo y "Si tienes miedo, es que algo te importa"). Beats del autor intactos. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Lucidez_Personajes_Frente_2.md.
 -->
 
 # Capítulo 18 — El día nublado
 
 Lo que se le quedó a Kal del hospital no fue el infarto de Héctor. Fue una frase.
-
-*No es tuyo decidir de qué la cuidas. Es de ella.*
 
 La cargó toda la semana sin saber dónde ponerla. Al taller, a la comisaría, al panteón con dos cervezas para Michael. La frase no se movía de ahí, y lo peor era que no tenía con qué contestarle.
 
@@ -385,7 +384,7 @@ El motor seguía encendido. En algún lugar debajo de la calma que se obligaba a
 
 Toda la vida de Kal había funcionado así: motor encendido, salida calculada antes de que hiciera falta, la costumbre de leer lo que un lugar pedía y volverse eso, o irse en cuanto dejaba de pedir nada. Nunca se había quedado en ningún sitio que pudiera decidir abandonar.
 
-Pasó un minuto entero así —ella con la mano en la manija, él sin decir nada, la nube quieta arriba— y en algún punto de ese minuto, sin ruido, sin nombrarlo siquiera para sí mismo, Kal decidió no hacer lo de siempre. No leyó la situación. No se volvió lo que pedía. Se quedó.
+Pasó un minuto entero así —ella con la mano en la manija, él sin decir nada, la nube quieta arriba— y en algún punto de ese minuto, sin ruido, sin nombrarlo siquiera para sí mismo, Kal decidió no hacer lo de siempre. Se quedó.
 
 Apagó el motor.
 
@@ -409,23 +408,15 @@ Ella no contestó.
 
 —A todo, supongo. —Era una cifra redonda, y los dos lo sabían—. A muchas cosas que preferiría no frenar. Las freno igual.
 
-—¿Y quieres vivir así?
-
-—No.
-
 Kal siguió mirando las puertas de vidrio.
 
-—Desde que te conozco haces cosas que no hacías. Hoy te metiste a un campo de golf con una falda que escogí yo. Nadie te obligó, y no te vi pensando qué iban a decir. —Una pausa—. Entonces dime qué quieres. Esto, lo de hoy. O el plan que traes en la cabeza desde hace años.
+—Hoy te metiste a un campo de golf con una falda que escogí yo.
 
-—Eso lo tengo claro. —Chiara soltó por fin la manija—. Lo que no se va es el miedo. Pero así hago las cosas, Kal. Con miedo, todo el tiempo. Cuando me sales con uno de tus planes y te digo que sí, te digo que sí con miedo. La noche de la carrera, en el Peugeot, iba con miedo. Todo lo hago con miedo. Pero lo hago. —Lo pensó un segundo y lo dejó como estaba—. Lo llevo de copiloto.
-
-—¿Y así estás bien?
-
-—Lo sigo intentando. —Volvió a la pulsera—. Por ahora creo que voy bien.
+—Con miedo. —Chiara soltó por fin la manija—. Así hago las cosas, Kal. Cuando me sales con uno de tus planes y te digo que sí, te digo que sí con miedo. La noche de la carrera, en el Peugeot, iba con miedo. Todo lo hago con miedo. Pero lo hago. —Lo pensó un segundo y lo dejó como estaba—. Lo llevo de copiloto.
 
 Kal tardó en contestar.
 
-—El miedo no es lo malo. Te dice que sigues viva. Mientras no te pare, sirve. —Se pasó el pulgar por el borde del volante—. He conocido a un par que no le tenían miedo a nada. No quieres conocerlos. Si tienes miedo, es que hay algo que te importa. Perderlo, echarlo a perder, lo que sea. Hay que estar atento. Nada más.
+—He conocido a un par que no le tenían miedo a nada. —Se pasó el pulgar por el borde del volante—. No quieres conocerlos. Si tienes miedo, es que algo te importa. Nada más.
 
 Chiara volvió a mirar el vestíbulo.
 

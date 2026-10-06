@@ -105,6 +105,24 @@
 
 ---
 
+## 4b. Resultado — SURGERY (2026-10-05)
+
+**Respuesta del autor:** aprueba las siete propuestas (L18-1, L18-2, L18-3 a L18-5 en bloque, M21-1 y M21-2). Héctor no se toca. Pide proteger en especial que "Lo llevo de copiloto" cierre sin que Kal lo evalúe.
+
+Se aplicaron tal como se proponen en §1 y §3, sin variantes:
+- **18:** −130 palabras.
+- **21:** −26 palabras.
+- **Sin cambios de estado:** el 18 y el 21 siguen TERMINADOS. Cada uno lleva su nota en la cabecera, y la línea del 2026-10-01 del 21 queda como registro.
+
+**Costuras verificadas:**
+- "Fue una frase." pasa a "La cargó toda la semana…".
+- "Las freno igual." pasa a "Kal siguió mirando…" y a la falda; luego "Con miedo." y la manija.
+- "Lo llevo de copiloto." pasa a "Kal tardó en contestar.".
+- "Eso último es lo peor" pasa a "Yo tardé más que tú" y al café.
+- "Lo de Michael fue difícil." pasa a "Chiara no dijo nada más sobre eso.".
+
+La lista para el frente 1 (§1, al final) sigue pendiente para esa sesión.
+
 ## 5. Autocrítica (MICROEDICION §F)
 
 - **Más dudas:** L18-5. "Te dice que sigues viva" puede ser frase de la fuente del autor. La metadata sólo dice "el miedo como señal de que algo importa", y eso se conserva.
