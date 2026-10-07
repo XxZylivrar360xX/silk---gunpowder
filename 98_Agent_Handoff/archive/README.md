@@ -41,6 +41,7 @@ Durante la compactación otra sesión agregó el Cap. 40. También se conservaro
 - Bitácora al terminar esa sesión: [[98_Agent_Handoff/archive/log_hasta_2026-09-21_cap40]]. Conserva también el registro completo del Cap. 40.
 
 - [[98_Agent_Handoff/archive/2026-09_sesiones]]: enlaces retirados del registro reciente.
+- [[98_Agent_Handoff/archive/2026-10_sesiones]]: enlaces de octubre retirados del registro reciente.
 
 ## Corte del 2026-10-03
 
