@@ -4,6 +4,7 @@
 
 **Qué es:** pista de carreras y caballerizas, propiedad de [[03_Factions/El_Casino]]. Chiara lo administra como parte del negocio, sin que sea suyo de la forma en que Bellandi Ridge sí lo es.
 **De quién es:** del Monarch — activo del casino, no de Chiara.
+**Dónde ([[99_Reference/location_references/mapa_san_aurelio.png|mapa definitivo]], CANON DEL AUTOR 2026-10-06):** punta oeste de La Isla, junto al Monarch, frente al océano. Al Hospital Santa Aurelia se llega por el Bulevar Corona y el Puente de Piedra: 25 min normal, 15–17 si Kal conduce al límite.
 
 ---
 

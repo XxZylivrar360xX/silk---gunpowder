@@ -16,7 +16,7 @@ Cada puerta es más cara que la anterior y lo que se paga deja de ser dinero par
 
 ## Duración (CANON DEL AUTOR)
 
-> **CALENDARIO (CANON DEL AUTOR 2026-10-06, supersede los "nueve días"):** Kal pasa **unos dieciséis días** preso. Navidad, Año Nuevo y su cumpleaños (1 ene) pasan sin él. La semana extra entra en el Cap. 45 (*Su red*: la prueba de vida tarda), y ahí cae la Navidad. 46 = jue 30 dic; 47 = vie 31 dic – sáb 1 ene; 48 = sáb 1 – lun 3 ene; 49–50 = lun 3 – mar 4 ene; 50b = mié 5 ene, alba. Los días de la semana citados en prosa no cambian. Las etiquetas D de la tabla de abajo, de 45 en adelante, se leen +7. La prosa (Navidad en el 45, Nochevieja y Año Nuevo en 47–48, "fin de mes" de Marisol en el 46) está pendiente de pasada. [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]].
+> **CALENDARIO (CANON DEL AUTOR 2026-10-06, supersede los "nueve días"):** Kal pasa **unos dieciséis días** preso. Navidad, Año Nuevo y su cumpleaños (1 ene) pasan sin él. La semana extra entra en el Cap. 45 (*Su red*: la prueba de vida tarda), y ahí cae la Navidad. 46 = jue 30 dic; 47 = vie 31 dic – sáb 1 ene; 48 = sáb 1 – lun 3 ene; 49–50 = lun 3 – mar 4 ene; 50b = mié 5 ene, alba. Los días de la semana citados en prosa no cambian. Las etiquetas D de la tabla de abajo, de 45 en adelante, se leen +7. Pasada de prosa del calendario hecha 2026-10-06 (DISEÑO, pendiente de lectura; detalle en la matriz, § Decisiones pendientes, 3). [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]].
 
 ~~Kal pasa **unos nueve días** en Camp Alder: arresto la noche de D4 (Cap. 43), regreso la noche de D13.~~ Se retira "Los Tres Días" como alegoría D4–D6. Solo POV de Chiara en todo el arco; no hay interludios de Kal.
 
@@ -86,6 +86,8 @@ Halbrook llega físicamente a San Aurelio al cierre del Libro I.
 - Cap. 50 (ubicación decidida por el autor 2026-10-02): la pregunta que sólo le haría a Kal, "Si no vuelve, ¿qué hago con esto?", llega como mensaje sin abrir en el semáforo; Chiara no contesta. **Hecho.** La respuesta queda para la apertura de *Sombras de Poder* y siembra que lo contrata como contador (CANON DEL AUTOR: Libro II, Garrett + Krane aíslan a Dario en finanzas limpiando la inyección de efectivo al Monarch).
 
 ## Cascada pendiente (no ejecutada)
+
+> **EJECUTADA (2026-10-06):** timelines (Libro I, Libro II e índice), Book Maps I y II, hitos (índice y Hitos.md, H19 y H20), ficha de Halbrook, ledger de revelaciones (cinco entradas, Rafe en la del Peugeot y "Unión invisible"), fichas de Dario, Mei-Lin, Mabel, Valenti y El_Casino, lugares nuevos en San_Aurelio, Nota Editorial y supersesiones #19, #25 y #50–#53 de [[00_Biblia/00_Trilogy_Structure]]. Sesión: [[98_Agent_Handoff/sessions/2026-10-06_claude_cascada_arco_final]]. Sigue abierto: el número del primer capítulo del Libro II y la redistribución de sus Partes.
 
 - *Sombras de Poder*: la coda del Libro II ya no es la llegada de Halbrook. **Redefinida (CANON DEL AUTOR, 2026-10-02):** reveal del embarazo en la chimenea de Villa Candelaria la noche de H1; ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]]. **La siguiente aparición de Halbrook en prosa tras el 50b es la gala de beneficencia de Chiara, con el baile (CANON DEL AUTOR, 2026-10-02).** Gala con Kenji presentándolos (Halbrook ya sabe quién es ella). Cobro de la deuda de Dario. Bravos y calor federal. Oferta del Monarch viva.
 - Cap. 45 del Libro II: la reconciliación ahora absorbe nueve días, no tres; Kal se entera de hasta dónde llegó Chiara.

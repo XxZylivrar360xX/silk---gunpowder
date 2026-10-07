@@ -91,14 +91,16 @@ Leyenda de la columna "Prosa": ✔ coherente · ○ muda (no marca estación) ·
 
 Ropa por bloque según la estación (sin diseñar prendas todavía):
 
-- **1–6 (sep–nov A1):** calor seco que se va enfriando. Capas ligeras; el abrigo de Chiara es estético, no necesario.
-- **7–11 (nov A1–feb A2):** lluvias templadas y noches frías. Es el único invierno largo del libro y hoy está **mudo** (11–13 no tienen ningún marcador).
+- **1–6 (sep–nov A1):** fin de verano caluroso que pasa al otoño de hojas (Oregon). Capas ligeras; el abrigo de Chiara es estético, no necesario.
+- **7–11 (nov A1–feb A2):** lluvia y heladas. Es el único invierno largo del libro y hoy está **mudo** (11–13 no tienen ningún marcador).
 - **12–18 (mar–jun A2):** primavera, luego gris de junio.
 - **19–31 (jun–sep A2):** pleno verano. Es el bloque natural del "Kal híbrido": camisa abierta, mangas remangadas.
-- **32–37 (sep–nov A2):** otoño seco y el saco sin corbata.
+- **32–37 (sep–nov A2):** otoño de hojas y viento; el saco sin corbata.
 - **38–50b (dic A2):** invierno. Abrigo vino de Chiara, frío de verdad. El abrigo gris ceniza de Kal sigue reservado para el Libro II.
 
 Los capítulos con ropa ya bien fijada (2, 5, 6, 18, 19, 28, 31, 36, 38, 40, 41) se contrastan contra esta tabla antes de tocar nada.
+
+**Pasada hecha (2026-10-06):** del 1 al 43 cuadra todo. En el 44–50b, CANON DEL AUTOR: saco con el abrigo vino encima en exteriores (45, 47, 50). Detalle en [[98_Agent_Handoff/sessions/2026-10-06_claude_vegetacion_101_vestuario]].
 
 ## Decisiones del autor
 
@@ -125,6 +127,6 @@ Los capítulos con ropa ya bien fijada (2, 5, 6, 18, 19, 28, 31, 36, 38, 40, 41)
 
 1. **Firma de otoño en 26–31:** dónde y cómo.
 2. **Libro II — PENDIENTE (autor, 2026-10-06):** reordenar las Partes ahora que cubre un año (hoy "Nieve y Ceniza" agrupa reconciliación → Navidad → F4 → incendio).
-3. **Pasada de prosa del calendario:** Navidad en el 45; Nochevieja y Año Nuevo en 47–48; "fin de mes" en el 46.
+3. ~~**Pasada de prosa del calendario**~~ — **HECHA 2026-10-06 (DISEÑO, pendiente de lectura).** 45: Rosaura no ve la etiqueta la primera semana; espera del 24 al 28 con días contados (Mabel niega con la cabeza, árbol del Monarch, Nochebuena sola, La Esquina cerrada el 25); etiquetas las noches del 27 y 28. 46: "diez días", Nadir "once", Navidad en la mentira de Héctor, "fin de año" (también en el 38, con "ese sábado"). 47: remolque "de una noche de Año Nuevo", "doce días" de Dario, cohete adelantado, "primero de enero" y una línea del cumpleaños (43). 48: La Esquina abre en Año Nuevo; luces de Navidad en Santa Brígida. 50: la boda del patrullero pasa a junio.
 3. **C:** ¿se siembra Navidad A1 y el 1 de enero como ausencia en la elipsis del Cap. 10?
 4. **D:** ¿se marca alguna de las fechas silenciosas?

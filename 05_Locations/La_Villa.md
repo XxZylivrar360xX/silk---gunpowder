@@ -22,7 +22,7 @@ El loft fue hogar descubierto; Villa es hogar reconstruido deliberadamente. Kal 
 
 ## Ubicación
 
-**Lomas de San Jacinto** no es el Distrito Marino. No es dinero nuevo, playa, cristal ni torre. Es norte residencial: calles curvas, jacarandas viejas, muros bajos, seguridad privada que no parece seguridad, casas grandes separadas por pendiente, y vistas largas hacia la ciudad.
+**Lomas de San Jacinto** no es el Distrito Marino. No es dinero nuevo, playa, cristal ni torre. Es norte residencial: calles curvas, arces viejos, muros bajos, seguridad privada que no parece seguridad, casas grandes separadas por pendiente, y vistas largas hacia la ciudad.
 
 Eso resuelve la lectura de clase:
 

@@ -3,14 +3,14 @@ Estado: BORRADOR — Parte III — Ardizzone, Cap. 47 (cuarto del arco final sin
 Título: PENDIENTE. "Intereses" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
 Personajes con diálogo: Héctor Navarro, Nadir Amrani, Danny Hayes, Garrett Cross, el hombre del Audi (sin nombre), Dario Varek, Lucía Varek (por teléfono).
-Ventana temporal: tarde y noche de D9 (viernes) y mañana de D10 (sábado). Sin encabezados de fecha.
-Calendario (CANON DEL AUTOR 2026-10-06: Navidad, Año Nuevo y el cumpleaños de Kal, sin Kal; confirmado por el autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]] § Decisiones): viernes 31 de diciembre (Nochevieja) y sábado 1 de enero (Año Nuevo y cumpleaños de Kal). La prosa todavía no lo registra; falta la pasada, con dirección del autor.
+Ventana temporal: tarde y noche de D9 (viernes 31 dic) y mañana de D10 (sábado 1 ene). Sin encabezados de fecha.
+Calendario (CANON DEL AUTOR 2026-10-06: Navidad, Año Nuevo y el cumpleaños de Kal, sin Kal; confirmado por el autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]] § Decisiones): viernes 31 de diciembre (Nochevieja) y sábado 1 de enero (Año Nuevo y cumpleaños de Kal). Pasada de calendario hecha 2026-10-06 (DISEÑO, pendiente de lectura): remolque "de una noche de Año Nuevo", último turno del año en el puerto, cohete adelantado, "doce días" de Dario, confeti y "primero de enero" en la mañana, y una línea del cumpleaños (43) sin glosa.
 Lugares: El Patio (portón, capó, camioneta lavada); Terminal Road y una bodega del Puerto Viejo con oficina en alto sobre los muelles; el despacho de Chiara en el Monarch.
 Función: CANON DEL AUTOR — Chiara concreta con El Patio la entrega de las armas largas y el pago a Dario; Dario exige intereses por el retraso, pagados por el barrio con trabajos; Chiara se niega y queda a deber personalmente un favor sin nombre que Dario cobra cuando quiera (Kal no lo sabe). Llama Lucía con la fecha del traslado. Cierre: el reloj.
 DISEÑO del agente, pendiente de lectura:
 - Apertura por residuo del 46: Nadir durmió por primera vez (en el sillón de la oficina); Chiara sigue con sus llaves. Marisol se va al monte el sábado; la conversación del 46 sigue fuera de página ("¿Qué le dijo?" / "La verdad." / "¿Toda?" / "La que había.").
 - El hombre del Audi no recoge nada: cita a Chiara esa noche en el Puerto Viejo, "con las cajas". Chiara decide que la grúa espera afuera del portón hasta que ella salga ("Si no salgo en una hora, se regresan").
-- Intereses: Dario mide el retraso (cinco días) en riesgo, no en dinero: la base está contando cajas. Pide el Patio "por un tiempo": grúas, taller, muchachos de La Almendra, mover lo que haga falta. Chiara se niega sin argumento moral, con la cuenta: ya pagaron, uno sigue pagando.
+- Intereses: Dario mide el retraso (doce días) en riesgo, no en dinero: la base está contando cajas. Pide el Patio "por un tiempo": grúas, taller, muchachos de La Almendra, mover lo que haga falta. Chiara se niega sin argumento moral, con la cuenta: ya pagaron, uno sigue pagando.
 - Favoritismo de Dario (ficha, DISEÑO 2026-08-26): "Cóbreselos a él cuando salga." / "A él no." Sin explicación; Chiara lo registra con conducta (mira la cicatriz), sin glosa.
 - Dario dice sin que se lo pregunten que no puede sacarlo ("Camp Alder no es San Aurelio"): siembra del límite del poder de Dario y abre la puerta a Valenti (49).
 - La deuda: "Un favor. El que usted elija, cuando lo elija." Dario lo nombra "cuenta abierta". Chiara pide que Kal no se entere; Dario: "De mí, no."
@@ -25,7 +25,7 @@ DISEÑO del agente, pendiente de lectura:
 
 La camioneta seguía contra la barda, con la trompa hacia el portón. Alguien le había quitado el termo del asiento del copiloto. La mochila seguía ahí.
 
-Chiara llegó a las cinco menos diez, por el mismo rodeo de la tarde anterior, y estacionó el Lancia del otro lado de la calle. Antes de bajar se tocó el bolsillo del saco. Las llaves de Nadir estaban donde las había dejado, con el llavero de cuero gastado. No las había sacado del saco, y esa mañana había vuelto a ponerse el mismo saco.
+Chiara llegó a las cinco menos diez, por el mismo rodeo de la tarde anterior, y estacionó el Lancia del otro lado de la calle. Antes de bajar se tocó el bolsillo del saco, por debajo del abrigo vino. Las llaves de Nadir estaban donde las había dejado, con el llavero de cuero gastado. No las había sacado del saco, y esa mañana había vuelto a ponerse el mismo saco.
 
 El Patio sonaba distinto. No mucho. El compresor estaba encendido en el fondo, un zumbido parejo, y alguien había cambiado la estación de la radio a una con locutor. Danny tenía medio cuerpo metido en el cofre de una pick-up y silbaba algo que no era ninguna de las canciones que sonaban.
 
@@ -119,7 +119,7 @@ Garrett había sacado una libreta del bolsillo de la camisa. No escribía en ell
 
 —¿Cómo quiere que lleguen? —preguntó.
 
-—En la grúa grande —dijo Chiara—. Con un coche arriba, como cualquier remolque de un viernes en la noche. Que se estacionen afuera del portón de la bodega, en la calle, con el motor prendido. Nadie se baja. Nadie entra. —Miró a Danny, después a Nadir—. Si no salgo en una hora, se regresan. Con todo.
+—En la grúa grande —dijo Chiara—. Con un coche arriba, como cualquier remolque de una noche de Año Nuevo. Que se estacionen afuera del portón de la bodega, en la calle, con el motor prendido. Nadie se baja. Nadie entra. —Miró a Danny, después a Nadir—. Si no salgo en una hora, se regresan. Con todo.
 
 —¿Y usted? —preguntó Danny.
 
@@ -163,7 +163,7 @@ Antes de irse, cruzó el Patio hasta el mostrador, sacó las llaves de Nadir del
 
 ---
 
-Terminal Road olía a diesel y a sal vieja. A esa hora la ruta de muelles seguía viva: camiones de doble remolque formados frente a la aduana con las luces de posición encendidas, montacargas cruzando de una bodega a otra con un pitido de reversa que no se callaba nunca, hombres de chaleco naranja fumando junto a las rejas. Las grúas del puerto, las de verdad, las que levantaban contenedores, estaban quietas contra el cielo, con una luz roja en la punta de cada pluma. Desde ahí la grúa grande del Patio, que en La Almendra era la máquina más grande de cualquier calle, parecía un juguete.
+Terminal Road olía a diesel y a sal vieja. A esa hora la ruta de muelles seguía viva: camiones de doble remolque formados frente a la aduana con las luces de posición encendidas, montacargas cruzando de una bodega a otra con un pitido de reversa que no se callaba nunca, hombres de chaleco naranja fumando junto a las rejas y mirando el reloj: era el último turno del año. Las grúas del puerto, las de verdad, las que levantaban contenedores, estaban quietas contra el cielo, con una luz roja en la punta de cada pluma. Desde ahí la grúa grande del Patio, que en La Almendra era la máquina más grande de cualquier calle, parecía un juguete.
 
 Chiara la vio por el retrovisor del Lancia cuando dio vuelta hacia las bodegas: los faros altos, el gancho recogido, un sedán blanco amarrado sobre la plataforma con las llantas calzadas. Detrás, a dos cuadras, un coche gris que no se acercó más.
 
@@ -191,7 +191,7 @@ El hombre del Audi bajó la escalera y cerró una puerta abajo. Dario le señal�
 
 —Completas.
 
-—Lo sé. Mercer cumple. —Lo dijo sin calor, como se dice de una máquina que no falla—. Me dijo el catorce y el catorce entró. Me dijo completas y van a estar completas. Lo único que no me dijo fue que yo iba a esperar cinco días.
+—Lo sé. Mercer cumple. —Lo dijo sin calor, como se dice de una máquina que no falla—. Me dijo el catorce y el catorce entró. Me dijo completas y van a estar completas. Lo único que no me dijo fue que yo iba a esperar doce días.
 
 —Lo arrestaron.
 
@@ -211,7 +211,7 @@ Lo dijo sin pena y sin orgullo, como un hombre que conoce el tamaño de su casa.
 
 Dario se apartó del ventanal. Rodeó el escritorio sin prisa, pasó la mano por el borde de la melamina como si comprobara que estaba limpia y se sentó del otro lado. No le volvió a ofrecer la silla.
 
-—Hace cinco días esas cajas eran mercancía —dijo—. Hoy la base las está contando. Cada noche que pasaron en tu barrio, alguien en Camp Alder estuvo haciendo una lista, y esa lista ya salió del estado. Recibirlas hoy me cuesta más que recibirlas el catorce. Recibirlas hoy es un riesgo que yo no pedí.
+—Hace doce días esas cajas eran mercancía —dijo—. Hoy la base las está contando. Cada noche que pasaron en tu barrio, alguien en Camp Alder estuvo haciendo una lista, y esa lista ya salió del estado. Recibirlas hoy me cuesta más que recibirlas el catorce. Recibirlas hoy es un riesgo que yo no pedí.
 
 —Puede no recibirlas.
 
@@ -369,11 +369,17 @@ Garrett no se movió. Después sacó la libreta del bolsillo de la camisa, la ab
 
 Se subió al coche. Bajó la ventanilla, pero no dijo nada más; esperó a que ella abriera la puerta del Lancia y pusiera la carpeta en el asiento del copiloto, y sólo entonces arrancó. En la avenida alcanzó las luces de la grúa y se fue detrás de ellas.
 
+Sobre la bahía reventó un cohete, adelantado por horas. Nadie en el muelle levantó la cabeza.
+
 ---
 
-El sábado amaneció nublado sobre el centro. Desde el despacho de Chiara, en el Monarch, se veía el Paseo Pacífica todavía mojado de la lluvia de la madrugada, los toldos de los cafés recogidos, un camión de reparto descargando cajas de agua mineral frente al hotel de enfrente.
+El primero de enero amaneció nublado sobre el centro. Desde el despacho de Chiara, en el Monarch, se veía el Paseo Pacífica todavía mojado de la lluvia de la madrugada, confeti pegado en las juntas de la banqueta, los toldos de los cafés recogidos, un camión de reparto descargando cajas de agua mineral frente al hotel de enfrente.
 
-El casino no sabía que era sábado. Abajo, en el piso de juego, nunca se sabía qué día era: no había relojes en ninguna pared ni ventanas en ningún salón, y la luz de las nueve de la mañana era la misma que la de las tres de la madrugada. Matteo decía que era lo más honesto del edificio. Chiara llevaba media hora con la misma hoja de turnos de seguridad sobre el escritorio, sin firmarla.
+El casino no sabía que era Año Nuevo. Abajo, en el piso de juego, nunca se sabía qué día era: no había relojes en ninguna pared ni ventanas en ningún salón, y la luz de las nueve de la mañana era la misma que la de las tres de la madrugada. Matteo decía que era lo más honesto del edificio.
+
+Kal cumplía cuarenta y tres años. Chiara no sabía si en Camp Alder había relojes.
+
+Llevaba media hora con la misma hoja de turnos de seguridad sobre el escritorio, sin firmarla.
 
 A las nueve y diez le vibró el teléfono. Un número que no tenía guardado.
 

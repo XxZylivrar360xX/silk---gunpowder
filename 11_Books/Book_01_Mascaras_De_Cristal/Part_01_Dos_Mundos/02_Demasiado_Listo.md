@@ -182,7 +182,7 @@ Matteo miró al chofer, luego a ella.
 
 Chiara asintió una vez. No era miedo. Era archivo.
 
-El Monarch Casino & Hotel se levantaba en el borde del Distrito Marino como una mentira recién lavada: fachada antigua restaurada, torre nueva encima, valet, palmeras, vidrio, banderas sin viento. El edificio tenía la arrogancia de los lugares que aún no han sido ensuciados por sus propios clientes.
+El Monarch Casino & Hotel se levantaba en la última punta de La Isla, de cara al océano, como una mentira recién lavada: fachada antigua restaurada, torre nueva encima, valet, palmeras de otro clima, vidrio, banderas sin viento. El edificio tenía la arrogancia de los lugares que aún no han sido ensuciados por sus propios clientes.
 
 El lobby estaba demasiado frío. El tipo de frío que los hoteles caros usan para fingir que el exterior no existe.
 
@@ -274,7 +274,7 @@ Sobre la mesa había carpetas con pestañas de colores: licencias, proveedores, 
 
 —La apertura privada sigue en pie —dijo Dario—. No vamos a moverla por nervios de proveedor.
 
-—No son nervios —dijo Matteo—. Son retrasos. La lavandería no confirmó capacidad para eventos dobles. Dos autos ejecutivos fallaron esta semana. Y el valet sigue sin entender que el Distrito Marino no es Las Vegas.
+—No son nervios —dijo Matteo—. Son retrasos. La lavandería no confirmó capacidad para eventos dobles. Dos autos ejecutivos fallaron esta semana. Y el valet sigue sin entender que La Isla no es Las Vegas.
 
 —El valet se reemplaza —dijo Tommaso.
 
@@ -306,7 +306,7 @@ El nombre no produjo nada en la mesa. Chiara notó justamente eso: no era un ape
 
 Dario abrió una carpeta sin prisa.
 
-—La Almendra no es el Distrito Marino.
+—La Almendra no es La Isla.
 
 —Por eso sirve —dijo Matteo—. Los problemas no se quedan en el distrito que los produce.
 

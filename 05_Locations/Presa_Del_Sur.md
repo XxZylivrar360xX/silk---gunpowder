@@ -5,7 +5,7 @@
 > **INCUBADORA — ciclo de Elenna (2026-09-16; reubicada 2026-10-03).** No es canon de los Libros I–IV. Pertenece a ***Hijos del Silencio* (Libro VI)** — ver [[11_Books/Book_06_Hijos_Del_Silencio/00_Book_Map]] y [[07_Ideas/Libro_04_Incubadora/README]].
 
 **Qué es:** represa masiva al sur de [[05_Locations/San_Aurelio]] que contiene el lago y regula el flujo hacia los canales que desembocan en la costa.
-**Dónde:** sur de San Aurelio, sin ficha de barrio fina todavía.
+**Dónde ([[99_Reference/location_references/mapa_san_aurelio.png|mapa definitivo]], 2026-10-06):** sureste de San Aurelio, al final de Las Calderas; el lago queda detrás de la presa, hacia el interior.
 **De quién es:** infraestructura pública/municipal.
 
 ---

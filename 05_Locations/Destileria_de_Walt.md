@@ -3,7 +3,7 @@
 *Ficha de Lugar — DISEÑO (2026-09-09), sobre el beat sembrado en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/11_El_Farol|Cap. 12]] y la escena de [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/26_Me_Encuentro_Bien|Cap. 27]]. Registra lo definido y marca lo que falta.*
 
 **Qué es:** una vieja bodega de granos reconvertida en destilería. [[02_Characters/Walter_Keegan|Walt]] hace whisky de maíz en alambique de cobre y lo añeja en barrica nueva; también saca un destilado blanco para tener caja mientras el otro madura.
-**Dónde:** borde industrial de [[05_Locations/San_Aurelio|La Almendra]], del lado del ramal de ferrocarril / el Canal Seco — donde el barrio se vuelve naves, patios de maniobra y bardas. **PENDIENTE** confirmar el punto exacto.
+**Dónde ([[99_Reference/location_references/mapa_san_aurelio.png|mapa definitivo]], CANON DEL AUTOR 2026-10-06):** borde este de [[05_Locations/San_Aurelio|La Almendra]], junto a las vías, por encima del Canal Seco. [Antes: borde industrial del lado del ramal de ferrocarril / el Canal Seco — donde el barrio se vuelve naves, patios de maniobra y bardas.]
 **De quién es (CANON DEL AUTOR, 2026-10-04):** de Walt, con [[02_Characters/Chiara_Bellandi|Chiara]] como **socia minoritaria** a título personal (su dinero, su firma; fuera de la dirección del casino). El Monarch es cliente con contrato de suministro, no socio. Pacto en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/11_El_Farol|Cap. 11]]. *Supera lo siguiente:* de Walt. [[02_Characters/Chiara_Bellandi|Chiara]] lo ayudó a comprarla (ver [[06_Relationships/Hitos#El torneo de poker|Cap. 12]] / ficha de Walt). Que ella tenga o no papel sobre el inmueble: **PENDIENTE** — la propuesta es que no, que sea de Walt y limpia, porque eso es exactamente lo que hace a Walt distinto (nadie le debe nada, él no le debe nada a nadie).
 
 ---
@@ -45,7 +45,7 @@ La destilería no es un "lugar donde se da información". Como La Esquina de Mab
 
 > **PENDIENTE (heredado de la ficha de Walt):** nombre propio. DISEÑO: Walt no le pondría nombre de fantasía. Candidatos — **"Keegan"** a secas en la etiqueta (rotulado a mano); *"Almendra"* / *"Mandorla"* (marca de barrio, rima con lo de El Patio y con el "Mandorla" de Chiara en el Cap. 9); o un nombre por **Jim**, su hijo — este último es golpe emocional y decisión tuya, no la tomo yo. Por ahora, en prosa: "la destilería de Walt" / "la bodega".
 
-> **PENDIENTE:** ubicación exacta. Propuesta: borde industrial de La Almendra hacia el ramal / Canal Seco. Alternativa: sobre la salida norte (Avenida Almendra hacia los talleres), más cerca del norte rural. Elegí la primera para mantenerla dentro del barrio de Walt.
+> **RESUELTO por el mapa (2026-10-06): borde este de La Almendra.** Propuesta anterior: borde industrial de La Almendra hacia el ramal / Canal Seco. Alternativa: sobre la salida norte (Avenida Almendra hacia los talleres), más cerca del norte rural. Elegí la primera para mantenerla dentro del barrio de Walt.
 
 > **PENDIENTE:** qué producía la bodega antes (propuesta: granos y forraje — encaja con el whisky de maíz y con el "olor a edificio viejo"). Confirmar o cambiar.
 

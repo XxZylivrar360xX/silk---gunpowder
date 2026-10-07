@@ -62,7 +62,7 @@ El teléfono sonó a las ocho y cuarenta y uno.
 
 —En el Pacífica. Piso once. Pregunte en la recepción por la suite de la esquina.
 
-Chiara no contestó enseguida. Miró por la ventana del despacho. Del otro lado del Paseo Pacífica, entre dos palmeras, estaba la fachada color arena del hotel de enfrente, con sus balcones de hierro y su letrero de letras doradas que alguien pulía cada mañana desde una canastilla. Lo veía todos los días. Había visto su letrero encenderse el sábado mientras esperaba que Mabel le llamara.
+Chiara no contestó enseguida. Miró por la ventana del despacho. Del otro lado del Paseo Pacífica, entre dos palmeras envueltas en arpillera por las heladas, estaba la fachada color arena del hotel de enfrente, con sus balcones de hierro y su letrero de letras doradas que alguien pulía cada mañana desde una canastilla. Lo veía todos los días. Había visto su letrero encenderse el sábado mientras esperaba que Mabel le llamara.
 
 —¿Desde cuándo está aquí?
 

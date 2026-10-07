@@ -4,7 +4,7 @@ Título: PENDIENTE. "Su nombre" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
 Personajes con diálogo: Mabel Ortiz, Bonnie García (por teléfono), Mei-Lin Zhao, Rafael "Rafe" Domínguez, Maribel Knox.
 Ventana temporal: mediodía de D10 (sábado) a mañana de D12 (lunes). Sin encabezados de fecha.
-Calendario (CANON DEL AUTOR 2026-10-06; confirmado por el autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]] § Decisiones): sábado 1 de enero (Año Nuevo y cumpleaños de Kal) al lunes 3 de enero. La Esquina abierta en Año Nuevo y el mercado de Santa Brígida todavía no lo registran; falta la pasada, con dirección del autor.
+Calendario (CANON DEL AUTOR 2026-10-06; confirmado por el autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]] § Decisiones): sábado 1 de enero (Año Nuevo y cumpleaños de Kal) al lunes 3 de enero. Pasada de calendario hecha 2026-10-06 (DISEÑO, pendiente de lectura): La Esquina abre en Año Nuevo con los desvelados del menudo; luces de Navidad medio fundidas en la plaza de Santa Brígida.
 Lugares: La Esquina de Mabel; la carretera del condado al sureste de Camp Alder (puente de un carril sobre la vía de la cementera); Santa Brígida (plaza, parroquia, mercado que se recoge, una cantina, La Golondrina, con cuarto del fondo y patio trasero).
 Función: CANON DEL AUTOR — el sur: Chiara contrata con Rafe Domínguez (Bravos de Santa Brígida, sembrado en el Cap. 13) el asalto al convoy del traslado. Mei-Lin en la mesa: siembra muda; informa a su contacto (por canon, Tommaso; Varek la absorbe en *Sombras de Poder*) y no se revela. Corregido 2026-10-03 (auditoría del arco, Q6): decía "informa a Dario". Cierre: pactado para la noche del traslado.
 Decisiones del autor en sesión (2026-10-02): el puente con Rafe es Mabel; el precio, además de lo que lleve el convoy, es el nombre de Chiara (en persona, sin intermediarios: rompe su método de redundancias y explica por qué su nombre entra al radar de Halbrook); el Patio no se entera.
@@ -23,7 +23,7 @@ DISEÑO del agente, pendiente de lectura:
 
 # Capítulo 48 — Su nombre
 
-La Esquina de Mabel los sábados no tenía turno de la mañana ni de la tarde. Tenía uno solo, largo, que empezaba con los del mercado a las seis y terminaba cuando Mabel apagaba la cafetera, y a mediodía estaba en su peor hora: todas las mesas ocupadas, dos familias esperando de pie junto a la vitrina, un niño llorando por un pan que no era el que había pedido.
+El primero de enero La Esquina de Mabel no tenía turno de la mañana ni de la tarde. Tenía uno solo, largo, que empezaba a las seis con los que todavía no se habían acostado y pedían menudo, y terminaba cuando Mabel apagaba la cafetera, y a mediodía estaba en su peor hora: todas las mesas ocupadas, dos familias esperando de pie junto a la vitrina, un niño llorando por un pan que no era el que había pedido.
 
 Chiara esperó en la puerta a que se desocupara el extremo de la barra. Tardó diez minutos. Nadie se lo ofreció antes y ella no lo pidió.
 
@@ -161,7 +161,7 @@ Mei-Lin no insistió. Una camioneta de la cementera apareció del otro lado del 
 
 Chiara dejó el Lancia a cuatro cuadras de la plaza, en el estacionamiento de un supermercado cerrado, y caminó.
 
-Santa Brígida a las nueve de la noche de un domingo olía a carne asada y a incienso. El mercado de la plaza se estaba recogiendo: hombres desarmando los puestos de lona, mujeres guardando la fruta que no se había vendido en huacales de madera, un perro esperando junto al puesto de los tacos a que alguien tirara algo. La parroquia tenía las puertas abiertas y la luz encendida adentro, y una señora barría las escaleras de la entrada con una escoba de vara. Todas las fachadas de la plaza estaban pintadas de colores distintos, y todos los negocios —la farmacia, la panadería, la tienda de vestidos de quinceañera, la ferretería— tenían la misma calcomanía chica en la esquina del vidrio de la puerta: un gallo negro.
+Santa Brígida a las nueve de la noche de un domingo olía a carne asada y a incienso. El mercado de la plaza se estaba recogiendo: hombres desarmando los puestos de lona, mujeres guardando la fruta que no se había vendido en huacales de madera, un perro esperando junto al puesto de los tacos a que alguien tirara algo. Entre los postes de la plaza seguían colgadas las luces de Navidad, la mitad fundidas. La parroquia tenía las puertas abiertas y la luz encendida adentro, y una señora barría las escaleras de la entrada con una escoba de vara. Todas las fachadas de la plaza estaban pintadas de colores distintos, y todos los negocios —la farmacia, la panadería, la tienda de vestidos de quinceañera, la ferretería— tenían la misma calcomanía chica en la esquina del vidrio de la puerta: un gallo negro.
 
 Mei-Lin caminaba un paso detrás de ella. No había preguntado si podía venir. Había dicho *él va a querer saber de dónde sale la ruta, y usted no sabe*, y era cierto.
 

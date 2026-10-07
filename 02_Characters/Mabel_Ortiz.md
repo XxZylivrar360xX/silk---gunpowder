@@ -136,6 +136,16 @@ También sirve para mostrar el límite moral de Chiara. Si Chiara usa a Mabel co
 
 ---
 
+## Arco final sin Kal — Caps. 45, 48 y 50 (BORRADOR, 2026-10-02)
+
+- **Cap. 45:** la red civil. Chiara llega a La Esquina a las 6:40; el cuchillo se detiene sobre la tabla. Durante la espera de la prueba de vida (Navidad), Mabel niega con la cabeza y La Esquina cierra el 25 (pasada de calendario 2026-10-06, DISEÑO).
+- **Cap. 48 — [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/48_Su_Nombre|Su nombre]]:** **es el puente con Rafe Domínguez (CANON DEL AUTOR).** DISEÑO: lo conoce de la cuadra de Santa Brígida donde creció ("Rafe dice muchas cosas desde que tenía doce años"). "No me digas para qué. Así no lo sé." Lleva el recado, no a la persona. Cierra **cobrándose la puerta**: le sirve el café a Chiara y no le acepta el billete ("De esto no cobro"). La red civil también paga.
+- **Cap. 50:** el recado de un muchacho de Rafe llega a la puerta de la cocina de La Esquina; Mabel se lo repite a Chiara tal cual ("Que en las camionetas no venía nadie. Que nomás cajas.") y entiende que buscaban a una persona: "No me digas quién" (eco del 48). Después: "Maneja despacio. A esta hora los de la patrulla andan aburridos." Chiara le habla de usted.
+- **Gesto de voz:** deja de mover las manos. En el arco salió cinco veces y la microedición lo dejó en las necesarias (C17, C29 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]]).
+- **Nombres cercanos:** Mabel, Maribel (Knox, de los Bravos) y Marisol coinciden en el 48. Sólo se anota, por si el autor quiere un apodo para Maribel.
+
+---
+
 ## Preguntas abiertas
 
 > **PENDIENTE:** nombre definitivo del local de Mabel. Candidato: **La Esquina de Mabel**.

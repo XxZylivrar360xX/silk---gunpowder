@@ -3,8 +3,8 @@ Estado: BORRADOR — Parte III — Ardizzone, Cap. 45 (segundo del arco final si
 Título: PENDIENTE. "Ropa limpia" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece salvo en una grabación de seguridad, de espaldas y sin cara.
 Personajes con diálogo: Kenji Oda, Mabel Ortiz, el recepcionista de noche de la Torre Norte, un guardia de seguridad (sin nombre), Bonnie García, Mei-Lin Zhao, Rosaura Quintero (nueva, DISEÑO: planchadora del turno de noche, comadre de Mabel).
-Ventana temporal: madrugada de D6 (horas después de Lucía, Cap. 44) hasta el amanecer de D8. Sin encabezados de fecha.
-Calendario (CANON DEL AUTOR 2026-10-06, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]): el capítulo absorbe la semana extra de custodia, del mié 22 a ~mié 29 dic; aquí cae la Navidad sin Kal. Prosa pendiente de pasada, con dirección del autor.
+Ventana temporal: madrugada de D6 (mié 22 dic, horas después de Lucía, Cap. 44) hasta el amanecer del mié 29 dic. Fechas en prosa sólo en la semana de espera (24–28 dic).
+Calendario (CANON DEL AUTOR 2026-10-06, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]): el capítulo absorbe la semana extra de custodia, del mié 22 a ~mié 29 dic; aquí cae la Navidad sin Kal. Pasada de calendario hecha 2026-10-06 (DISEÑO, pendiente de lectura): Rosaura no ve la etiqueta la primera semana; la espera (24–28 dic) va en una sección de días contados entre la grabación y Bonnie, con el gesto diario de Mabel, el árbol del Monarch, la Nochebuena sola en el penthouse y La Esquina cerrada el 25. Las etiquetas aparecen las noches del 27 y el 28.
 Lugares: la caja del Monarch al cierre del conteo; La Esquina de Mabel; recepción y cuarto de seguridad de la Torre Norte; el despacho que fue de Matteo; el estacionamiento de una lavandería industrial en el Alder Cutoff, junto a la pista de carga de Kingsley Field.
 Función: "Su red". Chiara pasa de la vía institucional (44) a la suya: i Sussurri (Kenji), la red civil (Mabel) y Bonnie con Mei-Lin. Lo que consigue es mínimo y verificable: una prueba de vida. Cierra sabiendo que está vivo y nada más.
 - Prueba de vida (DISEÑO, opción "lavandería" del plan): Camp Alder subcontrata la ropa con una lavandería industrial de Kingsley; las bolsas del calabozo llevan etiqueta por apellido. Rosaura ve "MERCER" dos noches seguidas y la ropa le llega doblada en cuadro. La deducción ("si mandan ropa a lavar, alguien se la está poniendo") es de ella, no del narrador. Nada sobre su estado, trato o salida.
@@ -161,7 +161,7 @@ Chiara dejó un billete debajo de la taza. Mabel lo vio y no dijo nada. Chiara s
 
 Mabel llamó a las cinco de la tarde.
 
-—Dice que mañana. Que hoy ya tiene apartadas las del bloque y que las va a mirar ella. Que la esperes a la salida del turno, del lado de la barda que da al Cutoff, no en la entrada. Y que no llegues en ese carro tuyo.
+—Dice que sí. Que las bolsas del calabozo las aparta ella y las mira ella, todas las noches. —Mabel dejó pasar un momento—. Que anoche no había ninguna con ese nombre. Si aparece, me avisa a mí.
 
 —Gracias, Mabel.
 
@@ -251,7 +251,25 @@ Chiara se quedó hasta que la barra de la pantalla llegó al final. Después le 
 
 ---
 
-Bonnie llegó al despacho a las once, y no llegó sola.
+A la mañana siguiente, a las seis y cuarenta, la campanita de La Esquina sonó y Mabel le puso el café en el extremo de la barra. Después la miró y movió la cabeza una vez, de un lado al otro.
+
+En el vestíbulo del Monarch habían puesto el árbol la semana anterior, cuatro metros de abeto natural con esferas doradas y blancas, y ahora alguien de mantenimiento lo regaba de madrugada con una manguera chica para que no se le cayeran las agujas antes de Año Nuevo. Los crupieres traían corbatas rojas. En las cajas, las cajeras tenían una bandeja de galletas de jengibre que nadie se comía. Kenji le deseó felices fiestas a cada cliente de la fila, con el mismo tono con que anunciaba un premio, y a ella sólo le dijo «Señora».
+
+El 24 cerró el despacho a las seis. Firmó los aguinaldos del turno de noche uno por uno, sin delegar ninguno. Cenó en el penthouse, de pie en la cocina, lo que le subieron del restaurante. A medianoche, en algún barrio del otro lado del puente, alguien encendió cohetes. Los vio desde la ventana de la cocina. No entró a la sala.
+
+El 25, La Esquina tenía la cortina abajo y un cartón pegado por dentro del vidrio, escrito con plumón: CERRADO. FELIZ NAVIDAD. Chiara se quedó un momento en la banqueta, con el abrigo vino cerrado hasta el cuello y el frío metido en las manos, y después regresó al Lancia.
+
+El 26, Mabel movió la cabeza.
+
+El 27, Lucía no llamó, y Krane llamó para decirle que no había nada nuevo, y que ésa era una forma de noticia.
+
+El 28 Mabel no movió la cabeza. Puso la taza en la barra, se limpió las manos en el delantal y se inclinó sobre el mostrador.
+
+—Dice que mañana —dijo, bajo—. A la salida del turno, del lado de la barda que da al Cutoff, no en la entrada. Y que no llegues en ese carro tuyo.
+
+---
+
+Bonnie llegó al despacho esa noche a las once, y no llegó sola.
 
 —Ella es Mei-Lin —dijo, desde la puerta—. Conoce Kingsley mejor que yo.
 
@@ -297,7 +315,7 @@ Mei-Lin se dio vuelta entonces. Miró a Chiara desde el ventanal, con la luz del
 
 Mei-Lin no retiró la pregunta. Tampoco insistió. Esperó.
 
-Chiara tenía una pluma en la mano. La dejó sobre el escritorio, alineada con el borde de la hoja fotocopiada que seguía ahí boca abajo desde hacía dos días, con el sello y las dos palabras.
+Chiara tenía una pluma en la mano. La dejó sobre el escritorio, alineada con el borde de la hoja fotocopiada que seguía ahí boca abajo desde hacía una semana, con el sello y las dos palabras.
 
 —A las cuatro, Bonnie —dijo—. Aquí abajo, en la salida de carga.
 

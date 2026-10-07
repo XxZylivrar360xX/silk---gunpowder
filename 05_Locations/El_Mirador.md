@@ -7,7 +7,7 @@
 **Qué es:** el único lugar de [[05_Locations/San_Aurelio]] desde donde se pueden ver las estrellas.
 **Dónde:** montaña arriba, en el norte de la ciudad — el último mirador de una serie, el que queda más alto.
 **Vista:** desde ahí, San Aurelio se ve como una postal estática.
-**Aspecto (dirección del autor, 2026-10-06; prosa en el Cap. 20, DISEÑO pendiente de lectura):** último apartadero de la carretera de montaña del norte, sin alumbrado; el asfalto se deshace en grava; borde bajo de piedra; matorral seco de ladera; un viento que abajo no hay. Mirando al sur: las torres del Distrito Marino sobre la costa a la derecha, Calle Corona al centro, La Almendra baja a lo largo de las vías a la izquierda, las grúas del Puerto Viejo al fondo y el mar como masa negra al oeste.
+**Aspecto (dirección del autor, 2026-10-06; prosa en el Cap. 20, DISEÑO pendiente de lectura):** último apartadero de la carretera de montaña del norte, sin alumbrado; el asfalto se deshace en grava; borde bajo de piedra; matorral seco de ladera; un viento que abajo no hay. Mirando al sur: a la derecha, el Distrito Marino sobre la costa y, más allá del agua, las torres de Punta Dorada en La Isla con la línea de luces del puente (ajustado al [[99_Reference/location_references/mapa_san_aurelio.png|mapa definitivo]], 2026-10-06); Calle Corona al centro, La Almendra baja a lo largo de las vías a la izquierda, las grúas del Puerto Viejo al fondo y el mar como masa negra al oeste.
 
 ---
 

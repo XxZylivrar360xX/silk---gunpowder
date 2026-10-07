@@ -5,7 +5,7 @@ Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal aparece
 Personajes con diálogo: Mabel Ortiz, una gerente de piso del Monarch, el valet de noche del Monarch, Kal Mercer (una línea). Sin diálogo: un muchacho de Rafe (en la puerta de la cocina de Mabel).
 Ventana temporal: noche de D13 (martes), de las siete de la tarde a pasada la medianoche (el apagón cae pasada la medianoche, CANON DEL AUTOR 2026-10-02). Sin encabezados de fecha.
 Calendario (CANON DEL AUTOR 2026-10-06, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]): martes 4 de enero.
-Lugares: La Esquina de Mabel, cerrada; Avenida Almendra y Calle Corona en el Lancia; la marquesina del Monarch sobre el Paseo Pacífica; el piso de juego sin ruido; la escalera de servicio de la Torre Norte; el penthouse a oscuras; La Almendra sin luz; el loft.
+Lugares: La Esquina de Mabel, cerrada; Avenida Almendra, Calle Corona, el Puente de Piedra y el Bulevar Corona en el Lancia; la marquesina del Monarch sobre el Paseo Pacífica; el piso de juego sin ruido; la escalera de servicio de la Torre Norte; el penthouse a oscuras; La Almendra sin luz; el loft.
 Función (CANON DEL AUTOR): el capítulo donde Chiara entiende que las circunstancias la aíslan. El asalto ocurre y falla para ella (los Bravos cobran, Kal no venía). Maneja derrotada al casino en el Lancia; al detenerse en la puerta se apaga el sur; monólogo en el Lancia con la línea del autor; sube al penthouse; frente a la foto del lago el monólogo sube; columna canon intacta; sale del Monarch con la foto; el loft; Beretta .25; vuelve la luz; Kal; "—Ciao, bella.".
 Canon literal respetado: la línea del Lancia, palabra por palabra (puntuación de prosa: puntos suspensivos y signos de interrogación como en el plan; dos réplicas con narración en medio y "ma dai" en minúscula y redonda, como el Cap. 8: aprobado por el autor, Q25 de la auditoría del arco, 2026-10-03). La columna en su orden exacto, sin alterar palabras; el material nuevo se teje entre líneas.
 DISEÑO del agente, pendiente de lectura:
@@ -30,7 +30,7 @@ A las diez y media Mabel volteó el letrero de la puerta y apagó la mitad de la
 
 Dejó encendida la de la barra. Subió las sillas a las mesas, patas arriba, una por una, y barrió debajo con la escoba de cerdas gastadas, juntando servilletas, una corcholata, un tenedor de plástico que alguien había partido en dos. No le pidió a Chiara que se moviera. Barrió alrededor del banco del extremo como se barre alrededor de una columna.
 
-Chiara estaba ahí desde las siete. Había llegado con el último turno de la cena, cuando la vitrina ya tenía más charolas vacías que pan, y se había sentado en el extremo de la barra con el saco puesto. Mabel le había servido café, después un plato de arroz con frijoles que ella se comió entero sin saber en qué momento, y después más café. A las nueve había entrado un patrullero a comprar cigarros sueltos y se le quedó viendo un segundo de más, y Mabel lo tuvo en el mostrador hablándole del calor y de la hija que se le casaba en diciembre hasta que el patrullero pagó y se fue.
+Chiara estaba ahí desde las siete. Había llegado con el último turno de la cena, cuando la vitrina ya tenía más charolas vacías que pan, y se había sentado en el extremo de la barra con el abrigo vino doblado en el banco de al lado y el saco puesto. Mabel le había servido café, después un plato de arroz con frijoles que ella se comió entero sin saber en qué momento, y después más café. A las nueve había entrado un patrullero a comprar cigarros sueltos y se le quedó viendo un segundo de más, y Mabel lo tuvo en el mostrador hablándole del frío y de la hija que se le casaba en junio hasta que el patrullero pagó y se fue.
 
 El billete seguía en el bolsillo interior del saco. Chiara lo había sentido toda la tarde contra el pecho, cada vez que se inclinaba sobre la taza.
 
@@ -106,7 +106,7 @@ La pantalla se apagó sola en su mano.
 
 Puso el teléfono boca abajo en el asiento y arrancó con el verde.
 
-Calle Corona estaba vacía como sólo estaba vacía los martes: las joyerías con las rejas abajo, los aparadores de las tiendas de trajes iluminados para nadie, un camión de basura detenido en doble fila con las luces naranjas girando. Desde cualquier esquina de Corona se veía la torre del Monarch. Chiara la vio crecer de esquina en esquina por el parabrisas, la Torre Norte encendida hasta el último piso, la franja de ventanas del penthouse prendidas porque nadie había entrado a apagarlas.
+Calle Corona estaba vacía como sólo estaba vacía los martes: las joyerías con las rejas abajo, los aparadores de las tiendas de trajes iluminados para nadie, un camión de basura detenido en doble fila con las luces naranjas girando. Al final de Corona empezaba el puente, y desde el puente se veía la torre del Monarch en la última punta de La Isla, más allá de Punta Dorada. Chiara la vio crecer por el parabrisas a lo largo de todo el Bulevar Corona, la Torre Norte encendida hasta el último piso, la franja de ventanas del penthouse prendidas porque nadie había entrado a apagarlas.
 
 Dio vuelta en el Paseo Pacífica. Las palmeras. Las banderas sin viento. Enfrente, el letrero dorado del Pacífica y, arriba, en el piso once, una ventana de esquina a oscuras con las cortinas abiertas.
 
@@ -244,7 +244,7 @@ Dejó el cigarro sobre la mesa, sin encender, junto al cuadro.
 
 ---
 
-El penthouse olía a cerrado. A la alfombra, al aire acondicionado apagado que todavía no empezaba a hacer calor, a la loción de las sábanas que cambiaban cada tres días aunque nadie durmiera en ellas. En el círculo de luz del teléfono se veía el sillón de la sala, el que daba a la ventana, con el cojín todavía hundido de un lado. El suelo de la sala, donde una noche dos personas comieron hamburguesas sentadas en la alfombra para no ensuciar un sillón ajeno. La mesa. El cuadro, y al lado el cigarro.
+El penthouse olía a cerrado. A la alfombra, al frío de una calefacción que nadie había prendido, a la loción de las sábanas que cambiaban cada tres días aunque nadie durmiera en ellas. En el círculo de luz del teléfono se veía el sillón de la sala, el que daba a la ventana, con el cojín todavía hundido de un lado. El suelo de la sala, donde una noche dos personas comieron hamburguesas sentadas en la alfombra para no ensuciar un sillón ajeno. La mesa. El cuadro, y al lado el cigarro.
 
 *Tiene buenos huesos.*
 

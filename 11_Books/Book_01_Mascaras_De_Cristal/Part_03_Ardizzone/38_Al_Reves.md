@@ -23,7 +23,7 @@ Función: celebración coral que se convierte en el gatillo del viaje a Palermo.
 - **LÍNEAS DEL AUTOR (2026-10-04, CANON DEL AUTOR; sustituyen a las inviolables "Me voy esta noche." / "Voy contigo."):** Chiara: **"Me queda una noche antes de irme."**; Kal: **"Bien. Entonces nos vamos a Italia."** Origen: el autor fecha el viaje en la víspera, con el mundo afuera en tormenta. Arrastre mínimo: "¿Esta noche?" / "Esta noche." → "¿Ésta?" / "Ésta."; "una vez antes de irme" → "una última vez" (eco). El resto del bloque, intacto. Material posterior de la misma fuente: PENDIENTE de ubicar.
 - **(Histórico) "Me voy esta noche."** Palermo esa misma madrugada. Motivo: "no sé si voy a regresar íntegra" (palabra preservada). La fiesta era también despedida privada; Chiara no canceló al recibir la amenaza. Kal: **"Voy contigo."** Inmediato, no posesivo; no impide, acompaña. H17 activado. Palermo NO escrito.
 - **Aeropuerto:** Kingsley Field, terminal privada, ~4:00 a. m., sin minuto exacto. Marisol llama (sigue despierta, de regreso de la fiesta). Líneas canon: "—Olvidé mencionarlo hace rato en la fiesta. Tengo que salir. Ya sabes. Negocios." / "—¿Negocios en sábado, qué...?" / "—Ahhhh, tu negocio es una bella y cariñosa italiana." / "—Marisol." / "—Te perdono solo porque cuando estamos enamorados, las explicaciones sobran." / última línea: **"—Espera... ¿cómo que estamos?"** Corte ahí, sin reflexión ni despegue.
-- Sembrado antes, en la fiesta: el fin de semana en el campo de Kal y Marisol a fin de mes, para que la llamada tenga de qué colgarse.
+- Sembrado antes, en la fiesta: el fin de semana en el campo de Kal y Marisol a fin de año, para que la llamada tenga de qué colgarse.
 - Dario presente, observa, habla poco, se va temprano; una sola línea sobre Kal y Chiara como unidad ("su gente"). No revela nada. Fabrizio cercano todavía (hace el brindis que habría hecho Matteo). Tommaso vivo, funcional, con los Ferretti. Matteo: su ausencia se siente en el brindis y en una pregunta de invitado; sin investigación.
 - Kenji y Marisol coinciden en una baranda — siembra mínima de su relación fuera de foco (canon 2026-09-10), sin desarrollo.
 - Registro: público sin afecto (Kal invitado especial, no anfitrión; no vigila a Chiara; no celos). Registro privado aflojado en proa y salón. Kal no se pone lírico; el narrador no glosa. Acotaciones: dijo / preguntó / contestó / repitió; sin adverbios en -mente en los tags.
@@ -117,15 +117,15 @@ Buscó a Kal con los ojos, lo encontró junto a Harper, y le hizo desde lejos un
 
 —¿Qué?
 
-—El campamento —dijo Marisol—. Fin de mes. ¿Sigue?
+—El campamento —dijo Marisol—. Fin de año. ¿Sigue?
 
 —Sigue.
 
-—¿"Sigue" de verdad o "sigue" de los tuyos, que significa que vas a tener un problema con una grúa justo ese viernes?
+—¿"Sigue" de verdad o "sigue" de los tuyos, que significa que vas a tener un problema con una grúa justo ese sábado?
 
 —Sigue de verdad.
 
-—Bien. —Marisol se volvió hacia Chiara como quien le entrega un expediente—. Testigo. Lo dijo delante de ti. Fin de mes, dos noches, sin teléfonos, y si le sale un problema con una grúa lo resuelve Walt.
+—Bien. —Marisol se volvió hacia Chiara como quien le entrega un expediente—. Testigo. Lo dijo delante de ti. Fin de año, dos noches, sin teléfonos, y si le sale un problema con una grúa lo resuelve Walt.
 
 —Walt tiene una destilería —dijo Kal.
 

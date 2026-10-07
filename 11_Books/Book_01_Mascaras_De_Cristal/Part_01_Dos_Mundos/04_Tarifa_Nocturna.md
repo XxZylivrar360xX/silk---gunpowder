@@ -5,7 +5,7 @@ Ventana temporal: lunes, mismo dia de la salida de Walt (Cap. 3), de la manana a
 Lugares: The Monarch Casino & Hotel, centro de San Aurelio (cafeteria frente a Plaza Corona), La Isla.
 POV: Chiara completo (fijado 2026-09-29, decision del autor). El remolque se ve desde la puerta de servicio: Chiara llega antes que la grua y mira a Kal trabajar; se retiraron las frases interiores de Kal y el salto de cabeza a media escena. Cierre nuevo: Chiara manda "La factura completa. Por favor." desde el penthouse y no hay respuesta. Se corto la linea opaca "Era la primera vez que quedaba del otro lado" (la sustituye el mensaje sin respuesta). Cafeteria del centro = La Esquina de Mabel (2026-09-29, decision del autor): primera aparicion de Harper Walker en prosa (en la maquina de espresso, nombrada por Mabel) y de Mabel vista por Chiara (deja de mover las manos cuando Blake dice lo de Roma). Chiara no sabe que es territorio de Kal. Ubica a Mabel en la frontera Calle Corona / La Almendra, a unas cuadras de Plaza Corona. Secuela fisica del trabajo del Tasador (Cap. 3): Chiara ve a Kal cuidar el hombro derecho al bajar el gancho y no pregunta; en el 5 se nombra la causa (cadena del Buick en la descarga). DISEÑO del agente a pedido del autor. La coda Kal/Nadir (Mabel, "El problema llamo", contacto guardado como Bellandi) paso a abrir el Cap. 5.
 Traslado (2026-09-29, decision del autor en la reapertura del Cap. 3): el bloque de Chiara que cerraba el Cap. 3 (titular de Keene, torneo de poker y roce con Tommaso, salida al centro, Blake y la invitacion a La Isla) abre ahora este capitulo, integro y sin pulir; el 3 queda en POV Kal y el POV compartido deliberado se reserva para el Cap. 5. Pendiente: pasada de pulido del bloque trasladado dentro de la economia del 4.
-Textura (2026-09-29, a pedido del autor): del telefono a Kal hasta el cierre se anadieron beats fisicos y de ambiente (sonido del otro lado de la llamada, trayecto por Terminal Road, trasera del Monarch, luces ambar de la grua, cabina, penthouse a oscuras con las torretas de Plaza Corona). Ningun dialogo se toco. DISENO del agente.
+Textura (2026-09-29, a pedido del autor): del telefono a Kal hasta el cierre se anadieron beats fisicos y de ambiente (sonido del otro lado de la llamada, trayecto por la costera sur de La Isla, trasera del Monarch, luces ambar de la grua, cabina, penthouse a oscuras con las torretas de Plaza Corona). Ningun dialogo se toco. DISENO del agente.
 Escalon relacional: Cap. 2 "quiza pueda obtener algo de el" -> Cap. 4 "lo llame y aparecio" (prueba practica no autorizada: "tenia razon sobre el") -> apertura del Cap. 5, reunion privada sin socios ("ya lo obtuve"; anadida 2026-09-29, autor) -> Cap. 5 "quiero seguir hablando aunque no necesite nada".
 Dialogo K/C reescrito (2026-10-03, direccion del autor: respeto; los dos quieren algo del otro sin saberlo del todo ni tener confianza para decirlo; el favor no le sirve a Chiara y la empuja a fijar terminos en el 5). DISENO del agente, BORRADOR pendiente de lectura; ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I.md §7. Llamada: fuera "Eso dice el letrero", "No pregunte donde esta usted" y "Un diagnostico"; entran "¿Lo desperte? / Ojala", "Su mesa me dijo que no", el malentendido "¿Y usted?" (ella contesta lugar; el pregunta quien llama), la respuesta que ella esquiva y que el no cobra. Ventanilla: fuera "Entretenimiento / Ensenable"; Kal se niega a facturar "lo demas" y le da "una que pueda ensenar"; lo otro queda fuera de la hoja. Cierre: "hizo una sola pregunta que importaba. Ella no la contesto. El no la repitio." El mensaje "La factura completa. Por favor." ahora reclama lo no facturado.
 Funcion: abrir el dia de Chiara (Keene como comunicado, Tommaso, Blake) y mostrar el primer favor bajo la mesa, el error funcional de Blake y la incomodidad de Chiara al aceptar ayuda de Kal.
@@ -543,7 +543,7 @@ Le sirvió.
 
 ***
 
-El taxi tomó Terminal Road con las ventanas cerradas y un pino de cartón colgando del espejo. Del lado del mar pasaban contenedores apilados bajo luz de sodio, naranja y sucia, y camiones dormidos con la cabina a oscuras. El Monarch apareció primero como resplandor, luego como edificio, y al final, cuando el taxi dio la vuelta hacia servicio, como lo que era por detrás: concreto, extractores, un contenedor de basura con la tapa abierta.
+El taxi tomó la costera sur de La Isla con las ventanas cerradas y un pino de cartón colgando del espejo. Del lado del mar pasaban los muelles de las marinas bajo luz de sodio, naranja y sucia, lanchas tapadas con lona y camiones de reparto dormidos con la cabina a oscuras. El Monarch apareció primero como resplandor, luego como edificio, y al final, cuando el taxi dio la vuelta hacia servicio, como lo que era por detrás: concreto, extractores, un contenedor de basura con la tapa abierta.
 
 El taxi la dejó en la rampa de servicio catorce minutos después de la llamada.
 
@@ -745,7 +745,7 @@ Matteo se acercó a Chiara, guardando por fin el teléfono.
 
 —Dario no.
 
-Chiara miró hacia la salida de carga, donde las luces de la grúa se perdían en Terminal Road.
+Chiara miró hacia la salida de carga, donde las luces de la grúa se perdían rumbo al puente.
 
 —Entonces mañana sabrá que alguien sí trabajó. Ciao, tesoro.
 
@@ -755,7 +755,7 @@ La factura iba a llegar enseñable, y ella la iba a pagar el mismo día. Eso era
 
 Lo que no iba a aparecer en ninguna hoja era que un hombre al que esa misma mesa había rechazado contestó al tercer tono, llegó en veinte minutos e hizo una sola pregunta que importaba. Ella no la contestó. Él no la repitió.
 
-Ya en el penthouse, con los tacones en la mano y el abrigo todavía puesto, no encendió las luces. Por el ventanal, San Aurelio se veía entera y quieta: la costa iluminada, el puerto, y más adentro, donde terminaban los hoteles, las torretas que seguían girando alrededor de Plaza Corona.
+Ya en el penthouse, con los tacones en la mano y el abrigo todavía puesto, no encendió las luces. Por el ventanal, San Aurelio se veía entera y quieta: las torres de Punta Dorada, el puente encendido sobre la bahía, el puerto del otro lado y, más adentro, donde terminaban los muelles, un punto de luces que seguían girando alrededor de Plaza Corona.
 
 Sacó el teléfono.
 

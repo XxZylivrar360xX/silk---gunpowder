@@ -10,6 +10,7 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Se siembra en:** primeras escenas del barrio viendo llegar o hablar de Chiara sin explicarlo.
 - **Quien ya lo sabe:** al principio nadie; despues, La Almendra como comunidad.
 - **Quien NO debe saberlo/insinuarlo todavia:** Dario, socios del Monarch, policia, prensa y Varek hasta que exista escena concreta de sospecha.
+- **ACTUALIZADO (2026-10-06, cascada del arco final; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]], § 5 de E3):** el arco 44–50b ya contiene esas escenas concretas, así que la línea de arriba vale sólo para la prosa anterior al 44. **Dario** lo ve en el 47: Chiara paga por Kal con una deuda personal, y él contesta "A él no". **Lucía** lo registra en el 44 y el 47 (H20: lo suyo excede los negocios). **Los Bravos** (48) y **Valenti/Il Consorzio** (49) saben que Chiara se mueve por Kal. **Halbrook** tiene fotos de los dos (50b). Siguen sin saberlo, o sin decirlo: los socios del Monarch, la policía como institución y la prensa. Nadie la **nombra** en voz alta todavía: la regla de líneas prohibidas sigue vigente.
 - **Primera grieta permitida (decision del autor 2026-09-09):** el testimonio de Chiara en el litigio civil del concesionario, [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24_Bajo_Juramento|Cap. 24]]. En contrainterrogatorio queda en **registro semipúblico** que ve a Kal "con frecuencia", que la relación es "cercana" y que tiene "razones personales" para quererlo ver ganar; más el titubeo "mi... amigo". Es siembra deliberada: ese expediente es un rastro que Varek, Tommaso o un tercero pueden recoger después. El beat "mi... amigo" NO se corta.
 - **Lineas o gestos prohibidos:** terceros nombrando la relacion antes de que la union invisible este sembrada como costumbre social; que alguien **complete** la sospecha del Cap. 24 en voz alta antes de la escena que el autor decida para eso.
 - **Estado:** primera grieta colocada en prosa (Cap. 24); pago pendiente.
@@ -86,6 +87,8 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 
 - **Estado (actualizado 2026-09-01):** primer pago parcial escrito en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/13_Auster|Capítulo 13, *Auster*]]. La policía (Lucía Varek, subjefa) construye un caso formal contra el conductor del Peugeot con dos sospechosos: Rafael "Rafe" Domínguez ([[03_Factions/Los_Bravos_de_Santa_Brigida]]) y Kal. Chiara arma la verdad completa cruzando tres piezas de su red y siembra duda razonable (un corredor de piezas del norte que paga en efectivo). El caso se cae; Kal declara con una coartada real a medias. **Blake sigue sin enterarse — las tres opciones de arriba siguen abiertas.** Rafe Domínguez queda cargando la sospecha sin resolver, sin que nadie salde esa deuda todavía — costo pendiente, no gratis.
 
+> **Rafe cargó el nombre de Kal y no lo sabe (añadido 2026-10-06, cascada del arco final):** en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/48_Su_Nombre|Cap. 48]], Chiara contrata a Rafe para el asalto al convoy. Él cargó la sospecha del Peugeot por Kal en el 13 y no lo sabe. Chiara sí lo sabe y lo calla (la culpa queda en su interioridad, sin glosa). **Quién NO debe saberlo:** Rafe y los Bravos. **Revelación posible para un libro posterior (DISEÑO):** si Rafe ata el cabo, la deuda del 13 se vuelve munición contra Chiara, y se suma a lo que ya carga por el convoy federal. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]], "Deudas heredadas".
+
 > **Primera alarma aislada (añadida 2026-09-02):** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/12_Roma_Atrii|Capítulo 12]], antes del caso formal, un hombre no identificado pregunta en el piso del Monarch por "un Peugeot rojo, tuneado" — paga en efectivo, no juega una sola mano, se va. Es lo que le da a Chiara la urgencia para mandar el papel con el mensajero menor en vez de esperar a la noche. **PENDIENTE:** si este hombre es el mismo caso que arma Lucía Varek semanas después (un explorador temprano) o un hilo distinto sin resolver — no confirmar sin decisión del autor. **Cirugía 2026-09-26:** el lector ya no lo ve en narración; lo sabe sólo por Chiara, en su diálogo con Kal ("alguien preguntó por tu coche en mi propio piso… pagó en efectivo y no jugó una sola mano"). Se perdieron "mesa dos" y "de los viejos, tuneado", que nadie cobraba.
 
 ---
@@ -139,3 +142,60 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Deuda abierta junto a esto:** el precio del falso testimonio de Tommaso (Cap. 24) queda instalado y sin cobrar; Nadir lo usa como detonante.
 - **Estado:** sembrado, sin pagar.
 
+---
+
+## Arco final sin Kal (Caps. 44–50b) — entradas añadidas en la cascada (2026-10-06)
+
+> Origen: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]], § 5 de E3. El orden en que el lector se entera ya está verificado allí y no adelanta nada. Los ocho capítulos están en BORRADOR.
+
+## El convoy señuelo y el nombre en el radar de Halbrook
+
+- **Qué es:** el convoy del traslado de Kal es un señuelo de Halbrook para ver quién está dispuesto a cometer un crimen por Kal (CANON DEL AUTOR, 2026-10-01). Kal no va en él. Los Bravos lo asaltan y cobran; Chiara no se lleva nada, y su nombre entra en el radar.
+- **Se siembra en:** el 47 (Lucía da la fecha y la ruta de buena fe: "el martes en la noche, por tierra") y el 48 (Maribel anota "Chiara Bellandi"). En el 50 Mabel le da la noticia: el convoy iba vacío. En el 50b la foto del puente de la cementera lleva "Chiara Bellandi" a lápiz al reverso.
+- **Quién lo sabe:** Halbrook. El lector ve el nombre escrito y la sonrisa, pero no la mecánica.
+- **Quién NO debe saberlo todavía:** Chiara, Kal y Lucía. Lucía no sabe que transmitió un cebo, y en el Libro I no se insinúa.
+- **Pago:** la gala de beneficencia de *Sombras de Poder*. Halbrook baila con Chiara sabiendo quién es, y ella sólo lo sabe cuando Kenji los presenta (CANON DEL AUTOR, 2026-10-02).
+- **Prohibido en el Libro I:** nombrar a Halbrook; decir en voz alta que el convoy fue una prueba; conectar el apagón con la liberación.
+- **Estado:** sembrado, sin pagar.
+
+---
+
+## La cuenta abierta con Dario
+
+- **Qué es:** para que el barrio no pague con trabajo los intereses del retraso de las armas largas, Chiara queda debiéndole a Dario un favor sin nombre ("El que usted elija, cuando lo elija"). Dario lo llama "una cuenta abierta" (Cap. 47, CANON DEL AUTOR).
+- **Quién lo sabe:** Dario, Chiara, el lector y Garrett, que conoce la forma de la deuda y se la calla ("Entonces tampoco por mí").
+- **Quién NO debe saberlo:** Kal. Chiara pide que no se entere, y Dario contesta "De mí, no". El Patio tampoco lo sabe.
+- **Gesto que no se explica:** "Cóbreselos a él cuando salga." / "A él no." Es el favoritismo de Dario por Kal, sin glosa.
+- **Pago:** Dario lo cobra en *Sombras de Poder*, rumbo a H1 (CANON DEL AUTOR). Choca a propósito con el frente "Chiara contra el dinero de Dario" (Garrett y Krane), registrado en [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]].
+- **Estado:** sembrado, sin pagar.
+
+---
+
+## La oferta del Monarch
+
+- **Qué es:** Valenti le niega a Chiara la ayuda del Consorzio para Kal ("interesante, aún irrelevante") y le ofrece mover los hilos para que sea dueña legítima del Monarch, lo que implica quitárselo a Dario (Cap. 49, CANON DEL AUTOR). Ella no contesta. Su respuesta muda es irse del penthouse esa misma noche, en el 50 (DISEÑO).
+- **Quién lo sabe:** Chiara, Valenti, Il Consorzio y el lector.
+- **Quién NO debe saberlo todavía:** Dario y Kal. No se sabe cuándo se entera Dario (Q24, PENDIENTE).
+- **Pago:** PENDIENTE (Q24 y D18). Qué hace Chiara con la oferta y cómo convive con su arco de *El Faro* ([[03_Factions/El_Casino]]).
+- **Estado:** sembrado, sin decidir.
+
+---
+
+## La grabación borrada y el fotograma
+
+- **Qué es:** la víspera del arresto, Kal subió al pasillo del penthouse y no tocó. Chiara lo ve en la grabación de seguridad de la Torre Norte y dice "Bórrela" (Cap. 45). En el 50b, Halbrook tiene un fotograma impreso de esa misma grabación: de espaldas, con chaqueta oscura y la mano a medio levantar. El narrador sólo dice que la grabación ya no existía.
+- **Quién lo sabe:** Chiara (sólo lo del pasillo) y el lector (las dos cosas).
+- **Quién NO debe saberlo todavía:** Kal, que no sabe que ella lo vio. Ni Chiara ni nadie sabe que alguien sacó copia antes del borrado.
+- **Pago (DISEÑO):** prueba de que Halbrook tiene acceso a los sistemas del Monarch, o a alguien dentro. Hay que darle límites legibles en *Sombras de Poder* (deuda del Book Map del II: "formidable, no omnisciente").
+- **Prohibido:** explicar en el Libro I cómo llegó el fotograma a la carpeta.
+- **Estado:** sembrado, sin pagar.
+
+---
+
+## Mei-Lin informa a su contacto
+
+- **Qué es:** en la mesa de los Bravos (Cap. 48), Mei-Lin deja señales mudas que se leen en relectura: pregunta quién le dijo "por tierra"; "¿Tú de quién eres?" / "De nadie."; mira la libreta de Maribel; se va caminando hacia el sur sin esperar el camión. Su contacto es, por canon, **Tommaso**. Varek la absorbe en *Sombras de Poder*, después de matarlo ([[02_Characters/Mei_Lin_Zhao]]). El plan decía "informa a Dario"; se corrigió el 2026-10-03 (A11).
+- **Quién lo sabe:** el lector, en relectura. Nadie en escena.
+- **Quién NO debe saberlo:** nadie antes de la muerte de Tommaso; la ficha de Tommaso pide no mostrar que Mei-Lin informa. Ni el 50 ni el 50b dependen de que Dario sepa del asalto.
+- **Pago:** F2, en *Sombras de Poder*.
+- **Estado:** sembrado (siembra muda), sin pagar.

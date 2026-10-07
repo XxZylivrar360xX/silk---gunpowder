@@ -39,8 +39,8 @@ Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni
 | 17 | **H13** — El pañuelo *(Il Consorzio la intercepta saliendo de la iglesia; el pañuelo y la bala; gatillo del viaje a Palermo)* |
 | 18 | **H17 — Italia / Mesa de las Familias** *(viajan juntos a Palermo; la Mesa golpea la relación)* |
 | 19 | **H18 — El regreso de Palermo** *(vuelven separados y con fricción; sin ruptura)* |
-| 20 | **H19 — El asalto a Camp Alder** *(Kal no entra a ver a Chiara para poder cumplir la misión; se entrega para cubrir a Héctor y Nadir)* |
-| 21 | **H20 — Consecuencia: Halbrook / prisión militar / Lucia** *(Halbrook lo saca por un trato; Chiara acude a Lucia, que registra que lo suyo excede los negocios)* |
+| 20 | **H19 — El asalto a Camp Alder** *(Kal no entra a ver a Chiara para poder cumplir la misión; cubre a los suyos y se queda; detención municipal y luego reclamación federal — Cap. 43)* |
+| 21 | **H20 — Consecuencia: Halbrook / prisión militar / Lucia** *(arco final sin Kal, Caps. 44–50b: Chiara agota todos sus recursos; Lucia registra que lo suyo excede los negocios; convoy señuelo; el apagón de Halbrook saca a Kal; "Ciao, bella" en el 50; Halbrook llega a San Aurelio en el 50b)* |
 
 **Orden vigente — CANON DEL AUTOR 2026-09-20, libros reasignados 2026-09-22:** incendio de H8 cierra Sombras de Poder/I → F4 abre Sombras de Poder/II → F3 → F2 (Mei-Lin y Bonnie el mismo día) → componente Villa de H8 → Stavanger/anillo → Sombras de Poder/III / embarazo / H1. **SUPERSEDIDO:** bloque indivisible F4 → F3 → H8 y su posición pendiente respecto a Camp Alder/H21. Los IDs se conservan.
 
@@ -2388,6 +2388,8 @@ Kal es arrestado bajo **jurisdicción militar / federal**. Abre la consecuencia 
 # H20 — Consecuencia: Halbrook / prisión militar / Lucia
 
 > **SUPERSEDIDO EN PARTE (2026-10-01, CANON DEL AUTOR):** H20 se ejecuta como arco de siete capítulos (Chiara agota institución, red, El Patio, Dario, los Bravos y Valenti; convoy señuelo de Halbrook; apagón = salida de Kal). Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
+>
+> **EJECUTADO EN PROSA (2026-10-02, BORRADOR; microedición E6–E8 cerrada 2026-10-05; calendario 2026-10-06):** Caps. 44 *Jurisdicción* → 50 *A oscuras* y 50b *La tierra bajo sus botas*. Lo que cambia respecto de lo de abajo: (1) Lucía entra al principio de la cadena (44: "Ya no lo tiene la ciudad", dicho por Chiara; "Puedo averiguar si lo trasladan") y vuelve en el 47 con la fecha del traslado, de buena fe; no es el último recurso. (2) **Halbrook sí pisa San Aurelio**: aterriza en Kingsley Field al alba del 50b, sin nombre ni diálogo. El apagón sigue siendo suyo y la revelación sigue reservada para *Voto de Ceniza*. (3) "Ciao, bella" cierra el Cap. 50; el 50b cierra el libro. (4) Kal pasa unos dieciséis días preso (domingo 19 de diciembre al miércoles 5 de enero, madrugada). Auditoría: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]].
 
 > **CANON DEL AUTOR (2026-08-29).** Sigue directamente a [[#H19 — El asalto a Camp Alder]]. **ID: H20** (asignado 2026-08-29).
 
@@ -2397,7 +2399,7 @@ Kal es arrestado bajo **jurisdicción militar / federal**. Abre la consecuencia 
 
 Canon (2026-08-29, autor): lo que Kal extrajo para Halbrook durante el asalto es **un expediente clasificado de un soldado ajeno a la trama del libro** (ver [[#H19 — El asalto a Camp Alder]], "El encargo de Halbrook"). Después del arresto, **Halbrook comercia con esa entrega** — su valor, y lo que implica que Kal la tenga — para negociar su salida.
 
-> **RESUELTO (2026-09-21, CANON DEL AUTOR):** no hay trámite. Halbrook **no pisa San Aurelio**; **el apagón del sur es obra suya** desde fuera. Lo que quería del expediente era **leer un nombre**; lo consigue y **devuelve el expediente** a la base ("recupere esto; aquí no pasó nada"): sin cuerpo del delito no hay caso, y Kal sale por la ventana del apagón. **Kal sólo sabe:** se fueron las luces, una bolsa de tela, y de repente estaba en el loft. **Toda la revelación se reserva para *Voto de Ceniza*** — en Libro I ni Kal, ni Chiara, ni Lucía, ni el lector conectan apagón y liberación. El autor tiene planes para el cobro de este pago. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]], "Halbrook — la liberación".
+> **RESUELTO (2026-09-21, CANON DEL AUTOR):** no hay trámite. Halbrook **no pisa San Aurelio** *(superado 2026-10-01: vale hasta el apagón; llega en el Cap. 50b)*; **el apagón del sur es obra suya** desde fuera. Lo que quería del expediente era **leer un nombre**; lo consigue y **devuelve el expediente** a la base ("recupere esto; aquí no pasó nada"): sin cuerpo del delito no hay caso, y Kal sale por la ventana del apagón. **Kal sólo sabe:** se fueron las luces, una bolsa de tela, y de repente estaba en el loft. **Toda la revelación se reserva para *Voto de Ceniza*** — en Libro I ni Kal, ni Chiara, ni Lucía, ni el lector conectan apagón y liberación. El autor tiene planes para el cobro de este pago. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]], "Halbrook — la liberación".
 
 ## Chiara busca a Lucia
 
@@ -2415,6 +2417,8 @@ Lucia **no necesita preguntar "¿son novios?".** Lo registra y observa — eso e
 
 > **SIEMBRA ESCRITA (2026-09-20, Claude Code):** el canal por el que Chiara puede acudir a Lucia queda sembrado en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Cap. 32 — Línea directa]]: Lucia le deja a Kal su línea directa después de que él le entrega un dato verificable sobre Los Bravos. Chiara se entera de que el canal existe en la coda de ese mismo capítulo, mucho antes de Camp Alder — así que acudir a Lucia aquí no depende de una coincidencia, sino de algo que Chiara ya sabía que existía.
 
+> **HISTÓRICO (superado por la nota del 2026-10-02 de arriba):** la versión de un solo capítulo que describe este bloque se rehízo como arco 44–50b; *A oscuras* es hoy el Cap. 50 y no cierra la Parte III.
+>
 > **EJECUTADO EN PROSA (2026-09-22, Claude Sonnet 5).** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/50_A_Oscuras|Cap. 44 — A oscuras]], `Estado: BORRADOR`, **cierra la Parte III**. Mecanismo concreto: Chiara llega a Lucía por memoria, no por hallazgo en ningún expediente — recuerda que Kal le mencionó la línea directa de Cap. 32 — y acude a ella sólo después de agotar abogados, dinero, contactos e influencia. Lucía confirma custodia municipal → reclamo federal → Camp Alder ("Ya no lo tiene la ciudad"), no puede intervenir; su lectura de que esto excede los negocios se muestra por conducta externa, nunca narrada desde su interior. H20 ejecutado hasta el regreso inexplicado de Kal (apagón, penthouse, loft, "Ciao, bella"); la explicación de Halbrook y la reconciliación quedan para el Cap. 45. Corrección quirúrgica el mismo día: cronología cerrada en D5→D6 sin D7, y se retiró el microcanon de Lucía firmando la transferencia.
 
 ---

@@ -107,8 +107,9 @@ Debe desarrollar de forma suficiente:
 - la presión temprana de Il Consorzio sobre Chiara (H13, Palermo) sin convertirlo todavía en antagonista principal de volumen;
 - la salida de Matteo y el aislamiento progresivo de Chiara (Fabrizio se distancia, Tommaso queda en riesgo);
 - F1 — la mentira bajo la lluvia — y su reconciliación parcial;
-- H19/H20 — Camp Alder y el fracaso de los recursos de Chiara para liberar a Kal;
-- la liberación inexplicada de Kal (mecanismo reservado a *Voto de Ceniza*) y el reencuentro — **"Ciao, bella"**.
+- H19/H20 — Camp Alder y el fracaso de los recursos de Chiara para liberar a Kal; desde 2026-10-01, H20 es el **arco final sin Kal** (Caps. 44–50b): institución, red, El Patio, Dario, los Bravos e Il Consorzio, cada puerta más cara que la anterior;
+- la liberación inexplicada de Kal (mecanismo reservado a *Voto de Ceniza*) y el reencuentro — **"Ciao, bella"**;
+- la llegada de Halbrook a San Aurelio (Cap. 50b, *La tierra bajo sus botas*), con el nombre de Chiara ya en su radar.
 
 ## Regla dura — Bonnie pertenece a *Sombras de Poder*, no al Libro I
 
@@ -119,6 +120,8 @@ Debe desarrollar de forma suficiente:
 La escalada del Libro I es de escala menor que la del Libro II: termina en un enfrentamiento militar/jurisdiccional (Camp Alder), no todavía en un choque abierto con una coalición criminal. Ese choque mayor — con Dario reuniendo, empujando o favoreciendo una coalición de intereses perjudicados por el crecimiento de Kal — pertenece a *Sombras de Poder* y culmina en H1.
 
 ## Cierre del Libro I
+
+> **SUPERSEDIDO EN PARTE (2026-10-01/02, CANON DEL AUTOR; calendario 2026-10-06):** "Ciao, bella" sigue siendo el reencuentro, pero ya no es la última línea del libro: cierra el **Cap. 50**. El libro cierra en el **Cap. 50b**, *La tierra bajo sus botas*: al alba del miércoles 5 de enero del año 3, Halbrook (sin nombrarlo) baja del helicóptero en Kingsley Field, abre una carpeta de fotos del ecosistema de Kal y sonríe. Kal pasa unos dieciséis días preso; Navidad, Año Nuevo y su cumpleaños pasan sin él. Ver supersesiones #50–#53 y [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
 
 El libro cierra con el reencuentro de Kal y Chiara tras la liberación inexplicada de Camp Alder:
 
@@ -135,7 +138,9 @@ Estado de salida:
 - Chiara ha perdido a Matteo y ve alejarse a Fabrizio; Tommaso sigue vivo (muere al abrir el Libro II).
 - Il Consorzio ya reclamó a Chiara como Ardizzone (H13, Palermo), sin ser todavía antagonista central.
 - Kal le debe a alguien (Halbrook, sin nombrarlo en el libro) su libertad — deuda sin cobrar.
-- Bonnie, Mei-Lin, el incendio, Villa Candelaria, Stavanger, el embarazo, H1 y Halbrook físicamente en la ciudad **todavía no ocurrieron**: pertenecen a *Sombras de Poder*.
+- Chiara le debe a Dario una cuenta abierta (Kal no lo sabe); su nombre quedó escrito con los Bravos, que asaltaron un convoy federal; Il Consorzio le ofreció el Monarch y ella no contestó (2026-10-01).
+- Halbrook ya está físicamente en San Aurelio y tiene a Chiara en su radar (Cap. 50b; supersede el "todavía no" de la línea siguiente en ese punto).
+- Bonnie, Mei-Lin, el incendio, Villa Candelaria, Stavanger, el embarazo, H1 ~~y Halbrook físicamente en la ciudad~~ **todavía no ocurrieron**: pertenecen a *Sombras de Poder*.
 
 ---
 
@@ -201,7 +206,7 @@ Abre **inmediatamente después** del *"Ciao, bella"* que cierra el Libro I: la r
 
 ## Estructura por Partes
 
-`Parte I — Nieve y Ceniza` (reconciliación, Tommaso, Ren Wei, Navidad/collar, Año Nuevo/F4 separados [canon 2026-09-26], incendio del loft) → `Parte II — Exilio` (F3, F2 — Mei-Lin y Bonnie el mismo día —, Villa Candelaria, Stavanger/anillo) → `Parte III — Torna a Casa` (conflicto final, Silas Crowe, embarazo, H1, reveal, coda Halbrook). Desarrollo completo en [[01_Timeline/03_Libro_02_Sombras_De_Poder]] y [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]].
+`Parte I — Nieve y Ceniza` (reconciliación, Tommaso, Ren Wei, Navidad/collar, Año Nuevo/F4 separados [canon 2026-09-26], incendio del loft) → `Parte II — Exilio` (F3, F2 — Mei-Lin y Bonnie el mismo día —, Villa Candelaria, Stavanger/anillo) → `Parte III — Torna a Casa` (conflicto final, Silas Crowe, embarazo, H1, reveal ~~, coda Halbrook~~ — la coda pasó al Cap. 50b del Libro I; el libro cierra en el reveal, en la chimenea de Villa Candelaria, CANON DEL AUTOR 2026-10-02). Desarrollo completo en [[01_Timeline/03_Libro_02_Sombras_De_Poder]] y [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]].
 
 > **CANON DEL AUTOR (2026-10-06):** el Libro I termina a principios de enero. Navidad, Año Nuevo y el cumpleaños de Kal pasan con Kal preso. *Sombras de Poder* cubre esencialmente un año, y la Navidad/collar va a fin de ese año (la primera juntos), seguida de F4 en el Año Nuevo siguiente. **PENDIENTE:** redistribuir las Partes; la secuencia de arriba sigue valiendo como orden, no como calendario ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]).
 
@@ -234,6 +239,8 @@ El Libro II termina emocionalmente con la familia creciendo justo cuando la segu
 
 ## Último beat del libro
 
+> **SUPERSEDIDO (2026-10-01/02, CANON DEL AUTOR):** la coda de Halbrook pasó al Cap. 50b del Libro I. El Libro II termina en el reveal del embarazo, la misma noche de H1, frente a la chimenea de Villa Candelaria y sólo a la luz del fuego. La siguiente aparición de Halbrook en prosa es la gala de beneficencia de Chiara, con el baile. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "Cierre del Libro II", y la supersesión #52. Lo de abajo se conserva como historial.
+
 Después del reveal sólo debe quedar una coda exterior breve.
 
 Un helicóptero aterriza en una instalación militar del área de San Aurelio. Personal de la base espera. **Warren Halbrook desciende del helicóptero.**
@@ -250,7 +257,7 @@ Estado de salida:
 - Dario ya no puede tratar el crecimiento de Kal como una molestia menor.
 - Bonnie y Mei están fuera del tablero inmediato; Mei-Lin ha muerto.
 - Villa Candelaria es su hogar; Kal y Chiara están comprometidos (Stavanger).
-- Halbrook está físicamente en San Aurelio.
+- Halbrook está físicamente en San Aurelio (desde el Cap. 50b del Libro I).
 - La guerra todavía no ha explotado por completo, pero ya es inevitable.
 
 ---
@@ -704,8 +711,8 @@ O, en su herida más profunda:
 
 | De | Hacia | Bisagra |
 |---|---|---|
-| **Máscaras de Cristal** | **Sombras de Poder** | Reencuentro tras Camp Alder ("Ciao, bella") + reconciliación completa + asesinato de Tommaso esa misma tarde + arranque de la organización de Kal (Ren Wei) |
-| **Sombras de Poder** | **Voto de Ceniza** | Primer choque abierto asociado a la presión de Dario + H1 + embarazo revelado + llegada física de Halbrook a San Aurelio |
+| **Máscaras de Cristal** | **Sombras de Poder** | Reencuentro tras Camp Alder ("Ciao, bella", Cap. 50) + Halbrook en San Aurelio (Cap. 50b) + reconciliación completa + asesinato de Tommaso esa misma tarde + arranque de la organización de Kal (Ren Wei) |
+| **Sombras de Poder** | **Voto de Ceniza** | Primer choque abierto asociado a la presión de Dario + H1 + embarazo revelado ~~+ llegada física de Halbrook a San Aurelio~~ (pasó al cierre del Libro I) |
 | **Voto de Ceniza** | **Cuentas de Sangre** | Dario preso + montaña + Santa Lucía + Kal sentencia a Halbrook + Halbrook ejecutado en su discurso de victoria (tirador oculto) + Corrado vivo en el hospital |
 | **Cuentas de Sangre** | cierre de saga | La muerte de Halbrook (cierre del III) provoca Meridian; el tirador se revela al final (Harper); vacío de Dario activa Consorzio; Kal/Chiara vuelven reemplazable su poder y salen hacia Elenna |
 
@@ -738,13 +745,14 @@ Este documento cambió canon anterior en los siguientes puntos:
 
 17. **La saga deja de ser una trilogía estricta.** Pasa a tener cuatro libros de arco principal (*Seda y Pólvora*, *Sombras de Poder*, *Voto de Ceniza*, *Cuentas de Sangre*) más la duología post-saga-principal (*Juramento de Hierro*, *Camino a Casa*), ahora Libro V y VI.
 18. **Se crea *Sombras de Poder* como Libro II**, absorbiendo el material que del 2026-09-20 al 2026-09-21 había vivido como Partes IV-VI internas de *Seda y Pólvora* (Nieve y Ceniza, Exilio, Torna a Casa). Revierte esa reconciliación.
-19. **El Libro I (*Seda y Pólvora*) ahora cierra en el Cap. 44** ("Ciao, bella", cierre de la Parte III/Ardizzone), no en H1. El Cap. 45 en adelante pertenece a *Sombras de Poder*.
+19. ~~**El Libro I (*Seda y Pólvora*) ahora cierra en el Cap. 44** ("Ciao, bella", cierre de la Parte III/Ardizzone), no en H1. El Cap. 45 en adelante pertenece a *Sombras de Poder*.~~ **SUPERSEDIDO 2026-10-01 (CANON DEL AUTOR):** el Libro I sigue sin cerrar en H1, pero ya no cierra en el Cap. 44. El cierre de un capítulo se rehízo como arco final sin Kal (Caps. 44–50b) dentro de la Parte III, que pasa de diez a dieciséis capítulos (35–50) más el Cap. 50b. "Ciao, bella" es la última línea del Cap. 50; el 50b cierra el libro. El Libro II abre con la respuesta de Chiara (número de capítulo PENDIENTE). Ver #50.
 20. **H1 es ahora el clímax del Libro II — *Sombras de Poder*.**
 21. **Bonnie y F2 (destierro de Bonnie / muerte de Mei-Lin) pertenecen ahora a *Sombras de Poder* (Libro II)**, no al Libro I.
 22. **El incendio del loft, Villa Candelaria, Stavanger y el compromiso pertenecen a *Sombras de Poder* (Libro II)**, no al Libro I.
 23. ***Voto de Ceniza* pasa a ser Libro III** (era Libro II); **Cuentas de Sangre pasa a ser Libro IV** (era Libro III); su función y contenido no cambian, sólo su número.
 24. **Juramento de Hierro pasa a ser Libro V; Camino a Casa pasa a ser Libro VI** (eran Libro IV y V). *(Camino a Casa: SUPERSEDIDO 2026-10-03, ahora Libro VII; ver #27.)* Su arquitectura interna, todavía en incubadora, no cambia por esta renumeración.
 25. **Pendiente editorial registrado:** *Seda y Pólvora* fue escrita originalmente para continuar más allá de su nuevo cierre (Cap. 44/45). Una fase editorial posterior deberá reforzar retrospectivamente Partes I-III, especialmente Ardizzone, para que ese cierre se sienta como final deliberado del Libro I, no como amputación de un manuscrito mayor. **No ejecutar esa revisión ahora** — ver [[98_Agent_Handoff/PENDING]].
+    > **ACTUALIZADO (2026-10-06), sigue abierto:** el riesgo de "amputación" se atendió en el propio cierre. El autor pidió un final construido (2026-10-01): el arco 44–50b, que ya está escrito, auditado y microeditado (BORRADOR). Ya hay avances retrospectivos: las siembras del arco (el cuadro del lago en el 31 y el 33, Rafe en el 13), los frentes 1–5 del [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Fortalecimiento_Puntos_Debiles]] y las deudas del cierre registradas en el Book Map del II. La revisión integral de las Partes I–III, para que el cierre se lea como deliberado, **no está declarada hecha**. La cierra el autor, no se cierra por inferencia.
 
 ## Nuevas — 2026-10-03, trilogía de Elenna (CANON DEL AUTOR)
 
@@ -778,6 +786,13 @@ Este documento cambió canon anterior en los siguientes puntos:
 47. **Cierre del VI: espejo de Chiara en Santa Lucía.** Elenna cae en el suelo del banco boca arriba, con el charco de sangre acumulándose detrás de ella; corte. Rima con Chiara en el suelo de la iglesia (*Voto de Ceniza*). El VII abre en el hospital.
 48. **El juicio de Dylan ocurre antes del asalto al banco**, dentro del VI. Orden: captura → juicio → asalto (cierre).
 49. **El hangar va 4–5 capítulos después de la apertura del VII**, no al final. Kal y Chiara están físicamente sólo en ese primer tramo; el resto del VII (testimonio de Dylan, reconstrucción, caída de Blake, reconciliación con Erin) ocurre después de que se van.
+
+## Nuevas — 2026-10-01/02, arco final sin Kal (CANON DEL AUTOR; registradas en la cascada del 2026-10-06)
+
+50. **El Libro I cierra en el Cap. 50b**, *La tierra bajo sus botas*, tras el arco final sin Kal (Caps. 44–50b), dentro de la Parte III. No hay Parte IV en el Libro I. "—Ciao, bella." es la última línea del Cap. 50. Supersede #19. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
+51. **Halbrook llega físicamente a San Aurelio al cierre del Libro I** (50b: Kingsley Field, alba, narrador externo, sin nombre ni diálogo). Confirma y detalla #6. "Halbrook no pisa San Aurelio" vale sólo hasta el apagón.
+52. **El Libro II cierra en el reveal del embarazo** (la noche de H1, en la chimenea de Villa Candelaria), no en la coda de Halbrook. La siguiente aparición de Halbrook en prosa es la gala de beneficencia de Chiara, con el baile (CANON DEL AUTOR, 2026-10-02).
+53. **Calendario (CANON DEL AUTOR, 2026-10-06):** Kal pasa unos dieciséis días preso, del 19 de diciembre al 5 de enero; Navidad, Año Nuevo y su cumpleaños pasan sin él. El Libro I termina el 5 de enero del año 3. El Libro II cubre esencialmente un año, y su Navidad (la del collar) es la primera juntos. Redistribuir sus Partes queda PENDIENTE. Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]].
 
 ---
 

@@ -3,7 +3,7 @@
 *Ficha de Facción — banda motociclista costera*
 
 **Qué es:** club motociclista y banda de seguridad de piso en la costa.  
-**Territorio:** La Isla, costa de [[05_Locations/San_Aurelio]], clubes, bares, estacionamientos, muelles menores y eventos nocturnos.  
+**Territorio:** La Isla, en la bahía de [[05_Locations/San_Aurelio]]: marinas (norte), hoteles (este) y clubes (sur), más bares, estacionamientos, muelles menores y eventos nocturnos. También tienen el piso nocturno alrededor del Monarch (Paseo Pacífica, valet, bares), pero no el casino ni Punta Dorada ([[99_Reference/location_references/mapa_san_aurelio.png|mapa definitivo]]; CANON DEL AUTOR, 2026-10-06).  
 **Cabeza:** Naomi "Nox" Ward.  
 **Estado al abrir la novela:** operan como seguridad de piso y control de puertas; todavía no son proveedores.
 

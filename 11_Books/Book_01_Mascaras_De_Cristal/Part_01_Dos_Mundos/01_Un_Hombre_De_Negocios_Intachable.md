@@ -445,7 +445,7 @@ Kal nunca lo dejaba cerca de los libros que importaban. No porque Nadir no supie
 
 A las once y veintiocho, Kal manejó hacia Il Gelsomino con una caja de filtros de aceite en el asiento del copiloto y una factura doblada en la visera.
 
-El restaurante italiano quedaba en una calle que San Aurelio había decidido llamar pintoresca después de subirle la renta. Toldo verde, mesas estrechas en la acera, una buganvilia empeñada en entrar por una ventana aunque nadie la hubiera invitado. Por las mañanas olía a ajo dorándose, café fuerte y cloro recién pasado por el piso. De noche, Kal lo sabía, el mismo lugar olía a vino caro y a promesas que nadie pensaba escribir.
+El restaurante italiano quedaba en una calle que San Aurelio había decidido llamar pintoresca después de subirle la renta. Toldo verde, mesas estrechas en la acera, un jazmín empeñado en entrar por una ventana aunque nadie lo hubiera invitado. Por las mañanas olía a ajo dorándose, café fuerte y cloro recién pasado por el piso. De noche, Kal lo sabía, el mismo lugar olía a vino caro y a promesas que nadie pensaba escribir.
 
 No entró por la puerta principal. Entró por la cocina.
 
@@ -685,7 +685,7 @@ Kal abrió la tapa de una taza de café que Mabel le había puesto enfrente sin 
 
 —Muevo coches.
 
-—Por eso empiezo por ahí. —Matteo le dio media vuelta a su taza sobre el plato—. Tengo gente llegando hoy. Socios. Abrimos el Monarch, en el Distrito Marino. ¿Lo ha visto?
+—Por eso empiezo por ahí. —Matteo le dio media vuelta a su taza sobre el plato—. Tengo gente llegando hoy. Socios. Abrimos el Monarch, en La Isla. ¿Lo ha visto?
 
 —La obra.
 
@@ -709,7 +709,7 @@ Matteo abrió la boca y la volvió a cerrar. Después sonrió más ancho, que en
 
 Kal miró por la ventana. En la acera de enfrente, un niño empujaba una bicicleta sin cadena. Rafa Luna fingía mirar su casco y escuchaba con todo el cuerpo.
 
-Ya tenía la comisaría. Ya tenía el barrio. El Distrito Marino era el único cuarto de la casa donde todavía no había entrado con permiso.
+Ya tenía la comisaría. Ya tenía el barrio. La Isla era el único cuarto de la casa donde todavía no había entrado con permiso.
 
 —No trabajo con casinos.
 

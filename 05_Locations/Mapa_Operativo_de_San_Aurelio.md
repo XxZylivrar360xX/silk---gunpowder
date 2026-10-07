@@ -2,13 +2,13 @@
 
 *Ficha de Lugar - geografia, carreteras y tiempos narrativos*
 
-> **AVISO (2026-10-06):** el autor planteó una forma nueva para la ciudad: La Media Luna, La Isla al centro y un puente de piedra antigua (ver [[05_Locations/San_Aurelio]]). Además, la ciudad pasa a Oregon, así que la "CA-19" necesita nombre nuevo. Este mapa se rehace cuando exista el boceto del autor. Hasta entonces, sus tiempos siguen vigentes para la prosa ya escrita.
+> **CANON DEL AUTOR (2026-10-06): mapa definitivo** en [[99_Reference/location_references/mapa_san_aurelio.png]]. Este documento ya está recalibrado a ese mapa (escala: la barra del mapa mide 10 km). Si algo aquí choca con el dibujo, manda el dibujo. Ficha de la ciudad: [[05_Locations/San_Aurelio]].
 
 **Que es:** el mapa practico de San Aurelio. No sustituye la ficha de la ciudad; la vuelve usable para persecuciones, traslados, vigilancia, jurisdiccion, logistica criminal y escenas donde llegar tarde o llegar por otra ruta cambia el resultado.
 
 **Funcion narrativa:** impedir que la ciudad sea decorado. Cada movimiento importante debe poder responder cuatro preguntas: por donde van, cuanto tardan, quien los puede ver y quien conoce un atajo.
 
-**Capa ficticia:** San Aurelio puede usar referencias angelinas en espiritu - Historic Core, costa, colinas, mercado, hoteles viejos, teatros, terminal ferroviaria, autopistas -, pero sus lugares narrativos importantes deben ser propios. La ciudad real inspira textura; San Aurelio conserva control dramático.
+**Capa ficticia:** San Aurelio puede usar referencias de Portland en espiritu - puentes, lluvia, centro viejo de ladrillo, puerto, colinas boscosas, terminal ferroviaria -, pero sus lugares narrativos importantes deben ser propios. La ciudad real inspira textura; San Aurelio conserva control dramático.
 
 ---
 
@@ -27,25 +27,35 @@ Kal suele ganar por conocimiento fisico de la ciudad. Chiara suele ganar por sab
 
 ## Brujula de la ciudad
 
-| Zona | Posicion | Funcion | Poder dominante |
+Norte arriba. La ciudad es una media luna que abraza la Bahía de San Aurelio; el Pacífico queda al oeste. La Isla está dentro de la bahía y se une al centro por el Puente de Piedra.
+
+| Zona | Posicion en el mapa | Funcion | Poder dominante |
 | --- | --- | --- | --- |
-| Oceano Pacifico | Oeste | Limite natural y fachada turistica | Dinero nuevo, hoteles, marinas |
-| [[05_Locations/San_Aurelio|Calle Corona]] | Centro viejo | Ayuntamiento, juzgados, hospitales, comisarias, prensa | Instituciones, camaras, opinion publica |
-| Distrito Marino | Oeste / noroeste costero | Torres, restaurantes, casino, elite nueva | Varek, inversionistas, Chiara en etapa inicial |
-| La Isla | Costa de ocio | Clubes, bares, hoteles de fin de semana | [[03_Factions/Breakwater_Saints_MC]] |
-| El Puerto Viejo | Suroeste | Muelles, aduana, bodegas, contenedores | Varek y quien controle carga |
-| La Almendra | Este bajo | Casas, talleres, patios de gruas, vias | [[03_Factions/El_Patio]] |
-| Barrios del sur | Sur del centro | Territorio fragmentado y mercado local | Bandas menores |
-| Cuesta Bonita | Noreste / colina | Dinero viejo, clubes, mansiones | Elite tradicional, Varek por influencia |
-| Lomas de San Jacinto | Norte residencial alto | Casas defendibles, privacidad cara, [[05_Locations/La_Villa|Villa Candelaria]] | Elite residencial, seguridad privada |
-| [[05_Locations/Norte_Rural_de_San_Aurelio|Norte rural]] | Más allá de Lomas | Viñedos, Kingsley Field, rutas, parcelas, base militar | El Patio en expansión, Marcadores, federal |
-| [[05_Locations/Bellandi_Ridge_Vineyards|Bellandi Ridge Vineyards]] | Ladera norte | Viñedos de Chiara, legitimidad y silencio | Chiara Bellandi |
-| Kingsley Field | Norte / interior | Aeropuerto, carga, servicio, carreras alrededor | Autoridad aeroportuaria, rutas de Milla |
-| Los Alamos | Norte industrial | Refinerias muertas, chatarra, suelo barato | [[03_Factions/Alamo_Salvage]] |
-| Rutas de Milla | Norte rural / borde de Kingsley Field | Carreras ilegales, apuestas, caminos de salida | [[03_Factions/Los_Marcadores_de_Milla]] |
-| [[05_Locations/Cedar_Flats]] | Norte agrícola lejano | Parcelas de cultivo, bodegas rurales, cobertura logística | Agricultores, El Patio en expansión |
-| Las Gemelas (cascadas) | Afuera, cerros del noreste (CANON 2026-10-06) | Primer lugar que no es territorio de nadie | Nadie |
-| [[05_Locations/Camp_Alder]] | Afuera, noreste restringido | Armamento, pasado militar, acceso controlado | Federal / militar |
+| Oceano Pacifico | Oeste | Limite natural; mar abierto detrás de La Isla | Nadie |
+| Bahía de San Aurelio | Dentro de la media luna | Agua entre La Isla y tierra firme; ferry, marinas, carga | Puerto, Saints en las marinas |
+| La Isla | Dentro de la bahía, al oeste del centro | Monarch, Punta Dorada, ocio, marinas | Varek (Monarch), Saints (marinas, hoteles, clubes) |
+| [[03_Factions/El_Casino|The Monarch]] + [[05_Locations/Hipodromo_Del_Monarch|Hipódromo]] | Punta oeste de La Isla, frente al océano | Casino, hotel, penthouse, caballerizas | Varek; Chiara desde dentro |
+| Punta Dorada | Centro de La Isla, sobre el Bulevar Corona | Torres, dinero nuevo, la ciudad de las fotos | Inversionistas, Varek |
+| Puente de Piedra | Entre La Isla y Calle Corona (5-6 km) | Única vía rodada a La Isla; cuello de botella | Quien lo cierre |
+| [[05_Locations/San_Aurelio|Calle Corona]] | Centro de la media luna, al pie del puente | Ayuntamiento, juzgados, Hospital Santa Aurelia, comisarias, El Faro | Instituciones, camaras, opinion publica |
+| Distrito Marino | Costa continental al norte del puente | Restaurantes, muelles de recreo, ferry; Il Gelsomino en su borde con el centro | Dinero de paseo, turismo |
+| El Puerto Viejo | Costa continental al sur del puente | Muelles, aduana, bodegas, Terminal Road, ferry | Varek y quien controle carga |
+| Santa Brígida | Costa sur de la media luna | Bares, mercados, Gabriella's | [[03_Factions/Los_Bravos_de_Santa_Brigida]] |
+| La Almendra | Este de Calle Corona, junto a las vías | Casas, talleres, patios de gruas, loft; Destilería de Walt al borde este | [[03_Factions/El_Patio]] |
+| Iglesia, cementerio y Esquina de Mabel | Bisagra al sur de Calle Corona | Fe, rumor, bar de barrio | Vida civil |
+| Barrios del sur | Sur y sureste: Nueve Puentes, Canal Seco, Las Calderas | Territorio fragmentado, canales y puentes | Bandas menores |
+| [[05_Locations/Presa_Del_Sur|Presa del Sur]] | Sureste, al final de Las Calderas | Lago y canales | Municipal |
+| Cuesta Bonita | Colina al noreste del centro | Dinero viejo, mansión de Varek | Elite tradicional, Varek por influencia |
+| Lomas de San Jacinto | Más arriba, al noreste de Cuesta Bonita | Casas defendibles, [[05_Locations/La_Villa|Villa Candelaria]] | Elite residencial, seguridad privada |
+| Los Alamos | Costa norte de la bahía | Refinerias inactivas, chatarra, suelo barato | [[03_Factions/Alamo_Salvage]] |
+| [[05_Locations/El_Mirador|El Mirador]] | Cerros del norte, sobre la ciudad | Vista completa, sin alumbrado | Nadie |
+| [[05_Locations/Bellandi_Ridge_Vineyards|Bellandi Ridge]] | Ladera norte, arriba de El Mirador | Viñedo de Chiara | Chiara Bellandi |
+| Kingsley Field | Noreste interior | Aeropuerto, carga, hangares | Autoridad aeroportuaria |
+| Rutas de Milla + [[05_Locations/El_Taller_del_Norte|Taller del Norte]] | Junto a Kingsley Field | Carreras ilegales, apuestas | [[03_Factions/Los_Marcadores_de_Milla]] |
+| La Tramoya | Corredor de servicio al sureste de Kingsley Field | Tienda de máscaras y utilería | Civil |
+| [[05_Locations/Cedar_Flats]] | Fuera del mapa, al norte (75-90 min) | Parcelas, bodegas rurales | Agricultores, El Patio en expansión |
+| [[05_Locations/Camp_Alder]] | Fuera del mapa, noreste restringido (1 h o más) | Armamento, pasado militar | Federal / militar |
+| Las Gemelas (cascadas) | Fuera del mapa, cerros del este-noreste (50-70 min) | Primer lugar que no es territorio de nadie | Nadie |
 
 ---
 
@@ -53,43 +63,53 @@ Kal suele ganar por conocimiento fisico de la ciudad. Chiara suele ganar por sab
 
 | Ruta | Conecta | Quien la usa | Riesgo narrativo |
 | --- | --- | --- | --- |
-| **CA-19 / Autopista Costera** | Distrito Marino, La Isla, Puerto Viejo | Turistas, ejecutivos, Saints, policia de transito | Rapida pero visible; muchas camaras y patrullas |
-| **Bulevar Corona** | Costa, Calle Corona, La Almendra | Civiles, patrullas, ambulancias, prensa | Facil de cerrar; mala ruta para desaparecer |
+| **La 101** (US-101, Oregon Coast Highway; CANON DEL AUTOR 2026-10-06; sustituye a "CA-19 / Autopista Costera", retirada por Oregon) | Orilla de la media luna: Los Álamos, Distrito Marino, centro, Puerto Viejo, Santa Brígida | Todos | Rapida pero visible; muchas camaras y patrullas |
+| **Bulevar Corona** | Punta Dorada (La Isla), Puente de Piedra, Calle Corona, La Almendra | Civiles, patrullas, ambulancias, prensa, el Monarch | Única vía rodada a La Isla: cerrar el puente la aísla (quedan ferry y lanchas) |
+| **Paseo Pacífica** | Orilla norte de La Isla: fachada del Monarch, Hotel Pacífica, cafés, marinas | Huéspedes, valet, turistas | Escaparate; todo se ve y se fotografía |
+| **Costera sur de La Isla** | Espalda de servicio del Monarch, marinas y clubes Saints | Proveedores, taxis de noche, Saints | Poca gente decente; mucho ojo de piso |
 | **Avenida Almendra** | Centro viejo con La Almendra | Gruas, talleres, vecinos, Kal | Kal tiene ventaja por calles secundarias |
 | **Terminal Road / Ruta de Muelles** | Puerto Viejo, bodegas, aduana | Camiones, Varek, contrabandistas | Camaras, guardias privados, registros de carga |
-| **Via de las Refinerias** | Puerto Viejo, Los Alamos, norte industrial | Chatarra, carga sucia, Alamo Salvage | Poca presencia publica, mucha vigilancia informal |
+| **Via de las Refinerias** | Distrito Marino, costa norte, Los Alamos | Chatarra, carga sucia, Alamo Salvage | Poca presencia publica, mucha vigilancia informal |
 | **Carretera de Milla** | Kingsley Field, caminos rurales, taller del norte | Corredores, Tyler, Marcadores | Baja visibilidad; perfecta para carreras y emboscadas |
 | **Ronda Exterior** | Evita Calle Corona por periferia | Kal, patrullas, camionetas de reparto | Util para rodear cierres; vulnerable en accesos |
-| **Subida de Cuesta** | Centro y Distrito Marino hacia Cuesta Bonita y Lomas de San Jacinto | Elite, escoltas, servicio domestico | Pocas salidas; todo vehiculo fuera de lugar se nota |
-| **Camino de San Jacinto** | Lomas, Bellandi Ridge, carretera interior al norte | Residentes, proveedores, viñedos, escoltas | Ruta bonita y expuesta; mala para moverse caliente |
+| **Subida de Cuesta** | Centro hacia Cuesta Bonita y Lomas de San Jacinto | Elite, escoltas, servicio domestico | Pocas salidas; todo vehiculo fuera de lugar se nota |
+| **Camino de San Jacinto** | Lomas, El Mirador, Bellandi Ridge, carretera interior al norte | Residentes, proveedores, viñedos, escoltas | Ruta bonita y expuesta; mala para moverse caliente |
 | **Alder Cutoff** | Kingsley Field, Camp Alder, Cedar Flats | Militares, contratistas, carga rural | Cualquier error toca jurisdicción federal |
 | **Canal Road** | Las Calderas, Canal Seco, Nueve Puentes, Santa Brigida | Bandas del sur, mercados, repartidores | Conflicto constante; puentes y pasos cerrables |
 | **Camino Santa Lucia** | Iglesia, Calle Corona, barrios bajos | Parroquia, funerales, civiles, Chiara | Ruta discreta para rumores, velas y encuentros |
+| **Ferry** | Distrito Marino y Puerto Viejo con La Isla | Empleados, turistas, quien no quiere el puente | Horarios fijos, lista de pasajeros, cámaras en muelle |
+| **Metro** | Anillo de Calle Corona y líneas al norte, a La Almendra y al sur; no llega a La Isla | Civiles | Andenes con cámara; útil para perderse a pie |
 
 ---
 
 ## Tiempos narrativos
 
-No son tiempos de GPS. Son tiempos de escena: trafico, hora, presion policial y conocimiento del terreno pueden moverlos.
+No son tiempos de GPS. Son tiempos de escena: trafico, hora, presion policial y conocimiento del terreno pueden moverlos. Recalibrados al mapa definitivo (2026-10-06).
 
 | Trayecto | Normal | Bajo presion | Uso |
 | --- | ---: | ---: | --- |
-| La Almendra -> The Monarch / Distrito Marino | 22 min | 14 min por atajos industriales; 35+ con cierres | Chiara entre casino y mundo de Kal |
-| The Monarch / penthouse -> Il Gelsomino | 8-15 min | 6-10 min | Citas, acuerdos, cenas vigiladas |
-| The Monarch -> Hipodromo | misma propiedad (a pie) | — | Vida de elite, caballerizas, H12 *(el hipodromo del Monarch es la misma propiedad; ver [[05_Locations/Hipodromo_Del_Monarch]])* |
-| Hipodromo -> Hospital Santa Aurelia | 16 min | 9-11 min si Kal conduce al limite | Ataque a Chiara (H12) |
-| La Almendra -> Hospital Santa Aurelia | 12-18 min | 10 min, pero muy visible | Heridas oficiales, escenas con reporte |
-| La Almendra -> Villa Candelaria / Lomas de San Jacinto | 30-38 min | 24 min | Distancia fisica y de clase |
-| La Villa -> Iglesia Santa Lucia | 18-25 min | 15 min | Fe, velas, retorno emocional |
+| La Almendra -> The Monarch (por el puente) | 30-35 min | 20 min de noche, sin tráfico (Cap. 4) | Chiara entre casino y mundo de Kal |
+| Calle Corona -> The Monarch | 25 min | 15 min | Puente y Punta Dorada (Cap. 50) |
+| Club de La Isla -> The Monarch | 15 min | 10 min | Dentro de La Isla (Cap. 4: 14 min en taxi) |
+| The Monarch / penthouse -> Il Gelsomino | 25 min | 15-18 min | Citas, acuerdos, cenas vigiladas |
+| The Monarch -> Hipodromo | misma propiedad (a pie) | — | Vida de elite, caballerizas, H12 |
+| Hipodromo -> Hospital Santa Aurelia | 25 min | 15-17 min si Kal conduce al limite | Ataque a Chiara (H12) |
+| The Monarch -> Puerto Viejo (Terminal Road) | 30 min | 20 min | Cap. 47 |
+| The Monarch -> Gabriella's | 35-40 min | 25 min | Santa Brígida, costa sur |
+| Distrito Marino / Puerto Viejo -> La Isla en ferry | 20 min | No aplica | Alternativa al puente |
+| La Almendra -> Calle Corona | 5-10 min | 5 min | Cap. 9: Kal llega en siete |
+| La Almendra -> Hospital Santa Aurelia | 12-15 min | 8 min, pero muy visible | Heridas oficiales, escenas con reporte |
+| La Almendra -> Villa Candelaria / Lomas de San Jacinto | 20-25 min | 15 min | Distancia fisica y de clase, cuesta arriba |
+| La Villa -> Iglesia Santa Lucia | 20-25 min | 15 min | Fe, velas, retorno emocional |
 | Villa Candelaria -> Bellandi Ridge | 15 min | 10-12 min | Hogar, viñedo, norte privado |
 | Calle Corona -> Puerto Viejo | 12 min | 8-10 min | Prensa, fiscalia, carga |
 | La Almendra -> Puerto Viejo | 18-25 min | 15 min por rutas de carga | Gruas, bodegas, favores |
 | Puerto Viejo -> Los Alamos | 25-35 min | 20 min | Chatarra, refinerias, expansion |
 | La Almendra -> Rutas de Milla / Kingsley Field | 20-30 min | 16 min | Carreras, taller del norte, Peugeot |
-| Rutas de Milla -> La Isla | 25-40 min | 20 min si no hay bloqueos | Persecuciones largas, costa |
+| Rutas de Milla -> La Isla | 40-50 min | 30 min si no hay bloqueos | Persecuciones largas; el puente decide |
 | Kingsley Field -> Camp Alder | 20-30 min | No aplica sin acceso | Armamento, pasado militar |
+| Centro -> Camp Alder | 1 h o más | No aplica sin acceso | Escala federal / militar |
 | La Almendra -> Cedar Flats | 75-90 min | 60 min de madrugada | Parcelas, norte rural lejano |
-| Centro -> Camp Alder | 50-65 min | No aplica sin acceso | Escala federal / militar |
 | Centro -> Las Gemelas | 50-70 min | 45 min de madrugada | Salida del territorio, pacto |
 
 ---
@@ -100,9 +120,9 @@ No son tiempos de GPS. Son tiempos de escena: trafico, hora, presion policial y 
 
 **El Puerto Viejo** no se cierra rapido, pero deja rastro. Hay manifiestos, camaras, guardias, lectores de placas, contenedores, horarios de carga y gente que cobra por mirar hacia otro lado.
 
-**Distrito Marino** tiene mucha camara privada: hoteles, valet, estacionamientos, restaurantes, torres, casino. Es ideal para aparecer respetable y malo para desaparecer.
+**Punta Dorada y el Monarch** tienen mucha camara privada: hoteles, valet, estacionamientos, torres, casino. Es ideal para aparecer respetable y malo para desaparecer. El Distrito Marino, enfrente, es más bajo y de paseo.
 
-**La Isla** se controla por piso, no por calles. Puertas, estacionamientos, valet, seguridad privada y motociclistas deciden quien entra antes de que llegue la policia.
+**La Isla** se controla por piso y por el puente: cerrar el Puente de Piedra la deja con ferry y lanchas. Puertas, estacionamientos, valet, seguridad privada y motociclistas deciden quien entra antes de que llegue la policia.
 
 **La Almendra** es dificil de cerrar para quien no la conoce. Hay talleres, portones, patios, callejones, vias, camiones estacionados y vecinos que saben mirar sin parecer que miran.
 
@@ -135,7 +155,7 @@ No son tiempos de GPS. Son tiempos de escena: trafico, hora, presion policial y 
 Dario no necesita conocer cada calle. Su poder esta en los accesos grandes:
 
 - Puerto Viejo para carga.
-- Casino y Distrito Marino para dinero visible.
+- Casino y Punta Dorada para dinero visible.
 - Cuesta Bonita para respetabilidad.
 - Ayuntamiento para permisos.
 - Bandas del sur para ruido y presion.
@@ -147,22 +167,23 @@ Su debilidad aparece cuando Kal controla rutas chicas que Dario siempre consider
 
 ## Ubicacion sugerida de lugares pendientes
 
-| Lugar | Ubicacion recomendada | Razon |
+Todas las ubicaciones de esta tabla quedaron fijadas por el mapa definitivo (2026-10-06). Se conserva como referencia rápida.
+
+| Lugar | Ubicacion | Nota |
 | --- | --- | --- |
-| The Monarch Casino & Hotel | Borde del Distrito Marino, cerca de La Isla pero no dentro | Permite elite, turismo, noche, vigilancia privada y penthouse; no queda encerrado en territorio motociclista |
-| Il Gelsomino | Frontera Calle Corona / Distrito Marino | Respetable para Chiara, accesible para Kal, util para prensa y politicos |
-| Gabriella's | Frontera La Isla / Santa Brigida | Fiesta, costa y peligro de barrio en la misma noche |
-| Hipodromo | Borde noreste entre Cuesta Bonita y Rutas de Milla | Elite, caballos, caballerizas y ruta rapida hacia hospital |
-| Casa comunitaria | La Almendra | El barrio ve llegar a Chiara por primera vez |
-| [[05_Locations/El_Taller_del_Norte|Taller del norte]] | Rutas de Milla, cerca de Kingsley Field | Carreras, amenazas de Varek (H5 / Cap. 27), caminos sin testigos |
-| Mansion de Varek | Cuesta Bonita | Poder viejo y respetabilidad comprada |
-| Las Gemelas (cascadas) | Cerros del noreste, mas alla de Cuesta Bonita (CANON 2026-10-06) | Primer lugar que no pertenece a nadie |
-| Camp Alder | Noreste restringido, mas alla de Kingsley Field | Mantiene distancia civil y escala federal |
-| La Esquina de Mabel | Frontera Calle Corona / La Almendra | Oye hospital, policia, iglesia y barrio bajo |
-| Tienda de mascaras — **La Tramoya** | Corredor comercial de servicio hacia Kingsley Field / Rutas de Milla | Vestuario teatral y utileria; hace practica la salida de H9 antes de la carrera (Cap. 9) |
-| Villa Candelaria | Lomas de San Jacinto, norte residencial | Prestigio residencial, defensa, distancia del casino y final de H1 |
-| Bellandi Ridge Vineyards | Ladera norte antes de Cedar Flats | Propiedad legítima de Chiara y puente hacia el norte agrícola |
-| Cedar Flats | Pueblo lejano del norte | Parcelas de cultivo, cobertura logística y red rural |
+| The Monarch Casino & Hotel | Punta oeste de La Isla | Enclave privado (el piso nocturno de alrededor es de los Saints); fachada al Paseo Pacífica, servicio a la costera sur. [Antes "borde del Distrito Marino"; superado.] |
+| Hipodromo | Junto al Monarch, punta oeste de La Isla | Misma propiedad. [Antes "borde noreste entre Cuesta Bonita y Rutas de Milla"; superado.] |
+| Il Gelsomino | Borde entre Distrito Marino y Calle Corona | Sin cambio |
+| Gabriella's | Santa Brígida, costa sur | Resuelto por el mapa |
+| Casa comunitaria, loft, Lote, Almendra Towing | La Almendra | Sin cambio |
+| Destilería de Walt | Borde este de La Almendra, junto a las vías | Resuelto por el mapa |
+| [[05_Locations/El_Taller_del_Norte|Taller del norte]] | Junto a Kingsley Field y la Milla | Sin cambio |
+| Mansion de Varek | Cuesta Bonita | Sin cambio |
+| La Esquina de Mabel, Iglesia y Cementerio Santa Lucía | Al sur de Calle Corona | Sin cambio |
+| Tienda de mascaras — **La Tramoya** | Corredor de servicio al sureste de Kingsley Field | Sin cambio |
+| Villa Candelaria | Lomas de San Jacinto | Sin cambio |
+| Bellandi Ridge Vineyards | Ladera norte, arriba de El Mirador | Sin cambio |
+| Las Gemelas, Camp Alder, Cedar Flats | Fuera del mapa (este-noreste, noreste, norte) | Flechas con tiempo en el mapa |
 
 ---
 
@@ -183,8 +204,6 @@ Su debilidad aparece cuando Kal controla rutas chicas que Dario siempre consider
 - Definir nombre legal de la sociedad que opera The Monarch.
 - Decidir si el taller del norte está ligado a Cedar Flats, Kingsley Field o una propiedad de Harper. **Ficha:** [[05_Locations/El_Taller_del_Norte]].
 - Nombrar la carretera interior entre Lomas de San Jacinto, Bellandi Ridge y Cedar Flats.
-- Decidir si CA-19, Bulevar Corona y Avenida Almendra quedan como nombres definitivos.
-- Dibujar un primer mapa simple para uso interno del vault.
 - Ajustar tiempos cuando existan escenas concretas con hora, trafico y clima.
 
 ---

@@ -94,6 +94,14 @@ Es lo único que dijo cuando escuchó el reporte de la muerte de Alessio Lusardi
 
 **[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo|Cap. 2]]**, en un recuerdo de Chiara: la visita a su despacho en un casino de Nueva York, semanas antes de que ella viaje a San Aurelio, para comunicarle que Il Consorzio decidió darle un lugar a la familia Ardizzone allí y que su tarea será "dirigir y observar". Escena escrita respetando lo ya fijado: habla de otra cosa (un cuarteto, un edificio) antes de llegar al asunto; nunca dice "yo decidí", siempre "Il Consorzio ha decidido"; no nombra al socio que pidió el favor ni explica el precio exacto; la llama **signora Ardizzone**, no Bellandi (confirmado por el autor 2026-09-26). El despacho es de **uno de los casinos de Il Consorzio que Chiara administraba en Nueva York** (canon del autor, 2026-09-26). **No se inventó apariencia física ni manía** — ambas siguen `PENDIENTE` (ver abajo); la escena no lo describe físicamente.
 
+## Cap. 49 — *Enfrente* (BORRADOR, 2026-10-02)
+
+[[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/49_Enfrente|Cap. 49]], lunes 3 y martes 4 de enero. **CANON DEL AUTOR:** Valenti ya estaba en San Aurelio ("desde el jueves": la vio correr cuatro días sin avisarle). Chiara le pide que saque a Kal. Il Consorzio **puede y se niega**: Kal es "un hombre interesante", pero "no todavía un hombre necesario". A ella le ofrecen ser **dueña legítima del Monarch**, lo que implica quitárselo a Dario. Le niegan al hombre y le ofrecen la corona. Ella no contesta.
+
+- **DISEÑO de la escena:** suite de esquina del piso once del **Hotel Pacífica**, enfrente del Monarch. "¿A quién?" la obliga a decir el nombre. Le devuelve su frase de Palermo ("no es parte de esta casa"): el consejo del nombre aburrido (Cap. 40) funcionó, y lo usaron. "Il Consorzio puede muchas cosas que no hace." "Dueña del Monarch, signora Ardizzone." "Una cosa no compra la otra. Por eso se lo ofrecemos hoy": el plural lo vuelve mensajero de la mesa (Q20). Deja el hotel el martes en la mañana, antes del convoy: "no hay prisa".
+- **Gestos que repite del 40:** la taza en el plato como cambio de tono; la libreta de cuero que abre y no lee.
+- **Responde en parte a un pendiente de abajo:** la primera consecuencia que le produce a Chiara es esta negativa con oferta. **La respuesta de Chiara y el momento en que Dario se entera: PENDIENTE (Q24).** Registro: [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]], "La oferta del Monarch".
+
 ## Pendientes
 
 > **PENDIENTE:** apariencia. Y si tiene alguna manía física — algo pequeño que el lector aprenda a temer.

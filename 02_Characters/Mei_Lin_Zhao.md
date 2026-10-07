@@ -63,6 +63,16 @@ Mei-Lin sí entrega información real a Varek — su traición no es un malenten
 
 ---
 
+## Arco final sin Kal — Caps. 45 y 48 (BORRADOR, 2026-10-02)
+
+- **Cap. 45:** con Bonnie, le aporta a Chiara horarios, cambios de turno y cámaras del lote de la base (oficio de rutas del norte). Su pregunta "¿Para qué quiere saber si está vivo, si no lo puede sacar?" es DISEÑO.
+- **Cap. 48 — [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/48_Su_Nombre|Su nombre]]:** Bonnie le pasa su número a Chiara sin saber para qué. Mei-Lin la lleva al puente de un carril sobre la vía de la cementera y se sienta en la mesa con Rafe en La Golondrina. **Siembra muda (CANON DEL AUTOR: no se revela):** pregunta quién le dijo a Chiara "por tierra"; Rafe: "¿Tú de quién eres?" / "De nadie." / "Eso dicen todos los que son de alguien."; mira la libreta de Maribel cuando anota el nombre; no acepta el sobre ("No es por dinero"); baja en una parada y camina hacia el sur sin esperar el camión. En el 50, Chiara la ve en su lista del teléfono "hacia el sur con las manos en los bolsillos".
+- **A quién informa:** a su contacto, que por canon es **Tommaso**. Dario la absorbe después de matarlo, en *Sombras de Poder*. El plan decía "informa a Dario" y se corrigió el 2026-10-03 (A11 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]]). La prosa nunca lo dice.
+- **Regla:** antes de la muerte de Tommaso no se muestra que informa a nadie. Las cinco señales del 48 son mínimas y negables; si el autor las siente demasiado legibles, la siguiente que sale es "¿usted dónde va a estar?" (D15).
+- **50b:** sale en la foto del puente, con las manos en los bolsillos, junto a Chiara. Registro: [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]], "Mei-Lin informa a su contacto".
+
+---
+
 ## Método
 
 Mei-Lin sobrevive leyendo jerarquías. Antes de conducir, mira quién manda de verdad, quién sólo grita y quién cobra sin aparecer.

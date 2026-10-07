@@ -36,7 +36,7 @@ El chofer no preguntó nada más. Cerró la puerta y el coche arrancó hacia la 
 
 ---
 
-El penthouse la recibió con el silencio particular de un sitio que llevaba tiempo sin usarse para nada más que guardar cosas: el aire acondicionado puesto en el mínimo, las cortinas a medio abrir por el servicio de limpieza que entraba una vez por semana sin que nadie se lo pidiera dos veces. Chiara dejó la maleta junto a la puerta y no encendió más luces de las necesarias.
+El penthouse la recibió con el silencio particular de un sitio que llevaba tiempo sin usarse para nada más que guardar cosas: la calefacción puesta en el mínimo, las cortinas a medio abrir por el servicio de limpieza que entraba una vez por semana sin que nadie se lo pidiera dos veces. Chiara dejó la maleta junto a la puerta y no encendió más luces de las necesarias.
 
 Se cambió el abrigo por algo de trabajo y bajó al Monarch antes de que terminara de anochecer.
 

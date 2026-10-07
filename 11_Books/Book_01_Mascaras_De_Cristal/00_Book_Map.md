@@ -7,12 +7,19 @@
 > [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map|Book_02_Sombras_De_Poder]]. Este libro
 > termina en el Cap. 44 ("Ciao, bella", cierre de la Parte III — Ardizzone). Revierte la
 > reconciliación del 2026-09-20 que las había fusionado aquí.
+>
+> **SUPERSESIÓN (2026-10-01/02, CANON DEL AUTOR; calendario 2026-10-06):** el cierre en el 44
+> queda superado. La Parte III — Ardizzone pasa a tener dieciséis capítulos (35–50) más el
+> **Cap. 50b**, *La tierra bajo sus botas*, que cierra el libro (sin la palabra "epílogo").
+> *"—Ciao, bella."* es la última línea del Cap. 50. No hay Parte IV. Kal pasa unos dieciséis
+> días preso y el libro termina el 5 de enero del año 3. Plan:
+> [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
 
 Fuente macro: [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]]. No asigna capítulos nuevos.
 
 | Parte | Entrada y salida |
 |---|---|
-| III — Ardizzone | Conserva Matteo → H16 → crecimiento/Fabrizio → F1/Tres Días/reconciliación → Tommaso/Mei-Lin (sembrado) → H13/Palermo → Camp Alder → apagón/monólogo → loft / **Ciao, bella — cierra el Libro I**. |
+| III — Ardizzone | Conserva Matteo → H16 → crecimiento/Fabrizio → Tommaso/Mei-Lin (sembrado) → H13/Palermo → F1 → Camp Alder (H19) → **arco sin Kal (H20, 44–49):** institución, red, El Patio, Dario, los Bravos, Il Consorzio → convoy señuelo, apagón/monólogo → loft / **Ciao, bella** (fin del 50) → **Halbrook en San Aurelio (50b) — cierra el Libro I**. ~~… apagón/monólogo → loft / Ciao, bella — cierra el Libro I~~ (orden de 2026-09-22, superado). |
 
 H8, F4, F3, F2, Villa, Stavanger y H1 ya no pertenecen a este libro — ver
 [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]. Elenna sólo aparece aquí de forma indirecta
@@ -56,7 +63,11 @@ El primer cruce ocurre en la entrada del casino: ella fuma, observa, se presenta
 
 Al final del Libro I, Kal y Chiara están reunidos pero sin haber hablado todavía de lo
 ocurrido — Kal liberado de un modo que no se explica, Chiara sin saber cómo. **"Ciao, bella."**
-El imperio, la guerra, la pérdida de Bonnie y Mei-Lin, el embarazo y la llegada de Halbrook
+Después, al alba, un hombre sin nombre (Halbrook) baja de un helicóptero en Kingsley Field y
+abre una carpeta con fotos de todos ellos; al reverso de una, "Chiara Bellandi" (Cap. 50b).
+Chiara le debe a Dario una cuenta abierta, su nombre quedó escrito con los Bravos y
+Il Consorzio le ofreció el Monarch.
+El imperio, la guerra, la pérdida de Bonnie y Mei-Lin y el embarazo ~~y la llegada de Halbrook~~ (pasó al 50b, 2026-10-01)
 pertenecen al Libro II en adelante. La imagen final de la saga completa (Palermo, la niña en
 casa) sigue siendo la de *Cuentas de Sangre* — ver [[00_Biblia/00_Trilogy_Structure]].
 
@@ -336,7 +347,9 @@ Elenna no es un *stake* ornamental ni la única razón de Palermo. Palermo tambi
 
 **· · · CORTE PARTE II → PARTE III — ARDIZZONE · · ·** *(fijado 2026-09-20, autor)*
 
-**Parte III — Ardizzone (Caps. 35–44), en `Part_03_Ardizzone/`; auditoría editorial 2026-09-27:** los diez operados por etapas (E1–E9) según [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]]. 35 *Sin fecha de regreso* (recibe en E9 la escena de Anya en el Monarch, BORRADOR/DISEÑO; la coda de las invitaciones pasó al 36) · 36 *También las mañanas* (H16, compactado) · 37 *Cuatro letras* · 38 *Al revés* (8,628 → 7,785, sin vela) · 39 *Un par de días más* · 40 *Mecánico* · 41 *La otra mitad* · 42 *Nada* (F1) · 43 *La puerta* (H19) · 44 *A oscuras* (H20, cierra el Libro I). Títulos 36–38 confirmados por el autor. Los diez siguen en BORRADOR; prosa 31,999 → 31,032.
+**Parte III — Ardizzone (Caps. 35–44), en `Part_03_Ardizzone/`; auditoría editorial 2026-09-27:** los diez operados por etapas (E1–E9) según [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]]. 35 *Sin fecha de regreso* (recibe en E9 la escena de Anya en el Monarch, BORRADOR/DISEÑO; la coda de las invitaciones pasó al 36) · 36 *También las mañanas* (H16, compactado) · 37 *Cuatro letras* · 38 *Al revés* (8,628 → 7,785, sin vela) · 39 *Un par de días más* · 40 *Mecánico* · 41 *La otra mitad* · 42 *Nada* (F1) · 43 *La puerta* (H19) · 44 *A oscuras* (H20, cierra el Libro I). Títulos 36–38 confirmados por el autor. Los diez siguen en BORRADOR; prosa 31,999 → 31,032. **Nota (2026-10-01):** el 44 de esta lista se rehízo como *Jurisdicción*; *A oscuras* es ahora el 50 y ya no cierra el libro.
+
+**Arco final sin Kal (Caps. 44–50b, H20), en `Part_03_Ardizzone/`:** redactado 2026-10-02 según [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]; auditado y operado en E0–E8 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]], microedición cerrada 2026-10-05, −370 palabras); calendario corrido una semana el 2026-10-06 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]). [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/44_Jurisdiccion|44 *Jurisdicción*]] (la institución) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/45_Ropa_Limpia|45 *Ropa limpia*]] (su red; la prueba de vida; la Navidad sin Kal) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/46_Llaves|46 *Llaves*]] (El Patio) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/47_Intereses|47 *Intereses*]] (Dario; la cuenta abierta) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/48_Su_Nombre|48 *Su nombre*]] (los Bravos) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/49_Enfrente|49 *Enfrente*]] (Valenti, el Monarch) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/50_A_Oscuras|50 *A oscuras*]] (el apagón, el monólogo, "Ciao, bella") · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/50b_La_Tierra_Bajo_Sus_Botas|50b *La tierra bajo sus botas*]] (Halbrook; cierra el libro). Los ocho siguen en BORRADOR.
 
 ## Proximo paso
 

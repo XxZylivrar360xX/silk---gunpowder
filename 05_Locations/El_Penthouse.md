@@ -3,7 +3,7 @@
 *Ficha de Lugar — la zona segura de la primera etapa*
 
 **Qué es:** el penthouse en la Torre Norte de [[03_Factions/El_Casino|The Monarch Casino & Hotel]]. Donde vive Chiara al llegar a la ciudad.
-**Dónde:** [[05_Locations/San_Aurelio]].
+**Dónde:** [[05_Locations/San_Aurelio]], último piso de la Torre Norte del Monarch, en la punta oeste de La Isla ([[99_Reference/location_references/mapa_san_aurelio.png|mapa definitivo]], 2026-10-06). Desde el ventanal se ven Punta Dorada, el puente sobre la bahía y, del otro lado, el puerto y el centro.
 **De quién es:** del casino. O sea: de otros. Y ése es el punto.
 
 > **CANON DEL AUTOR (2026-08-23):** **el penthouse es la zona segura de los dos durante la etapa en que se conocen.** Antes de que exista [[05_Locations/La_Casa]], existe esto.

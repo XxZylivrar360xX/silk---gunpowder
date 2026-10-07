@@ -5,7 +5,7 @@
 > **NOMBRE CANON DE DISEÑO (2026-08-23): The Monarch Casino & Hotel.** En diálogo: **el Monarch**. El archivo conserva el nombre `El_Casino.md` porque su función narrativa empezó antes que su nombre.
 
 **Qué es:** hotel-casino de [[05_Locations/San_Aurelio]], construido sobre un hotel costero de los años veinte y ampliado con una torre moderna de juego, suites y eventos. Propiedad de un grupo de socios italianos recién llegados, con [[02_Characters/Chiara_Bellandi]] entre ellos, y con [[02_Characters/Dario_Varek]] como socio mayoritario local.
-**Territorio:** borde del Distrito Marino, tocando La Isla sin pertenecerle. Fachada pública hacia Paseo Pacífica; acceso discreto de carga hacia Terminal Road / Ruta de Muelles.
+**Territorio:** punta oeste de La Isla, frente al océano, con el Hipódromo en la misma propiedad ([[99_Reference/location_references/mapa_san_aurelio.png|mapa definitivo]], CANON DEL AUTOR 2026-10-06). Fachada pública hacia el Paseo Pacífica; acceso discreto de carga por la costera sur de La Isla. Su ruta a tierra firme es el Bulevar Corona y el Puente de Piedra. [Antes: "borde del Distrito Marino, tocando La Isla sin pertenecerle", con carga hacia Terminal Road; superado por el mapa.]
 **Estado al abrir la novela:** llegando. Los socios aterrizan de Italia el mismo día en que Kal conoce a Chiara.
 
 ---
@@ -14,13 +14,15 @@
 
 El Monarch está donde San Aurelio quiere verse cara: costa, cristal, valet, restaurantes, música, luces y cámaras privadas. Pero su espalda mira hacia la ciudad que lo sostiene: cocinas, lavandería, carga, estacionamientos de empleados, proveedores, rutas de muelle y seguridad contratada.
 
-**Colocación exacta:** frontera Distrito Marino / La Isla, sobre Paseo Pacífica, con salida de servicio a Terminal Road. Eso permite tres cosas:
+**Colocación exacta:** punta oeste de La Isla, sobre el Paseo Pacífica, con salida de servicio a la costera sur. Es enclave privado dentro de La Isla: el casino es de Varek, el piso nocturno de alrededor es de los Saints (CANON DEL AUTOR, 2026-10-06). Eso permite tres cosas:
 
 - Chiara pertenece al mundo visible de la entrada principal.
 - Kal entra por la puerta de proveedores sin dejar de poder aparecer en el lobby cuando hace falta.
-- Los [[03_Factions/Breakwater_Saints_MC]] no controlan el casino, pero sí controlan buena parte del piso nocturno que lo rodea.
+- Los [[03_Factions/Breakwater_Saints_MC]] no controlan el casino, pero sí el piso nocturno que lo rodea (Paseo Pacífica, valet, bares), además de las marinas, los hoteles y los clubes del resto de La Isla. Conviven puerta con puerta.
 
 **El penthouse** queda en la Torre Norte del Monarch. Ver [[05_Locations/El_Penthouse]].
+
+**Torre Sur y generador (Cap. 50, DISEÑO, BORRADOR 2026-10-02):** el Monarch tiene también una **Torre Sur**, con elevadores de huéspedes; se deduce de la Torre Norte y no choca con nada. Durante el apagón del sur, **el generador sólo da para la jaula y las cámaras**: los elevadores se paran y el piso de juego queda en la penumbra amarilla de las luces de emergencia, con las máquinas en silencio. Enfrente, sobre el mismo Paseo Pacífica, está el **Hotel Pacífica**, donde Valenti le ofrece a Chiara el Monarch (Cap. 49; ver [[05_Locations/San_Aurelio]], "Lugares del arco final sin Kal").
 
 **La bahía de carga y el túnel este.** Bajo el nivel de calle, la bahía de recepción de proveedores conecta con un **túnel de servicio que corre por debajo del puente del canal** hasta la orilla — construido como acceso de mercancías y homologado también como **salida de evacuación** del complejo. Huele a marea y a diésel; no lo usa casi nadie. Ninguna cámara del lobby cubre la rampa de proveedores que sale por ahí. Es la ruta por la que se puede entrar al Monarch de forma visible (para que alguien "vea" llegar a una persona) y salir sin que nadie lo registre. Usada así por primera vez en el Capítulo 8 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24c_El_Corral]]): Chiara entra por la bahía con un seguidor detrás y sale a pie con Kal por la parte de atrás.
 

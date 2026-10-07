@@ -4,12 +4,12 @@ Título: PENDIENTE. "Llaves" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
 Personajes con diálogo: Héctor Navarro, Nadir Amrani, Danny Hayes, Garrett Cross, Walt Keegan, Marisol Grayson (una línea, por teléfono).
 Ventana temporal: tarde y anochecer de D8 (horas después del amanecer en el Cutoff, Cap. 45). El plan decía D8–D9; el capítulo cabe en una sola tarde. Sin encabezados de fecha.
-Calendario (CANON DEL AUTOR 2026-10-06, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]): jueves 30 de diciembre. El "campamento de fin de mes" de Marisol pasa a fin de año (prosa pendiente).
+Calendario (CANON DEL AUTOR 2026-10-06, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]): jueves 30 de diciembre. Pasada de calendario hecha 2026-10-06 (DISEÑO, pendiente de lectura): diez días de silencio, once de Nadir, Navidad en la mentira de Héctor, "fin de año" en el recuerdo del yate (y en el 38), niños sin escuela.
 Lugares: La Almendra (el rodeo para no pasar frente al loft); Almendra Towing / El Patio: portón, capó de Héctor, mostrador de Nadir, oficina de Garrett, la camioneta del fondo.
 Función: "Los de Kal". La gente de Kal la recibe fría y termina siguiéndola. Movimiento de poder: Nadir le entrega las llaves; Chiara cita al hombre de Dario; Héctor le pasa el teléfono para Marisol.
-- Frialdad (DISEÑO): no por F1 (nadie en el Patio sabe de la pelea ni de la puerta del penthouse, Cap. 43), sino por cuatro días de silencio: Héctor le preguntó en el 44 "¿Usted puede hacer algo?" y ella no volvió a llamar.
+- Frialdad (DISEÑO): no por F1 (nadie en el Patio sabe de la pelea ni de la puerta del penthouse, Cap. 43), sino por diez días de silencio: Héctor le preguntó en el 44 "¿Usted puede hacer algo?" y ella no volvió a llamar.
 - Prueba de vida: Chiara la da sin nombrar a Rosaura ni la lavandería por su nombre. Walt (diez años preso) lee la ropa doblada: "El que la dobla todavía está pensando en salir." DISEÑO: es la función de Walt en el capítulo; ninguna otra voz del Patio tiene ese saber.
-- Nadir: tres noches yendo al perímetro con la camioneta lista. "Salimos cuatro, volvimos tres" (eco del 44). Chiara lo frena en su idioma, con la cuenta ("la deja en dos"). Nadir le entrega las llaves. La culpa de Nadir hacia Héctor (el jalón del helicóptero) queda en una mirada; Héctor la aguanta sin contestar.
+- Nadir: todas las noches desde el arresto yendo al perímetro con la camioneta lista. "Salimos cuatro, volvimos tres" (eco del 44). Chiara lo frena en su idioma, con la cuenta ("la deja en dos"). Nadir le entrega las llaves. La culpa de Nadir hacia Héctor (el jalón del helicóptero) queda en una mirada; Héctor la aguanta sin contestar.
 - Armas de Dario (siembra del 47, sin detalle): las cajas siguen "donde las dejamos"; un hombre de Dario en un Audi ha venido a preguntar dos veces; Chiara lo cita para el día siguiente. Sin modelos, cantidades ni lugar.
 - Loft: Chiara da un rodeo para no pasar enfrente; Héctor le ofrece la llave; ella da la instrucción de la albahaca y no sube. Sin glosa.
 - Marisol (plan: "alguien tiene que decírselo"): el campamento de fin de mes (sembrado en el 38) cae el sábado; Walt iba a cubrir las grúas. Garrett marca el riesgo (estudia derecho, va a querer un cargo y una ventanilla). Héctor ya le mintió dos veces a Marisol y no va a mentirle una tercera (Q4 de la auditoría del arco, 2026-10-03); le pasa el teléfono a Chiara. Corte antes de la conversación (DISEÑO: queda fuera de página; si el autor la quiere en escena, abre el 47 o se amplía aquí).
@@ -20,7 +20,7 @@ Función: "Los de Kal". La gente de Kal la recibe fría y termina siguiéndola. 
 
 Para llegar al Patio desde el centro había una vuelta que Chiara daba siempre sin pensarla: a la derecha en la calle del mercado, dos cuadras, y a la izquierda en la esquina de la lavandería de monedas, la que tenía el letrero con una burbuja fundida. Esa tarde siguió de largo en la calle del mercado y dio vuelta en la siguiente, una calle de casas bajas con perros detrás de las rejas, y salió a la avenida tres cuadras más abajo, por el lado del lote baldío. Tardó cuatro minutos más. No miró hacia la izquierda en ningún cruce.
 
-Eran pasadas las cinco. La Almendra tenía el ruido de esa hora: una licuadora en alguna cocina, un radio con un partido, niños de uniforme comprando paletas de hielo en un carrito. Un hombre lavaba la banqueta de su tienda con una cubeta y una escoba, y se detuvo con la escoba en el aire para ver pasar el Lancia. En La Almendra todos conocían ese coche.
+Eran pasadas las cinco. La Almendra tenía el ruido de esa hora: una licuadora en alguna cocina, un radio con un partido, niños sin escuela pateando una pelota contra una cortina de metal. Un hombre lavaba la banqueta de su tienda con una cubeta y una escoba, y se detuvo con la escoba en el aire para ver pasar el Lancia. En La Almendra todos conocían ese coche.
 
 Chiara lo estacionó enfrente del portón, del otro lado de la calle, y apagó el motor.
 
@@ -42,7 +42,7 @@ Las piernas de mezclilla salieron rodando de debajo del sedán. Danny se incorpo
 
 Nadir cerró el libro. Lo hizo despacio, con las dos manos, como quien cierra una caja que todavía tiene algo adentro.
 
-—Cuatro días, señora —dijo.
+—Diez días, señora —dijo.
 
 Chiara no contestó. Se detuvo a mitad del Patio, entre la grúa y el capó, donde la podían ver todos, y esperó.
 
@@ -154,7 +154,7 @@ Nadir se volvió hacia él. Lo miró de una manera que Chiara no le había visto
 
 Nadir fue el que miró a otro lado.
 
-—Tres noches —dijo—. Voy, me estaciono en un camino, miro las luces. A las cuatro me regreso. —Abrió la puerta de la camioneta y la volvió a cerrar, sin sacar nada—. Wallah, no hago nada. Sólo miro.
+—Todas las noches —dijo—. Voy, me estaciono en un camino, miro las luces. A las cuatro me regreso. —Abrió la puerta de la camioneta y la volvió a cerrar, sin sacar nada—. Wallah, no hago nada. Sólo miro.
 
 —¿Y la mochila?
 
@@ -162,9 +162,9 @@ Nadir fue el que miró a otro lado.
 
 —Ya entramos una vez —dijo Danny, desde el suelo, bajito, sin que nadie le hubiera preguntado. Se calló en cuanto lo dijo.
 
-—Una vez —dijo Nadir, y señaló a Danny con la barbilla—. Ya sabemos cómo. Ya sabemos por dónde. La primera vez no sabíamos y salió casi bien. Casi. —Levantó una mano y fue doblando los dedos contra la palma—. Salimos cuatro. Volvimos tres. Esa cuenta no me cierra, señora. Llevo cuatro días haciéndola y no me cierra.
+—Una vez —dijo Nadir, y señaló a Danny con la barbilla—. Ya sabemos cómo. Ya sabemos por dónde. La primera vez no sabíamos y salió casi bien. Casi. —Levantó una mano y fue doblando los dedos contra la palma—. Salimos cuatro. Volvimos tres. Esa cuenta no me cierra, señora. Llevo once días haciéndola y no me cierra.
 
-Chiara caminó hasta la camioneta. Se paró frente a Nadir, a un brazo de distancia, y vio de cerca lo que desde el mostrador no se veía: los ojos rojos en los bordes, la barba de cuatro días, una mancha de grasa en el cuello de la camisa que Nadir, que se cambiaba de camisa dos veces al día cuando había clientes, no se había quitado.
+Chiara caminó hasta la camioneta. Se paró frente a Nadir, a un brazo de distancia, y vio de cerca lo que desde el mostrador no se veía: los ojos rojos en los bordes, la barba de muchos días, una mancha de grasa en el cuello de la camisa que Nadir, que se cambiaba de camisa dos veces al día cuando había clientes, no se había quitado.
 
 —Si lo ven a usted en ese camino —dijo—, mañana alguien en Kingsley plancha dos etiquetas.
 
@@ -276,13 +276,13 @@ Estaba bocabajo junto a la botella, y el zumbido contra el metal sonó más fuer
 
 Chiara no preguntó. Héctor la estaba mirando con el teléfono quieto bajo la mano.
 
-—La niña —dijo Héctor—. El martes le dije que andaba en el norte con una grúa. Ayer le dije lo mismo. Hoy ya no me cree.
+—La niña —dijo Héctor—. En Navidad le dije que andaba en el norte con una grúa. Ayer le dije lo mismo. Hoy ya no me cree.
 
 —¿Qué sabe ella?
 
-—Que no contesta. Que nunca no contesta. —Héctor se pasó la mano por la cara—. Y que el sábado se van al monte.
+—Que no contesta. Que ni en Navidad. Que nunca no contesta. —Héctor se pasó la mano por la cara—. Y que el sábado se van al monte.
 
-Chiara se acordó. La vio en la cubierta del yate, la chaqueta militar abierta sobre el vestido, la copa que Marisol había tomado de la charola y había devuelto sin probar. *Fin de mes, dos noches, sin teléfonos.*
+Chiara se acordó. La vio en la cubierta del yate, la chaqueta militar abierta sobre el vestido, la copa que Marisol había tomado de la charola y había devuelto sin probar. *Fin de año, dos noches, sin teléfonos.*
 
 —Me pidió que le cuidara las grúas ese fin de semana —dijo Walt—. Kal. Ya tengo las llaves de la grande.
 

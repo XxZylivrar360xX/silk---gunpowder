@@ -52,7 +52,7 @@ La puerta se abrió antes de que se detuvieran.
 
 Lo primero que bajó fue una bota. Negra, de servicio, lustrada hasta dar reflejo. Se apoyó en el concreto con todo el peso, sin prisa, y después bajó la otra, y el hombre que las llevaba se quedó un momento así, de pie junto al helicóptero, con las dos botas sobre la tierra de San Aurelio.
 
-No llevaba uniforme. Pantalón oscuro, una chamarra ligera sin insignias, cerrada hasta arriba. Andaría por los sesenta. Era compacto, de hombros cuadrados y cuello grueso, y estaba de pie como si llevara el uniforme debajo. Tenía el pelo gris acero, cortado muy corto, y la nariz un poco desviada, de alguna vez.
+No llevaba uniforme. Pantalón oscuro, una chamarra sin insignias, cerrada hasta arriba. Andaría por los sesenta. Era compacto, de hombros cuadrados y cuello grueso, y estaba de pie como si llevara el uniforme debajo. Tenía el pelo gris acero, cortado muy corto, y la nariz un poco desviada, de alguna vez.
 
 No miró al hombre del traje. Miró hacia el sur.
 
@@ -114,7 +114,7 @@ Después puso la última foto encima de las demás, cuadró el borde con las yem
 
 Volvió a mirar hacia el sur.
 
-El sol salía detrás del puerto. Iluminó primero las grúas, después los techos del sur, después la Almendra entera, que desde ahí era una mancha baja y apretada de azoteas, tinacos y antenas.
+El sol salía por los cerros, a su izquierda. Iluminó primero las grúas, después los techos del sur, después la Almendra entera, que desde ahí era una mancha baja y apretada de azoteas, tinacos y antenas.
 
 Del lado del mar venían nubes bajas, cargadas, de un gris casi morado, y se le echaron encima al sol antes de que terminara de subir. La luz se fue de las grúas, de los techos del sur, de la Almendra, en el mismo orden en que había llegado. La ciudad se quedó del color del cemento.
 

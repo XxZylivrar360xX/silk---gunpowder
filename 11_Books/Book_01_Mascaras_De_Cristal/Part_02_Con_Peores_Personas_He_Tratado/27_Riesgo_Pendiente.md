@@ -19,7 +19,7 @@ NO resolver (pendientes del autor / arco reservado):
 La prosa sostiene el hueco; no lo esconde.
 Continuidad:
 - El borrador *"no es Varek"* se apoya en la siembra de la Parte I (H12; DISEÑO 2026-09-10): Dario le dijo a Kal junto a la cama del hospital, al bajar las armas (H12), que lo de Chiara lo arreglaba él y que Kal "no tenía vela ahí. Ni en eso ni en ti". **Actualizado 2026-09-26 (autor):** la frase canon es ahora "La tregua es por lo que le pasó, señor Mercer. No por ella."; la cita de la l. 62 ya se ajustó. **E5 (2026-09-27):** el razonamiento *ella va a pensar en Varek* se retiró de la l. 62 por repetir la decisión del camino de vuelta; con él salió el eco *no por ella*, que sigue vivo en el 25. Kal lo minimizó; Chiara no. Aquí Kal sabe que ella pensará en Varek (es lo que tiene a la vista) pero a él Varek no le quita el sueño — el peso real es Halbrook, y ése no lo puede nombrar. Si el autor cambia o retira la siembra del 26, revisar este párrafo.
-- Halbrook NO pisa San Aurelio todavía (su llegada física es la coda que cierra el Libro II, *Sombras de Poder*). La reunión es fuera de la ciudad.
+- Halbrook NO pisa San Aurelio todavía (~~su llegada física es la coda que cierra el Libro II~~; superado 2026-10-01: llega en el Cap. 50b del Libro I, que recoge el retrato de este capítulo). La reunión es fuera de la ciudad.
 - Kal y Chiara se tutean desde el Cap. 7. En este punto el registro privado está en semilla (pre-H16): sin apodos plenos, sin ritual del Ciao.
 - "Conduce él, siempre": aquí es lo único que puede hacer.
 -->

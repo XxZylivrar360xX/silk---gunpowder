@@ -147,7 +147,7 @@ Brújula que se cobra aquí: **progresión de hogar** (penthouse → loft). Chia
 
 ## Halbrook — la liberación (CANON DEL AUTOR, 2026-09-21)
 
-- **Halbrook no pisa San Aurelio.** Mueve hilos desde fuera: **el apagón del sur es suyo** — la ventana para sacar a Kal de Camp Alder sin trámite.
+- **Halbrook no pisa San Aurelio** *(hasta el apagón; superado 2026-10-01: llega en el Cap. 50b, ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]])*. Mueve hilos desde fuera: **el apagón del sur es suyo** — la ventana para sacar a Kal de Camp Alder sin trámite.
 - **Lo que Halbrook quería** del expediente sellado era **leer un nombre**. Lo consigue. Después **devuelve el expediente** a la base con un mensaje del tenor *"recupere esto; aquí no pasó nada"*: sin cuerpo del delito, no hay caso federal que sostener, y Kal sale por la puerta que el apagón abrió. *(Lectura del agente sobre el dictado del autor: la frase va dirigida a la base, no a Kal. Corregir si no.)*
 - **Lo que Kal sabe:** luces fuera, bolsa de tela, loft. **Lo que Chiara sabe:** lo que Kal le cuenta en el 45. **Lo que el lector sabe en Libro I:** lo mismo. El autor tiene planes para el cobro de este pago.
 - **La revelación completa** (apagón = Halbrook; el nombre del expediente; qué compró Halbrook con eso) **se reserva para *Voto de Ceniza* (Libro III).** En Libro I no sembrar más de lo que la escena del 44/45 necesita: ni Kal ni Lucía ni Chiara conectan el apagón con la liberación en voz alta.

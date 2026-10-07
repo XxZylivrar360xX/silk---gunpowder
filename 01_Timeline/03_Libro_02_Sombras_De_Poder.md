@@ -10,10 +10,13 @@
 >
 > **Fuente operativa:** [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] · [[06_Relationships/Hitos]] · [[00_Biblia/00_Trilogy_Structure]] · [[06_Relationships/Kal_y_Chiara]] · [[06_Relationships/Momentos_de_Fractura]].
 >
-> **Estado:** sin prosa. El Libro I termina en el Cap. 44 ("Ciao, bella"); este libro abre en
-> el Cap. 45 (reconciliación, todavía sin redactar — plan capítulo por capítulo en
-> [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]], que cubre el
-> tramo 39-45 aunque el 45 en adelante pertenezca ya a este libro).
+> **Estado:** sin prosa. ~~El Libro I termina en el Cap. 44 ("Ciao, bella"); este libro abre en
+> el Cap. 45~~ **SUPERADO (2026-10-01, CANON DEL AUTOR):** el Libro I termina en el Cap. 50b
+> ("Ciao, bella" es la última línea del 50; el 50b es la llegada de Halbrook, al alba del 5 de
+> enero). Este libro abre con la respuesta de Chiara; número y título del primer capítulo
+> PENDIENTES. La reconciliación sigue planeada en
+> [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]] (sección del
+> antiguo Cap. 45), que ahora absorbe unos dieciséis días de ausencia, no tres.
 >
 > **Regla de lectura:** mismas categorías que [[06_Relationships/Hitos]] — **CANON**, **DISEÑO**,
 > **PENDIENTE**. Este archivo no fija capítulos todavía no escritos, no inventa fechas y no
@@ -37,9 +40,9 @@
 Formulación interna equivalente: **¿qué le ocurre a una pareja cuando amar al otro empieza a
 tener consecuencias territoriales?**
 
-El libro abre inmediatamente después del *"Ciao, bella"* que cierra el Libro I y cierra con
-**H1** (clímax), el reveal del embarazo y la llegada física de **Warren Halbrook** a San
-Aurelio — la misma bisagra de salida que antes cerraba el Libro I completo. Todo lo que sigue
+El libro abre inmediatamente después del *"Ciao, bella"* y del Cap. 50b que cierran el Libro I, y cierra con
+**H1** (clímax) y el reveal del embarazo en la chimenea de Villa Candelaria. ~~y la llegada física de **Warren Halbrook** a San
+Aurelio — la misma bisagra de salida que antes cerraba el Libro I completo~~ (superado 2026-10-01/02: Halbrook llega en el 50b del Libro I). Todo lo que sigue
 en este archivo ocurre **antes** de la Guerra de los Tres, que sigue perteneciendo a *Voto de
 Ceniza* (Libro III).
 
@@ -104,7 +107,7 @@ por protección; este libro prueba esa dinámica a escala mucho mayor.
 > obtiene explicación completa. Ver "Halbrook — la liberación" en
 > [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
 
-**Reconciliación completa** de F1 + Palermo + los tres días + el arresto: hablan de todo. Es
+**Reconciliación completa** de F1 + Palermo + los tres días + el arresto + **los dieciséis días sin él** (Kal se entera de hasta dónde llegó Chiara, salvo la cuenta abierta con Dario, que no sabe; calendario CANON 2026-10-06): hablan de todo. Es
 la reconciliación más cargada de la pareja hasta aquí. Chiara admite que mintió para
 administrar el problema; Kal admite que su silencio (Palermo, Halbrook) también lastima.
 Momento cálido: los dos recostados en la cama. Mañana siguiente: desayuno, vuelven al hogar
@@ -395,11 +398,11 @@ volver a Chiara, a ellos y al futuro compartido, no sólo a un edificio.
 Después de H1, con Kal fuera de peligro, después de dormir y recuperar una mínima normalidad
 doméstica. **No durante hemorragia, atención médica, baño ni pico emocional.**
 
-La coda se mantiene: un helicóptero aterriza en una instalación militar del área de San
+~~La coda se mantiene: un helicóptero aterriza en una instalación militar del área de San
 Aurelio; **Warren Halbrook llega físicamente**. Sin presentación pública ni exposición
-extensa. Fin del Libro II, antes del nacimiento de Elenna y antes de la guerra abierta.
+extensa.~~ (Superado: la coda pasó al Cap. 50b del Libro I; el libro cierra en la chimenea, ver arriba.) Fin del Libro II, antes del nacimiento de Elenna y antes de la guerra abierta.
 
-> **SUPERADO EN PARTE (2026-10-02, CANON DEL AUTOR):** Halbrook ya llegó físicamente en el Cap. 50b del Libro I; la coda del Libro II queda por redefinir. **Su siguiente aparición en prosa es la gala de beneficencia de Chiara, con el baile.**
+> **SUPERADO EN PARTE (2026-10-02, CANON DEL AUTOR):** Halbrook ya llegó físicamente en el Cap. 50b del Libro I; la coda del Libro II ~~queda por redefinir~~ quedó redefinida el mismo día: el reveal en la chimenea (ver "Cierre del Libro II", arriba). **Su siguiente aparición en prosa es la gala de beneficencia de Chiara, con el baile.**
 >
 > **SEMILLA CANÓNICA DEL AUTOR (2026-09-28) — el evento benéfico:** Chiara organiza o preside un evento benéfico; Halbrook aparece como nuevo benefactor. Chiara conoce primero al hombre (conversación y un baile) y después el nombre, cuando Kenji los presenta; reacción mínima. Primer duelo Chiara–Halbrook y primera entrada de Halbrook al circuito cívico (no presentarlo como campaña). Debe caer antes o después de su llegada física según decida el autor. Ver [[02_Characters/Warren_Halbrook]].
 
@@ -421,8 +424,8 @@ extensa. Fin del Libro II, antes del nacimiento de Elenna y antes de la guerra a
   futuro elegido.
 - **III / TORNA A CASA:** conflicto final creciendo → Silas Crowe (mecanismo pendiente) →
   conflicto Varek → embarazo de Chiara → **H1 / `Perché ti amo con tutto il mio cuore.`** →
-  regreso → recuperación mínima → reveal a Kal → familia futura / Elenna → coda Halbrook en San
-  Aurelio.
+  regreso → recuperación mínima → reveal a Kal → familia futura / Elenna (reveal en la chimenea, fin del libro). ~~→ coda Halbrook en San
+  Aurelio~~ (pasó al Cap. 50b del Libro I).
 
 ## Progresión de hogar — brújula de DISEÑO, no prosa
 
@@ -477,7 +480,7 @@ Fuente: migración de la incubadora de ChatGPT, validada por el autor el 2026-10
 ## Cierre del Libro II
 
 El Libro II termina exactamente donde [[00_Biblia/00_Trilogy_Structure]] lo fija: antes del
-nacimiento de Elenna, antes de la Guerra de los Tres abierta, con Halbrook recién llegado.
+nacimiento de Elenna, antes de la Guerra de los Tres abierta, con Halbrook ya en San Aurelio desde el cierre del Libro I (Cap. 50b).
 *Voto de Ceniza* (Libro III) hereda esta escena tal cual — ver
 [[01_Timeline/01_Indice_Cronologico]] y [[01_Timeline/04_Libro_03_Voto_De_Ceniza]].
 

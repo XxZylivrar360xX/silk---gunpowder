@@ -187,6 +187,18 @@ A cambio, Kal pide **seguridad para Chiara**. Y trae con qué pagarlo: **una ent
 
 ---
 
+## Arco final sin Kal — Caps. 46–47 (BORRADOR, 2026-10-02)
+
+Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Auditoría: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]].
+
+- **Cap. 46:** Chiara cita al hombre de Dario (el del Audi) para cerrar la entrega de las armas largas que quedó pendiente tras el helicóptero.
+- **Cap. 47 — [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/47_Intereses|Intereses]]** (viernes 31 de diciembre, Nochevieja), en una bodega del Puerto Viejo con oficina en alto sobre los muelles (la nueve). **CANON DEL AUTOR:** Dario exige intereses por el retraso, a pagar por el barrio con trabajo. Chiara se niega y queda debiendo **una cuenta abierta**: un favor sin nombre que él cobra cuando quiera, en *Sombras de Poder*, rumbo a H1. Kal no lo sabe.
+- **DISEÑO de la escena:** mide el retraso (doce días) en riesgo, no en dinero. Pide el Patio "por un tiempo". Inventario sin desprecio. La tutea; ella le habla de usted. "No te lo pregunté" invierte el registro. **Favoritismo por Kal, sin glosa:** "Cóbreselos a él cuando salga." / "A él no." Admite sin que se lo pregunten que no puede sacarlo ("Camp Alder no es San Aurelio"). A "que Kal no se entere" contesta "De mí, no."
+- **Lo que no sabe todavía:** que Il Consorzio le ofreció su Monarch a Chiara (Cap. 49; Q24 PENDIENTE). El 50 y el 50b no dependen de que sepa del asalto al convoy.
+- **Herencia:** el cobro de la cuenta abierta choca con el frente de Garrett y Krane, que le cortan el efectivo al Monarch ([[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]). Registro: [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]], "La cuenta abierta con Dario".
+
+---
+
 ## Pendientes
 
 > **PENDIENTE:** nombre de su organización. Es la facción dominante de San Aurelio y todavía no existe como ficha en `03_Factions/`. Su base es **el puerto**.

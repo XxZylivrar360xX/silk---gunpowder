@@ -8,8 +8,10 @@
 > `Torna a Casa`), ahora sus propias Partes I-III. Deriva de
 > [[00_Biblia/00_Trilogy_Structure]] y de [[01_Timeline/03_Libro_02_Sombras_De_Poder]], que
 > contiene el desarrollo Parte por Parte con todo el detalle de diseño ya fijado. **Estado:
-> esqueleto — sin prosa.** El Libro I termina en el Cap. 44; este libro abre en el Cap. 45,
-> todavía sin redactar.
+> esqueleto — sin prosa.** ~~El Libro I termina en el Cap. 44; este libro abre en el Cap. 45,
+> todavía sin redactar.~~ **SUPERADO (2026-10-01, CANON DEL AUTOR):** el Libro I termina en el
+> Cap. 50b ("Ciao, bella" cierra el 50; Halbrook llega en el 50b, al alba del 5 de enero). El
+> primer capítulo de este libro está sin redactar; número y título PENDIENTES.
 
 ---
 
@@ -43,7 +45,7 @@ construyen empieza a decidir quién debe ser cada uno.
 
 ## Punto de entrada
 
-Abre en el instante exacto donde termina el Libro I: Kal, liberado de Camp Alder de un modo
+Abre en el instante exacto donde termina el Cap. 50 del Libro I (el 50b es una coda exterior, al alba): Kal, liberado de Camp Alder de un modo
 que no explica, de pie en la isla del loft a oscuras. Chiara le apunta con su Beretta. Él dice
 *"Ciao, bella."* Todo lo que sigue — su respuesta, la reconciliación completa, la llamada de
 la policía por Tommaso Lusardi esa misma tarde — abre este libro.
@@ -52,8 +54,8 @@ la policía por Tommaso Lusardi esa misma tarde — abre este libro.
 
 Al final, Kal y Chiara siguen juntos. El Patio ha sobrevivido su primer enfrentamiento abierto
 serio (H1); Chiara está embarazada y Kal ya lo sabe. Han perdido a Mei-Lin y a Bonnie, perdido
-el loft, reconstruido en Villa Candelaria y se han comprometido en Stavanger. Warren Halbrook
-acaba de llegar físicamente a San Aurelio. La guerra todavía no ha explotado, pero ya es
+el loft, reconstruido en Villa Candelaria y se han comprometido en Stavanger. ~~Warren Halbrook
+acaba de llegar físicamente a San Aurelio.~~ (Superado: Halbrook llegó en el Cap. 50b del Libro I y aquí ya opera dentro de la ciudad; el libro cierra con el reveal en la chimenea.) La guerra todavía no ha explotado, pero ya es
 inevitable — eso pertenece a *Voto de Ceniza*.
 
 ## Tesis emocional
@@ -70,8 +72,8 @@ sobrevivan — como individuos y como pareja — a haberlo ganado.
 
 | Personaje | Empieza en | Presión principal | Decisión clave | Termina en |
 |-----------|------------|-------------------|-----------------|------------|
-| Kal Mercer | Recién liberado de Camp Alder, todavía viéndose como "un hombre que resuelve problemas" | Cada solución genera más territorio, dependencias y enemigos | Aceptar, sin ceremonia, que se ha vuelto el jefe de una organización reconocida | Padre en camino, dueño de un poder que casi le cuesta la vida en H1 |
-| Chiara Bellandi | Reconciliada con Kal, absorbiendo las sillas que Matteo y Tommaso dejan vacías | Ayudar a Kal a sobrevivir puede convertirlo en lo que ella conoce el precio de ser | Crecer como operadora propia, no como estratega auxiliar del ascenso de Kal | Embarazada, comprometida, habiendo perdido a Mei-Lin y a Bonnie |
+| Kal Mercer | Recién liberado de Camp Alder tras unos dieciséis días preso (Navidad, Año Nuevo y su cumpleaños pasaron sin él), todavía viéndose como "un hombre que resuelve problemas" | Cada solución genera más territorio, dependencias y enemigos | Aceptar, sin ceremonia, que se ha vuelto el jefe de una organización reconocida | Padre en camino, dueño de un poder que casi le cuesta la vida en H1 |
+| Chiara Bellandi | Reconciliada con Kal, absorbiendo las sillas que Matteo y Tommaso dejan vacías; con una cuenta abierta con Dario, su nombre escrito con los Bravos y la oferta del Monarch sin contestar | Ayudar a Kal a sobrevivir puede convertirlo en lo que ella conoce el precio de ser | Crecer como operadora propia, no como estratega auxiliar del ascenso de Kal | Embarazada, comprometida, habiendo perdido a Mei-Lin y a Bonnie |
 
 ## Fuerzas de presión
 
@@ -110,15 +112,16 @@ Desarrollo completo, Parte por Parte, en [[01_Timeline/03_Libro_02_Sombras_De_Po
 | Parte | Función | Cierra en |
 |---|---|---|
 | I — Nieve y Ceniza | Reconciliación completa, asesinato de Tommaso, organización de Kal (Ren Wei), Navidad y el collar RETORNA A CASA | Incendio del loft |
+
+> **PENDIENTE (autor, 2026-10-06):** el libro abre el 5 de enero y cubre esencialmente un año; la Navidad del collar (la primera juntos) cae al final de ese año, seguida de F4. Hay que redistribuir las Partes; la tabla de arriba vale como orden, no como calendario ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]).
 | II — Exilio | Año Nuevo/F4, F3, F2 (Mei-Lin y Bonnie el mismo día), reconstrucción en Villa Candelaria, robo de la joyería (el anillo), compromiso en Stavanger ([[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]], canonizado 2026-10-02; origen de Kal; concepción de Elenna) | Futuro elegido, pareja comprometida |
 | III — Torna a Casa | Conflicto final (Silas Crowe, coalición de Dario), embarazo confirmado, H1 | Reveal del embarazo esa misma noche de H1, en la chimenea de Villa Candelaria, sólo a la luz del fuego; el libro acaba ahí (CANON DEL AUTOR, 2026-10-02; ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "Cierre del Libro II"). Siembra: Chiara escribe en cursiva un nombre que no se revela |
 
 ## Capítulos
 
-Sin capítulos escritos todavía. El Cap. 45 (apertura de la Parte I de este libro) está
-planeado capítulo a capítulo — sin redactar — en
-[[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]], que cubre el
-tramo 39-45 aunque el 45 en adelante pertenezca ya a este libro. Carpetas de Partes creadas
+Sin capítulos escritos todavía. ~~El Cap. 45~~ El primer capítulo (apertura de la Parte I de este libro; número PENDIENTE, porque el Libro I ya usa 44–50b) está
+planeado — sin redactar — en
+[[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]] (sección del antiguo Cap. 45). La reconciliación absorbe ahora unos dieciséis días, no tres: Kal se entera de hasta dónde llegó Chiara, salvo la cuenta abierta con Dario. Carpetas de Partes creadas
 (`Part_01_Nieve_Y_Ceniza/`, `Part_02_Exilio/`, `Part_03_Torna_A_Casa/`), vacías.
 
 ## Escenas en reserva

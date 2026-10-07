@@ -1,34 +1,39 @@
 # Pendientes activos
 
-Actualizado: 2026-10-05. Máximo 800 palabras; decisiones de fondo en [[98_Agent_Handoff/BACKLOG]]. Al resolver, retirar y registrar en una nota de sesión. Versión anterior íntegra: [[98_Agent_Handoff/archive/2026-10-04_PENDING]].
+Actualizado: 2026-10-06. Máximo 800 palabras; las decisiones de fondo van en [[98_Agent_Handoff/BACKLOG]]. Al resolver un pendiente, retirarlo y registrarlo en una nota de sesión. Versión anterior íntegra: [[98_Agent_Handoff/archive/2026-10-06_PENDING]].
 
 ## Cierre del Libro I (Caps. 44–50b)
 
-Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Todo BORRADOR.
+Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Todo está en BORRADOR. La microedición E6–E8 y la cascada están hechas ([[98_Agent_Handoff/sessions/2026-10-06_claude_cascada_arco_final]]).
 
-- **Microedición E6–E8 HECHA (2026-10-05):** 47 cortes, −370 palabras y nada sumado ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]], § 9, partes 3–5). Para el autor, sólo lo que cambia el tono: Bonnie en el Civic (45), "No era un saludo" (46), Rafe (48), Mabel en el 50 y los pliegues de Kal (50); todo se restaura sin costura.
-- **Cascada** (siguiente; no es microedición): Book Maps I y II, `01_Timeline`, hitos (H19, H20), ficha de Halbrook, ledger de revelaciones (seis entradas y "Unión invisible"), fichas y lugares nuevos, Nota Editorial, coda de *Sombras de Poder*, supersesiones #19 y #25. Lista completa en el cierre del encargo (§ 9, parte 5).
-- **Q24:** qué hace Chiara con la oferta del Monarch (49) y cuándo se entera Dario. **Q6:** Mei-Lin informa a Tommaso, no a Dario.
-- **PENDIENTE:** «recupere esto; aquí no pasó nada» va a la base, no a Kal; confirmar que el mecanismo sigue vigente.
-- **Integrar** "Si no vuelve, ¿qué hago con esto?" y decidir C1 (Héctor testigo) de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_44_Jurisdiccion]].
-- **De fondo, no ejecutar aún:** reforzar Partes I–III para que el cierre se sienta deliberado (#25).
+- **Para leer (cambian el tono):** Bonnie en el Civic (45), "No era un saludo" (46), Rafe (48), Mabel en el 50 y los pliegues de Kal (50). Todo se puede restaurar sin costura.
+- **Q24:** qué hace Chiara con la oferta del Monarch (49) y cuándo se entera Dario.
+- **PENDIENTE:** «recupere esto; aquí no pasó nada» va a la base, no a Kal. Hay que confirmar que el mecanismo sigue vigente.
+- **#25 de [[00_Biblia/00_Trilogy_Structure]]:** queda abierto hasta que el autor lo declare. La revisión integral de I–III, para que el cierre se lea como deliberado, no está declarada hecha.
+
+## Lecturas postoperatorias del autor
+
+- Frente 1, narrador: Partes I, II y III ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]] §5 y sus pares).
+- Frente 3: el 24c y el 38. Frente 4: el 39 y el 43. Frente 5: el Cap. 3 (B+D). La microcostura del 38. Plan: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Fortalecimiento_Puntos_Debiles]].
+- Puesta en escena del Libro I, rojos y amarillos (DISEÑO): [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]. Faltan las decisiones sobre los demás candidatos del Cap. 30.
+- Prosa del calendario (45–48, 38 y 50): [[98_Agent_Handoff/sessions/2026-10-06_claude_prosa_calendario_arco_sin_kal]].
+
+## Ciudad, calendario y vestuario
+
+- **Vía costera, vegetación y vestuario: HECHOS (2026-10-06)**. La 101; jazmín y arces; palmeras como artificio; abrigo vino en el 44–50b. Esperan lectura: [[98_Agent_Handoff/sessions/2026-10-06_claude_vegetacion_101_vestuario]].
+- **Matriz temporal:** queda la firma de otoño y las decisiones C y D ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]). La pasada de vestuario ya está hecha.
+- Fichas propias para los lugares nuevos del arco (Hotel Pacífica, bodega nueve, La Golondrina, puente de la cementera), si el autor las quiere; hoy están anotados en [[05_Locations/San_Aurelio]].
 
 ## Auditoría de diálogo de terceros (Parte I)
 
-- **Cola única:** [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]] (las dos tandas). En curso en paralelo (2026-10-04): S1 Cap. 17 · S2 Caps. 15–16 · S3 Caps. 19 y 21 · S4 Caps. 7 y 10 · S5 poda y "Bellandi". Después, consolidación (S0) y diseño de Fabrizio en la Parte I.
-
-## Reseñas de ChatGPT (2026-10-05)
-
-- Aplicadas y dadas por leídas (2026-10-05): cirugía del narrador en los Caps. 2, 12, 13 y 42; Blake en el Cap. 7. Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Narrador_Tesis_Resenas_ChatGPT]]. La hipercompetencia de Chiara y la presión después del 31 quedan resueltas por la Parte III (tercera reseña).
-- **Fortalecer los puntos débiles:** [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Fortalecimiento_Puntos_Debiles]]. Seis frentes en orden: E6–E8 (hecho); narrador del libro entero, por Parte (Parte I: AUDIT hecho, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I]], SURGERY hecha: 48 cortes con F3-9, unas −675 palabras, §6; Parte II: SURGERY hecha 2026-10-06 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7: 35 cortes, −452 palabras; continuidades del 29 y el 32 resueltas); microcostura del 38 hecha y pendiente de lectura; la Parte III es sólo 35–43, porque 44–50b ya quedó en E6–E8; Parte III: SURGERY hecha 2026-10-06, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]] §5, 35 cambios y −362 palabras; falta la lectura del autor); lucidez de personajes (HECHO 2026-10-05: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Lucidez_Personajes_Frente_2]]); densidad (HECHO 2026-10-05: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Densidad_Funcion_Frente_3]], §5; −624 palabras sin cortar escenas; F3-9 ejecutado con el frente 1 (2026-10-05); falta la lectura del autor en el 24c y el 38); Camp Alder (HECHO 2026-10-05: P1 + P2, falta lectura del autor en el 39 y el 43; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente_4_Camp_Alder]]); Jim y Walt en el 3 (AUDIT hecho: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_03_Proporcion_Jim_Walt]]; B+D ejecutado 2026-10-05; falta lectura del autor). Una terminal por frente.
-- **Deudas del cierre** registradas en [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] (§ "Deudas heredadas del Libro I").
+- **Cola única:** [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]]. S1 Cap. 17 (Walt, con dirección del autor) · S2 Caps. 15–16 · S3 Caps. 19 y 21 · S4 Caps. 7 y 10 · S5 poda y "Bellandi". Después vienen la consolidación (S0) y el diseño de Fabrizio en la Parte I.
 
 ## Decisiones que dejó la lectura del libro
 
-El autor dio **todo el Libro I por leído** el 2026-10-05: las reescrituras de diálogo K/C y de terceros, el 24c, el arrastre del Corral y los §9 de las Partes II y III. Lo leído no cambia de estado por sí solo: TERMINADO lo declara el autor. Quedan sólo las decisiones:
-- **Parte III:** "Parte IV" en H8; bloques del Book Map; traslado (43:177, 187); camioneta (42:40); `00_Nota_Editorial.md` l. 19.
+- **Parte III:** "Parte IV" en H8; bloques del Book Map; el traslado (43:177, 187); la camioneta (42:40).
 - **Parte II:** H6 §5/§7, H7, el lago en `05_Locations/`, 31:23 y Danny en la mercancía de Irene.
-- **Parte I:** ¿"Quiero levantarlo" (3) se cobra en otro lado?; ¿la DA del 14 es Rowe?; empresa de seguridad (5).
+- **Parte I:** ¿"Quiero levantarlo" (3) se cobra en otro lado?; ¿la DA del 14 es Rowe?; la empresa de seguridad (5).
+- **Día nublado / víspera de Italia:** la subida con lluvia, el elevador y el casino cerrado del 18 ([[98_Agent_Handoff/sessions/2026-10-04_claude_dia_nublado_vispera_italia]]).
 
 ## Ciclo de Elenna
 
@@ -36,24 +41,24 @@ El autor dio **todo el Libro I por leído** el 2026-10-05: las reescrituras de d
 
 ## Apertura de *Sombras de Poder* (Libro II)
 
-- **En espera** hasta cerrar el Libro I. El primer capítulo (`Part_01_Nieve_Y_Ceniza/`) abarca nueve días: respuesta al "Ciao, bella", hasta dónde llegó ella, la mañana siguiente, la llamada por Tommaso. **PENDIENTE:** número y título.
-- **Aura:** primera escena en la que alguien entra y casi dice *perdón por mirarlos* ([[06_Relationships/Kal_y_Chiara]], "El aura").
-- Al empezar: recordar la muerte de Amanda Keegan ([[02_Characters/Natalie_Keegan]]) y revisar el BACKLOG antes de F2, H1 o Villa/Stavanger.
-- **Incubadora 2026-10-03:** tormenta, víctimas, escalada policial, cronología de *El Faro*, hotel/Kenji ([[98_Agent_Handoff/sessions/2026-10-03_claude_buzon_chatgpt_nueve_notas]]).
-- **Halbrook:** leer el 27 y los toques del 30/40; pendientes 2–6 de [[98_Agent_Handoff/sessions/2026-09-28_claude_reconstruccion_halbrook]].
-- **Corrado/Manfred Gabe:** fechas de Jim y Manfred contra la investigación del Cap. 9.
+- **En espera** hasta cerrar el Libro I. El primer capítulo abarca unos nueve días: la respuesta al "Ciao, bella", hasta dónde llegó ella (salvo la cuenta abierta con Dario), la mañana siguiente y la llamada por Tommaso. **PENDIENTE:** número y título.
+- **PENDIENTE (autor):** redistribuir las Partes al año que cubre el libro (la Navidad del collar es la primera juntos y va al final de ese año).
+- **Aura:** la primera escena en la que alguien entra y casi dice *perdón por mirarlos* ([[06_Relationships/Kal_y_Chiara]], "El aura").
+- Al empezar: recordar la muerte de Amanda Keegan ([[02_Characters/Natalie_Keegan]]) y revisar el BACKLOG antes de F2, H1 o Villa/Stavanger. Incubadora: [[98_Agent_Handoff/sessions/2026-10-03_claude_buzon_chatgpt_nueve_notas]].
+- **Halbrook:** pendientes 2–6 de [[98_Agent_Handoff/sessions/2026-09-28_claude_reconstruccion_halbrook]]. Límites legibles de su vigilancia (el fotograma de la grabación borrada).
+- **Corrado/Manfred Gabe:** cruzar las fechas de Jim y Manfred con la investigación del Cap. 9.
 
 ## Continuidad y edición
 
-- **Día nublado / víspera de Italia:** decidir la subida con lluvia, el elevador y el casino cerrado del 18. [[98_Agent_Handoff/sessions/2026-10-04_claude_dia_nublado_vispera_italia]]
-- **Portada y Nota Editorial:** portada ≥1600×2560 si va a KDP; título en `00_Nota_Editorial.md`.
-- **Gesto de manos:** revisar al pasar por cada capítulo (28:281 ya corregido).
-- **Mesa tres del Cap. 12 = Nereo Volpi** (DISEÑO del autor): pago retroactivo; no mezclar con el hombre del Peugeot.
-- **Sembrar *El Faro*** antes de que Chiara lo tome; no confundir con *El Farol* (11).
+- **Portada y Nota Editorial:** portada ≥1600×2560 si va a KDP; el título de `00_Nota_Editorial.md` lo decide el autor.
+- **Gesto de manos:** revisarlo al pasar por cada capítulo.
+- **Mesa tres del Cap. 12 = Nereo Volpi** (DISEÑO del autor): pago retroactivo; no mezclarla con el hombre del Peugeot.
+- **Sembrar *El Faro*** antes de que Chiara lo tome; no confundirlo con *El Farol* (11).
 - **H15 y Anya:** revisar junto con F4.
 - **Dictamen humano Parte II:** Cap. 30, bajar la certeza del plan de Kal contra Varek; revisión final del 25.
+- **`log.md`:** rebasa los 30 enlaces recientes; rotar a `archive/2026-10_sesiones.md`.
 - Reconciliar mapas e hitos heredados: [[98_Agent_Handoff/BACKLOG#Continuidad y arquitectura]].
 
 ## Exportación
 
-EPUB y PDF del 2026-10-03 (44–50b en BORRADOR). Próxima, al cerrar el frente 1 del plan de fortalecimiento (E6–E8 ya cerrado).
+EPUB y PDF del 2026-10-03, con 44–50b en BORRADOR. La próxima regeneración toca cuando el autor la pida o cierre un bloque confirmado.

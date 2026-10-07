@@ -46,7 +46,7 @@ Kal metió la maleta y cerró la cajuela.
 
 Marisol lo miró un momento más. Después rodeó el coche hacia el lado del conductor.
 
-—Bien —dijo—. Sube, que llevo el aire acondicionado peleado con el motor desde el jueves y si lo apago un minuto más se muere de verdad.
+—Bien —dijo—. Sube, que llevo la calefacción peleada con el motor desde el jueves y si la apago un minuto más se muere de verdad.
 
 Subieron. El coche olía a protector solar y a algo de comida rápida de hacía dos días. Marisol arrancó sin esperar a que él se pusiera el cinturón, cosa que Kal ya no le corregía.
 
