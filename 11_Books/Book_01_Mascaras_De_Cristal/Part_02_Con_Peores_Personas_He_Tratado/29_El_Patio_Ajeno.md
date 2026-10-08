@@ -1,4 +1,5 @@
 <!--
+Otoño (2026-10-08, CANON DEL AUTOR; DISEÑO): una hoja seca de sicomoro en la piscina de Varek.
 PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): geometría de poder sin decoración nueva. Los tres lados cerrados son la casa y dos muros, con un hombre contra cada muro. Varek está del lado de la casa, de cara a la piscina y al lado abierto. Kal ocupa la silla de espaldas a la piscina: ve la casa y la puerta por donde entra Vivian. La tercera silla, la de Chiara, queda en el lado libre de la mesa, entre los dos: un triángulo.
 Estado: BORRADOR — cuarto capítulo de la Parte II. Pendiente de revisión del autor. Cirugía editorial E6 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): auto (Peugeot), mesa de Vivian compactada, continuidades chicas y salto de POV; sigue BORRADOR.
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 7 cortes (N29-1 a N29-6, D-4) y continuidad: llamada de "tres palabras" y cita del 28 alineada a "no voy a ser más un problema para ti" / "tenía que irse"; sigue BORRADOR.
@@ -49,7 +50,7 @@ Eso también era información.
 
 ***
 
-El patio quedaba detrás de la casa, cerrado por tres lados —la casa y dos muros altos, con un hombre de pie contra cada uno— y abierto hacia una piscina que a esa hora todavía tenía la superficie lisa, sin nadie que la hubiera tocado. Piedra clara, macetas grandes, una mesa de hierro forjado. Sobre ella, una botella de bourbon a medio empezar y dos vasos bajos, uno con hielo, el otro sin.
+El patio quedaba detrás de la casa, cerrado por tres lados —la casa y dos muros altos, con un hombre de pie contra cada uno— y abierto hacia una piscina que a esa hora todavía tenía la superficie lisa, sin nadie que la hubiera tocado, salvo por una hoja seca de sicomoro, venida de algún árbol del otro lado del muro, que giraba despacio cerca del filtro. Piedra clara, macetas grandes, una mesa de hierro forjado. Sobre ella, una botella de bourbon a medio empezar y dos vasos bajos, uno con hielo, el otro sin.
 
 Varek estaba de pie junto a la mesa, del lado de la casa, vestido —no en bata, no recién levantado, como si llevara despierto desde antes de que Kal colgara el teléfono.
 

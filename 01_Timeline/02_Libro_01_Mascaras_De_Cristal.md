@@ -86,7 +86,7 @@ Nace aquí una idea que Parte III va a poner a prueba: **proteger al otro no con
 
 - **H5 — San Aurelio**: Halbrook convoca a Kal para reimponerle la correa (trabajar para él o reportar a Nadir a ICE); Kal sale de la ciudad; confrontación Varek–Chiara en el taller del norte (*"Trabajas para mí. No conmigo." / "¿Te estás acostando con él?" / "…entonces lo vas a hacer tú."*).
 - **H6 — El pacto**: Kal conduce a Varek a ofrecerle una silla en la organización y la acepta (Cap. 29; antes: "se ofrece a trabajar para Varek"); con ella compra seguridad para Chiara, y trae con qué pagarlo — una entrada a [[05_Locations/Camp_Alder]].
-- **H7 — El río** (en la prosa, el lago; Cap. 31): cierre del arco de tensión; pareja de facto sin etiqueta. *"Vamos a casa."*
+- **H7 — El río** (en la prosa, [[05_Locations/El_Lago|el lago]], más allá de Las Gemelas; Cap. 31): cierre del arco de tensión; pareja de facto sin etiqueta. *"Vamos a casa."*
 - *(capítulo puente, sin ID)* — [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Línea directa]] (Cap. 32): segundo escalón de Kal / [[02_Characters/Lucia_Varek|Lucia Varek]]; Eddie Sosa / Los Bravos; nace el canal directo Kal–Lucia; Chiara sabe que existe.
 - *(capítulo puente, sin ID)* — [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta|La periferia]] (Cap. 33): primera consecuencia lateral del pacto con Varek; Marisol / Kenji; Kal aplica el aprendizaje de preocuparse sin escoger por otro.
 - **H21 — Mi pareja** (Cap. 34): formalización verbal en el Audi de Kal, con Nadir en altavoz. Cierra la Parte II.

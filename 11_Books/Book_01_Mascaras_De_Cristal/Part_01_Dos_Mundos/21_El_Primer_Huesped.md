@@ -11,6 +11,7 @@ Microcirugia de dialogo K/C 2026-10-04 (autorizada por el autor; [[13_Auditorias
 Cirugia de dialogo de terceros 2026-10-04 (S3 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]]; sigue TERMINADO, la prosa nueva es DISEÑO pendiente de lectura): Marisol en el desayuno. Decisiones del autor: el iman de la manzana (Cap. 14) estaba en el refrigerador del loft, Kal nunca se lo dio a Chiara; Marisol lo despega en el desayuno, Kal lo explica frente a las dos ("Era para Chiara" / "Porque es feo" / "Por eso", eco del 14) y Chiara lo vuelve a pegar mas arriba, sin comentario. Fuera, con confirmacion del autor aunque Lote B las protegia: "Es lo minimo, considerando...", "Para los dos. No solo por Kal. Por los dos", "Es raro... contigo no" y "Es una de las ventajas de ser mujer" (ahora "Roncabas"; "¿Me equivoco, Chiara?" / "Sin duda alguna, bambina" intactas). La Funcion de arriba conserva la version anterior como registro. Sesion: 98_Agent_Handoff/sessions/2026-10-04_claude_cirugia_terceros_S3.md.
 SURGERY frente 2 (2026-10-05, autorizada por el autor; sigue TERMINADO): M21-1 Marisol queda en "Eso ultimo es lo peor" (fuera "No que me haya mentido. Que yo ya lo sabia y decidi no verlo"); M21-2 Kal queda en "Lo de Michael fue dificil." (fuera "hasta eso se volvio habitable"; la linea de 2026-10-01 de arriba queda como registro). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Lucidez_Personajes_Frente_2.md.
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N21-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
+Nombre del lago del imán (2026-10-08, encargo del autor; DISEÑO): *Lake Meriwether*. No es [[05_Locations/El_Lago]] (H7).
 -->
 
 # Capítulo 21 — El primer huésped
@@ -185,7 +186,7 @@ Kal se sentó.
 
 —Obvio que está bueno. Lo elegí yo.
 
-Marisol se levantó por la leche. Al cerrar el refrigerador despegó algo de la puerta y lo dejó en la isla, junto al vaso de Kal: una manzana roja de plástico, con el nombre de un lago pintado en una hoja diminuta.
+Marisol se levantó por la leche. Al cerrar el refrigerador despegó algo de la puerta y lo dejó en la isla, junto al vaso de Kal: una manzana roja de plástico, con *Lake Meriwether* pintado en una hoja diminuta.
 
 —¿Y esto?
 

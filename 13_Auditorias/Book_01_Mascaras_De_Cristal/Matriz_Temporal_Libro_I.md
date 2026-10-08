@@ -46,7 +46,7 @@ Leyenda de la columna "Prosa": ✔ coherente · ○ muda (no marca estación) ·
 | Línea directa → Mi pareja | 32–34 | sep → fines oct A2 | otoño seco | "dos semanas", "varios días", "semanas" | ○ — 34/35 rozan el **aniversario de Halloween** de la primera cena |
 | Sin fecha de regreso | 35 | ~1–2 nov A2 | otoño | "tres semanas antes" del 36 (canon) | ✔ |
 | Cumpleaños / mudanza | 36 | **23 nov A2** | otoño (día caluroso posible) | canon | ✔ |
-| Cuatro letras | 37 | fines nov A2 | otoño tardío | "después de H16" | ○ — Thanksgiving A2 cae el jueves 25 si el 38 es el viernes 10 dic |
+| Cuatro letras | 37 | fines nov A2 | otoño tardío | "después de H16" | ✔ — **el 37 es Thanksgiving A2, jueves 25 nov** (CANON DEL AUTOR 2026-10-08) |
 | Al revés | 38 | **vie 10 dic A2** | invierno | derivado de la Mesa el 13 (canon) | ✔ "viento frío de diciembre" |
 | Palermo | 40 | 11–14 dic A2 | invierno mediterráneo | Mesa el 13 dic = día 3 (canon) | ✔ |
 | Regreso → arresto | 39, 41–43 | D0 = **mié 15 dic** → D4 dom 19 | invierno | D9 debe ser viernes (47) ⇒ D0 = miércoles | ✔ |
@@ -125,7 +125,7 @@ Los capítulos con ropa ya bien fijada (2, 5, 6, 18, 19, 28, 31, 36, 38, 40, 41)
 
 ## Decisiones pendientes del autor
 
-1. **Firma de otoño en 26–31:** dónde y cómo.
+1. ~~**Firma de otoño en 26–31:** dónde y cómo.~~ **HECHA 2026-10-08 (CANON DEL AUTOR; prosa DISEÑO):** hojas secas de sicomoro en 28, 29 y 31. **C también:** Navidad A1 y cumpleaños callado en el 10; sale en la pesca del 31. **D:** Thanksgiving no cuadra con la pesca (septiembre); el autor lo puso en el 37 (25 nov A2, La Esquina de Mabel). Ver [[98_Agent_Handoff/sessions/2026-10-08_claude_otono_cumpleanos_lluvia_lago]].
 2. **Libro II — PENDIENTE (autor, 2026-10-06):** reordenar las Partes ahora que cubre un año (hoy "Nieve y Ceniza" agrupa reconciliación → Navidad → F4 → incendio).
 3. ~~**Pasada de prosa del calendario**~~ — **HECHA 2026-10-06 (DISEÑO, pendiente de lectura).** 45: Rosaura no ve la etiqueta la primera semana; espera del 24 al 28 con días contados (Mabel niega con la cabeza, árbol del Monarch, Nochebuena sola, La Esquina cerrada el 25); etiquetas las noches del 27 y 28. 46: "diez días", Nadir "once", Navidad en la mentira de Héctor, "fin de año" (también en el 38, con "ese sábado"). 47: remolque "de una noche de Año Nuevo", "doce días" de Dario, cohete adelantado, "primero de enero" y una línea del cumpleaños (43). 48: La Esquina abre en Año Nuevo; luces de Navidad en Santa Brígida. 50: la boda del patrullero pasa a junio.
 3. **C:** ¿se siembra Navidad A1 y el 1 de enero como ausencia en la elipsis del Cap. 10?

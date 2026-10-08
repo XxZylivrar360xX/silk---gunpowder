@@ -1,8 +1,9 @@
 <!--
+Acción de Gracias (2026-10-08, CANON DEL AUTOR; prosa DISEÑO pendiente de lectura): el día del capítulo es Thanksgiving A2. Una línea al llegar al taller (abre igual: los feriados son de choques) y una escena nueva en La Esquina entre Héctor y Walt: platos gratis de Mabel, pavos pagados por Kal sin mencionarlo, Walt trinchando sin que nadie se lo pida (el día era de Amanda; no se glosa), Nat de uniforme por los platos de la estación (reconciliada fuera de escena), plato envuelto para Chiara ("Que sepa qué se celebra"). Chiara sigue sin aparecer en persona: está en el Monarch. Se rompe una vez el patrón de "Roma". Personajes nuevos en escena: Mabel Ortiz, Natalie Keegan. Lugar: La Esquina de Mabel.
 Estado: BORRADOR — Parte III — Ardizzone, tercer capítulo (Cap. 37 del manuscrito). Redactado 2026-09-20, Claude Code, encargo detallado del autor. Título confirmado por el autor (2026-09-27, Q7): "Cuatro letras" — funciona hoy como Roma, y retrospectivamente como amor. **Cirugía editorial E5 (2026-09-27, Claude Code, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]], § 9 parte 1):** retirado "(título provisional)" del encabezado impreso; cortada la repetición "Hacía un año…" (ya dicha con "Antes lo hubiera resuelto él mismo"); Walt "opinó" del vino, no lo recomendó; el estacionamiento de Bonnie ya no es "de frente a la salida" (la firma de salidas nace en el 38). Sigue BORRADOR. Segunda pasada (correcciones del autor, misma fecha): apertura menos lírica para el registro de Kal; flashback de Roma Atrii recortado a lo mínimo; línea de Nadir bajada de "negocia grúas, armas y bandas enteras" a "arregla grúas, favores y problemas de media ciudad" — Kal todavía no llega a ese nivel de ascenso tras H16; "media Almendra tiene invitación" bajado a "varios de los nuestros"; Héctor ya no ancla el capítulo al día siguiente exacto de Stella (queda "todavía rígido por la persecución"); cortado el guiño metanarrativo de que Danny "pasó más cerca" de resolverlo; corregido "dobló la carta por la misma línea de siempre" a "otra vez por el mismo pliegue" (es la primera vez que Kal la dobla). Cedar Flats confirmado como ubicación ya existente en el canon geográfico (ver [[05_Locations/Mapa_Operativo_de_San_Aurelio]], ya asociada a "El Patio en expansión"), no inventada para este capítulo. Tercera pasada (correcciones del autor, misma fecha): la certeza de Kal sobre que su carta era única se movió de la apertura (antes de ver las invitaciones ajenas) a una sospecha, confirmada después en la escena de Nadir; "una pila de sobres" bajado a "varios sobres" para no implicar que Chiara centralizó el envío de todo el Patio; cortada la repetición "guardó otra vez" al cierre.
 Protagonista: Kal Mercer (POV único). Chiara Bellandi no aparece físicamente — sólo en la carta, el recuerdo del Cap. 12 y el pensamiento de Kal.
 Personajes en escena: Nadir Amrani, Héctor Navarro, Walter Keegan, Daniel "Danny" Hayes, Bonnie García, Mei-Lin Zhao (parche 2026-09-21, ver abajo), el de la ferretería de la esquina (sin nombre, inserción 2026-09-26). Mencionado: Silas Crowe ("el Tasador").
-Ventana temporal: después de H16 (Cap. 36) — el autor fijó explícitamente que la lectura de esta carta ocurre después de la mudanza oficial, no antes. Sin fecha exacta; un solo día, de la mañana a la noche.
+Ventana temporal: después de H16 (Cap. 36) — el autor fijó explícitamente que la lectura de esta carta ocurre después de la mudanza oficial, no antes. Un solo día, de la mañana a la noche. **Fecha (2026-10-08, CANON DEL AUTOR):** jueves 25 nov A2, Acción de Gracias, dos días después del cumpleaños de Chiara.
 Lugares: loft de La Almendra (apertura); Almendra Towing / El Patio (resto del capítulo); destilería de Walt (una escena breve).
 Función: paga el siguiente tramo del hilo de la invitación del yate — Kal lee la carta cifrada de Chiara, no logra descifrar "Roma", pregunta a su gente sin obtener respuesta, y de fondo el capítulo dramatiza que El Patio empieza a crecer alrededor de él (delega, coordina, recibe consultas que antes no le habrían llegado). La fiesta del yate y la explicación del cifrado quedan para un capítulo posterior, todavía sin escribir.
 
@@ -79,7 +80,7 @@ Se guardó el sobre en el bolsillo interior de la chaqueta, contra el pecho, y s
 
 ---
 
-Almendra Towing ya tenía movimiento cuando llegó: una grúa saliendo, alguien gritándole instrucciones a otro desde el otro lado del patio, el radio de siempre sonando bajo en la oficina. Danny estaba agachado junto a un motor con las manos negras hasta la muñeca, y no alzó la vista más que un segundo.
+Almendra Towing abría igual en Acción de Gracias; en la carretera, los feriados eran de choques. Ya tenía movimiento cuando llegó: una grúa saliendo, alguien gritándole instrucciones a otro desde el otro lado del patio, el radio de siempre sonando bajo en la oficina. Danny estaba agachado junto a un motor con las manos negras hasta la muñeca, y no alzó la vista más que un segundo.
 
 —Buenos, jefe.
 
@@ -210,6 +211,26 @@ Héctor lo miró de lado.
 —Entonces ya tienes tu respuesta, Mercer. —Cerró los ojos un momento, la cara hacia el sol—. Si ella quisiera que lo supieras hoy, lo sabrías hoy.
 
 No dijo nada más. Kal esperó un rato, por si acaso, y se levantó cuando entendió que no iba a salir nada más de ese silencio.
+
+---
+
+A la una, La Esquina tenía la cortina a medio bajar y un cartel escrito a mano en la puerta: CERRADO — THANKSGIVING. PLATOS DE 12 A 3. Adentro no cabía nadie más. Mabel servía desde la barra, con el cucharón en una mano y la otra señalando a quién le tocaba, y la fila salía hasta la banqueta: viejos solos, una familia de la cuadra de Esparza, dos muchachos del taller que no tenían a dónde ir.
+
+Kal no hizo fila. Mabel lo vio por encima de las cabezas y no le cobró nada, ni el plato ni lo otro: los pavos habían llegado el martes, pagados, y ninguno de los dos lo iba a mencionar.
+
+Walt trinchaba al fondo, sobre la tabla grande, con las mangas subidas y sin hablar con nadie. Mabel no le había pedido que viniera.
+
+Pasadas las dos se paró una ambulancia en doble fila. Nat bajó de uniforme, con la prisa del turno, y Walt ya tenía listos cuatro platos tapados para la estación y uno aparte, con la mejor pieza. Ella le dio un beso en la mejilla sin soltar los platos y se fue. Walt volvió a la tabla.
+
+—¿Y la señora? —le preguntó Mabel a Kal, por encima del ruido.
+
+—Trabajando. Hoy el Monarch está lleno.
+
+Mabel envolvió un plato en papel aluminio y se lo puso delante.
+
+—Para ella. Que sepa qué se celebra.
+
+Kal lo tomó. Ahí no le preguntó a nadie por Roma.
 
 ---
 

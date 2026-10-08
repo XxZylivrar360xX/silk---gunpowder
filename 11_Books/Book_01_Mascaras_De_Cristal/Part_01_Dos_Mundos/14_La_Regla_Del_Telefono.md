@@ -8,6 +8,7 @@ Sin ID de hito. En este punto Kal y Chiara ya tienen vinculo emocional pero TODA
 Apertura por residuo: arranca del cierre del Capitulo 12 — el papel de "Roma Atrii" sin abrir sobre la repisa y la promesa de Chiara de traer ella misma lo que tenga que llegarle.
 Cirugia editorial (2026-09-26, decisiones del autor; ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_14_La_Regla_Del_Telefono.md): se corto la linea final de prolepsis (el cierre queda en la regla que termina en su propia puerta); se sembro el buzon sin mensaje de Kal (rima 14-44) en la escena de la regla; poda de lluvia, lupinos, planta invasora y codas de narrador. La ultima frase de la nota siguiente ("una linea que le avisa al lector") queda SUPERADA por esta cirugia.
 Cierre corregido (2026-09-03): ya NO termina con Kal prendiendo el telefono y viendo las llamadas perdidas en la carretera -- eso se recoloca al inicio del Capitulo 15, cuando llega al loft. Aqui cierra con el telefono todavia apagado y una linea que le avisa al lector, sin que Kal lo sepa, que algo paso en paralelo en la ciudad mientras el estaba en la montaña -- ancla el "Dos dias antes" del Capitulo 15 al mismo fin de semana, no a un salto temporal separado.
+Nombre del lago del imán (2026-10-08, encargo del autor; DISEÑO): *Lake Meriwether*. No es [[05_Locations/El_Lago]] (H7).
 -->
 
 # Capítulo 14 — La regla del teléfono
@@ -324,7 +325,7 @@ Marisol se abrazó las rodillas y no preguntó más.
 
 Levantaron el campamento el domingo después de comer. Kal revisó la explanada dos veces buscando lo que siempre se queda —una piqueta, un tenedor, un envoltorio— y encontró una piqueta.
 
-Bajando, pararon en una tienda de carretera que vendía gasolina, hielo y estanterías de cosas que nadie planea comprar. Marisol volvió del fondo con un imán de refrigerador, una manzana roja de plástico brillante, con el nombre de un lago al que no habían ido pintado en una hoja diminuta.
+Bajando, pararon en una tienda de carretera que vendía gasolina, hielo y estanterías de cosas que nadie planea comprar. Marisol volvió del fondo con un imán de refrigerador, una manzana roja de plástico brillante, con *Lake Meriwether* pintado en una hoja diminuta, un lago al que no habían ido.
 
 —Llévaselo a tu amiga.
 

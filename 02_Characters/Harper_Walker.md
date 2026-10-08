@@ -4,7 +4,7 @@
 
 > **CANON DEL AUTOR (2026-08-23).** Rediseñada para *Seda y Pólvora* desde material previo. Su eje aquí es Kal, San Aurelio y el norte rural.
 
-**Nacionalidad:** pendiente.
+**Nacionalidad:** estadounidense *(CANON DEL AUTOR, 2026-10-08)*.
 **Edad al abrir la novela:** 27.
 **Oficio:** empleada ganadera; después conductora y operadora de campo.
 **Rol:** secundaria importante; núcleo de la organización.

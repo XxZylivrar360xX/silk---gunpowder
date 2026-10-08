@@ -56,6 +56,7 @@ Norte arriba. La ciudad es una media luna que abraza la Bahía de San Aurelio; e
 | [[05_Locations/Cedar_Flats]] | Fuera del mapa, al norte (75-90 min) | Parcelas, bodegas rurales | Agricultores, El Patio en expansión |
 | [[05_Locations/Camp_Alder]] | Fuera del mapa, noreste restringido (1 h o más) | Armamento, pasado militar | Federal / militar |
 | Las Gemelas (cascadas) | Fuera del mapa, cerros del este-noreste (50-70 min) | Primer lugar que no es territorio de nadie | Nadie |
+| [[05_Locations/El_Lago|El lago]] | Fuera del mapa, más allá de Las Gemelas, cerro arriba (CANON DEL AUTOR, 2026-10-08) | Lago de pesca de El Patio; H7 | Nadie; de los muchachos por costumbre |
 
 ---
 
@@ -111,6 +112,7 @@ No son tiempos de GPS. Son tiempos de escena: trafico, hora, presion policial y 
 | Centro -> Camp Alder | 1 h o más | No aplica sin acceso | Escala federal / militar |
 | La Almendra -> Cedar Flats | 75-90 min | 60 min de madrugada | Parcelas, norte rural lejano |
 | Centro -> Las Gemelas | 50-70 min | 45 min de madrugada | Salida del territorio, pacto |
+| Las Gemelas -> El lago | Algo más, cerro arriba (**PENDIENTE:** tiempo) | No aplica | Pesca de El Patio, H7 |
 
 ---
 
@@ -183,7 +185,7 @@ Todas las ubicaciones de esta tabla quedaron fijadas por el mapa definitivo (202
 | Tienda de mascaras — **La Tramoya** | Corredor de servicio al sureste de Kingsley Field | Sin cambio |
 | Villa Candelaria | Lomas de San Jacinto | Sin cambio |
 | Bellandi Ridge Vineyards | Ladera norte, arriba de El Mirador | Sin cambio |
-| Las Gemelas, Camp Alder, Cedar Flats | Fuera del mapa (este-noreste, noreste, norte) | Flechas con tiempo en el mapa |
+| Las Gemelas, El lago, Camp Alder, Cedar Flats | Fuera del mapa (este-noreste, más allá de Las Gemelas, noreste, norte) | Flechas con tiempo en el mapa |
 
 ---
 

@@ -1,4 +1,5 @@
 <!--
+Otoño, lago y cumpleaños (2026-10-08, CANON DEL AUTOR; DISEÑO): el lago queda más allá de Las Gemelas (pasan el desvío "el de esa mañana"; ficha [[05_Locations/El_Lago]]); hojas de sicomoro en la cuneta; en la competencia, Nadir suelta el cumpleaños de Kal (1 ene) y Kal admite que no lo dijo.
 PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): reanclajes cortos sin volver a describir el lago. El agua del recodo es más fría que la de la orilla. La piedra de la roca está tibia del día y se oscurece con lo que les escurre. Desde la roca se ve la orilla en pequeño (hieleras, figuras, el humo de la parrilla que llega a ratos). Al volver, la piedra suelta bajo los pies. CLIMA (CANON DEL AUTOR 2026-10-06, supersede el "sigue siendo invierno" del mismo día): 26–31 caen en SEPTIEMBRE del año 2 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]] § A). La tarde de calor en la orilla es la de septiembre. El agua del recodo, más fría que la orilla, es la de un lago de sierra. El frío al irse el sol y la calefacción se explican por la ropa mojada, no por el invierno. Firma de otoño: pendiente de decisión del autor.
 Estado: BORRADOR — sexto capítulo de la Parte II; cierra el arco H5–H7 (no la Parte II: siguen 32–34). Pendiente de revisión del autor. Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] § 9 parte 3): POV de Chiara saneado, resumen del coche comprimido, glosas cortadas, Beretta .25 (primera aparición, vestidor) y gesto de la roca (P3). Sigue BORRADOR.
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 2 cortes (N31-1, N31-2); sigue BORRADOR.
@@ -164,7 +165,7 @@ El coche se quedó en silencio un momento. Chiara lo miró. Kal la miró a ella.
 
 ***
 
-El lago apareció después de un último tramo de terreno irregular: agua quieta y ancha, bordeada de árboles bajos, con una orilla de arena y piedra donde ya había media docena de coches mal estacionados y una parrilla encendida desde antes de que llegaran. La tarde era de las que San Aurelio da en septiembre sin explicar nada: sol de frente, sin viento, calor de manga corta en la orilla. El agua era otra cosa.
+Pasaron sin frenar el desvío de tierra de Las Gemelas, el de esa mañana, y la carretera siguió cerro arriba, con hojas secas de sicomoro juntas en la cuneta. El lago apareció después de un último tramo de terreno irregular: agua quieta y ancha, bordeada de árboles bajos, con una orilla de arena y piedra donde ya había media docena de coches mal estacionados y una parrilla encendida desde antes de que llegaran. La tarde era de las que San Aurelio da en septiembre sin explicar nada: sol de frente, sin viento, calor de manga corta en la orilla. El agua era otra cosa.
 
 Harper estaba sentada en el capó de una camioneta que no era suya, con las botas cruzadas a la altura de los tobillos y una gorra calada hasta las cejas, y no se levantó cuando los vio bajar del Audi.
 
@@ -243,6 +244,22 @@ Chiara, con tres peces propios que a esas alturas ya nadie recordaba bien cómo 
 —Entonces cuenta el suyo, Héctor —le gritó Nadir—. Usted es el juez.
 
 —Yo no juzgo nada. Yo como lo que agarren.
+
+—Además, en enero no sacó nada —siguió Nadir, ya sin dirigirse a nadie—. Primero de enero, con hielo en la orilla, y se fue en blanco. El día de su cumpleaños. Ni el lago lo quiere.
+
+Chiara volvió la cabeza hacia Kal.
+
+—¿Tu cumpleaños es el primero de enero?
+
+—Fue. —Kal recogió hilo sin mirarla—. Ya pasó.
+
+En enero ella había estado eligiendo sofás para la casa de él.
+
+—No dijiste nada.
+
+—Es solo un dia más.
+
+Chiara no insistió.
 
 Para cuando el sol empezó a bajar, el marcador seguía tan disputado como al principio, con Danny acusando a Nadir de contar dos veces el mismo pez y Nadir jurando por su madre que no, y nadie —ni siquiera Chiara, que en cualquier otro terreno hubiera cerrado la discusión en diez segundos con una versión que todos aceptaran— tuvo ningún interés real en resolverlo. La discusión, entendió, era el punto.
 

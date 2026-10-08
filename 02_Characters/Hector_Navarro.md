@@ -6,6 +6,7 @@
 
 **Rol:** el viejo mentor de [[02_Characters/Kal_Mercer]]. **Su figura paterna**, y su mano derecha en las operaciones.
 **Qué es:** viejo amigo del barrio de la Almendra.
+**Nacionalidad:** estadounidense *(CANON DEL AUTOR, 2026-10-08)*.
 **Edad:** 63 *(confirmado por el autor, 2026-08-26)*.
 **Estado:** vivo al abrir; muere en *Voto de Ceniza* (Libro II), después de H1 y de H22, durante la montaña. Causa y colocación finas pendientes.
 **Importancia:** tercer personaje del libro.

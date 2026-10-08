@@ -7,7 +7,7 @@
 > **CANON DEL AUTOR (2026-09-11).** Se fijan edad, apariencia física, relación visual con La Almendra y primeras consecuencias del consumo sostenido de narcóticos. Trasfondo, nacionalidad y oficio específico permanecen abiertos.
 
 **Nombre completo:** Daniel "Danny" Hayes.
-**Nacionalidad:** pendiente.
+**Nacionalidad:** estadounidense *(CANON DEL AUTOR, 2026-10-08)*.
 **Edad al abrir la novela:** 30 años.
 **Oficio:** Mecanico.
 **Rol:** secundario.
@@ -141,7 +141,7 @@ Danny funciona como **testigo de barrio**: ve cosas que los protagonistas no pue
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** trasfondo, nacionalidad, oficio específico, familia y lugar exacto dentro de Almendra Towing. La edad queda resuelta: 30 años al abrir la novela.
+> **PENDIENTE:** trasfondo (nacionalidad resuelta 2026-10-08: estadounidense), oficio específico, familia y lugar exacto dentro de Almendra Towing. La edad queda resuelta: 30 años al abrir la novela.
 
 > **PENDIENTE:** si Danny participa en operaciones pesadas o si su función es deliberadamente más doméstica.
 

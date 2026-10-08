@@ -1,4 +1,5 @@
 <!--
+Otoño (2026-10-08, CANON DEL AUTOR; DISEÑO): el Audi levanta hojas secas del sicomoro de la esquina.
 Estado: BORRADOR — tercer capítulo de la Parte II (*Con peores personas he tratado*). Pendiente de revisión del autor. Cirugía editorial E5 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): cronología fija de ~24 h, POV y glosas; sigue BORRADOR.
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 3 cortes (N28-1 a N28-3); diálogo intacto; sigue BORRADOR.
 Protagonistas: Chiara Bellandi (POV único). Apariciones: Kal Mercer.
@@ -396,7 +397,7 @@ Chiara salió al balcón.
 
 Abajo, junto al Audi, Kal se detuvo bajo la única luz de la calle. Sacó la pistola de la espalda, echó la corredera atrás lo justo para ver el latón en la recámara, la soltó. Volvió a meterla en la cintura, detrás, bajo la chaqueta, con el gesto de quien se acomoda la camisa. Abrió la puerta y subió.
 
-Las luces barrieron la pared de enfrente y pasaron por encima del Peugeot gris sin detenerse. El Audi salió del hueco de un tirón, corrigió con un chirrido corto y enfiló la calle hacia el norte a una velocidad que no tenía nada que ver con la de un hombre que va a negociar. Se lo tragó la esquina en tres segundos. Quedó el ruido un rato más, bajando por las calles vacías del barrio, y después nada, sólo el amanecer subiendo gris sobre los tejados y un perro que había empezado a ladrar en algún patio y ya no paraba.
+Las luces barrieron la pared de enfrente y pasaron por encima del Peugeot gris sin detenerse. El Audi salió del hueco de un tirón, levantó las hojas secas que el sicomoro de la esquina había empezado a soltar en la cuneta, corrigió con un chirrido corto y enfiló la calle hacia el norte a una velocidad que no tenía nada que ver con la de un hombre que va a negociar. Se lo tragó la esquina en tres segundos. Quedó el ruido un rato más, bajando por las calles vacías del barrio, y después nada, sólo el amanecer subiendo gris sobre los tejados y un perro que había empezado a ladrar en algún patio y ya no paraba.
 
 Se quedó con las manos en la baranda de hierro. La sudadera ya no engañaba a nadie: la casa estaba, otra vez, exactamente tan vacía como decía estar.
 

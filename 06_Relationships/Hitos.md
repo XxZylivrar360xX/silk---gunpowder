@@ -1827,7 +1827,7 @@ Y para dos personas que nunca tuvieron una, **el momento en que la palabra deja 
 
 ## Pendientes de H7
 
-> **PENDIENTE:** el río norte y el arrecife necesitan entrada en `05_Locations/`. *(Nota 2026-09-27: en la prosa hoy es el lago y la formación de roca; la entrada sigue pendiente.)* *(Nota menor de coherencia: conviene fijar si el arrecife es un banco de roca del río o el punto donde el río se abre al mar — cambia la geografía del norte de San Aurelio.)*
+> **RESUELTO (2026-10-08, CANON DEL AUTOR):** el lago está más allá de Las Gemelas; tiene ficha propia en [[05_Locations/El_Lago]] (la formación de roca va incluida). ~~**PENDIENTE:** el río norte y el arrecife necesitan entrada en `05_Locations/`.~~ *(Nota 2026-09-27: en la prosa hoy es el lago y la formación de roca; la entrada sigue pendiente.)* *(Nota menor de coherencia: conviene fijar si el arrecife es un banco de roca del río o el punto donde el río se abre al mar — cambia la geografía del norte de San Aurelio.)*
 
 > **PENDIENTE:** ¿quién gana la competencia de pesca? Es una tontería y va a importar después.
 

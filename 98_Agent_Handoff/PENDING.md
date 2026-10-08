@@ -21,8 +21,8 @@ Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Todo 
 ## Ciudad, calendario y vestuario
 
 - **Vía costera, vegetación y vestuario: HECHOS (2026-10-06)**. La 101; jazmín y arces; palmeras como artificio; abrigo vino en el 44–50b. Esperan lectura: [[98_Agent_Handoff/sessions/2026-10-06_claude_vegetacion_101_vestuario]].
-- **Matriz temporal:** queda la firma de otoño y las decisiones C y D ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]). La pasada de vestuario ya está hecha.
-- Fichas propias para los lugares nuevos del arco (Hotel Pacífica, bodega nueve, La Golondrina, puente de la cementera), si el autor las quiere; hoy están anotados en [[05_Locations/San_Aurelio]].
+- **Otoño, cumpleaños de Kal, lluvia del 18 y lago: HECHOS (2026-10-08)**, esperan lectura ([[98_Agent_Handoff/sessions/2026-10-08_claude_otono_cumpleanos_lluvia_lago]]). Thanksgiving A2 quedó en el 37 (La Esquina). Opcional: una línea del año 1 (bufé del Monarch, 7–9).
+- Fichas propias para los lugares nuevos del arco (Hotel Pacífica, bodega nueve, La Golondrina, puente de la cementera): se recomiendan, falta el sí del autor; hoy están anotados en [[05_Locations/San_Aurelio]].
 
 ## Auditoría de diálogo de terceros (Parte I)
 
@@ -31,9 +31,8 @@ Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Todo 
 ## Decisiones que dejó la lectura del libro
 
 - **Parte III:** "Parte IV" en H8; bloques del Book Map; el traslado (43:177, 187); la camioneta (42:40).
-- **Parte II:** H6 §5/§7, H7, el lago en `05_Locations/`, 31:23 y Danny en la mercancía de Irene.
+- **Parte II:** H6 §5/§7, H7, 31:23 y Danny en la mercancía de Irene.
 - **Parte I:** ¿"Quiero levantarlo" (3) se cobra en otro lado?; ¿la DA del 14 es Rowe?; la empresa de seguridad (5).
-- **Día nublado / víspera de Italia:** la subida con lluvia, el elevador y el casino cerrado del 18 ([[98_Agent_Handoff/sessions/2026-10-04_claude_dia_nublado_vispera_italia]]).
 
 ## Ciclo de Elenna
 

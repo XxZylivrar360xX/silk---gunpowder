@@ -1,4 +1,5 @@
 <!--
+Lluvia (2026-10-08, CANON DEL AUTOR; prosa DISEÑO pendiente de lectura; el resto sigue TERMINADO): la nube se rompe ya en el penthouse, torrencial, y el agua borra la ciudad en el ventanal. Se descartan la subida con lluvia, el elevador y el casino cerrado.
 PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto). Supersede la decisión del 2026-09-27 "la luz del golf queda como está". Cambios: postal del campo bajo la nube al abrir el juego (césped sin brillo, humedad de riego en la sombra, el lago sin reflejo, banderas quietas); el putt del cuarto hoyo; en el octavo, Kal saca la bola del búnker y limpia la arena húmeda del palo antes de contestar; la vuelta a pie por la orilla del lago tras la confesión, en silencio, hasta la casa club (sustituye el "carrito" que aparecía de golpe: iban a pie desde el primer hoyo); Kal deja las bolsas en el mostrador y sube al auto.
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras M6 verificada y CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): cierra en "Nadie llamo a eso una cita." (fuera la prolepsis "Al dia siguiente..." y el sol del ultimo parrafo, que contradecia el regreso con la nube sin romperse); colas de tic cortadas ("la clase de", "con la misma... con la que"), certificacion "Una vez mas, Kal Mercer lo habia conseguido" fuera; Blake: "Kal ya sabia de quien hablaba" (salto de POV). La luz del golf queda como esta (decision del autor). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B.md §9.
 Protagonistas: Kal Mercer, Chiara Bellandi.
@@ -443,6 +444,8 @@ Chiara lo miró un segundo más — el segundo de quien esperaba otra cosa y tod
 ***
 
 En el penthouse no encendieron casi luces. La botella de vino de la semana anterior seguía a la mitad y nadie la tocó. Se sentaron en el sofá con la ciudad gris del otro lado del ventanal, sin nada urgente que decirse y sin energía para fingir que sí.
+
+La nube se rompió al rato. No empezó de a poco: cayó de golpe, torrencial, y el agua corrió por el ventanal hasta borrar la ciudad.
 
 Chiara se recargó en su hombro.
 
