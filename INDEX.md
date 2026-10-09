@@ -131,6 +131,10 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[05_Locations/Cementerio_Santa_Lucia]] — cementerio asociado a Santa Lucía; lugar donde Kal habla con Michael sobre Marisol.
 - [[05_Locations/El_Penthouse]] — la zona segura de la primera etapa, encima del casino. Prestada, y por eso importa: es el ensayo de la casa.
 - [[05_Locations/El_Lago]] — el lago de pesca de El Patio, más allá de Las Gemelas. H7 (Cap. 31).
+- [[05_Locations/Bodega_Nueve]] — bodega de Terminal Road con oficina en alto; entrega de las armas y cuenta abierta con Dario (Cap. 47).
+- [[05_Locations/La_Golondrina]] — cantina de Santa Brígida frente a la parroquia; Rafe, Maribel y el nombre de Chiara (Cap. 48).
+- [[05_Locations/Puente_De_La_Cementera]] — puente de un carril al sureste de Camp Alder; asalto al convoy (Caps. 48 y 50).
+- [[05_Locations/Hotel_Pacifica]] — hotel de 1924 enfrente del Monarch; la suite del piso once de Valenti (Cap. 49).
 - [[05_Locations/El_Mirador]] — el único lugar de la ciudad donde se ven las estrellas. Montaña arriba, en el norte. Donde Kal se abre por primera y única vez sobre Dale y Ruth ([[06_Relationships/Hitos]], H11).
 - [[05_Locations/El_Taller_del_Norte]] — galpón de lámina de las carreras ilegales, cerca de Kingsley Field / Carretera de Milla; lo usan Los Marcadores de Milla. Donde Varek acorrala a Chiara en H5 (Cap. 27). *(DISEÑO 2026-09-09; dueño del terreno PENDIENTE.)*
 - [[05_Locations/Destileria_de_Walt]] — vieja bodega de granos que Walt convierte en destilería con ayuda de Chiara; el Monarch es su cliente ancla. Primer proyecto legítimo de Walt tras la cárcel. *(DISEÑO 2026-09-09; nombre y ubicación exacta PENDIENTE.)*

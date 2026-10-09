@@ -67,6 +67,8 @@ Trabaja mientras habla, como Kal — pero donde Kal minimiza, Héctor pincha. Es
 
 —Nadie sabe. Se hace igual. Con miedo y todo.
 
+—¿Y él qué no le ha contado a usted? *(16, con Chiara despierta: pregunta, no confiesa; le quita la excusa. 2026-10-04, no reusar.)*
+
 ## Línea genérica a evitar
 
 —Sé que es difícil, pero todo pasa por algo y al final vas a estar bien.

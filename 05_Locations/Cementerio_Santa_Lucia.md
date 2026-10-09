@@ -14,9 +14,13 @@ No es monumental. Es viejo, estrecho, con lapidas gastadas, cipreses flacos, gra
 
 No es un lugar de escena melodramatica. Es un lugar de rutina: gente que limpia una lapida, alguien que cambia agua, un trabajador que barre hojas secas sin mirar nombres.
 
-## Funcion en el primer capitulo
+## Apariciones (reestructurado 2026-10-08, orden del autor)
 
-Kal pasa a dejar flores a Michael y le habla de [[02_Characters/Marisol_Grayson]]. Antes de irse, toma una rosa blanca del ramo de Michael y la deja en la tumba de Ruth Mercer. Evita tocar la tumba de Dale Mercer, aunque este al lado. La escena instala una de las pocas obligaciones que Kal acepta sin convertir en deuda de negocio, y deja visible la fractura con el padre adoptivo sin explicarla.
+- **Cap. 3:** Walt ante la tumba de Jim. Al cerrar, Kal manda a los demas por delante y tarda en volver; la escena no lo sigue.
+- **Cap. 20 (el mirador):** Kal le cuenta a Chiara que ese dia le dejo a Ruth una rosa blanca y que la lapida de Dale, al lado, no la toco.
+- **Cap. 25:358:** la tercera hilera, la del cipres flaco, es la de Michael; Kal pasaba de largo cada vez que iba a ver a su madre.
+- **Cap. 31:** despues de llorarlo (Cap. 25), Kal vuelve por fin a la tumba de Michael, camino al lago, con flores blancas y con Chiara como resguardo. Ella solo le oye "Marisol esta bien" y se aparta. Al pie hay flores secas con una liga morada: Marisol si venia.
+- El Cap. 1 ya no tiene cementerio (antes: visita a Michael con las dos cervezas, la rosa para Ruth y Dale sin tocar; retirado 2026-10-08).
 
 ## Regla de escritura
 

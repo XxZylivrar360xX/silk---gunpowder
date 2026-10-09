@@ -53,6 +53,8 @@ Cuando entra [[03_Factions/Fuerza_de_Tarea_Meridian]], la fiscalía local pierde
 
 > **CANON DEL AUTOR (2026-10-04):** Rowe le debe un favor a Chiara desde el asalto del Tasador (Cap. 9, *La balanza*: Kal la saca antes de la policía y Rowe la deja fuera del parte). Queda pendiente; no entra en los "tres favores" del Cap. 13. Chiara lo cobra en el Cap. 44; Rowe lo reconoce y no puede pagarlo (custodia federal): sigue vivo hacia el Libro II.
 
+> **CANON DEL AUTOR (2026-10-08):** Rowe es la madre de Sam, la amiga de clase de [[02_Characters/Marisol_Grayson]] (Cap. 14: "es fiscal de distrito. Anda buscando becarios para el otoño"). En *Sombras de Poder*, parte del favor que le debe a Chiara es darle a Marisol **la oportunidad de demostrar lo que vale**, no aceptarla por recomendación.
+
 > **PENDIENTE:** si Katherine Rowe está limpia, es oportunista o está intentando sobrevivir políticamente.
 
 > **PENDIENTE:** primer conflicto entre Claire Han y Nina Caldwell.

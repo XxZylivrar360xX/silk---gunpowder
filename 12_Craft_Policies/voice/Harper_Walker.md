@@ -54,7 +54,9 @@ Libro I: desconfianza, prueba y aceptación con condición (19). Después aprend
 - "Aquí lo hacemos más largo." (4)
 - "¿Y qué tengo que ver yo con esto?" (19)
 - "Pero si esto sale mal, la culpa es tuya, no mía." (19)
+- "Sigo en las mañanas. Busco tardes." (19, 2026-10-04)
+- "Ese riego no es tuyo." / "Pero a ti no te va a abrir." (19, el dato práctico que Kal no tenía)
 
 ## Línea genérica a evitar
 
-"No necesito caridad." (19). Es la línea de cualquier personaje orgulloso. Harper no nombra la lástima: le pone precio o le encuentra un defecto al terreno.
+"No necesito caridad." (19). Es la línea de cualquier personaje orgulloso. Harper no nombra la lástima: le pone precio o le encuentra un defecto al terreno. *(Cortada de la prosa en la cirugía del 2026-10-04, S3; se conserva como ejemplo.)*

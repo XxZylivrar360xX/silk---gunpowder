@@ -16,6 +16,8 @@ No tiene nombre en la puerta porque quien necesita saber que es, ya lo sabe.
 
 **DISEÑO (2026-09-03):** tiene un sótano donde [[02_Characters/Nadir_Amrani]] cultiva su hierba — ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/15_El_Porton|Capítulo 15]], donde Danny baja ahí con el rumor de la bodega de La Ronda.
 
+**DISEÑO (2026-10-04, Cap. 10):** los jueves cenaban en la mesa larga unos catorce; mientras Chiara ocupa el cuarto de atrás bajan a seis. A veces duermen ahí muchachos del barrio (el chico de la vulcanizadora, sin nombre a propósito).
+
 ## Funcion en el primer capitulo
 
 Despues de comprar comida en [[05_Locations/La_Esquina_de_Mabel]], Kal llega a la casa comun, deja las bolsas y se cambia para el Monarch. Aqui Nadir lo ve con el traje azul y le dice:

@@ -26,7 +26,7 @@
 
 ## Abierto
 
-- Las fichas de Hotel Pacífica, bodega nueve, La Golondrina y el puente de la cementera: recomendado redactarlas; espera el sí del autor.
+- ~~Las fichas de los lugares del arco~~: hechas en la cuarta tanda.
 
 ## Segunda tanda: Acción de Gracias (CANON DEL AUTOR)
 
@@ -37,3 +37,7 @@
 ## Tercera tanda: el lago del imán (DISEÑO, encargo del autor)
 
 - El imán de la manzana (Caps. 14 y 21) ya lleva nombre: *Lake Meriwether*. Va en cursiva en la prosa de los dos capítulos y está anotado en su metadata. Es otro lago, no [[05_Locations/El_Lago]].
+
+## Cuarta tanda: fichas del arco final (DISEÑO, sí del autor)
+
+- Nuevas: [[05_Locations/Hotel_Pacifica]], [[05_Locations/Bodega_Nueve]], [[05_Locations/La_Golondrina]], [[05_Locations/Puente_De_La_Cementera]]. Todas salen solo de la prosa de los Caps. 47–50b; dueños y cobros quedan como PENDIENTE. Enlazadas en San_Aurelio e INDEX; retiradas de PENDING, junto con la rotación de `log.md`, que ya estaba hecha (`accd58a`).

@@ -5,7 +5,7 @@
 
 ## Tratamiento — regla dura (autor, 2026-10-04)
 
-**La llama "Bellandi".** El apellido que ella recuperó al morir Alessio, dicho por un Lusardi: cortesía de superficie, recordatorio por debajo. No "Chiara", no "signora". Pendiente de propagar en prosa (en el Cap. 2 todavía dice "Chiara" en el lobby y al cerrar la sesión); se resuelve en la cirugía, no en esta ficha.
+**La llama "Bellandi".** El apellido que ella recuperó al morir Alessio, dicho por un Lusardi: cortesía de superficie, recordatorio por debajo. No "Chiara", no "signora". Propagado en la Parte I el 2026-10-04 (S5: Caps. 2 y 4; en el 12 y el 22 ya lo decía). En las Partes II–III sólo se revisó el diálogo con grep, sin hallazgos.
 
 ## Cadencia y sintaxis
 
@@ -47,7 +47,8 @@ Mira el anular, no la cara. Gira el anillo de sello; cuando deja de girarlo, va 
 - "Le di la versión." / "Por supuesto. Y la repito muy bien. Llevo años repitiéndola." (5)
 - "Ya me contó la versión. La tuya, esta vez." (12)
 - "Usted ha dicho eso. Yo no." (24)
+- Conducta: "Tommaso no le dijo que ya lo tenía anotado." (22, narración: vigila él, no pregunta)
 
 ## Línea genérica a evitar
 
-"¿Debería preocuparme?" (22, a Dario): lo vuelve subordinado y lento. Tommaso informaría el dato y se guardaría la conclusión para él.
+"¿Debería preocuparme?" (22, a Dario): lo vuelve subordinado y lento. Tommaso informaría el dato y se guardaría la conclusión para él. *(Cortada de la prosa en la cirugía del 2026-10-04, S5; se conserva como ejemplo.)*

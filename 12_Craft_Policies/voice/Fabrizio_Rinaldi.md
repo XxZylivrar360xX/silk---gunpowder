@@ -44,7 +44,8 @@ Abre los brazos, besa las dos mejillas, baja la voz al recordar Italia, toca el 
 - "Chiara Ardizzone en la costa oeste. Ahora sí el mundo se quedó sin mapas." (2, protegida: no reusar; CANON DEL AUTOR 2026-10-06, antes "en California")
 - "¿Comiste? Lo del avión no cuenta. / No comiste. Tu madre me mataría." (2)
 - "No te conviene pelear ésta el primer día." (2, en voz baja, después de la junta)
+- "Mi abuelo corría a los listos. Luego los volvía a contratar más caros." (2, riéndose a medias; sustituye a la línea de abajo. DISEÑO elegido por el autor, 2026-10-04; no reusar)
 
 ## Línea genérica a evitar
 
-"La inteligencia no es un defecto." (2): podría decirla cualquiera de la mesa. Fabrizio defendería a Kal con una risa o con un recuerdo ("Matteo dijo que diría algo así").
+"La inteligencia no es un defecto." (2): podría decirla cualquiera de la mesa. Fabrizio defendería a Kal con una risa o con un recuerdo ("Matteo dijo que diría algo así"). *(Cortada de la prosa en la cirugía del 2026-10-04, S5; se conserva como ejemplo.)*

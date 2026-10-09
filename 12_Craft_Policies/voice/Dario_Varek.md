@@ -15,7 +15,7 @@ Ciudad, orden, inversión, confianza, responsabilidad, continuidad, socios, "mi 
 
 ## Tratamiento
 
-"Signora Bellandi" a Chiara; "señor Mercer" a Kal, siempre. Se le contesta "señor Varek". Nadie en la Parte I lo llama por su nombre (corregir "Darío" en el 7) y nunca lleva tilde.
+"Signora Bellandi" a Chiara; "señor Mercer" a Kal, siempre. Se le contesta "señor Varek". Nadie en la Parte I lo llama por su nombre y nunca lleva tilde (el "Darío" del 7 se corrigió el 2026-10-04).
 
 ## Lo que nunca dice
 
@@ -47,7 +47,8 @@ Da la mano como si cerrara un acuerdo ya decidido. Mira a la persona el tiempo e
 - "Entonces escuchemos lo que usted ya decidió poner frente a nosotros." (2)
 - "La tregua es por lo que le pasó, señor Mercer. No por ella." (9, canon)
 - "Sin que llegara a los socios. Interesante." (22)
+- "Para el Monarch." (7, la palabra del otro repetida; 2026-10-04)
 
 ## Línea genérica a evitar
 
-"A Tommaso le cuesta todo lo que no controla." (7): es un epigrama brillante que entrega un juicio que Dario se guardaría. Él diría el dato ("Tommaso me lo confirmó esta mañana") y dejaría que Chiara pusiera el juicio.
+"A Tommaso le cuesta todo lo que no controla." (7): es un epigrama brillante que entrega un juicio que Dario se guardaría. Él diría el dato ("Tommaso me lo confirmó esta mañana") y dejaría que Chiara pusiera el juicio. *(Cortada de la prosa en la cirugía del 2026-10-04, S4; se conserva como ejemplo.)*

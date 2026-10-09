@@ -22,4 +22,4 @@ Ve demasiado y finge que sólo recuerda órdenes. Su arma es la pregunta inocent
 
 ## Línea genérica a evitar
 
-"Tú no vienes al Gelsomino por la pasta. Vienes a revisar si un lugar caro puede obedecer." (1). Es la lectura que hace el narrador de Kal, no algo que diría un mesero.
+"Tú no vienes al Gelsomino por la pasta. Vienes a revisar si un lugar caro puede obedecer." (1). Es la lectura que hace el narrador de Kal, no algo que diría un mesero. *(Cortada de la prosa en la cirugía del 2026-10-04, S5; se conserva como ejemplo.)*

@@ -18,6 +18,7 @@ Coda ajustada 2026-09-28 (pedido del autor: que sea el pago de haberse abierto; 
 Ajuste 2026-09-28 (CANON DEL AUTOR): Kal pregunta por el apellido ("Dijiste Ardizzone... defendian los nombres mas que a sus mismas familias"; respuesta de Chiara dictada). Dos pausas: (1) el peso de la muerte de Marta en Corrado; (2) como era Alessio: impecable en publico, siempre detras de ella con las manos en los hombros, "la donna di Lusardi... hasta que la muerte nos separara", humillaciones, negaciones y violencia. Chiara no debe leerse como asesina sino como mujer que aguanto. "Y jale el gatillo" -> "Solo lo hice." DISEÑO del agente: Corrado deja de reir/cantar en la cocina; la primera bofetada tras una cena en que ella rio con otro, las flores, "la segunda vez ya no pidio perdon"; control del dinero y los contactos (eco del parlamento canon de Alessio).
 Monologo de Chiara en la coda (2026-10-01, pedido del autor: mas sentimiento, frustracion y verdad; redaccion = DISENO, pendiente de lectura): antes de la pregunta canon ("si, despues de todo lo que he hecho, todavia esta orgulloso de su hija", intacta) Chiara se desdice ("Primero le reclamaria"): el "yo me hago cargo" que la dejo sola a los 23, Ettore que no era el, La Mesa decidiendo boda/apellido/sonrisas, no tener tumba (le habla al mar), cansancio y manos sucias, y la rabia de seguir queriendo su aprobacion. Nada sugiere que Corrado viva. Se corrigio errata "m irarlo".
 Ajuste 2026-10-04 (autor): Kal ya conocia la forma (familias sentadas a una misma mesa) desde el golf del 18 y lo que Dario le nombro en el 24c; aqui recibe el nombre y lo que el Consorzio es para ella. "Entendio la forma" -> "Le puso nombre".
+Cementerio (2026-10-08, orden del autor; DISENO): la busqueda de "¿Tu cuando lo lloraste?" ya no remite al panteon y las dos cervezas del Cap. 1 (retirado), sino a la hilera de Michael que Kal pasa de largo (Cap. 3). La visita llega en el Cap. 31.
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N25-1 a N25-10; N25-5, N25-8 y N25-10 comprimidos a "Lo dijo sin subir la voz / sin rencor / despacio" para no perder las pausas entre revelaciones. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
@@ -355,7 +356,7 @@ Kal la miró sin entender.
 
 —¿Tú cuándo lo lloraste?
 
-Abrió la boca para contestar y no encontró qué. Buscó la respuesta en algún lado —el panteón, las dos cervezas, las cosas que le contaba a una lápida como si le contara el clima— y no estaba ahí.
+Abrió la boca para contestar y no encontró qué. Buscó la respuesta en algún lado —el Santa Lucía, la tercera hilera, el ciprés por el que pasaba de largo cada vez que iba a ver a su madre— y no estaba ahí.
 
 —No había dónde. —Lo dijo despacio—. Ni cuándo. Un día fue el entierro y al día siguiente había que levantarla para la escuela. Y después ya había pasado demasiado tiempo para empezar. —Negó con la cabeza—. Ni a Jim. Ni a Michael. Seguí caminando. Para eso servía.
 

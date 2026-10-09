@@ -374,6 +374,10 @@ Después del piano, Kal cobra por fin el cifrado ("Ya que estamos contando secre
 
 > **DISEÑO derivado, fijado por el autor en el encargo:** ese residuo es el origen íntimo del nombre futuro de la organización, [[03_Factions/El_Patio]]. Chiara **no** bautiza nada ni lo sugiere; el término se queda dentro de Kal y, cuando la estructura necesite nombre, él podrá usarlo. Sólo ellos dos conocerán de dónde viene. No escribirlo como decisión consciente en ningún capítulo.
 
+## North Guard Securitia — CANON DEL AUTOR (2026-10-08)
+
+Es su empresa de seguridad legítima. La anuncia en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05_Una_Amiga|Cap. 5]] y le ofrece el servicio al Monarch. (La semilla que tenía en la tumba de Michael del Cap. 1, "sobre todo seguridad... O proteges, o te protegen", salió con el cementerio el 2026-10-08.) Cuándo se concreta, su relación con El Patio y con Eagle Eye: PENDIENTE ([[01_Timeline/03_Libro_02_Sombras_De_Poder]]).
+
 ## Preguntas abiertas
 
 > **RESUELTO PARCIAL (2026-08-23):** la red recibe el nombre vivo de [[03_Factions/El_Patio|El Patio]] / **los del Patio**, con **Patio Almendra** como posible etiqueta institucional. La cara pública se divide entre [[02_Characters/Russell_Whitaker]] en política y [[03_Factions/Cross_River_Consolidated]] / [[02_Characters/Garrett_Cross]] en activos. **PENDIENTE:** confirmar si El Patio queda como nombre definitivo de calle.

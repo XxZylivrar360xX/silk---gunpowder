@@ -490,6 +490,15 @@ nacimiento de Elenna, antes de la Guerra de los Tres abierta, con Halbrook ya en
 
 - Kal absorbe Eagle Eye Security (la seguridad del Monarch, sembrada en los Caps. 22 y 24c). Momento y mecanismo: PENDIENTE.
 
+## North Guard Securitia — CANON DEL AUTOR (2026-10-08)
+
+- Es el nombre de la empresa de seguridad legítima que Kal anuncia en el Cap. 5 (tras lo de Hoover; le ofrece el servicio al casino). PENDIENTE: cuándo se concreta, relación con El Patio y si absorbe o se cruza con Eagle Eye.
+
+## Cobros del Libro I — CANON DEL AUTOR (2026-10-08)
+
+- **"Quiero levantarlo"** (porche del antiguo Cap. 3, retirado el 2026-09-29): Kal dice en voz alta que quiere levantar el barrio. Se cobra en este libro; escena y momento: PENDIENTE.
+- **Rowe y Marisol:** Rowe es la madre de Sam. Parte del favor que le debe a Chiara (Caps. 9 y 44) es darle a Marisol la oportunidad de demostrar lo que vale en la fiscalía, no aceptarla por recomendación. Ver [[03_Factions/Fiscalia_de_San_Aurelio]].
+
 ## Elementos pendientes explícitos (no rellenar por conveniencia)
 
 - Mecanismo del incendio del loft y contenido exacto de la amenaza de Crowe; cobro posterior

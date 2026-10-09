@@ -109,7 +109,7 @@ Alrededor de las cuatro de la mañana llama a Kal desde la carretera (sigue desp
 En esa misma escena queda sembrado el resto del plan:
 
 - Le quedan seis meses antes de empezar las **estadías en derecho**.
-- La madre de Sam, su amiga de clase, es **fiscal de distrito** y busca becarios para el otoño — si Marisol queda, sería en San Aurelio, lo que le permitiría ver a Kal (y aparecer en la novela) con mucha más frecuencia.
+- La madre de Sam, su amiga de clase, es **fiscal de distrito** y busca becarios para el otoño — si Marisol queda, sería en San Aurelio, lo que le permitiría ver a Kal (y aparecer en la novela) con mucha más frecuencia. **CANON DEL AUTOR (2026-10-08):** es Katherine Rowe ([[03_Factions/Fiscalia_de_San_Aurelio]]). En el Libro II, parte del favor que Rowe le debe a Chiara es darle a Marisol la oportunidad de demostrar lo que vale, no aceptarla por recomendación. PENDIENTE: cómo encaja esa beca con su entrada a Rivers & Krane, que se forma después del Libro I.
 - Kal le ofrece, medio en broma, que sea su abogada. **Ella rechaza** — no va a defender "al importantísimo señor Kal Mercer" con menos de seis meses de experiencia. Establece su carácter: prudente, consciente de sus límites, sin dejarse llevar por el cariño de Kal hacia decisiones que no está lista para tomar.
 
 > **Bufete (CANON DEL AUTOR, 2026-10-02):** [[03_Factions/Rivers_y_Krane]]. Kal es socio mayoritario y el bufete se forma después del Libro I.

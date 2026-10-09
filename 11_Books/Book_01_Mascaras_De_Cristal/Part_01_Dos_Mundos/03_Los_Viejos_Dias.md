@@ -10,7 +10,9 @@ El trabajo (canon del autor, 2026-09-29): mover un cargamento de hierba por enca
 Peldano Kal-Chiara: el 2 deja la simbiosis inicial (quiza pueda obtener algo de esta persona); el 3 no la toca en escena. Lo unico que mueve es el costo: el Monarch no llama (el "te llamo manana" de Matteo queda en nada) y Kal toma el dinero oscuro. Esto es la vida cotidiana que Kal ira contandole a Chiara; la llamada de ella en el 4 reabre la puerta legal esa misma noche.
 Lineas canon conservadas: salida de la carcel ("No vuelvas a prision", "Navarro"/"Keegan", "Llevas intentando saludar como adulto...", "Tu padre hacia esa cara..."), cementerio completo de Walt/Kal/Nat (anadida por el autor, 2026-09-29: Walt deja en la lapida una carta que le escribio a Jim desde la carcel, sin direccion; nadie pregunta que dice), recuerdo de Afganistan (Jim, reporte, "¿Y tu hermana?", la mujer rusa, emboscada). "Estoy un poco resentido con el... 'Tasador'" (autor, 2026-09-29: "joyero" retirado; Walt repite con sorna el apodo nuevo) / "La libertad condicional me volvio moderado" / "Quiero mantenerme afuera..." / "Si hay problema, respondo" se reubican del porche a la escena del trabajo.
 Canon del autor (2026-10-04): antes de que salga Walt, Kal pregunta a Hector "¿Los ojos, segun el color, brillan mas?" / Hector: "¿De que hablas?" / Nat: "Depende." / Kal: "¿Depende de que?" / Nat: "De los ojos que los miren." Eco de los ojos verdes de Chiara en el Cap. 2. Lectura (autor): Nat no comenta la idea de Kal; habla de volver a ver los ojos de su padre, por eso contesta mirando la puerta. Callback de Hector mas adelante: "¡Ah! ¿Te referias a esos ojos?" (Cap. 5, escena de Rocco). Acotaciones (concha, "sin quitarle la vista a la puerta"): DISENO.
-Retirado por el autor (2026-09-29): porche con cervezas (Kal, Walt, Hector), "Quiero levantarlo", el sarcasmo de Hector y la broma de Walt sobre Dario, cafeteria del norte y Harper (su primera aparicion pasa a ser el Cap. 19), la meditacion de Kal sobre Keene. Version anterior en git (commit 14d8c4f).
+Semilla de North Guard Securitia (2026-10-08, orden del autor; DISENO): en la escena del trabajo, Walt pregunta "¿Gastar en que?" y Kal nombra la empresa de seguridad "de las que tienen papeles" y "En el sur, o proteges, o te protegen" (rescatada del Cap. 1). El "Legal es el camino mas corto por ahora" de Walt ahora le contesta. Sin nombre de la empresa en prosa. Paga en el Cap. 5.
+Ruth y Dale (2026-10-08, orden del autor; revisado el mismo dia): al cerrar la visita a Jim, Kal manda a los demas por delante ("Adelantense") y la escena salta: "Tardo en volver al coche"; Walt no pregunta donde estuvo. Lo que hizo (rosa blanca para Ruth, la lapida de Dale sin tocar) se cuenta en el mirador del Cap. 20, para no robarle foco a Walt. Sin hilera de Michael en este capitulo.
+Retirado por el autor (2026-09-29): porche con cervezas (Kal, Walt, Hector), "Quiero levantarlo" (se cobra en el Libro II, autor 2026-10-08), el sarcasmo de Hector y la broma de Walt sobre Dario, cafeteria del norte y Harper (su primera aparicion pasa a ser el Cap. 19), la meditacion de Kal sobre Keene. Version anterior en git (commit 14d8c4f).
 Orden del autor (2026-10-05, frente 5, B+D de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_03_Proporcion_Jim_Walt]]): el recuerdo de Jim ya no corta a Walt al leer la lapida; entra en la pausa de "Kal tardo en contestar" tras "¿Fue rapido?" y vuelve al "Si" (la mentira). Walt de pie y sus preguntas pasan antes del recuerdo. Cortada la glosa "que le decia todo lo que nadie le habia dicho todavia" (adelantaba el "Nadie me lo dijo" de Walt).
 Palabras de prosa: ~4,780 (antes ~7,000 con el bloque de Chiara, que ahora vive en el Cap. 4). DISENO del agente, pendiente de lectura: la banda receptora (Cuadra Nueve), la cifra (treinta mil, mitad por adelantado), la bodega del norte, el Buick sobre la grua, la cadena "Eso decia tu padre", el telefono de Nat, la casa comun como vestidor.
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N3-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
@@ -412,6 +414,12 @@ Nadie le preguntó qué decía.
 
 Natalie le puso la mano en el brazo un segundo, sobre la tela gris que todavía olía a cárcel. Al pasar junto a Kal hacia el Corolla, le apretó el antebrazo una vez. No era un gracias. Era lo que uno hace cuando suelta su extremo de la camilla y confía en que el otro no suelte el suyo.
 
+Kal no fue detrás de ellos.
+
+—Adelántense —le dijo a Héctor—. Ahorita los alcanzo.
+
+Tardó en volver al coche. Cuando llegó, Walt ya estaba sentado adelante y no le preguntó dónde había estado.
+
 ***
 
 La Almendra los recibió con más memoria que fiesta.
@@ -633,6 +641,10 @@ El cuarto se quedó sin ruido. Hasta Danny.
 Kal le sostuvo la mirada. No se defendió. Walt tampoco insistió; no había dicho eso para ganar nada.
 
 —Con eso la Almendra vuelve a estar en el juego —dijo Kal al fin—. Con el dinero de él. Es el único dinero que me va a dar gusto gastar.
+
+—¿Gastar en qué?
+
+—En una empresa de seguridad. De las que tienen papeles. —Kal se encogió de hombros—. En el sur, o proteges, o te protegen.
 
 Walt lo pensó con el café en la mano.
 

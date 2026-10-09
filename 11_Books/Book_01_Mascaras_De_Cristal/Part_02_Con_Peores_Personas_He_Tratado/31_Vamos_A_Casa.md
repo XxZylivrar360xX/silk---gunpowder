@@ -29,6 +29,7 @@ Continuidad:
 - Registro privado todavía en semilla (pre-H16): calidez de conducta, italiano suelto de ella, sin apodos plenos, sin ritual del Ciao.
 - VEHÍCULOS: Kal conduce el Audi todo el capítulo (ida y vuelta). Chiara llega y se va con él — su Lancia se queda en el Monarch, nunca llega al lago. Sin Peugeot: se quedó en el loft con vinil gris y placas falsas (Cap. 28; canon 2026-10-01).
 - INSERCIÓN BORRADOR (2026-09-26, Claude Code, decisión del autor sobre la quinta tanda de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Evaluacion_Arco_Libro_I]]): beat de fe en la parrilla de Héctor, entre la pesca y "Kal la sacó del grupo". Chiara se persigna; Nadir dice *bismillah*; Kal bromea ("Pídele que te cuente bien los peces") y ella contesta "A Dios no se le piden esas cosas"; Kal deja el tenedor quieto hasta que ella termina. Contrapunto de Alessio: Kal puede bromear con su fe, nunca la usa ni la desprecia ([[04_Concepts/Fe_y_Velas]]). Sin glosa: no se menciona que esa mañana (Cap. 28) ella rezó por él. Pendiente de revisión del autor.
+**CEMENTERIO (2026-10-08, CANON DEL AUTOR en estructura; prosa DISEÑO pendiente de lectura):** antes de la tienda de pesca, desvio a Camino Santa Lucia. Chiara ve a Kal comprar flores blancas sin saber para que; en el cementerio entiende. Es la primera vez que Kal va a la tumba de Michael desde que lo lloro (Cap. 25): la evitaba (Cap. 25:358: pasaba de largo la tercera hilera). Chiara es su resguardo: lo acompana hasta la tumba, le oye solo "Marisol esta bien" (paga el "Y decirle que Marisol esta bien" del 25) y se aparta; lo demas no lo presencia. Flores secas con liga morada: Marisol si venia (canon del 21: visita a Michael cuando algo la entristece). Ajustes de costura: fuera "ya en la carretera" en la pregunta por Nadir y "todavia tibios" en los sandwiches. Reemplaza el beat del Cap. 1 (retirado).
 Reconocimiento (2026-09-29, decision del autor): Chiara ubica a Harper como la muchacha de la maquina de La Esquina de Mabel del Cap. 4; Harper la reconocio desde el principio.
 **Siembra de la foto (2026-10-02, CANON DEL AUTOR; prosa DISEÑO del agente, pendiente de lectura):** al volver a la orilla, Kal y Chiara se quedan de la mano mirando la última luz; Héctor la fotografía sin avisar (sólo se ve que guarda el teléfono). Resuelto con el autor 2026-10-02: luz sobre el agua (no tras los árboles); la calavera de Kal no se ve en la foto. Paga en la apertura del Cap. 33 (el cuadro con moño) y en el Cap. 50 (monólogo; Chiara lo lleva al loft). Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
 -->
@@ -91,7 +92,7 @@ Lo miró un momento más, sin moverse, y después hizo lo único que tenía sent
 
 Bajaron juntos. El Audi los sacó del Monarch hacia una tarde que no se parecía a nada de lo que había sido esa mañana: no huían de nadie, no seguían a nadie, no iban a negociar nada. Iban a comprar cañas de pescar.
 
-—¿Cómo se lo tomó Nadir? —preguntó Chiara, ya en la carretera, con el codo apoyado en el borde de la ventanilla.
+—¿Cómo se lo tomó Nadir? —preguntó Chiara, con el codo apoyado en el borde de la ventanilla.
 
 —Mal. Tenía razón en enojarse. —Kal no lo dulcificó—. Después empezó a bromear. Danny me preguntó cómo pienso salir de Camp Alder, y no tuve una buena respuesta.
 
@@ -100,6 +101,44 @@ Bajaron juntos. El Audi los sacó del Monarch hacia una tarde que no se parecía
 —Idea de Nadir.
 
 Chiara sonrió, mirando pasar el paisaje. No hizo más preguntas. La mañana seria ya había terminado.
+
+***
+
+En Camino Santa Lucía, Kal puso la direccional sin decir nada y se orilló frente a una florería sin nombre, de las que sacan las cubetas a la banqueta.
+
+—Ahorita vengo.
+
+Chiara lo vio por el vidrio. No eligió rápido. Pasó de largo las rosas rojas y los ramos armados con celofán, y se quedó frente a una cubeta de flores blancas el tiempo que otro hombre se habría quedado frente a una vitrina de relojes. Pagó y volvió con el ramo boca abajo, sostenido por los tallos, como se carga algo que no se quiere maltratar. Lo dejó en el asiento de atrás.
+
+Ella no preguntó para quién eran. Él no se lo dijo.
+
+Dos cuadras después, el Audi cruzó el portón del cementerio de Santa Lucía.
+
+Kal apagó el motor y no se bajó. Se quedó con las dos manos en el volante, mirando la hilera de cipreses del fondo. Chiara esperó con él. No le tocó el brazo, no le preguntó si estaba bien. Afuera, un trabajador barría hojas secas hacia un montón que el viento le volvía a deshacer.
+
+—¿Vienes? —dijo él al fin.
+
+Caminaron por la grava. Kal iba despacio, con la mano libre cerca del costado, y el ramo en la otra. En la tercera hilera, bajo un ciprés flaco que daba sombra sólo si uno sabía dónde pararse, se detuvo a tres pasos de una lápida, como si la piedra tuviera un perímetro.
+
+*MICHAEL GRAYSON.*
+
+El polvo se había metido en las letras. Al pie había un manojo de flores silvestres, secas ya, atado con una liga de pelo morada. Alguien que sí venía.
+
+Kal no se movió. Chiara le puso la mano abierta en la espalda, nada más, y la dejó ahí. No empujó.
+
+Él dio los tres pasos. Se agachó con cuidado, una mano en la rodilla y la otra en las costillas, acomodó las flores blancas junto a las secas sin quitar las secas, y limpió el nombre con la manga.
+
+—Marisol está bien —le oyó decir.
+
+Chiara dio un paso atrás. Después otro. Lo demás no era para ella.
+
+Lo esperó al final de la hilera, junto al tronco de otro ciprés, y desde ahí sólo le vio la espalda. Habló mucho tiempo. En algún momento se rio, una vez, corto. En otro bajó la cabeza y se quedó así, con la mano sobre la piedra, y Chiara miró hacia otro lado hasta que las campanas de Santa Lucía dieron la hora.
+
+Cuando volvió, tenía los ojos rojos y no hizo nada por esconderlos. Le buscó la mano sin decir nada y ella se la dio.
+
+En el coche, antes de arrancar, Kal se quedó un momento con la llave en la mano.
+
+—Ahora sí —dijo—. Cañas.
 
 ***
 
@@ -125,7 +164,7 @@ No pareció sorprenderle. Señaló la guantera con la mano libre.
 
 —Ahí hay dos sándwiches. Se los compré a Mabel antes de pasar por ti.
 
-Chiara abrió la guantera. Ahí estaban, envueltos en papel encerado, todavía tibios. No preguntó nada. Abrió uno y le dio el primer mordisco mirando la carretera.
+Chiara abrió la guantera. Ahí estaban, envueltos en papel encerado. No preguntó nada. Abrió uno y le dio el primer mordisco mirando la carretera.
 
 El teléfono de Kal se encendió solo en la pantalla del tablero: NADIR.
 

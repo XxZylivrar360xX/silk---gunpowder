@@ -24,6 +24,8 @@ Lenguaje juvenil, sin vulgaridad forzada: "en serio", "no es nada", "te conozco"
 
 Origen en el 14 (el "dai", la cuenta con los dedos, el imán de la manzana, "Se llama Chiara. Dilo tú también"). Pago en el 21 (decisión del autor, 2026-10-04): el imán está en el refrigerador del loft; Kal nunca se lo dio a Chiara. Marisol lo ve en el desayuno y Kal tiene que explicarlo frente a las dos. Después de eso, el chiste se retira: Marisol ya no le dice "tu amiga"; le dice Chiara.
 
+**Pagado en el 21 (2026-10-04, S3):** "¿Y esto?" / "Era para Chiara." / "¿Y por qué sigue aquí?" / "Porque es feo." / "Por eso." (eco del 14). Chiara vuelve a pegar el imán más arriba, a la altura de los ojos, sin decir nada. **Continuidad:** el imán (*Lake Meriwether*) se queda en la puerta del refrigerador de La Casa; puede volver como objeto.
+
 ## Comportamiento físico al hablar
 
 Se mueve mientras habla: tira piedras, cuenta con los dedos, señala con lo que tenga en la mano. Cuando algo le importa de verdad, baja la voz y deja de moverse.
@@ -47,4 +49,4 @@ Se alía con ella contra Kal (el café que no es para él, "¿Me equivoco, Chiar
 
 ## Línea genérica a evitar
 
-"Es lo mínimo, considerando que anoche me recibieron sin preguntar nada." (21). Marisol no justifica un desayuno: lo pone en la mesa y señala cuál café no es para Kal.
+"Es lo mínimo, considerando que anoche me recibieron sin preguntar nada." (21). Marisol no justifica un desayuno: lo pone en la mesa y señala cuál café no es para Kal. *(Cortada de la prosa en la cirugía del 2026-10-04, S3; se conserva como ejemplo.)*

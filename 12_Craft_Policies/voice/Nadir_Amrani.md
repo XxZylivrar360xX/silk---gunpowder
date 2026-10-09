@@ -68,11 +68,12 @@ Con Kal: Kal calla y decide: Nadir habla y decide, a la vez, sin pausa entre pen
 
 ## Regla de objeción
 
-Cuando Nadir se opone a algo (la casa común en el 10, Chiara en el 24b), la objeción lleva **costo concreto**: qué se pierde, cuánto, a quién le toca pagar. Si la objeción es un discurso de principios sin número, está fuera de voz.
+Cuando Nadir se opone a algo (la casa común en el 10, Chiara en el 24b), la objeción lleva **costo concreto**: qué se pierde, cuánto, a quién le toca pagar. Si la objeción es un discurso de principios sin número, está fuera de voz. El 10 cumple desde la cirugía del 2026-10-04 (S4).
 
 ## Muestras de registro añadidas (con origen)
 
 - "Me sale caro. / Te sale lo que costó." (23)
 - "Safi. Ésa te la pago de contado." (23)
 - "Hoy pago yo. Así no te debo nada." (24b)
+- "Los jueves éramos catorce en esa mesa. Anoche fuimos seis." (10, objeción con costo)
 

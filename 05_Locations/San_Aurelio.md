@@ -117,15 +117,15 @@ San Aurelio es una ciudad ficticia de Estados Unidos. Puede incorporar cultura l
 
 ### Lugares del arco final sin Kal (Caps. 47–49; DISEÑO, BORRADOR, 2026-10-02)
 
-Nacieron en la prosa del arco; ninguno tiene ficha propia todavía. Registro: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]], § 5 de E2.
+Nacieron en la prosa del arco. Los cuatro primeros tienen ficha propia desde el 2026-10-08. Registro: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]], § 5 de E2.
 
-**Hotel Pacífica** — enfrente del Monarch, sobre el Paseo Pacífica, en la punta oeste de La Isla. Es un hotel de los años veinte, de la misma década que el hotel viejo sobre el que se construyó el Monarch: "su propio edificio del revés". Valenti ocupa la suite de esquina del piso once, que mira al Monarch (Cap. 49).
+**[[05_Locations/Hotel_Pacifica|Hotel Pacífica]]** — enfrente del Monarch, sobre el Paseo Pacífica, en la punta oeste de La Isla. Es un hotel de los años veinte, de la misma década que el hotel viejo sobre el que se construyó el Monarch: "su propio edificio del revés". Valenti ocupa la suite de esquina del piso once, que mira al Monarch (Cap. 49).
 
-**La bodega nueve del Puerto Viejo** — una de las bodegas de Terminal Road, con oficina en alto sobre los muelles. Ahí Chiara entrega las armas largas y queda debiéndole a Dario la cuenta abierta (Cap. 47). Era "la catorce" y se corrigió el 2026-10-03.
+**[[05_Locations/Bodega_Nueve|La bodega nueve del Puerto Viejo]]** — una de las bodegas de Terminal Road, con oficina en alto sobre los muelles. Ahí Chiara entrega las armas largas y queda debiéndole a Dario la cuenta abierta (Cap. 47). Era "la catorce" y se corrigió el 2026-10-03.
 
-**La Golondrina** — cantina de Santa Brígida, frente a la parroquia, con cuarto del fondo y patio trasero. Ahí, el domingo a las nueve de la noche, después de la última misa, Chiara contrata con Rafe Domínguez el asalto al convoy, y Maribel anota su nombre (Cap. 48).
+**[[05_Locations/La_Golondrina|La Golondrina]]** — cantina de Santa Brígida, frente a la parroquia, con cuarto del fondo y patio trasero. Ahí, el domingo a las nueve de la noche, después de la última misa, Chiara contrata con Rafe Domínguez el asalto al convoy, y Maribel anota su nombre (Cap. 48).
 
-**El puente de la cementera** — puente de un carril sobre la vía de la cementera, en la carretera del condado al sureste de Camp Alder, donde todo frena. Es el punto del asalto al convoy del traslado (Caps. 48 y 50). Una foto de Chiara con Mei-Lin en el puente aparece en la carpeta del 50b.
+**[[05_Locations/Puente_De_La_Cementera|El puente de la cementera]]** — puente de un carril sobre la vía de la cementera, en la carretera del condado al sureste de Camp Alder, donde todo frena. Es el punto del asalto al convoy del traslado (Caps. 48 y 50). Una foto de Chiara con Mei-Lin en el puente aparece en la carpeta del 50b.
 
 **El teatro de la calle Alameda** — de pasada, en la despedida de Valenti (Cap. 49).
 

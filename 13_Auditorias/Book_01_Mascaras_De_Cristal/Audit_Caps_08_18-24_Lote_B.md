@@ -317,7 +317,7 @@ Palabras con `wc -w` por rango de líneas.
 
 ### Protegido (ya aplicado o cobrado por otros)
 
-- **21:** 108 "Es la única promesa que me queda de mi pasado…" (canon); 132 "Para los dos. No solo por Kal. Por los dos."; 170–172 "¿Me equivoco, Chiara?" / "Sin duda alguna, bambina."; 194 "Papá" dicho a la vez; 206 el huracán Marisol y Michael; 210 "Volvemos adentro" (decisión del autor, 09-12).
+- **21:** 108 "Es la única promesa que me queda de mi pasado…" (canon); ~~132 "Para los dos. No solo por Kal. Por los dos."~~ *(salió el 2026-10-04 por decisión del autor, cirugía de terceros S3; también "Es una de las ventajas de ser mujer")*; 170–172 "¿Me equivoco, Chiara?" / "Sin duda alguna, bambina."; 194 "Papá" dicho a la vez; 206 el huracán Marisol y Michael; 210 "Volvemos adentro" (decisión del autor, 09-12).
 - **22:** 94 "sin que llegara a ninguno de los socios" y 106 "Tommaso anotó." (**Tommaso como el que anota**; el 23–24 lo cobra); 110 "Como variación."; 50 el favor de turnos buenos al supervisor (economía de favores de Chiara, afín a S5).
 - **23:** 19 el sobre como formalidad, no descubrimiento (metadata); 61 "Si esto lo arreglo con hombres, la próxima vez el papel vale más que yo."; 155 el fiscal (canon del 19); 185 "Porque esta vez lo quiero por escrito."; 221 y 235 Tommaso sembrado por Chiara.
 - **24:** 94–98 "mi... amigo" (ledger: NO se corta); 122–140 el registro semipúblico (ledger); 174 la mano en el borde de la mesa ("Una vez. Nada más."); 206–218 el testimonio de Tommaso; 284 "El juicio ya lo entendemos. Tommaso, no."; 312 "Recuperé. No es lo mismo." (metadata); 320 el número para Krane; 348 "La soltó al llegar a la acera. No antes."

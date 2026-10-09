@@ -2,10 +2,12 @@
 Estado: TERMINADO.
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Ventana temporal: Fase 0, domingo; el dia en que llegan los socios del Monarch y ocurre H2.
-Lugares: La Almendra, Departamento de Policia de San Aurelio, Il Gelsomino, Lote Almendra, Cementerio Santa Lucia, La Esquina de Mabel, Casa Comunitaria de la Almendra.
+Lugares: La Almendra, Departamento de Policia de San Aurelio, Il Gelsomino, Lote Almendra, La Esquina de Mabel, Casa Comunitaria de la Almendra.
 Funcion: instalar el dia normal de Kal, la carta de Walt, el acuerdo con Keene, Matteo Bellacorte como bisagra y la invitacion al Monarch. Continua en el Capitulo 2.
 Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_01-03.md (seccion 9). Incluye la siembra de los papeles de Nadir (formato del condado, Kal firma por el).
 Ajuste (2026-09-29, autor, reapertura del Cap. 3): en la tumba de Michael, "Quiero que El Patio vuelva a estar en el juego" pasa a "Quiero que la Almendra vuelva a estar en el juego"; todavia no son El Patio.
+Llamada de Marisol (2026-10-08, orden del autor; prosa DISENO pendiente de lectura): en el hueco del cementerio, tras el recibo de Rafa, Marisol llama por la lista de la universidad ("NO TE PREOCUPES POR NADA DE ESTO"): necesita la mitad y Kal tiene que adivinar cual. Rescata el material de la tumba (recibo, lista, "eso lo saco de ti") sin nombrar a Michael: su nombre llega en el Cap. 6 ("Esta la ponia Michael").
+Cementerio retirado (2026-10-08, orden del autor; capitulo TERMINADO, el estado se conserva): sale completo el beat del cementerio de Santa Lucia (flores, tumba de Michael con Marisol y las dos cervezas, "Quiero que la Almendra vuelva a estar en el juego... O proteges, o te protegen", rosa para Ruth, lapida de Dale). Ruth y Dale pasan al Cap. 3 (visita a Jim); Michael espera hasta despues del Cap. 25, cuando Kal ya lo lloro. Texto previo en git (07d6ab7). Sesion: 98_Agent_Handoff/sessions/2026-10-08_claude_consolidacion_S0_terceros.md.
 Dialogo de terceros, La Esquina (2026-10-04, cirugia sobre capitulo TERMINADO; el estado se conserva; prosa DISENO del agente, BORRADOR pendiente de lectura). Direccion del autor: Matteo quiere a Kal como socio para abrir negocios. Deseo opuesto (agente): Kal no se fia de la palabra "socio" en boca de quien no controla la mesa. Fuera: "Eso dice el letrero / El letrero dice gruas", "No todo el mundo tiene que meter coches por la entrada de carga", "No le gusta el juego / No dije eso / No hizo falta", "Eso cuesta / Todo cuesta / No todo se vende / Los socios se aburren...", "Pregunte por mi / No pregunto por gente que me invito". Entran: el pitch de socio (coleccionistas, carreras, talleres: rima con lo que Kal busca en el 2); "¿Ellos saben que me esta ofreciendo eso?" sin respuesta (prepara el "Ya esta citado a las nueve" del 2); Matteo pisa la herida del juego y se disculpa ("Hablo demasiado. Me lo dicen en dos idiomas"); Mabel corrige a Kal y el obedece con Rafa mirando (siembra literal del "Tiene testigos" del 2); "Nueve es nueve" (siembra del "Matteo dijo que diria algo asi" de Fabrizio); Matteo intenta pagar las seis ordenes y Mabel: "Ya estan pagadas" (alimenta "Pagaba antes para que pareciera favor"). Intactos: entrada a La Esquina, cicatriz, networking/puerta, coda de Mabel. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I.md §6.
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); capitulo TERMINADO, el estado se conserva): fuera la linea de Enzo "Tu no vienes al Gelsomino por la pasta..." (glosa del narrador en boca del mesero; el narrador ya lo dice con la bisagra) y la replica de Kal que colgaba de ella. Ficha 12_Craft_Policies/voice/Enzo.
 Frente 3, densidad (2026-10-05, SURGERY autorizada por el autor sobre capitulo TERMINADO; el estado se conserva): fuera el hombre de la camisa demasiado blanca que pregunta por convenios de flotilla (F3-8: siembra sin pago en el libro). F3-9 (Nadir explicado tres veces, l. 443): EJECUTADO 2026-10-05 junto con el frente 1 (fuera las tres primeras frases del parrafo; queda "Kal nunca lo dejaba cerca de los libros..."). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Densidad_Funcion_Frente_3.md §5.
@@ -535,81 +537,43 @@ Rafa soltó una risa nerviosa, breve, casi infantil. En la acera, dos niños dej
 
 Kal firmó el recibo sin escribir descuento en ninguna parte.
 
+El teléfono le vibró en el bolsillo cuando Rafa ya iba empujando la moto hacia la calle. MARISOL.
+
+—¿Te llegó? —dijo ella, sin saludar.
+
+—¿Qué cosa?
+
+—La lista. Te la mandé anoche.
+
+Kal la buscó sin colgar. Estaba debajo del recibo de la universidad que había llegado el viernes: matrícula, libros, una residencia que cobraba como si las paredes supieran leer. La lista era más corta. Dos libros de Procesal Penal, una lámpara de escritorio, unas botas, una chamarra, un cargador. Abajo, en mayúsculas: NO TE PREOCUPES POR NADA DE ESTO.
+
+—Dice que no me preocupe.
+
+—Exacto. Es informativa.
+
+—¿Informativa de qué?
+
+—De lo que no necesito.
+
+Kal volvió a leerla.
+
+—¿Y qué mitad sí necesitas?
+
+—Yo no dije que hubiera una mitad.
+
+—Marisol.
+
+—Tú eres el que lee a la gente, ¿no? —Se oyó una puerta y el eco de un pasillo—. Lee. Me voy a la biblioteca.
+
+Colgó.
+
+Kal se quedó con la lista en la pantalla. Los libros, sí. La lámpara, también: la que tenía se la había comprado él, de segunda, cuando ella tenía quince. Las botas aguantaban otro invierno; la chamarra, no. El cargador lo había pedido en agosto y nadie se lo había mandado.
+
+Eso lo había sacado de su padre. Él pedía igual: nunca lo que necesitaba, siempre de más, para que el otro escogiera.
+
+Marcó cuatro y guardó el teléfono.
+
 ***
-
-Kal compró las flores en una tienda sin nombre junto a Camino Santa Lucía. No eligió las más caras. Eligió las que no parecían pedir disculpas por existir.
-
-El cementerio estaba casi vacío a esa hora. Un trabajador barría hojas cerca de la entrada y una mujer mayor limpiaba una lápida con un trapo mojado. A lo lejos, las campanas de Santa Lucía marcaron las tres con una puntualidad que a Kal siempre le pareció sospechosa. Las iglesias nunca llegaban tarde. La gente sí.
-
-La tumba de Michael Grayson estaba en la tercera hilera, bajo un ciprés flaco que daba sombra sólo si uno sabía dónde pararse.
-
-Kal cambió las flores viejas, limpió el polvo de la piedra con la manga y se quedó de pie un momento con las manos en los bolsillos.
-
-—Tu hija está bien.
-
-El viento movió las hojas secas junto a sus botas.
-
-—No bien de contestar mensajes, pero bien.
-
-Sacó del bolsillo un recibo doblado. Matrícula universitaria. Libros. Una residencia que cobraba como si las paredes supieran leer.
-
-—Me mandó una lista de cosas que no necesita y una nota diciendo que no me preocupe. O sea, necesita la mitad y quiere que yo adivine cuál mitad.
-
-No sonrió, exactamente. La boca se le movió apenas.
-
-—Eso lo sacó de ti.
-
-Una camioneta pasó fuera del cementerio, demasiado rápido para una calle con muertos. Kal esperó a que el ruido se fuera.
-
-—La saqué del barrio, Mike. Eso querías. O eso creo que querías. A veces me mira como si la hubiera mandado lejos en vez de abrirle una puerta.
-
-Se agachó para enderezar las flores.
-
-—Probablemente las dos cosas.
-
-No había respuesta. Nunca la había.
-
-Eso era lo bueno del lugar. Nadie le corregía las versiones.
-
-Kal se quedó un minuto más, leyendo el nombre como si pudiera encontrar ahí una instrucción que no hubiera visto antes. Luego dobló el recibo y lo guardó.
-
-—Traje dos.
-
-Sacó dos cervezas del abrigo, todavía frías, y dejó una recargada contra la base de la lápida, tapa hacia arriba, como si Mike fuera a destaparla con el filo de un encendedor que ya no tenía.
-
-Abrió la suya y le dio un trago largo antes de seguir hablando.
-
-—El taller sigue de pie. Estable. Desde que volví, el barrio está tranquilo. Movido, pero nada como antes.
-
-Bajó la botella y la giró entre los dedos, mirando la humedad despegar la etiqueta.
-
-—Y no me gusta que esté tranquilo así. Quiero que cambie. Quiero que la Almendra vuelva a estar en el juego. Y sobre todo seguridad, que hoy es lo más difícil de conseguir en el sur. O proteges, o te protegen. Nunca hay paz sin una de las dos.
-
-Kal se quedó mirando la condensación resbalar sobre el nombre grabado en la piedra.
-
-—Como siempre. Nunca me dices si tengo razón.
-
-Se limpió las manos en el pantalón, aunque no estaban sucias.
-
-Y por primera vez en todo el día, se quedó quieto. No mucho. Lo suficiente.
-
-Michael habría entendido eso. O se habría reído primero, que era una forma más soportable de entenderlo.
-
-—Te aviso cómo va.
-
-Antes de irse, tomó una rosa blanca del ramo nuevo de Michael.
-
-La tumba de Ruth Mercer quedaba dos hileras más atrás, en una sombra peor. Kal caminó hasta ella con la rosa entre los dedos, quitó una hoja seca de la piedra y la dejó sobre el nombre de su madre sin decir nada. No hacía falta. A Ruth nunca le había servido que él explicara tarde lo que pudo haber hecho antes.
-
-A un lado, la lápida de Dale Mercer acumulaba polvo y una flor de plástico vencida por el sol.
-
-Kal no la tocó.
-
-Ni siquiera rozó la grava de ese lado al girarse.
-
-La mandíbula se le tensó un segundo, el mismo segundo de siempre, y se le pasó antes de que nadie hubiera podido preguntarle por qué.
-
-Se fue antes de que las campanas pudieran marcar otra hora.
 
 A las cuatro y media, Kal cruzó dos calles hasta La Esquina de Mabel para comprar comida.
 

@@ -88,10 +88,12 @@ Cuando cierren las cinco: leer las notas S1–S5; aplicar los cambios de "Para S
 
 | Sesión | Capítulos | Estado |
 |---|---|---|
-| S1 | 17 | abierta |
-| S2 | 15, 16 | abierta |
-| S3 | 19, 21 | abierta |
-| S4 | 7, 10 | abierta |
-| S5 | poda + "Bellandi" | abierta |
+| S1 | 17 | operada el 2026-10-04 (nota S1); **consolidación S0 pendiente** |
+| S2 | 15, 16 | cerrada y consolidada (2026-10-08) |
+| S3 | 19, 21 | cerrada y consolidada (2026-10-08) |
+| S4 | 7, 10 | cerrada y consolidada (2026-10-08) |
+| S5 | poda + "Bellandi" | cerrada y consolidada (2026-10-08) |
 
 (Sólo S0 actualiza esta tabla.)
+
+**Consolidación S0 parcial (2026-10-08, S2–S5):** se aplicaron los "Para S0" mecánicos a las fichas de voz (Lucía, Héctor, Dario, Nadir, Tommaso, Fabrizio, Mabel, Enzo, Harper y Marisol), a las fichas de personaje (Harper y Lucía), a la Casa Comunitaria, al Book Map (Cap. 15, "Darío"), al 28 (errata) y al Lote B (protegidas del 21). Lo que necesita decisión del autor pasó a `PENDING`: el puño de la camisa (24c y 1) y el "cuchillo" del Cap. 4:248. Para la tercera tanda: el "Riego decente" de Garrett (19) se queda a propósito, porque es el papel contra el que Harper lee la tierra. El tic "como quien reporta el clima" sigue en el 3, el 11 y el 25. Detalle en [[98_Agent_Handoff/sessions/2026-10-08_claude_consolidacion_S0_terceros]].

@@ -1,6 +1,6 @@
 # Ficha de Voz - Lucía Varek
 
-> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I_Tanda_2]]). Vara: el interrogatorio del Cap. 13. Ancla secundaria: el hospital del Cap. 15, que se reescribe por decisión del autor (abajo). Ficha de personaje: [[02_Characters/Lucia_Varek]] (subjefa, segunda al mando bajo Elena Vega; hija mayor de Dario Varek).
+> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I_Tanda_2]]). Vara: el interrogatorio del Cap. 13. Ancla secundaria: el hospital del Cap. 15, reescrito el 2026-10-04 por decisión del autor (abajo). Ficha de personaje: [[02_Characters/Lucia_Varek]] (subjefa, segunda al mando bajo Elena Vega; hija mayor de Dario Varek).
 > **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
 
 ## Cadencia y sintaxis
@@ -11,7 +11,7 @@ Directa y procedimental. Habla como quien ya decidió no perder tiempo, pero dej
 
 Siempre algo propio, no sólo el trámite. Su deseo de fondo es que la ciudad la lea por el cargo y no por el apellido. En la escena, casi siempre es ver con sus propios ojos lo que le toca a su caso.
 
-**Cap. 15 (decisión del autor, 2026-10-04):** la subjefa va en persona al hospital porque la casa de Héctor es del círculo del hombre que interrogó en el 13. La "rutina" es la mentira. Va sin uniforme, como en el 13. Registra el apellido Bellandi; Chiara registra el apellido Varek.
+**Cap. 15 (decisión del autor; reescrito 2026-10-04, S2):** la subjefa va en persona al hospital porque la casa de Héctor es del círculo del hombre que interrogó en el 13. La "rutina" es la mentira. Va sin uniforme, como en el 13. Registra el apellido Bellandi; Chiara registra el apellido Varek.
 
 ## Vocabulario
 
@@ -33,7 +33,8 @@ Trabaja con documentos mientras interroga: abre carpetas, desliza fotografías, 
 - "Esto no debería tardar mucho." (13)
 - "El suyo es el que menos me gusta, para serle honesta." (13)
 - "Vamos a confirmar todo eso." (13)
+- "¿Faltaba algo en la casa?" / "Es rutina." (15: la mentira la suelta sin que nadie pregunte)
 
 ## Línea genérica a evitar
 
-"Nada más un par de preguntas de rutina, cuando la casa queda con la puerta abierta y alguien adentro sin poder explicarlo." (15). Explica el procedimiento como un folleto. Lucía diría la pregunta y dejaría que el silencio explicara el resto.
+"Nada más un par de preguntas de rutina, cuando la casa queda con la puerta abierta y alguien adentro sin poder explicarlo." (15). Explica el procedimiento como un folleto. Lucía diría la pregunta y dejaría que el silencio explicara el resto. *(Cortada de la prosa en la cirugía del 2026-10-04, S2; se conserva como ejemplo.)*

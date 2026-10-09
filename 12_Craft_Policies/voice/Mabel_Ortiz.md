@@ -9,7 +9,7 @@ Directa, mandona de mostrador, tutea a todo el mundo. Da órdenes domésticas qu
 
 ## Muletilla — regla dura (2026-10-04)
 
-"Yo no dije nada / Yo sólo sirvo café" nace en el Cap. 1 y es su firma, por eso **se gasta poco**: un origen (1), un eco con variación (11) y que otros se la peguen (Chiara: "Yo no dije nombres"). En prosa nueva, Mabel niega haber informado de otra manera: con la acción (sirve sin que le pidan, no cobra el cambio) o pasándole el dato a otro ("Lo dijo el chofer").
+"Yo no dije nada / Yo sólo sirvo café" nace en el Cap. 1 y es su firma, por eso **se gasta poco**: un origen (1), un eco con variación (11: "Yo no dije para qué."; desde el 2026-10-04 ya no está en el 13) y que otros se la peguen (Chiara: "Yo no dije nombres"). En prosa nueva, Mabel niega haber informado de otra manera: con la acción (sirve sin que le pidan, no cobra el cambio) o pasándole el dato a otro ("Lo dijo el chofer").
 
 ## Vocabulario
 
@@ -47,4 +47,4 @@ Sirve, cobra, limpia una mancha que no existe, mira la puerta. **Si deja de move
 
 ## Línea genérica a evitar
 
-"Eso, en este barrio, asusta más que un arma." (11): es un remate de epigrama. Mabel dejaría el dato ("Va a encontrar a un hombre honesto") y volvería a limpiar.
+"Eso, en este barrio, asusta más que un arma." (11): es un remate de epigrama. Mabel dejaría el dato ("Va a encontrar a un hombre honesto") y volvería a limpiar. *(Cortada de la prosa en la cirugía del 2026-10-04, S5; se conserva como ejemplo.)*
