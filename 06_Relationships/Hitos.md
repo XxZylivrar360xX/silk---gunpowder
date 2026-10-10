@@ -2720,6 +2720,19 @@ Mientras San Aurelio los convierte en **La Mancuerna de Hierro y Seda**, ellos p
 
 ---
 
+# H23 — La boda de Kal y Chiara
+
+> **CANON DEL AUTOR (2026-10-09):** Kal y Chiara se casan. La canción de su vals en la boda es *«Il Mondo»*.
+
+## Estado y posición
+
+- **ID:** H23, siguiente hito registrado después de H22.
+- **Ubicación temporal y libro:** PENDIENTES. El número identifica el hito; no fija por sí solo su posición cronológica respecto de H22.
+- **Lugar y circunstancias de la boda:** PENDIENTES.
+- No se fija aquí quién eligió la canción, quién la interpreta ni si el vals es el primer baile.
+
+---
+
 # Hitos por recibir
 
 - **El paso del usted al tú.** Umbral, no descuido. Ver H2. **Resuelto provisionalmente en el Capítulo 6** (escena de la hierba); se puede mover si el autor prefiere otro umbral.

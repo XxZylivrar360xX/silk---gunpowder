@@ -195,13 +195,15 @@ Chiara se llevó una mano a la boca, pero la bajó antes de tocarse la cara. No 
 
 —¿Qué hiciste?
 
-La lista le subió de golpe: llamadas, nombres, puertas, la voz de Lucía al otro lado de una línea. Chiara eligió lo que podía decir sin volverlo un inventario.
+La lista le subió de golpe: llamadas, nombres, puertas, la voz de Lucía, que no había dejado de contestar. Chiara eligió lo que podía decir sin volverlo un inventario.
 
 —Lo que pude.
 
 —Eso no dice mucho.
 
 —No tenía una puerta que abrir. Tenía gente que podía preguntar y gente que dejó de contestar.
+
+También había acudido a Dario. Seguía sin saber qué le iba a cobrar.
 
 —¿Y Camp Alder?
 
@@ -266,8 +268,6 @@ Kal respiró por la nariz. La lámpara le marcaba una línea cansada debajo de l
 —No.
 
 —A mí tampoco.
-
-No había equilibrio en eso. Ella había decidido qué podía saber él; él había decidido qué peligro podía compartir con ella. La cuenta no se cancelaba por sumar las dos cosas.
 
 —Cuando te pregunté por Matteo —dijo Kal—, respondiste «Nada».
 
@@ -343,7 +343,7 @@ Chiara abrió la boca. La respuesta que le salió primero tenía forma de explic
 
 —No todo.
 
-Kal apartó la mirada. El silencio no fue una invitación a seguir; fue el espacio que él necesitaba para no contestar demasiado rápido.
+Kal apartó la mirada. Chiara no tomó aquel silencio como una invitación a seguir.
 
 —Me dijiste «Nada» —repitió—. Te pregunté mirándote.
 
@@ -425,7 +425,7 @@ Kal observó su mano junto a la lámpara.
 
 —No sé por qué no tocaste.
 
-Él se quedó callado. Chiara notó que había entendido la trampa: ella le había pedido una respuesta que él todavía no tenía, y quizá nunca tendría completa.
+Él se quedó callado. Chiara no sabía qué respuesta habría podido aceptar.
 
 —Subí —dijo Kal—. Llegué hasta la puerta.
 
@@ -453,7 +453,7 @@ Su voz se había endurecido. La aflojó con esfuerzo.
 
 —Podría.
 
-El brazo de Chiara se plegó sobre el vientre. Él no había ido a buscarla. También había subido hasta su puerta. Las dos cosas eran verdad; ninguna servía para borrar la otra.
+El brazo de Chiara se plegó sobre el vientre. Él no había ido a buscarla. También había subido hasta su puerta.
 
 —Yo habría abierto —dijo.
 
@@ -649,13 +649,13 @@ Se quedaron un poco más, hasta que el frío de la ropa empezó a atravesarle la
 
 En el baño, Chiara se quitó la blusa húmeda. Al volver, llevaba una playera gris de Kal, sacada del cajón de su lado de la cama. Él se había cambiado la sudadera por una camiseta seca y dejó la ropa mojada sobre una silla.
 
-No encendieron la luz. En la cama, ambos dudaron un instante ante el espacio conocido, como si los días ausentes hubieran cambiado la medida. Kal se acostó primero. Chiara se acomodó de lado, de espaldas a él, y esperó.
+No encendieron la luz. En la cama, ambos dudaron un instante ante el espacio conocido, como si los días ausentes hubieran cambiado la medida. Kal se acostó primero. Chiara se acomodó de lado, vuelta hacia él, y esperó.
 
 El brazo de Kal le rodeó los hombros.
 
-Su mano encontró el borde de la playera y se deslizó debajo. Subió por el abdomen, despacio, hasta el pecho. Allí se quedó, bajo la tela, con la palma abierta sobre el latido.
+La mano de Chiara encontró el borde de la playera de Kal y se deslizó debajo. Subió por el abdomen de él, despacio, hasta el pecho. Allí se quedó, bajo la tela, con la palma abierta sobre el latido.
 
-Kal le recogió el cabello hacia atrás. Inhaló cerca de su sien y guardó el olor a jabón y humo que reconocía como suyo.
+Kal le recogió el cabello hacia atrás. Inhaló cerca de su sien y se quedó allí un instante.
 
 Chiara dejó que el peso de su brazo la anclara. Poco a poco, la respiración de ambos dejó de ir a destiempo.
 
@@ -755,6 +755,8 @@ Kal volvió a tomar la taza. Esta vez bebió otro sorbo.
 
 —Fabrizio le habría echado azúcar —dijo Chiara.
 
+Una de esas tardes le había llevado comida al despacho y le había puesto el plato encima de los papeles.
+
 Kal dejó la taza en la mesa.
 
 —¿Él?
@@ -812,17 +814,17 @@ Chiara dejó de jugar con el tenedor.
 
 —¿Qué cambiaste?
 
-—Lo necesario para que no se pararan si yo no podía firmar. Garrett ya figuraba como administrador. Los poderes y las firmas quedaron listos.
+—Garrett ya figuraba al frente de Cross River Consolidated. Ahora puede firmar sin mí.
 
-—¿Cross River?
+—¿Y tú?
 
-—Sigue donde estaba. Garrett al frente en papel. Yo detrás, donde no aparezco.
+—Detrás. Mi nombre no aparece.
 
 Ella revisó su cara, no los detalles del arreglo.
 
 —Y si no regresabas.
 
-—Los pagos seguían. Los contratos también.
+—Él seguía.
 
 Chiara miró el café frío. No le preguntó quién más sabía. Lo guardó para después.
 
@@ -830,7 +832,7 @@ Chiara miró el café frío. No le preguntó quién más sabía. Lo guardó para
 
 —¿Hoteles?
 
-—Hoteles de La Isla y de la zona norte. También residenciales de alto valor; Lomas de San Jacinto, cuando llegue ese frente.
+—Los de La Isla y la zona norte. También residenciales de alto valor.
 
 —Puedo abrirte puertas en la zona norte.
 
@@ -854,23 +856,19 @@ Kal apoyó la espalda en la silla.
 
 Chiara se levantó a llenar las tazas. Al volver, dejó la de él junto a su mano.
 
-—El Faro necesita capital —dijo—. No quiero comprarlo esta mañana. Quiero entrar antes de que alguien más decida qué puede publicar sobre ti. Van a preguntar por el arresto, la custodia y por qué volviste después de tantos días. Si la primera respuesta la escriben ellos, tus socios y tus negocios se enteran por los rumores.
+—El Faro necesita capital —dijo—. Uno de tus socios me llamó preguntando quién se quedaba con tus negocios. Ya te daba por perdido. Quiero entrar en el diario.
 
 Kal no tocó la taza.
 
 —¿Quieres controlar las notas?
 
-—Quiero que no puedan inventarlas. El Faro todavía tiene lectores que esperan que compruebe lo que publica. Eso es lo que vale.
-
-—Y si te vuelves la noticia.
-
-—Entonces tendré que responder por lo que haga con el diario.
+—Quiero tener voz ahí. Todavía comprueban lo que publican; por eso les creen.
 
 Chiara tomó un pedazo de pan y lo partió por la mitad.
 
-—Cross River puede aportar una parte del capital —dijo Kal—. Una participación pequeña, por la estructura. Mi nombre no aparece.
+—Podemos invertir desde Cross River —dijo Kal—. Una participación pequeña.
 
-—Yo puedo dar trabajo a North Guard. Hoteles y desarrollos residenciales. Contratos limpios, con licitación.
+—Yo puedo invitar a North Guard a las licitaciones.
 
 —Eso suena a negocio.
 
@@ -894,7 +892,7 @@ Kal giró la taza entre las manos.
 
 —No te preocupes. Las cifras no se van a ir.
 
-Kal le tendió la mano por encima de la mesa.
+Kal le tendió la mano por encima de la mesa. Chiara se la estrechó.
 
 —¿Lo sellamos con tinta o con un beso?
 
