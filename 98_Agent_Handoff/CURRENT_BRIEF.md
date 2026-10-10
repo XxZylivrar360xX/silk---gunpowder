@@ -20,7 +20,7 @@ Actualizado: 2026-10-08. Estado vigente; máximo 800 palabras. Sustituir lo supe
 ## Saga (CANON DEL AUTOR)
 
 - Siete libros: I *Máscaras de Cristal* · II *Sombras de Poder* · III *Voto de Ceniza* · IV *Cuentas de Sangre* · V–VII, la trilogía de Elenna (*Juramento de Hierro*, *Hijos del Silencio*, *Camino a Casa*). Fronteras: [[00_Biblia/00_Trilogy_Structure]].
-- **Libro II:** abre con la respuesta de Chiara (número de capítulo PENDIENTE), cubre esencialmente un año y cierra con el reveal del embarazo en la chimenea de Villa Candelaria, la noche de H1. Halbrook vuelve a aparecer en la gala, con el baile. Deudas del cierre: [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]].
+- **Libro II:** el Cap. 1 abre con el POV de Kal, como espejo del final del Libro I, hasta «Ciao, bella» (CANON 2026-10-09; BORRADOR con pase completo: [[98_Agent_Handoff/sessions/2026-10-09_claude_sombras_cap01_pase_completo]]), cubre esencialmente un año y cierra con el reveal del embarazo en la chimenea de Villa Candelaria, la noche de H1. Halbrook vuelve a aparecer en la gala, con el baile. Deudas del cierre: [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]].
 - **Halbrook:** lo mata Harper en su discurso de victoria, y eso cierra *Voto de Ceniza* ([[02_Characters/Warren_Halbrook]]).
 - Aura de la pareja, Michael/Iris/Elenna y Corrado como Manfred Gabe: ver [[06_Relationships/Kal_y_Chiara]] y [[98_Agent_Handoff/sessions/2026-10-04_claude_fichas_evolucion_michael_ardizzone]].
 
