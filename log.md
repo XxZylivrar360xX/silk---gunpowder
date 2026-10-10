@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-09: **borrador del Capítulo 1 de *Sombras de Poder***. Apertura directa después del Cap. 50; reencuentro, liberación que Kal no comprende y reconciliación de F1. [[98_Agent_Handoff/sessions/2026-10-09_codex_borrador_apertura_libro2]]
 - 2026-10-09: **microcirugía del arco personal de Kal** (por autorización del autor): retiradas las dos referencias al recibo de flores del Cap. 1 y la promesa de visita a Michael del Cap. 21. Protegida la progresión 1/3/6/14/20/21/25/31; la poda opcional del 31 queda intacta. [[98_Agent_Handoff/sessions/2026-10-09_codex_para_claude_microcirugia_arco_personal_kal]]
 
 - 2026-10-08: **consolidación S0 de la cirugía de terceros (S2–S5)**. Fichas de voz y de personaje al día con la prosa del 2026-10-04; primer encuentro Lucía–Chiara (15) asentado en su ficha; Q24 pasa al Libro II. CANON: Rowe es la madre de Sam (favor a Marisol en el Libro II), North Guard Securitia, "Quiero levantarlo" se cobra en el Libro II; cementerio reestructurado: sale del 1; Ruth y Dale en el 3; Michael en el 31, con Chiara (prosa DISEÑO). [[98_Agent_Handoff/sessions/2026-10-08_claude_consolidacion_S0_terceros]]
