@@ -1,12 +1,13 @@
 <!--
-Estado: BORRADOR — escena de reencuentro de *Sombras de Poder*, Parte I — Nieve y Ceniza. Título provisional.
+Estado: BORRADOR — Capítulo 1 de *Sombras de Poder*, Parte I — Nieve y Ceniza. Título provisional.
 POV: Chiara Bellandi, tercera persona cercana.
-Continuidad: abre inmediatamente después del Cap. 50 de *Máscaras de Cristal*, tras «Ciao, bella». En la nueva secuencia será el futuro Capítulo 2; el futuro Capítulo 1 mostrará Camp Alder y la liberación orquestada por Halbrook.
+Continuidad: abre inmediatamente después del Cap. 50 de *Máscaras de Cristal*, tras «Ciao, bella». La noche del reencuentro continúa en la mañana siguiente.
 CANON DEL AUTOR (2026-10-09): el loft está a oscuras y la única luz inicial es una lámpara de camping. Chiara apunta por reflejo a una sombra junto a la isla, sin saber aún que es Kal. Ella pregunta «¿Cómo diablos estás aquí?» y él responde «Bueno, señora Bellandi, resulta ser que esta es mi casa». Kal estuvo en su celda, le cubrieron la cabeza, lo movieron y lo dejaron en la Almendra; no sabe quién lo liberó ni qué ocurrió.
-DISEÑO en prosa: reconciliación todavía abierta a un segundo pase de profundidad; no revela la intervención de Halbrook.
+CANON DEL AUTOR (2026-10-09): Fabrizio Rinaldi, viejo amigo de Chiara desde la infancia, aparece muerto en su apartamento; Lucía Varek pide a Chiara identificar el cuerpo. Tommaso sobrevive. La llamada de Lucía no se oye en prosa y el capítulo corta en «Fabrizio está muerto».
+DISEÑO en prosa: la mañana convierte el reencuentro en alianza doméstica y empresarial; no revela quién mató a Fabrizio.
 -->
 
-# Capítulo 2 — Lágrimas de silencio y calidez
+# Capítulo 1 — Lágrimas de silencio y calidez
 
 La lámpara de camping apenas alcanzaba la isla.
 
@@ -646,6 +647,8 @@ Chiara soltó una risa pequeña, cansada y húmeda.
 
 Se quedaron un poco más, hasta que el frío de la ropa empezó a atravesarle la blusa. Kal aflojó el abrazo, pero no la soltó del todo. Ella le agarró la mano y lo llevó al cuarto.
 
+En el baño, Chiara se quitó la blusa húmeda. Al volver, llevaba una playera gris de Kal, sacada del cajón de su lado de la cama. Él se había cambiado la sudadera por una camiseta seca y dejó la ropa mojada sobre una silla.
+
 No encendieron la luz. En la cama, ambos dudaron un instante ante el espacio conocido, como si los días ausentes hubieran cambiado la medida. Kal se acostó primero. Chiara se acomodó de lado, de espaldas a él, y esperó.
 
 El brazo de Kal le rodeó los hombros.
@@ -657,3 +660,284 @@ Kal le recogió el cabello hacia atrás. Inhaló cerca de su sien y guardó el o
 Chiara dejó que el peso de su brazo la anclara. Poco a poco, la respiración de ambos dejó de ir a destiempo.
 
 La alcoba permaneció oscura. Afuera, San Aurelio fue encendiendo sus luces por partes: una esquina, una ventana, una fila de casas. La mano de Chiara seguía sobre el pecho de Kal cuando se quedó dormida.
+
+El primer despertar llegó cerca de las siete, sin sacarla del todo del sueño. La almohada estaba tibia bajo su mejilla. Kal la atrajo hacia él; la palma le encontró la cadera por encima de la playera y el otro brazo le cerró el espacio a la espalda.
+
+Chiara dobló una pierna y la dejó sobre la de él. No abrió los ojos.
+
+La mano de Kal pasó una vez por la tela de su cintura. Después otra, más lenta. Ella se arrimó hasta notar su respiración en el pelo y volvió a dormirse.
+
+Dos horas después, una presión incómoda la sacó de la cama. Chiara intentó incorporarse. El brazo alrededor de sus hombros se apretó.
+
+—No.
+
+—Kal, tengo que ir al baño.
+
+Él dejó la frente contra su nuca.
+
+—Bien. Abandóname a mi suerte.
+
+Chiara sonrió. El cabello se le había enredado sobre la cara; apartó un mechón y descubrió que él la miraba con un ojo apenas abierto.
+
+—No te muevas. Puede que no vuelva.
+
+—Eso sería cruel.
+
+Se levantó antes de que él pudiera atraparla otra vez. Al cruzar la puerta del baño, sintió la mirada de Kal seguirla hasta el pasillo.
+
+Cuando regresó, él había tomado su lugar en el centro de la cama. Chiara se acostó sobre su pecho. Kal la jaló de vuelta contra él y le besó la mejilla.
+
+—No vuelvas a irte.
+
+—No planeo hacerlo.
+
+La respuesta quedó entre el sueño y la respiración de ambos. Kal cerró los ojos. Chiara oyó que su pulso bajaba bajo su oreja.
+
+Cuando despertaron otra vez, la luz ya había cruzado la ventana y alcanzaba el piso. El reloj del buró pasaba de las nueve.
+
+Chiara se sentó al borde de la cama. La playera de Kal le caía hasta medio muslo. Él se desperezó sin prisa, con el cabello aplastado de un lado.
+
+—¿Hay café? —preguntó.
+
+—Hay café.
+
+—¿Bueno?
+
+—No lo arruines antes de probarlo.
+
+En la cocina, Chiara puso música desde el teléfono y abrió las cortinas. El cielo sobre San Aurelio seguía gris, pero las ventanas de La Almendra ya reflejaban el día. Kal sacó huevos, pan y una sartén.
+
+—¿Qué haces? —preguntó ella.
+
+—Desayuno.
+
+—¿Desde cuándo sabes cocinar?
+
+—No dije que supiera.
+
+El pan saltó de la tostadora antes de que él encontrara un plato. Kal lo atrapó con la mano, lo dejó caer y lo empujó hacia la tabla.
+
+Chiara le quitó la sartén antes de que el huevo empezara a pegarse.
+
+—Amore, tú encárgate de los cubiertos. Ellos no se van a quemar.
+
+Kal abrió el cajón de los cubiertos.
+
+—No están cocinándose.
+
+—Por eso confío en ti.
+
+El ritmo de la canción cambió. Chiara pasó detrás de él con dos tazas; Kal la tomó por la cintura apenas el tiempo suficiente para hacerla girar y soltarla junto a la mesa. Ella dejó una taza a salvo antes de darle un golpe con la cadera.
+
+—Los platos —dijo.
+
+—Ya voy.
+
+—Y nada de porcentajes.
+
+—Ni siquiera había empezado.
+
+Se sentaron junto a la ventana. El café era de la bolsa azul que Chiara había comprado durante esos días. Kal probó un sorbo y lo dejó en la mesa.
+
+—Sigue sabiendo a ceniza.
+
+—Ahora lo sé.
+
+—¿Por qué lo compraste?
+
+—Porque era el que comprabas tú.
+
+Kal volvió a tomar la taza. Esta vez bebió otro sorbo.
+
+—Podías haber elegido uno mejor.
+
+—No sabía que se pudiera.
+
+—Fabrizio le habría echado azúcar —dijo Chiara.
+
+Kal dejó la taza en la mesa.
+
+—¿Él?
+
+—Me conoce desde que éramos niños. Cree que puede corregirme hasta el café.
+
+—¿Puede?
+
+—No.
+
+—El tercer día pedí el mismo café en dos lugares distintos. Dejé enfriar los dos.
+
+—¿Comiste algo?
+
+—Un pan de máquina.
+
+—A la altura de tu café.
+
+—Era lo único que quedaba.
+
+—Y lo convertiste en una estrategia.
+
+—Me funcionó.
+
+—¿Te lo acabaste?
+
+—No.
+
+—Entonces no funcionó.
+
+Chiara le lanzó una servilleta. Kal la atrapó antes de que cayera en el plato.
+
+Él le contó que el primer día dejó una parte del pan para más tarde. La guardó en el bolsillo y al rato ya no recordaba por qué la había escondido. La risa de Chiara le salió por la nariz, corta, sorprendida.
+
+—¿Te comiste el pan del bolsillo?
+
+—No.
+
+—¿Por qué?
+
+—Tenía pelusa.
+
+—Qué delicado.
+
+—No sabes lo que había en ese bolsillo.
+
+—Prefiero no saberlo.
+
+La conversación volvió a cosas pequeñas: el café, una tostadora que había sobrevivido a los últimos dueños, la camisa que Kal decía que ella había robado y que Chiara declaró oficialmente abandonada.
+Kal apartó el plato y dejó una mano junto a la taza.
+
+—Antes de Camp Alder, Krane me hizo revisar la continuidad de los negocios.
+
+Chiara dejó de jugar con el tenedor.
+
+—¿Qué cambiaste?
+
+—Lo necesario para que no se pararan si yo no podía firmar. Garrett ya figuraba como administrador. Los poderes y las firmas quedaron listos.
+
+—¿Cross River?
+
+—Sigue donde estaba. Garrett al frente en papel. Yo detrás, donde no aparezco.
+
+Ella revisó su cara, no los detalles del arreglo.
+
+—Y si no regresabas.
+
+—Los pagos seguían. Los contratos también.
+
+Chiara miró el café frío. No le preguntó quién más sabía. Lo guardó para después.
+
+—También estoy mirando North Guard Securitia —dijo Kal—. Seguridad legal. Hay que terminar de armarla.
+
+—¿Hoteles?
+
+—Hoteles de La Isla y de la zona norte. También residenciales de alto valor; Lomas de San Jacinto, cuando llegue ese frente.
+
+—Puedo abrirte puertas en la zona norte.
+
+—No te pedí que me regalaras nada.
+
+—No iba a hacerlo. Quiero que compitas por los contratos.
+
+Kal apoyó la espalda en la silla.
+
+—¿Y cuánto me vas a cobrar por entrar?
+
+—Depende de cuánto quieras.
+
+—Eso no es una cifra.
+
+—Es una invitación a negociar.
+
+—Me gustan más las cifras.
+
+—A mí también.
+
+Chiara se levantó a llenar las tazas. Al volver, dejó la de él junto a su mano.
+
+—El Faro necesita capital —dijo—. No quiero comprarlo esta mañana. Quiero entrar antes de que alguien más decida qué puede publicar sobre ti. Van a preguntar por el arresto, la custodia y por qué volviste después de tantos días. Si la primera respuesta la escriben ellos, tus socios y tus negocios se enteran por los rumores.
+
+Kal no tocó la taza.
+
+—¿Quieres controlar las notas?
+
+—Quiero que no puedan inventarlas. El Faro todavía tiene lectores que esperan que compruebe lo que publica. Eso es lo que vale.
+
+—Y si te vuelves la noticia.
+
+—Entonces tendré que responder por lo que haga con el diario.
+
+Chiara tomó un pedazo de pan y lo partió por la mitad.
+
+—Cross River puede aportar una parte del capital —dijo Kal—. Una participación pequeña, por la estructura. Mi nombre no aparece.
+
+—Yo puedo dar trabajo a North Guard. Hoteles y desarrollos residenciales. Contratos limpios, con licitación.
+
+—Eso suena a negocio.
+
+—Lo es.
+
+—¿Y quién decide el porcentaje?
+
+—Tú propones. Garrett lo revisa. Yo decido.
+
+—¿Y si no me gusta?
+
+—Entonces no lo firmas.
+
+Kal giró la taza entre las manos.
+
+—Podríamos pasar el día entero en esto.
+
+—No. Hay otras cosas que hacer.
+
+—Qué lástima.
+
+—No te preocupes. Las cifras no se van a ir.
+
+Kal le tendió la mano por encima de la mesa.
+
+—¿Lo sellamos con tinta o con un beso?
+
+Chiara se mordió el labio y alzó la taza frente a la boca.
+
+—La tinta mancha los dedos. Un beso no. Y son económicos.
+
+El teléfono de Chiara vibró junto al plato. En la pantalla apareció el nombre de Lucía Varek.
+
+Kal miró el teléfono y después a Chiara.
+
+—Ese es su número personal.
+
+Chiara dejó la taza en la mesa.
+
+—Sí.
+
+—¿Desde cuándo tienes el teléfono personal de Lucía Varek?
+
+Chiara tomó el aparato.
+
+—Ahora no.
+
+Contestó.
+
+—Sí.
+
+El pan se le detuvo a medio camino de la boca. Lo dejó en el plato.
+
+—¿En su apartamento?
+
+Escuchó. La mano libre se cerró sobre la servilleta.
+
+—¿La comisaría? ¿Para identificarlo?
+
+Kal se puso de pie. No se acercó al teléfono.
+
+Chiara mantuvo la vista en la ventana. Un camión pasó por la calle mojada y borró por un segundo el reflejo de las casas.
+
+—Entiendo. Sí. Voy para allá.
+
+Terminó la llamada. El nombre de Lucía desapareció de la pantalla. Chiara tragó saliva despacio y dejó el teléfono boca abajo.
+
+Kal seguía de pie frente a ella.
+
+—Fabrizio está muerto.

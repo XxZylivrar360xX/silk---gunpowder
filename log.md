@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-09: **mañana del Capítulo 1 de *Sombras de Poder***. Continuación del reencuentro: dos despertares, desayuno, alianza de Cross River/North Guard/El Faro y llamada muda de Lucía; cierre en la muerte de Fabrizio. Deltas del nuevo destino sin propagar. [[98_Agent_Handoff/sessions/2026-10-09_codex_sombras_cap01_manana_fabrizio]]
 - 2026-10-09: **ping-pong del futuro Capítulo 2 de *Sombras de Poder***. Primera cirugía del reencuentro en el loft: logística comprimida, heridas de F1/Palermo/puerta preservadas, abrazo y regreso a la cama; revisión BORRADOR. Dudas de continuidad en la nota de sesión. [[98_Agent_Handoff/sessions/2026-10-09_codex_pingpong_sombras_cap02]]
 - 2026-10-09: **borrador del Capítulo 1 de *Sombras de Poder***. Apertura directa después del Cap. 50; reencuentro, liberación que Kal no comprende y reconciliación de F1. [[98_Agent_Handoff/sessions/2026-10-09_codex_borrador_apertura_libro2]]
 - 2026-10-09: **microcirugía del arco personal de Kal** (por autorización del autor): retiradas las dos referencias al recibo de flores del Cap. 1 y la promesa de visita a Michael del Cap. 21. Protegida la progresión 1/3/6/14/20/21/25/31; la poda opcional del 31 queda intacta. [[98_Agent_Handoff/sessions/2026-10-09_codex_para_claude_microcirugia_arco_personal_kal]]
