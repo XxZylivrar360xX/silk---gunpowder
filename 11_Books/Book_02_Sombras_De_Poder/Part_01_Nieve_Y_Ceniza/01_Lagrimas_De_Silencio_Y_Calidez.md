@@ -1,251 +1,659 @@
 <!--
-Estado: BORRADOR — apertura de *Sombras de Poder*, Parte I — Nieve y Ceniza. Título provisional.
+Estado: BORRADOR — escena de reencuentro de *Sombras de Poder*, Parte I — Nieve y Ceniza. Título provisional.
 POV: Chiara Bellandi, tercera persona cercana.
-Continuidad: abre inmediatamente después del Cap. 50 de *Máscaras de Cristal*, tras «Ciao, bella».
-CANON DEL AUTOR (2026-10-09): apertura directa en el loft; Chiara pregunta «¿Qué demonios haces aquí?» y Kal responde «Bueno, resulta que esta es mi casa, señora Bellandi». Kal cuenta que pasó esos días en su celda, le cubrieron la cabeza, lo trasladaron y lo dejaron en la Almendra como si nunca hubiera estado preso; no sabe quién lo liberó ni qué ocurrió. La reconciliación debe pagar el peso de la separación y la última discusión de F1 antes de llegar al abrazo y a la cama.
-DISEÑO en prosa: diálogo y transiciones por revisar; no revela la intervención de Halbrook.
+Continuidad: abre inmediatamente después del Cap. 50 de *Máscaras de Cristal*, tras «Ciao, bella». En la nueva secuencia será el futuro Capítulo 2; el futuro Capítulo 1 mostrará Camp Alder y la liberación orquestada por Halbrook.
+CANON DEL AUTOR (2026-10-09): el loft está a oscuras y la única luz inicial es una lámpara de camping. Chiara apunta por reflejo a una sombra junto a la isla, sin saber aún que es Kal. Ella pregunta «¿Cómo diablos estás aquí?» y él responde «Bueno, señora Bellandi, resulta ser que esta es mi casa». Kal estuvo en su celda, le cubrieron la cabeza, lo movieron y lo dejaron en la Almendra; no sabe quién lo liberó ni qué ocurrió.
+DISEÑO en prosa: reconciliación todavía abierta a un segundo pase de profundidad; no revela la intervención de Halbrook.
 -->
 
-# Capítulo 1 — Lágrimas de silencio y calidez
+# Capítulo 2 — Lágrimas de silencio y calidez
 
-La Beretta seguía apuntándole. Chiara no había bajado el brazo. La luz de la cocina le caía encima a Kal y no alcanzaba a volverlo menos extraño: la ropa limpia, los pliegues marcados en la camisa, la cara agotada. Vivo. Ahí, en la isla, como si el tiempo no hubiera pasado.
+La lámpara de camping apenas alcanzaba la isla.
 
-—¿Qué demonios haces aquí?
+Chiara vio una sombra al otro lado y levantó la Beretta. La silueta no se movió. Una mano apareció despacio junto al borde de la encimera.
 
-La pregunta le salió con más filo que aire. No sabía si quería que contestara o que desapareciera antes de que la respuesta pudiera hacerle algo.
+—¿Cómo diablos estás aquí?
 
-—Bueno, resulta que esta es mi casa, señora Bellandi.
+La sombra inclinó la cabeza.
 
-La respuesta llegó con ese humor suyo, seco y un poco cansado. Chiara sintió que algo se le movía por dentro; no llegó a ser una sonrisa. El cañón tampoco bajó.
+—Bueno, señora Bellandi, resulta ser que esta es mi casa.
 
-—No te pregunté de quién es la casa.
+La voz. El cansancio debajo del humor. Chiara reconoció ambas cosas antes de que la luz le alcanzara la cara.
 
-—Ya sé.
+No bajó el arma.
 
-—Entonces contesta.
+Kal llevaba una sudadera oscura, empapada en los puños y salpicada de barro. Tenía la barba crecida. La lámpara le dejaba un lado de la cara en sombra.
 
-Él no hizo ningún movimiento hacia ella. Tenía las manos a la vista, apoyadas en el borde de la isla.
-
-—Estuve en mi celda esos días.
-
-Chiara apretó más la empuñadura. La palabra *días* parecía demasiado pequeña para contener todo lo que había pasado desde que se lo llevaron.
-
-—¿Cuántos?
-
-—Dieciséis. Dejé de contar cuando dejaron de decirme la hora.
-
-No supo qué hacer con esa respuesta. Quiso acercarse y quiso exigirle que no se moviera. Las dos cosas tiraban de ella al mismo tiempo, ninguna lo bastante fuerte para ganar.
-
-—¿Y luego?
-
-—Se fueron las luces. Me pusieron una bolsa en la cabeza. Me movieron en un vehículo; no sé cuánto tiempo. Cuando me la quitaron, estaba en la Almendra. —Bajó los ojos a la sudadera que llevaba encima—. En un charco, para completar.
-
-—¿Quién?
+—¿Quién te trajo?
 
 —No sé.
 
-—¿No sabes quién te sacó de una prisión militar?
+—¿Quién te soltó?
+
+—Tampoco.
+
+—¿Dónde estuviste?
+
+—En mi celda.
+
+Chiara esperó algo más. Kal no lo ofreció.
+
+—¿Cuánto tiempo?
+
+—Dieciséis días. Creo.
+
+La mano de ella se cerró con más fuerza sobre la empuñadura.
+
+—¿Crees?
+
+—Dejaron de decirme la hora.
+
+Un zumbido bajo venía del refrigerador. Afuera, la calle seguía negra.
+
+—¿Y luego?
+
+—Se fue la luz. Me cubrieron la cabeza. Me subieron a un vehículo.
+
+—¿Viste algo?
 
 —No.
 
-—¿Y no preguntaste?
+—¿Oíste algo?
 
-—Pregunté.
+—Un motor. Después otro.
 
-—¿Qué te dijeron?
+—¿Cuánto duró?
 
-Kal dejó pasar un segundo.
+—No sé.
 
-—Nada que pudiera usar.
+—Kal.
 
-El brazo de Chiara empezó a temblarle. No de miedo; el cansancio le había alcanzado por fin los músculos. Bajó la pistola un poco, sin guardarla.
+—No sé, Chiara.
 
-—¿Te dejaron ahí como si nunca hubieras estado preso?
+La respuesta no fue brusca. Eso la irritó más. Él estaba allí, a unos metros, y cada pregunta encontraba una pared.
 
-—Más o menos.
+—¿Te dejaron en la Almendra?
 
-—¿Y caminaste hasta aquí?
+—En un charco.
 
-Él asintió.
+—¿Solo?
 
-Chiara miró la puerta de entrada, como si pudiera ver a través de ella la calle oscura, el agua en el suelo, a Kal solo a unos metros del loft. Volvió a mirarlo. Había imaginado ese regreso tantas veces que ninguna versión se parecía a esto.
+—Cuando me quitaron la bolsa, sí.
+
+—¿Te dijeron algo?
+
+—No.
+
+—¿Preguntaste?
+
+—Sí.
+
+—¿Y?
+
+—Nada que sirviera.
+
+Chiara bajó la pistola hasta dejarla apuntando al suelo. No la guardó.
+
+—¿Caminaste desde ahí?
+
+—La Almendra no queda lejos.
+
+—No es lo que te pregunté.
+
+Kal miró la sudadera húmeda.
+
+—Sí.
+
+A Chiara se le quedó en la garganta la imagen: él llegando a pie, todavía sin saber si lo seguían. La apartó antes de que pudiera convertirse en otra pregunta.
+
+—¿Estás herido?
+
+—No.
+
+—No te creo.
+
+—Entonces pregunta otra cosa.
+
+—¿Te duele algo?
+
+—La espalda. Un poco.
+
+—¿Te revisó alguien?
+
+—No.
+
+—Siéntate.
+
+—Estoy bien.
+
+—No te pregunté eso.
+
+Kal se sentó en el banco junto a la isla. Mantuvo las manos sobre las rodillas. Chiara dejó la Beretta sobre la encimera, a su alcance.
+
+—¿Comiste?
+
+—Hace unas horas.
+
+—¿Qué?
+
+—No sé. Algo con una etiqueta.
+
+—Eso no es comida.
+
+—Era comida suficiente para llegar hasta aquí.
+
+La boca de Chiara quiso hacer algo parecido a una sonrisa y se arrepintió a mitad del movimiento.
+
+—Sigues teniendo un talento extraordinario para contestar lo que no te pregunté.
+
+—Y tú sigues haciendo preguntas como si fueran órdenes.
+
+—Algunas lo son.
+
+—Me acuerdo.
+
+La lámpara titiló. Chiara la miró hasta que la luz se estabilizó.
 
 —Pensé que no ibas a volver.
 
-—Lo sé.
+Kal no contestó enseguida.
 
-—No. No lo sabes.
+—Yo también lo pensé.
 
-Kal no discutió. Ella dejó la Beretta sobre la isla, pero mantuvo la mano encima.
-
-—¿Qué pasó contigo? —preguntó—. De verdad.
-
-Él se sentó despacio en uno de los bancos. No se quitó la sudadera.
-
-—La primera semana pensé que iba a salir por los abogados. Después entendí que nadie iba a decirme cuándo. Comí cuando me daban comida. Dormí cuando pude. Navidad, Año Nuevo… —Se detuvo—. Mi cumpleaños también.
-
-Chiara apartó la mirada.
-
-—Lo siento.
-
-—No te lo estoy contando para que te disculpes.
-
-—¿Entonces para qué?
-
-—Porque me preguntaste. Y porque no quiero volver a hacer esto contigo.
-
-No dijo *esto* como si hablara de la celda. Chiara lo entendió y le molestó que tuviera razón.
-
-—Yo intenté sacarte.
+Ella apoyó las palmas en la isla. El frío de la piedra le subió por los dedos.
 
 —¿Qué hiciste?
 
-Ella le contó. Las llamadas, las puertas que no se abrían, los nombres que podían ayudar hasta que dejaban de poder. La policía. Lucía. Los abogados. Las veces que creyó haber encontrado una salida y descubrió que solo la había acercado a otra pared.
+—Esperé.
 
-Kal escuchó sin interrumpirla. Cuando llegó a la parte de Camp Alder, su mandíbula se endureció.
+—No en la celda. Después.
 
-—¿Te pusiste en riesgo por mí?
+—También esperé.
+
+—Kal.
+
+Él bajó la mirada. En el puño de la sudadera, el agua había oscurecido la tela hasta el codo.
+
+—Comí cuando me daban. Dormí cuando pude. Conté las grietas. Dejé de contar las grietas. —Se encogió apenas de hombros—. No hay mucho que contar.
+
+—Dieciséis días.
+
+—Sí.
+
+—Navidad. Año Nuevo.
+
+—Sí.
+
+—Tu cumpleaños.
+
+—También.
+
+Chiara se llevó una mano a la boca, pero la bajó antes de tocarse la cara. No quería que él confundiera el gesto con una disculpa.
+
+—Yo traté de sacarte.
+
+—¿Qué hiciste?
+
+La lista le subió de golpe: llamadas, nombres, puertas, la voz de Lucía al otro lado de una línea. Chiara eligió lo que podía decir sin volverlo un inventario.
+
+—Lo que pude.
+
+—Eso no dice mucho.
+
+—No tenía una puerta que abrir. Tenía gente que podía preguntar y gente que dejó de contestar.
+
+—¿Y Camp Alder?
+
+—Fui.
+
+Kal alzó los ojos.
+
+—¿Fuiste?
+
+—Sí.
+
+—¿Por mí?
+
+—No había otra razón.
+
+Él se frotó el pulgar contra una mancha seca en la rodilla.
+
+—Te pusiste en riesgo.
 
 —Sí.
 
 —Chiara.
 
-—No me hables como si no supiera lo que hice.
+—No empieces.
 
-—No te estoy diciendo eso.
-
-—¿Entonces qué me estás diciendo?
-
-—Que te pusiste en riesgo por mí.
+—No he empezado.
 
 —Lo haría otra vez.
 
-La respuesta cayó entre los dos sin temblar. Kal bajó la vista a sus manos.
+—Eso no me tranquiliza.
 
-—Eso es lo que me asusta.
+—No tenía que tranquilizarte.
 
-—No tienes derecho a asustarte por mí y convertirlo en una decisión mía.
+Kal miró hacia la Beretta. Ella siguió su mirada y apartó la mano de la empuñadura.
 
-—Ya sé.
+—¿Qué querías que hiciera? —preguntó.
 
-—¿Sí?
+—Que no te pasara nada.
 
-—Sí. —Alzó la mirada—. Y aun así me asusta.
+—Eso no responde.
 
-Chiara retiró la mano de la pistola. La dejó sobre la isla, entre ambos.
+—No sé qué responde.
 
-—En Palermo también decidiste por mí. Te llevé a esa casa y luego dejé que la Mesa creyera que no eras parte de mi familia. Pensé que así no podrían convertirte en una pieza suya.
+La rabia le subió por el cuello. Chiara se cruzó de brazos y los descruzó casi de inmediato.
 
-—Y no me lo explicaste.
-
-—No.
-
-—Me dejaste oírlo desde atrás de la sala.
+—Tú también te fuiste a Palermo sin decirme qué estaba pasando.
 
 —Sí.
 
-—Podías haberme dicho por qué.
-
-—Podía. No lo hice.
-
-Él sostuvo su mirada. No parecía pedirle que se retractara de lo que había hecho; le estaba pidiendo que no lo cubriera con razones.
-
-—Quise protegerte —dijo ella—. Y decidí por ti lo que eras, sin preguntarte. Las dos cosas son ciertas.
-
-—Eso pensé.
-
-—No quería que te reclamaran. No quería que te usaran para llegar a mí.
-
-—Lo entiendo.
-
-—Pero entenderlo no lo vuelve justo.
-
-—No.
-
-El silencio que siguió no arregló nada. Al menos no fingió hacerlo.
-
-—Cuando te pregunté por Matteo —dijo Kal—, me dijiste que nada.
-
-Chiara miró la mesa donde había dejado el cuadro. En la oscuridad anterior había llegado hasta ahí con el peso de todo lo que no había podido decir. Ahora él estaba sentado a unos pasos, y la frase seguía entre ellos.
+—Y volviste callado.
 
 —Sí.
 
-—No te pregunté para atraparte.
+—¿Eso sí era distinto?
+
+Kal respiró por la nariz. La lámpara le marcaba una línea cansada debajo de los ojos.
+
+—Pensé que podía arreglarlo antes de que te alcanzara.
+
+—¿Y te salió?
+
+—No.
+
+—A mí tampoco.
+
+No había equilibrio en eso. Ella había decidido qué podía saber él; él había decidido qué peligro podía compartir con ella. La cuenta no se cancelaba por sumar las dos cosas.
+
+—Cuando te pregunté por Matteo —dijo Kal—, respondiste «Nada».
+
+Chiara tomó la Beretta y la puso más lejos, junto a la lámpara. El metal golpeó la piedra con un sonido breve.
+
+—Sí.
+
+—¿Por qué?
+
+—Porque no quería que te metieras.
+
+—Ya estaba metido.
+
+—No lo sabía.
+
+—Podías haber preguntado.
+
+—Tú tampoco preguntaste por Palermo.
+
+Kal la miró. Ella había querido que la frase sonara como un golpe. Salió como una puerta cerrándose.
+
+—No —dijo él.
+
+—Y Bonnie.
+
+El nombre dejó la cocina más pequeña.
+
+—¿Qué pasa con Bonnie?
+
+—Le pedí que no te dijera nada.
+
+Kal dejó de frotarse el pulgar.
+
+—Eso sí lo sabía.
+
+—Claro.
+
+—No por ella.
+
+Chiara se quedó quieta. Había pensado que él habría unido las piezas, pero no así.
+
+—¿Cómo?
+
+—No importa.
+
+—A mí sí.
+
+—Ahora no.
+
+Ella apretó la mandíbula.
+
+—Le pedí que se callara porque no quería que cargaras con otra cosa.
+
+—Bonnie ya cargaba con ella.
 
 —Lo sé.
 
-—Me mentiste porque pensaste que podías manejarlo sola.
+—¿Y yo?
+
+Chiara abrió la boca. La respuesta que le salió primero tenía forma de explicación; la dejó morir.
+
+—No quería que fueras a buscar a Matteo.
+
+—Eso sí lo entiendo.
+
+—No era lo único.
+
+—¿Qué más?
+
+—No quería que me vieras hacer algo que no ibas a aceptar.
+
+—Ya lo había visto.
+
+—No todo.
+
+Kal apartó la mirada. El silencio no fue una invitación a seguir; fue el espacio que él necesitaba para no contestar demasiado rápido.
+
+—Me dijiste «Nada» —repitió—. Te pregunté mirándote.
 
 —Sí.
 
-—¿Y si yo hubiera podido ayudar?
+—Eso fue lo que no pude sacarme de la cabeza.
 
-—No lo sabía. Tenía miedo de lo que ibas a hacer con la información. Tenía miedo de meter tu nombre en otra cosa. Elegí por ti, otra vez.
+Chiara bajó los ojos al borde de la isla. Una astilla diminuta sobresalía junto a su mano. La raspó con la uña.
 
-Kal apoyó los antebrazos en la isla.
+—No tengo una respuesta mejor.
 
-—Y yo me fui a Palermo sin contarte por qué me había llamado Halbrook. Después volví y tampoco supe cómo explicarte lo que había pasado ahí. Me quedé callado y esperé que tú entendieras lo que yo no decía.
+—No te pedí una mejor.
 
-—No lo entendí.
+—No sabía qué hacer contigo.
 
-—No. —La voz se le suavizó—. Y no era tu trabajo adivinarlo.
+—Podías haberme dicho eso.
 
-Chiara bajó la cabeza. Durante semanas había imaginado qué le diría si lo volvía a tener enfrente. Ninguna de esas conversaciones había empezado con una pistola. Ninguna había llegado tan rápido al centro.
+—No. —La palabra se le escapó demasiado rápido—. No podía.
 
-—No puedo prometerte que nunca vuelva a tener miedo —dijo ella.
+Kal no la contradijo. Ella deseó que lo hiciera.
 
-—No te lo estoy pidiendo.
+—En Palermo tampoco pude —dijo al fin—. Cuando te dejé oír lo de la familia. Pensé que si explicaba la razón, iba a sonar igual de mal.
 
-—Y no quiero que vuelvas a decidir qué puedo soportar.
+—Sonó mal de todos modos.
 
-—No debería haberlo hecho.
+—Sí.
 
-Kal no añadió una excusa. Chiara lo miró, buscando el resto, el argumento que ella pudiera rebatir. No llegó.
+Él apoyó los codos en las rodillas. No la miraba como si esperara una confesión completa. Eso hizo más difícil no dársela.
 
-—No quiero perderte por intentar mantenerte a salvo —dijo él.
+—No quería que la Mesa tuviera algo con qué sujetarte —dijo Chiara—. Te vi ahí, escuchándome, y seguí hablando como si pudieran sacarte de la habitación con una frase.
 
-—Entonces no me mantengas afuera.
+Kal apretó la boca.
 
-—Lo voy a intentar.
+—No sabías dónde ponerme.
 
-—Yo también.
+—No.
 
-Ninguno se levantó. La pistola seguía en la isla, con el cañón hacia la pared.
+—Yo tampoco.
 
-Chiara notó que temblaba. Esta vez no intentó esconderlo. Miró la sudadera húmeda, las manos de Kal, la cara que había buscado en cada puerta cerrada. Tenía tantas cosas todavía atravesadas que no sabía cuál decir primero.
+La respuesta quedó entre ambos, simple y sin alivio.
+
+Chiara miró la pared oscura, más allá de él. En Palermo había podido sostener la voz y la espalda rectas. Esa noche solo recordaba el modo en que Kal se quedó al otro lado de la sala.
+
+—Llegaste a mi puerta —dijo.
+
+Él volvió la cabeza.
+
+—¿Qué?
+
+—La noche antes de Camp Alder. Subiste al penthouse.
+
+Kal se enderezó un poco.
+
+—¿Cómo sabes eso?
+
+Chiara tocó con un dedo el borde de la lámpara. La luz le calentó la yema.
+
+—Vi la grabación.
+
+—¿La de seguridad?
+
+—Sí.
+
+—¿Cuándo?
+
+—Después.
+
+—¿La guardaste?
+
+—No. Pedí que la borraran.
+
+Kal observó su mano junto a la lámpara.
+
+—¿Por qué no abriste?
+
+—No sabía que estabas ahí.
+
+—No hablo de ti.
+
+—No sé por qué no tocaste.
+
+Él se quedó callado. Chiara notó que había entendido la trampa: ella le había pedido una respuesta que él todavía no tenía, y quizá nunca tendría completa.
+
+—Subí —dijo Kal—. Llegué hasta la puerta.
+
+—Lo vi.
+
+—Pensé en tocar.
+
+—¿Y?
+
+—No lo hice.
+
+—Eso también lo vi.
+
+Su voz se había endurecido. La aflojó con esfuerzo.
+
+—¿Qué esperabas que pasara si te abría?
+
+—No sé.
+
+—¿Que te pidiera entrar?
+
+—No sé, Chiara.
+
+—Podrías haberlo averiguado.
+
+—Podría.
+
+El brazo de Chiara se plegó sobre el vientre. Él no había ido a buscarla. También había subido hasta su puerta. Las dos cosas eran verdad; ninguna servía para borrar la otra.
+
+—Yo habría abierto —dijo.
+
+Kal la miró como si esa posibilidad le hubiera llegado tarde.
+
+—No lo sabía.
+
+—No.
+
+—Pensé que si te veía, no iba a poder irme.
+
+Chiara apartó la mano de la lámpara.
+
+—Y te fuiste de todos modos.
+
+—Sí.
+
+El sonido de un automóvil cruzó la calle. Por un momento, los faros pasaron como una raya pálida bajo la puerta y se fueron.
+
+—No me voy a disculpar por haber intentado sacarte —dijo ella.
+
+—No te lo pedí.
+
+—Ni por haber ido a Camp Alder.
+
+—Tampoco.
+
+—Pero no vuelvas a hacerme eso.
+
+—¿Qué cosa?
+
+—Decidir que no debo saber. Luego regresar esperando que yo entienda por qué me dejaste afuera.
+
+Kal se quedó mirando el suelo.
+
+—No sé si voy a saber hacerlo bien.
+
+—Yo tampoco.
+
+—Bien.
+
+—¿Bien?
+
+—Al menos no dijiste que sí y luego hiciste lo contrario.
+
+Chiara soltó aire por la nariz. No llegó a risa, pero algo suyo reconoció el tono.
+
+—No te acostumbres.
+
+—No pensaba hacerlo.
+
+Ella se sentó en el banco frente a él. La distancia entre sus rodillas seguía siendo de toda la isla.
+
+—¿Qué hiciste tú? —preguntó Kal.
+
+—¿Cuándo?
+
+—Estos días.
+
+—Trabajé.
+
+—Eso ya lo sé.
+
+—Dormí.
+
+—¿Dónde?
+
+—En el penthouse.
+
+Kal hizo un gesto pequeño con la cabeza.
+
+—¿Y dormiste?
+
+—No mucho.
+
+—¿Qué hacías?
+
+—Dejaba el teléfono cargando junto a la cama aunque nadie llamara. Me levantaba a revisar la puerta. Luego me decía que era ridículo y volvía a acostarme.
+
+—¿Te servía?
+
+—No.
+
+Kal no sonrió.
+
+—¿Y el loft?
+
+—No entré.
+
+—¿Por qué?
+
+Chiara miró el banco vacío a su lado. Se le ocurrió decir que no había tenido tiempo. La mentira era útil, estaba lista, y aun así no pudo usarla.
+
+—Porque aquí seguía estando tu taza.
+
+—¿La azul?
+
+—La desportillada.
+
+—Esa no era mía.
+
+—La usabas todas las mañanas.
+
+—Tú dijiste que no te gustaba.
+
+—No me gusta.
+
+—Entonces no entiendo.
+
+—No tenía que gustarme.
+
+Kal bajó los ojos. Chiara vio cómo sus dedos se cerraban y se abrían sobre la rodilla.
+
+—Pensé que iba a tener que acostumbrarme a que no volvieras —dijo ella.
+
+La frase le salió sin preparación. Después de decirla, quiso recogerla.
+
+Kal no intentó acercarse.
+
+—¿Y pudiste?
+
+—No.
+
+—¿Lo intentaste?
+
+—Sí.
+
+—¿Cómo?
+
+—No sé. Hice lo que había que hacer. Contesté llamadas. Fui a reuniones. Volví a dormir sola.
+
+—Eso no es acostumbrarse.
+
+—Era lo que tenía.
+
+Él asintió una vez. No dijo que lo sentía. Chiara agradeció que no lo hiciera.
+
+La lámpara proyectaba una sombra doble de sus manos sobre la pared. Kal se puso de pie para acomodar la manga mojada. No se alejó de ella; giró hacia la mesa y dejó la tela escurrir sobre el suelo.
+
+Chiara tuvo que apartarse para que el agua no le mojara los zapatos.
+
+—Qué considerado —dijo.
+
+—Estoy intentando no dejar un charco en tu casa.
+
+—Nuestra casa.
+
+Kal la miró. El chiste se le apagó antes de llegarle a los ojos.
+
+Chiara se levantó también. La Beretta estaba junto a la lámpara. La dejó ahí.
 
 —Kal…
 
-La voz se le quebró apenas en el nombre.
+La voz casi se le rompió en el nombre.
 
-Él entendió. Rodeó la isla sin prisa y se detuvo antes de tocarla. Chiara dio el último paso.
+Él entendió. Se volvió hacia ella sin apurarse y acortó la distancia.
 
-Kal la abrazó. Ella metió la cara contra su pecho y se aferró a la tela húmeda de la sudadera. El cuerpo le tembló una vez, luego otra. Las lágrimas no hicieron ruido. Kal no le pidió que respirara ni le dijo que ya había pasado. La sostuvo con una mano entre los omóplatos y la otra detrás de la cabeza, como si por fin pudiera dejar de calcular qué debía hacer.
+El abrazo empezó despacio, con una pausa en la que cualquiera de los dos todavía podía detenerse. Chiara cerró los brazos alrededor de él. Entonces Kal hundió la cabeza en su hombro y ella se aferró a la sudadera mojada.
 
-Chiara alargó la mano hacia el apagador. La luz de la cocina se extinguió; quedó encendida sólo la lámpara de la sala. No supo cuánto tiempo permanecieron así. Cuando el llanto cedió, no se apartó. Él tampoco.
+El cuerpo de Chiara cedió en partes: primero los hombros, luego la mandíbula, luego el aire que llevaba horas sosteniendo. Las lágrimas le bajaron sin ruido. Kal también lloró; ella sintió el temblor breve contra su cuello antes de que él respirara hondo.
 
-—Te extrañé —dijo ella, contra su pecho.
+Ninguno le pidió nada al otro. Él la sostuvo. Ella lo sostuvo de vuelta.
 
-—Yo también.
+La sudadera estaba fría. Debajo, Kal estaba caliente.
 
-—No el loft.
+—Estás empapado —murmuró Chiara cuando pudo hablar.
 
-—Yo sí. Pero no por el loft.
+—Tú tienes una pistola en la cocina.
 
-Chiara cerró los ojos. Había dormido bajo otro techo, en otra cama, entre paredes que conocía. Aun así, llevaba días sin encontrar la posición en la que el cuerpo dejaba de vigilar la puerta.
+—La dejé lejos.
 
-—Extrañé dormir contigo —dijo.
+—La vi.
 
-Kal le pasó el pulgar por el pelo, una vez.
+—No era para ti.
 
-—Yo extrañé llegar a casa.
+—Ya sé.
 
-No hubo una respuesta que alcanzara. Chiara le tomó la mano y lo llevó al cuarto.
+Ella apoyó la frente en su hombro.
 
-Se acostaron sin encender más luces. Ella se acomodó de lado, cerca de él, y deslizó la mano bajo su playera, subiéndola despacio por sus abdominales hasta dejarla sobre su pecho. Kal la rodeó por los hombros. Ninguno buscó una postura nueva: los cuerpos fueron encontrando la que recordaban, el espacio justo entre respirar y no soltarse.
+—No te pongas sentimental.
 
-La mano de Chiara descansó bajo la tela. Sintió el pulso de Kal bajo la palma. Él apretó el brazo alrededor de ella, apenas.
+—No iba a hacerlo.
 
-La casa permaneció en silencio.
+—Bien.
 
-Esta vez, cuando Chiara cerró los ojos, no estaba esperando que alguien regresara.
+—Señora Bellandi.
+
+Chiara soltó una risa pequeña, cansada y húmeda.
+
+—Cállate, Mercer.
+
+Se quedaron un poco más, hasta que el frío de la ropa empezó a atravesarle la blusa. Kal aflojó el abrazo, pero no la soltó del todo. Ella le agarró la mano y lo llevó al cuarto.
+
+No encendieron la luz. En la cama, ambos dudaron un instante ante el espacio conocido, como si los días ausentes hubieran cambiado la medida. Kal se acostó primero. Chiara se acomodó de lado, de espaldas a él, y esperó.
+
+El brazo de Kal le rodeó los hombros.
+
+Su mano encontró el borde de la playera y se deslizó debajo. Subió por el abdomen, despacio, hasta el pecho. Allí se quedó, bajo la tela, con la palma abierta sobre el latido.
+
+Kal le recogió el cabello hacia atrás. Inhaló cerca de su sien y guardó el olor a jabón y humo que reconocía como suyo.
+
+Chiara dejó que el peso de su brazo la anclara. Poco a poco, la respiración de ambos dejó de ir a destiempo.
+
+La alcoba permaneció oscura. Afuera, San Aurelio fue encendiendo sus luces por partes: una esquina, una ventana, una fila de casas. La mano de Chiara seguía sobre el pecho de Kal cuando se quedó dormida.
