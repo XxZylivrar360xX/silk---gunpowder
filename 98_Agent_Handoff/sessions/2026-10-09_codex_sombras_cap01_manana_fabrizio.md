@@ -2,7 +2,7 @@
 
 ## Cambio
 
-Continué el mismo borrador `11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Lagrimas_De_Silencio_Y_Calidez.md`, sin abrir otro capítulo y sin rehacer la noche. Por instrucción nueva del autor, el archivo ahora se presenta como Capítulo 1. Sigue en estado BORRADOR.
+Continué el mismo borrador `11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Hogar.md`, sin abrir otro capítulo y sin rehacer la noche. Por instrucción nueva del autor, el archivo ahora se presenta como Capítulo 1. Sigue en estado BORRADOR.
 
 La mañana incluye dos despertares, la playera de Kal sembrada antes de dormir, humor somnoliento, desayuno y una conversación cálida sobre los días separados. Después presenta Cross River, North Guard Securitia, la intención de Chiara de entrar en El Faro y un primer intercambio de capital/contratos sin fijar cifras. Kal hace la propuesta de tinta o beso; la respuesta de Chiara conserva el wording del encargo. La llamada de Lucía se oye sólo por las respuestas y el último renglón queda en **«Fabrizio está muerto.»** No hay reacción posterior.
 
@@ -56,7 +56,7 @@ La mañana incluye dos despertares, la playera de Kal sembrada antes de dormir, 
 
 ## Archivos
 
-- Modificado: `11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Lagrimas_De_Silencio_Y_Calidez.md`
+- Modificado: `11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Hogar.md`
 - Añadido por el autor: `98_Agent_Handoff/ChatGPT/2026-10-09_encargo_codex_sombras_cap01_manana_fabrizio.md`
 - Añadido: esta nota de sesión.
 - Actualizado: `log.md`.

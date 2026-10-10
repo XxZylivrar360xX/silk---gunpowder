@@ -6,7 +6,7 @@
 
 Archivo autorizado:
 
-`11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Lagrimas_De_Silencio_Y_Calidez.md`
+`11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Hogar.md`
 
 No tocar otros capítulos, fichas, timeline ni archivos de canon en este pase.
 

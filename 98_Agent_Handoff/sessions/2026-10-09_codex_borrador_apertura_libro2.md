@@ -4,7 +4,7 @@
 Redactar por encargo del autor el Capítulo 1 de *Sombras de Poder* en la Parte I — Nieve y Ceniza.
 
 ## Resultado
-- Nuevo [[11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Lagrimas_De_Silencio_Y_Calidez]], estado BORRADOR, POV de Chiara.
+- Nuevo [[11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Hogar]], estado BORRADOR, POV de Chiara.
 - [[INDEX]] actualizado con el enlace.
 - [[log]] actualizado con esta nota.
 

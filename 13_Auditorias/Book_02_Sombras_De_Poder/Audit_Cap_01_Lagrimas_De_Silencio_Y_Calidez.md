@@ -3,7 +3,7 @@
 **Fecha:** 2026-10-09
 **Modo:** AUDIT — no se modifica prosa.
 **Estado del capítulo:** BORRADOR.
-**Ámbito:** [Capítulo 1](../../11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Lagrimas_De_Silencio_Y_Calidez.md), completo.
+**Ámbito:** [Capítulo 1](../../11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Hogar.md), completo.
 **Políticas:** `EDITORIAL_POLICY`, `DO_NOT_TOUCH`, `MICROEDICION`, ciclo de capítulo, reglas aplicables de diálogo y staging, fichas de voz de Chiara, Kal, Lucía y Fabrizio.
 
 ## I. Veredicto ejecutivo
@@ -137,7 +137,7 @@ La SURGERY debe esperar las dos respuestas autorales de la sección IX. El hilo 
 
 ## Fuentes consultadas
 
-- [Capítulo auditado](../../11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Lagrimas_De_Silencio_Y_Calidez.md)
+- [Capítulo auditado](../../11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Hogar.md)
 - [C50 — A oscuras](../../11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/50_A_Oscuras.md)
 - [Mapa del Libro II](../../11_Books/Book_02_Sombras_De_Poder/00_Book_Map.md)
 - [Timeline del Libro II](../../01_Timeline/03_Libro_02_Sombras_De_Poder.md)

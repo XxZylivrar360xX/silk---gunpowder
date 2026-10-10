@@ -166,9 +166,9 @@ La gerente de piso de la carpeta le salió al paso cerca de la ruleta. Traía un
 
 La gerente se fue hacia la sala con la linterna apuntando al piso.
 
-La puerta de la escalera de servicio de la Torre Norte tenía encima un letrero de salida encendido con batería, verde, y la escalera tenía uno en cada descanso. Chiara se quitó los zapatos en el primero. Los subió en la mano.
+La puerta de la escalera de servicio de la Torre Norte tenía encima un letrero de salida encendido con batería, verde, y la escalera tenía uno en cada descanso. Chiara se quitó las botas en el primero. Las subió en la mano.
 
-No contó los pisos. A partir de cierto punto los descansos eran todos el mismo: el letrero verde, el número pintado en la pared de concreto, el barandal frío, el siguiente tramo. Se detuvo dos veces con la mano en el barandal. La segunda vez se sentó en un escalón, con los zapatos en el regazo, y se quedó ahí lo que tardó en volver a respirar por la nariz. Arriba y abajo de ella la escalera seguía, verde y gris, en los dos sentidos.
+No contó los pisos. A partir de cierto punto los descansos eran todos el mismo: el letrero verde, el número pintado en la pared de concreto, el barandal frío, el siguiente tramo. Se detuvo dos veces con la mano en el barandal. La segunda vez se sentó en un escalón, con las botas en el regazo, y se quedó ahí lo que tardó en volver a respirar por la nariz. Arriba y abajo de ella la escalera seguía, verde y gris, en los dos sentidos.
 
 ---
 
@@ -176,7 +176,7 @@ El penthouse estaba a oscuras y la ciudad, por las ventanas, también.
 
 No toda. Desde ahí arriba se veía dónde se había cortado: el sur entero en negro, el Paseo, Corona, los techos del Puerto Viejo, La Almendra en algún lugar de ese negro sin una sola luz que la marcara. Hacia el norte, lejos, la línea de las Lomas seguía encendida, y más allá de las Lomas empezaba la carretera del norte, que desde ese piso nunca se había visto, ni de día.
 
-Chiara dejó los zapatos junto a la puerta. Encendió la linterna del teléfono.
+Chiara dejó las botas junto a la puerta. Encendió la linterna del teléfono.
 
 El cuadro estaba en la mesa, donde siempre, al lado del lugar donde ella dejaba la taza.
 
@@ -250,13 +250,13 @@ El penthouse olía a cerrado. A la alfombra, al frío de una calefacción que na
 
 Chiara abrió el cajón de los cubiertos. El moño rojo estaba donde lo había dejado, doblado una vez, entre las cucharas. Lo miró. Cerró el cajón con el moño adentro.
 
-Tomó el cuadro. El cigarro se quedó en la mesa. Tomó el teléfono, apagó la linterna, la volvió a encender. Tomó los zapatos de junto a la puerta y no se los puso.
+Tomó el cuadro. El cigarro se quedó en la mesa. Tomó el teléfono, apagó la linterna, la volvió a encender. Tomó las botas de junto a la puerta y no se las puso.
 
 No cerró con llave. Ya en el pasillo, con el letrero verde encima de la escalera, se dio cuenta de que tampoco había pensado en cerrarla.
 
 ---
 
-Bajar fue más rápido. En el descanso del primer piso se puso los zapatos, con el cuadro bajo el brazo, apoyada en el barandal.
+Bajar fue más rápido. En el descanso del primer piso se puso las botas, con el cuadro bajo el brazo, apoyada en el barandal.
 
 El lobby seguía amarillo. Había huéspedes sentados en los sillones con las maletas a los pies, y uno de los de seguridad repartía botellas de agua de una caja, y la gerente de piso, al fondo, hablaba con dos bomberos con la linterna hacia el suelo. Nadie le preguntó a Chiara nada. Alguien la vio pasar con un cuadro bajo el brazo y siguió hablando.
 

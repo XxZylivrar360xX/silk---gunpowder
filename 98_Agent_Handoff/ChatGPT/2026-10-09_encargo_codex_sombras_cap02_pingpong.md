@@ -4,7 +4,7 @@
 
 Primera cirugía sobre el borrador de apertura emocional de *Sombras de Poder* actualmente en:
 
-- `11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Lagrimas_De_Silencio_Y_Calidez.md`
+- `11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Hogar.md`
 
 Este archivo funcionará narrativamente como **futuro Capítulo 2**: el Capítulo 1 será Kal en Camp Alder y la fuga orquestada por Halbrook. **No renombrar ni mover el archivo en este pase.**
 

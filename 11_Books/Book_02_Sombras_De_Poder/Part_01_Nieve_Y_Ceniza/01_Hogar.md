@@ -1,5 +1,6 @@
 <!--
-Estado: BORRADOR — Capítulo 1 de *Sombras de Poder*, Parte I — Nieve y Ceniza. Título provisional.
+Estado: BORRADOR — Capítulo 1 de *Sombras de Poder*, Parte I — Nieve y Ceniza. Título: «Hogar» (CANON DEL AUTOR, 2026-10-10; antes, provisional «Lágrimas de silencio y calidez»).
+CANON DEL AUTOR (2026-10-10): sin presagio del embarazo; el gesto del vientre se cambió por el aro de la oreja (Chiara juega con sus joyas). En el Cap. 50, Chiara lleva botas, no zapatos.
 POV: Kal Mercer en la primera sección (espejo del cierre del Cap. 50 de *Máscaras de Cristal*, que fue de Chiara), hasta «Ciao, bella». Desde «¿Cómo diablos estás aquí?» hasta el cierre, Chiara Bellandi, tercera persona cercana.
 Continuidad: madrugada del miércoles 5 de enero del año 3 y la mañana siguiente. La primera sección cubre, desde Kal, lo mismo que las últimas líneas del Cap. 50: la linterna que se apaga antes de entrar, la llave que gira a la izquierda, el marco en la mesa de las llaves, la albahaca, «¿Quién está ahí?», la luz que vuelve, la ropa limpia con pliegues en cuadro y «Ciao, bella». El Cap. 50 no se tocó.
 CANON DEL AUTOR (2026-10-09): el loft está a oscuras y la única luz inicial es una lámpara de camping. Chiara apunta por reflejo a una sombra junto a la isla, sin saber aún que es Kal. Ella pregunta «¿Cómo diablos estás aquí?» y él responde «Bueno, señora Bellandi, resulta ser que esta es mi casa». Kal estuvo en su celda, le cubrieron la cabeza, lo movieron y lo dejaron en la Almendra; no sabe quién lo liberó ni qué ocurrió.
@@ -18,7 +19,7 @@ DISEÑO del agente (pase completo, 2026-10-09, Claude Opus 5.5), pendiente de le
 - La atribución del café en dos lugares y del pan de máquina queda en Chiara; el pan del bolsillo, en Kal.
 -->
 
-# Capítulo 1 — Lágrimas de silencio y calidez
+# Capítulo 1 — Hogar
 
 La llave giró un poco a la izquierda antes de entrar del todo.
 
@@ -492,7 +493,7 @@ Se le había endurecido la voz. La aflojó con esfuerzo.
 
 —Podría.
 
-El brazo de Chiara se plegó sobre el vientre. Él no había ido a buscarla. También había subido hasta su puerta.
+Chiara giró entre dos dedos el aro pequeño de la oreja. Él no había ido a buscarla. También había subido hasta su puerta.
 
 —Yo habría abierto —dijo.
 

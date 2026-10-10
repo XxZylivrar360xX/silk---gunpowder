@@ -4,7 +4,7 @@
 
 Trabajar directamente sobre:
 
-`11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Lagrimas_De_Silencio_Y_Calidez.md`
+`11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Hogar.md`
 
 Este archivo es **Capítulo 1 de Sombras de Poder**.
 

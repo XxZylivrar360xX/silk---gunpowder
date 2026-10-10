@@ -2,7 +2,7 @@
 
 ## Cambio
 
-Revisé el encargo `98_Agent_Handoff/ChatGPT/2026-10-09_encargo_codex_sombras_cap02_pingpong.md` y apliqué una primera cirugía al borrador `11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Lagrimas_De_Silencio_Y_Calidez.md`. Se conservó la ruta y se actualizó el encabezado a futuro Capítulo 2, como pide el encargo. Sigue en estado BORRADOR. No se tocaron otros capítulos ni se intentó el segundo pase.
+Revisé el encargo `98_Agent_Handoff/ChatGPT/2026-10-09_encargo_codex_sombras_cap02_pingpong.md` y apliqué una primera cirugía al borrador `11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Hogar.md`. Se conservó la ruta y se actualizó el encabezado a futuro Capítulo 2, como pide el encargo. Sigue en estado BORRADOR. No se tocaron otros capítulos ni se intentó el segundo pase.
 
 ## Craft Policies usadas
 
@@ -57,6 +57,6 @@ Revisé el encargo `98_Agent_Handoff/ChatGPT/2026-10-09_encargo_codex_sombras_ca
 
 ## Archivos
 
-- Modificado: `11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Lagrimas_De_Silencio_Y_Calidez.md`
+- Modificado: `11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Hogar.md`
 - Añadido: esta nota de sesión.
 - Actualizado: `log.md`.
