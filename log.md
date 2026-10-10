@@ -4,6 +4,8 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-09: **microcirugía del arco personal de Kal** (por autorización del autor): retiradas las dos referencias al recibo de flores del Cap. 1 y la promesa de visita a Michael del Cap. 21. Protegida la progresión 1/3/6/14/20/21/25/31; la poda opcional del 31 queda intacta. [[98_Agent_Handoff/sessions/2026-10-09_codex_para_claude_microcirugia_arco_personal_kal]]
+
 - 2026-10-08: **consolidación S0 de la cirugía de terceros (S2–S5)**. Fichas de voz y de personaje al día con la prosa del 2026-10-04; primer encuentro Lucía–Chiara (15) asentado en su ficha; Q24 pasa al Libro II. CANON: Rowe es la madre de Sam (favor a Marisol en el Libro II), North Guard Securitia, "Quiero levantarlo" se cobra en el Libro II; cementerio reestructurado: sale del 1; Ruth y Dale en el 3; Michael en el 31, con Chiara (prosa DISEÑO). [[98_Agent_Handoff/sessions/2026-10-08_claude_consolidacion_S0_terceros]]
 - 2026-10-08: **otoño, cumpleaños de Kal, lluvia del 18 y el lago** (CANON DEL AUTOR; prosa en DISEÑO). Hojas secas de sicomoro en 28, 29 y 31; Navidad A1 y cumpleaños callado en el 10, que sale a la luz en la pesca del 31; la lluvia torrencial del 18 empieza en el penthouse; el lago queda más allá de Las Gemelas (nueva ficha [[05_Locations/El_Lago]]). El 37 pasa a ser Thanksgiving A2 (escena en La Esquina); Héctor, Danny y Harper son estadounidenses. [[98_Agent_Handoff/sessions/2026-10-08_claude_otono_cumpleanos_lluvia_lago]]
 

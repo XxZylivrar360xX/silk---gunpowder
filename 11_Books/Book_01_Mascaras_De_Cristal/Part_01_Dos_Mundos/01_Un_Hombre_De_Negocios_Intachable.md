@@ -599,7 +599,7 @@ Kal levantó las manos, medio rendido.
 
 —Lo de siempre para mí. Y agrega para los chicos, seis raciones. Lo que tengas con mejor pinta hoy.
 
-Kal dejó el recibo de las flores sobre la mesa junto a la ventana, la que no cojeaba si uno ponía el pie derecho sobre la base. Mabel ya estaba metiendo arroz, frijoles, carne guisada y tortillas en recipientes de unicel con una eficiencia que parecía enojo y casi siempre era cariño.
+La mesa junto a la ventana no cojeaba si uno ponía el pie derecho sobre la base. Mabel ya estaba metiendo arroz, frijoles, carne guisada y tortillas en recipientes de unicel con una eficiencia que parecía enojo y casi siempre era cariño.
 
 Había cuatro personas más en el local: dos trabajadores de la lavandería, una mujer con uniforme de farmacia comiendo sopa sin levantar la vista, Rafa Luna con casco nuevo sobre las rodillas y un hombre que no pertenecía ahí.
 
@@ -697,7 +697,7 @@ Kal la miró. Luego tomó el tenedor de plástico y comió. Matteo lo vio obedec
 
 —Que venga. Le presento a los socios. Nada formal: una copa, una conversación. Si no hay trato, por lo menos conoce el edificio antes de que media ciudad finja que siempre fue suyo.
 
-Kal miró las bolsas de comida. Después el recibo de las flores. Después el coche de Matteo, demasiado limpio afuera.
+Kal miró las bolsas de comida. Después el coche de Matteo, demasiado limpio afuera.
 
 Networking, habría dicho un hombre de negocios intachable.
 

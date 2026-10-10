@@ -216,7 +216,7 @@ Marisol se despidió en la puerta como hacía todo: rápido, sin dramatizar, com
 
 Marisol sonrió, la primera sonrisa completa de la mañana.
 
-—Dile que paso a visitarlo después —dijo Kal—. Y devuélveme el Audi. Lo quiero de vuelta. No es un premio porque estabas triste.
+—Y devuélveme el Audi. Lo quiero de vuelta. No es un premio porque estabas triste.
 
 Marisol no contestó nada de eso. Le mostró los dientes, la sonrisa torcida que usaba cuando sabía que no iba a obedecer del todo, e inclinó la cabeza antes de subirse y salir de reversa por el camino de entrada.
 
