@@ -1,11 +1,11 @@
 ---
 tags:
   - material-narrativo
-  - book-03-cuentas-de-sangre
+  - book-04-cuentas-de-sangre
   - epilogo
 estado: APROBADO_POR_AUTOR
 integracion: LISTO_PARA_INTEGRACION
-libro: "Book 03 — Cuentas de Sangre"
+libro: "Book 04 — Cuentas de Sangre"
 fuente_canon: "[[07_Ideas/Tres_Hermanas_Epilogo]]"
 referencia_visual: "[[99_Reference/chapter_concepts/Epilogo_Tres_Hermanas.png]]"
 ---

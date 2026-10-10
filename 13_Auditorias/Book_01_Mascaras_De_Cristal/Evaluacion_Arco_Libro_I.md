@@ -1,8 +1,10 @@
 # Evaluación de arco — *Seda y Pólvora* como novela autosuficiente
 
+> **Evaluación histórica:** este dictamen se redactó el 2026-09-26 sobre una arquitectura de 44 capítulos. El manuscrito vigente termina en 50b; las conclusiones deben leerse como diagnóstico de aquella versión, no como evaluación del cierre actual.
+
 > **Estado:** DISEÑO del agente (Claude Code, Opus 5.5, 2026-09-26), a petición del autor. Nada de esto es canon ni está aplicado a la prosa. Complementa los dictámenes de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_01|Parte I]], [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_02|Parte II]] y [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_03|Parte III]]: aquellos evalúan cada parte por dentro; éste evalúa **si las Partes I y II construyen el final que hoy tiene el libro (Cap. 44)**.
 >
-> Fuentes: [[00_Biblia/00_Trilogy_Structure]] (Libro I), [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]], [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/44_A_Oscuras]], búsqueda de motivos en la prosa de los 44 capítulos.
+> Fuentes: [[00_Biblia/00_Trilogy_Structure]] (Libro I), [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]], [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/50_A_Oscuras|antiguo Cap. 44, ahora 50]], búsqueda de motivos en la prosa de los 44 capítulos de la versión evaluada.
 
 ---
 

@@ -2,7 +2,23 @@
 
 Carpeta de montaje de libro y salida editorial para *Seda y Polvora*.
 
-Cada libro debe tener su propia carpeta, un `00_Book_Map.md` y carpetas de partes en orden de lectura. La prosa final vive en esas partes, no en la biblia del vault.
+Cada libro tiene su propia carpeta y un `00_Book_Map.md`. Las carpetas de partes siguen el orden de lectura y se crean conforme se aprueba el desglose de cada libro. La prosa final vive en esas partes, no en la biblia del vault.
+
+## Consulta por tarea
+
+Usa esta carpeta como punto de entrada al montaje del libro. El `00_Book_Map.md` orienta y enlaza; la fuente de detalle sigue siendo el documento especializado o la prosa vigente. No hace falta leer el mapa completo si la tarea ya señala un capítulo o una pregunta concreta.
+
+| Necesitas | Empieza por | Abre después |
+|---|---|---|
+| Retomar el trabajo activo | [[98_Agent_Handoff/CURRENT_BRIEF]] y [[98_Agent_Handoff/PENDING]] | El mapa del libro y el frente mencionado |
+| Entender el arco o ubicar una parte | `Book_XX/00_Book_Map.md` | Timeline del libro; luego la sección o capítulo pertinente |
+| Trabajar una escena o capítulo | Mapa del libro, sección del capítulo | Archivo del capítulo y solo las fichas de personajes, lugares o hitos que afecten esa escena |
+| Comprobar fechas u orden de acontecimientos | Timeline del libro en `01_Timeline/` | Matriz temporal o capítulo pertinente, si existe |
+| Revisar una relación o un hito | Mapa del libro para ubicar su uso | Fuente central en `06_Relationships/` y capítulos involucrados |
+| Hacer auditoría o aplicar una regla de oficio | Auditoría pertinente en `13_Auditorias/` | Política correspondiente en `12_Craft_Policies/` y prosa señalada |
+| Comprobar fronteras entre libros | `00_Biblia/00_Trilogy_Structure.md` | Mapas y timelines de los libros afectados |
+
+Si dos documentos discrepan, respeta la jerarquía de fuentes del vault y la decisión explícita más reciente del autor; una síntesis de libro no reemplaza canon ni prosa. Al cerrar una tarea, registra conocimiento nuevo solo si le ahorra a la siguiente persona una búsqueda concreta, y enlázalo desde el índice adecuado en vez de duplicar la fuente.
 
 ## Libros del arco principal
 

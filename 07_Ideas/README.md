@@ -2,7 +2,7 @@
 
 ## Escenas guia
 
-[[07_Ideas/Escenas_Guia]] conserva momentos que el autor ya puede ver con claridad: acciones, imágenes, diálogo indispensable y función emocional. Sirven como brújula para la prosa futura, **no** como boceto rígido ni capítulo adelantado.
+[[07_Ideas/Escenas_Guia/README]] conserva momentos que el autor ya puede ver con claridad: acciones, imágenes, diálogo indispensable y función emocional. Sirven como brújula para la prosa futura, **no** como boceto rígido ni capítulo adelantado.
 
 - Si el autor entrega un hecho, gesto o línea concreta, se registra como **CANON DEL AUTOR**.
 - La redacción, POV, ritmo, transiciones y capítulo exacto quedan abiertos, salvo que el autor también los fije.

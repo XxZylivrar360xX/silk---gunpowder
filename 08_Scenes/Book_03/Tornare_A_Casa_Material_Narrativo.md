@@ -1,15 +1,15 @@
 ---
 tags:
   - material-narrativo
-  - book-03-cuentas-de-sangre
+  - book-04-cuentas-de-sangre
 estado: BORRADOR_DE_ESCENA
-libro: "Book 03 — Cuentas de Sangre"
+libro: "Book 04 — Cuentas de Sangre"
 fuente_canon: "[[07_Ideas/Escenas_Guia/El_Regreso_De_Elenna]]"
 ---
 
 # Tornare a casa — material narrativo
 
-> **MATERIAL NARRATIVO — no canónico hasta aprobación del autor.** Borrador solicitado expresamente para [[11_Books/Book_04_Cuentas_De_Sangre|Book 03 — Cuentas de Sangre]]. Conserva el canon de la escena guía: Elenna tiene poco más de un año en este reencuentro. No fija la localización precisa de la casa, la duración de la separación ni la logística de la salida de San Aurelio.
+> **MATERIAL NARRATIVO — no canónico hasta aprobación del autor.** Borrador solicitado expresamente para [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map|Libro IV — Cuentas de Sangre]]. Conserva el canon de la escena guía: Elenna tiene poco más de un año en este reencuentro. No fija la localización precisa de la casa, la duración de la separación ni la logística de la salida de San Aurelio.
 
 La casa estaba al final de un camino demasiado angosto para el coche, entre muros bajos de piedra y limoneros que habían dejado fruta caída sobre la tierra. Kal apagó el motor y no bajó.
 

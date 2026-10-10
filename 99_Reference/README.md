@@ -1,6 +1,6 @@
 # Referencia externa
 
-Material de inspiración que **no es canon de esta novela**. Se conserva intacto, tal como llegó. Nada de aquí se cita, se copia ni se da por establecido en `00_Biblia/`, `02_Characters/` o `10_Chapters/`.
+Material de inspiración que **no es canon de esta novela**. Se conserva intacto, tal como llegó. Nada de aquí se cita, se copia ni se da por establecido en `00_Biblia/`, `02_Characters/` o `11_Books/`.
 
 > **Excepción autorizada por el autor (2026-09-13):** [[99_Reference/chapter_concepts/Epilogo_Tres_Hermanas.png]] fija únicamente los rasgos físicos adultos ya transcritos como **CANON DEL AUTOR** en [[02_Characters/Bonnie_Garcia]], [[02_Characters/Marisol_Grayson]] y [[02_Characters/Elenna_Mercer]]. La imagen sigue siendo referencia; no canoniza biografía, edades, vestuario fuera del epílogo, ciudad ni hechos que no estén escritos de forma expresa en esas fichas.
 
@@ -19,6 +19,10 @@ Idealizaciones visuales de lugares, aportadas por el autor. Orientan la atmósfe
 ### `character_art/`
 
 Arte conceptual de los personajes originales de *Seda y Pólvora*. Por encargo del autor (2026-09-11), se enlaza y muestra en sus fichas como apoyo visual bajo **DISEÑO**, sin establecer canon nuevo por inferencia. El canon escrito manda ante discrepancias. Catálogo, usos y diferencias detectadas: [[99_Reference/character_art/README]]. Este uso específico no autoriza copiar escenas, biografías ni formulaciones de las fuentes externas.
+
+### `archivos_externos/`
+
+Paquete de referencia recibido el 2026-10-10 para estudiar una estructura de contexto y migración. Empieza por [[99_Reference/archivos_externos/README-vault-erp-remoto]], que describe sus originales, manifiesto y evidencia. El README del paquete menciona un reporte en `analisis/` que no está incluido en esta copia. Es material de otro proyecto: no es canon, no instala herramientas en este vault y sus scripts no deben ejecutarse como sistema completo.
 
 ### `KYLE_RASS_GIULIA_ROSSETTI_CONTEXT.md`
 

@@ -12,9 +12,9 @@ Este uso del arte de personajes propios no cambia la prohibición de adaptar esc
 
 | Imagen | Ficha y uso conceptual |
 |---|---|
-| [[99_Reference/character_art/Perfil_Kal_Mercer.png]] | [[02_Characters/Kal_Mercer]] — rostro, mirada y cicatriz izquierda |
+| [[99_Reference/character_props/Perfil_Kal_Mercer.png]] | [[02_Characters/Kal_Mercer]] — rostro, mirada y cicatriz izquierda |
 | [[99_Reference/character_art/Kal_Mercer.png]] | [[02_Characters/Kal_Mercer]] — postura al volante y ropa de transición; lateralidad facial invertida |
-| [[99_Reference/character_art/Perfil_Chiara_Bellandi.png]] | [[02_Characters/Chiara_Bellandi]] — rostro, cabello, maquillaje y joyería |
+| [[99_Reference/character_props/Perfil_Chiara_Bellandi.png]] | [[02_Characters/Chiara_Bellandi]] — rostro, cabello, maquillaje y joyería |
 | [[99_Reference/character_art/Chiara_Bellandi.png]] | [[02_Characters/Chiara_Bellandi]] — presencia profesional y combinación rojo/blanco/oro |
 | [[99_Reference/character_art/Hector_Navarro.png]] | [[02_Characters/Hector_Navarro]] — cercanía en el taller, pelo cano y camisa de cuadros |
 | [[99_Reference/character_art/Walt_Keegan.png]] | [[02_Characters/Walter_Keegan]] — austeridad, cabeza calva y barba de candado |
@@ -45,7 +45,7 @@ Ambas láminas fijan la herencia física de [[02_Characters/Chiara_Bellandi]]: c
 
 ---
 
-## `Kal_Mercer_cotidiano.png`
+## `character_props/Kal_Mercer_cotidiano.png`
 
 Kal en su outfit de "etapa temprana" del libro: chaqueta de mezclilla con cuello de borrego, sin camisa debajo, pantalón negro, tenis blancos. Corresponde a la ropa fijada en su ficha para la primera parte de la novela.
 
@@ -53,13 +53,13 @@ Kal en su outfit de "etapa temprana" del libro: chaqueta de mezclilla con cuello
 
 Entre dos variantes generadas, se eligió ésta por la complexión menos "de gimnasio" y el detalle de manos curtidas en el close-up. La otra variante añadía un collar/dije que no está en canon — descartada por eso.
 
-## `Chiara_Bellandi_cotidiano.png`
+## `character_props/Chiara_Bellandi_cotidiano.png`
 
 Chiara en un outfit de día a día en el Monarch: blusa de satín azul, pantalón negro de vestir, tacones, bolso estructurado negro, arracadas de oro, reloj, pulsera, labial oscuro con manicura a juego, cabello suelto.
 
 **Verificado:** 34 años, rasgos italianos/sicilianos, piel aceitunada, ojos almendrados con matices verdes, lunar sobre la comisura del labio. Esta hoja fijó dos datos físicos nuevos que no estaban en la ficha y ya se incorporaron a `Chiara_Bellandi.md`: **1.68 m de altura**, y **lunares naturales pequeños en la parte alta de la espalda/hombros** (visibles con el cabello suelto). También confirmó que no es de complexión atlética pero mantiene rutina de spinning y yoga.
 
-## `Kal_Mercer_hibrido_negocios_calle.png`
+## `character_props/Kal_Mercer_hibrido_negocios_calle.png`
 
 Diseño nuevo (2026-09-07): un solo outfit que combina "hombre de negocios de día" y "hombre de calle de noche" — blazer oscuro de corte fino, abierto, sin camisa de vestir ni corbata (playera lisa debajo), jeans oscuros, botas de trabajo, mangas subidas dejando ver el tatuaje de blackout del antebrazo derecho y manos con marcas de trabajo real. Reloj discreto pero de calidad.
 

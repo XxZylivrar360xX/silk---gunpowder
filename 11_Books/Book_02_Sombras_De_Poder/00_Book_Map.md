@@ -8,10 +8,11 @@
 > `Torna a Casa`), ahora sus propias Partes I-III. Deriva de
 > [[00_Biblia/00_Trilogy_Structure]] y de [[01_Timeline/03_Libro_02_Sombras_De_Poder]], que
 > contiene el desarrollo Parte por Parte con todo el detalle de diseño ya fijado. **Estado:
-> esqueleto — sin prosa.** ~~El Libro I termina en el Cap. 44; este libro abre en el Cap. 45,
+> diseño de arco con prosa en BORRADOR.** ~~El Libro I termina en el Cap. 44; este libro abre en el Cap. 45,
 > todavía sin redactar.~~ **SUPERADO (2026-10-01, CANON DEL AUTOR):** el Libro I termina en el
-> Cap. 50b ("Ciao, bella" cierra el 50; Halbrook llega en el 50b, al alba del 5 de enero). El
-> primer capítulo de este libro está sin redactar; número y título PENDIENTES.
+> Cap. 50b ("Ciao, bella" cierra el 50; Halbrook llega en el 50b, al alba del 5 de enero).
+> **ACTUALIZADO (2026-10-10):** el Cap. 1, *Hogar*, está en BORRADOR; el número y título ya
+> están fijados por el autor.
 
 ---
 
@@ -119,10 +120,7 @@ Desarrollo completo, Parte por Parte, en [[01_Timeline/03_Libro_02_Sombras_De_Po
 
 ## Capítulos
 
-Sin capítulos escritos todavía. ~~El Cap. 45~~ El primer capítulo (apertura de la Parte I de este libro; número PENDIENTE, porque el Libro I ya usa 44–50b) está
-planeado — sin redactar — en
-[[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]] (sección del antiguo Cap. 45). La reconciliación absorbe ahora unos dieciséis días, no tres: Kal se entera de hasta dónde llegó Chiara, salvo la cuenta abierta con Dario. Carpetas de Partes creadas
-(`Part_01_Nieve_Y_Ceniza/`, `Part_02_Exilio/`, `Part_03_Torna_A_Casa/`), vacías.
+En prosa BORRADOR: [[11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Hogar]] (Cap. 1, título fijado por el autor el 2026-10-10) y [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]] (capítulo sin número, prosa pendiente de lectura del autor). La Parte III todavía no tiene capítulos escritos. El plan de la reconciliación sigue documentado en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]] (sección del antiguo Cap. 45). Las carpetas I y II contienen los borradores enlazados; `Part_03_Torna_A_Casa/` existe como carpeta local vacía para la parte futura.
 
 ## Escenas en reserva
 

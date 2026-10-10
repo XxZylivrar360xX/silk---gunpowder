@@ -42,3 +42,5 @@
 - 2026-10-01 — [[98_Agent_Handoff/sessions/2026-10-01_claude_arco_final_sin_kal]]: arco final del Libro I (Chiara sin Kal, Caps. 44–50 + epílogo con Halbrook); supersede el Cap. 44 del plan de cierre, "Los Tres Días" y la regla 6 de la Trilogy Structure.
 - 2026-10-01 — [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24b_Lo_Que_Cueste|Cap. 24-bis nuevo: Kal se abre con Nadir; Nadir le pide a Chiara que se aleje; la escalera del loft (siembra del Cap. 28). sin renumerar]]
 - 2026-10-01 — [[98_Agent_Handoff/sessions/2026-10-01_reconstruccion_cap28_macroarco_corral_trato|Cap. 28 reconstruido sobre la conversación de la fuente; macroarco corral → trato; cascada en 25, 26, 29, 30, H6 y el taller del norte (propiedad de Kal)]]
+
+- 2026-10-04: [[98_Agent_Handoff/sessions/2026-10-04_claude_propagacion_reubicacion_corral]]

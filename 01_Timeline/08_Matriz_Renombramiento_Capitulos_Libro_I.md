@@ -8,7 +8,7 @@
 
 - Mapa operativo: [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 - Continuidad de hitos: [[06_Relationships/Hitos]].
-- Manuscrito: carpeta [[11_Books/Book_01_Mascaras_De_Cristal]].
+- Manuscrito: carpeta `11_Books/Book_01_Mascaras_De_Cristal/`.
 - **Advertencia sobre las etiquetas heredadas:** que un título cite una línea o coincida con un hito canon no demuestra que el autor haya fijado ese título como definitivo. Las etiquetas `CANON / FUERTE`, `CANON / FRASE` y similares de la primera pasada no acreditan aprobación: son valoraciones editoriales pendientes de verificar. Las recomendaciones y alternativas de este documento son **DISEÑO**.
 - **PROVISIONAL:** título de trabajo que puede cambiar sin alterar el acontecimiento.
 - **ARCHIVO DESFASADO:** el título visible y el nombre del archivo no coinciden, o el nombre conserva una etapa anterior.

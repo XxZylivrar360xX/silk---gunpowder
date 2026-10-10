@@ -2,6 +2,10 @@
 
 Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]. Archivar entradas antiguas antes de retirarlas.
 
+## 2026-10-09 — H23: boda de Kal y Chiara
+
+**CANON DEL AUTOR:** Kal y Chiara se casan; la canción de su vals es *«Il Mondo»*. Tiempo, libro, lugar y circunstancias quedan PENDIENTES. Fuente: [[06_Relationships/Hitos#H23 — La boda de Kal y Chiara]] · [[98_Agent_Handoff/sessions/2026-10-09_codex_para_claude_hito_boda_il_mondo]].
+
 ## 2026-10-04 — 24c: reunión del 13 y Charles
 
 **CANON DEL AUTOR:** la reunión del 13 que anuncia la carta de Il Consorzio en el 24c es la razón por la que Kal y Chiara terminan yendo a Palermo después del cumpleaños (H16 → H17; H13 sigue siendo el gatillo inmediato). El supervisor de Eagle Eye se llama **Charles** (no César) y queda sembrado en el Cap. 22. Se corta la camioneta "de las caballerizas". Fuente: [[98_Agent_Handoff/sessions/2026-10-04_claude_surgery_24c]].
@@ -40,11 +44,7 @@ Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces 
 
 ## 2026-09-20 — Títulos del Libro I
 
-**CANON DEL AUTOR:** C04 Tarifa nocturna; C21 El primer huésped; C22 Causalidad; C28 La correa; C30 Media Baraja; C33 Más de la cuenta. Primera ronda cerrada. [[01_Timeline/07_Matriz_Renombramiento_Capitulos_Libro_I]].
-
-## 2026-09-16 — Títulos y alcance de la saga
-
-Libro III: Cuentas de Sangre. Continuación en duología: Libro IV Juramento de Hierro; Libro V Camino a Casa. Existen mapas iniciales; el desglose sigue abierto. [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]].
+**CANON DEL AUTOR:** C04 Tarifa nocturna; C21 El primer huésped; C22 Causalidad; C28 La correa; C30 Media Baraja; C33 Más de la cuenta. Primera ronda cerrada. [[01_Timeline/08_Matriz_Renombramiento_Capitulos_Libro_I]].
 
 ## 2026-09-13 — Nomenclatura
 

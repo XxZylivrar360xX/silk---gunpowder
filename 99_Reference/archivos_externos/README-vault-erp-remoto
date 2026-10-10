@@ -1,0 +1,21 @@
+# Rescate de la mecánica del cerebro — 10-oct-2026
+
+Paquete personal de vpaz, preparado a partir de plataforma_CAPA. Empezar por el
+[reporte](../../analisis/20261010_cerebroerpGonza-contexto-y-migracion.md).
+
+- `originales/`: 18 copias literales de fuentes y herramientas con sus rutas del repo.
+- `manifiesto.json`: procedencia, tamaños y SHA-256 de las copias.
+- `plantillas/`: formatos mínimos y contrato ficticio del esquema; referencias para adaptar.
+- `evidencia/`: mediciones, salidas verificadas y mapa [HTML](evidencia/grafo.html)/[JSON](evidencia/grafo.json).
+
+Son fuentes de referencia de una fecha concreta; no reemplazan las reglas vigentes del ERP.
+La configuración `.claude/settings.json` queda dentro de `originales/`, no instalada en el vault.
+No usar `originales/` como raíz de trabajo de los agentes: contiene punteros del ERP y hooks
+sin adaptar. No ejecutar scripts como si fueran una instalación completa: faltan código,
+normas, esquema y otras dependencias. Los documentos root copiados sirven para estudiar
+la estructura, no para mantener otra versión normativa.
+
+El HTML del grafo requiere D3 desde CDN; para usarlo sin red hay que adaptar esa referencia.
+El JSON contiene rutas del servidor original. Regenerar ambos tras una migración.
+No se incluyen credenciales, sesiones de navegador, conocimiento completo ni herramientas
+de despliegue/corrección de datos. Estas copias permanecen en CAPA-docs, fuera de Git.

@@ -34,6 +34,18 @@ Una nota por sesión en `98_Agent_Handoff/sessions/`. [[log]] enlaza las 30 más
 
 Markdown sigue siendo la fuente; una futura base de búsqueda deberá poder reconstruirse desde estos documentos.
 
+## Snapshot del índice (2026-10-10)
+
+[[98_Agent_Handoff/archive/2026-10-10_INDEX_anterior]] conserva la versión extensa del índice maestro antes de compactarlo. Es una captura histórica; para navegar y determinar estado actual, usa [[INDEX]] y las fuentes de dominio enlazadas ahí.
+
+## Snapshot del log (2026-10-10)
+
+[[98_Agent_Handoff/archive/2026-10-10_log_anterior]] conserva la bitácora con el detalle anterior a su compactación. [[log]] mantiene las referencias recientes; los datos de cada sesión deben consultarse en su fuente enlazada.
+
+## Decisiones retiradas (2026-10-10)
+
+[[98_Agent_Handoff/archive/2026-10-10_DECISIONS_archivadas]] conserva una decisión sobre el alcance y los títulos de la saga del 2026-09-16, sustituida por la arquitectura vigente de siete libros.
+
 ## Actualización concurrente preservada
 
 Durante la compactación otra sesión agregó el Cap. 40. También se conservaron íntegros [[98_Agent_Handoff/archive/2026-09-21_CURRENT_BRIEF_cap40]] y [[98_Agent_Handoff/archive/2026-09-21_PENDING_cap40]]. El relevo compacto incorpora ese avance y la discrepancia Tommaso/Alessio.

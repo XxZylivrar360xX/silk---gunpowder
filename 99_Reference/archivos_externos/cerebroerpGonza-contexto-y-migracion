@@ -1,0 +1,371 @@
+# Cerebro ERP Gonza: consulta, ahorro de contexto y traslado a otro vault
+
+Reporte personal para vpaz. Inspección del checkout `plataforma_CAPA` en este servidor el **10 de octubre de 2026**. Describe el código y la documentación presentes en esa fecha; no establece nuevas normas del ERP ni modifica el cerebro compartido.
+
+El mecanismo que conviene rescatar es una **wiki de Markdown mantenida por los agentes, con un catálogo que dirige la lectura**. La síntesis evita volver a descubrir lo mismo; el catálogo evita abrir documentos completos; los scripts convierten archivos grandes en resultados pequeños. No hay un buscador semántico, embeddings ni un servicio de memoria en los scripts revisados. Los agentes deben consultar y alimentar estas piezas explícitamente, o mediante los hooks configurados para Claude Code.
+
+## 1. Por dónde empezar, sin buscar a ciegas
+
+| Necesidad | Primera consulta | Siguiente paso |
+|---|---|---|
+| Retomar trabajo interrumpido | `cerebroerpGonza/estado.md`, parte anterior a `fin-arranque` | Abrir solo la página enlazada por el frente relevante |
+| Encontrar un aprendizaje del equipo | `cerebroerpGonza/index.md` | Buscar el módulo, pantalla, síntoma o tabla; abrir su wiki |
+| Saber cómo se debe implementar | `IA_policies/README.md` | Identificar la regla y consultar su sección; leerla completa al implementar ese tema |
+| Comprender un PHP grande | `.claude/tools/esqueleto.py` | Leer el intervalo que contiene la función o consulta pertinente |
+| Ver columnas y definición de una tabla | `cerebroerpGonza/bin/tabla.sh` | Pedir una tabla o buscar nombres, sin abrir el JSON completo |
+| Entender un término del negocio | Encabezados de `IA_policies/GLOSSARY.md` | Leer la sección elegida |
+| Recuperar evidencia original | `fuentes:` de la página wiki | Abrir el documento crudo únicamente cuando la síntesis no baste |
+| Reconstruir una decisión | `wiki/decisiones/` y `log.md` | Seguir `Ver:` y, para historia antigua, `log-archivo/` |
+| Revisar conexiones y vacíos de documentación | `grafo-cerebro.py` | Examinar HTML/JSON y confirmar los hallazgos contra los archivos |
+
+Consulta práctica, desde la raíz del checkout:
+
+```bash
+# Buscar primero en el catálogo, no en todo el ERP.
+rg -n -i 'póliza|gltrans|periodo' cerebroerpGonza/index.md
+
+# Si el catálogo no orienta, buscar nombres y resúmenes dentro de la wiki.
+rg --files cerebroerpGonza/wiki
+rg -n -i 'periodo|gltrans' cerebroerpGonza/wiki
+
+# Obtener encabezados para elegir una sección del glosario.
+rg -n '^## ' IA_policies/GLOSSARY.md
+
+# Obtener el mapa actual de un archivo y después abrir un intervalo localizado.
+python3 .claude/tools/esqueleto.py includes/HDCentral.inc --buscar ticket
+# Sustituir 100 y 150 por las líneas devueltas para el símbolo elegido.
+sed -n '100,150p' includes/HDCentral.inc
+
+# Consultar exclusivamente las tablas necesarias.
+bash cerebroerpGonza/bin/tabla.sh --buscar periods
+bash cerebroerpGonza/bin/tabla.sh gltrans
+```
+
+`rg` en toda la wiki sigue siendo una segunda opción: primero el índice, después una página, después evidencia puntual. Si falta una síntesis, buscar el archivo o símbolo específico en el repo y registrar el aprendizaje verificado para la siguiente consulta.
+
+## 2. Estructura real y función de cada capa
+
+```text
+raíz-del-repo/
+├── AGENTS.md                  → puntero a las fuentes comunes
+├── CLAUDE.md                  → entrada: invariantes, consulta y protocolo
+├── IA_policies/
+│   ├── README.md              → catálogo de normas
+│   ├── rules/                 → reglas por tema, actualmente R00–R23
+│   ├── GLOSSARY.md            → dominio; consultar por sección
+│   └── onaxis-design-system/  → norma y recursos del diseño del ERP
+├── schema/
+│   ├── indice.md              → catálogo legible del esquema
+│   ├── schema.json            → definición estructurada para tabla.sh
+│   └── LEEME.md               → procedimiento de generación del esquema
+├── cerebroerpGonza/
+│   ├── README.md              → formato y mecánica de la wiki
+│   ├── estado.md              → hilo activo, actualizado en su lugar
+│   ├── index.md               → una línea por fuente y cuándo leerla
+│   ├── log.md                 → bitácora cronológica, agregar al final
+│   ├── log-archivo/           → historia retirada del log principal
+│   ├── wiki/
+│   │   ├── base/              → conocimiento transversal
+│   │   ├── modulos/           → dominios de negocio
+│   │   ├── pantallas/         → comportamiento de Archivo.php
+│   │   └── decisiones/        → contexto, decisión y consecuencias
+│   ├── raw/                   → fuentes originales, incluidas subcarpetas
+│   ├── bin/                   → consulta, auditoría y utilidades del ERP
+│   └── lint.sh                → integridad documental y permisos
+└── .claude/
+    ├── settings.json          → conexión de hooks de este checkout
+    ├── hooks/                 → validación después de ciertos cambios
+    ├── skills/cerebro-ingest/  → procedimiento explícito de ingesta
+    ├── skills/onaxis-migrar/   → comprobaciones específicas de UI y norma
+    └── tools/                 → mapa de código y pruebas de navegador
+```
+
+Hay **42 páginas wiki** en las cuatro carpetas y **24 archivos de reglas** en la foto inspeccionada. Norma, esquema y herramientas no están contenidos enteramente en `cerebroerpGonza/`: copiar solo esa carpeta deja fuera parte de la mecánica.
+
+| Capa | Qué conserva | Cómo cambia | Cómo ahorra contexto |
+|---|---|---|---|
+| Entrada del agente | Invariantes y enlaces a fuentes únicas | Solo al cambiar acuerdos | Evita instrucciones duplicadas por agente |
+| Estado | Dónde va cada frente, próximo paso y decisiones pendientes | Se corrige al terminar cada tarea | Permite continuar sin reconstruir el historial |
+| Índice | Ruta, resumen corto y situación de lectura | Se actualiza con la wiki o una fuente | Actúa como selector de documentos |
+| Wiki | Conclusiones verificadas con procedencia | Se sintetiza y corrige | Evita releer evidencia y repetir investigación |
+| Raw | Documentos de origen, anexos y transcripciones | Se agregan; no se reescriben | Conserva evidencia sin cargarla en cada sesión |
+| Log | Decisiones, hallazgos y referencias en el tiempo | Solo agregar al final | Su cola aporta novedades sin leer todo el historial |
+| Archivo del log | Historia anterior | Rotación documentada | Conserva trazabilidad fuera del arranque |
+| Políticas | Reglas obligatorias por tema | Cambio normativo explícito | La wiki enlaza la norma en vez de duplicarla |
+| Herramientas | Consultas y comprobaciones reproducibles | Versionadas con el repo | Devuelven símbolos, tablas o diagnósticos concretos |
+
+Las páginas `pantallas/Archivo.php.md` describen comportamientos no obvios; no son una transcripción del código. Las decisiones usan `AAAA-MM-DD-tema.md`. `base/` contiene lo transversal y `modulos/` concentra conocimiento por dominio.
+
+## 3. Los dos circuitos: consulta e ingesta
+
+```mermaid
+flowchart LR
+    T[Tarea o pregunta] --> I[Índice: cuándo leer]
+    I --> W[Wiki pertinente]
+    W --> N[Norma del tema]
+    N --> C[Código o esquema puntual]
+    W --> F[Fuente original si hace falta]
+    C --> H[Hallazgo verificado]
+    F --> H
+    H --> A[Prueba de admisión]
+    A --> S[Actualizar síntesis y sus fuentes]
+    S --> J[Índice y log]
+    J --> L[Lint]
+```
+
+**Consulta:** el orden expresado en `CLAUDE.md` es índice → wiki → sección de la regla → código. El estado responde dónde continuar y precede a esas búsquedas cuando se retoma un frente. La regla completa se lee cuando se va a implementar lo que norma. En UI, la precedencia normativa remite a R00, según `IA_policies/README.md`.
+
+**Ingesta:** al terminar cada tarea se actualiza el estado. Si se aprendió algo reutilizable que no está ya documentado, se crea o actualiza una página wiki, se añade su línea al índice, se registra una entrada breve en el log y se ejecuta lint. La prueba de admisión es: «¿otro agente, en dos semanas, se ahorra una búsqueda por leer esto?».
+
+Los documentos externos admitidos se guardan fechados en `raw/` y se citan desde la síntesis. Los PDF necesitan una transcripción legible al lado. No entran hipótesis sin verificar, secretos, resúmenes genéricos de sesión ni repeticiones de una regla o de `git log`. Cuando una norma resulta incorrecta, el protocolo pide `gotcha` en el log y una propuesta de cambio en políticas.
+
+Para vpaz, el destino de aportes se decide con `~/.claude/CLAUDE.md`: aprendizajes y decisiones del ERP que sirven al equipo van al compartido; las notas y documentos personales permanecen en `CAPA-docs`. Este reporte y el paquete de rescate son personales. La prohibición antigua de escribir en el compartido fue retirada el 10-oct-2026.
+
+## 4. Formatos que sostienen la navegación
+
+### Wiki y procedencia
+
+```yaml
+---
+resumen: Qué resuelve esta página, en una línea
+leer_cuando: Situación concreta en la que conviene abrirla
+fuentes: [ruta-del-repo/al-documento.md, ruta-del-repo/al-codigo.php]
+actualizado: 2026-10-10 usuario
+---
+```
+
+Después del frontmatter: conclusión, comportamiento, símbolos o tablas relevantes, evidencia, pendientes y gotchas. Cierre: `Ver también: [[otra-pagina]]`. Para una pantalla, un enlace puede ser `[[Archivo.php]]`, que corresponde a `Archivo.php.md`.
+
+En el compartido, `fuentes:` se documenta relativo a la raíz del repo; el lint también intenta resolver desde la raíz del cerebro. En CAPA-docs se admiten además rutas de la carpeta personal y `~`. Al migrar, elegir **una base explícita** para las fuentes evita rutas ambiguas. Mantener identificadores únicos: el lint actual resuelve wikilinks por nombre de archivo sin `.md`, y dos páginas con el mismo nombre en distintas carpetas pueden colisionar.
+
+### Catálogo
+
+```text
+- wiki/modulos/tema.md — conclusión o alcance · **léelo cuando** ocurra el síntoma concreto
+```
+
+Su valor está en la condición de lectura. «Documentación del módulo» orienta menos que «léelo cuando una póliza exista en el auxiliar y no en GL». Las fuentes aún no sintetizadas se señalan `SIN SINTETIZAR`. Las entradas pueden apuntar a código, normas y documentos externos a la carpeta del cerebro.
+
+### Bitácora
+
+```text
+## 2026-10-10 · usuario · gotcha — título concreto
+- Conclusión verificada que afecta al siguiente trabajo.
+- Ver: wiki/modulos/tema.md
+```
+
+Tipos: `decision`, `deploy`, `gotcha`, `ingest`, `pendiente`. El formato documentado pide de uno a cinco bullets y hasta 600 bytes por entrada. Lo nuevo va al final, con fechas no decrecientes. El README describe rotación al superar 64 KB, dejando las últimas diez entradas y un enlace al archivo; no hay rotación automática en los scripts inspeccionados.
+
+### Hilo activo
+
+```markdown
+# Estado
+
+| Frente | Dónde va | Siguiente paso | Página |
+|---|---|---|---|
+| Tema activo | Resultado verificado | Acción pendiente | wiki/modulos/tema.md |
+
+<!-- fin-arranque -->
+
+## Detalle de recuperación bajo demanda
+Información larga que no debe entrar siempre al contexto.
+```
+
+El marcador es funcional: el arranque compartido imprime todo lo anterior. Si falta, la selección puede imprimir el archivo entero. No basta con añadirlo al final de un estado largo; hay que separar el hilo activo del detalle histórico.
+
+## 5. Herramientas de ahorro y su portabilidad
+
+### `esqueleto.py`: mapa antes de lectura
+
+Ruta: `.claude/tools/esqueleto.py`. Usa Python 3 y biblioteca estándar. En PHP/`.inc` reconoce entrada e includes, permisos, funciones/clases, ramas GET/POST, SQL, transacciones, bloques heredoc y `<script>`, formularios y tablas. En Markdown devuelve encabezados; en otros archivos aplica patrones de símbolos JS.
+
+```bash
+python3 .claude/tools/esqueleto.py Pantalla.php
+python3 .claude/tools/esqueleto.py Pantalla.php --sql
+python3 .claude/tools/esqueleto.py Pantalla.php --buscar tagref
+python3 .claude/tools/esqueleto.py Documento.md
+```
+
+Cada resultado lleva la línea actual del archivo. Los previews se recortan a 110 caracteres y la impresión se limita a 80 resultados por sección. `--buscar` filtra los símbolos/previews detectados; no equivale a buscar cualquier texto del archivo. Utiliza expresiones regulares, no un parser completo: si no encuentra algo, pasar a `rg -n` y lectura puntual. Es fácil moverlo; no necesita la estructura del ERP para mapear un archivo recibido como argumento.
+
+### `tabla.sh`: una definición, no todo el esquema
+
+Ruta: `cerebroerpGonza/bin/tabla.sh`. Bash más Python 3 estándar. Lee localmente `schema/schema.json` y devuelve `tables[nombre].create`, o el objeto de la tabla si falta `create`. Acepta varias tablas, busca nombres con `--buscar` y tolera diferencias de mayúsculas.
+
+La reducción ocurre en lo que recibe el agente: el proceso sí carga el JSON completo en memoria local. No consulta la base en vivo. Una definición depende de la fecha y base de origen del snapshot. Si no encuentra una tabla imprime un comentario; no tratar exit 0 como prueba de que exista.
+
+Para trasladarlo, conservar la posición `cerebro/bin/tabla.sh` respecto de `schema/schema.json`, o parametrizar ambas raíces. Se resuelve el repo subiendo dos niveles desde el script. El esquema productivo completo no se ha incluido en el paquete personal; la [plantilla mínima](../recursos/cerebro-vault-20261010/plantillas/schema-ejemplo.json) muestra el contrato, con datos ficticios.
+
+### `arranque.sh`: continuidad sin releer sesiones
+
+Ruta: `cerebroerpGonza/bin/arranque.sh`. Bash, `sed`, `grep`, `awk`. Resuelve la carpeta del cerebro desde su propia ubicación y emite, en orden:
+
+1. Estado hasta `<!-- fin-arranque -->`, quitando la línea del marcador.
+2. Índice completo.
+3. Las **últimas seis entradas** del log, identificadas por encabezados `## `.
+
+El arranque actual **no recorta por bytes**. Los topes se retiraron el 27-sep-2026; el comentario del script y el lint lo explican como decisión del usuario ante el crecimiento a otro cliente. Copiarlo conserva el flujo, pero también conserva una salida grande si el estado y el índice crecieron.
+
+`.claude/settings.json` lo conecta a `SessionStart` con matcher `startup|clear|compact` y timeout de 10 segundos. Los hooks personales de `~/.claude/settings.json` son otra conexión: el paquete no copia la configuración privada del usuario. Codex debe seguir los punteros de AGENTS y hacer estas lecturas/comprobaciones explícitamente, según las instrucciones locales; no asumir ejecutados los hooks de Claude.
+
+### `lint.sh` y su hook: integridad del conocimiento
+
+Ruta: `cerebroerpGonza/lint.sh`. Bash, Python 3, utilidades POSIX y `stat` con formato GNU. Comprueba piezas obligatorias, presencia de wiki/raw/bin en el índice, rutas, algunos campos del frontmatter, fuentes, wikilinks, formato y orden de fechas del log, y permisos de escritura de grupo. `--docs` añade las comprobaciones específicas de OnAxis.
+
+El validador **ya no impone tamaños**. Actualmente obliga solo `resumen:` y `actualizado:` en el frontmatter; el README y la skill piden también `leer_cuando:` y `fuentes:`. Tampoco verifica el límite de 600 B por entrada ni toda la semántica de las síntesis. Un lint verde demuestra integridad parcial, no exactitud del conocimiento.
+
+El hook `.claude/hooks/cerebro-lint.sh` interpreta un payload JSON con `tool_input.file_path`, y ejecuta lint si se editó el cerebro o `CLAUDE.md`. Devuelve exit 2 ante violaciones. La configuración `PostToolUse` tiene matcher `Edit|Write|MultiEdit`; una escritura realizada por Bash no está cubierta por ese matcher. Ejecutar lint explícito al cerrar sigue siendo parte del protocolo.
+
+Para otro vault, sustituir las raíces, decidir si realmente se requieren permisos `g+w`, ampliar los campos obligatorios y conectar el validador al agente/editor elegido. Copiar `.claude/settings.json` sin adaptar rutas conserva nombres y convenciones de este ERP.
+
+### `pdf-a-texto.py`: fuentes legibles para la síntesis
+
+Ruta: `cerebroerpGonza/bin/pdf-a-texto.py`. Python 3 estándar, `re` y `zlib`; extrae texto de streams y mapas `/ToUnicode`, con soporte orientado a PDFs impresos por Chrome/Skia.
+
+```bash
+python3 cerebroerpGonza/bin/pdf-a-texto.py documento.pdf > transcripcion.md
+```
+
+Es portable y no necesita la carpeta del ERP. No hace OCR ni recupera diagramas, fotografías o capturas. Una extracción vacía o incompleta requiere revisar la fuente, no deducir contenido inexistente. Conservar PDF y transcripción juntos, y citar ambos cuando las imágenes sean parte de la evidencia. No se probó extracción de un PDF en esta revisión.
+
+### `grafo-cerebro.py`: mapa de conexiones y auditoría
+
+Ruta: `cerebroerpGonza/bin/grafo-cerebro.py`. Python 3 estándar. Crea nodos para núcleo, wiki, fuentes, binarios y reglas; deriva conexiones del índice, wikilinks, `fuentes:`, menciones y funciones. Puede imprimir hallazgos, exportar JSON y generar HTML interactivo.
+
+```bash
+python3 cerebroerpGonza/bin/grafo-cerebro.py
+python3 cerebroerpGonza/bin/grafo-cerebro.py --json /tmp/cerebro.json --html /tmp/cerebro.html
+```
+
+El [mapa HTML de esta revisión](../recursos/cerebro-vault-20261010/evidencia/grafo.html) tiene **113 nodos y 610 conexiones**. Es una ayuda de navegación documental, no un motor de recuperación semántica. El [JSON](../recursos/cerebro-vault-20261010/evidencia/grafo.json) conserva los datos para otra visualización.
+
+Hay tres adaptaciones concretas para otro vault: las rutas del ERP están codificadas; los límites `LIM` conservan presupuestos antiguos que el lint ya no aplica; `raw/*` recorre solo el primer nivel, mientras hay fuentes anidadas. Además, el HTML carga D3 7.9.0 desde un CDN: para uso sin red hay que servir una copia local y cambiar la referencia. El JSON contiene rutas absolutas del servidor actual; regenerarlo después de mover el vault. El grafo puede escribir HTML/JSON válidos y devolver exit 1 por hallazgos; eso ocurrió en esta revisión.
+
+### Comprobaciones del ERP: útiles, pero específicas
+
+| Herramienta | Qué resume | Dependencias y adaptación |
+|---|---|---|
+| `.claude/skills/onaxis-migrar/check.sh` | Diagnósticos de sintaxis y patrones UI por pantalla | Bash, PHP CLI; reglas de OnAxis, no validador genérico de un vault |
+| `.claude/skills/onaxis-migrar/docs-check.sh` | Diferencias entre hechos publicados en políticas y recursos/código | Estructura completa del ERP, Git, Bash y Python; reemplazar las afirmaciones verificadas para otro dominio |
+| `.claude/hooks/php-lint.sh` | Errores PHP tras editar un archivo | Payload de Claude y PHP CLI; no recupera conocimiento |
+| `.claude/tools/shot.js` | Capturas claro/oscuro y errores de navegador | Node, Playwright, Chromium, ERP accesible y sesión; configurar base/empresa, no heredar el default de localhost |
+| MCP `mysql-erp` | Consultas de base documentadas como solo lectura | Integración externa y credenciales del entorno; no incluida ni probada aquí |
+
+`shot.js` guarda sesión en `.storage.json`, escribe capturas y visita la aplicación. No se ejecutó para redactar este reporte ni se copiaron sesiones/credenciales. Los scripts `reaplicar-capa.sh`, `copiar-a-plataforma-capa.sh` y las utilidades de cuadre/corrección pertenecen a operaciones del ERP; no forman parte del núcleo portable de recuperación. No se ejecutaron ni se incluyeron.
+
+## 6. Ahorro observable y puntos donde se pierde
+
+Mediciones de bytes, no de tokens; el tamaño en tokens depende del contenido y del modelo. Los tamaños son una foto de este checkout y pueden cambiar.
+
+| Pieza | Bytes observados | Implicación |
+|---|---:|---|
+| `CLAUDE.md` del repo | 4 526 | Entrada breve respecto del ERP completo |
+| Índice compartido | 19 241 | Catálogo entero inyectado por el arranque |
+| Estado completo | 129 162 | Conviene abrir solo el frente relevante |
+| Estado antes de `fin-arranque`, sin marcador | 84 706 | Principal componente del contexto fijo actual |
+| Log completo | 168 819 | La cola evita cargar todo el historial |
+| Arranque compartido completo | 109 306 | Aproximadamente 106,7 KiB por ejecución |
+| Glosario | 56 335 | Consultar encabezados y secciones |
+| Índice del esquema | 72 341 | Buscar tabla, no leer entero |
+| `schema/schema.json` | 7 771 136 | Consultar por `tabla.sh` |
+| Mayor página wiki | 40 909 | El formato original de 12 KiB no está impuesto por lint |
+
+Pruebas locales de salida reducida:
+
+| Consulta probada | Fuente | Salida devuelta |
+|---|---:|---:|
+| `tabla.sh gltrans` | JSON de 7 771 136 B | 2 596 B de definición |
+| `tabla.sh --buscar periods` | Mismo JSON | 40 B de nombres |
+| `esqueleto.py includes/HDCentral.inc --buscar ticket` | PHP de 92 830 B | 4 303 B de símbolos/previews |
+| `esqueleto.py cerebroerpGonza/README.md` | Markdown de 6 116 B | 572 B de encabezados |
+
+Estas diferencias miden selección, no comprensión completa: luego se necesita leer el fragmento concreto. La ganancia de `tabla.sh` es clara incluso cuando el proceso Python carga internamente todo el esquema.
+
+### Diferencias entre la documentación y los ejecutables
+
+| Tema | Documentación o dato antiguo | Realidad inspeccionada |
+|---|---|---|
+| Presupuesto de contexto | README: entrada 4 KiB, índice 8 KiB, arranque 12 KiB, wiki 12 KiB | Lint y arranque retiraron controles de tamaño el 27-sep; el grafo aún usa límites históricos |
+| Cola del arranque | Tabla del README: ocho entradas y 4 KiB | Script: seis entradas completas, sin corte por bytes |
+| Frontmatter | README/skill: cuatro campos obligatorios | Lint compartido obliga dos y revisa fuentes solo cuando encuentra la lista |
+| Catálogo normativo | Algunas descripciones mencionan R00–R20 o R00–R21 | Archivos actuales: R00–R23 |
+| Rotación del log | README recomienda archivar al superar 64 KiB | Log actual de 168 819 B; no hay automatismo en las herramientas revisadas |
+| Cobertura de raw | Lint recorre fuentes anidadas | Grafo solo inspecciona `raw/*` en primer nivel |
+
+No reinstalar presupuestos antiguos como si fueran reglas vigentes. Para un vault nuevo se puede acordar un presupuesto distinto; eso sería una decisión de diseño propia de la migración.
+
+### Salud actual que no conviene heredar como plantilla
+
+El lint compartido terminó con exit 1 y **13 diagnósticos individuales**: dos rutas del índice inexistentes, siete fuentes inexistentes, tres fechas fuera de orden y un encabezado de log sin tipo. Su resumen imprime `1 FAIL` porque agrega el bloque Python como un único fallo; no significa que haya una sola incidencia. La [salida exacta](../recursos/cerebro-vault-20261010/evidencia/lint-compartido.txt) conserva rutas y líneas.
+
+El grafo reportó un grupo FAIL y tres grupos de avisos; los grupos no son equivalentes al conteo de lint. No se corrigieron esas incidencias para preparar el reporte. Antes de importar conocimiento, resolver enlaces rotos contra su nueva ubicación; no fabricar fuentes o páginas para silenciar un validador.
+
+## 7. Diseño trasladable a otro vault de Markdown
+
+Esta es una **propuesta de adaptación**, no una estructura creada ni un cambio aplicado al cerebro compartido. No presupone Obsidian u otra aplicación concreta.
+
+```text
+vault/
+├── AGENTS.md             → apunta a la fuente de acuerdos común
+├── CLAUDE.md             → acuerdos y ruta de entrada, si conservas ese nombre
+├── políticas/            → normas del nuevo dominio
+├── cerebro/
+│   ├── README.md
+│   ├── estado.md
+│   ├── index.md
+│   ├── log.md
+│   ├── log-archivo/
+│   ├── wiki/{base,modulos,pantallas,decisiones}/
+│   ├── raw/
+│   └── bin/
+├── herramientas/         → esqueleto, extracción, auditoría
+└── esquema/              → opcional; solo si el vault documenta una base
+```
+
+Conservar las cuatro categorías permite reutilizar el formato. En un dominio sin pantallas, se puede elegir otra categoría equivalente y adaptar índice, lint y grafo a la vez. Para notas personales, políticas y esquema pueden omitirse si no aportan. Los wikilinks son Markdown extendido: elegir un editor que los resuelva, o convertirlos a enlaces Markdown relativos y ajustar los validadores.
+
+La fuente de acuerdos debe ser única. AGENTS puede seguir apuntando a CLAUDE como ya se decidió; no hacen falta versiones divergentes de las mismas reglas para Claude y Codex. Un `MEMORY.md` separado sirve para acuerdos duraderos personales, no para repetir toda la wiki ni el estado. El nuevo vault necesita una entrada propia en el agente, no solo archivos copiados.
+
+Pasos para una migración posterior:
+
+1. **Delimitar contenido y raíces.** Elegir qué conocimiento se traslada, quién lo mantiene y dónde vive la norma. Distinguir evidencia original de síntesis.
+2. **Trasladar Markdown y evidencia con rutas preservadas.** Mantener nombres, fechas y frontmatter; conservar transcripciones junto a PDFs. Decidir la base única de `fuentes:`.
+3. **Inventariar dependencias externas.** Las fuentes que apuntan al repo, reglas o esquema no aparecerán por copiar el cerebro. Reubicar lo admitido o documentar explícitamente qué permanece externo.
+4. **Adaptar scripts antes de activarlos.** Configurar raíces de lint/tabla/grafo, cobertura recursiva, nombres únicos y campos obligatorios. No conectar hooks que todavía apuntan al ERP.
+5. **Revisar el arranque.** Reservar el bloque anterior a `fin-arranque` para el hilo vigente; llevar detalle largo a wiki o archivo. Usar índice principal de temas con subíndices si crece. Elegir y medir el presupuesto del nuevo vault.
+6. **Conectar consulta y cierre.** Entrada → estado → índice → wiki pertinente; cierre → estado → admisión → wiki/índice/log → lint. Codex lo ejecuta explícitamente conforme a sus instrucciones; Claude puede conectar hooks adaptados.
+7. **Probar con tres preguntas reales.** Una de continuidad, una de dominio y una de evidencia: comprobar que cada una llega a su fuente sin lectura masiva y que un nuevo hallazgo queda localizable.
+8. **Regenerar el grafo y validar enlaces.** Comprobar también `raw/` anidado y rutas externas; no limitarse al resultado verde del lint actual.
+
+Como punto de partida para ahorro, puede proponerse estado de pocos KiB, catálogo breve y cola pequeña, con lectura bajo demanda de todo lo demás. No aplicar un truncado ciego que corte el próximo paso o la condición de lectura. Medir la salida real después de cada cambio; el marcador y el índice deben contener información escogida, no todo el historial.
+
+## 8. Qué queda rescatado en tu carpeta personal
+
+Paquete: [recursos/cerebro-vault-20261010](../recursos/cerebro-vault-20261010/README.md).
+
+- `originales/`: copias literales de los scripts y documentos que explican el mecanismo, conservando sus rutas relativas. Son una foto de consulta, no una configuración activada ni una nueva fuente normativa.
+- `manifiesto.json`: ruta original, tamaño y SHA-256 de cada copia para comprobar integridad.
+- `plantillas/formatos.md`: ejemplos mínimos de wiki, índice, log, estado y puntero AGENTS; son referencias para copiar/adaptar, no instrucciones cargadas automáticamente.
+- `plantillas/schema-ejemplo.json`: contrato mínimo y ficticio de `tabla.sh`.
+- `evidencia/`: mediciones, comandos y resultados de la revisión, más grafo HTML/JSON.
+
+No es una exportación del conocimiento completo: no incluye páginas wiki del equipo, documentos raw, el esquema completo, `.env`, sesiones del navegador, dependencias de Node ni configuraciones privadas. Permite rescatar la mecánica y decidir qué contenido migrar después. Mover scripts desde `originales/` sin respetar sus rutas cambia cómo resuelven las raíces: seguir la adaptación descrita antes de usarlos en otro vault.
+
+## 9. Fuentes y comprobación
+
+Raíz inspeccionada: `/data/html/plataforma_CAPA` (ruta física observada: `/var/www/html/plataforma_CAPA`). Fuentes primarias locales:
+
+| Fuente | Qué sustenta |
+|---|---|
+| `AGENTS.md`, `CLAUDE.md` | Fuente única, consulta, invariantes, herramientas y protocolo |
+| `cerebroerpGonza/README.md` | Capas, formatos, admisión, raw y rotación documentada |
+| `cerebroerpGonza/index.md` | Catálogo actual, páginas, herramientas y referencias externas |
+| `.claude/skills/cerebro-ingest/SKILL.md` | Procedimiento de ingesta y frontmatter deseado |
+| `cerebroerpGonza/bin/arranque.sh`, `cerebroerpGonza/lint.sh` | Comportamiento real del arranque y controles vigentes |
+| `.claude/settings.json`, `.claude/hooks/cerebro-lint.sh` | Conexión y alcance exacto de hooks locales |
+| `.claude/tools/esqueleto.py`, `bin/tabla.sh`, `bin/pdf-a-texto.py`, `bin/grafo-cerebro.py` bajo sus raíces descritas | Selección, extracción, dependencias y límites de las herramientas |
+| `IA_policies/README.md`, `schema/LEEME.md` | Catálogo normativo y esquema externo al cerebro |
+| `onaxis-migrar/check.sh`, `onaxis-migrar/docs-check.sh`, `.claude/tools/shot.js` | Comprobaciones del ERP y dependencias de navegador |
+| `~/.claude/CLAUDE.md`, `~/CAPA-docs/AGENTS.md`, `README.md` y `MEMORY.md` | Destino personal y vínculo con el flujo compartido |
+
+Se ejecutaron consultas locales de `tabla.sh`, mapas PHP/Markdown con `esqueleto.py`, lint compartido y exportación del grafo. Los resultados están en [verificacion.json](../recursos/cerebro-vault-20261010/evidencia/verificacion.json). No se probaron OCR/PDF, navegador, MCP o conexión a bases. Esta revisión no hizo commit, push ni cambios en producción.

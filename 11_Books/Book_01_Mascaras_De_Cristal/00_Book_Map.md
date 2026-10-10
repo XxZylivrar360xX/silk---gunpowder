@@ -25,7 +25,7 @@ H8, F4, F3, F2, Villa, Stavanger y H1 ya no pertenecen a este libro — ver
 [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]. Elenna sólo aparece aquí de forma indirecta
 (el embarazo se confirma en Libro II, no en éste).
 
-> **TÍTULOS VIGENTES — CANON DEL AUTOR (2026-09-20):** C04 **Tarifa nocturna**; C21 **El primer huésped**; C22 **Causalidad**; C28 conserva **La correa**; C30 **Media Baraja**; C33 **Más de la cuenta**. Encabezados, archivos y rutas actualizados. Las menciones históricas a La primera llamada, La promesa, Sin rastro, Las cascadas y La periferia corresponden a estos mismos capítulos. Primera ronda cerrada. Registro: [[01_Timeline/07_Matriz_Renombramiento_Capitulos_Libro_I#Decisiones del autor — primera ronda (2026-09-20)]].
+> **TÍTULOS VIGENTES — CANON DEL AUTOR (2026-09-20):** C04 **Tarifa nocturna**; C21 **El primer huésped**; C22 **Causalidad**; C28 conserva **La correa**; C30 **Media Baraja**; C33 **Más de la cuenta**. Encabezados, archivos y rutas actualizados. Las menciones históricas a La primera llamada, La promesa, Sin rastro, Las cascadas y La periferia corresponden a estos mismos capítulos. Primera ronda cerrada. Registro: [[01_Timeline/08_Matriz_Renombramiento_Capitulos_Libro_I#Decisiones del autor — primera ronda (2026-09-20)]].
 
 *Mapa narrativo operativo para montar la novela como libro y EPUB.*
 
