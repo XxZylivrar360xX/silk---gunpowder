@@ -14,7 +14,7 @@ Cada libro debe tener su propia carpeta, un `00_Book_Map.md` y carpetas de parte
 > III y Libro IV.
 
 - `Book_01_Mascaras_De_Cristal/` - Libro I, novela activa en montaje. Termina en el **Cap. 50b** (*La tierra bajo sus botas*; "Ciao, bella" es la última línea del 50), no en H1 (~~Cap. 44~~, superado 2026-10-01). Roadmap: [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]].
-- `Book_02_Sombras_De_Poder/` - Libro II — Sombras de Poder *(working title)*, nuevo. Absorbe las antiguas Partes IV-VI del Libro I, ahora sus propias Partes I-III (Nieve y Ceniza, Exilio, Torna a Casa). Contiene H1, el embarazo, el incendio, Villa Candelaria, Stavanger, Bonnie/Mei-Lin (F2) ~~y la llegada de Halbrook~~ (pasó al 50b del Libro I). Sin prosa; su primer capítulo (número PENDIENTE) está sin escribir. Roadmap: [[01_Timeline/03_Libro_02_Sombras_De_Poder]].
+- `Book_02_Sombras_De_Poder/` - Libro II — Sombras de Poder *(working title)*, nuevo. Absorbe las antiguas Partes IV-VI del Libro I, ahora sus propias Partes I-III (Nieve y Ceniza, Exilio, Torna a Casa). Contiene H1, el embarazo, el incendio, Villa Candelaria, Stavanger, Bonnie/Mei-Lin (F2) ~~y la llegada de Halbrook~~ (pasó al 50b del Libro I). Primer capítulo en BORRADOR: [[11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Hogar|Hogar]]. Roadmap: [[01_Timeline/03_Libro_02_Sombras_De_Poder]].
 - `Book_03_Voto_De_Ceniza/` - Libro III (era Libro II). Solo `00_Book_Map.md` (esqueleto derivado de [[00_Biblia/00_Trilogy_Structure]]). Sin prosa; prosa bloqueada hasta cerrar los Libros I y II.
 - `Book_04_Cuentas_De_Sangre/` - Libro IV — Cuentas de Sangre (era Libro III). Solo `00_Book_Map.md` (esqueleto). Sin prosa; prosa bloqueada hasta cerrar los Libros I-III.
 
@@ -31,3 +31,5 @@ Títulos y portadas de *Juramento de Hierro* y *Camino a Casa* son CANON DEL AUT
 ## Flujo EPUB
 
 El generador esta en `tools/epub-build/build_epub.py`. Mientras no existan capitulos de prosa, el EPUB se arma con `00_Front_Matter/00_Nota_Editorial.md` como maqueta de lectura. Cuando ya hay capitulos en las partes, el script omite la nota editorial por defecto e incluye solo prosa, por orden de carpeta y nombre de archivo. Para incluir la nota de montaje manualmente, usar `--include-front-matter`.
+
+Para *Sombras de Poder*, ejecutar `python -B .\tools\build_sombras.py` desde la raíz del vault: regenera EPUB y PDF con la selección explícita de capítulos del Libro II, inicialmente sólo **Hogar**. Configuración y salidas en [[tools/epub-build/README]] y [[tools/pdf-build/README]].

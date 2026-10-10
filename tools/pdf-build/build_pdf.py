@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a reading PDF from the Book I manuscript using Pandoc and Typst."""
+"""Build a saga reading PDF using Pandoc and Typst (default: Book I)."""
 
 from __future__ import annotations
 
@@ -66,6 +66,11 @@ def main() -> int:
     )
     parser.add_argument("--title", default="Máscaras de Cristal")
     parser.add_argument("--author", default="Víctor Paz")
+    parser.add_argument("--series", default="Seda y Pólvora")
+    parser.add_argument("--series-position", default="1")
+    parser.add_argument("--identifier", help="Stable, unique identifier for this book.")
+    parser.add_argument("--chapter", action="append",
+                        help="Chapter path relative to --book; repeat to select chapters.")
     parser.add_argument("--year", default=str(date.today().year))
     parser.add_argument("--output-name", default="Mascaras_De_Cristal")
     parser.add_argument("--paper", default="a5", help="Pandoc paper size (default: a5).")
@@ -102,7 +107,7 @@ def main() -> int:
     output_path = OUTPUT_DIR / f"{args.output_name}.pdf"
     manuscript = builder.build_frontmatter(
         args.title, args.draft_label, args.author, "es", args.year,
-        "Seda y Pólvora", "1",
+        args.series, args.series_position, args.identifier or builder.BOOK_IDENTIFIER,
     )
     header, body = manuscript.split("\n---\n", maxsplit=1)
     manuscript = (
@@ -114,7 +119,9 @@ def main() -> int:
     )
     collector_log = io.StringIO()
     with redirect_stdout(collector_log):
-        manuscript += builder.collect_manuscript(book_dir, include_front_matter=False)
+        manuscript += builder.collect_manuscript(
+            book_dir, include_front_matter=False, chapters=args.chapter,
+        )
     collector_lines = collector_log.getvalue().splitlines()
     chapter_count = sum(line.startswith("  + ") for line in collector_lines)
     excluded_count = sum(line.startswith("  - excluded") for line in collector_lines)

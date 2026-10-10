@@ -204,7 +204,8 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[01_Timeline/90_Archivo_Historico_Estructura_del_Ascenso]] · [[01_Timeline/91_Archivo_Historico_Primer_Borrador_Beats]] · [[01_Timeline/92_Archivo_Historico_Cadena_De_Eventos_Libro_I]] — documentos anteriores, sólo para trazabilidad
 - [[10_Chapters/README]] — prosa (vacío; el protocolo previo a escribir está ahí)
 - [[11_Books/README]] — montaje editorial del libro y flujo EPUB
-- [[tools/pdf-build/README]] — generador reproducible de PDF de lectura para *Máscaras de Cristal* (Pandoc + Typst)
+- [[tools/epub-build/README]] — exportación EPUB y lanzador `tools/build_sombras.py` para regenerar EPUB y PDF de *Sombras de Poder*; selección inicial: **Hogar**
+- [[tools/pdf-build/README]] — generador reproducible de PDF de lectura para *Máscaras de Cristal* y *Sombras de Poder* (Pandoc + Typst)
 - [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] — mapa operativo del libro activo; termina en el Cap. 50b ("Ciao, bella" cierra el 50; supersesión 2026-10-01)
 - [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] — mapa narrativo del Libro II; abre directo después del Cap. 50. Primer capítulo en borrador: [[11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Hogar]]; cierra en el reveal de la chimenea.
 - [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]] — Libro II, Parte II: Stavanger (origen de Kal, Henrik Solberg, propuesta). Canonizado desde la incubadora 2026-10-02; prosa BORRADOR, número pendiente.

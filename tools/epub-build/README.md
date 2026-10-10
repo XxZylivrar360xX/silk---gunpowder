@@ -12,6 +12,27 @@ Salida esperada:
 
 Requiere `pandoc` disponible en PATH.
 
+## Sombras de Poder — Libro II
+
+Para regenerar EPUB y PDF juntos, desde la raíz del vault:
+
+```powershell
+python -B .\tools\build_sombras.py
+```
+
+El lanzador reutiliza ambos generadores con la portada de *Sombras de Poder*, autor Víctor Paz, colección *Seda y Pólvora*, posición 2 e identificador EPUB fijo y distinto del Libro I. Selecciona únicamente `Part_01_Nieve_Y_Ceniza/01_Hogar.md`: el título visible y el índice dicen **Hogar**, tomado del manuscrito. El PDF conserva la presentación de **Borrador de lectura**.
+
+Salidas:
+
+- `tools/epub-build/output/Sombras_De_Poder.epub`
+- `output/pdf/Sombras_De_Poder.pdf`
+
+Para generar sólo el EPUB: `python -B .\tools\build_sombras.py --format epub`. Para generar sólo el PDF: `--format pdf`; acepta `--paper letter` y `--year 2026`.
+
+La lista `CHAPTERS` de `tools/build_sombras.py` controla la copia de lectura. Añadir ahí las rutas, relativas a `11_Books/Book_02_Sombras_De_Poder`, de los siguientes capítulos cuando el autor los incorpore. El orden sigue las carpetas y nombres de archivo. `Ya_Llego.md` queda fuera de esta selección: conserva notas internas y no forma parte de esta entrega.
+
+Ambos generadores aceptan `--chapter` repetible para seleccionar archivos de `Part_*`; una ruta inexistente, ajena al libro o duplicada detiene la exportación. Sin esa opción, conservan la recolección habitual del libro completo. `--identifier` permite distinguir cada libro y debe mantenerse fijo entre regeneraciones. Para *Sombras de Poder*, usar el lanzador evita heredar los valores predeterminados del Libro I.
+
 Notas:
 
 - Cuando ya hay capitulos en `Part_*`, la nota editorial de `00_Front_Matter` se omite por defecto para que el EPUB lea como novela.

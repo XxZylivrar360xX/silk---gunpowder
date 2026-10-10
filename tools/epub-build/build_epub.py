@@ -36,6 +36,9 @@ PART_TITLES = {
     "Part_01_Dos_Mundos": "Dos mundos",
     "Part_02_Con_Peores_Personas_He_Tratado": "Con peores personas he tratado",
     "Part_03_Ardizzone": "Ardizzone",
+    "Part_01_Nieve_Y_Ceniza": "Nieve y ceniza",
+    "Part_02_Exilio": "Exilio",
+    "Part_03_Torna_A_Casa": "Torna a casa",
 }
 CHAPTER_TITLE_RE = re.compile(
     r"^(#\s+)(?:Capítulo|Capitulo|Cap\.?)\s+\d+\s*(?:[—–:.-]\s*)?(.+)$",
@@ -107,8 +110,12 @@ def read_markdown(path: Path) -> str:
     return format_markdown(path.read_text(encoding="utf-8-sig"))
 
 
-def collect_folder(folder: Path, include_divider: bool) -> list[str]:
-    files = sorted(p for p in folder.glob("*.md") if p.is_file())
+def collect_folder(folder: Path, include_divider: bool,
+                   selected_files: set[Path] | None = None) -> list[str]:
+    files = sorted(
+        p for p in folder.glob("*.md")
+        if p.is_file() and (selected_files is None or p.resolve() in selected_files)
+    )
     if not files:
         return []
 
@@ -129,26 +136,48 @@ def collect_folder(folder: Path, include_divider: bool) -> list[str]:
     return sections
 
 
-def collect_part_sections(book_dir: Path) -> list[str]:
+def collect_part_sections(book_dir: Path,
+                          selected_files: set[Path] | None = None) -> list[str]:
     part_sections: list[str] = []
     part_dirs = sorted(
         d for d in book_dir.iterdir()
         if d.is_dir() and d.name.lower().startswith("part_")
     )
     for part_dir in part_dirs:
-        collected = collect_folder(part_dir, include_divider=True)
+        collected = collect_folder(part_dir, include_divider=True,
+                                   selected_files=selected_files)
         if collected:
             print(f"[{part_dir.name}]")
             part_sections.extend(collected)
     return part_sections
 
 
-def collect_manuscript(book_dir: Path, include_front_matter: bool) -> str:
-    if not book_dir.exists():
+def collect_manuscript(book_dir: Path, include_front_matter: bool,
+                       chapters: list[str] | None = None) -> str:
+    book_dir = book_dir.resolve()
+    if not book_dir.is_dir():
         raise SystemExit(f"Book folder not found: {book_dir}")
 
+    selected_files = None
+    if chapters is not None:
+        selected_files = set()
+        for chapter in chapters:
+            path = (book_dir / chapter).resolve()
+            if (not path.is_file() or path.suffix.lower() != ".md"
+                    or path.parent.parent != book_dir
+                    or not path.parent.name.lower().startswith("part_")):
+                raise SystemExit(
+                    f"Invalid chapter: {chapter}. Expected a Markdown file "
+                    f"directly inside a Part_* folder of {book_dir}."
+                )
+            if path in selected_files:
+                raise SystemExit(f"Duplicate chapter: {chapter}")
+            selected_files.add(path)
+
     sections: list[str] = []
-    part_sections = collect_part_sections(book_dir)
+    part_sections = collect_part_sections(book_dir, selected_files=selected_files)
+    if chapters is not None and not part_sections:
+        raise SystemExit("The chapter selection has no exportable prose.")
     front_matter = book_dir / "00_Front_Matter"
     if front_matter.exists() and (include_front_matter or not part_sections):
         print("[00_Front_Matter]")
@@ -165,13 +194,14 @@ def collect_manuscript(book_dir: Path, include_front_matter: bool) -> str:
 
 
 def build_frontmatter(title: str, subtitle: str, author: str, lang: str,
-                      year: str, series: str, series_position: str) -> str:
+                      year: str, series: str, series_position: str,
+                      identifier: str = BOOK_IDENTIFIER) -> str:
     lines = [
         "---",
         f'title: "{title}"',
         f'author: "{author}"',
         f"lang: {lang}",
-        f'identifier: "{BOOK_IDENTIFIER}"',
+        f'identifier: "{identifier}"',
         f'rights: "© {year} {author}. Todos los derechos reservados."',
         'toc-title: "Índice"',
     ]
@@ -256,6 +286,10 @@ def main() -> None:
     parser.add_argument("--year", default="2026")
     parser.add_argument("--series", default="Seda y Pólvora", help="Saga name for EPUB collection metadata.")
     parser.add_argument("--series-position", default="1")
+    parser.add_argument("--identifier", default=BOOK_IDENTIFIER,
+                        help="Stable, unique identifier for this book.")
+    parser.add_argument("--chapter", action="append",
+                        help="Chapter path relative to --book; repeat to select chapters.")
     parser.add_argument("--lang", default="es")
     parser.add_argument("--cover", default="99_Reference/book_covers/Mascaras_de_Cristal_VICTOR_PAZ.png")
     parser.add_argument("--css", default="tools/epub-build/epub_style.css")
@@ -276,9 +310,10 @@ def main() -> None:
 
     print(f"Building manuscript from {book_dir} ...")
     manuscript = build_frontmatter(args.title, args.subtitle, args.author, args.lang,
-                                   args.year, args.series, args.series_position)
+                                   args.year, args.series, args.series_position,
+                                   args.identifier)
     manuscript += build_credits_page(args.title, args.author, args.year) + "\n"
-    manuscript += collect_manuscript(book_dir, args.include_front_matter)
+    manuscript += collect_manuscript(book_dir, args.include_front_matter, args.chapter)
 
     manuscript_path = out_dir / f"{args.output_name}.manuscript.md"
     manuscript_path.write_text(manuscript, encoding="utf-8")

@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-10: **exportación de Sombras de Poder**. Lanzador EPUB/PDF con selección inicial de **Hogar**, portada y UUID propios del Libro II; primera copia de lectura generada. [[98_Agent_Handoff/sessions/2026-10-10_codex_para_claude_exportacion_sombras]]
 - 2026-10-09: **pase completo del Capítulo 1 de *Sombras de Poder***. Canon del autor: abre con POV de Kal, como espejo del final del Libro I, hasta «Ciao, bella»; se conserva la ropa limpia del Cap. 50. [[98_Agent_Handoff/sessions/2026-10-09_claude_sombras_cap01_pase_completo]]
 - 2026-10-09: **H23 — La boda de Kal y Chiara**. CANON DEL AUTOR: su canción de vals es *«Il Mondo»*. Libro, fecha, lugar y posición cronológica siguen pendientes. [[98_Agent_Handoff/sessions/2026-10-09_codex_para_claude_hito_boda_il_mondo]]
 - 2026-10-09: **mañana del Capítulo 1 de *Sombras de Poder***. Continuación del reencuentro: dos despertares, desayuno, alianza de Cross River/North Guard/El Faro y llamada muda de Lucía; cierre en la muerte de Fabrizio. Deltas del nuevo destino sin propagar. [[98_Agent_Handoff/sessions/2026-10-09_codex_sombras_cap01_manana_fabrizio]]
@@ -35,8 +36,6 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 - 2026-10-04 — CANON DEL AUTOR: Cap. 38, "Me queda una noche antes de irme." / "Bien. Entonces nos vamos a Italia." (sustituyen a "Me voy esta noche." / "Voy contigo."). Conversación del miedo integrada al Cap. 18 (DISEÑO). 2026-10-05: carta *La Notte Bellandi* (CANON DEL AUTOR) en el 37; conversación de la víspera en el 38 (DISEÑO). [[98_Agent_Handoff/sessions/2026-10-04_claude_dia_nublado_vispera_italia]]
 - 2026-10-04 — [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I_Tanda_2]]: segunda tanda de terceros (Héctor, Natalie, Marisol, Irene, Enzo, Harper, Lucía). CANON DEL AUTOR: Harper creció en rancho. Decisiones de cirugía en §5 (Héctor 16 sin ternura, que queda para el 24c; Lucía va al 15 a propósito; el imán en el refri del loft; Irene cobra el aviso). Fichas de voz nuevas y recalibradas; sin cambios en prosa.
 - 2026-10-04 — CANON DEL AUTOR: el favor de Rowe queda pendiente; La Casa se vendió por desocupada; Kal absorbe Eagle Eye (Libro II); se queda "Entonces que me vean contigo". Propagación de la reubicación del Corral y una línea en el Cap. 17. [[98_Agent_Handoff/sessions/2026-10-04_claude_propagacion_reubicacion_corral]]
-- 2026-10-04 — CANON DEL AUTOR: "El aura" de la pareja (juntos imponen: *perdón por mirarlos*; fundacional para los Libros II y III; relevo de la auditoría de terceros en [[98_Agent_Handoff/sessions/2026-10-04_claude_auditoria_dialogo_terceros]]) en [[06_Relationships/Kal_y_Chiara]]; bancos de vestuario de los Libros II–III en [[02_Characters/Kal_Mercer]] y [[02_Characters/Chiara_Bellandi]] (sólo ropa, sin cambiar rasgos).
-- 2026-10-04 — Cap. 34 *Mi pareja*: diálogo cómico del autor integrado y reconducido a la destilería (BORRADOR, pendiente de lectura). Apertura con Walt, llamadas a Dario (colgada), Danny (fallida), Nadir (canon H21) y Marisol (cierre). Bitácora en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]].
 
 ## Historial
 

@@ -1,10 +1,28 @@
 # Generador PDF
 
-Genera un PDF de lectura del manuscrito de *Máscaras de Cristal* desde las fuentes Markdown del vault.
+Genera un PDF de lectura desde las fuentes Markdown del vault; por defecto, *Máscaras de Cristal*.
 
 ```powershell
 python -B .\tools\pdf-build\build_pdf.py
 ```
+
+## Sombras de Poder
+
+El lanzador del Libro II regenera EPUB y PDF con la misma selección de capítulos:
+
+```powershell
+python -B .\tools\build_sombras.py
+```
+
+Para regenerar sólo el PDF:
+
+```powershell
+python -B .\tools\build_sombras.py --format pdf
+```
+
+La selección inicial incluye únicamente **Hogar**, en la Parte I — Nieve y ceniza. La salida es `output/pdf/Sombras_De_Poder.pdf`. Para incorporar capítulos posteriores, actualizar `CHAPTERS` en `tools/build_sombras.py`; instrucciones y metadatos en [[tools/epub-build/README]].
+
+El generador PDF también acepta `--chapter` repetible (rutas relativas a `--book`), `--series`, `--series-position` y `--identifier`. El lanzador ya fija estos valores para el Libro II. `--paper letter` cambia el tamaño del PDF sin alterar el EPUB.
 
 ## Requisitos
 
