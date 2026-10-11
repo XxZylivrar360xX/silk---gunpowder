@@ -20,13 +20,23 @@
 
 El libro cierra con el reencuentro de Kal y Chiara tras Camp Alder — **"Ciao, bella"**, última línea del Cap. 50 — y con la llegada de Halbrook a San Aurelio en el Cap. 50b, no con H1. ~~"Ciao, bella", Cap. 44~~ (superado 2026-10-01). Todo lo que sigue en este archivo ocurre **antes** de *Sombras de Poder* (Libro II), que a su vez precede a la Guerra de los Tres de *Voto de Ceniza* (Libro III) — ver [[00_Biblia/00_Trilogy_Structure]] y [[01_Timeline/01_Indice_Cronologico]].
 
+### Anclas de calendario
+
+- El Libro I abarca aproximadamente dieciséis meses: de mediados de septiembre del año 1 al **miércoles 5 de enero del año 3**. Fechas por capítulo y estaciones: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]].
+- En la elipsis del Cap. 10 pasan la Navidad del año 1 por separado; el 1 de enero, cumpleaños de Kal, él abre el taller como cualquier otro día y no le dice a Chiara qué fecha es.
+- Los Caps. 26–31 ocurren en septiembre del año 2.
+- Thanksgiving del año 2 cae el **25 de noviembre**, durante el Cap. 37, en La Esquina de Mabel.
+- La Navidad del año 2, Año Nuevo y el cumpleaños de Kal (1 de enero) pasan durante su cautiverio; el detalle del arco final está en la tabla de abajo.
+
 **Brújula de las tres Partes — DISEÑO, no diálogo narrativo:**
 
-| Parte | Una frase |
-|---|---|
-| I — Dos Mundos | Nos encontramos. |
-| II — Con Peores Personas He Tratado | Aprendemos a funcionar juntos. |
-| III — Ardizzone | Mientras Kal construye una mesa, las sillas alrededor de Chiara empiezan a desaparecer. |
+
+| Parte                               | Una frase                                                                               |
+| ----------------------------------- | --------------------------------------------------------------------------------------- |
+| I — Dos Mundos                      | Nos encontramos.                                                                        |
+| II — Con Peores Personas He Tratado | Aprendemos a funcionar juntos.                                                          |
+| III — Ardizzone                     | Mientras Kal construye una mesa, las sillas alrededor de Chiara empiezan a desaparecer. |
+
 
 ---
 
@@ -90,7 +100,6 @@ Nace aquí una idea que Parte III va a poner a prueba: **proteger al otro no con
 - *(capítulo puente, sin ID)* — [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Línea directa]] (Cap. 32): segundo escalón de Kal / [[02_Characters/Lucia_Varek|Lucia Varek]]; Eddie Sosa / Los Bravos; nace el canal directo Kal–Lucia; Chiara sabe que existe.
 - *(capítulo puente, sin ID)* — [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta|La periferia]] (Cap. 33): primera consecuencia lateral del pacto con Varek; Marisol / Kenji; Kal aplica el aprendizaje de preocuparse sin escoger por otro.
 - **H21 — Mi pareja** (Cap. 34): formalización verbal en el Audi de Kal, con Nadir en altavoz. Cierra la Parte II.
-
 - **Fuera de escena — la noche Marsh–Vera (CANON 2026-10-03):** entre la noche del taller del norte (Cap. 26) y el amanecer del Cap. 29, Blake Stanton mata a los padres Marsh, Dylan mata a la oficial Vera Kessler y Volpi limpia la escena y entrega al niño a Varek. Cuando Kal llega a la mansión, el niño está escondido ahí. El Libro I no lo muestra; sólo Vivian lo nombra en código (Cap. 29, PENDIENTE). Ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]].
 
 ### Movimiento Kal
@@ -122,15 +131,17 @@ Dos procesos simultáneos:
 
 **Espejo central:** Kal añade sillas. Chiara pierde sillas. Ambos parecen ganar poder. Ambos quedan atrapados de maneras distintas.
 
-| Kal | Chiara |
-|---|---|
-| suma personas | pierde personas |
-| aprende a delegar | absorbe funciones |
-| construye El Patio | el Monarch se vacía |
-| gana estructura propia | queda expuesta a estructuras heredadas |
-| parece rodeado | parece poderosa porque está sola |
 
-> **Orden de bloques — primer tercio de Ardizzone (confirmado por el autor, 2026-09-20).** Permite escribir varios capítulos sin volver a detenerse en arquitectura: `Cap. 35 (apertura, Matteo/Elio/carta, ya escrito) → H16 (cumpleaños/mudanza) → primer crecimiento paralelo (Kal + Dario, El Patio gana estructura, Chiara absorbe funciones de Matteo) → Chiara detecta la inconsistencia de mensajería → Bonnie comprueba el vehículo (la abordan / la siguen brevemente, informa a Kal) → F1, Bellandi Ridge (Kal descubre la mentira, discusión bajo lluvia) → Los Tres Días → reconciliación en el casino ("...por mucho que yo esté enamorado de ti...") → siguiente fase de presión de Ardizzone (H13 en adelante).` No fija numeración de capítulo para los bloques posteriores a 35 — ver regla de no inventar números, abajo. **SUPERSEDIDO en su tramo F1/H13 (2026-09-20, decisión del autor tras el Cap. 38):** H13 y Palermo van **antes** de la investigación de Matteo y F1; ver la nota "ORDEN NUEVO" en la sección del Cap. 38, abajo. El contenido de cada bloque no cambia, sólo su posición.
+| Kal                    | Chiara                                 |
+| ---------------------- | -------------------------------------- |
+| suma personas          | pierde personas                        |
+| aprende a delegar      | absorbe funciones                      |
+| construye El Patio     | el Monarch se vacía                    |
+| gana estructura propia | queda expuesta a estructuras heredadas |
+| parece rodeado         | parece poderosa porque está sola       |
+
+
+> **Orden vigente de Parte III:** Cap. 35 (Matteo/Elio), H16 / Cap. 36 (cumpleaños y mudanza), Caps. 37–38 (invitación, fiesta del yate, H13), H17 (Palermo), H18 (regreso por separado), investigación de Matteo / Bonnie, F1 (Cap. 42, sin resolver), H19 / Camp Alder (Cap. 43) y H20 / arco final sin Kal (Caps. 44–50b). Kal vuelve en el Cap. 50; Halbrook llega a San Aurelio en el 50b. Los detalles se vinculan a los capítulos vigentes abajo.
 
 ### Apertura de Parte III — el ritual del *Ciao* y la salida de Matteo
 
@@ -149,7 +160,7 @@ Chiara informa: **Matteo se fue abruptamente de San Aurelio** — su hermano **[
 
 **La carta:** nota funcional que Matteo deja — precipitada, razonable, administrativa, sin lenguaje siniestro. Sin "si algo me pasa", sin advertencias sobre La Mesa, Dario o Volpi. Para Chiara y el lector: un hombre que abandona temporalmente el trabajo porque su hermano desapareció.
 
-**Primer *"amore mio"*:** al terminar la llamada, Chiara dice *"Te veo ahora, amore mio."* — primera aparición importante del apodo tras formalizar la relación. Kal acusa el golpe emocional mínimamente; Nadir puede verlo; Kal mantiene la fachada pública.
+**Primer "amore mio":** al terminar la llamada, Chiara dice *"Te veo ahora, amore mio."* — primera aparición importante del apodo tras formalizar la relación. Kal acusa el golpe emocional mínimamente; Nadir puede verlo; Kal mantiene la fachada pública.
 
 **Reunión en el Monarch** (preferencia: despacho de Matteo, con la silla vacía sin que el narrador explique su simbolismo): Chiara le cuenta lo sucedido. Kal reacciona desde su propia experiencia con Matteo (quien lo llevó al Monarch en H2) — nota la salida como *atípica*, no sospechosa: *"Qué abrupto. ¿Él normalmente es así? A mí me dio una impresión diferente."* Ambos aceptan la explicación evidente. **Regla dura:** no convertir a Kal en detective omnisciente; no concluir conspiración, Mesa, Dario ni Volpi — sólo una conducta ligeramente impropia con una razón suficientemente poderosa.
 
@@ -169,15 +180,17 @@ Mueve **[[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial|H16
 
 > **ESCRITO (2026-09-20, Claude Code, BORRADOR, encargo detallado del autor).** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Capítulo 38]], POV único de Chiara con salto controlado a Kal en el aeropuerto. Curva: fiesta coral en un yate de La Isla (Monarch + Patio + Departamento + Dario + Fabrizio + Tommaso + Marisol; Matteo ausente, sentido en el brindis) → Blake Stanton vuelve como invitado legítimo del capitán, Chiara cierra ("Terminé contigo por ti") y lo hace acompañar a tierra; Kal interviene sólo después ("Yo lo acompaño" / "Ella me lo contará si quiere" / "Buenas noches, Stanton") → proa: Chiara le cuenta lo de Blake → salón: **Kal toca *Träumerei* (Schumann)** — primera revelación en prosa del piano, origen PENDIENTE → **Roma Atrii pagado**: ROMA al revés = AMOR; "Atrii" = **"Mi amor del patio"**, cifrado privado de Chiara; Kal repite "Del patio" y se lo guarda → **H13 ejecutado como recuerdo dramatizado** (iglesia, dos hombres, casa neutral, "signora Lusardi" / "—Ardizzone.", acusación, negación a medias, pañuelo con "C", bala, línea canon) → pañuelo y bala mostrados físicamente; Kal recibe la bala → Chiara: "Me queda una noche antes de irme" (CANON DEL AUTOR 2026-10-04) a Palermo, "no sé si voy a regresar íntegra"; la fiesta era también despedida privada → Kal: **"Voy contigo"** (**H17 activado**) → Kingsley Field, ~4:00 a. m., llamada de Marisol con las líneas canon y la última línea "—Espera... ¿cómo que estamos?".
 >
-> **ORDEN NUEVO — CANON DEL AUTOR (2026-09-20, decisión formal tras el Cap. 38).** Supersede el orden anterior de este archivo (F1 → Los Tres Días → reconciliación → H13 → Palermo). **Vigente:** `H16 (Cap. 36) → Cuatro letras (Cap. 37) → fiesta del yate / H13 (Cap. 38) → Palermo (H17) → regreso (H18) → investigación de Matteo / Bonnie → F1 (Bellandi Ridge) → Los Tres Días → reconciliación en el casino (primer "estoy enamorado de ti") → recuperación breve → Camp Alder (H19).` Razón del autor: F1 pesa más después de Palermo — Blake y la bala ya establecieron que Chiara normalmente sí le cuenta las cosas a Kal, así que su "Nada" sobre Matteo será mucho más grave. La nota "Orden de bloques" de arriba y la sección F1 de abajo quedan corregidas con esta misma nota; la tabla de orden de [[06_Relationships/Hitos]] (H16 → H13 → H17 → H18) ya era compatible y no cambia. F1 sigue sin ID de hito.
+> **Orden de Parte III (CANON DEL AUTOR, actualizado tras el Cap. 38):** H13 y Palermo preceden a la pesquisa de Matteo y a F1. F1 sigue sin ID de hito y no se resuelve antes de que Kal entre a Camp Alder. La reparación queda para el Libro II.
 
 ### Ascenso de Kal / construcción de El Patio
 
 Kal opera progresivamente junto a Dario y aprende coordinación de bandas, intermediación, administración criminal, cuándo resolver personalmente y cuándo direccionar policía, logística, favores o terceros — cómo convertir utilidad en dependencia.
 
-| Dario | Kal |
-|---|---|
+
+| Dario                             | Kal                                                     |
+| --------------------------------- | ------------------------------------------------------- |
 | `miedo → obediencia → estructura` | `utilidad → deuda/confianza → dependencia → estructura` |
+
 
 **Incorporación progresiva** — proteger la formación visible de El Patio alrededor de [[02_Characters/Hector_Navarro|Héctor]], [[02_Characters/Nadir_Amrani|Nadir]], [[02_Characters/Daniel_Hayes|Danny]], [[02_Characters/Walter_Keegan|Walt]], [[02_Characters/Harper_Walker|Harper]], [[02_Characters/Tyler_Brooks|Tyler]], [[02_Characters/Mei_Lin_Zhao|Mei Lin]], [[02_Characters/Bonnie_Garcia|Bonnie]] y demás miembros vigentes de [[03_Factions/El_Patio]].
 
@@ -192,25 +205,11 @@ Kal opera progresivamente junto a Dario y aprende coordinación de bandas, inter
 
 **Idea emocional de Chiara (construir sin verbalizar pronto):** *"Todos cerca de mí se van."* No hacerla decir esto con Matteo, ni necesariamente con Fabrizio, ni gastarlo con Tommaso — el pensamiento existe primero como sensación y patrón. Parte III construye progresivamente una falsa asociación emocional: *cada vez que su relación con Kal se vuelve más sólida, alguien más desaparece de su vida.* Esto **no es una verdad causal** — es la interpretación emocional de Chiara.
 
-### F1 — La mentira bajo la lluvia, y la reconciliación
+### F1 — La mentira sobre Matteo y la fractura
 
-> **SUPERSEDIDO EN PARTE (2026-09-21, CANON DEL AUTOR — manda [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]).** Se conservan detonante y causa (Matteo / mensajería / Bonnie / "Nada") y la posición después de Palermo. Cambia: (1) F1 ocurre **en el penthouse, de noche, la víspera de Camp Alder** — Kal en el sillón, Chiara recargada en la mesa cruzando la sala; Bellandi Ridge bajo la lluvia queda retirado; (2) la línea del peldaño 2 se dice **en la pelea**, adaptada: *"Por mucho que yo esté enamorado de ti, soy fiel a mis convicciones, a mi gente y a mí mismo"*; (3) **no hay reconciliación antes de Camp Alder**: ni casino, ni "Tenemos que hablar", ni recuperación breve. Kal duerme en el loft, Chiara en el penthouse, y al día siguiente Kal cae preso. Los Tres Días = los tres días separados (F1 → arresto → loft). **La reconciliación abre el Libro II — Sombras de Poder** (antes: "abre la Parte IV"). Chiara recurre a Bonnie **porque** volvieron de Palermo a mitad de camino uno del otro — Palermo es la causa de fondo de la mentira.
+F1 ocurre **después del regreso de Palermo (H18), en la víspera de Camp Alder (H19)**. Matteo se fue antes del viaje; al cubrir sus funciones, Chiara detecta una ruta de mensajería irregular en documentos enviados desde Génova. Investiga con Bonnie y le pide discreción. Cuando Bonnie localiza la camioneta en Almendra Towing, un hombre la aborda y luego otro vehículo la sigue; Bonnie informa a Kal porque el riesgo ya toca el territorio del Patio.
 
-> **CANON DEL AUTOR (2026-09-20, posición actualizada el mismo día tras el Cap. 38).** F1 vive dentro de Parte III, **después del regreso de Palermo (H18)** y **antes de Camp Alder (H19)**. La versión de horas antes ("antes de H13 / Palermo") queda supersedida: el Cap. 38 ejecuta H13 y activa Palermo con F1 sin escribir, y el autor confirmó formalmente el nuevo orden — F1 pesa más cuando Blake y la bala ya mostraron que Chiara sí le cuenta las cosas a Kal. Ver [[06_Relationships/Momentos_de_Fractura#F1 - La mentira bajo la lluvia|Momentos_de_Fractura, F1]] para el historial completo de versiones.
-
-Chiara no logra dejar quieta la salida de Matteo. Sin saber nada de Nereo Volpi, Dario ni La Mesa, investiga discretamente y nota una inconsistencia pequeña: la documentación que hizo salir a Matteo no llegó directamente desde Génova — pasó antes por un servicio de mensajería comercial de San Aurelio antes de llegar al Monarch. No prueba nada, pero le molesta — conecta con su habilidad real: detecta cómo circula la información, no huellas forenses. El vehículo del mensajero queda registrado en una cámara del Monarch: modelo, color, matrícula (parcial o completa) y empresa asociada — nada apunta a Volpi, la empresa puede ser perfectamente real. Para que le encuentren el coche y digan quién lo usa, recurre a **[[02_Characters/Bonnie_Garcia|Bonnie García]]** — entiende vehículos y calle — y comete el error de pedirle que Kal no se entere todavía. Chiara cree que protege a Kal, al Patio, a Matteo, a Bonnie y su frente italiano; en realidad decide por Kal qué riesgo de su propia gente merece conocer (la regla de Parte II: *proteger no concede derecho a decidir por otro*).
-
-Kal le pregunta directamente algo equivalente a *"¿Supiste algo de Matteo?"* Chiara contesta *"Nada"* — mintiendo, porque ya tiene una pista y probablemente ya involucró a Bonnie. Bonnie localiza el coche en Almendra Towing — el peligro se mueve al territorio de Kal, no al de Chiara — cuando un hombre la aborda sin amenaza explícita ("¿Buscas a alguien?" / "Entonces ya encontraste lo que buscabas") y se va; después otro coche la sigue varias calles antes de que lo pierda. Demuestra, sin identificarse, que ya sabe quién es (puede sugerirse razonablemente como alguien de Nereo Volpi, nunca confirmarse). Eso la obliga a informarle a Kal — no traiciona a Chiara, dice la verdad porque el riesgo ya toca la seguridad del Patio. Kal reconstruye la mentira.
-
-Estalla **F1**, bajo la lluvia, en [[05_Locations/Bellandi_Ridge_Vineyards|Bellandi Ridge Vineyards]] — Kal de traje, Chiara de vestido, vestidos para un evento al que ya no llegan. El daño no es que buscara a Matteo, ni que usara a Bonnie: es que le preguntó directamente y ella decidió mentirle. Kal responde desde su principio fundamental — Bonnie también es su gente; no puede decidir sola qué riesgo de su propia gente le concierne a él.
-
-**Los Tres Días** (ver [[06_Relationships/Los_Tres_Dias]]): no se separan, pero viven tres días como desconocidos — interacciones útiles, rutinas partidas, sin contarse el día. **Terminan antes de Camp Alder**, no durante.
-
-**Reconciliación:** Chiara se cruza con Kal en público, no hablan; después escribe *"Tenemos que hablar."* En el casino arreglan el problema — Chiara admite que mintió para administrar el problema, Kal admite que su silencio también lastima. Ahí Kal suelta, a media discusión, su primer *"estoy enamorado de ti"* (peldaño 2 de la escalera emocional — ver [[06_Relationships/Kal_y_Chiara]], "La escalera de lo que se permiten decir"):
-
-> **— Podré tener mil problemas encima, y por mucho que yo esté enamorado de ti, no hay un "fuera mi gente", eso no se negocia.**
-
-**Recuperación breve antes de Palermo:** una señal pequeña de que se recuperaron — probablemente el regreso de la costumbre central (Kal vuelve a contarle el día). **PENDIENTE**, escena exacta sin fijar; sólo la función queda registrada. Cuando llegue H19/Camp Alder, Kal y Chiara **ya están bien** — ver nota en H19, abajo.
+Kal pregunta a Chiara por Matteo y ella responde *"Nada"*. Al reconstruir que le ocultó la investigación y decidió por él qué riesgo debía conocer, discuten esa noche en el penthouse. La fractura queda **sin resolver** al cierre del capítulo: Kal se va al loft y Chiara se queda. No hay reconciliación en el Libro I ni traslado de «Los Tres Días» a esta secuencia; la reconciliación abre *Sombras de Poder* (Libro II). Ver [[06_Relationships/Momentos_de_Fractura#F1 - La mentira bajo la lluvia|Momentos_de_Fractura, F1]] y los Caps. 41–42.
 
 ### H13 — El pañuelo / Il Consorzio
 
@@ -220,23 +219,21 @@ Estalla **F1**, bajo la lluvia, en [[05_Locations/Bellandi_Ridge_Vineyards|Bella
 
 ### H17 — Palermo / Mesa de las Familias
 
-> **ACTIVADO en prosa (2026-09-20):** el Cap. 38 cierra con Kal y Chiara en Kingsley Field a las cuatro de la mañana, a punto de volar a Palermo. Nada del viaje está escrito. **Orden nuevo (decisión del autor, 2026-09-20):** F1 ocurre **después** del regreso de Palermo, así que viajan **sin** F1 a cuestas — la frase "ya reconciliados de F1" de abajo queda retirada.
+> **En prosa:** el Cap. 38 cierra con Kal y Chiara en Kingsley Field, a punto de volar a Palermo. El viaje ocupa los Caps. 39–41; F1 ocurre después del regreso, en el Cap. 42.
 
-Kal y Chiara viajan juntos, ~~ya reconciliados de F1~~ (F1 todavía no ha ocurrido — ver nota). La presencia de Kal tiene peso político; La Mesa empieza a comprender que no es temporal. Chiara llega ya debilitada por los espacios vacíos alrededor suyo. Debe producir presión institucional y tensión real entre ellos — **fricción, no una fractura equivalente a F1**; no repetir la mentira ni crear otros "Tres Días". **No inventar** motivo formal de la convocatoria, decisión de la Mesa ni quién humilla a quién — arco reservado.
+Kal acompaña a Chiara a Palermo. Su presencia tiene peso político; La Mesa empieza a comprender que no es temporal. El viaje produce presión institucional y tensión entre ellos, pero no una fractura equivalente a F1. El motivo formal de la convocatoria y la decisión de la Mesa permanecen sin fijar.
 
 ### H18 — El regreso de Palermo
 
 > **PRECISIÓN (2026-09-21, CANON DEL AUTOR):** regresan **separados**, mismo día — Kal primero, solo, en vuelo comercial a Kingsley Field (Marisol lo recibe; "Chiara se quedó un par de días más en la villa"); Chiara al atardecer, avión privado, **cabello corto** ([[99_Reference/character_art/Chiara_Bellandi_Invierno.png]]), y va **al penthouse, no al loft**. "Regresan juntos", abajo, queda retirado. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
+>
+>
 
-Regresan juntos, emocionalmente tensos, no separados. El problema de Palermo queda vivo; la relación funciona pero con un nervio expuesto. **Regla:** no contradice que Kal y Chiara no se separan — es distancia y fricción, no ruptura, no un eco de F1. La formalización verbal (H21, "Mi pareja") ya ocurrió mucho antes, en Parte II.
+Regresan el mismo día **por separado**: Kal vuelve primero en vuelo comercial; Chiara permanece unos días más en Palermo y llega al atardecer en avión privado, al penthouse. La distancia es logística, no ruptura; el problema de Palermo sigue abierto. H21, «Mi pareja», ya ocurrió en la Parte II.
 
 ### H19 — El asalto a Camp Alder
 
-> **SUPERSEDIDO EN PARTE (2026-09-21, CANON DEL AUTOR):** F1 **no** está resuelta cuando Kal entra a Camp Alder — fue la noche anterior. La mañana de la incursión, mientras Nadir, Héctor, Danny y Garrett se alistan, Kal se ausenta unos minutos y va por reflejo al penthouse; todo lo ocurrido lo detiene en la puerta. Dario aporta sólo el **mecanismo de distracción** (un disturbio que aleja a los soldados); entran Kal y los chicos. Garrett pilota; **Héctor jala a Nadir al helicóptero**, abandonando simbólicamente a Kal. La municipal lo detiene por el disturbio; la base lo reclama por jurisdicción federal y lo trasladan a Camp Alder mismo. El párrafo "No porque estén peleados — ya no lo están", abajo, queda retirado. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
-
-Kal ejecuta la operación diseñada en H6: extraer el expediente clasificado de un soldado ajeno a la trama (objeto transaccional puro) y robar armas largas para el mercado negro — pagando así, en la misma operación, la promesa hecha a Varek. Héctor y Nadir en riesgo; Garrett pilota la extracción; ~~Kal se entrega para cubrirlos~~ Kal cubre a Danny y se queda; la policía municipal lo detiene cerca del perímetro y la base lo reclama por jurisdicción federal (Cap. 43, ver la nota de arriba).
-
-Antes de entrar en la operación, Kal está cerca del Monarch / Chiara. Podría verla. **No entra** — porque sabe que si la ve, ella lo detendrá y no hará la misión; verla convertiría la obligación abstracta en una elección consciente contra alguien que ama. **No porque estén peleados — ya no lo están:** F1 se resolvió y hubo tiempo de recuperar la cotidianeidad antes de esto. No confundir esta escena con un eco de F1.
+La mañana siguiente a F1, Kal decide no tocar la puerta del penthouse y participa en la operación de Camp Alder, que cumple la promesa hecha a Varek en H6: extraer un expediente y sacar armas largas. Dario aporta la distracción; Garrett pilota la extracción. Kal se queda atrás para cubrir la salida de Danny y es detenido primero por la policía municipal; la base reclama jurisdicción federal y lo traslada a Camp Alder (Cap. 43). **F1 sigue abierta** cuando Kal entra en custodia. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/43_La_Puerta]] y el [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
 
 ### H20 — Fracaso de Chiara
 
@@ -248,15 +245,15 @@ Kal queda detenido bajo autoridad militar. Chiara intenta sacarlo y agota, suces
 
 > **SUPERSEDIDO EN PARTE (2026-10-01/02, CANON DEL AUTOR; ejecutado en el Cap. 50 y el 50b, BORRADOR):** (1) Chiara no "vuelve al penthouse" e intenta entrar: maneja derrotada al Monarch en el Lancia tras saber que el convoy iba vacío; el sur se apaga cuando se detiene bajo la marquesina; **el monólogo arranca dentro del Lancia** ("Claro… Lo que me faltaba…", con "Ma dai") y sube de tono arriba, frente al cuadro del lago (H7). (2) Columna canon completa: *Me dejas acercarme a él. / Me dejas abrirme con él. / Me dejas enamorarme de él. / Ni siquiera me dejas pedirle perdón. / ¿Y ahora lo apartas de mí? / ¡¿Qué más quieres de mí?!* (3) Se lleva el cuadro al loft: el gesto es la comprensión. (4) "Ciao, bella" cierra el **Cap. 50**, no el libro; el **50b** cierra el Libro I. (5) **Halbrook sí pisa San Aurelio** en el 50b: aterriza en Kingsley Field al alba. El apagón sigue siendo suyo y sigue siendo la ventana de salida; nadie lo conecta en el Libro I. (6) La respuesta de Chiara abre *Sombras de Poder*, no un "Cap. 45". Lo de abajo se conserva como historial donde choque.
 
-> **ACTUALIZADO (2026-09-21, CANON DEL AUTOR — ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]).** (1) La línea central *"Justo acabo de recuperarlo, y lo apartas de mí"* queda **RETIRADA**: Chiara no lo recuperó — F1 sigue abierta y pasó tres días sin buscarlo. **Nueva línea central — CANON DEL AUTOR (2026-09-21): *"Ni siquiera me dejas pedirle perdón."*** (entre *enamorarme de él* y *¿Y ahora lo apartas de mí?*). Sentido: *me lo diste, lo dejé ir tres días por una pelea, y una institución me lo quita antes de que pueda arreglarlo.* La progresión *Me dejas acercarme… / ¿Y ahora lo apartas de mí?* sigue canon. (2) **Tommaso no entra en el monólogo**: todavía vive (muere al abrir *Sombras de Poder*). (3) **Corte de Parte — confirmado por el autor el mismo día:** la luz vuelve y el *"Ciao, bella"* es la última línea de la Parte III, exactamente como está abajo. (Una lectura provisional del agente "a oscuras" quedó retirada en minutos.) (4) **CANON DEL AUTOR (2026-09-22):** este cierre de Parte III es también el **cierre del Libro I**. El Cap. 45 en adelante (reconciliación, Tommaso, Ren Wei…) pertenece a *Sombras de Poder* (Libro II) — ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]].
+> **HISTÓRICO SUPERSEDIDO (2026-09-21):** esta versión asumía que F1 seguía abierta durante tres días antes de una reconciliación y que Kal volvía de la detención después de esa reparación. La secuencia vigente no contiene esa reconciliación en el Libro I: F1 ocurre la víspera de Camp Alder y queda abierta hasta el Libro II. Se conserva este bloque sólo para rastrear el cambio de diseño.
 
 > **DISEÑO NUEVO de esta sesión, sin mecanismo fijado.** La misma noche: Kal sigue oficialmente detenido; Chiara vuelve al penthouse; tres instalaciones de energía del sur fallan casi simultáneamente y gran parte del sur de San Aurelio queda sin electricidad. **No explicar la ingeniería del apagón ni escribir procedimiento operativo aquí.** Narrativamente, el apagón parece al inicio otro golpe de una noche insoportable. **Autoría — CANON DEL AUTOR (2026-09-21): el apagón es de Halbrook**, que no pisa San Aurelio y lo provoca desde fuera para sacar a Kal de Camp Alder (Kal sólo sabe: luces fuera, bolsa de tela, loft). **Revelación reservada a *Voto de Ceniza*** (Libro III); en el Libro I nadie lo conecta. Ver [[06_Relationships/Hitos#H20 — Consecuencia: Halbrook / prisión militar / Lucia|H20]].
 
 **Monólogo con Dios:** el apagón dispara la explosión emocional de Chiara justo cuando intenta encender la luz / entrar al penthouse. El penthouse representa Monarch, estructura, poder, responsabilidades, las sillas que perdió.
 
-> **ACTUALIZADO (2026-09-20, decisión del autor — sustituye la versión de la sesión anterior).** Nueva línea central del monólogo: **"Justo acabo de recuperarlo, y lo apartas de mí."** La palabra *recuperarlo* carga F1, Los Tres Días, Palermo y la recuperación de la cotidianeidad — Chiara acaba de reparar, con esfuerzo real, la única relación que decidió conservar, y una estructura externa se la vuelve a quitar.
->
-> **IMPORTANTE — el monólogo no es duda sobre la relación.** No significa *"¿seguimos juntos?"*. Significa: *hice el trabajo, lo recuperé, nos encontramos de nuevo, y aun así el mundo me lo quitó.* Eso vuelve más cruel el tema de fondo: `Todos se van.`
+> **HISTÓRICO SUPERSEDIDO (2026-09-20):** la frase "Justo acabo de recuperarlo" y la idea de una reconciliación previa ya no corresponden a la cronología vigente.
+
+**Versión vigente, contrastada con el Cap. 50:** Chiara empieza el monólogo en el Lancia durante el apagón y lo continúa frente al cuadro en el penthouse. La columna incluye *"Ni siquiera me dejas pedirle perdón"*: F1 sigue sin reparación y ella quiere enmendarla antes de que la detención vuelva imposible hablar con Kal. El monólogo no pone en duda que sigan siendo pareja. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/50_A_Oscuras]] y el [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
 
 Chiara pelea con Dios sin perder la fe — le grita porque cree que Él está ahí. Progresión acumulada (**CANON DEL AUTOR, 2026-09-20 — sustituye la versión anterior que usaba "amarlo"**):
 
@@ -290,7 +287,7 @@ Parte III construye: **"Todos cerca de mí se van."** Pero Kal debe convertirse 
 
 ### Condición de salida — Parte III / Libro I
 
-Kal: rodeado, con estructura propia (El Patio) y una frontera moral cruzada por delante (Ren Wei, ya en Libro II). Chiara: sola en apariencia de fuerza, con Matteo, Fabrizio (en retirada) y Tommaso (a punto de morir) fuera de su alcance, y sólo Dario como constante. F1 demostró que Kal y Chiara pueden herirse y aun así elegir volver — por eso Camp Alder hace algo peor: no logra que Kal decida irse; una institución simplemente se lo lleva. Ambos acaban de sobrevivir la primera vez que la detención de uno puso a prueba todos los recursos del otro. El Libro I termina aquí, con la pareja reunida pero sin resolver Palermo, Tommaso, ni lo que Kal le debe a quien lo sacó de Camp Alder.
+Kal: rodeado, con estructura propia (El Patio) y una frontera moral por cruzar (Ren Wei, ya en Libro II). Chiara: sola en apariencia de fuerza, con Matteo, Fabrizio (en retirada) y Tommaso fuera de su alcance, y sólo Dario como constante. F1 queda abierta cuando una institución se lleva a Kal; Chiara agota sus recursos durante H20 y él vuelve en el Cap. 50. El Libro I termina con la pareja reunida, sin resolver Palermo, la muerte de Tommaso ni la deuda de Kal con quien lo sacó de Camp Alder.
 
 ---
 
@@ -298,17 +295,19 @@ Kal: rodeado, con estructura propia (El Patio) y una frontera moral cruzada por 
 
 > **CANON DEL AUTOR (2026-10-01/02; calendario 2026-10-06).** Fuente: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Sólo POV de Chiara salvo el 50b. Cada puerta cuesta más que la anterior, y al final lo que paga ya no es dinero. Los ocho capítulos están en BORRADOR.
 
-| Cap. | Fechas (año 2) | Acontecimiento |
-|---|---|---|
-| 43 | dom 19 dic | Camp Alder (H19). Arresto municipal; la base lo reclama. |
-| 44 *Jurisdicción* | lun 20 – mar 21 dic | **La institución.** Héctor: "Kal no salió". Abogados del Monarch, Krane, fianza, ayuntamiento, Connors, Rowe. La municipal lo pierde por la reclamación federal. "Ya no lo tiene la ciudad"; Lucía: "Puedo averiguar si lo trasladan." |
-| 45 *Ropa limpia* | mié 22 – ~mié 29 dic | **Su red.** Kenji, Mabel, Bonnie y Mei-Lin. La recepción de la Torre Norte ("el señor Mercer subió y no tocó"); Chiara manda borrar la grabación. Prueba de vida por Rosaura, de la lavandería de la base. La Navidad pasa sin Kal. |
-| 46 *Llaves* | jue 30 dic | **Los de Kal.** El Patio la recibe frío; Nadir carga el helicóptero; las llaves; Garrett la prueba. Chiara cita al hombre de Dario y le da la noticia a Marisol. |
-| 47 *Intereses* | vie 31 dic – sáb 1 ene | **Dario.** Las armas largas y el pago en la bodega nueve del Puerto Viejo. Dario cobra intereses; Chiara no deja que los pague el barrio y queda debiendo **una cuenta abierta**, personal ("A él no"). Lucía da la fecha del traslado: el martes en la noche, por tierra. Año Nuevo y cumpleaños de Kal. |
-| 48 *Su nombre* | sáb 1 – lun 3 ene | **Los Bravos.** Mabel es el puente; en La Golondrina, Chiara contrata con Rafe Domínguez el asalto al convoy en el puente de la cementera. El precio es su nombre en persona: Maribel anota "Chiara Bellandi". Mei-Lin está en la mesa (siembra muda). |
-| 49 *Enfrente* | lun 3 – mar 4 ene | **Il Consorzio.** Valenti, en el Hotel Pacífica, enfrente del Monarch, niega ayuda (Kal es interesante, no necesario) y le ofrece ser dueña legítima del Monarch. Ella no contesta. |
-| 50 *A oscuras* | mar 4 – mié 5 ene, madrugada | El asalto ocurre y Kal no iba en el convoy (señuelo de Halbrook). El apagón del sur, el monólogo, el cuadro, el loft, la Beretta. **"—Ciao, bella."** Kal vuelve en la madrugada del miércoles. |
-| 50b *La tierra bajo sus botas* | mié 5 ene, alba | Narrador externo. Halbrook, sin nombrar, aterriza en Kingsley Field; un hombre delgado de traje le entrega una carpeta de fotos del ecosistema de Kal, con "Chiara Bellandi" al reverso de una. Su sonrisa cierra el libro. |
+
+| Cap.                           | Fechas (año 2)               | Acontecimiento                                                                                                                                                                                                                                                                                                                      |
+| ------------------------------ | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 43                             | dom 19 dic                   | Camp Alder (H19). Arresto municipal; la base lo reclama.                                                                                                                                                                                                                                                                            |
+| 44 *Jurisdicción*              | lun 20 – mar 21 dic          | **La institución.** Héctor: "Kal no salió". Abogados del Monarch, Krane, fianza, ayuntamiento, Connors, Rowe. La municipal lo pierde por la reclamación federal. "Ya no lo tiene la ciudad"; Lucía: "Puedo averiguar si lo trasladan."                                                                                              |
+| 45 *Ropa limpia*               | mié 22 – ~mié 29 dic         | **Su red.** Kenji, Mabel, Bonnie y Mei-Lin. La recepción de la Torre Norte ("el señor Mercer subió y no tocó"); Chiara manda borrar la grabación. Prueba de vida por Rosaura, de la lavandería de la base. La Navidad pasa sin Kal. Las etiquetas D del manuscrito desde este capítulo se leen con +7 días, según el plan del arco. |
+| 46 *Llaves*                    | jue 30 dic                   | **Los de Kal.** El Patio la recibe frío; Nadir carga el helicóptero; las llaves; Garrett la prueba. Chiara cita al hombre de Dario y le da la noticia a Marisol.                                                                                                                                                                    |
+| 47 *Intereses*                 | vie 31 dic – sáb 1 ene       | **Dario.** Las armas largas y el pago en la bodega nueve del Puerto Viejo. Dario cobra intereses; Chiara no deja que los pague el barrio y queda debiendo **una cuenta abierta**, personal ("A él no"). Lucía da la fecha del traslado: el martes en la noche, por tierra. Año Nuevo y cumpleaños de Kal.                           |
+| 48 *Su nombre*                 | sáb 1 – lun 3 ene            | **Los Bravos.** Mabel es el puente; en La Golondrina, Chiara contrata con Rafe Domínguez el asalto al convoy en el puente de la cementera. El precio es su nombre en persona: Maribel anota "Chiara Bellandi". Mei-Lin está en la mesa (siembra muda).                                                                              |
+| 49 *Enfrente*                  | lun 3 – mar 4 ene            | **Il Consorzio.** Valenti, en el Hotel Pacífica, enfrente del Monarch, niega ayuda (Kal es interesante, no necesario) y le ofrece ser dueña legítima del Monarch. Ella no contesta.                                                                                                                                                 |
+| 50 *A oscuras*                 | mar 4 – mié 5 ene, madrugada | El asalto ocurre y Kal no iba en el convoy (señuelo de Halbrook). El apagón del sur, el monólogo, el cuadro, el loft, la Beretta. **"—Ciao, bella."** Kal vuelve en la madrugada del miércoles.                                                                                                                                     |
+| 50b *La tierra bajo sus botas* | mié 5 ene, alba              | Narrador externo. Halbrook, sin nombrar, aterriza en Kingsley Field; un hombre delgado de traje le entrega una carpeta de fotos del ecosistema de Kal, con "Chiara Bellandi" al reverso de una. Su sonrisa cierra el libro.                                                                                                         |
+
 
 **Herencias para el Libro II (DISEÑO salvo donde se indica):** la cuenta abierta con Dario (CANON: se cobra en *Sombras de Poder*); Rafe y los Bravos cargan con el convoy federal y con lo que saben de Chiara; la oferta del Monarch sigue viva (PENDIENTE Q24); el nombre de Chiara entró en el radar de Halbrook (CANON: se paga en la gala); Mei-Lin informa a su contacto (por canon, Tommaso). Registro: [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]], "Deudas heredadas del Libro I", y [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]].
 

@@ -32,7 +32,7 @@ Mapa de navegación de *Seda y Pólvora*. Este índice apunta a las fuentes vige
 - **Conceptos:** [[04_Concepts/La_Guerra_de_los_Tres]] · [[04_Concepts/El_Territorio_y_El_Relato]].
 - **Lugares:** [[05_Locations/Mapa_Operativo_de_San_Aurelio]] · [[05_Locations/San_Aurelio]] · [[05_Locations/Norte_Rural_de_San_Aurelio]].
 - **Relaciones:** [[06_Relationships/Kal_y_Chiara]] · [[06_Relationships/Hitos]] · [[06_Relationships/Momentos_de_Fractura]].
-- **Ideas y escenas:** [[07_Ideas/README]] · [[07_Ideas/Escenas_Guia/README]] · [[08_Scenes/README]].
+- **Ideas e incubación:** [[07_Ideas/README]] · [[07_Ideas/Escenas_Guia/README]] · [[07_Ideas/Incubacion_Escenas/README]].
 - **Oficio y auditoría:** [[12_Craft_Policies/README]] · [[12_Craft_Policies/CHAPTER_STATUS]] · auditorías humanas en 13_Auditorias/.
 
 ## Operación y referencias

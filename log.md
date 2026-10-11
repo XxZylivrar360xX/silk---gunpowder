@@ -4,6 +4,8 @@ El detalle se guarda una sola vez en notas de sesi√≥n. Este archivo es navegaci√
 
 ## Sesiones recientes
 
+- 2026-10-11: [[98_Agent_Handoff/sessions/2026-10-11_codex_para_claude_timeline_libro_i]]
+- 2026-10-11: [[98_Agent_Handoff/sessions/2026-10-11_codex_migracion_08_scenes_a_incubacion]]
 - 2026-10-10: [[98_Agent_Handoff/sessions/2026-10-10_codex_mantenimiento_vault]]
 
 - 2026-10-10: [[98_Agent_Handoff/sessions/2026-10-10_codex_para_claude_exportacion_sombras]]
@@ -35,8 +37,6 @@ El detalle se guarda una sola vez en notas de sesi√≥n. Este archivo es navegaci√
 - 2026-10-05: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente_4_Camp_Alder]]
 - 2026-10-05: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]]
 - 2026-10-05: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Narrador_Tesis_Resenas_ChatGPT]] ¬∑ [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Marisol_Detector_Infalible]]
-- 2026-10-04: [[98_Agent_Handoff/sessions/2026-10-04_claude_dia_nublado_vispera_italia]]
-- 2026-10-04: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I_Tanda_2]]
 
 ## Historial
 

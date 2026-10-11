@@ -44,3 +44,5 @@
 - 2026-10-01 — [[98_Agent_Handoff/sessions/2026-10-01_reconstruccion_cap28_macroarco_corral_trato|Cap. 28 reconstruido sobre la conversación de la fuente; macroarco corral → trato; cascada en 25, 26, 29, 30, H6 y el taller del norte (propiedad de Kal)]]
 
 - 2026-10-04: [[98_Agent_Handoff/sessions/2026-10-04_claude_propagacion_reubicacion_corral]]
+- 2026-10-04: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I_Tanda_2]]
+- 2026-10-04: [[98_Agent_Handoff/sessions/2026-10-04_claude_dia_nublado_vispera_italia]]

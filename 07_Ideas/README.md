@@ -1,5 +1,10 @@
 # Ideas sin clasificar
 
+## Incubadoras
+
+- [[07_Ideas/Incubacion_Escenas/README]] — borradores de escenas auxiliares, organizados por el libro al que pertenecen.
+- [[07_Ideas/Libro_04_Incubadora/README]] — diseño del ciclo de Elenna (el nombre conserva su numeración histórica).
+
 ## Escenas guia
 
 [[07_Ideas/Escenas_Guia/README]] conserva momentos que el autor ya puede ver con claridad: acciones, imágenes, diálogo indispensable y función emocional. Sirven como brújula para la prosa futura, **no** como boceto rígido ni capítulo adelantado.

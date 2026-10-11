@@ -33,4 +33,4 @@ Elenna camina hacia Chiara riendo y mostrando el primer diente que apenas le sal
 
 ## Material narrativo autorizado
 
-> **ENCARGO EXPRESO DEL AUTOR (2026-09-12):** existe un borrador de exploración, no canónico ni de manuscrito, en [[08_Scenes/Book_03/Tornare_A_Casa_Material_Narrativo]]. No resuelve los pendientes de esta guía.
+> **ENCARGO EXPRESO DEL AUTOR (2026-09-12):** existe un borrador de exploración, no canónico ni de manuscrito, en [[07_Ideas/Incubacion_Escenas/Libro_04_Cuentas_De_Sangre/Tornare_A_Casa_Material_Narrativo]]. No resuelve los pendientes de esta guía.

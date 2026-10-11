@@ -13,7 +13,7 @@ Integrar al vault el material de `07_Ideas/Libro_04_Incubadora/` **sin convertir
 1. Lee primero:
    - `07_Ideas/Arco_Elenna_Libro_04.md`
    - `07_Ideas/Tres_Hermanas_Epilogo.md`
-   - `08_Scenes/Book_03/Tres_Hermanas_Material_Narrativo.md`
+   - `07_Ideas/Incubacion_Escenas/Libro_04_Cuentas_De_Sangre/Tres_Hermanas_Material_Narrativo.md`
    - `02_Characters/Elenna_Mercer.md`
    - `02_Characters/Raymond_Keene.md`
    - `02_Characters/Elena_Vega.md`

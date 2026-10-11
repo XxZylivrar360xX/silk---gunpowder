@@ -19,7 +19,7 @@ El manuscrito del Libro I llega al capítulo 50b y el Libro II ya contiene borra
 - `00_Biblia/` — visión, temas y reglas narrativas y del mundo.
 - `01_Timeline/` — continuidad macro y cronologías por libro.
 - `02_Characters/` a `06_Relationships/` — reparto, facciones, lugares y vínculos.
-- `07_Ideas/` y `08_Scenes/` — incubación y materiales de escena, con su categoría indicada en cada archivo.
+- `07_Ideas/` — semillas, escenas guía e incubación de borradores narrativos; cada archivo indica su categoría y estado.
 - `11_Books/` — mapas y manuscritos organizados por libro y parte.
 - `12_Craft_Policies/` y `13_Auditorias/` — políticas editoriales, estados y dictámenes.
 - `97_Supersedido/` — material reemplazado o retirado.
