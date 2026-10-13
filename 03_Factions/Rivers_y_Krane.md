@@ -3,7 +3,7 @@
 *Ficha de Facción*
 
 **Qué es:** bufete de abogados. **Kal es socio mayoritario** (CANON DEL AUTOR, 2026-10-02).
-**Territorio:** PENDIENTE (despacho en el centro, cerca del de Rivers en el Cap. 23, sería lo natural; DISEÑO, no fijado).
+**Territorio:** **los rascacielos de La Isla** (CANON DEL AUTOR, 2026-10-12). Supersede el DISEÑO "despacho en el centro, cerca del de Rivers en el Cap. 23".
 **Cabeza:** Margaret Rivers (sin ficha propia) y [[02_Characters/Giancarlo_Krane]], como socios con nombre; Kal es dueño de la mayoría.
 **Estado al abrir la novela:** no existe. **Se forma después del Libro I** (CANON DEL AUTOR, 2026-10-02). Momento exacto: PENDIENTE.
 

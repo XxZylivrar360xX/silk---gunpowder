@@ -194,8 +194,8 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 
 ## Mei-Lin informa a su contacto
 
-- **Qué es:** en la mesa de los Bravos (Cap. 48), Mei-Lin deja señales mudas que se leen en relectura: pregunta quién le dijo "por tierra"; "¿Tú de quién eres?" / "De nadie."; mira la libreta de Maribel; se va caminando hacia el sur sin esperar el camión. Su contacto es, por canon, **Tommaso**. Varek la absorbe en *Sombras de Poder*, después de matarlo ([[02_Characters/Mei_Lin_Zhao]]). El plan decía "informa a Dario"; se corrigió el 2026-10-03 (A11).
+- **Qué es:** en la mesa de los Bravos (Cap. 48), Mei-Lin deja señales mudas que se leen en relectura: pregunta quién le dijo "por tierra"; "¿Tú de quién eres?" / "De nadie."; mira la libreta de Maribel; se va caminando hacia el sur sin esperar el camión. Su contacto es, por canon, **Tommaso**. ~~Varek la absorbe en *Sombras de Poder*, después de matarlo~~ (superado 2026-10-12: Tommaso no muere; cómo pasa a informar a Varek es PENDIENTE; [[02_Characters/Mei_Lin_Zhao]]). El plan decía "informa a Dario"; se corrigió el 2026-10-03 (A11).
 - **Quién lo sabe:** el lector, en relectura. Nadie en escena.
-- **Quién NO debe saberlo:** nadie antes de la muerte de Tommaso; la ficha de Tommaso pide no mostrar que Mei-Lin informa. Ni el 50 ni el 50b dependen de que Dario sepa del asalto.
+- **Quién NO debe saberlo:** nadie hasta que el autor fije el nuevo mecanismo (antes: "antes de la muerte de Tommaso"); la ficha de Tommaso pide no mostrar que Mei-Lin informa. Ni el 50 ni el 50b dependen de que Dario sepa del asalto.
 - **Pago:** F2, en *Sombras de Poder*.
 - **Estado:** sembrado (siembra muda), sin pagar.

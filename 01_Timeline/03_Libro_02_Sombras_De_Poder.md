@@ -1,5 +1,7 @@
 # Libro II — Sombras de Poder
 
+> **SUPERSESIÓN RECTORA (CANON DEL AUTOR, 2026-10-12): cuatro Partes.** El libro se reestructura en **I — Territorio ajeno · II — Nieve y ceniza · III — Exilio · IV — Torna a casa**. En estructura, orden de Partes y hechos que enumera, manda [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]. Las secciones de abajo conservan el diseño previo por Partes (tres Partes: Nieve y Ceniza / Exilio / Torna a Casa) donde ese plan no lo contradice; donde choca (incendio y Villa en la Parte I; Navidad y F4 en la Parte II; Stavanger en la Parte IV; Ren como valet; Fabrizio/Tommaso; detonante de *El Faro*), manda el plan. Resumen de equivalencias: la antigua "Parte I — Nieve y Ceniza" se reparte entre las nuevas I y II; la antigua "Parte II — Exilio" entre la III (F2, F3) y la IV (Stavanger); la antigua "Parte III — Torna a Casa" es la IV.
+
 > **CANON DEL AUTOR (2026-09-22).** Libro nuevo, insertado entre *Máscaras de Cristal* (Libro I) y
 > *Voto de Ceniza* (ahora Libro III). Absorbe el material que hasta el 2026-09-21 vivía como
 > Partes IV-VI internas del Libro I (`Nieve y Ceniza`, `Exilio`, `Torna a Casa`) y que ahora
@@ -95,7 +97,7 @@ por protección; este libro prueba esa dinámica a escala mucho mayor.
 
 ---
 
-## Parte I — Nieve Y Ceniza
+## Parte I — Nieve Y Ceniza *(estructura anterior; ver la supersesión rectora arriba: hoy Partes I y II)*
 
 ### Apertura
 
@@ -113,10 +115,12 @@ administrar el problema; Kal admite que su silencio (Palermo, Halbrook) también
 Momento cálido: los dos recostados en la cama. Mañana siguiente: desayuno, vuelven al hogar
 que siempre fueron.
 
-**Esa misma tarde**, la policía llama a Chiara: *¿conoce al señor Tommaso Lusardi?* — su
-asesinato (ejecutado por Nereo Volpi, composición que evoca a Raymond Keene) se desplaza aquí.
+> **SUPERSEDIDO (CANON DEL AUTOR, 2026-10-12):** ya no muere Tommaso al abrir el libro. **Fabrizio Rinaldi** aparece muerto en su apartamento: Lucía Varek llama a Chiara durante el desayuno para que lo identifique en la comisaría y el Cap. 1 corta en «Fabrizio está muerto» ([[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/01_Hogar]]). **Lo mata Volpi**, con el mecanismo que antes era de Tommaso (composición de Keene; hipótesis de asesino serial). **Tommaso sobrevive**, se queda en San Aurelio y se ausenta hacia el final: el choque por los frenos cortados del Lancia de Chiara (Volpi, velado; cierre de la Parte II, Calle Corona), contra el Audi de Kal que maneja Marisol (bastón permanente para él, tibia de ella; acercamiento en el hospital), más las amenazas a su esposa y a su hija; cede su parte del Monarch a Chiara. Ver [[02_Characters/Tommaso_Lusardi]] y [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]. Texto anterior:
+>
+> ~~**Esa misma tarde**, la policía llama a Chiara: *¿conoce al señor Tommaso Lusardi?* — su asesinato (ejecutado por Nereo Volpi, composición que evoca a Raymond Keene) se desplaza aquí.~~
+
 El libro abre cobrando casi todas las sillas de Chiara de un solo jalón; después arranca la
-organización de Kal (**Ren Wei** entra en un capítulo posterior — **canon 2026-09-26:** Kal lo detecta al cobrar la escolta de cocaína para Dario, entre F4 y el incendio — umbral de categoría: paso de
+organización de Kal (**Ren Wei** entra en un capítulo posterior — ~~**canon 2026-09-26:** Kal lo detecta al cobrar la escolta de cocaína para Dario, entre F4 y el incendio~~ **[2026-10-12: entra como valet del Monarch en la Parte I; Kal lo descubre vendiendo]** — umbral de categoría: paso de
 favores/logística a participación consciente en un mercado de cocaína — rompe cualquier
 lectura de Kal como "criminal bueno").
 
@@ -172,7 +176,7 @@ incendio cierra la Parte; ni Mei-Lin ni Villa Candelaria ocupan ese cierre.
 
 ---
 
-## Parte II — Exilio
+## Parte II — Exilio *(estructura anterior; hoy Partes III y IV)*
 
 ### Función macro
 
@@ -211,9 +215,9 @@ ni mecanismos nuevos.
 dentro de una crisis. F2 conserva su identidad; F2-A y F2-B sólo distinguen componentes
 internos, no nuevos hitos. No hay intervalo de días ni semanas.
 
-La cadena Tommaso → Mei-Lin → Varek sigue intacta: Tommaso construye inteligencia propia y
-cruza jurisdicción del norte; Varek lo elimina mediante Volpi y absorbe a Mei-Lin como fuente
-pasiva. Kal y Chiara no conocen esa causalidad todavía. La revelación concluyente
+La cadena Tommaso → Mei-Lin → Varek ~~sigue intacta~~ cambia (CANON 2026-10-12): Tommaso construye inteligencia propia y
+cruza jurisdicción del norte, pero ya no muere; ~~Varek lo elimina mediante Volpi y absorbe a Mei-Lin como fuente
+pasiva~~. **Mei-Lin se queda con Tommaso**; cómo llega también a Varek (¿triple agente sin querer, por miedo?) es PENDIENTE. Kal y Chiara no conocen esa causalidad todavía. La revelación concluyente
 **Varek–Volpi** sigue reservada para *Cuentas de Sangre* (Libro IV).
 
 En esta Parte se descubre definitivamente la filtración real. Mei-Lin no entró para destruir
@@ -240,8 +244,8 @@ esa vida propia, nunca causa del destierro.
 
 ### Consecuencias: Chiara, Nadir y Kal
 
-Chiara carga ya con Matteo, la distancia de Fabrizio, Tommaso, la ausencia temporal de Kal y
-el loft. Ahora pierde a Mei-Lin definitivamente y a Bonnie para evitar otra muerte, en un solo
+Chiara carga ya con Matteo, la muerte de Fabrizio, la ausencia temporal de Kal y
+el loft (antes: "la distancia de Fabrizio, Tommaso"; CANON 2026-10-12). Tommaso sigue a su lado en el Monarch, y su salida hacia el final del libro es la siguiente silla vacía. Ahora pierde a Mei-Lin definitivamente y a Bonnie para evitar otra muerte, en un solo
 día.
 
 Nadir sigue leal y trabajando, puede justificar que era necesario, pero aparece una de las
@@ -286,7 +290,7 @@ La propuesta ocurre en **Noruega / Stavanger**. **CANON DEL AUTOR (2026-09-26):*
 propuesta nace de claridad, no de culpa.** Kal quiere seguir eligiendo a Chiara y construir
 futuro con ella. No propone convertirla en Mercer ni absorber su identidad.
 
-**CANONIZADO (2026-10-02, decisión del autor):** el capítulo [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]]
+**CANONIZADO (2026-10-02, decisión del autor):** el capítulo [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]]
 sale de la incubadora y entra al manuscrito del Libro II (BORRADOR; número pendiente). Canon:
 **Stavanger es la ciudad de origen de Kal**; su madre, **Ingrid**, murió hace once años; su tío
 materno, **Henrik Solberg**, guarda las cartas y la única foto de los dos. Chiara presencia la
@@ -314,7 +318,7 @@ Sustituye "la joyería con Héctor" como compra fuera de página.
 
 ---
 
-## Parte III — Torna A Casa
+## Parte III — Torna A Casa *(estructura anterior; hoy Parte IV)*
 
 ### Función macro
 
@@ -408,10 +412,12 @@ extensa.~~ (Superado: la coda pasó al Cap. 50b del Libro I; el libro cierra en 
 
 ---
 
-## Orden macro vigente de esta Parte — CANON DEL AUTOR, 2026-09-20 (renumerado 2026-09-22)
+## Orden macro ~~vigente~~ anterior — CANON DEL AUTOR, 2026-09-20 (renumerado 2026-09-22)
+
+> **SUPERSEDIDO (2026-10-12):** el orden vigente está en [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].
 
 - **I / NIEVE Y CENIZA:** apertura = luz + *Ciao, bella* + reconciliación completa + desayuno →
-  **asesinato de Tommaso esa tarde** → organización de Kal → misterio / costo
+  ~~asesinato de Tommaso esa tarde~~ **llamada de Lucía: Fabrizio está muerto** (CANON 2026-10-12) → organización de Kal → misterio / costo
   Halbrook → consecuencias de Camp Alder → crecimiento y presión → Navidad / collar / Torna a
   casa → **Año Nuevo / F4, separados (Washington / Monarch); piano** [canon 2026-09-26] →
   **primera incursión de Kal para Dario (cocaína norte → puerto, rival, bahía); se lo cuenta a
@@ -456,7 +462,7 @@ Fuente: migración de la incubadora de ChatGPT, validada por el autor el 2026-10
 
 **Pareja como sinergia (supera el énfasis anterior de "Arco de pareja").** La relación deja de ser foco: es infraestructura emocional. Kal y Chiara aprenden que pueden operar separados y seguir siendo unidad. Cada noche vuelven a Villa Candelaria (desde la Parte II) como lugar seguro del otro. Kal vuelve herido varias veces (peleas, tiroteos, choques); Chiara lo atiende y sutura lo menor; lo grave sigue necesitando atención médica real. El cuidado es recíproco: si ella llega saturada, él le lleva vino, comida o le da masaje de pies; pueden acabar la noche trabajando cada uno en lo suyo y sólo darse las buenas noches.
 
-**Chiara y la empresa.** Tras el asesinato de Tommaso, Chiara **compra *El Faro*** para tener voz propia ante la opinión pública: las fases previas (fuente → asesora → inversora) se conservan y Tommaso detona la compra legal (decisión del autor, 2026-10-03; ver [[03_Factions/El_Faro]]). Kal y Chiara **fundan juntos una cadena hotelera**; [[02_Characters/Kenji_Oda]] pasa de gerente de caja del Monarch a administrarla. Cuándo ocurre cada cosa es PENDIENTE.
+**Chiara y la empresa.** ~~Tras el asesinato de Tommaso~~ (2026-10-12: la muerte de Fabrizio es combustible; el detonante son las consecuencias del arresto de Kal y que todo quedara demasiado limpio a su favor), Chiara **compra *El Faro*** para tener voz propia ante la opinión pública: las fases previas (fuente → asesora → inversora) se conservan ~~y Tommaso detona la compra legal~~ (decisión del autor, 2026-10-03; ver [[03_Factions/El_Faro]]). Kal y Chiara **fundan juntos una cadena hotelera**; [[02_Characters/Kenji_Oda]] pasa de gerente de caja del Monarch a administrarla. Cuándo ocurre cada cosa es PENDIENTE.
 
 ### El gran enfrentamiento de la tormenta (antes de H1)
 

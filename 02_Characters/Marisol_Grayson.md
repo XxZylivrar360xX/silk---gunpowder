@@ -123,6 +123,12 @@ En esa misma escena queda sembrado el resto del plan:
 
 > **PENDIENTE:** en qué libro entra Marisol a Rivers & Krane y en qué escena le ofrece Kal ser socia nominal.
 
+> **Libro II — *Sombras de Poder* (CANON DEL AUTOR, 2026-10-12; plan: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]):**
+> - **Escala correcta:** 22–23 años (por consolidar), legal assistant en el entorno de Rivers & Krane (en los rascacielos de La Isla), bajo supervisión (intake, expedientes, comisaría, pro bono); todavía no es abogada autónoma. El salto fuerte, la paralegal en la fiscalía, es en *Voto de Ceniza*.
+> - **Nota los silencios nuevos de Kal** (Parte II): respuestas funcionales, cansancio. No es una lectura terapéutica.
+> - **El choque (cierre de la Parte II):** desde el Libro I toma el Audi de Kal para moverse, diga él que sí o que no, y Kal siempre termina cediendo. Va en él a ver a Chiara (fuera de foco) cuando el **Lancia de Chiara**, con los frenos cortados (Volpi, velado, por orden de Varek) y Tommaso al volante, se lo lleva en un cruce de **Calle Corona, rumbo al Puente de Piedra**. Sale con **fractura de tibia**. En el hospital hay un acercamiento ligero e interesante con [[02_Characters/Tommaso_Lusardi|Tommaso]], que en parte lo motiva a retirarse. Para Kal, que la víctima sea ella y el objetivo Chiara es el combustible de un gran arco. **No es romance (CANON 2026-10-12):** en Tommaso es culpa por haberla lastimado, que llega a respeto y afecto; acaba de saber que amenazan a su familia, y ver a Marisol, que no tiene padres, lo mueve. Por calibrar.
+> - **Hacia *Voto de Ceniza*:** entra **voluntariamente y por mérito** a la órbita institucional de [[02_Characters/Warren_Halbrook|Halbrook]], que no la busca al principio y la trata con respeto. Kal no puede explicarle por qué sin revelar Afganistán; DISEÑO del autor: «—No confío en él.» / «—Tú no confías en media ciudad.» Chiara le impide prohibir sin explicar: proteger no concede jurisdicción.
+
 **La graduación (2026-08-30):** al terminar las estadías, Kal lleva a Chiara como su acompañante a la graduación — uno de los momentos de mayor orgullo de su vida. Ocurre después del primer encuentro entre Marisol y Chiara en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21_El_Primer_Huesped|Capítulo 21, «La promesa»]]. La recogida ya está redactada en [[07_Ideas/La_Graduacion_De_Marisol]]; falta construir el resto. **Marcador con Kal (CANON DEL AUTOR, 2026-10-05):** hasta aquí ella le gana casi todas; a partir de que madura, y sobre todo en la graduación, Kal empieza a ganar las suyas ([[12_Craft_Policies/voice/Marisol_Grayson]]).
 
 ---
@@ -182,7 +188,9 @@ Su sarcasmo lo aprendió de Kal por convivencia, pero no lo imita: en ella es m�
 
 > **PENDIENTE:** edad exacta y universidad. **(Borrador Cap. 15: veinte años; universidad sin nombrar, a un par de horas de San Aurelio. A confirmar o ajustar por el autor.)** Carrera ya resuelta (2026-08-29): derecho, a seis meses de las estadías.
 
-> **PENDIENTE:** madre de Marisol y si Kal tiene alguna tutoría legal o sólo un rol familiar de hecho.
+> **Madre (CANON DEL AUTOR, 2026-10-12):** **Julliete Grayson**. Hasta nuevo aviso es la madre que se fue; su historia está reservada para el Libro V, *Juramento de Hierro* ([[11_Books/Book_05_Juramento_De_Hierro/00_Book_Map]]). En los Libros I–IV, Marisol "no tiene padres": no explicar a dónde ni por qué se fue.
+
+> **PENDIENTE:** si Kal tiene alguna tutoría legal o sólo un rol familiar de hecho.
 
 > **PENDIENTE:** qué piensa Marisol de Chiara después de su primer encuentro en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21_El_Primer_Huesped|Capítulo 21, «La promesa»]].
 

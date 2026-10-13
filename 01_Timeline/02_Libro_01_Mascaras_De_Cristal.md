@@ -200,7 +200,7 @@ Kal opera progresivamente junto a Dario y aprende coordinación de bandas, inter
 
 - **Matteo** — primera silla: se marcha (ver apertura, arriba).
 - **[[02_Characters/Fabrizio_Rinaldi|Fabrizio]]** — después del primer atentado contra Chiara, [[02_Characters/Nereo_Volpi|Nereo Volpi]] pone a su familia bajo coerción; empieza a alejarse, guarda silencios; Chiara siente distancia. **No es traidor.** Ella interpreta la presión dentro del marco que conoce (La Mesa / Italia / estructura heredada) — no revela a Volpi–Varek, que permanece reservado hasta *Cuentas de Sangre* (Libro IV).
-- **[[02_Characters/Tommaso_Lusardi|Tommaso]]** — es asesinado por Nereo Volpi al abrir *Sombras de Poder* (Libro II); el crimen recuerda la composición del asesinato de Raymond Keene y abre temporalmente una hipótesis pública de asesino serial que se descarta antes de *Cuentas de Sangre*. **CANON DEL AUTOR (2026-09-20), causa resuelta:** Tommaso recluta sin autorización a [[02_Characters/Mei_Lin_Zhao|Mei-Lin Zhao]] como fuente informal sobre el norte, cruzando el territorio de [[02_Characters/Dario_Varek|Varek]]; Dario lo elimina por eso y absorbe a Mei-Lin como fuente pasiva en vez de cerrarla — origen directo de [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Bonnie y la muerte de Mei-Lin|F2]], en Sombras de Poder, Parte II. **En escena, esto se deja sólo como pista razonable hacia La Mesa** — no confirmar que Varek lo dirige hasta *Cuentas de Sangre* (misma regla que [[02_Characters/Nereo_Volpi]]).
+- **[[02_Characters/Tommaso_Lusardi|Tommaso]]** — **SUPERSEDIDO (CANON DEL AUTOR, 2026-10-12): Tommaso no muere.** Sigue en el Libro I sin cambios y en *Sombras de Poder* se queda en San Aurelio hasta ausentarse hacia el final del libro; el asesinado al abrir el Libro II es Fabrizio. El reclutamiento de Mei-Lin sigue vigente; su muerte y la absorción de Mei-Lin por Varek tras ella quedan superadas (nuevo mecanismo PENDIENTE). Texto anterior: ~~es asesinado por Nereo Volpi al abrir *Sombras de Poder* (Libro II)~~; el crimen recuerda la composición del asesinato de Raymond Keene y abre temporalmente una hipótesis pública de asesino serial que se descarta antes de *Cuentas de Sangre*. **CANON DEL AUTOR (2026-09-20), causa resuelta:** Tommaso recluta sin autorización a [[02_Characters/Mei_Lin_Zhao|Mei-Lin Zhao]] como fuente informal sobre el norte, cruzando el territorio de [[02_Characters/Dario_Varek|Varek]]; Dario lo elimina por eso y absorbe a Mei-Lin como fuente pasiva en vez de cerrarla — origen directo de [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Bonnie y la muerte de Mei-Lin|F2]], en Sombras de Poder, Parte II. **En escena, esto se deja sólo como pista razonable hacia La Mesa** — no confirmar que Varek lo dirige hasta *Cuentas de Sangre* (misma regla que [[02_Characters/Nereo_Volpi]]).
 - **[[02_Characters/Dario_Varek|Dario]]** — permanece. No necesita decir "soy el único que te queda"; su presencia se vuelve, poco a poco, el hecho inquietante de que **es la única silla que nunca se vacía.**
 
 **Idea emocional de Chiara (construir sin verbalizar pronto):** *"Todos cerca de mí se van."* No hacerla decir esto con Matteo, ni necesariamente con Fabrizio, ni gastarlo con Tommaso — el pensamiento existe primero como sensación y patrón. Parte III construye progresivamente una falsa asociación emocional: *cada vez que su relación con Kal se vuelve más sólida, alguien más desaparece de su vida.* Esto **no es una verdad causal** — es la interpretación emocional de Chiara.
@@ -265,7 +265,7 @@ Chiara pelea con Dios sin perder la fe — le grita porque cree que Él está ah
 
 Usar deliberadamente **"enamorarme"**, no "amarlo" — reserva el peso mayor de la declaración completa para H1 (Libro II). Es el **peldaño 3** de la escalera emocional de la pareja (ver [[06_Relationships/Kal_y_Chiara]], "La escalera de lo que se permiten decir"): descrito a Dios, no confesado a Kal.
 
-El centro emocional no es sólo "Kal está preso": debajo están Matteo (se fue), Fabrizio (se aleja), Tommaso (desapareció/murió), F1, Los Tres Días, Palermo — y ahora también Kal preso. Pensamiento de fondo: *"Todos se van."* Sin necesidad de enumerarlo en voz alta.
+El centro emocional no es sólo "Kal está preso": debajo están Matteo (se fue), Fabrizio (se aleja), ~~Tommaso (desapareció/murió)~~ [Tommaso no muere; superado 2026-10-12], F1, Los Tres Días, Palermo — y ahora también Kal preso. Pensamiento de fondo: *"Todos se van."* Sin necesidad de enumerarlo en voz alta.
 
 **El penthouse deja de ser casa:** tras el monólogo, Chiara llega a agotamiento y decide irse **a su casa** — que ya no es el penthouse, sino el loft de La Almendra. Explícito como movimiento de arco, demostrado por la acción, no comentado por el narrador.
 
@@ -287,7 +287,7 @@ Parte III construye: **"Todos cerca de mí se van."** Pero Kal debe convertirse 
 
 ### Condición de salida — Parte III / Libro I
 
-Kal: rodeado, con estructura propia (El Patio) y una frontera moral por cruzar (Ren Wei, ya en Libro II). Chiara: sola en apariencia de fuerza, con Matteo, Fabrizio (en retirada) y Tommaso fuera de su alcance, y sólo Dario como constante. F1 queda abierta cuando una institución se lleva a Kal; Chiara agota sus recursos durante H20 y él vuelve en el Cap. 50. El Libro I termina con la pareja reunida, sin resolver Palermo, la muerte de Tommaso ni la deuda de Kal con quien lo sacó de Camp Alder.
+Kal: rodeado, con estructura propia (El Patio) y una frontera moral por cruzar (Ren Wei, ya en Libro II). Chiara: sola en apariencia de fuerza, con Matteo, Fabrizio (en retirada) y Tommaso fuera de su alcance, y sólo Dario como constante. F1 queda abierta cuando una institución se lleva a Kal; Chiara agota sus recursos durante H20 y él vuelve en el Cap. 50. El Libro I termina con la pareja reunida, sin resolver Palermo ~~, la muerte de Tommaso~~ ni la deuda de Kal con quien lo sacó de Camp Alder.
 
 ---
 
@@ -317,7 +317,7 @@ Kal: rodeado, con estructura propia (El Patio) y una frontera moral por cruzar (
 
 El Libro I **ya no** termina en H1. Termina en el **Cap. 50b** (~~Cap. 44~~, superado 2026-10-01): Kal y Chiara reencontrados tras
 Camp Alder ("Ciao, bella", última línea del Cap. 50) y Halbrook en San Aurelio al alba — antes de que Chiara responda, antes de la reconciliación completa,
-antes de que la policía llame por Tommaso. Ese material — y todo lo que antes vivía como Partes
+antes de la llamada de Lucía por la muerte de Fabrizio (antes: "la policía llame por Tommaso"; CANON 2026-10-12). Ese material — y todo lo que antes vivía como Partes
 IV-VI de este archivo (Nieve y Ceniza, Exilio, Torna a Casa: incendio, Navidad, F4/F3/F2,
 Villa Candelaria, Stavanger, embarazo, H1, reveal; ~~coda Halbrook~~, que pasó al 50b) — pertenece ahora al
 **Libro II — Sombras de Poder**. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]] para su

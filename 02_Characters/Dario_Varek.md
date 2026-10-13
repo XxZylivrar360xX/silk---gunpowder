@@ -199,6 +199,14 @@ Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Audit
 
 ---
 
+## *Sombras de Poder* — CANON DEL AUTOR (2026-10-12)
+
+Plan: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].
+
+- **Dos versiones.** Con Kal es modesto, profesional, razonable; reconoce el trabajo, paga y enseña estructura. Con Chiara es sofocante, invasivo y condescendiente: usa la deuda, presiona el Monarch y humilla a Tommaso. En casa aparecen dos relatos: *Dario se está volviendo peligroso* / *conmigo no está haciendo eso*. Kal escucha, pero subestima la escala.
+- **Ordena** el asesinato de Fabrizio (ejecuta Volpi) y el **corte de frenos del Lancia de Chiara** (lo ejecuta Volpi, velado; cierre de la Parte II), que deja a Tommaso con bastón y a Marisol con la tibia fracturada. La revelación de su autoría sigue reservada.
+- Le paga a Kal su primera tajada grande (USD 1,000,000, que Kal guarda como Plan B). Sigue siendo el techo: no hay ruptura abierta hasta que Kal se emancipa en la Parte IV; su caída es del libro siguiente.
+
 ## Pendientes
 
 > **PENDIENTE:** nombre de su organización. Es la facción dominante de San Aurelio y todavía no existe como ficha en `03_Factions/`. Su base es **el puerto**.

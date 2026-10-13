@@ -9,7 +9,7 @@
 
 ## Resultado
 
-- [[11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Hogar]]: de unas 3,800 a unas 5,500 palabras. La sección de Kal cubre lo mismo que las últimas líneas del Cap. 50; desde «¿Cómo diablos estás aquí?» el POV es de Chiara. El Cap. 50 no se tocó. Las decisiones de DISEÑO están en la metadata del capítulo.
+- [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/01_Hogar]]: de unas 3,800 a unas 5,500 palabras. La sección de Kal cubre lo mismo que las últimas líneas del Cap. 50; desde «¿Cómo diablos estás aquí?» el POV es de Chiara. El Cap. 50 no se tocó. Las decisiones de DISEÑO están en la metadata del capítulo.
 - Se corrigieron: la costura con el Cap. 50 (B1 de la auditoría), el café y el pan de máquina que se atribuían a Kal, «La Almendra no queda lejos», «En mi celda», el reproche de Palermo (Kal se fue de Palermo; no fue solo), la astilla en una isla de piedra, el «número personal» de Lucía y la manga escurrida.
 - Se conservaron íntegras todas las líneas protegidas del encargo de cirugía y las dos indicaciones de canon del autor.
 

@@ -14,7 +14,7 @@
 | Orden | Libro | Bisagra de entrada | Bisagra de salida |
 |---|---|---|---|
 | 1 | [[02_Libro_01_Mascaras_De_Cristal]] | Kal y Chiara se conocen en San Aurelio | Reencuentro tras Camp Alder ("Ciao, bella", Cap. 50); Halbrook llega a San Aurelio (Cap. 50b) |
-| 2 | [[03_Libro_02_Sombras_De_Poder]] | Reconciliación tras Camp Alder y asesinato de Tommaso | H1 y el reveal del embarazo cierran el libro |
+| 2 | [[03_Libro_02_Sombras_De_Poder]] | Reconciliación tras Camp Alder y asesinato de Fabrizio (Tommaso sobrevive; CANON 2026-10-12) | H1 y el reveal del embarazo cierran el libro |
 | 3 | [[04_Libro_03_Voto_De_Ceniza]] | Chiara está embarazada y Halbrook ya está presente (llegó en el Cap. 50b del Libro I) | Kal sentencia a Halbrook; Halbrook muere en su discurso de victoria |
 | 4 | [[05_Libro_04_Cuentas_De_Sangre]] | La muerte de Halbrook provoca Meridian | Kal y Chiara viven en Palermo con Elenna |
 | 5 | [[06_Libro_05_Juramento_De_Hierro]] | Elenna decide entrar a la academia | Nicholas queda sin objeto para su duelo; Ethan sigue oculto; grieta con Erin |

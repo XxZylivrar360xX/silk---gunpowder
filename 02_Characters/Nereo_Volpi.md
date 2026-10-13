@@ -37,6 +37,8 @@ Pero la apariencia de que Nereo responde a La Mesa es parte de la operación. Du
 
 La maniobra alcanza a [[02_Characters/Fabrizio_Rinaldi|Fabrizio Rinaldi]]. Es padre de familia; después del primer atentado contra Chiara, Volpi le hace saber que su familia está bajo coerción. No necesita convertirlo en informante visible: basta con que Fabrizio entienda que acercarse a Chiara puede trasladar el costo a su casa.
 
+> **SUPERSEDIDO (CANON DEL AUTOR, 2026-10-12):** Fabrizio y Tommaso **cambian de lugar**. Volpi mata a Fabrizio al abrir *Sombras de Poder* (ver «El patrón que la ciudad leyó mal»). El segundo atentado pasa a ser el corte de frenos del **auto de Chiara**, ordenado por Varek: lo maneja Tommaso, que choca contra el Audi de Kal manejado por Marisol (tibia de Marisol; bastón permanente para Tommaso). **Volpi, velado, corta los frenos** del Lancia de Chiara (CANON 2026-10-12), al final de la Parte II — *Nieve y ceniza*, en Calle Corona rumbo al Puente de Piedra. Kal descubre el sabotaje, no al autor. El párrafo siguiente es historial. Plan: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].
+
 En el segundo atentado, ya fijado contra Chiara, Volpi recibe además la instrucción de atentar contra Fabrizio. Chiara está con él y transforma dos operaciones en un **2x1** que no estaba planeado como tal. La violencia no debe leerse todavía como una firma de Varek: desde el punto de vista de Chiara, confirma la hipótesis equivocada de que La Mesa quiere dejarla sin nadie en San Aurelio.
 
 La ejecución de [[02_Characters/Raymond_Keene|Raymond Keene]] es el punto en que Varek aprende a leerlo. Keene era una orden útil; Volpi la convierte en una puesta en escena demasiado precisa para ser sólo obediencia. Varek entiende que es más peligroso que un ejecutor institucional y decide mantenerlo aislado, alimentado y bajo control. Al mismo tiempo, le muestra una posibilidad que La Mesa nunca le había concedido: no depender de una institución para satisfacer sus propias motivaciones.
@@ -45,7 +47,7 @@ Ahí empieza a disiparse la lealtad de Volpi hacia La Mesa. No rompe de inmediat
 
 > **RESUELTO (2026-09-20, decisión del autor — corregido el mismo día).** El hermano se llama **Elio Bellacorte**, introvertido y analítico — el contraste con Matteo: *"Matteo abre la puerta, extrovertido y social. Elio descubre qué hay detrás, introvertido y analítico."* Ambos operan negocios lícitos y grises: Matteo construye relaciones, Elio construye estructuras — es el arquitecto financiero y societario de los negocios Bellacorte (adquisiciones, holdings, contratos, rutas comerciales, participaciones), no un contador de la mafia. Opera desde Génova. Ver [[02_Characters/Elio_Bellacorte]].
 
-> **PENDIENTE:** qué descubrió Elio exactamente; texto exacto de la nota; quién dentro de La Mesa activó la contingencia y si Nereo informó a Valenti antes o sólo después; ubicación, mecanismo y consecuencias inmediatas del segundo atentado contra Chiara/Fabrizio.
+> **PENDIENTE:** qué descubrió Elio exactamente; texto exacto de la nota; quién dentro de La Mesa activó la contingencia y si Nereo informó a Valenti antes o sólo después; ~~ubicación, mecanismo y consecuencias inmediatas del segundo atentado contra Chiara/Fabrizio~~ (fijado el 2026-10-12: Volpi, velado; Lancia de Chiara; Calle Corona; cierre de la Parte II).
 
 ## Participación en Libro III — *Cuentas de Sangre*
 
@@ -59,13 +61,15 @@ La verdad de su lealtad a Varek se revela hasta que Varek ya está encarcelado, 
 
 ### El patrón que la ciudad leyó mal
 
+> **SUPERSEDIDO EN PARTE (CANON DEL AUTOR, 2026-10-12):** Tommaso **no muere**; se queda en San Aurelio y se ausenta hacia el final de *Sombras de Poder*. El asesinado al abrir el Libro II es [[02_Characters/Fabrizio_Rinaldi|Fabrizio Rinaldi]], que aparece muerto en su apartamento ([[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/01_Hogar|Cap. 1]]). **CANON DEL AUTOR (2026-10-12):** **Volpi lo mata** y la muerte **hereda el mismo mecanismo**: entra como un desconocido, una composición que evoca a Keene y la hipótesis de asesino serial que se descarta. **Fabrizio es la segunda víctima del patrón.** Donde abajo dice Tommaso, léase Fabrizio. Lo de «la banca de su terraza» y «el departamento del norte» era de Tommaso: si se conserva en el apartamento de Fabrizio queda PENDIENTE. Lo que sigue se conserva como historial.
+
 Después de Keene, Volpi entra como un desconocido al departamento del norte de [[02_Characters/Tommaso_Lusardi|Tommaso Lusardi]] y lo ejecuta sentado en la banca de su terraza. La composición recuerda el cadáver de Keene en Plaza Corona: una muerte expuesta, casi quieta, hecha para ser vista antes de ser comprendida.
 
 > **DISEÑO del autor (2026-09-26): el invitado de la mesa tres.** En el primer torneo del Monarch ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/12_Roma_Atrii|Cap. 12]]), un invitado sin nombre que dice haber jugado con Alessio en Palermo le cuenta a Tommaso "la versión" de Chiara (escalón 3 de la escalera de presión, ver [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]]). Es Volpi con otro nombre, trabajando para Varek, que ya había preguntado por Palermo en el Cap. 5. **Lo de Alessio es tapadera:** Volpi no lo conoció ni sabe qué le pasó. Fabrizio está en ese mismo torneo. **Consecuencia para esta escena:** "entra como un desconocido" vale para la ciudad y la policía, **no para Tommaso**, que le abre la puerta a un hombre que conoció una sola vez, como amigo de Alessio. **Reglas:** la identidad no se confirma en el Libro I; el 12 no se toca; la pista apunta a Palermo y a La Mesa, nunca a Varek. Pago retroactivo pendiente de capítulo.
 
 La policía local y la prensa empiezan a plantear un asesino serial. Tras meses sin otro ataque, esa hipótesis se descarta. No era un asesino serial: eran intervenciones separadas cuyo vínculo real nadie podía probar todavía.
 
-Ya en *Cuentas de Sangre*, después de la apertura canónica con la ejecución pública de Halbrook, un tercer asesinato —víctima pendiente— reactiva el patrón. Es la carta de presentación operativa de La Mesa en San Aurelio y el expediente paralelo que Meridian hereda mientras escala por la crisis federal. La investigación debe revelar que Keene, Tommaso y el tercer caso siempre estuvieron conectados; no porque Kal y Chiara los ordenaran, sino porque los motivos de cada muerte orbitaban su ascenso, sus alianzas y las presiones que se ejercían sobre ellos.
+Ya en *Cuentas de Sangre*, después de la apertura canónica con la ejecución pública de Halbrook, un tercer asesinato —víctima pendiente— reactiva el patrón. Es la carta de presentación operativa de La Mesa en San Aurelio y el expediente paralelo que Meridian hereda mientras escala por la crisis federal. La investigación debe revelar que Keene, ~~Tommaso~~ Fabrizio (2026-10-12) y el tercer caso siempre estuvieron conectados; no porque Kal y Chiara los ordenaran, sino porque los motivos de cada muerte orbitaban su ascenso, sus alianzas y las presiones que se ejercían sobre ellos.
 
 ### Contrapeso de Chiara
 
@@ -84,7 +88,7 @@ Durante el Libro I, por encargo de Dario y fuera de escena antes del amanecer de
 - Su presencia debe sentirse primero como una anomalía administrativa y sólo después como una persona.
 - En Libro I, dejar pistas que apunten razonablemente a La Mesa, sin confirmar en escena que Varek lo dirige.
 - La revelación de Libro III reinterpreta su autonomía; no convierte a Varek en dueño retrospectivo de cada acción de Volpi.
-- Las muertes de Keene, Tommaso y la tercera víctima comparten una puesta en escena reconocible, no una firma forense idéntica que resuelva el caso demasiado pronto.
+- Las muertes de Keene, ~~Tommaso~~ Fabrizio (2026-10-12) y la tercera víctima comparten una puesta en escena reconocible, no una firma forense idéntica que resuelva el caso demasiado pronto.
 - El disfrute de Volpi debe aparecer como su necesidad de desordenar vidas bajo una apariencia de orden, nunca como espectáculo vacío.
 
 ## Conexiones
@@ -93,6 +97,6 @@ Durante el Libro I, por encargo de Dario y fuera de escena antes del amanecer de
 - [[02_Characters/Leone_Valenti]] — contraparte visible, no sustituto.
 - [[02_Characters/Matteo_Bellacorte]] — su primer blanco narrativo indirecto.
 - [[02_Characters/Elio_Bellacorte]] — blanco directo: su desaparición es la contingencia que pone en marcha todo el arco de Matteo.
-- [[02_Characters/Fabrizio_Rinaldi]] — blanco directo bajo coerción; el atentado contra él vuelve a Chiara daño colateral no planeado.
+- [[02_Characters/Fabrizio_Rinaldi]] — blanco directo bajo coerción; el atentado contra él vuelve a Chiara daño colateral no planeado. Volpi lo asesina al abrir el Libro II (CANON 2026-10-12), con el mecanismo de Keene.
 - [[02_Characters/Chiara_Bellandi]] — contraste ético y técnico de su oficio.
 - [[02_Characters/Dario_Varek]] — superior secreto hasta que su encarcelamiento deja a Volpi sin correa; revelación reservada para Libro III.

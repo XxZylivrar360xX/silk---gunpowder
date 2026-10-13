@@ -2,6 +2,8 @@
 
 ## Reconciliación macro — CANON DEL AUTOR 2026-09-20
 
+> **SUPERSEDIDO EN PARTE (CANON DEL AUTOR, 2026-10-12):** *Sombras de Poder* tiene ahora cuatro Partes ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]). **Tyler pierde un cargamento de cocaína de Crowe; Kal decide que el error de alguien bajo su mando es suyo; Crowe cobra con intereses incendiando el loft** y exige reponer el cargamento con alta pureza y con Kal implicado. Todo ocurre en la **Parte I — Territorio ajeno**, antes de Navidad y de F4. Villa Candelaria nace en la misma Parte, después del incendio (por confirmar frente a la nota de las cuatro Partes). Contraste: *Crowe: alguien falla, alguien paga. Kal: alguien falla bajo mi mando, yo respondo.* La caída de Crowe sigue sin Parte asignada. Lo que sigue es historial.
+
 El incendio del loft cierra **Parte IV**; el desplazamiento precede a F4, F2 y Villa, que se reconstruye **después** del día Mei-Lin/Bonnie en Parte V. No es una mudanza inmediata hacia riqueza.
 
 La caída de Silas corresponde al conflicto final de **Parte VI**, con mecanismo concreto pendiente. **SUPERSEDIDA POR DECISIÓN AUTORAL 2026-09-20** su función cronológica de caída obligatoria antes de Stavanger (viaje/anillo ahora en Parte V, después de Bonnie). Se conserva el material autoral sobre Dale/red de colocación y la derrota económica; no se ejecuta ni se adelanta automáticamente. **PENDIENTE DE RECONCILIACIÓN:** cómo llega a encajar la información de origen que la incubadora hacía depender de esa derrota; no inventar sustituto. También sigue pendiente ajustar la relación entre el cargamento antiguo y la autonomía de Kal al ocurrir H8.
@@ -63,7 +65,7 @@ Odiar esa frase no es ideología. **Es autobiografía.** Y por eso el enfrentami
 
 ### El primer trato que nadie cuenta — CANON DEL AUTOR (2026-09-19)
 
-> **Resuelve un PENDIENTE de esta ficha y motiva [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]] (BORRADOR PROPUESTO, no integrado al manuscrito).**
+> **Resuelve un PENDIENTE de esta ficha y motiva [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]] (BORRADOR PROPUESTO, no integrado al manuscrito).**
 
 Antes de ser "el Tasador" para todo el barrio, cuando todavía era sólo el hombre que le prestaba fácil a Dale Mercer, Silas hizo su primer trato de verdad. Dale le contó, borracho y ya quebrado, que Ruth no podía tener hijos y que eso la estaba consumiendo. Silas conocía a alguien — un contacto de una red de colocación que movía niños desde el norte de Europa hacia la costa oeste. Consiguió al bebé. Cobró por el favor, como cobra todo, pero se quedó con algo mejor que dinero: **una deuda que Dale nunca pudo terminar de pagar**, porque no era una deuda de dinero. Era una deuda de silencio.
 
@@ -143,7 +145,7 @@ Crowe aparece en los Caps. 1, 3, 9, 11 y 17. **Cap. 9, *La balanza* (2026-10-04,
 | 32 | Después de que reabre la llantera de Portillo, Héctor cuenta que el Tasador mandó preguntar quién lo arregló y cuánto cobró. Respuesta: "nada". "Al muchacho no le gustó la respuesta." |
 | 37 | El de la ferretería de la esquina: el Tasador le subió la cuota "por la competencia" y quiere saber si la competencia es Kal. Kal no cobra cuotas; sólo anota el día de cobro. |
 
-Las dos preparan el incendio como cuota escalada y la caída como consecuencia de que Kal dé gratis lo que él vende. **No se inventó el cargamento no entregado:** sigue PENDIENTE.
+Las dos preparan el incendio como cuota escalada y la caída como consecuencia de que Kal dé gratis lo que él vende. ~~**No se inventó el cargamento no entregado:** sigue PENDIENTE.~~ **Resuelto por el autor (2026-10-12):** es el cargamento de cocaína que pierde Tyler (ver arriba). Evitar la estupidez gratuita: debe ser un fallo comprensible dentro de una operación de riesgo.
 
 ---
 

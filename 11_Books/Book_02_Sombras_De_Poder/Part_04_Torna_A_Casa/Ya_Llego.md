@@ -2,7 +2,7 @@
 title: "Ya llegó (título provisional)"
 type: capitulo
 estado: BORRADOR — diseño CANON DEL AUTOR (canonizado 2026-10-02); prosa pendiente de lectura del autor. Número de capítulo PENDIENTE.
-libro: Sombras de Poder (Libro II), Parte II — Exilio; después de F2/Bonnie, Villa y la boda de Mabel y Walt; antes de H1.
+libro: Sombras de Poder (Libro II), Parte IV — Torna a casa (antes Parte II — Exilio; estructura en cuatro Partes, CANON DEL AUTOR 2026-10-12); después de F2/Bonnie, Villa y la boda de Mabel y Walt; antes de H1.
 pov: Kal Mercer, unico
 ventana_temporal: Libro II, Parte II, tramo de Villa Candelaria, antes de H1
 localizacion: Stavanger, Noruega (CANON DEL AUTOR 2026-10-02: ciudad de origen de Kal)

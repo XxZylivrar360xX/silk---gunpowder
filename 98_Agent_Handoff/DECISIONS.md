@@ -2,6 +2,14 @@
 
 Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]. Archivar entradas antiguas antes de retirarlas.
 
+## 2026-10-12 — Sombras de Poder: cuatro Partes; choque de Tommaso y Marisol
+
+**CANON DEL AUTOR:** cuatro Partes (I Territorio ajeno · II Nieve y ceniza · III Exilio · IV Torna a casa); el incendio y Villa pasan a la I y la gala de Halbrook la cierra. Volpi mata a Fabrizio con el mecanismo de Keene. Los frenos cortados del Lancia de Chiara (orden de Varek; Volpi, velado; cierre de la Parte II, Calle Corona): Tommaso choca contra el Audi que maneja Marisol (tibia; bastón) y se retira; pánico de Kal en el hospital y furia al ver el sabotaje. Rivers & Krane está en los rascacielos de La Isla. Mei-Lin se queda con Tommaso. *El Faro* lo detona el arresto de Kal. [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] · [[98_Agent_Handoff/sessions/2026-10-12_claude_cuatro_partes_sombras]].
+
+## 2026-10-12 — Sombras de Poder: Fabrizio muere, Tommaso se queda
+
+**CANON DEL AUTOR:** el asesinado al abrir el Libro II es Fabrizio (Cap. 1, «Hogar»); Tommaso no muere, se queda en San Aurelio y se ausenta hacia el final del libro. Supersede la muerte de Tommaso por Volpi. Pendientes: autoría, mecanismo Mei-Lin → Varek, detonante de *El Faro* y salida de Tommaso. [[00_Biblia/00_Trilogy_Structure]] #54 · [[98_Agent_Handoff/sessions/2026-10-12_claude_fabrizio_muere_tommaso_se_queda]].
+
 ## 2026-10-09 — H23: boda de Kal y Chiara
 
 **CANON DEL AUTOR:** Kal y Chiara se casan; la canción de su vals es *«Il Mondo»*. Tiempo, libro, lugar y circunstancias quedan PENDIENTES. Fuente: [[06_Relationships/Hitos#H23 — La boda de Kal y Chiara]] · [[98_Agent_Handoff/sessions/2026-10-09_codex_para_claude_hito_boda_il_mondo]].
@@ -25,18 +33,6 @@ Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces 
 ## 2026-09-21 — Relevo compacto e historial separado
 
 **DECISIÓN OPERATIVA DEL AUTOR:** ejecutar la recomendación de compactar el relevo y separar historial en Markdown. CURRENT_BRIEF contiene estado vigente; PENDING sólo trabajo inmediato; BACKLOG conserva decisiones de fondo; log es índice de sesiones y archivo. Sin SQLite por ahora. No se elimina ni decanoniza material: los cuatro archivos originales se conservaron íntegros. [[98_Agent_Handoff/sessions/2026-09-21_codex_compactacion_relevo]].
-
-## 2026-09-21 — Cierre de Parte III y apertura de IV
-
-**CANON DEL AUTOR:** el plan de Caps. 39–45 manda en su tramo. Mesa del 40 aprobada; foto de boda y cabello corto; cata, monólogo y respuesta del 45 confirmados; liberación mediante Halbrook/apagón/expediente, revelación reservada a Libro II. Texto y límites exactos: [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Las reservas anteriores que ese plan resuelve son históricas.
-
-## 2026-09-21 — Cap. 39: contención y corte
-
-**CANON DEL AUTOR / corrección de ejecución:** título definitivo «Un par de días más»; estructura aprobada, estado BORRADOR. Marisol ve y no obliga; Dario confirma distracción sin diseñarla ni inventar antecedentes. Corte inmediato tras la última línea canon. Prácticas sin ubicación resuelta. [[98_Agent_Handoff/sessions/2026-09-21_codex_cirugia_cap_39]].
-
-## 2026-09-21 — Cap. 40: fotografía y reserva de POV
-
-**CANON DEL AUTOR / corrección de ejecución:** la boda fotografiada en Palermo es Chiara–Alessio; Tommaso conserva parentesco y arco. «Mecánico» antecede al problema del rumor. Ni el narrador ni Ettore revelan la intención de Chiara al declarar ajeno a Kal: sigue reservada para el 41. Título definitivo y estructura intactos; BORRADOR. [[98_Agent_Handoff/sessions/2026-09-21_codex_cirugia_cap_40]].
 
 ## 2026-09-20 — Frontera IV/V y reconstrucción en Exilio
 

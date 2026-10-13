@@ -4,6 +4,8 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-12: [[98_Agent_Handoff/sessions/2026-10-12_claude_cuatro_partes_sombras]] · [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]
+- 2026-10-12: [[98_Agent_Handoff/sessions/2026-10-12_claude_fabrizio_muere_tommaso_se_queda]] · [[00_Biblia/00_Trilogy_Structure]] #54
 - 2026-10-12: [[98_Agent_Handoff/sessions/2026-10-12_claude_espanol_neutro_libro_i]] · [[12_Craft_Policies/voice/00_Registro_Espanol_Neutro]]
 - 2026-10-11: [[98_Agent_Handoff/sessions/2026-10-11_codex_para_claude_timeline_libro_i]]
 - 2026-10-11: [[98_Agent_Handoff/sessions/2026-10-11_codex_migracion_08_scenes_a_incubacion]]
@@ -35,9 +37,6 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 - 2026-10-06: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]]
 - 2026-10-05: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I]]
 - 2026-10-05: [[98_Agent_Handoff/sessions/2026-10-05_claude_frente3_densidad]]
-- 2026-10-05: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente_4_Camp_Alder]]
-- 2026-10-05: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]]
-- 2026-10-05: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Narrador_Tesis_Resenas_ChatGPT]] · [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Marisol_Detector_Infalible]]
 
 ## Historial
 

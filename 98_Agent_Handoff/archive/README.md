@@ -44,7 +44,7 @@ Markdown sigue siendo la fuente; una futura base de búsqueda deberá poder reco
 
 ## Decisiones retiradas (2026-10-10)
 
-[[98_Agent_Handoff/archive/2026-10-10_DECISIONS_archivadas]] conserva una decisión sobre el alcance y los títulos de la saga del 2026-09-16, sustituida por la arquitectura vigente de siete libros.
+[[98_Agent_Handoff/archive/2026-10-10_DECISIONS_archivadas]] conserva una decisión sobre el alcance y los títulos de la saga del 2026-09-16, sustituida por la arquitectura vigente de siete libros. Desde el 2026-10-12 conserva también las tres decisiones del 2026-09-21 sobre el cierre de la Parte III y los Caps. 39 y 40.
 
 ## Actualización concurrente preservada
 

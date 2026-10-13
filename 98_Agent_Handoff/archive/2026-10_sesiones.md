@@ -1,5 +1,8 @@
 # Sesiones archivadas de octubre de 2026
 
+- 2026-10-05: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente_4_Camp_Alder]]
+- 2026-10-05: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]]
+- 2026-10-05: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Narrador_Tesis_Resenas_ChatGPT]] · [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Marisol_Detector_Infalible]]
 - 2026-10-04 — CANON DEL AUTOR: "El aura" de la pareja (juntos imponen: *perdón por mirarlos*; fundacional para los Libros II y III; relevo de la auditoría de terceros en [[98_Agent_Handoff/sessions/2026-10-04_claude_auditoria_dialogo_terceros]]) en [[06_Relationships/Kal_y_Chiara]]; bancos de vestuario de los Libros II–III en [[02_Characters/Kal_Mercer]] y [[02_Characters/Chiara_Bellandi]] (sólo ropa, sin cambiar rasgos).
 - 2026-10-04 — Cap. 34 *Mi pareja*: diálogo cómico del autor integrado y reconducido a la destilería (BORRADOR, pendiente de lectura). Apertura con Walt, llamadas a Dario (colgada), Danny (fallida), Nadir (canon H21) y Marisol (cierre). Bitácora en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]].
 - 2026-10-04 — CANON DEL AUTOR: "il 13" de la carta es el 13 de diciembre, fecha de la Mesa; la Parte II no lo menciona. Cap. 38 conciliado con el 24c (BORRADOR). [[98_Agent_Handoff/sessions/2026-10-04_claude_surgery_24c]]

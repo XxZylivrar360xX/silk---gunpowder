@@ -17,10 +17,10 @@ Actualizado: 2026-09-21. Lectura por tema, no de arranque. Extraído de pendient
 
 > **PENDIENTE:** resolver con el autor antes de ejecutar el tramo afectado.
 
-- F2: información exacta, frecuencia, daño y descubrimiento de las filtraciones de Mei-Lin; conflicto de Bonnie. La traición por coerción/miedo y la cadena Tommaso → Varek ya están fijadas.
+- F2: información exacta, frecuencia, daño y descubrimiento de las filtraciones de Mei-Lin; conflicto de Bonnie. La traición por coerción/miedo está fijada; la cadena Tommaso → Varek se reabre el 2026-10-12 (Tommaso no muere): falta cómo pasa la línea a Varek.
 - H1: adversario/coalición y una intervención concreta de la infraestructura negable de La Mesa que vuelva inevitable el ataque y deje huella investigable.
 - F4/Anya: qué sabe Anya del patrón Halbrook en el programa de veteranos. F3: ejecutor material del sabotaje. Unión invisible: quién la filtra o rompe.
-- Segundo atentado: lugar, mecanismo y consecuencias; conservar la coacción de Fabrizio y el 2x1 no planeado. No adelantar prueba concluyente Volpi–Varek en Libros I–II.
+- Segundo atentado: lugar, mecanismo y consecuencias; conservar la coacción de Fabrizio y el 2x1 no planeado. Desde 2026-10-12 Fabrizio es asesinado al abrir el Libro II: decidir si esa muerte cumple la orden de Volpi y qué queda del 2x1. No adelantar prueba concluyente Volpi–Varek en Libros I–II.
 - Elio/Matteo: destino de Elio, qué descubrió, nota privada; evidencia, costo y motivo/momento del regreso de Matteo. Nombre, oficio y Génova ya fijados.
 - El Faro: equipo mínimo. Fabrizio/Tommaso: verificar confirmación de nombres/peso frente a fichas y plan recientes.
 - La Casa: por qué los Mercer dejaron de poseerla; si Chiara sabe su origen mientras la diseña. No bloquea el capítulo aprobado del loft.

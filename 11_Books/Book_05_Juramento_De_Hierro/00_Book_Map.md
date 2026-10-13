@@ -66,6 +66,10 @@ Ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]] y [[07_Ideas/Libro_04_Incu
 
 Curva de Erin en la trilogía (CANON DEL AUTOR, 2026-10-03): **V tensión → VI ruptura en la presa → VII reconciliación.**
 
+## Reservado para este libro
+
+- **Julliete Grayson** (CANON DEL AUTOR, 2026-10-12): madre de [[02_Characters/Marisol_Grayson|Marisol]]. En los Libros I–IV es sólo "la madre que se fue"; su historia y su función aquí son PENDIENTE.
+
 ## Pendientes (de [[07_Ideas/Libro_04_Incubadora/08_Pendientes_De_Autor]])
 
 Ver ese documento para la lista completa de decisiones abiertas del autor sobre el ciclo de Elenna.

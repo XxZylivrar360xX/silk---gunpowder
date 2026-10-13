@@ -1,6 +1,6 @@
 # Pendientes activos
 
-Actualizado: 2026-10-10. Máximo 800 palabras; las decisiones de fondo van en [[98_Agent_Handoff/BACKLOG]]. Al resolver un pendiente, retirarlo y registrarlo en una nota de sesión. Versión anterior íntegra: [[98_Agent_Handoff/archive/2026-10-06_PENDING]].
+Actualizado: 2026-10-12. Máximo 800 palabras; las decisiones de fondo van en [[98_Agent_Handoff/BACKLOG]]. Al resolver un pendiente, retirarlo y registrarlo en una nota de sesión. Versión anterior íntegra: [[98_Agent_Handoff/archive/2026-10-06_PENDING]].
 
 ## Cierre del Libro I (Caps. 44–50b)
 
@@ -39,10 +39,10 @@ Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Todo 
 
 ## Apertura de *Sombras de Poder* (Libro II)
 
-- **En espera** hasta cerrar el Libro I. El primer capítulo abarca unos nueve días: la respuesta al "Ciao, bella", hasta dónde llegó ella (salvo la cuenta abierta con Dario), la mañana siguiente y la llamada por Tommaso. **PENDIENTE:** número y título.
+- **En espera** hasta cerrar el Libro I. El Cap. 1, «Hogar», está en BORRADOR y cierra en «Fabrizio está muerto».
+- **Cuatro Partes (CANON 2026-10-12):** [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]. **Confirmar:** Villa en la I o la III; piano/F4; la incursión de cocaína y la vela; la mentira de H8; uno o dos robos de joyería. **Decidir:** extensión y desenlace de la investigación nocturna de Kal; afinar el argumento sobre La Mesa; cómo llega Mei-Lin a Varek (hay propuesta de diseño); motivo de Varek con Fabrizio. [[98_Agent_Handoff/sessions/2026-10-12_claude_cuatro_partes_sombras]].
 - **Q24 (movida al Libro II por el autor, 2026-10-08):** qué hace Chiara con la oferta del Monarch (49) y cuándo se entera Dario.
 - **Cobros del Libro I (CANON, 2026-10-08):** "Quiero levantarlo"; la oportunidad que Rowe (madre de Sam) le da a Marisol como parte del favor; North Guard Securitia frente a Eagle Eye. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]].
-- **PENDIENTE (autor):** redistribuir las Partes al año que cubre el libro (la Navidad del collar es la primera juntos y va al final de ese año).
 - **Aura:** la primera escena en la que alguien entra y casi dice *perdón por mirarlos* ([[06_Relationships/Kal_y_Chiara]], "El aura").
 - Al empezar: recordar la muerte de Amanda Keegan ([[02_Characters/Natalie_Keegan]]) y revisar el BACKLOG antes de F2, H1 o Villa/Stavanger. Incubadora: [[98_Agent_Handoff/sessions/2026-10-03_claude_buzon_chatgpt_nueve_notas]].
 - **Halbrook:** pendientes 2–6 de [[98_Agent_Handoff/sessions/2026-09-28_claude_reconstruccion_halbrook]]. Límites legibles de su vigilancia (el fotograma de la grabación borrada).

@@ -90,7 +90,7 @@ Movimiento esencial:
 
 Chiara pasa de una vida donde el apellido, la versión pública y la movilidad son herramientas de supervivencia a elegir activamente quedarse con Kal y construir algo propio.
 
-El cierre del libro empieza a abrir una herida específica: **las personas que ama desaparecen o se alejan** (Matteo, Fabrizio, Tommaso a punto de morir) mientras Kal, detenido en Camp Alder, se convierte en la primera persona que **vuelve** en vez de irse.
+El cierre del libro empieza a abrir una herida específica: **las personas que ama desaparecen o se alejan** (Matteo, Fabrizio — que muere al abrir el Libro II —; ~~Tommaso a punto de morir~~, superado por #54) mientras Kal, detenido en Camp Alder, se convierte en la primera persona que **vuelve** en vez de irse.
 
 ## Alcance del libro
 
@@ -105,7 +105,7 @@ Debe desarrollar de forma suficiente:
 - el pacto con Varek y la entrada de Kal a su estructura;
 - la presión temprana de Dario;
 - la presión temprana de Il Consorzio sobre Chiara (H13, Palermo) sin convertirlo todavía en antagonista principal de volumen;
-- la salida de Matteo y el aislamiento progresivo de Chiara (Fabrizio se distancia, Tommaso queda en riesgo);
+- la salida de Matteo y el aislamiento progresivo de Chiara (Fabrizio se distancia ~~, Tommaso queda en riesgo~~; ver #54);
 - F1 — la mentira bajo la lluvia — y su reconciliación parcial;
 - H19/H20 — Camp Alder y el fracaso de los recursos de Chiara para liberar a Kal; desde 2026-10-01, H20 es el **arco final sin Kal** (Caps. 44–50b): institución, red, El Patio, Dario, los Bravos e Il Consorzio, cada puerta más cara que la anterior;
 - la liberación inexplicada de Kal (mecanismo reservado a *Voto de Ceniza*) y el reencuentro — **"Ciao, bella"**;
@@ -127,7 +127,7 @@ El libro cierra con el reencuentro de Kal y Chiara tras la liberación inexplica
 
 > **— Ciao, bella.**
 
-Sin explicación de la liberación, sin abrazo, sin "volví" — el *"Ciao, bella"* es el cierre. Todo lo que sigue (la respuesta de Chiara, la reconciliación completa, el asesinato de Tommaso esa misma tarde) abre *Sombras de Poder*.
+Sin explicación de la liberación, sin abrazo, sin "volví" — el *"Ciao, bella"* es el cierre. Todo lo que sigue (la respuesta de Chiara, la reconciliación completa, ~~el asesinato de Tommaso esa misma tarde~~ la muerte de Fabrizio a la mañana siguiente, #54) abre *Sombras de Poder*.
 
 > **FIN DE MÁSCARAS DE CRISTAL.**
 
@@ -135,7 +135,7 @@ Estado de salida:
 
 - Kal y Chiara están reunidos, sin haber hablado todavía de lo ocurrido.
 - El Patio existe como estructura naciente alrededor de Kal; Ren Wei todavía no se integra.
-- Chiara ha perdido a Matteo y ve alejarse a Fabrizio; Tommaso sigue vivo (muere al abrir el Libro II).
+- Chiara ha perdido a Matteo y ve alejarse a Fabrizio (muere al abrir el Libro II); Tommaso sigue vivo ~~(muere al abrir el Libro II)~~ y se ausenta hacia el final del Libro II (#54).
 - Il Consorzio ya reclamó a Chiara como Ardizzone (H13, Palermo), sin ser todavía antagonista central.
 - Kal le debe a alguien (Halbrook, sin nombrarlo en el libro) su libertad — deuda sin cobrar.
 - Chiara le debe a Dario una cuenta abierta (Kal no lo sabe); su nombre quedó escrito con los Bravos, que asaltaron un convoy federal; Il Consorzio le ofreció el Monarch y ella no contestó (2026-10-01).
@@ -202,11 +202,13 @@ Kal y Chiara tienden a decidir unilateralmente por protección. *Sombras de Pode
 
 ## Apertura
 
-Abre **inmediatamente después** del *"Ciao, bella"* que cierra el Libro I: la respuesta de Chiara, la explicación incompleta de Kal (luces fuera, bolsa de tela, loft — sin nombrar a Halbrook), la reconciliación completa de F1 + Palermo + los tres días + el arresto. Esa misma tarde, la policía llama a Chiara por el asesinato de Tommaso Lusardi. El libro abre cobrando casi todas las sillas de Chiara de un solo jalón; después arranca la organización de Kal (Ren Wei, umbral de categoría).
+Abre **inmediatamente después** del *"Ciao, bella"* que cierra el Libro I: la respuesta de Chiara, la explicación incompleta de Kal (luces fuera, bolsa de tela, loft — sin nombrar a Halbrook), la reconciliación completa de F1 + Palermo + los tres días + el arresto. ~~Esa misma tarde, la policía llama a Chiara por el asesinato de Tommaso Lusardi.~~ A la mañana siguiente, Lucía Varek llama a Chiara: Fabrizio Rinaldi está muerto (#54). El libro abre cobrando casi todas las sillas de Chiara de un solo jalón; después arranca la organización de Kal (Ren Wei, umbral de categoría).
 
 ## Estructura por Partes
 
-`Parte I — Nieve y Ceniza` (reconciliación, Tommaso, Ren Wei, Navidad/collar, Año Nuevo/F4 separados [canon 2026-09-26], incendio del loft) → `Parte II — Exilio` (F3, F2 — Mei-Lin y Bonnie el mismo día —, Villa Candelaria, Stavanger/anillo) → `Parte III — Torna a Casa` (conflicto final, Silas Crowe, embarazo, H1, reveal ~~, coda Halbrook~~ — la coda pasó al Cap. 50b del Libro I; el libro cierra en el reveal, en la chimenea de Villa Candelaria, CANON DEL AUTOR 2026-10-02). Desarrollo completo en [[01_Timeline/03_Libro_02_Sombras_De_Poder]] y [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]].
+> **SUPERSEDIDO (CANON DEL AUTOR, 2026-10-12; #55):** cuatro Partes: **I — Territorio ajeno** (expansión; cierra con la gala de Halbrook) · **II — Nieve y ceniza** (Navidad, deterioro interno de Kal, Año Nuevo/F4) · **III — Exilio** (F2, costo del mando, salida de Tommaso) · **IV — Torna a casa** (independencia de Dario, tormenta, Stavanger, H1, reveal). El incendio y Villa Candelaria pasan a la Parte I. Manda [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]. Lo de abajo es historial.
+
+`Parte I — Nieve y Ceniza` (reconciliación, Fabrizio [antes Tommaso, #54], Ren Wei, Navidad/collar, Año Nuevo/F4 separados [canon 2026-09-26], incendio del loft) → `Parte II — Exilio` (F3, F2 — Mei-Lin y Bonnie el mismo día —, Villa Candelaria, Stavanger/anillo) → `Parte III — Torna a Casa` (conflicto final, Silas Crowe, embarazo, H1, reveal ~~, coda Halbrook~~ — la coda pasó al Cap. 50b del Libro I; el libro cierra en el reveal, en la chimenea de Villa Candelaria, CANON DEL AUTOR 2026-10-02). Desarrollo completo en [[01_Timeline/03_Libro_02_Sombras_De_Poder]] y [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]].
 
 > **CANON DEL AUTOR (2026-10-06):** el Libro I termina a principios de enero. Navidad, Año Nuevo y el cumpleaños de Kal pasan con Kal preso. *Sombras de Poder* cubre esencialmente un año, y la Navidad/collar va a fin de ese año (la primera juntos), seguida de F4 en el Año Nuevo siguiente. **PENDIENTE:** redistribuir las Partes; la secuencia de arriba sigue valiendo como orden, no como calendario ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]).
 
@@ -711,7 +713,7 @@ O, en su herida más profunda:
 
 | De | Hacia | Bisagra |
 |---|---|---|
-| **Máscaras de Cristal** | **Sombras de Poder** | Reencuentro tras Camp Alder ("Ciao, bella", Cap. 50) + Halbrook en San Aurelio (Cap. 50b) + reconciliación completa + asesinato de Tommaso esa misma tarde + arranque de la organización de Kal (Ren Wei) |
+| **Máscaras de Cristal** | **Sombras de Poder** | Reencuentro tras Camp Alder ("Ciao, bella", Cap. 50) + Halbrook en San Aurelio (Cap. 50b) + reconciliación completa + asesinato de Fabrizio a la mañana siguiente (#54; antes Tommaso) + arranque de la organización de Kal (Ren Wei) |
 | **Sombras de Poder** | **Voto de Ceniza** | Primer choque abierto asociado a la presión de Dario + H1 + embarazo revelado ~~+ llegada física de Halbrook a San Aurelio~~ (pasó al cierre del Libro I) |
 | **Voto de Ceniza** | **Cuentas de Sangre** | Dario preso + montaña + Santa Lucía + Kal sentencia a Halbrook + Halbrook ejecutado en su discurso de victoria (tirador oculto) + Corrado vivo en el hospital |
 | **Cuentas de Sangre** | cierre de saga | La muerte de Halbrook (cierre del III) provoca Meridian; el tirador se revela al final (Harper); vacío de Dario activa Consorzio; Kal/Chiara vuelven reemplazable su poder y salen hacia Elenna |
@@ -793,6 +795,11 @@ Este documento cambió canon anterior en los siguientes puntos:
 51. **Halbrook llega físicamente a San Aurelio al cierre del Libro I** (50b: Kingsley Field, alba, narrador externo, sin nombre ni diálogo). Confirma y detalla #6. "Halbrook no pisa San Aurelio" vale sólo hasta el apagón.
 52. **El Libro II cierra en el reveal del embarazo** (la noche de H1, en la chimenea de Villa Candelaria), no en la coda de Halbrook. La siguiente aparición de Halbrook en prosa es la gala de beneficencia de Chiara, con el baile (CANON DEL AUTOR, 2026-10-02).
 53. **Calendario (CANON DEL AUTOR, 2026-10-06):** Kal pasa unos dieciséis días preso, del 19 de diciembre al 5 de enero; Navidad, Año Nuevo y su cumpleaños pasan sin él. El Libro I termina el 5 de enero del año 3. El Libro II cubre esencialmente un año, y su Navidad (la del collar) es la primera juntos. Redistribuir sus Partes queda PENDIENTE. Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]].
+
+## Nuevas — 2026-10-12, *Sombras de Poder*: Fabrizio, Tommaso y cuatro Partes (CANON DEL AUTOR)
+
+54. **Fabrizio muere; Tommaso se queda (CANON DEL AUTOR, 2026-10-12).** El asesinado al abrir *Sombras de Poder* es **Fabrizio Rinaldi**: aparece muerto en su apartamento y Lucía Varek llama a Chiara para identificarlo (Cap. 1, «Hogar»). **Tommaso Lusardi no muere:** se queda en San Aurelio durante el libro y se ausenta hacia el final. Supersede la muerte de Tommaso por Volpi al abrir el Libro II (canon 2026-09-12/20/21). PENDIENTE: el motivo de Varek para matar a Fabrizio; cómo llega Mei-Lin también a Varek; la Parte y los detalles del choque; quién amenaza a la familia de Tommaso y cómo cede el Monarch. Ver [[02_Characters/Fabrizio_Rinaldi]] y [[02_Characters/Tommaso_Lusardi]]. **Ampliado el mismo día:** Volpi mata a Fabrizio con el mecanismo que antes era de Tommaso (composición de Keene; hipótesis de asesino serial; segunda víctima del patrón). El segundo atentado pasa a ser el corte de frenos del Lancia de Chiara por orden de Varek (lo ejecuta Volpi, velado), al cierre de la Parte II, en Calle Corona rumbo al Puente de Piedra: Tommaso, al volante, choca contra el Audi de Kal que maneja Marisol (tibia fracturada de Marisol; bastón permanente para Tommaso; acercamiento en el hospital que en parte lo lleva a retirarse). Supersede el «2x1». Mei-Lin se queda con Tommaso (¿triple agente por miedo?: PENDIENTE). *El Faro*: la muerte de Fabrizio es combustible; el detonante son las consecuencias del arresto de Kal y que todo quedara demasiado limpio a su favor.
+55. **Cuatro Partes para *Sombras de Poder* (CANON DEL AUTOR, 2026-10-12; retrabajo de supersesión del autor incubado con ChatGPT el 2026-10-11).** I *Territorio ajeno* · II *Nieve y ceniza* · III *Exilio* · IV *Torna a casa*. Supersede la estructura de tres Partes (#19 y la reasignación del 2026-09-22) y el orden Navidad → F4 → incendio → Exilio → Villa tras F2. Halbrook entra como benefactor y consultor de seguridad pública, no como general amenazante, y la gala cierra la Parte I. Plan rector y puntos por confirmar: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].
 
 ---
 

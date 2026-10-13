@@ -6,7 +6,7 @@
 
 Preparado `tools/build_sombras.py` para regenerar EPUB y PDF del Libro II. Ejecución desde la raíz: `python -B .\tools\build_sombras.py`. Opciones: `--format epub`, `--format pdf`, `--paper letter`, `--year`.
 
-La lista `CHAPTERS` selecciona únicamente [[11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Hogar|Hogar]]. Usa la fuente vigente renombrada por el autor; no cambia prosa ni estado BORRADOR. Los futuros capítulos se añaden expresamente a la lista. `Ya_Llego.md` queda fuera de esta copia de lectura.
+La lista `CHAPTERS` selecciona únicamente [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/01_Hogar|Hogar]]. Usa la fuente vigente renombrada por el autor; no cambia prosa ni estado BORRADOR. Los futuros capítulos se añaden expresamente a la lista. `Ya_Llego.md` queda fuera de esta copia de lectura.
 
 ## Cambios de proceso
 

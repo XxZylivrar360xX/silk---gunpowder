@@ -20,7 +20,7 @@ Para regenerar sólo el PDF:
 python -B .\tools\build_sombras.py --format pdf
 ```
 
-La selección inicial incluye únicamente **Hogar**, en la Parte I — Nieve y ceniza. La salida es `output/pdf/Sombras_De_Poder.pdf`. Para incorporar capítulos posteriores, actualizar `CHAPTERS` en `tools/build_sombras.py`; instrucciones y metadatos en [[tools/epub-build/README]].
+La selección inicial incluye únicamente **Hogar**, en la Parte I — Territorio ajeno. La salida es `output/pdf/Sombras_De_Poder.pdf`. Para incorporar capítulos posteriores, actualizar `CHAPTERS` en `tools/build_sombras.py`; instrucciones y metadatos en [[tools/epub-build/README]].
 
 El generador PDF también acepta `--chapter` repetible (rutas relativas a `--book`), `--series`, `--series-position` y `--identifier`. El lanzador ya fija estos valores para el Libro II. `--paper letter` cambia el tamaño del PDF sin alterar el EPUB.
 

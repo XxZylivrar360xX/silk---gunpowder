@@ -24,7 +24,7 @@ COVER = "99_Reference/book_covers/Sombras_De_Poder_VICTOR_PAZ.png"
 # Añadir aquí los capítulos que el autor incorpore a la copia de lectura.
 # Las rutas son relativas a BOOK; el recolector conserva el orden de carpetas/archivos.
 CHAPTERS = (
-    "Part_01_Nieve_Y_Ceniza/01_Hogar.md",
+    "Part_01_Territorio_Ajeno/01_Hogar.md",
 )
 
 

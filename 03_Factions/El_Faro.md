@@ -25,6 +25,8 @@ Las fases previsibles: fuente → asesora → inversora → dueña de hecho ante
 
 > **CANON DEL AUTOR (2026-10-03):** la compra legal ocurre en *Sombras de Poder*, **después del asesinato de Tommaso**: Chiara necesita voz propia ante la opinión pública. Las fases previas se conservan; Tommaso detona la compra. Ya dueña, un reportero de *El Faro* transmite en vivo el enfrentamiento de la tormenta, y así Chiara ve su escala. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]] ("Incubadora 2026-10-03").
 
+> **SUPERSEDIDO EN PARTE (CANON DEL AUTOR, 2026-10-12):** Tommaso no muere y ya no detona la compra. **La muerte de [[02_Characters/Fabrizio_Rinaldi|Fabrizio]] es combustible; el detonante son las consecuencias del arresto de Kal y que todo quedara demasiado limpio a su favor.** Chiara adquiere la mayoría progresivamente en la Parte I — *Territorio ajeno*. La primera fase visible es farándula, sociedad, hoteles, restaurantes, beneficencia y eventos, y así aprende que la atención pública es un recurso finito: distrae, reemplaza historias y favorece de manera indirecta movimientos de Kal sin destruir todavía la credibilidad del diario. Plan: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] (§19).
+
 > **PENDIENTE:** decidir quién es el dueño actual y por qué está desesperado. Restricción de diseño: no puede ser corrupto. Tiene que ser alguien decente y agotado, para que lo que Chiara hace duela.
 
 ---

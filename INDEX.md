@@ -17,7 +17,7 @@ Mapa de navegación de *Seda y Pólvora*. Este índice apunta a las fuentes vige
 | Libro | Mapa |
 |---|---|
 | I — *Máscaras de Cristal* | [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] |
-| II — *Sombras de Poder* | [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] |
+| II — *Sombras de Poder* | [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] · plan rector en cuatro Partes: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] |
 | III — *Voto de Ceniza* | [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]] |
 | IV — *Cuentas de Sangre* | [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]] |
 | V — *Juramento de Hierro* | [[11_Books/Book_05_Juramento_De_Hierro/00_Book_Map]] |

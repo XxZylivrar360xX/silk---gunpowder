@@ -49,7 +49,9 @@ construyen empieza a decidir quién debe ser cada uno.
 Abre en el instante exacto donde termina el Cap. 50 del Libro I (el 50b es una coda exterior, al alba): Kal, liberado de Camp Alder de un modo
 que no explica, de pie en la isla del loft a oscuras. Chiara le apunta con su Beretta. Él dice
 *"Ciao, bella."* Todo lo que sigue — su respuesta, la reconciliación completa, la llamada de
-la policía por Tommaso Lusardi esa misma tarde — abre este libro.
+Lucía Varek a la mañana siguiente: Fabrizio Rinaldi está muerto — abre este libro.
+
+> **CANON DEL AUTOR (2026-10-12):** el asesinado al abrir el libro es **Fabrizio**, no Tommaso (supersede "la llamada de la policía por Tommaso Lusardi esa misma tarde"). **Tommaso sobrevive**, se queda en San Aurelio y es quien se ausenta hacia el final del libro. Ver [[02_Characters/Fabrizio_Rinaldi]] y [[02_Characters/Tommaso_Lusardi]].
 
 ## Punto de salida
 
@@ -74,7 +76,7 @@ sobrevivan — como individuos y como pareja — a haberlo ganado.
 | Personaje | Empieza en | Presión principal | Decisión clave | Termina en |
 |-----------|------------|-------------------|-----------------|------------|
 | Kal Mercer | Recién liberado de Camp Alder tras unos dieciséis días preso (Navidad, Año Nuevo y su cumpleaños pasaron sin él), todavía viéndose como "un hombre que resuelve problemas" | Cada solución genera más territorio, dependencias y enemigos | Aceptar, sin ceremonia, que se ha vuelto el jefe de una organización reconocida | Padre en camino, dueño de un poder que casi le cuesta la vida en H1 |
-| Chiara Bellandi | Reconciliada con Kal, absorbiendo las sillas que Matteo y Tommaso dejan vacías; con una cuenta abierta con Dario, su nombre escrito con los Bravos y la oferta del Monarch sin contestar | Ayudar a Kal a sobrevivir puede convertirlo en lo que ella conoce el precio de ser | Crecer como operadora propia, no como estratega auxiliar del ascenso de Kal | Embarazada, comprometida, habiendo perdido a Mei-Lin y a Bonnie |
+| Chiara Bellandi | Reconciliada con Kal, absorbiendo las sillas que Matteo y Fabrizio dejan vacías (y, hacia el final, la de Tommaso); con una cuenta abierta con Dario, su nombre escrito con los Bravos y la oferta del Monarch sin contestar | Ayudar a Kal a sobrevivir puede convertirlo en lo que ella conoce el precio de ser | Crecer como operadora propia, no como estratega auxiliar del ascenso de Kal | Embarazada, comprometida, habiendo perdido a Mei-Lin y a Bonnie |
 
 ## Fuerzas de presión
 
@@ -108,19 +110,36 @@ Obligaciones que deja el cierre de *Máscaras de Cristal* y que este libro tiene
 
 ## Estructura por Partes
 
+> **CANON DEL AUTOR (2026-10-12): cuatro Partes.** Manda [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] (estructura, orden y hechos; incluye lo que supersede y lo que falta confirmar). Desarrollo previo, por Partes, en [[01_Timeline/03_Libro_02_Sombras_De_Poder]].
+
+| Parte | Función | Contenido principal | Cierra en |
+|---|---|---|---|
+| I — Territorio ajeno | Expansión: Kal coordina bajo el techo de Dario; Chiara construye estructura | Hogar y la muerte de Fabrizio (Volpi); frente Tommaso–Chiara contra Dario; Ren Wei como valet; robo de joyería con el Patio completo; el millón como Plan B; Tyler pierde el cargamento de Crowe y **Crowe incendia el loft**; Ren revela su capacidad; Calle Almendra («Quiero levantarlo»); azotea; **Villa Candelaria**; rodada de montaña; encubierto del FBI (nombre de Danny); «Señor Militar»; *El Faro*; Dario en dos versiones | **Gala de beneficencia:** «—Conocí a Warren Halbrook.» |
+| II — Nieve y ceniza | Pertenencia por fuera, deterioro por dentro | Invierno y **Navidad del año 3** (collar *Retorna a casa*); el Patio como familia; Kal en piloto automático; Harper como pupila; **ataque de pánico solo en el garaje**; Marisol y Chiara lo notan; Año Nuevo / F4 | **El choque:** frenos cortados del Lancia de Chiara (Volpi, velado); Tommaso contra el Audi que maneja Marisol, en Calle Corona; Kal, en pánico, con Chiara en el armario del hospital; en La Almendra descubre el sabotaje |
+| III — Exilio | Fractura y costo del mando | **F2:** Mei-Lin (Nadir ejecuta, Kal decide) y Bonnie desterrada el mismo día; F3; Nadir agrietado; Tommaso sale o queda encaminado a salir (choque, bastón, Marisol, familia; cede el Monarch) | La primera gran mutilación de la familia elegida |
+| IV — Torna a casa | Emancipación y guerra inevitable | Doctrina propia de Kal e independencia ideológica de Dario; un golpe fallido con muertos; **la tormenta**; Crowe como martillo; Halbrook ya institucional; **Stavanger** ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]]; concepción de Elenna); **H1** | Reveal del embarazo la noche de H1, en la chimenea de Villa Candelaria, sólo a la luz del fuego (CANON 2026-10-02) |
+
+> **Calendario:** el libro abre el 5 de enero del año 3; la Parte II es el invierno y la Navidad de ese año; las Partes III y IV caen en el año siguiente. El calendario fino es PENDIENTE ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]).
+
+<details><summary>Tabla anterior (tres Partes, supersedida el 2026-10-12)</summary>
+
+
 Desarrollo completo, Parte por Parte, en [[01_Timeline/03_Libro_02_Sombras_De_Poder]]. Resumen:
 
 | Parte | Función | Cierra en |
 |---|---|---|
-| I — Nieve y Ceniza | Reconciliación completa, asesinato de Tommaso, organización de Kal (Ren Wei), Navidad y el collar RETORNA A CASA | Incendio del loft |
+| I — Nieve y Ceniza | Reconciliación completa, asesinato de Fabrizio (antes: Tommaso; CANON 2026-10-12), organización de Kal (Ren Wei), Navidad y el collar RETORNA A CASA | Incendio del loft |
 
 > **PENDIENTE (autor, 2026-10-06):** el libro abre el 5 de enero y cubre esencialmente un año; la Navidad del collar (la primera juntos) cae al final de ese año, seguida de F4. Hay que redistribuir las Partes; la tabla de arriba vale como orden, no como calendario ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]).
-| II — Exilio | Año Nuevo/F4, F3, F2 (Mei-Lin y Bonnie el mismo día), reconstrucción en Villa Candelaria, robo de la joyería (el anillo), compromiso en Stavanger ([[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]], canonizado 2026-10-02; origen de Kal; concepción de Elenna) | Futuro elegido, pareja comprometida |
+| II — Exilio | Año Nuevo/F4, F3, F2 (Mei-Lin y Bonnie el mismo día), reconstrucción en Villa Candelaria, robo de la joyería (el anillo), compromiso en Stavanger ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]], canonizado 2026-10-02; origen de Kal; concepción de Elenna) | Futuro elegido, pareja comprometida |
 | III — Torna a Casa | Conflicto final (Silas Crowe, coalición de Dario), embarazo confirmado, H1 | Reveal del embarazo esa misma noche de H1, en la chimenea de Villa Candelaria, sólo a la luz del fuego; el libro acaba ahí (CANON DEL AUTOR, 2026-10-02; ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "Cierre del Libro II"). Siembra: Chiara escribe en cursiva un nombre que no se revela |
+
+
+</details>
 
 ## Capítulos
 
-En prosa BORRADOR: [[11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Hogar]] (Cap. 1, título fijado por el autor el 2026-10-10) y [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]] (capítulo sin número, prosa pendiente de lectura del autor). La Parte III todavía no tiene capítulos escritos. El plan de la reconciliación sigue documentado en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]] (sección del antiguo Cap. 45). Las carpetas I y II contienen los borradores enlazados; `Part_03_Torna_A_Casa/` existe como carpeta local vacía para la parte futura.
+En prosa BORRADOR: [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/01_Hogar]] (Cap. 1, título fijado por el autor el 2026-10-10) y [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]] (capítulo sin número, prosa pendiente de lectura del autor). Las Partes II y III todavía no tienen capítulos escritos. El plan de la reconciliación sigue documentado en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]] (sección del antiguo Cap. 45). Carpetas (renombradas el 2026-10-12): `Part_01_Territorio_Ajeno/` (Hogar), `Part_02_Nieve_Y_Ceniza/` y `Part_03_Exilio/` (vacías) y `Part_04_Torna_A_Casa/` (*Ya llegó*).
 
 ## Escenas en reserva
 
@@ -143,7 +162,7 @@ La ocasión, el momento del libro y quién más escucha la radio siguen PENDIENT
 
 Ver la lista completa en [[01_Timeline/03_Libro_02_Sombras_De_Poder]], sección "Elementos
 pendientes explícitos". Entre los más relevantes: composición y objetivo de la coalición de
-H1, mecanismo de la caída de Silas Crowe, distancia fina F4→F3→F2, logística de Villa
+H1, mecanismo de la caída de Silas Crowe, motivo de Varek para matar a Fabrizio, cómo llega Mei-Lin a Varek con Tommaso vivo, Parte y detalles del choque de Tommaso y Marisol, cesión de su parte del Monarch, distancia fina F4→F3→F2, logística de Villa
 Candelaria, cobro de la mentira de H8, ubicación y bandas de la tormenta, cronología de *El Faro*
 y de la cadena hotelera.
 

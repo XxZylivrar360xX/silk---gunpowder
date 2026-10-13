@@ -155,7 +155,7 @@ Kal fue comprado. No adoptado: comprado, de bebé, a través de una red que mov�
 
 Nunca ha ido a buscar. Dice que es porque no le interesa. La verdad es más simple y peor: **tiene miedo de que allá tampoco haya nadie.**
 
-> **RESUELTO (CANON DEL AUTOR, 2026-10-02):** **Stavanger.** Su madre biológica, **Ingrid**, murió once años antes del viaje; su hermano, **Henrik Solberg**, guarda sus cartas y la única foto de Ingrid con Kal (de dos semanas). Kal y Chiara lo descubren juntos en *Sombras de Poder*, Parte II ([[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]]); en ese viaje le propone matrimonio y se concibe Elenna. Hasta ese capítulo, el hueco se mantiene en prosa.
+> **RESUELTO (CANON DEL AUTOR, 2026-10-02):** **Stavanger.** Su madre biológica, **Ingrid**, murió once años antes del viaje; su hermano, **Henrik Solberg**, guarda sus cartas y la única foto de Ingrid con Kal (de dos semanas). Kal y Chiara lo descubren juntos en *Sombras de Poder*, Parte II ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]]); en ese viaje le propone matrimonio y se concibe Elenna. Hasta ese capítulo, el hueco se mantiene en prosa.
 
 > **CANON DEL AUTOR (2026-08-29):** hay una segunda pieza, además de la pulsera — una caja de madera con algo grabado en runas nórdicas, escondida desde niño en un conducto de aire de [[05_Locations/La_Casa]]. Kal la recupera en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]] sin abrirla y la guarda en el maletero. **No vuelve a aparecer ni a mencionarse hasta la Parte 3** — ver [[12_Craft_Policies/revelations/SAGA_LEVEL]].
 
@@ -377,6 +377,16 @@ Después del piano, Kal cobra por fin el cifrado ("Ya que estamos contando secre
 ## North Guard Securitia — CANON DEL AUTOR (2026-10-08)
 
 Es su empresa de seguridad legítima. La anuncia en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05_Una_Amiga|Cap. 5]] y le ofrece el servicio al Monarch. (La semilla que tenía en la tumba de Michael del Cap. 1, "sobre todo seguridad... O proteges, o te protegen", salió con el cementerio el 2026-10-08.) Cuándo se concreta, su relación con El Patio y con Eagle Eye: PENDIENTE ([[01_Timeline/03_Libro_02_Sombras_De_Poder]]).
+
+## *Sombras de Poder* — el límite — CANON DEL AUTOR (2026-10-12)
+
+Plan: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].
+
+- **Piloto automático (Parte II):** resuelve, coordina y dice «estoy bien»; se vuelve eficiente a costa de sí mismo. Primer ataque de pánico **solo en el garaje**, sin testigos.
+- **El choque (cierre de la Parte II):** el Lancia de Chiara, con los frenos cortados y Tommaso al volante, choca contra su Audi, que maneja Marisol (ella toma el Audi desde el Libro I, diga él que sí o que no, y él siempre cede). Kal es **una tormenta de sentimientos**: va al hospital por preocupación y sufre un **segundo ataque de pánico**; **Chiara se encierra con él en un armario de suministros médicos** para calmarlo. Es una de las primeras llamadas de atención de que el ascenso criminal y el liderazgo lo llevan al límite.
+- **La furia:** cuando el Lancia y el Audi llegan a La Almendra, ve que el líquido de frenos estaba vaciado, manipulado. **La víctima fue Marisol; el objetivo era Chiara.** Es combustible para un gran arco suyo.
+- **El arco (CANON 2026-10-12):** empieza una **investigación por su cuenta**, sale de noche y actúa como **matón de calle**. Es un Kal mucho más dudoso moralmente. No compra la teoría de Chiara (La Mesa): según la red de Varek, La Mesa sólo opera si Varek lo permite (por afinar). La autoría de Varek–Volpi sigue reservada y no puede llegar a prueba. Su extensión y su desenlace, a partir de la Parte III, son PENDIENTE.
+- **Lo que ve Tommaso:** en el hospital, Tommaso conoce de Kal un lado protector y paterno que no percibe en los negocios.
 
 ## Preguntas abiertas
 

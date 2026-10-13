@@ -284,7 +284,7 @@ Representa lo contrario: **la razón por la que Kal y Chiara descubren que no ne
 No resolver ninguno de estos puntos por conveniencia:
 
 1. **PENDIENTE:** fecha exacta de nacimiento.
-2. **RESUELTO EN LUGAR (CANON DEL AUTOR, 2026-10-02):** Elenna se concibe en el viaje a Stavanger, el mismo en que Kal y Chiara se comprometen. El texto no señala la concepción (regla ya vigente en [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]]). Fecha exacta: PENDIENTE.
+2. **RESUELTO EN LUGAR (CANON DEL AUTOR, 2026-10-02):** Elenna se concibe en el viaje a Stavanger, el mismo en que Kal y Chiara se comprometen. El texto no señala la concepción (regla ya vigente en [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]]). Fecha exacta: PENDIENTE.
    - **Rima de saga (DISEÑO, no enunciar):** Elenna conoce por las cartas la historia de cómo se comprometieron sus padres; en el hangar de *Camino a Casa*, "Pero mi historia empezó en un aeropuerto así, ¿o no?" / "Sí." carga la noche de la salida a Stavanger (anillo e hija en el mismo viaje). Capas secundarias: Kingsley Field (Palermo, el regreso de Chiara, la llegada de Halbrook en el 50b) y el papel de canela y vainilla (el tic del nombre en el Libro II es lo primero que Chiara le escribe). Ninguna escena la explica; la rima vive en lo que trae el lector.
 3. **PENDIENTE:** momento exacto del descubrimiento del embarazo, incluido cuántos días antes de H1 lo confirma Chiara.
 4. **PENDIENTE:** cuánto embarazo ha transcurrido al iniciar *Voto de Ceniza* (Libro II).

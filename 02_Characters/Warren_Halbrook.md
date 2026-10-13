@@ -262,6 +262,16 @@ Poder externo sobre Kal. **Halbrook NO pisa San Aurelio** hasta el último capí
 
 Observa el crecimiento de Kal: `INDIVIDUO → ACTIVO → RED → ORGANIZACIÓN → RIESGO INSTITUCIONAL`, con una fascinación creciente por comprobar hasta dónde llega. No es voyeurismo: es confirmación de una hipótesis. Paralelamente, empieza a entender que San Aurelio tiene poder sin uniforme: beneficencia, juntas, empresarios, prensa, asociaciones, redes cívicas. Su entrada como **nuevo benefactor** (ver "Escenas semilla") es pequeña y legítima; **no presentarla como campaña.** Su llegada física en helicóptero ~~al cierre~~ (ahora al cierre del Libro I, Cap. 50b) significa que **la variable Mercer superó la administración remota.** Entre el 50b y la gala no aparece en prosa.
 
+> **CANON DEL AUTOR (2026-10-12): entrada pública y ascenso institucional.** Detalle en [[98_Agent_Handoff/ChatGPT/2026-10-11_halbrook_benefactor_consultor_ascenso]]; plan en [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].
+> - **No entra como general amenazante**, sino como benefactor, veterano prestigioso, experto en seguridad y, como opción preferente, **consultor externo de seguridad pública y crimen organizado** (Policía, Fiscalía, Alcaldía, comisiones), sin cargo formal al principio: no manda, **lo escuchan**. Regla: *cuanto más cerca está del poder, menos amenaza parece.* Su fuerza es reputación, legitimidad, lenguaje institucional y acceso.
+> - **La doble historia de Afganistán:** en público, «operaciones de seguridad de corredores e interdicción de tráfico ilícito». San Aurelio oye *combatió traficantes*; Kal entiende *administró rutas donde se movían niños*. Ajuste de realismo: tuvo mando directo de campo años antes, como comandante de grupo de tarea, y después ascendió a brigadier general. No «lideraba una patrulla» siendo general.
+> - **Restricción dura:** Kal y Chiara no pueden acusarlo públicamente sin prueba utilizable. Saber quién es no impide que la ciudad lo legitime.
+> - **Ruta:** `benefactor → consultor → rostro de seguridad pública → voz citada → comisiones → participación cívica → otros sugieren que se presente → candidatura → senador`. No dice pronto que quiere ser senador. Capital social antes que electoral.
+> - **La gala cierra la Parte I** (*Territorio ajeno*). En casa: «—Conocí a Warren Halbrook.» / «—¿Halbrook está en San Aurelio?»; la verdadera pregunta es *¿por qué?*
+> - **Semilla de DISEÑO:** en un evento posterior, una foto pública de Halbrook estrechando la mano de Kal («empresario de La Almendra saluda al nuevo consultor…»). Kal echa el periódico al fuego de la chimenea. La foto puede reaparecer como pieza de campaña.
+> - **Tres Halbrook:** para la ciudad, figura institucional; para Kal, el hombre de los corredores; para Chiara, las dos versiones a la vez, por lo que es de las primeras en entender que es distinto de Dario. En el libro: *Crowe presiona, Dario estructura, Halbrook se instala*; cada aparición aumenta su legitimidad.
+> - **Marisol** entra voluntariamente y por mérito a su órbita en *Voto de Ceniza* ([[02_Characters/Marisol_Grayson]]). *El hombre peligroso hace cosas perfectamente razonables.*
+
 ### *Voto de Ceniza* (Libro III) — la coherencia
 
 Entra de lleno en San Aurelio. La crisis le da espacio legítimo para volverse una versión cada vez más completa de sí mismo. **No "se vuelve loco": se vuelve más coherente.** Pasa de figura militar / autoridad de crisis a **figura pública** asociada con orden, seguridad, infraestructura y capacidad de respuesta; ya es **candidato** con sede propia. La transición debe parecer consecuencia orgánica de la crisis y de puertas que ya había empezado a abrir; aquí cobra la conexión con el nombre de Camp Alder. Ejecuta la operación final (montaña + Santa Lucía; mata a Héctor). Kal lo sentencia. **Gana** —su ascenso culmina en una victoria pública suficientemente importante para que su muerte tenga consecuencias nacionales/federales— y **muere en su discurso de victoria, al cierre del libro** (supersesión 2026-09-28).
@@ -359,7 +369,7 @@ En ese instante ocurre el disparo.
 
 > **RESUELTO (2026-09-28):** su lógica. Cree estar protegiendo la existencia misma de las estructuras que hacen posibles moral, derecho y normalidad.
 
-> **PENDIENTE:** apariencia completa (encargo truncado); nombre/secreto/tercero del expediente; posición exacta del evento benéfico dentro de *Sombras de Poder* (ya fijado como su siguiente aparición en prosa tras el Cap. 50b del Libro I).
+> **PENDIENTE:** apariencia completa (encargo truncado); nombre/secreto/tercero del expediente; ~~posición exacta del evento benéfico dentro de *Sombras de Poder*~~ (resuelto 2026-10-12: cierra la Parte I).
 
 ---
 

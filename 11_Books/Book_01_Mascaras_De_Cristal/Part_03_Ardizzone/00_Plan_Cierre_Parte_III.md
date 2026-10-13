@@ -16,7 +16,7 @@ Se conserva en el vault como referencia de diseno y canon, pero no debe exportar
 > una Parte interna de *Máscaras de Cristal*: abre **el Libro II — Sombras de Poder**, Parte I —
 > Nieve y Ceniza. Su contenido capítulo a capítulo, tal como está diseñado abajo, no cambia —
 > sólo cambia el libro al que pertenece. Se redactará dentro de
-> `11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/` cuando el autor apruebe
+> `11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/` (antes `Part_01_Nieve_Y_Ceniza/`; renombrada 2026-10-12) cuando el autor apruebe
 > escribirlo. Ver [[00_Biblia/00_Trilogy_Structure]] y [[01_Timeline/03_Libro_02_Sombras_De_Poder]].
 >
 > **HOUSEKEEPING DOCUMENTAL (2026-09-27, E8 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_III]]):** sincronizado con la frontera de libro sin tocar el diseño: "Parte IV" / "IV.1" → Libro II; la tesis y la cronología ya ponen la luz y el *Ciao, bella* dentro del 44 (antes: "Parte III cierra en la oscuridad del loft con la Beretta levantada; Parte IV abre con la luz"); "*Voto de Ceniza* (Libro II)" → Libro III. Detalle en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]], § 9 parte 4.
@@ -142,6 +142,8 @@ Brújula que se cobra aquí: **progresión de hogar** (penthouse → loft). Chia
 - **Reconciliación completa** de F1 + Palermo + los tres días + el arresto: hablan de todo. Es la reconciliación más cargada de la pareja hasta aquí. Aquí se absorbe la función del viejo "Tenemos que hablar" / casino. Chiara admite que mintió para administrar el problema; Kal admite que su silencio (Palermo, Halbrook) también lastima. Puede recuperarse *"Ya estamos"* como frase ancla si cabe.
 - Momento cálido: los dos recostados en la cama, preparados para dormir.
 - Mañana siguiente: **desayuno**, vuelven al hogar que siempre fueron y que los dos echaron de menos. Función del viejo "Día 3 — Quedarse".
+> **SUPERSEDIDO (CANON DEL AUTOR, 2026-10-12):** Tommaso no muere; el asesinado es Fabrizio y la llamada es de Lucía Varek, en el desayuno. Ver [[00_Biblia/00_Trilogy_Structure]] #54. Se conserva el plan original:
+
 - **Tarde:** llamada de la policía a Chiara — *¿conoce al señor Tommaso Lusardi?* — y el brief de lo que acaba de ocurrirle (ejecutado por Volpi en la terraza de su departamento del norte, composición que evoca a Raymond Keene; la policía sólo da el hecho). **El Libro II abre cobrando casi todas las sillas de Chiara de un solo jalón.** Después arranca la organización de Kal.
 - **Ren Wei** entra en un capítulo posterior del Libro II, no aquí.
 

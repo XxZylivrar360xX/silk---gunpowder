@@ -20,7 +20,7 @@ Para regenerar EPUB y PDF juntos, desde la raíz del vault:
 python -B .\tools\build_sombras.py
 ```
 
-El lanzador reutiliza ambos generadores con la portada de *Sombras de Poder*, autor Víctor Paz, colección *Seda y Pólvora*, posición 2 e identificador EPUB fijo y distinto del Libro I. Selecciona únicamente `Part_01_Nieve_Y_Ceniza/01_Hogar.md`: el título visible y el índice dicen **Hogar**, tomado del manuscrito. El PDF conserva la presentación de **Borrador de lectura**.
+El lanzador reutiliza ambos generadores con la portada de *Sombras de Poder*, autor Víctor Paz, colección *Seda y Pólvora*, posición 2 e identificador EPUB fijo y distinto del Libro I. Selecciona únicamente `Part_01_Territorio_Ajeno/01_Hogar.md`: el título visible y el índice dicen **Hogar**, tomado del manuscrito. El PDF conserva la presentación de **Borrador de lectura**.
 
 Salidas:
 

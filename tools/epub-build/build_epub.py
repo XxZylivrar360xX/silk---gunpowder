@@ -36,9 +36,10 @@ PART_TITLES = {
     "Part_01_Dos_Mundos": "Dos mundos",
     "Part_02_Con_Peores_Personas_He_Tratado": "Con peores personas he tratado",
     "Part_03_Ardizzone": "Ardizzone",
-    "Part_01_Nieve_Y_Ceniza": "Nieve y ceniza",
-    "Part_02_Exilio": "Exilio",
-    "Part_03_Torna_A_Casa": "Torna a casa",
+    "Part_01_Territorio_Ajeno": "Territorio ajeno",
+    "Part_02_Nieve_Y_Ceniza": "Nieve y ceniza",
+    "Part_03_Exilio": "Exilio",
+    "Part_04_Torna_A_Casa": "Torna a casa",
 }
 CHAPTER_TITLE_RE = re.compile(
     r"^(#\s+)(?:Capítulo|Capitulo|Cap\.?)\s+\d+\s*(?:[—–:.-]\s*)?(.+)$",

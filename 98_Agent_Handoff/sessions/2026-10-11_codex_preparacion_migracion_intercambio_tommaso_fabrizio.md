@@ -6,7 +6,7 @@ Preparar la migración del intercambio entre Tommaso y Fabrizio propuesto por el
 
 ## Resultado de la búsqueda
 
-- El autor señaló como fuente [[11_Books/Book_02_Sombras_De_Poder/Part_01_Nieve_Y_Ceniza/01_Hogar]]. En la versión actual todavía no está escrito el intercambio: la única semilla en prosa es la línea 808, «Fabrizio le habría echado azúcar». Chiara explica enseguida que él la conoce desde niña, intenta corregirle el café, fue tres veces a su oficina esa semana y dejó un recipiente que su esposa le cobrará.
+- El autor señaló como fuente [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/01_Hogar]]. En la versión actual todavía no está escrito el intercambio: la única semilla en prosa es la línea 808, «Fabrizio le habría echado azúcar». Chiara explica enseguida que él la conoce desde niña, intenta corregirle el café, fue tres veces a su oficina esa semana y dejó un recipiente que su esposa le cobrará.
 - La metadata de ese borrador fija que Fabrizio aparece muerto, Tommaso sobrevive, la llamada de Lucía no se oye y el corte actual es «Fabrizio está muerto» (línea 1002).
 - La instrucción del 9 de octubre de no añadir diálogo de Tommaso era para aquel pase; la solicitud autoral actual prepara un intercambio para el cierre y la supersede respecto de ese intercambio. Aún no hay líneas ni ubicación fina que migrar.
 

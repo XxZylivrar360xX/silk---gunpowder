@@ -9,7 +9,7 @@
 - **El embarazo se le oculta al lector** hasta la chimenea; señales mínimas; disfraz = la cuenta abierta con Dario (DISEÑO aprobado); regla del vino. "Perché ti amo con tutto il mio cuore" intacta.
 - **El nombre en cursiva:** tic atado al ritual de las velas, desde F4; significado (resplandece / hacia las estrellas, guiño al Cap. 20) nunca explicado en prosa. DISEÑO pendiente: quemarlo en la vela salvo la última vez.
 - **Elenna se concibe en Stavanger.** Rima de saga con el hangar ("mi historia empezó en un aeropuerto así").
-- **Canonizada la incubadora del Libro I:** `Stavanger_Ya_Llego.md` → [[11_Books/Book_02_Sombras_De_Poder/Part_02_Exilio/Ya_Llego]] (BORRADOR). Stavanger = origen de Kal; Ingrid; Henrik Solberg.
+- **Canonizada la incubadora del Libro I:** `Stavanger_Ya_Llego.md` → [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]] (BORRADOR). Stavanger = origen de Kal; Ingrid; Henrik Solberg.
 - **El anillo sale de un robo a una joyería** con Héctor, Danny y Nadir: persecución más temeraria en quince años; autos señuelo por las salidas de túneles/metro/drenaje; salida por el acceso oculto al Hipódromo/Monarch.
 
 ## Pendientes
