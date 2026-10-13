@@ -144,7 +144,7 @@ Bonnie no dijo nada. Esperó.
 
 —Porque explicarlo delante de esa mesa habría sido peor que decirlo. —Chiara lo dijo sin defenderse—. Quise protegerlo. Y decidí por él lo que era, sin preguntarle. Las dos cosas son ciertas.
 
-Bonnie se recargó apenas en la silla.
+Bonnie se recostó apenas en la silla.
 
 —¿Y él qué dijo cuando volvieron?
 

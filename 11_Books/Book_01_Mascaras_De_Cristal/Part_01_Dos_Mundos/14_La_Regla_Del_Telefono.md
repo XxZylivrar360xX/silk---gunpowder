@@ -43,7 +43,7 @@ Kal miró las puntas rubias antes de mirar el resto del equipaje.
 
 La sonrisa de Marisol se ladeó un poco más.
 
-—¿Trajiste una hielera entera?
+—¿Trajiste una nevera entera?
 
 —Hay que comer.
 

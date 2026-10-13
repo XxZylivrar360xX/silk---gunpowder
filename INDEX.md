@@ -33,7 +33,7 @@ Mapa de navegación de *Seda y Pólvora*. Este índice apunta a las fuentes vige
 - **Lugares:** [[05_Locations/Mapa_Operativo_de_San_Aurelio]] · [[05_Locations/San_Aurelio]] · [[05_Locations/Norte_Rural_de_San_Aurelio]].
 - **Relaciones:** [[06_Relationships/Kal_y_Chiara]] · [[06_Relationships/Hitos]] · [[06_Relationships/Momentos_de_Fractura]].
 - **Ideas e incubación:** [[07_Ideas/README]] · [[07_Ideas/Escenas_Guia/README]] · [[07_Ideas/Incubacion_Escenas/README]].
-- **Oficio y auditoría:** [[12_Craft_Policies/README]] · [[12_Craft_Policies/CHAPTER_STATUS]] · auditorías humanas en 13_Auditorias/.
+- **Oficio y auditoría:** [[12_Craft_Policies/README]] · [[12_Craft_Policies/CHAPTER_STATUS]] · [[12_Craft_Policies/voice/00_Registro_Espanol_Neutro]] · auditorías humanas en 13_Auditorias/.
 
 ## Operación y referencias
 

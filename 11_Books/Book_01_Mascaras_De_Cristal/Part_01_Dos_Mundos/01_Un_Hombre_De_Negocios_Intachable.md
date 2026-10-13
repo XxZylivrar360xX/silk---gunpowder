@@ -41,7 +41,7 @@ El sobre estaba abierto junto a la taza de café. El papel había pasado por dem
 
 La esperanza de Walt le recordó a Jim.
 
-Kal lo había visto marcharse una noche con las cosas amontonadas en la camioneta de su padre: dos bolsas negras, una caja de herramientas, ropa doblada sin cuidado y una lámpara envuelta en una cobija. Jim había cerrado la puerta de la caja y se había quedado junto a la defensa, mirando la Almendra como si ya no reconociera ninguna de sus calles.
+Kal lo había visto marcharse una noche con las cosas amontonadas en la camioneta de su padre: dos bolsas negras, una caja de herramientas, ropa doblada sin cuidado y una lámpara envuelta en una manta. Jim había cerrado la puerta de la caja y se había quedado junto a la defensa, mirando la Almendra como si ya no reconociera ninguna de sus calles.
 
 —San Aurelio es una cloaca de desgracias —había dicho—. Ya no queda nada para mí aquí.
 
@@ -431,7 +431,7 @@ Kal miró el semáforo que acababa de ponerse en rojo. Tres meses no eran una fo
 
 —Es fácil para ti decirlo. Además, eso sólo pasó una vez, safi. Mi Taurus ya se recuperó de los rayones de ese malvado arbusto.
 
-Kal soltó una risa breve. Recordaba el Taurus detenido junto a una jardinera, el cofre hundido y Nadir examinando las ramas como si el arbusto hubiera actuado con premeditación. El arbusto había sido una advertencia; Nadir lo había convertido en argumento de ventas.
+Kal soltó una risa breve. Recordaba el Taurus detenido junto a una jardinera, el capó hundido y Nadir examinando las ramas como si el arbusto hubiera actuado con premeditación. El arbusto había sido una advertencia; Nadir lo había convertido en argumento de ventas.
 
 —Voy al Gelsomino. ¿Te llevo algo?
 
@@ -545,7 +545,7 @@ El teléfono le vibró en el bolsillo cuando Rafa ya iba empujando la moto hacia
 
 —La lista. Te la mandé anoche.
 
-Kal la buscó sin colgar. Estaba debajo del recibo de la universidad que había llegado el viernes: matrícula, libros, una residencia que cobraba como si las paredes supieran leer. La lista era más corta. Dos libros de Procesal Penal, una lámpara de escritorio, unas botas, una chamarra, un cargador. Abajo, en mayúsculas: NO TE PREOCUPES POR NADA DE ESTO.
+Kal la buscó sin colgar. Estaba debajo del recibo de la universidad que había llegado el viernes: matrícula, libros, una residencia que cobraba como si las paredes supieran leer. La lista era más corta. Dos libros de Procesal Penal, una lámpara de escritorio, unas botas, una chaqueta, un cargador. Abajo, en mayúsculas: NO TE PREOCUPES POR NADA DE ESTO.
 
 —Dice que no me preocupe.
 
@@ -567,7 +567,7 @@ Kal volvió a leerla.
 
 Colgó.
 
-Kal se quedó con la lista en la pantalla. Los libros, sí. La lámpara, también: la que tenía se la había comprado él, de segunda, cuando ella tenía quince. Las botas aguantaban otro invierno; la chamarra, no. El cargador lo había pedido en agosto y nadie se lo había mandado.
+Kal se quedó con la lista en la pantalla. Los libros, sí. La lámpara, también: la que tenía se la había comprado él, de segunda, cuando ella tenía quince. Las botas aguantaban otro invierno; la chaqueta, no. El cargador lo había pedido en agosto y nadie se lo había mandado.
 
 Eso lo había sacado de su padre. Él pedía igual: nunca lo que necesitaba, siempre de más, para que el otro escogiera.
 
@@ -643,7 +643,7 @@ Kal señaló la silla frente a él con los dedos juntos.
 
 Matteo se sentó. Mabel miró a Kal, luego a Matteo, luego otra vez a Kal. No preguntó. Dejó otra servilleta sobre la mesa, que en su idioma significaba *te estoy viendo*, y volvió a cerrar recipientes.
 
-—Me dijeron que usted resuelve problemas de coches —dijo Matteo—. Me dijeron muchas cosas, en realidad. Un proveedor del puerto, un valet que trabajó en La Isla, un hombre muy aburrido del Ayuntamiento que me habló cuarenta minutos de banquetas. Todos terminaban igual: si quiere que algo se mueva en esta ciudad sin hacer ruido, hable con Mercer. El del Ayuntamiento lo dijo en voz baja, que en él ya es un elogio.
+—Me dijeron que usted resuelve problemas de coches —dijo Matteo—. Me dijeron muchas cosas, en realidad. Un proveedor del puerto, un valet que trabajó en La Isla, un hombre muy aburrido del Ayuntamiento que me habló cuarenta minutos de aceras. Todos terminaban igual: si quiere que algo se mueva en esta ciudad sin hacer ruido, hable con Mercer. El del Ayuntamiento lo dijo en voz baja, que en él ya es un elogio.
 
 Kal abrió la tapa de una taza de café que Mabel le había puesto enfrente sin consultarlo.
 

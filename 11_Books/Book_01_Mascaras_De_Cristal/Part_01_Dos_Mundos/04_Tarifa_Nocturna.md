@@ -439,7 +439,7 @@ Salió sola.
 
 En la acera se quitó la pulsera. La tela cedió sin resistencia, que era lo peor que podía decirse de una marca de pertenencia. La dejó en el bote de la esquina, sobre vasos de plástico y colillas, y el logo plateado siguió brillando ahí dentro un rato más de lo que merecía.
 
-El aire de La Isla le pegó en la cara con sal, diésel y música filtrada por muros. Detrás de ella la puerta del club se abrió y se cerró: un golpe de bajo, una risa, otra vez el muro. Un valet fumaba recargado en un poste con el chaleco desabotonado. Más allá de los techos, las grúas del puerto parpadeaban en rojo, lentas, como si llevaran otra hora.
+El aire de La Isla le pegó en la cara con sal, diésel y música filtrada por muros. Detrás de ella la puerta del club se abrió y se cerró: un golpe de bajo, una risa, otra vez el muro. Un valet fumaba apoyado en un poste con el chaleco desabotonado. Más allá de los techos, las grúas del puerto parpadeaban en rojo, lentas, como si llevaran otra hora.
 
 Pidió un taxi con una aplicación, pero antes de confirmarlo abrió otro contacto.
 
@@ -565,7 +565,7 @@ A los veinte minutos de la llamada entró una grúa azul. No el Peugeot. Las luc
 
 La grúa no tenía nada elegante. Por eso funcionaba. El guardia de la entrada de carga la vio pasar, leyó el logo de Almendra Towing y decidió que aquello era explicación suficiente. Chiara conocía el mecanismo: el mundo legal estaba lleno de objetos que venían con permiso incorporado. Uniformes, carpetas, llaves maestras, camiones de mantenimiento.
 
-Kal bajó con una tabla de trabajo en la mano. Chamarra oscura, guantes metidos en el bolsillo trasero, las botas sin prisa sobre el concreto aceitoso.
+Kal bajó con una tabla de trabajo en la mano. Chaqueta oscura, guantes metidos en el bolsillo trasero, las botas sin prisa sobre el concreto aceitoso.
 
 La vio en la puerta. No cambió de ritmo.
 

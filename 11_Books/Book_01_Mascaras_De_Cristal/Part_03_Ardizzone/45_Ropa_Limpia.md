@@ -119,7 +119,7 @@ Chiara tomó un trago de café. Estaba quemado. Lo tomó igual.
 
 El cuchillo se detuvo sobre la tabla. Mabel no lo soltó; se quedó con él en la mano y con la otra apoyada en el jamón, y por un momento la única cosa que se movía detrás del mostrador fue el vapor de la cafetera.
 
-—Lavanderías del Norte —dijo—. La de la barda azul. Ahí plancha mi comadre.
+—Lavanderías del Norte —dijo—. La de la tapia azul. Ahí plancha mi comadre.
 
 —¿Desde cuándo?
 
@@ -227,7 +227,7 @@ Kal se quedó todavía un momento frente a la puerta, con los brazos a los lados
 
 —Sí.
 
-La vio otra vez. La mano a media altura, a unos centímetros de la madera. Ella había estado del otro lado. No recordaba dónde exactamente: en la sala, tal vez, o en la regadera, o de pie en la cocina sin hacer nada, como había estado casi toda esa tarde. Había estado a seis metros.
+La vio otra vez. La mano a media altura, a unos centímetros de la madera. Ella había estado del otro lado. No recordaba dónde exactamente: en la sala, tal vez, o en la ducha, o de pie en la cocina sin hacer nada, como había estado casi toda esa tarde. Había estado a seis metros.
 
 Se tocó el anular izquierdo. Lo notó después de hacerlo.
 
@@ -257,7 +257,7 @@ En el vestíbulo del Monarch habían puesto el árbol la semana anterior, cuatro
 
 El 24 cerró el despacho a las seis. Firmó los aguinaldos del turno de noche uno por uno, sin delegar ninguno. Cenó en el penthouse, de pie en la cocina, lo que le subieron del restaurante. A medianoche, en algún barrio del otro lado del puente, alguien encendió cohetes. Los vio desde la ventana de la cocina. No entró a la sala.
 
-El 25, La Esquina tenía la cortina abajo y un cartón pegado por dentro del vidrio, escrito con plumón: CERRADO. FELIZ NAVIDAD. Chiara se quedó un momento en la banqueta, con el abrigo vino cerrado hasta el cuello y el frío metido en las manos, y después regresó al Lancia.
+El 25, La Esquina tenía la cortina abajo y un cartón pegado por dentro del vidrio, escrito con marcador: CERRADO. FELIZ NAVIDAD. Chiara se quedó un momento en la acera, con el abrigo vino cerrado hasta el cuello y el frío metido en las manos, y después regresó al Lancia.
 
 El 26, Mabel movió la cabeza.
 
@@ -265,7 +265,7 @@ El 27, Lucía no llamó, y Krane llamó para decirle que no había nada nuevo, y
 
 El 28 Mabel no movió la cabeza. Puso la taza en la barra, se limpió las manos en el delantal y se inclinó sobre el mostrador.
 
-—Dice que mañana —dijo, bajo—. A la salida del turno, del lado de la barda que da al Cutoff, no en la entrada. Y que no llegues en ese carro tuyo.
+—Dice que mañana —dijo, bajo—. A la salida del turno, del lado de la tapia que da al Cutoff, no en la entrada. Y que no llegues en ese carro tuyo.
 
 ---
 
@@ -275,7 +275,7 @@ Bonnie llegó al despacho esa noche a las once, y no llegó sola.
 
 —La vi en el yate —dijo Chiara.
 
-Mei-Lin asintió una vez. No se sentó. Caminó hasta el ventanal que daba al piso de juego y se quedó ahí, mirando las mesas desde arriba, con las manos en los bolsillos de una chamarra de nailon que no era de su talla.
+Mei-Lin asintió una vez. No se sentó. Caminó hasta el ventanal que daba al piso de juego y se quedó ahí, mirando las mesas desde arriba, con las manos en los bolsillos de una chaqueta de nailon que no era de su talla.
 
 Bonnie sí se sentó, en la silla frente al escritorio, la que había sido de los visitantes de Matteo. Tenía ojeras y el pelo recogido de prisa, y no había preguntado nada por teléfono: Chiara le había dicho *te necesito esta noche* y Bonnie había dicho *voy*.
 
@@ -291,11 +291,11 @@ Bonnie se acomodó en la silla. Del otro lado del cristal, abajo, alguien ganó 
 
 —Nadir no duerme —dijo Bonnie—. Por si quería saberlo.
 
-Chiara no contestó a eso. Le explicó lo de la lavandería: la barda azul, el Cutoff, la salida del turno, una mujer de Mabel que no quería ver el coche de Chiara. Bonnie escuchó sin interrumpir. Cuando Chiara terminó, Bonnie miró hacia el ventanal.
+Chiara no contestó a eso. Le explicó lo de la lavandería: la tapia azul, el Cutoff, la salida del turno, una mujer de Mabel que no quería ver el coche de Chiara. Bonnie escuchó sin interrumpir. Cuando Chiara terminó, Bonnie miró hacia el ventanal.
 
 —¿Mei?
 
-—El turno de noche sale a las cinco y media, pero los camiones de la base salen antes —dijo Mei-Lin, sin voltear—. Como a las cinco, llenos. Regresan a las siete con lo sucio. La cámara del lote apunta a los andenes de carga, no a la calle. Del lado del Cutoff hay una barda baja donde fuman los del turno, y ahí no hay luz. Si se estacionan ahí antes de que salgan los camiones, los choferes no las ven: van mirando la carretera. Y si se van antes de las siete, no las ven regresar.
+—El turno de noche sale a las cinco y media, pero los camiones de la base salen antes —dijo Mei-Lin, sin voltear—. Como a las cinco, llenos. Regresan a las siete con lo sucio. La cámara del lote apunta a los andenes de carga, no a la calle. Del lado del Cutoff hay una tapia baja donde fuman los del turno, y ahí no hay luz. Si se estacionan ahí antes de que salgan los camiones, los choferes no las ven: van mirando la carretera. Y si se van antes de las siete, no las ven regresar.
 
 —¿Cómo sabes todo eso? —preguntó Chiara.
 
@@ -331,9 +331,9 @@ Bonnie la miró de reojo y volvió a la carretera.
 
 Kingsley Field apareció a la derecha: luces bajas y anaranjadas, sin gente, y la silueta de un avión de fuselaje ancho detenido junto a un hangar. Bonnie tomó la salida del Alder Cutoff. Dos carriles, sin acotamiento, con postes de luz cada tanto y oscuridad entre uno y otro. Un letrero verde pasó por la ventanilla de Chiara: CAMP ALDER, y un número de millas que no alcanzó a leer.
 
-La lavandería estaba a un kilómetro del letrero, del lado izquierdo. Una nave larga de lámina con la barda pintada de azul, tres chimeneas cortas sacando vapor blanco contra el cielo todavía negro, y una fila de camiones de caja junto a los andenes, con el logotipo de la empresa y el motor encendido. El almidón se olía desde la carretera. Un olor caliente, de tela planchada, de hospital limpio.
+La lavandería estaba a un kilómetro del letrero, del lado izquierdo. Una nave larga de lámina con la tapia pintada de azul, tres chimeneas cortas sacando vapor blanco contra el cielo todavía negro, y una fila de camiones de caja junto a los andenes, con el logotipo de la empresa y el motor encendido. El almidón se olía desde la carretera. Un olor caliente, de tela planchada, de hospital limpio.
 
-Bonnie pasó de largo, dio vuelta en un retorno, regresó con las luces apagadas los últimos metros y se detuvo del lado del Cutoff, junto a la barda baja, donde no había luz. Apagó el motor.
+Bonnie pasó de largo, dio vuelta en un retorno, regresó con las luces apagadas los últimos metros y se detuvo del lado del Cutoff, junto a la tapia baja, donde no había luz. Apagó el motor.
 
 Eran las cuatro y cincuenta.
 
@@ -341,7 +341,7 @@ A las cuatro y cincuenta y cinco, los camiones salieron. Chiara los vio pasar un
 
 Bonnie no dijo nada. Chiara tampoco.
 
-A las cinco y treinta y cinco se abrió una puerta lateral de la nave y salieron mujeres. Algunas con suéter encima del uniforme celeste, otras con bolsa de mandado, casi todas con el pelo recogido bajo una red que se iban quitando mientras caminaban. Se oyeron voces, una risa, un encendedor. Tres fueron hacia la barda baja.
+A las cinco y treinta y cinco se abrió una puerta lateral de la nave y salieron mujeres. Algunas con suéter encima del uniforme celeste, otras con bolsa de mandado, casi todas con el pelo recogido bajo una red que se iban quitando mientras caminaban. Se oyeron voces, una risa, un encendedor. Tres fueron hacia la tapia baja.
 
 Una de ellas se quedó sola en la esquina, un poco aparte, y encendió un cigarro sin mirar el coche.
 
@@ -363,7 +363,7 @@ La mujer tendría sesenta años. Era baja, ancha de hombros, con el pelo entreca
 
 —No lo soy.
 
-Rosaura la miró de arriba abajo, sin prisa, como quien revisa una camisa por si le quedó una arruga. Detrás de ella, en la barda, las otras tres mujeres hablaban de un nieto que no quería ir a la escuela. Ninguna miró hacia la esquina.
+Rosaura la miró de arriba abajo, sin prisa, como quien revisa una camisa por si le quedó una arruga. Detrás de ella, en la tapia, las otras tres mujeres hablaban de un nieto que no quería ir a la escuela. Ninguna miró hacia la esquina.
 
 —Yo no le voy a decir nada de lo que hay allá adentro —dijo Rosaura—. No sé lo que hay allá adentro. Nunca he entrado. Los camiones van y vienen y a mí me llegan las bolsas.
 
@@ -375,7 +375,7 @@ Chiara no preguntó cuál. Esperó.
 
 —Mercer —dijo Rosaura—. Con un número que no me aprendí.
 
-Una de las mujeres de la barda se rió fuerte de algo. Un camión de la empresa, vacío, pasó por el Cutoff hacia la ciudad, y el aire que levantó trajo otra vez el olor del almidón.
+Una de las mujeres de la tapia se rió fuerte de algo. Un camión de la empresa, vacío, pasó por el Cutoff hacia la ciudad, y el aire que levantó trajo otra vez el olor del almidón.
 
 —Si mandan ropa a lavar, es que alguien se la está poniendo —dijo Rosaura—. Eso es todo lo que sé.
 
@@ -389,7 +389,7 @@ Chiara la miró.
 
 Chiara no dijo nada. Se le había cerrado algo en la garganta y no lo dejó subir. Miró el vapor de las chimeneas, que se estaba poniendo gris contra el cielo que empezaba a aclarar detrás de la nave, y esperó a que se le pasara.
 
-Rosaura esperó también. Terminó el cigarro sin apuro y lo aplastó contra la barda.
+Rosaura esperó también. Terminó el cigarro sin apuro y lo aplastó contra la tapia.
 
 —Mabel dijo que usted iba a querer pagarme.
 
@@ -413,7 +413,7 @@ Se dio la vuelta y caminó hacia la parada del camión, del otro lado del Cutoff
 
 Chiara volvió al Civic y cerró la puerta. Bonnie no encendió el motor.
 
-Del otro lado del parabrisas, la nave de la lavandería seguía sacando vapor. Las mujeres de la barda se habían ido. Una camioneta del turno de día entró al estacionamiento con las luces todavía prendidas, aunque ya no hacían falta. Al fondo del Cutoff, donde la carretera se perdía hacia el noreste, no había nada que ver: un poste, otro poste, el letrero verde de espaldas.
+Del otro lado del parabrisas, la nave de la lavandería seguía sacando vapor. Las mujeres de la tapia se habían ido. Una camioneta del turno de día entró al estacionamiento con las luces todavía prendidas, aunque ya no hacían falta. Al fondo del Cutoff, donde la carretera se perdía hacia el noreste, no había nada que ver: un poste, otro poste, el letrero verde de espaldas.
 
 Tenía una etiqueta de plástico con su apellido y una camisa doblada en cuadro. No sabía si comía. No sabía si alguien le había puesto las manos encima, ni si sabía que ella lo estaba buscando, ni si quería que lo buscara. Sabía que antenoche y anoche se había quitado la ropa que le daban y la había doblado antes de devolverla.
 

@@ -137,7 +137,7 @@ No dijo nada sobre eso.
 
 Ella tampoco.
 
-Kal cruzó la sala sin quitarse la chaqueta y se sentó en el sillón, en el lado más alejado de la mesa, con los codos en las rodillas y las manos juntas, la postura de alguien que ha decidido no acercarse más de lo necesario. Chiara no se movió de donde estaba. Se recargó apenas en el borde de la mesa, cruzando la sala entera con la distancia entre los dos, y por un momento ninguno dijo nada.
+Kal cruzó la sala sin quitarse la chaqueta y se sentó en el sillón, en el lado más alejado de la mesa, con los codos en las rodillas y las manos juntas, la postura de alguien que ha decidido no acercarse más de lo necesario. Chiara no se movió de donde estaba. Se apoyó apenas en el borde de la mesa, cruzando la sala entera con la distancia entre los dos, y por un momento ninguno dijo nada.
 
 —¿Qué encontraste de Matteo? —preguntó Kal, al fin.
 

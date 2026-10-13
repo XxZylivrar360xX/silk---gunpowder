@@ -20,7 +20,7 @@ Craft: voz según 12_Craft_Policies/voice (Kal, Chiara, Nadir). Nadir: darija co
 
 El teléfono estaba bocarriba sobre el banco de trabajo, entre una caja de tornillos y el trapo de las manos, y Kal llevaba una hora sin llamar a nadie.
 
-Tenía medio cuerpo metido en el cofre de una Ford que no era suya y que no tenía ninguna prisa, porque la prisa la tenía el dueño y el dueño podía esperar al lunes. El taller de La Almendra estaba cerrado desde las siete. Quedaba la lámpara de cadena sobre el foso, el radio bajo en una estación que no ponía nada que él hubiera elegido, y el olor de siempre: aceite viejo, metal frío, café recalentado en una jarra que nadie lavaba desde el martes.
+Tenía medio cuerpo metido en el capó de una Ford que no era suya y que no tenía ninguna prisa, porque la prisa la tenía el dueño y el dueño podía esperar al lunes. El taller de La Almendra estaba cerrado desde las siete. Quedaba la lámpara de cadena sobre el foso, el radio bajo en una estación que no ponía nada que él hubiera elegido, y el olor de siempre: aceite viejo, metal frío, café recalentado en una jarra que nadie lavaba desde el martes.
 
 La persiana se levantó a medias con un ruido de lámina y entró Nadir agachándose, con una bolsa de papel en una mano y el teléfono en la otra, terminando una conversación en árabe que sonaba a regateo aunque fuera con su madre.
 
@@ -30,7 +30,7 @@ La persiana se levantó a medias con un ruido de lámina y entró Nadir agachán
 
 —Ya sé que no. —Dejó la bolsa junto a la caja de tornillos, al lado del teléfono de Kal, y le dio un vistazo al teléfono de Kal como quien comprueba el precio de algo en un aparador—. Tortillas de las de la señora Ruiz. Dos de pollo, una de queso. La de queso es mía, la de pollo grande es tuya, la de pollo chica también es tuya porque te ves feo.
 
-Kal no salió del cofre.
+Kal no salió del capó.
 
 —Gracias.
 
@@ -46,7 +46,7 @@ Kal apretó una abrazadera. Probó la manguera con el pulgar. La volvió a apret
 
 —¿Y el italiano? —preguntó Nadir.
 
-Ahí estaba. Kal sacó la cabeza del cofre por primera vez.
+Ahí estaba. Kal sacó la cabeza del capó por primera vez.
 
 —¿Qué italiano?
 
@@ -78,7 +78,7 @@ Nadir dejó la tortilla sobre el papel.
 
 —Garrett habla lo justo. Tú no hablas nada. —Nadir se inclinó hacia delante con los codos en las rodillas—. Vamos. Dímelo a mí. A quién más se lo vas a decir, ¿al Ford?
 
-Kal se quedó con las dos manos apoyadas en el borde del cofre. Debajo, el motor seguía oliendo a caliente aunque llevaba una hora apagado. Lo miró a él, no a Nadir.
+Kal se quedó con las dos manos apoyadas en el borde del capó. Debajo, el motor seguía oliendo a caliente aunque llevaba una hora apagado. Lo miró a él, no a Nadir.
 
 —Al principio iba por trabajo —dijo—. Una factura. Un coche mal estacionado. Un favor que le hacía al casino. Iba, lo arreglaba, me iba.
 

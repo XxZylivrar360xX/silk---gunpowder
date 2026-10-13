@@ -154,7 +154,7 @@ Se lo contó igual. Un Buick con el cárter partido en la Novena antes de las oc
 
 —Lo vi en la pantalla.
 
-Ella se rió con la boca llena y se le recargó en el hombro, por el frío, dijo. Nadie le había preguntado. Se chupó la sal del pulgar, un anillo después del otro brillándole con la luz del malecón, y se quedó así, sin acomodarse nada.
+Ella se rió con la boca llena y se le apoyó en el hombro, por el frío, dijo. Nadie le había preguntado. Se chupó la sal del pulgar, un anillo después del otro brillándole con la luz del malecón, y se quedó así, sin acomodarse nada.
 
 —¿Y la mujer? —preguntó al rato, mirando el agua—. ¿Qué tal es?
 

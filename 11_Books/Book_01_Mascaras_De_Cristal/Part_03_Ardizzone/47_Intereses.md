@@ -23,11 +23,11 @@ DISEÑO del agente, pendiente de lectura:
 
 # Capítulo 47 — Intereses
 
-La camioneta seguía contra la barda, con la trompa hacia el portón. Alguien le había quitado el termo del asiento del copiloto. La mochila seguía ahí.
+La camioneta seguía contra la tapia, con la trompa hacia el portón. Alguien le había quitado el termo del asiento del copiloto. La mochila seguía ahí.
 
 Chiara llegó a las cinco menos diez, por el mismo rodeo de la tarde anterior, y estacionó el Lancia del otro lado de la calle. Antes de bajar se tocó el bolsillo del saco, por debajo del abrigo vino. Las llaves de Nadir estaban donde las había dejado, con el llavero de cuero gastado. No las había sacado del saco, y esa mañana había vuelto a ponerse el mismo saco.
 
-El Patio sonaba distinto. No mucho. El compresor estaba encendido en el fondo, un zumbido parejo, y alguien había cambiado la estación de la radio a una con locutor. Danny tenía medio cuerpo metido en el cofre de una pick-up y silbaba algo que no era ninguna de las canciones que sonaban.
+El Patio sonaba distinto. No mucho. El compresor estaba encendido en el fondo, un zumbido parejo, y alguien había cambiado la estación de la radio a una con locutor. Danny tenía medio cuerpo metido en el capó de una pick-up y silbaba algo que no era ninguna de las canciones que sonaban.
 
 Héctor estaba en el capó del Ford. Esta vez se bajó.
 
@@ -65,7 +65,7 @@ El Audi llegó a las cinco en punto.
 
 Se detuvo donde Danny había dicho, enfrente del portón, en el lugar donde el día anterior había estado el Lancia. Negro, lavado, los vidrios oscuros hasta donde la ley lo permitía y un poco más. El motor siguió encendido. La ventanilla del conductor bajó hasta la mitad.
 
-Danny sacó la cabeza del cofre de la pick-up. Héctor no se movió del capó. En la oficina, Garrett se levantó del escritorio y se quedó de pie junto al vidrio, sin abrir la puerta, al lado de Nadir dormido.
+Danny sacó la cabeza del capó de la pick-up. Héctor no se movió del capó. En la oficina, Garrett se levantó del escritorio y se quedó de pie junto al vidrio, sin abrir la puerta, al lado de Nadir dormido.
 
 Chiara cruzó la calle.
 
@@ -253,9 +253,9 @@ Chiara le miró la cicatriz. La miró más de lo que se miraba una cicatriz en l
 
 —Yo.
 
-Dario se recargó en la silla.
+Dario se recostó en la silla.
 
-Fue lo único que hizo. Se recargó, y la silla de oficina rechinó bajo el peso de un traje que costaba más que todo lo que había en el cuarto, y la miró de arriba abajo, despacio, sin disimular que la estaba midiendo. Chiara conocía esa mirada. La había usado ella sobre otros cientos de veces, en el piso del casino, en una mesa de cartas, en la puerta de un salón.
+Fue lo único que hizo. Se recostó, y la silla de oficina rechinó bajo el peso de un traje que costaba más que todo lo que había en el cuarto, y la miró de arriba abajo, despacio, sin disimular que la estaba midiendo. Chiara conocía esa mirada. La había usado ella sobre otros cientos de veces, en el piso del casino, en una mesa de cartas, en la puerta de un salón.
 
 —¿Tú qué? —preguntó Dario—. El casino es mío. Tu sueldo sale de mi cuenta. Tu firma vale lo que yo digo que vale en esta ciudad, y tu apellido vale lo que valía en Italia, que aquí es poco. —No lo dijo con desprecio. Lo dijo como se lee un inventario—. ¿Qué tienes tú que no sea ya mío?
 
@@ -373,7 +373,7 @@ Sobre la bahía reventó un cohete, adelantado por horas. Nadie en el muelle lev
 
 ---
 
-El primero de enero amaneció nublado sobre el centro. Desde el despacho de Chiara, en el Monarch, se veía el Paseo Pacífica todavía mojado de la lluvia de la madrugada, confeti pegado en las juntas de la banqueta, los toldos de los cafés recogidos, un camión de reparto descargando cajas de agua mineral frente al hotel de enfrente.
+El primero de enero amaneció nublado sobre el centro. Desde el despacho de Chiara, en el Monarch, se veía el Paseo Pacífica todavía mojado de la lluvia de la madrugada, confeti pegado en las juntas de la acera, los toldos de los cafés recogidos, un camión de reparto descargando cajas de agua mineral frente al hotel de enfrente.
 
 El casino no sabía que era Año Nuevo. Abajo, en el piso de juego, nunca se sabía qué día era: no había relojes en ninguna pared ni ventanas en ningún salón, y la luz de las nueve de la mañana era la misma que la de las tres de la madrugada. Matteo decía que era lo más honesto del edificio.
 

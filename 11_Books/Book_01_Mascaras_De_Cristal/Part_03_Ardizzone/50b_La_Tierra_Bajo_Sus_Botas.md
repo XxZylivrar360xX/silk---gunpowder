@@ -28,11 +28,11 @@ A las cinco menos diez, San Aurelio tenía otra vez todas las luces encendidas y
 
 Pasada la medianoche no se había oído otra cosa. Sólo sirenas, de un extremo a otro del sur, cruzándose en las avenidas sin semáforos, llegando tarde a todo lo que se desordena cuando una ciudad se queda a oscuras. Hacia las cuatro se fueron espaciando. Para las cinco ya no pasaba ninguna.
 
-En la Avenida Almendra los postes alumbraban banquetas vacías. La cortina de La Esquina de Mabel seguía abajo. En el poste, el cartel del circo de agosto se había despegado de una esquina y se movía un poco cuando pasaba el aire del puerto.
+En la Avenida Almendra los postes alumbraban aceras vacías. La cortina de La Esquina de Mabel seguía abajo. En el poste, el cartel del circo de agosto se había despegado de una esquina y se movía un poco cuando pasaba el aire del puerto.
 
 En la ventana de Il Gelsomino alguien había dejado prendido el letrero, y la luz roja caía sobre las sillas puestas patas arriba encima de las mesas, sobre la del fondo, la que Enzo apartaba sin que nadie se la pidiera.
 
-En el Patio, la lámpara del taller se había vuelto a encender sola cuando regresó la corriente, sobre un cofre abierto y una caja de herramientas que nadie había guardado. Nadie la apagó.
+En el Patio, la lámpara del taller se había vuelto a encender sola cuando regresó la corriente, sobre un capó abierto y una caja de herramientas que nadie había guardado. Nadie la apagó.
 
 Sobre el Paseo Pacífica, la marquesina del Monarch volvía a estar blanca. El valet de noche dormía sentado en su banquito, con los brazos cruzados y la barbilla en el pecho. Arriba, en el último piso de la Torre Norte, había un cigarro sin encender sobre una mesa, junto a un hueco del tamaño de un cuadro.
 
@@ -52,7 +52,7 @@ La puerta se abrió antes de que se detuvieran.
 
 Lo primero que bajó fue una bota. Negra, de servicio, lustrada hasta dar reflejo. Se apoyó en el concreto con todo el peso, sin prisa, y después bajó la otra, y el hombre que las llevaba se quedó un momento así, de pie junto al helicóptero, con las dos botas sobre la tierra de San Aurelio.
 
-No llevaba uniforme. Pantalón oscuro, una chamarra sin insignias, cerrada hasta arriba. Andaría por los sesenta. Era compacto, de hombros cuadrados y cuello grueso, y estaba de pie como si llevara el uniforme debajo. Tenía el pelo gris acero, cortado muy corto, y la nariz un poco desviada, de alguna vez.
+No llevaba uniforme. Pantalón oscuro, una chaqueta sin insignias, cerrada hasta arriba. Andaría por los sesenta. Era compacto, de hombros cuadrados y cuello grueso, y estaba de pie como si llevara el uniforme debajo. Tenía el pelo gris acero, cortado muy corto, y la nariz un poco desviada, de alguna vez.
 
 No miró al hombre del traje. Miró hacia el sur.
 
@@ -66,11 +66,11 @@ El hombre del traje esperó a que las aspas se detuvieran del todo.
 
 Le tendió la carpeta.
 
-Era de cartón manila, sin rótulo, sin sello, con un elástico negro que la mantenía cerrada. El general la tomó, se quitó el elástico y lo guardó en el bolsillo de la chamarra, y la abrió ahí mismo, de pie, con la luz que empezaba a llegar.
+Era de cartón manila, sin rótulo, sin sello, con un elástico negro que la mantenía cerrada. El general la tomó, se quitó el elástico y lo guardó en el bolsillo de la chaqueta, y la abrió ahí mismo, de pie, con la luz que empezaba a llegar.
 
 Adentro había fotografías.
 
-La primera era la Avenida Almendra, de día. La cortina de La Esquina de Mabel arriba, gente en la banqueta, una señora con bolsas del mercado, el poste del circo con el cartel todavía pegado.
+La primera era la Avenida Almendra, de día. La cortina de La Esquina de Mabel arriba, gente en la acera, una señora con bolsas del mercado, el poste del circo con el cartel todavía pegado.
 
 La pasó.
 
@@ -80,7 +80,7 @@ La marquesina del Monarch, iluminada. Debajo, un Lancia oscuro con la puerta del
 
 La pasó.
 
-El taller del Patio, a pleno sol, tomada desde el otro lado de la calle. Un muchacho flaco con la cabeza metida en un cofre. Otro sentado en una llanta, comiendo algo de una bolsa de papel. Un hombre calvo, de candado, en una silla de plástico. Y en la puerta del taller, de brazos cruzados, un hombre de pelo cano y camisa de cuadros que miraba hacia la calle. Hacia la cámara. Sin verla.
+El taller del Patio, a pleno sol, tomada desde el otro lado de la calle. Un muchacho flaco con la cabeza metida en un capó. Otro sentado en una llanta, comiendo algo de una bolsa de papel. Un hombre calvo, de candado, en una silla de plástico. Y en la puerta del taller, de brazos cruzados, un hombre de pelo cano y camisa de cuadros que miraba hacia la calle. Hacia la cámara. Sin verla.
 
 El general se quedó en esa un momento. Después la pasó.
 
@@ -90,7 +90,7 @@ La grabación de la que salió ese cuadro ya no existía.
 
 El general la miró más tiempo que a las otras. Luego la pasó.
 
-Una mujer, de pie junto a un Lancia oscuro, a la orilla de un puente angosto de concreto con los barandales manchados de óxido. A su lado, una muchacha de chamarra con las manos en los bolsillos. La foto estaba un poco movida, levantada en polvo, tomada desde la ventanilla de algo que pasaba.
+Una mujer, de pie junto a un Lancia oscuro, a la orilla de un puente angosto de concreto con los barandales manchados de óxido. A su lado, una muchacha de chaqueta con las manos en los bolsillos. La foto estaba un poco movida, levantada en polvo, tomada desde la ventanilla de algo que pasaba.
 
 El general le dio la vuelta. Al reverso, a lápiz, en letra de molde, alguien había escrito un nombre completo:
 

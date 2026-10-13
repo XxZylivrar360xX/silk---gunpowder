@@ -104,11 +104,11 @@ Chiara sonrió, mirando pasar el paisaje. No hizo más preguntas. La mañana ser
 
 ***
 
-En Camino Santa Lucía, Kal puso la direccional sin decir nada y se orilló frente a una florería sin nombre, de las que sacan las cubetas a la banqueta.
+En Camino Santa Lucía, Kal puso la direccional sin decir nada y se detuvo frente a una florería sin nombre, de las que sacan los baldes a la acera.
 
-—Ahorita vengo.
+—Ahora vuelvo.
 
-Chiara lo vio por el vidrio. No eligió rápido. Pasó de largo las rosas rojas y los ramos armados con celofán, y se quedó frente a una cubeta de flores blancas el tiempo que otro hombre se habría quedado frente a una vitrina de relojes. Pagó y volvió con el ramo boca abajo, sostenido por los tallos, como se carga algo que no se quiere maltratar. Lo dejó en el asiento de atrás.
+Chiara lo vio por el vidrio. No eligió rápido. Pasó de largo las rosas rojas y los ramos armados con celofán, y se quedó frente a un balde de flores blancas el tiempo que otro hombre se habría quedado frente a una vitrina de relojes. Pagó y volvió con el ramo boca abajo, sostenido por los tallos, como se carga algo que no se quiere maltratar. Lo dejó en el asiento de atrás.
 
 Ella no preguntó para quién eran. Él no se lo dijo.
 
@@ -226,7 +226,7 @@ Harper no había tardado nada.
 
 Nadir la vio de reojo, sonrió, y levantó la mano hacia Chiara con esa facilidad que no le costaba nada.
 
-—Mira quién decidió mojarse los pies. —Estaba sentado sobre una hielera, con los brazos cruzados y un cigarro sin encender entre los dedos—. Wallah, la ciudad entera nos va a extrañar hoy.
+—Mira quién decidió mojarse los pies. —Estaba sentado sobre una nevera portátil, con los brazos cruzados y un cigarro sin encender entre los dedos—. Wallah, la ciudad entera nos va a extrañar hoy.
 
 —La ciudad va a sobrevivir un día sin mí.
 
@@ -250,7 +250,7 @@ Héctor estaba sentado en una silla plegable con una gorra vieja calada hasta la
 
 —Entonces ya le caigo mejor que hace un minuto.
 
-Walt estaba un poco apartado, cerca de una hielera propia con etiquetas escritas a mano, y cuando la vio llegar la miró un momento más largo de lo que hacía falta para un saludo, con esa atención suya de quien está haciendo una cuenta. Después asintió, una sola vez, y volvió a lo que estaba haciendo — acomodar botellas, comprobar que el hielo aguantara el día—, sin decir nada más.
+Walt estaba un poco apartado, cerca de una nevera propia con etiquetas escritas a mano, y cuando la vio llegar la miró un momento más largo de lo que hacía falta para un saludo, con esa atención suya de quien está haciendo una cuenta. Después asintió, una sola vez, y volvió a lo que estaba haciendo — acomodar botellas, comprobar que el hielo aguantara el día—, sin decir nada más.
 
 Chiara siguió caminando hacia la orilla.
 
@@ -304,7 +304,7 @@ Para cuando el sol empezó a bajar, el marcador seguía tan disputado como al pr
 
 ***
 
-Héctor golpeó la parrilla con la espátula y la competencia se suspendió sin que nadie la diera por terminada. Comieron de pie o sentados en las hieleras, con los platos de cartón doblándose bajo el pescado.
+Héctor golpeó la parrilla con la espátula y la competencia se suspendió sin que nadie la diera por terminada. Comieron de pie o sentados en las neveras, con los platos de cartón doblándose bajo el pescado.
 
 Chiara se persignó antes de probar nada y bajó la cabeza un momento. A su lado, Nadir murmuró *bismillah* sobre su plato y empezó a comer.
 
@@ -362,7 +362,7 @@ Ella le tiró agua a la cara con la mano abierta, sin previo aviso, y él respon
 
 Nadaron hasta una formación de roca cerca de la orilla, una lengua ancha y plana que sobresalía del agua lo suficiente como para sentarse fuera del alcance de las olas chicas, con el sol ya bajando detrás de los árboles del otro lado. Se sentaron con las piernas colgando hacia el agua, hombro con hombro, y la piedra, tibia de todo el día, se oscureció debajo de ellos con lo que les escurría de la ropa.
 
-El cielo empezó a ponerse de un color que ninguno de los dos comentó. Desde ahí se veía la orilla entera, chica: las hieleras, las figuras de los demás alrededor de la parrilla, el humo que a ratos les llegaba sobre el agua y a ratos se iba hacia los árboles.
+El cielo empezó a ponerse de un color que ninguno de los dos comentó. Desde ahí se veía la orilla entera, chica: las neveras, las figuras de los demás alrededor de la parrilla, el humo que a ratos les llegaba sobre el agua y a ratos se iba hacia los árboles.
 
 —¿Quién crees que ganó la pesca? —preguntó ella, después de un rato de silencio que no pedía llenarse.
 
@@ -384,19 +384,19 @@ Ella levantó la cabeza de su hombro lo justo para mirarlo, y Kal ya la estaba m
 
 ***
 
-Volvieron nadando cuando ya casi no se veía el fondo, y para cuando sintieron otra vez la piedra suelta bajo los pies, el grupo estaba recogiendo: cañas enrolladas, hieleras vacías a medias, la parrilla apagándose sola. Héctor discutía con Danny sobre quién se llevaba las sobras del pescado; Nadir hacía cuentas en voz alta sobre lo que le debía o le debían, sin que quedara claro si hablaba en serio; Harper ya estaba guardando su equipo con la eficiencia de quien no necesita que nadie le diga cuándo terminar; Rocco corría entre las piernas de todos, exhausto y feliz, con arena hasta el lomo.
+Volvieron nadando cuando ya casi no se veía el fondo, y para cuando sintieron otra vez la piedra suelta bajo los pies, el grupo estaba recogiendo: cañas enrolladas, neveras vacías a medias, la parrilla apagándose sola. Héctor discutía con Danny sobre quién se llevaba las sobras del pescado; Nadir hacía cuentas en voz alta sobre lo que le debía o le debían, sin que quedara claro si hablaba en serio; Harper ya estaba guardando su equipo con la eficiencia de quien no necesita que nadie le diga cuándo terminar; Rocco corría entre las piernas de todos, exhausto y feliz, con arena hasta el lomo.
 
 Sin el sol, el frío les cayó encima de golpe. Kal sacó una sudadera seca de la mochila, se la pasó sin preguntarle si la quería y se echó la bolsa al hombro, y en vez de ir hacia los coches se quedaron un momento más en la orilla, de cara al agua, mirando lo que quedaba de luz sobre el lago. Él le tomó la mano. Ella no dijo nada.
 
 Cuando se dieron la vuelta, Héctor se guardaba el teléfono en el bolsillo de la camisa y volvía a discutir con Danny por las sobras, como si nunca hubiera dejado de hacerlo.
 
-—Última carga —anunció Walt, cerrando su hielera—, o nos agarra la noche en el camino.
+—Última carga —anunció Walt, cerrando su nevera—, o nos agarra la noche en el camino.
 
 Fueron subiendo al coche de cada quien entre despedidas cortas, gritos de "el sábado en el taller" y la promesa de Nadir de que la próxima vez iba a traer una báscula para que nadie pudiera discutirle el marcador. Chiara se despidió de todos con un abrazo, incluida Harper, que lo recibió con una sorpresa breve y después lo devolvió sin comentarios, y volvió al Audi con Kal.
 
 ***
 
-El camino de vuelta fue callado. La radio sonaba baja, la calefacción a tope les fue secando la ropa de a poco, y las luces de los otros coches se fueron perdiendo una por una en las bifurcaciones hasta que quedaron solos en la carretera, con el olor a lago todavía metido en la piel y en el pelo.
+El camino de vuelta fue callado. La radio sonaba baja, la calefacción a tope les fue secando la ropa poco a poco, y las luces de los otros coches se fueron perdiendo una por una en las bifurcaciones hasta que quedaron solos en la carretera, con el olor a lago todavía metido en la piel y en el pelo.
 
 La ciudad apareció despacio, primero como un resplandor contra las nubes bajas y después como calles de verdad, semáforos, gente. El ruido del día — la pesca, las risas, el agua — se fue quedando atrás con cada cuadra, hasta que sólo quedaron ellos dos y el motor.
 

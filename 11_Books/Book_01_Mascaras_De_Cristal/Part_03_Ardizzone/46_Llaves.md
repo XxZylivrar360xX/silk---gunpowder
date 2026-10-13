@@ -20,7 +20,7 @@ Función: "Los de Kal". La gente de Kal la recibe fría y termina siguiéndola. 
 
 Para llegar al Patio desde el centro había una vuelta que Chiara daba siempre sin pensarla: a la derecha en la calle del mercado, dos cuadras, y a la izquierda en la esquina de la lavandería de monedas, la que tenía el letrero con una burbuja fundida. Esa tarde siguió de largo en la calle del mercado y dio vuelta en la siguiente, una calle de casas bajas con perros detrás de las rejas, y salió a la avenida tres cuadras más abajo, por el lado del lote baldío. Tardó cuatro minutos más. No miró hacia la izquierda en ningún cruce.
 
-Eran pasadas las cinco. La Almendra tenía el ruido de esa hora: una licuadora en alguna cocina, un radio con un partido, niños sin escuela pateando una pelota contra una cortina de metal. Un hombre lavaba la banqueta de su tienda con una cubeta y una escoba, y se detuvo con la escoba en el aire para ver pasar el Lancia. En La Almendra todos conocían ese coche.
+Eran pasadas las cinco. La Almendra tenía el ruido de esa hora: una licuadora en alguna cocina, un radio con un partido, niños sin escuela pateando una pelota contra una cortina de metal. Un hombre lavaba la acera de su tienda con un balde y una escoba, y se detuvo con la escoba en el aire para ver pasar el Lancia. En La Almendra todos conocían ese coche.
 
 Chiara lo estacionó enfrente del portón, del otro lado de la calle, y apagó el motor.
 
@@ -28,13 +28,13 @@ El portón de Almendra Towing estaba abierto a medias, una hoja sí y la otra no
 
 Cruzó la calle.
 
-Héctor estaba en el capó de siempre, el del Ford sin llantas que llevaba años sirviendo de banca, con el trapo colgado del hombro. A su lado, sentado en una cubeta volteada, había un hombre calvo de barba de candado gris y botas de cazador, con una botella sin etiqueta entre los pies. Walt. La botella era de las suyas, de las que el Monarch le compraba por caja. Estaba cerrada.
+Héctor estaba en el capó de siempre, el del Ford sin llantas que llevaba años sirviendo de banca, con el trapo colgado del hombro. A su lado, sentado en un balde volteado, había un hombre calvo de barba de candado gris y botas de cazador, con una botella sin etiqueta entre los pies. Walt. La botella era de las suyas, de las que el Monarch le compraba por caja. Estaba cerrada.
 
 Ninguno de los dos se levantó.
 
 Detrás del mostrador del taller, Nadir tenía abierto un libro de cuentas de pasta dura, de los que Kal se burlaba porque existían computadoras, y una pluma en la mano. La pluma no se movía. Detrás del vidrio de la oficina, con los lentes oscuros puestos aunque adentro no había sol, Garrett hablaba por teléfono. Vio entrar a Chiara y siguió hablando.
 
-Las piernas de mezclilla salieron rodando de debajo del sedán. Danny se incorporó en la tabla, la vio, y se quedó así, sentado en el suelo con una llave en la mano y el collar de raíces negras asomándole por el cuello de la playera. No dijo nada. Volvió a acostarse en la tabla y rodó de regreso debajo del coche.
+Las piernas de mezclilla salieron rodando de debajo del sedán. Danny se incorporó en la tabla, la vio, y se quedó así, sentado en el suelo con una llave en la mano y el collar de raíces negras asomándole por el cuello de la camiseta. No dijo nada. Volvió a acostarse en la tabla y rodó de regreso debajo del coche.
 
 —Bellandi —dijo Héctor.
 
@@ -80,7 +80,7 @@ Garrett la miró a través de los lentes. Después asintió una vez, como quien 
 
 Héctor no lo corrigió. Walt tampoco. Debajo del sedán, Danny no se movía.
 
-Chiara dejó pasar la frase. La dejó llegar hasta el fondo del Patio, hasta la camioneta estacionada junto a la barda, y la dejó volver.
+Chiara dejó pasar la frase. La dejó llegar hasta el fondo del Patio, hasta la camioneta estacionada junto a la tapia, y la dejó volver.
 
 —Está vivo —dijo.
 
@@ -134,7 +134,7 @@ Danny se rió. Fue una risa corta, que le salió por la nariz, y se la tapó con
 
 ---
 
-Nadir había vuelto al libro de cuentas. Lo abrió en cualquier página, miró los números sin leerlos y lo volvió a cerrar. Después rodeó el mostrador, cruzó el Patio sin mirar a nadie y se detuvo junto a la camioneta del fondo, la que estaba estacionada contra la barda.
+Nadir había vuelto al libro de cuentas. Lo abrió en cualquier página, miró los números sin leerlos y lo volvió a cerrar. Después rodeó el mostrador, cruzó el Patio sin mirar a nadie y se detuvo junto a la camioneta del fondo, la que estaba estacionada contra la tapia.
 
 Chiara la miró por primera vez con atención.
 
@@ -184,7 +184,7 @@ Nadir bajó la mano.
 
 —Safi —dijo.
 
-Metió la mano en el bolsillo del pantalón. Sacó las llaves de la camioneta, un manojo con un llavero de cuero gastado, y se las puso a Chiara en la palma. No se las aventó ni se las dejó en el cofre. Se las puso en la mano y le cerró los dedos encima con los suyos, y después la soltó.
+Metió la mano en el bolsillo del pantalón. Sacó las llaves de la camioneta, un manojo con un llavero de cuero gastado, y se las puso a Chiara en la palma. No se las lanzó ni se las dejó en el capó. Se las puso en la mano y le cerró los dedos encima con los suyos, y después la soltó.
 
 —El termo es de Héctor —dijo—. Se lo robé. Que no se lo lleve.
 
@@ -200,7 +200,7 @@ Danny se levantó del suelo por fin. Se limpió las manos en los jeans, que no s
 
 —¿Quién vino?
 
-—Un tipo. Viene en un Audi negro, se para ahí enfrente, donde está su coche ahorita, y no se baja. Baja la ventanilla y pregunta por Kal. —Danny se rascó el cuello, sobre las raíces del tatuaje—. Dos veces. Antier y ayer. Le dije que Kal no estaba. Ayer me preguntó cuándo iba a estar.
+—Un tipo. Viene en un Audi negro, se para ahí enfrente, donde está su coche ahora, y no se baja. Baja la ventanilla y pregunta por Kal. —Danny se rascó el cuello, sobre las raíces del tatuaje—. Dos veces. Anteayer y ayer. Le dije que Kal no estaba. Ayer me preguntó cuándo iba a estar.
 
 —¿Qué le dijiste?
 
@@ -240,7 +240,7 @@ Danny asintió y volvió al sedán. Garrett se quedó un momento más en la puer
 
 ---
 
-El sol ya no entraba por el portón. Le pegaba sólo a la parte alta de la barda y al gancho de la grúa, que brillaba como si estuviera mojado. En la calle, el hombre de la escoba había terminado su banqueta y el agua corría hacia la coladera, arrastrando una envoltura de paleta.
+El sol ya no entraba por el portón. Le pegaba sólo a la parte alta de la tapia y al gancho de la grúa, que brillaba como si estuviera mojado. En la calle, el hombre de la escoba había terminado su acera y el agua corría hacia la alcantarilla, arrastrando una envoltura de paleta.
 
 Héctor se bajó del capó y se acercó a ella. Metió la mano en el bolsillo de la camisa de cuadros y sacó una llave sola, sin llavero, plateada, más nueva que todas las llaves del taller.
 
@@ -266,7 +266,7 @@ Volvió al capó. Walt le pasó la botella sin decir nada, y Héctor la abrió p
 
 ---
 
-El teléfono de Héctor vibró sobre el cofre del Ford.
+El teléfono de Héctor vibró sobre el capó del Ford.
 
 Estaba bocabajo junto a la botella, y el zumbido contra el metal sonó más fuerte que la radio. Héctor lo volteó, miró la pantalla y lo volvió a poner bocabajo. Siguió vibrando hasta que se cansó.
 
@@ -304,11 +304,11 @@ Héctor no lo contradijo.
 
 El teléfono volvió a vibrar contra el metal.
 
-Esta vez Héctor no lo volteó. Lo dejó sonar bocabajo, con la mano encima, y miró a Chiara por encima del cofre del Ford con la cara que ponía cuando la conversación de verdad importaba, la cara de no estar haciendo nada más.
+Esta vez Héctor no lo volteó. Lo dejó sonar bocabajo, con la mano encima, y miró a Chiara por encima del capó del Ford con la cara que ponía cuando la conversación de verdad importaba, la cara de no estar haciendo nada más.
 
 —A mí me va a preguntar si está bien —dijo—. Ya le mentí dos veces. A la tercera se da cuenta.
 
-Levantó el teléfono, que seguía vibrando, y se lo tendió por encima del cofre.
+Levantó el teléfono, que seguía vibrando, y se lo tendió por encima del capó.
 
 Chiara miró la pantalla. *Marisol*, sin apellido, con una foto pequeña en el círculo: pelo cobrizo con las puntas rubias, la lengua de fuera, una gorra que no era suya. Miró a Héctor. Héctor no bajó el brazo.
 
@@ -316,13 +316,13 @@ Detrás de él, en el mostrador, Nadir había dejado de pasar páginas. Danny ha
 
 Chiara lo tomó.
 
-Pesaba más que las llaves. Seguía vibrando. Caminó hacia el fondo del Patio, lejos del capó, hasta la camioneta lavada junto a la barda, y apoyó la espalda en la puerta del conductor. Del otro lado de la barda empezaba a encenderse el alumbrado de la calle de atrás, un poste y después otro.
+Pesaba más que las llaves. Seguía vibrando. Caminó hacia el fondo del Patio, lejos del capó, hasta la camioneta lavada junto a la tapia, y apoyó la espalda en la puerta del conductor. Del otro lado de la tapia empezaba a encenderse el alumbrado de la calle de atrás, un poste y después otro.
 
 Contestó.
 
 —Marisol. Soy Chiara.
 
-Del otro lado hubo un silencio corto, con ruido de calle, de autobús, de alguien que se detiene a media banqueta.
+Del otro lado hubo un silencio corto, con ruido de calle, de autobús, de alguien que se detiene a media acera.
 
 —¿Dónde está? —preguntó Marisol.
 

@@ -24,7 +24,7 @@ Función: primer capítulo de regreso tras Palermo. Muestra a Kal administrando 
 
 El sol de las tres de la tarde le pegaba distinto a Kingsley Field que el azul de la madrugada. Salió por las puertas correderas de la terminal comercial con una sola maleta —con la etiqueta de la aerolínea todavía colgando del asa— y se quedó un segundo entrecerrando los ojos contra la luz, buscando un coche entre la fila de los que esperaban con carteles y los que esperaban sin ellos.
 
-Marisol tenía las intermitentes puestas y medio auto subido a la banqueta, como si lo hubiera estacionado a media frenada.
+Marisol tenía las intermitentes puestas y medio auto subido a la acera, como si lo hubiera estacionado a media frenada.
 
 En el segundo que tardó en cruzar la calle, Kal la observó hacer lo que hacía siempre que lo recibía en un aeropuerto: mirar detrás de él, hacia la puerta todavía abriéndose y cerrándose, esperando que saliera alguien más.
 
@@ -34,13 +34,13 @@ Marisol bajó la vista a la maleta —una, no dos— y después volvió a subirl
 
 —Hola —dijo Kal.
 
-—Hola. —Se apartó del coche para abrirle la cajuela—. ¿Y bien?
+—Hola. —Se apartó del coche para abrirle el maletero—. ¿Y bien?
 
 —¿Y bien qué?
 
 —¿Dónde traes a la italiana?
 
-Kal metió la maleta y cerró la cajuela.
+Kal metió la maleta y cerró el maletero.
 
 —Se quedó un par de días más. En la villa.
 
@@ -200,7 +200,7 @@ Otro silencio, más corto que el primero.
 
 —Bien.
 
-Colgó sin despedirse, y Kal se quedó con el teléfono en la oreja un segundo de más, mirando la calle otra vez, ahora sí viéndola: el patio detrás de él, la grúa terminando de maniobrar, Danny cerrando el cofre del motor que ya no tosía.
+Colgó sin despedirse, y Kal se quedó con el teléfono en la oreja un segundo de más, mirando la calle otra vez, ahora sí viéndola: el patio detrás de él, la grúa terminando de maniobrar, Danny cerrando el capó del motor que ya no tosía.
 
 Marcó otro número antes de volver adentro.
 
@@ -226,7 +226,7 @@ Marisol lo encontró así, revisando una lista con Nadir que no tenía nada que 
 
 —Ibas a preguntar con la cara.
 
-Comieron sentados en el capó de un auto que no era de nadie en particular, con Nadir despidiéndose hacia su casa y el patio quedándose vacío alrededor de ellos de a poco. Marisol le contó, entre un bocado y otro, que había terminado el semestre con mejor nota de la que esperaba, que Sam le había dicho que su mamá —la fiscal de distrito— iba a necesitar becarios e insistía en que solicitara con ella. Marisol todavía estaba mirando opciones.
+Comieron sentados en el capó de un auto que no era de nadie en particular, con Nadir despidiéndose hacia su casa y el patio quedándose vacío alrededor de ellos poco a poco. Marisol le contó, entre un bocado y otro, que había terminado el semestre con mejor nota de la que esperaba, que Sam le había dicho que su mamá —la fiscal de distrito— iba a necesitar becarios e insistía en que solicitara con ella. Marisol todavía estaba mirando opciones.
 
 —¿Y tú qué crees? —le preguntó, sin mirarlo, concentrada en desenredar una papa frita del papel.
 
@@ -254,7 +254,7 @@ Salieron al balcón después, con el helado ya terminado, porque adentro hacía 
 
 Desde ahí se veía La Almendra entera: los techos bajos de lámina y teja vieja, el patio de Almendra Towing con una sola luz encendida al fondo, la calle Esparza con dos coches estacionados de cualquier manera, un perro cruzando sin apuro, y más lejos, hacia la Ronda Exterior, las luces de un camión pasando despacio. Sonaba una radio en alguna casa, muy baja, y alguien golpeaba algo metálico en un taller que ya debería estar cerrado.
 
-Marisol se recargó en la baranda, con los brazos cruzados sobre el metal frío.
+Marisol se apoyó en la baranda, con los brazos cruzados sobre el metal frío.
 
 Se quedaron ahí un rato, los dos mirando el mismo barrio, sin que ninguno rompiera el silencio.
 

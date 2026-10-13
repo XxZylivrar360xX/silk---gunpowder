@@ -62,13 +62,13 @@ Kal miró la camisa del día anterior y decidió que no. Sacó de la bolsa bajo 
 
 ***
 
-La cárcel del condado quedaba lejos de todo lo que San Aurelio ponía en postales: una zona seca de bardas largas, estacionamientos vacíos y árboles demasiado jóvenes para dar sombra. Concreto, rejas, ventanas estrechas y una bandera que se movía apenas.
+La cárcel del condado quedaba lejos de todo lo que San Aurelio ponía en postales: una zona seca de tapias largas, estacionamientos vacíos y árboles demasiado jóvenes para dar sombra. Concreto, rejas, ventanas estrechas y una bandera que se movía apenas.
 
 Héctor esperaba junto a la entrada de visitantes, con gorra vieja, camisa de cuadros y una bolsa de papel en la mano.
 
 No estaba solo.
 
-Recargada en el cofre de un Corolla gris, con los brazos cruzados, Natalie Keegan miraba la puerta metálica como si pudiera abrirla por insistencia. Traía la sudadera azul marino del Departamento de Bomberos de San Aurelio, jeans y botas con las agujetas metidas por dentro. El pelo oscuro iba en una trenza tan apretada que parecía parte del uniforme. Tenía los ojos de Walt, y Kal volvió a notarlo como cada vez: la misma manera de contar un lugar antes de entrar en él. En la barbilla llevaba una cicatriz pequeña que Kal sabía de dónde venía. Fue el borde de una hielera, un Cuatro de Julio, mucha sangre para tan poca herida.
+Apoyada en el capó de un Corolla gris, con los brazos cruzados, Natalie Keegan miraba la puerta metálica como si pudiera abrirla por insistencia. Traía la sudadera azul marino del Departamento de Bomberos de San Aurelio, jeans y botas con los cordones metidos por dentro. El pelo oscuro iba en una trenza tan apretada que parecía parte del uniforme. Tenía los ojos de Walt, y Kal volvió a notarlo como cada vez: la misma manera de contar un lugar antes de entrar en él. En la barbilla llevaba una cicatriz pequeña que Kal sabía de dónde venía. Fue el borde de una nevera portátil, un Cuatro de Julio, mucha sangre para tan poca herida.
 
 —Llegaste tarde —le dijo.
 
@@ -122,7 +122,7 @@ Héctor se apartó del coche. Natalie no.
 
 Walt la vio a ella primero.
 
-Se detuvo a media banqueta, con la bolsa colgándole de una mano, y por un segundo Kal le vio en la cara las dos cosas a la vez: la niña de catorce años que había dejado en la puerta de su casa y la mujer de sudadera azul que lo esperaba recargada en un coche, sin moverse, dejando que fuera él quien llegara.
+Se detuvo a media acera, con la bolsa colgándole de una mano, y por un segundo Kal le vio en la cara las dos cosas a la vez: la niña de catorce años que había dejado en la puerta de su casa y la mujer de sudadera azul que lo esperaba apoyada en un coche, sin moverse, dejando que fuera él quien llegara.
 
 La había visto en la audiencia. Kal lo sabía. No era lo mismo: ahí había una mesa, un guardia y un reloj.
 
@@ -178,13 +178,13 @@ Walt miró adentro.
 
 —La libertad te ablanda el estándar, Navarro.
 
-Walt miró entonces las letras de la sudadera de su hija. Ya lo sabía; se lo había contado ella por teléfono y en la audiencia. Pero una cosa era saberlo detrás de un vidrio y otra verlo escrito en su pecho a media banqueta.
+Walt miró entonces las letras de la sudadera de su hija. Ya lo sabía; se lo había contado ella por teléfono y en la audiencia. Pero una cosa era saberlo detrás de un vidrio y otra verlo escrito en su pecho a media acera.
 
 —Bomberos.
 
 —Hace cuatro meses.
 
-—Cuatro... ¿Eh?.
+—Cuatro meses.
 
 Natalie sacó del bolsillo de la sudadera una caja pequeña y se la puso en la mano.
 
@@ -402,7 +402,7 @@ Natalie no miró a Kal.
 
 Walt se quedó con eso un rato. Después abrió la bolsa de plástico y buscó entre los papeles doblados hasta dar con un sobre sin estampilla, con las esquinas gastadas de tanto cambiarlo de lugar. Tenía el nombre de Jim escrito con la misma letra inclinada de siempre. No tenía dirección.
 
-Volvió a la lápida, se agachó y lo dejó recargado contra la piedra. Tomó una piedra del camino y la puso encima, para que no se lo llevara el viento.
+Volvió a la lápida, se agachó y lo dejó apoyado contra la piedra. Tomó una piedra del camino y la puso encima, para que no se lo llevara el viento.
 
 Nadie le preguntó qué decía.
 
@@ -416,7 +416,7 @@ Natalie le puso la mano en el brazo un segundo, sobre la tela gris que todavía 
 
 Kal no fue detrás de ellos.
 
-—Adelántense —le dijo a Héctor—. Ahorita los alcanzo.
+—Adelántense —le dijo a Héctor—. Enseguida los alcanzo.
 
 Tardó en volver al coche. Cuando llegó, Walt ya estaba sentado adelante y no le preguntó dónde había estado.
 
@@ -426,7 +426,7 @@ La Almendra los recibió con más memoria que fiesta.
 
 No hubo globos ni música ni vecinos saliendo a la calle como en las películas malas. Hubo cortinas que se movieron. Una mujer que levantó la mano desde el otro lado de la calle. Un viejo sentado frente a la barbería que se quitó la gorra al ver a Walt y se la volvió a poner, como si se hubiera descubierto más de lo que pensaba.
 
-Walt vio todo. Vio también lo demás: que la barbería ahora compartía la fachada con una lavandería de monedas, que en la esquina de la ferretería había una cámara nueva apuntando a la banqueta, que el lote baldío donde él había enseñado a manejar a Jim tenía un portón, dos grúas azules y un letrero pintado a mano.
+Walt vio todo. Vio también lo demás: que la barbería ahora compartía la fachada con una lavandería de monedas, que en la esquina de la ferretería había una cámara nueva apuntando a la acera, que el lote baldío donde él había enseñado a manejar a Jim tenía un portón, dos grúas azules y un letrero pintado a mano.
 
 —*Almendra Towing* —leyó.
 
@@ -474,7 +474,7 @@ Walt miró el gesto.
 
 —Es cierto —dijo Natalie desde el refrigerador.
 
-Walt lo midió como había medido a Kal en la banqueta, buscando qué había debajo. Nadir le sostuvo la mirada sin endurecerla, que era lo más difícil, y señaló la olla.
+Walt lo midió como había medido a Kal en la acera, buscando qué había debajo. Nadir le sostuvo la mirada sin endurecerla, que era lo más difícil, y señaló la olla.
 
 —¿Come picante?
 
@@ -482,7 +482,7 @@ Walt no le contestó. Tomó un plato.
 
 Danny llegó cuando ya estaban comiendo.
 
-Entró por el portón a pie, con la chaqueta de mezclilla abierta sobre una playera de un grupo que nadie más en el taller escuchaba, el pelo negro suelto y demasiada energía para un lunes a mediodía.
+Entró por el portón a pie, con la chaqueta de mezclilla abierta sobre una camiseta de un grupo que nadie más en el taller escuchaba, el pelo negro suelto y demasiada energía para un lunes a mediodía.
 
 —¡Walt Keegan! —Abrió los brazos desde el patio—. Usted no me conoce, pero yo sí a usted. Aquí todo el mundo. El de la barreta. —Lo abrazó antes de que Walt pudiera decidir si quería—. Bienvenido, de verdad, qué bueno, qué bueno que ya está afuera.
 
@@ -686,7 +686,7 @@ A las siete y media, el cuarto de atrás de la casa común olía a detergente, c
 
 Era el cuarto para lo que hiciera falta: dormir una noche, contar dinero, guardar cajas, cambiarse de ropa antes de ir a una habitación donde el barrio no cabía. Esa noche servía para lo último.
 
-Kal se puso la sudadera negra sobre la camiseta. Pantalón negro, botas, guantes metidos en el bolsillo de atrás. Nadir se abotonó una chamarra negra hasta el cuello y revisó el reloj dos veces. Danny no se estaba quieto: se cambió de playera, se volvió a cambiar, tamborileó en la puerta del clóset una canción que sólo él oía y dijo que se sentía increíble, que hacía años que no se sentía tan bien, que iba a ser un paseo.
+Kal se puso la sudadera negra sobre la camiseta. Pantalón negro, botas, guantes metidos en el bolsillo de atrás. Nadir se abotonó una chaqueta negra hasta el cuello y revisó el reloj dos veces. Danny no se estaba quieto: se cambió de camiseta, se volvió a cambiar, tamborileó en la puerta del clóset una canción que sólo él oía y dijo que se sentía increíble, que hacía años que no se sentía tan bien, que iba a ser un paseo.
 
 Nadir le pasó una botella de agua sin decir nada. Danny se la tomó entera.
 
@@ -698,7 +698,7 @@ Kal se detuvo con el cierre de la sudadera a medio subir.
 
 —¿Aquí?
 
-—Al portón. No se bajó del coche. —Nadir jaló la agujeta—. Parece que quiere hablar contigo de algo. No mencionó qué.
+—Al portón. No se bajó del coche. —Nadir tiró del cordón—. Parece que quiere hablar contigo de algo. No mencionó qué.
 
 —¿El del casino? —preguntó Danny.
 
@@ -724,7 +724,7 @@ Kal pensó en la cabecera vacía de la sala del Monarch, en Matteo diciendo que 
 
 En la mesa quedaron tres máscaras de tela negra, dobladas como servilletas.
 
-Afuera, en la calle, la grúa azul esperaba con las luces de trabajo encendidas. Arriba, sujeto con cadenas, un Buick sin motor, de los que ningún policía de San Aurelio se detiene a revisar. La hierba iba en la cajuela y en el hueco de la llanta de refacción, envuelta en plástico y en olor a gasolina vieja.
+Afuera, en la calle, la grúa azul esperaba con las luces de trabajo encendidas. Arriba, sujeto con cadenas, un Buick sin motor, de los que ningún policía de San Aurelio se detiene a revisar. La hierba iba en el maletero y en el hueco de la llanta de repuesto, envuelta en plástico y en olor a gasolina vieja.
 
 Cuando salieron, Walt y Héctor estaban sentados en el escalón de la casa común. Walt seguía con la camisa gris de la mañana. Tenía el teléfono nuevo en la mano, bocabajo, como Kal había dejado el suyo en el escritorio.
 
@@ -738,7 +738,7 @@ Después vio las máscaras en la mano de Danny.
 
 —En tus tiempos no había una cámara en cada poste —dijo Héctor.
 
-Walt miró hacia la esquina de la ferretería. La luz roja de la cámara parpadeaba sobre la banqueta vacía.
+Walt miró hacia la esquina de la ferretería. La luz roja de la cámara parpadeaba sobre la acera vacía.
 
 No dijo nada más.
 

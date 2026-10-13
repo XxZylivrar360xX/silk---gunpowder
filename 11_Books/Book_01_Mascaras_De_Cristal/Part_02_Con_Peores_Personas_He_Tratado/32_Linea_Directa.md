@@ -141,13 +141,13 @@ Kal no preguntó para qué.
 
 Walt asintió y se llevó el café a la oficina.
 
-Llegó al límite del Canal Seco a media tarde, en el Audi, sin nadie en el asiento de al lado. Esta vez no lo esperaba nadie con las armas a la vista. Lo esperaba Tomás, recargado en el poste de un toldo, con las manos vacías. De día el mercado tenía más ruido y el mismo silencio: la gente seguía vendiendo, pero lo iba viendo pasar puesto por puesto.
+Llegó al límite del Canal Seco a media tarde, en el Audi, sin nadie en el asiento de al lado. Esta vez no lo esperaba nadie con las armas a la vista. Lo esperaba Tomás, apoyado en el poste de un toldo, con las manos vacías. De día el mercado tenía más ruido y el mismo silencio: la gente seguía vendiendo, pero lo iba viendo pasar puesto por puesto.
 
 —Brazos.
 
 Kal los levantó. Tomás lo cacheó despacio y completo, los tobillos también, y cuando terminó no se hizo a un lado: echó a andar delante de él entre los puestos, sin voltear a ver si lo seguía.
 
-Irene estaba donde la otra vez, detrás del puesto de abarrotes, en la misma silla plegable, con la libreta abierta sobre las piernas. No levantó la vista hasta terminar la línea que estaba escribiendo.
+Irene estaba donde la otra vez, detrás del puesto de comestibles, en la misma silla plegable, con la libreta abierta sobre las piernas. No levantó la vista hasta terminar la línea que estaba escribiendo.
 
 —Señor Mercer.
 

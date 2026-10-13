@@ -34,13 +34,13 @@ Chiara estaba ahí desde las siete. Había llegado con el último turno de la ce
 
 El billete seguía en el bolsillo interior del saco. Chiara lo había sentido toda la tarde contra el pecho, cada vez que se inclinaba sobre la taza.
 
-Mabel apagó la cafetera grande. Dejó prendida la chica, la de ella, que tenía el foco rojo fundido y había que tocar con el dorso de la mano para saber si estaba caliente.
+Mabel apagó la cafetera grande. Dejó prendida la chica, la de ella, que tenía el piloto rojo fundido y había que tocar con el dorso de la mano para saber si estaba caliente.
 
 —Si quieres vete —dijo—. Yo te busco mañana.
 
 —Rafe dijo que por usted.
 
-—Rafe dice muchas cosas desde que tenía doce años. —Mabel recargó la escoba en la vitrina—. Pero bueno.
+—Rafe dice muchas cosas desde que tenía doce años. —Mabel apoyó la escoba en la vitrina—. Pero bueno.
 
 Le sirvió lo que quedaba en la cafetera chica sin preguntarle. Después se puso a contar la caja, de espaldas, con los billetes en montoncitos sobre el mostrador de atrás y los labios moviéndose sin sonido.
 
@@ -132,7 +132,7 @@ Arriba, la torre se fue completa.
 
 Chiara se inclinó sobre el volante para verla por el parabrisas. No había torre. Había un rectángulo más negro que el cielo, sin una sola ventana, y detrás, muy al norte, la loma de San Jacinto encendida todavía, con sus casas de muros altos, como si la ciudad se hubiera partido por la mitad y la otra mitad no se hubiera enterado.
 
-Los faros del Lancia eran la única luz del Paseo. El valet se había quedado parado en medio de ellos, a tres metros del cofre, con una mano levantada contra el resplandor y la camisa a medio meter.
+Los faros del Lancia eran la única luz del Paseo. El valet se había quedado parado en medio de ellos, a tres metros del capó, con una mano levantada contra el resplandor y la camisa a medio meter.
 
 Detrás de las puertas de vidrio del lobby, después de un momento, se prendieron unas luces amarillas, bajas, de las que no alcanzan para leer. El valet volteó hacia ellas, volteó hacia el coche, y se fue corriendo hacia adentro.
 
@@ -142,7 +142,7 @@ No fue una risa larga. Le salió por la nariz, primero, y luego por la boca, sol
 
 —Claro… Lo que me faltaba.
 
-Se recargó en el asiento. Miró por el parabrisas hacia arriba, hacia donde antes estaba el penthouse.
+Se recostó en el asiento. Miró por el parabrisas hacia arriba, hacia donde antes estaba el penthouse.
 
 —¿Te estás divirtiendo, no? Espero de verdad que lo estés disfrutando, porque llevo unos días, ma dai, que parece castigo divino.
 
@@ -196,7 +196,7 @@ Afuera, muy abajo, pasó otra sirena. No subía hasta ahí más que como un hilo
 
 Se enderezó. Dio dos pasos hacia la ventana y volvió.
 
-—Pagué todo. Le di mi nombre a un hombre que cobraba en la banqueta desde niño. Le quedé a deber a Dario lo que él quiera, cuando él quiera, y no sé qué es. Me senté a tomar café con un viejo que me ofreció este edificio como quien ofrece galletas. —Señaló la ventana, el rectángulo negro donde estaba el Pacífica—. Todo lo que me pidieron, lo pagué, y lo pagué yo. No mandé a nadie. Y Tú… Tú, nada. Ni siquiera me cobras. Nomás quitas.
+—Pagué todo. Le di mi nombre a un hombre que cobraba en la acera desde niño. Le quedé a deber a Dario lo que él quiera, cuando él quiera, y no sé qué es. Me senté a tomar café con un viejo que me ofreció este edificio como quien ofrece galletas. —Señaló la ventana, el rectángulo negro donde estaba el Pacífica—. Todo lo que me pidieron, lo pagué, y lo pagué yo. No mandé a nadie. Y Tú… Tú, nada. Ni siquiera me cobras. Solo quitas.
 
 Tomó el cuadro de la mesa. Lo sostuvo con las dos manos, contra el estómago.
 
@@ -232,13 +232,13 @@ Buscó en el bolso sin mirar. Los dedos pasaron por la Beretta, por las llaves, 
 
 *—Sí sabes que eso es malo, ¿no?*
 
-Kal, recargado en la isla del loft, con una cerveza a medias, mirándola encender el primero de la noche junto a la ventana de la cocina. Ella lo había mirado como se mira a un proveedor que opina de lo que no le toca.
+Kal, apoyado en la isla del loft, con una cerveza a medias, mirándola encender el primero de la noche junto a la ventana de la cocina. Ella lo había mirado como se mira a un proveedor que opina de lo que no le toca.
 
 *—No me veas así. Lo digo porque me importas.*
 
 El pulgar se le quedó sobre la rueda.
 
-Chiara se quitó el cigarro de la boca. Lo tuvo un momento entre los dedos, a la altura de la cara. Después cerró la tapa del encendedor y lo aventó hacia la sala, sin ver adónde. Lo oyó pegar en algo blando y después ya no lo oyó.
+Chiara se quitó el cigarro de la boca. Lo tuvo un momento entre los dedos, a la altura de la cara. Después cerró la tapa del encendedor y lo lanzó hacia la sala, sin ver adónde. Lo oyó pegar en algo blando y después ya no lo oyó.
 
 Dejó el cigarro sobre la mesa, sin encender, junto al cuadro.
 
@@ -278,7 +278,7 @@ El muchacho sonrió sin saber por qué, y cerró la puerta.
 
 ---
 
-La ciudad sin luz era otra ciudad. Chiara la manejó despacio, con los faros altos y el cuadro en el asiento de al lado. En las esquinas los coches se esperaban unos a otros con las intermitentes puestas, sin claxon, como en un pueblo. En Corona había gente en las banquetas, afuera de los edificios, en pijama y con linternas, mirando hacia arriba. Un hombre en bata le hizo señas con la mano para que pasara, como si fuera el dueño de la esquina.
+La ciudad sin luz era otra ciudad. Chiara la manejó despacio, con los faros altos y el cuadro en el asiento de al lado. En las esquinas los coches se esperaban unos a otros con las intermitentes puestas, sin claxon, como en un pueblo. En Corona había gente en las aceras, afuera de los edificios, en pijama y con linternas, mirando hacia arriba. Un hombre en bata le hizo señas con la mano para que pasara, como si fuera el dueño de la esquina.
 
 En el radio, una voz con batería de emergencia decía que habían fallado tres subestaciones del sur casi al mismo tiempo y que la compañía no tenía todavía un estimado. Luego repetía lo mismo. Chiara lo apagó.
 

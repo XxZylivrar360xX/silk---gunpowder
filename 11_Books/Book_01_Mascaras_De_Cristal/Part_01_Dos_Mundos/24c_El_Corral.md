@@ -98,7 +98,7 @@ Kal no lo esperó.
 
 Subió al penthouse por el elevador de servicio, el único que no necesitaba pedir permiso para usar.
 
-También estaba vacío. Recorrió cada cuarto — la cocina, la sala de cine donde ella le había puesto una canción hacía meses, la recámara — sin encontrar nada fuera de lugar, lo cual, de alguna manera, era peor que encontrar algo roto.
+También estaba vacío. Recorrió cada cuarto — la cocina, la sala de cine donde ella le había puesto una canción hacía meses, el dormitorio — sin encontrar nada fuera de lugar, lo cual, de alguna manera, era peor que encontrar algo roto.
 
 Lo único que no era de ella estaba sobre el escritorio: un sobre color hueso, abierto, sin remitente. Adentro, una hoja de papel grueso y tres líneas en italiano. Kal no lo hablaba, pero entendió lo suficiente: una fecha, *il 13 dicembre*; una palabra, *valutazione*, que no necesitaba diccionario; ninguna firma. Lo dobló y se lo guardó en el bolsillo interior.
 
@@ -170,7 +170,7 @@ No dijo nada más.
 
 No podía quedarse sentado. Le pidió a Héctor que llegara a cubrirlo — nadie más en quien confiara tanto sin tener que explicarle por qué — y salió a resolver, porque no sabía estar quieto en un pasillo mientras alguien seguía libre por ahí afuera.
 
-En la acera de enfrente del Santa Aurelia, recargado en una camioneta blanca, estaba Caluca, mirando la puerta de urgencias.
+En la acera de enfrente del Santa Aurelia, apoyado en una camioneta blanca, estaba Caluca, mirando la puerta de urgencias.
 
 Lo que siguió duró más de lo que debía y salió peor de lo que Kal le habría permitido a cualquiera de sus muchachos: una pistola en el pecho, una carrera hacia la parte de atrás del hospital, dos armas afuera a la vuelta de la esquina con una patrulla estacionada a cien metros. Al final el muchacho se subió al coche. Kal le quitó el teléfono, la cartera y el arma, y le hizo las preguntas que hacía cuando de verdad quería una respuesta.
 
@@ -550,7 +550,7 @@ Pasó un camión por la carretera y el coche se llenó de luz y después volvió
 
 —Debí darme cuenta cuando se volteó a preguntarme a mí sola. Tenía que haberlo pensado más.
 
-—Acababas de despertar. Y yo seguía encima, aventándote cosas para que las agarraras.
+—Acababas de despertar. Y yo seguía encima, lanzándote cosas para que las agarraras.
 
 —Ya lo sé. Lo siento muchísimo.
 
@@ -648,7 +648,7 @@ Dos cuerpos en un cuarto a oscuras.
 
 Se quedó cuatro días. Kal le cambió el vendaje dos veces y no le preguntó nada que tuviera que ver con Palermo; ella no se lo agradeció en voz alta, y tampoco le pidió que dejara de hacerlo.
 
-Al quinto volvió al Monarch. Los hombres de Dario estaban donde decía la hoja de Kenji: uno en el lobby, otro junto al elevador privado y el tercero, el que Dario no había mencionado, en el estacionamiento de empleados, recargado en el Mercedes de la empresa como si el Mercedes también fuera suyo.
+Al quinto volvió al Monarch. Los hombres de Dario estaban donde decía la hoja de Kenji: uno en el lobby, otro junto al elevador privado y el tercero, el que Dario no había mencionado, en el estacionamiento de empleados, apoyado en el Mercedes de la empresa como si el Mercedes también fuera suyo.
 
 Esa noche llamó a Kal.
 

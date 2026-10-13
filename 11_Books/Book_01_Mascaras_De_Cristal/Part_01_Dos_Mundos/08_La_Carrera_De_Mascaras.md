@@ -82,7 +82,7 @@ Chiara giró la cabeza despacio.
 
 —No me has contado nada de Dario.
 
-—Nadir le hizo un encargo. Una entrega en una parcela, por la vieja carretera del norte, a medianoche. —Lo dijo como quien cuenta que Nadir le pintó la cerca a un vecino—. Yo manejé, porque Nadir no iba a ir solo a una parcela a medianoche a ver a un hombre que reparte tarjetas en la banqueta. Danny fue porque se enteró. Héctor fue porque iba Danny.
+—Nadir le hizo un encargo. Una entrega en una parcela, por la vieja carretera del norte, a medianoche. —Lo dijo como quien cuenta que Nadir le pintó la cerca a un vecino—. Yo manejé, porque Nadir no iba a ir solo a una parcela a medianoche a ver a un hombre que reparte tarjetas en la acera. Danny fue porque se enteró. Héctor fue porque iba Danny.
 
 La tarjeta de la acera, pensó Chiara. Así que eso era.
 
@@ -194,7 +194,7 @@ Kingsley Field de noche era una reja de tela metálica que corría kilómetros j
 
 Iban a las afueras: las vías de servicio y los tramos perimetrales, la Carretera de Milla estirándose paralela a la reja hasta perderse. Más allá de los hangares, donde la autopista seguía hacia el noreste, corría otra cerca, más alta, con alambre arriba y una luz blanca y pareja que no era la de Kingsley. Un letrero verde: CAMP ALDER. Kal no giró la cabeza.
 
-Cuando Kal salió de la autopista y bajó por una rampa sin señalizar, Chiara empezó a ver los coches. Veinte, treinta, aparcados de cualquier modo sobre la grava, con las cajuelas abiertas y los faros de algunos apuntando hacia la carretera para marcar dónde empezaba el asfalto que importaba.
+Cuando Kal salió de la autopista y bajó por una rampa sin señalizar, Chiara empezó a ver los coches. Veinte, treinta, aparcados de cualquier modo sobre la grava, con los maleteros abiertos y los faros de algunos apuntando hacia la carretera para marcar dónde empezaba el asfalto que importaba.
 
 Se bajaron. El aire olía a combustible quemado y a hierba seca. Alguien aceleraba un motor a lo lejos sin ningún motivo salvo que lo oyeran. Había cajas de herramientas abiertas sobre las defensas, billetes cambiando de mano sin que nadie explicara a cuenta de qué, grupos que se reconocían con un gesto de la barbilla y se separaban igual de rápido.
 

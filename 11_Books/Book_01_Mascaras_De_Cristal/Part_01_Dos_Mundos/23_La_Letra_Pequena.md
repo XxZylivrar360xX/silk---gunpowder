@@ -189,7 +189,7 @@ La moto estaba estacionada frente al taller cuando Kal llegó, a las siete y die
 
 Kal la rodeó una vez. Se agachó junto a la rueda trasera y empujó la cadena con el pulgar. Floja.
 
-Adentro, Nadir dormía sentado en el sillón de la oficina, con las botas puestas y la chamarra cerrada hasta el cuello. Olía a carretera. En el escritorio había un café que ya no echaba vapor.
+Adentro, Nadir dormía sentado en el sillón de la oficina, con las botas puestas y la chaqueta cerrada hasta el cuello. Olía a carretera. En el escritorio había un café que ya no echaba vapor.
 
 Kal no lo despertó. Abrió el cajón de abajo del archivero, sacó la caja de lámina donde se guardaba el dinero de los tratos, las piezas que no pasaban por factura y la mercancía que se movía sin papel, y lo contó de pie. Lo contó dos veces.
 
@@ -235,7 +235,7 @@ Kal sacó la cartera, contó de su dinero lo que faltaba, lo metió en la caja y
 
 —Te sale lo que costó.
 
-Nadir se levantó por fin. Tenía los ojos rojos y la chamarra todavía cerrada. No dijo dónde había pasado la noche.
+Nadir se levantó por fin. Tenía los ojos rojos y la chaqueta todavía cerrada. No dijo dónde había pasado la noche.
 
 Salieron juntos a la acera. Nadir pasó la mano por el tanque, despacio, como si todavía tuviera que convencerse de que era suyo.
 

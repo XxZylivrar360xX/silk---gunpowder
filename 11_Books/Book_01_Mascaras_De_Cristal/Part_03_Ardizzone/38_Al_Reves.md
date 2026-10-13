@@ -201,7 +201,7 @@ Chiara no contestó eso. Dejó que la frase se quedara en el aire y que fuera é
 
 —Estamos hablando.
 
-—Estás administrando. —Se rio, corto—. Lo haces bien. Siempre lo hiciste bien. Pero yo te conocí antes de todo esto, Chiara. Antes del barco y de la gente del ayuntamiento y de —hizo un gesto vago hacia la cubierta— lo que sea que esto sea. Y creo que me merezco una explicación un poco mejor que "no me busques más" en una banqueta.
+—Estás administrando. —Se rio, corto—. Lo haces bien. Siempre lo hiciste bien. Pero yo te conocí antes de todo esto, Chiara. Antes del barco y de la gente del ayuntamiento y de —hizo un gesto vago hacia la cubierta— lo que sea que esto sea. Y creo que me merezco una explicación un poco mejor que "no me busques más" en una acera.
 
 —Te la di completa esa noche.
 
@@ -517,7 +517,7 @@ Una *C*. En hilo azul oscuro, pequeña, en una esquina, del tipo que borda una c
 
 Había sido una mañana cualquiera entre semana, de las que Chiara reservaba para la misa de las ocho porque a las ocho no había nadie en Santa Lucía salvo tres viejas y el sacristán, y nadie le preguntaba nada.
 
-Salió con el bolso al hombro y las llaves del Mercedes en la mano. El sol todavía no había subido del todo por encima de la colina. En la banqueta, junto al coche, había dos hombres que no habían estado cuando entró.
+Salió con el bolso al hombro y las llaves del Mercedes en la mano. El sol todavía no había subido del todo por encima de la colina. En la acera, junto al coche, había dos hombres que no habían estado cuando entró.
 
 No hicieron nada rápido. Eso fue lo primero que registró: la lentitud. Uno de ellos, el mayor, con el pelo gris cortado corto y un abrigo demasiado bueno para San Aurelio, le habló en italiano, con el acento de una ciudad que ella conocía mejor que ésta.
 
@@ -655,7 +655,7 @@ Chiara cerró los ojos un segundo.
 
 —Kal...
 
-—Vas a ir. —No fue pregunta, y no fue orden—. Ya lo decidiste. Ya arreglaste el avión. No te estoy diciendo que no vayas ni te estoy diciendo que me esperes. Te estoy diciendo que voy. —Se tocó el bolsillo interior de la chaqueta, donde había dos papeles—. Llevo meses sin saber quién te puso en ese hospital. Esto es lo primero que tiene un lugar de dónde vino. Si el hilo está en Palermo, en Palermo lo voy a jalar.
+—Vas a ir. —No fue pregunta, y no fue orden—. Ya lo decidiste. Ya arreglaste el avión. No te estoy diciendo que no vayas ni te estoy diciendo que me esperes. Te estoy diciendo que voy. —Se tocó el bolsillo interior de la chaqueta, donde había dos papeles—. Llevo meses sin saber quién te puso en ese hospital. Esto es lo primero que tiene un lugar de dónde vino. Si el hilo está en Palermo, en Palermo voy a tirar de él.
 
 —No es tu mesa.
 

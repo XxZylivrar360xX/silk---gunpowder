@@ -230,7 +230,7 @@ En el elevador de la Torre Norte apretó el botón de su despacho, no el del pen
 
 ---
 
-El martes llovió en la mañana y paró a mediodía. El Paseo se quedó brillando, con charcos en las juntas de la banqueta que reflejaban las palmeras de cabeza.
+El martes llovió en la mañana y paró a mediodía. El Paseo se quedó brillando, con charcos en las juntas de la acera que reflejaban las palmeras de cabeza.
 
 Chiara trabajó. Hizo la junta de las diez con los gerentes de piso, aprobó el menú de un banquete de bodas para el sábado, le negó un crédito a un cliente de Phoenix que ya debía dos. Contestó todo lo que le pusieron enfrente. Comió de pie en la cocina, junto a la estación de los postres, un pedazo de pan con aceite que le dio uno de los cocineros, y el cocinero no le dijo nada y ella tampoco.
 

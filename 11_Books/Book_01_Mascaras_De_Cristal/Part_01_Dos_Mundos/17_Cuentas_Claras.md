@@ -42,7 +42,7 @@ La gente de Irene no pensaba igual. Dos hombres los esperaban en la entrada, con
 
 El Canal Seco no se parecía a nada que Kal conociera de memoria. Calles más estrechas, toldos de lona sobre puestos que vendían de todo un poco, y un silencio particular que se sentía cada vez que un forastero cruzaba una esquina — no hostil, solo atento.
 
-Irene los esperaba en la parte de atrás de un puesto de abarrotes, sentada en una silla plegable, con una libreta abierta sobre las piernas. A un lado, sentados en el suelo con la espalda contra la pared y un hombre armado sin quitarles la vista de encima, estaban Nadir y Danny.
+Irene los esperaba en la parte de atrás de un puesto de comestibles, sentada en una silla plegable, con una libreta abierta sobre las piernas. A un lado, sentados en el suelo con la espalda contra la pared y un hombre armado sin quitarles la vista de encima, estaban Nadir y Danny.
 
 Kal los miró un segundo de más. Nadir bajó la vista primero. Danny ni siquiera lo intentó.
 

@@ -1,6 +1,6 @@
 # Current Brief
 
-Actualizado: 2026-10-10. Estado vigente; máximo 800 palabras. Sustituir lo superado, no acumular sesiones. Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-10-06_CURRENT_BRIEF]].
+Actualizado: 2026-10-12. Estado vigente; máximo 800 palabras. Sustituir lo superado, no acumular sesiones. Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-10-06_CURRENT_BRIEF]].
 
 ## Foco y siguiente paso
 
@@ -43,6 +43,7 @@ Actualizado: 2026-10-10. Estado vigente; máximo 800 palabras. Sustituir lo supe
 - Liberación de Kal: la revelación se reserva para *Voto de Ceniza*. Kal sólo sabe luces, bolsa de tela y loft.
 - *Sombras de Poder*: bloqueo general de prosa hasta cerrar el Libro I; H22 con bloqueo propio.
 - Las expansiones de geografía y anclaje espacial no se podan ni cuentan en el wordcount.
+- Registro: español neutro en narración y diálogo; Rafe y Mabel, barrio de California. Glosario: [[12_Craft_Policies/voice/00_Registro_Espanol_Neutro]]. Sesión: [[98_Agent_Handoff/sessions/2026-10-12_claude_espanol_neutro_libro_i]].
 - Ortotipografía: pregunta de tono plano sin signos y con punto ("Qué viste."); nunca "¿" suelto.
 
 ## Relevo y archivo

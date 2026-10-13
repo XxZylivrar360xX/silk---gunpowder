@@ -115,7 +115,7 @@ Chiara esperó a que dijera algo más. Bonnie colgó.
 
 ---
 
-Mei-Lin la esperaba el domingo a las tres en una gasolinera de la autopista del norte, a la altura de los últimos almacenes de Lomas, recargada en un poste con la misma chamarra de nailon que no era de su talla. Se subió al Lancia sin saludar y se puso el cinturón antes de cerrar la puerta.
+Mei-Lin la esperaba el domingo a las tres en una gasolinera de la autopista del norte, a la altura de los últimos almacenes de Lomas, apoyada en un poste con la misma chaqueta de nailon que no era de su talla. Se subió al Lancia sin saludar y se puso el cinturón antes de cerrar la puerta.
 
 —Por el Cutoff no —dijo—. Siga derecho.
 
@@ -215,7 +215,7 @@ Chiara giró apenas la cabeza hacia la puerta. Mei-Lin habló desde ahí, sin de
 
 —Por la carretera del condado. Sale por la puerta de proveedores. A los veinte minutos hay un puente de un carril sobre la vía de la cementera. Ahí todos frenan.
 
-Rafe se volvió a mirarla por primera vez. La miró: la chamarra grande, las manos en los bolsillos, los tenis.
+Rafe se volvió a mirarla por primera vez. La miró: la chaqueta grande, las manos en los bolsillos, los tenis.
 
 —¿Y tú de quién eres?
 
@@ -229,7 +229,7 @@ Rafe se volvió a mirarla por primera vez. La miró: la chamarra grande, las man
 
 —Sé que lleva a un hombre. Lo demás no lo sé.
 
-—Entonces lo demás es mío. —Rafe abrió las manos sobre el mantel—. Lo que vaya en esos camiones, lo que traigan los que manejan, lo que tengan en las guanteras. Todo. Menos su hombre.
+—Entonces lo demás es mío. —Rafe abrió las manos sobre el mantel—. Lo que vaya en esas trocas, lo que traigan los que manejan, lo que tengan en las guanteras. Todo. Menos su hombre.
 
 —Menos él.
 
@@ -251,13 +251,13 @@ Chiara esperó.
 
 —Usted ya sabe mi nombre.
 
-—Yo lo sé. Mabel lo sabe. Media Santa Brígida lo sabe desde que usted estacionó su carrito en el súper de Ignacio, que por cierto cerró a las ocho y usted no es la única que conoce ese estacionamiento. —Rafe sonrió otra vez, pero esta vez sólo con la boca—. Quiero que me lo diga usted. Aquí. Delante de Maribel.
+—Yo lo sé. Mabel lo sabe. Media Santa Brígida lo sabe desde que usted parqueó su carrito en el súper de Ignacio, que por cierto cerró a las ocho y usted no es la única que conoce ese parking. —Rafe sonrió otra vez, pero esta vez sólo con la boca—. Quiero que me lo diga usted. Aquí. Delante de Maribel.
 
 —¿Para qué?
 
 Rafe tardó en contestar. Tomó los lentes de lectura del cordón, los miró, los volvió a soltar sobre la camisa.
 
-—Hace unos meses —dijo— alguien en Calle Corona decidió que yo manejaba un Peugeot rojo. Un coche que yo no he visto en mi vida. Y durante semanas tuve policías tomando café en mi barra, y a la gente de la plaza preguntándose si Rafe ya se había vuelto pendejo a su edad. Luego un día dejaron de venir. Nadie me pidió perdón. Nadie me dijo nada. Se fueron, nomás, porque alguien encontró a otro más fácil que yo. —Juntó las manos sobre el mantel—. Yo nunca supe de quién era ese coche, señora. Cargué con el nombre de otro sin saber de quién. Y me prometí que no lo vuelvo a hacer.
+—Hace unos meses —dijo— alguien en Calle Corona decidió que yo manejaba un Peugeot rojo. Un coche que yo no he visto en mi vida. Y durante semanas tuve a la jura tomando café en mi barra, y a la gente de la plaza preguntándose si Rafe ya se había vuelto pendejo a su edad. Luego un día dejaron de venir. Nadie me pidió perdón. Nadie me dijo nada. Se fueron, nomás, porque alguien encontró a otro más fácil que yo. —Juntó las manos sobre el mantel—. Yo nunca supe de quién era ese coche, señora. Cargué con el nombre de otro sin saber de quién. Y me prometí que no lo vuelvo a hacer.
 
 Chiara se tocó el anular izquierdo. Fue un segundo. Luego bajó la mano al vaso.
 
@@ -285,7 +285,7 @@ Chiara levantó el suyo. Brindaron sin chocarlos. Rafe se tomó el mezcal de un 
 
 —No pensaba ir.
 
-—No me importa lo que pensaba. Usted no va. —Se puso de pie—. Mis muchachos no trabajan con gente mirando. Le aviso cuando termine. Por Mabel, no por teléfono.
+—No me importa lo que pensaba. Usted no va. —Se puso de pie—. Mis muchachos no jalan con gente mirando. Le aviso cuando termine. Por Mabel, no por teléfono.
 
 Le volvió a tender la mano. Chiara se levantó y se la estrechó. Era una mano suave, de hombre que hacía mucho no cargaba nada.
 
@@ -295,7 +295,7 @@ Al salir pasaron otra vez por la barra. Ninguno de los cinco hombres volteó. En
 
 Caminaron las cuatro cuadras sin hablar. En el estacionamiento del supermercado cerrado, junto al Lancia, había un coche que no estaba cuando llegaron: un sedán viejo con dos muchachos adentro, comiendo papas de una bolsa. No las miraron. Cuando Chiara encendió el motor, uno de ellos levantó la mano, como se saluda a un vecino, y el otro siguió comiendo.
 
-Chiara manejó hacia el norte. Mei-Lin iba con la cabeza recargada en la ventanilla.
+Chiara manejó hacia el norte. Mei-Lin iba con la cabeza apoyada en la ventanilla.
 
 —Me puede dejar en la avenida —dijo, cuando entraron a La Almendra—. En la parada.
 

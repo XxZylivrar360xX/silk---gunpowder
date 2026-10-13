@@ -64,7 +64,7 @@ Chiara llevaba tres pulseras finas en la muñeca derecha. Les dio media vuelta.
 
 Lo preguntó por costumbre: en cualquier negocio, lo primero que quería saber era quién lo tenía antes.
 
-—Un corralón del sur. Me devolvían los coches sin estéreo, sin la llanta de refacción. Una vez me devolvieron uno sin motor, con la hoja de custodia en perfecto orden. —Rowe pinchó un pedazo de pastel—. El primero que nos entregó Mercer traía el tanque lleno. Le pregunté por qué. Me dijo que así lo había recibido.
+—Un corralón del sur. Me devolvían los coches sin estéreo, sin la llanta de repuesto. Una vez me devolvieron uno sin motor, con la hoja de custodia en perfecto orden. —Rowe pinchó un pedazo de pastel—. El primero que nos entregó Mercer traía el tanque lleno. Le pregunté por qué. Me dijo que así lo había recibido.
 
 Chiara se rió antes de poder evitarlo. Era exactamente la cara que habría puesto él al decirlo.
 
@@ -292,7 +292,7 @@ La llevó él mismo. Era el único cuarto de la planta que no gritaba de quién 
 
 Chiara se sentó en la cama con la férula sobre las rodillas.
 
-En la grúa lo había dicho como se dice lo más sencillo: que aceptaba. Que podía contar con él, y que no le importaba que se supiera. No le había parecido una frase grande. Pero él la estaba mirando desde la puerta como se mira a alguien que acaba de bajar de la banqueta sin ver la calle, y Chiara no entendió por qué.
+En la grúa lo había dicho como se dice lo más sencillo: que aceptaba. Que podía contar con él, y que no le importaba que se supiera. No le había parecido una frase grande. Pero él la estaba mirando desde la puerta como se mira a alguien que acaba de bajar de la acera sin ver la calle, y Chiara no entendió por qué.
 
 No preguntó. Kal cruzó el cuarto, revisó el pestillo de la ventana, que no hacía falta revisar, y le acercó la silla a la cama, del lado izquierdo, donde la alcanzaba sin la férula. Después bajó a desenganchar el Mercedes.
 

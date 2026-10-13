@@ -105,7 +105,7 @@ Harper miró el cuarto más tiempo que el terreno.
 
 No siempre había pensado así.
 
-Recordó, sin buscarlo, una tarde en el parque cerca de la iglesia de Santa Lucía, meses atrás, cuando todavía estaba aprendiendo a leer a Chiara más de lo que ella dejaba ver. Un muchacho de no más de dieciséis años componía bicicletas ajenas por un par de monedas, sentado en la banqueta con las manos manchadas de grasa y una destreza que no encajaba con la edad. Chiara se había detenido a mirarlo trabajar más tiempo del que necesitaba una propina.
+Recordó, sin buscarlo, una tarde en el parque cerca de la iglesia de Santa Lucía, meses atrás, cuando todavía estaba aprendiendo a leer a Chiara más de lo que ella dejaba ver. Un muchacho de no más de dieciséis años componía bicicletas ajenas por un par de monedas, sentado en la acera con las manos manchadas de grasa y una destreza que no encajaba con la edad. Chiara se había detenido a mirarlo trabajar más tiempo del que necesitaba una propina.
 
 —Ese muchacho no necesita monedas —le había dicho después, caminando—. Necesita que alguien lo mire el tiempo suficiente para darse cuenta de que ya sabe hacer algo de verdad.
 

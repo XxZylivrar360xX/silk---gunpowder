@@ -28,7 +28,7 @@ Kal dejó el Mercedes en un corralón privado a cuatro calles de la Almendra y n
 
 Pasó por La Esquina de Mabel, aunque ya estaba cerrada. La luz de la cocina seguía prendida. Mabel no abrió. Sólo apareció detrás del vidrio, le enseñó una taza y negó con la cabeza. Kal levantó la mano. No quería café. Quería comprobar que el barrio seguía donde lo había dejado.
 
-Cuando llegó al patio, Nadir estaba sentado sobre el cofre de un Civic sin motor.
+Cuando llegó al patio, Nadir estaba sentado sobre el capó de un Civic sin motor.
 
 —¿Casino?
 
@@ -56,7 +56,7 @@ Kal dejó la tabla de trabajo en el escritorio y giró el hombro derecho, despac
 
 —Eso dijiste en la descarga.
 
-Nadir se recargó en el marco de la puerta.
+Nadir se apoyó en el marco de la puerta.
 
 —¿Ella llamó?
 
@@ -440,7 +440,7 @@ Una tarde, un hombre del puerto que no debía estar en la lista abandonó el Mon
 
 —¿Qué le dijo? —preguntó Chiara después, en la salida de carga.
 
-Kal cerró el cofre del coche.
+Kal cerró el capó del coche.
 
 —Que la batería no era el problema.
 
@@ -738,7 +738,7 @@ A la media hora, Fabrizio la llamó.
 
 La siguiente vez que Kal cruzó la caseta de la salida de carga, el guardia no salió a preguntarle nada: miró una pantalla, miró la placa, levantó la pluma. Chiara lo vio desde el muelle. Vio también que Kal se quedaba un segundo con el pie en el freno antes de avanzar.
 
-Bajó cuando él ya tenía el cofre de un coche abierto y se limpiaba las manos con un trapo, mirando la caseta como quien revisa una junta nueva para ver si va a aguantar el invierno.
+Bajó cuando él ya tenía el capó de un coche abierto y se limpiaba las manos con un trapo, mirando la caseta como quien revisa una junta nueva para ver si va a aguantar el invierno.
 
 —Me dejaron pasar sin llamar a nadie.
 
@@ -904,7 +904,7 @@ Kal se sorprendió.
 
 Kal estacionó la camioneta frente a la entrada principal del Monarch a las ocho menos diez, en el carril del valet, y le enseñó al muchacho de chaleco una mano abierta antes de que el muchacho pudiera abrir la boca.
 
-Rocco bajó detrás de él de un salto y se quedó sentado en la banqueta, con el pañuelo rojo torcido.
+Rocco bajó detrás de él de un salto y se quedó sentado en la acera, con el pañuelo rojo torcido.
 
 Kal se puso en cuclillas frente al perro y se lo acomodó.
 
@@ -982,7 +982,7 @@ Un sedán oscuro se detuvo detrás de la camioneta. Rowe besó a Chiara en la me
 
 Lo apretó como quien revisa si una llanta tiene aire, pensó Kal. No supo para qué.
 
-Connors se despidió con un gesto de cabeza y, ya junto al sedán, frotó el zapato contra el borde de la banqueta, como si nadie lo estuviera viendo.
+Connors se despidió con un gesto de cabeza y, ya junto al sedán, frotó el zapato contra el borde de la acera, como si nadie lo estuviera viendo.
 
 El coche se fue. Chiara se quedó mirándolo hasta que dio vuelta en la esquina, y sólo entonces se volvió hacia el perro, y luego hacia él.
 
@@ -1008,7 +1008,7 @@ En realidad, la terraza nunca cerraba del todo. Había una mesa ocupada en el in
 
 En la escalera de la terraza, Chiara se detuvo.
 
-Había una calabaza en cada escalón. Naranjas, talladas con cuchillo de cocina, con una vela adentro y caras hechas con más entusiasmo que talento. En la baranda, telarañas de algodón enredadas en el jazmín. En el descanso, un esqueleto de plástico con delantal blanco y bigote pintado con plumón sostenía una botella de Chianti vacía.
+Había una calabaza en cada escalón. Naranjas, talladas con cuchillo de cocina, con una vela adentro y caras hechas con más entusiasmo que talento. En la baranda, telarañas de algodón enredadas en el jazmín. En el descanso, un esqueleto de plástico con delantal blanco y bigote pintado con marcador sostenía una botella de Chianti vacía.
 
 —¿Un restaurante italiano que celebra Halloween?
 
@@ -1178,7 +1178,7 @@ Chiara no dejó la copa.
 
 —¿Cuándo?
 
-—El jueves. Eso es lo que se me hace raro. Yo le muevo los coches a su casino. Él es dueño del terreno donde vendo los míos. ¿Por qué se reúne su mesa con mi socio a mis espaldas, sin que yo me entere?
+—El jueves. Eso es lo que me extraña. Yo le muevo los coches a su casino. Él es dueño del terreno donde vendo los míos. ¿Por qué se reúne su mesa con mi socio a mis espaldas, sin que yo me entere?
 
 —Sin que yo me entere tampoco.
 
@@ -1186,7 +1186,7 @@ Kal levantó la vista.
 
 —No la invitaron.
 
-—No. —Ahora sí dejó la copa—. A mí también se me hizo extraño. Lo que usted y yo tenemos no pasa por su lote. No hay un papel con el nombre de Hoover en ninguna carpeta mía. No había nada que hablar con él.
+—No. —Ahora sí dejó la copa—. A mí también me extrañó. Lo que usted y yo tenemos no pasa por su lote. No hay un papel con el nombre de Hoover en ninguna carpeta mía. No había nada que hablar con él.
 
 —A menos que alguien quiera que lo haya.
 
@@ -1244,7 +1244,7 @@ No fue incómodo.
 
 Kal no supo qué hacer con eso.
 
-Abajo, en la calle, una moto pasó demasiado rápido. Rocco levantó la cabeza y volvió a dormir. Chiara se recargó en la silla, con la copa entre los dedos, y miró la ciudad como si estuviera decidiendo qué parte de ella podía volverse útil y qué parte podía volverse suya.
+Abajo, en la calle, una moto pasó demasiado rápido. Rocco levantó la cabeza y volvió a dormir. Chiara se recostó en la silla, con la copa entre los dedos, y miró la ciudad como si estuviera decidiendo qué parte de ella podía volverse útil y qué parte podía volverse suya.
 
 —¿Extraña Palermo? —preguntó Kal.
 
@@ -1268,13 +1268,13 @@ Kal dobló la servilleta y no dijo que no.
 
 Enzo trajo la cuenta en una carpeta de cuero, con la servilleta todavía en el antebrazo y la voz todavía prestada. La dejó en medio de la mesa, a la misma distancia de los dos, y no se fue.
 
-—Permítame que se lo mencione —dijo—, pero qué bonita pareja hacen los dos, ¿eh? De verdad. Se los digo con todo respeto.
+—Permítame que se lo mencione —dijo—, pero qué bonita pareja hacen los dos. De verdad. Se los digo con todo respeto.
 
 Ninguno contestó. Los dos lo miraron fijamente, sin parpadear, hasta que Enzo recogió la carpeta con la tarjeta de Kal adentro, inclinó la cabeza y se retiró con la dignidad intacta.
 
 Kal esperó a que bajara la escalera.
 
-—Perdone por eso, ¿eh? Yo no tengo nada que ver.
+—Perdone por eso. Yo no tengo nada que ver.
 
 Chiara sonrió con los ojos cerrados.
 

@@ -144,7 +144,7 @@ Matteo esperó una respuesta que no llegó, y se fue a terreno seguro.
 
 El coche esperaba afuera: negro, limpio, con un chofer que miró a Matteo antes de mirar a Chiara.
 
-En el trayecto, la ciudad no cambiaba de cara de golpe. Se iba corrigiendo. Los anuncios pintados cedían lugar a lonas nuevas; las bardas con alambre a jardineras municipales; los talleres a cafés con nombres en inglés. En cada transición quedaba alguien trabajando para que el cambio pareciera natural.
+En el trayecto, la ciudad no cambiaba de cara de golpe. Se iba corrigiendo. Los anuncios pintados cedían lugar a lonas nuevas; las tapias con alambre a jardineras municipales; los talleres a cafés con nombres en inglés. En cada transición quedaba alguien trabajando para que el cambio pareciera natural.
 
 Chiara no creyó en nada natural.
 
@@ -494,7 +494,7 @@ Chiara soltó la mano de Kal.
 
 Entraron juntos, pero no como grupo. Matteo iba adelante, hablando de la ruta como si las cámaras no estuvieran siguiendo cada paso. Chiara caminó a su lado sin tocarlo. Kal quedó medio paso atrás, lo suficiente para no fingir pertenencia y no bastante para parecer escolta.
 
-En el pasillo, el olor del casino cambió. Menos flores. Más alfombra nueva, electricidad caliente, barniz, café de oficina y hielo derretido en una cubeta de servicio. Kal contó dos puertas con cerradura magnética, una escalera de emergencia a la izquierda, una cámara escondida en el detector de humo y una salida de carga que no aparecía en la ruta amable de Matteo.
+En el pasillo, el olor del casino cambió. Menos flores. Más alfombra nueva, electricidad caliente, barniz, café de oficina y hielo derretido en un balde de servicio. Kal contó dos puertas con cerradura magnética, una escalera de emergencia a la izquierda, una cámara escondida en el detector de humo y una salida de carga que no aparecía en la ruta amable de Matteo.
 
 Chiara lo vio mirar.
 
@@ -760,7 +760,7 @@ La Almendra dormía a medias, que era la única forma en que ese barrio dormía.
 
 Kal metió el coche sin encender las luces del patio.
 
-El despacho olía a papel viejo, metal, café frío y el aceite que se quedaba en la madera aunque uno pintara encima. Era el mismo cuarto de block de la mañana, pero de noche parecía más pequeño. En una esquina, junto al archivero, estaba el catre donde dormía cuando no valía la pena cruzar la ciudad ni inventar una casa que todavía no tenía. Una cobija gris, una almohada plana, una bolsa de ropa limpia debajo. No era hogar. Era una respuesta temporal que llevaba demasiado tiempo contestando.
+El despacho olía a papel viejo, metal, café frío y el aceite que se quedaba en la madera aunque uno pintara encima. Era el mismo cuarto de block de la mañana, pero de noche parecía más pequeño. En una esquina, junto al archivero, estaba el catre donde dormía cuando no valía la pena cruzar la ciudad ni inventar una casa que todavía no tenía. Una manta gris, una almohada plana, una bolsa de ropa limpia debajo. No era hogar. Era una respuesta temporal que llevaba demasiado tiempo contestando.
 
 Dejó las llaves del Peugeot sobre el escritorio.
 
@@ -770,7 +770,7 @@ Se quitó el saco y lo colgó en el respaldo de la silla. Después la camisa, de
 
 En camiseta blanca, con los zapatos junto al catre y los calcetines todavía puestos, se tumbó boca arriba.
 
-El techo tenía una grieta fina que empezaba encima del foco y se perdía hacia la pared de la ventana. Kal la había visto cientos de veces. Esa noche la siguió como si fuera una ruta nueva.
+El techo tenía una grieta fina que empezaba encima de la lámpara y se perdía hacia la pared de la ventana. Kal la había visto cientos de veces. Esa noche la siguió como si fuera una ruta nueva.
 
 Demasiado listo.
 

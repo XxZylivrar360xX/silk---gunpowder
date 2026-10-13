@@ -427,7 +427,7 @@ Kal tardó en contestar.
 
 Chiara volvió a mirar el vestíbulo.
 
-—Me habría gustado no contarlo así. Sé cuándo se cuentan esas cosas, y cómo, y que se cuentan de a poco. Hoy no lo hice. —Lo miró—. Te pido disculpas.
+—Me habría gustado no contarlo así. Sé cuándo se cuentan esas cosas, y cómo, y que se cuentan poco a poco. Hoy no lo hice. —Lo miró—. Te pido disculpas.
 
 —No tienes de qué.
 
@@ -445,9 +445,9 @@ Chiara lo miró un segundo más — el segundo de quien esperaba otra cosa y tod
 
 En el penthouse no encendieron casi luces. La botella de vino de la semana anterior seguía a la mitad y nadie la tocó. Se sentaron en el sofá con la ciudad gris del otro lado del ventanal, sin nada urgente que decirse y sin energía para fingir que sí.
 
-La nube se rompió al rato. No empezó de a poco: cayó de golpe, torrencial, y el agua corrió por el ventanal hasta borrar la ciudad.
+La nube se rompió al rato. No empezó poco a poco: cayó de golpe, torrencial, y el agua corrió por el ventanal hasta borrar la ciudad.
 
-Chiara se recargó en su hombro.
+Chiara se apoyó en su hombro.
 
 No era mucho. Contado en centímetros, era casi nada. Pero era la primera vez que uno de los dos cruzaba a propósito la distancia que llevaban meses cuidando, la que había sobrevivido a la noche de la hierba, al choque de puños y a las habitaciones separadas.
 

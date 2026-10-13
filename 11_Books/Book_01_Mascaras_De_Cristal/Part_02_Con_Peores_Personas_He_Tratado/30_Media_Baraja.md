@@ -532,7 +532,7 @@ Danny lo pensó exactamente dos segundos.
 
 —Yo traigo la comida —dijo Héctor, ya levantándose de la silla con más energía de la que había mostrado en toda la reunión—. Porque si la traes tú, comemos aire.
 
-—Yo llevo hielo y algo de tomar —dijo Walt—. Y me llevo mi propia hielera, porque la última vez alguien —miró a Danny— se tomó las que traía marcadas con mi nombre.
+—Yo llevo hielo y algo de tomar —dijo Walt—. Y me llevo mi propia nevera, porque la última vez alguien —miró a Danny— se tomó las que traía marcadas con mi nombre.
 
 —Eso no se probó nunca.
 

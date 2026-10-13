@@ -142,7 +142,7 @@ A media mañana entró el de la ferretería de la esquina, con la gorra en la ma
 
 Kal le preguntó qué día pasaban a cobrar y lo anotó. Debajo de otra fecha que no había tachado.
 
-En la bahía del fondo, la que Danny todavía no había llegado a tocar, había un sedán gris que la grúa había traído al amanecer y una chica con medio cuerpo bajo el cofre.
+En la bahía del fondo, la que Danny todavía no había llegado a tocar, había un sedán gris que la grúa había traído al amanecer y una chica con medio cuerpo bajo el capó.
 
 Bonnie. Había llegado hacía poco con Mei-Lin, las dos de una banda del norte que ya no existía; Kal no había preguntado más y ninguna de las dos había ofrecido más. Desde entonces aparecían temprano, hacían lo que había, y se iban sin que hiciera falta decirles a qué hora.
 
@@ -154,7 +154,7 @@ Kal miró. Tardó lo que tardaba en confirmar lo que ya sabía que iba a encontr
 
 —¿Quién te lo dio?
 
-—Nadie. Estaba ahí. —Cerró el cofre con la mano plana, sin golpe—. ¿Lo muevo?
+—Nadie. Estaba ahí. —Cerró el capó con la mano plana, sin golpe—. ¿Lo muevo?
 
 Lo movió. Una sola maniobra, sin mirar el espejo más de una vez, y lo dejó en la bahía de Danny. Kal lo registró y no dijo nada.
 
@@ -214,7 +214,7 @@ No dijo nada más. Kal esperó un rato, por si acaso, y se levantó cuando enten
 
 ---
 
-A la una, La Esquina tenía la cortina a medio bajar y un cartel escrito a mano en la puerta: CERRADO — THANKSGIVING. PLATOS DE 12 A 3. Adentro no cabía nadie más. Mabel servía desde la barra, con el cucharón en una mano y la otra señalando a quién le tocaba, y la fila salía hasta la banqueta: viejos solos, una familia de la cuadra de Esparza, dos muchachos del taller que no tenían a dónde ir.
+A la una, La Esquina tenía la cortina a medio bajar y un cartel escrito a mano en la puerta: CERRADO — THANKSGIVING. PLATOS DE 12 A 3. Adentro no cabía nadie más. Mabel servía desde la barra, con el cucharón en una mano y la otra señalando a quién le tocaba, y la fila salía hasta la acera: viejos solos, una familia de la cuadra de Esparza, dos muchachos del taller que no tenían a dónde ir.
 
 Kal no hizo fila. Mabel lo vio por encima de las cabezas y no le cobró nada, ni el plato ni lo otro: los pavos habían llegado el martes, pagados, y ninguno de los dos lo iba a mencionar.
 

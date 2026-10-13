@@ -8,7 +8,7 @@ Lugares: [[05_Locations/Destileria_de_Walt|la destilería de Walt]] (apertura, e
 Función: CANON DEL AUTOR. Ejecuta [[06_Relationships/Hitos#H21 — Mi pareja|H21]] completo. Cierra la Parte II — el Cap. 35 (Sin fecha de regreso) abre la Parte III — Ardizzone; H16 cae en el Cap. 36.
 
 - REGLA ESTRUCTURAL: diálogo canon de H21 citado textualmente (Hitos.md + `98_Agent_Handoff/archive/chatgpt/HITO_Mi_Pareja_Formalizacion_Kal_Chiara.md`); sólo se ajustó puntuación al maquetar. La explicación emocional de Kal queda en "Yo no hago esto. No así." / "¿Y ahora?" / "Ahora sé todo lo que puede salir mal." (recorte del autor, 2026-09-20).
-- AMPLIACIÓN 2026-10-04 (material del autor, transcripción de otra escena reconducida a la destilería; decisiones del autor del mismo día): (1) opción A — la broma de la viuda rica se queda como chiste negro de Kal, pero "matrimonio" no se vuelve tema (H21 prohíbe introducir matrimonio/boda/promesa); el malentendido es la pausa de Kal tras ponerla a ella en la misma frase que la viuda. (2) Jordi = Danny: llamada fallida antes de la canon (la cera del taller, "¿y a mí qué me importa?", "michi sin correa es de quien lo vea"). (3) Dante = Dario: sólo "me agarra en un momento muy tranquilo" y cuelga. (4) Fuera: el disfraz "de gorda cuarentona", veterinarios, puñalada, señora del chándal y demás ruido de la escena original; también el aparte de Chiara (rompía el POV). (5) El arco construye hacia las llamadas a Nadir y a Marisol; la de Marisol cierra el "pon el ejemplo" de la apertura. Adaptación de registro (de España al del vault) y de detalles: la "piscina vacía" pasa a "alberca vacía"; "la fuente" pasa a la destilería; la "inversión grande" pasa a otra grúa (DISEÑO).
+- AMPLIACIÓN 2026-10-04 (material del autor, transcripción de otra escena reconducida a la destilería; decisiones del autor del mismo día): (1) opción A — la broma de la viuda rica se queda como chiste negro de Kal, pero "matrimonio" no se vuelve tema (H21 prohíbe introducir matrimonio/boda/promesa); el malentendido es la pausa de Kal tras ponerla a ella en la misma frase que la viuda. (2) Jordi = Danny: llamada fallida antes de la canon (la cera del taller, "¿y a mí qué me importa?", "michi sin correa es de quien lo vea"). (3) Dante = Dario: sólo "me agarra en un momento muy tranquilo" y cuelga. (4) Fuera: el disfraz "de gorda cuarentona", veterinarios, puñalada, señora del chándal y demás ruido de la escena original; también el aparte de Chiara (rompía el POV). (5) El arco construye hacia las llamadas a Nadir y a Marisol; la de Marisol cierra el "pon el ejemplo" de la apertura. Adaptación de registro (de España al del vault) y de detalles: la "piscina vacía" pasa a "alberca vacía" (revertido a "piscina" el 2026-10-12 por orden del autor: español neutro; "me vale" → "me da igual"); "la fuente" pasa a la destilería; la "inversión grande" pasa a otra grúa (DISEÑO).
 - DISEÑO del agente: la viuda como clienta del Monarch que quiere una barrica con el nombre del difunto; la grúa; el gato hidráulico de Danny; "Le colgaste a Varek" como prueba que Chiara usa en la alberca; la respuesta de Marisol (el jueves, cine, Kenji, "no es nada"); el remate "Cubro su turno" (eco del Cap. 33).
 - APERTURA POR RESIDUO del Cap. 33: Kal hizo un seguimiento del episodio Marisol/Kenji semanas después; Marisol le devuelve la jugada: "me lo iba a contar el día que yo pusiera el ejemplo" (DISEÑO 2026-09-20). Esa línea se paga al final con la llamada de Chiara a Marisol.
 - Kenji permanece fuera de página. Marisol sólo por teléfono, oída de cerca por Kal sin altavoz.
@@ -37,7 +37,7 @@ Walt se acercó una etiqueta a los ojos, la alejó, la volvió a acercar.
 
 —El año lo pagas tú.
 
-Walt no discutió. Walt nunca discutía una cuenta bien hecha. Levantó la vista hacia la puerta, donde Kal llevaba un minuto recargado sin anunciarse, y lo miró como miraba todo lo que cambiaba en un cuarto: primero a él, después las llaves que traía en la mano.
+Walt no discutió. Walt nunca discutía una cuenta bien hecha. Levantó la vista hacia la puerta, donde Kal llevaba un minuto apoyado sin anunciarse, y lo miró como miraba todo lo que cambiaba en un cuarto: primero a él, después las llaves que traía en la mano.
 
 —Llegó tu chofer.
 
@@ -65,7 +65,7 @@ Walt asintió hacia Kal, una sola vez, con la misma cara con que perdía y ganab
 
 ---
 
-El camino de grava que corría junto al ramal no tenía nombre propio en ningún mapa que Kal hubiera visto, pero lo conocía de memoria: el bache doble frente al cambio de vías, la barda de láminas oxidadas donde alguien llevaba años prometiendo pintar un mural, el silbato lejano de una maniobra que nunca se sabía si venía o se iba. Conducía despacio, con la ventana baja y el codo afuera, dejando que el aire de la tarde —caliente todavía, con ese fondo a diésel y el grano fermentado que traían pegado de la destilería— le entrara por la manga.
+El camino de grava que corría junto al ramal no tenía nombre propio en ningún mapa que Kal hubiera visto, pero lo conocía de memoria: el bache doble frente al cambio de vías, la cerca de láminas oxidadas donde alguien llevaba años prometiendo pintar un mural, el silbato lejano de una maniobra que nunca se sabía si venía o se iba. Conducía despacio, con la ventana baja y el codo afuera, dejando que el aire de la tarde —caliente todavía, con ese fondo a diésel y el grano fermentado que traían pegado de la destilería— le entrara por la manga.
 
 Chiara iba con el asiento reclinado un grado, los zapatos en el piso del copiloto y los pies descalzos doblados debajo de ella en el asiento, algo que jamás haría en el Lancia y que en el Audi le tenía sin cuidado. Todavía traía ese resto de energía de alguien que acababa de ganar una pelea pequeña y aburrida.
 
@@ -179,7 +179,7 @@ El teléfono vibró en el compartimento entre los asientos. Kal lo vio antes que
 
 —Señor Mercer.
 
-—Señor Varek. Me agarra en un momento muy tranquilo. Ahorita le regreso la llamada.
+—Señor Varek. Me encuentra en un momento muy tranquilo. Enseguida le devuelvo la llamada.
 
 Colgó.
 
@@ -381,7 +381,7 @@ Chiara se tocó el arete izquierdo, que no se había movido.
 
 Kal tardó. Puso las dos manos en el volante, a las diez y diez, como en un examen de manejo.
 
-—Yo nunca he tenido que ponerle nombre a algo así —dijo—. Ni voz, ni forma, ni nada. Y no sé qué quieres tú. No me quiero tirar a una alberca vacía.
+—Yo nunca he tenido que ponerle nombre a algo así —dijo—. Ni voz, ni forma, ni nada. Y no sé qué quieres tú. No me quiero tirar a una piscina vacía.
 
 —¿Qué te da miedo?
 
@@ -397,11 +397,11 @@ Chiara parpadeó.
 
 —Por eso quería ver por dónde ibas tú. Para no ser yo el único.
 
-—Kal. —Chiara señaló el teléfono sobre su rodilla—. Le colgaste a Varek para seguir esta conversación. Estoy en tu coche, en un camino que no sale en ningún mapa, y dejé a Walt solo con cuarenta etiquetas malas para irme contigo. ¿Y todavía quieres saber si la alberca tiene agua?
+—Kal. —Chiara señaló el teléfono sobre su rodilla—. Le colgaste a Varek para seguir esta conversación. Estoy en tu coche, en un camino que no sale en ningún mapa, y dejé a Walt solo con cuarenta etiquetas malas para irme contigo. ¿Y todavía quieres saber si la piscina tiene agua?
 
 Kal miró el teléfono. Después a ella.
 
-—Mira —dijo—. Yo no le tengo miedo a nada. A nada que tenga que ver contigo. Si la alberca está vacía, me vale. Voy a una nube, le meto un puñetazo y que llueva.
+—Mira —dijo—. Yo no le tengo miedo a nada. A nada que tenga que ver contigo. Si la piscina está vacía, me da igual. Voy a una nube, le meto un puñetazo y que llueva.
 
 —Adelante. Salta.
 

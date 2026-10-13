@@ -186,7 +186,7 @@ Chiara levantó la vista despacio.
 
 —Estaba en mi casa.
 
-Kal se recargó en el borde del escritorio, demasiado cómodo para una pregunta tan descarada.
+Kal se apoyó en el borde del escritorio, demasiado cómodo para una pregunta tan descarada.
 
 —¿Y a mí me lo enseñaría?
 
@@ -298,7 +298,7 @@ Chiara le devolvió el cigarro sin contestar, y al dárselo le rozó los dedos m
 
 Y así quedó: el usted se cayó de la conversación sin ceremonia, como se cae un abrigo que ya nadie necesitaba tener puesto.
 
-La noche empezó a perder bordes. No de golpe, de a poco. Una hora dejó de parecer una hora. Las frases se volvieron más lentas, los silencios menos vigilados. La luz de la sala, que alguien había programado para bajar sola, bajó sola, y ninguno de los dos se levantó a subirla.
+La noche empezó a perder bordes. No de golpe, poco a poco. Una hora dejó de parecer una hora. Las frases se volvieron más lentas, los silencios menos vigilados. La luz de la sala, que alguien había programado para bajar sola, bajó sola, y ninguno de los dos se levantó a subirla.
 
 Y a Chiara se le empezó a colar el italiano entre las palabras. Le pasaba cuando estaba cómoda y cuando estaba furiosa, y esa noche no estaba furiosa.
 
@@ -532,7 +532,7 @@ Le sonó el teléfono en el bolsillo. Miró la pantalla, dudó y contestó de ma
 
 Lo que venía del otro lado traía risa mal tapada y preguntas en fila: que cómo estaba, que por qué no había llegado a la casa, que con quién andaba. Un silencio corto. Después, más fuerte: *¿estás con Chiara?* Y enseguida, con la mano puesta sobre el micrófono como si eso sirviera de algo, la voz de Danny informándole a Nadir a media sala: *naaa, ya lo perdimos.*
 
-—Pónganse a hacer el inventario del taller —dijo Kal—. Garrett necesita la lista de refacciones para abastecer antes del fin de semana.
+—Pónganse a hacer el inventario del taller —dijo Kal—. Garrett necesita la lista de repuestos para abastecer antes del fin de semana.
 
 Del otro lado alguien se rió. Kal colgó.
 

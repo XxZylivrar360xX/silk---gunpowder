@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-12: [[98_Agent_Handoff/sessions/2026-10-12_claude_espanol_neutro_libro_i]] · [[12_Craft_Policies/voice/00_Registro_Espanol_Neutro]]
 - 2026-10-11: [[98_Agent_Handoff/sessions/2026-10-11_codex_para_claude_timeline_libro_i]]
 - 2026-10-11: [[98_Agent_Handoff/sessions/2026-10-11_codex_migracion_08_scenes_a_incubacion]]
 - 2026-10-10: [[98_Agent_Handoff/sessions/2026-10-10_codex_mantenimiento_vault]]

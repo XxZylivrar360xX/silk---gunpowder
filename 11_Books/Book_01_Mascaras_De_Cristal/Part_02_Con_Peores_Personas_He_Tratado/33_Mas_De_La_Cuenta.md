@@ -233,7 +233,7 @@ Volvió al loft ya de noche, con el cansancio ordinario de un día ordinario enc
 
 Antes de la salsa sacó la cajetilla del bolso y fue a la ventana de la cocina. La abrió una cuarta, hacia el callejón, y encendió el primero de la noche con el encendedor de aluminio.
 
-Kal estaba recargado en la isla, con una cerveza a medias. La vio dar la primera fumada.
+Kal estaba apoyado en la isla, con una cerveza a medias. La vio dar la primera fumada.
 
 —Sí sabes que eso es malo, ¿no?
 
