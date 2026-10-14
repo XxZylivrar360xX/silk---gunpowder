@@ -128,6 +128,8 @@ También sirve para mostrar el límite moral de Chiara. Si Chiara usa a Mabel co
 
 > **RESUELTO (2026-09-29):** edad — Mabel baja a 59, Walt fijado en 60; ella es un año menor.
 
+> **UBICACIÓN ACTUALIZADA (CANON DEL AUTOR, 2026-10-13):** con las cuatro Partes, la planeación de la boda cierra la Parte III (tras F2) y la boda abre la Parte IV. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]. La «Parte II» de abajo es la numeración anterior.
+>
 > **CANON DEL AUTOR (2026-09-29):** Mabel y Walt se casan en *Sombras de Poder*, Parte II, después de Villa Candelaria y antes de Stavanger, en la terraza del Monarch; Chiara organiza la boda. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder#La boda de Mabel y Walt — la terraza del Monarch]].
 
 > **CANON DEL AUTOR (2026-09-29) — línea de Mabel a Chiara, no reescribir:** *"Cuando pasas una vida entera, buscando el amor que toque a tu puerta casi siempre te marchitas en la espera, pero cuando el amor es el que llega, lo reconoces como tuyo, lo vives como propio, y entiendes que debes cuidarlo y protegerlo cuando su sola compañía te arranca del pecho una sola frase..."* Se la dice después del destierro de Bonnie (F2), cuando Chiara cae en depresión, y le encarga planear la boda para sacarla de ahí. Chiara la completa con "Te amo." en la boda.

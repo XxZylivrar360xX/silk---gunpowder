@@ -42,7 +42,7 @@ Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni
 | 20 | **H19 — El asalto a Camp Alder** *(Kal no entra a ver a Chiara para poder cumplir la misión; cubre a los suyos y se queda; detención municipal y luego reclamación federal — Cap. 43)* |
 | 21 | **H20 — Consecuencia: Halbrook / prisión militar / Lucia** *(arco final sin Kal, Caps. 44–50b: Chiara agota todos sus recursos; Lucia registra que lo suyo excede los negocios; convoy señuelo; el apagón de Halbrook saca a Kal; "Ciao, bella" en el 50; Halbrook llega a San Aurelio en el 50b)* |
 
-> **SUPERSEDIDO (CANON DEL AUTOR, 2026-10-12):** el autor reabrió las posiciones del Libro II. *Sombras de Poder* tiene cuatro Partes: **I Territorio ajeno** (Hogar, robo de joyería, Tyler pierde el cargamento de Crowe, **incendio del loft**, Calle Almendra, **Villa Candelaria**, gala de Halbrook), **II Nieve y ceniza** (Navidad/collar, ataque de pánico, **Año Nuevo/F4**), **III Exilio** (F2: Mei-Lin y Bonnie; salida de Tommaso) y **IV Torna a casa** (independencia de Dario, tormenta, **Stavanger**, H1, reveal). Manda [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]], con los puntos por confirmar que lista (Villa, piano/F4, incursión de cocaína, la mentira de H8). El orden de abajo es historial.
+> **SUPERSEDIDO (CANON DEL AUTOR, 2026-10-12):** el autor reabrió las posiciones del Libro II. *Sombras de Poder* tiene cuatro Partes: **I Territorio ajeno** (Hogar, Tyler pierde el cargamento de Crowe, **incendio del loft**, Calle Almendra, **Villa Candelaria**, gala de Halbrook), **II Nieve y ceniza** (Navidad/collar, ataque de pánico, **Año Nuevo/F4**, incursión y vela, robo de joyería; el robo se movió aquí el 2026-10-13), **III Exilio** (F2: Mei-Lin y Bonnie; salida de Tommaso) y **IV Torna a casa** (independencia de Dario, tormenta, **Stavanger**, H1, reveal). Manda [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]], Esos puntos quedaron confirmados el 2026-10-13: la Villa en la Parte I, el piano como regalo de Chiara, la incursión y la vela tras F4, la mentira de H8 ligada al incendio y un solo robo de joyería. El orden de abajo es historial.
 
 **Orden ~~vigente~~ anterior — CANON DEL AUTOR 2026-09-20, libros reasignados 2026-09-22:** incendio de H8 cierra Sombras de Poder/I → F4 abre Sombras de Poder/II → F3 → F2 (Mei-Lin y Bonnie el mismo día) → componente Villa de H8 → Stavanger/anillo → Sombras de Poder/III / embarazo / H1. **SUPERSEDIDO:** bloque indivisible F4 → F3 → H8 y su posición pendiente respecto a Camp Alder/H21. Los IDs se conservan.
 
@@ -59,9 +59,9 @@ Las posiciones internas quedaron fijadas el 2026-09-20; no reabrirlas. Mantener 
 | Posición | Hito |
 |---|---|
 | Final de Sombras de Poder/I; reconstrucción en II después de F2 | **H8** — incendio, mentira vinculada y Villa separados por componentes; no bloque continuo. |
-| Sombras de Poder, Parte I | Primera Navidad y collar **RETORNA A CASA**; primera vela después de F4 (II); clases de italiano sin colocación fina. |
-| Sombras de Poder, Parte II, después de F2 / Bonnie y Villa | **Stavanger / propuesta**: ubicación canon; [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]] **canonizado 2026-10-02** (origen de Kal, Henrik, propuesta, concepción de Elenna), prosa BORRADOR, sin ID nuevo. Anillo: robo de joyería con Héctor, Danny y Nadir (CANON DEL AUTOR 2026-10-02). Dependencia antigua de caída previa de Silas pendiente de reconciliación. |
-| Sombras de Poder, Parte II, después de Villa, antes de Stavanger | **Boda de Mabel y Walt** en la terraza del Monarch, organizada por Chiara *(CANON DEL AUTOR 2026-09-29, sin ID)*: Chiara completa en susurro una frase de Mabel con "Te amo." y desecha la idea de casarse con Kal; él ya trae el anillo en la billetera. Detalle en [[01_Timeline/03_Libro_02_Sombras_De_Poder#La boda de Mabel y Walt — la terraza del Monarch]]. |
+| Sombras de Poder, Parte I | Primera Navidad y collar **TORNA A CASA**; primera vela después de F4 (II); clases de italiano sin colocación fina. |
+| Sombras de Poder, Parte II, después de F2 / Bonnie y Villa | **Stavanger / propuesta**: ubicación canon; [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]] **canonizado 2026-10-02** (origen de Kal, Henrik, propuesta, concepción de Elenna), prosa BORRADOR, sin ID nuevo. Anillo: robo de joyería con Héctor, Danny y Nadir (CANON DEL AUTOR 2026-10-02). ~~Dependencia antigua de caída previa de Silas pendiente de reconciliación.~~ **Resuelto (CANON DEL AUTOR, 2026-10-14):** el detonante son las cartas de Dale desde la cárcel, entregadas por Manfred Gabe; Kal las devuelve a la tumba antes del viaje. Crowe sale del detonante: [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]]. |
+| Sombras de Poder, apertura de la Parte IV (planeación al cierre de la III, tras F2; CANON 2026-10-13), antes de Stavanger | **Boda de Mabel y Walt** en la terraza del Monarch, organizada por Chiara *(CANON DEL AUTOR 2026-09-29, sin ID)*: Chiara completa en susurro una frase de Mabel con "Te amo.", **Kal no lo oye** (CANON DEL AUTOR 2026-10-14; espejo de F3, donde ella no oye el suyo), y desecha la idea de casarse con Kal; él ya trae el anillo en la billetera. Detalle en [[01_Timeline/03_Libro_02_Sombras_De_Poder#La boda de Mabel y Walt — la terraza del Monarch]]. |
 | Sombras de Poder, Parte II, antes de Villa y Stavanger; antes de H1 | **F2** — ejecución de Mei-Lin por Nadir y destierro de Bonnie **el mismo día**; conflicto de Bonnie pendiente. |
 | Sombras de Poder, Parte III, después de F2, Villa y propuesta | **H1** — clímax del Libro II; Chiara sabe del embarazo, Kal aún no. Reveal posterior a recuperación mínima. |
 | **Libro II — Sombras de Poder**, después de H1, cierra el libro | **Reveal del embarazo a Kal** *(momento obligatorio por diseñar, sin ID; sólo después de que esté fuera de peligro y regrese cierta normalidad doméstica)* |
@@ -1807,7 +1807,7 @@ De vuelta a la ciudad, Kal le dice:
 Todo el pico emocional del libro está construido sobre una sola palabra, repetida tres veces por dos personas ([[#H1 — El regreso a casa]]). **Y ésta es la primera vez que se dice.**
 
 | **H7** | *Vamos a **casa**.* | Kal, volviendo del río |
-| *(la primera Navidad)* | **RETORNA A CASA** | grabado en la placa del collar |
+| *(la primera Navidad)* | **TORNA A CASA** | grabado en la placa del collar |
 | **H1** | *Solo quiero llegar a **casa**, porque me esperan.* | Kal, desangrándose |
 | **H1** | *Volevo solo tornare a **casa** per mantenere la mia promessa.* | Kal, en el idioma de ella |
 
@@ -2005,7 +2005,11 @@ En el Libro II, esa certeza es lo que hace primero hermética a Villa Candelaria
 
 # H1 — El regreso a casa
 
-> **CANON DEL AUTOR (2026-08-22; posición y subtexto ampliados 2026-08-31; libro reasignado 2026-09-22).** Pico emocional de la novela. **Ocurre durante la Parte III — Torna a Casa del Libro II — Sombras de Poder** (antes: "Parte VI del Libro I"), después de que Villa Candelaria exista y antes de la Guerra de los Tres.
+> **CANON DEL AUTOR (2026-10-13): la operación es la caída de Crowe en la tormenta**, final de *Sombras de Poder*, y abre la Guerra de los Tres. Halbrook filtra indirectamente a Dario dónde estará Crowe; Dario manda a **Volpi** a ejecutar a Kal, y **el tiro en el costado es de Volpi** (velado). La adrenalina saca a Kal caminando; en la Villa se le acaba y **delira, demasiado romántico** (ubicado el 2026-10-13: en la vigilia, cuando empieza a dormirse, no en la piscina; ver el movimiento 6). Chiara viene del triaje de la tormenta. **Afinado (CANON DEL AUTOR, 2026-10-13):** se va del triaje al oír por radio abierta «Todos están fuera, vamos a casa», que sólo ella entiende; Camila queda libre para después. Chiara llega primero a la Villa y encuentra todas las velas apagadas por una ventana abierta. Kal no sospecha en este libro que el tiro no fue del tiroteo. Plan: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] («El final»).
+
+> **CANON DEL AUTOR (2026-10-14): nada de la filtración en página.** En el Libro II el lector no ve que Halbrook filtra la ubicación de Crowe ni que Dario manda a Volpi. Si algo asoma, se lee como un dato de la red de Dario. Los hechos siguen siendo canon fuera de página y se cobran cuando llegue la revelación.
+
+> **CANON DEL AUTOR (2026-08-22; posición y subtexto ampliados 2026-08-31; libro reasignado 2026-09-22).** Pico emocional de la novela. **Ocurre durante la Parte IV — Torna a casa del Libro II — Sombras de Poder** (cuatro Partes desde el 2026-10-12; antes: «Parte III», y antes «Parte VI del Libro I»), después de que Villa Candelaria exista y antes de la Guerra de los Tres.
 
 **No es una escena: es una secuencia de siete movimientos.** La frase del baño es el sexto. Documentarla sola la vacía, porque todo lo que la hace funcionar se construye en los cinco anteriores.
 
@@ -2017,7 +2021,7 @@ En el Libro II, esa certeza es lo que hace primero hermética a Villa Candelaria
 
 Horas antes de partir a la operación, Chiara le pone **una mano en el pecho** y le dice:
 
-> **— Retorna a casa.**
+> **— Torna a casa.**
 
 No le pide que tenga cuidado. No le pregunta a dónde va. Le da una sola instrucción, y es la única que a él le va a importar.
 
@@ -2045,7 +2049,17 @@ Llega a casa y **se mete a la piscina para lavarse la sangre**. Ella lo encuentr
 
 Iba a limpiarse y entrar como si nada. **Desangrándose, sigue administrando la habitación** — es su enfermedad entera en una sola imagen, y ella lo caza justo haciéndolo.
 
-**Y trae el collar puesto.** Una placa de oro sobre el pecho, en el agua, que dice *retorna a casa*. Obedeciéndola. **Nadie tiene que señalarlo** — ni ella, ni el narrador. Está ahí y ya.
+**Y trae el collar puesto.** Una placa de oro sobre el pecho, en el agua, que dice *torna a casa*. Obedeciéndola. **Nadie tiene que señalarlo** — ni ella, ni el narrador. Está ahí y ya.
+
+> **CANON DEL AUTOR (2026-10-13):** es de noche y Chiara ve que **el agua está muy oscura**: sabe que algo está mal. Kal tiene una herida sangrante. Él le dice:
+>
+> **— Me encuentro bien.**
+>
+> Y ella:
+>
+> **— No otra vez.**
+>
+> *(Líneas canon; corregido el mismo día: «No, eso de nuevo» era una lectura equivocada del agente.)* Es el eco del mensaje del Libro I, *«Salí de la ciudad por una situación externa. Me encuentro bien. Te veo al volver.»* ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/26_Me_Encuentro_Bien|Cap. 26]]; en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/28_La_Correa|Cap. 28]] Chiara lo lee como el mensaje de alguien que tiene el teléfono de otro). Ella ya sabe lo que vale ese «me encuentro bien». Nadie lo explica.
 
 ### 5. La médica
 
@@ -2060,6 +2074,30 @@ Chiara mantiene los nervios de acero por fuera y por dentro está desesperada. L
 **Y se le quiebra la voz**, porque él empieza a quedarse dormido.
 
 > Ubicación exacta de la grieta: no es genérica. La voz se le rompe **en el momento en que él se está durmiendo**, no antes. Hasta ese segundo es de acero.
+
+> **CANON DEL AUTOR (2026-10-13):** Chiara trata de mantener la calma y lo hace contar cómo estuvo todo:
+>
+> **— Cuéntamelo de principio a fin.**
+>
+> **— Estuviste en radio.**
+>
+> **— Lo estuve, pero quiero escucharte.**
+>
+> Sólo quiere mantenerlo hablando y consciente. Cuando él empieza a dormirse, usa frases para que siga contando, mientras **insiste con Camila para que venga urgentemente**.
+
+> **El delirio (CANON DEL AUTOR, 2026-10-13):** va aquí, en la vigilia, cuando él empieza a dormirse; no en la piscina. Con pausas entre cada línea:
+>
+> **— Tus ojos brillan.**
+>
+> **— Me gusta cuando brillan.**
+>
+> **— Deberías sonreír más, bella, cuando lo haces yo...** *(no termina la frase)*
+>
+> **— No te preocupes tanto por todo.**
+>
+> La última es eco directo de Corrado en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Un_Hombre_De_Negocios_Intachable/02_Demasiado_Listo|Cap. 2]] del Libro I («Porque prefiero arreglarlo personalmente. No te preocupes tanto por todo.»), justo antes de la redada que se lo llevó sin despedida. **A Chiara le hiela la sangre.**
+>
+> **La grieta cae aquí (CANON DEL AUTOR, 2026-10-13; aprobó la propuesta del agente):** la voz de Chiara se le rompe en el eco de Corrado. Es el momento exacto de la regla de arriba: él se está durmiendo, y lo último que dice es lo que dijo el hombre que no volvió. Hasta esa línea, ella es de acero.
 
 ### 7. El baño — la pregunta y la respuesta
 
@@ -2083,13 +2121,20 @@ Con el italiano machucado: para este momento ya está familiarizado con el idiom
 
 ## El embarazo que Kal todavía no conoce — CANON DEL AUTOR (2026-08-31)
 
-Antes de que Kal salga, **Chiara ya confirmó que está embarazada**. Lleva muy poco tiempo sabiéndolo y planea contárselo cuando él regrese.
+Antes de que Kal salga, **Chiara ya confirmó que está embarazada** y planea contárselo cuando él regrese.
 
-No se lo dice antes de la operación porque no quiere alterar su cabeza justo antes de una situación peligrosa, convertir la noticia en algo recibido mirando un reloj o entregarles ese momento a las armas y la prisa. No es manipulación ni secreto prolongado: está esperando unas horas para compartirlo en casa.
+> **CORREGIDO (CANON DEL AUTOR, 2026-10-14; sustituye la versión de «unas seis semanas» aplicada ese mismo día):**
+> - **Calendario:** concepción en Stavanger a fines de octubre A4 (~25). Los síntomas empiezan unas cuatro semanas después, contadas desde la concepción. Chiara se hace **tres pruebas de embarazo y un examen médico** hacia el 22 de noviembre, víspera de su cumpleaños. **Lo oculta unas dos semanas** y H1 cae hacia el 6–8 de diciembre, antes de Navidad.
+> - **Fuera de página:** las pruebas y el examen. El médico es de fuera del círculo, no [[02_Characters/Camila_Rivas|Camila]]: nadie del círculo lo sabe antes que Kal y Camila llega a la vigilia sin saberlo. En página sólo queda el eco: Chiara lee un documento serio y lo destruye de inmediato (puede parecer trabajo), y después viene el tic, con un cambio minúsculo en el rostro.
+> - **Por qué calla (los dos motivos):** la circunstancia es todo lo que pasa alrededor (la operación contra Crowe en marcha) y la hace esperar. La razón de la última noche es que no quiere que el bebé sea una razón para que él vuelva: quiere que vuelva por ella, como siempre. En relectura, «Perché ti amo con tutto il mio cuore» carga lo que se calló.
+>
+> Ver [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]].
+>
+> *Supersedido:* «Lleva muy poco tiempo sabiéndolo» y el motivo de abajo (no alterar su cabeza antes de la operación; «esperando unas horas»). Se conserva como historial: ~~No se lo dice antes de la operación porque no quiere alterar su cabeza justo antes de una situación peligrosa, convertir la noticia en algo recibido mirando un reloj o entregarles ese momento a las armas y la prisa. No es manipulación ni secreto prolongado: está esperando unas horas para compartirlo en casa.~~
 
 Cuando dice:
 
-> **— Retorna a casa.**
+> **— Torna a casa.**
 
 Kal cree que habla de los dos. Chiara sabe que habla de **los tres**. No agregar una línea sobre “nuestro hijo” ni explicar la asimetría en la prosa futura.
 
@@ -2101,7 +2146,7 @@ todavía no sabe que Elenna existe. Su primera participación dramática consist
 
 Durante la vigilia, Chiara intenta impedir que Kal muera mientras guarda una información que él desconoce. La presión interna de diseño es *no puedes morirte ahora; ni siquiera sabes*, pero esa formulación **no es diálogo ni pensamiento canon**. Sirve para sostener sus nervios de acero y la grieta de la voz cuando él empieza a dormirse.
 
-El embarazo no reemplaza el motivo amoroso de la escena. Ante *“¿Por qué siempre te preocupas tanto?”*, Chiara podría revelar la noticia y no lo hace. Contesta *“Perché ti amo con tutto il mio cuore”* porque se preocupa por Kal por ser Kal, no sólo porque sea el padre de su hija.
+El embarazo no reemplaza el motivo amoroso de la escena. Ante *“¿Por qué siempre te preocupas tanto?”*, Chiara podría revelar la noticia y no lo hace. Contesta *“Perché ti amo con tutto il mio cuore”* porque se preocupa por Kal por ser Kal, no sólo porque sea el padre de su hija. (Coherente con el motivo corregido arriba: quiere que vuelva por ella.)
 
 ### Después de H1 — reveal a Kal, momento obligatorio por diseñar
 
@@ -2111,7 +2156,7 @@ El reveal ocurre sólo después de que Kal esté fuera de peligro, duerma, empie
 
 La reacción de Kal no será un discurso terapéutico. Su patrón de diseño es `shock → procesamiento → emoción difícil de verbalizar → seguridad → médicos → casa → trabajo → dinero → futuro`. Intenta convertir *voy a ser padre* en algo que pueda resolver; eso no significa falta de emoción.
 
-La noticia toca su herida familiar: vio el arresto y suicidio de Dale, el derrumbe y muerte de Ruth y la destrucción de su primera casa. Acaba de regresar a Villa Candelaria casi muerto. Su miedo no es *no quiero ser padre*, sino saber lo que ocurre cuando un padre desaparece de una casa. Debe verse en conducta, no necesariamente verbalizarse.
+La noticia toca su herida familiar: vio el arresto de Dale y supo de su suicidio, el derrumbe y muerte de Ruth y la destrucción de su primera casa. Acaba de regresar a Villa Candelaria casi muerto. Su miedo no es *no quiero ser padre*, sino saber lo que ocurre cuando un padre desaparece de una casa. Debe verse en conducta, no necesariamente verbalizarse.
 
 Permanecen pendientes el diálogo, la reacción textual definitiva, el momento fino y los detalles domésticos o médicos de esta escena.
 
@@ -2133,9 +2178,11 @@ Ver [[00_Biblia/Vision]], "El núcleo emocional".
 
 ### El cruce de idiomas
 
-**Ella se lo pide en el idioma de él. Él le responde en el de ella.**
+**Ella se lo pide en su idioma. Él le responde en el mismo, mal.** (CANON DEL AUTOR, 2026-10-13)
 
-Chiara dice *Retorna a casa* en español. Kal contesta *tornare a casa* en italiano, mal, con el idioma que ella le enseñó. No es adorno: es la reciprocidad de la secuencia hecha gramática. Él usa el verbo de ella para decirle que cumplió.
+Chiara dice *Torna a casa*, en italiano, como dice la placa. Kal contesta *tornare a casa*, en italiano, mal, con el idioma que ella le enseñó. No es adorno: él usa el verbo de ella, en la lengua de ella, para decirle que cumplió.
+
+> *Versión anterior, superada el 2026-10-13 al corregirse la inscripción del collar:* «Ella se lo pide en el idioma de él. Él le responde en el de ella. Chiara dice *Retorna a casa* en español; Kal contesta *tornare a casa* en italiano».
 
 Y la declaración de ella también cae en italiano — el idioma que sólo le sale completamente cómoda o completamente furiosa. Aquí aparece el tercer estado: **cuando no queda nada que administrar.**
 
@@ -2210,7 +2257,7 @@ Regla de [[06_Relationships/Kal_y_Chiara]]: lo que los salva siempre es algo que
 
 ## Pendientes de H1
 
-> **PENDIENTE:** ¿cuál es la operación, y contra quién? Restricción: tiene que ser plausible que Kal entre él mismo en vez de mandar a alguien, y tiene que dejar heat suficiente para que los hospitales estén vigilados.
+> **RESUELTO (CANON DEL AUTOR, 2026-10-13):** la caída de Crowe en la tormenta, con las bandas al límite; ver la nota al inicio de H1. *Pregunta original:* ¿cuál es la operación, y contra quién? Restricción: tiene que ser plausible que Kal entre él mismo en vez de mandar a alguien, y tiene que dejar heat suficiente para que los hospitales estén vigilados.
 
 > **RESUELTO EN POSICIÓN MACRO (2026-08-31; terminología corregida 2026-09-11; libro reasignado 2026-09-22):** H1 ocurre en el **Libro II — Sombras de Poder**, después de H8 / la construcción de Villa Candelaria y antes del cierre del libro (coda de Halbrook). **PENDIENTE:** posición fina y capítulo exacto dentro de ese tramo.
 

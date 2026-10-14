@@ -205,6 +205,8 @@ Plan: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].
 
 - **Dos versiones.** Con Kal es modesto, profesional, razonable; reconoce el trabajo, paga y enseña estructura. Con Chiara es sofocante, invasivo y condescendiente: usa la deuda, presiona el Monarch y humilla a Tommaso. En casa aparecen dos relatos: *Dario se está volviendo peligroso* / *conmigo no está haciendo eso*. Kal escucha, pero subestima la escala.
 - **Ordena** el asesinato de Fabrizio (ejecuta Volpi) y el **corte de frenos del Lancia de Chiara** (lo ejecuta Volpi, velado; cierre de la Parte II), que deja a Tommaso con bastón y a Marisol con la tibia fracturada. La revelación de su autoría sigue reservada.
+- **La sospecha de Kal (CANON DEL AUTOR, 2026-10-13):** tras el choque, Kal duda de todos y arma varios escenarios. Varek es el que más ruido le hace, sin prueba ni certeza, y eso le cuesta. Esa sospecha sin cerrar siembra la enemistad de *Voto de Ceniza*.
+- **Manda a Volpi a ejecutar a Kal en H1 (CANON DEL AUTOR, 2026-10-13):** al final del libro entiende que Kal ya es más una variable que un activo, y que con Chiara sería un enemigo formidable. Sabe dónde estará Kal porque le llega, sin saber de dónde, el dato de Halbrook sobre Crowe. Volpi falla: la herida de H1 es suya. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] («El final»).
 - Le paga a Kal su primera tajada grande (USD 1,000,000, que Kal guarda como Plan B). Sigue siendo el techo: no hay ruptura abierta hasta que Kal se emancipa en la Parte IV; su caída es del libro siguiente.
 
 ## Pendientes

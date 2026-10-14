@@ -79,6 +79,11 @@ En *Cuentas de Sangre*, Volpi es el opuesto filosófico de Chiara: él usa infor
 
 Durante el Libro I, por encargo de Dario y fuera de escena antes del amanecer del Cap. 29: llega después de la muerte de los padres y de Vera, recoge el arma, desaparece los cuerpos, extrae a Dylan y lo entrega en la mansión. No mata a nadie esa noche. En el VII (isla) habla en fragmentos y no nombra a Blake. Ver [[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]].
 
+## Participación en *Sombras de Poder* — CANON DEL AUTOR (2026-10-12/13)
+
+- Mata a Fabrizio al abrir el libro y corta los frenos del Lancia de Chiara (cierre de la Parte II), siempre velado.
+- **En H1, Dario lo manda a ejecutar a Kal** durante la caída de Crowe en la tormenta. Falla: **el tiro en el costado de H1 es suyo.** Kal no sospecha en este libro que no vino del tiroteo (CANON DEL AUTOR, 2026-10-13). La violencia visible es un fallo de procedimiento: el caos de la noche lo cubre. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] («El final»).
+
 ## Reglas de escritura
 
 - **Cap. 9 (CANON DEL AUTOR, 2026-10-04):** él contrató al atacante del corral. Corrado lo descubre al interrogarlo, lo mata y lo desaparece. Para Nereo, el sicario se esfuma (PENDIENTE: si eso le confirma que Corrado vive). Ver [[07_Ideas/Corrado_Manfred_Gabe]].

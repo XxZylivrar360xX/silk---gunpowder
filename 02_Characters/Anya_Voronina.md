@@ -97,9 +97,11 @@ Llegan a Año Nuevo **distanciados**. Su último contacto fue en [[05_Locations/
 ### La noche
 
 - **Chiara:** va a la fiesta de fin de año del Monarch, se emborracha y termina sola en el penthouse.
-- **Kal:** recostado en la cama del hotel, dándole vueltas entre los dedos al collar **RETORNA A CASA** que le regaló Chiara en Navidad. Hace las maletas y decide volver a San Aurelio **esa misma noche, en auto**. El viaje por carretera explica por qué tarda tanto en llegar y por qué **no está presente en su cumpleaños**.
+- **Kal:** recostado en la cama del hotel, dándole vueltas entre los dedos al collar **TORNA A CASA** que le regaló Chiara en Navidad. Hace las maletas y decide volver a San Aurelio **esa misma noche, en auto**. El viaje por carretera explica por qué tarda tanto en llegar y por qué **no está presente en su cumpleaños**.
 
 ### El piano
+
+> **SUPERSEDIDO (CANON DEL AUTOR, 2026-10-13):** el piano es el regalo de **Chiara** para el cumpleaños de Kal (1 de enero) y lo espera en el penthouse. F4 va ahora después del incendio, así que ya no hay error de entrega ni «suerte» frente al fuego ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]). El párrafo siguiente es historial.
 
 **El 2 de enero** le entregan a Chiara el regalo de Kal: **un piano de pared**. Lo dejan en el **penthouse** cuando debieron llevarlo al loft. El error resulta ser una suerte: por eso el piano **no está en el loft cuando se incendia**, días después. (Enlaza con el talento de Kal para el piano, *Träumerei*, Cap. 38: ver [[02_Characters/Kal_Mercer]].)
 

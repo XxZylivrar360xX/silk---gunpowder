@@ -3,6 +3,8 @@
 *Ficha de Lugar - geografia, carreteras y tiempos narrativos*
 
 > **CANON DEL AUTOR (2026-10-06): mapa definitivo** en [[99_Reference/location_references/mapa_san_aurelio.png]]. Este documento ya está recalibrado a ese mapa (escala: la barra del mapa mide 10 km). Si algo aquí choca con el dibujo, manda el dibujo. Ficha de la ciudad: [[05_Locations/San_Aurelio]].
+>
+> **Protomapas de barrio (2026-10-14, guía, no canon):** [[99_Reference/location_references/la_almendra.png|La Almendra]] · [[99_Reference/location_references/la_isla_punta_dorada.png|La Isla]]. No cambian escalas, tiempos ni rutas de este documento. De ellos solo es canon la forma de la meseta que da nombre a La Almendra.
 
 **Que es:** el mapa practico de San Aurelio. No sustituye la ficha de la ciudad; la vuelve usable para persecuciones, traslados, vigilancia, jurisdiccion, logistica criminal y escenas donde llegar tarde o llegar por otra ruta cambia el resultado.
 

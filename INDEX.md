@@ -17,7 +17,7 @@ Mapa de navegación de *Seda y Pólvora*. Este índice apunta a las fuentes vige
 | Libro | Mapa |
 |---|---|
 | I — *Máscaras de Cristal* | [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] |
-| II — *Sombras de Poder* | [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] · plan rector en cuatro Partes: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] |
+| II — *Sombras de Poder* | [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] · plan rector en cuatro Partes: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] · guía de redacción por capítulos (61, DISEÑO): [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] · matriz temporal: [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]] · diseño del robo de joyería (Lunar Pearl; DISEÑO con decisiones del autor): [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Robo_Joyeria]] · nombre en cursiva y embarazo (DISEÑO, en discusión): [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]] · las cartas de Dale, detonante de Stavanger (CANON 2026-10-14): [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]] |
 | III — *Voto de Ceniza* | [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]] |
 | IV — *Cuentas de Sangre* | [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]] |
 | V — *Juramento de Hierro* | [[11_Books/Book_05_Juramento_De_Hierro/00_Book_Map]] |
@@ -30,7 +30,7 @@ Mapa de navegación de *Seda y Pólvora*. Este índice apunta a las fuentes vige
 - **Personajes:** [[02_Characters/README]] · [[02_Characters/Auditoria_Reparto]] · [[02_Characters/Kal_Mercer]] · [[02_Characters/Chiara_Bellandi]].
 - **Facciones:** [[03_Factions/Mapa_de_Conflicto_Activo]] · [[03_Factions/Rivers_y_Krane]].
 - **Conceptos:** [[04_Concepts/La_Guerra_de_los_Tres]] · [[04_Concepts/El_Territorio_y_El_Relato]].
-- **Lugares:** [[05_Locations/Mapa_Operativo_de_San_Aurelio]] · [[05_Locations/San_Aurelio]] · [[05_Locations/Norte_Rural_de_San_Aurelio]].
+- **Lugares:** [[05_Locations/Mapa_Operativo_de_San_Aurelio]] · [[05_Locations/San_Aurelio]] · [[05_Locations/Norte_Rural_de_San_Aurelio]] · protomapas (guía, no canon): [[99_Reference/location_references/la_almendra.png|La Almendra]] · [[99_Reference/location_references/la_isla_punta_dorada.png|La Isla]].
 - **Relaciones:** [[06_Relationships/Kal_y_Chiara]] · [[06_Relationships/Hitos]] · [[06_Relationships/Momentos_de_Fractura]].
 - **Ideas e incubación:** [[07_Ideas/README]] · [[07_Ideas/Escenas_Guia/README]] · [[07_Ideas/Incubacion_Escenas/README]].
 - **Oficio y auditoría:** [[12_Craft_Policies/README]] · [[12_Craft_Policies/CHAPTER_STATUS]] · [[12_Craft_Policies/voice/00_Registro_Espanol_Neutro]] · auditorías humanas en 13_Auditorias/.

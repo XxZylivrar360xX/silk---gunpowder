@@ -19,6 +19,7 @@
 | **[[05_Locations/Cedar_Flats]]** | Pueblo agrícola lejano del norte | Parcelas de cultivo, mano de obra y discreción rural |
 | **[[05_Locations/Camp_Alder]]** | Noreste restringido | Complejo militar, contratistas, armamento largo |
 | **Los Álamos** | Norte industrial muerto | Refinerías cerradas, chatarra, suelo barato |
+| **Universidad Ashcombe** | A unos minutos al norte de la ciudad, cerca de Lomas de San Jacinto | Universidad de [[02_Characters/Marisol_Grayson]] (derecho). CANON DEL AUTOR (2026-10-13): fundada en 1912 por la familia Ashcombe con dinero de la madera y luego de las refinerías del norte; la familia cayó con las refinerías y la universidad sobrevivió: es lo único de ese dinero que todavía funciona. Los alumnos le dicen «la Ashcombe». Graduación: [[07_Ideas/La_Graduacion_De_Marisol]] |
 
 ---
 

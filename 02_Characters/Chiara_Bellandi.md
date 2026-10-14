@@ -312,7 +312,7 @@ Durante [[06_Relationships/Hitos#H1 — El regreso a casa|H1]], ya en Villa Cand
 
 No es manipulación ni un secreto prolongado. Está reservando unas horas para que la noticia les pertenezca en casa.
 
-Cuando le toca la placa y dice *Retorna a casa*, Kal entiende que habla de los dos; Chiara sabe que habla de los tres. Durante la vigilia intenta impedir que muera antes de conocer a la hija que espera. Ese conocimiento sostiene su presión interna, pero **no reemplaza el amor como motor de H1**: cuando Kal pregunta por qué se preocupa tanto, ella responde *Perché ti amo con tutto il mio cuore*, no revela el embarazo.
+Cuando le toca la placa y dice *Torna a casa*, Kal entiende que habla de los dos; Chiara sabe que habla de los tres. Durante la vigilia intenta impedir que muera antes de conocer a la hija que espera. Ese conocimiento sostiene su presión interna, pero **no reemplaza el amor como motor de H1**: cuando Kal pregunta por qué se preocupa tanto, ella responde *Perché ti amo con tutto il mio cuore*, no revela el embarazo.
 
 El reveal ocurre sólo después de que Kal queda fuera de peligro, duerme, inicia recuperación y vuelve cierta normalidad doméstica. El diálogo, el mecanismo de confirmación, los días exactos y la reacción textual de Kal permanecen pendientes.
 

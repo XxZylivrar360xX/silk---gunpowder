@@ -133,11 +133,13 @@ pendiente de revelar en prosa — reservado a *Voto de Ceniza*). La Parte evoluc
 
 ### Navidad y el último hogar completo
 
-> **CANON DEL AUTOR (2026-10-06):** el Libro I ya se comió Navidad, Año Nuevo y el cumpleaños de Kal con Kal preso; cierra a principios de enero. *Sombras de Poder* cubre esencialmente **un año**. Su Navidad, a fin de ese año, es la primera juntos: Chiara la quiere perfecta porque no quiere perder ni un minuto más con él. Ahí va el collar, y F4 (el Año Nuevo siguiente) duele más. **PENDIENTE:** redistribuir las Partes ahora que el libro cubre un año ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]).
+> **CANON DEL AUTOR (2026-10-06):** el Libro I ya se comió Navidad, Año Nuevo y el cumpleaños de Kal con Kal preso; cierra a principios de enero. *Sombras de Poder* cubre esencialmente **un año**. Su Navidad, a fin de ese año, es la primera juntos: Chiara la quiere perfecta porque no quiere perder ni un minuto más con él. Ahí va el collar, y F4 (el Año Nuevo siguiente) duele más. ~~**PENDIENTE:** redistribuir las Partes ahora que el libro cubre un año.~~
+>
+> **CANON DEL AUTOR (2026-10-13):** se retira «un año», que era protoidea. El libro va del 5 ene A3 al invierno A4 (unos dos años): incendio en agosto A3, Stavanger en octubre A4 y H1 en diciembre A4, antes de Navidad. Matriz: [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]].
 
-La primera Navidad pertenece a esta Parte. El eje **Torna a casa / Retorna a casa** se
-sostiene en el collar cuya inscripción vigente es **RETORNA A CASA**, según
-[[06_Relationships/Kal_y_Chiara#CANON — Retorna a casa]]. No se cambia el texto grabado.
+La primera Navidad pertenece a esta Parte. El collar lleva grabado **TORNA A CASA**, igual que el título
+de la Parte IV ([[06_Relationships/Kal_y_Chiara#CANON — Torna a casa]]). *Corregido (CANON DEL AUTOR,
+2026-10-13): el autor corrige la inscripción, que antes se registraba como «RETORNA A CASA».*
 Después de Camp Alder, volver deja de ser una frase doméstica y se convierte en promesa.
 
 El loft sigue siendo **la casa de ambos**: Chiara ayudó a construirlo, aprendieron rutinas, se
@@ -157,6 +159,8 @@ exige que ese uso cotidiano siga presente.
 - **Componente Villa:** se separa temporalmente; reconstrucción en Parte II, después del día
   Mei-Lin/Bonnie. H8 conserva su ID y título de referencia, pero ya no es un bloque continuo.
 
+> **SUPERSEDIDO (CANON DEL AUTOR, 2026-10-13):** el piano lo compra Chiara para el cumpleaños de Kal (1 de enero) y lo espera en el penthouse; ya no hay error de entrega ni se «salva del fuego». Ver [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].
+
 El collar y la caja de acero sobreviven según H8; no salvan el hogar. **El piano de pared** (regalo de Kal por Año Nuevo) también sobrevive, porque lo entregaron por error en el penthouse y no en el loft (CANON DEL AUTOR, 2026-09-26).
 
 ### Año Nuevo / F4 — CANON DEL AUTOR (2026-09-26)
@@ -164,6 +168,8 @@ El collar y la caja de acero sobreviven según H8; no salvan el hogar. **El pian
 **F4 ocurre entre Navidad y el incendio**; el loft arde días después. Noche **separada**: Kal en Washington pagando la deuda con [[02_Characters/Anya_Voronina]] (pretexto: programa de apoyo a veteranos, muchos exsubordinados de Halbrook; Kal sólo la ayuda con el trabajo); Chiara en la fiesta de fin de año del Monarch, ebria y sola en el penthouse. Kal vuelve esa misma noche en auto, con el collar en la mano; no llega a tiempo para su cumpleaños. Llegan distanciados desde Bellandi Ridge (Nueva York; ella nunca sube al avión). 31: Chiara baila y bebe sola. 1: películas y depresión. 2: la cruda moral y el piano en el penthouse. Kal llega la noche del 2 (21:00–23:00) y la encuentra sin glamour: la primera vez en la saga. Ver [[06_Relationships/Momentos_de_Fractura#F4 - Año Nuevo en Washington]].
 
 Anya sabe del patrón Halbrook y lo usa como gancho para que Kal acepte (canon 2026-09-26).
+
+> **CANON DEL AUTOR (2026-10-13):** la incursión se conserva, pero pasa a la Parte II, después de F4 y antes del choque; la vela sigue naciendo ahí, en dos tiempos (2026-10-13): tardía en la incursión (Kal no avisó) y a tiempo en el robo de Lunar Pearl ([[04_Concepts/Fe_y_Velas]]). Queda **superado** que Ren Wei fabricara el cargamento (Ren entra como valet del Monarch en la Parte I). Ver [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].
 
 **La primera incursión de Kal como activo de campo de [[02_Characters/Dario_Varek]] — CANON DEL AUTOR (2026-09-26).** Entre F4 y el incendio. Kal escolta **toneladas de cocaína** desde el norte hasta el puerto marítimo para sacarlas. El peligro: un **grupo rival sabe del cargamento y lo está buscando**. Termina en una persecución: para perder a la policía se tiran **con el coche a la bahía**, nadan hasta el otro extremo de la bahía y se esconden **por separado** en la zona industrial: **Kal, [[02_Characters/Nadir_Amrani]], [[02_Characters/Harper_Walker]] y Danny**. **Cuando Kal vuelve, le cuenta a Chiara lo que pasó y el peligro que corrió.** Ésa es la conversación que empieza a reparar después de F4 y de ahí nace la vela. **Ren Wei fabricó el cargamento:** al cobrar y ver la cantidad, Kal pone a [[02_Characters/Ren_Wei]] en su radar, porque opera como **proveedor independiente**, no como cocinero de Dario (canon 2026-09-26).
 
@@ -266,6 +272,8 @@ Parte.
 
 ### La boda de Mabel y Walt — la terraza del Monarch
 
+> **UBICACIÓN ACTUALIZADA (CANON DEL AUTOR, 2026-10-13):** con las cuatro Partes, la planeación cierra la Parte III (tras F2) y la boda abre la Parte IV, antes de Stavanger. «Parte II» abajo es la numeración anterior. Plan: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].
+
 **CANON DEL AUTOR (2026-09-29):** [[02_Characters/Mabel_Ortiz|Mabel]] y [[02_Characters/Walter_Keegan|Walt]] se casan en la Parte II, **después de Villa Candelaria y antes de Stavanger** (tramo de "nuevas memorias"). Chiara organiza la boda en la terraza del [[03_Factions/El_Casino|Monarch]].
 
 **El momento de Chiara (canon):** antes de la boda, le muestra a Kal la decoración del altar. Kal, con camisa negra, camina hacia el altar comentando que las flores y la alfombra están mal alineadas; ella lo espera con un vestido blanco casual, ajustado, de un hombro descubierto. Durante unos diez segundos se imagina a sí misma esperando en el altar a Kal Mercer. En su mente repite, con la voz de Mabel, una frase que Mabel le dijo:
@@ -295,10 +303,18 @@ sale de la incubadora y entra al manuscrito del Libro II (BORRADOR; número pend
 **Stavanger es la ciudad de origen de Kal**; su madre, **Ingrid**, murió hace once años; su tío
 materno, **Henrik Solberg**, guarda las cartas y la única foto de los dos. Chiara presencia la
 revelación. Propuesta con la línea de Anya. **Elenna se concibe en este viaje** (no se señala).
-Su viejo disparador exigía la caída previa de Silas, ahora situada en Parte III: **sigue
-PENDIENTE DE RECONCILIACIÓN**, sin adelantar esa caída ni inventar otro detonante.
+~~Su viejo disparador exigía la caída previa de Silas, ahora situada en Parte III: **sigue
+PENDIENTE DE RECONCILIACIÓN**, sin adelantar esa caída ni inventar otro detonante.~~
+**Detonante (CANON DEL AUTOR, 2026-10-14):** cartas de Dale a Kal escritas desde la cárcel, con
+emociones que Kal nunca le vio. Las entrega Manfred Gabe (primera aparición del nombre; Kal no le
+ve la cara). Kal las lee solo, se desahoga con Chiara y las devuelve a la tumba de Dale antes de
+viajar. Crowe sale por completo del detonante. Diseño: [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]].
 
 ### El robo de la joyería — CANON DEL AUTOR (2026-10-02)
+
+> **CANON DEL AUTOR (2026-10-13):** es el **único** robo de joyería del libro y va en la Parte I. La joyería está en La Isla y va el Patio completo, no sólo Héctor, Danny y Nadir. Bandas amigas ponen autos señuelo iguales al del robo en las salidas del subterráneo de La Isla para despistar al helicóptero: tres de fiesta bebiendo «sin público» y una pareja «con intimidad en el túnel». El equipo abandona el auto bajo tierra y sale a pie por el casino. Del botín salen el anillo y el USD 1,000,000 del Plan B. Es un arco largo y denso. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] (§8).
+>
+> **CANON DEL AUTOR (2026-10-13, posterior):** el robo **pasa a la Parte II**, después de la primera incursión para Dario y antes del choque, para que la vela ya exista. Es la primera operación autónoma de Kal: **Lunar Pearl**, exhibición del diamante rojo **«Lussia»** de Dario (origen del nombre de Lucia). Kal llama antes de empezar («Estamos a punto de comenzar, deséame suerte.» / «Te encenderé una vela, y Kal… Cuídate mucho ¿Sí?») y el capítulo cierra con Chiara encendiendo la vela. Chiara no conoce el plan. Los señuelos son de los Saints; Walt los espera en la salida del Monarch; sin heridos. Diseño: [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Robo_Joyeria]].
 
 Sustituye "la joyería con Héctor" como compra fuera de página.
 
@@ -374,8 +390,8 @@ volver a Chiara, a ellos y al futuro compartido, no sólo a un edificio.
 - Paga en la chimenea: Kal lee el nombre en voz alta. Chiara no lo dice.
 - **Empieza antes de que Chiara sepa que está embarazada** (DISEÑO aprobado 2026-10-02): al principio ella de verdad no sabe por qué lo escribe, así que su POV no oculta nada; cuando lo sabe, el tic sigue igual.
 - **Significado (CANON DEL AUTOR, 2026-10-02):** mezcla de dos lecturas. *Elena/Helena*, "la que resplandece": la luz en la oscuridad de la violencia de la ciudad, contraste directo con la tesis de *Sombras de Poder*. Y *Elenna*, "hacia las estrellas": guiño a [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/20_El_Mirador|Cap. 20, El mirador]] ("el único lugar de la ciudad donde se ven las estrellas"; el padre de Chiara y las constelaciones, "el único mapa que nadie podía cambiarme de sitio"; Kal rompe ahí su regla y habla de Dale y Ruth: "Es una familia rota. La que yo tengo."; Chiara lo guarda "como algo que un día, si la vida se lo permitía, iba a devolverle en otra forma"). **Regla:** el significado no se dice en el Libro II; lo cumplen el fuego, la colocación del tic y, en relectura, el mirador. Nada de diccionarios ni explicaciones.
-- **El tic va atado al ritual de las velas (CANON DEL AUTOR, 2026-10-02; supersede el anclaje "después de cada golpe de sombra"):** Chiara escribe el nombre cada vez que Kal sale y corre riesgos por "su trabajo", junto a la vela ([[04_Concepts/Fe_y_Velas]]). Nace con el ritual, en F4: la primera vela es la primera vez que escribe el nombre. Junto a la oración, el lector lo lee como devoción.
-  - DISEÑO pendiente de aprobación: **lo quema en la vela** cada vez, salvo una: ya sabiendo del embarazo, lo dobla y lo guarda; es el papel que cae de la manta. La vela puede aparecer seguido; la cámara sólo atrapa el papel 4–5 veces, elegidas entre las noches de mayor riesgo para Kal.
+- **El tic va atado al ritual de las velas (CANON DEL AUTOR, 2026-10-02; supersede el anclaje "después de cada golpe de sombra"):** Chiara escribe el nombre cada vez que Kal sale y corre riesgos por "su trabajo", junto a la vela ([[04_Concepts/Fe_y_Velas]]). ~~Nace con el ritual, en F4: la primera vela es la primera vez que escribe el nombre.~~ **Superado (CANON DEL AUTOR, 2026-10-13):** el tic nace en la Parte I, en los momentos de tensión de Chiara (la primera vez, en su oficina tras identificar a Fabrizio), y la vela le da después su forma devota. Colocación: [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]]. Junto a la oración, el lector lo lee como devoción.
+  - **CANON DEL AUTOR (2026-10-13):** **lo quema en la vela** cada vez, salvo una: la noche de H1, antes de que Kal salga, lo escribe y no lo quema; es el papel que cae de la manta. Kal la vio escribir en enero y no pregunta en once meses, por culpa. Colocación y señales: [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]]. La vela puede aparecer seguido; ~~la cámara sólo atrapa el papel 4–5 veces, elegidas entre las noches de mayor riesgo para Kal.~~ Hoy son nueve apariciones, contando los momentos de tensión de Chiara (2026-10-13).
   - Tabla anterior (SUPERADA 2026-10-02; se conserva como referencia de escalada):
   1. Tras un crimen de Kal que ella conoce o en el que participa (Parte I): al margen de un documento de Garrett, en espera al teléfono; lo tacha.
   2. Tras el incendio del loft: en cursiva, en su papel de canela y vainilla; lo rompe en tiras.
@@ -439,7 +455,7 @@ extensa.~~ (Superado: la coda pasó al Cap. 50b del Libro I; el libro cierra en 
 |---|---|
 | Loft (Libro I) | Hogar descubierto casi accidentalmente. |
 | Incendio | Incluso el hogar puede desaparecer. |
-| Año Nuevo (antes del incendio) | Separados: Kal elige volver; el piano se salva del fuego. *(Brújula anterior "hogar son solamente ellos dos" SUPERSEDIDA 2026-09-26.)* |
+| Año Nuevo (después del incendio, Parte II; 2026-10-13) | Separados: Kal elige volver; el piano que Chiara le compró por su cumpleaños lo espera en el penthouse. ~~Antes del incendio; el piano se salva del fuego.~~ *(Brújula anterior "hogar son solamente ellos dos" SUPERSEDIDA 2026-09-26.)* |
 | Mei-Lin / Bonnie | La familia elegida también puede reducirse. |
 | Villa Candelaria | Hogar reconstruido deliberadamente. |
 | Stavanger / anillo | Futuro elegido. |
@@ -466,8 +482,13 @@ Fuente: migración de la incubadora de ChatGPT, validada por el autor el 2026-10
 
 ### El gran enfrentamiento de la tormenta (antes de H1)
 
+> **CANON DEL AUTOR (2026-10-13), ampliado:** la tormenta **es H1** y el final del libro, no un episodio previo; el encabezado «antes de H1» queda superado. Halbrook filtra a Dario dónde estará Crowe; Volpi, mandado por Dario, hiere a Kal; Kal no lo sospecha en este libro. La filtración llega como rumor de calle desde Los Bravos. Chiara deja el triaje al oír «Todos están fuera, vamos a casa» y llega primero a la Villa: todas las velas apagadas por una ventana abierta. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] («El final»).
+>
+> **CANON DEL AUTOR (2026-10-13):** esta operación es **la caída de Silas Crowe** (Parte IV). El «golpe todavía por definir» es la operación contra Crowe. Reconciliada con la erosión del 2026-09-19: las bandas llegan al límite tras años de cobros y Kal aprovecha. Al final, con todos fuera y Crowe de rodillas, Kal lo deja con vida; **Walt lo ejecuta** al entender que mató a Amanda ([[02_Characters/Silas_Crowe]], [[02_Characters/Walter_Keegan]]). Revisar M-27: si Crowe muere aquí, el aprendizaje para H1 es de Dario. Plan: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].
+
 - Un golpe, todavía por definir, escala durante una tormenta hasta involucrar a unas tres bandas, El Patio, la policía y civiles. No convierte el libro en la Guerra de los Tres.
-- Chiara lo ve en vivo por un reportero de su propio periódico (presupone *El Faro* ya comprado). Llama a Kal. Él contesta **"Dime, Amore"**: **la única vez en toda la saga que Kal la llama así**. No se explica después.
+- **Antes del movimiento (CANON DEL AUTOR, 2026-10-13):** Kal va solo a la iglesia, enciende una vela y se sienta en una banca a observar el altar y el Cristo en la cruz, antes de la vela de Chiara. Tiempo aparte de la llamada; ver [[04_Concepts/Fe_y_Velas]].
+- Chiara lo ve en vivo por un reportero de su propio periódico (presupone *El Faro* ya comprado). Llama a Kal en medio del movimiento, cuando él está acorralado. Él contesta **"Dime, Amore"**: **la única vez en toda la saga que Kal la llama así**. No se explica después.
 - Chiara se niega a esperar: habilita uno de sus almacenes del sur como triaje discreto. [[02_Characters/Camila_Rivas]] atiende lo grave; Chiara, con pijama médico, ayuda de forma inexperta en heridas leves y soporte. **No es combatiente ni médica competente.**
 - Chiara tiene una radio cerca: la voz de Kal, dando órdenes y coordinando extracciones, es durante horas la prueba intermitente de que sigue vivo.
 - Cuando la policía cierra el área, Kal cambia de prioridad: abre extracciones y saca vivos a los suyos, a miembros de bandas rivales y a civiles, adelantándose al cierre policial. Las bandas lo recuerdan: respeto, neutralidad, oportunidades; no alianzas automáticas.
@@ -513,9 +534,9 @@ nacimiento de Elenna, antes de la Guerra de los Tres abierta, con Halbrook ya en
 - Distancia fina F4 → F3 → F2.
 - Conflicto propio de Bonnie; frecuencia y nivel de daño de la filtración de Mei-Lin.
 - Logística de adquisición/obra de Villa Candelaria.
-- Dependencia antigua caída de Silas → Stavanger: requiere reconciliación expresa (el viejo
-  disparador de la incubadora exigía la caída previa de Silas, ahora situada en Parte III).
-- Mecanismo de la caída de Silas Crowe.
+- ~~Dependencia antigua caída de Silas → Stavanger: requiere reconciliación expresa (el viejo
+  disparador de la incubadora exigía la caída previa de Silas, ahora situada en Parte III).~~ Resuelta (CANON DEL AUTOR, 2026-10-14): las cartas de Dale ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]]).
+- ~~Mecanismo de la caída de Silas Crowe.~~ Resuelta (2026-10-13): tormenta; desgaste de las bandas; Walt lo ejecuta.
 - Composición y objetivo operativo exacto de la coalición de H1.
 - Nacimiento, falsa muerte y mecanismo hospitalario de Elenna: pendientes de *Voto de Ceniza*
   (Libro III), sin traslado a este libro.

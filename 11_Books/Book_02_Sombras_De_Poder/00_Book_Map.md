@@ -106,7 +106,7 @@ Obligaciones que deja el cierre de *Máscaras de Cristal* y que este libro tiene
 
 ---
 
-> **Huellas de Manfred (CANON DEL AUTOR, 2026-10-04):** Corrado, como Manfred Gabe, deja en este libro pocos rastros civiles que, en el cuadro grande, inclinan un resultado hacia Kal o Chiara. Nunca le ven la cara; nunca funcionan como pista de que vive. Reglas en [[02_Characters/Corrado_Ardizzone]], "La verdad". Registro de huellas: PENDIENTE.
+> **Huellas de Manfred (CANON DEL AUTOR, 2026-10-04):** Corrado, como Manfred Gabe, deja en este libro pocos rastros civiles que, en el cuadro grande, inclinan un resultado hacia Kal o Chiara. Nunca le ven la cara; nunca funcionan como pista de que vive. Reglas en [[02_Characters/Corrado_Ardizzone]], "La verdad". Registro de huellas: **1) las cartas de Dale** (Parte IV; CANON DEL AUTOR, 2026-10-14): Manfred le entrega a Kal las cartas que Dale le escribió desde la cárcel; primera aparición del nombre, sin cara; detonan Stavanger ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]]). Las demás, PENDIENTES.
 
 ## Estructura por Partes
 
@@ -114,12 +114,14 @@ Obligaciones que deja el cierre de *Máscaras de Cristal* y que este libro tiene
 
 | Parte | Función | Contenido principal | Cierra en |
 |---|---|---|---|
-| I — Territorio ajeno | Expansión: Kal coordina bajo el techo de Dario; Chiara construye estructura | Hogar y la muerte de Fabrizio (Volpi); frente Tommaso–Chiara contra Dario; Ren Wei como valet; robo de joyería con el Patio completo; el millón como Plan B; Tyler pierde el cargamento de Crowe y **Crowe incendia el loft**; Ren revela su capacidad; Calle Almendra («Quiero levantarlo»); azotea; **Villa Candelaria**; rodada de montaña; encubierto del FBI (nombre de Danny); «Señor Militar»; *El Faro*; Dario en dos versiones | **Gala de beneficencia:** «—Conocí a Warren Halbrook.» |
-| II — Nieve y ceniza | Pertenencia por fuera, deterioro por dentro | Invierno y **Navidad del año 3** (collar *Retorna a casa*); el Patio como familia; Kal en piloto automático; Harper como pupila; **ataque de pánico solo en el garaje**; Marisol y Chiara lo notan; Año Nuevo / F4 | **El choque:** frenos cortados del Lancia de Chiara (Volpi, velado); Tommaso contra el Audi que maneja Marisol, en Calle Corona; Kal, en pánico, con Chiara en el armario del hospital; en La Almendra descubre el sabotaje |
+| I — Territorio ajeno | Expansión: Kal coordina bajo el techo de Dario; Chiara construye estructura | Hogar y la muerte de Fabrizio (Volpi); frente Tommaso–Chiara contra Dario; Ren Wei como valet; Tyler pierde el cargamento de Crowe y **Crowe incendia el loft**; Ren revela su capacidad; Calle Almendra («Quiero levantarlo»); azotea; **Villa Candelaria**; rodada de montaña; encubierto del FBI (nombre de Danny); «Señor Militar»; *El Faro*; Dario en dos versiones | **Gala de beneficencia:** «—Conocí a Warren Halbrook.» |
+| II — Nieve y ceniza | Pertenencia por fuera, deterioro por dentro | Invierno y **Navidad del año 3** (collar *Torna a casa*); el Patio como familia; Kal en piloto automático; Harper como pupila; **ataque de pánico solo en el garaje**; Marisol y Chiara lo notan; Año Nuevo / F4; incursión para Dario y primera vela; **robo de Lunar Pearl** con el Patio completo (el anillo; el millón como Plan B; [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Robo_Joyeria]]) | **El choque:** frenos cortados del Lancia de Chiara (Volpi, velado); Tommaso contra el Audi que maneja Marisol, en Calle Corona; Kal, en pánico, con Chiara en el armario del hospital; en La Almendra descubre el sabotaje |
 | III — Exilio | Fractura y costo del mando | **F2:** Mei-Lin (Nadir ejecuta, Kal decide) y Bonnie desterrada el mismo día; F3; Nadir agrietado; Tommaso sale o queda encaminado a salir (choque, bastón, Marisol, familia; cede el Monarch) | La primera gran mutilación de la familia elegida |
-| IV — Torna a casa | Emancipación y guerra inevitable | Doctrina propia de Kal e independencia ideológica de Dario; un golpe fallido con muertos; **la tormenta**; Crowe como martillo; Halbrook ya institucional; **Stavanger** ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]]; concepción de Elenna); **H1** | Reveal del embarazo la noche de H1, en la chimenea de Villa Candelaria, sólo a la luz del fuego (CANON 2026-10-02) |
+| IV — Torna a casa | Emancipación y guerra inevitable | Doctrina propia de Kal e independencia ideológica de Dario; un golpe fallido con muertos; Crowe como martillo; Halbrook ya institucional; **Stavanger** ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]]; concepción de Elenna); **la tormenta = caída de Crowe = H1**, una sola noche de diciembre A4 (CANON 2026-10-13) | Reveal del embarazo la noche de H1, en la chimenea de Villa Candelaria, sólo a la luz del fuego (CANON 2026-10-02) |
 
-> **Calendario:** el libro abre el 5 de enero del año 3; la Parte II es el invierno y la Navidad de ese año; las Partes III y IV caen en el año siguiente. El calendario fino es PENDIENTE ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]).
+> **CANON DEL AUTOR (2026-10-13):** se retira «un año», que era protoidea. El libro va del 5 ene A3 al invierno A4 (unos dos años): incendio en agosto A3, Stavanger en octubre A4 y H1 en diciembre A4, antes de Navidad. Matriz: [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]].
+>
+> **Calendario (anterior):** el libro abre el 5 de enero del año 3; la Parte II es el invierno y la Navidad de ese año; las Partes III y IV caen en el año siguiente. El calendario fino es PENDIENTE ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]).
 
 <details><summary>Tabla anterior (tres Partes, supersedida el 2026-10-12)</summary>
 
@@ -128,9 +130,9 @@ Desarrollo completo, Parte por Parte, en [[01_Timeline/03_Libro_02_Sombras_De_Po
 
 | Parte | Función | Cierra en |
 |---|---|---|
-| I — Nieve y Ceniza | Reconciliación completa, asesinato de Fabrizio (antes: Tommaso; CANON 2026-10-12), organización de Kal (Ren Wei), Navidad y el collar RETORNA A CASA | Incendio del loft |
+| I — Nieve y Ceniza | Reconciliación completa, asesinato de Fabrizio (antes: Tommaso; CANON 2026-10-12), organización de Kal (Ren Wei), Navidad y el collar TORNA A CASA | Incendio del loft |
 
-> **PENDIENTE (autor, 2026-10-06):** el libro abre el 5 de enero y cubre esencialmente un año; la Navidad del collar (la primera juntos) cae al final de ese año, seguida de F4. Hay que redistribuir las Partes; la tabla de arriba vale como orden, no como calendario ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]).
+> **SUPERADO (2026-10-13, ver la matriz temporal):** ~~PENDIENTE (autor, 2026-10-06):~~ el libro abre el 5 de enero y cubre esencialmente un año; la Navidad del collar (la primera juntos) cae al final de ese año, seguida de F4. Hay que redistribuir las Partes; la tabla de arriba vale como orden, no como calendario ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]).
 | II — Exilio | Año Nuevo/F4, F3, F2 (Mei-Lin y Bonnie el mismo día), reconstrucción en Villa Candelaria, robo de la joyería (el anillo), compromiso en Stavanger ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]], canonizado 2026-10-02; origen de Kal; concepción de Elenna) | Futuro elegido, pareja comprometida |
 | III — Torna a Casa | Conflicto final (Silas Crowe, coalición de Dario), embarazo confirmado, H1 | Reveal del embarazo esa misma noche de H1, en la chimenea de Villa Candelaria, sólo a la luz del fuego; el libro acaba ahí (CANON DEL AUTOR, 2026-10-02; ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "Cierre del Libro II"). Siembra: Chiara escribe en cursiva un nombre que no se revela |
 
@@ -155,6 +157,8 @@ En prosa BORRADOR: [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/
 > C: [suelta una carcajada por radio]
 
 La ocasión, el momento del libro y quién más escucha la radio siguen PENDIENTES del autor.
+
+> **SUPERADO EN PARTE (CANON DEL AUTOR, 2026-10-13):** la tormenta no va «antes de H1»: es H1 y la caída de Crowe, la noche final de la Parte IV, en diciembre A4 ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]], «El final»). La hamburguesa doble pasa a después de dormir, antes de la chimenea.
 
 **Gran enfrentamiento de la tormenta — CANON DEL AUTOR (2026-10-03), antes de H1, Parte PENDIENTE.** Tres bandas, El Patio, policía y civiles; Chiara lo ve por *El Faro*, llama y Kal contesta "Dime, Amore" (única vez en la saga); triaje en un almacén del sur con Camila; radio como indicador de vida; Kal prioriza extracciones (incluidos rivales); muertos reales; cataliza la escalada policial; cierre con la hamburguesa doble. Detalle en [[01_Timeline/03_Libro_02_Sombras_De_Poder]].
 

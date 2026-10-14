@@ -6,6 +6,7 @@
 
 ## Acontecimientos
 
+- Abre con la Navidad del año 4 y el cumpleaños de Kal (1 ene A5), que quedan fuera de *Sombras de Poder*: ese libro termina antes del 25 de diciembre (CANON DEL AUTOR, 2026-10-13; [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]]).
 - Chiara atraviesa el embarazo mientras Halbrook y la guerra presionan San Aurelio.
 - La crisis vuelve públicamente valiosas las capacidades de Halbrook: pasa de autoridad de crisis a figura pública y candidato (canon del autor 2026-09-28; cobra el nombre de Camp Alder). Ver [[02_Characters/Warren_Halbrook]].
 - Nace Elenna y se construye su falsa muerte.

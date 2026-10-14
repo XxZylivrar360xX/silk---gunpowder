@@ -429,7 +429,7 @@ Adentro, alguien por fin había dejado de calcular cuánto tiempo faltaba para t
 
 1. **Ya llegó** — ventaja temática (doble sentido: ella ya estaba ahí / él finalmente llegó a la vida que tenía). Riesgo: repite el título de la escena de Anya/el día de campo como concepto, aunque nunca se usó como título de capítulo ahí.
 2. **Stavanger** — directo, sin sentimentalismo, en la línea de títulos-lugar que ya usa el libro (ver "Auster", "Roma Atrii").
-3. **El lugar al que vuelves** — juega con "Retorna a casa" (el collar) sin citarlo ni explicarlo.
+3. **El lugar al que vuelves** — juega con "Torna a casa" (el collar) sin citarlo ni explicarlo.
 4. **Al tuyo** — mínimo, ambiguo (¿país? ¿lado? ¿fianco?), coherente con la inscripción del anillo sin nombrarla.
 5. **La certeza destruida** — extraído de la prosa (Movimiento IV): más oscuro, centra el capítulo en la revelación de origen antes que en la propuesta; útil si el autor quiere que el título no adelante el final feliz.
 

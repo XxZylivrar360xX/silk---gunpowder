@@ -119,7 +119,7 @@ El nombre de resguardo no reemplaza su identidad canónica y no convierte a Bonn
 
 Chiara lleva muy poco tiempo sabiéndolo y planea contárselo cuando Kal regrese de la operación. No quiere alterar su cabeza antes del peligro ni convertir la noticia en algo recibido mirando el reloj. No es manipulación ni secreto prolongado: espera unas horas para compartirla bien, en casa.
 
-Cuando dice *Retorna a casa*, Kal cree que habla de los dos y Chiara sabe que habla de los tres. Cuando él dice *“Solo quiero llegar a casa, porque me esperan”*, lucha por volver hasta Elenna sin saber que existe. La primera participación dramática de Elenna es, por tanto, estar dentro de la casa a la que su padre intenta regresar. No subrayarlo en prosa futura.
+Cuando dice *Torna a casa*, Kal cree que habla de los dos y Chiara sabe que habla de los tres. Cuando él dice *“Solo quiero llegar a casa, porque me esperan”*, lucha por volver hasta Elenna sin saber que existe. La primera participación dramática de Elenna es, por tanto, estar dentro de la casa a la que su padre intenta regresar. No subrayarlo en prosa futura.
 
 El embarazo no reemplaza el amor como motivo de H1. Chiara no revela la noticia durante la hemorragia, la atención médica, el baño ni el pico de la secuencia. Se la cuenta sólo después de que Kal está fuera de peligro, duerme, empieza a recuperarse y regresa cierta normalidad doméstica.
 
@@ -286,7 +286,7 @@ No resolver ninguno de estos puntos por conveniencia:
 1. **PENDIENTE:** fecha exacta de nacimiento.
 2. **RESUELTO EN LUGAR (CANON DEL AUTOR, 2026-10-02):** Elenna se concibe en el viaje a Stavanger, el mismo en que Kal y Chiara se comprometen. El texto no señala la concepción (regla ya vigente en [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]]). Fecha exacta: PENDIENTE.
    - **Rima de saga (DISEÑO, no enunciar):** Elenna conoce por las cartas la historia de cómo se comprometieron sus padres; en el hangar de *Camino a Casa*, "Pero mi historia empezó en un aeropuerto así, ¿o no?" / "Sí." carga la noche de la salida a Stavanger (anillo e hija en el mismo viaje). Capas secundarias: Kingsley Field (Palermo, el regreso de Chiara, la llegada de Halbrook en el 50b) y el papel de canela y vainilla (el tic del nombre en el Libro II es lo primero que Chiara le escribe). Ninguna escena la explica; la rima vive en lo que trae el lector.
-3. **PENDIENTE:** momento exacto del descubrimiento del embarazo, incluido cuántos días antes de H1 lo confirma Chiara.
+3. **PENDIENTE:** momento exacto del descubrimiento del embarazo, incluido cuántos días antes de H1 lo confirma Chiara. **CANON DEL AUTOR (2026-10-13):** la confirmación ocurre fuera de página y nadie lo sabe antes que Kal; Chiara calla para que él vuelva por ella, no por el bebé. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]].
 4. **PENDIENTE:** cuánto embarazo ha transcurrido al iniciar *Voto de Ceniza* (Libro II).
 5. **PENDIENTE:** detonante concreto que obliga a ocultarla.
 6. **PENDIENTE:** circunstancias médicas exactas del parto.

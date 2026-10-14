@@ -216,6 +216,8 @@ Abre **inmediatamente después** del *"Ciao, bella"* que cierra el Libro I: la r
 
 > **REGLA DE SAGA:** H1 es el clímax del Libro II y el primer enfrentamiento abierto que anticipa la Guerra de los Tres.
 
+> **CANON DEL AUTOR (2026-10-13):** H1 es la caída de Silas Crowe en la tormenta. La coalición favorecida por Dario son Los Bravos (DISEÑO); Halbrook filtra el dato y Dario manda a Volpi a ejecutar a Kal. Manda [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] («El final»).
+
 El enfrentamiento enfrenta a El Patio / red de Kal con la coalición alineada, favorecida o manipulada por Dario.
 
 Los detalles tácticos, composición exacta y objetivo operativo siguen pendientes. La función dramática sí queda fijada: después de H1, los actores relevantes saben que San Aurelio ha cruzado un umbral.
@@ -224,7 +226,7 @@ Chiara ya sabe que está embarazada. Kal todavía no. **El lector tampoco (CANON
 
 Se conservan las reglas previas del hito:
 
-- `Retorna a casa` ocurre antes de la operación;
+- `Torna a casa` ocurre antes de la operación;
 - Kal lucha por volver sin saber que ya son tres;
 - el reveal no ocurre durante la hemorragia, atención médica, baño ni pico de crisis;
 - Kal debe estar fuera de peligro, haber dormido y recuperar cierta normalidad doméstica antes de que Chiara se lo diga.
@@ -794,7 +796,7 @@ Este documento cambió canon anterior en los siguientes puntos:
 50. **El Libro I cierra en el Cap. 50b**, *La tierra bajo sus botas*, tras el arco final sin Kal (Caps. 44–50b), dentro de la Parte III. No hay Parte IV en el Libro I. "—Ciao, bella." es la última línea del Cap. 50. Supersede #19. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
 51. **Halbrook llega físicamente a San Aurelio al cierre del Libro I** (50b: Kingsley Field, alba, narrador externo, sin nombre ni diálogo). Confirma y detalla #6. "Halbrook no pisa San Aurelio" vale sólo hasta el apagón.
 52. **El Libro II cierra en el reveal del embarazo** (la noche de H1, en la chimenea de Villa Candelaria), no en la coda de Halbrook. La siguiente aparición de Halbrook en prosa es la gala de beneficencia de Chiara, con el baile (CANON DEL AUTOR, 2026-10-02).
-53. **Calendario (CANON DEL AUTOR, 2026-10-06):** Kal pasa unos dieciséis días preso, del 19 de diciembre al 5 de enero; Navidad, Año Nuevo y su cumpleaños pasan sin él. El Libro I termina el 5 de enero del año 3. El Libro II cubre esencialmente un año, y su Navidad (la del collar) es la primera juntos. Redistribuir sus Partes queda PENDIENTE. Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]].
+53. **Calendario (CANON DEL AUTOR, 2026-10-06):** Kal pasa unos dieciséis días preso, del 19 de diciembre al 5 de enero; Navidad, Año Nuevo y su cumpleaños pasan sin él. El Libro I termina el 5 de enero del año 3. El Libro II cubre esencialmente un año, y su Navidad (la del collar) es la primera juntos. Redistribuir sus Partes queda PENDIENTE. Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]. **CANON DEL AUTOR (2026-10-13):** se retira «un año», que era protoidea. El libro va del 5 ene A3 al invierno A4 (unos dos años): incendio en agosto A3, Stavanger en octubre A4 y H1 en diciembre A4, antes de Navidad. Matriz: [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]].
 
 ## Nuevas — 2026-10-12, *Sombras de Poder*: Fabrizio, Tommaso y cuatro Partes (CANON DEL AUTOR)
 

@@ -8,6 +8,7 @@
 
 > **MAPA DEFINITIVO — CANON DEL AUTOR (2026-10-06):** ![[99_Reference/location_references/mapa_san_aurelio.png]]
 > El mapa manda sobre cualquier ubicación anterior. Ritmo práctico (tiempos, rutas, cierres): [[05_Locations/Mapa_Operativo_de_San_Aurelio]]. Boceto previo del autor: `05_Locations/Mapas/`.
+> **PROTOMAPAS DE BARRIO (autor, 2026-10-14):** [[99_Reference/location_references/la_almendra.png|La Almendra]] · [[99_Reference/location_references/la_isla_punta_dorada.png|La Isla]]. Son guía de trabajo, no canon: no mandan sobre las fichas ni sobre el mapa definitivo. Su escala, sus nombres de calles y las casas rotuladas no son canon. Única excepción: la meseta de La Almendra (ver abajo).
 > - **Forma.** La ciudad es una media luna que abraza la **Bahía de San Aurelio**, abierta al Pacífico por el oeste. Norte arriba. Escala del mapa: la ciudad continental mide unos 15 km de costa a cerros y unos 20 km de norte a sur.
 > - **La Isla**, dentro de la bahía, tiene forma de corona (unos 14 × 9 km), con las puntas hacia el océano. **The Monarch y su Hipódromo ocupan la punta oeste**, la más cercana al océano; Corona = Monarch. En La Isla también están **Punta Dorada**, el distrito de torres y dinero nuevo, y el **Paseo Pacífica** por la orilla norte. Los Breakwater Saints tienen las marinas (norte), los hoteles (este) y los clubes (sur).
 > - **El Puente de Piedra**, de unos 5–6 km, une La Isla con el centro: el **Bulevar Corona** cruza La Isla, pasa por el puente y desemboca en Calle Corona. También hay **ferry** desde el Distrito Marino y el Puerto Viejo, y un **metro** con un anillo alrededor del centro viejo.
@@ -50,6 +51,7 @@ San Aurelio es una ciudad ficticia de Estados Unidos. Puede incorporar cultura l
 > **PENDIENTE:** este mapa es un esqueleto. Cada zona necesita ficha propia en `05_Locations/` antes de que ocurra una escena importante ahí (regla 6 de [[00_Biblia/Principios_Narrativos]]).
 
 **La Almendra** — barrio bajo al este de Calle Corona, junto a las vías. Casas de una planta, talleres, patios de chatarra. Donde creció Kal y donde está [[03_Factions/Almendra_Towing]]. Es el único lugar de la ciudad que él llamaría casa, y pasa buena parte del libro dejando de pertenecerle.
+> **CANON DEL AUTOR (2026-10-14): el nombre viene de la meseta.** En medio del barrio hay una meseta baja con forma de almendra, y de ella toma su nombre. La forma es la del [[99_Reference/location_references/la_almendra.png|protomapa]]; el resto de ese mapa es solo guía.
 
 **[[05_Locations/Vida_Civil_de_San_Aurelio|Vida civil de San Aurelio]]** — tiendas, restaurantes, salones, iglesias, lavanderías, valet, cocinas y barras donde la ciudad habla antes de convertirse en noticia, expediente o guerra. Base de la [[03_Factions/Red_Civil_de_Chiara]].
 

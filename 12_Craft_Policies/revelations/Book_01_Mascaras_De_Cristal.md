@@ -17,7 +17,7 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 
 ---
 
-## El collar "RETORNA A CASA"
+## El collar "TORNA A CASA"
 
 - **Que es:** placa de oro que Chiara regala a Kal en la primera Navidad; sostiene H1.
 - **Se revela en:** primera Navidad, pendiente de escribir.

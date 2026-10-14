@@ -16,7 +16,8 @@
 |---|---|
 | ~35 | París. Corrado y Marta (embarazada de Chiara, tres meses) conocen a Walt y Amanda en un bar. |
 | entre 35 y 26 | Corrado visita a Walt en San Aurelio; ahí coincide con Dale Mercer. |
-| 26 | Dale se ahorca en la celda (Kal, 15). |
+| 26 | ~~Dale se ahorca en la celda (Kal, 15).~~ Arrestan a Dale (Kal, 15); entra preso (CANON DEL AUTOR, 2026-10-14). |
+| ~9 | Dale se ahorca en su celda tras diecisiete años preso; Manfred lo visitaba por Walt (CANON DEL AUTOR, 2026-10-14). |
 | 11 | Redada en Palermo. Falsa muerte. Corrado llega a San Aurelio. |
 | 10 | Walt entra preso (diez años). Empiezan las cartas. |
 | 0 | Il Consorzio manda a Chiara a San Aurelio (Cap. 2). Walt sale (Cap. 3). |
@@ -36,7 +37,7 @@ Walt viaja a París con Amanda porque ella quería conocer la ciudad de las luce
 
 ## Dale — el contraste
 
-Corrado coincide con [[02_Characters/Kal_Mercer|Dale Mercer]] en una visita a San Aurelio antes de la redada (Dale muere 15 años antes de que Corrado se exilie; no pueden coincidir después). Contraste notorio de personalidades: dos padres opuestos. **PENDIENTE:** qué pasa en ese encuentro y si Corrado ve a Kal niño.
+Corrado coincide con [[02_Characters/Kal_Mercer|Dale Mercer]] en una visita a San Aurelio antes de la redada ~~(Dale muere 15 años antes de que Corrado se exilie; no pueden coincidir después).~~ **Superado (CANON DEL AUTOR, 2026-10-14):** Dale vive preso hasta ~9 años antes del Libro I; Manfred lo visita en la cárcel por Walt y le entrega a Kal sus cartas en el Libro II: [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]]. Contraste notorio de personalidades: dos padres opuestos. **PENDIENTE:** qué pasa en ese encuentro y si Corrado ve a Kal niño.
 
 ## La redada y el exilio (CANON DEL AUTOR)
 

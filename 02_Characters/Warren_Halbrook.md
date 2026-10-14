@@ -260,6 +260,8 @@ Poder externo sobre Kal. **Halbrook NO pisa San Aurelio** hasta el último capí
 
 ### *Sombras de Poder* (Libro II) — la observación
 
+> **CANON DEL AUTOR (2026-10-13): H1.** Halbrook cosecha. Conoce a Kal y sabe que no podrá evitar salvar a todos; **filtra a Dario, indirectamente y sin que Dario lo sepa, dónde estará Crowe**, mediante un rumor de calle que sale de [[03_Factions/Los_Bravos_de_Santa_Brigida|Los Bravos]] (mecanismo CANON DEL AUTOR, 2026-10-13). Dario manda a Volpi. La escalada policial de esa noche es su mandato como rostro de la seguridad pública. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] («El final»).
+
 Observa el crecimiento de Kal: `INDIVIDUO → ACTIVO → RED → ORGANIZACIÓN → RIESGO INSTITUCIONAL`, con una fascinación creciente por comprobar hasta dónde llega. No es voyeurismo: es confirmación de una hipótesis. Paralelamente, empieza a entender que San Aurelio tiene poder sin uniforme: beneficencia, juntas, empresarios, prensa, asociaciones, redes cívicas. Su entrada como **nuevo benefactor** (ver "Escenas semilla") es pequeña y legítima; **no presentarla como campaña.** Su llegada física en helicóptero ~~al cierre~~ (ahora al cierre del Libro I, Cap. 50b) significa que **la variable Mercer superó la administración remota.** Entre el 50b y la gala no aparece en prosa.
 
 > **CANON DEL AUTOR (2026-10-12): entrada pública y ascenso institucional.** Detalle en [[98_Agent_Handoff/ChatGPT/2026-10-11_halbrook_benefactor_consultor_ascenso]]; plan en [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].

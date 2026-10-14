@@ -1,6 +1,6 @@
 # Pendientes activos
 
-Actualizado: 2026-10-12. Máximo 800 palabras; las decisiones de fondo van en [[98_Agent_Handoff/BACKLOG]]. Al resolver un pendiente, retirarlo y registrarlo en una nota de sesión. Versión anterior íntegra: [[98_Agent_Handoff/archive/2026-10-06_PENDING]].
+Actualizado: 2026-10-13. Máximo 800 palabras; las decisiones de fondo van en [[98_Agent_Handoff/BACKLOG]]. Al resolver un pendiente, retirarlo y registrarlo en una nota de sesión. Versión anterior íntegra: [[98_Agent_Handoff/archive/2026-10-06_PENDING]].
 
 ## Cierre del Libro I (Caps. 44–50b)
 
@@ -40,7 +40,7 @@ Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Todo 
 ## Apertura de *Sombras de Poder* (Libro II)
 
 - **En espera** hasta cerrar el Libro I. El Cap. 1, «Hogar», está en BORRADOR y cierra en «Fabrizio está muerto».
-- **Cuatro Partes (CANON 2026-10-12):** [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]. **Confirmar:** Villa en la I o la III; piano/F4; la incursión de cocaína y la vela; la mentira de H8; uno o dos robos de joyería. **Decidir:** extensión y desenlace de la investigación nocturna de Kal; afinar el argumento sobre La Mesa; cómo llega Mei-Lin a Varek (hay propuesta de diseño); motivo de Varek con Fabrizio. [[98_Agent_Handoff/sessions/2026-10-12_claude_cuatro_partes_sombras]].
+- **Cuatro Partes (CANON 2026-10-12):** [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]. Confirmado el 2026-10-13: Villa en la I, piano de Chiara para Kal, incursión y vela tras F4, un solo robo (túneles de La Isla, señuelos), el motivo de Fabrizio (iba a hablar) y Mei-Lin como triple agente ([[98_Agent_Handoff/sessions/2026-10-13_claude_confirmaciones_cuatro_partes]]). Segunda ronda: boda (planeación al cierre de la III, boda al abrir la IV), caída de Crowe en la tormenta, Kal duda de todos y Varek le hace más ruido. Quinta ronda: radio «vamos a casa» y velas apagadas; Kal no sospecha del tiro; filtración por rumor de Los Bravos; Amanda, asalto fallido de Crowe que Natalie nunca sabrá. **Decidir:** extensión y desenlace de la investigación nocturna de Kal; final fusionado (Crowe + tormenta + H1; plan, «El final»): confirmar la columna de Crowe por Partes y las bandas propuestas; preguntas abiertas del robo (si Chiara sabe de dónde sale el anillo, la salida por el casino, la ficha de los túneles).
 - **Q24 (movida al Libro II por el autor, 2026-10-08):** qué hace Chiara con la oferta del Monarch (49) y cuándo se entera Dario.
 - **Cobros del Libro I (CANON, 2026-10-08):** "Quiero levantarlo"; la oportunidad que Rowe (madre de Sam) le da a Marisol como parte del favor; North Guard Securitia frente a Eagle Eye. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]].
 - **Aura:** la primera escena en la que alguien entra y casi dice *perdón por mirarlos* ([[06_Relationships/Kal_y_Chiara]], "El aura").

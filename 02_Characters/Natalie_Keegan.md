@@ -493,7 +493,11 @@ Hay un parentesco visible con Walt sin que sea una copia de él.
 
 > **CANON DEL AUTOR (2026-09-26):** **Amanda Keegan**. Murió en un asalto que terminó en homicidio, con Walt ya en prisión y antes de que Jim se fuera del barrio. Walt se enteró adentro. Después de su muerte, Jim se fue ("una cloaca de desgracias") y **[[02_Characters/Hector_Navarro|Héctor]] crió a Natalie** hasta que cumplió 18 y decidió empezar su carrera de paramédica.
 
-> **PARA LA REDACCIÓN DEL LIBRO II — RECORDAR AL AUTOR AL EMPEZAR:** la resolución de la muerte de Amanda. El autor contempla una conspiración detrás del asalto, pero la decide en *Sombras de Poder*. Hasta entonces no inventar lugar, autor, detenidos ni vínculos (Crowe incluido).
+> **RESUELTO EN PARTE (CANON DEL AUTOR, 2026-10-13):** **Silas Crowe mató a Amanda.** Walt lo descubre de forma indirecta, por una frase de Crowe, y lo ejecuta al final de la tormenta de *Sombras de Poder* (ver [[02_Characters/Walter_Keegan]]). ~~Siguen PENDIENTES el motivo, el mecanismo del asalto, si hubo conspiración más amplia y si Natalie llega a saberlo.~~
+>
+> **RESUELTO (CANON DEL AUTOR, 2026-10-13):** fue **un asalto de Crowe que salió mal, en La Almendra**. **Natalie no lo sabe ni lo sabrá:** Walt y Kal se lo ocultan.
+>
+> ~~**PARA LA REDACCIÓN DEL LIBRO II — RECORDAR AL AUTOR AL EMPEZAR:**~~ *(Resuelto el 2026-10-13: asalto que salió mal; se conserva como historial.)* la resolución de la muerte de Amanda. El autor contempla una conspiración detrás del asalto, pero la decide en *Sombras de Poder*. Hasta entonces no inventar lugar, autor, detenidos ni vínculos (Crowe incluido).
 
 ---
 
@@ -553,7 +557,7 @@ Sus apariciones funcionan mejor cuando cumplen una o más de estas funciones:
 
 > **PENDIENTE:** que el autor revise la prosa insertada en el Cap. 3 (BORRADOR).
 
-> **PARA LA REDACCIÓN DEL LIBRO II — RECORDAR AL AUTOR AL EMPEZAR:** la resolución de la muerte de Amanda (posible conspiración).
+> ~~**PARA LA REDACCIÓN DEL LIBRO II — RECORDAR AL AUTOR AL EMPEZAR:** la resolución de la muerte de Amanda (posible conspiración).~~ Resuelto (2026-10-13): asalto de Crowe que salió mal en La Almendra; Natalie no lo sabe ni lo sabrá.
 
 > **DISEÑO (2026-10-03, incubadora validada):** la inversión Walt → Kal es más fuerte porque Kal sí estuvo presente: Walt perdió una década y descubre decisiones que Natalie tomó sin él; Kal habrá protegido bien a Elenna y aun así tendrá que aceptar que eso no le concede decidir qué adulta será. En la tormenta del Libro II, Natalie puede estar en la respuesta oficial mientras Chiara y Camila sostienen la clandestina. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]] ("Incubadora 2026-10-03").
 

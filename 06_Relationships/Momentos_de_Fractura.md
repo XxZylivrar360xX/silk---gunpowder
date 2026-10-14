@@ -208,6 +208,71 @@ Después él le da un beso en la frente. No arregla nada. Sólo deja claro que l
 
 ## F3 - Los frenos
 
+> **CANON DEL AUTOR (reescrita el 2026-10-14).** Reconcilia F3 con el choque vigente ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]], CANON 2026-10-12): Chiara no va en el auto. **El «Te amo» se reubica en la noche en que Kal vuelve golpeado de investigar los frenos, y Chiara no lo oye.** La versión anterior (Chiara grave, paro cardíaco, «Te amo» junto a la cama) queda abajo como historial.
+
+**Función:** primera vez que Kal dice que ama a Chiara, y ella no puede oírlo.
+**Libro y Partes:** *Sombras de Poder*. Abarca la costura entre las Partes II y III: el choque y el armario cierran la II (feb A4) y el «Te amo» cae en la III (feb–mar A4), antes de F2. Capítulos provisionales 37–41 de [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]].
+**Lugares:** Calle Corona, rumbo al Puente de Piedra → [[05_Locations/Hospital_Santa_Aurelia]] → Almendra Towing → las calles del sur, de noche → Villa Candelaria.
+**Quién está detrás:** Varek lo ordena y Volpi corta los frenos, **velado**. La revelación Varek–Volpi se reserva para después; F3 no la adelanta.
+
+### El sabotaje y el choque
+
+Volpi corta los frenos del **Lancia de Chiara** (el sedán discreto de [[03_Factions/Villani_Motors]]; ver la nota de abajo). Chiara se lo había prestado a **Tommaso** porque el auto de él amaneció destrozado por vandalismo en el estacionamiento del casino. En Calle Corona, rumbo al Puente de Piedra, Tommaso pierde el control en un cruce y choca contra el **Audi de Kal**, que maneja **Marisol** (iba a ver a Chiara; desde el Libro I toma el Audi diga Kal que sí o que no). Marisol sale con fractura de tibia; Tommaso, con una lesión en la pierna que lo deja con bastón para siempre. La lectura pública, y la de todos al principio, es que el destino fue el culpable.
+
+### El primer quiebre visible: el armario
+
+Kal llega al hospital por preocupación y sufre un **ataque de pánico**. Chiara se encierra con él en un **armario de suministros médicos** para calmarlo. Es la segunda llamada de atención; la primera fue la del garaje, sin testigos. Esta vez Chiara lo ve. Aquí cierra la Parte II.
+
+### Los frenos
+
+Cuando el Lancia y el Audi llegan a Almendra Towing, Kal ve el depósito del líquido de frenos vacío: manipulado. **La víctima fue Marisol, pero el objetivo era Chiara.** Esa idea es el motor de todo lo que sigue y no lo suelta.
+
+### El «Te amo»
+
+Kal sale de noche a investigar por su cuenta, como matón de calle, y sin avisar. Chiara enciende otra vela tardía frente a la cama vacía. Una de esas noches vuelve golpeado. Chiara lo atiende en silencio, atenta a los golpes y furiosa, con la eficiencia de quien no se permite otra cosa.
+
+Kal lleva todo el día con la idea en la cabeza: los frenos eran para ella. Mientras Chiara está de espaldas en el lavabo, exprimiendo el trapo con el agua corriendo, lo suelta:
+
+> **Te amo.**
+
+**Ella no lo oye.** El lector sí. Chiara vuelve con el trapo y le dice que se quede quieto. Kal no lo repite.
+
+### Por qué importa
+
+Esta frase no compite con H1: la prepara. Mantiene intacta la escalera de [[06_Relationships/Kal_y_Chiara]], donde el primer «te amo» que llega directo al otro es el de Chiara en H1. El de Kal existe, pero no llega.
+
+| | F3 | H1 |
+|---|---|---|
+| Quién está herido | Kal, golpeado en la calle | Kal, con un tiro en el costado |
+| Quién cura | Chiara, de espaldas, con el agua corriendo | Chiara, en el suelo del baño |
+| Quién lo dice | Kal: «Te amo.» | Chiara: «Perché ti amo con tutto il mio cuore.» |
+| ¿Llega? | No: ella no lo oye | Sí: él la oye y no contesta |
+
+La declaración de él se pierde en el ruido del agua; la de ella cae cuando él intenta minimizar un balazo. Las dos escenas se responden con la misma imagen y los papeles invertidos.
+
+### Consecuencias
+
+- Kal desarrolla una necesidad peligrosa de controlar más rutas alrededor de Chiara. La investigación nocturna lo vuelve un Kal más dudoso moralmente (extensión y desenlace: PENDIENTE).
+- Kal arma varios escenarios (La Mesa, la calle, Crowe, otros) y Varek es el que más ruido le hace, sin prueba. Esa sospecha siembra *Voto de Ceniza*. Chiara cree que fue La Mesa.
+- Chiara nota que algo cambió en él aunque no oyó la frase. No sabe qué.
+- Si algún día descubre que él se lo dijo y ella no lo oyó, no debe ser una escena dulce simple: debe dolerle no haber estado ahí para oírlo. Ese cobro no ocurre en *Sombras de Poder*.
+- Tommaso queda con bastón y se encamina a salir de San Aurelio. Chiara le dice que el auto estaba saboteado cuando él decide irse.
+- Quien está detrás deja claro que puede tocar la vida civil, no sólo los negocios.
+
+### Restricciones
+
+- **Ella no lo oye, sin trampa.** El narrador no guiña ni subraya («si lo hubiera oído…»), Kal no lo repite y nadie se lo cuenta en este libro. La escena sigue en POV de Kal o en uno neutro; en POV de Chiara, la frase no puede existir.
+- **No repetir H1 en el lugar.** La curación de F3 no va en el baño de la habitación (DISEÑO: la cocina de la Villa). La rima es de imagen, no de escenario.
+- Kal no se vuelve melodramático: lo suelta como se le escapa algo que lleva cargando, no como discurso. Se quiebra en el armario porque no puede actuar; el «Te amo» sale cansado, no lírico.
+- No repetir el hospital de H12, que fue vigilancia, sospecha y coartada. El de F3 es impotencia y miedo puro.
+- No mostrar a Volpi ni el sabotaje en curso. El lector sabe lo mismo que Kal.
+- El atentado tiene consecuencia de investigación: Kal detecta que no fue una falla común.
+- **No usar F3 para confirmar Varek–Volpi.**
+
+> **RESUELTO (2026-08-28 / ampliado 2026-08-29):** el auto sale de [[03_Factions/Villani_Motors]], concesionario de importación en el que Kal entra con una participación limpia. Es un **sedán Lancia, discreto, nada deportivo**. **La escena de compra es de la Parte I** — un **juego de roles** en el que Kal le vende el coche a Chiara fingiendo ser un desconocido, poco antes de [[06_Relationships/Hitos#H15 — La noche del jacuzzi|La noche del jacuzzi]], y esa misma noche lo comentan en el jacuzzi. El coche lleva **mucho tiempo** con Chiara antes del sabotaje. Ver [[03_Factions/Villani_Motors]].
+
+<details><summary>Versión anterior de F3 (Chiara grave en el auto; supersedida el 2026-10-12 y reescrita el 2026-10-14)</summary>
+
 **Función:** primera vez que Kal dice que ama a Chiara y ella no puede oírlo.
 **Lugar:** carretera urbana o Camino de San Jacinto; después [[05_Locations/Hospital_Santa_Aurelia]].
 **Antagonista probable:** [[03_Factions/Il_Consorzio]], con ejecución local aún por decidir.
@@ -256,17 +321,20 @@ La primera declaración de él se pierde en un cuarto de hospital. La declaraci�
 - No salvarla por milagro abstracto: médicos, tiempo, daño físico y secuelas deben pagar la escena.
 - El atentado de los frenos necesita consecuencia de investigación: Camila, la policía, Kal o Chiara deben detectar que no fue falla común.
 
-> **RESUELTO (2026-08-28 / ampliado 2026-08-29):** el auto sale de [[03_Factions/Villani_Motors]], concesionario de importación en el que Kal entra con una participación limpia. Es un **sedán Lancia, discreto, nada deportivo**. **La escena de compra es de la Parte I** — un **juego de roles** en el que Kal le vende el coche a Chiara fingiendo ser un desconocido, poco antes de [[06_Relationships/Hitos#H15 — La noche del jacuzzi|La noche del jacuzzi]], y esa misma noche lo comentan en el jacuzzi. El coche lleva **mucho tiempo** con Chiara antes del sabotaje. Ver [[03_Factions/Villani_Motors]].
 
-> **POSICIÓN VIGENTE — CANON DEL AUTOR 2026-09-20:** F3 ocurre en Parte V después de F4; el incendio ya cerró Parte IV. Se conserva el contenido de F3, con H6 y convivencia anteriores. Forma parte de la escalada anterior a F2; distancia precisa F4 → F3 → F2 pendiente. La cadena F4 → F3 → incendio queda **SUPERSEDIDA**.
+> **POSICIÓN ANTERIOR (supersedida) — CANON DEL AUTOR 2026-09-20:** F3 ocurre en Parte V después de F4; el incendio ya cerró Parte IV. Se conserva el contenido de F3, con H6 y convivencia anteriores. Forma parte de la escalada anterior a F2; distancia precisa F4 → F3 → F2 pendiente. La cadena F4 → F3 → incendio queda **SUPERSEDIDA**.
 >
 > **DISEÑO:** F3 y el incendio de H8 golpean desde pasados distintos (Il Consorzio / Chiara y Crowe / Kal); ya no forman un bloque consecutivo en ese orden. Mecanismos no resueltos permanecen abiertos.
+
+</details>
 
 ---
 
 ## F4 - Año Nuevo en Washington
 
-**CANON DEL AUTOR — 2026-09-26 (manda sobre lo de abajo):** vuelve la noche **separada** y F4 ocurre **antes** del incendio del loft (Libro II, entre Navidad y el incendio, que llega días después). Kal viaja a Washington para pagar la deuda de los papeles de Nadir: Anya lo cita con el pretexto de un **programa de apoyo a veteranos** para readaptarse a la vida civil (patrón: muchos fueron subordinados de [[02_Characters/Warren_Halbrook]]), en realidad para pasar tiempo con él; Kal sólo la ayuda con el trabajo. Chiara va a la fiesta de fin de año del Monarch, se emborracha y termina sola en el penthouse. Kal, en el hotel, le da vueltas al collar RETORNA A CASA, hace las maletas y vuelve esa misma noche **en auto**; por eso tarda y no está en su cumpleaños. Llegan distanciados desde Bellandi Ridge (ella iba a irse a Nueva York y nunca subió al avión). El 1 de enero Chiara lo pasa deprimida viendo películas; el 2 se despierta de la cruda moral y recibe el regalo de Kal: **un piano de pared**, dejado por error en el penthouse y no en el loft, y que por eso **se salva del incendio**. Kal llega la noche del 2 de enero al penthouse y la encuentra sin maquillar, con un chongo improvisado: la primera vez en la saga que a Chiara no le importa su imagen. Detalle en [[02_Characters/Anya_Voronina]]. Todo lo marcado abajo como "juntos y desplazados" o "SUPERSEDIDO: la noche separada" queda a su vez **SUPERSEDIDO**.
+> **CANON DEL AUTOR (2026-10-13):** F4 va ahora **después** del incendio, en la Parte II ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]). **El piano lo compra Chiara para el cumpleaños de Kal** (1 de enero), y lo espera en el penthouse, donde ella pasa del 31 al 2. Queda superado que fuera un regalo de Kal entregado por error y salvado del fuego. Lo demás de la noche separada sigue vigente. La incursión de la que nace la vela va después de F4 y antes del choque.
+
+**CANON DEL AUTOR — 2026-09-26 (manda sobre lo de abajo):** vuelve la noche **separada** y F4 ocurre **antes** del incendio del loft (Libro II, entre Navidad y el incendio, que llega días después). Kal viaja a Washington para pagar la deuda de los papeles de Nadir: Anya lo cita con el pretexto de un **programa de apoyo a veteranos** para readaptarse a la vida civil (patrón: muchos fueron subordinados de [[02_Characters/Warren_Halbrook]]), en realidad para pasar tiempo con él; Kal sólo la ayuda con el trabajo. Chiara va a la fiesta de fin de año del Monarch, se emborracha y termina sola en el penthouse. Kal, en el hotel, le da vueltas al collar TORNA A CASA, hace las maletas y vuelve esa misma noche **en auto**; por eso tarda y no está en su cumpleaños. Llegan distanciados desde Bellandi Ridge (ella iba a irse a Nueva York y nunca subió al avión). El 1 de enero Chiara lo pasa deprimida viendo películas; el 2 se despierta de la cruda moral y recibe el regalo de Kal: **un piano de pared**, dejado por error en el penthouse y no en el loft, y que por eso **se salva del incendio**. Kal llega la noche del 2 de enero al penthouse y la encuentra sin maquillar, con un chongo improvisado: la primera vez en la saga que a Chiara no le importa su imagen. Detalle en [[02_Characters/Anya_Voronina]]. Todo lo marcado abajo como "juntos y desplazados" o "SUPERSEDIDO: la noche separada" queda a su vez **SUPERSEDIDO**.
 
 **Versión anterior (SUPERSEDIDA 2026-09-26) — CANON DEL AUTOR 2026-09-20:** F4 abre **Parte V — Exilio**, después del incendio que cierra IV, antes de F3 y de Villa Candelaria. Es el cambio de año y cumpleaños de Kal, **1 de enero**. Kal y Chiara lo pasan **solos, juntos y desplazados**. Todavía tienen al otro, pero perdieron el lugar.
 
@@ -309,6 +377,8 @@ La petición inicial no es todavía la forma final de H1, pero ya contiene su se
 >
 > que vuelva.
 
+> **SUPERSEDIDO (CANON DEL AUTOR, 2026-10-13):** la vela nace en dos tiempos (incursión y Lunar Pearl), cada una con su oración en italiano. Ver [[04_Concepts/Fe_y_Velas]], «Dos tiempos».
+
 ### La escena de Noruega (antes "día de campo")
 
 > **CANON DEL AUTOR (2026-09-26):** ya no hay día de campo; la escena ocurre en **Noruega**. **Resuelto (2026-09-26):** es la escena de Stavanger, la de la propuesta.
@@ -345,7 +415,7 @@ La escena es bonita porque no borra la fractura. La contesta. Kal no le está di
 | --- | --- | --- |
 | 1 | **F1 - La mentira bajo la lluvia** | Primera fractura de confianza: Chiara miente sobre su investigación de la salida de Matteo |
 | 2 | **F4 - Año Nuevo en Washington** | Noche separada (Washington / Monarch), antes del incendio; deuda con Anya, piano, nacimiento de la vela (canon 2026-09-26) |
-| 3 | **F3 - Los frenos** | Kal enfrenta perderla y dice "te amo" sin ser oído |
+| 3 | **F3 - Los frenos** | Choque de Tommaso y Marisol en el Lancia de Chiara; Kal en el armario; vuelve golpeado de investigar y dice «Te amo» sin que ella lo oiga (reescrita 2026-10-14) |
 | 4 | **F2 - El destierro de Bonnie y la muerte de Mei-Lin** | Fractura moral: el ascenso exige una pérdida irreversible |
 
 > **REORDENADO (2026-09-20, segunda corrección del autor el mismo día):** F1 vuelve a ser la primera fractura del libro (restaurando en lo esencial el orden 2026-08-29), pero ahora ocurre **dentro de la Parte III**, no antes de H21 — ver nota de posición en la sección de F1, arriba. El orden intermedio de esta misma fecha (F4 → F3 → F1 → F2, con F1 al final) queda sustituido por este.

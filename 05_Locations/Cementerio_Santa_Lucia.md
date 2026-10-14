@@ -20,6 +20,7 @@ No es un lugar de escena melodramatica. Es un lugar de rutina: gente que limpia 
 - **Cap. 20 (el mirador):** Kal le cuenta a Chiara que ese dia le dejo a Ruth una rosa blanca y que la lapida de Dale, al lado, no la toco.
 - **Cap. 25:358:** la tercera hilera, la del cipres flaco, es la de Michael; Kal pasaba de largo cada vez que iba a ver a su madre.
 - **Cap. 31:** despues de llorarlo (Cap. 25), Kal vuelve por fin a la tumba de Michael, camino al lago, con flores blancas y con Chiara como resguardo. Ella solo le oye "Marisol esta bien" y se aparta. Al pie hay flores secas con una liga morada: Marisol si venia.
+- ***Sombras de Poder*, Parte IV (CANON DEL AUTOR, 2026-10-14):** Kal vuelve a la tumba de Dale, por primera vez la toca y le devuelve las cartas que Dale le escribió desde la cárcel, antes de Stavanger. Ver [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]].
 - El Cap. 1 ya no tiene cementerio (antes: visita a Michael con las dos cervezas, la rosa para Ruth y Dale sin tocar; retirado 2026-10-08).
 
 ## Regla de escritura

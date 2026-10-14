@@ -35,13 +35,15 @@ No importa si estaba vestida para una cena, revisando una nota, preparando una v
 3. pide que Dios lo cuide;
 4. pide que lo traiga a casa.
 
+**Idioma (CANON DEL AUTOR, 2026-10-13):** Chiara reza siempre en italiano. Las glosas en español son referencia del vault y no van en la prosa.
+
 La oración no necesita escribirse completa cada vez. La frase interna del ritual es:
 
-> **Dios, cuídalo y tráelo a casa.**
+> **«Dio, proteggilo e riportalo a casa.»** (Dios, cuídalo y tráelo a casa.)
 
 **Esto no es superstición.** Para Chiara, la vela no garantiza nada. La vela es su manera de no fingir que no tiene miedo.
 
-> **El nombre (CANON DEL AUTOR, 2026-10-02):** desde la primera vela, junto a la oración Chiara escribe un nombre en cursiva en su papel de canela y vainilla, cada vez que Kal sale y corre riesgos. El texto nunca muestra la palabra (es Elenna). Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "El nombre en cursiva".
+> **El nombre (CANON DEL AUTOR, 2026-10-02; ampliado 2026-10-13: el tic empieza antes, en la Parte I, en momentos de tensión suyos):** desde la primera vela, junto a la oración Chiara escribe un nombre en cursiva en su papel de canela y vainilla, cada vez que Kal sale y corre riesgos. El texto nunca muestra la palabra (es Elenna). Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "El nombre en cursiva".
 
 ### Origen
 
@@ -59,11 +61,22 @@ La primera vela no nace de una escena limpia ni tranquila. Nace de impotencia, d
 >
 > que vuelva.
 
+> **SUPERSEDIDO para la primera vela (CANON DEL AUTOR, 2026-10-13):** la vela tardía no pide protección; agradece un regreso que ya ocurrió. Las dos oraciones de nacimiento están en «Dos tiempos». La tríada de arriba queda como semilla de diseño, no como texto de escena.
+
 Con el tiempo, la petición se concentra:
 
-> **Dios, cuídalo y tráelo a casa.**
+> **«Dio, proteggilo e riportalo a casa.»** (Dios, cuídalo y tráelo a casa.)
 
 **Regla:** la primera vela debe escribirse con la herida todavía abierta. Si parece un ritual bonito desde el principio, está mal.
+
+### Dos tiempos — CANON DEL AUTOR (2026-10-13)
+
+El ritual nace en dos tiempos, separados por dos o tres semanas de enero del año 4 ([[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]]).
+
+1. **La vela tardía (incursión, principios de enero).** Con F4 todavía abierta, Kal sale a la incursión para Dario **sin avisarle**. Vuelve y le cuenta el coche en la bahía y la noche escondido. Chiara enciende la primera vela **después**, por un peligro que ya pasó: reza tarde, por una noche que ya no puede cambiar. Es la primera vez que escribe el nombre junto a una vela (ya lo escribía en sus momentos de tensión desde la Parte I: CANON DEL AUTOR, 2026-10-13). **Oración (CANON DEL AUTOR, 2026-10-13), en italiano:** «Dios, gracias por devolverlo a casa.» → *«Dio, grazie per averlo riportato a casa.»* **Kal la ve hacerlo y no sabe qué decir.** Ella no le pide que deje de salir; lo que le duele es que no le avisó. Si eso queda en silencio o en una sola línea suya (del tipo «La próxima vez, dímelo antes»), lo decide el autor.
+2. **La vela a tiempo (robo de Lunar Pearl, fines de enero).** Por primera vez Kal llama **antes**: «Estamos a punto de comenzar, deséame suerte.» / «Te encenderé una vela, y Kal… Cuídate mucho ¿Sí?». Es su respuesta a la incursión, sin decirlo. Es la primera vez que ella lo dice en voz alta. El capítulo cierra con Chiara encendiendo la vela y rezando en el penthouse. **Oración (CANON DEL AUTOR, 2026-10-13), en italiano:** «Dios, ve que vuelva a casa… y que no haga algo tonto, te encargo más lo segundo.» → *«Dio, fa' che torni a casa… e che non faccia niente di stupido. Ti raccomando soprattutto la seconda.»* Desde ahí, el ritual tiene su forma: **se enciende antes, no después.** Ver [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Robo_Joyeria]].
+
+Después se repite sin explicarse hasta H1. La vela de Kal queda para la noche de H1 (ver «El ritual de Kal»).
 
 ---
 
@@ -79,11 +92,13 @@ No hace discursos. No negocia con Dios. No promete volverse otro hombre si sale 
 
 **Función narrativa:** es una de las pocas formas limpias de mostrar que Kal está aterrado sin obligarlo a decirlo.
 
+> **CANON DEL AUTOR (2026-10-13): la primera vela de Kal es la noche de H1.** Antes del movimiento final de *Sombras de Poder* (la caída de Crowe en la tormenta), Kal va solo a la iglesia, enciende una vela y se sienta en una banca a observar el altar y el Cristo en la cruz; esto va antes de que Chiara encienda la suya. Es un tiempo aparte: la llamada de Chiara («Dime, Amore») ocurre después, en medio del movimiento, con Kal acorralado. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] («El final»).
+
 ---
 
 ## Relación con el collar
 
-El collar de **RETORNA A CASA** no reemplaza la vela. La vuelve portátil.
+El collar de **TORNA A CASA** no reemplaza la vela. La vuelve portátil.
 
 La vela es lo que Chiara hace cuando él se va.
 
@@ -142,8 +157,8 @@ La vela existe en ese hueco.
 
 > **RESUELTO DE DISEÑO (2026-08-23):** la primera vela nace después de F4, el Año Nuevo en Washington. Ver [[06_Relationships/Momentos_de_Fractura]].
 
-> **PENDIENTE:** decidir cuál es la primera vez que Kal la ve hacerlo y no sabe qué decir.
+> **RESUELTO (CANON DEL AUTOR, 2026-10-13):** la primera vez que Kal la ve hacerlo y no sabe qué decir es la vela tardía de la incursión (ver «Dos tiempos»).
 
-> **PENDIENTE:** decidir por qué operación Kal va personalmente a la iglesia antes de salir, si ocurre antes de H1 o como presagio de H1.
+> ~~**PENDIENTE:** decidir por qué operación Kal va personalmente a la iglesia antes de salir, si ocurre antes de H1 o como presagio de H1.~~ **RESUELTO (CANON DEL AUTOR, 2026-10-13):** antes del movimiento final que da origen a H1 (ver «El ritual de Kal»).
 
 Ver también: [[06_Relationships/Kal_y_Chiara]] · [[06_Relationships/Hitos]] · [[05_Locations/Iglesia_Santa_Lucia]]

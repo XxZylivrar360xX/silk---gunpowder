@@ -37,6 +37,8 @@ En Santa Brígida, esa lógica puede sonar razonable hasta que alguien no puede 
 
 Dario los tolera como herramienta de presión. Si necesita que una amenaza parezca callejera y no orden suya, Los Bravos son una opción natural.
 
+> **CANON DEL AUTOR (2026-10-13):** en *Sombras de Poder*, la filtración de Halbrook sobre dónde estará Crowe la noche de la tormenta (H1) le llega a Dario como **rumor de calle que sale de Los Bravos**. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] («El final»).
+
 También son los primeros que podría liquidar si necesita demostrar que nadie se sale del clima que él permite.
 
 ---

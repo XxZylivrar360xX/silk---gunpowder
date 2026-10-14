@@ -260,7 +260,7 @@ Chiara descubre despues que el la vio y se quedo.
 
 Eso es intimidad accidental: ser visto sin haber decidido mostrarse, y no ser castigado por eso.
 
-**Regla:** *Descansa, bella* no reemplaza ningun ritual mayor. No compite con *Retorna a casa*. Es una frase domestica de una noche, valiosa porque no necesita convertirse en lema.
+**Regla:** *Descansa, bella* no reemplaza ningun ritual mayor. No compite con *Torna a casa*. Es una frase domestica de una noche, valiosa porque no necesita convertirse en lema.
 
 ---
 

@@ -2,7 +2,9 @@
 
 ## Hogares, pérdidas y futuro — CANON DEL AUTOR 2026-09-20
 
-Loft: hogar descubierto y construido por ambos → Navidad/collar en IV (**RETORNA A CASA**, inscripción intacta) → **F4 separados (Kal en Washington, Chiara en el Monarch), piano de pared, antes del incendio** [canon 2026-09-26] → incendio cierra IV → F3 → F2: Mei-Lin muere y Bonnie se va **el mismo día** → Villa Candelaria como reconstrucción conjunta → Stavanger/anillo, todavía en V → embarazo/H1/reveal en VI, familia futura. No hay otros Tres Días después de Camp Alder.
+Loft: hogar descubierto y construido por ambos → Navidad/collar en IV (**TORNA A CASA**, inscripción intacta) → **F4 separados (Kal en Washington, Chiara en el Monarch), piano de pared, antes del incendio** [canon 2026-09-26] → incendio cierra IV → F3 → F2: Mei-Lin muere y Bonnie se va **el mismo día** → Villa Candelaria como reconstrucción conjunta → Stavanger/anillo, todavía en V → embarazo/H1/reveal en VI, familia futura. No hay otros Tres Días después de Camp Alder.
+
+> **SUPERSEDIDO (CANON DEL AUTOR, 2026-10-12/13):** el orden de arriba es historial. Ahora el incendio y Villa Candelaria van en la Parte I, y Navidad/collar y F4 en la Parte II. **El piano lo compra Chiara para el cumpleaños de Kal** y lo espera en el penthouse. La vela nace en la incursión posterior a F4. Manda [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].
 
 Después de F2, Kal intenta construir algo bueno junto a lo que no sabe reparar: casa, tiempo, experiencias, pequeñas alegrías y futuro. La felicidad nueva no elimina la pérdida vieja. **La sobrecompensación crea el espacio; la propuesta nace de claridad, no de culpa.** No compra olvido ni convierte a Chiara en Mercer. Noruega también es salida que Kal necesita; exilio voluntario, no terapia.
 
@@ -311,7 +313,7 @@ Chiara es católica devota. Kal no comparte la fe con la misma naturalidad, pero
 
 Cada vez que él sale a "trabajar", ella enciende una vela. La petición es simple:
 
-> **Dios, cuídalo y tráelo a casa.**
+> **«Dio, proteggilo e riportalo a casa.»** (Dios, cuídalo y tráelo a casa.)
 
 Este ritual no compite con el collar. Lo sostiene.
 
@@ -335,11 +337,11 @@ Es la demostración más limpia de la frase de H3: **Kal es el único que la ve 
 
 Ver [[04_Concepts/Quien_Decide_Quien_Soy]] y [[06_Relationships/Hitos]], H4.
 
-### CANON — *Retorna a casa*
+### CANON — *Torna a casa*
 
 **El ritual del libro es un objeto.** Un collar con una placa de oro grabada:
 
-> **RETORNA A CASA**
+> **TORNA A CASA**
 
 Regalo de la primera Navidad que pasaron juntos. El mensaje, dicho sin decirse: **ella siempre lo va a estar esperando después de las "misiones" de su organización.**
 
@@ -349,13 +351,13 @@ Ese objeto convive con otro ritual más viejo y más silencioso: **la vela.** Ca
 
 Kal lo lleva puesto. El gesto de ella — la mano en el pecho antes de que él salga — **no es ternura genérica: es tocar la placa.** Por eso es en el pecho y no en la cara. La escena de despedida de [[06_Relationships/Hitos]] (H1, movimiento 1) es la repetición número no-se-sabe-cuántas de ese gesto, y funciona porque el lector ya lo vio muchas veces.
 
-**Y en H1 él lleva el collar puesto en la piscina**, desangrándose, con una placa de oro sobre el pecho que dice *retorna a casa*, obedeciéndola. Nadie tiene que señalarlo.
+**Y en H1 él lleva el collar puesto en la piscina**, desangrándose, con una placa de oro sobre el pecho que dice *torna a casa*, obedeciéndola. Nadie tiene que señalarlo.
 
 ### La casa de tres — embarazo, guerra y salida (CANON DEL AUTOR, 2026-08-31)
 
 H1 ocurre durante Parte VI del Libro I. Antes de que Kal salga, Chiara ya confirmó que está embarazada y él todavía no lo sabe. Ella planea contárselo cuando vuelva; espera unas horas porque quiere que la noticia les pertenezca en casa, no porque esté administrando un secreto prolongado.
 
-Cuando Chiara dice *Retorna a casa*, Kal entiende **los dos** y ella sabe **los tres**. Cuando él se desangra diciendo que sólo quiere llegar a casa porque lo esperan, ya está luchando por volver hasta Elenna sin conocer su existencia. Ninguna de esas lecturas se verbaliza en prosa.
+Cuando Chiara dice *Torna a casa*, Kal entiende **los dos** y ella sabe **los tres**. Cuando él se desangra diciendo que sólo quiere llegar a casa porque lo esperan, ya está luchando por volver hasta Elenna sin conocer su existencia. Ninguna de esas lecturas se verbaliza en prosa.
 
 La respuesta del baño no cambia. Chiara no usa el embarazo para responder *¿por qué siempre te preocupas tanto?*; dice *Perché ti amo con tutto il mio cuore* porque ama a Kal por ser Kal. El reveal ocurre después de H1, cuando él está fuera de peligro y vuelve cierta normalidad doméstica.
 
@@ -491,6 +493,8 @@ Lo que Kal y Chiara se permiten decir sube en cuatro peldaños, cada uno más ca
 
 Los cuatro peldaños quedan encadenados: H21 (peldaño 1) → F1 (peldaño 2) → monólogo con Dios (peldaño 3) → H1 (peldaño 4).
 
+> **ENTRE PELDAÑOS — el «Te amo» de F3 (CANON DEL AUTOR, 2026-10-14).** En *Sombras de Poder*, Parte III, Kal vuelve golpeado de investigar los frenos y, mientras Chiara lo cura de espaldas en el lavabo con el agua corriendo, dice «Te amo.». **Ella no lo oye.** No es peldaño, porque no llega: la escalera mide lo que se atreven a decirse, y ésta se dice sin que el otro la reciba. H1 sigue siendo el primer «te amo» que llega directo al otro. Ver [[06_Relationships/Momentos_de_Fractura#F3 - Los frenos]].
+
 > **Versión histórica (2026-09-10, ya no vigente):** tenía sólo tres peldaños de Kal, en el orden F1 → H21 → H1, porque F1 estaba fijada "inmediatamente antes de H21". Sustituida por el adelanto de H21 al cierre de la Parte II.
 
 ### Por qué "Mi pareja" puede ir antes de "estoy enamorado" — no es un error de orden
@@ -562,7 +566,7 @@ En *Sombras de Poder* la relación deja de ser el conflicto dominante y pasa a s
 - Pueden operar separados y seguir siendo unidad. Cada noche vuelven a Villa Candelaria como lugar seguro del otro.
 - Kal vuelve herido varias veces; Chiara sutura lo menor. Lo grave va con médico.
 - Cuidado recíproco: vino, comida o masaje de pies cuando ella llega saturada; a veces sólo trabajan cada uno en lo suyo y se dan las buenas noches.
-- **"Dime, Amore":** en la tormenta, Kal contesta así la llamada de Chiara. **Es la única vez en toda la saga que él la llama "Amore".** No se repite ni se explica. (Chiara sí usa "amore" y "amore mio"; la unicidad es sólo de Kal.)
+- **"Dime, Amore":** en la tormenta (la operación de la caída de Crowe, Parte IV; CANON 2026-10-13), Kal contesta así la llamada de Chiara. **Es la única vez en toda la saga que él la llama "Amore".** No se repite ni se explica. (Chiara sí usa "amore" y "amore mio"; la unicidad es sólo de Kal.)
 - La radio como indicador de vida durante el triaje; cierre con la hamburguesa doble.
 
 ## Lecturas editoriales para vigilar — DISEÑO (2026-10-03)

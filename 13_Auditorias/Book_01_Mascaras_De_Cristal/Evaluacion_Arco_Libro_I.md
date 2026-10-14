@@ -213,7 +213,7 @@ Resultado de cruzar el Libro I con [[00_Biblia/00_Trilogy_Structure]] y [[01_Tim
 | **Tommaso** | Muy sembrado | Sin laguna. |
 | **Volpi** | 35, 41 | Suficiente. |
 | **Loft como hogar vivido** (para que el incendio duela) | 10, 36 | Bien. Conviene que 36–43 muestren rutina doméstica, no sólo espacio. |
-| **Collar "Retorna a casa"** | No aparece | Nace en la Navidad del Libro II. No hace falta sembrarlo, aunque "casa" como palabra de los dos se puede cargar en el 44. |
+| **Collar "Torna a casa"** | No aparece | Nace en la Navidad del Libro II. No hace falta sembrarlo, aunque "casa" como palabra de los dos se puede cargar en el 44. |
 | **Anya / F4** | Diseño 5-bis (recuerdo en el 3, llegada en el 36–37) | **Actualizado 2026-09-26:** F4 vuelve a ser separada y antes del incendio; ficha de Anya actualizada y deuda encajada (programa de veteranos). |
 | **Stavanger / Noruega** | Cap. 25 | Existe. Verificar que la mención no gaste lo que el Libro II cobra. |
 | **Quién sacó a Kal / Halbrook** | 44 (apagón) | Correcto: es la pregunta con la que abre el Libro II. |

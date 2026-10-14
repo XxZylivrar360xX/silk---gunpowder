@@ -30,7 +30,7 @@ Un chico parado en su calle, cargando algo que no entiende, para gente que tampo
 
 **Efecto sobre la relación:** primer roce real de valores, no de trabajo — y se resuelve *bien*, lo cual es casi más raro que si se hubiera resuelto mal. Ocurre ya después del penthouse, con la relación un poco más asentada, así que siembra confianza de fondo sin que ninguno de los dos lo llame así todavía. Y deja, además, una promesa pendiente explícita en el diálogo — no sólo una intuición muda de Kal.
 
-**El pago — reservado, información parcial del autor:** el significado de "Roma Atrii" se paga mucho después, el día del cumpleaños de Chiara — **23 de noviembre** (dato del autor, 2026-08-26; antes de [[06_Relationships/Kal_y_Chiara]], "CANON — *Retorna a casa*", la primera Navidad juntos). Detalle todavía por confirmar en una futura conversación con el autor — el agente no debe inventar cómo ni qué exactamente se revela ese día.
+**El pago — reservado, información parcial del autor:** el significado de "Roma Atrii" se paga mucho después, el día del cumpleaños de Chiara — **23 de noviembre** (dato del autor, 2026-08-26; antes de [[06_Relationships/Kal_y_Chiara]], "CANON — *Torna a casa*", la primera Navidad juntos). Detalle todavía por confirmar en una futura conversación con el autor — el agente no debe inventar cómo ni qué exactamente se revela ese día.
 
 **Consecuencia dura para el mundo:** Chiara deja de usar menores como *sussurri* o mensajeros. Regla fija a partir de aquí — ver [[03_Factions/Red_Civil_de_Chiara]].
 

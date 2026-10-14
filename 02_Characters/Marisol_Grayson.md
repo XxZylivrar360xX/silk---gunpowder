@@ -186,7 +186,7 @@ Su sarcasmo lo aprendió de Kal por convivencia, pero no lo imita: en ella es m�
 
 ## Preguntas abiertas
 
-> **PENDIENTE:** edad exacta y universidad. **(Borrador Cap. 15: veinte años; universidad sin nombrar, a un par de horas de San Aurelio. A confirmar o ajustar por el autor.)** Carrera ya resuelta (2026-08-29): derecho, a seis meses de las estadías.
+> **Universidad (CANON DEL AUTOR, 2026-10-13):** es la **Universidad Ashcombe**, a unos minutos al norte de San Aurelio (ni ciudad vecina ni Portland; historia en [[05_Locations/Norte_Rural_de_San_Aurelio]]); supersede «a un par de horas» del borrador del Cap. 15. Graduación: [[07_Ideas/La_Graduacion_De_Marisol]], donde se le presenta Rivers & Krane. **PENDIENTE:** edad exacta (borrador Cap. 15: veinte años). Carrera ya resuelta (2026-08-29): derecho, a seis meses de las estadías.
 
 > **Madre (CANON DEL AUTOR, 2026-10-12):** **Julliete Grayson**. Hasta nuevo aviso es la madre que se fue; su historia está reservada para el Libro V, *Juramento de Hierro* ([[11_Books/Book_05_Juramento_De_Hierro/00_Book_Map]]). En los Libros I–IV, Marisol "no tiene padres": no explicar a dónde ni por qué se fue.
 

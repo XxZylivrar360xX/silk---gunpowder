@@ -35,5 +35,6 @@ Aliado orgánico: es propiedad de Kal.
 ## Preguntas abiertas
 
 > **PENDIENTE:** cuándo y cómo se forma (¿Libro II?), y cómo convence Kal a Rivers.
-> **PENDIENTE:** en qué libro entra Marisol y en qué escena le ofrece Kal ser socia nominal.
+> **Entrada de Marisol (2026-10-13; dirección del autor, conversación en DISEÑO):** se le presenta el bufete en la noche de su graduación, en *Sombras de Poder*, Parte I ([[07_Ideas/La_Graduacion_De_Marisol]]). Ya existe, en las torres de La Isla. Pone como condición entrar por entrevista con Krane, como cualquiera; Kal promete no llamar (ya había llamado). Implica que el bufete se forma antes de sep–oct A3.
+> **PENDIENTE:** en qué escena le ofrece Kal ser socia nominal.
 > Plan anterior retirado: [[97_Supersedido/Marisol_Abogada_Principal_Del_Bufete]].
