@@ -6,6 +6,8 @@ En Parte V, **el mismo día del destierro de Bonnie**, antes de Villa y Stavange
 
 Valora a Kal, quiere a Bonnie y encuentra hogar en La Almendra, pero teme más a Varek de lo que confía en la protección de Kal. **Los quería + los traicionó + tenía miedo.** La convivencia con Bonnie construye amistad real por horarios, barrio, autos, casa y rutinas; no fueron necesariamente mejores amigas al aparecer.
 
+> **CANON DEL AUTOR (2026-10-14) — la coartada de Bonnie.** Para cubrir la filtración a Varek, Mei-Lin le pide a Bonnie una coartada. Bonnie sabe que miente por ella, pero no sabe qué está cubriendo. La traición es sólo de Mei-Lin; la coartada arrastra a Bonnie y el barrio pide las dos cabezas. Ver [[02_Characters/Bonnie_Garcia]] y [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Bonnie y la muerte de Mei-Lin|F2]]. **PENDIENTE:** qué favor exacto pide y con qué explicación aparente (creíble para Bonnie sin volverla ingenua). **DISEÑO, no canon:** la lealtad de Lunar Pearl (no le cuenta el plan a Varek) y la filtración posterior por miedo son la misma persona: capaz de lealtad auténtica y de un error grave. Su historia no debe reducirse a mecanismo para sacar a Bonnie del tablero.
+
 > **PENDIENTE antes de redactar F2:** información exacta, frecuencia, daño y hecho que delata la filtración. La cadena autoral Tommaso/Varek se conserva; no adelantar la revelación concluyente Varek–Volpi de Libro III.
 
 *Seda y Pólvora — Ficha de Personaje*

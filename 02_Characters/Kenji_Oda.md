@@ -70,6 +70,8 @@ Si alguien lo intercepta antes de que llegue a Chiara, ve basura: unas palabras 
 
 > **PENDIENTE:** cómo se conocen, cuándo empiezan a salir, hitos concretos de ambos libros, cuánto sabe Marisol de i Sussurri y reacciones de cada personaje tras Santa Lucía. No quedan fijados culpabilidad, reproches, ruptura con los protagonistas ni una respuesta de venganza.
 
+> **Numeración y Bonnie (nota 2026-10-14):** el noviazgo cruza el Libro I, *Sombras de Poder* (II) y *Voto de Ceniza* (III). **CANON DEL AUTOR 2026-10-14:** el sentimiento sin nombre de Bonnie por Marisol en el Libro II no interfiere con esta relación, que sigue siendo auténtica. Pauta (DISEÑO): Kenji nunca es el obstáculo ni el novio que debía morir. Cuando Roberta vuelve, asume la posición directiva de Chiara, no el puesto de Kenji (CANON DEL AUTOR 2026-10-14). Ver [[06_Relationships/Bonnie_y_Marisol]].
+
 ---
 
 ## Administrador hotelero — CANON DEL AUTOR (2026-10-03)

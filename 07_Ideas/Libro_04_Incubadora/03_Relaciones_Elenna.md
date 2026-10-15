@@ -119,6 +119,10 @@ Bonnie:
 
 Diseño fuerte, no canon cerrado.
 
+### Bonnie y Marisol entre sí
+
+> **CANON DEL AUTOR (2026-10-14):** en el V, Elenna es la constante que multiplica la convivencia entre Bonnie y Marisol; cada una la cuida como hermanita elegida, sin ser hermanas entre sí. Su arco afectivo, la frase de Bonnie a Erin y la idea, descartada el 2026-10-14, de cambiar el género de Erin están en [[06_Relationships/Bonnie_y_Marisol]]. Erin sigue como está.
+
 ---
 
 ## Kal Mercer
@@ -232,6 +236,8 @@ Chiara santigua a Elenna antes de subir al avión.
 ---
 
 ## Erin Reyes
+
+> **CANON DEL AUTOR (2026-10-14):** Erin **sigue siendo mujer**; se descarta el cambio a varón. El eco con Bonnie–Marisol es intencional y se diferencia por textura: Elenna–Erin es joven, nace de la crisis y es protagónica; Bonnie–Marisol es adulta, lenta y secundaria. El equilibrio del reparto de V–VII se compensa en el **semielenco de la comisaría** (por diseñar; ver [[07_Ideas/Libro_04_Incubadora/08_Pendientes_De_Autor#Elenco de la comisaría]]).
 
 > **CANON DEL AUTOR (2026-09-16):** nueva amiga civil de Elenna, anterior a la academia — no es policía. Verificado sin colisión con `02_Characters/`.
 

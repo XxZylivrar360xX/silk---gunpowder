@@ -4,7 +4,11 @@
 
 ## El día de F2 — CANON DEL AUTOR 2026-09-20
 
-Kal la destierra **el mismo día que Nadir ejecuta a Mei-Lin**. No hay intervalo de días ni semanas; salir de San Aurelio ese día no implica completar la ruta a Italia ese mismo día. Su conflicto propio sigue **PENDIENTE**: no inventarlo para acomodar a Elenna.
+Kal la destierra **el mismo día que Nadir ejecuta a Mei-Lin**. No hay intervalo de días ni semanas; salir de San Aurelio ese día no implica completar la ruta a Italia ese mismo día. Su conflicto propio no se inventa para acomodar a Elenna.
+
+> **CANON DEL AUTOR (2026-10-14) — la coartada y la confesión.** Bonnie le da una coartada a Mei-Lin **sabiendo que miente**, pero **sin saber que cubre una filtración a Varek**. La traición es de Mei-Lin; Bonnie no es cómplice consciente, pero queda pareciendo culpable y el barrio pide la cabeza de las dos. Cuando entiende lo que pasó, **va por su cuenta con Kal y confiesa que mintió**, antes de que la acorralen; no se presenta como impecable y no consigue limpiar su nombre del todo. **Kal la deja vivir porque Chiara la quiere**: excepción personal, no absolución. Su propia mentira también pesa sobre ella. **Segunda ronda (CANON 2026-10-14):** antes de ir con Kal se lo cuenta a Chiara, que no puede contener las lágrimas porque entiende lo que acaba de pasarle; la confesión la salva ante Kal y la condena ante el barrio; el exilio se lee como transacción Kal–Chiara (la vida de Bonnie a cambio de no estar en San Aurelio mientras El Patio funja como organización criminal). PENDIENTES (coartada exacta, qué sabe de la sentencia de Mei-Lin, despedida final de Chiara): [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Bonnie y la muerte de Mei-Lin|F2]].
+>
+> **La tarde de las latas (CANON DEL AUTOR, escena prevista, antes de F2).** Bonnie no sabe disparar; Chiara lleva días insistiendo y Kal acepta enseñarle. En un descanso apartado tiran a latas, y la práctica se abre a una conversación sobre familia y futuro. Kal le transmite «si tienen un problema, díganmelo y lo arreglamos» (sentido, no diálogo literal): ahí nace la confianza real que le permite acudir a él en F2. No es promesa de impunidad. Ubicación exacta en la Parte III y extensión: PENDIENTE.
 
 Sobrevivir no es ganar: pierde a Mei-Lin, La Almendra, Chiara, su red cotidiana, ciudad, identidad habitual y vida en construcción. Mei-Lin era su roommate en La Almendra; la amistad se construyó con casa, horarios, barrio, autos y rutinas. Villa y Stavanger/propuesta vienen después, en Parte V.
 
@@ -26,7 +30,9 @@ Sobrevivir no es ganar: pierde a Mei-Lin, La Almendra, Chiara, su red cotidiana,
 **Oficio:** corredora callejera; aprendiz operativa de lectura de escenarios.
 **Rol:** secundaria importante; protegida de Chiara.
 **Identidad de resguardo en Italia:** Roberta Ardizzone.
-**Estado:** viva; desterrada de San Aurelio en el **Libro I** (antes de H1) y establecida en Italia antes del nacimiento de Elenna en *Voto de Ceniza* (Libro II).
+**Estado:** viva; desterrada de San Aurelio en *Sombras de Poder* (Libro II, Parte III — Exilio; antes de H1) y establecida en Italia antes del nacimiento de Elenna en *Voto de Ceniza* (Libro III).
+
+> **NUMERACIÓN SUPERADA (nota 2026-10-14):** «Estado» ya está corregido; otras secciones de esta ficha usan la arquitectura anterior. Hoy F2 cae en *Sombras de Poder* (Libro II) y Elenna nace en *Voto de Ceniza* (Libro III); ver [[00_Biblia/00_Trilogy_Structure]] y [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]. Las menciones de «Libro I/II» en las secciones de F2 e Italia se leen con esa corrección.
 
 ---
 
@@ -67,6 +73,7 @@ Y sobre todo, la inspira a imaginar un futuro lejos de las calles y la delincuen
 
 Lo que opera hoy:
 
+- **Familia (CANON DEL AUTOR, 2026-10-14):** es **adoptada**. Sus padres adoptivos viven en **Boston**: un matrimonio estable que no pudo tener hijos y le dio una vida amorosa y genuinamente buena. No atribuirles trauma, maltrato ni abandono, ni asumir que Bonnie nunca tuvo hogar fuera del Patio. Para ella, quienes la criaron **son** sus padres. El autor evocó una adopción cerrada / expediente sellado: verificar la distinción legal antes de usar terminología precisa y no construir trama documental por obligación. **TEMA (no diálogo literal todavía):** «Nunca tuve que preguntar quiénes eran mis verdaderos padres, porque los que me recibieron me aman genuinamente»; contrapunto con Dale, Stavanger/Ingrid y Elenna, sin dictar qué debe sentir Kal sobre su origen. **PENDIENTE:** por qué no puede refugiarse en Boston tras F2, si la prosa lo necesita, y qué protege a sus padres; cómo pasa de Boston a la banda de corredores.
 - Fue corredora de una banda rival.
 - Esa banda se desintegró.
 - Se integra a la organización junto con Mei-Lin.
@@ -83,9 +90,13 @@ La causalidad no puede invertirse. Kal no la destierra para producir una cuidado
 
 Bonnie recibe a Elenna Serra y se vuelve su cuidadora cotidiana durante aproximadamente su primer año. No es niñera funcional, sustituta descartable de Chiara ni segunda madre diseñada para competir con ella. Conserva agencia, vida propia y el costo de haber perdido San Aurelio, su nombre y el vínculo diario con Chiara.
 
+**Ironía (CANON DEL AUTOR, 2026-10-14):** la decisión de salvarla es la que después permite poner a salvo a Elenna. Kal no la salva previendo ese uso, y Bonnie no recibe a la niña como pago de deuda ni obligación hacia Kal: conserva agencia. El cuidado de una hija que no es de su sangre conversa con su propia crianza adoptiva feliz; no explicarlo de antemano en la Parte III.
+
+**El regreso (CANON DEL AUTOR, 2026-10-14):** unos veinte años después de F2, **aproximadamente un año antes del epílogo [[07_Ideas/Tres_Hermanas_Epilogo|Tres Hermanas]]**, vuelve a San Aurelio como **Roberta Ardizzone**, avalada por una carrera propia: asume la **posición directiva que fue de Chiara** en el conjunto hotelero, no el puesto de administrador de Kenji. La mafia de Dario y El Patio como organización ya no existen y nadie exige su cabeza: la condición del exilio venció. **En Italia la amadrina Chiara; en San Aurelio, en la era de Elenna, la respalda Corrado**, en privado, porque para el mundo sigue muerto (su muerte en el VI no cambia). Siguen abiertos la mecánica de salida y la documentación: no atribuir a Corrado la falsificación ni la custodia inicial.
+
 Elenna desarrolla un apego real hacia Bonnie. Ese vínculo sobrevive al reencuentro con Kal y Chiara; la recuperación de convivencia con sus padres debe ser gradual y no borrar a Bonnie.
 
-Siguen pendientes el mecanismo documental de Roberta Ardizzone, quién sostiene su cobertura, la localización exacta, su vida cotidiana antes de recibir a Elenna y cuánto tiempo media entre F2 y el nacimiento.
+Siguen pendientes el mecanismo documental de Roberta Ardizzone, quién sostiene su cobertura (resuelto 2026-10-14: la amadrina Chiara; falta el mecanismo), la localización exacta, su vida cotidiana antes de recibir a Elenna y cuánto tiempo media entre F2 y el nacimiento.
 
 ### La entrega — DISEÑO / CANON DEL AUTOR (2026-09-11)
 
@@ -94,6 +105,16 @@ Siguen pendientes el mecanismo documental de Roberta Ardizzone, quién sostiene 
 **Regla dura:** Bonnie no reaparece en escena —ni mensaje, ni llamada, ni interludio en Italia, ni pista explícita— en ningún momento del libro antes de la entrega de Elenna. Durante la planificación, Chiara sólo dice algo equivalente a *"yo me encargaré de que haya alguien de confianza al otro lado"*; Kal (y el lector) pueden asumir que se refiere a [[02_Characters/Ettore]]. No se corrige.
 
 Kal lleva personalmente a Elenna a una pista clandestina y encuentra ahí una figura con gabardina y capucha que resulta ser Bonnie. La revelación es simultánea para Kal y para el lector — Chiara ya lo sabía. Bonnie recibe a la niña sin necesidad de discurso: su sola presencia, dado lo que ya vivió en F2, basta como promesa. No es niñera ni recurso operativo: **es alguien que ya sabe lo que significa ser apartada para poder seguir viva.**
+
+### Marisol — arco afectivo (CANON DEL AUTOR 2026-10-14; resto en incubación)
+
+> Archivo rector: [[06_Relationships/Bonnie_y_Marisol]].
+
+- En *Sombras de Poder* Bonnie empieza a sentir algo por [[02_Characters/Marisol_Grayson|Marisol]] **sin saber nombrarlo**. Marisol sale con Kenji; Bonnie no interfiere.
+- En Italia **podría** enamorarse y convivir con alguien; sin pareja, duración ni ruptura fijadas. Después se centra en su carrera.
+- El regreso como Roberta Ardizzone está arriba («El regreso»); **la vuelta no nace sólo de Marisol** y Marisol hizo su propia vida en San Aurelio.
+- Ella y Marisol cuidan a Elenna como hermanita elegida; no son madres sustitutas ni hermanas entre sí.
+- **En exploración, no canon:** decirle a Erin «Yo entiendo lo que es enamorarse de alguien y que no te corresponda».
 
 ---
 
@@ -134,7 +155,7 @@ Ese aprendizaje la vuelve peligrosa de una forma nueva: una corredora que aprend
 
 ## Preguntas abiertas
 
-> **EJECUTADO (2026-09-22, ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/41_La_Otra_Mitad|Cap. 41 — La otra mitad]]):** es **Chiara quien la busca primero.** De vuelta en San Aurelio, Chiara necesita a alguien de calle y autos que no sea Kal para rastrear la camioneta de mensajería ligada a la desaparición de Matteo; llama a Bonnie al Monarch, le da el encargo, y cuando Bonnie pregunta por qué no se lo pide a Kal, Chiara le cuenta la mitad de Palermo que Kal no contó (Kal anotado como pieza reclamable por la Mesa, "el señor Mercer no es parte de esta casa" como maniobra de protección que ella misma reconoce como decisión unilateral, sin conocer a Halbrook). Bonnie no absuelve ni consuela; cierra con "no le digas nada a Kal todavía." Ahí se funda la relación: Chiara se abre primero, Bonnie no reciproca con su propio pasado. **Todavía no es protegida** — eso viene en Parte IV. Introducción en prosa **EJECUTADA (2026-09-21):** **primera aparición** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/37_Cuatro_Letras|Cap. 37]] (POV Kal, El Patio: diagnostica una avería que el gruero leyó mal, mueve el coche en una maniobra y lo deja de frente a la salida; contesta "Roma" desde su mundo — coche, carrera, Alfa Romeo — sin acertar; Kal la registra como alguien de autos y calle); **primer cruce funcional con Chiara** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 38]] (yate: desbloquea a un mesero porque miró la puerta de servicio de babor al subir; Chiara le pregunta el nombre y registra que es la única que miró la salida antes que el buffet). **Todavía NO es protegida** de Chiara ni hay mentoría: sólo reconocimiento. El Cap. 41 sigue siendo donde Chiara la busca primero y se funda la relación. Familia: sigue **PENDIENTE**.
+> **EJECUTADO (2026-09-22, ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/41_La_Otra_Mitad|Cap. 41 — La otra mitad]]):** es **Chiara quien la busca primero.** De vuelta en San Aurelio, Chiara necesita a alguien de calle y autos que no sea Kal para rastrear la camioneta de mensajería ligada a la desaparición de Matteo; llama a Bonnie al Monarch, le da el encargo, y cuando Bonnie pregunta por qué no se lo pide a Kal, Chiara le cuenta la mitad de Palermo que Kal no contó (Kal anotado como pieza reclamable por la Mesa, "el señor Mercer no es parte de esta casa" como maniobra de protección que ella misma reconoce como decisión unilateral, sin conocer a Halbrook). Bonnie no absuelve ni consuela; cierra con "no le digas nada a Kal todavía." Ahí se funda la relación: Chiara se abre primero, Bonnie no reciproca con su propio pasado. **Todavía no es protegida** — eso viene en Parte IV. Introducción en prosa **EJECUTADA (2026-09-21):** **primera aparición** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/37_Cuatro_Letras|Cap. 37]] (POV Kal, El Patio: diagnostica una avería que el gruero leyó mal, mueve el coche en una maniobra y lo deja de frente a la salida; contesta "Roma" desde su mundo — coche, carrera, Alfa Romeo — sin acertar; Kal la registra como alguien de autos y calle); **primer cruce funcional con Chiara** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 38]] (yate: desbloquea a un mesero porque miró la puerta de servicio de babor al subir; Chiara le pregunta el nombre y registra que es la única que miró la salida antes que el buffet). **Todavía NO es protegida** de Chiara ni hay mentoría: sólo reconocimiento. El Cap. 41 sigue siendo donde Chiara la busca primero y se funda la relación. Familia: ~~sigue **PENDIENTE**~~ **resuelta en parte (CANON 2026-10-14):** adoptada, padres en Boston (ver "Historia").
 
 > **PENDIENTE:** qué quiere hacer si logra salir de las calles.
 

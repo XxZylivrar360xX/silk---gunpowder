@@ -76,7 +76,7 @@ Es el invierno y la **Navidad del año 3** (la primera juntos, con el collar *To
 Rompe lo que la Parte II volvió hogar. Pregunta: ¿qué significa liderar cuando la decisión correcta destruye a tu propia gente?
 
 - **Mei-Lin** muere como integrante real, no como resolución de una trama de espionaje. Kal carga la decisión y Nadir el acto (F2).
-- **Bonnie:** el destierro es supervivencia por amputación, no premio.
+- **Bonnie:** el destierro es supervivencia por amputación, no premio. **CANON DEL AUTOR (2026-10-14):** cubrió a Mei-Lin con una coartada sabiendo que mentía, sin saber qué cubría; confiesa por su cuenta ante Kal; el barrio quiere las dos cabezas y Kal la deja vivir porque Chiara la quiere. Antes, la tarde de las latas (Kal le enseña a disparar por insistencia de Chiara). Antes de confesar se lo cuenta a Chiara; ante el barrio, el exilio es una transacción Kal–Chiara. Detalle: [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Bonnie y la muerte de Mei-Lin|F2]].
 - **Nadir:** queda agrietado, y esa herida pasa a los libros siguientes.
 - **Chiara:** el destierro de Bonnie la toca directamente. La fractura viene de que la decisión correcta para el jefe es insoportable para quien lo ama.
 - **La boda como recuperación (CANON DEL AUTOR, 2026-10-13):** tras F2, Mabel le dice a Chiara la frase y le encarga planear su boda con Walt para sacarla de la depresión. **La planeación cierra la Parte III.**

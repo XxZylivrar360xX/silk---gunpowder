@@ -62,6 +62,10 @@
 
 > **RESUELTO (2026-09-16):** Elenna convoca una conversación explícita para darles la noticia de la academia con cuidado, sabiendo que les va a doler — no lo minimiza ni lo deja para que se enteren solas. Marisol se recusa de forma **total y automática** de cualquier caso conectado al Departamento de Elenna, sin excepciones — más estricto que la regla informal ya existente ("no me cuentes nada que no podrías decir delante de otro fiscal"), que queda como la conducta cotidiana previa a la recusación formal. El conflicto de sobreprotección entre Bonnie y Elenna nace de que **Elenna oculta el riesgo real de un incidente** — la discusión es sobre honestidad, no solo sobre control. Ver [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]].
 
+## Elenco de la comisaría
+
+> **PENDIENTE (abierto 2026-10-14):** diseñar el semielenco del Departamento alrededor de Elenna (compañeros de academia y de patrulla, unidad K9, mandos intermedios). **Encargo del autor:** aquí se compensa el reparto de V–VII, hoy cargado de mujeres en lo emocional (Elenna, Erin, Bonnie, Marisol, Iris; en el mando, Lucia Varek). Buscar presencias masculinas con función propia, no de relleno; Nicholas y Ethan ya ocupan el eje mentor/antagonista. Contexto: [[06_Relationships/Bonnie_y_Marisol]].
+
 ## Cameos Kal / Chiara
 
 > **RESUELTO (2026-09-16):** en el Libro 4 no aparecen físicamente — solo llamadas (Kal) y cartas manuscritas (Chiara). Su primera aparición en persona es en el Libro 5, en el hospital (disparo de Elenna), deliberadamente retrasada para que el reencuentro cargue el peso de un libro entero de ausencia. Ver [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] y [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]].

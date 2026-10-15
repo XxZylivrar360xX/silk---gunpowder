@@ -151,6 +151,19 @@ En esa misma escena queda sembrado el resto del plan:
 
 Cuando Elenna le pregunta por un corredor de bolsa que la pretendía, Marisol responde que no fue serio y remata: **«Lo del amor no es para mí.»** La línea se sostiene como humor defensivo, no como negación de que Kenji fue una relación real ni como explicación solemne de su muerte.
 
+> **Se conserva literal (CANON DEL AUTOR 2026-10-14):** expresa experiencia y cicatrices, no una prohibición de volver a amar. No reescribir el epílogo para sembrar el arco con Bonnie.
+
+> **Numeración (nota 2026-10-14):** esta sección se escribió antes de *Sombras de Poder*. El noviazgo cruza el Libro I, *Sombras de Poder* (II) y *Voto de Ceniza* (III), donde Kenji muere en Santa Lucía.
+
+## Marisol y Bonnie — arco afectivo (CANON DEL AUTOR 2026-10-14; resto en incubación)
+
+> Archivo rector: [[06_Relationships/Bonnie_y_Marisol]].
+
+- En *Sombras de Poder* [[02_Characters/Bonnie_Garcia|Bonnie]] empieza a sentir algo por Marisol sin nombrarlo. La relación con Kenji es auténtica y Bonnie no la toca.
+- Marisol se queda en San Aurelio y construye sola su carrera de fiscal; viaja a Palermo a ver a Elenna y comparte viajes con ella. Ella y Bonnie están presentes de forma intermitente en la vida de la otra.
+- Ambas cuidan a Elenna como hermanita elegida, desde miradas distintas; no son madres sustitutas ni hermanas entre sí.
+- Lo que pase entre ellas en V–VII es DISEÑO: Marisol se enamoraría de la Bonnie adulta, sin que Bonnie «la cure» del duelo.
+
 ---
 
 ## Método

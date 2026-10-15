@@ -50,6 +50,7 @@ Actualizado: 2026-09-21. Lectura por tema, no de arranque. Extraído de pendient
 
 - Elenna: concepción, confirmación previa a H1, reveal, sexo/nombre, calendario y nacimiento; falsa muerte médica/hospitalaria/documental, versión pública, documentos Serra, círculo del secreto, traslado/Italia, duración y reencuentros. Lista canónica detallada: [[02_Characters/Elenna_Mercer#Pendientes]].
 - Bonnie en Italia: cobertura, documentos, apoyos, localización y tiempo de instalación; decidir si la pista de entrega de Elenna coincide con la infraestructura de F2.
+- Bonnie–Marisol (II–VII, incubación 2026-10-14): convivencia de Bonnie en Italia, quién nota primero la atracción adulta, la frase a Erin, cierre en el VII, Erin sigue mujer (CANON 2026-10-14; el reparto se compensa en el semielenco de la comisaría, PENDIENTE en [[07_Ideas/Libro_04_Incubadora/08_Pendientes_De_Autor#Elenco de la comisaría]]). Respaldo de Corrado y puesto hotelero resueltos el 2026-10-14. Preguntas en [[06_Relationships/Bonnie_y_Marisol#Preguntas al autor]].
 - Libro II: capítulos exactos de flashforward y embarazo; siguiente escena de autor tras llegada/nacimiento: llamada de Chiara y Kal en El Mirador. No adelantarla.
 - Guerra de los Tres: escalada inicial y matriz por enfrentamiento en [[04_Concepts/La_Guerra_de_los_Tres]].
 - Caída legal de Dario: mecanismo y evidencia. Santa Lucía/montaña: causalidad fina, qué descubre Kal y qué puede demostrar la ley.

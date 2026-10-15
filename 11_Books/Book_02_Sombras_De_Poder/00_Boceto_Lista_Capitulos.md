@@ -282,6 +282,8 @@
 **43. La línea** — abr–may A4 · Kal · DISEÑO
 - **Función:** sale a la luz la filtración de Mei-Lin, que es la línea de Varek, todavía viva.
 - **PENDIENTE antes de redactar:** qué información entrega, con qué frecuencia, qué daño hace y qué hecho la delata.
+- **CANON 2026-10-14:** la coartada que Bonnie le dio a Mei-Lin (sabiendo que mentía, sin saber qué cubría) la deja pareciendo culpable; el barrio pide las dos cabezas. Bonnie va por su cuenta con Kal y confiesa que mintió antes de que la acorralen. Forma, lugar y momento: PENDIENTE.
+- **CANON 2026-10-14 (segunda ronda):** antes de ir con Kal, Bonnie se lo cuenta a Chiara, que no contiene las lágrimas porque entiende lo que acaba de pasarle. La confesión la salva ante Kal y la condena ante el barrio. Dónde cae la conversación con Chiara (este capítulo es POV Kal): PENDIENTE.
 - **No hacer:** que Kal o Chiara conozcan la causalidad Tommaso → Mei-Lin, o que F2 confirme Varek–Volpi. *Los quería, los traicionó y tenía miedo*: ni absolverla ni volverla villana.
 
 **44. Puerto Viejo** — el mismo día · Nadir (DISEÑO: el que más paga) · la costa; Puerto Viejo
@@ -289,9 +291,9 @@
 - **No hacer:** que Kal dispare. Kal carga la decisión; Nadir, el acto.
 
 **45. El norte** — el mismo día · Kal; Chiara de noche · pista clandestina cerca de Cedar Flats; la Villa
-- **Beats (F2-B):** el conflicto propio de Bonnie la pone en riesgo; Kal encuentra la única salida distinta de matarla. La lleva al norte para sacarla hacia Nueva York; Chiara le arma la salida a Italia como **Roberta Ardizzone**. Esa noche terminan en el suelo, destrozados.
+- **Beats (F2-B):** el conflicto propio de Bonnie (la coartada y su confesión, CANON 2026-10-14) la pone en riesgo; Kal la deja vivir porque Chiara la quiere, excepción que el barrio obedece sin compartir y lee como transacción Kal–Chiara (su vida a cambio de no estar en San Aurelio mientras El Patio sea organización criminal), y encuentra la única salida distinta de matarla. La lleva al norte para sacarla hacia Nueva York; Chiara le arma la salida a Italia como **Roberta Ardizzone**. Esa noche terminan en el suelo, destrozados.
 - **Líneas canon:** «Lo siento, ¿vale?» / «No te martirices. Hiciste lo que debías hacer.» Después él le da un beso en la frente. No arregla nada.
-- **PENDIENTE:** el conflicto de Bonnie (no inventar); el nombre de la pista; quién sostiene la identidad en Italia (no asumir tutela Bellandi ni a Corrado).
+- **PENDIENTE:** la coartada exacta y por qué vuelve sospechosa a Bonnie (no inventar); qué sabe de la sentencia de Mei-Lin y si se despide de Chiara; el nombre de la pista; la mecánica documental en Italia (CANON 2026-10-14: la amadrina Chiara; no atribuir la mecánica a Corrado).
 - **Nota:** F2 decía «no es todavía Villa Candelaria»; con la Villa en la Parte I, el suelo es el de la Villa.
 
 **46. Lo que queda** — abr–may A4 · Chiara · la Villa; La Almendra, con una casa vacía
@@ -398,4 +400,4 @@
 - **F3, el «Te amo»:** Kal golpeado y Chiara que no lo oye (cap. 41). F3 se reescribió en [[06_Relationships/Momentos_de_Fractura]].
 
 
-Pendientes heredados que no bloquean el orden: mecanismo legal del Monarch; estructura italiana; mecanismo del incendio y amenaza de Crowe; cobro de la mentira de H8; investigación nocturna; conflicto de Bonnie; qué entrega Mei-Lin y qué la delata; el golpe fallido de la IV; coalición de H1; Amanda; de dónde le sale el nombre a Chiara.
+Pendientes heredados que no bloquean el orden: mecanismo legal del Monarch; estructura italiana; mecanismo del incendio y amenaza de Crowe; cobro de la mentira de H8; investigación nocturna; coartada concreta de Bonnie (el conflicto quedó fijado el 2026-10-14); ubicación de la tarde de las latas (Kal enseña a disparar a Bonnie; antes de F2, sin restarle tiempo a Chiara–Bonnie); qué entrega Mei-Lin y qué la delata; el golpe fallido de la IV; coalición de H1; Amanda; de dónde le sale el nombre a Chiara.

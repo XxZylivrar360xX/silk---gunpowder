@@ -12,6 +12,10 @@ El legado de [[02_Characters/Kal_Mercer|Kal]] y [[02_Characters/Chiara_Bellandi|
 
 No comparten sangre ni apellido. Son hermanas por la vida elegida, la confianza y la libertad de no depender del poder que las precedió.
 
+> **Precisión (CANON DEL AUTOR 2026-10-14):** Bonnie y Marisol son cada una hermana elegida **de Elenna**; no necesitan considerarse hermanas entre sí. El texto de esta guía no cambia y la escena no siembra romance: «Lo del amor no es para mí» se conserva literal. Arco posterior en [[06_Relationships/Bonnie_y_Marisol]].
+
+> **Lectura de Roberta (CANON DEL AUTOR 2026-10-14):** volvió a San Aurelio ~un año antes de esta escena. «Directora del conjunto» es la posición directiva que fue de Chiara, no el puesto de Kenji. «Bajo la protección de la familia de Chiara» se lee así: en Italia la amadrinó Chiara; en San Aurelio la respalda Corrado, en privado. El texto de abajo no cambia.
+
 ## Situación
 
 La escena ocurre en una cafetería de San Aurelio. No explica el estado de la ciudad ni reabre la guerra, Meridian, Il Consorzio o el imperio Mercer: muestra una tarde ordinaria que sólo puede existir porque la historia principal terminó.

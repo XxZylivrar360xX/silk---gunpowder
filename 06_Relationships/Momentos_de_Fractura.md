@@ -130,6 +130,22 @@ Chiara ayudaba a **Elliot Price**, un hombre autista vinculado al taller; se sob
 
 > **CANON DEL AUTOR — 2026-09-20:** F2 pertenece a Parte V — Exilio, después de F4/F3 y antes de Villa Candelaria, Stavanger y H1. Ejecución de Mei-Lin y destierro de Bonnie: **el mismo día**, dos destinos dentro de una sola macrofractura. La versión con Villa previa e intervalo corto queda **SUPERSEDIDA**. Bonnie puede completar después su ruta a Italia; no se comprimen todos los traslados en ese día.
 
+> **CANON DEL AUTOR (2026-10-14) — la coartada, la confesión y la excepción.** Resuelve en parte el «conflicto propio» de Bonnie (F2-B). Fuente: [[98_Agent_Handoff/archive/chatgpt/2026-10-14_f2_meilin_bonnie_confesion_destierro]].
+> - **La traición es de Mei-Lin.** Bonnie le da una coartada **sabiendo que miente**, pero **sin saber que cubre una filtración a Varek**. No es cómplice consciente de espionaje; aun así, la coartada y la cercanía la dejan **pareciendo culpable**, y el barrio exige la cabeza de las dos.
+> - **Bonnie confiesa por su cuenta.** Cuando entiende lo que pasó, va con Kal y reconoce que mintió, antes de que las pruebas la acorralen. No se presenta como impecable. No logra limpiar su nombre del todo ante el colectivo.
+> - **La excepción es por amor a Chiara.** Kal la deja vivir porque Chiara la quiere: es una excepción personal que el barrio puede no entender, aunque obedezca al jefe. No sustituir por absolución jurídica, prueba completa de inocencia ni justificación logística.
+> - **Antecedente: la tarde de las latas.** Antes de F2, por insistencia de Chiara, Kal le enseña a disparar a Bonnie tirando a latas en un descanso apartado; la práctica se abre a una conversación sobre familia y futuro. Ahí Kal transmite «si tienen un problema, díganmelo y lo arreglamos», y eso es lo que permite que Bonnie vaya a él en F2. No es promesa de impunidad: el pago es amargo, porque Bonnie hace exactamente lo que él pidió y él sólo consigue salvarla alejándola.
+> - **Ironía, no plan.** Salvar a Bonnie es lo que después permite poner a salvo a Elenna; Kal no lo prevé, y Bonnie no recibe a la niña como pago de deuda. No explicar la ironía en la Parte III.
+> - **PENDIENTE (no inventar):** qué coartada pide Mei-Lin y con qué explicación aparente; qué información entrega, cuándo, qué daño hace y cómo se descubre; ~~por qué el barrio cree que Bonnie participó a sabiendas~~ (resuelto abajo); qué sabe Bonnie de la sentencia de Mei-Lin al irse y si hay despedida con Chiara después de la conversación previa; forma, lugar y momento de esa conversación y de la confesión.
+> - **DISEÑO, no canon:** que la lealtad de Mei-Lin en Lunar Pearl (no le cuenta el plan a Varek) conviva con la filtración posterior como contradicción del personaje, no como incoherencia.
+
+> **CANON DEL AUTOR (2026-10-14, segunda ronda) — la secuencia y la transacción.**
+> - **Orden.** Se descubre la filtración; la coartada que Bonnie dio a Mei-Lin la vuelve sospechosa, pero todavía no hay prueba contra ella. Antes de que la haya, Bonnie confiesa.
+> - **Primero Chiara.** Antes de ir con Kal, Bonnie se lo cuenta a Chiara. En esa conversación Chiara no puede contener las lágrimas: entiende lo que acaba de pasarle a Bonnie. Después Bonnie va con Kal.
+> - **La confesión salva y condena.** Ante Kal, confesar es lo que le permite salvarla; ante el barrio, es la prueba de que mintió para cubrir a la traidora. Eso explica por qué el barrio cree que participó a sabiendas.
+> - **Ante el barrio, una transacción Kal–Chiara.** El exilio se lee como un trato entre el jefe y Chiara: a Chiara se le concede la vida de Bonnie al costo de que Bonnie pierda el derecho a estar en San Aurelio mientras El Patio funja como organización criminal. Es el sentido de la decisión, no un contrato ni diálogo fijado. Su regreso, ~20 años después, ocurre cuando esa condición ya venció.
+> - **Chiara la amadrina en Italia.** Es Chiara quien la protege en su vida como Roberta Ardizzone. Corrado no interviene en esa etapa; la respalda en San Aurelio en la era de Elenna ([[02_Characters/Bonnie_Garcia]]).
+
 ### Adaptación
 
 > **SUPERSEDIDO EN PARTE (CANON DEL AUTOR, 2026-10-12):** Tommaso **no muere** (se ausenta hacia el final de *Sombras de Poder*); el asesinado al abrir el libro es [[02_Characters/Fabrizio_Rinaldi|Fabrizio]]. En la cadena de abajo siguen vigentes el reclutamiento de Mei-Lin por Tommaso, su filtración a Varek por miedo, su integración real al Patio, el descubrimiento, Nadir y Bonnie el mismo día. Quedan superados los eslabones "Dario elimina a Tommaso por Volpi" y "absorbe a Mei-Lin" tras esa muerte. **Mei-Lin se queda con Tommaso** (CANON 2026-10-12); cómo llega también a Varek (¿triple agente sin querer, por miedo?) es PENDIENTE (ver [[02_Characters/Mei_Lin_Zhao]]). **F2 cae en la Parte III — Exilio** de la estructura en cuatro Partes ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]): donde abajo dice "Parte V — Exilio", léase esa. Mei-Lin debe existir antes como integrante real (Partes I–II: roomie de Bonnie, robo de joyería, Navidad).
@@ -141,7 +157,7 @@ Chiara ayudaba a **Elliot Price**, un hombre autista vinculado al taller; se sob
 > F2 sigue siendo una macrofractura con dos componentes internos, ejecutados durante **un mismo día**, no necesariamente al mismo instante:
 >
 > - **F2-A — Mei-Lin.** Se descubre la filtración. Fue fuente pasiva de Varek, no infiltrada desde el origen. El Patio la quiere de verdad — eso es lo que vuelve real el daño. La ejecución ocurre junto al mar/Puerto Viejo. **Ejecuta Nadir**, no Kal — ver [[02_Characters/Nadir_Amrani]].
-> - **F2-B — Bonnie, ese mismo día.** La organización todavía está procesando la muerte de Mei-Lin. Bonnie acaba de perder a su roommate y amiga real. En ese contexto, su propio conflicto (el que la pone en riesgo directo — **PENDIENTE**, no inventar) obliga a Kal a encontrar la única salida distinta de matarla: el destierro.
+> - **F2-B — Bonnie, ese mismo día.** La organización todavía está procesando la muerte de Mei-Lin. Bonnie acaba de perder a su roommate y amiga real. En ese contexto, su propio conflicto (el que la pone en riesgo directo — **resuelto en parte, CANON 2026-10-14:** la coartada que dio a Mei-Lin y su confesión voluntaria; ver arriba) obliga a Kal a encontrar la única salida distinta de matarla: el destierro.
 >
 > Chiara no pierde a dos chicas en una abstracción de seguridad conjunta: en un mismo día pierde a una definitivamente y a la otra porque ésa es la única manera de no perderla también para siempre.
 
@@ -163,7 +179,7 @@ Bonnie termina establecida en Italia con una vida y cobertura suficientes para n
 
 El destierro ocurre por el conflicto propio de Bonnie. Kal no la salva pensando que algún día cuidará a su hija y Chiara no le construye una salida para convertirla en recurso logístico. La causalidad correcta es:
 
-`Chiara forma a Bonnie → Bonnie paga un conflicto propio → Kal la obliga a salir para mantenerla viva → Chiara le construye una posibilidad en Italia → Bonnie aprende a vivir lejos → mucho después nace Elenna → Bonnie ya está allí`.
+`Chiara forma a Bonnie → Bonnie paga un conflicto propio (la coartada que dio a Mei-Lin y su confesión, CANON 2026-10-14) → Kal la obliga a salir para mantenerla viva → Chiara le construye una posibilidad en Italia → Bonnie aprende a vivir lejos → mucho después nace Elenna → Bonnie ya está allí`.
 
 ### El verdadero daño
 
@@ -202,7 +218,8 @@ Después él le da un beso en la frente. No arregla nada. Sólo deja claro que l
 - Si Bonnie vuelve físicamente a San Aurelio, no debe ser barato: su regreso pone en riesgo la mentira que la mantiene viva. Su presencia posterior desde Italia no equivale a deshacer el destierro.
 - Nadir ejecuta a Mei-Lin; Kal decide. No fusionar ambos roles ni hacer que Kal dispare — ver [[02_Characters/Nadir_Amrani]].
 - Distinguir el descubrimiento de la filtración real en Parte V de la revelación concluyente de la cadena Varek–Volpi, reservada para Libro III. Kal y Chiara no conocen la causalidad Tommaso/Mei-Lin en Parte III. No usar F2 para adelantar la confirmación Varek–Volpi.
-- **PENDIENTE antes de redactar F2:** información exacta, frecuencia, daño y hecho que delata a Mei-Lin; conflicto específico de Bonnie. **Los quería + los traicionó + tenía miedo:** no absolver la filtración ni volver villana a Mei-Lin.
+- **PENDIENTE antes de redactar F2:** información exacta, frecuencia, daño y hecho que delata a Mei-Lin; la coartada concreta de Bonnie y por qué la vuelve sospechosa (el conflicto en sí quedó fijado el 2026-10-14, arriba).
+- Que Bonnie sobreviva no vuelve «justa» la muerte de Mei-Lin. La autoridad de Kal no queda exenta: no todos en el Patio aprueban la excepción. **Los quería + los traicionó + tenía miedo:** no absolver la filtración ni volver villana a Mei-Lin.
 
 ---
 
