@@ -1,5 +1,16 @@
 # Sesiones archivadas de octubre de 2026
 
+- 2026-10-06: [[99_Reference/location_references/mapa_san_aurelio.png]]
+- 2026-10-06
+- 2026-10-06: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]
+- 2026-10-06: [[05_Locations/San_Aurelio]]
+- 2026-10-06: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]
+- 2026-10-06: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]
+- 2026-10-06: [[12_Craft_Policies/editorial/DO_NOT_TOUCH]]
+- 2026-10-06: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Puesta_En_Escena_Cap_30_Piloto]]
+- 2026-10-06: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]]
+- 2026-10-05: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I]]
+- 2026-10-05: [[98_Agent_Handoff/sessions/2026-10-05_claude_frente3_densidad]]
 - 2026-10-05: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente_4_Camp_Alder]]
 - 2026-10-05: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]]
 - 2026-10-05: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Narrador_Tesis_Resenas_ChatGPT]] · [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Marisol_Detector_Infalible]]

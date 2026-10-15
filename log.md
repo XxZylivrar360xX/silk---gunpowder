@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-14: [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Almendra_Towing]] · CANON: cena en el taller, el mismo detalle para todos y el collar a solas afuera; resto DISEÑO con 9 preguntas abiertas (en pausa por el autor)
 - 2026-10-14: [[98_Agent_Handoff/sessions/2026-10-14_claude_f2_segunda_ronda]] · [[06_Relationships/Momentos_de_Fractura]] · CANON: Bonnie le cuenta primero a Chiara; exilio como transacción Kal–Chiara; Chiara la amadrina en Italia, Corrado la respalda en San Aurelio; regreso ~1 año antes del epílogo, en la posición directiva de Chiara; Erin sigue mujer (se compensa en la comisaría)
 - 2026-10-14: [[98_Agent_Handoff/sessions/2026-10-14_claude_bonnie_marisol_arco]] · [[06_Relationships/Bonnie_y_Marisol]] · CANON: Bonnie siente algo por Marisol sin nombrarlo en el II; Kenji intacto; hermanas elegidas de Elenna, no entre sí; «Lo del amor no es para mí» se conserva; Erin varón en exploración
 - 2026-10-14: [[98_Agent_Handoff/sessions/2026-10-14_claude_f2_coartada_bonnie]] · [[06_Relationships/Momentos_de_Fractura]] · CANON F2: Bonnie cubre a Mei-Lin con una coartada sin saber qué cubre, confiesa ante Kal y vive porque Chiara la quiere; la tarde de las latas; Bonnie adoptada (Boston); regreso ~20 años después con Corrado vivo
@@ -20,7 +21,6 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 - 2026-10-11: [[98_Agent_Handoff/sessions/2026-10-11_codex_para_claude_timeline_libro_i]]
 - 2026-10-11: [[98_Agent_Handoff/sessions/2026-10-11_codex_migracion_08_scenes_a_incubacion]]
 - 2026-10-10: [[98_Agent_Handoff/sessions/2026-10-10_codex_mantenimiento_vault]]
-
 - 2026-10-10: [[98_Agent_Handoff/sessions/2026-10-10_codex_para_claude_exportacion_sombras]]
 - 2026-10-09: [[98_Agent_Handoff/sessions/2026-10-09_claude_sombras_cap01_pase_completo]]
 - 2026-10-09: [[98_Agent_Handoff/sessions/2026-10-09_codex_para_claude_hito_boda_il_mondo]]
@@ -28,25 +28,12 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 - 2026-10-09: [[98_Agent_Handoff/sessions/2026-10-09_codex_pingpong_sombras_cap02]]
 - 2026-10-09: [[98_Agent_Handoff/sessions/2026-10-09_codex_borrador_apertura_libro2]]
 - 2026-10-09: [[98_Agent_Handoff/sessions/2026-10-09_codex_para_claude_microcirugia_arco_personal_kal]]
-
 - 2026-10-08: [[98_Agent_Handoff/sessions/2026-10-08_claude_consolidacion_S0_terceros]]
 - 2026-10-08: [[05_Locations/El_Lago]] · [[98_Agent_Handoff/sessions/2026-10-08_claude_otono_cumpleanos_lluvia_lago]]
-
 - 2026-10-06: [[98_Agent_Handoff/sessions/2026-10-06_codex_para_claude_rotacion_log]]
 - 2026-10-06: [[98_Agent_Handoff/sessions/2026-10-06_claude_vegetacion_101_vestuario]]
 - 2026-10-06: [[98_Agent_Handoff/sessions/2026-10-06_claude_cascada_arco_final]]
 - 2026-10-06: [[98_Agent_Handoff/sessions/2026-10-06_claude_prosa_calendario_arco_sin_kal]]
-- 2026-10-06: [[99_Reference/location_references/mapa_san_aurelio.png]]
-- 2026-10-06
-- 2026-10-06: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]
-- 2026-10-06: [[05_Locations/San_Aurelio]]
-- 2026-10-06: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]
-- 2026-10-06: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]
-- 2026-10-06: [[12_Craft_Policies/editorial/DO_NOT_TOUCH]]
-- 2026-10-06: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Puesta_En_Escena_Cap_30_Piloto]]
-- 2026-10-06: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]]
-- 2026-10-05: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I]]
-- 2026-10-05: [[98_Agent_Handoff/sessions/2026-10-05_claude_frente3_densidad]]
 
 ## Historial
 

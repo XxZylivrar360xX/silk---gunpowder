@@ -57,6 +57,18 @@
 
 **Leyenda de las fichas:** fecha · POV propuesto (DISEÑO) · lugar. **Tic** = aparición del nombre (numeración de [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]]). **Señal** = señal del embarazo.
 
+**POV ajenos (DISEÑO, 2026-10-14).** El libro es de Kal y Chiara. Otra cabeza entra sólo si es la que más paga la escena o si el POV de la pareja tendría que mentir para cuidar un secreto. Uno o dos por Parte, sin repetir invitado:
+
+| Cap. | POV | Por qué |
+|---|---|---|
+| 7 | Bonnie | Mei-Lin tiene que ser alguien antes de F2, y sólo Bonnie la ve de cerca. Bonnie no sabe nada, así que su POV no esconde nada. Lo que siente por Marisol no se nombra. |
+| 18 | la calle | El apodo nace afuera; Kal no puede verse bautizado. |
+| 34 | Harper | Su cálculo falló en el 33 y ella da la señal: ve completo el engaño que Kal, bajo tierra, no ve. Corta una racha larga de capítulos de Kal. |
+| 37 | Marisol | Paga el choque y ve venir la Lancia de Chiara. Desde fuera el choque sigue pareciendo destino; al volante, Tommaso rozaría el sabotaje. |
+| 44 | Nadir | Carga el acto; Kal, la decisión. |
+
+**Descartados:** Marisol en el 5 (queda Kal) y en el 23 (queda Chiara: la Parte II casi no le da capítulos; ella ve el piloto automático y no el pánico, que le llega en el 38). Tommaso en el 37 y el 42: su interioridad tendría que esquivar la línea con Mei-Lin; el 42 queda para Chiara, que recibe su parte del Monarch. Walt en el 59: su cabeza explicaría lo de Amanda, que el lector tiene que deducir junto a Kal, y el capítulo es la revelación del origen de Kal. Mei-Lin, Dario, Halbrook y Volpi, nunca. La Parte IV no lleva invitados: la mirada externa del 54 y el 57 cuida el embarazo, no le presta la voz a nadie.
+
 ---
 
 ## Parte I — Territorio ajeno
@@ -66,14 +78,14 @@
 **1. Hogar** — 5–6 ene A3 · Kal → Chiara · el loft de La Almendra
 - Escrito (BORRADOR, pase completo). Esta guía no lo toca. Residuo para el 2: «Fabrizio está muerto.»
 
-**2. La comisaría** — ene A3, heladas · Chiara · comisaría; su oficina del Monarch
+**2. Con su letra** — ene A3, heladas · Chiara · comisaría; su oficina del Monarch
 - **Función:** la primera silla vacía; el poder empieza a llegarle por pérdida.
 - **Beats:** Lucía le pide identificar el cuerpo. La ciudad baraja una hipótesis de asesino serial (la composición evoca a Keene). Le llegan los expedientes de Fabrizio, con su letra. Primer reordenamiento: las funciones de Fabrizio y Matteo empiezan a concentrarse en ella. Tommaso, vivo y activo.
 - **Tic 1 (primera vez):** su atención está en Fabrizio; la mano escribe en la periferia; mira el papel como si fuera a contestarle y lo rompe en tiras. Lectura falsa natural: el lector cree que escribe el nombre de él.
 - **No hacer:** insinuar a Volpi o el motivo (Fabrizio iba a hablar). Fabrizio le abrió la puerta a alguien conocido; eso no se dice.
 - **PENDIENTE:** mecanismo legal del Monarch.
 
-**3. La bomba de tiempo** — ene–feb A3 · Chiara · el Monarch
+**3. Bellandi** — ene–feb A3 · Chiara · el Monarch
 - **Función:** frente funcional sin amistad.
 - **Beats:** roces con Tommaso (reproches por Alessio, desconfianza, duda de la versión de Chiara). Dario lo humilla y le recorta margen; Chiara lo registra. Ambos ven lo mismo: Dario se está volviendo una bomba de tiempo.
 - **Canon menor:** Tommaso la llama «Bellandi». Conviene que su esposa y su hija existan en página: la amenaza contra ellas lo saca del libro en la Parte III.
@@ -84,7 +96,7 @@
 - **Beats:** Kal descubre al valet nuevo vendiendo una bolsa pequeña a un cliente y lo intercepta antes de que llegue a Kenji. Lo lee como dealer menor. Buen lugar para mostrar el trabajo cotidiano de Kal coordinando bajo Dario (North Guard, Eagle Eye).
 - **No hacer:** revelar ya su capacidad de producción (eso es el 12).
 
-**5. Una oportunidad** — feb–mar A3 · Kal o Marisol (DISEÑO) · el entorno de Rivers & Krane
+**5. Bajo supervisión** — feb–mar A3 · Kal (DISEÑO) · el entorno de Rivers & Krane
 - **Función:** Marisol a escala correcta: 22–23 años, legal assistant, apoyo bajo supervisión. Se cobra en suave parte del favor de Rowe.
 - **Siembra para el 37:** Marisol toma el Audi de Kal diga él que sí o que no, y él siempre cede.
 - **No hacer:** comprimir su carrera. El salto fuerte (paralegal en la fiscalía) es de *Voto de Ceniza*.
@@ -94,13 +106,14 @@
 - **Por qué importa:** sin esta relación, F2 se vuelve atajo; el robo paga la lección (Bonnie lee al personal de Lunar Pearl).
 - **No hacer:** convertirla en una mini-Chiara. Bonnie traduce la lección a la calle.
 
-**7. La Almendra** — mar A3 · DISEÑO (Bonnie o Kal) · casa de las roomies en Calle Almendra
+**7. La Almendra** — mar A3 · Bonnie (DISEÑO) · casa de las roomies en Calle Almendra
+- **Título (DISEÑO, 2026-10-14):** provisional; se renombra con el hábito o la manía de Mei-Lin cuando se decida, para que el 44 lo cobre.
 - **Función:** Bonnie y Mei-Lin, roomies por conveniencia que se vuelven amigas. Rutina, intimidad cotidiana, pertenencia.
 - **Regla de F2:** Mei-Lin no puede morir como figurante. Dale aquí un hábito, una manía o un gusto concreto que el lector reconozca después.
 
 *Primavera (abr–jun A3): la mesa se vacía (CANON 2026-10-14).* No hay golpe grande en la Parte I. La primavera es de Chiara: enfrenta y absorbe las consecuencias de que la mesa del casino se empieza a quedar vacía (Matteo fuera, Fabrizio muerto, Tommaso humillado). Cada silla que se vacía le llega como función, deuda o exposición. Es la primera vez que la brújula «más poder, menos gente» se ve en conducta. Si la primavera necesita más aire, la palanca es una junta del Monarch con sillas vacías (DISEÑO; el mecanismo legal sigue PENDIENTE), no trama nueva.
 
-**8. El Faro** — abr–may A3 · Chiara · la redacción de *El Faro*
+**8. Sociales** — abr–may A3 · Chiara · la redacción de *El Faro*
 - **Función:** primera fase de la compra progresiva: farándula, sociedad, hoteles, beneficencia y eventos. Chiara aprende que la atención pública es un recurso finito.
 - **Canon:** el detonante son las consecuencias del arresto de Kal y que todo quedara demasiado limpio a su favor: necesita voz propia. Fabrizio es combustible, no detonante.
 - **PENDIENTE:** el dueño actual del diario.
@@ -114,7 +127,7 @@
 - **Función:** la doctrina en contraste. Crowe: alguien falla, alguien paga. Kal: alguien falla bajo mi mando, yo respondo.
 - **Beats:** Tyler pierde el cargamento de cocaína de Crowe por un fallo comprensible dentro de una operación de riesgo, no por estupidez. Kal asume la deuda ante Crowe. Es la primera presencia fuerte de Crowe en el libro: el Tasador tasa.
 
-**11. Ceniza** — ago A3, ola de calor · Chiara (DISEÑO) · el loft; después, el penthouse
+**11. Fuga de gas** — ago A3, ola de calor · Chiara (DISEÑO) · el loft; después, el penthouse
 - **Función:** H8 (incendio y mentira). Absorber la deuda de todos convierte a Kal en el lugar donde aterrizan los castigos.
 - **Beats:** Crowe cobra quemando el loft y exige reponer el cargamento con alta pureza. Arden cuatro cosas: la casa de Dale y Ruth, el trabajo de Chiara, el primer hogar de los dos y la palabra «casa». La caja fuerte y su contenido sobreviven (siembra de H14). **La mentira:** Kal dice que fue una fuga de gas y oculta la amenaza de Crowe; ella no se lo traga del todo («Una fuga de gas jamás dejaría un desastre así»).
 - **PENDIENTE:** mecanismo del incendio, amenaza exacta y cobro de la mentira. Dónde viven hasta la Villa (el penthouse es lo natural; confirmarlo).
@@ -132,7 +145,7 @@
 - **Beats:** sillones, brasero, toldo, mamparas, decoraciones de cada uno, comida, descanso.
 - **No hacer:** que se sienta diseñada por Kal. Crece sola.
 
-**15. Villa Candelaria** — sep A3 · Kal · cuatro propiedades; la Villa
+**15. Queremos esta** — sep A3 · Kal · cuatro propiedades; la Villa
 - **Función:** nace la casa de los dos, centro de recuerdos para H1.
 - **Beats:** recorren cuatro propiedades. En una, con ecos de Palermo sin ser réplica, Chiara empieza a imaginar sin darse cuenta: jardines, habitaciones, limoneros. Kal deja de evaluar la casa y la mira a ella. Mudanza.
 - **Líneas (DISEÑO del autor):** «—Queremos esta.» / «—Pero Kal, es muchísimo dinero.» / «—Chiara, cuando se trate de nosotros, el dinero me tiene sin cuidado.»
@@ -142,7 +155,7 @@
 - **Beats:** rodada de montaña. Los demás hacen la variante extrema en bici; Kal y Chiara saltan en tándem (él controla y ella va con arnés de pasajero).
 - **Orden:** antes de que el FBI oscurezca el tramo.
 
-**17. La venta** — oct A3 · Kal · el punto de la venta; la extracción
+**17. Encubierto** — oct A3 · Kal · el punto de la venta; la extracción
 - **Función:** el primer hilo federal.
 - **Beats:** el Patio le vende a un encubierto del FBI; la operación se rompe; el agente queda herido leve; Kal coordina la extracción; alguien pronuncia el nombre real de Danny.
 - **Consecuencia:** el agente sobrevive y puede volver. La cercanía de Lucía con Kal empieza a tener precio institucional.
@@ -151,20 +164,20 @@
 - **Función:** Kal se vuelve la cara visible de la autoridad de Dario en el sur antes de admitir que esa figura existe.
 - **Beats:** tras el FBI cambia su forma de recorrer ciertos barrios: capucha, pasamontañas, maquillaje negro alrededor de los ojos, botas de combate. La calle lo bautiza: `el militar → Señor Militar`.
 
-**19. La graduación** — otoño A3, antes de la gala (CANON 2026-10-14) · POV según el borrador · penthouse; salón de la ceremonia
+**19. Lentejuelas** — otoño A3, antes de la gala (CANON 2026-10-14) · POV según el borrador · penthouse; salón de la ceremonia
 - **Fuente:** [[07_Ideas/La_Graduacion_De_Marisol]] (prosa BORRADOR; manda en la escena).
 - **Canon de la apertura:** Chiara se arregla en el penthouse; vestido negro de lentejuelas, cabello recogido, labios de rojo oscuro. Narración del autor: «Kal guardó ese momento en un lugar que ni él sabía que podía almacenar recuerdos, como una fotografía en el alma.» Línea: «—Las estrellas deben estar hablando del brillo que les robaste esta noche.» Es la excepción en el registro de Kal; después vuelve a ser seco. El pensamiento detrás no se escribe.
 - **Tic 7:** al margen del programa, mientras esperan a que digan el nombre de Marisol. Arranca la esquina, la arruga, falla al cesto y la recoge. Kal sólo mira el escenario.
 - **Orden fino (DISEÑO):** el tic 7 no puede ir en capítulo seguido del tic 3 (cap. 21). El cap. 20 los separa.
 
-**20. Dos versiones de Dario** — oct A3 · Kal y Chiara en casa · la Villa; el Monarch
+**20. El otro Dario** — oct A3 · Kal y Chiara en casa · la Villa; el Monarch
 - **Función:** la grieta. Con Kal, Dario es modesto, razonable y paga; con Chiara, sofocante. En casa hay dos relatos.
 - **Beats:** Tommaso empieza a ceder poder societario y Chiara avanza hacia la mayoría del Monarch.
 - **Siembra (CANON 2026-10-14):** delante de Chiara, Tommaso sabe del círculo de Kal algo que ella no sabe: un nombre, una costumbre, quién vive con quién en Calle Almendra. Nadie lo explica ni lo comenta, y el narrador tampoco. Repetirlo como mucho una vez por Parte (I, II y en el 42).
 - **No hacer:** un Kal que no le cree. Escucha, pero subestima la escala y cree que todavía se puede manejar.
 - **PENDIENTE:** la estructura italiana que facilita el control (Il Consorzio, La Comisión u otra). No fusionar instituciones.
 
-**21. La gala** — fin oct – principios nov A3 · Chiara · salón de la gala; después, la Villa
+**21. El benefactor** — fin oct – principios nov A3 · Chiara · salón de la gala; después, la Villa
 - **Tic 3 (antes de salir):** en la Villa, entre el maquillaje y el vestido, con Kal esperando abajo. Lo quema en el lavabo con el encendedor de sus cigarros: la llama llega antes que la vela.
 - **Beats:** primera vez como cara pública del Monarch. Halbrook es un benefactor educado, contenido, observador y cómodo en sociedad. Conversan y bailan antes de que ella sepa quién es. Kenji lo presenta: «Warren Halbrook». El efecto buscado es *este cabrón; lo había olvidado*, sin escribirlo así.
 - **Cierre canon:** «—Conocí a Warren Halbrook.» / «—¿Halbrook está en San Aurelio?». La pregunta de verdad, *por qué*, no se pronuncia. **FIN DE LA PARTE I.**
@@ -180,10 +193,10 @@
 - **Función:** el Patio acepta a Chiara como de la casa. Es su primer cumpleaños en la Villa, en el aniversario de la mudanza de H16.
 - **Rima:** el cap. 55 repite la fecha un año después, con un secreto.
 
-**23. Estoy bien** — dic A3 · Marisol (DISEÑO) · Calle Almendra
+**23. Estoy bien** — dic A3 · Chiara (DISEÑO) · Calle Almendra
 - **Función:** Kal en piloto automático: resuelve, coordina y dice «estoy bien»; se vuelve eficiente a costa de sí mismo. Marisol lo ve desde fuera, y Chiara desde la intimidad.
 
-**24. Harper** — dic A3 · Kal · donde entrenan
+**24. No cargues sola** — dic A3 · Kal · donde entrenan
 - **Función:** maestro y pupila, no hija sustituta. La ironía es que Kal le dice que no cargue sola mientras él lo hace.
 - **Siembra:** Harper ve al jefe usándose como herramienta hasta romperse; así Chiara no parece exagerar después.
 
@@ -200,7 +213,7 @@
 - **Función:** F4, la mitad de ella. Fiesta del Monarch; se emborracha y termina sola en el penthouse, donde el piano que le compró por su cumpleaños lo espera. El 1 lo pasa deprimida viendo películas.
 - **Canon (plan, textual):** «la ausencia de Chiara pesa porque Kal ya no sabe pedir «quédate». No es culpa de ella.» Esa ausencia se lee desde él (cap. 28), no se explica aquí.
 
-**28. Washington** — 31 dic – 2 ene · Kal · Washington; la carretera; el penthouse
+**28. La carretera** — 31 dic – 2 ene · Kal · Washington; la carretera; el penthouse
 - **Función:** F4, la mitad de él. Paga la deuda de los papeles de Nadir: Anya lo cita con el pretexto de un programa de apoyo a veteranos (muchos fueron subordinados de Halbrook; siembra). Kal sólo la ayuda con el trabajo. En el hotel le da vueltas al collar, hace la maleta y vuelve en auto esa misma noche; por eso tarda.
 - **Llegada (canon):** la noche del 2 la encuentra sin maquillar y con un chongo improvisado: la primera vez en la saga que a Chiara no le importa su imagen. El piano responde a lo que ella descubrió en el Cap. 38 del Libro I: que él toca.
 - **No hacer:** Anya como rival barata; Chiara con celos simples.
@@ -235,11 +248,11 @@
 - **El anillo (paga H4):** frente a la bandeja, Kal toma un anillo, no lo mete en la bolsa y lo guarda en la billetera. Nadie lo ve, o lo ve Nadir y calla. Es el único objeto que no se vende.
 - **Canon:** Mei-Lin no le cuenta nada a Varek de esto.
 
-**34. Los túneles** — esa noche · Kal o Harper (DISEÑO) · La Isla de punta a punta; bajo tierra
+**34. Sin público** — esa noche · Harper (DISEÑO) · La Isla de punta a punta; bajo tierra
 - **Beats:** la persecución más temeraria de San Aurelio en quince años. Cierran el puente y la policía se relaja. Mei-Lin se deja ver desde el aire hasta la rampa de la obra de Punta Dorada; el foco del helicóptero se clava en esa boca. Harper da la señal y los gemelos salen a la vez por las rampas de los Saints. A los de la fiesta los paran: «se metieron a los túneles a beber sin público»; a la pareja, «teniendo intimidad en el túnel». Ninguno lleva nada. El equipo deja el auto y camina por el pasaje de los años veinte.
-- **No hacer:** POV de Mei-Lin. Su interioridad abriría la línea con Varek antes de tiempo.
+- **No hacer:** POV de Mei-Lin. Su interioridad abriría la línea con Varek antes de tiempo. En el POV de Harper, nada sobre Halbrook ni sobre tiro de precisión ([[12_Craft_Policies/revelations/SAGA_LEVEL]]).
 
-**35. La bodega del Monarch** — madrugada · Kal; Chiara al final · túnel este; bahía de carga; piso de juego
+**35. Boletos de valet** — madrugada · Kal; Chiara al final · túnel este; bahía de carga; piso de juego
 - **Beats:** Walt los espera al final del túnel, sin permiso de Chiara, y rompe su voto de libertad condicional: el viejo barrio recibe a la sangre nueva. Ren los lleva a la zona de servicio, se cambian y suben al piso de juego entre la una y las dos. Afuera hay sirenas; adentro, fichas y música. Chiara se sorprende de que salgan por su bodega: él usó sin pedírselo algo que ella le mostró. Su ignorancia la protege. Al alba reabren el puente y salen con boletos de valet entre cientos de huéspedes.
 - **PENDIENTE:** lo que dice Walt; cómo se entera Chiara.
 
@@ -247,7 +260,7 @@
 - **Beats:** primera celebración del Patio como familia criminal. El noticiero repite la persecución; la policía queda humillada y eso le da a Halbrook un argumento. Dario perdió el diamante de su hija en su isla, y los ladrones desaparecieron en su casino. **USD 1,000,000** intacto como Plan B (payoff en *Cuentas de Sangre*).
 - **PENDIENTE:** destino del Lussia; quién compra el botín; si Dario sospecha o pone a Kal a investigar; qué ganan los Saints; si Lucia se entera.
 
-**37. Calle Corona** — feb A4 · DISEÑO (Marisol o Tommaso) · Calle Corona, rumbo al Puente de Piedra
+**37. Calle Corona** — feb A4 · Marisol (DISEÑO) · Calle Corona, rumbo al Puente de Piedra
 - **Beats:** a Tommaso le destrozan el auto por vandalismo en el estacionamiento del casino y Chiara le presta su Lancia (el sedán discreto de Villani Motors). En un cruce, Tommaso pierde el control y choca contra el Audi de Kal, que maneja Marisol (iba a ver a Chiara, fuera de foco). Marisol sale con fractura de tibia; Tommaso, con una pierna que lo deja con bastón para siempre.
 - **No hacer:** mostrar el sabotaje o a Volpi. El lector lee «el destino fue el culpable», igual que ellos.
 
@@ -261,20 +274,20 @@
 
 *Rompe lo que la II volvió hogar. ¿Qué significa liderar cuando la decisión correcta destruye a tu propia gente? Es la Parte más corta: si necesita aire, la palanca natural es la extensión de la investigación nocturna (PENDIENTE del autor), no inventar trama.*
 
-**39. El líquido de frenos** — feb A4 · Kal · Almendra Towing
+**39. Vacío** — feb A4 · Kal · Almendra Towing
 - **Beats:** llegan el Lancia y el Audi; Kal ve el depósito vacío: manipulado. La víctima fue Marisol, pero el objetivo era Chiara. Es furia y combustible para su arco.
 
 **40. Escenarios** — feb–mar A4 · Kal y Chiara · la Villa
 - **Beats:** Chiara está convencida de que fue La Mesa. Kal no lo compra: según la red de Varek, La Mesa sólo opera en San Aurelio si Varek lo permite. Arma varios escenarios (La Mesa, la calle, Crowe, otros) y empieza a desconfiar de todos. Varek es el que más ruido le hace, sin prueba ni certeza, y eso lo hace dudar de sí mismo.
 - **No hacer:** deducción de detective («nada de Batman»), ni que el razonamiento llegue a señalar a Varek con prueba. Esta sospecha sin cerrar siembra la enemistad de *Voto de Ceniza*.
 
-**41. De noche** — feb–mar A4 · Kal; Chiara al cierre · las calles del sur; la Villa
+**41. El agua corriendo** — feb–mar A4 · Kal; Chiara al cierre · las calles del sur; la Villa
 - **Beats:** Kal sale de noche a investigar por su cuenta como matón de calle: es un Kal mucho más dudoso moralmente.
 - **Tic 6:** Chiara frente a la cama vacía, porque Kal salió sin avisar: otra vez la vela tardía.
 - **F3, el «Te amo» (CANON DEL AUTOR, 2026-10-14; [[06_Relationships/Momentos_de_Fractura#F3 - Los frenos]]):** Kal vuelve golpeado de una de esas noches. Chiara lo atiende en silencio, atenta a los golpes y furiosa. Él lleva todo el día con la idea en la cabeza: los frenos eran para ella. Lo suelta mientras ella está de espaldas en el lavabo, exprimiendo el trapo con el agua corriendo: «Te amo.» **Ella no lo oye; el lector sí.** Ella vuelve y le dice que se quede quieto; él no lo repite. POV de Kal o neutro, nunca de Chiara. Lugar: la cocina de la Villa (DISEÑO), no el baño, para no gastar el escenario de H1.
 - **PENDIENTE:** extensión y desenlace de la investigación.
 
-**42. El bastón** — mar A4 · Tommaso (DISEÑO) · hospital; el Monarch
+**42. El bastón** — mar A4 · Chiara (DISEÑO) · hospital; el Monarch
 - **Beats:** en el hospital hay un acercamiento ligero entre Tommaso y Marisol: respeto y afecto, sin romance. Ella no tiene padres, y él acaba de saber que amenazan a su esposa y a su hija. Ve en Kal un lado protector y paterno que no percibe en los negocios. Chiara le dice que el auto estaba saboteado. Tommaso decide irse de San Aurelio y cede su parte del Monarch a Chiara. Su línea con Mei-Lin se cierra sola y nadie busca una filtración.
 - **Por calibrar:** la relación Tommaso–Marisol (lo pide el plan).
 - **Siembra (CANON 2026-10-14):** cómo conoce Tommaso tan de cerca al círculo de Kal sigue sin explicarse. Se va con el secreto.
@@ -286,7 +299,7 @@
 - **CANON 2026-10-14 (segunda ronda):** antes de ir con Kal, Bonnie se lo cuenta a Chiara, que no contiene las lágrimas porque entiende lo que acaba de pasarle. La confesión la salva ante Kal y la condena ante el barrio. Dónde cae la conversación con Chiara (este capítulo es POV Kal): PENDIENTE.
 - **No hacer:** que Kal o Chiara conozcan la causalidad Tommaso → Mei-Lin, o que F2 confirme Varek–Volpi. *Los quería, los traicionó y tenía miedo*: ni absolverla ni volverla villana.
 
-**44. Puerto Viejo** — el mismo día · Nadir (DISEÑO: el que más paga) · la costa; Puerto Viejo
+**44. La entrega** — el mismo día · Nadir (DISEÑO: el que más paga) · la costa; Puerto Viejo
 - **Beats (F2-A):** Kal decide y organiza la reunión. Mei-Lin cree que van a una entrega. Nadir dispara por detrás, limpio y sin ceremonia, y llora en el momento, no después. El cuerpo va al mar.
 - **No hacer:** que Kal dispare. Kal carga la decisión; Nadir, el acto.
 
@@ -299,7 +312,7 @@
 **46. Lo que queda** — abr–may A4 · Chiara · la Villa; La Almendra, con una casa vacía
 - **Beats:** Nadir sigue leal y trabajando, con una grieta entre la persona y la organización. El Patio queda mutilado. Chiara tiene más poder y menos gente; se siente y no se dice. Kal empieza a sobrecompensar construyendo tiempo y memorias. La propuesta, después, nace de claridad, no de culpa.
 
-**47. La frase de Mabel** — may–jun A4 · Chiara · DISEÑO (la cocina de Mabel)
+**47. Una sola frase** — may–jun A4 · Chiara · DISEÑO (la cocina de Mabel)
 - **Beats:** la depresión de Chiara. Mabel le dice la frase y le encarga planear su boda con Walt para sacarla de ahí. La planeación es trabajo de recuperación. **FIN DE LA PARTE III.**
 - **Línea canon de Mabel (no reescribir):** *«Cuando pasas una vida entera, buscando el amor que toque a tu puerta casi siempre te marchitas en la espera, pero cuando el amor es el que llega, lo reconoces como tuyo, lo vives como propio, y entiendes que debes cuidarlo y protegerlo cuando su sola compañía te arranca del pecho una sola frase...»*
 
@@ -309,7 +322,7 @@
 
 *Kal deja de ser la cara de Dario en la calle: primero en lo ideológico y después en lo territorial. Regla de Kal: resultados con el menor costo humano posible. Va a fallar. Crowe es el martillo; Dario y Halbrook, las estructuras.*
 
-**48. La terraza** — jul A4, calor · Chiara · terraza del Monarch
+**48. Diez segundos** — jul A4, calor · Chiara · terraza del Monarch
 - **Beats:** antes de la boda le muestra a Kal la decoración. Kal, de camisa negra, camina hacia el altar diciendo que las flores y la alfombra están mal alineadas; ella lo espera con un vestido blanco casual de un hombro. Durante unos diez segundos se imagina esperándolo en el altar; oye la frase con la voz de Mabel y la completa en susurro: «Te amo.». **Kal no lo oye (CANON DEL AUTOR, 2026-10-14).** Desecha la idea de casarse con Kal. Él ya trae el anillo en la billetera; el narrador no lo subraya.
 - **Espejo con F3 (cap. 41):** allá Kal, golpeado, dice «Te amo» y Chiara no lo oye; aquí ella lo dice y él no lo oye. Cada uno se lo dice una vez sin que el otro lo escuche, antes de Stavanger. El narrador no señala la rima.
 
@@ -355,7 +368,7 @@
 
 *La noche final (~6–8 dic A4, antes del 25; tormenta de lluvia y helada). Caps. 56–61: una sola noche hasta el amanecer y la chimenea. Orden fino por confirmar.*
 
-**56. La iglesia** — esa tarde · Kal · Iglesia Santa Lucía
+**56. Santa Lucía** — esa tarde · Kal · Iglesia Santa Lucía
 - **Canon:** va solo, enciende una vela y se sienta en una banca a mirar el altar y el Cristo en la cruz. No reza en voz alta ni habla con nadie, y no hay llamada. Es el miedo admitido sin convertirlo en acción.
 
 **57. Torna a casa** — antes de salir · externo · la Villa
@@ -372,7 +385,7 @@
 - **Las cartas ya se leyeron (52b):** dicen dónde; Crowe dice cómo.
 - **PENDIENTE:** motivo y mecanismo del asesinato de Amanda.
 
-**60. La piscina** — esa madrugada · Chiara · la Villa
+**60. No otra vez** — esa madrugada · Chiara · la Villa
 - **Canon:** Chiara llega primero y ve que todas las velas se apagaron por una ventana abierta; el papel sigue en su bolsillo. El agua está muy oscura. Kal trae el collar puesto, y nadie lo señala. «—Me encuentro bien.» / «—No otra vez.». Los hospitales están vigilados, así que llama a Camila, que no sabe del embarazo. Vigilia: «—Cuéntamelo de principio a fin.» / «—Estuviste en radio.» / «—Lo estuve, pero quiero escucharte.». Delirio al dormirse, con pausas: «—Tus ojos brillan.» / «—Me gusta cuando brillan.» / «—Deberías sonreír más, bella, cuando lo haces yo...» / «—No te preocupes tanto por todo.». En ese eco de Corrado se le quiebra la voz; hasta ahí fue de acero. Baño: «—¿Por qué siempre te preocupas tanto? Lo ves, estoy bien.» / «—Perché ti amo con tutto il mio cuore.». Él no responde a la declaración. Cama: «—Volevo solo tornare a casa per mantenere la mia promessa, amore.», con el italiano machucado.
 - **No hacer:** que ella revele el embarazo; ni «no puedes morirte ahora; ni siquiera sabes» como diálogo o pensamiento.
 

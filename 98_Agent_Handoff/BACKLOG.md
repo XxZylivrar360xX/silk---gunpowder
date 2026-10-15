@@ -1,6 +1,6 @@
 # Decisiones de fondo y trabajo diferido
 
-Actualizado: 2026-09-21. Lectura por tema, no de arranque. Extraído de pendientes previos sin resolver decisiones autorales. Inventario original íntegro: [[98_Agent_Handoff/archive/2026-09-21_PENDING]]. Si una fuente vigente contradice un pendiente heredado, verificar y registrar su resolución; no inventarla.
+Actualizado: 2026-10-14 (diferidos desde PENDING). Lectura por tema, no de arranque. Extraído de pendientes previos sin resolver decisiones autorales. Inventario original íntegro: [[98_Agent_Handoff/archive/2026-09-21_PENDING]]. Si una fuente vigente contradice un pendiente heredado, verificar y registrar su resolución; no inventarla.
 
 ## Continuidad y arquitectura
 
@@ -55,6 +55,16 @@ Actualizado: 2026-09-21. Lectura por tema, no de arranque. Extraído de pendient
 - Guerra de los Tres: escalada inicial y matriz por enfrentamiento en [[04_Concepts/La_Guerra_de_los_Tres]].
 - Caída legal de Dario: mecanismo y evidencia. Santa Lucía/montaña: causalidad fina, qué descubre Kal y qué puede demostrar la ley.
 - Meridian: víctima, motivo, posición e investigador del tercer asesinato que reactiva el patrón después de la apertura de Libro III.
+- **Diferidos desde PENDING (2026-10-14; texto íntegro en [[98_Agent_Handoff/archive/2026-10-14_PENDING]]):**
+  - Q24 (movida al Libro II por el autor, 2026-10-08): qué hace Chiara con la oferta del Monarch (49) y cuándo se entera Dario.
+  - Cobros del Libro I (CANON, 2026-10-08): "Quiero levantarlo"; la oportunidad que Rowe (madre de Sam) le da a Marisol como parte del favor; North Guard Securitia frente a Eagle Eye. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]].
+  - Aura: la primera escena en la que alguien entra y casi dice *perdón por mirarlos* ([[06_Relationships/Kal_y_Chiara]], "El aura").
+  - Halbrook: pendientes 2–6 de [[98_Agent_Handoff/sessions/2026-09-28_claude_reconstruccion_halbrook]]; límites legibles de su vigilancia (el fotograma de la grabación borrada).
+  - Corrado/Manfred Gabe: cruzar las fechas de Jim y Manfred con la investigación del Cap. 9.
+  - Mesa tres del Cap. 12 = Nereo Volpi (DISEÑO del autor): pago retroactivo; no mezclarla con el hombre del Peugeot.
+  - Sembrar *El Faro* antes de que Chiara lo tome; no confundirlo con *El Farol* (11).
+  - Ciclo de Elenna, Cap. 29 del Libro I: reescribir el pasaje de Vivian como código sobre el niño escondido (canon lote 3). Requiere encargo.
+  - Incubadora de referencia: [[98_Agent_Handoff/sessions/2026-10-03_claude_buzon_chatgpt_nueve_notas]].
 - Álbum/fotografías, descubrimientos de Corrado y desarrollo posterior de Elenna: consultar fichas y [[07_Ideas/Tres_Hermanas_Epilogo]]; no deshacer decisiones recientes conservadas en archivo.
 
 ## Libros IV/V y herramientas

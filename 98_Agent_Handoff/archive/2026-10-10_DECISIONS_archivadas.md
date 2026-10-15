@@ -35,3 +35,21 @@ Libro III: Cuentas de Sangre. Continuación en duología: Libro IV Juramento de 
 ## 2026-09-21 — Relevo compacto e historial separado
 
 **DECISIÓN OPERATIVA DEL AUTOR:** ejecutar la recomendación de compactar el relevo y separar historial en Markdown. CURRENT_BRIEF contiene estado vigente; PENDING sólo trabajo inmediato; BACKLOG conserva decisiones de fondo; log es índice de sesiones y archivo. Sin SQLite por ahora. No se elimina ni decanoniza material: los cuatro archivos originales se conservaron íntegros. [[98_Agent_Handoff/sessions/2026-09-21_codex_compactacion_relevo]].
+
+## Retiradas el 2026-10-14 (por límite de palabras)
+
+## 2026-10-04 — 24c: reunión del 13 y Charles
+
+**CANON DEL AUTOR:** la reunión del 13 que anuncia la carta de Il Consorzio en el 24c es la razón por la que Kal y Chiara terminan yendo a Palermo después del cumpleaños (H16 → H17; H13 sigue siendo el gatillo inmediato). El supervisor de Eagle Eye se llama **Charles** (no César) y queda sembrado en el Cap. 22. Se corta la camioneta "de las caballerizas". Fuente: [[98_Agent_Handoff/sessions/2026-10-04_claude_surgery_24c]].
+
+## 2026-10-03 — Sombras de Poder: incubadora integrada
+
+**CANON DEL AUTOR:** foco en el mundo criminal de Kal; Silas Crowe como conflicto vertebral; pareja como sinergia; gran enfrentamiento de la tormenta antes de H1 (único "Amore" de Kal, triaje con Camila, extracciones, escalada policial); Chiara compra *El Faro* tras Tommaso (las fases previas se conservan); cadena hotelera con Kenji. Lucía es subjefa n.º 2 y Cho, Deputy Chief, queda debajo. [[98_Agent_Handoff/sessions/2026-10-03_claude_buzon_chatgpt_nueve_notas]].
+
+## 2026-10-03 — Trilogía de Elenna (siete libros)
+
+**CANON DEL AUTOR:** siete libros, definitivo. Ciclo de Elenna = trilogía: V *Juramento de Hierro* · VI *Hijos del Silencio* (nuevo; identidad / descenso; caza, confesión de Erin en la presa y arresto de Ethan / Dylan) · VII *Camino a Casa* (hospital, resolución final del caso Vera, hangar). Kal y Chiara regresan en persona sólo en el VII. Supersede la duología del 2026-09-16. Disparo a Elenna: asalto bancario con rehenes, independiente de la trama; se infiltra contra las órdenes de Nicholas (lote 4). Hangar: "Mercer se cuida bastante bien sola". [[98_Agent_Handoff/sessions/2026-10-03_claude_trilogia_elenna_lote1]] · [[98_Agent_Handoff/sessions/2026-10-03_claude_trilogia_elenna_lote4]].
+
+## 2026-09-28 — Reconstrucción de Warren Halbrook
+
+**CANON DEL AUTOR:** nueva psicología, voz y conducta (sustituye la anterior; los hechos se quedan); carrera política con el nombre de Camp Alder como llave; evento benéfico (Libro II); despacho tras Santa Lucía con la línea "¡Ha! ¿Es el gran Kal Mercer tan cobarde para tomar mi cabeza de mis hombros?" (Libro III); muerte en el discurso de victoria, disparo de Harper cubierta por Kal y Nadir (supersede "por Kal Mercer"). Misma fecha: la muerte **cierra el Libro III** (no abre el IV) y la sigue la coda de Corrado en el hospital, con la silueta de Halbrook como engaño. [[98_Agent_Handoff/sessions/2026-09-28_claude_reconstruccion_halbrook]].
