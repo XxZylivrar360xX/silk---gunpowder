@@ -12,6 +12,7 @@ Funcion: abrir el dia de Chiara (Keene como comunicado, Tommaso, Blake) y mostra
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); el estado se conserva; DISENO pendiente de lectura): el narrador decia que Tommaso la llamaba por su nombre de pila; ahora "Le bastaba con llamarla Bellandi" (regla dura de su ficha).
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N4-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 Continuidad del telefono (2026-10-17, decision del autor; el estado se conserva): Matteo manda el numero de Kal sin nombre en el mismo mensaje de la matricula, justo tras "Voy a resolver"; asi queda sembrado como Chiara tiene el numero. Kal obtiene el de ella por la llamada (Cap. 5, contacto guardado como Bellandi). Cap. 2 sin tocar.
+Llamada (2026-10-17, decision del autor): "Su mesa me dijo que no" -> "Sus socios me dijeron que no" (registro mas de Kal); la replica de Chiara pasa a "Mis socios no estan en el estacionamiento" para que el eco con Matteo sea literal.
 -->
 
 # Capítulo 4 — Tarifa nocturna
@@ -486,11 +487,11 @@ La pausa siguiente fue más larga. Oyó abrirse una puerta de cabina, el cambio 
 
 Creyó oírlo escribir: un roce corto, de pluma contra papel apoyado en algo duro.
 
-—Su mesa me dijo que no.
+—Sus socios me dijeron que no.
 
 Detrás de ella, la puerta del club se abrió y soltó un golpe de bajo antes de cerrarse.
 
-—Mi mesa no está en el estacionamiento.
+—Mis socios no están en el estacionamiento.
 
 Era la frase de Matteo. Le molestó oírsela en la boca.
 
