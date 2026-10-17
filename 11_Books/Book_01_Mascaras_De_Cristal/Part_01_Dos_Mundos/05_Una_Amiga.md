@@ -20,6 +20,7 @@ Canon del autor (2026-10-04): en la escena de Rocco, Hector cierra el dialogo de
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); el estado se conserva): esgrima del pasillo reducida a una sola replica de Chiara; fuera "Que eficiente." de Tommaso.
 Frente 3, densidad (2026-10-05, SURGERY autorizada por el autor; el estado se conserva): fuera la replica de la alfombra al cierre de la bisagra (F3-4; la bisagra cierra en "La puerta no estuvo en la reunion") y la entrada de agenda antes del rumor de Hoover ("Yo tambien queria hablar con usted de algo / ¿Esta noche? / Por eso esta noche", F3-5); el rumor sale directo del pan. Lo canon de Hoover y de la empresa de seguridad, intacto. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Densidad_Funcion_Frente_3.md §5.
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N5-1, N5-3, N5-4, N5-5, N5-6, N5-8 (N5-2 y N5-7 conservados). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
+Susurro a Varga (2026-10-17, decision del autor): en la llamada de la mañana, "Quiero que no vuelva / Va a pagar el piso completo" pasa a "¿Que le dijo anoche? / Lo de la llanta" y "Ya se" a "Pregúntemelo en otro momento". Kal difiere; el contenido (Keene, banca) es canon del autor anotado en el Cap. 4 y no sale en prosa.
 -->
 
 # Capítulo 5 — Una amiga
@@ -140,13 +141,17 @@ No encontró cómo terminar la frase de una forma que se pudiera decir por telé
 
 Kal esperó. No la ayudó.
 
-—Quiero que no vuelva.
+—¿Qué le dijo anoche?
 
-—Va a pagar el piso completo. Sin descuento.
+—¿A quién?
+
+—A Varga. Antes de que guardara el teléfono.
+
+—Lo de la llanta.
 
 —Me refiero a otra cosa.
 
-—Ya sé.
+—Pregúntemelo en otro momento.
 
 El compresor volvió a arrancar del otro lado, y alguien le gritó a alguien que lo apagara.
 

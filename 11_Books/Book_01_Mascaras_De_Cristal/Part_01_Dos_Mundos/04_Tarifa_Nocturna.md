@@ -12,7 +12,10 @@ Funcion: abrir el dia de Chiara (Keene como comunicado, Tommaso, Blake) y mostra
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); el estado se conserva; DISENO pendiente de lectura): el narrador decia que Tommaso la llamaba por su nombre de pila; ahora "Le bastaba con llamarla Bellandi" (regla dura de su ficha).
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N4-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 Continuidad del telefono (2026-10-17, decision del autor; el estado se conserva): Matteo manda el numero de Kal sin nombre en el mismo mensaje de la matricula, justo tras "Voy a resolver"; asi queda sembrado como Chiara tiene el numero. Kal obtiene el de ella por la llamada (Cap. 5, contacto guardado como Bellandi). Cap. 2 sin tocar.
-Llamada (2026-10-17, decision del autor): "Su mesa me dijo que no" -> "Sus socios me dijeron que no" (registro mas de Kal); la replica de Chiara pasa a "Mis socios no estan en el estacionamiento" para que el eco con Matteo sea literal.
+Llamada (2026-10-17, decision del autor): "Su mesa me dijo que no" -> "Sus socios me dijeron que no" (registro mas de Kal); la replica de Chiara pasa a "Mis socios no estan en el estacionamiento" para que el eco con Matteo sea literal. "Le pregunte quien me llama" -> "Le pregunte quien llama. ¿Ellos o usted?" y "Ella tenia dos respuestas" (sujeto explicito), para que la pregunta que Chiara esquiva se entienda.
+Rampa (2026-10-17, decision del autor): "¿Y le crees?" -> "¿Y crees que llegue a tiempo?"; Chiara contesta con la frase de Kal del Cap. 2, "Nueve es nueve" (eco inverso: en la llamada le molesta usar la frase de Matteo; aqui usa la de Kal sin molestia). Kal ya empieza a entrarle en la cabeza.
+Varga (2026-10-17, decision del autor; DISENO del agente): Varga ebrio y altanero (whisky, tuteo, dinero, amenazas); lineas de Kal intactas salvo "¿La pintura tambien la paga?" y "Con el dueño...". Nuevo beat: tras "Acabo de hacerlo" Varga intenta arrojarle el whisky a Chiara; ella no se mueve; Kal le cierra la muñeca con la izquierda (hombro derecho lastimado), el whisky le cae a el, y le voltea el video: "Siga grabando. Eso sí le va a gustar a su abogado." Chiara no da las gracias (enojo sin destinatario claro; etapa funcional intacta); el "Gracias" de la ventanilla gana peso y "¿Y lo demas?" suma "El vaso". El vaso que Varga tiro (rampa, final) queda sembrado.
+Susurro (2026-10-17, CANON DEL AUTOR; nunca en prosa): tras "Le estoy ahorrando vergüenza", Kal le dice algo al oido a Varga; el lector no lo oye. Lo que dijo (broma que amenaza): "No querra terminar como Keene en una banca, ¿verdad?". Kal no sabe que Keene fue orden de Dario ni que Varga dice conocer a Dario; a Varga le pega mas de lo que Kal cree, y por eso no vuelve al casino. Se quito "Mañana no tienes grua"; "Esto no se queda asi" baja de volumen. Cap. 5: Chiara pregunta que le dijo; Kal: "Lo de la llanta" / "Pregúntemelo en otro momento". Recordatorio en PENDING para la reunion Kal–Dario del Libro II.
 -->
 
 # Capítulo 4 — Tarifa nocturna
@@ -503,9 +506,9 @@ Era la frase de Matteo. Le molestó oírsela en la boca.
 
 Chiara se quedó quieta en la acera. En la pantalla, el taxi seguía sin confirmar, un punto gris esperando su dedo.
 
-—Le pregunté quién me llama.
+—Le pregunté quién llama. ¿Ellos o usted?
 
-Tenía dos respuestas y ninguna servía para decirse en una acera, con un valet a tres metros.
+Ella tenía dos respuestas, y ninguna servía para decirse en una acera, con un valet a tres metros.
 
 —Un cliente vetado le está gritando a dos guardias que no saben qué hacer con él —dijo—. Y la apertura privada es mañana.
 
@@ -557,11 +560,13 @@ Matteo la esperaba en el marco de la puerta de carga, con la corbata floja y el 
 
 —Dijo veinte minutos.
 
-—¿Y le crees?
+—¿Y crees que llegue a tiempo?
 
-Chiara no contestó. Se acomodó el abrigo sobre los hombros y se quedó junto a él, del lado de adentro. Ahí olía a cartón mojado, cloro y comida de empleados recalentada; la música del lobby llegaba como rumor de otro edificio.
+—Nueve es nueve.
 
-Desde ahí se veía todo. Varga estaba junto a un Mercedes gris, gritando hacia dos guardias que no sabían si contenerlo o dejar que se cansara. Era de esos hombres que usaban el saco abierto para demostrar que no tenían miedo de arrugarlo. Tenía el cuello rojo, la voz húmeda y el teléfono levantado hacia la cara de quien se atreviera a respirar cerca.
+Matteo tardó un segundo en reconocer la frase. Chiara no se la explicó. Se acomodó el abrigo sobre los hombros y se quedó junto a él, del lado de adentro. Ahí olía a cartón mojado, cloro y comida de empleados recalentada; la música del lobby llegaba como rumor de otro edificio.
+
+Desde ahí se veía todo. Varga estaba junto a un Mercedes gris, gritando hacia dos guardias que no sabían si contenerlo o dejar que se cansara. Era de esos hombres que usaban el saco abierto para demostrar que no tenían miedo de arrugarlo. Tenía el cuello rojo, la voz húmeda y el teléfono levantado hacia la cara de quien se atreviera a respirar cerca. En la otra mano traía un vaso corto de whisky que alguien del bar había cometido el error de servirle.
 
 —Esto es robo —decía—. Esto es secuestro de propiedad.
 
@@ -593,27 +598,27 @@ Kal le mostró una hoja.
 
 El guardia miró la hoja sin leerla. Kal no parecía haber esperado otra cosa.
 
-Varga se acercó con el teléfono por delante, como una linterna.
+Varga se acercó con el teléfono por delante, como una linterna. Caminaba derecho a fuerza de concentrarse; cada tantos pasos el piso se le inclinaba un poco y él lo corregía con el hombro. Olía a whisky desde dos metros.
 
-—Ese coche es mío.
+—Ey. Tú. El de la grúa. Ese coche es mío.
 
 Kal miró el Mercedes, no a él.
 
 —Sí.
 
-—No lo toca.
+—Vale más que tu camión y tu casa juntos. No lo tocas.
 
 —Está bloqueando una salida de servicio.
 
-—Eso es mentira.
+—Está estacionado. —Varga abrió los brazos hacia la rampa, los guardias, el edificio entero, y el whisky se le asomó al borde del vaso—. Yo dejo aquí en una noche lo que tú no ves en un año. Si quiero estacionarme en la puerta, me estaciono en la puerta.
 
 Kal señaló la línea amarilla bajo la llanta.
 
-—¿La pintura también?
+—¿La pintura también la paga?
 
-Varga levantó el teléfono.
+Varga le puso el teléfono casi en la mejilla.
 
-—Lo estoy grabando.
+—Sonríe, amigo. Mañana esto lo ve tu jefe. Y el jefe de tu jefe.
 
 —Perfecto.
 
@@ -625,19 +630,23 @@ Lo dijo escribiendo en la tabla, sin levantar la vista.
 
 Varga bajó el teléfono medio centímetro.
 
-—¿Usted sabe quién soy?
+—¿Tú sabes con quién estás hablando?
 
-—Dueño de un Mercedes gris con dos multas pendientes y una llanta delantera que no va a pasar la semana.
+—Con el dueño de un Mercedes gris con dos multas pendientes y una llanta delantera que no va a pasar la semana.
 
 Uno de los guardias tosió para esconder una risa.
 
-Varga volteó hacia él. Error. Kal ya estaba junto a la rueda, agachado, una mano en el concreto y la otra abierta sobre el costado de la llanta, revisando ángulo y altura.
+Varga volteó hacia él.
 
-—No lo toca.
+—¿Te da risa? ¿Cómo te llamas? A ver, dime cómo te llamas.
+
+Error. Kal ya estaba junto a la rueda, agachado, una mano en el concreto y la otra abierta sobre el costado de la llanta, revisando ángulo y altura.
+
+—No lo toques. Te juro que si le haces un rayón…
 
 —Entonces muévalo.
 
-—No tengo las llaves.
+—No tengo las llaves —dijo, ofendido, como si eso fuera culpa de la rampa.
 
 Kal levantó la vista.
 
@@ -657,15 +666,31 @@ Ella tomó la pluma de Kal y firmó en el cuadro correcto sin preguntar si podí
 
 Varga la reconoció.
 
-—Usted. Quiero hablar con Varek.
+—Tú. La italiana. Quiero a Varek aquí. Ahora.
 
 Chiara le devolvió la pluma a Kal.
 
 —No.
 
-—No puede negarme—
+—A mí no me dices que no…
 
 —Acabo de hacerlo.
+
+La cara de Varga se quedó quieta un segundo, como si la frase hubiera tardado en llegarle. Luego el brazo del vaso subió.
+
+Chiara lo vio venir y no se movió. No iba a darle el gusto de verla encogerse.
+
+No hizo falta. Kal ya estaba ahí. La mano izquierda le cerró la muñeca a Varga a medio arco, y el whisky salió igual: una lengua ámbar que le cruzó a Kal la chaqueta y se deshizo en el concreto, a un palmo de los zapatos de ella. El vaso se le resbaló a Varga de los dedos, rebotó una vez y rodó hasta la línea amarilla.
+
+Kal no le soltó la muñeca. Con la barbilla señaló el teléfono, que seguía grabando en la otra mano.
+
+—Siga grabando. Eso sí le va a gustar a su abogado.
+
+Varga miró la pantalla como si acabara de descubrir que era suya. La bajó.
+
+Kal lo soltó y se limpió la mano en el pantalón. No miró a Chiara.
+
+Ella tampoco le dio las gracias. No le había pedido eso. Lo que sentía se parecía demasiado al enojo para llamarlo de otra forma, y no sabía todavía con quién.
 
 Kal bajó el gancho. Movió la palanca con la izquierda; el brazo derecho se le quedó colgando un segundo de más, y luego giró el hombro una vez, corto, como quien revisa una bisagra.
 
@@ -673,19 +698,23 @@ Chiara lo anotó. No era un gesto de alguien que llevara la noche entera esperan
 
 El Mercedes subió de atrás con un quejido limpio. Las cadenas se tensaron y el coche quedó con la nariz hacia el piso. La escena perdió volumen al instante. Un coche levantado ya no era amenaza: era trámite.
 
-Varga dio dos pasos hacia la grúa.
+Varga dio dos pasos hacia la grúa; el segundo le salió más largo de lo que quería.
 
 Kal se colocó entre él y el gancho.
 
 —No lo haga.
 
-—¿Me está amenazando?
+—¿Me estás amenazando? ¿Un mecánico me está amenazando a mí?
 
 —Le estoy ahorrando vergüenza.
 
+Varga abrió la boca para contestar. Kal se inclinó antes, sin tocarlo, y le dijo algo al oído. Fue corto. Desde donde estaba, ella sólo alcanzó a ver moverse la mandíbula de Kal y el cuello rojo de Varga perder el color de golpe.
+
+Kal se enderezó. Varga tardó en cerrar la boca.
+
 Chiara vio a Varga medir a Kal y elegir seguir viviendo en una versión donde él no había retrocedido por miedo. Varga guardó el teléfono.
 
-—Esto no se queda así.
+—Esto no se queda así —dijo, más bajo, sin mirarlo.
 
 —Nunca se queda nada como uno quiere —dijo Kal.
 
@@ -703,7 +732,7 @@ Kal apoyó el antebrazo en la puerta, a un palmo de su mano. Las luces ámbar le
 
 —¿Qué demás?
 
-—La mesera. Los guardias. Que Varga se va a ir a su casa sin un video que enseñar.
+—La mesera. Los guardias. El vaso. Que Varga se va a ir a su casa sin un video que enseñar.
 
 Kal miró por encima de ella, hacia la puerta de carga, donde Matteo fingía revisar el teléfono.
 

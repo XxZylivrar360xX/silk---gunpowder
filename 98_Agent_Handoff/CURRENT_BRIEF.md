@@ -17,6 +17,7 @@ Actualizado: 2026-10-14. Estado vigente; máximo 800 palabras. Sustituir lo supe
 - **San Aurelio, Oregon (CANON 2026-10-06):** inspirada en Portland, con bahía ficticia y cuatro estaciones. Mapa del autor: [[99_Reference/location_references/mapa_san_aurelio.png]]. La vía costera es la 101.
 - **Auditorías:** Partes I–III y arco final, cerradas. Terceros de la Parte I: S1–S5 operadas (DISEÑO, espera lectura), S2–S5 consolidadas, falta S1. Diálogo K/C de la Parte I, completo.
 - **Exportación:** EPUB y PDF del 2026-10-03. Falta portada de alta resolución para KDP.
+- **Lectura corrida del autor (2026-10-17):** Caps. 4–5 ajustados por el autor (número de Kal vía Matteo, "Sus socios", "Nueve es nueve", Varga ebrio y el vaso, susurro de Kal a Varga con contenido sólo en el encabezado del 4). Detalle en los encabezados de ambos capítulos.
 
 ## Libro II: canon vigente (resumen)
 
