@@ -11,6 +11,7 @@ Dialogo K/C reescrito (2026-10-03, direccion del autor: respeto; los dos quieren
 Funcion: abrir el dia de Chiara (Keene como comunicado, Tommaso, Blake) y mostrar el primer favor bajo la mesa, el error funcional de Blake y la incomodidad de Chiara al aceptar ayuda de Kal.
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); el estado se conserva; DISENO pendiente de lectura): el narrador decia que Tommaso la llamaba por su nombre de pila; ahora "Le bastaba con llamarla Bellandi" (regla dura de su ficha).
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N4-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
+Continuidad del telefono (2026-10-17, decision del autor; el estado se conserva): Matteo manda el numero de Kal sin nombre en el mismo mensaje de la matricula, justo tras "Voy a resolver"; asi queda sembrado como Chiara tiene el numero. Kal obtiene el de ella por la llamada (Cap. 5, contacto guardado como Bellandi). Cap. 2 sin tocar.
 -->
 
 # Capítulo 4 — Tarifa nocturna
@@ -405,6 +406,8 @@ Aceptar a Kal por debajo no era sólo una decisión práctica. Era contradecir a
 
 Colgó.
 
+El mensaje de Matteo llegó antes de que guardara el teléfono. Matrícula, Mercedes gris, rampa de carga. Debajo, sin saludo y sin nombre, un número.
+
 Blake apareció en el corredor con dos vasos.
 
 —Te estabas escondiendo.
@@ -443,7 +446,7 @@ El aire de La Isla le pegó en la cara con sal, diésel y música filtrada por m
 
 Pidió un taxi con una aplicación, pero antes de confirmarlo abrió otro contacto.
 
-No tenía el número de Kal guardado con nombre. Matteo se lo había mandado como quien pasa una herramienta.
+No tenía el número de Kal guardado con nombre. Seguía donde Matteo lo había dejado, debajo de la matrícula, como quien pasa una herramienta.
 
 Chiara lo miró en la pantalla dos segundos.
 
