@@ -4,10 +4,10 @@ Actualizado: 2026-10-14. Estado vigente; máximo 800 palabras. Sustituir lo supe
 
 ## Foco y siguiente paso
 
-1. **Libro II, *Sombras de Poder* (diseño activo; prosa bloqueada hasta cerrar el Libro I):** la guía de redacción es [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 capítulos en fichas, DISEÑO; el título del 7 sigue provisional). Estructura: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]. Calendario: [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]].
+1. **Libro II, *Sombras de Poder* (diseño activo; prosa bloqueada hasta cerrar el Libro I):** la guía de redacción es [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 capítulos en fichas, DISEÑO; el título del 7 sigue provisional). Estructura: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]. Calendario: [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]]. Referencia de gesto y distancia de pareja (Kylia, no canon): [[99_Reference/kylia_puesta_en_escena/README]].
 2. **Esperan respuesta del autor (Libro II):** detalles de F2, semillas Kal–Chiara («Bellissima», hijos, Anya), voces REL-01 (*usted* o *tú* de Bonnie) y Navidad de Almendra Towing (9 preguntas, en pausa). Lista en [[98_Agent_Handoff/PENDING]].
 3. **Esperan lectura del autor (Libro I):** auditorías del narrador (Partes I–III), frentes 3–5, microcostura del 38, puesta en escena, calendario, ciudad y vestuario. Rutas en PENDING.
-4. **Siguiente trabajo posible:** consolidar S1 (Cap. 17) de la auditoría de terceros ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]]); siguiente ronda de mantenimiento: carpetas de uso bajo.
+4. **Siguiente trabajo posible:** consolidar S1 (Cap. 17) de la auditoría de terceros ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]]); siguiente ronda de mantenimiento: carpetas de uso bajo. **Hecho 2026-10-18:** barrido de `02_Characters/`; lo tachado y los bloques SUPERADO pasaron a [[97_Supersedido/README]] (11 archivos nuevos). Queda para el autor: la numeración vieja de libros en secciones de Bonnie.
 
 ## Estado del manuscrito (Libro I, *Máscaras de Cristal*)
 
@@ -17,7 +17,9 @@ Actualizado: 2026-10-14. Estado vigente; máximo 800 palabras. Sustituir lo supe
 - **San Aurelio, Oregon (CANON 2026-10-06):** inspirada en Portland, con bahía ficticia y cuatro estaciones. Mapa del autor: [[99_Reference/location_references/mapa_san_aurelio.png]]. La vía costera es la 101.
 - **Auditorías:** Partes I–III y arco final, cerradas. Terceros de la Parte I: S1–S5 operadas (DISEÑO, espera lectura), S2–S5 consolidadas, falta S1. Diálogo K/C de la Parte I, completo.
 - **Exportación:** EPUB y PDF del 2026-10-03. Falta portada de alta resolución para KDP.
-- **Lectura corrida del autor (2026-10-17):** Caps. 4–5 ajustados por el autor (número de Kal vía Matteo, "Sus socios", "Nueve es nueve", Varga ebrio y el vaso, susurro de Kal a Varga con contenido sólo en el encabezado del 4). Detalle en los encabezados de ambos capítulos.
+- **Mando policial (CANON 2026-10-17):** sin jefe en el Libro I; la subjefa Lucía lleva el Departamento en funciones; Vega entra en el II. Cap. 7: cirugía y diseño aplicados, en espera de lectura ([[98_Agent_Handoff/sessions/2026-10-17_claude_cap07_geografia_y_mando_interino]]).
+- **Fabrizio (2026-10-18):** última plática en la terraza sur escrita en el Cap. 49 (noche de D12; DISEÑO, espera lectura). CANON 2026-10-18: la coerción de Volpi pasa a Tommaso; Fabrizio se suavizó en el 41–42 (sólo ocupado). Falta: dónde se ve la coerción de Tommaso en la Parte II y qué iba a contar Fabrizio.
+- **Lectura corrida del autor (2026-10-17):** Caps. 4–5 ajustados por el autor (número de Kal vía Matteo, "Sus socios", "Nueve es nueve", Varga ebrio y el vaso, susurro de Kal a Varga con contenido sólo en el encabezado del 4). Detalle en los encabezados de ambos capítulos. Apertura Kal/Nadir del 5 ampliada (hermanos elegidos; primera vez que Nadir oye «Bellandi») y primera aparición de Russ con Danny y el cajero; ficha de Russ consolidada; química de la llamada y la reunión, cobro del susurro diferido al Libro II, «Usted es alta» y cirugía de las semanas y de Il Gelsomino. Canon nuevo de la mirada en [[06_Relationships/Kal_y_Chiara]]; ceño base de Chiara sembrado en el Cap. 2 y primer gesto para Kal en el espejo del Cap. 6 (detalle en los encabezados). DISEÑO, espera lectura.
 
 ## Libro II: canon vigente (resumen)
 

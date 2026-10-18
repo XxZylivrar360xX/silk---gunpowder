@@ -72,4 +72,5 @@ Actualizado: 2026-10-14 (diferidos desde PENDING). Lectura por tema, no de arran
 > **PENDIENTE:** desglose aprobado de capítulos/partes para IV/V. La incubadora original ya cerró sus decisiones el 2026-09-16; no reabrir Voss, Volpi o extensión de saga desde avisos viejos. [[07_Ideas/Libro_04_Incubadora/08_Pendientes_De_Autor]].
 
 - Piloto editorial: comprobar si la calibración de las 30 alertas de [[tools/editorial/reports/PILOT_01_10/PILOT_01_10_GLOBAL]] sigue pendiente frente a trabajos posteriores. Si sigue abierta: clasificar con autor/ChatGPT y calibrar falsos positivos antes de ampliar el piloto. No ejecutar auditoría ni editar prosa como parte del mantenimiento.
+- **Caso Vera y Vega** (diferido por el autor a los Libros V-VII, 2026-10-17): cómo le llega a Vega la omisión del caso Vera, si la noche Marsh–Vera ocurre en el Libro I con Lucía en funciones y Vega entra en el II. Opción DISEÑO en [[98_Agent_Handoff/sessions/2026-10-17_claude_cap07_geografia_y_mando_interino]]. Ver [[00_Biblia/00_Trilogy_Structure]] #41.
 - SQLite queda como opción futura si las búsquedas por tema resultan insuficientes; no es requisito ni tarea inmediata.

@@ -2,7 +2,7 @@
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 49 (sexto del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
 Título: PENDIENTE. "Enfrente" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
-Personajes con diálogo: Leone Valenti, una voz de mujer en Nueva York (por teléfono), el portero del Monarch, la recepción del Monarch (por teléfono).
+Personajes con diálogo: Leone Valenti, Fabrizio Rinaldi (noche de D12), una voz de mujer en Nueva York (por teléfono), el portero del Monarch, la recepción del Monarch (por teléfono).
 Ventana temporal: mañana de D12 (lunes) a tarde de D13 (martes, antes del convoy). Sin encabezados de fecha.
 Calendario (CANON DEL AUTOR 2026-10-06, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]): lunes 3 a martes 4 de enero.
 Lugares: despacho de Chiara en el Monarch; el Hotel Pacífica, enfrente del Monarch sobre el Paseo Pacífica (DISEÑO: nuevo, hotel de los años veinte, el "hotel de enfrente" del Cap. 48), suite del piso once; el Paseo Pacífica a pie.
@@ -22,6 +22,7 @@ DISEÑO del agente, pendiente de lectura:
 - Ella no contesta. Sale; Valenti la acompaña a la puerta hablando de otra cosa (un concierto). Cruza el Paseo a pie; el portero del Monarch: "Buenas tardes, señora Bellandi."
 - Valenti, hijo de un contador de naviera en Génova (CANON DEL AUTOR, aprobado el 2026-10-03 en Q7; integrado en [[02_Characters/Leone_Valenti]]). Teatro de la calle Alameda: lugar de pasada, DISEÑO.
 - Continuidad geográfica corregida en E4 (auditoría del arco, Q1, 2026-10-03): la vista del despacho del Cap. 47 se ajustó a Paseo Pacífica, en coherencia con [[03_Factions/El_Casino]].
+- **Terraza sur con Fabrizio (añadida 2026-10-18; DISEÑO aprobado por el autor en el plan del arco final, prosa DISEÑO pendiente de lectura):** noche de D12, entre el regreso del Pacífica y la coda. Última plática de Chiara con Fabrizio antes de su muerte (*Sombras de Poder*, Cap. 1). Él sube al despacho con un tóper de anelletti de su mujer, lo pone sobre el reporte y la saca a la terraza (limoneros en arpillera, calentador de gas del muelle). La llama *Chiara* (el «Señora Bellandi» del 41 se retiró el 2026-10-18). Pasado: la fiesta de la cámara desde su lado (Marta le pagó mil liras, la pisó a propósito treinta y cinco minutos); segundo y último «tu madre…», en presente («me debe quinientas»). Presente: Matteo y el edificio encima, sus hijos. Pregunta por hijos → «Con la vida que llevo es casi imposible» → «¿Ni con Mercer?». Futuro: empieza a decir algo, el teléfono vibra, se detiene; «Cuando vuelva Mercer, desayunamos aquí. Hay algo que quiero contarte con los dos delante.» Chiara lo lee como Matteo/la mesa. **Lo que iba a contar es el embarazo de Paola** (CANON DEL AUTOR, 2026-10-18); el texto no lo insinúa: «Hijos. ¿Quieres?» gana peso en el Libro II. Sin coerción (orden del autor, 2026-10-18: pasa a Tommaso): el teléfono boca abajo sólo interrumpe. Cuadra con el Cap. 1 de *Sombras* («Esta semana fue tres veces… Todavía tengo su tóper. Su mujer me lo va a cobrar»); allí «Llevaba meses sin pararse en mi oficina» queda por revisar. DISEÑO: esposa Paola, hijos Giada (perdió un diente) y Nico (quiere ser portero por los guantes); plato anelletti; el lápiz de Fabrizio (Cap. 35) sigue en el escritorio de Chiara.
 - Coda D13: recepción avisa que Valenti dejó el hotel esa mañana y dejó dicho que no hay prisa (se va antes del convoy; ambigüedad intacta). "¿Quiere dejarle algún recado?" Chiara cuelga sin contestar; firma la hoja de turnos que estaba sin firmar desde el 48; baja por el Lancia. No se dice adónde va (el 50 la encuentra fuera y la hace volver).
 - No se usa "Qué lamentable" (no está sembrado en prosa; queda reservado). No se describe a Valenti más allá de lo fijado en el Cap. 40; apariencia y manía siguen PENDIENTE. No se nombra a Halbrook ni el señuelo. Sin EPUB, commit ni push.
 -->
@@ -227,6 +228,132 @@ Chiara le contestó con la cabeza.
 Atravesó el lobby. El ruido de las máquinas le llegó desde la sala de juego como le llegaba siempre, una lluvia de monedas que no eran monedas, campanitas, la voz grabada de una mujer felicitando a alguien. Una de las gerentes de piso la vio pasar y empezó a caminar hacia ella con una carpeta, y luego cambió de idea y se quedó donde estaba.
 
 En el elevador de la Torre Norte apretó el botón de su despacho, no el del penthouse.
+
+---
+
+A las nueve y media tocaron a la puerta.
+
+Chiara no había encendido más luz que la lámpara del escritorio. Tenía delante el reporte de la noche anterior, que ya había leído dos veces, y no habría podido repetir uno solo de sus números.
+
+Era Fabrizio. Traía el abrigo puesto y una bolsa de papel del supermercado con algo pesado en el fondo, y se quedó en el marco como si la puerta todavía estuviera cerrada.
+
+—Vi la luz desde el estacionamiento —dijo—. Chiara.
+
+Era la tercera vez en cinco días que subía hasta ahí.
+
+Sacó de la bolsa un tóper de vidrio con tapa azul y lo puso encima del reporte, sobre los números.
+
+—Anelletti. Paola los hizo el domingo, el domingo no viniste, y el lunes están mejores.
+
+—Ya cené.
+
+—¿Qué cenaste?
+
+Chiara no contestó. Fabrizio miró el escritorio: la carpeta de la nómina, el billete doblado, el lápiz junto al teléfono.
+
+—Ése es mío.
+
+—Ya no.
+
+—Ya, ya. —Se rió, una risa corta, y miró la ventana, el letrero dorado del hotel de enfrente encendido sobre el Paseo—. Aquí no. Aquí comes como si te fueran a cobrar el plato. ¿Sigue siendo tuya la terraza?
+
+---
+
+La terraza sur estaba helada. Alguien de mantenimiento había envuelto los dos limoneros en arpillera, igual que las palmeras del Paseo, y había amarrado la tela con cuerda, y los dos árboles parecían dos personas esperando con la cabeza tapada. Fabrizio pidió por teléfono a la cocina que les subieran uno de los calentadores de gas que se usaban en el muelle para los banquetes de invierno; no preguntó si se podía. Lo encendió él mismo, se quemó un dedo, se lo metió en la boca y siguió hablando con el dedo en la boca.
+
+Le puso el abrigo en los hombros sin pedirle permiso. Ella lo dejó. Se sentaron en las dos sillas de hierro que nadie había metido desde el otoño, con el tóper abierto sobre la mesita, y abajo el puerto tenía las luces de siempre y un barco grande que no se movía.
+
+—Come.
+
+Chiara comió. Estaban buenos. Estaban mejores al día siguiente, como él había dicho, y se lo dijo, y Fabrizio puso la cara de un hombre al que le dan la razón muy pocas veces.
+
+—Giada quiere una cámara para su cumpleaños —dijo—. De video. Le dije que no, que las cámaras vuelven serias a las niñas.
+
+Chiara levantó la vista del tóper.
+
+—Tu madre me dio mil liras —dijo él—. Para que te sacara a bailar. Quinientas antes y quinientas después, si conseguía que bajaras la cámara. —Se sopló el dedo quemado—. Te pisé a propósito. Treinta y cinco minutos. Los conté en el reloj de la sala.
+
+—Dije media hora.
+
+—¿A quién se lo dijiste?
+
+—A nadie.
+
+—Treinta y cinco. —Fabrizio estiró las piernas hacia el calentador—. Y no la bajaste. Así que me debe quinientas. —Empujó el tóper un centímetro hacia ella con un dedo—. Y si te ve con esa cara, no me las paga nunca.
+
+Chiara no le dijo nada. Comió otro bocado. Fabrizio miró el puerto y la dejó comer, y por un momento ninguno de los dos estuvo en San Aurelio.
+
+—Estás haciendo lo de Matteo y lo tuyo —dijo él después—. Te vi el otro día firmando en el despacho de él como si fuera el tuyo. Y luego bajaste a firmar al tuyo.
+
+—Alguien tiene que firmar.
+
+—Alguien. —No discutió—. Giada perdió un diente en la escuela la semana pasada. Lo trajo envuelto en una servilleta y quería saber si el ratón de aquí paga en dólares o en euros. Paola dice que en dólares, porque vivimos aquí. Giada dice que en euros, porque el diente es italiano.
+
+—¿Quién ganó?
+
+—Giada. Siempre gana Giada. —Se rió—. Nico quiere ser portero de hotel cuando sea grande. Por los guantes.
+
+—Es buen oficio.
+
+—Eso le dije.
+
+El calentador hacía un ruido de soplete bajito, constante, y el calor les llegaba a las rodillas y no más arriba.
+
+—¿Y tú? —preguntó Fabrizio.
+
+—¿Yo qué?
+
+—Hijos. ¿Quieres?
+
+Chiara dejó el tenedor sobre la tapa azul.
+
+—Con la vida que llevo es casi imposible.
+
+Fabrizio asintió como si eso fuera una respuesta y no lo fuera del todo.
+
+—¿Ni con Mercer?
+
+Ella lo miró. Él no se disculpó por la pregunta.
+
+—Paola me pregunta por él —dijo—. Dice que nunca lo has traído a cenar. Yo le digo que tú no traes a nadie a cenar, que te llevan.
+
+—Mercer no está.
+
+—Ya sé que no está.
+
+No le preguntó dónde. No le preguntó nada de Camp Alder, ni del juez, ni de los cuatro días. Chiara pensó que él sabía, o que sabía lo bastante, y que esa noche había subido a otra cosa.
+
+—Va a volver —dijo Fabrizio.
+
+No era una pregunta. Chiara no lo corrigió. Hacía cuatro horas que un hombre le había explicado, con la taza en el plato, que no.
+
+Fabrizio se inclinó hacia adelante, con los codos en las rodillas y las manos juntas, como si fuera a rezar o a pedir un préstamo.
+
+—Chiara, hay una cosa que…
+
+El teléfono le vibró en el bolsillo del saco. Lo sacó, miró la pantalla, lo puso boca abajo sobre la mesita, junto al tóper. No contestó.
+
+—No —dijo—. Así no.
+
+—¿Así cómo?
+
+—Así. —Señaló con la barbilla la terraza, el frío, el abrigo en los hombros de ella, el tóper a medio comer—. Tú sola, con esa cara, y yo con el dedo quemado.
+
+—Fabrizio.
+
+—Cuando vuelva Mercer, desayunamos aquí. —Se enderezó—. Hay algo que quiero contarte con los dos delante.
+
+Chiara pensó en Matteo. En la carpeta de Génova, en el sello de una mensajería de San Aurelio que no tenía por qué estar en un sobre de Italia. Pensó en la mesa, que no tenía prisa.
+
+—¿Es de Matteo?
+
+—Es un desayuno. —Se puso de pie y se sacudió las rodillas, aunque no había nada en ellas—. Con los dos. Yo traigo el pan.
+
+Se agachó y apagó el calentador. El ruido de soplete se cortó y el frío subió enseguida, de golpe, desde la piedra. Fabrizio le quitó el abrigo de los hombros y se lo puso. Le besó las dos mejillas, la izquierda y luego la derecha, y retrocedió medio paso.
+
+—El tóper me lo regresas tú —dijo—. Paola los cuenta.
+
+Chiara se quedó en la terraza hasta terminarse lo que quedaba, frío, con los brazos cruzados sobre el saco, mirando el barco grande que no se movía.
 
 ---
 

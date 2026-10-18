@@ -5,7 +5,7 @@ Personajes con diálogo: Chiara Bellandi, Bonnie García, Kal Mercer (por teléf
 Ausente, sentido: Matteo Bellacorte (silla vacía, funciones absorbidas). Mencionado sin aparecer: Kal Mercer en persona, Ettore, La Mesa, Valenti, Livia Rinaldi, Alessio Lusardi (todos referidos por Chiara al hablar con Bonnie, sin escena).
 Ventana temporal: atardecer del mismo D0 en que Kal aterrizó a media tarde, cerca de las tres (Cap. 39) — Chiara aterriza por separado, en avión privado, unas horas después, al atardecer — hasta la madrugada de D1, sin marcar días con encabezado.
 Lugares: Kingsley Field (apertura); The Monarch — despacho que fue de Matteo, despacho propio de Chiara (cierre, con Bonnie).
-Función: la otra mitad de Palermo, desde Chiara. Muestra lo que Kal no pudo ver en el Cap. 40: por qué declaró a Kal ajeno a la casa Ardizzone, que decidió por él, y que Kal se fue sin que ella supiera de Halbrook. En paralelo, instala la inconsistencia de mensajería de Matteo, el primer cambio de temperatura de Fabrizio, y funda la relación Chiara-Bonnie con la mentira "—Nada." como bomba para el Cap. 42.
+Función: la otra mitad de Palermo, desde Chiara. Muestra lo que Kal no pudo ver en el Cap. 40: por qué declaró a Kal ajeno a la casa Ardizzone, que decidió por él, y que Kal se fue sin que ella supiera de Halbrook. En paralelo, instala la inconsistencia de mensajería de Matteo, Fabrizio ocupado (ya no frío: ver nota de ajuste), y funda la relación Chiara-Bonnie con la mentira "—Nada." como bomba para el Cap. 42.
 
 - REGLA ESTRUCTURAL: sigue el plan de cierre de Parte III al detalle. No se explica el corte de cabello, no hay escena conjunta Kal-Chiara, no se resuelve Matteo, no se revela Nereo/Volpi/Corrado/Consorcio como atacante, Fabrizio no es traidor, Bonnie todavía no es protegida.
 - **Cabello:** primera revelación al lector. Kal no lo ve hasta el Cap. 42. No se explica el motivo en ningún punto del capítulo, ni siquiera a Bonnie.
@@ -16,6 +16,7 @@ Función: la otra mitad de Palermo, desde Chiara. Muestra lo que Kal no pudo ver
 
 > **CORRECCIÓN QUIRÚRGICA (2026-09-22, Claude Sonnet 5, encargo del autor):** arquitectura aprobada intacta; se corrigió (1) metadata temporal — Kal aterriza a media tarde, no por la mañana; (2) fuga de POV en la apertura — se retiró información del Cap. 39 que Chiara no puede conocer (maleta, frase repetida); (3) descripción del cabello reducida a dato físico puro, sin interpretar el gesto; (4) Torre Norte verificada como canon existente en [[05_Locations/El_Penthouse]], se conserva; (5) cronología de la camioneta corregida — la cámara registra el día que llegó el sobre, antes de que Matteo se fuera, no esa misma noche; Bonnie lo confirma explícitamente ("¿Cuándo la grabaron?" / "Antes de que Matteo se fuera. No es de esta noche."); (6) "una mujer puso a Kal sobre la mesa" pasa a ser un movimiento institucional de la Mesa, sin atribuírselo a Livia por nombre; (7) "un hombre cerca de mi asiento deja de ser mío" pierde la lectura posesiva y pasa a "vinculado a mi asiento... se vuelve reclamable"; (8) se separó causalmente Palermo (por qué Chiara no llama a Kal) del coche de Matteo (por qué existe la investigación) — se retiró "Por eso el coche." y se insertó el corte "¿Y el coche? / Es otra cosa."; (9) se eliminó "tú no le perteneces a nadie todavía. Eres tuya." — reemplazada por la lógica de escalamiento de Chiara ("contigo esto sigue siendo un coche. Con Kal deja de serlo."), que no reclama a Bonnie y prepara la objeción de Kal en el 42; (10) el hallazgo del contacto de Bonnie pasa por listas de control de seguridad del Monarch, no por una agenda de invitados; (11) el cierre pierde el vocativo "Bonnie" para calzar con la línea literal pedida. No se tocó "—Nada.", ni la confesión de que decidió por él, ni el final con "todavía". Sin EPUB, commit ni push.
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N41-1, N41-2, N41-3. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
+- Ajuste 2026-10-18 (orden del autor): Fabrizio ya no está bajo coerción (pasa a Tommaso); su distancia se suaviza: sólo está ocupado. La llamada de la mantelería pierde el «Señora Bellandi», la pausa y «guardó el dato»; ahora la tutea, tiene la cocina encima y ella tacha la mantelería. Prosa DISEÑO pendiente de lectura.
 -->
 
 # Capítulo 41 — La otra mitad
@@ -52,17 +53,17 @@ Firmó la nómina. Dejó el contrato para el día siguiente. Le devolvió la lla
 
 Llamó después a Fabrizio, por la mantelería de un evento que Matteo había dejado a medio resolver antes de irse.
 
-Contestó al quinto timbre, no al segundo.
+Contestó al quinto timbre, con ruido de cocina detrás.
 
-—Señora Bellandi —dijo, y el nombre completo, formal, le sonó raro en su boca, porque llevaba meses siendo sólo *Chiara* para él.
+—Chiara. Dime.
 
 —Fabrizio. La mantelería del sábado.
 
-—Ya está resuelto. —Una pausa demasiado corta para ser una pausa de verdad—. Cualquier cosa, me escribe. Tengo otra llamada.
+—Ya está, ya está. La resolví esta tarde. —Alguien le gritó algo y él tapó el teléfono para contestar—. Te dejo, que tengo a los de banquetes encima. Mañana te cuento.
 
 Colgó antes de que ella terminara de decir que no había más que decir.
 
-Chiara se quedó con el teléfono todavía en la mano, mirando la puerta con el nombre de Matteo, y guardó el dato para revisarlo después, con más tiempo del que tenía esa noche.
+Chiara se quedó con el teléfono todavía en la mano, mirando la puerta con el nombre de Matteo, y tachó la mantelería de la lista.
 
 ---
 

@@ -59,9 +59,9 @@ Lo que opera hoy:
 
 Antes de integrarse del todo a El Patio, [[02_Characters/Tommaso_Lusardi|Tommaso Lusardi]] la encuentra y la usa como fuente informal sobre el norte: corredores, rutas, quién trabaja para quién. Mei-Lin acepta — todavía no confía en nada nuevo y una fuente extranjera que paga por gossip de calle no le parece distinto de lo que ya conocía en su antigua banda.
 
-> **SUPERSEDIDO EN PARTE (CANON DEL AUTOR, 2026-10-12):** Tommaso **no muere** (se ausenta hacia el final de *Sombras de Poder*; el asesinado al abrir el libro es [[02_Characters/Fabrizio_Rinaldi|Fabrizio]]). Sigue vigente que Tommaso la recluta y que Mei-Lin acaba informando a Varek por miedo; queda superado que Varek la absorba **tras matar a Tommaso**. **CANON DEL AUTOR (2026-10-12): Mei-Lin se queda con Tommaso** como fuente. Hay que cuadrarlo de modo que la salida de Tommaso (tras el choque, hacia el final del libro) no levante sospechas, o que Mei-Lin termine **triple agente sin querer, por miedo** (Patio / Tommaso / Varek). El autor aprobó la propuesta de triple agente el 2026-10-13: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]. El párrafo siguiente se conserva como historial.
-
-Cuando [[02_Characters/Dario_Varek|Dario Varek]] descubre esa línea y elimina a Tommaso, no cierra la fuente: **la absorbe.** Mei-Lin es joven, local, ya empieza a insertarse en el entorno de Kal, y le teme a Varek — todo lo que Tommaso no era. La línea `Tommaso → Mei-Lin` se convierte en `Varek → Mei-Lin → periferia de El Patio`, sin que Kal, Chiara o Bonnie lo sepan.
+> **CANON DEL AUTOR (2026-10-12 y 2026-10-13):** Tommaso **no muere** (se ausenta hacia el final de *Sombras de Poder*; el asesinado al abrir el libro es [[02_Characters/Fabrizio_Rinaldi|Fabrizio]]). Mei-Lin se queda con Tommaso como fuente y termina **triple agente sin querer, por miedo** (Patio / Tommaso / Varek): Varek descubre la línea `Tommaso → Mei-Lin` y la parasita, sin que Kal, Chiara o Bonnie lo sepan; cuando Tommaso se retira, esa línea se cierra sola y en F2 se descubre la de Varek ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]).
+>
+> Plan anterior retirado: [[97_Supersedido/Tommaso_Muere_Al_Abrir_Libro_II]].
 
 Mei-Lin sí entrega información real a Varek — su traición no es un malentendido ni una sospecha sin fondo. Pero tampoco es una infiltrada plantada desde el principio para destruir a El Patio: entra por su propia historia, y con el tiempo empieza a querer de verdad a la gente que encuentra ahí — Bonnie, Nadir, los chicos del barrio, incluso Kal. Su traición es real y no queda absuelta por el miedo; también hay un error de lectura: leyó perfectamente la jerarquía vieja (Varek arriba de todos) y tarda en entender que el mundo empezaba a cambiar. **Sigue filtrando por miedo, no por convicción**, atrapada entre el modelo de Dario (obediencia por miedo) y el de Kal (lealtad ganada) sin decidirse a confiar en que Kal pueda protegerla de Varek.
 
@@ -71,8 +71,8 @@ Mei-Lin sí entrega información real a Varek — su traición no es un malenten
 
 - **Cap. 45:** con Bonnie, le aporta a Chiara horarios, cambios de turno y cámaras del lote de la base (oficio de rutas del norte). Su pregunta "¿Para qué quiere saber si está vivo, si no lo puede sacar?" es DISEÑO.
 - **Cap. 48 — [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/48_Su_Nombre|Su nombre]]:** Bonnie le pasa su número a Chiara sin saber para qué. Mei-Lin la lleva al puente de un carril sobre la vía de la cementera y se sienta en la mesa con Rafe en La Golondrina. **Siembra muda (CANON DEL AUTOR: no se revela):** pregunta quién le dijo a Chiara "por tierra"; Rafe: "¿Tú de quién eres?" / "De nadie." / "Eso dicen todos los que son de alguien."; mira la libreta de Maribel cuando anota el nombre; no acepta el sobre ("No es por dinero"); baja en una parada y camina hacia el sur sin esperar el camión. En el 50, Chiara la ve en su lista del teléfono "hacia el sur con las manos en los bolsillos".
-- **A quién informa:** a su contacto, que por canon es **Tommaso**. ~~Dario la absorbe después de matarlo~~ (superado 2026-10-12: Tommaso sobrevive y Mei-Lin se queda con él); **CANON DEL AUTOR (2026-10-13): triple agente.** Varek descubre la línea Tommaso → Mei-Lin y la parasita; cuando Tommaso se retira, esa línea se cierra sola y en F2 se descubre la de Varek ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]). El plan decía "informa a Dario" y se corrigió el 2026-10-03 (A11 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]]). La prosa nunca lo dice.
-- **Regla:** hasta que el autor fije el nuevo mecanismo (antes: "hasta la muerte de Tommaso"), no se muestra que informa a nadie. Las cinco señales del 48 son mínimas y negables; si el autor las siente demasiado legibles, la siguiente que sale es "¿usted dónde va a estar?" (D15).
+- **A quién informa:** a su contacto, que por canon es **Tommaso**, y se queda con él; **CANON DEL AUTOR (2026-10-13): triple agente.** Varek descubre la línea Tommaso → Mei-Lin y la parasita; cuando Tommaso se retira, esa línea se cierra sola y en F2 se descubre la de Varek ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]). La prosa nunca lo dice.
+- **Regla:** hasta que el autor fije el nuevo mecanismo, no se muestra que informa a nadie. Las cinco señales del 48 son mínimas y negables; si el autor las siente demasiado legibles, la siguiente que sale es "¿usted dónde va a estar?" (D15).
 - **50b:** sale en la foto del puente, con las manos en los bolsillos, junto a Chiara. Registro: [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]], "Mei-Lin informa a su contacto".
 
 ---
@@ -105,8 +105,8 @@ Como conductora, debe tener una técnica distinta de Kal y Harper:
 - [[02_Characters/Kal_Mercer]] — la absorbe a una estructura que no debería repetir lo que la rompió antes.
 - [[02_Characters/Chiara_Bellandi]] — pendiente de definir. Chiara puede detectar en Mei-Lin una fuente de inteligencia sobre bandas rivales.
 - [[03_Factions/Almendra_Towing]] — nueva casa operativa, si decide quedarse.
-- [[02_Characters/Tommaso_Lusardi]] — la recluta como fuente informal. (Antes: "antes de que Varek lo elimine"; Tommaso sobrevive desde el 2026-10-12.)
-- [[02_Characters/Dario_Varek]] — absorbe la línea de inteligencia de Tommaso y la convierte en su fuente pasiva dentro de El Patio.
+- [[02_Characters/Tommaso_Lusardi]] — la recluta como fuente informal.
+- [[02_Characters/Dario_Varek]] — parasita la línea de inteligencia de Tommaso (triple agente, CANON 2026-10-13) y la convierte en su fuente pasiva dentro de El Patio.
 - [[02_Characters/Nadir_Amrani]] — quien finalmente la ejecuta en F2.
 
 ---
@@ -119,7 +119,7 @@ Como conductora, debe tener una técnica distinta de Kal y Harper:
 
 > **PENDIENTE:** qué conserva Mei-Lin de su antigua banda.
 
-> **RESUELTO (2026-09-20):** quién la busca después de integrarse — primero [[02_Characters/Tommaso_Lusardi|Tommaso]], después [[02_Characters/Dario_Varek|Varek]] directamente (~~tras su muerte~~: Tommaso sobrevive, CANON 2026-10-12; el paso a Varek: triple agente, CANON 2026-10-13) (ver "origen de la filtración", arriba).
+> **RESUELTO (2026-09-20):** quién la busca después de integrarse — primero [[02_Characters/Tommaso_Lusardi|Tommaso]], después [[02_Characters/Dario_Varek|Varek]] directamente (triple agente, CANON 2026-10-13) (ver "origen de la filtración", arriba).
 
 > **RESUELTO (2026-09-20):** sí traiciona realmente — entrega información real a Varek — pero por coerción/miedo, no por convicción ni plan de infiltración desde el origen; con el tiempo llega a querer sinceramente a la gente de El Patio. Ver "origen de la filtración", arriba.
 

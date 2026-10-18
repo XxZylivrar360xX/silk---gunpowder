@@ -105,7 +105,7 @@ Debe desarrollar de forma suficiente:
 - el pacto con Varek y la entrada de Kal a su estructura;
 - la presión temprana de Dario;
 - la presión temprana de Il Consorzio sobre Chiara (H13, Palermo) sin convertirlo todavía en antagonista principal de volumen;
-- la salida de Matteo y el aislamiento progresivo de Chiara (Fabrizio se distancia ~~, Tommaso queda en riesgo~~; ver #54);
+- la salida de Matteo y el aislamiento progresivo de Chiara (~~Fabrizio se distancia~~ — superado 2026-10-18: la coerción pasa a Tommaso y Fabrizio no se aleja, muere ~~, Tommaso queda en riesgo~~; ver #54);
 - F1 — la mentira bajo la lluvia — y su reconciliación parcial;
 - H19/H20 — Camp Alder y el fracaso de los recursos de Chiara para liberar a Kal; desde 2026-10-01, H20 es el **arco final sin Kal** (Caps. 44–50b): institución, red, El Patio, Dario, los Bravos e Il Consorzio, cada puerta más cara que la anterior;
 - la liberación inexplicada de Kal (mecanismo reservado a *Voto de Ceniza*) y el reencuentro — **"Ciao, bella"**;
@@ -135,7 +135,7 @@ Estado de salida:
 
 - Kal y Chiara están reunidos, sin haber hablado todavía de lo ocurrido.
 - El Patio existe como estructura naciente alrededor de Kal; Ren Wei todavía no se integra.
-- Chiara ha perdido a Matteo y ve alejarse a Fabrizio (muere al abrir el Libro II); Tommaso sigue vivo ~~(muere al abrir el Libro II)~~ y se ausenta hacia el final del Libro II (#54).
+- Chiara ha perdido a Matteo y ~~ve alejarse a~~ conserva a Fabrizio, que muere al abrir el Libro II (sin distancia previa, 2026-10-18); Tommaso sigue vivo ~~(muere al abrir el Libro II)~~ y se ausenta hacia el final del Libro II (#54).
 - Il Consorzio ya reclamó a Chiara como Ardizzone (H13, Palermo), sin ser todavía antagonista central.
 - Kal le debe a alguien (Halbrook, sin nombrarlo en el libro) su libertad — deuda sin cobrar.
 - Chiara le debe a Dario una cuenta abierta (Kal no lo sabe); su nombre quedó escrito con los Bravos, que asaltaron un convoy federal; Il Consorzio le ofreció el Monarch y ella no contestó (2026-10-01).
@@ -779,6 +779,7 @@ Este documento cambió canon anterior en los siguientes puntos:
 39. **La noche Marsh–Vera ocurre durante el Libro I**, fuera de escena, entre la noche del taller del norte (Cap. 26) y el amanecer del Cap. 29: cuando Kal llega a la mansión, **Varek acaba de recibir al niño** y lo mantiene oculto durante la reunión. Lo que Vivian dice en el patio es código sobre el niño (reescritura del Cap. 29 PENDIENTE). Supersede "hace ~18–20 años": Nicholas carga a Vera **~22–24 años** y **Ethan tiene ~27–29 en el V** (antes 23–24).
 40. **El sospechoso oficial es el padre Marsh**, asociado de bajo nivel de Varek. Blake mata a los dos padres; Volpi desaparece los cuerpos y recoge el arma. Versión oficial: el padre disparó a Vera y huyó con la madre. El cierre del V prueba que él no pudo disparar, pero no que estuviera muerto: eso se reserva para el VII.
 41. **La omisión institucional pasa de Keene (muerto antes del Cap. 3) a Elena Vega**, jefa recién llegada, que deja correr la versión simple. Lucia, subjefa entonces, no participa ni sospecha.
+    > **PENDIENTE, diferido a los Libros V-VII (autor, 2026-10-17):** Vega entra en el Libro II y en el Libro I la jefatura está vacante, con Lucía en funciones. Cómo le llega la omisión a Vega se decide al trabajar V-VII. Ver [[98_Agent_Handoff/sessions/2026-10-17_claude_cap07_geografia_y_mando_interino]].
 42. **Nicholas perdió el rastro del niño** después de esa noche (le dijeron que se lo llevaron unos parientes). Ethan se le acerca de adulto como pareja de Elenna, y Nicholas lo aprecia sin saber quién es. Supersede la figura de "Uncle Nick".
 43. **La entrevista con Volpi en la isla va en el VII**, después del testimonio de Dylan.
 

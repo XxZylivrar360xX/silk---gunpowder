@@ -1,6 +1,6 @@
 # Ficha de Voz - Fabrizio Rinaldi
 
-> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]). Vara: el lobby del Cap. 2 ("¿Comiste?"). **Decisión del autor (2026-10-04):** Fabrizio pasa a ser un actor más involucrado en la Parte I; hoy sólo habla en el Cap. 2. Su presencia nueva se diseña capítulo por capítulo con el autor. Ficha de personaje: [[02_Characters/Fabrizio_Rinaldi]] (coerción de Volpi tras el primer atentado: CANON).
+> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]). Vara: el lobby del Cap. 2 ("¿Comiste?"). **Decisión del autor (2026-10-04):** Fabrizio pasa a ser un actor más involucrado en la Parte I; hoy sólo habla en el Cap. 2. Su presencia nueva se diseña capítulo por capítulo con el autor. Ficha de personaje: [[02_Characters/Fabrizio_Rinaldi]] (coerción de Volpi: superada para él el 2026-10-18, pasa a Tommaso).
 > **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
 
 ## Cadencia y sintaxis
@@ -17,7 +17,7 @@ Palermo, comida, madre ("Tu madre me mataría"), casa, viejo, amiga, distancia. 
 
 - No expone el pasado de Chiara delante de terceros; si lo roza, media frase y cambia de tema.
 - No sentencia: si suelta una frase general ("La inteligencia no es un defecto"), está fuera de registro. Defiende con anécdota o con broma, no con aforismo.
-- **Después del primer atentado (coerción de Volpi):** no explica su distancia. Los silencios y las retiradas prácticas son la señal; no se vuelve frío ni traidor.
+- ~~**Después del primer atentado (coerción de Volpi):**~~ (superado 2026-10-18: la coerción pasa a Tommaso; Fabrizio sólo está ocupado en la Parte III) no explica su distancia. Los silencios y las retiradas prácticas son la señal; no se vuelve frío ni traidor.
 
 ## Comportamiento físico al hablar
 
@@ -31,7 +31,9 @@ Abre los brazos, besa las dos mejillas, baja la voz al recordar Italia, toca el 
 ## Bajo presión
 
 - **Enfadado:** sin evidencia todavía.
-- **Asustado (tras la coerción):** amabilidad de más, citas canceladas con excusas pequeñas.
+- ~~**Asustado (tras la coerción):** amabilidad de más, citas canceladas con excusas pequeñas.~~ (superado 2026-10-18)
+- **Ocupado:** contesta tarde, con ruido detrás, la tutea igual y cuelga con «mañana te cuento» (41).
+- **Cuando quiere decir algo grande:** se inclina con los codos en las rodillas, empieza y se frena; lo aplaza a una mesa con comida (49).
 - **Herido:** "Ya, ya": retrocede.
 - **Afectuoso:** comida, recuerdos de Marta, el merlot que ella odia.
 - **Mintiendo:** cambia de tema hacia Palermo.

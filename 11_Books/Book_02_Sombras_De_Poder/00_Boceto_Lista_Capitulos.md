@@ -81,6 +81,7 @@
 **2. Con su letra** — ene A3, heladas · Chiara · comisaría; su oficina del Monarch
 - **Función:** la primera silla vacía; el poder empieza a llegarle por pérdida.
 - **Beats:** Lucía le pide identificar el cuerpo. La ciudad baraja una hipótesis de asesino serial (la composición evoca a Keene). Le llegan los expedientes de Fabrizio, con su letra. Primer reordenamiento: las funciones de Fabrizio y Matteo empiezan a concentrarse en ella. Tommaso, vivo y activo.
+- **Paola (CANON DEL AUTOR, 2026-10-18):** tras identificar el cuerpo, Chiara llama a Paola sin decirle nada y la cita en su despacho del Monarch. Paola llega alegre; Chiara se da cuenta de que está embarazada antes de darle la noticia, que la rompe. Era lo que Fabrizio iba a contar en el desayuno. Capítulo exacto: PENDIENTE (aquí o en el siguiente).
 - **Tic 1 (primera vez):** su atención está en Fabrizio; la mano escribe en la periferia; mira el papel como si fuera a contestarle y lo rompe en tiras. Lectura falsa natural: el lector cree que escribe el nombre de él.
 - **No hacer:** insinuar a Volpi o el motivo (Fabrizio iba a hablar). Fabrizio le abrió la puerta a alguien conocido; eso no se dice.
 - **PENDIENTE:** mecanismo legal del Monarch.

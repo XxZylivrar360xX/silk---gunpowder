@@ -182,10 +182,10 @@ Esta escena no borra el daño de Año Nuevo. Lo vuelve legible: Kal no eligió b
 ## Pendientes
 
 - Confirmar si Anya vive permanentemente en Washington, D.C. o sólo se mueve ahí por contactos.
-- ~~Definir qué favor exacto cobra en Año Nuevo.~~ **RESUELTO (2026-09-26):** el programa de apoyo a veteranos (ver arriba).
-- ~~Decidir si Chiara y Anya se conocen cara a cara.~~ **RESUELTO (2026-09-26):** sí, en el Monarch (ver arriba).
-- ~~¿El patrón Halbrook en el programa es casual?~~ **RESUELTO (2026-09-26):** Anya lo sabe y lo usa como gancho. Sigue pendiente: qué sabe del convoy y del origen de Kal, y qué saca Kal del programa.
-- ~~Hora y lugar de llegada de Kal.~~ **RESUELTO (2026-09-26):** noche del 2 de enero, penthouse del Monarch.
+- Definir qué favor exacto cobra en Año Nuevo. **RESUELTO (2026-09-26):** el programa de apoyo a veteranos (ver arriba).
+- Decidir si Chiara y Anya se conocen cara a cara. **RESUELTO (2026-09-26):** sí, en el Monarch (ver arriba).
+- ¿El patrón Halbrook en el programa es casual? **RESUELTO (2026-09-26):** Anya lo sabe y lo usa como gancho. Sigue pendiente: qué sabe del convoy y del origen de Kal, y qué saca Kal del programa.
+- Hora y lugar de llegada de Kal. **RESUELTO (2026-09-26):** noche del 2 de enero, penthouse del Monarch.
 
 ---
 

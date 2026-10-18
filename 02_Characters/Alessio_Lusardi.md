@@ -5,7 +5,7 @@
 > **CANON DEL AUTOR (2026-08-23).** Material delicado: **el autor pidió construirlo con cuidado.** No inventar los motivos ni los hechos que faltan.
 
 **Quién fue:** el marido de [[02_Characters/Chiara_Bellandi]]. De **la famiglia Lusardi**.
-**Estado:** **muerto.** Chiara le disparó con la pistola de él. *(Corregido 2026-09-26, canon del autor: antes decía "apuñaló"; la escena de la muerte escrita por el autor lo fija como disparo con la pistola personal de Alessio.)*
+**Estado:** **muerto.** Chiara le disparó con la pistola de él.
 **Cómo consta oficialmente:** encontrado muerto en su residencia.
 
 ---
@@ -27,7 +27,7 @@ Y **Lusardi** funciona igual de bien en la puerta de un casino que en una conver
 
 - Chiara se casó con él.
 - **La relación terminó convirtiéndolo en persona non grata en su vida.**
-- En algún punto ocurre el incidente definitivo: **Chiara le dispara. Alessio muere.** *(Corregido 2026-09-26, canon del autor: antes decía "apuñaló"; la escena de la muerte escrita por el autor lo fija como disparo con la pistola personal de Alessio.)*
+- En algún punto ocurre el incidente definitivo: **Chiara le dispara. Alessio muere.**
 - **El arma (CANON DEL AUTOR, 2026-09-26):** una pistola personal y personalizada de Alessio, que él guardaba siempre en el cajón derecho de su escritorio de estilo victoriano. **No es la Beretta .25** del bolso de Chiara (Cap. 44).
 
 > **PENDIENTE, DELICADO:** los motivos. Por qué se volvió persona non grata, y qué ocurrió exactamente la noche del incidente. **No inventar.** Es el material más sensible del proyecto y el autor lo construirá con cuidado.
@@ -38,13 +38,13 @@ Y **Lusardi** funciona igual de bien en la puerta de un casino que en una conver
 
 > **CANON DEL AUTOR (2026-09-26), texto entregado por el autor. No reinterpretar, no sustituir, no "mejorar".** Resuelve parte del PENDIENTE DELICADO de arriba: muestra la última conversación y el disparo.
 >
-> **RESUELTO (2026-09-26):** el disparo supersede la versión del apuñalamiento. El arma es la pistola personal de Alessio (cajón derecho del escritorio victoriano), no la Beretta .25.
+> **RESUELTO (2026-09-26):** el arma es la pistola personal de Alessio (cajón derecho del escritorio victoriano), no la Beretta .25. Plan anterior retirado: [[97_Supersedido/Fichas_Detalles_Menores#Alessio Lusardi]].
 >
 > **PENDIENTE:** en qué libro y capítulo va esta escena (recuerdo, confesión o analepsis).
 >
-> **Uso de la fe (CANON DEL AUTOR, 2026-09-26):** "Questo è un mandato divino. Dio lo sa. E anch'io." es Alessio usando la fe de Chiara contra ella. **Kal jamás hará eso.** Puede bromear con su fe, pero la respeta, porque es parte de quien ella es y eligió ser. Sembrada en el Cap. 9. **Actualizado 2026-10-05 (autor, frente 3):** el Corral (antes Cap. 9) pasó a ser el 24c, una semana antes del jacuzzi, y la siembra se cortó para que la frase suene por primera vez en la confesión del Cap. 25 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Densidad_Funcion_Frente_3]], F3-1).
+> **Uso de la fe (CANON DEL AUTOR, 2026-09-26):** "Questo è un mandato divino. Dio lo sa. E anch'io." es Alessio usando la fe de Chiara contra ella. **Kal jamás hará eso.** Puede bromear con su fe, pero la respeta, porque es parte de quien ella es y eligió ser. **Actualizado 2026-10-05 (autor, frente 3):** sin siembra previa (se cortó del Corral, hoy Cap. 24c), para que la frase suene por primera vez en la confesión del Cap. 25 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Densidad_Funcion_Frente_3]], F3-1).
 >
-> **Uso en el Libro I:** la escena no se muestra. Sólo la frase del mandato divino regresa como recuerdo (Cap. 9; retirado el 2026-10-05: ver arriba). **Actualizado 2026-09-28 (autor):** en el Cap. 25 Chiara se lo **cuenta a Kal** en sus palabras (pistola del cajón, "no puedes irte", la frase del mandato divino, el disparo). No nombra a quien construyó la versión. **CANON DEL AUTOR (2026-09-28):** Alessio era impecable en público y siempre estaba detrás de ella con las manos en sus hombros, impidiéndole crecer ("la donna di Lusardi... hasta que la muerte nos separe"); hubo humillaciones, negaciones y **violencia física**. Chiara no debe leerse como asesina, sino como una mujer que aguantó. Detalles concretos de la violencia en el Cap. 25 = DISEÑO.
+> **Uso en el Libro I:** la escena no se muestra. **Actualizado 2026-09-28 (autor):** en el Cap. 25 Chiara se lo **cuenta a Kal** en sus palabras (pistola del cajón, "no puedes irte", la frase del mandato divino, el disparo). No nombra a quien construyó la versión. **CANON DEL AUTOR (2026-09-28):** Alessio era impecable en público y siempre estaba detrás de ella con las manos en sus hombros, impidiéndole crecer ("la donna di Lusardi... hasta que la muerte nos separe"); hubo humillaciones, negaciones y **violencia física**. Chiara no debe leerse como asesina, sino como una mujer que aguantó. Detalles concretos de la violencia en el Cap. 25 = DISEÑO.
 
 Alessio la miró durante unos segundos.
 

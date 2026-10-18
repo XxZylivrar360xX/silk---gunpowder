@@ -42,6 +42,7 @@ Mapa de navegación de *Seda y Pólvora*. Este índice apunta a las fuentes vige
 - [[log]] — índice de sesiones recientes; no es fuente de estado vigente.
 - [[97_Supersedido/README]] — ideas y planes sustituidos.
 - [[99_Reference/README]] — material externo no canónico.
+- [[99_Reference/kylia_puesta_en_escena/README]] — gesto y distancia de pareja para *Sombras de Poder* (Kylia, no canon).
 - [[tools/editorial/README]] · [[tools/epub-build/README]] · [[tools/pdf-build/README]] — herramientas locales.
 
 ## Snapshot anterior

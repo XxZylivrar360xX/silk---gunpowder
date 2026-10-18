@@ -65,6 +65,8 @@ Kal intenta convencerlo de que se equivoca — que ella no es ni importante ni d
 
 Ver [[02_Characters/Chiara_Bellandi]]: "la incomodidad empieza antes de que se conozcan" — ya estaba apuntado ahí; esto lo desarrolla.
 
+**CANON DEL AUTOR (2026-10-17) — la grieta:** lo que empieza a agrietar esa desconfianza es ver, como testigo, cómo mira Chiara a Kal cuando él no la está viendo. Ver [[06_Relationships/Kal_y_Chiara#La mirada cuando el otro no ve — CANON DEL AUTOR (2026-10-17), de toda la saga]].
+
 **CANON DEL AUTOR (2026-08-27) — dónde estalla:** en [[06_Relationships/Hitos#H12 — El atentado / El corral|H12]], Chiara se queda recuperándose en [[05_Locations/Casa_Comunitaria_De_La_Almendra]] después del ataque. Convivir día a día con Nadir ahí es lo que vuelve visible la fricción que hasta entonces era silenciosa — y es, indirectamente, lo que empuja a Kal a recomprar la casa de sus padres en el hito siguiente ([[06_Relationships/Hitos#H14 — El loft del soltero|El loft del soltero]]): necesita sacarla de un espacio que ya no puede compartir en paz.
 
 ---

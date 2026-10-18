@@ -8,6 +8,9 @@ Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre cap
 Dialogo K/C y reparto reescrito (2026-10-04, cirugia extraordinaria autorizada por el autor sobre capitulo TERMINADO; el estado se conserva). Direccion del autor: Chiara quiere entender la decision del Consigliere (que hace ella ahi) y cataloga a Tommaso, Matteo y Kal como variables externas, Kal la interesante por nueva; Kal busca dinero a gran escala y prestigio (Nadir ya abrio la estetica de autos; el casino abre carreras callejeras y tuneo), y los ojos de ella le duran mas que los pocos segundos que da a las mujeres de su circulo; Tommaso la vigila porque la version de Alessio asaltado solo en casa no le cierra, y la tolera porque su vision de negocio es afilada; Matteo ve en Kal a un hombre de calle que como socio puede abrir negocios futuros. DISENO del agente, BORRADOR pendiente de lectura; ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I.md §7. Intactos: Consigliere, H2, catre (salvo un parrafo), tina, y las lineas protegidas de Audit_Caps_01-03 §9.
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); capitulo TERMINADO, el estado se conserva; prosa nueva DISENO pendiente de lectura): Tommaso la llama "Bellandi" (regla dura de su ficha) en el lobby y al cerrar la junta. Fabrizio: "La inteligencia no es un defecto" sustituida por la anecdota del abuelo que corria a los listos (eleccion del autor). "Chiara Ardizzone en California... mapas" se queda (decision del autor); el 2026-10-06 el autor la cambio a "Chiara Ardizzone en la costa oeste" (San Aurelio pasa a Oregon; sarcasmo: hasta ahora siempre habia estado en la costa este, en Nueva York).
 Narrador (2026-10-05, SURGERY autorizada por el autor sobre capitulo TERMINADO; el estado se conserva): fuera "Era solo un dato." del lado de Kal (el "dato" es lexico de Chiara; el espejo sigue con "No era inicio de nada" y el radar), "el dato mas honesto de la tarde", la maxima del apreton de manos y "No era admiracion. Era algo mas util." Detalle: 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Narrador_Tesis_Resenas_ChatGPT.md.
+Estatura en el saludo (2026-10-17, decision del autor): tras "Kal tomo su mano", "Con los tacones, no tuvo que bajar la vista para encontrarle los ojos. Casi nunca le pasaba." Siembra el "Usted es alta" del Cap. 5 (Chiara 1.80, Kal 1.92; canon en fichas). Resto de las descripciones intacto.
+Ceno base de Chiara (2026-10-17, pedido del autor; DISENO de redaccion pendiente de lectura): linea base para el contraste de la mirada que solo es para Kal (canon en ficha de Chiara). En el retrato de la marquesina: "Las cejas oscuras le bajaban por dentro, hacia el centro, aunque nadie le estuviera hablando."; en la junta, tras "Chiara no le dio respuesta": "Ni siquiera aflojo las cejas." Ambas en POV de Kal; el contraste se cobra en el espejo del Cap. 6. La ceja levantada (ironia) no se toca.
+Recuerdos de la tina (2026-10-18, orden del autor; capitulo TERMINADO, el estado se conserva): el baile sale (Chiara lo cuenta en el Cap. 6) y la vela de Palermo pasa al Cap. 13. Queda solo el mural, detonado por la tercera foto; las dos primeras fotos quedan como siembra del Cap. 6. Linea puente DISENO: "La casa de esa pared ya no existia. De los tres, quedaba ella."
 -->
 
 # Capítulo 2 — Demasiado listo
@@ -442,7 +445,7 @@ Entonces la vio.
 
 Estaba afuera, bajo la marquesina, con un cigarro entre los dedos. El abrigo corto de felpa blanco le cubría los hombros sin cerrar del todo y dejaba ver la blusa roja sin mangas, el negro impecable del pantalón de vestir y la línea fina de una gargantilla que el chongo hacía imposible no notar. El pelo negro no se movía con el aire de la costa; estaba recogido con una precisión que convertía cualquier mechón suelto en decisión. Los tacones rojos tocaban el suelo como si el valet, la entrada y la ciudad entera hubieran sido puestos ahí para medir su ruido.
 
-Tenía rasgos italianos de una claridad que no necesitaba volverse decorativa: nariz recta, boca quieta, piel templada por otro sol. Los ojos almendrados, verdes por dentro y oscuros en el borde, no parecían esperar. Parecían estar decidiendo qué clase de lugar era antes de permitirle terminar de existir.
+Tenía rasgos italianos de una claridad que no necesitaba volverse decorativa: nariz recta, boca quieta, piel templada por otro sol. Las cejas oscuras le bajaban por dentro, hacia el centro, aunque nadie le estuviera hablando. Los ojos almendrados, verdes por dentro y oscuros en el borde, no parecían esperar. Parecían estar decidiendo qué clase de lugar era antes de permitirle terminar de existir.
 
 Había otros tres fumando cerca: un hombre con corbata floja, una mujer del área de eventos y un huésped que no sabía dónde poner las manos. Ninguno ocupaba el espacio como ella. Chiara no estaba apartada de la entrada. La entrada parecía haber aceptado rodearla.
 
@@ -468,7 +471,7 @@ Ella apagó el cigarro en un cenicero de pie, dio un paso y le ofreció la mano.
 
 —Ciao, sono Chiara Bellandi.
 
-Kal tomó su mano.
+Kal tomó su mano. Con los tacones, no tuvo que bajar la vista para encontrarle los ojos. Casi nunca le pasaba.
 
 El ruido del casino siguió detrás de ellos. Una máquina celebró una pérdida. Un coche frenó junto al valet. Matteo, por una vez, no dijo nada.
 
@@ -616,7 +619,7 @@ Kal no contestó. El arreglo floral seguía donde estaba, con o sin su permiso.
 
 Fabrizio bajó la vista a sus manos. Matteo miró a Chiara como si quisiera saber si eso acababa de salir bien o de salir carísimo.
 
-Chiara no le dio respuesta.
+Chiara no le dio respuesta. Ni siquiera aflojó las cejas.
 
 Kal esperó a que la sala terminara de acomodarse.
 
@@ -814,7 +817,7 @@ Lo sacó y puso las fotografías sobre el mármol.
 
 La primera era de Corrado y Marta bailando en el salón, desenfocados por el movimiento. La segunda mostraba a Chiara con seis años, sosteniendo la cámara demasiado grande para sus brazos, el ojo derecho cerrado y la boca apretada de concentración. En la tercera, Marta miraba fuera del encuadre mientras Corrado señalaba algo con una mano; los dos parecían estar a punto de reírse.
 
-No hizo falta mirarlas mucho tiempo para que la primera se volviera recuerdo completo.
+No hizo falta mirarlas mucho tiempo para que la tercera se volviera recuerdo completo.
 
 La primera vez que entendió que una habitación podía mirarla de vuelta tenía seis años.
 
@@ -848,55 +851,7 @@ Corrado abrió un espacio a su lado, como si la pared pudiera recibir una decisi
 
 —Bueno, dibujamos dentro a los tres. Así cualquier casa me vale.
 
-La memoria cambió de luz.
-
-La misma tarde, o quizá otra de la que sólo había sobrevivido el ruido, Chiara sostenía una cámara de video vieja y pesada contra el pecho. La fiesta estaba llena de adultos que hablaban demasiado alto, niños que corrían entre las piernas y música que hacía vibrar los vasos sobre la mesa. Fabrizio le había pisado un pie. Ella no había dejado de grabar.
-
-Corrado y Marta bailaban en el centro del salón. No bailaban bien. Bailaban como si eso no tuviera ninguna relación con hacerlo bien.
-
-—No bailes tan seria, Chiara, y deja la cámara.
-
-—Sono concentrata y Fabrizio me ha pisado.
-
-Corrado extendió una mano hacia el objetivo, pero Chiara se apartó justo a tiempo. La imagen se inclinó, atrapó el techo, volvió a encontrar a su madre y después el rostro de su padre, que sonreía con la paciencia de quien sabe que va a ser obedecido más tarde.
-
-Marta le gritó algo desde fuera del encuadre. Corrado no dejó de bailar. Chiara tampoco dejó de grabar.
-
-Chiara pasó el pulgar por el borde de esa última foto.
-
-Recordó otra conversación, una de esas que los adultos creen que los niños olvidan porque no entienden todas las palabras.
-
-Había sido en una iglesia de Palermo, con olor a cera derretida y a piedra fría, la luz de las velas votivas temblando sobre el metal de su repisa. Marta le había puesto una moneda en la palma y le había enseñado a encender el fósforo sin quemarse los dedos, frente al altar de un santo cuyo nombre Chiara ya no recordaba.
-
-—¿Y si no se cumple?
-
-Marta estaba sentada en la banca, frente a ella, un rosario enredado entre los dedos —no rezándolo, sólo pasándolo, quizá sólo la costumbre de no dejar las manos quietas— y hablaba con la serenidad de quien no promete que el mundo vaya a obedecer.
-
-—No es para que se cumpla.
-
-—Entonces, ¿para qué?
-
-—Es para que tu mente esté más tranquila.
-
-Chiara había mirado hacia el fondo del pasillo central, donde Corrado esperaba de pie, las manos en los bolsillos, con la paciencia de un hombre que entra a una iglesia por acompañar y no por necesitarla.
-
-—¿Tú haces lo mismo, papá?
-
-—Yo no, tesoro mío.
-
-—¿Por qué?
-
-Corrado se había acercado a ellas sin prisa, los pasos resonando bajo la bóveda vacía.
-
-—Porque prefiero arreglarlo personalmente. No te preocupes tanto por todo.
-
-—¿Y si pasa algo?
-
-—Ya lo iremos viendo. Siempre hay tiempo. Ven acá un momento. Siempre igual, no pasa nada, ya lo arreglo yo. Ya entenderás cuando tengas mi edad, ya verás. Quédate detrás de mí.
-
-La niña había obedecido. No porque creyera que su padre podía arreglarlo todo, sino porque por un instante bastaba con que él estuviera delante.
-
-Corrado no llegó a arreglar la redada que se lo llevó. Chiara no pudo ni despedirse.
+La casa de esa pared ya no existía. De los tres, quedaba ella.
 
 Chiara dejó la fotografía boca abajo.
 

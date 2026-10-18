@@ -180,6 +180,37 @@ Las escenas de los dos son **privadas por defecto**: cocinas, coches, teléfonos
 
 > **PENDIENTE:** la primera escena del Libro II donde alguien entra y casi dice *perdón por mirarlos* (quién entra y dónde). Queda sujeta al bloqueo de prosa de *Sombras de Poder*.
 
+## La mirada cuando el otro no ve — CANON DEL AUTOR (2026-10-17), de toda la saga
+
+**Firma del autor.** Cuando uno de los dos está ocupado en otra cosa, el otro lo mira.
+
+- **Ella lo mira cuando él habla.** Kal le habla a la banda, a una mesa, a un rival, y la atención de Chiara se nota de inmediato en cómo lo mira.
+- **Él la mira cuando ella hace algo.** Chiara escribe, cocina, se concentra o hace cualquier cosa cotidiana, y Kal la mira **como si le tomara fotografías en la mente**.
+- Y viceversa: el motivo corre en las dos direcciones durante toda la saga.
+
+**Cómo se escribe (DISEÑO del agente sobre la indicación del autor):**
+
+- **Dos texturas, una por personaje.** *Él toma territorio; ella toma relato*, también al mirar.
+  - **Ella lee.** En POV de Chiara, su mirada es el único momento en que el análisis se le vuelve otra cosa: qué hace él con el silencio, con las manos, a quién deja hablar primero. Empieza como estudio y no termina como estudio.
+  - **Él guarda.** En POV de Kal, la fotografía es **un solo detalle concreto, quieto y exacto** (la pluma contra el labio, harina en la muñeca, el mechón que se acomoda sin dejar de leer). Lo registra y no lo interpreta.
+- **El problema del POV: el mirado no puede verlo.** Hay tres vías:
+  1. **El POV del que mira.**
+  2. **Un testigo.** Un tercero ve la mirada (Nadir, Mabel, Danny, Matteo) y no dice nada, o dice muy poco. Encaja con la unión invisible: el barrio ve y calla.
+  3. **La prueba tardía, que es la más fuerte.** Tiempo después, él menciona un detalle que ella no sabía que él había visto. Ahí la fotografía se revela.
+- **El gesto de ella (CANON DEL AUTOR, 2026-10-17):** con Kal, la boca de Chiara sigue seria, pero la parte interna de las cejas se le arquea hacia arriba y los ojos se le abren un poco más. Con todos los demás, las cejas le bajan hacia el centro. Ceño base en el Cap. 2; primera aparición del gesto en el espejo del Cap. 6 (DISEÑO, pendiente de lectura). Detalle en [[02_Characters/Chiara_Bellandi#La mirada que sólo es para Kal — CANON DEL AUTOR (2026-10-17)|su ficha]].
+- **La palabra *fotografía* se dice una sola vez en la saga**, y ojalá la diga un tercero o Chiara cuando lo descubre, nunca el narrador como rutina.
+- **Convivencia con el aura.** En el aura los dos miran hacia el mismo lado. Este motivo vive en el otro momento, cuando uno está volcado hacia el mundo y el otro hacia él o ella. En público nunca se miran los dos al mismo tiempo.
+- **Gradiente.**
+  - **Libro I:** miradas robadas; si los atrapan, desvían la vista. Primeras fotografías de Kal: el saludo del Cap. 2 ("no tuvo que bajar la vista para encontrarle los ojos") y el "Usted es alta" del Cap. 5, la primera que se le escapa en palabras.
+  - **Cap. 6, bisagra (CANON DEL AUTOR, 2026-10-17):** en *Ambos* las miradas dejan de ser incómodas. Se descubren sin decir nada y sin nombrar lo que sienten; la tensión está ahí. Por eso el 6 junta varias (espalda en Parole Parole, jacuzzi, espejo, vestidor) y nadie aparta la vista: es la excepción deliberada a la dosis, no un exceso que haya que podar.
+  - **Libro II en adelante:** cuando los atrapan, ya no desvían la vista.
+  - Lo que se gane después queda PENDIENTE del autor.
+- **Dosis.** A lo más una vez por capítulo con los dos presentes, siempre en una acción cotidiana o en un momento de habla de uno de ellos. No en plena violencia (si ocurre ahí, una sola vez y con peso). No repetir la misma vía dos capítulos seguidos.
+- **Prohibido.** Que el narrador adjetive la mirada: "la miraba con amor", "no podía dejar de mirarla", "como si fuera lo más hermoso". La mirada se escribe con **duración y detalle**, nunca con adjetivo.
+
+> **CANON DEL AUTOR (2026-10-17) — la grieta de Nadir:** la mirada de Chiara sobre Kal, vista por [[02_Characters/Nadir_Amrani|Nadir]] como testigo, es una de las cosas que con el tiempo le muestran lo que no quería aceptar. No sustituye su desconfianza canon: la agrieta. Cuándo y cuántas veces lo ve, PENDIENTE.
+> **CANON DEL AUTOR (2026-10-17) — el ancla:** las fotografías son lo que Kal conserva en las separaciones: en Camp Alder (19 de diciembre al 5 de enero, Libro I) y en Stavanger (Libro II). En Camp Alder el Libro I no tiene POV de Kal, así que el ancla se cobra después, por la prueba tardía o al volver. Escena concreta, PENDIENTE.
+
 ---
 
 ## La incomodidad de estar cómodos

@@ -8,13 +8,15 @@ Ventana temporal: dias despues del Capitulo 6 (la noche de hierba en el penthous
 Lugares: Gabriella's (fiesta de vestimenta blanca).
 Funcion: ejecutar H3 completo (a, b, c) — la noche del ladrillo. Tres apariciones de Kal en la cabeza de Chiara sin que este presente: el Peugeot (primera vez), la dedicatoria de Volare (segunda vez, ya registrada como patron y no como dato suelto), y su llegada real con la banda de la Almendra (la tercera, esta si en persona). Cierra con el final de lo de Blake — ruptura en la calle, no por Kal sino porque ella entiende que buscaba algo que ya habia encontrado en otro lado.
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N7-1 a N7-7. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
+Cirugia y diseno 2026-10-17 (autorizados por el autor; sigue TERMINADO, prosa nueva DISENO pendiente de lectura): P1-P6 (taxi comprimido y cierre con la frase canon de H3; tercera vez sin recapitulado; fuera "la segunda del rato", "amanecido", la risa de Kal "en ese salon" y el doble "nadie sabia" de Volare; costura del nombre de Mercer via Almendra Towing). Anclaje: Gabriella's en Santa Brigida, frente a La Isla. Siembra: Blake cuenta que tras Keene manda la subjefa en funciones (sin nombre; CANON 2026-10-17). Continuidad: Nadir y Danny ya vistos en la acera del Cap. 5; Kal presenta formalmente a Nadir ("Tu amiga", paga el "Con una amiga" del 5) y a Hector. Ver 98_Agent_Handoff/sessions/2026-10-17_claude_cap07_geografia_y_mando_interino.md.
+Costura de entradas/salidas 2026-10-18 (DISENO, pendiente de lectura): tras el tocador Chiara sale a la entrada (se cruza con Dario), espera en la pared donde fumo y vuelve a entrar despues de Kal; antes "volvio a entrar" desde el tocador y la salida no estaba escrita. Imitacion de Kal ("Ciao, sono Chiara Bellandi", siembra del "Ciao, bella" del Cap. 35) movida del pasillo del ladrillo a "Traes la sonrisa de las juntas" (decision del autor): ahora responde a la mascara publica de Chiara; sale "La que pones cuando alguien habla..."; el ladrillo cierra solo la escena del pasillo.
 -->
 
 # Capítulo 7 — La noche del ladrillo
 
 Blake la dejó entrar primero, con una mano en la espalda baja que no era ternura: era demostración.
 
-Gabriella's había amanecido blanco esa noche — manteles blancos, flores blancas, la gente que Blake quería impresionar vestida de blanco de un modo que a Chiara le pareció menos elegancia y más uniforme. Ella también iba de blanco, porque no había forma de asistir sin serlo, y odiaba un poco cómo eso la volvía parte del atrezo.
+Gabriella's quedaba en Santa Brígida, sobre la costa sur, lejos del Monarch: un antro entre bares y mercados, cerca de la 101. Esa noche era todo blanco — manteles blancos, flores blancas, la gente que Blake quería impresionar vestida de blanco de un modo que a Chiara le pareció menos elegancia y más uniforme. Ella también iba de blanco, porque no había forma de asistir sin serlo, y odiaba un poco cómo eso la volvía parte del atrezo.
 
 —Ésta es Chiara —decía Blake, una y otra vez, a cada grupo nuevo—. Trabaja en el Monarch.
 
@@ -28,13 +30,19 @@ El capitán le preguntó por el torneo antes que por su nombre. Dijo que él no 
 
 Por un segundo fue el Blake de La Isla, el de antes de que llegaran sus amigos. Después el capitán contó un chiste, y Blake se rió más fuerte que el capitán.
 
+Camino al siguiente grupo, Blake bajó la voz como quien regala algo.
+
+—Desde lo de Keene no hay jefe. Manda la subjefa, en funciones, hasta que la alcaldía se decida. Si el capitán le cae bien a ella, a mí me conviene caerle bien a él.
+
+Chiara asintió como se asiente a un chisme de oficina, y se quedó con el dato.
+
 Chiara sonreía porque sonreír no costaba nada y porque ya llevaba suficientes fiestas de este tipo como para saber que la sonrisa correcta cerraba conversaciones más rápido que cualquier frase.
 
 Salió a fumar cuando ya no pudo sostenerla más.
 
 ***
 
-El aire de afuera olía a sal y a algo frito de algún puesto callejero tres calles más allá. Chiara encendió el cigarro con la espalda contra la pared, mirando la calle en vez del salón.
+El aire de afuera olía a sal y a algo frito de algún puesto callejero tres calles más allá. Al otro lado de la bahía, La Isla tenía todas las luces prendidas. Chiara encendió el cigarro con la espalda contra la pared, mirando la calle en vez del salón.
 
 Blake salió detrás de ella dos minutos después.
 
@@ -98,7 +106,7 @@ Chiara sonrió porque la sala esperaba que sonriera.
 
 Por dentro, algo se le cerró.
 
-No era la canción. Era lo que la canción decía de lo que Blake creía haber entendido de ella: que bastaba con la palabra *italiana* para definirla, que una melodía alegre y aeropuertaria alcanzaba para nombrarla, que ella era eso — ligera, exportable, fácil de aplaudir sin tener que preguntarle nada más. Nadie en esa sala sabía que a ella esa canción no le decía nada. Que la que sí le decía algo sonaba los domingos en la casa de su madre, y no tenía nada de alegre.
+No era la canción. Era lo que Blake creía haber entendido de ella: que bastaba con la palabra *italiana* para definirla, que ella era eso — una melodía alegre y aeropuertaria, fácil de aplaudir sin tener que preguntarle nada más. A ella esa canción no le decía nada. La que sí le decía algo sonaba los domingos en la casa de su madre, y no tenía nada de alegre.
 
 —Discúlpame un momento —dijo, y se levantó antes de que Blake pudiera decidir si eso era grosero.
 
@@ -118,7 +126,9 @@ Y dos veces, para alguien que llevaba una vida entera contando cosas, ya no era 
 
 ***
 
-Dario Varek estaba saliendo cuando ella volvió a entrar.
+Al salir del tocador no regresó a la mesa. Fue hacia la entrada, a buscar el aire que adentro no había.
+
+Dario Varek estaba saliendo cuando ella llegó a la puerta.
 
 —Signora Bellandi. —La miró el tiempo exacto para medirla, ni un segundo más—. Veo que la fiesta blanca le sienta.
 
@@ -132,13 +142,13 @@ Dario Varek estaba saliendo cuando ella volvió a entrar.
 
 No fue hacia el auto. Se quedó en la acera, con las manos en los bolsillos del abrigo, mirando la calle.
 
-Chiara lo dejó ahí, y estaba por volver a entrar cuando el mismo Peugeot rojo pasó otra vez — en dirección contraria esta vez — y giró en el callejón junto al local.
+Chiara lo dejó ahí y se apartó hacia la pared donde había fumado. Todavía no se decidía a volver a entrar cuando el mismo Peugeot rojo pasó otra vez — en dirección contraria esta vez — y giró en el callejón junto al local.
 
 Esta vez no tuvo que preguntarse quién iba dentro. Se quedó mirando la boca del callejón con el bolso apretado contra el costado, con Blake a veinte pasos, adentro, todavía presumiendo curvas.
 
 A los dos minutos aparecieron cuatro figuras caminando hacia la entrada principal.
 
-Kal, con la chaqueta de siempre. Y tres hombres que ella no conocía de cara pero sí de oídas, y que se fue acomodando sola, por las historias: el de la ropa que parecía sacada directo del taller tenía que ser Nadir; el de la gorra que ningún portero de Gabriella's iba a dejar pasar sin comentario tenía que ser Danny, el del Mustang en una noche y las líneas del patio; y el que venía detrás, con el paso de quien no necesita apurarse por nada, sólo podía ser Héctor.
+Kal, con la chaqueta de siempre. Nadir y Danny, los de la acera de aquella noche, ahora con nombre por las historias: Nadir con la ropa que parecía sacada directo del taller; Danny, el del Mustang en una noche y las líneas del patio, con una gorra que ningún portero de Gabriella's iba a dejar pasar sin comentario. Y el que venía detrás, con el paso de quien no necesita apurarse por nada, y que sólo conocía de oídas: tenía que ser Héctor.
 
 Ninguno con ropa que correspondiera a nada de lo que había adentro.
 
@@ -152,7 +162,7 @@ Kal miró su propia ropa como si la viera por primera vez. Después miró al por
 
 El portero no supo qué contestar a eso, y en el silencio que siguió, Nadir soltó una risa corta y Danny miró al techo como si buscara ahí la paciencia necesaria para no reírse también.
 
-Chiara, desde lejos, se rió disimuladamente detrás de la mano.
+Chiara, desde la pared, se rió disimuladamente detrás de la mano.
 
 Kal la vio.
 
@@ -160,7 +170,7 @@ No dijo nada, no se acercó, no le hizo una seña — sólo le dedicó una media
 
 El portero, resignado o simplemente cansado, los dejó pasar.
 
-Ésta ya no fue un pensamiento suelto ni una canción prestada. Ésta fue la tercera vez esa noche, y era él, entero, cruzando la puerta.
+La tercera vez esa noche era él, entero, cruzando la puerta.
 
 No había terminado de cruzarla cuando Dario, que seguía en la acera, dio dos pasos hacia él.
 
@@ -170,7 +180,19 @@ Le pareció raro. Le siguió pareciendo raro cuando el auto de Dario llegó y é
 
 ***
 
-Adentro, entre el ruido de la fiesta y la gente vestida igual, Chiara se apartó con Kal a un rincón donde nadie más estaba escuchando.
+Cuando ella volvió a entrar, Kal los trajo hasta ella sin ceremonia.
+
+—Nadir, ella es mi amiga Chiara.
+
+Nadir le dio la mano, correcto, sin la carcajada de la acera.
+
+—Ya nos conocíamos. —Y a Kal, sin soltarla todavía—: Tu amiga.
+
+—Héctor.
+
+Héctor inclinó la cabeza.
+
+Entre el ruido de la fiesta y la gente vestida igual, Chiara se apartó con Kal a un rincón donde nadie más estaba escuchando.
 
 —Vine con unos amigos —dijo él, con la cara seria de quien está explicando algo que no necesita explicación.
 
@@ -186,9 +208,19 @@ Kal la miró un segundo más de lo que había mirado la fiesta.
 
 —¿Cuál sonrisa?
 
-—La que pones cuando alguien habla y tú ya sabes cómo va a terminar.
+Kal se enderezó, se llevó una mano al pecho y bajó la voz un tono.
 
-Chiara la soltó. No sabía que la traía puesta todavía.
+—Ciao, sono Chiara Bellandi.
+
+La erre arrastrada, la vocal final estirada, un acento que no existía en ningún mapa de Italia. Sonaba a alguien con sombrero y un puro sin encender.
+
+Chiara le dio en el brazo con el dorso de la mano.
+
+—Así no hablo.
+
+—Así entras a los cuartos.
+
+Chiara soltó la sonrisa. No sabía que la traía puesta todavía.
 
 Un mesero pasó con una charola de copas. Kal tomó dos, le dio una y levantó la suya sin ceremonia.
 
@@ -196,7 +228,7 @@ Un mesero pasó con una charola de copas. Kal tomó dos, le dio una y levantó l
 
 —Por las calcetas blancas.
 
-Chocaron las copas. Chiara bebió más rápido de lo que solía — ésta ya era la segunda del rato, entre el brindis y el nervio que traía desde el tocador — y el calor le llegó a la cara antes de que pudiera decidir si le convenía.
+Chocaron las copas. Chiara bebió más rápido de lo que solía, y el calor le llegó a la cara antes de que pudiera decidir si le convenía.
 
 —Vine con unos amigos —repitió ella, con la misma cara seria que él había puesto, porque el vino a veces le soltaba la burla antes que el juicio.
 
@@ -222,21 +254,7 @@ Chiara se lo quedó mirando y se rió — una risa que no calculó.
 
 —Qué bobo eres.
 
-Kal se rió también, la clase de risa que no usaba con nadie más en ese salón.
-
-Después se enderezó, se llevó una mano al pecho y bajó la voz un tono.
-
-—Ciao, sono Chiara Bellandi.
-
-La erre arrastrada, la vocal final estirada hasta el pasillo, un acento que no existía en ningún mapa de Italia. Sonaba a alguien con sombrero y un puro sin encender.
-
-Chiara le pegó en el brazo con el ladrillo, sin fuerza.
-
-—Así no hablo.
-
-—Así entras a los cuartos.
-
-No le contestó. Se estaba riendo otra vez.
+Kal se rió también.
 
 Se quedaron ahí un momento, ella con un ladrillo en las manos en un pasillo de baños de una fiesta de etiqueta, él sin ninguna prisa por explicarse, hasta que el teléfono de Kal vibró y su cara cambió lo suficiente para que ella entendiera que la noche, para él, ya se había terminado.
 
@@ -268,7 +286,7 @@ No fue difícil disimular el resto de la noche. Lo difícil fue que Blake, que n
 
 —No, en serio. —Se le paró enfrente, cortándole el paso hacia la calle—. Te vi. La forma en que lo miraste en la puerta. ¿Es por ese tal Mercer?
 
-El nombre, en su boca, sonó más informado de lo que a Chiara le habría gustado. Los remolques cruzaban por la comisaría más de lo que ella hubiera querido pensar; no le extrañó que un oficial de tránsito conociera el nombre de la grúa que le hacía quedar mal el expediente.
+El nombre, en su boca, sonó más informado de lo que a Chiara le habría gustado. Pero las grúas de Almendra Towing levantaban lo que el Departamento mandaba levantar; un oficial de tránsito tenía que conocer el nombre del dueño.
 
 —No sé de qué hablas.
 
@@ -316,14 +334,12 @@ Se dio la vuelta antes de que él pudiera contestar, levantó la mano hacia la c
 
 Adentro del taxi, con la ciudad pasando borrosa por la ventana, Chiara dejó que el vino y el cansancio hicieran lo que la sobriedad llevaba semanas sin dejarle hacer: pensar sin editarse.
 
-Blake y Kal eran, por fuera, casi el mismo hombre. Los dos rubios. Los dos de ojos azules. Cualquiera que los viera de lejos podría confundirlos.
+Blake y Kal eran, por fuera, casi el mismo hombre. Los dos rubios. Los dos de ojos azules.
 
 Pero Blake necesitaba llenar el espacio en el que estaba parado — necesitaba que todos supieran que ella era suya, que su coche era rápido, que su lugar en el Departamento importaba. Kal no necesitaba nada de eso. Kal sólo existía en el espacio que se había ganado, sin pedirle permiso a nadie para ocuparlo, y sin necesitar que ella se lo confirmara.
 
-No había salido con Blake por Blake. Había salido buscando algo que ya conocía, aunque lo disfrazara cada vez de otra cosa: el ruido de una fiesta cuando en realidad quería una canción compartida; un brazo alrededor de los hombros cuando en realidad quería un choque de puños; la sensación fácil de gustarle a alguien cuando en realidad ya sabía lo que se sentía que alguien la viera de verdad — y se había equivocado de cuarto.
+No había salido con Blake por Blake. Había salido buscando en otro lo que ya conocía: que alguien la viera de verdad. Y se había equivocado de cuarto.
 
-Porque el rubio de ojos azules que le importaba no era Blake.
-
-Nunca había sido Blake.
+Había estado buscando al mismo hombre en los ojos de otro.
 
 El ladrillo, todavía en el bolso, se le clavó en la cadera con cada bache del camino, y por primera vez en mucho tiempo, a Chiara no le importó que algo le doliera un poco.

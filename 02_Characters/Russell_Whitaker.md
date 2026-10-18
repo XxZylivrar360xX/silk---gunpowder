@@ -3,17 +3,19 @@
 *Seda y Pólvora — Ficha de Personaje*
 
 **Nacionalidad:** estadounidense  
-**Edad al abrir la novela:** cuarenta y tantos; pendiente exacta  
+**Edad al abrir la novela:** cuarenta y tantos (mayor que Danny); pendiente exacta  
 **Oficio:** veterano retirado; aspirante político municipal  
 **Rol:** secundario estratégico  
 **Alias:** Russ  
 **Estado:** vivo
 
+> **CONSOLIDACIÓN (2026-10-17, CANON DEL AUTOR en identidad y dinámica; detalles DISEÑO).** Russ es uno solo: el veterano con bastón que aspira a la alcaldía **y** el compañero de golpes de [[02_Characters/Daniel_Hayes|Danny]] en el Libro I. Antes de la política es un veterano lesionado que todavía hace trabajos de barrio; su carril público llega después (Libros III–V). Entra en prosa en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05_Una_Amiga|Cap. 5]] con el cajero arrancado.
+
 ---
 
 ## Apariencia
 
-Camina con bastón por una lesión permanente en una pierna. No lo esconde, pero tampoco lo convierte en espectáculo: sabe exactamente cuándo dejar que una cámara lo vea subir un escalón con dificultad.
+**Bigote muy, muy tupido** (CANON DEL AUTOR, 2026-10-17); contrasta con el bigote delgado de Danny. Camina con bastón por una lesión permanente en una pierna. No lo esconde, pero tampoco lo convierte en espectáculo: sabe exactamente cuándo dejar que una cámara lo vea subir un escalón con dificultad.
 
 Viste como un hombre que quiere parecer de servicio público antes que de dinero: saco barato bien planchado, camisas claras, zapatos siempre lustrados. El bastón lo vuelve reconocible incluso de lejos.
 
@@ -58,6 +60,19 @@ Los barrios del sur son su mejor oportunidad y su mayor riesgo: si los usa como 
 - Su ambición es real: quiere la alcaldía, no sólo cubrir a Kal.
 - Nunca debe sonar como villano de despacho. Tiene que poder ganar votos.
 - Su relación con Kal viene de la guerra, no del dinero.
+
+---
+
+## Russ y Danny — CANON DEL AUTOR (2026-10-17)
+
+Amigos y compañeros de crimen que nunca dicen lo mismo. **Russ dice que no soporta a Danny; Danny dice que lo quiere mucho.** Russ se desespera; a Danny le encanta molestarlo. La risa sale del contraste, nunca de que Danny haga el payaso (regla de su ficha).
+
+- **Russ:** mayor que Danny, reservado, lo piensa todo antes de hacerlo. Vigila, mide, planea, tapa el logo. Habla poco y exacto (días, horas, por qué). Bajo desesperación cierra los ojos y cuenta.
+- **Danny:** acelerado; hace la versión rápida del plan de Russ ("Yo lo hubiera hecho la primera"). Lo abraza, le pone palabras en la boca ("Lo pensaste") y traduce su fastidio como cariño ("Me adora. Es su forma").
+
+**DISEÑO (Cap. 5):** Russ llama a Kal "Mercer"; Kal, "Russ". Su lealtad a Kal se nota en cuidar el nombre del taller, no en obedecerlo.
+
+**Regla dura matizada:** "no se presenta como criminal" rige su cara pública. En el Libro I todavía no tiene cara pública; cuando la tenga, su pasado de barrio es un riesgo que la campaña tiene que administrar.
 
 ---
 

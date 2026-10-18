@@ -79,6 +79,18 @@ Halbrook llega físicamente a San Aurelio al cierre del Libro I.
 - **Rafe Domínguez:** Cap. 13 (sospechoso). Valorar un segundo toque en la Parte II o III.
 - **Deuda de las armas con Dario:** verificar en los Caps. 39 y 43 qué se pactó y quién se quedó con las armas largas tras el helicóptero.
 
+## La terraza sur — última plática con Fabrizio (idea del autor; DISEÑO aprobado, 2026-10-18)
+
+Cierre del **Cap. 49**, noche D12–D13, tras la negativa de Il Consigliere. Terraza sur del Monarch (la del desayuno siciliano del Cap. 26). Es la última conversación de Chiara con [[02_Characters/Fabrizio_Rinaldi]]: Volpi lo mata la mañana después del regreso de Kal (*Sombras de Poder*, Cap. 1). Cubre dos huecos de su arco: siembra que «iba a hablar» y deja ver que tiene familia.
+
+- **Pasado:** Palermo; la fiesta de la cámara contada desde su lado (Cap. 6). Aquí va el segundo y último «tu madre...» (rasgo de su ficha).
+- **Presente:** la llama *Chiara* (el «Señora Bellandi» del Cap. 41 se retiró el 2026-10-18, al suavizarse su distancia). Matteo, el Monarch encima de ella. Habla de sus hijos.
+- **Hijos (idea del autor):** Fabrizio le pregunta si ella quiere tenerlos. Chiara contesta que con su ritmo de vida es casi imposible. Ironía para el Libro II (embarazo, H1) y resonancia callada con la casa de tres del mural (Cap. 2); no subrayarla. Esa respuesta le abre a Fabrizio la puerta para preguntar por Kal con naturalidad.
+- **Futuro:** empieza a decirle algo y se detiene. En lugar de decirlo, le propone: «Cuando vuelva Mercer, desayunamos aquí. Hay algo que quiero contarte con los dos delante.» (formulación DISEÑO).
+- **Límites:** no nombrar ni insinuar a Volpi ni a Varek. Fabrizio no es traidor. **Ajuste del autor (2026-10-18):** Fabrizio ya no está bajo coerción (pasa a Tommaso). Chiara lo lee dentro del marco que conoce (la mesa, Italia).
+- **Escrita (2026-10-18):** en el 49, noche de D12, entre el Pacífica y la coda del martes; prosa DISEÑO pendiente de lectura (detalle en el encabezado del capítulo).
+- **Cobro:** en *Sombras de Poder*, Cap. 1 (ya en BORRADOR), Lucía llama durante el desayuno. Verificar al revisar ese capítulo si Chiara recuerda el desayuno prometido; con una línea alcanza.
+
 ## Garrett y Chiara (DISEÑO aprobado por el autor, 2026-10-02)
 
 - Cap. 46: prueba ("Ese acuerdo era con Kal"), carpeta de pasta gris, se quita los lentes cuando ella toma el teléfono de Marisol. **Hecho.**

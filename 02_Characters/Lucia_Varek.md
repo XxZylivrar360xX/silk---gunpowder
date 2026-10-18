@@ -7,6 +7,7 @@
 ## Identidad
 
 - Policía de San Aurelio. **Cargo (CANON DEL AUTOR, 2026-09-01): subjefa, segunda al mando bajo [[02_Characters/Elena_Vega]].**
+- **CANON DEL AUTOR (2026-10-17):** en el Libro I no hay jefe tras el asesinato de Keene. Lucía lleva el Departamento **en funciones**, con rango de subjefa, hasta que Vega llega en el Libro II. Siembra: Cap. 7, por boca de Blake, sin nombre.
 - De ética rígida y métodos poco ortodoxos.
 - Se tiñe el cabello de castaño oscuro para que la ciudad no la lea como otra hija rubia de Varek.
 - Ama a Dario, pero mantiene con él una relación hermética y ha construido deliberadamente una identidad separada del apellido.

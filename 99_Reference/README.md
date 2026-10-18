@@ -20,6 +20,10 @@ Idealizaciones visuales de lugares, aportadas por el autor. Orientan la atmósfe
 
 Arte conceptual de los personajes originales de *Seda y Pólvora*. Por encargo del autor (2026-09-11), se enlaza y muestra en sus fichas como apoyo visual bajo **DISEÑO**, sin establecer canon nuevo por inferencia. El canon escrito manda ante discrepancias. Catálogo, usos y diferencias detectadas: [[99_Reference/character_art/README]]. Este uso específico no autoriza copiar escenas, biografías ni formulaciones de las fuentes externas.
 
+### `kylia_puesta_en_escena/`
+
+Capturas de Kylia promovidas el 2026-10-18 como referencia de **gesto, distancia y jerarquía corporal** de Kal y Chiara para *Sombras de Poder*. No fijan aspecto, lugares ni sucesos. Lectura por imagen: [[99_Reference/kylia_puesta_en_escena/README]].
+
 ### `archivos_externos/`
 
 Paquete de referencia recibido el 2026-10-10 para estudiar una estructura de contexto y migración. Empieza por [[99_Reference/archivos_externos/README-vault-erp-remoto]], que describe sus originales, manifiesto y evidencia. El README del paquete menciona un reporte en `analisis/` que no está incluido en esta copia. Es material de otro proyecto: no es canon, no instala herramientas en este vault y sus scripts no deben ejecutarse como sistema completo.

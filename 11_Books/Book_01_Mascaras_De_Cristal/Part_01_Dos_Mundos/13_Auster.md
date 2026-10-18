@@ -8,6 +8,7 @@ Funcion: DISEÑO nuevo (2026-09-01), a peticion del autor. Primer favor grande q
 Apertura por residuo: retoma el "tercer papel" del Capitulo 12 -- el rumor sin resolver sobre la subjefa vista con alguien del mundo criminal, que Chiara guardo sin saber para que.
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); el estado se conserva): Mabel, fuera "Yo solo sirvo cafe" en la pieza de Rafe Dominguez (la muletilla tiene origen en el 1 y eco en el 11; decision del autor). "Te pago yo el cafe" se queda (decision del autor).
 Narrador (2026-10-05, SURGERY autorizada por el autor; sigue TERMINADO): apertura comprimida, fuera "No era pereza. Era que". Detalle: 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Narrador_Tesis_Resenas_ChatGPT.md.
+Vela de Palermo (2026-10-18, orden del autor; capitulo TERMINADO, el estado se conserva): recuerdo movido intacto desde el Cap. 2 a la noche de domestici eius, antes de "Esa noche no encendio una vela". Puente DISENO: "Lo primero que le pidieron las manos fue una vela." El "ya lo arreglo yo" de Corrado se cobra en la lampara de Chiara.
 -->
 
 # Capítulo 13 — Auster
@@ -93,6 +94,42 @@ Chiara se quedó de pie un momento largo, con el papel entre los dedos, sintiend
 No hacía falta que Kenji le dijera cuál era el nombre que el abogado había soltado en la mesa cuatro. Chiara ya lo sabía desde la primera vez que vio un Peugeot rojo entrar al Monarch.
 
 ***
+
+Lo primero que le pidieron las manos fue una vela.
+
+Recordó una conversación, de esas que los adultos creen que los niños olvidan porque no entienden todas las palabras.
+
+Había sido en una iglesia de Palermo, con olor a cera derretida y a piedra fría, la luz de las velas votivas temblando sobre el metal de su repisa. Marta le había puesto una moneda en la palma y le había enseñado a encender el fósforo sin quemarse los dedos, frente al altar de un santo cuyo nombre Chiara ya no recordaba.
+
+—¿Y si no se cumple?
+
+Marta estaba sentada en la banca, frente a ella, un rosario enredado entre los dedos —no rezándolo, sólo pasándolo, quizá sólo la costumbre de no dejar las manos quietas— y hablaba con la serenidad de quien no promete que el mundo vaya a obedecer.
+
+—No es para que se cumpla.
+
+—Entonces, ¿para qué?
+
+—Es para que tu mente esté más tranquila.
+
+Chiara había mirado hacia el fondo del pasillo central, donde Corrado esperaba de pie, las manos en los bolsillos, con la paciencia de un hombre que entra a una iglesia por acompañar y no por necesitarla.
+
+—¿Tú haces lo mismo, papá?
+
+—Yo no, tesoro mío.
+
+—¿Por qué?
+
+Corrado se había acercado a ellas sin prisa, los pasos resonando bajo la bóveda vacía.
+
+—Porque prefiero arreglarlo personalmente. No te preocupes tanto por todo.
+
+—¿Y si pasa algo?
+
+—Ya lo iremos viendo. Siempre hay tiempo. Ven acá un momento. Siempre igual, no pasa nada, ya lo arreglo yo. Ya entenderás cuando tengas mi edad, ya verás. Quédate detrás de mí.
+
+La niña había obedecido. No porque creyera que su padre podía arreglarlo todo, sino porque por un instante bastaba con que él estuviera delante.
+
+Corrado no llegó a arreglar la redada que se lo llevó. Chiara no pudo ni despedirse.
 
 Esa noche no encendió una vela. Encendió la lámpara del escritorio, extendió los tres papeles sobre la mesa del penthouse — el de la gasolinera, el de Mabel, el de Kenji — y los miró como quien mira, por fin, una fotografía completa después de haber tenido durante semanas sólo los pedazos recortados.
 

@@ -57,7 +57,7 @@ Entre dos variantes generadas, se eligió ésta por la complexión menos "de gim
 
 Chiara en un outfit de día a día en el Monarch: blusa de satín azul, pantalón negro de vestir, tacones, bolso estructurado negro, arracadas de oro, reloj, pulsera, labial oscuro con manicura a juego, cabello suelto.
 
-**Verificado:** 34 años, rasgos italianos/sicilianos, piel aceitunada, ojos almendrados con matices verdes, lunar sobre la comisura del labio. Esta hoja fijó dos datos físicos nuevos que no estaban en la ficha y ya se incorporaron a `Chiara_Bellandi.md`: **1.68 m de altura**, y **lunares naturales pequeños en la parte alta de la espalda/hombros** (visibles con el cabello suelto). También confirmó que no es de complexión atlética pero mantiene rutina de spinning y yoga.
+**Verificado:** 34 años, rasgos italianos/sicilianos, piel aceitunada, ojos almendrados con matices verdes, lunar sobre la comisura del labio. Esta hoja fijó dos datos físicos nuevos que no estaban en la ficha y ya se incorporaron a `Chiara_Bellandi.md`: **1.68 m de altura** (superado 2026-10-17 por canon del autor: 1.80 m; ver ficha), y **lunares naturales pequeños en la parte alta de la espalda/hombros** (visibles con el cabello suelto). También confirmó que no es de complexión atlética pero mantiene rutina de spinning y yoga.
 
 ## `character_props/Kal_Mercer_hibrido_negocios_calle.png`
 

@@ -78,14 +78,12 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 
 ## Funciones Pendientes De Nombre
 
-1. ~~**El socio del casino**~~ — resuelto como [[02_Characters/Matteo_Bellacorte]].
-2. ~~**La médica de confianza de Chiara**~~ — resuelta como [[02_Characters/Camila_Rivas]].
-3. **El veterano de El Faro** — treinta años en la redacción; conciencia del edificio.
-4. **La joven periodista de El Faro** — aprendiz/instrumento de Chiara; posible espejo futuro.
-5. ~~**El contacto ruso**~~ — resuelta como [[02_Characters/Anya_Voronina]].
-6. ~~**La persona que lleva las cuentas en Almendra Towing**~~ — resuelto a escala de organización en [[02_Characters/Garrett_Cross]]. No es contador del taller, sino administrador financiero de activos.
-7. **Propiedad rural del norte** — vinculada a Harper y al taller/carreras.
-8. **Banda rival desintegrada** — origen de Mei-Lin y Bonnie.
+1. **El veterano de El Faro** — treinta años en la redacción; conciencia del edificio.
+2. **La joven periodista de El Faro** — aprendiz/instrumento de Chiara; posible espejo futuro.
+3. **Propiedad rural del norte** — vinculada a Harper y al taller/carreras.
+4. **Banda rival desintegrada** — origen de Mei-Lin y Bonnie.
+
+Ya resueltas: el socio del casino ([[02_Characters/Matteo_Bellacorte]]), la médica de confianza de Chiara ([[02_Characters/Camila_Rivas]]), el contacto ruso ([[02_Characters/Anya_Voronina]]) y la persona que lleva las cuentas en Almendra Towing (a escala de organización: [[02_Characters/Garrett_Cross]], administrador financiero de activos, no contador del taller).
 
 ## Orden Recomendado
 
@@ -94,9 +92,8 @@ Antes de pasar a los momentos de tensión fuertes de la pareja, conviene crear e
 1. Veterano de El Faro.
 2. Joven periodista de El Faro.
 3. Confirmar nombres definitivos / funciones de [[02_Characters/Fabrizio_Rinaldi]] y [[02_Characters/Tommaso_Lusardi]].
-4. ~~Contacto ruso.~~ Resuelto: [[02_Characters/Anya_Voronina]].
-5. Propiedad rural del norte.
-6. Banda rival desintegrada.
-7. Definir apoyo administrativo menor de Almendra, si hace falta alguien debajo de Garrett.
+4. Propiedad rural del norte.
+5. Banda rival desintegrada.
+6. Definir apoyo administrativo menor de Almendra, si hace falta alguien debajo de Garrett.
 
 La razón es estructural: primero se necesitan las puertas de entrada y redes que van a salvar o condenar a Kal y Chiara; después el ecosistema que vuelve creíble la ciudad.

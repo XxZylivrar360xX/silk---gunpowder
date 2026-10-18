@@ -12,6 +12,7 @@
 - Elenna participa en la caza y el arresto del asesino serial; el enfrentamiento ocurre en el subsuelo de la Presa del Sur.
 - La captura impulsa su carrera y la rompe en lo privado.
 - Resolver a Ethan no resuelve el caso Vera.
+- Livia Ferraro, la prometida de Michael, es la hija póstuma de Fabrizio Rinaldi (apellido del segundo marido de Paola) y nieta de Livia Rinaldi de la Mesa; quiere alejarse por la infidelidad de Michael, pero la verdad sobre la muerte de su padre (Volpi) la retiene (trama de V–VII) (CANON DEL AUTOR, 2026-10-18).
 - Corrado muere de muerte natural en San Aurelio; Walt se retira del Monarch; Michael, hermano menor de Elenna, regresa al funeral, ahora como Michael Ardizzone, y se queda como representante familiar del Monarch y Bellandi Ridge; Livia Ferraro, su prometida, regresa sola a Palermo; Michael se enamora de Iris y se queda en San Aurelio; al cierre la nombra administradora de Ridge y él toma el Monarch como director general. *(CANON DEL AUTOR 2026-10-04.)*
 
 ## Cierre

@@ -10,7 +10,8 @@ Prosa en espera hasta cerrar el Libro I. Al empezar: recordar la muerte de Amand
 - **Semillas Kal–Chiara** ([[98_Agent_Handoff/sessions/2026-10-14_claude_semillas_kal_chiara_bellissima_hijos_anya]]): «Bellissima» en el 20 o en el 16; enfoque de la charla sobre hijos y la postura de cada uno; Anya (Chiara calla lo de la rubia hasta Stavanger; «amante» no se dice); lugar del anuncio de Bellandi Ridge; notas de supersesión en la ficha de Anya y camisetas en La_Villa/Los_Tres_Dias.
 - **Voces, REL-01 Chiara ↔ Bonnie** ([[98_Agent_Handoff/sessions/2026-10-14_claude_voces_rel01_chiara_bonnie]]): si Bonnie sigue tratando a Chiara de *usted* o pasa al *tú*, quién lo provoca y en qué Parte. REL-02 y las siguientes esperan esta respuesta.
 - **Navidad de Almendra Towing** (en pausa por el autor; [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Almendra_Towing]]): regalo colectivo, juego, Tommaso, momento del exterior, garaje del 25, regalo de Kal, POV y capítulos, clima. Al aprobarse, integrar en boceto, matriz, Hitos y Kal_y_Chiara.
-- **Susurro a Varga** (recordatorio del autor, 2026-10-17): al llegar a la reunión de Kal con Dario, retomar que en el Libro I, Cap. 4, Kal le dijo a Varga «No querrá terminar como Keene en una banca, ¿verdad?» (Varga dice conocer a Dario). Sólo una línea muy sencilla, sin más foco. En el Libro I, Chiara pregunta en el Cap. 5 y Kal lo difiere; si en la lectura corrida aparece un lugar para que él se lo cuente, se decide ahí.
+- **Susurro a Varga** (recordatorio del autor, 2026-10-17): al llegar a la reunión de Kal con Dario, retomar que en el Libro I, Cap. 4, Kal le dijo a Varga «No querrá terminar como Keene en una banca, ¿verdad?» (Varga dice conocer a Dario). Sólo una línea muy sencilla, sin más foco. En el Libro I, Chiara pregunta dos veces en el Cap. 5 (llamada y reunión) y Kal lo difiere: «Se lo voy a decir cuando firmemos un contrato de asociación oficial». **Cobro (CANON DEL AUTOR, 2026-10-17):** en el Libro II, al firmar la cadena hotelera (primera sociedad legítima de los dos), Chiara pregunta «¿Y ya me vas a decir?» y Kal le cuenta lo que le dijo a Varga.
+- **«Usted es alta»** (CANON DEL AUTOR, 2026-10-17): sembrado en el Libro I, Cap. 5 (máquina de café). Cobro en el Libro II, en La Esquina de Mabel: Chiara en tacones altos lo rebasa; Kal de puntitas, «¿En serio estás muy alta?» / «Eso nunca fue un problema para ti»; él se sube a un banquito de la barra y los dos se ríen. Estaturas fijadas: Chiara 1.80, Kal 1.92.
 - **Cuatro Partes** ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] · [[98_Agent_Handoff/sessions/2026-10-13_claude_confirmaciones_cuatro_partes]]): extensión y desenlace de la investigación nocturna de Kal; columna de Crowe por Partes y bandas del final fusionado («El final»); robo: si Chiara sabe de dónde sale el anillo, la salida por el casino y la ficha de los túneles.
 
 ## Cierre del Libro I (Caps. 44–50b)
@@ -29,6 +30,17 @@ Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Todo 
 - Vía, vegetación, clima y vestuario (CANON; prosa DISEÑO): [[98_Agent_Handoff/sessions/2026-10-06_claude_vegetacion_101_vestuario]].
 - Otoño, cumpleaños, lluvia, lago y Thanksgiving: [[98_Agent_Handoff/sessions/2026-10-08_claude_otono_cumpleanos_lluvia_lago]]. Opcional: una línea del año 1 (bufé del Monarch, 7–9).
 - Cementerio (hecho 2026-10-08): el 1 pierde el cementerio; en el 3, la rosa de Ruth y Dale sin tocar; la visita a Michael pasa al 31; ajuste en el 25:358 ([[98_Agent_Handoff/sessions/2026-10-08_claude_consolidacion_S0_terceros]]).
+
+## Fabrizio y Tommaso (2026-10-18)
+
+- Leer la terraza sur del Cap. 49 y los retoques de los Caps. 41–42 (DISEÑO).
+- **Decide el autor:** en *Sombras*, cómo nota Chiara el embarazo de Paola y en qué capítulo cae la escena del despacho; en qué libro de V–VII sabe Livia Ferraro la verdad sobre Volpi; confirmar que Livia Rinaldi de la Mesa es la madre de Fabrizio; dónde se ve en la Parte II la coerción de Volpi sobre Tommaso; si se ajusta «Llevaba meses sin pararse en mi oficina» (*Sombras*, Cap. 1), que ya no cuadra con un Fabrizio sin distancia.
+
+- **Siguiente sesión (orden del autor, 2026-10-18): mantenimiento de fichas.** Bajar tachados e historial superado en [[02_Characters/Fabrizio_Rinaldi]], [[02_Characters/Tommaso_Lusardi]], [[02_Characters/Nereo_Volpi]], [[02_Characters/Livia_Ferraro]] y [[12_Craft_Policies/voice/Fabrizio_Rinaldi]] (y otras fichas con el mismo problema): dejar el canon vigente limpio y mover el historial a `97_Supersedido/` según su README, con una línea en la ficha. No cambiar canon. De paso, compactar CURRENT_BRIEF (pasa de 800 palabras).
+
+## Cap. 7 (autor, 2026-10-17)
+
+- Ediciones aplicadas; leer la prosa nueva en DISEÑO (siembra de Lucía, presentación de Nadir y Héctor, anclaje de Santa Brígida, cierre del taxi): [[98_Agent_Handoff/sessions/2026-10-17_claude_cap07_geografia_y_mando_interino]]. El caso Vera se difirió a V-VII (ver BACKLOG).
 
 ## Auditoría de diálogo de terceros (Parte I)
 

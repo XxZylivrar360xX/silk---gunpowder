@@ -16,6 +16,7 @@ Llamada (2026-10-17, decision del autor): "Su mesa me dijo que no" -> "Sus socio
 Rampa (2026-10-17, decision del autor): "¿Y le crees?" -> "¿Y crees que llegue a tiempo?"; Chiara contesta con la frase de Kal del Cap. 2, "Nueve es nueve" (eco inverso: en la llamada le molesta usar la frase de Matteo; aqui usa la de Kal sin molestia). Kal ya empieza a entrarle en la cabeza.
 Varga (2026-10-17, decision del autor; DISENO del agente): Varga ebrio y altanero (whisky, tuteo, dinero, amenazas); lineas de Kal intactas salvo "¿La pintura tambien la paga?" y "Con el dueño...". Nuevo beat: tras "Acabo de hacerlo" Varga intenta arrojarle el whisky a Chiara; ella no se mueve; Kal le cierra la muñeca con la izquierda (hombro derecho lastimado), el whisky le cae a el, y le voltea el video: "Siga grabando. Eso sí le va a gustar a su abogado." Chiara no da las gracias (enojo sin destinatario claro; etapa funcional intacta); el "Gracias" de la ventanilla gana peso y "¿Y lo demas?" suma "El vaso". El vaso que Varga tiro (rampa, final) queda sembrado.
 Susurro (2026-10-17, CANON DEL AUTOR; nunca en prosa): tras "Le estoy ahorrando vergüenza", Kal le dice algo al oido a Varga; el lector no lo oye. Lo que dijo (broma que amenaza): "No querra terminar como Keene en una banca, ¿verdad?". Kal no sabe que Keene fue orden de Dario ni que Varga dice conocer a Dario; a Varga le pega mas de lo que Kal cree, y por eso no vuelve al casino. Se quito "Mañana no tienes grua"; "Esto no se queda asi" baja de volumen. Cap. 5: Chiara pregunta que le dijo; Kal: "Lo de la llanta" / "Pregúntemelo en otro momento". Recordatorio en PENDING para la reunion Kal–Dario del Libro II.
+Vestuario en la rampa (2026-10-17, decision del autor): Kal llega en overol de trabajo, no en chaqueta; va como servicio externo de Almendra Towing. Concuerda con la apertura del Cap. 5.
 -->
 
 # Capítulo 4 — Tarifa nocturna
@@ -574,7 +575,7 @@ A los veinte minutos de la llamada entró una grúa azul. No el Peugeot. Las luc
 
 La grúa no tenía nada elegante. Por eso funcionaba. El guardia de la entrada de carga la vio pasar, leyó el logo de Almendra Towing y decidió que aquello era explicación suficiente. Chiara conocía el mecanismo: el mundo legal estaba lleno de objetos que venían con permiso incorporado. Uniformes, carpetas, llaves maestras, camiones de mantenimiento.
 
-Kal bajó con una tabla de trabajo en la mano. Chaqueta oscura, guantes metidos en el bolsillo trasero, las botas sin prisa sobre el concreto aceitoso.
+Kal bajó con una tabla de trabajo en la mano. Overol de trabajo, guantes metidos en el bolsillo trasero, las botas sin prisa sobre el concreto aceitoso.
 
 La vio en la puerta. No cambió de ritmo.
 
@@ -680,7 +681,7 @@ La cara de Varga se quedó quieta un segundo, como si la frase hubiera tardado e
 
 Chiara lo vio venir y no se movió. No iba a darle el gusto de verla encogerse.
 
-No hizo falta. Kal ya estaba ahí. La mano izquierda le cerró la muñeca a Varga a medio arco, y el whisky salió igual: una lengua ámbar que le cruzó a Kal la chaqueta y se deshizo en el concreto, a un palmo de los zapatos de ella. El vaso se le resbaló a Varga de los dedos, rebotó una vez y rodó hasta la línea amarilla.
+No hizo falta. Kal ya estaba ahí. La mano izquierda le cerró la muñeca a Varga a medio arco, y el whisky salió igual: una lengua ámbar que le cruzó a Kal el pecho del overol y se deshizo en el concreto, a un palmo de los zapatos de ella. El vaso se le resbaló a Varga de los dedos, rebotó una vez y rodó hasta la línea amarilla.
 
 Kal no le soltó la muñeca. Con la barbilla señaló el teléfono, que seguía grabando en la otra mano.
 

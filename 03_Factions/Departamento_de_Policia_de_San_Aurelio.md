@@ -6,7 +6,7 @@
 
 **Qué es:** policía municipal de San Aurelio.
 **Territorio:** [[05_Locations/San_Aurelio]].
-**Cabeza:** [[02_Characters/Elena_Vega]] después del asesinato de [[02_Characters/Raymond_Keene]].  
+**Cabeza:** vacante tras el asesinato de [[02_Characters/Raymond_Keene]]; [[02_Characters/Lucia_Varek]] en funciones durante el Libro I; [[02_Characters/Elena_Vega]] desde el Libro II. [Antes: Vega desde la muerte de Keene; superado 2026-10-17.]  
 **Estado al abrir la novela:** una institución en crisis: el jefe anterior fue asesinado, hay sospechas de colusión y la nueva jefa hereda un departamento que todavía tiene que demostrar que puede hacer su trabajo.
 
 ---
@@ -39,7 +39,9 @@ Al iniciar el libro, el jefe actual, [[02_Characters/Raymond_Keene]], es asesina
 
 La versión pública puede ser un atentado contra la institución. La verdad narrativa es más incómoda: Keene probablemente estaba coludido con Varek y se volvió un problema. Eso presenta la cara del villano sin convertirlo en caricatura: Varek no sólo mata enemigos, también elimina piezas que dejaron de servir.
 
-La muerte de Keene abre la puerta a [[02_Characters/Elena_Vega]].
+La muerte de Keene abre la puerta a [[02_Characters/Elena_Vega]], aunque no de inmediato: el puesto queda vacante todo el Libro I y Vega llega en el II.
+
+> **CANON DEL AUTOR (2026-10-17):** tras el asesinato de Keene la jefatura queda **vacante durante todo el Libro I**; la subjefa [[02_Characters/Lucia_Varek]] asume sus funciones **en funciones** (sigue siendo subjefa de rango). [[02_Characters/Elena_Vega]] entra como jefa en *Sombras de Poder* (Libro II) y renuncia en la Guerra de los Tres (Libro III). En el Libro I solo se usan dos rangos de mando: jefe de policía y subjefa. Sesión: [[98_Agent_Handoff/sessions/2026-10-17_claude_cap07_geografia_y_mando_interino]]. **PENDIENTE, diferido a los Libros V-VII:** reconciliar el caso Vera (Trilogy_Structure #41).
 
 > **Regla:** el asesinato de Keene no convierte al Departamento entero en corrupto. Lo deja bajo sospecha.
 
@@ -54,7 +56,7 @@ La policía local no compite narrativamente con los federales. Su función es ma
 ### Mando
 
 - **[[02_Characters/Elena_Vega|Chief Elena Vega]]** — jefa de policía. Maneja política, presupuesto, alcaldía y presión mediática. No investiga escenas; dirige una institución bajo crisis.
-- **[[02_Characters/Lucia_Varek|Lucia Varek]]** — subjefa (Assistant Chief), segunda al mando bajo Vega (CANON DEL AUTOR, 2026-09-01).
+- **[[02_Characters/Lucia_Varek|Lucia Varek]]** — subjefa (Assistant Chief), segunda al mando bajo Vega (CANON DEL AUTOR, 2026-09-01). En el Libro I, sin jefe nombrado, lleva el Departamento en funciones (CANON DEL AUTOR, 2026-10-17).
 - **Martin Cho** — Deputy Chief, **por debajo de Lucía** (decisión del autor, 2026-10-03: resuelve el choque de cadena de mando). Enlace de alto nivel con los federales y la fiscalía cuando piden cooperación.
 - **Thomas Reade** — Captain / precinct commander. Recurrente de estación. Su problema no es "atrapar a Kal": es que alguien prendió otro incendio en su distrito.
 - **Rosa Ramirez** — Lieutenant / watch commander. Controla turnos, unidades, cierres de calles, perímetros y primeras coordinaciones.

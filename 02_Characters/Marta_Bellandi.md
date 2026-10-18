@@ -2,7 +2,7 @@
 
 *Seda y Pólvora — Ficha de Personaje*
 
-> **Ficha creada (2026-09-18)**, a partir de canon disperso en [[02_Characters/Chiara_Bellandi]] y de las dos escenas de infancia en prosa: el vuelo del [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo|Capítulo 2]] y la noche del jacuzzi en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Capítulo 25]].
+> **Ficha creada (2026-09-18)**, a partir de canon disperso en [[02_Characters/Chiara_Bellandi]] y de las dos escenas de infancia en prosa: la tina del [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo|Capítulo 2]] y la noche del jacuzzi en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Capítulo 25]].
 
 **Nacionalidad:** italiana (Palermo, Sicilia)
 **Edad al morir:** **47 años** (canónico, fijado por el autor 2026-09-18) — Chiara tenía diecinueve años
@@ -56,12 +56,14 @@ Ver [[02_Characters/Chiara_Bellandi]], "La herencia contradictoria".
 
 ### Las escenas que sobreviven
 
-Dos recuerdos de infancia, en el POV de Chiara durante el vuelo a San Aurelio ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo|Cap. 2]]):
+Recuerdos de infancia en el POV de Chiara, repartidos el 2026-10-18 (orden del autor, para alejar el montaje del video de referencia de Kylia y descargar el Cap. 2):
 
-- **El mural.** Chiara, de niña, pinta una casa en un muro recién limpiado. Marta la regaña; Corrado la defiende ("Si se cae la casa por unas cuantas huellas, no es una buena casa"); Marta lo atrapa sin que él tenga defensa ("Claro, porque tú no limpias") y él se ríe. Establece la dinámica de los dos: ella pone el orden, él lo ablanda, y ninguno gana del todo.
-- **La fiesta y el baile.** Chiara, con seis años, graba con una cámara de video pesada mientras Corrado y Marta bailan mal a propósito en el centro del salón. Marta le grita algo desde fuera de cuadro para que baje la cámara; ninguno de los dos deja lo que está haciendo.
+- **El mural** (tina del Monarch, [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo|Cap. 2]]; lo detona la tercera foto). Chiara, de niña, pinta una casa en un muro recién limpiado. Marta la regaña; Corrado la defiende ("Si se cae la casa por unas cuantas huellas, no es una buena casa"); Marta lo atrapa sin que él tenga defensa ("Claro, porque tú no limpias") y él se ríe. Establece la dinámica de los dos: ella pone el orden, él lo ablanda, y ninguno gana del todo.
+- **La fiesta y el baile** (Chiara se lo cuenta a Kal en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Ambos|Cap. 6]], con las frases de Corrado de ese capítulo: «en la vida no se baila concentrada» y «una Ardizzone baila aunque le pisen los pies»; en el Cap. 2 sólo queda la foto). Chiara, con seis años, graba con una cámara de video pesada mientras Corrado y Marta bailan mal a propósito en el centro del salón. Marta le grita algo desde fuera de cuadro para que baje la cámara; ninguno de los dos deja lo que está haciendo.
 
 ### La vela de Palermo
+
+*En [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/13_Auster|Cap. 13]], la noche de* domestici eius*, antes de que Chiara elija la lámpara en lugar de la vela (movida desde el Cap. 2 el 2026-10-18).*
 
 En una iglesia de Palermo —olor a cera derretida y piedra fría, velas votivas temblando sobre metal—, Marta le pone a Chiara una moneda en la palma y le enseña a encender un fósforo sin quemarse los dedos, frente al altar de un santo cuyo nombre Chiara ya no recuerda. Con un rosario enredado entre los dedos, sin rezarlo, sólo pasándolo, responde a la pregunta de su hija sobre si el deseo se va a cumplir:
 

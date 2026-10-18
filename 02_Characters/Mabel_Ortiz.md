@@ -19,7 +19,7 @@ Estatura media-baja, complexión menuda. Piel olivácea cálida. Cabello oscuro,
 
 Conserva lo de antes: lentes colgados de una cadena fina y manos de quien ha contado cambio toda la vida. Usa blusas limpias, zapatos cómodos y un delantal que parece parte de su cuerpo.
 
-> *Sustituido (2026-09-29): "Cabello gris cortado a la altura de la mandíbula" — retirado por la nueva apariencia del autor.*
+> Plan anterior retirado: [[97_Supersedido/Fichas_Detalles_Menores#Mabel Ortiz]].
 
 Su gesto reconocible: cuando alguien miente, no lo contradice. Sólo deja de mover las manos.
 

@@ -4,10 +4,12 @@
 
 **Nacionalidad:** estadounidense; familia mexicana-estadounidense de clase trabajadora.  
 **Edad al abrir la novela:** 45.  
-**Oficio:** Chief of Police de San Aurelio.  
+**Oficio:** Chief of Police de San Aurelio (desde el Libro II).  
 **Rol:** autoridad institucional; antagonismo ideológico de Kal.  
 **Alias:** Chief Elena Vega.  
 **Estado:** viva.
+
+> **CANON DEL AUTOR (2026-10-17):** Vega **no entra en el Libro I**. La jefatura queda vacante tras Keene y Lucía la lleva en funciones; Vega llega como jefa en *Sombras de Poder* (Libro II), donde el autor quiere darle el protagonismo que todavía no tiene, y renuncia en la Guerra de los Tres (Libro III). Donde esta ficha dice "al abrir la novela", leer "al llegar en el Libro II". **PENDIENTE:** el caso Vera (abajo).
 
 ---
 
@@ -84,6 +86,8 @@ La respuesta de Vega:
 ---
 
 ## Caso Vera (CANON DEL AUTOR, 2026-10-03, lote 3)
+
+> **PENDIENTE, diferido a los Libros V-VII (autor, 2026-10-17):** la noche Marsh–Vera ocurre en el Libro I, cuando Vega todavía no está. Cómo le llega la omisión al entrar en el II se decide al trabajar V-VII.
 
 Hereda de Keene la **omisión** en el caso Vera: como jefa recién llegada, con un Departamento ya expuesto, deja correr la versión simple (el padre Marsh disparó y huyó) porque le conviene. No la ordena ni la diseña. Ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]].
 

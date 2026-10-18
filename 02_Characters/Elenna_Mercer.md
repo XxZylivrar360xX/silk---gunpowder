@@ -63,7 +63,7 @@ Elenna es la hermana mayor. [[02_Characters/Michael_Ardizzone]] nace en Palermo 
 
 > **CANON DEL AUTOR (2026-09-13; rango formalizado 2026-09-16):** durante la etapa del epílogo de *Cuentas de Sangre*, Elenna tiene **21 años**. Aproximadamente veinte años después del cierre inmediato de Palermo, y unas semanas después del epílogo, regresa a San Aurelio para iniciar la academia como **Recluta** del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento de Policía de San Aurelio]]. Se dirige a ella como **Recluta Mercer** (no "Recruit Mercer").
 
-> **[SUPERADO 2026-10-03]** *Texto anterior: "historia futura hipotética… no fija todavía que Elenna se gradúe, permanezca en el Departamento o adopte una especialidad".* Hoy esa etapa es la trilogía de Elenna (Libros V–VII); graduación y K9 están fijados (ver abajo). No convierte el epílogo de *Cuentas de Sangre* en un teaser.
+> Hoy esa etapa es la trilogía de Elenna (Libros V–VII); graduación y K9 están fijados (ver abajo). No convierte el epílogo de *Cuentas de Sangre* en un teaser. Plan anterior retirado: [[97_Supersedido/Fichas_Detalles_Menores#Elenna Mercer]].
 
 Elenna no entra porque siempre haya querido ser policía ni porque Marisol pueda ayudarla. Después de años de viajes, fotografía, temporadas breves y regresos, se presenta al proceso para averiguar si puede elegir quedarse cuando quedarse significa aceptar responsabilidad, rutina, jerarquía y consecuencias. La institución pone a prueba su autonomía; no reemplaza su identidad.
 

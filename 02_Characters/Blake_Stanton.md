@@ -67,9 +67,9 @@ Consecuencia práctica registrada en escena: el capitán "va a preferir no acord
 
 ## Pendientes
 
-> ~~**PENDIENTE:** cuándo y cómo termina lo suyo con Chiara.~~ **ESCRITO** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/07_La_Noche_Del_Ladrillo|Cap. 7]] (la banqueta de Gabriella's) y **cerrado definitivamente** en el Cap. 38 con la formulación canon: ella no lo dejó por Kal, terminó con él por él.
+> **Cómo termina lo suyo con Chiara: ESCRITO** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/07_La_Noche_Del_Ladrillo|Cap. 7]] (la banqueta de Gabriella's) y **cerrado definitivamente** en el Cap. 38 con la formulación canon: ella no lo dejó por Kal, terminó con él por él.
 
-> ~~**PENDIENTE:** ¿vuelve?~~ **RESUELTO (2026-09-20):** vuelve una vez, en el Cap. 38, y sale acompañado a tierra. No es rival, no hay triángulo. ~~Si el autor quiere cobrar más adelante al policía despechado con acceso al Departamento, el material sigue disponible, pero nada lo obliga.~~ **Cobrado (2026-10-03):** su regreso de verdad ocurre en la trilogía de Elenna, y no por Chiara. Ver abajo.
+> **¿Vuelve? RESUELTO (2026-09-20):** vuelve una vez, en el Cap. 38, y sale acompañado a tierra. No es rival, no hay triángulo. **Cobrado (2026-10-03):** su regreso de verdad ocurre en la trilogía de Elenna, y no por Chiara. Ver abajo.
 
 > **DISEÑO (2026-09-01), escrito en el Capítulo 12 (*Roma Atrii*):** después de H3-a, Blake tiene un romance breve con una recepcionista del Departamento que termina mal — ella lo deja, y él se lo toma peor de lo que admitiría en voz alta. Chiara se entera por Mabel, como chisme de barra, sin certeza confirmada todavía. Primer hilo hacia el PENDIENTE de arriba: un Blake despechado dos veces (Chiara, y ahora esto) es material acumulado, no usado aún.
 

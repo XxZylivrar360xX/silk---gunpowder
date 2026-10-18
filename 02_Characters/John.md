@@ -15,7 +15,8 @@
 
 - Civil y decente. No es un villano ni un obstáculo; es alguien a quien le hacen daño.
 - DISEÑO: compañero de redacción de Erin Reyes ([[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]]), que también trabaja en *El Faro*. Es un hilo posible entre la línea civil y la de Elenna, que no debe usarse para que una invada a la otra.
-- ~~DISEÑO: si en el VII lo empuja a escarbar en los Ardizzone...~~ *(Retirado 2026-10-04: John sale de la saga en el VI.)*
+
+> Plan anterior retirado: [[97_Supersedido/Fichas_Detalles_Menores#John]].
 
 ## Su salida (CANON DEL AUTOR, 2026-10-04)
 

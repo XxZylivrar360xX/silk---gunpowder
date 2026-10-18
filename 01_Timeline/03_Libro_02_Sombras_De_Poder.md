@@ -250,7 +250,7 @@ esa vida propia, nunca causa del destierro.
 
 ### Consecuencias: Chiara, Nadir y Kal
 
-Chiara carga ya con Matteo, la muerte de Fabrizio, la ausencia temporal de Kal y
+Chiara carga ya con Matteo, la muerte de Fabrizio (y sabe que Paola estaba embarazada: tras identificar el cuerpo cita a Paola en su despacho para darle la noticia y ve que está embarazada; era lo que Fabrizio iba a contarle en el desayuno; CANON 2026-10-18), la ausencia temporal de Kal y
 el loft (antes: "la distancia de Fabrizio, Tommaso"; CANON 2026-10-12). Tommaso sigue a su lado en el Monarch, y su salida hacia el final del libro es la siguiente silla vacía. Ahora pierde a Mei-Lin definitivamente y a Bonnie para evitar otra muerte, en un solo
 día.
 
@@ -478,7 +478,7 @@ Fuente: migración de la incubadora de ChatGPT, validada por el autor el 2026-10
 
 **Pareja como sinergia (supera el énfasis anterior de "Arco de pareja").** La relación deja de ser foco: es infraestructura emocional. Kal y Chiara aprenden que pueden operar separados y seguir siendo unidad. Cada noche vuelven a Villa Candelaria (desde la Parte II) como lugar seguro del otro. Kal vuelve herido varias veces (peleas, tiroteos, choques); Chiara lo atiende y sutura lo menor; lo grave sigue necesitando atención médica real. El cuidado es recíproco: si ella llega saturada, él le lleva vino, comida o le da masaje de pies; pueden acabar la noche trabajando cada uno en lo suyo y sólo darse las buenas noches.
 
-**Chiara y la empresa.** ~~Tras el asesinato de Tommaso~~ (2026-10-12: la muerte de Fabrizio es combustible; el detonante son las consecuencias del arresto de Kal y que todo quedara demasiado limpio a su favor), Chiara **compra *El Faro*** para tener voz propia ante la opinión pública: las fases previas (fuente → asesora → inversora) se conservan ~~y Tommaso detona la compra legal~~ (decisión del autor, 2026-10-03; ver [[03_Factions/El_Faro]]). Kal y Chiara **fundan juntos una cadena hotelera**; [[02_Characters/Kenji_Oda]] pasa de gerente de caja del Monarch a administrarla. Cuándo ocurre cada cosa es PENDIENTE.
+**Chiara y la empresa.** ~~Tras el asesinato de Tommaso~~ (2026-10-12: la muerte de Fabrizio es combustible; el detonante son las consecuencias del arresto de Kal y que todo quedara demasiado limpio a su favor), Chiara **compra *El Faro*** para tener voz propia ante la opinión pública: las fases previas (fuente → asesora → inversora) se conservan ~~y Tommaso detona la compra legal~~ (decisión del autor, 2026-10-03; ver [[03_Factions/El_Faro]]). Kal y Chiara **fundan juntos una cadena hotelera**; [[02_Characters/Kenji_Oda]] pasa de gerente de caja del Monarch a administrarla. Cuándo ocurre cada cosa es PENDIENTE. **Cobro en la firma (CANON DEL AUTOR, 2026-10-17):** al firmar el contrato de asociación de la cadena, Chiara pregunta «¿Y ya me vas a decir?» y Kal le cuenta qué le susurró a Varga en el Libro I (Cap. 4; diferido en el Cap. 5 «cuando firmemos un contrato de asociación oficial»).
 
 ### El gran enfrentamiento de la tormenta (antes de H1)
 
