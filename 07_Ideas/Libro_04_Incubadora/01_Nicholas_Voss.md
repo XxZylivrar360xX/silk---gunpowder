@@ -4,6 +4,8 @@
 
 ## Función narrativa
 
+> **CANON DEL AUTOR (2026-10-18):** de joven, en *Sombras de Poder* (Libro II), Nicholas conduce la SPV de la VED (Corvette C8 Stingray) bajo [[02_Characters/Dana_Collins]], sin mucho protagonismo. Ver [[03_Factions/Departamento_de_Policia_de_San_Aurelio]], "Tránsito y carreras".
+
 Nicholas Voss es coprotagonista del arco policial junto a Elenna Mercer.
 
 - Capitán con presencia fuerte dentro de la comisaría.

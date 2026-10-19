@@ -18,6 +18,7 @@ Actualizado: 2026-10-14. Estado vigente; máximo 800 palabras. Sustituir lo supe
 - **Auditorías:** Partes I–III y arco final, cerradas. Terceros de la Parte I: S1–S5 operadas (DISEÑO, espera lectura), S2–S5 consolidadas, falta S1. Diálogo K/C de la Parte I, completo.
 - **Exportación:** EPUB y PDF del 2026-10-03. Falta portada de alta resolución para KDP.
 - **Mando policial (CANON 2026-10-17):** sin jefe en el Libro I; la subjefa Lucía lleva el Departamento en funciones; Vega entra en el II. Cap. 7: cirugía y diseño aplicados, en espera de lectura ([[98_Agent_Handoff/sessions/2026-10-17_claude_cap07_geografia_y_mando_interino]]).
+- **Cap. 8 (2026-10-18):** persecución nueva con escáner en la guantera: loma en el norte, Collins competitiva, sola en la SPV-Tres («El rojo es mío»; Kal: «Viene la caballería»; su idea para *Voto de Ceniza* queda en reserva del autor), Plaza Corona y Canal Seco; cortes de glosa. DISEÑO, espera lectura. CANON: la sargenta es [[02_Characters/Dana_Collins]] (argentina, 28, voseo suave), líder de la VED; SPV = Mustang GT en el I; en el II se suma un C8 Stingray con Nicholas Voss joven.
 - **Fabrizio (2026-10-18):** última plática en la terraza sur escrita en el Cap. 49 (noche de D12; DISEÑO, espera lectura). CANON 2026-10-18: la coerción de Volpi pasa a Tommaso; Fabrizio se suavizó en el 41–42 (sólo ocupado). Falta: dónde se ve la coerción de Tommaso en la Parte II y qué iba a contar Fabrizio.
 - **Lectura corrida del autor (2026-10-17):** Caps. 4–5 ajustados por el autor (número de Kal vía Matteo, "Sus socios", "Nueve es nueve", Varga ebrio y el vaso, susurro de Kal a Varga con contenido sólo en el encabezado del 4). Detalle en los encabezados de ambos capítulos. Apertura Kal/Nadir del 5 ampliada (hermanos elegidos; primera vez que Nadir oye «Bellandi») y primera aparición de Russ con Danny y el cajero; ficha de Russ consolidada; química de la llamada y la reunión, cobro del susurro diferido al Libro II, «Usted es alta» y cirugía de las semanas y de Il Gelsomino. Canon nuevo de la mirada en [[06_Relationships/Kal_y_Chiara]]; ceño base de Chiara sembrado en el Cap. 2 y primer gesto para Kal en el espejo del Cap. 6 (detalle en los encabezados). DISEÑO, espera lectura.
 
@@ -55,7 +56,7 @@ Siete libros: I *Máscaras de Cristal* · II *Sombras de Poder* · III *Voto de 
 - Liberación de Kal: la revelación se reserva para *Voto de Ceniza*. Kal sólo sabe luces, bolsa de tela y loft.
 - *Sombras de Poder*: bloqueo general de prosa hasta cerrar el Libro I; H22 con bloqueo propio.
 - Las expansiones de geografía y anclaje espacial no se podan ni cuentan en el wordcount.
-- Registro: español neutro en narración y diálogo; Rafe y Mabel, barrio de California. Glosario: [[12_Craft_Policies/voice/00_Registro_Espanol_Neutro]].
+- Registro: español neutro en narración y diálogo; Rafe y Mabel, barrio de California; Dana Collins, voseo suave. Glosario: [[12_Craft_Policies/voice/00_Registro_Espanol_Neutro]].
 - Ortotipografía: pregunta de tono plano sin signos y con punto ("Qué viste."); nunca "¿" suelto.
 
 ## Relevo y archivo

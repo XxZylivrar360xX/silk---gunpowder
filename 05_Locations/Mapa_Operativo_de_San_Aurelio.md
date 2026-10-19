@@ -132,6 +132,8 @@ No son tiempos de GPS. Son tiempos de escena: trafico, hora, presion policial y 
 
 **Barrios del sur** dependen de puentes, pasos de canal y avenidas anchas. Controlar tres cruces puede partir un barrio; equivocarse de puente puede encerrar a una patrulla.
 
+**Canal Seco y sus túneles** (CANON DEL AUTOR, 2026-10-18): de noche el centro está vacío porque la vida nocturna vive en La Isla; los canales junto a los túneles sirven para perder a la policía. DISEÑO del Cap. 8: rampa de mantenimiento con cadena floja, tres bocas bajo las vías y la avenida, galerías de servicio donde cabe un Peugeot 106 y no un Mustang, salida a un patio de vías de La Almendra; el canal tiene más bocas que unidades para cubrirlas.
+
 **Rutas de Milla** tienen poca senal, pocos testigos y mucha velocidad. El peligro no es la camara; es que nadie llegue a tiempo.
 
 **Cuesta Bonita** tiene pocas entradas y mucha seguridad privada. No es territorio criminal abierto; es territorio de reputacion, invitacion y servidumbre.

@@ -5,6 +5,7 @@
 ## Excepciones de voz
 
 - **Rafe y Mabel:** barrio de California (habla chicana). «Nomás», «pendejo», «banqueta», «troca», «parquear», «parking», «la jura», «jalar» (= trabajar) y similares se conservan en su boca.
+- **Dana Collins:** argentina; voseo suave y algún giro rioplatense, sin caricatura (CANON DEL AUTOR, 2026-10-18).
 - **Chiara:** italiano ocasional; su español es neutro.
 - **Nadir:** darija/francés ocasional; nunca jerga mexicana ([[12_Craft_Policies/voice/Nadir_Amrani]]).
 - Diálogo canon del autor no se neutraliza sin orden explícita (H21, Cap. 34: «piscina» y «me da igual» por orden del autor, 2026-10-12).

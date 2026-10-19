@@ -64,7 +64,7 @@ La policía local no compite narrativamente con los federales. Su función es ma
 ### Patrulla
 
 - **Miguel Arroyo** — sargento de día.
-- **Dana Collins** — sargenta nocturna.
+- **[[02_Characters/Dana_Collins]]** — sargenta nocturna; líder de la VED (ver abajo).
 - **Blake Stanton** — oficial de patrulla/tránsito. Pieza personal por su relación fallida con Chiara.
 - **Mateo Cruz** — patrullero recurrente.
 - **Jenna Bell** — patrullera recurrente.
@@ -98,6 +98,8 @@ Su valor estructural no es ser policía en abstracto: es un hombre del Departame
 > **RESUELTO (2026-08-23):** Blake funciona mejor en patrulla/tránsito, cerca de persecuciones, controles y orgullo masculino cotidiano; no como detective central.
 
 ### Tránsito y carreras
+
+> **CANON DEL AUTOR (2026-10-18): VED (*Velocity Enforcement Division*).** Unidad de persecución y velocidad, al mando de la sargenta [[02_Characters/Dana_Collins]]. Sus deportivos se designan **SPV** (*Special Pursuit Vehicle*, unidad de persecución especial): pocas unidades, numeración no consecutiva. En el Libro I las SPV son **Mustang GT**; en *Sombras de Poder* se suman uno o dos interceptores de alta gama que casi no salen, entre ellos un **Corvette C8 Stingray** conducido por un joven Nicholas Voss, sin mucho protagonismo. La radio distingue patrullas convencionales, SUV y SPV; indicativos sin la sigla «SAPD» (detalle en la ficha de Collins).
 
 El Peugeot rojo de [[02_Characters/Kal_Mercer]] ya tiene reputación entre policías. Las carreras ilegales del norte y la zona de Kingsley Field le dan al Departamento una entrada temprana al mundo de Kal sin entender todavía qué están mirando.
 

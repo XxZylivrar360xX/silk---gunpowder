@@ -8,6 +8,7 @@ Funcion: DISEÑO nuevo (2026-09-01), a peticion del autor. Primer favor grande q
 Apertura por residuo: retoma el "tercer papel" del Capitulo 12 -- el rumor sin resolver sobre la subjefa vista con alguien del mundo criminal, que Chiara guardo sin saber para que.
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); el estado se conserva): Mabel, fuera "Yo solo sirvo cafe" en la pieza de Rafe Dominguez (la muletilla tiene origen en el 1 y eco en el 11; decision del autor). "Te pago yo el cafe" se queda (decision del autor).
 Narrador (2026-10-05, SURGERY autorizada por el autor; sigue TERMINADO): apertura comprimida, fuera "No era pereza. Era que". Detalle: 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Narrador_Tesis_Resenas_ChatGPT.md.
+Foto de Plaza Corona (2026-10-18, orden del autor; DISENO del agente, pendiente de lectura; sigue TERMINADO): la fotografia granulada que Lucia desliza es el cuadro de la camara de Plaza Corona durante el 360 del Cap. 8 (reloj del Ayuntamiento, fuente, Peugeot de costado, dos manchas negras donde irian las caras). Kal la reconoce y no la toma; Lucia no menciona al acompanante.
 Vela de Palermo (2026-10-18, orden del autor; capitulo TERMINADO, el estado se conserva): recuerdo movido intacto desde el Cap. 2 a la noche de domestici eius, antes de "Esa noche no encendio una vela". Puente DISENO: "Lo primero que le pidieron las manos fue una vela." El "ya lo arreglo yo" de Corrado se cobra en la lampara de Chiara.
 -->
 
@@ -236,6 +237,8 @@ La mujer que entró no llevaba el uniforme completo. Llevaba el aire de alguien 
 Se sentó frente a él con una carpeta que abrió sin apuro, y Kal entendió, en el primer segundo, dos cosas: que esa mujer no improvisaba nada, y que el apellido no era casualidad para nadie en esa ciudad que supiera leerlo.
 
 —Tenemos un vehículo, un Peugeot 106 rojo, asociado a múltiples reportes de conducción temeraria y evasión cerca de Kingsley Field. —Deslizó una fotografía sobre la mesa, granulada, tomada de noche—. Y tenemos dos nombres que encajan más de lo que a mí me gustaría.
+
+Kal no la tomó. No hacía falta. Arriba, borroso, el reloj del Ayuntamiento; abajo, la fuente de Plaza Corona, y delante de la fuente un coche rojo atravesado de costado, con dos manchas negras en las ventanillas donde tendrían que estar las caras. La cámara del poste había escogido bien el segundo.
 
 —¿Y el mío es uno de los dos?
 
