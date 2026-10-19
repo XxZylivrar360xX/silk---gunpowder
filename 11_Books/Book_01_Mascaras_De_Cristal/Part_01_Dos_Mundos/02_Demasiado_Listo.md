@@ -3,7 +3,7 @@ Estado: TERMINADO.
 Protagonistas: Chiara Bellandi, Kal Mercer.
 Ventana temporal: Fase 0, domingo, misma tarde-noche del Capitulo 1; ocurre H2.
 Lugares: Kingsley Field, carreteras del norte de San Aurelio, The Monarch Casino & Hotel, Almendra Towing.
-Funcion: dar a Chiara entrada propia, presentar a Fabrizio, Tommaso y Dario, la reunion interna sin Kal, el primer apreton de manos, el rechazo por "demasiado listo" y el cierre paralelo de radar mutuo.
+Funcion: dar a Chiara entrada propia, presentar a Fabrizio, Tommaso y Dario, la reunion interna sin Kal, el primer apreton de manos, el rechazo por "demasiado listo", la llamada de Kal a Nadir y el cierre paralelo (cancion de Kal en el catre, radar de Chiara en la tina).
 Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_01-03.md (seccion 9). Canon del autor: Chiara administraba casinos de Il Consorzio en Nueva York antes de San Aurelio; Il Consigliere la llama signora Ardizzone (institucion); entre sus aliados, el unico que naturalmente la llama Ardizzone es Fabrizio, por la amistad de infancia; la sala del Monarch queda en POV de Kal hasta que el sale, y despues pasa a Chiara.
 Dialogo K/C y reparto reescrito (2026-10-04, cirugia extraordinaria autorizada por el autor sobre capitulo TERMINADO; el estado se conserva). Direccion del autor: Chiara quiere entender la decision del Consigliere (que hace ella ahi) y cataloga a Tommaso, Matteo y Kal como variables externas, Kal la interesante por nueva; Kal busca dinero a gran escala y prestigio (Nadir ya abrio la estetica de autos; el casino abre carreras callejeras y tuneo), y los ojos de ella le duran mas que los pocos segundos que da a las mujeres de su circulo; Tommaso la vigila porque la version de Alessio asaltado solo en casa no le cierra, y la tolera porque su vision de negocio es afilada; Matteo ve en Kal a un hombre de calle que como socio puede abrir negocios futuros. DISENO del agente, BORRADOR pendiente de lectura; ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I.md §7. Intactos: Consigliere, H2, catre (salvo un parrafo), tina, y las lineas protegidas de Audit_Caps_01-03 §9.
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); capitulo TERMINADO, el estado se conserva; prosa nueva DISENO pendiente de lectura): Tommaso la llama "Bellandi" (regla dura de su ficha) en el lobby y al cerrar la junta. Fabrizio: "La inteligencia no es un defecto" sustituida por la anecdota del abuelo que corria a los listos (eleccion del autor). "Chiara Ardizzone en California... mapas" se queda (decision del autor); el 2026-10-06 el autor la cambio a "Chiara Ardizzone en la costa oeste" (San Aurelio pasa a Oregon; sarcasmo: hasta ahora siempre habia estado en la costa este, en Nueva York).
@@ -11,6 +11,7 @@ Narrador (2026-10-05, SURGERY autorizada por el autor sobre capitulo TERMINADO; 
 Estatura en el saludo (2026-10-17, decision del autor): tras "Kal tomo su mano", "Con los tacones, no tuvo que bajar la vista para encontrarle los ojos. Casi nunca le pasaba." Siembra el "Usted es alta" del Cap. 5 (Chiara 1.80, Kal 1.92; canon en fichas). Resto de las descripciones intacto.
 Ceno base de Chiara (2026-10-17, pedido del autor; DISENO de redaccion pendiente de lectura): linea base para el contraste de la mirada que solo es para Kal (canon en ficha de Chiara). En el retrato de la marquesina: "Las cejas oscuras le bajaban por dentro, hacia el centro, aunque nadie le estuviera hablando."; en la junta, tras "Chiara no le dio respuesta": "Ni siquiera aflojo las cejas." Ambas en POV de Kal; el contraste se cobra en el espejo del Cap. 6. La ceja levantada (ironia) no se toca.
 Recuerdos de la tina (2026-10-18, orden del autor; capitulo TERMINADO, el estado se conserva): el baile sale (Chiara lo cuenta en el Cap. 6) y la vela de Palermo pasa al Cap. 13. Queda solo el mural, detonado por la tercera foto; las dos primeras fotos quedan como siembra del Cap. 6. Linea puente DISENO: "La casa de esa pared ya no existia. De los tres, quedaba ella."
+Llamada a Nadir y cancion del catre (2026-10-19, idea y direccion del autor; capitulo TERMINADO, el estado se conserva; prosa DISENO pendiente de lectura): se rompe el eco literal K/C. La reflexion de Kal pasa a una llamada a Nadir en la carretera (paga el "¿Quieres que vaya?" del Cap. 1): sin nombre de ella (llega en el Cap. 5) ni nada que la haga italiana (el "¿Traia acento?" del 5); "¿Por lo menos estaba guapa?" / "Es alta." / "Y sabe donde va cada pieza." (para Nadir, manipuladora; siembra su desconfianza hasta el 24b) / "Eso sale mas caro." El catre cierra con una cancion del lobby sin nombre, sembrada en el saludo (la puerta giratoria la suelta a pedazos), sin pensar en ella; los ojos quedan para el Cap. 3. Fuera del catre: "Chiara Bellandi. Italiano primero...", "los ojos que miraron lo que el traje no tapaba" (pasa a dialogo: "No lo vio. / Ella no."), "su nombre tambien era una pieza del negocio" (pasa a "sabe donde va cada pieza"), "No era inicio de nada" y "radar" (quedan solo en Chiara) y "las mujeres de su circulo... esos ojos verdes seguian ahi" (direccion del autor del 2026-10-04; decision del autor 2026-10-19: no se reubica, la cancion la dramatiza y la pregunta de los ojos del Cap. 3 llega sin preparacion). Canon del autor 2026-10-19: Kal la tararea (no la silba); pago futuro en el Libro II. El espejo queda en los dos techos.
 -->
 
 # Capítulo 2 — Demasiado listo
@@ -473,7 +474,7 @@ Ella apagó el cigarro en un cenicero de pie, dio un paso y le ofreció la mano.
 
 Kal tomó su mano. Con los tacones, no tuvo que bajar la vista para encontrarle los ojos. Casi nunca le pasaba.
 
-El ruido del casino siguió detrás de ellos. Una máquina celebró una pérdida. Un coche frenó junto al valet. Matteo, por una vez, no dijo nada.
+El ruido del casino siguió detrás de ellos. Una máquina celebró una pérdida. Un coche frenó junto al valet. Cada vez que la puerta giratoria daba vuelta, soltaba un pedazo de canción del lobby: una voz de mujer, cuerdas, una palabra en italiano que la puerta se volvía a tragar. Matteo, por una vez, no dijo nada.
 
 —Encantado de conocerla.
 
@@ -757,6 +758,60 @@ Ella cerró la carpeta.
 
 ***
 
+En la carretera de la costa, con el Monarch encogiéndose en el retrovisor, Kal dejó el teléfono en altavoz sobre el asiento del copiloto y marcó.
+
+Nadir contestó al primer tono.
+
+—¿Y?
+
+—No hay contrato.
+
+—¿Por el traje?
+
+—Por listo. "Demasiado listo", dijo uno.
+
+—¿Y eso allá es insulto?
+
+—Allá sí.
+
+—¿Te molestó?
+
+—No. Desconfían de lo que funciona rápido. Yo también.
+
+—Entonces, ¿qué?
+
+Un camión lo rebasó por la izquierda y el Peugeot se sacudió con el aire. Kal tardó en contestar.
+
+—Había una mujer en la mesa. Preguntó por el porcentaje antes que nadie.
+
+—¿Y qué dijo del traje?
+
+—Nada. No lo vio.
+
+—Todos ven el traje.
+
+—Ella no.
+
+—Wallah. Perdiste el contrato. ¿Por lo menos estaba guapa?
+
+Kal miró la carretera.
+
+—Es alta.
+
+—¿Y?
+
+—Y sabe dónde va cada pieza.
+
+Del otro lado no se oyó nada. Ni una cuenta, ni una burla.
+
+—Khoya. Te pregunté si estaba guapa.
+
+—Ya te contesté.
+
+—Eso sale más caro.
+
+Kal colgó.
+
 Kal volvió al taller después de medianoche.
 
 La Almendra dormía a medias, que era la única forma en que ese barrio dormía. Una televisión seguía prendida detrás de una cortina. En la esquina, un perro ladró una vez y decidió que el Peugeot no valía el esfuerzo. El portón del taller estaba cerrado, pero la cadena tenía el candado puesto del modo flojo que Héctor dejaba cuando sabía que Kal iba a regresar tarde.
@@ -775,25 +830,17 @@ En camiseta blanca, con los zapatos junto al catre y los calcetines todavía pue
 
 El techo tenía una grieta fina que empezaba encima de la lámpara y se perdía hacia la pared de la ventana. Kal la había visto cientos de veces. Esa noche la siguió como si fuera una ruta nueva.
 
-Demasiado listo.
-
-No le molestó la frase. No exactamente. La gente desconfiaba de lo que funcionaba demasiado rápido. Él también. Lo interesante no había sido el rechazo, sino la mujer que hizo la pregunta del porcentaje como si estuviera probando una llave en una cerradura ajena.
-
-Chiara Bellandi.
-
-Italiano primero. Español después. Mano firme. Ojos que no miraron el traje para decidir si creerlo. Miraron lo que el traje no tapaba.
-
-A las mujeres de su círculo, a las de su edad, Kal les daba los segundos que pedía la cortesía y después las olvidaba sin culpa. Esos ojos verdes, oscuros en el borde, seguían ahí.
-
 Kal cerró los ojos.
 
-No era inicio de nada. No se dijo eso. No habría sabido qué hacer con una idea tan inútil.
+En lugar de la junta le volvió la canción. La del lobby, la que la puerta giratoria soltaba a pedazos. No sabía cómo se llamaba ni cómo seguía. Sólo tenía el tramo que el vidrio dejaba escapar antes de tragárselo otra vez.
 
-Alguien en esa mesa había entendido que su nombre también era una pieza del negocio.
+Lo tarareó sin abrir la boca. Llegó hasta donde lo tenía y se le acabó.
 
-Eso bastaba para dejarla en el radar.
+Volvió a empezar.
 
-Lo raro era lo demás.
+Afuera, el perro de la esquina ladró otra vez. Kal no lo oyó. Estaba bajo la marquesina, con el ruido del valet, el olor a mar y a cigarro, y ese pedazo de canción saliendo justo cuando alguien giraba la cabeza.
+
+Se durmió sin saber cómo terminaba.
 
 ***
 
