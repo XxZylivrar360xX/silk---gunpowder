@@ -44,6 +44,7 @@ Leyenda de la columna "Prosa": ✔ coherente · ○ muda (no marca estación) ·
 | Jacuzzi | 25 | **fines ago / principios sep A2** | fin de verano | "casi un mes" después del juicio | ✔ |
 | Día de Halbrook | 26–31 | **~principios sep A2** (24 horas) | **calor seco; agua de lago tibia** | cronología fija 26–31 (Audit Parte II) | **⚠ ver hallazgo A** |
 | Línea directa → Mi pareja | 32–34 | sep → fines oct A2 | otoño seco | "dos semanas", "varios días", "semanas" | ○ — 34/35 rozan el **aniversario de Halloween** de la primera cena |
+| Vento | 33b | **~mediados oct A2** | otoño | entre el 33 y el 34; más de un mes antes del 36 (CANON DEL AUTOR 2026-10-22) | ✔ |
 | Sin fecha de regreso | 35 | ~1–2 nov A2 | otoño | "tres semanas antes" del 36 (canon) | ✔ |
 | Cumpleaños / mudanza | 36 | **23 nov A2** | otoño (día caluroso posible) | canon | ✔ |
 | Cuatro letras | 37 | fines nov A2 | otoño tardío | "después de H16" | ✔ — **el 37 es Thanksgiving A2, jueves 25 nov** (CANON DEL AUTOR 2026-10-08) |

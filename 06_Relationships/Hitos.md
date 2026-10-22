@@ -2316,7 +2316,7 @@ La caja de acero instalada por Kal en H14 evoluciona por uso, sin conversación 
 
 ### De dónde sale la idea
 
-Kal va **haciendo una entrega de cocaína con [[02_Characters/Hector_Navarro|Héctor]]**. En el trayecto le cuenta que quiere conseguirle a Chiara algo especial: **[[05_Locations/Hipodromo_Del_Monarch|Vento]]**, su caballo, tuvo hace **un par de semanas** una fractura por la edad y **hubo que sacrificarlo** — Chiara lleva esas semanas de duelo, porque montar era lo suyo. Kal quiere regalarle **una yegua**, y le pide ayuda a Héctor para ir a buscarla a otro estado y traerla. **PENDIENTE — estado de EE. UU.:** propuesta del agente, **Kentucky** (país de caballos, y el viaje transcontinental maximiza la comedia); alternativa más contenida, **Texas**.
+Kal va **haciendo una entrega de cocaína con [[02_Characters/Hector_Navarro|Héctor]]**. En el trayecto le cuenta que quiere conseguirle a Chiara algo especial: **[[05_Locations/Hipodromo_Del_Monarch|Vento]]**, su caballo, tuvo **a mediados de octubre**, hace más de un mes, una fractura por la edad y **hubo que sacrificarlo** — Chiara lleva esas semanas de duelo, porque montar era lo suyo. *(CANON DEL AUTOR 2026-10-22: la muerte se aleja del cumpleaños; antes "un par de semanas". Escena en el Cap. 33b; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]].)* Kal quiere regalarle **una yegua**, y le pide ayuda a Héctor para ir a buscarla a otro estado y traerla. **PENDIENTE — estado de EE. UU.:** propuesta del agente, **Kentucky** (país de caballos, y el viaje transcontinental maximiza la comedia); alternativa más contenida, **Texas**.
 
 ### Regalo 1 — la yegua blanca
 
@@ -2340,7 +2340,7 @@ Una **cajita más pequeña, modesta, de madera.** Dentro, **una llave del loft.*
 
 > **PENDIENTE menor:** confirmar el estado de EE. UU. de donde traen la yegua.
 
-> **Continuidad — Vento:** aparece vivo en [[#H12 — El atentado / El corral]] (Cap. 24c, final de la Parte I; antes Cap. 9). Muere ~2 semanas antes de este hito (Parte II). No hay contradicción: media todo el arco H12→H7 entre una cosa y la otra.
+> **Continuidad — Vento:** aparece vivo en [[#H12 — El atentado / El corral]] (Cap. 24c, final de la Parte I; antes Cap. 9). Muere a mediados de octubre, más de un mes antes de este hito (Cap. 33b, Parte II; antes "~2 semanas", superado 2026-10-22). No hay contradicción: media todo el arco H12→H7 entre una cosa y la otra.
 
 ---
 

@@ -15,6 +15,8 @@ Es donde Chiara va a montar los domingos que el hipódromo no tiene actividad �
 Es el escenario del ataque de [[06_Relationships/Hitos]], H12 — "El corral". Kal entra armado al Monarch (domingo, cerrado) buscándola, baja al hipódromo desde el penthouse sin necesitar auto (misma propiedad), y la encuentra inconsciente junto al corral.
 
 > **CANON — Vento (2026-08-29):** vivo durante toda la Parte I (aparece en el Capítulo 8 / H12). Ya en la Parte II, **~2 semanas antes del [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial|cumpleaños de Chiara]], una fractura por la edad obliga a sacrificarlo.** Chiara pasa esas semanas de duelo. En el cumpleaños, Kal le regala **una yegua blanca** traída de otro estado (odisea cómica con Héctor) — animal nuevo, no reemplazo. **PENDIENTE:** nombre de la yegua.
+>
+> **CANON DEL AUTOR (2026-10-22):** Vento fue caballo de carreras del Monarch; ya viejo, la administración iba a venderlo y Chiara lo compró con su dinero en sus primeras semanas en San Aurelio. La siembra va en el Cap. 33; Kal llega antes de que ella decida con la veterinaria; la muerte **no va pegada al cumpleaños** (supera el "~2 semanas" de arriba; fecha DISEÑO ~mediados de oct A2, en un Cap. 33b). No hay plan de viñedo: Bellandi Ridge no entra en el Libro I. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]].
 
 ---
 

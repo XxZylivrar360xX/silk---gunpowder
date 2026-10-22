@@ -4,7 +4,7 @@ Actualizado: 2026-10-22. Máximo 800 palabras. Brief anterior íntegro: [[98_Age
 
 ## Foco y siguiente paso
 
-1. **Libro II, *Sombras de Poder*** (diseño activo; prosa bloqueada hasta cerrar el Libro I): guía [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 caps., DISEÑO); estructura [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]; calendario [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]].
+1. **Libro II, *Sombras de Poder*** (diseño activo; prosa bloqueada, ver Restricciones): guía [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 caps., DISEÑO); estructura [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]; calendario [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]].
 2. **Esperan respuesta del autor (Libro II):** F2, semillas Kal–Chiara, voces REL-01 y Navidad de Almendra Towing (en pausa). Lista en [[98_Agent_Handoff/PENDING]].
 3. **Esperan lectura del autor (Libro I):** auditorías, frentes 3–5 y la prosa DISEÑO de abajo. Rutas en PENDING.
 4. **Siguiente trabajo posible:** consolidar S1 (Cap. 17) de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]].
@@ -21,7 +21,8 @@ Actualizado: 2026-10-22. Máximo 800 palabras. Brief anterior íntegro: [[98_Age
 
 - **Caps. 2, 4–8 (2026-10-17 a 22):** llamada Kal–Nadir y canción del lobby (2); Cap. 5 segmentado en 5a/5b/5c con arco de Blake, 5 pendientes Nadir–Chiara ([[98_Agent_Handoff/sessions/2026-10-22_claude_cap05_segmentado_arco_blake]]); Cap. 7 con tesis de H3 ("la misma pintura en un cuadro diferente"); persecución del 8 con [[02_Characters/Dana_Collins]] (CANON: argentina, líder de la VED; SPV = Mustang GT).
 - **Puntos de ChatGPT, caps. 1–8 (CANON):** Chiara llega en jet privado desde Palermo (hangar de Kingsley); en el 41 entra por Nueva York ([[98_Agent_Handoff/sessions/2026-10-22_claude_puntos_chatgpt_caps_01_08]]).
-- **Fabrizio:** última plática en el Cap. 49. CANON: la coerción de Volpi pasa a Tommaso. Falta: dónde se ve en la Parte II y qué iba a contar Fabrizio.
+- **Fabrizio:** última plática en el Cap. 49; la coerción de Volpi pasa a Tommaso (CANON).
+- **Vento (CANON 2026-10-22):** siembra al final del 33; muere en el Cap. 33b *La mano* (~mediados de oct). [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]].
 - **Rocco (CANON 2026-10-22):** sale desde el Cap. 1; siembras en los caps. 1, 23, 30, 32 y 46 para el momento "John Wick" de El Patio en el II. Ficha: [[02_Characters/Rocco]].
 
 ## Libro II: canon vigente (resumen)

@@ -46,6 +46,7 @@ Plan: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]
 
 - **Parte III:** "Parte IV" en H8; bloques del Book Map; el traslado (43:177, 187); la camioneta (42:40).
 - **Parte II:** H6 §5/§7, H7, 31:23 y Danny en la mercancía de Irene; Cap. 30, bajar la certeza del plan contra Varek; revisión final del 25.
+- **Vento:** leer el final del 33 y el 33b (DISEÑO; "North Wind Rising" incluido). [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]].
 
 ## Continuidad, edición y exportación
 
