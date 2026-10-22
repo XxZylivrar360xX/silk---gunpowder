@@ -214,7 +214,7 @@ Tras aplicar: verificación con `editorial-surgery` y actualizar estados en `12_
 
 ---
 
-## Propuesta E1–E4 para las repeticiones (2026-10-22, DISEÑO, sin aplicar)
+## Propuesta E1–E4 para las repeticiones (2026-10-22, DISEÑO, APLICADA 2026-10-22)
 
 Todas son del Cap. 13 y de una sola palabra o frase.
 
@@ -222,3 +222,11 @@ Todas son del Cap. 13 y de una sola palabra o frase.
 - **E2. "llegó" (l. 24):** "La pregunta llegó en tres piezas." → "La pregunta vino en tres piezas." Se quedan los "llegó" de la primera, la segunda y la tercera pieza: forman una anáfora deliberada ("Llegó como siempre llegaba…").
 - **E3. "escrito/escribió" (l. 46):** "lo puso por escrito en una hoja suelta" → "lo pasó a una hoja suelta".
 - **E4. Cúmulo de "tres" (l. 170):** "Sólo le dio a quien fuera a decidir algo un tercer camino, más ancho," → "Sólo le dio a quien fuera a decidir algo otro camino, más ancho,". Se quedan "un tercero" (Chiara en el taller: término del caso), "tres conversaciones" y "Tres favores", porque esas dos cifras se corresponden (tres conversaciones = tres favores) y son lógica interna de la escena; **protección deliberada**.
+
+## Reporte de consistencia E1–E4 (supervisor, 2026-10-22)
+
+- **Diff:** E1–E4 aplicadas literalmente en el Cap. 13 (l. 24, 46, 146, 170); ningún otro cambio de prosa.
+- **Contexto:** E1, "el de la costa" va en la frase anterior, la cena sigue situada. E2, "vino" abre y "La primera pieza llegó…" mantiene la anáfora de las tres piezas. E3, gramatical; "lo" remite a lo dicho por Mabel. E4, "otro camino… que cualquiera de los otros dos" se entiende: los dos son Rafe y Kal (párrafo de síntesis).
+- **Mecánico corregido:** raya de apertura con espacio en E3 ("— el que ya empezaba a llenarse—,") → "—el que ya empezaba a llenarse—,".
+- **Encabezado HTML:** la nota D1–D3 cita ahora "La pregunta vino en tres piezas."; nota E1–E4 añadida al final de "Arco lector 11-13".
+- **Juicio (sin tocar):** E4 deja "otro camino… otros dos" con "otro/otros" cercanos; se lee bien, a criterio del autor.

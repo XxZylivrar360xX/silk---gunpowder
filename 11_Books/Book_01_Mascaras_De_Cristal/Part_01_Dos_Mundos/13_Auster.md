@@ -10,7 +10,7 @@ Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); el estado s
 Narrador (2026-10-05, SURGERY autorizada por el autor; sigue TERMINADO): apertura comprimida, fuera "No era pereza. Era que". Detalle: 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Narrador_Tesis_Resenas_ChatGPT.md.
 Foto de Plaza Corona (2026-10-18, orden del autor; DISENO del agente, pendiente de lectura; sigue TERMINADO): la fotografia granulada que Lucia desliza es el cuadro de la camara de Plaza Corona durante el 360 del Cap. 8 (reloj del Ayuntamiento, fuente, Peugeot de costado, dos manchas negras donde irian las caras). Kal la reconoce y no la toma; Lucia no menciona al acompanante.
 Vela de Palermo (2026-10-18, orden del autor; capitulo TERMINADO, el estado se conserva): recuerdo movido intacto desde el Cap. 2 a la noche de domestici eius, antes de "Esa noche no encendio una vela". Puente DISENO: "Lo primero que le pidieron las manos fue una vela." El "ya lo arreglo yo" de Corrado se cobra en la lampara de Chiara.
-Arco lector 11-13 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_11-13_Lector; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): P1, P3, P4A, P5, P6, P8a/b/d aplicados. Kenji entrega -> vela y recuerdo de Corrado -> lampara -> MICH. 7:6 y sintesis; 'Su propia casa' = el Monarch; el papel del cajon (subjefa) se saca y se devuelve sin usar (Chiara no sabe su nombre; el 15 une apellido y rumor); demora de tres semanas hecha decision ('Dijiste que me lo traias tu' / 'Te lo traigo entero...'); nota al margen ('Ps. 26:12') sin tachar; Kal espera de pie y se sienta tras el 'Sientese'. VERIFY (2026-10-22): V2 margen 'Ps. 26:12' (no 'testes iniqui'); V4 'sentado en una de sus mesas'; V5 'el olor de su propio papel'. R1/R3 (2026-10-22): 'Tardó poco más de dos semanas' (apertura) y 'Llevaba semanas faltando' (taller); dialogo 'tres semanas' intacto; Auster en hoja aparte con referencia al margen; triada 'gasolinera / del sur / Kenji'. D1–D3 (2026-10-22): papel de la subjefa = 'el de la costa' (apertura, sintesis, cierre; sustituye 'tercer papel'/'del cajon'); apertura 'La pregunta llegó en tres piezas.' (sustituye 'Tardó poco más de dos semanas'); nota de la gasolinera puesta por escrito en hoja suelta, como la del sur.
+Arco lector 11-13 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_11-13_Lector; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): P1, P3, P4A, P5, P6, P8a/b/d aplicados. Kenji entrega -> vela y recuerdo de Corrado -> lampara -> MICH. 7:6 y sintesis; 'Su propia casa' = el Monarch; el papel del cajon (subjefa) se saca y se devuelve sin usar (Chiara no sabe su nombre; el 15 une apellido y rumor); demora de tres semanas hecha decision ('Dijiste que me lo traias tu' / 'Te lo traigo entero...'); nota al margen ('Ps. 26:12') sin tachar; Kal espera de pie y se sienta tras el 'Sientese'. VERIFY (2026-10-22): V2 margen 'Ps. 26:12' (no 'testes iniqui'); V4 'sentado en una de sus mesas'; V5 'el olor de su propio papel'. R1/R3 (2026-10-22): 'Tardó poco más de dos semanas' (apertura) y 'Llevaba semanas faltando' (taller); dialogo 'tres semanas' intacto; Auster en hoja aparte con referencia al margen; triada 'gasolinera / del sur / Kenji'. D1–D3 (2026-10-22): papel de la subjefa = 'el de la costa' (apertura, sintesis, cierre; sustituye 'tercer papel'/'del cajon'); apertura 'La pregunta vino en tres piezas.' (sustituye 'Tardó poco más de dos semanas'); nota de la gasolinera puesta por escrito en hoja suelta, como la del sur. E1–E4 (2026-10-22): 'cenaba con alguien' (fuera 'en la costa', ya en 'el de la costa'); apertura 'llegó'->'vino' (se quedan los 'llegó' de las piezas, anafora); 'lo pasó a una hoja suelta' (fuera 'por escrito'); 'otro camino' (fuera 'un tercer camino'; 'un tercero', 'tres conversaciones'/'Tres favores' protegidos).
 -->
 
 # Capítulo 13 — Auster
@@ -21,7 +21,7 @@ Chiara lo sacaba cada tantos días, lo leía otra vez, y lo volvía a guardar.
 
 Un dato sin pregunta todavía no era un dato: era sólo una espera con forma de papel.
 
-La pregunta llegó en tres piezas.
+La pregunta vino en tres piezas.
 
 ***
 
@@ -43,7 +43,7 @@ Mabel se limpió las manos en el delantal, ese gesto que usaba cuando decidía c
 
 —Lo que digo es que hay gente de traje reuniéndose de noche en un lugar que ningún hombre de traje elegiría por gusto. El resto lo armas tú, que para eso te pago yo el café.
 
-Chiara no la corrigió. Volvió al penthouse esa misma tarde, lo puso por escrito en una hoja suelta y, antes de guardarla en el cajón nuevo — el que ya empezaba a llenarse—, escribió al margen, en la letra apretada que sólo ella entendía, una sola línea:
+Chiara no la corrigió. Volvió al penthouse esa misma tarde, lo pasó a una hoja suelta y, antes de guardarla en el cajón nuevo —el que ya empezaba a llenarse—, escribió al margen, en la letra apretada que sólo ella entendía, una sola línea:
 
 *Ps. 26:12.*
 
@@ -143,7 +143,7 @@ Falsos testigos. El sur. La propia casa.
 
 No era una acusación todavía. Era algo peor: era una dirección. Alguien, en algún despacho de Calle Corona, había decidido que el Peugeot rojo merecía un nombre, y había encontrado dos candidatos igual de convenientes — uno porque su historial lo hacía fácil de creer, el otro porque nadie en San Aurelio sabía todavía lo suficiente de él como para dudar.
 
-Sacó también el de la costa, el que llevaba semanas esperando su pregunta. Una subjefa que firmaba los casos de Calle Corona y cenaba en la costa con alguien que pagaba en efectivo. Ahora tenía la pregunta: el caso de Kal iba a terminar en su escritorio.
+Sacó también el de la costa, el que llevaba semanas esperando su pregunta. Una subjefa que firmaba los casos de Calle Corona y cenaba con alguien que pagaba en efectivo. Ahora tenía la pregunta: el caso de Kal iba a terminar en su escritorio.
 
 Lo sostuvo un momento. Con eso se podía hacer ruido, y el ruido se iba a oír en el mismo despacho donde estaba el nombre de Kal.
 
@@ -167,7 +167,7 @@ Un corredor de piezas en el norte, cerca de Cedar Flats, llevaba meses pagando c
 
 Movió tres conversaciones, ninguna suya, ninguna con su nombre puesto encima. Un comentario aquí, sobre piezas de motor que aparecían y desaparecían del inventario de un taller que nadie vigilaba con cuidado. Una pregunta allá, hecha por alguien que ni siquiera sabía que la pregunta era suya. Para cuando terminó, el rumor ya no necesitaba que nadie lo empujara más: caminaba solo, con piernas propias, hacia cualquier investigador que se molestara en tirar del hilo del dinero en vez del hilo del coche.
 
-No borró a Rafe Domínguez del mapa. No podía, y tampoco era su trabajo — Rafe seguiría cargando ese nombre nervioso un tiempo más, y eso, se dijo Chiara sin poder convencerse del todo, no era gratis para nadie, ni siquiera para ella. Sólo le dio a quien fuera a decidir algo un tercer camino, más ancho, más fácil de creer que cualquiera de los otros dos.
+No borró a Rafe Domínguez del mapa. No podía, y tampoco era su trabajo — Rafe seguiría cargando ese nombre nervioso un tiempo más, y eso, se dijo Chiara sin poder convencerse del todo, no era gratis para nadie, ni siquiera para ella. Sólo le dio a quien fuera a decidir algo otro camino, más ancho, más fácil de creer que cualquiera de los otros dos.
 
 Al margen del primer papel seguía su propia letra: *Ps. 26:12.* No la tachó.
 
