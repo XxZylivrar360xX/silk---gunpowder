@@ -33,7 +33,7 @@ Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Todo 
 
 - Leer la terraza sur del 49 y los retoques del 41–42.
 - **Decide el autor:** cómo nota Chiara el embarazo de Paola y dónde cae la escena del despacho; en qué libro de V–VII sabe Livia Ferraro la verdad sobre Volpi; si Livia Rinaldi de la Mesa es la madre de Fabrizio; dónde se ve en la Parte II la coerción de Volpi sobre Tommaso; si se ajusta «Llevaba meses sin pararse en mi oficina» (*Sombras*, Cap. 1).
-- **Fichas limpias (2026-10-22); dudas para el autor:** Volpi: "PENDIENTE: si es el de la mesa tres" contradice el DISEÑO que ya lo dice, y su ficha llama "Libro III" a *Cuentas de Sangre*. Livia: Palermo como origen y "futuros suegros en Palermo"; su PENDIENTE de qué sabe choca con el CANON del 2026-10-18. Fabrizio: "sólo habla en el Cap. 2" está viejo; el PENDIENTE de su familia ya lo responde el canon de Paola. Tommaso: dos PENDIENTES que el canon parece resolver (quién amenaza a su familia; si cree la versión oficial).
+- **Fichas limpias (2026-10-22):** dudas del mantenimiento en Volpi (mesa tres; "Libro III" por *Cuentas de Sangre*), Livia (Palermo; qué sabe), Fabrizio ("sólo habla en el Cap. 2"; su familia) y Tommaso (dos PENDIENTES que el canon parece resolver).
 
 ## Diálogo de terceros (Parte I)
 
