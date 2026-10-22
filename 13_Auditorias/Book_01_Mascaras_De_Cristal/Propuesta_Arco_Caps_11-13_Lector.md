@@ -184,3 +184,20 @@ Tras aplicar: verificación con `editorial-surgery` y actualizar estados en `12_
 - **Papeles:** gasolinera (nota con *Ps. 26:12* al margen = "el primer papel"), hoja aparte del sur (*Cant. 4:16*), Kenji (*MICH. 7:6*) = "los tres papeles"; el de la subjefa = "el del cajón" (síntesis y cierre). Coherente.
 - **Cajones/papel:** el papel de cartas en el bolso (12, l. 119) cuadra con "guardó el resto del papel en el bolso" (12, l. 155); el "cajón aparte" del viñedo (12) y el cajón "que no era el de las cartas ni el de los recibos" (13) son del penthouse. Sin choque.
 - **De juicio, sin tocar:** (a) el 13 abre con "El tercer papel" (= tercero del montaje del 12: Blake, viñedo, subjefa) y luego llama "los tres papeles" a otra serie; legible, pero dos cuentas de "tres" en el mismo capítulo. (b) "Tardó poco más de dos semanas" no tiene ancla explícita (el papel del cajón ya esperaba antes de la gasolinera). (c) "guardar la nota" (gasolinera) no dice quién la escribió; con "Mabel no escribe" se entiende que la puso Chiara en papel.
+
+---
+
+## Propuesta D1–D3 para los detalles de juicio (2026-10-22, DISEÑO, sin aplicar)
+
+**D1. Dos cuentas de "tres" (Cap. 13).** Cambiar el ordinal del papel de la subjefa por un nombre propio que lo saque de la cuenta y conserve el eco del 12 ("un restaurante de la costa").
+- Apertura: "El tercer papel seguía donde lo había dejado" → "El papel de la costa seguía donde lo había dejado".
+- Síntesis (P1): "Sacó también el del cajón, el que llevaba semanas esperando su pregunta." → "Sacó también el de la costa, el que llevaba semanas esperando su pregunta."
+- Cierre: "y el del cajón, que todavía no había usado." → "y el de la costa, que todavía no había usado."
+- "Lo devolvió al cajón." se queda.
+
+**D2. "Tardó poco más de dos semanas" (Cap. 13).** Quitar la cifra: lo que importa es cómo llega la pregunta, no cuánto tarda. El plazo exacto ya lo dan el diálogo del taller ("tres semanas") y los marcadores internos.
+- "Tardó poco más de dos semanas." → "La pregunta llegó en tres piezas."
+- Anuncia la tríada y da paso a "La primera pieza llegó envuelta en gasolina." Y como el papel de la costa ya no es "el tercero" (D1), no se cruzan dos cuentas.
+
+**D3. Quién escribe la nota de la gasolinera (Cap. 13).** Chiara la pone por escrito, como hace con la pieza del sur (R3).
+- "Volvió al penthouse esa misma tarde y, antes de guardar la nota en el cajón nuevo — el que ya empezaba a llenarse—, escribió al margen" → "Volvió al penthouse esa misma tarde, lo puso por escrito en una hoja suelta y, antes de guardarla en el cajón nuevo — el que ya empezaba a llenarse—, escribió al margen".
