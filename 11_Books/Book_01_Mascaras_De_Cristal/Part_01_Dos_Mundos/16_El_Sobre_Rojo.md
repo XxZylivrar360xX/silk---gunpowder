@@ -2,9 +2,10 @@
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-26 (Prioridad C, autorizada por el autor, sigue TERMINADO): prolepsis de la cocina, saltos de POV (casino, cuarto, auto anclado en Kal), parte del infarto a Kal comprimido, contradiccion "llegaron / seguia conduciendo" al Monarch, tercera "respuesta suficiente", siembra de Matteo ("Matteo cubre el piso", hilo C; rima con el Cap. 41). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17.md.
 Cirugia de dialogo de terceros 2026-10-04 (S2 del Plan_Cirugia_Terceros_Parte_I; sigue TERMINADO): visita de Chiara a Hector podada por decision del autor -- Hector solo pregunta y gruñe; salen sus aforismos ("Se equivoca acompañada...", "sostener algo con el cuerpo..."), "Usted ya siente por el...", "con usted no me sale ser el cascarrabias" y el tuteo; la ternura queda para el monologo del Cap. 24c. Chiara se va con la pregunta "¿Y el que no le ha contado a usted?" (decision del autor). Lineas de Chiara intactas salvo el ajuste minimo de enlace. "Cuatro letras" intacta. La prosa nueva es DISENO pendiente de lectura del autor. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I.md.
 Protagonistas: Kal Mercer, Chiara Bellandi, Hector Navarro.
-Ventana temporal: continua directamente del Capitulo 15 (POV Chiara). El domingo en que Kal vuelve del campamento, y los dias siguientes en el hospital.
+Arco lector 14-16 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_14-16_Lector; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): A1 -- la visita de Chiara a Hector sale de aqui y pasa al Cap. 15 (sabado); el corte cose "Matteo cubre el piso" con "Kal llego con Chiara al hospital"; el capitulo queda entero en POV Kal (casino -> hospital -> coche). A3 -- fuera el primer "Kal no contesto." y el "--No." de Hector. A4 -- "La furia le llego tarde, ya en el casino"; en el hospital "con la furia bajada, no apagada, y la sintio volver entera". A5 -- "Por primera vez desde que abrio el sobre". A6 -- en el coche Kal marca a Nadir: buzon con mensaje grabado ("Soy Nadir. Ya sabes que hacer."), en contraste con el de Kal (Cap. 14). A7 opcion B -- maneja Chiara el sedan del Monarch; al llegar, Kal se acuerda del iman en la guantera de la camioneta y no dice nada (reaparece en el Cap. 21). A8 -- alubias y el planteo de Diego comprimidos a narrador; se conservan 6-4, "como quien memoriza a un testigo", la casa y *balayage*. Telefono: "saco el telefono" (en el 14 queda sobre el asiento).
+Ventana temporal: continua directamente del Capitulo 15 (POV Chiara). El domingo en que Kal vuelve del campamento (casino, hospital, coche).
 Lugares: La Casa (loft de Kal), The Monarch Casino & Hotel, Hospital Santa Aurelia.
-Funcion: FUSIONADO (2026-09-03), a peticion del autor -- el antiguo Cap. 17 (El sobre rojo, POV Kal abriendo la carta) y el antiguo Cap. 18 (Cuatro letras, las dos conversaciones de Hector) se unen en un solo capitulo, porque por separado cada uno resultaba demasiado corto para sostenerse solo. "El sobre rojo" queda como titulo oficial del capitulo completo; "Cuatro letras" se conserva como nombre de la segunda mitad (la confesion de Hector), marcado con su propio encabezado interno. Ejecuta la segunda mitad de H10 completa: Kal abre la carta y enciende el telefono a la vez, la avalancha de llamadas, corre al casino, y de ahi al hospital -- las dos conversaciones de Hector (con Chiara y con Kal) y el cierre en el auto, con Chiara preguntandole por el campamento.
+Funcion: FUSIONADO (2026-09-03), a peticion del autor -- el antiguo Cap. 17 (El sobre rojo, POV Kal abriendo la carta) y el antiguo Cap. 18 (Cuatro letras, las dos conversaciones de Hector) se unen en un solo capitulo, porque por separado cada uno resultaba demasiado corto para sostenerse solo. "El sobre rojo" queda como titulo oficial del capitulo completo; "Cuatro letras" se conserva como nombre de la segunda mitad (la confesion de Hector), marcado con su propio encabezado interno. Ejecuta la segunda mitad de H10 completa: Kal abre la carta y enciende el telefono a la vez, la avalancha de llamadas, corre al casino, y de ahi al hospital -- la conversacion de Hector con Kal (la de Chiara paso al Cap. 15 el 2026-10-22) y el cierre en el auto, con Chiara preguntandole por el campamento.
 Apertura por residuo: arranca del cierre del Capitulo 15 -- el sobre rojo bajo la puerta del loft, dejado ahi por Chiara sin revelar su contenido.
 -->
 
@@ -14,7 +15,7 @@ El sobre rojo estaba en el suelo, junto a la puerta.
 
 Lo reconoció como del Monarch antes de agacharse a recogerlo — el sello dorado, el sobre grueso — y por un segundo, sin razón para pensar otra cosa, asumió que era alguna invitación de Chiara, de esas elegantes que nunca sabía si tomarse en serio o en broma.
 
-Dejó las llaves en la isla de la cocina. Se sentó en un banco. Abrió el sobre y, casi en el mismo gesto, sacó el teléfono del bolsillo y lo encendió.
+Dejó las llaves en la isla de la cocina. Se sentó en un banco. Abrió el sobre y, casi en el mismo gesto, sacó el teléfono y lo encendió.
 
 Las dos cosas pasaron casi juntas — el papel desdoblándose bajo sus dedos, la pantalla iluminándose con el logo de siempre — y durante un segundo entero no pasó nada más que eso: un hombre sentado en su cocina, tranquilo.
 
@@ -44,7 +45,7 @@ Ella lo recibió antes de que llegara a preguntar nada.
 
 Kal se quedó con eso un segundo, sin poder ponerle nombre todavía a lo que significaba, y lo guardó junto con todo lo demás que no tenía tiempo de resolver esa noche.
 
-La furia seguía ahí, entera, y no tenía dónde ir. No a Chiara, que había hecho todo lo que se podía hacer. No a Walt, que había contestado el teléfono. Quedaba él — dos días en las montañas, el teléfono guardado en el fondo de una mochila porque se lo había pedido una chica de veinte años y él había querido dárselo.
+La furia le llegó tarde, ya en el casino, y no tenía dónde ir. No a Chiara, que había hecho todo lo que se podía hacer. No a Walt, que había contestado el teléfono. Quedaba él — dos días en las montañas, el teléfono guardado en el fondo de una mochila porque se lo había pedido una chica de veinte años y él había querido dárselo.
 
 —Kal.
 
@@ -60,53 +61,7 @@ Kal se quedó quieto un segundo.
 
 ***
 
-Para cuando Kal volvió, Chiara ya conocía el camino al cuarto de Héctor de memoria.
-
-Le llevaba café que él no siempre terminaba y noticias del taller que él fingía no necesitar. Esa tarde lo encontró más despierto que de costumbre, con la cama inclinada y los ojos puestos en ella antes de que terminara de cruzar la puerta.
-
-—Todavía tengo el catálogo ese suyo en la mesa de noche —dijo, antes de que ella alcanzara a sentarse—. La enfermera cree que ya elegí algo. No le he dicho que no.
-
-—¿Y eligió?
-
-—La silla verde. La que cuesta lo que cuesta un auto usado. —Gruñó, pero sin el peso de siempre.
-
-—No lo convencí. Solo dejé el catálogo donde lo pudiera ver.
-
-—Es lo mismo, con usted.
-
-—Usted no tiene que venir todos los días —añadió, después de un silencio.
-
-—Ya lo sé.
-
-—¿Entonces por qué viene?
-
-Chiara dejó el café en la mesita.
-
-—Porque es el hombre que Kal más admira en el mundo, y yo todavía estoy aprendiendo quién es Kal.
-
-Héctor la miró un momento, con la clase de atención que no gastaba en cualquiera.
-
-—Ésa no es la única razón.
-
-—No —admitió ella, después de un momento—. No es la única.
-
-—Somos de mundos distintos, Héctor —dijo, casi de pasada, como quien cierra un tema antes de que nadie lo abra—. Eso no cambia porque yo venga a traerle café, ni porque usted me deje ganarle una discusión sobre muebles.
-
-—Eso ya lo sé. —La voz le salía más floja que antes del infarto, y aun así no perdía el filo—. ¿Y por qué me lo dice a mí?
-
-Chiara no contestó enseguida.
-
-—Hay cosas de donde vengo que él no conoce —dijo, al final, mirando algún punto de la sábana en vez de a él—. Cosas que si las conociera, tal vez no me miraría igual. No sé si es justo arrastrarlo a eso sin que él sepa lo que arrastra.
-
-Héctor gruñó.
-
-—¿Y él qué no le ha contado a usted?
-
-Chiara no contestó. Se quedó otro rato, hablando de nada, hasta que se acabó la hora de visitas, y se fue con una pregunta que no era suya y que no se pudo quitar de encima en todo el camino.
-
-***
-
-Kal llegó con Chiara al hospital sin haber soltado la furia en ningún punto del camino, y se la encontró toda todavía intacta cuando entró al cuarto y vio a Héctor despierto, pálido, con el mismo gesto de siempre en la cara aunque el cuerpo le hubiera fallado.
+Kal llegó con Chiara al hospital con la furia bajada, no apagada, y la sintió volver entera cuando entró al cuarto y vio a Héctor despierto, pálido, con el mismo gesto de siempre en la cara aunque el cuerpo le hubiera fallado.
 
 —Se te ve peor a ti que a mí —dijo Héctor, antes de que Kal pudiera decir nada.
 
@@ -138,9 +93,9 @@ Héctor gruñó, apenas un sonido, sin abrir del todo los ojos, y siguió hablan
 
 —Se lo diste. Eso no es una culpa que te pertenezca, y más te vale dejar de cargarla como si lo fuera.
 
-Kal no contestó.
+Héctor cerró los ojos un momento, no de cansancio, sino de la manera en que uno cierra los ojos antes de decir algo que ya viene cargando hace tiempo.
 
-—No. —Héctor cerró los ojos un momento, no de cansancio, sino de la manera en que uno cierra los ojos antes de decir algo que ya viene cargando hace tiempo—. Y de todos modos, eso tampoco es lo que de verdad te tiene así, Kal. Y los dos lo sabemos.
+—Y de todos modos, eso tampoco es lo que de verdad te tiene así, Kal. Y los dos lo sabemos.
 
 Kal no contestó.
 
@@ -206,7 +161,9 @@ Kal se levantó despacio y le apretó el hombro a Héctor antes de dejarlo dormi
 
 ***
 
-Bajaron juntos hasta el estacionamiento sin hablar, y Chiara esperó a que arrancara el auto antes de preguntar lo único que no tenía nada que ver con Héctor.
+Bajaron juntos hasta el estacionamiento sin hablar. Ya en el asiento del copiloto, Kal marcó a Nadir. Le salió el buzón, con la voz de Nadir grabada hacía quién sabe cuánto, despreocupada: *Soy Nadir. Ya sabes qué hacer.* Kal colgó sin dejar nada.
+
+Chiara esperó a salir del estacionamiento antes de preguntar lo único que no tenía nada que ver con Héctor.
 
 —¿Cómo estuvo el campamento?
 
@@ -216,15 +173,11 @@ Kal la miró de reojo, como si la pregunta lo hubiera tomado por sorpresa en el 
 
 —¿Seis a cuatro? —Chiara subió las cejas—. ¿Contra ti?
 
-—Contra mí. —No sonaba ofendido. Sonaba casi orgulloso—. Dice que es técnica. Yo creo que fue suerte, pero no se lo voy a decir nunca.
+—Contra mí. —No sonaba ofendido. Sonaba casi orgulloso.
 
-—¿Y quemaron algo? Siempre se quema algo cuando se acampa.
+Le contó lo de las alubias, quemadas las dos noches, como las quemaba Michael según Marisol. Chiara guardó eso en algún lado sin comentarlo, y Kal siguió con un chico de la clase de Marisol que le llevaba café todas las mañanas.
 
-—Las alubias. Las dos noches. —Se rió, corto, casi para sí mismo—. Heredé el defecto de Michael, según ella. Se distraía con la parrilla exactamente igual.
-
-Chiara guardó eso en algún lado sin comentarlo, y Kal siguió.
-
-—Me contó de un chico de su clase que le lleva café todas las mañanas. Diego.
+—Diego —dijo.
 
 —¿Y eso te preocupa?
 
@@ -260,6 +213,8 @@ Chiara lo miró, y la sonrisa que llevaba conteniendo desde lo de Diego ya no en
 
 Para cuando llegaron al Monarch, Kal seguía hablando y Chiara ya no fingía escuchar con cortesía: escuchaba de verdad.
 
-Por primera vez en dos días, Kal no estaba pensando en Nadir, ni en Danny, ni en el peso entero del fin de semana.
+La camioneta seguía donde Kal la había dejado, y en la guantera, envuelto en su servilleta, el imán. Kal se acordó de él y no dijo nada.
+
+Por primera vez desde que abrió el sobre, Kal no estaba pensando en Nadir, ni en Danny, ni en el peso entero del fin de semana.
 
 Estaba pensando en piedras que rebotaban seis veces contra cuatro.
