@@ -38,6 +38,7 @@ AJUSTES FINOS (2026-09-18, segunda pasada a pedido del autor): corregido sujeto 
 DOCUMENTOS DE `develop` QUE SIGUEN DESACTUALIZADOS por la reescritura del Cap. 29 (no tocados en este encargo, sólo reportados): [[02_Characters/Dario_Varek]] ("Kal se ofrece a trabajar para él, como parte de la organización") y [[06_Relationships/Hitos]], sección H6 §5-6, que documentan el mecanismo antiguo ("Kal ofrece trabajar para Varek... a cambio, seguridad para Chiara").
 
 > **RESUELTO (2026-09-16, CANON DEL AUTOR: "hay que sanear, mi decisión es que sea el mismo día"):** el Cap. 31 fue saneado en sesión posterior para ocurrir la tarde-anochecer del mismo día que este capítulo — se quitó el salto de semanas, la sanación de la ceja, el "jueves" y el "Peugeot" (pasa a Audi/Lancia), y la llamada de apertura de Kal ahora es la invitación personal a la pesca ya acordada en la coda de este capítulo. Ver metadata y prosa del Cap. 31. Cap. 31 no cambia de posición ni de contenido con esta revisión.
+Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): en la coda, come del rin que Walt le lijo para plato, al pie de la fosa. Ficha: 02_Characters/Rocco.md.
 -->
 
 # Capítulo 30 — Media Baraja
@@ -402,7 +403,7 @@ Ninguno de los dos miró el espejo.
 
 ***
 
-Los encontró en el patio de atrás del taller, donde los encontraba siempre a esa hora: Danny con medio cuerpo metido en el motor de un Civic que no era suyo, Héctor en su silla de siempre vigilando como quien vigila una máquina que podría fallarle, Walt acomodando algo en un estante que nadie le había pedido acomodar. Nadir estaba sentado en el borde de la fosa, con los pies colgando, terminándose un sándwich que casi seguro era de Danny.
+Los encontró en el patio de atrás del taller, donde los encontraba siempre a esa hora: Danny con medio cuerpo metido en el motor de un Civic que no era suyo, Héctor en su silla de siempre vigilando como quien vigila una máquina que podría fallarle, Walt acomodando algo en un estante que nadie le había pedido acomodar. Nadir estaba sentado en el borde de la fosa, con los pies colgando, terminándose un sándwich que casi seguro era de Danny. Al pie de la fosa, Rocco comía del rin viejo que Walt le había lijado para plato y levantaba la cabeza cada vez que el sándwich se movía.
 
 —Necesito hablar con todos —dijo Kal, y algo en cómo lo dijo hizo que Danny sacara la cabeza del motor sin que hiciera falta repetirlo.
 

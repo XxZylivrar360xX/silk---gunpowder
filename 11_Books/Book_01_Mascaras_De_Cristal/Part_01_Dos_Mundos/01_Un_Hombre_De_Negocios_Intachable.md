@@ -12,6 +12,7 @@ Dialogo de terceros, La Esquina (2026-10-04, cirugia sobre capitulo TERMINADO; e
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); capitulo TERMINADO, el estado se conserva): fuera la linea de Enzo "Tu no vienes al Gelsomino por la pasta..." (glosa del narrador en boca del mesero; el narrador ya lo dice con la bisagra) y la replica de Kal que colgaba de ella. Ficha 12_Craft_Policies/voice/Enzo.
 Frente 3, densidad (2026-10-05, SURGERY autorizada por el autor sobre capitulo TERMINADO; el estado se conserva): fuera el hombre de la camisa demasiado blanca que pregunta por convenios de flotilla (F3-8: siembra sin pago en el libro). F3-9 (Nadir explicado tres veces, l. 443): EJECUTADO 2026-10-05 junto con el frente 1 (fuera las tres primeras frases del parrafo; queda "Kal nunca lo dejaba cerca de los libros..."). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Densidad_Funcion_Frente_3.md §5.
 Remates del narrador (2026-10-22, SURGERY autorizada por el autor sobre capitulo TERMINADO; el estado se conserva; patron de la lectura de ChatGPT del 2026-10-19): dos cortes. Fuera "la certeza de que Keene habia aceptado menos por presupuesto que por visibilidad" (tercera lectura de Keene; el dialogo ya lo mostro; queda "Eso tambien era relato") y "que en el era la manera de no contestar" (glosa de la sonrisa de Matteo; "Lo van a saber esta noche" ya no contesta).
+Rocco (2026-10-22, decision del autor: sale desde el Cap. 1; prosa DISENO pendiente de lectura; el estado se conserva): la casa de tablas que Kal nivelo, junto a la oficina, y la queja de Hector por la llave Allen que Nadir le avienta al perro. Sin descripcion fisica (llega en el 5c). Siembra del momento de El Patio en Sombras de Poder. Ficha: 02_Characters/Rocco.md.
 -->
 
 # Capítulo 1 — Un hombre de negocios intachable
@@ -112,6 +113,8 @@ A Kal le gustaba salir al patio antes de que el día agarrara velocidad. No por 
 
 El patio no era grande, pero tenía más rutas que metros. A la derecha, los coches que podían salir con una firma y una batería nueva. A la izquierda, los que esperaban piezas que nadie iba a pagar. Al fondo, detrás de una cerca de lámina, las carrocerías sin dueño legal se oxidaban con una paciencia que a Kal le parecía más honesta que la de la mayoría de los acreedores.
 
+Junto a la puerta de la oficina estaba la casa de Rocco, de tablas de tarima y techo de lámina sobrante, más derecha que la mitad de las construcciones de la calle porque Kal la había nivelado dos veces. Rocco dormía adentro con la cabeza afuera, sobre las patas. Abrió un ojo al oír las botas, comprobó que Kal no traía nada de comer y lo volvió a cerrar.
+
 Una grúa entró por el portón con el giro lento de quien trae permiso para estorbar. Los vecinos ni voltearon. Esa era la primera ventaja del negocio: en una ciudad donde todo el mundo miraba cuando un coche se detenía demasiado tiempo, nadie miraba una grúa. La grúa era explicación de sí misma.
 
 En la primera grúa, Héctor escupió a un lado y le señaló el gancho con la barbilla.
@@ -127,6 +130,10 @@ Kal lo miró.
 Del otro lado del patio, Omar fingió no escuchar y siguió limpiando el parabrisas con una concentración de médico.
 
 Kal se agachó, revisó la pieza y pasó el pulgar por la marca nueva del metal.
+
+Héctor sacó una llave Allen del bolsillo de la camisa para aflojar el seguro, la miró a contraluz y la limpió en el pantalón con asco.
+
+—Dile a Nadir que si le vuelve a aventar mis llaves a ese perro, el que va a ir por ellas es él.
 
 —Pide dos.
 

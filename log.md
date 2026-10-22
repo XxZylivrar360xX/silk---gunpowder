@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-22: [[02_Characters/Rocco]] · CANON: Rocco sale desde el Cap. 1; siembras en los caps. 1, 23, 30, 32 y 46 (prosa DISEÑO) para el momento "John Wick" de El Patio en *Sombras de Poder*.
 - 2026-10-22: [[98_Agent_Handoff/sessions/2026-10-22_claude_puntos_chatgpt_caps_01_08]] · CANON: Chiara llega en jet privado desde Palermo y la revisa migración en el hangar privado de Kingsley Field (puerto de entrada); en el Cap. 41 entra por Nueva York. Microcirugía en los caps. 1, 2 y 7; ajustes en El_Casino y San_Aurelio. CANON H3: la tesis del taxi (Cap. 7) pasa a "Estaba buscando ver la misma pintura en un cuadro diferente"; Hitos.md actualizado.
 - 2026-10-22: [[98_Agent_Handoff/sessions/2026-10-22_claude_cap05_segmentado_arco_blake]] · Cap. 5 segmentado en 5a/5b/5c (sin renumerar); arco de Blake en 5a, 5b, 6 y 7 (beso en 5b); ruleta de los chicos en prosa en el 6; Vento sembrado para el 24c.
 - 2026-10-22: [[02_Characters/Rocco]] · CANON: Rocco es un pitbull mestizo de la calle adoptado en el taller (casa de Kal, manta de Russ, rin de Walt, collar de Danny, juegos con Nadir); Chiara tendrá un gato negro en el Libro II. Trato Nadir-Chiara: usted hasta el atentado, tú después.

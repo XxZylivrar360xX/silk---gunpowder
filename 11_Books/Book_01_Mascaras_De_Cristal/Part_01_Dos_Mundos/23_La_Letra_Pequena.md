@@ -9,6 +9,7 @@ Teoría jurídica (decisión del autor 2026-09-09): acuerdo comercial vinculante
 Continuidad: la propuesta de Kal la primera noche del Monarch (Caps. 1-2) se usa como conducta previa consistente. Tommaso aparece en la lista de testigos de la contraparte al final.
 Pasada editorial 2026-09-10 (Claude Code, decision del autor): el recuerdo de la primera reunion se ajusta a lo dramatizado en el Cap. 2 (beneficio mutuo / "una silla en su mesa", no un "no" a un porcentaje concreto); explicitado el enlace propuso-antes -> se le cae a Hoover que se la invento ahora; podadas glosas de descubrimiento (fiscal, parcela) y remates; doble armado de carpetas de Garrett marcado como version para la audiencia.
 Microcirugia de dialogo K/C 2026-10-04 (autorizada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]] §7; DISEÑO pendiente de lectura): loft sin la escalera "Que elegante / Mas elegante todavia / habilidad mas comun / Eso viene de Italia"; queda "Me esta borrando con sinonimos" y ella no contesta "¿Eso viene de experiencia?" (llena la copa); Chiara ya le escribio a Rivers el martes sin preguntarle ("No me preguntaste / Te estoy avisando"); fuera "Estaba metida desde esa mesa". Rima con "La señorita Bellandi me dijo otra cosa" del 24.
+Rocco (2026-10-22, decision del autor; prosa DISENO pendiente de lectura; el estado se conserva): custodia a Garrett en la oficina mientras arma las carpetas, sobre la manta de Russ; Danny: "te desgarra el cuello"; Garrett: "Por eso lo dejo entrar". Ficha: 02_Characters/Rocco.md.
 -->
 
 # Capítulo 23 — La letra pequeña
@@ -311,7 +312,15 @@ Kal soltó aire por la nariz.
 
 ***
 
-Garrett rearmó seis meses de papeles en tres carpetas para la audiencia: una de dinero, una de clientes, una de espacio. Pestañas, fechas, copias, notas.
+Garrett rearmó seis meses de papeles en tres carpetas para la audiencia: una de dinero, una de clientes, una de espacio. Pestañas, fechas, copias, notas. Las armó en la oficina con la puerta abierta y Rocco echado en el umbral, de cara al patio, sobre la manta de Russ, que había arrastrado hasta ahí desde su casa.
+
+Danny se asomó a preguntar algo. Rocco levantó la cabeza del piso, sin gruñir, nada más mirándolo, y Danny se quedó afuera.
+
+—Cuando Garrett tiene dinero en la mesa, ese perro desconoce a su familia —le dijo a Kal—. Entras sin permiso y te desgarra el cuello.
+
+Garrett pasó una pestaña.
+
+—Por eso lo dejo entrar.
 
 —¿Cuándo aprendiste a hacer esto? —preguntó Kal.
 

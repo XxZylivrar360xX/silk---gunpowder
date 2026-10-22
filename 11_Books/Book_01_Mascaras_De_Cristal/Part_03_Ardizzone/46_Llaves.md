@@ -14,6 +14,7 @@ Función: "Los de Kal". La gente de Kal la recibe fría y termina siguiéndola. 
 - Loft: Chiara da un rodeo para no pasar enfrente; Héctor le ofrece la llave; ella da la instrucción de la albahaca y no sube. Sin glosa.
 - Marisol (plan: "alguien tiene que decírselo"): el campamento de fin de mes (sembrado en el 38) cae el sábado; Walt iba a cubrir las grúas. Garrett marca el riesgo (estudia derecho, va a querer un cargo y una ventanilla). Héctor ya le mintió dos veces a Marisol y no va a mentirle una tercera (Q4 de la auditoría del arco, 2026-10-03); le pasa el teléfono a Chiara. Corte antes de la conversación (DISEÑO: queda fuera de página; si el autor la quiere en escena, abre el 47 o se amplía aquí).
 - Bonnie y Mei-Lin no aparecen. No se nombra Halbrook, el expediente, el convoy ni la fecha del traslado. Sin EPUB, commit ni push.
+Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): sale de la casa de tablas y se pone panza arriba con Chiara, como siempre con ella; primera vez en prosa. La casa de Kal sin Kal, sin glosa. Ficha: 02_Characters/Rocco.md.
 -->
 
 # Capítulo 46 — Llaves
@@ -241,6 +242,8 @@ Danny asintió y volvió al sedán. Garrett se quedó un momento más en la puer
 ---
 
 El sol ya no entraba por el portón. Le pegaba sólo a la parte alta de la tapia y al gancho de la grúa, que brillaba como si estuviera mojado. En la calle, el hombre de la escoba había terminado su acera y el agua corría hacia la alcantarilla, arrastrando una envoltura de paleta.
+
+Rocco salió de su casa, la de tablas junto a la oficina, cruzó el Patio sin prisa y se tiró de espaldas a los pies de Chiara, con las cuatro patas al aire, como cada vez que ella entraba. Chiara se puso en cuclillas, con el saco rozando el piso, y le rascó la panza hasta que él suspiró. Detrás, en la entrada de la casa, la manta se había quedado hecha bola.
 
 Héctor se bajó del capó y se acercó a ella. Metió la mano en el bolsillo de la camisa de cuadros y sacó una llave sola, sin llavero, plateada, más nueva que todas las llaves del taller.
 

@@ -21,6 +21,7 @@ Funcion: DISEÑO NUEVO de esta sesion, a peticion del autor. Segundo escalon de 
 - INSERCION BORRADOR (2026-09-26, Claude Code, decision del autor sobre la quinta tanda de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Evaluacion_Arco_Libro_I]]): primera siembra de Silas Crowe desde el Cap. 17. Tras la reapertura de la llantera, Hector cuenta que el Tasador mando a preguntar quien arreglo lo de Portillo y cuanto cobro; la respuesta es "nada" y "al muchacho no le gusto". Crowe tasa el crecimiento de Kal, sin accion. AJUSTE 2026-10-04 (decision del autor, arrastre de la reubicacion del Corral; BORRADOR): "Los dos estaban pensando en Calle Corona" (Cap. 9). Anticipa el mecanismo de su caida (Kal da gratis lo que el vende) y el motivo del incendio ("si alguien empieza a ganar sin el, aparece una cuota nueva", [[02_Characters/Silas_Crowe]]). No se inventa el cargamento. Pendiente de revision del autor.
 
 > **DISEÑO RESERVADO PARA PARTE III (2026-09-20, idea del autor, no escrito):** cuando Kal empiece a aparecer publica o semipublicamente como la persona que Dario usa para coordinar problemas entre bandas, Lucia empezara a encontrarse el nombre de Mercer en lugares extraños sin tener todavia un delito claro que ponerle encima. Ahi si, con evidencia acumulada de meses de linea directa sin que Kal la haya usado nunca para llegar a su padre, Lucia puede observarlo en voz alta: *"—Hay algo que no entiendo de usted. —La lista es larga. —Tiene contacto con mi padre. Tiene contacto conmigo. Nunca ha intentado utilizar uno para llegar al otro."* Kal: *"—Porque son dos relaciones distintas."* — declaracion sobre como Kal administra personas (no convierte automaticamente un vinculo en palanca sobre otro) que Lucia puede recordar años despues al preguntarse cuanto sabia Kal sobre Dario. No fijar capitulo ni fecha todavia; anotar tambien en `06_Relationships/Hitos.md` o `98_Agent_Handoff/PENDING.md` si se quiere proteger la idea para cuando se diseñe la Parte III.
+Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): Nadir le avienta la llave Allen en la acera; cuando Kal le quita lo de Irene, Rocco se la devuelve y Nadir no la recoge. Ficha: 02_Characters/Rocco.md.
 -->
 
 # Capítulo 32 — Línea directa
@@ -203,7 +204,7 @@ Tomás descruzó los brazos. Irene bajó la vista a la libreta.
 
 Escribió algo en la hoja, una línea corta, y no esperó respuesta.
 
-Nadir estaba en la acera del taller cuando Kal volvió, en cuclillas junto a la Kawasaki, tensando la cadena con una llave del catorce.
+Nadir estaba en la acera del taller cuando Kal volvió, en cuclillas junto a la Kawasaki, tensando la cadena con una llave del catorce. Rocco esperaba sentado a su lado, temblando, con los ojos fijos en la llave Allen que Nadir tenía en la otra mano. Cuando vio llegar a Kal, Nadir la aventó al fondo de la acera sin voltear y Rocco salió tras ella.
 
 —Se acabó lo de Irene —dijo Kal—. Ya no cargas nada.
 
@@ -216,6 +217,8 @@ Nadir dejó de girar la llave.
 —¿Por qué ahora?
 
 —Porque ya alcanzó.
+
+Rocco volvió con la llave Allen babeada y se la dejó junto a la bota. Nadir no la recogió.
 
 Nadir lo miró desde abajo un rato largo. Después volvió a la cadena, le dio media vuelta más a la tuerca y probó la tensión con el pulgar.
 
