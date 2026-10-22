@@ -10,7 +10,7 @@ Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); el estado s
 Narrador (2026-10-05, SURGERY autorizada por el autor; sigue TERMINADO): apertura comprimida, fuera "No era pereza. Era que". Detalle: 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Narrador_Tesis_Resenas_ChatGPT.md.
 Foto de Plaza Corona (2026-10-18, orden del autor; DISENO del agente, pendiente de lectura; sigue TERMINADO): la fotografia granulada que Lucia desliza es el cuadro de la camara de Plaza Corona durante el 360 del Cap. 8 (reloj del Ayuntamiento, fuente, Peugeot de costado, dos manchas negras donde irian las caras). Kal la reconoce y no la toma; Lucia no menciona al acompanante.
 Vela de Palermo (2026-10-18, orden del autor; capitulo TERMINADO, el estado se conserva): recuerdo movido intacto desde el Cap. 2 a la noche de domestici eius, antes de "Esa noche no encendio una vela". Puente DISENO: "Lo primero que le pidieron las manos fue una vela." El "ya lo arreglo yo" de Corrado se cobra en la lampara de Chiara.
-Arco lector 11-13 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_11-13_Lector; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): P1, P3, P4A, P5, P6, P8a/b/d aplicados. Kenji entrega -> vela y recuerdo de Corrado -> lampara -> MICH. 7:6 y sintesis; 'Su propia casa' = el Monarch; el papel del cajon (subjefa) se saca y se devuelve sin usar (Chiara no sabe su nombre; el 15 une apellido y rumor); demora de tres semanas hecha decision ('Dijiste que me lo traias tu' / 'Te lo traigo entero...'); nota al margen ('Ps. 26:12') sin tachar; Kal espera de pie y se sienta tras el 'Sientese'. VERIFY (2026-10-22): V2 margen 'Ps. 26:12' (no 'testes iniqui'); V4 'sentado en una de sus mesas'; V5 'el olor de su propio papel'.
+Arco lector 11-13 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_11-13_Lector; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): P1, P3, P4A, P5, P6, P8a/b/d aplicados. Kenji entrega -> vela y recuerdo de Corrado -> lampara -> MICH. 7:6 y sintesis; 'Su propia casa' = el Monarch; el papel del cajon (subjefa) se saca y se devuelve sin usar (Chiara no sabe su nombre; el 15 une apellido y rumor); demora de tres semanas hecha decision ('Dijiste que me lo traias tu' / 'Te lo traigo entero...'); nota al margen ('Ps. 26:12') sin tachar; Kal espera de pie y se sienta tras el 'Sientese'. VERIFY (2026-10-22): V2 margen 'Ps. 26:12' (no 'testes iniqui'); V4 'sentado en una de sus mesas'; V5 'el olor de su propio papel'. R1/R3 (2026-10-22): 'Tardó poco más de dos semanas' (apertura) y 'Llevaba semanas faltando' (taller); dialogo 'tres semanas' intacto; Auster en hoja aparte con referencia al margen; triada 'gasolinera / del sur / Kenji'.
 -->
 
 # Capítulo 13 — Auster
@@ -21,7 +21,7 @@ Chiara lo sacaba cada tantos días, lo leía otra vez, y lo volvía a guardar.
 
 Un dato sin pregunta todavía no era un dato: era sólo una espera con forma de papel.
 
-Tardó tres semanas.
+Tardó poco más de dos semanas.
 
 ***
 
@@ -63,7 +63,7 @@ La segunda pieza tardó una semana más, y llegó con el acento de siempre.
 
 Chiara conocía el patrón lo bastante bien como para no exigirle más. Ésa era la frontera exacta de lo que Mabel entregaba: nunca una conclusión.
 
-Volvió a escribir, esa misma noche, otra referencia al margen del mismo papel.
+Esa misma noche lo apuntó en una hoja aparte y, al margen, escribió otra referencia.
 
 *Cant. 4:16. Auster.*
 
@@ -135,7 +135,7 @@ Chiara se quedó de pie un momento largo, con el papel entre los dedos, sintiend
 
 No hacía falta que Kenji le dijera cuál era el nombre que el abogado había soltado en la mesa cuatro. Chiara ya lo sabía desde la primera vez que vio un Peugeot rojo entrar al Monarch.
 
-Extendió los tres papeles sobre la mesa del penthouse — el de la gasolinera, el de Mabel, el de Kenji — y los miró como quien mira, por fin, una fotografía completa después de haber tenido durante semanas sólo los pedazos recortados.
+Extendió los tres papeles sobre la mesa del penthouse — el de la gasolinera, el del sur, el de Kenji — y los miró como quien mira, por fin, una fotografía completa después de haber tenido durante semanas sólo los pedazos recortados.
 
 *Testes iniqui. Auster. Domestici eius.*
 
@@ -173,7 +173,7 @@ Al margen del primer papel seguía su propia letra: *Ps. 26:12.* No la tachó.
 
 ***
 
-Fue a buscar a Kal al taller, no al revés — la primera vez, cayó en la cuenta, que ella hacía ese camino sin que él la llamara antes. Se lo había prometido en el Monarch. Llevaba tres semanas faltando a la promesa a propósito.
+Fue a buscar a Kal al taller, no al revés — la primera vez, cayó en la cuenta, que ella hacía ese camino sin que él la llamara antes. Se lo había prometido en el Monarch. Llevaba semanas faltando a la promesa a propósito.
 
 Lo encontró debajo de un auto que no era suyo. No esperó a que saliera.
 

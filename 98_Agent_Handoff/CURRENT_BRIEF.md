@@ -23,7 +23,7 @@ Actualizado: 2026-10-22. Máximo 800 palabras. Brief anterior íntegro: [[98_Age
 - **Puntos de ChatGPT, caps. 1–8 (CANON):** Chiara llega en jet privado desde Palermo (hangar de Kingsley); en el 41 entra por Nueva York ([[98_Agent_Handoff/sessions/2026-10-22_claude_puntos_chatgpt_caps_01_08]]).
 - **Fabrizio:** última plática en el Cap. 49. CANON: la coerción de Volpi pasa a Tommaso. Falta: su lugar en la Parte II y qué iba a contar.
 - **Cap. 10:** Kal paga a Crowe la bolsa de Rowe (consecuencia del 9); cuotas y objeción de Nadir; eco en el 37.
-- **Caps. 11–13 (2026-10-22, autorizado):** P1–P8 y V1–V6 aplicados; pendientes en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Propuesta_Arco_Caps_11-13_Lector]].
+- **Caps. 11–13 (2026-10-22, autorizado):** P1–P8, V1–V6 y R1–R3 aplicados; detalle en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Propuesta_Arco_Caps_11-13_Lector]].
 - **Rocco (CANON 2026-10-22):** siembras en 1, 23, 30, 32 y 46 para el momento "John Wick" del II. Ficha: [[02_Characters/Rocco]].
 
 ## Libro II: canon vigente (resumen)

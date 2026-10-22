@@ -162,7 +162,7 @@ Tras aplicar: verificación con `editorial-surgery` y actualizar estados en `12_
 
 ---
 
-## Propuesta para los tres pendientes del supervisor (2026-10-22, DISEÑO, sin aplicar)
+## Propuesta para los tres pendientes del supervisor (2026-10-22, DISEÑO, APLICADA 2026-10-22)
 
 **R1. "Tres semanas" (Cap. 13).** Cronología interna: la gasolinera es el día 0, Rafe llega a la semana, Kenji ~2,5 semanas después y luego vienen cuatro días de trabajo. El taller queda a ~3 semanas de la gasolinera, así que el diálogo es exacto; la apertura y el narrador del taller, no.
 - l. 24: "Tardó tres semanas." → "Tardó poco más de dos semanas." (mide hasta la noche de MICH. 7:6, que es cuando el papel encuentra su pregunta).
@@ -176,3 +176,11 @@ Tras aplicar: verificación con `editorial-surgery` y actualizar estados en `12_
 - l. 66: "Volvió a escribir, esa misma noche, otra referencia al margen del mismo papel." → "Esa misma noche lo apuntó en una hoja aparte y, al margen, escribió otra referencia."
 - l. 138: "— el de la gasolinera, el de Mabel, el de Kenji —" → "— el de la gasolinera, el del sur, el de Kenji —" (calca la tríada *Testes iniqui. Auster. Domestici eius.*).
 - P5 ("Al margen del primer papel…") sigue válido.
+
+## Reporte de consistencia R1–R3 (supervisor, 2026-10-22)
+
+- **Aplicación:** R1 (l. 24 y l. 176 del 13), R2 (l. 119 del 12) y R3 (l. 66 y l. 138 del 13) aplicados literalmente; sin otros cambios de prosa. Notas "Arco lector 11-13" de ambos capítulos actualizadas y fieles a lo aplicado.
+- **Cronología del 13:** sin contradicciones. "Lo sé desde hace tres semanas" / "Hace tres semanas" (≈3 semanas desde la gasolinera), "durante semanas" (noche de Kenji), "llevaba semanas esperando" (cajón), "Llevaba semanas faltando" (taller), "cuatro días", "tres días antes", "Desde el lunes", "esa misma semana": todo compatible.
+- **Papeles:** gasolinera (nota con *Ps. 26:12* al margen = "el primer papel"), hoja aparte del sur (*Cant. 4:16*), Kenji (*MICH. 7:6*) = "los tres papeles"; el de la subjefa = "el del cajón" (síntesis y cierre). Coherente.
+- **Cajones/papel:** el papel de cartas en el bolso (12, l. 119) cuadra con "guardó el resto del papel en el bolso" (12, l. 155); el "cajón aparte" del viñedo (12) y el cajón "que no era el de las cartas ni el de los recibos" (13) son del penthouse. Sin choque.
+- **De juicio, sin tocar:** (a) el 13 abre con "El tercer papel" (= tercero del montaje del 12: Blake, viñedo, subjefa) y luego llama "los tres papeles" a otra serie; legible, pero dos cuentas de "tres" en el mismo capítulo. (b) "Tardó poco más de dos semanas" no tiene ancla explícita (el papel del cajón ya esperaba antes de la gasolinera). (c) "guardar la nota" (gasolinera) no dice quién la escribió; con "Mabel no escribe" se entiende que la puso Chiara en papel.
