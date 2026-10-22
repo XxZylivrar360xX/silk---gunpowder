@@ -3,6 +3,7 @@ Estado: TERMINADO (heredado del Cap. 5; segmentado).
 Segmentacion (2026-10-22, decision del autor): el antiguo Cap. 5 (Una amiga, ~11,800 palabras, fusion de 2026-09-10) se divide en 5a Cliente y proveedor, 5b Sin llamar a nadie y 5c La pizza de calabaza, sin renumerar el resto. La cita de Kal y Chiara (de Rocco a la despedida) queda entera en 5c.
 Funcion: H2-a completo, la primera cena que ninguno llama cita: Rocco y la pata, la camioneta, la llegada, Il Gelsomino, la acera, la despedida.
 Historial de cirugias y decisiones del antiguo Cap. 5 (Una amiga), previo a la segmentacion: ver el comentario de 05a_Cliente_Y_Proveedor.md.
+Rocco (2026-10-22, decision del autor; DISENO de redaccion): primera descripcion fisica, pitbull cafe de cabeza ancha, oreja mordida "desde antes de llegar al taller" (origen callejero) y la mancha blanca en el pecho que ya existia. Ficha: 02_Characters/Rocco.md.
 -->
 
 # La pizza de calabaza
@@ -11,7 +12,7 @@ Unos días después de que la caseta dejara de pedirle nombre, Kal pasó la tard
 
 No toda la tarde, si alguien preguntaba.
 
-Si alguien preguntaba, había revisado dos frenos, firmado tres facturas, discutido con un proveedor de llantas y movido una camioneta sin placas del fondo del patio al elevador dos, y le había dicho a Danny, frente a la lona del fondo, que todavía no, por tercera vez en la semana. Todo eso era verdad. También era verdad que entre una cosa y otra se había agachado frente a un perro café con una mancha blanca en el pecho y le había repetido la misma instrucción hasta que Danny empezó a mirarlo como si estuviera viendo nacer una enfermedad.
+Si alguien preguntaba, había revisado dos frenos, firmado tres facturas, discutido con un proveedor de llantas y movido una camioneta sin placas del fondo del patio al elevador dos, y le había dicho a Danny, frente a la lona del fondo, que todavía no, por tercera vez en la semana. Todo eso era verdad. También era verdad que entre una cosa y otra se había agachado frente a un pitbull café, de cabeza ancha, con una oreja mordida desde antes de llegar al taller y una mancha blanca en el pecho, y le había repetido la misma instrucción hasta que Danny empezó a mirarlo como si estuviera viendo nacer una enfermedad.
 
 —No va a firmar contrato —dijo Danny.
 

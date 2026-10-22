@@ -5,6 +5,7 @@
 > **CANON DEL AUTOR (2026-10-22).** Lo de abajo es decisión del autor salvo donde dice DISEÑO o PENDIENTE.
 
 **Qué es:** pitbull mestizo de la calle, adoptado en el taller de [[05_Locations/Lote_Almendra|La Almendra]].
+**Cómo se ve:** café, de cabeza ancha, con una oreja mordida desde antes de llegar al taller y una mancha blanca en el pecho (Cap. 5c).
 **De quién es:** en el papel, de [[02_Characters/Daniel_Hayes|Danny]]; su collar lleva el nombre de Danny ("Es tu perro, Danny", Cap. 5c). En la práctica, del taller entero.
 **Estado:** vivo.
 
