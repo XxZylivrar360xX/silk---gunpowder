@@ -15,6 +15,7 @@ Arrastre de la reubicacion del Corral (2026-10-04, DISEÑO pendiente de lectura;
 
 Crowe en el arco del loft (2026-10-22, decision del autor: opciones 1 y 2 del estudio del Cap. 9; prosa DISENO pendiente de lectura; el resto sigue TERMINADO): escena nueva tras Walt: la bolsa de Rowe aparece en la vitrina del primer local del Tasador; Kal la paga sin regatear ('Que adentro va todo': Crowe queria que entrara a pagarla) y la devuelve a la fiscalia en la cajuela del primer coche del resguardo, con el tanque lleno. Respuesta de Crowe: cuota a la vulcanizadora 'por la competencia' y pregunta por quien duerme en la casa comun; la objecion de Nadir pasa de espacio a riesgo (el chico no duerme ahi por miedo, no por falta de cuarto); Kal apunta la fecha en la libreta de los fiados (eco con 'Debajo de otra fecha que no habia tachado' del Cap. 37). La compra de la casa responde a eso: sacar su riesgo de la casa de todos.
 Dario y la casa comun (2026-10-22, decision del autor: opcion 3 del estudio del Cap. 9; prosa DISENO pendiente de lectura): al cuarto dia un chofer del Monarch recoge el Mercedes en la casa comun y deja una tarjeta de Dario ('Que se mejore pronto. Aqui la esperamos.') en un sobre con la direccion completa, entregado en mano: Dario sabe donde duerme sin que ella se lo dijera (la version que le dio fue la caida en el spa). Chiara no se la ensena a Kal. Alimenta la sospecha de Dario hacia Kal en el 24c y el 'A Dario, menos' de Chiara.
+Il Consorzio (2026-10-22, idea del autor; prosa DISENO): la tarjeta de Dario implica que calla ante Il Consorzio, y ese silencio tambien se cobra (siembra del 9).
 -->
 
 # Capítulo 10 — El loft del soltero
@@ -60,6 +61,8 @@ No tocó la puerta. Esperó en la acera, junto a la grúa, de traje y con la lla
 El chofer le dio a Danny un sobre para la señora Bellandi y se llevó el Mercedes sin pedir firma.
 
 Adentro venía una tarjeta del Monarch con la letra de Dario: *Que se mejore pronto. Aquí la esperamos.* El sobre traía escrita la dirección de la casa común, completa, con el código postal. No hacía falta. Lo habían entregado en mano.
+
+Tampoco hacía falta lo que la tarjeta no decía: que Il Consorzio no se iba a enterar por él. Dario también lo iba a cobrar.
 
 Chiara guardó la tarjeta en el neceser. A Kal no se la enseñó.
 
