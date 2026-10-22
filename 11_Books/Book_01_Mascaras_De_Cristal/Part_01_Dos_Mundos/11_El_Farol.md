@@ -7,7 +7,7 @@ Ventana temporal: despues del Capitulo 10 (la casa del loft ya terminada y estre
 Lugares: El Penthouse, La Esquina de Mabel (La Almendra), The Monarch Casino & Hotel (piso de juego, torneo de poker).
 Funcion: beats 12 y 12-b. Red civil de Chiara (Mabel); primer reencuentro Walt/Mabel visto por Chiara; primer torneo de poker (Walt miente en la mesa); nace la sociedad de la destileria, separada del casino.
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); sigue BORRADOR): Mabel, fuera "Yo solo sirvo cafe" (queda "Yo no dije para que" como eco con variacion del Cap. 1) y fuera el remate "Eso, en este barrio, asusta mas que un arma" (decision del autor; supersede la linea "Se conserva" de arriba en ese punto).
-Arco lector 11-13 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_11-13_Lector; sigue BORRADOR; prosa DISENO pendiente de lectura): P7 y P8e/P8f aplicados. Siembra 'Tampoco le conto lo de la mesa tres'; el ladrillo vuelve al entrar al penthouse ('Tampoco esa noche lo tiro'); condicion de Walt (comprarle su parte 'a precio de lista') antes de 'Minoritaria', que sigue siendo la ultima replica.
+Arco lector 11-13 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_11-13_Lector; sigue BORRADOR; prosa DISENO pendiente de lectura): P7 y P8e/P8f aplicados. Siembra 'Tampoco le conto lo de la mesa tres'; el ladrillo vuelve al entrar al penthouse ('Tampoco esa noche lo tiro'); condicion de Walt (comprarle su parte 'a precio de lista') antes de 'Minoritaria', que sigue siendo la ultima replica. VERIFY V3: 'dijo' -> 'dijo Walt' (desambigua tras reorden).
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N11-1 a N11-3. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
@@ -239,7 +239,7 @@ Walt la miró con algo parecido a la sorpresa, aunque en su cara la sorpresa se 
 
 —A precio de lista.
 
-—Minoritaria —dijo.
+—Minoritaria —dijo Walt.
 
 —Minoritaria.
 

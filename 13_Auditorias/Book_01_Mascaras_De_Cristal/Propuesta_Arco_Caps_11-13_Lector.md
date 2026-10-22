@@ -141,3 +141,21 @@ Tras aplicar: verificación con `editorial-surgery` y actualizar estados en `12_
 **Sin observaciones:** P1 (paga el gancho de apertura con eco de "su pregunta" del 12; no adelanta el nombre del 15), P3, P6 (sin pérdida de información; el recuerdo está intacto), P7, P8a, P8b, P8c y P8e. No hay pérdida de voz ni de siembras.
 
 **Anterior a esta cirugía (sólo se reporta):** "los tres papeles — el de la gasolinera, el de Mabel, el de Kenji" choca con que la referencia de Mabel se escribió "al margen del mismo papel".
+
+---
+
+## Reporte de consistencia (supervisor, 2026-10-22)
+
+**Estado V1–V6:** las seis aplicadas con exactitud y sin otros cambios en prosa. V1 (12): "—Sí." restaurado. V2 (13): margen "*Ps. 26:12.*". V3 (11): "—Minoritaria —dijo Walt.". V4 (13): "de un abogado sentado en una de sus mesas, con su whisky en la mano." (el abogado, no Kal). V5 (13): "el olor de su propio papel.". V6 (12): "que no entendía.".
+
+**Continuidad verificada:** Cap. 14 (papel doblado en cuatro, *Roma Atrii* por fuera, sin abrir) cuadra con el 12. Cap. 15 ("Subjefa": Chiara une apellido y rumor) cuadra con el 13 (Chiara no sabe el nombre; sólo Kal oye "Lucía Varek"). Cap. 38 ("Venía buscándome a mí"): tras V1, nada en el 12 dice que *Roma Atrii* sea Kal; "¿Quién es?" / "No lo sé. Kenji sí." se lee referido al chico. La siembra "mesa tres" (11) se paga en el 12.
+
+**Correcciones mecánicas (sólo encabezados HTML):**
+- 13: "'testes iniqui' sin tachar;" → "nota al margen ('Ps. 26:12') sin tachar;" (contradecía la prosa tras V2).
+- 12: tras "(orden de revelaciones, Cap. 38);" se añadió "VERIFY V6: 'que no leia' -> 'que no entendia';" (V6 no constaba).
+
+**Para el autor (juicio, sin tocar):**
+- 13: "tres semanas" aparece cuatro veces ("Tardó tres semanas.", "Llevaba tres semanas faltando…", "Lo sé desde hace tres semanas.", "Hace tres semanas te habría traído miedo."); la apertura y el diálogo pueden leerse como el mismo plazo aunque la cadena (pieza 1 → +1 semana → pieza 3 → +4 días) sólo cuadra si se cuenta desde la gasolinera.
+- 12/13: con P6 el papel de cartas vive en el cajón de la oficina del Monarch; el 13 abre con un cajón del penthouse "que no era el de las cartas". Compatible (puede haber dos), pero vale una lectura.
+- Sigue abierto lo ya reportado en VERIFY: "los tres papeles — el de la gasolinera, el de Mabel, el de Kenji" frente a la referencia de Mabel escrita "al margen del mismo papel".
+- Prosa nueva de P1–P8 sigue DISEÑO pendiente de lectura; sin commit.
