@@ -1,0 +1,111 @@
+# Propuesta — Arco Caps. 11–13, lectura de lector
+
+Fecha: 2026-10-22. Autor de la propuesta: Claude Code. **Estado: DISEÑO, nada aplicado.** Los Caps. 12 y 13 están TERMINADOS: cualquier cambio requiere orden del autor. El Cap. 11 está en BORRADOR. No se toca diálogo CANON DEL AUTOR ("Eres realmente buena en esto" / "Lo soy cuando amenazan a mi gente").
+
+Diagnóstico de origen: el arco funciona (escuchar → construir → usar la red; "cara pareja" como motivo). Los puntos son huecos de lectura, no de estructura.
+
+---
+
+## P1. El tercer papel no se cobra (Cap. 13) — ALTA
+
+**Problema.** El 13 abre con el rumor de la subjefa como gancho; ninguna de las tres piezas lo toca. El Cap. 15 sí lo cobra ("Subjefa, como la mujer del rumor que semanas antes había tenido sobre la mesa el caso de Kal"), pero el 13 nunca le dice al lector que el caso está en manos de la subjefa.
+
+**Arreglo.** Que el tercer papel sea la cuarta pieza de la síntesis y que Chiara decida *no usarlo*: el pago es una elección, no un dato. Conserva que el nombre y el apellido llegan en el 15.
+
+En la síntesis, tras "Falsos testigos. El sur. La propia casa.":
+
+> Sacó también el cuarto, el que llevaba semanas esperando su pregunta. Una subjefa que firmaba los casos de Calle Corona y cenaba en la costa con alguien que pagaba en efectivo. Ahora tenía la pregunta: el caso de Kal iba a terminar en su escritorio.
+>
+> Lo sostuvo un momento. Con eso se podía hacer ruido, y el ruido se iba a oír en el mismo despacho donde estaba el nombre de Kal.
+>
+> Lo devolvió al cajón.
+
+Y en el cierre, cambiar "junto con los tres papeles que nadie más iba a ver nunca juntos" por "junto con los tres papeles que nadie más iba a ver nunca juntos, y el cuarto, que todavía no había usado". (Cuidar que el 15 siga funcionando: allí Chiara une apellido y rumor; no cambia.)
+
+## P2. Una nota en latín para alguien que no lee latín (Cap. 12) — ALTA
+
+**Problema.** La nota es para Kal (Roma Atrii = Kal, pagado en el 38) y es urgente, pero Kal no la puede leer. Además, dentro del 12 el papel se ve escrito por dentro y a la vez sigue "todavía doblado en cuatro", y el 14 dice que Kal nunca lo abrió.
+
+**Arreglo (dos piezas, sin tocar diálogo existente).**
+
+1. Coherencia física: Kal no lo abre. Cambiar "Arriba del todo, en letra cursiva apretada… Debajo, más líneas en un idioma que Kal no leía." por algo que se vea **por fuera**: "Por fuera, en letra cursiva apretada, inclinada siempre hacia el mismo lado, las mismas dos palabras que el chico acababa de mascullar: **ROMA ATRII.** Por el borde se transparentaban más líneas." Así el 14 ("sin que Kal lo tirara ni lo abriera") queda limpio. Revisar en el 12 "al latín que no leía" → "a las dos palabras que no leía".
+2. Lógica del mensaje: el papel no era para que Kal lo leyera, sino para que llegara al Patio y alguien la llamara. Añadir una réplica de Chiara tras "Pudiste llamarme. / —Pude.":
+
+> —Lo de adentro no era para que lo leyeras. Era para que me buscaras hoy y no a la noche.
+
+Respeta el "Todavía no" sobre el significado y no revela el código.
+
+## P3. Urgencia del 12 contra paciencia del 13 — ALTA
+
+**Problema.** En el 12 manda a un niño la misma mañana; en el 13 calla tres semanas pese a "lo traigo yo". El narrador dice "Hasta ahora no había tenido nada que traerle", que es falso. Kal no reacciona.
+
+**Arreglo.** Hacer la demora una decisión visible y que Kal la cobre.
+
+- Narrador, Cap. 13: "Se lo había prometido en el Monarch. Hasta ahora no había tenido nada que traerle." → "Se lo había prometido en el Monarch. Llevaba tres semanas faltando a la promesa a propósito."
+- Taller, tras "—Lo sé desde hace tres semanas." / "La llave se detuvo.", añadir:
+
+> —Dijiste que me lo traías tú.
+>
+> —Te lo traigo entero. Hace tres semanas te habría traído miedo.
+
+Eco directo de la pelea del 12 (ella aprendió a pensarla) y fricción leve que sostiene la regla de que pueden romperse.
+
+## P4. *Domestici eius* queda opaco (Cap. 13) — MEDIA
+
+**Problema.** "Los enemigos… son los de su propia casa" suena a traidor cercano a Kal; la síntesis sólo habla de Calle Corona.
+
+**Arreglo (elegir uno; recomiendo A).**
+
+- **A. Casa = la del Monarch.** El abogado perdió en la mesa cuatro de *su* casino: la fuga salió de su propio piso. Añadir tras la cita: "Su propia casa. El nombre lo había soltado un abogado en la mesa cuatro del Monarch, sobre su piso, con su whisky en la mano." Encaja con el 12 ("en su casa, sobre su piso, con su nombre") y explica por qué la culpa la alcanza a ella.
+- **B. Casa = la de Kal.** Abre un hilo de traidor en Almendra Towing que no existe en canon. No recomendado sin decisión del autor.
+
+## P5. La ironía de los falsos testigos (Cap. 13) — MEDIA
+
+**Problema.** Chiara archiva el miedo bajo *testes iniqui* y luego prepara a Villani. La ironía pasa sin verse.
+
+**Arreglo.** Un beat seco al final de la sección de los cuatro días, tras "un tercer camino, más ancho, más fácil de creer que cualquiera de los otros dos.":
+
+> Al margen del primer papel seguía su propia letra: *testes iniqui*. No la tachó.
+
+Sin glosa; el lector arma la ironía.
+
+## P6. Estructura repetida de noches en el penthouse (Caps. 12–13) — MEDIA
+
+**Problema.** El 12 y el 13 cierran sección igual: noche, papel, recuerdo de Palermo. En el 13 la vela frena el clímax.
+
+**Arreglo.**
+
+- **Cap. 13:** mover la vela *antes* de que encajen las piezas, no después. Orden: Kenji entrega → Chiara en el penthouse, con el papel sin abrir, siente el impulso ("Lo primero que le pidieron las manos fue una vela") → recuerdo de Corrado → "Esa noche no encendió una vela. Encendió la lámpara del escritorio" → **ahí** abre MICH. 7:6 y las tres piezas dejan de ser tres. El recuerdo pasa de freno a carga: el lector entra al clímax sabiendo que ella va a "arreglarlo personalmente". Requiere reordenar dos bloques, sin prosa nueva salvo una costura.
+- **Cap. 12:** el recuerdo de la niña del colegio queda, pero cambiar la escena de "de vuelta en el penthouse" a otro lugar (p. ej., la oficina del Monarch después del torneo) para no calcar la puesta del 13. Ver también P7.
+
+## P7. Cronología y estado de ánimo en la noche del torneo (Caps. 11–12) — MEDIA
+
+**Problema.** En el 12, Tommaso la toca con Alessio esa noche; en el 11, la misma noche, recibe a Kal serena. El 12 además retrocede ("Semanas antes del torneo") justo después de un capítulo que ya estaba en el torneo.
+
+**Arreglo.**
+
+- **Cap. 11 (BORRADOR), escena con Kal:** dejar la grieta sin explicarla. Tras "No le contó lo de Mabel. No era suyo para contarlo.", añadir: "Tampoco le contó lo de la mesa tres. Eso sí era suyo, y todavía no sabía qué hacer con ello." Funciona como siembra para el 12.
+- **Cap. 12:** el escrito en latín de esa noche ocurre "de vuelta en el penthouse"; con Kal ahí (11), mejor: "Esa noche, cuando Kal ya dormía en el sofá, sacó el papel…" o moverlo a la oficina (P6). Elegir uno.
+- El retroceso del 12 se sostiene si la marca temporal pesa: mantener "Semanas antes del torneo" como primera palabra (ya está) y que la vuelta diga explícitamente "La noche del torneo de Walt Keegan" en lugar de "para la noche del primer torneo".
+
+## P8. Detalles menores
+
+| # | Cap. | Problema | Arreglo |
+|---|---|---|---|
+| a | 13 | Lucía dice "Siéntese" cuando Kal ya se sentó. | "Kal se sentó donde le indicaron" → "Kal esperó de pie donde le indicaron". |
+| b | 12/13 | "Kal entendió, en el mismo/primer segundo, dos cosas" se repite. | En el 13: "Kal supo pronto que esa mujer no improvisaba nada, y que el apellido no era casualidad…". |
+| c | 11/12 | "la sonrisa corta" en ambos. | En el 12: "Chiara sonrió apenas." |
+| d | 12/13 | "nadie más en San Aurelio tenía permiso de tocar/reconocer". | En el 13: "y el aroma que ya sólo asociaba a su propio escritorio". |
+| e | 11 | El ladrillo abre el capítulo y no vuelve. | Al final, antes de "Afuera, San Aurelio…": "Al pasar por la entrada vio el ladrillo en la repisa. Tampoco esa noche lo tiró." |
+| f | 11 | Walt acepta rápido tras "no le va a deber nada a nadie". | Tras "—Minoritaria —dijo." añadir una condición de Walt: "—Y si un día quiero comprarle su parte, me la vende." / "—A precio de lista." Hace visible que no es deuda. |
+
+---
+
+## Orden de aplicación sugerido
+
+1. P2 y P8a (coherencia dura, cero riesgo de canon).
+2. P1 y P3 (huecos de promesa; tocan el 13 TERMINADO).
+3. P4, P5 y P7 (claridad e ironía).
+4. P6 (reordenamiento; el más invasivo).
+
+Tras aplicar: verificación con `editorial-surgery` y actualizar estados en `12_Craft_Policies/CHAPTER_STATUS.md`.
