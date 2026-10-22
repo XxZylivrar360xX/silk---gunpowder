@@ -52,7 +52,7 @@ Abre con el Cap. 1, [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno
 20. Dario en dos versiones: razonable con Kal, sofocante con Chiara. Kal escucha, pero subestima la escala.
 21. Tommaso empieza a ceder poder societario; Chiara avanza hacia la mayoría del Monarch.
 22. Una estructura italiana facilita el control total del Monarch: **PENDIENTE** si es Il Consorzio, La Comisión u otra. No fusionar instituciones.
-23. Deudas heredadas, en esta Parte: «Quiero levantarlo» (§13); Rowe/Marisol, suave; primera cuota pequeña de la cuenta Chiara → Dario; Rafe/Bravos, lateral; Lucía y el FBI; North Guard/Eagle Eye visibles; Halbrook se instala, todavía no cobra.
+23. Deudas heredadas, en esta Parte: «Quiero levantarlo» (§13); Rowe/Marisol, suave; primera cuota pequeña de la cuenta Chiara → Dario (la cuenta suma el silencio de Dario ante Il Consorzio sobre la muñeca del Cap. 9–10, CANON DEL AUTOR 2026-10-22); Rafe/Bravos, lateral; Lucía y el FBI; North Guard/Eagle Eye visibles; Halbrook se instala, todavía no cobra.
 
 **Cierre: gala de beneficencia.** Chiara conoce primero al hombre y luego el nombre (Kenji: «Warren Halbrook»). Después, en casa: «—Conocí a Warren Halbrook.» / «—¿Halbrook está en San Aurelio?». La verdadera pregunta es *¿por qué?* **FIN DE PARTE I.**
 

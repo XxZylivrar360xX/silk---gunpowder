@@ -196,6 +196,7 @@ Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Audit
 - **DISEÑO de la escena:** mide el retraso (doce días) en riesgo, no en dinero. Pide el Patio "por un tiempo". Inventario sin desprecio. La tutea; ella le habla de usted. "No te lo pregunté" invierte el registro. **Favoritismo por Kal, sin glosa:** "Cóbreselos a él cuando salga." / "A él no." Admite sin que se lo pregunten que no puede sacarlo ("Camp Alder no es San Aurelio"). A "que Kal no se entere" contesta "De mí, no."
 - **Lo que no sabe todavía:** que Il Consorzio le ofreció su Monarch a Chiara (Cap. 49; Q24 PENDIENTE). El 50 y el 50b no dependen de que sepa del asalto al convoy.
 - **Herencia:** el cobro de la cuenta abierta choca con el frente de Garrett y Krane, que le cortan el efectivo al Monarch ([[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]). Registro: [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]], "La cuenta abierta con Dario".
+- **El silencio ante Il Consorzio (CANON DEL AUTOR, 2026-10-22):** desde el Cap. 10 (tarjeta en la casa común) sabe de la muñeca de Chiara y no se lo dice a Il Consorzio. Lo cobra en *Sombras de Poder* junto con la cuenta abierta del 47.
 
 ---
 
