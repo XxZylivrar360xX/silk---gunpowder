@@ -159,3 +159,20 @@ Tras aplicar: verificación con `editorial-surgery` y actualizar estados en `12_
 - 12/13: con P6 el papel de cartas vive en el cajón de la oficina del Monarch; el 13 abre con un cajón del penthouse "que no era el de las cartas". Compatible (puede haber dos), pero vale una lectura.
 - Sigue abierto lo ya reportado en VERIFY: "los tres papeles — el de la gasolinera, el de Mabel, el de Kenji" frente a la referencia de Mabel escrita "al margen del mismo papel".
 - Prosa nueva de P1–P8 sigue DISEÑO pendiente de lectura; sin commit.
+
+---
+
+## Propuesta para los tres pendientes del supervisor (2026-10-22, DISEÑO, sin aplicar)
+
+**R1. "Tres semanas" (Cap. 13).** Cronología interna: la gasolinera es el día 0, Rafe llega a la semana, Kenji ~2,5 semanas después y luego vienen cuatro días de trabajo. El taller queda a ~3 semanas de la gasolinera, así que el diálogo es exacto; la apertura y el narrador del taller, no.
+- l. 24: "Tardó tres semanas." → "Tardó poco más de dos semanas." (mide hasta la noche de MICH. 7:6, que es cuando el papel encuentra su pregunta).
+- l. 176: "Llevaba tres semanas faltando a la promesa a propósito." → "Llevaba semanas faltando a la promesa a propósito."
+- Se quedan las dos de diálogo ("Lo sé desde hace tres semanas" / "Hace tres semanas te habría traído miedo"): el eco es deliberado y la cifra cuadra.
+
+**R2. Cajones (Caps. 12/13).** El 12 ya dice que Chiara guarda el papel bueno en el bolso ("Chiara guardó el resto del papel en el bolso"). Se arregla del lado del 12 y el 13 queda intacto:
+- Cap. 12, l. 119: "se encerró en su oficina del Monarch y sacó del cajón del escritorio el papel que usaba para las cartas" → "se encerró en su oficina del Monarch y sacó del bolso el papel que usaba para las cartas".
+
+**R3. "Los tres papeles" (Cap. 13).** Mabel no escribe (Cap. 12), y la segunda pieza se anota "al margen del mismo papel", así que no hay tercer papel. Además las dos primeras piezas llegan por Mabel, de modo que "el de Mabel" no las distingue.
+- l. 66: "Volvió a escribir, esa misma noche, otra referencia al margen del mismo papel." → "Esa misma noche lo apuntó en una hoja aparte y, al margen, escribió otra referencia."
+- l. 138: "— el de la gasolinera, el de Mabel, el de Kenji —" → "— el de la gasolinera, el del sur, el de Kenji —" (calca la tríada *Testes iniqui. Auster. Domestici eius.*).
+- P5 ("Al margen del primer papel…") sigue válido.
