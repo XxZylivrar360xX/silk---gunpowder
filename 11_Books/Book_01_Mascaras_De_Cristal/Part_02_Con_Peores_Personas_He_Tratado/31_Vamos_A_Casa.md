@@ -520,7 +520,7 @@ Una voz cayó desde el exterior antes de que él pudiera contestar.
 
 Chiara giró la cabeza hacia el balcón.
 
-En el edificio contiguo, apoyado sobre el barandal de su apartamento como si hubiera pagado entrada para aquello, Nadir sostenía una taza con una mano y sonreía de oreja a oreja.
+En el edificio contiguo, apoyado sobre el barandal del apartamento que había rentado con Danny cuando el loft empezó a ser de dos, como si hubiera pagado entrada para aquello, Nadir sostenía una taza con una mano y sonreía de oreja a oreja.
 
 Kal ni siquiera salió.
 

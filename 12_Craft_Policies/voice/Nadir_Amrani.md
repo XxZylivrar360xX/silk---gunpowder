@@ -63,8 +63,11 @@ Con Kal: Kal calla y decide: Nadir habla y decide, a la vez, sin pausa entre pen
 - **Con el barrio (1, 3, 5):** comida y burla. Cuida con ollas y tortillas; cobra con una sola línea ("Hueles bien", "¿Traía acento?").
 - **Pillado (23, la moto):** sobreexplica el precio en cascada ("cuatro mil doscientos; se la dejé en tres mil seiscientos, con casco, y las llantas son nuevas, wallah...") hasta que lo cortan por su nombre. Después, las manos quietas: es la primera vez que no tiene nada que hacer con ellas.
 - **Confesión ajena (24b, con Kal):** cuenta con los dedos contra la madera, primero con número y después sin número, "sólo por el gesto". Dice lo duro una vez ("lo voy a decir una vez y después no lo vuelvo a decir") y lo cierra con humor de cobro ("Mañana te cobro el doble").
-- **Frente a frente (24b, con Chiara):** abre con la pregunta de dinero ("¿Cuánto cuesta esa copa?"). Pide como quien pone un precio ("Que te alejes"). Paga él para no deber.
+- **Frente a frente (24b, con Chiara):** abre con la pregunta de dinero ("¿Cuánto cuesta esa copa?"). Pide como quien pone un precio ("Que se aleje"). Paga él para no deber.
 - **Su propia crisis (17):** silencio y frases mínimas. Si la escena le da líneas, que sean de cuenta (cuánto, cuántos días, qué se debe), no preguntas para darle pie a otro.
+
+## Trato con Chiara (CANON DEL AUTOR, 2026-10-22)
+Se hablan de usted hasta el atentado (24c) y de tú después, en las dos direcciones. "Señora" sobrevive como apodo burlón incluso con tú ("Nada no existe, señora").
 
 ## Regla de objeción
 
@@ -74,6 +77,6 @@ Cuando Nadir se opone a algo (la casa común en el 10, Chiara en el 24b), la obj
 
 - "Me sale caro. / Te sale lo que costó." (23)
 - "Safi. Ésa te la pago de contado." (23)
-- "Hoy pago yo. Así no te debo nada." (24b)
+- "Hoy pago yo. Así no le debo nada." (24b)
 - "Los jueves éramos catorce en esa mesa. Anoche fuimos seis." (10, objeción con costo)
 

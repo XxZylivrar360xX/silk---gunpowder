@@ -46,11 +46,11 @@ Nadir cerró el libro. Lo hizo despacio, con las dos manos, como quien cierra un
 
 Chiara no contestó. Se detuvo a mitad del Patio, entre la grúa y el capó, donde la podían ver todos, y esperó.
 
-—Aquí estuvimos pensando que a lo mejor se había regresado a Italia. —Nadir se apoyó en el mostrador con los dos codos—. Danny apostó que no. Le debo veinte.
+—Aquí estuvimos pensando que a lo mejor te habías regresado a Italia. —Nadir se apoyó en el mostrador con los dos codos—. Danny apostó que no. Le debo veinte.
 
 Debajo del sedán, la llave hizo un ruido corto contra algo y se calló.
 
-—Págueselos —dijo Chiara.
+—Págaselos —dijo Chiara.
 
 Nadir sonrió con media boca, sin nada de gracia. Walt levantó la botella del suelo, la miró como si buscara la etiqueta que no tenía y la volvió a dejar entre las botas.
 
@@ -150,7 +150,7 @@ Estaba lavada. Era lo único limpio en todo el Patio: la carrocería oscura sin 
 
 —Díselo —dijo Héctor, desde el capó.
 
-Nadir se volvió hacia él. Lo miró de una manera que Chiara no le había visto nunca, ni en el yate ni en el Patio ni en ninguna de las veces en que había discutido de precios con ella hasta hacerla reír: una mirada larga, sin números. Héctor se la sostuvo sin bajar los ojos y sin decir una palabra más.
+Nadir se volvió hacia él. Lo miró de una manera que Chiara no le había visto nunca, ni en la ruleta de la una de la mañana ni en el yate ni en el Patio ni en ninguna de las veces en que había discutido de precios con ella hasta hacerla reír: una mirada larga, sin números. Héctor se la sostuvo sin bajar los ojos y sin decir una palabra más.
 
 Nadir fue el que miró a otro lado.
 
@@ -166,7 +166,7 @@ Nadir fue el que miró a otro lado.
 
 Chiara caminó hasta la camioneta. Se paró frente a Nadir, a un brazo de distancia, y vio de cerca lo que desde el mostrador no se veía: los ojos rojos en los bordes, la barba de muchos días, una mancha de grasa en el cuello de la camisa que Nadir, que se cambiaba de camisa dos veces al día cuando había clientes, no se había quitado.
 
-—Si lo ven a usted en ese camino —dijo—, mañana alguien en Kingsley plancha dos etiquetas.
+—Si te ven a ti en ese camino —dijo—, mañana alguien en Kingsley plancha dos etiquetas.
 
 Nadir parpadeó.
 
@@ -174,7 +174,7 @@ Nadir parpadeó.
 
 Chiara no se lo explicó.
 
-—Él se quedó para que la cuenta diera tres —dijo—. Se quedó parado ahí para eso. Si usted va, no la arregla. La deja en dos.
+—Él se quedó para que la cuenta diera tres —dijo—. Se quedó parado ahí para eso. Si tú vas, no la arreglas. La dejas en dos.
 
 Nadir no contestó.
 

@@ -55,11 +55,11 @@ Y en el medio, cruzando de un lado al otro sin quedarse en ninguno, Kal.
 
 Chiara lo vio saludar a uno de los empresarios de la costa con el apretón que usaba para los negocios — corto, seco, sin sonreír del todo — y después detenerse dos minutos junto a Harper sin decirle casi nada, sólo para que Harper no estuviera sola en una baranda que no era suya. Llevaba el traje oscuro que ella le había elegido esa tarde y lo llevaba como quien lleva un préstamo: con cuidado, sin pretender que fuera suyo. No la buscó con los ojos ni una vez. Los dos sabían dónde estaba el otro en todo momento, y ninguno lo mostraba.
 
-—Wallah, señora —dijo Nadir, cuando ella pasó cerca, sin dejar el plato—. ¿Cuánto cuesta una noche así? No me diga. Ya lo sé. Más de lo que mi hígado va a pagar mañana.
+—Wallah, señora —dijo Nadir, cuando ella pasó cerca, sin dejar el plato—. ¿Cuánto cuesta una noche así? No me digas. Ya lo sé. Más de lo que mi hígado va a pagar mañana.
 
-—Menos de lo que cree.
+—Menos de lo que crees.
 
-—Entonces me estoy perdiendo algo. —Se llevó una aceituna a la boca y la masticó pensando—. O usted consiguió el barco gratis, o alguien aquí le debe mucho.
+—Entonces me estoy perdiendo algo. —Se llevó una aceituna a la boca y la masticó pensando—. O tú conseguiste el barco gratis, o alguien aquí te debe mucho.
 
 —Alguien aquí me debe mucho —dijo Chiara, y siguió caminando antes de que Nadir pudiera preguntarle quién.
 

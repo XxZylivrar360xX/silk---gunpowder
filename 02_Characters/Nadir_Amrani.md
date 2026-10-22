@@ -71,6 +71,13 @@ Ver [[02_Characters/Chiara_Bellandi]]: "la incomodidad empieza antes de que se c
 
 ---
 
+### Trato y trayecto con Chiara (CANON DEL AUTOR, 2026-10-22)
+
+- **Usted hasta el atentado; tú después.** Se hablan de usted desde la ruleta del [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Ambos|Cap. 6]] hasta el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24b_Lo_Que_Cueste|24b]]. Después del corral (24c), Nadir la tutea y ella a él (31, 38, 46, 47). "Señora" se queda como apodo burlón suyo, también con tú.
+- **No es desprecio.** Nadir no la acepta del todo porque la ve como "una mujer de un mundo imposible para Kal": el de allá arriba (24b). En el 9 y el 10 se nota en la cortesía de huésped y en la objeción con costo, nunca en hostilidad.
+- **Secuencia de encuentros:** la acera (5c), la ruleta (6: sale rojo, dobla, cae verde; "La señora me debe un verde" en el 7), Gabriella's (7), la casa común (9-10), la terraza (24b), el lago (31), el yate (38), El Patio (46-47). Las discusiones de precios que "la hacían reír" (46) suceden fuera de cuadro.
+- **Dónde vive:** en la casa común hasta que Kal y Chiara empiezan a vivir juntos en el loft. Entonces renta con Danny un apartamento en el edificio contiguo (31).
+
 ## Historia
 
 Lo que opera hoy:

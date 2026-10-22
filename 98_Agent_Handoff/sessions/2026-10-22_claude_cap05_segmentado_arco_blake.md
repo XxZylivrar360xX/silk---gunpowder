@@ -9,9 +9,9 @@
 - Cap. 6: Vento sembrado para el 24c, teléfono boca abajo y la ruleta antes de "La tarde del reto".
 - Cap. 7: línea de la cuarta invitación y Nadir ya conocido ("La señora me debe un verde").
 
-**Pendientes de continuidad Nadir-Chiara (sin tocar, para decisión del autor):**
-1. Tú y usted: se tutean en el 24b y en el lago del 31, y se hablan de usted en el 6 (nuevo), el 38, el 46 y el 47. Falta decidir si el tú del 24b es una quiebra deliberada.
-2. En el 10:616 se lee "la primera vez que Nadir fue a dejarle algo a Kal a la casa nueva", pero en el 10:560 ya llegó con pan.
-3. Dónde vive Nadir: en la casa común en el 9 y el 10, y en un apartamento junto al loft en el 31:523.
-4. En el 46:153 se citan discusiones de precios con ella y escenas en El Patio que no existen antes del 46.
-5. En el 9 y el 10 Nadir no le dirige la palabra. Se sostiene como objeción a la casa común, pero conviene verificar el tono contra la ruleta del 6.
+**Continuidad Nadir-Chiara (resuelta por el autor el mismo día):**
+1. Se hablan de usted hasta el atentado y de tú después. Se convirtió el 24b a usted en las dos direcciones; el 38, el 46 y el 47 a tú, conservando "señora" como apodo. Ficha de voz actualizada.
+2. Cap. 10: "La primera vez que Nadir fue solo a la casa nueva" (ya no choca con el pan de la primera cena).
+3. Nadir y Danny rentan el apartamento contiguo cuando Kal y Chiara empiezan a vivir juntos en el loft. Sembrado en el 31:523.
+4. Las discusiones de precios del 46 suceden fuera de cuadro; se ancló "la ruleta de la una de la mañana" en el 46:153.
+5. Caps. 9-10 sin tocar: el tono ya es de cortesía de huésped y objeción con costo, no de desprecio. La razón ("una mujer de un mundo imposible para Kal") queda registrada en la ficha de Nadir.

@@ -136,53 +136,53 @@ Ella miró la copa. Lo miró a él.
 
 —No tengo idea. Enzo nunca me cobra.
 
-—Nadie cobra nada en este barrio cuando se trata de ti. —Nadir no sonrió—. Eso es lo que me preocupa.
+—Nadie cobra nada en este barrio cuando se trata de usted. —Nadir no sonrió—. Eso es lo que me preocupa.
 
 Enzo se acercó desde la barra, con la jarra de agua y la cara de quien ya entendió que no lo iban a necesitar. Nadir le pidió un café sin mirarlo. Enzo se lo llevó sin decir nada, y no volvió a pasar cerca de esa mesa.
 
 Chiara cerró la carpeta.
 
-—Kal no sabe que estás aquí.
+—Kal no sabe que está aquí.
 
 —No.
 
-—Bien. —Se acomodó en la silla. No se reclinó—. Dime.
+—Bien. —Se acomodó en la silla. No se reclinó—. Dígame.
 
 Nadir tardó un poco. No por inseguridad: por precisión. Chiara lo había visto regatear en el mercado del barrio, una vez, de lejos, y lo había visto tardar exactamente así antes del número final.
 
-—No confío en ti.
+—No confío en usted.
 
 —Lo sé.
 
-—No, no lo sabes. Sabes que no te quiero en la casa. Eso es otra cosa. —Movió el azucarero un centímetro, alineándolo con nada—. Yo no confío en ti. En lo que traes detrás. Tú vives allá arriba, con gente de traje que miente delante de un juez como quien pide la cuenta. Eso es tu mundo. Yo lo respeto. Pero allá arriba todo es oscuro aunque esté iluminado, y lo que se cae de allá arriba cae sobre nosotros. Sobre él.
+—No, no lo sabe. Sabe que no la quiero en la casa. Eso es otra cosa. —Movió el azucarero un centímetro, alineándolo con nada—. Yo no confío en usted. En lo que trae detrás. Usted vive allá arriba, con gente de traje que miente delante de un juez como quien pide la cuenta. Ése es su mundo. Yo lo respeto. Pero allá arriba todo es oscuro aunque esté iluminado, y lo que se cae de allá arriba cae sobre nosotros. Sobre él.
 
 —Tommaso.
 
-—El italiano, sí. Ése. —Le llegó el café; no lo tocó—. Un hombre de tu familia, o de la familia de tu marido, que ya no sé cómo se cuenta eso en Italia, mintió por Kal. Kal no le pidió nada. Tú dices que tampoco. Entonces alguien lo pidió, o alguien lo va a cobrar. Y cuando lo cobre, no te va a mandar la factura a ti. Se la va a mandar a él.
+—El italiano, sí. Ése. —Le llegó el café; no lo tocó—. Un hombre de su familia, o de la familia de su marido, que ya no sé cómo se cuenta eso en Italia, mintió por Kal. Kal no le pidió nada. Usted dice que tampoco. Entonces alguien lo pidió, o alguien lo va a cobrar. Y cuando lo cobre, no le va a mandar la factura a usted. Se la va a mandar a él.
 
 Chiara no contestó. Tenía la mano izquierda sobre la mesa, junto a la copa, y el pulgar le tocó el anular, el sitio donde ya no había nada. Lo retiró.
 
-—Él no va a dejar esto —siguió Nadir—. Lo conozco. Se queda. Siempre se queda. Se quedó conmigo en un sitio donde quedarse costaba dientes. Se queda con el barrio aunque el barrio no le paga. Y se va a quedar contigo hasta que tu mundo lo meta en un hoyo del que no sabe salir, porque no es su hoyo y no conoce las paredes.
+—Él no va a dejar esto —siguió Nadir—. Lo conozco. Se queda. Siempre se queda. Se quedó conmigo en un sitio donde quedarse costaba dientes. Se queda con el barrio aunque el barrio no le paga. Y se va a quedar con usted hasta que su mundo lo meta en un hoyo del que no sabe salir, porque no es su hoyo y no conoce las paredes.
 
-—¿Y qué quieres que haga?
+—¿Y qué quiere que haga?
 
-—Que te alejes.
+—Que se aleje.
 
 Lo dijo sin bajar la voz y sin subirla. Lo dijo como un precio.
 
-—A él no se lo puedo pedir —dijo Nadir—. Él ya decidió. Lo que él decide, para mí es ley. Por eso te lo pido a ti.
+—A él no se lo puedo pedir —dijo Nadir—. Él ya decidió. Lo que él decide, para mí es ley. Por eso se lo pido a usted.
 
 Chiara lo sostuvo. Lo sostuvo mucho tiempo, el suficiente para que una pareja de la mesa del otro lado terminara el postre y pidiera la cuenta.
 
 —Gracias por decírmelo a la cara —dijo.
 
-—No te lo digo por educación.
+—No se lo digo por educación.
 
-—Ya sé. Por eso te lo agradezco.
+—Ya sé. Por eso se lo agradezco.
 
 Nadir sacó un billete del bolsillo de la chaqueta, lo dobló a lo largo y lo puso debajo de la taza del café que no había tocado. Después sacó otro y lo puso debajo de la copa de ella.
 
-—Hoy pago yo —dijo, ya de pie—. Así no te debo nada.
+—Hoy pago yo —dijo, ya de pie—. Así no le debo nada.
 
 Se fue por la puerta de enfrente. Chiara se quedó mirando el billete debajo de su copa, y no lo movió hasta que Enzo vino a levantar la mesa y se lo llevó, sin preguntar, junto con lo demás.
 

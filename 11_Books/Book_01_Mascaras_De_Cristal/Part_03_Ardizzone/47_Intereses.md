@@ -109,7 +109,7 @@ Nadir se levantó tan rápido que el libro se le cayó al piso. No lo recogió. 
 
 —No sé todavía.
 
-—Entonces no sabe. —Nadir se volvió hacia Héctor—. Va a ir sin saber.
+—Entonces no sabes. —Nadir se volvió hacia Héctor—. Va a ir sin saber.
 
 —Va a ir porque la citaron —dijo Héctor—. Igual que ibas tú a ese camino sin saber nada.
 

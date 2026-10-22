@@ -613,7 +613,7 @@ Sólo objetos sueltos que, cada vez que ella regresaba, parecían haberla espera
 
 ***
 
-La primera vez que Nadir fue a dejarle algo a Kal a la casa nueva —una pieza que había conseguido para la grúa chica— se quedó en la puerta un momento.
+La primera vez que Nadir fue solo a la casa nueva —a dejarle a Kal una pieza que había conseguido para la grúa chica— se quedó en la puerta un momento.
 
 Desde ahí veía la sala bajo la doble altura, la escalera de acero pegada al muro y el dormitorio suspendido arriba. Vio la mesa para ocho, el libro sobre la mesa baja y la manta en el sofá. En la cocina había dos tazas en el fregadero. Una era azul oscuro.
 
