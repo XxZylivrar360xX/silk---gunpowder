@@ -4,7 +4,7 @@ Actualizado: 2026-10-22. Máximo 800 palabras. Brief anterior íntegro: [[98_Age
 
 ## Foco y siguiente paso
 
-1. **Libro II, *Sombras de Poder*** (diseño activo; prosa bloqueada hasta cerrar el Libro I): guía [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 caps., DISEÑO); estructura [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]; calendario [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]].
+1. **Libro II, *Sombras de Poder*** (diseño activo): guía [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 caps., DISEÑO); estructura [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]; calendario [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]].
 2. **Esperan respuesta del autor (Libro II):** F2, semillas Kal–Chiara, voces REL-01 y Navidad de Almendra Towing (en pausa). Lista en [[98_Agent_Handoff/PENDING]].
 3. **Esperan lectura del autor (Libro I):** auditorías, frentes 3–5 y la prosa DISEÑO de abajo. Rutas en PENDING.
 4. **Siguiente trabajo posible:** consolidar S1 (Cap. 17) de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]].
@@ -15,14 +15,15 @@ Actualizado: 2026-10-22. Máximo 800 palabras. Brief anterior íntegro: [[98_Age
 - **Calendario (CANON):** de septiembre del año 1 al 5 de enero del año 3; la Mesa, 13 dic; Kal preso del 19 dic al 5 ene.
 - **San Aurelio (CANON):** Oregon, inspirada en Portland, bahía ficticia; vía costera 101. Mapa: [[99_Reference/location_references/mapa_san_aurelio.png]].
 - **Mando policial (CANON):** sin jefe en el I; Lucía, subjefa en funciones; Vega entra en el II.
-- **Exportación:** EPUB y PDF del 2026-10-03; falta portada de alta resolución para KDP.
+- **Exportación:** EPUB y PDF del 2026-10-03; falta portada HD para KDP.
 
 **Prosa DISEÑO reciente, espera lectura** (detalle en los encabezados de cada capítulo y en `sessions/`):
 
 - **Caps. 2, 4–8 (2026-10-17 a 22):** llamada Kal–Nadir y canción del lobby (2); Cap. 5 segmentado en 5a/5b/5c con arco de Blake, 5 pendientes Nadir–Chiara ([[98_Agent_Handoff/sessions/2026-10-22_claude_cap05_segmentado_arco_blake]]); Cap. 7 con tesis de H3 ("la misma pintura en un cuadro diferente"); persecución del 8 con [[02_Characters/Dana_Collins]] (CANON: argentina, líder de la VED; SPV = Mustang GT).
 - **Puntos de ChatGPT, caps. 1–8 (CANON):** Chiara llega en jet privado desde Palermo (hangar de Kingsley); en el 41 entra por Nueva York ([[98_Agent_Handoff/sessions/2026-10-22_claude_puntos_chatgpt_caps_01_08]]).
-- **Fabrizio:** última plática en el Cap. 49. CANON: la coerción de Volpi pasa a Tommaso. Falta: dónde se ve en la Parte II y qué iba a contar Fabrizio.
-- **Cap. 10:** consecuencia del 9: Kal paga la bolsa de Rowe a Crowe; cuotas y objeción de Nadir por riesgo; eco en el 37.
+- **Fabrizio:** última plática en el Cap. 49. CANON: la coerción de Volpi pasa a Tommaso. Falta: su lugar en la Parte II y qué iba a contar.
+- **Cap. 10:** Kal paga a Crowe la bolsa de Rowe (consecuencia del 9); cuotas y objeción de Nadir; eco en el 37.
+- **Caps. 11–13 (2026-10-22, autorizado):** arco lector P1–P8 aplicado; desviaciones en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Propuesta_Arco_Caps_11-13_Lector]].
 - **Rocco (CANON 2026-10-22):** siembras en 1, 23, 30, 32 y 46 para el momento "John Wick" del II. Ficha: [[02_Characters/Rocco]].
 
 ## Libro II: canon vigente (resumen)

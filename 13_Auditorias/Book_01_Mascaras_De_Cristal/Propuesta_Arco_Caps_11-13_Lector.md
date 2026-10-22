@@ -1,6 +1,6 @@
 # Propuesta — Arco Caps. 11–13, lectura de lector
 
-Fecha: 2026-10-22. Autor de la propuesta: Claude Code. **Estado: DISEÑO, nada aplicado.** Los Caps. 12 y 13 están TERMINADOS: cualquier cambio requiere orden del autor. El Cap. 11 está en BORRADOR. No se toca diálogo CANON DEL AUTOR ("Eres realmente buena en esto" / "Lo soy cuando amenazan a mi gente").
+Fecha: 2026-10-22. Autor de la propuesta: Claude Code. **Estado: APLICADO 2026-10-22 (autorizado por el autor); prosa nueva DISEÑO pendiente de lectura.** Los Caps. 12 y 13 están TERMINADOS: cualquier cambio requiere orden del autor. El Cap. 11 está en BORRADOR. No se toca diálogo CANON DEL AUTOR ("Eres realmente buena en esto" / "Lo soy cuando amenazan a mi gente").
 
 Diagnóstico de origen: el arco funciona (escuchar → construir → usar la red; "cara pareja" como motivo). Los puntos son huecos de lectura, no de estructura.
 
@@ -109,3 +109,15 @@ Sin glosa; el lector arma la ironía.
 4. P6 (reordenamiento; el más invasivo).
 
 Tras aplicar: verificación con `editorial-surgery` y actualizar estados en `12_Craft_Policies/CHAPTER_STATUS.md`.
+
+---
+
+## Notas de aplicación (2026-10-22)
+
+- **P1:** "el cuarto" pasó a "el del cajón" (en la síntesis y en el cierre) para no chocar con "El tercer papel" que abre el capítulo.
+- **P2:** la réplica nueva quedó dentro del "—Sí." a "¿Lo escribiste tú?", no tras "Pude.", para no volver redundante la pregunta de Kal. "Las dos palabras de arriba" → "de afuera".
+- **P4A:** redacción propia ("La fuga había salido del Monarch: de un abogado sentado sobre su piso con su whisky en la mano"), sin repetir "mesa cuatro".
+- **P6/P7 (12):** se eligió la oficina del Monarch tras el torneo (no el penthouse con Kal dormido).
+- **P8a:** costura añadida: "Kal se sentó. Ella también, frente a él, …".
+- **P8e:** el ladrillo vuelve al abrir la escena del penthouse ("De vuelta en el penthouse, al pasar por la entrada…"), no antes de "Afuera, San Aurelio…".
+- **P8f:** la condición de Walt va antes de "—Minoritaria —dijo." para que el remate del cumplido siga apuntando a "Minoritaria".

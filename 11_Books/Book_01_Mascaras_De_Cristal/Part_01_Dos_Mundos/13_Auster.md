@@ -10,6 +10,7 @@ Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); el estado s
 Narrador (2026-10-05, SURGERY autorizada por el autor; sigue TERMINADO): apertura comprimida, fuera "No era pereza. Era que". Detalle: 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Narrador_Tesis_Resenas_ChatGPT.md.
 Foto de Plaza Corona (2026-10-18, orden del autor; DISENO del agente, pendiente de lectura; sigue TERMINADO): la fotografia granulada que Lucia desliza es el cuadro de la camara de Plaza Corona durante el 360 del Cap. 8 (reloj del Ayuntamiento, fuente, Peugeot de costado, dos manchas negras donde irian las caras). Kal la reconoce y no la toma; Lucia no menciona al acompanante.
 Vela de Palermo (2026-10-18, orden del autor; capitulo TERMINADO, el estado se conserva): recuerdo movido intacto desde el Cap. 2 a la noche de domestici eius, antes de "Esa noche no encendio una vela". Puente DISENO: "Lo primero que le pidieron las manos fue una vela." El "ya lo arreglo yo" de Corrado se cobra en la lampara de Chiara.
+Arco lector 11-13 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_11-13_Lector; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): P1, P3, P4A, P5, P6, P8a/b/d aplicados. Kenji entrega -> vela y recuerdo de Corrado -> lampara -> MICH. 7:6 y sintesis; 'Su propia casa' = el Monarch; el papel del cajon (subjefa) se saca y se devuelve sin usar (Chiara no sabe su nombre; el 15 une apellido y rumor); demora de tres semanas hecha decision ('Dijiste que me lo traias tu' / 'Te lo traigo entero...'); 'testes iniqui' sin tachar; Kal espera de pie y se sienta tras el 'Sientese'.
 -->
 
 # Capítulo 13 — Auster
@@ -76,25 +77,13 @@ Demasiado perfecto, pensó Chiara.
 
 ***
 
-La tercera pieza no llegó como gasolina ni como café. Llegó como siempre llegaba lo que de verdad importaba: en un rectángulo pequeño, con el borde deshilachado y el aroma que nadie más en San Aurelio tenía permiso de reconocer.
+La tercera pieza no llegó como gasolina ni como café. Llegó como siempre llegaba lo que de verdad importaba: en un rectángulo pequeño, con el borde deshilachado y el aroma que ya sólo asociaba a su propio escritorio.
 
 Kenji se lo entregó una noche de martes, en la caja, sin mirarla a los ojos, con la misma cara pareja que usaba para todo.
 
 —Un abogado perdió mucho en la mesa cuatro —dijo, bajo, mientras contaba fichas que no necesitaba contar—. Habló más de la cuenta con el que tenía al lado. Dijo un nombre que no era el suyo.
 
-Chiara no le pidió el nombre ahí mismo. Se llevó el papel al penthouse, lo abrió bajo la lámpara y leyó.
-
-**MICH. 7:6.**
-
-No necesitó buscarla. La conocía desde antes de que nadie le enseñara a usarla para nada más que rezar.
-
-*Inimici hominis, domestici eius.* Los enemigos del hombre son los de su propia casa.
-
-Chiara se quedó de pie un momento largo, con el papel entre los dedos, sintiendo cómo las tres piezas dejaban de ser tres piezas.
-
-No hacía falta que Kenji le dijera cuál era el nombre que el abogado había soltado en la mesa cuatro. Chiara ya lo sabía desde la primera vez que vio un Peugeot rojo entrar al Monarch.
-
-***
+Chiara no le pidió el nombre ahí mismo. Se llevó el papel al penthouse y no lo abrió todavía.
 
 Lo primero que le pidieron las manos fue una vela.
 
@@ -132,13 +121,33 @@ La niña había obedecido. No porque creyera que su padre podía arreglarlo todo
 
 Corrado no llegó a arreglar la redada que se lo llevó. Chiara no pudo ni despedirse.
 
-Esa noche no encendió una vela. Encendió la lámpara del escritorio, extendió los tres papeles sobre la mesa del penthouse — el de la gasolinera, el de Mabel, el de Kenji — y los miró como quien mira, por fin, una fotografía completa después de haber tenido durante semanas sólo los pedazos recortados.
+Esa noche no encendió una vela. Encendió la lámpara del escritorio, abrió el papel y leyó.
+
+**MICH. 7:6.**
+
+No necesitó buscarla. La conocía desde antes de que nadie le enseñara a usarla para nada más que rezar.
+
+*Inimici hominis, domestici eius.* Los enemigos del hombre son los de su propia casa.
+
+Su propia casa. La fuga había salido del Monarch: de un abogado sentado sobre su piso con su whisky en la mano.
+
+Chiara se quedó de pie un momento largo, con el papel entre los dedos, sintiendo cómo las tres piezas dejaban de ser tres piezas.
+
+No hacía falta que Kenji le dijera cuál era el nombre que el abogado había soltado en la mesa cuatro. Chiara ya lo sabía desde la primera vez que vio un Peugeot rojo entrar al Monarch.
+
+Extendió los tres papeles sobre la mesa del penthouse — el de la gasolinera, el de Mabel, el de Kenji — y los miró como quien mira, por fin, una fotografía completa después de haber tenido durante semanas sólo los pedazos recortados.
 
 *Testes iniqui. Auster. Domestici eius.*
 
 Falsos testigos. El sur. La propia casa.
 
 No era una acusación todavía. Era algo peor: era una dirección. Alguien, en algún despacho de Calle Corona, había decidido que el Peugeot rojo merecía un nombre, y había encontrado dos candidatos igual de convenientes — uno porque su historial lo hacía fácil de creer, el otro porque nadie en San Aurelio sabía todavía lo suficiente de él como para dudar.
+
+Sacó también el del cajón, el que llevaba semanas esperando su pregunta. Una subjefa que firmaba los casos de Calle Corona y cenaba en la costa con alguien que pagaba en efectivo. Ahora tenía la pregunta: el caso de Kal iba a terminar en su escritorio.
+
+Lo sostuvo un momento. Con eso se podía hacer ruido, y el ruido se iba a oír en el mismo despacho donde estaba el nombre de Kal.
+
+Lo devolvió al cajón.
 
 Chiara pensó en Rafe Domínguez, a quien no conocía, a quien probablemente nunca le debería nada, y sintió, contra toda lógica de negocios, algo parecido a la culpa por adelantado.
 
@@ -160,9 +169,11 @@ Movió tres conversaciones, ninguna suya, ninguna con su nombre puesto encima. U
 
 No borró a Rafe Domínguez del mapa. No podía, y tampoco era su trabajo — Rafe seguiría cargando ese nombre nervioso un tiempo más, y eso, se dijo Chiara sin poder convencerse del todo, no era gratis para nadie, ni siquiera para ella. Sólo le dio a quien fuera a decidir algo un tercer camino, más ancho, más fácil de creer que cualquiera de los otros dos.
 
+Al margen del primer papel seguía su propia letra: *testes iniqui*. No la tachó.
+
 ***
 
-Fue a buscar a Kal al taller, no al revés — la primera vez, cayó en la cuenta, que ella hacía ese camino sin que él la llamara antes. Se lo había prometido en el Monarch. Hasta ahora no había tenido nada que traerle.
+Fue a buscar a Kal al taller, no al revés — la primera vez, cayó en la cuenta, que ella hacía ese camino sin que él la llamara antes. Se lo había prometido en el Monarch. Llevaba tres semanas faltando a la promesa a propósito.
 
 Lo encontró debajo de un auto que no era suyo. No esperó a que saliera.
 
@@ -179,6 +190,10 @@ La llave, abajo, siguió girando.
 —Lo sé desde hace tres semanas.
 
 La llave se detuvo. Kal salió sobre el carrito y se quedó sentado ahí, con un trapo que ya no limpiaba nada.
+
+—Dijiste que me lo traías tú.
+
+—Te lo traigo entero. Hace tres semanas te habría traído miedo.
 
 —Hay otro sospechoso: Rafe Domínguez, del sur. —Chiara sacó una hoja doblada del bolso y no se la dio; la leyó ella—. Si te preguntan por piezas en efectivo, Garrett las recogió en Villani Motors, cerca de Cedar Flats, hace cosa de dos meses. Si te preguntan por las noches que llegabas tarde sin que Héctor supiera dónde estabas, estabas en Kingsley Field, revisando motores para las carreras de los sábados. Nada de eso es mentira completa.
 
@@ -228,13 +243,13 @@ Kal no volvió a meterse debajo del auto mientras ella estuvo ahí.
 
 ***
 
-Lo citaron esa misma semana. La comisaría central de Calle Corona no se parecía en nada al Monarch — luz blanca, sillas de metal, el ruido constante de teléfonos que nadie corría a contestar — y Kal se sentó donde le indicaron sin que nada en su cara dijera que llevaba una coartada preparada en el bolsillo del pecho.
+Lo citaron esa misma semana. La comisaría central de Calle Corona no se parecía en nada al Monarch — luz blanca, sillas de metal, el ruido constante de teléfonos que nadie corría a contestar — y Kal esperó de pie donde le indicaron sin que nada en su cara dijera que llevaba una coartada preparada en el bolsillo del pecho.
 
 La mujer que entró no llevaba el uniforme completo. Llevaba el aire de alguien que sí.
 
 —Lucía Varek. Subjefa. —No le ofreció la mano—. Siéntese, señor Mercer. Esto no debería tardar mucho.
 
-Se sentó frente a él con una carpeta que abrió sin apuro, y Kal entendió, en el primer segundo, dos cosas: que esa mujer no improvisaba nada, y que el apellido no era casualidad para nadie en esa ciudad que supiera leerlo.
+Kal se sentó. Ella también, frente a él, con una carpeta que abrió sin apuro, y Kal supo pronto que esa mujer no improvisaba nada, y que el apellido no era casualidad para nadie en esa ciudad que supiera leerlo.
 
 —Tenemos un vehículo, un Peugeot 106 rojo, asociado a múltiples reportes de conducción temeraria y evasión cerca de Kingsley Field. —Deslizó una fotografía sobre la mesa, granulada, tomada de noche—. Y tenemos dos nombres que encajan más de lo que a mí me gustaría.
 
@@ -274,4 +289,4 @@ Kal se quedó con eso un momento.
 
 Afuera, San Aurelio seguía su ritmo de siempre: alguien en el sur cargando un nombre que no le pertenecía del todo, alguien en el norte a punto de recibir una visita incómoda por un delito que probablemente sí había cometido, aunque no ése.
 
-Chiara ya lo sabía. Se lo guardó, junto con los tres papeles que nadie más iba a ver nunca juntos.
+Chiara ya lo sabía. Se lo guardó, junto con los tres papeles que nadie más iba a ver nunca juntos, y el del cajón, que todavía no había usado.
