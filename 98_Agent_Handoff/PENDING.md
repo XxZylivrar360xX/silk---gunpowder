@@ -57,6 +57,7 @@ Plan: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]
 ## Continuidad, edición y exportación
 
 - **Gesto de manos:** revisar en cada capítulo.
+- **Bonnie:** la numeración vieja de libros en sus secciones de ficha la corrige el autor.
 - **Portada y Nota Editorial:** portada ≥1600×2560 si va a KDP; el título de `00_Nota_Editorial.md` lo decide el autor.
 - **Exportación:** EPUB y PDF del 2026-10-03, con 44–50b en BORRADOR. Regenerar cuando el autor lo pida o cierre un bloque confirmado.
 - **Mantenimiento:** revisar carpetas de uso bajo con su contenido y propósito; decidir ajustes sólo tras contrastar dependencias y valor de contexto. Buzón ChatGPT: varias notas del 2026-10-05 al 2026-10-14 ya tienen sesión o diseño que las procesó, pero siguen en `ChatGPT/` con enlaces entrantes; confirmar cuáles están cerradas y archivarlas sólo con orden del autor.
