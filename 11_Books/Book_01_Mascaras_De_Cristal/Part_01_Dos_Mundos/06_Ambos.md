@@ -9,6 +9,7 @@ Mandorla (2026-09-30, propuesta del autor; DISENO de redaccion): tras Parole Par
 Pizza de calabaza (2026-10-01, canon del autor): cuando Kal llega de noche con la torta de Mabel, Chiara: "Espero que lo que trae no sea pizza de calabaza." / "Enzo le manda saludos." / "Eso no es un no." / "Es una torta." Paga el chiste de Il Gelsomino (Cap. 5).
 Dialogo K/C (2026-10-04, cirugia completa autorizada sobre capitulo TERMINADO; DISENO del agente pendiente de lectura). Direccion del autor: coqueteo puro, conocerse como hombre y mujer. CANON DEL AUTOR: beat de la mirada de Kal mientras Chiara pone Parole Parole (pelo -> espalda baja -> mas abajo; los puntitos del short son mariposas; sacude la cabeza por el tiempo que se quedo; ella vuelve y se sienta mas cerca: el cojin termina en el piso), con espejo en el vestidor (la mirada de ella baja por la espalda de el; "la misma mirada que ella habia sentido en la espalda"; Kal la ve mirarlo en el espejo). Vestuario: pijama de verdad, short y camisola de seda azul oscuro con puntitos, suéter blanco encima (CANON DEL AUTOR: es noviembre, hace frío). Replicas perdidas: Chiara no recuerda que comio; Kal ante "Me esta mintiendo"; Kal no contesta "¿Ya te perdieron?"; Kal no encuentra la direccion para el taxi. Fuera: "¿Eso fue pregunta?/Que peligroso", "sin contrato/mas barato", "Cinco minutos/Siempre dice eso", "No recuerdo haberlo aceptado/Esta pensando hacerlo", "administrativa para marihuana/factura", "Tecnicamente lo renta/lo empeora", "si administrado", "No era para tranquilizarte", "Ya lo hago. Solo que ahora lo sabes", "problema de mantenimiento/mejor iluminacion", "Lo renta el casino/Todo aqui lo renta alguien", "tijeras con vista al mar", "Me vigilan. Es distinto", "Era tentacion/Peor", "Nada con ambicion", "No todo sale", "innecesario/generoso". Intactos: carrito, llamada de las once, torta y pizza, reto, Recreativo, tuteo, cocina, Michael/Marisol, canciones, Mandorla, excepcion y mueca, Danny, cicatriz, muerte caminando, cierre.
 Mirada para Kal (2026-10-17, pedido del autor; DISENO de redaccion pendiente de lectura): primera aparicion en prosa del gesto canon de la ficha de Chiara, en el cuarto de estetica, por el espejo y en POV de Kal, tras "Él la miró por el espejo": boca seria de siempre, cejas aflojadas que por dentro suben, ojos mas abiertos, puestos en el y no en el espejo; "Kal no supo qué estaba viendo. Tampoco apartó la vista." Contraste con el ceno base sembrado en el Cap. 2. Distinto de la mueca compartida de cejas en alto del jacuzzi y de la ceja levantada.
+Arco de Blake y visita de los chicos (2026-10-22, decision del autor; prosa DISENO pendiente de lectura): (1) Vento sembrado en la costumbre (llamada de domingo; "¿Montando que?" / "Se llama Vento"; el domingo siguiente Kal llama a las ocho), siembra del 24c; (2) en la noche de la torta el telefono enciende *Blake* y ella lo pone boca abajo (Kal no ve el nombre); (3) seccion nueva antes de La tarde del reto: Nadir, Danny y Russ a la una y diez, por carga, "todo al rojo", ruleta de la sala de eventos privados del penthouse; sale rojo, Nadir dobla, cae verde y pierde todo. Russ conoce a Chiara aqui. Trato de usted ("señora").
 -->
 
 # Capítulo 6 — Ambos
@@ -93,6 +94,20 @@ Ella, a cambio, le contaba versiones. No secretos. Versiones: qué socio quería
 
 Kal la escuchaba como escuchaba un motor: sin interrumpir hasta ubicar de dónde venía el ruido.
 
+Un domingo la llamó a las seis de la tarde y ella contestó sin aliento.
+
+—¿Pasó algo?
+
+—Estaba montando.
+
+—¿Montando qué?
+
+—Se llama Vento.
+
+Del otro lado no hubo chiste. Kal le preguntó cuántos años tenía el caballo, y ella le dijo que demasiados para correr y pocos para dejar de hacerlo. Él no preguntó más.
+
+El domingo siguiente llamó a las ocho.
+
 Una noche, después de que una máquina de hielo se rindiera y el proveedor intentara cobrar la urgencia de algo que él mismo había dejado mal montado, Kal apareció en la oficina administrativa con una bolsa de papel manchada de grasa por una esquina.
 
 —No ha cenado.
@@ -127,6 +142,8 @@ Chiara cerró la carpeta. No le dio las gracias por la mostaza que no estaba; de
 
 —Entonces coma en nueve.
 
+En el escritorio se encendió la pantalla del teléfono. *Blake.* Chiara lo puso boca abajo.
+
 Ella iba a contestar algo y se fijó otra vez en la torta. Partida a la mitad. Nadie parte a la mitad una torta para una sola persona.
 
 —¿Usted ya cenó?
@@ -136,6 +153,140 @@ Kal tardó en contestar lo suficiente para que no hiciera falta.
 Comieron de pie junto al escritorio. Ella con una servilleta doblada bajo la torta para no manchar la lista de invitados; él apoyado contra la pared, como si el cuerpo no supiera ocupar una silla cuando no estaba seguro de cuánto iba a quedarse.
 
 Después de esa noche la comida volvió más veces. Café a veces. A veces sólo él, sin excusa, que era lo menos justificable y lo que menos explicaciones terminó pidiendo.
+
+***
+
+Tocaron a la una y diez.
+
+No el timbre: la puerta, con los nudillos, tres veces y después otras tres, como alguien que no estaba seguro de haber tocado la primera vez. Chiara tenía el pelo recogido con un lápiz y una carpeta abierta sobre las piernas. Lo primero que pensó fue en seguridad. Lo segundo, que seguridad tenía tarjeta.
+
+Por la mirilla vio una gorra.
+
+Abrió con la cadena puesta.
+
+—¡Señora! —Danny se quitó la gorra, como si eso arreglara la hora—. Perdón. Perdón, perdón. Danny. El de la acera. El del perro.
+
+Detrás de él estaba Nadir, con las manos en los bolsillos de una chaqueta de taller, y un tercero que no conocía: mayor que los otros dos, con un bigote muy tupido, apoyado en un bastón, y la cara de un hombre que había dicho desde el estacionamiento que eso era mala idea.
+
+—¿Cómo subieron?
+
+—Por carga —dijo Nadir.
+
+—El elevador de servicio tiene un botón que dice *casino* —dijo Danny—. Lo apretamos. Varias veces.
+
+—Ese botón no sirve desde la remodelación.
+
+—Ahora lo sabemos.
+
+El del bastón se aclaró la garganta.
+
+—Russ. Yo no estoy aquí.
+
+Chiara miró a los tres, después el pasillo vacío, y se acordó de lo que llevaba puesto.
+
+—¿Qué emergencia los trae a mi puerta a la una de la mañana?
+
+Nadir sacó la mano del bolsillo. Traía un fajo de billetes doblado a la mitad, sujeto con una liga.
+
+—Seiscientos cuarenta. Todo al rojo. Hoy.
+
+—¿Por qué hoy?
+
+—Porque hoy es rojo. —Lo dijo como quien da un precio—. Mañana no sé.
+
+—Hay un piso entero abajo con ruletas abiertas toda la noche.
+
+—Por enfrente no nos dejaron pasar con esta ropa —dijo Danny—. Nadir dijo que usted era la jefa.
+
+Nadir no lo negó.
+
+—Usted es la casa.
+
+Bajar con ellos al piso, a esa hora, con esa ropa —la de ellos o la suya—, era un problema que mañana nadie le iba a cobrar a Nadir.
+
+Quitó la cadena.
+
+—No toquen nada.
+
+Al fondo del pasillo estaba la sala que el Monarch usaba para eventos privados: una mesa de bacará, una ruleta de nogal bajo una funda gris, un bar cerrado con llave y sillas tapizadas en un terciopelo que nadie se había atrevido a ensuciar. Chiara encendió la mitad de las luces y señaló un sillón junto a la pared.
+
+—Ahí. Esperan ahí.
+
+Danny se sentó en el brazo del sillón. Russ se quedó de pie. Nadir fue directo a la ruleta y le quitó la funda antes de que ella pudiera repetir lo de no tocar.
+
+—Wallah. Ésta es mejor que las de abajo.
+
+—Es la misma.
+
+—Ésta no la ha tocado nadie.
+
+Chiara le quitó la funda de las manos, la dobló y la dejó en una silla. Se paró del lado de la casa, descalza sobre la alfombra fría, y tendió la mano.
+
+Nadir le puso el fajo en la palma.
+
+Ella quitó la liga, contó los billetes dos veces —seiscientos cuarenta— y los dejó sobre el rojo, abiertos en abanico, para que nadie pudiera decir después que había sido otra cantidad.
+
+—No va más —dijo, aunque no había nadie más.
+
+Hizo girar el plato y lanzó la bola contra el giro, sin ceremonia. La bola corrió por la pista mucho más tiempo del que Danny pudo aguantar callado.
+
+—Rojo, rojo, rojo, rojo…
+
+—Cállate —dijo Russ.
+
+Cayó en el diecinueve. Rojo.
+
+Danny gritó. Russ le tapó la boca con la mano libre y miró hacia la puerta. Nadir no se movió: seguía mirando la bola, como si todavía estuviera decidiendo si aceptaba el precio.
+
+—La casa le debe seiscientos cuarenta —dijo Chiara—. La caja abre a las…
+
+—Déjelos ahí. Los míos y los de la casa. Al rojo.
+
+Chiara lo miró.
+
+—Son mil doscientos ochenta.
+
+—Ya sé contar, señora.
+
+—Nadir —dijo Russ.
+
+—Safi. Todo.
+
+Danny dejó de sonreír y se volvió a sentar en el brazo del sillón, despacio, como si el sillón también pudiera apostar.
+
+Chiara hizo girar el plato.
+
+Esta vez nadie dijo nada mientras la bola corría. Perdió velocidad, golpeó un rombo, saltó dos casillas y se quedó en la única que no era de ningún color que alguien hubiera nombrado esa noche.
+
+Cero. Verde.
+
+Danny se llevó las dos manos a la gorra. Russ cerró los ojos un segundo, como quien confirma algo que dijo en el estacionamiento.
+
+Nadir miró el cero un rato largo. Después se rascó la ceja con el pulgar.
+
+—Wallah. Ésa estuvo cara.
+
+—La casa agradece —dijo Chiara, y recogió los billetes.
+
+—¿Quién apuesta al verde? —Danny miraba la ruleta como si lo hubiera traicionado en persona—. Nadie apuesta al verde.
+
+—La casa —dijo Russ.
+
+Los acompañó al elevador de servicio y apretó ella el botón correcto. Nadir entró al último. Se quedó un segundo con la mano en la puerta, mirándola de arriba abajo con algo que no era descaro sino cálculo: el pijama, los pies descalzos, el fajo de billetes que ella todavía tenía en la mano sin darse cuenta.
+
+—Buenas noches, señora.
+
+—Ciao, tesoro.
+
+Antes de que las puertas terminaran de cerrarse, Danny alcanzó a levantar la gorra.
+
+—A Kal ni una palabra, ¿eh?
+
+—Ni una —dijo Nadir.
+
+Russ miró al techo.
+
+Chiara volvió a la sala, le puso la funda a la ruleta y apagó las luces. Eran las dos menos veinte.
 
 ***
 

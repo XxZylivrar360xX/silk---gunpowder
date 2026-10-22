@@ -10,7 +10,7 @@
 
 ## Función narrativa
 
-Es donde Chiara va a montar los domingos que el hipódromo no tiene actividad — su versión de "tierra, no gente" dentro de un lugar que sigue siendo, técnicamente, trabajo. Tiene un caballo propio ahí, **Vento** (macho).
+Es donde Chiara va a montar los domingos que el hipódromo no tiene actividad — su versión de "tierra, no gente" dentro de un lugar que sigue siendo, técnicamente, trabajo. Tiene un caballo propio ahí, **Vento** (macho). Sembrado en prosa en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05b_Sin_Llamar_A_Nadie|5b]] (Blake no lo oye) y el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Ambos|6]] (Kal pregunta el nombre y deja de llamar a la hora de montar), para el 24c (2026-10-22).
 
 Es el escenario del ataque de [[06_Relationships/Hitos]], H12 — "El corral". Kal entra armado al Monarch (domingo, cerrado) buscándola, baja al hipódromo desde el penthouse sin necesitar auto (misma propiedad), y la encuentra inconsciente junto al corral.
 

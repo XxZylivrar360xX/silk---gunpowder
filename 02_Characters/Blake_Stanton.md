@@ -65,6 +65,10 @@ Chiara cierra la puerta sin frase cruel, con tres noches concretas: las seis pre
 
 Consecuencia práctica registrada en escena: el capitán "va a preferir no acordarse". No se convierte en investigación ni en venganza.
 
+## El arco hasta Gabriella's (2026-10-22, decisión del autor; prosa DISEÑO pendiente de lectura)
+
+Para que la ruptura del [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/07_La_Noche_Del_Ladrillo|Cap. 7]] tenga acumulación: mensaje tras La Isla ("Mis amigos preguntan por ti") en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05a_Cliente_Y_Proveedor|5a]]; en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05b_Sin_Llamar_A_Nadie|5b]], la grúa de Almendra ("Ésas trabajan para nosotros"), la cena donde contesta por ella ante el sargento, el domingo que no oye ("Monto") y **el beso** en la entrada del Monarch, correcto y sin vibración; en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Ambos|6]], el teléfono boca abajo; en el 7, la cuarta invitación. **Regla:** Chiara pone la barrera sin nombrarla; nunca piensa "por Kal" antes del taxi (H3). Kal no ve nada de esto (no hay triángulo).
+
 ## Pendientes
 
 > **Cómo termina lo suyo con Chiara: ESCRITO** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/07_La_Noche_Del_Ladrillo|Cap. 7]] (la banqueta de Gabriella's) y **cerrado definitivamente** en el Cap. 38 con la formulación canon: ella no lo dejó por Kal, terminó con él por él.

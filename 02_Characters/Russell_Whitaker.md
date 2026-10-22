@@ -9,7 +9,7 @@
 **Alias:** Russ  
 **Estado:** vivo
 
-> **CONSOLIDACIÓN (2026-10-17, CANON DEL AUTOR en identidad y dinámica; detalles DISEÑO).** Russ es uno solo: el veterano con bastón que aspira a la alcaldía **y** el compañero de golpes de [[02_Characters/Daniel_Hayes|Danny]] en el Libro I. Antes de la política es un veterano lesionado que todavía hace trabajos de barrio; su carril público llega después (Libros III–V). Entra en prosa en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05_Una_Amiga|Cap. 5]] con el cajero arrancado.
+> **CONSOLIDACIÓN (2026-10-17, CANON DEL AUTOR en identidad y dinámica; detalles DISEÑO).** Russ es uno solo: el veterano con bastón que aspira a la alcaldía **y** el compañero de golpes de [[02_Characters/Daniel_Hayes|Danny]] en el Libro I. Antes de la política es un veterano lesionado que todavía hace trabajos de barrio; su carril público llega después (Libros III–V). Entra en prosa en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05a_Cliente_Y_Proveedor|Cap. 5a]] con el cajero arrancado.
 
 ---
 
@@ -75,6 +75,8 @@ Amigos y compañeros de crimen que nunca dicen lo mismo. **Russ dice que no sopo
 **Regla dura matizada:** "no se presenta como criminal" rige su cara pública. En el Libro I todavía no tiene cara pública; cuando la tenga, su pasado de barrio es un riesgo que la campaña tiene que administrar.
 
 ---
+
+> **Primer encuentro con Chiara (2026-10-22, DISEÑO pendiente de lectura):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Ambos|Cap. 6]], la ruleta de la una de la mañana con Nadir y Danny: "Russ. Yo no estoy aquí."
 
 ## Conexiones
 

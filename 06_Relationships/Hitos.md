@@ -269,7 +269,7 @@ Kal es el hombre que se vuelve lo que cada habitación necesita, y aquí **no le
 - **Ella se da cuenta de todo.** Chiara lee gente para vivir: sabe perfectamente lo que es esta noche. Y **le sigue la corriente**, que es una forma de ternura y también su primera concesión.
 - **Kal nunca menciona lo que le costó nada de esto.** Ni el restaurante, ni la camioneta, ni la tarde con el perro.
 
-> **RESUELTO EN BORRADOR (2026-08-24):** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05_Una_Amiga|Capítulo 5 — Una amiga]] *(fusionado con el antiguo Cap. 6 el 2026-09-10; el contenido vive ahora en el archivo 05)*, la terraza conversa sin revelaciones limpias: comida, San Aurelio, Palermo, cafe, version/piezas, y silencios comodos. Lo que avanza es el hecho de estar ahi.
+> **RESUELTO EN BORRADOR (2026-08-24):** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05c_La_Pizza_De_Calabaza|Capítulo 5c — La pizza de calabaza]] *(antiguo Cap. 5 "Una amiga", segmentado el 2026-10-22)*, la terraza conversa sin revelaciones limpias: comida, San Aurelio, Palermo, cafe, version/piezas, y silencios comodos. Lo que avanza es el hecho de estar ahi.
 
 > **RESUELTO EN BORRADOR (2026-08-24):** el acuerdo con *Il Gelsomino* queda sembrado desde Capitulo 1: Kal arregla/atiende camioneta refrigerada, extractor, filtros y cerradura trasera; Claudio le deja la terraza disponible cuando la pida. *(Nota: gelsomino = jazmín. El vault ya tenía el jazmín como olor de Cuesta Bonita — coincidencia útil, no forzarla.)*
 

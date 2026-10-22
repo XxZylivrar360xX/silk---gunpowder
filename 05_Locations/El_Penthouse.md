@@ -53,6 +53,8 @@ Antes de esa noche, **los chicos del barrio ya habían visto el penthouse y a Ch
 
 ---
 
+> **En prosa (2026-10-22, DISEÑO pendiente de lectura):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Ambos|Cap. 6]], antes de "La tarde del reto". Nadir, Danny y Russ suben por carga a la una y diez ("todo al rojo"); Chiara les abre la ruleta de la **sala de eventos privados** del piso del penthouse. Sale rojo, Nadir dobla, cae verde y pierde todo.
+
 ## Pendientes
 
 > **PENDIENTE:** ¿los socios del casino saben que Kal sube ahí? Ella está recibiendo en su casa a un hombre que sus jefes rechazaron. Ver [[03_Factions/El_Casino]].

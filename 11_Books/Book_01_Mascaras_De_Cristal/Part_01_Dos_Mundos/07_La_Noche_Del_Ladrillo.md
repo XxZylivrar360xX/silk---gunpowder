@@ -12,6 +12,7 @@ Cirugia y diseno 2026-10-17 (autorizados por el autor; sigue TERMINADO, prosa nu
 Taxi 2026-10-22 (CANON DEL AUTOR): la tesis de H3 pasa a "Estaba buscando ver la misma pintura en un cuadro diferente."; fuera la lista de Blake, la glosa de Kal y "se habia equivocado de cuarto".
 Costura de entradas/salidas 2026-10-18 (DISENO, pendiente de lectura): tras el tocador Chiara sale a la entrada (se cruza con Dario), espera en la pared donde fumo y vuelve a entrar despues de Kal; antes "volvio a entrar" desde el tocador y la salida no estaba escrita. Imitacion de Kal ("Ciao, sono Chiara Bellandi", siembra del "Ciao, bella" del Cap. 35) movida del pasillo del ladrillo a "Traes la sonrisa de las juntas" (decision del autor): ahora responde a la mascara publica de Chiara; sale "La que pones cuando alguien habla..."; el ladrillo cierra solo la escena del pasillo.
 SURGERY 2026-10-22 (autorizada por el autor; puntos de ChatGPT 2026-10-19; sigue TERMINADO): en el taxi, "Habia salido buscando en otro lo que ya conocia:" -> "Habia salido para que" (REPETICION FUNCIONAL/LEXICAL: adelantaba la frase canon de H3, que queda intacta y ahora es la unica formulacion). Protegidos: la frase canon, el parecido fisico (D7; lo cobra el 18), "pensar sin editarse", el ladrillo en la cadera y "Esa cancion si la definia" (INTERIORIDAD; cobra "para definirla" de Volare).
+Arco de Blake (2026-10-22, decision del autor; DISENO pendiente de lectura): linea de la cuarta invitacion ("otro no ya habria sido una respuesta"); Nadir y Danny ya conocidos por la ruleta del 6 ("los de la ruleta de la una de la mañana"); Kal empieza a presentar a Nadir y este lo corta: "Ya nos conocemos... La señora me debe un verde... Tu amiga."
 -->
 
 # Capítulo 7 — La noche del ladrillo
@@ -19,6 +20,8 @@ SURGERY 2026-10-22 (autorizada por el autor; puntos de ChatGPT 2026-10-19; sigue
 Blake la dejó entrar primero, con una mano en la espalda baja que no era ternura: era demostración.
 
 Gabriella's quedaba en Santa Brígida, sobre la costa sur, lejos del Monarch: un antro entre bares y mercados, cerca de la 101. Esa noche era todo blanco — manteles blancos, flores blancas, la gente que Blake quería impresionar vestida de blanco de un modo que a Chiara le pareció menos elegancia y más uniforme. Ella también iba de blanco, porque no había forma de asistir sin serlo, y odiaba un poco cómo eso la volvía parte del atrezo.
+
+Le había dicho que no a Blake tres veces seguidas. A la cuarta, a Gabriella's, le dijo que sí, porque otro no ya habría sido una respuesta.
 
 —Ésta es Chiara —decía Blake, una y otra vez, a cada grupo nuevo—. Trabaja en el Monarch.
 
@@ -150,7 +153,7 @@ Esta vez no tuvo que preguntarse quién iba dentro. Se quedó mirando la boca de
 
 A los dos minutos aparecieron cuatro figuras caminando hacia la entrada principal.
 
-Kal, con la chaqueta de siempre. Nadir y Danny, los de la acera de aquella noche, ahora con nombre por las historias: Nadir con la ropa que parecía sacada directo del taller; Danny, el del Mustang en una noche y las líneas del patio, con una gorra que ningún portero de Gabriella's iba a dejar pasar sin comentario. Y el que venía detrás, con el paso de quien no necesita apurarse por nada, y que sólo conocía de oídas: tenía que ser Héctor.
+Kal, con la chaqueta de siempre. Nadir y Danny, los de la ruleta de la una de la mañana: Nadir con la ropa que parecía sacada directo del taller; Danny, el del Mustang en una noche y las líneas del patio, con una gorra que ningún portero de Gabriella's iba a dejar pasar sin comentario. Y el que venía detrás, con el paso de quien no necesita apurarse por nada, y que sólo conocía de oídas: tenía que ser Héctor.
 
 Ninguno con ropa que correspondiera a nada de lo que había adentro.
 
@@ -184,11 +187,9 @@ Le pareció raro. Le siguió pareciendo raro cuando el auto de Dario llegó y é
 
 Cuando ella volvió a entrar, Kal los trajo hasta ella sin ceremonia.
 
-—Nadir, ella es mi amiga Chiara.
+—Nadir…
 
-Nadir le dio la mano, correcto, sin la carcajada de la acera.
-
-—Ya nos conocíamos. —Y a Kal, sin soltarla todavía—: Tu amiga.
+—Ya nos conocemos. —Nadir le dio la mano, correcto, sin la carcajada de la acera—. La señora me debe un verde. —Y a Kal, sin soltarla todavía—: Tu amiga.
 
 —Héctor.
 

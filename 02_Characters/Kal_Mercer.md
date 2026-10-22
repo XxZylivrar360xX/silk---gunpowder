@@ -376,7 +376,7 @@ Después del piano, Kal cobra por fin el cifrado ("Ya que estamos contando secre
 
 ## North Guard Securitia — CANON DEL AUTOR (2026-10-08)
 
-Es su empresa de seguridad legítima. La anuncia en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05_Una_Amiga|Cap. 5]] y le ofrece el servicio al Monarch. (La semilla que tenía en la tumba de Michael del Cap. 1, "sobre todo seguridad... O proteges, o te protegen", salió con el cementerio el 2026-10-08.) Cuándo se concreta, su relación con El Patio y con Eagle Eye: PENDIENTE ([[01_Timeline/03_Libro_02_Sombras_De_Poder]]).
+Es su empresa de seguridad legítima. La anuncia en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05c_La_Pizza_De_Calabaza|Cap. 5c]] y le ofrece el servicio al Monarch. (La semilla que tenía en la tumba de Michael del Cap. 1, "sobre todo seguridad... O proteges, o te protegen", salió con el cementerio el 2026-10-08.) Cuándo se concreta, su relación con El Patio y con Eagle Eye: PENDIENTE ([[01_Timeline/03_Libro_02_Sombras_De_Poder]]).
 
 ## *Sombras de Poder* — el límite — CANON DEL AUTOR (2026-10-12)
 
