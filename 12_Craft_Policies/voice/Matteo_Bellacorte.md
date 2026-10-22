@@ -44,7 +44,7 @@ Sonríe antes de pedir. Toca mesas, respaldos, solapas ajenas sin permiso y las 
 
 ## Muestras de registro (con origen)
 
-- "¿Cómo estuvo el vuelo? No me digas: largo. Desde Nueva York todos son largos, aunque duren cinco horas..." (2)
+- "¿Cómo estuvo el vuelo? No me digas: largo. Desde Palermo todos son largos, aunque el avión sea para ti sola..." (2; origen corregido 2026-10-22, CANON DEL AUTOR: Chiara llega en jet privado desde Palermo)
 - "Lo conocí hoy. En una cafetería del barrio. Ya sé, ya sé. Pero escúchenme." (2)
 - "Kal Mercer, le presento a mi... bueno. Mi amiga, Chiara." (2)
 

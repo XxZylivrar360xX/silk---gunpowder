@@ -13,7 +13,7 @@ El mismo defecto aplica al backstory: explicar la herida en un bloque expositivo
 ## Contraste con escenas que si lo resuelven
 
 - **El anillo, Capitulo 3.** Tommaso menciona a la familia. Chiara siente el anular izquierdo y esta vez si lo toca: la yema del pulgar sobre la piel donde ya no hay anillo, y el fastidio inmediato de haberlo hecho delante de el. En una linea el lector recibe el matrimonio, la perdida, quien tiene poder sobre ella en esa sala y cuanto le cuesta. Nadie explico nada.
-- **La fila de migracion, Capitulo 2.** Chiara elige la ventanilla del oficial mas joven, ordena los papeles en el orden en que se los van a pedir y sale con "la primera medida del pais". Entra por intencion, no por imagen.
+- **La revision de migracion en el hangar, Capitulo 2.** Chiara elige al oficial mas joven, ordena los papeles en el orden en que se los van a pedir y sale con "la primera medida del pais". Entra por intencion, no por imagen.
 - **Kal y la bisagra, Capitulo 1.** No se dice que desconfia de las entradas principales: entra por la cocina y confia mas en la bisagra que en la campanilla.
 
 ## Por que es un problema

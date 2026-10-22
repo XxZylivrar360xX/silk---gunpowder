@@ -6,7 +6,7 @@
 
 **Qué es:** hotel-casino de [[05_Locations/San_Aurelio]], construido sobre un hotel costero de los años veinte y ampliado con una torre moderna de juego, suites y eventos. Propiedad de un grupo de socios italianos recién llegados, con [[02_Characters/Chiara_Bellandi]] entre ellos, y con [[02_Characters/Dario_Varek]] como socio mayoritario local.
 **Territorio:** punta oeste de La Isla, frente al océano, con el Hipódromo en la misma propiedad ([[99_Reference/location_references/mapa_san_aurelio.png|mapa definitivo]], CANON DEL AUTOR 2026-10-06). Fachada pública hacia el Paseo Pacífica; acceso discreto de carga por la costera sur de La Isla. Su ruta a tierra firme es el Bulevar Corona y el Puente de Piedra. [Antes: "borde del Distrito Marino, tocando La Isla sin pertenecerle", con carga hacia Terminal Road; superado por el mapa.]
-**Estado al abrir la novela:** llegando. Los socios aterrizan de Italia el mismo día en que Kal conoce a Chiara.
+**Estado al abrir la novela:** llegando. Los socios aterrizan de Italia en los días de la llegada de Chiara: Fabrizio la noche anterior, Tommaso esa misma mañana; Chiara, en avión privado desde Palermo, el día en que Kal la conoce (Cap. 2).
 
 ---
 
@@ -59,7 +59,7 @@ Consecuencias narrativas que están servidas:
 
 ## Los socios
 
-**CANON:** llegan de Italia junto con Chiara. [[02_Characters/Matteo_Bellacorte]] es quien cita a Kal a la reunión inicial — la puerta de entrada de toda la novela.
+**CANON:** llegan de Italia en torno a la llegada de Chiara (Fabrizio la noche anterior, Tommaso esa mañana; Cap. 2). [[02_Characters/Matteo_Bellacorte]] es quien cita a Kal a la reunión inicial — la puerta de entrada de toda la novela.
 
 **CANON:** después de la reunión, los socios **rechazan a Kal por ser "demasiado listo"** y no quieren hacer negocios con él. Chiara opina lo contrario, y contrata por debajo lo que sus jefes rechazaron.
 

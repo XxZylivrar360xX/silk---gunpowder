@@ -109,7 +109,7 @@ San Aurelio es una ciudad ficticia de Estados Unidos. Puede incorporar cultura l
 
 **Los Álamos** — el norte muerto de las refinerías, sobre la costa norte de la bahía (Vía de las Refinerías). Barato, vacío, contaminado, y por eso mismo el sitio donde alguien va a querer construir algo enorme. Territorio de [[03_Factions/Alamo_Salvage]]. Motor de trama a mitad de novela.
 
-**Kingsley Field** — aeropuerto del noreste interior de San Aurelio. No es sólo terminal de pasajeros: carga, hangares, servicios, lectores de placas y carreteras perimetrales donde H9 puede ocurrir.
+**Kingsley Field** — aeropuerto del noreste interior de San Aurelio. No es sólo terminal de pasajeros: carga, hangares, servicios, lectores de placas y carreteras perimetrales donde H9 puede ocurrir. **Puerto de entrada (CANON DEL AUTOR, 2026-10-22):** tiene revisión federal de migración y aduana (CBP) para aviación privada en su zona de hangares (FBO); los vuelos privados internacionales entran al país ahí (Chiara desde Palermo, Cap. 2). En el Cap. 41 Chiara ya no entra por Kingsley: hace escala en Nueva York, donde entra al país y atiende pendientes del casino de allá, y llega a San Aurelio en vuelo doméstico. **Aproximación (DISEÑO, avalado por el autor 2026-10-22):** con la pista en configuración hacia el este, los aviones dan el último giro sobre el Pacífico y entran por la costa, cruzan la playa y la franja industrial y bajan hacia el aeropuerto del interior; por eso en el Cap. 2 Chiara ve primero el mar.
 
 **Rutas de Milla** — carreteras rurales, salidas de Kingsley Field y caminos donde se corren apuestas ilegales. Territorio de [[03_Factions/Los_Marcadores_de_Milla]].
 

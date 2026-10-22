@@ -11,6 +11,7 @@ Cementerio retirado (2026-10-08, orden del autor; capitulo TERMINADO, el estado 
 Dialogo de terceros, La Esquina (2026-10-04, cirugia sobre capitulo TERMINADO; el estado se conserva; prosa DISENO del agente, BORRADOR pendiente de lectura). Direccion del autor: Matteo quiere a Kal como socio para abrir negocios. Deseo opuesto (agente): Kal no se fia de la palabra "socio" en boca de quien no controla la mesa. Fuera: "Eso dice el letrero / El letrero dice gruas", "No todo el mundo tiene que meter coches por la entrada de carga", "No le gusta el juego / No dije eso / No hizo falta", "Eso cuesta / Todo cuesta / No todo se vende / Los socios se aburren...", "Pregunte por mi / No pregunto por gente que me invito". Entran: el pitch de socio (coleccionistas, carreras, talleres: rima con lo que Kal busca en el 2); "¿Ellos saben que me esta ofreciendo eso?" sin respuesta (prepara el "Ya esta citado a las nueve" del 2); Matteo pisa la herida del juego y se disculpa ("Hablo demasiado. Me lo dicen en dos idiomas"); Mabel corrige a Kal y el obedece con Rafa mirando (siembra literal del "Tiene testigos" del 2); "Nueve es nueve" (siembra del "Matteo dijo que diria algo asi" de Fabrizio); Matteo intenta pagar las seis ordenes y Mabel: "Ya estan pagadas" (alimenta "Pagaba antes para que pareciera favor"). Intactos: entrada a La Esquina, cicatriz, networking/puerta, coda de Mabel. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I.md §6.
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); capitulo TERMINADO, el estado se conserva): fuera la linea de Enzo "Tu no vienes al Gelsomino por la pasta..." (glosa del narrador en boca del mesero; el narrador ya lo dice con la bisagra) y la replica de Kal que colgaba de ella. Ficha 12_Craft_Policies/voice/Enzo.
 Frente 3, densidad (2026-10-05, SURGERY autorizada por el autor sobre capitulo TERMINADO; el estado se conserva): fuera el hombre de la camisa demasiado blanca que pregunta por convenios de flotilla (F3-8: siembra sin pago en el libro). F3-9 (Nadir explicado tres veces, l. 443): EJECUTADO 2026-10-05 junto con el frente 1 (fuera las tres primeras frases del parrafo; queda "Kal nunca lo dejaba cerca de los libros..."). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Densidad_Funcion_Frente_3.md §5.
+Remates del narrador (2026-10-22, SURGERY autorizada por el autor sobre capitulo TERMINADO; el estado se conserva; patron de la lectura de ChatGPT del 2026-10-19): dos cortes. Fuera "la certeza de que Keene habia aceptado menos por presupuesto que por visibilidad" (tercera lectura de Keene; el dialogo ya lo mostro; queda "Eso tambien era relato") y "que en el era la manera de no contestar" (glosa de la sonrisa de Matteo; "Lo van a saber esta noche" ya no contesta).
 -->
 
 # Capítulo 1 — Un hombre de negocios intachable
@@ -405,7 +406,7 @@ Keene lo sostuvo con la mirada.
 
 —Eso espero.
 
-Kal salió con una firma, tres objeciones previsibles y la certeza de que Keene había aceptado menos por presupuesto que por visibilidad. Una patrulla que entraba al taller de la Almendra dejaba de ser sospecha si lo hacía cada martes a las diez. Eso también era relato.
+Kal salió con una firma y tres objeciones previsibles. Una patrulla que entraba al taller de la Almendra dejaba de ser sospecha si lo hacía cada martes a las diez. Eso también era relato.
 
 En cuanto dobló hacia Paseo Corona, Kal pulsó el botón del manos libres.
 
@@ -667,7 +668,7 @@ La palabra se quedó sobre la mesa, entre el café y la servilleta de Mabel. Kal
 
 —¿Ellos saben que me está ofreciendo eso?
 
-Matteo abrió la boca y la volvió a cerrar. Después sonrió más ancho, que en él era la manera de no contestar.
+Matteo abrió la boca y la volvió a cerrar. Después sonrió más ancho.
 
 —Lo van a saber esta noche.
 
@@ -681,7 +682,7 @@ No subió la voz. Matteo, que llevaba diez minutos sin dejar un hueco, dejó uno
 
 —No le pido que juegue —dijo después, más rápido—. Ni que pise el salón. Conozco gente que no entra a un casino ni para usar el baño, y no le pregunto a nadie por qué, Dios me libre, cada quien con lo suyo, yo sólo…
 
-Se detuvo. Kal no había cambiado la cara y aun así Matteo supo que acababa de pisar algo.
+Se detuvo. Kal no había cambiado la cara.
 
 En la mesa de al lado, la mujer de la farmacia dejó la cuchara dentro del plato sin hacer ruido. Nadie en La Esquina de Mabel sabía exactamente qué parte de Kal no se tocaba. Todos sabían cuándo alguien acababa de tocarla.
 

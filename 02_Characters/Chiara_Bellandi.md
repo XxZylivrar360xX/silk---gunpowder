@@ -258,6 +258,8 @@ La mandan. No huye — o al menos ésa es la versión, y la versión la escribi�
 
 > **CANON DEL AUTOR (2026-09-26):** antes de San Aurelio, Chiara administraba casinos propiedad de Il Consorzio en Nueva York. La orden de viajar se la da Il Consigliere en el salón privado de uno de ellos (Cap. 2). Por eso llega sabiendo leer un casino por dentro.
 
+> **CANON DEL AUTOR (2026-10-22): cómo llega.** En avión privado, nunca en comercial, **desde Palermo**. No vive en Italia: estaba de visita allá después de que Il Consigliere la mandara a San Aurelio; por eso trae consigo sus pertenencias personales y las fotografías. Cree que se quedará poco, pero se anticipa. [[05_Locations/San_Aurelio|Kingsley Field]] es su puerto de entrada a EE. UU.: migración y aduana la revisan en la zona de hangares de aviación privada, no en la terminal principal ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo|Cap. 2]]).
+
 **El negocio es [[03_Factions/El_Casino]]**, y llega de Italia con los otros socios. Ver [[06_Relationships/Hitos]], H2.
 
 Lo que no estaba en las instrucciones: que la ciudad tuviera un diario viejo, moribundo y todavía creído, y que nadie se hubiera dado cuenta de lo que eso vale. **El casino es de otros; el diario va a ser suyo.** Ése es su arco entero, dicho en propiedad. Ver [[03_Factions/El_Faro]].
