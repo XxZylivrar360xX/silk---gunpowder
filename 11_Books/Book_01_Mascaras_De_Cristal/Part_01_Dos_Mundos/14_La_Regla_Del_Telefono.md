@@ -9,13 +9,14 @@ Apertura por residuo: arranca del cierre del Capitulo 12 — el papel de "Roma A
 Cirugia editorial (2026-09-26, decisiones del autor; ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_14_La_Regla_Del_Telefono.md): se corto la linea final de prolepsis (el cierre queda en la regla que termina en su propia puerta); se sembro el buzon sin mensaje de Kal (rima 14-44) en la escena de la regla; poda de lluvia, lupinos, planta invasora y codas de narrador. La ultima frase de la nota siguiente ("una linea que le avisa al lector") queda SUPERADA por esta cirugia.
 Cierre corregido (2026-09-03): ya NO termina con Kal prendiendo el telefono y viendo las llamadas perdidas en la carretera -- eso se recoloca al inicio del Capitulo 15, cuando llega al loft. Aqui cierra con el telefono todavia apagado y una linea que le avisa al lector, sin que Kal lo sepa, que algo paso en paralelo en la ciudad mientras el estaba en la montaña -- ancla el "Dos dias antes" del Capitulo 15 al mismo fin de semana, no a un salto temporal separado.
 Nombre del lago del imán (2026-10-08, encargo del autor; DISEÑO): *Lake Meriwether*. No es [[05_Locations/El_Lago]] (H7).
+Arco lector 14-16 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_14-16_Lector; sigue TERMINADO; prosa nueva DISEÑO pendiente de lectura): A2, A9 aplicados.
 -->
 
 # Capítulo 14 — La regla del teléfono
 
-El papel seguía sobre la repisa, doblado en cuatro, donde llevaba semanas sin que Kal lo tirara ni lo abriera. *Roma Atrii*, arriba del todo, en la letra que ya se sabía de memoria sin haber querido aprenderla. Lo miró un segundo de más mientras cerraba el bolso, decidió otra vez que no era el día, y salió con la casa a medio ordenar.
+El papel seguía sobre la repisa, doblado en cuatro, donde llevaba semanas sin que Kal lo tirara ni lo abriera. *Roma Atrii* por fuera, en la letra que ya se sabía de memoria sin haber querido aprenderla. Lo miró un segundo de más mientras cerraba el bolso, decidió otra vez que no era el día, y salió con la casa a medio ordenar.
 
-Chiara estaba cumpliendo su palabra: lo que tuviera que llegarle, se lo traía ella. Esa semana no le había traído nada. A Kal le había sobrado tiempo para darse cuenta de que lo había estado esperando.
+Chiara estaba cumpliendo su palabra: lo que tuviera que llegarle, se lo traía ella. Desde Auster no le había traído nada. A Kal le había sobrado tiempo para darse cuenta de que lo había estado esperando.
 
 Cerró con llave y cargó la camioneta del taller, la que no llamaba la atención en ningún lado.
 
@@ -40,6 +41,12 @@ Kal miró las puntas rubias antes de mirar el resto del equipaje.
 —Sigues mirándolo como si fuera una avería.
 
 —Es una moda absurda.
+
+—Se llama *balayage*.
+
+—Bala… yash.
+
+Marisol se rió de él sin ninguna piedad y se lo repitió despacio, sílaba por sílaba. Kal lo dijo peor.
 
 La sonrisa de Marisol se ladeó un poco más.
 
