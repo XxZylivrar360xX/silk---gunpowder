@@ -10,6 +10,7 @@ Microcirugia de dialogo K/C (2026-10-04, autorizada por el autor; [[13_Auditoria
 Fuera de este capitulo (se van al 24c): el calendario de Marta y el homenaje de Alessio, el hipodromo, la llamada de Corrado, el hospital, Beatrice, la tregua y la vigilancia de Dario, el parador, el temblor en el abrazo.
 Continuidad: el abrazo y el temblor canon de H12 quedan para el 24c; aqui no hay abrazo. "Tienes mi palabra" y "Lo necesario. Hasta que ya no lo sea" se quedan aqui (casa comun). Arrastre al Cap. 10: la estancia es por la muñeca (ferula, tres semanas), no por conmocion: retirar mareos, receta, "dos dedos a la sien" y la gente de Dario en el Monarch.
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N9-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
+Seguridad del Monarch (2026-10-22, decision del autor; prosa DISENO pendiente de lectura): en la cuenta de Chiara en la grua, la seguridad del Monarch es buena y le rinde cuentas a Dario; por eso la Almendra y no el penthouse. Siembra la vigilancia-proteccion de Dario del 24c y la tarjeta del Cap. 10.
 -->
 
 # Capítulo 9 — La balanza
@@ -266,7 +267,7 @@ No retiró nada. Sólo dejó de decirlo.
 
 —Quédate unos días en la Almendra —dijo después—. En la casa común. Ahí no entra nadie que Danny no vea desde el sofá, y Danny ve todo lo que pasa por esa puerta aunque parezca que está dormido. Nadir cocina. Walt va a cenar casi todas las noches. El taller está a tres cuadras y la grúa duerme enfrente. En el Monarch te ve cualquiera con una reservación, y el que te torció la muñeca ya sabe cómo te ves. En la Almendra no te toca nadie sin tocarme a mí primero.
 
-Chiara miró la férula. Hizo la cuenta que hacía siempre, en voz baja, por dentro. En el Monarch alguien iba a ver la muñeca antes del mediodía, y Dario iba a preguntar, y ella iba a tener que darle una versión en su propia casa. En la Almendra nadie le iba a pedir ninguna.
+Chiara miró la férula. Hizo la cuenta que hacía siempre, en voz baja, por dentro. En el Monarch alguien iba a ver la muñeca antes del mediodía, y Dario iba a preguntar, y ella iba a tener que darle una versión en su propia casa. La seguridad del Monarch era buena, y le rendía cuentas a él: cada hombre en una puerta le iba a decir quién subía a verla, y a qué hora. En la Almendra nadie le iba a pedir ninguna.
 
 —Entonces que me vean contigo —dijo.
 

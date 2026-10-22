@@ -14,6 +14,7 @@ Revisión 2026-08-30: compra, visita al cascarón y tres etapas de obra dramatiz
 Arrastre de la reubicacion del Corral (2026-10-04, DISEÑO pendiente de lectura; plan [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Reubicacion_Corral]]): la estancia en la casa comun ya no viene del ataque del hipodromo sino del asalto del Tasador a Rowe (nuevo Cap. 9, [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_La_Balanza]]): muñeca con ferula tres semanas, no conmocion. Fuera: receta y alarma, "dos dedos a la sien", la palabra perdida (*L'indirizzo*), "si te duele la cabeza" (x2), la claridad en los lentes, el mareo, el dolor de cabeza de la noche que se queda, la gente de Dario en el Monarch (paso al 24c). Friccion con Nadir con signo cambiado: le reprocha a Kal que el problema lo busco el ("Me explicaste que la gente de Crowe le torcio la muñeca por un papel que firmaste tu... Y Crowe lo sabe"). Presupuestos: "Recuperarte de algo que te hicieron por mi / No me lo hicieron por ti. Me lo hicieron a mi" (ella rechaza la deuda; el la anota igual). Revisar en lectura si los deseos de la cirugia de dialogo (ella quiere dejar de ser carga) necesitan mas giro.
 
 Crowe en el arco del loft (2026-10-22, decision del autor: opciones 1 y 2 del estudio del Cap. 9; prosa DISENO pendiente de lectura; el resto sigue TERMINADO): escena nueva tras Walt: la bolsa de Rowe aparece en la vitrina del primer local del Tasador; Kal la paga sin regatear ('Que adentro va todo': Crowe queria que entrara a pagarla) y la devuelve a la fiscalia en la cajuela del primer coche del resguardo, con el tanque lleno. Respuesta de Crowe: cuota a la vulcanizadora 'por la competencia' y pregunta por quien duerme en la casa comun; la objecion de Nadir pasa de espacio a riesgo (el chico no duerme ahi por miedo, no por falta de cuarto); Kal apunta la fecha en la libreta de los fiados (eco con 'Debajo de otra fecha que no habia tachado' del Cap. 37). La compra de la casa responde a eso: sacar su riesgo de la casa de todos.
+Dario y la casa comun (2026-10-22, decision del autor: opcion 3 del estudio del Cap. 9; prosa DISENO pendiente de lectura): al cuarto dia un chofer del Monarch recoge el Mercedes en la casa comun y deja una tarjeta de Dario ('Que se mejore pronto. Aqui la esperamos.') en un sobre con la direccion completa, entregado en mano: Dario sabe donde duerme sin que ella se lo dijera (la version que le dio fue la caida en el spa). Chiara no se la ensena a Kal. Alimenta la sospecha de Dario hacia Kal en el 24c y el 'A Dario, menos' de Chiara.
 -->
 
 # Capítulo 10 — El loft del soltero
@@ -51,6 +52,16 @@ Días después le preguntó, sin preámbulo, si Kal ya le había contado lo del 
 Después de cenar se quedaba en la mesa con una baraja vieja y les ganaba a Danny y a Nadir los cerillos de la semana. Dinero no apostaba bajo un techo que no era suyo. Danny perdía siempre y nunca entendía por qué. Chiara, desde el sofá, tardó tres noches en notar que Walt perdía y ganaba con la misma cara.
 
 Algunas tardes desaparecía sin decir a dónde y volvía con polvo de otra parte de la ciudad en los zapatos. Nadie le preguntaba. Chiara tampoco.
+
+Al cuarto día llegó un hombre del Monarch por el Mercedes.
+
+No tocó la puerta. Esperó en la acera, junto a la grúa, de traje y con la llave de repuesto en la mano, hasta que Danny salió a ver quién era. Chiara lo reconoció desde la ventana: uno de los choferes de la casa, de los que llevaban a los grandes apostadores al aeropuerto. El lunes le había dicho a Dario por teléfono que se había caído en las escaleras del spa y que iba a trabajar unos días desde fuera. No le había dicho desde dónde.
+
+El chofer le dio a Danny un sobre para la señora Bellandi y se llevó el Mercedes sin pedir firma.
+
+Adentro venía una tarjeta del Monarch con la letra de Dario: *Que se mejore pronto. Aquí la esperamos.* El sobre traía escrita la dirección de la casa común, completa, con el código postal. No hacía falta. Lo habían entregado en mano.
+
+Chiara guardó la tarjeta en el neceser. A Kal no se la enseñó.
 
 ***
 
