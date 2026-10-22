@@ -121,3 +121,23 @@ Tras aplicar: verificación con `editorial-surgery` y actualizar estados en `12_
 - **P8a:** costura añadida: "Kal se sentó. Ella también, frente a él, …".
 - **P8e:** el ladrillo vuelve al abrir la escena del penthouse ("De vuelta en el penthouse, al pasar por la entrada…"), no antes de "Afuera, San Aurelio…".
 - **P8f:** la condición de Walt va antes de "—Minoritaria —dijo." para que el remate del cumplido siga apuntando a "Minoritaria".
+
+---
+
+## Verificación postoperatoria (VERIFY, editorial-surgery, 2026-10-22)
+
+Ámbito: el diff del commit "Arco Caps. 11-13" (P1–P8 más los ajustes del supervisor). No se tocó prosa en esta pasada. Estado: **recomendaciones pendientes de autorización**.
+
+**Restaurar (rompe el orden de revelaciones):**
+- **V1, Cap. 12, P2:** "—Sí. Lo de adentro no era para que lo leyeras. Era para que me buscaras hoy y no a la noche." le dice a Kal que el papel era para él, y con eso adelanta el reveal del Cap. 38 ("Venía buscándome a mí"). Además contradice la explicación del 38 ("se lo mandé a la única persona que no tenía ninguna posibilidad de descifrarlo"), que ya responde por qué estaba en latín. Recomendación: volver a "—Sí.". La duda del lector sobre el latín queda como misterio deliberado y se paga en el 38. Lo físico de P2 (papel sin abrir, "por fuera") se conserva.
+
+**Corregir (error objetivo o costura):**
+- **V2, Cap. 13, P5:** al margen Chiara escribió "*Ps. 26:12.*", no "*testes iniqui*". Recomendación: "Al margen del primer papel seguía su propia letra: *Ps. 26:12.* No la tachó."
+- **V3, Cap. 11, P8f:** con el reorden, "—Minoritaria —dijo." viene después de una réplica de Chiara y el "dijo" queda ambiguo. Recomendación: "—Minoritaria —dijo Walt."
+- **V4, Cap. 13, P4:** "sentado sobre su piso" se lee literal (sentado en el suelo). Recomendación: "de un abogado sentado en una de sus mesas, con su whisky en la mano."
+- **V5, Cap. 13, P8d:** "el aroma que ya sólo asociaba a su propio escritorio" pierde la exclusividad del original, y no queda claro de qué escritorio se habla (¿la oficina del Monarch, por P6/12, o el penthouse?). Recomendación: "con el borde deshilachado y el olor de su propio papel."
+- **V6, Cap. 12, P2:** "a las dos palabras que no leía": Kal sí puede leerlas, lo que no puede es entenderlas. Recomendación: "que no entendía".
+
+**Sin observaciones:** P1 (paga el gancho de apertura con eco de "su pregunta" del 12; no adelanta el nombre del 15), P3, P6 (sin pérdida de información; el recuerdo está intacto), P7, P8a, P8b, P8c y P8e. No hay pérdida de voz ni de siembras.
+
+**Anterior a esta cirugía (sólo se reporta):** "los tres papeles — el de la gasolinera, el de Mabel, el de Kenji" choca con que la referencia de Mabel se escribió "al margen del mismo papel".
