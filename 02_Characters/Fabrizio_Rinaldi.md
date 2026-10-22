@@ -7,7 +7,7 @@
 **Nacionalidad:** italiano.
 **Oficio:** socio del Monarch.
 **Rol:** viejo amigo italiano de Chiara; suaviza la llegada y demuestra que ella no entra completamente sola. Padre de familia (DISEÑO: Paola; Giada y Nico).
-**Estado:** muerto. **CANON DEL AUTOR (2026-10-12):** es asesinado al abrir *Sombras de Poder*. Aparece muerto en su apartamento; Lucía Varek llama a Chiara durante el desayuno, la mañana después del regreso de Kal (enero del año 3), para que lo identifique en la comisaría y el Cap. 1 corta en «Fabrizio está muerto» ([[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/01_Hogar]]; canon de escena del 2026-10-09). Ocupa el lugar que antes tenía la muerte de [[02_Characters/Tommaso_Lusardi|Tommaso]], que ahora sobrevive y se ausenta hacia el final del libro.
+**Estado:** muerto. **CANON DEL AUTOR (2026-10-12):** es asesinado al abrir *Sombras de Poder*. Aparece muerto en su apartamento; Lucía Varek llama a Chiara durante el desayuno, la mañana después del regreso de Kal (enero del año 3), para que lo identifique en la comisaría y el Cap. 1 corta en «Fabrizio está muerto» ([[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/01_Hogar]]; canon de escena del 2026-10-09). [[02_Characters/Tommaso_Lusardi|Tommaso]] sobrevive y se retira del tablero hacia el final del libro.
 
 > **CANON DEL AUTOR (2026-10-12):** lo mata **[[02_Characters/Nereo_Volpi|Nereo Volpi]]** (por orden de Varek; la revelación sigue reservada), con este mecanismo: entra como un desconocido, composición que evoca a [[02_Characters/Raymond_Keene]] e hipótesis pública de asesino serial que se descarta tras meses sin otro ataque. Es la segunda víctima del patrón que reactiva *Cuentas de Sangre*. El segundo atentado son los frenos del auto de Chiara, con Tommaso y Marisol como colaterales. Su muerte es **combustible** de la compra de *El Faro*, no el detonante. Plan rector: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].
 
@@ -46,7 +46,7 @@ Su funcion es mostrar que el pasado italiano de Chiara no es un bloque unico. No
 - [[02_Characters/Chiara_Bellandi]] - vieja amistad de Italia.
 - [[02_Characters/Matteo_Bellacorte]] - socio dentro del grupo del Monarch.
 - [[03_Factions/El_Casino]] - negocio compartido.
-- [[02_Characters/Nereo_Volpi]] — lo mata al abrir el Libro II. Ya no lo coacciona (2026-10-18).
+- [[02_Characters/Nereo_Volpi]] — lo mata al abrir el Libro II.
 - [[02_Characters/Lucia_Varek]] — llama a Chiara para identificar su cuerpo (Libro II, Cap. 1).
 - [[02_Characters/Livia_Ferraro]] — su hija póstuma, prometida de Michael (CANON 2026-10-18).
 - Livia Rinaldi (titular de la Mesa, Cap. 40) — abuela de la niña; derivado: su madre (DISEÑO, confirmar).

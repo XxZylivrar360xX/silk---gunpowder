@@ -88,3 +88,13 @@ Sólo la frase del mandato divino regresa como recuerdo (Cap. 9; retirado el 202
 (Cap. 50; ~~Cap. 44~~)
 > **SUPERSEDIDO EN PARTE (2026-10-01, CANON DEL AUTOR):**
 ~~posición exacta del evento benéfico dentro de *Sombras de Poder*~~ (resuelto 2026-10-12: cierra la Parte I)
+
+## Fabrizio Rinaldi (ficha de voz)
+
+**Retirado:** 2026-10-06 (CANON DEL AUTOR: «en California» pasa a «en la costa oeste»).
+**Lo sustituye:** [[12_Craft_Policies/voice/Fabrizio_Rinaldi]].
+
+**Texto original:**
+
+- Apellido: ("Chiara Ardizzone en la costa oeste"; antes "en California", cambiado por el autor 2026-10-06)
+- Muestra: "Chiara Ardizzone en la costa oeste. Ahora sí el mundo se quedó sin mapas." (2, protegida: no reusar; CANON DEL AUTOR 2026-10-06, antes "en California")

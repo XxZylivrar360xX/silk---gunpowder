@@ -1,13 +1,15 @@
 # Ficha de Voz - Fabrizio Rinaldi
 
-> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]). Vara: el lobby del Cap. 2 ("¿Comiste?"). **Decisión del autor (2026-10-04):** Fabrizio pasa a ser un actor más involucrado en la Parte I; hoy sólo habla en el Cap. 2. Su presencia nueva se diseña capítulo por capítulo con el autor. Ficha de personaje: [[02_Characters/Fabrizio_Rinaldi]] (coerción de Volpi: superada para él el 2026-10-18, pasa a Tommaso).
+> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]). Vara: el lobby del Cap. 2 ("¿Comiste?"). **Decisión del autor (2026-10-04):** Fabrizio pasa a ser un actor más involucrado en la Parte I; hoy sólo habla en el Cap. 2. Su presencia nueva se diseña capítulo por capítulo con el autor. Ficha de personaje: [[02_Characters/Fabrizio_Rinaldi]].
 > **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
+
+> Plan anterior retirado: [[97_Supersedido/Fabrizio_Coaccionado_Y_Atentado_2x1]].
 
 ## Cadencia y sintaxis
 
 Cálido, rápido, de confianza antigua. Pregunta y se contesta con cariño mandón ("¿Comiste? / No comiste"). Su afecto puede ser real y aun así interesado. Le baja la voz a Italia, como si Palermo pudiera oírlos. Es el único de la mesa que se ríe sin malicia.
 
-**Apellido (canon del autor, 2026-09-26):** por la amistad de infancia, es el único cercano a quien le cuadra llamarla *Ardizzone* en confianza ("Chiara Ardizzone en la costa oeste"; antes "en California", cambiado por el autor 2026-10-06). Es un guiño, no una declaración política. La institución también la llama Ardizzone, pero por jerarquía.
+**Apellido (canon del autor, 2026-09-26):** por la amistad de infancia, es el único cercano a quien le cuadra llamarla *Ardizzone* en confianza ("Chiara Ardizzone en la costa oeste"). Es un guiño, no una declaración política. La institución también la llama Ardizzone, pero por jerarquía.
 
 ## Vocabulario
 
@@ -17,7 +19,7 @@ Palermo, comida, madre ("Tu madre me mataría"), casa, viejo, amiga, distancia. 
 
 - No expone el pasado de Chiara delante de terceros; si lo roza, media frase y cambia de tema.
 - No sentencia: si suelta una frase general ("La inteligencia no es un defecto"), está fuera de registro. Defiende con anécdota o con broma, no con aforismo.
-- ~~**Después del primer atentado (coerción de Volpi):**~~ (superado 2026-10-18: la coerción pasa a Tommaso; Fabrizio sólo está ocupado en la Parte III) no explica su distancia. Los silencios y las retiradas prácticas son la señal; no se vuelve frío ni traidor.
+- **En la Parte III (sólo ocupado, no coaccionado):** no explica su distancia. Los silencios y las retiradas prácticas son la señal; no se vuelve frío ni traidor.
 
 ## Comportamiento físico al hablar
 
@@ -31,7 +33,6 @@ Abre los brazos, besa las dos mejillas, baja la voz al recordar Italia, toca el 
 ## Bajo presión
 
 - **Enfadado:** sin evidencia todavía.
-- ~~**Asustado (tras la coerción):** amabilidad de más, citas canceladas con excusas pequeñas.~~ (superado 2026-10-18)
 - **Ocupado:** contesta tarde, con ruido detrás, la tutea igual y cuelga con «mañana te cuento» (41).
 - **Cuando quiere decir algo grande:** se inclina con los codos en las rodillas, empieza y se frena; lo aplaza a una mesa con comida (49).
 - **Herido:** "Ya, ya": retrocede.
@@ -43,7 +44,7 @@ Abre los brazos, besa las dos mejillas, baja la voz al recordar Italia, toca el 
 
 ## Muestras de registro (con origen)
 
-- "Chiara Ardizzone en la costa oeste. Ahora sí el mundo se quedó sin mapas." (2, protegida: no reusar; CANON DEL AUTOR 2026-10-06, antes "en California")
+- "Chiara Ardizzone en la costa oeste. Ahora sí el mundo se quedó sin mapas." (2, protegida: no reusar; CANON DEL AUTOR 2026-10-06)
 - "¿Comiste? Lo del avión no cuenta. / No comiste. Tu madre me mataría." (2)
 - "No te conviene pelear ésta el primer día." (2, en voz baja, después de la junta)
 - "Mi abuelo corría a los listos. Luego los volvía a contratar más caros." (2, riéndose a medias; sustituye a la línea de abajo. DISEÑO elegido por el autor, 2026-10-04; no reusar)

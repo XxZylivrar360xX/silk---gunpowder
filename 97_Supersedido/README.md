@@ -28,4 +28,4 @@ Ideas, planes y diseños que el autor retiró o que quedaron reemplazados. **No 
 - [[97_Supersedido/Keene_Omision_En_Caso_Vera]]: Keene encubre por omisión el caso Vera (retirado 2026-10-03).
 - [[97_Supersedido/Beatrice_Craniotomia_En_El_Corral]]: Beatrice opera a Chiara en el Cap. 9 (retirado 2026-10-04).
 - [[97_Supersedido/Kal_Origen_Decanonizado]]: la mina, el patio en subasta y el suicidio inmediato de Dale (retirado 2026-08-23 y 2026-10-14).
-- [[97_Supersedido/Fichas_Detalles_Menores]]: retiros menores de Alessio, Chiara, Elenna, John, Mabel, Natalie, Walt y Halbrook.
+- [[97_Supersedido/Fichas_Detalles_Menores]]: retiros menores de Alessio, Chiara, Elenna, Fabrizio (voz), John, Mabel, Natalie, Walt y Halbrook.

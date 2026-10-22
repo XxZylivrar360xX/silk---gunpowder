@@ -59,3 +59,18 @@ Cuando [[02_Characters/Dario_Varek|Dario Varek]] descubre esa línea y elimina a
 - ~~Tommaso~~ Fabrizio (2026-10-12)
 - ~~Tommaso~~ Fabrizio (2026-10-12)
 - (CANON 2026-10-18; antes era Fabrizio)
+
+## Texto original (ficha de Volpi, El patrón que la ciudad leyó mal)
+
+> **SUPERSEDIDO EN PARTE (CANON DEL AUTOR, 2026-10-12):** Tommaso **no muere**; se queda en San Aurelio y se ausenta hacia el final de *Sombras de Poder*. El asesinado al abrir el Libro II es [[02_Characters/Fabrizio_Rinaldi|Fabrizio Rinaldi]], que aparece muerto en su apartamento ([[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/01_Hogar|Cap. 1]]). **CANON DEL AUTOR (2026-10-12):** **Volpi lo mata** y la muerte **hereda el mismo mecanismo**: entra como un desconocido, una composición que evoca a Keene y la hipótesis de asesino serial que se descarta. **Fabrizio es la segunda víctima del patrón.** Donde abajo dice Tommaso, léase Fabrizio. Lo de «la banca de su terraza» y «el departamento del norte» era de Tommaso: si se conserva en el apartamento de Fabrizio queda PENDIENTE. Lo que sigue se conserva como historial.
+
+Después de Keene, Volpi entra como un desconocido al departamento del norte de [[02_Characters/Tommaso_Lusardi|Tommaso Lusardi]] y lo ejecuta sentado en la banca de su terraza. La composición recuerda el cadáver de Keene en Plaza Corona: una muerte expuesta, casi quieta, hecha para ser vista antes de ser comprendida.
+
+## Texto original (ficha de Fabrizio, Estado; migrado 2026-10-22)
+
+Ocupa el lugar que antes tenía la muerte de [[02_Characters/Tommaso_Lusardi|Tommaso]], que ahora sobrevive y se ausenta hacia el final del libro.
+
+## Texto original (ficha de Tommaso, etiquetas de fecha; migrado 2026-10-22)
+
+- **CANON DEL AUTOR (2026-10-12; antes «incubación por consolidar»):** (bloque de las amenazas a su familia y la cesión al Monarch)
+- **Mei-Lin (CANON DEL AUTOR, 2026-09-20; ajustado 2026-10-12 y 2026-10-13).**

@@ -44,10 +44,6 @@ Elenna es la ironía de esa frase; Livia es quien la pone a prueba. Su conflicto
 - [[02_Characters/Elenna_Mercer]]: la conoce en el funeral.
 - [[02_Characters/Chiara_Bellandi]] y [[02_Characters/Kal_Mercer]]: futuros suegros, en Palermo (relación PENDIENTE).
 
-## Notas
-
-- El nombre es intercambiable si hace falta otra sonoridad. Se eligió porque suena siciliano sin atarla a una familia que ya exista en el canon.
-
 ## Preguntas abiertas
 
 > **Cómo termina lo suyo con Michael (CANON DEL AUTOR, 2026-10-04):** ella rompe desde Palermo en el VI, sin escándalo: entiende antes que él que no va a volver (*si siempre es primero, yo siempre soy segunda*). CANON DEL AUTOR (2026-10-04): antes de que ella rompa, Michael e Iris se acuestan mientras él sigue comprometido. Livia **intuye y rompe antes de que él confiese**, y antes de que él cumpla lo que le prometió a Iris (terminar con ella); DISEÑO: nunca sabe con certeza qué pasó. Ver [[06_Relationships/Michael_e_Iris]].

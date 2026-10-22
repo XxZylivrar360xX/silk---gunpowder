@@ -39,3 +39,31 @@ sustituye a la coerción como contenido de «iba a hablar»
 ## Texto original (ficha de Volpi, Conexiones)
 
 ~~blanco directo bajo coerción;~~ el atentado contra él vuelve a Chiara daño colateral no planeado.
+
+## Texto original (ficha de Volpi, coerción sobre Fabrizio en el Libro I)
+
+> **CANON DEL AUTOR (2026-10-18):** la coerción de Volpi por medio de la familia **pasa a [[02_Characters/Tommaso_Lusardi|Tommaso]]** (efecto del intercambio de lugares del 2026-10-12); El párrafo siguiente es historial; dónde y cómo se ve la coerción sobre Tommaso en el Libro I queda PENDIENTE.
+
+La maniobra alcanza a [[02_Characters/Fabrizio_Rinaldi|Fabrizio Rinaldi]]. Es padre de familia; después del primer atentado contra Chiara, Volpi le hace saber que su familia está bajo coerción. No necesita convertirlo en informante visible: basta con que Fabrizio entienda que acercarse a Chiara puede trasladar el costo a su casa.
+
+## Texto original (ficha de Volpi, segundo atentado «2x1»)
+
+> **SUPERSEDIDO (CANON DEL AUTOR, 2026-10-12):** Fabrizio y Tommaso **cambian de lugar**. Volpi mata a Fabrizio al abrir *Sombras de Poder* (ver «El patrón que la ciudad leyó mal»). El segundo atentado pasa a ser el corte de frenos del **auto de Chiara**, ordenado por Varek: lo maneja Tommaso, que choca contra el Audi de Kal manejado por Marisol (tibia de Marisol; bastón permanente para Tommaso). **Volpi, velado, corta los frenos** del Lancia de Chiara (CANON 2026-10-12), al final de la Parte II — *Nieve y ceniza*, en Calle Corona rumbo al Puente de Piedra. Kal descubre el sabotaje, no al autor. El párrafo siguiente es historial. Plan: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].
+
+En el segundo atentado, ya fijado contra Chiara, Volpi recibe además la instrucción de atentar contra Fabrizio. Chiara está con él y transforma dos operaciones en un **2x1** que no estaba planeado como tal. La violencia no debe leerse todavía como una firma de Varek: desde el punto de vista de Chiara, confirma la hipótesis equivocada de que La Mesa quiere dejarla sin nadie en San Aurelio.
+
+## Texto original (ficha de Fabrizio, Conexiones; migrado 2026-10-22)
+
+- [[02_Characters/Nereo_Volpi]] — lo mata al abrir el Libro II. Ya no lo coacciona (2026-10-18).
+
+## Texto original (ficha de voz de Fabrizio; migrado 2026-10-22)
+
+Cabecera: Ficha de personaje: [[02_Characters/Fabrizio_Rinaldi]] (coerción de Volpi: superada para él el 2026-10-18, pasa a Tommaso).
+
+Lo que nunca dice:
+
+- ~~**Después del primer atentado (coerción de Volpi):**~~ (superado 2026-10-18: la coerción pasa a Tommaso; Fabrizio sólo está ocupado en la Parte III) no explica su distancia. Los silencios y las retiradas prácticas son la señal; no se vuelve frío ni traidor.
+
+Bajo presión:
+
+- ~~**Asustado (tras la coerción):** amabilidad de más, citas canceladas con excusas pequeñas.~~ (superado 2026-10-18)
