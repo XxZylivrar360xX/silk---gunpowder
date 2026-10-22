@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 33b; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Cap. 33b de la Parte II (entre el 33 y el 34). Redactado 2026-10-22, Claude Code, encargo del autor; prosa DISEÑO pendiente de lectura. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]].
 Protagonistas: Chiara Bellandi (POV único). Kal Mercer. Apariciones sin nombre: el caballerango, la veterinaria.
 Ventana temporal: ~mediados de octubre A2, día de semana; unas tres semanas después de la sección final del Cap. 33 y antes del 34 ("semanas después del 33"). Más de un mes antes del cumpleaños (Cap. 36). CANON DEL AUTOR 2026-10-22: la muerte no va pegada al cumpleaños.
@@ -9,7 +10,7 @@ Función: CANON DEL AUTOR (2026-10-22): muerte de Vento por fractura de la edad;
 - Sin glosa de la muerte; sin presagio de la yegua.
 -->
 
-# Capítulo 33b — La mano
+# Capítulo 38 — La mano
 
 El teléfono sonó a las cinco y cuarenta.
 

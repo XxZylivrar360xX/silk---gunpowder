@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 12; numeración corrida definitiva, el archivo conserva su nombre.
 PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): geometría de la franja hecha visible una vez (vidrio de la caja con Kenji a un lado, puerta batiente del pasillo de servicio al otro, piso de juego a espaldas de Kal; por eso "A espaldas de Kal, en una mesa" pasa a "En una de las mesas"); segunda interferencia del casino: un mesero con una charola obliga a Kal a dar medio paso hacia ella y no lo devuelve.
 Estado: TERMINADO.
 Continuidad 2026-10-17 (CANON del autor: jefatura vacante en el Libro I, Vega entra en el II): l. 171 "la que va despues de Vega" -> "la que manda desde lo de Keene"; cobra la siembra del Cap. 7.
@@ -11,7 +12,7 @@ Lugares: salon de gala (evento altruista, sin nombre fijo), The Monarch Casino &
 Funcion: ejecutar beats 12-c y 13-b — nace i Sussurri con Kenji Oda; se muestra la red en funcionamiento con multiples fuentes y tipos de informacion (calle, comercio/Mabel, elite, institucional) llegando al escritorio del penthouse; y el primer roce de valores entre Kal y Chiara por el mensajero menor. Version revisada (2026-09-02): se le da contenido real y urgencia al papel -- esa misma manana un hombre no identificado pregunto en el piso del Monarch por "un Peugeot rojo, tuneado", sembrando la primera alarma aislada del hilo que se paga en el Capitulo 13 (Auster); la reaccion de Kal se ancla, sin explicarla en bloque, a su propio origen (comprado de bebe, carrera perdida por gente que movia ninos) via el mismo tic fisico de la mandibula ya usado en el Capitulo 1; y la confrontacion se extiende para que Chiara admita honestamente, sin excusarse, por que no espero a la noche.
 -->
 
-# Capítulo 12 — Roma Atrii
+# Capítulo 14 — Roma Atrii
 
 Semanas antes del torneo, la tarjeta se negó dos veces antes de que el hombre del esmoquin empezara a sudar.
 

@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 47; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 47 (cuarto del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
 Título: PENDIENTE. "Intereses" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
@@ -21,7 +22,7 @@ DISEÑO del agente, pendiente de lectura:
 - Sin modelos, calibres, cantidades ni procedimiento de entrega. No se nombra Halbrook, el expediente, el convoy (como tal) ni a Rafe. Bonnie y Mei-Lin no aparecen. Sin EPUB, commit ni push.
 -->
 
-# Capítulo 47 — Intereses
+# Capítulo 52 — Intereses
 
 La camioneta seguía contra la tapia, con la trompa hacia el portón. Alguien le había quitado el termo del asiento del copiloto. La mochila seguía ahí.
 

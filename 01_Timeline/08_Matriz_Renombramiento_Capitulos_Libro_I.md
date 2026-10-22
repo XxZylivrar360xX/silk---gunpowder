@@ -1,5 +1,7 @@
 # Matriz de renombramiento de capítulos — Libro I
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 > **Estado:** primera ronda cerrada y aplicada por aprobación del autor (2026-09-20), incluido C22 — Causalidad.
 >
 > **Alcance:** comparar el título visible, la función real del capítulo y la imagen que debe quedar en memoria. Esta matriz no sustituye el `Book_Map` y no autoriza por sí sola cambios de nombre.
@@ -114,3 +116,27 @@
 Encabezados y nombres de archivo sincronizados; referencias de ruta actualizadas, incluidas las históricas para mantener navegación. Las descripciones históricas conservan sus títulos de época. Prosa verificada idéntica. EPUB sin regenerar.
 
 > **RESUELTO — C22, CANON DEL AUTOR:** «causalidad se queda». Título definitivo de esta ronda: **Causalidad**. Encabezado, archivo y referencias sincronizados. La primera ronda de seis capítulos queda cerrada; las alternativas anteriores se conservan como historial del estudio.
+
+## Segunda ronda (2026-10-21/22) — decisión del autor
+
+Regla y tabla completa: [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]. Numeración anterior (por archivo):
+
+| Arch. | Antes | Ahora |
+|---:|---|---|
+| 10 | El loft del soltero | Los muchachos comen |
+| 15 | El portón | Yo lo llevo |
+| 16 | El sobre rojo | Se conserva (probado *Con miedo y todo*) |
+| 17 | Cuentas claras | Le quedé debiendo |
+| 18 | El día nublado | Se conserva (probado *Nadie lo llamó cita*) |
+| 19 | Tierra buena | Lo que nadie estaba mirando |
+| 20 | El mirador | Lo pequeño |
+| 21 | El primer huésped | Se conserva (probado *Volvemos adentro*) |
+| 22 | Causalidad | Se conserva (probado *Como variación*) |
+| 23 | La letra pequeña | Nada caro |
+| 27 | Riesgo pendiente | Lleve equipaje |
+| 28 | La correa | No hace falta (probado *Te queda grande*) |
+| 29 | El patio ajeno | Una silla |
+| 33 | Más de la cuenta | Lo único que es mío |
+| 49 | Enfrente | Por si vuelve |
+
+Solo cambió el encabezado visible; los archivos conservan el nombre. Desde 2026-10-22 rige además la numeración corrida de 56 capítulos (tabla en el Book_Map).

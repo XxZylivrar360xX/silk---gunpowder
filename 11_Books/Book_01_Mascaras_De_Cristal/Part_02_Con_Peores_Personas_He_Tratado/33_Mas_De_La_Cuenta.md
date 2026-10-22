@@ -1,4 +1,6 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 33; numeración corrida definitiva, el archivo conserva su nombre.
+Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «Más de la cuenta».
 Estado: BORRADOR — penúltimo capítulo de la Parte II (Cap. 33 de 34). Pendiente de revisión del autor. Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]], § 9 parte 4); sigue BORRADOR. Cirugía de narrador 2026-10-05 (M33-1 a M33-3 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Marisol_Detector_Infalible]]: tres acotaciones que certificaban la agudeza de Marisol; diálogo intacto); sigue BORRADOR.
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 3 cortes (N33-1 a N33-3); cirugía Marisol no reabierta; sigue BORRADOR.
 Reubicación (2026-09-20, decisión del autor): este capítulo abría originalmente la Parte III — Ardizzone. Se adelantó, junto con el Cap. 34 — Mi pareja (H21, sin prosa todavía en ese momento), al cierre de la Parte II, para que la Parte III quede enteramente reservada al arco paralelo Kal/Dario (El Patio como administración criminal) y Chiara/Il Consorzio (reclamo de "Ardizzone"). Ver [[06_Relationships/Hitos]] (tabla de orden y H21) y `98_Agent_Handoff/PENDING.md`. El contenido de este capítulo (Kenji/Marisol, coda del loft) no cambió — sólo su posición.
@@ -31,7 +33,7 @@ Continuidad:
 **Beat del cuadro (2026-10-02, CANON DEL AUTOR: gesto cotidiano, silencioso, con moño, sin exposición; prosa DISEÑO del agente, pendiente de lectura):** abre el capítulo en el penthouse, antes del Monarch. Paga la foto que Héctor toma sin avisar en el Cap. 31; vuelve en el Cap. 50. Kal durmió en el penthouse esa noche (confirmado por el autor 2026-10-02). Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
 -->
 
-# Capítulo 33 — Más de la cuenta
+# Capítulo 37 — Lo único que es mío
 
 El cuadro estaba en la mesa cuando salió del cuarto, junto a su taza, como si siempre hubiera estado ahí. Marco de madera clara. Un moño rojo, un poco chueco. Ninguna nota.
 

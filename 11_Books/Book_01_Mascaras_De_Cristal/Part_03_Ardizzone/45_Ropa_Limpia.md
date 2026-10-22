@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 45; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 45 (segundo del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
 Título: PENDIENTE. "Ropa limpia" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece salvo en una grabación de seguridad, de espaldas y sin cara.
@@ -17,7 +18,7 @@ Función: "Su red". Chiara pasa de la vía institucional (44) a la suya: i Sussu
 - Sin EPUB, commit ni push.
 -->
 
-# Capítulo 45 — Ropa limpia
+# Capítulo 50 — Ropa limpia
 
 A las seis de la mañana la caja del Monarch cerraba el conteo de la noche, y era la única hora en que el piso de juego se parecía a una oficina. Las mesas tenían puestas las fundas de terciopelo. Un hombre de mantenimiento pasaba la aspiradora entre las máquinas, que seguían encendidas para nadie, y el zumbido tapaba a medias la música que en ese edificio no se apagaba nunca.
 

@@ -2,16 +2,84 @@
 
 ## Arquitectura operativa vigente — 2026-09-22
 
+> **NUMERACIÓN DEFINITIVA (2026-10-22, autor):** el Libro I usa numeración corrida de 56
+> capítulos. Cambia sólo el encabezado visible (`# Capítulo N — Título`); **los nombres de archivo
+> no cambian**, así que el prefijo del archivo ya no coincide con el número del capítulo desde el 5.
+> Parte I = Caps. 1–29 (archivos 01–25); Parte II = Caps. 30–39 (archivos 26–34, con 33b);
+> Parte III — Ardizzone = Caps. 40–56 (archivos 35–50b). Esta sección usa la numeración nueva.
+> **Las notas fechadas anteriores de este Book_Map (incluidas las entradas de "Capítulos en
+> montaje" y "Capítulos planificados"), las auditorías, las sesiones y los planes usan la
+> numeración de su época**, que en la mayoría de los casos recientes coincide con el prefijo de archivo.
+
+| Cap. | Archivo | Título |
+|---|---|---|
+| 1 | `01` | Un hombre de negocios intachable |
+| 2 | `02` | Demasiado listo |
+| 3 | `03` | Los viejos días |
+| 4 | `04` | Tarifa nocturna |
+| 5 | `05a` | Cliente y proveedor |
+| 6 | `05b` | Sin llamar a nadie |
+| 7 | `05c` | La pizza de calabaza |
+| 8 | `06` | Ambos |
+| 9 | `07` | La noche del ladrillo |
+| 10 | `08` | La carrera de máscaras |
+| 11 | `09` | La balanza |
+| 12 | `10` | Los muchachos comen |
+| 13 | `11` | El farol |
+| 14 | `12` | Roma Atrii |
+| 15 | `13` | Auster |
+| 16 | `14` | La regla del teléfono |
+| 17 | `15` | Yo lo llevo |
+| 18 | `16` | El sobre rojo |
+| 19 | `17` | Le quedé debiendo |
+| 20 | `18` | El día nublado |
+| 21 | `19` | Lo que nadie estaba mirando |
+| 22 | `20` | Lo pequeño |
+| 23 | `21` | El primer huésped |
+| 24 | `22` | Causalidad |
+| 25 | `23` | Nada caro |
+| 26 | `24` | Bajo juramento |
+| 27 | `24b` | Lo que cueste |
+| 28 | `24c` | El corral |
+| 29 | `25` | Libros abiertos |
+| 30 | `26` | Me encuentro bien |
+| 31 | `27` | Lleve equipaje |
+| 32 | `28` | No hace falta |
+| 33 | `29` | Una silla |
+| 34 | `30` | Media Baraja |
+| 35 | `31` | Vamos a casa |
+| 36 | `32` | Línea directa |
+| 37 | `33` | Lo único que es mío |
+| 38 | `33b` | La mano |
+| 39 | `34` | Mi pareja |
+| 40 | `35` | Sin fecha de regreso |
+| 41 | `36` | También las mañanas |
+| 42 | `37` | Cuatro letras |
+| 43 | `38` | Al revés |
+| 44 | `39` | Un par de días más |
+| 45 | `40` | Mecánico |
+| 46 | `41` | La otra mitad |
+| 47 | `42` | Nada |
+| 48 | `43` | La puerta |
+| 49 | `44` | Jurisdicción |
+| 50 | `45` | Ropa limpia |
+| 51 | `46` | Llaves |
+| 52 | `47` | Intereses |
+| 53 | `48` | Su nombre |
+| 54 | `49` | Por si vuelve |
+| 55 | `50` | A oscuras |
+| 56 | `50b` | La tierra bajo sus botas |
+
 > **SUPERSESIÓN (2026-09-22):** las antiguas Partes IV-VI (Nieve y Ceniza, Exilio, Torna a
 > Casa) dejaron de pertenecer a este libro — son ahora las Partes I-III de
 > [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map|Book_02_Sombras_De_Poder]]. Este libro
-> termina en el Cap. 44 ("Ciao, bella", cierre de la Parte III — Ardizzone). Revierte la
+> termina en el Cap. 44 de la numeración de entonces (hoy Cap. 55, archivo 50; "Ciao, bella", cierre de la Parte III — Ardizzone). Revierte la
 > reconciliación del 2026-09-20 que las había fusionado aquí.
 >
-> **SUPERSESIÓN (2026-10-01/02, CANON DEL AUTOR; calendario 2026-10-06):** el cierre en el 44
-> queda superado. La Parte III — Ardizzone pasa a tener dieciséis capítulos (35–50) más el
-> **Cap. 50b**, *La tierra bajo sus botas*, que cierra el libro (sin la palabra "epílogo").
-> *"—Ciao, bella."* es la última línea del Cap. 50. No hay Parte IV. Kal pasa unos dieciséis
+> **SUPERSESIÓN (2026-10-01/02, CANON DEL AUTOR; calendario 2026-10-06):** el cierre en el 44 (numeración
+> de entonces) queda superado. La Parte III — Ardizzone pasa a tener dieciséis capítulos (Caps. 40–55; archivos 35–50) más el
+> **Cap. 56** (archivo 50b), *La tierra bajo sus botas*, que cierra el libro (sin la palabra "epílogo").
+> *"—Ciao, bella."* es la última línea del Cap. 55 (archivo 50). No hay Parte IV. Kal pasa unos dieciséis
 > días preso y el libro termina el 5 de enero del año 3. Plan:
 > [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
 
@@ -19,13 +87,15 @@ Fuente macro: [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]]. No asigna capítu
 
 | Parte | Entrada y salida |
 |---|---|
-| III — Ardizzone | Conserva Matteo → H16 → crecimiento/Fabrizio → Tommaso/Mei-Lin (sembrado) → H13/Palermo → F1 → Camp Alder (H19) → **arco sin Kal (H20, 44–49):** institución, red, El Patio, Dario, los Bravos, Il Consorzio → convoy señuelo, apagón/monólogo → loft / **Ciao, bella** (fin del 50) → **Halbrook en San Aurelio (50b) — cierra el Libro I**. ~~… apagón/monólogo → loft / Ciao, bella — cierra el Libro I~~ (orden de 2026-09-22, superado). |
+| III — Ardizzone | Conserva Matteo → H16 → crecimiento/Fabrizio → Tommaso/Mei-Lin (sembrado) → H13/Palermo → F1 → Camp Alder (H19) → **arco sin Kal (H20, Caps. 49–54; archivos 44–49):** institución, red, El Patio, Dario, los Bravos, Il Consorzio → convoy señuelo, apagón/monólogo → loft / **Ciao, bella** (fin del 55) → **Halbrook en San Aurelio (56) — cierra el Libro I**. ~~… apagón/monólogo → loft / Ciao, bella — cierra el Libro I~~ (orden de 2026-09-22, superado). |
 
 H8, F4, F3, F2, Villa, Stavanger y H1 ya no pertenecen a este libro — ver
 [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]. Elenna sólo aparece aquí de forma indirecta
 (el embarazo se confirma en Libro II, no en éste).
 
-> **TÍTULOS VIGENTES — CANON DEL AUTOR (2026-09-20):** C04 **Tarifa nocturna**; C21 **El primer huésped**; C22 **Causalidad**; C28 conserva **La correa**; C30 **Media Baraja**; C33 **Más de la cuenta**. Encabezados, archivos y rutas actualizados. Las menciones históricas a La primera llamada, La promesa, Sin rastro, Las cascadas y La periferia corresponden a estos mismos capítulos. Primera ronda cerrada. Registro: [[01_Timeline/08_Matriz_Renombramiento_Capitulos_Libro_I#Decisiones del autor — primera ronda (2026-09-20)]].
+> **RETITULADO — DECISIÓN DEL AUTOR (2026-10-21):** *(números en numeración corrida 2026-10-22; entre paréntesis, el archivo)* C12 (arch. 10) **Los muchachos comen** (antes *El loft del soltero*); C17 (arch. 15) **Yo lo llevo** (antes *El portón*); C18 (arch. 16) **El sobre rojo** (probado *Con miedo y todo* y revertido 2026-10-22 por el autor; conserva "Cuatro letras" como encabezado interno); C19 (arch. 17) **Le quedé debiendo** (antes *Cuentas claras*); C21 (arch. 19) **Lo que nadie estaba mirando** (antes *Tierra buena*); C22 (arch. 20) **Lo pequeño** (antes *El mirador*); C25 (arch. 23) **Nada caro** (antes *La letra pequeña*); C31 (arch. 27) **Lleve equipaje** (antes *Riesgo pendiente*); C32 (arch. 28) **No hace falta** (antes *La correa*; fue *Te queda grande* del 2026-10-21 al 2026-10-22, autor); C33 (arch. 29) **Una silla** (antes *El patio ajeno*); C37 (arch. 33) **Lo único que es mío** (antes *Más de la cuenta*; decidido 2026-10-22); C54 (arch. 49) **Por si vuelve** (antes *Enfrente*). C36 (arch. 32), C44 (arch. 39) y C45 (arch. 40) se mantienen. C20 (arch. 18), C23 (arch. 21) y C24 (arch. 22) se probaron como *Nadie lo llamó cita*, *Volvemos adentro* y *Como variación* y volvieron el 2026-10-22 (autor) a *El día nublado*, *El primer huésped* y *Causalidad*, decididos en la primera ronda. Solo cambia el encabezado visible; archivos y rutas conservan el nombre viejo. Los nombres de hito (H4, H11, H14…) no cambian. Registro: [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]].
+
+> **TÍTULOS VIGENTES — CANON DEL AUTOR (2026-09-20):** *(numeración corrida; entre paréntesis, el archivo)* C04 **Tarifa nocturna**; C23 (arch. 21) **El primer huésped**; C24 (arch. 22) **Causalidad**; C32 (arch. 28) conserva **La correa**; C34 (arch. 30) **Media Baraja**; C37 (arch. 33) **Más de la cuenta**. Encabezados, archivos y rutas actualizados. Las menciones históricas a La primera llamada, La promesa, Sin rastro, Las cascadas y La periferia corresponden a estos mismos capítulos. Primera ronda cerrada. Registro: [[01_Timeline/08_Matriz_Renombramiento_Capitulos_Libro_I#Decisiones del autor — primera ronda (2026-09-20)]]. C23, C24, C32 y C37 se retitularon de nuevo el 2026-10-21 (nota anterior).
 
 *Mapa narrativo operativo para montar la novela como libro y EPUB.*
 
@@ -64,10 +134,10 @@ El primer cruce ocurre en la entrada del casino: ella fuma, observa, se presenta
 Al final del Libro I, Kal y Chiara están reunidos pero sin haber hablado todavía de lo
 ocurrido — Kal liberado de un modo que no se explica, Chiara sin saber cómo. **"Ciao, bella."**
 Después, al alba, un hombre sin nombre (Halbrook) baja de un helicóptero en Kingsley Field y
-abre una carpeta con fotos de todos ellos; al reverso de una, "Chiara Bellandi" (Cap. 50b).
+abre una carpeta con fotos de todos ellos; al reverso de una, "Chiara Bellandi" (Cap. 56, archivo 50b).
 Chiara le debe a Dario una cuenta abierta, su nombre quedó escrito con los Bravos y
 Il Consorzio le ofreció el Monarch.
-El imperio, la guerra, la pérdida de Bonnie y Mei-Lin y el embarazo ~~y la llegada de Halbrook~~ (pasó al 50b, 2026-10-01)
+El imperio, la guerra, la pérdida de Bonnie y Mei-Lin y el embarazo ~~y la llegada de Halbrook~~ (pasó al 56 —archivo 50b—, 2026-10-01)
 pertenecen al Libro II en adelante. La imagen final de la saga completa (Palermo, la niña en
 casa) sigue siendo la de *Cuentas de Sangre* — ver [[00_Biblia/00_Trilogy_Structure]].
 
@@ -306,7 +376,7 @@ Elenna no es un *stake* ornamental ni la única razón de Palermo. Palermo tambi
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/16_El_Sobre_Rojo]] — **Capítulo 17**, FUSIONADO (2026-09-03). Título oficial "El sobre rojo"; conserva "Cuatro letras" como nombre de su segunda mitad (encabezado interno). **Primera mitad (POV Kal):** vuelve del campamento todavía riéndose de un chiste con Marisol sobre el "balayage" que ella quiere hacerse en las puntas, encuentra el sobre rojo del Monarch bajo la puerta y por un segundo cree que es una invitación elegante. Abre el sobre y enciende el teléfono (apagado desde el viernes) casi al mismo tiempo — reconoce el aroma de siempre (canela, vainilla) antes que la letra. Lee la carta justo cuando la pantalla se llena de llamadas perdidas en cascada y el mensaje de voz de Walt. Corre al casino antes que al hospital; Chiara le cuenta lo que pasó (sin lo de Irene — ella tampoco lo sabe todavía) y que Nadir y Danny están desaparecidos sin explicación. **Segunda mitad ("Cuatro letras"):** ya en el hospital, Chiara visitándolo a diario, la conversación donde Héctor le pregunta por qué le insiste tanto a él y no a Kal; Kal llega con Chiara, ella les da el cuarto; Héctor le dice a Kal que decidir de qué protege a Chiara no es suyo, es de ella — y le cuenta, por primera vez, que él mismo dejó ir a una mujer sin decirle "amor" completo mientras todavía servía de algo, y envejeció enojado por eso. Cierra con Chiara volviendo con un termo de café, la mano en el hombro y la mano sobre la mano, y la escena en el auto donde ella le pregunta por el campamento.
 
 
-- [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/17_Cuentas_Claras]] — **Capítulo 18**, FUSIONADO (2026-09-03). Título oficial "Cuentas claras"; conserva "Anticiparse" como nombre de su escena de cierre (encabezado interno). Resuelve el hilo del robo de Nadir y Danny (ver [[03_Factions/La_Ronda_del_Canal]]). **Primera parte:** abre con POV del mundo criminal en operación — Tomas Vale ejecuta el golpe de advertencia de Irene dentro de la Almendra (un minimarket, mercancía equivalente a lo robado, marca de La Ronda visible) — no violencia contra personas, mensaje calculado. Walt le cuenta a Kal; sin Héctor (hospitalizado, su mejor negociador), Kal y Walt van solos al Canal Seco, llegan sin armas mientras la gente de Irene los recibe armada, y negocian con **Irene Salcedo** (primera aparición en prosa) con Nadir y Danny físicamente retenidos presentes. Kal usa el desconocimiento genuino de los chicos como palanca y, para no deberle un favor a Irene, propone que Nadir y Danny le muevan mercancía gratis, asumiendo ellos el riesgo legal. Cierra con devolución íntegra + el trabajo de los chicos como pago, territorios respetados, y la confirmación tácita de que La Almendra tiene dueño: Kal Mercer. **Segunda parte ("Anticiparse"):** reunión de todo el barrio en casa de Héctor, ya de vuelta y recuperándose. Recuento de causas y consecuencias: el costo real (dos pares de manos menos en el taller) y el dato más incómodo — el rumor de la bodega era demasiado preciso para ser chisme de calle, señal de que alguien con acceso real lo sembró a propósito. Los personajes no llegan a identificar quién ni por qué (ver [[02_Characters/Dario_Varek]] para el trasfondo de lore, nunca confirmado en prosa). Cierra con Kal a solas con Nadir y Danny: no está enojado por la decisión que tomaron, sino por no haberlo puesto al tanto — la sorpresa le cuesta más que el error, porque le impide anticiparse.
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/17_Cuentas_Claras]] — **Capítulo 18**, FUSIONADO (2026-09-03). Título oficial "Le quedé debiendo"; conserva "Anticiparse" como nombre de su escena de cierre (encabezado interno). Resuelve el hilo del robo de Nadir y Danny (ver [[03_Factions/La_Ronda_del_Canal]]). **Primera parte:** abre con POV del mundo criminal en operación — Tomas Vale ejecuta el golpe de advertencia de Irene dentro de la Almendra (un minimarket, mercancía equivalente a lo robado, marca de La Ronda visible) — no violencia contra personas, mensaje calculado. Walt le cuenta a Kal; sin Héctor (hospitalizado, su mejor negociador), Kal y Walt van solos al Canal Seco, llegan sin armas mientras la gente de Irene los recibe armada, y negocian con **Irene Salcedo** (primera aparición en prosa) con Nadir y Danny físicamente retenidos presentes. Kal usa el desconocimiento genuino de los chicos como palanca y, para no deberle un favor a Irene, propone que Nadir y Danny le muevan mercancía gratis, asumiendo ellos el riesgo legal. Cierra con devolución íntegra + el trabajo de los chicos como pago, territorios respetados, y la confirmación tácita de que La Almendra tiene dueño: Kal Mercer. **Segunda parte ("Anticiparse"):** reunión de todo el barrio en casa de Héctor, ya de vuelta y recuperándose. Recuento de causas y consecuencias: el costo real (dos pares de manos menos en el taller) y el dato más incómodo — el rumor de la bodega era demasiado preciso para ser chisme de calle, señal de que alguien con acceso real lo sembró a propósito. Los personajes no llegan a identificar quién ni por qué (ver [[02_Characters/Dario_Varek]] para el trasfondo de lore, nunca confirmado en prosa). Cierra con Kal a solas con Nadir y Danny: no está enojado por la decisión que tomaron, sino por no haberlo puesto al tanto — la sorpresa le cuesta más que el error, porque le impide anticiparse.
   - **Cirugía 2026-09-26:** escena de Tomás Vale en el minimarket cortada (5-ter; Walt nombra a Irene, Irene nombra a Tomás); negociación, recuento y Tasador compactados; "¿Y si es Darío?" y la última frase interpretativa cortados. Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17]].
 
 
@@ -318,7 +388,7 @@ Elenna no es un *stake* ornamental ni la única razón de Palermo. Palermo tambi
 
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/22_Causalidad]] — **Capítulo 22 — Causalidad**, ESCRITO. Ejecuta beats 16 y 17. Un huésped ebrio choca un auto cerca del Monarch y se va; Chiara necesita que desaparezca antes de convertirse en demanda. Kal se lleva el auto con la grúa y lo desarma; ella reescribe el registro sin tocar las cámaras ni mentir en nada verificable. Se reparten el problema sin discutir quién hace qué — la fórmula, sin nombrarla, y **sin declararse "la primera operación conjunta"**: ese título lo conserva H5, más adelante. Cierra con Dario enterándose por Tommaso de que Chiara resolvió algo sola, y anotándolo como variación.
 
-- [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/23_La_Letra_Pequena]] — **Capítulo 24**, BORRADOR (catchup 2026-09-09; reescrito 2026-09-09 con las 5 decisiones del autor; falta revisión final). Sin ID de hito propio. **Jonathan Hoover**, dueño en papel del espacio del concesionario, excluye a Kal del acuerdo y retiene pagos que él considera suyos. El sobre con sello es la **notificación formal** — Kal ya lo sabía desde la videollamada de *Tierra buena*, no es un descubrimiento. Kal decide pelear por vía civil, no por presión de calle ("si lo arreglo con hombres, la próxima vez el papel vale más que yo"). Usa el contacto que Chiara le pasó en *Tierra buena*: **Margaret Rivers**, abogada con historia propia con el fiscal de distrito desde la facultad. Garrett Cross convierte meses de conducta informal en tres carpetas de evidencia. Kal rechaza una primera oferta económica porque necesita que quede escrito que sí fue parte, no el dinero. La otra parte agrega como testigo a Tommaso Lusardi, sin explicación. **(2026-09-27, auditoría Parte I lote B, E4–E5):** sembrados el cheque del Monarch firmado por Matteo y la segunda frase del mensaje de Chiara (rima 24↔44); **escena nueva de la moto de Nadir** (5-sexies, 438 palabras) entre "lo quiero por escrito" y la respuesta de Hoover: Nadir compra una moto con dinero de la caja de los tratos sin avisar; líneas canon "¿Por qué no me dijiste?" / "Porque ibas a decir que no." / "Iba a decir que sí."; Kal repone, Nadir paga en abonos. BORRADOR/DISEÑO hasta lectura del autor. Paga en F1 (42) sólo por conducta. Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B]].
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/23_La_Letra_Pequena]] — **Capítulo 24**, BORRADOR (catchup 2026-09-09; reescrito 2026-09-09 con las 5 decisiones del autor; falta revisión final). Sin ID de hito propio. **Jonathan Hoover**, dueño en papel del espacio del concesionario, excluye a Kal del acuerdo y retiene pagos que él considera suyos. El sobre con sello es la **notificación formal** — Kal ya lo sabía desde la videollamada de *Lo que nadie estaba mirando*, no es un descubrimiento. Kal decide pelear por vía civil, no por presión de calle ("si lo arreglo con hombres, la próxima vez el papel vale más que yo"). Usa el contacto que Chiara le pasó en *Lo que nadie estaba mirando*: **Margaret Rivers**, abogada con historia propia con el fiscal de distrito desde la facultad. Garrett Cross convierte meses de conducta informal en tres carpetas de evidencia. Kal rechaza una primera oferta económica porque necesita que quede escrito que sí fue parte, no el dinero. La otra parte agrega como testigo a Tommaso Lusardi, sin explicación. **(2026-09-27, auditoría Parte I lote B, E4–E5):** sembrados el cheque del Monarch firmado por Matteo y la segunda frase del mensaje de Chiara (rima 24↔44); **escena nueva de la moto de Nadir** (5-sexies, 438 palabras) entre "lo quiero por escrito" y la respuesta de Hoover: Nadir compra una moto con dinero de la caja de los tratos sin avisar; líneas canon "¿Por qué no me dijiste?" / "Porque ibas a decir que no." / "Iba a decir que sí."; Kal repone, Nadir paga en abonos. BORRADOR/DISEÑO hasta lectura del autor. Paga en F1 (42) sólo por conducta. Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B]].
 
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24_Bajo_Juramento]] — **Capítulo 25**, BORRADOR (catchup 2026-09-09; reescrito 2026-09-09; falta revisión final). Continuación directa del Cap. 24. Chiara testifica sobre la primera noche en el Monarch y, bajo pregunta directa, se corrige a media frase de "mi..." a "...amigo" — **primera grieta permitida de la unión invisible** (decisión del autor: queda en registro semipúblico como siembra). **Tommaso Lusardi da testimonio inesperado y favorable a Kal**, estirando la verdad para afirmar que existió un acuerdo verbal de beneficio mutuo — sin volverse aliado, sin explicar su motivo y sin dar ninguna pista del Consorzio (**REGLA DURA del autor: su motivo no se paga aquí**). **No hay fallo del juez:** el abogado contrario **Giancarlo Krane**, viendo el caso perdido tras Tommaso, propone acuerdo en el cuarto intermedio — la parte de Kal en efectivo sobre el **valor actual del inmueble** + inversión + beneficios retenidos + un párrafo que impide volver a negar que fue parte. Conflicto total ~2 semanas. Al cerrar, Kal le da a Hoover un apretón fuerte y medido ("sin rencor") y le pasa a Krane un teléfono en media hoja: le quiere ofrecer trabajo — **semilla del bufete "Rivers & Krane"**. Dos días después, Kal entra con parte del dinero como **participación minoritaria en Villani Motors** (ver [[03_Factions/Villani_Motors]]). Cierra con Kal mirando un Lancia oscuro en el showroom, sin llamar todavía.
 
@@ -348,9 +418,9 @@ Elenna no es un *stake* ornamental ni la única razón de Palermo. Palermo tambi
 
 **· · · CORTE PARTE II → PARTE III — ARDIZZONE · · ·** *(fijado 2026-09-20, autor)*
 
-**Parte III — Ardizzone (Caps. 35–44), en `Part_03_Ardizzone/`; auditoría editorial 2026-09-27:** los diez operados por etapas (E1–E9) según [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]]. 35 *Sin fecha de regreso* (recibe en E9 la escena de Anya en el Monarch, BORRADOR/DISEÑO; la coda de las invitaciones pasó al 36) · 36 *También las mañanas* (H16, compactado) · 37 *Cuatro letras* · 38 *Al revés* (8,628 → 7,785, sin vela) · 39 *Un par de días más* · 40 *Mecánico* · 41 *La otra mitad* · 42 *Nada* (F1) · 43 *La puerta* (H19) · 44 *A oscuras* (H20, cierra el Libro I). Títulos 36–38 confirmados por el autor. Los diez siguen en BORRADOR; prosa 31,999 → 31,032. **Nota (2026-10-01):** el 44 de esta lista se rehízo como *Jurisdicción*; *A oscuras* es ahora el 50 y ya no cierra el libro.
+**Parte III — Ardizzone (hoy Caps. 40–56, archivos 35–50b; esta nota de 2026-09-27 cubre los archivos 35–44 = Caps. 40–49 y usa la numeración de entonces), en `Part_03_Ardizzone/`; auditoría editorial 2026-09-27:** los diez operados por etapas (E1–E9) según [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]]. 35 *Sin fecha de regreso* (recibe en E9 la escena de Anya en el Monarch, BORRADOR/DISEÑO; la coda de las invitaciones pasó al 36) · 36 *También las mañanas* (H16, compactado) · 37 *Cuatro letras* · 38 *Al revés* (8,628 → 7,785, sin vela) · 39 *Un par de días más* · 40 *Mecánico* · 41 *La otra mitad* · 42 *Nada* (F1) · 43 *La puerta* (H19) · 44 *A oscuras* (H20, cierra el Libro I). Títulos 36–38 confirmados por el autor. Los diez siguen en BORRADOR; prosa 31,999 → 31,032. **Nota (2026-10-01):** el 44 de esta lista se rehízo como *Jurisdicción*; *A oscuras* es ahora el 50 y ya no cierra el libro.
 
-**Arco final sin Kal (Caps. 44–50b, H20), en `Part_03_Ardizzone/`:** redactado 2026-10-02 según [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]; auditado y operado en E0–E8 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]], microedición cerrada 2026-10-05, −370 palabras); calendario corrido una semana el 2026-10-06 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]). [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/44_Jurisdiccion|44 *Jurisdicción*]] (la institución) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/45_Ropa_Limpia|45 *Ropa limpia*]] (su red; la prueba de vida; la Navidad sin Kal) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/46_Llaves|46 *Llaves*]] (El Patio) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/47_Intereses|47 *Intereses*]] (Dario; la cuenta abierta) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/48_Su_Nombre|48 *Su nombre*]] (los Bravos) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/49_Enfrente|49 *Enfrente*]] (Valenti, el Monarch) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/50_A_Oscuras|50 *A oscuras*]] (el apagón, el monólogo, "Ciao, bella") · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/50b_La_Tierra_Bajo_Sus_Botas|50b *La tierra bajo sus botas*]] (Halbrook; cierra el libro). Los ocho siguen en BORRADOR.
+**Arco final sin Kal (Caps. 49–56 (archivos 44–50b), H20), en `Part_03_Ardizzone/`:** redactado 2026-10-02 según [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]; auditado y operado en E0–E8 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]], microedición cerrada 2026-10-05, −370 palabras); calendario corrido una semana el 2026-10-06 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]). [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/44_Jurisdiccion|49 *Jurisdicción*]] (la institución) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/45_Ropa_Limpia|50 *Ropa limpia*]] (su red; la prueba de vida; la Navidad sin Kal) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/46_Llaves|51 *Llaves*]] (El Patio) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/47_Intereses|52 *Intereses*]] (Dario; la cuenta abierta) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/48_Su_Nombre|53 *Su nombre*]] (los Bravos) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/49_Enfrente|54 *Por si vuelve*]] (Valenti, el Monarch) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/50_A_Oscuras|55 *A oscuras*]] (el apagón, el monólogo, "Ciao, bella") · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/50b_La_Tierra_Bajo_Sus_Botas|56 *La tierra bajo sus botas*]] (Halbrook; cierra el libro). Los ocho siguen en BORRADOR.
 
 ## Proximo paso
 

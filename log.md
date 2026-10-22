@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-22: [[98_Agent_Handoff/sessions/2026-10-22_claude_retitulado_y_renumeracion_libro_i]] · Libro I: segunda ronda de títulos (11 cambian; archivos 16, 18, 21 y 22 conservan el suyo) y numeración corrida definitiva de 56 capítulos; archivos sin renombrar.
 - 2026-10-22: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]] · CANON: Vento, viejo corredor del Monarch que Chiara compró al llegar; el trato de no montarlo el día que no quiera salir; muere a mediados de octubre (Cap. 33b *La mano*, nuevo), no dos semanas antes del cumpleaños; Kal llega antes de la decisión. Siembra al final del 33. Prosa DISEÑO. Sincronizados H16, fichas de Chiara e Hipódromo, Matriz y 36:164 ("desde Vento").
 - 2026-10-22: [[97_Supersedido/README]] · mantenimiento de fichas de Fabrizio (y voz), Tommaso, Volpi y Livia Ferraro: historial superado a `97_Supersedido/`, sin cambiar canon; dudas en PENDING.
 - 2026-10-22: [[02_Characters/Rocco]] · CANON: Rocco sale desde el Cap. 1; siembras en los caps. 1, 23, 30, 32 y 46 (prosa DISEÑO) para el momento "John Wick" de El Patio en *Sombras de Poder*.

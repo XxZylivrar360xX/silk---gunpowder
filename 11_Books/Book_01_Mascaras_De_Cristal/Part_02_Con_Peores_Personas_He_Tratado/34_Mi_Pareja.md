@@ -1,7 +1,8 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 34; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — cierra la Parte II (Cap. 34 de 34). Redactado 2026-09-20, Claude Code, encargo del autor. Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]], § 9 parte 4). Ampliación de diálogo cómico 2026-10-04 (material del autor, ver abajo); sigue BORRADOR, pendiente de lectura del autor.
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 2 cortes (N34-1, N34-2); gag intacto; sigue BORRADOR.
-Renumerado en cascada (2026-09-20, encargo del autor): se insertó el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Cap. 32 — Línea directa]] (Kal/Lucia Varek) antes de "La periferia". Este archivo pasó de 33 a 34; "La periferia" (hoy *Más de la cuenta*) pasó de 32 a 33.
+Renumerado en cascada (2026-09-20, encargo del autor): se insertó el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Cap. 32 — Línea directa]] (Kal/Lucia Varek) antes de "La periferia". Este archivo pasó de 33 a 34; "La periferia" (luego *Más de la cuenta*; hoy *Lo único que es mío*, Cap. 37) pasó de 32 a 33.
 Protagonistas: Kal Mercer (POV único). Chiara Bellandi. En escena al abrir: Walt Keegan. Voces sólo por teléfono: Dario Varek, Danny Hayes, Nadir Amrani (altavoz), Marisol Grayson. Mencionados sin aparición: Kenji Oda; la viuda (clienta del Monarch, sin nombre).
 Ventana temporal: semanas después del Cap. 33 (Más de la cuenta), sin fecha exacta — mismo tipo de elipsis que abre ese capítulo.
 Lugares: [[05_Locations/Destileria_de_Walt|la destilería de Walt]] (apertura, en escena); después el camino de grava junto al ramal de ferrocarril, borde industrial de La Almendra, de vuelta hacia el loft. Nota (2026-09-20, corrección del autor): se retiró [[05_Locations/Bellandi_Ridge_Vineyards]] — todavía no existe en este punto de la historia.
@@ -17,7 +18,7 @@ Función: CANON DEL AUTOR. Ejecuta [[06_Relationships/Hitos#H21 — Mi pareja|H2
 - Continuidad vehicular: Audi A7 de Kal (segundo auto, ver Cap. 24c — El corral). Sin Lancia en escena; Chiara se va con él desde la destilería de Walt.
 -->
 
-# Capítulo 34 — Mi pareja
+# Capítulo 39 — Mi pareja
 
 La destilería olía a maíz cocido y a madera nueva y, a esa hora de la tarde, también a pegamento. Walt había alineado sobre la mesa de trabajo las etiquetas descartadas en cuatro filas de diez, como quien cuenta fichas al final de una mala noche, y Chiara estaba de pie frente a ellas, descalza sobre el cemento, con los zapatos en una mano.
 

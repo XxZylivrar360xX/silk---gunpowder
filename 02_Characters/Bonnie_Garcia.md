@@ -1,5 +1,7 @@
 # Bonnie García
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 > **CANON DEL AUTOR (2026-10-02):** el personaje antes llamado **Riley Bennett** se llama ahora **Bonnie García** (cambio de nombre y apellido; se evita el guiño a *The Vampire Diaries*). Renombrado global en el vault.
 
 ## El día de F2 — CANON DEL AUTOR 2026-09-20

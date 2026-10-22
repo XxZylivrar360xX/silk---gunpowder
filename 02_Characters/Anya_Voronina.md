@@ -1,5 +1,7 @@
 # Anya Voronina
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 *Seda y Pólvora - Ficha de Personaje*
 
 > **CANON DE DISEÑO (2026-08-23):** la mujer contacto rusa que consiguió los papeles de [[02_Characters/Nadir_Amrani]]. Amor pasado de Kal durante la época de Afganistán, cuando él todavía no creía en el amor auténtico y entendía casi toda relación como transacción.

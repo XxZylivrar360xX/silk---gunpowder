@@ -1,6 +1,8 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 49; numeración corrida definitiva, el archivo conserva su nombre.
+Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «Enfrente».
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 49 (sexto del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
-Título: PENDIENTE. "Enfrente" es de trabajo (DISEÑO).
+Título: RESUELTO 2026-10-21 (decisión del autor): «Por si vuelve». "Enfrente" era título de trabajo.
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
 Personajes con diálogo: Leone Valenti, Fabrizio Rinaldi (noche de D12), una voz de mujer en Nueva York (por teléfono), el portero del Monarch, la recepción del Monarch (por teléfono).
 Ventana temporal: mañana de D12 (lunes) a tarde de D13 (martes, antes del convoy). Sin encabezados de fecha.
@@ -27,7 +29,7 @@ DISEÑO del agente, pendiente de lectura:
 - No se usa "Qué lamentable" (no está sembrado en prosa; queda reservado). No se describe a Valenti más allá de lo fijado en el Cap. 40; apariencia y manía siguen PENDIENTE. No se nombra a Halbrook ni el señuelo. Sin EPUB, commit ni push.
 -->
 
-# Capítulo 49 — Enfrente
+# Capítulo 54 — Por si vuelve
 
 El billete estaba sobre el escritorio, doblado en dos, del lado de afuera de la carpeta de la nómina.
 

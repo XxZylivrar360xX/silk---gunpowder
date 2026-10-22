@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 30; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — quinto capítulo de la Parte II. Pendiente de revisión del autor. Cirugía editorial E6 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): poda por movimiento, plan contra Varek bajado a pacto (V2, decisión del autor), cronología fija, POV, auto (Peugeot) y sedán; sigue BORRADOR.
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 12 cortes (N30-1 a N30-11, D-5); sigue BORRADOR.
 - RETRATO HALBROOK (2026-09-28, reconstrucción canónica del autor, [[02_Characters/Warren_Halbrook]]): en las cascadas, Kal ya no dice que Halbrook habló "con la misma voz con la que se pide un café" (voz administrativa retirada); ahora: "como si me estuviera haciendo el favor de explicármelo". Nada más cambia.
@@ -41,7 +42,7 @@ DOCUMENTOS DE `develop` QUE SIGUEN DESACTUALIZADOS por la reescritura del Cap. 2
 Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): en la coda, come del rin que Walt le lijo para plato, al pie de la fosa. Ficha: 02_Characters/Rocco.md.
 -->
 
-# Capítulo 30 — Media Baraja
+# Capítulo 34 — Media Baraja
 
 El camino se acabó mucho antes de que el ruido de agua empezara. Kal tomó la última curva de tierra sin asfalto y detuvo el Audi junto a un roble solo; el Lancia se detuvo detrás, el mismo cuerpo de distancia que había mantenido toda la carretera. Apagó el motor sin decir nada, como si el silencio fuera parte de la explicación. Chiara apagó el suyo un segundo después.
 

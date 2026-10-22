@@ -1,4 +1,6 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 15; numeración corrida definitiva, el archivo conserva su nombre.
+Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «El portón».
 Estado: TERMINADO. Cirugia editorial 2026-09-26 (Prioridad C, autorizada por el autor, sigue TERMINADO): corte de la apertura de Nadir y Danny y de "Dos dias antes" (5-ter; ademas corregia una cronologia rota: la escena caia en domingo con los dos ya retenidos), prolepsis de Lucia, recuento a Walt comprimido, sedan y reflexion del corazon compactados, "Contame" -> "Cuenteme". Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17.md.
 Cirugia de dialogo de terceros 2026-10-04 (S2 del Plan_Cirugia_Terceros_Parte_I; sigue TERMINADO): escena de Lucia en el hospital reescrita por decision del autor (va la subjefa a proposito, sin uniforme; fuera "uniformada, joven" y la explicacion de la rutina; cruce de apellidos Varek/Bellandi). La prosa nueva es DISENO pendiente de lectura del autor. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I.md.
 Protagonistas: Chiara Bellandi, con apariciones de Walter Keegan y Lucia Varek (Nadir Amrani y Daniel Hayes solo mencionados, inalcanzables). Hector Navarro presente pero inconsciente/fuera de escena tras el infarto.
@@ -8,7 +10,7 @@ Funcion: capitulo exclusivo POV Chiara (2026-09-03, a peticion del autor -- sepa
 Apertura por residuo: arranca del cierre del Capitulo 14 -- pero el beat de las llamadas perdidas de Kal se recoloca al Capitulo 16: aqui, del lado de Chiara, no hay ninguna resolucion todavia.
 -->
 
-# Capítulo 15 — El portón
+# Capítulo 17 — Yo lo llevo
 
 El mismo viernes que Kal cargaba la camioneta para el campamento, del otro lado de la ciudad, Chiara conducía el sedán negro del Monarch — un Mercedes-Benz Clase S que la empresa le había asignado como quien asigna un traje, sin preguntar si le quedaba bien — con las dos manos en el volante y la espalda más recta de lo que el asiento pedía. Nunca se había sentido cómoda manejando; prefería que la llevaran, prefería mirar por la ventana en vez de vigilar el espejo. Pero era, por ahora, el método más rápido que tenía para moverse sola sin explicarle a nadie a dónde iba ni por qué — así que manejaba, con el catálogo y una bolsa de pan todavía caliente en el asiento del copiloto, hacia la casa de Héctor.
 

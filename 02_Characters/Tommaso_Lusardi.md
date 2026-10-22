@@ -1,5 +1,7 @@
 # Tommaso Lusardi
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 *Seda y Polvora - Ficha de Personaje*
 
 > **PROVISIONAL (2026-08-24):** nombre de trabajo para el hermano de [[02_Characters/Alessio_Lusardi]], exmarido de [[02_Characters/Chiara_Bellandi]]. La funcion viene del autor; el nombre puede cambiar.

@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 41; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, séptimo capítulo (Cap. 41 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "La otra mitad". No es provisional. **Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_III]]):** el vuelo de Kal "había llegado"; la fiesta del yate "la semana anterior" (no "semanas atrás"); Bonnie deja de ser escucha-confidente (se cortan dos silencios de escucha y la frase "las dos cosas se me quedaron pegadas"; la foto de la boda se funde al parlamento anterior); firma de Bonnie variada por posición de otros (los dos de seguridad), sin callback al yate. "¿Y él qué dijo cuando volvieron?" se conserva. Detalle en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]] § 9 parte 3. Sigue BORRADOR hasta lectura del autor.
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal Mercer no aparece en escena: sólo su voz, por teléfono, y su ausencia sostenida a través del loft y de la llave que Chiara no usa.
 Personajes con diálogo: Chiara Bellandi, Bonnie García, Kal Mercer (por teléfono, una línea). Fabrizio Rinaldi con diálogo breve, por teléfono.
@@ -20,7 +21,7 @@ Función: la otra mitad de Palermo, desde Chiara. Muestra lo que Kal no pudo ver
 - Ajuste 2026-10-22 (CANON DEL AUTOR): Chiara entra al país por Nueva York, donde atiende pendientes del casino de allá, y de ahí vuela a San Aurelio; así la llegada a Kingsley es doméstica y no necesita revisión de migración. Una frase añadida tras la llegada del jet.
 -->
 
-# Capítulo 41 — La otra mitad
+# Capítulo 46 — La otra mitad
 
 El sol ya se acostaba sobre Kingsley Field cuando el jet se detuvo al final de la pista, lejos de la terminal comercial a la que el vuelo de Kal había llegado unas horas antes. Chiara había entrado al país por Nueva York, con un día de pendientes del casino de allá antes de seguir al oeste.
 

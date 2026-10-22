@@ -1,4 +1,6 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 21; numeración corrida definitiva, el archivo conserva su nombre.
+Retitulado 2026-10-21 a «Volvemos adentro» y revertido 2026-10-22 (decisión del autor): se conserva «El primer huésped», decidido en la primera ronda (2026-09-20).
 Protagonistas: Kal Mercer, Chiara Bellandi, Marisol Grayson.
 Ventana temporal: la misma madrugada que cierra el Capitulo 20 (El mirador) -- horas despues de la primera intimidad, todavia de noche cerrada, NO amanecer.
 Lugares: El Penthouse, un club en algun punto de la ciudad, La Casa (el loft de Kal).
@@ -14,7 +16,7 @@ Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasad
 Nombre del lago del imán (2026-10-08, encargo del autor; DISEÑO): *Lake Meriwether*. No es [[05_Locations/El_Lago]] (H7).
 -->
 
-# Capítulo 21 — El primer huésped
+# Capítulo 23 — El primer huésped
 
 El teléfono sonó a las tres y algo de la madrugada, en la oscuridad completa del penthouse.
 

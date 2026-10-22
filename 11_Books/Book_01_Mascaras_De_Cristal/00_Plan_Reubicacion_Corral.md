@@ -5,6 +5,8 @@ CLASIFICACION: DOCUMENTO DE PLANEACION / CANON DEL AUTOR + DISEÑO / NO ES CAPIT
 
 # Plan — Reubicación del Corral y nuevo detonante del barrio (Parte I)
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 > **2026-10-04, Claude Code, en conversación con el autor. EJECUTADO en prosa el mismo día (BORRADOR, pendiente de lectura): ver "Orden de trabajo".** Marcas: **CANON DEL AUTOR** = decisión del autor en esta conversación; **DISEÑO** = propuesta del agente, discutible; **PENDIENTE** = decide el autor.
 
 ## Problema

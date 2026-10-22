@@ -1,4 +1,6 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 16; numeración corrida definitiva, el archivo conserva su nombre.
+Retitulado 2026-10-21 a «Con miedo y todo» y revertido 2026-10-22 (decisión del autor): se conserva «El sobre rojo».
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-26 (Prioridad C, autorizada por el autor, sigue TERMINADO): prolepsis de la cocina, saltos de POV (casino, cuarto, auto anclado en Kal), parte del infarto a Kal comprimido, contradiccion "llegaron / seguia conduciendo" al Monarch, tercera "respuesta suficiente", siembra de Matteo ("Matteo cubre el piso", hilo C; rima con el Cap. 41). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17.md.
 Cirugia de dialogo de terceros 2026-10-04 (S2 del Plan_Cirugia_Terceros_Parte_I; sigue TERMINADO): visita de Chiara a Hector podada por decision del autor -- Hector solo pregunta y gruñe; salen sus aforismos ("Se equivoca acompañada...", "sostener algo con el cuerpo..."), "Usted ya siente por el...", "con usted no me sale ser el cascarrabias" y el tuteo; la ternura queda para el monologo del Cap. 24c. Chiara se va con la pregunta "¿Y el que no le ha contado a usted?" (decision del autor). Lineas de Chiara intactas salvo el ajuste minimo de enlace. "Cuatro letras" intacta. La prosa nueva es DISENO pendiente de lectura del autor. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I.md.
 Protagonistas: Kal Mercer, Chiara Bellandi, Hector Navarro.
@@ -8,7 +10,7 @@ Funcion: FUSIONADO (2026-09-03), a peticion del autor -- el antiguo Cap. 17 (El 
 Apertura por residuo: arranca del cierre del Capitulo 15 -- el sobre rojo bajo la puerta del loft, dejado ahi por Chiara sin revelar su contenido.
 -->
 
-# Capítulo 16 — El sobre rojo
+# Capítulo 18 — El sobre rojo
 
 El sobre rojo estaba en el suelo, junto a la puerta.
 

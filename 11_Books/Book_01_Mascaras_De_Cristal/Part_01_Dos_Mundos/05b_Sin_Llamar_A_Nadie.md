@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 05b; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: TERMINADO (heredado del Cap. 5; segmentado).
 Segmentacion (2026-10-22, decision del autor): el antiguo Cap. 5 (Una amiga, ~11,800 palabras, fusion de 2026-09-10) se divide en 5a Cliente y proveedor, 5b Sin llamar a nadie y 5c La pizza de calabaza, sin renumerar el resto. La cita de Kal y Chiara (de Rocco a la despedida) queda entera en 5c.
 Funcion: la costumbre. Varga no vuelve, Kal empieza a llegar sin emergencia, Tommaso, la caseta deja de pedirle nombre.
@@ -6,7 +7,7 @@ Historial de cirugias y decisiones del antiguo Cap. 5 (Una amiga), previo a la s
 Arco de Blake (2026-10-22, decision del autor; prosa DISENO pendiente de lectura): seccion nueva tras la salida de carga (grua de Almendra en la entrada y "Esas trabajan para nosotros"; cena en el Distrito Marino, Blake bueno a solas y trofeo ante el sargento de La Isla, contesta por ella; el domingo no: "Monto", Blake no lo oye) y cierre nuevo: el beso en la entrada del Monarch, correcto y sin vibracion, sin glosa ni comparacion con Kal; contrasta solo con la apertura de 5c (Rocco).
 -->
 
-# Sin llamar a nadie
+# Capítulo 6 — Sin llamar a nadie
 
 Varga no volvió.
 

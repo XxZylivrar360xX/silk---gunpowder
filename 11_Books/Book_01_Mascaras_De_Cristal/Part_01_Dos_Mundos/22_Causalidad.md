@@ -1,4 +1,6 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 22; numeración corrida definitiva, el archivo conserva su nombre.
+Retitulado 2026-10-21 a «Como variación» y revertido 2026-10-22 (decisión del autor): «Causalidad se queda», como en la primera ronda (2026-09-20).
 Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md). SURGERY 2026-09-27 (auditoria Parte I, lote B, E4; ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B §9 parte 2): cortadas dos prolepsis por §L ("O eso creian los dos esa manana" y la cola del auto que "iba a tardar mucho tiempo en volver a existir"); separador --- normalizado a ***. Estado conservado. SIEMBRA 2026-10-04 (decision del autor sobre C5 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_24c_El_Corral]]; texto DISEÑO, pendiente de lectura): en la oficina, cuatro replicas nuevas siembran Eagle Eye (seguridad del Monarch), Charles (supervisor; CANON DEL AUTOR: antes "Cesar") y el acoso de Caluca, que el 24c cobra ("Kal lo conocia de oidas"). El resto del capitulo sigue TERMINADO.
 Protagonistas: Chiara Bellandi, Kal Mercer, con aparicion breve de Dario Varek. Mencionados: Charles y Caluca (Eagle Eye).
 Ventana temporal: dias despues del Capitulo 21 (El primer huesped; titulo de trabajo anterior: La promesa). Reordenado el 2026-08-29; renumerado varias veces, la ultima el 2026-09-07 al insertar el Capitulo 21 nuevo (El primer huesped).
@@ -9,7 +11,7 @@ Microcirugia de dialogo K/C 2026-10-04 (autorizada por el autor; [[13_Auditorias
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); el estado se conserva; DISENO pendiente de lectura): fuera "Deberia preocuparme?" de Tommaso; ahora espera, Dario ordena "Anotalo" y Tommaso "no le dijo que ya lo tenia anotado" (el que vigila es el; canon 2026-10-04 de su ficha).
 -->
 
-# Capítulo 22 — Causalidad
+# Capítulo 24 — Causalidad
 
 Faltaban veinte para las cinco cuando sonó el teléfono, y Chiara no saludó.
 

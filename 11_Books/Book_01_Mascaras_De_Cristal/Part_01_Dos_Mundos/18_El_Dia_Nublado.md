@@ -1,4 +1,6 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 18; numeración corrida definitiva, el archivo conserva su nombre.
+Retitulado 2026-10-21 a «Nadie lo llamó cita» y revertido 2026-10-22 (decisión del autor): se conserva «El día nublado», decidido en la primera ronda (2026-09-20).
 Lluvia (2026-10-08, CANON DEL AUTOR; prosa DISEÑO pendiente de lectura; el resto sigue TERMINADO): la nube se rompe ya en el penthouse, torrencial, y el agua borra la ciudad en el ventanal. Se descartan la subida con lluvia, el elevador y el casino cerrado.
 PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto). Supersede la decisión del 2026-09-27 "la luz del golf queda como está". Cambios: postal del campo bajo la nube al abrir el juego (césped sin brillo, humedad de riego en la sombra, el lago sin reflejo, banderas quietas); el putt del cuarto hoyo; en el octavo, Kal saca la bola del búnker y limpia la arena húmeda del palo antes de contestar; la vuelta a pie por la orilla del lago tras la confesión, en silencio, hasta la casa club (sustituye el "carrito" que aparecía de golpe: iban a pie desde el primer hoyo); Kal deja las bolsas en el mostrador y sube al auto.
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras M6 verificada y CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): cierra en "Nadie llamo a eso una cita." (fuera la prolepsis "Al dia siguiente..." y el sol del ultimo parrafo, que contradecia el regreso con la nube sin romperse); colas de tic cortadas ("la clase de", "con la misma... con la que"), certificacion "Una vez mas, Kal Mercer lo habia conseguido" fuera; Blake: "Kal ya sabia de quien hablaba" (salto de POV). La luz del golf queda como esta (decision del autor). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B.md §9.
@@ -17,7 +19,7 @@ SURGERY frente 2 (2026-10-05, autorizada por el autor; sigue TERMINADO): L18-1 f
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N18-1 a N18-5 (N18-6 conservado). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
-# Capítulo 18 — El día nublado
+# Capítulo 20 — El día nublado
 
 Lo que se le quedó a Kal del hospital no fue el infarto de Héctor. Fue una frase.
 

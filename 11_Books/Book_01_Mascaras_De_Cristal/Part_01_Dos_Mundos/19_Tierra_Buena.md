@@ -1,4 +1,6 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 19; numeración corrida definitiva, el archivo conserva su nombre.
+Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «Tierra buena».
 PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): la parcela gana escala (camioneta en el camino viejo, ondulación que esconde la mitad del terreno, viento sobre el pasto) y Harper la lee caminando: el terrón seco por fuera y oscuro por dentro, el carrizo, la propiedad de arriba cuesta arriba; Kal la alcanza en el carrizo. Kal lee accesos (por dónde entra un camión) en vez de "como quien ya lo ve terminado". El cuarto queda de vuelta hacia el camino, junto a la cerca. Sin canon geográfico nuevo, salvo la ondulación.
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): fuera la glosa de como se llevan Kal y Claudio, la cola "con la misma velocidad..." y dos "de verdad"; "Los lentes eran una herramienta, no una vanidad." La videollamada conserva su contracorte (decision del autor); el letrero del notario se deja. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B.md §9.
 Cirugia de dialogo de terceros 2026-10-04 (S3 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]]; sigue TERMINADO, la prosa nueva es DISEÑO pendiente de lectura): Harper con oficio (CANON DEL AUTOR: crecio en rancho). Decisiones del autor: el dato es el agua (el "riego" del papel baja del canal del vecino de arriba, que lo cierra en julio; "a ti no te va a abrir"), y "¿Y tu socio?" pasa a "¿A quien le contesto?". Fuera "No necesito caridad", la explicacion de la renta y "como quien reporta el clima" (ahora "Busco tardes"; la renta se ve en el cuarto). El "¿Por que yo?" lo contesta Kal con el dato de ella ("Porque a mi no me va a abrir"); la imagen "como si el cafe le debiera algo" queda una vez, en el flashback. "Aqui" del Gelsomino corregido a "las tardes". Fuera "al final" y "algo en la voz sonaba distinto" del cierre del trato. Pago nuevo en el salto de semanas: Harper negocio sola con el vecino y no lo cuenta. Sesion: 98_Agent_Handoff/sessions/2026-10-04_claude_cirugia_terceros_S3.md.
@@ -9,7 +11,7 @@ Funcion: NUEVO (2026-09-07), a peticion del autor. Insertado como Capitulo 19, j
 Apertura por residuo: no depende de un residuo directo de Kal/Chiara -- es un capitulo lateral de expansion. Abre en su propio tiempo, entre el Cap. 18 (El dia nublado) y el Cap. 20 (El mirador).
 -->
 
-# Capítulo 19 — Tierra buena
+# Capítulo 21 — Lo que nadie estaba mirando
 
 Firmó el terreno un martes, en la oficina de un notario que olía a café frío y papel nuevo, con Garrett sentado a su derecha revisando cada cláusula dos veces antes de dejar que Kal acercara la pluma.
 

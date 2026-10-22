@@ -1,5 +1,7 @@
 # Matriz temporal por estaciones — Libro I
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 **Origen:** encargo del autor (2026-10-06), tras la discusión con ChatGPT sobre vestuario y calendario. Paso previo a la pasada de vestuario y a la siembra de Navidad.
 **Modo:** AUDIT, solo lectura. No se tocó prosa. Las fechas son DISEÑO derivado; las anclas marcadas "canon" ya estaban en el vault.
 **Método:** campo `Ventana temporal` de los 53 capítulos + búsqueda de marcadores de estación, clima, ropa y lapsos ("semanas", "meses") en la prosa. San Aurelio está en California (Cap. 2: "El abrigo corto de felpa blanco le sobraba para California").

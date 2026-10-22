@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 13; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): prolepsis de Lucia ('el primero de muchos expedientes'), glosa de 'mi gente', competencia explicada, sintesis repetida de los tres papeles, 'nombre completo' de Mabel, 'dos palabras' de Kenji. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_04-13_Lote_A.md.
 Dialogo Kal/Chiara (2026-10-04, direccion del autor y ChatGPT; prosa DISENO del agente, pendiente de lectura): escena del taller reescrita como descubrimiento por capas; Kal busca el precio (Rafe, el corredor del norte, los favores) y "¿Por que tanto?" queda sin respuesta para que la pague "mi gente". Penthouse intacto salvo una glosa. Detalle: Audit_Dialogo_Kal_Chiara_Parte_I.md §7.
 Protagonistas: Chiara Bellandi (partes 1-4), Kal Mercer (parte 5).
@@ -12,7 +13,7 @@ Foto de Plaza Corona (2026-10-18, orden del autor; DISENO del agente, pendiente 
 Vela de Palermo (2026-10-18, orden del autor; capitulo TERMINADO, el estado se conserva): recuerdo movido intacto desde el Cap. 2 a la noche de domestici eius, antes de "Esa noche no encendio una vela". Puente DISENO: "Lo primero que le pidieron las manos fue una vela." El "ya lo arreglo yo" de Corrado se cobra en la lampara de Chiara.
 -->
 
-# Capítulo 13 — Auster
+# Capítulo 15 — Auster
 
 El tercer papel seguía donde lo había dejado, en el cajón que no era el de las cartas ni el de los recibos: un rumor sin nombre completo, sobre una mujer sin nombre completo, vista dos veces con alguien que nadie en la mesa había reconocido.
 

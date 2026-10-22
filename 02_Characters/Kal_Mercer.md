@@ -1,5 +1,7 @@
 # Kal Mercer
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 ## Sobrecompensación después de F2 — CANON DEL AUTOR 2026-09-20
 
 En Parte V — Exilio, el mismo día decide la ejecución de Mei-Lin mediante Nadir y obliga a Bonnie a irse para evitar otra muerte. Ve el costo sobre Chiara, Nadir y El Patio y no sabe revertirlo. **Cuando no puede reparar una herida, intenta construir algo bueno junto a ella. Sabe construir mejor de lo que sabe consolar.**

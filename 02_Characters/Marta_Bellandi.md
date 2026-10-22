@@ -1,5 +1,7 @@
 # Marta Bellandi
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **Ficha creada (2026-09-18)**, a partir de canon disperso en [[02_Characters/Chiara_Bellandi]] y de las dos escenas de infancia en prosa: la tina del [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo|Capítulo 2]] y la noche del jacuzzi en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Capítulo 25]].

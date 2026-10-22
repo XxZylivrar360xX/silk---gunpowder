@@ -1,4 +1,7 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 28; numeración corrida definitiva, el archivo conserva su nombre.
+Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «La correa».
+Retitulado otra vez 2026-10-22 (decisión del autor): «Te queda grande» → «No hace falta» (de "*Cielo*, no hace falta.").
 Otoño (2026-10-08, CANON DEL AUTOR; DISEÑO): el Audi levanta hojas secas del sicomoro de la esquina.
 Estado: BORRADOR — tercer capítulo de la Parte II (*Con peores personas he tratado*). Pendiente de revisión del autor. Cirugía editorial E5 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): cronología fija de ~24 h, POV y glosas; sigue BORRADOR.
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 3 cortes (N28-1 a N28-3); diálogo intacto; sigue BORRADOR.
@@ -45,7 +48,7 @@ RECONSTRUCCIÓN 2026-10-01 (Claude Code, CANON DEL AUTOR — SUPERSEDE las notas
 - CONTINUIDAD (2026-10-04, autor): la baranda del balcon ya no la "hizo conservar" Chiara por estetica; en el Cap. 10 fue Kal quien no dejo quitarla y ella sabe que era la casa de sus padres (y, por el mirador del Cap. 20, el arresto de Dale en la calle). Linea: "la baranda de hierro que Kal no habia dejado quitar". Sin glosa.
 -->
 
-# Capítulo 28 — La correa
+# Capítulo 32 — No hace falta
 
 La sudadera olía a él y a solvente, y a un jabón barato que Kal compraba por caja y que Chiara no habría elegido nunca y que ahora, puesta, le pareció lo más parecido a estar acompañada que iba a conseguir esa noche.
 

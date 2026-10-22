@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 05a; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: TERMINADO (heredado del Cap. 5; segmentado).
 Segmentacion (2026-10-22, decision del autor): el antiguo Cap. 5 (Una amiga, ~11,800 palabras, fusion de 2026-09-10) se divide en 5a Cliente y proveedor, 5b Sin llamar a nadie y 5c La pizza de calabaza, sin renumerar el resto. La cita de Kal y Chiara (de Rocco a la despedida) queda entera en 5c.
 Funcion: el favor se vuelve cadena: corralon, factura, llamada de la manana, apertura y reunion privada.
@@ -36,7 +37,7 @@ Cierre de Il Gelsomino (2026-10-17, SURGERY autorizada por el autor; el estado s
 Arco de Blake (2026-10-22, decision del autor; prosa DISENO pendiente de lectura): tras la llamada de la factura, mensaje de Blake en la linea secundaria ("¿Llegaste bien? Mis amigos preguntan por ti."); Chiara lo deja para despues y le escribe a Kal.
 -->
 
-# Cliente y proveedor
+# Capítulo 5 — Cliente y proveedor
 
 Kal dejó el Mercedes en un corralón privado a cuatro calles de la Almendra y no volvió directo al taller.
 

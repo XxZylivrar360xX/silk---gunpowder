@@ -1,5 +1,7 @@
 # Livia Ferraro
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 > **Nombre (CANON DEL AUTOR, 2026-10-18):** nace como hija de Fabrizio y lleva el nombre de su abuela [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/40_Mecanico|Livia Rinaldi]], titular de la Mesa (Libro I, Cap. 40). Crece como **Livia Ferraro**, con el apellido del segundo marido de Paola en Italia: una familia completa, aunque sabe la verdad (que su padre es Fabrizio). Si en algún papel conserva el *Rinaldi* queda PENDIENTE.
 >
 > **Semilla de trama para V–VII (CANON DEL AUTOR, 2026-10-18; «pensar a largo plazo»):** todo ocurre en los Libros V–VII, no en *Cuentas de Sangre*. Livia quiere alejarse por lo que pasó con Michael (la infidelidad con [[02_Characters/Iris_Harlow|Iris]]), pero el pasado la retiene: cuando ella sepa la verdad sobre la muerte de su padre (Volpi), eso le da trama a esos libros. Cómo y en qué libro lo sabe: PENDIENTE.

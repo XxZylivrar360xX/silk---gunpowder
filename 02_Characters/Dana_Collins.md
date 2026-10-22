@@ -1,5 +1,7 @@
 # Dana Collins
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-10-18).** Sargenta del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento]], argentina, líder de la VED. Antes era sólo un nombre en la lista de patrulla ("sargenta nocturna").

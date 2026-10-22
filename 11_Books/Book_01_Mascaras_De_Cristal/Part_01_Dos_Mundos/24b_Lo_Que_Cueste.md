@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 24b; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR (2026-10-01, Claude Code, encargo del autor; falta revisión del autor). Capítulo NUEVO insertado entre el 24 (Bajo juramento) y el 25 (Libros abiertos). Sin renumeración (decisión del autor 2026-10-01): el manuscrito no muestra números; el orden lo da el nombre de archivo ("24b" ordena entre 24 y 25). Encabezado sin "Capítulo N" para que el build no lo deforme.
 Protagonistas: Kal Mercer (POV bloques 1 y 3), Chiara Bellandi (POV bloque 2). Apariciones: Nadir Amrani, Enzo (Il Gelsomino).
 Ventana temporal: en las dos semanas que siguen al cierre del conflicto legal (Cap. 24), antes del Corral (Cap. 24c) y de la compra del Lancia (Cap. 25; ajustado 2026-10-04 al reubicar el Corral). Bloque 1: noche, pocos días después del tribunal. Bloque 2: días después, 4pm. Bloque 3: esa misma noche. Coda: la mañana siguiente.
@@ -16,7 +17,7 @@ No resolver:
 Craft: voz según 12_Craft_Policies/voice (Kal, Chiara, Nadir). Nadir: darija con moderación, la pregunta de dinero como arma, el silencio como alarma, nunca "suerte". Sin tags emocionales; "dijo" por defecto.
 -->
 
-# Lo que cueste
+# Capítulo 27 — Lo que cueste
 
 El teléfono estaba bocarriba sobre el banco de trabajo, entre una caja de tornillos y el trapo de las manos, y Kal llevaba una hora sin llamar a nadie.
 

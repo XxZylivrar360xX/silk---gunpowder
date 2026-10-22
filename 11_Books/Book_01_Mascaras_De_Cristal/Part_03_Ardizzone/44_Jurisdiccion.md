@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 44; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 44 (primero del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Pendiente de lectura del autor.
 Título: PENDIENTE. "Jurisdicción" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
@@ -15,7 +16,7 @@ Función: "Institución". Chiara agota la vía legal y política: abogados del M
 - Sin EPUB, commit ni push.
 -->
 
-# Capítulo 44 — Jurisdicción
+# Capítulo 49 — Jurisdicción
 
 El teléfono sonó antes de las ocho.
 

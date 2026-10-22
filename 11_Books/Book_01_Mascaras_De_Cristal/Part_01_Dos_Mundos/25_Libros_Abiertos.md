@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 25; numeración corrida definitiva, el archivo conserva su nombre.
 PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): tres reanclajes que marcan el tiempo. Después de Corrado y Marta, el ventanal empañado hasta la mitad (sustituye "Movió el agua sin mirarla", que además chocaba con "sin mover el agua" de la línea anterior); antes del apellido, la copa ya tibia (sustituye otro "movió el agua"); entre Nadir y Michael, una torre que se apaga del otro lado del ventanal. Después de Alessio no se añadió nada: el párrafo de la copa que deja de sudar y los chorros que se apagan ya lo hace.
 Estado: BORRADOR (unico de Parte I). Auditoria formal hecha 2026-09-26 (AUDIT + SURGERY, decisiones del autor): [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_25_Libros_Abiertos]] — incorpora las decisiones del autor 2026-09-09. Ajuste 2026-10-04 (C1 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_24c_El_Corral]], autorizado por el autor): en el jacuzzi Kal ya no repite lo de las armas (lo contó en el parador del 24c); sólo agrega la frase de Dario.
 Protagonistas: Kal Mercer, Chiara Bellandi.
@@ -22,7 +23,7 @@ Cementerio (2026-10-08, orden del autor; DISENO): la busqueda de "¿Tu cuando lo
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N25-1 a N25-10; N25-5, N25-8 y N25-10 comprimidos a "Lo dijo sin subir la voz / sin rencor / despacio" para no perder las pausas entre revelaciones. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
-# Capítulo 25 — Libros abiertos
+# Capítulo 29 — Libros abiertos
 
 Villani Motors olía a cuero nuevo y a cera de pintura, un olor que Kal empezaba a asociar con dinero limpio y no con el aceite quemado de toda su vida anterior.
 

@@ -1,5 +1,7 @@
 # Hitos obligatorios
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 > **AVISO DE SUPERSESIÓN (2026-09-07, actualizado 2026-09-22):** [[00_Biblia/00_Trilogy_Structure]] manda sobre este archivo en escala y fronteras entre libros. **Sombras de Poder se insertó como Libro II** entre *Máscaras de Cristal* y *Voto de Ceniza* — revierte la reconciliación del 2026-09-20/21. En particular: **H1 es ahora el clímax del Libro II — Sombras de Poder**, no del Libro I. **La salida de Bonnie (F2) pertenece a *Sombras de Poder* (Libro II)**, no al Libro I. **H22 pertenece a *Voto de Ceniza*, ahora Libro III**, antes de la caída de Dario, la montaña y Santa Lucía — la ubicación anterior (después del cierre de la Guerra de los Tres) sigue superseded. *Cuentas de Sangre* es ahora Libro IV. Este archivo todavía no se reconstruyó hito por hito contra la nueva arquitectura de seis libros.
 
 Eventos que **sí o sí tienen que ocurrir** en la novela. No son sugerencias ni material de trabajo: son las anclas del libro, definidas por el autor. La trama se construye alrededor de ellos, no al revés.

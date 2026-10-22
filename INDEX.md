@@ -16,7 +16,7 @@ Mapa de navegación de *Seda y Pólvora*. Este índice apunta a las fuentes vige
 
 | Libro | Mapa |
 |---|---|
-| I — *Máscaras de Cristal* | [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] |
+| I — *Máscaras de Cristal* | [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] · retitulado de capítulos (APLICADO 2026-10-21): [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]] · numeración corrida definitiva de 56 caps. (2026-10-22; tabla archivo → capítulo en el Book_Map) |
 | II — *Sombras de Poder* | [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] · plan rector en cuatro Partes: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] · guía de redacción por capítulos (61, DISEÑO): [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] · matriz temporal: [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]] · diseño del robo de joyería (Lunar Pearl; DISEÑO con decisiones del autor): [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Robo_Joyeria]] · nombre en cursiva y embarazo (DISEÑO, en discusión): [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]] · las cartas de Dale, detonante de Stavanger (CANON 2026-10-14): [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]] · la Navidad de Almendra Towing y el collar (DISEÑO, espera al autor): [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Almendra_Towing]] |
 | III — *Voto de Ceniza* | [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]] |
 | IV — *Cuentas de Sangre* | [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]] |

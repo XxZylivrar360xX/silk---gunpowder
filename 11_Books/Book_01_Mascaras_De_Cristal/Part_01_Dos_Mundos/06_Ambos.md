@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 6; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): prolepsis (secretos, carreras/calavera, puerta), 6:323 alineado con H2-b (el no tiene forma de saberlo), glosa del cierre tras 'Eres increible' cortada (salto de POV), pronunciacion de Mina (la hace Parole), codas y recuentos de la noche. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_04-13_Lote_A.md.
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Ventana temporal: despues de la primera cena y de la costumbre de contarse el dia.
@@ -12,7 +13,7 @@ Mirada para Kal (2026-10-17, pedido del autor; DISENO de redaccion pendiente de 
 Arco de Blake y visita de los chicos (2026-10-22, decision del autor; prosa DISENO pendiente de lectura): (1) Vento sembrado en la costumbre (llamada de domingo; "¿Montando que?" / "Se llama Vento"; el domingo siguiente Kal llama a las ocho), siembra del 24c; (2) en la noche de la torta el telefono enciende *Blake* y ella lo pone boca abajo (Kal no ve el nombre); (3) seccion nueva antes de La tarde del reto: Nadir, Danny y Russ a la una y diez, por carga, "todo al rojo", ruleta de la sala de eventos privados del penthouse; sale rojo, Nadir dobla, cae verde y pierde todo. Russ conoce a Chiara aqui. Trato de usted ("señora").
 -->
 
-# Capítulo 6 — Ambos
+# Capítulo 8 — Ambos
 
 La costumbre nació sin pedir permiso.
 

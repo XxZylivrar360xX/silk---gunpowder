@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 9; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR (DISEÑO, 2026-10-04, Claude Code; pendiente de lectura del autor). Sustituye en esta posicion al antiguo Cap. 9 (El corral), que pasa a ser el Cap. 24c. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Reubicacion_Corral]].
 Protagonistas: Chiara Bellandi, Kal Mercer. Apariciones: Katherine Rowe, dos hombres de Silas Crowe (sin nombre), una doctora del barrio (sin nombre), Nadir Amrani, Danny Hayes.
 Ventana temporal: dias despues del Capitulo 8 (la carrera de mascaras); un sabado. Todavia no hay primer beso. Cierra con Chiara instalada en la casa comun de la Almendra.
@@ -12,7 +13,7 @@ Continuidad: el abrazo y el temblor canon de H12 quedan para el 24c; aqui no hay
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N9-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
-# Capítulo 9 — La balanza
+# Capítulo 11 — La balanza
 
 No se lo había dicho a nadie. Ni a Ettore, el único hombre en Palermo al que todavía le escribía cartas de verdad — el amigo de su padre que la había criado en todo menos el nombre después de que se quedó sin ninguno de los dos. Ni a Blake, que había dejado de llamar después de la noche del ladrillo, con un silencio que a ella le supo más a alivio que a pérdida. Ni siquiera a sí misma, en voz alta, frente al espejo, donde una frase así habría tenido que sonar de verdad.
 

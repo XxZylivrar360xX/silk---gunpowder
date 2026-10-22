@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 11; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR. Rediseño 2026-10-04 (decision del autor; prosa DISENO del agente, pendiente de lectura). Sustituye la version TERMINADA de 2026-09-27/30, en la que Chiara investigaba a un Walt casi desconocido.
 Decisiones del autor (2026-10-04): (1) Walt y Chiara ya se conocen: la caja del Cap. 5 y el arco del loft (insercion en el Cap. 10: casa comun, cerillos, primera cena con la pregunta del licor). El capitulo ya no descubre a Walt; parte del reconocimiento. (2) La destileria encuentra en Chiara una benefactora confiable y legitima: Chiara entra como SOCIA MINORITARIA, con su dinero y su firma, fuera de la direccion del casino; el Monarch es solo CLIENTE (contrato de suministro a precio de lista). "El cliente es el Monarch. La socia soy yo." (3) Chiara es testigo del primer encuentro de Walt y Mabel desde que el salio de prision: Walt llevaba semanas evitando La Esquina (freno del duelo de Amanda, ficha de Mabel); entra la manana del torneo. "Walter" solo se lo dice Mabel (DISENO). Paga el cafe completo; Mabel no mete las monedas en la caja.
 Se conserva del texto anterior: el ladrillo, el trapo detenido (semilla de Mabel, ahora con causa visible), "Es honesto... asusta mas que un arma", "Mabel dice muchas cosas...", "como quien reporta el clima", "esta silla la elegi yo", "Juego honesto...", "Se sienta como el", "Se fue antes de que Walt pudiera decidir si eso habia sido un cumplido", "Tu amigo jugo en mi torneo" / "Esta vez vino sin copiloto", el anular (D7), el farol y "Chiara ya habia aprendido a sentarse". Fabrizio con el acta (siembra APROBADA, ahora sin ambiguedad: firma Chiara). Se corrige la logica de las manos de poker y la doble replica sin acotacion. Sale "Lo has visto dos veces" (ya no es verdad).
@@ -10,7 +11,7 @@ Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); sigue BORRA
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N11-1 a N11-3. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
-# Capítulo 11 — El farol
+# Capítulo 13 — El farol
 
 El ladrillo de arcilla seguía en la repisa de la entrada, donde Chiara lo había dejado la noche de Gabriella's sin decidir todavía si guardarlo o tirarlo.
 

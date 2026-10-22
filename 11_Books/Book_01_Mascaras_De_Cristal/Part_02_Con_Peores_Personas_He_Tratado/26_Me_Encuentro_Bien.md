@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 26; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — primer capítulo de la Parte II (*Con peores personas he tratado*). Pendiente de revisión del autor. Cirugía editorial E5 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): cronología fija de ~24 h, POV y glosas; sigue BORRADOR. Ajuste 2026-10-04 (C7 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_24c_El_Corral]], autorizado por el autor): Varek "ya tenía" a alguien detrás de Kal (la vigilancia arranca en el 24c).
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 1 corte (N26-1); sigue BORRADOR.
 Protagonistas: Chiara Bellandi (POV único). Apariciones: Dario Varek (recuerdo de madrugada + confrontación), Walter "Walt" Keegan.
@@ -19,7 +20,7 @@ Continuidad / provisional:
 - Dario tutea a Chiara (gesto de poder); ella le sostiene el usted como pared.
 -->
 
-# Capítulo 26 — Me encuentro bien
+# Capítulo 30 — Me encuentro bien
 
 Chiara despertó con la idea entera, ya armada, como si la hubiera terminado de pensar dormida.
 

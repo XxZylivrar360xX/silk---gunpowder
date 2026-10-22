@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 32; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Capítulo 32 de la Parte II. Redactado 2026-09-20, Claude Code, encargo del autor. Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] § 9 parte 3): prolepsis final y salto a Chiara cortados, glosas del procedimiento cortadas, cronología interna ("Días después" / "dos semanas después"), coche de Lucia sin "sedán", bloque de DISEÑO metido en el comentario (el EPUB vigente todavía lo lleva impreso). E9 (2026-09-27): escena de Irene insertada tras "Lo archivó, junto con el resto, y volvió al taller." (cita por Walt, Canal Seco, Tomás cachea y cuenta el carro, Nadir sale de la mercancía, favor abierto aceptado sin regateo, "Ahora sí me debe, señor Mercer.", cola de Nadir "Porque ya alcanzó.") e hilo A en la coda ("¿Y el Canal Seco?"). Redacción del agente: BORRADOR/DISEÑO hasta lectura del autor. Sigue BORRADOR. Renumerado en cascada el mismo día tras la aprobación del autor: este capítulo pasó de nombre provisional (31b) a Cap. 32; La periferia pasó de 32 a 33; Mi pareja pasó de 33 a 34. Ver `98_Agent_Handoff/CURRENT_BRIEF.md` y `98_Agent_Handoff/PENDING.md` para el detalle de la integración.
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 4 cortes (N32-1 a N32-4) y atribución de "Ahora sí me debe" a Irene; sigue BORRADOR.
 POV: Kal Mercer, único, sin excepción.
@@ -24,7 +25,7 @@ Funcion: DISEÑO NUEVO de esta sesion, a peticion del autor. Segundo escalon de 
 Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): Nadir le avienta la llave Allen en la acera; cuando Kal le quita lo de Irene, Rocco se la devuelve y Nadir no la recoge. Ficha: 02_Characters/Rocco.md.
 -->
 
-# Capítulo 32 — Línea directa
+# Capítulo 36 — Línea directa
 
 El sillón seguía cuatro centímetros fuera de su lugar.
 

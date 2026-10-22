@@ -1,5 +1,7 @@
 # Ettore
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **Ficha ampliada (2026-09-18).** Personaje fuera de página — vive en Palermo, no en San Aurelio. Aparece nombrado en prosa (Cap. 9 y Cap. 25) y como presencia epistolar; no ha tenido escena propia. El resto de su biografía queda pendiente.

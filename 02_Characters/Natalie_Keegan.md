@@ -1,5 +1,7 @@
 # Natalie "Nat" Keegan
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-09-26).** Natalie Keegan es la hija menor de [[02_Characters/Walter_Keegan|Walter "Walt" Keegan]] y hermana menor de [[02_Characters/Jim_Keegan|Jim Keegan]]. Al recuperar Walt la libertad, Natalie es una joven bombera-paramédica recién incorporada al Departamento de Bomberos de San Aurelio. Su presencia abre la perspectiva de bomberos y servicios médicos de emergencia durante la escalada criminal de la ciudad.

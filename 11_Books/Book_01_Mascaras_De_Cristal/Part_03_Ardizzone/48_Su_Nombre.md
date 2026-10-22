@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 48; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 48 (quinto del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
 Título: PENDIENTE. "Su nombre" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
@@ -21,7 +22,7 @@ DISEÑO del agente, pendiente de lectura:
 - No se nombra a Halbrook ni el señuelo; no se insinúa que Kal no irá en el convoy. Eddie Sosa queda fuera (opción para otro toque). Sin EPUB, commit ni push.
 -->
 
-# Capítulo 48 — Su nombre
+# Capítulo 53 — Su nombre
 
 El primero de enero La Esquina de Mabel no tenía turno de la mañana ni de la tarde. Tenía uno solo, largo, que empezaba a las seis con los que todavía no se habían acostado y pedían menudo, y terminaba cuando Mabel apagaba la cafetera, y a mediodía estaba en su peor hora: todas las mesas ocupadas, dos familias esperando de pie junto a la vitrina, un niño llorando por un pan que no era el que había pedido.
 

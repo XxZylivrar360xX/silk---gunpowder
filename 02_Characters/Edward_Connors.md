@@ -1,5 +1,7 @@
 # Edward Connors
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 *Seda y Pólvora — Ficha de Personaje*
 
 **Nacionalidad:** estadounidense.  
@@ -17,7 +19,7 @@ Barba y cabello blancos (canon del autor). Abrigo de lana, zapatos de piel color
 ## Apariciones
 
 - **Cap. 5, *Una amiga*** — sale del Monarch con Chiara y [[03_Factions/Fiscalia_de_San_Aurelio|Katherine Rowe]] la noche de la primera cena; Chiara se acercó a ellos mientras jugaban baccarat en su casino ("al enemigo hay que tenerlo cerca"). Rocco le deja la huella de la pata en el zapato.
-- **Cap. 23, *La letra pequeña*** — Rivers: "el fiscal general y yo no nos hablamos desde la facultad". Es la razón por la que Chiara la eligió.
+- **Cap. 25, *Nada caro*** (arch. 23; antes *La letra pequeña*) — Rivers: "el fiscal general y yo no nos hablamos desde la facultad". Es la razón por la que Chiara la eligió.
 
 ## Pendientes
 

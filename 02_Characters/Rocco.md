@@ -1,5 +1,7 @@
 # Rocco
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 *Seda y Pólvora — Ficha de Personaje (perro)*
 
 > **CANON DEL AUTOR (2026-10-22).** Lo de abajo es decisión del autor salvo donde dice DISEÑO o PENDIENTE.

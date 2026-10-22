@@ -7,6 +7,8 @@ Se conserva en el vault como referencia de diseno y canon, pero no debe exportar
 
 # Plan de cierre de la Parte III — Ardizzone (Caps. 39–44) y apertura del Libro II
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 > **SUPERSEDIDO EN PARTE (2026-10-01, CANON DEL AUTOR):** el cierre del Libro I se expande a un arco de Chiara sin Kal (Caps. 44–50 + epílogo *La tierra bajo sus botas*). Kal pasa ~9 días en Camp Alder (D4→D13), no D4–D6; el Cap. 44 actual se reparte en el arco; convoy señuelo de Halbrook; Halbrook llega en el epílogo. Manda [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
 
 > **CANON DEL AUTOR (2026-09-21), fijado en conversación con Claude Code antes de escribir prosa.** Este archivo manda sobre las secciones de Parte III de [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]], [[06_Relationships/Hitos]] (H18–H20), [[06_Relationships/Momentos_de_Fractura]] (F1), [[06_Relationships/Los_Tres_Dias]] y [[06_Relationships/Kal_y_Chiara]] (escalera) en cualquier conflicto; esos archivos llevan nota de supersesión que apunta aquí. Lo marcado **PENDIENTE** falta decisión del autor: no rellenar por conveniencia. Numeración de capítulos: vinculante para 39–44 salvo inserción posterior del autor.

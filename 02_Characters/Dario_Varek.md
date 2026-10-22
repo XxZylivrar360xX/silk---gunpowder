@@ -1,5 +1,7 @@
 # Dario Varek
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-08-23).** Ficha compacta: registra lo definido y espera. No inventar biografía.
@@ -101,7 +103,7 @@ La obediencia que produce es rápida y profunda, pero no leal. Las bandas no lo 
 
 Las organizaciones menores relevantes están en [[03_Factions/Bandas_Menores_de_San_Aurelio]]: cuatro del sur, dos del norte y una banda motociclista costera. Varek no las maneja como empleados; las maneja como clima.
 
-> **DISEÑO — trasfondo, NUNCA en prosa (2026-09-03):** el rumor que le llega a Danny sobre la bodega de La Ronda del Canal ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/15_El_Porton|Cap. 16]]; consecuencias en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/17_Cuentas_Claras|Cap. 18, secciones *Cuentas claras* y *Anticiparse*]]) es exactamente ese "clima": demasiado preciso para ser chisme de barra, nacido de alguien con acceso real al Canal Seco que Danny conoció "jugando billar cerca del Monarch". Varek se beneficia de que El Patio y La Ronda queden enemistados en vez de fusionar territorio o información — dos bandas del sur en fricción es más fácil de leer, y más fácil de gobernar, que dos bandas del sur aliadas. **Los personajes no llegan a identificar el origen ni la razón; el lector, si conecta esta ficha, puede sospechar.** No confirmar ni nombrar a Varek como la fuente en ningún capítulo futuro sin que el autor lo decida explícitamente — esto es telón de fondo, no una revelación programada.
+> **DISEÑO — trasfondo, NUNCA en prosa (2026-09-03):** el rumor que le llega a Danny sobre la bodega de La Ronda del Canal ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/15_El_Porton|Cap. 16]]; consecuencias en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/17_Cuentas_Claras|Cap. 18, secciones *Cuentas claras* y *Anticiparse*]] (hoy Cap. 19, *Le quedé debiendo*)) es exactamente ese "clima": demasiado preciso para ser chisme de barra, nacido de alguien con acceso real al Canal Seco que Danny conoció "jugando billar cerca del Monarch". Varek se beneficia de que El Patio y La Ronda queden enemistados en vez de fusionar territorio o información — dos bandas del sur en fricción es más fácil de leer, y más fácil de gobernar, que dos bandas del sur aliadas. **Los personajes no llegan a identificar el origen ni la razón; el lector, si conecta esta ficha, puede sospechar.** No confirmar ni nombrar a Varek como la fuente en ningún capítulo futuro sin que el autor lo decida explícitamente — esto es telón de fondo, no una revelación programada.
 
 El centro viejo queda fuera de ese reparto. Nadie sostiene mercado permanente junto a hospitales, Ayuntamiento, juzgados y comisarías: demasiado uniforme, demasiada cámara, demasiada prensa cerca.
 

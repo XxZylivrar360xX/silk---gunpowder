@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 24; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md). SURGERY 2026-09-27 (auditoria Parte I, lote B, E4; ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B §9 parte 2): cortada la prolepsis del cierre ("La idea... ya no se iba a ir", §L); atribucion "—dijo Kal" en el pasillo con Rivers; verbo faltante en la salida de Tommaso; podados el recordatorio de la lista de testigos y la lista repetida de la firma. Estado conservado.
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Apariciones: Tommaso Lusardi, Margaret Rivers (abogada de Kal), Jonathan Hoover (exsocio), Giancarlo Krane (abogado de Hoover).
@@ -12,7 +13,7 @@ Pasada editorial 2026-09-10 (Claude Code, decision del autor): recuerdo de la pr
 Microcirugia de dialogo K/C 2026-10-04 (autorizada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]] §7; DISEÑO pendiente de lectura): escaleras sin "Naturalmente / enfermedad / Ambicion / peor pronostico"; ahora "Ma dai... Todavia no cobras el cheque / Ya vi uno". Opcion A del autor: el "mi... amigo" no se nombra despues; la mano ofrecida y soltada "No antes" es la respuesta.
 -->
 
-# Capítulo 24 — Bajo juramento
+# Capítulo 26 — Bajo juramento
 
 Kal había estado en tribunales antes, pero no como empresario, y eso cambiaba hasta el olor. Las salas penales olían a sudor, a desinfectante y a gente esperando que alguien decidiera cuánto de su vida todavía le pertenecía. La sala civil olía a papel: carpetas nuevas, café de máquina, el perfume caro de abogados que cobraban el tiempo que tardaban en cruzar desde el elevador.
 

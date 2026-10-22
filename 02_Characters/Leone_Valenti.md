@@ -1,5 +1,7 @@
 # Leone Valenti — *Il Consigliere*
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-08-23).**
@@ -94,7 +96,7 @@ Es lo único que dijo cuando escuchó el reporte de la muerte de Alessio Lusardi
 
 **[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo|Cap. 2]]**, en un recuerdo de Chiara: la visita a su despacho en un casino de Nueva York, semanas antes de que ella viaje a San Aurelio, para comunicarle que Il Consorzio decidió darle un lugar a la familia Ardizzone allí y que su tarea será "dirigir y observar". Escena escrita respetando lo ya fijado: habla de otra cosa (un cuarteto, un edificio) antes de llegar al asunto; nunca dice "yo decidí", siempre "Il Consorzio ha decidido"; no nombra al socio que pidió el favor ni explica el precio exacto; la llama **signora Ardizzone**, no Bellandi (confirmado por el autor 2026-09-26). El despacho es de **uno de los casinos de Il Consorzio que Chiara administraba en Nueva York** (canon del autor, 2026-09-26). **No se inventó apariencia física ni manía** — ambas siguen `PENDIENTE` (ver abajo); la escena no lo describe físicamente.
 
-## Cap. 49 — *Enfrente* (BORRADOR, 2026-10-02)
+## Cap. 54 — *Por si vuelve* (arch. 49; antes *Enfrente*) (BORRADOR, 2026-10-02)
 
 [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/49_Enfrente|Cap. 49]], lunes 3 y martes 4 de enero. **CANON DEL AUTOR:** Valenti ya estaba en San Aurelio ("desde el jueves": la vio correr cuatro días sin avisarle). Chiara le pide que saque a Kal. Il Consorzio **puede y se niega**: Kal es "un hombre interesante", pero "no todavía un hombre necesario". A ella le ofrecen ser **dueña legítima del Monarch**, lo que implica quitárselo a Dario. Le niegan al hombre y le ofrecen la corona. Ella no contesta.
 

@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 38; numeración corrida definitiva, el archivo conserva su nombre.
 PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): sólo transiciones, porque proa y salón ya estaban anclados (viento de diciembre, música amortiguada, cera, luces a media, música filtrada por el vidrio). En la proa se añade el agua golpeando el casco. A la salida del salón, el viento y la música entran de golpe al abrir la puerta, en la línea que abre la sección de despedida. Nada más.
 Estado: BORRADOR — Parte III — Ardizzone, cuarto capítulo (Cap. 38 del manuscrito). Redactado 2026-09-20, Claude Code (modelo: Claude Opus 5), encargo detallado del autor; segunda pasada de correcciones del autor aplicada el mismo día por el mismo modelo. Cirugía editorial E6 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]] §9 parte 2): microedición firme, paquete P2 + P4 (Héctor/Walt; segunda ronda de Blake), vela retirada, bala abierta en la casa neutral (no en el Penthouse), "señora" en la línea canon de H13; sigue BORRADOR. Título **"Al revés" confirmado por el autor** (2026-09-27); "(título provisional)" retirado de la prosa.
 CONCILIACIÓN CON EL 24c (2026-10-04, decisión del autor; pendiente C3 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_24c_El_Corral]]): CANON DEL AUTOR: "il 13" de la carta del Consorzio que Kal lee en el 24c es el 13 de diciembre, fecha de la Mesa; la Parte II no la menciona. Tres retoques de continuidad (BORRADOR, pendientes de lectura): (1) "Creo que fueron ellos [...] No lo sé. No tengo nada que lo diga. Pero" -> "Fueron ellos [...] Te lo dije en el parador. Sigo sin tener nada que lo diga, pero" (en el 24c Chiara ya estaba "Totalmente" segura; aquí se conserva que no hay prueba); (2) "Voy a ir a la Mesa" -> "El 13 voy a ir a la Mesa" (Kal ya conoce la fecha; lo nuevo para él es "esta noche"); (3) "casi diciembre" -> "diciembre". La línea canon del pañuelo, "Voy contigo" y "íntegra" quedan intactas.
@@ -33,7 +34,7 @@ Función: celebración coral que se convierte en el gatillo del viaje a Palermo.
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N38-1, N38-2, N38-3, N38-4. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
-# Capítulo 38 — Al revés
+# Capítulo 43 — Al revés
 
 El día entero que le había pedido se había gastado sin sobrar ni faltar un minuto, y ahora Chiara lo sentía todavía en los hombros como se siente el sol después de haberse ido: un desayuno largo en el loft, la costa de tarde, la pregunta que él no había hecho ni una sola vez en todas esas horas y que ella había visto pasarle por la cara cada vez que alguien decía *Roma* por casualidad.
 

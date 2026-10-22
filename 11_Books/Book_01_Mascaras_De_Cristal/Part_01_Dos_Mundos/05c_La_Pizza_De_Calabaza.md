@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 05c; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: TERMINADO (heredado del Cap. 5; segmentado).
 Segmentacion (2026-10-22, decision del autor): el antiguo Cap. 5 (Una amiga, ~11,800 palabras, fusion de 2026-09-10) se divide en 5a Cliente y proveedor, 5b Sin llamar a nadie y 5c La pizza de calabaza, sin renumerar el resto. La cita de Kal y Chiara (de Rocco a la despedida) queda entera en 5c.
 Funcion: H2-a completo, la primera cena que ninguno llama cita: Rocco y la pata, la camioneta, la llegada, Il Gelsomino, la acera, la despedida.
@@ -6,7 +7,7 @@ Historial de cirugias y decisiones del antiguo Cap. 5 (Una amiga), previo a la s
 Rocco (2026-10-22, decision del autor; DISENO de redaccion): primera descripcion fisica, pitbull cafe de cabeza ancha, oreja mordida "desde antes de llegar al taller" (origen callejero) y la mancha blanca en el pecho que ya existia. Ficha: 02_Characters/Rocco.md.
 -->
 
-# La pizza de calabaza
+# Capítulo 7 — La pizza de calabaza
 
 Unos días después de que la caseta dejara de pedirle nombre, Kal pasó la tarde enseñándole a Rocco a dar la pata.
 

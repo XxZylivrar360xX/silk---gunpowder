@@ -1,5 +1,7 @@
 # Plan — Vento: siembra y muerte
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 Plan de 2026-10-22 (Claude Code, encargo del autor). **Ejecutado el mismo día:** fecha y trato confirmados por el autor; prosa DISEÑO en la sección final del [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta|33]] y en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/33b_La_Mano|33b — La mano]]; sincronización hecha. El origen se ajustó a que Chiara llegó a San Aurelio al abrir la novela: compró a Vento en sus primeras semanas. Nombre de pista (DISEÑO): North Wind Rising. La coda del nombre de pista se descartó; el 33b cierra con "El domingo siguiente no bajó". Cada punto lleva su categoría. Fuentes: [[05_Locations/Hipodromo_Del_Monarch]], [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial|H16]] y [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/36_Tambien_Las_Mananas|Cap. 36]].
 
 ## El problema

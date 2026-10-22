@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 36; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, segundo capítulo (Cap. 36 del manuscrito). Redactado y reestructurado 2026-09-20, Claude Code, encargo del autor (segunda versión: arco completo dictado en detalle por el autor; tercera pasada: expandido el momento en que Chiara conecta el significado de los tres regalos, con la línea canon de Kal "¿Faltó más, verdad? Lo sabía"; cuarta pasada: nueva apertura en el loft —Kal lavándose sangre y lodo de las manos, revisando el doble fondo bajo el suelo donde dejó la botella la noche anterior— y corrección de una línea que rompía la regla dura de abajo; quinta pasada, edición de estilo: "cajón del Monarch" corregido a "despacho" —una silla no vive en un cajón—, la línea de la Romanée-Conti dejó de afirmar un superlativo verificable como hecho narrado y pasó a ser una duda propia de Kal en diálogo, y varias oraciones largas partidas en dos). Título confirmado por el autor (2026-09-27, Q7); tomado de la línea de la llave ("quiero que pases también las mañanas"). **Cirugía editorial E5 (2026-09-27, Claude Code, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]], § 9 parte 1):** Héctor tutea a Kal (ficha de voz); peripecia compactada sin quitar incidentes (espera, fuga, persecución); susto de Héctor desmedicalizado; botella velada en la apertura; POV de Chiara limpiado (llamada, sonrisa, frase ensayada, decisión de Kal); prolepsis del nombre Stella retirada; línea canon "Sin duda alguna" restaurada; frase de Vento añadida; coda de las invitaciones recibida del 35. Sigue BORRADOR.
 Protagonistas: Kal Mercer (POV en las tres primeras secciones: loft, muelle, persecución) y Chiara Bellandi (POV desde la llamada nocturna hasta el final, coda incluida). Héctor Navarro (escena, voz propia, primera mitad del capítulo).
 Mencionados sin aparición: Matteo Bellacorte (sigue en Génova, sin fecha de regreso), Walt Keegan (consultado sobre la botella, referido, no en escena), Fabrizio Rinaldi, Nadir Amrani, Dario Varek (referencia administrativa mínima).
@@ -25,7 +26,7 @@ Función: ejecuta [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza o
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N36-1, N36-2, N36-3. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
-# Capítulo 36 — También las mañanas
+# Capítulo 41 — También las mañanas
 
 Kal se lavó las manos en el fregadero de la cocina antes de que hiciera falta café, viendo cómo el agua se llevaba, cada vez más clara, lo que le quedaba de rojo entre los dedos. Las botas, todavía junto a la puerta, tenían más lodo seco del que un hombre podía explicar sin mentir. No pensaba intentarlo con nadie, y mucho menos esa noche con ella.
 

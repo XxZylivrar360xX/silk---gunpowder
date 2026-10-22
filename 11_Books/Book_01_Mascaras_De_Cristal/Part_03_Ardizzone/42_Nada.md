@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 42; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, octavo capítulo (Cap. 42 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "Nada". No es provisional. **Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_III]]):** "Tú dijiste tres" (no "cuatro": "Tengo que volver" son tres palabras); "No se sirvió nada" (no hubo copa, sólo el vaso de agua); presagio garantizado de 92 → "que Kal iba a venir"; tres glosas sobre Bonnie y el silencio cortadas; la repetición "sin nada más que decir" antes del final de F1, cortada (se queda la de Chiara). La línea canon, "—Nada.", "—Sí. Te mentí.", "Ciao, tesoro" y la mano en la manija, intactos. Detalle en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]], § 9 parte 4. Sigue BORRADOR. **Tesis visibles (2026-10-05, ajustes aprobados por el autor):** F1 deja de cerrar en dos tesis simétricas. Fuera la glosa "sintió el golpe de esa distinción…"; la segunda formulación de Kal ("Eso es lo que me duele…", que además choca con su voz: lo que le duele lo baja de categoría); su concesión calcada de la de Chiara ("tampoco es tan distinto como me gustaría"); "Fue lo más cerca que estuvieron…"; las glosas sobre el filo, la acotación de la línea canon y "fue exacto" (tic "exacto"). Mecánico: "—Y me dijiste" para que la réplica no parezca de Chiara. Línea canon, "—Nada.", "Te mentí", "Ciao, tesoro" y la manija, intactos. Detalle: 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Narrador_Tesis_Resenas_ChatGPT.md § 5.
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). El rastreo de Bonnie ocurre fuera de página: se conoce por completo a través de la llamada en la que Bonnie se lo reporta a Chiara. Kal aparece en escena sólo en el penthouse, para F1; su conversación con Bonnie nunca se dramatiza.
 Personajes con diálogo: Chiara Bellandi, Bonnie García (por teléfono), Kal Mercer (en persona, F1).
@@ -16,7 +17,7 @@ Función: cobra la mentira del Cap. 41 ("—Nada."). Bonnie encuentra la camione
 - Ajuste 2026-10-18 (orden del autor): Fabrizio ya no está bajo coerción (pasa a Tommaso); su distancia se suaviza: sólo está ocupado. La línea de la llamada «corta, correcta» se sustituye por los banquetes y el brazo en el pasillo. Prosa DISEÑO pendiente de lectura.
 -->
 
-# Capítulo 42 — Nada
+# Capítulo 47 — Nada
 
 Pasaron dos días sin que Chiara supiera nada de la camioneta, y en esos dos días el Monarch no le dio tregua para pensar en otra cosa.
 

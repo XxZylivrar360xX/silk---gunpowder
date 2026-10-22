@@ -1,5 +1,7 @@
 # Matteo Bellacorte
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 *Seda y Polvora - Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-08-24):** uno de los socios de [[02_Characters/Chiara_Bellandi]] en [[03_Factions/El_Casino|The Monarch Casino & Hotel]]. Es quien conoce a [[02_Characters/Kal_Mercer]] durante el dia y lo cita por la noche para presentarlo a los socios y hablar de negocios.

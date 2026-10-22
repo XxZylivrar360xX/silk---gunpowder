@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 35; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — abre la Parte III (Cap. 35 de la Parte III — Ardizzone; Cap. 35 del manuscrito). Redactado 2026-09-20, Claude Code, encargo del autor. Ampliado el mismo día con un beat final (invitaciones del yate) encargado directamente por el autor; **ese beat se trasladó al final del Cap. 36 en la cirugía E5**. **Cirugía editorial E5 (2026-09-27, Claude Code, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]], § 9 parte 1):** coda de las invitaciones al 36 (opción 1 del dictamen, Q1: ocurría después de H16; el 35 vuelve a terminar en la taza); "la erre" retirada de la caricatura de "Ciao, bella" (no tiene erre); dos saltos de POV hacia Kal cortados (el "no porque no tuviera respuesta…" del despacho y el "dejando que la palabra…" de la salida); dos glosas de cierre cortadas. **Escena de Anya en el Monarch añadida en E9 (2026-09-27, Claude Code, aprobada por el autor en Q13; redacción del agente, +573 palabras): queda BORRADOR/DISEÑO hasta que la lea el autor.** Sigue BORRADOR.
 Protagonistas: Chiara Bellandi (POV único). Kal Mercer.
 Aparición sin nombre: [[02_Characters/Anya_Voronina]] (nadie la nombra en escena; el nombre queda guardado para F4). Secundario sin nombre: el encargado del bar del casino.
@@ -21,7 +22,7 @@ Función: CANON DEL AUTOR. Abre la Parte III — Ardizzone. Nace el ritual del *
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N35-1, N35-2. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
-# Capítulo 35 — Sin fecha de regreso
+# Capítulo 40 — Sin fecha de regreso
 
 La nota estaba donde Chiara la había dejado hacía diez minutos, sobre el escritorio de Matteo, y seguía sin decir más de lo que decía la primera vez que la leyó.
 

@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 39; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, quinto capítulo (Cap. 39 del manuscrito). Redactado 2026-09-21, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO POR EL AUTOR EN EL ENCARGO (2026-09-21): "Un par de días más". No es provisional. **Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_III]]):** frase canon de H18 restaurada tres veces, POV de la llegada, C55 y gesto P3; detalle en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]] § 9 parte 3. Sigue BORRADOR hasta lectura del autor.
 **Frente 4, Camp Alder (2026-10-05, P1 aprobada por el autor; prosa del agente, BORRADOR):** tras colgar con Varek, Kal llama a Garrett ("Voy a necesitar que vuelvas a volar"). Así se responde la pregunta de la salida del 30 y el 31, y se siembra el helicóptero del 43. Sustituye a "No le dijo a nadie todavía. Pero empezó [...] a organizar". CANON: Garrett pilotó en el ejército. Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente_4_Camp_Alder]].
 Protagonista: Kal Mercer (POV único, tercera persona cercana). No hay salto de POV. Chiara Bellandi no aparece físicamente ni por mensaje — sólo como la frase que Kal repite y como los objetos que dejó en el loft. La llamada de las nueve de Kal a Chiara ("Ciao, bella" / "—Nada.", Cap. 41) ocurre esa misma noche fuera de cuadro, en la elipsis entre la cena en el patio y el loft; el 39 no la narra (E7 Parte III, D40).
@@ -20,7 +21,7 @@ Función: primer capítulo de regreso tras Palermo. Muestra a Kal administrando 
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N39-1, N39-2, C39-Danny. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
-# Capítulo 39 — Un par de días más
+# Capítulo 44 — Un par de días más
 
 El sol de las tres de la tarde le pegaba distinto a Kingsley Field que el azul de la madrugada. Salió por las puertas correderas de la terminal comercial con una sola maleta —con la etiqueta de la aerolínea todavía colgando del asa— y se quedó un segundo entrecerrando los ojos contra la luz, buscando un coche entre la fila de los que esperaban con carteles y los que esperaban sin ellos.
 

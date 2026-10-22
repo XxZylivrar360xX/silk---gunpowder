@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 46; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 46 (tercero del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
 Título: PENDIENTE. "Llaves" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
@@ -17,7 +18,7 @@ Función: "Los de Kal". La gente de Kal la recibe fría y termina siguiéndola. 
 Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): sale de la casa de tablas y se pone panza arriba con Chiara, como siempre con ella; primera vez en prosa. La casa de Kal sin Kal, sin glosa. Ficha: 02_Characters/Rocco.md.
 -->
 
-# Capítulo 46 — Llaves
+# Capítulo 51 — Llaves
 
 Para llegar al Patio desde el centro había una vuelta que Chiara daba siempre sin pensarla: a la derecha en la calle del mercado, dos cuadras, y a la izquierda en la esquina de la lavandería de monedas, la que tenía el letrero con una burbuja fundida. Esa tarde siguió de largo en la calle del mercado y dio vuelta en la siguiente, una calle de casas bajas con perros detrás de las rejas, y salió a la avenida tres cuadras más abajo, por el lado del lote baldío. Tardó cuatro minutos más. No miró hacia la izquierda en ningún cruce.
 

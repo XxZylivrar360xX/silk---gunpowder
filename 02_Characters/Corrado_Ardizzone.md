@@ -1,5 +1,7 @@
 # Corrado Ardizzone
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **VERDAD DEL AUTOR — NO ESCRIBIR EN PROSA ANTES DE LA CODA DE *VOTO DE CENIZA* (Libro II):** Corrado está vivo, **oculto en San Aurelio** (CANON DEL AUTOR 2026-10-04; antes "oculto en Italia", ver "La verdad"). Para Chiara, para el mundo y para toda la prosa del Libro I y la mayor parte del Libro II, **está muerto**. Ver [[00_Biblia/00_Trilogy_Structure]] y [[12_Craft_Policies/revelations/SAGA_LEVEL]]. No sembrar pistas de su supervivencia antes de ese punto — ver "Reglas duras" abajo.

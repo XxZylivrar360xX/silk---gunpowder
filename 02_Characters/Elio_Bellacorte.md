@@ -1,5 +1,7 @@
 # Elio Bellacorte
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 *Seda y Pólvora - Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-09-20, ampliado el mismo día):** hermano de [[02_Characters/Matteo_Bellacorte]]. No aparece en escena en el Libro I — su desaparición es la contingencia que Nereo Volpi ejecuta para podar a Matteo de San Aurelio. Ver [[06_Relationships/Hitos]] y [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]], "Apertura de Parte III".

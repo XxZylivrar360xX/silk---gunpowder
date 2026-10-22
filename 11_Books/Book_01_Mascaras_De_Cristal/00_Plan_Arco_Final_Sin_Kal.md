@@ -1,5 +1,7 @@
 # Plan del arco final del Libro I — Chiara sin Kal (Caps. 44–50 + epílogo)
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 > **Estado:** PLAN aprobado en sus decisiones mayores por el autor (2026-10-01). Sin prosa todavía. Etiquetas: **CANON DEL AUTOR** = dictado o elegido por el autor en la sesión del 2026-10-01; **DISEÑO** = inferencia del agente, discutible; **PENDIENTE** = falta decisión.
 >
 > **Supersede**, donde choque: la sección Cap. 44 y la cronología D4→D6 de [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]; "Los Tres Días" como alegoría D4–D6 ([[06_Relationships/Los_Tres_Dias]]); la regla 6 de [[00_Biblia/00_Trilogy_Structure]] (Halbrook llega en la coda de *Sombras de Poder*); "Halbrook no aparece en escena en San Aurelio" para el Libro I (vale hasta el epílogo); y "—Ciao, bella." como última línea **del libro** (sigue siendo la última del Cap. 50).

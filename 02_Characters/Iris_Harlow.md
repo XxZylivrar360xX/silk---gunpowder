@@ -1,5 +1,7 @@
 # Iris Harlow
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-10-04).** Hija de [[02_Characters/Beatrice_Varek|Beatrice "Trix" Varek]] y nieta de [[02_Characters/Dario_Varek]]. Conoció a [[02_Characters/Corrado_Ardizzone|Corrado]] como **Manfred Gabe**, sin saber nunca quién era. Es el interés amoroso de [[02_Characters/Michael_Ardizzone]] en San Aurelio: lo conoce en el Libro V y se enamoran en el VI.

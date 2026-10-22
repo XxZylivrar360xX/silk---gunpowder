@@ -1,5 +1,7 @@
 # Kenji Oda
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **DISEÑO (2026-08-26).** Nombre propuesto por el agente a pedido del autor — discutible. Ficha compacta: registra lo definido y espera desarrollo.

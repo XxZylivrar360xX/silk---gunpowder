@@ -1,10 +1,12 @@
 # Elenna Mercer
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 > **AVISO DE SUPERSESIÓN (2026-09-07; cuerpo reconciliado 2026-09-11):** [[00_Biblia/00_Trilogy_Structure]] manda sobre este archivo en escala y fronteras entre libros. Las referencias a "Parte III" / "Parte IV" que quedaban en el cuerpo del documento (nacimiento, embarazo, H22) ya se corrigieron para leer **Libro I** o ***Voto de Ceniza* (Libro II)** según corresponda. Los detalles finos (fechas exactas, distancia entre F2/H1/nacimiento, capítulo exacto de H22) siguen **PENDIENTE**, tal como los marca el documento de trilogía — no se resolvieron por esta corrección.
 
 *Seda y Pólvora — Ficha de Personaje*
 
-> **SIGNIFICADO DEL NOMBRE (CANON DEL AUTOR, 2026-10-02):** "la que resplandece" (la luz en la oscuridad de la violencia de la ciudad) y "hacia las estrellas" (guiño al Cap. 20 del Libro I, *El mirador*). No se enuncia en prosa del Libro II. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "El nombre en cursiva".
+> **SIGNIFICADO DEL NOMBRE (CANON DEL AUTOR, 2026-10-02):** "la que resplandece" (la luz en la oscuridad de la violencia de la ciudad) y "hacia las estrellas" (guiño al Cap. 22 del Libro I, *Lo pequeño*, arch. 20; antes *El mirador*). No se enuncia en prosa del Libro II. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "El nombre en cursiva".
 
 > **CANON DEL AUTOR (2026-08-31).** El nombre verdadero es **Elenna Mercer**, con doble `n`. Durante su resguardo en Italia usa documentación como **Elenna Serra**. `Serra` no es su apellido real y no crea parentesco con ninguna familia: es una identidad destinada a cortar vínculos visibles con Kal, Chiara, Corrado y Bonnie.
 

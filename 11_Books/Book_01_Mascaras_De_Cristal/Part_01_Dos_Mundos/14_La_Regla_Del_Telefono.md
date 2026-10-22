@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 14; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Corte de diálogo autorizado por el autor (2026-10-05, M14-1 de 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Marisol_Detector_Infalible.md): se quitó "Eso no pasa por trabajar juntos, Kal."; sigue TERMINADO.
 Protagonistas: Kal Mercer, Marisol Grayson.
 Ventana temporal: el fin de semana inmediatamente anterior al infarto de Hector / H10. Se inserta entre el Capitulo 13 (Auster) y el Capitulo 15 (El porton).
@@ -11,7 +12,7 @@ Cierre corregido (2026-09-03): ya NO termina con Kal prendiendo el telefono y vi
 Nombre del lago del imán (2026-10-08, encargo del autor; DISEÑO): *Lake Meriwether*. No es [[05_Locations/El_Lago]] (H7).
 -->
 
-# Capítulo 14 — La regla del teléfono
+# Capítulo 16 — La regla del teléfono
 
 El papel seguía sobre la repisa, doblado en cuatro, donde llevaba semanas sin que Kal lo tirara ni lo abriera. *Roma Atrii*, arriba del todo, en la letra que ya se sabía de memoria sin haber querido aprenderla. Lo miró un segundo de más mientras cerraba el bolso, decidió otra vez que no era el día, y salió con la casa a medio ordenar.
 

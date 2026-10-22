@@ -1,5 +1,7 @@
 # Mei-Lin Zhao
 
+> **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+
 ## F2 — CANON DEL AUTOR 2026-09-20
 
 En Parte V, **el mismo día del destierro de Bonnie**, antes de Villa y Stavanger. Junto al mar, cree participar en una entrega de mercancía; no espera ceremonia. Nadir dispara por detrás, ejecución limpia, y llora; Kal carga la decisión, Nadir el acto. No documentar detalle táctico.

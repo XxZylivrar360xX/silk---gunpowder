@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 40; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, sexto capítulo (Cap. 40 del manuscrito). Redactado 2026-09-21, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-21): "Mecánico". No es provisional. **Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_III]]):** continuidad (Ettore no estuvo en la Mesa; la sala "del día anterior"; el vuelo al anochecer; *signora*), dos prolepsis de narrador, la familia de certificaciones "Kal lee habitaciones" (se conservan 42, 168 y 196) y el triple inventario de la despedida; "un par de días más" alineado con H18. Sin paquete hondo de atmósfera. Detalle en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]] § 9 parte 3. Sigue BORRADOR hasta lectura del autor.
 Protagonista: Kal Mercer (POV único, tercera persona cercana). Analepsis completa: todo el capítulo ocurre en Palermo, antes de la primera línea del [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/39_Un_Par_De_Dias_Mas|Cap. 39]].
 Personajes con diálogo: Kal Mercer, Chiara Bellandi, Ettore, Leone Valenti, Livia Rinaldi.
@@ -15,7 +16,7 @@ Función: la mitad de Kal sobre Palermo — lo que ve, oye, entiende e interpret
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N40-1, N40-2, N40-3, N40-4, N40-5, N40-6, N40-7, N40-8, N40-9, N40-10, N40-11, N40-12, L40-89, L40-125, L40-211, L40-225. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
-# Capítulo 40 — Mecánico
+# Capítulo 45 — Mecánico
 
 El aire de Palermo entraba húmedo por la ventanilla abierta del coche que los recogió en el aeropuerto. Al sol todavía era templado; en las curvas de sombra de la colina, Kal se cerraba la chaqueta. Llevaba un rato notando que Chiara, con la cabeza apoyada contra la ventanilla, había dejado de hablar en algún punto entre el último semáforo de la ciudad y la primera curva de la colina — no de cansancio: de otra cosa. La ciudad se quedó abajo, blanca y apretada contra el mar, y el camino empezó a subir entre paredes de piedra seca y olivos que llevaban ahí más tiempo del que cualquier cosa llevaba en pie en La Almendra.
 

@@ -1,4 +1,6 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 10; numeración corrida definitiva, el archivo conserva su nombre.
+Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «El loft del soltero».
 Muerte de Dale (2026-10-14, CANON DEL AUTOR; linea autorizada por el autor; el resto sigue TERMINADO): Dale ya no se ahorca la noche del arresto en la comisaria de Hale Valley; pasa diecisiete anos preso y se ahorca en su celda unos nueve anos antes del Libro I. "Fue la ultima vez que Kal vio a Dale vivo" se conserva. Motivo: las cartas de Dale en Sombras de Poder (11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale.md).
 Navidad A1 y cumpleaños (2026-10-08, CANON DEL AUTOR; prosa DISEÑO pendiente de lectura; el resto sigue TERMINADO): un párrafo tras "Para la tercera visita": la obra se para por las fiestas, cada uno pasa la Navidad por su lado y el 1 de enero Kal no le dice a Chiara qué día es. Sale a la luz en la pesca del Cap. 31.
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_c11_el_loft_del_soltero.md). Deuda de canon no bloqueante conservada: por que la familia Mercer dejo de poseer La Casa -- no afecta este estado, no resuelta. RESUELTO (CANON DEL AUTOR 2026-10-04): Chiara no sabe de quien era la casa cuando la ve y defiende cerrar el balcon; Kal se lo dice (ubicacion DISEÑO: discusion de presupuestos, solo el hecho, "Era de mis padres"; la historia de Dale y Ruth sigue reservada al mirador del Cap. 20).
@@ -15,7 +17,7 @@ Arrastre de la reubicacion del Corral (2026-10-04, DISEÑO pendiente de lectura;
 
 -->
 
-# Capítulo 10 — El loft del soltero
+# Capítulo 12 — Los muchachos comen
 
 Nadir no volvió a mirarla como a un huésped después del primer día. La miró como a un problema que todavía no había decidido cómo nombrar.
 

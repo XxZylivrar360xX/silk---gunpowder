@@ -1,4 +1,6 @@
 <!--
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 23; numeración corrida definitiva, el archivo conserva su nombre.
+Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «La letra pequeña».
 Estado: TERMINADO (aprobacion explicita del autor 2026-09-12; CLOSE previo 2026-09-12, Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c23_c24_c25.md). SURGERY 2026-09-27 (auditoria Parte I, lote B, E4; ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B §9 parte 2): mecanica de carpetas de Rivers (A4, A5); raya de narracion (A9); siembras S6 (cheque del Monarch firmado por Matteo) y S5 (segunda frase del mensaje de Chiara, rima con el 44) -- lineas nuevas del agente, BORRADOR hasta lectura del autor. E5 2026-09-27: escena nueva de la moto de Nadir (S1, con S2 dentro; 438 palabras) entre "lo quiero por escrito" y la respuesta de Hoover -- redaccion del agente, BORRADOR/DISENO hasta lectura del autor; lineas canon textuales. Estado de la prosa previa conservado.
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Apariciones: Héctor Navarro, Garrett Cross, Margaret Rivers (abogada de Kal), Jonathan Hoover (exsocio demandado, off-page), Giancarlo Krane (abogado de Hoover, mencionado).
@@ -12,7 +14,7 @@ Microcirugia de dialogo K/C 2026-10-04 (autorizada por el autor; [[13_Auditorias
 Rocco (2026-10-22, decision del autor; prosa DISENO pendiente de lectura; el estado se conserva): custodia a Garrett en la oficina mientras arma las carpetas, sobre la manta de Russ; Danny: "te desgarra el cuello"; Garrett: "Por eso lo dejo entrar". Ficha: 02_Characters/Rocco.md.
 -->
 
-# Capítulo 23 — La letra pequeña
+# Capítulo 25 — Nada caro
 
 El sobre llegó al taller a las nueve y doce de la mañana, entre una factura de neumáticos, el cheque del mes del Monarch firmado por Matteo Bellacorte y un aviso del condado por una grúa que llevaba tres semanas estacionada donde no debía. Membrete de una sociedad que Kal conocía demasiado bien: dos páginas de lenguaje pulcro que decían, de tres maneras distintas para que pareciera inevitable, que su nombre ya no figuraba en el acuerdo del concesionario.
 
