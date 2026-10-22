@@ -65,6 +65,9 @@ Actualizado: 2026-10-14 (diferidos desde PENDING). Lectura por tema, no de arran
   - Sembrar *El Faro* antes de que Chiara lo tome; no confundirlo con *El Farol* (11).
   - Ciclo de Elenna, Cap. 29 del Libro I: reescribir el pasaje de Vivian como código sobre el niño escondido (canon lote 3). Requiere encargo.
   - Incubadora de referencia: [[98_Agent_Handoff/sessions/2026-10-03_claude_buzon_chatgpt_nueve_notas]].
+- **Cobros CANON para el Libro II, diferidos desde PENDING (2026-10-22; texto íntegro en [[98_Agent_Handoff/archive/2026-10-22_PENDING]]):**
+  - Susurro a Varga (autor, 2026-10-17): en el Libro I, Cap. 4, Kal le dijo a Varga «No querrá terminar como Keene en una banca, ¿verdad?»; en el Cap. 5 Chiara pregunta dos veces y Kal lo difiere («Se lo voy a decir cuando firmemos un contrato de asociación oficial»). Al llegar a la reunión de Kal con Dario, una línea muy sencilla. Cobro: al firmar la cadena hotelera (primera sociedad legítima), Chiara pregunta «¿Y ya me vas a decir?» y Kal se lo cuenta.
+  - «Usted es alta» (autor, 2026-10-17): sembrado en el Cap. 5 (máquina de café). Cobro en La Esquina de Mabel: Chiara en tacones lo rebasa; Kal de puntitas, «¿En serio estás muy alta?» / «Eso nunca fue un problema para ti»; él se sube a un banquito de la barra y los dos se ríen. Chiara 1.80, Kal 1.92.
 - Álbum/fotografías, descubrimientos de Corrado y desarrollo posterior de Elenna: consultar fichas y [[07_Ideas/Tres_Hermanas_Epilogo]]; no deshacer decisiones recientes conservadas en archivo.
 
 ## Libros IV/V y herramientas
