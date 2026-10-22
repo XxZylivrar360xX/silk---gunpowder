@@ -34,7 +34,7 @@ Tenía tres razones, y sólo dos las habría dicho en voz alta. A una fiscal de 
 
 ***
 
-El lugar más privado resultó ser una panadería portuguesa de Calle Corona, a dos cuadras del bar de Mabel: seis mesas, un mostrador de vidrio lleno de pastéis de nata y un patio de atrás donde la dueña tendía los manteles. Ningún abogado de Plaza Corona caminaba hasta ahí. Por eso, dijo Rowe, era el único sitio de la ciudad donde podía comerse algo sin que alguien le pidiera una orden de cateo entre bocado y bocado.
+El lugar más privado resultó ser una panadería portuguesa de Calle Corona, a dos cuadras de la Esquina de Mabel: seis mesas, un mostrador de vidrio lleno de pastéis de nata y un patio de atrás donde la dueña tendía los manteles. Ningún abogado de Plaza Corona caminaba hasta ahí. Por eso, dijo Rowe, era el único sitio de la ciudad donde podía comerse algo sin que alguien le pidiera una orden de cateo entre bocado y bocado.
 
 Había llegado antes. Jeans, un suéter gris, el pelo corto todavía húmedo, y nada que dijera *fiscal* salvo la mesa que había elegido: de espaldas a la pared, con la puerta a la vista. Pidió dos cafés y dos pastéis sin preguntar, y se comió el suyo con tenedor.
 
