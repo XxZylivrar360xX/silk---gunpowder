@@ -211,3 +211,14 @@ Tras aplicar: verificación con `editorial-surgery` y actualizar estados en `12_
 - **Cap. 15:** "Subjefa, como la mujer del rumor…" no choca con "el de la costa".
 - **Encabezado:** nota D1–D3 añadida; "Apertura por residuo" ya no describe la prosa como "tercer papel".
 - **Juicio (no tocado):** (a) sintesis: "Sacó también el de la costa… cenaba en la costa" repite "costa" en frases contiguas; (b) "La pregunta llegó…" / "La primera pieza llegó…" repiten "llegó" a una linea; (c) D3: "lo puso por escrito… escribió al margen" roza la repeticion escrito/escribió; (d) siguen "tres conversaciones", "un tercer camino", "un tercero", "Tres favores" en la parte del taller y el rumor: cuentas distintas, legibles, pero densas en "tres".
+
+---
+
+## Propuesta E1–E4 para las repeticiones (2026-10-22, DISEÑO, sin aplicar)
+
+Todas son del Cap. 13 y de una sola palabra o frase.
+
+- **E1. "costa" (l. 146):** "Una subjefa que firmaba los casos de Calle Corona y cenaba en la costa con alguien que pagaba en efectivo." → "Una subjefa que firmaba los casos de Calle Corona y cenaba con alguien que pagaba en efectivo." La costa ya va en el nombre del papel, una frase antes.
+- **E2. "llegó" (l. 24):** "La pregunta llegó en tres piezas." → "La pregunta vino en tres piezas." Se quedan los "llegó" de la primera, la segunda y la tercera pieza: forman una anáfora deliberada ("Llegó como siempre llegaba…").
+- **E3. "escrito/escribió" (l. 46):** "lo puso por escrito en una hoja suelta" → "lo pasó a una hoja suelta".
+- **E4. Cúmulo de "tres" (l. 170):** "Sólo le dio a quien fuera a decidir algo un tercer camino, más ancho," → "Sólo le dio a quien fuera a decidir algo otro camino, más ancho,". Se quedan "un tercero" (Chiara en el taller: término del caso), "tres conversaciones" y "Tres favores", porque esas dos cifras se corresponden (tres conversaciones = tres favores) y son lógica interna de la escena; **protección deliberada**.
