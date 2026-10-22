@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-22: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]] · consecuencias del Cap. 9 (opciones 1 y 2 del autor): la bolsa de Rowe en el mostrador de Crowe; cuota a la vulcanizadora y objeción de Nadir por riesgo; libreta de los fiados con eco en el 37. Prosa DISEÑO.
 - 2026-10-22: [[97_Supersedido/README]] · mantenimiento de fichas de Fabrizio (y voz), Tommaso, Volpi y Livia Ferraro: historial superado a `97_Supersedido/`, sin cambiar canon; dudas en PENDING.
 - 2026-10-22: [[02_Characters/Rocco]] · CANON: Rocco sale desde el Cap. 1; siembras en los caps. 1, 23, 30, 32 y 46 (prosa DISEÑO) para el momento "John Wick" de El Patio en *Sombras de Poder*.
 - 2026-10-22: [[98_Agent_Handoff/sessions/2026-10-22_claude_puntos_chatgpt_caps_01_08]] · CANON: Chiara llega en jet privado desde Palermo y la revisa migración en el hangar privado de Kingsley Field (puerto de entrada); en el Cap. 41 entra por Nueva York. Microcirugía en los caps. 1, 2 y 7; ajustes en El_Casino y San_Aurelio. CANON H3: la tesis del taxi (Cap. 7) pasa a "Estaba buscando ver la misma pintura en un cuadro diferente"; Hitos.md actualizado.

@@ -24,6 +24,7 @@ Función: paga el siguiente tramo del hilo de la invitación del yate — Kal le
 - Héctor: una sola línea de continuidad post-Stella (rigidez, cansancio leve), sin reabrir el susto cardíaco ni medicalizarlo.
 - Walt: segunda vez que Kal le pregunta algo sobre Chiara que él tampoco sabe responder (la primera fue la Romanée-Conti en el Cap. 36, donde Walt opinó sobre su significado, no la recomendó) — patrón cómico reconocido por el propio Walt, sin alargarlo más de una escena.
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N37-1. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
+Libreta de los fiados (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): la cuota de la ferreteria se anota en la ultima hoja de la libreta de los fiados, donde Kal empezo a apuntar las subidas del Tasador en el Cap. 10 (vulcanizadora, tras pagar la bolsa de Rowe).
 -->
 
 # Capítulo 37 — Cuatro letras
@@ -140,7 +141,7 @@ A media mañana entró el de la ferretería de la esquina, con la gorra en la ma
 
 —Eso le dije. Me la subió igual.
 
-Kal le preguntó qué día pasaban a cobrar y lo anotó. Debajo de otra fecha que no había tachado.
+Kal le preguntó qué día pasaban a cobrar y lo anotó en la última hoja de la libreta de los fiados. Debajo de otra fecha que no había tachado.
 
 En la bahía del fondo, la que Danny todavía no había llegado a tocar, había un sedán gris que la grúa había traído al amanecer y una chica con medio cuerpo bajo el capó.
 
