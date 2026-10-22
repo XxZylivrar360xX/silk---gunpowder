@@ -7,7 +7,7 @@ Actualizado: 2026-10-22. Máximo 800 palabras. Brief anterior íntegro: [[98_Age
 1. **Libro II, *Sombras de Poder*** (diseño activo): guía [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 caps., DISEÑO); estructura [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]; calendario [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]].
 2. **Esperan respuesta del autor (Libro II):** F2, semillas Kal–Chiara, voces REL-01 y Navidad de Almendra Towing (en pausa). Lista en [[98_Agent_Handoff/PENDING]].
 3. **Esperan lectura del autor (Libro I):** auditorías, frentes 3–5 y la prosa DISEÑO de abajo. Rutas en PENDING.
-4. **Arco Caps. 14–16:** propuesta sin aplicar, espera decisión del autor: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Propuesta_Arco_Caps_14-16_Lector]].
+4. **Arco Caps. 14–16:** aplicado 2026-10-22 (A1–A9, A7-B); espera lectura del autor de la prosa nueva y del reporte de pendientes: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Propuesta_Arco_Caps_14-16_Lector]].
 5. **Siguiente trabajo posible:** consolidar S1 (Cap. 17) de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]].
 
 ## Estado del manuscrito (Libro I, *Máscaras de Cristal*)

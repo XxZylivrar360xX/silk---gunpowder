@@ -806,7 +806,7 @@ Mientras Kal está fuera, [[02_Characters/Nadir_Amrani]] y [[02_Characters/Danie
 
 ## Héctor, el que los empuja al otro
 
-Chiara empieza a frecuentar a Héctor en el hospital — es el hombre que Kal más admira. Y Héctor, sin que nadie se lo pida, se convierte en la persona que empieza a hablarles de lo que están empezando a sentir. **Es él quien los empuja hacia el otro, no al revés.**
+Chiara empieza a frecuentar a Héctor en el hospital — es el hombre que Kal más admira. *(Manuscrito, 2026-10-22: su visita va en el Cap. 15, el sábado; la conversación con Kal, en el 16. Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Propuesta_Arco_Caps_14-16_Lector]].)* Y Héctor, sin que nadie se lo pida, se convierte en la persona que empieza a hablarles de lo que están empezando a sentir. **Es él quien los empuja hacia el otro, no al revés.**
 
 **Y sabe exactamente lo que está haciendo.** Su ex mujer lo abandonó hace muchos años, y siempre se arrepintió de no haber vivido ese amor con todas sus cuatro letras — envejeció enojado y triste con la vida por eso. No quiere que Kal cargue con el mismo arrepentimiento.
 

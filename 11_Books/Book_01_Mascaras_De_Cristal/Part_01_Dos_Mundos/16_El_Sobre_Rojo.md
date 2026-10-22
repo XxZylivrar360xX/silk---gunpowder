@@ -2,7 +2,7 @@
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-26 (Prioridad C, autorizada por el autor, sigue TERMINADO): prolepsis de la cocina, saltos de POV (casino, cuarto, auto anclado en Kal), parte del infarto a Kal comprimido, contradiccion "llegaron / seguia conduciendo" al Monarch, tercera "respuesta suficiente", siembra de Matteo ("Matteo cubre el piso", hilo C; rima con el Cap. 41). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17.md.
 Cirugia de dialogo de terceros 2026-10-04 (S2 del Plan_Cirugia_Terceros_Parte_I; sigue TERMINADO): visita de Chiara a Hector podada por decision del autor -- Hector solo pregunta y gruñe; salen sus aforismos ("Se equivoca acompañada...", "sostener algo con el cuerpo..."), "Usted ya siente por el...", "con usted no me sale ser el cascarrabias" y el tuteo; la ternura queda para el monologo del Cap. 24c. Chiara se va con la pregunta "¿Y el que no le ha contado a usted?" (decision del autor). Lineas de Chiara intactas salvo el ajuste minimo de enlace. "Cuatro letras" intacta. La prosa nueva es DISENO pendiente de lectura del autor. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I.md.
 Protagonistas: Kal Mercer, Chiara Bellandi, Hector Navarro.
-Arco lector 14-16 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_14-16_Lector; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): A1 -- la visita de Chiara a Hector sale de aqui y pasa al Cap. 15 (sabado); el corte cose "Matteo cubre el piso" con "Kal llego con Chiara al hospital"; el capitulo queda entero en POV Kal (casino -> hospital -> coche). A3 -- fuera el primer "Kal no contesto." y el "--No." de Hector. A4 -- "La furia le llego tarde, ya en el casino"; en el hospital "con la furia bajada, no apagada, y la sintio volver entera". A5 -- "Por primera vez desde que abrio el sobre". A6 -- en el coche Kal marca a Nadir: buzon con mensaje grabado ("Soy Nadir. Ya sabes que hacer."), en contraste con el de Kal (Cap. 14). A7 opcion B -- maneja Chiara el sedan del Monarch; al llegar, Kal se acuerda del iman en la guantera de la camioneta y no dice nada (reaparece en el Cap. 21). A8 -- alubias y el planteo de Diego comprimidos a narrador; se conservan 6-4, "como quien memoriza a un testigo", la casa y *balayage*. Telefono: "saco el telefono" (en el 14 queda sobre el asiento).
+Arco lector 14-16 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_14-16_Lector; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): A1 -- la visita de Chiara a Hector sale de aqui y pasa al Cap. 15 (sabado); el corte cose "Matteo cubre el piso" con "Kal llego al hospital"; el capitulo queda entero en POV Kal (casino -> hospital -> coche). A3 -- fuera el primer "Kal no contesto." y el "--No." de Hector. A4 -- "La furia le llego tarde, ya en el casino"; en el hospital "con la furia bajada, no apagada, y la sintio volver entera". A5 -- "Por primera vez desde que abrio el sobre". A6 -- en el coche Kal marca a Nadir: buzon con mensaje grabado ("Nadir. Deja recado; si es de dinero, la cifra primero."; ajustado a su voz de cobro por el supervisor), en contraste con el de Kal (Cap. 14). A7 opcion B -- maneja Chiara el sedan del Monarch; al llegar, Kal se acuerda del iman en la guantera de la camioneta y no dice nada (reaparece en el Cap. 21). A8 -- alubias y el planteo de Diego comprimidos a narrador; se conservan 6-4, "como quien memoriza a un testigo", la casa y *balayage*. Telefono: "saco el telefono" (en el 14 queda sobre el asiento). Supervision 2026-10-22: fuera "segun Marisol" en las alubias (en el 14 lo de Michael lo dice Kal); Diego trae cafe "a todas las clases", como en el 14.
 Ventana temporal: continua directamente del Capitulo 15 (POV Chiara). El domingo en que Kal vuelve del campamento (casino, hospital, coche).
 Lugares: La Casa (loft de Kal), The Monarch Casino & Hotel, Hospital Santa Aurelia.
 Funcion: FUSIONADO (2026-09-03), a peticion del autor -- el antiguo Cap. 17 (El sobre rojo, POV Kal abriendo la carta) y el antiguo Cap. 18 (Cuatro letras, las dos conversaciones de Hector) se unen en un solo capitulo, porque por separado cada uno resultaba demasiado corto para sostenerse solo. "El sobre rojo" queda como titulo oficial del capitulo completo; "Cuatro letras" se conserva como nombre de la segunda mitad (la confesion de Hector), marcado con su propio encabezado interno. Ejecuta la segunda mitad de H10 completa: Kal abre la carta y enciende el telefono a la vez, la avalancha de llamadas, corre al casino, y de ahi al hospital -- la conversacion de Hector con Kal (la de Chiara paso al Cap. 15 el 2026-10-22) y el cierre en el auto, con Chiara preguntandole por el campamento.
@@ -61,7 +61,7 @@ Kal se quedó quieto un segundo.
 
 ***
 
-Kal llegó con Chiara al hospital con la furia bajada, no apagada, y la sintió volver entera cuando entró al cuarto y vio a Héctor despierto, pálido, con el mismo gesto de siempre en la cara aunque el cuerpo le hubiera fallado.
+Kal llegó al hospital con la furia bajada, no apagada, y la sintió volver entera cuando entró al cuarto y vio a Héctor despierto, pálido, con el mismo gesto de siempre en la cara aunque el cuerpo le hubiera fallado.
 
 —Se te ve peor a ti que a mí —dijo Héctor, antes de que Kal pudiera decir nada.
 
@@ -161,7 +161,7 @@ Kal se levantó despacio y le apretó el hombro a Héctor antes de dejarlo dormi
 
 ***
 
-Bajaron juntos hasta el estacionamiento sin hablar. Ya en el asiento del copiloto, Kal marcó a Nadir. Le salió el buzón, con la voz de Nadir grabada hacía quién sabe cuánto, despreocupada: *Soy Nadir. Ya sabes qué hacer.* Kal colgó sin dejar nada.
+Bajaron juntos hasta el estacionamiento sin hablar. Ya en el asiento del copiloto, Kal marcó a Nadir. Le salió el buzón, con la voz de Nadir grabada hacía quién sabe cuánto, despreocupada: *Nadir. Deja recado; si es de dinero, la cifra primero.* Kal colgó sin dejar nada.
 
 Chiara esperó a salir del estacionamiento antes de preguntar lo único que no tenía nada que ver con Héctor.
 
@@ -175,7 +175,7 @@ Kal la miró de reojo, como si la pregunta lo hubiera tomado por sorpresa en el 
 
 —Contra mí. —No sonaba ofendido. Sonaba casi orgulloso.
 
-Le contó lo de las alubias, quemadas las dos noches, como las quemaba Michael según Marisol. Chiara guardó eso en algún lado sin comentarlo, y Kal siguió con un chico de la clase de Marisol que le llevaba café todas las mañanas.
+Le contó lo de las alubias, quemadas las dos noches, como las quemaba Michael. Chiara guardó eso en algún lado sin comentarlo, y Kal siguió con un chico de la universidad que le llevaba café a todas las clases.
 
 —Diego —dijo.
 

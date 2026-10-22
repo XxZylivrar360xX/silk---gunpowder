@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-22: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Propuesta_Arco_Caps_14-16_Lector]] · arco lector 14–16 aplicado (visita a Héctor al Cap. 15, 16 entero en POV Kal, *balayage*, buzón de Nadir, imán en la guantera); prosa nueva DISEÑO; pendientes en el reporte.
 - 2026-10-22: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]] · consecuencias del Cap. 9 (opciones 1 y 2 del autor): la bolsa de Rowe en el mostrador de Crowe; cuota a la vulcanizadora y objeción de Nadir por riesgo; libreta de los fiados con eco en el 37; seguridad del Monarch = gente de Dario (9) y tarjeta de Dario en la casa común (10); Il Consorzio leería la muñeca como afrenta a la familia, y el silencio de Dario se cobra en el Libro II junto con la cuenta abierta del 47 (CANON). Prosa DISEÑO.
 - 2026-10-22: [[97_Supersedido/README]] · mantenimiento de fichas de Fabrizio (y voz), Tommaso, Volpi y Livia Ferraro: historial superado a `97_Supersedido/`, sin cambiar canon; dudas en PENDING.
 - 2026-10-22: [[02_Characters/Rocco]] · CANON: Rocco sale desde el Cap. 1; siembras en los caps. 1, 23, 30, 32 y 46 (prosa DISEÑO) para el momento "John Wick" de El Patio en *Sombras de Poder*.
