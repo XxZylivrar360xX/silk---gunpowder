@@ -75,7 +75,7 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 ## Nombrados o Reservados Sin Ficha
 
 - **Héctor Duarte** — nombre reservado para otro personaje futuro. No usar para Michael Grayson ni Héctor Navarro.
-- **Rocco** — perro de Danny. No necesita ficha humana, pero puede necesitar nota propia si vuelve como objeto emocional.
+- [[02_Characters/Rocco]] — pitbull mestizo del taller (collar de Danny). Ficha propia desde 2026-10-22.
 
 ## Funciones Pendientes De Nombre
 

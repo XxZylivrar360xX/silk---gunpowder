@@ -27,7 +27,7 @@ Mapa de navegación de *Seda y Pólvora*. Este índice apunta a las fuentes vige
 ## Dominios del universo
 
 - **Cronología:** [[01_Timeline/00_README]] · [[01_Timeline/01_Indice_Cronologico]] · cronologías por libro, del archivo 02_Libro_01_Mascaras_De_Cristal al 08_Libro_07_Camino_A_Casa.
-- **Personajes:** [[02_Characters/README]] · [[02_Characters/Auditoria_Reparto]] · [[02_Characters/Kal_Mercer]] · [[02_Characters/Chiara_Bellandi]].
+- **Personajes:** [[02_Characters/README]] · [[02_Characters/Auditoria_Reparto]] · [[02_Characters/Kal_Mercer]] · [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Rocco]].
 - **Facciones:** [[03_Factions/Mapa_de_Conflicto_Activo]] · [[03_Factions/Rivers_y_Krane]].
 - **Conceptos:** [[04_Concepts/La_Guerra_de_los_Tres]] · [[04_Concepts/El_Territorio_y_El_Relato]].
 - **Lugares:** [[05_Locations/Mapa_Operativo_de_San_Aurelio]] · [[05_Locations/San_Aurelio]] · [[05_Locations/Norte_Rural_de_San_Aurelio]] · protomapas (guía, no canon): [[99_Reference/location_references/la_almendra.png|La Almendra]] · [[99_Reference/location_references/la_isla_punta_dorada.png|La Isla]].
