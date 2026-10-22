@@ -187,7 +187,7 @@ Tras aplicar: verificación con `editorial-surgery` y actualizar estados en `12_
 
 ---
 
-## Propuesta D1–D3 para los detalles de juicio (2026-10-22, DISEÑO, sin aplicar)
+## Propuesta D1–D3 para los detalles de juicio (2026-10-22, DISEÑO, APLICADA 2026-10-22)
 
 **D1. Dos cuentas de "tres" (Cap. 13).** Cambiar el ordinal del papel de la subjefa por un nombre propio que lo saque de la cuenta y conserve el eco del 12 ("un restaurante de la costa").
 - Apertura: "El tercer papel seguía donde lo había dejado" → "El papel de la costa seguía donde lo había dejado".
@@ -201,3 +201,13 @@ Tras aplicar: verificación con `editorial-surgery` y actualizar estados en `12_
 
 **D3. Quién escribe la nota de la gasolinera (Cap. 13).** Chiara la pone por escrito, como hace con la pieza del sur (R3).
 - "Volvió al penthouse esa misma tarde y, antes de guardar la nota en el cajón nuevo — el que ya empezaba a llenarse—, escribió al margen" → "Volvió al penthouse esa misma tarde, lo puso por escrito en una hoja suelta y, antes de guardarla en el cajón nuevo — el que ya empezaba a llenarse—, escribió al margen".
+
+## Reporte de consistencia D1–D3 (supervisor, 2026-10-22)
+
+- **Exactitud:** `git diff` del Cap. 13 = D1 (tres sustituciones: apertura, sintesis, cierre), D2 y D3 literales; nada mas en la prosa. "Lo devolvió al cajón." intacto.
+- **Huerfanos:** sin "tercer papel" ni "el del cajón" en la prosa. "Al margen del primer papel" (taller) remite a la gasolinera, sin choque.
+- **Apertura:** "Un dato sin pregunta…" → "La pregunta llegó en tres piezas." encadena bien y la tríada "primera/segunda/tercera pieza" la cumple; la sintesis ("las tres piezas dejaban de ser tres piezas") y "Ahora tenía la pregunta" cierran el eco.
+- **D3 vs R3:** gramatical; "lo puso por escrito en una hoja suelta" / "lo apuntó en una hoja aparte" son paralelas sin repetir verbo.
+- **Cap. 15:** "Subjefa, como la mujer del rumor…" no choca con "el de la costa".
+- **Encabezado:** nota D1–D3 añadida; "Apertura por residuo" ya no describe la prosa como "tercer papel".
+- **Juicio (no tocado):** (a) sintesis: "Sacó también el de la costa… cenaba en la costa" repite "costa" en frases contiguas; (b) "La pregunta llegó…" / "La primera pieza llegó…" repiten "llegó" a una linea; (c) D3: "lo puso por escrito… escribió al margen" roza la repeticion escrito/escribió; (d) siguen "tres conversaciones", "un tercer camino", "un tercero", "Tres favores" en la parte del taller y el rumor: cuentas distintas, legibles, pero densas en "tres".

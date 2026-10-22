@@ -5,23 +5,23 @@ Protagonistas: Chiara Bellandi (partes 1-4), Kal Mercer (parte 5).
 Ventana temporal: semanas despues del Capitulo 12 (Roma Atrii). Kal y Chiara siguen a caballo entre el penthouse y la casa de el; todavia no hay primer beso.
 Lugares: El Penthouse, La Esquina de Mabel, The Monarch Casino & Hotel (piso de juego), Almendra Towing / El Patio, Comisaria central de San Aurelio (Calle Corona).
 Funcion: DISEÑO nuevo (2026-09-01), a peticion del autor. Primer favor grande que Chiara le devuelve a Kal sin que el se lo pida. La policia arma un caso formal contra el conductor del Peugeot rojo (ver ledger, "El Peugeot rojo que Blake persigue") con dos sospechosos: Rafael "Rafe" Dominguez (Los Bravos de Santa Brigida) y Kal. Chiara arma la verdad completa cruzando tres piezas de su red -- calle (gasolinera), Mabel (chisme de barra sobre el sur) y Kenji/i Sussurri (cifrado real) -- usando un codigo tematico propio basado en versiculos de la Vulgata que memorizo de niña: cada referencia tiene un significado fijo, no es traduccion literal. Resuelve el "tercer papel" (la subjefa) sembrado en el Capitulo 12: la subjefa es Lucia Varek, primera escena de ella con Kal. Chiara siembra duda razonable esparciendo un rumor sobre un corredor de piezas del norte que paga en efectivo sin recibos -- candidato mas creible que cualquiera de los dos sospechosos reales -- y le da a Kal la coartada antes de que declare. El caso se cae. Cierra con la linea del autor: "Eres realmente buena en esto" / "Lo soy cuando amenazan a mi gente."
-Apertura por residuo: retoma el "tercer papel" del Capitulo 12 -- el rumor sin resolver sobre la subjefa vista con alguien del mundo criminal, que Chiara guardo sin saber para que.
+Apertura por residuo: retoma el tercer rumor del Capitulo 12 (en la prosa, 'el papel de la costa') -- el rumor sin resolver sobre la subjefa vista con alguien del mundo criminal, que Chiara guardo sin saber para que.
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); el estado se conserva): Mabel, fuera "Yo solo sirvo cafe" en la pieza de Rafe Dominguez (la muletilla tiene origen en el 1 y eco en el 11; decision del autor). "Te pago yo el cafe" se queda (decision del autor).
 Narrador (2026-10-05, SURGERY autorizada por el autor; sigue TERMINADO): apertura comprimida, fuera "No era pereza. Era que". Detalle: 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Narrador_Tesis_Resenas_ChatGPT.md.
 Foto de Plaza Corona (2026-10-18, orden del autor; DISENO del agente, pendiente de lectura; sigue TERMINADO): la fotografia granulada que Lucia desliza es el cuadro de la camara de Plaza Corona durante el 360 del Cap. 8 (reloj del Ayuntamiento, fuente, Peugeot de costado, dos manchas negras donde irian las caras). Kal la reconoce y no la toma; Lucia no menciona al acompanante.
 Vela de Palermo (2026-10-18, orden del autor; capitulo TERMINADO, el estado se conserva): recuerdo movido intacto desde el Cap. 2 a la noche de domestici eius, antes de "Esa noche no encendio una vela". Puente DISENO: "Lo primero que le pidieron las manos fue una vela." El "ya lo arreglo yo" de Corrado se cobra en la lampara de Chiara.
-Arco lector 11-13 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_11-13_Lector; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): P1, P3, P4A, P5, P6, P8a/b/d aplicados. Kenji entrega -> vela y recuerdo de Corrado -> lampara -> MICH. 7:6 y sintesis; 'Su propia casa' = el Monarch; el papel del cajon (subjefa) se saca y se devuelve sin usar (Chiara no sabe su nombre; el 15 une apellido y rumor); demora de tres semanas hecha decision ('Dijiste que me lo traias tu' / 'Te lo traigo entero...'); nota al margen ('Ps. 26:12') sin tachar; Kal espera de pie y se sienta tras el 'Sientese'. VERIFY (2026-10-22): V2 margen 'Ps. 26:12' (no 'testes iniqui'); V4 'sentado en una de sus mesas'; V5 'el olor de su propio papel'. R1/R3 (2026-10-22): 'Tardó poco más de dos semanas' (apertura) y 'Llevaba semanas faltando' (taller); dialogo 'tres semanas' intacto; Auster en hoja aparte con referencia al margen; triada 'gasolinera / del sur / Kenji'.
+Arco lector 11-13 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_11-13_Lector; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): P1, P3, P4A, P5, P6, P8a/b/d aplicados. Kenji entrega -> vela y recuerdo de Corrado -> lampara -> MICH. 7:6 y sintesis; 'Su propia casa' = el Monarch; el papel del cajon (subjefa) se saca y se devuelve sin usar (Chiara no sabe su nombre; el 15 une apellido y rumor); demora de tres semanas hecha decision ('Dijiste que me lo traias tu' / 'Te lo traigo entero...'); nota al margen ('Ps. 26:12') sin tachar; Kal espera de pie y se sienta tras el 'Sientese'. VERIFY (2026-10-22): V2 margen 'Ps. 26:12' (no 'testes iniqui'); V4 'sentado en una de sus mesas'; V5 'el olor de su propio papel'. R1/R3 (2026-10-22): 'Tardó poco más de dos semanas' (apertura) y 'Llevaba semanas faltando' (taller); dialogo 'tres semanas' intacto; Auster en hoja aparte con referencia al margen; triada 'gasolinera / del sur / Kenji'. D1–D3 (2026-10-22): papel de la subjefa = 'el de la costa' (apertura, sintesis, cierre; sustituye 'tercer papel'/'del cajon'); apertura 'La pregunta llegó en tres piezas.' (sustituye 'Tardó poco más de dos semanas'); nota de la gasolinera puesta por escrito en hoja suelta, como la del sur.
 -->
 
 # Capítulo 13 — Auster
 
-El tercer papel seguía donde lo había dejado, en el cajón que no era el de las cartas ni el de los recibos: un rumor sin nombre completo, sobre una mujer sin nombre completo, vista dos veces con alguien que nadie en la mesa había reconocido.
+El papel de la costa seguía donde lo había dejado, en el cajón que no era el de las cartas ni el de los recibos: un rumor sin nombre completo, sobre una mujer sin nombre completo, vista dos veces con alguien que nadie en la mesa había reconocido.
 
 Chiara lo sacaba cada tantos días, lo leía otra vez, y lo volvía a guardar.
 
 Un dato sin pregunta todavía no era un dato: era sólo una espera con forma de papel.
 
-Tardó poco más de dos semanas.
+La pregunta llegó en tres piezas.
 
 ***
 
@@ -43,7 +43,7 @@ Mabel se limpió las manos en el delantal, ese gesto que usaba cuando decidía c
 
 —Lo que digo es que hay gente de traje reuniéndose de noche en un lugar que ningún hombre de traje elegiría por gusto. El resto lo armas tú, que para eso te pago yo el café.
 
-Chiara no la corrigió. Volvió al penthouse esa misma tarde y, antes de guardar la nota en el cajón nuevo — el que ya empezaba a llenarse—, escribió al margen, en la letra apretada que sólo ella entendía, una sola línea:
+Chiara no la corrigió. Volvió al penthouse esa misma tarde, lo puso por escrito en una hoja suelta y, antes de guardarla en el cajón nuevo — el que ya empezaba a llenarse—, escribió al margen, en la letra apretada que sólo ella entendía, una sola línea:
 
 *Ps. 26:12.*
 
@@ -143,7 +143,7 @@ Falsos testigos. El sur. La propia casa.
 
 No era una acusación todavía. Era algo peor: era una dirección. Alguien, en algún despacho de Calle Corona, había decidido que el Peugeot rojo merecía un nombre, y había encontrado dos candidatos igual de convenientes — uno porque su historial lo hacía fácil de creer, el otro porque nadie en San Aurelio sabía todavía lo suficiente de él como para dudar.
 
-Sacó también el del cajón, el que llevaba semanas esperando su pregunta. Una subjefa que firmaba los casos de Calle Corona y cenaba en la costa con alguien que pagaba en efectivo. Ahora tenía la pregunta: el caso de Kal iba a terminar en su escritorio.
+Sacó también el de la costa, el que llevaba semanas esperando su pregunta. Una subjefa que firmaba los casos de Calle Corona y cenaba en la costa con alguien que pagaba en efectivo. Ahora tenía la pregunta: el caso de Kal iba a terminar en su escritorio.
 
 Lo sostuvo un momento. Con eso se podía hacer ruido, y el ruido se iba a oír en el mismo despacho donde estaba el nombre de Kal.
 
@@ -289,4 +289,4 @@ Kal se quedó con eso un momento.
 
 Afuera, San Aurelio seguía su ritmo de siempre: alguien en el sur cargando un nombre que no le pertenecía del todo, alguien en el norte a punto de recibir una visita incómoda por un delito que probablemente sí había cometido, aunque no ése.
 
-Chiara ya lo sabía. Se lo guardó, junto con los tres papeles que nadie más iba a ver nunca juntos, y el del cajón, que todavía no había usado.
+Chiara ya lo sabía. Se lo guardó, junto con los tres papeles que nadie más iba a ver nunca juntos, y el de la costa, que todavía no había usado.
