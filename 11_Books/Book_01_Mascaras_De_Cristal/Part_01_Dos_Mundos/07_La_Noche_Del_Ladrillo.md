@@ -9,6 +9,7 @@ Lugares: Gabriella's (fiesta de vestimenta blanca).
 Funcion: ejecutar H3 completo (a, b, c) — la noche del ladrillo. Tres apariciones de Kal en la cabeza de Chiara sin que este presente: el Peugeot (primera vez), la dedicatoria de Volare (segunda vez, ya registrada como patron y no como dato suelto), y su llegada real con la banda de la Almendra (la tercera, esta si en persona). Cierra con el final de lo de Blake — ruptura en la calle, no por Kal sino porque ella entiende que buscaba algo que ya habia encontrado en otro lado.
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N7-1 a N7-7. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 Cirugia y diseno 2026-10-17 (autorizados por el autor; sigue TERMINADO, prosa nueva DISENO pendiente de lectura): P1-P6 (taxi comprimido y cierre con la frase canon de H3; tercera vez sin recapitulado; fuera "la segunda del rato", "amanecido", la risa de Kal "en ese salon" y el doble "nadie sabia" de Volare; costura del nombre de Mercer via Almendra Towing). Anclaje: Gabriella's en Santa Brigida, frente a La Isla. Siembra: Blake cuenta que tras Keene manda la subjefa en funciones (sin nombre; CANON 2026-10-17). Continuidad: Nadir y Danny ya vistos en la acera del Cap. 5; Kal presenta formalmente a Nadir ("Tu amiga", paga el "Con una amiga" del 5) y a Hector. Ver 98_Agent_Handoff/sessions/2026-10-17_claude_cap07_geografia_y_mando_interino.md.
+Taxi 2026-10-22 (CANON DEL AUTOR): la tesis de H3 pasa a "Estaba buscando ver la misma pintura en un cuadro diferente."; fuera la lista de Blake, la glosa de Kal y "se habia equivocado de cuarto".
 Costura de entradas/salidas 2026-10-18 (DISENO, pendiente de lectura): tras el tocador Chiara sale a la entrada (se cruza con Dario), espera en la pared donde fumo y vuelve a entrar despues de Kal; antes "volvio a entrar" desde el tocador y la salida no estaba escrita. Imitacion de Kal ("Ciao, sono Chiara Bellandi", siembra del "Ciao, bella" del Cap. 35) movida del pasillo del ladrillo a "Traes la sonrisa de las juntas" (decision del autor): ahora responde a la mascara publica de Chiara; sale "La que pones cuando alguien habla..."; el ladrillo cierra solo la escena del pasillo.
 SURGERY 2026-10-22 (autorizada por el autor; puntos de ChatGPT 2026-10-19; sigue TERMINADO): en el taxi, "Habia salido buscando en otro lo que ya conocia:" -> "Habia salido para que" (REPETICION FUNCIONAL/LEXICAL: adelantaba la frase canon de H3, que queda intacta y ahora es la unica formulacion). Protegidos: la frase canon, el parecido fisico (D7; lo cobra el 18), "pensar sin editarse", el ladrillo en la cadera y "Esa cancion si la definia" (INTERIORIDAD; cobra "para definirla" de Volare).
 -->
@@ -337,10 +338,10 @@ Adentro del taxi, con la ciudad pasando borrosa por la ventana, Chiara dejó que
 
 Blake y Kal eran, por fuera, casi el mismo hombre. Los dos rubios. Los dos de ojos azules.
 
-Pero Blake necesitaba llenar el espacio en el que estaba parado — necesitaba que todos supieran que ella era suya, que su coche era rápido, que su lugar en el Departamento importaba. Kal no necesitaba nada de eso. Kal sólo existía en el espacio que se había ganado, sin pedirle permiso a nadie para ocuparlo, y sin necesitar que ella se lo confirmara.
+Pero Blake necesitaba llenar el espacio en el que estaba parado. Kal sólo existía en el espacio que se había ganado.
 
-No había salido con Blake por Blake. Había salido para que alguien la viera de verdad. Y se había equivocado de cuarto.
+No había salido con Blake por Blake.
 
-Había estado buscando al mismo hombre en los ojos de otro.
+Estaba buscando ver la misma pintura en un cuadro diferente.
 
 El ladrillo, todavía en el bolso, se le clavó en la cadera con cada bache del camino, y por primera vez en mucho tiempo, a Chiara no le importó que algo le doliera un poco.

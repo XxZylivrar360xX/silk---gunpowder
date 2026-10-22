@@ -988,7 +988,9 @@ Los tres están en el mismo edificio la misma noche. **La escena no tiene que de
 
 > Estaba buscando en Blake algo que **jamás iba a encontrar, porque ya lo había encontrado — justamente en Kal**.
 >
-> Estaba buscando al mismo hombre en los ojos de otro.
+> Estaba buscando ver la misma pintura en un cuadro diferente.
+>
+> *(CANON DEL AUTOR 2026-10-22: sustituye "Estaba buscando al mismo hombre en los ojos de otro".)*
 
 **La coincidencia:** los dos son rubios de ojos azules.
 
