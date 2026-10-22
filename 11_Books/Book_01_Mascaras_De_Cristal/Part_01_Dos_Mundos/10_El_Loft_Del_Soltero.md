@@ -15,6 +15,9 @@ Función: ejecutar H14, "El loft del soltero": la fricción con Nadir, la recomp
 Revisión 2026-08-30: compra, visita al cascarón y tres etapas de obra dramatizadas; arquitectura del loft fijada; doble fondo de Dale y caja de acero resistente al fuego integrados. La caja de runas se guarda sin abrir y no vuelve a mencionarse.
 Arrastre de la reubicacion del Corral (2026-10-04, DISEÑO pendiente de lectura; plan [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Reubicacion_Corral]]): la estancia en la casa comun ya no viene del ataque del hipodromo sino del asalto del Tasador a Rowe (nuevo Cap. 9, [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_La_Balanza]]): muñeca con ferula tres semanas, no conmocion. Fuera: receta y alarma, "dos dedos a la sien", la palabra perdida (*L'indirizzo*), "si te duele la cabeza" (x2), la claridad en los lentes, el mareo, el dolor de cabeza de la noche que se queda, la gente de Dario en el Monarch (paso al 24c). Friccion con Nadir con signo cambiado: le reprocha a Kal que el problema lo busco el ("Me explicaste que la gente de Crowe le torcio la muñeca por un papel que firmaste tu... Y Crowe lo sabe"). Presupuestos: "Recuperarte de algo que te hicieron por mi / No me lo hicieron por ti. Me lo hicieron a mi" (ella rechaza la deuda; el la anota igual). Revisar en lectura si los deseos de la cirugia de dialogo (ella quiere dejar de ser carga) necesitan mas giro.
 
+Crowe en el arco del loft (2026-10-22, decision del autor: opciones 1 y 2 del estudio del Cap. 9; prosa DISENO pendiente de lectura; el resto sigue TERMINADO): escena nueva tras Walt: la bolsa de Rowe aparece en la vitrina del primer local del Tasador; Kal la paga sin regatear ('Que adentro va todo': Crowe queria que entrara a pagarla) y la devuelve a la fiscalia en la cajuela del primer coche del resguardo, con el tanque lleno. Respuesta de Crowe: cuota a la vulcanizadora 'por la competencia' y pregunta por quien duerme en la casa comun; la objecion de Nadir pasa de espacio a riesgo (el chico no duerme ahi por miedo, no por falta de cuarto); Kal apunta la fecha en la libreta de los fiados (eco con 'Debajo de otra fecha que no habia tachado' del Cap. 37). La compra de la casa responde a eso: sacar su riesgo de la casa de todos.
+Dario y la casa comun (2026-10-22, decision del autor: opcion 3 del estudio del Cap. 9; prosa DISENO pendiente de lectura): al cuarto dia un chofer del Monarch recoge el Mercedes en la casa comun y deja una tarjeta de Dario ('Que se mejore pronto. Aqui la esperamos.') en un sobre con la direccion completa, entregado en mano: Dario sabe donde duerme sin que ella se lo dijera (la version que le dio fue la caida en el spa). Chiara no se la ensena a Kal. Alimenta la sospecha de Dario hacia Kal en el 24c y el 'A Dario, menos' de Chiara.
+Il Consorzio (2026-10-22, idea del autor; prosa DISENO): la tarjeta de Dario implica que calla ante Il Consorzio, y ese silencio tambien se cobra (siembra del 9). CANON DEL AUTOR (2026-10-22): Dario lo cobra en Sombras de Poder junto con la cuenta abierta del Cap. 47 (12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal.md).
 -->
 
 # Capítulo 12 — Los muchachos comen
@@ -53,15 +56,57 @@ Después de cenar se quedaba en la mesa con una baraja vieja y les ganaba a Dann
 
 Algunas tardes desaparecía sin decir a dónde y volvía con polvo de otra parte de la ciudad en los zapatos. Nadie le preguntaba. Chiara tampoco.
 
+Al cuarto día llegó un hombre del Monarch por el Mercedes.
+
+No tocó la puerta. Esperó en la acera, junto a la grúa, de traje y con la llave de repuesto en la mano, hasta que Danny salió a ver quién era. Chiara lo reconoció desde la ventana: uno de los choferes de la casa, de los que llevaban a los grandes apostadores al aeropuerto. El lunes le había dicho a Dario por teléfono que se había caído en las escaleras del spa y que iba a trabajar unos días desde fuera. No le había dicho desde dónde.
+
+El chofer le dio a Danny un sobre para la señora Bellandi y se llevó el Mercedes sin pedir firma.
+
+Adentro venía una tarjeta del Monarch con la letra de Dario: *Que se mejore pronto. Aquí la esperamos.* El sobre traía escrita la dirección de la casa común, completa, con el código postal. No hacía falta. Lo habían entregado en mano.
+
+Tampoco hacía falta lo que la tarjeta no decía: que Il Consorzio no se iba a enterar por él. Dario también lo iba a cobrar.
+
+Chiara guardó la tarjeta en el neceser. A Kal no se la enseñó.
+
+***
+
+La bolsa de Rowe apareció al quinto día, en la vitrina del primer local del Tasador.
+
+Kal no la buscó. Se la describió el muchacho que barría La Esquina: gris, de piel, con la correa cortada, colgada detrás del vidrio entre un saxofón y una caja de relojes, sin etiqueta. En ese mostrador lo que no tenía precio no estaba a la venta. Estaba a la vista.
+
+Fue solo, a media mañana, con la ropa del taller. El local seguía en la misma esquina, con la misma reja pintada tantas veces que ya no cerraba del todo y el mismo olor a metal y a cera de muebles. Lo que había cambiado era la altura del mostrador. De niño le llegaba a la barbilla.
+
+El de atrás del vidrio no era Crowe. Crowe ya no atendía nada en persona. Era un hombre joven con anillos en tres dedos, que lo vio entrar y siguió limpiando el plato de la balanza con un trapo.
+
+—La bolsa gris —dijo Kal.
+
+—Esa no está a la venta.
+
+—Aquí todo está a la venta.
+
+El hombre sonrió como si Kal hubiera dicho la contraseña. Descolgó la bolsa, la puso sobre el plato, que no servía para pesar bolsas, y se quedó mirando la aguja un rato largo.
+
+Dijo una cifra. Era lo que la grúa grande dejaba en un mes bueno.
+
+Kal contó el dinero sobre el vidrio. No regateó.
+
+El hombre guardó los billetes sin contarlos.
+
+—Dice el señor Crowe que se la lleve con cuidado. Que adentro va todo.
+
+Afuera, en la camioneta, Kal la abrió. Iba todo: la cartera con los billetes, las llaves del Volvo, una agenda con el nombre de la fiscal en la primera hoja, el teléfono apagado. Nadie había tomado nada. Crowe no había querido la bolsa. Había querido que Kal entrara a pagarla.
+
+Al día siguiente, la bolsa llegó a la fiscalía en la cajuela del primer coche del resguardo de la semana. El coche iba con el tanque lleno.
+
 ***
 
 —No es que no me caiga bien —le dijo Nadir a Kal una semana después, los dos solos en el taller mientras Kal cerraba las cuentas de la grúa—. Pero los jueves éramos catorce en esa mesa, khoya. Anoche fuimos seis.
 
 —No puede volver al penthouse. Ya te lo expliqué.
 
-—Me explicaste que la gente de Crowe le torció la muñeca por un papel que firmaste tú. Eso sí me quedó claro. —Nadir hacía rodar una tuerca entre los nudillos. No subió la voz. Nunca la subía cuando de verdad le importaba algo—. El chico de la vulcanizadora durmió tres noches aquí, en el rincón de las llantas, porque el cuarto de atrás ya tiene dueña. No vino a pedirlo. Lo encontré yo. Wallah, no le deseo mal. Pero eso no lo pagas tú.
+—Me explicaste que la gente de Crowe le torció la muñeca por un papel que firmaste tú. Eso sí me quedó claro. —Nadir hacía rodar una tuerca entre los nudillos. No subió la voz. Nunca la subía cuando de verdad le importaba algo—. Al dueño de la vulcanizadora le subieron la cuota el lunes. Por la competencia, le dijeron. Y le preguntaron quién duerme en la casa común. —La tuerca dio otra vuelta—. Su chico durmió tres noches aquí, en el rincón de las llantas. No fue por el cuarto. El patrón le dijo que no se acercara a esa casa mientras esté ella. No vino a pedirlo. Lo encontré yo. Wallah, no le deseo mal. Pero eso no lo pagas tú.
 
-Kal no contestó de inmediato. Terminó de anotar una cifra, repasó la suma y cerró el libro de cuentas.
+Kal no contestó de inmediato. Terminó de anotar una cifra, repasó la suma y cerró el libro de cuentas. Después abrió la libreta de los fiados y, en la última hoja, apuntó la vulcanizadora y el lunes.
 
 —¿Cuánto les queda?
 

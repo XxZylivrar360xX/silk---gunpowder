@@ -3,10 +3,11 @@ Renumerado 2026-10-22 (decisión del autor): antes Cap. 15; numeración corrida 
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «El portón».
 Estado: TERMINADO. Cirugia editorial 2026-09-26 (Prioridad C, autorizada por el autor, sigue TERMINADO): corte de la apertura de Nadir y Danny y de "Dos dias antes" (5-ter; ademas corregia una cronologia rota: la escena caia en domingo con los dos ya retenidos), prolepsis de Lucia, recuento a Walt comprimido, sedan y reflexion del corazon compactados, "Contame" -> "Cuenteme". Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17.md.
 Cirugia de dialogo de terceros 2026-10-04 (S2 del Plan_Cirugia_Terceros_Parte_I; sigue TERMINADO): escena de Lucia en el hospital reescrita por decision del autor (va la subjefa a proposito, sin uniforme; fuera "uniformada, joven" y la explicacion de la rutina; cruce de apellidos Varek/Bellandi). La prosa nueva es DISENO pendiente de lectura del autor. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I.md.
-Protagonistas: Chiara Bellandi, con apariciones de Walter Keegan y Lucia Varek (Nadir Amrani y Daniel Hayes solo mencionados, inalcanzables). Hector Navarro presente pero inconsciente/fuera de escena tras el infarto.
-Ventana temporal: el viernes del Capitulo 14 (La regla del telefono), mientras Kal y Marisol estan de campamento. Bajo la reordenacion del 2026-08-29, H10 va ANTES de H4 y H11 -- en este punto Kal y Chiara TODAVIA NO se han besado.
+Arco lector 14-16 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_14-16_Lector; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): A1 -- la visita de Chiara a Hector (antes en el Cap. 16) pasa aqui como escena del sabado, entre la noche del viernes con Walt y la carta; primera frase reescrita sin Kal, "mas despierto que la noche anterior", "Usted no tiene que venir"; Chiara recoge el catalogo antes de la ambulancia (va en su regazo); la pregunta de Hector pesa en el sussurro ("con la pregunta de Hector todavia a cuestas"); la carta se escribe el sabado por la noche, lo que justifica "el viernes".
+Protagonistas: Chiara Bellandi, con apariciones de Walter Keegan y Lucia Varek (Nadir Amrani y Daniel Hayes solo mencionados, inalcanzables). Hector Navarro inconsciente el viernes; despierto en la visita del sabado.
+Ventana temporal: el viernes del Capitulo 14 (La regla del telefono), mientras Kal y Marisol estan de campamento, y el sabado siguiente (visita al hospital y carta). Bajo la reordenacion del 2026-08-29, H10 va ANTES de H4 y H11 -- en este punto Kal y Chiara TODAVIA NO se han besado.
 Lugares: Casa Comunitaria De La Almendra (sotano), casa de Hector, Hospital Santa Aurelia, The Monarch Casino & Hotel.
-Funcion: capitulo exclusivo POV Chiara (2026-09-03, a peticion del autor -- separado del nuevo Capitulo 16, POV Kal, para que el fin de semana respire). ~~Abre con Nadir y Danny: un rumor de calle sobre una bodega...~~ (apertura cortada 2026-09-26; el lector sabe del robo lo mismo que Chiara y Walt: "Raro", y lo descubre en el Cap. 17). Abre por residuo del Cap. 14 ("El mismo viernes que Kal cargaba la camioneta"). Chiara va a la Almendra con un catalogo de muebles y pan para Hector, lo encuentra con la puerta abierta y en el suelo, llama a emergencias, sube con el en la ambulancia intentando comunicarse con Kal sin respuesta. En el hospital, la subjefa Lucia Varek va en persona y sin uniforme (la casa es del circulo de Kal, a quien interrogo en el Cap. 13); dice "Es rutina", que es la mentira; Chiara registra "Varek" y Lucia registra "Bellandi" y un medico le confirma el infarto, pendiente de especialista. Walt llega a la sala de espera; recuento completo de lo que paso, y Walt revela que Hector ya habia tenido un preinfarto menor antes de ir a prision, nunca vigilado de cerca -- Chiara lo recibe con una reflexion propia, sin nombrar a su madre, sobre el costo de no tomarse en serio una enfermedad silenciosa. Walt se queda en el hospital; Chiara va al Monarch, escribe la carta, esta a punto de mandarla con un sussurro y cambia de decision -- la lleva ella misma, consecuencia directa de la promesa que le hizo a Kal en el Capitulo 12 (Roma Atrii). Cierra con la carta bajo la puerta del loft, sin revelar su contenido -- eso se paga en el Capitulo 16.
+Funcion: capitulo exclusivo POV Chiara (2026-09-03, a peticion del autor -- separado del nuevo Capitulo 16, POV Kal, para que el fin de semana respire). ~~Abre con Nadir y Danny: un rumor de calle sobre una bodega...~~ (apertura cortada 2026-09-26; el lector sabe del robo lo mismo que Chiara y Walt: "Raro", y lo descubre en el Cap. 17). Abre por residuo del Cap. 14 ("El mismo viernes que Kal cargaba la camioneta"). Chiara va a la Almendra con un catalogo de muebles y pan para Hector, lo encuentra con la puerta abierta y en el suelo, llama a emergencias, sube con el en la ambulancia intentando comunicarse con Kal sin respuesta. En el hospital, la subjefa Lucia Varek va en persona y sin uniforme (la casa es del circulo de Kal, a quien interrogo en el Cap. 13); dice "Es rutina", que es la mentira; Chiara registra "Varek" y Lucia registra "Bellandi" y un medico le confirma el infarto, pendiente de especialista. Walt llega a la sala de espera; recuento completo de lo que paso, y Walt revela que Hector ya habia tenido un preinfarto menor antes de ir a prision, nunca vigilado de cerca -- Chiara lo recibe con una reflexion propia, sin nombrar a su madre, sobre el costo de no tomarse en serio una enfermedad silenciosa. Walt se queda en el hospital; Chiara se va pasada la medianoche. El sabado vuelve a ver a Hector (catalogo, "yo todavia estoy aprendiendo quien es Kal", "Hay cosas de donde vengo que el no conoce") y se va con su pregunta "¿Y el que no le ha contado a usted?". Esa noche, en el Monarch, escribe la carta, esta a punto de mandarla con un sussurro y cambia de decision -- la lleva ella misma, consecuencia directa de la promesa que le hizo a Kal en el Capitulo 12 (Roma Atrii). Cierra con la carta bajo la puerta del loft, sin revelar su contenido -- eso se paga en el Capitulo 16.
 Apertura por residuo: arranca del cierre del Capitulo 14 -- pero el beat de las llamadas perdidas de Kal se recoloca al Capitulo 16: aqui, del lado de Chiara, no hay ninguna resolucion todavia.
 -->
 
@@ -34,7 +35,7 @@ Un quejido. Los ojos entreabiertos, sin enfocar.
 
 Chiara ya tenía el teléfono en la mano marcando la emergencia antes de terminar de decidir que eso era lo que tenía que hacer. Habló con una calma que no sentía, dio la dirección dos veces para asegurarse, y se quedó con la mano de Héctor entre las suyas hasta que llegó la ambulancia, repitiéndole en voz baja que se quedara, que no se fuera, en un idioma que él probablemente no entendía y que a ella, en ese momento, le salió antes que el español.
 
-Subió a la ambulancia sin que nadie se lo preguntara, y nadie se lo impidió. Se sentó donde le indicaron, fuera del camino de los paramédicos, con las manos vacías por primera vez desde que había llegado a la casa. Los miró trabajar sobre Héctor con una eficiencia que no dejaba espacio para el miedo, y agradeció, en silencio, que al menos alguien en ese vehículo supiera exactamente qué hacer.
+Recogió el catálogo del suelo sin pensarlo y subió a la ambulancia sin que nadie se lo preguntara, y nadie se lo impidió. Se sentó donde le indicaron, fuera del camino de los paramédicos, con el catálogo en el regazo y las manos sin nada que hacer por primera vez desde que había llegado a la casa. Los miró trabajar sobre Héctor con una eficiencia que no dejaba espacio para el miedo, y agradeció, en silencio, que al menos alguien en ese vehículo supiera exactamente qué hacer.
 
 Marcó a Kal con el teléfono pegado al oído y la sirena tapando cualquier respuesta que no fuera silencio.
 
@@ -104,13 +105,59 @@ No lo consiguió esa noche, ni Chiara tampoco.
 
 —Yo me quedo aquí —dijo Walt, después de un rato, ya sin la chaqueta puesta—. Vaya a descansar. Alguien tiene que estar despierto cuando Kal por fin aparezca.
 
+Chiara se fue pasada la medianoche, cuando ya no quedaba nada que esperar.
+
 ***
 
-En el Monarch, sentada a su propio escritorio, sacó su papel de siempre — el bueno, el que olía a canela y vainilla, el mismo en el que llevaba meses escribiendo todo lo que de verdad importaba — y escribió lo que tenía que escribir. Metió la hoja en uno de los sobres del hotel — grueso, rojo, con el sello dorado del casino en la solapa; no hacía falta esconder este mensaje de nadie, podía permitirse, por una vez, que se viera desde lejos—, lo cerró y trazó el nombre de Kal en tinta sobre la solapa. Llamó, por costumbre, a uno de los sussurros de guardia.
+El sábado por la tarde volvió a Santa Aurelia con un café que Héctor no iba a terminar y noticias del taller que él iba a fingir no necesitar. Lo encontró más despierto que la noche anterior, con la cama inclinada y los ojos puestos en ella antes de que terminara de cruzar la puerta.
+
+—Todavía tengo el catálogo ese suyo en la mesa de noche —dijo, antes de que ella alcanzara a sentarse—. La enfermera cree que ya elegí algo. No le he dicho que no.
+
+—¿Y eligió?
+
+—La silla verde. La que cuesta lo que cuesta un auto usado. —Gruñó, pero sin el peso de siempre.
+
+—No lo convencí. Solo dejé el catálogo donde lo pudiera ver.
+
+—Es lo mismo, con usted.
+
+—Usted no tiene que venir —añadió, después de un silencio.
+
+—Ya lo sé.
+
+—¿Entonces por qué viene?
+
+Chiara dejó el café en la mesita.
+
+—Porque es el hombre que Kal más admira en el mundo, y yo todavía estoy aprendiendo quién es Kal.
+
+Héctor la miró un momento, con la clase de atención que no gastaba en cualquiera.
+
+—Ésa no es la única razón.
+
+—No —admitió ella, después de un momento—. No es la única.
+
+—Somos de mundos distintos, Héctor —dijo, casi de pasada, como quien cierra un tema antes de que nadie lo abra—. Eso no cambia porque yo venga a traerle café, ni porque usted me deje ganarle una discusión sobre muebles.
+
+—Eso ya lo sé. —La voz le salía más floja que antes del infarto, y aun así no perdía el filo—. ¿Y por qué me lo dice a mí?
+
+Chiara no contestó enseguida.
+
+—Hay cosas de donde vengo que él no conoce —dijo, al final, mirando algún punto de la sábana en vez de a él—. Cosas que si las conociera, tal vez no me miraría igual. No sé si es justo arrastrarlo a eso sin que él sepa lo que arrastra.
+
+Héctor gruñó.
+
+—¿Y él qué no le ha contado a usted?
+
+Chiara no contestó. Se quedó otro rato, hablando de nada, hasta que se acabó la hora de visitas, y se fue con una pregunta que no era suya y que no se pudo quitar de encima en todo el camino.
+
+***
+
+Esa noche, en el Monarch, sentada a su propio escritorio, sacó su papel de siempre — el bueno, el que olía a canela y vainilla, el mismo en el que llevaba meses escribiendo todo lo que de verdad importaba — y escribió lo que tenía que escribir. Metió la hoja en uno de los sobres del hotel — grueso, rojo, con el sello dorado del casino en la solapa; no hacía falta esconder este mensaje de nadie, podía permitirse, por una vez, que se viera desde lejos—, lo cerró y trazó el nombre de Kal en tinta sobre la solapa. Llamó, por costumbre, a uno de los sussurros de guardia.
 
 No llegó a dárselo.
 
-Se quedó con el sobre en la mano un momento de más, pensando en un chico de doce años parado frente a un desconocido en su propio territorio, cargando un papel que no entendía, y en la promesa que le había hecho a Kal hacía apenas unas semanas: que si alguna vez tenía que llegarle algo, lo llevaría ella misma.
+Se quedó con el sobre en la mano un momento de más, con la pregunta de Héctor todavía a cuestas, pensando en un chico de doce años parado frente a un desconocido en su propio territorio, cargando un papel que no entendía, y en la promesa que le había hecho a Kal hacía apenas unas semanas: que si alguna vez tenía que llegarle algo, lo llevaría ella misma.
 
 —Yo lo llevo —le dijo al sussurro, y se guardó el sobre en el bolsillo del abrigo antes de que nadie pudiera ofrecerse a ahorrarle el viaje.
 

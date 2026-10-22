@@ -2,6 +2,7 @@
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 12; numeración corrida definitiva, el archivo conserva su nombre.
 PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): geometría de la franja hecha visible una vez (vidrio de la caja con Kenji a un lado, puerta batiente del pasillo de servicio al otro, piso de juego a espaldas de Kal; por eso "A espaldas de Kal, en una mesa" pasa a "En una de las mesas"); segunda interferencia del casino: un mesero con una charola obliga a Kal a dar medio paso hacia ella y no lo devuelve.
 Estado: TERMINADO.
+Arco lector 11-13 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_11-13_Lector; el estado se conserva; prosa nueva DISENO pendiente de lectura): P2, P6, P7 y P8c aplicados. ROMA ATRII escrito por fuera y el papel sin abrir (cuadra con el 14); la replica de Chiara 'Lo de adentro no era para que lo leyeras...' anadida al 'Si.' a '¿Lo escribiste tu?' se restauro a 'Si.' en VERIFY (orden de revelaciones, Cap. 38); VERIFY V6: 'que no leia' -> 'que no entendia'; las cuatro palabras de esa noche se escriben y rompen en la oficina del Monarch tras el torneo (no en el penthouse, donde llega Kal en el 11); 'La noche del torneo de Walt Keegan'; 'Chiara sonrio apenas'. R2 (2026-10-22): papel de cartas sale del bolso, no del cajón (coherencia con el cajón del penthouse del Cap. 13).
 Continuidad 2026-10-17 (CANON del autor: jefatura vacante en el Libro I, Vega entra en el II): l. 171 "la que va despues de Vega" -> "la que manda desde lo de Keene"; cobra la siembra del Cap. 7.
 Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_12_Roma_Atrii.md (§11). Resumen: marca temporal en la apertura; la pieza de la gasolinera/fiscales sale del montaje (es del Cap. 13); se corta el movimiento de la alarma del Peugeot (la razon llega solo en el dialogo de Chiara con Kal); fuera "las velas que enciendo por ti" (la vela por Kal nace despues de F4); "membrete" -> "papel de los suyos"; cortes de glosa, repeticion y POV (B1-B14); recuerdo de Palermo del hilo A en la noche del penthouse (DISEÑO del agente, pendiente de lectura del autor). Lo de abajo describe el diseno previo a la cirugia.
 Dialogo Kal/Chiara (2026-10-04, direccion del autor; prosa DISENO del agente, pendiente de lectura): la confrontacion del Monarch se reescribe por descubrimiento progresivo. El error del chico se admite pronto; Kal sigue preguntando por la cadena (quien escribio, quien sabe leer, quien es el chico: "No lo se. Kenji si.") y la friccion pasa al sistema; Chiara defiende decisiones, no doctrina, y marca territorio ("Esto otro es mio"); fe como origen antiguo de la red, sin intercambio de tesis; concesiones cruzadas: ella cambia la ruta porque el nombre se dijo en voz alta en el Patio, el se guarda la pregunta de cuantos son. Se conservan la admision, el Peugeot, "red visible/invisible", iglesia, "pagar, arreglar o cobrar", ternura, *Llegarte* y "Todavia no". Salen "La mia no pide resultados..." y "Supongo que tambien es una fe". Detalle: Audit_Cap_12_Roma_Atrii.md §12.
@@ -66,7 +67,7 @@ Kenji dejó de apilar copas.
 
 —¿Por qué yo?
 
-Chiara sonrió, la sonrisa corta.
+Chiara sonrió apenas.
 
 —Porque acabo de verlo resolver un problema que no era suyo, sin que nadie se lo pidiera y sin que nadie lo note nunca. Eso, en mi casino, vale más de lo que usted cree.
 
@@ -78,9 +79,9 @@ Kenji la miró de verdad por primera vez.
 
 ***
 
-Lo llamó dos semanas después, y para la noche del primer torneo Kenji Oda ya llevaba puesto el chaleco del Monarch como si lo hubiera usado toda la vida.
+Lo llamó dos semanas después. La noche del torneo de Walt Keegan, Kenji Oda ya llevaba puesto el chaleco del Monarch como si lo hubiera usado toda la vida.
 
-Chiara lo cruzó de lejos, ocupada con la mesa de Walt Keegan, con Fabrizio, con las luces ámbar que había elegido ella misma. No volvió a pensar en él hasta que Tommaso se le acercó por detrás, apoyado en el borde de su mesa como si llevara ahí toda la noche.
+Chiara lo cruzó de lejos, ocupada con la mesa de Walt, con Fabrizio, con las luces ámbar que había elegido ella misma. No volvió a pensar en él hasta que Tommaso se le acercó por detrás, apoyado en el borde de su mesa como si llevara ahí toda la noche.
 
 —Bellandi.
 
@@ -116,7 +117,7 @@ No necesitaba más rumores. Lo que le faltaba era la primera llamada.
 
 No enterarse de las cosas. Enterarse antes que Tommaso.
 
-Esa noche, de vuelta en el penthouse, sacó el papel que usaba para las cartas — el bueno, el que olía a lo que ella olía, el que nadie más en San Aurelio tenía permiso de tocar — y en vez de escribir una carta escribió cuatro palabras en una lengua que llevaba años sin usar más que en misa.
+Esa noche, cuando el torneo ya había terminado, se encerró en su oficina del Monarch y sacó del bolso el papel que usaba para las cartas — el bueno, el que olía a lo que ella olía, el que nadie más en San Aurelio tenía permiso de tocar — y en vez de escribir una carta escribió cuatro palabras en una lengua que llevaba años sin usar más que en misa.
 
 Las miró un momento.
 
@@ -204,7 +205,7 @@ El chico se encogió de hombros, ya más asustado que confundido.
 
 Sacó el papel del bolsillo, doblado en cuatro, y antes de que Kal lo tuviera en la mano ya sabía de quién era. El olor llegó primero que la letra — canela, vainilla, algo que no pertenecía a ningún lugar cerca de un taller de grúas, y que ya conocía de otra parte sin haberse dado cuenta de que lo había memorizado.
 
-Arriba del todo, en letra cursiva apretada, inclinada siempre hacia el mismo lado, las mismas dos palabras que el chico acababa de mascullar: **ROMA ATRII.** Debajo, más líneas en un idioma que Kal no leía.
+Por fuera, en letra cursiva apretada, inclinada siempre hacia el mismo lado, las mismas dos palabras que el chico acababa de mascullar: **ROMA ATRII.** Por el borde se transparentaban más líneas.
 
 —¿Quién te mandó?
 
@@ -318,7 +319,7 @@ Chiara lo sostuvo un momento. Algo en ella cambió de mano, como una ficha.
 
 Un mesero salió del pasillo de servicio con una charola de copas, y Kal tuvo que dar medio paso hacia ella para dejarlo pasar. No lo devolvió.
 
-Kal bajó la vista al papel, a la letra inclinada siempre hacia el mismo lado, al latín que no leía.
+Kal bajó la vista al papel, a la letra inclinada siempre hacia el mismo lado, a las dos palabras que no entendía.
 
 —Suena a iglesia.
 
@@ -342,7 +343,7 @@ Kal no dijo nada, y ella tampoco esperó que lo hiciera.
 
 Tuvo en la boca la otra pregunta — cuántos, quiénes, en qué pisos — y no la hizo.
 
-—¿Qué significa esto? —preguntó en cambio, sosteniendo el papel un poco más alto, señalando las dos palabras de arriba, como si eso ayudara.
+—¿Qué significa esto? —preguntó en cambio, sosteniendo el papel un poco más alto, señalando las dos palabras de afuera, como si eso ayudara.
 
 —Eso no te lo voy a decir. —Chiara no sonrió—. Todavía no.
 

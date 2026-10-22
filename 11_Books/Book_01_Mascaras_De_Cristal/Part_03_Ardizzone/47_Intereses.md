@@ -20,6 +20,7 @@ DISEÑO del agente, pendiente de lectura:
 - Garrett en el puerto (DISEÑO aprobado por el autor 2026-10-02): no sigue a la grúa; se detiene junto al Lancia y le da a Chiara la carpeta del 46 ("Lo que tiene su nombre cerca del de él"; termina en la columna sin título del 46). "¿Qué firmó?" / "Nada." / "Entonces es peor." Chiara le dice la forma de la deuda; Garrett no la anota ("Yo cuento números, señora. Lo otro lo cuenta usted."); "Kal no lo sabe." / "Entonces tampoco por mí." Garrett es el único del Patio que sabe la forma de la cuenta abierta. Siembra de que Chiara lo contrata como contador en *Sombras de Poder*.
 - Cierre: Chiara cuenta los días con los dedos (rima con Nadir en el 46). Sin glosa.
 - Sin modelos, calibres, cantidades ni procedimiento de entrega. No se nombra Halbrook, el expediente, el convoy (como tal) ni a Rafe. Bonnie y Mei-Lin no aparecen. Sin EPUB, commit ni push.
+La muñeca (2026-10-22, CANON DEL AUTOR en sustancia: la cuenta abierta une el silencio de Dario ante Il Consorzio de los Caps. 9-10; redaccion DISENO pendiente de lectura): al cerrar el trato Dario le mira la muñeca derecha, '¿Ya no te duele?'; Chiara no contesta. Cobro conjunto en Sombras de Poder.
 -->
 
 # Capítulo 52 — Intereses
@@ -288,9 +289,11 @@ Chiara la miró. Era la mano de siempre, la del primer día en el Monarch, la qu
 
 —Una.
 
-—Con eso basta. —Le soltó la mano—. Una es mucho, Chiara. Ya lo vas a ver.
+—Con eso basta. —Le soltó la mano y le miró la muñeca derecha—. Una es mucho, Chiara. Ya lo vas a ver. ¿Ya no te duele?
 
-Volvió al ventanal. Sacó el teléfono del bolsillo interior del saco, marcó un número sin buscarlo y dijo una sola palabra que ella no alcanzó a oír. Abajo, en la calle, se encendió un reflector sobre el portón azul.
+Chiara no contestó. Il Consorzio nunca se había enterado de esa muñeca, y los dos sabían por quién.
+
+Dario volvió al ventanal. Sacó el teléfono del bolsillo interior del saco, marcó un número sin buscarlo y dijo una sola palabra que ella no alcanzó a oír. Abajo, en la calle, se encendió un reflector sobre el portón azul.
 
 Chiara ya tenía la mano en la puerta cuando habló.
 
