@@ -42,7 +42,7 @@ DOCUMENTOS DE `develop` QUE SIGUEN DESACTUALIZADOS por la reescritura del Cap. 2
 Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): en la coda, come del rin que Walt le lijo para plato, al pie de la fosa. Ficha: 02_Characters/Rocco.md.
 -->
 
-# Capítulo 34 — Media Baraja
+# Capítulo 35 — Media Baraja
 
 El camino se acabó mucho antes de que el ruido de agua empezara. Kal tomó la última curva de tierra sin asfalto y detuvo el Audi junto a un roble solo; el Lancia se detuvo detrás, el mismo cuerpo de distancia que había mantenido toda la carretera. Apagó el motor sin decir nada, como si el silencio fuera parte de la explicación. Chiara apagó el suyo un segundo después.
 

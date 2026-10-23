@@ -22,7 +22,7 @@ Función: CANON DEL AUTOR. Abre la Parte III — Ardizzone. Nace el ritual del *
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N35-1, N35-2. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
-# Capítulo 40 — Sin fecha de regreso
+# Capítulo 41 — Sin fecha de regreso
 
 La nota estaba donde Chiara la había dejado hacía diez minutos, sobre el escritorio de Matteo, y seguía sin decir más de lo que decía la primera vez que la leyó.
 

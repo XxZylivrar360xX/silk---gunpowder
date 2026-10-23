@@ -42,7 +42,7 @@ Voz dulce; habla con cuidado (CANON DEL AUTOR). No necesita subir el tono para q
 
 ## Apariciones
 
-- [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/08_La_Carrera_De_Mascaras|Cap. 8]]: sólo voz, por el escáner de la guantera. Sabe que lo pierden en la loma, le deja libre la autopista y toma la persecución sola en la SPV-Tres («El rojo es mío»; Kal: «Viene la caballería»). No se traga la salida tardía (Kal: «Conduce bien»), lo lee por la avenida paralela y se le atraviesa, intenta un PIT en la fuente de Plaza Corona y le sigue el juego cuando Kal presume con una vuelta de 360 en derrape alrededor de la fuente (CANON DEL AUTOR: ningún policía se lo había seguido), vuelve en reversa por la galería del Canal Seco y no entra porque no cabe. Dicta el reporte y cierra: «Y anotá que el rojo sigue siendo mío».
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/08b_La_Sargenta|Cap. 8]] (hoy Cap. 11, *La sargenta*, separado del 10 el 2026-10-23): sólo voz, por el escáner de la guantera. Sabe que lo pierden en la loma, le deja libre la autopista y toma la persecución sola en la SPV-Tres («El rojo es mío»; Kal: «Viene la caballería»). No se traga la salida tardía (Kal: «Conduce bien»), lo lee por la avenida paralela y se le atraviesa, intenta un PIT en la fuente de Plaza Corona y le sigue el juego cuando Kal presume con una vuelta de 360 en derrape alrededor de la fuente (CANON DEL AUTOR: ningún policía se lo había seguido), vuelve en reversa por la galería del Canal Seco y no entra porque no cabe. Dicta el reporte y cierra: «Y anotá que el rojo sigue siendo mío».
 
 ## Conexiones
 

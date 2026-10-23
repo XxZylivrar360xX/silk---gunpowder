@@ -14,7 +14,7 @@ Microcirugia de dialogo K/C 2026-10-04 (autorizada por el autor; [[13_Auditorias
 Rocco (2026-10-22, decision del autor; prosa DISENO pendiente de lectura; el estado se conserva): custodia a Garrett en la oficina mientras arma las carpetas, sobre la manta de Russ; Danny: "te desgarra el cuello"; Garrett: "Por eso lo dejo entrar". Ficha: 02_Characters/Rocco.md.
 -->
 
-# Capítulo 25 — Nada caro
+# Capítulo 26 — Nada caro
 
 El sobre llegó al taller a las nueve y doce de la mañana, entre una factura de neumáticos, el cheque del mes del Monarch firmado por Matteo Bellacorte y un aviso del condado por una grúa que llevaba tres semanas estacionada donde no debía. Membrete de una sociedad que Kal conocía demasiado bien: dos páginas de lenguaje pulcro que decían, de tres maneras distintas para que pareciera inevitable, que su nombre ya no figuraba en el acuerdo del concesionario.
 

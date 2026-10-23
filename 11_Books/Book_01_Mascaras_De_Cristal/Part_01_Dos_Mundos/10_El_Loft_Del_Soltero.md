@@ -20,7 +20,7 @@ Dario y la casa comun (2026-10-22, decision del autor: opcion 3 del estudio del 
 Il Consorzio (2026-10-22, idea del autor; prosa DISENO): la tarjeta de Dario implica que calla ante Il Consorzio, y ese silencio tambien se cobra (siembra del 9). CANON DEL AUTOR (2026-10-22): Dario lo cobra en Sombras de Poder junto con la cuenta abierta del Cap. 47 (12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal.md).
 -->
 
-# Capítulo 12 — Los muchachos comen
+# Capítulo 13 — Los muchachos comen
 
 Nadir no volvió a mirarla como a un huésped después del primer día. La miró como a un problema que todavía no había decidido cómo nombrar.
 

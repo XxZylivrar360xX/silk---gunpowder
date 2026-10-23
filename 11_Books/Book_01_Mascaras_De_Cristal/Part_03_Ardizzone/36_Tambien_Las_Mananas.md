@@ -26,7 +26,7 @@ Función: ejecuta [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza o
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N36-1, N36-2, N36-3. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
-# Capítulo 41 — También las mañanas
+# Capítulo 42 — También las mañanas
 
 Kal se lavó las manos en el fregadero de la cocina antes de que hiciera falta café, viendo cómo el agua se llevaba, cada vez más clara, lo que le quedaba de rojo entre los dedos. Las botas, todavía junto a la puerta, tenían más lodo seco del que un hombre podía explicar sin mentir. No pensaba intentarlo con nadie, y mucho menos esa noche con ella.
 

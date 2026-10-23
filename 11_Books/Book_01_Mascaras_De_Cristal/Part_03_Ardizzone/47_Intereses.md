@@ -23,7 +23,7 @@ DISEÑO del agente, pendiente de lectura:
 La muñeca (2026-10-22, CANON DEL AUTOR en sustancia: la cuenta abierta une el silencio de Dario ante Il Consorzio de los Caps. 9-10; redaccion DISENO pendiente de lectura): al cerrar el trato Dario le mira la muñeca derecha, '¿Ya no te duele?'; Chiara no contesta. Cobro conjunto en Sombras de Poder.
 -->
 
-# Capítulo 52 — Intereses
+# Capítulo 53 — Intereses
 
 La camioneta seguía contra la tapia, con la trompa hacia el portón. Alguien le había quitado el termo del asiento del copiloto. La mochila seguía ahí.
 

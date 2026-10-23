@@ -28,7 +28,7 @@ Función: paga el siguiente tramo del hilo de la invitación del yate — Kal le
 Libreta de los fiados (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): la cuota de la ferreteria se anota en la ultima hoja de la libreta de los fiados, donde Kal empezo a apuntar las subidas del Tasador en el Cap. 10 (vulcanizadora, tras pagar la bolsa de Rowe).
 -->
 
-# Capítulo 42 — Cuatro letras
+# Capítulo 43 — Cuatro letras
 
 El sobre estaba apoyado contra la cafetera, todavía tibia, con su nombre escrito en la letra inclinada que ya reconocía sin tener que mirar la firma.
 

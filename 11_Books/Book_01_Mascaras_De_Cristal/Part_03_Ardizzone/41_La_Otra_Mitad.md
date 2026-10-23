@@ -21,7 +21,7 @@ Función: la otra mitad de Palermo, desde Chiara. Muestra lo que Kal no pudo ver
 - Ajuste 2026-10-22 (CANON DEL AUTOR): Chiara entra al país por Nueva York, donde atiende pendientes del casino de allá, y de ahí vuela a San Aurelio; así la llegada a Kingsley es doméstica y no necesita revisión de migración. Una frase añadida tras la llegada del jet.
 -->
 
-# Capítulo 46 — La otra mitad
+# Capítulo 47 — La otra mitad
 
 El sol ya se acostaba sobre Kingsley Field cuando el jet se detuvo al final de la pista, lejos de la terminal comercial a la que el vuelo de Kal había llegado unas horas antes. Chiara había entrado al país por Nueva York, con un día de pendientes del casino de allá antes de seguir al oeste.
 

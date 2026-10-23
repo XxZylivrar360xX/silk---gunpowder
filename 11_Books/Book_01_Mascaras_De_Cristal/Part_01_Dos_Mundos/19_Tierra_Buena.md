@@ -11,7 +11,7 @@ Funcion: NUEVO (2026-09-07), a peticion del autor. Insertado como Capitulo 19, j
 Apertura por residuo: no depende de un residuo directo de Kal/Chiara -- es un capitulo lateral de expansion. Abre en su propio tiempo, entre el Cap. 18 (El dia nublado) y el Cap. 20 (El mirador).
 -->
 
-# Capítulo 21 — Lo que nadie estaba mirando
+# Capítulo 22 — Lo que nadie estaba mirando
 
 Firmó el terreno un martes, en la oficina de un notario que olía a café frío y papel nuevo, con Garrett sentado a su derecha revisando cada cláusula dos veces antes de dejar que Kal acercara la pluma.
 

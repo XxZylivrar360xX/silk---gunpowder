@@ -13,7 +13,7 @@ Nombre del lago del imán (2026-10-08, encargo del autor; DISEÑO): *Lake Meriwe
 Arco lector 14-16 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_14-16_Lector; sigue TERMINADO; prosa nueva DISEÑO pendiente de lectura): A2, A9 aplicados.
 -->
 
-# Capítulo 16 — La regla del teléfono
+# Capítulo 17 — La regla del teléfono
 
 El papel seguía sobre la repisa, doblado en cuatro, donde llevaba semanas sin que Kal lo tirara ni lo abriera. *Roma Atrii* por fuera, en la letra que ya se sabía de memoria sin haber querido aprenderla. Lo miró un segundo de más mientras cerraba el bolso, decidió otra vez que no era el día, y salió con la casa a medio ordenar.
 

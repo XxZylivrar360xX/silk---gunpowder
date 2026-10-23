@@ -18,7 +18,7 @@ Función: "Su red". Chiara pasa de la vía institucional (44) a la suya: i Sussu
 - Sin EPUB, commit ni push.
 -->
 
-# Capítulo 50 — Ropa limpia
+# Capítulo 51 — Ropa limpia
 
 A las seis de la mañana la caja del Monarch cerraba el conteo de la noche, y era la única hora en que el piso de juego se parecía a una oficina. Las mesas tenían puestas las fundas de terciopelo. Un hombre de mantenimiento pasaba la aspiradora entre las máquinas, que seguían encendidas para nadie, y el zumbido tapaba a medias la música que en ese edificio no se apagaba nunca.
 

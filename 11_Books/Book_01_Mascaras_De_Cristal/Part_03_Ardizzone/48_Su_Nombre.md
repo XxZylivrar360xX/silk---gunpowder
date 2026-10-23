@@ -22,7 +22,7 @@ DISEÑO del agente, pendiente de lectura:
 - No se nombra a Halbrook ni el señuelo; no se insinúa que Kal no irá en el convoy. Eddie Sosa queda fuera (opción para otro toque). Sin EPUB, commit ni push.
 -->
 
-# Capítulo 53 — Su nombre
+# Capítulo 54 — Su nombre
 
 El primero de enero La Esquina de Mabel no tenía turno de la mañana ni de la tarde. Tenía uno solo, largo, que empezaba a las seis con los que todavía no se habían acostado y pedían menudo, y terminaba cuando Mabel apagaba la cafetera, y a mediodía estaba en su peor hora: todas las mesas ocupadas, dos familias esperando de pie junto a la vitrina, un niño llorando por un pan que no era el que había pedido.
 

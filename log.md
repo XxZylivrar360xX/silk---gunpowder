@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-23: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/08b_La_Sargenta]] · Libro I: la persecución con Collins se separa del Cap. 10 (que termina en la carcajada de la carrera) como Cap. 11, *La sargenta* (archivo 08b, prosa sin cambios); los Caps. 11–56 corren a 12–57. Tabla en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 - 2026-10-22: [[98_Agent_Handoff/sessions/2026-10-22_claude_retitulado_y_renumeracion_libro_i]] · Libro I: segunda ronda de títulos (11 cambian; archivos 16, 18, 21 y 22 conservan el suyo) y numeración corrida definitiva de 56 capítulos; archivos sin renombrar.
 - 2026-10-22: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]] · CANON: Vento, viejo corredor del Monarch que Chiara compró al llegar; el trato de no montarlo el día que no quiera salir; muere a mediados de octubre (Cap. 33b *La mano*, nuevo), no dos semanas antes del cumpleaños; Kal llega antes de la decisión. Siembra al final del 33. Prosa DISEÑO. Sincronizados H16, fichas de Chiara e Hipódromo, Matriz y 36:164 ("desde Vento").
 - 2026-10-22: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Propuesta_Arco_Caps_14-16_Lector]] · arco lector 14–16 aplicado (visita a Héctor al Cap. 15, 16 entero en POV Kal, *balayage*, buzón de Nadir, imán en la guantera); prosa nueva DISEÑO; pendientes en el reporte.

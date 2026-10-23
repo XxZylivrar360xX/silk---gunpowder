@@ -15,7 +15,7 @@ Seguridad del Monarch (2026-10-22, decision del autor; prosa DISENO pendiente de
 Il Consorzio (2026-10-22, idea del autor; prosa DISENO pendiente de lectura): tercera razon de Chiara para no volver al Monarch: una Ardizzone lastimada en el lobby se lee en Il Consorzio como afrenta a la familia y trae presencia que nadie pidio. Cobro en la tarjeta de Dario del Cap. 10.
 -->
 
-# Capítulo 11 — La balanza
+# Capítulo 12 — La balanza
 
 No se lo había dicho a nadie. Ni a Ettore, el único hombre en Palermo al que todavía le escribía cartas de verdad — el amigo de su padre que la había criado en todo menos el nombre después de que se quedó sin ninguno de los dos. Ni a Blake, que había dejado de llamar después de la noche del ladrillo, con un silencio que a ella le supo más a alivio que a pérdida. Ni siquiera a sí misma, en voz alta, frente al espejo, donde una frase así habría tenido que sonar de verdad.
 

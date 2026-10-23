@@ -1160,6 +1160,8 @@ Y es también **la primera vez que se quedan dormidos juntos**, sin que pase nad
 >
 > **ESCRITO (2026-08-29)** como **Capítulo 8** — [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/08_La_Carrera_De_Mascaras]] (encargo [[98_Agent_Handoff/archive/chatgpt/PROMPT_CLAUDE_H9_CARRERA_DE_MASCARAS_Y_COSTURA_CORRAL]]). En la misma pasada se recosió la apertura de [[#H12 — El atentado / El corral]] (Cap. 10) al residuo de H9 y se renumeró el manuscrito (9→10 … 18→19). Las dos líneas canon van intactas.
 >
+> **Separación (2026-10-23, autor):** H9 ocupa dos capítulos: Cap. 10, *La carrera de máscaras* (archivo 08; termina en la carcajada), y Cap. 11, *La sargenta* ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/08b_La_Sargenta]]; persecución con Collins y resto de la noche).
+>
 > **TRIADO — pendiente de edición editorial global (2026-08-29).** Microedición de prosa aplicada (encargo [[98_Agent_Handoff/archive/chatgpt/ENCARGO_CLAUDE_MICROEDICION_H9_Y_CORRAL]]): podados residuos de encargo ("No narró lo que hizo con el coche", checklist "no hubo beso / no hubo un sube"), la sobreexplicación de la risa de Chiara y varias frases de tesis (inversión Monarch, apellido, "Chiara entendió una cosa"); la apertura de *El corral* deja de recapitular el evento de H9. Función y beats idénticos. No CERRADO.
 
 ## La pregunta

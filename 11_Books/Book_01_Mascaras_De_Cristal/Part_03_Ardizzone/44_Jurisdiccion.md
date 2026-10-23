@@ -16,7 +16,7 @@ Función: "Institución". Chiara agota la vía legal y política: abogados del M
 - Sin EPUB, commit ni push.
 -->
 
-# Capítulo 49 — Jurisdicción
+# Capítulo 50 — Jurisdicción
 
 El teléfono sonó antes de las ocho.
 

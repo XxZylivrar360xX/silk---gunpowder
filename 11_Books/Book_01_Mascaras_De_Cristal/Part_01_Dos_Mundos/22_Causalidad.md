@@ -11,7 +11,7 @@ Microcirugia de dialogo K/C 2026-10-04 (autorizada por el autor; [[13_Auditorias
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); el estado se conserva; DISENO pendiente de lectura): fuera "Deberia preocuparme?" de Tommaso; ahora espera, Dario ordena "Anotalo" y Tommaso "no le dijo que ya lo tenia anotado" (el que vigila es el; canon 2026-10-04 de su ficha).
 -->
 
-# Capítulo 24 — Causalidad
+# Capítulo 25 — Causalidad
 
 Faltaban veinte para las cinco cuando sonó el teléfono, y Chiara no saludó.
 

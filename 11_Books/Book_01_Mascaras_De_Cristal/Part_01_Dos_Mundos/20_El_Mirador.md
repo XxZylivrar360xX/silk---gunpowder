@@ -16,7 +16,7 @@ Correcciones editoriales (2026-09-10, reporte Codex del 2026-09-09, secciones 1-
 Seccion 3 del reporte (poda de glosas) EJECUTADA (2026-09-10, decision del autor): bolera -- fuera "la clase de victoria pequena... valia mas que cualquier negocio cerrado", "orgullosa de algo que no tenia nada que ver con dinero ni con poder" y el remate "dejo de importarle perder" (el juego, las apuestas y las risas se conservan); penthouse -- fuera "no le hizo falta preguntar que significaba / algunas cosas no necesitaban traduccion" y "dos copas que ninguno de los dos iba a terminar"; baile -- fuera "dos personas que negociaban con criminales para vivir y no sabian que hacer con tres minutos de musica lenta" (mano, torpeza y balanceo intactos). L218: retirada "Camino hacia atras" -- queda "Le tomo la mano. Kal la siguio..." sin movimiento anadido, como pedia el reporte.
 -->
 
-# Capítulo 22 — Lo pequeño
+# Capítulo 23 — Lo pequeño
 
 El día nublado no volvió a mencionarse entre ellos, pero tampoco se fue del todo.
 

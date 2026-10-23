@@ -48,7 +48,7 @@ RECONSTRUCCIÓN 2026-10-01 (Claude Code, CANON DEL AUTOR — SUPERSEDE las notas
 - CONTINUIDAD (2026-10-04, autor): la baranda del balcon ya no la "hizo conservar" Chiara por estetica; en el Cap. 10 fue Kal quien no dejo quitarla y ella sabe que era la casa de sus padres (y, por el mirador del Cap. 20, el arresto de Dale en la calle). Linea: "la baranda de hierro que Kal no habia dejado quitar". Sin glosa.
 -->
 
-# Capítulo 32 — No hace falta
+# Capítulo 33 — No hace falta
 
 La sudadera olía a él y a solvente, y a un jabón barato que Kal compraba por caja y que Chiara no habría elegido nunca y que ahora, puesta, le pareció lo más parecido a estar acompañada que iba a conseguir esa noche.
 

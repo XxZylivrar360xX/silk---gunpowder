@@ -12,7 +12,7 @@ Arco lector 11-13 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_11-1
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N11-1 a N11-3. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
-# Capítulo 13 — El farol
+# Capítulo 14 — El farol
 
 El ladrillo de arcilla seguía en la repisa de la entrada, donde Chiara lo había dejado la noche de Gabriella's sin decidir todavía si guardarlo o tirarlo.
 

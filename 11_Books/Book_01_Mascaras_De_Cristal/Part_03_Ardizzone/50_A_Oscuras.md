@@ -25,7 +25,7 @@ DISEÑO del agente, pendiente de lectura:
 - No se nombra a Halbrook, el señuelo, el expediente ni la mecánica de la salida. Sin reconciliación, sin "te amo". Última línea absoluta: "—Ciao, bella." Sin EPUB, commit ni push.
 -->
 
-# Capítulo 55 — A oscuras
+# Capítulo 56 — A oscuras
 
 A las diez y media Mabel volteó el letrero de la puerta y apagó la mitad de las luces.
 

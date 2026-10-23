@@ -29,7 +29,7 @@ DISEÑO del agente, pendiente de lectura:
 - No se usa "Qué lamentable" (no está sembrado en prosa; queda reservado). No se describe a Valenti más allá de lo fijado en el Cap. 40; apariencia y manía siguen PENDIENTE. No se nombra a Halbrook ni el señuelo. Sin EPUB, commit ni push.
 -->
 
-# Capítulo 54 — Por si vuelve
+# Capítulo 55 — Por si vuelve
 
 El billete estaba sobre el escritorio, doblado en dos, del lado de afuera de la carpeta de la nómina.
 

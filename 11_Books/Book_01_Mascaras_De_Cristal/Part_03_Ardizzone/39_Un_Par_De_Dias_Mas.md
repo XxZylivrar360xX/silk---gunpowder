@@ -21,7 +21,7 @@ Función: primer capítulo de regreso tras Palermo. Muestra a Kal administrando 
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N39-1, N39-2, C39-Danny. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
-# Capítulo 44 — Un par de días más
+# Capítulo 45 — Un par de días más
 
 El sol de las tres de la tarde le pegaba distinto a Kingsley Field que el azul de la madrugada. Salió por las puertas correderas de la terminal comercial con una sola maleta —con la etiqueta de la aerolínea todavía colgando del asa— y se quedó un segundo entrecerrando los ojos contra la luz, buscando un coche entre la fila de los que esperaban con carteles y los que esperaban sin ellos.
 

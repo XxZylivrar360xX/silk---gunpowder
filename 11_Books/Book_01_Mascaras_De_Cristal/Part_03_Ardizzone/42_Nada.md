@@ -17,7 +17,7 @@ Función: cobra la mentira del Cap. 41 ("—Nada."). Bonnie encuentra la camione
 - Ajuste 2026-10-18 (orden del autor): Fabrizio ya no está bajo coerción (pasa a Tommaso); su distancia se suaviza: sólo está ocupado. La línea de la llamada «corta, correcta» se sustituye por los banquetes y el brazo en el pasillo. Prosa DISEÑO pendiente de lectura.
 -->
 
-# Capítulo 47 — Nada
+# Capítulo 48 — Nada
 
 Pasaron dos días sin que Chiara supiera nada de la camioneta, y en esos dos días el Monarch no le dio tregua para pensar en otra cosa.
 

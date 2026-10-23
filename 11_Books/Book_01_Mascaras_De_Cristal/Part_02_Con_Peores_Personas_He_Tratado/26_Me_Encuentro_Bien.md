@@ -20,7 +20,7 @@ Continuidad / provisional:
 - Dario tutea a Chiara (gesto de poder); ella le sostiene el usted como pared.
 -->
 
-# Capítulo 30 — Me encuentro bien
+# Capítulo 31 — Me encuentro bien
 
 Chiara despertó con la idea entera, ya armada, como si la hubiera terminado de pensar dormida.
 

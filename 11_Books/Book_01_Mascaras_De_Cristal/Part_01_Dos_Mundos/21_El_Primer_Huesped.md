@@ -16,7 +16,7 @@ Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasad
 Nombre del lago del imán (2026-10-08, encargo del autor; DISEÑO): *Lake Meriwether*. No es [[05_Locations/El_Lago]] (H7).
 -->
 
-# Capítulo 23 — El primer huésped
+# Capítulo 24 — El primer huésped
 
 El teléfono sonó a las tres y algo de la madrugada, en la oscuridad completa del penthouse.
 
