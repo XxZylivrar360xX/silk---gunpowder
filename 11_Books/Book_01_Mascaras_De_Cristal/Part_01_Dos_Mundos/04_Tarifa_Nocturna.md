@@ -2,7 +2,7 @@
 Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): mecanico (signo de interrogacion en la rampa). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_04-13_Lote_A.md.
 Protagonistas: Chiara Bellandi, Kal Mercer.
 Ventana temporal: lunes, mismo dia de la salida de Walt (Cap. 3), de la manana a la noche. (Corregido 2026-09-29: el bloque de Chiara que abre el capitulo fija la fiesta en "esta noche"; mientras Kal esta en el trabajo del Cap. 3, Chiara esta en La Isla, y la llamada de Varga llega despues.)
-Lugares: The Monarch Casino & Hotel, centro de San Aurelio (cafeteria frente a Plaza Corona), La Isla.
+Lugares: The Monarch Casino & Hotel, Calle Corona (cortejo de Keene frente a la comisaria; La Esquina de Mabel; El Relevo, bar de policias a dos cuadras de la Central), trayecto por el Puente de Piedra y el Bulevar Corona a La Isla.
 POV: Chiara completo (fijado 2026-09-29, decision del autor). El remolque se ve desde la puerta de servicio: Chiara llega antes que la grua y mira a Kal trabajar; se retiraron las frases interiores de Kal y el salto de cabeza a media escena. Cierre nuevo: Chiara manda "La factura completa. Por favor." desde el penthouse y no hay respuesta. Se corto la linea opaca "Era la primera vez que quedaba del otro lado" (la sustituye el mensaje sin respuesta). Cafeteria del centro = La Esquina de Mabel (2026-09-29, decision del autor): primera aparicion de Harper Walker en prosa (en la maquina de espresso, nombrada por Mabel) y de Mabel vista por Chiara (deja de mover las manos cuando Blake dice lo de Roma). Chiara no sabe que es territorio de Kal. Ubica a Mabel en la frontera Calle Corona / La Almendra, a unas cuadras de Plaza Corona. Secuela fisica del trabajo del Tasador (Cap. 3): Chiara ve a Kal cuidar el hombro derecho al bajar el gancho y no pregunta; en el 5 se nombra la causa (cadena del Buick en la descarga). DISEÑO del agente a pedido del autor. La coda Kal/Nadir (Mabel, "El problema llamo", contacto guardado como Bellandi) paso a abrir el Cap. 5.
 Traslado (2026-09-29, decision del autor en la reapertura del Cap. 3): el bloque de Chiara que cerraba el Cap. 3 (titular de Keene, torneo de poker y roce con Tommaso, salida al centro, Blake y la invitacion a La Isla) abre ahora este capitulo, integro y sin pulir; el 3 queda en POV Kal y el POV compartido deliberado se reserva para el Cap. 5. Pendiente: pasada de pulido del bloque trasladado dentro de la economia del 4.
 Textura (2026-09-29, a pedido del autor): del telefono a Kal hasta el cierre se anadieron beats fisicos y de ambiente (sonido del otro lado de la llamada, trayecto por la costera sur de La Isla, trasera del Monarch, luces ambar de la grua, cabina, penthouse a oscuras con las torretas de Plaza Corona). Ningun dialogo se toco. DISENO del agente.
@@ -18,6 +18,7 @@ Varga (2026-10-17, decision del autor; DISENO del agente): Varga ebrio y altaner
 Susurro (2026-10-17, CANON DEL AUTOR; nunca en prosa): tras "Le estoy ahorrando vergüenza", Kal le dice algo al oido a Varga; el lector no lo oye. Lo que dijo (broma que amenaza): "No querra terminar como Keene en una banca, ¿verdad?". Kal no sabe que Keene fue orden de Dario ni que Varga dice conocer a Dario; a Varga le pega mas de lo que Kal cree, y por eso no vuelve al casino. Se quito "Mañana no tienes grua"; "Esto no se queda asi" baja de volumen. Cap. 5: Chiara pregunta que le dijo; Kal: "Lo de la llanta" / "Pregúntemelo en otro momento". Recordatorio en PENDING para la reunion Kal–Dario del Libro II.
 Vestuario en la rampa (2026-10-17, decision del autor): Kal llega en overol de trabajo, no en chaqueta; va como servicio externo de Almendra Towing. Concuerda con la apertura del Cap. 5.
 2026-10-24: regla de diálogo 05 aplicada (cortes de eco y turnos perdidos), DISEÑO. Tommaso no contesta y mira la mano izquierda; "Bellandi" en "ordenar versiones"; "Sigues/Sigues" -> "Puede ser."; cafetería sin "No sabía que estaba ofreciendo uno"; club sin "Qué presión tan innecesaria"; corredor con Blake largo y Chiara sin contestar; fuera "No es." y "Nunca se queda nada como uno quiere"; ventanilla: Kal le devuelve sus palabras. Reporte: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps01-04]].
+Encuentro con Blake (2026-10-24, decision del autor; prosa DISEÑO pendiente de lectura): sustituye la cafeteria casual y la fiesta de La Isla. Mediodia: cortejo de honor de Keene (Plaza Corona -> Hospital Santa Aurelia) frente a la comisaria; Chiara lee dos duelos (saludo al cargo / el de bigote gris que no lo sostiene) y ve a Blake con el saludo "para la tele"; silueta de cabello castaño oscuro en el coche negro (Lucia, sin nombre; la siembra verbal sigue en el Cap. 9). La Esquina de Mabel intacta en lo esencial (Harper, Roma, manos de Mabel) + mostaza en escena (paga el Cap. 6). Blake de servicio con banda negra (placa con el pulgar sobre la banda; la gala queda para el funeral); sin publico, honesto ("Me dio la mano el dia que me gradue. Una vez") y lee la fila. Invitacion: velorio de policias en El Relevo; Chiara acepta por los dos entierros de Palermo (iglesia y mesa: ver quien llora a Keene) y por la vibra. Noche: liston negro en lugar de pulsera (lo guarda, no lo tira); brindis del de bigote ("Era de los que cobraban todo, y eso no me lo cobro"); los dos del puerto; voz de mujer sin cara, voseo, se va a su turno (Collins sin nombre; paga en el Cap. 11); Blake infla la anecdota (escolta dos inviernos). Llamada y taxi reubicados en Calle Corona.
 -->
 
 # Capítulo 4 — Tarifa nocturna
@@ -164,15 +165,33 @@ Pidió un taxi.
 
 El centro de San Aurelio no intentaba seducirla. Eso le gustó.
 
-Calle Corona tenía juzgados, bancos viejos, oficinas municipales, cafeterías con mesas demasiado juntas, gente que caminaba rápido aunque no pareciera ir a ningún lugar bueno y patrullas todavía estacionadas alrededor de Plaza Corona. La banca donde habían encontrado a Keene estaba cubierta y lejos, convertida en punto ciego por cinta, cuerpos y cámaras.
+Calle Corona tenía juzgados, bancos viejos, oficinas municipales, cafeterías con mesas demasiado juntas y gente que caminaba rápido aunque no pareciera ir a ningún lugar bueno. Esa mañana también tenía vallas.
 
-Chiara no se acercó.
+El taxi no pudo pasar de la esquina del Ayuntamiento. Un agente de tránsito desviaba coches con la mano, sin silbato, y el chofer dijo algo del jefe de policía en el tono con que se comenta el clima. Chiara pagó y bajó.
 
-Pagó el taxi una cuadra antes y caminó sin prisa, sólo para sentir la ciudad debajo de los tacones. Palermo sabía empujar desde los balcones. Nueva York desde la acera. San Aurelio empujaba desde los bordes: una patrulla mal estacionada, una mujer vendiendo flores frente a un edificio público, un hombre con traje barato que no dejaba de mirar su teléfono, una reportera acomodándose el cabello antes de salir en vivo.
+Caminó sin prisa, sólo para sentir la ciudad debajo de los tacones. Palermo sabía empujar desde los balcones. Nueva York desde la acera. San Aurelio empujaba desde los bordes: una patrulla mal estacionada, una mujer vendiendo flores frente a un edificio público, un hombre con traje barato que no dejaba de mirar su teléfono, una reportera acomodándose el cabello antes de salir en vivo.
 
-Caminó hasta donde Calle Corona empezaba a perder bancos y a ganar talleres, y entró a una cafetería de esquina sin elegirla demasiado. En el vidrio, con letras blancas despintadas: *La Esquina de Mabel*.
+En las dos banquetas la gente se había detenido sin que nadie se lo pidiera. Una mujer con una bolsa de mandado. Dos abogados con el saco en el brazo. Un repartidor con el casco puesto. Nadie sabía bien si debía quedarse, y nadie se iba.
 
-Mitad tienda, mitad cafetería. Tenía piso de mosaico viejo, barra de madera, vitrinas con pan dulce, sodas en un refrigerador que zumbaba, cigarros detrás del mostrador, dos enfermeras de turno con sopa, dos abogados hablando en voz baja y un televisor sobre la máquina de espresso mostrando la misma fotografía de Keene que todo el mundo había decidido mirar sin sonido.
+Del lado de la comisaría, los policías estaban formados a lo largo de la acera, de uniforme, con una banda negra cruzada sobre la placa. No eran todos los de la ciudad; eran los suficientes para que la calle pareciera más angosta.
+
+El cortejo salió de Plaza Corona a vuelta de rueda. Primero dos motocicletas. Luego patrullas con las torretas encendidas y las sirenas mudas, el azul y el rojo girando en silencio contra las fachadas de los bancos. En medio, la camioneta oscura del forense, sin letrero, que no necesitaba letrero. Detrás, un coche negro con una mujer en el asiento trasero. Chiara sólo alcanzó a verle la nuca, el cuello del uniforme y el cabello castaño oscuro, recogido sin un pelo fuera de lugar. No volteó hacia la gente.
+
+Cuando la camioneta pasó frente a la comisaría, la fila se llevó la mano a la sien.
+
+Chiara había visto entierros en Palermo. Sabía que un muerto importante tenía siempre dos duelos, el que se ve y el que se cobra, y que la gente los confundía con facilidad. Miró la fila como habría mirado una mesa.
+
+La mayoría saludaba al cargo. Saludos rectos, iguales, el codo a la altura correcta, la mirada en un punto que no era la camioneta. Un saludo así no costaba nada y nadie podía reprocharlo.
+
+Hacia el final, un hombre de bigote gris no pudo sostenerlo. Se llevó la mano a la sien, la bajó, volvió a subirla, y a la tercera la dejó caer y se quedó mirando la camioneta como se mira a alguien que se va de una casa. El agente de al lado no lo vio. O lo vio y siguió saludando por los dos.
+
+Unos lugares antes, un rubio tenía el saludo más perfecto de toda la calle. Mentón arriba, mano exacta, ni un parpadeo. Parecía la fotografía del periódico de mañana, y daba la impresión de saberlo.
+
+La camioneta dobló hacia el hospital Santa Aurelia. Las torretas siguieron girando un rato sobre las fachadas, y la fila se deshizo como se deshacen las filas: primero un hombre que se aflojó el cuello, después todos.
+
+Chiara caminó en sentido contrario, hasta donde Calle Corona empezaba a perder bancos y a ganar talleres, y entró a una cafetería de esquina sin elegirla demasiado. En el vidrio, con letras blancas despintadas: *La Esquina de Mabel*.
+
+Mitad tienda, mitad cafetería. Tenía piso de mosaico viejo, barra de madera, vitrinas con pan dulce, sodas en un refrigerador que zumbaba, cigarros detrás del mostrador, dos enfermeras de turno con sopa, dos abogados hablando en voz baja y un televisor sobre la máquina de espresso que pasaba sin sonido el mismo cortejo, visto desde un helicóptero. Desde arriba parecía más ordenado.
 
 Chiara pidió un espresso doble.
 
@@ -188,7 +207,9 @@ La muchacha la miró y decidió que no valía la pena discutir con el acento.
 
 Harper apretó el café en el portafiltro con más fuerza de la necesaria.
 
-Chiara se sentó junto a la ventana. Sacó el teléfono, pero no lo desbloqueó. Afuera, al fondo de la calle, las torretas seguían girando alrededor de la plaza. Adentro, la gente fingía que un asesinato a unas cuadras no cambiaba el sabor del café.
+Chiara se sentó junto a la ventana. Sacó el teléfono, pero no lo desbloqueó. Afuera pasaban todavía policías sueltos, con la banda negra en la placa y sin formación, buscando dónde comer.
+
+La campana de la puerta sonó.
 
 —No eres de aquí.
 
@@ -196,15 +217,15 @@ La frase llegó desde su derecha, con confianza de hombre acostumbrado a que las
 
 Chiara giró la cabeza.
 
-Rubio. Ojos azules. Uniforme de patrulla con las mangas ajustadas de una manera que no debía ser reglamentaria por accidente. Veintitantos largos o treinta mal llevados por exceso de espejo. Sonreía como si ya hubiera ensayado la respuesta de ella.
+Rubio. Ojos azules. El cuello del uniforme ya desabrochado y las mangas ajustadas de una manera que no debía ser reglamentaria por accidente. Veintitantos largos o treinta mal llevados por exceso de espejo. Era el del saludo perfecto. De cerca tenía cara de haberse levantado a las cinco.
 
-—Qué observación tan difícil —dijo.
+—Qué observación tan difícil —dijo ella.
 
 Él soltó una risa.
 
 —Blake Stanton.
 
-No le ofreció la mano. Le mostró el nombre en la placa con el pulgar, como si eso hiciera el saludo más interesante.
+No le ofreció la mano. Le mostró el nombre en la placa con el pulgar, encima de la banda negra, como si eso hiciera el saludo más interesante.
 
 —Chiara.
 
@@ -228,29 +249,63 @@ Detrás de la caja, la mujer de los lentes dejó de mover las manos.
 
 —Me gusta tu estilo.
 
-Chiara bebió el espresso. Estaba largo, pero no tanto como temía.
+—Tú saludabas mejor que todos los de tu fila.
 
-—Todo el mundo ofrece algo.
+La sonrisa se le quedó quieta.
 
-La frase habría sonado distinta en otra boca. En la de Blake era vanidad, no amenaza. Eso la volvió menos peligrosa y más fácil.
+—¿Estabas afuera?
 
-—¿Y tú qué ofreces, oficial Stanton?
+—Me cerraron la calle.
 
-Él miró hacia el fondo de la calle, hacia las torretas.
+Blake se miró la mano, como si todavía la tuviera en la sien. Luego jaló la silla y esta vez sí se sentó.
 
-—¿Hoy? Una ciudad con mala prensa.
+—Lo practiqué en el espejo de la patrulla. Desde las seis. —Se pasó el pulgar por la banda negra—. No lo conocía tanto. Me dio la mano el día que me gradué. Una vez. Hoy todos en esa fila lo conocían de toda la vida.
 
-—Eso ya lo tengo.
+—El de bigote sí.
 
-—Esta noche hay una fiesta en La Isla. Gente del Departamento, gente del puerto, unos amigos que creen que saben bailar. Podrías ver una parte de San Aurelio que no salga en las noticias.
+Blake levantó la vista. Por primera vez la miró a ella y no al efecto que estaba haciendo.
+
+—Ése sí. Ésos dos eran patrulla juntos cuando yo iba a la primaria. —Se encogió de hombros—. Los de adelante saludaban para la alcaldía. Los de en medio, para la tele. Los que se fueron antes de que acabara, para que nadie los viera irse.
+
+—¿Y tú?
+
+—Yo para la tele. Ya te dije que practiqué.
+
+Chiara se rió antes de decidir si quería.
+
+Blake levantó dos dedos hacia la caja.
+
+—Mabel. Dos de pierna.
+
+—Yo no pedí.
+
+—No has comido. Tienes cara de hotel. —Se volvió hacia la caja—. Aquí las tortas son lo único que no sale en las noticias.
+
+Chiara pensó en el plato de fruta intacto junto al titular.
+
+—La mía sin mostaza —dijo, hacia la caja—. Me cierra la garganta desde niña.
+
+La mujer de los lentes no levantó la vista de las monedas.
+
+Comieron con la televisión encima. Blake habló poco mientras masticaba, y ese rato, sin público, fue mejor que todo lo que había dicho de pie. Le explicó por qué las patrullas se quedaban alrededor de la plaza aunque ya no hubiera nada que cuidar. Le dijo cuál de los dos abogados de la mesa del fondo cobraba por hora y cuál por favor. Acertó con el segundo; Chiara lo supo porque el hombre pagó la cuenta del otro sin mirarla.
+
+—¿Y tú qué ofreces, oficial Stanton? —preguntó ella al final.
+
+Él miró hacia la calle, hacia donde había estado la fila.
+
+—Esta noche lo despedimos nosotros. Lo de hoy fue para la alcaldía; en la noche es para él. En El Relevo, a dos cuadras de la Central. Sin cámaras, sin discursos de nadie que no lo haya conocido.
+
+—Yo no lo conocí.
+
+—Yo tampoco, ya te dije. —Sonrió—. Va a haber más gente así de la que crees.
 
 Chiara debería haber dicho no.
 
-No porque Blake fuera peligroso. Porque era obvio. Porque el día ya estaba lleno de hombres ocupando espacio que no se habían ganado. Porque Tommaso seguía sentado en una sala del Monarch con el apellido de su hermano como cuchillo sin sangre.
+No porque Blake fuera peligroso. Porque era obvio, y porque un velorio de policías no era lugar para una desconocida con acento y un casino detrás.
 
-Justamente por eso no dijo no.
+Pero en Palermo los muertos importantes tenían dos entierros, el de la iglesia y el de la mesa, y en el segundo se decía lo que en el primero no. Si quería saber quién lloraba a Keene y quién sólo bebía por él, esa sala no se la iban a volver a abrir.
 
-Extrañó, con una punzada breve y ridícula, la sensación de salir en Palermo sin que todo fuera expediente. Nueva York, con sus bares demasiado caros, sus taxis amarillos, sus noches donde una podía fingir dos horas que nadie esperaba nada de ella salvo que eligiera otra copa. La vibra de moverse porque sí. De aceptar una invitación porque el cuerpo necesitaba recordar que también existía fuera de las mesas.
+Y debajo de eso, más chico y más ridículo, extrañó la sensación de una noche entre gente que se conocía. Palermo sin expediente. Nueva York, con sus bares demasiado caros y sus noches donde una podía fingir dos horas que nadie esperaba nada de ella salvo que eligiera otra copa. La había dejado del otro lado del avión.
 
 Blake no era eso, pero podía servir de imitación barata.
 
@@ -274,7 +329,7 @@ No el principal.
 
 Cuando él se fue, caminando un poco más derecho que antes, Chiara volvió a mirar hacia el fondo de la calle.
 
-El televisor cambió de imagen. Keene otra vez. La banca. La cinta amarilla.
+El televisor repitió el cortejo desde el helicóptero. La camioneta, las torretas, la fila con la mano en la sien. Desde esa altura no se distinguía quién saludaba a quién.
 
 El espresso se enfrió.
 
@@ -284,23 +339,21 @@ La ciudad nueva ya estaba empezando a comportarse como si la conociera.
 
 ***
 
-La fiesta de La Isla empezó con una pulsera blanca.
+El Relevo empezó con un listón negro.
 
-Chiara la miró en la entrada, colgando entre los dedos de una mujer con auricular, libreta y sonrisa profesional. La pulsera era de tela, con el logo de un club que no conocía y una tinta plateada que intentaba parecer más cara de lo que era. No le gustó. No por fea. Por obvia.
+Se lo ofreció en la puerta una mujer de unos cincuenta, de suéter, con una caja de zapatos llena de listones y alfileres de costura, como quien reparte algo que hizo en la mesa de su cocina. Era la esposa de alguien. Tenía la cara de haber repartido eso antes.
 
-—Es para identificar invitados —dijo Blake.
+—¿Lo conocías, mija?
 
-Él ya traía la suya puesta.
+—No.
 
-—Creí que para eso tenían ojos.
+La mujer le prendió el listón en la solapa de todos modos.
 
-Blake soltó una risa breve, complacido antes de entender del todo.
+—Él tampoco conocía a la mitad de los que vienen.
 
-—Aquí nadie quiere trabajar tanto.
+Blake ya traía el suyo, sobre una camisa de civil planchada para la ocasión.
 
-La mujer del auricular sostuvo la pulsera en el aire. Chiara ofreció la muñeca. La tela rozó la piel donde normalmente habría llevado un reloj, no esa marca barata de pertenencia provisional.
-
-Adentro, el club olía a hielo, licor derramado, perfume dulce y aire marino empujado por puertas que abrían y cerraban sin ritmo. La música estaba demasiado alta para conversar y demasiado baja para rendirse. Había policías de civil, mujeres con vestidos que sabían posar bajo luz azul, dos hombres del puerto que fingían no mirar hacia el mismo reservado y un grupo de amigos de Blake que lo recibieron como si acabara de entrar con un premio.
+Adentro, el bar olía a cerveza de barril, madera vieja y fritura. Había placas de otros departamentos clavadas en las vigas, fotografías de patrullas de hacía cuarenta años y una campana de bronce junto a la caja. Detrás de la barra habían puesto una foto de Keene de uniforme de gala, con un whisky servido enfrente que nadie iba a tocar. La música estaba baja y nadie la había elegido. Había policías de civil con la corbata en el bolsillo, policías todavía de uniforme con la banda negra, mujeres que conocían a todos y dos hombres que dijeron trabajar en logística del puerto y no dijeron para quién.
 
 Antes de llegar a la mesa, Blake se inclinó hacia ella.
 
@@ -310,9 +363,7 @@ Antes de llegar a la mesa, Blake se inclinó hacia ella.
 
 —Yo ya gasté mi frase de Roma. Me quedé sin material.
 
-Chiara se rió antes de decidir si quería.
-
-Ahí estaba lo que a Blake le abría las puertas: cuando no tenía nada que defender, leía bien una habitación y regalaba la lectura sin cobrarla. Acertó en las dos predicciones antes de que terminaran de sentarse.
+Acertó en las dos predicciones antes de que terminaran de sentarse.
 
 Después llegaron sus amigos y dejó de ser bueno en eso.
 
@@ -332,11 +383,31 @@ Blake le puso una mano en la espalda, demasiado arriba para ser intimidad y dema
 
 Ella miró la mano. Blake la retiró como si hubiera tenido otra idea.
 
-La noche avanzó con la velocidad de las cosas que no importaban. Blake le presentó amigos, no personas. Un sargento que presumía persecuciones. Una mujer de tránsito que bebía tequila con disciplina militar. Dos hombres que dijeron trabajar en logística del puerto y no dijeron para quién. Todos miraban el acento antes que la cara.
+Pasadas las once alguien tocó la campana, y el bar se calló por partes.
+
+Habló el de bigote gris. No se subió a nada. Dijo que, cuando era novato, Ray le había cubierto un turno que él no podía cubrir, y que nunca le preguntó por qué.
+
+—Nunca me lo cobró —dijo—. Era de los que cobraban todo, y eso no me lo cobró.
+
+Levantó el vaso. Algunos bebieron mirando el piso. Otros bebieron rápido, como quien paga una cuenta. Los dos del puerto levantaron el vaso exactamente cuando todos, ni un segundo tarde.
+
+Después habló una mujer desde el fondo, cerca de la puerta. No levantó la voz. El bar se calló igual, más rápido que con la campana.
+
+—Por el jefe —dijo, despacio, eligiendo cada palabra—. Y por los que mañana tienen turno igual. Tomen ustedes, que yo me voy a trabajar.
+
+Tenía un acento que Chiara no supo colocar, de vocales abiertas, y al final se le escapó un vos hacia alguien de la barra:
+
+—Y vos cuidame el lugar.
+
+Dejó la cerveza a la mitad y salió. Nadie se lo reprochó. Chiara no alcanzó a verle la cara entre los hombros.
+
+La noche avanzó con la velocidad de las cosas que no importaban. Blake le presentó amigos, no personas. Un patrullero que presumía persecuciones. Una mujer de tránsito que bebía tequila con disciplina militar. Todos miraban el acento antes que la cara.
 
 Chiara bebió una copa y dejó la segunda sobre una mesa sin tocar.
 
-Blake hablaba mucho cuando tenía público. Más que en la cafetería. Ocupaba espacio con los hombros, con la risa, con las historias de patrullas y velocidades. En algún punto de la noche mencionó un Peugeot rojo que hacía quedar mal a medio Departamento.
+Blake hablaba mucho cuando tenía público. Más que en la cafetería. Ocupaba espacio con los hombros, con la risa, con las historias de patrullas y velocidades. Contó que había manejado la escolta del jefe dos inviernos. A mediodía le había dicho que Keene le dio la mano una vez. Chiara no lo corrigió.
+
+En algún punto mencionó un Peugeot rojo que hacía quedar mal a medio Departamento.
 
 —Un 106 viejo, arreglado como si valiera algo. Nunca le hemos visto la cara al tipo.
 
@@ -350,7 +421,7 @@ El teléfono vibró dentro del bolso.
 
 Matteo.
 
-No contestó en la pista. Caminó hacia un corredor lateral donde la música se volvía golpe contra la pared.
+No contestó en la mesa. Caminó hacia el pasillo de los baños, donde el bar se volvía un murmullo detrás de la pared.
 
 —Dime.
 
@@ -376,7 +447,7 @@ Matteo bajó la voz.
 
 —La apertura privada empieza mañana. No quiero policía en la entrada, no quiero a Varga grabando, no quiero a Dario preguntando por qué una mesera lloró en el pasillo.
 
-Chiara miró hacia la pista. Blake estaba contando algo con las manos, ya sin ella.
+Chiara miró hacia la mesa. Blake estaba contando algo con las manos, ya sin ella.
 
 —¿Qué quieres de mí?
 
@@ -402,7 +473,7 @@ Colgó.
 
 El mensaje de Matteo llegó antes de que guardara el teléfono. Matrícula, Mercedes gris, rampa de carga. Debajo, sin saludo y sin nombre, un número.
 
-Blake apareció en el corredor con dos vasos.
+Blake apareció en el pasillo con dos vasos.
 
 —Te estabas escondiendo.
 
@@ -414,7 +485,7 @@ Le ofreció un vaso. Ella no lo tomó.
 
 —Tengo que irme.
 
-—¿Ahora? —Blake miró hacia la pista, donde sus amigos seguían sin él—. Dame cinco minutos. Me despido de estos y te llevo. Soy policía; a esta hora la costera es mía.
+—¿Ahora? —Blake miró hacia la mesa, donde sus amigos seguían sin él—. Dame cinco minutos. Me despido de estos y te llevo. Soy policía; a esta hora el puente es mío.
 
 Chiara no contestó.
 
@@ -424,9 +495,9 @@ La sonrisa de Blake se tensó. Chiara vio el cambio y supo que, si se quedaba, l
 
 Salió sola.
 
-En la acera se quitó la pulsera. La tela cedió sin resistencia, que era lo peor que podía decirse de una marca de pertenencia. La dejó en el bote de la esquina, sobre vasos de plástico y colillas, y el logo plateado siguió brillando ahí dentro un rato más de lo que merecía.
+En la acera se quitó el listón. Lo miró un momento: tela negra y un alfiler de costura, nada que pudiera tirarse en un bote sin que significara algo. Lo guardó en el bolso.
 
-El aire de La Isla le pegó en la cara con sal, diésel y música filtrada por muros. Detrás de ella la puerta del club se abrió y se cerró: un golpe de bajo, una risa, otra vez el muro. Un valet fumaba apoyado en un poste con el chaleco desabotonado. Más allá de los techos, las grúas del puerto parpadeaban en rojo, lentas, como si llevaran otra hora.
+El aire de Calle Corona le pegó en la cara, frío, con olor a asfalto mojado. Detrás de ella la puerta del bar se abrió y se cerró: un coro desafinado, una risa, otra vez el muro. Dos patrulleros fumaban junto a la entrada con la banda negra todavía en la placa. A dos cuadras, la Central tenía todas las ventanas encendidas, y al fondo de la calle la cinta amarilla de Plaza Corona seguía atada a los postes.
 
 Pidió un taxi con una aplicación, pero antes de confirmarlo abrió otro contacto.
 
@@ -450,7 +521,7 @@ Hubo una pausa mínima del otro lado. No sorpresa. Ajuste.
 
 —Ojalá.
 
-No quiso sonreír. Sonrió igual, apenas, y le dio la espalda al valet.
+No quiso sonreír. Sonrió igual, apenas, y le dio la espalda a los patrulleros.
 
 —Necesito mover un coche. Y necesito que no parezca un problema del casino.
 
@@ -472,7 +543,7 @@ Creyó oírlo escribir: un roce corto, de pluma contra papel apoyado en algo dur
 
 —Sus socios me dijeron que no.
 
-Detrás de ella, la puerta del club se abrió y soltó un golpe de bajo antes de cerrarse.
+Detrás de ella, la puerta del bar se abrió y soltó medio brindis antes de cerrarse.
 
 —Mis socios no están en el estacionamiento.
 
@@ -480,7 +551,7 @@ Era la frase de Matteo. Le molestó oírsela en la boca.
 
 —¿Y usted?
 
-—En La Isla. Salgo para allá en cuanto…
+—En Calle Corona. Salgo para allá en cuanto…
 
 —No le pregunté dónde está.
 
@@ -488,7 +559,7 @@ Chiara se quedó quieta en la acera. En la pantalla, el taxi seguía sin confirm
 
 —Le pregunté quién llama. ¿Ellos o usted?
 
-Ella tenía dos respuestas, y ninguna servía para decirse en una acera, con un valet a tres metros.
+Ella tenía dos respuestas, y ninguna servía para decirse en una acera, con dos policías a tres metros.
 
 —Un cliente vetado le está gritando a dos guardias que no saben qué hacer con él —dijo—. Y la apertura privada es mañana.
 
@@ -528,7 +599,7 @@ Le sirvió.
 
 ***
 
-El taxi tomó la costera sur de La Isla con las ventanas cerradas y un pino de cartón colgando del espejo. Del lado del mar pasaban los muelles de las marinas bajo luz de sodio, naranja y sucia, lanchas tapadas con lona y camiones de reparto dormidos con la cabina a oscuras. El Monarch apareció primero como resplandor, luego como edificio, y al final, cuando el taxi dio la vuelta hacia servicio, como lo que era por detrás: concreto, extractores, un contenedor de basura con la tapa abierta.
+El taxi cruzó el Puente de Piedra con las ventanas cerradas y un pino de cartón colgando del espejo. Abajo, la bahía era una lámina negra con luces encima. Del otro lado, el Bulevar Corona atravesaba La Isla y, del lado del mar, pasaban los muelles de las marinas bajo luz de sodio, naranja y sucia, lanchas tapadas con lona y camiones de reparto dormidos con la cabina a oscuras. El Monarch apareció primero como resplandor, luego como edificio, y al final, cuando el taxi dio la vuelta hacia servicio, como lo que era por detrás: concreto, extractores, un contenedor de basura con la tapa abierta.
 
 El taxi la dejó en la rampa de servicio catorce minutos después de la llamada.
 

@@ -132,23 +132,31 @@ Chiara subió. No le dijo para quién más trabajaban esas grúas.
 
 Cenaron en el Distrito Marino, en un lugar de manteles de papel y pescado bueno. Durante el primer plato Blake fue el de la cafetería: contó una persecución que había terminado con un hombre de setenta años atorado en la ventana de un baño, y la contó en contra de sí mismo, sin heroísmo, y Chiara se rió de verdad.
 
-Después entró el sargento de La Isla con su mujer.
+Después entraron tres policías de uniforme, a cenar antes del turno. Venían detrás de una mujer de cabello corto y lacio, castaño con algo de cobre bajo las lámparas, que no tuvo que pedir mesa.
 
-Blake se enderezó en la silla. Lo saludó desde lejos con la mano abierta, y para cuando el sargento llegó a la mesa, la otra mano de Blake ya estaba en el respaldo de la silla de ella.
+Blake se enderezó en la silla. La saludó desde lejos con la mano abierta, y para cuando ella llegó a la mesa, la otra mano de Blake ya estaba en el respaldo de la silla de Chiara.
 
-—Te acuerdas de Chiara. La del Monarch.
+—Sargenta.
 
-El sargento se acordaba. Se quedó de pie junto a la mesa, con la mujer un paso atrás, mirando el pescado.
+—Stanton.
+
+—Ésta es Chiara. La del Monarch.
+
+—Un gusto.
+
+Era la voz del brindis de El Relevo, la que había callado el bar sin subirse a nada. Se quedó de pie junto a la mesa, con los suyos un paso atrás, mirando el pescado.
 
 —¿Y qué tal el casino? —le preguntó a Chiara.
 
 —Lleno —contestó Blake—. Con lo del torneo no le alcanzan las manos.
 
+La sargenta siguió mirando a Chiara un segundo más, como si la respuesta todavía no hubiera llegado. Después les deseó buen provecho y se fue a su mesa.
+
 Chiara bebió vino.
 
 De regreso, en un semáforo de la costera, Blake tamborileó sobre el volante.
 
-—El domingo hay carne asada en casa de Ramírez. Va todo el turno.
+—El domingo hay barbacoa en casa de Hendricks. Va todo el turno.
 
 —El domingo no puedo.
 
@@ -160,7 +168,7 @@ De regreso, en un semáforo de la costera, Blake tamborileó sobre el volante.
 
 —A caballo. Hay un hipódromo detrás del Monarch. Los domingos no corre nadie.
 
-—Ah, mira. —El semáforo cambió—. Ramírez hace unas costillas que no te imaginas. Su mujer pregunta por ti. Le conté lo de La Isla.
+—Ah, mira. —El semáforo cambió—. Hendricks hace unas costillas que no te imaginas. Su mujer pregunta por ti. Le conté lo de El Relevo.
 
 Chiara miró por la ventanilla.
 

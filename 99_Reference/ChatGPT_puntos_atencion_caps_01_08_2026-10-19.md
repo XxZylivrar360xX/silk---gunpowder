@@ -13,7 +13,7 @@
 ## Capítulo 2 — Demasiado listo
 
 1. **Corrección factual necesaria: vuelo doméstico.** Chiara viene de Nueva York a Oregon, pero el texto actual la hace pasar por migración, sello de pasaporte, zona internacional y aduana. Un vuelo doméstico dentro de EE. UU. no funciona así. Corregir la mecánica sin perder la observación de Kingsley Field como “boca”/sistema de acceso.
-2. **`No hay veinte como él en esta ciudad.`** Vigilar si lectores sienten que Chiara concluye demasiado pronto o si se lee como reconocimiento profesional de una competencia rara. No tocar por anticipación: validar con terceros.
+2. **`No hay veinte como él en esta ciudad.`** Vigilar si lectores sienten que Chiara concluye demasiado pronto o si se lee como reconocimiento profesional de una competencia rara. No tocar por anticipación: validar con terceros. **Resuelto 2026-10-24 por el autor:** baja a «Yo no he visto veinte como él» / «Es lo que vi hoy»; sale de la protolectura.
 3. **Densidad institucional.** Consorzio, Ardizzone, Bellandi, Matteo, Fabrizio, Tommaso, Dario y estructura del Monarch entran muy cerca. Funciona porque Chiara también está averiguando quién manda; no añadir exposición extra.
 
 ## Capítulo 3 — Los viejos días
@@ -61,4 +61,4 @@
 - La apertura ya tiene columna vertebral: **mundo de Kal → mundo de Chiara → pasado de Kal → Chiara lo elige operativamente → construyen vía privada → intimidad → reconocimiento afectivo → compatibilidad bajo presión**.
 - La química mejoró porque descansa en **objetos, acciones, memoria, puertas, facturas, comida, herramientas, silencios y decisiones**, no sólo en réplicas pulidas.
 - Los puntos de atención actuales son principalmente de **densidad, duración y grado de explicación**, no de arquitectura.
-- Para protolectura, preguntar especialmente: qué nombres retuvieron del 1; si `No hay veinte como él` llega demasiado pronto; si el flashback de Jim frena el 3; si la junta de poker tarda en soltar el 4; dónde sienten la longitud del 5; si Blake se rompe de forma orgánica en el 7; y si la persecución del 8 conserva claridad/tensión hasta el Canal Seco.
+- Para protolectura, preguntar especialmente: qué nombres retuvieron del 1; si el flashback de Jim frena el 3; si la junta de poker tarda en soltar el 4; dónde sienten la longitud del 5; si Blake se rompe de forma orgánica en el 7; y si la persecución del 8 conserva claridad/tensión hasta el Canal Seco.

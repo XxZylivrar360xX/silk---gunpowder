@@ -34,7 +34,7 @@ Con el capitán fue distinto. Blake lo ubicó desde la entrada, junto a la barra
 
 El capitán le preguntó por el torneo antes que por su nombre. Dijo que él no jugaba.
 
-Por un segundo fue el Blake de La Isla, el de antes de que llegaran sus amigos. Después el capitán contó un chiste, y Blake se rió más fuerte que el capitán.
+Por un segundo fue el Blake de La Esquina de Mabel, el que no tenía público. Después el capitán contó un chiste, y Blake se rió más fuerte que el capitán.
 
 Camino al siguiente grupo, Blake bajó la voz como quien regala algo.
 

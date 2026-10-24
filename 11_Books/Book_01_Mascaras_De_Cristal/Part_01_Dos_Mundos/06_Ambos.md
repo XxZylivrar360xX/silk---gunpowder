@@ -133,7 +133,7 @@ Kal dejó la bolsa sobre la mesa, lejos de los papeles, con un cuidado que no co
 
 Sin mostaza.
 
-Ella nunca se lo había dicho. Lo había dicho una sola vez, sin pensar, en La Esquina de Mabel, la noche de Blake, cuando todavía no sabía de quién era esa calle: que la mostaza le cerraba la garganta desde niña. La mujer de la caja no había levantado la vista de las monedas. No había vuelto a pensarlo. Mabel, que sabía de todo el mundo cosas que nadie le contaba de frente, se lo había guardado, y se lo había pasado a él.
+Ella nunca se lo había dicho. Lo había dicho una sola vez, sin pensar, en La Esquina de Mabel, el día del cortejo, con Blake enfrente, cuando todavía no sabía de quién era esa calle: que la mostaza le cerraba la garganta desde niña. La mujer de la caja no había levantado la vista de las monedas. No había vuelto a pensarlo. Mabel, que sabía de todo el mundo cosas que nadie le contaba de frente, se lo había guardado, y se lo había pasado a él.
 
 —Mabel la preparó —dijo Kal, como si hiciera falta aclararlo—. Yo cargué la bolsa.
 

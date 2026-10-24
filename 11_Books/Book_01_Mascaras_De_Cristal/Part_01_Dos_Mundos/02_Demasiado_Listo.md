@@ -718,13 +718,13 @@ Matteo no volvió a sentarse.
 
 Chiara dejó que la frase respirara antes de tocarla.
 
-—No hay veinte como él en esta ciudad.
+—Yo no he visto veinte como él.
 
 Tommaso giró apenas la cabeza.
 
 —¿Eso es criterio profesional?
 
-—Sí.
+—Es lo que vi hoy.
 
 —Entonces mi criterio profesional es que un proveedor que detecta una falla de seguridad antes de firmar contrato detectará veinte más después. Y después sabrá cuánto vale callarlas.
 

@@ -50,6 +50,7 @@ Plan: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]
 
 ## Continuidad, edición y exportación
 
+- **Protolectura (caps. 1–8):** preguntas en [[99_Reference/ChatGPT_puntos_atencion_caps_01_08_2026-10-19]]. «No hay veinte como él» ya se resolvió (2026-10-24: Cap. 2:721 baja a «Yo no he visto veinte como él» / «Es lo que vi hoy»).
 - **Gesto de manos:** revisar en cada capítulo.
 - **Bonnie:** la numeración vieja de libros en su ficha la corrige el autor.
 - **Portada y Nota Editorial:** portada ≥1600×2560 para KDP; título de `00_Nota_Editorial.md`, del autor.

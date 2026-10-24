@@ -14,7 +14,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 12:26"
+      "desde": "2026-10-24 13:44"
     },
     "03_Los_Viejos_Dias.md": {
       "capitulo": 3,
@@ -30,7 +30,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 12:26"
+      "desde": "2026-10-24 15:47"
     },
     "05a_Cliente_Y_Proveedor.md": {
       "capitulo": 5,
@@ -46,7 +46,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 11:29"
+      "desde": "2026-10-24 15:47"
     },
     "05c_La_Pizza_De_Calabaza.md": {
       "capitulo": 7,
@@ -62,15 +62,15 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 01:06"
+      "desde": "2026-10-24 15:47"
     },
     "07_La_Noche_Del_Ladrillo.md": {
       "capitulo": 9,
       "titulo": "La noche del ladrillo",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-23",
-      "desde": "2026-10-23 23:17"
+      "audio": "2026-10-24",
+      "desde": "2026-10-24 15:47"
     },
     "08_La_Carrera_De_Mascaras.md": {
       "capitulo": 10,
@@ -85,8 +85,8 @@
       "titulo": "La sargenta",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-23",
-      "desde": "2026-10-23 23:17"
+      "audio": "2026-10-24",
+      "desde": "2026-10-24 15:47"
     },
     "09_La_Balanza.md": {
       "capitulo": 12,
@@ -766,6 +766,66 @@
     [
       "2026-10-24 12:26",
       "Cap. 4 (04_Tarifa_Nocturna.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-24 13:38",
+      "Cap. 2 (02_Demasiado_Listo.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-24 13:44",
+      "Cap. 2 (02_Demasiado_Listo.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-24 14:31",
+      "Cap. 4 (04_Tarifa_Nocturna.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-24 14:31",
+      "Cap. 6 (05b_Sin_Llamar_A_Nadie.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-24 14:31",
+      "Cap. 8 (06_Ambos.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-24 14:31",
+      "Cap. 9 (07_La_Noche_Del_Ladrillo.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-24 15:25",
+      "Cap. 11 (08b_La_Sargenta.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-24 15:47",
+      "Cap. 4 (04_Tarifa_Nocturna.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-24 15:47",
+      "Cap. 6 (05b_Sin_Llamar_A_Nadie.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-24 15:47",
+      "Cap. 8 (06_Ambos.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-24 15:47",
+      "Cap. 9 (07_La_Noche_Del_Ladrillo.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-24 15:47",
+      "Cap. 11 (08b_La_Sargenta.md)",
       "audio regenerado"
     ]
   ]

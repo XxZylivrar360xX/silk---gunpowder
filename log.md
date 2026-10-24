@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-24: [[98_Agent_Handoff/sessions/2026-10-24_claude_cap04_cortejo_keene_blake]] · Cap. 4: cortejo de honor de Keene, Blake en Mabel's y velorio en El Relevo (sustituye La Isla); Collins castaño cobrizo (CANON).
 - 2026-10-24: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps01-04]] · regla de diálogo 05 aplicada a Caps. 1–4 (scouts, aplicación por subagente, verificación del principal); Tommaso–Chiara sin duelo de epigramas en el 4; atribuciones del autor (Kal en el 1, Walt en el 3); prosa DISEÑO pendiente de lectura.
 - 2026-10-24: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]] · regla nueva de diálogo 05 (esticomitia de una sola voz) y cirugía de diálogo en Caps. 5–7 por scouts; Chiara–Tommaso sin duelo de epigramas (manda la ficha); Cap. 7 empieza la transición de proveedor a Kal que quiere impresionar; prosa DISEÑO pendiente de lectura.
 - 2026-10-23: [[98_Agent_Handoff/sessions/2026-10-23_claude_audiolibro_y_cap05_lectura]] · audiolibro por capítulo (voz Dalia, diccionario de pronunciación, bitácora de audios pendientes; protocolo en CLAUDE/AGENTS) y tres microcirugías del Cap. 5 tras lectura del autor.

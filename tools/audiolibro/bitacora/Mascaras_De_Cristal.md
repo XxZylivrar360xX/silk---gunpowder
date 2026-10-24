@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-24 12:26. Al día: 57 de 57.
+Actualizada: 2026-10-24 15:47. Al día: 57 de 57.
 
 ## Pendientes
 
@@ -20,9 +20,9 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | 6 | Sin llamar a nadie | AL DIA | 2026-10-24 |
 | 7 | La pizza de calabaza | AL DIA | 2026-10-24 |
 | 8 | Ambos | AL DIA | 2026-10-24 |
-| 9 | La noche del ladrillo | AL DIA | 2026-10-23 |
+| 9 | La noche del ladrillo | AL DIA | 2026-10-24 |
 | 10 | La carrera de máscaras | AL DIA | 2026-10-23 |
-| 11 | La sargenta | AL DIA | 2026-10-23 |
+| 11 | La sargenta | AL DIA | 2026-10-24 |
 | 12 | La balanza | AL DIA | 2026-10-23 |
 | 13 | Los muchachos comen | AL DIA | 2026-10-23 |
 | 14 | El farol | AL DIA | 2026-10-23 |
@@ -72,6 +72,18 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Historial
 
+- 2026-10-24 15:47 · Cap. 11 (08b_La_Sargenta.md) · audio regenerado
+- 2026-10-24 15:47 · Cap. 9 (07_La_Noche_Del_Ladrillo.md) · audio regenerado
+- 2026-10-24 15:47 · Cap. 8 (06_Ambos.md) · audio regenerado
+- 2026-10-24 15:47 · Cap. 6 (05b_Sin_Llamar_A_Nadie.md) · audio regenerado
+- 2026-10-24 15:47 · Cap. 4 (04_Tarifa_Nocturna.md) · audio regenerado
+- 2026-10-24 15:25 · Cap. 11 (08b_La_Sargenta.md) · audio pendiente: cambió la prosa
+- 2026-10-24 14:31 · Cap. 9 (07_La_Noche_Del_Ladrillo.md) · audio pendiente: cambió la prosa
+- 2026-10-24 14:31 · Cap. 8 (06_Ambos.md) · audio pendiente: cambió la prosa
+- 2026-10-24 14:31 · Cap. 6 (05b_Sin_Llamar_A_Nadie.md) · audio pendiente: cambió la prosa
+- 2026-10-24 14:31 · Cap. 4 (04_Tarifa_Nocturna.md) · audio pendiente: cambió la prosa
+- 2026-10-24 13:44 · Cap. 2 (02_Demasiado_Listo.md) · audio regenerado
+- 2026-10-24 13:38 · Cap. 2 (02_Demasiado_Listo.md) · audio pendiente: cambió la prosa
 - 2026-10-24 12:26 · Cap. 4 (04_Tarifa_Nocturna.md) · audio regenerado
 - 2026-10-24 12:26 · Cap. 3 (03_Los_Viejos_Dias.md) · audio regenerado
 - 2026-10-24 12:26 · Cap. 2 (02_Demasiado_Listo.md) · audio regenerado
