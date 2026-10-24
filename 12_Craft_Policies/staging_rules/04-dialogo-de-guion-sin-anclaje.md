@@ -33,7 +33,9 @@ Esta novela lee el poder y la intimidad en lo pequeño: quien mira primero, quie
 ## Excepcion
 
 - **Sequedad como voz.** Los intercambios cortos de Kal con Nadir, Hector o Danny ("¿Casino?" / "Mercedes.") son caracterizacion: el ping-pong **es** la relacion. No se rompen para cumplir la regla.
-- **Esgrima breve.** Un duelo de cuatro a seis lineas donde la velocidad es la tension (Chiara y Tommaso en el pasillo) pierde filo si se interrumpe.
+- **Esgrima breve.** Un duelo de cuatro a seis lineas donde la velocidad es la tension pierde filo si se interrumpe. (Antes citaba a Chiara y Tommaso en el pasillo; retirado el 2026-10-24 por decision del autor: entre ellos manda su ficha, sin duelo de epigramas. Ver `../dialogue_rules/05-esticomitia-de-una-sola-voz.md`.)
 - **Despues de anclar fuerte.** Si la escena acaba de situar el espacio con precision, puede correr varios turnos limpios sobre ese credito.
 
 Fuera de esos casos, si el lector no puede decir donde estan ni que tiene cada uno en las manos, falta un beat.
+
+Si el intercambio si esta anclado pero las voces suenan iguales, el problema no es de esta regla: ver `../dialogue_rules/05-esticomitia-de-una-sola-voz.md`.

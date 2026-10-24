@@ -37,6 +37,8 @@ Cierre de Il Gelsomino (2026-10-17, SURGERY autorizada por el autor; el estado s
 Arco de Blake (2026-10-22, decision del autor; prosa DISENO pendiente de lectura): tras la llamada de la factura, mensaje de Blake en la linea secundaria ("¿Llegaste bien? Mis amigos preguntan por ti."); Chiara lo deja para despues y le escribe a Kal.
 Chiara ya sabia (2026-10-23, SURGERY aprobada por el autor tras lectura de corrido; el estado se conserva): en el elevador, tras "¿Al final paso por la apertura?", se anade "Ya sabia la respuesta. Queria oir cual le daba el." El autor leyo raro que ella preguntara por la apertura y por si Walt gano cuando ya habia hablado con Walt en la caja; la linea marca la pregunta como prueba desde el POV de Chiara y deja intacta la revelacion de "Hable con su amigo".
 Ping pong del despacho (2026-10-23, AUDIT en sesion + SURGERY aprobada por el autor; el estado se conserva): fuera "Lo escogio Matteo. / Matteo tiene mejor gusto del que deja ver." (la cava cierra en "Lo unico que no intenta parecer otra cosa"; quitaba dos de cuatro "Matteo" en seis replicas) y fuera el segundo "¿Entonces?" de Chiara (Kal dice de corrido "Una factura es de proveedor. Se lo voy a decir cuando firmemos..."). Protegido por decision del autor: el doble "dos veces" del cierre ("preguntado dos veces" / "Ya la conto. / Dos veces.").
+Regla 05, esticomitia de una sola voz (2026-10-24, aprobado por el autor; DISENO del agente): llamada, "¿Nada mas?" -> "Va a estar ahi."; elevador, "Movido." / "¿Y?" / "Manejable." -> "Movido. Manejable." y beat del brazo derecho quieto tras "Mejor que el overol" (consistencia del hombro: dolor activo en el 5, piquete residual en el 6); mesa, fuera "Con buena factura." y "Kal no discutio."; manos, fuera "Yo tampoco." (ambiguedad deliberada: buen hombre con trapos sucios). Reporte: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]].
+Verificacion editorial, formula de respuesta tardia (2026-10-24, aprobado por el autor): "Kal tardo en contestar" -> "Kal cerro la libreta." (antes de "Bellandi") y -> "Kal miro los lentes doblados junto a su mano." (cobro diferido); "Chiara se permitio la pausa" -> "Chiara dejo la carpeta sobre la mesa, sin abrirla." (tambien arregla la continuidad de la carpeta). Reporte: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]].
 -->
 
 # Capítulo 5 — Cliente y proveedor
@@ -147,7 +149,7 @@ Kal abrió un cajón, sacó una libreta y anotó matrícula, hora y nombre.
 
 —Qué bonito, wallah. ¿Y el problema tiene nombre?
 
-Kal tardó en contestar.
+Kal cerró la libreta.
 
 —Bellandi.
 
@@ -341,7 +343,7 @@ Ella no había pensado en el coche. Seguía siendo de Varga, en un patio de Kal,
 
 —Paga el arrastre, paga dos días de piso, firma y se lo lleva.
 
-—¿Nada más?
+—Va a estar ahí.
 
 —Es un corralón.
 
@@ -455,17 +457,15 @@ Ninguno de los dos se los quitó.
 
 —¿Qué tal le fue hoy? —preguntó ella.
 
-—Movido.
-
-—¿Y?
-
-—Manejable.
+—Movido. Manejable.
 
 Chiara miró los números encenderse.
 
 —¿Y el hombro?
 
 —Mejor que el overol.
+
+Lo dijo con el brazo derecho quieto junto al cuerpo, como lo había traído desde el bar.
 
 —Ésa tampoco es una respuesta.
 
@@ -513,9 +513,7 @@ Chiara se sentó a un costado de la mesa, no en la cabecera. Kal no se sentó to
 
 —Una grúa con factura.
 
-—Con buena factura.
-
-Kal no discutió. Se sentó.
+Kal se sentó.
 
 Chiara dejó pasar un segundo más de lo cómodo.
 
@@ -533,7 +531,7 @@ Chiara dejó pasar un segundo más de lo cómodo.
 
 —Para Walt, eso es ganar.
 
-Chiara se permitió la pausa.
+Chiara dejó la carpeta sobre la mesa, sin abrirla.
 
 —Me habló bien de usted.
 
@@ -587,7 +585,9 @@ Kal se miró las manos. Esa noche no tenían grasa; alguien las había tallado c
 
 —No hablo de aceite.
 
-—Yo tampoco. —Volvió a mirarla—. Lo que no me gusta es entrar siempre por la puerta de carga.
+Kal volvió a mirarla.
+
+—Lo que no me gusta es entrar siempre por la puerta de carga.
 
 —Prestación de servicios —dijo Chiara—. Por acto. Por debajo de cierta cifra firmo yo sola, y nadie lee lo que firmo sola si es aburrido. Su nombre en mi factura. El mío debajo.
 
@@ -633,7 +633,7 @@ Ella tachó la cifra de valet y escribió *naviera* en el margen. Tardó más de
 
 —Su nombre en mi factura —dijo Chiara—. ¿Ya es otro momento?
 
-Kal tardó en contestar.
+Kal miró los lentes doblados junto a su mano.
 
 —Una factura es de proveedor. Se lo voy a decir cuando firmemos un contrato de asociación oficial.
 

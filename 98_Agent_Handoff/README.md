@@ -42,3 +42,7 @@ En `sessions/`, con nombre `AAAA-MM-DD_origen_para_destino_tema.md` (p. ej. `202
 ## Regla
 
 Esto no reemplaza `CLAUDE.md`, `INDEX.md` ni `log.md`. Ninguna nota de agente crea canon por si sola. La autoridad final es el autor.
+
+## Reportes de subagentes
+
+Claude Code puede usar [[98_Agent_Handoff/sessions/PLANTILLA_MINI_REPORTE_SUBAGENTE]] para conservar hallazgos o propuestas de subagentes que afecten una edición o una decisión editorial. Integra los mini reportes pertinentes como secciones de la nota de sesión del trabajo; evita crear una nota por cada consulta. Registra evidencia y ubicación concreta, y distingue la propuesta del subagente de la resolución del agente principal y de cualquier decisión reservada al autor. Omite intercambios rutinarios o sugerencias sin efecto futuro.

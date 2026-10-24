@@ -5,6 +5,7 @@ Segmentacion (2026-10-22, decision del autor): el antiguo Cap. 5 (Una amiga, ~11
 Funcion: la costumbre. Varga no vuelve, Kal empieza a llegar sin emergencia, Tommaso, la caseta deja de pedirle nombre.
 Historial de cirugias y decisiones del antiguo Cap. 5 (Una amiga), previo a la segmentacion: ver el comentario de 05a_Cliente_Y_Proveedor.md.
 Arco de Blake (2026-10-22, decision del autor; prosa DISENO pendiente de lectura): seccion nueva tras la salida de carga (grua de Almendra en la entrada y "Esas trabajan para nosotros"; cena en el Distrito Marino, Blake bueno a solas y trofeo ante el sargento de La Isla, contesta por ella; el domingo no: "Monto", Blake no lo oye) y cierre nuevo: el beso en la entrada del Monarch, correcto y sin vibracion, sin glosa ni comparacion con Kal; contrasta solo con la apertura de 5c (Rocco).
+Regla 05, esticomitia de una sola voz (2026-10-24, aprobado por el autor; DISENO del agente): salida de carga, fuera el eco "Esa si me la dice" / "Esa sale barata" y piquete residual del hombro al cerrar el capo; bisagra, Chiara acumula de un aliento (fuera "Esa."); sobre, "Lo tengo anotado con dia y hora. Solo me falta el monto."; pasillo, opcion A (Chiara pierde dos turnos, fuera "repeticion con prueba" y "Yo si"; Tommaso abre con "Bellandi"); sujeto explicito en "Chiara paso junto a el"; caseta, "¿Desde cuando?" -> "Kal no pregunto desde cuando.". Reporte: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]].
 -->
 
 # Capítulo 6 — Sin llamar a nadie
@@ -43,13 +44,9 @@ Una tarde, un hombre del puerto que no debía estar en la lista abandonó el Mon
 
 —¿Qué le dijo? —preguntó Chiara después, en la salida de carga.
 
-Kal cerró el capó del coche.
+Kal cerró el capó del coche. El hombro derecho le dio un piquete y lo giró una vez, sin hacerle caso.
 
 —Que la batería no era el problema.
-
-—Ésa sí me la dice.
-
-—Ésa sale barata.
 
 —¿Nada más?
 
@@ -199,11 +196,7 @@ Chiara la levantó. Pesaba más de lo que parecía.
 
 —Sí.
 
-—La reunión en la que le dijeron que no.
-
-—Ésa.
-
-—¿Y aun así trae la bisagra?
+—La reunión en la que le dijeron que no. ¿Y aun así trae la bisagra?
 
 Kal se acomodó la chaqueta para irse.
 
@@ -223,7 +216,7 @@ No aceptó cuando ella quiso pagar sin ella.
 
 —Cobré lo del hielo.
 
-—Lo del hombre del puerto.
+—Lo del hombre del puerto. Lo tengo anotado con día y hora. Sólo me falta el monto.
 
 —Eso fue una batería.
 
@@ -327,15 +320,13 @@ Chiara habría querido que se quedara sólo para no darle a Tommaso la satisfacc
 
 Cuando él se fue, Tommaso esperó a que el elevador cerrara.
 
-—Te estás complicando.
+—Te estás complicando, Bellandi.
 
 —Estoy trabajando.
 
 —Eso dijiste antes.
 
-Chiara apoyó el vaso en la mesa.
-
-—Y tú sigues confundiendo repetición con prueba.
+Chiara apoyó el vaso en la mesa y no le contestó.
 
 Tommaso sonrió tarde.
 
@@ -346,8 +337,6 @@ Chiara no le dio el gusto de tocarse el anular.
 —No vuelvas a traerlo a una conversación de proveedores.
 
 —No hablaba de proveedores.
-
-—Yo sí.
 
 Tommaso se acomodó el puño de la camisa sin prisa.
 
@@ -367,7 +356,7 @@ Lo dijo sin énfasis, como quien devuelve un objeto prestado.
 
 Había dejado sobre la mesa que la versión que la sostenía dependía, en una parte pequeña y perfectamente educada, de un hombre cada vez menos contento con ella en las juntas.
 
-Pasó junto a él y entró al elevador antes de que la furia se le acomodara demasiado bien en la cara.
+Chiara pasó junto a él y entró al elevador antes de que la furia se le acomodara demasiado bien en la cara.
 
 ***
 
@@ -421,7 +410,7 @@ Bajó cuando él ya tenía el capó de un coche abierto y se limpiaba las manos 
 
 —Ahora es un trámite.
 
-—¿Desde cuándo?
+Kal no preguntó desde cuándo.
 
 —Desde que me dejó de convenir que fuera una noticia cada vez que aparece.
 

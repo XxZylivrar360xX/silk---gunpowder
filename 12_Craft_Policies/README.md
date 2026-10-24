@@ -75,6 +75,7 @@ En caso de conflicto:
 | [02-confesion-de-identidad-como-funcion](dialogue_rules/02-confesion-de-identidad-como-funcion.md) | El personaje reduce su herida a "soy sólo mi función". |
 | [03-antitesis-limpia-como-cierre-de-verdad](dialogue_rules/03-antitesis-limpia-como-cierre-de-verdad.md) | Cierre pulido tipo "no es X, es Y". |
 | [04-resumen-perfecto-del-otro](dialogue_rules/04-resumen-perfecto-del-otro.md) | El interlocutor formula la herida del otro mejor que él mismo. |
+| [05-esticomitia-de-una-sola-voz](dialogue_rules/05-esticomitia-de-una-sola-voz.md) | Ping-pong de réplicas cortas y rematadas donde todos hablan con la misma voz y nadie se rompe; la emoción está en la grieta del patrón de cada uno. |
 
 ## Índice de reglas de puesta en escena
 

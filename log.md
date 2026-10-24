@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-24: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]] · regla nueva de diálogo 05 (esticomitia de una sola voz) y cirugía de diálogo en Caps. 5–7 por scouts; Chiara–Tommaso sin duelo de epigramas (manda la ficha); Cap. 7 empieza la transición de proveedor a Kal que quiere impresionar; prosa DISEÑO pendiente de lectura.
 - 2026-10-23: [[98_Agent_Handoff/sessions/2026-10-23_claude_audiolibro_y_cap05_lectura]] · audiolibro por capítulo (voz Dalia, diccionario de pronunciación, bitácora de audios pendientes; protocolo en CLAUDE/AGENTS) y tres microcirugías del Cap. 5 tras lectura del autor.
 - 2026-10-23: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/08b_La_Sargenta]] · Libro I: la persecución con Collins se separa del Cap. 10 (que termina en la carcajada de la carrera) como Cap. 11, *La sargenta* (archivo 08b, prosa sin cambios); los Caps. 11–56 corren a 12–57. Tabla en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 - 2026-10-22: [[98_Agent_Handoff/sessions/2026-10-22_claude_retitulado_y_renumeracion_libro_i]] · Libro I: segunda ronda de títulos (11 cambian; archivos 16, 18, 21 y 22 conservan el suyo) y numeración corrida definitiva de 56 capítulos; archivos sin renombrar.

@@ -266,7 +266,8 @@ Kal es el hombre que se vuelve lo que cada habitación necesita, y aquí **no le
 
 ## Restricciones de escritura
 
-- **La palabra "cita" no aparece.** Ni en boca de ellos ni del narrador. Él dijo *una amiga* y ésa es la ficción que sostienen los dos.
+- **La palabra "cita" sólo aparece negada.** El narrador nunca la usa. En boca de ellos, una sola vez y para negarla: *"No fue una cita."* / *"—No."* en la despedida (Cap. 7, archivo 05c), canon de la prosa; la negación sostiene la ficción en vez de romperla. Él dijo *una amiga* y ésa es la ficción que sostienen los dos.
+  > *Corrección (2026-10-24, decisión del autor, provisional "por ahora"):* antes decía "no aparece. Ni en boca de ellos ni del narrador", lo que contradecía la línea canon de la despedida. Detectado en el scouting de la regla de diálogo 05: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]].
 - **El humor es de situación, no de chistes.** Nadie hace bromas sobre lo que está pasando; es gracioso porque el lector ve lo que ellos fingen no ver.
 - **Ella se da cuenta de todo.** Chiara lee gente para vivir: sabe perfectamente lo que es esta noche. Y **le sigue la corriente**, que es una forma de ternura y también su primera concesión.
 - **Kal nunca menciona lo que le costó nada de esto.** Ni el restaurante, ni la camioneta, ni la tarde con el perro.
@@ -1136,7 +1137,7 @@ Y es también **la primera vez que se quedan dormidos juntos**, sin que pase nad
 
 ## Restricciones de escritura
 
-- **Nadie llama a esto una cita.** Igual que en H2-a.
+- **Nadie llama a esto una cita.** Igual que en H2-a (donde sólo aparece negada, en la despedida).
 - **Nadie nombra lo que pasó.** Ni en el coche, ni arriba, ni las semanas siguientes. *Somos sólo buenos amigos* es la ficción oficial y hay que sostenerla mucho tiempo.
 - **Kal no pregunta por lo que ella dijo. Nunca en esta escena, y probablemente en muchos capítulos.**
 - **No hay declaración.** Ni beso, ni conversación sobre lo que son. Un hombro, una mano, y dormirse.

@@ -5,6 +5,7 @@ Segmentacion (2026-10-22, decision del autor): el antiguo Cap. 5 (Una amiga, ~11
 Funcion: H2-a completo, la primera cena que ninguno llama cita: Rocco y la pata, la camioneta, la llegada, Il Gelsomino, la acera, la despedida.
 Historial de cirugias y decisiones del antiguo Cap. 5 (Una amiga), previo a la segmentacion: ver el comentario de 05a_Cliente_Y_Proveedor.md.
 Rocco (2026-10-22, decision del autor; DISENO de redaccion): primera descripcion fisica, pitbull cafe de cabeza ancha, oreja mordida "desde antes de llegar al taller" (origen callejero) y la mancha blanca en el pecho que ya existia. Ficha: 02_Characters/Rocco.md.
+Transicion cliente-proveedor -> Kal que quiere impresionar (2026-10-24, decision del autor; regla 05 + segunda pasada; DISENO del agente, los ojos por idea del autor): escalera, Kal ofrece la salida ("Si prefiere, nos pone mesa adentro"); Kal se pilla a si mismo tras el discurso de la fiscalia: la vela de la calabaza, eco de los ojos del Cap. 2 ("verdes por dentro, oscuros en el borde") y de Natalie en el Cap. 3 ("De los ojos que los miren"), "¿Me lo repite? Eso no lo entendi" y ella lo repite palabra por palabra sabiendo por que (sustituye "Kal lo penso"); Rowe, Chiara se pilla a si misma (fuera "¿Y?": la uña y "paro a la mitad"; siembra "¿La del brazo?" del 10); Dario, "¿Y esto?" / "Esto no."; coche, fuera "No era una pregunta dificil" y "Kal puso la direccional en una calle vacia" (el buen conductor falla en lo simple); despedida, fuera "Gracias por venir". Reporte: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]].
 -->
 
 # Capítulo 7 — La pizza de calabaza
@@ -259,7 +260,7 @@ Había una calabaza en cada escalón. Naranjas, talladas con cuchillo de cocina,
 
 —¿Un restaurante italiano que celebra Halloween?
 
-—Claudio celebra lo que deja propina.
+—Claudio celebra lo que deja propina. Si prefiere, nos pone mesa adentro.
 
 Chiara miró al esqueleto.
 
@@ -397,7 +398,13 @@ Fue Kal quien sacó a los de la entrada.
 
 —Todavía no. Por eso. Tengo un casino nuevo en una ciudad donde el jefe de policía amaneció muerto en una banca. Si la fiscalía va a mirar mi edificio, prefiero que lo mire desde una mesa que yo le puse, con una copa que pagué yo.
 
-Kal lo pensó.
+La calabaza de la baranda, la del diente, le daba a Chiara de lado con su vela torcida. A esa luz tenía los ojos más verdes por dentro y más oscuros en el borde de lo que Kal recordaba. Natalie tenía razón. Dependía de los ojos que los miraran.
+
+—Perdone. ¿Me lo repite? Eso no lo entendí.
+
+Chiara bajó la copa. Lo estudió un segundo, con la cara de quien sabe exactamente en qué parte se perdió el otro, y por qué, y se lo repitió de todos modos, palabra por palabra, más despacio:
+
+—Si la fiscalía va a mirar mi edificio, prefiero que lo mire desde una mesa que yo le puse. Con una copa que pagué yo.
 
 —A Connors no le cayó bien Rocco.
 
@@ -409,11 +416,11 @@ Debajo de la mesa, Rocco movió la cola contra el zapato de Kal sin despertarse.
 
 —Me revisó el brazo.
 
-—¿Y?
+Chiara repasó con el pulgar el filo de una uña, y paró a la mitad.
 
 —No sé qué buscaba.
 
-Chiara miró hacia la calle y tardó en volver.
+Ella miró hacia la calle y tardó en volver.
 
 Kal partió un pedazo de pan y no se lo comió.
 
@@ -477,11 +484,11 @@ No hablaron de Dario, salvo cuando Kal preguntó, mirando el pan:
 
 —Él sabe todo lo que firma la mesa.
 
-—Esto no lo firmó nadie.
+—¿Y esto?
 
 Chiara tardó en contestar.
 
-—Entonces no.
+—Esto no.
 
 Se quedaron callados.
 
@@ -629,7 +636,7 @@ Chiara esperó a que giraran la esquina.
 
 —Qué respuesta tan rápida.
 
-—No era una pregunta difícil.
+Kal puso la direccional en una calle vacía.
 
 Ella miró por la ventana, sonriendo hacia la calle.
 
@@ -644,8 +651,6 @@ Chiara bajó con el bolso y Rocco asomó la cabeza desde el asiento trasero como
 —Gracias por la cena —dijo ella.
 
 Kal sostuvo el volante.
-
-—Gracias por venir.
 
 —No fue una cita.
 
