@@ -87,6 +87,7 @@ Claude Code es el maintainer principal del repositorio. Codex apoya con mantenim
 - Regenerar el EPUB solo cuando el autor lo pida explicitamente, **o** al cerrar un bloque de capitulos que el autor ya confirmo (no borradores).
 - No regenerar el EPUB por un ajuste de linea, una correccion de continuidad menor o un capitulo todavia marcado BORRADOR / sin revision del autor. Si se acumulan cambios chicos, esperar al final del bloque.
 - El PDF de lectura puede regenerarse cuando el autor lo pida o cuando haga falta actualizar la copia de lectura tras cambios en las fuentes.
+- **Audiolibro (`tools/audiolibro/`):** tras cambiar la prosa de un capitulo, correr `python -B .\tools\audiolibro\build_audiobook.py --estado` (sin red, no genera audio): marca PENDIENTE en `tools/audiolibro/bitacora/`. La bandera se cierra sola cuando el script regenera ese audio, y eso solo ocurre cuando el autor lo pide.
 - La regeneracion rutinaria de EPUB o PDF no necesita registro individual en `CLAUDE.md`, `AGENTS.md`, `log.md`, `CURRENT_BRIEF.md` o `PENDING.md`, ni una nota de sesion. Registrar solo cambios de proceso, decisiones o hitos editoriales que aporten contexto duradero.
 
 ## Lectura Bajo Demanda

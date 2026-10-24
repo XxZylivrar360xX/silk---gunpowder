@@ -10,3 +10,6 @@ __pycache__/
 .obsidian/workspace-mobile.json
 .obsidian/cache
 .trash/
+
+# ── Audiolibro: MP3 generados (pesados; Drive los respalda) ──
+output/audiolibro/

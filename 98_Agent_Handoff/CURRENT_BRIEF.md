@@ -16,11 +16,11 @@ Actualizado: 2026-10-23. Máximo 800 palabras. Brief anterior íntegro: [[98_Age
 - **Calendario (CANON):** sep A1 → 5 ene A3; la Mesa, 13 dic; Kal preso 19 dic–5 ene.
 - **San Aurelio (CANON):** Oregon, inspirada en Portland, bahía ficticia; vía costera 101. Mapa: [[99_Reference/location_references/mapa_san_aurelio.png]].
 - **Mando policial (CANON):** sin jefe en el I; Lucía, subjefa en funciones; Vega entra en el II.
-- **Exportación:** EPUB y PDF del 2026-10-03; falta portada HD para KDP.
+- **Exportación:** EPUB y PDF regenerados 2026-10-23; falta portada HD para KDP. Audiolibro por capítulo (voz Dalia, [[tools/audiolibro/README]]); qué audio quedó viejo: [[tools/audiolibro/bitacora/Mascaras_De_Cristal]].
 
 **Prosa DISEÑO reciente, espera lectura** (detalle en encabezados y `sessions/`):
 
-- **Caps. 2, 4–11 (2026-10-17 a 23):** llamada Kal–Nadir y canción del lobby (2); antiguo Cap. 5 partido en 5–7 con arco de Blake ([[98_Agent_Handoff/sessions/2026-10-22_claude_cap05_segmentado_arco_blake]]); tesis de H3 en el 9; persecución con [[02_Characters/Dana_Collins]] (CANON), separada como Cap. 11 *La sargenta* (2026-10-23; el 10 queda en la carrera).
+- **Caps. 2, 4–11 (2026-10-17 a 23):** llamada Kal–Nadir y canción del lobby (2); antiguo Cap. 5 partido en 5–7 con arco de Blake (5 leído por el autor 2026-10-23: tres microcirugías aprobadas en la reunión) ([[98_Agent_Handoff/sessions/2026-10-22_claude_cap05_segmentado_arco_blake]]); tesis de H3 en el 9; persecución con [[02_Characters/Dana_Collins]] (CANON), separada como Cap. 11 *La sargenta* (2026-10-23; el 10 queda en la carrera).
 - **Puntos de ChatGPT, caps. 1–11 (CANON):** Chiara llega en jet privado desde Palermo (hangar de Kingsley); en el 47 entra por Nueva York ([[98_Agent_Handoff/sessions/2026-10-22_claude_puntos_chatgpt_caps_01_08]]).
 - **Fabrizio:** última plática en el Cap. 55. CANON: la coerción de Volpi pasa a Tommaso. Falta: su lugar en la Parte II y qué iba a contar.
 - **Cap. 13 (archivo 10):** Kal paga a Crowe la bolsa de Rowe (consecuencia del 12); cuotas y objeción de Nadir; eco en el 43.

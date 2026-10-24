@@ -35,6 +35,8 @@ Cirugia editorial de las semanas (2026-10-17, SURGERY autorizada por el autor; e
 Cierre de Il Gelsomino (2026-10-17, SURGERY autorizada por el autor; el estado se conserva): fuera la glosa "Esta vez no fue una risa de cortesia, ni una herramienta..." (queda "Chiara sonrio. Una sonrisa pequeña, casi privada"; se conservan "Esta vez si se rio" de las semanas y "esta vez no se tapo la boca" del final como escalera); fin de la llegada: "No contesto / Ella lo entendio / No dijo nada mas" -> "Rocco subio solo" (el entrenamiento contesta por conducta); escena de Rocco: Kal le dice a Danny "todavia no" frente a la lona (el cajero sigue cerrado; contenido PENDIENTE). Protegido por decision del autor: el cierre en la cabeza de Chiara ("no se sintio prestada").
 "Usted es alta" (2026-10-17, idea del autor; prosa DISENO): en la maquina de cafe, tras guardar el sobre, Chiara en tacones le queda casi a la altura de los ojos; Kal: "Usted es alta" / "¿A que viene eso?" / "A nada"; no puede justificarlo como proveedor. Siembra para el Libro II (CANON DEL AUTOR): en La Esquina de Mabel, Chiara en tacones altos lo rebasa; Kal se pone de puntitas ("¿En serio estas muy alta?"), ella: "Eso nunca fue un problema para ti", y el se sube a un banquito de la barra; risa de los dos que llena el lugar. Recordatorio en PENDING.
 Arco de Blake (2026-10-22, decision del autor; prosa DISENO pendiente de lectura): tras la llamada de la factura, mensaje de Blake en la linea secundaria ("¿Llegaste bien? Mis amigos preguntan por ti."); Chiara lo deja para despues y le escribe a Kal.
+Chiara ya sabia (2026-10-23, SURGERY aprobada por el autor tras lectura de corrido; el estado se conserva): en el elevador, tras "¿Al final paso por la apertura?", se anade "Ya sabia la respuesta. Queria oir cual le daba el." El autor leyo raro que ella preguntara por la apertura y por si Walt gano cuando ya habia hablado con Walt en la caja; la linea marca la pregunta como prueba desde el POV de Chiara y deja intacta la revelacion de "Hable con su amigo".
+Ping pong del despacho (2026-10-23, AUDIT en sesion + SURGERY aprobada por el autor; el estado se conserva): fuera "Lo escogio Matteo. / Matteo tiene mejor gusto del que deja ver." (la cava cierra en "Lo unico que no intenta parecer otra cosa"; quitaba dos de cuatro "Matteo" en seis replicas) y fuera el segundo "¿Entonces?" de Chiara (Kal dice de corrido "Una factura es de proveedor. Se lo voy a decir cuando firmemos..."). Protegido por decision del autor: el doble "dos veces" del cierre ("preguntado dos veces" / "Ya la conto. / Dos veces.").
 -->
 
 # Capítulo 5 — Cliente y proveedor
@@ -471,6 +473,8 @@ Chiara miró los números encenderse.
 
 —¿Al final pasó por la apertura?
 
+Ya sabía la respuesta. Quería oír cuál le daba él.
+
 —Una copa.
 
 —¿Sólo una?
@@ -496,10 +500,6 @@ El despacho estaba en penumbra, sólo con la lámpara del aparador encendida. Ab
 —¿Es un cumplido?
 
 —Es lo mejor que tiene el edificio. Lo único que no intenta parecer otra cosa.
-
-—Lo escogió Matteo.
-
-—Matteo tiene mejor gusto del que deja ver.
 
 Chiara se sentó a un costado de la mesa, no en la cabecera. Kal no se sentó todavía. Apoyó las yemas de los dedos sobre la madera, donde la otra noche habían estado las carpetas de los socios.
 
@@ -635,11 +635,7 @@ Ella tachó la cifra de valet y escribió *naviera* en el margen. Tardó más de
 
 Kal tardó en contestar.
 
-—Una factura es de proveedor.
-
-—¿Entonces?
-
-—Se lo voy a decir cuando firmemos un contrato de asociación oficial.
+—Una factura es de proveedor. Se lo voy a decir cuando firmemos un contrato de asociación oficial.
 
 —Esta mañana el precio era otro.
 

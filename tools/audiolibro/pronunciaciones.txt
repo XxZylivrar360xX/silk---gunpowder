@@ -1,0 +1,204 @@
+# Diccionario de pronunciacion para el audiolibro.
+#
+# Formato: original = como debe sonar (ortografia en espanol).
+# Solo cambia el texto que se manda a la voz; el manuscrito no se toca.
+#
+# - Si el original empieza en minuscula, tambien corrige la version con
+#   mayuscula inicial (lobby -> Lobby).
+# - Si empieza en mayuscula, solo corrige esa forma exacta (Dale, el nombre,
+#   no toca "dale").
+# - Se aceptan frases; las mas largas se aplican primero.
+# - Para probar como suena: python .\tools\audiolibro\build_audiobook.py --probar-diccionario
+
+# --- Italiano: nombres ---
+Chiara = Kiara
+Bellandi = Belandi
+Bellacorte = Belacorte
+Gelsomino = Yelsomíno
+Consorzio = Consórtsio
+Ardizzone = Arditsóne
+Fabrizio = Fabrítsio
+Rocco = Róko
+Ettore = Étore
+Enzo = Éntso
+Ferretti = Feréti
+Alessio = Alésio
+Atrii = Átrii
+Villani = Viláni
+Sussurri = Susúrri
+Consigliere = Consiliére
+Notte = Nóte
+Chianti = Kiánti
+Chiaretto = Kiaréto
+Giancarlo = Yancárlo
+Giada = Yáda
+Stella = Stéla
+Gabriella's = Gabriélas
+Mondello = Mondélo
+Anelletti = Aneléti
+Romanée = Romané
+Parole = Paróle
+Mazzy = Mási
+
+# --- Italiano: palabras y frases ---
+ciao = chao
+sono = sóno
+signora = siñóra
+che = ke
+Madonna = Madóna
+grazie = grátsie
+mille = míle
+questo = kuésto
+anch'io = ankío
+cuore = kuóre
+chiave = kiáve
+giorno = yórno
+dicembre = dichémbre
+prezzo = prétso
+reggere = réyere
+sulle = súle
+spalle = spále
+notte = nóte
+fosse = fóse
+anno = áno
+meglio = mélio
+lascia = lásha
+donna = dóna
+famiglia = família
+figlio = fílio
+puttana = putána
+ricotta = ricóta
+cornetti = cornéti
+ciabatta = chabáta
+scemo = shémo
+scelta = shélta
+aspetta = aspéta
+assurdo = asúrdo
+assaggia = asádya
+bellissimo = belísimo
+idromassaggio = idromasádyo
+valutazione = valutatsióne
+macchiando = makiándo
+sussurro = susúrro
+sussurros = susúrros
+
+# --- Ingles: nombres ---
+Towing = Tóuin
+Monarch = Mónark
+Mercer = Mérser
+Walt = Uólt
+Walter = Uólter
+Danny = Dáni
+Blake = Bléik
+Peugeot = Peyó
+Lancia = Láncha
+Garrett = Gárret
+Kingsley = Kíngsli
+Alder = Álder
+Bonnie = Bóni
+Rowe = Róu
+Crowe = Króu
+Field = Fíld
+Hoover = Júver
+Keene = Kín
+Keegan = Kígan
+Cutoff = Cátof
+Camp = Kámp
+Rafe = Réif
+Halbrook = Jálbruk
+Jim = Yim
+Rivers = Ríbers
+Corolla = Coróla
+Russ = Rás
+Russell = Rásel
+Michael = Máikol
+Krane = Kréin
+Connors = Cónors
+Dale = Déil
+Harper = Járper
+Eagle Eye = Ígol Ái
+Natalie = Nátali
+Civic = Sívic
+Cedar = Sídar
+Katherine = Kázerin
+Allen = Álen
+Buick = Biúik
+Ruth = Rúz
+Aldrich = Áldrich
+Charles = Chárls
+Beretta = Beréta
+Margaret = Márgaret
+Raymond = Réimond
+Elise = Elís
+Edward = Éduard
+Tyler = Táiler
+Lake = Léik
+Meriwether = Mériuéder
+Phoenix = Fínix
+Warren = Uóren
+Charger = Chárcher
+Road = Róud
+Manhattan = Manjátan
+Crown = Kráun
+Tahoe = Tajóu
+Jeep = Yip
+Lincoln = Línkon
+Halloween = Jálouin
+Mac = Mák
+Hale = Jéil
+Valley = Váli
+Auster = Áuster
+Norah = Nóra
+Jones = Yóns
+Jonathan = Yónatan
+Eddie = Édi
+Houdini = Judíni
+Ridge = Rích
+Brooks = Brúks
+Walker = Uóker
+Kenji = Kényi
+balayage = balayásh
+
+# --- Nadir: darija y frances (ficha de voz de Nadir Amrani) ---
+wallah = uála
+khoya = jóya
+safi = sáfi
+yak = iák
+bismillah = bismilá
+hamdulillah = jamdulilá
+mashallah = mashalá
+inshallah = inshalá
+yallah = yalá
+bezaf = bezáf
+voilà = vualá
+voila = vualá
+d'accord = dakór
+
+# --- Ingles: titulos y frases ---
+The World Is Yours = De Uórld is Iórs
+Achy Breaky Heart = Éiki Bréiki Járt
+Into You = Íntu Iú
+Away With Me = Euéi uíz mi
+Wind Rising = Uínd Ráising
+
+# --- Ingles: palabras comunes ---
+penthouse = pénjaus
+lobby = lóbi
+whisky = güíski
+mezzanine = mésanin
+jacuzzi = yacúsi
+short = chort
+blackjack = blákyak
+buffet = bufé
+chief = chif
+ok = okéi
+bourbon = búrbon
+showroom = chóurum
+baccarat = bacará
+boutique = butík
+dossier = dosié
+networking = nétuorkin
+marketing = márketin
+rottweiler = rótuailer
+minimarket = minimárket
+souvenirs = suvenírs
