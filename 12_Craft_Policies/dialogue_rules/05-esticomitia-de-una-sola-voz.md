@@ -1,7 +1,7 @@
 # Regla: Esticomitia de una sola voz
 
 **Tipo:** anti-patron de dialogo
-**Detectado en:** consulta del autor (2026-10-24: "falta de identidad", "dialogos roboticos"). Capitulo 6 (archivo 05b), cuatro escenas: la bisagra (05b:188-210), el sobre (05b:222-240), el pasillo con Tommaso (05b:330-350), la caseta (05b:420-432); y, en la misma linea, la salida de carga (05b:48-54, triple eco "Esa sí... / Esa sale... / Ese sí..."). Numeracion previa a la cirugia. **Aplicada** en los Caps. 5 y 6 el 2026-10-24: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]].
+**Detectado en:** consulta del autor (2026-10-24: "falta de identidad", "dialogos roboticos"). Capitulo 6 (archivo 05b), cuatro escenas: la bisagra (05b:188-210), el sobre (05b:222-240), el pasillo con Tommaso (05b:330-350), la caseta (05b:420-432); y, en la misma linea, la salida de carga (05b:48-54, triple eco "Esa sí... / Esa sale... / Ese sí..."). Numeracion previa a la cirugia. **Aplicada** en los Caps. 5 y 6 el 2026-10-24: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]]; y en los Caps. 1-4 el mismo dia: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps01-04]].
 **Nombre:** *esticomitia* es el duelo clasico de replicas de una linea alternadas (tragedia griega, Shakespeare). Como forma no es defecto. En talleres de escritura el vicio se llama *dialogo de ping-pong* o *de partido de tenis*.
 **Estado:** DISENO del agente, a pedido del autor.
 

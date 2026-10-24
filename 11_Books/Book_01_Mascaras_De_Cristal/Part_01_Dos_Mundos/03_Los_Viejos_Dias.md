@@ -16,6 +16,7 @@ Retirado por el autor (2026-09-29): porche con cervezas (Kal, Walt, Hector), "Qu
 Orden del autor (2026-10-05, frente 5, B+D de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_03_Proporcion_Jim_Walt]]): el recuerdo de Jim ya no corta a Walt al leer la lapida; entra en la pausa de "Kal tardo en contestar" tras "¿Fue rapido?" y vuelve al "Si" (la mentira). Walt de pie y sus preguntas pasan antes del recuerdo. Cortada la glosa "que le decia todo lo que nadie le habia dicho todavia" (adelantaba el "Nadie me lo dijo" de Walt).
 Palabras de prosa: ~4,780 (antes ~7,000 con el bloque de Chiara, que ahora vive en el Cap. 4). DISENO del agente, pendiente de lectura: la banda receptora (Cuadra Nueve), la cifra (treinta mil, mitad por adelantado), la bodega del norte, el Buick sobre la grua, la cadena "Eso decia tu padre", el telefono de Nat, la casa comun como vestidor.
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N3-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
+2026-10-24: regla de diálogo 05 aplicada (cortes de eco y turnos perdidos), DISEÑO.
 -->
 
 # Capítulo 3 — Los viejos días
@@ -162,9 +163,9 @@ Olía a jabón institucional, tela guardada y aire que no había elegido todaví
 
 —Tu padre hacía esa cara cuando quería que nadie notara que estaba contento.
 
-—Tengo otra.
+Walt apartó los dedos.
 
-—No te sale.
+—Y tampoco le salía.
 
 Héctor le dio la bolsa de papel.
 
@@ -232,7 +233,7 @@ Escuchó hasta que la nota se terminó y bajó el volumen.
 
 —No se sabe.
 
-—Algunas cosas no cambian.
+Walt apagó la radio.
 
 Por la ventana, la ciudad le iba pasando cosas que no estaban cuando él se fue. Un puente nuevo sobre el canal. Un centro comercial de tres pisos donde antes había un lote de tráileres. Una gasolinera que ya no se llamaba como se llamaba. Walt no comentó ninguna. Las miraba con la atención de quien revisa un expediente propio escrito por otra gente.
 
@@ -318,7 +319,7 @@ Jim tiró el cigarro y lo apagó con el talón, más fuerte de lo necesario.
 
 —Entonces qué bueno que él no está aquí para verlo.
 
-—¿Y que hay de tu hermana?
+—¿Y qué hay de tu hermana?
 
 Jim se quedó quieto. Por primera vez en toda la conversación, la calma le llegó tarde.
 
@@ -326,7 +327,7 @@ Jim se quedó quieto. Por primera vez en toda la conversación, la calma le lleg
 
 —Tiene diecinueve años y se sube a una ambulancia todas las noches a recoger gente que se muere por mucho menos que esto.
 
-—Me estas dando el punto. —Jim no lo miró—. Ella no se enterará. Nunca.
+—Me estás dando el punto. —Jim no lo miró—. Ella no se enterará. Nunca.
 
 —No se lo voy a decir —dijo Kal, al final—. Pero vas a parar.
 
@@ -366,7 +367,7 @@ No lo era del todo, y los dos lo sabían, y ninguno de los dos iba a discutirlo 
 
 Walt se agachó, por fin, y tocó la tierra con dos dedos.
 
-—Nadie me lo dijo. —dijo, todavía sin levantar la vista—. Y ahora que salgo, resulta que llevaba más de cuatro años sabiéndolo el mundo entero menos yo.
+—Nadie me lo dijo —dijo, todavía sin levantar la vista—. Y ahora que salgo, resulta que llevaba más de cuatro años sabiéndolo el mundo entero menos yo.
 
 A su lado, Kal sintió que Natalie se quedaba quieta de otra manera: no como quien espera, sino como quien recibe un golpe y decide no moverse para no mover a nadie más.
 
@@ -374,7 +375,7 @@ A su lado, Kal sintió que Natalie se quedaba quieta de otra manera: no como qui
 
 —¿Por qué no en la cárcel?
 
-—Porque ahí no tenías nada. Aquí, al menos, tenías dónde y con quien pararte.
+—Porque ahí no tenías nada. Aquí, al menos, tenías dónde y con quién pararte.
 
 Walt no contestó a eso. Se quedó en cuclillas un rato más, la mano todavía sobre la tierra, y Héctor se acercó por fin, despacio, y le puso la mano en el hombro sin decir nada.
 
@@ -432,7 +433,7 @@ Walt vio todo. Vio también lo demás: que la barbería ahora compartía la fach
 
 —Es del niño —dijo Héctor.
 
-—El niño tiene cuarenta y uno.
+—El niño tiene cuarenta y uno —dijo Walt.
 
 —Por eso lo digo así. Para que no se le suba.
 
@@ -494,7 +495,7 @@ Walt se dejó abrazar con la bolsa de plástico todavía en una mano.
 
 Kal no dijo nada.
 
-—¿Y las balatas del Ford? —preguntó Nadir.
+—¿Y las pastillas de freno del Ford? —preguntó Nadir.
 
 Danny tenía las manos vacías.
 
@@ -560,7 +561,7 @@ Recogió las llaves de la taza. Kal la acompañó hasta el portón sin que nadie
 
 —Hoy no lo sueltes —dijo ella, en voz baja.
 
-—No lo iba a soltar.
+Kal le apretó el antebrazo una vez.
 
 El Corolla salió sin tocar el claxon. Walt lo siguió con la vista desde la mesa hasta que dobló la esquina.
 
@@ -612,11 +613,7 @@ Walt frunció el ceño.
 
 Walt se quedó un momento con eso.
 
-—¿Así le dicen ahora?
-
-—Así le dice todo el mundo.
-
-—Cuando yo entré era un gánster de cuadra. Tenía tres casas de empeño y ni un anillo propio. —Walt le dio un trago al café—. Estoy un poco resentido con el... "Tasador".
+—¿Así le dicen ahora? Cuando yo entré era un gánster de cuadra. Tenía tres casas de empeño y ni un anillo propio. —Walt le dio un trago al café—. Estoy un poco resentido con el... "Tasador".
 
 Héctor soltó una risa seca.
 
@@ -650,7 +647,7 @@ Walt lo pensó con el café en la mano.
 
 —Yo no voy.
 
-—Y lo entiendo, no te lo pediría de cualquier manera.
+Kal no se lo había pedido.
 
 —Quiero mantenerme afuera. Legal es el camino más corto por ahora. —Walt se encogió de hombros y se frotó la barbilla—. Y si hay problema, respondo. No dije que me volví santo, solo dije que aprendí a leer formularios.
 
@@ -660,11 +657,7 @@ Héctor se levantó de la silla.
 
 Danny se bajó del archivero de un salto.
 
-—Yo sí voy.
-
-—Ya sé que tú sí vas —dijo Nadir.
-
-—Como en los viejos tiempos.
+—Yo sí voy. Como en los viejos tiempos.
 
 Walt lo miró desde la puerta.
 

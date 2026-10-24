@@ -6,31 +6,31 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 01:06"
+      "desde": "2026-10-24 12:26"
     },
     "02_Demasiado_Listo.md": {
       "capitulo": 2,
       "titulo": "Demasiado listo",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-23",
-      "desde": "2026-10-23 23:17"
+      "audio": "2026-10-24",
+      "desde": "2026-10-24 12:26"
     },
     "03_Los_Viejos_Dias.md": {
       "capitulo": 3,
       "titulo": "Los viejos días",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-23",
-      "desde": "2026-10-23 23:17"
+      "audio": "2026-10-24",
+      "desde": "2026-10-24 12:26"
     },
     "04_Tarifa_Nocturna.md": {
       "capitulo": 4,
       "titulo": "Tarifa nocturna",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-23",
-      "desde": "2026-10-23 23:17"
+      "audio": "2026-10-24",
+      "desde": "2026-10-24 12:26"
     },
     "05a_Cliente_Y_Proveedor.md": {
       "capitulo": 5,
@@ -726,6 +726,46 @@
     [
       "2026-10-24 11:29",
       "Cap. 7 (05c_La_Pizza_De_Calabaza.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-24 11:58",
+      "Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-24 11:58",
+      "Cap. 2 (02_Demasiado_Listo.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-24 11:58",
+      "Cap. 3 (03_Los_Viejos_Dias.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-24 11:58",
+      "Cap. 4 (04_Tarifa_Nocturna.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-24 12:26",
+      "Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-24 12:26",
+      "Cap. 2 (02_Demasiado_Listo.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-24 12:26",
+      "Cap. 3 (03_Los_Viejos_Dias.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-24 12:26",
+      "Cap. 4 (04_Tarifa_Nocturna.md)",
       "audio regenerado"
     ]
   ]

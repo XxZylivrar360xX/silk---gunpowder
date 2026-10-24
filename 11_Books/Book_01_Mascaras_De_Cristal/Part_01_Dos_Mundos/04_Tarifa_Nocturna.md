@@ -17,6 +17,7 @@ Rampa (2026-10-17, decision del autor): "¿Y le crees?" -> "¿Y crees que llegue
 Varga (2026-10-17, decision del autor; DISENO del agente): Varga ebrio y altanero (whisky, tuteo, dinero, amenazas); lineas de Kal intactas salvo "¿La pintura tambien la paga?" y "Con el dueño...". Nuevo beat: tras "Acabo de hacerlo" Varga intenta arrojarle el whisky a Chiara; ella no se mueve; Kal le cierra la muñeca con la izquierda (hombro derecho lastimado), el whisky le cae a el, y le voltea el video: "Siga grabando. Eso sí le va a gustar a su abogado." Chiara no da las gracias (enojo sin destinatario claro; etapa funcional intacta); el "Gracias" de la ventanilla gana peso y "¿Y lo demas?" suma "El vaso". El vaso que Varga tiro (rampa, final) queda sembrado.
 Susurro (2026-10-17, CANON DEL AUTOR; nunca en prosa): tras "Le estoy ahorrando vergüenza", Kal le dice algo al oido a Varga; el lector no lo oye. Lo que dijo (broma que amenaza): "No querra terminar como Keene en una banca, ¿verdad?". Kal no sabe que Keene fue orden de Dario ni que Varga dice conocer a Dario; a Varga le pega mas de lo que Kal cree, y por eso no vuelve al casino. Se quito "Mañana no tienes grua"; "Esto no se queda asi" baja de volumen. Cap. 5: Chiara pregunta que le dijo; Kal: "Lo de la llanta" / "Pregúntemelo en otro momento". Recordatorio en PENDING para la reunion Kal–Dario del Libro II.
 Vestuario en la rampa (2026-10-17, decision del autor): Kal llega en overol de trabajo, no en chaqueta; va como servicio externo de Almendra Towing. Concuerda con la apertura del Cap. 5.
+2026-10-24: regla de diálogo 05 aplicada (cortes de eco y turnos perdidos), DISEÑO. Tommaso no contesta y mira la mano izquierda; "Bellandi" en "ordenar versiones"; "Sigues/Sigues" -> "Puede ser."; cafetería sin "No sabía que estaba ofreciendo uno"; club sin "Qué presión tan innecesaria"; corredor con Blake largo y Chiara sin contestar; fuera "No es." y "Nunca se queda nada como uno quiere"; ventanilla: Kal le devuelve sus palabras. Reporte: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps01-04]].
 -->
 
 # Capítulo 4 — Tarifa nocturna
@@ -91,11 +92,7 @@ Chiara lo miró.
 
 —Cómodo sería abrir mesas y esperar que la gente elegante llegue sola.
 
-Tommaso dejó la pluma sobre la mesa.
-
-—No necesito una lección de elegancia.
-
-—No estaba ofreciendo una.
+Tommaso dejó la pluma sobre la mesa. No contestó. Le miró la mano izquierda, todavía sobre la carpeta.
 
 Fabrizio bajó la voz.
 
@@ -105,7 +102,7 @@ Ella no apartó la mirada de Tommaso.
 
 El roce venía desde antes de San Aurelio, desde antes del casino. Tommaso no necesitaba nombrar a Alessio para traerlo. Le bastaba con llamarla Bellandi, con una cortesía cuidadosamente vencida.
 
-—La familia siempre agradeció tu capacidad para ordenar versiones —dijo él.
+—La familia siempre agradeció tu capacidad para ordenar versiones, Bellandi —dijo él.
 
 Matteo dejó de moverse.
 
@@ -121,9 +118,7 @@ No fue mucho. Apenas la yema del pulgar sobre la piel donde ya no había anillo.
 
 Tommaso sonrió tarde.
 
-—Sigues siendo directa.
-
-—Sigues confundiendo eso con invitación.
+—Puede ser.
 
 El silencio que quedó no pertenecía al casino. Era más viejo.
 
@@ -235,8 +230,6 @@ Detrás de la caja, la mujer de los lentes dejó de mover las manos.
 
 Chiara bebió el espresso. Estaba largo, pero no tanto como temía.
 
-—No sabía que estaba ofreciendo uno.
-
 —Todo el mundo ofrece algo.
 
 La frase habría sonado distinta en otra boca. En la de Blake era vanidad, no amenaza. Eso la volvió menos peligrosa y más fácil.
@@ -335,11 +328,7 @@ Chiara sonrió con la medida exacta para no convertir la noche en incidente. Esa
 
 Blake le puso una mano en la espalda, demasiado arriba para ser intimidad y demasiado abajo para ser cortesía.
 
-—Te va a gustar este lugar.
-
-—Qué presión tan innecesaria.
-
-—Necesitas relajarte.
+—Te va a gustar este lugar. Necesitas relajarte.
 
 Ella miró la mano. Blake la retiró como si hubiera tenido otra idea.
 
@@ -425,19 +414,9 @@ Le ofreció un vaso. Ella no lo tomó.
 
 —Tengo que irme.
 
-—¿Ahora?
+—¿Ahora? —Blake miró hacia la pista, donde sus amigos seguían sin él—. Dame cinco minutos. Me despido de estos y te llevo. Soy policía; a esta hora la costera es mía.
 
-—Ahora.
-
-Blake miró hacia la pista, donde sus amigos seguían sin él.
-
-—Te llevo.
-
-—No hace falta.
-
-—Soy policía.
-
-—No pedí credenciales.
+Chiara no contestó.
 
 La sonrisa de Blake se tensó. Chiara vio el cambio y supo que, si se quedaba, la noche iba a convertirse en una negociación sobre su derecho a irse. No tenía paciencia para hombres que confundían una negativa con una puerta mal cerrada.
 
@@ -536,8 +515,6 @@ Chiara oyó un portón metálico moverse del otro lado de la llamada.
 —Si cuelgo ahora, son veinte. Si seguimos, son treinta.
 
 —Eso no es una tarifa.
-
-—No —dijo él—. No es.
 
 Kal colgó.
 
@@ -717,9 +694,7 @@ Chiara vio a Varga medir a Kal y elegir seguir viviendo en una versión donde é
 
 —Esto no se queda así —dijo, más bajo, sin mirarlo.
 
-—Nunca se queda nada como uno quiere —dijo Kal.
-
-Subió a la grúa.
+Kal subió a la grúa.
 
 Chiara caminó hasta la ventana del conductor antes de que arrancara. El motor le vibraba en la mano cuando la apoyó en la puerta. La cabina olía a café viejo y a grasa; en el tablero, una radio de despacho decía en voz baja nombres de calles que ella todavía no conocía.
 
@@ -739,13 +714,9 @@ Kal miró por encima de ella, hacia la puerta de carga, donde Matteo fingía rev
 
 —Eso no es remolque.
 
-—Por eso pregunto.
+Chiara no quitó la mano de la puerta.
 
-—Usted me pidió mover un coche.
-
-—Le pedí que no pareciera un problema del casino.
-
-—Y no parece.
+—Usted me pidió mover un coche —dijo Kal—. Y que no pareciera un problema del casino. No parece.
 
 Ella sostuvo la mirada.
 

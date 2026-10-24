@@ -12,7 +12,8 @@ Dialogo de terceros, La Esquina (2026-10-04, cirugia sobre capitulo TERMINADO; e
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); capitulo TERMINADO, el estado se conserva): fuera la linea de Enzo "Tu no vienes al Gelsomino por la pasta..." (glosa del narrador en boca del mesero; el narrador ya lo dice con la bisagra) y la replica de Kal que colgaba de ella. Ficha 12_Craft_Policies/voice/Enzo.
 Frente 3, densidad (2026-10-05, SURGERY autorizada por el autor sobre capitulo TERMINADO; el estado se conserva): fuera el hombre de la camisa demasiado blanca que pregunta por convenios de flotilla (F3-8: siembra sin pago en el libro). F3-9 (Nadir explicado tres veces, l. 443): EJECUTADO 2026-10-05 junto con el frente 1 (fuera las tres primeras frases del parrafo; queda "Kal nunca lo dejaba cerca de los libros..."). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Densidad_Funcion_Frente_3.md §5.
 Remates del narrador (2026-10-22, SURGERY autorizada por el autor sobre capitulo TERMINADO; el estado se conserva; patron de la lectura de ChatGPT del 2026-10-19): dos cortes. Fuera "la certeza de que Keene habia aceptado menos por presupuesto que por visibilidad" (tercera lectura de Keene; el dialogo ya lo mostro; queda "Eso tambien era relato") y "que en el era la manera de no contestar" (glosa de la sonrisa de Matteo; "Lo van a saber esta noche" ya no contesta).
-Rocco (2026-10-22, decision del autor: sale desde el Cap. 1; prosa DISENO pendiente de lectura; el estado se conserva): la casa de tablas que Kal nivelo, junto a la oficina, y la queja de Hector por la llave Allen que Nadir le avienta al perro. Sin descripcion fisica (llega en el 5c). Siembra del momento de El Patio en Sombras de Poder. Ficha: 02_Characters/Rocco.md.
+Rocco (2026-10-22, decision del autor: sale desde el Cap. 1; prosa DISENO pendiente de lectura; el estado se conserva): la casa de tablas que Kal nivelo, junto a la oficina, y la queja de Hector por la llave Allen que Nadir le tira al perro. Sin descripcion fisica (llega en el 5c). Siembra del momento de El Patio en Sombras de Poder. Ficha: 02_Characters/Rocco.md.
+2026-10-24: regla de dialogo 05 aplicada (cortes de eco y turnos perdidos), DISENO; aprobado por el autor. Keene: fuera "Vengo a no hacerle perder la mañana" / "Eso dicen los hombres..." / "Por eso se lo estoy diciendo..."; entra el beat del cafe frio antes de "Noventa dias para piezas". Matteo: fuera "¿Y como?"; "Lo se" se funde con "Por la cicatriz". Marisol: "Es informativa. De lo que no necesito." (fuera el eco "¿Informativa de que?" y su "Exacto"). Recepcion: fuera "Que raro.". Registro neutro: "aventar" -> "tirar" (Hector). "Ya me di cuenta" atribuida a Kal con tag.
 -->
 
 # Capítulo 1 — Un hombre de negocios intachable
@@ -133,7 +134,7 @@ Kal se agachó, revisó la pieza y pasó el pulgar por la marca nueva del metal.
 
 Héctor sacó una llave Allen del bolsillo de la camisa para aflojar el seguro, la miró a contraluz y la limpió en el pantalón con asco.
 
-—Dile a Nadir que si le vuelve a aventar mis llaves a ese perro, el que va a ir por ellas es él.
+—Dile a Nadir que si le vuelve a tirar mis llaves a ese perro, el que va a ir por ellas es él.
 
 —Pide dos.
 
@@ -249,8 +250,6 @@ El oficial de recepción levantó la vista, reconoció el logo de Almendra Towin
 
 —El chief lo espera.
 
-—Qué raro.
-
 El oficial miró la grúa por la ventana.
 
 —Dejó eso prendido.
@@ -357,11 +356,7 @@ Keene casi sonrió. Casi.
 
 —Usted viene preparado.
 
-—Vengo a no hacerle perder la mañana.
-
-—Eso dicen los hombres que ya decidieron cuánto van a cobrar.
-
-—Por eso se lo estoy diciendo antes de que me lo pregunte.
+Keene tomó por fin la taza, probó el café frío y la dejó en su lugar.
 
 —Noventa días para piezas.
 
@@ -557,11 +552,7 @@ Kal la buscó sin colgar. Estaba debajo del recibo de la universidad que había 
 
 —Dice que no me preocupe.
 
-—Exacto. Es informativa.
-
-—¿Informativa de qué?
-
-—De lo que no necesito.
+—Es informativa. De lo que no necesito.
 
 Kal volvió a leerla.
 
@@ -625,7 +616,7 @@ Mabel cerró el primer recipiente con un golpe seco.
 
 —Ese no es de aquí —dijo, sin bajar la voz.
 
-—Ya me di cuenta.
+—Ya me di cuenta —dijo Kal.
 
 El hombre soltó una risa breve, más divertida que ofendida, y se acercó con una taza en la mano.
 
@@ -635,13 +626,7 @@ Kal le dio la mano. Matteo tenía una palma seca, cuidada, pero apretó como alg
 
 —Kal Mercer.
 
-—Lo sé.
-
-—¿Y cómo?
-
-Matteo se tocó la propia mejilla con el índice, sin perder la sonrisa, como si ya esperara la pregunta.
-
-—La cicatriz. Le pedí a quien me habló de usted algo más útil que rubio, ojos azules. Resopló y me dijo que eso, en este país, es como pedirme que encuentre la diferencia entre dos gotas de agua. La cicatriz, en cambio, no la comparte nadie más en esta cuadra.
+—Lo sé. —Matteo se tocó la propia mejilla con el índice, sin perder la sonrisa—. Por la cicatriz. Le pedí a quien me habló de usted algo más útil que rubio, ojos azules. Resopló y me dijo que eso, en este país, es como pedirme que encuentre la diferencia entre dos gotas de agua. La cicatriz, en cambio, no la comparte nadie más en esta cuadra.
 
 Lo dijo con gusto, como quien cuenta un chiste que ya le funcionó en otra mesa.
 

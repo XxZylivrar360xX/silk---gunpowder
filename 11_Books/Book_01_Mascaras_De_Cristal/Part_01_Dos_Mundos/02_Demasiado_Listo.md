@@ -15,6 +15,7 @@ Llamada a Nadir y cancion del catre (2026-10-19, idea y direccion del autor; cap
 Llegada en jet privado desde Palermo (2026-10-22, CANON DEL AUTOR dictado ese dia): Chiara llega en avion privado, nunca en comercial, desde Palermo; no vive en Italia: estaba de visita alla despues de que el Consigliere la mandara a San Aurelio, y por eso trae consigo sus pertenencias y las fotografias. Cree que se quedara poco, pero se anticipa. Kingsley Field es su puerto de entrada a EE. UU.: migracion la registra ahi, en la zona de hangares de aviacion privada (FBO), con revision de migracion y aduana (CBP) en sitio, no en la terminal principal. Ejecucion (capitulo TERMINADO, el estado se conserva; prosa DISENO pendiente de lectura): la fila de tres ventanillas pasa a una sala de revision junto al hangar con dos oficiales (oficial joven, sello y "primera medida del pais" intactos); "zona internacional" -> "vestibulo de la aviacion privada". Dialogo de Matteo, cambio minimo: "Desde Nueva York todos son largos, aunque duren cinco horas" -> "Desde Palermo todos son largos, aunque el avion sea para ti sola"; "¿Y la aduana? Les avise que venias" queda intacto (ahora la aduana es la de Kingsley). Se revierte el parche "Vuelo domestico" del mismo dia, hecho sobre una premisa falsa.
 
 Puente Nueva York-Palermo (2026-10-22, observacion del autor sobre la llegada nueva): tras "Empezo esa misma madrugada" se agrega un parrafo DISENO de tres frases que hace perceptible la visita a Palermo entre la orden y el vuelo, sin itinerario.
+2026-10-24: regla de diálogo 05 aplicada (cortes de eco y turnos perdidos), DISEÑO.
 -->
 
 # Capítulo 2 — Demasiado listo
@@ -185,11 +186,11 @@ Matteo tardó medio segundo más de lo necesario.
 
 —Socio mayoritario del Monarch.
 
-—Eso tampoco fue lo que pregunté.
+Chiara siguió mirándolo.
 
 Matteo miró al chofer, luego a ella.
 
-—Todo pasa por él.
+—Y de lo que el Monarch toca, que aquí es casi todo. Todo pasa por él.
 
 Chiara asintió una vez. No era miedo. Era archivo.
 
@@ -261,7 +262,7 @@ Varek sostuvo una sonrisa educada.
 
 Chiara sintió el anular izquierdo antes de mover la mano. No se lo tocó.
 
-—Entonces habrá que conocerla bien.
+—Habrá que conocerla bien.
 
 —Para eso estamos todos aquí.
 
@@ -609,11 +610,7 @@ Tommaso se inclinó hacia delante.
 
 —No le preguntamos eso.
 
-Kal lo miró por primera vez.
-
-—Usted preguntó qué podía hacer por el casino.
-
-Kal sintió la atención de Chiara antes de verla: limpia, completa.
+Kal lo miró por primera vez, y sintió la atención de Chiara antes de verla: limpia, completa.
 
 Tommaso dejó pasar un segundo.
 
@@ -640,8 +637,6 @@ Tommaso tardó en contestar.
 —Después lo que ustedes decidan que necesitan.
 
 —Sus aspiraciones son altas.
-
-—Son las de cualquiera que tiene un negocio.
 
 —¿Qué porcentaje pediría? —preguntó ella.
 
@@ -733,7 +728,7 @@ Tommaso giró apenas la cabeza.
 
 —Entonces mi criterio profesional es que un proveedor que detecta una falla de seguridad antes de firmar contrato detectará veinte más después. Y después sabrá cuánto vale callarlas.
 
-—O cuánto vale arreglarlas —dijo Chiara.
+—La de la puerta la dio gratis —dijo Chiara.
 
 Tommaso la sostuvo con la mirada lo que tarda una cuenta en revisarse. No encontró el error.
 
@@ -751,9 +746,7 @@ Tommaso salió sin despedirse de Elise. Fabrizio esperó a que la puerta se cerr
 
 —No estoy peleando.
 
-Fabrizio la conocía lo bastante para no creerle.
-
-—Chiara.
+Fabrizio la conocía lo bastante para no creerle. Le puso una mano en el hombro y no dijo nada.
 
 Ella cerró la carpeta.
 
