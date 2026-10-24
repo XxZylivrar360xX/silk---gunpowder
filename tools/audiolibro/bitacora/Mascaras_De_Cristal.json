@@ -38,23 +38,23 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 01:06"
+      "desde": "2026-10-24 11:29"
     },
     "05b_Sin_Llamar_A_Nadie.md": {
       "capitulo": 6,
       "titulo": "Sin llamar a nadie",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-23",
-      "desde": "2026-10-23 23:17"
+      "audio": "2026-10-24",
+      "desde": "2026-10-24 11:29"
     },
     "05c_La_Pizza_De_Calabaza.md": {
       "capitulo": 7,
       "titulo": "La pizza de calabaza",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-23",
-      "desde": "2026-10-23 23:17"
+      "audio": "2026-10-24",
+      "desde": "2026-10-24 11:29"
     },
     "06_Ambos.md": {
       "capitulo": 8,
@@ -696,6 +696,36 @@
     [
       "2026-10-24 01:06",
       "Cap. 8 (06_Ambos.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-24 10:52",
+      "Cap. 5 (05a_Cliente_Y_Proveedor.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-24 10:52",
+      "Cap. 6 (05b_Sin_Llamar_A_Nadie.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-24 11:06",
+      "Cap. 7 (05c_La_Pizza_De_Calabaza.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-24 11:29",
+      "Cap. 5 (05a_Cliente_Y_Proveedor.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-24 11:29",
+      "Cap. 6 (05b_Sin_Llamar_A_Nadie.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-24 11:29",
+      "Cap. 7 (05c_La_Pizza_De_Calabaza.md)",
       "audio regenerado"
     ]
   ]
