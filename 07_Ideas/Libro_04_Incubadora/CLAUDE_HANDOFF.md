@@ -16,7 +16,7 @@ Integrar al vault el material de `07_Ideas/Libro_04_Incubadora/` **sin convertir
    - `07_Ideas/Incubacion_Escenas/Libro_04_Cuentas_De_Sangre/Tres_Hermanas_Material_Narrativo.md`
    - `02_Characters/Elenna_Mercer.md`
    - `02_Characters/Raymond_Keene.md`
-   - `02_Characters/Elena_Vega.md`
+   - `02_Characters/Renata_Clark.md`
    - `02_Characters/Nereo_Volpi.md`
    - `03_Factions/Departamento_de_Policia_de_San_Aurelio.md`
    - `03_Factions/El_Casino.md`

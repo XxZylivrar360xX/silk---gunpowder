@@ -6,7 +6,10 @@
 
 **Qué es:** policía municipal de San Aurelio.
 **Territorio:** [[05_Locations/San_Aurelio]].
-**Cabeza:** vacante tras el asesinato de [[02_Characters/Raymond_Keene]]; [[02_Characters/Lucia_Varek]] en funciones durante el Libro I; [[02_Characters/Elena_Vega]] desde el Libro II. [Antes: Vega desde la muerte de Keene; superado 2026-10-17.]  
+**Cabeza:** vacante tras el asesinato de [[02_Characters/Raymond_Keene]]; [[02_Characters/Lucia_Varek]] en funciones durante el Libro I; [[02_Characters/Renata_Clark]] desde el Libro II. [Antes: Clark desde la muerte de Keene; superado 2026-10-17.]  
+
+> **CANON DEL AUTOR (2026-10-24), mando policial de la saga:** *Sombras de Poder* (II): Lucía sube a **jefa interina** y [[02_Characters/Dana_Collins]] asciende a **subjefa**; [[02_Characters/Renata_Clark]] es nombrada jefa **al cierre del Libro II**. *Voto de Ceniza* (III): Lucía y Collins, **las dos subjefas**, bajo Clark; cuando Clark renuncia en la Guerra de los Tres, Lucía es **jefa hasta *Cuentas de Sangre*** (IV). Escalafón de Collins (CANON 2026-10-24): teniente en el I → capitana al abrir el II (nombrada por Lucía) → segunda subjefa al cierre del II. Sesión: [[98_Agent_Handoff/sessions/2026-10-24_claude_cap04_cortejo_keene_blake]].
+
 **Estado al abrir la novela:** una institución en crisis: el jefe anterior fue asesinado, hay sospechas de colusión y la nueva jefa hereda un departamento que todavía tiene que demostrar que puede hacer su trabajo.
 
 ---
@@ -39,9 +42,9 @@ Al iniciar el libro, el jefe actual, [[02_Characters/Raymond_Keene]], es asesina
 
 La versión pública puede ser un atentado contra la institución. La verdad narrativa es más incómoda: Keene probablemente estaba coludido con Varek y se volvió un problema. Eso presenta la cara del villano sin convertirlo en caricatura: Varek no sólo mata enemigos, también elimina piezas que dejaron de servir.
 
-La muerte de Keene abre la puerta a [[02_Characters/Elena_Vega]], aunque no de inmediato: el puesto queda vacante todo el Libro I y Vega llega en el II.
+La muerte de Keene abre la puerta a [[02_Characters/Renata_Clark]], aunque no de inmediato: el puesto queda vacante todo el Libro I y Clark llega en el II.
 
-> **CANON DEL AUTOR (2026-10-17):** tras el asesinato de Keene la jefatura queda **vacante durante todo el Libro I**; la subjefa [[02_Characters/Lucia_Varek]] asume sus funciones **en funciones** (sigue siendo subjefa de rango). [[02_Characters/Elena_Vega]] entra como jefa en *Sombras de Poder* (Libro II) y renuncia en la Guerra de los Tres (Libro III). En el Libro I solo se usan dos rangos de mando: jefe de policía y subjefa. Sesión: [[98_Agent_Handoff/sessions/2026-10-17_claude_cap07_geografia_y_mando_interino]]. **PENDIENTE, diferido a los Libros V-VII:** reconciliar el caso Vera (Trilogy_Structure #41).
+> **CANON DEL AUTOR (2026-10-17):** tras el asesinato de Keene la jefatura queda **vacante durante todo el Libro I**; la subjefa [[02_Characters/Lucia_Varek]] asume sus funciones **en funciones** (sigue siendo subjefa de rango). [[02_Characters/Renata_Clark]] entra como jefa en *Sombras de Poder* (Libro II) y renuncia en la Guerra de los Tres (Libro III). En el Libro I solo se usan dos rangos de mando: jefe de policía y subjefa. Sesión: [[98_Agent_Handoff/sessions/2026-10-17_claude_cap07_geografia_y_mando_interino]]. **PENDIENTE, diferido a los Libros V-VII:** reconciliar el caso Vera (Trilogy_Structure #41).
 
 > **Regla:** el asesinato de Keene no convierte al Departamento entero en corrupto. Lo deja bajo sospecha.
 
@@ -55,8 +58,8 @@ La policía local no compite narrativamente con los federales. Su función es ma
 
 ### Mando
 
-- **[[02_Characters/Elena_Vega|Chief Elena Vega]]** — jefa de policía. Maneja política, presupuesto, alcaldía y presión mediática. No investiga escenas; dirige una institución bajo crisis.
-- **[[02_Characters/Lucia_Varek|Lucia Varek]]** — subjefa (Assistant Chief), segunda al mando bajo Vega (CANON DEL AUTOR, 2026-09-01). En el Libro I, sin jefe nombrado, lleva el Departamento en funciones (CANON DEL AUTOR, 2026-10-17).
+- **[[02_Characters/Renata_Clark|Chief Renata Clark]]** — jefa de policía. Maneja política, presupuesto, alcaldía y presión mediática. No investiga escenas; dirige una institución bajo crisis.
+- **[[02_Characters/Lucia_Varek|Lucia Varek]]** — subjefa (Assistant Chief), segunda al mando bajo Clark (CANON DEL AUTOR, 2026-09-01). En el Libro I, sin jefe nombrado, lleva el Departamento en funciones (CANON DEL AUTOR, 2026-10-17).
 - **Martin Cho** — Deputy Chief, **por debajo de Lucía** (decisión del autor, 2026-10-03: resuelve el choque de cadena de mando). Enlace de alto nivel con los federales y la fiscalía cuando piden cooperación.
 - **Thomas Reade** — Captain / precinct commander. Recurrente de estación. Su problema no es "atrapar a Kal": es que alguien prendió otro incendio en su distrito.
 - **Rosa Ramirez** — Lieutenant / watch commander. Controla turnos, unidades, cierres de calles, perímetros y primeras coordinaciones.
@@ -64,7 +67,7 @@ La policía local no compite narrativamente con los federales. Su función es ma
 ### Patrulla
 
 - **Miguel Arroyo** — sargento de día.
-- **[[02_Characters/Dana_Collins]]** — sargenta nocturna; líder de la VED (ver abajo).
+- **[[02_Characters/Dana_Collins]]** — teniente nocturna; líder de la VED (ver abajo).
 - **Blake Stanton** — oficial de patrulla/tránsito. Pieza personal por su relación fallida con Chiara.
 - **Mateo Cruz** — patrullero recurrente.
 - **Jenna Bell** — patrullera recurrente.
@@ -87,7 +90,7 @@ La fórmula narrativa:
 - Detective: conectó homicidios.
 - Capitán: midió el incendio político del distrito.
 - Deputy Chief: recibió la llamada de los federales.
-- Chief Vega: decidió qué costo institucional acepta pagar.
+- Chief Clark: decidió qué costo institucional acepta pagar.
 
 ### Blake Stanton
 
@@ -99,7 +102,7 @@ Su valor estructural no es ser policía en abstracto: es un hombre del Departame
 
 ### Tránsito y carreras
 
-> **CANON DEL AUTOR (2026-10-18): VED (*Velocity Enforcement Division*).** Unidad de persecución y velocidad, al mando de la sargenta [[02_Characters/Dana_Collins]]. Sus deportivos se designan **SPV** (*Special Pursuit Vehicle*, unidad de persecución especial): pocas unidades, numeración no consecutiva. En el Libro I las SPV son **Mustang GT**; en *Sombras de Poder* se suman uno o dos interceptores de alta gama que casi no salen, entre ellos un **Corvette C8 Stingray** conducido por un joven Nicholas Voss, sin mucho protagonismo. La radio distingue patrullas convencionales, SUV y SPV; indicativos sin la sigla «SAPD» (detalle en la ficha de Collins).
+> **CANON DEL AUTOR (2026-10-18): VED (*Velocity Enforcement Division*).** Unidad de persecución y velocidad, al mando de la teniente [[02_Characters/Dana_Collins]]. Sus deportivos se designan **SPV** (*Special Pursuit Vehicle*, unidad de persecución especial): pocas unidades, numeración no consecutiva. En el Libro I las SPV son **Mustang GT**; en *Sombras de Poder* se suman uno o dos interceptores de alta gama que casi no salen, entre ellos un **Corvette C8 Stingray** conducido por un joven Nicholas Voss, sin mucho protagonismo. La radio distingue patrullas convencionales, SUV y SPV; indicativos sin la sigla «SAPD» (detalle en la ficha de Collins).
 
 El Peugeot rojo de [[02_Characters/Kal_Mercer]] ya tiene reputación entre policías. Las carreras ilegales del norte y la zona de Kingsley Field le dan al Departamento una entrada temprana al mundo de Kal sin entender todavía qué están mirando.
 
@@ -156,7 +159,7 @@ La Policía de San Aurelio resiente a los federales porque llegan cuando el caso
 
 Eso crea un ángulo útil: cuando la fuerza federal entra contra Kal, el Departamento no necesariamente coopera por obediencia. Coopera, compite, filtra o estorba según quién gane con el crédito.
 
-Vega choca con los federales por una razón simple:
+Clark choca con los federales por una razón simple:
 
 > **Está ocurriendo en mi ciudad.**
 
@@ -172,7 +175,7 @@ La policía necesita encontrar y detener. La fiscalía necesita probar. Esa dife
 
 ## Preguntas abiertas
 
-> **RESUELTO (2026-08-23):** la jefatura queda en [[02_Characters/Elena_Vega]], después del asesinato de [[02_Characters/Raymond_Keene]].
+> **RESUELTO (2026-08-23):** la jefatura queda en [[02_Characters/Renata_Clark]], después del asesinato de [[02_Characters/Raymond_Keene]].
 
 > **PENDIENTE:** cuánto sabía Martin Cho de la posible colusión de Keene.
 
@@ -182,4 +185,4 @@ La policía necesita encontrar y detener. La fiscalía necesita probar. Esa dife
 
 ---
 
-Ver también: [[00_Biblia/Reglas_del_Mundo]] · [[02_Characters/Elena_Vega]] · [[02_Characters/Blake_Stanton]] · [[03_Factions/Fiscalia_de_San_Aurelio]] · [[03_Factions/Fuerza_de_Tarea_Meridian]]
+Ver también: [[00_Biblia/Reglas_del_Mundo]] · [[02_Characters/Renata_Clark]] · [[02_Characters/Blake_Stanton]] · [[03_Factions/Fiscalia_de_San_Aurelio]] · [[03_Factions/Fuerza_de_Tarea_Meridian]]

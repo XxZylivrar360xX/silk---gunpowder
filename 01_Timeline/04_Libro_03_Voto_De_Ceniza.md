@@ -16,6 +16,7 @@
 - H22 — Los primeros pasos cambia la pregunta de ganar la ciudad por la de construir una salida.
 - Dario cae legalmente y la ciudad atraviesa un falso final.
 - La operación de montaña y Santa Lucía rompe el equilibrio restante.
+- **CANON DEL AUTOR (2026-10-24), mando policial de la saga:** *Sombras de Poder* (II): Lucía sube a **jefa interina** y [[02_Characters/Dana_Collins]] asciende a **subjefa**; [[02_Characters/Renata_Clark]] es nombrada jefa **al cierre del Libro II**. *Voto de Ceniza* (III): Lucía y Collins, **las dos subjefas**, bajo Clark; cuando Clark renuncia en la Guerra de los Tres, Lucía es **jefa hasta *Cuentas de Sangre*** (IV). Sesión: [[98_Agent_Handoff/sessions/2026-10-24_claude_cap04_cortejo_keene_blake]].
 - Héctor y Kenji mueren; Chiara sobrevive en estado crítico.
 - Kal y Chiara deciden construir una salida de San Aurelio.
 - Kal sentencia a Halbrook, pero no lo ejecuta todavía. Tras Santa Lucía va a su sede de campaña, lo amedrenta y se contiene por Elenna; Halbrook: "¡Ha! ¿Es el gran Kal Mercer tan cobarde para tomar mi cabeza de mis hombros?"; Kal se retira sin decir nada (canon del autor 2026-09-28).

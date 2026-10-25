@@ -2,7 +2,7 @@
 
 > **ESTADO (2026-10-03):** integrado desde la nota PROYECTO RECLUTA `2026-10-03_camino_a_casa_reglas_revelacion_estructura_misterio` (archivada en `98_Agent_Handoff/archive/chatgpt/`). Las secciones marcadas "CANON DEL AUTOR" lo son; el resto es DISEÑO fuerte. Arquitectura en [[00_Biblia/00_Trilogy_Structure]] (Ciclo de Elenna) y en [[11_Books/Book_06_Hijos_Del_Silencio/00_Book_Map]] / [[11_Books/Book_07_Camino_A_Casa/00_Book_Map]].
 >
-> **RESUELTO (lote 3, 2026-10-03, CANON DEL AUTOR):** Blake Stanton mató a los padres Marsh; el padre era el asociado de Varek y es el "sospechoso oficial que desaparece" (Volpi se lleva los cuerpos). La noche ocurre durante el Libro I. La omisión institucional es de Elena Vega. La entrevista con Volpi va en el VII. Reconstrucción en [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]]; Blake en [[02_Characters/Blake_Stanton]].
+> **RESUELTO (lote 3, 2026-10-03, CANON DEL AUTOR):** Blake Stanton mató a los padres Marsh; el padre era el asociado de Varek y es el "sospechoso oficial que desaparece" (Volpi se lleva los cuerpos). La noche ocurre durante el Libro I. La omisión institucional es de Renata Clark. La entrevista con Volpi va en el VII. Reconstrucción en [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]]; Blake en [[02_Characters/Blake_Stanton]].
 
 ## Objetivo
 

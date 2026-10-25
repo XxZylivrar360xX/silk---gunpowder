@@ -116,6 +116,9 @@ Momento cálido: los dos recostados en la cama. Mañana siguiente: desayuno, vue
 que siempre fueron.
 
 > **SUPERSEDIDO (CANON DEL AUTOR, 2026-10-12):** ya no muere Tommaso al abrir el libro. **Fabrizio Rinaldi** aparece muerto en su apartamento: Lucía Varek llama a Chiara durante el desayuno para que lo identifique en la comisaría y el Cap. 1 corta en «Fabrizio está muerto» ([[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/01_Hogar]]). **Lo mata Volpi**, con el mecanismo que antes era de Tommaso (composición de Keene; hipótesis de asesino serial). **Tommaso sobrevive**, se queda en San Aurelio y se ausenta hacia el final: el choque por los frenos cortados del Lancia de Chiara (Volpi, velado; cierre de la Parte II, Calle Corona), contra el Audi de Kal que maneja Marisol (bastón permanente para él, tibia de ella; acercamiento en el hospital), más las amenazas a su esposa y a su hija; cede su parte del Monarch a Chiara. Ver [[02_Characters/Tommaso_Lusardi]] y [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]. Texto anterior:
+
+> **CANON DEL AUTOR (2026-10-24), mando policial de la saga:** *Sombras de Poder* (II): Lucía sube a **jefa interina** y [[02_Characters/Dana_Collins]] asciende a **subjefa**; [[02_Characters/Renata_Clark]] es nombrada jefa **al cierre del Libro II**. *Voto de Ceniza* (III): Lucía y Collins, **las dos subjefas**, bajo Clark; cuando Clark renuncia en la Guerra de los Tres, Lucía es **jefa hasta *Cuentas de Sangre*** (IV). Escalafón de Collins (CANON 2026-10-24): teniente en el I → capitana al abrir el II (nombrada por Lucía) → segunda subjefa al cierre del II. Sesión: [[98_Agent_Handoff/sessions/2026-10-24_claude_cap04_cortejo_keene_blake]].
+
 >
 > ~~**Esa misma tarde**, la policía llama a Chiara: *¿conoce al señor Tommaso Lusardi?* — su asesinato (ejecutado por Nereo Volpi, composición que evoca a Raymond Keene) se desplaza aquí.~~
 

@@ -226,7 +226,7 @@ Ahí la mancuerna queda completa:
 
 - Un chico de una gasolinera en la Ronda Exterior reporta a dos fiscales reuniéndose de madrugada con un tercer coche que nunca llega con las luces encendidas. **RESUELTO EN PARTE (2026-09-01):** este hilo es la primera pieza del caso del Peugeot — ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/13_Auster|Capítulo 13, *Auster*]].
 - Mabel reporta (sin certeza confirmada, como chisme de barra) el romance frustrado de [[02_Characters/Blake_Stanton]] con una recepcionista del Departamento — ver su ficha. **Sigue sin resolverse.**
-- Rumor sin confirmar: la subjefa del Departamento (no nombrada todavía; "la que va después de [[02_Characters/Elena_Vega]]") vista dos veces con alguien no identificado, pago en efectivo, auto estacionado a media cuadra. **RESUELTO (2026-09-01): es [[02_Characters/Lucia_Varek|Lucía Varek]]** — primera aparición en prosa en el Capítulo 13. Quién era el hombre no identificado sigue sin decirse.
+- Rumor sin confirmar: la subjefa del Departamento (no nombrada todavía; "la que va después de [[02_Characters/Renata_Clark]]") vista dos veces con alguien no identificado, pago en efectivo, auto estacionado a media cuadra. **RESUELTO (2026-09-01): es [[02_Characters/Lucia_Varek|Lucía Varek]]** — primera aparición en prosa en el Capítulo 13. Quién era el hombre no identificado sigue sin decirse.
 - Un recorte sobre un viñedo al norte cuyo dueño está cansado de San Aurelio y podría vender antes del otoño — Chiara lo guarda sin saber todavía para qué. **Sigue sin resolverse.**
 
 > **PENDIENTE:** si el viñedo conecta con [[05_Locations/Bellandi_Ridge_Vineyards]] o queda independiente, si el romance de Blake se paga en algún punto futuro, y quién era el hombre que vieron con Lucía.

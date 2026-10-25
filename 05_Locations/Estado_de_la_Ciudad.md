@@ -17,7 +17,7 @@ El clima político se resume así:
 - hay elecciones municipales en el horizonte;
 - la alcaldía actual llega débil o gastada;
 - el jefe de policía anterior, [[02_Characters/Raymond_Keene]], acaba asesinado por orden de [[02_Characters/Dario_Varek]], quizá porque estaba coludido y se volvió problema;
-- [[02_Characters/Elena_Vega]] entra como nueva Chief en una institución bajo sospecha;
+- [[02_Characters/Renata_Clark]] entra como nueva Chief en una institución bajo sospecha;
 - los barrios del sur están peleando territorio y mercado;
 - [[02_Characters/Dario_Varek]] mantiene el equilibrio mediante miedo;
 - [[03_Factions/El_Patio]] todavía parece una solución local antes de parecer amenaza;
@@ -197,7 +197,7 @@ Este estado de ciudad permite varios frentes simultáneos:
 - Russ usa el conflicto del sur como combustible electoral.
 - Chiara decide qué crisis se vuelve noticia y cuál muere en silencio.
 - Dario intenta conservar control castigando bandas menores.
-- Vega intenta evitar que el Departamento responda como institución herida y no como policía funcional.
+- Clark intenta evitar que el Departamento responda como institución herida y no como policía funcional.
 - Kal empieza resolviendo problemas que Dario no quiere tocar.
 - El Patio gana reputación antes de ganar territorio.
 - Los [[03_Factions/Breakwater_Saints_MC|Breakwater Saints MC]] obligan a definir si la costa entra por tregua, compra o guerra.

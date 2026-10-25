@@ -72,7 +72,7 @@ Un huérfano sin origen y una italiana con un apellido prestado se conocen por a
 - [[02_Characters/Marisol_Grayson]] — hija de Michael Grayson. Kal se hizo cargo de ella; estudia y reside en la universidad. **Su conciencia con piernas.** Pareja de Kenji: hitos percibidos desde Kal y Chiara durante Libros I y II (canon del autor, 2026-09-10).
 - [[02_Characters/Michael_Grayson]] — viejo amigo militar de Kal, muerto de cáncer. Su muerte deja a Marisol en la vida de Kal.
 - [[02_Characters/Blake_Stanton]] — policía. Con quien Chiara sale al llegar. Rubio de ojos azules: el hombre equivocado con la cara correcta. No es un rival — es un error de identificación.
-- [[02_Characters/Elena_Vega]] — Chief of Police de San Aurelio tras el asesinato de Raymond Keene. Disciplina moral; no puede comprarse.
+- [[02_Characters/Renata_Clark]] — Chief of Police de San Aurelio tras el asesinato de Raymond Keene. Disciplina moral; no puede comprarse.
 - [[02_Characters/Raymond_Keene]] (†) — jefe de policía anterior, asesinado por orden de Varek; probable colusión convertida en problema.
 - [[02_Characters/Luis_Ortega]] · [[02_Characters/Noah_Pierce]] · [[02_Characters/Gloria_Chen]] — detectives locales: Homicidios, compañero joven y crimen organizado/vice.
 - [[02_Characters/Claire_Han]] — fiscal principal local para homicidios relacionados con Kal.

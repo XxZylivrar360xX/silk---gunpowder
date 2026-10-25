@@ -1211,12 +1211,12 @@ Reestructurado [[03_Factions/Departamento_de_Policia_de_San_Aurelio]] para que n
 Canon instalado:
 
 - Al inicio del libro, [[02_Characters/Raymond_Keene]], jefe de policía anterior, es asesinado por orden de [[02_Characters/Dario_Varek]]. Probable colusión: Keene estaba comprado o comprometido y se volvió problema.
-- Entra [[02_Characters/Elena_Vega]] como nueva Chief. Edad 45. Disciplina moral, reputación de incorruptible y frase guía: **La ley no necesita ser perfecta para ser mejor que la venganza.**
+- Entra [[02_Characters/Renata_Clark]] como nueva Chief. Edad 45. Disciplina moral, reputación de incorruptible y frase guía: **La ley no necesita ser perfecta para ser mejor que la venganza.**
 - Vega y Cole quedan como choque ideológico: ambos detestan depredadores, pero Vega no acepta que un individuo se convierta en juez.
 
 Estructura policial fijada:
 
-- Chief: [[02_Characters/Elena_Vega]].
+- Chief: [[02_Characters/Renata_Clark]].
 - Ex Chief asesinado: [[02_Characters/Raymond_Keene]].
 - Deputy Chief: Martin Cho.
 - Captain / precinct commander: Thomas Reade.
@@ -1235,7 +1235,7 @@ Creada [[03_Factions/Fiscalia_de_San_Aurelio]]:
 - ADA principal: [[02_Characters/Claire_Han]], antagonista jurídico local de Cole.
 - ADA junior opcional: Zoe Palmer.
 
-Actualizados `Departamento_de_Policia_de_San_Aurelio`, `Fiscalia_de_San_Aurelio`, `Elena_Vega`, `Raymond_Keene`, `Luis_Ortega`, `Blake_Stanton`, `Dario_Varek`, `Estado_de_la_Ciudad`, `Fuerza_de_Tarea_Meridian`, `02_Characters/README` e `INDEX.md`.
+Actualizados `Departamento_de_Policia_de_San_Aurelio`, `Fiscalia_de_San_Aurelio`, `Renata_Clark`, `Raymond_Keene`, `Luis_Ortega`, `Blake_Stanton`, `Dario_Varek`, `Estado_de_la_Ciudad`, `Fuerza_de_Tarea_Meridian`, `02_Characters/README` e `INDEX.md`.
 
 **Pendientes:** cuánto sabía Martin Cho de Keene; primer conflicto Claire Han/Nina Caldwell; si Katherine Rowe está limpia u oportunista; qué expediente local permite entrada federal.
 

@@ -134,7 +134,7 @@ En la fase 6, entre las vitrinas de Lunar Pearl, Kal queda frente a la bandeja d
 5. **¿Qué ganan los Saints?**
 6. **¿Cómo se entera Chiara de la salida?** ¿Qué hace cuando entiende que el diamante es de Dario?
 7. **¿Qué le dice Walt al equipo** al final del túnel?
-8. **¿Lucia se entera** de que robaron el diamante de su nombre? Ella es comisionada.
+8. **¿Lucia se entera** de que robaron el diamante de su nombre? Ella es jefa interina (CANON 2026-10-24; comisionada sólo en la saga de Elenna).
 
 ## Arco en capítulos (propuesta)
 

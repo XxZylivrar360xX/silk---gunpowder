@@ -4,12 +4,17 @@
 
 *Seda y Pólvora — Ficha de Personaje*
 
-> **CANON DEL AUTOR (2026-10-18).** Sargenta del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento]], argentina, líder de la VED. Antes era sólo un nombre en la lista de patrulla ("sargenta nocturna").
+> **CANON DEL AUTOR (2026-10-18).** Teniente del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento]], argentina, líder de la VED. Antes era sólo un nombre en la lista de patrulla ("teniente nocturna").
 
 **Nacionalidad:** argentina.
 **Edad al abrir la novela:** 34–35, más o menos la de Chiara (CANON DEL AUTOR, 2026-10-24; antes 28).
-**Oficio:** sargenta; líder de la **VED** (*Velocity Enforcement Division*), la unidad de persecución y velocidad del Departamento. Turno de noche.
+**Oficio:** teniente; líder de la **VED** (*Velocity Enforcement Division*), la unidad de persecución y velocidad del Departamento. Turno de noche.
 **Rol:** secundario.
+
+> **CANON DEL AUTOR (2026-10-24), mando policial de la saga:** *Sombras de Poder* (II): Lucía sube a **jefa interina** y [[02_Characters/Dana_Collins]] asciende a **subjefa**; [[02_Characters/Renata_Clark]] es nombrada jefa **al cierre del Libro II**. *Voto de Ceniza* (III): Lucía y Collins, **las dos subjefas**, bajo Clark; cuando Clark renuncia en la Guerra de los Tres, Lucía es **jefa hasta *Cuentas de Sangre*** (IV). Sesión: [[98_Agent_Handoff/sessions/2026-10-24_claude_cap04_cortejo_keene_blake]].
+
+> **Escalafón (2026-10-24):** **CANON DEL AUTOR:** en el Libro I es **teniente** (antes sargenta; el Cap. 11 pasa a llamarse *La teniente*, archivo sin renombrar). **CANON DEL AUTOR (autorizado 2026-10-24):** al abrir el II, Lucía (jefa interina) la nombra **capitana**; al cierre del II, con la llegada de Clark, pasa a **segunda subjefa**. Así el salto no se come el escalafón de golpe.
+
 **Alias:** ninguno fijado.
 **Estado:** viva.
 
@@ -42,10 +47,10 @@ Voz dulce; habla con cuidado (CANON DEL AUTOR). No necesita subir el tono para q
 
 ## Apariciones
 
-- [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/08b_La_Sargenta|Cap. 8]] (hoy Cap. 11, *La sargenta*, separado del 10 el 2026-10-23): sólo voz, por el escáner de la guantera. Sabe que lo pierden en la loma, le deja libre la autopista y toma la persecución sola en la SPV-Tres («El rojo es mío»; Kal: «Viene la caballería»). No se traga la salida tardía (Kal: «Conduce bien»), lo lee por la avenida paralela y se le atraviesa, intenta un PIT en la fuente de Plaza Corona y le sigue el juego cuando Kal presume con una vuelta de 360 en derrape alrededor de la fuente (CANON DEL AUTOR: ningún policía se lo había seguido), vuelve en reversa por la galería del Canal Seco y no entra porque no cabe. Dicta el reporte y cierra: «Y anotá que el rojo sigue siendo mío».
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/08b_La_Sargenta|Cap. 8]] (hoy Cap. 11, *La teniente*, separado del 10 el 2026-10-23): sólo voz, por el escáner de la guantera. Sabe que lo pierden en la loma, le deja libre la autopista y toma la persecución sola en la SPV-Tres («El rojo es mío»; Kal: «Viene la caballería»). No se traga la salida tardía (Kal: «Conduce bien»), lo lee por la avenida paralela y se le atraviesa, intenta un PIT en la fuente de Plaza Corona y le sigue el juego cuando Kal presume con una vuelta de 360 en derrape alrededor de la fuente (CANON DEL AUTOR: ningún policía se lo había seguido), vuelve en reversa por la galería del Canal Seco y no entra porque no cabe. Dicta el reporte y cierra: «Y anotá que el rojo sigue siendo mío».
 
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/04_Tarifa_Nocturna|Cap. 4]] (2026-10-24, decisión del autor; DISEÑO): en el velorio de El Relevo, sin nombre y sin cara para Chiara. Brinda desde el fondo sin subir la voz y el bar se calla; voseo ("Y vos cuidame el lugar"); deja la cerveza a la mitad y se va a su turno. Paga en el Cap. 11 (la voz dulce del escáner).
-- [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05b_Sin_Llamar_A_Nadie|Cap. 6 (archivo 05b)]] (2026-10-24, decisión del autor; DISEÑO): sustituye al sargento de la cena. Entra a cenar antes del turno con tres de los suyos; Blake la saluda "Sargenta" (sin nombre) y contesta por Chiara; ella sigue mirando a Chiara esperando su respuesta. Primera vez que Chiara le ve la cara (cabello corto, lacio, castaño cobrizo) y reconoce la voz del brindis. En el Cap. 11 Chiara la reconoce en el escáner y no se lo dice a Kal (él la conoce por la voz; ella, por la cara).
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05b_Sin_Llamar_A_Nadie|Cap. 6 (archivo 05b)]] (2026-10-24, decisión del autor; DISEÑO): sustituye al sargento de la cena. Entra a cenar antes del turno con tres de los suyos; Blake la saluda "Teniente" (sin nombre) y contesta por Chiara; ella sigue mirando a Chiara esperando su respuesta. Primera vez que Chiara le ve la cara (cabello corto, lacio, castaño cobrizo) y reconoce la voz del brindis. En el Cap. 11 Chiara la reconoce en el escáner y no se lo dice a Kal (él la conoce por la voz; ella, por la cara).
 
 ## Conexiones
 
@@ -56,6 +61,6 @@ Voz dulce; habla con cuidado (CANON DEL AUTOR). No necesita subir el tono para q
 
 ## Preguntas abiertas
 
-> **PENDIENTE (del autor, en reserva):** su papel en *Voto de Ceniza*.
+> **PENDIENTE (del autor, en reserva):** su papel en *Voto de Ceniza* más allá del cargo (subjefa, CANON 2026-10-24).
 
 > **PENDIENTE:** ciudad de origen y por qué llegó a San Aurelio; tamaño de la VED y si Blake pertenece a ella; si llega a saber quién maneja el Peugeot y cuándo; su papel en los libros II–IV.

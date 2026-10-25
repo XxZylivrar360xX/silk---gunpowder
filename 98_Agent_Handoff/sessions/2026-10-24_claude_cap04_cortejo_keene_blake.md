@@ -12,7 +12,12 @@
 
 **Pendientes:** lectura del autor; el Cap. 11 queda sin tocar (¿Chiara reconoce la voz del escáner como la del brindis? hoy no; decidir). Ojo: el "Ramírez" del 5b (carne asada) choca con la teniente Rosa Ramirez de la ficha del Departamento, un choque que ya existía.
 
-**Ajuste posterior (autor):** fuera el sargento hombre. Cap. 4: "Un patrullero que presumía persecuciones". Cap. 6 (archivo 05b): la cena ante la sargenta Collins (sin nombre; Blake: "Sargenta"); primera vez que Chiara le ve la cara y reconoce la voz del brindis. Con eso, en el Cap. 11 Chiara ya conoce esa voz: falta decidir si el 11 lo registra.
+**Ajuste posterior (autor):** fuera el sargento hombre. Cap. 4: "Un patrullero que presumía persecuciones". Cap. 6 (archivo 05b): la cena ante la teniente Collins (sin nombre; Blake: "Teniente"); primera vez que Chiara le ve la cara y reconoce la voz del brindis. Con eso, en el Cap. 11 Chiara ya conoce esa voz: falta decidir si el 11 lo registra.
 **Edad (autor):** Collins, 34–35 (antes 28), de la edad de Chiara.
 **Nombre (autor):** el anfitrión de la barbacoa del 5b pasa de Ramírez a Hendricks (apellido americano; resuelve el choque con la teniente Rosa Ramirez).
 **Cap. 11 (autor):** Chiara reconoce la voz del escáner ("Así se había callado El Relevo con su brindis"; "Chiara le había visto la cara. No se lo dijo.").
+
+**Mando policial de la saga (CANON DEL AUTOR):** II: Lucía jefa interina, Collins asciende a subjefa, Clark nombrada al cierre del II (elección del autor entre opciones). III: Lucía y Collins subjefas bajo Clark; al renunciar Clark en la Guerra de los Tres, Lucía jefa hasta *Cuentas de Sangre*. Actualizado en fichas de Lucía, Clark y Collins, Departamento, timelines II y III, brief y diseño del robo de joyería ("comisionada" → jefa interina). Pendiente: momento exacto del ascenso de Collins dentro del II.
+**Renombre (autor):** Elena Marisol Vega → **Renata Clark** (eco con Elenna). Ficha `02_Characters/Renata_Clark.md` (git mv); texto y enlaces actualizados en archivos vivos; en archive/sessions/97 solo enlaces.
+**Rango de Collins (autor):** teniente en el Libro I (antes sargenta); el Cap. 11 se titula *La teniente* (archivo 08b sin renombrar). Prosa: 5b ("—Teniente.", "La teniente siguió"), 08b (título, "La teniente de noche", "la teniente pidió" y demás). Fichas, Book_Map, INDEX, CHAPTER_STATUS, Hitos, CLAUDE.md y brief actualizados. DISEÑO pendiente: capitana al abrir el II, subjefa al cierre. Clark: familia canadiense-estadounidense (autor).
+**Autorizado (autor):** capitana al abrir el II y subjefa al cierre pasan a CANON. Cap. 11: "—La teniente del turno de noche."

@@ -6,7 +6,7 @@ Capítulo: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/07_La_Noche
 
 1. **Gabriella's se queda en Santa Brígida**, costa sur de tierra firme. Falta anclarlo en prosa (propuestas G1-G2).
 2. **Jefatura vacante en todo el Libro I.** Tras Keene, la subjefa Lucía Varek lleva el Departamento **en funciones**, con rango de subjefa. **Vega entra en el Libro II** y renuncia en la Guerra de los Tres (Libro III). En el Libro I solo se usan dos rangos de mando: jefe de policía y subjefa. El capitán de la fiesta del 7 es otro rango (comisaría o distrito) y se queda.
-   - Ya registrado en: [[03_Factions/Departamento_de_Policia_de_San_Aurelio]], [[02_Characters/Elena_Vega]], [[02_Characters/Lucia_Varek]] y una nota en [[00_Biblia/00_Trilogy_Structure]] #41.
+   - Ya registrado en: [[03_Factions/Departamento_de_Policia_de_San_Aurelio]], [[02_Characters/Renata_Clark]], [[02_Characters/Lucia_Varek]] y una nota en [[00_Biblia/00_Trilogy_Structure]] #41.
 3. **El rechazo de Chiara a Blake es orgánico**: ya siente cosas por Kal. La escena lo muestra con acción: no lo niega, "Estuviste en otro lado". Los cortes del taxi lo dejan respirar en vez de explicarlo.
 
 ## PENDIENTE del autor

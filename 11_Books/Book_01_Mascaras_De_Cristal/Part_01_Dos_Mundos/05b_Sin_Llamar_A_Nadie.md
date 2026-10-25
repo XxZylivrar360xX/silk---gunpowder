@@ -136,7 +136,7 @@ Después entraron tres policías de uniforme, a cenar antes del turno. Venían d
 
 Blake se enderezó en la silla. La saludó desde lejos con la mano abierta, y para cuando ella llegó a la mesa, la otra mano de Blake ya estaba en el respaldo de la silla de Chiara.
 
-—Sargenta.
+—Teniente.
 
 —Stanton.
 
@@ -150,7 +150,7 @@ Era la voz del brindis de El Relevo, la que había callado el bar sin subirse a 
 
 —Lleno —contestó Blake—. Con lo del torneo no le alcanzan las manos.
 
-La sargenta siguió mirando a Chiara un segundo más, como si la respuesta todavía no hubiera llegado. Después les deseó buen provecho y se fue a su mesa.
+La teniente siguió mirando a Chiara un segundo más, como si la respuesta todavía no hubiera llegado. Después les deseó buen provecho y se fue a su mesa.
 
 Chiara bebió vino.
 

@@ -1,7 +1,7 @@
 # Keene, corrupción por omisión en el caso Vera
 
 **Retirado:** 2026-10-03.
-**Lo sustituye:** [[02_Characters/Elena_Vega]] (la omisión pasa a ella) y [[02_Characters/Raymond_Keene]].
+**Lo sustituye:** [[02_Characters/Renata_Clark]] (la omisión pasa a ella) y [[02_Characters/Raymond_Keene]].
 **Por qué:** la noche Vera ocurre durante el Libro I, después de la muerte de Keene.
 
 ## Texto original (ficha de Keene, Preguntas abiertas)

@@ -23,8 +23,8 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 - [[02_Characters/Marisol_Grayson]] — hija de Michael; termómetro moral de Kal.
 - [[02_Characters/Michael_Grayson]] — viejo amigo militar de Kal; muerto de cáncer.
 - [[02_Characters/Blake_Stanton]] — policía; error de identificación de Chiara.
-- [[02_Characters/Dana_Collins]] — sargenta argentina, líder de la VED; persigue el Peugeot de oído.
-- [[02_Characters/Elena_Vega]] — Chief of Police; disciplina moral y choque ideológico con Kal.
+- [[02_Characters/Dana_Collins]] — teniente argentina, líder de la VED; persigue el Peugeot de oído.
+- [[02_Characters/Renata_Clark]] — Chief of Police; disciplina moral y choque ideológico con Kal.
 - [[02_Characters/Raymond_Keene]] — jefe de policía anterior asesinado por Varek.
 - [[02_Characters/Luis_Ortega]] — Detective 1 / Homicidios; principal antagonista policial local de Kal.
 - [[02_Characters/Gloria_Chen]] — crimen organizado / vice; conoce el ecosistema de Varek.

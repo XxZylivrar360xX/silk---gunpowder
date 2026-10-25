@@ -125,7 +125,7 @@ Al iniciar la novela, Varek manda matar o permite matar a [[02_Characters/Raymon
 
 La utilidad narrativa no es sólo quitar a un funcionario. Es mostrar cómo gobierna Varek: si una pieza institucional estuvo coludida y después se volvió problema, se convierte en mensaje.
 
-La llegada de [[02_Characters/Elena_Vega]] es una consecuencia que Varek subestima al principio.
+La llegada de [[02_Characters/Renata_Clark]] es una consecuencia que Varek subestima al principio.
 
 > **DISEÑO:** Varek ya está a medio camino — entendió que hay una aventura. Es el candidato natural a descubrir la unión invisible entera. Y es también el candidato natural a ser quien rechazó a Kal por "demasiado listo" en H2 — lo que convertiría todo el ascenso en la consecuencia de un error suyo.
 

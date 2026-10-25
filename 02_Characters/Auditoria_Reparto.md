@@ -104,14 +104,14 @@ Niveles:
 | [[02_Characters/Leone_Valenti]] | B | 60% | II-V | Consorcio / Chiara |
 | [[02_Characters/Andrew_Callahan]] | B | 55% | IV-V | los federales como estructura |
 | [[02_Characters/Mara_Ellison]] | B | 60% | IV-V | antagonista personal investigativa de Kal |
-| [[02_Characters/Elena_Vega]] | B | 65% | I-V | ley vs venganza |
+| [[02_Characters/Renata_Clark]] | B | 65% | I-V | ley vs venganza |
 
-**Comentario sincero:** Dario debe ser el antagonista criminal central. Halbrook, Valenti, Vega y Meridian no pueden desplazarlo todos a la vez. Funcionan si cada uno ataca una columna distinta:
+**Comentario sincero:** Dario debe ser el antagonista criminal central. Halbrook, Valenti, Clark y Meridian no pueden desplazarlo todos a la vez. Funcionan si cada uno ataca una columna distinta:
 
 - Dario: ciudad / poder.
 - Halbrook: pasado militar / deuda.
 - Valenti: apellido / Consorcio.
-- Vega: legitimidad de la justicia individual.
+- Clark: legitimidad de la justicia individual.
 - Meridian: patrón federal / expediente.
 
 ---
@@ -138,7 +138,7 @@ Niveles:
 
 | Personaje | Prioridad | Desarrollo estimado | Fases | Uso |
 |---|---:|---:|---|---|
-| [[02_Characters/Elena_Vega]] | B | 65% | I-V | Chief, conflicto ideológico |
+| [[02_Characters/Renata_Clark]] | B | 65% | I-V | Chief, conflicto ideológico |
 | [[02_Characters/Raymond_Keene]] | D/E | 20% | I | cadáver detonante |
 | [[02_Characters/Luis_Ortega]] | B/C | 45% | II-V | Homicidios, antagonista policial local |
 | [[02_Characters/Noah_Pierce]] | C | 30% | II-V | duda joven |
@@ -146,7 +146,7 @@ Niveles:
 | [[02_Characters/Claire_Han]] | C | 35% | II-V | fiscal local |
 | [[02_Characters/Blake_Stanton]] | C | 30% | I-III | error de identificación, patrulla/tránsito |
 
-**Comentario sincero:** la policía local debe ser útil, pero no robarle la novela a los federales/Vega. Luis y Noah bastan como pareja de detectives. Gloria entra cuando aparece Varek. Claire entra cuando hay que probar lo que la policía cree saber.
+**Comentario sincero:** la policía local debe ser útil, pero no robarle la novela a los federales/Clark. Luis y Noah bastan como pareja de detectives. Gloria entra cuando aparece Varek. Claire entra cuando hay que probar lo que la policía cree saber.
 
 ---
 
@@ -198,7 +198,7 @@ Niveles:
 
 ### Fase I — Primer favor
 
-**Activos:** Kal, Chiara, Blake, Dario, Silas, Héctor, Nadir, Danny, Varek como amenaza lateral, Raymond Keene muere o su muerte abre crisis, Elena Vega entra.
+**Activos:** Kal, Chiara, Blake, Dario, Silas, Héctor, Nadir, Danny, Varek como amenaza lateral, Raymond Keene muere o su muerte abre crisis, Renata Clark entra.
 
 **Uso limitado:** Tyler puede aparecer por H9 si confirma la carrera.
 
@@ -206,7 +206,7 @@ Niveles:
 
 ### Fase II — La fórmula
 
-**Activos:** Dario, Silas, Varek/Keene/Vega, Luis-Ortega/Noah, Gloria, Harper, Tyler, primera banda menor.
+**Activos:** Dario, Silas, Varek/Keene/Clark, Luis-Ortega/Noah, Gloria, Harper, Tyler, primera banda menor.
 
 **Entradas recomendadas:** Los Calderos, Marcadores de Milla, La Ronda.
 
@@ -222,7 +222,7 @@ Niveles:
 
 ### Fase IV — La ciudad
 
-**Activos:** Dario al máximo, Varek contra El Patio, Vega, Luis/Noah/Claire, Callahan, Mara, Priya, Nora, Sofia, Garrett, Russ, Ren, Naomi.
+**Activos:** Dario al máximo, Varek contra El Patio, Clark, Luis/Noah/Claire, Callahan, Mara, Priya, Nora, Sofia, Garrett, Russ, Ren, Naomi.
 
 **Entradas recomendadas:** Meridian escalonada, no de golpe.
 
@@ -230,7 +230,7 @@ Niveles:
 
 ### Fase V — La factura
 
-**Activos:** Kal, Chiara, Héctor, Marisol, Dario o su consecuencia, Vega, Callahan/Mara/Sofia, Garrett, Russ, Nadir.
+**Activos:** Kal, Chiara, Héctor, Marisol, Dario o su consecuencia, Clark, Callahan/Mara/Sofia, Garrett, Russ, Nadir.
 
 **Reducir:** bandas menores, patrulleros, técnicos federales, políticos secundarios.
 

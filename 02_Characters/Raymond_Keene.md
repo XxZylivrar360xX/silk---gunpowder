@@ -38,14 +38,14 @@ Keene abre tres preguntas:
 - por qué dejó de servirle a Varek;
 - quién dentro del Departamento quedó expuesto por su muerte.
 
-No necesita estar vivo para pesar. Su cadáver deja un departamento en crisis y una silla demasiado caliente para [[02_Characters/Elena_Vega]].
+No necesita estar vivo para pesar. Su cadáver deja un departamento en crisis y una silla demasiado caliente para [[02_Characters/Renata_Clark]].
 
 ---
 
 ## Conexiones
 
 - [[02_Characters/Dario_Varek]] — lo manda matar o permite que lo maten cuando se vuelve problema.
-- [[02_Characters/Elena_Vega]] — su muerte permite la llegada de Vega.
+- [[02_Characters/Renata_Clark]] — su muerte permite la llegada de Clark.
 - [[03_Factions/Departamento_de_Policia_de_San_Aurelio]] — institución que deja bajo sospecha.
 
 ---
@@ -54,7 +54,7 @@ No necesita estar vivo para pesar. Su cadáver deja un departamento en crisis y 
 
 > **PENDIENTE:** grado exacto de colusión con Varek: dinero, favores, omisión o chantaje.
 
-> **Caso Vera (2026-10-03):** la noche Vera ocurre durante el Libro I, después de la muerte de Keene; la omisión pasa a [[02_Characters/Elena_Vega]].
+> **Caso Vera (2026-10-03):** la noche Vera ocurre durante el Libro I, después de la muerte de Keene; la omisión pasa a [[02_Characters/Renata_Clark]].
 >
 > Plan anterior retirado: [[97_Supersedido/Keene_Omision_En_Caso_Vera]].
 

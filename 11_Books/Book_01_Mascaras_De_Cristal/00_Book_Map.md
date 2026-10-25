@@ -3,7 +3,7 @@
 ## Arquitectura operativa vigente — 2026-09-22
 
 > **NUMERACIÓN DEFINITIVA (2026-10-22, autor; 57 capítulos desde 2026-10-23):** el Libro I usa numeración corrida de 57
-> capítulos (el 2026-10-23 la persecución con Collins se separó del Cap. 10 como Cap. 11, *La sargenta*, archivo `08b`;
+> capítulos (el 2026-10-23 la persecución con Collins se separó del Cap. 10 como Cap. 11, *La teniente*, archivo `08b`;
 > los antiguos Caps. 11–56 corrieron a 12–57; los documentos fechados el 2026-10-22 usan la numeración de 56). Cambia sólo el encabezado visible (`# Capítulo N — Título`); **los nombres de archivo
 > no cambian**, así que el prefijo del archivo ya no coincide con el número del capítulo desde el 5.
 > Parte I = Caps. 1–30 (archivos 01–25); Parte II = Caps. 31–40 (archivos 26–34, con 33b);
@@ -24,7 +24,7 @@
 | 8 | `06` | Ambos |
 | 9 | `07` | La noche del ladrillo |
 | 10 | `08` | La carrera de máscaras |
-| 11 | `08b` | La sargenta |
+| 11 | `08b` | La teniente |
 | 12 | `09` | La balanza |
 | 13 | `10` | Los muchachos comen |
 | 14 | `11` | El farol |

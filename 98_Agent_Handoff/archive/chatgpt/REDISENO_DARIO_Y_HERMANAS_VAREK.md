@@ -304,7 +304,7 @@ La ironía futura:
 
 # 11. Lucia y Elena Vega
 
-El rediseño NO elimina necesariamente a `[[02_Characters/Elena_Vega]]`.
+El rediseño NO elimina necesariamente a `[[02_Characters/Renata_Clark]]`.
 
 Dirección recomendada:
 
@@ -1205,7 +1205,7 @@ Cuando el autor apruebe migrar el rediseño:
 - crear `02_Characters/Lucia_Varek.md`
 - crear `02_Characters/Beatrice_Varek.md`
 - crear `02_Characters/Vivian_Varek.md`
-- revisar `02_Characters/Elena_Vega.md`
+- revisar `02_Characters/Renata_Clark.md`
 - revisar `02_Characters/Camila_Rivas.md` sólo para asegurar que Trix no duplique su función
 - revisar `02_Characters/Kenji_Oda.md` únicamente por el arco futuro reservado
 

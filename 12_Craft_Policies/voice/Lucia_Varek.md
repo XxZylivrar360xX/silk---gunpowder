@@ -1,6 +1,6 @@
 # Ficha de Voz - Lucía Varek
 
-> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I_Tanda_2]]). Vara: el interrogatorio del Cap. 13. Ancla secundaria: el hospital del Cap. 15, reescrito el 2026-10-04 por decisión del autor (abajo). Ficha de personaje: [[02_Characters/Lucia_Varek]] (subjefa, segunda al mando bajo Elena Vega; hija mayor de Dario Varek).
+> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I_Tanda_2]]). Vara: el interrogatorio del Cap. 13. Ancla secundaria: el hospital del Cap. 15, reescrito el 2026-10-04 por decisión del autor (abajo). Ficha de personaje: [[02_Characters/Lucia_Varek]] (subjefa, segunda al mando bajo Renata Clark; hija mayor de Dario Varek).
 > **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
 
 ## Cadencia y sintaxis
