@@ -30,7 +30,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 15:47"
+      "desde": "2026-10-24 23:17"
     },
     "05a_Cliente_Y_Proveedor.md": {
       "capitulo": 5,
@@ -38,7 +38,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 11:29"
+      "desde": "2026-10-24 23:18"
     },
     "05b_Sin_Llamar_A_Nadie.md": {
       "capitulo": 6,
@@ -126,7 +126,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-10-23",
-      "desde": "2026-10-23 23:17"
+      "desde": "2026-10-24 23:06"
     },
     "14_La_Regla_Del_Telefono.md": {
       "capitulo": 17,
@@ -847,6 +847,36 @@
       "2026-10-24 18:56",
       "Cap. 11 (08b_La_Sargenta.md)",
       "audio generado"
+    ],
+    [
+      "2026-10-24 22:52",
+      "Cap. 4 (04_Tarifa_Nocturna.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-24 22:58",
+      "Cap. 16 (13_Auster.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-24 23:06",
+      "Cap. 5 (05a_Cliente_Y_Proveedor.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-24 23:06",
+      "Cap. 16 (13_Auster.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-24 23:17",
+      "Cap. 4 (04_Tarifa_Nocturna.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-24 23:18",
+      "Cap. 5 (05a_Cliente_Y_Proveedor.md)",
+      "audio regenerado"
     ]
   ]
 }

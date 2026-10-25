@@ -629,7 +629,21 @@ Ella tachó la cifra de valet y escribió *naviera* en el margen. Tardó más de
 
 —Treinta días —dijo.
 
-—Treinta días.
+—Treinta días. —Kal miró la hoja tachada—. Y yo que le firmé un contrato a ese viejo para que se lo llevara la parca al día siguiente.
+
+—¿Keene?
+
+—Seis patrullas, tres meses. Firmó la primera hoja.
+
+Lo dijo como se dice de una apuesta perdida. Chiara entendió la cuenta que él ya había hecho: una firma de un muerto, en un escritorio vacío, iba a pasar ahora por más ojos que los del muerto.
+
+—No está perdido. Está sin dueño. —Se recargó en la silla—. La que manda ahora no se deja ver; si la busca usted esta semana, va a parecer que vino a cobrarle al muerto. Pero hay una teniente del turno de noche que vive en la calle. Ésa sabe qué patrulla se le muere a media persecución.
+
+—¿Cómo sabe eso?
+
+—Fui a su despedida.
+
+Kal la miró un momento largo, como si acabara de cambiar de lugar una pieza que él ya había dado por perdida. No dijo nada.
 
 —Su nombre en mi factura —dijo Chiara—. ¿Ya es otro momento?
 

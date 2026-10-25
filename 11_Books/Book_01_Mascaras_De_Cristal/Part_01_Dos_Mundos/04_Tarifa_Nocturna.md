@@ -163,6 +163,14 @@ Pidió un taxi.
 
 ***
 
+El taxi la recogió bajo la marquesina, entre dos coches del hotel con el motor encendido que nadie había pedido. El portero le abrió la puerta con la cara de quien no estaba de acuerdo.
+
+El Bulevar Corona salía del casino derecho hacia el este, y durante un rato la ciudad fue sólo La Isla. A la derecha, del lado del mar, pasaron los clubes: cortinas metálicas abajo, letreros de neón apagados que de día casi no se leían, un hombre baldeando una acera con la manguera. Entre un club y otro aparecía el agua, gris de media mañana, y desaparecía.
+
+Después vinieron las torres de Punta Dorada. Vidrio, grúas, lonas de constructora colgadas de edificios a medio vender, banquetas anchas y vacías. La ciudad que salía en las fotos tenía el sol de frente y nadie que la caminara. En la radio, un locutor hablaba de Plaza Corona con voz de domingo.
+
+El Puente de Piedra tardó más de lo que ella esperaba. Cinco kilómetros de piedra gris sobre la bahía, el tráfico detenido a ratos y gaviotas en el barandal como si cobraran peaje. Abajo el agua era verde y quieta. Enfrente, el centro crecía despacio: primero el reloj del Ayuntamiento, después las fachadas viejas, una por una.
+
 El centro de San Aurelio no intentaba seducirla. Eso le gustó.
 
 Calle Corona tenía juzgados, bancos viejos, oficinas municipales, cafeterías con mesas demasiado juntas y gente que caminaba rápido aunque no pareciera ir a ningún lugar bueno. Esa mañana también tenía vallas.
@@ -265,7 +273,7 @@ Blake se miró la mano, como si todavía la tuviera en la sien. Luego jaló la s
 
 Blake levantó la vista. Por primera vez la miró a ella y no al efecto que estaba haciendo.
 
-—Ése sí. Ésos dos eran patrulla juntos cuando yo iba a la primaria. —Se encogió de hombros—. Los de adelante saludaban para la alcaldía. Los de en medio, para la tele. Los que se fueron antes de que acabara, para que nadie los viera irse.
+—Ése sí —dijo él—. Ésos dos eran patrulla juntos cuando yo iba a la primaria. —Se encogió de hombros—. Los de adelante saludaban para la alcaldía. Los de en medio, para la tele. Los que se fueron antes de que acabara, para que nadie los viera irse.
 
 —¿Y tú?
 
@@ -301,7 +309,7 @@ Comieron con la televisión encima. Blake habló poco mientras masticaba, y ese 
 
 Chiara debería haber dicho no.
 
-No porque Blake fuera peligroso. Porque era obvio, y porque un velorio de policías no era lugar para una desconocida con acento y un casino detrás.
+No porque Blake fuera peligroso. Porque era obvio, y porque una despedida de policías no era lugar para una desconocida con acento y un casino detrás.
 
 Pero en Palermo los muertos importantes tenían dos entierros, el de la iglesia y el de la mesa, y en el segundo se decía lo que en el primero no. Si quería saber quién lloraba a Keene y quién sólo bebía por él, esa sala no se la iban a volver a abrir.
 
@@ -400,6 +408,12 @@ Tenía un acento que Chiara no supo colocar, de vocales abiertas, y al final se 
 —Y vos cuidame el lugar.
 
 Dejó la cerveza a la mitad y salió. Nadie se lo reprochó. Chiara no alcanzó a verle la cara entre los hombros.
+
+Blake se inclinó hacia ella, con la cerveza ya hablando por él.
+
+—La teniente del turno de noche. —Señaló la puerta con el vaso—. La que manda ahora no se deja ver; hoy ni volteó a la gente. Ésta vive en la calle. Si hay persecución, la que va en cabeza es ella.
+
+Chiara pensó en la nuca del coche negro, en el cabello recogido sin un pelo fuera de lugar.
 
 La noche avanzó con la velocidad de las cosas que no importaban. Blake le presentó amigos, no personas. Un patrullero que presumía persecuciones. Una mujer de tránsito que bebía tequila con disciplina militar. Todos miraban el acento antes que la cara.
 
