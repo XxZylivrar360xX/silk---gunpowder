@@ -33,6 +33,21 @@ MANIFEST_NAME = "manifest.json"
 # Tracked in git: which chapters have audio that no longer matches the prose.
 LOG_DIR = SCRIPT_DIR / "bitacora"
 RETRIES = 3
+# Metadata the players show: album title and saga position per book.
+BOOKS = {
+    "Book_01_Mascaras_De_Cristal": ("Máscaras de Cristal", "I"),
+    "Book_02_Sombras_De_Poder": ("Sombras de Poder", "II"),
+    "Book_03_Voto_De_Ceniza": ("Voto de Ceniza", "III"),
+    "Book_04_Cuentas_De_Sangre": ("Cuentas de Sangre", "IV"),
+    "Book_05_Juramento_De_Hierro": ("Juramento de Hierro", "V"),
+    "Book_06_Hijos_Del_Silencio": ("Hijos del Silencio", "VI"),
+    "Book_07_Camino_A_Casa": ("Camino a Casa", "VII"),
+}
+SAGA = "Seda y Pólvora"
+AUTHOR = "Víctor Paz"
+YEAR = "2026"
+COVERS_DIR = VAULT_ROOT / "99_Reference" / "book_covers"
+COVER_SIZE = 800  # px; the source PNGs weigh ~2 MB and go into every MP3
 
 HEADING_RE = re.compile(r"^#\s+(?:Capítulo|Capitulo)\s+(\d+)\s*[—–:.-]\s*(.+)$", re.MULTILINE)
 SCENE_BREAK_RE = re.compile(r"^\s*(?:\*\s*\*\s*\*|-{3,}|⁂)\s*$", re.MULTILINE)
@@ -152,6 +167,42 @@ async def synthesize(text: str, voice: str, rate: str, target: Path) -> None:
             await asyncio.sleep(5 * attempt)
 
 
+def load_cover(book: str) -> bytes | None:
+    """The book's cover as a small JPEG, or None if there is no cover yet."""
+    stem = book.split("_", 2)[-1].lower()
+    found = [p for p in COVERS_DIR.glob("*.png") if p.stem.lower().startswith(stem + "_")]
+    if not found:
+        print(f"  sin portada para {book} en {COVERS_DIR.relative_to(VAULT_ROOT)}")
+        return None
+    from io import BytesIO
+    from PIL import Image
+    with Image.open(found[0]) as image:
+        image.thumbnail((COVER_SIZE, COVER_SIZE))
+        buffer = BytesIO()
+        image.convert("RGB").save(buffer, "JPEG", quality=88)
+    return buffer.getvalue()
+
+
+def tag_audio(target: Path, chapter: dict, total: int, book: str, cover: bytes | None) -> None:
+    """Write title, album, author, track and cover; replaces any previous tags."""
+    from mutagen.id3 import APIC, ID3, TALB, TCON, TDRC, TIT1, TIT2, TIT3, TPE1, TPE2, TRCK
+    title, position = BOOKS.get(book, (book.split("_", 2)[-1].replace("_", " "), ""))
+    subtitle = f"{SAGA} · Libro {position}" if position else SAGA
+    tags = ID3()
+    tags.add(TIT2(encoding=3, text=f"Capítulo {chapter['number']} — {chapter['title']}"))
+    tags.add(TIT3(encoding=3, text=subtitle))
+    tags.add(TIT1(encoding=3, text=SAGA))
+    tags.add(TALB(encoding=3, text=title))
+    tags.add(TPE1(encoding=3, text=AUTHOR))
+    tags.add(TPE2(encoding=3, text=AUTHOR))
+    tags.add(TRCK(encoding=3, text=f"{chapter['number']}/{total}"))
+    tags.add(TCON(encoding=3, text="Audiolibro"))
+    tags.add(TDRC(encoding=3, text=YEAR))
+    if cover:
+        tags.add(APIC(encoding=3, mime="image/jpeg", type=3, desc="Portada", data=cover))
+    tags.save(target, v2_version=3)  # ID3v2.3: what Windows and most players read
+
+
 def safe_filename(number: str, title: str) -> str:
     return f"{int(number):02d} - {FILENAME_UNSAFE_RE.sub('', title)}.mp3"
 
@@ -183,6 +234,9 @@ def parse_args() -> argparse.Namespace:
                         help="Solo actualiza la bitácora (sin red, sin audio).")
     parser.add_argument("--probar-diccionario", action="store_true", dest="test_dictionary",
                         help="Genera un MP3 que lee cada entrada del diccionario.")
+    parser.add_argument("--etiquetar", action="store_true", dest="tag_only",
+                        help="Reescribe título, álbum, autor y portada de los MP3 existentes "
+                             "(sin red, sin audio).")
     return parser.parse_args()
 
 
@@ -223,6 +277,15 @@ def main() -> None:
     if missing:
         raise SystemExit(f"No encontré los capítulos: {sorted(missing)}")
 
+    if args.tag_only:
+        cover = load_cover(args.book)
+        for chapter in chapters:
+            if chapter["target"].exists() and (not wanted or chapter["number"] in wanted):
+                tag_audio(chapter["target"], chapter, len(chapters), args.book, cover)
+                print(f"  etiqueta  {chapter['target'].name}")
+        return
+
+    cover = None if args.status_only or args.text_only else load_cover(args.book)
     for chapter in chapters:
         if args.status_only or (wanted and chapter["number"] not in wanted):
             continue
@@ -242,6 +305,7 @@ def main() -> None:
         if record.get("file") and old != target and old.exists():
             old.unlink()  # chapter renamed or renumbered
         asyncio.run(synthesize(chapter["text"], args.voice, args.rate, target))
+        tag_audio(target, chapter, len(chapters), args.book, cover)
         manifest[chapter["source"]] = {
             "file": target.name, "hash": chapter["hash"], "prose": chapter["prose"],
             "date": datetime.date.today().isoformat(),
