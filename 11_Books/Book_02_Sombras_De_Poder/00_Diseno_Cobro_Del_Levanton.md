@@ -29,11 +29,29 @@
 - **Kal perdona, ella no:** invierte la regla del final del libro (Kal deja vivo a Crowe y Walt lo ejecuta). Dos veces en el libro alguien de los suyos mata al que Kal perdonó. Hay que decidir si es un patrón deliberado o si una de las dos se mueve.
 - **Lugar:** los túneles bajo el Monarch y La Isla ya existen en el diseño del robo ([[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Robo_Joyeria]], "Los túneles"); el túnel este es del Monarch. Alternativa: vías muertas de Las Calderas, donde estuvo la bodega del levantón (cierre en espejo).
 
+## Decisiones del autor (2026-10-26)
+
+- **Ubicación:** Parte I o Parte II, siempre antes de F2.
+- **Son de [[03_Factions/Los_Calderos]]** (Las Calderas, sur; cabeza: Mack Calderon). Puede subir mucho la atención sobre esa banda. Amarre (DISEÑO): el corralón del sur que perdió el resguardo de la fiscalía era de los Calderos y le pagaba cuota a Crowe. Crowe alquila músculo con su propio rencor, y por eso "Varek. Casino." los asusta: viven bajo el clima de Dario.
+- **La seña es una frase, pero no regional.** Propuesta: "Nadie tiene prisa", dicha en la camioneta con la mano en la pierna (cobra "la prisa no era el punto" del Cap. 12). En el casino se la dice al crupier mientras golpetea el anillo en el paño.
+
+## Propuesta para separarlo de Crowe/Walt (DISEÑO, espera al autor)
+
+| | Crowe (final del II) | El de los Calderos |
+|---|---|---|
+| Decisión | Walt contra Kal | Kal le pasa la decisión a ella ("Es tuyo"): complicidad, no desacato |
+| Línea | cortada a media palabra ("la muert...") | completa; ella pide "¿Me lo repite?" (eco del Cap. 7) y él lo repite |
+| Temperatura | caliente, en pleno tiroteo | fría, en silencio, sin prisa |
+| Motivo | venganza por el pasado (Amanda) | cerrar un futuro: la línea sucia promete repetirlo con otra |
+| Arma | la de Walt | la de Kal, que él le da |
+| Costo | fricción Kal–Walt sin resolver | los une; queda un testigo vivo y la pregunta de quién construye la versión (eco con Alessio) |
+| Distancia | Parte IV | Parte I o II; cuando Walt dispara, Kal ya estuvo ahí: rima consciente, no repetición |
+
 ## Pendientes del autor
 
 1. **Ubicación:** con Mei-Lin, Bonnie y Ren dentro, cabe en la Parte II (después de que el Patio se vuelve familia; antes del choque) o al abrir la III, antes de F2 (Mei-Lin muere y Bonnie se va en la III).
-2. **La señal del reconocimiento:** sembrarla ya en el Cap. 12. Propuesta: el de la máscara habla una vez en la camioneta, en voz baja, con una frase vulgar de las que se repiten sin pensar (p. ej. "Calladita te ves más bonita"), y golpetea el anillo contra la lámina. En el casino la dice a una mesera o crupier, y el anillo golpetea el paño.
+2. **La seña:** confirmar "Nadie tiene prisa" y sembrarla en el Cap. 12.
 3. **Lo que dice antes de morir:** la línea "tan sucia y tan baja" es del autor.
-4. **Quiénes son:** escoria que Crowe alquiló por una mañana. ¿De qué banda? Si son de Las Calderas ([[03_Factions/Los_Calderos]]), la muerte es combustible directo para la guerra del III.
+4. **Los Calderos:** si Mack Calderon sabe que fue la mujer de Mercer.
 5. **¿Crowe se entera?** Muere al final del II; sus alquilados muertos o sueltos pesan en el clima de la tormenta.
 6. **Libro I:** dónde se ve a Kal buscar y no encontrar (candidato: el Cap. 13, junto a la vitrina de la bolsa de Rowe).
