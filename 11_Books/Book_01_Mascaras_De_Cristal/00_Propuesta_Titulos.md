@@ -1,6 +1,6 @@
 # Propuesta de retitulado — *Máscaras de Cristal*
 
-**Estado:** APLICADO 2026-10-21 (decisión del autor: candidata recomendada en cada fila; 32, 39 y 40 se mantienen). **Ajuste 2026-10-22 (autor):** 16, 18, 21 y 22 vuelven a *El sobre rojo*, *El día nublado*, *El primer huésped* y *Causalidad* (decididos en la primera ronda, ver [[01_Timeline/08_Matriz_Renombramiento_Capitulos_Libro_I]]); 28 pasa de *Te queda grande* a **No hace falta** (de "*Cielo*, no hace falta."); 33 se queda con **Lo único que es mío** (decidido).
+**Estado:** APLICADO 2026-10-21 (decisión del autor: candidata recomendada en cada fila; 32, 39 y 40 se mantienen). **Ajuste 2026-10-22 (autor):** 16, 18, 21 y 22 vuelven a *El sobre rojo*, *El día nublado*, *El primer huésped* y *Causalidad* (decididos en la primera ronda, ver [[01_Timeline/08_Matriz_Renombramiento_Capitulos_Libro_I]]); 28 pasa de *Te queda grande* a **No hace falta** (de "*Cielo*, no hace falta."); 33 se queda con **Lo único que es mío** (decidido). **Ajuste 2026-10-25 (autor):** el actual Cap. 13 (archivo 10) cambia de *Los muchachos comen* a **Dos sillas vacías**.
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
@@ -16,7 +16,7 @@ La primera candidata de cada fila es la recomendación del agente.
 
 | Cap. | Título actual | Candidatas (de la prosa) | Por qué |
 |---|---|---|---|
-| 10 | El loft del soltero | **Los muchachos comen** · El balcón se queda · Dos sillas vacías | "Los muchachos comen" es la excusa de Kal para una cocina de familia; ella se la devuelve después y él la reconoce. Casa para muchos disfrazada de loft. "El balcón se queda" es la única decisión que sale de él entera, sobre el lugar donde vio a Dale por última vez. |
+| 10 | **Dos sillas vacías** | Los muchachos comen · El balcón se queda | Toma la imagen final de la primera cena en la casa: seis comensales, dos lugares libres. La casa ya deja espacio para otros sin que nadie lo explique. |
 | 15 | El portón | **Yo lo llevo** · La puerta ya estaba abierta | Cumple la promesa de traerle ella misma lo que le llegue; y decide no usar las llaves. |
 | 16 | El sobre rojo | **Con miedo y todo** · Seis a cuatro | Línea de Héctor: "Se hace igual. Con miedo y todo." Resume a Kal frente a Chiara. "Seis a cuatro" cierra el capítulo con Marisol. |
 | 17 | Cuentas claras | **Le quedé debiendo** · Avísenme | La deuda con Irene es un nombre: siembra el Tasador. Ojo: "Un nombre" chocaría con el 48 *Su nombre*. |
