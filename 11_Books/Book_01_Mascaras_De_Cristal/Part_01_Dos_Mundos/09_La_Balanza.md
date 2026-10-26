@@ -57,7 +57,7 @@ Después, sin cambiar de tono, preguntó por Dario.
 
 —El señor Varek cree que hoy estoy en el spa.
 
-Rowe se rió, la misma risa corta de pasillo de juzgado que Chiara le había oído afuera del Monarch, y no insistió. Partió el resto del pastel en cuatro pedazos iguales antes de seguir.
+Rowe le miró el vestido —blanco, de manga larga y hombro marcado, entallado hasta medio muslo, con un broche de cristales en la cintura— y las sandalias plateadas de tacón fino, con un moño de pedrería sobre el empeine. No dijo que nadie va así al spa. Se rió, la misma risa corta de pasillo de juzgado que Chiara le había oído afuera del Monarch, y no insistió. Partió el resto del pastel en cuatro pedazos iguales antes de seguir.
 
 —La semana pasada vino su proveedor. Mercer.
 
@@ -219,7 +219,7 @@ Chiara le enseñó el índice.
 
 —Se me rompió la uña.
 
-Le miró la muñeca sin tocarla, de un lado y del otro, como miraba una pieza antes de decidir si se podía salvar. Le miró las rodillas, raspadas por el asfalto. Le miró el labio. Después le apartó el pelo de la sien con un dedo, lo primero que le tocó, y encontró el chichón y la sangre seca en la raíz del pelo, y se quedó mirándolo más de lo que había mirado nada.
+Le miró la muñeca sin tocarla, de un lado y del otro, como miraba una pieza antes de decidir si se podía salvar. Le miró las rodillas, raspadas por el asfalto. Le miró el labio, y la sangre que le había caído en el blanco del vestido, a la altura del pecho. Después le apartó el pelo de la sien con un dedo, lo primero que le tocó, y encontró el chichón y la sangre seca en la raíz del pelo, y se quedó mirándolo más de lo que había mirado nada.
 
 Chiara le vio en la cara algo que no le conocía, ni siquiera de la noche del ladrillo. No era enojo. Era algo más quieto que el enojo, y más frío, que le bajó por la cara como se baja una cortina de local. Duró un segundo. Después se levantó y miró a Rowe: los pies descalzos, la mejilla, la correa cortada que todavía le colgaba del hombro.
 
