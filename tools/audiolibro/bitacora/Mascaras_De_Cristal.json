@@ -77,7 +77,7 @@
       "titulo": "La carrera de máscaras",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-23",
+      "audio": "2026-10-25",
       "desde": "2026-10-23 23:17"
     },
     "08b_La_Sargenta.md": {
@@ -93,23 +93,23 @@
       "titulo": "La balanza",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-23",
-      "desde": "2026-10-23 23:17"
+      "audio": "2026-10-25",
+      "desde": "2026-10-25 23:26"
     },
     "10_El_Loft_Del_Soltero.md": {
       "capitulo": 13,
-      "titulo": "Los muchachos comen",
+      "titulo": "Dos sillas vacías",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-23",
-      "desde": "2026-10-23 23:17"
+      "audio": "2026-10-25",
+      "desde": "2026-10-25 23:35"
     },
     "11_El_Farol.md": {
       "capitulo": 14,
       "titulo": "El farol",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-23",
+      "audio": "2026-10-25",
       "desde": "2026-10-23 23:17"
     },
     "12_Roma_Atrii.md": {
@@ -117,7 +117,7 @@
       "titulo": "Roma Atrii",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-23",
+      "audio": "2026-10-25",
       "desde": "2026-10-23 23:17"
     },
     "13_Auster.md": {
@@ -125,7 +125,7 @@
       "titulo": "Auster",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-23",
+      "audio": "2026-10-25",
       "desde": "2026-10-24 23:06"
     },
     "14_La_Regla_Del_Telefono.md": {
@@ -133,7 +133,7 @@
       "titulo": "La regla del teléfono",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-23",
+      "audio": "2026-10-25",
       "desde": "2026-10-24 00:37"
     },
     "15_El_Porton.md": {
@@ -141,7 +141,7 @@
       "titulo": "Yo lo llevo",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-23",
+      "audio": "2026-10-25",
       "desde": "2026-10-24 00:37"
     },
     "16_El_Sobre_Rojo.md": {
@@ -149,7 +149,7 @@
       "titulo": "El sobre rojo",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-23",
+      "audio": "2026-10-25",
       "desde": "2026-10-24 00:37"
     },
     "17_Cuentas_Claras.md": {
@@ -157,7 +157,7 @@
       "titulo": "Le quedé debiendo",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-23",
+      "audio": "2026-10-25",
       "desde": "2026-10-24 00:37"
     },
     "18_El_Dia_Nublado.md": {
@@ -877,6 +877,36 @@
       "2026-10-24 23:18",
       "Cap. 5 (05a_Cliente_Y_Proveedor.md)",
       "audio regenerado"
+    ],
+    [
+      "2026-10-25 23:19",
+      "Cap. 12 (09_La_Balanza.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-25 23:19",
+      "Cap. 13 (10_El_Loft_Del_Soltero.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-25 23:26",
+      "Cap. 12 (09_La_Balanza.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-25 23:26",
+      "Cap. 13 (10_El_Loft_Del_Soltero.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-25 23:33",
+      "Cap. 13 (10_El_Loft_Del_Soltero.md)",
+      "audio borrado"
+    ],
+    [
+      "2026-10-25 23:35",
+      "Cap. 13 (10_El_Loft_Del_Soltero.md)",
+      "audio generado"
     ]
   ]
 }

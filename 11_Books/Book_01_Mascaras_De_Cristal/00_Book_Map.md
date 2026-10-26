@@ -26,7 +26,7 @@
 | 10 | `08` | La carrera de máscaras |
 | 11 | `08b` | La teniente |
 | 12 | `09` | La balanza |
-| 13 | `10` | Los muchachos comen |
+| 13 | `10` | Dos sillas vacías |
 | 14 | `11` | El farol |
 | 15 | `12` | Roma Atrii |
 | 16 | `13` | Auster |
@@ -96,6 +96,8 @@ H8, F4, F3, F2, Villa, Stavanger y H1 ya no pertenecen a este libro — ver
 (el embarazo se confirma en Libro II, no en éste).
 
 > **RETITULADO — DECISIÓN DEL AUTOR (2026-10-21):** *(números en numeración corrida 2026-10-22; entre paréntesis, el archivo)* C12 (arch. 10) **Los muchachos comen** (antes *El loft del soltero*); C17 (arch. 15) **Yo lo llevo** (antes *El portón*); C18 (arch. 16) **El sobre rojo** (probado *Con miedo y todo* y revertido 2026-10-22 por el autor; conserva "Cuatro letras" como encabezado interno); C19 (arch. 17) **Le quedé debiendo** (antes *Cuentas claras*); C21 (arch. 19) **Lo que nadie estaba mirando** (antes *Tierra buena*); C22 (arch. 20) **Lo pequeño** (antes *El mirador*); C25 (arch. 23) **Nada caro** (antes *La letra pequeña*); C31 (arch. 27) **Lleve equipaje** (antes *Riesgo pendiente*); C32 (arch. 28) **No hace falta** (antes *La correa*; fue *Te queda grande* del 2026-10-21 al 2026-10-22, autor); C33 (arch. 29) **Una silla** (antes *El patio ajeno*); C37 (arch. 33) **Lo único que es mío** (antes *Más de la cuenta*; decidido 2026-10-22); C54 (arch. 49) **Por si vuelve** (antes *Enfrente*). C36 (arch. 32), C44 (arch. 39) y C45 (arch. 40) se mantienen. C20 (arch. 18), C23 (arch. 21) y C24 (arch. 22) se probaron como *Nadie lo llamó cita*, *Volvemos adentro* y *Como variación* y volvieron el 2026-10-22 (autor) a *El día nublado*, *El primer huésped* y *Causalidad*, decididos en la primera ronda. Solo cambia el encabezado visible; archivos y rutas conservan el nombre viejo. Los nombres de hito (H4, H11, H14…) no cambian. Registro: [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]].
+
+> **RETITULADO — DECISIÓN DEL AUTOR (2026-10-25):** Capítulo 13 (archivo 10): **Dos sillas vacías**, antes *Los muchachos comen*. Se conserva el nombre del archivo y el nombre del hito H14. Registro actualizado en [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]] y [[01_Timeline/08_Matriz_Renombramiento_Capitulos_Libro_I]].
 
 > **TÍTULOS VIGENTES — CANON DEL AUTOR (2026-09-20):** *(numeración corrida; entre paréntesis, el archivo)* C04 **Tarifa nocturna**; C23 (arch. 21) **El primer huésped**; C24 (arch. 22) **Causalidad**; C32 (arch. 28) conserva **La correa**; C34 (arch. 30) **Media Baraja**; C37 (arch. 33) **Más de la cuenta**. Encabezados, archivos y rutas actualizados. Las menciones históricas a La primera llamada, La promesa, Sin rastro, Las cascadas y La periferia corresponden a estos mismos capítulos. Primera ronda cerrada. Registro: [[01_Timeline/08_Matriz_Renombramiento_Capitulos_Libro_I#Decisiones del autor — primera ronda (2026-09-20)]]. C23, C24, C32 y C37 se retitularon de nuevo el 2026-10-21 (nota anterior).
 

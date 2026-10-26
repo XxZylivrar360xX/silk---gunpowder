@@ -37,7 +37,7 @@
 | 7 | La noche del ladrillo | `07_La_Noche_Del_Ladrillo` | H3: fiesta de blanco, llegada de Kal y el ladrillo de arcilla. | CANON / FUERTE | Objeto concreto, escena memorable y amenaza latente. | Conservar. |
 | 8 | La carrera de máscaras | `08_La_Carrera_De_Mascaras` | H9: Peugeot, La Tramoya, Colombina, carrera y primera risa genuina de Chiara. | CANON / FUERTE | Une el objeto, el juego y la identidad performativa. | Conservar. |
 | 9 | El corral | `09_El_Corral` (2026-10-04: hoy `24c_El_Corral`; el 9 es `09_La_Balanza`) | H12: atentado, hospital, tregua, coartada y refugio temporal. | PROVISIONAL / HITO | El espacio del ataque es fuerte, pero el capítulo abarca consecuencias más amplias. | PENDIENTE: comparar contra “El atentado” sin perder el lugar concreto. |
-| 10 | El loft del soltero | `10_El_Loft_Del_Soltero` | H14: Kal recompra la casa y Chiara participa en su diseño, sin mudanza todavía. | CANON / FUERTE | Contrasta el estado soltero de Kal con la casa que ya empieza a ser de ambos. | Conservar. |
+| 10 | Dos sillas vacías | `10_El_Loft_Del_Soltero` | H14: Kal recompra la casa y Chiara participa en su diseño, sin mudanza todavía. | CANON / AUTOR (2026-10-25) | La imagen de cierre de la primera cena recoge la casa que empieza a hacer lugar para otros. | Vigente como Cap. 13; nombre de H14 y archivo no cambian. |
 | 11 | El farol | `11_El_Farol` | Mabel, Walt y el primer torneo; Chiara empieza a tocar la red civil de Kal. | PROVISIONAL | La imagen puede referir al juego, pero su función real es circulación y oído. | PENDIENTE: confirmar qué significa “farol” dentro del capítulo. |
 | 12 | Roma Atrii | `12_Roma_Atrii` | Nace i Sussurri y ocurre el primer roce entre Kal y la red de Chiara. | CANON / ARCO RESERVADO | Clave privada, no explicativa; protege el misterio. | Conservar. |
 | 13 | Auster | `13_Auster` | Chiara usa su red y el código de la Vulgata para desmontar el caso del Peugeot. | CANON / FUERTE | Palabra concreta, doble lectura de viento y código; conecta con la maniobra de Chiara. | Conservar. |
@@ -140,3 +140,5 @@ Regla y tabla completa: [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titu
 | 49 | Enfrente | Por si vuelve |
 
 Solo cambió el encabezado visible; los archivos conservan el nombre. Desde 2026-10-22 rige además la numeración corrida de 56 capítulos (tabla en el Book_Map).
+
+**Ajuste posterior (2026-10-25, autor):** el archivo 10 cambia de *Los muchachos comen* a **Dos sillas vacías** (actual Cap. 13). El ajuste de numeración de 57 capítulos es del 2026-10-23; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
