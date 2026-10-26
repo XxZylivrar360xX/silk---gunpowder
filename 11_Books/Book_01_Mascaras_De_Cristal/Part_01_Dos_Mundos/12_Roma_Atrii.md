@@ -2,6 +2,7 @@
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 12; numeración corrida definitiva, el archivo conserva su nombre.
 PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): geometría de la franja hecha visible una vez (vidrio de la caja con Kenji a un lado, puerta batiente del pasillo de servicio al otro, piso de juego a espaldas de Kal; por eso "A espaldas de Kal, en una mesa" pasa a "En una de las mesas"); segunda interferencia del casino: un mesero con una charola obliga a Kal a dar medio paso hacia ella y no lo devuelve.
 Estado: TERMINADO.
+Regla de dialogo 05 (2026-10-26, encargo del autor; DISENO pendiente de lectura; el estado se conserva): diez cortes de eco/remate en reclutamiento de Kenji, el favor y la franja del Monarch. Detalle: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_roma_atrii_cap15]].
 Arco lector 11-13 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_11-13_Lector; el estado se conserva; prosa nueva DISENO pendiente de lectura): P2, P6, P7 y P8c aplicados. ROMA ATRII escrito por fuera y el papel sin abrir (cuadra con el 14); la replica de Chiara 'Lo de adentro no era para que lo leyeras...' anadida al 'Si.' a '¿Lo escribiste tu?' se restauro a 'Si.' en VERIFY (orden de revelaciones, Cap. 38); VERIFY V6: 'que no leia' -> 'que no entendia'; las cuatro palabras de esa noche se escriben y rompen en la oficina del Monarch tras el torneo (no en el penthouse, donde llega Kal en el 11); 'La noche del torneo de Walt Keegan'; 'Chiara sonrio apenas'. R2 (2026-10-22): papel de cartas sale del bolso, no del cajón (coherencia con el cajón del penthouse del Cap. 13).
 Continuidad 2026-10-17 (CANON del autor: jefatura vacante en el Libro I, Clark entra en el II): l. 171 "la que va despues de Clark" -> "la que manda desde lo de Keene"; cobra la siembra del Cap. 7.
 Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_12_Roma_Atrii.md (§11). Resumen: marca temporal en la apertura; la pieza de la gasolinera/fiscales sale del montaje (es del Cap. 13); se corta el movimiento de la alarma del Peugeot (la razon llega solo en el dialogo de Chiara con Kal); fuera "las velas que enciendo por ti" (la vela por Kal nace despues de F4); "membrete" -> "papel de los suyos"; cortes de glosa, repeticion y POV (B1-B14); recuerdo de Palermo del hilo A en la noche del penthouse (DISEÑO del agente, pendiente de lectura del autor). Lo de abajo describe el diseno previo a la cirugia.
@@ -41,7 +42,7 @@ El joven no se sobresaltó.
 
 —¿Qué cosa?
 
-—No me haga repetirlo. Ya sabe qué cosa.
+—El sistema no cobra doble. Lo probé yo hace dos horas.
 
 Él se encogió de hombros, sin culpa y sin orgullo.
 
@@ -57,13 +58,9 @@ El joven no se sobresaltó.
 
 Chiara lo observó un momento más. No era el gesto lo que le interesaba — cualquiera con dinero suficiente podía cubrir una tarjeta ajena. Era la velocidad. La cara que no cambió. La forma en que ya tenía lista la mentira sobre el sistema antes de que Aldrich terminara de sudar.
 
-—¿Le gustaría dejar de ser otra persona en otro salón?
+—Tengo un casino —dijo—. En la caja me falta alguien: fichas, pagos de premio. Puesto fijo.
 
 Kenji dejó de apilar copas.
-
-—Depende de qué me esté ofreciendo.
-
-—Un puesto fijo. En un casino. Administraría fichas y pagos de premio.
 
 —¿Por qué yo?
 
@@ -75,7 +72,7 @@ Kenji la miró de verdad por primera vez.
 
 —¿Cuándo empiezo?
 
-—Cuando yo lo llame.
+Chiara le pidió el número. Kenji lo escribió en una servilleta de coctel, sin preguntar para qué, y volvió a las copas.
 
 ***
 
@@ -131,11 +128,7 @@ Todavía no era el momento. Pero ya sabía que iba a necesitarlo, y sabía exact
 
 Se lo propuso a Kenji un mes después, cuando ya llevaba tiempo suficiente en la caja como para que nadie se preguntara por qué Chiara pasaba cada tanto a saludarlo.
 
-—Un favor —le dijo, en voz baja, casi en italiano—. Nada que vaya a incomodarlo.
-
-—¿Qué clase de favor?
-
-—Lo que oiga en su mesa. A veces vale más de lo que cree.
+—Un favor —le dijo, en voz baja, casi en italiano—. Nada que vaya a incomodarlo. Lo que oiga en su mesa: quién pregunta por quién, quién cambia más de lo que juega. Me explico: no le pido que busque nada. Le pido que no se le olvide.
 
 Kenji no preguntó para qué, ni para quién.
 
@@ -151,9 +144,7 @@ Kenji las miró.
 
 —Nadie sospecha de una lengua muerta.
 
-—¿Y si alguien lo intercepta?
-
-—Entonces ve basura. —Chiara guardó el resto del papel en el bolso—. Si yo lo leo, veo exactamente lo que necesito.
+Kenji tomó una pluma de la caja y las copió una vez en el reverso de un comprobante, sin volver a mirar el original. Chiara le quitó el comprobante, lo rompió en cuatro y guardó el resto del papel en el bolso.
 
 Kenji no volvió a preguntar nada más esa noche. Guardó el papel donde nadie mira — entre las fichas que nadie cuenta dos veces — y desde entonces, cuando algo pasaba en el piso que valía la pena saber, Chiara lo sabía antes que nadie.
 
@@ -265,7 +256,7 @@ Chiara no buscó una versión más cómoda.
 
 —Pudiste llamarme.
 
-—Pude. —No se disculpó por eso tampoco—. Ésta no la pensé lo suficiente, y el chico pagó el precio de que no la pensara. Eso no tiene defensa, y no la voy a inventar.
+—Ésta no la pensé lo suficiente —dijo, sin disculparse por eso tampoco—, y el chico pagó el precio de que no la pensara. Eso no tiene defensa, y no la voy a inventar.
 
 Y con eso pudo haberse acabado.
 
@@ -281,7 +272,7 @@ Kal le dio vuelta al papel entre los dedos, todavía doblado en cuatro.
 
 —¿El chico?
 
-—Tampoco.
+Chiara negó con la cabeza.
 
 —¿Quién es?
 
@@ -303,9 +294,7 @@ Chiara no contestó enseguida. En una de las mesas, algo subió de tono. Ella le
 
 —El chico no sabía que estaba adentro.
 
-—Por eso no puede delatar a nadie.
-
-Kal no le contestó eso. Miró el papel.
+Para eso Chiara no tenía pieza. Kal no esperó a que la buscara; miró el papel.
 
 —Kenji sabe lo de su caja —repitió—. ¿Y lo de las otras?
 
@@ -323,19 +312,13 @@ Kal bajó la vista al papel, a la letra inclinada siempre hacia el mismo lado, a
 
 —Suena a iglesia.
 
-—Es iglesia, un poco. —Casi sonrió—. Crecí aprendiendo que una confesión no vale nada si le llega al oído equivocado.
+—Es iglesia, un poco. —Casi sonrió—. Crecí aprendiendo que una confesión no vale nada si le llega al oído equivocado. Y creo en Dios, Kal. Creo en Dios, y en que una mentira dicha con cuidado puede proteger más gente que una verdad dicha sin él. —Lo miró de frente—. ¿Tú?
 
-—Tú crees en eso. En serio.
-
-—Creo en Dios, y en que una mentira dicha con cuidado puede proteger más gente que una verdad dicha sin él. —Lo miró de frente—. Tú no crees en nada de eso.
-
-—Creo en lo que puedo pagar, arreglar o cobrar. —No sonó a defensa. Sonó a inventario.
+—En lo que puedo pagar, arreglar o cobrar. —No sonó a defensa. Sonó a inventario.
 
 Algo cerca de ternura le cruzó la cara a ella, breve, antes de que la guardara de vuelta. No le contestó. Volvió a mirar el piso, la caja, a Kenji, y otra vez a él.
 
-—Preguntó ese nombre en voz alta —dijo—. En tu patio. Delante de quien estuviera.
-
-—Ya no mando a nadie a buscar a nadie. De ahora en más, si tengo que llegarte algo, lo traigo yo.
+—Preguntó ese nombre en voz alta —dijo—. En tu patio. Delante de quien estuviera. —Se pasó la uña del pulgar por el filo de otra—. Ya no mando a nadie a buscar a nadie. De ahora en más, si tengo que llegarte algo, lo traigo yo.
 
 *Llegarte.* No *llegarle a alguien.*
 
