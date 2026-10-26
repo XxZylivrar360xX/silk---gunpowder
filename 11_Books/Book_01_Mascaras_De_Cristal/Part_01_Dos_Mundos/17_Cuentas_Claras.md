@@ -7,6 +7,7 @@ Ventana temporal: dias despues del Capitulo 16 (hospital, ahora fusionado con El
 Lugares: un negocio dentro de La Almendra (apertura), territorio de La Ronda del Canal / Canal Seco, casa de Hector Navarro (cierre).
 Funcion: FUSIONADO (2026-09-03), a peticion del autor -- el antiguo Cap. 19 (Cuentas claras, negociacion con Irene) y el antiguo Cap. 20 (Anticiparse, reunion del barrio) se unen en un solo capitulo, porque Anticiparse por separado resultaba demasiado corto para sostenerse solo. "Cuentas claras" queda como titulo oficial; "Anticiparse" se conserva como nombre de la escena de cierre en casa de Hector, marcada con su propio encabezado interno. Resuelve el hilo sembrado en el Capitulo 15 (el robo de Nadir y Danny): abre con POV del mundo criminal en plena operacion (Tomas Vale ejecutando el golpe de advertencia de Irene), sigue con la negociacion de Kal y Walt (sin Hector) en el Canal Seco, y cierra con la reunion de todo el barrio ya en casa de Hector -- el recuento de causas y consecuencias, el dato incomodo de que el rumor era demasiado preciso para ser chisme de calle (lore de trasfondo sobre Dario Varek, nunca confirmado en prosa -- ver Dario_Varek.md), y Kal explicandole a Nadir y Danny que su enojo es por no haber sido avisado a tiempo, no por el error en si.
 Apertura por residuo: no depende directamente del cierre del Capitulo 16 (que cerro con Kal y Chiara en el auto) -- abre en un punto distinto, el mundo criminal, para dar la sensacion de que la ciudad sigue moviendose aunque Kal no este mirando.
+Regla de dialogo 05 (esticomitia) 2026-10-26, a pedido del autor: ocho cortes de eco/remate; la prosa nueva es DISENO, espera lectura (98_Agent_Handoff/sessions/2026-10-26_claude_regla05_debiendo_cap20.md).
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N17-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
@@ -20,11 +21,9 @@ Walt se lo dijo a la mañana siguiente, en la puerta del taller, sin darle vuelt
 
 —Cigarros. Licor. Nada que no se pueda reponer. —Walt se cruzó de brazos—. Lo hicieron aquí. No en su canal.
 
-Kal entendió.
+Kal entendió. Sacó el teléfono y marcó a Nadir. Buzón. Marcó a Danny.
 
-—Nadir y Danny.
-
-—Nadir y Danny —confirmó Walt—. Ahora sí sé por qué no contestan.
+—Tampoco —dijo Walt—. Llevo desde las seis. Ahora sí sé por qué no contestan.
 
 ***
 
@@ -50,9 +49,9 @@ Kal los miró un segundo de más. Nadir bajó la vista primero. Danny ni siquier
 
 —Así que usted es Kal Mercer. —Irene lo estudió de arriba abajo, sin levantarse—. He oído de usted. En la calle, como se oye todo.
 
-—Lo mismo digo de La Ronda —contestó Kal—. Aunque de ustedes se habla más en números que en historias.
+Kal no contestó. Irene no parecía esperar que lo hiciera; giró la cabeza hacia Walt.
 
-—Entonces nos vamos a entender. —Irene giró la cabeza hacia Walt—. Y usted es Keegan. Diez años.
+— Y usted es Keegan. Diez años.
 
 —Nueve y medio —dijo Walt—. Buena conducta.
 
@@ -76,7 +75,7 @@ Irene se quedó pensando eso más tiempo del que le había dedicado a cualquier 
 
 —¿Y ellos? —Irene señaló a Nadir y Danny con la cabeza, sin mirarlos—. ¿Alguien les preguntó si querían jugarse la cárcel por esto?
 
-—No —dijo Kal, sin dudar—. Nadie les preguntó cuando decidieron entrar a su bodega, tampoco.
+—No —dijo Kal, sin dudar y sin mirarlos.
 
 Nadir cerró los ojos un segundo. Danny miró el piso.
 
@@ -98,9 +97,7 @@ Kal esperó el resto.
 
 —No le pedí el aviso.
 
-—No. Pero ya lo oyó.
-
-Pasó a la hoja siguiente.
+Irene no contestó. Pasó a la hoja siguiente.
 
 ***
 
@@ -140,7 +137,7 @@ Kal lo contó primero, seco, sin adornar ni suavizar. Walt llenó los huecos. Na
 
 —¿Y valió la pena?
 
-—Valió la paz con Canal Seco. Eso no tiene precio fijo.
+—Tenemos paz con el Canal Seco. Eso no tiene precio fijo.
 
 —Mentira. —Héctor no se movió de la silla—. ¿Qué más le diste?
 
@@ -156,7 +153,7 @@ Nadie le había preguntado por las mesas. Nadir lo miró un segundo de más. Dan
 
 —¿Y te dio la ubicación exacta? —siguió Héctor—. ¿El guardia tuerto, todo?
 
-—Todo.
+Danny asintió sin levantar la vista.
 
 El cuarto se quedó callado un momento.
 
@@ -182,7 +179,7 @@ Lo traía pensado desde antes de que Walt abriera la boca. Después de Calle Cor
 
 —Y la barreta apareció tres días después en una casa de empeños suya —dijo Héctor—. Con un guardia en el hospital.
 
-—Con mis huellas. —Walt se encogió de hombros—. No tuvo que inventar nada. Solo tuvo que guardarla.
+—Mis huellas estaban en el mango. —Walt se encogió de hombros—. No tuvo que inventar nada. Solo tuvo que guardarla.
 
 Nadir habló desde la puerta.
 
@@ -219,7 +216,5 @@ Danny no dijo nada, pero asintió despacio.
 Nadir asintió también.
 
 —Entendido.
-
-—Bien.
 
 Kal se dio la vuelta hacia la cocina, donde Héctor seguía sentado dejando que Walt hiciera un café que él tampoco iba a terminar.
