@@ -34,3 +34,14 @@ Antes: Chiara ~73 %, Kal ~20 % (no entra hasta la palabra ~2,000). El levantón 
 - Cap. 17 (archivo 14): valorar si el "segundo de más" de Kal ante "la mamá de Sam" necesita un beat que cobre el levantón (hoy no lo sabe por nombre).
 - **Arrastre al Cap. 13 (archivo 10):** la objeción de Nadir ("le torció la muñeca por un papel") se queda corta; el estado de Chiara (labio, conmoción) en los primeros días; qué sabe el barrio del levantón.
 - Audiolibro: correr `--estado` en la máquina del autor (en la nube no están los MP3 y el script vacía la bitácora; se revirtió).
+
+## Reacción de Kal (autor: "mételos todos", 2026-10-26)
+
+Cuatro beats en el Cap. 12: (1) no pregunta "hasta dónde" y Chiara lo nota (Blake, dos veces; Alessio, la hora exacta); (2) "¿Puedo?" antes de acomodarle la almohada; (3) el cigarro en la cancha entre despertadas, que Danny ve y calla (fuma antes de una mala decisión); (4) en el semáforo lee el "todavía": Crowe le puso tarifa a ella ("Desde ese semáforo lo quería ver tasado"). Chiara le cuenta el "todavía no"; se guarda "Nadie tiene prisa".
+
+## Propuesta: Blake se entera (DISEÑO, espera al autor; para el Cap. 13 o siguiente)
+
+- **Cadena:** Rowe no hace parte, pero pide sin papel rondines en la residencia de Sam. La petición baja a patrulla, y en El Relevo se vuelve chisme ("a la fiscal la levantaron con la del Monarch"). Blake lo oye. No es investigación: es ego.
+- **Escena:** Blake llega al Monarch "a averiguar". Su registro es el que Kal no tiene: "¿Quién fue?", "dime y yo me encargo", golpe a la mesa, ofrecerse a hacer el parte. Le toma la mano entablillada para verla sin pedir permiso, y Chiara le hace la misma mueca de la camioneta (contraste con el "¿Puedo?" de Kal).
+- **Por qué ella lo corta:** cada pregunta de Blake pone en riesgo a Sam (amenaza si va la policía) y a Dario e Il Consorzio. Le da una versión ("Me caí de unos tacones") que los dos saben falsa. "Yo me encargo" en boca de Blake anticipa el "Claro, tesoro, yo me encargo" del Libro II.
+- **Fricción, no ruptura:** Blake menciona la grúa ("Dicen que te sacó una grúa") y deja sembrado el "lo dejaste por Mercer" que cobra el Cap. 38 (el yate), donde sigue el cierre definitivo.

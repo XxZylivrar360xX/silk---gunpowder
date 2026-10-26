@@ -317,9 +317,11 @@ No retiró nada. Sólo dejó de decirlo. Pasó un camión de refrescos por la bo
 
 Chiara iba a decir que traían máscaras. Tenía la frase lista; era cierta a medias y la habría dejado tranquila. No la dijo.
 
-—Cuarenta años. Marcas de acné. Un diente gris, de este lado. —Se tocó el labio partido con la punta de la lengua, del lado sano—. Habla despacio, como si cobrara por palabra. El de la mano en la pierna no se quitó la máscara. Trae un anillo en el meñique, con la piedra hacia adentro. Me raspó.
+—Cuarenta años. Marcas de acné. Un diente gris, de este lado. —Se tocó el labio partido con la punta de la lengua, del lado sano—. Habla despacio, como si cobrara por palabra. El de la mano en la pierna no se quitó la máscara. Trae un anillo en el meñique, con la piedra hacia adentro. Me raspó. Otro, adelante, le dijo que todavía no.
 
 Lo dijo como un parte, en orden, sin subir la voz. Kal no contestó. Las manos se le quedaron en el volante, en el diez y en el dos, y los nudillos se le fueron poniendo del color de la férula.
+
+No preguntó hasta dónde. Chiara esperó la pregunta —la habría hecho cualquiera; Blake, dos veces; Alessio habría querido la hora exacta— y la pregunta no llegó. Kal se quedó con lo que ella le había dado y no pidió el resto.
 
 Chiara se dio cuenta, tarde, de que no se lo había contado para que él lo supiera. Se lo había contado para que hiciera algo con eso. Y no supo cuál de los dos le daba más miedo: él, o lo poco que le había costado dárselo.
 
@@ -334,6 +336,10 @@ Chiara miró la férula. Hizo la cuenta que hacía siempre, en voz baja, por den
 Kal no contestó.
 
 Metió la primera. La grúa salió del callejón con el Mercedes meciéndose detrás, y en el primer semáforo, con el pie en el freno, Kal volvió a ver lo que no había visto: a ella con el brazo de un hombre de Crowe entre las dos manos, por una mujer con la que había tomado un café, sin saber que el recado traía también el nombre de él. Y ahora, con *el güero de la grúa* dicho en voz alta en una bodega de Las Calderas, ella pedía que la vieran con él. En la calle. En su barrio. Donde Crowe tenía ojos en cada mostrador.
+
+Y el *todavía*. Alguien adelante le había puesto un límite a esa mano, y el límite no era de ellos. Esa escoria no tenía límites propios: los alquilaba con el resto. Crowe había decidido hasta dónde podían llegar con ella, como decidía cuánto valía un reloj sobre el vidrio del mostrador. Le había puesto tarifa.
+
+A Crowe lo había querido vencer desde que tenía edad para cargar lo que había que empeñar. Desde ese semáforo lo quería ver tasado.
 
 El semáforo se puso en verde. Arrancó.
 
@@ -355,9 +361,17 @@ Chiara se sentó en la cama con la férula sobre las rodillas.
 
 En la grúa lo había dicho como se dice lo más sencillo: que aceptaba. Que podía contar con él, y que no le importaba que se supiera. No le había parecido una frase grande. Pero él la estaba mirando desde la puerta como se mira a alguien que acaba de bajar de la acera sin ver la calle, y Chiara no entendió por qué.
 
-No preguntó. Kal cruzó el cuarto, revisó el pestillo de la ventana, que no hacía falta revisar, y le acercó la silla a la cama, del lado izquierdo, donde la alcanzaba sin la férula. Después bajó a desenganchar el Mercedes.
+No preguntó. Kal cruzó el cuarto, revisó el pestillo de la ventana, que no hacía falta revisar, y le acercó la silla a la cama, del lado izquierdo, donde la alcanzaba sin la férula. Tomó la almohada de la silla para ponérsela bajo el brazo, y se detuvo con ella en las manos.
 
-Subió a las seis, y a las nueve, y a la medianoche, a preguntarle cómo se llamaba. Ella se lo dijo cada vez, completo, sin abrir los ojos. A las tres de la mañana se lo dijo en italiano, y él no la corrigió. Se quedó en la silla hasta que fue hora de volver a preguntar.
+—¿Puedo?
+
+Chiara lo miró. Nunca se lo había preguntado. Nunca había tenido que hacerlo. Asintió, y él le acomodó la almohada bajo la férula sin tocarle más que la funda. Después bajó a desenganchar el Mercedes.
+
+Subió a las seis, y a las nueve, y a la medianoche, a preguntarle cómo se llamaba. Ella se lo dijo cada vez, completo, sin abrir los ojos.
+
+Entre la de la medianoche y la siguiente, Danny lo vio por la ventana desde el sofá: Kal, de pie en la cancha, junto a la malla, prendiendo un cigarro con la mano hueca contra el viento. Kal casi no fumaba. Danny no se levantó ni dijo nada. En la casa común todos sabían qué quería decir eso, y nadie se lo había dicho nunca a él.
+
+A las tres de la mañana se lo dijo en italiano, y él no la corrigió. Se quedó en la silla hasta que fue hora de volver a preguntar.
 
 ***
 
