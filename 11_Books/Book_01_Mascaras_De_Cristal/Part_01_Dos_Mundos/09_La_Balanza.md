@@ -12,6 +12,8 @@ Fuera de este capitulo (se van al 24c): el calendario de Marta y el homenaje de 
 Continuidad: el abrazo y el temblor canon de H12 quedan para el 24c; aqui no hay abrazo. "Tienes mi palabra" y "Lo necesario. Hasta que ya no lo sea" se quedan aqui (casa comun). Arrastre al Cap. 10: la estancia es por la muñeca (ferula, tres semanas), no por conmocion: retirar mareos, receta, "dos dedos a la sien" y la gente de Dario en el Monarch.
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N9-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 Seguridad del Monarch (2026-10-22, decision del autor; prosa DISENO pendiente de lectura): en la cuenta de Chiara en la grua, la seguridad del Monarch es buena y le rinde cuentas a Dario; por eso la Almendra y no el penthouse. Siembra la vigilancia-proteccion de Dario del 24c y la tarjeta del Cap. 10.
+Levanton (2026-10-26, CANON DEL AUTOR en sustancia; supera la linea "Asalto, no atentado" de arriba; redaccion DISENO, pendiente de lectura): el Tasador contrata escoria; camioneta gris (no blanca: las del 24c y el 41 son otras), pasamontanas, las suben a las dos y las llevan a una bodega de Las Calderas junto a las vias; uno se propasa con Chiara en la camioneta y otro lo frena "todavia" (por orden, no por decencia). En la bodega reconocen la credencial del Monarch ("Varek. Casino."): eso las salva; le devuelven todo a Chiara y se quedan la bolsa de Rowe (cobro del 13). Amenazas: la hija de Rowe (sin nombre; natacion los sabados, gorra amarilla; NUEVO CANON) y "el guero de la grua": sabian a quien levantaban, no de quien mas era. Chiara: muneca, labio partido, golpe en la sien con conmocion leve, por defender a Rowe; Rowe: cachetada y susto. No hay parte: Rowe lo decide (arco oscuro). Kal: Crowe se cobra despues; a la escoria la quiere encontrar ("Esos no se tasaban. Esos se encontraban."); Chiara le da las senas (diente gris; anillo en el menique) sabiendo para que. Primera noche: Kal la despierta cada tres horas. Arrastre pendiente: Cap. 13 (archivo 10), objecion de Nadir y estado de Chiara.
+Regla de dialogo 05 (2026-10-26): Rowe no contesta el cafe; "Si. Estoy bien, Kal." en lugar del eco "Con Rowe"; triaje sin eco ("Se me rompio la una"); Rowe ofrece "Le debo una" y Chiara contesta con "Ciao, tesoro"; cabina sin "Nombre?"/"No". Sesion: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_levanton_cap12]].
 Il Consorzio (2026-10-22, idea del autor; prosa DISENO pendiente de lectura): tercera razon de Chiara para no volver al Monarch: una Ardizzone lastimada en el lobby se lee en Il Consorzio como afrenta a la familia y trae presencia que nadie pidio. Cobro en la tarjeta de Dario del Cap. 10.
 -->
 
@@ -85,81 +87,117 @@ No dijo nada más. Se comió el pedazo de pastel, se limpió la boca con la serv
 
 —Le escribo cuando tenga algo que valga su café.
 
-—El café lo pago yo.
+Rowe no contestó. Dejó un billete doblado debajo del plato antes de que Chiara alcanzara a abrir la bolsa, y se levantó.
 
-—Por eso.
-
-Rowe pagó. Salieron por el patio de atrás, entre los manteles tendidos, porque Rowe había dejado el coche en el callejón: un Volvo viejo, gris de tanto sol, el único auto de la ciudad que nadie asociaba con ella. El Mercedes del Monarch estaba en el mismo callejón, dos lugares más allá, porque a Chiara no le gustaba estacionar en una calle donde el valet no era suyo.
+Salieron por el patio de atrás, entre los manteles tendidos, porque Rowe había dejado el coche en el callejón: un Volvo viejo, gris de tanto sol, el único auto de la ciudad que nadie asociaba con ella. El Mercedes del Monarch estaba en el mismo callejón, dos lugares más allá, porque a Chiara no le gustaba estacionar en una calle donde el valet no era suyo.
 
 ***
 
-Los dos hombres venían del otro extremo del callejón, sin prisa, como dos empleados que vuelven del almuerzo.
+Los dos hombres venían del otro extremo del callejón, sin prisa, como dos empleados que vuelven del almuerzo. Detrás de ellos, al paso, con las luces apagadas, entró una camioneta de carga gris plomo, sin ventanas atrás y sin logotipo, de las que nadie en Calle Corona habría mirado dos veces.
 
-El primero ni siquiera corrió. Llegó hasta Rowe cuando ella buscaba las llaves, le agarró la correa de la bolsa y tiró. Rowe no la soltó; fue reflejo, no valentía, y Chiara lo vio en su cara. El hombre le cruzó la cara con la mano abierta.
+Chiara la miró dos veces. Ya era tarde.
+
+El primero llegó hasta Rowe cuando ella buscaba las llaves, le agarró la correa de la bolsa y tiró. Rowe no la soltó; fue reflejo, no valentía, y Chiara lo vio en su cara. El hombre le cruzó la cara con la mano abierta.
 
 No fue un golpe. Fue una cachetada, de las que se dan para que el otro sepa que no merece un puño. Sonó contra el callejón como un periódico que alguien dobla de un tirón.
 
+La puerta corrediza de la camioneta se abrió de un jalón. Bajaron dos más, con pasamontañas, y el de la cachetada se bajó el suyo de la frente con la mano libre, sin apuro, como quien se acomoda una gorra. Uno de los nuevos ya tenía a Rowe por la cintura, con los pies en el aire.
+
 Chiara le agarró el antebrazo con las dos manos.
 
-No lo pensó. Después, mucho después, iba a intentar reconstruir en qué momento lo había decidido, y no iba a encontrar el momento. Tenía el brazo del hombre entre las manos y la correa de la bolsa todavía tensa, y el segundo hombre ya estaba detrás de ella.
+No lo pensó. Después, mucho después, iba a intentar reconstruir en qué momento lo había decidido, y no iba a encontrar el momento. Tenía el brazo del hombre entre las manos y a Rowe medio adentro de la camioneta, con un zapato todavía en el asfalto, y el segundo hombre ya estaba detrás de ella.
 
 Le tomó la muñeca derecha y se la dobló hacia atrás contra el marco de la puerta del Volvo.
 
-El dolor llegó blanco, sin forma, desde la mano hasta el hombro. Las pulseras reventaron. Chiara cayó de rodillas sobre el asfalto y oyó las cuentas rodar hacia la alcantarilla, una por una, con una paciencia ridícula.
-
-El primero ya tenía la bolsa. Se inclinó hacia Rowe, cerca, como quien le dice a alguien que trae la etiqueta del suéter de fuera.
-
-—Las joyas pesan más en la balanza.
-
-Se fueron caminando. Doblaron la esquina del callejón y ya no estaban.
-
-—¿Qué? —dijo Rowe. No se lo preguntaba a nadie.
-
-Chiara seguía de rodillas, con la mano derecha recogida contra el pecho. Lo primero que miró no fue la muñeca. Fue la uña del índice, rota a la mitad, con el esmalte levantado como una astilla.
+El dolor llegó blanco, sin forma, desde la mano hasta el hombro. Las pulseras reventaron. Oyó las cuentas rodar hacia la alcantarilla, una por una, con una paciencia ridícula, y no soltó el brazo. Lo soltó cuando el revés le partió el labio contra los dientes. Lo último que vio claro fue el borde de la puerta corrediza, que venía hacia su sien o ella hacia él; nunca supo cuál.
 
 ***
 
-Rowe se agachó junto a ella. Tenía la mejilla izquierda roja hasta la oreja y la voz firme, de juzgado.
+Después hubo piezas.
 
-—No se mueva. Llamo a…
+El piso de lámina de la camioneta, que olía a aceite quemado y a cartón mojado. Una mano en la nuca que le mantenía la cara contra la lámina. La boca llena de un sabor a monedas. La voz de Rowe, en algún lugar a su izquierda, diciendo su cargo completo —*soy la fiscal de distrito de este condado*—, como si el título fuera una puerta, y alguien riéndose de eso.
 
-—Espere.
+Una mano que no estaba ahí para sujetarla. Le subió por la pierna, por encima del pantalón roto en la rodilla, despacio, sin prisa por llegar a ningún lado, y Chiara entendió con una claridad horrible que la prisa no era el punto. El punto era que ella supiera que podía. Un anillo le raspó la piel a la altura del muslo.
 
-Rowe ya tenía el teléfono en la mano. Lo bajó un centímetro.
+—Quieto —dijo otra voz, adelante—. Todavía no.
 
-—Si llama ahora —dijo Chiara—, el parte va a decir que la directora del Monarch tomaba café con la fiscal de distrito un sábado por la mañana, en un patio de Calle Corona. Con nombre y apellido.
+*Todavía.* La mano se quitó. No por decencia: por orden.
 
-Rowe tardó menos de un segundo. Era política: la cuenta la hacía antes que la víctima.
+Del otro lado, Rowe dejó de decir su cargo a media palabra, y ya no lo volvió a decir.
 
-—Y a la gente que le paga a usted eso no le va a gustar.
+Chiara contó las vueltas. Era lo único que podía hacer y lo hizo, con la cabeza partida en dos y el brazo derecho muerto contra el pecho: izquierda, derecha larga, un tramo recto con baches de concreto, regulares, como de juntas de losa. Un tren de carga muy cerca, interminable. Ella sabía leer un balance y una mentira, y sabía leer una ciudad por los golpes del piso. Las Calderas. El sur.
 
-—No.
+***
 
-—¿Y a usted quién la saca de aquí? No puede manejar así.
+La bodega tenía el techo alto y la mitad de las láminas rotas, y por los agujeros entraba un sol de mediodía que no calentaba nada. Las sentaron en el piso, contra una columna, una junto a la otra. Rowe había perdido el otro zapato en la camioneta. A Chiara le habían quitado la bolsa, y uno de los de pasamontañas la vaciaba sobre un tambo, objeto por objeto, como en una aduana.
 
-Chiara buscó su teléfono con la mano izquierda. Tardó en encontrar el nombre, porque la pantalla no se hacía para zurdos y porque le temblaban los dedos, cosa que decidió no registrar. Era la primera vez en una semana que lo llamaba ella.
+El de la cachetada se agachó frente a Rowe. Sin máscara no tenía cara de nada: cuarenta años, marcas de acné en las mejillas, un diente gris del lado izquierdo. Tenía la bolsa de Rowe colgada del hombro y no la había abierto.
+
+—Las joyas pesan más en la balanza —le dijo, despacio, para que se le quedara.
+
+—¿Qué? —dijo Rowe. No se lo preguntaba a nadie.
+
+—La niña tiene natación los sábados —siguió él, en el mismo tono—. A las doce. Gorra amarilla. Sale la última porque se tarda en el vestidor. —Miró el reloj—. Ya va a salir.
+
+Rowe no dijo nada. Chiara la vio de lado, porque si giraba la cabeza la bodega se le iba detrás: la fiscal de distrito, descalza, con la mejilla roja hasta la oreja, apretándose las manos en el regazo hasta dejarse blancos los nudillos. No pidió nada. Eso fue lo peor de verle la cara.
+
+Junto al tambo, el de la bolsa se había quedado quieto. Tenía en la mano el tarjetero de piel de Chiara y, en el tarjetero, la credencial de acceso del Monarch: su foto, su nombre y, abajo, en las letras doradas del casino, *Dirección General*. La volteó. Volvió a mirar la foto. La miró a ella.
+
+Fue hasta el de la cachetada y le habló al oído. Chiara no le oyó la frase. Le oyó el apellido, porque era de los que se oyen aunque se digan bajo, y la palabra que vino después.
+
+*Varek. Casino.*
+
+El de la cachetada tardó en enderezarse. Cuando lo hizo, ya no miraba a Rowe. Miró la credencial, y después a Chiara, de arriba abajo, como se mira un paquete que llegó a la dirección equivocada y que ya no se puede devolver sin firma.
+
+Chiara conocía esa cara. La había visto en Palermo, en hombres mayores que ése, el día que alguien les decía de quién era hija. Llevaba media vida huyendo de lo que esa cara significaba. Hoy la salvaba un apellido que ni siquiera era el suyo, y lo sintió en el estómago, junto al sabor a monedas, sin saber cuál de las dos cosas le daba más asco.
+
+—Guárdale todo —dijo él.
+
+El otro le volvió a meter las cosas en la bolsa una por una, con más cuidado del que había usado para sacarlas: el teléfono, las llaves del Mercedes, la lima, el tarjetero. Se la dejó en el regazo. Le enderezó el asa para que no quedara torcida.
+
+La bolsa de Rowe no se la devolvieron.
+
+—Ésa se queda —dijo el de la cachetada, cuando vio a Rowe mirarla—. Es lo que vinimos a pesar.
+
+Se agachó otra vez, ahora frente a Chiara, y le habló con una cortesía nueva, peor que la de antes.
+
+—Disculpe lo del labio, señorita. Nadie nos dijo que era de la casa. —Le quitó una pelusa del hombro—. Pero si alguna de las dos va con la policía, nosotros sabemos dónde nada la niña. Y usted sabe dónde duerme el güero. El de la grúa. Ojos azules, ¿no? Se mete debajo de los coches sin ver quién está parado al lado.
+
+Chiara no le dio nada. Ni una palabra, ni la cara. Lo miró como se mira a un mesero que se equivocó de mesa, y se quedó con el diente gris.
+
+La camioneta salió sin prisa, como había entrado al callejón. Dejaron abierta la cortina de la bodega.
+
+***
+
+Chiara le pasó el teléfono a Rowe antes de usarlo ella. Tampoco eso lo pensó.
+
+Rowe marcó con los pulgares torpes y esperó de pie, descalza sobre el concreto. Chiara la oyó decir un nombre de mujer, y después «¿Ya salió?», y después nada durante mucho rato. Después Rowe se sentó otra vez en el piso, de golpe, como si le hubieran cortado los cables.
+
+—Ya salió —dijo. A nadie, otra vez.
+
+Le devolvió el teléfono. Chiara buscó el nombre con la mano izquierda. Tardó, porque la pantalla no se hacía para zurdos, porque se le partía en dos si la miraba fijo y porque le temblaban los dedos, cosa que decidió no registrar. Era la primera vez en una semana que lo llamaba ella.
 
 —Dime.
 
-—Sono dietro la… —Se oyó, y empezó otra vez, molesta, en orden, como un parte—. Estoy en Calle Corona. En el callejón de atrás de la panadería portuguesa. Estoy bien. Dos hombres. Me torcieron la muñeca. No puedo manejar.
+—Sono in un… —Se oyó, y empezó otra vez, molesta, en orden, como un parte—. Estoy en Las Calderas. En una bodega junto a las vías, con el techo roto. Estoy bien. Cuatro hombres, una camioneta gris. Me torcieron la muñeca. No puedo manejar. El Mercedes se quedó en Calle Corona, en el callejón de la panadería portuguesa.
 
 —¿Quién?
 
-—No sé. Asaltaron a la fiscal. Yo estaba con ella.
+—No sé. Se llevaron a la fiscal. Yo estaba con ella.
 
 Del otro lado hubo un silencio corto.
 
 —¿Con Rowe?
 
-—Con Rowe.
+—Sí. Estoy bien, Kal.
 
 —Voy.
 
 —Kal…
 
-Ya había colgado.
+Ya había colgado. Chiara le mandó la ubicación sin que se la pidiera.
 
-Llegó en siete minutos, y no llegó en el Audi. Llegó en la grúa grande de Almendra Towing, la de la cabina roja y la pluma de doble polea, que entró al callejón de reversa con la alarma pitando y se detuvo a un metro exacto del Mercedes.
+Llegó en catorce minutos, y no llegó en el Audi. Llegó en la grúa grande de Almendra Towing, la de la cabina roja y la pluma de doble polea, que entró a la bodega de reversa con la alarma pitando y se detuvo a un metro exacto de la columna.
 
 —¿Viene en grúa? —dijo Rowe.
 
@@ -171,41 +209,45 @@ Kal bajó de la cabina sin cerrar la puerta. Fue directo a Chiara, no a Rowe, y 
 
 —La muñeca.
 
-—¿Nada más?
+—¿La cabeza? —Le estaba mirando la sien, no los ojos—. ¿Te pegaron en la cabeza?
 
-—Nada más.
+Chiara le enseñó el índice.
 
-—¿La cabeza? ¿Te golpeaste al caer?
+—Se me rompió la uña.
 
-—Caí de rodillas, Kal. No de cabeza.
+Le miró la muñeca sin tocarla, de un lado y del otro, como miraba una pieza antes de decidir si se podía salvar. Le miró las rodillas del pantalón, rotas. Le miró el labio. Después le apartó el pelo de la sien con un dedo, lo primero que le tocó, y encontró el chichón y la sangre seca en la raíz del pelo, y se quedó mirándolo más de lo que había mirado nada.
 
-Le miró la muñeca sin tocarla, de un lado y del otro, como miraba una pieza antes de decidir si se podía salvar. Le miró las rodillas del pantalón, rotas. Le miró la uña. Después se levantó y miró a Rowe, la mejilla, la correa cortada que todavía le colgaba del hombro.
+Chiara le vio en la cara algo que no le conocía, ni siquiera de la noche del ladrillo. No era enojo. Era algo más quieto que el enojo, y más frío, que le bajó por la cara como se baja una cortina de local. Duró un segundo. Después se levantó y miró a Rowe: los pies descalzos, la mejilla, la correa cortada que todavía le colgaba del hombro.
 
 —¿Y usted?
 
-—Me robaron la bolsa. Y me dejaron un recado.
+—Se quedaron con mi bolsa. Y me dejaron un recado.
 
 —¿Qué recado?
 
 Rowe se lo repitió palabra por palabra, como se repite una declaración.
 
-—*Las joyas pesan más en la balanza.* —Lo miró—. ¿Le dice algo, señor Mercer?
+—*Las joyas pesan más en la balanza.* —Lo miró—. A ella le hablaron de usted. Del güero de la grúa. ¿Le dice algo, señor Mercer?
 
 —No.
 
-Chiara lo estaba mirando, y no vio nada. Ni un músculo. Kal se dio la vuelta, bajó la pluma y enganchó el Mercedes más rápido de lo que ella lo había visto enganchar nada, ni siquiera aquella noche, desde la puerta de servicio del club, y no miró lo que hacía ni una sola vez.
+Chiara lo estaba mirando, y no vio nada. Ni un músculo.
 
-—Llamo en cinco minutos —dijo Rowe—. Lo que tarden en dar vuelta en la esquina. En el parte voy a estar sola.
+—No va a haber parte —dijo Rowe. Lo dijo hacia la cortina abierta, con la voz de juzgado, como quien dicta una resolución que ya no se va a apelar—. Lléveme con mi hija, señor Mercer. Después de eso no pasó nada.
 
-—Le debo una —dijo Chiara.
+Kal la ayudó a subir primero a ella. A Chiara la subió después, con una mano bajo el codo izquierdo y la otra lista detrás de su cabeza, por si el techo de la cabina se le venía encima.
 
-—No. —Rowe se tocó la mejilla con el dorso de los dedos, apenas—. Yo le debo una a usted.
+La alberca era la del centro comunitario de la avenida, con un mural de delfines descarapelado y un estacionamiento de minivans. Rowe se bajó descalza. A la mitad del estacionamiento una niña de gorra amarilla cruzaba de la mano de una mujer mayor, con el pelo mojado y una bolsa de toalla más grande que ella. Rowe no corrió. Caminó hasta ellas a paso de fiscal, y Chiara supo lo que le costaba porque vio que lo hacía.
 
-Kal la ayudó a subir a la cabina con una mano bajo el codo izquierdo. Ya sentada, con la muñeca contra el pecho, Chiara se asomó por la ventanilla.
+A medio camino se volvió hacia la grúa.
+
+—Le debo una, señora Bellandi.
+
+Chiara no contestó. Le dolía la boca, y tenía la frase, pero no la voz para decirla todavía. Rowe ya se daba la vuelta cuando Chiara se asomó por la ventanilla.
 
 —Ciao, tesoro.
 
-Rowe parpadeó. Después, por primera vez en toda la mañana, se rió con la boca abierta.
+Rowe parpadeó. Después, por primera vez en toda la mañana, se rió con la boca abierta, y la risa se le fue rompiendo a medio camino, y se dio la vuelta antes de que terminara de romperse.
 
 ***
 
@@ -215,9 +257,9 @@ No la había oído en años, pero la conocía como se conoce un olor. La había 
 
 Rowe no la iba a entender.
 
-El corralón del sur le pagaba cuota a Crowe. Todo el barrio lo sabía, y Kal lo sabía cuando firmó. Lo que no había calculado era a quién le iba a cobrar Crowe. Había pensado en él mismo: un recado en el taller, una llanta cortada, un precio nuevo por algo que antes era gratis. Crowe no le había cobrado a él. Le había cobrado a la fiscal que firmó, y a la mujer que estaba sentada con ella.
+El corralón del sur le pagaba cuota a Crowe. Todo el barrio lo sabía, y Kal lo sabía cuando firmó. Lo que no había calculado era a quién le iba a cobrar Crowe. Había pensado en él mismo: un recado en el taller, una llanta cortada, un precio nuevo por algo que antes era gratis. Crowe no le había cobrado a él. Le había cobrado a la fiscal que firmó, y a la mujer que estaba sentada con ella, y le había mandado decir a él, por la boca de ella, dónde dormía.
 
-Y a la mujer la habían reconocido. La italiana del casino, la que Mercer subía al Peugeot por la puerta de servicio. No había sido casualidad que estuviera ahí. Había sido suerte, para Crowe: le había caído en la balanza sin que tuviera que buscarla.
+A ella la habían ido a buscar sabiendo de quién era. Del güero de la grúa. Lo que no sabían era de quién más, y Crowe, si lo sabía, no se los había dicho. Para Crowe eso también era suerte: le había caído en la balanza sin que tuviera que buscarla.
 
 En el consultorio de la Almendra, mientras la doctora le entablillaba la muñeca a Chiara, Kal sacó el teléfono y buscó el número. Lo tenía guardado sin nombre, como guardaba los números de la gente a la que no quería ver escrita. Crowe le había pagado completo el trabajo de la hierba, y antes de tiempo. *Crowe no pagaba a tiempo. Pagaba antes para que pareciera favor.* Kal lo había dicho una vez, en voz alta, y le había parecido una frase sobre otra gente.
 
@@ -225,11 +267,13 @@ No tenía prueba. No tenía con qué pelear una guerra en su propio barrio, y lo
 
 Guardó el teléfono.
 
-—Esguince de segundo grado —dijo la doctora, que atendía a media Almendra sin pedir seguro y a la otra media sin pedir nombre—. Puede haber una fisura chica que todavía no se ve. Férula tres semanas, no cargar nada, hielo. Y nada de manejar.
+Pero no era en Crowe en quien pensaba con el teléfono ya en el bolsillo. A Crowe lo iba a cobrar cuando se pudiera, y todavía no se podía. Crowe no le había partido el labio a nadie. Alguien la había subido a una camioneta. Alguien le había estrellado la cabeza contra una puerta, y ese alguien no tenía balanza, ni local, ni la protección de nadie: era escoria que Crowe había alquilado por una mañana y que iba a gastarse la paga en un fin de semana. Ésos no se tasaban. Ésos se encontraban.
 
-—Nada de manejar —repitió Kal.
+—Esguince de segundo grado —dijo la doctora, que atendía a media Almendra sin pedir seguro y a la otra media sin pedir nombre—. Puede haber una fisura chica que todavía no se ve. Férula tres semanas, no cargar nada, hielo. Nada de manejar. —Le levantó el párpado a Chiara con el pulgar y le pasó una lucecita por los ojos, uno y otro—. Y conmoción leve. El labio cierra solo. Que no duerma sola esta noche: alguien que la despierte cada tres horas y le pregunte cómo se llama. Si vomita o no lo reconoce a usted, al hospital, con nombre o sin nombre.
 
-Chiara no contestó. Había sacado una lima de la bolsa con la mano izquierda y, mientras la doctora le ajustaba las correas de la férula, se estaba limando la uña rota del índice derecho, despacio, con una concentración que no le había dedicado al dolor en toda la mañana.
+—Cada tres horas —repitió Kal.
+
+Chiara no contestó. Había sacado la lima de la bolsa con la mano izquierda y, mientras la doctora le ajustaba las correas de la férula, se estaba limando la uña rota del índice derecho, despacio, con una concentración que no le había dedicado al dolor en toda la mañana.
 
 La doctora la miró. Miró a Kal.
 
@@ -239,11 +283,13 @@ La doctora la miró. Miró a Kal.
 
 ***
 
+El callejón de la panadería estaba igual que en la mañana. El Volvo de Rowe seguía en su lugar, con la puerta del conductor emparejada y sin llaves, porque las llaves iban en la bolsa. Kal bajó la pluma y enganchó el Mercedes más rápido de lo que ella lo había visto enganchar nada, ni siquiera aquella noche, desde la puerta de servicio del club, y no miró lo que hacía ni una sola vez. Miraba la alcantarilla, donde se habían ido las cuentas, y la boca del callejón, por donde había entrado la camioneta.
+
 En la cabina de la grúa, con el Mercedes colgando de la pluma detrás, Kal no arrancó.
 
 —No venían por la fiscal —dijo—. O no nada más.
 
-Chiara giró la cabeza.
+Chiara giró la cabeza, despacio; todavía le costaba.
 
 —Venían por el convenio que me firmó la semana pasada. El de los coches. —Puso las dos manos en el volante, en el diez y en el dos, como si fueran a salir—. Fue por mí. Tú estabas ahí.
 
@@ -253,10 +299,6 @@ Lo dijo hacia el parabrisas. Ella lo dejó acomodarse un momento, con la férula
 
 —Alguien del barrio.
 
-—¿Nombre?
-
-—No.
-
 —Kal.
 
 —No te lo voy a dar. —Por fin la miró—. Todavía no puedo hacer nada con él. Tú sí querrías.
@@ -265,17 +307,27 @@ Lo dijo hacia el parabrisas. Ella lo dejó acomodarse un momento, con la férula
 
 —Ok.
 
-No retiró nada. Sólo dejó de decirlo.
+No retiró nada. Sólo dejó de decirlo. Pasó un camión de refrescos por la boca del callejón, y Kal lo siguió con los ojos hasta que dobló.
 
-—Quédate unos días en la Almendra —dijo después—. En la casa común. Ahí no entra nadie que Danny no vea desde el sofá, y Danny ve todo lo que pasa por esa puerta aunque parezca que está dormido. Nadir cocina. Walt va a cenar casi todas las noches. El taller está a tres cuadras y la grúa duerme enfrente. En el Monarch te ve cualquiera con una reservación, y el que te torció la muñeca ya sabe cómo te ves. En la Almendra no te toca nadie sin tocarme a mí primero.
+—El que te pegó —dijo—. ¿Cómo era?
 
-Chiara miró la férula. Hizo la cuenta que hacía siempre, en voz baja, por dentro. En el Monarch alguien iba a ver la muñeca antes del mediodía, y Dario iba a preguntar, y ella iba a tener que darle una versión en su propia casa. La seguridad del Monarch era buena, y le rendía cuentas a él: cada hombre en una puerta le iba a decir quién subía a verla, y a qué hora. Y lo que supiera Dario podía llegar a Il Consorzio, donde una Ardizzone con la muñeca entablillada en el lobby del Monarch no era un asalto en un callejón. Era una afrenta a la familia, y las afrentas las contestaban ellos, con gente que nadie había pedido y que después no se iba. En la Almendra nadie le iba a pedir ninguna.
+Chiara iba a decir que traían máscaras. Tenía la frase lista; era cierta a medias y la habría dejado tranquila. No la dijo.
+
+—Cuarenta años. Marcas de acné. Un diente gris, de este lado. —Se tocó el labio partido con la punta de la lengua, del lado sano—. Habla despacio, como si cobrara por palabra. El de la mano en la pierna no se quitó la máscara. Trae un anillo en el meñique, con la piedra hacia adentro. Me raspó.
+
+Lo dijo como un parte, en orden, sin subir la voz. Kal no contestó. Las manos se le quedaron en el volante, en el diez y en el dos, y los nudillos se le fueron poniendo del color de la férula.
+
+Chiara se dio cuenta, tarde, de que no se lo había contado para que él lo supiera. Se lo había contado para que hiciera algo con eso. Y no supo cuál de los dos le daba más miedo: él, o lo poco que le había costado dárselo.
+
+—Quédate unos días en la Almendra —dijo él después—. En la casa común. Ahí no entra nadie que Danny no vea desde el sofá, y Danny ve todo lo que pasa por esa puerta aunque parezca que está dormido. Nadir cocina. Walt va a cenar casi todas las noches. El taller está a tres cuadras y la grúa duerme enfrente. En el Monarch te ve cualquiera con una reservación, y el que te torció la muñeca ya sabe cómo te ves. En la Almendra no te toca nadie sin tocarme a mí primero.
+
+Chiara miró la férula. Hizo la cuenta que hacía siempre, en voz baja, por dentro. En el Monarch alguien iba a ver la muñeca y el labio antes del mediodía, y Dario iba a preguntar, y ella iba a tener que darle una versión en su propia casa. La seguridad del Monarch era buena, y le rendía cuentas a él: cada hombre en una puerta le iba a decir quién subía a verla, y a qué hora. Y lo que supiera Dario podía llegar a Il Consorzio, donde una Ardizzone con el labio partido y la muñeca entablillada en el lobby del Monarch no era un asalto en un callejón. Era una afrenta a la familia, y las afrentas las contestaban ellos, con gente que nadie había pedido y que después no se iba. En la Almendra nadie le iba a pedir ninguna.
 
 —Entonces que me vean contigo —dijo.
 
 Kal no contestó.
 
-Metió la primera. La grúa salió del estacionamiento del consultorio con el Mercedes meciéndose detrás, y en el primer semáforo, con el pie en el freno, Kal volvió a ver lo que no había visto: a ella con el brazo de un hombre de Crowe entre las dos manos, sin saber de quién era el brazo, sin saber que el recado no era para la fiscal. Y ahora, sabiéndolo, ella pedía que la vieran con él. En la calle. En su barrio. Donde Crowe tenía ojos en cada mostrador.
+Metió la primera. La grúa salió del callejón con el Mercedes meciéndose detrás, y en el primer semáforo, con el pie en el freno, Kal volvió a ver lo que no había visto: a ella con el brazo de un hombre de Crowe entre las dos manos, por una mujer con la que había tomado un café, sin saber que el recado traía también el nombre de él. Y ahora, con *el güero de la grúa* dicho en voz alta en una bodega de Las Calderas, ella pedía que la vieran con él. En la calle. En su barrio. Donde Crowe tenía ojos en cada mostrador.
 
 El semáforo se puso en verde. Arrancó.
 
@@ -283,7 +335,7 @@ El semáforo se puso en verde. Arrancó.
 
 La casa común la recibió a media tarde con el olor a comino y detergente de siempre, la cancha de concreto con un balón ponchado contra la malla, la mesa larga sin nadie. Danny estaba en el sofá con la tele encendida y el perro a los pies; levantó la cabeza cuando vio pasar por la ventana la grúa con el Mercedes del Monarch colgando de la pluma, y ya no la volvió a bajar.
 
-Nadir salió de la cocina secándose las manos en un trapo. Vio la férula. Vio la grúa. Se quedó quieto un segundo de más.
+Nadir salió de la cocina secándose las manos en un trapo. Vio la férula. Vio el labio. Vio la grúa. Se quedó quieto un segundo de más.
 
 —Va a quedarse unos días —dijo Kal, sin pedir permiso y sin ofrecer explicación.
 
@@ -298,6 +350,8 @@ Chiara se sentó en la cama con la férula sobre las rodillas.
 En la grúa lo había dicho como se dice lo más sencillo: que aceptaba. Que podía contar con él, y que no le importaba que se supiera. No le había parecido una frase grande. Pero él la estaba mirando desde la puerta como se mira a alguien que acaba de bajar de la acera sin ver la calle, y Chiara no entendió por qué.
 
 No preguntó. Kal cruzó el cuarto, revisó el pestillo de la ventana, que no hacía falta revisar, y le acercó la silla a la cama, del lado izquierdo, donde la alcanzaba sin la férula. Después bajó a desenganchar el Mercedes.
+
+Subió a las seis, y a las nueve, y a la medianoche, a preguntarle cómo se llamaba. Ella se lo dijo cada vez, completo, sin abrir los ojos. A las tres de la mañana se lo dijo en italiano, y él no la corrigió. Se quedó en la silla hasta que fue hora de volver a preguntar.
 
 ***
 

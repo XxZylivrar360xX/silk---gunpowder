@@ -1,6 +1,6 @@
 # Current Brief
 
-Actualizado: 2026-10-24. Máximo 800 palabras. Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-10-22_CURRENT_BRIEF]].
+Actualizado: 2026-10-26. Máximo 800 palabras. Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-10-22_CURRENT_BRIEF]].
 
 ## Foco y siguiente paso
 
@@ -24,6 +24,7 @@ Actualizado: 2026-10-24. Máximo 800 palabras. Brief anterior íntegro: [[98_Age
 - **Cap. 4, encuentro con Blake (2026-10-24, DISEÑO, espera lectura):** cortejo de honor de Keene en Calle Corona, Mabel's y velorio de policías en El Relevo en lugar de La Isla; Lucía y Collins sin nombre; Collins castaño cobrizo (CANON); en El Relevo Blake suelta quién manda (la que no se deja ver / la teniente en la calle), y se paga en el 5a: Kal da por perdido el contrato de Keene y Chiara le marca las dos puertas ([[98_Agent_Handoff/sessions/2026-10-24_claude_cap04_cortejo_keene_blake]]).
 - **Puntos de ChatGPT, caps. 1–11 (CANON):** Chiara llega en jet privado desde Palermo (hangar de Kingsley); en el 47 entra por Nueva York ([[98_Agent_Handoff/sessions/2026-10-22_claude_puntos_chatgpt_caps_01_08]]).
 - **Fabrizio:** última plática en el Cap. 55. CANON: la coerción de Volpi pasa a Tommaso. Falta: su lugar en la Parte II y qué iba a contar.
+- **Cap. 12 (archivo 09; 2026-10-26, DISEÑO, espera lectura):** regla 05 y levantón del Tasador por dirección del autor; hija de Rowe (CANON); arrastre pendiente al 13 ([[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_levanton_cap12]]). Regla 05: siguen 13–16, uno por sesión.
 - **Cap. 13 (archivo 10):** Kal paga a Crowe la bolsa de Rowe (consecuencia del 12); cuotas y objeción de Nadir; eco en el 43.
 - **Caps. 14–16 (archivos 11–13; 2026-10-22, autorizado):** arco lector aplicado: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Propuesta_Arco_Caps_11-13_Lector]].
 - **Vento (CANON 2026-10-22):** siembra al final del 38; muere en el Cap. 39 *La mano* (archivo 33b; ~mediados de oct). [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]].
