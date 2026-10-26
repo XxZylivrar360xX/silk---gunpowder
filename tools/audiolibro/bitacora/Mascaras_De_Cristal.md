@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-25 23:35. Al día: 57 de 57.
+Actualizada: 2026-10-26 00:23. Al día: 57 de 57.
 
 ## Pendientes
 
@@ -25,14 +25,14 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | 11 | La teniente | AL DIA | 2026-10-24 |
 | 12 | La balanza | AL DIA | 2026-10-25 |
 | 13 | Dos sillas vacías | AL DIA | 2026-10-25 |
-| 14 | El farol | AL DIA | 2026-10-25 |
-| 15 | Roma Atrii | AL DIA | 2026-10-25 |
-| 16 | Auster | AL DIA | 2026-10-25 |
-| 17 | La regla del teléfono | AL DIA | 2026-10-25 |
-| 18 | Yo lo llevo | AL DIA | 2026-10-25 |
-| 19 | El sobre rojo | AL DIA | 2026-10-25 |
-| 20 | Le quedé debiendo | AL DIA | 2026-10-25 |
-| 21 | El día nublado | AL DIA | 2026-10-23 |
+| 14 | El farol | AL DIA | 2026-10-26 |
+| 15 | Roma Atrii | AL DIA | 2026-10-26 |
+| 16 | Auster | AL DIA | 2026-10-26 |
+| 17 | La regla del teléfono | AL DIA | 2026-10-26 |
+| 18 | Yo lo llevo | AL DIA | 2026-10-26 |
+| 19 | El sobre rojo | AL DIA | 2026-10-26 |
+| 20 | Le quedé debiendo | AL DIA | 2026-10-26 |
+| 21 | El día nublado | AL DIA | 2026-10-26 |
 | 22 | Lo que nadie estaba mirando | AL DIA | 2026-10-23 |
 | 23 | Lo pequeño | AL DIA | 2026-10-23 |
 | 24 | El primer huésped | AL DIA | 2026-10-23 |
@@ -72,6 +72,22 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Historial
 
+- 2026-10-26 00:23 · Cap. 21 (18_El_Dia_Nublado.md) · audio regenerado
+- 2026-10-26 00:23 · Cap. 20 (17_Cuentas_Claras.md) · audio regenerado
+- 2026-10-26 00:23 · Cap. 19 (16_El_Sobre_Rojo.md) · audio regenerado
+- 2026-10-26 00:23 · Cap. 18 (15_El_Porton.md) · audio regenerado
+- 2026-10-26 00:23 · Cap. 17 (14_La_Regla_Del_Telefono.md) · audio regenerado
+- 2026-10-26 00:23 · Cap. 16 (13_Auster.md) · audio regenerado
+- 2026-10-26 00:23 · Cap. 15 (12_Roma_Atrii.md) · audio regenerado
+- 2026-10-26 00:23 · Cap. 14 (11_El_Farol.md) · audio regenerado
+- 2026-10-26 00:09 · Cap. 21 (18_El_Dia_Nublado.md) · audio pendiente: cambió la prosa
+- 2026-10-26 00:09 · Cap. 20 (17_Cuentas_Claras.md) · audio pendiente: cambió la prosa
+- 2026-10-26 00:09 · Cap. 19 (16_El_Sobre_Rojo.md) · audio pendiente: cambió la prosa
+- 2026-10-26 00:09 · Cap. 18 (15_El_Porton.md) · audio pendiente: cambió la prosa
+- 2026-10-26 00:09 · Cap. 17 (14_La_Regla_Del_Telefono.md) · audio pendiente: cambió la prosa
+- 2026-10-26 00:09 · Cap. 16 (13_Auster.md) · audio pendiente: cambió la prosa
+- 2026-10-26 00:09 · Cap. 15 (12_Roma_Atrii.md) · audio pendiente: cambió la prosa
+- 2026-10-26 00:09 · Cap. 14 (11_El_Farol.md) · audio pendiente: cambió la prosa
 - 2026-10-25 23:35 · Cap. 13 (10_El_Loft_Del_Soltero.md) · audio generado
 - 2026-10-25 23:33 · Cap. 13 (10_El_Loft_Del_Soltero.md) · audio borrado
 - 2026-10-25 23:26 · Cap. 13 (10_El_Loft_Del_Soltero.md) · audio regenerado
