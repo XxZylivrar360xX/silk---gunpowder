@@ -11,6 +11,7 @@ Cirugia editorial (2026-09-26, decisiones del autor; ver 13_Auditorias/Book_01_M
 Cierre corregido (2026-09-03): ya NO termina con Kal prendiendo el telefono y viendo las llamadas perdidas en la carretera -- eso se recoloca al inicio del Capitulo 15, cuando llega al loft. Aqui cierra con el telefono todavia apagado y una linea que le avisa al lector, sin que Kal lo sepa, que algo paso en paralelo en la ciudad mientras el estaba en la montaña -- ancla el "Dos dias antes" del Capitulo 15 al mismo fin de semana, no a un salto temporal separado.
 Nombre del lago del imán (2026-10-08, encargo del autor; DISEÑO): *Lake Meriwether*. No es [[05_Locations/El_Lago]] (H7).
 Arco lector 14-16 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_14-16_Lector; sigue TERMINADO; prosa nueva DISEÑO pendiente de lectura): A2, A9 aplicados.
+Regla de dialogo 05 (2026-10-26, encargo del autor; DISENO pendiente de lectura; el estado se conserva): doce cortes de eco/remate (salida, nevera, piedras, derecho, la casa, el "dai", la amiga); Kal ya no dice ni oye el nombre de Chiara hasta "Dilo tu tambien". Detalle: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_telefono_cap17]].
 -->
 
 # Capítulo 17 — La regla del teléfono
@@ -31,7 +32,7 @@ La residencia de la universidad tenía un aparcamiento para diez minutos y un ca
 
 —Dije a las nueve.
 
-—Y son las nueve.
+El reloj del salpicadero marcaba las nueve en punto. Kal no dijo nada.
 
 Metió la mochila atrás, sobre lo que Kal había cargado la noche anterior y vuelto a revisar esa mañana. Se asomó a mirarlo.
 
@@ -57,7 +58,9 @@ La sonrisa de Marisol se ladeó un poco más.
 
 —Son dos noches.
 
-—Hay que comer las dos noches. —Kal cerró el portón trasero—. ¿Repelente?
+Kal cerró el portón trasero.
+
+—¿Repelente?
 
 —Sí.
 
@@ -65,11 +68,7 @@ La sonrisa de Marisol se ladeó un poco más.
 
 —Del que me diste tú, que es el que tú compras, así que si no sirve es culpa tuya. —Se subió, se puso el cinturón, bajó la visera y la volvió a subir porque no había espejo—. Botiquín, linterna, la manta térmica que me obligas a llevar y que no hemos abierto nunca, y un impermeable. ¿Algo más, o arrancamos?
 
-—Medicinas.
-
-—No tomo medicinas.
-
-—Por si acaso.
+—Medicinas. Por si acaso.
 
 —Por si acaso qué. Tengo veinte años.
 
@@ -133,11 +132,7 @@ Kal probó un viento con el pie y no contestó.
 
 El arroyo tenía un tramo de piedras planas que Marisol reconoció antes que Kal.
 
-—Aquí competíamos —dijo, ya agachándose a buscar una piedra del tamaño correcto—. Papá ganaba casi siempre. Yo gané dos veces en mi vida, y las dos veces él dijo que había tenido el sol en contra.
-
-—¿Y ahora?
-
-—Ahora te toca perder a ti.
+—Aquí competíamos —dijo, ya agachándose a buscar una piedra del tamaño correcto—. Papá ganaba casi siempre. Yo gané dos veces en mi vida, y las dos veces él dijo que había tenido el sol en contra. Ahora te toca perder a ti.
 
 No perdió por cortesía. Perdió porque Marisol tiraba con una muñeca que Kal no recordaba haberle enseñado. La piedra de ella rebotó seis veces contra las cuatro de la mejor tirada de él, y Marisol levantó los brazos como si acabara de ganar algo de verdad.
 
@@ -197,19 +192,11 @@ Por la mañana caminaron arroyo arriba. Kal iba delante por costumbre hasta que 
 
 Kal tardó un segundo de más en contestar, y ella lo notó.
 
-—Podrías ser mi abogada —dijo, medio en broma, medio no.
-
-—¿Tuya?
-
-—Mía.
+—Podrías ser mi abogada —dijo Kal, medio en broma, medio no.
 
 Marisol se rió, corta y sin malicia.
 
 —No, gracias. El día que alguien te arreste de verdad vas a necesitar a alguien con más de seis meses de experiencia, no a una practicante que todavía confunde una moción con otra.
-
-—Tengo fe.
-
-—Guárdala para cuando de verdad la necesites.
 
 —¿Qué es lo más raro que te han enseñado hasta ahora? —preguntó Kal, más para cambiar de tema que otra cosa.
 
@@ -217,9 +204,9 @@ Marisol lo pensó de verdad, no como pregunta de cortesía.
 
 —Que la policía puede mentirte en un interrogatorio. Sobre las pruebas que tiene, sobre lo que ya confesó tu cómplice, sobre lo que sea. Es legal. Se llama engaño investigativo, y la mitad de las confesiones falsas del país salen de ahí — gente que cree que ya lo tienen todo y prefiere admitir algo que no hizo antes que seguir esperando lo peor.
 
-—¿Y cómo se defiende alguien de eso?
+—¿Y qué hace uno?
 
-—No se defiende. Se calla. —Saltó una piedra del camino sin mirarla—. El profesor lo repite como mantra: si alguna vez te interrogan de verdad, lo único que tienes que decir es que quieres un abogado. Todo lo demás es teatro, y el teatro está diseñado para que pierdas.
+—Se calla. —Saltó una piedra del camino sin mirarla—. El profesor lo repite como mantra: si alguna vez te interrogan de verdad, lo único que tienes que decir es que quieres un abogado. Todo lo demás es teatro, y el teatro está diseñado para que pierdas.
 
 Kal guardó eso en algún lugar sin decir para qué, con la misma costumbre con la que guardaba una pieza que todavía no sabía si iba a necesitar.
 
@@ -241,7 +228,7 @@ Kal le pasó un sándwich sin comentar cómo se había enterado. Con Héctor, es
 
 —¿En serio, o es un "cuando quieras" de los tuyos que en realidad significa "nunca lo vamos a agendar"?
 
-—En serio.
+—Escoge un sábado. Cocino yo.
 
 Marisol masticó un momento, mirando el arroyo.
 
@@ -249,15 +236,17 @@ Marisol masticó un momento, mirando el arroyo.
 
 —La memoria no es tan generosa como la hace sonar tu papá.
 
-—Él tampoco era tan generoso. —Sonrió, corto—. Lo extraño, ¿sabes? No todo el tiempo. Pero sí en momentos como éste. Este lugar era suyo antes que nuestro.
+Marisol sonrió, corto.
+
+—Lo extraño, ¿sabes? No todo el tiempo. Pero sí en momentos como éste. Este lugar era suyo antes que nuestro.
 
 Kal no contestó enseguida. Miró el fuego apagado de esa mañana, todavía humeando un poco.
 
 —Yo también lo extraño —dijo al final, sin adornarlo—. Más de lo que esperaba.
 
-—¿Por qué más de lo que esperabas?
+Marisol dejó la bota en el suelo y esperó.
 
-—Porque no pensé que me iba a quedar tan poca gente que me conociera de antes. —Se limpió las manos en el pantalón—. Y él era de los pocos.
+—No pensé que me iba a quedar tan poca gente que me conociera de antes. —Se limpió las manos en el pantalón—. Y él era de los pocos.
 
 Marisol no dijo nada. Se acercó lo suficiente para apoyar el hombro contra el de él, sin abrazo, sin declaración, el tipo de contacto que Kal sabía recibir sin ponerse rígido.
 
@@ -277,7 +266,7 @@ Marisol levantó la cabeza de golpe.
 
 —Dijiste algo. —Se enderezó, ya sin dejarlo ir—. Dijiste "dai". Eso es italiano.
 
-—No dije nada.
+Kal se miró el dedo.
 
 —Kal. —Lo señaló con el palo que usaba para atizar el fuego, como si fuera prueba suficiente—. En serio te gusta, ¿eh? Para que hayas aprendido italiano sin darte cuenta.
 
@@ -292,10 +281,6 @@ Le restó importancia en voz alta y le dio la razón por dentro, en el mismo seg
 Marisol dejó pasar un silencio largo y lo rompió sin levantar la vista.
 
 —¿Y tu amiga?
-
-—¿Qué amiga?
-
-—Chiara.
 
 —Está bien.
 
@@ -321,7 +306,7 @@ Kal tardó.
 
 —No sé qué quiere decir eso.
 
-—Sí sabes.
+Marisol esperó, sin ayudarlo.
 
 Kal atizó el fuego, que no lo necesitaba. Le dio la vuelta a un leño, lo acomodó, se limpió la mano en el pantalón.
 
