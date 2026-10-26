@@ -3,6 +3,7 @@ Renumerado 2026-10-22 (decisión del autor): antes Cap. 15; numeración corrida 
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «El portón».
 Estado: TERMINADO. Cirugia editorial 2026-09-26 (Prioridad C, autorizada por el autor, sigue TERMINADO): corte de la apertura de Nadir y Danny y de "Dos dias antes" (5-ter; ademas corregia una cronologia rota: la escena caia en domingo con los dos ya retenidos), prolepsis de Lucia, recuento a Walt comprimido, sedan y reflexion del corazon compactados, "Contame" -> "Cuenteme". Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17.md.
 Cirugia de dialogo de terceros 2026-10-04 (S2 del Plan_Cirugia_Terceros_Parte_I; sigue TERMINADO): escena de Lucia en el hospital reescrita por decision del autor (va la subjefa a proposito, sin uniforme; fuera "uniformada, joven" y la explicacion de la rutina; cruce de apellidos Varek/Bellandi). La prosa nueva es DISENO pendiente de lectura del autor. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I.md.
+Regla 05 (esticomitia de una sola voz), 2026-10-26, a pedido del autor (sigue TERMINADO; prosa nueva DISENO pendiente de lectura): en la visita a Hector, fuera "No lo convenci" / "Es lo mismo, con usted" (remate doble), "Ya lo se" / "¿Entonces por que viene?" (Chiara contesta otra cosa: parte de llamadas; Hector la regresa) y el eco "No es la unica" (gesto de la una en la mesita); "Eso ya lo se" pasa a "Eso lo se desde la primera vez que la vi". Intactos Lucia, Walt, la carta y las lineas de arco. Ver 98_Agent_Handoff/sessions/2026-10-26_claude_regla05_porton_cap18.md.
 Arco lector 14-16 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_14-16_Lector; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): A1 -- la visita de Chiara a Hector (antes en el Cap. 16) pasa aqui como escena del sabado, entre la noche del viernes con Walt y la carta; primera frase reescrita sin Kal, "mas despierto que la noche anterior", "Usted no tiene que venir"; Chiara recoge el catalogo antes de la ambulancia (va en su regazo); la pregunta de Hector pesa en el sussurro ("con la pregunta de Hector todavia a cuestas"); la carta se escribe el sabado por la noche, lo que justifica "el viernes".
 Protagonistas: Chiara Bellandi, con apariciones de Walter Keegan y Lucia Varek (Nadir Amrani y Daniel Hayes solo mencionados, inalcanzables). Hector Navarro inconsciente el viernes; despierto en la visita del sabado.
 Ventana temporal: el viernes del Capitulo 14 (La regla del telefono), mientras Kal y Marisol estan de campamento, y el sabado siguiente (visita al hospital y carta). Bajo la reordenacion del 2026-08-29, H10 va ANTES de H4 y H11 -- en este punto Kal y Chiara TODAVIA NO se han besado.
@@ -117,15 +118,13 @@ El sábado por la tarde volvió a Santa Aurelia con un café que Héctor no iba 
 
 —La silla verde. La que cuesta lo que cuesta un auto usado. —Gruñó, pero sin el peso de siempre.
 
-—No lo convencí. Solo dejé el catálogo donde lo pudiera ver.
+Chiara no le recordó que era la primera de las tres páginas que ella había doblado.
 
-—Es lo mismo, con usted.
+—Usted no tiene que venir —dijo él, después de un silencio.
 
-—Usted no tiene que venir —añadió, después de un silencio.
+—Walt sigue llamando a Kal. A Nadir y a Danny también. Nadie contesta, pero alguien va a contestar.
 
-—Ya lo sé.
-
-—¿Entonces por qué viene?
+—No le hablé de Kal. Le dije que no tiene que venir, y usted sigue viniendo.
 
 Chiara dejó el café en la mesita.
 
@@ -135,11 +134,11 @@ Héctor la miró un momento, con la clase de atención que no gastaba en cualqui
 
 —Ésa no es la única razón.
 
-—No —admitió ella, después de un momento—. No es la única.
+Chiara pasó una uña por el borde de la mesita, despacio, y no lo negó.
 
-—Somos de mundos distintos, Héctor —dijo, casi de pasada, como quien cierra un tema antes de que nadie lo abra—. Eso no cambia porque yo venga a traerle café, ni porque usted me deje ganarle una discusión sobre muebles.
+—Somos de mundos distintos, Héctor —dijo después, casi de pasada, como quien cierra un tema que el otro acaba de abrir—. Eso no cambia porque yo venga a traerle café, ni porque usted me deje ganarle una discusión sobre muebles.
 
-—Eso ya lo sé. —La voz le salía más floja que antes del infarto, y aun así no perdía el filo—. ¿Y por qué me lo dice a mí?
+—Eso lo sé desde la primera vez que la vi. —La voz le salía más floja que antes del infarto, y aun así no perdía el filo—. ¿Y por qué me lo dice a mí?
 
 Chiara no contestó enseguida.
 
