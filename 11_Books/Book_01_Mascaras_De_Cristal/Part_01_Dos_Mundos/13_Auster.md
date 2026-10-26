@@ -12,6 +12,7 @@ Narrador (2026-10-05, SURGERY autorizada por el autor; sigue TERMINADO): apertur
 Foto de Plaza Corona (2026-10-18, orden del autor; DISENO del agente, pendiente de lectura; sigue TERMINADO): la fotografia granulada que Lucia desliza es el cuadro de la camara de Plaza Corona durante el 360 del Cap. 8 (reloj del Ayuntamiento, fuente, Peugeot de costado, dos manchas negras donde irian las caras). Kal la reconoce y no la toma; Lucia no menciona al acompanante.
 Vela de Palermo (2026-10-18, orden del autor; capitulo TERMINADO, el estado se conserva): recuerdo movido intacto desde el Cap. 2 a la noche de domestici eius, antes de "Esa noche no encendio una vela". Puente DISENO: "Lo primero que le pidieron las manos fue una vela." El "ya lo arreglo yo" de Corrado se cobra en la lampara de Chiara.
 Arco lector 11-13 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_11-13_Lector; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): P1, P3, P4A, P5, P6, P8a/b/d aplicados. Kenji entrega -> vela y recuerdo de Corrado -> lampara -> MICH. 7:6 y sintesis; 'Su propia casa' = el Monarch; el papel del cajon (subjefa) se saca y se devuelve sin usar (Chiara no sabe su nombre; el 15 une apellido y rumor); demora de tres semanas hecha decision ('Dijiste que me lo traias tu' / 'Te lo traigo entero...'); nota al margen ('Ps. 26:12') sin tachar; Kal espera de pie y se sienta tras el 'Sientese'. VERIFY (2026-10-22): V2 margen 'Ps. 26:12' (no 'testes iniqui'); V4 'sentado en una de sus mesas'; V5 'el olor de su propio papel'. R1/R3 (2026-10-22): 'Tardó poco más de dos semanas' (apertura) y 'Llevaba semanas faltando' (taller); dialogo 'tres semanas' intacto; Auster en hoja aparte con referencia al margen; triada 'gasolinera / del sur / Kenji'. D1–D3 (2026-10-22): papel de la subjefa = 'el de la costa' (apertura, sintesis, cierre; sustituye 'tercer papel'/'del cajon'); apertura 'La pregunta vino en tres piezas.' (sustituye 'Tardó poco más de dos semanas'); nota de la gasolinera puesta por escrito en hoja suelta, como la del sur. E1–E4 (2026-10-22): 'cenaba con alguien' (fuera 'en la costa', ya en 'el de la costa'); apertura 'llegó'->'vino' (se quedan los 'llegó' de las piezas, anafora); 'lo pasó a una hoja suelta' (fuera 'por escrito'); 'otro camino' (fuera 'un tercer camino'; 'un tercero', 'tres conversaciones'/'Tres favores' protegidos). E5 (2026-10-22): 'otro camino... los otros dos' -> 'un camino mas ancho... los dos que ya tenia'.
+Regla de dialogo 05 (2026-10-26, encargo del autor; DISENO pendiente de lectura; el estado se conserva): seis cortes de eco/remate (Mabel y los fiscales, el taller, Lucia). Detalle: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_auster_cap16]].
 -->
 
 # Capítulo 16 — Auster
@@ -36,13 +37,9 @@ Chiara se quedó con la taza a medio camino de la boca.
 
 —¿Fiscales?
 
-—Yo no dije eso.
-
-—No. Lo dijiste sin decirlo, que es distinto.
-
 Mabel se limpió las manos en el delantal, ese gesto que usaba cuando decidía cuánto valía la pena seguir contando.
 
-—Lo que digo es que hay gente de traje reuniéndose de noche en un lugar que ningún hombre de traje elegiría por gusto. El resto lo armas tú, que para eso te pago yo el café.
+—Yo no dije fiscales. Lo que digo es que hay gente de traje reuniéndose de noche en un lugar que ningún hombre de traje elegiría por gusto. El resto lo armas tú, que para eso te pago yo el café.
 
 Chiara no la corrigió. Volvió al penthouse esa misma tarde, lo pasó a una hoja suelta y, antes de guardarla en el cajón nuevo —el que ya empezaba a llenarse—, escribió al margen, en la letra apretada que sólo ella entendía, una sola línea:
 
@@ -182,13 +179,7 @@ Lo encontró debajo de un auto que no era suyo. No esperó a que saliera.
 
 La llave, abajo, siguió girando.
 
-—¿Quién?
-
-—Calle Corona. Esta semana.
-
-—¿Cómo lo sabes?
-
-—Lo sé desde hace tres semanas.
+—Calle Corona, esta semana —añadió ella—. Lo sé desde hace tres semanas.
 
 La llave se detuvo. Kal salió sobre el carrito y se quedó sentado ahí, con un trapo que ya no limpiaba nada.
 
@@ -200,13 +191,7 @@ La llave se detuvo. Kal salió sobre el carrito y se quedó sentado ahí, con un
 
 —Villani no se va a acordar de mí.
 
-—Ya se acuerda.
-
-Kal dejó el trapo en el piso.
-
-—¿Lo llamaste tú?
-
-—Alguien lo llamó. Sin tu nombre.
+Chiara esperó. Kal tardó un segundo en entenderlo, y dejó el trapo en el piso.
 
 —¿Y Rafe? ¿Lo pusiste tú?
 
@@ -220,11 +205,7 @@ Kal no la miró. Miró el auto, el carrito, el trapo en el piso, y Chiara supo q
 
 —¿Y a él qué le pasa?
 
-—Una visita incómoda por algo que sí hizo.
-
-—Por esto no.
-
-—Por esto no.
+—Una visita incómoda por algo que sí hizo. Por esto no.
 
 —¿A quién le debes esto?
 
@@ -256,7 +237,7 @@ Kal se sentó. Ella también, frente a él, con una carpeta que abrió sin apuro
 
 Kal no la tomó. No hacía falta. Arriba, borroso, el reloj del Ayuntamiento; abajo, la fuente de Plaza Corona, y delante de la fuente un coche rojo atravesado de costado, con dos manchas negras en las ventanillas donde tendrían que estar las caras. La cámara del poste había escogido bien el segundo.
 
-—¿Y el mío es uno de los dos?
+Kal no preguntó cuál de los dos era el suyo. Lucía se lo dijo de todos modos.
 
 —El suyo es el que menos me gusta, para serle honesta. —Lucía no sonrió, pero algo en su voz sonó casi a advertencia amistosa—. El otro sospechoso tiene historial. Usted tiene un taller legal, un contrato de mantenimiento con este mismo Departamento, y una cuenta que, hasta donde mis analistas han podido rastrear, no debería poder pagar un coche así de rápido con papeles así de limpios.
 
@@ -266,7 +247,7 @@ Lucía lo miró un momento más de lo estrictamente necesario, y Kal sostuvo la 
 
 —Vamos a confirmar todo eso.
 
-—Confírmelo.
+Kal asintió una vez, como quien no tiene nada que confirmar.
 
 Lo confirmaron. Villani Motors recordaba la venta en efectivo — Chiara se había asegurado de eso tres días antes, con una llamada que ni siquiera mencionó el nombre de Kal. El circuito de Kingsley Field tenía un registro de mantenimiento a nombre de Almendra Towing, real, aburrido, sin nada que ocultar porque no ocultaba nada más que la mitad de la historia.
 

@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-26: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_auster_cap16]] · Cap. 16: regla 05 en *Auster* (seis cortes de eco y remate; Mabel, el taller, Lucía); prosa DISEÑO pendiente de lectura.
 - 2026-10-26: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_roma_atrii_cap15]] · Cap. 15: regla 05 en *Roma Atrii* (diez cortes de eco y remate; Kenji, el favor y la franja); prosa DISEÑO pendiente de lectura.
 - 2026-10-26: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_farol_cap14]] · Cap. 14: regla 05 en *El farol* (siete cortes de eco y remate en el torneo y el penthouse; Walt–Mabel intacto); prosa DISEÑO pendiente de lectura.
 - 2026-10-26: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_blake_cap13]] · Cap. 13: regla 05, arrastre del levantón (labio, conmoción, el barrio lo sabe) y Blake en el lobby del Monarch («Yo me encargo», la mano sin pedir, «Me caí de unos tacones»); prosa DISEÑO pendiente de lectura.
