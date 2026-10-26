@@ -10,6 +10,7 @@ Funcion: beats 12 y 12-b. Red civil de Chiara (Mabel); primer reencuentro Walt/M
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); sigue BORRADOR): Mabel, fuera "Yo solo sirvo cafe" (queda "Yo no dije para que" como eco con variacion del Cap. 1) y fuera el remate "Eso, en este barrio, asusta mas que un arma" (decision del autor; supersede la linea "Se conserva" de arriba en ese punto).
 Arco lector 11-13 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_11-13_Lector; sigue BORRADOR; prosa DISENO pendiente de lectura): P7 y P8e/P8f aplicados. Siembra 'Tampoco le conto lo de la mesa tres'; el ladrillo vuelve al entrar al penthouse ('Tampoco esa noche lo tiro'); condicion de Walt (comprarle su parte 'a precio de lista') antes de 'Minoritaria', que sigue siendo la ultima replica. VERIFY V3: 'dijo' -> 'dijo Walt' (desambigua tras reorden).
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N11-1 a N11-3. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
+Regla de dialogo 05 (2026-10-26, a pedido del autor; sigue BORRADOR; DISENO pendiente de lectura): cortes de eco y turnos perdidos en el torneo y el penthouse. Ver 98_Agent_Handoff/sessions/2026-10-26_claude_regla05_farol_cap14.md.
 -->
 
 # Capítulo 14 — El farol
@@ -50,7 +51,7 @@ Mabel pasaba un trapo por la madera, de un extremo al otro, sin prisa.
 
 —Walt Keegan. En el Monarch. Jugando cartas.
 
-—Es lo que dice la lista.
+—Pagó la entrada en efectivo. Completa, el primer día.
 
 Mabel puso la taza frente a ella y se limpió las manos en el delantal, decidiendo cuánto valía la pena contar.
 
@@ -172,7 +173,7 @@ Chiara se sentó en la silla vacía a su lado, la del jugador que había abandon
 
 —Esta mañana no me dijo que venía a jugar.
 
-—Esta mañana usted no me preguntó.
+Walt no contestó.
 
 —¿Por qué está aquí?
 
@@ -210,15 +211,15 @@ Walt dejó las fichas quietas.
 
 —¿Cuánto le falta?
 
-—Lo que tengo, más lo de esta noche, más paciencia. —Se encogió de hombros, sin ninguna prisa por parecer necesitado—. No pienso pedirle nada a nadie. Ya pasé diez años debiendo algo que no debía.
+—Lo que tengo, más lo de esta noche, más paciencia. —Se encogió de hombros, sin ninguna prisa por parecer necesitado—. No pienso pedirle nada a nadie.
 
 Chiara miró la mesa, las fichas, y pensó en el casino: en cuánto licor compraba cada mes, en cuánto de eso llegaba con margen para terceros que no eran ni honestos ni de aquí.
 
 —No le estoy ofreciendo un préstamo —dijo.
 
-—Todavía no me ofrece nada.
+Walt esperó, las manos quietas sobre las fichas.
 
-—Le ofrezco entrar. Con mi dinero, no con el del Monarch. Una parte chica. La bodega, el alambique y las decisiones son suyas. Con abogado, con papeles, con su firma y la mía.
+—Me explico. Le ofrezco entrar. Con mi dinero, no con el del Monarch. Una parte chica. La bodega, el alambique y las decisiones son suyas. Con abogado, con papeles, con su firma y la mía.
 
 —¿Y el casino?
 
@@ -228,9 +229,9 @@ Walt miró hacia la mesa de blackjack, donde Tommaso fingía no mirar.
 
 —Su gente del casino qué va a decir.
 
-—Mi gente del casino no tiene nada que decir sobre mi dinero.
+—Mi gerente lo marcó en la lista para verificar solvencia. —No bajó la voz—. Ya puede tacharlo.
 
-—¿Y por qué querría usted un pedazo de una bodega con goteras?
+—¿Y usted qué saca de esto?
 
 —Porque el whisky que sirvo hoy viene de gente que no conozco. —Chiara se puso de pie, alisándose la falda con un gesto que no admitía réplica—. Y porque usted no me lo pidió.
 
@@ -270,7 +271,7 @@ Kal se detuvo a medio camino de dejar la bolsa sobre la mesa.
 
 —Walt no tiene destilería.
 
-—Tiene una bodega al norte del canal con más goteras que historia. Y desde esta noche tiene una socia.
+—Todavía no la llama así en voz alta. Dice que da mala suerte. —Se frotó un pie con el otro—. Tiene una bodega al norte del canal con más goteras que historia.
 
 Kal dejó la bolsa.
 
@@ -280,13 +281,13 @@ Kal dejó la bolsa.
 
 Kal la miró un momento largo.
 
-—No es lo mismo.
+—Con abogado y con papeles —dijo Chiara, antes de que él preguntara nada—. Lo de en medio es lástima. Eso lo dijo él, con lo del teléfono.
 
-—No. Por eso lo hice así.
+—¿Y aceptó?
 
-—¿Te lo pidió?
+Chiara cerró los ojos, dejando que el cansancio de la noche le pesara por fin en los hombros.
 
-—Tú sabes mejor que yo que no le pide nada a nadie. —Chiara cerró los ojos, dejando que el cansancio de la noche le pesara por fin en los hombros—. Dijo "minoritaria". En su idioma creo que es un sí.
+—Dijo "minoritaria". En su idioma creo que es un sí.
 
 Algo en la cara de Kal se aflojó, apenas, de una manera que Chiara ya empezaba a reconocer como la forma que tenía de estar orgulloso sin decirlo.
 

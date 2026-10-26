@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-26: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_farol_cap14]] · Cap. 14: regla 05 en *El farol* (siete cortes de eco y remate en el torneo y el penthouse; Walt–Mabel intacto); prosa DISEÑO pendiente de lectura.
 - 2026-10-26: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_blake_cap13]] · Cap. 13: regla 05, arrastre del levantón (labio, conmoción, el barrio lo sabe) y Blake en el lobby del Monarch («Yo me encargo», la mano sin pedir, «Me caí de unos tacones»); prosa DISEÑO pendiente de lectura.
 - 2026-10-26: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_levanton_cap12]] · Cap. 12: regla 05 y levantón del Tasador (bodega de Las Calderas, la credencial del Monarch las salva, amenaza a Sam (hija de Rowe, amiga de Marisol), sin parte; Kal quiere a la escoria); prosa DISEÑO pendiente de lectura.
 - 2026-10-24: [[98_Agent_Handoff/sessions/2026-10-24_claude_cap04_cortejo_keene_blake]] · Collins pasa a teniente en el Libro I; Cap. 11 retitulado *La teniente*.
