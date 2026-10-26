@@ -50,7 +50,7 @@
 ## Pendientes del autor
 
 1. **Ubicación:** con Mei-Lin, Bonnie y Ren dentro, cabe en la Parte II (después de que el Patio se vuelve familia; antes del choque) o al abrir la III, antes de F2 (Mei-Lin muere y Bonnie se va en la III).
-2. **La seña:** confirmar "Nadie tiene prisa" y sembrarla en el Cap. 12.
+2. **La seña:** "Nadie tiene prisa" (CONFIRMADA por el autor, 2026-10-26), sembrada en el Cap. 12: la dice el de la máscara al oído, con la mano en la cara interna del muslo, bajo el vestido. Chiara tuerce la boca y entrecierra los ojos (repulsión dosificada, sin trauma). A Kal le da las señas, pero la voz se la guarda. Falta describir el vestido (el autor manda foto).
 3. **Lo que dice antes de morir:** la línea "tan sucia y tan baja" es del autor.
 4. **Los Calderos:** si Mack Calderon sabe que fue la mujer de Mercer.
 5. **¿Crowe se entera?** Muere al final del II; sus alquilados muertos o sueltos pesan en el clima de la tormenta.

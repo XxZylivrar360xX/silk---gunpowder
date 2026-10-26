@@ -117,7 +117,11 @@ Después hubo piezas.
 
 El piso de lámina de la camioneta, que olía a aceite quemado y a cartón mojado. Una mano en la nuca que le mantenía la cara contra la lámina. La boca llena de un sabor a monedas. La voz de Rowe, en algún lugar a su izquierda, diciendo su cargo completo —*soy la fiscal de distrito de este condado*—, como si el título fuera una puerta, y alguien riéndose de eso.
 
-Una mano que no estaba ahí para sujetarla. Le subió por la pierna, por encima del pantalón roto en la rodilla, despacio, sin prisa por llegar a ningún lado, y Chiara entendió con una claridad horrible que la prisa no era el punto. El punto era que ella supiera que podía. Un anillo le raspó la piel a la altura del muslo.
+Una mano que no estaba ahí para sujetarla. Le entró por debajo del vestido, por la rodilla raspada, y subió por la cara interna del muslo, despacio, sin prisa por llegar a ningún lado, y Chiara entendió con una claridad horrible que la prisa no era el punto. El punto era que ella supiera que podía. Un anillo le raspó la piel, frío, con la piedra hacia adentro.
+
+—Shh —le dijo una voz al oído, a través de la lana del pasamontañas—. Nadie tiene prisa.
+
+Chiara torció la boca hacia un lado y entrecerró los ojos. Fue todo lo que le dio, y nadie se lo vio: ni un grito ni una arcada, sólo la repulsión medida de quien encuentra algo podrido en el fondo de un cajón y decide no tocarlo más que con la mirada.
 
 —Quieto —dijo otra voz, adelante—. Todavía no.
 
@@ -215,7 +219,7 @@ Chiara le enseñó el índice.
 
 —Se me rompió la uña.
 
-Le miró la muñeca sin tocarla, de un lado y del otro, como miraba una pieza antes de decidir si se podía salvar. Le miró las rodillas del pantalón, rotas. Le miró el labio. Después le apartó el pelo de la sien con un dedo, lo primero que le tocó, y encontró el chichón y la sangre seca en la raíz del pelo, y se quedó mirándolo más de lo que había mirado nada.
+Le miró la muñeca sin tocarla, de un lado y del otro, como miraba una pieza antes de decidir si se podía salvar. Le miró las rodillas, raspadas por el asfalto. Le miró el labio. Después le apartó el pelo de la sien con un dedo, lo primero que le tocó, y encontró el chichón y la sangre seca en la raíz del pelo, y se quedó mirándolo más de lo que había mirado nada.
 
 Chiara le vio en la cara algo que no le conocía, ni siquiera de la noche del ladrillo. No era enojo. Era algo más quieto que el enojo, y más frío, que le bajó por la cara como se baja una cortina de local. Duró un segundo. Después se levantó y miró a Rowe: los pies descalzos, la mejilla, la correa cortada que todavía le colgaba del hombro.
 
@@ -318,6 +322,8 @@ Chiara iba a decir que traían máscaras. Tenía la frase lista; era cierta a me
 Lo dijo como un parte, en orden, sin subir la voz. Kal no contestó. Las manos se le quedaron en el volante, en el diez y en el dos, y los nudillos se le fueron poniendo del color de la férula.
 
 Chiara se dio cuenta, tarde, de que no se lo había contado para que él lo supiera. Se lo había contado para que hiciera algo con eso. Y no supo cuál de los dos le daba más miedo: él, o lo poco que le había costado dárselo.
+
+Lo único que no le dio fue la voz. *Nadie tiene prisa.* Ésa se la guardó, sin saber todavía para qué.
 
 —Quédate unos días en la Almendra —dijo él después—. En la casa común. Ahí no entra nadie que Danny no vea desde el sofá, y Danny ve todo lo que pasa por esa puerta aunque parezca que está dormido. Nadir cocina. Walt va a cenar casi todas las noches. El taller está a tres cuadras y la grúa duerme enfrente. En el Monarch te ve cualquiera con una reservación, y el que te torció la muñeca ya sabe cómo te ves. En la Almendra no te toca nadie sin tocarme a mí primero.
 
