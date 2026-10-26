@@ -16,6 +16,7 @@ Cirugia de dialogo 2026-10-04 (DISEÑO pendiente de lectura; autorizada por el a
 Conversacion del miedo 2026-10-04 (decision del autor; prosa DISEÑO pendiente de lectura; el capitulo sigue TERMINADO): material traido por el autor de la fuente, reescrito en voz propia (no transcrito). Entra en el auto frente al Monarch, despues de que Kal apaga el motor (la decision silenciosa de quedarse se conserva intacta) y antes de "Anda, hay que subir": "lo que paso no lo puedes cambiar", "puños arriba", el remolino, el freno por miedo, "lo llevo de copiloto" (ancla: la carrera del Peugeot, Cap. 8), el miedo como señal de que algo importa, y la disculpa de Chiara por el juego de preguntas. Fugas: Chiara gira la pulsera; Kal, mano y pulgar en el volante. Fuera de esta entrada (decision pendiente del autor): "me queda una noche antes de irme" (paso al Cap. 38), la lluvia al subir, el elevador y el casino cerrado.
 Siembra 2026-10-04 (DISEÑO aprobado por el autor; arrastre de la reubicacion del Corral): en el relato del matrimonio, Chiara menciona "unas familias... que se sentaban a una misma mesa" (sin nombre del marido, sin "Il Consorzio"). Origen de "Me nombro familias. Las que tu me habias mencionado" en el parador del 24c. El nombre Il Consorzio sigue reservado al 25.
 SURGERY frente 2 (2026-10-05, autorizada por el autor; sigue TERMINADO): L18-1 fuera la reprise en cursiva de la frase de Hector (la metadata de arriba ya pedia que no se repitiera); L18-2 "No leyo la situacion. No se volvio lo que pedia." fuera; L18-3 a L18-5, la conversacion del miedo sin el pegamento del agente: fuera "¿Y quieres vivir asi?", el resumen del arco de Chiara y "dime que quieres" (Kal sólo dice lo de la falda y Chiara contesta "Con miedo."), fuera "¿Y asi estas bien?" ("Lo llevo de copiloto" queda sin evaluacion) y el aforismo del miedo (quedan los hombres sin miedo y "Si tienes miedo, es que algo te importa"). Beats del autor intactos. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Lucidez_Personajes_Frente_2.md.
+Regla de dialogo 05 (esticomitia) 2026-10-26, a pedido del autor: siete cortes de eco/remate; la prosa nueva es DISENO, espera lectura (98_Agent_Handoff/sessions/2026-10-26_claude_regla05_dia_nublado_cap21.md).
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N18-1 a N18-5 (N18-6 conservado). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
@@ -35,7 +36,9 @@ Había empezado una noche en el penthouse, cuando Chiara comentó que el club de
 
 —Ya lo sé.
 
-—Claro que lo sabes. —Ella dejó el tenedor—. ¿Tienes un porcentaje?
+Ella dejó el tenedor.
+
+—¿Tienes un porcentaje?
 
 —No.
 
@@ -77,11 +80,7 @@ Chiara abrió el bolso y puso un reloj sobre el mantel. Pesado, dorado, con la c
 
 Kal lo levantó, lo giró, le pasó la uña por el canto. Se lo acercó al oído.
 
-—Hace ruido.
-
-—Los relojes hacen ruido.
-
-—Éste hace ruido de pila. —Se lo devolvió—. Vale una noche. Si no la usa.
+—Hace ruido de pila. —Se lo devolvió—. Vale una noche. Si no la usa.
 
 —Ya la usó. Las tres.
 
@@ -145,7 +144,7 @@ Chiara no tardó nada. Un polo negro, que Kal aceptó sin mirarlo, y unos pantal
 
 —Ésos no.
 
-—Ésos sí. Cumplen el código.
+—Cumplen el código.
 
 —Son blancos.
 
@@ -251,7 +250,7 @@ Perdió el segundo hoyo también. Fue Chiara quien preguntó esta vez, con la ce
 
 —¿Y por qué no lo has vendido?
 
-—Ésa no era la pregunta.
+Kal ya iba camino al tercer *tee*, con el palo al hombro.
 
 Ganó el tercero por accidente, y gastó la pregunta en algo tonto: el nombre de la primera calle donde vivió ella, porque todavía estaban en la parte del día en que las preguntas eran souvenirs.
 
@@ -281,11 +280,7 @@ Kal se apoyó en el palo. Tardó.
 
 —*Achy Breaky Heart*.
 
-—No la conozco.
-
-—Mejor.
-
-—Cántame el coro.
+—No la conozco. Cántame el coro.
 
 —La pregunta era cuál. No que la cantara.
 
@@ -301,7 +296,7 @@ El sexto lo perdió ella.
 
 —No pido postre.
 
-—Todo el mundo pide postre.
+Kal esperó.
 
 Chiara metió el palo en la bolsa, y lo sacó, y lo volvió a meter.
 
@@ -435,9 +430,7 @@ Chiara volvió a mirar el vestíbulo.
 
 —El juego fue idea mía.
 
-—Y la pregunta te la devolví yo. —Le sostuvo la mirada—. No es culpa de nadie.
-
-Se bajó, dio la vuelta al auto por delante y le abrió la puerta desde fuera. Le tendió la mano.
+Kal se bajó, dio la vuelta al auto por delante y le abrió la puerta desde fuera. Le tendió la mano.
 
 —Anda, hay que subir.
 
