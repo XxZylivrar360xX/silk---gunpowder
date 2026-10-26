@@ -4,7 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
-- 2026-10-26: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_levanton_cap12]] · Cap. 12: regla 05 y levantón del Tasador (bodega de Las Calderas, la credencial del Monarch las salva, hija de Rowe, sin parte; Kal quiere a la escoria); prosa DISEÑO pendiente de lectura.
+- 2026-10-26: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_levanton_cap12]] · Cap. 12: regla 05 y levantón del Tasador (bodega de Las Calderas, la credencial del Monarch las salva, amenaza a Sam (hija de Rowe, amiga de Marisol), sin parte; Kal quiere a la escoria); prosa DISEÑO pendiente de lectura.
 - 2026-10-24: [[98_Agent_Handoff/sessions/2026-10-24_claude_cap04_cortejo_keene_blake]] · Collins pasa a teniente en el Libro I; Cap. 11 retitulado *La teniente*.
 - 2026-10-24: [[98_Agent_Handoff/sessions/2026-10-24_claude_cap04_cortejo_keene_blake]] · Elena Vega renombrada Renata Clark (eco con Elenna).
 - 2026-10-24: [[98_Agent_Handoff/sessions/2026-10-24_claude_cap04_cortejo_keene_blake]] · CANON mando policial: II Lucía jefa interina y Collins subjefa, Clark al cierre del II; III ambas subjefas; Lucía jefa tras la renuncia de Clark hasta el IV.

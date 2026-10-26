@@ -12,7 +12,7 @@ Fuera de este capitulo (se van al 24c): el calendario de Marta y el homenaje de 
 Continuidad: el abrazo y el temblor canon de H12 quedan para el 24c; aqui no hay abrazo. "Tienes mi palabra" y "Lo necesario. Hasta que ya no lo sea" se quedan aqui (casa comun). Arrastre al Cap. 10: la estancia es por la muñeca (ferula, tres semanas), no por conmocion: retirar mareos, receta, "dos dedos a la sien" y la gente de Dario en el Monarch.
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N9-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 Seguridad del Monarch (2026-10-22, decision del autor; prosa DISENO pendiente de lectura): en la cuenta de Chiara en la grua, la seguridad del Monarch es buena y le rinde cuentas a Dario; por eso la Almendra y no el penthouse. Siembra la vigilancia-proteccion de Dario del 24c y la tarjeta del Cap. 10.
-Levanton (2026-10-26, CANON DEL AUTOR en sustancia; supera la linea "Asalto, no atentado" de arriba; redaccion DISENO, pendiente de lectura): el Tasador contrata escoria; camioneta gris (no blanca: las del 24c y el 41 son otras), pasamontanas, las suben a las dos y las llevan a una bodega de Las Calderas junto a las vias; uno se propasa con Chiara en la camioneta y otro lo frena "todavia" (por orden, no por decencia). En la bodega reconocen la credencial del Monarch ("Varek. Casino."): eso las salva; le devuelven todo a Chiara y se quedan la bolsa de Rowe (cobro del 13). Amenazas: la hija de Rowe (sin nombre; natacion los sabados, gorra amarilla; NUEVO CANON) y "el guero de la grua": sabian a quien levantaban, no de quien mas era. Chiara: muneca, labio partido, golpe en la sien con conmocion leve, por defender a Rowe; Rowe: cachetada y susto. No hay parte: Rowe lo decide (arco oscuro). Kal: Crowe se cobra despues; a la escoria la quiere encontrar ("Esos no se tasaban. Esos se encontraban."); Chiara le da las senas (diente gris; anillo en el menique) sabiendo para que. Primera noche: Kal la despierta cada tres horas. Arrastre pendiente: Cap. 13 (archivo 10), objecion de Nadir y estado de Chiara.
+Levanton (2026-10-26, CANON DEL AUTOR en sustancia; supera la linea "Asalto, no atentado" de arriba; redaccion DISENO, pendiente de lectura): el Tasador contrata escoria; camioneta gris (no blanca: las del 24c y el 41 son otras), pasamontanas, las suben a las dos y las llevan a una bodega de Las Calderas junto a las vias; uno se propasa con Chiara en la camioneta y otro lo frena "todavia" (por orden, no por decencia). En la bodega reconocen la credencial del Monarch ("Varek. Casino."): eso las salva; le devuelven todo a Chiara y se quedan la bolsa de Rowe (cobro del 13). Amenazas: Sam, la hija de Rowe (ya sembrada: la amiga de clase de Marisol, Cap. 17; ficha de Marisol; estudia fuera, en residencia universitaria; Kal no oye el nombre: el clic llega en el 17) y "el guero de la grua": sabian a quien levantaban, no de quien mas era. Chiara: muneca, labio partido, golpe en la sien con conmocion leve, por defender a Rowe; Rowe: cachetada y susto. No hay parte: Rowe lo decide (arco oscuro). Kal: Crowe se cobra despues; a la escoria la quiere encontrar ("Esos no se tasaban. Esos se encontraban."); Chiara le da las senas (diente gris; anillo en el menique) sabiendo para que. Primera noche: Kal la despierta cada tres horas. Arrastre pendiente: Cap. 13 (archivo 10), objecion de Nadir y estado de Chiara.
 Regla de dialogo 05 (2026-10-26): Rowe no contesta el cafe; "Si. Estoy bien, Kal." en lugar del eco "Con Rowe"; triaje sin eco ("Se me rompio la una"); Rowe ofrece "Le debo una" y Chiara contesta con "Ciao, tesoro"; cabina sin "Nombre?"/"No". Sesion: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_levanton_cap12]].
 Il Consorzio (2026-10-22, idea del autor; prosa DISENO pendiente de lectura): tercera razon de Chiara para no volver al Monarch: una Ardizzone lastimada en el lobby se lee en Il Consorzio como afrenta a la familia y trae presencia que nadie pidio. Cobro en la tarjeta de Dario del Cap. 10.
 -->
@@ -137,7 +137,7 @@ El de la cachetada se agachó frente a Rowe. Sin máscara no tenía cara de nada
 
 —¿Qué? —dijo Rowe. No se lo preguntaba a nadie.
 
-—La niña tiene natación los sábados —siguió él, en el mismo tono—. A las doce. Gorra amarilla. Sale la última porque se tarda en el vestidor. —Miró el reloj—. Ya va a salir.
+—Sam sigue dormida —siguió él, en el mismo tono—. Segundo piso de la residencia, la ventana que da al estacionamiento. Los sábados no se levanta antes de la una. —Miró el reloj—. Ya mero.
 
 Rowe no dijo nada. Chiara la vio de lado, porque si giraba la cabeza la bodega se le iba detrás: la fiscal de distrito, descalza, con la mejilla roja hasta la oreja, apretándose las manos en el regazo hasta dejarse blancos los nudillos. No pidió nada. Eso fue lo peor de verle la cara.
 
@@ -161,7 +161,7 @@ La bolsa de Rowe no se la devolvieron.
 
 Se agachó otra vez, ahora frente a Chiara, y le habló con una cortesía nueva, peor que la de antes.
 
-—Disculpe lo del labio, señorita. Nadie nos dijo que era de la casa. —Le quitó una pelusa del hombro—. Pero si alguna de las dos va con la policía, nosotros sabemos dónde nada la niña. Y usted sabe dónde duerme el güero. El de la grúa. Ojos azules, ¿no? Se mete debajo de los coches sin ver quién está parado al lado.
+—Disculpe lo del labio, señorita. Nadie nos dijo que era de la casa. —Le quitó una pelusa del hombro—. Pero si alguna de las dos va con la policía, nosotros sabemos dónde duerme la muchacha. Y usted sabe dónde duerme el güero. El de la grúa. Ojos azules, ¿no? Se mete debajo de los coches sin ver quién está parado al lado.
 
 Chiara no le dio nada. Ni una palabra, ni la cara. Lo miró como se mira a un mesero que se equivocó de mesa, y se quedó con el diente gris.
 
@@ -171,9 +171,9 @@ La camioneta salió sin prisa, como había entrado al callejón. Dejaron abierta
 
 Chiara le pasó el teléfono a Rowe antes de usarlo ella. Tampoco eso lo pensó.
 
-Rowe marcó con los pulgares torpes y esperó de pie, descalza sobre el concreto. Chiara la oyó decir un nombre de mujer, y después «¿Ya salió?», y después nada durante mucho rato. Después Rowe se sentó otra vez en el piso, de golpe, como si le hubieran cortado los cables.
+Rowe marcó con los pulgares torpes y esperó de pie, descalza sobre el concreto. Chiara la oyó decir «Sam», y después «¿Dónde estás?», y después nada durante mucho rato. Después Rowe se sentó otra vez en el piso, de golpe, como si le hubieran cortado los cables.
 
-—Ya salió —dijo. A nadie, otra vez.
+—Estaba dormida —dijo. A nadie, otra vez.
 
 Le devolvió el teléfono. Chiara buscó el nombre con la mano izquierda. Tardó, porque la pantalla no se hacía para zurdos, porque se le partía en dos si la miraba fijo y porque le temblaban los dedos, cosa que decidió no registrar. Era la primera vez en una semana que lo llamaba ella.
 
@@ -233,17 +233,17 @@ Rowe se lo repitió palabra por palabra, como se repite una declaración.
 
 Chiara lo estaba mirando, y no vio nada. Ni un músculo.
 
-—No va a haber parte —dijo Rowe. Lo dijo hacia la cortina abierta, con la voz de juzgado, como quien dicta una resolución que ya no se va a apelar—. Lléveme con mi hija, señor Mercer. Después de eso no pasó nada.
+—No va a haber parte —dijo Rowe. Lo dijo hacia la cortina abierta, con la voz de juzgado, como quien dicta una resolución que ya no se va a apelar—. Lléveme a mi casa, señor Mercer. Después de eso no pasó nada.
 
 Kal la ayudó a subir primero a ella. A Chiara la subió después, con una mano bajo el codo izquierdo y la otra lista detrás de su cabeza, por si el techo de la cabina se le venía encima.
 
-La alberca era la del centro comunitario de la avenida, con un mural de delfines descarapelado y un estacionamiento de minivans. Rowe se bajó descalza. A la mitad del estacionamiento una niña de gorra amarilla cruzaba de la mano de una mujer mayor, con el pelo mojado y una bolsa de toalla más grande que ella. Rowe no corrió. Caminó hasta ellas a paso de fiscal, y Chiara supo lo que le costaba porque vio que lo hacía.
+La casa de Rowe era de dos pisos, en una calle de arces sin una sola patrulla a la vista, que era como ella la había escogido. Rowe se bajó descalza. Sacó la llave de repuesto de debajo de una maceta, como en cualquier casa de la ciudad que no fuera la de una fiscal, y caminó hacia la puerta a paso de juzgado, con el teléfono de la casa ya en la cabeza y el número de Sam en la boca. Chiara supo lo que le costaba no correr porque vio que no corría.
 
 A medio camino se volvió hacia la grúa.
 
 —Le debo una, señora Bellandi.
 
-Chiara no contestó. Le dolía la boca, y tenía la frase, pero no la voz para decirla todavía. Rowe ya se daba la vuelta cuando Chiara se asomó por la ventanilla.
+Chiara no contestó. Le dolía la boca, y tenía la frase, pero no la voz para decirla todavía. Rowe ya subía el escalón de la entrada cuando Chiara se asomó por la ventanilla.
 
 —Ciao, tesoro.
 
