@@ -22,4 +22,4 @@ Capítulo de poco diálogo y casi todo con el equipo (excepción «sequedad como
 ## Pendientes
 
 - Lectura del autor del Cap. 49.
-- Audiolibro: no se regenera. Correr `--estado` en la máquina del autor (24–49). En esta sesión `--estado` se corrió por error en el contenedor, donde no hay audios: marcó los 57 sin audio en `tools/audiolibro/bitacora/`. Esos cambios no deben conservarse (restaurar la bitácora desde git).
+- Audiolibro: no se regenera. Correr `--estado` en la máquina del autor (24–49). En esta sesión `--estado` se corrió por error en el contenedor, donde no hay audios: marcó los 57 sin audio en `tools/audiolibro/bitacora/`. Se restauró desde git en la misma sesión; nada de eso se subió.
