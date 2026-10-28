@@ -20,6 +20,7 @@ DISEÑO del agente, pendiente de lectura:
 - Lo que lleve el convoy es de los Bravos, todo menos el hombre. El sobre de Chiara es "para que yo la escuche".
 - Cierre: Mabel se cobra la puerta: le sirve el café pero no le acepta el billete ("De esto no cobro"). La red civil también paga. Sin glosa.
 - No se nombra a Halbrook ni el señuelo; no se insinúa que Kal no irá en el convoy. Eddie Sosa queda fuera (opción para otro toque). Sin EPUB, commit ni push.
+Regla de diálogo 05 (2026-10-28, a pedido del autor; prosa DISEÑO, espera lectura): fuera «Es no», «¿Eso dijo?», «Para una ruta», el «Gracias» a Bonnie, «¿Por qué no por el Cutoff?», «¿Usted sabe lo que me está pidiendo?» / «Por eso vine en persona», «¿Cómo que no sabe?», el eco «Menos él», «¿Y lo otro?», «¿Para qué?» antes del Peugeot, «Nada más» y «Ya sé que no es por dinero». Sesión: 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_su_nombre_cap54.md.
 -->
 
 # Capítulo 54 — Su nombre
@@ -60,19 +61,13 @@ Chiara tomó un trago de café. No estaba quemado esta vez. Mabel la vio tomarlo
 
 —Y si te dice que no, es no.
 
-—Es no.
-
-Mabel se le quedó viendo un momento más. Luego tomó una charola de la pila y se fue a recoger la mesa que había dejado la familia, y no volvió en todo el tiempo que Chiara tardó en terminarse el café.
+Chiara asintió. Mabel se le quedó viendo un momento más. Luego tomó una charola de la pila y se fue a recoger la mesa que había dejado la familia, y no volvió en todo el tiempo que Chiara tardó en terminarse el café.
 
 ---
 
 Llamó a las siete. Chiara estaba en su despacho del Monarch, con la hoja de turnos de seguridad todavía sin firmar.
 
-—Mañana en la noche. A las nueve, después de la última misa. En La Golondrina, frente a la parroquia. —Se oía la cafetera detrás, el chorro de vapor—. Que vayas tú. No tu gente. No un recadero. Tú.
-
-—¿Eso dijo?
-
-—Eso dijo. Y que no llegues en ese coche tuyo hasta la puerta, porque en Santa Brígida todo el mundo sabe de quién es cada coche.
+—Mañana en la noche. A las nueve, después de la última misa. En La Golondrina, frente a la parroquia. —Se oía la cafetera detrás, el chorro de vapor—. Que vayas tú. No tu gente. No un recadero. Tú. Y que no llegues en ese coche tuyo hasta la puerta, porque en Santa Brígida todo el mundo sabe de quién es cada coche.
 
 —Gracias, Mabel.
 
@@ -98,7 +93,7 @@ Bonnie no contestó enseguida. La sartén dejó de sonar.
 
 —¿Para qué?
 
-—Para una ruta.
+Chiara no contestó.
 
 —Si es algo del Patio, dígamelo a mí.
 
@@ -106,11 +101,7 @@ Bonnie no contestó enseguida. La sartén dejó de sonar.
 
 El silencio duró lo suficiente para que la radio terminara una canción y empezara otra.
 
-—Se lo mando —dijo Bonnie.
-
-—Gracias.
-
-—Señora. —Una pausa—. Mei no le dice a nadie que no.
+—Se lo mando —dijo Bonnie. Y luego—: Señora. —Una pausa—. Mei no le dice a nadie que no.
 
 Chiara esperó a que dijera algo más. Bonnie colgó.
 
@@ -124,11 +115,7 @@ Chiara siguió derecho.
 
 Dejaron atrás Kingsley Field por la izquierda, de día más feo que de noche: hangares de lámina sin pintar, una cerca larga con alambre en la punta, un avión de carga con las compuertas abiertas como una boca. Pasaron la salida del Alder Cutoff, y el letrero verde de CAMP ALDER, y Chiara no volteó a verlo. Cuatro millas después, Mei-Lin le señaló una desviación sin letrero, una carretera de dos carriles que se metía entre campos de sorgo cortado.
 
-—La del condado —dijo—. Sale por atrás de la base, por la puerta de los proveedores, y baja hasta la interestatal sin pasar por ningún pueblo.
-
-—¿Por qué no por el Cutoff?
-
-—El Cutoff llega a la autopista junto al aeropuerto. Ahí la aduana tiene cámaras en cada poste. —Mei-Lin miraba por la ventanilla, no a Chiara—. Si lo quieren sacar sin que lo vea nadie, van por aquí.
+—La del condado —dijo—. Sale por atrás de la base, por la puerta de los proveedores, y baja hasta la interestatal sin pasar por ningún pueblo. El Cutoff llega a la autopista junto al aeropuerto. Ahí la aduana tiene cámaras en cada poste. —Mei-Lin miraba por la ventanilla, no a Chiara—. Si lo quieren sacar sin que lo vea nadie, van por aquí.
 
 Era lo mismo que había dicho Lucía. Chiara no se lo dijo.
 
@@ -204,10 +191,6 @@ Rafe no dejó de sonreír, pero dejó de moverse.
 
 —Sí.
 
-—¿Usted sabe lo que me está pidiendo?
-
-—Por eso vine en persona.
-
 La mujer de la libreta escribió algo. Una línea corta. Rafe no la miró.
 
 —¿Y por dónde lo sacan?
@@ -226,25 +209,19 @@ Rafe se volvió a mirarla por primera vez. La miró: la chaqueta grande, las man
 
 —No sé.
 
-—¿Cómo que no sabe?
-
-—Sé que lleva a un hombre. Lo demás no lo sé.
+Rafe esperó más. No hubo más.
 
 —Entonces lo demás es mío. —Rafe abrió las manos sobre el mantel—. Lo que vaya en esas trocas, lo que traigan los que manejan, lo que tengan en las guanteras. Todo. Menos su hombre.
 
-—Menos él.
+Chiara asintió.
 
-—Menos él. —Rafe asintió—. Maribel.
+—Maribel.
 
 La mujer de la libreta escribió otra línea.
 
 Chiara sacó un sobre del bolsillo interior del saco y lo puso sobre el mantel. Era grueso. Lo había preparado esa tarde en la caja del Monarch, con billetes de su propia cuenta, no de la del casino, contados dos veces. Rafe lo miró sin tocarlo. Luego lo tomó, lo sopesó en la palma como se sopesa un melón en el mercado y se lo pasó a Maribel sin abrirlo. Maribel lo guardó debajo de la libreta.
 
-—Esto es para que yo la escuche —dijo Rafe—. Y ya la escuché.
-
-—¿Y lo otro?
-
-—Lo otro ya se lo dije. Lo que lleve el convoy. —Se acomodó en la silla—. Y una cosa más.
+—Esto es para que yo la escuche —dijo Rafe—. Y ya la escuché. Lo otro ya se lo dije: lo que lleve el convoy. —Se acomodó en la silla—. Y una cosa más.
 
 Chiara esperó.
 
@@ -254,9 +231,7 @@ Chiara esperó.
 
 —Yo lo sé. Mabel lo sabe. Media Santa Brígida lo sabe desde que usted parqueó su carrito en el súper de Ignacio, que por cierto cerró a las ocho y usted no es la única que conoce ese parking. —Rafe sonrió otra vez, pero esta vez sólo con la boca—. Quiero que me lo diga usted. Aquí. Delante de Maribel.
 
-—¿Para qué?
-
-Rafe tardó en contestar. Tomó los lentes de lectura del cordón, los miró, los volvió a soltar sobre la camisa.
+Chiara no preguntó para qué. Rafe tomó los lentes de lectura del cordón, los miró, los volvió a soltar sobre la camisa.
 
 —Hace unos meses —dijo— alguien en Calle Corona decidió que yo manejaba un Peugeot rojo. Un coche que yo no he visto en mi vida. Y durante semanas tuve a la jura tomando café en mi barra, y a la gente de la plaza preguntándose si Rafe ya se había vuelto pendejo a su edad. Luego un día dejaron de venir. Nadie me pidió perdón. Nadie me dijo nada. Se fueron, nomás, porque alguien encontró a otro más fácil que yo. —Juntó las manos sobre el mantel—. Yo nunca supe de quién era ese coche, señora. Cargué con el nombre de otro sin saber de quién. Y me prometí que no lo vuelvo a hacer.
 
@@ -276,7 +251,7 @@ Maribel escribió. Chiara oyó la pluma sobre el papel: dos palabras, letra apre
 
 —¿Nada más? —preguntó Rafe.
 
-—Nada más.
+Chiara no agregó nada.
 
 —Así, solita. —Rafe levantó el vaso—. Sin el apellido de nadie más.
 
@@ -306,7 +281,7 @@ Mei-Lin lo miró.
 
 —No es por dinero —dijo.
 
-—Ya sé que no es por dinero. Tómelo igual.
+—Tómelo igual.
 
 Mei-Lin no lo tomó. Abrió la puerta y bajó. Se inclinó un momento sobre la ventanilla abierta, con el antebrazo apoyado en el techo del Lancia.
 
