@@ -14,6 +14,7 @@ Función: "Institución". Chiara agota la vía legal y política: abogados del M
 - "Ya no lo tiene la ciudad": la dice Chiara y Lucía la confirma (se conserva la decisión Q12 del 2026-09-27; el plan del arco la atribuía a Lucía — el autor decide).
 - Fuera de este capítulo: la recepción de la Torre Norte ("subió y no tocó") pasa al Cap. 45; no hay apagón, Dios, loft ni Beretta.
 - Sin EPUB, commit ni push.
+- Regla de diálogo 05 (2026-10-28, DISEÑO, espera lectura): cortes de eco y turnos perdidos; [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_jurisdiccion_cap50]].
 -->
 
 # Capítulo 50 — Jurisdicción
@@ -28,7 +29,7 @@ Chiara estaba de pie junto a la ventana del penthouse con una taza que no había
 
 La voz de Héctor no tenía el registro con el que hablaba de coches ni de facturas. Era más baja y más corta, la de alguien que había pasado la noche despierto decidiendo cómo decir tres palabras.
 
-—¿No salió de dónde?
+Chiara esperó el resto. Héctor tardó en darlo.
 
 —Salimos cuatro anoche. Volvimos tres.
 
@@ -78,11 +79,7 @@ El mayor encontró el registro antes de las once: nombre, hora de ingreso, una c
 
 —Quiero ofrecer fianza.
 
-—No hay audiencia todavía.
-
-—Entonces quiero que la haya.
-
-—Esto no es lo nuestro. —Lo dijo sin queja, como quien informa el tamaño de una pieza—. Necesita un penalista.
+—No hay audiencia todavía. —Dobló los lentes y los dejó sobre el registro—. Y esto no es lo nuestro. —Lo dijo sin queja, como quien informa el tamaño de una pieza—. Necesita un penalista.
 
 Chiara ya tenía uno. Giancarlo Krane había perdido contra Kal en un pasillo de juzgado, se había quedado con el número que Kal le dejó en media hoja de libreta, y desde entonces le llevaba a ella los asuntos que no quería en manos del casino.
 
@@ -138,7 +135,7 @@ Rowe tardó un segundo de más en contestar.
 
 —El señor Mercer. —El mismo tono con el que le había apretado el brazo a Kal la noche de la cena, una vida atrás—. ¿Qué hizo?
 
-—Eso quiero saber yo.
+Chiara dejó pasar la pregunta.
 
 —Déjame ver qué tengo.
 
@@ -172,9 +169,9 @@ Edward Connors tomó la llamada él mismo, sin secretaria de por medio.
 
 —Krane. —Le hizo gracia—. El que perdió contra ella. Margaret. ¿Sabe cuántos años lleva esa mujer sin pedirme nada?
 
-—Se lo estoy pidiendo yo.
+Chiara no contestó. Del otro lado una cucharita dio dos golpes contra una taza.
 
-—Y se lo agradezco. Pero aunque me lo pidiera ella de rodillas, señora Bellandi, no tendría nada que darle. —El tono no cambió, sólo el ritmo—. Cuando la base reclama, el estado no tiene asiento en esa mesa. Ni yo, ni Katherine, ni el gobernador si usted lo despierta. Es federal. Lo era desde antes de que usted se levantara.
+—No importa. Aunque me lo pidiera ella de rodillas, señora Bellandi, no tendría nada que darle. —El tono no cambió, sólo el ritmo—. Cuando la base reclama, el estado no tiene asiento en esa mesa. Ni yo, ni Katherine, ni el gobernador si usted lo despierta. Es federal. Lo era desde antes de que usted se levantara.
 
 —Entonces dígame a quién llamo.
 
@@ -190,7 +187,7 @@ Krane llamó a media tarde. Por primera vez desde la mañana, no sonaba como si 
 
 —Ya no está ahí.
 
-—¿Cómo que no está ahí?
+Chiara no preguntó cómo. Krane se lo dijo igual.
 
 —No estaba desde antes de que yo llegara. Lo tuvieron unas horas. A las cinco y diez de la mañana llegó la reclamación de jurisdicción y se lo llevaron. Lo que el sargento me tuvo esperando toda la mañana era el papel de salida, que todavía no le llegaba. La municipal ya no tiene nada que decirme. Para ellos esto se terminó a las cinco y diez.
 
@@ -236,11 +233,7 @@ Chiara no perdió tiempo.
 
 —En Camp Alder. Lo detuvo una patrulla municipal en un camino rural a menos de un kilómetro del perímetro. Antes de que nadie lo procesara del todo, la base reclamó jurisdicción. Delito en instalación federal. Eso pesa más que cualquier cosa que alguien en esta ciudad pueda escribir.
 
-—Ya me lo dijeron cuatro personas.
-
-—Entonces ya sabe lo que le voy a decir.
-
-—Quiero oírselo a usted.
+—Ya me lo dijeron cuatro personas. —Se oyó la voz un grado más alta de lo que quería, y la bajó—. Quiero oírselo a usted.
 
 —No puedo sacarlo.
 
