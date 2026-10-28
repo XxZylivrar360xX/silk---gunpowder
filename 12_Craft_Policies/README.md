@@ -23,6 +23,8 @@ Dos preguntas distintas, dos capas distintas:
 - **Craft** (`Redaccion_De_Capitulos.md`, `voice/`, `dialogue_rules/`, `staging_rules/`, `milestones/`, `revelations/`) responde *¿cómo se escribe esta novela?* — POV, voz, diálogo, staging, estructura de capítulo, hitos, revelaciones, continuidad, creación de prosa nueva.
 - **Editorial** (`editorial/`) responde *¿cómo se juzga y, si hace falta, se interviene una escena ya escrita sin destruirla?* — es agnóstica al agente, no depende de quién escribió el capítulo.
 
+La skill de Claude Code `chapter-drafting` (`.claude/skills/chapter-drafting/SKILL.md`) es la ruta de lectura y cierre para redactar: carga `Redaccion_De_Capitulos.md`, el registro neutro, voz, revelations y milestones según la escena. Su contraparte editorial es `editorial-surgery`.
+
 `Redaccion_De_Capitulos.md` no absorbe el método editorial: escribir y editar son procesos con objetivos opuestos (generar prosa vs. juzgar prosa ya generada) y mezclarlos convierte la guía de escritura en manual de corte.
 
 ## Editorial: modos y skill

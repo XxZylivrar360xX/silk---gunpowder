@@ -12,7 +12,7 @@ Método para juzgar y, cuando el encargo lo autoriza, intervenir prosa ya escrit
 
 Sí: auditoría editorial, microedición, cirugía de prosa, revisión de redundancia o sobreexplicación, verificación postoperatoria, análisis transversal de tics o patrones de estilo, o una petición de **cerrar, aprobar técnicamente o comprobar si un capítulo está listo** (workflow CLOSE).
 
-No: redacción inicial de capítulo, brainstorming de trama, canon, diseño estructural (fusionar capítulos, mover escenas, cambiar orden, crear beats, resolver motivaciones, reestructurar arcos), continuidad macro, generación de EPUB, o una tarea que es solo diálogo/canon sin componente de edición de prosa existente.
+No: redacción inicial de capítulo (eso es `chapter-drafting`), brainstorming de trama, canon, diseño estructural (fusionar capítulos, mover escenas, cambiar orden, crear beats, resolver motivaciones, reestructurar arcos), continuidad macro, generación de EPUB, o una tarea que es solo diálogo/canon sin componente de edición de prosa existente.
 
 Si en medio de una tarea de esta skill aparece un problema estructural (motivación rota, continuidad rota, un arco que necesita reordenarse), **repórtalo y detén la intervención editorial en esa zona**. La cirugía estructural es otro rol; no se resuelve aquí.
 

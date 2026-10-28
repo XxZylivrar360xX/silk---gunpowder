@@ -1,6 +1,6 @@
 # Redaccion De Capitulos
 
-Politica base para pasar de biblia/estructura a prosa provisional.
+Politica base para pasar de biblia/estructura a prosa provisional. La skill `chapter-drafting` carga este documento y el resto de la ruta de lectura al redactar.
 
 ## Regla cero
 
