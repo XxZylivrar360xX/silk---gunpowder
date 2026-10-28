@@ -14,6 +14,7 @@ Cirugia de dialogo de terceros 2026-10-04 (S3 de [[13_Auditorias/Book_01_Mascara
 SURGERY frente 2 (2026-10-05, autorizada por el autor; sigue TERMINADO): M21-1 Marisol queda en "Eso ultimo es lo peor" (fuera "No que me haya mentido. Que yo ya lo sabia y decidi no verlo"); M21-2 Kal queda en "Lo de Michael fue dificil." (fuera "hasta eso se volvio habitable"; la linea de 2026-10-01 de arriba queda como registro). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Lucidez_Personajes_Frente_2.md.
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N21-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 Nombre del lago del imán (2026-10-08, encargo del autor; DISEÑO): *Lake Meriwether*. No es [[05_Locations/El_Lago]] (H7).
+Regla de dialogo 05 (2026-10-28, encargo del autor sobre capitulo TERMINADO; el estado se conserva; prosa DISENO pendiente de lectura; ver [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_primer_huesped_cap24]]): desayuno -- fuera el eco "No hacia falta / Ya se que no hacia falta" (Marisol contesta otra cosa: "Sientate"); fuera el doble remate "Esta bueno, de todos modos / Obvio que esta bueno. Lo elegi yo" (el trago al vaso ya lo dice); fuera "y no dijo nada" antes de "Ya hacen equipo" (contradiccion). Llamada, club, loft, mezzanine, iman ("Porque es feo / Por eso", decision del autor), "Roncabas / Sin duda alguna, bambina" y despedida intactos.
 -->
 
 # Capítulo 24 — El primer huésped
@@ -138,7 +139,7 @@ Para cuando Chiara bajó, descalza, todavía medio dormida, la cocina ya olía a
 
 —No hacía falta.
 
-—Ya sé que no hacía falta. —Volteó por fin y señaló la isla con la espátula—. Siéntate. Ya casi está.
+—Siéntate. —Volteó por fin y señaló la isla con la espátula—. Ya casi está.
 
 Chiara se sentó en la isla, aceptando la taza que Marisol le puso enfrente sin que se lo pidiera.
 
@@ -176,17 +177,13 @@ Kal se quedó con la taza a medio camino de la boca.
 
 —Sin duda alguna, bambina.
 
-Kal las miró, a una y después a la otra, y no dijo nada.
+Kal las miró, a una y después a la otra.
 
 —Ya hacen equipo —dijo, dándole un trago al café del vaso, exactamente como a él le gustaba aunque no fuera el bueno—. Mejor me voy a dormir.
 
 —No te vas a ningún lado —dijo Chiara, sin levantar la vista—. Siéntate.
 
 Kal se sentó.
-
-—Está bueno, de todos modos —dijo, resignado.
-
-—Obvio que está bueno. Lo elegí yo.
 
 Marisol se levantó por la leche. Al cerrar el refrigerador despegó algo de la puerta y lo dejó en la isla, junto al vaso de Kal: una manzana roja de plástico, con *Lake Meriwether* pintado en una hoja diminuta.
 
