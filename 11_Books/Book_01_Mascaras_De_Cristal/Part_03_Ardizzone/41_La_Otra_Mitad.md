@@ -18,6 +18,7 @@ Función: la otra mitad de Palermo, desde Chiara. Muestra lo que Kal no pudo ver
 > **CORRECCIÓN QUIRÚRGICA (2026-09-22, Claude Sonnet 5, encargo del autor):** arquitectura aprobada intacta; se corrigió (1) metadata temporal — Kal aterriza a media tarde, no por la mañana; (2) fuga de POV en la apertura — se retiró información del Cap. 39 que Chiara no puede conocer (maleta, frase repetida); (3) descripción del cabello reducida a dato físico puro, sin interpretar el gesto; (4) Torre Norte verificada como canon existente en [[05_Locations/El_Penthouse]], se conserva; (5) cronología de la camioneta corregida — la cámara registra el día que llegó el sobre, antes de que Matteo se fuera, no esa misma noche; Bonnie lo confirma explícitamente ("¿Cuándo la grabaron?" / "Antes de que Matteo se fuera. No es de esta noche."); (6) "una mujer puso a Kal sobre la mesa" pasa a ser un movimiento institucional de la Mesa, sin atribuírselo a Livia por nombre; (7) "un hombre cerca de mi asiento deja de ser mío" pierde la lectura posesiva y pasa a "vinculado a mi asiento... se vuelve reclamable"; (8) se separó causalmente Palermo (por qué Chiara no llama a Kal) del coche de Matteo (por qué existe la investigación) — se retiró "Por eso el coche." y se insertó el corte "¿Y el coche? / Es otra cosa."; (9) se eliminó "tú no le perteneces a nadie todavía. Eres tuya." — reemplazada por la lógica de escalamiento de Chiara ("contigo esto sigue siendo un coche. Con Kal deja de serlo."), que no reclama a Bonnie y prepara la objeción de Kal en el 42; (10) el hallazgo del contacto de Bonnie pasa por listas de control de seguridad del Monarch, no por una agenda de invitados; (11) el cierre pierde el vocativo "Bonnie" para calzar con la línea literal pedida. No se tocó "—Nada.", ni la confesión de que decidió por él, ni el final con "todavía". Sin EPUB, commit ni push.
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N41-1, N41-2, N41-3. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 - Ajuste 2026-10-18 (orden del autor): Fabrizio ya no está bajo coerción (pasa a Tommaso); su distancia se suaviza: sólo está ocupado. La llamada de la mantelería pierde el «Señora Bellandi», la pausa y «guardó el dato»; ahora la tutea, tiene la cocina encima y ella tacha la mantelería. Prosa DISEÑO pendiente de lectura.
+- Regla de diálogo 05 (2026-10-28, encargo del autor; [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_otra_mitad_cap47]]): fuera «¿Qué cosas?», «¿Sólo encontrarla...?» / «Encontrarla...» / «Bien.» y la tercera «la ruta no debería existir»; «Supe que lo había herido» se funde a «Desde atrás de la sala». Prosa DISEÑO pendiente de lectura.
 - Ajuste 2026-10-22 (CANON DEL AUTOR): Chiara entra al país por Nueva York, donde atiende pendientes del casino de allá, y de ahí vuela a San Aurelio; así la llegada a Kingsley es doméstica y no necesita revisión de migración. Una frase añadida tras la llegada del jet.
 -->
 
@@ -139,9 +140,7 @@ Bonnie no dijo nada. Esperó.
 
 —¿Y él lo escuchó?
 
-—Desde atrás de la sala. Sí.
-
-—Supe que lo había herido antes de terminar la frase —dijo Chiara—. Y la terminé igual.
+—Desde atrás de la sala. Sí. —Chiara tardó en seguir—. Supe que lo había herido antes de terminar la frase. Y la terminé igual.
 
 —¿Por qué no se lo explicó ahí mismo?
 
@@ -151,11 +150,7 @@ Bonnie se recostó apenas en la silla.
 
 —¿Y él qué dijo cuando volvieron?
 
-—No volvimos juntos. —Chiara miró la hoja sobre el escritorio, no a Bonnie—. Esa misma noche le llamaron por algo que no me explicó. Se fue al día siguiente, sin pedirme que lo acompañara. Yo tenía cosas que todavía no había terminado, y no se lo pedí tampoco.
-
-—¿Qué cosas?
-
-—Deshacer con palabras lo que esa mesa acababa de escribir sobre él. —Chiara levantó la vista—. No lo conseguí del todo.
+—No volvimos juntos. —Chiara miró la hoja sobre el escritorio, no a Bonnie—. Esa misma noche le llamaron por algo que no me explicó. Se fue al día siguiente, sin pedirme que lo acompañara. Yo tenía cosas que todavía no había terminado, y no se lo pedí tampoco. —Levantó la vista—. Deshacer con palabras lo que esa mesa acababa de escribir sobre él. No lo conseguí del todo.
 
 Bonnie dejó pasar un segundo.
 
@@ -183,15 +178,9 @@ Bonnie no contestó eso. Volvió a mirar la hoja.
 
 —¿Y si no es nada? ¿Si el tipo sólo entregó donde le tocaba?
 
-—Entonces habré perdido una noche de sueño de las dos. —Chiara cerró la carpeta—. Pero la ruta no debería existir, y quiero saber por qué existe.
+—Entonces habré perdido una noche de sueño de las dos. —Chiara cerró la carpeta.
 
 Bonnie se guardó la hoja en el bolsillo de la chaqueta, no en el bolso, y se puso de pie.
-
-—¿Sólo encontrarla, o algo más?
-
-—Encontrarla. Quién la usa, dónde se mueve. Nada más por ahora.
-
-—Bien.
 
 Ya en la puerta, Bonnie se detuvo un segundo, con la mano en el marco.
 
