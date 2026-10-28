@@ -16,6 +16,7 @@ Función: "Su red". Chiara pasa de la vía institucional (44) a la suya: i Sussu
 - Mei-Lin: aporta horarios, cambio de turno y cámaras del lote (oficio de rutas del norte, coherente con 37 y 39). Su pregunta "¿Para qué quiere saber si está vivo, si no lo puede sacar?" es DISEÑO: legible como honestidad hoy y como sondeo en relectura; no es la siembra muda del 48 ni delata nada.
 - No se nombra Halbrook, el expediente ni la incursión. Chiara evita el loft (va del Monarch a Kingsley y vuelve al Monarch).
 - Sin EPUB, commit ni push.
+- Regla de diálogo 05 (2026-10-28, DISEÑO, espera lectura): cortes de eco y turnos perdidos; [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_ropa_limpia_cap51]].
 -->
 
 # Capítulo 51 — Ropa limpia
@@ -40,11 +41,7 @@ ALDER.
 
 Kenji tomó el billete. El papel se quedó en su palma mientras lo leía y después desapareció entre las fichas, donde desaparecía todo. Contó dos fichas de veinticinco y las empujó hacia ella.
 
-—Hoy es día de pago en el norte —dijo—. Vienen muchos a cambiar cheques.
-
-—¿Cuántos son muchos?
-
-—Los suficientes para que se quejen en voz alta.
+—Hoy es día de pago en el norte —dijo—. Vienen muchos a cambiar cheques. —Alineó las dos fichas con la punta del dedo, aunque ya estaban alineadas—. Y cuando cobran, se quejan en voz alta.
 
 Chiara recogió las fichas. Detrás de Kenji, uno de los auxiliares esperaba con una bolsa abierta y el precinto en la mano, porque Kenji había dejado el fajo de la bolsa a medio contar sobre el mostrador. En el tiempo que llevaba en esa caja, Chiara no lo había visto dejar nada a medio contar.
 
@@ -64,7 +61,7 @@ El día lo pasó en el despacho que había sido de Matteo, haciendo lo que hací
 
 —¿Usted cree que sirve? —preguntó Chiara.
 
-—Creo que es lo que hay. —Krane no se disculpó—. Y creo que usted ya lo sabía antes de llamarme.
+—Es lo que hay. —Krane no se disculpó—. Usted ya lo sabía antes de preguntármelo.
 
 Lucía no llamó.
 
@@ -114,7 +111,7 @@ Chiara tomó un trago de café. Estaba quemado. Lo tomó igual.
 
 —Necesito algo de Kingsley, Mabel.
 
-—Kingsley queda lejos de aquí.
+Mabel siguió cortando. La rebanada cayó sobre la anterior, igual de delgada.
 
 —Una lavandería en el Alder Cutoff. Una grande. Lava para la base.
 
@@ -142,17 +139,15 @@ La puso junto a la taza de Chiara.
 
 —Un sándwich de jamón. No has comido.
 
-—No tengo hambre.
+Chiara apartó la bolsa un par de centímetros. Mabel la regresó a su lugar sin mirarla, recogió la taza vacía de un cliente y la echó al fregadero.
 
-—No te pregunté. —Mabel recogió la taza vacía de un cliente y la echó al fregadero—. Le voy a hablar hoy en la tarde, antes de que entre. Ella decide. Si dice que no, es no, y no te la vas a encontrar de casualidad en ningún estacionamiento.
+—Le voy a hablar hoy en la tarde, antes de que entre. Ella decide. Si dice que no, es no, y no te la vas a encontrar de casualidad en ningún estacionamiento.
 
 —De acuerdo.
 
 —Y si dice que sí, no le ofrezcas dinero.
 
 Chiara la miró.
-
-—¿Por qué no?
 
 —Porque no. —Mabel volvió a tomar el cuchillo—. Yo no dije nada. Sólo te puse café.
 
@@ -184,9 +179,7 @@ Ya iba hacia el elevador.
 
 —¿Igual que con el señor Mercer?
 
-Chiara se detuvo.
-
-—¿Qué con el señor Mercer?
+Chiara se detuvo. No se dio vuelta del todo; giró la cabeza lo justo para verlo, y esperó.
 
 El muchacho dudó. Lo hizo con la cara entera, como quien de pronto no sabe si lo que va a decir es un servicio o un chisme.
 
@@ -286,7 +279,7 @@ Bonnie sí se sentó, en la silla frente al escritorio, la que había sido de lo
 
 —Sólo para que conste.
 
-—Consta.
+Chiara no lo discutió. Tampoco le explicó por qué la había llamado.
 
 Bonnie se acomodó en la silla. Del otro lado del cristal, abajo, alguien ganó algo en la ruleta y la mesa entera aplaudió; el aplauso llegó al despacho apagado, como desde otro edificio.
 
@@ -352,19 +345,13 @@ La mujer tendría sesenta años. Era baja, ancha de hombros, con el pelo entreca
 
 —¿Rosaura?
 
-—Usted es la del casino.
-
-—Chiara Bellandi.
-
-—Ya sé. —Rosaura echó el humo hacia el Cutoff—. Mabel dice que usted no es de la policía.
+—Usted es la del casino. —Rosaura echó el humo hacia el Cutoff—. Mabel dice que usted no es de la policía.
 
 —No lo soy.
 
 —Tampoco parece de aquí.
 
-—No lo soy.
-
-Rosaura la miró de arriba abajo, sin prisa, como quien revisa una camisa por si le quedó una arruga. Detrás de ella, en la tapia, las otras tres mujeres hablaban de un nieto que no quería ir a la escuela. Ninguna miró hacia la esquina.
+Chiara no se lo negó. Rosaura la miró de arriba abajo, sin prisa, como quien revisa una camisa por si le quedó una arruga. Detrás de ella, en la tapia, las otras tres mujeres hablaban de un nieto que no quería ir a la escuela. Ninguna miró hacia la esquina.
 
 —Yo no le voy a decir nada de lo que hay allá adentro —dijo Rosaura—. No sé lo que hay allá adentro. Nunca he entrado. Los camiones van y vienen y a mí me llegan las bolsas.
 
@@ -394,7 +381,7 @@ Rosaura esperó también. Terminó el cigarro sin apuro y lo aplastó contra la 
 
 —Mabel dijo que usted iba a querer pagarme.
 
-—Mabel me dijo que no lo hiciera.
+Chiara tenía la mano dentro del bolso. La sacó vacía.
 
 —Mabel la conoce poco y ya la conoce bien. —Rosaura se quitó la red del pelo y la dobló en cuatro—. No me pague. Si me paga, ya hice algo. Yo no hice nada. Planché.
 

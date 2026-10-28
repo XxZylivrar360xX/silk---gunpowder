@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_ropa_limpia_cap51]] · Cap. 51: regla 05 en *Ropa limpia* (fuera ecos de Kenji, Krane, recepcionista, Bonnie, Rosaura y el «Kingsley queda lejos» de Mabel; «Eso no lo decides tú», «Porque no» y «Se lo iba a pedir» intactos). DISEÑO.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_la_puerta_cap49]] · Cap. 49: regla 05 en *La puerta* (fuera tres ecos: Héctor, Garrett y Dario por teléfono; «No pregunté eso» y «Van a estar completas» intactos); prosa DISEÑO pendiente de lectura.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_nada_cap48]] · Cap. 48: regla 05 en *Nada* (llamada sin interrogatorio; «Lo sé» de seis a uno en F1; ecos y remate doble de Kal fuera; canon intacto). DISEÑO.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_otra_mitad_cap47]] · Cap. 47: regla 05 en *La otra mitad* (entrevista de Bonnie aflojada: fuera «¿Qué cosas?» y el cierre «Encontrarla» / «Bien»; canon intacto). DISEÑO.
