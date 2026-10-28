@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-27 21:28. Al día: 52 de 57.
+Actualizada: 2026-10-27 22:20. Al día: 41 de 57.
 
 ## Pendientes
 
@@ -11,8 +11,19 @@ Actualizada: 2026-10-27 21:28. Al día: 52 de 57.
 | 12 | La balanza | PENDIENTE | cambió la prosa | 2026-10-27 21:25 |
 | 13 | Dos sillas vacías | PENDIENTE | cambió la prosa | 2026-10-27 21:25 |
 | 14 | El farol | PENDIENTE | cambió la prosa | 2026-10-27 21:25 |
+| 15 | Roma Atrii | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
 | 22 | Lo que nadie estaba mirando | PENDIENTE | cambió la prosa | 2026-10-27 21:25 |
 | 23 | Lo pequeño | PENDIENTE | cambió la prosa | 2026-10-27 21:28 |
+| 24 | El primer huésped | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
+| 25 | Causalidad | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
+| 26 | Nada caro | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
+| 27 | Bajo juramento | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
+| 28 | Lo que cueste | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
+| 29 | El corral | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
+| 30 | Libros abiertos | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
+| 31 | Me encuentro bien | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
+| 32 | Lleve equipaje | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
+| 33 | No hace falta | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
 
 ## Capítulos
 
@@ -32,7 +43,7 @@ Actualizada: 2026-10-27 21:28. Al día: 52 de 57.
 | 12 | La balanza | PENDIENTE | 2026-10-25 |
 | 13 | Dos sillas vacías | PENDIENTE | 2026-10-25 |
 | 14 | El farol | PENDIENTE | 2026-10-26 |
-| 15 | Roma Atrii | AL DIA | 2026-10-26 |
+| 15 | Roma Atrii | PENDIENTE | 2026-10-26 |
 | 16 | Auster | AL DIA | 2026-10-26 |
 | 17 | La regla del teléfono | AL DIA | 2026-10-26 |
 | 18 | Yo lo llevo | AL DIA | 2026-10-26 |
@@ -41,16 +52,16 @@ Actualizada: 2026-10-27 21:28. Al día: 52 de 57.
 | 21 | El día nublado | AL DIA | 2026-10-26 |
 | 22 | Lo que nadie estaba mirando | PENDIENTE | 2026-10-23 |
 | 23 | Lo pequeño | PENDIENTE | 2026-10-23 |
-| 24 | El primer huésped | AL DIA | 2026-10-23 |
-| 25 | Causalidad | AL DIA | 2026-10-23 |
-| 26 | Nada caro | AL DIA | 2026-10-23 |
-| 27 | Bajo juramento | AL DIA | 2026-10-23 |
-| 28 | Lo que cueste | AL DIA | 2026-10-23 |
-| 29 | El corral | AL DIA | 2026-10-23 |
-| 30 | Libros abiertos | AL DIA | 2026-10-23 |
-| 31 | Me encuentro bien | AL DIA | 2026-10-23 |
-| 32 | Lleve equipaje | AL DIA | 2026-10-23 |
-| 33 | No hace falta | AL DIA | 2026-10-23 |
+| 24 | El primer huésped | PENDIENTE | 2026-10-23 |
+| 25 | Causalidad | PENDIENTE | 2026-10-23 |
+| 26 | Nada caro | PENDIENTE | 2026-10-23 |
+| 27 | Bajo juramento | PENDIENTE | 2026-10-23 |
+| 28 | Lo que cueste | PENDIENTE | 2026-10-23 |
+| 29 | El corral | PENDIENTE | 2026-10-23 |
+| 30 | Libros abiertos | PENDIENTE | 2026-10-23 |
+| 31 | Me encuentro bien | PENDIENTE | 2026-10-23 |
+| 32 | Lleve equipaje | PENDIENTE | 2026-10-23 |
+| 33 | No hace falta | PENDIENTE | 2026-10-23 |
 | 34 | Una silla | AL DIA | 2026-10-23 |
 | 35 | Media Baraja | AL DIA | 2026-10-23 |
 | 36 | Vamos a casa | AL DIA | 2026-10-23 |
@@ -78,6 +89,17 @@ Actualizada: 2026-10-27 21:28. Al día: 52 de 57.
 
 ## Historial
 
+- 2026-10-27 22:20 · Cap. 33 (28_La_Correa.md) · audio pendiente: cambió la prosa
+- 2026-10-27 22:20 · Cap. 32 (27_Riesgo_Pendiente.md) · audio pendiente: cambió la prosa
+- 2026-10-27 22:20 · Cap. 31 (26_Me_Encuentro_Bien.md) · audio pendiente: cambió la prosa
+- 2026-10-27 22:20 · Cap. 30 (25_Libros_Abiertos.md) · audio pendiente: cambió la prosa
+- 2026-10-27 22:20 · Cap. 29 (24c_El_Corral.md) · audio pendiente: cambió la prosa
+- 2026-10-27 22:20 · Cap. 28 (24b_Lo_Que_Cueste.md) · audio pendiente: cambió la prosa
+- 2026-10-27 22:20 · Cap. 27 (24_Bajo_Juramento.md) · audio pendiente: cambió la prosa
+- 2026-10-27 22:20 · Cap. 26 (23_La_Letra_Pequena.md) · audio pendiente: cambió la prosa
+- 2026-10-27 22:20 · Cap. 25 (22_Causalidad.md) · audio pendiente: cambió la prosa
+- 2026-10-27 22:20 · Cap. 24 (21_El_Primer_Huesped.md) · audio pendiente: cambió la prosa
+- 2026-10-27 22:20 · Cap. 15 (12_Roma_Atrii.md) · audio pendiente: cambió la prosa
 - 2026-10-27 21:28 · Cap. 23 (20_El_Mirador.md) · audio pendiente: cambió la prosa
 - 2026-10-27 21:25 · Cap. 22 (19_Tierra_Buena.md) · audio pendiente: cambió la prosa
 - 2026-10-27 21:25 · Cap. 14 (11_El_Farol.md) · audio pendiente: cambió la prosa

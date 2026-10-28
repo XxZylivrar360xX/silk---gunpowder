@@ -115,10 +115,10 @@
     "12_Roma_Atrii.md": {
       "capitulo": 15,
       "titulo": "Roma Atrii",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-26",
-      "desde": "2026-10-26 00:23"
+      "desde": "2026-10-27 22:20"
     },
     "13_Auster.md": {
       "capitulo": 16,
@@ -187,82 +187,82 @@
     "21_El_Primer_Huesped.md": {
       "capitulo": 24,
       "titulo": "El primer huésped",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-23",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 22:20"
     },
     "22_Causalidad.md": {
       "capitulo": 25,
       "titulo": "Causalidad",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-23",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 22:20"
     },
     "23_La_Letra_Pequena.md": {
       "capitulo": 26,
       "titulo": "Nada caro",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-23",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 22:20"
     },
     "24_Bajo_Juramento.md": {
       "capitulo": 27,
       "titulo": "Bajo juramento",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-23",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 22:20"
     },
     "24b_Lo_Que_Cueste.md": {
       "capitulo": 28,
       "titulo": "Lo que cueste",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-23",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 22:20"
     },
     "24c_El_Corral.md": {
       "capitulo": 29,
       "titulo": "El corral",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-23",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 22:20"
     },
     "25_Libros_Abiertos.md": {
       "capitulo": 30,
       "titulo": "Libros abiertos",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-23",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 22:20"
     },
     "26_Me_Encuentro_Bien.md": {
       "capitulo": 31,
       "titulo": "Me encuentro bien",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-23",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 22:20"
     },
     "27_Riesgo_Pendiente.md": {
       "capitulo": 32,
       "titulo": "Lleve equipaje",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-23",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 22:20"
     },
     "28_La_Correa.md": {
       "capitulo": 33,
       "titulo": "No hace falta",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-23",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 22:20"
     },
     "29_El_Patio_Ajeno.md": {
       "capitulo": 34,
@@ -1011,6 +1011,61 @@
     [
       "2026-10-27 21:28",
       "Cap. 23 (20_El_Mirador.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 22:20",
+      "Cap. 15 (12_Roma_Atrii.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 22:20",
+      "Cap. 24 (21_El_Primer_Huesped.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 22:20",
+      "Cap. 25 (22_Causalidad.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 22:20",
+      "Cap. 26 (23_La_Letra_Pequena.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 22:20",
+      "Cap. 27 (24_Bajo_Juramento.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 22:20",
+      "Cap. 28 (24b_Lo_Que_Cueste.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 22:20",
+      "Cap. 29 (24c_El_Corral.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 22:20",
+      "Cap. 30 (25_Libros_Abiertos.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 22:20",
+      "Cap. 31 (26_Me_Encuentro_Bien.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 22:20",
+      "Cap. 32 (27_Riesgo_Pendiente.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 22:20",
+      "Cap. 33 (28_La_Correa.md)",
       "audio pendiente: cambió la prosa"
     ]
   ]

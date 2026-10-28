@@ -22,7 +22,7 @@ Actualizado: 2026-10-28. Máximo 800 palabras. Brief anterior íntegro: [[98_Age
 
 - **Regla de diálogo 05** ([[12_Craft_Policies/dialogue_rules/05-esticomitia-de-una-sola-voz]]): cortes de eco/remate, turnos perdidos, líneas canon intactas. Caps. 1–4 aprobados por el autor ([[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps01-04]]); 5–7 ([[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]]); 12–34, una sesión por capítulo, `sessions/2026-10-26_claude_regla05_*` y `sessions/2026-10-28_claude_regla05_*` (último: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_una_silla_cap34]]).
 - **Caps. 12–13 (archivos 09–10):** además, levantón del Tasador (Sam amenazada; cobro en el II: [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Cobro_Del_Levanton]]) y Blake en el lobby del Monarch (siembra «la grúa la manejaba él» para el 38); Chiara no se lo cuenta a Kal.
-- **Caps. 12–14:** cirugía (notas ChatGPT): `sessions/2026-10-27_claude_surgery_cap1*`.
+- **Caps. 12–15:** cirugía (notas ChatGPT): `sessions/2026-10-27_claude_surgery_cap1*`; el 15, en su encabezado.
 - **Caps. 2, 4–11:** llamada Kal–Nadir (2); 5–7 con arco de Blake (5 leído) ([[98_Agent_Handoff/sessions/2026-10-22_claude_cap05_segmentado_arco_blake]]); H3 en el 9; [[02_Characters/Dana_Collins]] (CANON) en el 11.
 - **Cap. 4, encuentro con Blake (2026-10-24):** cortejo de Keene, velorio en El Relevo; Collins castaño cobrizo (CANON); Blake suelta quién manda (paga en el 5a) ([[98_Agent_Handoff/sessions/2026-10-24_claude_cap04_cortejo_keene_blake]]).
 - **CANON (ChatGPT, caps. 1–11):** Chiara llega en jet desde Palermo (hangar de Kingsley); en el 47 entra por Nueva York.
