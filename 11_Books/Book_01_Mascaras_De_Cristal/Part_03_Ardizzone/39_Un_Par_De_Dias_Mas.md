@@ -19,6 +19,7 @@ Función: primer capítulo de regreso tras Palermo. Muestra a Kal administrando 
 - **Héctor:** una sola pregunta, la deja caer cuando Kal dice que está bien. **Nadir:** acepta la versión de la villa sin indagar, más ocupado en la operación del Patio que en leer a Kal.
 - Cierre: balcón del loft, de noche, vista a La Almendra. Objetos de Chiara mencionados sin glosa (uno o dos, no inventario). Línea canon del autor, textual: "—Palermo fue más complicado de lo que anticipé." Corte inmediato después, sin que Marisol pregunte qué pasó.
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N39-1, N39-2, C39-Danny. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
+**Regla de diálogo 05 (2026-10-28, a pedido del autor; DISEÑO, espera lectura):** ecos y remates dobles cortados; frases canon intactas. Detalle: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_un_par_de_dias_mas_cap45]].
 -->
 
 # Capítulo 45 — Un par de días más
@@ -37,11 +38,11 @@ Marisol bajó la vista a la maleta —una, no dos— y después volvió a subirl
 
 —Hola. —Se apartó del coche para abrirle el maletero—. ¿Y bien?
 
-—¿Y bien qué?
+Kal metió la maleta sin contestar.
 
 —¿Dónde traes a la italiana?
 
-Kal metió la maleta y cerró el maletero.
+Kal cerró el maletero.
 
 —Se quedó un par de días más. En la villa.
 
@@ -117,15 +118,11 @@ Nada más. Kal encontró a Mei-Lin en la bahía de siempre, sentada en el borde 
 
 Mei-Lin no levantó la vista del teléfono enseguida. Cuando lo hizo, lo pensó un segundo, no más.
 
-—Por la vía directa no. Los Marcadores están contando gente en la esquina de la Ruta de Milla desde el mediodía —dijo—. Carrera de esta noche, apuestas grandes. Van a estar ahí hasta que oscurezca de verdad, no antes.
-
-—¿Y si esperamos a las seis?
-
-—A las seis ya se movieron todos al circuito. Pasa limpio.
+—Por la vía directa no. Los Marcadores están contando gente en la esquina de la Ruta de Milla desde el mediodía —dijo—. Carrera de esta noche, apuestas grandes. Van a estar ahí hasta que oscurezca de verdad. A las seis ya se movieron todos al circuito y pasa limpio.
 
 —¿Cómo lo sabes?
 
-—Porque a esa hora es cuando se corre —dijo ella—. Siempre es a esa hora.
+—Siempre es a esa hora —dijo ella, ya otra vez en el teléfono.
 
 Kal asintió y no preguntó más. En la oficina le dijo a Nadir que mandara el camión a las seis.
 
@@ -133,7 +130,7 @@ Encontró a Héctor donde lo encontraba siempre a esa hora, en la sombra del gal
 
 —Volviste —dijo Héctor, sin abrir del todo los ojos.
 
-—Volví.
+Kal se recargó en el poste de al lado.
 
 —¿Y ella?
 
@@ -193,25 +190,17 @@ Otro silencio, más corto que el primero.
 
 —Mis hombres van a estar ocupados en otro lado esa noche. Los tuyos entran solos. —Una pausa, exacta—. Así quedamos, ¿no?
 
-—Así quedamos.
+—Sí.
 
 —Las armas, Mercer. Completas.
 
-—Van a estar completas.
-
-—Bien.
-
-Colgó sin despedirse, y Kal se quedó con el teléfono en la oreja un segundo de más, mirando la calle otra vez, ahora sí viéndola: el patio detrás de él, la grúa terminando de maniobrar, Danny cerrando el capó del motor que ya no tosía.
+Colgó antes de que Kal contestara, y Kal se quedó con el teléfono en la oreja un segundo de más, mirando la calle otra vez, ahora sí viéndola: el patio detrás de él, la grúa terminando de maniobrar, Danny cerrando el capó del motor que ya no tosía.
 
 Marcó otro número antes de volver adentro.
 
-—Voy a necesitar que vuelvas a volar —dijo, cuando Garrett contestó.
+—Voy a necesitar que vuelvas a volar —dijo, cuando Garrett contestó—. El catorce, a las dos.
 
 Del otro lado hubo un silencio corto.
-
-—¿Cuándo?
-
-—El catorce. A las dos.
 
 —Ahí voy a estar.
 
@@ -231,11 +220,11 @@ Comieron sentados en el capó de un auto que no era de nadie en particular, con 
 
 —¿Y tú qué crees? —le preguntó, sin mirarlo, concentrada en desenredar una papa frita del papel.
 
-—Creo que vas a tener que aguantar que todo el mundo en el barrio te pida un favor legal gratis.
+—Que vas a tener que aguantar que todo el mundo en el barrio te pida un favor legal gratis.
 
 —Ya lo sé. Empezando por ti.
 
-—Yo pago mis favores.
+—Yo pago.
 
 —Tú *inventas* cómo pagar tus favores. —Marisol se metió la papa a la boca, satisfecha—. Es distinto.
 
