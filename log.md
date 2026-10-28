@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_tambien_las_mananas_cap42]] · Cap. 42: regla 05 en *También las mañanas* (4 cortes de remate y pie; canon de la llave, «Sin duda alguna», «¿Faltó más?» y Héctor intactos). DISEÑO.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_sin_fecha_de_regreso_cap41]] · Cap. 41: regla 05 en *Sin fecha de regreso* (8 cortes de eco y remate; canon del *Ciao*, «Qué abrupto» y Anya intactos). DISEÑO.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_mi_pareja_cap40]] · Cap. 40: regla 05 en *Mi pareja* (12 cortes de eco y remate; canon de H21 y llamada de Danny intactos). DISEÑO.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_la_mano_cap39]] · Cap. 39: regla 05 en *La mano* (un solo corte: el «Ya sé» de la llamada; Kal cuelga). DISEÑO.
