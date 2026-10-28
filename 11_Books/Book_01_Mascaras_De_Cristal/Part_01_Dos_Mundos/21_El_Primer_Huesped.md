@@ -16,6 +16,7 @@ Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasad
 Nombre del lago del imán (2026-10-08, encargo del autor; DISEÑO): *Lake Meriwether*. No es [[05_Locations/El_Lago]] (H7).
 Regla de dialogo 05 (2026-10-28, encargo del autor sobre capitulo TERMINADO; el estado se conserva; prosa DISENO pendiente de lectura; ver [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_primer_huesped_cap24]]): desayuno -- fuera el eco "No hacia falta / Ya se que no hacia falta" (Marisol contesta otra cosa: "Sientate"); fuera el doble remate "Esta bueno, de todos modos / Obvio que esta bueno. Lo elegi yo" (el trago al vaso ya lo dice); fuera "y no dijo nada" antes de "Ya hacen equipo" (contradiccion). Llamada, club, loft, mezzanine, iman ("Porque es feo / Por eso", decision del autor), "Roncabas / Sin duda alguna, bambina" y despedida intactos.
 Apertura por residuo, puesta en escena (2026-10-28, idea del autor sobre propuesta de ChatGPT; el estado se conserva; prosa DISENO pendiente de lectura; ver [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap23_lo_pequeno]] §Puente): la pantalla del telefono ilumina un calcetin oscuro en el suelo y el sosten negro de encaje colgado de la lampara de Chiara, sin glosa; mientras Kal se pone las botas, Chiara toma el sosten de espaldas y el ve por primera vez sus lunares de la espalda alta (ficha, rasgo ya fijado), vuelve a los cordones. Sin dialogo sobre la noche. "camioneta" -> "el Audi" en el club: el Cap. 23 nunca nombra el auto, asi que esa noche iban en el Audi y este queda en el loft para que Marisol lo tome por la mañana. Llamada, "Voy contigo", "No hace falta", replica del rosado y llaves intactos.
+SURGERY 2026-10-28 (lectura de ChatGPT [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_cap24_el_primer_huesped_lunares_y_continuidad]]; decisiones del autor en sesion; el estado se conserva; prosa DISENO pendiente de lectura; ver [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap24_el_primer_huesped]]): lunares desde los omoplatos y por el centro de la espalda (CANON DEL AUTOR, sincronizado en la ficha); Marisol nombra la bofetada; fuera la glosa "una version distinta de si misma"; el club, en el sector sur de La Isla (quince minutos desde el Monarch); Marisol atras, detras de Chiara, y la mano en el semaforo con el Audi detenido. "Sin pedir permiso" y "por primera vez en años" se conservan por decision del autor.
 -->
 
 # Capítulo 24 — El primer huésped
@@ -48,7 +49,7 @@ Chiara ya se estaba sentando, apartando las sábanas.
 
 Kal ya estaba sentado en el borde de la cama, inclinado sobre las botas. Ella se levantó, le dio la espalda y estiró el brazo hacia la lámpara; el cabello se le fue hacia un hombro.
 
-Kal levantó la vista apenas. Tenía unos lunares pequeños en lo alto de la espalda, entre el omóplato y el hombro. No los conocía.
+Kal levantó la vista apenas. Tenía unos lunares pequeños que empezaban a la altura de los omóplatos y seguían, dispersos, por el centro de la espalda. No los conocía.
 
 Volvió a los cordones.
 
@@ -60,7 +61,7 @@ Kal le pasó las llaves.
 
 ***
 
-Chiara manejó los quince minutos hasta el club. Kal iba en el asiento del copiloto, con las manos apretadas sobre las rodillas, sin decir una palabra, sin prestarle atención real a la radio que él mismo había encendido bajo, solo para llenar el silencio con algo que no fuera miedo. Cada semáforo en rojo se le hizo más largo que el anterior.
+Chiara manejó los quince minutos hasta el club, en el sector sur de La Isla. Kal iba en el asiento del copiloto, con las manos apretadas sobre las rodillas, sin decir una palabra, sin prestarle atención real a la radio que él mismo había encendido bajo, solo para llenar el silencio con algo que no fuera miedo. Cada semáforo en rojo se le hizo más largo que el anterior.
 
 Encontraron a Marisol sentada en el bordillo, fuera del club, con los brazos cruzados sobre las rodillas y una amiga a su lado que se despidió con un gesto de alivio en cuanto vio el Audi. Tenía el rímel corrido en un solo lado de la cara y un golpe rojo que ya empezaba a hincharse en el pómulo.
 
@@ -74,13 +75,11 @@ Chiara no levantó la voz. Le puso una mano en el brazo, apenas, y con eso bast�
 
 —Espera a que ella quiera contarlo.
 
-Marisol no dijo nada en todo el camino. Se subió atrás, se hizo un ovillo contra la puerta, y Chiara no la presionó ni una sola vez. En cada semáforo en rojo estiraba una mano hacia el asiento de atrás, sin girarse del todo, hasta que en alguno Marisol terminó por tomarla, sin que nadie lo comentara.
+Marisol no dijo nada en todo el camino. Se subió atrás, detrás de Chiara, se hizo un ovillo contra la puerta, y Chiara no la presionó ni una sola vez. En cada semáforo en rojo, con el Audi detenido, estiraba una mano hacia atrás por el costado del asiento, sin girarse del todo, hasta que en alguno Marisol terminó por tomarla, sin que nadie lo comentara.
 
 ***
 
 Chiara notó cómo Marisol miraba la casa un segundo de más antes de dejarse caer en el sofá —el vacío de doble altura, la escalera abierta, el mezzanine suspendido sobre la sala—, como si el espacio la hubiera distraído un instante de lo que traía encima. Era la primera vez que entraba ahí.
-
-Hacía menos de dos horas que Chiara había sido, en otra parte, una versión distinta de sí misma, y el salto a la que tenía que ser ahora no le costó tanto como hubiera esperado. No era el momento de preguntarse si eso era bueno o preocupante.
 
 Chiara fue directo a la cocina y encontró las tazas al segundo intento.
 
@@ -96,7 +95,7 @@ Marisol se abrazó las piernas contra el pecho, todavía con el rímel corrido, 
 
 Lo dijo de golpe, a la pared, no a ninguno de los dos en particular.
 
-—Nunca me lo dijo. Todo este tiempo, el café, las clases, todo, y nunca... —Se le quebró la voz—. Ella se enteró. Vino al club esta noche. Me agarró del pelo delante de todo el mundo, delante de gente de la universidad, y me dijo cosas que no voy a repetir, y yo no hice nada, Kal, me quedé ahí parada como una idiota mientras media pista me miraba.
+—Nunca me lo dijo. Todo este tiempo, el café, las clases, todo, y nunca... —Se le quebró la voz—. Ella se enteró. Vino al club esta noche. Me agarró del pelo delante de todo el mundo, delante de gente de la universidad, me dio una bofetada y me dijo cosas que no voy a repetir, y yo no hice nada, Kal, me quedé ahí parada como una idiota mientras media pista me miraba.
 
 Kal abrió la boca. Chiara, que ya volvía con la taza, negó con la cabeza una sola vez, casi imperceptible, y él la cerró.
 
