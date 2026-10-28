@@ -4,6 +4,7 @@ Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_C
 Retitulado otra vez 2026-10-22 (decisión del autor): «Te queda grande» → «No hace falta» (de "*Cielo*, no hace falta.").
 Otoño (2026-10-08, CANON DEL AUTOR; DISEÑO): el Audi levanta hojas secas del sicomoro de la esquina.
 Estado: BORRADOR — tercer capítulo de la Parte II (*Con peores personas he tratado*). Pendiente de revisión del autor. Cirugía editorial E5 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): cronología fija de ~24 h, POV y glosas; sigue BORRADOR.
+Regla de diálogo 05 (2026-10-28, [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_no_hace_falta_cap33]]): tres remates cortados; líneas de la fuente y CANON intactas; DISEÑO, espera lectura.
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 3 cortes (N28-1 a N28-3); diálogo intacto; sigue BORRADOR.
 Protagonistas: Chiara Bellandi (POV único). Apariciones: Kal Mercer.
 Ventana temporal: la misma noche de la confrontación del taller del norte (Cap. 26) y el amanecer siguiente (unas 24 horas después de la salida de Kal). Abre con Chiara en el loft y Kal llegando al amanecer; cierra con Kal saliendo a ver a Varek y deja el enganche directo con el Cap. 29.
@@ -156,9 +157,9 @@ Kal no contestó eso.
 
 —Ése. Dos hombres en la puerta de tu taller. Y él adentro, de abrigo, esperándome como si me hubiera citado. —Respiró—. Lo que me dio a entender esa conversación es que tú estabas en algún sitio que yo no podía ver. Que no pasaba nada. Y sabiendo cómo estaba la noche anterior, con las ganas que tenía de que alguien le pagara lo del hipódromo con la cabeza… Todo me sonaba muy raro. Muy, muy raro.
 
-—La noche anterior.
+Kal dejó de secarse la cara con el antebrazo.
 
-—Me llamó cuando yo salía del agua. —No dijo *de tu jacuzzi*. Los dos lo oyeron igual—. Y lo fui empujando. Le fui preguntando cosas pensando que te tenía en ese galpón. Y él me fue contando cosas tuyas. Cosas que me habías contado tú.
+—La noche antes me había llamado, cuando yo salía del agua. —No dijo *de tu jacuzzi*. Los dos lo oyeron igual—. Y lo fui empujando. Le fui preguntando cosas pensando que te tenía en ese galpón. Y él me fue contando cosas tuyas. Cosas que me habías contado tú.
 
 —¿Qué cosas?
 
@@ -224,9 +225,7 @@ Lo dijo y oyó lo poco que explicaba, y lo dejó así porque era verdad.
 
 —Te busqué.
 
-—Eso no responde nada.
-
-Chiara no dijo nada, y ese silencio fue lo que lo hizo mirar hacia la puerta. La vio entonces: la bolsa de la cámara, la correa colgando, y encima el sobre color hueso. Kal cruzó los dos pasos, lo cogió y lo sopesó en la mano antes de abrirlo.
+Kal esperó el resto. Chiara no dijo nada más, y ese silencio fue lo que lo hizo mirar hacia la puerta. La vio entonces: la bolsa de la cámara, la correa colgando, y encima el sobre color hueso. Kal cruzó los dos pasos, lo cogió y lo sopesó en la mano antes de abrirlo.
 
 —Qué es esto.
 
@@ -268,7 +267,7 @@ Kal dejó las fotos en la barra, alineadas, como si alinearlas fuera a cambiar a
 
 —Salieron bien.
 
-—Por eso mismo.
+Kal puso un dedo sobre la placa legible, la que ella había esperado una hora entera, y no le discutió eso.
 
 —No vuelvas a hacer algo así sola —dijo Kal.
 
