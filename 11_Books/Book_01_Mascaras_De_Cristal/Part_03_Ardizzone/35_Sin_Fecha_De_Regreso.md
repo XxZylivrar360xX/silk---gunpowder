@@ -20,6 +20,7 @@ Función: CANON DEL AUTOR. Abre la Parte III — Ardizzone. Nace el ritual del *
 - **Beat de las invitaciones del yate (CANON DEL AUTOR, 2026-09-20): trasladado al final del [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/36_Tambien_Las_Mananas|Cap. 36]] en E5 (2026-09-27).** Su nota de canon y de cronología se movió a la metadata del 36. El roadmap que se anotaba aquí ya está ejecutado: Kal lee la carta en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/37_Cuatro_Letras|Cap. 37]]; la fiesta del yate, el piano ("importantísimo para el futuro", según el autor) y la explicación del cifrado están en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 38]].
 - **Anya en el Monarch (P1, aprobada por el autor 2026-09-27, Q13; escrita en E9, BORRADOR/DISEÑO):** cuarta sección, POV Chiara, entre la salida de Kal ("…y salió sin decir nada de italiano.") y la vuelta de Chiara al despacho ("Subió al despacho por el pasillo alfombrado…", que sustituye a "Chiara escuchó sus pasos alejarse…"). Kal no se fue: la máquina de hielo del bar del casino es de las que arreglaba el técnico de Matteo (el hueco de la silla vacía). Chiara baja por la firma del vino de los Ferretti en el libro de la cava. Canon cumplido: rubia, Kal detrás de la barra, escalofrío y se esconde, la ceja, "Kal" y luego "Ojos azules" con las dos ya cerca. Línea de Anya: "No vengo a cobrar nada, Ojos azules. Todavía." Kal, sin que ella pregunte: "Alguien de antes." Chiara registra por conducta (la mano seca que se limpia, el tornillo ya apretado), sin deducción explícita; el acento no se menciona (el Cap. 25 le daría la llave por información). Sin prolepsis de F4, sin Nadir nombrado en la escena. Diseño en el mapa de la auditoría (§ P1) y § 9 parte 5.
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N35-1, N35-2. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
+**Regla de diálogo 05 (2026-10-28, a pedido del autor):** 8 cortes de eco y remate; canon del *Ciao*, de «Qué abrupto» y de Anya intacto. Ver [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_sin_fecha_de_regreso_cap41]]. Sigue BORRADOR.
 -->
 
 # Capítulo 41 — Sin fecha de regreso
@@ -56,39 +57,25 @@ Chiara sonrió sin que él pudiera verla.
 
 —Nada. Que siga trabajando.
 
-—Eso no suena a nada.
-
-—Es exactamente nada.
-
 Detrás de su voz había un compresor y algo que sonaba a llanta rodando contra concreto. Chiara cerró los ojos un segundo e imaginó el patio entero sin haberlo visto nunca de día: la grúa a medio subir, Nadir con las manos manchadas hasta la muñeca, Kal con el teléfono sostenido entre la oreja y el hombro para no soltar lo que tuviera en las manos.
 
 —¿Qué haces? —preguntó él, y algo en su tono cambió, se acomodó un grado.
 
 Chiara miró la taza fría.
 
-—Matteo se fue.
-
-—¿Se fue?
-
-—De San Aurelio.
+—Matteo se fue. De San Aurelio.
 
 Del otro lado, el compresor se detuvo. O Kal se movió lejos de él. No hubo pausa dramática, sólo el tipo de silencio que dejaba alguien acomodando una noticia en el lugar donde le tocaba ir.
 
 —¿Cuándo?
 
-—Anoche. Encontré esto esta mañana. —Levantó la nota, aunque él no pudiera verla tampoco—. Es su hermano, Elio. Dejó de contestarle y faltó a dos compromisos que nunca falta. Matteo tuvo que ir a Génova a buscarlo.
-
-—¿Y cuándo vuelve?
-
-—No lo sé.
+—Anoche. Encontré esto esta mañana. —Levantó la nota, aunque él no pudiera verla tampoco—. Es su hermano, Elio. Dejó de contestarle y faltó a dos compromisos que nunca falta. Matteo tuvo que ir a Génova a buscarlo. No dice cuándo vuelve.
 
 Kal no dijo nada durante un segundo largo. Chiara conocía ese silencio: era el mismo que usaba con los proveedores nerviosos, el que dejaba que el otro llenara con más de lo que había planeado decir. Con ella no funcionaba, y él lo sabía, y aun así a veces lo hacía por costumbre.
 
 —Voy para allá —dijo por fin.
 
 —No hace falta.
-
-—Ya sé que no hace falta.
 
 Se oyó algo golpear metal — una herramienta dejada donde no iba, tal vez — y después la voz de Kal otra vez, más cerca del teléfono.
 
@@ -122,11 +109,7 @@ Kal no llevaba el overol del taller — se había cambiado de camisa, al menos, 
 
 Se acercó al escritorio y levantó la nota sin pedir permiso, la leyó en el tiempo que le tomaba a Chiara respirar dos veces, y la dejó exactamente donde estaba, en el mismo ángulo.
 
-—¿Él normalmente es así?
-
-—¿Así cómo?
-
-—Irse dejando una carta. —Señaló el papel con un dedo, sin tocarlo otra vez—. A mí me dio una impresión diferente cuando lo conocí.
+—¿Él normalmente es así? —Señaló el papel con un dedo, sin tocarlo otra vez—. Irse dejando una carta. A mí me dio una impresión diferente cuando lo conocí.
 
 Chiara cerró la agenda.
 
@@ -143,10 +126,6 @@ Kal esperó.
 Eso lo detuvo un momento.
 
 —Es curioso —dijo, más despacio—. Lo conocí un rato nada más, la noche que me llevó a conocer a los demás. Pero me acuerdo de que ya tenía la mesa puesta antes de sentarse en ella. No sé. No lo hubiera imaginado dejando algo así, sin más.
-
-—Tal vez no tuvo tiempo de ponerla.
-
-—Tal vez.
 
 Se quedó mirando la agenda cerrada bajo la mano de Chiara, no la nota.
 
@@ -170,7 +149,7 @@ Miró las carpetas. Después la miró a ella.
 
 —Eso no parece nada.
 
-—Es trabajo.
+—Son dos proveedores, una boda y la firma de Matteo en todo lo que hay en esta mesa. Es trabajo.
 
 No dijo nada más. No se ofreció a tomar una carpeta, no preguntó qué firma faltaba ni a quién había que llamar. Se quedó donde estaba, con la misma postura de alguien que sabe que hay una puerta que no le corresponde abrir, y eso, más que cualquier otra cosa que hubiera podido decir, fue lo que Chiara agradeció sin decírselo.
 
@@ -182,7 +161,7 @@ Antes de que pudiera colgar del todo, alguien de recepción llamó desde el otro
 
 —¿Eso es normal?
 
-—Es lo más normal del mundo. —Cerró la agenda—. Mientras la mesa siga sirviendo café a la hora que debe, a Dario no le importa quién la ponga.
+—Es Dario. —Cerró la agenda—. Mientras la mesa siga sirviendo café a la hora que debe, a Dario no le importa quién la ponga.
 
 Kal se acercó por fin, no al escritorio, sino a ella, y le puso la mano en la base del cuello un momento, el pulgar corto contra la nuca, sin decir nada más sobre Matteo ni sobre la mesa ni sobre lo que fuera que estuviera calculando detrás de los ojos. Chiara dejó caer el peso de la cabeza contra esa mano medio segundo, lo suficiente para que contara, no tanto que dejara de sostener la agenda.
 
