@@ -3,6 +3,7 @@ Renumerado 2026-10-22 (decisión del autor): antes Cap. 33; numeración corrida 
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «Más de la cuenta».
 Estado: BORRADOR — penúltimo capítulo de la Parte II (Cap. 33 de 34). Pendiente de revisión del autor. Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]], § 9 parte 4); sigue BORRADOR. Cirugía de narrador 2026-10-05 (M33-1 a M33-3 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Marisol_Detector_Infalible]]: tres acotaciones que certificaban la agudeza de Marisol; diálogo intacto); sigue BORRADOR.
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 3 cortes (N33-1 a N33-3); cirugía Marisol no reabierta; sigue BORRADOR.
+Regla de diálogo 05 (2026-10-28, Claude Code, encargo del autor; prosa DISEÑO, sigue BORRADOR): once cortes de eco/remate (Chiara–Marisol, coda del loft, corral); canon y diálogo Kenji–Marisol intactos. Detalle en 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_lo_unico_que_es_mio_cap38.md.
 Reubicación (2026-09-20, decisión del autor): este capítulo abría originalmente la Parte III — Ardizzone. Se adelantó, junto con el Cap. 34 — Mi pareja (H21, sin prosa todavía en ese momento), al cierre de la Parte II, para que la Parte III quede enteramente reservada al arco paralelo Kal/Dario (El Patio como administración criminal) y Chiara/Il Consorzio (reclamo de "Ardizzone"). Ver [[06_Relationships/Hitos]] (tabla de orden y H21) y `98_Agent_Handoff/PENDING.md`. El contenido de este capítulo (Kenji/Marisol, coda del loft) no cambió — sólo su posición.
 Renumerado en cascada (2026-09-20, encargo del autor): se insertó el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Cap. 32 — Línea directa]] (Kal/Lucia Varek) entre este capítulo y "Vamos a casa". Este archivo pasó de 32 a 33; "Mi pareja" pasó de 33 a 34.
 Protagonistas: Chiara Bellandi (POV único, sin excepción). Apariciones: Kenji Oda, Marisol Grayson. Coda: Kal Mercer.
@@ -85,7 +86,7 @@ Chiara se acercó lo suficiente para que los dos la registraran. Kenji fue el pr
 
 No era una pregunta hecha a Chiara. Era la pregunta que le había estado haciendo a Kenji.
 
-—No te debo nada a ti —dijo Chiara, con calma—. Y no te estaba observando a ti.
+—No te estaba observando a ti —dijo Chiara, con calma.
 
 —Ya. —Marisol la miró un momento, después miró a Kenji, después otra vez a Chiara, y algo terminó de encajar en su cabeza con la velocidad de alguien acostumbrada a conectar puntos más rápido de lo que el resto de la sala esperaba—. Claro.
 
@@ -99,7 +100,7 @@ Sonó a alguien completando un mapa que no le gustaba del todo.
 
 Chiara no lo negó. No tenía sentido negarlo, y una de las cosas que había aprendido de este trabajo, mucho antes de conocer a Kal, era que a la gente inteligente no se le mentía sobre lo obvio; se le mentía, si acaso, sobre lo que no era obvio.
 
-—Empezó conmigo —dijo—. Deja que te cuente qué fue.
+—Deja que te cuente qué fue —dijo.
 
 ***
 
@@ -161,9 +162,7 @@ Marisol la miró un momento, calculando cuánto valía la pena contar.
 
 —No fue nada del otro mundo —dijo, al final, con un encogimiento de hombros que desmentía un poco su propio tono—. Lo vi dos veces donde no esperaba verlo, y la tercera dejé de creerle a la casualidad. Después sólo hizo falta prestar atención y averiguar dónde trabajaba.
 
-—¿Eso es todo? —preguntó Chiara.
-
-—Es todo lo que te voy a contar.
+Chiara esperó el resto. Marisol la dejó esperando.
 
 No insistió. Entendía, mejor que casi nadie en esa sala, el valor de no explicar del todo un método que a una podría volver a servirle.
 
@@ -205,10 +204,6 @@ Marisol seguía sin estar del todo tranquila. Pero ya no quería irse.
 
 —No hace falta. —Marisol no apartó los ojos de Kenji al decirlo, aunque la frase iba dirigida a Chiara—. Ya vine hasta aquí sola. Puedo volver igual.
 
-—¿Segura?
-
-—Segura.
-
 Chiara asintió. Había una versión de sí misma, de hacía apenas unos meses, que hubiera insistido, que hubiera organizado un coche, un chofer, una ruta, porque organizar era lo que sabía hacer con la incomodidad. Esta vez no insistió. Ya había dicho lo que tenía que decir, Kenji había dicho lo que tenía que decir, y lo que seguía no le pertenecía.
 
 —Entonces los dejo —dijo.
@@ -217,9 +212,7 @@ Marisol la miró un momento, algo parecido a la sorpresa cruzándole la cara, co
 
 —¿Así nada más?
 
-—Así nada más.
-
-Empezó a caminar hacia el corredor de administración, y alcanzó a oír, a su espalda, la voz de Marisol bajando un poco de volumen, ya sin la exigencia del principio.
+Chiara no le contestó eso. Empezó a caminar hacia el corredor de administración, y alcanzó a oír, a su espalda, la voz de Marisol bajando un poco de volumen, ya sin la exigencia del principio.
 
 —Entonces qué se supone que hacías cuando no me estabas espiando.
 
@@ -365,17 +358,13 @@ Ella bajó el fuego, se dio vuelta dentro del espacio que le dejaban los brazos 
 
 —¿El de la caja?
 
-—El de la caja.
+Chiara asintió.
 
 Kal se quedó con eso un segundo, la mandíbula un poco tensa.
 
 —¿Desde cuándo?
 
 —Desde hoy, que yo sepa. —Chiara volvió a la olla—. Y no desde que él lo decidió. Desde que ella lo encontró.
-
-—¿Lo encontró?
-
-—Lo encontró.
 
 —¿Cómo que lo encontró? —Kal frunció el ceño—. ¿Ella lo siguió?
 
@@ -387,11 +376,7 @@ Kal se quedó con eso un segundo, la mandíbula un poco tensa.
 
 Kal se quedó callado un momento más largo del que hacía falta, y Chiara pudo ver, en el pequeño desorden de esa pausa, el mismo movimiento que había visto tantas veces: el susto y el orgullo llegando casi al mismo tiempo y peleándose por cuál se quedaba con la cara primero.
 
-—Claro que lo encontró —dijo, al fin, con algo que no era del todo una sonrisa pero se le parecía.
-
-—Sí.
-
-—¿Y Kenji la siguió a ella? —preguntó, volviendo al ceño fruncido—. ¿Fue detrás de Marisol sin que nadie se lo pidiera?
+—Claro que lo encontró —dijo, al fin, con algo que no era del todo una sonrisa pero se le parecía. Le duró poco—. ¿Y Kenji la siguió a ella? ¿Fue detrás de Marisol sin que nadie se lo pidiera?
 
 —No. —Chiara removió la salsa, sin apuro—. Le pedí que mirara alrededor de Vivian. Marisol se repitió en ese entorno. Él decidió, por su cuenta, prestarle más atención de la que hacía falta para saber si formaba parte de algo.
 
@@ -403,9 +388,9 @@ Kal se apoyó contra la barra, cruzó los brazos, y se quedó procesando eso un 
 
 —Bien —dijo, al fin.
 
-—¿Bien?
+Chiara levantó una ceja.
 
-—Dije bien. —La miró—. No dije que me agrade.
+—No dije que me agrade.
 
 Chiara sonrió, sin darle la satisfacción de decir nada más sobre eso, y volvió a la pasta. Kal se quedó apoyado ahí, todavía con algo sin resolver en la cara, hasta que ella, sin levantar la vista de la olla, se lo recordó:
 
@@ -433,7 +418,7 @@ Chiara no dijo nada. Sirvió la pasta en dos platos, puso uno frente a él, y de
 
 —Prefiero no romperle las piernas.
 
-—Sabia decisión.
+Chiara siguió comiendo, como quien da por firmado un contrato.
 
 ***
 
@@ -470,8 +455,6 @@ Kal no se movió. Dejó que el caballo le oliera la chaqueta, el cuello, el bols
 Chiara miró al caballo, y después a Kal, y no dijo nada durante un momento.
 
 —No me lo habías contado.
-
-—No me lo habías preguntado.
 
 Vento le dio otro empujón en el pecho. Kal retrocedió medio paso para no perder el equilibrio y lo dejó hacer.
 
