@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_a_oscuras_cap56]] · Cap. 56: regla 05 en *A oscuras* (fuera «¿Nadie?» / «Eso dijo», el «No» a «No me digas quién» y el «Ya sé» al valet; monólogo, columna canon y «—Ciao, bella.» intactos). DISEÑO, espera lectura; sin audiolibro.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_intereses_cap53]] · Cap. 53: regla 05 en *Intereses* (fuera «Completas», «Hablemos del tiempo», «Por eso no tiene nombre», «Una.», «Yo voy con él», «¿Para qué?» y ecos de trámite; «A él no», «No míos», «De mí, no» y «Nada no existe» intactos). DISEÑO, espera lectura; sin audiolibro.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_por_si_vuelve_cap55]] · Cap. 55: regla 05 en *Por si vuelve* (fuera «¿Copia qué?», «No pedía», «¿Usted puede?» / «¿Cuándo?», «El edificio tiene dueño», «¿Quién ganó?», «¿Yo qué?», «Ya sé que no está», «¿Así cómo?»; Valenti y Fabrizio en canon intactos). DISEÑO, espera lectura; sin audiolibro.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_su_nombre_cap54]] · Cap. 54: regla 05 en *Su nombre* (fuera «Es no», «¿Eso dijo?», «Por eso vine en persona», el eco «Menos él», «¿Para qué?», «Nada más» y preguntas de trámite; «Su nombre», «De nadie», «Usted no va» y «De esto no cobro» intactos). DISEÑO, espera lectura; sin audiolibro.

@@ -22,6 +22,7 @@ DISEÑO del agente, pendiente de lectura:
 - El loft: la llave propia; pone el cuadro en la mesa donde Kal deja las llaves; toca la tierra de la albahaca y está húmeda (Héctor la regó, Cap. 46). Luego la forma junto a la isla.
 - Kal: la ropa limpia con los pliegues de haber estado doblada en cuadro (rima muda con Rosaura, Cap. 45, y Walt, Cap. 46). Chiara sólo ve, no deduce. Nada sobre cómo salió ni la bolsa de tela.
 - Dudas resueltas por el autor (2026-10-03, auditoría del arco, Q22 y Q25): (1) "ma dai" en minúscula y redonda; (2) el "Ciao, tesoro" al valet se conserva (excepción del arco anotada en la ficha de voz de Chiara); (3) la radio de las "tres subestaciones" se conserva: conecta con el timeline y con *Voto de Ceniza*.
+- Regla de diálogo 05 (2026-10-28, DISEÑO, espera lectura): fuera «¿Nadie?» / «Eso dijo. Que no venía» (Mabel suma «Que Rafe cumplió» al recado), el «No» de Chiara a «No me digas quién» (se termina el café) y su «Ya sé» al valet (su única palabra para él es «Ciao, tesoro»). [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_a_oscuras_cap56]].
 - No se nombra a Halbrook, el señuelo, el expediente ni la mecánica de la salida. Sin reconciliación, sin "te amo". Última línea absoluta: "—Ciao, bella." Sin EPUB, commit ni push.
 -->
 
@@ -67,19 +68,13 @@ Mabel regresó secándose las manos en el delantal, aunque no las traía mojadas
 
 Chiara esperó.
 
-—Y que te diga que en las camionetas no venía nadie. —Mabel lo dijo como lo había oído, palabra por palabra, sin ponerle nada encima—. Que abrieron todas. Que nomás cajas.
-
-—¿Nadie?
-
-—Eso dijo. Que no venía. Que Rafe cumplió.
+—Y que te diga que en las camionetas no venía nadie. —Mabel lo dijo como lo había oído, palabra por palabra, sin ponerle nada encima—. Que abrieron todas. Que nomás cajas. Que Rafe cumplió.
 
 Chiara miró la taza. El café tenía una nata delgada que se rompía en la orilla.
 
 Mabel no se movió. Tenía la vista en las manos de Chiara.
 
 —No me digas quién —dijo Mabel.
-
-—No.
 
 Chiara se terminó el café frío de un trago. Sacó el billete del saco, el mismo, doblado en dos, y lo dejó debajo de la taza. Por la cena. Se levantó.
 
@@ -264,8 +259,6 @@ El lobby seguía amarillo. Había huéspedes sentados en los sillones con las ma
 El Lancia estaba donde lo había dejado, bajo la marquesina apagada, con la llave puesta. El valet había vuelto a su banquito y se levantó otra vez cuando la vio salir, metiéndose la camisa.
 
 —¿Va a salir, señora? No hay semáforos.
-
-—Ya sé.
 
 Él le abrió la puerta del conductor. Chiara puso el cuadro en el asiento del copiloto, sobre el teléfono, bocabajo, y se sentó.
 
