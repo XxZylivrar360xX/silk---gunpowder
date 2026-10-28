@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-28 00:31. Al día: 13 de 57.
+Actualizada: 2026-10-28 00:52. Al día: 12 de 57.
 
 ## Pendientes
 
@@ -17,6 +17,7 @@ Actualizada: 2026-10-28 00:31. Al día: 13 de 57.
 | 18 | Yo lo llevo | PENDIENTE | cambió la prosa | 2026-10-28 00:01 |
 | 19 | El sobre rojo | PENDIENTE | cambió la prosa | 2026-10-28 00:18 |
 | 20 | Le quedé debiendo | PENDIENTE | cambió la prosa | 2026-10-28 00:31 |
+| 21 | El día nublado | PENDIENTE | cambió la prosa | 2026-10-28 00:52 |
 | 22 | Lo que nadie estaba mirando | PENDIENTE | cambió la prosa | 2026-10-27 21:25 |
 | 23 | Lo pequeño | PENDIENTE | cambió la prosa | 2026-10-27 21:28 |
 | 24 | El primer huésped | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
@@ -77,7 +78,7 @@ Actualizada: 2026-10-28 00:31. Al día: 13 de 57.
 | 18 | Yo lo llevo | PENDIENTE | 2026-10-26 |
 | 19 | El sobre rojo | PENDIENTE | 2026-10-26 |
 | 20 | Le quedé debiendo | PENDIENTE | 2026-10-26 |
-| 21 | El día nublado | AL DIA | 2026-10-26 |
+| 21 | El día nublado | PENDIENTE | 2026-10-26 |
 | 22 | Lo que nadie estaba mirando | PENDIENTE | 2026-10-23 |
 | 23 | Lo pequeño | PENDIENTE | 2026-10-23 |
 | 24 | El primer huésped | PENDIENTE | 2026-10-23 |
@@ -117,6 +118,7 @@ Actualizada: 2026-10-28 00:31. Al día: 13 de 57.
 
 ## Historial
 
+- 2026-10-28 00:52 · Cap. 21 (18_El_Dia_Nublado.md) · audio pendiente: cambió la prosa
 - 2026-10-28 00:31 · Cap. 20 (17_Cuentas_Claras.md) · audio pendiente: cambió la prosa
 - 2026-10-28 00:18 · Cap. 19 (16_El_Sobre_Rojo.md) · audio pendiente: cambió la prosa
 - 2026-10-28 00:01 · Cap. 56 (50_A_Oscuras.md) · audio pendiente: cambió la prosa

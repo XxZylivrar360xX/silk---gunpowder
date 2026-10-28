@@ -17,6 +17,7 @@ Conversacion del miedo 2026-10-04 (decision del autor; prosa DISEÑO pendiente d
 Siembra 2026-10-04 (DISEÑO aprobado por el autor; arrastre de la reubicacion del Corral): en el relato del matrimonio, Chiara menciona "unas familias... que se sentaban a una misma mesa" (sin nombre del marido, sin "Il Consorzio"). Origen de "Me nombro familias. Las que tu me habias mencionado" en el parador del 24c. El nombre Il Consorzio sigue reservado al 25.
 SURGERY frente 2 (2026-10-05, autorizada por el autor; sigue TERMINADO): L18-1 fuera la reprise en cursiva de la frase de Hector (la metadata de arriba ya pedia que no se repitiera); L18-2 "No leyo la situacion. No se volvio lo que pedia." fuera; L18-3 a L18-5, la conversacion del miedo sin el pegamento del agente: fuera "¿Y quieres vivir asi?", el resumen del arco de Chiara y "dime que quieres" (Kal sólo dice lo de la falda y Chiara contesta "Con miedo."), fuera "¿Y asi estas bien?" ("Lo llevo de copiloto" queda sin evaluacion) y el aforismo del miedo (quedan los hombres sin miedo y "Si tienes miedo, es que algo te importa"). Beats del autor intactos. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Lucidez_Personajes_Frente_2.md.
 Regla de dialogo 05 (esticomitia) 2026-10-26, a pedido del autor: siete cortes de eco/remate; la prosa nueva es DISENO, espera lectura (98_Agent_Handoff/sessions/2026-10-26_claude_regla05_dia_nublado_cap21.md).
+SURGERY 2026-10-28 (reporte ChatGPT, lectura del Cap. 21; sigue TERMINADO, la prosa nueva es DISEÑO y espera lectura): O-01 grieta en el relato de Chiara ("Hasta que una noche yo…", retoma por otro lado) e inferencia de Kal ajustada a esa grieta; fuera "No dijo *yo lo maté*"; O-02 fuera "Nunca se había quedado en ningún sitio…"; O-04 el letrero del Monarch ya encendido contra el gris; O-03 protegido. Ver 98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap21_el_dia_nublado.md.
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N18-1 a N18-5 (N18-6 conservado). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
@@ -338,15 +339,17 @@ Chiara se quedó un momento mirando el cielo gris, como si ahí estuviera escrit
 
 —Sí —dijo.
 
-Y contó lo suficiente. Que se había casado joven, en Italia, con un hombre que al principio le pareció una salida y después fue una puerta cerrada. Que en su mundo un matrimonio así no lo decidía nadie solo: lo bendecían unas familias, las mismas de siempre, que se sentaban a una misma mesa. Que ese hombre le enseñó lo que era vivir midiendo el ruido de unos zapatos en un pasillo. Que la cosa terminó, y que ella salió de ahí y él no.
+Y contó lo suficiente. Que se había casado joven, en Italia, con un hombre que al principio le pareció una salida y después fue una puerta cerrada. Que en su mundo un matrimonio así no lo decidía nadie solo: lo bendecían unas familias, las mismas de siempre, que se sentaban a una misma mesa. Que ese hombre le enseñó lo que era vivir midiendo el ruido de unos zapatos en un pasillo.
 
-No dijo *yo lo maté*. No dijo el nombre. Ordenó cada frase con el cuidado de quien acomoda algo frágil en una caja.
+—Hasta que una noche yo… —Dejó la frase donde estaba y la retomó por otro lado—. Una noche terminó. Yo salí de ahí. Él no.
+
+No dijo el nombre. Ordenó cada frase con el cuidado de quien acomoda algo frágil en una caja.
 
 —Ya está —dijo—. No preguntes lo que sigue.
 
 Kal no preguntó lo que seguía.
 
-Pero escuchó todo lo demás. Escuchó los años que no cuadraban si se contaban hacia atrás. Escuchó dónde bajaba ella la voz y dónde la saltaba. Escuchó la palabra *terminó* usada para dos cosas distintas en la misma frase. Volvieron a pie por la orilla del lago, con las bolsas al hombro y sin una palabra, y para cuando llegaron a la casa club ya lo sabía, con la misma certeza tranquila con que sabía leer un motor por el sonido: al marido lo había matado ella.
+Pero escuchó todo lo demás. Escuchó los años que no cuadraban si se contaban hacia atrás. Escuchó dónde bajaba ella la voz y dónde la saltaba. Escuchó la frase que había empezado con un *yo* y había terminado sin nadie. Volvieron a pie por la orilla del lago, con las bolsas al hombro y sin una palabra, y para cuando llegaron a la casa club ya lo sabía, con la misma certeza tranquila con que sabía leer un motor por el sonido: al marido lo había matado ella.
 
 No le cambió la cara. No la miró distinto. Dejó las dos bolsas en el mostrador, se subió al auto y esperó a que ella se subiera también.
 
@@ -362,7 +365,7 @@ El día se les había puesto encima.
 
 Kal manejó de vuelta por la carretera del norte con la nube todavía sin romperse y la ciudad pasando gris a los dos lados. Ninguno habló. No era el silencio de las otras noches —el de la hierba y las canciones y las habitaciones separadas, el que se estiraba cómodo y no pedía nada—. Este pesaba. Se sentía en las manos sobre el volante y en la manera en que ella miraba por la ventanilla sin ver.
 
-Pasaron el desvío del hipódromo. Pasaron las bodegas. Pasaron el letrero del Monarch encendido de día por costumbre, no por necesidad. Kal contó tres semáforos en rojo, y en los tres el silencio siguió ahí, entero, sin gastarse.
+Pasaron el desvío del hipódromo. Pasaron las bodegas. Pasaron el letrero del Monarch, encendido ya contra el gris. Kal contó tres semáforos en rojo, y en los tres el silencio siguió ahí, entero, sin gastarse.
 
 Entró al aparcamiento de la entrada y detuvo el auto frente a las puertas de vidrio. No apagó el motor enseguida.
 
@@ -386,7 +389,7 @@ Kal no contestó.
 
 El motor seguía encendido. En algún lugar debajo de la calma que se obligaba a sostener, Chiara esperaba el sonido de ese motor acelerando hacia la salida — la clase de despedida que no necesita palabras, solo un auto que arranca antes de que alguien tenga que decir que no.
 
-Toda la vida de Kal había funcionado así: motor encendido, salida calculada antes de que hiciera falta, la costumbre de leer lo que un lugar pedía y volverse eso, o irse en cuanto dejaba de pedir nada. Nunca se había quedado en ningún sitio que pudiera decidir abandonar.
+Toda la vida de Kal había funcionado así: motor encendido, salida calculada antes de que hiciera falta, la costumbre de leer lo que un lugar pedía y volverse eso, o irse en cuanto dejaba de pedir nada.
 
 Pasó un minuto entero así —ella con la mano en la manija, él sin decir nada, la nube quieta arriba— y en algún punto de ese minuto, sin ruido, sin nombrarlo siquiera para sí mismo, Kal decidió no hacer lo de siempre. Se quedó.
 

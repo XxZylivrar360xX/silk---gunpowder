@@ -163,10 +163,10 @@
     "18_El_Dia_Nublado.md": {
       "capitulo": 21,
       "titulo": "El día nublado",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-26",
-      "desde": "2026-10-26 00:23"
+      "desde": "2026-10-28 00:52"
     },
     "19_Tierra_Buena.md": {
       "capitulo": 22,
@@ -1206,6 +1206,11 @@
     [
       "2026-10-28 00:31",
       "Cap. 20 (17_Cuentas_Claras.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-28 00:52",
+      "Cap. 21 (18_El_Dia_Nublado.md)",
       "audio pendiente: cambió la prosa"
     ]
   ]
