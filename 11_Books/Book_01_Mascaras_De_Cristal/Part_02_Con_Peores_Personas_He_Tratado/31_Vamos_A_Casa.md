@@ -3,6 +3,7 @@ Renumerado 2026-10-22 (decisión del autor): antes Cap. 31; numeración corrida 
 Otoño, lago y cumpleaños (2026-10-08, CANON DEL AUTOR; DISEÑO): el lago queda más allá de Las Gemelas (pasan el desvío "el de esa mañana"; ficha [[05_Locations/El_Lago]]); hojas de sicomoro en la cuneta; en la competencia, Nadir suelta el cumpleaños de Kal (1 ene) y Kal admite que no lo dijo.
 PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): reanclajes cortos sin volver a describir el lago. El agua del recodo es más fría que la de la orilla. La piedra de la roca está tibia del día y se oscurece con lo que les escurre. Desde la roca se ve la orilla en pequeño (hieleras, figuras, el humo de la parrilla que llega a ratos). Al volver, la piedra suelta bajo los pies. CLIMA (CANON DEL AUTOR 2026-10-06, supersede el "sigue siendo invierno" del mismo día): 26–31 caen en SEPTIEMBRE del año 2 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]] § A). La tarde de calor en la orilla es la de septiembre. El agua del recodo, más fría que la orilla, es la de un lago de sierra. El frío al irse el sol y la calefacción se explican por la ropa mojada, no por el invierno. Firma de otoño: pendiente de decisión del autor.
 Estado: BORRADOR — sexto capítulo de la Parte II; cierra el arco H5–H7 (no la Parte II: siguen 32–34). Pendiente de revisión del autor. Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] § 9 parte 3): POV de Chiara saneado, resumen del coche comprimido, glosas cortadas, Beretta .25 (primera aparición, vestidor) y gesto de la roca (P3). Sigue BORRADOR.
+Regla de diálogo 05 (2026-10-28, a pedido del autor; prosa DISEÑO; sigue BORRADOR): 12 cortes de eco/remate y turnos perdidos, detalle en [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_vamos_a_casa_cap36]]. Líneas canon intactas.
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 2 cortes (N31-1, N31-2); sigue BORRADOR.
 Protagonistas: Chiara Bellandi (POV único). Grupo: Kal Mercer, Nadir Amrani, Daniel "Danny" Hayes, Héctor Navarro, Walter "Walt" Keegan, Harper Walker.
 Ventana temporal: MISMO DÍA que los Caps. 28–30 (CANON DEL AUTOR — "hay que sanear, mi decisión es que sea el mismo día"). Ocurre la tarde-anochecer del día del regreso de Kal (Halbrook se lo llevó de la ciudad la madrugada anterior; Kal manejó de vuelta toda la noche): el día que Kal volvió golpeado al loft al amanecer, que fue a la mansión de Varek, que Kal y Chiara pactaron en Las Cascadas y que Kal reunió a su gente en El Patio. La pesca ya estaba acordada entre Nadir/Danny/Héctor/Walt/Kal al cierre de la coda del Cap. 30; la llamada de Kal a Chiara que abre este capítulo es la invitación personal a algo que el grupo ya decidió, no una convocatoria nueva. Kal sigue "recién molido": costillas y ceja de la paliza de Halbrook siguen activas.
@@ -53,7 +54,7 @@ Chiara se quedó con el teléfono pegado a la oreja un segundo de más, sin sabe
 
 —¿Eso es toda la invitación?
 
-—Es toda la invitación. Ya voy de camino.
+—Ya voy de camino.
 
 Colgó antes de que ella pudiera pedirle más, y Chiara se quedó mirando el teléfono un segundo, y después, sin decidirlo del todo, sonrió.
 
@@ -85,7 +86,7 @@ Lo dijo mal, con ese francés torcido que sólo le salía cuando estaba orgullos
 
 —¿Estás decidiendo mi ropa?
 
-—Estoy decidiendo tu ropa.
+Kal no se molestó en contestar.
 
 Lo miró un momento más, sin moverse, y después hizo lo único que tenía sentido: se puso la blusa, se sentó en el borde de la cama a abrocharse las botas, pasó el teléfono, las llaves y la Beretta .25 del bolso del trabajo a uno de lona, y no dijo nada más sobre el asunto. Confiar en que un hombre eligiera bien su ropa era una cosa nueva. Confiar en éste, en particular, no lo era.
 
@@ -147,11 +148,7 @@ Pararon en una tienda de artículos de pesca a la salida de la ciudad, un local 
 
 —Esto es absurdo —dijo, sosteniendo un señuelo de plástico pintado con los colores de un pez que no existía en ninguna parte—. Le pagamos a alguien por objetos diseñados para perderse en el agua.
 
-—Ésa es la mitad del negocio.
-
-—¿Cuál es la otra mitad?
-
-—Que vuelvas a comprar más.
+—Ésa es la mitad del negocio —dijo Kal, y echó dos más a la canasta—. La otra mitad es que vuelvas a comprar.
 
 ***
 
@@ -241,7 +238,7 @@ Danny llegó desde la orilla con un perro pisándole los talones, ladrando a alg
 
 —Bienvenida al lado feo del barrio —dijo, sonriendo—. Aquí no hay valet.
 
-—Sobreviviré.
+Chiara no alcanzó a contestar: Rocco ya le estaba oliendo las botas.
 
 Héctor estaba sentado en una silla plegable con una gorra vieja calada hasta las cejas, vigilando la parrilla.
 
@@ -263,9 +260,7 @@ Kal estaba metido hasta las rodillas en el agua, con una caña en una mano y la 
 
 —Me dijeron que me iba a mojar. No mentiste.
 
-—Nunca miento sobre eso.
-
-Le tendió una caña de más, de las que había traído de repuesto, y le mostró, sin hacer un discurso de ello, cómo sostener el carrete y soltar el hilo en el momento justo del lanzamiento. El primer intento de Chiara cayó a medio metro de sus propios pies, y Kal se rió, sin burla, y se lo mostró otra vez, más despacio. Al tercer intento el hilo salió limpio y lejos, y ella sintió una satisfacción completamente desproporcionada para el logro. Se metió al agua con las botas puestas hasta que el fondo cambió de textura y decidió que las botas podían esperar en la orilla.
+Kal no le discutió. Le tendió una caña de más, de las que había traído de repuesto, y le mostró, sin hacer un discurso de ello, cómo sostener el carrete y soltar el hilo en el momento justo del lanzamiento. El primer intento de Chiara cayó a medio metro de sus propios pies, y Kal se rió, sin burla, y se lo mostró otra vez, más despacio. Al tercer intento el hilo salió limpio y lejos, y ella sintió una satisfacción completamente desproporcionada para el logro. Se metió al agua con las botas puestas hasta que el fondo cambió de textura y decidió que las botas podían esperar en la orilla.
 
 ***
 
@@ -297,7 +292,7 @@ En enero ella había estado eligiendo sofás para la casa de él.
 
 —No dijiste nada.
 
-—Es solo un dia más.
+—Es solo un día más.
 
 Chiara no insistió.
 
@@ -335,15 +330,9 @@ Kal se rió, una carcajada corta y de verdad.
 
 —No tenía pensado hacerlo.
 
-—¿Entonces por qué me tienes en el aire?
-
-—Para ver si lo notabas.
+Dio un paso hacia donde el agua se ponía oscura.
 
 —Ni se te ocurra —dijo ella, con menos convicción de la que hubiera querido.
-
-—¿Que no se me ocurra qué?
-
-—Sabes exactamente qué.
 
 —No sé de qué hablas. —Y la tiró.
 
@@ -352,10 +341,6 @@ El agua, mucho más fría ahí que en la orilla, le cortó el aire y se le meti�
 —Eso —dijo ella, apartándose el pelo de la cara— fue una declaración de guerra.
 
 —Y perdiste.
-
-—Los dos estamos igual de mojados. Nadie perdió.
-
-—Yo lo disfruté más. Cuenta como ganar.
 
 Ella le tiró agua a la cara con la mano abierta, sin previo aviso, y él respondió igual, y por un rato no hubo ninguna conversación que valiera la pena tener por encima del ruido de las salpicaduras y de la risa de los dos.
 
@@ -371,7 +356,7 @@ El cielo empezó a ponerse de un color que ninguno de los dos comentó. Desde ah
 
 —Nadir va a seguir discutiéndolo un mes.
 
-—Dos.
+Kal se rio por la nariz, sin abrir la boca.
 
 Se quedaron viendo el agua. No había nada que resolver ahí arriba, ninguna versión que armar, ningún dato que direccionar, y Chiara notó, sin decirlo, que la quietud no le pesaba como otras veces le había pesado la quietud. Kal tenía el brazo apoyado detrás de ella, no encima, cerca, y en algún momento sin que ninguno lo decidiera del todo, ella terminó con la cabeza apoyada en su hombro y él dejó que se quedara ahí.
 
@@ -433,10 +418,6 @@ Kal tuvo la prudencia de no sonreír.
 
 —Estorbaba ahí —dijo.
 
-—No estorbaba.
-
-—Sí estorbaba.
-
 —Kal, yo diseñé esta sala.
 
 —Y yo vivo aquí.
@@ -456,10 +437,6 @@ Chiara dejó el bolso sobre la mesa y caminó hasta el mueble como si estuviera 
 —Está orientado hacia la sala. Si lo giras hacia la televisión, rompe toda la composición.
 
 —La composición no tiene que ver partidos desde ese ángulo.
-
-—La composición no ve partidos.
-
-—Yo sí.
 
 —Entonces usa el sofá.
 
@@ -546,10 +523,6 @@ Con muchísimo interés.
 —No digas nada.
 
 La sonrisa ladeada de Chiara apareció despacio.
-
-—No he dicho nada.
-
-—Lo estás pensando muy fuerte.
 
 —Buenas noches, señor Mercer.
 
