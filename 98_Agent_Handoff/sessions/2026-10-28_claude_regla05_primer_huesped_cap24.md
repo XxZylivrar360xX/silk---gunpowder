@@ -14,4 +14,4 @@
 ## Pendientes
 
 - Lectura del autor del Cap. 24.
-- Audiolibro: correr `--estado` en la máquina del autor (Caps. 12–24). No se regenera aquí.
+- Audiolibro: correr `--estado` en la máquina del autor (el 24; 12–23 ya marcados). No se regenera aquí.

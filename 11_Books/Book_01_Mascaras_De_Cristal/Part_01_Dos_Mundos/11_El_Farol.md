@@ -11,6 +11,7 @@ Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); sigue BORRA
 Arco lector 11-13 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_11-13_Lector; sigue BORRADOR; prosa DISENO pendiente de lectura): P7 y P8e/P8f aplicados. Siembra 'Tampoco le conto lo de la mesa tres'; el ladrillo vuelve al entrar al penthouse ('Tampoco esa noche lo tiro'); condicion de Walt (comprarle su parte 'a precio de lista') antes de 'Minoritaria', que sigue siendo la ultima replica. VERIFY V3: 'dijo' -> 'dijo Walt' (desambigua tras reorden).
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N11-1 a N11-3. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 Regla de dialogo 05 (2026-10-26, a pedido del autor; sigue BORRADOR; DISENO pendiente de lectura): cortes de eco y turnos perdidos en el torneo y el penthouse. Ver 98_Agent_Handoff/sessions/2026-10-26_claude_regla05_farol_cap14.md.
+Cirugia editorial 2026-10-27 (notas de lectura ChatGPT 2026-10-26, autorizada por el autor; sigue BORRADOR; prosa nueva DISENO pendiente de lectura): O1, la apertura deja de recapitular la cena del Cap. 13 (fuera la isla, "entre el pan y la carne" y la cifra redonda); quedan los cerillos bajo techo ajeno y la pregunta del licor. O2-O8 sin cambios. Ver 98_Agent_Handoff/sessions/2026-10-27_claude_surgery_cap14_farol.md.
 -->
 
 # Capítulo 14 — El farol
@@ -25,9 +26,7 @@ El nombre la detuvo antes del café.
 
 Tommaso lo había marcado en la lista del torneo con una nota breve —*verificar solvencia*— y nada más, que en el idioma de Tommaso significaba *no vale la pena mi tiempo*. Para él era un nombre sin tarjeta corporativa, sin referencia de otro casino y con una dirección de la Almendra.
 
-Para Chiara era el viejo de la mesa larga. El que jugaba por cerillos porque no apostaba dinero bajo un techo ajeno, el que había rodeado la isla del loft como si revisara un motor y el que, la noche del estreno, entre el pan y la carne, le había preguntado cuánto licor compraba el Monarch al mes, y a quién.
-
-Ella le había dado una cifra redonda y ningún nombre. Él no había vuelto a preguntar.
+Para Chiara era el viejo que jugaba por cerillos porque no apostaba dinero bajo un techo ajeno. El que le había preguntado cuánto licor compraba el Monarch al mes, y a quién.
 
 La entrada de ese torneo no la pagaba un hombre que todavía discutía el precio de un refresco.
 

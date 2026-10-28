@@ -15,6 +15,7 @@ Seguridad del Monarch (2026-10-22, decision del autor; prosa DISENO pendiente de
 Levanton (2026-10-26, CANON DEL AUTOR en sustancia; supera la linea "Asalto, no atentado" de arriba; redaccion DISENO, pendiente de lectura): el Tasador contrata escoria; camioneta gris (no blanca: las del 24c y el 41 son otras), pasamontanas, las suben a las dos y las llevan a una bodega de Las Calderas junto a las vias; uno se propasa con Chiara en la camioneta y otro lo frena "todavia" (por orden, no por decencia). En la bodega reconocen la credencial del Monarch ("Varek. Casino."): eso las salva; le devuelven todo a Chiara y se quedan la bolsa de Rowe (cobro del 13). Amenazas: Sam, la hija de Rowe (ya sembrada: la amiga de clase de Marisol, Cap. 17; ficha de Marisol; estudia fuera, en residencia universitaria; Kal no oye el nombre: el clic llega en el 17) y "el guero de la grua": sabian a quien levantaban, no de quien mas era. Chiara: muneca, labio partido, golpe en la sien con conmocion leve, por defender a Rowe; Rowe: cachetada y susto. No hay parte: Rowe lo decide (arco oscuro). Kal: Crowe se cobra despues; a la escoria la quiere encontrar ("Esos no se tasaban. Esos se encontraban."); Chiara le da las senas (diente gris; anillo en el menique) sabiendo para que. Primera noche: Kal la despierta cada tres horas. Arrastre pendiente: Cap. 13 (archivo 10), objecion de Nadir y estado de Chiara.
 Regla de dialogo 05 (2026-10-26): Rowe no contesta el cafe; "Si. Estoy bien, Kal." en lugar del eco "Con Rowe"; triaje sin eco ("Se me rompio la una"); Rowe ofrece "Le debo una" y Chiara contesta con "Ciao, tesoro"; cabina sin "Nombre?"/"No". Sesion: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_levanton_cap12]].
 Il Consorzio (2026-10-22, idea del autor; prosa DISENO pendiente de lectura): tercera razon de Chiara para no volver al Monarch: una Ardizzone lastimada en el lobby se lee en Il Consorzio como afrenta a la familia y trae presencia que nadie pidio. Cobro en la tarjeta de Dario del Cap. 10.
+Cirugia editorial 2026-10-27 (notas de lectura ChatGPT 2026-10-26, autorizada por el autor; sigue BORRADOR; prosa nueva DISENO pendiente de lectura): apertura sin la glosa del miedo a la facilidad ni del "no se arrepentia" (lo carga la grua: "lo poco que le habia costado darselo"), inventario de mensajes comprimido; reflexion de Kal sobre Crowe sin la generalizacion del barrio, el "Del guero de la grua" repetido ni el "todavia no se podia" duplicado; Danny en una sola clausula en la propuesta de la grua. Ver 98_Agent_Handoff/sessions/2026-10-27_claude_surgery_cap12_balanza.md.
 -->
 
 # Capítulo 12 — La balanza
@@ -23,9 +24,9 @@ No se lo había dicho a nadie. Ni a Ettore, el único hombre en Palermo al que t
 
 Pero lo sabía. Desde la noche del ladrillo lo sabía, con la misma certeza tranquila con la que sabía leer un balance o una mentira: había encontrado los ojos correctos, y no tenía ni la más remota idea de qué hacer con eso.
 
-Lo que hizo, primero, fue lo contrario de huir: cuando Kal le preguntó una noche qué era lo más ilegal que la habían atrapado haciendo y después le dijo que se pusiera algo cómodo, ella dijo que sí. Y la noche terminó con ella riéndose de un modo que llevaba años sin permitirse. Lo que la asustó después no fue el riesgo — el riesgo lo sabía medir. Fue la facilidad. Lo poco que le había costado dejar de administrarlo todo por unas horas.
+Lo que hizo, primero, fue lo contrario de huir: cuando Kal le preguntó una noche qué era lo más ilegal que la habían atrapado haciendo y después le dijo que se pusiera algo cómodo, ella dijo que sí. Y la noche terminó con ella riéndose de un modo que llevaba años sin permitirse.
 
-Así que retrocedió. No porque se arrepintiera; precisamente porque no se arrepentía en absoluto, y eso la inquietaba más que cualquier error. Unos días estuvo demasiado correcta: dejó que los mensajes se acumularan un día de más antes de contestarlos, que las llamadas se acortaran solas, que las excusas de trabajo llegaran justo a tiempo para no quedarse a solas con él en ningún cuarto.
+Así que retrocedió. Unos días estuvo demasiado correcta: dejó que los mensajes esperaran un día de más, que las llamadas se acortaran solas, que las excusas de trabajo llegaran justo a tiempo para no quedarse a solas con él en ningún cuarto.
 
 Trabajó. Revisó contratos que ya había revisado, bajó al piso de juego a horas en que nadie la esperaba, firmó la renovación de la póliza del túnel este sin pelearse con nadie, cosa rara. Y el jueves, la secretaria de la fiscal de distrito llamó a su oficina para preguntar si la señora Bellandi aceptaría tomar un café con la señora Rowe el sábado por la mañana. Algo informal, dijo la secretaria. En un lugar más privado.
 
@@ -257,13 +258,13 @@ Rowe parpadeó. Después, por primera vez en toda la mañana, se rió con la boc
 
 Kal conocía la frase.
 
-No la había oído en años, pero la conocía como se conoce un olor. La había oído de niño del otro lado de un mostrador con vidrio, en el primer local del Tasador, cuando tenía edad para cargar lo que había que empeñar y no para preguntar por qué. Crowe la decía cuando alguien protestaba por lo poco que le daban: la joya era de quien la traía, pero la balanza era suya. En la Almendra no había nadie que hubiera empeñado algo y no la hubiera oído.
+No la había oído en años, pero la conocía como se conoce un olor. La había oído de niño del otro lado de un mostrador con vidrio, en el primer local del Tasador, cuando tenía edad para cargar lo que había que empeñar y no para preguntar por qué. Crowe la decía cuando alguien protestaba por lo poco que le daban: la joya era de quien la traía, pero la balanza era suya.
 
 Rowe no la iba a entender.
 
 El corralón del sur le pagaba cuota a Crowe. Todo el barrio lo sabía, y Kal lo sabía cuando firmó. Lo que no había calculado era a quién le iba a cobrar Crowe. Había pensado en él mismo: un recado en el taller, una llanta cortada, un precio nuevo por algo que antes era gratis. Crowe no le había cobrado a él. Le había cobrado a la fiscal que firmó, y a la mujer que estaba sentada con ella, y le había mandado decir a él, por la boca de ella, dónde dormía.
 
-A ella la habían ido a buscar sabiendo de quién era. Del güero de la grúa. Lo que no sabían era de quién más, y Crowe, si lo sabía, no se los había dicho. Para Crowe eso también era suerte: le había caído en la balanza sin que tuviera que buscarla.
+A ella la habían ido a buscar sabiendo de quién era. Lo que no sabían era de quién más, y Crowe, si lo sabía, no se los había dicho. Para Crowe eso también era suerte: le había caído en la balanza sin que tuviera que buscarla.
 
 En el consultorio de la Almendra, mientras la doctora le entablillaba la muñeca a Chiara, Kal sacó el teléfono y buscó el número. Lo tenía guardado sin nombre, como guardaba los números de la gente a la que no quería ver escrita. Crowe le había pagado completo el trabajo de la hierba, y antes de tiempo. *Crowe no pagaba a tiempo. Pagaba antes para que pareciera favor.* Kal lo había dicho una vez, en voz alta, y le había parecido una frase sobre otra gente.
 
@@ -271,7 +272,7 @@ No tenía prueba. No tenía con qué pelear una guerra en su propio barrio, y lo
 
 Guardó el teléfono.
 
-Pero no era en Crowe en quien pensaba con el teléfono ya en el bolsillo. A Crowe lo iba a cobrar cuando se pudiera, y todavía no se podía. Crowe no le había partido el labio a nadie. Alguien la había subido a una camioneta. Alguien le había estrellado la cabeza contra una puerta, y ese alguien no tenía balanza, ni local, ni la protección de nadie: era escoria que Crowe había alquilado por una mañana y que iba a gastarse la paga en un fin de semana. Ésos no se tasaban. Ésos se encontraban.
+Pero no era en Crowe en quien pensaba. A Crowe lo iba a cobrar cuando se pudiera. Crowe no le había partido el labio a nadie. Alguien la había subido a una camioneta. Alguien le había estrellado la cabeza contra una puerta, y ese alguien no tenía balanza, ni local, ni la protección de nadie: era escoria que Crowe había alquilado por una mañana y que iba a gastarse la paga en un fin de semana. Ésos no se tasaban. Ésos se encontraban.
 
 —Esguince de segundo grado —dijo la doctora, que atendía a media Almendra sin pedir seguro y a la otra media sin pedir nombre—. Puede haber una fisura chica que todavía no se ve. Férula tres semanas, no cargar nada, hielo. Nada de manejar. —Le levantó el párpado a Chiara con el pulgar y le pasó una lucecita por los ojos, uno y otro—. Y conmoción leve. El labio cierra solo. Que no duerma sola esta noche: alguien que la despierte cada tres horas y le pregunte cómo se llama. Si vomita o no lo reconoce a usted, al hospital, con nombre o sin nombre.
 
@@ -327,7 +328,7 @@ Chiara se dio cuenta, tarde, de que no se lo había contado para que él lo supi
 
 Lo único que no le dio fue la voz. *Nadie tiene prisa.* Ésa se la guardó, sin saber todavía para qué.
 
-—Quédate unos días en la Almendra —dijo él después—. En la casa común. Ahí no entra nadie que Danny no vea desde el sofá, y Danny ve todo lo que pasa por esa puerta aunque parezca que está dormido. Nadir cocina. Walt va a cenar casi todas las noches. El taller está a tres cuadras y la grúa duerme enfrente. En el Monarch te ve cualquiera con una reservación, y el que te torció la muñeca ya sabe cómo te ves. En la Almendra no te toca nadie sin tocarme a mí primero.
+—Quédate unos días en la Almendra —dijo él después—. En la casa común. Danny ve desde el sofá todo lo que pasa por esa puerta, aunque parezca que está dormido. Nadir cocina. Walt va a cenar casi todas las noches. El taller está a tres cuadras y la grúa duerme enfrente. En el Monarch te ve cualquiera con una reservación, y el que te torció la muñeca ya sabe cómo te ves. En la Almendra no te toca nadie sin tocarme a mí primero.
 
 Chiara miró la férula. Hizo la cuenta que hacía siempre, en voz baja, por dentro. En el Monarch alguien iba a ver la muñeca y el labio antes del mediodía, y Dario iba a preguntar, y ella iba a tener que darle una versión en su propia casa. La seguridad del Monarch era buena, y le rendía cuentas a él: cada hombre en una puerta le iba a decir quién subía a verla, y a qué hora. Y lo que supiera Dario podía llegar a Il Consorzio, donde una Ardizzone con el labio partido y la muñeca entablillada en el lobby del Monarch no era un asalto en un callejón. Era una afrenta a la familia, y las afrentas las contestaban ellos, con gente que nadie había pedido y que después no se iba. En la Almendra nadie le iba a pedir ninguna.
 
