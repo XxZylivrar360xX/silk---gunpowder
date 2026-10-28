@@ -22,6 +22,7 @@ Funcion: DISEÑO NUEVO de esta sesion, a peticion del autor. Segundo escalon de 
 - INSERCION BORRADOR (2026-09-26, Claude Code, decision del autor sobre la quinta tanda de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Evaluacion_Arco_Libro_I]]): primera siembra de Silas Crowe desde el Cap. 17. Tras la reapertura de la llantera, Hector cuenta que el Tasador mando a preguntar quien arreglo lo de Portillo y cuanto cobro; la respuesta es "nada" y "al muchacho no le gusto". Crowe tasa el crecimiento de Kal, sin accion. AJUSTE 2026-10-04 (decision del autor, arrastre de la reubicacion del Corral; BORRADOR): "Los dos estaban pensando en Calle Corona" (Cap. 9). Anticipa el mecanismo de su caida (Kal da gratis lo que el vende) y el motivo del incendio ("si alguien empieza a ganar sin el, aparece una cuota nueva", [[02_Characters/Silas_Crowe]]). No se inventa el cargamento. Pendiente de revision del autor.
 
 > **DISEÑO RESERVADO PARA PARTE III (2026-09-20, idea del autor, no escrito):** cuando Kal empiece a aparecer publica o semipublicamente como la persona que Dario usa para coordinar problemas entre bandas, Lucia empezara a encontrarse el nombre de Mercer en lugares extraños sin tener todavia un delito claro que ponerle encima. Ahi si, con evidencia acumulada de meses de linea directa sin que Kal la haya usado nunca para llegar a su padre, Lucia puede observarlo en voz alta: *"—Hay algo que no entiendo de usted. —La lista es larga. —Tiene contacto con mi padre. Tiene contacto conmigo. Nunca ha intentado utilizar uno para llegar al otro."* Kal: *"—Porque son dos relaciones distintas."* — declaracion sobre como Kal administra personas (no convierte automaticamente un vinculo en palanca sobre otro) que Lucia puede recordar años despues al preguntarse cuanto sabia Kal sobre Dario. No fijar capitulo ni fecha todavia; anotar tambien en `06_Relationships/Hitos.md` o `98_Agent_Handoff/PENDING.md` si se quiere proteger la idea para cuando se diseñe la Parte III.
+Regla de dialogo 05 (2026-10-28, Claude Code, encargo del autor; prosa DISENO, sigue BORRADOR): cinco cortes de eco/remate (Lucia en la oficina y en la segunda visita, coda con Chiara); detalle en 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_linea_directa_cap37.md.
 Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): Nadir le avienta la llave Allen en la acera; cuando Kal le quita lo de Irene, Rocco se la devuelve y Nadir no la recoge. Ficha: 02_Characters/Rocco.md.
 -->
 
@@ -87,7 +88,9 @@ Kal no contestó nada a eso. Tomó una llave que estaba fuera de lugar sobre el 
 
 —Yo remolco coches. No cobro cuentos.
 
-—No le estoy pidiendo cuentos. —Sostuvo la mirada un momento más de lo cómodo—. Le estoy diciendo que usted probablemente sabe en tres semanas lo que a mí me toma tres meses aprender, y que no voy a pedírselo dos veces si la primera me contesta esto.
+Lucia sostuvo la mirada un momento más de lo cómodo.
+
+—Le estoy diciendo que usted probablemente sabe en tres semanas lo que a mí me toma tres meses aprender, y que no voy a pedírselo dos veces si la primera me contesta esto.
 
 Kal se cruzó de brazos.
 
@@ -97,7 +100,7 @@ Kal se cruzó de brazos.
 
 —Suena a mucho trabajo para nada a cambio.
 
-—Suena a que usted decide si le conviene.
+Lucia no le discutió la cuenta.
 
 Kal la miró un momento, midiendo lo que ya sabía: que decir que no ahí no costaba nada, y que decir que sí tampoco lo obligaba todavía a nada concreto.
 
@@ -257,11 +260,7 @@ Kal no dijo nada. Héctor tampoco. Los dos estaban pensando en Calle Corona.
 
 Lucia volvió al taller dos semanas después de la primera visita, cerca del cierre, sin carpeta esta vez.
 
-—Sirvió —dijo, sin preámbulo.
-
-—Le dije que serviría.
-
-—No dijo eso. No dijo nada, hasta que llamó.
+—Sirvió —dijo, sin preámbulo—. Usted no me dijo que iba a servir. No me dijo nada, hasta que llamó.
 
 Kal no discutió el punto. Estaba limpiando una llave que ya estaba limpia.
 
@@ -269,9 +268,7 @@ Kal no discutió el punto. Estaba limpiando una llave que ya estaba limpia.
 
 —Ahora nada. Un arma menos en la calle, una extorsión que ya puedo sostener y un expediente que aguanta una revisión. Eso no significa que confíe en usted.
 
-—Yo tampoco confío en usted.
-
-—Bien. —Algo parecido a media sonrisa le cruzó la cara y se fue tan rápido como llegó—. Así funciona mejor.
+Kal asintió, como quien firma un recibo. Algo parecido a media sonrisa le cruzó la cara a Lucia y se fue tan rápido como llegó.
 
 Kal dejó la llave en su gancho.
 
@@ -311,13 +308,9 @@ Chiara no bajó la copa de inmediato.
 
 Chiara se quedó con la copa a medio camino, dándole vueltas a algo que no dijo todavía.
 
-—Una Varek con línea directa a ti.
+—Una Varek con línea directa a ti. —Lo dijo despacio, como quien relee un renglón del contrato—. No sé si eso me deja más tranquila o menos.
 
-—Con línea directa a mí.
-
-—No sé si eso me deja más tranquila o menos.
-
-—Yo tampoco lo sé.
+Kal no tenía la respuesta. No fingió tenerla.
 
 —¿Y el Canal Seco?
 
