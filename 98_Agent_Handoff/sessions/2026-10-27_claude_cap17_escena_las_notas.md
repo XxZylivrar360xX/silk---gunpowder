@@ -25,3 +25,14 @@ Sección entre el fuego ("Está aprendiendo") y "Levantaron el campamento". Domi
 - Lectura del autor.
 - Posible pago: Diego está en Evidencia; no se explicita.
 - Audiolibro: correr `--estado` (Cap. 17).
+
+## Adenda 2026-10-27 — nota ChatGPT (lectura del Cap. 17)
+
+Fuente: [[98_Agent_Handoff/ChatGPT/2026-10-27_lectura_cap17_regla_telefono_reporte_y_remate_almendra]].
+
+- **AUT-01 (direccion del autor):** fuera "Tu papá reprobó Química dos veces. Tu abuela nunca se enteró." y la risa. Entra: "—Hazlo mejor, Marisol. Que allá sepan que eres de La Almendra. De ahí salimos tipos como yo. Que vean que también sale gente extraordinaria." Reaccion: "Marisol se quedó mirando el arroyo. Asintió, sin soltar la taza." El autor pidio nombre completo y conservar el contraste con como Kal se percibe (no extraordinario): "tipos como yo" lo dice Kal, el narrador no lo glosa; eco de "somos plebe" (Cap. 7, 05c). "Todo va a estar bien" y el agua intactos. Redaccion del agente: DISENO.
+- **R-01:** "Desde Auster" -> "Desde que fue a verlo al taller" (Kal no conoce el titulo).
+- **R-02:** fuera "la mitad de las confesiones falsas del país salen de ahí" -> "así han sacado confesiones falsas".
+- **R-03:** sin tocar (trayectoria academica de Marisol; queda como pendiente de canon).
+- **R-04:** sin tocar; Walt cubriendo el taller no contradice el Cap. 18.
+- Audiolibro: `--estado` corrido.

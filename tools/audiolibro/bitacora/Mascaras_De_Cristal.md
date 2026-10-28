@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-27 23:17. Al día: 23 de 57.
+Actualizada: 2026-10-27 23:34. Al día: 20 de 57.
 
 ## Pendientes
 
@@ -42,6 +42,9 @@ Actualizada: 2026-10-27 23:17. Al día: 23 de 57.
 | 47 | La otra mitad | PENDIENTE | cambió la prosa | 2026-10-27 23:17 |
 | 48 | Nada | PENDIENTE | cambió la prosa | 2026-10-27 23:17 |
 | 49 | La puerta | PENDIENTE | cambió la prosa | 2026-10-27 23:17 |
+| 50 | Jurisdicción | PENDIENTE | cambió la prosa | 2026-10-27 23:34 |
+| 51 | Ropa limpia | PENDIENTE | cambió la prosa | 2026-10-27 23:34 |
+| 52 | Llaves | PENDIENTE | cambió la prosa | 2026-10-27 23:34 |
 
 ## Capítulos
 
@@ -96,9 +99,9 @@ Actualizada: 2026-10-27 23:17. Al día: 23 de 57.
 | 47 | La otra mitad | PENDIENTE | 2026-10-24 |
 | 48 | Nada | PENDIENTE | 2026-10-24 |
 | 49 | La puerta | PENDIENTE | 2026-10-24 |
-| 50 | Jurisdicción | AL DIA | 2026-10-24 |
-| 51 | Ropa limpia | AL DIA | 2026-10-24 |
-| 52 | Llaves | AL DIA | 2026-10-24 |
+| 50 | Jurisdicción | PENDIENTE | 2026-10-24 |
+| 51 | Ropa limpia | PENDIENTE | 2026-10-24 |
+| 52 | Llaves | PENDIENTE | 2026-10-24 |
 | 53 | Intereses | AL DIA | 2026-10-24 |
 | 54 | Su nombre | AL DIA | 2026-10-24 |
 | 55 | Por si vuelve | AL DIA | 2026-10-24 |
@@ -107,6 +110,9 @@ Actualizada: 2026-10-27 23:17. Al día: 23 de 57.
 
 ## Historial
 
+- 2026-10-27 23:34 · Cap. 52 (46_Llaves.md) · audio pendiente: cambió la prosa
+- 2026-10-27 23:34 · Cap. 51 (45_Ropa_Limpia.md) · audio pendiente: cambió la prosa
+- 2026-10-27 23:34 · Cap. 50 (44_Jurisdiccion.md) · audio pendiente: cambió la prosa
 - 2026-10-27 23:17 · Cap. 49 (43_La_Puerta.md) · audio pendiente: cambió la prosa
 - 2026-10-27 23:17 · Cap. 48 (42_Nada.md) · audio pendiente: cambió la prosa
 - 2026-10-27 23:17 · Cap. 47 (41_La_Otra_Mitad.md) · audio pendiente: cambió la prosa

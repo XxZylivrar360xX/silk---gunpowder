@@ -395,26 +395,26 @@
     "44_Jurisdiccion.md": {
       "capitulo": 50,
       "titulo": "Jurisdicción",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 23:34"
     },
     "45_Ropa_Limpia.md": {
       "capitulo": 51,
       "titulo": "Ropa limpia",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 23:34"
     },
     "46_Llaves.md": {
       "capitulo": 52,
       "titulo": "Llaves",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 23:34"
     },
     "47_Intereses.md": {
       "capitulo": 53,
@@ -1156,6 +1156,21 @@
     [
       "2026-10-27 23:17",
       "Cap. 49 (43_La_Puerta.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 23:34",
+      "Cap. 50 (44_Jurisdiccion.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 23:34",
+      "Cap. 51 (45_Ropa_Limpia.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 23:34",
+      "Cap. 52 (46_Llaves.md)",
       "audio pendiente: cambió la prosa"
     ]
   ]
