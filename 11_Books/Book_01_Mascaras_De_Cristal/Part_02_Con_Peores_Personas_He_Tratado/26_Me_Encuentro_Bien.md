@@ -2,6 +2,7 @@
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 26; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — primer capítulo de la Parte II (*Con peores personas he tratado*). Pendiente de revisión del autor. Cirugía editorial E5 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): cronología fija de ~24 h, POV y glosas; sigue BORRADOR. Ajuste 2026-10-04 (C7 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_24c_El_Corral]], autorizado por el autor): Varek "ya tenía" a alguien detrás de Kal (la vigilancia arranca en el 24c).
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 1 corte (N26-1); sigue BORRADOR.
+Regla de dialogo 05 (2026-10-28, pedido del autor; DISEÑO, espera lectura): en la destilería, fuera el eco de Walt "Se fue por su propio pie —confirmó" (asiente) y el remate "Estoy preocupada. Es distinto." / "Puede ser." (Chiara pierde el turno: no lo niega). Ver [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_me_encuentro_bien_cap31]].
 Protagonistas: Chiara Bellandi (POV único). Apariciones: Dario Varek (recuerdo de madrugada + confrontación), Walter "Walt" Keegan.
 Ventana temporal: la mañana en que Kal sale de San Aurelio de emergencia. La mañana siguiente a H15 (la noche del jacuzzi, Cap. 25); todo el capítulo cabe en ese día (galpón esa misma noche). La advertencia de Varek de madrugada ocurrió la noche del jacuzzi y aquí entra como recuerdo comprimido (cierre de H15), no como escena propia. Ejecuta el núcleo vivo de H5 — San Aurelio desde el lado de Chiara.
 Lugares: El Penthouse y la terraza sur del Monarch; la destilería de Walt; el taller del norte (Rutas de Milla, cerca de Kingsley Field).
@@ -84,15 +85,17 @@ Ella miró la pantalla más tiempo del que hacía falta para leer diez palabras.
 
 —Entonces se fue por su propio pie —dijo.
 
-—Se fue por su propio pie —confirmó Walt—. Lo ha hecho antes. Vuelve cuando vuelve. —Recogió el trapo otra vez, más por tener las manos ocupadas que por usarlo—. Le voy a dar un consejo que no me pidió, señorita. En esta ciudad, cuando un hombre como Kal desaparece un par de días, la gente que lo quiere aprende a no levantar las piedras a ver qué encuentra. Las piedras de aquí tienen cosas debajo que muerden.
+Walt asintió una vez.
+
+—Lo ha hecho antes. Vuelve cuando vuelve. —Recogió el trapo otra vez, más por tener las manos ocupadas que por usarlo—. Le voy a dar un consejo que no me pidió, señorita. En esta ciudad, cuando un hombre como Kal desaparece un par de días, la gente que lo quiere aprende a no levantar las piedras a ver qué encuentra. Las piedras de aquí tienen cosas debajo que muerden.
 
 Chiara no contestó a eso. Walt la miró un segundo de más.
 
 —Va a levantarlas de todos modos —dijo.
 
-—Estoy preocupada. Es distinto.
+Ella no lo negó. Walt cargó una caja de botellas y la apoyó en el filo del banco.
 
-—Puede ser. —Cargó una caja de botellas y la apoyó en el filo del banco—. ¿Puedo preguntarle una cosa, ahora que las dos manos me las ensucié yo solo?
+—¿Puedo preguntarle una cosa, ahora que las dos manos me las ensucié yo solo?
 
 —Pregunte.
 

@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_me_encuentro_bien_cap31]] · Cap. 31: regla 05 en *Me encuentro bien* (eco de Walt y remate «Es distinto» fuera; Chiara pierde el turno; canon de Walt y Varek intacto); prosa DISEÑO pendiente de lectura.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_libros_abiertos_cap30]] · Cap. 30: regla 05 en *Libros abiertos* (cuatro ecos/remates fuera en showroom, apertura del jacuzzi y Dario; confesiones y coda intactas); prosa DISEÑO pendiente de lectura.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_el_corral_cap29]] · Cap. 29: regla 05 en *El corral* (Kal pierde dos remates frente a Dario en el cuarto 221; Héctor, parador y loft intactos); prosa DISEÑO pendiente de lectura.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_lo_que_cueste_cap28]] · Cap. 28: regla 05 en *Lo que cueste* (Chiara pierde el último turno con Nadir; Kal pierde un "Ya sé" en el loft; taller, escalera y coda intactos); prosa DISEÑO pendiente de lectura.
