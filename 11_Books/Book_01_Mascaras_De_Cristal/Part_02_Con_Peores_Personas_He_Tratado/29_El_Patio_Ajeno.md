@@ -5,6 +5,7 @@ Otoño (2026-10-08, CANON DEL AUTOR; DISEÑO): una hoja seca de sicomoro en la p
 PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): geometría de poder sin decoración nueva. Los tres lados cerrados son la casa y dos muros, con un hombre contra cada muro. Varek está del lado de la casa, de cara a la piscina y al lado abierto. Kal ocupa la silla de espaldas a la piscina: ve la casa y la puerta por donde entra Vivian. La tercera silla, la de Chiara, queda en el lado libre de la mesa, entre los dos: un triángulo.
 Estado: BORRADOR — cuarto capítulo de la Parte II. Pendiente de revisión del autor. Cirugía editorial E6 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): auto (Peugeot), mesa de Vivian compactada, continuidades chicas y salto de POV; sigue BORRADOR.
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 7 cortes (N29-1 a N29-6, D-4) y continuidad: llamada de "tres palabras" y cita del 28 alineada a "no voy a ser más un problema para ti" / "tenía que irse"; sigue BORRADOR.
+Regla de diálogo 05 (2026-10-28, [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_una_silla_cap34]]): seis remates y ecos fuera; Varek gana con silencio y Kal pierde un turno con «Si la mete en el barro»; líneas CANON intactas; DISEÑO, espera lectura.
 Protagonistas: Kal Mercer (POV único). Apariciones: Dario Varek, Vivian "VV" Varek, Chiara Bellandi (segunda mitad).
  Ventana temporal: continúa de inmediato el cierre del Cap. 28 — el mismo amanecer, minutos después de que Kal salga del loft.
 Lugares: la mansión de Varek (sin ficha propia; PENDIENTE en San_Aurelio.md). Patio interior. La Ronda Exterior, de vuelta hacia San Aurelio.
@@ -78,11 +79,7 @@ Kal tardó, aun así, medio segundo de más en hablar.
 
 —Necesito una puerta —dijo.
 
-—Tengo muchas.
-
-—Ésta no.
-
-Varek levantó el vaso sin beber todavía y lo giró despacio, dejando que el hielo, el que tenía, sonara contra el vidrio.
+Varek no contestó. Levantó el vaso sin beber todavía y lo giró despacio, dejando que el hielo, el que tenía, sonara contra el vidrio.
 
 —¿Cuál?
 
@@ -120,23 +117,17 @@ Varek lo miró un momento largo, como quien confirma algo que llevaba rato sospe
 
 —Veo que usted tiene filo para cerrar negocios de niños. —Lo dijo sin desprecio, casi con aprecio profesional—. Creo que alguien con su habilidad podría cerrar tratos más... de adultos.
 
-—¿Qué está ofreciendo?
+Hizo una pausa que no necesitaba.
 
-—Una silla.
+—Le estoy ofreciendo una silla.
 
-—¿En qué mesa?
-
-—En la que importa.
-
-Kal no contestó enseguida. Dejó pasar el tiempo suficiente para que pareciera que estaba calculando el costo, cuando lo que hacía en realidad era otra cosa: medir cuánto de sus propias ganas se le podía notar en la cara.
+Kal no preguntó en qué mesa. Tampoco contestó enseguida. Dejó pasar el tiempo suficiente para que pareciera que estaba calculando el costo, cuando lo que hacía en realidad era otra cosa: medir cuánto de sus propias ganas se le podía notar en la cara.
 
 —No vine a pedir una silla —dijo, al fin.
 
-—Por eso se la estoy ofreciendo.
+Varek no se molestó en contestar eso. Se recostó, con el vaso apoyado en la pierna, y esperó.
 
 —¿Qué viene con ella?
-
-Varek se recostó, con el vaso apoyado en la pierna.
 
 —Deja de ser proveedor. Entra. Sus problemas dejan de ser sólo suyos. Y los míos, desde hoy, un poco suyos también. —Una pausa exacta—. Su gente opera bajo su nombre. Y su nombre queda bajo el mío.
 
@@ -144,13 +135,9 @@ Varek se recostó, con el vaso apoyado en la pierna.
 
 —La que usted reconozca como suya.
 
-Kal no dejó ver nada.
+Kal no dejó ver nada, y no pidió que se lo repitiera.
 
-—Entonces eso queda en el trato —dijo.
-
-—Queda.
-
-Varek no se levantó a cerrar nada con un gesto. Se quedó sentado, con el vaso en la mano, como quien deja una puerta entornada porque todavía le interesa ver quién más entra por ella.
+Varek tampoco cerró el trato con un gesto. Se quedó sentado, con el vaso en la mano, como quien deja una puerta entornada porque todavía le interesa ver quién más entra por ella.
 
 ***
 
@@ -184,7 +171,7 @@ No por el pelo; pelirrojas había en cualquier universidad. Por lo otro: una est
 
 No preguntó quién. Preguntar hubiera sido dibujar un círculo. Levantó el vaso, por primera vez esa mañana, y bebió un trago corto, más para tener algo que hacer con la mano que por el bourbon en sí.
 
-—Entonces tenía razón —dijo Varek, sin verdadero interés, ya mirando otra vez la piscina.
+Varek no comentó nada. Ya miraba otra vez la piscina.
 
 Vivian se puso de pie con la misma facilidad con la que se había sentado.
 
@@ -218,9 +205,11 @@ Varek lo estudió, y algo en su cara se movió, como cuando alguien reconoce una
 
 —Estoy protegiendo un activo.
 
-—Es lo mismo, dicho de otra forma.
+Varek no contestó. Dejó el silencio sobre la mesa, junto a la botella, el tiempo suficiente para que una mentira se echara a perder sola.
 
-—No lo es. —Kal no titubeó, y eso era lo importante: no titubear—. Si la mete en el barro, deja de escuchar lo que escucha ahora.
+—Si la mete en el barro, deja de escuchar lo que escucha ahora.
+
+No tenía por qué añadirlo, y lo añadió. Por lo menos no titubeó.
 
 Varek se quedó con eso un momento largo, girando el vaso, y Kal no pudo saber si lo que veía en su cara era que le había creído o que había decidido no discutirlo todavía.
 
@@ -232,7 +221,7 @@ Lo dijo sin calor, sin apuro, la clase de corrección que un hombre hace por cos
 
 —Qué curioso —dijo Varek, después de un silencio que ya no tenía nada que ver con el bourbon.
 
-—¿Qué?
+Esperó a que Kal preguntara qué. Kal no preguntó.
 
 —La mujer que usted lleva un buen rato intentando mantener fuera de esta conversación lleva cuarenta y tantos minutos estacionada frente a mi propiedad.
 

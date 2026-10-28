@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_una_silla_cap34]] · Cap. 34: regla 05 en *Una silla* (ping-pong Kal–Varek desarmado; Varek gana con silencio, Kal pierde un turno; CANON intacto). DISEÑO.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_no_hace_falta_cap33]] · Cap. 33: regla 05 en *No hace falta* (tres remates de Kal fuera; líneas de la fuente y CANON intactas). DISEÑO.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_lleve_equipaje_cap32]] · Cap. 32: regla 05 en *Lleve equipaje* (dos ecos de Halbrook fuera; Kal calla en el saludo; «Hay una sola... en esta carpeta»). DISEÑO.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_me_encuentro_bien_cap31]] · Cap. 31: regla 05 en *Me encuentro bien* (eco de Walt y remate «Es distinto» fuera; Chiara pierde el turno; canon de Walt y Varek intacto); prosa DISEÑO pendiente de lectura.
