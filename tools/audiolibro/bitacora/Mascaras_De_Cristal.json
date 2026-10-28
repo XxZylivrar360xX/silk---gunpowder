@@ -109,64 +109,64 @@
       "titulo": "El farol",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-25",
-      "desde": "2026-10-23 23:17"
+      "audio": "2026-10-26",
+      "desde": "2026-10-26 00:23"
     },
     "12_Roma_Atrii.md": {
       "capitulo": 15,
       "titulo": "Roma Atrii",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-25",
-      "desde": "2026-10-23 23:17"
+      "audio": "2026-10-26",
+      "desde": "2026-10-26 00:23"
     },
     "13_Auster.md": {
       "capitulo": 16,
       "titulo": "Auster",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-25",
-      "desde": "2026-10-24 23:06"
+      "audio": "2026-10-26",
+      "desde": "2026-10-26 00:23"
     },
     "14_La_Regla_Del_Telefono.md": {
       "capitulo": 17,
       "titulo": "La regla del teléfono",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-25",
-      "desde": "2026-10-24 00:37"
+      "audio": "2026-10-26",
+      "desde": "2026-10-26 00:23"
     },
     "15_El_Porton.md": {
       "capitulo": 18,
       "titulo": "Yo lo llevo",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-25",
-      "desde": "2026-10-24 00:37"
+      "audio": "2026-10-26",
+      "desde": "2026-10-26 00:23"
     },
     "16_El_Sobre_Rojo.md": {
       "capitulo": 19,
       "titulo": "El sobre rojo",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-25",
-      "desde": "2026-10-24 00:37"
+      "audio": "2026-10-26",
+      "desde": "2026-10-26 00:23"
     },
     "17_Cuentas_Claras.md": {
       "capitulo": 20,
       "titulo": "Le quedé debiendo",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-25",
-      "desde": "2026-10-24 00:37"
+      "audio": "2026-10-26",
+      "desde": "2026-10-26 00:23"
     },
     "18_El_Dia_Nublado.md": {
       "capitulo": 21,
       "titulo": "El día nublado",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-23",
-      "desde": "2026-10-24 00:37"
+      "audio": "2026-10-26",
+      "desde": "2026-10-26 00:23"
     },
     "19_Tierra_Buena.md": {
       "capitulo": 22,
@@ -907,6 +907,86 @@
       "2026-10-25 23:35",
       "Cap. 13 (10_El_Loft_Del_Soltero.md)",
       "audio generado"
+    ],
+    [
+      "2026-10-26 00:09",
+      "Cap. 14 (11_El_Farol.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-26 00:09",
+      "Cap. 15 (12_Roma_Atrii.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-26 00:09",
+      "Cap. 16 (13_Auster.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-26 00:09",
+      "Cap. 17 (14_La_Regla_Del_Telefono.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-26 00:09",
+      "Cap. 18 (15_El_Porton.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-26 00:09",
+      "Cap. 19 (16_El_Sobre_Rojo.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-26 00:09",
+      "Cap. 20 (17_Cuentas_Claras.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-26 00:09",
+      "Cap. 21 (18_El_Dia_Nublado.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-26 00:23",
+      "Cap. 14 (11_El_Farol.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-26 00:23",
+      "Cap. 15 (12_Roma_Atrii.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-26 00:23",
+      "Cap. 16 (13_Auster.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-26 00:23",
+      "Cap. 17 (14_La_Regla_Del_Telefono.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-26 00:23",
+      "Cap. 18 (15_El_Porton.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-26 00:23",
+      "Cap. 19 (16_El_Sobre_Rojo.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-26 00:23",
+      "Cap. 20 (17_Cuentas_Claras.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-26 00:23",
+      "Cap. 21 (18_El_Dia_Nublado.md)",
+      "audio regenerado"
     ]
   ]
 }
