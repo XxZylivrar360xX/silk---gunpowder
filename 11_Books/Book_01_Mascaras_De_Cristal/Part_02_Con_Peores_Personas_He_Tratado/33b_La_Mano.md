@@ -102,8 +102,6 @@ Del otro lado hubo un silencio breve, y luego un ruido que reconoció: llaves.
 
 —No tienes que venir.
 
-—Ya sé.
-
 Colgó él.
 
 Chiara se quedó un momento con el teléfono en la mano, mirando el portón del corral. Después volvió adentro.

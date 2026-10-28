@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_la_mano_cap39]] · Cap. 39: regla 05 en *La mano* (un solo corte: el «Ya sé» de la llamada; Kal cuelga). DISEÑO.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_lo_unico_que_es_mio_cap38]] · Cap. 38: regla 05 en *Lo único que es mío* (cortes de eco y remate en la caja, el loft y el corral; canon y Kenji–Marisol intactos). DISEÑO.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_linea_directa_cap37]] · Cap. 37: regla 05 en *Línea directa* (5 cortes de eco y remate; Lucia y coda con Chiara). DISEÑO.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_vamos_a_casa_cap36]] · Cap. 36: regla 05 en *Vamos a casa* (12 cortes de eco y remate; agua, roca y sillón; CANON intacto). DISEÑO.
