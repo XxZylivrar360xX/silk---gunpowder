@@ -15,6 +15,7 @@ Función: "Los de Kal". La gente de Kal la recibe fría y termina siguiéndola. 
 - Loft: Chiara da un rodeo para no pasar enfrente; Héctor le ofrece la llave; ella da la instrucción de la albahaca y no sube. Sin glosa.
 - Marisol (plan: "alguien tiene que decírselo"): el campamento de fin de mes (sembrado en el 38) cae el sábado; Walt iba a cubrir las grúas. Garrett marca el riesgo (estudia derecho, va a querer un cargo y una ventanilla). Héctor ya le mintió dos veces a Marisol y no va a mentirle una tercera (Q4 de la auditoría del arco, 2026-10-03); le pasa el teléfono a Chiara. Corte antes de la conversación (DISEÑO: queda fuera de página; si el autor la quiere en escena, abre el 47 o se amplía aquí).
 - Bonnie y Mei-Lin no aparecen. No se nombra Halbrook, el expediente, el convoy ni la fecha del traslado. Sin EPUB, commit ni push.
+Regla de diálogo 05 (2026-10-28, a pedido del autor; prosa DISEÑO, espera lectura): fuera «Ahora el de él», «¿Contando qué?», «¿Y la mochila?», «¿Qué le dijiste?», «¿Completas?», «No lo sabemos» y el «Sí» a Danny. Sesión: 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_llaves_cap52.md.
 Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): sale de la casa de tablas y se pone panza arriba con Chiara, como siempre con ella; primera vez en prosa. La casa de Kal sin Kal, sin glosa. Ficha: 02_Characters/Rocco.md.
 -->
 
@@ -68,11 +69,7 @@ La puerta de la oficina se abrió. Garrett salió con el teléfono todavía en l
 
 —Giancarlo Krane.
 
-—Krane. —Garrett se quitó los lentes un segundo, se frotó el puente de la nariz y se los volvió a poner—. Su abogado.
-
-—Ahora el de él.
-
-—Entonces su nombre ya está en un papel al lado del suyo, en una oficina federal.
+—Krane. —Garrett se quitó los lentes un segundo, se frotó el puente de la nariz y se los volvió a poner—. Su abogado. Entonces su nombre ya está en un papel al lado del suyo, en una oficina federal.
 
 —Ya estaba —dijo Chiara.
 
@@ -116,11 +113,7 @@ Chiara lo miró. Walt tenía los ojos fijos en ella y las manos abiertas sobre l
 
 Walt asintió despacio.
 
-—Entonces está contando.
-
-—¿Contando qué?
-
-—Los días. —Walt se miró las botas—. Adentro la ropa es lo único que es de uno, aunque sea del gobierno. Te la dan, te la quitan, te dan otra. El que la dobla antes de devolverla todavía está pensando en salir. —Levantó la vista—. El que la avienta a la bolsa como le cae, ése ya se quedó.
+—Entonces está contando. —Se miró las botas—. Los días. Adentro la ropa es lo único que es de uno, aunque sea del gobierno. Te la dan, te la quitan, te dan otra. El que la dobla antes de devolverla todavía está pensando en salir. —Levantó la vista—. El que la avienta a la bolsa como le cae, ése ya se quedó.
 
 Lo dijo sin bajar la voz y sin ponerle peso. Nadie le preguntó cómo lo sabía. En La Almendra todos sabían de dónde había vuelto Walt Keegan.
 
@@ -158,7 +151,7 @@ Nadir fue el que miró a otro lado.
 
 —Todas las noches —dijo—. Voy, me estaciono en un camino, miro las luces. A las cuatro me regreso. —Abrió la puerta de la camioneta y la volvió a cerrar, sin sacar nada—. Wallah, no hago nada. Sólo miro.
 
-—¿Y la mochila?
+Chiara miró la mochila a través del vidrio. Nadir le siguió la mirada.
 
 —La mochila es por si un día dejo de sólo mirar.
 
@@ -202,29 +195,17 @@ Danny se levantó del suelo por fin. Se limpió las manos en los jeans, que no s
 
 —¿Quién vino?
 
-—Un tipo. Viene en un Audi negro, se para ahí enfrente, donde está su coche ahora, y no se baja. Baja la ventanilla y pregunta por Kal. —Danny se rascó el cuello, sobre las raíces del tatuaje—. Dos veces. Anteayer y ayer. Le dije que Kal no estaba. Ayer me preguntó cuándo iba a estar.
-
-—¿Qué le dijiste?
-
-—Que no sabía. —Danny se encogió de hombros—. No sabía.
+—Un tipo. Viene en un Audi negro, se para ahí enfrente, donde está su coche ahora, y no se baja. Baja la ventanilla y pregunta por Kal. —Danny se rascó el cuello, sobre las raíces del tatuaje—. Dos veces. Anteayer y ayer. Le dije que Kal no estaba. Ayer me preguntó cuándo iba a estar y le dije que no sabía. —Se encogió de hombros—. No sabía.
 
 —¿Dónde están?
 
 Danny miró a Héctor. Héctor movió la barbilla una vez, hacia abajo.
 
-—Donde las dejamos —dijo Danny.
-
-—¿Completas?
-
-—Completas. Nadie las ha tocado.
+—Donde las dejamos —dijo Danny—. Completas. Nadie las ha tocado.
 
 Garrett había vuelto a la puerta de la oficina. Tenía los brazos cruzados y el teléfono apagado en una mano.
 
-—Ese acuerdo era con Kal —dijo—. No sabemos qué más hablaron los dos. Ni qué esperaba Varek de él además de las cajas.
-
-—No —dijo Chiara—. No lo sabemos.
-
-—Si alguien que no es Kal se sienta con Varek, Varek va a cobrar lo que crea que puede cobrar. No lo que se acordó.
+—Ese acuerdo era con Kal —dijo—. No sabemos qué más hablaron los dos, ni qué esperaba Varek de él además de las cajas. Si alguien que no es Kal se sienta con Varek, Varek va a cobrar lo que crea que puede cobrar. No lo que se acordó.
 
 —Lo sé.
 
@@ -236,9 +217,7 @@ Danny miró otra vez a Héctor. Esta vez Héctor no hizo nada con la barbilla. S
 
 —A esta hora —repitió Danny.
 
-—Sí.
-
-Danny asintió y volvió al sedán. Garrett se quedó un momento más en la puerta, con los brazos cruzados, y después entró a la oficina y cerró. A través del vidrio, Chiara lo vio sentarse, abrir una carpeta de pasta gris y empezar a escribir.
+Chiara no se lo repitió. Danny asintió y volvió al sedán. Garrett se quedó un momento más en la puerta, con los brazos cruzados, y después entró a la oficina y cerró. A través del vidrio, Chiara lo vio sentarse, abrir una carpeta de pasta gris y empezar a escribir.
 
 ---
 
