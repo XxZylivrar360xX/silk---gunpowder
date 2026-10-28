@@ -13,6 +13,7 @@ Función: la mitad de Kal sobre Palermo — lo que ve, oye, entiende e interpret
 - REGLA ESTRUCTURAL: sigue el plan de cierre de Parte III al detalle. No confirma a Corrado vivo, no confirma al Consorcio como autor de H12/H13, no narra el corte de cabello, no revela que Chiara regresa el mismo día a San Aurelio, no resuelve ni glosa el motivo exacto de Chiara al declarar a Kal ajeno a la casa, no formaliza a Kal ante la Mesa ni le ofrece lugar.
 - POV restringido: sólo lo que Kal ve, oye, entiende e interpreta. Nunca se explica desde dentro la razón de Chiara.
 - Líneas canon textuales conservadas: "Sabe a domingo. De los buenos, cuando alguien trae una botella que no le alcanzaba." / "—Siempre tienes algo gracioso para aligerar el ambiente." — "—No. Es que me gusta hacerte reír." / "—¿Y usted qué es, señor Mercer?" — "—Mecánico." / advertencia de Ettore sobre alejarse de la familia Ardizzone.
+**Regla de diálogo 05 (2026-10-28, a pedido del autor; DISEÑO, espera lectura):** ecos y remates dobles cortados; frases canon intactas. Detalle: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_mecanico_cap46]].
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N40-1, N40-2, N40-3, N40-4, N40-5, N40-6, N40-7, N40-8, N40-9, N40-10, N40-11, N40-12, L40-89, L40-125, L40-211, L40-225. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
@@ -64,7 +65,9 @@ Ettore los alcanzó en el pasillo, ya sin la urgencia del recibimiento, con las 
 
 —Me importa que estén limpias.
 
-—Están limpias. —Miró a Kal de refilón, sin acusación, sólo constatando un hecho—. Hay otra al fondo del pasillo, si el señor Mercer prefiere.
+Ettore no le contestó eso. Miró a Kal de refilón, sin acusación, sólo constatando un hecho.
+
+—Hay otra al fondo del pasillo, si el señor Mercer prefiere.
 
 —No —dijo Chiara, sin levantar la voz, sin apuro, sin dejar espacio para que nadie insistiera.
 
@@ -156,7 +159,7 @@ Después Valenti dejó la taza en el plato, con un sonido pequeño y exacto, y e
 
 —Nadie lo duda.
 
-—Alguien lo pregunta.
+Chiara no contestó. Esperó, y fue Valenti quien tuvo que seguir.
 
 —Il Consorzio pregunta lo que le corresponde preguntar. —Valenti sonrió apenas, sin que la sonrisa le llegara a los ojos—. El señor Bellacorte se fue sin aviso formal. Eso, para nosotros, es un hueco. Un hueco es una pregunta, no una acusación.
 
@@ -256,7 +259,9 @@ Kal no contestó enseguida.
 
 —Ella puede cuidarse sola.
 
-—Puede. —Ettore asintió, sin discutirlo—. También vi lo que esa sala le costó a ella.
+Ettore asintió, sin discutirlo.
+
+—También vi lo que esa sala le costó a ella.
 
 Kal no contestó.
 
@@ -298,11 +303,9 @@ Se lo dijo por la mañana, mientras ella tomaba café en la cocina con Ettore ya
 
 Chiara no preguntó por qué. Lo miró un momento, con la taza a medio camino de la boca, y algo le cruzó la cara que Kal no supo leer del todo — no sorpresa, no exactamente dolor, algo más parecido a la clase de cansancio que ya viene con el dato antes de que se lo digan.
 
-—¿Cuándo?
+—Hoy —dijo él, como si ella hubiera preguntado—. Esta tarde, si hay vuelo.
 
-—Hoy. Esta tarde, si hay vuelo.
-
-—Lo hay. —Lo dijo sin comprobarlo—. Comercial. Yo no puedo darte el avión, lo necesito.
+—Comercial —dijo ella, sin comprobarlo—. Yo no puedo darte el avión, lo necesito.
 
 Kal no le preguntó por qué lo necesitaba. No le dijo *ven conmigo*.
 
