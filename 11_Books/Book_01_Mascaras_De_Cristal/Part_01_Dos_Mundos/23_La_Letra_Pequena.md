@@ -12,6 +12,7 @@ Continuidad: la propuesta de Kal la primera noche del Monarch (Caps. 1-2) se usa
 Pasada editorial 2026-09-10 (Claude Code, decision del autor): el recuerdo de la primera reunion se ajusta a lo dramatizado en el Cap. 2 (beneficio mutuo / "una silla en su mesa", no un "no" a un porcentaje concreto); explicitado el enlace propuso-antes -> se le cae a Hoover que se la invento ahora; podadas glosas de descubrimiento (fiscal, parcela) y remates; doble armado de carpetas de Garrett marcado como version para la audiencia.
 Microcirugia de dialogo K/C 2026-10-04 (autorizada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]] §7; DISEÑO pendiente de lectura): loft sin la escalera "Que elegante / Mas elegante todavia / habilidad mas comun / Eso viene de Italia"; queda "Me esta borrando con sinonimos" y ella no contesta "¿Eso viene de experiencia?" (llena la copa); Chiara ya le escribio a Rivers el martes sin preguntarle ("No me preguntaste / Te estoy avisando"); fuera "Estaba metida desde esa mesa". Rima con "La señorita Bellandi me dijo otra cosa" del 24.
 Rocco (2026-10-22, decision del autor; prosa DISENO pendiente de lectura; el estado se conserva): custodia a Garrett en la oficina mientras arma las carpetas, sobre la manta de Russ; Danny: "te desgarra el cuello"; Garrett: "Por eso lo dejo entrar". Ficha: 02_Characters/Rocco.md.
+Regla de dialogo 05 2026-10-28 (pedido del autor; DISEÑO pendiente de lectura; el estado se conserva; ver 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_nada_caro_cap26.md): Rivers ya no remata "A un juez sí puede cambiárselas" (eco de "cambia"; no se lo discute); en el loft Kal toma por fin la hoja (antes la "dejaba" sin tenerla); en la llamada se unen las dos replicas seguidas de Rivers.
 -->
 
 # Capítulo 26 — Nada caro
@@ -92,7 +93,7 @@ Levantó la vista.
 
 —No las cambia.
 
-—A un juez sí puede cambiárselas.
+Rivers no se molestó en discutírselo.
 
 Kal se recostó apenas en la silla.
 
@@ -296,7 +297,7 @@ Kal levantó la vista.
 
 —Te estoy avisando.
 
-Kal dejó la hoja sobre la mesa.
+Kal tomó por fin la hoja.
 
 —Van a preguntarte por qué te acuerdas con ese detalle. Y por qué la directora del Monarch ayuda a un mecánico en un juicio civil.
 
@@ -356,9 +357,7 @@ El taller siguió haciendo ruido. Kal no.
 
 —Él no tiene nada que ver con el concesionario. Fue de los primeros en oponerse a mi trato con el casino.
 
-—Entonces quizá la otra parte cree que va a decir justo eso.
-
-—¿Hay algo que deba saber?
+—Entonces quizá la otra parte cree que va a decir justo eso. ¿Hay algo que deba saber?
 
 Kal pensó en Tommaso. En su apellido. En Chiara. En aquella primera mesa.
 

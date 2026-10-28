@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_nada_caro_cap26]] · Cap. 26: regla 05 en *Nada caro* (un corte de eco con Rivers, la hoja en el loft y una réplica doble en la llamada); prosa DISEÑO pendiente de lectura.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_causalidad_cap25]] · Cap. 25: regla 05 en *Causalidad* (un corte: "No hay de qué" pasa a gesto con la hoja del recargo; llamada, recargo, "Kal." y Dario intactos); prosa DISEÑO pendiente de lectura.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_primer_huesped_cap24]] · Cap. 24: regla 05 en *El primer huésped* (tres cortes de eco y remate en el desayuno; llamada, loft, mezzanine, imán y despedida intactos); prosa DISEÑO pendiente de lectura.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_lo_pequeno_cap23]] · Cap. 23: regla 05 en *Lo pequeño* (cuatro cortes de eco y remate en la bolera; drift, mirador y penthouse intactos); prosa DISEÑO pendiente de lectura.
