@@ -26,6 +26,7 @@ Función: paga el siguiente tramo del hilo de la invitación del yate — Kal le
 - Walt: segunda vez que Kal le pregunta algo sobre Chiara que él tampoco sabe responder (la primera fue la Romanée-Conti en el Cap. 36, donde Walt opinó sobre su significado, no la recomendó) — patrón cómico reconocido por el propio Walt, sin alargarlo más de una escena.
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N37-1. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 Libreta de los fiados (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): la cuota de la ferreteria se anota en la ultima hoja de la libreta de los fiados, donde Kal empezo a apuntar las subidas del Tasador en el Cap. 10 (vulcanizadora, tras pagar la bolsa de Rowe).
+Regla de diálogo 05 (2026-10-28, Claude Code, encargo del autor; prosa DISEÑO, sigue BORRADOR): el gag de «Roma» se conserva, pero se rompe la máquina común (todos cerraban con «Entonces…» y Kal remataba con «No es…»). Fuera el eco «Es de ella» y los remates «No es ninguna de las dos», «No es.» y «No es eso tampoco» (silencio de Kal o Bonnie se contesta sola); Nadir, Walt y Danny ya no abren con «Entonces». Intactos: Héctor (sequedad como relación), la línea de la cocaína, la carta y Mabel. Detalle: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_cuatro_letras_cap43]].
 -->
 
 # Capítulo 43 — Cuatro letras
@@ -116,13 +117,13 @@ Nadir dejó de contar el fajo que tenía en la mano.
 
 —No es un negocio.
 
-—Entonces no me sirve de nada. —Nadir volvió a contar, más rápido, la manera en que hacía cualquier cosa cuando ya había decidido que no valía la pena detenerse—. Wallah, khoya, si no hay número adentro, no sé qué quieres que te diga.
+—Si no es negocio, no es lo mío. —Nadir volvió a contar, más rápido, la manera en que hacía cualquier cosa cuando ya había decidido que no valía la pena detenerse—. Wallah, khoya, si no hay número adentro, no sé qué quieres que te diga.
 
 Se quedó mirando a Kal un segundo más de lo que hacía falta para cerrar el tema.
 
 —¿Es de ella?
 
-—Es de ella.
+Kal no contestó.
 
 —Ahí está tu problema. —Sonrió, sin maldad—. Un hombre que arregla grúas, favores y problemas de media ciudad, parado en mi oficina preguntándome qué significa una palabra. —Sacudió la cabeza, volviendo al fajo—. Cuatro letras y te tiene dando vueltas desde la mañana. Se nota.
 
@@ -176,13 +177,7 @@ Se volvió hacia Bonnie, que ya se estaba limpiando las manos con un trapo que h
 
 —¿"Roma" te dice algo?
 
-—¿Roma? —No dejó de limpiarse—. Si es un coche, no lo conozco. Si es una carrera, tampoco.
-
-—No es ninguna de las dos.
-
-—Entonces no. —Alzó los ojos un segundo, nada más—. Lo más cerca que tengo es Alfa Romeo, y no es.
-
-—No es.
+—¿Roma? —No dejó de limpiarse—. Si es un coche, no lo conozco. Si es una carrera, tampoco. —Alzó los ojos un segundo, nada más—. Lo más cerca que tengo es Alfa Romeo, y no es.
 
 Mei-Lin, desde el guardafango, se llevó el café a la boca sin decir nada, con la cara de quien prefiere no preguntar qué anda buscando el jefe.
 
@@ -248,7 +243,7 @@ Walt se tomó su tiempo, limpiándose las manos en un trapo que ya no limpiaba n
 
 —No.
 
-—Entonces no tengo nada para ti. —Colgó el trapo—. Dos veces en un mes me preguntas algo de tu mujer y las dos veces me quedo igual que tú. A este paso me vas a deber una botella de las buenas, Mercer, y no de las que consigues tú.
+—Pues no tengo nada para ti. —Colgó el trapo—. Dos veces en un mes me preguntas algo de tu mujer y las dos veces me quedo igual que tú. A este paso me vas a deber una botella de las buenas, Mercer, y no de las que consigues tú.
 
 Kal no sonrió del todo, pero algo cerca.
 
@@ -276,11 +271,11 @@ Kal le preguntó lo otro.
 
 —No es una llave.
 
-—Entonces no sé, jefe. —Se encogió de hombros, sin darle más peso del que tenía—. A lo mejor te quiere llevar de viaje. Chiara tiene pinta de la que planea unas vacaciones y no te avisa hasta que ya estás en el aeropuerto.
+—No sé, jefe. —Se encogió de hombros, sin darle más peso del que tenía—. A lo mejor te quiere llevar de viaje. Chiara tiene pinta de la que planea unas vacaciones y no te avisa hasta que ya estás en el aeropuerto.
 
-—No es eso tampoco.
+Kal no le contestó.
 
-—Bueno. —Danny sonrió, ya volviendo al motor—. Entonces disfruta no saber. A mí nadie me manda cartas así, y mira que sería lindo que alguien lo intentara.
+—Bueno. —Danny sonrió, ya volviendo al motor—. Pues disfruta no saber. A mí nadie me manda cartas así, y mira que sería lindo que alguien lo intentara.
 
 ---
 
