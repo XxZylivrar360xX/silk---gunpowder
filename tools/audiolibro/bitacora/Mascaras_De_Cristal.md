@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-27 23:03. Al día: 28 de 57.
+Actualizada: 2026-10-27 23:17. Al día: 23 de 57.
 
 ## Pendientes
 
@@ -37,6 +37,11 @@ Actualizada: 2026-10-27 23:03. Al día: 28 de 57.
 | 42 | También las mañanas | PENDIENTE | cambió la prosa | 2026-10-27 23:03 |
 | 43 | Cuatro letras | PENDIENTE | cambió la prosa | 2026-10-27 23:03 |
 | 44 | Al revés | PENDIENTE | cambió la prosa | 2026-10-27 23:03 |
+| 45 | Un par de días más | PENDIENTE | cambió la prosa | 2026-10-27 23:17 |
+| 46 | Mecánico | PENDIENTE | cambió la prosa | 2026-10-27 23:17 |
+| 47 | La otra mitad | PENDIENTE | cambió la prosa | 2026-10-27 23:17 |
+| 48 | Nada | PENDIENTE | cambió la prosa | 2026-10-27 23:17 |
+| 49 | La puerta | PENDIENTE | cambió la prosa | 2026-10-27 23:17 |
 
 ## Capítulos
 
@@ -86,11 +91,11 @@ Actualizada: 2026-10-27 23:03. Al día: 28 de 57.
 | 42 | También las mañanas | PENDIENTE | 2026-10-24 |
 | 43 | Cuatro letras | PENDIENTE | 2026-10-24 |
 | 44 | Al revés | PENDIENTE | 2026-10-24 |
-| 45 | Un par de días más | AL DIA | 2026-10-24 |
-| 46 | Mecánico | AL DIA | 2026-10-24 |
-| 47 | La otra mitad | AL DIA | 2026-10-24 |
-| 48 | Nada | AL DIA | 2026-10-24 |
-| 49 | La puerta | AL DIA | 2026-10-24 |
+| 45 | Un par de días más | PENDIENTE | 2026-10-24 |
+| 46 | Mecánico | PENDIENTE | 2026-10-24 |
+| 47 | La otra mitad | PENDIENTE | 2026-10-24 |
+| 48 | Nada | PENDIENTE | 2026-10-24 |
+| 49 | La puerta | PENDIENTE | 2026-10-24 |
 | 50 | Jurisdicción | AL DIA | 2026-10-24 |
 | 51 | Ropa limpia | AL DIA | 2026-10-24 |
 | 52 | Llaves | AL DIA | 2026-10-24 |
@@ -102,6 +107,11 @@ Actualizada: 2026-10-27 23:03. Al día: 28 de 57.
 
 ## Historial
 
+- 2026-10-27 23:17 · Cap. 49 (43_La_Puerta.md) · audio pendiente: cambió la prosa
+- 2026-10-27 23:17 · Cap. 48 (42_Nada.md) · audio pendiente: cambió la prosa
+- 2026-10-27 23:17 · Cap. 47 (41_La_Otra_Mitad.md) · audio pendiente: cambió la prosa
+- 2026-10-27 23:17 · Cap. 46 (40_Mecanico.md) · audio pendiente: cambió la prosa
+- 2026-10-27 23:17 · Cap. 45 (39_Un_Par_De_Dias_Mas.md) · audio pendiente: cambió la prosa
 - 2026-10-27 23:03 · Cap. 44 (38_Al_Reves.md) · audio pendiente: cambió la prosa
 - 2026-10-27 23:03 · Cap. 43 (37_Cuatro_Letras.md) · audio pendiente: cambió la prosa
 - 2026-10-27 23:03 · Cap. 42 (36_Tambien_Las_Mananas.md) · audio pendiente: cambió la prosa

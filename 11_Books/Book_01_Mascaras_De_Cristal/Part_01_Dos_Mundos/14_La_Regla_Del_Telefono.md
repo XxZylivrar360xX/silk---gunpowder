@@ -12,7 +12,7 @@ Cierre corregido (2026-09-03): ya NO termina con Kal prendiendo el telefono y vi
 Nombre del lago del imán (2026-10-08, encargo del autor; DISEÑO): *Lake Meriwether*. No es [[05_Locations/El_Lago]] (H7).
 Arco lector 14-16 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_14-16_Lector; sigue TERMINADO; prosa nueva DISEÑO pendiente de lectura): A2, A9 aplicados.
 Regla de dialogo 05 (2026-10-26, encargo del autor; DISENO pendiente de lectura; el estado se conserva): doce cortes de eco/remate (salida, nevera, piedras, derecho, la casa, el "dai", la amiga); Kal ya no dice ni oye el nombre de Chiara hasta "Dilo tu tambien". Detalle: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_telefono_cap17]].
-Escena nueva "El carro" (2026-10-27, encargo del autor; DISENO pendiente de lectura; el estado se conserva): domingo temprano, Marisol confiesa que choco el carro de Michael hace tres semanas, de noche y contestando un mensaje, y lo escondio (paga el "que no manejara de noche" del Cap. 6). Kal la regaña de pie, sin subir la voz ("Tu papa no puso esa regla para el cerro"), pone la condicion (telefono en la guantera, llamarlo a el primero), se sienta, le choca el hombro con media sonrisa: "Todo va a estar bien." Detalle: [[98_Agent_Handoff/sessions/2026-10-27_claude_cap17_escena_el_carro]].
+Escena nueva "Las notas" (2026-10-27, encargo del autor; DISENO pendiente de lectura; el estado se conserva): domingo temprano, Marisol confiesa que reprobo dos parciales, falto a clase y le mintio el sabado ("Sobreviviendo"). Kal la regaña de pie, sin subir la voz (la mentira, no la nota), pone condicion (hablar con los profesores, mandarle las notas), se sienta, le choca el hombro con media sonrisa: "Todo va a estar bien." Sustituye la version del choque del carro de Michael (descartada por el autor: precedente del Audi en el Cap. 24 y eco de mala conductora para el choque del Libro II). Fuera la muletilla "¿sabes?" en "Lo extraño". Detalle: [[98_Agent_Handoff/sessions/2026-10-27_claude_cap17_escena_las_notas]].
 -->
 
 # Capítulo 17 — La regla del teléfono
@@ -239,7 +239,7 @@ Marisol masticó un momento, mirando el arroyo.
 
 Marisol sonrió, corto.
 
-—Lo extraño, ¿sabes? No todo el tiempo. Pero sí en momentos como éste. Este lugar era suyo antes que nuestro.
+—Lo extraño. No todo el tiempo. Pero sí en momentos como éste. Este lugar era suyo antes que nuestro.
 
 Kal no contestó enseguida. Miró el fuego apagado de esa mañana, todavía humeando un poco.
 
@@ -321,43 +321,47 @@ El domingo Kal se despertó antes que ella, como siempre, y la encontró despier
 
 Kal puso agua para otro café y no le preguntó nada. Lo que Marisol traía, lo soltaba sola o no lo soltaba.
 
-—El carro no está con Sam.
+—Ayer te mentí.
 
 Kal dejó la olla sobre la parrilla.
 
-—Le di a un poste saliendo de la residencia. Hace tres semanas. —Lo dijo al agua, no a él—. De noche. Iba contestando un mensaje.
+—Lo de derecho. No voy sobreviviendo. —Lo dijo al agua, no a él—. Reprobé el parcial de Evidencia y el de Constitucional. Si no apruebo los finales, me dejan un semestre en periodo de prueba, y con eso la mamá de Sam no me acepta ni para archivar.
 
-—¿Tú?
+—¿Desde cuándo?
 
-—Nada. Ni un moretón. —Se encogió de hombros sin ganas—. El carro sí. La defensa, un faro y algo de abajo que suena cuando giro a la izquierda.
+—Las notas salieron hace tres semanas.
 
-Kal ya iba por la rótula, o el brazo de la suspensión, y se obligó a volver. No dijo nada.
+Kal no dijo nada.
 
-—Si lo llevaba al taller lo ibas a ver. —Se le quebró algo al final de la frase y lo tapó con la taza—. Y era de papá.
+—Tú pagas la carrera. —Se le quebró algo al final de la frase y lo tapó con la taza—. No sabía cómo decírtelo.
 
 Kal no se sentó. Se quedó de pie frente a ella, entre la piedra y el agua, hasta que Marisol tuvo que levantar la cabeza.
 
-—El carro me da igual. Una defensa se cambia. —No subió la voz. Marisol se quedó quieta de todos modos—. Ibas de noche y con el teléfono en la mano. Si en lugar del poste hay alguien cruzando, no hay taller. Si te toca a ti, tampoco.
+—Por qué reprobaste.
 
-—Ya sé. Me lo dijiste.
+—Porque no estudié. —No buscó excusas—. Y falté.
 
-—Y me mentiste tres semanas.
+—Cuántas clases.
+
+—Seis.
+
+—Las notas me dan igual. Una nota se recupera. —No subió la voz. Marisol se quedó quieta de todos modos—. Me miraste a la cara y me dijiste que ibas bien. A mí.
 
 Marisol bajó la vista a la taza.
 
-—Tu papá no puso esa regla para el cerro.
+—No pago para que saques todo perfecto. Pago para que no tengas que esconderme nada.
 
 Ella no contestó. Se limpió la cara con la manga de la chaqueta, rápido, como si fuera el frío.
 
-—Cuando manejes, el teléfono va en la guantera. Apagado. —Kal esperó a que lo mirara otra vez—. Y la próxima vez que choques contra algo, me llamas a mí antes que a Sam.
+—El lunes hablas con los dos profesores. Les pides lo que haya para recuperar y lo haces. —Kal esperó a que lo mirara otra vez—. Y cuando salgan las notas, me las mandas. Las buenas y las otras.
 
 —Sí.
 
 Kal se sentó entonces en la piedra, a su lado, de cara al arroyo. Estuvieron así un rato, sin decir nada, oyendo el agua de la olla empezar a moverse. Después le chocó el hombro con el suyo, una vez, y le salió media sonrisa.
 
-—Lo traes el lunes. Lo dejo como lo tenía él.
+—Tu papá reprobó Química dos veces. Tu abuela nunca se enteró.
 
-Marisol sorbió por la nariz y asintió.
+Marisol soltó una risa corta, mojada, y asintió.
 
 —Todo va a estar bien.
 
