@@ -10,6 +10,7 @@ Resolución (decisión del autor 2026-09-09): NO hay fallo del juez. Krane, vien
 Siembra: al cerrar, Kal le da un apretón fuerte a Hoover (sin rencor) y le pasa a Krane un número en media hoja — le quiere ofrecer trabajo. Precedente del bufete "Rivers & Krane".
 REGLA DURA: Tommaso no se vuelve aliado, no explica su motivo, no recibe agradecimiento, no da ninguna pista del Consorzio.
 Pasada editorial 2026-09-10 (Claude Code, decision del autor): recuerdo de la primera reunion alineado con el Cap. 2 ("una silla en la mesa", no "participacion"); hecho legible como la contradiccion de Tommaso se suma a transferencias/perdidas/documentos de Garrett para dejar a Hoover sin version, y por que Rivers sabe que Tommaso mintio; corregidos referentes (objecion, defensa, la otra parte, Rivers, focalizacion de Chiara, "cuarto intermedio" fuera); poda de glosas y remates.
+Regla de dialogo 05 2026-10-28 (autor; DISEÑO, espera lectura; ver 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_bajo_juramento_cap27.md): Rivers sin "Esto lo firma"; Villani sin "Me preocupa más cuando lo hacen" ni "Por eso te pago". Estado conservado.
 Microcirugia de dialogo K/C 2026-10-04 (autorizada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]] §7; DISEÑO pendiente de lectura): escaleras sin "Naturalmente / enfermedad / Ambicion / peor pronostico"; ahora "Ma dai... Todavia no cobras el cheque / Ya vi uno". Opcion A del autor: el "mi... amigo" no se nombra despues; la mano ofrecida y soltada "No antes" es la respuesta.
 -->
 
@@ -293,7 +294,7 @@ Lo que salió de esos cinco minutos, y de las dos horas de abogados que vinieron
 
 Rivers lo leyó dos veces antes de deslizárselo por la mesa.
 
-—Esto es mejor que un fallo. Un fallo lo apela. Esto lo firma.
+—Esto es mejor que un fallo. Un fallo se apela.
 
 —¿Por qué cede ahora?
 
@@ -359,9 +360,7 @@ Garrett revisó cada hoja.
 
 —No te están regalando nada.
 
-—Me preocupa más cuando lo hacen.
-
-El propietario levantó la vista.
+Kal asintió sin levantar la vista de la hoja. El propietario sí la levantó.
 
 —¿Siempre trae a alguien que le dice que no confíe en mí?
 
@@ -371,11 +370,11 @@ Firmaron. Cuando Kal dejó la pluma, su nombre estaba en el papel, esta vez en e
 
 —¿Quieres enmarcarlo? —preguntó Garrett.
 
-—Quiero guardar copia.
+Kal no contestó en seguida. Miró la firma un momento más.
+
+—Quiero copia.
 
 —Ya hice cuatro.
-
-—Por eso te pago.
 
 Salieron al showroom. Un Lancia oscuro esperaba bajo las luces del fondo, recién llegado, todavía con las protecciones de fábrica en los umbrales. Kal se detuvo medio segundo más de lo necesario.
 
