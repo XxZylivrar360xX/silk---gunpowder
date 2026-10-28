@@ -24,6 +24,7 @@ Función: ejecuta [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza o
 - **Cronología de la coda (E5):** cae unos días después del cumpleaños y antes de la mañana del [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/37_Cuatro_Letras|Cap. 37]] (Kal encuentra la carta en la cafetera del loft) y de H13 ("hace unos días" en el 38). Sin marcador temporal en prosa: el blanco de sección basta; no escribir "días después". En el 35 estaba "flotando" después de un capítulo que ocurre tres semanas antes de H16; por eso se movió. "Nada de cumpleaños." leída aquí, justo después del cumpleaños, es precisa. C5 comprimió las dos frases de las "noventa y nueve" (repetían 211 y dejaban la aritmética en 101).
 - **Vento (E5, Q16):** su muerte (~2 semanas antes, canon de [[05_Locations/Hipodromo_Del_Monarch]]) no estaba en prosa; se añadió una frase en POV de Chiara frente al box, sin escena. **Actualizado 2026-10-22 (CANON DEL AUTOR):** la muerte pasa a mediados de octubre y se escribe en el Cap. 33b; la frase de 36:164 baja a "desde Vento" (antes "desde que sacrificaron a Vento, hacía dos semanas").
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N36-1, N36-2, N36-3. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
+**Regla de diálogo 05 (2026-10-28, DISEÑO, espera lectura):** cuatro cortes de remate/eco en la llamada, el Penthouse, el nombre de la yegua y la botella; canon y Héctor intactos. [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_tambien_las_mananas_cap42]].
 -->
 
 # Capítulo 42 — También las mañanas
@@ -134,7 +135,9 @@ Del otro lado se oyó un roce de paja, un crujido de madera vieja, y un silencio
 
 —Oye. No soy una prenda para estar en remojo.
 
-—No dije que lo fueras. —El cansancio del día entero le pesaba en la voz de una forma que Chiara notó sin nombrarla—. Quédate ahí. Voy por ti.
+Kal no le peleó el chiste. El cansancio del día entero le pesaba en la voz de una forma que Chiara notó sin nombrarla.
+
+—Quédate ahí. Voy por ti.
 
 ---
 
@@ -146,9 +149,7 @@ Cuando Kal abrió la puerta del Penthouse veinte minutos después, Chiara lo vio
 
 —Siempre es mala señal cuando me lo dices así.
 
-—Esta vez no.
-
-La guió despacio por el pasillo, por el elevador de servicio que Chiara reconoció por el sonido más que por la vista, y después por un tramo más largo, al aire libre, donde el frío de la noche le tocó los brazos desnudos y el olor cambió —a heno, a tierra húmeda, a algo animal y cálido—. A lo lejos empezaron a sonar las campanas de Santa Lucía, ocho golpes lentos y espaciados que Chiara contó sin querer, por costumbre.
+Él no lo negó. La guió despacio por el pasillo, por el elevador de servicio que Chiara reconoció por el sonido más que por la vista, y después por un tramo más largo, al aire libre, donde el frío de la noche le tocó los brazos desnudos y el olor cambió —a heno, a tierra húmeda, a algo animal y cálido—. A lo lejos empezaron a sonar las campanas de Santa Lucía, ocho golpes lentos y espaciados que Chiara contó sin querer, por costumbre.
 
 Kal le quitó las manos de los ojos en el octavo golpe.
 
@@ -178,9 +179,7 @@ Ella lo pensó un momento, con la mano quieta contra el pelaje tibio.
 
 —Stella.
 
-—¿Por algo en particular?
-
-—Por nada en particular —dijo, sin apartar la mano—. Por eso mismo.
+—Stella —repitió Kal, hacia la yegua, como si se la presentara.
 
 ---
 
@@ -198,11 +197,7 @@ Chiara leyó la etiqueta dos veces antes de creerla.
 
 Chiara lo miró con la ceja otra vez levantada, la misma de antes con el remolque, y Kal aguantó el silencio todo lo que pudo, que no fue mucho.
 
-—La verdad —dijo, por fin—, no estaba tan seguro. Hasta se lo pregunté a Walt.
-
-—¿Y qué te dijo?
-
-—Que tampoco sabía con certeza. Pero que por ese precio, tenía que significar algo.
+—La verdad —dijo, por fin—, no estaba tan seguro. Hasta se lo pregunté a Walt, y tampoco sabía con certeza. Dijo que por ese precio, tenía que significar algo.
 
 Chiara se rio, una risa corta y real que le salió antes de que pudiera decidir si debía.
 
