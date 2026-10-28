@@ -5,6 +5,9 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 ## Sesiones recientes
 
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_lo_pequeno_cap23]] · Cap. 23: regla 05 en *Lo pequeño* (cuatro cortes de eco y remate en la bolera; drift, mirador y penthouse intactos); prosa DISEÑO pendiente de lectura.
+- 2026-10-27: [[98_Agent_Handoff/sessions/2026-10-27_claude_surgery_cap12_balanza]] · Cap. 12: cirugía editorial por notas de lectura de ChatGPT (apertura sin glosa del miedo, Kal sobre Crowe compactado; VERIFY restauró «A Crowe lo iba a cobrar cuando se pudiera»); prosa DISEÑO pendiente de lectura.
+- 2026-10-27: [[98_Agent_Handoff/sessions/2026-10-27_claude_surgery_cap13_dos_sillas]] · Cap. 13: cirugía editorial por notas de lectura de ChatGPT (fuera «Dario también lo iba a cobrar», un eslabón de Blake, dos microcortes de obra); prosa DISEÑO pendiente de lectura.
+- 2026-10-27: [[98_Agent_Handoff/sessions/2026-10-27_claude_surgery_cap14_farol]] · Cap. 14: cirugía editorial por notas de lectura de ChatGPT (apertura sin recapitular la cena del 13); prosa DISEÑO pendiente de lectura.
 - 2026-10-26: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_sobre_rojo_cap19]] · Cap. 19: regla 05 en *El sobre rojo* (ocho cortes de eco y remate en hospital y coche); prosa DISEÑO pendiente de lectura.
 - 2026-10-26: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_porton_cap18]] · Cap. 18: regla 05 en *Yo lo llevo* (cuatro cortes de eco y remate en la visita a Héctor); prosa DISEÑO pendiente de lectura.
 - 2026-10-26: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_telefono_cap17]] · Cap. 17: regla 05 en *La regla del teléfono* (doce cortes de eco y remate en las escenas con Marisol); prosa DISEÑO pendiente de lectura.

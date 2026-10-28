@@ -2,11 +2,17 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-26 00:23. Al día: 57 de 57.
+Actualizada: 2026-10-27 21:28. Al día: 52 de 57.
 
 ## Pendientes
 
-Ninguno: todos los audios corresponden a la prosa actual.
+| Cap. | Título | Estado | Motivo | Desde |
+|---|---|---|---|---|
+| 12 | La balanza | PENDIENTE | cambió la prosa | 2026-10-27 21:25 |
+| 13 | Dos sillas vacías | PENDIENTE | cambió la prosa | 2026-10-27 21:25 |
+| 14 | El farol | PENDIENTE | cambió la prosa | 2026-10-27 21:25 |
+| 22 | Lo que nadie estaba mirando | PENDIENTE | cambió la prosa | 2026-10-27 21:25 |
+| 23 | Lo pequeño | PENDIENTE | cambió la prosa | 2026-10-27 21:28 |
 
 ## Capítulos
 
@@ -23,9 +29,9 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | 9 | La noche del ladrillo | AL DIA | 2026-10-24 |
 | 10 | La carrera de máscaras | AL DIA | 2026-10-25 |
 | 11 | La teniente | AL DIA | 2026-10-24 |
-| 12 | La balanza | AL DIA | 2026-10-25 |
-| 13 | Dos sillas vacías | AL DIA | 2026-10-25 |
-| 14 | El farol | AL DIA | 2026-10-26 |
+| 12 | La balanza | PENDIENTE | 2026-10-25 |
+| 13 | Dos sillas vacías | PENDIENTE | 2026-10-25 |
+| 14 | El farol | PENDIENTE | 2026-10-26 |
 | 15 | Roma Atrii | AL DIA | 2026-10-26 |
 | 16 | Auster | AL DIA | 2026-10-26 |
 | 17 | La regla del teléfono | AL DIA | 2026-10-26 |
@@ -33,8 +39,8 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | 19 | El sobre rojo | AL DIA | 2026-10-26 |
 | 20 | Le quedé debiendo | AL DIA | 2026-10-26 |
 | 21 | El día nublado | AL DIA | 2026-10-26 |
-| 22 | Lo que nadie estaba mirando | AL DIA | 2026-10-23 |
-| 23 | Lo pequeño | AL DIA | 2026-10-23 |
+| 22 | Lo que nadie estaba mirando | PENDIENTE | 2026-10-23 |
+| 23 | Lo pequeño | PENDIENTE | 2026-10-23 |
 | 24 | El primer huésped | AL DIA | 2026-10-23 |
 | 25 | Causalidad | AL DIA | 2026-10-23 |
 | 26 | Nada caro | AL DIA | 2026-10-23 |
@@ -72,6 +78,11 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Historial
 
+- 2026-10-27 21:28 · Cap. 23 (20_El_Mirador.md) · audio pendiente: cambió la prosa
+- 2026-10-27 21:25 · Cap. 22 (19_Tierra_Buena.md) · audio pendiente: cambió la prosa
+- 2026-10-27 21:25 · Cap. 14 (11_El_Farol.md) · audio pendiente: cambió la prosa
+- 2026-10-27 21:25 · Cap. 13 (10_El_Loft_Del_Soltero.md) · audio pendiente: cambió la prosa
+- 2026-10-27 21:25 · Cap. 12 (09_La_Balanza.md) · audio pendiente: cambió la prosa
 - 2026-10-26 00:23 · Cap. 21 (18_El_Dia_Nublado.md) · audio regenerado
 - 2026-10-26 00:23 · Cap. 20 (17_Cuentas_Claras.md) · audio regenerado
 - 2026-10-26 00:23 · Cap. 19 (16_El_Sobre_Rojo.md) · audio regenerado

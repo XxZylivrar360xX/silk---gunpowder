@@ -20,6 +20,7 @@ Crowe en el arco del loft (2026-10-22, decision del autor: opciones 1 y 2 del es
 Dario y la casa comun (2026-10-22, decision del autor: opcion 3 del estudio del Cap. 9; prosa DISENO pendiente de lectura): al cuarto dia un chofer del Monarch recoge el Mercedes en la casa comun y deja una tarjeta de Dario ('Que se mejore pronto. Aqui la esperamos.') en un sobre con la direccion completa, entregado en mano: Dario sabe donde duerme sin que ella se lo dijera (la version que le dio fue la caida en el spa). Chiara no se la ensena a Kal. Alimenta la sospecha de Dario hacia Kal en el 24c y el 'A Dario, menos' de Chiara.
 Il Consorzio (2026-10-22, idea del autor; prosa DISENO): la tarjeta de Dario implica que calla ante Il Consorzio, y ese silencio tambien se cobra (siembra del 9). CANON DEL AUTOR (2026-10-22): Dario lo cobra en Sombras de Poder junto con la cuenta abierta del Cap. 47 (12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal.md).
 Regla 05 y arrastre del levanton (2026-10-26, encargo del autor; escena de Blake aprobada por el autor en propuesta; prosa DISEÑO pendiente de lectura; ver 98_Agent_Handoff/sessions/2026-10-26_claude_regla05_blake_cap13.md): supera la linea "no conmocion" de arriba. Arrastre: segunda despertada de Kal; labio una semana (popote, foco mas debil, el espejo); la palabra perdida (*la trave*) con la mano a la sien; Nadir: "la subieron a una camioneta... a ti te mandaron decir donde duermes" y el mercado ("Nadie me pregunto quien se la rompio. Aqui eso ya se sabe"). Vitrina: Kal mira los menique (arco de la escoria) y paga sin "Aqui todo esta a la venta". Escena nueva, dia 9, lobby del Monarch: Blake se entero en El Relevo (Volvo de la fiscal con calcomania de abandono, el panadero y la grua, el rondin sin papel); "Yo me encargo", le toma la mano sin pedir (la mueca de la camioneta; contraste con el "¿Puedo?" del 12), golpe al marmol, ofrece el parte; Chiara: "Me cai de unos tacones" (a Dario, el spa); siembra "la grua la manejaba el. El mecanico" para el 38 (yate); placa con el pulgar (dosis 1). Chiara no se lo cuenta a Kal. Regla 05: fuera "Ya lo pense", "¿Distribuirla para que?", "Si te duele", "Llevas toda la escalera diciendolo", "Madera que aguante botas"/"Roble, entonces", "Te pedi que la distribuyeras", "Nunca propuse recortarla", "No quiero cerrar", la simetria de la cinta, "Mas adelante / No dije hoy", "Eso dije yo / Y tenias razon".
+Cirugía editorial 2026-10-27 (notas de lectura ChatGPT 2026-10-26, autorizada por el autor; sigue TERMINADO; prosa nueva DISEÑO pendiente de lectura): cuatro cortes/compresiones: fuera "Dario también lo iba a cobrar" (presagio; queda Il Consorzio), fuera "Sin llaves, con la puerta nada más emparejada" de Blake, "el mismo marco" por la repetición de "el marco de la ventana interior", fuera la primera vuelta de Kal a la cinta de la isla. Sin cambios en balcón, cocina, mesa, memoria/caja ni anclajes temporales. Ver 98_Agent_Handoff/sessions/2026-10-27_claude_surgery_cap13_dos_sillas.md.
 -->
 
 # Capítulo 13 — Dos sillas vacías
@@ -68,7 +69,7 @@ El chofer le dio a Danny un sobre para la señora Bellandi y se llevó el Merced
 
 Adentro venía una tarjeta del Monarch con la letra de Dario: *Que se mejore pronto. Aquí la esperamos.* El sobre traía escrita la dirección de la casa común, completa, con el código postal. No hacía falta. Lo habían entregado en mano.
 
-Tampoco hacía falta lo que la tarjeta no decía: que Il Consorzio no se iba a enterar por él. Dario también lo iba a cobrar.
+Tampoco hacía falta lo que la tarjeta no decía: que Il Consorzio no se iba a enterar por él.
 
 Chiara guardó la tarjeta en el neceser. A Kal no se la enseñó.
 
@@ -114,7 +115,7 @@ Blake la esperaba en el lobby cuando salió.
 
 Estaba de uniforme junto a la columna de la recepción, con la gorra bajo el brazo y la postura de quien quiere que lo vean esperando. Desde Gabriella's ella no le había contestado un mensaje. Él había dejado de mandarlos a la segunda semana, que para Blake era una forma de dignidad.
 
-—No vine a pelear —dijo antes de que ella llegara hasta él—. Vine a ver cómo estabas, porque en El Relevo no se habla de otra cosa. El miércoles uno de tránsito le pegó la calcomanía de abandono a un Volvo en el callejón de la panadería portuguesa, corrió las placas y era de la fiscal. De la fiscal, Chiara. Sin llaves, con la puerta nada más emparejada. Y el panadero dice que el sábado una grúa de la Almendra se llevó de ahí mismo un Mercedes del Monarch, y que la que se subió a la cabina era alta y hablaba raro. —Le miró los lentes—. Ahora la fiscal pide patrulla en su calle, sin papel, ella que nunca quiso una. Y tú traes lentes adentro.
+—No vine a pelear —dijo antes de que ella llegara hasta él—. Vine a ver cómo estabas, porque en El Relevo no se habla de otra cosa. El miércoles uno de tránsito le pegó la calcomanía de abandono a un Volvo en el callejón de la panadería portuguesa, corrió las placas y era de la fiscal. De la fiscal, Chiara. Y el panadero dice que el sábado una grúa de la Almendra se llevó de ahí mismo un Mercedes del Monarch, y que la que se subió a la cabina era alta y hablaba raro. —Le miró los lentes—. Ahora la fiscal pide patrulla en su calle, sin papel, ella que nunca quiso una. Y tú traes lentes adentro.
 
 Chiara no se los quitó.
 
@@ -370,7 +371,7 @@ Chiara volvió a mirar el pasillo, las puertas cerradas, el techo bajo.
 
 Kal sacó la cinta métrica y midió el marco de la ventana interior, que ya había medido.
 
-Ella apoyó una mano en el marco de la ventana interior. Levantó la vista, siguió con los ojos la línea de una viga y luego señaló el piso bajo sus pies.
+Ella apoyó una mano en el mismo marco. Levantó la vista, siguió con los ojos la línea de una viga y luego señaló el piso bajo sus pies.
 
 —Quita esto.
 
@@ -584,7 +585,7 @@ Kal miró desde el lugar donde iría el sofá hasta el borde del dormitorio susp
 
 El jefe de obra, que había esperado con el lápiz en el aire, anotó.
 
-En la cocina, la isla estaba marcada en el suelo con cinta. Kal caminó alrededor para comprobar el paso. Chiara movió una esquina de la cinta unos centímetros y se plantó en el espacio que quedaba.
+En la cocina, la isla estaba marcada en el suelo con cinta. Chiara movió una esquina de la cinta unos centímetros y se plantó en el espacio que quedaba.
 
 —Si la dejas donde estaba, alguien sentado aquí bloquea el refrigerador.
 

@@ -91,26 +91,26 @@
     "09_La_Balanza.md": {
       "capitulo": 12,
       "titulo": "La balanza",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-25",
-      "desde": "2026-10-25 23:26"
+      "desde": "2026-10-27 21:25"
     },
     "10_El_Loft_Del_Soltero.md": {
       "capitulo": 13,
       "titulo": "Dos sillas vacías",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-25",
-      "desde": "2026-10-25 23:35"
+      "desde": "2026-10-27 21:25"
     },
     "11_El_Farol.md": {
       "capitulo": 14,
       "titulo": "El farol",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-26",
-      "desde": "2026-10-26 00:23"
+      "desde": "2026-10-27 21:25"
     },
     "12_Roma_Atrii.md": {
       "capitulo": 15,
@@ -171,18 +171,18 @@
     "19_Tierra_Buena.md": {
       "capitulo": 22,
       "titulo": "Lo que nadie estaba mirando",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-23",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 21:25"
     },
     "20_El_Mirador.md": {
       "capitulo": 23,
       "titulo": "Lo pequeño",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-23",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 21:28"
     },
     "21_El_Primer_Huesped.md": {
       "capitulo": 24,
@@ -987,6 +987,31 @@
       "2026-10-26 00:23",
       "Cap. 21 (18_El_Dia_Nublado.md)",
       "audio regenerado"
+    ],
+    [
+      "2026-10-27 21:25",
+      "Cap. 12 (09_La_Balanza.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 21:25",
+      "Cap. 13 (10_El_Loft_Del_Soltero.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 21:25",
+      "Cap. 14 (11_El_Farol.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 21:25",
+      "Cap. 22 (19_Tierra_Buena.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 21:28",
+      "Cap. 23 (20_El_Mirador.md)",
+      "audio pendiente: cambió la prosa"
     ]
   ]
 }
