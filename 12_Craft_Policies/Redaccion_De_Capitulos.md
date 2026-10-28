@@ -56,6 +56,10 @@ No explicar historia personal en bloque. El pasado se filtra por conducta:
 - Dario mide valor.
 - Matteo abre puertas y cobra simpatia.
 
+## Registro
+
+Narracion y dialogo van en espanol neutro latinoamericano segun [[12_Craft_Policies/voice/00_Registro_Espanol_Neutro]]: los mexicanismos marcados se sustituyen por el termino del glosario; los panlatinoamericanos se conservan. Las excepciones de voz que lista ese archivo (habla chicana de Rafe y Mabel, voseo de Dana, italiano de Chiara, darija/frances de Nadir) mandan sobre el glosario, y el dialogo canon del autor no se neutraliza sin orden explicita.
+
 ## Dialogo
 
 Antes de escribir una escena con dialogo, leer la ficha de voz de cada personaje que habla.

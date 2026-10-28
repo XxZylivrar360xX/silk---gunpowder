@@ -109,6 +109,13 @@ El narrador no le promete al lector lo que va a pasar. Protege la integridad de 
 - **Guiños:** una alusión a instituciones o familias que ya existen en el presente de la escena (la mesa, las familias) es válida si no explica su función futura. Si el guiño necesita glosa para entenderse, sobra.
 - **Intervención:** se corta. No se reformula como insinuación más suave, porque el problema es el anuncio, no el tono.
 
+## M. Registro de español neutro (decisión del autor, 2026-10-12)
+
+En AUDIT y SURGERY, un regionalismo marcado que aparece en el glosario de [[12_Craft_Policies/voice/00_Registro_Espanol_Neutro]] se reporta y se sustituye por el término indicado.
+
+- **No se toca:** las excepciones de voz que lista ese archivo, el diálogo canon del autor ni los términos panlatinoamericanos que conserva. Neutralizar una voz con registro propio es el error que prohíbe [[12_Craft_Policies/editorial/DO_NOT_TOUCH]].
+- **Fuera del glosario:** un término dudoso que no esté en la tabla se reporta como hallazgo, no se cambia; si el autor lo resuelve, se agrega al glosario.
+
 ## Uso del auditor
 
 El piloto y su criterio están en [[12_Craft_Policies/editorial/PILOT_01_10]]. La operación técnica está en `tools/editorial/README.md`.

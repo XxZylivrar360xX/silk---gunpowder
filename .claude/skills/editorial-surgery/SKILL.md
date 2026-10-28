@@ -54,4 +54,5 @@ Sigue la definición operativa de cada modo en [[12_Craft_Policies/editorial/MIC
 - No fabriques correcciones para justificar una pasada (EDITORIAL_POLICY sección I): una auditoría puede concluir que no hace falta ningún cambio.
 - No persigas cuotas de tics, porcentajes de reducción o conteos de palabras como meta (EDITORIAL_POLICY sección J).
 - No sustituyas una rareza de voz deliberada por prosa genérica limpia (EDITORIAL_POLICY sección K, DO_NOT_TOUCH).
+- Regionalismos: aplica el glosario de [[12_Craft_Policies/voice/00_Registro_Espanol_Neutro]] respetando sus excepciones de voz (EDITORIAL_POLICY sección M).
 - No copies aquí una cita concreta del manuscrito como si fuera regla permanente. Si necesitas un ejemplo para explicar una categoría, prefiere uno abstracto.

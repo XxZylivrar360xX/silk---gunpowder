@@ -2,6 +2,8 @@
 
 **Decisión del autor (2026-10-12).** Narración y diálogo usan español neutro latinoamericano. Los mexicanismos marcados se sustituyen; los términos panlatinoamericanos se conservan.
 
+Se aplica al redactar ([[12_Craft_Policies/Redaccion_De_Capitulos]], sección Registro) y al auditar o microeditar ([[12_Craft_Policies/editorial/EDITORIAL_POLICY]], sección M; skill `editorial-surgery`).
+
 ## Excepciones de voz
 
 - **Rafe y Mabel:** barrio de California (habla chicana). «Nomás», «pendejo», «banqueta», «troca», «parquear», «parking», «la jura», «jalar» (= trabajar) y similares se conservan en su boca.

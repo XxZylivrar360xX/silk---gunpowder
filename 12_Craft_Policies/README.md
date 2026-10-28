@@ -8,7 +8,7 @@ Políticas de oficio narrativo para escribir y editar prosa en `10_Chapters/` y 
 
 - `revelations/` — ledger de misterios, semillas y revelaciones. Registra qué sabe cada personaje, desde cuándo, y qué no debe insinuarse todavía.
 - `milestones/` — índice cronológico de hitos ya fijados. No duplica `06_Relationships/Hitos`; apunta a él.
-- `voice/` — fichas de voz. Antes de escribir diálogo, leer la ficha de cada personaje que habla. Si no existe, crearla primero.
+- `voice/` — fichas de voz. Antes de escribir diálogo, leer la ficha de cada personaje que habla. Si no existe, crearla primero. El registro base de narración y diálogo (español neutro latinoamericano, glosario y excepciones) está en [[12_Craft_Policies/voice/00_Registro_Espanol_Neutro]].
 - `dialogue_rules/` — anti-patrones de diálogo. No son prohibiciones absolutas; son alarmas contra formas que vuelven intercambiables a los personajes.
 - `staging_rules/` — anti-patrones de puesta en escena: espacio físico, cuerpos, silencios, transiciones y escenas resueltas por resumen.
 - `editorial/` — política de edición posterior al triaje, zonas protegidas, procedimiento de microedición y registro del piloto determinista 01–10.
@@ -55,7 +55,7 @@ En caso de conflicto:
 2. Leer [[12_Craft_Policies/Redaccion_De_Capitulos]].
 3. Revisar `milestones/INDEX.md` si la escena depende de un hito ya fijado.
 4. Revisar `revelations/Book_01_Mascaras_De_Cristal.md` si la escena toca secretos, mentiras, rituales, pasado familiar, identidad o información retenida.
-5. Leer las fichas de voz de cada personaje que habla.
+5. Leer las fichas de voz de cada personaje que habla y tener a mano [[12_Craft_Policies/voice/00_Registro_Espanol_Neutro]] (glosario de regionalismos y excepciones de voz).
 6. Si la escena es diálogo emocional largo, repasar `dialogue_rules/`.
 7. Antes de cerrar, repasar `staging_rules/`: lugar, cuerpos, silencio, transición y costo físico/social.
 
