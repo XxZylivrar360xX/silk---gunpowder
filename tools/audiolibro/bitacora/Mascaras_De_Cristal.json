@@ -427,10 +427,10 @@
     "48_Su_Nombre.md": {
       "capitulo": 54,
       "titulo": "Su nombre",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 23:48"
     },
     "49_Enfrente.md": {
       "capitulo": 55,
@@ -1176,6 +1176,11 @@
     [
       "2026-10-27 23:43",
       "Cap. 53 (47_Intereses.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 23:48",
+      "Cap. 54 (48_Su_Nombre.md)",
       "audio pendiente: cambió la prosa"
     ]
   ]
