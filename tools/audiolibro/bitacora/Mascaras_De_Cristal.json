@@ -131,10 +131,10 @@
     "14_La_Regla_Del_Telefono.md": {
       "capitulo": 17,
       "titulo": "La regla del teléfono",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-26",
-      "desde": "2026-10-26 00:23"
+      "desde": "2026-10-27 23:03"
     },
     "15_El_Porton.md": {
       "capitulo": 18,
@@ -323,34 +323,34 @@
     "35_Sin_Fecha_De_Regreso.md": {
       "capitulo": 41,
       "titulo": "Sin fecha de regreso",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 23:03"
     },
     "36_Tambien_Las_Mananas.md": {
       "capitulo": 42,
       "titulo": "También las mañanas",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 23:03"
     },
     "37_Cuatro_Letras.md": {
       "capitulo": 43,
       "titulo": "Cuatro letras",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 23:03"
     },
     "38_Al_Reves.md": {
       "capitulo": 44,
       "titulo": "Al revés",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 23:03"
     },
     "39_Un_Par_De_Dias_Mas.md": {
       "capitulo": 45,
@@ -1106,6 +1106,31 @@
     [
       "2026-10-27 22:43",
       "Cap. 40 (34_Mi_Pareja.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 23:03",
+      "Cap. 17 (14_La_Regla_Del_Telefono.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 23:03",
+      "Cap. 41 (35_Sin_Fecha_De_Regreso.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 23:03",
+      "Cap. 42 (36_Tambien_Las_Mananas.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 23:03",
+      "Cap. 43 (37_Cuatro_Letras.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 23:03",
+      "Cap. 44 (38_Al_Reves.md)",
       "audio pendiente: cambió la prosa"
     ]
   ]
