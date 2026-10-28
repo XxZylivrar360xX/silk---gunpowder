@@ -139,10 +139,10 @@
     "15_El_Porton.md": {
       "capitulo": 18,
       "titulo": "Yo lo llevo",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-26",
-      "desde": "2026-10-26 00:23"
+      "desde": "2026-10-28 00:01"
     },
     "16_El_Sobre_Rojo.md": {
       "capitulo": 19,
@@ -435,18 +435,18 @@
     "49_Enfrente.md": {
       "capitulo": 55,
       "titulo": "Por si vuelve",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-28 00:01"
     },
     "50_A_Oscuras.md": {
       "capitulo": 56,
       "titulo": "A oscuras",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-28 00:01"
     },
     "50b_La_Tierra_Bajo_Sus_Botas.md": {
       "capitulo": 57,
@@ -1181,6 +1181,21 @@
     [
       "2026-10-27 23:48",
       "Cap. 54 (48_Su_Nombre.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-28 00:01",
+      "Cap. 18 (15_El_Porton.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-28 00:01",
+      "Cap. 55 (49_Enfrente.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-28 00:01",
+      "Cap. 56 (50_A_Oscuras.md)",
       "audio pendiente: cambió la prosa"
     ]
   ]

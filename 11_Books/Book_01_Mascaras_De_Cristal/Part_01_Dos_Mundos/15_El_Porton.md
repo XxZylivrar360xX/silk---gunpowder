@@ -4,6 +4,7 @@ Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_C
 Estado: TERMINADO. Cirugia editorial 2026-09-26 (Prioridad C, autorizada por el autor, sigue TERMINADO): corte de la apertura de Nadir y Danny y de "Dos dias antes" (5-ter; ademas corregia una cronologia rota: la escena caia en domingo con los dos ya retenidos), prolepsis de Lucia, recuento a Walt comprimido, sedan y reflexion del corazon compactados, "Contame" -> "Cuenteme". Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17.md.
 Cirugia de dialogo de terceros 2026-10-04 (S2 del Plan_Cirugia_Terceros_Parte_I; sigue TERMINADO): escena de Lucia en el hospital reescrita por decision del autor (va la subjefa a proposito, sin uniforme; fuera "uniformada, joven" y la explicacion de la rutina; cruce de apellidos Varek/Bellandi). La prosa nueva es DISENO pendiente de lectura del autor. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I.md.
 Regla 05 (esticomitia de una sola voz), 2026-10-26, a pedido del autor (sigue TERMINADO; prosa nueva DISENO pendiente de lectura): en la visita a Hector, fuera "No lo convenci" / "Es lo mismo, con usted" (remate doble), "Ya lo se" / "¿Entonces por que viene?" (Chiara contesta otra cosa: parte de llamadas; Hector la regresa) y el eco "No es la unica" (gesto de la una en la mesita); "Eso ya lo se" pasa a "Eso lo se desde la primera vez que la vi". Intactos Lucia, Walt, la carta y las lineas de arco. Ver 98_Agent_Handoff/sessions/2026-10-26_claude_regla05_porton_cap18.md.
+Cirugia 2026-10-28 (lectura ChatGPT 2026-10-27, "vamos a solventarlas"; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): fuera el parrafo "Tenia llaves..." (contradecia el Cap. 13: "ni una llave en su bolso"); parte medico: infarto confirmado, pendiente la valoracion de cardiologia (dano y tratamiento), y a Walt "para ver que tan grave fue"; Chiara nombra primero a Hector ("Porque queria saber como seguia usted") antes de Kal. Ver 98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap18_yo_lo_llevo.md.
 Arco lector 14-16 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_14-16_Lector; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): A1 -- la visita de Chiara a Hector (antes en el Cap. 16) pasa aqui como escena del sabado, entre la noche del viernes con Walt y la carta; primera frase reescrita sin Kal, "mas despierto que la noche anterior", "Usted no tiene que venir"; Chiara recoge el catalogo antes de la ambulancia (va en su regazo); la pregunta de Hector pesa en el sussurro ("con la pregunta de Hector todavia a cuestas"); la carta se escribe el sabado por la noche, lo que justifica "el viernes".
 Protagonistas: Chiara Bellandi, con apariciones de Walter Keegan y Lucia Varek (Nadir Amrani y Daniel Hayes solo mencionados, inalcanzables). Hector Navarro inconsciente el viernes; despierto en la visita del sabado.
 Ventana temporal: el viernes del Capitulo 14 (La regla del telefono), mientras Kal y Marisol estan de campamento, y el sabado siguiente (visita al hospital y carta). Bajo la reordenacion del 2026-08-29, H10 va ANTES de H4 y H11 -- en este punto Kal y Chiara TODAVIA NO se han besado.
@@ -72,7 +73,7 @@ Lucía levantó la vista de la carpeta y la dejó en ella un momento más de lo 
 
 Se fue con el mismo paso con el que había llegado.
 
-El médico que salió minutos más tarde le dio un nombre: infarto. Estable, por ahora. Un especialista de cardiología se haría cargo del seguimiento apenas hubiera cama libre, y hasta entonces no había nada confirmado del todo — solo lo suficiente para saber que la palabra correcta era esa y no otra.
+El médico que salió minutos más tarde le dio un nombre: infarto. Estable, por ahora. Faltaba que lo viera cardiología para saber cuánto daño había hecho y qué seguía; hasta entonces no había más que eso — lo suficiente para saber que la palabra correcta era esa y no otra.
 
 ***
 
@@ -88,7 +89,7 @@ Walt llegó al hospital antes de que ella terminara de explicarle bien qué hab�
 
 Se lo contó en orden, sin saltarse nada.
 
-—Un infarto —terminó—. Estable. Todavía esperan que venga el especialista a confirmar del todo.
+—Un infarto —terminó—. Estable. Todavía esperan al especialista, para ver qué tan grave fue.
 
 Walt se quedó callado un momento, con las manos entre las rodillas.
 
@@ -128,7 +129,7 @@ Chiara no le recordó que era la primera de las tres páginas que ella había do
 
 Chiara dejó el café en la mesita.
 
-—Porque es el hombre que Kal más admira en el mundo, y yo todavía estoy aprendiendo quién es Kal.
+—Porque quería saber cómo seguía usted. Y porque es el hombre que Kal más admira en el mundo, y yo todavía estoy aprendiendo quién es Kal.
 
 Héctor la miró un momento, con la clase de atención que no gastaba en cualquiera.
 
@@ -161,8 +162,6 @@ Se quedó con el sobre en la mano un momento de más, con la pregunta de Héctor
 —Yo lo llevo —le dijo al sussurro, y se guardó el sobre en el bolsillo del abrigo antes de que nadie pudiera ofrecerse a ahorrarle el viaje.
 
 Condujo hasta la Almendra. Metió el sobre por debajo de la puerta de Kal, sin abrirlo de nuevo, sin releerlo, sin darse el permiso de dudar de lo que había escrito.
-
-Tenía llaves. Nunca las había usado para entrar cuando él no estaba, y no iba a empezar ese día — no porque el momento no lo ameritara, sino precisamente porque sí lo ameritaba, y cruzar esa puerta sin él adentro le pareció, incluso entonces, una intimidad que todavía no le correspondía tomarse sola.
 
 Era, de todos modos, el único lugar donde sabía, con certeza, que él iba a mirar.
 

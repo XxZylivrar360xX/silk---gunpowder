@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-27 23:48. Al día: 18 de 57.
+Actualizada: 2026-10-28 00:01. Al día: 15 de 57.
 
 ## Pendientes
 
@@ -14,6 +14,7 @@ Actualizada: 2026-10-27 23:48. Al día: 18 de 57.
 | 15 | Roma Atrii | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
 | 16 | Auster | PENDIENTE | cambió la prosa | 2026-10-27 22:43 |
 | 17 | La regla del teléfono | PENDIENTE | cambió la prosa | 2026-10-27 23:03 |
+| 18 | Yo lo llevo | PENDIENTE | cambió la prosa | 2026-10-28 00:01 |
 | 22 | Lo que nadie estaba mirando | PENDIENTE | cambió la prosa | 2026-10-27 21:25 |
 | 23 | Lo pequeño | PENDIENTE | cambió la prosa | 2026-10-27 21:28 |
 | 24 | El primer huésped | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
@@ -47,6 +48,8 @@ Actualizada: 2026-10-27 23:48. Al día: 18 de 57.
 | 52 | Llaves | PENDIENTE | cambió la prosa | 2026-10-27 23:34 |
 | 53 | Intereses | PENDIENTE | cambió la prosa | 2026-10-27 23:43 |
 | 54 | Su nombre | PENDIENTE | cambió la prosa | 2026-10-27 23:48 |
+| 55 | Por si vuelve | PENDIENTE | cambió la prosa | 2026-10-28 00:01 |
+| 56 | A oscuras | PENDIENTE | cambió la prosa | 2026-10-28 00:01 |
 
 ## Capítulos
 
@@ -69,7 +72,7 @@ Actualizada: 2026-10-27 23:48. Al día: 18 de 57.
 | 15 | Roma Atrii | PENDIENTE | 2026-10-26 |
 | 16 | Auster | PENDIENTE | 2026-10-26 |
 | 17 | La regla del teléfono | PENDIENTE | 2026-10-26 |
-| 18 | Yo lo llevo | AL DIA | 2026-10-26 |
+| 18 | Yo lo llevo | PENDIENTE | 2026-10-26 |
 | 19 | El sobre rojo | AL DIA | 2026-10-26 |
 | 20 | Le quedé debiendo | AL DIA | 2026-10-26 |
 | 21 | El día nublado | AL DIA | 2026-10-26 |
@@ -106,12 +109,15 @@ Actualizada: 2026-10-27 23:48. Al día: 18 de 57.
 | 52 | Llaves | PENDIENTE | 2026-10-24 |
 | 53 | Intereses | PENDIENTE | 2026-10-24 |
 | 54 | Su nombre | PENDIENTE | 2026-10-24 |
-| 55 | Por si vuelve | AL DIA | 2026-10-24 |
-| 56 | A oscuras | AL DIA | 2026-10-24 |
+| 55 | Por si vuelve | PENDIENTE | 2026-10-24 |
+| 56 | A oscuras | PENDIENTE | 2026-10-24 |
 | 57 | La tierra bajo sus botas | AL DIA | 2026-10-24 |
 
 ## Historial
 
+- 2026-10-28 00:01 · Cap. 56 (50_A_Oscuras.md) · audio pendiente: cambió la prosa
+- 2026-10-28 00:01 · Cap. 55 (49_Enfrente.md) · audio pendiente: cambió la prosa
+- 2026-10-28 00:01 · Cap. 18 (15_El_Porton.md) · audio pendiente: cambió la prosa
 - 2026-10-27 23:48 · Cap. 54 (48_Su_Nombre.md) · audio pendiente: cambió la prosa
 - 2026-10-27 23:43 · Cap. 53 (47_Intereses.md) · audio pendiente: cambió la prosa
 - 2026-10-27 23:34 · Cap. 52 (46_Llaves.md) · audio pendiente: cambió la prosa
