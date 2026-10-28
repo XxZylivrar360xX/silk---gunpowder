@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_mecanico_cap46]] · Cap. 46: regla 05 en *Mecánico* (4 ecos cortados: sábanas, la Mesa, el patio y el «¿Cuándo?»; canon intacto). DISEÑO.
 - 2026-10-27: [[98_Agent_Handoff/sessions/2026-10-27_claude_cap17_escena_el_carro]] · Cap. 17: escena nueva "El carro" (Marisol confiesa el choque del carro de Michael; Kal la regaña y le dice que todo va a estar bien). DISEÑO.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_cuatro_letras_cap43]] · Cap. 43: regla 05 en *Cuatro letras* (se rompe la máquina común «No es…» / «Entonces…» del gag de «Roma»; carta, Héctor y cocaína intactos). DISEÑO.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_un_par_de_dias_mas_cap45]] · Cap. 45: regla 05 en *Un par de días más* (fuera ecos de Kal y el «¿Cuándo?» doble de Dario y Garrett; canon intacto). DISEÑO.
