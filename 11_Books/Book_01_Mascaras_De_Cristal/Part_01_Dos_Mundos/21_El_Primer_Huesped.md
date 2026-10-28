@@ -15,11 +15,12 @@ SURGERY frente 2 (2026-10-05, autorizada por el autor; sigue TERMINADO): M21-1 M
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N21-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 Nombre del lago del imán (2026-10-08, encargo del autor; DISEÑO): *Lake Meriwether*. No es [[05_Locations/El_Lago]] (H7).
 Regla de dialogo 05 (2026-10-28, encargo del autor sobre capitulo TERMINADO; el estado se conserva; prosa DISENO pendiente de lectura; ver [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_primer_huesped_cap24]]): desayuno -- fuera el eco "No hacia falta / Ya se que no hacia falta" (Marisol contesta otra cosa: "Sientate"); fuera el doble remate "Esta bueno, de todos modos / Obvio que esta bueno. Lo elegi yo" (el trago al vaso ya lo dice); fuera "y no dijo nada" antes de "Ya hacen equipo" (contradiccion). Llamada, club, loft, mezzanine, iman ("Porque es feo / Por eso", decision del autor), "Roncabas / Sin duda alguna, bambina" y despedida intactos.
+Apertura por residuo, puesta en escena (2026-10-28, idea del autor sobre propuesta de ChatGPT; el estado se conserva; prosa DISENO pendiente de lectura; ver [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap23_lo_pequeno]] §Puente): la pantalla del telefono ilumina un calcetin oscuro en el suelo y el sosten negro de encaje colgado de la lampara de Chiara, sin glosa; mientras Kal se pone las botas, Chiara toma el sosten de espaldas y el ve por primera vez sus lunares de la espalda alta (ficha, rasgo ya fijado), vuelve a los cordones. Sin dialogo sobre la noche. "camioneta" -> "el Audi" en el club: el Cap. 23 nunca nombra el auto, asi que esa noche iban en el Audi y este queda en el loft para que Marisol lo tome por la mañana. Llamada, "Voy contigo", "No hace falta", replica del rosado y llaves intactos.
 -->
 
 # Capítulo 24 — El primer huésped
 
-El teléfono sonó a las tres y algo de la madrugada, en la oscuridad completa del penthouse.
+El teléfono sonó a las tres y algo de la madrugada. La pantalla encendió lo poco que había entre la cama y la puerta: un calcetín oscuro en el suelo, doblado sobre sí mismo; más arriba, colgado de la lámpara de la mesa de noche de Chiara, un sostén negro de encaje. El resto del penthouse seguía a oscuras.
 
 Kal ya tenía el aparato en la mano antes del segundo timbre, con un reflejo que no le pertenecía a un hombre recién dormido.
 
@@ -45,9 +46,15 @@ Chiara ya se estaba sentando, apartando las sábanas.
 
 —Voy contigo.
 
+Kal ya estaba sentado en el borde de la cama, inclinado sobre las botas. Ella se levantó, le dio la espalda y estiró el brazo hacia la lámpara; el cabello se le fue hacia un hombro.
+
+Kal levantó la vista apenas. Tenía unos lunares pequeños en lo alto de la espalda, entre el omóplato y el hombro. No los conocía.
+
+Volvió a los cordones.
+
 —No hace falta.
 
-—Kal. —Lo dijo sin levantar la voz—. Llevas media botella de rosado encima y estabas dormido hace treinta segundos. No vas a manejar así con ella también en el auto.
+—Kal. —Lo dijo sin levantar la voz, abrochándose a ciegas—. Llevas media botella de rosado encima y estabas dormido hace treinta segundos. No vas a manejar así con ella también en el auto.
 
 Kal le pasó las llaves.
 
@@ -55,7 +62,7 @@ Kal le pasó las llaves.
 
 Chiara manejó los quince minutos hasta el club. Kal iba en el asiento del copiloto, con las manos apretadas sobre las rodillas, sin decir una palabra, sin prestarle atención real a la radio que él mismo había encendido bajo, solo para llenar el silencio con algo que no fuera miedo. Cada semáforo en rojo se le hizo más largo que el anterior.
 
-Encontraron a Marisol sentada en el bordillo, fuera del club, con los brazos cruzados sobre las rodillas y una amiga a su lado que se despidió con un gesto de alivio en cuanto vio la camioneta. Tenía el rímel corrido en un solo lado de la cara y un golpe rojo que ya empezaba a hincharse en el pómulo.
+Encontraron a Marisol sentada en el bordillo, fuera del club, con los brazos cruzados sobre las rodillas y una amiga a su lado que se despidió con un gesto de alivio en cuanto vio el Audi. Tenía el rímel corrido en un solo lado de la cara y un golpe rojo que ya empezaba a hincharse en el pómulo.
 
 Kal bajó antes de que Chiara apagara el motor.
 

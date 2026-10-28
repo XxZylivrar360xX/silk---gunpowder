@@ -12,9 +12,14 @@
 
 - **O-03 (protegido por decisión previa del autor).** «la seguridad que habían estado construyendo, favor por favor, silencio por silencio…» se queda íntegra.
 
-## Puente al Cap. 24 — PENDIENTE
+## Puente al Cap. 24 — APLICADO (2026-10-28)
 
-El autor quiere proponer una apertura «audaz» del Cap. 24. No se ha explicado; no se anticipa ni se registra contenido. El cierre del 23 (la luz que se apaga) y la apertura del 24 (llamada de Marisol a las 3 a. m.) quedan sin tocar hasta escucharla. Criterios de evaluación en la nota de ChatGPT.
+Idea del autor, afinada con ChatGPT; prosa DISEÑO en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21_El_Primer_Huesped]]. El cierre del 23 no se toca.
+
+- **Residuo:** la pantalla del teléfono ilumina un calcetín oscuro en el suelo y el sostén negro de encaje colgado de la lámpara de Chiara. Sin glosa: el encaje queda ambiguo (¿lo esperaba?, ¿se vistió para sí?).
+- **Lunares:** entre «Voy contigo» y «No hace falta», Kal en el borde de la cama con las botas; Chiara de espaldas toma el sostén; él ve los lunares de la espalda alta (rasgo ya fijado en la ficha) —«No los conocía.»— y vuelve a los cordones. Mirada de reconocimiento, sin pensamiento literario.
+- **Ritmo:** llamada sin recuerdos románticos; ningún diálogo sobre la noche ni sobre el sostén. La réplica del rosado gana «abrochándose a ciegas».
+- **Audi:** «camioneta» → «el Audi». El Cap. 23 solo dice «el auto», así que esa noche iban en el Audi A7; no hace falta puente. Por la mañana el Audi sigue en el loft para Marisol.
 
 ## Autocrítica
 - «de lado» simplifica; si el autor quiere más físico, cabe «la cola se soltó hacia afuera», sin volverlo tutorial.
