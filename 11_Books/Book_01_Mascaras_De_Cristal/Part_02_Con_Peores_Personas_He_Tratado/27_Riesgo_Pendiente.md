@@ -3,6 +3,7 @@ Renumerado 2026-10-22 (decisión del autor): antes Cap. 27; numeración corrida 
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «Riesgo pendiente».
 Estado: BORRADOR — segundo capítulo de la Parte II (*Con peores personas he tratado*). Pendiente de revisión del autor. Cirugía editorial E5 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): cronología fija de ~24 h, POV y glosas; sigue BORRADOR.
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 1 corte (D-2); sigue BORRADOR.
+Regla de diálogo 05 (2026-10-28, [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_lleve_equipaje_cap32]]): dos ecos de Halbrook cortados; DISEÑO, espera lectura.
 Protagonistas: Kal Mercer (POV único). Apariciones: Warren Halbrook; dos contratistas sin nombre.
 Ventana temporal: el mismo día que cubre el Cap. 26 (unas 24 horas) desde el lado de Chiara, en paralelo. Arranca de madrugada, después de la noche del jacuzzi (Cap. 25) y la advertencia de Varek; Kal recibe la llamada mientras Chiara duerme. Termina al amanecer del día en que vuelve a San Aurelio — enganche directo con el Cap. 28 (H6).
 Lugares: El Penthouse del Monarch (madrugada); la carretera al noreste; una instalación federal clausurada fuera de San Aurelio (deliberadamente sin ubicar — "cuatro horas al noreste", un hangar, oficinas con mobiliario de gobierno).
@@ -96,9 +97,9 @@ Cerró la carpeta cuando Kal entró, no después, y lo miró. Nada más que eso.
 
 —Sargento Mercer. —La voz tampoco había cambiado. Grave, pausada, con una calidez de sobremesa que nunca había significado nada bueno—. Gracias por venir.
 
-—No parecía optativo.
+Kal no contestó.
 
-—No lo era. Se agradece de todas maneras; la cortesía no depende de que uno tenga alternativa. —Dejó la carpeta sobre el escritorio, alineada con el borde—. Siéntese, por favor.
+—Ya sé que no le dejamos alternativa. Se agradece de todas maneras; la cortesía no depende de que uno la tenga. —Dejó la carpeta sobre el escritorio, alineada con el borde—. Siéntese, por favor.
 
 Kal se sentó. Halbrook no.
 
@@ -128,7 +129,7 @@ La mandíbula se le tensó a Kal un segundo. El mismo segundo de siempre. Halbro
 
 —Usted y yo tenemos versiones distintas de la última vez —dijo Kal.
 
-—Tenemos la misma versión. Le damos nombres distintos. —No se movió todavía hacia la puerta; le concedió la frase entera, mirándolo—. En la mía, un soldado abandonó su puesto, comprometió una operación en curso y salió cargando información que no le pertenecía. Que a usted esa frase le suene fea no la vuelve inexacta. —Se acomodó la carpeta bajo el brazo y fue hacia la puerta—. No lo persigo, Mercer. Perseguir es caro y es ruidoso, y usted nunca fue un hombre al que hiciera falta perseguir. Usted es un riesgo pendiente. Los riesgos pendientes se administran. Esto es administrarlo.
+—Hay una sola, sargento, y está en esta carpeta. —No se movió todavía hacia la puerta; le concedió la frase entera, mirándolo—. En ella, un soldado abandonó su puesto, comprometió una operación en curso y salió cargando información que no le pertenecía. Que a usted esa frase le suene fea no la vuelve inexacta. —Se acomodó la carpeta bajo el brazo y fue hacia la puerta—. No lo persigo, Mercer. Perseguir es caro y es ruidoso, y usted nunca fue un hombre al que hiciera falta perseguir. Usted es un riesgo pendiente. Los riesgos pendientes se administran. Esto es administrarlo.
 
 En el marco se cruzó con los dos hombres que entraban. Ropa de civil, la misma que los de afuera. Ninguno de los dos tenía cara de nada.
 
