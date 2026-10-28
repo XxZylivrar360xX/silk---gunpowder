@@ -12,6 +12,7 @@ Funcion: ejecutar H11 — la primera vez que Kal y Chiara tienen intimidad. Bolo
 Version expandida (2026-09-07), a peticion del autor: la bolera gana cuerpo real -- diálogo, apuestas tontas, risa compartida, el permiso mutuo de portarse como adolescentes sin nadie que necesite nada de ninguno de los dos. El drift y el mirador NO se tocaron -- el autor los considera ya perfectos. El penthouse se expande en tres direcciones: ambiente (la luz ambar, la ciudad de noche, el gesto de Kal quitandose la chaqueta como en su propia casa), seguridad entre ambos (verbalizada al final: "la seguridad que habian estado construyendo... ya era suficientemente fuerte como para sostener esto tambien"), y la quimica/magia de los dos en prosa por primera vez (el intercambio "¿Seguro?" / "Llevo meses seguro", la risa que rompe la ultima calma de Chiara). Se planta el vino rosado (regla nueva de Chiara: tinto siempre, blanco para cocinar, rosado = "animada") en los dos momentos donde antes decia solo "vino", ya que esta es la noche exacta a la que esa regla aplica.
 Apertura por residuo (reescrita 2026-08-29, triaje PROSA-B): abre con el residuo del Capitulo 18 (H4, el dia nublado) — lo que Chiara le conto del exmarido, lo que Kal entendio sin que ella lo dijera y no ha vuelto a tocar, y la ficcion de "somos solo buenos amigos". El Cap. 19 (Tierra buena) es lateral y no genera residuo directo aqui. Ver [[06_Relationships/Hitos]], H11 y la politica de apertura por residuo.
 Ajuste (2026-09-09, a peticion del autor): el detonador del primer beso pasa de "la risa que rompe la ultima calma" a un baile lento. Kal se levanta (lee como su tic de no saber estarse sentado), cambia Fade Into You por Come Away With Me de Norah Jones, le tiende la mano; el espejo del recibidor los agarra como eco del espejo de la boutique en el Cap. 18; baile casi inmovil ("no es para bailar"), la distancia cuidada durante meses se cierra sola, y al terminar la cancion viene el mechon, el roce en la mejilla y el primer beso. La risa de Kal se conserva pero ya no detona: ahora afloja la escena. Aplica el registro privado de la pareja -- ver [[12_Craft_Policies/Redaccion_De_Capitulos]] ("Registro privado de Kal y Chiara") y [[06_Relationships/Kal_y_Chiara]] ("El registro privado"). El intercambio "¿Seguro?" / "Llevo meses seguro" y el cierre de la luz en la ventana no se tocaron.
+Regla de dialogo 05 (2026-10-28, encargo del autor sobre capitulo TERMINADO; el estado se conserva; prosa DISENO pendiente de lectura; ver [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_lo_pequeno_cap23]]): bolera -- Chiara pierde el turno de los zapatos (gesto con la agujeta); fuera el eco "Esa si" (Kal senala el cero en la pantalla); fuera el eco "Fue suerte / Pero cuenta" (Kal no la oye, va a ver su siete); fuera "Tu me trajiste a mi / Pues por eso". Intactos: drift, mirador, elevador, "Eres lo mejor que he visto en una", "Te gane / Me ganaste", la playa, el penthouse, "No es para bailar", "¿Seguro? / Llevo meses seguro".
 Correcciones editoriales (2026-09-10, reporte Codex del 2026-09-09, secciones 1-2 + dos pendientes): errores de linea (marcador, chuza, "cuatro pinos cayeron"); sonrisa que Chiara no calcula descrita una sola vez (se abrevio el segundo inciso, dialogo canon intacto); bunker del "quinto hoyo" -> "octavo hoyo" (cotejo con Cap. 18); botella del penthouse reformulada como la comprada esa noche; intercambio inicial "Estas en otro lado" anclado en el casino. Pendiente de seguridad "verbalizada al final" RESUELTO (decision del autor): se conserva el nucleo ("la seguridad que habian estado construyendo... sostener esto tambien") y se podo la redundancia de alrededor ("llevaban meses siendo cuidadosos...", "certeza tranquila... ya habian decidido semanas atras"). Drift RESUELTO (decision del autor): manda la prosa; se sincronizo la tabla de H11 en Hitos.md al intercambio de dos replicas (Kal abre, Chiara voltea).
 Seccion 3 del reporte (poda de glosas) EJECUTADA (2026-09-10, decision del autor): bolera -- fuera "la clase de victoria pequena... valia mas que cualquier negocio cerrado", "orgullosa de algo que no tenia nada que ver con dinero ni con poder" y el remate "dejo de importarle perder" (el juego, las apuestas y las risas se conservan); penthouse -- fuera "no le hizo falta preguntar que significaba / algunas cosas no necesitaban traduccion" y "dos copas que ninguno de los dos iba a terminar"; baile -- fuera "dos personas que negociaban con criminales para vivir y no sabian que hacer con tres minutos de musica lenta" (mano, torpeza y balanceo intactos). L218: retirada "Camino hacia atras" -- queda "Le tomo la mano. Kal la siguio..." sin movimiento anadido, como pedia el reporte.
 -->
@@ -50,7 +51,7 @@ El muchacho del mostrador les cambió los zapatos sin levantar la vista. Chiara 
 
 —Sin zapatos no tiras.
 
-—Entonces tiras tú y yo miro.
+Chiara levantó uno por la agujeta, a la altura de los ojos de Kal, como prueba de algo.
 
 —Póntelos, Bellandi.
 
@@ -66,7 +67,7 @@ Chiara tiró la primera bola con la misma seriedad con la que firmaba un contrat
 
 —No. No, esa no.
 
-—Esa sí. Ahí está en la pantalla. Cero.
+Kal le señaló la pantalla con la barbilla: un cero amarillo, de un palmo de alto, junto al nombre de ella.
 
 Kal tiró después, sin ninguna técnica visible, y tumbó siete pinos por pura suerte de brazo. Levantó los dos puños como si acabara de ganar un campeonato.
 
@@ -74,17 +75,13 @@ Kal tiró después, sin ninguna técnica visible, y tumbó siete pinos por pura 
 
 —Fue suerte.
 
-—Fue suerte —admitió él—. Pero cuenta.
+Kal no la oyó. Se había ido hasta la pantalla a ver el siete escrito junto a su nombre.
 
 Ella tiró de nuevo. Canal. Otra vez, canal. Para la cuarta bola ya se estaba riendo de sí misma, algo que Kal no recordaba haberla visto hacer nunca — reírse de perder, no de ganar.
 
 —Eres malísima.
 
 —Ya sé. —No podía parar—. Ya sé, ya sé. Enséñame, ¿no? Para algo te traje.
-
-—Tú me trajiste a mí.
-
-—Pues por eso.
 
 Kal se paró detrás de ella. Le acomodó el brazo con los dedos y, con la otra mano en la cadera, la cuadró con el carril; se quedó así un segundo más de lo que pedía la lección, y ella no se movió hasta que él se quitó.
 

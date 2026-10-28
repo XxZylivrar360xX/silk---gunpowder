@@ -8,7 +8,7 @@ Actualizado: 2026-10-28. Máximo 800 palabras. Brief anterior íntegro: [[98_Age
 2. **Esperan respuesta del autor (Libro II):** F2, semillas Kal–Chiara, voces REL-01 y Navidad de Almendra Towing (en pausa). Lista en [[98_Agent_Handoff/PENDING]].
 3. **Esperan lectura del autor (Libro I):** auditorías, frentes 3–5 y la prosa DISEÑO de abajo. Rutas en PENDING.
 4. **Arco lector Caps. 17–19:** aplicado; espera lectura: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Propuesta_Arco_Caps_14-16_Lector]].
-5. **Siguiente posible:** regla 05 en el Cap. 23 (archivo 20); consolidar S1 (Cap. 20, archivo 17) de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]].
+5. **Siguiente posible:** regla 05 en el Cap. 24 (archivo 21); consolidar S1 (Cap. 20, archivo 17) de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]].
 
 ## Estado del manuscrito (Libro I, *Máscaras de Cristal*)
 
@@ -16,11 +16,11 @@ Actualizado: 2026-10-28. Máximo 800 palabras. Brief anterior íntegro: [[98_Age
 - **Calendario (CANON):** sep A1 → 5 ene A3; la Mesa, 13 dic; Kal preso 19 dic–5 ene.
 - **San Aurelio (CANON):** Oregon, inspirada en Portland, bahía ficticia; vía costera 101. Mapa: [[99_Reference/location_references/mapa_san_aurelio.png]].
 - **Mando policial (CANON):** sin jefe en el I; Lucía, subjefa en funciones. II: Lucía jefa interina, Collins capitana (subjefa al cierre), Clark nombrada al cierre. III: Lucía y Collins subjefas bajo Clark; Lucía jefa al renunciar Clark.
-- **Exportación:** EPUB y PDF regenerados 2026-10-23; falta portada HD para KDP. Audiolibro: [[tools/audiolibro/README]]; audios viejos en [[tools/audiolibro/bitacora/Mascaras_De_Cristal]]. El autor corre `--estado` y regenera en su máquina (Caps. 12–22 pendientes de marcar).
+- **Exportación:** EPUB y PDF regenerados 2026-10-23; falta portada HD para KDP. Audiolibro: [[tools/audiolibro/README]]; audios viejos en [[tools/audiolibro/bitacora/Mascaras_De_Cristal]]. El autor corre `--estado` y regenera en su máquina (Caps. 12–23 pendientes de marcar).
 
 **Prosa DISEÑO reciente, espera lectura** (detalle en encabezados y `sessions/`):
 
-- **Regla de diálogo 05** ([[12_Craft_Policies/dialogue_rules/05-esticomitia-de-una-sola-voz]]): cortes de eco/remate, turnos perdidos, líneas canon intactas. Caps. 1–4 aprobados por el autor ([[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps01-04]]); 5–7 ([[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]]); 12–22, una sesión por capítulo, `sessions/2026-10-26_claude_regla05_*` y [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_tierra_cap22]].
+- **Regla de diálogo 05** ([[12_Craft_Policies/dialogue_rules/05-esticomitia-de-una-sola-voz]]): cortes de eco/remate, turnos perdidos, líneas canon intactas. Caps. 1–4 aprobados por el autor ([[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps01-04]]); 5–7 ([[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]]); 12–23, una sesión por capítulo, `sessions/2026-10-26_claude_regla05_*` [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_tierra_cap22]] y [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_lo_pequeno_cap23]].
 - **Caps. 12–13 (archivos 09–10):** además, levantón del Tasador (Sam amenazada; cobro en el II: [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Cobro_Del_Levanton]]) y Blake en el lobby del Monarch (siembra «la grúa la manejaba él» para el 38); Chiara no se lo cuenta a Kal.
 - **Caps. 2, 4–11:** llamada Kal–Nadir (2); 5–7 con arco de Blake (5 leído) ([[98_Agent_Handoff/sessions/2026-10-22_claude_cap05_segmentado_arco_blake]]); H3 en el 9; [[02_Characters/Dana_Collins]] (CANON) en el 11.
 - **Cap. 4, encuentro con Blake (2026-10-24):** cortejo de Keene, velorio en El Relevo; Collins castaño cobrizo (CANON); Blake suelta quién manda (paga en el 5a) ([[98_Agent_Handoff/sessions/2026-10-24_claude_cap04_cortejo_keene_blake]]).
