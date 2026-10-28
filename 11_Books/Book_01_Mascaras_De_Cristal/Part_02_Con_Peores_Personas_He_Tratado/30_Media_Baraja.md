@@ -39,6 +39,7 @@ AJUSTES FINOS (2026-09-18, segunda pasada a pedido del autor): corregido sujeto 
 DOCUMENTOS DE `develop` QUE SIGUEN DESACTUALIZADOS por la reescritura del Cap. 29 (no tocados en este encargo, sólo reportados): [[02_Characters/Dario_Varek]] ("Kal se ofrece a trabajar para él, como parte de la organización") y [[06_Relationships/Hitos]], sección H6 §5-6, que documentan el mecanismo antiguo ("Kal ofrece trabajar para Varek... a cambio, seguridad para Chiara").
 
 > **RESUELTO (2026-09-16, CANON DEL AUTOR: "hay que sanear, mi decisión es que sea el mismo día"):** el Cap. 31 fue saneado en sesión posterior para ocurrir la tarde-anochecer del mismo día que este capítulo — se quitó el salto de semanas, la sanación de la ceja, el "jueves" y el "Peugeot" (pasa a Audi/Lancia), y la llamada de apertura de Kal ahora es la invitación personal a la pesca ya acordada en la coda de este capítulo. Ver metadata y prosa del Cap. 31. Cap. 31 no cambia de posición ni de contenido con esta revisión.
+Regla de diálogo 05 (2026-10-28, a pedido del autor; prosa DISEÑO; sigue BORRADOR): 14 cortes de eco/remate y turnos perdidos, detalle en [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_media_baraja_cap35]]. Línea canon intacta.
 Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): en la coda, come del rin que Walt le lijo para plato, al pie de la fosa. Ficha: 02_Characters/Rocco.md.
 -->
 
@@ -106,9 +107,7 @@ No sintió el impulso de reclamarle nada, y eso la sorprendió un poco de sí mi
 
 —Lo sé.
 
-—No te estoy pidiendo perdón por decirlo.
-
-—No te lo estoy pidiendo yo tampoco.
+Chiara esperó el resto. No hubo resto: Kal siguió mirando el agua, con la mano quieta sobre el costado.
 
 Eso, extrañamente, la calmó más que una disculpa. Un hombre que no se defendía dejaba menos espacio para pelear, y ella no tenía ganas de pelear con él esa mañana: tenía ganas de entender qué quedaba parado y qué se había caído.
 
@@ -140,9 +139,7 @@ Chiara lo miró un momento.
 
 —Hiciste que te la ofreciera.
 
-—Le di una razón.
-
-Nada más. No explicó el truco, y Chiara no se lo pidió. Conocía al empresario, al mecánico, al protector, al negociador. Esto era distinto: alguien capaz de construir una conversación para que otro creyera que la decisión había sido suya. Le pareció eficaz. Inteligente. Un poco inquietante, porque acababa de ver una herramienta que —en otras manos, incluso en las suyas— también podría usarse contra ella.
+Kal no lo negó. No explicó el truco, y Chiara no se lo pidió. Conocía al empresario, al mecánico, al protector, al negociador. Esto era distinto: alguien capaz de construir una conversación para que otro creyera que la decisión había sido suya. Le pareció eficaz. Inteligente. Un poco inquietante, porque acababa de ver una herramienta que —en otras manos, incluso en las suyas— también podría usarse contra ella.
 
 —¿Y qué es exactamente una silla? —preguntó.
 
@@ -164,7 +161,7 @@ Chiara se quedó callada un segundo, encajando la pieza.
 
 —Nadir.
 
-—Nadir.
+No era pregunta, y Kal no la contestó.
 
 —¿Le dijiste por qué?
 
@@ -190,9 +187,7 @@ Chiara no se movió.
 
 —Porque si te mete en el barro, dejas de escuchar lo que escuchas ahora. Le dije que estaba protegiendo un activo. —Una pausa—. Era verdad. No era toda la verdad.
 
-—¿Y él te creyó?
-
-—Lo suficiente.
+Chiara no preguntó cuál era la otra parte. Se le fueron los dedos al arete, lo giró una vez y lo soltó.
 
 ***
 
@@ -258,7 +253,7 @@ Chiara levantó la vista de las fotografías.
 
 —Vivian.
 
-—La conoces.
+Kal la miró.
 
 —La conozco como se conoce a alguien que aparece en todas partes. —Chiara lo pensó un momento—. No sabía que participaba de verdad.
 
@@ -288,7 +283,7 @@ Chiara se quedó quieta un segundo, haciendo el mismo cálculo que él ya había
 
 —Entonces nadie la está siguiendo.
 
-—Nadie la está siguiendo. Nadie la investiga. —Kal miró el agua, y algo en su cara era más incómodo que si hubiera dicho lo contrario—. Es otra cosa. Es que dos mundos que llevo años manteniendo separados se tocaron por accidente, y yo no hice nada para que pasara. Simplemente pasó.
+—No. Nadie la investiga. —Kal miró el agua, y algo en su cara era más incómodo que si hubiera dicho lo contrario—. Es otra cosa. Es que dos mundos que llevo años manteniendo separados se tocaron por accidente, y yo no hice nada para que pasara. Simplemente pasó.
 
 —¿Qué vas a hacer?
 
@@ -328,7 +323,7 @@ Chiara lo pensó apenas un segundo.
 
 —¿El de la caja?
 
-—El de la caja. —Se encogió de hombros, como quien ya está construyendo algo sin haber terminado de decidirlo—. No para seguir a nadie. Para mirar alrededor. Es bueno notando cuando algo no encaja.
+—Ése. —Se encogió de hombros, como quien ya está construyendo algo sin haber terminado de decidirlo—. No para seguir a nadie. Para mirar alrededor. Es bueno notando cuando algo no encaja.
 
 Kal asintió una vez. Nada más.
 
@@ -344,25 +339,17 @@ Kal asintió una vez. Nada más.
 
 —Eso puede tardar años.
 
-—Puede.
-
-—¿Y mientras tanto?
-
 —Mientras tanto nadie más decide con quién cenas.
 
-—Y mientras aprendemos cómo funciona por dentro —agregó Chiara—, i Sussurri puede decirnos con quién habla, a quién le debe favores, dónde le tiembla el negocio. Cosas que tú no vas a ver desde adentro porque las vas a estar viviendo, no observando.
+Chiara no contestó a eso. Contestó lo otro:
 
-—Y El Patio puede moverte lo que i Sussurri no puede: gente, coches, un lugar donde nadie pregunta. —Kal la miró—. Nunca hicimos esto juntos.
+—Mientras aprendemos cómo funciona por dentro, i Sussurri puede decirnos con quién habla, a quién le debe favores, dónde le tiembla el negocio. Cosas que tú no vas a ver desde adentro porque las vas a estar viviendo, no observando.
 
-—No como esto.
+—Y El Patio puede moverte lo que i Sussurri no puede: gente, coches, un lugar donde nadie pregunta.
 
-Chiara lo miró.
+—De acuerdo —dijo Chiara—. Alineados.
 
-—De acuerdo —dijo—. Alineados.
-
-—Alineados.
-
-No se dieron la mano.
+Kal no repitió la palabra. Tampoco se dieron la mano.
 
 ***
 
@@ -370,7 +357,7 @@ Kal se quedó mirando el agua caer un rato más, y Chiara vio que algo en sus ho
 
 —Ya sabes lo que esto significa —dijo él, sin mirarla—. Que ahora estoy dentro.
 
-—Sé lo que significa.
+—Lo sé.
 
 Kal se quedó callado un momento.
 
@@ -424,7 +411,7 @@ Silencio. El taller siguió con sus ruidos de siempre —un compresor, un perro 
 
 —¿Mi papel? —dijo Nadir, al fin. No era pregunta. Era la manera de repetir algo para comprobar si sonaba igual de real la segunda vez.
 
-—Tu papel.
+Kal le sostuvo la mirada.
 
 Nadir se puso de pie, despacio.
 
@@ -466,10 +453,6 @@ Kal se lo dijo también, porque ya había decidido, en algún punto de la carret
 
 —¿Y si sale mal? —preguntó Danny. Era la pregunta incómoda y él lo sabía y la hizo de todos modos—. ¿Cómo sales?
 
-—Todavía no lo sé.
-
-—¿No tienes salida?
-
 —Todavía no tengo salida. Tengo un problema, tengo con qué empezar a resolverlo, y tengo semanas para construir el resto. No tengo un plan completo. Si alguien aquí necesita que lo tenga antes de seguir escuchando, lo entiendo.
 
 Nadie se fue.
@@ -490,7 +473,7 @@ Walt asintió despacio.
 
 —Y a cambio terminas debiéndole a los dos.
 
-—Siempre termino debiéndole a alguien. Prefiero elegir a quién.
+Kal no le corrigió la cuenta.
 
 Héctor, que no había dicho una palabra en un rato, se quitó la gorra, se pasó la mano por el pelo cano y se la volvió a poner — un gesto que Kal conocía desde niño y que nunca significaba nada bueno.
 
