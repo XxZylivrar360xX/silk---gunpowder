@@ -7,6 +7,7 @@ Ventana temporal: dias despues del Capitulo 16 (hospital, ahora fusionado con El
 Lugares: un negocio dentro de La Almendra (apertura), territorio de La Ronda del Canal / Canal Seco, casa de Hector Navarro (cierre).
 Funcion: FUSIONADO (2026-09-03), a peticion del autor -- el antiguo Cap. 19 (Cuentas claras, negociacion con Irene) y el antiguo Cap. 20 (Anticiparse, reunion del barrio) se unen en un solo capitulo, porque Anticiparse por separado resultaba demasiado corto para sostenerse solo. "Cuentas claras" queda como titulo oficial; "Anticiparse" se conserva como nombre de la escena de cierre en casa de Hector, marcada con su propio encabezado interno. Resuelve el hilo sembrado en el Capitulo 15 (el robo de Nadir y Danny): abre con POV del mundo criminal en plena operacion (Tomas Vale ejecutando el golpe de advertencia de Irene), sigue con la negociacion de Kal y Walt (sin Hector) en el Canal Seco, y cierra con la reunion de todo el barrio ya en casa de Hector -- el recuento de causas y consecuencias, el dato incomodo de que el rumor era demasiado preciso para ser chisme de calle (lore de trasfondo sobre Dario Varek, nunca confirmado en prosa -- ver Dario_Varek.md), y Kal explicandole a Nadir y Danny que su enojo es por no haber sido avisado a tiempo, no por el error en si.
 Apertura por residuo: no depende directamente del cierre del Capitulo 16 (que cerro con Kal y Chiara en el auto) -- abre en un punto distinto, el mundo criminal, para dar la sensacion de que la ciudad sigue moviendose aunque Kal no este mirando.
+Cirugia 2026-10-28 (nota ChatGPT [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_cap20_le_quede_debiendo_marisol_y_liderazgo]]; DISENO pendiente de lectura; el estado se conserva): AUT-01/P-01, eco de Marisol sin nombrarla: "Que me entere por ustedes, no por una marca en una puerta" en el "Avisenme"; se comprime la explicacion operativa de Kal; fuera "y el barrio [...] ya lo sabia" (O-03). Ocho bultos (O-01) PENDIENTE del autor. Detalle: 98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap20_le_quede_debiendo.md.
 Regla de dialogo 05 (esticomitia) 2026-10-26, a pedido del autor: ocho cortes de eco/remate; la prosa nueva es DISENO, espera lectura (98_Agent_Handoff/sessions/2026-10-26_claude_regla05_debiendo_cap20.md).
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N17-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
@@ -109,7 +110,7 @@ Caminaron los cuatro de vuelta a la camioneta, sin que nadie dijera nada hasta q
 
 —Un nombre. —Walt sacó las llaves—. He debido cosas peores a gente peor.
 
-Kal no dijo nada, pero algo en el pecho se le acomodó distinto — no orgullo todavía, y menos con una línea a su nombre en la libreta de Irene, pero cerca. Había resuelto algo del barrio sin Héctor parado a su lado diciéndole qué decir, y el barrio, de alguna manera que todavía no sabía nombrar, ya lo sabía.
+Kal no dijo nada, pero algo en el pecho se le acomodó distinto — no orgullo todavía, y menos con una línea a su nombre en la libreta de Irene, pero cerca. Había resuelto algo del barrio sin Héctor parado a su lado diciéndole qué decir.
 
 Nadir esperó hasta que estuvieron subiendo a la camioneta para hablar.
 
@@ -207,11 +208,11 @@ Nadir levantó la vista, sin atreverse todavía a creer que fuera a salir tan f�
 
 —Pensamos que ibas a decir que no —dijo Nadir, en voz baja.
 
-—Probablemente. —Kal no lo negó—. Pero si me lo hubieran dicho, y las cosas salían mal de todos modos, yo ya habría sabido qué hacer antes de que salieran mal. Habría tenido un plan esperando, en vez de estar armando uno a los golpes, sin dormir, sin saber ni siquiera qué pregunta hacer primero. Eso es lo que cuesta que no me avisen. No el error. La sorpresa.
+—Probablemente. —Kal no lo negó—. Pero si me lo hubieran dicho, y las cosas salían mal de todos modos, habría tenido un plan esperando, en vez de estar armando uno a los golpes, sin dormir, sin saber ni siquiera qué pregunta hacer primero. Eso es lo que cuesta que no me avisen. No el error. La sorpresa.
 
 Danny no dijo nada, pero asintió despacio.
 
-—La próxima vez que se les ocurra algo así —siguió Kal—, no me pidan permiso. Avísenme. Aunque sepan que voy a decir que no. Prefiero decir que no a tiempo, que enterarme tarde de que ya dijeron que sí sin mí.
+—La próxima vez que se les ocurra algo así —siguió Kal—, no me pidan permiso. Avísenme. Que me entere por ustedes, no por una marca en una puerta. Aunque sepan que voy a decir que no. Prefiero decir que no a tiempo, que enterarme tarde de que ya dijeron que sí sin mí.
 
 Nadir asintió también.
 
