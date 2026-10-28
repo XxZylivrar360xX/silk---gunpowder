@@ -4,6 +4,7 @@ Retitulado 2026-10-21 a «Con miedo y todo» y revertido 2026-10-22 (decisión d
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-26 (Prioridad C, autorizada por el autor, sigue TERMINADO): prolepsis de la cocina, saltos de POV (casino, cuarto, auto anclado en Kal), parte del infarto a Kal comprimido, contradiccion "llegaron / seguia conduciendo" al Monarch, tercera "respuesta suficiente", siembra de Matteo ("Matteo cubre el piso", hilo C; rima con el Cap. 41). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17.md.
 Cirugia de dialogo de terceros 2026-10-04 (S2 del Plan_Cirugia_Terceros_Parte_I; sigue TERMINADO): visita de Chiara a Hector podada por decision del autor -- Hector solo pregunta y gruñe; salen sus aforismos ("Se equivoca acompañada...", "sostener algo con el cuerpo..."), "Usted ya siente por el...", "con usted no me sale ser el cascarrabias" y el tuteo; la ternura queda para el monologo del Cap. 24c. Chiara se va con la pregunta "¿Y el que no le ha contado a usted?" (decision del autor). Lineas de Chiara intactas salvo el ajuste minimo de enlace. "Cuatro letras" intacta. La prosa nueva es DISENO pendiente de lectura del autor. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I.md.
 Regla 05 (esticomitia de una sola voz), 2026-10-26, a pedido del autor (sigue TERMINADO; prosa nueva DISENO pendiente de lectura): ocho cortes de eco/remate. Hospital: Kal pierde el turno ("Estaba..."; Hector: "En el cerro. Ya me dijo ella", fuera la tercera vez de "telefono apagado"), fuera el eco "Ya se que no pudieron", "¿Necesita algo?" pasa a Chiara ofreciendo otro termo (Hector contesta otra cosa), fuera "Eso intento" (gruñido). Coche: "Contra mi" pasa a Kal contando las piedras que Marisol escogia; la cadena Diego (preocupa/dije/dijiste) queda en el silencio de Chiara, "como quien memoriza a un testigo" y "Es un nombre."; "Le dije que si" pasa a gesto; fuera el remate "suena exactamente a algo que haria Marisol" (risa). Intactos "Es ella" / "No es ella", "Cuatro letras", "Con miedo y todo", "Matteo cubre el piso", el buzon de Nadir, *balayage* y el iman. Ver 98_Agent_Handoff/sessions/2026-10-26_claude_regla05_sobre_rojo_cap19.md.
+Cirugia 2026-10-28 (lectura ChatGPT 2026-10-28; AUT-01 = direccion del autor; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): el miedo de Kal se aterriza en el levanton del Cap. 12: "Desde Calle Corona" (camioneta, convenio, muñeca, "solo habia ido a tomarse un cafe"); Hector solo dice lo que vio (la ferula en el barrio, "Tenia su hotel. ¿Quien escogio la Almendra?") y Kal esquiva con "Alguien tiene que cuidarla de eso". Sin Crowe, sin "juntos". Fuera "la misma cara" y "Nadie dijo nada sobre eso" (POV); alubias quemadas una sola vez; "Kal asintio" (maneja Chiara). Lineas de *Cuatro letras* intactas. Ver 98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap19_sobre_rojo.md.
 Protagonistas: Kal Mercer, Chiara Bellandi, Hector Navarro.
 Arco lector 14-16 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_14-16_Lector; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): A1 -- la visita de Chiara a Hector sale de aqui y pasa al Cap. 15 (sabado); el corte cose "Matteo cubre el piso" con "Kal llego al hospital"; el capitulo queda entero en POV Kal (casino -> hospital -> coche). A3 -- fuera el primer "Kal no contesto." y el "--No." de Hector. A4 -- "La furia le llego tarde, ya en el casino"; en el hospital "con la furia bajada, no apagada, y la sintio volver entera". A5 -- "Por primera vez desde que abrio el sobre". A6 -- en el coche Kal marca a Nadir: buzon con mensaje grabado ("Nadir. Deja recado; si es de dinero, la cifra primero."; ajustado a su voz de cobro por el supervisor), en contraste con el de Kal (Cap. 14). A7 opcion B -- maneja Chiara el sedan del Monarch; al llegar, Kal se acuerda del iman en la guantera de la camioneta y no dice nada (reaparece en el Cap. 21). A8 -- alubias y el planteo de Diego comprimidos a narrador; se conservan 6-4, "como quien memoriza a un testigo", la casa y *balayage*. Telefono: "saco el telefono" (en el 14 queda sobre el asiento). Supervision 2026-10-22: fuera "segun Marisol" en las alubias (en el 14 lo de Michael lo dice Kal); Diego trae cafe "a todas las clases", como en el 14.
 Ventana temporal: continua directamente del Capitulo 15 (POV Chiara). El domingo en que Kal vuelve del campamento (casino, hospital, coche).
@@ -114,6 +115,12 @@ Kal se pasó una mano por la cara.
 
 —¿Y desde cuándo decides tú lo que se merece?
 
+—Desde Calle Corona. —Kal no levantó la vista de las manos—. La subieron a una camioneta por un convenio que firmé yo. Le doblaron la muñeca contra la puerta de un coche, y ella sólo había ido a tomarse un café.
+
+Héctor hizo un ruido con la garganta.
+
+—La vi andar por el barrio con esa férula. Tenía su hotel. ¿Quién escogió la Almendra?
+
 —Alguien tiene que cuidarla de eso.
 
 —Eso —dijo Héctor, incorporándose apenas contra la almohada— es exactamente el problema. No es tuyo decidir de qué la cuidas. Es de ella. —Lo miró directo—. Kal. Eso es de ella. No tuyo.
@@ -142,11 +149,7 @@ Kal se quedó callado, con las manos apretadas entre las rodillas.
 
 Chiara volvió con un termo de café de verdad —no el aguado que vendía la cafetería del hospital— y lo dejó sobre la mesita, cerca de la mano de Héctor, sin decir de dónde lo había sacado.
 
-Los dos hombres tenían la misma cara. La cara de quien acaba de escuchar algo que no va a repetir nunca en voz alta.
-
-Nadie dijo nada sobre eso.
-
-Chiara se acercó por detrás de Kal y le puso la mano en el hombro. Kal levantó la suya y la puso encima de la de ella, sin voltear a verla, y por un momento los tres se quedaron así.
+Se acercó por detrás de Kal y le puso la mano en el hombro. Kal levantó la suya y la puso encima de la de ella, sin voltear a verla, y por un momento los tres se quedaron así.
 
 Héctor fue el primero en romperlo.
 
@@ -178,7 +181,7 @@ Kal la miró de reojo, como si la pregunta lo hubiera tomado por sorpresa en el 
 
 —Las piedras las escogía ella. Planas, del tamaño de la palma. Las que yo juntaba las regresaba al agua sin dejarme tirarlas, porque según ella estaban mal hechas. —No sonaba ofendido. Sonaba casi orgulloso.
 
-Le contó lo de las alubias, quemadas las dos noches, como las quemaba Michael. Chiara guardó eso en algún lado sin comentarlo, y Kal siguió con un chico de la universidad que le llevaba café a todas las clases.
+Le contó lo de las alubias, quemadas como las quemaba Michael. Chiara guardó eso en algún lado sin comentarlo, y Kal siguió con un chico de la universidad que le llevaba café a todas las clases.
 
 —Diego —dijo.
 
@@ -192,7 +195,7 @@ Chiara no preguntó nada. Algo se le movió en la boca, apenas, todavía conteni
 
 —¿Le dijiste que sí?
 
-Kal asintió, sin quitar los ojos de la calle.
+Kal asintió.
 
 Chiara no dijo nada, pero algo en su cara cambió — algo pequeño, casi nada — y Kal no supo si fue por la casa, o por él dejando entrar a alguien a verla sin que se lo hubiera pedido dos veces.
 

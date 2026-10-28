@@ -147,10 +147,10 @@
     "16_El_Sobre_Rojo.md": {
       "capitulo": 19,
       "titulo": "El sobre rojo",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-26",
-      "desde": "2026-10-26 00:23"
+      "desde": "2026-10-28 00:18"
     },
     "17_Cuentas_Claras.md": {
       "capitulo": 20,
@@ -1196,6 +1196,11 @@
     [
       "2026-10-28 00:01",
       "Cap. 56 (50_A_Oscuras.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-28 00:18",
+      "Cap. 19 (16_El_Sobre_Rojo.md)",
       "audio pendiente: cambió la prosa"
     ]
   ]
