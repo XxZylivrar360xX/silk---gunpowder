@@ -1,6 +1,6 @@
 <!--
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 24b; numeración corrida definitiva, el archivo conserva su nombre.
-Estado: BORRADOR (2026-10-01, Claude Code, encargo del autor; falta revisión del autor). Capítulo NUEVO insertado entre el 24 (Bajo juramento) y el 25 (Libros abiertos). Sin renumeración (decisión del autor 2026-10-01): el manuscrito no muestra números; el orden lo da el nombre de archivo ("24b" ordena entre 24 y 25). Encabezado sin "Capítulo N" para que el build no lo deforme.
+Estado: BORRADOR (2026-10-01, Claude Code, encargo del autor; falta revisión del autor). Regla de diálogo 05 aplicada 2026-10-28 (DISEÑO, espera lectura): 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_lo_que_cueste_cap28.md. Capítulo NUEVO insertado entre el 24 (Bajo juramento) y el 25 (Libros abiertos). Sin renumeración (decisión del autor 2026-10-01): el manuscrito no muestra números; el orden lo da el nombre de archivo ("24b" ordena entre 24 y 25). Encabezado sin "Capítulo N" para que el build no lo deforme.
 Protagonistas: Kal Mercer (POV bloques 1 y 3), Chiara Bellandi (POV bloque 2). Apariciones: Nadir Amrani, Enzo (Il Gelsomino).
 Ventana temporal: en las dos semanas que siguen al cierre del conflicto legal (Cap. 24), antes del Corral (Cap. 24c) y de la compra del Lancia (Cap. 25; ajustado 2026-10-04 al reubicar el Corral). Bloque 1: noche, pocos días después del tribunal. Bloque 2: días después, 4pm. Bloque 3: esa misma noche. Coda: la mañana siguiente.
 Lugares: el taller de autopartes de La Almendra; terraza de Il Gelsomino; el loft (escalera lateral al mezzanine).
@@ -179,7 +179,7 @@ Chiara lo sostuvo. Lo sostuvo mucho tiempo, el suficiente para que una pareja de
 
 —No se lo digo por educación.
 
-—Ya sé. Por eso se lo agradezco.
+Para eso Chiara no tuvo respuesta.
 
 Nadir sacó un billete del bolsillo de la chaqueta, lo dobló a lo largo y lo puso debajo de la taza del café que no había tocado. Después sacó otro y lo puso debajo de la copa de ella.
 
@@ -197,11 +197,7 @@ Hablaron de Hoover primero, porque era fácil. De la cifra. De Rivers, que habí
 
 Después hablaron de Tommaso, porque no había forma de no hacerlo.
 
-—Va a querer algo —dijo Chiara.
-
-—Ya sé.
-
-—No sé qué. Y no sé cuándo.
+—Va a querer algo —dijo Chiara—. No sé qué. Y no sé cuándo.
 
 Kal sirvió. Dejó la botella lejos del borde.
 

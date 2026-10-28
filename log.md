@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_lo_que_cueste_cap28]] · Cap. 28: regla 05 en *Lo que cueste* (Chiara pierde el último turno con Nadir; Kal pierde un "Ya sé" en el loft; taller, escalera y coda intactos); prosa DISEÑO pendiente de lectura.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_bajo_juramento_cap27]] · Cap. 27: regla 05 en *Bajo juramento* (un remate de Rivers y dos de Kal en Villani; tribunal, pasillo y escaleras intactos); prosa DISEÑO pendiente de lectura.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_nada_caro_cap26]] · Cap. 26: regla 05 en *Nada caro* (un corte de eco con Rivers, la hoja en el loft y una réplica doble en la llamada); prosa DISEÑO pendiente de lectura.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_causalidad_cap25]] · Cap. 25: regla 05 en *Causalidad* (un corte: "No hay de qué" pasa a gesto con la hoja del recargo; llamada, recargo, "Kal." y Dario intactos); prosa DISEÑO pendiente de lectura.
