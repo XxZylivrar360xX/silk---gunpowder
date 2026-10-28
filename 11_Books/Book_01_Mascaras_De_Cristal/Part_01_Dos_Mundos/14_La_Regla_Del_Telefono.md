@@ -12,7 +12,7 @@ Cierre corregido (2026-09-03): ya NO termina con Kal prendiendo el telefono y vi
 Nombre del lago del imán (2026-10-08, encargo del autor; DISEÑO): *Lake Meriwether*. No es [[05_Locations/El_Lago]] (H7).
 Arco lector 14-16 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_14-16_Lector; sigue TERMINADO; prosa nueva DISEÑO pendiente de lectura): A2, A9 aplicados.
 Regla de dialogo 05 (2026-10-26, encargo del autor; DISENO pendiente de lectura; el estado se conserva): doce cortes de eco/remate (salida, nevera, piedras, derecho, la casa, el "dai", la amiga); Kal ya no dice ni oye el nombre de Chiara hasta "Dilo tu tambien". Detalle: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_telefono_cap17]].
-Escena nueva "Las notas" (2026-10-27, encargo del autor; DISENO pendiente de lectura; el estado se conserva): domingo temprano, Marisol confiesa que reprobo dos parciales, falto a clase y le mintio el sabado ("Sobreviviendo"). Kal la regaña de pie, sin subir la voz (la mentira, no la nota), pone condicion (hablar con los profesores, mandarle las notas), se sienta, le choca el hombro con media sonrisa: "Todo va a estar bien." Sustituye la version del choque del carro de Michael (descartada por el autor: precedente del Audi en el Cap. 24 y eco de mala conductora para el choque del Libro II). Fuera la muletilla "¿sabes?" en "Lo extraño". Remate (2026-10-27, direccion del autor via nota ChatGPT AUT-01; DISENO pendiente de lectura): sale "Tu papá reprobó Química dos veces" y la risa; entra el orgullo de Kal por Marisol como hija de La Almendra, con "tipos como yo" como eco de "somos plebe" (Cap. 7) sin glosa; reaccion minima; "Todo va a estar bien" intacto. Tambien: "Desde Auster" -> "Desde que fue a verlo al taller" (Kal no conoce el nombre); fuera la cifra "la mitad de las confesiones falsas". Detalle: [[98_Agent_Handoff/sessions/2026-10-27_claude_cap17_escena_las_notas]].
+Escena nueva "Las notas" (2026-10-27, encargo del autor; DISENO pendiente de lectura; el estado se conserva): domingo temprano, Marisol confiesa que reprobo dos parciales, falto a clase y le mintio el sabado ("Sobreviviendo"). Kal la regaña de pie, sin subir la voz (la mentira, no la nota), pone condicion (hablar con los profesores, mandarle las notas), se sienta, le choca el hombro con media sonrisa: "Todo va a estar bien." Sustituye la version del choque del carro de Michael (descartada por el autor: precedente del Audi en el Cap. 24 y eco de mala conductora para el choque del Libro II). Fuera la muletilla "¿sabes?" en "Lo extraño". Remate (2026-10-27, direccion del autor via nota ChatGPT AUT-01; DISENO pendiente de lectura): sale "Tu papá reprobó Química dos veces" y la risa; entra el orgullo de Kal por Marisol como hija de La Almendra, con "tipos como yo" como eco de "somos plebe" (Cap. 7) sin glosa; reaccion minima; "Todo va a estar bien" intacto. Ajuste del autor: "Me lo dijiste tú... Eso ya es hacerlo mejor" (reconocimiento de la responsabilidad que ella asumio al confesar, no exigencia). Siembras de inquietud de Marisol, sin glosa: viernes, «Oye» abortado en el semaforo y plato raspado en la cena; sabado, "apretó el paso" al mentir y agua derramada antes de "¿Y tu amiga?". Tambien: "Desde Auster" -> "Desde que fue a verlo al taller" (Kal no conoce el nombre); fuera la cifra "la mitad de las confesiones falsas". Detalle: [[98_Agent_Handoff/sessions/2026-10-27_claude_cap17_escena_las_notas]].
 -->
 
 # Capítulo 17 — La regla del teléfono
@@ -82,6 +82,12 @@ Marisol lo miró un momento, con la cara de estar calculando si valía la pena, 
 Arrancó.
 
 ***
+
+Antes de salir del último pueblo Marisol cambió la emisora tres veces sin dejar ninguna. En el semáforo dijo «Oye», y cuando Kal la miró ya estaba mirando por la ventanilla.
+
+—Qué.
+
+—Nada. Que no te pases el desvío.
 
 La carretera se vació a la media hora, y a la hora ya no había más que cerros pelados y vallas de alambre. Kal conocía el desvío aunque no lo tomaba desde hacía años; lo agarró sin dudar, y la camioneta empezó a subir por un camino de tierra donde el teléfono, apoyado en el salpicadero, pasó de dos rayas a una.
 
@@ -179,13 +185,15 @@ La cena fue salchichas y una lata de alubias que se pegó al fondo del cazo porq
 
 Marisol se rió con la boca llena, como se reía de niña, y Kal registró que hacía mucho que no la oía reírse sin un teléfono de por medio.
 
+Después se quedó con el plato en las rodillas, raspando con el tenedor un fondo que ya estaba limpio. Kal le preguntó si quería más y tuvo que preguntárselo dos veces.
+
 ***
 
 Por la mañana caminaron arroyo arriba. Kal iba delante por costumbre hasta que Marisol lo pasó en una bifurcación y agarró la que él no habría agarrado.
 
 —¿Cómo va lo de derecho?
 
-—Sobreviviendo. —Marisol no bajó el ritmo—. Ya sólo me quedan seis meses antes de que empiecen las estadías, y ahí se acaba el margen para no saber nada de verdad.
+—Sobreviviendo. —Marisol apretó el paso—. Ya sólo me quedan seis meses antes de que empiecen las estadías, y ahí se acaba el margen para no saber nada de verdad.
 
 —¿Ya sabes dónde?
 
@@ -279,7 +287,7 @@ Kal se chupó el dedo quemado y no contestó, que para Marisol fue, otra vez, co
 
 Le restó importancia en voz alta y le dio la razón por dentro, en el mismo segundo, sin decírselo a nadie.
 
-Marisol dejó pasar un silencio largo y lo rompió sin levantar la vista.
+Marisol se sirvió agua de la cantimplora y se le fue la mitad en la bota. La limpió con la manga, sin quejarse, y dejó pasar un silencio largo. Lo rompió sin levantar la vista.
 
 —¿Y tu amiga?
 
@@ -359,7 +367,7 @@ Ella no contestó. Se limpió la cara con la manga de la chaqueta, rápido, como
 
 Kal se sentó entonces en la piedra, a su lado, de cara al arroyo. Estuvieron así un rato, sin decir nada, oyendo el agua de la olla empezar a moverse. Después le chocó el hombro con el suyo, una vez, y le salió media sonrisa.
 
-—Hazlo mejor, Marisol. Que allá sepan que eres de La Almendra. De ahí salimos tipos como yo. Que vean que también sale gente extraordinaria.
+—Me lo dijiste tú, Marisol. Eso ya es hacerlo mejor. Que allá sepan que eres de La Almendra. De ahí salimos tipos como yo. Que vean que también sale gente extraordinaria.
 
 Marisol se quedó mirando el arroyo. Asintió, sin soltar la taza.
 

@@ -36,3 +36,5 @@ Fuente: [[98_Agent_Handoff/ChatGPT/2026-10-27_lectura_cap17_regla_telefono_repor
 - **R-03:** sin tocar (trayectoria academica de Marisol; queda como pendiente de canon).
 - **R-04:** sin tocar; Walt cubriendo el taller no contradice el Cap. 18.
 - Audiolibro: `--estado` corrido.
+- **Ajuste del autor (misma sesion):** "Hazlo mejor" no debe leerse como exigencia sino como reconocimiento de la responsabilidad de Marisol. Queda: "—Me lo dijiste tú, Marisol. Eso ya es hacerlo mejor. Que allá sepan que eres de La Almendra. De ahí salimos tipos como yo. Que vean que también sale gente extraordinaria."
+- **Siembras viernes/sabado (pedido del autor; el narrador no explica):** viernes, en el semaforo del ultimo pueblo dice «Oye» y lo cambia por "Que no te pases el desvío"; en la cena raspa un plato limpio y Kal le pregunta dos veces. Sabado, "apretó el paso" al decir "Sobreviviendo"; en la noche derrama agua de la cantimplora en la bota y, tras un silencio largo, pregunta por Chiara en lugar de confesar. Todo DISENO.
