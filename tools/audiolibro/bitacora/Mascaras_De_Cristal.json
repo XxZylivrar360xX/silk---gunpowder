@@ -355,42 +355,42 @@
     "39_Un_Par_De_Dias_Mas.md": {
       "capitulo": 45,
       "titulo": "Un par de días más",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 23:17"
     },
     "40_Mecanico.md": {
       "capitulo": 46,
       "titulo": "Mecánico",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 23:17"
     },
     "41_La_Otra_Mitad.md": {
       "capitulo": 47,
       "titulo": "La otra mitad",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 23:17"
     },
     "42_Nada.md": {
       "capitulo": 48,
       "titulo": "Nada",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 23:17"
     },
     "43_La_Puerta.md": {
       "capitulo": 49,
       "titulo": "La puerta",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 23:17"
     },
     "44_Jurisdiccion.md": {
       "capitulo": 50,
@@ -1131,6 +1131,31 @@
     [
       "2026-10-27 23:03",
       "Cap. 44 (38_Al_Reves.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 23:17",
+      "Cap. 45 (39_Un_Par_De_Dias_Mas.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 23:17",
+      "Cap. 46 (40_Mecanico.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 23:17",
+      "Cap. 47 (41_La_Otra_Mitad.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 23:17",
+      "Cap. 48 (42_Nada.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 23:17",
+      "Cap. 49 (43_La_Puerta.md)",
       "audio pendiente: cambió la prosa"
     ]
   ]
