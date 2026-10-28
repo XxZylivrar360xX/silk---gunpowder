@@ -2,6 +2,7 @@
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 49; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «Enfrente».
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 49 (sexto del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
+Regla de diálogo 05 (2026-10-28, a pedido del autor; prosa DISEÑO, espera lectura): fuera «Gracias» / «Prego», «No lo sabía» / «Nadie lo sabe», «¿Copia qué?», «No pedía», «¿Usted puede?» / «¿Cuándo?» (Valenti lo suelta solo), «El edificio tiene dueño» / «Tiene socios», «¿Quién ganó?», «¿Yo qué?», «Ya sé que no está» y «¿Así cómo?». Sesión: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_por_si_vuelve_cap55]].
 Título: RESUELTO 2026-10-21 (decisión del autor): «Por si vuelve». "Enfrente" era título de trabajo.
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
 Personajes con diálogo: Leone Valenti, Fabrizio Rinaldi (noche de D12), una voz de mujer en Nueva York (por teléfono), el portero del Monarch, la recepción del Monarch (por teléfono).
@@ -71,9 +72,7 @@ Chiara no contestó enseguida. Miró por la ventana del despacho. Del otro lado 
 
 —Desde el jueves, signora.
 
-—Gracias.
-
-—Prego.
+Chiara se quedó con el auricular en la mano. Del otro lado esperaron un momento, por cortesía, y colgaron.
 
 ---
 
@@ -97,13 +96,9 @@ Por la ventana se veía el Monarch completo. No la entrada, que desde el piso on
 
 —Construyeron los dos el mismo año —dijo Valenti. Le sirvió café sin preguntarle si quería—. Este y el que está debajo de su torre. Mil novecientos veinticuatro. El mismo arquitecto, me dicen, aunque no lo he podido confirmar. Eran hermanos. Uno para los que llegaban en tren y otro para los que llegaban en barco.
 
-—No lo sabía.
+Chiara no lo sabía.
 
-—Nadie lo sabe. A éste lo restauraron hace tres años con mucho cuidado. Las columnas no son de mármol, pero el que las pintó sabía lo que hacía. —Bebió un trago—. Al suyo le pusieron una torre encima. Es una buena torre. Pero copia.
-
-—¿Copia qué?
-
-—Lo que cree que es una ciudad grande. —Valenti dejó la taza en el plato, sin ruido todavía—. Esta mañana di un paseo por el puerto viejo. Los almacenes. Tienen unos techos de madera que en Génova costarían una fortuna. Alguien debería restaurarlos antes de que alguien los tire.
+—A éste lo restauraron hace tres años con mucho cuidado. Las columnas no son de mármol, pero el que las pintó sabía lo que hacía. —Bebió un trago—. Al suyo le pusieron una torre encima. Es una buena torre. Pero copia. —Esperó una pregunta que no llegó y contestó igual—: Lo que cree que es una ciudad grande. —Valenti dejó la taza en el plato, sin ruido todavía—. Esta mañana di un paseo por el puerto viejo. Los almacenes. Tienen unos techos de madera que en Génova costarían una fortuna. Alguien debería restaurarlos antes de que alguien los tire.
 
 Chiara tomó su taza. El café estaba bueno. Lo tomó como se toma algo en una casa ajena, con la taza cerca del plato.
 
@@ -131,19 +126,7 @@ Chiara lo miró. Valenti tenía las manos cruzadas sobre la rodilla y la cara de
 
 Valenti asintió despacio, como si le hubieran confirmado la hora. Metió la mano en el bolsillo interior del saco y sacó la libreta de cuero, la misma de Palermo, más gastada en las esquinas. La abrió hacia el final, en una página que encontró sin buscar. La miró unos segundos. No leyó nada en voz alta. La cerró y la dejó sobre su rodilla, debajo de las manos.
 
-—No recuerdo que usted haya pedido nunca nada —dijo.
-
-—No pedía.
-
-—No. Usted administraba. Es distinto. —Lo dijo sin ironía, como un elogio—. Por eso la escuché con atención en cuanto me dijeron que había llamado.
-
-—¿Usted puede?
-
-—Il Consorzio lo ha considerado.
-
-—¿Cuándo?
-
-—Antes de que usted llamara.
+—No recuerdo que usted haya pedido nunca nada —dijo—. Usted administraba. Es distinto. —Lo dijo sin ironía, como un elogio—. Por eso la escuché con atención en cuanto me dijeron que había llamado. Il Consorzio ya lo ha considerado. —Las manos no se movieron de la libreta—. Antes de que usted llamara.
 
 Chiara dejó la taza en la mesa. Lo hizo despacio, para que no sonara.
 
@@ -183,11 +166,7 @@ Valenti se puso de pie y fue a la ventana. Se quedó ahí con las manos detrás 
 
 Chiara esperó.
 
-—Il Consorzio considera que la casa Ardizzone lleva demasiado tiempo en San Aurelio viviendo en casa ajena. —No se volvió—. Usted llegó a dirigir y observar. Ha dirigido muy bien. Ha observado más de lo que se le pidió, pero eso, a estas alturas, la mesa lo cuenta a su favor. Il Consorzio no pide a nadie que administre un edificio que no es suyo para siempre.
-
-—El edificio tiene dueño.
-
-—Tiene socios. —Valenti se volvió por fin—. El señor Varek ha sido un socio muy útil. Il Consorzio se lo agradece. Pero la utilidad, signora, cambia de forma con el tiempo, como todo. Y cuando cambia, alguien tiene que acomodar los papeles.
+—Il Consorzio considera que la casa Ardizzone lleva demasiado tiempo en San Aurelio viviendo en casa ajena. —No se volvió—. Usted llegó a dirigir y observar. Ha dirigido muy bien. Ha observado más de lo que se le pidió, pero eso, a estas alturas, la mesa lo cuenta a su favor. Il Consorzio no pide a nadie que administre un edificio que no es suyo para siempre. —Se volvió por fin—. El señor Varek ha sido un socio muy útil. Il Consorzio se lo agradece. Pero la utilidad, signora, cambia de forma con el tiempo, como todo. Y cuando cambia, alguien tiene que acomodar los papeles.
 
 Chiara pensó en la bodega nueve. En la mano de Dario, que sostuvo la suya un segundo más de lo que hacía falta. *Una cuenta abierta.* No se movió.
 
@@ -289,11 +268,7 @@ Chiara no le dijo nada. Comió otro bocado. Fabrizio miró el puerto y la dejó 
 
 —Alguien tiene que firmar.
 
-—Alguien. —No discutió—. Giada perdió un diente en la escuela la semana pasada. Lo trajo envuelto en una servilleta y quería saber si el ratón de aquí paga en dólares o en euros. Paola dice que en dólares, porque vivimos aquí. Giada dice que en euros, porque el diente es italiano.
-
-—¿Quién ganó?
-
-—Giada. Siempre gana Giada. —Se rió—. Nico quiere ser portero de hotel cuando sea grande. Por los guantes.
+—Alguien. —No discutió—. Giada perdió un diente en la escuela la semana pasada. Lo trajo envuelto en una servilleta y quería saber si el ratón de aquí paga en dólares o en euros. Paola dice que en dólares, porque vivimos aquí. Giada dice que en euros, porque el diente es italiano. Ganó Giada. Siempre gana Giada. —Se rió—. Nico quiere ser portero de hotel cuando sea grande. Por los guantes.
 
 —Es buen oficio.
 
@@ -301,11 +276,7 @@ Chiara no le dijo nada. Comió otro bocado. Fabrizio miró el puerto y la dejó 
 
 El calentador hacía un ruido de soplete bajito, constante, y el calor les llegaba a las rodillas y no más arriba.
 
-—¿Y tú? —preguntó Fabrizio.
-
-—¿Yo qué?
-
-—Hijos. ¿Quieres?
+—¿Y tú? —preguntó Fabrizio. Ella no entendió, o hizo como que no—. Hijos. ¿Quieres?
 
 Chiara dejó el tenedor sobre la tapa azul.
 
@@ -321,9 +292,7 @@ Ella lo miró. Él no se disculpó por la pregunta.
 
 —Mercer no está.
 
-—Ya sé que no está.
-
-No le preguntó dónde. No le preguntó nada de Camp Alder, ni del juez, ni de los cuatro días. Chiara pensó que él sabía, o que sabía lo bastante, y que esa noche había subido a otra cosa.
+Fabrizio no le preguntó dónde. No le preguntó nada de Camp Alder, ni del juez, ni de los cuatro días. Chiara pensó que él sabía, o que sabía lo bastante, y que esa noche había subido a otra cosa.
 
 —Va a volver —dijo Fabrizio.
 
@@ -335,11 +304,7 @@ Fabrizio se inclinó hacia adelante, con los codos en las rodillas y las manos j
 
 El teléfono le vibró en el bolsillo del saco. Lo sacó, miró la pantalla, lo puso boca abajo sobre la mesita, junto al tóper. No contestó.
 
-—No —dijo—. Así no.
-
-—¿Así cómo?
-
-—Así. —Señaló con la barbilla la terraza, el frío, el abrigo en los hombros de ella, el tóper a medio comer—. Tú sola, con esa cara, y yo con el dedo quemado.
+—No —dijo—. Así no. —Señaló con la barbilla la terraza, el frío, el abrigo en los hombros de ella, el tóper a medio comer—. Tú sola, con esa cara, y yo con el dedo quemado.
 
 —Fabrizio.
 
