@@ -16,6 +16,7 @@ Ajuste (2026-09-09, a peticion del autor): el detonador del primer beso pasa de 
 Regla de dialogo 05 (2026-10-28, encargo del autor sobre capitulo TERMINADO; el estado se conserva; prosa DISENO pendiente de lectura; ver [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_lo_pequeno_cap23]]): bolera -- Chiara pierde el turno de los zapatos (gesto con la agujeta); fuera el eco "Esa si" (Kal senala el cero en la pantalla); fuera el eco "Fue suerte / Pero cuenta" (Kal no la oye, va a ver su siete); fuera "Tu me trajiste a mi / Pues por eso". Intactos: drift, mirador, elevador, "Eres lo mejor que he visto en una", "Te gane / Me ganaste", la playa, el penthouse, "No es para bailar", "¿Seguro? / Llevo meses seguro".
 Correcciones editoriales (2026-09-10, reporte Codex del 2026-09-09, secciones 1-2 + dos pendientes): errores de linea (marcador, chuza, "cuatro pinos cayeron"); sonrisa que Chiara no calcula descrita una sola vez (se abrevio el segundo inciso, dialogo canon intacto); bunker del "quinto hoyo" -> "octavo hoyo" (cotejo con Cap. 18); botella del penthouse reformulada como la comprada esa noche; intercambio inicial "Estas en otro lado" anclado en el casino. Pendiente de seguridad "verbalizada al final" RESUELTO (decision del autor): se conserva el nucleo ("la seguridad que habian estado construyendo... sostener esto tambien") y se podo la redundancia de alrededor ("llevaban meses siendo cuidadosos...", "certeza tranquila... ya habian decidido semanas atras"). Drift RESUELTO (decision del autor): manda la prosa; se sincronizo la tabla de H11 en Hitos.md al intercambio de dos replicas (Kal abre, Chiara voltea).
 Seccion 3 del reporte (poda de glosas) EJECUTADA (2026-09-10, decision del autor): bolera -- fuera "la clase de victoria pequena... valia mas que cualquier negocio cerrado", "orgullosa de algo que no tenia nada que ver con dinero ni con poder" y el remate "dejo de importarle perder" (el juego, las apuestas y las risas se conservan); penthouse -- fuera "no le hizo falta preguntar que significaba / algunas cosas no necesitaban traduccion" y "dos copas que ninguno de los dos iba a terminar"; baile -- fuera "dos personas que negociaban con criminales para vivir y no sabian que hacer con tres minutos de musica lenta" (mano, torpeza y balanceo intactos). L218: retirada "Camino hacia atras" -- queda "Le tomo la mano. Kal la siguio..." sin movimiento anadido, como pedia el reporte.
+Cierre 2026-10-28 (CANON DEL AUTOR, en sesion): Chiara dice "*Vieni.*" al tomarle la mano, antes del trayecto a la habitacion; sin glosa ni traduccion. Ver [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap23_lo_pequeno]].
 -->
 
 # Capítulo 23 — Lo pequeño
@@ -288,7 +289,11 @@ Chiara se apartó lo suficiente para mirarlo, buscando algo en su cara que ya sa
 
 —Yo también. —Sonrió—. Solo quería oírtelo decir.
 
-Le tomó la mano. Kal la siguió sin que hiciera falta preguntar hacia dónde, y en el trayecto corto hasta la habitación no hubo ni un segundo de la clase de duda que suele acompañar a estas cosas.
+Le tomó la mano.
+
+—*Vieni.*
+
+Kal la siguió sin que hiciera falta preguntar hacia dónde, y en el trayecto corto hasta la habitación no hubo ni un segundo de la clase de duda que suele acompañar a estas cosas.
 
 Lo que pasó después no necesitó testigos ni palabras que lo explicaran del todo. Fue lento donde tenía que ser lento y urgente donde no podía ser de otra manera, y en algún punto de la noche los dos entendieron, sin decírselo, que la seguridad que habían estado construyendo, favor por favor, silencio por silencio, ya era suficientemente fuerte como para sostener esto también.
 

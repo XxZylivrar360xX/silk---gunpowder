@@ -12,7 +12,7 @@
 
 **Geografía (autor).** «Chiara manejó los quince minutos hasta el club, en el sector sur de La Isla.» Compatible con el Monarch en la punta oeste de La Isla ([[05_Locations/El_Penthouse]]).
 
-**Puesta en escena (autor).** Marisol se sube «atrás, detrás de Chiara»; la mano llega «En cada semáforo en rojo, con el Audi detenido, … hacia atrás por el costado del asiento». Conduce Chiara; el gesto sigue siendo suyo.
+**Puesta en escena (autor).** Marisol se sube «atrás, detrás de Chiara»; la mano llega «En cada semáforo en rojo, con el Audi detenido, … hacia atrás». Conduce Chiara; el gesto sigue siendo suyo.
 
 ## Sin intervención (decisión del autor)
 
@@ -22,5 +22,5 @@
 
 ## Autocrítica
 - «bofetada» frente a «cachetada»: el manuscrito usa ambas; «cachetada» sonaría más coloquial en boca de Marisol si el autor lo prefiere.
-- «por el costado del asiento» es la mano izquierda de la conductora entre puerta y respaldo; si se lee forzado, basta «hacia atrás».
+- «por el costado del asiento» se retiró a petición del autor (rigidez); «detrás de Chiara» ya sitúa el gesto.
 - Audiolibro: `--estado` corrido, sin regenerar. Sin EPUB.

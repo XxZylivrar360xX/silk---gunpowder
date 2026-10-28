@@ -75,7 +75,7 @@ Chiara no levantó la voz. Le puso una mano en el brazo, apenas, y con eso bast�
 
 —Espera a que ella quiera contarlo.
 
-Marisol no dijo nada en todo el camino. Se subió atrás, detrás de Chiara, se hizo un ovillo contra la puerta, y Chiara no la presionó ni una sola vez. En cada semáforo en rojo, con el Audi detenido, estiraba una mano hacia atrás por el costado del asiento, sin girarse del todo, hasta que en alguno Marisol terminó por tomarla, sin que nadie lo comentara.
+Marisol no dijo nada en todo el camino. Se subió atrás, detrás de Chiara, se hizo un ovillo contra la puerta, y Chiara no la presionó ni una sola vez. En cada semáforo en rojo, con el Audi detenido, estiraba una mano hacia atrás, sin girarse del todo, hasta que en alguno Marisol terminó por tomarla, sin que nadie lo comentara.
 
 ***
 

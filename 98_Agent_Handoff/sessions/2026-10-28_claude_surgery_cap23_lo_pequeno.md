@@ -21,6 +21,10 @@ Idea del autor, afinada con ChatGPT; prosa DISEÑO en [[11_Books/Book_01_Mascara
 - **Ritmo:** llamada sin recuerdos románticos; ningún diálogo sobre la noche ni sobre el sostén. La réplica del rosado gana «abrochándose a ciegas».
 - **Audi:** «camioneta» → «el Audi». El Cap. 23 solo dice «el auto», así que esa noche iban en el Audi A7; no hace falta puente. Por la mañana el Audi sigue en el loft para Marisol.
 
+## Cierre: «Vieni» (autor, 2026-10-28)
+
+Tras «Le tomó la mano.», Chiara dice «—*Vieni.*» y Kal la sigue «sin que hiciera falta preguntar hacia dónde». Elegida por el autor entre tres opciones («Adesso sì», «Piano, Kal»). Sin apodo: los cariñosos llegan al formalizarse y «*Cielo*» (Cap. 28) sigue siendo un desliz único.
+
 ## Autocrítica
 - «de lado» simplifica; si el autor quiere más físico, cabe «la cola se soltó hacia afuera», sin volverlo tutorial.
 - «él se había quedado» añade un verbo de permanencia que también paga «Tardó en volver al coche» del Cap. 3.
