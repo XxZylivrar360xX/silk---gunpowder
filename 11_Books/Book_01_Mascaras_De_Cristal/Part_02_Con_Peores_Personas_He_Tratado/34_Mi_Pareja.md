@@ -2,6 +2,7 @@
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 34; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — cierra la Parte II (Cap. 34 de 34). Redactado 2026-09-20, Claude Code, encargo del autor. Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]], § 9 parte 4). Ampliación de diálogo cómico 2026-10-04 (material del autor, ver abajo); sigue BORRADOR, pendiente de lectura del autor.
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 2 cortes (N34-1, N34-2); gag intacto; sigue BORRADOR.
+Regla de diálogo 05 (2026-10-28, a pedido del autor): 12 cortes de eco y remate; canon de H21 y llamada de Danny intactos. Ver [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_mi_pareja_cap40]]. Sigue BORRADOR.
 Renumerado en cascada (2026-09-20, encargo del autor): se insertó el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Cap. 32 — Línea directa]] (Kal/Lucia Varek) antes de "La periferia". Este archivo pasó de 33 a 34; "La periferia" (luego *Más de la cuenta*; hoy *Lo único que es mío*, Cap. 37) pasó de 32 a 33.
 Protagonistas: Kal Mercer (POV único). Chiara Bellandi. En escena al abrir: Walt Keegan. Voces sólo por teléfono: Dario Varek, Danny Hayes, Nadir Amrani (altavoz), Marisol Grayson. Mencionados sin aparición: Kenji Oda; la viuda (clienta del Monarch, sin nombre).
 Ventana temporal: semanas después del Cap. 33 (Más de la cuenta), sin fecha exacta — mismo tipo de elipsis que abre ese capítulo.
@@ -36,7 +37,7 @@ Walt se acercó una etiqueta a los ojos, la alejó, la volvió a acercar.
 
 —El año lo puso la imprenta.
 
-—El año lo pagas tú.
+—Cuarenta etiquetas a dos dólares, más el envío. Lo pagas tú.
 
 Walt no discutió. Walt nunca discutía una cuenta bien hecha. Levantó la vista hacia la puerta, donde Kal llevaba un minuto apoyado sin anunciarse, y lo miró como miraba todo lo que cambiaba en un cuarto: primero a él, después las llaves que traía en la mano.
 
@@ -74,9 +75,7 @@ Chiara iba con el asiento reclinado un grado, los zapatos en el piso del copilot
 
 —¿Por lo de Kenji?
 
-—Por lo de Kenji.
-
-Chiara giró la cabeza sin levantarla del asiento.
+Kal no lo negó. Chiara giró la cabeza sin levantarla del asiento.
 
 —Kal.
 
@@ -132,11 +131,7 @@ Chiara abrió los ojos.
 
 —Por Danny.
 
-—Por Danny. —Chiara lo dejó caer despacio—. Y encima por dinero. Por lo menos que fuera porque le gustan las señoras mayores.
-
-—¿Prefieres que sea porque la viuda le parece guapa?
-
-—Prefiero que no sea por dinero, *Madonna*. Como si una no tuviera dinero.
+—Por Danny. —Chiara lo dejó caer despacio—. Y encima por dinero. Por lo menos que fuera porque le gustan las señoras mayores. Pero por dinero, *Madonna*. Como si una no tuviera dinero.
 
 —Pero tú no te vas a morir —dijo Kal—. Y a ti no te veo por el dinero.
 
@@ -148,7 +143,7 @@ Chiara no dijo nada. Lo miró de lado, con la cabeza todavía en el respaldo, y 
 
 —¿Qué fue eso? —preguntó ella.
 
-—¿Qué fue qué?
+Kal no contestó.
 
 —Esa pausa. Fue una pausa muy dramática.
 
@@ -174,8 +169,6 @@ Kal miró el camino. El bache doble venía y lo tomó con más cuidado del que e
 
 —¿Puedes dejar de decirme cosas que para ti son mentira?
 
-—El colorete no es mentira.
-
 El teléfono vibró en el compartimento entre los asientos. Kal lo vio antes que ella —el nombre en la pantalla, VAREK— y contestó como quien se agarra de lo primero que pasa flotando.
 
 —Señor Mercer.
@@ -194,11 +187,7 @@ El Audi siguió rodando sobre la grava. Chiara se quedó mirando el teléfono, d
 
 —Sí.
 
-—Bien. —Chiara se acomodó en el asiento con la espalda recta, como en una junta—. Vamos a comunicarnos.
-
-—Vamos.
-
-—Empiezas tú.
+—Bien. —Chiara se acomodó en el asiento con la espalda recta, como en una junta—. Vamos a comunicarnos. Empiezas tú.
 
 —¿Yo?
 
@@ -207,10 +196,6 @@ El Audi siguió rodando sobre la grava. Chiara se quedó mirando el teléfono, d
 Kal soltó el aire por la nariz.
 
 —Era una broma. De esas que se te meten solas en la cabeza. Te casas con la viuda, la viuda se resbala, te quedas con todo. Para Danny.
-
-—Para Danny.
-
-—Para Danny.
 
 —Y luego yo dije lo del dinero, y tú dijiste que yo no me iba a morir, y te quedaste callado como si hubieras visto pasar a tu propio fantasma.
 
@@ -224,7 +209,7 @@ Kal soltó el aire por la nariz.
 
 —La envolvente. Rodeas, rodeas, y cuando uno se da cuenta ya no tiene por dónde salir.
 
-—El que no encuentra la salida eres tú, y eso que el hoyo lo cavaste solo. —Chiara giró el anillo del dedo medio, una vuelta completa—. La vienes cocinando desde la destilería.
+—El que no encuentra la salida eres tú. —Chiara giró el anillo del dedo medio, una vuelta completa—. La vienes cocinando desde la destilería.
 
 —¿Yo? ¿Me estás diciendo que preparé todo esto para terminar aquí? ¿Por quién me tomas?
 
@@ -340,7 +325,7 @@ Kal dejó el teléfono sobre la rodilla. A lo lejos sonó el silbato de la manio
 
 —Le dijiste que la cera estaba a noventa.
 
-—Le dije que estaba contento.
+—Le dije que estaba...
 
 —Ah. —Chiara recogió los pies, se puso un zapato, luego el otro, sin prisa—. Entonces ahora es cuando me dejas en la puerta del casino y te vas.
 
@@ -350,7 +335,7 @@ Kal dejó el teléfono sobre la rodilla. A lo lejos sonó el silbato de la manio
 
 —¿No te quedó claro lo que le dije a Danny?
 
-—¿Qué le dijiste exactamente a Danny, Kal? Porque a mí no me quedó claro.
+—¿Qué le dijiste exactamente, Kal?
 
 —Que tú y yo no somos simples amigos.
 
@@ -360,11 +345,7 @@ Lo dijo con la cara seria, devolviéndole una frase de otra tarde nublada.
 
 —Más que buenos amigos.
 
-—¿Te da alergia?
-
-—¿Qué?
-
-—La palabra.
+—¿Te da alergia? La palabra.
 
 —Tú fuiste la que no quiso ponerle nombre a nada —dijo Kal—. Entonces, ¿qué lugar me deja eso a mí?
 
@@ -374,11 +355,7 @@ Chiara se tocó el arete izquierdo, que no se había movido.
 
 —Claro. Porque en esta ciudad nadie sospecha nada. Entramos al Monarch soltando feromonas por la alfombra y la gente es idiota.
 
-—Una cosa es lo que la gente piense. Otra es lo que se dice.
-
-—Entonces no me pidas que lo diga.
-
-—No te lo pido. Te pregunto si quieres. —Lo miró de frente—. No estás obligado a nada, Kal. Yo tampoco. Pero tampoco puede ser esto.
+—Una cosa es lo que la gente piense. Otra es lo que se dice. —Lo miró de frente—. Y no te pido que lo digas. Te pregunto si quieres. No estás obligado a nada, Kal. Yo tampoco. Pero tampoco puede ser esto.
 
 Kal tardó. Puso las dos manos en el volante, a las diez y diez, como en un examen de manejo.
 
