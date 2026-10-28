@@ -8,6 +8,7 @@ Lugares: Villani Motors, El Penthouse.
 Función: CANON DEL AUTOR, H15 completo. De día: compra del Lancia — Kal ya tiene participación minoritaria formal en Villani tras el acuerdo del capítulo anterior, y le vende el auto a Chiara fingiendo ambos ser desconocidos (vendedor y clienta). De noche: el jacuzzi — primera vez que ambos son "libros abiertos" por elección, sin peligro. El residuo del juicio y la mentira de Tommaso siguen como inquietud, sin explicar el motivo. Chiara cuenta de su familia y de Il Consorzio; de Alessio habla como herida y precio ("no iba a ser yo"), sin decir que hizo — linea del autor, deliberada (decision 2026-09-26; antes decia "nunca de Alessio"). Kal cuenta su salida del ejército, cómo conoció a Nadir, la cicatriz y lo de los niños que lo llevó a prisión — NUNCA que a él lo compraron de bebé (esa asimetría lector/Chiara es canon; ver H15 y SAGA_LEVEL). Cierra dentro del jacuzzi; Dario pasa al capítulo siguiente; la advertencia de Varek de madrugada queda fuera (abre H5).
 Corrado (decisión del autor 2026-09-09): Chiara cree que perdió a su padre. Versión pública = el capo de la famiglia Ardizzone falleció, caída desde el acantilado de la villa de Palermo; federales y comisión dieron la misma frase. Nunca hubo cuerpo. NO se fija edad concreta. Corrado está vivo (canon de fondo, reveal al final del Libro III, Voto de Ceniza; corregido en housekeeping 2026-09-26, antes decia Libro II) — Chiara NO lo sabe y no se insinúa. ACTUALIZADO 2026-09-28 (autor): la version publica ahora dice que los federales abrieron fuego y el cuerpo cayo por la ladera; salio en los periodicos a la manana siguiente. El disparo "constata" la muerte para enganar al lector (malicia de autor deliberada).
 Cicatriz (decisión del autor 2026-09-09): CONFIRMADA. Vidrio del parabrisas la última noche del convoy, sacando a un niño por la ventanilla. Ya no es diseño provisional.
+Regla de dialogo 05 (2026-10-28, pedido del autor; DISEÑO, espera lectura): fuera "Es mi trabajo notarlo" (eco de "Se nota"; Kal contesta con sonrisa de vendedor), "Sólo digo lo que veo" (eco de "sólo"; Chiara gana el turno), "Voy a pagarlo. Y tú vas a cobrarlo." (eco; las dos líneas de Kal se funden en una, queda el único eco de Chiara, "Yo sí") y "Entonces habrá decidido tenerme cerca..." (eco de "decidió" y remate; el cajón de lo resuelto ya lo dice). Ver [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_libros_abiertos_cap30]].
 Pasada editorial 2026-09-10 (Claude Code, decision del autor): H15 cumplido al minimo — Chiara nombra Il Consorzio una vez (Kal identifica lo que ella callo en el camino al norte, Cap. 24c; antes Cap. 9); Kal menciona "una rusa que conseguia papeles" (Anya, sin nombrar; el nombre se guarda para F4). Corregidos el referente de Marco y el "papel que nadie necesitaba" (la compraventa del Lancia si tiene efecto); podado el eco de instruccion "no dio su edad", la repeticion del aprendizaje del 25 y un eco de "amigo"; atribuido a Kal el silencio de "la ultima parte" sin fijar que nunca se lo dira.
 Siembra Dario/Kal (2026-09-10, Claude Code — beat DISEÑO; FRASE CANONIZADA por el autor 2026-09-26: "La tregua es por lo que le paso, señor Mercer. No por ella.", sustituye a "no tenia vela ahi. Ni en eso ni en ti", que contradecia la tregua del Cap. 9. Nota original: anadida para raizar el borrador del mensaje del Cap. 28 y la asimetria de calma entre Kal y Chiara): en el jacuzzi, Chiara pregunta como quedo Kal con Dario tras el hospital (H12); Kal cuenta que, al bajar las armas junto a su cama, Dario le dijo que "lo que te paso lo arreglaba el" y que Kal "no tenia vela ahi. Ni en eso ni en ti". Kal lo minimiza; Chiara no ("a Dario no se le pasan las cosas; las anota... dice lo que ya decidio"). Cierre de la insercion: "Kal ya lo habia guardado en el cajon de lo resuelto. Ella lo dejo encima de la mesa un rato mas." La FRASE EXACTA de Dario es inferencia del agente (DISEÑO), no canon del autor; se puede cambiar. Cotejar con la pasada editorial de Codex sobre Caps. 23-26 (nota historica: numeracion y estado de esa pasada ya no vigentes). Pendiente decision del autor: canonizar la frase exacta o reescribirla (Auditoria Parte I, 2026-09-26).
 Pasada 2026-09-10 (Claude Code, CANON DEL AUTOR — lineas dictadas por el autor): (1) encadenada la razon de Chiara para sospechar de Tommaso con su padre en la misma frase ("Es la misma institucion que me nego a mi padre. Il Consorzio.") en vez de exponerlo suelto. (2) Corregida referencia de lugar: la frase ya no dice "En el Corral no te lo nombre" (El Corral es el titulo del Cap. 9, no el sitio de esa conversacion) sino "Aquella noche, en el camino al norte" — el parador de autopista al norte de [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24c_El_Corral|Cap. 9]] es donde Chiara estuvo a un centimetro de nombrar al Consorcio. (3) Insertado intercambio de recuerdos maternos, mas intimo que expositivo: Kal pregunta por Marta en vez de presionar por mas detalle del atentado/Consorcio (pregunta sin invadir); Chiara recuerda que Marta improvisaba cuentos y cambiaba el final segun la cara de su hija, y cita la ultima frase que le dijo antes de morir, primero en italiano y despues traducida — pieza nueva de canon materno de Chiara. Kal responde con un recuerdo propio de Ruth (panqueques con tocino y miel los sabados que Dale no estaba, una cancion que tarareaba sin que Kal supiera nunca el idioma ni la letra) y la maxima de Ruth sobre elegir quienes somos. **La cancion de Ruth se deja deliberadamente sin nombre ni idioma explicito en el dialogo** — coherente con "sembrar con rasgos nordicos, no confirmar Noruega todavia" (ver [[02_Characters/Kal_Mercer]], "El origen que no esta"); investigacion de referencia hecha sobre canciones de cuna noruegas reales (ninguna citada literalmente, para no comprometer derechos de autor de piezas modernas como las de Thorbjørn Egner o Alf Prøysen/Beppe Wolgers). Ambas frases (Marta y Ruth) quedan registradas tambien en [[02_Characters/Chiara_Bellandi]] y [[02_Characters/Kal_Mercer]].
@@ -47,7 +48,7 @@ La llevó al fondo, donde el Lancia oscuro esperaba bajo la luz correcta: italia
 
 —Se nota tanto.
 
-—Es mi trabajo notarlo.
+Kal le contestó con una sonrisa de vendedor, de las que no comprometen a nada.
 
 Un vendedor de la casa —camisa con el logo, gafete, treinta y pocos— se acercó desde los escritorios con la sonrisa lista para sumarse a una venta grande. Kal no lo miró.
 
@@ -69,8 +70,6 @@ Chiara sonrió sin romper del todo el personaje.
 
 —Qué atrevido, para ser sólo el vendedor.
 
-—Sólo digo lo que veo.
-
 Firmaron la compraventa —nombre, condiciones, una cifra real— con la misma seriedad con la que habían sostenido el numerito: el auto sí cambiaba de manos. Cuando ella ya tenía las llaves, Kal la acompañó hasta el auto y, todavía con la voz de vendedor, le recomendó evitar la glorieta del sur por las tardes: los Bravos andaban moviendo algo por ahí, coches entrando y saliendo de una de las casas grandes, y si algún día ella tenía forma de echarle un ojo desde el casino, la agencia se lo iba a agradecer. Lo dijo como se dice lo del aceite cada cinco mil kilómetros. Ella se lo guardó igual.
 
 Después rompió la actuación con una sola frase, en un susurro que no le correspondía a ninguna clienta:
@@ -83,11 +82,7 @@ El jacuzzi del penthouse llevaba media hora encendido cuando por fin se metieron
 
 —Todavía no puedo creer que hicieras la voz de vendedor —dijo Chiara, la cabeza contra el borde.
 
-—Tú preguntaste por el mantenimiento como si de verdad fueras a pagarlo.
-
-—Voy a pagarlo. Y tú vas a cobrarlo.
-
-—Casi te delatas cuando dijiste "un taller de la Almendra que conozco". Una clienta de verdad no conoce talleres en la Almendra.
+—Tú preguntaste por el mantenimiento como si de verdad fueras a pagarlo. Y casi te delatas cuando dijiste "un taller de la Almendra que conozco". Una clienta de verdad no conoce talleres en la Almendra.
 
 —Una clienta de verdad, no. —Movió el agua con un dedo—. Yo sí.
 
@@ -104,8 +99,6 @@ Chiara se quedó quieta.
 —Me apuntó con un arma y los dos seguimos aquí. Lo demás son frases. —Se encogió de hombros dentro del agua—. Dudo que se acuerde, seguro ya lo dejó pasar.
 
 —A Dario no se le pasan las cosas; las anota. Y no dice lo que siente, dice lo que ya decidió.
-
-—Entonces habrá decidido tenerme cerca y de mal humor. Eso puedo manejarlo.
 
 Kal ya lo había guardado en el cajón de lo resuelto. Ella lo dejó encima de la mesa un rato más.
 
