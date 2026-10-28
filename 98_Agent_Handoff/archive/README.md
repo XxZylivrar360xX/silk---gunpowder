@@ -82,3 +82,9 @@ Copias íntegras antes de compactar el relevo (el brief medía ~1,430 palabras; 
 
 - [[98_Agent_Handoff/archive/2026-10-14_CURRENT_BRIEF|Brief acumulado]].
 - [[98_Agent_Handoff/archive/2026-10-14_PENDING|Pendientes]].
+
+## Corte del 2026-10-28
+
+Copia íntegra antes de compactar el brief (medía ~1,450 palabras): la serie de la regla 05 (Caps. 12–22) quedó en una sola entrada con sus sesiones.
+
+- [[98_Agent_Handoff/archive/2026-10-28_CURRENT_BRIEF|Brief acumulado]].
