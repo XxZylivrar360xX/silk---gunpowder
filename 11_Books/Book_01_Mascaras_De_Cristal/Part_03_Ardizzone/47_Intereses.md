@@ -21,6 +21,7 @@ DISEÑO del agente, pendiente de lectura:
 - Cierre: Chiara cuenta los días con los dedos (rima con Nadir en el 46). Sin glosa.
 - Sin modelos, calibres, cantidades ni procedimiento de entrega. No se nombra Halbrook, el expediente, el convoy (como tal) ni a Rafe. Bonnie y Mei-Lin no aparecen. Sin EPUB, commit ni push.
 La muñeca (2026-10-22, CANON DEL AUTOR en sustancia: la cuenta abierta une el silencio de Dario ante Il Consorzio de los Caps. 9-10; redaccion DISENO pendiente de lectura): al cerrar el trato Dario le mira la muñeca derecha, '¿Ya no te duele?'; Chiara no contesta. Cobro conjunto en Sombras de Poder.
+Regla de diálogo 05 (2026-10-28, a pedido del autor; prosa DISEÑO, espera lectura): fuera «Lo sé» y «Entonces no sabes» (Nadir), «Yo voy con él», «Eso ya me lo dijo», «¿Para qué?» (Garrett), «Completas», «Hablemos del tiempo», «Puedo», «Por eso no tiene nombre», «Una.» y el «Ya lo sé» a Lucía. Sesión: 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_intereses_cap53.md.
 -->
 
 # Capítulo 53 — Intereses
@@ -105,13 +106,15 @@ Nadir se levantó tan rápido que el libro se le cayó al piso. No lo recogió. 
 
 —Quiere hablar. —Nadir se acomodó la camisa dentro del pantalón, de un lado, y se le quedó salida del otro—. Wallah. El hombre más rico de la ciudad quiere hablar con nosotros a las nueve de la noche en una bodega. Eso no es hablar, señora. Eso es una factura.
 
-—Lo sé.
+Chiara no se lo negó.
 
 —¿Cuánto?
 
 —No sé todavía.
 
-—Entonces no sabes. —Nadir se volvió hacia Héctor—. Va a ir sin saber.
+Nadir se volvió hacia Héctor.
+
+—Va a ir sin saber.
 
 —Va a ir porque la citaron —dijo Héctor—. Igual que ibas tú a ese camino sin saber nada.
 
@@ -133,7 +136,7 @@ Chiara no le contestó.
 
 —Yo manejo la grúa —dijo Danny.
 
-—Yo voy con él —dijo Nadir.
+Nadir ya estaba buscando su chamarra en el perchero de la oficina.
 
 —Yo voy —dijo Héctor.
 
@@ -147,15 +150,9 @@ Héctor escupió a un lado, lejos del compresor.
 
 —Usted no quiere nada fácil, Bellandi.
 
-—Eso ya me lo dijo.
-
 Garrett guardó la libreta sin haberla abierto.
 
-—Yo los sigo de lejos —dijo—. En mi coche. No me acerco a la bodega. Me quedo donde se vea la grúa.
-
-—¿Para qué?
-
-—Para que alguien vea la grúa. —Se acomodó los lentes—. En el puerto todo tiene cámara. Que también haya alguien que no lo sea.
+—Yo los sigo de lejos —dijo—. En mi coche. No me acerco a la bodega. Me quedo donde se vea la grúa. —Se acomodó los lentes—. En el puerto todo tiene cámara. Que también haya alguien que no lo sea.
 
 Chiara asintió.
 
@@ -189,11 +186,7 @@ El hombre del Audi bajó la escalera y cerró una puerta abajo. Dario le señal�
 
 —La de Kal.
 
-—La de Mercer. Con un coche arriba. Muy discreto. —Volvió a mirar hacia la calle, donde no se veía nada desde ahí—. ¿Están completas?
-
-—Completas.
-
-—Lo sé. Mercer cumple. —Lo dijo sin calor, como se dice de una máquina que no falla—. Me dijo el catorce y el catorce entró. Me dijo completas y van a estar completas. Lo único que no me dijo fue que yo iba a esperar doce días.
+—La de Mercer. Con un coche arriba. Muy discreto. —Volvió a mirar hacia la calle, donde no se veía nada desde ahí—. ¿Están completas? —No esperó a que le contestara—. Lo sé. Mercer cumple. —Lo dijo sin calor, como se dice de una máquina que no falla—. Me dijo el catorce y el catorce entró. Me dijo completas y van a estar completas. Lo único que no me dijo fue que yo iba a esperar doce días.
 
 —Lo arrestaron.
 
@@ -209,15 +202,15 @@ Lo dijo sin pena y sin orgullo, como un hombre que conoce el tamaño de su casa.
 
 —Entonces hablemos de las cajas —dijo Chiara.
 
-—Hablemos del tiempo.
-
 Dario se apartó del ventanal. Rodeó el escritorio sin prisa, pasó la mano por el borde de la melamina como si comprobara que estaba limpia y se sentó del otro lado. No le volvió a ofrecer la silla.
 
 —Hace doce días esas cajas eran mercancía —dijo—. Hoy la base las está contando. Cada noche que pasaron en tu barrio, alguien en Camp Alder estuvo haciendo una lista, y esa lista ya salió del estado. Recibirlas hoy me cuesta más que recibirlas el catorce. Recibirlas hoy es un riesgo que yo no pedí.
 
 —Puede no recibirlas.
 
-—Puedo. —Dario sonrió apenas—. Y tu grúa se regresa a La Almendra con un coche arriba y lo que hay adentro del coche, y se queda ahí, con tres hombres a los que la base va a ir a buscar tarde o temprano, esperando a que alguien toque el portón. ¿Eso prefieres?
+Dario sonrió apenas.
+
+—Y tu grúa se regresa a La Almendra con un coche arriba y lo que hay adentro del coche, y se queda ahí, con tres hombres a los que la base va a ir a buscar tarde o temprano, esperando a que alguien toque el portón. ¿Eso prefieres?
 
 Chiara no contestó. Dario no esperó a que contestara.
 
@@ -277,19 +270,13 @@ Dario no contestó. Esperó, como esperaba Garrett: dejando la pregunta abierta 
 
 —¿Y si es algo que no quieres hacer?
 
-—Por eso no tiene nombre.
-
-El silencio duró lo que tardó un camión en cruzar frente a la bodega, de un extremo del ventanal al otro, con su carga tapada con lona. Dario lo siguió con la vista hasta que salió del vidrio.
+Chiara no le contestó eso. El silencio duró lo que tardó un camión en cruzar frente a la bodega, de un extremo del ventanal al otro, con su carga tapada con lona. Dario lo siguió con la vista hasta que salió del vidrio.
 
 Luego se levantó, rodeó el escritorio y le tendió la mano.
 
 Chiara la miró. Era la mano de siempre, la del primer día en el Monarch, la que se daba como quien cierra un trato que ya estaba decidido antes de entrar al cuarto. Se la estrechó. Dario la sostuvo un segundo más de lo que hacía falta.
 
-—Una cuenta abierta —dijo.
-
-—Una.
-
-—Con eso basta. —Le soltó la mano y le miró la muñeca derecha—. Una es mucho, Chiara. Ya lo vas a ver. ¿Ya no te duele?
+—Una cuenta abierta —dijo—. Con eso basta. —Le soltó la mano y le miró la muñeca derecha—. Una es mucho, Chiara. Ya lo vas a ver. ¿Ya no te duele?
 
 Chiara no contestó. Il Consorzio nunca se había enterado de esa muñeca, y los dos sabían por quién.
 
@@ -403,11 +390,7 @@ Chiara no dijo nada. Del otro lado se oyó una direccional, el tic-tac seco, y d
 
 —¿Cuándo lo sabe?
 
-—No sé si lo voy a saber. —Una pausa, de las que Lucía dejaba para ver qué las llenaba. Chiara no la llenó—. Esto no debería decírselo, señora Bellandi.
-
-—Ya lo sé.
-
-—Se lo digo porque es lo único que tengo, y prefiero que lo tenga usted a que no lo tenga nadie.
+—No sé si lo voy a saber. —Una pausa, de las que Lucía dejaba para ver qué las llenaba. Chiara no la llenó—. Esto no debería decírselo, señora Bellandi. Se lo digo porque es lo único que tengo, y prefiero que lo tenga usted a que no lo tenga nadie.
 
 —Gracias.
 
