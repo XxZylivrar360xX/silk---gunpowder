@@ -137,3 +137,7 @@ Una pasada. Sin segunda ronda (MICROEDICION G).
 ## VERIFY (Claude Code, supervisor, 2026-10-27)
 
 Cinco de las seis intervenciones se aprueban sin cambios. Se restaura a medias la intervención 5: vuelve «A Crowe lo iba a cobrar cuando se pudiera.» después de «Pero no era en Crowe en quien pensaba.»; queda fuera «y todavía no se podía» y «con el teléfono ya en el bolsillo». Razón: sin esa frase Kal parece soltar a Crowe, y el cierre del libro (Kal deja vivo a Crowe y Walt lo ejecuta; ver [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Cobro_Del_Levanton]]) necesita la cuenta pendiente. «No tenía prueba» solo cubría el «todavía no».
+
+## Decisiones del autor (2026-10-27)
+
+- «Lo que no sabían era de quién más»: se queda como cálculo de Kal.

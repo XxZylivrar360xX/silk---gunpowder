@@ -19,6 +19,7 @@
 - **"Todavía no":** la voz de adelante lo frena por orden, no por decencia.
 - **"Ésos no se tasaban. Ésos se encontraban.":** el deseo de Kal, al que el Libro II le da la ejecución a ella.
 - **Chiara le dio las señas a Kal** sabiendo para qué. El cobro cierra ese gesto.
+- **La búsqueda del Libro I (punto 1), en prosa desde 2026-10-27:** Cap. 15 (`12_Roma_Atrii`), al abrir la sección del chico en la cerca: Danny, Nadir y Kal preguntan en Las Calderas y en los corralones; nadie conoce al del diente gris, el anillo ni la camioneta. La pausa la impone el infarto de Héctor (18-19); el 20 la retoma con «Después de Calle Corona». DISEÑO pendiente de lectura.
 
 ## Notas de diseño (agente)
 

@@ -62,3 +62,8 @@ Prosa sin encabezado: 2336 → 2291 palabras (−45).
 - **Riesgo de prosa mas generica:** minimo; se perdio la imagen "como si revisara un motor", pero esa imagen vive en el Cap. 13, a pocas paginas.
 
 Una sola pasada; detenido aqui (MICROEDICION G). No se tocaron CURRENT_BRIEF, PENDING, log.md, INDEX, EPUB ni audio (pendiente de `--estado` del audiolibro por el agente supervisor).
+
+## Decisiones del autor (2026-10-27)
+
+- Destilería: el 14 no se toca; el trámite y el posible conflicto de interés quedan como pendiente de arco en [[98_Agent_Handoff/PENDING]].
+- Cuestionamiento (decisión del autor: Tommaso a Chiara): sección nueva en el Cap. 15 (`12_Roma_Atrii.md`, tras «Antes que Tommaso.»). El contrato llega a compras a precio de lista; Tommaso pregunta quién firma; Chiara: «Compras. Me excusé por escrito…»; él: «Ya lo leí.», y le deja su excusa fotocopiada con la fecha subrayada. Voz calibrada con la ficha de Tommaso (anillo que se detiene, pregunta de declaración, colecciona versiones; sin duelo de remates). Prosa DISEÑO pendiente de lectura.

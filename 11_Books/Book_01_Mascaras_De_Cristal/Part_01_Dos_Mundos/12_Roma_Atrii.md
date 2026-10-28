@@ -12,6 +12,8 @@ Protagonistas: Chiara Bellandi (partes 1-2), Kal Mercer (parte 3).
 Ventana temporal: parte 1 es anterior al Capitulo 11 (evento altruista, y tambien anterior/independiente de la noche de Gabriella's del Capitulo 7 y del asalto a Rowe del Capitulo 9 y del loft del 10; H12 se reubico al 24c el 2026-10-04); parte 2 ocurre la misma noche del torneo del Capitulo 11; parte 3, semanas despues -- Kal y Chiara ya viven a caballo entre el penthouse y la casa de el.
 Lugares: salon de gala (evento altruista, sin nombre fijo), The Monarch Casino & Hotel (piso de juego y caja), Almendra Towing / El Patio.
 Funcion: ejecutar beats 12-c y 13-b — nace i Sussurri con Kenji Oda; se muestra la red en funcionamiento con multiples fuentes y tipos de informacion (calle, comercio/Mabel, elite, institucional) llegando al escritorio del penthouse; y el primer roce de valores entre Kal y Chiara por el mensajero menor. Version revisada (2026-09-02): se le da contenido real y urgencia al papel -- esa misma manana un hombre no identificado pregunto en el piso del Monarch por "un Peugeot rojo, tuneado", sembrando la primera alarma aislada del hilo que se paga en el Capitulo 13 (Auster); la reaccion de Kal se ancla, sin explicarla en bloque, a su propio origen (comprado de bebe, carrera perdida por gente que movia ninos) via el mismo tic fisico de la mandibula ya usado en el Capitulo 1; y la confrontacion se extiende para que Chiara admita honestamente, sin excusarse, por que no espero a la noche.
+Siembra 2026-10-27 (decisión del autor; prosa DISEÑO pendiente de lectura; sigue TERMINADO): sección nueva tras "Antes que Tommaso." -- el contrato de Keegan llega a compras; Tommaso le pregunta a Chiara quién lo firma ("Compras. Me excusé por escrito"; "Ya lo leí") y le deja su propia excusa fotocopiada con la fecha subrayada. Resuelve el cuestionamiento del conflicto de interés de la destilería (Cap. 14, O4 de la lectura de ChatGPT). Ver 98_Agent_Handoff/sessions/2026-10-27_claude_surgery_cap14_farol.md.
+Siembra 2026-10-27 (decisión del autor; prosa DISEÑO pendiente de lectura; sigue TERMINADO): al abrir la sección del chico en la cerca, Kal lleva semanas buscando a los del levantón del Cap. 12 (el del diente gris, el del anillo en el meñique, la camioneta gris) con Danny y Nadir, sin resultado; por eso vigila quién se para afuera del Patio. Ejecuta el punto 1 de [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Cobro_Del_Levanton]] (busca y no los encuentra; lo pausa el infarto de Héctor, Caps. 18-19; lo retoma «Después de Calle Corona» en el 20). Ver 98_Agent_Handoff/sessions/2026-10-27_claude_siembra_busqueda_levanton_cap15.md.
 -->
 
 # Capítulo 15 — Roma Atrii
@@ -152,6 +154,26 @@ Antes que Tommaso.
 
 ***
 
+El contrato de suministro de Keegan llegó a compras a fines de ese mes, a precio de lista y sin una línea que lo distinguiera de los otros cuarenta. Chiara no lo vio pasar. Lo había dispuesto así.
+
+Tommaso entró a su oficina dos días después, con una carpeta que no abrió.
+
+—¿Quién firma lo de Keegan?
+
+Giraba el anillo. Chiara no levantó la vista de la pantalla.
+
+—Compras. Me excusé por escrito antes de que llegara la cotización. Está en el expediente.
+
+El anillo se detuvo.
+
+—Ya lo leí.
+
+Dejó la carpeta en el borde del escritorio, alineada con el canto, y se fue sin decir para qué había venido entonces.
+
+Chiara no la abrió hasta que la puerta se cerró. Era su propia excusa, fotocopiada, con la fecha subrayada a lápiz.
+
+***
+
 Las semanas que siguieron le enseñaron algo que ningún año en Palermo le había enseñado: cuánto puede saber una mujer que nunca sale a buscar nada.
 
 Llegaba de maneras que no seguían ningún orden. Un domingo por la mañana, todavía en bata, encontró sobre el escritorio del penthouse dos papeles distintos, cada uno con su propio peso.
@@ -171,6 +193,10 @@ Nada de esto llegaba con instrucciones. Nada llegaba en el papel bueno, ni en la
 Chiara empezaba a entender que no necesitaba una sola red. Necesitaba dos: una que ella construía dato por dato, persona por persona, con paciencia de artesana — y otra que ya existía sola, hacía años, y que sólo tenía que aprender a leer.
 
 ***
+
+Para entonces Kal llevaba semanas buscando a un hombre de cuarenta años con un diente gris del lado izquierdo. Danny había preguntado en los talleres de Las Calderas; Nadir, en las dos cantinas junto a las vías; Kal, en los corralones donde la cuota se pagaba sin recibo. Nadie lo conocía. Nadie conocía tampoco un anillo en el meñique con la piedra hacia adentro, ni una camioneta gris sin ventanas que hubiera cambiado de placas ese mes.
+
+Desde entonces se fijaba en quién se paraba afuera del Patio.
 
 Un chico de doce o trece años se paseaba una tarde cerca de la cerca trasera de Almendra Towing con la clase de disimulo que sólo delata a quien nunca lo ha hecho antes.
 

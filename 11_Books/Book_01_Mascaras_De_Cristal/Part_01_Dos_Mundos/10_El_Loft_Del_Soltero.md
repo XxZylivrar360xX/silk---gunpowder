@@ -627,7 +627,7 @@ La mesa del comedor llegó al día siguiente. Era de madera oscura, con estructu
 
 —Los muchachos comen.
 
-Chiara repitió sus propias palabras con tanta seriedad que él tardó un segundo en reconocerlas. Cuando las reconoció, ella ya estaba midiendo otra cosa.
+Chiara le devolvió sus propias palabras con tanta seriedad que él tardó un segundo en reconocerlas. Cuando las reconoció, ella ya estaba midiendo otra cosa.
 
 Kal pasó la mano por el borde. La mesa no era delicada. Podía recibir platos calientes, herramientas olvidadas, cuentas del taller y codos de ocho personas. Asintió.
 

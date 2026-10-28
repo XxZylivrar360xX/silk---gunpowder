@@ -108,3 +108,8 @@ Ancla del Cap. 12: el levantón es un **sábado** (día 0); férula «tres seman
 
 - No se editaron CURRENT_BRIEF, PENDING, log.md ni INDEX; no se generó EPUB ni audio. Tras este cambio de prosa toca correr `python -B .\tools\audiolibro\build_audiobook.py --estado` (lo decide el supervisor).
 - Una sola pasada (MICROEDICION G); detenido.
+
+## Decisiones del autor (2026-10-27)
+
+- «Chiara repitió sus propias palabras» pasa a «Chiara le devolvió sus propias palabras» (aplicado).
+- Férula más allá de tres semanas: se deja así.
