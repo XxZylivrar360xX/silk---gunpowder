@@ -123,10 +123,10 @@
     "13_Auster.md": {
       "capitulo": 16,
       "titulo": "Auster",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-26",
-      "desde": "2026-10-26 00:23"
+      "desde": "2026-10-27 22:43"
     },
     "14_La_Regla_Del_Telefono.md": {
       "capitulo": 17,
@@ -267,58 +267,58 @@
     "29_El_Patio_Ajeno.md": {
       "capitulo": 34,
       "titulo": "Una silla",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-23",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 22:43"
     },
     "30_Media_Baraja.md": {
       "capitulo": 35,
       "titulo": "Media Baraja",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-23",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 22:43"
     },
     "31_Vamos_A_Casa.md": {
       "capitulo": 36,
       "titulo": "Vamos a casa",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-23",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 22:43"
     },
     "32_Linea_Directa.md": {
       "capitulo": 37,
       "titulo": "Línea directa",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-23",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 22:43"
     },
     "33_Mas_De_La_Cuenta.md": {
       "capitulo": 38,
       "titulo": "Lo único que es mío",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 22:43"
     },
     "33b_La_Mano.md": {
       "capitulo": 39,
       "titulo": "La mano",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 22:43"
     },
     "34_Mi_Pareja.md": {
       "capitulo": 40,
       "titulo": "Mi pareja",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 00:37"
+      "desde": "2026-10-27 22:43"
     },
     "35_Sin_Fecha_De_Regreso.md": {
       "capitulo": 41,
@@ -1066,6 +1066,46 @@
     [
       "2026-10-27 22:20",
       "Cap. 33 (28_La_Correa.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 22:43",
+      "Cap. 16 (13_Auster.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 22:43",
+      "Cap. 34 (29_El_Patio_Ajeno.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 22:43",
+      "Cap. 35 (30_Media_Baraja.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 22:43",
+      "Cap. 36 (31_Vamos_A_Casa.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 22:43",
+      "Cap. 37 (32_Linea_Directa.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 22:43",
+      "Cap. 38 (33_Mas_De_La_Cuenta.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 22:43",
+      "Cap. 39 (33b_La_Mano.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-27 22:43",
+      "Cap. 40 (34_Mi_Pareja.md)",
       "audio pendiente: cambió la prosa"
     ]
   ]

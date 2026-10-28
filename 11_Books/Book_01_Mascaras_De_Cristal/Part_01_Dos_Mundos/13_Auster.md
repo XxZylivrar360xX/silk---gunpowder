@@ -13,6 +13,7 @@ Foto de Plaza Corona (2026-10-18, orden del autor; DISENO del agente, pendiente 
 Vela de Palermo (2026-10-18, orden del autor; capitulo TERMINADO, el estado se conserva): recuerdo movido intacto desde el Cap. 2 a la noche de domestici eius, antes de "Esa noche no encendio una vela". Puente DISENO: "Lo primero que le pidieron las manos fue una vela." El "ya lo arreglo yo" de Corrado se cobra en la lampara de Chiara.
 Arco lector 11-13 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_11-13_Lector; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): P1, P3, P4A, P5, P6, P8a/b/d aplicados. Kenji entrega -> vela y recuerdo de Corrado -> lampara -> MICH. 7:6 y sintesis; 'Su propia casa' = el Monarch; el papel del cajon (subjefa) se saca y se devuelve sin usar (Chiara no sabe su nombre; el 15 une apellido y rumor); demora de tres semanas hecha decision ('Dijiste que me lo traias tu' / 'Te lo traigo entero...'); nota al margen ('Ps. 26:12') sin tachar; Kal espera de pie y se sienta tras el 'Sientese'. VERIFY (2026-10-22): V2 margen 'Ps. 26:12' (no 'testes iniqui'); V4 'sentado en una de sus mesas'; V5 'el olor de su propio papel'. R1/R3 (2026-10-22): 'Tardó poco más de dos semanas' (apertura) y 'Llevaba semanas faltando' (taller); dialogo 'tres semanas' intacto; Auster en hoja aparte con referencia al margen; triada 'gasolinera / del sur / Kenji'. D1–D3 (2026-10-22): papel de la subjefa = 'el de la costa' (apertura, sintesis, cierre; sustituye 'tercer papel'/'del cajon'); apertura 'La pregunta vino en tres piezas.' (sustituye 'Tardó poco más de dos semanas'); nota de la gasolinera puesta por escrito en hoja suelta, como la del sur. E1–E4 (2026-10-22): 'cenaba con alguien' (fuera 'en la costa', ya en 'el de la costa'); apertura 'llegó'->'vino' (se quedan los 'llegó' de las piezas, anafora); 'lo pasó a una hoja suelta' (fuera 'por escrito'); 'otro camino' (fuera 'un tercer camino'; 'un tercero', 'tres conversaciones'/'Tres favores' protegidos). E5 (2026-10-22): 'otro camino... los otros dos' -> 'un camino mas ancho... los dos que ya tenia'.
 Regla de dialogo 05 (2026-10-26, encargo del autor; DISENO pendiente de lectura; el estado se conserva): seis cortes de eco/remate (Mabel y los fiscales, el taller, Lucia). Detalle: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_auster_cap16]].
+Causalidad y Corrado (2026-10-27, nota ChatGPT; versiones elegidas por el autor; DISENO pendiente de lectura; el estado se conserva): dialogo de Corrado = propuesta A ajustada (preguntas de la niña, gesto, 'Despues ya lo arreglo yo' / 'Quedate detras de mi' separados); Kenji: 'Y que el coche ya tenia foto' (nexo con el Peugeot, A-02); antes de la caida del caso, una frase con lo que quedaba contra Kal (A-01). A-03 a A-05 sin tocar. Detalle: [[98_Agent_Handoff/sessions/2026-10-27_claude_auster_causalidad_corrado]].
 -->
 
 # Capítulo 16 — Auster
@@ -79,7 +80,7 @@ La tercera pieza no llegó como gasolina ni como café. Llegó como siempre lleg
 
 Kenji se lo entregó una noche de martes, en la caja, sin mirarla a los ojos, con la misma cara pareja que usaba para todo.
 
-—Un abogado perdió mucho en la mesa cuatro —dijo, bajo, mientras contaba fichas que no necesitaba contar—. Habló más de la cuenta con el que tenía al lado. Dijo un nombre que no era el suyo.
+—Un abogado perdió mucho en la mesa cuatro —dijo, bajo, mientras contaba fichas que no necesitaba contar—. Habló más de la cuenta con el que tenía al lado. Dijo un nombre que no era el suyo. Y que el coche ya tenía foto.
 
 Chiara no le pidió el nombre ahí mismo. Se llevó el papel al penthouse y no lo abrió todavía.
 
@@ -107,13 +108,25 @@ Chiara había mirado hacia el fondo del pasillo central, donde Corrado esperaba 
 
 —¿Por qué?
 
-Corrado se había acercado a ellas sin prisa, los pasos resonando bajo la bóveda vacía.
+Corrado se había acercado a la banca y había mirado la vela.
 
-—Porque prefiero arreglarlo personalmente. No te preocupes tanto por todo.
+—Tu madre sabe esperar. A mí me cuesta.
 
 —¿Y si pasa algo?
 
-—Ya lo iremos viendo. Siempre hay tiempo. Ven acá un momento. Siempre igual, no pasa nada, ya lo arreglo yo. Ya entenderás cuando tengas mi edad, ya verás. Quédate detrás de mí.
+Se agachó frente a ella, sin prisa.
+
+—Entonces vienes a buscarme.
+
+—¿Y después?
+
+Le acomodó el cuello del abrigo.
+
+—Después ya lo arreglo yo.
+
+Le tendió la mano. Cuando Chiara se la dio, se incorporó y quedó delante de ella.
+
+—Quédate detrás de mí.
 
 La niña había obedecido. No porque creyera que su padre podía arreglarlo todo, sino porque por un instante bastaba con que él estuviera delante.
 
@@ -252,6 +265,8 @@ Kal asintió una vez, como quien no tiene nada que confirmar.
 Lo confirmaron. Villani Motors recordaba la venta en efectivo — Chiara se había asegurado de eso tres días antes, con una llamada que ni siquiera mencionó el nombre de Kal. El circuito de Kingsley Field tenía un registro de mantenimiento a nombre de Almendra Towing, real, aburrido, sin nada que ocultar porque no ocultaba nada más que la mitad de la historia.
 
 Y en algún punto de esa misma semana, alguien de la Fiscalía empezó a hacer preguntas sobre un corredor de piezas del norte que pagaba cargamentos enteros sin dejar rastro en papel — una pista más ancha, más fácil, más barata que perseguir a un mecánico con contrato municipal o a un hombre del sur con un abogado carísimo y ninguna prueba nueva.
+
+Lo que quedaba contra Kal era una foto sin caras, un taller con motivo para andar de noche por Kingsley Field y un dinero que ya tenía de dónde venir; el hilo del dinero, además, ahora llevaba al norte.
 
 El caso, que había sido sólido, dejó de serlo sin que nadie pudiera señalar el momento exacto en que se cayó.
 

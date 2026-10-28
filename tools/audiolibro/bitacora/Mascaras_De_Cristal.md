@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-27 22:20. Al día: 41 de 57.
+Actualizada: 2026-10-27 22:43. Al día: 33 de 57.
 
 ## Pendientes
 
@@ -12,6 +12,7 @@ Actualizada: 2026-10-27 22:20. Al día: 41 de 57.
 | 13 | Dos sillas vacías | PENDIENTE | cambió la prosa | 2026-10-27 21:25 |
 | 14 | El farol | PENDIENTE | cambió la prosa | 2026-10-27 21:25 |
 | 15 | Roma Atrii | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
+| 16 | Auster | PENDIENTE | cambió la prosa | 2026-10-27 22:43 |
 | 22 | Lo que nadie estaba mirando | PENDIENTE | cambió la prosa | 2026-10-27 21:25 |
 | 23 | Lo pequeño | PENDIENTE | cambió la prosa | 2026-10-27 21:28 |
 | 24 | El primer huésped | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
@@ -24,6 +25,13 @@ Actualizada: 2026-10-27 22:20. Al día: 41 de 57.
 | 31 | Me encuentro bien | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
 | 32 | Lleve equipaje | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
 | 33 | No hace falta | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
+| 34 | Una silla | PENDIENTE | cambió la prosa | 2026-10-27 22:43 |
+| 35 | Media Baraja | PENDIENTE | cambió la prosa | 2026-10-27 22:43 |
+| 36 | Vamos a casa | PENDIENTE | cambió la prosa | 2026-10-27 22:43 |
+| 37 | Línea directa | PENDIENTE | cambió la prosa | 2026-10-27 22:43 |
+| 38 | Lo único que es mío | PENDIENTE | cambió la prosa | 2026-10-27 22:43 |
+| 39 | La mano | PENDIENTE | cambió la prosa | 2026-10-27 22:43 |
+| 40 | Mi pareja | PENDIENTE | cambió la prosa | 2026-10-27 22:43 |
 
 ## Capítulos
 
@@ -44,7 +52,7 @@ Actualizada: 2026-10-27 22:20. Al día: 41 de 57.
 | 13 | Dos sillas vacías | PENDIENTE | 2026-10-25 |
 | 14 | El farol | PENDIENTE | 2026-10-26 |
 | 15 | Roma Atrii | PENDIENTE | 2026-10-26 |
-| 16 | Auster | AL DIA | 2026-10-26 |
+| 16 | Auster | PENDIENTE | 2026-10-26 |
 | 17 | La regla del teléfono | AL DIA | 2026-10-26 |
 | 18 | Yo lo llevo | AL DIA | 2026-10-26 |
 | 19 | El sobre rojo | AL DIA | 2026-10-26 |
@@ -62,13 +70,13 @@ Actualizada: 2026-10-27 22:20. Al día: 41 de 57.
 | 31 | Me encuentro bien | PENDIENTE | 2026-10-23 |
 | 32 | Lleve equipaje | PENDIENTE | 2026-10-23 |
 | 33 | No hace falta | PENDIENTE | 2026-10-23 |
-| 34 | Una silla | AL DIA | 2026-10-23 |
-| 35 | Media Baraja | AL DIA | 2026-10-23 |
-| 36 | Vamos a casa | AL DIA | 2026-10-23 |
-| 37 | Línea directa | AL DIA | 2026-10-23 |
-| 38 | Lo único que es mío | AL DIA | 2026-10-24 |
-| 39 | La mano | AL DIA | 2026-10-24 |
-| 40 | Mi pareja | AL DIA | 2026-10-24 |
+| 34 | Una silla | PENDIENTE | 2026-10-23 |
+| 35 | Media Baraja | PENDIENTE | 2026-10-23 |
+| 36 | Vamos a casa | PENDIENTE | 2026-10-23 |
+| 37 | Línea directa | PENDIENTE | 2026-10-23 |
+| 38 | Lo único que es mío | PENDIENTE | 2026-10-24 |
+| 39 | La mano | PENDIENTE | 2026-10-24 |
+| 40 | Mi pareja | PENDIENTE | 2026-10-24 |
 | 41 | Sin fecha de regreso | AL DIA | 2026-10-24 |
 | 42 | También las mañanas | AL DIA | 2026-10-24 |
 | 43 | Cuatro letras | AL DIA | 2026-10-24 |
@@ -89,6 +97,14 @@ Actualizada: 2026-10-27 22:20. Al día: 41 de 57.
 
 ## Historial
 
+- 2026-10-27 22:43 · Cap. 40 (34_Mi_Pareja.md) · audio pendiente: cambió la prosa
+- 2026-10-27 22:43 · Cap. 39 (33b_La_Mano.md) · audio pendiente: cambió la prosa
+- 2026-10-27 22:43 · Cap. 38 (33_Mas_De_La_Cuenta.md) · audio pendiente: cambió la prosa
+- 2026-10-27 22:43 · Cap. 37 (32_Linea_Directa.md) · audio pendiente: cambió la prosa
+- 2026-10-27 22:43 · Cap. 36 (31_Vamos_A_Casa.md) · audio pendiente: cambió la prosa
+- 2026-10-27 22:43 · Cap. 35 (30_Media_Baraja.md) · audio pendiente: cambió la prosa
+- 2026-10-27 22:43 · Cap. 34 (29_El_Patio_Ajeno.md) · audio pendiente: cambió la prosa
+- 2026-10-27 22:43 · Cap. 16 (13_Auster.md) · audio pendiente: cambió la prosa
 - 2026-10-27 22:20 · Cap. 33 (28_La_Correa.md) · audio pendiente: cambió la prosa
 - 2026-10-27 22:20 · Cap. 32 (27_Riesgo_Pendiente.md) · audio pendiente: cambió la prosa
 - 2026-10-27 22:20 · Cap. 31 (26_Me_Encuentro_Bien.md) · audio pendiente: cambió la prosa
