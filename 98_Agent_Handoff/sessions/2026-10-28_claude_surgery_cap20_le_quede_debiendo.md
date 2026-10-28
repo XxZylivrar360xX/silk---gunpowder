@@ -17,7 +17,7 @@
 ## Sin intervención
 
 - **O-02 (Walt, «sé mentir»): se protege.** Es un rasgo canon de su ficha y su voz (miente sin cambiar la cara, y la mesa de póker del Casino lo paga después). En la escena ya se paga: le dice a Irene «Nueve y medio. Buena conducta.» y en casa de Héctor dice «Me salió en diez años». Lo leo como una mentira chica sin glosa. Si el autor no la quiere así, hay que decidirlo aparte.
-- **O-01 (ocho bultos): PENDIENTE del autor.** No hay registro en prosa: el robo pasa fuera de escena (el corte del 2026-09-26 quitó la apertura del Cap. 18) y ningún capítulo dice si la Ronda recuperó la mercancía al atraparlos. «Los ocho bultos, íntegros» da a entender que hay que devolverlos, y el trato gratuito queda como algo adicional. No se escribió nada.
+- **O-01 (ocho bultos): resuelto por el autor (CANON, 2026-10-28).** La Ronda recuperó los bultos al atraparlos; no hay escena nueva. En la negociación, «Los ocho bultos, íntegros. Y algo aparte.» pasa a «Los ocho bultos ya volvieron, íntegros; los agarramos con la carga. Queda algo aparte.». Así el trabajo gratuito es sólo la sanción por meterse en su territorio. «Kal ya sabía que esto iba a llegar» sigue funcionando con «Queda algo aparte».
 - **O-04 (Danny en *Línea directa*): vigilar.** Irene sólo libera a «su muchacho» (Nadir). No queda escrito qué pasa con Danny. No se tocó el 37.
 
 ## Protegido
