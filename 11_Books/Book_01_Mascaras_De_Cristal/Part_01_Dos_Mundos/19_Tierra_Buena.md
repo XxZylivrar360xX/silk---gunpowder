@@ -4,6 +4,7 @@ Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_C
 PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): la parcela gana escala (camioneta en el camino viejo, ondulación que esconde la mitad del terreno, viento sobre el pasto) y Harper la lee caminando: el terrón seco por fuera y oscuro por dentro, el carrizo, la propiedad de arriba cuesta arriba; Kal la alcanza en el carrizo. Kal lee accesos (por dónde entra un camión) en vez de "como quien ya lo ve terminado". El cuarto queda de vuelta hacia el camino, junto a la cerca. Sin canon geográfico nuevo, salvo la ondulación.
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): fuera la glosa de como se llevan Kal y Claudio, la cola "con la misma velocidad..." y dos "de verdad"; "Los lentes eran una herramienta, no una vanidad." La videollamada conserva su contracorte (decision del autor); el letrero del notario se deja. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B.md §9.
 Cirugia de dialogo de terceros 2026-10-04 (S3 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]]; sigue TERMINADO, la prosa nueva es DISEÑO pendiente de lectura): Harper con oficio (CANON DEL AUTOR: crecio en rancho). Decisiones del autor: el dato es el agua (el "riego" del papel baja del canal del vecino de arriba, que lo cierra en julio; "a ti no te va a abrir"), y "¿Y tu socio?" pasa a "¿A quien le contesto?". Fuera "No necesito caridad", la explicacion de la renta y "como quien reporta el clima" (ahora "Busco tardes"; la renta se ve en el cuarto). El "¿Por que yo?" lo contesta Kal con el dato de ella ("Porque a mi no me va a abrir"); la imagen "como si el cafe le debiera algo" queda una vez, en el flashback. "Aqui" del Gelsomino corregido a "las tardes". Fuera "al final" y "algo en la voz sonaba distinto" del cierre del trato. Pago nuevo en el salto de semanas: Harper negocio sola con el vecino y no lo cuenta. Sesion: 98_Agent_Handoff/sessions/2026-10-04_claude_cirugia_terceros_S3.md.
+Regla 05 de dialogo 2026-10-28 (encargo del autor; sigue TERMINADO, la prosa nueva es DISEÑO pendiente de lectura): cuatro cortes de eco/remate (Garrett no contesta "Eso es lo que la hace buena"; fuera "¿Nada más?" / "Nada más."; "¿Tu tierra?" pasa a gesto; Kal pierde el turno tras "Nunca paras de sorprenderme"). Sesion: 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_tierra_cap22.md.
 Protagonistas: Kal Mercer, Harper Walker. Primera aparicion en prosa de Garrett Cross. Aparicion breve de Claudio (dueño de Il Gelsomino).
 Ventana temporal: en algun punto del mismo periodo que los capitulos de Kal/Chiara ya escritos -- meses despues de que ellos empezaran a pasar tiempo juntos (el flashback del parque lo confirma). Sin hito H asignado -- es un capitulo de expansion de El Patio, no de la relacion central.
 Lugares: notaria, Il Gelsomino, una parcela nueva al norte de San Aurelio, un parque cerca de Santa Lucia (flashback).
@@ -19,9 +20,9 @@ Firmó el terreno un martes, en la oficina de un notario que olía a café frío
 
 —Es tierra que nadie más estaba mirando.
 
-—Eso es lo que la hace buena.
+Garrett no contestó; pasó a la hoja siguiente.
 
-Garrett llevaba, como siempre, los lentes oscuros puestos incluso ahí adentro, con la luz de la oficina apenas suficiente para leer. Nadie en el cuarto le preguntó por qué — la gente que lo conocía sabía que la misma metralla que le había abierto el costado a Jim aquella tarde le había dejado a él otro precio que pagar: fotofobia, le habían dicho los médicos, un nombre limpio y clínico para algo que en la práctica significaba que la luz de un mediodía cualquiera le clavaba agujas detrás de los ojos si se quedaba expuesto demasiado tiempo. Moreno, con barba corta y el pelo negro rizado más largo de lo que cualquier reglamento militar habría tolerado. Los lentes eran una herramienta, no una vanidad.
+Llevaba, como siempre, los lentes oscuros puestos incluso ahí adentro, con la luz de la oficina apenas suficiente para leer. Nadie en el cuarto le preguntó por qué — la gente que lo conocía sabía que la misma metralla que le había abierto el costado a Jim aquella tarde le había dejado a él otro precio que pagar: fotofobia, le habían dicho los médicos, un nombre limpio y clínico para algo que en la práctica significaba que la luz de un mediodía cualquiera le clavaba agujas detrás de los ojos si se quedaba expuesto demasiado tiempo. Moreno, con barba corta y el pelo negro rizado más largo de lo que cualquier reglamento militar habría tolerado. Los lentes eran una herramienta, no una vanidad.
 
 Firmó Kal. Firmó el vendedor, un hombre mayor que llevaba esa tierra en la familia desde antes de que San Aurelio tuviera nombre y que ya no tenía quién la trabajara. Garrett selló la última página con la fecha y guardó la copia en una carpeta que ya tenía etiqueta.
 
@@ -95,10 +96,6 @@ Harper miró el cuarto más tiempo que el terreno.
 
 —A mí.
 
-—¿Nada más?
-
-—Nada más.
-
 —¿Por qué yo?
 
 —Porque a mí no me va a abrir.
@@ -145,7 +142,7 @@ Chiara parpadeó, como si la frase necesitara un segundo intento.
 
 —Ah. —Se subió el ala del sombrero con un dedo—. Es que estoy trabajando mi tierra.
 
-—¿Tu tierra?
+Chiara acercó la cara a la pantalla, como si así pudiera ver más allá del sombrero.
 
 —Ah, cierto, no te conté. Compré una parcela.
 
@@ -159,9 +156,7 @@ Se rió, una carcajada corta y de verdad que llegó hasta el otro lado del terre
 
 —Kal. Kal Mercer. —Chiara negó con la cabeza, con esa media sonrisa que reservaba para cuando no sabía qué más decir—. Nunca paras de sorprenderme.
 
-—Espero que eso no se me acabe nunca.
-
-—Estoy segura que no.
+Kal no encontró qué contestarle. Se bajó el ala del sombrero, aunque a la cámara no le escondía nada.
 
 —Por cierto —dijo Kal, ya más serio—, también estoy buscando abogado. Tuve un problema con mi socio, el dueño del espacio donde está el concesionario. Parece que en papel me sacó completo del acuerdo.
 

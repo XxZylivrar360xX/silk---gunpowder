@@ -1,6 +1,6 @@
 # Current Brief
 
-Actualizado: 2026-10-26. Máximo 800 palabras. Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-10-22_CURRENT_BRIEF]].
+Actualizado: 2026-10-28. Máximo 800 palabras. Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-10-22_CURRENT_BRIEF]].
 
 ## Foco y siguiente paso
 
@@ -34,6 +34,7 @@ Actualizado: 2026-10-26. Máximo 800 palabras. Brief anterior íntegro: [[98_Age
 - **Cap. 19 (archivo 16; 2026-10-26, DISEÑO, espera lectura):** regla 05; ocho cortes de eco/remate (hospital y coche: Kal pierde turnos, cuenta las piedras de Marisol; cadena Diego reducida); intactos «Cuatro letras», «Con miedo y todo» y *balayage* ([[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_sobre_rojo_cap19]]).
 - **Cap. 20 (archivo 17; 2026-10-26, DISEÑO, espera lectura):** regla 05; ocho cortes de eco/remate (Kal pierde turnos ante Irene, que no contesta "No le pedí el aviso"); intactos "Buena conducta", "Le quedé debiendo", el Tasador y el discurso de la sorpresa ([[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_debiendo_cap20]]).
 - **Cap. 21 (archivo 18; 2026-10-26, DISEÑO, espera lectura):** regla 05; siete cortes de eco/remate (reloj, boutique, juego de preguntas; "El juego fue idea mía" sin respuesta: Kal contesta abriendo la puerta); intactos el nueve por ciento, el préstamo, la boina y la conversación del miedo ([[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_dia_nublado_cap21]]).
+- **Cap. 22 (archivo 19; 2026-10-28, DISEÑO, espera lectura):** regla 05; cuatro cortes de eco/remate (Garrett no contesta en la notaría; Kal pierde el turno tras "Nunca paras de sorprenderme"); intactos el agua del de arriba, Rivers y el porcentaje ([[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_tierra_cap22]]).
 - **Caps. 14–16 (archivos 11–13; 2026-10-22, autorizado):** arco lector aplicado: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Propuesta_Arco_Caps_11-13_Lector]].
 - **Vento (CANON 2026-10-22):** siembra al final del 38; muere en el Cap. 39 *La mano* (archivo 33b; ~mediados de oct). [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]].
 - **Rocco (CANON 2026-10-22):** siembras en 1, 26, 35, 37 y 52 para el momento "John Wick" del II. Ficha: [[02_Characters/Rocco]].
