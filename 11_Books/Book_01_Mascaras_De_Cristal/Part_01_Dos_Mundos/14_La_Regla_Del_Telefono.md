@@ -12,14 +12,14 @@ Cierre corregido (2026-09-03): ya NO termina con Kal prendiendo el telefono y vi
 Nombre del lago del imán (2026-10-08, encargo del autor; DISEÑO): *Lake Meriwether*. No es [[05_Locations/El_Lago]] (H7).
 Arco lector 14-16 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_14-16_Lector; sigue TERMINADO; prosa nueva DISEÑO pendiente de lectura): A2, A9 aplicados.
 Regla de dialogo 05 (2026-10-26, encargo del autor; DISENO pendiente de lectura; el estado se conserva): doce cortes de eco/remate (salida, nevera, piedras, derecho, la casa, el "dai", la amiga); Kal ya no dice ni oye el nombre de Chiara hasta "Dilo tu tambien". Detalle: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_telefono_cap17]].
-Escena nueva "Las notas" (2026-10-27, encargo del autor; DISENO pendiente de lectura; el estado se conserva): domingo temprano, Marisol confiesa que reprobo dos parciales, falto a clase y le mintio el sabado ("Sobreviviendo"). Kal la regaña de pie, sin subir la voz (la mentira, no la nota), pone condicion (hablar con los profesores, mandarle las notas), se sienta, le choca el hombro con media sonrisa: "Todo va a estar bien." Sustituye la version del choque del carro de Michael (descartada por el autor: precedente del Audi en el Cap. 24 y eco de mala conductora para el choque del Libro II). Fuera la muletilla "¿sabes?" en "Lo extraño". Detalle: [[98_Agent_Handoff/sessions/2026-10-27_claude_cap17_escena_las_notas]].
+Escena nueva "Las notas" (2026-10-27, encargo del autor; DISENO pendiente de lectura; el estado se conserva): domingo temprano, Marisol confiesa que reprobo dos parciales, falto a clase y le mintio el sabado ("Sobreviviendo"). Kal la regaña de pie, sin subir la voz (la mentira, no la nota), pone condicion (hablar con los profesores, mandarle las notas), se sienta, le choca el hombro con media sonrisa: "Todo va a estar bien." Sustituye la version del choque del carro de Michael (descartada por el autor: precedente del Audi en el Cap. 24 y eco de mala conductora para el choque del Libro II). Fuera la muletilla "¿sabes?" en "Lo extraño". Remate (2026-10-27, direccion del autor via nota ChatGPT AUT-01; DISENO pendiente de lectura): sale "Tu papá reprobó Química dos veces" y la risa; entra el orgullo de Kal por Marisol como hija de La Almendra, con "tipos como yo" como eco de "somos plebe" (Cap. 7) sin glosa; reaccion minima; "Todo va a estar bien" intacto. Tambien: "Desde Auster" -> "Desde que fue a verlo al taller" (Kal no conoce el nombre); fuera la cifra "la mitad de las confesiones falsas". Detalle: [[98_Agent_Handoff/sessions/2026-10-27_claude_cap17_escena_las_notas]].
 -->
 
 # Capítulo 17 — La regla del teléfono
 
 El papel seguía sobre la repisa, doblado en cuatro, donde llevaba semanas sin que Kal lo tirara ni lo abriera. *Roma Atrii* por fuera, en la letra que ya se sabía de memoria sin haber querido aprenderla. Lo miró un segundo de más mientras cerraba el bolso, decidió otra vez que no era el día, y salió con la casa a medio ordenar.
 
-Chiara estaba cumpliendo su palabra: lo que tuviera que llegarle, se lo traía ella. Desde Auster no le había traído nada. A Kal le había sobrado tiempo para darse cuenta de que lo había estado esperando.
+Chiara estaba cumpliendo su palabra: lo que tuviera que llegarle, se lo traía ella. Desde que fue a verlo al taller no le había traído nada. A Kal le había sobrado tiempo para darse cuenta de que lo había estado esperando.
 
 Cerró con llave y cargó la camioneta del taller, la que no llamaba la atención en ningún lado.
 
@@ -203,7 +203,7 @@ Marisol se rió, corta y sin malicia.
 
 Marisol lo pensó de verdad, no como pregunta de cortesía.
 
-—Que la policía puede mentirte en un interrogatorio. Sobre las pruebas que tiene, sobre lo que ya confesó tu cómplice, sobre lo que sea. Es legal. Se llama engaño investigativo, y la mitad de las confesiones falsas del país salen de ahí — gente que cree que ya lo tienen todo y prefiere admitir algo que no hizo antes que seguir esperando lo peor.
+—Que la policía puede mentirte en un interrogatorio. Sobre las pruebas que tiene, sobre lo que ya confesó tu cómplice, sobre lo que sea. Es legal. Se llama engaño investigativo, y así han sacado confesiones falsas — gente que cree que ya lo tienen todo y prefiere admitir algo que no hizo antes que seguir esperando lo peor.
 
 —¿Y qué hace uno?
 
@@ -359,9 +359,9 @@ Ella no contestó. Se limpió la cara con la manga de la chaqueta, rápido, como
 
 Kal se sentó entonces en la piedra, a su lado, de cara al arroyo. Estuvieron así un rato, sin decir nada, oyendo el agua de la olla empezar a moverse. Después le chocó el hombro con el suyo, una vez, y le salió media sonrisa.
 
-—Tu papá reprobó Química dos veces. Tu abuela nunca se enteró.
+—Hazlo mejor, Marisol. Que allá sepan que eres de La Almendra. De ahí salimos tipos como yo. Que vean que también sale gente extraordinaria.
 
-Marisol soltó una risa corta, mojada, y asintió.
+Marisol se quedó mirando el arroyo. Asintió, sin soltar la taza.
 
 —Todo va a estar bien.
 
