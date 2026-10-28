@@ -195,17 +195,13 @@ Dario no se movió de donde estaba.
 
 —Curioso. Nadie me avisó del incidente hasta pasado el mediodía. Para cuando llegué, usted ya la había traído, ya había hablado con los médicos, y ya había entrado a mi hipódromo sin mi permiso.
 
-—Fui a buscarla. No a pedir permiso.
-
-—El hipódromo es mío.
+Kal cerró la puerta a su espalda y no contestó.
 
 —Voy a preguntarle una vez, con la cortesía que se merece la situación —dijo Dario—. ¿Qué sabe usted de lo que le pasó a Chiara que yo no sé?
 
 —Lo mismo que usted. Nada.
 
 —No le creo.
-
-—No me importa.
 
 Fue Dario quien sacó el arma primero — despacio, casi ceremonial, como quien corrige un malentendido de protocolo más que amenaza a un hombre. Kal tuvo la suya afuera antes de que la de Dario terminara de subir.
 
