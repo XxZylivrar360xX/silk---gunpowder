@@ -5,6 +5,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 ## Sesiones recientes
 
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_cuatro_letras_cap43]] · Cap. 43: regla 05 en *Cuatro letras* (se rompe la máquina común «No es…» / «Entonces…» del gag de «Roma»; carta, Héctor y cocaína intactos). DISEÑO.
+- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_al_reves_cap44]] · Cap. 44: regla 05 en *Al revés* (fuera cadenas de eco en el piano y remates dobles; líneas canon intactas). DISEÑO.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_tambien_las_mananas_cap42]] · Cap. 42: regla 05 en *También las mañanas* (4 cortes de remate y pie; canon de la llave, «Sin duda alguna», «¿Faltó más?» y Héctor intactos). DISEÑO.
 - 2026-10-27: [[98_Agent_Handoff/sessions/2026-10-27_claude_auster_causalidad_corrado]] · Cap. 16 *Auster*: Corrado (propuesta A ajustada) y nexos Kenji/caso; continuidad: el expediente del Peugeot sigue abierto y Kal sale de su centro (no se cae).
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_sin_fecha_de_regreso_cap41]] · Cap. 41: regla 05 en *Sin fecha de regreso* (8 cortes de eco y remate; canon del *Ciao*, «Qué abrupto» y Anya intactos). DISEÑO.

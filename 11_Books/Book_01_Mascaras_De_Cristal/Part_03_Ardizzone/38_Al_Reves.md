@@ -31,6 +31,7 @@ Función: celebración coral que se convierte en el gatillo del viaje a Palermo.
 - **ORDEN — RESUELTO POR EL AUTOR (2026-09-20, misma sesión):** el orden viejo (F1 → Los Tres Días → reconciliación → H13 → Palermo) queda **SUPERSEDIDO**. Nuevo canon: `H16 → Cuatro letras → fiesta / H13 → Palermo (H17) → regreso (H18) → investigación de Matteo / F1 → Los Tres Días → reconciliación`. Razón del autor: F1 pesa más después de Palermo, cuando Blake y la bala ya establecieron que Chiara normalmente sí le cuenta las cosas a Kal — su "Nada" sobre Matteo será mucho más grave. Timeline, Hitos y Kal_y_Chiara actualizados en consecuencia.
 - **Frente 3, densidad (2026-10-05, SURGERY autorizada por el autor; sigue BORRADOR):** en la proa, fuera lo que Chiara le repite a Kal de Blake ("Esta noche vino a que le corrigiera la historia… No se lo di.", F3-6); queda "No lo era. No todavia." La vispera, comprimida (F3-7): fuera el agradecimiento razonado ("Porque me dejaste ensenar quien soy… me diste la mano igual"), "no hablemos de frenos" y la filosofia de "se vive mejor con gente al lado"; despues de "A mi no tienes que darme las gracias de nada", el gesto de la tecla lleva directo a la vida civil y al arma bajo la almohada. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Densidad_Funcion_Frente_3.md §5.
 - **Microcostura de la vispera (2026-10-05, pedida por el autor tras la lectura postoperatoria; DISENO del agente, pendiente de lectura):** entre la tecla y la vida civil entra una sola replica puente, "Yo tampoco sabia tener a nadie tan cerca", con la acotacion "No levanto la vista del teclado". La gratitud de Chiara le abre a Kal la confesion. No se restauro nada de F3-7 (ni "me dejaste ensenar quien soy", ni frenos, ni "se vive mejor con gente al lado").
+- **Regla de diálogo 05 (2026-10-28, Claude Code, encargo del autor; prosa DISEÑO, sigue BORRADOR):** fuera ecos y remates dobles: Héctor («La invité» → contesta otra cosa; corrige además el género), Marisol («Sigue de verdad» → «Ya pedí los días»; queda «Walt tiene dos manos» como único eco), «Se ve como…», «Tú dijiste muchas cosas» (Blake se contesta solo), «No sabes todo» / «No.» (se funde en la confesión), «¿Antes de qué?» / «Antes.», «¿Y cómo iba a preguntarte…?» (Chiara pierde el turno), el «Del patio.» de Chiara (asiente), «Está bien que estés atento», «No lo es.» / «No.», «No me va a pasar nada» (Chiara calla; Kal pregunta) y «Tengo pasaporte» → «Está en el loft». Intactos: líneas canon (Blake, muelle, piano, Roma Atrii, H13, bala, víspera, «Me queda una noche…», «Entonces nos vamos a Italia», Marisol), Bonnie y Dario.
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N38-1, N38-2, N38-3, N38-4. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
@@ -70,7 +71,7 @@ Héctor estaba sentado en el único lugar de la cubierta donde no llegaba el vie
 
 —Sigue. —Héctor por fin tomó el vaso—. Y usted no me ha invitado a un barco para preguntarme por la pierna.
 
-—La invité para que tomara ese whisky en un lugar donde Kal no pueda preguntarle cada media hora cómo está.
+—Kal le pregunta cada media hora. Yo quería verlo tomarse ese whisky donde él no lo alcanzara.
 
 Héctor hizo con la garganta el ruido que en él contaba como carcajada, y se llevó el vaso a la boca para taparlo.
 
@@ -124,7 +125,7 @@ Buscó a Kal con los ojos, lo encontró junto a Harper, y le hizo desde lejos un
 
 —¿"Sigue" de verdad o "sigue" de los tuyos, que significa que vas a tener un problema con una grúa justo ese sábado?
 
-—Sigue de verdad.
+—Ya pedí los días.
 
 —Bien. —Marisol se volvió hacia Chiara como quien le entrega un expediente—. Testigo. Lo dijo delante de ti. Fin de año, dos noches, sin teléfonos, y si le sale un problema con una grúa lo resuelve Walt.
 
@@ -140,7 +141,7 @@ Kal seguía a su lado, con las manos en los bolsillos, mirando hacia donde se ha
 
 —Se ve bien —dijo él.
 
-—Se ve como alguien que va a hacer que te pierdas un viernes entero de trabajo.
+—Va a hacer que te pierdas un viernes entero de trabajo.
 
 —Sí. —No sonrió del todo—. Se ve bien.
 
@@ -212,11 +213,7 @@ Chiara no contestó eso. Dejó que la frase se quedara en el aire y que fuera é
 
 Blake tragó saliva y sostuvo la sonrisa, que era lo que hacía cuando la conversación no iba por donde él quería y todavía no había decidido si eso era una derrota.
 
-—Mira. Yo entiendo. —Bajó todavía más la voz, como si le estuviera haciendo un favor—. Cambiaste de mundo muy rápido. Yo lo vi venir antes que tú, ¿te acuerdas? Yo te dije el nombre.
-
-—Tú dijiste muchas cosas.
-
-—Dije que era por Mercer. Y era por Mercer. —Dejó de sonreír—. No me importa. Ya pasó. Pero no me hagas quedar como el idiota de la historia, Chiara. Me dejaste por él. Toda la ciudad lo sabe. Lo sabe el capitán, lo sabe el sargento, lo saben los tipos de tránsito que ven pasar la grúa. Yo no soy el único que lo sabe.
+—Mira. Yo entiendo. —Bajó todavía más la voz, como si le estuviera haciendo un favor—. Cambiaste de mundo muy rápido. Yo lo vi venir antes que tú, ¿te acuerdas? Yo te dije el nombre. —Esperó algo que no llegó—. Dije que era por Mercer. Y era por Mercer. —Dejó de sonreír—. No me importa. Ya pasó. Pero no me hagas quedar como el idiota de la historia, Chiara. Me dejaste por él. Toda la ciudad lo sabe. Lo sabe el capitán, lo sabe el sargento, lo saben los tipos de tránsito que ven pasar la grúa. Yo no soy el único que lo sabe.
 
 Chiara lo miró un momento largo. Eso era lo que Blake nunca había entendido: que se podía estar delante de él, con toda la calma del mundo, y sentir exactamente nada.
 
@@ -298,13 +295,9 @@ Pasó un minuto. Dos.
 
 —Lo sé.
 
-—No sabes todo.
-
-—No.
-
 Chiara respiró hondo, y el frío le entró hasta abajo.
 
-—Era policía, era rubio, y era fácil. Eso fue todo. Yo no pensaba quedarme en esta ciudad, y él era exactamente la clase de hombre con el que una mujer que no piensa quedarse sale un rato para no cenar sola. Me llevó a La Isla, me llevó a Gabriella's. Y una noche, en la calle, cuando me vio mirar hacia una puerta por la que acababas de entrar tú, me preguntó si era por ti.
+—No sabes todo. Era policía, era rubio, y era fácil. Eso fue todo. Yo no pensaba quedarme en esta ciudad, y él era exactamente la clase de hombre con el que una mujer que no piensa quedarse sale un rato para no cenar sola. Me llevó a La Isla, me llevó a Gabriella's. Y una noche, en la calle, cuando me vio mirar hacia una puerta por la que acababas de entrar tú, me preguntó si era por ti.
 
 Kal no se movió.
 
@@ -360,11 +353,7 @@ Chiara no aplaudió. No hizo ninguna de las cosas que se hacen. Se quedó sentad
 
 —Desde cuándo —dijo. No fue pregunta.
 
-—Desde antes.
-
-—¿Antes de qué?
-
-—Antes. —Kal se encogió de hombros, sin mirarla todavía, con los ojos en las teclas—. Hace mucho.
+—Desde antes. —Kal se encogió de hombros, sin mirarla todavía, con los ojos en las teclas—. Hace mucho.
 
 —Kal.
 
@@ -374,7 +363,7 @@ Chiara no aplaudió. No hizo ninguna de las cosas que se hacen. Se quedó sentad
 
 —No preguntaste.
 
-—¿Y cómo iba a preguntarte si tocabas el piano?
+Chiara abrió la boca para decirle cómo iba nadie a preguntarle eso, y la cerró.
 
 —Ésa es la cosa —dijo él, y algo cerca de una sonrisa se le ladeó en la boca, la misma de cuando la había hecho reír con el remolque vacío—. Nadie pregunta.
 
@@ -438,7 +427,7 @@ Kal repitió las palabras sin sonido, moviendo apenas los labios.
 
 —Del patio —dijo, en voz alta.
 
-—Del patio.
+Chiara asintió.
 
 —Entonces el chico. Ese día. —Lo dijo despacio, armándolo—. Venía buscándome a mí.
 
@@ -495,8 +484,6 @@ Chiara le puso la palma en el hombro. Despacio, sin apretar, el tiempo que tarda
 —Eso. Tener la cabeza en otro lado.
 
 —Casi nunca. Dejé de dormir con el arma bajo la almohada. —Se encogió apenas, debajo de la mano de ella—. Estos días ha habido presión. Hay que estar atento a todo.
-
-—Está bien que estés atento.
 
 ---
 
@@ -600,10 +587,6 @@ Chiara no contestó enseguida.
 
 —Fueron ellos —dijo por fin—. Lo del corral. Te lo dije en el parador. Sigo sin tener nada que lo diga, pero me golpearon por la espalda, una vez, sin robarme nada, sin decir nada, y meses después la Mesa me deja una bala envuelta en un pañuelo con mi inicial y me dice que ponga la casa en orden. —Se miró las manos—. Me parece demasiada coincidencia para una ciudad tan chica. Y me parece demasiado poco para llamarlo prueba.
 
-—No lo es.
-
-—No.
-
 Kal asintió, y por fin le devolvió el pañuelo. Chiara lo guardó en el bolso, en el mismo lugar, y cerró el bolso, y se quedó de pie junto al sillón con las dos manos apoyadas en el respaldo.
 
 —Me queda una noche antes de irme —dijo.
@@ -628,11 +611,7 @@ Se oyó decirlo, y se oyó también, un segundo después, que era la misma frase
 
 —Con todo lo que me llevo. —Lo miró—. El apellido. El casino. El diario. Lo que tú y yo somos. La Mesa no quita una cosa, Kal. Quita la parte de la cosa que le estorba, y deja el resto para que uno siga caminando. Yo lo he visto hacer. —Respiró—. No sé con cuánto de mí vuelvo. Eso es lo que no sé.
 
-—No quiero que te pase nada —dijo Kal—. Y menos si lo puedo impedir.
-
-—No me va a pasar nada.
-
-—¿Va a estar todo bien?
+—No quiero que te pase nada —dijo Kal—. Y menos si lo puedo impedir. —Esperó, y ella no dijo nada—. ¿Va a estar todo bien?
 
 —Sí. Claro que sí. —Lo dijo, y lo dijo otra vez, más despacio, para él—: Escúchame. Va a estar todo bien. ¿Estás conmigo?
 
@@ -672,7 +651,7 @@ Se quedaron mirándose un momento, en el salón a media luz, con la música de l
 
 —Necesitas pasaporte.
 
-—Tengo pasaporte.
+—Está en el loft.
 
 —¿Vigente?
 
