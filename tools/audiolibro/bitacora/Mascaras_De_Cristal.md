@@ -2,30 +2,12 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-28 02:10. Al día: 12 de 57.
+Actualizada: 2026-10-28 10:19. Al día: 30 de 57.
 
 ## Pendientes
 
 | Cap. | Título | Estado | Motivo | Desde |
 |---|---|---|---|---|
-| 12 | La balanza | PENDIENTE | cambió la prosa | 2026-10-27 21:25 |
-| 13 | Dos sillas vacías | PENDIENTE | cambió la prosa | 2026-10-27 21:25 |
-| 14 | El farol | PENDIENTE | cambió la prosa | 2026-10-27 21:25 |
-| 15 | Roma Atrii | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
-| 16 | Auster | PENDIENTE | cambió la prosa | 2026-10-27 22:43 |
-| 17 | La regla del teléfono | PENDIENTE | cambió la prosa | 2026-10-27 23:03 |
-| 18 | Yo lo llevo | PENDIENTE | cambió la prosa | 2026-10-28 00:01 |
-| 19 | El sobre rojo | PENDIENTE | cambió la prosa | 2026-10-28 00:18 |
-| 20 | Le quedé debiendo | PENDIENTE | cambió la prosa | 2026-10-28 00:31 |
-| 21 | El día nublado | PENDIENTE | cambió la prosa | 2026-10-28 00:52 |
-| 22 | Lo que nadie estaba mirando | PENDIENTE | cambió la prosa | 2026-10-27 21:25 |
-| 23 | Lo pequeño | PENDIENTE | cambió la prosa | 2026-10-27 21:28 |
-| 24 | El primer huésped | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
-| 25 | Causalidad | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
-| 26 | Nada caro | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
-| 27 | Bajo juramento | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
-| 28 | Lo que cueste | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
-| 29 | El corral | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
 | 30 | Libros abiertos | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
 | 31 | Me encuentro bien | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
 | 32 | Lleve equipaje | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
@@ -69,24 +51,24 @@ Actualizada: 2026-10-28 02:10. Al día: 12 de 57.
 | 9 | La noche del ladrillo | AL DIA | 2026-10-24 |
 | 10 | La carrera de máscaras | AL DIA | 2026-10-25 |
 | 11 | La teniente | AL DIA | 2026-10-24 |
-| 12 | La balanza | PENDIENTE | 2026-10-25 |
-| 13 | Dos sillas vacías | PENDIENTE | 2026-10-25 |
-| 14 | El farol | PENDIENTE | 2026-10-26 |
-| 15 | Roma Atrii | PENDIENTE | 2026-10-26 |
-| 16 | Auster | PENDIENTE | 2026-10-26 |
-| 17 | La regla del teléfono | PENDIENTE | 2026-10-26 |
-| 18 | Yo lo llevo | PENDIENTE | 2026-10-26 |
-| 19 | El sobre rojo | PENDIENTE | 2026-10-26 |
-| 20 | Le quedé debiendo | PENDIENTE | 2026-10-26 |
-| 21 | El día nublado | PENDIENTE | 2026-10-26 |
-| 22 | Lo que nadie estaba mirando | PENDIENTE | 2026-10-23 |
-| 23 | Lo pequeño | PENDIENTE | 2026-10-23 |
-| 24 | El primer huésped | PENDIENTE | 2026-10-23 |
-| 25 | Causalidad | PENDIENTE | 2026-10-23 |
-| 26 | Nada caro | PENDIENTE | 2026-10-23 |
-| 27 | Bajo juramento | PENDIENTE | 2026-10-23 |
-| 28 | Lo que cueste | PENDIENTE | 2026-10-23 |
-| 29 | El corral | PENDIENTE | 2026-10-23 |
+| 12 | La balanza | AL DIA | 2026-10-28 |
+| 13 | Dos sillas vacías | AL DIA | 2026-10-28 |
+| 14 | El farol | AL DIA | 2026-10-28 |
+| 15 | Roma Atrii | AL DIA | 2026-10-28 |
+| 16 | Auster | AL DIA | 2026-10-28 |
+| 17 | La regla del teléfono | AL DIA | 2026-10-28 |
+| 18 | Yo lo llevo | AL DIA | 2026-10-28 |
+| 19 | El sobre rojo | AL DIA | 2026-10-28 |
+| 20 | Le quedé debiendo | AL DIA | 2026-10-28 |
+| 21 | El día nublado | AL DIA | 2026-10-28 |
+| 22 | Lo que nadie estaba mirando | AL DIA | 2026-10-28 |
+| 23 | Lo pequeño | AL DIA | 2026-10-28 |
+| 24 | El primer huésped | AL DIA | 2026-10-28 |
+| 25 | Causalidad | AL DIA | 2026-10-28 |
+| 26 | Nada caro | AL DIA | 2026-10-28 |
+| 27 | Bajo juramento | AL DIA | 2026-10-28 |
+| 28 | Lo que cueste | AL DIA | 2026-10-28 |
+| 29 | El corral | AL DIA | 2026-10-28 |
 | 30 | Libros abiertos | PENDIENTE | 2026-10-23 |
 | 31 | Me encuentro bien | PENDIENTE | 2026-10-23 |
 | 32 | Lleve equipaje | PENDIENTE | 2026-10-23 |
@@ -118,6 +100,24 @@ Actualizada: 2026-10-28 02:10. Al día: 12 de 57.
 
 ## Historial
 
+- 2026-10-28 10:19 · Cap. 29 (24c_El_Corral.md) · audio regenerado
+- 2026-10-28 10:19 · Cap. 28 (24b_Lo_Que_Cueste.md) · audio regenerado
+- 2026-10-28 10:19 · Cap. 27 (24_Bajo_Juramento.md) · audio regenerado
+- 2026-10-28 10:19 · Cap. 26 (23_La_Letra_Pequena.md) · audio regenerado
+- 2026-10-28 10:19 · Cap. 25 (22_Causalidad.md) · audio regenerado
+- 2026-10-28 10:19 · Cap. 24 (21_El_Primer_Huesped.md) · audio regenerado
+- 2026-10-28 10:19 · Cap. 23 (20_El_Mirador.md) · audio regenerado
+- 2026-10-28 10:19 · Cap. 22 (19_Tierra_Buena.md) · audio regenerado
+- 2026-10-28 10:19 · Cap. 21 (18_El_Dia_Nublado.md) · audio regenerado
+- 2026-10-28 10:19 · Cap. 20 (17_Cuentas_Claras.md) · audio regenerado
+- 2026-10-28 10:19 · Cap. 19 (16_El_Sobre_Rojo.md) · audio regenerado
+- 2026-10-28 10:19 · Cap. 18 (15_El_Porton.md) · audio regenerado
+- 2026-10-28 10:19 · Cap. 17 (14_La_Regla_Del_Telefono.md) · audio regenerado
+- 2026-10-28 10:19 · Cap. 16 (13_Auster.md) · audio regenerado
+- 2026-10-28 10:19 · Cap. 15 (12_Roma_Atrii.md) · audio regenerado
+- 2026-10-28 10:19 · Cap. 14 (11_El_Farol.md) · audio regenerado
+- 2026-10-28 09:40 · Cap. 13 (10_El_Loft_Del_Soltero.md) · audio regenerado
+- 2026-10-28 09:40 · Cap. 12 (09_La_Balanza.md) · audio regenerado
 - 2026-10-28 00:52 · Cap. 21 (18_El_Dia_Nublado.md) · audio pendiente: cambió la prosa
 - 2026-10-28 00:31 · Cap. 20 (17_Cuentas_Claras.md) · audio pendiente: cambió la prosa
 - 2026-10-28 00:18 · Cap. 19 (16_El_Sobre_Rojo.md) · audio pendiente: cambió la prosa
