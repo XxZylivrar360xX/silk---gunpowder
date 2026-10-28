@@ -15,6 +15,11 @@
 - A-04 (Chiara decide por Kal) y A-05 (rango de Lucía): se conservan.
 - La nota de ChatGPT cita un hombre que pregunta en el Cap. 15 por «un Peugeot rojo, tuneado»; esa línea no está en el vault.
 
+## Desenlace policial (decisión del autor, misma fecha)
+
+- El caso **no** se cae: Chiara saca a Kal del centro de la investigación, no la destruye. Última línea de la sección: «El expediente del Peugeot siguió abierto. El nombre de Kal dejó de estar en el centro sin que nadie pudiera señalar el momento exacto en que se movió.» Ajustada la ficha de [[02_Characters/Lucia_Varek]] y la Matriz de renombramiento.
+- Corrado y Kenji quedan cerrados: no reintervenir.
+
 ## Pendiente
 
 - Lectura del autor. Audiolibro del 16 marcado PENDIENTE con `--estado`.
