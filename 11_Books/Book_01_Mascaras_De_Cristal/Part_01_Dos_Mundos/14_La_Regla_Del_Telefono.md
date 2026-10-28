@@ -12,6 +12,7 @@ Cierre corregido (2026-09-03): ya NO termina con Kal prendiendo el telefono y vi
 Nombre del lago del imán (2026-10-08, encargo del autor; DISEÑO): *Lake Meriwether*. No es [[05_Locations/El_Lago]] (H7).
 Arco lector 14-16 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_14-16_Lector; sigue TERMINADO; prosa nueva DISEÑO pendiente de lectura): A2, A9 aplicados.
 Regla de dialogo 05 (2026-10-26, encargo del autor; DISENO pendiente de lectura; el estado se conserva): doce cortes de eco/remate (salida, nevera, piedras, derecho, la casa, el "dai", la amiga); Kal ya no dice ni oye el nombre de Chiara hasta "Dilo tu tambien". Detalle: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_telefono_cap17]].
+Escena nueva "El carro" (2026-10-27, encargo del autor; DISENO pendiente de lectura; el estado se conserva): domingo temprano, Marisol confiesa que choco el carro de Michael hace tres semanas, de noche y contestando un mensaje, y lo escondio (paga el "que no manejara de noche" del Cap. 6). Kal la regaña de pie, sin subir la voz ("Tu papa no puso esa regla para el cerro"), pone la condicion (telefono en la guantera, llamarlo a el primero), se sienta, le choca el hombro con media sonrisa: "Todo va a estar bien." Detalle: [[98_Agent_Handoff/sessions/2026-10-27_claude_cap17_escena_el_carro]].
 -->
 
 # Capítulo 17 — La regla del teléfono
@@ -313,6 +314,54 @@ Kal atizó el fuego, que no lo necesitaba. Le dio la vuelta a un leño, lo acomo
 —Está aprendiendo —dijo.
 
 Marisol se abrazó las rodillas y no preguntó más.
+
+***
+
+El domingo Kal se despertó antes que ella, como siempre, y la encontró despierta, que no era como siempre. Estaba sentada en la piedra grande de la orilla, con la chaqueta de Michael cerrada hasta el cuello y una taza de café que se le había enfriado entre las manos.
+
+Kal puso agua para otro café y no le preguntó nada. Lo que Marisol traía, lo soltaba sola o no lo soltaba.
+
+—El carro no está con Sam.
+
+Kal dejó la olla sobre la parrilla.
+
+—Le di a un poste saliendo de la residencia. Hace tres semanas. —Lo dijo al agua, no a él—. De noche. Iba contestando un mensaje.
+
+—¿Tú?
+
+—Nada. Ni un moretón. —Se encogió de hombros sin ganas—. El carro sí. La defensa, un faro y algo de abajo que suena cuando giro a la izquierda.
+
+Kal ya iba por la rótula, o el brazo de la suspensión, y se obligó a volver. No dijo nada.
+
+—Si lo llevaba al taller lo ibas a ver. —Se le quebró algo al final de la frase y lo tapó con la taza—. Y era de papá.
+
+Kal no se sentó. Se quedó de pie frente a ella, entre la piedra y el agua, hasta que Marisol tuvo que levantar la cabeza.
+
+—El carro me da igual. Una defensa se cambia. —No subió la voz. Marisol se quedó quieta de todos modos—. Ibas de noche y con el teléfono en la mano. Si en lugar del poste hay alguien cruzando, no hay taller. Si te toca a ti, tampoco.
+
+—Ya sé. Me lo dijiste.
+
+—Y me mentiste tres semanas.
+
+Marisol bajó la vista a la taza.
+
+—Tu papá no puso esa regla para el cerro.
+
+Ella no contestó. Se limpió la cara con la manga de la chaqueta, rápido, como si fuera el frío.
+
+—Cuando manejes, el teléfono va en la guantera. Apagado. —Kal esperó a que lo mirara otra vez—. Y la próxima vez que choques contra algo, me llamas a mí antes que a Sam.
+
+—Sí.
+
+Kal se sentó entonces en la piedra, a su lado, de cara al arroyo. Estuvieron así un rato, sin decir nada, oyendo el agua de la olla empezar a moverse. Después le chocó el hombro con el suyo, una vez, y le salió media sonrisa.
+
+—Lo traes el lunes. Lo dejo como lo tenía él.
+
+Marisol sorbió por la nariz y asintió.
+
+—Todo va a estar bien.
+
+Detrás de ellos el agua rompió a hervir, y ninguno de los dos se levantó por ella.
 
 ***
 

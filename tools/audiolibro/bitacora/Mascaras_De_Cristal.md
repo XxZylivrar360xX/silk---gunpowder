@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-27 22:43. Al día: 33 de 57.
+Actualizada: 2026-10-27 23:03. Al día: 28 de 57.
 
 ## Pendientes
 
@@ -13,6 +13,7 @@ Actualizada: 2026-10-27 22:43. Al día: 33 de 57.
 | 14 | El farol | PENDIENTE | cambió la prosa | 2026-10-27 21:25 |
 | 15 | Roma Atrii | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
 | 16 | Auster | PENDIENTE | cambió la prosa | 2026-10-27 22:43 |
+| 17 | La regla del teléfono | PENDIENTE | cambió la prosa | 2026-10-27 23:03 |
 | 22 | Lo que nadie estaba mirando | PENDIENTE | cambió la prosa | 2026-10-27 21:25 |
 | 23 | Lo pequeño | PENDIENTE | cambió la prosa | 2026-10-27 21:28 |
 | 24 | El primer huésped | PENDIENTE | cambió la prosa | 2026-10-27 22:20 |
@@ -32,6 +33,10 @@ Actualizada: 2026-10-27 22:43. Al día: 33 de 57.
 | 38 | Lo único que es mío | PENDIENTE | cambió la prosa | 2026-10-27 22:43 |
 | 39 | La mano | PENDIENTE | cambió la prosa | 2026-10-27 22:43 |
 | 40 | Mi pareja | PENDIENTE | cambió la prosa | 2026-10-27 22:43 |
+| 41 | Sin fecha de regreso | PENDIENTE | cambió la prosa | 2026-10-27 23:03 |
+| 42 | También las mañanas | PENDIENTE | cambió la prosa | 2026-10-27 23:03 |
+| 43 | Cuatro letras | PENDIENTE | cambió la prosa | 2026-10-27 23:03 |
+| 44 | Al revés | PENDIENTE | cambió la prosa | 2026-10-27 23:03 |
 
 ## Capítulos
 
@@ -53,7 +58,7 @@ Actualizada: 2026-10-27 22:43. Al día: 33 de 57.
 | 14 | El farol | PENDIENTE | 2026-10-26 |
 | 15 | Roma Atrii | PENDIENTE | 2026-10-26 |
 | 16 | Auster | PENDIENTE | 2026-10-26 |
-| 17 | La regla del teléfono | AL DIA | 2026-10-26 |
+| 17 | La regla del teléfono | PENDIENTE | 2026-10-26 |
 | 18 | Yo lo llevo | AL DIA | 2026-10-26 |
 | 19 | El sobre rojo | AL DIA | 2026-10-26 |
 | 20 | Le quedé debiendo | AL DIA | 2026-10-26 |
@@ -77,10 +82,10 @@ Actualizada: 2026-10-27 22:43. Al día: 33 de 57.
 | 38 | Lo único que es mío | PENDIENTE | 2026-10-24 |
 | 39 | La mano | PENDIENTE | 2026-10-24 |
 | 40 | Mi pareja | PENDIENTE | 2026-10-24 |
-| 41 | Sin fecha de regreso | AL DIA | 2026-10-24 |
-| 42 | También las mañanas | AL DIA | 2026-10-24 |
-| 43 | Cuatro letras | AL DIA | 2026-10-24 |
-| 44 | Al revés | AL DIA | 2026-10-24 |
+| 41 | Sin fecha de regreso | PENDIENTE | 2026-10-24 |
+| 42 | También las mañanas | PENDIENTE | 2026-10-24 |
+| 43 | Cuatro letras | PENDIENTE | 2026-10-24 |
+| 44 | Al revés | PENDIENTE | 2026-10-24 |
 | 45 | Un par de días más | AL DIA | 2026-10-24 |
 | 46 | Mecánico | AL DIA | 2026-10-24 |
 | 47 | La otra mitad | AL DIA | 2026-10-24 |
@@ -97,6 +102,11 @@ Actualizada: 2026-10-27 22:43. Al día: 33 de 57.
 
 ## Historial
 
+- 2026-10-27 23:03 · Cap. 44 (38_Al_Reves.md) · audio pendiente: cambió la prosa
+- 2026-10-27 23:03 · Cap. 43 (37_Cuatro_Letras.md) · audio pendiente: cambió la prosa
+- 2026-10-27 23:03 · Cap. 42 (36_Tambien_Las_Mananas.md) · audio pendiente: cambió la prosa
+- 2026-10-27 23:03 · Cap. 41 (35_Sin_Fecha_De_Regreso.md) · audio pendiente: cambió la prosa
+- 2026-10-27 23:03 · Cap. 17 (14_La_Regla_Del_Telefono.md) · audio pendiente: cambió la prosa
 - 2026-10-27 22:43 · Cap. 40 (34_Mi_Pareja.md) · audio pendiente: cambió la prosa
 - 2026-10-27 22:43 · Cap. 39 (33b_La_Mano.md) · audio pendiente: cambió la prosa
 - 2026-10-27 22:43 · Cap. 38 (33_Mas_De_La_Cuenta.md) · audio pendiente: cambió la prosa
