@@ -15,6 +15,7 @@ Función: cobra la mentira del Cap. 41 ("—Nada."). Bonnie encuentra la camione
 
 > **CORRECCIÓN QUIRÚRGICA (2026-09-22, mismo día, encargo del autor):** arquitectura de F1 conservada intacta; se corrigió (1) metadata — el Cap. 41 cierra con Bonnie físicamente en el despacho de Chiara, no con una llamada; (2) se retiró la precisión "semanas después de Palermo" (sólo han pasado días); (3) causalidad Bonnie→Kal — Bonnie ahora le da a Kal el mínimo contexto operativo ("Chiara me pidió rastrear una camioneta relacionada con Matteo" + Almendra Towing + el seguimiento), sin mencionar Palermo ni la orden de discreción, lo que permite a Kal reconstruir la mentira sin intuición mágica; (4) se eliminó la deducción imposible de la "orden de silencio" que Kal no podía conocer; (5) el intercambio inicial de F1 ya no depende de que Kal "ya sabía por qué" — cita el dato concreto que le dio Bonnie; (6) "alguien que depende de mí para estar segura" pasa a "alguien de mi gente" (Bonnie todavía no es protegida); (7) la respuesta de Chiara a "Bonnie es de mi gente" deja de sonar calculadora ("por eso funcionó... no iba a contártelo") y pasa a "le pedí que encontrara un coche, no esperaba que la siguieran"; (8) sintaxis de "por su territorio, en su gente, en su Patio" simplificada a "en territorio del Patio"; (9) se retiró la llave permanente de Kal al penthouse (microcanon no autorizado) — ahora toca la puerta y Chiara abre; (10) la línea sobre "perderte en esa mesa italiana" se reformuló a la simetría correcta: lo que Chiara dijo en la Mesa también fue decidir por Kal; (11) dos fugas de POV retiradas ("lo dijo sin planearlo, y los dos lo notaron"; "los dos entendieron... que seguir esa noche...") y reemplazadas por percepción externa de Chiara; (12) "Entonces los dos lo hicimos mal" se retira — Kal ya no cierra el acuerdo, la simetría queda nombrada pero no resuelta; (13) "No voy a pedirte perdón por Palermo" se abre a "Tenía que volver. Eso no cambió." para no bloquear la evolución del Libro II (*Sombras de Poder*; el Cap. 45 ya pertenece a ese libro); (14) se redujo a cero la glosa explicando por qué duele la línea canon — queda sólo "Lo sé"; (15) se corrigió "alguien mía" a "alguien mío". No se tocó la línea canon, "—Nada.", "—Sí. Te mentí.", el intercambio con el hombre de Almendra Towing, ni el cierre sin reconciliación. **Dos microajustes adicionales (mismo día, observación directa del autor):** "No usaste a alguien mío sin decírmelo..." sonaba posesivo justo donde el tema es pertenencia comunitaria, no propiedad — pasa a "Metiste a alguien de mi gente en esto sin decírmelo..."; y "Eso no es tu decisión de callar o no callar, Chiara. Es mía." sonaba a reclamo de derecho exclusivo de Kal sobre Bonnie, en vez de la tesis real del conflicto (agencia compartida) — pasa a "Eso ya no era sólo tuyo para decidir, Chiara.", dejando que "No decides tú sola qué riesgo de mi gente me concierne" (unas líneas después) cargue la tesis. Sigue BORRADOR. Sin EPUB, commit ni push.
 - Ajuste 2026-10-18 (orden del autor): Fabrizio ya no está bajo coerción (pasa a Tommaso); su distancia se suaviza: sólo está ocupado. La línea de la llamada «corta, correcta» se sustituye por los banquetes y el brazo en el pasillo. Prosa DISEÑO pendiente de lectura.
+- Regla de diálogo 05 (2026-10-28, pedido del autor): la llamada deja de ser interrogatorio (fuera «¿Entonces?», «¿Lo perdiste?», «¿Por qué?»; Bonnie sigue sola); en F1, «Lo sé» baja de seis a uno en el penthouse: sólo queda el de Chiara tras la línea canon; fuera ecos («No lo sabías», «¿Por qué?» de Chiara, «Entonces los dos decidimos solos»), un remate doble de Kal y su réplica partida en dos párrafos. Línea canon, «—Nada.», «Te mentí», «Tenía que volver. Eso no cambió.», «Ciao, tesoro» y la manija, intactos. DISEÑO, espera lectura: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_nada_cap48]].
 -->
 
 # Capítulo 48 — Nada
@@ -39,11 +40,7 @@ Su voz tenía un filo que Chiara no le había oído la primera vez, en su despac
 
 —¿Dónde?
 
-—Almendra Towing. La remolcaron hace unas semanas, infracción de estacionamiento, algo tan tonto que nadie fue a reclamarla a tiempo y se quedó ahí, juntando polvo en un lote. —Una pausa breve, del tipo que Bonnie usaba para ordenar lo que venía—. Fui a verla esta tarde. Placa completa, coincide. Empresa real, dueño real, nada que grite.
-
-—¿Entonces?
-
-—Entonces alguien se me acercó mientras la estaba mirando.
+—Almendra Towing. La remolcaron hace unas semanas, infracción de estacionamiento, algo tan tonto que nadie fue a reclamarla a tiempo y se quedó ahí, juntando polvo en un lote. —Una pausa breve, del tipo que Bonnie usaba para ordenar lo que venía—. Fui a verla esta tarde. Placa completa, coincide. Empresa real, dueño real, nada que grite. —Otra pausa, más larga que la primera—. Pero alguien se me acercó mientras la estaba mirando.
 
 Chiara se sentó más derecha.
 
@@ -59,9 +56,9 @@ Chiara no dijo nada. Dejó que el silencio corriera un segundo, dos, mientras al
 
 —Me fui de ahí —siguió Bonnie—. Y a las pocas calles noté un coche detrás. No de casualidad: frenaba cuando yo frenaba, doblaba cuando yo doblaba, se quedaba dos autos atrás incluso cuando yo aceleraba donde nadie acelera. Di tres vueltas que no llevan a ningún lado. Seguía ahí.
 
-—¿Lo perdiste?
+Chiara apretó el teléfono.
 
-—Sí. —No sonó a orgullo—. Entré a un estacionamiento subterráneo por una rampa que la mayoría no conoce, salí por la otra punta antes de que él pudiera rodear la manzana, y crucé dos semáforos en amarillo que no debí cruzar. Cuando llegué a una calle con gente, ya no estaba.
+—Lo perdí. —No sonó a orgullo—. Entré a un estacionamiento subterráneo por una rampa que la mayoría no conoce, salí por la otra punta antes de que él pudiera rodear la manzana, y crucé dos semáforos en amarillo que no debí cruzar. Cuando llegué a una calle con gente, ya no estaba.
 
 Chiara cerró los ojos un momento.
 
@@ -75,11 +72,7 @@ Chiara no contestó de inmediato.
 
 —¿Cuándo?
 
-—Antes de llamarla a usted. —Bonnie no se disculpó por el orden—. En cuanto perdí al segundo coche, marqué su número primero. No el suyo. El de él.
-
-—¿Por qué?
-
-—Porque ya no es sólo un coche raro entregando un sobre —dijo Bonnie, sin pedir permiso—. Alguien en el territorio de Kal sabía que yo estaba buscando, y alguien me siguió. Eso no es de usted. Eso es del Patio. Y si algo del Patio se mueve así, él tiene que saberlo esta misma noche, no cuando a mí me convenga contárselo.
+—Antes de llamarla a usted. —Bonnie no se disculpó por el orden—. En cuanto perdí al segundo coche, marqué su número primero. No el suyo. El de él. Porque ya no es sólo un coche raro entregando un sobre. Alguien en el territorio de Kal sabía que yo estaba buscando, y alguien me siguió. Eso no es de usted. Eso es del Patio. Y si algo del Patio se mueve así, él tiene que saberlo esta misma noche, no cuando a mí me convenga contárselo.
 
 Chiara se quedó con el teléfono pegado a la oreja, mirando la ventana, las luces de San Aurelio abajo, todas encendidas como cualquier otra noche.
 
@@ -167,25 +160,23 @@ Eso pareció detener a Kal un segundo, como si hubiera llegado preparado para di
 
 —¿Y para eso necesitabas a Bonnie?
 
-—Necesitaba a alguien de calle que no fueras tú.
+—A alguien de calle que no fueras tú.
 
 —Bonnie es de mi gente.
 
 Lo dijo sin subir el volumen. Fue peor así.
 
-—Lo sé —dijo Chiara—. Le pedí que encontrara un coche. No esperaba que nadie la siguiera.
+—Le pedí que encontrara un coche —dijo Chiara—. No esperaba que nadie la siguiera.
 
 —Pero la siguieron. —Kal se inclinó apenas hacia adelante—. La abordaron en territorio del Patio y después la siguieron. Eso ya no era sólo tuyo para decidir, Chiara.
 
 —No sabía que iba a pasar eso.
 
-—No lo sabías. Pero decidiste igual que era tuyo de decidir. —Kal se puso de pie, sin acercarse, sólo porque sentado ya no le alcanzaba para lo que quería decir—. Metiste a alguien de mi gente en esto sin decírmelo porque confiabas en que no pasaría nada. Y después decidiste que, si pasaba algo, tú ibas a decidir cuándo yo me enteraba.
+—Pero decidiste igual que era tuyo. —Kal se puso de pie, sin acercarse, sólo porque sentado ya no le alcanzaba para lo que quería decir—. Metiste a alguien de mi gente en esto sin decírmelo porque confiabas en que no pasaría nada. Y después, que si pasaba algo, tú ibas a escoger cuándo me enteraba yo.
 
 —Iba a decírtelo si encontraba algo.
 
-—Me preguntaste... —Kal se corrigió—. Te pregunté yo. Directamente. Y aun así elegiste "nada" en vez de "todavía no sé, dame un día." Esas dos frases no cuestan lo mismo, Chiara.
-
-—No decides tú sola qué riesgo de mi gente me concierne —dijo Kal, más bajo, y por eso mismo con más peso.
+—Me preguntaste... —Kal se corrigió—. Te pregunté yo. Directamente. Y aun así elegiste "nada" en vez de "todavía no sé, dame un día." —Bajó la voz, y por eso mismo pesó más—: No decides tú sola qué riesgo de mi gente me concierne.
 
 —¿Y tú? —dijo Chiara, antes de poder pensarlo del todo.
 
@@ -195,11 +186,7 @@ Kal se detuvo.
 
 —Tú también decides solo. —Chiara se apartó de la mesa por primera vez, un paso, no hacia él, sólo lejos del punto exacto donde había estado parada—. En Palermo te llamaron una noche y a la mañana siguiente ya tenías boleto. No me dijiste quién llamó. No me dijiste por qué. Sólo "tengo que volver", y yo no te pregunté más porque entendí que no ibas a contestarme si lo hacía.
 
-—Eso es distinto.
-
-—¿Por qué?
-
-—Porque yo no te mentí. Te dije que tenía que irme.
+—Eso es distinto. Yo no te mentí. Te dije que tenía que irme.
 
 —Me dijiste la mitad de una frase y esperaste que fuera suficiente. —Chiara lo miró de frente—. Yo dije una palabra y tú la llamas mentira. Tú dijiste tres y las llamas honestidad. La diferencia no es tan grande como te gustaría, Kal.
 
@@ -211,25 +198,15 @@ Se quedaron mirándose un momento sin que ninguno cediera el punto.
 
 Kal no lo negó. Se pasó una mano por la cara, un gesto rápido, y cuando volvió a hablar lo hizo con la voz más baja, no más suave.
 
-—Bonnie pudo haber terminado herida por algo que decidiste tú sola que todavía no era mi problema.
-
-—Lo sé.
-
-—Y lo que dijiste en esa mesa italiana también fue decidir por mí. Delante de gente que no olvida, sin preguntarme si quería que me sacaras así.
-
-La frase salió más rápida que las anteriores, como si llevara días esperando su turno.
+—Bonnie pudo haber terminado herida por algo que decidiste tú sola que todavía no era mi problema. —Y sin dejarle espacio, más rápido que todo lo anterior, como si llevara días esperando su turno—: Y lo que dijiste en esa mesa italiana también fue decidir por mí. Delante de gente que no olvida, sin preguntarme si quería que me sacaras así.
 
 Chiara no contestó de inmediato. Cuando lo hizo, su voz había perdido el filo de administradora que llevaba toda la conversación.
 
 —Yo también pensé que te estaba protegiendo esa vez.
 
-—Lo sé —dijo Kal—. Y yo decidí solo subirme a ese avión sin decirte por qué.
+Kal tardó en contestar.
 
-—Entonces los dos decidimos solos.
-
-Kal no contestó eso.
-
-—Tenía que volver —dijo Kal, después de un silencio—. Eso no cambió. No pude explicarte por qué entonces y no puedo explicártelo ahora.
+—Y yo me subí a ese avión sin decirte por qué. —Dejó pasar un silencio—. Tenía que volver. Eso no cambió. No pude explicarte por qué entonces y no puedo explicártelo ahora.
 
 —Entonces no me pidas a mí que te explique cada cosa que decido antes de que la termine de decidir.
 
@@ -249,8 +226,6 @@ Kal la miró un momento más, como esperando algo distinto, y cuando no llegó n
 
 —No te lo pedí.
 
-—Lo sé.
-
 Ninguno mencionó el resto: ni Matteo, ni la camioneta, ni lo que faltaba de esa conversación para estar completa.
 
 Chiara no encontró nada más que decir que no fuera a costarles más caro que la mentira misma. Por la forma en que Kal se acomodó la chaqueta que nunca se había quitado, supo que él tampoco.
@@ -259,7 +234,7 @@ Kal caminó hacia la puerta y se detuvo con la mano en la manija.
 
 —Bonnie hizo lo correcto —dijo, sin volverse—. Por si te lo estás preguntando.
 
-—Lo sé —dijo Chiara—. Se lo dije yo misma antes de que llegaras. Ciao, tesoro.
+—Se lo dije yo misma antes de que llegaras —dijo Chiara—. Ciao, tesoro.
 
 La mano de Kal se quedó quieta en la manija un segundo.
 
