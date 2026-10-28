@@ -9,6 +9,7 @@ Funcion: ejecutar beats 16 y 17 — un trabajo chico y sucio resuelto juntos, si
 Pasada editorial 2026-09-10 (Claude Code, decision del autor): accidente achicado a solo la farola (sin tercer auto danado); logistica de grua unica; certeza del narrador limitada a lo que Kal y Chiara creen haber cerrado; poda de glosas y del encabezado de seccion; "sin ayuda de nadie" precisado a "sin que llegara a los socios". Dialogo protegido intacto.
 Microcirugia de dialogo K/C 2026-10-04 (autorizada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]] §7; DISEÑO pendiente de lectura): la llamada pasa a las 4:40 (las camaras, a las 4:10) para no repetir la apertura de las tres de la madrugada del 21; en la oficina entra Charles con el registro y Kal y Chiara se ponen la mascara de proveedor y directora ("El arrastre nocturno lleva recargo / Mandelo a compras"; "¿Recargo? / Nocturno"); Kal quiere contar lo del auto y ella lo corta ("Kal."); fuera la glosa "No con la voz que usaba para cerrar una transaccion".
 Poda de terceros S5 (2026-10-04, Plan_Cirugia_Terceros_Parte_I (S5); el estado se conserva; DISENO pendiente de lectura): fuera "Deberia preocuparme?" de Tommaso; ahora espera, Dario ordena "Anotalo" y Tommaso "no le dijo que ya lo tenia anotado" (el que vigila es el; canon 2026-10-04 de su ficha).
+Regla de dialogo 05 (2026-10-28, encargo del autor sobre capitulo TERMINADO; el estado se conserva; prosa DISENO pendiente de lectura; ver [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_causalidad_cap25]]): oficina -- fuera el remate simetrico "Gracias / No hay de que" (cortesia de proveedor cuando ya estan a solas); Kal contesta con gesto: deja la hoja del recargo encima del registro de Charles (cobra la broma). Llamada, "¿Recargo? / Nocturno", "Kal.", "Prefiero no preguntar", "Gracias" y Dario ("Sin que llegara a los socios... Interesante", ficha de voz) intactos.
 -->
 
 # Capítulo 25 — Causalidad
@@ -117,7 +118,7 @@ Ninguno de los dos dijo la palabra *sociedad*, ni nada que sonara a algo que hub
 
 —Gracias —dijo Chiara, al final.
 
-—No hay de qué.
+Kal sacó de la carpeta la hoja del recargo y la dejó encima del registro de Charles.
 
 Fue Kal quien se fue primero esa vez.
 
