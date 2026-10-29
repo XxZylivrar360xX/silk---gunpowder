@@ -1,5 +1,6 @@
 <!--
 Creado 2026-10-29 (decision del autor): separado del Cap. 30, *Oveja entre lobos* (archivo 24c, antes *El corral*), en el corte "Voy por el coche". El 30 queda con el ataque, la ambulancia, el hospital, la comisaria, la tregua y el alta; este capitulo es la salida del hospital, el parador, el loft y la coda. Titulo del autor: *Vienes conmigo* (de "Tu vienes conmigo", beat canon del regreso del parador). Prosa sin cambios en el corte salvo la primera linea (el Audi siguio a la ambulancia; se movio a la calle de atras la primera manana). Sigue BORRADOR. El historial de auditorias y cirugias del parador, el loft y la coda vive en la cabecera del 24c.
+LECTURA DE CHATGPT (2026-10-29, [[98_Agent_Handoff/ChatGPT/2026-10-29_lectura_cap31_vienes_conmigo]]; decisiones del autor; sigue BORRADOR): VC-01 (CANON DEL AUTOR: tarde en el Monarch): el alta es en la mañana del jueves; Chiara pasa la tarde a la vista en el Monarch y Kal la recoge en el túnel al anochecer, a la hora acordada (sin teléfono). Sustituye a "Veinte minutos después"; prosa DISEÑO. VC-02: revisado el ritmo del parador, sin cambios. VC-03 (CANON DEL AUTOR): cómplices sin reproche; "Yo habría hecho lo mismo", "Lo entiendo" y la denuncia firmada sin leer se quedan como están.
 Protagonistas: Chiara Bellandi, Kal Mercer; mencionados Dario Varek, Kenji, Vivian, Caluca.
 Ventana temporal: el dia del alta (Cap. 30) y los cuatro dias siguientes en el loft; coda al regreso al Monarch.
 Lugares: Hospital Santa Aurelia (calle de atras), bahia de carga / tunel este del Monarch, parador de autopista al norte, La Casa (loft de Kal), el Monarch.
@@ -52,7 +53,7 @@ Kal la miró de reojo.
 
 —Yo me las arreglo. Conozco ese túnel mejor que el hombre que lo diseñó. Me peleé un mes con la aseguradora por él. —Se permitió media sonrisa, la primera del día—. Que crean que sigo en el Monarch.
 
-La dejó frente a la entrada principal, a la vista de cualquiera. El sedán se estacionó al otro lado de la calle. Veinte minutos después, en la penumbra del túnel que olía a marea y a diésel, la puerta que nadie conocía se abrió y Chiara se subió al coche sin que nadie la viera salir.
+La dejó frente a la entrada principal, a la vista de cualquiera. El sedán se estacionó al otro lado de la calle y ahí se quedó toda la tarde, mientras ella dejaba que la vieran en el lobby y en el piso de administración. Kal volvió al anochecer, a la hora que habían quedado. En la penumbra del túnel, que olía a marea y a diésel, la puerta que nadie conocía se abrió puntual y Chiara se subió al coche sin que nadie la viera salir.
 
 ***
 

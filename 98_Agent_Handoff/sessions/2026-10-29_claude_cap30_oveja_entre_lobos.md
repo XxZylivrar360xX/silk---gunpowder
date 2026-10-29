@@ -38,3 +38,9 @@ El autor eligió las recomendaciones de los tres hallazgos:
 - **OC-03:** en *Al revés* (Cap. 46), «dejaron el reloj y se llevaron el teléfono».
 
 En los tres archivos quedó nota en la cabecera; prosa DISEÑO. El 25 (*Libros abiertos*, «una semana después del alta») no cambia.
+
+## Tercera ronda: lectura del Cap. 31 de ChatGPT ([[98_Agent_Handoff/ChatGPT/2026-10-29_lectura_cap31_vienes_conmigo]])
+
+- **VC-01 (CANON):** el alta era de mañana y la llegada al loft, pasada la medianoche. Chiara pasa la tarde visible en el Monarch (lobby, piso de administración) mientras el sedán vigila; Kal la recoge en el túnel al anochecer, a la hora acordada. Una sola frase cambiada en el 24d.
+- **VC-02:** revisado el ritmo del parador, sin cambios. Los informes de Kal ya alternan con réplicas cortas de Chiara, el reloj y el camión.
+- **VC-03 (CANON):** cómplices sin reproche; no se tocó nada.
