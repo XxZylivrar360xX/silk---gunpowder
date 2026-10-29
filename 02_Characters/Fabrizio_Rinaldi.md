@@ -23,6 +23,8 @@
 
 ---
 
+> **CANON DEL AUTOR (2026-10-28):** falta a la junta de socios del robo del Monarch (Cap. 25, [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/22a_La_Cifra]]) porque está con Paola y la niña; no es alejamiento. DISEÑO: llamó a Chiara dos veces antes de las siete.
+
 ## Quien es
 
 Fabrizio conoce a Chiara de antes de San Aurelio. Puede hablarle con una familiaridad que en otra boca seria impertinente, pero la confianza no cancela el negocio: si esta en el Monarch, tambien tiene intereses.

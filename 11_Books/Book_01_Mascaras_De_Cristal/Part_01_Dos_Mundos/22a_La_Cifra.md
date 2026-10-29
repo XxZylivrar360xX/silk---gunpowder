@@ -8,8 +8,8 @@ Función: beats 1–6 del 22a del plan. El robo en video; Chiara y Matteo decide
 Reubicado del 25 viejo: «que sea tuyo antes de que sea del casino»; Caluca (para «Kal lo conocía de oídas» del 24c: Kal sólo ve su nombre tachado, nunca su cara).
 Restricciones respetadas: la cadena Dario→Crowe→valet→ladrones no está en prosa; la valet no aparece (sólo «los valets de la contratista cierran ese lote a las tres»); el robo arriesga el negocio, no la pareja; el registro público entre Kal y Chiara se conserva.
 Provisional / a revisar con el autor:
-- Fabrizio no aparece en la sala de socios (su presencia en la Parte I se diseña con el autor).
-- North Guard: Kal dice que su empresa está «en trámite»; cuándo se concreta sigue PENDIENTE.
+- Fabrizio no está en la sala de socios: está con Paola y la niña (CANON DEL AUTOR, 2026-10-28; que llamara dos veces a Chiara es DISEÑO). Su ausencia no debe leerse como alejamiento.
+- North Guard: Kal dice que su empresa está «en trámite». CANON DEL AUTOR (2026-10-28): sigue así todo el Libro I y se concreta en *Sombras de Poder*.
 - Cifras (82,400 registrados; «trescientos y algo» fuera de libros) y mecánica de la caja (sensor de horario que avisa a la central de Eagle Eye; doble fondo con lámina) son DISEÑO.
 Pasada `editorial-surgery` 2026-10-28 (3 microediciones): [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_caps25_26_robo_monarch]].
 -->
@@ -294,7 +294,7 @@ Lucía siguió hacia los elevadores. Voss la alcanzó a medio pasillo, con la li
 
 ***
 
-La sala de juntas del piso de administración tenía una mesa para doce y nunca se usaba con más de cinco. A las siete y media había cuatro socios sentados y un hombre de pie.
+La sala de juntas del piso de administración tenía una mesa para doce y nunca se usaba con más de cinco. A las siete y media había cuatro socios sentados y un hombre de pie. El quinto, Fabrizio, estaba con Paola y la niña; había llamado a Chiara dos veces antes de las siete.
 
 Kal se había quedado junto a la ventana, con la carpeta de facturas de la grúa bajo el brazo porque era lo único que tenía a mano que explicara qué hacía ahí. Chiara lo había hecho pasar con dos frases: el señor Mercer había presentado semanas atrás una propuesta de seguridad para el casino, y esta mañana el casino la iba a necesitar.
 

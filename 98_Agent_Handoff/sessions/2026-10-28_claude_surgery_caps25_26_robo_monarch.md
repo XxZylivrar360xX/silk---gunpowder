@@ -4,7 +4,7 @@ Fuente: [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_caps25_26_robo_monarch_la_
 
 ## Aplicado en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/22b_Con_Su_Proveedor]]
 
-- **O-01, la fecha:** en la llamada del domingo, «Mañana a la una» pasa a «Mañana en la noche, a la una». Cuadra con el lunes completo y con el intercambio de la madrugada del martes.
+- **O-01, la fecha:** en la llamada del domingo, «Mañana a la una» pasa a «Mañana en la noche. A la una de la madrugada». Cuadra con el lunes completo y con el intercambio de la madrugada del martes.
 - **O-02, el dinero:** «Seis mil, como quedamos. Danny también» pasa a «Tres mil». Tres mil por cabeza son los seis mil de la tarifa. Se conserva «Danny no fue / Danny vio el video».
 - **O-03, la resistencia de los ladrones:** el alto mira el camino hacia la ciudad, «como si por ahí ya viniera alguien con las luces apagadas», antes de ceder la bolsa.
 - **O-04, la barrera:** se agrega «Se había quedado arriba». ChatGPT lo leyó como si el coche hubiera salido con la barrera cerrada, pero el texto ya decía que no registró «ni abrir ni cerrar».
@@ -12,7 +12,7 @@ Fuente: [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_caps25_26_robo_monarch_la_
 
 ## Sin cambios
 
-- O-06 (Fabrizio no está en la reunión de socios) y O-07 (North Guard «en trámite») siguen PENDIENTES en la cabecera del 22a.
+- O-06, resuelto (CANON DEL AUTOR): Fabrizio falta a la reunión porque está con Paola y la niña. Una línea en el 22a: «El quinto, Fabrizio, estaba con Paola y la niña; había llamado a Chiara dos veces antes de las siete» (las llamadas son DISEÑO), para que no se lea como alejamiento temprano. O-07, resuelto (CANON DEL AUTOR): North Guard sigue «en trámite» todo el Libro I y se concreta en *Sombras de Poder* (anotado en [[02_Characters/Kal_Mercer]]).
 - O-08 es sólo vigilancia: no tocar la ambigüedad moral del desenlace.
 
 ## Pasada `editorial-surgery` (SURGERY, autorizada por el autor)

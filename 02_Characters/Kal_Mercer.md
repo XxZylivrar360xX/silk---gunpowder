@@ -380,6 +380,8 @@ Después del piano, Kal cobra por fin el cifrado ("Ya que estamos contando secre
 
 Es su empresa de seguridad legítima. La anuncia en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05c_La_Pizza_De_Calabaza|Cap. 5c]] y le ofrece el servicio al Monarch. (La semilla que tenía en la tumba de Michael del Cap. 1, "sobre todo seguridad... O proteges, o te protegen", salió con el cementerio el 2026-10-08.) Cuándo se concreta, su relación con El Patio y con Eagle Eye: PENDIENTE ([[01_Timeline/03_Libro_02_Sombras_De_Poder]]).
 
+> **CANON DEL AUTOR (2026-10-28):** en todo el Libro I la empresa sigue «en trámite», sin licencia (Cap. 25, ante Tommaso). Se concreta en *Sombras de Poder*; ningún capítulo del I la da por constituida ni contratada formalmente.
+
 ## *Sombras de Poder* — el límite — CANON DEL AUTOR (2026-10-12)
 
 Plan: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].

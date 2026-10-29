@@ -4,7 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
-- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_caps25_26_robo_monarch]] · Caps. 25–26: cirugía con base en el reporte de ChatGPT, en el 22b (fecha del intercambio, tres mil por cabeza, el alto duda, la barrera arriba). CANON DEL AUTOR: Roy Boone deserta y los Devil Splicers se deshacen. Más una pasada `editorial-surgery` (8 microediciones; corrige un catálogo falso del 22a).
+- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_caps25_26_robo_monarch]] · Caps. 25–26: cirugía con base en el reporte de ChatGPT, en el 22b (fecha del intercambio, tres mil por cabeza, el alto duda, la barrera arriba). CANON DEL AUTOR: Roy Boone deserta y los Devil Splicers se deshacen. Más una pasada `editorial-surgery` (8 microediciones; corrige un catálogo falso del 22a). CANON DEL AUTOR: Fabrizio falta a la junta por estar con Paola y la niña; North Guard sigue «en trámite» hasta el Libro II.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_renumeracion_58]] · Libro I renumerado a 58 caps.: 22a y 22b = Caps. 25–26, antiguos 26–57 → 27–58; `22_Causalidad.md` retirado (prosa en git).
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_draft_22b_con_su_proveedor]] · Prosa BORRADOR del 22b *Con su proveedor* (robo del Monarch, segunda mitad): Danny lee el auto y calla, Nadir contra Chiara («el proveedor es Kal»), Tommaso recluta a la valet, Kal le paga a Irene, entrega camaleón, Voss y Lucía, línea canon de Dario.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_draft_22a_la_cifra]] · Prosa BORRADOR del 22a *La cifra* (robo del Monarch, primera mitad); Voss se estrena en el Libro I.
