@@ -12,7 +12,7 @@ Fuente: [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_caps25_26_robo_monarch_la_
 
 ## Sin cambios
 
-- O-06, resuelto (CANON DEL AUTOR): Fabrizio falta a la reunión porque está con Paola y la niña. Una línea en el 22a: «El quinto, Fabrizio, estaba con Paola y la niña; había llamado a Chiara dos veces antes de las siete» (las llamadas son DISEÑO), para que no se lea como alejamiento temprano. O-07, resuelto (CANON DEL AUTOR): North Guard sigue «en trámite» todo el Libro I y se concreta en *Sombras de Poder* (anotado en [[02_Characters/Kal_Mercer]]).
+- O-06, resuelto (CANON DEL AUTOR): Fabrizio falta a la reunión porque está con Paola y la niña. Una línea en el 22a: «El quinto, Fabrizio, estaba con Paola y la niña; había llamado a Chiara dos veces antes de las siete» (las llamadas son DISEÑO), para que no se lea como alejamiento temprano. O-07, resuelto (CANON DEL AUTOR): North Guard sigue «en trámite» todo el Libro I y se concreta en *Sombras de Poder* (anotado en [[02_Characters/Kal_Mercer]]). Motivo: Kal la tiene en mente, pero tras el regreso de Italia y el cumpleaños de Chiara no le da seguimiento por los acontecimientos del final del libro.
 - O-08 es sólo vigilancia: no tocar la ambigüedad moral del desenlace.
 
 ## Pasada `editorial-surgery` (SURGERY, autorizada por el autor)
