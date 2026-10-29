@@ -17,7 +17,7 @@ Función: "Institución". Chiara agota la vía legal y política: abogados del M
 - Regla de diálogo 05 (2026-10-28, DISEÑO, espera lectura): cortes de eco y turnos perdidos; [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_jurisdiccion_cap50]].
 -->
 
-# Capítulo 50 — Jurisdicción
+# Capítulo 51 — Jurisdicción
 
 El teléfono sonó antes de las ocho.
 

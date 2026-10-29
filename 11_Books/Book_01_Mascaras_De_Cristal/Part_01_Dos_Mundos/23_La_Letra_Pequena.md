@@ -15,7 +15,7 @@ Rocco (2026-10-22, decision del autor; prosa DISENO pendiente de lectura; el est
 Regla de dialogo 05 2026-10-28 (pedido del autor; DISEÑO pendiente de lectura; el estado se conserva; ver 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_nada_caro_cap26.md): Rivers ya no remata "A un juez sí puede cambiárselas" (eco de "cambia"; no se lo discute); en el loft Kal toma por fin la hoja (antes la "dejaba" sin tenerla); en la llamada se unen las dos replicas seguidas de Rivers.
 -->
 
-# Capítulo 26 — Nada caro
+# Capítulo 27 — Nada caro
 
 El sobre llegó al taller a las nueve y doce de la mañana, entre una factura de neumáticos, el cheque del mes del Monarch firmado por Matteo Bellacorte y un aviso del condado por una grúa que llevaba tres semanas estacionada donde no debía. Membrete de una sociedad que Kal conocía demasiado bien: dos páginas de lenguaje pulcro que decían, de tres maneras distintas para que pareciera inevitable, que su nombre ya no figuraba en el acuerdo del concesionario.
 

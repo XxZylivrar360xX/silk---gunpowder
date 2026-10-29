@@ -36,7 +36,7 @@ Reconocimiento (2026-09-29, decision del autor): Chiara ubica a Harper como la m
 **Siembra de la foto (2026-10-02, CANON DEL AUTOR; prosa DISEÑO del agente, pendiente de lectura):** al volver a la orilla, Kal y Chiara se quedan de la mano mirando la última luz; Héctor la fotografía sin avisar (sólo se ve que guarda el teléfono). Resuelto con el autor 2026-10-02: luz sobre el agua (no tras los árboles); la calavera de Kal no se ve en la foto. Paga en la apertura del Cap. 33 (el cuadro con moño) y en el Cap. 50 (monólogo; Chiara lo lleva al loft). Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
 -->
 
-# Capítulo 36 — Vamos a casa
+# Capítulo 37 — Vamos a casa
 
 La tarde en el Monarch fue una sucesión de cosas pequeñas que había que resolver antes de que se acumularan: una versión que corregir, un empleado con una pregunta de vestuario, un papelito doblado que uno de sus sussurros le hizo llegar con un nombre que todavía no significaba nada. Chiara lo fue archivando todo, cada cosa en su sitio, con la misma cabeza que esa mañana había estado sentada sobre una piedra escuchando el nombre de un general.
 

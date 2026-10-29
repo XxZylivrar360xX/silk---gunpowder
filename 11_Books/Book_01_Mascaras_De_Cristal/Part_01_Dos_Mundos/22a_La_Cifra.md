@@ -1,6 +1,6 @@
 <!--
 Estado: BORRADOR (redacción del agente 2026-10-28 con `chapter-drafting`, sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]; DISEÑO pendiente de lectura del autor).
-Sustituye, junto con el 22b, al Cap. 25 *Causalidad* (archivo 22). Numeración provisional: este archivo es el Cap. 25 hasta la renumeración a 58; el 22b será el 26. El título *La cifra* es DISEÑO del agente, discutible.
+Sustituye, junto con el 22b, al Cap. 25 *Causalidad* (archivo 22). Numeración: Cap. 25 de 58 (renumeración aplicada 2026-10-28; el 22b es el 26; la prosa de *Causalidad* se retiró del vault y queda en git). El título *La cifra* es DISEÑO del agente, discutible.
 Protagonistas: Chiara Bellandi, Kal Mercer. Apariciones: Matteo Bellacorte, Charles (Eagle Eye), Lucía Varek, Nicholas Voss (primera aparición en el Libro I), Dario Varek, Tommaso Lusardi, Kenji Oda (sin diálogo). Mencionados: Caluca, Marisol (el Audi), los dos enmascarados (sin nombre).
 Ventana temporal: días después del Cap. 24 (*El primer huésped*); Marisol todavía tiene el Audi. De las 3:41 a media mañana.
 Lugares: The Monarch (cuarto de monitores de Eagle Eye, piso de administración, despacho de Matteo, lobby, bahía de carga, sala de juntas), costera sur.

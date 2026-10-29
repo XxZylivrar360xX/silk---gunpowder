@@ -23,7 +23,7 @@ Función: CANON DEL AUTOR. Abre la Parte III — Ardizzone. Nace el ritual del *
 **Regla de diálogo 05 (2026-10-28, a pedido del autor):** 8 cortes de eco y remate; canon del *Ciao*, de «Qué abrupto» y de Anya intacto. Ver [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_sin_fecha_de_regreso_cap41]]. Sigue BORRADOR.
 -->
 
-# Capítulo 41 — Sin fecha de regreso
+# Capítulo 42 — Sin fecha de regreso
 
 La nota estaba donde Chiara la había dejado hacía diez minutos, sobre el escritorio de Matteo, y seguía sin decir más de lo que decía la primera vez que la leyó.
 

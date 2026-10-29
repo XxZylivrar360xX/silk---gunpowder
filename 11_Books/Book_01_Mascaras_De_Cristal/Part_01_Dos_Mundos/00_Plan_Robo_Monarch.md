@@ -9,7 +9,7 @@ Documento de planeación, no capítulo narrativo.
 
 ## Qué sustituye
 
-**CANON DEL AUTOR (2026-10-28):** el Cap. 25 *Causalidad* (archivo `22`; el huésped ebrio, el auto contra la farola) queda **sustituido** por dos capítulos, archivos `22a` y `22b`. Es el primer trabajo que involucra a la banda completa y el primero que escala en complejidad hasta arriesgar la exhibición de algo. La numeración corrida pasa a **58 capítulos** (todo lo posterior sube +1). La renumeración se hace en una pasada aparte, cuando exista la prosa, para no mover el Book_Map dos veces. La prosa vieja se conserva en el archivo `22` hasta entonces; después se borra (queda en el historial de git, según [[97_Supersedido/README]]).
+**CANON DEL AUTOR (2026-10-28):** el Cap. 25 *Causalidad* (archivo `22`; el huésped ebrio, el auto contra la farola) queda **sustituido** por dos capítulos, archivos `22a` y `22b`. Es el primer trabajo que involucra a la banda completa y el primero que escala en complejidad hasta arriesgar la exhibición de algo. La numeración corrida pasa a **58 capítulos** (todo lo posterior sube +1). La renumeración se hace en una pasada aparte, cuando exista la prosa, para no mover el Book_Map dos veces. La prosa vieja se conserva en el archivo `22` hasta entonces; después se borra (queda en el historial de git, según [[97_Supersedido/README]]). **Aplicado 2026-10-28:** numeración de 58 en Book_Map, encabezados y `CHAPTER_STATUS`; archivo `22_Causalidad.md` retirado (último commit con la prosa: `085b3fc`).
 
 **Lo que hay que reubicar del 25 viejo:**
 - Charles, Eagle Eye y Caluca (el Cap. 29 *El corral* cobra «Kal lo conocía de oídas»): Kal tiene que oír de Caluca en el 22a o el 22b.

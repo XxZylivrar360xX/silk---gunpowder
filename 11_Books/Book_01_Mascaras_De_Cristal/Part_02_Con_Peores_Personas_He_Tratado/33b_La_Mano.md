@@ -10,7 +10,7 @@ Función: CANON DEL AUTOR (2026-10-22): muerte de Vento por fractura de la edad;
 - Sin glosa de la muerte; sin presagio de la yegua.
 -->
 
-# Capítulo 39 — La mano
+# Capítulo 40 — La mano
 
 El teléfono sonó a las cinco y cuarenta.
 

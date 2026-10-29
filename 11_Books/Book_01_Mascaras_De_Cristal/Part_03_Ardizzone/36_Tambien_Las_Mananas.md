@@ -27,7 +27,7 @@ Función: ejecuta [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza o
 **Regla de diálogo 05 (2026-10-28, DISEÑO, espera lectura):** cuatro cortes de remate/eco en la llamada, el Penthouse, el nombre de la yegua y la botella; canon y Héctor intactos. [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_tambien_las_mananas_cap42]].
 -->
 
-# Capítulo 42 — También las mañanas
+# Capítulo 43 — También las mañanas
 
 Kal se lavó las manos en el fregadero de la cocina antes de que hiciera falta café, viendo cómo el agua se llevaba, cada vez más clara, lo que le quedaba de rojo entre los dedos. Las botas, todavía junto a la puerta, tenían más lodo seco del que un hombre podía explicar sin mentir. No pensaba intentarlo con nadie, y mucho menos esa noche con ella.
 

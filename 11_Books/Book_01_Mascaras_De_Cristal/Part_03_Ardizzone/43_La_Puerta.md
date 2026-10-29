@@ -25,7 +25,7 @@ Función: cierra H19 en prosa. Muestra a Kal decidiendo no cruzar una puerta que
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N43-1, N43-2, N43-3. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
-# Capítulo 49 — La puerta
+# Capítulo 50 — La puerta
 
 El loft tenía la misma luz de siempre a esa hora, entrando en franjas por la persiana que nunca cerraba del todo, y aun así el silencio era distinto. Kal se quedó un momento bocarriba antes de moverse, escuchándolo como quien revisa un motor que suena raro sin saber todavía por qué.
 

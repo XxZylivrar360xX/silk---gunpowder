@@ -14,7 +14,7 @@ Regla de dialogo 05 2026-10-28 (autor; DISEÑO, espera lectura; ver 98_Agent_Han
 Microcirugia de dialogo K/C 2026-10-04 (autorizada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]] §7; DISEÑO pendiente de lectura): escaleras sin "Naturalmente / enfermedad / Ambicion / peor pronostico"; ahora "Ma dai... Todavia no cobras el cheque / Ya vi uno". Opcion A del autor: el "mi... amigo" no se nombra despues; la mano ofrecida y soltada "No antes" es la respuesta.
 -->
 
-# Capítulo 27 — Bajo juramento
+# Capítulo 28 — Bajo juramento
 
 Kal había estado en tribunales antes, pero no como empresario, y eso cambiaba hasta el olor. Las salas penales olían a sudor, a desinfectante y a gente esperando que alguien decidiera cuánto de su vida todavía le pertenecía. La sala civil olía a papel: carpetas nuevas, café de máquina, el perfume caro de abogados que cobraban el tiempo que tardaban en cruzar desde el elevador.
 

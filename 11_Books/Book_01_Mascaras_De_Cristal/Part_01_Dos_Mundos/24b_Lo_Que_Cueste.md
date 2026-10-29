@@ -17,7 +17,7 @@ No resolver:
 Craft: voz según 12_Craft_Policies/voice (Kal, Chiara, Nadir). Nadir: darija con moderación, la pregunta de dinero como arma, el silencio como alarma, nunca "suerte". Sin tags emocionales; "dijo" por defecto.
 -->
 
-# Capítulo 28 — Lo que cueste
+# Capítulo 29 — Lo que cueste
 
 El teléfono estaba bocarriba sobre el banco de trabajo, entre una caja de tornillos y el trapo de las manos, y Kal llevaba una hora sin llamar a nadie.
 

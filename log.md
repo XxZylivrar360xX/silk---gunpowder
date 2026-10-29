@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_renumeracion_58]] · Libro I renumerado a 58 caps.: 22a y 22b = Caps. 25–26, antiguos 26–57 → 27–58; `22_Causalidad.md` retirado (prosa en git).
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_draft_22b_con_su_proveedor]] · Prosa BORRADOR del 22b *Con su proveedor* (robo del Monarch, segunda mitad): Danny lee el auto y calla, Nadir contra Chiara («el proveedor es Kal»), Tommaso recluta a la valet, Kal le paga a Irene, entrega camaleón, Voss y Lucía, línea canon de Dario.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_draft_22a_la_cifra]] · Prosa BORRADOR del 22a *La cifra* (robo del Monarch, primera mitad); Voss se estrena en el Libro I.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_plan_robo_monarch]] · Plan del robo del Monarch: el Cap. 25 *Causalidad* se sustituye por 22a y 22b. CANON DEL AUTOR: rutas de Il Consorzio en la caja de Matteo, Dario se queda copia, Lucía y Voss (primera aparición), entrega camaleón de Kal, Mei-Lin «el del billar» (Danny mintió; le consigue droga), Devil Splicers en Old Road Town. Fichas, facción y lugar anotados. PLAN, sin prosa

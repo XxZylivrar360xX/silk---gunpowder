@@ -1,6 +1,6 @@
 <!--
 Estado: BORRADOR (redacción del agente 2026-10-28 con `chapter-drafting`, sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]; DISEÑO pendiente de lectura del autor).
-Sustituye, junto con el 22a, al Cap. 25 *Causalidad* (archivo 22). Numeración provisional: este archivo es el Cap. 26 hasta la renumeración a 58 (convive con el 26 *Nada caro*, archivo 23). El título *Con su proveedor* es DISEÑO del agente, discutible (sale de la línea canon de Dario).
+Sustituye, junto con el 22a, al Cap. 25 *Causalidad* (archivo 22). Numeración: Cap. 26 de 58 (renumeración aplicada 2026-10-28; *Nada caro*, archivo 23, pasó al 27). El título *Con su proveedor* es DISEÑO del agente, discutible (sale de la línea canon de Dario).
 Protagonistas: Kal Mercer, Chiara Bellandi. Apariciones: Danny Hayes, Nadir Amrani, Tommaso Lusardi, la valet nocturna (Mei-Lin, sin nombre), Irene Salcedo, Tomás Vale (sin diálogo), Travis Pruitt y Cody Lambert (los dos enmascarados), Nicholas Voss, Lucía Varek, Dario Varek. Mencionado: Roy Boone.
 Ventana temporal: del domingo del robo (11:30, después de la llamada del 22a) al viernes siguiente. Intercambio y revisión de Voss en la madrugada del martes.
 Lugares: oficina de Almendra Towing (La Almendra), remolque de la contratista en el lote de servicio del Monarch, oficina de Chiara, Canal Seco, gasolinera cerrada del camino viejo (bajo El Mirador, antes de la cuesta de Old Road Town), bahía de carga del Monarch, comisaría (oficina de Lucía), despacho de Dario.

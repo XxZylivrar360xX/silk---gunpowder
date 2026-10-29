@@ -22,7 +22,7 @@ Función: primer capítulo de regreso tras Palermo. Muestra a Kal administrando 
 **Regla de diálogo 05 (2026-10-28, a pedido del autor; DISEÑO, espera lectura):** ecos y remates dobles cortados; frases canon intactas. Detalle: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_un_par_de_dias_mas_cap45]].
 -->
 
-# Capítulo 45 — Un par de días más
+# Capítulo 46 — Un par de días más
 
 El sol de las tres de la tarde le pegaba distinto a Kingsley Field que el azul de la madrugada. Salió por las puertas correderas de la terminal comercial con una sola maleta —con la etiqueta de la aerolínea todavía colgando del asa— y se quedó un segundo entrecerrando los ojos contra la luz, buscando un coche entre la fila de los que esperaban con carteles y los que esperaban sin ellos.
 

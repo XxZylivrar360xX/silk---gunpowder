@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-28 21:10. Al día: 57 de 59.
+Actualizada: 2026-10-28 21:19. Al día: 24 de 58.
 
 ## Pendientes
 
@@ -10,6 +10,38 @@ Actualizada: 2026-10-28 21:10. Al día: 57 de 59.
 |---|---|---|---|---|
 | 25 | La cifra | SIN AUDIO |  | 2026-10-28 20:58 |
 | 26 | Con su proveedor | SIN AUDIO |  | 2026-10-28 21:10 |
+| 27 | Nada caro | SIN AUDIO |  | 2026-10-28 21:19 |
+| 28 | Bajo juramento | SIN AUDIO |  | 2026-10-28 21:19 |
+| 29 | Lo que cueste | SIN AUDIO |  | 2026-10-28 21:19 |
+| 30 | El corral | SIN AUDIO |  | 2026-10-28 21:19 |
+| 31 | Libros abiertos | SIN AUDIO |  | 2026-10-28 21:19 |
+| 32 | Me encuentro bien | SIN AUDIO |  | 2026-10-28 21:19 |
+| 33 | Lleve equipaje | SIN AUDIO |  | 2026-10-28 21:19 |
+| 34 | No hace falta | SIN AUDIO |  | 2026-10-28 21:19 |
+| 35 | Una silla | SIN AUDIO |  | 2026-10-28 21:19 |
+| 36 | Media Baraja | SIN AUDIO |  | 2026-10-28 21:19 |
+| 37 | Vamos a casa | SIN AUDIO |  | 2026-10-28 21:19 |
+| 38 | Línea directa | SIN AUDIO |  | 2026-10-28 21:19 |
+| 39 | Lo único que es mío | SIN AUDIO |  | 2026-10-28 21:19 |
+| 40 | La mano | SIN AUDIO |  | 2026-10-28 21:19 |
+| 41 | Mi pareja | SIN AUDIO |  | 2026-10-28 21:19 |
+| 42 | Sin fecha de regreso | SIN AUDIO |  | 2026-10-28 21:19 |
+| 43 | También las mañanas | SIN AUDIO |  | 2026-10-28 21:19 |
+| 44 | Cuatro letras | SIN AUDIO |  | 2026-10-28 21:19 |
+| 45 | Al revés | SIN AUDIO |  | 2026-10-28 21:19 |
+| 46 | Un par de días más | SIN AUDIO |  | 2026-10-28 21:19 |
+| 47 | Mecánico | SIN AUDIO |  | 2026-10-28 21:19 |
+| 48 | La otra mitad | SIN AUDIO |  | 2026-10-28 21:19 |
+| 49 | Nada | SIN AUDIO |  | 2026-10-28 21:19 |
+| 50 | La puerta | SIN AUDIO |  | 2026-10-28 21:19 |
+| 51 | Jurisdicción | SIN AUDIO |  | 2026-10-28 21:19 |
+| 52 | Ropa limpia | SIN AUDIO |  | 2026-10-28 21:19 |
+| 53 | Llaves | SIN AUDIO |  | 2026-10-28 21:19 |
+| 54 | Intereses | SIN AUDIO |  | 2026-10-28 21:19 |
+| 55 | Su nombre | SIN AUDIO |  | 2026-10-28 21:19 |
+| 56 | Por si vuelve | SIN AUDIO |  | 2026-10-28 21:19 |
+| 57 | A oscuras | SIN AUDIO |  | 2026-10-28 21:19 |
+| 58 | La tierra bajo sus botas | SIN AUDIO |  | 2026-10-28 21:19 |
 
 ## Capítulos
 
@@ -39,44 +71,75 @@ Actualizada: 2026-10-28 21:10. Al día: 57 de 59.
 | 22 | Lo que nadie estaba mirando | AL DIA | 2026-10-28 |
 | 23 | Lo pequeño | AL DIA | 2026-10-28 |
 | 24 | El primer huésped | AL DIA | 2026-10-28 |
-| 25 | Causalidad | AL DIA | 2026-10-28 |
 | 25 | La cifra | SIN AUDIO |  |
 | 26 | Con su proveedor | SIN AUDIO |  |
-| 26 | Nada caro | AL DIA | 2026-10-28 |
-| 27 | Bajo juramento | AL DIA | 2026-10-28 |
-| 28 | Lo que cueste | AL DIA | 2026-10-28 |
-| 29 | El corral | AL DIA | 2026-10-28 |
-| 30 | Libros abiertos | AL DIA | 2026-10-28 |
-| 31 | Me encuentro bien | AL DIA | 2026-10-28 |
-| 32 | Lleve equipaje | AL DIA | 2026-10-28 |
-| 33 | No hace falta | AL DIA | 2026-10-28 |
-| 34 | Una silla | AL DIA | 2026-10-28 |
-| 35 | Media Baraja | AL DIA | 2026-10-28 |
-| 36 | Vamos a casa | AL DIA | 2026-10-28 |
-| 37 | Línea directa | AL DIA | 2026-10-28 |
-| 38 | Lo único que es mío | AL DIA | 2026-10-28 |
-| 39 | La mano | AL DIA | 2026-10-28 |
-| 40 | Mi pareja | AL DIA | 2026-10-28 |
-| 41 | Sin fecha de regreso | AL DIA | 2026-10-28 |
-| 42 | También las mañanas | AL DIA | 2026-10-28 |
-| 43 | Cuatro letras | AL DIA | 2026-10-28 |
-| 44 | Al revés | AL DIA | 2026-10-28 |
-| 45 | Un par de días más | AL DIA | 2026-10-28 |
-| 46 | Mecánico | AL DIA | 2026-10-28 |
-| 47 | La otra mitad | AL DIA | 2026-10-28 |
-| 48 | Nada | AL DIA | 2026-10-28 |
-| 49 | La puerta | AL DIA | 2026-10-28 |
-| 50 | Jurisdicción | AL DIA | 2026-10-28 |
-| 51 | Ropa limpia | AL DIA | 2026-10-28 |
-| 52 | Llaves | AL DIA | 2026-10-28 |
-| 53 | Intereses | AL DIA | 2026-10-28 |
-| 54 | Su nombre | AL DIA | 2026-10-28 |
-| 55 | Por si vuelve | AL DIA | 2026-10-28 |
-| 56 | A oscuras | AL DIA | 2026-10-28 |
-| 57 | La tierra bajo sus botas | AL DIA | 2026-10-24 |
+| 27 | Nada caro | SIN AUDIO | 2026-10-28 |
+| 28 | Bajo juramento | SIN AUDIO | 2026-10-28 |
+| 29 | Lo que cueste | SIN AUDIO | 2026-10-28 |
+| 30 | El corral | SIN AUDIO | 2026-10-28 |
+| 31 | Libros abiertos | SIN AUDIO | 2026-10-28 |
+| 32 | Me encuentro bien | SIN AUDIO | 2026-10-28 |
+| 33 | Lleve equipaje | SIN AUDIO | 2026-10-28 |
+| 34 | No hace falta | SIN AUDIO | 2026-10-28 |
+| 35 | Una silla | SIN AUDIO | 2026-10-28 |
+| 36 | Media Baraja | SIN AUDIO | 2026-10-28 |
+| 37 | Vamos a casa | SIN AUDIO | 2026-10-28 |
+| 38 | Línea directa | SIN AUDIO | 2026-10-28 |
+| 39 | Lo único que es mío | SIN AUDIO | 2026-10-28 |
+| 40 | La mano | SIN AUDIO | 2026-10-28 |
+| 41 | Mi pareja | SIN AUDIO | 2026-10-28 |
+| 42 | Sin fecha de regreso | SIN AUDIO | 2026-10-28 |
+| 43 | También las mañanas | SIN AUDIO | 2026-10-28 |
+| 44 | Cuatro letras | SIN AUDIO | 2026-10-28 |
+| 45 | Al revés | SIN AUDIO | 2026-10-28 |
+| 46 | Un par de días más | SIN AUDIO | 2026-10-28 |
+| 47 | Mecánico | SIN AUDIO | 2026-10-28 |
+| 48 | La otra mitad | SIN AUDIO | 2026-10-28 |
+| 49 | Nada | SIN AUDIO | 2026-10-28 |
+| 50 | La puerta | SIN AUDIO | 2026-10-28 |
+| 51 | Jurisdicción | SIN AUDIO | 2026-10-28 |
+| 52 | Ropa limpia | SIN AUDIO | 2026-10-28 |
+| 53 | Llaves | SIN AUDIO | 2026-10-28 |
+| 54 | Intereses | SIN AUDIO | 2026-10-28 |
+| 55 | Su nombre | SIN AUDIO | 2026-10-28 |
+| 56 | Por si vuelve | SIN AUDIO | 2026-10-28 |
+| 57 | A oscuras | SIN AUDIO | 2026-10-28 |
+| 58 | La tierra bajo sus botas | SIN AUDIO | 2026-10-24 |
 
 ## Historial
 
+- 2026-10-28 21:19 · Cap. 58 (50b_La_Tierra_Bajo_Sus_Botas.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 57 (50_A_Oscuras.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 56 (49_Enfrente.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 55 (48_Su_Nombre.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 54 (47_Intereses.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 53 (46_Llaves.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 52 (45_Ropa_Limpia.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 51 (44_Jurisdiccion.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 50 (43_La_Puerta.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 49 (42_Nada.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 48 (41_La_Otra_Mitad.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 47 (40_Mecanico.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 46 (39_Un_Par_De_Dias_Mas.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 45 (38_Al_Reves.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 44 (37_Cuatro_Letras.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 43 (36_Tambien_Las_Mananas.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 42 (35_Sin_Fecha_De_Regreso.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 41 (34_Mi_Pareja.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 40 (33b_La_Mano.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 39 (33_Mas_De_La_Cuenta.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 38 (32_Linea_Directa.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 37 (31_Vamos_A_Casa.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 36 (30_Media_Baraja.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 35 (29_El_Patio_Ajeno.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 34 (28_La_Correa.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 33 (27_Riesgo_Pendiente.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 32 (26_Me_Encuentro_Bien.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 31 (25_Libros_Abiertos.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 30 (24c_El_Corral.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 29 (24b_Lo_Que_Cueste.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 28 (24_Bajo_Juramento.md) · audio borrado
+- 2026-10-28 21:19 · Cap. 27 (23_La_Letra_Pequena.md) · audio borrado
 - 2026-10-28 19:38 · Cap. 56 (50_A_Oscuras.md) · audio regenerado
 - 2026-10-28 19:38 · Cap. 55 (49_Enfrente.md) · audio regenerado
 - 2026-10-28 19:38 · Cap. 54 (48_Su_Nombre.md) · audio regenerado
