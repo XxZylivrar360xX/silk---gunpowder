@@ -22,6 +22,8 @@
 **Qué representa:** la explotación del barrio.
 **Estado:** vivo; derrota diseñada (CANON DEL AUTOR 2026-09-19) — ver "Pendientes".
 
+> **DISEÑO (2026-10-28), NUNCA en prosa:** eslabón entre Dario y los Devil Splicers en el robo del Monarch (Caps. 22a–22b), como lo fue en el rumor de la bodega de Irene ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]). No se cobra aquí: su caída sigue en el II.
+
 ---
 
 ## Su filosofía, que es su apodo

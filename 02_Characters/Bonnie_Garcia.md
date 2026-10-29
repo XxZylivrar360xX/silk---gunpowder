@@ -54,7 +54,7 @@ Sobrevivir no es ganar: pierde a Mei-Lin, La Almendra, Chiara, su red cotidiana,
 
 ## Quién es
 
-Bonnie viene de la misma banda rival desintegrada que [[02_Characters/Mei_Lin_Zhao]]. Entra a la organización de Kal, pero su vínculo más importante no es con Kal: es con Chiara.
+Bonnie viene de la misma banda rival desintegrada que [[02_Characters/Mei_Lin_Zhao]]. **CANON DEL AUTOR (2026-10-28):** la banda son Los Devil Splicers (Old Road Town). **DISEÑO:** Bonnie no participa en el robo del Monarch ni sabe que Mei-Lin dio el dato ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]). Entra a la organización de Kal, pero su vínculo más importante no es con Kal: es con Chiara.
 
 Se acerca a [[02_Characters/Chiara_Bellandi]] y se vuelve su protegida.
 

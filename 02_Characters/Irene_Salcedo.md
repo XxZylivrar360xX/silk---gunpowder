@@ -4,6 +4,8 @@
 
 *Seda y Pólvora — Ficha de personaje*
 
+> **DISEÑO (2026-10-28):** Kal paga en el Cap. 22b el aviso del Cap. 20 («me lo dice a mí primero») con el nombre de la banda, los Devil Splicers, antes de que caigan con Voss. No conoce el de Mei-Lin ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]).
+
 ## Identidad
 
 - Cabeza visible de [[03_Factions/La_Ronda_del_Canal]], la red de esquinas y bodegas del Canal Seco, sur de San Aurelio.

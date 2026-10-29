@@ -21,6 +21,8 @@
 
 > **PENDIENTE:** cómo evoluciona exactamente esa relación de "informante" — qué le da Kal a cambio, si ella sabe hasta dónde llega la mentira, y en qué momento deja de ser útil para volverse peligrosa para cualquiera de los dos.
 
+> **CANON DEL AUTOR (2026-10-28) — embrión:** en el robo del Monarch (Caps. 22a–22b) Kal le entrega a los ladrones como camaleón, pareciendo hacer lo contrario. DISEÑO: ella recibe el robo cerrado y un caso de heroína en O.R.T., demasiado conveniente; huele una firma que no puede probar. Va en persona porque es el casino de su padre; Voss es su chofer y le llama la atención para que no sea como Blake ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]).
+
 ## Función narrativa
 
 Lucia puede convertirse en la vía legal para derribar a su padre. Dario es para ella un magnate hábil con negocios en zonas grises, no todavía el jefe criminal que realmente es.

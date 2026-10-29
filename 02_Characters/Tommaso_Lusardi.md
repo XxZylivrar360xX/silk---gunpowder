@@ -19,6 +19,8 @@
 
 > Plan anterior retirado: [[97_Supersedido/Tommaso_Muere_Al_Abrir_Libro_II]].
 
+> **CANON DEL AUTOR (2026-10-28) — el robo del Monarch ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]).** Roce con Kal por la participación de él y de los muchachos en asuntos del casino; empuja la sospecha sobre Kenji. Encuentra a la valet que dio el dato (Mei-Lin) y la recluta como fuente: inicio de la línea Tommaso → Mei-Lin. **DISEÑO:** entregar a Kenji le parece la salida racional (un soplón interno cierra el caso sin que nadie mire la caja); la suelta de golpe cuando tiene a la valet, y Chiara lo nota. Cree que se robó efectivo: no sabe de las rutas. Nota que Dario nunca preguntó qué había en la caja.
+
 ---
 
 ## Quien es

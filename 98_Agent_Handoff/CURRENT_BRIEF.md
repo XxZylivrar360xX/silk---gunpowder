@@ -8,7 +8,7 @@ Actualizado: 2026-10-28. Máximo 800 palabras. Brief anterior íntegro: [[98_Age
 2. **Esperan respuesta del autor (Libro II):** F2, semillas Kal–Chiara, voces REL-01 y Navidad de Almendra Towing (en pausa). Lista en [[98_Agent_Handoff/PENDING]].
 3. **Esperan lectura del autor (Libro I):** auditorías, frentes 3–5 y la prosa DISEÑO de abajo. Rutas en PENDING.
 4. **Arco lector Caps. 17–19:** aplicado; espera lectura: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Propuesta_Arco_Caps_14-16_Lector]].
-5. **Siguiente posible:** consolidar S1 (Cap. 20, archivo 17) de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]].
+5. **Robo del Monarch (PLAN 2026-10-28):** el Cap. 25 *Causalidad* se sustituye por 22a y 22b. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]. Siguiente: redactar con `chapter-drafting`; después, renumerar a 58. CANON nuevo: rutas de Il Consorzio en la caja de Matteo, Dario con copia, Lucía y Voss, Mei-Lin «el del billar» (Danny mintió en el 20; ella le consigue droga), Devil Splicers en Old Road Town. Detalle: [[98_Agent_Handoff/sessions/2026-10-28_claude_plan_robo_monarch]].
 
 ## Estado del manuscrito (Libro I, *Máscaras de Cristal*)
 

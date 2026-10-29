@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_plan_robo_monarch]] · Plan del robo del Monarch: el Cap. 25 *Causalidad* se sustituye por 22a y 22b. CANON DEL AUTOR: rutas de Il Consorzio en la caja de Matteo, Dario se queda copia, Lucía y Voss (primera aparición), entrega camaleón de Kal, Mei-Lin «el del billar» (Danny mintió; le consigue droga), Devil Splicers en Old Road Town. Fichas, facción y lugar anotados. PLAN, sin prosa
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_a_oscuras_cap56]] · Cap. 56: regla 05 en *A oscuras* (fuera «¿Nadie?» / «Eso dijo», el «No» a «No me digas quién» y el «Ya sé» al valet; monólogo, columna canon y «—Ciao, bella.» intactos). DISEÑO, espera lectura; sin audiolibro.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_intereses_cap53]] · Cap. 53: regla 05 en *Intereses* (fuera «Completas», «Hablemos del tiempo», «Por eso no tiene nombre», «Una.», «Yo voy con él», «¿Para qué?» y ecos de trámite; «A él no», «No míos», «De mí, no» y «Nada no existe» intactos). DISEÑO, espera lectura; sin audiolibro.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_por_si_vuelve_cap55]] · Cap. 55: regla 05 en *Por si vuelve* (fuera «¿Copia qué?», «No pedía», «¿Usted puede?» / «¿Cuándo?», «El edificio tiene dueño», «¿Quién ganó?», «¿Yo qué?», «Ya sé que no está», «¿Así cómo?»; Valenti y Fabrizio en canon intactos). DISEÑO, espera lectura; sin audiolibro.

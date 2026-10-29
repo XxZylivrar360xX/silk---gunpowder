@@ -19,6 +19,8 @@ Es una de las primeras grietas profundas entre Nadir persona y Nadir miembro de 
 **Alias:** pendiente.
 **Estado:** vivo.
 
+> **CANON DEL AUTOR (2026-10-28):** en el robo del Monarch (Cap. 22b) choca con Chiara (de usted) por el pago: él lo quiere para los muchachos, ella ofrece la tarifa habitual de Kal; el proveedor es Kal, no la banda. DISEÑO: la raíz es el Cap. 20 («¿Alguien les preguntó…?» / «No»); esta vez Kal les pregunta ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]).
+
 ---
 
 ## Apariencia

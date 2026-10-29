@@ -19,6 +19,7 @@
 | **[[05_Locations/Cedar_Flats]]** | Pueblo agrícola lejano del norte | Parcelas de cultivo, mano de obra y discreción rural |
 | **[[05_Locations/Camp_Alder]]** | Noreste restringido | Complejo militar, contratistas, armamento largo |
 | **Los Álamos** | Norte industrial muerto | Refinerías cerradas, chatarra, suelo barato |
+| **Old Road Town (O.R.T.)** | Pueblo viejo tras la montaña del norte | CANON DEL AUTOR (2026-10-28): territorio de los Devil Splicers (heroína) hasta su caída en el Libro I ([[03_Factions/Bandas_Menores_de_San_Aurelio]]) |
 | **Universidad Ashcombe** | A unos minutos al norte de la ciudad, cerca de Lomas de San Jacinto | Universidad de [[02_Characters/Marisol_Grayson]] (derecho). CANON DEL AUTOR (2026-10-13): fundada en 1912 por la familia Ashcombe con dinero de la madera y luego de las refinerías del norte; la familia cayó con las refinerías y la universidad sobrevivió: es lo único de ese dinero que todavía funciona. Los alumnos le dicen «la Ashcombe». Graduación: [[07_Ideas/La_Graduacion_De_Marisol]] |
 
 ---
@@ -56,6 +57,7 @@ El norte rural tiene tres capas que se confunden desde la ciudad, pero no son lo
 | Kingsley Field -> Camp Alder | 20-30 min | No aplica sin acceso |
 | La Almendra -> Cedar Flats | 75-90 min | 60 min de madrugada |
 | Centro -> Camp Alder | 50-65 min | No aplica sin acceso |
+| Centro -> Old Road Town | 15 min | — |
 
 ---
 
