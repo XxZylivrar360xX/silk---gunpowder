@@ -1,3 +1,8 @@
+<!--
+EPUB: EXCLUDE
+Documento de planeación, no capítulo narrativo.
+-->
+
 # Plan — El robo del Monarch (Caps. 22a y 22b)
 
 > **Estado:** PLAN, sin prosa todavía. Decisiones del autor del 2026-10-28 marcadas **CANON DEL AUTOR**; lo demás es **DISEÑO** del agente y se puede discutir. Sesión: [[98_Agent_Handoff/sessions/2026-10-28_claude_plan_robo_monarch]].

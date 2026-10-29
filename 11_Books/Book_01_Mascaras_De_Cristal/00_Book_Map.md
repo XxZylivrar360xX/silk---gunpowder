@@ -38,7 +38,7 @@
 | 22 | `19` | Lo que nadie estaba mirando |
 | 23 | `20` | Lo pequeño |
 | 24 | `21` | El primer huésped |
-| 25 | `22` | Causalidad — **SUSTITUIDO 2026-10-28 por 22a y 22b** (robo del Monarch; renumeración a 58 pendiente; [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch\|plan]]) |
+| 25 | `22` | Causalidad — **SUSTITUIDO 2026-10-28 por 22a y 22b** (robo del Monarch; renumeración a 58 pendiente; [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch\|plan]]). `22a` *La cifra* en BORRADOR 2026-10-28; `22b` sin prosa |
 | 26 | `23` | Nada caro |
 | 27 | `24` | Bajo juramento |
 | 28 | `24b` | Lo que cueste |
