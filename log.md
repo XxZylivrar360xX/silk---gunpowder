@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_cap28_bajo_juramento_orden_procesal]] · Cap. 28: reporte de ChatGPT. BJ-01 (autor): Chiara declara antes que el contador y los empleados de Hoover, porque Kal es el demandante; testimonios intactos. BJ-02 (opción C): las ~2 semanas se quedan como licencia de ritmo. BJ-03 sin cambio. DISEÑO, espera lectura.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_cabecera_cap27_nada_caro]] · Cap. 27: cierre del reporte de ChatGPT. NC-01: cabeceras del 27 y 28 a la numeración vigente (Caps. 22, 25–26, 28). NC-02 (pago del jueves / Kawasaki) sin contradicción; NC-03 («semana interesante») se conserva. Sin cambios de prosa.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_caps25_26_robo_monarch]] · Caps. 25–26: cirugía con base en el reporte de ChatGPT, en el 22b (fecha del intercambio, tres mil por cabeza, el alto duda, la barrera arriba). CANON DEL AUTOR: Roy Boone deserta y los Devil Splicers se deshacen. Más una pasada `editorial-surgery` (8 microediciones; corrige un catálogo falso del 22a). CANON DEL AUTOR: Fabrizio falta a la junta por estar con Paola y la niña; North Guard sigue «en trámite» hasta el Libro II.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_renumeracion_58]] · Libro I renumerado a 58 caps.: 22a y 22b = Caps. 25–26, antiguos 26–57 → 27–58; `22_Causalidad.md` retirado (prosa en git).

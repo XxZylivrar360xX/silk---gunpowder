@@ -12,6 +12,7 @@ REGLA DURA: Tommaso no se vuelve aliado, no explica su motivo, no recibe agradec
 Pasada editorial 2026-09-10 (Claude Code, decision del autor): recuerdo de la primera reunion alineado con el Cap. 2 ("una silla en la mesa", no "participacion"); hecho legible como la contradiccion de Tommaso se suma a transferencias/perdidas/documentos de Garrett para dejar a Hoover sin version, y por que Rivers sabe que Tommaso mintio; corregidos referentes (objecion, defensa, la otra parte, Rivers, focalizacion de Chiara, "cuarto intermedio" fuera); poda de glosas y remates.
 Regla de dialogo 05 2026-10-28 (autor; DISEÑO, espera lectura; ver 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_bajo_juramento_cap27.md): Rivers sin "Esto lo firma"; Villani sin "Me preocupa más cuando lo hacen" ni "Por eso te pago". Estado conservado.
 Microcirugia de dialogo K/C 2026-10-04 (autorizada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]] §7; DISEÑO pendiente de lectura): escaleras sin "Naturalmente / enfermedad / Ambicion / peor pronostico"; ahora "Ma dai... Todavia no cobras el cheque / Ya vi uno". Opcion A del autor: el "mi... amigo" no se nombra despues; la mano ofrecida y soltada "No antes" es la respuesta.
+Reporte ChatGPT 2026-10-28 ([[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_cap28_bajo_juramento_mecanica_judicial]]; decisión del autor; DISEÑO, espera lectura; ver 98_Agent_Handoff/sessions/2026-10-28_claude_cap28_bajo_juramento_orden_procesal.md): BJ-01, Kal demanda, así que declara primero su testigo: el bloque de Chiara (directo y contrainterrogatorio) pasa antes del contador y los empleados de Hoover; entradas "Chiara declaró primero" y "Después del receso, Krane empezó por los papeles". Testimonios intactos; Tommaso sigue después de Chiara. BJ-02 (opción C del autor): las ~2 semanas del sobre a la audiencia con testigos son licencia consciente de ritmo, apoyada en el "empujo para que esto se vea rápido" de Rivers en el 27; no se toca el calendario. BJ-03 sin cambio. Estado conservado.
 -->
 
 # Capítulo 28 — Bajo juramento
@@ -42,31 +43,7 @@ Nada.
 
 ***
 
-Krane empezó por los papeles, que era lo lógico, porque los papeles eran suyos. Decían que Kal había puesto dinero, usado el espacio, cobrado porcentajes variables y traído clientes; no decían, en ninguna línea limpia, que Kal Mercer fuera socio. Toda la estrategia de Hoover cabía en esa diferencia: convertir meses de conducta en una lista de servicios facturables. El contador habló de "compensaciones"; un empleado, de "acuerdos informales"; el otro recordó que Kal daba instrucciones y añadió, servicial, que "todo el mundo daba instrucciones".
-
-Rivers no peleó cada palabra. Dejó que el contador se extendiera, tomó nota, y sólo cuando llegaron a las transferencias abrió la primera carpeta de Garrett y pidió al juez acercarse al estrado.
-
-—¿Es habitual que un proveedor cubra las pérdidas operativas de un negocio que no controla?
-
-—Depende del acuerdo —dijo el contador.
-
-—¿Qué acuerdo?
-
-El contador miró a Krane. El juez levantó la vista de sus notas.
-
-—El comercial.
-
-—¿Dónde está?
-
-Krane se puso de pie para objetar la forma de la pregunta. El juez le concedió la objeción y Rivers reformuló sin perder nada:
-
-—¿Existe ese acuerdo por escrito en alguna de las cajas que la defensa trajo hoy?
-
-Silencio. Kal no miró a Hoover; no hacía falta. Por primera vez en dos semanas, la otra parte estaba haciendo justo lo que Kal quería: intentar explicar de más.
-
-***
-
-Llamaron a Chiara después del receso. Caminó al estrado sin mirar a Kal, juró decir la verdad y se sentó. Rivers empezó sencillo: nombre, ocupación, relación con el Monarch, fecha aproximada de llegada a San Aurelio.
+Chiara declaró primero. Caminó al estrado sin mirar a Kal, juró decir la verdad y se sentó. Rivers empezó sencillo: nombre, ocupación, relación con el Monarch, fecha aproximada de llegada a San Aurelio.
 
 —¿Conocía usted al señor Mercer antes de llegar a la ciudad?
 
@@ -175,6 +152,30 @@ Krane siguió la mirada. Algo parecido a la satisfacción le cruzó la cara.
 —Gracias. No hay más preguntas.
 
 Chiara bajó del estrado. Al pasar junto a Kal no lo miró, pero su mano rozó el borde de la mesa. Una vez. Nada más.
+
+***
+
+Después del receso, Krane empezó por los papeles, que era lo lógico, porque los papeles eran suyos. Decían que Kal había puesto dinero, usado el espacio, cobrado porcentajes variables y traído clientes; no decían, en ninguna línea limpia, que Kal Mercer fuera socio. Toda la estrategia de Hoover cabía en esa diferencia: convertir meses de conducta en una lista de servicios facturables. El contador habló de "compensaciones"; un empleado, de "acuerdos informales"; el otro recordó que Kal daba instrucciones y añadió, servicial, que "todo el mundo daba instrucciones".
+
+Rivers no peleó cada palabra. Dejó que el contador se extendiera, tomó nota, y sólo cuando llegaron a las transferencias abrió la primera carpeta de Garrett y pidió al juez acercarse al estrado.
+
+—¿Es habitual que un proveedor cubra las pérdidas operativas de un negocio que no controla?
+
+—Depende del acuerdo —dijo el contador.
+
+—¿Qué acuerdo?
+
+El contador miró a Krane. El juez levantó la vista de sus notas.
+
+—El comercial.
+
+—¿Dónde está?
+
+Krane se puso de pie para objetar la forma de la pregunta. El juez le concedió la objeción y Rivers reformuló sin perder nada:
+
+—¿Existe ese acuerdo por escrito en alguna de las cajas que la defensa trajo hoy?
+
+Silencio. Kal no miró a Hoover; no hacía falta. Por primera vez en dos semanas, la otra parte estaba haciendo justo lo que Kal quería: intentar explicar de más.
 
 ***
 
