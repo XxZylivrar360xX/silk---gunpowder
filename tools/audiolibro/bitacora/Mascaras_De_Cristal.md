@@ -2,13 +2,14 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-28 20:58. Al día: 57 de 58.
+Actualizada: 2026-10-28 21:10. Al día: 57 de 59.
 
 ## Pendientes
 
 | Cap. | Título | Estado | Motivo | Desde |
 |---|---|---|---|---|
 | 25 | La cifra | SIN AUDIO |  | 2026-10-28 20:58 |
+| 26 | Con su proveedor | SIN AUDIO |  | 2026-10-28 21:10 |
 
 ## Capítulos
 
@@ -40,6 +41,7 @@ Actualizada: 2026-10-28 20:58. Al día: 57 de 58.
 | 24 | El primer huésped | AL DIA | 2026-10-28 |
 | 25 | Causalidad | AL DIA | 2026-10-28 |
 | 25 | La cifra | SIN AUDIO |  |
+| 26 | Con su proveedor | SIN AUDIO |  |
 | 26 | Nada caro | AL DIA | 2026-10-28 |
 | 27 | Bajo juramento | AL DIA | 2026-10-28 |
 | 28 | Lo que cueste | AL DIA | 2026-10-28 |

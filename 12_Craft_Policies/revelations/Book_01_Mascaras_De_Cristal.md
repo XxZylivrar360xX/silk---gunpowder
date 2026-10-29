@@ -202,3 +202,13 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Quién NO debe saberlo:** nadie hasta que el autor fije el nuevo mecanismo (antes: "antes de la muerte de Tommaso"); la ficha de Tommaso pide no mostrar que Mei-Lin informa. Ni el 50 ni el 50b dependen de que Dario sepa del asalto.
 - **Pago:** F2, en *Sombras de Poder*.
 - **Estado:** sembrado (siembra muda), sin pagar.
+
+---
+
+## El robo del Monarch: lo que cada uno calla (Caps. 25–26, archivos 22a–22b)
+
+- **Qué es:** en el 22b se siembran cuatro silencios. (1) Danny deja que Kal crea que «el del billar» es uno de los dos ladrones; además no va al intercambio y se excusa con detalle de color. (2) Tommaso recluta como fuente a la valet nocturna de la barrera (Mei-Lin, sin nombre) sin mencionar el robo, retira lo de Kenji y no le dice nada a Dario. (3) Lucía anota la hora de la llamada de Kal (1:52) y que el dinero volvió «al dólar», y no hace nada. (4) Dario nunca pregunta qué había en la caja (lo nota Tommaso). La cadena Dario → Crowe → valet → ladrones y la copia de las rutas **nunca** van en prosa.
+- **Quién lo sabe:** el lector ve los cuatro gestos; nadie en escena ve más de uno.
+- **Quién NO debe saberlo todavía:** Kal (la mentira de Danny, la valet), Chiara (qué encontró Tommaso), Dario (la valet).
+- **Pago:** la mentira de Danny es candidata para F2 (PENDIENTE); la línea Tommaso → Mei-Lin corre hasta el 48 y el II; Lucía, embrión de la relación de «informante» (PENDIENTE en su ficha); la valet tiene nombre en el Cap. 43 («Kal no había preguntado más» se lee doble).
+- **Estado:** sembrado, sin pagar. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]].

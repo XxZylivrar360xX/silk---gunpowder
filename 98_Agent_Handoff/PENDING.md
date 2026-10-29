@@ -40,7 +40,7 @@ Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Todo 
 Plan: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]].
 
 - **Falta:** consolidar S1 (Irene, Danny, Walt, La Ronda) y diseñar a Fabrizio en la Parte I. Resuelto en el plan del robo ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]): «el tipo del billar» es Mei-Lin y Kal le paga a Irene el nombre de la banda en el 22b (DISEÑO). Compatible con el Cap. 37 (archivo 32): ahí Irene cambia lo que falta del trato de carga por un favor, y el nombre ya está pagado.
-- **Robo del Monarch (22a/22b):** plan cerrado. [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/22a_La_Cifra|22a *La cifra*]] en BORRADOR (2026-10-28), espera lectura; preguntas abiertas en [[98_Agent_Handoff/sessions/2026-10-28_claude_draft_22a_la_cifra]]. Falta el 22b y después la renumeración a 58.
+- **Robo del Monarch (22a/22b):** plan cerrado. [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/22a_La_Cifra|22a *La cifra*]] y [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/22b_Con_Su_Proveedor|22b *Con su proveedor*]] en BORRADOR (2026-10-28), esperan lectura; preguntas abiertas en [[98_Agent_Handoff/sessions/2026-10-28_claude_draft_22a_la_cifra]] y [[98_Agent_Handoff/sessions/2026-10-28_claude_draft_22b_con_su_proveedor]]. Siguiente: renumeración a 58 (Book_Map, encabezados, CHAPTER_STATUS, `CLAUDE.md`, `AGENTS.md`, brief, audiolibro) y borrar la prosa del archivo 22.
 - **Decide el autor:** ¿el puño de la camisa es exclusivo de los Lusardi (29, Dario; 1, Kal)? ¿Se ajusta en el 4:248 «el apellido de su hermano como cuchillo», ahora que el cuchillo es "Bellandi"?
 
 ## Decisiones que dejó la lectura del libro
