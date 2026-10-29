@@ -81,6 +81,8 @@ Se entera en El Relevo (Volvo de la fiscal abandonado, la grúa de la Almendra, 
 
 > **¿Vuelve? RESUELTO (2026-09-20):** vuelve una vez, en el Cap. 38, y sale acompañado a tierra. No es rival, no hay triángulo. **Cobrado (2026-10-03):** su regreso de verdad ocurre en la trilogía de Elenna, y no por Chiara. Ver abajo.
 
+> **Cap. 30, *Oveja entre lobos* (2026-10-29, CANON DEL AUTOR: sin diálogo, evita a Kal deliberadamente):** en la comisaría de Calle Corona oye «Bellandi, Chiara» en la denuncia que Voss le toma a Kal, mira a Kal y se va sin decir nada. Kal ve «STANTON» en el gafete y el nombre no le dice nada. Sale antes de que Collins hable del Peugeot (ledger de revelaciones). La regla «vuelve una sola vez» ya estaba relajada por el Cap. 13 (archivo 10); el yate sigue siendo su único regreso con escena propia.
+
 > **DISEÑO (2026-09-01), escrito en el Capítulo 12 (*Roma Atrii*):** después de H3-a, Blake tiene un romance breve con una recepcionista del Departamento que termina mal — ella lo deja, y él se lo toma peor de lo que admitiría en voz alta. Chiara se entera por Mabel, como chisme de barra, sin certeza confirmada todavía. Primer hilo hacia el PENDIENTE de arriba: un Blake despechado dos veces (Chiara, y ahora esto) es material acumulado, no usado aún.
 
 > **RESUELTO (2026-08-23):** su lugar en el Departamento es patrulla/tránsito. Funciona cerca de controles, persecuciones, orgullo al volante y escenas donde la policía llega primero, no como detective del caso central.

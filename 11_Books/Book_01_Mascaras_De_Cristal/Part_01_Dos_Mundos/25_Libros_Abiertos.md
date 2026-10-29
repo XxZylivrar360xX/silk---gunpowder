@@ -24,7 +24,7 @@ Cementerio (2026-10-08, orden del autor; DISENO): la busqueda de "¿Tu cuando lo
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N25-1 a N25-10; N25-5, N25-8 y N25-10 comprimidos a "Lo dijo sin subir la voz / sin rencor / despacio" para no perder las pausas entre revelaciones. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
-# Capítulo 31 — Libros abiertos
+# Capítulo 32 — Libros abiertos
 
 Villani Motors olía a cuero nuevo y a cera de pintura, un olor que Kal empezaba a asociar con dinero limpio y no con el aceite quemado de toda su vida anterior.
 

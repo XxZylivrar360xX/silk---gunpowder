@@ -24,7 +24,7 @@ La muñeca (2026-10-22, CANON DEL AUTOR en sustancia: la cuenta abierta une el s
 Regla de diálogo 05 (2026-10-28, a pedido del autor; prosa DISEÑO, espera lectura): fuera «Lo sé» y «Entonces no sabes» (Nadir), «Yo voy con él», «Eso ya me lo dijo», «¿Para qué?» (Garrett), «Completas», «Hablemos del tiempo», «Puedo», «Por eso no tiene nombre», «Una.» y el «Ya lo sé» a Lucía. Sesión: 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_intereses_cap53.md.
 -->
 
-# Capítulo 54 — Intereses
+# Capítulo 55 — Intereses
 
 La camioneta seguía contra la tapia, con la trompa hacia el portón. Alguien le había quitado el termo del asiento del copiloto. La mochila seguía ahí.
 

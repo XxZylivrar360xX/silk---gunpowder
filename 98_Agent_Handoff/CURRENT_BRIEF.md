@@ -1,6 +1,6 @@
 # Current Brief
 
-Actualizado: 2026-10-28. Máximo 800 palabras. **Numeración de 58 desde 2026-10-28:** los números de capítulo anteriores a esa fecha (sesiones, auditorías y las notas de abajo que no digan lo contrario) usan la de 57; del 26 en adelante suman +1. Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-10-28_CURRENT_BRIEF]].
+Actualizado: 2026-10-29. Máximo 800 palabras. **Numeración de 59 desde 2026-10-29:** los documentos del 2026-10-28 usan la de 58 (del 31 en adelante suman +1); los anteriores, la de 57 (del 26 en adelante suman +1, y del 31, +2). Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-10-28_CURRENT_BRIEF]].
 
 ## Foco y siguiente paso
 
@@ -12,7 +12,8 @@ Actualizado: 2026-10-28. Máximo 800 palabras. **Numeración de 58 desde 2026-10
 
 ## Estado del manuscrito (Libro I, *Máscaras de Cristal*)
 
-- **Caps. 1–58 en prosa**, numeración y títulos definitivos 2026-10-22; el 2026-10-23 la persecución se separó del 10 como Cap. 11 *La teniente* (archivo 08b); el 2026-10-28 el robo del Monarch (22a y 22b, Caps. 25–26) sustituyó a *Causalidad*. Tabla: [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]. Parte I 1–31 (archivos 01–25), Parte II 32–41 (26–34, con 33b), Parte III 42–58 (35–50b). "—Ciao, bella." cierra el 57; el 58 (Halbrook) cierra el libro ([[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]). Estados: [[12_Craft_Policies/CHAPTER_STATUS]]. Leído no es sellado.
+- **Cap. 30 *Oveja entre lobos* / Cap. 31 *Vienes conmigo* (2026-10-29, CANON; prosa DISEÑO):** rescate con ambulancia, robo fingido, comisaría (Voss, Blake, Collins); Lucía cita la denuncia en el 39; corte del 24c en 24c + 24d. [[98_Agent_Handoff/sessions/2026-10-29_claude_cap30_oveja_entre_lobos]]
+- **Caps. 1–59 en prosa**, numeración y títulos definitivos 2026-10-22; el 2026-10-23 la persecución se separó del 10 como Cap. 11 *La teniente* (archivo 08b); el 2026-10-28 el robo del Monarch (22a y 22b, Caps. 25–26) sustituyó a *Causalidad*. Tabla: [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]. Parte I 1–31 (archivos 01–25), Parte II 32–41 (26–34, con 33b), Parte III 42–58 (35–50b). "—Ciao, bella." cierra el 57; el 58 (Halbrook) cierra el libro ([[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]). Estados: [[12_Craft_Policies/CHAPTER_STATUS]]. Leído no es sellado.
 - **Calendario (CANON):** sep A1 → 5 ene A3; la Mesa, 13 dic; Kal preso 19 dic–5 ene.
 - **San Aurelio (CANON):** Oregon, inspirada en Portland, bahía ficticia; vía costera 101. Mapa: [[99_Reference/location_references/mapa_san_aurelio.png]].
 - **Mando policial (CANON):** sin jefe en el I; Lucía, subjefa en funciones. II: Lucía jefa interina, Collins capitana (subjefa al cierre), Clark nombrada al cierre. III: Lucía y Collins subjefas bajo Clark; Lucía jefa al renunciar Clark.

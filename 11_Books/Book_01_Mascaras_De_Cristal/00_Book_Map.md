@@ -2,8 +2,10 @@
 
 ## Arquitectura operativa vigente — 2026-09-22
 
-> **NUMERACIÓN DEFINITIVA (2026-10-22, autor; 58 capítulos desde 2026-10-28):** el Libro I usa numeración corrida de 58
-> capítulos. El 2026-10-23 la persecución con Collins se separó del Cap. 10 como Cap. 11, *La teniente*, archivo `08b`
+> **NUMERACIÓN DEFINITIVA (2026-10-22, autor; 59 capítulos desde 2026-10-29):** el Libro I usa numeración corrida de 59
+> capítulos. El 2026-10-29 el Cap. 30 (archivo `24c`) pasó a llamarse *Oveja entre lobos* y su segunda mitad (parador,
+> loft, coda) se separó como Cap. 31, *Vienes conmigo*, archivo `24d`; los antiguos Caps. 31–58 corrieron a 32–59 (los
+> documentos fechados hasta el 2026-10-28 usan la numeración de 58). El 2026-10-23 la persecución con Collins se separó del Cap. 10 como Cap. 11, *La teniente*, archivo `08b`
 > (los antiguos Caps. 11–56 corrieron a 12–57; los documentos fechados el 2026-10-22 usan la numeración de 56). El
 > 2026-10-28 el Cap. 25 *Causalidad* (archivo `22`) se sustituyó por el robo del Monarch, Caps. 25 *La cifra* (`22a`) y
 > 26 *Con su proveedor* (`22b`); los antiguos Caps. 26–57 corrieron a 27–58 (los documentos fechados hasta el
@@ -11,8 +13,8 @@
 > plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]). Cambia sólo el encabezado
 > visible (`# Capítulo N — Título`); **los nombres de archivo no cambian**, así que el prefijo del archivo ya no
 > coincide con el número del capítulo desde el 5.
-> Parte I = Caps. 1–31 (archivos 01–25); Parte II = Caps. 32–41 (archivos 26–34, con 33b);
-> Parte III — Ardizzone = Caps. 42–58 (archivos 35–50b). Esta sección usa la numeración nueva.
+> Parte I = Caps. 1–32 (archivos 01–25, con 24d); Parte II = Caps. 33–42 (archivos 26–34, con 33b);
+> Parte III — Ardizzone = Caps. 43–59 (archivos 35–50b). Esta sección usa la numeración nueva.
 > **Las notas fechadas anteriores de este Book_Map (incluidas las entradas de "Capítulos en
 > montaje" y "Capítulos planificados"), las auditorías, las sesiones y los planes usan la
 > numeración de su época**, que en la mayoría de los casos recientes coincide con el prefijo de archivo.
@@ -48,35 +50,36 @@
 | 27 | `23` | Nada caro |
 | 28 | `24` | Bajo juramento |
 | 29 | `24b` | Lo que cueste |
-| 30 | `24c` | El corral |
-| 31 | `25` | Libros abiertos |
-| 32 | `26` | Me encuentro bien |
-| 33 | `27` | Lleve equipaje |
-| 34 | `28` | No hace falta |
-| 35 | `29` | Una silla |
-| 36 | `30` | Media Baraja |
-| 37 | `31` | Vamos a casa |
-| 38 | `32` | Línea directa |
-| 39 | `33` | Lo único que es mío |
-| 40 | `33b` | La mano |
-| 41 | `34` | Mi pareja |
-| 42 | `35` | Sin fecha de regreso |
-| 43 | `36` | También las mañanas |
-| 44 | `37` | Cuatro letras |
-| 45 | `38` | Al revés |
-| 46 | `39` | Un par de días más |
-| 47 | `40` | Mecánico |
-| 48 | `41` | La otra mitad |
-| 49 | `42` | Nada |
-| 50 | `43` | La puerta |
-| 51 | `44` | Jurisdicción |
-| 52 | `45` | Ropa limpia |
-| 53 | `46` | Llaves |
-| 54 | `47` | Intereses |
-| 55 | `48` | Su nombre |
-| 56 | `49` | Por si vuelve |
-| 57 | `50` | A oscuras |
-| 58 | `50b` | La tierra bajo sus botas |
+| 30 | `24c` | Oveja entre lobos |
+| 31 | `24d` | Vienes conmigo |
+| 32 | `25` | Libros abiertos |
+| 33 | `26` | Me encuentro bien |
+| 34 | `27` | Lleve equipaje |
+| 35 | `28` | No hace falta |
+| 36 | `29` | Una silla |
+| 37 | `30` | Media Baraja |
+| 38 | `31` | Vamos a casa |
+| 39 | `32` | Línea directa |
+| 40 | `33` | Lo único que es mío |
+| 41 | `33b` | La mano |
+| 42 | `34` | Mi pareja |
+| 43 | `35` | Sin fecha de regreso |
+| 44 | `36` | También las mañanas |
+| 45 | `37` | Cuatro letras |
+| 46 | `38` | Al revés |
+| 47 | `39` | Un par de días más |
+| 48 | `40` | Mecánico |
+| 49 | `41` | La otra mitad |
+| 50 | `42` | Nada |
+| 51 | `43` | La puerta |
+| 52 | `44` | Jurisdicción |
+| 53 | `45` | Ropa limpia |
+| 54 | `46` | Llaves |
+| 55 | `47` | Intereses |
+| 56 | `48` | Su nombre |
+| 57 | `49` | Por si vuelve |
+| 58 | `50` | A oscuras |
+| 59 | `50b` | La tierra bajo sus botas |
 
 > **SUPERSESIÓN (2026-09-22):** las antiguas Partes IV-VI (Nieve y Ceniza, Exilio, Torna a
 > Casa) dejaron de pertenecer a este libro — son ahora las Partes I-III de
@@ -405,6 +408,7 @@ Elenna no es un *stake* ornamental ni la única razón de Palermo. Palermo tambi
 
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24b_Lo_Que_Cueste]] — **Capítulo 24-bis (NUEVO, numeración provisional)**, BORRADOR (2026-10-01, CANON DEL AUTOR en tres capas). Sin ID de hito. Kal se abre con Nadir en el taller de La Almendra (de visitas de negocio a querer que se acabe el día para verla); Nadir: no confía en ella, pero la decisión de Kal es ley. Nadir enfrenta a Chiara en Il Gelsomino y le pide que se aleje (detonante: el falso testimonio de Tommaso). Esa noche, en la escalera del loft, Chiara suelta "si me llega el agua al cuello, me voy"; Kal no contesta. Coda: Kal aparta el Lancia. Siembra el Cap. 28; Kal se entera del pedido de Nadir en *Sombras de Poder*.
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24c_El_Corral]] — **Capítulo 24c (antes 9), reubicado 2026-10-04 por decisión del autor**, BORRADOR. H12 justo antes del jacuzzi: ataque en el hipódromo, hospital en observación (Beatrice no opera), tregua y vigilancia de Dario, parador, cuatro días en el loft, regreso al Monarch vigilado y "Necesito un coche que no sea del Monarch" (puente al Lancia del 25).
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24d_Vienes_Conmigo]] — **Cap. 31, *Vienes conmigo*** (2026-10-29, decisión del autor), BORRADOR: segunda mitad del antiguo *El corral* (salida del hospital, parador, loft con H12, coda hacia el Lancia). El 24c pasa a llamarse *Oveja entre lobos* (rescate con ambulancia, robo fingido, comisaría con Voss, Blake y Collins, tregua, alta).
 
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos]] — **Capítulo 26**, BORRADOR (catchup 2026-09-09; reescrito 2026-09-09; falta revisión final). **Ejecuta [[06_Relationships/Hitos#H15 — La noche del jacuzzi|H15 — La noche del jacuzzi]] casi completo.** De día: la escena de compra del Lancia en Villani Motors — Kal y Chiara fingen ser desconocidos, vendedor y clienta; el juego tiene obstáculos concretos (Marco, un vendedor de la casa, que estorba; Chiara probando la versión con una pregunta real de mantenimiento) y se rompe solo con "Te veo esta noche, vendedor". De noche, en el jacuzzi: primera vez que ambos son "libros abiertos" por elección, sin peligro. Chiara habla de la **pérdida de su padre** — versión pública: caída del acantilado de la villa de Palermo, federales y comisión "palabra por palabra", nunca hubo cuerpo (**decisión del autor: ella cree que lo perdió; Corrado sigue vivo en el canon de fondo y ella no lo sabe**). **Kal cuenta la cicatriz** — vidrio del parabrisas liberando solo un convoy de niños, no la pelea de cantina (**CONFIRMADO por el autor**) — y cómo conoció a Nadir; **no dice que a él lo compraron de bebé** (asimetría lector/Chiara, canon intacto). **La advertencia de Varek a Chiara de madrugada, que detona H5, queda deliberadamente fuera de este capítulo** — abre el próximo y, con él, la Parte II.
 

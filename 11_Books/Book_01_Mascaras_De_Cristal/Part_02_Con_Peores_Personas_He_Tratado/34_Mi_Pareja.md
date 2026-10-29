@@ -19,7 +19,7 @@ Función: CANON DEL AUTOR. Ejecuta [[06_Relationships/Hitos#H21 — Mi pareja|H2
 - Continuidad vehicular: Audi A7 de Kal (segundo auto, ver Cap. 24c — El corral). Sin Lancia en escena; Chiara se va con él desde la destilería de Walt.
 -->
 
-# Capítulo 41 — Mi pareja
+# Capítulo 42 — Mi pareja
 
 La destilería olía a maíz cocido y a madera nueva y, a esa hora de la tarde, también a pegamento. Walt había alineado sobre la mesa de trabajo las etiquetas descartadas en cuatro filas de diez, como quien cuenta fichas al final de una mala noche, y Chiara estaba de pie frente a ellas, descalza sobre el cemento, con los zapatos en una mano.
 

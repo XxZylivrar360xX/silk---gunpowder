@@ -18,7 +18,7 @@ Función: cobra la mentira del Cap. 41 ("—Nada."). Bonnie encuentra la camione
 - Regla de diálogo 05 (2026-10-28, pedido del autor): la llamada deja de ser interrogatorio (fuera «¿Entonces?», «¿Lo perdiste?», «¿Por qué?»; Bonnie sigue sola); en F1, «Lo sé» baja de seis a uno en el penthouse: sólo queda el de Chiara tras la línea canon; fuera ecos («No lo sabías», «¿Por qué?» de Chiara, «Entonces los dos decidimos solos»), un remate doble de Kal y su réplica partida en dos párrafos. Línea canon, «—Nada.», «Te mentí», «Tenía que volver. Eso no cambió.», «Ciao, tesoro» y la manija, intactos. DISEÑO, espera lectura: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_nada_cap48]].
 -->
 
-# Capítulo 49 — Nada
+# Capítulo 50 — Nada
 
 Pasaron dos días sin que Chiara supiera nada de la camioneta, y en esos dos días el Monarch no le dio tregua para pensar en otra cosa.
 

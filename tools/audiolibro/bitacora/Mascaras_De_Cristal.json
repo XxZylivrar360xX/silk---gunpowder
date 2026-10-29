@@ -234,14 +234,22 @@
     },
     "24c_El_Corral.md": {
       "capitulo": 30,
-      "titulo": "El corral",
+      "titulo": "Oveja entre lobos",
       "estado": "SIN AUDIO",
       "motivo": "",
       "audio": "2026-10-28",
       "desde": "2026-10-28 21:19"
     },
-    "25_Libros_Abiertos.md": {
+    "24d_Vienes_Conmigo.md": {
       "capitulo": 31,
+      "titulo": "Vienes conmigo",
+      "estado": "SIN AUDIO",
+      "motivo": "",
+      "audio": "",
+      "desde": "2026-10-29 00:27"
+    },
+    "25_Libros_Abiertos.md": {
+      "capitulo": 32,
       "titulo": "Libros abiertos",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -249,7 +257,7 @@
       "desde": "2026-10-28 21:19"
     },
     "26_Me_Encuentro_Bien.md": {
-      "capitulo": 32,
+      "capitulo": 33,
       "titulo": "Me encuentro bien",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -257,7 +265,7 @@
       "desde": "2026-10-28 21:19"
     },
     "27_Riesgo_Pendiente.md": {
-      "capitulo": 33,
+      "capitulo": 34,
       "titulo": "Lleve equipaje",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -265,7 +273,7 @@
       "desde": "2026-10-28 21:19"
     },
     "28_La_Correa.md": {
-      "capitulo": 34,
+      "capitulo": 35,
       "titulo": "No hace falta",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -273,7 +281,7 @@
       "desde": "2026-10-28 21:19"
     },
     "29_El_Patio_Ajeno.md": {
-      "capitulo": 35,
+      "capitulo": 36,
       "titulo": "Una silla",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -281,7 +289,7 @@
       "desde": "2026-10-28 21:19"
     },
     "30_Media_Baraja.md": {
-      "capitulo": 36,
+      "capitulo": 37,
       "titulo": "Media Baraja",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -289,7 +297,7 @@
       "desde": "2026-10-28 21:19"
     },
     "31_Vamos_A_Casa.md": {
-      "capitulo": 37,
+      "capitulo": 38,
       "titulo": "Vamos a casa",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -297,7 +305,7 @@
       "desde": "2026-10-28 21:19"
     },
     "32_Linea_Directa.md": {
-      "capitulo": 38,
+      "capitulo": 39,
       "titulo": "Línea directa",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -305,7 +313,7 @@
       "desde": "2026-10-28 21:19"
     },
     "33_Mas_De_La_Cuenta.md": {
-      "capitulo": 39,
+      "capitulo": 40,
       "titulo": "Lo único que es mío",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -313,7 +321,7 @@
       "desde": "2026-10-28 21:19"
     },
     "33b_La_Mano.md": {
-      "capitulo": 40,
+      "capitulo": 41,
       "titulo": "La mano",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -321,7 +329,7 @@
       "desde": "2026-10-28 21:19"
     },
     "34_Mi_Pareja.md": {
-      "capitulo": 41,
+      "capitulo": 42,
       "titulo": "Mi pareja",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -329,7 +337,7 @@
       "desde": "2026-10-28 21:19"
     },
     "35_Sin_Fecha_De_Regreso.md": {
-      "capitulo": 42,
+      "capitulo": 43,
       "titulo": "Sin fecha de regreso",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -337,7 +345,7 @@
       "desde": "2026-10-28 21:19"
     },
     "36_Tambien_Las_Mananas.md": {
-      "capitulo": 43,
+      "capitulo": 44,
       "titulo": "También las mañanas",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -345,7 +353,7 @@
       "desde": "2026-10-28 21:19"
     },
     "37_Cuatro_Letras.md": {
-      "capitulo": 44,
+      "capitulo": 45,
       "titulo": "Cuatro letras",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -353,7 +361,7 @@
       "desde": "2026-10-28 21:19"
     },
     "38_Al_Reves.md": {
-      "capitulo": 45,
+      "capitulo": 46,
       "titulo": "Al revés",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -361,7 +369,7 @@
       "desde": "2026-10-28 21:19"
     },
     "39_Un_Par_De_Dias_Mas.md": {
-      "capitulo": 46,
+      "capitulo": 47,
       "titulo": "Un par de días más",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -369,7 +377,7 @@
       "desde": "2026-10-28 21:19"
     },
     "40_Mecanico.md": {
-      "capitulo": 47,
+      "capitulo": 48,
       "titulo": "Mecánico",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -377,7 +385,7 @@
       "desde": "2026-10-28 21:19"
     },
     "41_La_Otra_Mitad.md": {
-      "capitulo": 48,
+      "capitulo": 49,
       "titulo": "La otra mitad",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -385,7 +393,7 @@
       "desde": "2026-10-28 21:19"
     },
     "42_Nada.md": {
-      "capitulo": 49,
+      "capitulo": 50,
       "titulo": "Nada",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -393,7 +401,7 @@
       "desde": "2026-10-28 21:19"
     },
     "43_La_Puerta.md": {
-      "capitulo": 50,
+      "capitulo": 51,
       "titulo": "La puerta",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -401,7 +409,7 @@
       "desde": "2026-10-28 21:19"
     },
     "44_Jurisdiccion.md": {
-      "capitulo": 51,
+      "capitulo": 52,
       "titulo": "Jurisdicción",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -409,7 +417,7 @@
       "desde": "2026-10-28 21:19"
     },
     "45_Ropa_Limpia.md": {
-      "capitulo": 52,
+      "capitulo": 53,
       "titulo": "Ropa limpia",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -417,7 +425,7 @@
       "desde": "2026-10-28 21:19"
     },
     "46_Llaves.md": {
-      "capitulo": 53,
+      "capitulo": 54,
       "titulo": "Llaves",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -425,7 +433,7 @@
       "desde": "2026-10-28 21:19"
     },
     "47_Intereses.md": {
-      "capitulo": 54,
+      "capitulo": 55,
       "titulo": "Intereses",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -433,7 +441,7 @@
       "desde": "2026-10-28 21:19"
     },
     "48_Su_Nombre.md": {
-      "capitulo": 55,
+      "capitulo": 56,
       "titulo": "Su nombre",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -441,7 +449,7 @@
       "desde": "2026-10-28 21:19"
     },
     "49_Enfrente.md": {
-      "capitulo": 56,
+      "capitulo": 57,
       "titulo": "Por si vuelve",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -449,7 +457,7 @@
       "desde": "2026-10-28 21:19"
     },
     "50_A_Oscuras.md": {
-      "capitulo": 57,
+      "capitulo": 58,
       "titulo": "A oscuras",
       "estado": "SIN AUDIO",
       "motivo": "",
@@ -457,7 +465,7 @@
       "desde": "2026-10-28 21:19"
     },
     "50b_La_Tierra_Bajo_Sus_Botas.md": {
-      "capitulo": 58,
+      "capitulo": 59,
       "titulo": "La tierra bajo sus botas",
       "estado": "SIN AUDIO",
       "motivo": "",

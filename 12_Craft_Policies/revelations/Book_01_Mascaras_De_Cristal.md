@@ -205,6 +205,17 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 
 ---
 
+## El robo fingido del corral (Caps. 30–31, archivos 24c–24d; 2026-10-29)
+
+- **Qué es:** mientras espera a la ambulancia, Kal se guarda la cartera y el reloj de Chiara para que el golpe parezca asalto, y lo denuncia como robo en Calle Corona (cartera, reloj, teléfono). Lo único que falta de verdad es el teléfono (lo tiene Corrado; ver H12).
+- **Quién lo sabe:** el lector y Kal. Chiara ratifica la denuncia sin leerla y se entera en el 24d («Tu asalto te dejó sin teléfono. Lo demás lo tenía yo»).
+- **Quién sospecha sin prueba:** Lucía (Cap. 39: «Es la segunda vez que me llega algo suyo así de bien hecho»); Dario sabe que hubo denuncia («ya le había contado a la policía que fue un asalto») y no se la cree.
+- **Prohibido:** que Lucía o Dario la prueben en el Libro I; que Voss sospeche.
+- **Ojo de continuidad:** en *Al revés* (archivo 38) Chiara le dice a Kal «sin robarme nada». Es cierto si deja fuera el teléfono; revisar cuando se lea ese capítulo.
+- **Peugeot, nueva sospecha (Cap. 30):** Collins le dice a Kal que fue «muy conveniente» que lo descartaran y que Domínguez «frena en las rotondas». Lo compra en voz alta; no lo sabe. Blake sale de la sala antes, así que la regla de arriba se cumple.
+
+---
+
 ## El robo del Monarch: lo que cada uno calla (Caps. 25–26, archivos 22a–22b)
 
 - **Qué es:** en el 22b se siembran cuatro silencios. (1) Danny deja que Kal crea que «el del billar» es uno de los dos ladrones; además no va al intercambio y se excusa con detalle de color. (2) Tommaso recluta como fuente a la valet nocturna de la barrera (Mei-Lin, sin nombre) sin mencionar el robo, retira lo de Kenji y no le dice nada a Dario. (3) Lucía anota la hora de la llamada de Kal (1:52) y que el dinero volvió «al dólar», y no hace nada. (4) Dario nunca pregunta qué había en la caja (lo nota Tommaso). La cadena Dario → Crowe → valet → ladrones y la copia de las rutas **nunca** van en prosa.
