@@ -44,3 +44,12 @@ En los tres archivos quedó nota en la cabecera; prosa DISEÑO. El 25 (*Libros a
 - **VC-01 (CANON):** el alta era de mañana y la llegada al loft, pasada la medianoche. Chiara pasa la tarde visible en el Monarch (lobby, piso de administración) mientras el sedán vigila; Kal la recoge en el túnel al anochecer, a la hora acordada. Una sola frase cambiada en el 24d.
 - **VC-02:** revisado el ritmo del parador, sin cambios. Los informes de Kal ya alternan con réplicas cortas de Chiara, el reloj y el camión.
 - **VC-03 (CANON):** cómplices sin reproche; no se tocó nada.
+
+## Cuarta ronda: lectura del Cap. 32 de ChatGPT ([[98_Agent_Handoff/ChatGPT/2026-10-29_lectura_cap32_libros_abiertos]])
+
+- **LA-01 (CANON):** la última historia de Marta, a los quince (fichas de Marta y Chiara); los diecinueve son la edad de su muerte. Una cifra en el 25; frase de Marta intacta. Eco con Marisol (quince al morir Michael), guardado para después en su ficha; en el 32 Chiara ya dice, tras «Que ya lo lloré»: «—Lo está. Es una chica maravillosa, audaz pero maravillosa.» (línea del autor; «Lo está.», DISEÑO).
+- **LA-02:** en el 18 (Cap. 21) fuera «con dos cervezas para Michael»; queda «al panteón». Las cervezas ya se habían retirado del Cap. 1 el 2026-10-08; esta era la huella que faltaba.
+- **LA-03 (CANON):** sin cambio. Que Chiara no bebe queda inferido, nunca en prosa: las copas que se mueven son de Kal y la de ella deja de sudar en el borde.
+- **LA-04:** sin cambio; la confesión larga queda a lectura del autor.
+
+Prosa DISEÑO; cabeceras anotadas en ambos archivos.

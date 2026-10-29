@@ -2,12 +2,13 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-29 00:56. Al día: 24 de 59.
+Actualizada: 2026-10-29 01:12. Al día: 23 de 59.
 
 ## Pendientes
 
 | Cap. | Título | Estado | Motivo | Desde |
 |---|---|---|---|---|
+| 21 | El día nublado | PENDIENTE | cambió la prosa | 2026-10-29 01:08 |
 | 25 | La cifra | SIN AUDIO |  | 2026-10-28 20:58 |
 | 26 | Con su proveedor | SIN AUDIO |  | 2026-10-28 21:10 |
 | 27 | Nada caro | SIN AUDIO |  | 2026-10-28 21:19 |
@@ -68,7 +69,7 @@ Actualizada: 2026-10-29 00:56. Al día: 24 de 59.
 | 18 | Yo lo llevo | AL DIA | 2026-10-28 |
 | 19 | El sobre rojo | AL DIA | 2026-10-28 |
 | 20 | Le quedé debiendo | AL DIA | 2026-10-28 |
-| 21 | El día nublado | AL DIA | 2026-10-28 |
+| 21 | El día nublado | PENDIENTE | 2026-10-28 |
 | 22 | Lo que nadie estaba mirando | AL DIA | 2026-10-28 |
 | 23 | Lo pequeño | AL DIA | 2026-10-28 |
 | 24 | El primer huésped | AL DIA | 2026-10-28 |
@@ -110,6 +111,7 @@ Actualizada: 2026-10-29 00:56. Al día: 24 de 59.
 
 ## Historial
 
+- 2026-10-29 01:08 · Cap. 21 (18_El_Dia_Nublado.md) · audio pendiente: cambió la prosa
 - 2026-10-28 21:19 · Cap. 58 (50b_La_Tierra_Bajo_Sus_Botas.md) · audio borrado
 - 2026-10-28 21:19 · Cap. 57 (50_A_Oscuras.md) · audio borrado
 - 2026-10-28 21:19 · Cap. 56 (49_Enfrente.md) · audio borrado

@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-29: [[98_Agent_Handoff/sessions/2026-10-29_claude_cap30_oveja_entre_lobos]] · Lectura de ChatGPT del Cap. 32: la última historia de Marta a los quince (CANON; eco con Marisol en su ficha y «audaz pero maravillosa» en el 32); fuera las cervezas para Michael del Cap. 21; Chiara no bebe, solo inferido (CANON). Prosa DISEÑO.
 - 2026-10-29: [[98_Agent_Handoff/sessions/2026-10-29_claude_cap30_oveja_entre_lobos]] · Lectura de ChatGPT del Cap. 31: la tarde de Chiara en el Monarch ancla la salida al anochecer (CANON del autor); el ritmo del parador queda sin cambios; Chiara cómplice, sin reproche (CANON).
 - 2026-10-29: [[98_Agent_Handoff/sessions/2026-10-29_claude_cap30_oveja_entre_lobos]] · Reporte de cierre de ChatGPT, caps. 30–31: alta en jueves (CANON del autor), «hizo que la trajeran» en la línea de Dario, «dejaron el reloj y se llevaron el teléfono» en el 46. DISEÑO.
 - 2026-10-29: [[98_Agent_Handoff/sessions/2026-10-29_claude_cap30_oveja_entre_lobos]] · Cap. 30 *Oveja entre lobos* (antes *El corral*): opción A del reporte de ChatGPT. Ambulancia, robo fingido, comisaría con Voss, Blake y Collins; Lucía cita la denuncia en el 39. Corte: Cap. 31 *Vienes conmigo* (24d). Libro I a 59 caps. CANON del autor; prosa DISEÑO.

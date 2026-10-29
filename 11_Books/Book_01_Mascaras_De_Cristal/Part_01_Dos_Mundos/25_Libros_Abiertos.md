@@ -20,6 +20,7 @@ Coda ajustada 2026-09-28 (pedido del autor: que sea el pago de haberse abierto; 
 Ajuste 2026-09-28 (CANON DEL AUTOR): Kal pregunta por el apellido ("Dijiste Ardizzone... defendian los nombres mas que a sus mismas familias"; respuesta de Chiara dictada). Dos pausas: (1) el peso de la muerte de Marta en Corrado; (2) como era Alessio: impecable en publico, siempre detras de ella con las manos en los hombros, "la donna di Lusardi... hasta que la muerte nos separara", humillaciones, negaciones y violencia. Chiara no debe leerse como asesina sino como mujer que aguanto. "Y jale el gatillo" -> "Solo lo hice." DISEÑO del agente: Corrado deja de reir/cantar en la cocina; la primera bofetada tras una cena en que ella rio con otro, las flores, "la segunda vez ya no pidio perdon"; control del dinero y los contactos (eco del parlamento canon de Alessio).
 Monologo de Chiara en la coda (2026-10-01, pedido del autor: mas sentimiento, frustracion y verdad; redaccion = DISENO, pendiente de lectura): antes de la pregunta canon ("si, despues de todo lo que he hecho, todavia esta orgulloso de su hija", intacta) Chiara se desdice ("Primero le reclamaria"): el "yo me hago cargo" que la dejo sola a los 23, Ettore que no era el, La Mesa decidiendo boda/apellido/sonrisas, no tener tumba (le habla al mar), cansancio y manos sucias, y la rabia de seguir queriendo su aprobacion. Nada sugiere que Corrado viva. Se corrigio errata "m irarlo".
 Ajuste 2026-10-04 (autor): Kal ya conocia la forma (familias sentadas a una misma mesa) desde el golf del 18 y lo que Dario le nombro en el 24c; aqui recibe el nombre y lo que el Consorzio es para ella. "Entendio la forma" -> "Le puso nombre".
+Lectura de ChatGPT (2026-10-29, [[98_Agent_Handoff/ChatGPT/2026-10-29_lectura_cap32_libros_abiertos]]; DISEÑO, espera lectura): LA-01 (CANON DEL AUTOR), la última historia de Marta, a los quince, como fijan las fichas de Marta y Chiara (los 19 son la edad de la muerte de Marta); la frase de Marta, intacta. Eco con Marisol, también de quince al morir Michael: tras "Que ya lo lloré", Chiara dice "Es una chica maravillosa, audaz pero maravillosa" (línea dictada por el autor; "Lo está." es DISEÑO); ya conoce a Marisol desde el Cap. 24. LA-03 (CANON DEL AUTOR): que Chiara no bebe queda inferido, nunca en prosa (las copas que se tocan son de Kal; la de ella deja de sudar en el borde). LA-04 sin cambio.
 Cementerio (2026-10-08, orden del autor; DISENO): la busqueda de "¿Tu cuando lo lloraste?" ya no remite al panteon y las dos cervezas del Cap. 1 (retirado), sino a la hilera de Michael que Kal pasa de largo (Cap. 3). La visita llega en el Cap. 31.
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N25-1 a N25-10; N25-5, N25-8 y N25-10 comprimidos a "Lo dijo sin subir la voz / sin rencor / despacio" para no perder las pausas entre revelaciones. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
@@ -124,7 +125,7 @@ Chiara se quedó quieta un momento, como si la pregunta hubiera llegado por un l
 
 Dejó pasar un segundo, con el agua moviéndose despacio contra su pecho.
 
-—La última que me contó antes de que el corazón le fallara terminó distinto. Yo tenía diecinueve, ya grande para que me arroparan. Me arropó de todos modos y me dijo: *"Un giorno, bambina mia, capirai il prezzo di reggere il mondo sulle tue spalle. Ma non dimenticare mai: la chiave è non farlo da sola."* —Lo repitió después en español, despacio—. Algún día, mi amada niña, entenderás el precio que tiene sostener el mundo en tus hombros. Solo no olvides que la clave está en no hacerlo sola. —No la entendí entonces. Pensé que hablaba de crecer, nada más.
+—La última que me contó antes de que el corazón le fallara terminó distinto. Yo tenía quince, ya grande para que me arroparan. Me arropó de todos modos y me dijo: *"Un giorno, bambina mia, capirai il prezzo di reggere il mondo sulle tue spalle. Ma non dimenticare mai: la chiave è non farlo da sola."* —Lo repitió después en español, despacio—. Algún día, mi amada niña, entenderás el precio que tiene sostener el mundo en tus hombros. Solo no olvides que la clave está en no hacerlo sola. —No la entendí entonces. Pensé que hablaba de crecer, nada más.
 
 Kal se quedó con la mano quieta contra el borde del jacuzzi, sin mover el agua.
 
@@ -395,6 +396,8 @@ Esta vez Kal no tuvo que buscar la respuesta.
 —Un fin de semana más. En la montaña, los tres, contando las mismas historias de siempre y riéndonos otra vez, aunque ya nos las supiéramos de memoria. —No se encogió de hombros. No le quitó peso—. Nada más complicado que eso. Un fin de semana. —Se quedó callado un momento—. Y decirle que Marisol está bien. Que ya lo lloré.
 
 A Chiara se le escapó una lágrima, sola, sin que el resto de la cara se le moviera. No dijo nada al respecto, y no se apuró a limpiarla.
+
+—Lo está. Es una chica maravillosa, audaz pero maravillosa.
 
 —¿Y tú? —preguntó Kal—. ¿Con quién hablarías?
 

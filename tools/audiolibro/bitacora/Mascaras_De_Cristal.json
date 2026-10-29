@@ -163,10 +163,10 @@
     "18_El_Dia_Nublado.md": {
       "capitulo": 21,
       "titulo": "El día nublado",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-28",
-      "desde": "2026-10-28 10:19"
+      "desde": "2026-10-29 01:08"
     },
     "19_Tierra_Buena.md": {
       "capitulo": 22,
@@ -1613,6 +1613,11 @@
       "2026-10-28 21:19",
       "Cap. 58 (50b_La_Tierra_Bajo_Sus_Botas.md)",
       "audio borrado"
+    ],
+    [
+      "2026-10-29 01:08",
+      "Cap. 21 (18_El_Dia_Nublado.md)",
+      "audio pendiente: cambió la prosa"
     ]
   ]
 }
