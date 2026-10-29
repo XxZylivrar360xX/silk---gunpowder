@@ -26,4 +26,4 @@ Fichas (nota CANON/DISEÑO con enlace al plan): Mei-Lin (resuelve el PENDIENTE d
 
 ## Pendientes
 
-Variante de la línea de Dario («—Con su proveedor… Interesante.» propuesta); nombres de los Devil Splicers en escena; prosa con `chapter-drafting`; renumeración a 58 (Book_Map, encabezados, CHAPTER_STATUS, CLAUDE.md, AGENTS.md, brief, audiolibro).
+Resueltos el mismo día: la línea de Dario pasa a «—Con su proveedor… Interesante.» (CANON DEL AUTOR) y los Devil Splicers se llaman Roy Boone (jefe), Travis Pruitt y Cody Lambert (enmascarados). Falta: prosa con `chapter-drafting`; renumeración a 58 (Book_Map, encabezados, CHAPTER_STATUS, CLAUDE.md, AGENTS.md, brief, audiolibro).

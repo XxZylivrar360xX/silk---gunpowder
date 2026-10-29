@@ -54,7 +54,7 @@ El poder de las bandas menores no es masculino por defecto. Las mujeres no entra
 
 **DISEÑO:** trabajan por encargo de Crowe sin saber que arriba está Dario. Se deshacen tras el robo: dos detenidos con su mercancía en una revisión de tránsito, Lucía mirando O.R.T. e Irene con su nombre. Mei-Lin le consigue droga a [[02_Characters/Daniel_Hayes|Danny]]. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]].
 
-> **PENDIENTE:** jefe y nombres de los dos enmascarados, si salen en escena.
+> **Nombres (2026-10-28; americanos por pedido del autor, propuestos por el agente):** jefe, **Roy Boone**; los dos enmascarados del Monarch, **Travis Pruitt** y **Cody Lambert**.
 
 ---
 

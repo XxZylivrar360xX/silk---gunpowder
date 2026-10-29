@@ -9,7 +9,7 @@
 **Lo que hay que reubicar del 25 viejo:**
 - Charles, Eagle Eye y Caluca (el Cap. 29 *El corral* cobra «Kal lo conocía de oídas»): Kal tiene que oír de Caluca en el 22a o el 22b.
 - El «recargo nocturno» pasa a ser la **tarifa habitual** que Chiara le ofrece a Nadir (DISEÑO).
-- La línea de voz de Dario «Sin que llegara a los socios… Interesante» no puede sobrevivir literal, porque ahora los socios están en el cuarto. **PENDIENTE del autor:** variante (propuesta abajo).
+- La línea de voz de Dario «Sin que llegara a los socios… Interesante» no puede sobrevivir literal, porque ahora los socios están en el cuarto. **CANON DEL AUTOR (2026-10-28):** la sustituye «—Con su proveedor —repitió, despacio, como probando la frase—. Interesante.»
 - Funciones de los beats 16 y 17: un trabajo sucio resuelto entre los dos y Dario que nota una variación. Siguen cumplidas, a mayor escala.
 
 ## Restricciones de canon
@@ -86,11 +86,10 @@
    - Los ladrones y la calle creen que Kal intentó sacarlos; **Kal no queda como soplón**.
    - Si Voss quiere presumir la detención, Lucía vuelve a bajarlo a tierra.
 7. **Cierre con Dario y Tommaso.** Dario pregunta quién lo resolvió; la respuesta es «Bellandi, con su proveedor». La variación ya no es solo Chiara: es La Almendra. Tommaso no le dice nada de la valet y anota que Dario nunca preguntó qué había en la caja.
-   - Propuesta de variante para la línea de voz (PENDIENTE del autor): «—Con su proveedor —repitió, despacio, como probando la frase—. Interesante.»
+   - **CANON DEL AUTOR (2026-10-28):** «—Con su proveedor —repitió, despacio, como probando la frase—. Interesante.»
 
 ## Antes de redactar
 
-- PENDIENTE del autor: variante de la línea de Dario.
-- PENDIENTE del autor: nombre de los dos enmascarados y del jefe de los Devil Splicers (si salen en escena).
+- **Nombres (2026-10-28; el autor pidió nombres americanos, los propuso el agente):** los dos enmascarados son **Travis Pruitt** y **Cody Lambert**; el jefe de los Devil Splicers, **Roy Boone** (sólo nombrado, si hace falta).
 - Revisar las fichas de voz de Lucía, Tommaso, Nadir y Danny, y la regla de diálogo 05.
 - Redacción con la skill `chapter-drafting`. Después, la renumeración a 58: Book_Map, encabezados, `CHAPTER_STATUS`, `CLAUDE.md`, `AGENTS.md`, brief y audiolibro.

@@ -40,7 +40,7 @@ Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Todo 
 Plan: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]].
 
 - **Falta:** consolidar S1 (Irene, Danny, Walt, La Ronda) y diseñar a Fabrizio en la Parte I. Resuelto en el plan del robo ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]): «el tipo del billar» es Mei-Lin y Kal le paga a Irene el nombre de la banda en el 22b (DISEÑO). Compatible con el Cap. 37 (archivo 32): ahí Irene cambia lo que falta del trato de carga por un favor, y el nombre ya está pagado.
-- **Robo del Monarch (22a/22b):** decide el autor la variante de «Interesante» de Dario y los nombres de los Devil Splicers en escena; después, prosa y renumeración a 58.
+- **Robo del Monarch (22a/22b):** plan cerrado (línea de Dario y nombres resueltos); falta la prosa y después la renumeración a 58.
 - **Decide el autor:** ¿el puño de la camisa es exclusivo de los Lusardi (29, Dario; 1, Kal)? ¿Se ajusta en el 4:248 «el apellido de su hermano como cuchillo», ahora que el cuchillo es "Bellandi"?
 
 ## Decisiones que dejó la lectura del libro
