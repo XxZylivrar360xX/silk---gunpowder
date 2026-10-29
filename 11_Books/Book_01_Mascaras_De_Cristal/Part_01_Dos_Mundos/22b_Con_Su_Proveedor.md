@@ -12,6 +12,7 @@ Provisional / a revisar con el autor:
 - Geografía de O.R.T. (camino viejo bajo El Mirador, la cuesta, la recta de la mina): DISEÑO; no hay ficha de lugar.
 - Danny pone la perilla y no va al intercambio (podría reconocerlo alguien de los Splicers): DISEÑO, refuerza la mentira por omisión.
 - Lucía «diecisiete años» viendo regresar dinero robado: cifra provisional, ajustar a su ficha.
+Cirugía 2026-10-28 (reporte ChatGPT [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_caps25_26_robo_monarch_la_cifra_con_su_proveedor]], aprobada por el autor): «Mañana en la noche, a la una» (O-01); Nadir y Danny cobran tres mil cada uno (O-02); el alto mira el camino antes de ceder (O-03); la barrera «se había quedado arriba» (O-04). **CANON DEL AUTOR (O-05):** Roy Boone deserta tras la detención (narcóticos encuentra su casa vacía a las seis); sin líder, los Devil Splicers se deshacen, y para el Cap. 43 «ya no existía». Pasada `editorial-surgery` el mismo día: [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_caps25_26_robo_monarch]].
 -->
 
 # Capítulo 26 — Con su proveedor
@@ -62,7 +63,7 @@ Danny tardó en contestar. Regresó el video al principio sin que nadie se lo pi
 
 —Puede ser. Yo lo vi tres veces, jefe, y siempre de lejos, con gorra. En ese billar todos se parecen. La luz es verde, como de acuario; ahí adentro te ves enfermo hasta tú.
 
-Danny no dijo que sí. Tampoco dijo nada más. Agarró el sándwich, le dio la segunda mordida y lo volvió a dejar.
+Agarró el sándwich, le dio la segunda mordida y lo volvió a dejar.
 
 —Entonces fue uno de esos dos —dijo Kal.
 
@@ -100,7 +101,7 @@ Chiara se volvió hacia él.
 
 —Usted le paga a él. Él nos paga a nosotros. Si esto sale mal, ¿a quién le cobra usted? A él. ¿Y la policía a quién le cobra? Al que esté parado junto al auto. —Golpeó la factura con el índice, una vez por cada viaje—. Once viajes le hice a Irene Salcedo con el maletero lleno, señora. Once. Gratis. Y nadie me preguntó si quería.
 
-Kal no se movió del escritorio. Esa frase también era para él, y los dos lo sabían.
+Kal no se movió del escritorio. Esa frase también era para él.
 
 —El proveedor del casino es Kal —dijo Nadir—. Nosotros no somos proveedores de nadie. No estamos en su factura.
 
@@ -110,7 +111,7 @@ Chiara lo sostuvo con la mirada. Danny abrió la boca para decir algo del café 
 
 —Tres mil. Por cabeza y por noche. Si hay segunda noche, otra vez tres mil.
 
-Lo dijo sin pensarlo, como si el número lo hubiera traído escrito desde el Canal Seco. Chiara no le contestó. Miró a Kal, porque a Nadir no lo podía contratar ella; lo único que el Monarch podía contratar en ese cuarto llevaba el nombre de Kal en la factura.
+Lo dijo sin pensarlo, como si el número lo hubiera traído escrito desde el Canal Seco. Chiara no le contestó. Miró a Kal.
 
 Kal se volvió hacia los dos.
 
@@ -146,9 +147,9 @@ Del otro lado, nada. Un motor, lejos.
 
 —Porque los presos hablan.
 
-La voz soltó algo parecido a una risa, que no terminó de salir.
+La voz se rio sin ganas.
 
-—Ustedes tienen un auto que sale doce segundos en un video —siguió Kal, con la voz con que cotizaba un arrastre—. La policía se llevó los originales esta mañana. En algún momento de esta semana, alguien en una comisaría va a ver los rines y se va a acordar de dónde vio otros iguales. Yo les ofrezco irse antes de eso.
+—Ustedes tienen un auto que sale doce segundos en un video —siguió Kal—. La policía se llevó los originales esta mañana. En algún momento de esta semana, alguien en una comisaría va a ver los rines y se va a acordar de dónde vio otros iguales. Yo les ofrezco irse antes de eso.
 
 —¿Y la plata?
 
@@ -156,7 +157,7 @@ La voz soltó algo parecido a una risa, que no terminó de salir.
 
 —¿Allá dónde?
 
-—Mañana a la una. La gasolinera cerrada del camino viejo, antes de la cuesta. Vengan en lo que vinieron. Yo llevo con qué irse.
+—Mañana en la noche, a la una. La gasolinera cerrada del camino viejo, antes de la cuesta. Vengan en lo que vinieron. Yo llevo con qué irse.
 
 Silencio otra vez. Kal oyó al otro tapar el teléfono y hablar con alguien.
 
@@ -180,7 +181,7 @@ Kal no le preguntó por qué. Asintió una vez, sin voltear, y Chiara salió al 
 
 Tommaso Lusardi pidió el registro de la barrera del lote de servicio a las siete menos diez del lunes, a nombre del seguro, y el supervisor de la contratista se lo imprimió sin preguntar qué seguro.
 
-Lo leyó sentado en el remolque que la contratista usaba de oficina al fondo del lote, entre un garrafón de agua y el tablero de los ganchos de las llaves. La barrera abría y cerraba con tarjeta. La última de la noche del robo había pasado a las dos y cincuenta y uno. A las tres, cuando el lote cerraba, la barrera no había registrado nada: ni abrir ni cerrar. A las tres cuarenta y seis había salido un auto por ahí sin que nadie pasara tarjeta.
+Lo leyó sentado en el remolque que la contratista usaba de oficina al fondo del lote, entre un garrafón de agua y el tablero de los ganchos de las llaves. La barrera abría y cerraba con tarjeta. La última de la noche del robo había pasado a las dos y cincuenta y uno. A las tres, cuando el lote cerraba, la barrera no había registrado nada: ni abrir ni cerrar. Se había quedado arriba. A las tres cuarenta y seis había salido un auto por ahí sin que nadie pasara tarjeta.
 
 —¿De quién es la de las dos cincuenta y uno?
 
@@ -336,7 +337,7 @@ Lo que quedaba en la bolsa era más del doble de lo que había a la izquierda.
 
 —Lo demás no existe. —Kal cerró la bolsa con lo que quedaba adentro y se la colgó al hombro—. Si los paran con ochenta y dos mil, es un robo. Si los paran con esto, nadie sabe qué es. Y los que sí saben no llaman a la policía.
 
-El alto se quedó mirando la bolsa en el hombro de Kal. El bajo había vuelto a meter la mano en la chaqueta.
+El alto se quedó mirando la bolsa en el hombro de Kal. Después miró el camino, hacia la ciudad, de un extremo a otro, como si por ahí ya viniera alguien con las luces apagadas. El bajo había vuelto a meter la mano en la chaqueta.
 
 —Eso no fue lo que dijimos.
 
@@ -454,11 +455,11 @@ Chiara no lo dijo. Cerró la bolsa.
 
 —Lo que no existe.
 
-A ella se le escapó algo por la nariz, que no llegó a ser risa.
+A ella se le escapó algo que no llegó a ser risa.
 
 —¿Nadir?
 
-—Cobra el jueves. Seis mil, como quedamos. Danny también.
+—Cobra el jueves. Tres mil, como quedamos. Danny también.
 
 —Danny no fue.
 
@@ -476,7 +477,7 @@ Ochenta y dos mil cuatrocientos dólares en billetes de cincuenta, en una mochil
 
 Llevaba diecisiete años viendo regresar dinero robado, y nunca había regresado entero. Siempre faltaba algo: una cena, unas llantas, una deuda vieja que alguien había corrido a pagar esa misma noche. Este dinero había vuelto al dólar.
 
-El de narcóticos la había llamado a las siete. Le dio los nombres de los dos detenidos y un tercero, Roy Boone, y lo dijo como quien dice el nombre de un río: algo que estaba ahí desde antes y que nadie había conseguido mover. Quería saber cómo había llegado la subjefa a la cuesta de O.R.T. a las dos y media de la mañana. Lucía le dijo que una patrulla había revisado unas placas.
+El de narcóticos la había llamado a las siete. Le dio los nombres de los dos detenidos y un tercero, Roy Boone, y lo dijo como quien dice el nombre de un río: algo que estaba ahí desde antes y que nadie había conseguido mover. A las seis habían ido por él a O.R.T. y encontraron la puerta abierta, el clóset vacío y ninguna camioneta en el patio. El de narcóticos quería saber cómo había llegado la subjefa a la cuesta de O.R.T. a las dos y media de la mañana. Lucía le dijo que una patrulla había revisado unas placas.
 
 Ahora tenía un robo cerrado y un caso de narcóticos en Old Road Town que no había ido a buscar. Ninguno de los dos se lo había pedido a nadie.
 

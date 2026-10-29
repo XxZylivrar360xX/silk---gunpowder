@@ -55,7 +55,7 @@ Documento de planeación, no capítulo narrativo.
 **DISEÑO:**
 - Mei-Lin trabaja de **valet nocturna** para la contratista del Monarch; por eso estaba en el billar de atrás. Les da a los suyos hora, turno y ángulos muertos de cámara. La combinación viene de arriba, de Dario vía Crowe; ella no sabe de dónde.
 - Bonnie no participa ni sabe nada (su canon exige que no sea cómplice consciente).
-- **La banda se deshace** por el 22b: dos detenidos, su mercancía incautada, Lucía mirando O.R.T. y el nombre en boca de Irene. Para el 43 «ya no existía». Mei-Lin y Bonnie llegan después al patio del hombre que, creen, intentó salvar a los suyos.
+- **La banda se deshace** por el 22b: dos detenidos, su mercancía incautada, Lucía mirando O.R.T. y el nombre en boca de Irene. Para el 43 «ya no existía». **CANON DEL AUTOR (2026-10-28):** Roy Boone deserta: tras la detención desaparece de O.R.T. (narcóticos encuentra su casa vacía a las seis de la mañana) y, sin líder, la banda se deshace. Mei-Lin y Bonnie llegan después al patio del hombre que, creen, intentó salvar a los suyos.
 - **Danny:** cuando la caída de la banda corte su suministro, el deterioro se nota. Queda abierto para F2 (PENDIENTE: «qué hecho delata la filtración»; la mentira del Cap. 20 es candidata).
 
 ## 22a — La noche del robo

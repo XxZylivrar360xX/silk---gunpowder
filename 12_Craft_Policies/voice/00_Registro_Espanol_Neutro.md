@@ -10,6 +10,7 @@ Se aplica al redactar ([[12_Craft_Policies/Redaccion_De_Capitulos]], sección Re
 - **Dana Collins:** argentina; voseo suave y algún giro rioplatense, sin caricatura (CANON DEL AUTOR, 2026-10-18).
 - **Chiara:** italiano ocasional; su español es neutro.
 - **Nadir:** darija/francés ocasional; nunca jerga mexicana ([[12_Craft_Policies/voice/Nadir_Amrani]]).
+- **Travis Pruitt y Cody Lambert (Devil Splicers):** «plata» por dinero se conserva en su boca (decisión del autor, 2026-10-28; Cap. 26).
 - Diálogo canon del autor no se neutraliza sin orden explícita (H21, Cap. 34: «piscina» y «me da igual» por orden del autor, 2026-10-12).
 
 ## Glosario aplicado

@@ -11,6 +11,7 @@ Provisional / a revisar con el autor:
 - Fabrizio no aparece en la sala de socios (su presencia en la Parte I se diseña con el autor).
 - North Guard: Kal dice que su empresa está «en trámite»; cuándo se concreta sigue PENDIENTE.
 - Cifras (82,400 registrados; «trescientos y algo» fuera de libros) y mecánica de la caja (sensor de horario que avisa a la central de Eagle Eye; doble fondo con lámina) son DISEÑO.
+Pasada `editorial-surgery` 2026-10-28 (3 microediciones): [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_caps25_26_robo_monarch]].
 -->
 
 # Capítulo 25 — La cifra
@@ -317,7 +318,7 @@ Tommaso no dijo nada más. Charles esperó a que alguien le dijera que se fuera,
 
 —¿Quién lo ha visto abrirla?
 
-Matteo abrió la boca y no le salió nada.
+Matteo se miró las manos.
 
 —Kenji Oda subió el excedente anoche a las dos y diez —dijo Tommaso—. Usted abrió la caja delante de él.
 
@@ -357,7 +358,7 @@ Kal no se movió de donde estaba.
 
 —En trámite.
 
-Tommaso dejó que la palabra se quedara un momento sobre la mesa, el tiempo justo para que todos la oyeran como lo que era.
+Tommaso dejó que la palabra se quedara un momento sobre la mesa.
 
 —¿Y sus muchachos? ¿También están en trámite?
 
@@ -391,7 +392,7 @@ Dario no dijo nada más. Miró a Kal el tiempo exacto que tardaba en medir a alg
 
 Tommaso lo estaba mirando a él.
 
-No había preguntado cuánto. Nadie en esa mesa había dejado de preguntar cuánto desde las cuatro de la mañana —Matteo en el pasillo, Tommaso en la primera frase, hasta el técnico del maletín de aluminio—, y Dario no lo había preguntado. Había preguntado quién llamó a quién. Tommaso no giró el anillo. Tampoco abrió la boca.
+No había preguntado cuánto. En ese edificio todos llevaban desde las cuatro de la mañana diciendo una cifra, y Dario no la había preguntado. Había preguntado quién llamó a quién. Tommaso no giró el anillo. Tampoco abrió la boca.
 
 —Kenji se queda en su puesto —dijo Dario, al final, levantándose—. Mientras la signora Bellandi responda por él.
 

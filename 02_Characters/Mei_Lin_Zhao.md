@@ -119,7 +119,7 @@ Como conductora, debe tener una técnica distinta de Kal y Harper:
 
 > **PENDIENTE:** nombre de la banda rival y por qué se desintegró.
 
-> **RESUELTO (2026-10-28, CANON DEL AUTOR):** **Los Devil Splicers**, distribuidores de heroína en Old Road Town (O.R.T.). Se deshacen tras el robo del Monarch (DISEÑO: dos detenidos con su mercancía en la revisión de Voss, Lucía mirando O.R.T. e Irene con el nombre). Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]].
+> **RESUELTO (2026-10-28, CANON DEL AUTOR):** **Los Devil Splicers**, distribuidores de heroína en Old Road Town (O.R.T.). Se deshacen tras el robo del Monarch (DISEÑO: dos detenidos con su mercancía en la revisión de Voss, Lucía mirando O.R.T. e Irene con el nombre; CANON DEL AUTOR 2026-10-28: su jefe, Roy Boone, deserta y desaparece, y sin líder la banda se disuelve). Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]].
 
 > **RESUELTO (2026-09-20):** Mei-Lin y Bonnie terminan siendo roommates en La Almendra — al principio por conveniencia (mismo derrumbe, espacio limitado que ofrece Kal), después por amistad real construida en la convivencia diaria.
 
