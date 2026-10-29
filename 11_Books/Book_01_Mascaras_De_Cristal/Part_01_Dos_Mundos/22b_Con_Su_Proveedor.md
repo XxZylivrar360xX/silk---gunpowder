@@ -12,7 +12,7 @@ Provisional / a revisar con el autor:
 - Geografía de O.R.T. (camino viejo bajo El Mirador, la cuesta, la recta de la mina): DISEÑO; no hay ficha de lugar.
 - Danny pone la perilla y no va al intercambio (podría reconocerlo alguien de los Splicers): DISEÑO, refuerza la mentira por omisión.
 - Lucía «diecisiete años» viendo regresar dinero robado: cifra provisional, ajustar a su ficha.
-Cirugía 2026-10-28 (reporte ChatGPT [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_caps25_26_robo_monarch_la_cifra_con_su_proveedor]], aprobada por el autor): «Mañana en la noche. A la una de la madrugada» (O-01); Nadir y Danny cobran tres mil cada uno (O-02); el alto mira el camino antes de ceder (O-03); la barrera «se había quedado arriba» (O-04). **CANON DEL AUTOR (O-05):** Roy Boone deserta tras la detención (narcóticos encuentra su casa vacía a las seis); sin líder, los Devil Splicers se deshacen, y para el Cap. 43 «ya no existía». Pasada `editorial-surgery` el mismo día: [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_caps25_26_robo_monarch]].
+Cirugía 2026-10-28 (reporte ChatGPT [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_caps25_26_robo_monarch_la_cifra_con_su_proveedor]], aprobada por el autor): «El martes. A la una de la madrugada» (O-01); Nadir y Danny cobran tres mil cada uno (O-02); el alto mira el camino antes de ceder (O-03); la barrera «se había quedado arriba» (O-04). **CANON DEL AUTOR (O-05):** Roy Boone deserta tras la detención (narcóticos encuentra su casa vacía a las seis); sin líder, los Devil Splicers se deshacen, y para el Cap. 43 «ya no existía». Pasada `editorial-surgery` el mismo día: [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_caps25_26_robo_monarch]].
 -->
 
 # Capítulo 26 — Con su proveedor
@@ -157,7 +157,7 @@ La voz se rio sin ganas.
 
 —¿Allá dónde?
 
-—Mañana en la noche. A la una de la madrugada. La gasolinera cerrada del camino viejo, antes de la cuesta. Vengan en lo que vinieron. Yo llevo con qué irse.
+—El martes. A la una de la madrugada. La gasolinera cerrada del camino viejo, antes de la cuesta. Vengan en lo que vinieron. Yo llevo con qué irse.
 
 Silencio otra vez. Kal oyó al otro tapar el teléfono y hablar con alguien.
 

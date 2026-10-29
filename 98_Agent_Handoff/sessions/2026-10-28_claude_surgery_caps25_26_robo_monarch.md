@@ -4,7 +4,7 @@ Fuente: [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_caps25_26_robo_monarch_la_
 
 ## Aplicado en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/22b_Con_Su_Proveedor]]
 
-- **O-01, la fecha:** en la llamada del domingo, «Mañana a la una» pasa a «Mañana en la noche. A la una de la madrugada». Cuadra con el lunes completo y con el intercambio de la madrugada del martes.
+- **O-01, la fecha:** en la llamada del domingo, «Mañana a la una» pasa a «El martes. A la una de la madrugada» (redacción del autor). Cuadra con el lunes completo y con el intercambio de la madrugada del martes.
 - **O-02, el dinero:** «Seis mil, como quedamos. Danny también» pasa a «Tres mil». Tres mil por cabeza son los seis mil de la tarifa. Se conserva «Danny no fue / Danny vio el video».
 - **O-03, la resistencia de los ladrones:** el alto mira el camino hacia la ciudad, «como si por ahí ya viniera alguien con las luces apagadas», antes de ceder la bolsa.
 - **O-04, la barrera:** se agrega «Se había quedado arriba». ChatGPT lo leyó como si el coche hubiera salido con la barrera cerrada, pero el texto ya decía que no registró «ni abrir ni cerrar».
