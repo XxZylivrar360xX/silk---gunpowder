@@ -27,6 +27,14 @@ fuente: [[98_Agent_Handoff/ChatGPT/2026-10-28_cap30_el_corral_rescate_dos_rutas_
 ## Pendientes / ojo
 
 - Lectura del autor de toda la prosa nueva (DISEÑO).
-- *Al revés* (archivo 38): Chiara dice «sin robarme nada», pero le quitaron el teléfono. Revisar al leer.
-- Sigue en el 24c el reloj de despertar y alta («al tercer día» / «los días siguientes» / «tres días antes»), anotado por ChatGPT; no se tocó.
 - Referencias con «Cap. N» a capítulos 31+ en documentos anteriores a hoy usan la numeración de 58.
+
+## Segunda ronda: reporte de cierre de ChatGPT ([[98_Agent_Handoff/ChatGPT/2026-10-29_reporte_cierre_caps30_31_oveja_vienes_continuidad]])
+
+El autor eligió las recomendaciones de los tres hallazgos:
+
+- **OC-01, reloj (CANON):** alta en jueves. Domingo, ataque; lunes, comisaría, Caluca, Dario y turnos; martes, Héctor; miércoles, despierta; jueves, alta. En el 24c: «Esa noche», «La noche siguiente le tocó a Héctor», «En los ratos que le dejaban los turnos». Los «tres días» del alta y del 24d se conservan.
+- **OC-02:** Dario dice «usted ya había hecho que la trajeran».
+- **OC-03:** en *Al revés* (Cap. 46), «dejaron el reloj y se llevaron el teléfono».
+
+En los tres archivos quedó nota en la cabecera; prosa DISEÑO. El 25 (*Libros abiertos*, «una semana después del alta») no cambia.

@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-29: [[98_Agent_Handoff/sessions/2026-10-29_claude_cap30_oveja_entre_lobos]] · Reporte de cierre de ChatGPT, caps. 30–31: alta en jueves (CANON del autor), «hizo que la trajeran» en la línea de Dario, «dejaron el reloj y se llevaron el teléfono» en el 46. DISEÑO.
 - 2026-10-29: [[98_Agent_Handoff/sessions/2026-10-29_claude_cap30_oveja_entre_lobos]] · Cap. 30 *Oveja entre lobos* (antes *El corral*): opción A del reporte de ChatGPT. Ambulancia, robo fingido, comisaría con Voss, Blake y Collins; Lucía cita la denuncia en el 39. Corte: Cap. 31 *Vienes conmigo* (24d). Libro I a 59 caps. CANON del autor; prosa DISEÑO.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_cap29_lo_que_cueste_cabecera]] · Cap. 29: reporte de ChatGPT. LC-04: cabecera a la numeración de 58 (revelación en el Cap. 34), historia conservada. LC-03 sin cambio. LC-01 (autor): Chiara habla cuando Kal va por los últimos escalones, como en el «Ibas subiendo» del 34; LC-02 (autor): fuera «oscuro aunque esté iluminado» en Nadir. DISEÑO, espera lectura.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_cap28_bajo_juramento_orden_procesal]] · Cap. 28: reporte de ChatGPT. BJ-01 (autor): Chiara declara antes que el contador y los empleados de Hoover, porque Kal es el demandante; testimonios intactos. BJ-02 (opción C): las ~2 semanas se quedan como licencia de ritmo. BJ-03 sin cambio. DISEÑO, espera lectura.

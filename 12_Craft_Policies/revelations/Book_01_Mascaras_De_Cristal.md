@@ -211,7 +211,7 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Quién lo sabe:** el lector y Kal. Chiara ratifica la denuncia sin leerla y se entera en el 24d («Tu asalto te dejó sin teléfono. Lo demás lo tenía yo»).
 - **Quién sospecha sin prueba:** Lucía (Cap. 39: «Es la segunda vez que me llega algo suyo así de bien hecho»); Dario sabe que hubo denuncia («ya le había contado a la policía que fue un asalto») y no se la cree.
 - **Prohibido:** que Lucía o Dario la prueben en el Libro I; que Voss sospeche.
-- **Ojo de continuidad:** en *Al revés* (archivo 38) Chiara le dice a Kal «sin robarme nada». Es cierto si deja fuera el teléfono; revisar cuando se lea ese capítulo.
+- **Continuidad (resuelta 2026-10-29, OC-03):** en *Al revés* (archivo 38, Cap. 46) Chiara dice «dejaron el reloj y se llevaron el teléfono».
 - **Peugeot, nueva sospecha (Cap. 30):** Collins le dice a Kal que fue «muy conveniente» que lo descartaran y que Domínguez «frena en las rotondas». Lo compra en voz alta; no lo sabe. Blake sale de la sala antes, así que la regla de arriba se cumple.
 
 ---
