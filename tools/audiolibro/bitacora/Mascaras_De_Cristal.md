@@ -2,28 +2,14 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-29 23:53. Al día: 44 de 60.
+Actualizada: 2026-10-30 00:06. Al día: 58 de 60.
 
 ## Pendientes
 
 | Cap. | Título | Estado | Motivo | Desde |
 |---|---|---|---|---|
-| 26 | La cifra | PENDIENTE | cambió la numeración, el diccionario o la voz | 2026-10-29 23:53 |
-| 34 | Me encuentro bien | PENDIENTE | cambió la numeración, el diccionario o la voz | 2026-10-29 23:53 |
-| 47 | Al revés | SIN AUDIO |  | 2026-10-29 23:10 |
-| 48 | Un par de días más | SIN AUDIO |  | 2026-10-29 23:10 |
-| 49 | Mecánico | SIN AUDIO |  | 2026-10-29 23:10 |
-| 50 | La otra mitad | SIN AUDIO |  | 2026-10-29 23:10 |
-| 51 | Nada | SIN AUDIO |  | 2026-10-29 23:10 |
-| 52 | La puerta | SIN AUDIO |  | 2026-10-29 23:10 |
-| 53 | Jurisdicción | SIN AUDIO |  | 2026-10-29 23:10 |
-| 54 | Ropa limpia | SIN AUDIO |  | 2026-10-29 23:10 |
-| 55 | Llaves | SIN AUDIO |  | 2026-10-29 23:10 |
-| 56 | Intereses | SIN AUDIO |  | 2026-10-29 23:10 |
-| 57 | Su nombre | SIN AUDIO |  | 2026-10-29 23:10 |
-| 58 | Por si vuelve | SIN AUDIO |  | 2026-10-29 23:10 |
-| 59 | A oscuras | SIN AUDIO |  | 2026-10-29 23:10 |
-| 60 | La tierra bajo sus botas | SIN AUDIO |  | 2026-10-29 23:10 |
+| 26 | La cifra | PENDIENTE | cambió la prosa | 2026-10-30 00:06 |
+| 34 | Me encuentro bien | PENDIENTE | cambió la numeración, el diccionario o la voz | 2026-10-30 00:06 |
 
 ## Capítulos
 
@@ -75,23 +61,41 @@ Actualizada: 2026-10-29 23:53. Al día: 44 de 60.
 | 44 | Sin fecha de regreso | AL DIA | 2026-10-29 |
 | 45 | También las mañanas | AL DIA | 2026-10-29 |
 | 46 | Cuatro letras | AL DIA | 2026-10-29 |
-| 47 | Al revés | SIN AUDIO | 2026-10-29 |
-| 48 | Un par de días más | SIN AUDIO | 2026-10-29 |
-| 49 | Mecánico | SIN AUDIO | 2026-10-29 |
-| 50 | La otra mitad | SIN AUDIO | 2026-10-29 |
-| 51 | Nada | SIN AUDIO | 2026-10-29 |
-| 52 | La puerta | SIN AUDIO | 2026-10-29 |
-| 53 | Jurisdicción | SIN AUDIO | 2026-10-29 |
-| 54 | Ropa limpia | SIN AUDIO | 2026-10-29 |
-| 55 | Llaves | SIN AUDIO | 2026-10-29 |
-| 56 | Intereses | SIN AUDIO | 2026-10-29 |
-| 57 | Su nombre | SIN AUDIO | 2026-10-29 |
-| 58 | Por si vuelve | SIN AUDIO | 2026-10-29 |
-| 59 | A oscuras | SIN AUDIO | 2026-10-29 |
-| 60 | La tierra bajo sus botas | SIN AUDIO | 2026-10-29 |
+| 47 | Al revés | AL DIA | 2026-10-29 |
+| 48 | Un par de días más | AL DIA | 2026-10-29 |
+| 49 | Mecánico | AL DIA | 2026-10-29 |
+| 50 | La otra mitad | AL DIA | 2026-10-29 |
+| 51 | Nada | AL DIA | 2026-10-29 |
+| 52 | La puerta | AL DIA | 2026-10-29 |
+| 53 | Jurisdicción | AL DIA | 2026-10-29 |
+| 54 | Ropa limpia | AL DIA | 2026-10-29 |
+| 55 | Llaves | AL DIA | 2026-10-29 |
+| 56 | Intereses | AL DIA | 2026-10-30 |
+| 57 | Su nombre | AL DIA | 2026-10-30 |
+| 58 | Por si vuelve | AL DIA | 2026-10-30 |
+| 59 | A oscuras | AL DIA | 2026-10-30 |
+| 60 | La tierra bajo sus botas | AL DIA | 2026-10-30 |
 
 ## Historial
 
+- 2026-10-30 00:06 · Cap. 34 (26_Me_Encuentro_Bien.md) · audio pendiente: cambió la numeración, el diccionario o la voz
+- 2026-10-30 00:06 · Cap. 26 (22a_La_Cifra.md) · audio pendiente: cambió la prosa
+- 2026-10-30 00:03 · Cap. 60 (50b_La_Tierra_Bajo_Sus_Botas.md) · audio generado
+- 2026-10-30 00:03 · Cap. 59 (50_A_Oscuras.md) · audio generado
+- 2026-10-30 00:03 · Cap. 58 (49_Enfrente.md) · audio generado
+- 2026-10-30 00:03 · Cap. 57 (48_Su_Nombre.md) · audio generado
+- 2026-10-30 00:03 · Cap. 56 (47_Intereses.md) · audio generado
+- 2026-10-30 00:03 · Cap. 55 (46_Llaves.md) · audio generado
+- 2026-10-30 00:03 · Cap. 54 (45_Ropa_Limpia.md) · audio generado
+- 2026-10-30 00:03 · Cap. 53 (44_Jurisdiccion.md) · audio generado
+- 2026-10-30 00:03 · Cap. 52 (43_La_Puerta.md) · audio generado
+- 2026-10-30 00:03 · Cap. 51 (42_Nada.md) · audio generado
+- 2026-10-30 00:03 · Cap. 50 (41_La_Otra_Mitad.md) · audio generado
+- 2026-10-30 00:03 · Cap. 49 (40_Mecanico.md) · audio generado
+- 2026-10-30 00:03 · Cap. 48 (39_Un_Par_De_Dias_Mas.md) · audio generado
+- 2026-10-30 00:03 · Cap. 47 (38_Al_Reves.md) · audio generado
+- 2026-10-30 00:03 · Cap. 34 (26_Me_Encuentro_Bien.md) · audio regenerado
+- 2026-10-30 00:03 · Cap. 26 (22a_La_Cifra.md) · audio regenerado
 - 2026-10-29 23:53 · Cap. 46 (37_Cuatro_Letras.md) · audio generado
 - 2026-10-29 23:53 · Cap. 45 (36_Tambien_Las_Mananas.md) · audio generado
 - 2026-10-29 23:53 · Cap. 44 (35_Sin_Fecha_De_Regreso.md) · audio generado

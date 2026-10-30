@@ -20,7 +20,7 @@
 
 **Pregunta del libro:** ¿Pueden Kal y Chiara construir juntos un lugar que sea suyo? La respuesta es sí — se ponen a prueba como pareja bajo presión externa por primera vez (Halbrook, Varek, Camp Alder) y vuelven a elegirse. El libro no resuelve todavía si ese lugar puede provocar una guerra: eso pertenece a *Sombras de Poder*.
 
-El libro cierra con el reencuentro de Kal y Chiara tras Camp Alder — **"Ciao, bella"**, última línea del Cap. 56 — y con la llegada de Halbrook a San Aurelio en el Cap. 57 (archivo 50b), no con H1. ~~"Ciao, bella", Cap. 44~~ (superado 2026-10-01). Todo lo que sigue en este archivo ocurre **antes** de *Sombras de Poder* (Libro II), que a su vez precede a la Guerra de los Tres de *Voto de Ceniza* (Libro III) — ver [[00_Biblia/00_Trilogy_Structure]] y [[01_Timeline/01_Indice_Cronologico]].
+El libro cierra con el reencuentro de Kal y Chiara tras Camp Alder — **"Ciao, bella"**, última línea del Cap. 59 — y con la llegada de Halbrook a San Aurelio en el Cap. 60 (archivo 50b), no con H1. ~~"Ciao, bella", Cap. 44~~ (superado 2026-10-01). Todo lo que sigue en este archivo ocurre **antes** de *Sombras de Poder* (Libro II), que a su vez precede a la Guerra de los Tres de *Voto de Ceniza* (Libro III) — ver [[00_Biblia/00_Trilogy_Structure]] y [[01_Timeline/01_Indice_Cronologico]].
 
 ### Anclas de calendario
 
@@ -44,6 +44,8 @@ El libro cierra con el reencuentro de Kal y Chiara tras Camp Alder — **"Ciao, 
 
 ## Parte I — Dos Mundos
 
+> **Corte movido (2026-10-29, decisión del autor):** la Parte I son los Caps. 1–25 y termina en *El primer huésped* («—Volvemos adentro»). H12, H15 y la advertencia de Varek pasaron a la Parte II con el bloque de los Caps. 26–33. Secuencias actualizadas el 2026-10-30; detalle en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] > "Umbrales auditados > A".
+
 ### Función
 
 Cuenta cómo Kal Mercer y Chiara Bellandi se conocen, se vuelven útiles el uno para el otro, construyen confianza, amistad, intimidad y finalmente se eligen. Todavía no son una institución. El crimen sirve principalmente como mecanismo para acercarlos.
@@ -62,9 +64,8 @@ Cuenta cómo Kal Mercer y Chiara Bellandi se conocen, se vuelven útiles el uno 
 - **H10** — el infarto de Héctor: terceros ya leen lo que Kal y Chiara evitan nombrar.
 - **H4** — el día nublado (la cita del golf; profundiza la elección, no la formaliza).
 - **H11** — el mirador: bolos, drift, el mirador (Kal habla por primera y única vez de Dale y Ruth), primer beso y primera intimidad en el penthouse.
-- **H12** — el atentado / el corral (reubicado 2026-10-04, Cap. 29, archivo 24c): ataque, hospital en observación, tregua y vigilancia de Dario, parador.
-- **H15** — la noche del jacuzzi: máxima apertura deliberada.
-- La advertencia nocturna de Varek a Chiara, de madrugada, funciona como gancho hacia la Parte II.
+- *(sin ID, Cap. 25)* — *El primer huésped*: la misma madrugada, Marisol llama llorando; Chiara entra en la familia de Kal. Cierra la Parte I.
+- ~~**H12** (Cap. 29), **H15** y la advertencia de Varek como gancho~~ — pasaron a la Parte II con el corte del 2026-10-29.
 
 ### Movimiento Kal
 
@@ -76,11 +77,11 @@ Rompe su única regla dura (nunca aceptar que le paguen ni le regalen nada) acep
 
 ### Movimiento de la relación
 
-`extraños → aliados → amistad con química evidente → amistad íntima → atracción reconocida → primer beso e intimidad → apertura deliberada`.
+`extraños → aliados → amistad con química evidente → amistad íntima → atracción reconocida → primer beso e intimidad → entrada en la familia (Marisol)`. ~~→ apertura deliberada~~ (H15 pasó a la Parte II, 2026-10-29).
 
 ### Condición de salida
 
-Kal y Chiara ya se han elegido por conducta. Todavía no han probado esa elección como **unidad operativa bajo presión**. Eso corresponde a Parte II.
+Kal y Chiara ya se han elegido por conducta: él decidió quedarse (H4), hubo intimidad (H11) y Chiara ya entró en la familia de Kal (Marisol). Todavía no han probado esa elección como **unidad operativa bajo presión** ni la han declarado (H15). Eso corresponde a Parte II.
 
 ---
 
@@ -96,12 +97,17 @@ Nace aquí una idea que Parte III va a poner a prueba: **proteger al otro no con
 
 ### Secuencia de acontecimientos
 
-- **H5 — San Aurelio**: Halbrook convoca a Kal para reimponerle la correa (trabajar para él o reportar a Nadir a ICE); Kal sale de la ciudad; confrontación Varek–Chiara en el taller del norte (*"Trabajas para mí. No conmigo." / "¿Te estás acostando con él?" / "…entonces lo vas a hacer tú."*).
-- **H6 — El pacto**: Kal conduce a Varek a ofrecerle una silla en la organización y la acepta (Cap. 34; antes: "se ofrece a trabajar para Varek"); con ella compra seguridad para Chiara, y trae con qué pagarlo — una entrada a [[05_Locations/Camp_Alder]].
-- **H7 — El río** (en la prosa, [[05_Locations/El_Lago|el lago]], más allá de Las Gemelas; Cap. 36): cierre del arco de tensión; pareja de facto sin etiqueta. *"Vamos a casa."*
-- *(capítulo puente, sin ID)* — [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Línea directa]] (Cap. 37): segundo escalón de Kal / [[02_Characters/Lucia_Varek|Lucia Varek]]; Eddie Sosa / Los Bravos; nace el canal directo Kal–Lucia; Chiara sabe que existe.
-- *(capítulo puente, sin ID)* — [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta|Lo único que es mío]] (Cap. 38): primera consecuencia lateral del pacto con Varek; Marisol / Kenji; Kal aplica el aprendizaje de preocuparse sin escoger por otro.
-- **H21 — Mi pareja** (Cap. 40): formalización verbal en el Audi de Kal, con Nadir en altavoz. Cierra la Parte II.
+- *(sin ID, Caps. 26–27)* — el robo del Monarch: Chiara elige a Kal antes que a la policía y a los socios; el libro vuelve por Kal y la cifra oficial por la policía.
+- *(sin ID, Caps. 28–29)* — el litigio con Hoover: Rivers, Garrett y el testimonio inesperado de Tommaso; Villani Motors.
+- *(sin ID, Cap. 30)* — *Lo que cueste*: Nadir le pide a Chiara que se aleje; «si me llega el agua al cuello, me voy».
+- **H12** — el atentado / el corral (Caps. 31–32, archivos 24c–24d): ataque, rescate, tregua y vigilancia de Dario, parador, loft.
+- **H15** — la noche del jacuzzi (Cap. 33): máxima apertura deliberada. La advertencia nocturna de Varek abre el Cap. 34.
+- **H5 — San Aurelio** (Caps. 34–35): Halbrook convoca a Kal para reimponerle la correa (trabajar para él o reportar a Nadir a ICE); Kal sale de la ciudad; confrontación Varek–Chiara en el taller del norte (*"Trabajas para mí. No conmigo." / "¿Te estás acostando con él?" / "…entonces lo vas a hacer tú."*).
+- **H6 — El pacto**: Kal conduce a Varek a ofrecerle una silla en la organización y la acepta (Cap. 37; antes: "se ofrece a trabajar para Varek"); con ella compra seguridad para Chiara, y trae con qué pagarlo — una entrada a [[05_Locations/Camp_Alder]].
+- **H7 — El río** (en la prosa, [[05_Locations/El_Lago|el lago]], más allá de Las Gemelas; Cap. 39): cierre del arco de tensión; pareja de facto sin etiqueta. *"Vamos a casa."*
+- *(capítulo puente, sin ID)* — [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Línea directa]] (Cap. 40): segundo escalón de Kal / [[02_Characters/Lucia_Varek|Lucia Varek]]; Eddie Sosa / Los Bravos; nace el canal directo Kal–Lucia; Chiara sabe que existe.
+- *(capítulo puente, sin ID)* — [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta|Lo único que es mío]] (Cap. 41): primera consecuencia lateral del pacto con Varek; Marisol / Kenji; Kal aplica el aprendizaje de preocuparse sin escoger por otro.
+- **H21 — Mi pareja** (Cap. 43): formalización verbal en el Audi de Kal, con Nadir en altavoz. Cierra la Parte II.
 - **Fuera de escena — la noche Marsh–Vera (CANON 2026-10-03):** entre la noche del taller del norte (Cap. 31) y el amanecer del Cap. 34, Blake Stanton mata a los padres Marsh, Dylan mata a la oficial Vera Kessler y Volpi limpia la escena y entrega al niño a Varek. Cuando Kal llega a la mansión, el niño está escondido ahí. El Libro I no lo muestra; sólo Vivian lo nombra en código (Cap. 34, PENDIENTE). Ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]].
 
 ### Movimiento Kal
@@ -114,7 +120,7 @@ Confronta directamente el poder que la contrata (Varek) y sobrevive a la amenaza
 
 ### Movimiento de la relación
 
-`protección unilateral (H5) → conflicto abierto con la estructura (H6) → coordinación como unidad (H7) → alineación bajo presión (Línea directa / La periferia) → pareja nombrada (H21)`.
+`prueba bajo fuego (robo, H12) → apertura deliberada (H15) → protección unilateral (H5) → conflicto abierto con la estructura (H6) → coordinación como unidad (H7) → alineación bajo presión (Línea directa / La periferia) → pareja nombrada (H21)`.
 
 ### Condición de salida
 

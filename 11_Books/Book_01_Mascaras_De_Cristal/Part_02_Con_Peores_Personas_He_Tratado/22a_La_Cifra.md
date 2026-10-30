@@ -13,6 +13,7 @@ Provisional / a revisar con el autor:
 - North Guard: Kal dice que su empresa está «en trámite». CANON DEL AUTOR (2026-10-28): sigue así todo el Libro I y se concreta en *Sombras de Poder*.
 - Cifras (82,400 registrados; «trescientos y algo» fuera de libros) y mecánica de la caja (sensor de horario que avisa a la central de Eagle Eye; doble fondo con lámina) son DISEÑO.
 Pasada `editorial-surgery` 2026-10-28 (3 microediciones): [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_caps25_26_robo_monarch]].
+Microedición 2026-10-30 (estudio OP-03, autorizada por el autor): Lucía nombra los dos contratos de Kal (el del Departamento viene de *Auster*); Matteo dice «la de Dario» para no confundir con la subjefa. [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op03_robo_monarch]].
 -->
 
 # Capítulo 26 — La cifra
@@ -99,7 +100,7 @@ Matteo metió la mano en el hueco, como si el libro pudiera seguir ahí y fueran
 
 —Matteo.
 
-—Chiara, eran las... —Bajó la voz, aunque estaban solos—. Si esto llega a Palermo... Si se enteran de que salieron de mi caja, no de la de Varek, de la mía... Tengo que llamar. No. No puedo llamar a nadie. *Madonna.* Tengo que...
+—Chiara, eran las... —Bajó la voz, aunque estaban solos—. Si esto llega a Palermo... Si se enteran de que salieron de mi caja, no de la de Dario, de la mía... Tengo que llamar. No. No puedo llamar a nadie. *Madonna.* Tengo que...
 
 —Escúchame.
 
@@ -225,9 +226,9 @@ Lucía saludó a los patrulleros con la cabeza, oyó el resumen del más viejo s
 
 Lucía sacó una libreta del bolsillo interior de la chaqueta, una de verdad, de espiral, y anotó algo corto.
 
-—Usted tiene un contrato de mantenimiento con este edificio. Me lo dijo la otra vez.
+—Usted tiene un contrato con el Departamento. Y otro con este edificio.
 
-—Sigue vigente.
+—Los dos siguen vigentes.
 
 —Y una grúa. —Cerró la libreta—. Si su grúa levanta un auto que se parezca a ése, señor Mercer, me llama a mí. No a la señora Bellandi.
 

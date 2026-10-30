@@ -47,6 +47,7 @@ Plan: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]
 ## Continuidad, edición y exportación
 
 - **Protolectura (caps. 1–8):** preguntas en [[99_Reference/ChatGPT_puntos_atencion_caps_01_08_2026-10-19]]. «No hay veinte como él» ya se resolvió (2026-10-24: Cap. 2:721 baja a «Yo no he visto veinte como él» / «Es lo que vi hoy»).
+- **Reseña de Partes I–II (ChatGPT, OP-01 a OP-10):** vigente la [[98_Agent_Handoff/ChatGPT/2026-10-29_recalibracion_resena_partes_I_II_corte_cap25|recalibración]] (corte en 25); el informe previo queda como historial. OP-06 resuelto (corte). OP-03 estudiado: [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op03_robo_monarch]] (P1–P2 aplicados; P3–P6 a la beta). OP-02, 04, 05 y 07 estudiados: [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op02_op04_op05_op07]] (Mantener/Observar; Nat inactiva hasta el Libro II, CANON 2026-10-30). OP-01, 09 y 10 sólo con lector beta; OP-08 sólo por caso concreto. No editar prosa por hipótesis.
 - **Gesto de manos:** revisar en cada capítulo.
 - **Portada y Nota Editorial:** portada ≥1600×2560 para KDP; título de `00_Nota_Editorial.md`, del autor.
 - **Exportación:** EPUB y PDF del 2026-10-03; regenerar según CLAUDE.md.

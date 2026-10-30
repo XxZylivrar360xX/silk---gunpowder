@@ -14,7 +14,8 @@
 **Territorio narrativo:** estaciones de bomberos, ambulancias, incendios, accidentes, escenas violentas una vez aseguradas, hospitales y emergencias urbanas de San Aurelio  
 **Padre:** [[02_Characters/Walter_Keegan|Walter "Walt" Keegan]]  
 **Hermano mayor:** [[02_Characters/Jim_Keegan|Jim Keegan]]  
-**Libros:** *Máscaras de Cristal* (sólo el día de la salida de Walt, [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Cap. 3]], reescrito BORRADOR 2026-09-29: ya está en la cárcel cuando llega Kal, sigue a Walt al cementerio sin separarse y pasa el mediodía en la Almendra, donde está en casa aunque no viva ahí; entra a su guardia de 24 horas a las 14:00) · *Sombras de Poder* (personaje recurrente)  
+**Libros:** *Máscaras de Cristal* (sólo el día de la salida de Walt, [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Cap. 3]], reescrito BORRADOR 2026-09-29: ya está en la cárcel cuando llega Kal, sigue a Walt al cementerio sin separarse y pasa el mediodía en la Almendra, donde está en casa aunque no viva ahí; entra a su guardia de 24 horas a las 14:00; además, el arco de Walt de los Caps. 14 y 16, *El farol* y *Por su cuenta*) · *Sombras de Poder* (personaje recurrente)  
+**CANON DEL AUTOR (2026-10-30):** después del Cap. 16 Nat no vuelve a aparecer en el Libro I. Sin señal ni mención en las Partes II y III; se activa en *Sombras de Poder*. No sembrarla por continuidad en las escenas de Walt.  
 **Estado:** viva
 
 ---

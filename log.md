@@ -4,6 +4,8 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-30: [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op02_op04_op05_op07]] · Estudio sin beta de OP-02, OP-04, OP-05 y OP-07 (reseña ChatGPT): reentradas del 26 (Matteo, la más fría), hilos I→II (Nat se esfuma tras el 16; Halbrook sin siembra en I, por diseño), Kal y Chiara sin defecto. Timeline del Libro I sincronizado con el corte en 25. Sin prosa.
+- 2026-10-30: [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op03_robo_monarch]] · Estudio de OP-03 (robo del Monarch, Caps. 26–27): mecánica se sostiene; P1 (contrato con el Departamento y con el edificio) y P2 («la de Dario») aplicados en el 26 con autorización del autor.
 - 2026-10-29: [[98_Agent_Handoff/sessions/2026-10-29_claude_corte_parte_I]] · Corte de partes movido (autor, informe ChatGPT OP-06): Parte I = Caps. 1–25, cierra en *El primer huésped*; Parte II = 26–43, abre con *La cifra*. Archivos 22a–25 movidos a `Part_02`; sin cambios de prosa ni numeración.
 - 2026-10-29: [[98_Agent_Handoff/sessions/2026-10-29_claude_compactacion_relevo]] · Bitácoras compactadas: log a 30 enlaces, brief y PENDING bajo 800 palabras; decisiones de fondo a BACKLOG; copias íntegras en archive/.
 - 2026-10-29: [[98_Agent_Handoff/sessions/2026-10-29_claude_renumeracion_60]] · Libro I renumerado a 60 caps. por orden del autor: *Por su cuenta* (12b) = Cap. 16; antiguos 16–59 → 17–60. La prosa del 12b sigue en BORRADOR.
@@ -32,12 +34,11 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_ropa_limpia_cap51]] · Cap. 51: regla 05 en *Ropa limpia* (fuera ecos de Kenji, Krane, recepcionista, Bonnie, Rosaura y el «Kingsley queda lejos» de Mabel; «Eso no lo decides tú», «Porque no» y «Se lo iba a pedir» intactos). DISEÑO.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_la_puerta_cap49]] · Cap. 49: regla 05 en *La puerta* (fuera tres ecos: Héctor, Garrett y Dario por teléfono; «No pregunté eso» y «Van a estar completas» intactos); prosa DISEÑO pendiente de lectura.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_nada_cap48]] · Cap. 48: regla 05 en *Nada* (llamada sin interrogatorio; «Lo sé» de seis a uno en F1; ecos y remate doble de Kal fuera; canon intacto). DISEÑO.
-- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_otra_mitad_cap47]] · Cap. 47: regla 05 en *La otra mitad* (entrevista de Bonnie aflojada: fuera «¿Qué cosas?» y el cierre «Encontrarla» / «Bien»; canon intacto). DISEÑO.
-- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_mecanico_cap46]] · Cap. 46: regla 05 en *Mecánico* (4 ecos cortados: sábanas, la Mesa, el patio y el «¿Cuándo?»; canon intacto). DISEÑO.
 
 ## Historial
 
 - [[98_Agent_Handoff/archive/README|Índice del archivo y búsqueda]].
+- [[98_Agent_Handoff/archive/2026-10_log_indice|Índice de octubre (entradas rotadas desde el 2026-10-30)]].
 - [[98_Agent_Handoff/archive/2026-10-10_log_anterior|Bitácora anterior a la compactación del 2026-10-10]].
 - [[98_Agent_Handoff/archive/log_hasta_2026-09-21_cap40|Bitácora original íntegra hasta el corte del 2026-09-21]].
 - Notas previas y futuras: carpeta `98_Agent_Handoff/sessions/`; buscar por fecha o tema.
