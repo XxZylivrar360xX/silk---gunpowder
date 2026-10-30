@@ -203,10 +203,10 @@
     "22a_La_Cifra.md": {
       "capitulo": 26,
       "titulo": "La cifra",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-10-29",
-      "desde": "2026-10-30 00:06"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-10-30",
+      "desde": "2026-10-30 00:54"
     },
     "22b_Con_Su_Proveedor.md": {
       "capitulo": 27,
@@ -267,10 +267,10 @@
     "26_Me_Encuentro_Bien.md": {
       "capitulo": 34,
       "titulo": "Me encuentro bien",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la numeración, el diccionario o la voz",
-      "audio": "2026-10-29",
-      "desde": "2026-10-30 00:06"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-10-30",
+      "desde": "2026-10-30 00:54"
     },
     "27_Riesgo_Pendiente.md": {
       "capitulo": 35,
@@ -2281,6 +2281,16 @@
       "2026-10-30 00:06",
       "Cap. 34 (26_Me_Encuentro_Bien.md)",
       "audio pendiente: cambió la numeración, el diccionario o la voz"
+    ],
+    [
+      "2026-10-30 00:54",
+      "Cap. 26 (22a_La_Cifra.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-30 00:54",
+      "Cap. 34 (26_Me_Encuentro_Bien.md)",
+      "audio regenerado"
     ]
   ]
 }

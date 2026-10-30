@@ -2,14 +2,11 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-30 00:45. Al día: 58 de 60.
+Actualizada: 2026-10-30 00:54. Al día: 60 de 60.
 
 ## Pendientes
 
-| Cap. | Título | Estado | Motivo | Desde |
-|---|---|---|---|---|
-| 26 | La cifra | PENDIENTE | cambió la prosa | 2026-10-30 00:06 |
-| 34 | Me encuentro bien | PENDIENTE | cambió la numeración, el diccionario o la voz | 2026-10-30 00:06 |
+Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Capítulos
 
@@ -40,7 +37,7 @@ Actualizada: 2026-10-30 00:45. Al día: 58 de 60.
 | 23 | Lo que nadie estaba mirando | AL DIA | 2026-10-29 |
 | 24 | Lo pequeño | AL DIA | 2026-10-29 |
 | 25 | El primer huésped | AL DIA | 2026-10-29 |
-| 26 | La cifra | PENDIENTE | 2026-10-29 |
+| 26 | La cifra | AL DIA | 2026-10-30 |
 | 27 | Con su proveedor | AL DIA | 2026-10-29 |
 | 28 | Nada caro | AL DIA | 2026-10-29 |
 | 29 | Bajo juramento | AL DIA | 2026-10-29 |
@@ -48,7 +45,7 @@ Actualizada: 2026-10-30 00:45. Al día: 58 de 60.
 | 31 | Oveja entre lobos | AL DIA | 2026-10-29 |
 | 32 | Vienes conmigo | AL DIA | 2026-10-29 |
 | 33 | Libros abiertos | AL DIA | 2026-10-29 |
-| 34 | Me encuentro bien | PENDIENTE | 2026-10-29 |
+| 34 | Me encuentro bien | AL DIA | 2026-10-30 |
 | 35 | Lleve equipaje | AL DIA | 2026-10-29 |
 | 36 | No hace falta | AL DIA | 2026-10-29 |
 | 37 | Una silla | AL DIA | 2026-10-29 |
@@ -78,6 +75,8 @@ Actualizada: 2026-10-30 00:45. Al día: 58 de 60.
 
 ## Historial
 
+- 2026-10-30 00:54 · Cap. 34 (26_Me_Encuentro_Bien.md) · audio regenerado
+- 2026-10-30 00:54 · Cap. 26 (22a_La_Cifra.md) · audio regenerado
 - 2026-10-30 00:06 · Cap. 34 (26_Me_Encuentro_Bien.md) · audio pendiente: cambió la numeración, el diccionario o la voz
 - 2026-10-30 00:06 · Cap. 26 (22a_La_Cifra.md) · audio pendiente: cambió la prosa
 - 2026-10-30 00:03 · Cap. 60 (50b_La_Tierra_Bajo_Sus_Botas.md) · audio generado
