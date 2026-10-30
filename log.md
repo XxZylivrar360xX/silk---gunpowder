@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-29: [[98_Agent_Handoff/sessions/2026-10-29_claude_surgery_farol_por_su_cuenta]] · Cirugía de *El farol* y *Por su cuenta* (reporte ChatGPT). Decisiones del autor: audiencia con juez = licencia consciente (Oregon); el bar abre cuando llega la licencia; suministro destilería→Monarch = ficción del mundo. Siguen en BORRADOR.
 - 2026-10-29: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Arco_Walt_Condicional]] · Continuidad con el Cap. 5 (Walt jugó en la apertura del Monarch, 140 dólares): en *El farol* es el antecedente sin papel y el origen de los cerillos; en *Por su cuenta*, Kal reconoce la verdad a medias de Walt ante la fiscal y calla. Cap. 5 sin tocar.
 - 2026-10-29: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/11_El_Farol]] · Cap. 14 *El farol* reescrito (BORRADOR) sobre el plan del arco de Walt: licencia negada y sociedad, discusión Nat–Walt, torneo secreto («invitado de la dirección»), Tommaso no cobra. Fichas de Walt, Tommaso y destilería actualizadas.
 - 2026-10-29: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/12b_Por_Su_Cuenta]] · Cap. B del arco de Walt, *Por su cuenta* (archivo 12b, narra Kal), en BORRADOR: audiencia y terminación de la condicional, subasta del bar, deuda del hielo, carta de Chiara. Sin renumerar.

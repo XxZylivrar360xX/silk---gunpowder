@@ -14,6 +14,7 @@ DISEÑO del agente, a revisar:
 - Reputación: Walt paga la deuda del dueño anterior con el del hielo, corregida a la cifra exacta, y adelanta el hielo del día siguiente con dos dedos.
 - Nat pregunta «¿Con qué dinero vas tú?»; Kal registra el sobre y no pregunta (trato entre los dos).
 - Chiara: «No es mío para contarlo», eco del cierre del Cap. 14 y residuo del «todavía no» de *Roma Atrii*.
+Cirugía 2026-10-29 (reporte ChatGPT [[98_Agent_Handoff/ChatGPT/2026-10-29_reporte_editorial_el_farol_por_su_cuenta]], autorizada por el autor; sigue BORRADOR). Decisiones del autor: PSC-01, la audiencia con juez y fiscal es LICENCIA CONSCIENTE (en Oregon la baja anticipada la decide la Junta de Libertad Condicional por trámite); escena intacta, PSC-04 intacto. PSC-02, el bar no abre sin licencia: «Abre el sábado» → «Ya tiene llaves. Abre cuando le llegue la licencia»; los 40 del hielo, «a cuenta del primer hielo». PSC-03 y PSC-05: la prosa no promete anonimato ni licencia concedida; sin cambio. Sesión: 98_Agent_Handoff/sessions/2026-10-29_claude_surgery_farol_por_su_cuenta.md.
 -->
 
 # Capítulo 16 — Por su cuenta
@@ -346,7 +347,7 @@ El del hielo se inclinó sobre la libreta. Se le pusieron rojas las orejas.
 
 Walt sacó la cartera y contó seiscientos cuarenta sobre la barra, billete por billete, delante del hombre. Después contó cuarenta más, aparte, y los empujó hacia él con dos dedos.
 
-—Eso es por el hielo de mañana. Lo quiero a las siete.
+—Eso es a cuenta del primer hielo. Le aviso el día, y lo quiero a las siete.
 
 El del hielo se quedó mirando los dos montones.
 
@@ -358,7 +359,7 @@ El hombre repartió los billetes en dos bolsillos distintos, se puso la gorra, l
 
 —Al final le pagaste lo que pidió —dijo Kal.
 
-—Le pagué lo que se debía. Lo otro es el hielo de mañana. —Walt le sirvió café de un termo que había traído de su casa—. No es lo mismo.
+—Le pagué lo que se debía. Lo otro es el primer hielo. —Walt le sirvió café de un termo que había traído de su casa—. No es lo mismo.
 
 Kal dejó un billete en la barra. Walt lo tomó, abrió la caja registradora, que sonó como si llevara meses esperando, y le devolvió el cambio exacto, moneda por moneda, sobre la madera.
 
@@ -368,7 +369,7 @@ En la grúa, antes de arrancar, marcó el número de Nat. Contestó al tercer ti
 
 —¿Qué pasó?
 
-—Nada. —Kal miraba el neón de la ventana, las dos letras fundidas—. Abre el sábado.
+—Nada. —Kal miraba el neón de la ventana, las dos letras fundidas—. Ya tiene llaves. Abre cuando le llegue la licencia.
 
 Del otro lado se oyó una cortina, una llave de agua.
 

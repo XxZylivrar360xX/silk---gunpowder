@@ -6,6 +6,7 @@ Se conservan del texto anterior, reubicadas: el ladrillo, el trapo detenido, «M
 Salen, por chocar con el secreto: «Tu amigo jugó en mi torneo» / «Esta vez vino sin copiloto», «¿Por qué está aquí?» (ahora «Usted está en libertad condicional») y la bodega «al norte del canal» como dato de Mabel (Chiara ya la conoce). La apertura deja de partir del ladrillo; el ladrillo pasa a la escena 4 y conserva el eco final.
 DISEÑO del agente, a revisar: condiciones de la condicional (no entra a bares; permiso por escrito para salir del condado); la carta de la Comisión de Licores; la inspección del estado; los once mil de Nat; el bar de las vías cerrado en Año Nuevo, rematado «en primavera», dueño que se va a Nevada; la pizarra con números de asiento; «invitado de la dirección»; el sobre de la licencia llega la tarde del torneo; Tommaso firma el suministro tres días después de la oferta.
 Continuidad con el Cap. 5 *Cliente y proveedor* (TERMINADO, sin tocar): Walt jugó unas manos en la apertura del Monarch (140 dólares, «de copiloto»; Kal lo esperó). Chiara lo sabe; aquí esa noche se vuelve el antecedente: sin nombre ni papel, y desde entonces los cerillos (Cap. 13: «Dinero no apostaba bajo un techo que no era suyo»). El torneo es distinto porque deja lista, acta y premio. Continuidad: *Roma Atrii* (archivo 12) parte 2 ocurre esta misma noche (Kenji, «la mesa tres», la carta de Chiara en su oficina): sin cambios. El Cap. B *Por su cuenta* (archivo 12b) va después de *Roma Atrii* y cobra el secreto en la audiencia.
+Cirugía 2026-10-29 (reporte ChatGPT [[98_Agent_Handoff/ChatGPT/2026-10-29_reporte_editorial_el_farol_por_su_cuenta]], autorizada por el autor; sigue BORRADOR): EF-01, la negativa de la Comisión es por sus antecedentes y la supervisión, no una regla universal; EF-03, «en ningún papel del Monarch» → «en el acta» (la lista de inscritos con su nombre existió). EF-02, decisión del autor: el suministro directo destilería→Monarch es ficción del mundo (Oregon controla destilados; misma licencia que el casino legal); sin cambio. EF-04 sin cambio. Sesión: 98_Agent_Handoff/sessions/2026-10-29_claude_surgery_farol_por_su_cuenta.md.
 --- Historial anterior ---
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 11; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR. Rediseño 2026-10-04 (decision del autor; prosa DISENO del agente, pendiente de lectura). Sustituye la version TERMINADA de 2026-09-27/30, en la que Chiara investigaba a un Walt casi desconocido.
@@ -46,7 +47,7 @@ Dobló la carta en cuatro, sin prisa, con el membrete hacia adentro. No antes de
 
 —¿Se la negaron?
 
-—Me la explicaron. —Walt se guardó la carta en el bolsillo interior de la chaqueta—. La primera hoja es para decir que lo sienten. La segunda dice que mientras esté bajo supervisión no soy elegible, y que vuelva cuando termine.
+—Me la explicaron. —Walt se guardó la carta en el bolsillo interior de la chaqueta—. La primera hoja es para decir que lo sienten. La segunda dice que, con mis antecedentes y mientras siga bajo supervisión, no me la pueden dar. Que vuelva cuando termine.
 
 —¿Y cuándo termina?
 
@@ -408,7 +409,7 @@ Se levantó antes de que él pudiera devolvérselo.
 
 Walt ganó la mesa final veinte minutos después de la medianoche, con la misma cara. Fabrizio le llevó a Chiara el acta para que la firmara. En la línea del ganador decía *Asiento 14 — invitado de la dirección*. Fabrizio lo había escrito con su letra redonda de colegio de monjas. Chiara lo leyó, firmó debajo y le devolvió la pluma.
 
-Fabrizio miró la firma, la miró a ella, y guardó el acta en la carpeta sin decir nada. El premio salió de la caja esa misma noche, y en ningún papel del Monarch quedó escrito a quién.
+Fabrizio miró la firma, la miró a ella, y guardó el acta en la carpeta sin decir nada. El premio salió de la caja esa misma noche, y en el acta no quedó escrito a quién.
 
 Tommaso la alcanzó cerca de la una, junto a la escalera de servicio, cuando el piso ya se vaciaba. No traía nada en las manos. Le miró el anular, no la cara.
 
