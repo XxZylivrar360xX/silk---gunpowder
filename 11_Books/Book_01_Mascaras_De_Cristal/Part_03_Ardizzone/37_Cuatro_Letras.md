@@ -29,7 +29,7 @@ Libreta de los fiados (2026-10-22, decision del autor; prosa DISENO; sigue BORRA
 Regla de diálogo 05 (2026-10-28, Claude Code, encargo del autor; prosa DISEÑO, sigue BORRADOR): el gag de «Roma» se conserva, pero se rompe la máquina común (todos cerraban con «Entonces…» y Kal remataba con «No es…»). Fuera el eco «Es de ella» y los remates «No es ninguna de las dos», «No es.» y «No es eso tampoco» (silencio de Kal o Bonnie se contesta sola); Nadir, Walt y Danny ya no abren con «Entonces». Intactos: Héctor (sequedad como relación), la línea de la cocaína, la carta y Mabel. Detalle: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_cuatro_letras_cap43]].
 -->
 
-# Capítulo 45 — Cuatro letras
+# Capítulo 46 — Cuatro letras
 
 El sobre estaba apoyado contra la cafetera, todavía tibia, con su nombre escrito en la letra inclinada que ya reconocía sin tener que mirar la firma.
 

@@ -18,7 +18,7 @@ Frente 3, densidad (2026-10-05, SURGERY autorizada por el autor; sigue BORRADOR)
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N24c-1 a N24c-12 salvo N24c-8, que ya habia desaparecido con el frente 3. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
-# Capítulo 30 — Oveja entre lobos
+# Capítulo 31 — Oveja entre lobos
 
 Tommaso había mentido bajo juramento por Kal, y menos de dos semanas después le escribió a Chiara para avisarle que organizaba una pequeña ceremonia por el aniversario de Alessio. Necesitaba una lista de invitados. Necesitaba que ella confirmara una fecha.
 

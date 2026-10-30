@@ -22,7 +22,7 @@ SURGERY 2026-10-28 (reporte ChatGPT, lectura del Cap. 21; sigue TERMINADO, la pr
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N18-1 a N18-5 (N18-6 conservado). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
-# Capítulo 21 — El día nublado
+# Capítulo 22 — El día nublado
 
 Lo que se le quedó a Kal del hospital no fue el infarto de Héctor. Fue una frase.
 

@@ -15,7 +15,7 @@ Provisional / a revisar con el autor:
 Cirugía 2026-10-28 (reporte ChatGPT [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_caps25_26_robo_monarch_la_cifra_con_su_proveedor]], aprobada por el autor): «El martes. A la una de la madrugada» (O-01); Nadir y Danny cobran tres mil cada uno (O-02); el alto mira el camino antes de ceder (O-03); la barrera «se había quedado arriba» (O-04). **CANON DEL AUTOR (O-05):** Roy Boone deserta tras la detención (narcóticos encuentra su casa vacía a las seis); sin líder, los Devil Splicers se deshacen, y para el Cap. 43 «ya no existía». Pasada `editorial-surgery` el mismo día: [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_caps25_26_robo_monarch]].
 -->
 
-# Capítulo 26 — Con su proveedor
+# Capítulo 27 — Con su proveedor
 
 Danny había visto el video once veces cuando Kal colgó con Chiara.
 

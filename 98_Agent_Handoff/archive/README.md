@@ -88,3 +88,10 @@ Copias íntegras antes de compactar el relevo (el brief medía ~1,430 palabras; 
 Copia íntegra antes de compactar el brief (medía ~1,450 palabras): la serie de la regla 05 (Caps. 12–22) quedó en una sola entrada con sus sesiones.
 
 - [[98_Agent_Handoff/archive/2026-10-28_CURRENT_BRIEF|Brief acumulado]].
+
+## Corte del 2026-10-29
+
+Copias íntegras antes de compactar el relevo (el brief medía ~1,400 palabras; PENDING ~1,080). Las decisiones de fondo de PENDING (Fabrizio/Tommaso, lectura del libro, Cuatro Partes, Rocco) pasaron a [[98_Agent_Handoff/BACKLOG]]; los 98 enlaces más antiguos de [[log]] pasaron a [[98_Agent_Handoff/archive/2026-10_sesiones]], con su descripción.
+
+- [[98_Agent_Handoff/archive/2026-10-29_CURRENT_BRIEF|Brief acumulado]].
+- [[98_Agent_Handoff/archive/2026-10-29_PENDING|Pendientes]].

@@ -2,8 +2,9 @@
 
 ## Arquitectura operativa vigente — 2026-09-22
 
-> **NUMERACIÓN DEFINITIVA (2026-10-22, autor; 59 capítulos desde 2026-10-29):** el Libro I usa numeración corrida de 59
-> capítulos. El 2026-10-29 el Cap. 30 (archivo `24c`) pasó a llamarse *Oveja entre lobos* y su segunda mitad (parador,
+> **NUMERACIÓN DEFINITIVA (2026-10-22, autor; 60 capítulos desde 2026-10-29):** el Libro I usa numeración corrida de 60
+> capítulos. El 2026-10-29, por orden del autor, entró *Por su cuenta* (archivo `12b`, arco de Walt) como Cap. 16; los
+> antiguos Caps. 16–59 corrieron a 17–60 (los documentos fechados el 2026-10-29 antes de este cambio usan la numeración de 59). Ese mismo día, antes (en la numeración de 59), el Cap. 30 (archivo `24c`) pasó a llamarse *Oveja entre lobos* y su segunda mitad (parador,
 > loft, coda) se separó como Cap. 31, *Vienes conmigo*, archivo `24d`; los antiguos Caps. 31–58 corrieron a 32–59 (los
 > documentos fechados hasta el 2026-10-28 usan la numeración de 58). El 2026-10-23 la persecución con Collins se separó del Cap. 10 como Cap. 11, *La teniente*, archivo `08b`
 > (los antiguos Caps. 11–56 corrieron a 12–57; los documentos fechados el 2026-10-22 usan la numeración de 56). El
@@ -13,8 +14,8 @@
 > plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]). Cambia sólo el encabezado
 > visible (`# Capítulo N — Título`); **los nombres de archivo no cambian**, así que el prefijo del archivo ya no
 > coincide con el número del capítulo desde el 5.
-> Parte I = Caps. 1–32 (archivos 01–25, con 24d); Parte II = Caps. 33–42 (archivos 26–34, con 33b);
-> Parte III — Ardizzone = Caps. 43–59 (archivos 35–50b). Esta sección usa la numeración nueva.
+> Parte I = Caps. 1–33 (archivos 01–25, con 12b y 24d); Parte II = Caps. 34–43 (archivos 26–34, con 33b);
+> Parte III — Ardizzone = Caps. 44–60 (archivos 35–50b). Esta sección usa la numeración nueva.
 > **Las notas fechadas anteriores de este Book_Map (incluidas las entradas de "Capítulos en
 > montaje" y "Capítulos planificados"), las auditorías, las sesiones y los planes usan la
 > numeración de su época**, que en la mayoría de los casos recientes coincide con el prefijo de archivo.
@@ -36,50 +37,51 @@
 | 13 | `10` | Dos sillas vacías |
 | 14 | `11` | El farol |
 | 15 | `12` | Roma Atrii |
-| 16 | `13` | Auster |
-| 17 | `14` | La regla del teléfono |
-| 18 | `15` | Yo lo llevo |
-| 19 | `16` | El sobre rojo |
-| 20 | `17` | Le quedé debiendo |
-| 21 | `18` | El día nublado |
-| 22 | `19` | Lo que nadie estaba mirando |
-| 23 | `20` | Lo pequeño |
-| 24 | `21` | El primer huésped |
-| 25 | `22a` | La cifra |
-| 26 | `22b` | Con su proveedor |
-| 27 | `23` | Nada caro |
-| 28 | `24` | Bajo juramento |
-| 29 | `24b` | Lo que cueste |
-| 30 | `24c` | Oveja entre lobos |
-| 31 | `24d` | Vienes conmigo |
-| 32 | `25` | Libros abiertos |
-| 33 | `26` | Me encuentro bien |
-| 34 | `27` | Lleve equipaje |
-| 35 | `28` | No hace falta |
-| 36 | `29` | Una silla |
-| 37 | `30` | Media Baraja |
-| 38 | `31` | Vamos a casa |
-| 39 | `32` | Línea directa |
-| 40 | `33` | Lo único que es mío |
-| 41 | `33b` | La mano |
-| 42 | `34` | Mi pareja |
-| 43 | `35` | Sin fecha de regreso |
-| 44 | `36` | También las mañanas |
-| 45 | `37` | Cuatro letras |
-| 46 | `38` | Al revés |
-| 47 | `39` | Un par de días más |
-| 48 | `40` | Mecánico |
-| 49 | `41` | La otra mitad |
-| 50 | `42` | Nada |
-| 51 | `43` | La puerta |
-| 52 | `44` | Jurisdicción |
-| 53 | `45` | Ropa limpia |
-| 54 | `46` | Llaves |
-| 55 | `47` | Intereses |
-| 56 | `48` | Su nombre |
-| 57 | `49` | Por si vuelve |
-| 58 | `50` | A oscuras |
-| 59 | `50b` | La tierra bajo sus botas |
+| 16 | `12b` | Por su cuenta |
+| 17 | `13` | Auster |
+| 18 | `14` | La regla del teléfono |
+| 19 | `15` | Yo lo llevo |
+| 20 | `16` | El sobre rojo |
+| 21 | `17` | Le quedé debiendo |
+| 22 | `18` | El día nublado |
+| 23 | `19` | Lo que nadie estaba mirando |
+| 24 | `20` | Lo pequeño |
+| 25 | `21` | El primer huésped |
+| 26 | `22a` | La cifra |
+| 27 | `22b` | Con su proveedor |
+| 28 | `23` | Nada caro |
+| 29 | `24` | Bajo juramento |
+| 30 | `24b` | Lo que cueste |
+| 31 | `24c` | Oveja entre lobos |
+| 32 | `24d` | Vienes conmigo |
+| 33 | `25` | Libros abiertos |
+| 34 | `26` | Me encuentro bien |
+| 35 | `27` | Lleve equipaje |
+| 36 | `28` | No hace falta |
+| 37 | `29` | Una silla |
+| 38 | `30` | Media Baraja |
+| 39 | `31` | Vamos a casa |
+| 40 | `32` | Línea directa |
+| 41 | `33` | Lo único que es mío |
+| 42 | `33b` | La mano |
+| 43 | `34` | Mi pareja |
+| 44 | `35` | Sin fecha de regreso |
+| 45 | `36` | También las mañanas |
+| 46 | `37` | Cuatro letras |
+| 47 | `38` | Al revés |
+| 48 | `39` | Un par de días más |
+| 49 | `40` | Mecánico |
+| 50 | `41` | La otra mitad |
+| 51 | `42` | Nada |
+| 52 | `43` | La puerta |
+| 53 | `44` | Jurisdicción |
+| 54 | `45` | Ropa limpia |
+| 55 | `46` | Llaves |
+| 56 | `47` | Intereses |
+| 57 | `48` | Su nombre |
+| 58 | `49` | Por si vuelve |
+| 59 | `50` | A oscuras |
+| 60 | `50b` | La tierra bajo sus botas |
 
 > **SUPERSESIÓN (2026-09-22):** las antiguas Partes IV-VI (Nieve y Ceniza, Exilio, Torna a
 > Casa) dejaron de pertenecer a este libro — son ahora las Partes I-III de
@@ -147,7 +149,7 @@ El primer cruce ocurre en la entrada del casino: ella fuma, observa, se presenta
 Al final del Libro I, Kal y Chiara están reunidos pero sin haber hablado todavía de lo
 ocurrido — Kal liberado de un modo que no se explica, Chiara sin saber cómo. **"Ciao, bella."**
 Después, al alba, un hombre sin nombre (Halbrook) baja de un helicóptero en Kingsley Field y
-abre una carpeta con fotos de todos ellos; al reverso de una, "Chiara Bellandi" (Cap. 58, archivo 50b).
+abre una carpeta con fotos de todos ellos; al reverso de una, "Chiara Bellandi" (Cap. 60, archivo 50b).
 Chiara le debe a Dario una cuenta abierta, su nombre quedó escrito con los Bravos y
 Il Consorzio le ofreció el Monarch.
 El imperio, la guerra, la pérdida de Bonnie y Mei-Lin y el embarazo ~~y la llegada de Halbrook~~ (pasó al 56 —archivo 50b—, 2026-10-01)
@@ -433,9 +435,9 @@ Elenna no es un *stake* ornamental ni la única razón de Palermo. Palermo tambi
 
 **· · · CORTE PARTE II → PARTE III — ARDIZZONE · · ·** *(fijado 2026-09-20, autor)*
 
-**Parte III — Ardizzone (hoy Caps. 42–58, archivos 35–50b; esta nota de 2026-09-27 cubre los archivos 35–44 = Caps. 40–49 y usa la numeración de entonces), en `Part_03_Ardizzone/`; auditoría editorial 2026-09-27:** los diez operados por etapas (E1–E9) según [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]]. 35 *Sin fecha de regreso* (recibe en E9 la escena de Anya en el Monarch, BORRADOR/DISEÑO; la coda de las invitaciones pasó al 36) · 36 *También las mañanas* (H16, compactado) · 37 *Cuatro letras* · 38 *Al revés* (8,628 → 7,785, sin vela) · 39 *Un par de días más* · 40 *Mecánico* · 41 *La otra mitad* · 42 *Nada* (F1) · 43 *La puerta* (H19) · 44 *A oscuras* (H20, cierra el Libro I). Títulos 36–38 confirmados por el autor. Los diez siguen en BORRADOR; prosa 31,999 → 31,032. **Nota (2026-10-01):** el 44 de esta lista se rehízo como *Jurisdicción*; *A oscuras* es ahora el 50 y ya no cierra el libro.
+**Parte III — Ardizzone (hoy Caps. 44–60, archivos 35–50b; esta nota de 2026-09-27 cubre los archivos 35–44 = Caps. 40–49 y usa la numeración de entonces), en `Part_03_Ardizzone/`; auditoría editorial 2026-09-27:** los diez operados por etapas (E1–E9) según [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]]. 35 *Sin fecha de regreso* (recibe en E9 la escena de Anya en el Monarch, BORRADOR/DISEÑO; la coda de las invitaciones pasó al 36) · 36 *También las mañanas* (H16, compactado) · 37 *Cuatro letras* · 38 *Al revés* (8,628 → 7,785, sin vela) · 39 *Un par de días más* · 40 *Mecánico* · 41 *La otra mitad* · 42 *Nada* (F1) · 43 *La puerta* (H19) · 44 *A oscuras* (H20, cierra el Libro I). Títulos 36–38 confirmados por el autor. Los diez siguen en BORRADOR; prosa 31,999 → 31,032. **Nota (2026-10-01):** el 44 de esta lista se rehízo como *Jurisdicción*; *A oscuras* es ahora el 50 y ya no cierra el libro.
 
-**Arco final sin Kal (Caps. 51–58 (archivos 44–50b), H20), en `Part_03_Ardizzone/`:** redactado 2026-10-02 según [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]; auditado y operado en E0–E8 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]], microedición cerrada 2026-10-05, −370 palabras); calendario corrido una semana el 2026-10-06 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]). [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/44_Jurisdiccion|49 *Jurisdicción*]] (la institución) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/45_Ropa_Limpia|50 *Ropa limpia*]] (su red; la prueba de vida; la Navidad sin Kal) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/46_Llaves|51 *Llaves*]] (El Patio) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/47_Intereses|52 *Intereses*]] (Dario; la cuenta abierta) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/48_Su_Nombre|53 *Su nombre*]] (los Bravos) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/49_Enfrente|54 *Por si vuelve*]] (Valenti, el Monarch) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/50_A_Oscuras|55 *A oscuras*]] (el apagón, el monólogo, "Ciao, bella") · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/50b_La_Tierra_Bajo_Sus_Botas|56 *La tierra bajo sus botas*]] (Halbrook; cierra el libro). Los ocho siguen en BORRADOR.
+**Arco final sin Kal (hoy Caps. 53–60, archivos 44–50b; H20), en `Part_03_Ardizzone/`:** redactado 2026-10-02 según [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]; auditado y operado en E0–E8 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]], microedición cerrada 2026-10-05, −370 palabras); calendario corrido una semana el 2026-10-06 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]). [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/44_Jurisdiccion|49 *Jurisdicción*]] (la institución) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/45_Ropa_Limpia|50 *Ropa limpia*]] (su red; la prueba de vida; la Navidad sin Kal) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/46_Llaves|51 *Llaves*]] (El Patio) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/47_Intereses|52 *Intereses*]] (Dario; la cuenta abierta) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/48_Su_Nombre|53 *Su nombre*]] (los Bravos) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/49_Enfrente|54 *Por si vuelve*]] (Valenti, el Monarch) · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/50_A_Oscuras|55 *A oscuras*]] (el apagón, el monólogo, "Ciao, bella") · [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/50b_La_Tierra_Bajo_Sus_Botas|56 *La tierra bajo sus botas*]] (Halbrook; cierra el libro). Los ocho siguen en BORRADOR.
 
 ## Proximo paso
 

@@ -27,7 +27,7 @@ Continuidad:
 - "Conduce él, siempre": aquí es lo único que puede hacer.
 -->
 
-# Capítulo 34 — Lleve equipaje
+# Capítulo 35 — Lleve equipaje
 
 El teléfono vibró contra el mármol del baño a las tres y algo de la mañana, y Kal lo tenía en la mano antes de saber que se había movido.
 

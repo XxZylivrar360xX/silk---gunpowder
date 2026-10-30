@@ -16,7 +16,7 @@ Regla de dialogo 05 (2026-10-26, encargo del autor; DISENO pendiente de lectura;
 Causalidad y Corrado (2026-10-27, nota ChatGPT; versiones elegidas por el autor; DISENO pendiente de lectura; el estado se conserva): dialogo de Corrado = propuesta A ajustada (preguntas de la niña, gesto, 'Despues ya lo arreglo yo' / 'Quedate detras de mi' separados); Kenji: 'Y que el coche ya tenia foto' (nexo con el Peugeot, A-02); antes del desenlace, una frase con lo que quedaba contra Kal (A-01). A-03 a A-05 sin tocar. Desenlace (2026-10-27, decision del autor): el caso NO se cae; el expediente del Peugeot sigue abierto y Kal sale de su centro (sustituye 'El caso se cae' de la Funcion y 'El caso, que habia sido solido, dejo de serlo...'). Corrado y Kenji cerrados: no reintervenir. Detalle: [[98_Agent_Handoff/sessions/2026-10-27_claude_auster_causalidad_corrado]].
 -->
 
-# Capítulo 16 — Auster
+# Capítulo 17 — Auster
 
 El papel de la costa seguía donde lo había dejado, en el cajón que no era el de las cartas ni el de los recibos: un rumor sin nombre completo, sobre una mujer sin nombre completo, vista dos veces con alguien que nadie en la mesa había reconocido.
 

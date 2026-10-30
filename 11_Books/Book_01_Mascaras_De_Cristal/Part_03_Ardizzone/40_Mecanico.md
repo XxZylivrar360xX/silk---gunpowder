@@ -17,7 +17,7 @@ Función: la mitad de Kal sobre Palermo — lo que ve, oye, entiende e interpret
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N40-1, N40-2, N40-3, N40-4, N40-5, N40-6, N40-7, N40-8, N40-9, N40-10, N40-11, N40-12, L40-89, L40-125, L40-211, L40-225. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
-# Capítulo 48 — Mecánico
+# Capítulo 49 — Mecánico
 
 El aire de Palermo entraba húmedo por la ventanilla abierta del coche que los recogió en el aeropuerto. Al sol todavía era templado; en las curvas de sombra de la colina, Kal se cerraba la chaqueta. Llevaba un rato notando que Chiara, con la cabeza apoyada contra la ventanilla, había dejado de hablar en algún punto entre el último semáforo de la ciudad y la primera curva de la colina — no de cansancio: de otra cosa. La ciudad se quedó abajo, blanca y apretada contra el mar, y el camino empezó a subir entre paredes de piedra seca y olivos que llevaban ahí más tiempo del que cualquier cosa llevaba en pie en La Almendra.
 

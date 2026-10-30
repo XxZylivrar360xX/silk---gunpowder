@@ -16,7 +16,7 @@ Regla de dialogo 05 2026-10-28 (pedido del autor; DISEÑO pendiente de lectura; 
 Cabecera 2026-10-28 (reporte ChatGPT [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_cap27_nada_caro_cierre_editorial]], NC-01): ventana temporal y función apuntan a la numeración vigente (Caps. 22, 25–26 y 28). Sin cambios de prosa; NC-02 (pago del jueves / Kawasaki) comprobado sin contradicción; NC-03 («semana interesante») se conserva.
 -->
 
-# Capítulo 27 — Nada caro
+# Capítulo 28 — Nada caro
 
 El sobre llegó al taller a las nueve y doce de la mañana, entre una factura de neumáticos, el cheque del mes del Monarch firmado por Matteo Bellacorte y un aviso del condado por una grúa que llevaba tres semanas estacionada donde no debía. Membrete de una sociedad que Kal conocía demasiado bien: dos páginas de lenguaje pulcro que decían, de tres maneras distintas para que pareciera inevitable, que su nombre ya no figuraba en el acuerdo del concesionario.
 

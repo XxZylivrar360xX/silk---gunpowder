@@ -13,7 +13,7 @@ Funcion: FUSIONADO (2026-09-03), a peticion del autor -- el antiguo Cap. 17 (El 
 Apertura por residuo: arranca del cierre del Capitulo 15 -- el sobre rojo bajo la puerta del loft, dejado ahi por Chiara sin revelar su contenido.
 -->
 
-# Capítulo 19 — El sobre rojo
+# Capítulo 20 — El sobre rojo
 
 El sobre rojo estaba en el suelo, junto a la puerta.
 

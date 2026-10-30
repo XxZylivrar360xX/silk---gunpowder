@@ -19,7 +19,7 @@ Seccion 3 del reporte (poda de glosas) EJECUTADA (2026-09-10, decision del autor
 Cierre 2026-10-28 (CANON DEL AUTOR, en sesion): Chiara dice "*Vieni.*" al tomarle la mano, antes del trayecto a la habitacion; sin glosa ni traduccion. Ver [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap23_lo_pequeno]].
 -->
 
-# Capítulo 23 — Lo pequeño
+# Capítulo 24 — Lo pequeño
 
 El día nublado no volvió a mencionarse entre ellos, pero tampoco se fue del todo.
 

@@ -7,7 +7,7 @@ Lugares: Hospital Santa Aurelia (calle de atras), bahia de carga / tunel este de
 Hitos: H12 (abrazo y temblor en el loft, canon intactos). Residuo hacia el Cap. 32 (*Libros abiertos*): "Necesito un coche que no sea del Monarch / Conozco uno" (puente al Lancia).
 -->
 
-# Capítulo 31 — Vienes conmigo
+# Capítulo 32 — Vienes conmigo
 
 Desde la primera mañana tenía el Audi en la calle de atrás, frente a unas casas, y no en el estacionamiento del hospital, donde cualquiera con una credencial de Dario había tenido tres días para ponerle un micrófono o un localizador.
 

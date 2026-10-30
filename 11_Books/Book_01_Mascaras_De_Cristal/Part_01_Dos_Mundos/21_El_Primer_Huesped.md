@@ -19,7 +19,7 @@ Apertura por residuo, puesta en escena (2026-10-28, idea del autor sobre propues
 SURGERY 2026-10-28 (lectura de ChatGPT [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_cap24_el_primer_huesped_lunares_y_continuidad]]; decisiones del autor en sesion; el estado se conserva; prosa DISENO pendiente de lectura; ver [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap24_el_primer_huesped]]): lunares desde los omoplatos y por el centro de la espalda (CANON DEL AUTOR, sincronizado en la ficha); Marisol nombra la bofetada; fuera la glosa "una version distinta de si misma"; el club, en el sector sur de La Isla (quince minutos desde el Monarch); Marisol atras, detras de Chiara, y la mano en el semaforo con el Audi detenido. "Sin pedir permiso" y "por primera vez en años" se conservan por decision del autor.
 -->
 
-# Capítulo 24 — El primer huésped
+# Capítulo 25 — El primer huésped
 
 El teléfono sonó a las tres y algo de la madrugada. La pantalla encendió lo poco que había entre la cama y la puerta: un calcetín oscuro en el suelo, doblado sobre sí mismo; más arriba, colgado de la lámpara de la mesa de noche de Chiara, un sostén negro de encaje. El resto del penthouse seguía a oscuras.
 

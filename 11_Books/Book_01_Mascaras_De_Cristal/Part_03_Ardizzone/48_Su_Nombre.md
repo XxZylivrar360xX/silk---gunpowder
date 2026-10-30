@@ -23,7 +23,7 @@ DISEÑO del agente, pendiente de lectura:
 Regla de diálogo 05 (2026-10-28, a pedido del autor; prosa DISEÑO, espera lectura): fuera «Es no», «¿Eso dijo?», «Para una ruta», el «Gracias» a Bonnie, «¿Por qué no por el Cutoff?», «¿Usted sabe lo que me está pidiendo?» / «Por eso vine en persona», «¿Cómo que no sabe?», el eco «Menos él», «¿Y lo otro?», «¿Para qué?» antes del Peugeot, «Nada más» y «Ya sé que no es por dinero». Sesión: 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_su_nombre_cap54.md.
 -->
 
-# Capítulo 56 — Su nombre
+# Capítulo 57 — Su nombre
 
 El primero de enero La Esquina de Mabel no tenía turno de la mañana ni de la tarde. Tenía uno solo, largo, que empezaba a las seis con los que todavía no se habían acostado y pedían menudo, y terminaba cuando Mabel apagaba la cafetera, y a mediodía estaba en su peor hora: todas las mesas ocupadas, dos familias esperando de pie junto a la vitrina, un niño llorando por un pan que no era el que había pedido.
 

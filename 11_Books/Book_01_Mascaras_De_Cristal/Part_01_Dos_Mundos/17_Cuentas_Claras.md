@@ -12,7 +12,7 @@ Regla de dialogo 05 (esticomitia) 2026-10-26, a pedido del autor: ocho cortes de
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N17-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
-# Capítulo 20 — Le quedé debiendo
+# Capítulo 21 — Le quedé debiendo
 
 Walt se lo dijo a la mañana siguiente, en la puerta del taller, sin darle vueltas.
 

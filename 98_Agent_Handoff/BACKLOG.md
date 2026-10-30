@@ -1,6 +1,6 @@
 # Decisiones de fondo y trabajo diferido
 
-Actualizado: 2026-10-14 (diferidos desde PENDING). Lectura por tema, no de arranque. Extraído de pendientes previos sin resolver decisiones autorales. Inventario original íntegro: [[98_Agent_Handoff/archive/2026-09-21_PENDING]]. Si una fuente vigente contradice un pendiente heredado, verificar y registrar su resolución; no inventarla.
+Actualizado: 2026-10-29 (diferidos desde PENDING; antes 2026-10-14). Lectura por tema, no de arranque. Extraído de pendientes previos sin resolver decisiones autorales. Inventario original íntegro: [[98_Agent_Handoff/archive/2026-09-21_PENDING]]. Si una fuente vigente contradice un pendiente heredado, verificar y registrar su resolución; no inventarla.
 
 ## Continuidad y arquitectura
 
@@ -31,6 +31,17 @@ Actualizado: 2026-10-14 (diferidos desde PENDING). Lectura por tema, no de arran
 - Villani Motors: verificar ejecución de compra/venta del auto y siembra de adquisición del local antes de dar por vigente el antiguo encargo de redactarlas.
 - Lucia: ubicar el futuro reconocimiento de sus dos relaciones distintas con Kal cuando él ya coordine problemas entre bandas; no reinsertar en «Línea directa» la observación retirada por prematura.
 - Palermo y liberación: el plan del 2026-09-21 ya resuelve la reserva general. Sólo desarrollar lo que el plan autoriza; comprobar cualquier detalle jurídico residual contra ese mecanismo antes de pedir nuevas decisiones.
+
+- *Desde PENDING (2026-10-29; capítulos en la numeración de 57, ver la tabla de desfase en [[98_Agent_Handoff/PENDING]]):*
+  - **Decide el autor:** cómo nota Chiara el embarazo de Paola y dónde cae la escena del despacho; en qué libro de V–VII sabe Livia Ferraro la verdad sobre Volpi; si Livia Rinaldi de la Mesa es la madre de Fabrizio; dónde se ve en la Parte II la coerción de Volpi sobre Tommaso; si se ajusta «Llevaba meses sin pararse en mi oficina» (*Sombras*, Cap. 1).
+  - **Fichas limpias (2026-10-22):** dudas del mantenimiento en Volpi (mesa tres; "Libro III" por *Cuentas de Sangre*), Livia (Palermo; qué sabe), Fabrizio ("sólo habla en el Cap. 2"; su familia) y Tommaso (dos PENDIENTES que el canon parece resolver).
+  - **Decide el autor:** ¿el puño de la camisa es exclusivo de los Lusardi (29, Dario; 1, Kal)? ¿Se ajusta en el 4:248 «el apellido de su hermano como cuchillo», ahora que el cuchillo es "Bellandi"?
+  - **Parte III:** "Parte IV" en H8; bloques del Book Map; el traslado (49; 43:177, 187); la camioneta (48; 42:40).
+  - **Parte II:** H6 §5/§7, H7, 36 (31:23) y Danny en la mercancía de Irene; Cap. 35, bajar la certeza del plan contra Varek; revisión final del 30.
+  - **Cap. 13 (decisión del autor, 2026-10-27):** contemplativo por función; sin poda general de la obra. Solo cortes puntuales que el autor marque en lectura.
+  - **Danny y la deuda con Irene (revisar al llegar al Cap. 37):** en el 20 el trato compromete a los dos; en *Línea directa* (archivo 32) Irene libera sólo a Nadir y cambia lo pendiente por un favor de Kal. Falta una resolución equivalente para Danny. No rompe el 20.
+  - **Bonnie:** la numeración vieja de libros en su ficha la corrige el autor.
+  - **Mantenimiento:** carpetas de uso bajo, sólo tras contrastar dependencias. Buzón ChatGPT: notas 2026-10-05 a 14, procesadas, siguen en `ChatGPT/`; archivar sólo con orden del autor.
 
 ## Personajes y confirmaciones menores
 
@@ -69,6 +80,10 @@ Actualizado: 2026-10-14 (diferidos desde PENDING). Lectura por tema, no de arran
   - Susurro a Varga (autor, 2026-10-17): en el Libro I, Cap. 4, Kal le dijo a Varga «No querrá terminar como Keene en una banca, ¿verdad?»; en el Cap. 5 Chiara pregunta dos veces y Kal lo difiere («Se lo voy a decir cuando firmemos un contrato de asociación oficial»). Al llegar a la reunión de Kal con Dario, una línea muy sencilla. Cobro: al firmar la cadena hotelera (primera sociedad legítima), Chiara pregunta «¿Y ya me vas a decir?» y Kal se lo cuenta.
   - «Usted es alta» (autor, 2026-10-17): sembrado en el Cap. 5 (máquina de café). Cobro en La Esquina de Mabel: Chiara en tacones lo rebasa; Kal de puntitas, «¿En serio estás muy alta?» / «Eso nunca fue un problema para ti»; él se sube a un banquito de la barra y los dos se ríen. Chiara 1.80, Kal 1.92.
 - Álbum/fotografías, descubrimientos de Corrado y desarrollo posterior de Elenna: consultar fichas y [[07_Ideas/Tres_Hermanas_Epilogo]]; no deshacer decisiones recientes conservadas en archivo.
+
+- *Desde PENDING (2026-10-29; capítulos en la numeración de 57, ver la tabla de desfase en [[98_Agent_Handoff/PENDING]]):*
+  - **Cuatro Partes** ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]): investigación nocturna de Kal; columna de Crowe y bandas del final fusionado; robo (origen del anillo, salida por el casino, túneles).
+  - **Rocco:** qué le pasa en el momento "John Wick" de El Patio y quién responde; su relación con Tyler, Mei-Lin y Bonnie; nombre y llegada del gato negro de Chiara ([[02_Characters/Rocco]]).
 
 ## Libros IV/V y herramientas
 

@@ -27,7 +27,7 @@ Regla de dialogo 05 (2026-10-28, Claude Code, encargo del autor; prosa DISENO, s
 Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): Nadir le avienta la llave Allen en la acera; cuando Kal le quita lo de Irene, Rocco se la devuelve y Nadir no la recoge. Ficha: 02_Characters/Rocco.md.
 -->
 
-# Capítulo 39 — Línea directa
+# Capítulo 40 — Línea directa
 
 El sillón seguía cuatro centímetros fuera de su lugar.
 

@@ -15,7 +15,7 @@ Microcirugia de dialogo K/C 2026-10-04 (autorizada por el autor; [[13_Auditorias
 Reporte ChatGPT 2026-10-28 ([[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_cap28_bajo_juramento_mecanica_judicial]]; decisión del autor; DISEÑO, espera lectura; ver 98_Agent_Handoff/sessions/2026-10-28_claude_cap28_bajo_juramento_orden_procesal.md): BJ-01, Kal demanda, así que declara primero su testigo: el bloque de Chiara (directo y contrainterrogatorio) pasa antes del contador y los empleados de Hoover; entradas "Chiara declaró primero" y "Después del receso, Krane empezó por los papeles". Testimonios intactos; Tommaso sigue después de Chiara. BJ-02 (opción C del autor): las ~2 semanas del sobre a la audiencia con testigos son licencia consciente de ritmo, apoyada en el "empujo para que esto se vea rápido" de Rivers en el 27; no se toca el calendario. BJ-03 sin cambio. Estado conservado.
 -->
 
-# Capítulo 28 — Bajo juramento
+# Capítulo 29 — Bajo juramento
 
 Kal había estado en tribunales antes, pero no como empresario, y eso cambiaba hasta el olor. Las salas penales olían a sudor, a desinfectante y a gente esperando que alguien decidiera cuánto de su vida todavía le pertenecía. La sala civil olía a papel: carpetas nuevas, café de máquina, el perfume caro de abogados que cobraban el tiempo que tardaban en cruzar desde el elevador.
 

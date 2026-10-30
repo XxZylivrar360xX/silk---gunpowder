@@ -1,6 +1,6 @@
 <!--
 Estado: BORRADOR (redacción del agente 2026-10-29 con `chapter-drafting`, sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Arco_Walt_Condicional]]; DISEÑO pendiente de lectura del autor).
-Capítulo nuevo (Cap. B del arco de Walt). Va después del Cap. 15 *Roma Atrii* (archivo 12) y antes de *Auster* (archivo 13). Numeración: Cap. 16 de 60 cuando el autor apruebe el borrador; hasta entonces NO se renumera (del *Auster* en adelante subirían +1). El título *Por su cuenta* es DISEÑO del agente, discutible.
+Capítulo nuevo (Cap. B del arco de Walt). Va después del Cap. 15 *Roma Atrii* (archivo 12) y antes de *Auster* (archivo 13). Numeración: Cap. 16 de 60, renumerado por orden del autor el 2026-10-29 (del *Auster* en adelante, +1); la prosa sigue en BORRADOR. El título *Por su cuenta* es DISEÑO del agente, discutible.
 Narra: Kal Mercer. Apariciones: Walt Keegan, Mabel Ortiz, Natalie Keegan, Chiara Bellandi. Sin nombre a propósito: el juez, la fiscal adjunta, el oficial de libertad condicional, el subastador, el dueño que vende, el hombre de la cadena de licorerías, el del hielo.
 Ventana temporal: abril del A2, semanas después de la parte 3 de *Roma Atrii* y antes de *Auster*; todavía no hay primer beso. Martes (audiencia), jueves (subasta), jueves por la noche (casa de Kal), viernes temprano (el bar).
 Lugares: juzgados de Calle Corona (tercer piso), El Relevo, el bar de la Avenida Almendra junto a las vías (nombre PENDIENTE: el neón tiene dos letras fundidas), la casa de Kal.

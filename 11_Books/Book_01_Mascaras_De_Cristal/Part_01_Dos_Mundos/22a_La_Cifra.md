@@ -14,7 +14,7 @@ Provisional / a revisar con el autor:
 Pasada `editorial-surgery` 2026-10-28 (3 microediciones): [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_caps25_26_robo_monarch]].
 -->
 
-# Capítulo 25 — La cifra
+# Capítulo 26 — La cifra
 
 Chiara vio el robo dos veces antes de sentarse.
 

@@ -23,7 +23,7 @@ DISEÑO del agente, pendiente de lectura:
 Sin EPUB, commit ni push.
 -->
 
-# Capítulo 59 — La tierra bajo sus botas
+# Capítulo 60 — La tierra bajo sus botas
 
 A las cinco menos diez, San Aurelio tenía otra vez todas las luces encendidas y casi nadie despierto para verlas.
 

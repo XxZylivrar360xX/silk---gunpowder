@@ -66,7 +66,7 @@ Beats en orden tentativo:
 - **Cap. 16 *Auster* y siguientes:** verificar su ventana temporal antes de fijar la fecha del Cap. B.
 - **Cap. 27 *Me encuentro bien*:** la destilería opera con licencia; el lote atrasado y «Le creo a su palabra» quedan con el nuevo cobro.
 - **Fichas que se ajustan al aprobar:** [[02_Characters/Walter_Keegan]] (sección del torneo), [[05_Locations/Destileria_de_Walt]] («le consiguió el sitio» pasa a «le consiguió la licencia»), [[02_Characters/Tommaso_Lusardi]] y una ficha nueva para el pub.
-- **Renumeración:** insertar el archivo 12b sube el libro a 60 capítulos (del 16 en adelante, +1). Se aplica cuando el autor apruebe el borrador del Cap. B, no antes.
+- **Renumeración:** insertar el archivo 12b sube el libro a 60 capítulos (del 16 en adelante, +1). Se aplica cuando el autor apruebe el borrador del Cap. B, no antes. **APLICADO 2026-10-29 por orden del autor** (el borrador sigue pendiente de lectura): [[98_Agent_Handoff/sessions/2026-10-29_claude_renumeracion_60]].
 
 ## Decisiones resueltas y lo que queda en DISEÑO
 

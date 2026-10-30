@@ -1,61 +1,52 @@
 # Current Brief
 
-Actualizado: 2026-10-29. Máximo 800 palabras. **Numeración de 59 desde 2026-10-29:** los documentos del 2026-10-28 usan la de 58 (del 31 en adelante suman +1); los anteriores, la de 57 (del 26 en adelante suman +1, y del 31, +2). Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-10-28_CURRENT_BRIEF]].
+Actualizado: 2026-10-29. Máximo 800 palabras. **Numeración de 60 desde 2026-10-29** (*Por su cuenta*, archivo 12b, es el Cap. 16); para documentos anteriores, ver la nota de numeración del [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]. «Archivo N» cita el prefijo del archivo. Brief anterior íntegro, con la lista completa de sesiones de prosa DISEÑO: [[98_Agent_Handoff/archive/2026-10-29_CURRENT_BRIEF]].
 
 ## Foco y siguiente paso
 
-1. **Libro II, *Sombras de Poder*** (diseño activo): [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 caps., DISEÑO), [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]], [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]].
-2. **Esperan respuesta del autor (Libro II):** F2, semillas Kal–Chiara, voces REL-01 y Navidad de Almendra Towing (en pausa). Lista en [[98_Agent_Handoff/PENDING]].
-3. **Esperan lectura del autor (Libro I):** auditorías, frentes 3–5 y la prosa DISEÑO de abajo. Rutas en PENDING.
-4. **Arco lector Caps. 17–19:** aplicado; espera lectura: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Propuesta_Arco_Caps_14-16_Lector]].
-5. **Robo del Monarch (PLAN 2026-10-28):** el Cap. 25 *Causalidad* se sustituyó por 22a (Cap. 25) y 22b (Cap. 26). Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]. **22a *La cifra* en BORRADOR (2026-10-28):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/22a_La_Cifra]]; sesión: [[98_Agent_Handoff/sessions/2026-10-28_claude_draft_22a_la_cifra]]. **22b *Con su proveedor* en BORRADOR (2026-10-28):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/22b_Con_Su_Proveedor]]; sesión: [[98_Agent_Handoff/sessions/2026-10-28_claude_draft_22b_con_su_proveedor]]. Renumeración a 58 aplicada y archivo 22 retirado (prosa en git, `085b3fc`): [[98_Agent_Handoff/sessions/2026-10-28_claude_renumeracion_58]]. Cirugía con base en el reporte de ChatGPT (fecha, cuenta de Nadir y Danny, barrera; CANON: Roy Boone deserta y la banda se deshace): [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_caps25_26_robo_monarch]]. Siguiente: lectura del autor. CANON nuevo: rutas de Il Consorzio en la caja de Matteo, Dario con copia, Lucía y Voss, Mei-Lin «el del billar» (Danny mintió en el 20; ella le consigue droga), Devil Splicers en Old Road Town. Detalle: [[98_Agent_Handoff/sessions/2026-10-28_claude_plan_robo_monarch]].
-6. **Arco de Walt (PLAN 2026-10-29):** el Cap. 14 *El farol* se rediseña y se añade un Cap. B (archivo 12b, narra Kal; al aprobarse, el libro pasa a 60 caps.). CANON: Chiara saca la licencia, torneo secreto por la condicional, terminación anticipada, pub en subasta con licencia de Walt, Nat ofrece el dinero y él se niega, Mabel declara en la audiencia. Tommaso ata los cabos y no cobra (CANON). Cap. B *Por su cuenta* en BORRADOR (archivo 12b; sin renumerar hasta que lo apruebe el autor): [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/12b_Por_Su_Cuenta]]. *El farol* reescrito (BORRADOR). Cirugía con base en el reporte de ChatGPT (premisa corregida: Oregon, no California; juez = licencia consciente; el bar abre con la licencia; suministro directo = ficción del mundo): [[98_Agent_Handoff/sessions/2026-10-29_claude_surgery_farol_por_su_cuenta]]. Siguiente: lectura del autor de los dos. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Arco_Walt_Condicional]].
+1. **Libro I, lectura del autor** de los borradores y la prosa DISEÑO de abajo. Rutas en [[98_Agent_Handoff/PENDING]].
+2. **Libro II, *Sombras de Poder*** (diseño activo; prosa bloqueada hasta cerrar el I): [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 caps., DISEÑO), [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]], [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]]. Esperan respuesta del autor: F2, semillas Kal–Chiara, voces REL-01, Navidad de Almendra Towing (en pausa).
+
+## Borradores recientes que esperan lectura (Libro I)
+
+- **Arco de Walt** (plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Arco_Walt_Condicional]]): Cap. 14 *El farol* (archivo 11) reescrito y Cap. 16 *Por su cuenta* (archivo 12b, narra Kal), ambos BORRADOR. CANON (detalle en el plan): licencia de Chiara, torneo secreto, terminación anticipada de la condicional, pub en subasta; Tommaso no cobra. Cirugía: [[98_Agent_Handoff/sessions/2026-10-29_claude_surgery_farol_por_su_cuenta]]. Renumeración a 60: [[98_Agent_Handoff/sessions/2026-10-29_claude_renumeracion_60]].
+- **Robo del Monarch** (plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]): Caps. 26 *La cifra* (22a) y 27 *Con su proveedor* (22b), BORRADOR; sustituyen a *Causalidad* (prosa en git, `085b3fc`). Cirugía: [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_caps25_26_robo_monarch]]. CANON: Roy Boone deserta y la banda se deshace; rutas de Il Consorzio en la caja de Matteo, Dario con copia; Lucía y Voss; Mei-Lin «el del billar» (Danny mintió; ella le consigue droga); Devil Splicers en Old Road Town.
+- **Caps. 31 *Oveja entre lobos* (24c) y 32 *Vienes conmigo* (24d)**, CANON, prosa DISEÑO: rescate, robo fingido, comisaría; Lucía cita la denuncia en el archivo 32. [[98_Agent_Handoff/sessions/2026-10-29_claude_cap30_oveja_entre_lobos]]
+- **Arco lector (archivos 14–16):** aplicado: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Propuesta_Arco_Caps_14-16_Lector]].
+- **Prosa DISEÑO acumulada:** regla de diálogo 05 (01–04 aprobados; del 05 en adelante, `sessions/2026-10-2*_claude_regla05_*`); cirugías con base en lecturas de ChatGPT, archivos 09–24b (`sessions/2026-10-27_*` y `2026-10-28_*`); Blake, Collins y el levantón (05a–10); Vento (fin del 31 y 33b, [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]]); siembras de Rocco ([[02_Characters/Rocco]]).
 
 ## Estado del manuscrito (Libro I, *Máscaras de Cristal*)
 
-- **Cap. 30 *Oveja entre lobos* / Cap. 31 *Vienes conmigo* (2026-10-29, CANON; prosa DISEÑO):** rescate con ambulancia, robo fingido, comisaría (Voss, Blake, Collins); Lucía cita la denuncia en el 39; corte del 24c en 24c + 24d. [[98_Agent_Handoff/sessions/2026-10-29_claude_cap30_oveja_entre_lobos]]
-- **Caps. 1–59 en prosa**, numeración y títulos definitivos 2026-10-22; el 2026-10-23 la persecución se separó del 10 como Cap. 11 *La teniente* (archivo 08b); el 2026-10-28 el robo del Monarch (22a y 22b, Caps. 25–26) sustituyó a *Causalidad*. Tabla: [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]. Parte I 1–31 (archivos 01–25), Parte II 32–41 (26–34, con 33b), Parte III 42–58 (35–50b). "—Ciao, bella." cierra el 57; el 58 (Halbrook) cierra el libro ([[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]). Estados: [[12_Craft_Policies/CHAPTER_STATUS]]. Leído no es sellado.
+- **Caps. 1–60 en prosa.** Partes: 1–33, 34–43, 44–60. «—Ciao, bella.» cierra el 59; el 60 (Halbrook) cierra el libro ([[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]). Tabla: [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]. Estados: [[12_Craft_Policies/CHAPTER_STATUS]]. Leído no es sellado.
 - **Calendario (CANON):** sep A1 → 5 ene A3; la Mesa, 13 dic; Kal preso 19 dic–5 ene.
 - **San Aurelio (CANON):** Oregon, inspirada en Portland, bahía ficticia; vía costera 101. Mapa: [[99_Reference/location_references/mapa_san_aurelio.png]].
-- **Mando policial (CANON):** sin jefe en el I; Lucía, subjefa en funciones. II: Lucía jefa interina, Collins capitana (subjefa al cierre), Clark nombrada al cierre. III: Lucía y Collins subjefas bajo Clark; Lucía jefa al renunciar Clark.
-- **Exportación:** EPUB y PDF regenerados 2026-10-23; falta portada HD para KDP. Audiolibro: [[tools/audiolibro/README]]; audios viejos en [[tools/audiolibro/bitacora/Mascaras_De_Cristal]]. El autor corre `--estado` y regenera en su máquina; tras la renumeración, del 25 al 58 quedan SIN AUDIO (cambió el número hablado).
-
-**Prosa DISEÑO reciente, espera lectura** (detalle en encabezados y `sessions/`):
-
-- **Regla de diálogo 05** ([[12_Craft_Policies/dialogue_rules/05-esticomitia-de-una-sola-voz]]): cortes de eco/remate, turnos perdidos, líneas canon intactas. Caps. 1–4 aprobados por el autor ([[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps01-04]]); 5–7 ([[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]]); 12–56, una sesión por capítulo, `sessions/2026-10-26_claude_regla05_*` y `sessions/2026-10-28_claude_regla05_*` (último: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_a_oscuras_cap56]]). Cap. 58 (entonces 57) revisado sin cambios: su único diálogo es «—General.».
-- **Cap. 17, escena "Las notas" (2026-10-27):** Kal como padre: regaña a Marisol por reprobar y mentirle, y le dice "Todo va a estar bien"; remate nuevo por orgullo de La Almendra ("tipos como yo"), en lugar de Química (AUT-01 de ChatGPT) ([[98_Agent_Handoff/sessions/2026-10-27_claude_cap17_escena_las_notas]]).
-- **Caps. 12–13 (archivos 09–10):** además, levantón del Tasador (Sam amenazada; cobro en el II: [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Cobro_Del_Levanton]]) y Blake en el lobby del Monarch (siembra «la grúa la manejaba él» para el 38); Chiara no se lo cuenta a Kal.
-- **Caps. 12–16:** cirugía (notas ChatGPT): `sessions/2026-10-27_claude_surgery_cap1*`; el 15, en su encabezado; el 16 (Corrado y nexos del caso Peugeot): [[98_Agent_Handoff/sessions/2026-10-27_claude_auster_causalidad_corrado]]; el 18 (llaves fuera, parte médico, Chiara nombra primero a Héctor): [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap18_yo_lo_llevo]]; el 19 (AUT-01: Calle Corona en *Cuatro letras*, «¿Quién escogió la Almendra?»): [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap19_sobre_rojo]]; el 20 (AUT-01: eco de Marisol en «Avísenme»; CANON: la Ronda recuperó los ocho bultos): [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap20_le_quede_debiendo]]; el 21 (grieta «Hasta que una noche yo…», fuera la frase absoluta del motor, letrero del Monarch al anochecer): [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap21_el_dia_nublado]]; el 22 (Rivers y el fiscal general del estado; «Varias semanas después»; el notario sella): [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap22_lo_que_nadie_estaba_mirando]]; el 23 (drift como derrape; Kal deja la rosa; puente al 24 aplicado: calcetín y sostén, lunares de Chiara, «camioneta» → Audi): [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap23_lo_pequeno]]; el 24 (CANON: lunares de Chiara desde los omóplatos por el centro de la espalda; bofetada; club en el sur de La Isla): [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap24_el_primer_huesped]]; el 27 (solo cabeceras del 27 y 28; NC-02 y NC-03 sin cambio): [[98_Agent_Handoff/sessions/2026-10-28_claude_cabecera_cap27_nada_caro]]; el 28 (BJ-01: Chiara declara antes que el caso de Hoover; BJ-02: las ~2 semanas son licencia consciente): [[98_Agent_Handoff/sessions/2026-10-28_claude_cap28_bajo_juramento_orden_procesal]]; el 29 (LC-04 cabecera; LC-01 Kal aún en los escalones cuando ella sigue hablando; LC-02 una imagen menos en Nadir): [[98_Agent_Handoff/sessions/2026-10-28_claude_cap29_lo_que_cueste_cabecera]].
-- **Caps. 2, 4–11:** llamada Kal–Nadir (2); 5–7 con arco de Blake (5 leído) ([[98_Agent_Handoff/sessions/2026-10-22_claude_cap05_segmentado_arco_blake]]); H3 en el 9; [[02_Characters/Dana_Collins]] (CANON) en el 11.
-- **Cap. 4, encuentro con Blake (2026-10-24):** cortejo de Keene, velorio en El Relevo; Collins castaño cobrizo (CANON); Blake suelta quién manda (paga en el 5a) ([[98_Agent_Handoff/sessions/2026-10-24_claude_cap04_cortejo_keene_blake]]).
-- **CANON (ChatGPT, caps. 1–11):** Chiara llega en jet desde Palermo (hangar de Kingsley); en el 47 entra por Nueva York.
-- **Fabrizio:** última plática en el Cap. 55. CANON: la coerción de Volpi pasa a Tommaso. Falta su lugar en la Parte II y qué iba a contar.
-- **Vento (CANON):** siembra al final del 38; muere en el Cap. 39 *La mano* (archivo 33b): [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]].
-- **Rocco (CANON):** siembras en 1, 26, 35, 37 y 52 para el momento "John Wick" del II: [[02_Characters/Rocco]].
+- **Mando policial (CANON):** sin jefe en el I; Lucía, subjefa en funciones. Libros II–III: [[02_Characters/Lucia_Varek]].
+- **Exportación:** EPUB y PDF regenerados 2026-10-23; falta portada HD para KDP. Audiolibro ([[tools/audiolibro/README]]): tras la renumeración a 60, del 16 al 60 quedan SIN AUDIO; el autor regenera en su máquina.
+- **Fabrizio:** última plática en el archivo 49. CANON: la coerción de Volpi pasa a Tommaso.
+- **CANON (ChatGPT, archivos 01–08b):** Chiara llega en jet desde Palermo (hangar de Kingsley); en el archivo 41 entra por Nueva York. Lunares de Chiara desde los omóplatos por el centro de la espalda.
 
 ## Libro II: canon vigente (resumen)
 
 Detalle: [[98_Agent_Handoff/DECISIONS]].
 
 - **Arco:** 5 ene A3 → invierno A4, cuatro Partes. Cap. 1 «Hogar» (BORRADOR) cierra en «Fabrizio está muerto». Incendio ago A3; Stavanger ~25 oct A4; H1 ~6–8 dic A4; cierra con el reveal del embarazo en Villa Candelaria.
-- **Trama:** Volpi mata a Fabrizio; Tommaso se retira tras los frenos. Mei-Lin, triple agente. Boda de Mabel y Walt abre la IV.
+- **Trama:** Volpi mata a Fabrizio; Tommaso se retira tras los frenos. Mei-Lin, triple agente. Boda de Mabel y Walt abre la IV. Cobro del levantón: [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Cobro_Del_Levanton]].
 - **F2:** Bonnie cubre a Mei-Lin sin saber qué cubre, confiesa y vive porque Chiara la quiere; exilio en Italia; regresa ~un año antes del epílogo.
 - **Halbrook:** Harper lo mata y cierra *Voto de Ceniza*.
 
 ## Canon menor vigente
 
 - La mano por la cara es gesto sólo de Kal; Chiara juega con joyas o uñas; "dos dedos" es de Walt.
-- Tommaso llama a Chiara "Bellandi". Rowe le debe un favor a Chiara (Cap. 12). Kal absorbe Eagle Eye en el II (Charles).
-- Chiara, socia minoritaria de la destilería; 1.80 m. Harper creció en un rancho. Garrett pilotó en el ejército. Penalista de Chiara: Krane, desde el 50.
+- Tommaso llama a Chiara "Bellandi". Rowe le debe un favor a Chiara (archivo 09). Kal absorbe Eagle Eye en el II (Charles).
+- Chiara, socia minoritaria de la destilería; 1.80 m. Harper creció en un rancho. Garrett pilotó en el ejército. Penalista de Chiara: Krane. Collins, castaño cobrizo.
 - La Almendra toma su nombre de su meseta.
 
 ## Fuentes y restricciones
 
-- Fronteras: [[00_Biblia/00_Trilogy_Structure]]. Caps. 41–49: [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
+- Fronteras: [[00_Biblia/00_Trilogy_Structure]]. Cierre de la Parte III: [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
 - CANON DEL AUTOR es intocable; DISEÑO y PENDIENTE conservan su categoría. Ningún libro está SELLADO.
 - Liberación de Kal: la revelación se reserva para *Voto de Ceniza*; Kal sólo sabe luces, bolsa de tela y loft.
-- *Sombras de Poder*: prosa bloqueada hasta cerrar el I; H22 con bloqueo propio.
-- Geografía y anclaje espacial no se podan.
+- H22 con bloqueo propio. Geografía y anclaje espacial no se podan.
 - Registro: español neutro; Rafe y Mabel, barrio de California; Dana Collins, voseo suave. Glosario: [[12_Craft_Policies/voice/00_Registro_Espanol_Neutro]].
 - Ortotipografía: pregunta de tono plano sin signos y con punto ("Qué viste."); nunca "¿" suelto.
 
