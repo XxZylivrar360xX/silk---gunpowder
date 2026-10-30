@@ -11,7 +11,7 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Quien ya lo sabe:** al principio nadie; despues, La Almendra como comunidad.
 - **Quien NO debe saberlo/insinuarlo todavia:** Dario, socios del Monarch, policia, prensa y Varek hasta que exista escena concreta de sospecha.
 - **ACTUALIZADO (2026-10-06, cascada del arco final; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]], § 5 de E3):** el arco 44–50b ya contiene esas escenas concretas, así que la línea de arriba vale sólo para la prosa anterior al 44. **Dario** lo ve en el 47: Chiara paga por Kal con una deuda personal, y él contesta "A él no". **Lucía** lo registra en el 44 y el 47 (H20: lo suyo excede los negocios). **Los Bravos** (48) y **Valenti/Il Consorzio** (49) saben que Chiara se mueve por Kal. **Halbrook** tiene fotos de los dos (50b). Siguen sin saberlo, o sin decirlo: los socios del Monarch, la policía como institución y la prensa. Nadie la **nombra** en voz alta todavía: la regla de líneas prohibidas sigue vigente.
-- **Primera grieta permitida (decision del autor 2026-09-09):** el testimonio de Chiara en el litigio civil del concesionario, [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24_Bajo_Juramento|Cap. 24]]. En contrainterrogatorio queda en **registro semipúblico** que ve a Kal "con frecuencia", que la relación es "cercana" y que tiene "razones personales" para quererlo ver ganar; más el titubeo "mi... amigo". Es siembra deliberada: ese expediente es un rastro que Varek, Tommaso o un tercero pueden recoger después. El beat "mi... amigo" NO se corta.
+- **Primera grieta permitida (decision del autor 2026-09-09):** el testimonio de Chiara en el litigio civil del concesionario, [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24_Bajo_Juramento|Cap. 24]]. En contrainterrogatorio queda en **registro semipúblico** que ve a Kal "con frecuencia", que la relación es "cercana" y que tiene "razones personales" para quererlo ver ganar; más el titubeo "mi... amigo". Es siembra deliberada: ese expediente es un rastro que Varek, Tommaso o un tercero pueden recoger después. El beat "mi... amigo" NO se corta.
 - **Lineas o gestos prohibidos:** terceros nombrando la relacion antes de que la union invisible este sembrada como costumbre social; que alguien **complete** la sospecha del Cap. 24 en voz alta antes de la escena que el autor decida para eso.
 - **Estado:** primera grieta colocada en prosa (Cap. 24); pago pendiente.
 
@@ -136,7 +136,7 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 
 ## El pedido de Nadir y la escalera del loft
 
-- **Que es:** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24b_Lo_Que_Cueste]] Nadir le pide a Chiara, de frente y a espaldas de Kal, que se aleje de el (CANON DEL AUTOR 2026-10-01). Esa misma noche Chiara usa la excusa de la escalera ("si un dia me llega el agua al cuello, agarro mis cosas y me voy") sin mencionar a Nadir.
+- **Que es:** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24b_Lo_Que_Cueste]] Nadir le pide a Chiara, de frente y a espaldas de Kal, que se aleje de el (CANON DEL AUTOR 2026-10-01). Esa misma noche Chiara usa la excusa de la escalera ("si un dia me llega el agua al cuello, agarro mis cosas y me voy") sin mencionar a Nadir.
 - **Quien lo sabe:** Nadir, Chiara y el lector. **Kal no.**
 - **La frase partida (CANON DEL AUTOR):** Kal, subiendo la escalera, solo oye la primera mitad ("…agarro mis cosas y me voy"). La segunda ("Lo que no se es si contigo podria", redaccion DISENO) no se transcribe en el 24-bis: la frase completa significa lo contrario.
 - **Pagos en el Libro I:** Cap. 28 — Kal le recuerda la frase; Chiara le dice que escucho la mitad y le da la segunda. Lo que sigue callando es por que la dijo (Nadir).
@@ -222,4 +222,4 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Quién lo sabe:** el lector ve los cuatro gestos; nadie en escena ve más de uno.
 - **Quién NO debe saberlo todavía:** Kal (la mentira de Danny, la valet), Chiara (qué encontró Tommaso), Dario (la valet).
 - **Pago:** la mentira de Danny es candidata para F2 (PENDIENTE); la línea Tommaso → Mei-Lin corre hasta el 48 y el II; Lucía, embrión de la relación de «informante» (PENDIENTE en su ficha); la valet tiene nombre en el Cap. 43 («Kal no había preguntado más» se lee doble).
-- **Estado:** sembrado, sin pagar. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]].
+- **Estado:** sembrado, sin pagar. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]].

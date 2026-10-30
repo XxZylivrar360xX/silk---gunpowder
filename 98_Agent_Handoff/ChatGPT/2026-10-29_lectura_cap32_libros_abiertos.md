@@ -5,7 +5,7 @@
 > **Para:** Autor y Claude Code — maintainer  
 > **Estado:** INFORME DE LECTURA / propuestas **DISEÑO**, sin autorización implícita para editar.  
 > **Fuente canónica:** GitHub `XxZylivrar360xX/silk---gunpowder`, rama `develop`, HEAD `1659fb72cc82984428db1d887bb080bbe3c82da2`.  
-> **Manuscrito:** `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos.md`, título visible **Capítulo 32**, blob `057fe71ee93a6d2f100fa40e0cc32488447b1766` (432 líneas).  
+> **Manuscrito:** `11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos.md`, título visible **Capítulo 32**, blob `057fe71ee93a6d2f100fa40e0cc32488447b1766` (432 líneas).  
 > **Estado en repositorio:** BORRADOR. No confundir el nombre histórico `25_` con la numeración vigente 32.
 
 ## Objetivo
@@ -14,13 +14,13 @@ Evaluar el capítulo 32 como cierre emocional de la Parte I y continuación de l
 
 ## Archivos de consulta — `develop`
 
-- `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos]]` — Capítulo 32, centro de este informe.
+- `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos]]` — Capítulo 32, centro de este informe.
 - `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/18_El_Dia_Nublado]]` — Capítulo 21, línea 28 («dos cervezas para Michael»).
 - `[[02_Characters/Marta_Bellandi]]` — «La última historia» (edad de Chiara 14–15) y muerte materna (Chiara 19).
 - `[[02_Characters/Chiara_Bellandi]]` — biografía y última historia de Marta.
 - `[[02_Characters/Michael_Grayson]]` — regla de **evitar su tumba hasta después del duelo**, y visita futura con Chiara.
 - `[[02_Characters/Jim_Keegan]]` y `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias]]` — la promesa a Jim, reservada ante Walt y Chiara.
-- `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24d_Vienes_Conmigo]]` — Capítulo 31, la petición del Lancia y el antecedente del traumatismo.
+- `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24d_Vienes_Conmigo]]` — Capítulo 31, la petición del Lancia y el antecedente del traumatismo.
 - `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/26_Me_Encuentro_Bien]]` — Capítulo 33, resonancia inmediata de la noche.
 
 ## Diagnóstico

@@ -44,7 +44,7 @@ En *Sombras de Poder* (Libro II) Chiara tendrá un **gato negro**, y Rocco y el 
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05c_La_Pizza_De_Calabaza|Cap. 5c]]: primera descripcion; Kal le ensena la pata para la cita; lo lleva a Il Gelsomino; en la acera, Rocco se va con Chiara.
 - Cap. 6: Danny se presenta como "el del perro".
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_La_Balanza|Cap. 9]]: el cuento de Connors y el zapato ("ya era un rottweiler"); a los pies de Danny en la casa comun.
-- [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/23_La_Letra_Pequena|Cap. 23]] (siembra, DISEÑO): custodia a Garrett y las carpetas sobre la manta de Russ; Danny: "te desgarra el cuello".
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/23_La_Letra_Pequena|Cap. 23]] (siembra, DISEÑO): custodia a Garrett y las carpetas sobre la manta de Russ; Danny: "te desgarra el cuello".
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/30_Media_Baraja|Cap. 30]] (siembra, DISEÑO): come del rin de Walt en la coda de El Patio.
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/31_Vamos_A_Casa|Cap. 31]]: en el lago, Danny lo detiene para que no se meta al agua.
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Cap. 32]] (siembra, DISEÑO): Nadir le avienta la llave Allen; se la devuelve y Nadir no la recoge.

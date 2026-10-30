@@ -1,6 +1,6 @@
 # El parador del norte — diálogo de calibración (H12)
 
-> **Estado:** material del autor (2026-10-04). **INTEGRADO** el mismo día en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24c_El_Corral]] (BORRADOR). La prosa manda; este archivo queda como fuente de calibración. "TNT" pasó a **Eagle Eye Security** por decisión del autor. El supervisor "César" de la transcripción se llama **Charles** (CANON DEL AUTOR, 2026-10-04); la transcripción en bruto conserva el nombre original.
+> **Estado:** material del autor (2026-10-04). **INTEGRADO** el mismo día en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24c_El_Corral]] (BORRADOR). La prosa manda; este archivo queda como fuente de calibración. "TNT" pasó a **Eagle Eye Security** por decisión del autor. El supervisor "César" de la transcripción se llama **Charles** (CANON DEL AUTOR, 2026-10-04); la transcripción en bruto conserva el nombre original.
 >
 > **Ubicación:** *Máscaras de Cristal*, Cap. 24c, H12 ([[06_Relationships/Hitos#H12 — El atentado / El corral]]): el parador de autopista al norte, después del alta. El bloque IX (plan de salida) va antes, al final del alta en el hospital.
 >

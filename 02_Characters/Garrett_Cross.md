@@ -91,4 +91,4 @@ Con ayuda de Chiara, usa el casino como una zona de niebla narrativa: apuestas, 
 
 > **PENDIENTE:** cómo conoce Kal a Garrett: abogado recomendado, contador comprado, deuda antigua, favor de Chiara o pieza heredada de Varek.
 
-> **PENDIENTE:** cuál es la primera vez que Garrett le dice "no" a Kal y Kal lo obedece. *(2026-09-09, catchup manual: en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24_Bajo_Juramento|Capítulo 24]] Garrett le dice "No" cuando Kal mira un Lancia para Chiara recién salido del litigio del concesionario; Kal no compra ese día, pero ya piensa volver en dos semanas — obediencia parcial, no la resolución definitiva de este pendiente.)*
+> **PENDIENTE:** cuál es la primera vez que Garrett le dice "no" a Kal y Kal lo obedece. *(2026-09-09, catchup manual: en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24_Bajo_Juramento|Capítulo 24]] Garrett le dice "No" cuando Kal mira un Lancia para Chiara recién salido del litigio del concesionario; Kal no compra ese día, pero ya piensa volver en dos semanas — obediencia parcial, no la resolución definitiva de este pendiente.)*

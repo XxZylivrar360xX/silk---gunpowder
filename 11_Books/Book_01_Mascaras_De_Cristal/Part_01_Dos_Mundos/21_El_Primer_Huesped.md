@@ -1,4 +1,5 @@
 <!--
+Corte de parte 2026-10-29 (decisión del autor): el Cap. 25 cierra la Parte I (*Dos mundos*); «—Volvemos adentro» es su última línea. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 21; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 a «Volvemos adentro» y revertido 2026-10-22 (decisión del autor): se conserva «El primer huésped», decidido en la primera ronda (2026-09-20).
 Protagonistas: Kal Mercer, Chiara Bellandi, Marisol Grayson.

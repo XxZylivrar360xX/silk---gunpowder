@@ -13,8 +13,8 @@ Cerrar tres pendientes de continuidad detectados después de la **opción A ya e
 
 ## Archivos relacionados (rutas de `develop`)
 
-- `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24c_El_Corral.md` — **Capítulo 30**, título visible **«Oveja entre lobos»**, blob `62f4fef005766df23b4688c0f2bcd6e39258e69c`.
-- `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24d_Vienes_Conmigo.md` — **Capítulo 31**, blob `ea4222f99ca95d3c635ffe54e1dbeb930823ebbc`.
+- `11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24c_El_Corral.md` — **Capítulo 30**, título visible **«Oveja entre lobos»**, blob `62f4fef005766df23b4688c0f2bcd6e39258e69c`.
+- `11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24d_Vienes_Conmigo.md` — **Capítulo 31**, blob `ea4222f99ca95d3c635ffe54e1dbeb930823ebbc`.
 - `11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves.md` — **Capítulo 46 «Al revés»** en la numeración vigente; blob `e3e640219623f06726f3ec50df07d1411f6629d2`.
 - `11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa.md` — **Capítulo 39 «Línea directa»**, ya integra la denuncia de Voss y la reacción de Lucía.
 - `11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map.md` — 59 capítulos tras la división.

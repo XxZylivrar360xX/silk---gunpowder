@@ -1,8 +1,8 @@
 # 2026-10-28 — Claude Code — Prosa del 22a *La cifra*
 
-**Encargo:** redactar el 22a según [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]] (skill `chapter-drafting`).
+**Encargo:** redactar el 22a según [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]] (skill `chapter-drafting`).
 
-**Resultado:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/22a_La_Cifra]], BORRADOR, ~3,900 palabras. Encabezado provisional «Capítulo 25 — La cifra» (convive con el 25 viejo hasta la renumeración a 58).
+**Resultado:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/22a_La_Cifra]], BORRADOR, ~3,900 palabras. Encabezado provisional «Capítulo 25 — La cifra» (convive con el 25 viejo hasta la renumeración a 58).
 
 ## Escenas
 

@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-29: [[98_Agent_Handoff/sessions/2026-10-29_claude_corte_parte_I]] · Corte de partes movido (autor, informe ChatGPT OP-06): Parte I = Caps. 1–25, cierra en *El primer huésped*; Parte II = 26–43, abre con *La cifra*. Archivos 22a–25 movidos a `Part_02`; sin cambios de prosa ni numeración.
 - 2026-10-29: [[98_Agent_Handoff/sessions/2026-10-29_claude_compactacion_relevo]] · Bitácoras compactadas: log a 30 enlaces, brief y PENDING bajo 800 palabras; decisiones de fondo a BACKLOG; copias íntegras en archive/.
 - 2026-10-29: [[98_Agent_Handoff/sessions/2026-10-29_claude_renumeracion_60]] · Libro I renumerado a 60 caps. por orden del autor: *Por su cuenta* (12b) = Cap. 16; antiguos 16–59 → 17–60. La prosa del 12b sigue en BORRADOR.
 - 2026-10-29: [[98_Agent_Handoff/sessions/2026-10-29_claude_surgery_farol_por_su_cuenta]] · Cirugía de *El farol* y *Por su cuenta* (reporte ChatGPT). Decisiones del autor: audiencia con juez = licencia consciente (Oregon); el bar abre cuando llega la licencia; suministro destilería→Monarch = ficción del mundo. Siguen en BORRADOR.
@@ -33,7 +34,6 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_nada_cap48]] · Cap. 48: regla 05 en *Nada* (llamada sin interrogatorio; «Lo sé» de seis a uno en F1; ecos y remate doble de Kal fuera; canon intacto). DISEÑO.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_otra_mitad_cap47]] · Cap. 47: regla 05 en *La otra mitad* (entrevista de Bonnie aflojada: fuera «¿Qué cosas?» y el cierre «Encontrarla» / «Bien»; canon intacto). DISEÑO.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_mecanico_cap46]] · Cap. 46: regla 05 en *Mecánico* (4 ecos cortados: sábanas, la Mesa, el patio y el «¿Cuándo?»; canon intacto). DISEÑO.
-- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_cuatro_letras_cap43]] · Cap. 43: regla 05 en *Cuatro letras* (se rompe la máquina común «No es…» / «Entonces…» del gag de «Roma»; carta, Héctor y cocaína intactos). DISEÑO.
 
 ## Historial
 

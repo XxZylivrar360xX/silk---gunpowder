@@ -2,7 +2,7 @@
 
 **Modo:** AUDIT (skill `editorial-surgery`). **No se tocó prosa.**
 **Fecha:** 2026-09-26. **Encargo:** Prioridad A del [[13_Auditorias/Book_01_Mascaras_De_Cristal/Auditoria_Editorial_Part_01|dictamen de Parte I]] + adenda C (sin siembras nuevas; decidir la línea de Dario).
-**Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos]] (~3,000 palabras de prosa). Líneas citadas según el archivo al 2026-09-26.
+**Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos]] (~3,000 palabras de prosa). Líneas citadas según el archivo al 2026-09-26.
 
 ---
 

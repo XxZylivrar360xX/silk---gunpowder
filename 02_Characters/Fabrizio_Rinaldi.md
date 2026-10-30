@@ -23,7 +23,7 @@
 
 ---
 
-> **CANON DEL AUTOR (2026-10-28):** falta a la junta de socios del robo del Monarch (Cap. 25, [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/22a_La_Cifra]]) porque está con Paola y la niña; no es alejamiento. DISEÑO: llamó a Chiara dos veces antes de las siete.
+> **CANON DEL AUTOR (2026-10-28):** falta a la junta de socios del robo del Monarch (Cap. 25, [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/22a_La_Cifra]]) porque está con Paola y la niña; no es alejamiento. DISEÑO: llamó a Chiara dos veces antes de las siete.
 
 ## Quien es
 

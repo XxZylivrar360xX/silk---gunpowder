@@ -1,6 +1,6 @@
 # 2026-10-28 — Cap. 26 (archivo 23): regla 05 en *Nada caro*
 
-**Agente:** Claude Code (principal). **Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/23_La_Letra_Pequena]].
+**Agente:** Claude Code (principal). **Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/23_La_Letra_Pequena]].
 **Origen:** el autor pide la regla [[12_Craft_Policies/dialogue_rules/05-esticomitia-de-una-sola-voz]] en el Cap. 26, sin regenerar el audiolibro. El capítulo es TERMINADO; el estado se conserva y la prosa nueva es DISEÑO, espera lectura. Ya traía microcirugía K/C en el loft, así que quedaba poco.
 
 ## Cambios

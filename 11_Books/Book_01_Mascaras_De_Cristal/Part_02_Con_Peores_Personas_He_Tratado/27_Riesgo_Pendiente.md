@@ -1,4 +1,5 @@
 <!--
+Corte de parte 2026-10-29 (decisión del autor): la Parte II abre ahora en el Cap. 26 (*La cifra*); el ordinal «N-ésimo capítulo de la Parte II» de abajo es anterior a ese corte.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 27; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «Riesgo pendiente».
 Estado: BORRADOR — segundo capítulo de la Parte II (*Con peores personas he tratado*). Pendiente de revisión del autor. Cirugía editorial E5 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): cronología fija de ~24 h, POV y glosas; sigue BORRADOR.

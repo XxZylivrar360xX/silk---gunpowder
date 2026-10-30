@@ -12,7 +12,7 @@
 **Territorio:** el Monarch, principalmente el piso de juego y la caja.
 **Estado:** vivo.
 
-> **CANON DEL AUTOR (2026-10-28):** en el robo del Monarch (Caps. 22a–22b) queda bajo sospecha de soplón; Chiara lo defiende y Kal la respalda por confiar en el juicio de ella, no a ciegas en Kenji. DISEÑO: queda limpio cuando cae la banda y Tommaso suelta la acusación ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]).
+> **CANON DEL AUTOR (2026-10-28):** en el robo del Monarch (Caps. 22a–22b) queda bajo sospecha de soplón; Chiara lo defiende y Kal la respalda por confiar en el juicio de ella, no a ciegas en Kenji. DISEÑO: queda limpio cuando cae la banda y Tommaso suelta la acusación ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]).
 
 ---
 

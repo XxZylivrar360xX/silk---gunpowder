@@ -4,7 +4,7 @@
 **De:** ChatGPT → Claude Code, buzón `98_Agent_Handoff/ChatGPT/`  
 **Autorización del autor:** «Prepara el reporte con las dos alternativas con y sin Lucia Varek, yo lo estudio con Claude Code».  
 **Estado:** **DISEÑO COMPARATIVO / PENDIENTE DE DECISIÓN DEL AUTOR. NO ES CANON NI AUTORIZACIÓN PARA MODIFICAR PROSA.**  
-**Fuente de verdad:** GitHub `XxZylivrar360xX/silk---gunpowder`, rama `develop`. Capítulo 30 en `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24c_El_Corral.md`, blob comprobado `cd8e91725d0c0f1df52d5eb0f2964b40ec75ed78`.
+**Fuente de verdad:** GitHub `XxZylivrar360xX/silk---gunpowder`, rama `develop`. Capítulo 30 en `11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24c_El_Corral.md`, blob comprobado `cd8e91725d0c0f1df52d5eb0f2964b40ec75ed78`.
 
 ## Objetivo
 
@@ -17,11 +17,11 @@ Ninguna de las dos alternativas ha sido elegida por el autor. **No combinar amba
 
 ## Anclas de lectura y canon comprobadas
 
-- `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24c_El_Corral]]`: L116–138, Kal encuentra a Chiara inconsciente junto al portón del corral; constata respiración y pulso, comprende el riesgo de moverle el cuello, pero la carga en el Audi y conduce al Santa Aurelia. L142–156: conmoción + hematoma intracraneal **pequeño, estable y en observación**, sin cirugía; Beatrice Varek la atiende. L150–152: Kal ya retiró cartera y reloj del bolso y empieza a construir una versión aparente de asalto; teléfono ausente. L182–238: Dario sospecha de Kal, ambos sacan armas, acuerdan tregua e intercambian una versión parcial. L298–356: Chiara y Kal improvisan la coartada frente a Dario; L360 en adelante, Audi disponible en el hospital. Los diálogos del parador y el retorno al loft quedan después.
+- `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24c_El_Corral]]`: L116–138, Kal encuentra a Chiara inconsciente junto al portón del corral; constata respiración y pulso, comprende el riesgo de moverle el cuello, pero la carga en el Audi y conduce al Santa Aurelia. L142–156: conmoción + hematoma intracraneal **pequeño, estable y en observación**, sin cirugía; Beatrice Varek la atiende. L150–152: Kal ya retiró cartera y reloj del bolso y empieza a construir una versión aparente de asalto; teléfono ausente. L182–238: Dario sospecha de Kal, ambos sacan armas, acuerdan tregua e intercambian una versión parcial. L298–356: Chiara y Kal improvisan la coartada frente a Dario; L360 en adelante, Audi disponible en el hospital. Los diálogos del parador y el retorno al loft quedan después.
 - `[[02_Characters/Lucia_Varek]]`: **Lucía es subjefa de Policía de San Aurelio y, en este momento del Libro I, lleva el Departamento en funciones**; hija mayor de Dario; ética estricta, independiente de su padre. Ya conoce a Kal por su interrogatorio del Peugeot (`[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/13_Auster]]`) y a Chiara por la visita al hospital de Héctor (`[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/15_El_Porton]]`). Su vínculo futuro con Kal como informante está **en incubación, no consumado**.
 - `[[12_Craft_Policies/voice/Lucia_Varek]]`: voz **directa y procedimental**; usa *usted*, hechos, reportes y verificaciones. No promete encubrir ni protege automáticamente a Kal; no lleva el apellido como insignia de su padre.
 - `[[02_Characters/Beatrice_Varek]]`: **Beatrice «Trix» es la neurocirujana**, segunda hija de Dario; sigue siendo quien examina a Chiara y decide observar el hematoma, sin operar. **No confundir las profesiones ni adelantar conocimientos de Beatrice sobre la criminalidad de su padre.**
-- `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24b_Lo_Que_Cueste]]`: Kal aún arrastra la herida por la frase incompleta de la escalera. `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos]]`: preservar que Kal y Chiara hablan después de la tregua, el parador y el Lancia.
+- `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24b_Lo_Que_Cueste]]`: Kal aún arrastra la herida por la frase incompleta de la escalera. `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos]]`: preservar que Kal y Chiara hablan después de la tregua, el parador y el Lancia.
 
 ### Precisión clínica común a ambas rutas
 

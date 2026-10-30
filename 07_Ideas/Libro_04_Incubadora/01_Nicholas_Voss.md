@@ -6,7 +6,7 @@
 
 > **CANON DEL AUTOR (2026-10-18):** de joven, en *Sombras de Poder* (Libro II), Nicholas conduce la SPV de la VED (Corvette C8 Stingray) bajo [[02_Characters/Dana_Collins]], sin mucho protagonismo. Ver [[03_Factions/Departamento_de_Policia_de_San_Aurelio]], "Tránsito y carreras".
 
-> **CANON DEL AUTOR (2026-10-28): primera aparición en el Libro I**, novato y chofer de [[02_Characters/Lucia_Varek]] en el robo del Monarch (Caps. 22a–22b). Lucía le llama la atención para que no sea como Blake. DISEÑO: nota un detalle que no cuadra en la caja; en el 22b hace la revisión de tránsito que atrapa a los ladrones ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]).
+> **CANON DEL AUTOR (2026-10-28): primera aparición en el Libro I**, novato y chofer de [[02_Characters/Lucia_Varek]] en el robo del Monarch (Caps. 22a–22b). Lucía le llama la atención para que no sea como Blake. DISEÑO: nota un detalle que no cuadra en la caja; en el 22b hace la revisión de tránsito que atrapa a los ladrones ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]).
 
 Nicholas Voss es coprotagonista del arco policial junto a Elenna Mercer.
 

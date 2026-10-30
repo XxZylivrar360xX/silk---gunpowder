@@ -2,7 +2,7 @@
 
 **Encargo:** el autor ve flojo el Cap. 25 *Causalidad* (archivo 22) y pide lluvia de ideas para un rediseño completo: primer trabajo de la banda entera, con riesgo real de exhibir algo.
 
-**Resultado:** plan en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]. Sin prosa.
+**Resultado:** plan en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]. Sin prosa.
 
 ## CANON DEL AUTOR (2026-10-28)
 

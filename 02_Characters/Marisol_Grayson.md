@@ -208,7 +208,7 @@ Su sarcasmo lo aprendió de Kal por convivencia, pero no lo imita: en ella es m�
 
 > **PENDIENTE:** si Kal tiene alguna tutoría legal o sólo un rol familiar de hecho.
 
-> **Eco Marta–Marisol (CANON DEL AUTOR, 2026-10-29):** Chiara tenía quince cuando Marta le contó su última historia («la clave è non farlo da sola»); Marisol tenía quince cuando murió Michael. El eco se guarda para pagarse después (PENDIENTE: dónde y cómo). En el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 32]] Chiara ya dice de ella: «Es una chica maravillosa, audaz pero maravillosa».
+> **Eco Marta–Marisol (CANON DEL AUTOR, 2026-10-29):** Chiara tenía quince cuando Marta le contó su última historia («la clave è non farlo da sola»); Marisol tenía quince cuando murió Michael. El eco se guarda para pagarse después (PENDIENTE: dónde y cómo). En el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos|Cap. 32]] Chiara ya dice de ella: «Es una chica maravillosa, audaz pero maravillosa».
 
 > **PENDIENTE:** qué piensa Marisol de Chiara después de su primer encuentro en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21_El_Primer_Huesped|Capítulo 21, «La promesa»]].
 

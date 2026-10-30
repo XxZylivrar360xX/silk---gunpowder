@@ -1,4 +1,5 @@
 <!--
+Corte de parte 2026-10-29 (decisión del autor): la Parte II abre ahora en el Cap. 26 (*La cifra*); el ordinal «N-ésimo capítulo de la Parte II» de abajo es anterior a ese corte.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 28; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «La correa».
 Retitulado otra vez 2026-10-22 (decisión del autor): «Te queda grande» → «No hace falta» (de "*Cielo*, no hace falta.").
@@ -45,7 +46,7 @@ RECONSTRUCCIÓN 2026-10-01 (Claude Code, CANON DEL AUTOR — SUPERSEDE las notas
 - CANON (2026-10-01, autor): "Me importas muchísimo" va justo después de "Entonces, ¿qué me estás diciendo, Chiara?" (antes iba tras "Pues parece que no").
 - CORRECCIÓN DE ATRIBUCIÓN (2026-10-03, autor): "Pues en ese momento lo pensé... no voy a ser ni un pensamiento en su cabeza... Fíjate que lo pensé y no te dije nada" es de CHIARA (como en la fuente), no de Kal.
 - CIERRE: tras la llamada, junto al Audi, Kal revisa la recámara y guarda la pistola atrás en la cintura; Chiara lo ve desde el balcón.
-- SEMBRADO 2026-10-01 en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24b_Lo_Que_Cueste]] (primera mitad, la que Kal oye: "Si un día me llega el agua al cuello, agarro mis cosas y me voy."). CANON DEL AUTOR (2026-10-01): Kal sólo oyó la primera mitad; aquí Chiara revela la segunda ("no sabía si contigo podría", redacción DISEÑO). Lo que sigue callando es POR QUÉ lo dijo esa noche (el pedido de Nadir); Kal no lo sabe en el Libro I. Nota previa: PENDIENTE DE SIEMBRA: la escalera ("hace días, en esta misma casa… el agua al cuello… fue cuando subiste la escalera"). Nace de un beat aparte del autor (Nadir le pide a Chiara que se aleje de Kal); no escribir hasta que el autor lo dicte.
+- SEMBRADO 2026-10-01 en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24b_Lo_Que_Cueste]] (primera mitad, la que Kal oye: "Si un día me llega el agua al cuello, agarro mis cosas y me voy."). CANON DEL AUTOR (2026-10-01): Kal sólo oyó la primera mitad; aquí Chiara revela la segunda ("no sabía si contigo podría", redacción DISEÑO). Lo que sigue callando es POR QUÉ lo dijo esa noche (el pedido de Nadir); Kal no lo sabe en el Libro I. Nota previa: PENDIENTE DE SIEMBRA: la escalera ("hace días, en esta misma casa… el agua al cuello… fue cuando subiste la escalera"). Nace de un beat aparte del autor (Nadir le pide a Chiara que se aleje de Kal); no escribir hasta que el autor lo dicte.
 - CONTINUIDAD (2026-10-04, autor): la baranda del balcon ya no la "hizo conservar" Chiara por estetica; en el Cap. 10 fue Kal quien no dejo quitarla y ella sabe que era la casa de sus padres (y, por el mirador del Cap. 20, el arresto de Dale en la calle). Linea: "la baranda de hierro que Kal no habia dejado quitar". Sin glosa.
 -->
 

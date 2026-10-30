@@ -12,11 +12,11 @@ Verificar la plausibilidad procesal de la audiencia que cierra el litigio entre 
 
 ## Textos y referencias comprobados
 
-- **Cap. 28 «Bajo juramento»:** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24_Bajo_Juramento]]`; blob `f57b2762ba858e738af210b2bb49321b657c9d91`, 392 líneas con metadata. Encabezado visible «Capítulo 28». El nombre del archivo es histórico: **no renombrar**.
-- **Cap. 27 «Nada caro»:** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/23_La_Letra_Pequena]]`; blob `30acd8659d5e0235de3f67fe538db8d3883fde94`, 380 líneas. Allí Kal recibe la notificación de Hoover, contrata a Margaret Rivers y el conflicto legal se desarrolla durante unas **dos semanas**.
+- **Cap. 28 «Bajo juramento»:** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24_Bajo_Juramento]]`; blob `f57b2762ba858e738af210b2bb49321b657c9d91`, 392 líneas con metadata. Encabezado visible «Capítulo 28». El nombre del archivo es histórico: **no renombrar**.
+- **Cap. 27 «Nada caro»:** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/23_La_Letra_Pequena]]`; blob `30acd8659d5e0235de3f67fe538db8d3883fde94`, 380 líneas. Allí Kal recibe la notificación de Hoover, contrata a Margaret Rivers y el conflicto legal se desarrolla durante unas **dos semanas**.
 - **Cap. 2 «Demasiado listo»:** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo]]`; es la reunión real del Monarch. **No** se pactó el supuesto acuerdo verbal que Tommaso declara en el tribunal.
-- **Caps. 25–26:** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/22a_La_Cifra]]` y `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/22b_Con_Su_Proveedor]]`; confirman la tensión reciente entre Tommaso, Chiara y Kal que potencia la sorpresa del testimonio.
-- **Siguiente Cap. 29 «Lo que cueste»:** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24b_Lo_Que_Cueste]]`; depende de que la deuda incierta con Tommaso siga sin explicación.
+- **Caps. 25–26:** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/22a_La_Cifra]]` y `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/22b_Con_Su_Proveedor]]`; confirman la tensión reciente entre Tommaso, Chiara y Kal que potencia la sorpresa del testimonio.
+- **Siguiente Cap. 29 «Lo que cueste»:** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24b_Lo_Que_Cueste]]`; depende de que la deuda incierta con Tommaso siga sin explicación.
 
 **Fuentes jurídicas externas para plausibilidad (verificadas a 2026-10-28):**
 

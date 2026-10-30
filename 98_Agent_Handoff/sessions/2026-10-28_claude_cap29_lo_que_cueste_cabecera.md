@@ -4,7 +4,7 @@
 
 ## Cambios
 
-- **LC-04 (aplicado, solo cabecera):** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24b_Lo_Que_Cueste]], las referencias operativas pasan a la numeración de 58: Bajo juramento = Cap. 28 (archivo 24), El corral = 30 (24c), Libros abiertos = 31 (25), y la revelación de la segunda mitad = Cap. 34 *No hace falta* (archivo 28_La_Correa, L364–370). La inserción del 2026-10-01 sin renumeración queda como historia fechada y marcada como superada. Sin tocar prosa, encabezado visible ni nombre de archivo.
+- **LC-04 (aplicado, solo cabecera):** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24b_Lo_Que_Cueste]], las referencias operativas pasan a la numeración de 58: Bajo juramento = Cap. 28 (archivo 24), El corral = 30 (24c), Libros abiertos = 31 (25), y la revelación de la segunda mitad = Cap. 34 *No hace falta* (archivo 28_La_Correa, L364–370). La inserción del 2026-10-01 sin renumeración queda como historia fechada y marcada como superada. Sin tocar prosa, encabezado visible ni nombre de archivo.
 
 ## Comprobado sin cambio
 

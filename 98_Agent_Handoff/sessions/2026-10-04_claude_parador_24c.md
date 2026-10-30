@@ -4,7 +4,7 @@
 
 **CANON DEL AUTOR (2026-10-04):** Ragnar = Kenji; Arquera = Vivian; TNT → **Eagle Eye Security** (seguridad del Monarch); César = supervisor de seguridad con roces con Chiara, contratado por Tommaso; Caluca = guardia de Eagle Eye que actuaba sospechoso y acosaba a Chiara; mansión de Dario (sin "naranja"); observatorio = mirador; la carta es de Il Consorzio ("evaluar" su desempeño, reunión el 13); las cámaras = la gente de Dario vigilando el Monarch; Kal y Dario cada uno por su lado; "los tres juntos" = Kal, Dario y Trix; "Según me contaste, no es barato" lo dice Chiara (el costo es el roce con Dario, que cobra después); vocabulario neutral, sin España.
 
-**Prosa ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24c_El_Corral]], BORRADOR):**
+**Prosa ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24c_El_Corral]], BORRADOR):**
 - Monarch: silla vacía de Eagle Eye, pasos, Caluca en el corredor de servicio (alias "Matías"), carta en el escritorio del penthouse (Kal la guarda).
 - Hospital: Caluca frente al Santa Aurelia sustituye al guardia de caballerizas (pistola, carrera, patrulla; fracaso feo conservado). Dario: "ya había entrado a mi hipódromo sin mi permiso" / "Fui a buscarla. No a pedir permiso." Kal tampoco menciona la carta.
 - Alta: Trix firma el alta; Chiara ve a los tres juntos. Kal dejó el Audi lejos por un posible localizador.

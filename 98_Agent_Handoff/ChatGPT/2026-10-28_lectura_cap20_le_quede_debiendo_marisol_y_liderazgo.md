@@ -15,7 +15,7 @@ Entregar las observaciones de lectura sobre el **Capítulo 20, «Le quedé debie
 - Cap. 19, «El sobre rojo»: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/16_El_Sobre_Rojo]] (Héctor cuestiona que Kal decida por Chiara).
 - **Cap. 20, «Le quedé debiendo»:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/17_Cuentas_Claras]] (nombre de archivo heredado; título y número vigentes en encabezado).
 - [[02_Characters/Nadir_Amrani]]; [[02_Characters/Irene_Salcedo]]; [[03_Factions/La_Ronda_del_Canal]]; [[02_Characters/Walter_Keegan]].
-- Pago posterior: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/23_La_Letra_Pequena]] (Kawasaki y «Porque ibas a decir que no» / «Iba a decir que sí»); [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa]] (Irene convierte las rutas pendientes en favor abierto, la escena actual sólo libera explícitamente a Nadir).
+- Pago posterior: [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/23_La_Letra_Pequena]] (Kawasaki y «Porque ibas a decir que no» / «Iba a decir que sí»); [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa]] (Irene convierte las rutas pendientes en favor abierto, la escena actual sólo libera explícitamente a Nadir).
 
 ## Canon / dirección expresamente indicada por el autor
 

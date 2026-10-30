@@ -4,7 +4,7 @@
 
 *Seda y Pólvora — Ficha de personaje*
 
-> **DISEÑO (2026-10-28):** Kal paga en el Cap. 22b el aviso del Cap. 20 («me lo dice a mí primero») con el nombre de la banda, los Devil Splicers, antes de que caigan con Voss. No conoce el de Mei-Lin ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]).
+> **DISEÑO (2026-10-28):** Kal paga en el Cap. 22b el aviso del Cap. 20 («me lo dice a mí primero») con el nombre de la banda, los Devil Splicers, antes de que caigan con Voss. No conoce el de Mei-Lin ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]).
 
 ## Identidad
 

@@ -1,6 +1,6 @@
 # 2026-10-28 — Renumeración del Libro I a 58 capítulos
 
-Agente: Claude Code. Encargo del autor: «Haz la reenumeración pendiente» (plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]).
+Agente: Claude Code. Encargo del autor: «Haz la reenumeración pendiente» (plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]).
 
 ## Cambio
 

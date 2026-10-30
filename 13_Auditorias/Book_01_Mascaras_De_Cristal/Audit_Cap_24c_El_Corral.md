@@ -1,7 +1,7 @@
 # Auditoría — Cap. 24c, *El corral* (reubicado + parador del autor)
 
 > **Modo AUDIT** (no se tocó prosa). 2026-10-04, Claude Code, a pedido del autor. Skill `editorial-surgery`; políticas [[12_Craft_Policies/editorial/EDITORIAL_POLICY]], [[12_Craft_Policies/editorial/DO_NOT_TOUCH]], [[12_Craft_Policies/editorial/MICROEDICION]].
-> **Ámbito:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24c_El_Corral]] completo, más su continuidad contra 18, 25, Parte II (26-34), Hitos (H12/H13), fichas y metadata.
+> **Ámbito:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24c_El_Corral]] completo, más su continuidad contra 18, 25, Parte II (26-34), Hitos (H12/H13), fichas y metadata.
 > **Autoría por capas:** (a) cuerpo heredado del antiguo Cap. 9, TERMINADO y ya auditado ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_09_El_Corral]]); (b) ajustes de reubicación (DISEÑO); (c) parador y sus siembras, integrados desde [[07_Ideas/Escenas_Guia/El_Parador_Del_Norte]]: diálogo **CANON DEL AUTOR**, costuras DISEÑO. Las líneas del autor sólo se marcan por continuidad o claridad; no se proponen "mejoras" de voz sobre ellas.
 > Las líneas citadas son del archivo (la metadata ocupa 1-9).
 

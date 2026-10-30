@@ -14,8 +14,8 @@ Revisar la presentación operativa de **Harper Walker**, la función de **Garret
 - `[[02_Characters/Harper_Walker]]` y `[[12_Craft_Policies/voice/Harper_Walker]]` — origen rural, competencia en campo, voz seca y autonomía; no hacerla otra Marisol.
 - `[[02_Characters/Garrett_Cross]]` — lectura de papeles y activos; su punto ciego: confiar en la documentación más que en las personas.
 - `[[02_Characters/Edward_Connors]]` — **fiscal general del estado**, enemistado con Margaret Rivers desde la facultad.
-- `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/23_La_Letra_Pequena]]` — Cap. 26 «Nada caro», litigio de Hoover: Rivers y la vinculación con el fiscal general; contacto previamente entregado por Chiara.
-- `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24_Bajo_Juramento]]` — Cap. 27: desenlace del conflicto mercantil.
+- `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/23_La_Letra_Pequena]]` — Cap. 26 «Nada caro», litigio de Hoover: Rivers y la vinculación con el fiscal general; contacto previamente entregado por Chiara.
+- `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24_Bajo_Juramento]]` — Cap. 27: desenlace del conflicto mercantil.
 - `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/20_El_Mirador]]` — Cap. 23 «Lo pequeño», hito posterior; respetar la cronología relativa sin fijar fechas nuevas por conveniencia.
 
 ## Lo que funciona — proteger

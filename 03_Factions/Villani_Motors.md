@@ -17,7 +17,7 @@ Es una compra limpia, no un favor con condiciones ni una jugada de poder. Encaja
 
 ## La escena de compra — CANON DEL AUTOR (2026-08-29)
 
-**Ubicación:** Parte I, **poco antes de [[06_Relationships/Hitos#H15 — La noche del jacuzzi|La noche del jacuzzi]]** (que cierra la Parte I). Es una escena distinta y muy anterior a F3: el auto lleva **mucho tiempo** con Chiara antes de que le corten los frenos.
+**Ubicación:** Parte I, **poco antes de [[06_Relationships/Hitos#H15 — La noche del jacuzzi|La noche del jacuzzi]]** (que cerraba la Parte I hasta el 2026-10-29; hoy está en la Parte II, Cap. 33). Es una escena distinta y muy anterior a F3: el auto lleva **mucho tiempo** con Chiara antes de que le corten los frenos.
 
 - **Siembra previa:** un poco antes se planta que Kal **compra el local / entra en el concesionario nuevo** (Villani Motors). Ese negocio ya está en su cartera cuando llega la escena de compra.
 - **El juego de roles:** cuando Chiara va por el coche, **es Kal quien se lo vende** — y los dos **fingen ser desconocidos**, vendedor y clienta, un juego de roles que ejecutan a la perfección (los dos son profesionales de ser lo que la habitación necesita; aquí lo hacen **por diversión**, juntos).
@@ -29,7 +29,7 @@ Es una compra limpia, no un favor con condiciones ni una jugada de poder. Encaja
 
 > **RESUELTO (2026-08-29, autor):** la escena de compra es un **juego de roles** — Kal y Chiara fingiendo ser desconocidos, él el vendedor —, cae en la **Parte I, poco antes de La noche del jacuzzi**, y se comenta esa misma noche en el jacuzzi. Antes se siembra que Kal compró el local del concesionario.
 
-> **ESCRITO (2026-09-09, catchup manual; falta revisión del autor).** La siembra previa quedó resuelta en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24_Bajo_Juramento|Capítulo 24 — Bajo juramento]]: Kal entra a Villani Motors con participación minoritaria usando parte del dinero recuperado en el litigio civil por su antiguo concesionario. La escena de compra y el juego de roles del vendedor viven en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Capítulo 25 — Libros abiertos]].
+> **ESCRITO (2026-09-09, catchup manual; falta revisión del autor).** La siembra previa quedó resuelta en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24_Bajo_Juramento|Capítulo 24 — Bajo juramento]]: Kal entra a Villani Motors con participación minoritaria usando parte del dinero recuperado en el litigio civil por su antiguo concesionario. La escena de compra y el juego de roles del vendedor viven en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos|Capítulo 25 — Libros abiertos]].
 
 > **PENDIENTE:** nombre de pila del dueño/representante de la familia Villani con quien Kal trata, si la escena necesita un personaje con cara y no solo un negocio de fondo. *(Puede que no haga falta: en la escena de compra, el "vendedor" es Kal.)*
 

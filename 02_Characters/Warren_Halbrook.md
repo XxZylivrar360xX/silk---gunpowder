@@ -191,7 +191,7 @@ La aparición de recursos estatales o militares alrededor de San Aurelio siempre
 
 > **un soldado que desertó, saboteó una operación y sabe demasiado.**
 
-> **Expediente (CANON DEL AUTOR 2026-09-28 + DISEÑO):** la acusación que mete a Kal en prisión es la muerte de un menor esa noche (un niño guardia armado al que Kal disparó). Del convoy no queda nada en ningún papel; del niño, sí. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos|Cap. 25]].
+> **Expediente (CANON DEL AUTOR 2026-09-28 + DISEÑO):** la acusación que mete a Kal en prisión es la muerte de un menor esa noche (un niño guardia armado al que Kal disparó). Del convoy no queda nada en ningún papel; del niño, sí. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos|Cap. 25]].
 
 Ésa es la versión que firma. Debajo está la otra, la que no firma: que un hombre excepcional puso su límite moral por encima de la institución.
 

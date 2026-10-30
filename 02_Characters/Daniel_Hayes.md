@@ -17,7 +17,7 @@
 **Estado:** vivo.
 **Entorno principal:** La Almendra / taller del barrio.
 
-> **CANON DEL AUTOR (2026-10-28):** en el Cap. 20 Danny **mintió**: «el del billar» que le pasó el rumor de la bodega de Irene es **Mei-Lin**, y la cubre porque ella le consigue droga (heroína de los Devil Splicers). En el 22b lee el auto de los ladrones y vuelve a callar. DISEÑO: la caída de la banda le corta el suministro; la mentira queda como candidata para F2 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]).
+> **CANON DEL AUTOR (2026-10-28):** en el Cap. 20 Danny **mintió**: «el del billar» que le pasó el rumor de la bodega de Irene es **Mei-Lin**, y la cubre porque ella le consigue droga (heroína de los Devil Splicers). En el 22b lee el auto de los ladrones y vuelve a callar. DISEÑO: la caída de la banda le corta el suministro; la mentira queda como candidata para F2 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]).
 
 ---
 

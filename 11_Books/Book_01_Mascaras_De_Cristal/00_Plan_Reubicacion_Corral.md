@@ -75,6 +75,6 @@ Sin renumerar. El Corral pasa a ser el **Cap. 24c** (el archivo `09_El_Corral` s
 
 1. ~~El autor confirma el reparto del espejo (9 / 24c) y la ventana del 25.~~ Confirmado (2026-10-04): espejo 9 dicho / 24c corporal; el 25 pasa a casi un mes del juicio.
 2. ~~Escribir el nuevo Cap. 9.~~ Hecho: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_La_Balanza]].
-3. ~~Mover y ajustar el Corral.~~ Hecho: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24c_El_Corral]] (enlaces del vault actualizados).
+3. ~~Mover y ajustar el Corral.~~ Hecho: [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24c_El_Corral]] (enlaces del vault actualizados).
 4. Hecho en parte: Cap. 10 (muñeca, Nadir con signo cambiado, presupuestos), 25 (fechas), 24b (ventana). **Queda para lectura:** 12 (metadata), 13 (¿favor de Rowe?), 17 (Walt sobre Crowe), 32/37 (tono de las siembras de Crowe), 44 (Rowe).
 5. ~~Actualizar Hitos, fichas, Book_Map y Timeline.~~ Hecho: Hitos (H12, H14, tabla), Timeline, La_Casa, Beatrice, Silas, Fiscalía, CHAPTER_STATUS, Book_Map, INDEX. Sin renumerar.

@@ -1,6 +1,6 @@
 # 2026-10-28 — Claude: cirugía Cap. 22 «Lo que nadie estaba mirando»
 
-**Modo:** SURGERY. **Encargo:** reporte de ChatGPT [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_cap22_lo_que_nadie_estaba_mirando]]. **Ámbito:** solo [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/19_Tierra_Buena]]. Sigue TERMINADO; la prosa nueva es DISEÑO y espera lectura. Cotejado con [[02_Characters/Edward_Connors]] y el Cap. 26 *Nada caro* ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/23_La_Letra_Pequena]]).
+**Modo:** SURGERY. **Encargo:** reporte de ChatGPT [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_cap22_lo_que_nadie_estaba_mirando]]. **Ámbito:** solo [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/19_Tierra_Buena]]. Sigue TERMINADO; la prosa nueva es DISEÑO y espera lectura. Cotejado con [[02_Characters/Edward_Connors]] y el Cap. 26 *Nada caro* ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/23_La_Letra_Pequena]]).
 
 ## Intervenciones
 

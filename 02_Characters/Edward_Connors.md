@@ -7,7 +7,7 @@
 **Nacionalidad:** estadounidense.  
 **Edad al abrir la novela:** sesenta y dos años o más (canon del autor, 2026-09-30).  
 **Oficio:** fiscal general del estado.  
-**Rol:** figura política de la fiscalía estatal; enemistado con Margaret Rivers (abogada de Kal, sin ficha propia; ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/23_La_Letra_Pequena]]) desde la facultad.  
+**Rol:** figura política de la fiscalía estatal; enemistado con Margaret Rivers (abogada de Kal, sin ficha propia; ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/23_La_Letra_Pequena]]) desde la facultad.  
 **Estado:** vivo.
 
 ---

@@ -1,6 +1,6 @@
 # 2026-10-28 — Cap. 27 (archivo 24): regla 05 en *Bajo juramento*
 
-**Agente:** Claude Code (principal). **Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24_Bajo_Juramento]].
+**Agente:** Claude Code (principal). **Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24_Bajo_Juramento]].
 **Origen:** el autor pide la regla [[12_Craft_Policies/dialogue_rules/05-esticomitia-de-una-sola-voz]] en el Cap. 27, sin regenerar el audiolibro. El capítulo es TERMINADO; el estado se conserva y la prosa nueva es DISEÑO, espera lectura. Casi todo el capítulo está protegido (Lote B §4) y el tribunal es interrogatorio, donde el ritmo corto es la tensión; el ping-pong estaba en Villani.
 
 ## Cambios

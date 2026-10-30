@@ -1,4 +1,5 @@
 <!--
+Corte de parte 2026-10-29 (decisión del autor): la Parte II abre ahora en el Cap. 26 (*La cifra*); el ordinal «N-ésimo capítulo de la Parte II» de abajo es anterior a ese corte.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 30; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — quinto capítulo de la Parte II. Pendiente de revisión del autor. Cirugía editorial E6 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): poda por movimiento, plan contra Varek bajado a pacto (V2, decisión del autor), cronología fija, POV, auto (Peugeot) y sedán; sigue BORRADOR.
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 12 cortes (N30-1 a N30-11, D-5); sigue BORRADOR.

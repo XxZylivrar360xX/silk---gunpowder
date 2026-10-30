@@ -52,7 +52,7 @@ El poder de las bandas menores no es masculino por defecto. Las mujeres no entra
 
 > **CANON DEL AUTOR (2026-10-28).** Distribuidores de heroína en **Old Road Town (O.R.T.)**, el pueblo viejo tras la montaña del norte, a 15 minutos del centro. Banda de origen de [[02_Characters/Mei_Lin_Zhao]] y [[02_Characters/Bonnie_Garcia]]. Dos de sus miembros, enmascarados, roban la caja de Matteo en el Monarch (Caps. 22a–22b). Por eso no cuentan entre las siete organizaciones activas: para el Cap. 43 «ya no existía».
 
-**DISEÑO:** trabajan por encargo de Crowe sin saber que arriba está Dario. Se deshacen tras el robo: dos detenidos con su mercancía en una revisión de tránsito, Lucía mirando O.R.T. e Irene con su nombre. Mei-Lin le consigue droga a [[02_Characters/Daniel_Hayes|Danny]]. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]].
+**DISEÑO:** trabajan por encargo de Crowe sin saber que arriba está Dario. Se deshacen tras el robo: dos detenidos con su mercancía en una revisión de tránsito, Lucía mirando O.R.T. e Irene con su nombre. Mei-Lin le consigue droga a [[02_Characters/Daniel_Hayes|Danny]]. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]].
 
 > **Nombres (2026-10-28; americanos por pedido del autor, propuestos por el agente):** jefe, **Roy Boone**; los dos enmascarados del Monarch, **Travis Pruitt** y **Cody Lambert**.
 

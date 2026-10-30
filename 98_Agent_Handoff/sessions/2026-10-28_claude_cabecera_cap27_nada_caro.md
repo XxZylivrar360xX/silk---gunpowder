@@ -4,8 +4,8 @@
 
 ## Cambios
 
-- **NC-01 (corregido, solo cabecera):** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/23_La_Letra_Pequena]], la ventana temporal ya no cita *Causalidad* (Cap. 22) ni la audiencia en el Cap. 24: ahora apunta al robo del Monarch (Caps. 25–26) y a la audiencia del Cap. 28 *Bajo juramento*; «Tierra buena» → Cap. 22 *Lo que nadie estaba mirando* en la función. Semilla verificada: Chiara entrega el contacto de Rivers en el 22 (archivo 19, L164). Notas de cirugía fechadas intactas.
-- **Mismo error en el 28:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24_Bajo_Juramento]] decía «continuación directa del Cap. 23»; ahora «del Cap. 27 (*Nada caro*)».
+- **NC-01 (corregido, solo cabecera):** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/23_La_Letra_Pequena]], la ventana temporal ya no cita *Causalidad* (Cap. 22) ni la audiencia en el Cap. 24: ahora apunta al robo del Monarch (Caps. 25–26) y a la audiencia del Cap. 28 *Bajo juramento*; «Tierra buena» → Cap. 22 *Lo que nadie estaba mirando* en la función. Semilla verificada: Chiara entrega el contacto de Rivers en el 22 (archivo 19, L164). Notas de cirugía fechadas intactas.
+- **Mismo error en el 28:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24_Bajo_Juramento]] decía «continuación directa del Cap. 23»; ahora «del Cap. 27 (*Nada caro*)».
 
 ## Comprobado sin cambio
 

@@ -2,13 +2,13 @@
 
 Fuente: [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_caps25_26_robo_monarch_la_cifra_con_su_proveedor]]. El autor aprobó los cambios.
 
-## Aplicado en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/22b_Con_Su_Proveedor]]
+## Aplicado en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/22b_Con_Su_Proveedor]]
 
 - **O-01, la fecha:** en la llamada del domingo, «Mañana a la una» pasa a «El martes. A la una de la madrugada» (redacción del autor). Cuadra con el lunes completo y con el intercambio de la madrugada del martes.
 - **O-02, el dinero:** «Seis mil, como quedamos. Danny también» pasa a «Tres mil». Tres mil por cabeza son los seis mil de la tarifa. Se conserva «Danny no fue / Danny vio el video».
 - **O-03, la resistencia de los ladrones:** el alto mira el camino hacia la ciudad, «como si por ahí ya viniera alguien con las luces apagadas», antes de ceder la bolsa.
 - **O-04, la barrera:** se agrega «Se había quedado arriba». ChatGPT lo leyó como si el coche hubiera salido con la barrera cerrada, pero el texto ya decía que no registró «ni abrir ni cerrar».
-- **O-05, CANON DEL AUTOR:** Roy Boone deserta. A las seis de la mañana narcóticos va por él a O.R.T. y encuentra la puerta abierta, el clóset vacío y ninguna camioneta. Sin líder, los Devil Splicers se deshacen, y eso paga el «ya no existía» del Cap. 43. Queda anotado también en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]] y en [[02_Characters/Mei_Lin_Zhao]].
+- **O-05, CANON DEL AUTOR:** Roy Boone deserta. A las seis de la mañana narcóticos va por él a O.R.T. y encuentra la puerta abierta, el clóset vacío y ninguna camioneta. Sin líder, los Devil Splicers se deshacen, y eso paga el «ya no existía» del Cap. 43. Queda anotado también en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]] y en [[02_Characters/Mei_Lin_Zhao]].
 
 ## Sin cambios
 

@@ -5,7 +5,7 @@
 > **Para:** Autor y Claude Code — maintainer  
 > **Estado:** REPORTE DE LECTURA / **DISEÑO**; no es instrucción de edición automática ni canon nuevo.  
 > **Fuente de lectura:** `XxZylivrar360xX/silk---gunpowder`, rama `develop`, HEAD `483fc149cdda9fe3c192388e15af0766537cdb2e`.  
-> **Archivo revisado:** `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24d_Vienes_Conmigo.md`, blob `ea4222f99ca95d3c635ffe54e1dbeb930823ebbc` (308 líneas).  
+> **Archivo revisado:** `11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24d_Vienes_Conmigo.md`, blob `ea4222f99ca95d3c635ffe54e1dbeb930823ebbc` (308 líneas).  
 > **Contexto inmediato:** Cap. 29 `24b_Lo_Que_Cueste.md`; Cap. 30 `24c_El_Corral.md` (título visible «Oveja entre lobos»); siguiente Cap. 32 `25_Libros_Abiertos.md`.
 
 ## Objetivo

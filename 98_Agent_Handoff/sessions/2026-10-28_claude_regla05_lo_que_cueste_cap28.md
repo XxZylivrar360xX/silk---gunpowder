@@ -1,6 +1,6 @@
 # 2026-10-28 — Cap. 28 (archivo 24b): regla 05 en *Lo que cueste*
 
-**Agente:** Claude Code (principal). **Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24b_Lo_Que_Cueste]].
+**Agente:** Claude Code (principal). **Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24b_Lo_Que_Cueste]].
 **Origen:** el autor pide la regla [[12_Craft_Policies/dialogue_rules/05-esticomitia-de-una-sola-voz]] en el Cap. 28, sin regenerar el audiolibro. El capítulo es BORRADOR; la prosa nueva es DISEÑO, espera lectura. La auditoría de diálogo de la Parte I ya lo marcaba como modelo, así que el toque es mínimo.
 
 ## Cambios

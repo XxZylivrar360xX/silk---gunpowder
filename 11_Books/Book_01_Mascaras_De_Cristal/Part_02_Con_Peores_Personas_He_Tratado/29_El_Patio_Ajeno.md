@@ -1,4 +1,5 @@
 <!--
+Corte de parte 2026-10-29 (decisión del autor): la Parte II abre ahora en el Cap. 26 (*La cifra*); el ordinal «N-ésimo capítulo de la Parte II» de abajo es anterior a ese corte.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 29; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «El patio ajeno».
 Otoño (2026-10-08, CANON DEL AUTOR; DISEÑO): una hoja seca de sicomoro en la piscina de Varek.

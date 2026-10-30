@@ -2,44 +2,14 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-29 23:10. Al día: 14 de 60.
+Actualizada: 2026-10-29 23:53. Al día: 44 de 60.
 
 ## Pendientes
 
 | Cap. | Título | Estado | Motivo | Desde |
 |---|---|---|---|---|
-| 14 | El farol | PENDIENTE | cambió la prosa | 2026-10-29 21:54 |
-| 16 | Por su cuenta | SIN AUDIO |  | 2026-10-29 21:45 |
-| 17 | Auster | SIN AUDIO |  | 2026-10-29 23:10 |
-| 18 | La regla del teléfono | SIN AUDIO |  | 2026-10-29 23:10 |
-| 19 | Yo lo llevo | SIN AUDIO |  | 2026-10-29 23:10 |
-| 20 | El sobre rojo | SIN AUDIO |  | 2026-10-29 23:10 |
-| 21 | Le quedé debiendo | SIN AUDIO |  | 2026-10-29 23:10 |
-| 22 | El día nublado | SIN AUDIO |  | 2026-10-29 23:10 |
-| 23 | Lo que nadie estaba mirando | SIN AUDIO |  | 2026-10-29 23:10 |
-| 24 | Lo pequeño | SIN AUDIO |  | 2026-10-29 23:10 |
-| 25 | El primer huésped | SIN AUDIO |  | 2026-10-29 23:10 |
-| 26 | La cifra | SIN AUDIO |  | 2026-10-29 23:10 |
-| 27 | Con su proveedor | SIN AUDIO |  | 2026-10-29 23:10 |
-| 28 | Nada caro | SIN AUDIO |  | 2026-10-29 23:10 |
-| 29 | Bajo juramento | SIN AUDIO |  | 2026-10-29 23:10 |
-| 30 | Lo que cueste | SIN AUDIO |  | 2026-10-29 23:10 |
-| 31 | Oveja entre lobos | SIN AUDIO |  | 2026-10-29 23:10 |
-| 32 | Vienes conmigo | SIN AUDIO |  | 2026-10-29 23:10 |
-| 33 | Libros abiertos | SIN AUDIO |  | 2026-10-29 23:10 |
-| 34 | Me encuentro bien | SIN AUDIO |  | 2026-10-29 23:10 |
-| 35 | Lleve equipaje | SIN AUDIO |  | 2026-10-29 23:10 |
-| 36 | No hace falta | SIN AUDIO |  | 2026-10-29 23:10 |
-| 37 | Una silla | SIN AUDIO |  | 2026-10-29 23:10 |
-| 38 | Media Baraja | SIN AUDIO |  | 2026-10-29 23:10 |
-| 39 | Vamos a casa | SIN AUDIO |  | 2026-10-29 23:10 |
-| 40 | Línea directa | SIN AUDIO |  | 2026-10-29 23:10 |
-| 41 | Lo único que es mío | SIN AUDIO |  | 2026-10-29 23:10 |
-| 42 | La mano | SIN AUDIO |  | 2026-10-29 23:10 |
-| 43 | Mi pareja | SIN AUDIO |  | 2026-10-29 23:10 |
-| 44 | Sin fecha de regreso | SIN AUDIO |  | 2026-10-29 23:10 |
-| 45 | También las mañanas | SIN AUDIO |  | 2026-10-29 23:10 |
-| 46 | Cuatro letras | SIN AUDIO |  | 2026-10-29 23:10 |
+| 26 | La cifra | PENDIENTE | cambió la numeración, el diccionario o la voz | 2026-10-29 23:53 |
+| 34 | Me encuentro bien | PENDIENTE | cambió la numeración, el diccionario o la voz | 2026-10-29 23:53 |
 | 47 | Al revés | SIN AUDIO |  | 2026-10-29 23:10 |
 | 48 | Un par de días más | SIN AUDIO |  | 2026-10-29 23:10 |
 | 49 | Mecánico | SIN AUDIO |  | 2026-10-29 23:10 |
@@ -72,39 +42,39 @@ Actualizada: 2026-10-29 23:10. Al día: 14 de 60.
 | 11 | La teniente | AL DIA | 2026-10-24 |
 | 12 | La balanza | AL DIA | 2026-10-28 |
 | 13 | Dos sillas vacías | AL DIA | 2026-10-28 |
-| 14 | El farol | PENDIENTE | 2026-10-28 |
+| 14 | El farol | AL DIA | 2026-10-29 |
 | 15 | Roma Atrii | AL DIA | 2026-10-28 |
-| 16 | Por su cuenta | SIN AUDIO |  |
-| 17 | Auster | SIN AUDIO | 2026-10-28 |
-| 18 | La regla del teléfono | SIN AUDIO | 2026-10-28 |
-| 19 | Yo lo llevo | SIN AUDIO | 2026-10-28 |
-| 20 | El sobre rojo | SIN AUDIO | 2026-10-28 |
-| 21 | Le quedé debiendo | SIN AUDIO | 2026-10-28 |
-| 22 | El día nublado | SIN AUDIO | 2026-10-29 |
-| 23 | Lo que nadie estaba mirando | SIN AUDIO | 2026-10-28 |
-| 24 | Lo pequeño | SIN AUDIO | 2026-10-28 |
-| 25 | El primer huésped | SIN AUDIO | 2026-10-28 |
-| 26 | La cifra | SIN AUDIO | 2026-10-29 |
-| 27 | Con su proveedor | SIN AUDIO | 2026-10-29 |
-| 28 | Nada caro | SIN AUDIO | 2026-10-29 |
-| 29 | Bajo juramento | SIN AUDIO | 2026-10-29 |
-| 30 | Lo que cueste | SIN AUDIO | 2026-10-29 |
-| 31 | Oveja entre lobos | SIN AUDIO | 2026-10-29 |
-| 32 | Vienes conmigo | SIN AUDIO | 2026-10-29 |
-| 33 | Libros abiertos | SIN AUDIO | 2026-10-29 |
-| 34 | Me encuentro bien | SIN AUDIO | 2026-10-29 |
-| 35 | Lleve equipaje | SIN AUDIO | 2026-10-29 |
-| 36 | No hace falta | SIN AUDIO | 2026-10-29 |
-| 37 | Una silla | SIN AUDIO | 2026-10-29 |
-| 38 | Media Baraja | SIN AUDIO | 2026-10-29 |
-| 39 | Vamos a casa | SIN AUDIO | 2026-10-29 |
-| 40 | Línea directa | SIN AUDIO | 2026-10-29 |
-| 41 | Lo único que es mío | SIN AUDIO | 2026-10-29 |
-| 42 | La mano | SIN AUDIO | 2026-10-29 |
-| 43 | Mi pareja | SIN AUDIO | 2026-10-29 |
-| 44 | Sin fecha de regreso | SIN AUDIO | 2026-10-29 |
-| 45 | También las mañanas | SIN AUDIO | 2026-10-29 |
-| 46 | Cuatro letras | SIN AUDIO | 2026-10-29 |
+| 16 | Por su cuenta | AL DIA | 2026-10-29 |
+| 17 | Auster | AL DIA | 2026-10-29 |
+| 18 | La regla del teléfono | AL DIA | 2026-10-29 |
+| 19 | Yo lo llevo | AL DIA | 2026-10-29 |
+| 20 | El sobre rojo | AL DIA | 2026-10-29 |
+| 21 | Le quedé debiendo | AL DIA | 2026-10-29 |
+| 22 | El día nublado | AL DIA | 2026-10-29 |
+| 23 | Lo que nadie estaba mirando | AL DIA | 2026-10-29 |
+| 24 | Lo pequeño | AL DIA | 2026-10-29 |
+| 25 | El primer huésped | AL DIA | 2026-10-29 |
+| 26 | La cifra | PENDIENTE | 2026-10-29 |
+| 27 | Con su proveedor | AL DIA | 2026-10-29 |
+| 28 | Nada caro | AL DIA | 2026-10-29 |
+| 29 | Bajo juramento | AL DIA | 2026-10-29 |
+| 30 | Lo que cueste | AL DIA | 2026-10-29 |
+| 31 | Oveja entre lobos | AL DIA | 2026-10-29 |
+| 32 | Vienes conmigo | AL DIA | 2026-10-29 |
+| 33 | Libros abiertos | AL DIA | 2026-10-29 |
+| 34 | Me encuentro bien | PENDIENTE | 2026-10-29 |
+| 35 | Lleve equipaje | AL DIA | 2026-10-29 |
+| 36 | No hace falta | AL DIA | 2026-10-29 |
+| 37 | Una silla | AL DIA | 2026-10-29 |
+| 38 | Media Baraja | AL DIA | 2026-10-29 |
+| 39 | Vamos a casa | AL DIA | 2026-10-29 |
+| 40 | Línea directa | AL DIA | 2026-10-29 |
+| 41 | Lo único que es mío | AL DIA | 2026-10-29 |
+| 42 | La mano | AL DIA | 2026-10-29 |
+| 43 | Mi pareja | AL DIA | 2026-10-29 |
+| 44 | Sin fecha de regreso | AL DIA | 2026-10-29 |
+| 45 | También las mañanas | AL DIA | 2026-10-29 |
+| 46 | Cuatro letras | AL DIA | 2026-10-29 |
 | 47 | Al revés | SIN AUDIO | 2026-10-29 |
 | 48 | Un par de días más | SIN AUDIO | 2026-10-29 |
 | 49 | Mecánico | SIN AUDIO | 2026-10-29 |
@@ -122,6 +92,38 @@ Actualizada: 2026-10-29 23:10. Al día: 14 de 60.
 
 ## Historial
 
+- 2026-10-29 23:53 · Cap. 46 (37_Cuatro_Letras.md) · audio generado
+- 2026-10-29 23:53 · Cap. 45 (36_Tambien_Las_Mananas.md) · audio generado
+- 2026-10-29 23:53 · Cap. 44 (35_Sin_Fecha_De_Regreso.md) · audio generado
+- 2026-10-29 23:53 · Cap. 43 (34_Mi_Pareja.md) · audio generado
+- 2026-10-29 23:53 · Cap. 42 (33b_La_Mano.md) · audio generado
+- 2026-10-29 23:53 · Cap. 41 (33_Mas_De_La_Cuenta.md) · audio generado
+- 2026-10-29 23:53 · Cap. 40 (32_Linea_Directa.md) · audio generado
+- 2026-10-29 23:53 · Cap. 39 (31_Vamos_A_Casa.md) · audio generado
+- 2026-10-29 23:53 · Cap. 38 (30_Media_Baraja.md) · audio generado
+- 2026-10-29 23:53 · Cap. 37 (29_El_Patio_Ajeno.md) · audio generado
+- 2026-10-29 23:53 · Cap. 36 (28_La_Correa.md) · audio generado
+- 2026-10-29 23:53 · Cap. 35 (27_Riesgo_Pendiente.md) · audio generado
+- 2026-10-29 23:53 · Cap. 34 (26_Me_Encuentro_Bien.md) · audio pendiente: cambió la numeración, el diccionario o la voz
+- 2026-10-29 23:53 · Cap. 33 (25_Libros_Abiertos.md) · audio generado
+- 2026-10-29 23:53 · Cap. 32 (24d_Vienes_Conmigo.md) · audio generado
+- 2026-10-29 23:53 · Cap. 31 (24c_El_Corral.md) · audio generado
+- 2026-10-29 23:53 · Cap. 30 (24b_Lo_Que_Cueste.md) · audio generado
+- 2026-10-29 23:53 · Cap. 29 (24_Bajo_Juramento.md) · audio generado
+- 2026-10-29 23:53 · Cap. 28 (23_La_Letra_Pequena.md) · audio generado
+- 2026-10-29 23:53 · Cap. 27 (22b_Con_Su_Proveedor.md) · audio generado
+- 2026-10-29 23:53 · Cap. 26 (22a_La_Cifra.md) · audio pendiente: cambió la numeración, el diccionario o la voz
+- 2026-10-29 23:53 · Cap. 25 (21_El_Primer_Huesped.md) · audio generado
+- 2026-10-29 23:53 · Cap. 24 (20_El_Mirador.md) · audio generado
+- 2026-10-29 23:53 · Cap. 23 (19_Tierra_Buena.md) · audio generado
+- 2026-10-29 23:53 · Cap. 22 (18_El_Dia_Nublado.md) · audio generado
+- 2026-10-29 23:53 · Cap. 21 (17_Cuentas_Claras.md) · audio generado
+- 2026-10-29 23:53 · Cap. 20 (16_El_Sobre_Rojo.md) · audio generado
+- 2026-10-29 23:53 · Cap. 19 (15_El_Porton.md) · audio generado
+- 2026-10-29 23:53 · Cap. 18 (14_La_Regla_Del_Telefono.md) · audio generado
+- 2026-10-29 23:53 · Cap. 17 (13_Auster.md) · audio generado
+- 2026-10-29 23:53 · Cap. 16 (12b_Por_Su_Cuenta.md) · audio generado
+- 2026-10-29 23:53 · Cap. 14 (11_El_Farol.md) · audio regenerado
 - 2026-10-29 23:10 · Cap. 60 (50b_La_Tierra_Bajo_Sus_Botas.md) · audio borrado
 - 2026-10-29 23:10 · Cap. 59 (50_A_Oscuras.md) · audio borrado
 - 2026-10-29 23:10 · Cap. 58 (49_Enfrente.md) · audio borrado

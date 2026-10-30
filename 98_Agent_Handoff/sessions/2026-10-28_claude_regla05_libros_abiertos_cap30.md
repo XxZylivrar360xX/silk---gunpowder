@@ -1,6 +1,6 @@
 # 2026-10-28 — Cap. 30 (archivo 25): regla 05 en *Libros abiertos*
 
-**Agente:** Claude Code (principal). **Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos]].
+**Agente:** Claude Code (principal). **Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos]].
 **Origen:** el autor pide la regla [[12_Craft_Policies/dialogue_rules/05-esticomitia-de-una-sola-voz]] en el Cap. 30, sin regenerar el audiolibro. El capítulo es BORRADOR; la prosa nueva es DISEÑO, espera lectura.
 
 ## Cambios

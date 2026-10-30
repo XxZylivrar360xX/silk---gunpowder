@@ -1,7 +1,7 @@
 # 2026-10-28 · Claude Code · Cap. 28 *Bajo juramento*: orden procesal
 
 **Fuente:** [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_cap28_bajo_juramento_mecanica_judicial]].
-**Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24_Bajo_Juramento]] (estado TERMINADO conservado; el cambio es DISEÑO y espera lectura).
+**Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24_Bajo_Juramento]] (estado TERMINADO conservado; el cambio es DISEÑO y espera lectura).
 
 ## Decisiones del autor
 

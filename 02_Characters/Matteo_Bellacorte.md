@@ -11,7 +11,7 @@
 **Rol:** bisagra del primer capitulo; abre la puerta entre La Almendra y el casino.
 **Estado:** vivo.
 
-> **CANON DEL AUTOR (2026-10-28):** el robo de los Caps. 22a–22b es a **la caja fuerte de su despacho**, que guarda las rutas de importación de Il Consorzio. DISEÑO: sólo él y Chiara saben qué había; si Il Consorzio lo supiera, quedaría marcado. Enlaza, sin causarla, con su salida del Cap. 41 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]).
+> **CANON DEL AUTOR (2026-10-28):** el robo de los Caps. 22a–22b es a **la caja fuerte de su despacho**, que guarda las rutas de importación de Il Consorzio. DISEÑO: sólo él y Chiara saben qué había; si Il Consorzio lo supiera, quedaría marcado. Enlaza, sin causarla, con su salida del Cap. 41 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]).
 
 ---
 

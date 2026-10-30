@@ -1,8 +1,8 @@
 # 2026-10-28 — Claude Code — Prosa del 22b *Con su proveedor*
 
-**Encargo:** redactar el 22b según [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]] (skill `chapter-drafting`).
+**Encargo:** redactar el 22b según [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]] (skill `chapter-drafting`).
 
-**Resultado:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/22b_Con_Su_Proveedor]], BORRADOR, ~4,800 palabras. Encabezado provisional «Capítulo 26 — Con su proveedor» (convive con el 26 *Nada caro* hasta la renumeración a 58).
+**Resultado:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/22b_Con_Su_Proveedor]], BORRADOR, ~4,800 palabras. Encabezado provisional «Capítulo 26 — Con su proveedor» (convive con el 26 *Nada caro* hasta la renumeración a 58).
 
 ## Escenas
 

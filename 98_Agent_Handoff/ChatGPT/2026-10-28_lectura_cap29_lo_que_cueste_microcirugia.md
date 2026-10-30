@@ -12,10 +12,10 @@ Cerrar la primera lectura del Cap. 29 «Lo que cueste» con **microintervencione
 
 ## Contexto mínimo y anclas verificadas en `develop`
 
-- **Cap. 29 «Lo que cueste»:** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24b_Lo_Que_Cueste]]`; blob `78bf02679d5ce99b08251dff81dc9591a2eb03fb`, 259 líneas incluidas las notas editoriales. El archivo **conserva el prefijo histórico `24b`**, mientras el encabezado visible ya es `# Capítulo 29 — Lo que cueste`. **No renombrar ni renumerar por iniciativa propia.** Estado actual: BORRADOR.
-- **Cap. 28 «Bajo juramento»:** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24_Bajo_Juramento]]`; acuerdo de Hoover, la mentira bajo juramento de Tommaso, el número que Kal ofrece a Krane y el Lancia del showroom. Su enlace emocional con el 29 funciona.
-- **Cap. 30 «El corral»:** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24c_El_Corral]]`; ocurre después del 29. **No adelantar ni reconducir** la agresión ni sus consecuencias.
-- **Cap. 31 «Libros abiertos»:** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/25_Libros_Abiertos]]`; compra del Lancia y apertura emocional posterior. La coda del 29 debe seguir siendo preparación, **no resolución**.
+- **Cap. 29 «Lo que cueste»:** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24b_Lo_Que_Cueste]]`; blob `78bf02679d5ce99b08251dff81dc9591a2eb03fb`, 259 líneas incluidas las notas editoriales. El archivo **conserva el prefijo histórico `24b`**, mientras el encabezado visible ya es `# Capítulo 29 — Lo que cueste`. **No renombrar ni renumerar por iniciativa propia.** Estado actual: BORRADOR.
+- **Cap. 28 «Bajo juramento»:** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24_Bajo_Juramento]]`; acuerdo de Hoover, la mentira bajo juramento de Tommaso, el número que Kal ofrece a Krane y el Lancia del showroom. Su enlace emocional con el 29 funciona.
+- **Cap. 30 «El corral»:** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24c_El_Corral]]`; ocurre después del 29. **No adelantar ni reconducir** la agresión ni sus consecuencias.
+- **Cap. 31 «Libros abiertos»:** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos]]`; compra del Lancia y apertura emocional posterior. La coda del 29 debe seguir siendo preparación, **no resolución**.
 - **Voz y canon:** `[[02_Characters/Nadir_Amrani]]`, `[[12_Craft_Policies/voice/Nadir_Amrani]]`, `[[12_Craft_Policies/voice/Chiara_Bellandi]]`, `[[12_Craft_Policies/voice/Kal_Mercer]]`. La desconfianza de Nadir hacia Chiara **no es celos románticos**. Conserva el trato de **usted** hasta el atentado; después cambia a **tú**. Chiara saluda a todos con «Ciao, tesoro», también a Nadir.
 
 ## Canon ya fijado por el autor — preservar

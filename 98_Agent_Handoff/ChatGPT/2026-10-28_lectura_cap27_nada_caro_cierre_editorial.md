@@ -11,9 +11,9 @@ Revisar tres puntos señalados tras leer el capítulo 27, separar el error docum
 ## Fuentes y estado verificados
 
 - Repositorio canónico: `XxZylivrar360xX/silk---gunpowder`, rama `develop`.
-- Capítulo 27 «Nada caro»: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/23_La_Letra_Pequena]]; blob `38f21ac94caf31e76f08755c0d3cfd50116d311a` (379 líneas con cabecera). **El nombre de archivo es histórico; conservarlo.**
-- Capítulo 26 «Con su proveedor»: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/22b_Con_Su_Proveedor]]; desembolso previsto «Cobra el jueves. Tres mil, como quedamos. Danny también» (cerca de L460–466).
-- Capítulo 28 «Bajo juramento»: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/24_Bajo_Juramento]]; encabezado vigente «Capítulo 28» y continuación directa del pleito de Hoover.
+- Capítulo 27 «Nada caro»: [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/23_La_Letra_Pequena]]; blob `38f21ac94caf31e76f08755c0d3cfd50116d311a` (379 líneas con cabecera). **El nombre de archivo es histórico; conservarlo.**
+- Capítulo 26 «Con su proveedor»: [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/22b_Con_Su_Proveedor]]; desembolso previsto «Cobra el jueves. Tres mil, como quedamos. Danny también» (cerca de L460–466).
+- Capítulo 28 «Bajo juramento»: [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24_Bajo_Juramento]]; encabezado vigente «Capítulo 28» y continuación directa del pleito de Hoover.
 - Semilla legal previa: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/19_Tierra_Buena]] (hoy Cap. 22 «Lo que nadie estaba mirando»); allí Chiara entrega el contacto de Margaret Rivers.
 - Personaje: [[02_Characters/Nadir_Amrani]], apartado «La moto»; la compra sin permiso y el pago en abonos son **diseño ya escrito**, con líneas de diálogo protegidas.
 - El [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] vigente tiene **58 capítulos**: 25 «La cifra», 26 «Con su proveedor», 27 «Nada caro», 28 «Bajo juramento». Las notas históricas del mapa pueden conservar numeraciones anteriores.
