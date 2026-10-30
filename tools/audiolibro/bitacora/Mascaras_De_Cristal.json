@@ -107,10 +107,10 @@
     "11_El_Farol.md": {
       "capitulo": 14,
       "titulo": "El farol",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-28",
-      "desde": "2026-10-28 10:19"
+      "desde": "2026-10-29 21:54"
     },
     "12_Roma_Atrii.md": {
       "capitulo": 15,
@@ -119,6 +119,14 @@
       "motivo": "",
       "audio": "2026-10-28",
       "desde": "2026-10-28 10:19"
+    },
+    "12b_Por_Su_Cuenta.md": {
+      "capitulo": 16,
+      "titulo": "Por su cuenta",
+      "estado": "SIN AUDIO",
+      "motivo": "",
+      "audio": "",
+      "desde": "2026-10-29 21:45"
     },
     "13_Auster.md": {
       "capitulo": 16,
@@ -163,10 +171,10 @@
     "18_El_Dia_Nublado.md": {
       "capitulo": 21,
       "titulo": "El día nublado",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-10-28",
-      "desde": "2026-10-29 01:08"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "19_Tierra_Buena.md": {
       "capitulo": 22,
@@ -195,282 +203,282 @@
     "22a_La_Cifra.md": {
       "capitulo": 25,
       "titulo": "La cifra",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "",
-      "desde": "2026-10-28 20:58"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "22b_Con_Su_Proveedor.md": {
       "capitulo": 26,
       "titulo": "Con su proveedor",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "",
-      "desde": "2026-10-28 21:10"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "23_La_Letra_Pequena.md": {
       "capitulo": 27,
       "titulo": "Nada caro",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "24_Bajo_Juramento.md": {
       "capitulo": 28,
       "titulo": "Bajo juramento",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "24b_Lo_Que_Cueste.md": {
       "capitulo": 29,
       "titulo": "Lo que cueste",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "24c_El_Corral.md": {
       "capitulo": 30,
       "titulo": "Oveja entre lobos",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "24d_Vienes_Conmigo.md": {
       "capitulo": 31,
       "titulo": "Vienes conmigo",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "",
-      "desde": "2026-10-29 00:27"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "25_Libros_Abiertos.md": {
       "capitulo": 32,
       "titulo": "Libros abiertos",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "26_Me_Encuentro_Bien.md": {
       "capitulo": 33,
       "titulo": "Me encuentro bien",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "27_Riesgo_Pendiente.md": {
       "capitulo": 34,
       "titulo": "Lleve equipaje",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "28_La_Correa.md": {
       "capitulo": 35,
       "titulo": "No hace falta",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "29_El_Patio_Ajeno.md": {
       "capitulo": 36,
       "titulo": "Una silla",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "30_Media_Baraja.md": {
       "capitulo": 37,
       "titulo": "Media Baraja",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "31_Vamos_A_Casa.md": {
       "capitulo": 38,
       "titulo": "Vamos a casa",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "32_Linea_Directa.md": {
       "capitulo": 39,
       "titulo": "Línea directa",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "33_Mas_De_La_Cuenta.md": {
       "capitulo": 40,
       "titulo": "Lo único que es mío",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "33b_La_Mano.md": {
       "capitulo": 41,
       "titulo": "La mano",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "34_Mi_Pareja.md": {
       "capitulo": 42,
       "titulo": "Mi pareja",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "35_Sin_Fecha_De_Regreso.md": {
       "capitulo": 43,
       "titulo": "Sin fecha de regreso",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "36_Tambien_Las_Mananas.md": {
       "capitulo": 44,
       "titulo": "También las mañanas",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "37_Cuatro_Letras.md": {
       "capitulo": 45,
       "titulo": "Cuatro letras",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "38_Al_Reves.md": {
       "capitulo": 46,
       "titulo": "Al revés",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "39_Un_Par_De_Dias_Mas.md": {
       "capitulo": 47,
       "titulo": "Un par de días más",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "40_Mecanico.md": {
       "capitulo": 48,
       "titulo": "Mecánico",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "41_La_Otra_Mitad.md": {
       "capitulo": 49,
       "titulo": "La otra mitad",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "42_Nada.md": {
       "capitulo": 50,
       "titulo": "Nada",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "43_La_Puerta.md": {
       "capitulo": 51,
       "titulo": "La puerta",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "44_Jurisdiccion.md": {
       "capitulo": 52,
       "titulo": "Jurisdicción",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "45_Ropa_Limpia.md": {
       "capitulo": 53,
       "titulo": "Ropa limpia",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "46_Llaves.md": {
       "capitulo": 54,
       "titulo": "Llaves",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "47_Intereses.md": {
       "capitulo": 55,
       "titulo": "Intereses",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "48_Su_Nombre.md": {
       "capitulo": 56,
       "titulo": "Su nombre",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "49_Enfrente.md": {
       "capitulo": 57,
       "titulo": "Por si vuelve",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "50_A_Oscuras.md": {
       "capitulo": 58,
       "titulo": "A oscuras",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-28",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     },
     "50b_La_Tierra_Bajo_Sus_Botas.md": {
       "capitulo": 59,
       "titulo": "La tierra bajo sus botas",
-      "estado": "SIN AUDIO",
+      "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-24",
-      "desde": "2026-10-28 21:19"
+      "audio": "2026-10-29",
+      "desde": "2026-10-29 02:12"
     }
   },
   "historial": [
@@ -1617,6 +1625,191 @@
     [
       "2026-10-29 01:08",
       "Cap. 21 (18_El_Dia_Nublado.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 21 (18_El_Dia_Nublado.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 25 (22a_La_Cifra.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 26 (22b_Con_Su_Proveedor.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 27 (23_La_Letra_Pequena.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 28 (24_Bajo_Juramento.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 29 (24b_Lo_Que_Cueste.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 30 (24c_El_Corral.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 31 (24d_Vienes_Conmigo.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 32 (25_Libros_Abiertos.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 33 (26_Me_Encuentro_Bien.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 34 (27_Riesgo_Pendiente.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 35 (28_La_Correa.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 36 (29_El_Patio_Ajeno.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 37 (30_Media_Baraja.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 38 (31_Vamos_A_Casa.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 39 (32_Linea_Directa.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 40 (33_Mas_De_La_Cuenta.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 41 (33b_La_Mano.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 42 (34_Mi_Pareja.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 43 (35_Sin_Fecha_De_Regreso.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 44 (36_Tambien_Las_Mananas.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 45 (37_Cuatro_Letras.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 46 (38_Al_Reves.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 47 (39_Un_Par_De_Dias_Mas.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 48 (40_Mecanico.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 49 (41_La_Otra_Mitad.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 50 (42_Nada.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 51 (43_La_Puerta.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 52 (44_Jurisdiccion.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 53 (45_Ropa_Limpia.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 54 (46_Llaves.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 55 (47_Intereses.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 56 (48_Su_Nombre.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 57 (49_Enfrente.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 58 (50_A_Oscuras.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 02:12",
+      "Cap. 59 (50b_La_Tierra_Bajo_Sus_Botas.md)",
+      "audio generado"
+    ],
+    [
+      "2026-10-29 21:54",
+      "Cap. 14 (11_El_Farol.md)",
       "audio pendiente: cambió la prosa"
     ]
   ]

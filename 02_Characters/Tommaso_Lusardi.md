@@ -19,6 +19,8 @@
 
 > Plan anterior retirado: [[97_Supersedido/Tommaso_Muere_Al_Abrir_Libro_II]].
 
+> **CANON DEL AUTOR (2026-10-29) — el torneo de Walt ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Arco_Walt_Condicional]]):** firma el contrato de suministro de la destilería; marca a Walt *verificar solvencia*; ata los cabos del torneo secreto y se lo dice a Chiara en una línea («Es solvente. *Invitado de la dirección.* Buena versión.», DISEÑO) **sin pedir nada**. Guarda la carta; no la gasta. Cobro: en *Sombras de Poder*, cuando forma el frente funcional con Chiara, el lector sabe que pudo usarla y no lo hizo.
+
 > **CANON DEL AUTOR (2026-10-28) — el robo del Monarch ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Robo_Monarch]]).** Roce con Kal por la participación de él y de los muchachos en asuntos del casino; empuja la sospecha sobre Kenji. Encuentra a la valet que dio el dato (Mei-Lin) y la recluta como fuente: inicio de la línea Tommaso → Mei-Lin. **DISEÑO:** entregar a Kenji le parece la salida racional (un soplón interno cierra el caso sin que nadie mire la caja); la suelta de golpe cuando tiene a la valet, y Chiara lo nota. Cree que se robó efectivo: no sabe de las rutas. Nota que Dario nunca preguntó qué había en la caja.
 
 ---
