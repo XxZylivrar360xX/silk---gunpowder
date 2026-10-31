@@ -62,7 +62,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-10-31",
-      "desde": "2026-10-31 12:46"
+      "desde": "2026-10-31 13:36"
     },
     "07_La_Noche_Del_Ladrillo.md": {
       "capitulo": 9,
@@ -110,7 +110,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-10-31",
-      "desde": "2026-10-31 13:13"
+      "desde": "2026-10-31 13:36"
     },
     "12_Roma_Atrii.md": {
       "capitulo": 15,
@@ -206,7 +206,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-10-31",
-      "desde": "2026-10-31 12:46"
+      "desde": "2026-10-31 13:36"
     },
     "22b_Con_Su_Proveedor.md": {
       "capitulo": 27,
@@ -246,7 +246,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-10-31",
-      "desde": "2026-10-31 13:13"
+      "desde": "2026-10-31 13:36"
     },
     "24d_Vienes_Conmigo.md": {
       "capitulo": 32,
@@ -2439,6 +2439,46 @@
     ],
     [
       "2026-10-31 13:13",
+      "Cap. 31 (24c_El_Corral.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-31 13:27",
+      "Cap. 8 (06_Ambos.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-31 13:27",
+      "Cap. 14 (11_El_Farol.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-31 13:27",
+      "Cap. 26 (22a_La_Cifra.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-31 13:27",
+      "Cap. 31 (24c_El_Corral.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-31 13:36",
+      "Cap. 8 (06_Ambos.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-31 13:36",
+      "Cap. 14 (11_El_Farol.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-31 13:36",
+      "Cap. 26 (22a_La_Cifra.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-31 13:36",
       "Cap. 31 (24c_El_Corral.md)",
       "audio regenerado"
     ]

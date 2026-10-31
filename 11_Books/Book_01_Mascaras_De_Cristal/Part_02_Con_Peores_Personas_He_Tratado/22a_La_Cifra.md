@@ -336,7 +336,7 @@ Chiara no contestó enseguida. Tommaso tampoco la apuró: dejó que la pausa se 
 
 Lo dijo sin cambiar el tono. Era la propuesta más razonable que se iba a oír en la mesa, y los cuatro lo sabían.
 
-—Si entregamos a Kenji —dijo Chiara—, el que pasó la combinación sigue adentro. Y aprende que en este edificio, cuando algo sale mal, se paga con el primero que esté a mano. —Se acomodó una pulsera—. Kenji no fue. Lo respondo yo.
+—Si entregamos a Kenji —dijo Chiara—, el que pasó la combinación sigue adentro. Y aprende que en este edificio, cuando algo sale mal, se paga con el primero que esté a mano. —Se acomodó una pulsera—. Kenji no fue. Respondo yo por él.
 
 —¿Con qué?
 

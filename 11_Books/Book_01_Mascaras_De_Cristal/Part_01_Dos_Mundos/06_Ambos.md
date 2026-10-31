@@ -459,7 +459,7 @@ Y a Chiara se le empezó a colar el italiano entre las palabras. Le pasaba cuand
 
 —¿Eso se lo dijiste a los chicos?
 
-—A ellos se los repetí.
+—A ellos se lo repetí.
 
 No fue un recorrido ordenado. Fue ella caminando descalza por el penthouse y él detrás, deteniéndose en cosas que no eran suyas: pasó la mano por la encimera de una cocina que nadie usaba, abrió un cajón y lo encontró vacío. La bocina los siguió de cuarto en cuarto a un volumen que nunca terminaba de justificar el nombre de música de fondo.
 

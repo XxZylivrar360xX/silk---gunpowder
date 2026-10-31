@@ -25,3 +25,17 @@ Cada reemplazo con una sola coincidencia. `build_audiobook.py --estado`: 5 capí
 
 Las dudas menores del handoff (caps. 8, 14, 26 y 31) siguen sin tocar.
 - Retiro posterior en PENDING: regla 05 reducida a sus dudas menores; exportación al 2026-10-31; fuera los cabos ya resueltos (renumeración a 58, «No hay veinte como él», billar/Irene compactado). PENDING en 775 palabras.
+
+## Dudas menores (SURGERY, `editorial-surgery`, por orden del autor)
+
+| Cap. (archivo) | Antes | Después | Razón |
+|---|---|---|---|
+| 8 (06) | «—A ellos se los repetí.» | «—A ellos se lo repetí.» | Concordancia: el «lo» es «eso»; «se los» es coloquial, fuera del registro neutro. Cap. TERMINADO: corrección mecánica, no de voz. |
+| 14 (11) | «Lo encontró al mediodía» | «Lo encontró a media mañana» | Walt «tiene que estar allá a las doce» y se va caminando: al mediodía ya iba tarde. |
+| 14 (11) | «—Esta mañana no me dijo que venía a jugar.» | «—Esta mañana se lo dijo a Mabel. A mí no.» | Chiara oyó «Hoy juego» (dicho a la barra); el reproche ahora es que no se lo dijo a ella. |
+| 26 (22a) | «Kenji no fue. Lo respondo yo.» | «Kenji no fue. Respondo yo por él.» | Calco de *rispondo io*; la voz de Chiara es precisa y su italiano sale en italiano, no en calco. |
+| 31 (24c) | «Kal tardó un segundo de más.» | «Kal tardó en obedecer.» | Segundo «un segundo de más» del capítulo (el otro, al teléfono, se queda); responde a «Suéltela, señor». |
+
+**Protegidas:** «Le escucho» (26, leísmo de cortesía admitido, voz telefónica de Chiara con un desconocido). «Que se mejore» en Collins y Dario (31): eco de dos personajes distintos, policía y mafia, con la misma fórmula vacía ante Chiara; Dario añade «pronto». Se conserva como eco irónico.
+
+**Autocrítica:** el cambio del 14 es el único que reformula diálogo; su riesgo es explicitar el subtexto («A mí no»). Se eligió porque la versión anterior contradecía la escena de la mañana. Si el autor prefiere el reproche más seco, la alternativa es «—Esta mañana no me lo dijo a mí.»

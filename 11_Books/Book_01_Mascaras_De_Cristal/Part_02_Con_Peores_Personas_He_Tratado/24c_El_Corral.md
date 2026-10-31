@@ -165,7 +165,7 @@ Eran dos paramédicos. Uno se arrodilló del otro lado y le puso las manos encim
 
 —Ya la tengo —dijo—. Suéltela, señor.
 
-Kal tardó un segundo de más. Después sacó las manos.
+Kal tardó en obedecer. Después sacó las manos.
 
 La vio desde un paso atrás, que era donde le dijeron que se pusiera: el collarín, la tabla, cuatro manos contando hasta tres para girarla de una sola pieza. Le preguntaron qué había pasado y les dio lo único cierto que tenía.
 

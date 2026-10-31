@@ -37,7 +37,7 @@ Kal decía que siempre había sido así. Chiara no había conocido al Walt de an
 
 El último martes de febrero no estaba en la banca.
 
-Lo encontró al mediodía, al salir del ayuntamiento con los permisos de la terraza del Monarch bajo el brazo, en la acera, dos puertas más abajo, frente a una oficina con el escudo del estado y un letrero de letras doradas: COMISIÓN DE LICORES. Tenía una carta abierta en la mano y la estaba leyendo por segunda vez. Lo supo porque fue directo a la segunda hoja.
+Lo encontró a media mañana, al salir del ayuntamiento con los permisos de la terraza del Monarch bajo el brazo, en la acera, dos puertas más abajo, frente a una oficina con el escudo del estado y un letrero de letras doradas: COMISIÓN DE LICORES. Tenía una carta abierta en la mano y la estaba leyendo por segunda vez. Lo supo porque fue directo a la segunda hoja.
 
 —Señor Keegan.
 
@@ -353,7 +353,7 @@ Walt levantó la vista sin apurarse.
 
 Chiara se sentó en la silla vacía a su lado, la del jugador que había abandonado la mesa una hora antes con menos dinero del que había traído.
 
-—Esta mañana no me dijo que venía a jugar.
+—Esta mañana se lo dijo a Mabel. A mí no.
 
 Walt no contestó.
 
