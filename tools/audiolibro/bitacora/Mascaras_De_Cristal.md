@@ -2,13 +2,11 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-30 23:12. Al día: 59 de 60.
+Actualizada: 2026-10-30 23:20. Al día: 60 de 60.
 
 ## Pendientes
 
-| Cap. | Título | Estado | Motivo | Desde |
-|---|---|---|---|---|
-| 8 | Ambos | PENDIENTE | cambió la prosa | 2026-10-30 23:12 |
+Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Capítulos
 
@@ -21,7 +19,7 @@ Actualizada: 2026-10-30 23:12. Al día: 59 de 60.
 | 5 | Cliente y proveedor | AL DIA | 2026-10-24 |
 | 6 | Sin llamar a nadie | AL DIA | 2026-10-24 |
 | 7 | La pizza de calabaza | AL DIA | 2026-10-24 |
-| 8 | Ambos | PENDIENTE | 2026-10-24 |
+| 8 | Ambos | AL DIA | 2026-10-30 |
 | 9 | La noche del ladrillo | AL DIA | 2026-10-24 |
 | 10 | La carrera de máscaras | AL DIA | 2026-10-25 |
 | 11 | La teniente | AL DIA | 2026-10-24 |
@@ -77,6 +75,7 @@ Actualizada: 2026-10-30 23:12. Al día: 59 de 60.
 
 ## Historial
 
+- 2026-10-30 23:20 · Cap. 8 (06_Ambos.md) · audio regenerado
 - 2026-10-30 23:12 · Cap. 8 (06_Ambos.md) · audio pendiente: cambió la prosa
 - 2026-10-30 00:54 · Cap. 34 (26_Me_Encuentro_Bien.md) · audio regenerado
 - 2026-10-30 00:54 · Cap. 26 (22a_La_Cifra.md) · audio regenerado
