@@ -59,34 +59,34 @@
     "06_Ambos.md": {
       "capitulo": 8,
       "titulo": "Ambos",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-10-30",
-      "desde": "2026-10-31 12:24"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-10-31",
+      "desde": "2026-10-31 12:46"
     },
     "07_La_Noche_Del_Ladrillo.md": {
       "capitulo": 9,
       "titulo": "La noche del ladrillo",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-10-24",
-      "desde": "2026-10-31 12:24"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-10-31",
+      "desde": "2026-10-31 12:46"
     },
     "08_La_Carrera_De_Mascaras.md": {
       "capitulo": 10,
       "titulo": "La carrera de máscaras",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-10-25",
-      "desde": "2026-10-31 12:24"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-10-31",
+      "desde": "2026-10-31 12:46"
     },
     "08b_La_Sargenta.md": {
       "capitulo": 11,
       "titulo": "La teniente",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-10-24",
-      "desde": "2026-10-31 12:24"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-10-31",
+      "desde": "2026-10-31 12:46"
     },
     "09_La_Balanza.md": {
       "capitulo": 12,
@@ -107,10 +107,10 @@
     "11_El_Farol.md": {
       "capitulo": 14,
       "titulo": "El farol",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-10-29",
-      "desde": "2026-10-31 12:24"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-10-31",
+      "desde": "2026-10-31 12:46"
     },
     "12_Roma_Atrii.md": {
       "capitulo": 15,
@@ -123,10 +123,10 @@
     "12b_Por_Su_Cuenta.md": {
       "capitulo": 16,
       "titulo": "Por su cuenta",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-10-29",
-      "desde": "2026-10-31 12:24"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-10-31",
+      "desde": "2026-10-31 12:46"
     },
     "13_Auster.md": {
       "capitulo": 17,
@@ -203,18 +203,18 @@
     "22a_La_Cifra.md": {
       "capitulo": 26,
       "titulo": "La cifra",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-10-30",
-      "desde": "2026-10-31 12:24"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-10-31",
+      "desde": "2026-10-31 12:46"
     },
     "22b_Con_Su_Proveedor.md": {
       "capitulo": 27,
       "titulo": "Con su proveedor",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-10-29",
-      "desde": "2026-10-31 12:24"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-10-31",
+      "desde": "2026-10-31 12:46"
     },
     "23_La_Letra_Pequena.md": {
       "capitulo": 28,
@@ -243,10 +243,10 @@
     "24c_El_Corral.md": {
       "capitulo": 31,
       "titulo": "Oveja entre lobos",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-10-29",
-      "desde": "2026-10-31 12:24"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-10-31",
+      "desde": "2026-10-31 12:46"
     },
     "24d_Vienes_Conmigo.md": {
       "capitulo": 32,
@@ -2346,6 +2346,51 @@
       "2026-10-31 12:24",
       "Cap. 31 (24c_El_Corral.md)",
       "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-31 12:46",
+      "Cap. 8 (06_Ambos.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-31 12:46",
+      "Cap. 9 (07_La_Noche_Del_Ladrillo.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-31 12:46",
+      "Cap. 10 (08_La_Carrera_De_Mascaras.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-31 12:46",
+      "Cap. 11 (08b_La_Sargenta.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-31 12:46",
+      "Cap. 14 (11_El_Farol.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-31 12:46",
+      "Cap. 16 (12b_Por_Su_Cuenta.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-31 12:46",
+      "Cap. 26 (22a_La_Cifra.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-31 12:46",
+      "Cap. 27 (22b_Con_Su_Proveedor.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-31 12:46",
+      "Cap. 31 (24c_El_Corral.md)",
+      "audio regenerado"
     ]
   ]
 }

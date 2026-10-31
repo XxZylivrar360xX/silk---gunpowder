@@ -2,21 +2,11 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-31 12:24. Al día: 51 de 60.
+Actualizada: 2026-10-31 12:46. Al día: 60 de 60.
 
 ## Pendientes
 
-| Cap. | Título | Estado | Motivo | Desde |
-|---|---|---|---|---|
-| 8 | Ambos | PENDIENTE | cambió la prosa | 2026-10-31 12:24 |
-| 9 | La noche del ladrillo | PENDIENTE | cambió la prosa | 2026-10-31 12:24 |
-| 10 | La carrera de máscaras | PENDIENTE | cambió la prosa | 2026-10-31 12:24 |
-| 11 | La teniente | PENDIENTE | cambió la prosa | 2026-10-31 12:24 |
-| 14 | El farol | PENDIENTE | cambió la prosa | 2026-10-31 12:24 |
-| 16 | Por su cuenta | PENDIENTE | cambió la prosa | 2026-10-31 12:24 |
-| 26 | La cifra | PENDIENTE | cambió la prosa | 2026-10-31 12:24 |
-| 27 | Con su proveedor | PENDIENTE | cambió la prosa | 2026-10-31 12:24 |
-| 31 | Oveja entre lobos | PENDIENTE | cambió la prosa | 2026-10-31 12:24 |
+Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Capítulos
 
@@ -29,15 +19,15 @@ Actualizada: 2026-10-31 12:24. Al día: 51 de 60.
 | 5 | Cliente y proveedor | AL DIA | 2026-10-24 |
 | 6 | Sin llamar a nadie | AL DIA | 2026-10-24 |
 | 7 | La pizza de calabaza | AL DIA | 2026-10-24 |
-| 8 | Ambos | PENDIENTE | 2026-10-30 |
-| 9 | La noche del ladrillo | PENDIENTE | 2026-10-24 |
-| 10 | La carrera de máscaras | PENDIENTE | 2026-10-25 |
-| 11 | La teniente | PENDIENTE | 2026-10-24 |
+| 8 | Ambos | AL DIA | 2026-10-31 |
+| 9 | La noche del ladrillo | AL DIA | 2026-10-31 |
+| 10 | La carrera de máscaras | AL DIA | 2026-10-31 |
+| 11 | La teniente | AL DIA | 2026-10-31 |
 | 12 | La balanza | AL DIA | 2026-10-28 |
 | 13 | Dos sillas vacías | AL DIA | 2026-10-28 |
-| 14 | El farol | PENDIENTE | 2026-10-29 |
+| 14 | El farol | AL DIA | 2026-10-31 |
 | 15 | Roma Atrii | AL DIA | 2026-10-28 |
-| 16 | Por su cuenta | PENDIENTE | 2026-10-29 |
+| 16 | Por su cuenta | AL DIA | 2026-10-31 |
 | 17 | Auster | AL DIA | 2026-10-29 |
 | 18 | La regla del teléfono | AL DIA | 2026-10-29 |
 | 19 | Yo lo llevo | AL DIA | 2026-10-29 |
@@ -47,12 +37,12 @@ Actualizada: 2026-10-31 12:24. Al día: 51 de 60.
 | 23 | Lo que nadie estaba mirando | AL DIA | 2026-10-29 |
 | 24 | Lo pequeño | AL DIA | 2026-10-29 |
 | 25 | El primer huésped | AL DIA | 2026-10-29 |
-| 26 | La cifra | PENDIENTE | 2026-10-30 |
-| 27 | Con su proveedor | PENDIENTE | 2026-10-29 |
+| 26 | La cifra | AL DIA | 2026-10-31 |
+| 27 | Con su proveedor | AL DIA | 2026-10-31 |
 | 28 | Nada caro | AL DIA | 2026-10-29 |
 | 29 | Bajo juramento | AL DIA | 2026-10-29 |
 | 30 | Lo que cueste | AL DIA | 2026-10-29 |
-| 31 | Oveja entre lobos | PENDIENTE | 2026-10-29 |
+| 31 | Oveja entre lobos | AL DIA | 2026-10-31 |
 | 32 | Vienes conmigo | AL DIA | 2026-10-29 |
 | 33 | Libros abiertos | AL DIA | 2026-10-29 |
 | 34 | Me encuentro bien | AL DIA | 2026-10-30 |
@@ -85,6 +75,15 @@ Actualizada: 2026-10-31 12:24. Al día: 51 de 60.
 
 ## Historial
 
+- 2026-10-31 12:46 · Cap. 31 (24c_El_Corral.md) · audio regenerado
+- 2026-10-31 12:46 · Cap. 27 (22b_Con_Su_Proveedor.md) · audio regenerado
+- 2026-10-31 12:46 · Cap. 26 (22a_La_Cifra.md) · audio regenerado
+- 2026-10-31 12:46 · Cap. 16 (12b_Por_Su_Cuenta.md) · audio regenerado
+- 2026-10-31 12:46 · Cap. 14 (11_El_Farol.md) · audio regenerado
+- 2026-10-31 12:46 · Cap. 11 (08b_La_Sargenta.md) · audio regenerado
+- 2026-10-31 12:46 · Cap. 10 (08_La_Carrera_De_Mascaras.md) · audio regenerado
+- 2026-10-31 12:46 · Cap. 9 (07_La_Noche_Del_Ladrillo.md) · audio regenerado
+- 2026-10-31 12:46 · Cap. 8 (06_Ambos.md) · audio regenerado
 - 2026-10-31 12:24 · Cap. 31 (24c_El_Corral.md) · audio pendiente: cambió la prosa
 - 2026-10-31 12:24 · Cap. 27 (22b_Con_Su_Proveedor.md) · audio pendiente: cambió la prosa
 - 2026-10-31 12:24 · Cap. 26 (22a_La_Cifra.md) · audio pendiente: cambió la prosa
