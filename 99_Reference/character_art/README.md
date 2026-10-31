@@ -2,6 +2,8 @@
 
 Arte de referencia visual (estilo anime) para los personajes originales de la novela. No es canon narrativo: sirve como apoyo de diseño entre sesiones. Las tres hojas iniciales tienen sus verificaciones registradas abajo; los nueve archivos añadidos el 2026-09-11 fueron revisados visualmente e integrados en siete fichas, con las discrepancias señaladas.
 
+> **Estilo vigente desde 2026-10-30 (decisión del autor): anime.** Las ilustraciones nuevas siguen [[99_Reference/character_art/anime/README]], que fija la identidad visual de Kal y Chiara. Las láminas de esta página y de `character_props/` quedan como referencia histórica: sirven para vestuario y composición, no para rostro ni estilo de dibujo.
+
 ## Criterio de uso
 
 Por encargo del autor (2026-09-11), las fichas muestran las imágenes y desarrollan su lectura conceptual bajo **DISEÑO**. El canon escrito conserva prioridad. Un rasgo nuevo observado en el arte no se vuelve automáticamente canon; tampoco los rótulos, logotipos, edificios, accesorios o poses establecen acontecimientos, biografía o hábitos. Las imágenes originales se conservan intactas.

@@ -62,7 +62,13 @@ Se viste como si el día pudiera terminar debajo de un coche, porque normalmente
 
 ---
 
-## Referencia visual — DISEÑO (2026-09-11)
+## Referencia visual vigente — estilo anime (2026-10-30)
+
+![[99_Reference/character_art/anime/Kal_Mercer_Retrato_Taller.png|480]]
+
+Desde 2026-10-30 (decisión del autor) las ilustraciones usan este estilo; esta lámina es la referencia de identidad. Láminas por capítulo, verificación y controles en [[99_Reference/character_art/anime/README]]. Las imágenes de abajo quedan como referencia histórica de vestuario y composición.
+
+## Referencia visual anterior — DISEÑO (2026-09-11)
 
 ![[99_Reference/character_props/Perfil_Kal_Mercer.png|360]]
 ![[99_Reference/character_art/Kal_Mercer.png|480]]

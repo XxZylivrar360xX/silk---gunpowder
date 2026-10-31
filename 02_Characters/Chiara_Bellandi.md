@@ -63,7 +63,13 @@ El único tic que no controla: cuando algo la sorprende de verdad, se toca el an
 
 ---
 
-## Referencia visual — DISEÑO (2026-09-11)
+## Referencia visual vigente — estilo anime (2026-10-30)
+
+![[99_Reference/character_art/anime/Chiara_Bellandi_Retrato.png|480]]
+
+Desde 2026-10-30 (decisión del autor) las ilustraciones usan este estilo; esta lámina es la referencia de identidad. Láminas por capítulo, verificación y controles en [[99_Reference/character_art/anime/README]]. Las imágenes de abajo quedan como referencia histórica de vestuario y composición.
+
+## Referencia visual anterior — DISEÑO (2026-09-11)
 
 ![[99_Reference/character_props/Perfil_Chiara_Bellandi.png|360]]
 ![[99_Reference/character_art/Chiara_Bellandi.png|480]]

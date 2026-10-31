@@ -59,10 +59,10 @@
     "06_Ambos.md": {
       "capitulo": 8,
       "titulo": "Ambos",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 15:47"
+      "desde": "2026-10-30 23:12"
     },
     "07_La_Noche_Del_Ladrillo.md": {
       "capitulo": 9,
@@ -2291,6 +2291,11 @@
       "2026-10-30 00:54",
       "Cap. 34 (26_Me_Encuentro_Bien.md)",
       "audio regenerado"
+    ],
+    [
+      "2026-10-30 23:12",
+      "Cap. 8 (06_Ambos.md)",
+      "audio pendiente: cambió la prosa"
     ]
   ]
 }

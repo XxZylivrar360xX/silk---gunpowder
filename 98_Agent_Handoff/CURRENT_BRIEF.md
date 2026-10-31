@@ -36,6 +36,7 @@ Detalle: [[98_Agent_Handoff/DECISIONS]].
 
 ## Canon menor vigente
 
+- **Ilustraciones (2026-10-30, autor):** estilo anime vigente; referencia en [[99_Reference/character_art/anime/README]].
 - La mano por la cara es gesto sólo de Kal; Chiara juega con joyas o uñas; "dos dedos" es de Walt.
 - Tommaso llama a Chiara "Bellandi". Rowe le debe un favor a Chiara (archivo 09). Kal absorbe Eagle Eye en el II (Charles).
 - Chiara, socia minoritaria de la destilería; 1.80 m. Harper creció en un rancho. Garrett pilotó en el ejército. Penalista de Chiara: Krane. Collins, castaño cobrizo.
