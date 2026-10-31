@@ -4,7 +4,7 @@ Actualizado: 2026-10-29. Máximo 800 palabras. **Numeración de 60 desde 2026-10
 
 ## Foco y siguiente paso
 
-1. **Libro I, lectura del autor** de los borradores y la prosa DISEÑO de abajo. Rutas en [[98_Agent_Handoff/PENDING]]. En curso (2026-10-31): lectura del Cap. 34 al 60 con [[98_Agent_Handoff/sessions/2026-10-31_claude_guia_lectura_caps34_60]]. CANON 2026-10-31: «recupere esto; aquí no pasó nada» va a la base, no a Kal.
+1. **Libro I, lectura del autor** de los borradores y la prosa DISEÑO de abajo. Rutas en [[98_Agent_Handoff/PENDING]]. En curso (2026-10-31): lectura del Cap. 34 al 60 con [[98_Agent_Handoff/sessions/2026-10-31_claude_guia_lectura_caps34_60]]. CANON 2026-10-31: «recupere esto; aquí no pasó nada» va a la base, no a Kal. Regla 05 completada en todo el libro; 7 propuestas abiertas en [[98_Agent_Handoff/sessions/2026-10-31_handoff_regla05_abiertas]].
 2. **Libro II, *Sombras de Poder*** (diseño activo; prosa bloqueada hasta cerrar el I): [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 caps., DISEÑO), [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]], [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]]. Esperan respuesta del autor: F2, semillas Kal–Chiara, voces REL-01, Navidad de Almendra Towing (en pausa).
 
 ## Borradores recientes que esperan lectura (Libro I)
