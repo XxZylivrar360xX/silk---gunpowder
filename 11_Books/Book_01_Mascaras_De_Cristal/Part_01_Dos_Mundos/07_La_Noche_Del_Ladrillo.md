@@ -142,7 +142,7 @@ Dario Varek estaba saliendo cuando ella llegó a la puerta.
 
 —Los preparativos del torneo van bien. Tommaso me lo confirmó esta mañana. —Miró hacia la calle, no a ella—. ¿El señor Mercer viene esta noche?
 
-—No sabría decirle. Trabaja para el Monarch, no para Gabriella's.
+—No sabría decirle. Trabaja para el Monarch.
 
 —Para el Monarch. —Dario dejó que la palabra se quedara un momento entre los dos—. Que disfrute la fiesta, signora.
 
@@ -226,9 +226,7 @@ Chiara le dio en el brazo con el dorso de la mano.
 
 Chiara soltó la sonrisa. No sabía que la traía puesta todavía.
 
-Un mesero pasó con una charola de copas. Kal tomó dos, le dio una y levantó la suya sin ceremonia.
-
-—Por las fiestas donde no combinas.
+Un mesero pasó con una charola de copas. Kal tomó dos, le dio una y levantó la suya sin brindar por nada.
 
 —Por las calcetas blancas.
 
@@ -292,9 +290,9 @@ No fue difícil disimular el resto de la noche. Lo difícil fue que Blake, que n
 
 El nombre, en su boca, sonó más informado de lo que a Chiara le habría gustado. Pero las grúas de Almendra Towing levantaban lo que el Departamento mandaba levantar; un oficial de tránsito tenía que conocer el nombre del dueño.
 
-—No sé de qué hablas.
+Chiara no contestó. Blake dio un paso más cerca, y algo en la cara se le puso feo, la vanidad de toda la noche convertida en otra cosa.
 
-—Sí sabes. —Dio un paso más cerca, y algo en la cara se le puso feo, la vanidad de toda la noche convertida en otra cosa—. ¿Qué tiene ese mecánico de barrio que no tenga yo?
+—¿Qué tiene ese mecánico de barrio que no tenga yo?
 
 —No se trata de eso.
 
@@ -315,10 +313,6 @@ Blake se rió, sin nada de humor en la risa.
 —No tengo que darte explicaciones de con quién me río.
 
 —No, claro que no. —Se cruzó de brazos, mirándola de arriba abajo como quien revisa una compra que salió mal—. Debe ser agotador bajar tanto el nivel. Aunque imagino que a las mujeres como tú les gusta coleccionar un poco de todo.
-
-—¿Qué acabas de decir?
-
-—Ya me oíste.
 
 Chiara lo miró un segundo entero, dejando que el silencio hiciera el trabajo que las palabras todavía no estaban listas para hacer.
 

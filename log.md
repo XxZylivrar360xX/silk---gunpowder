@@ -4,6 +4,8 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-10-31: [[98_Agent_Handoff/sessions/2026-10-31_claude_regla05_capitulos_faltantes]] · Regla 05 en los caps. que faltaban (8–11, 14, 16, 26–27, 31–32) con 9 subagentes: 36 cortes aplicados por orden del autor (DISEÑO, espera lectura); 7 abiertas; 24d sin cambios; el 60 no tiene diálogo.
+- 2026-10-31: [[98_Agent_Handoff/sessions/2026-10-31_claude_guia_lectura_caps34_60]] · Cierre del Libro I. CANON DEL AUTOR: «recupere esto; aquí no pasó nada» (Halbrook) va a la base, no a Kal. Guía de lectura por capítulo del 34 al 60 para el autor; corrección del brief (Vento, archivo 33). Sin prosa.
 - 2026-10-30: [[98_Agent_Handoff/sessions/2026-10-30_claude_ilustraciones_anime]] · Ilustraciones: estilo anime vigente por decisión del autor; 12 láminas de Kal y Chiara del buzón a `99_Reference/character_art/anime/`, fichas apuntan al retrato base. Camisola de *Ambos* pasa a satín azul cielo liso en la prosa del Cap. 8 (autor).
 - 2026-10-30: [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op02_op04_op05_op07]] · Estudio sin beta de OP-02, OP-04, OP-05 y OP-07 (reseña ChatGPT): reentradas del 26 (Matteo, la más fría), hilos I→II (Nat se esfuma tras el 16; Halbrook sin siembra en I, por diseño), Kal y Chiara sin defecto. Timeline del Libro I sincronizado con el corte en 25. Sin prosa.
 - 2026-10-30: [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op03_robo_monarch]] · Estudio de OP-03 (robo del Monarch, Caps. 26–27): mecánica se sostiene; P1 (contrato con el Departamento y con el edificio) y P2 («la de Dario») aplicados en el 26 con autorización del autor.
@@ -32,8 +34,6 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_por_si_vuelve_cap55]] · Cap. 55: regla 05 en *Por si vuelve* (fuera «¿Copia qué?», «No pedía», «¿Usted puede?» / «¿Cuándo?», «El edificio tiene dueño», «¿Quién ganó?», «¿Yo qué?», «Ya sé que no está», «¿Así cómo?»; Valenti y Fabrizio en canon intactos). DISEÑO, espera lectura; sin audiolibro.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_su_nombre_cap54]] · Cap. 54: regla 05 en *Su nombre* (fuera «Es no», «¿Eso dijo?», «Por eso vine en persona», el eco «Menos él», «¿Para qué?», «Nada más» y preguntas de trámite; «Su nombre», «De nadie», «Usted no va» y «De esto no cobro» intactos). DISEÑO, espera lectura; sin audiolibro.
 - 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_llaves_cap52]] · Cap. 52: regla 05 en *Llaves* (fuera el interrogatorio a Danny, «Ahora el de él», «¿Contando qué?», «¿Y la mochila?» y «No lo sabemos»; pagos del 47 y B2 intactos). DISEÑO, espera lectura; sin audiolibro.
-- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_ropa_limpia_cap51]] · Cap. 51: regla 05 en *Ropa limpia* (fuera ecos de Kenji, Krane, recepcionista, Bonnie, Rosaura y el «Kingsley queda lejos» de Mabel; «Eso no lo decides tú», «Porque no» y «Se lo iba a pedir» intactos). DISEÑO.
-- 2026-10-28: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_la_puerta_cap49]] · Cap. 49: regla 05 en *La puerta* (fuera tres ecos: Héctor, Garrett y Dario por teléfono; «No pregunté eso» y «Van a estar completas» intactos); prosa DISEÑO pendiente de lectura.
 
 ## Historial
 

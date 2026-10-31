@@ -119,7 +119,7 @@ El juez esperó.
 
 —¿Por qué no?
 
-—Porque estaba en libertad condicional y no quería que pareciera que lo hacía para esto. —Mabel miró al juez como miraba a los que le pedían fiado—. Y mire.
+—Porque estaba en libertad condicional. —Mabel miró al juez como miraba a los que le pedían fiado—. Y mire.
 
 La fiscal escribió algo. El juez se inclinó un poco.
 
@@ -157,7 +157,7 @@ Walt señaló con la barbilla hacia la esquina, dos cuadras más allá, donde co
 
 —Son las diez y media.
 
-—Y es un bar de policías. —Walt bajó el escalón—. Siete meses pidiendo permiso para cruzar el condado, Mercer. Hoy entro donde quiero, pido lo que quiero, y que me vean.
+—Y es un bar de policías. —Walt bajó el escalón—. Siete meses pidiendo permiso para cruzar el condado, Mercer.
 
 Mabel le quitó una migaja de concha de la solapa, la dejó caer en la escalinata y se fue a abrir La Esquina sin despedirse. A los tres pasos se volvió.
 
@@ -180,8 +180,6 @@ Nat lo miró a los ojos. Después las manos. Kal le había visto esa mirada en u
 —Turno el jueves —dijo—. Hasta las siete.
 
 —Entonces no vas.
-
-—Entonces no voy.
 
 Se fue hacia el estacionamiento. Walt la siguió con la vista hasta que dobló la esquina y después se acomodó la manga del saco, que no necesitaba acomodo.
 
@@ -275,7 +273,7 @@ Chiara no dejó de comer.
 
 —No me dijiste.
 
-—No me preguntaste. —Dejó el tenedor en el plato—. Y no era tuya, tesoro. Era de él. Se la di a él, y él decidió si la usaba.
+—No era tuya, tesoro. —Dejó el tenedor en el plato—. Era de él. Se la di a él, y él decidió si la usaba.
 
 Kal secó la sartén y la colgó. El juez había leído la línea del pago exacto, y Kal la había reconocido como se reconoce algo visto muchas veces y nunca dicho: Walt contando monedas en la palma en La Esquina, Walt devolviendo en la casa común el cambio de un refresco. Lo había visto toda la vida. Nunca lo había puesto en una frase.
 
@@ -359,7 +357,7 @@ El hombre repartió los billetes en dos bolsillos distintos, se puso la gorra, l
 
 —Al final le pagaste lo que pidió —dijo Kal.
 
-—Le pagué lo que se debía. Lo otro es el primer hielo. —Walt le sirvió café de un termo que había traído de su casa—. No es lo mismo.
+—Lo otro es el primer hielo. —Walt le sirvió café de un termo que había traído de su casa.
 
 Kal dejó un billete en la barra. Walt lo tomó, abrió la caja registradora, que sonó como si llevara meses esperando, y le devolvió el cambio exacto, moneda por moneda, sobre la madera.
 

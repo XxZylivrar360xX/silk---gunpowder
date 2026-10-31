@@ -172,8 +172,6 @@ Charles no contestó.
 
 —La policía se lleva los originales.
 
-—Por eso.
-
 Charles lo miró un momento. Después buscó en un cajón una memoria USB con el logotipo de una feria de seguridad de hacía dos años, la metió en la computadora y se quedó mirando la barra de copia como si pudiera apurarla.
 
 Mientras esperaba, Kal leyó la pared. Junto a la puerta había un pizarrón blanco con los turnos de la semana, nombres a marcador azul en tres columnas. En la de la noche, uno estaba tachado con una raya gruesa, de las que se hacen apretando, y escrito otra vez en la columna del día.
@@ -338,7 +336,7 @@ Chiara no contestó enseguida. Tommaso tampoco la apuró: dejó que la pausa se 
 
 Lo dijo sin cambiar el tono. Era la propuesta más razonable que se iba a oír en la mesa, y los cuatro lo sabían.
 
-—Si entregamos a Kenji —dijo Chiara—, el que pasó la combinación sigue adentro. Y aprende que en este edificio, cuando algo sale mal, se paga con el primero que esté a mano. —Se acomodó una pulsera que no se había movido—. Kenji no fue. Lo respondo yo.
+—Si entregamos a Kenji —dijo Chiara—, el que pasó la combinación sigue adentro. Y aprende que en este edificio, cuando algo sale mal, se paga con el primero que esté a mano. —Se acomodó una pulsera—. Kenji no fue. Lo respondo yo.
 
 —¿Con qué?
 
@@ -354,7 +352,7 @@ Kal no se movió de donde estaba.
 
 —Trabaja para quién, exactamente. —Tommaso se acomodó el puño de la camisa—. El casino tiene seguridad contratada. Tiene socios. Tiene una subjefa de policía en el pasillo. No sé en qué momento esto se volvió asunto de un taller.
 
-—Desde que salieron por un lote que nadie estaba mirando —dijo Kal, con la misma voz con que cotizaba un arrastre—. Y no es el taller. Es una empresa de seguridad.
+—Desde que salieron por un lote que nadie estaba mirando —dijo Kal, con la misma voz con que cotizaba un arrastre—. Es una empresa de seguridad.
 
 —¿Con licencia?
 
@@ -414,7 +412,7 @@ Kal la esperó en el pasillo de servicio, junto al elevador de carga, con la car
 
 —¿Anoche?
 
-—Anoche no estaba. Ya lo vi en la lista.
+—No estaba. Ya lo vi en la lista.
 
 Kal asintió. Se cambió la carpeta de brazo.
 

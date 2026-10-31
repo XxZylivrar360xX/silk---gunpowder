@@ -30,7 +30,7 @@ Estaba sentado en el archivero de la oficina del taller, con la computadora de l
 
 Nadir levantó la vista de la mesa, donde llevaba una hora peleándose con la factura de un proveedor de pintura. Hizo una cuenta con los dedos contra la madera, una sola, y siguió con la factura.
 
-—Ven a ver esto, jefe.
+—Ven a ver esto, jefe —dijo Danny.
 
 En la pantalla, el auto oscuro salía del lote de servicio hacia la costera sur, sin luces, a contraluz de la lámpara de sodio. Doce segundos. Danny lo detuvo en el octavo.
 
@@ -88,7 +88,9 @@ No se sentó. Se quitó los lentes y miró la pantalla, el Civic detenido con su
 
 —No se las vas a dar tú.
 
-—Por eso vine. —Dejó el bolso sobre la mesa, al lado de la factura de Nadir—. El casino te contrata para la recuperación. La tarifa habitual, con factura a nombre de la empresa. Lo que necesites para tu gente sale de ahí.
+Chiara dejó el bolso sobre la mesa, al lado de la factura de Nadir.
+
+—El casino te contrata para la recuperación. La tarifa habitual, con factura a nombre de la empresa. Lo que necesites para tu gente sale de ahí.
 
 —¿Cuánto es la tarifa habitual, señora? —preguntó Nadir.
 
@@ -232,8 +234,6 @@ Tommaso se detuvo en la puerta de la oficina de Chiara a las cuatro de la tarde,
 
 Chiara levantó la vista del informe de la aseguradora.
 
-—¿Retirado?
-
 —No hace falta que siga respondiendo por él con su firma. —Giró el anillo de sello una vez—. Puede quedársela.
 
 Se fue antes de que ella contestara.
@@ -276,7 +276,9 @@ Irene levantó la vista por primera vez. Lo midió como medía un bulto antes de
 
 —Me pidió que se lo dijera a usted primero.
 
-—Primero vale más que tarde. —Tachó la línea de Kal con una raya recta, sin apretar—. Lo suyo queda en cero, señor Mercer. El trato de sus muchachos sigue hasta que yo diga.
+Irene tachó la línea de Kal con una raya recta, sin apretar.
+
+—Lo suyo queda en cero, señor Mercer. El trato de sus muchachos sigue hasta que yo diga.
 
 Kal asintió y se dio vuelta. Irene habló cuando él ya estaba debajo del toldo.
 
@@ -342,7 +344,9 @@ El alto se quedó mirando la bolsa en el hombro de Kal. Después miró el camino
 
 —Eso no fue lo que dijimos.
 
-—No dijimos nada. —Kal señaló el Monte Carlo con la cabeza—. Su auto ya lo vio medio San Aurelio en video. Éste no lo conoce nadie. Tiene el tanque lleno.
+Kal señaló el Monte Carlo con la cabeza.
+
+—Su auto ya lo vio medio San Aurelio en video. Éste no lo conoce nadie. Tiene el tanque lleno.
 
 El bajo se asomó por la ventanilla. Vio la calavera de la palanca y soltó una risa corta por la nariz, la primera de la noche.
 
@@ -396,7 +400,7 @@ Lucía no contestó enseguida. Kal oyó, del otro lado, el raspado de una pluma 
 
 Otra pausa, más corta.
 
-—Entonces tráigamelo. A la comisaría central. Entra por atrás.
+—Entonces tráigamelo. A la comisaría central. Entre por atrás.
 
 Colgó ella. Nadir seguía mirando la cuesta.
 

@@ -55,7 +55,9 @@ Dobló la carta en cuatro, sin prisa, con el membrete hacia adentro. No antes de
 
 —Y mientras, la bodega.
 
-—La bodega espera. —Se acomodó el cuello de la chaqueta—. Esperar sé.
+Walt se acomodó el cuello de la chaqueta.
+
+—Esperar sé.
 
 —Lo llevo a la Almendra.
 
@@ -98,10 +100,6 @@ Walt dejó de doblar el trapo.
 —¿Y el casino?
 
 —El casino le compra. Con contrato y a precio de lista, como le compra a cualquier proveedor que haga bien su trabajo. —Chiara le sostuvo la mirada—. El cliente es el Monarch. La socia soy yo. No se mezclan.
-
-—Su gente del casino qué va a decir.
-
-—Lo que digan lo van a decir con el contrato firmado.
 
 —¿Y usted qué saca de esto?
 
@@ -168,10 +166,6 @@ Al salir pasó junto a Chiara. La miró primero a los ojos y después a las mano
 Walt volvió a la soldadura.
 
 —¿Cuánto oyó?
-
-—Lo suficiente para no preguntar.
-
-—Bien.
 
 Chiara dejó la carpeta sobre el banco de trabajo. Afuera, sobre la grava, se oyó arrancar un coche y alejarse hacia las vías.
 
@@ -355,7 +349,7 @@ Walt levantó la vista sin apurarse.
 
 —¿No le gusta?
 
-—Me gusta que alguien haya pensado en eso. La mayoría de esta gente ni lo nota.
+—La mayoría de esta gente ni lo nota.
 
 Chiara se sentó en la silla vacía a su lado, la del jugador que había abandonado la mesa una hora antes con menos dinero del que había traído.
 
@@ -396,10 +390,6 @@ Walt dejó las fichas quietas.
 Chiara miró la pizarra del fondo, los números de bronce, ningún nombre.
 
 Walt siguió la dirección de su mirada. Tardó un momento en entender qué faltaba.
-
-—¿Desde cuándo?
-
-—Desde esta tarde.
 
 —No le pedí eso.
 

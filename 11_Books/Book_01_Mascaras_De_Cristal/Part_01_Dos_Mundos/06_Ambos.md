@@ -71,8 +71,6 @@ Ella tardó un segundo en entender que se había acordado.
 
 —Se fue esta mañana. Dejó cinco estrellas y una queja por las gaviotas.
 
-—Nadie les avisó a las gaviotas.
-
 El compresor se apagó. En el silencio, Kal habló como si ésa fuera la noticia que traía.
 
 —Danny terminó el Mustang. En una noche.
@@ -355,10 +353,6 @@ Kal lo vio y sonrió apenas.
 
 —Fue pregunta.
 
-—Fue descaro.
-
-—También.
-
 Chiara cruzó los brazos.
 
 —¿Quiere subir?
@@ -413,7 +407,7 @@ El penthouse de noche no se parecía al de la mañana posterior al encuentro. La
 
 Kal la miró una vez, de arriba abajo, y luego se puso a mirar la ciudad con muchísimo interés. No comentó nada. Eso fue, para ella, más efectivo que cualquier cumplido.
 
-—No vamos a ensuciar los sillones —dijo.
+—No vamos a ensuciar los sillones —dijo ella.
 
 —No iba a sugerirlo.
 

@@ -52,7 +52,7 @@ Rojo. El Peugeot.
 
 Chiara se detuvo un momento en el escalón.
 
-—Ése es *ése* Peugeot.
+—Ése es *ese* Peugeot.
 
 —Sí.
 
@@ -94,11 +94,7 @@ La tarjeta de la acera, pensó Chiara. Así que eso era.
 
 —No.
 
-—Sí.
-
-—Kal.
-
-—Con la capucha encima. Se para en la luz de los faros y la máscara nos regresa los faros a la cara. Héctor se tapa los ojos. Y Danny, en voz alta, con la ventana abajo: "¿Ése es el cliente o el jefe final?"
+—Sí. Con la capucha encima. Se para en la luz de los faros y la máscara nos regresa los faros a la cara. Héctor se tapa los ojos. Y Danny, en voz alta, con la ventana abajo: "¿Ése es el cliente o el jefe final?"
 
 Chiara se tapó la boca con el dorso de la mano.
 
@@ -216,7 +212,7 @@ Nadie ahí lo llamaba Kal. Chiara lo armó un segundo tarde: las iniciales al re
 
 —Yo no.
 
-—Tú no. —Tyler giró un poco la cabeza hacia Chiara, y esperó, con la cara de quien aguarda un nombre y un cargo.
+Tyler giró un poco la cabeza hacia Chiara, y esperó, con la cara de quien aguarda un nombre y un cargo.
 
 —Mandorla —dijo ella, antes de que Kal pudiera contestar por ella.
 
@@ -224,7 +220,7 @@ Tyler asintió, sin pedir más, satisfecho con lo poco que le habían dado.
 
 Kal la miró un segundo de más. No dijo nada — pero algo en la comisura de la boca se le movió, el principio de una sonrisa que no llegó a completarse.
 
-—¿Salida por dónde? —le preguntó a Tyler, para no tener que decir nada más.
+—¿Salida por dónde? —le preguntó a Tyler.
 
 —Como siempre. —Tyler dibujó la ruta en el aire con el índice, un trazo largo y una curva al final, sin decir una sola calle en voz alta—. Y si aparecen luces, cada quien por su lado. No me esperen.
 

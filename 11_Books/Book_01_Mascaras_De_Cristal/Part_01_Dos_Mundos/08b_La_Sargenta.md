@@ -112,8 +112,6 @@ Ella no dijo nada durante un segundo. Un segundo largo, de los que Chiara conoc�
 
 —¿Ya lo dijo?
 
-—Lo va a decir.
-
 —*Dos-catorce, Dieciséis: ciérrenle la Milla en el tanque y la entrada del Cutoff.* —La voz no se apuró—. *La autopista déjenla libre.*
 
 Kal no contestó. Chiara lo vio entender algo que a ella todavía le faltaba.
@@ -173,8 +171,6 @@ En la cuarta esquina dejaron de crecer. El espejo se quedó vacío.
 Chiara también lo oyó: el ocho cilindros corriendo por la avenida de al lado, sin una sola esquina que lo frenara, a la par de ellos, cuadra tras cuadra.
 
 —Nos está leyendo —dijo.
-
-—Sí.
 
 Al final de la calle, en el cruce, unos faros bajos se atravesaron de golpe. Kal no frenó. Giró a la derecha antes del cruce, subió por la orilla de la acera y metió el Peugeot entre las bombas de una gasolinera cerrada, tan justo que Chiara vio pasar la manguera de una de ellas a un palmo de su ventanilla. Salieron por debajo del techo de la gasolinera a la calle de atrás, y el Mustang tuvo que dar la vuelta a la manzana para encontrarlos.
 
@@ -281,8 +277,6 @@ Kal se pasó una mano por la cara.
 —Cuarenta, más o menos.
 
 —Eso es casi respetable.
-
-—Casi.
 
 Y ahí volvió la risa, más chica esta vez, la de los dos.
 

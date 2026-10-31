@@ -4,7 +4,7 @@ Actualizado: 2026-10-29. Máximo 800 palabras. **Numeración de 60 desde 2026-10
 
 ## Foco y siguiente paso
 
-1. **Libro I, lectura del autor** de los borradores y la prosa DISEÑO de abajo. Rutas en [[98_Agent_Handoff/PENDING]].
+1. **Libro I, lectura del autor** de los borradores y la prosa DISEÑO de abajo. Rutas en [[98_Agent_Handoff/PENDING]]. En curso (2026-10-31): lectura del Cap. 34 al 60 con [[98_Agent_Handoff/sessions/2026-10-31_claude_guia_lectura_caps34_60]]. CANON 2026-10-31: «recupere esto; aquí no pasó nada» va a la base, no a Kal.
 2. **Libro II, *Sombras de Poder*** (diseño activo; prosa bloqueada hasta cerrar el I): [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 caps., DISEÑO), [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]], [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]]. Esperan respuesta del autor: F2, semillas Kal–Chiara, voces REL-01, Navidad de Almendra Towing (en pausa).
 
 ## Borradores recientes que esperan lectura (Libro I)
@@ -13,7 +13,7 @@ Actualizado: 2026-10-29. Máximo 800 palabras. **Numeración de 60 desde 2026-10
 - **Robo del Monarch** (plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]): Caps. 26 *La cifra* (22a) y 27 *Con su proveedor* (22b), BORRADOR; sustituyen a *Causalidad* (prosa en git, `085b3fc`). Cirugía: [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_caps25_26_robo_monarch]]. CANON: Roy Boone deserta y la banda se deshace; rutas de Il Consorzio en la caja de Matteo, Dario con copia; Lucía y Voss; Mei-Lin «el del billar» (Danny mintió; ella le consigue droga); Devil Splicers en Old Road Town.
 - **Caps. 31 *Oveja entre lobos* (24c) y 32 *Vienes conmigo* (24d)**, CANON, prosa DISEÑO: rescate, robo fingido, comisaría; Lucía cita la denuncia en el archivo 32. [[98_Agent_Handoff/sessions/2026-10-29_claude_cap30_oveja_entre_lobos]]
 - **Arco lector (archivos 14–16):** aplicado: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Propuesta_Arco_Caps_14-16_Lector]].
-- **Prosa DISEÑO acumulada:** regla de diálogo 05 (01–04 aprobados; del 05 en adelante, `sessions/2026-10-2*_claude_regla05_*`); cirugías con base en lecturas de ChatGPT, archivos 09–24b (`sessions/2026-10-27_*` y `2026-10-28_*`); Blake, Collins y el levantón (05a–10); Vento (fin del 31 y 33b, [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]]); siembras de Rocco ([[02_Characters/Rocco]]).
+- **Prosa DISEÑO acumulada:** regla de diálogo 05 (01–04 aprobados; del 05 en adelante, `sessions/2026-10-2*_claude_regla05_*`; completada en todo el libro el 2026-10-31, 60 sin diálogo: [[98_Agent_Handoff/sessions/2026-10-31_claude_regla05_capitulos_faltantes]]); cirugías con base en lecturas de ChatGPT, archivos 09–24b (`sessions/2026-10-27_*` y `2026-10-28_*`); Blake, Collins y el levantón (05a–10); Vento (fin del 33 y 33b, [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]]); siembras de Rocco ([[02_Characters/Rocco]]).
 
 ## Estado del manuscrito (Libro I, *Máscaras de Cristal*)
 

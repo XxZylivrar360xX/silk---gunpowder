@@ -285,11 +285,9 @@ Kal no contestó. Ella le recorrió la cara con la mirada, despacio, como quien 
 
 —Leí su expediente. El del Peugeot. Fue muy conveniente que lo descartaran.
 
-—No me descartaron. Me dejaron de mirar.
+—Me dejaron de mirar.
 
 —Peor. —Sonrió apenas, sin que se le moviera nada más—. Domínguez tiene historial, un abogado carísimo y ninguna prueba nueva. Usted tiene un taller legal, piezas pagadas en efectivo y un permiso del circuito de Kingsley Field. Todo confirmado. Lo compro, señor Mercer. De verdad.
-
-—Se nota.
 
 La teniente bajó la voz, lo justo para que Voss tuviera que hacer como que no oía.
 
