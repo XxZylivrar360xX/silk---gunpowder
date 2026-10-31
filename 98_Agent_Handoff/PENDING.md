@@ -1,6 +1,6 @@
 # Pendientes activos
 
-Actualizado: 2026-10-29. Máximo 800 palabras; las decisiones de fondo van en [[98_Agent_Handoff/BACKLOG]] (el 2026-10-29 recibió las de Fabrizio/Tommaso, la lectura del libro, Cuatro Partes y Rocco). Pendiente resuelto: retirarlo y registrarlo en nota de sesión. Anterior íntegro: [[98_Agent_Handoff/archive/2026-10-29_PENDING]]. **Numeración:** el libro tiene 60 caps. desde 2026-10-29 (tabla en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]); salvo las entradas fechadas el 2026-10-29, los números de capítulo de abajo usan la de 57: del 16 al 24 suman +1; del 26 al 29, +2; del 30 en adelante, +3. `N:línea` cita archivo.
+Actualizado: 2026-10-31. Máximo 800 palabras; las decisiones de fondo van en [[98_Agent_Handoff/BACKLOG]] (el 2026-10-29 recibió las de Fabrizio/Tommaso, la lectura del libro, Cuatro Partes y Rocco). Pendiente resuelto: retirarlo y registrarlo en nota de sesión. Anterior íntegro: [[98_Agent_Handoff/archive/2026-10-29_PENDING]]. **Numeración:** el libro tiene 60 caps. desde 2026-10-29 (tabla en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]); salvo las entradas fechadas el 2026-10-29, los números de capítulo de abajo usan la de 57: del 16 al 24 suman +1; del 26 al 29, +2; del 30 en adelante, +3. `N:línea` cita archivo.
 
 ## *Sombras de Poder* (Libro II): decide el autor
 
@@ -35,8 +35,8 @@ Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Todo 
 
 Plan: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]].
 
-- **Falta:** consolidar S1 (Irene, Danny, Walt, La Ronda) y diseñar a Fabrizio en la Parte I. Resuelto en el plan del robo ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]): «el tipo del billar» es Mei-Lin y Kal le paga a Irene el nombre de la banda en el 22b (DISEÑO). Compatible con el Cap. 37 (archivo 32): ahí Irene cambia lo que falta del trato de carga por un favor, y el nombre ya está pagado.
-- **Robo del Monarch (22a/22b):** plan cerrado. [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/22a_La_Cifra|22a *La cifra*]] y [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/22b_Con_Su_Proveedor|22b *Con su proveedor*]] en BORRADOR (2026-10-28), esperan lectura; preguntas abiertas en [[98_Agent_Handoff/sessions/2026-10-28_claude_draft_22a_la_cifra]] y [[98_Agent_Handoff/sessions/2026-10-28_claude_draft_22b_con_su_proveedor]]. Renumeración a 58 y retiro del archivo 22: hechos 2026-10-28 ([[98_Agent_Handoff/sessions/2026-10-28_claude_renumeracion_58]]).
+- **Falta:** consolidar S1 (Irene, Danny, Walt, La Ronda) y diseñar a Fabrizio en la Parte I. El cabo del billar y el pago a Irene quedaron resueltos en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch|plan del robo]] (DISEÑO).
+- **Robo del Monarch (22a/22b):** plan cerrado. [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/22a_La_Cifra|22a *La cifra*]] y [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/22b_Con_Su_Proveedor|22b *Con su proveedor*]] en BORRADOR (2026-10-28), esperan lectura; preguntas abiertas en [[98_Agent_Handoff/sessions/2026-10-28_claude_draft_22a_la_cifra]] y [[98_Agent_Handoff/sessions/2026-10-28_claude_draft_22b_con_su_proveedor]].
 
 ## Decisiones que dejó la lectura del libro
 
@@ -45,10 +45,10 @@ Plan: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]
 
 ## Continuidad, edición y exportación
 
-- **Protolectura (caps. 1–8):** preguntas en [[99_Reference/ChatGPT_puntos_atencion_caps_01_08_2026-10-19]]. «No hay veinte como él» ya se resolvió (2026-10-24: Cap. 2:721 baja a «Yo no he visto veinte como él» / «Es lo que vi hoy»).
+- **Protolectura (caps. 1–8):** preguntas en [[99_Reference/ChatGPT_puntos_atencion_caps_01_08_2026-10-19]].
 - **Reseña de Partes I–II (ChatGPT, OP-01 a OP-10):** vigente la [[98_Agent_Handoff/ChatGPT/2026-10-29_recalibracion_resena_partes_I_II_corte_cap25|recalibración]] (corte en 25); el informe previo queda como historial. OP-06 resuelto (corte). OP-03 estudiado: [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op03_robo_monarch]] (P1–P2 aplicados; P3–P6 a la beta). OP-02, 04, 05 y 07 estudiados: [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op02_op04_op05_op07]] (Mantener/Observar; Nat inactiva hasta el Libro II, CANON 2026-10-30). OP-01, 09 y 10 sólo con lector beta; OP-08 sólo por caso concreto. No editar prosa por hipótesis.
-- **Regla 05 en los caps. faltantes (2026-10-31):** 36 cambios aplicados (DISEÑO) en 8–11, 14, 16, 26–27 y 31; las 7 abiertas y el puño de Dario, resueltas por el autor ([[98_Agent_Handoff/sessions/2026-10-31_claude_regla05_abiertas_resueltas]]). Quedan sólo las dudas menores del [[98_Agent_Handoff/sessions/2026-10-31_handoff_regla05_abiertas|handoff]].
+- **Dudas menores de la regla 05** (caps. 8, 14, 26 y 31; concordancia, calcos, repeticiones): al final del [[98_Agent_Handoff/sessions/2026-10-31_handoff_regla05_abiertas|handoff]]; las propuestas ya se resolvieron.
 - **Gesto de manos:** revisar en cada capítulo.
 - **Portada y Nota Editorial:** portada ≥1600×2560 para KDP; título de `00_Nota_Editorial.md`, del autor.
-- **Exportación:** EPUB y PDF del 2026-10-03; regenerar según CLAUDE.md.
+- **Exportación:** EPUB, PDF y audio del Libro I regenerados el 2026-10-31 (60 de 60 al día); regenerar según CLAUDE.md.
 - Diferidos en [[98_Agent_Handoff/BACKLOG]]: Q24, cobros del Libro I, aura, Halbrook, Corrado/Manfred, mesa tres, *El Faro*, Cap. 34, susurro a Varga y «Usted es alta».

@@ -24,3 +24,4 @@ Cada reemplazo con una sola coincidencia. `build_audiobook.py --estado`: 5 capí
 ## Pendiente
 
 Las dudas menores del handoff (caps. 8, 14, 26 y 31) siguen sin tocar.
+- Retiro posterior en PENDING: regla 05 reducida a sus dudas menores; exportación al 2026-10-31; fuera los cabos ya resueltos (renumeración a 58, «No hay veinte como él», billar/Irene compactado). PENDING en 775 palabras.
