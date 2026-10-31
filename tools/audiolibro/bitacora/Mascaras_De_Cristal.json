@@ -70,7 +70,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-10-31",
-      "desde": "2026-10-31 12:46"
+      "desde": "2026-10-31 13:13"
     },
     "08_La_Carrera_De_Mascaras.md": {
       "capitulo": 10,
@@ -110,7 +110,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-10-31",
-      "desde": "2026-10-31 12:46"
+      "desde": "2026-10-31 13:13"
     },
     "12_Roma_Atrii.md": {
       "capitulo": 15,
@@ -126,7 +126,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-10-31",
-      "desde": "2026-10-31 12:46"
+      "desde": "2026-10-31 13:13"
     },
     "13_Auster.md": {
       "capitulo": 17,
@@ -214,7 +214,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-10-31",
-      "desde": "2026-10-31 12:46"
+      "desde": "2026-10-31 13:13"
     },
     "23_La_Letra_Pequena.md": {
       "capitulo": 28,
@@ -246,7 +246,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-10-31",
-      "desde": "2026-10-31 12:46"
+      "desde": "2026-10-31 13:13"
     },
     "24d_Vienes_Conmigo.md": {
       "capitulo": 32,
@@ -2389,6 +2389,56 @@
     ],
     [
       "2026-10-31 12:46",
+      "Cap. 31 (24c_El_Corral.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-31 12:54",
+      "Cap. 9 (07_La_Noche_Del_Ladrillo.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-31 12:54",
+      "Cap. 14 (11_El_Farol.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-31 12:54",
+      "Cap. 16 (12b_Por_Su_Cuenta.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-31 12:54",
+      "Cap. 27 (22b_Con_Su_Proveedor.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-31 12:54",
+      "Cap. 31 (24c_El_Corral.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-31 13:13",
+      "Cap. 9 (07_La_Noche_Del_Ladrillo.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-31 13:13",
+      "Cap. 14 (11_El_Farol.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-31 13:13",
+      "Cap. 16 (12b_Por_Su_Cuenta.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-31 13:13",
+      "Cap. 27 (22b_Con_Su_Proveedor.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-10-31 13:13",
       "Cap. 31 (24c_El_Corral.md)",
       "audio regenerado"
     ]

@@ -139,7 +139,7 @@ Natalie Keegan estaba de pie junto al alambique, con la chaqueta del departament
 
 —El bar lo rematan en primavera. Tú lo dijiste.
 
-—Dije que lo iban a rematar. —Walt pasó el pulgar por la soldadura—. No dije que me lo iba a comprar mi hija.
+—Lo van a rematar. —Walt pasó el pulgar por la soldadura—. No me lo va a comprar mi hija.
 
 —Préstamo, entonces. Con papel. Como la italiana.
 

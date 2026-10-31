@@ -222,7 +222,7 @@ Chiara le dio en el brazo con el dorso de la mano.
 
 —Así no hablo.
 
-—Así entras a los cuartos.
+Kal no bajó la mano del pecho.
 
 Chiara soltó la sonrisa. No sabía que la traía puesta todavía.
 

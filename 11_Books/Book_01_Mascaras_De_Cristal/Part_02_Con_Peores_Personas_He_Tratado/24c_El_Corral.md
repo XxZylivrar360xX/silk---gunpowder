@@ -297,7 +297,7 @@ La teniente bajó la voz, lo justo para que Voss tuviera que hacer como que no o
 
 —No le digo nada a nadie. Lo compro, ya te dije. —El *te* se le escapó, o no se le escapó; no lo corrigió—. Es que estaba tan limpio que daba lástima pisarlo.
 
-—Es un taller —dijo Kal—. Se trapea.
+Kal le devolvió la pluma a Voss.
 
 Ella se rio por la nariz, una sola vez, y bajó los ojos a la hoja que Voss acababa de sellar.
 
@@ -497,7 +497,7 @@ Y ahí estaba el hueco. Si decía que sí, mentía sobre algo que se podía comp
 
 —Forraje. —Dario repitió la palabra, y en su boca sonó a lo que era: una tabla clavada encima de un agujero, funcional y a la vista.
 
-Se ajustó el puño de la camisa y los miró a los dos, uno y después el otro.
+Los miró a los dos, uno y después el otro.
 
 —Voy a poner gente en el casino —dijo—. Un par de hombres. Discretos. Hasta que sepamos quién le hizo esto, la signora no va a estar sola en ningún pasillo.
 

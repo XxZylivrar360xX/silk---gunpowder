@@ -98,7 +98,7 @@ Chiara se volvió hacia él.
 
 —Mil ochocientos por noche. Más el recargo nocturno.
 
-—Mil ochocientos más el recargo es lo que cobra la grúa por sacar un auto de una zanja a las tres de la mañana. —Nadir no se levantó—. La tarifa habitual es la de la grúa. Nosotros no somos la grúa.
+—Mil ochocientos más el recargo es lo que cobra la grúa por sacar un auto de una zanja a las tres de la mañana. —Nadir no se levantó—. La tarifa habitual es la de la grúa.
 
 —Señor Amrani...
 

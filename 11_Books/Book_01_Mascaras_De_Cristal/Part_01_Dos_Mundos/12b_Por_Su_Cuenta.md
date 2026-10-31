@@ -163,9 +163,7 @@ Mabel le quitó una migaja de concha de la solapa, la dejó caer en la escalinat
 
 —Te queda grande, Walter.
 
-—Es prestado.
-
-Mabel ya no contestó.
+No esperó respuesta.
 
 Nat se quedó. Tenía las llaves del coche en la mano y las ojeras de dos días. Kal la conocía desde que era una niña que cargaba con las dos manos la caja de herramientas de su padre; sabía que, cuando no se iba, era porque le faltaba decir algo, y que lo iba a decir corto.
 
