@@ -10,6 +10,7 @@ Apertura por residuo: no depende directamente del cierre del Capitulo 16 (que ce
 Cirugia 2026-10-28 (nota ChatGPT [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_cap20_le_quede_debiendo_marisol_y_liderazgo]]; DISENO pendiente de lectura; el estado se conserva): AUT-01/P-01, eco de Marisol sin nombrarla: "Que me entere por ustedes, no por una marca en una puerta" en el "Avisenme"; se comprime la explicacion operativa de Kal; fuera "y el barrio [...] ya lo sabia" (O-03). Ocho bultos (O-01, CANON DEL AUTOR 2026-10-28): la Ronda los recupero en la captura; Irene lo confirma en una linea y el trabajo gratuito es la sancion aparte. Detalle: 98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap20_le_quede_debiendo.md.
 Regla de dialogo 05 (esticomitia) 2026-10-26, a pedido del autor: ocho cortes de eco/remate; la prosa nueva es DISENO, espera lectura (98_Agent_Handoff/sessions/2026-10-26_claude_regla05_debiendo_cap20.md).
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N17-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
+Hilo del Tasador (2026-11-01, DECISIÓN DEL AUTOR; prosa DISEÑO pendiente de lectura; [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]]): Kal sospecha de Crowe sin certeza (fuera "No era pregunta") y registra una precisión que no es del Tasador (V-3 fundido); sin nombre. "Y de la cancha" cobra la visita del Cap. 12.
 -->
 
 # Capítulo 21 — Le quedé debiendo
@@ -172,9 +173,9 @@ Walt se quedó mirando un punto fijo de la pared.
 
 —Conozco a uno.
 
-—El Tasador —dijo Kal. No era pregunta.
+—El Tasador —dijo Kal.
 
-Lo traía pensado desde antes de que Walt abriera la boca. Después de Calle Corona, no había rumor en el sur que Kal no pesara primero en la balanza de Crowe.
+Lo dijo como se dice el primer nombre de una lista. Después de Calle Corona y de la cancha, no había rumor en el sur que Kal no pesara primero en la balanza de Crowe. Pero Crowe sabía la calle, y el canal de Irene no era calle. Un rumor tan exacto había que comprárselo a alguien que supiera lo que ni Irene contaba.
 
 —El mismo gordo hijo de puta. —Walt no subió la voz, pero algo en ella se afiló—. Se quiso meter con Jim. Le partí el escritorio con una barreta. A él no lo toqué.
 

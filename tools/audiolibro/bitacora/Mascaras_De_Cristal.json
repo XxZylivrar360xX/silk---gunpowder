@@ -139,10 +139,10 @@
     "17_Cuentas_Claras.md": {
       "capitulo": 21,
       "titulo": "Le quedé debiendo",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-29",
-      "desde": "2026-10-29 23:53"
+      "desde": "2026-11-01 15:24"
     },
     "18_El_Dia_Nublado.md": {
       "capitulo": 22,
@@ -155,10 +155,10 @@
     "20_El_Mirador.md": {
       "capitulo": 24,
       "titulo": "Lo pequeño",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 01:21"
+      "desde": "2026-11-01 15:24"
     },
     "21_El_Primer_Huesped.md": {
       "capitulo": 25,
@@ -2510,6 +2510,16 @@
     [
       "2026-11-01 15:02",
       "Cap. 13 (10_El_Loft_Del_Soltero.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-01 15:24",
+      "Cap. 21 (17_Cuentas_Claras.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-01 15:24",
+      "Cap. 24 (20_El_Mirador.md)",
       "audio pendiente: cambió la prosa"
     ]
   ]

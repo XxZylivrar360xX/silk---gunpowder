@@ -6,8 +6,8 @@
 
 1. **El Tasador es el villano del Libro I.** **Varek no se pinta como villano en el I:** es una figura de poder neutral, ni aliado ni enemigo. Uno se le puede acercar, pero no coopera gratis, y deberle algo puede ser peligroso después. La enemistad con Kal y Chiara se siembra con los roces del Libro II y fundamenta la Guerra de los Tres en el III. *(Sustituye la fórmula «Crowe, antagonista inmediato; Varek, columna» de la propuesta.)*
 2. **Cap. 12, *La balanza*: primera aparición de Crowe en persona.** Más audaz que el C-1: el Tasador va de noche al barrio a hablar con Kal y ahí ve a Chiara Bellandi, la del casino. Tiene que ser un momento potente del libro. **Se diseña antes de redactar** (ver §Diseño del Cap. 12). Sustituye a U-1 y al C-1.
-3. **Cap. 21: Kal sospecha del Tasador sin tener la certeza.** Se funde con V-3. Ojo: hoy la prosa dice «—El Tasador —dijo Kal. No era pregunta.» (`17:175`); esa línea tiene que pasar a sospecha.
-4. **Cap. 24: C-3 aprobado.** Una línea del saldo de la cuota en el recuento del día de Kal.
+3. **Cap. 21: Kal sospecha del Tasador sin tener la certeza. APLICADO 2026-11-01** (`17:175`). Se funde con V-3. Ojo: hoy la prosa dice «—El Tasador —dijo Kal. No era pregunta.» (`17:175`); esa línea tiene que pasar a sospecha.
+4. **Cap. 24: C-3 aprobado. APLICADO 2026-11-01** (`20:149`). Una línea del saldo de la cuota en el recuento del día de Kal.
 5. **Arco sin Kal (C-4, reformulado):** los muchachos **no** trabajan para el Tasador. Sin Kal, buscan cómo seguir generando, porque el barrio tiene negocios que les deben y a los que deben. La organización empieza a pensar sin cabeza. **Queda en estudio** si se explora a fondo en este libro, y cómo choca con Chiara como cara y líder provisional del Patio (con Dario en el 56, archivo 47, «Intereses»).
 6. **Libro II (CANON DEL AUTOR):** el trabajo del cargamento **lo acepta Kal**, porque es una buena oportunidad para quedar bien con clientes nuevos. Se puede explorar por ahí.
 

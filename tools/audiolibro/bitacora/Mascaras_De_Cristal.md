@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-01 15:15. Al día: 53 de 55.
+Actualizada: 2026-11-01 15:24. Al día: 51 de 55.
 
 ## Pendientes
 
@@ -10,6 +10,8 @@ Actualizada: 2026-11-01 15:15. Al día: 53 de 55.
 |---|---|---|---|---|
 | 12 | La balanza | PENDIENTE | cambió la prosa | 2026-11-01 15:02 |
 | 13 | Dos sillas vacías | PENDIENTE | cambió la prosa | 2026-11-01 15:02 |
+| 21 | Le quedé debiendo | PENDIENTE | cambió la prosa | 2026-11-01 15:24 |
+| 24 | Lo pequeño | PENDIENTE | cambió la prosa | 2026-11-01 15:24 |
 
 ## Capítulos
 
@@ -32,9 +34,9 @@ Actualizada: 2026-11-01 15:15. Al día: 53 de 55.
 | 18 | La regla del teléfono | AL DIA | 2026-10-29 |
 | 19 | Yo lo llevo | AL DIA | 2026-10-29 |
 | 20 | El sobre rojo | AL DIA | 2026-10-29 |
-| 21 | Le quedé debiendo | AL DIA | 2026-10-29 |
+| 21 | Le quedé debiendo | PENDIENTE | 2026-10-29 |
 | 22 | El día nublado | AL DIA | 2026-10-29 |
-| 24 | Lo pequeño | AL DIA | 2026-11-01 |
+| 24 | Lo pequeño | PENDIENTE | 2026-11-01 |
 | 25 | El primer huésped | AL DIA | 2026-10-29 |
 | 26 | La cifra | AL DIA | 2026-10-31 |
 | 27 | Con su proveedor | AL DIA | 2026-10-31 |
@@ -73,6 +75,8 @@ Actualizada: 2026-11-01 15:15. Al día: 53 de 55.
 
 ## Historial
 
+- 2026-11-01 15:24 · Cap. 24 (20_El_Mirador.md) · audio pendiente: cambió la prosa
+- 2026-11-01 15:24 · Cap. 21 (17_Cuentas_Claras.md) · audio pendiente: cambió la prosa
 - 2026-11-01 15:02 · Cap. 13 (10_El_Loft_Del_Soltero.md) · audio pendiente: cambió la prosa
 - 2026-11-01 15:02 · Cap. 12 (09_La_Balanza.md) · audio pendiente: cambió la prosa
 - 2026-11-01 01:21 · Cap. 46 (37_Cuatro_Letras.md) · audio regenerado
