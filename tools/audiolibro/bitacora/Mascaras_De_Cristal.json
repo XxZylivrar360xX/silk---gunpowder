@@ -35,18 +35,10 @@
     "05a_Cliente_Y_Proveedor.md": {
       "capitulo": 5,
       "titulo": "Cliente y proveedor",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-24",
-      "desde": "2026-10-24 23:18"
-    },
-    "05b_Sin_Llamar_A_Nadie.md": {
-      "capitulo": 6,
-      "titulo": "Sin llamar a nadie",
-      "estado": "AL DIA",
-      "motivo": "",
-      "audio": "2026-10-24",
-      "desde": "2026-10-24 18:56"
+      "desde": "2026-11-01 00:43"
     },
     "05c_La_Pizza_De_Calabaza.md": {
       "capitulo": 7,
@@ -104,29 +96,13 @@
       "audio": "2026-10-28",
       "desde": "2026-10-28 09:40"
     },
-    "11_El_Farol.md": {
-      "capitulo": 14,
-      "titulo": "El farol",
-      "estado": "AL DIA",
-      "motivo": "",
-      "audio": "2026-10-31",
-      "desde": "2026-10-31 13:36"
-    },
     "12_Roma_Atrii.md": {
       "capitulo": 15,
       "titulo": "Roma Atrii",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-28",
-      "desde": "2026-10-28 10:19"
-    },
-    "12b_Por_Su_Cuenta.md": {
-      "capitulo": 16,
-      "titulo": "Por su cuenta",
-      "estado": "AL DIA",
-      "motivo": "",
-      "audio": "2026-10-31",
-      "desde": "2026-10-31 13:13"
+      "desde": "2026-10-31 23:25"
     },
     "13_Auster.md": {
       "capitulo": 17,
@@ -176,21 +152,13 @@
       "audio": "2026-10-29",
       "desde": "2026-10-29 23:53"
     },
-    "19_Tierra_Buena.md": {
-      "capitulo": 23,
-      "titulo": "Lo que nadie estaba mirando",
-      "estado": "AL DIA",
-      "motivo": "",
-      "audio": "2026-10-29",
-      "desde": "2026-10-29 23:53"
-    },
     "20_El_Mirador.md": {
       "capitulo": 24,
       "titulo": "Lo pequeño",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-29",
-      "desde": "2026-10-29 23:53"
+      "desde": "2026-10-31 23:25"
     },
     "21_El_Primer_Huesped.md": {
       "capitulo": 25,
@@ -216,29 +184,21 @@
       "audio": "2026-10-31",
       "desde": "2026-10-31 13:13"
     },
-    "23_La_Letra_Pequena.md": {
-      "capitulo": 28,
-      "titulo": "Nada caro",
-      "estado": "AL DIA",
-      "motivo": "",
-      "audio": "2026-10-29",
-      "desde": "2026-10-29 23:53"
-    },
     "24_Bajo_Juramento.md": {
       "capitulo": 29,
       "titulo": "Bajo juramento",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-29",
-      "desde": "2026-10-29 23:53"
+      "desde": "2026-11-01 00:07"
     },
     "24b_Lo_Que_Cueste.md": {
       "capitulo": 30,
       "titulo": "Lo que cueste",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-29",
-      "desde": "2026-10-29 23:53"
+      "desde": "2026-11-01 00:07"
     },
     "24c_El_Corral.md": {
       "capitulo": 31,
@@ -363,10 +323,10 @@
     "37_Cuatro_Letras.md": {
       "capitulo": 46,
       "titulo": "Cuatro letras",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-29",
-      "desde": "2026-10-29 23:53"
+      "desde": "2026-11-01 00:07"
     },
     "38_Al_Reves.md": {
       "capitulo": 47,
@@ -2481,6 +2441,36 @@
       "2026-10-31 13:36",
       "Cap. 31 (24c_El_Corral.md)",
       "audio regenerado"
+    ],
+    [
+      "2026-10-31 23:25",
+      "Cap. 15 (12_Roma_Atrii.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-10-31 23:25",
+      "Cap. 24 (20_El_Mirador.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-01 00:07",
+      "Cap. 29 (24_Bajo_Juramento.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-01 00:07",
+      "Cap. 30 (24b_Lo_Que_Cueste.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-01 00:07",
+      "Cap. 46 (37_Cuatro_Letras.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-01 00:43",
+      "Cap. 5 (05a_Cliente_Y_Proveedor.md)",
+      "audio pendiente: cambió la prosa"
     ]
   ]
 }

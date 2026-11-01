@@ -2,6 +2,7 @@
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 12; numeración corrida definitiva, el archivo conserva su nombre.
 PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): geometría de la franja hecha visible una vez (vidrio de la caja con Kenji a un lado, puerta batiente del pasillo de servicio al otro, piso de juego a espaldas de Kal; por eso "A espaldas de Kal, en una mesa" pasa a "En una de las mesas"); segunda interferencia del casino: un mesero con una charola obliga a Kal a dar medio paso hacia ella y no lo devuelve.
 Estado: TERMINADO.
+Escenas eliminadas, costura (2026-10-31, DECISIÓN DEL AUTOR; DISEÑO pendiente de lectura; sigue TERMINADO): al salir el arco de Walt (Caps. 14 y 16), la parte 2 deja de anclarse en «la noche del torneo de Walt Keegan» -> «La noche del primer torneo», y «ocupada con la mesa de Walt» -> «ocupada con las mesas». Sale la sección del contrato de Keegan («¿Quién firma lo de Keegan?», siembra del 2026-10-27): dependía de la sociedad de la destilería, suspendida; su texto se conserva en [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/README]].
 Regla de dialogo 05 (2026-10-26, encargo del autor; DISENO pendiente de lectura; el estado se conserva): diez cortes de eco/remate en reclutamiento de Kenji, el favor y la franja del Monarch. Detalle: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_roma_atrii_cap15]].
 Arco lector 11-13 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_11-13_Lector; el estado se conserva; prosa nueva DISENO pendiente de lectura): P2, P6, P7 y P8c aplicados. ROMA ATRII escrito por fuera y el papel sin abrir (cuadra con el 14); la replica de Chiara 'Lo de adentro no era para que lo leyeras...' anadida al 'Si.' a '¿Lo escribiste tu?' se restauro a 'Si.' en VERIFY (orden de revelaciones, Cap. 38); VERIFY V6: 'que no leia' -> 'que no entendia'; las cuatro palabras de esa noche se escriben y rompen en la oficina del Monarch tras el torneo (no en el penthouse, donde llega Kal en el 11); 'La noche del torneo de Walt Keegan'; 'Chiara sonrio apenas'. R2 (2026-10-22): papel de cartas sale del bolso, no del cajón (coherencia con el cajón del penthouse del Cap. 13).
 Continuidad 2026-10-17 (CANON del autor: jefatura vacante en el Libro I, Clark entra en el II): l. 171 "la que va despues de Clark" -> "la que manda desde lo de Keene"; cobra la siembra del Cap. 7.
@@ -9,7 +10,7 @@ Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre cap
 Dialogo Kal/Chiara (2026-10-04, direccion del autor; prosa DISENO del agente, pendiente de lectura): la confrontacion del Monarch se reescribe por descubrimiento progresivo. El error del chico se admite pronto; Kal sigue preguntando por la cadena (quien escribio, quien sabe leer, quien es el chico: "No lo se. Kenji si.") y la friccion pasa al sistema; Chiara defiende decisiones, no doctrina, y marca territorio ("Esto otro es mio"); fe como origen antiguo de la red, sin intercambio de tesis; concesiones cruzadas: ella cambia la ruta porque el nombre se dijo en voz alta en el Patio, el se guarda la pregunta de cuantos son. Se conservan la admision, el Peugeot, "red visible/invisible", iglesia, "pagar, arreglar o cobrar", ternura, *Llegarte* y "Todavia no". Salen "La mia no pide resultados..." y "Supongo que tambien es una fe". Detalle: Audit_Cap_12_Roma_Atrii.md §12.
 Narrador (2026-10-05, SURGERY autorizada por el autor; el dialogo no cambia): fuera tres acotaciones que certificaban ("la unica frase que no le dejo nada para responder", "No habia disculpa en la voz...", "ya estaba dicho, aunque ninguno..."). Detalle: 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Narrador_Tesis_Resenas_ChatGPT.md.
 Protagonistas: Chiara Bellandi (partes 1-2), Kal Mercer (parte 3).
-Ventana temporal: parte 1 es anterior al Capitulo 11 (evento altruista, y tambien anterior/independiente de la noche de Gabriella's del Capitulo 7 y del asalto a Rowe del Capitulo 9 y del loft del 10; H12 se reubico al 24c el 2026-10-04); parte 2 ocurre la misma noche del torneo del Capitulo 11; parte 3, semanas despues -- Kal y Chiara ya viven a caballo entre el penthouse y la casa de el.
+Ventana temporal: parte 1 es anterior al Capitulo 11 (evento altruista, y tambien anterior/independiente de la noche de Gabriella's del Capitulo 7 y del asalto a Rowe del Capitulo 9 y del loft del 10; H12 se reubico al 24c el 2026-10-04); parte 2 ocurre la noche del primer torneo del Monarch (fuera de escena desde 2026-10-31); parte 3, semanas despues -- Kal y Chiara ya viven a caballo entre el penthouse y la casa de el.
 Lugares: salon de gala (evento altruista, sin nombre fijo), The Monarch Casino & Hotel (piso de juego y caja), Almendra Towing / El Patio.
 Funcion: ejecutar beats 12-c y 13-b — nace i Sussurri con Kenji Oda; se muestra la red en funcionamiento con multiples fuentes y tipos de informacion (calle, comercio/Mabel, elite, institucional) llegando al escritorio del penthouse; y el primer roce de valores entre Kal y Chiara por el mensajero menor. Version revisada (2026-09-02): se le da contenido real y urgencia al papel -- esa misma manana un hombre no identificado pregunto en el piso del Monarch por "un Peugeot rojo, tuneado", sembrando la primera alarma aislada del hilo que se paga en el Capitulo 13 (Auster); la reaccion de Kal se ancla, sin explicarla en bloque, a su propio origen (comprado de bebe, carrera perdida por gente que movia ninos) via el mismo tic fisico de la mandibula ya usado en el Capitulo 1; y la confrontacion se extiende para que Chiara admita honestamente, sin excusarse, por que no espero a la noche.
 Siembra 2026-10-27 (decisión del autor; prosa DISEÑO pendiente de lectura; sigue TERMINADO): sección nueva tras "Antes que Tommaso." -- el contrato de Keegan llega a compras; Tommaso le pregunta a Chiara quién lo firma ("Compras. Me excusé por escrito"; "Ya lo leí") y le deja su propia excusa fotocopiada con la fecha subrayada. Resuelve el cuestionamiento del conflicto de interés de la destilería (Cap. 14, O4 de la lectura de ChatGPT). Ver 98_Agent_Handoff/sessions/2026-10-27_claude_surgery_cap14_farol.md.
@@ -79,9 +80,9 @@ Chiara le pidió el número. Kenji lo escribió en una servilleta de coctel, sin
 
 ***
 
-Lo llamó dos semanas después. La noche del torneo de Walt Keegan, Kenji Oda ya llevaba puesto el chaleco del Monarch como si lo hubiera usado toda la vida.
+Lo llamó dos semanas después. La noche del primer torneo, Kenji Oda ya llevaba puesto el chaleco del Monarch como si lo hubiera usado toda la vida.
 
-Chiara lo cruzó de lejos, ocupada con la mesa de Walt, con Fabrizio, con las luces ámbar que había elegido ella misma. No volvió a pensar en él hasta que Tommaso se le acercó por detrás, apoyado en el borde de su mesa como si llevara ahí toda la noche.
+Chiara lo cruzó de lejos, ocupada con las mesas, con Fabrizio, con las luces ámbar que había elegido ella misma. No volvió a pensar en él hasta que Tommaso se le acercó por detrás, apoyado en el borde de su mesa como si llevara ahí toda la noche.
 
 —Bellandi.
 
@@ -152,26 +153,6 @@ Kenji tomó una pluma de la caja y las copió una vez en el reverso de un compro
 Kenji no volvió a preguntar nada más esa noche. Guardó el papel donde nadie mira — entre las fichas que nadie cuenta dos veces — y desde entonces, cuando algo pasaba en el piso que valía la pena saber, Chiara lo sabía antes que nadie.
 
 Antes que Tommaso.
-
-***
-
-El contrato de suministro de Keegan llegó a compras a fines de ese mes, a precio de lista y sin una línea que lo distinguiera de los otros cuarenta. Chiara no lo vio pasar. Lo había dispuesto así.
-
-Tommaso entró a su oficina dos días después, con una carpeta que no abrió.
-
-—¿Quién firma lo de Keegan?
-
-Giraba el anillo. Chiara no levantó la vista de la pantalla.
-
-—Compras. Me excusé por escrito antes de que llegara la cotización. Está en el expediente.
-
-El anillo se detuvo.
-
-—Ya lo leí.
-
-Dejó la carpeta en el borde del escritorio, alineada con el canto, y se fue sin decir para qué había venido entonces.
-
-Chiara no la abrió hasta que la puerta se cerró. Era su propia excusa, fotocopiada, con la fecha subrayada a lápiz.
 
 ***
 

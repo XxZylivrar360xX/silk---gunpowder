@@ -15,7 +15,7 @@ Registrar lo que conviene **tratar, comprobar o proteger** tras la segunda lectu
 - `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/12_Roma_Atrii.md` — encabezado interno **Capítulo 15 — Roma Atrii**.
 - `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_La_Balanza.md` — cap. 12; descripción de los agresores, golpe, muñeca, mensaje del Tasador y compromiso de Kal.
 - `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero.md` — cap. 13; bolsa de Rowe, cuota de la vulcanizadora, riesgo del barrio y proyecto de hogar.
-- `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/11_El_Farol.md` — cap. 14; torneo, «mesa tres», sociedad minoritaria con Walt, cliente Monarch, Tommaso.
+- `11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/11_El_Farol.md` — cap. 14; torneo, «mesa tres», sociedad minoritaria con Walt, cliente Monarch, Tommaso.
 - `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/13_Auster.md` — cap. 16; continuidad inmediata del hilo del Peugeot y uso de información ensamblada.
 - `02_Characters/Chiara_Bellandi.md`, `02_Characters/Kenji_Oda.md`, `02_Characters/Tommaso_Lusardi.md`, `02_Characters/Walter_Keegan.md`.
 - `03_Factions/Red_Civil_de_Chiara.md`; `06_Relationships/Kal_y_Chiara.md`; `05_Locations/Destileria_de_Walt.md`; `12_Craft_Policies/voice/Tommaso_Lusardi.md`.

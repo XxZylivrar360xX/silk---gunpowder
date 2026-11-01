@@ -44,7 +44,7 @@ Markdown sigue siendo la fuente; una futura base de búsqueda deberá poder reco
 
 ## Decisiones retiradas (2026-10-10)
 
-[[98_Agent_Handoff/archive/2026-10-10_DECISIONS_archivadas]] conserva una decisión sobre el alcance y los títulos de la saga del 2026-09-16, sustituida por la arquitectura vigente de siete libros. Desde el 2026-10-12 conserva también las tres decisiones del 2026-09-21 sobre el cierre de la Parte III y los Caps. 39 y 40. Desde el 2026-10-14 conserva además Nomenclatura (09-13), Títulos del Libro I y Frontera IV/V (09-20) y Relevo compacto (09-21). En la segunda rotación del 2026-10-14 recibió Halbrook (09-28), la incubadora de Sombras y la trilogía de Elenna (10-03) y la reunión del 13 con Charles (10-04).
+[[98_Agent_Handoff/archive/2026-10-10_DECISIONS_archivadas]] conserva una decisión sobre el alcance y los títulos de la saga del 2026-09-16, sustituida por la arquitectura vigente de siete libros. Desde el 2026-10-12 conserva también las tres decisiones del 2026-09-21 sobre el cierre de la Parte III y los Caps. 39 y 40. Desde el 2026-10-14 conserva además Nomenclatura (09-13), Títulos del Libro I y Frontera IV/V (09-20) y Relevo compacto (09-21). En la segunda rotación del 2026-10-14 recibió Halbrook (09-28), la incubadora de Sombras y la trilogía de Elenna (10-03) y la reunión del 13 con Charles (10-04). El 2026-10-31 recibió Sombras de Poder: confirmaciones, Lunar Pearl, nombre y embarazo (10-13).
 
 ## Actualización concurrente preservada
 

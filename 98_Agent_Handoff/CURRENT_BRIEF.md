@@ -1,19 +1,19 @@
 # Current Brief
 
-Actualizado: 2026-10-31. Máximo 800 palabras. **Numeración de 60 desde 2026-10-29** (*Por su cuenta*, archivo 12b, es el Cap. 16); para documentos anteriores, ver la nota de numeración del [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]. «Archivo N» cita el prefijo del archivo. Brief anterior íntegro, con la lista completa de sesiones de prosa DISEÑO: [[98_Agent_Handoff/archive/2026-10-29_CURRENT_BRIEF]].
+Actualizado: 2026-11-01. Máximo 800 palabras. **Numeración de 60 desde 2026-10-29**; para documentos anteriores, ver la nota de numeración del [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]. «Archivo N» cita el prefijo del archivo. Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-10-29_CURRENT_BRIEF]].
 
 ## Foco y siguiente paso
 
 1. **Libro I, lectura del autor** de los borradores y la prosa DISEÑO de abajo. Rutas en [[98_Agent_Handoff/PENDING]]. En curso (2026-10-31): lectura del Cap. 34 al 60 con [[98_Agent_Handoff/sessions/2026-10-31_claude_guia_lectura_caps34_60]]. CANON 2026-10-31: «recupere esto; aquí no pasó nada» va a la base, no a Kal. Regla 05 completada en todo el libro y sus propuestas abiertas resueltas por el autor: [[98_Agent_Handoff/sessions/2026-10-31_claude_regla05_abiertas_resueltas]].
+1b. **Carretera del Libro I** ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Carretera_Libro_I]]; página: https://claude.ai/artifact/CzmmYjpXaoSnN75Gn7EJB1; sesión: [[98_Agent_Handoff/sessions/2026-10-31_claude_carretera_libro_i]]). DECISIÓN DEL AUTOR 2026-10-31: salen a *Escenas eliminadas* los Caps. 14, 16 y 23; se fusionan el 6 y el 28–29. Fases 1 y 2 hechas. *Bajo juramento* (archivo 24, BORRADOR, ~3,770 palabras) espera lectura: [[98_Agent_Handoff/sessions/2026-11-01_claude_fusion_bajo_juramento]]. **El 6 (05b) ya es coda del 5** (*Cliente y proveedor*, 5,854 palabras, con V-1; DISEÑO, espera lectura): [[98_Agent_Handoff/sessions/2026-11-01_claude_fusion_05b_coda_05a]]. Fase B de Codex hecha (05b retirado; enlaces y tablas al día): [[98_Agent_Handoff/sessions/2026-11-01_codex_para_claude_fusion_05b_mecanica]]. Se renumera cuando la carretera quede armada.
 2. **Libro II, *Sombras de Poder*** (diseño activo; prosa bloqueada hasta cerrar el I): [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 caps., DISEÑO), [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]], [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]]. Esperan respuesta del autor: F2, semillas Kal–Chiara, voces REL-01, Navidad de Almendra Towing (en pausa).
 
 ## Borradores recientes que esperan lectura (Libro I)
 
-- **Arco de Walt** (plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Arco_Walt_Condicional]]): Cap. 14 *El farol* (archivo 11) reescrito y Cap. 16 *Por su cuenta* (archivo 12b, narra Kal), ambos BORRADOR. CANON (detalle en el plan): licencia de Chiara, torneo secreto, terminación anticipada de la condicional, pub en subasta; Tommaso no cobra. Cirugía: [[98_Agent_Handoff/sessions/2026-10-29_claude_surgery_farol_por_su_cuenta]]. Renumeración a 60: [[98_Agent_Handoff/sessions/2026-10-29_claude_renumeracion_60]].
-- **Robo del Monarch** (plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]): Caps. 26 *La cifra* (22a) y 27 *Con su proveedor* (22b), BORRADOR; sustituyen a *Causalidad* (prosa en git, `085b3fc`). Cirugía: [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_caps25_26_robo_monarch]]. CANON: Roy Boone deserta y la banda se deshace; rutas de Il Consorzio en la caja de Matteo, Dario con copia; Lucía y Voss; Mei-Lin «el del billar» (Danny mintió; ella le consigue droga); Devil Splicers en Old Road Town.
-- **Caps. 31 *Oveja entre lobos* (24c) y 32 *Vienes conmigo* (24d)**, CANON, prosa DISEÑO: rescate, robo fingido, comisaría; Lucía cita la denuncia en el archivo 32. [[98_Agent_Handoff/sessions/2026-10-29_claude_cap30_oveja_entre_lobos]]
-- **Arco lector (archivos 14–16):** aplicado: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Propuesta_Arco_Caps_14-16_Lector]].
-- **Prosa DISEÑO acumulada:** regla de diálogo 05 (01–04 aprobados; del 05 en adelante, `sessions/2026-10-2*_claude_regla05_*`; completada en todo el libro el 2026-10-31, 60 sin diálogo: [[98_Agent_Handoff/sessions/2026-10-31_claude_regla05_capitulos_faltantes]]); cirugías con base en lecturas de ChatGPT, archivos 09–24b (`sessions/2026-10-27_*` y `2026-10-28_*`); Blake, Collins y el levantón (05a–10); Vento (fin del 33 y 33b, [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]]); siembras de Rocco ([[02_Characters/Rocco]]).
+- **Arco de Walt** (fuera del libro desde 2026-10-31; candidato a *Sombras de Poder*): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/00_Plan_Arco_Walt_Condicional]]. Tommaso no cobra.
+- **Robo del Monarch** ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]): Caps. 26 *La cifra* (22a) y 27 *Con su proveedor* (22b), BORRADOR; sustituyen a *Causalidad* (git `085b3fc`).
+- **Caps. 31 *Oveja entre lobos* (24c) y 32 *Vienes conmigo* (24d)**, CANON, prosa DISEÑO: [[98_Agent_Handoff/sessions/2026-10-29_claude_cap30_oveja_entre_lobos]]
+- **Prosa DISEÑO acumulada:** regla 05 (`sessions/2026-10-2*_claude_regla05_*` y [[98_Agent_Handoff/sessions/2026-10-31_claude_regla05_capitulos_faltantes]]); cirugías de los archivos 09–24b (`sessions/2026-10-27_*`, `2026-10-28_*`); Blake, Collins y el levantón (05a–10); Vento ([[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]]); siembras de Rocco.
 
 ## Estado del manuscrito (Libro I, *Máscaras de Cristal*)
 
@@ -21,7 +21,7 @@ Actualizado: 2026-10-31. Máximo 800 palabras. **Numeración de 60 desde 2026-10
 - **Calendario (CANON):** sep A1 → 5 ene A3; la Mesa, 13 dic; Kal preso 19 dic–5 ene.
 - **San Aurelio (CANON):** Oregon, inspirada en Portland, bahía ficticia; vía costera 101. Mapa: [[99_Reference/location_references/mapa_san_aurelio.png]].
 - **Mando policial (CANON):** sin jefe en el I; Lucía, subjefa en funciones. Libros II–III: [[02_Characters/Lucia_Varek]].
-- **Exportación:** EPUB y PDF regenerados 2026-10-23; falta portada HD para KDP. Audiolibro ([[tools/audiolibro/README]]): tras la renumeración a 60, del 16 al 60 quedan SIN AUDIO; el autor regenera en su máquina.
+- **Exportación:** EPUB, PDF y audio regenerados 2026-10-31; desde entonces, audio PENDIENTE en los caps. tocados (bitácora de `tools/audiolibro/`). Falta portada HD para KDP.
 - **Fabrizio:** última plática en el archivo 49. CANON: la coerción de Volpi pasa a Tommaso.
 - **CANON (ChatGPT, archivos 01–08b):** Chiara llega en jet desde Palermo (hangar de Kingsley); en el archivo 41 entra por Nueva York. Lunares de Chiara desde los omóplatos por el centro de la espalda.
 
@@ -39,7 +39,7 @@ Detalle: [[98_Agent_Handoff/DECISIONS]].
 - **Ilustraciones (2026-10-30, autor):** estilo anime vigente; referencia en [[99_Reference/character_art/anime/README]].
 - La mano por la cara es gesto sólo de Kal; Chiara juega con joyas o uñas; "dos dedos" es de Walt.
 - Tommaso llama a Chiara "Bellandi". Rowe le debe un favor a Chiara (archivo 09). Kal absorbe Eagle Eye en el II (Charles).
-- Chiara, socia minoritaria de la destilería; 1.80 m. Harper creció en un rancho. Garrett pilotó en el ejército. Penalista de Chiara: Krane. Collins, castaño cobrizo.
+- Chiara mide 1.80 m (la sociedad de la destilería queda suspendida con el arco de Walt). Harper creció en un rancho. Garrett pilotó en el ejército. Penalista de Chiara: Krane. Collins, castaño cobrizo.
 - La Almendra toma su nombre de su meseta.
 
 ## Fuentes y restricciones

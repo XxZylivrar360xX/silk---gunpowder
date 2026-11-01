@@ -1,6 +1,6 @@
 # Sesion 2026-10-27 — SURGERY Cap. 14 «El farol»
 
-**Modo:** SURGERY. **Ambito autorizado:** solo `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/11_El_Farol.md` (Cap. 14). **Base:** `98_Agent_Handoff/ChatGPT/2026-10-26_lectura_cap14_el_farol_observaciones_estrategias.md` (diagnostico de lector, no ordenes). **Estado del capitulo:** sigue BORRADOR; la prosa nueva es DISENO pendiente de lectura del autor.
+**Modo:** SURGERY. **Ambito autorizado:** solo `11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/11_El_Farol.md` (Cap. 14). **Base:** `98_Agent_Handoff/ChatGPT/2026-10-26_lectura_cap14_el_farol_observaciones_estrategias.md` (diagnostico de lector, no ordenes). **Estado del capitulo:** sigue BORRADOR; la prosa nueva es DISENO pendiente de lectura del autor.
 
 Lecturas: EDITORIAL_POLICY, DO_NOT_TOUCH, MICROEDICION; fichas de voz de Chiara, Walt, Mabel y Tommaso; capitulo completo. Cap. 13 (`10_El_Loft_Del_Soltero.md`) solo por grep.
 

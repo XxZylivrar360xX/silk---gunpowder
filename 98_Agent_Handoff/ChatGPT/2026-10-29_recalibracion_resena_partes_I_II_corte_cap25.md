@@ -156,7 +156,7 @@ Con el corte nuevo, **la Parte I puede leerse como romance comunitario con crime
 
 - Arquitectura y nueva frontera: `[[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]`; `[[98_Agent_Handoff/sessions/2026-10-29_claude_corte_parte_I]]`.
 - **Parte I, apertura:** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable]]`; `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo]]`.
-- **Parte I, Walt:** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/11_El_Farol]]`; `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/12_Roma_Atrii]]`; `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/12b_Por_Su_Cuenta]]`.
+- **Parte I, Walt:** `[[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/11_El_Farol]]`; `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/12_Roma_Atrii]]`; `[[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/12b_Por_Su_Cuenta]]`.
 - **Último capítulo de Parte I (25):** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21_El_Primer_Huesped]]`.
 - **Apertura de Parte II (26–27):** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/22a_La_Cifra]]`; `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/22b_Con_Su_Proveedor]]`.
 - **Parte II, crisis y confesión (30–33):** `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24b_Lo_Que_Cueste]]`; `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24c_El_Corral]]`; `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24d_Vienes_Conmigo]]`; `[[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos]]`.

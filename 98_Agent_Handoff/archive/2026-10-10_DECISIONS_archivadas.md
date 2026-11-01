@@ -53,3 +53,29 @@ Libro III: Cuentas de Sangre. Continuación en duología: Libro IV Juramento de 
 ## 2026-09-28 — Reconstrucción de Warren Halbrook
 
 **CANON DEL AUTOR:** nueva psicología, voz y conducta (sustituye la anterior; los hechos se quedan); carrera política con el nombre de Camp Alder como llave; evento benéfico (Libro II); despacho tras Santa Lucía con la línea "¡Ha! ¿Es el gran Kal Mercer tan cobarde para tomar mi cabeza de mis hombros?" (Libro III); muerte en el discurso de victoria, disparo de Harper cubierta por Kal y Nadir (supersede "por Kal Mercer"). Misma fecha: la muerte **cierra el Libro III** (no abre el IV) y la sigue la coda de Corrado en el hospital, con la silueta de Halbrook como engaño. [[98_Agent_Handoff/sessions/2026-09-28_claude_reconstruccion_halbrook]].
+
+<!-- Archivada de DECISIONS.md el 2026-10-31 -->
+## 2026-10-09 — H23: boda de Kal y Chiara
+
+**CANON DEL AUTOR:** Kal y Chiara se casan; la canción de su vals es *«Il Mondo»*. Tiempo, libro, lugar y circunstancias quedan PENDIENTES. Fuente: [[06_Relationships/Hitos#H23 — La boda de Kal y Chiara]] · [[98_Agent_Handoff/sessions/2026-10-09_codex_para_claude_hito_boda_il_mondo]].
+
+<!-- Archivada de DECISIONS.md el 2026-10-31 -->
+## 2026-10-12 — Sombras de Poder: Fabrizio muere, Tommaso se queda
+
+**CANON DEL AUTOR:** el asesinado al abrir el Libro II es Fabrizio (Cap. 1, «Hogar»); Tommaso no muere, se queda en San Aurelio y se ausenta hacia el final del libro. Supersede la muerte de Tommaso por Volpi. Pendientes: autoría, mecanismo Mei-Lin → Varek, detonante de *El Faro* y salida de Tommaso. [[00_Biblia/00_Trilogy_Structure]] #54 · [[98_Agent_Handoff/sessions/2026-10-12_claude_fabrizio_muere_tommaso_se_queda]].
+
+<!-- Archivada de DECISIONS.md el 2026-10-31 -->
+## 2026-10-12 — Sombras de Poder: cuatro Partes; choque de Tommaso y Marisol
+
+**CANON DEL AUTOR:** cuatro Partes (I Territorio ajeno · II Nieve y ceniza · III Exilio · IV Torna a casa); el incendio y Villa pasan a la I y la gala de Halbrook la cierra. Volpi mata a Fabrizio con el mecanismo de Keene. Los frenos cortados del Lancia de Chiara (orden de Varek; Volpi, velado; cierre de la Parte II, Calle Corona): Tommaso choca contra el Audi que maneja Marisol (tibia; bastón) y se retira; pánico de Kal en el hospital y furia al ver el sabotaje. Rivers & Krane está en los rascacielos de La Isla. Mei-Lin se queda con Tommaso. *El Faro* lo detona el arresto de Kal. [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] · [[98_Agent_Handoff/sessions/2026-10-12_claude_cuatro_partes_sombras]].
+
+<!-- Archivada de DECISIONS.md el 2026-10-31 (segunda rotación) -->
+## 2026-10-13 — Sombras de Poder: confirmaciones, Lunar Pearl, nombre y embarazo
+
+**CANON DEL AUTOR:** la Villa en la Parte I; el piano es regalo de Chiara por el cumpleaños de Kal; incursión y vela tras F4; un solo robo (Lunar Pearl, el «Lussia» de Dario) en la Parte II; Fabrizio muere porque iba a hablar; Mei-Lin es triple agente; la boda de Mabel y Walt abre la IV; final fusionado (caída de Crowe, tormenta y H1); Stavanger en octubre A4 y H1 en diciembre A4, antes de Navidad; el collar dice «Torna a casa». El papel guardado es el de H1; nadie sabe del embarazo antes que Kal; el tic nace en la Parte I. [[98_Agent_Handoff/sessions/2026-10-13_claude_confirmaciones_cuatro_partes]] · [[98_Agent_Handoff/sessions/2026-10-13_claude_robo_lunar_pearl_y_calendario]] · [[98_Agent_Handoff/sessions/2026-10-13_claude_nombre_y_embarazo]].
+
+## Retiradas el 2026-11-01 (por límite de palabras)
+
+## 2026-10-14 — Bonnie y Marisol: arco afectivo
+
+**CANON DEL AUTOR:** en el Libro II Bonnie siente algo por Marisol sin saber nombrarlo; Kenji y su muerte no se tocan. Italia: posible convivencia, sin fijar. Marisol hace sola su carrera de fiscal; ambas cuidan a Elenna como hermanita elegida, sin ser hermanas entre sí. «Lo del amor no es para mí» se conserva. Erin varón: en exploración, no decidido. Progresión II–VII en DISEÑO. [[06_Relationships/Bonnie_y_Marisol]] · [[98_Agent_Handoff/sessions/2026-10-14_claude_bonnie_marisol_arco]].

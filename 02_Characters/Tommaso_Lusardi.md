@@ -1,5 +1,7 @@
 # Tommaso Lusardi
 
+> **CANON DEL AUTOR (2026-10-31), coerción visible en el Libro I:** Tommaso le comenta a Chiara lo que quiere hacer con la misa para Alessio, y eso lleva a «¿todavía cabalgas los domingos?». Es la señal que el atacante del corral usa en el 31 («¿Ella sale mucho los domingos?»), sin dejarlo totalmente culpable. Capítulo (19–21) y fecha de la misa: DISEÑO/PENDIENTE. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Rediseno_Parte_I]].
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 *Seda y Polvora - Ficha de Personaje*
@@ -19,7 +21,7 @@
 
 > Plan anterior retirado: [[97_Supersedido/Tommaso_Muere_Al_Abrir_Libro_II]].
 
-> **CANON DEL AUTOR (2026-10-29) — el torneo de Walt ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Arco_Walt_Condicional]]):** firma el contrato de suministro de la destilería; marca a Walt *verificar solvencia*; ata los cabos del torneo secreto y se lo dice a Chiara en una línea («Es solvente. *Invitado de la dirección.* Buena versión.», DISEÑO) **sin pedir nada**. Guarda la carta; no la gasta. Cobro: en *Sombras de Poder*, cuando forma el frente funcional con Chiara, el lector sabe que pudo usarla y no lo hizo.
+> **CANON DEL AUTOR (2026-10-29) — el torneo de Walt ([[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/00_Plan_Arco_Walt_Condicional]]):** firma el contrato de suministro de la destilería; marca a Walt *verificar solvencia*; ata los cabos del torneo secreto y se lo dice a Chiara en una línea («Es solvente. *Invitado de la dirección.* Buena versión.», DISEÑO) **sin pedir nada**. Guarda la carta; no la gasta. Cobro: en *Sombras de Poder*, cuando forma el frente funcional con Chiara, el lector sabe que pudo usarla y no lo hizo.
 
 > **CANON DEL AUTOR (2026-10-28) — el robo del Monarch ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]).** Roce con Kal por la participación de él y de los muchachos en asuntos del casino; empuja la sospecha sobre Kenji. Encuentra a la valet que dio el dato (Mei-Lin) y la recluta como fuente: inicio de la línea Tommaso → Mei-Lin. **DISEÑO:** entregar a Kenji le parece la salida racional (un soplón interno cierra el caso sin que nadie mire la caja); la suelta de golpe cuando tiene a la valet, y Chiara lo nota. Cree que se robó efectivo: no sabe de las rutas. Nota que Dario nunca preguntó qué había en la caja.
 

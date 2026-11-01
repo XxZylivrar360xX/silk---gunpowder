@@ -2,11 +2,18 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-10-31 13:36. Al día: 60 de 60.
+Actualizada: 2026-11-01 01:09. Al día: 49 de 55.
 
 ## Pendientes
 
-Ninguno: todos los audios corresponden a la prosa actual.
+| Cap. | Título | Estado | Motivo | Desde |
+|---|---|---|---|---|
+| 5 | Cliente y proveedor | PENDIENTE | cambió la prosa | 2026-11-01 00:43 |
+| 15 | Roma Atrii | PENDIENTE | cambió la prosa | 2026-10-31 23:25 |
+| 24 | Lo pequeño | PENDIENTE | cambió la prosa | 2026-10-31 23:25 |
+| 29 | Bajo juramento | PENDIENTE | cambió la prosa | 2026-11-01 00:07 |
+| 30 | Lo que cueste | PENDIENTE | cambió la prosa | 2026-11-01 00:07 |
+| 46 | Cuatro letras | PENDIENTE | cambió la prosa | 2026-11-01 00:07 |
 
 ## Capítulos
 
@@ -16,8 +23,7 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | 2 | Demasiado listo | AL DIA | 2026-10-24 |
 | 3 | Los viejos días | AL DIA | 2026-10-24 |
 | 4 | Tarifa nocturna | AL DIA | 2026-10-24 |
-| 5 | Cliente y proveedor | AL DIA | 2026-10-24 |
-| 6 | Sin llamar a nadie | AL DIA | 2026-10-24 |
+| 5 | Cliente y proveedor | PENDIENTE | 2026-10-24 |
 | 7 | La pizza de calabaza | AL DIA | 2026-10-24 |
 | 8 | Ambos | AL DIA | 2026-10-31 |
 | 9 | La noche del ladrillo | AL DIA | 2026-10-31 |
@@ -25,23 +31,19 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | 11 | La teniente | AL DIA | 2026-10-31 |
 | 12 | La balanza | AL DIA | 2026-10-28 |
 | 13 | Dos sillas vacías | AL DIA | 2026-10-28 |
-| 14 | El farol | AL DIA | 2026-10-31 |
-| 15 | Roma Atrii | AL DIA | 2026-10-28 |
-| 16 | Por su cuenta | AL DIA | 2026-10-31 |
+| 15 | Roma Atrii | PENDIENTE | 2026-10-28 |
 | 17 | Auster | AL DIA | 2026-10-29 |
 | 18 | La regla del teléfono | AL DIA | 2026-10-29 |
 | 19 | Yo lo llevo | AL DIA | 2026-10-29 |
 | 20 | El sobre rojo | AL DIA | 2026-10-29 |
 | 21 | Le quedé debiendo | AL DIA | 2026-10-29 |
 | 22 | El día nublado | AL DIA | 2026-10-29 |
-| 23 | Lo que nadie estaba mirando | AL DIA | 2026-10-29 |
-| 24 | Lo pequeño | AL DIA | 2026-10-29 |
+| 24 | Lo pequeño | PENDIENTE | 2026-10-29 |
 | 25 | El primer huésped | AL DIA | 2026-10-29 |
 | 26 | La cifra | AL DIA | 2026-10-31 |
 | 27 | Con su proveedor | AL DIA | 2026-10-31 |
-| 28 | Nada caro | AL DIA | 2026-10-29 |
-| 29 | Bajo juramento | AL DIA | 2026-10-29 |
-| 30 | Lo que cueste | AL DIA | 2026-10-29 |
+| 29 | Bajo juramento | PENDIENTE | 2026-10-29 |
+| 30 | Lo que cueste | PENDIENTE | 2026-10-29 |
 | 31 | Oveja entre lobos | AL DIA | 2026-10-31 |
 | 32 | Vienes conmigo | AL DIA | 2026-10-29 |
 | 33 | Libros abiertos | AL DIA | 2026-10-29 |
@@ -57,7 +59,7 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | 43 | Mi pareja | AL DIA | 2026-10-29 |
 | 44 | Sin fecha de regreso | AL DIA | 2026-10-29 |
 | 45 | También las mañanas | AL DIA | 2026-10-29 |
-| 46 | Cuatro letras | AL DIA | 2026-10-29 |
+| 46 | Cuatro letras | PENDIENTE | 2026-10-29 |
 | 47 | Al revés | AL DIA | 2026-10-29 |
 | 48 | Un par de días más | AL DIA | 2026-10-29 |
 | 49 | Mecánico | AL DIA | 2026-10-29 |
@@ -75,6 +77,12 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Historial
 
+- 2026-11-01 00:43 · Cap. 5 (05a_Cliente_Y_Proveedor.md) · audio pendiente: cambió la prosa
+- 2026-11-01 00:07 · Cap. 46 (37_Cuatro_Letras.md) · audio pendiente: cambió la prosa
+- 2026-11-01 00:07 · Cap. 30 (24b_Lo_Que_Cueste.md) · audio pendiente: cambió la prosa
+- 2026-11-01 00:07 · Cap. 29 (24_Bajo_Juramento.md) · audio pendiente: cambió la prosa
+- 2026-10-31 23:25 · Cap. 24 (20_El_Mirador.md) · audio pendiente: cambió la prosa
+- 2026-10-31 23:25 · Cap. 15 (12_Roma_Atrii.md) · audio pendiente: cambió la prosa
 - 2026-10-31 13:36 · Cap. 31 (24c_El_Corral.md) · audio regenerado
 - 2026-10-31 13:36 · Cap. 26 (22a_La_Cifra.md) · audio regenerado
 - 2026-10-31 13:36 · Cap. 14 (11_El_Farol.md) · audio regenerado

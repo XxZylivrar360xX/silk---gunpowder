@@ -35,7 +35,7 @@ Personajes: Chiara, Walt, Natalie, Kal, Tommaso; Mabel en ambos.
 
 ## Cap. A — *El farol* (archivo 11, Cap. 14; narra Chiara; semanas, fin de invierno del A2)
 
-**REESCRITO, BORRADOR 2026-10-29:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/11_El_Farol]]. Lo resuelto al redactar está en su encabezado.
+**REESCRITO, BORRADOR 2026-10-29:** [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/11_El_Farol]]. Lo resuelto al redactar está en su encabezado.
 
 Beats en orden tentativo:
 
@@ -51,7 +51,7 @@ Beats en orden tentativo:
 
 ## Cap. B — *Por su cuenta* (archivo nuevo 12b, Cap. 16; narra Kal)
 
-**BORRADOR 2026-10-29:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/12b_Por_Su_Cuenta]]. Lo resuelto al redactar está en su encabezado.
+**BORRADOR 2026-10-29:** [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/12b_Por_Su_Cuenta]]. Lo resuelto al redactar está en su encabezado.
 
 1. **La audiencia de terminación anticipada.** Walt con saco prestado; Nat llega de turno o recién salida de él, a pesar de la discusión (estuvo en la primera audiencia, la que le dio la condicional: esta es el espejo). Kal, desde la banca, lee la distancia entre padre e hija. **Mabel declara:** el comedor comunitario en Acción de Gracias del A1. DISEÑO: el comedor no es La Esquina (Walt la evitaba hasta el Cap. A); Mabel lo sabe por el barrio, no porque él se lo contara («No me lo contó él»). Eco con el Thanksgiving A2 del Cap. 43, platos en La Esquina. Se lee el reporte de su oficial. **DISEÑO:** una carta de Chiara como socia y titular de la licencia, de la que Kal se entera ahí. Una pregunta roza el secreto (si frecuentó establecimientos de juego) y Walt contesta con una verdad literal («Les entrego licor»). Kal no sabe nada; el lector sí.
 2. **Libre.** Una cosa pequeña que Walt puede hacer ahora y antes no: salir del condado sin pedir permiso, sentarse en una barra.

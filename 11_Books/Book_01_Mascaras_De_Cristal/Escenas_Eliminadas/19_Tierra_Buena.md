@@ -1,4 +1,8 @@
 <!--
+ESCENA ELIMINADA (2026-10-31, DECISIÓN DEL AUTOR): fue el Cap. 23 del Libro I (numeración de 60) hasta su salida por la [[13_Auditorias/Book_01_Mascaras_De_Cristal/Carretera_Libro_I]]. Fuera del libro y del EPUB. Lo que cargaba y adónde va: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/README]].
+EPUB: EXCLUDE
+-->
+<!--
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 19; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «Tierra buena».
 PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): la parcela gana escala (camioneta en el camino viejo, ondulación que esconde la mitad del terreno, viento sobre el pasto) y Harper la lee caminando: el terrón seco por fuera y oscuro por dentro, el carrizo, la propiedad de arriba cuesta arriba; Kal la alcanza en el carrizo. Kal lee accesos (por dónde entra un camión) en vez de "como quien ya lo ve terminado". El cuarto queda de vuelta hacia el camino, junto a la cerca. Sin canon geográfico nuevo, salvo la ondulación.

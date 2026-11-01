@@ -1,6 +1,6 @@
 # 2026-10-29 — Renumeración del Libro I a 60 capítulos
 
-Agente: Claude Code. Encargo del autor: «vamos a hacer la reenumeración de los caps» (plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Arco_Walt_Condicional]]).
+Agente: Claude Code. Encargo del autor: «vamos a hacer la reenumeración de los caps» (plan: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/00_Plan_Arco_Walt_Condicional]]).
 
 ## Cambio
 

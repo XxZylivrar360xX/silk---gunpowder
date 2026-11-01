@@ -1,5 +1,7 @@
 # Leone Valenti — *Il Consigliere*
 
+> **CANON DEL AUTOR (2026-10-31):** Valenti entrega en persona el pañuelo y la bala (H13) en una residencia elegante de San Aurelio, al cierre de la Parte I del Libro I. Apariciones: Cap. 2 (Nueva York) → cierre de la Parte I → 49 (Palermo) → 58 (Pacífica). Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Rediseno_Parte_I]].
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 *Seda y Pólvora — Ficha de Personaje*

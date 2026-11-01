@@ -16,6 +16,7 @@ No resolver:
 - Kal NO se entera en el Libro I de que Nadir habló con Chiara. CANON DEL AUTOR (2026-10-01): se paga en Sombras de Poder (Libro II).
 - El precio del favor de Tommaso queda abierto (deuda instalada, no cobrada).
 - Registro privado en semilla (pre-H16): "Ciao, tesoro" es el saludo de Chiara para todos, Nadir incluido. Kal no se pone lírico: su confesión va dicha al motor, corta, y le cuesta.
+- MOTO DE NADIR (2026-11-01, DECISIÓN DEL AUTOR 2026-10-31, punto 6 de §Arco legal de Hoover; prosa DISEÑO pendiente de lectura): la escena de la Kawasaki (S1, con S2 dentro: Nadir dormido en el sillón, oliendo a carretera, sin decir dónde pasó la noche) sale del archivo 23 (*Nada caro*, absorbido en *Bajo juramento*) y entra aquí entre el bloque 1 y el 2, la mañana siguiente (7:10). Texto literal, sin cambios. Pierde el espejo «lo quiero por escrito» del 23; gana la rima con el título y con «Me las debes» de la noche anterior («Te sale lo que costó»). La siguen pagando el 40 (archivo 32, la cadena) y el 42. Residuo de apertura: el 24 ya no termina en «No llamó ese día» (Villani quedó en un párrafo); «llevaba una hora sin llamar a nadie» se sostiene con «Llama a quien tengas que llamar».
 Craft: voz según 12_Craft_Policies/voice (Kal, Chiara, Nadir). Nadir: darija con moderación, la pregunta de dinero como arma, el silencio como alarma, nunca "suerte". Sin tags emocionales; "dijo" por defecto.
 -->
 
@@ -120,6 +121,72 @@ Se agachó para pasar bajo la persiana. Desde afuera, sin asomar la cabeza, dijo
 La persiana bajó. Kal se quedó con el teléfono al lado de la bolsa, y comió las dos tortillas de pollo, despacio, de pie, mirando el motor de una Ford que podía esperar al lunes.
 
 No llamó esa noche tampoco.
+
+***
+
+La moto estaba estacionada frente al taller cuando Kal llegó, a las siete y diez, con la cortina todavía a medio subir. Una Kawasaki verde, usada pero no mucho, con el tanque recién encerado.
+
+Kal la rodeó una vez. Se agachó junto a la rueda trasera y empujó la cadena con el pulgar. Floja.
+
+Adentro, Nadir dormía sentado en el sillón de la oficina, con las botas puestas y la chaqueta cerrada hasta el cuello. Olía a carretera. En el escritorio había un café que ya no echaba vapor.
+
+Kal no lo despertó. Abrió el cajón de abajo del archivero, sacó la caja de lámina donde se guardaba el dinero de los tratos, las piezas que no pasaban por factura y la mercancía que se movía sin papel, y lo contó de pie. Lo contó dos veces.
+
+Faltaba casi exactamente lo que valía una Kawasaki verde con el tanque encerado.
+
+Cerró la caja. El ruido de la lámina despertó a Nadir, que abrió los ojos sin moverse, como quien calcula antes de saber dónde está.
+
+—Khoya. —Se frotó la cara con las dos manos—. ¿Qué hora es?
+
+—Siete y diez.
+
+Nadir miró la caja. Miró a Kal. No se levantó.
+
+—La vi el sábado. El dueño se iba a Phoenix y necesitaba vender rápido. Pedía cuatro mil doscientos; se la dejé en tres mil seiscientos, con casco, y las llantas son nuevas, wallah, no de las que pintan de negro para que parezcan...
+
+—Nadir.
+
+Se calló.
+
+—¿Por qué no me dijiste?
+
+Nadir dejó de frotarse la cara. Por una vez no tenía las manos ocupadas en nada.
+
+—Porque ibas a decir que no.
+
+Kal dejó la caja sobre el escritorio, junto al café frío.
+
+—Iba a decir que sí.
+
+Nadir se quedó mirándolo. Afuera, Danny terminó de subir la cortina y el ruido de la calle entró de golpe.
+
+Kal sacó la cartera, contó de su dinero lo que faltaba, lo metió en la caja y la devolvió al cajón.
+
+—Te lo pago —dijo Nadir.
+
+—Ya sé.
+
+—En abonos. Doscientos por semana. Trescientos cuando... —Se interrumpió—. Cuando se pueda.
+
+—Doscientos está bien.
+
+—Me sale caro.
+
+—Te sale lo que costó.
+
+Nadir se levantó por fin. Tenía los ojos rojos y la chaqueta todavía cerrada. No dijo dónde había pasado la noche.
+
+Salieron juntos a la acera. Nadir pasó la mano por el tanque, despacio, como si todavía tuviera que convencerse de que era suyo.
+
+—La cadena está floja —dijo Kal.
+
+—¿Me la cambias?
+
+—Te la ajusto. Si hay que cambiarla, la pagas tú.
+
+Nadir sonrió por primera vez en la mañana.
+
+—Safi. Ésa te la pago de contado.
 
 ***
 

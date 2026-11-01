@@ -1,0 +1,19 @@
+{
+  "capitulos": {
+    "01_Hogar.md": {
+      "capitulo": 1,
+      "titulo": "Hogar",
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-01",
+      "desde": "2026-11-01 01:15"
+    }
+  },
+  "historial": [
+    [
+      "2026-11-01 01:15",
+      "-",
+      "bitácora iniciada"
+    ]
+  ]
+}

@@ -1,5 +1,9 @@
 <!--
-Estado: BORRADOR (redacción del agente 2026-10-29 con `chapter-drafting`, sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Arco_Walt_Condicional]]; DISEÑO pendiente de lectura del autor).
+ESCENA ELIMINADA (2026-10-31, DECISIÓN DEL AUTOR): fue el Cap. 16 del Libro I (numeración de 60) hasta su salida por la [[13_Auditorias/Book_01_Mascaras_De_Cristal/Carretera_Libro_I]]. Fuera del libro y del EPUB. Lo que cargaba y adónde va: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/README]].
+EPUB: EXCLUDE
+-->
+<!--
+Estado: BORRADOR (redacción del agente 2026-10-29 con `chapter-drafting`, sobre [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/00_Plan_Arco_Walt_Condicional]]; DISEÑO pendiente de lectura del autor).
 Capítulo nuevo (Cap. B del arco de Walt). Va después del Cap. 15 *Roma Atrii* (archivo 12) y antes de *Auster* (archivo 13). Numeración: Cap. 16 de 60, renumerado por orden del autor el 2026-10-29 (del *Auster* en adelante, +1); la prosa sigue en BORRADOR. El título *Por su cuenta* es DISEÑO del agente, discutible.
 Narra: Kal Mercer. Apariciones: Walt Keegan, Mabel Ortiz, Natalie Keegan, Chiara Bellandi. Sin nombre a propósito: el juez, la fiscal adjunta, el oficial de libertad condicional, el subastador, el dueño que vende, el hombre de la cadena de licorerías, el del hielo.
 Ventana temporal: abril del A2, semanas después de la parte 3 de *Roma Atrii* y antes de *Auster*; todavía no hay primer beso. Martes (audiencia), jueves (subasta), jueves por la noche (casa de Kal), viernes temprano (el bar).

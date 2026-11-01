@@ -10,7 +10,7 @@
 Revisar la presentación operativa de **Harper Walker**, la función de **Garrett Cross**, la influencia práctica de **Chiara Bellandi** sobre Kal, la creación de la parcela de doce hectáreas y la primera referencia a **Margaret Rivers**. El capítulo funciona como expansión civil y patrimonial de El Patio y prepara el conflicto de Hoover, sin sustituir el hilo emocional de Kal y Chiara. Se recomiendan **intervenciones mínimas**, no cirugía de estructura.
 
 **Fuentes internas pertinentes:**
-- `[[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/19_Tierra_Buena]]` — Cap. 22 vigente, aunque el archivo conserva el nombre antiguo.
+- `[[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/19_Tierra_Buena]]` — Cap. 22 vigente, aunque el archivo conserva el nombre antiguo.
 - `[[02_Characters/Harper_Walker]]` y `[[12_Craft_Policies/voice/Harper_Walker]]` — origen rural, competencia en campo, voz seca y autonomía; no hacerla otra Marisol.
 - `[[02_Characters/Garrett_Cross]]` — lectura de papeles y activos; su punto ciego: confiar en la documentación más que en las personas.
 - `[[02_Characters/Edward_Connors]]` — **fiscal general del estado**, enemistado con Margaret Rivers desde la facultad.

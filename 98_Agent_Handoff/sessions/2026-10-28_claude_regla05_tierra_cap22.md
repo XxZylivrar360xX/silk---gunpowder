@@ -1,6 +1,6 @@
 # 2026-10-28 — Cap. 22 (archivo 19): regla 05 en *Lo que nadie estaba mirando*
 
-**Agente:** Claude Code (principal). **Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/19_Tierra_Buena]].
+**Agente:** Claude Code (principal). **Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/19_Tierra_Buena]].
 **Origen:** el autor pide la regla [[12_Craft_Policies/dialogue_rules/05-esticomitia-de-una-sola-voz]] en el Cap. 22. El capítulo es TERMINADO; el estado se conserva y la prosa nueva es DISEÑO, espera lectura.
 
 ## Cambios

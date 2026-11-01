@@ -6,7 +6,7 @@
 > **Naturaleza:** REVISIÓN Y PROPUESTAS DE EDICIÓN. **No autoriza cambios automáticos; no fija canon nuevo.**  
 > **Fuente de verdad:** GitHub `XxZylivrar360xX/silk---gunpowder`, `develop`, HEAD `0672a5adde30ae6d35a1397fa51f2a967363208a`.  
 > **Commit revisado:** https://github.com/XxZylivrar360xX/silk---gunpowder/commit/0672a5adde30ae6d35a1397fa51f2a967363208a  
-> **Archivos:** `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/11_El_Farol.md` (Cap. 14 vigente; 480 líneas) y `12b_Por_Su_Cuenta.md` (nuevo capítulo *provisionalmente* 16; ~388 líneas). Ambos en **BORRADOR / prosa DISEÑO** hasta lectura del autor.
+> **Archivos:** `11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/11_El_Farol.md` (Cap. 14 vigente; 480 líneas) y `12b_Por_Su_Cuenta.md` (nuevo capítulo *provisionalmente* 16; ~388 líneas). Ambos en **BORRADOR / prosa DISEÑO** hasta lectura del autor.
 
 ## 1. Dictamen principal
 

@@ -1,6 +1,6 @@
 # 2026-10-26 — Cap. 14 (archivo 11): regla 05 en *El farol*
 
-**Agente:** Claude Code (principal). **Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/11_El_Farol]].
+**Agente:** Claude Code (principal). **Archivo:** [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/11_El_Farol]].
 **Origen:** el autor pide la regla de diálogo [[12_Craft_Policies/dialogue_rules/05-esticomitia-de-una-sola-voz]] en el Cap. 14 (serie 12–16, uno por sesión). DISEÑO del agente, espera lectura.
 
 ## Cambios

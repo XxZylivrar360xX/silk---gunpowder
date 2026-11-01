@@ -1,4 +1,8 @@
 <!--
+ESCENA ELIMINADA (2026-10-31, DECISIÓN DEL AUTOR): fusionado en el Cap. 29 *Bajo juramento* (archivo 24).
+EPUB: EXCLUDE
+-->
+<!--
 Corte de parte 2026-10-29 (decisión del autor): este capítulo pasó a la Parte II (de `Part_01_Dos_Mundos` a `Part_02_Con_Peores_Personas_He_Tratado`); las menciones a «Parte I» de abajo son históricas.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 23; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «La letra pequeña».

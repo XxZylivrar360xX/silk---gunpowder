@@ -6,7 +6,7 @@
 Registrar puntos de observación de la lectura del capítulo 14 y ofrecer estrategias concretas, justificadas y de bajo impacto para que Claude Code y el autor las evalúen. **No son instrucciones de reescritura ni cambios aprobados al canon.**
 
 ## Archivos de referencia
-- `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/11_El_Farol.md` (encabezado interno: **Capítulo 14 — El farol**; no confundir número del archivo con numeración vigente).
+- `11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/11_El_Farol.md` (encabezado interno: **Capítulo 14 — El farol**; no confundir número del archivo con numeración vigente).
 - `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero.md` (encabezado interno: Cap. 13, «Dos sillas vacías»; Walt, cerillos, cena y pregunta del licor).
 - `11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_La_Balanza.md` (secuela del secuestro y presión de Crowe).
 - `02_Characters/Nadir_Amrani.md`; `02_Characters/Kal_Mercer.md`; `06_Relationships/Kal_y_Chiara.md` (consultados para continuidad del barrio y dinámica de pareja).
