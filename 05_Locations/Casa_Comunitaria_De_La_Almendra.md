@@ -12,6 +12,8 @@
 
 Construccion baja de estuco cansado, cancha de concreto al lado, cocina con olor a comino y detergente, mesa larga y tres cuartos de atras que sirven para lo que haga falta.
 
+Callejón de atrás (2026-11-01, DISEÑO; Cap. 12): da a la cancha, no a la calle, y entran coches por ahí, sobre grava. Por ahí llega el Tasador. El cuarto de Chiara está en el segundo piso, con ventana a la cancha.
+
 No tiene nombre en la puerta porque quien necesita saber que es, ya lo sabe.
 
 **DISEÑO (2026-09-03):** tiene un sótano donde [[02_Characters/Nadir_Amrani]] cultiva su hierba — ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/15_El_Porton|Capítulo 15]], donde Danny baja ahí con el rumor de la bodega de La Ronda.

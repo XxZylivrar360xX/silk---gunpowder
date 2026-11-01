@@ -2,6 +2,8 @@
 
 > **SUSPENDIDO EN EL LIBRO I (2026-10-31, DECISIÓN DEL AUTOR):** los Caps. 14 *El farol* y 16 *Por su cuenta* pasaron a [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/README|Escenas eliminadas]]; el arco de la condicional (licencia, torneo, audiencia, pub) es candidato a *Sombras de Poder* (PENDIENTE). Lo de abajo no se cita como hecho del Libro I hasta que se decida.
 
+> **DISEÑO DEL AUTOR (2026-11-01):** Walt anda en moto (una Harley o similar; chaqueta de cuero, botas de motero, casco). Primera vez en el Cap. 12: llega cuando el Tasador se va; Walt lo ve y Crowe no. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]].
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 *Seda y Pólvora — Ficha de Personaje*

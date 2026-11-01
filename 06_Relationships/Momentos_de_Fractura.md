@@ -10,6 +10,8 @@ Estos momentos no contradicen la regla dura de [[06_Relationships/Kal_y_Chiara]]
 
 ## F1 - La mentira bajo la lluvia
 
+> **Bellandi Ridge bajo la lluvia, recuperado (DECISIÓN DEL AUTOR, 2026-11-01):** el motivo («La escena», abajo) vuelve como **discusión del Libro II, no como fractura**. Esta vez la ofendida es Chiara: Kal acepta el cargamento del Tasador. No hay tres días ni separación. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]] §Cuarta ronda.
+
 **Función:** primera fractura seria por una mentira de Chiara, ya dentro de la Parte III — Ardizzone.
 **Lugar:** [[05_Locations/Bellandi_Ridge_Vineyards]], bajo lluvia.
 **Estado de la relación:** ya son pareja formal — "Mi pareja" (H21) cerró la Parte II, mucho antes.

@@ -12,6 +12,8 @@
 
 > **Stavanger (CANON DEL AUTOR, 2026-10-14):** Crowe sale por completo del detonante de Stavanger. Kal llega a Noruega por las cartas de Dale desde la cárcel ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]]). Crowe conserva su revelación en la tormenta (conectó a Dale con la red de colocación): las cartas dicen **dónde**; Crowe, **cómo**. Se conserva el material autoral sobre Dale, la red de colocación y la derrota económica. Sigue pendiente ajustar la relación entre el cargamento antiguo y la autonomía de Kal al ocurrir H8.
 
+> **DECISIÓN DEL AUTOR (2026-11-01):** **villano del Libro I.** Primera aparición en persona en el Cap. 12 *La balanza*: de noche, en el barrio, habla con Kal y ve a Chiara (cancha de atrás de la casa común, desde Chiara; ruin, no insidioso: lo insidioso es de Halbrook; redactada 2026-11-01, DISEÑO; voz: [[12_Craft_Policies/voice/Silas_Crowe]]). Villano también de las Partes II y III: con Kal preso, mete mano en los barrios del sur y los muchachos aceptan su dinero. En el II, Kal acepta su cargamento por los clientes nuevos. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]].
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-08-23).**

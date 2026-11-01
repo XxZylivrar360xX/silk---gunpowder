@@ -2,11 +2,14 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-01 13:23. Al día: 55 de 55.
+Actualizada: 2026-11-01 15:15. Al día: 53 de 55.
 
 ## Pendientes
 
-Ninguno: todos los audios corresponden a la prosa actual.
+| Cap. | Título | Estado | Motivo | Desde |
+|---|---|---|---|---|
+| 12 | La balanza | PENDIENTE | cambió la prosa | 2026-11-01 15:02 |
+| 13 | Dos sillas vacías | PENDIENTE | cambió la prosa | 2026-11-01 15:02 |
 
 ## Capítulos
 
@@ -22,8 +25,8 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | 9 | La noche del ladrillo | AL DIA | 2026-10-31 |
 | 10 | La carrera de máscaras | AL DIA | 2026-10-31 |
 | 11 | La teniente | AL DIA | 2026-10-31 |
-| 12 | La balanza | AL DIA | 2026-10-28 |
-| 13 | Dos sillas vacías | AL DIA | 2026-10-28 |
+| 12 | La balanza | PENDIENTE | 2026-10-28 |
+| 13 | Dos sillas vacías | PENDIENTE | 2026-10-28 |
 | 15 | Roma Atrii | AL DIA | 2026-11-01 |
 | 17 | Auster | AL DIA | 2026-10-29 |
 | 18 | La regla del teléfono | AL DIA | 2026-10-29 |
@@ -70,6 +73,8 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Historial
 
+- 2026-11-01 15:02 · Cap. 13 (10_El_Loft_Del_Soltero.md) · audio pendiente: cambió la prosa
+- 2026-11-01 15:02 · Cap. 12 (09_La_Balanza.md) · audio pendiente: cambió la prosa
 - 2026-11-01 01:21 · Cap. 46 (37_Cuatro_Letras.md) · audio regenerado
 - 2026-11-01 01:21 · Cap. 30 (24b_Lo_Que_Cueste.md) · audio regenerado
 - 2026-11-01 01:21 · Cap. 29 (24_Bajo_Juramento.md) · audio regenerado

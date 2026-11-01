@@ -223,3 +223,13 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Quién NO debe saberlo todavía:** Kal (la mentira de Danny, la valet), Chiara (qué encontró Tommaso), Dario (la valet).
 - **Pago:** la mentira de Danny es candidata para F2 (PENDIENTE); la línea Tommaso → Mei-Lin corre hasta el 48 y el II; Lucía, embrión de la relación de «informante» (PENDIENTE en su ficha); la valet tiene nombre en el Cap. 43 («Kal no había preguntado más» se lee doble).
 - **Estado:** sembrado, sin pagar. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]].
+
+---
+
+## El Tasador sabe de quién es Chiara (Cap. 12, archivo 09; 2026-11-01)
+
+- **Qué es:** Crowe va en persona a la cancha de la casa común, prueba la cercanía de Kal y Chiara («si es tuya… si no es tuya…») y se va con la respuesta que le da el silencio del barrio («Ya me contestaron, muchacho»). La catástrofe disponible tiene comprador.
+- **Quién lo sabe:** el lector, Kal, Chiara, Nadir, los muchachos. Walt ve a Crowe y Crowe no lo ve.
+- **Quién NO debe saberlo todavía:** que Crowe conoce el origen de Kal (SAGA, tormenta del II). Nada en la escena apunta a eso.
+- **Pago:** la cuota y la pregunta a la vulcanizadora (13), sospecha y barreta (21), corral (31: «Crowe firmaba sus recados»), arco sin Kal (trabajo para los muchachos), Libro II (cargamento, incendio). La quietud de Walt se entiende en el 21.
+- **Estado:** sembrado. Prosa DISEÑO pendiente de lectura. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]].

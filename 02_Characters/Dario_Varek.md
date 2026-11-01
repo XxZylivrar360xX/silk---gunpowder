@@ -2,6 +2,8 @@
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
+> **DECISIÓN DEL AUTOR (2026-11-01):** en el Libro I Varek **no se pinta como villano**: poder neutral, ni aliado ni enemigo; se le puede pedir, pero no coopera gratis, y deberle algo puede salir caro. La enemistad se siembra en el II y fundamenta la Guerra de los Tres. El villano del I es el Tasador. Las cadenas ocultas no cambian (bodega, Monarch, Volpi y el corral): el peligro ya es real, sin foco; Chiara y Kal ven dos Darios distintos. «Antagonista principal», abajo, vale para la saga, no para la superficie del I. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]].
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-08-23).** Ficha compacta: registra lo definido y espera. No inventar biografía.

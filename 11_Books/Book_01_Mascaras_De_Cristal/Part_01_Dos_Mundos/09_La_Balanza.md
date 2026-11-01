@@ -14,6 +14,7 @@ Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasad
 Seguridad del Monarch (2026-10-22, decision del autor; prosa DISENO pendiente de lectura): en la cuenta de Chiara en la grua, la seguridad del Monarch es buena y le rinde cuentas a Dario; por eso la Almendra y no el penthouse. Siembra la vigilancia-proteccion de Dario del 24c y la tarjeta del Cap. 10.
 Levanton (2026-10-26, CANON DEL AUTOR en sustancia; supera la linea "Asalto, no atentado" de arriba; redaccion DISENO, pendiente de lectura): el Tasador contrata escoria; camioneta gris (no blanca: las del 24c y el 41 son otras), pasamontanas, las suben a las dos y las llevan a una bodega de Las Calderas junto a las vias; uno se propasa con Chiara en la camioneta y otro lo frena "todavia" (por orden, no por decencia). En la bodega reconocen la credencial del Monarch ("Varek. Casino."): eso las salva; le devuelven todo a Chiara y se quedan la bolsa de Rowe (cobro del 13). Amenazas: Sam, la hija de Rowe (ya sembrada: la amiga de clase de Marisol, Cap. 17; ficha de Marisol; estudia fuera, en residencia universitaria; Kal no oye el nombre: el clic llega en el 17) y "el guero de la grua": sabian a quien levantaban, no de quien mas era. Chiara: muneca, labio partido, golpe en la sien con conmocion leve, por defender a Rowe; Rowe: cachetada y susto. No hay parte: Rowe lo decide (arco oscuro). Kal: Crowe se cobra despues; a la escoria la quiere encontrar ("Esos no se tasaban. Esos se encontraban."); Chiara le da las senas (diente gris; anillo en el menique) sabiendo para que. Primera noche: Kal la despierta cada tres horas. Arrastre pendiente: Cap. 13 (archivo 10), objecion de Nadir y estado de Chiara.
 Regla de dialogo 05 (2026-10-26): Rowe no contesta el cafe; "Si. Estoy bien, Kal." en lugar del eco "Con Rowe"; triaje sin eco ("Se me rompio la una"); Rowe ofrece "Le debo una" y Chiara contesta con "Ciao, tesoro"; cabina sin "Nombre?"/"No". Sesion: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_levanton_cap12]].
+Visita del Tasador (2026-11-01, DECISIÓN DEL AUTOR; prosa DISEÑO pendiente de lectura; plan [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]]): escena nueva antes de "Los muchachos la dejaron quedarse", POV Chiara, al tercer día, desde la ventana abierta de su cuarto en el segundo piso (oye, no participa; corrección del autor 2026-11-01). Primera aparición de Crowe en persona: dos sedanes por el callejón de atrás; disculpa irónica + "gatas finas del casino" (líneas A + D del autor); Nadir: "En la casa de Kal nadie contesta eso, señor Crowe. Ya se va."; "Ya me contestaron, muchacho"; Chiara busca las pulseras (reventadas en el levantón, `09:114`) y encuentra la férula; Walt llega en la Harley, lo ve y Crowe no ("Ése no se disculpa. Hace inventario."). Ninguno de los del levantón aparece (cobro del Libro II). El chico de la vulcanizadora se le pone enfrente (cobra en el 10:166).
 Il Consorzio (2026-10-22, idea del autor; prosa DISENO pendiente de lectura): tercera razon de Chiara para no volver al Monarch: una Ardizzone lastimada en el lobby se lee en Il Consorzio como afrenta a la familia y trae presencia que nadie pidio. Cobro en la tarjeta de Dario del Cap. 10.
 Cirugia editorial 2026-10-27 (notas de lectura ChatGPT 2026-10-26, autorizada por el autor; sigue BORRADOR; prosa nueva DISENO pendiente de lectura): apertura sin la glosa del miedo a la facilidad ni del "no se arrepentia" (lo carga la grua: "lo poco que le habia costado darselo"), inventario de mensajes comprimido; reflexion de Kal sobre Crowe sin la generalizacion del barrio, el "Del guero de la grua" repetido ni el "todavia no se podia" duplicado; Danny en una sola clausula en la propuesta de la grua. Ver 98_Agent_Handoff/sessions/2026-10-27_claude_surgery_cap12_balanza.md.
 -->
@@ -373,6 +374,83 @@ Subió a las seis, y a las nueve, y a la medianoche, a preguntarle cómo se llam
 Entre la de la medianoche y la siguiente, Danny lo vio por la ventana desde el sofá: Kal, de pie en la cancha, junto a la malla, prendiendo un cigarro con la mano hueca contra el viento. Kal casi no fumaba. Danny no se levantó ni dijo nada. En la casa común todos sabían qué quería decir eso, y nadie se lo había dicho nunca a él.
 
 A las tres de la mañana se lo dijo en italiano, y él no la corrigió. Se quedó en la silla hasta que fue hora de volver a preguntar.
+
+***
+
+Al tercer día abrió la ventana.
+
+Nadie se lo había pedido y nadie le dijo que no. Acercó la silla, apoyó la férula en el alféizar y miró a los muchachos jugar abajo con el balón ponchado contra la malla. Botaba mal, a destiempo, y ellos lo seguían igual, como si el balón también fuera de la casa y no hubiera que cambiarlo. De la cocina subía olor a comino y a cebolla dorada de más. Kal estaba en la banca de la malla, con la chaqueta puesta y el libro de cuentas abierto sobre las rodillas, y una pluma que no usaba.
+
+Desde abajo la trataban como se trata a un huésped. Levantaban la barbilla hacia la ventana cuando pasaban, le daban las buenas tardes. El chico de la vulcanizadora, el de la gorra al revés, en tres días no había mirado hacia arriba.
+
+Danny salió de la casa.
+
+Chiara lo vio cruzar la puerta: un movimiento entero, de una vez, sin el estirón ni la broma que lo acompañaban siempre. En tres días no lo había visto levantarse rápido del sofá para nada. El perro salió detrás de él.
+
+—Jefe —dijo Danny. Nada más.
+
+Por el callejón de atrás, el que daba a la cancha y no a la calle, entraban dos autos. Sedanes largos y viejos, uno gris y otro de un rojo que había sido mejor, con las defensas cromadas, y entraban despacio, como entran los coches que no tienen que pedir permiso. El balón botó una vez más contra la malla y nadie fue por él. Alguien apagó el radio.
+
+El patio cambió antes de que ella supiera por qué, y sin ruido: los muchachos no se juntaron, se abrieron. Dos se quedaron en la puerta de la casa, debajo de su ventana, sin mirar hacia arriba. Uno era el de la gorra al revés.
+
+Del auto gris bajó primero un hombre joven, que rodeó el coche y abrió la puerta de atrás. Lo que salió de ahí tardó. Era un hombre gordo, de una gordura pesada y antigua, y salió en dos tiempos, con una mano en el marco de la puerta y la otra en el hombro del que se la había abierto. Traía un saco claro que le cerraba con un solo botón y la camisa abierta en el cuello. Chiara le miró las manos, porque era lo primero que miraba en cualquiera. No traía ni un anillo.
+
+No entró a la cancha. Se quedó en la grava, donde terminaba el concreto, como quien se detiene en la puerta de una tienda en la que no piensa comprar.
+
+Kal cerró el libro. Se levantó y fue hacia él sin prisa, y Nadir salió de la cocina con el trapo todavía en las manos y lo siguió, un paso atrás y a un lado. Nadie le dijo a Chiara que cerrara la ventana. Ella no se movió.
+
+—Mercer. —El gordo lo saludó con la cabeza, como en un velorio—. Tanto tiempo sin verte del otro lado del vidrio.
+
+—Dígame qué quiere.
+
+—Nada, muchacho. Vine a dar la cara, que es lo que hace un hombre de mostrador. —Se acomodó el saco, que no se dejó acomodar—. Tú me conoces. Yo no hago las cosas así. Lo del callejón no es mi estilo. Es de gente que no sabe tasar.
+
+No levantó la voz. No le hacía falta: el patio estaba callado, y la ventana, abierta. Alzó los ojos hacia ella. No a ella: a la férula, sobre el alféizar.
+
+—Dile a la señorita que lo siento. De verdad. Yo mandé a cobrarle una cuenta a la fiscal, no a romperle nada a nadie. Pero la escoria es escoria: les pagas por una cachetada y se quieren cobrar el resto. —Se encogió de hombros, y el saco se le subió con ellos—. Y el que se sienta en la mesa de la ley se levanta con algo roto. Para la otra, que escoja mejor a sus amigas.
+
+Chiara había oído el *todavía*. Lo había dicho alguien adelante, en la camioneta, con la mano de otro en su pierna, y no lo había dicho como quien frena a un perro por lástima. Lo había dicho como quien repite una orden. Al que quería cobrarse el resto lo habían dejado llegar exactamente hasta donde alguien dijo.
+
+En la grúa, Kal no le había querido dar el nombre. Ya no hacía falta.
+
+—Ella lo oyó —dijo Kal.
+
+—Qué bueno. —La sonrisa le subió a la cara por partes—. Aunque, ahora que la veo, me da curiosidad. ¿Desde cuándo la Almendra recoge gatas finas del casino? Si es tuya, Mercer, dímelo, y te la dejo a precio de amigo. Y si no es tuya, no sé qué hace durmiendo aquí.
+
+Una silla raspó el concreto. Uno de los flacos de la malla dio dos pasos hacia la grava antes de que otro lo agarrara de la camiseta, y alguien dijo algo en voz baja que desde arriba no se entendió y que no hacía falta entender. Kal levantó la mano abierta a la altura de la cadera, sin voltear. El patio se quedó donde estaba.
+
+La mano izquierda de Chiara fue sola a la muñeca derecha, a darles media vuelta a las pulseras, y encontró la férula. Las pulseras se habían quedado en la alcantarilla del callejón de la panadería, cuenta por cuenta. Dejó la mano ahí, sobre las correas, y lo miró como si en la grava no hubiera nadie esperando que contestara. No le iba a contestar. Conocía a esa clase de hombre, y a esa clase de hombre lo único que le cuesta es que no le contesten.
+
+Nadir se puso el trapo al hombro y se adelantó medio paso.
+
+—En la casa de Kal nadie contesta eso, señor Crowe. Ya se va.
+
+No subió la voz, y no levantó la vista hacia la ventana para decirlo. Miró a Kal.
+
+Crowe se tomó su tiempo con él. Lo miró de arriba abajo, como se mira un reloj que alguien trae a empeñar y que vale menos de lo que su dueño cree. Después se rió, una risa corta, por la nariz.
+
+—Ya me contestaron, muchacho —le dijo a Kal.
+
+El joven le abrió la puerta. Crowe se metió al coche en los mismos dos tiempos, y los dos autos salieron de reversa por el callejón, despacio, con la grava crujiendo bajo las llantas, igual que habían entrado.
+
+Por el otro extremo del callejón venía una moto.
+
+Chiara la oyó antes de verla: un motor grueso, de los que se sienten en el pecho. Era una Harley negra, vieja y limpia, y el que la manejaba llevaba chaqueta de cuero, botas y el casco puesto. Frenó a media cuadra, con un pie en el suelo. El auto gris pasó a su lado. En el asiento de atrás, Crowe iba mirando hacia la casa común, hacia la ventana, y no volteó.
+
+El de la moto tampoco se movió. Se quedó con el motor encendido y el casco puesto, mirando el auto gris hasta que dobló en la esquina, y todavía un rato después. Cuando se quitó el casco era Walt.
+
+Entró a la cancha a vuelta de rueda y apagó la moto junto a la malla. Miró el balón quieto, el radio apagado, a los muchachos y, al final, a Kal.
+
+—¿Qué quería?
+
+—Disculparse.
+
+Walt colgó el casco del manubrio.
+
+—Ése no se disculpa. Hace inventario.
+
+Nadie volvió al balón. Los muchachos se fueron metiendo a la casa uno por uno, sin que nadie lo dijera, y Nadir volvió a la cocina a apagar algo que ya se había dorado de más. Chiara se quedó en la ventana con la mano todavía sobre la férula. Sólo entonces se dio cuenta de quién se había quedado en la puerta, debajo de ella, todo el rato que el gordo habló: el de la gorra al revés, que en tres días no había mirado hacia arriba y que ahora tampoco miró. Recogió el balón ponchado y se lo llevó adentro.
+
 
 ***
 

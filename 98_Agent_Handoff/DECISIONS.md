@@ -2,6 +2,10 @@
 
 Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]. Archivar entradas antiguas antes de retirarlas.
 
+## 2026-11-01 — Hilo C: el Tasador, villano del Libro I
+
+**DECISIÓN DEL AUTOR:** Crowe es el villano del I; Varek, poder neutral que no coopera gratis (la enemistad nace en el II). Crowe aparece en persona en el Cap. 12 (cancha de la casa común, desde Chiara; ruin, no insidioso) y, con Kal preso, mete mano en el sur y los muchachos aceptan su dinero. Dario sigue como artífice oculto. Walt llega en moto y ve a Crowe sin ser visto; línea A + D. El dinero de Crowe paga deudas del barrio, no a Dario. **CANON:** con Chiara, Kal siempre reconoce el error; la lluvia en Bellandi Ridge vuelve en el II como discusión (ella, la ofendida) y lleva a Villa Candelaria. Cap. 21: sospecha sin certeza. Cap. 24: saldo de la cuota. **CANON:** en el II, Kal acepta el cargamento de Crowe. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]].
+
 ## 2026-11-01 — Carretera: fusión del Cap. 6
 
 **DECISIÓN DEL AUTOR:** el Cap. 6 *Sin llamar a nadie* (05b) va como **coda del Cap. 5** *Cliente y proveedor* (05a), con poda ligera (~5,600 palabras el fusionado) y conservando las dos salidas con Blake. El escalón **V-1** queda aprobado y entra tras la caseta (la dirección pide el nombre del responsable de Almendra). El 05b sale con `git rm`; lo podado va a `Escenas_Eliminadas/`. Ejecutada 2026-11-01: [[98_Agent_Handoff/sessions/2026-11-01_claude_fusion_05b_coda_05a]].
@@ -21,11 +25,3 @@ Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces 
 ## 2026-10-14 — Cartas de Dale, guía de redacción y Navidad
 
 **CANON DEL AUTOR:** las cartas de Dale desde la cárcel, entregadas por Manfred Gabe (primera aparición del nombre, sin cara), detonan Stavanger; Kal las devuelve a la tumba antes del viaje; Crowe sale del detonante. Retcon del Cap. 10: Dale muere preso ~9 años antes del Libro I. En la guía de redacción: sin golpe en la Parte I, graduación en otoño, la filtración Halbrook→Dario→Volpi y la línea Tommaso→Mei-Lin fuera de página; F3: Kal golpeado dice «Te amo» y Chiara no lo oye. Navidad: cena en el taller, el mismo detalle para todos y el collar a solas afuera (resto DISEÑO). [[98_Agent_Handoff/sessions/2026-10-14_claude_cartas_de_dale]] · [[98_Agent_Handoff/sessions/2026-10-14_claude_guia_redaccion_sombras]] · [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Almendra_Towing]].
-
-## 2026-10-14 — F2 y el regreso de Roberta (segunda ronda)
-
-**CANON DEL AUTOR:** Bonnie le cuenta primero a Chiara, que llora, y después confiesa ante Kal. La confesión la salva ante Kal y la condena ante el barrio. Ante el barrio, el exilio es una transacción Kal–Chiara: la vida de Bonnie a cambio de no estar en San Aurelio mientras El Patio funja como organización criminal. En Italia la amadrina Chiara; en San Aurelio, Corrado la respalda en privado. Regresa ~un año antes del epílogo y toma la posición directiva de Chiara, no la de Kenji. Erin sigue siendo mujer; el reparto de V–VII se compensa en el semielenco de la comisaría. [[98_Agent_Handoff/sessions/2026-10-14_claude_f2_segunda_ronda]].
-
-## 2026-10-14 — F2: la coartada de Bonnie
-
-**CANON DEL AUTOR:** la traición es de Mei-Lin; Bonnie le da una coartada sabiendo que miente, sin saber que cubre una filtración a Varek, y confiesa por su cuenta ante Kal. El barrio quiere las dos cabezas; Kal deja vivir a Bonnie porque Chiara la quiere. Antes de F2, la tarde de las latas. Bonnie es adoptada (Boston). ~20 años después vuelve como Roberta Ardizzone, con Corrado vivo. [[98_Agent_Handoff/sessions/2026-10-14_claude_f2_coartada_bonnie]].

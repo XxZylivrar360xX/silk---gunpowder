@@ -1,5 +1,7 @@
 # Kal y Chiara
 
+> **CANON DEL AUTOR (2026-11-01): con Chiara, Kal siempre reconoce que se equivocó.** Puede equivocarse y tener orgullo, pero con ella termina diciendo que sí y admitiendo el error. **Sólo con ella:** con la banda, con externos o con Dario puede no reconocerlo. Riesgo que hay que escribir: no sabe defender su sí sin antes decirle que no (discusión bajo la lluvia del Libro II, [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]]).
+
 ## Hogares, pérdidas y futuro — CANON DEL AUTOR 2026-09-20
 
 Loft: hogar descubierto y construido por ambos → Navidad/collar en IV (**TORNA A CASA**, inscripción intacta) → **F4 separados (Kal en Washington, Chiara en el Monarch), piano de pared, antes del incendio** [canon 2026-09-26] → incendio cierra IV → F3 → F2: Mei-Lin muere y Bonnie se va **el mismo día** → Villa Candelaria como reconstrucción conjunta → Stavanger/anillo, todavía en V → embarazo/H1/reveal en VI, familia futura. No hay otros Tres Días después de Camp Alder.

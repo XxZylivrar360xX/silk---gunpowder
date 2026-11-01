@@ -83,18 +83,18 @@
     "09_La_Balanza.md": {
       "capitulo": 12,
       "titulo": "La balanza",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-28",
-      "desde": "2026-10-28 09:40"
+      "desde": "2026-11-01 15:02"
     },
     "10_El_Loft_Del_Soltero.md": {
       "capitulo": 13,
       "titulo": "Dos sillas vacías",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-10-28",
-      "desde": "2026-10-28 09:40"
+      "desde": "2026-11-01 15:02"
     },
     "12_Roma_Atrii.md": {
       "capitulo": 15,
@@ -2501,6 +2501,16 @@
       "2026-11-01 01:21",
       "Cap. 46 (37_Cuatro_Letras.md)",
       "audio regenerado"
+    ],
+    [
+      "2026-11-01 15:02",
+      "Cap. 12 (09_La_Balanza.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-01 15:02",
+      "Cap. 13 (10_El_Loft_Del_Soltero.md)",
+      "audio pendiente: cambió la prosa"
     ]
   ]
 }

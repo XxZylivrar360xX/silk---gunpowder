@@ -5,6 +5,8 @@
 > **Método:** mapas ([[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]], [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]], [[06_Relationships/Hitos]], [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]), el encabezado «Función» de cada capítulo y un conteo de menciones en la prosa (sin comentarios internos). **No es una relectura de los 60 capítulos.** La clasificación es una hipótesis para que el autor la confirme o la corrija durante su lectura.
 >
 > Antecedente: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Evaluacion_Arco_Libro_I]] (2026-09-26, versión de 44 capítulos). Diagnosticó el mismo problema; sus siembras se aplicaron, pero el libro creció de 44 a 60 casi sólo con arcos que se cierran solos.
+>
+> **Hilo C (DECISIÓN DEL AUTOR, 2026-11-01):** el Tasador es el villano del Libro I; Varek, poder neutral al que conviene no deberle nada (la columna sigue; cambia la etiqueta). Crowe en persona en el 12: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]].
 
 ---
 

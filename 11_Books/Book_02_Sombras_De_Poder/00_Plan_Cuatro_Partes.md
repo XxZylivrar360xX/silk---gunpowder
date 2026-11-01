@@ -39,12 +39,13 @@ Abre con el Cap. 1, [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno
 7. Bonnie y Mei-Lin, roomies en La Almendra.
 8. ~~Robo de joyería~~ **→ pasa a la Parte II (CANON DEL AUTOR, 2026-10-13)**, después de la incursión y antes del choque, para que la vela ya exista. Ver Parte II. El golpe grande de la Parte I vuelve a quedar PENDIENTE.
 9. ~~Primera tajada grande~~ → con el robo, en la Parte II.
+9b. **(DECISIÓN DEL AUTOR 2026-11-01; ubicación DISEÑO.)** Kal vuelve a un barrio que, mientras él estaba preso, ya trabajó para Crowe; acepta el cargamento por los clientes nuevos. Chiara se entera y discuten **bajo la lluvia en Bellandi Ridge**: la ofendida es ella. Ella oculta a la vez su cuenta con Dario (§9). Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]].
 10. Tyler pierde el cargamento de cocaína de Silas Crowe; Kal responde por el error.
 11. **Crowe cobra incendiando el loft** y exige reponer el cargamento con alta pureza.
 12. Ren revela su capacidad de producción.
 13. «Quiero levantarlo»: Kal compra el resto de Calle Almendra para el núcleo del Patio.
 14. La azotea de Almendra Towing como hogar colectivo.
-15. **Villa Candelaria:** cuatro propiedades; «—Queremos esta.» (las líneas son DISEÑO del autor).
+15. **Villa Candelaria:** cuatro propiedades; «—Queremos esta.» (las líneas son DISEÑO del autor). **(DECISIÓN DEL AUTOR 2026-11-01):** Kal la busca después de reconocer que se equivocó con el cargamento (la lluvia, §9b).
 16. Rodada de montaña con salto en tándem: un hito Kal/Chiara de confianza, sin número de H por ahora.
 17. Venta a un encubierto del FBI: el agente queda herido leve y alguien pronuncia el nombre real de Danny.
 18. «Señor Militar».

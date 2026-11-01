@@ -76,6 +76,14 @@ Libro III: Cuentas de Sangre. Continuación en duología: Libro IV Juramento de 
 
 ## Retiradas el 2026-11-01 (por límite de palabras)
 
+## 2026-10-14 — F2 y el regreso de Roberta (segunda ronda)
+
+**CANON DEL AUTOR:** Bonnie le cuenta primero a Chiara, que llora, y después confiesa ante Kal. La confesión la salva ante Kal y la condena ante el barrio. Ante el barrio, el exilio es una transacción Kal–Chiara: la vida de Bonnie a cambio de no estar en San Aurelio mientras El Patio funja como organización criminal. En Italia la amadrina Chiara; en San Aurelio, Corrado la respalda en privado. Regresa ~un año antes del epílogo y toma la posición directiva de Chiara, no la de Kenji. Erin sigue siendo mujer; el reparto de V–VII se compensa en el semielenco de la comisaría. [[98_Agent_Handoff/sessions/2026-10-14_claude_f2_segunda_ronda]].
+
+## 2026-10-14 — F2: la coartada de Bonnie
+
+**CANON DEL AUTOR:** la traición es de Mei-Lin; Bonnie le da una coartada sabiendo que miente, sin saber que cubre una filtración a Varek, y confiesa por su cuenta ante Kal. El barrio quiere las dos cabezas; Kal deja vivir a Bonnie porque Chiara la quiere. Antes de F2, la tarde de las latas. Bonnie es adoptada (Boston). ~20 años después vuelve como Roberta Ardizzone, con Corrado vivo. [[98_Agent_Handoff/sessions/2026-10-14_claude_f2_coartada_bonnie]].
+
 ## 2026-10-14 — Bonnie y Marisol: arco afectivo
 
 **CANON DEL AUTOR:** en el Libro II Bonnie siente algo por Marisol sin saber nombrarlo; Kenji y su muerte no se tocan. Italia: posible convivencia, sin fijar. Marisol hace sola su carrera de fiscal; ambas cuidan a Elenna como hermanita elegida, sin ser hermanas entre sí. «Lo del amor no es para mí» se conserva. Erin varón: en exploración, no decidido. Progresión II–VII en DISEÑO. [[06_Relationships/Bonnie_y_Marisol]] · [[98_Agent_Handoff/sessions/2026-10-14_claude_bonnie_marisol_arco]].

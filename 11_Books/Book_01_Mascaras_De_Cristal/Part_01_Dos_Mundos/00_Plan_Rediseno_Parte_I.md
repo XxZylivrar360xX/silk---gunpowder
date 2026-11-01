@@ -7,6 +7,8 @@ Documento de planeación, no capítulo narrativo.
 > **Estado:** DISEÑO del agente (Claude Code, 2026-10-31), a pedido del autor. Nada aplicado a la prosa. Sigue a [[13_Auditorias/Book_01_Mascaras_De_Cristal/Carretera_Libro_I]]. Numeración: la de 60, conservada hasta que la carretera quede armada (decisión del autor); los Caps. 14, 16 y 23 ya están en [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/README|Escenas eliminadas]].
 
 > **DECISIÓN DEL AUTOR (2026-10-31):** **columna aprobada** («la unión invisible y los ojos», con Varek como reloj). **P-3 aprobado con la versión del autor** (abajo). Los escalones V-1…P-2 están en estudio del autor; P-2 sigue como propuesta.
+>
+> **Hilo C, el Tasador (DISEÑO, 2026-11-01):** propuesta de C-1 en lugar de U-1 y de C-2 fundido con V-3: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]].
 
 ## El problema, dicho desde la Parte II
 
