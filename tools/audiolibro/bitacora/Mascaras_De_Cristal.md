@@ -2,42 +2,11 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-01 22:26. Al día: 26 de 56.
+Actualizada: 2026-11-01 22:56. Al día: 56 de 56.
 
 ## Pendientes
 
-| Cap. | Título | Estado | Motivo | Desde |
-|---|---|---|---|---|
-| 22 | Grazie | PENDIENTE | cambió la prosa | 2026-11-01 22:20 |
-| 28 | Vienes conmigo | SIN AUDIO |  | 2026-11-01 21:23 |
-| 29 | Libros abiertos | SIN AUDIO |  | 2026-11-01 21:23 |
-| 30 | Me encuentro bien | SIN AUDIO |  | 2026-11-01 21:23 |
-| 31 | Lleve equipaje | SIN AUDIO |  | 2026-11-01 21:23 |
-| 32 | No hace falta | SIN AUDIO |  | 2026-11-01 21:23 |
-| 33 | Una silla | SIN AUDIO |  | 2026-11-01 21:23 |
-| 34 | Media Baraja | SIN AUDIO |  | 2026-11-01 21:23 |
-| 35 | Vamos a casa | SIN AUDIO |  | 2026-11-01 21:23 |
-| 36 | Línea directa | SIN AUDIO |  | 2026-11-01 21:23 |
-| 37 | Lo único que es mío | SIN AUDIO |  | 2026-11-01 21:23 |
-| 38 | La mano | SIN AUDIO |  | 2026-11-01 21:23 |
-| 39 | Mi pareja | SIN AUDIO |  | 2026-11-01 21:23 |
-| 40 | Sin fecha de regreso | SIN AUDIO |  | 2026-11-01 21:23 |
-| 41 | También las mañanas | SIN AUDIO |  | 2026-11-01 21:23 |
-| 42 | Cuatro letras | SIN AUDIO |  | 2026-11-01 21:23 |
-| 43 | Al revés | SIN AUDIO |  | 2026-11-01 21:23 |
-| 44 | Un par de días más | SIN AUDIO |  | 2026-11-01 21:23 |
-| 45 | Mecánico | SIN AUDIO |  | 2026-11-01 21:23 |
-| 46 | La otra mitad | SIN AUDIO |  | 2026-11-01 21:23 |
-| 47 | Nada | SIN AUDIO |  | 2026-11-01 21:23 |
-| 48 | La puerta | SIN AUDIO |  | 2026-11-01 21:23 |
-| 49 | Jurisdicción | SIN AUDIO |  | 2026-11-01 21:23 |
-| 50 | Ropa limpia | SIN AUDIO |  | 2026-11-01 21:23 |
-| 51 | Llaves | SIN AUDIO |  | 2026-11-01 21:23 |
-| 52 | Intereses | SIN AUDIO |  | 2026-11-01 21:23 |
-| 53 | Su nombre | SIN AUDIO |  | 2026-11-01 21:23 |
-| 54 | Por si vuelve | SIN AUDIO |  | 2026-11-01 21:23 |
-| 55 | A oscuras | SIN AUDIO |  | 2026-11-01 21:23 |
-| 56 | La tierra bajo sus botas | SIN AUDIO |  | 2026-11-01 21:23 |
+Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Capítulos
 
@@ -64,44 +33,74 @@ Actualizada: 2026-11-01 22:26. Al día: 26 de 56.
 | 19 | El día nublado | AL DIA | 2026-11-01 |
 | 20 | Lo pequeño | AL DIA | 2026-11-01 |
 | 21 | El primer huésped | AL DIA | 2026-11-01 |
-| 22 | Grazie | PENDIENTE | 2026-11-01 |
+| 22 | Grazie | AL DIA | 2026-11-01 |
 | 23 | La cifra | AL DIA | 2026-11-01 |
 | 24 | Con su proveedor | AL DIA | 2026-11-01 |
 | 25 | Bajo juramento | AL DIA | 2026-11-01 |
 | 26 | Lo que cueste | AL DIA | 2026-11-01 |
 | 27 | Oveja entre lobos | AL DIA | 2026-11-01 |
-| 28 | Vienes conmigo | SIN AUDIO | 2026-10-29 |
-| 29 | Libros abiertos | SIN AUDIO | 2026-10-29 |
-| 30 | Me encuentro bien | SIN AUDIO | 2026-10-30 |
-| 31 | Lleve equipaje | SIN AUDIO | 2026-10-29 |
-| 32 | No hace falta | SIN AUDIO | 2026-10-29 |
-| 33 | Una silla | SIN AUDIO | 2026-10-29 |
-| 34 | Media Baraja | SIN AUDIO | 2026-10-29 |
-| 35 | Vamos a casa | SIN AUDIO | 2026-10-29 |
-| 36 | Línea directa | SIN AUDIO | 2026-10-29 |
-| 37 | Lo único que es mío | SIN AUDIO | 2026-10-29 |
-| 38 | La mano | SIN AUDIO | 2026-10-29 |
-| 39 | Mi pareja | SIN AUDIO | 2026-10-29 |
-| 40 | Sin fecha de regreso | SIN AUDIO | 2026-10-29 |
-| 41 | También las mañanas | SIN AUDIO | 2026-10-29 |
-| 42 | Cuatro letras | SIN AUDIO | 2026-11-01 |
-| 43 | Al revés | SIN AUDIO | 2026-10-29 |
-| 44 | Un par de días más | SIN AUDIO | 2026-10-29 |
-| 45 | Mecánico | SIN AUDIO | 2026-10-29 |
-| 46 | La otra mitad | SIN AUDIO | 2026-10-29 |
-| 47 | Nada | SIN AUDIO | 2026-10-29 |
-| 48 | La puerta | SIN AUDIO | 2026-10-29 |
-| 49 | Jurisdicción | SIN AUDIO | 2026-10-29 |
-| 50 | Ropa limpia | SIN AUDIO | 2026-10-29 |
-| 51 | Llaves | SIN AUDIO | 2026-10-29 |
-| 52 | Intereses | SIN AUDIO | 2026-10-30 |
-| 53 | Su nombre | SIN AUDIO | 2026-10-30 |
-| 54 | Por si vuelve | SIN AUDIO | 2026-10-30 |
-| 55 | A oscuras | SIN AUDIO | 2026-10-30 |
-| 56 | La tierra bajo sus botas | SIN AUDIO | 2026-10-30 |
+| 28 | Vienes conmigo | AL DIA | 2026-11-01 |
+| 29 | Libros abiertos | AL DIA | 2026-11-01 |
+| 30 | Me encuentro bien | AL DIA | 2026-11-01 |
+| 31 | Lleve equipaje | AL DIA | 2026-11-01 |
+| 32 | No hace falta | AL DIA | 2026-11-01 |
+| 33 | Una silla | AL DIA | 2026-11-01 |
+| 34 | Media Baraja | AL DIA | 2026-11-01 |
+| 35 | Vamos a casa | AL DIA | 2026-11-01 |
+| 36 | Línea directa | AL DIA | 2026-11-01 |
+| 37 | Lo único que es mío | AL DIA | 2026-11-01 |
+| 38 | La mano | AL DIA | 2026-11-01 |
+| 39 | Mi pareja | AL DIA | 2026-11-01 |
+| 40 | Sin fecha de regreso | AL DIA | 2026-11-01 |
+| 41 | También las mañanas | AL DIA | 2026-11-01 |
+| 42 | Cuatro letras | AL DIA | 2026-11-01 |
+| 43 | Al revés | AL DIA | 2026-11-01 |
+| 44 | Un par de días más | AL DIA | 2026-11-01 |
+| 45 | Mecánico | AL DIA | 2026-11-01 |
+| 46 | La otra mitad | AL DIA | 2026-11-01 |
+| 47 | Nada | AL DIA | 2026-11-01 |
+| 48 | La puerta | AL DIA | 2026-11-01 |
+| 49 | Jurisdicción | AL DIA | 2026-11-01 |
+| 50 | Ropa limpia | AL DIA | 2026-11-01 |
+| 51 | Llaves | AL DIA | 2026-11-01 |
+| 52 | Intereses | AL DIA | 2026-11-01 |
+| 53 | Su nombre | AL DIA | 2026-11-01 |
+| 54 | Por si vuelve | AL DIA | 2026-11-01 |
+| 55 | A oscuras | AL DIA | 2026-11-01 |
+| 56 | La tierra bajo sus botas | AL DIA | 2026-11-01 |
 
 ## Historial
 
+- 2026-11-01 22:56 · Cap. 56 (50b_La_Tierra_Bajo_Sus_Botas.md) · audio generado
+- 2026-11-01 22:56 · Cap. 55 (50_A_Oscuras.md) · audio generado
+- 2026-11-01 22:56 · Cap. 54 (49_Enfrente.md) · audio generado
+- 2026-11-01 22:56 · Cap. 53 (48_Su_Nombre.md) · audio generado
+- 2026-11-01 22:56 · Cap. 52 (47_Intereses.md) · audio generado
+- 2026-11-01 22:56 · Cap. 51 (46_Llaves.md) · audio generado
+- 2026-11-01 22:56 · Cap. 50 (45_Ropa_Limpia.md) · audio generado
+- 2026-11-01 22:56 · Cap. 49 (44_Jurisdiccion.md) · audio generado
+- 2026-11-01 22:56 · Cap. 48 (43_La_Puerta.md) · audio generado
+- 2026-11-01 22:56 · Cap. 47 (42_Nada.md) · audio generado
+- 2026-11-01 22:56 · Cap. 46 (41_La_Otra_Mitad.md) · audio generado
+- 2026-11-01 22:56 · Cap. 45 (40_Mecanico.md) · audio generado
+- 2026-11-01 22:56 · Cap. 44 (39_Un_Par_De_Dias_Mas.md) · audio generado
+- 2026-11-01 22:56 · Cap. 43 (38_Al_Reves.md) · audio generado
+- 2026-11-01 22:56 · Cap. 42 (37_Cuatro_Letras.md) · audio generado
+- 2026-11-01 22:56 · Cap. 41 (36_Tambien_Las_Mananas.md) · audio generado
+- 2026-11-01 22:56 · Cap. 40 (35_Sin_Fecha_De_Regreso.md) · audio generado
+- 2026-11-01 22:56 · Cap. 39 (34_Mi_Pareja.md) · audio generado
+- 2026-11-01 22:56 · Cap. 38 (33b_La_Mano.md) · audio generado
+- 2026-11-01 22:56 · Cap. 37 (33_Mas_De_La_Cuenta.md) · audio generado
+- 2026-11-01 22:56 · Cap. 36 (32_Linea_Directa.md) · audio generado
+- 2026-11-01 22:56 · Cap. 35 (31_Vamos_A_Casa.md) · audio generado
+- 2026-11-01 22:56 · Cap. 34 (30_Media_Baraja.md) · audio generado
+- 2026-11-01 22:56 · Cap. 33 (29_El_Patio_Ajeno.md) · audio generado
+- 2026-11-01 22:56 · Cap. 32 (28_La_Correa.md) · audio generado
+- 2026-11-01 22:56 · Cap. 31 (27_Riesgo_Pendiente.md) · audio generado
+- 2026-11-01 22:56 · Cap. 30 (26_Me_Encuentro_Bien.md) · audio generado
+- 2026-11-01 22:56 · Cap. 29 (25_Libros_Abiertos.md) · audio generado
+- 2026-11-01 22:56 · Cap. 28 (24d_Vienes_Conmigo.md) · audio generado
+- 2026-11-01 22:56 · Cap. 22 (21b_Grazie.md) · audio regenerado
 - 2026-11-01 22:26 · Cap. 27 (24c_El_Corral.md) · audio generado
 - 2026-11-01 22:26 · Cap. 26 (24b_Lo_Que_Cueste.md) · audio generado
 - 2026-11-01 22:26 · Cap. 25 (24_Bajo_Juramento.md) · audio generado
