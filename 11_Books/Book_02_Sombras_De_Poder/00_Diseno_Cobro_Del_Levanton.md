@@ -1,6 +1,6 @@
 # Diseño — El cobro del levantón (*Sombras de Poder*)
 
-**Estado:** idea del autor (2026-10-26), CANON en sustancia; ubicación, líneas y mecánica son DISEÑO o PENDIENTE. Origen: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_La_Balanza]] (Cap. 12) y [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_levanton_cap12]].
+**Estado:** idea del autor (2026-10-26), CANON en sustancia; ubicación, líneas y mecánica son DISEÑO o PENDIENTE. Origen: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_La_Balanza]] (Cap. 11 (archivo 09)) y [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_levanton_cap12]].
 
 ## La idea del autor
 
@@ -19,7 +19,7 @@
 - **"Todavía no":** la voz de adelante lo frena por orden, no por decencia.
 - **"Ésos no se tasaban. Ésos se encontraban.":** el deseo de Kal, al que el Libro II le da la ejecución a ella.
 - **Chiara le dio las señas a Kal** sabiendo para qué. El cobro cierra ese gesto.
-- **La búsqueda del Libro I (punto 1), en prosa desde 2026-10-27:** Cap. 15 (`12_Roma_Atrii`), al abrir la sección del chico en la cerca: Danny, Nadir y Kal preguntan en Las Calderas y en los corralones; nadie conoce al del diente gris, el anillo ni la camioneta. La pausa la impone el infarto de Héctor (18-19); el 20 la retoma con «Después de Calle Corona». DISEÑO pendiente de lectura.
+- **La búsqueda del Libro I (punto 1), en prosa desde 2026-10-27:** Cap. 13 (archivo 12) (`12_Roma_Atrii`), al abrir la sección del chico en la cerca: Danny, Nadir y Kal preguntan en Las Calderas y en los corralones; nadie conoce al del diente gris, el anillo ni la camioneta. La pausa la impone el infarto de Héctor (18-19); el 20 la retoma con «Después de Calle Corona». DISEÑO pendiente de lectura.
 
 ## Notas de diseño (agente)
 
@@ -55,4 +55,4 @@
 3. **Lo que dice antes de morir:** la línea "tan sucia y tan baja" es del autor.
 4. **Los Calderos:** si Mack Calderon sabe que fue la mujer de Mercer.
 5. **¿Crowe se entera?** Muere al final del II; sus alquilados muertos o sueltos pesan en el clima de la tormenta.
-6. **Libro I:** dónde se ve a Kal buscar y no encontrar (candidato: el Cap. 13, junto a la vitrina de la bolsa de Rowe).
+6. **Libro I:** dónde se ve a Kal buscar y no encontrar (candidato: el Cap. 12 (archivo 10), junto a la vitrina de la bolsa de Rowe).

@@ -10,7 +10,7 @@
 - Empieza antes del embarazo: al principio Chiara de verdad no sabe por qué lo escribe. Cuando lo sabe, **el tic sigue igual**.
 - Concepción en Stavanger (octubre A4), sin señalarse. «Antes era sólo un nombre.» es literal.
 - Chiara sabe del embarazo antes de H1; Kal no. **El lector lo descubre con Kal, en la chimenea.**
-- Señales mínimas, nunca juntas en una página: llega tarde, se fija en lo que come, deja de beber y de fumar («Kal me dijo que era malo»; sembrado en el Cap. 50 del Libro I). El disfraz: el lector cree que el secreto es la cuenta con Dario.
+- Señales mínimas, nunca juntas en una página: llega tarde, se fija en lo que come, deja de beber y de fumar («Kal me dijo que era malo»; sembrado en el Cap. 55 (archivo 50) del Libro I). El disfraz: el lector cree que el secreto es la cuenta con Dario.
 - Pago: el papel cae de la manta, «¿Quién es Elenna?», «Antes era sólo un nombre.», «Sono incinta.». El significado (luz / estrellas, Cap. 20) no se dice en el Libro II.
 
 ## Calendario del embarazo (CANON DEL AUTOR, 2026-10-14; fechas finas, DISEÑO)

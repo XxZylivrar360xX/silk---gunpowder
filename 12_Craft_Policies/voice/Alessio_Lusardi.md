@@ -1,6 +1,6 @@
 # Ficha de Voz - Alessio Lusardi (en cita)
 
-> Creada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]). Alessio está muerto antes del Libro I: no habla en escena, **lo citan** (Chiara en el 25, Tommaso en el 5, recuerdos del 9). Vara: el parlamento canon en italiano de [[02_Characters/Alessio_Lusardi]] y el relato canon de Chiara en el Cap. 25. Sirve para que sus ecos en los Libros II–IV no se contradigan.
+> Creada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]). Alessio está muerto antes del Libro I: no habla en escena, **lo citan** (Chiara en el 25, Tommaso en el 5, recuerdos del 9). Vara: el parlamento canon en italiano de [[02_Characters/Alessio_Lusardi]] y el relato canon de Chiara en el Cap. 29 (archivo 25). Sirve para que sus ecos en los Libros II–IV no se contradigan.
 
 ## Cómo hablaba (cuando se le cita)
 

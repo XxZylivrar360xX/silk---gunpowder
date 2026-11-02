@@ -19,7 +19,7 @@ Barba y cabello blancos (canon del autor). Abrigo de lana, zapatos de piel color
 ## Apariciones
 
 - **Cap. 5, *Una amiga*** — sale del Monarch con Chiara y [[03_Factions/Fiscalia_de_San_Aurelio|Katherine Rowe]] la noche de la primera cena; Chiara se acercó a ellos mientras jugaban baccarat en su casino ("al enemigo hay que tenerlo cerca"). Rocco le deja la huella de la pata en el zapato.
-- **Cap. 25, *Nada caro*** (arch. 23; antes *La letra pequeña*) — Rivers: "el fiscal general y yo no nos hablamos desde la facultad". Es la razón por la que Chiara la eligió.
+- **Cap. 25 *Bajo juramento* (archivo 24; fusión con el antiguo 28)** (arch. 23; antes *La letra pequeña*) — Rivers: "el fiscal general y yo no nos hablamos desde la facultad". Es la razón por la que Chiara la eligió.
 
 ## Pendientes
 

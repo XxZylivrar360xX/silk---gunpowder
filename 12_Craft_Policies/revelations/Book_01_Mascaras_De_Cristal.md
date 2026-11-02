@@ -233,3 +233,29 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Quién NO debe saberlo todavía:** que Crowe conoce el origen de Kal (SAGA, tormenta del II). Nada en la escena apunta a eso.
 - **Pago:** la cuota y la pregunta a la vulcanizadora (13), sospecha y barreta (21), corral (31: «Crowe firmaba sus recados»), arco sin Kal (trabajo para los muchachos), Libro II (cargamento, incendio). La quietud de Walt se entiende en el 21.
 - **Estado:** sembrado. Prosa DISEÑO pendiente de lectura. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]].
+
+---
+
+## Los tres ojos de la Parte I: escalones P-1, K-1, V-2, K-2 (2026-11-01)
+
+- **Qué es:** siembras de una a tres líneas del [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Rediseno_Parte_I|rediseño de la Parte I]]. **P-1** (Cap. 15, archivo 12): el invitado de la mesa tres que conoció a Alessio estaba a nombre de «Invitado de la Dirección», sin nombre; Tommaso lo apunta (rima con V-1, Cap. 5). **K-1** (Cap. 17, archivo 13): Kal saca a Nadir de la coartada sin explicarlo. **V-2** (Cap. 20, archivo 16): Héctor, «Y trabaja para Varek… Tú a ese hombre no le debas nada». **K-2** (Cap. 22, archivo 18): Kal no contesta «¿Qué hacías antes del taller?» y Chiara lo deja pasar.
+- **Quién lo sabe:** nadie los junta. Chiara registra P-1, K-1 y K-2 sin preguntar; Kal oye V-2.
+- **Quién NO debe saberlo todavía:** que la Dirección (Varek) acomoda la mesa tres; por qué Nadir no puede ser testigo (papeles; Halbrook, Cap. 35); qué hacía Kal antes del taller (SAGA). Ningún narrador lo explica.
+- **Pago:** corral (31: «Totalmente»; Kal piensa que vinieron por él), advertencia de Varek (34), la correa (35), el pacto (37).
+- **Estado:** sembrado. Prosa DISEÑO pendiente de lectura.
+
+## P-3: la misa de agosto (2026-11-01)
+
+- **Qué es:** en el Cap. 19 (archivo 15), Tommaso anuncia la misa por su hermano y pregunta «¿Todavía cabalgas los domingos?»; Chiara: «Por la tarde.» La pregunta nace de la misa.
+- **Quién lo sabe:** Tommaso, y «la familia que pueda volar». Nadie lo relaciona con el corral.
+- **Quién NO debe saberlo todavía:** si el dato salió de Tommaso o de la lista de invitados. CANON: la coerción de Volpi sobre Tommaso empieza **después** del corral; antes, la fuga es inocente o ajena. No resolver en el Libro I.
+- **Pago:** el atacante del 31, «¿Ella sale mucho los domingos?». El lector recuerda quién preguntó primero; Chiara no lo dice.
+- **Estado:** sembrado. Prosa DISEÑO pendiente de lectura.
+
+## H13: el pañuelo, al cierre de la Parte I (2026-11-01)
+
+- **Qué es:** Valenti, en persona, en una casa de Cuesta Bonita, entrega a Chiara el pañuelo con la *C* y la bala, y le dice en español la línea de la Mesa: «Pon tu casa en orden, señora Ardizzone, o hablaremos de este Mercer tuyo» ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21b_Grazie]]). Antes, Keene como «una cosa triste. Y bien hecha», sin atribución.
+- **Quién lo sabe:** Chiara, Valenti, la Mesa y el lector. **Kal no**: Chiara calla (le contesta «Voy para allá» sin mentir). Primera vez que el Consorzio deja constancia de que sabe de Kal.
+- **Quién NO debe saberlo todavía:** Kal, hasta el yate del 47, donde ve el pañuelo y la bala e insiste en ir a Palermo (CANON). Si el «Lusardi» del hombre del coche fue error o recado: no se resuelve. Quién mató a Keene: la pista apunta a la Mesa, nunca a Varek.
+- **Pago:** el «Totalmente» del 32 (archivo 24d) se apoya en la bala (gesto del anular, 2026-11-01); el 36 (archivo 28: el «agua al cuello» con el pañuelo en el bolso; el lector lee protección, Kal abandono); el 47 (Kal ve el pañuelo; «Decía tu nombre»; reconocimiento mutuo: los dos protegen ocultando); el 49 (Kal reconoce a Valenti) y el 58 (cuarto encuentro); Volpi y la puesta en escena de Keene en el Libro II.
+- **Estado:** sembrado. Prosa BORRADOR pendiente de lectura.

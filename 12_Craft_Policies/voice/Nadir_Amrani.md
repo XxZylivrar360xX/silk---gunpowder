@@ -1,6 +1,6 @@
 # Ficha de Voz - Nadir Amrani
 
-> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]): se añaden registro por capas (23, 24b) y reglas de uso. Las muestras de abajo vienen de la llamada canon del Cap. 1. **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
+> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]): se añaden registro por capas (23, 24b) y reglas de uso. Las muestras de abajo vienen de la llamada canon del Cap. 1 (archivo 01). **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
 
 ## Cadencia y sintaxis
 

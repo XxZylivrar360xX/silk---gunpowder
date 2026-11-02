@@ -1,6 +1,6 @@
 # Ficha de Voz - Fabrizio Rinaldi
 
-> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]). Vara: el lobby del Cap. 2 ("¿Comiste?"). **Decisión del autor (2026-10-04):** Fabrizio pasa a ser un actor más involucrado en la Parte I; hoy sólo habla en el Cap. 2. Su presencia nueva se diseña capítulo por capítulo con el autor. Ficha de personaje: [[02_Characters/Fabrizio_Rinaldi]].
+> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]). Vara: el lobby del Cap. 2 (archivo 02) ("¿Comiste?"). **Decisión del autor (2026-10-04):** Fabrizio pasa a ser un actor más involucrado en la Parte I; hoy sólo habla en el Cap. 2 (archivo 02). Su presencia nueva se diseña capítulo por capítulo con el autor. Ficha de personaje: [[02_Characters/Fabrizio_Rinaldi]].
 > **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
 
 > Plan anterior retirado: [[97_Supersedido/Fabrizio_Coaccionado_Y_Atentado_2x1]].

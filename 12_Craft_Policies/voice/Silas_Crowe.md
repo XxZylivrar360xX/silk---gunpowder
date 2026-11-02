@@ -1,6 +1,6 @@
 # Ficha de Voz - Silas Crowe (*el Tasador*)
 
-> Creada 2026-11-01 (Claude Code) para su primera aparición en persona, Cap. 12 *La balanza* (archivo 09). Vara: DECISIÓN DEL AUTOR 2026-11-01 ([[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]]): **ruin, no insidioso; nefasto, no elegante**. Ficha de personaje: [[02_Characters/Silas_Crowe]]. Lo demás es DISEÑO del agente.
+> Creada 2026-11-01 (Claude Code) para su primera aparición en persona, Cap. 11 *La balanza* (archivo 09). Vara: DECISIÓN DEL AUTOR 2026-11-01 ([[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]]): **ruin, no insidioso; nefasto, no elegante**. Ficha de personaje: [[02_Characters/Silas_Crowe]]. Lo demás es DISEÑO del agente.
 > **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
 
 ## Cadencia y sintaxis
@@ -30,7 +30,7 @@ Obeso; se mueve poco y que otros se muevan por él (le abren la puerta, le acerc
 
 ## Bajo presión
 
-Sin evidencia todavía. Primera escena en el Cap. 12.
+Sin evidencia todavía. Primera escena en el Cap. 11 (archivo 09).
 
 - **Arma conversacional preferida:** la disculpa que es insulto.
 - **Evasión típica:** la pose de elegancia.

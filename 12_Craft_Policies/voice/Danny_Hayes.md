@@ -1,6 +1,6 @@
 # Ficha de Voz - Danny Hayes
 
-> Creada 2026-10-04 desde [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]. Vara: dirección CANON DEL AUTOR del Cap. 3 (el consumo se disfraza de emoción; empieza a mentir) y la ficha de personaje [[02_Characters/Daniel_Hayes]] (alegre, querido, "no delata lo que ve"). Muestras de prosa de los Caps. 3, 5, 8 y 10.
+> Creada 2026-10-04 desde [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]. Vara: dirección CANON DEL AUTOR del Cap. 3 (archivo 03) (el consumo se disfraza de emoción; empieza a mentir) y la ficha de personaje [[02_Characters/Daniel_Hayes]] (alegre, querido, "no delata lo que ve"). Muestras de prosa de los Caps. 3, 5, 8 y 10.
 > **Decisión del autor (2026-10-04):** en la Parte I el consumo **empieza a salir más a flote**. Los escalones de abajo son DISEÑO; su colocación en prosa se decide capítulo por capítulo con el autor.
 > **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
 

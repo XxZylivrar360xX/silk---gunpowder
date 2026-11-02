@@ -4,7 +4,7 @@
 
 > **NOMBRE CONFIRMADO POR EL AUTOR (2026-08-23): San Aurelio.** Era la última pieza provisional del proyecto. Ya no queda ninguna.
 >
-> **CANON DEL AUTOR (2026-10-06): San Aurelio, Oregon** (antes California; ya no). Inspiración: **Portland**. Es una ciudad ficticia en una bahía de la costa de Oregon: licencia de ficción, porque Portland está sobre un río y no hay una ciudad costera de ese tamaño en Oregon. Se conservan intactos el mar, el puerto, la bahía, La Isla y toda la geografía ya planteada. La línea de Fabrizio en el Cap. 2 pasa a "Chiara Ardizzone en la costa oeste" (sarcasmo: hasta ahora siempre había estado en la costa este, en Nueva York).
+> **CANON DEL AUTOR (2026-10-06): San Aurelio, Oregon** (antes California; ya no). Inspiración: **Portland**. Es una ciudad ficticia en una bahía de la costa de Oregon: licencia de ficción, porque Portland está sobre un río y no hay una ciudad costera de ese tamaño en Oregon. Se conservan intactos el mar, el puerto, la bahía, La Isla y toda la geografía ya planteada. La línea de Fabrizio en el Cap. 2 (archivo 02) pasa a "Chiara Ardizzone en la costa oeste" (sarcasmo: hasta ahora siempre había estado en la costa este, en Nueva York).
 
 > **MAPA DEFINITIVO — CANON DEL AUTOR (2026-10-06):** ![[99_Reference/location_references/mapa_san_aurelio.png]]
 > El mapa manda sobre cualquier ubicación anterior. Ritmo práctico (tiempos, rutas, cierres): [[05_Locations/Mapa_Operativo_de_San_Aurelio]]. Boceto previo del autor: `05_Locations/Mapas/`.
@@ -14,7 +14,9 @@
 > - **El Puente de Piedra**, de unos 5–6 km, une La Isla con el centro: el **Bulevar Corona** cruza La Isla, pasa por el puente y desemboca en Calle Corona. También hay **ferry** desde el Distrito Marino y el Puerto Viejo, y un **metro** con un anillo alrededor del centro viejo.
 > - **CANON DEL AUTOR (2026-10-06; antes DISEÑO del mismo día):** La Isla es el centro del dinero y del ocio (Monarch, Punta Dorada, Saints). El poder institucional (Ayuntamiento, juzgados, hospital, comisarías, El Faro) sigue en Calle Corona, en tierra firme, como lo dibuja el mapa. La idea de "capital" queda leída así. Capítulos corregidos: 1, 2, 4, 5, 20, 50 y 50b.
 
-**Qué es:** ciudad ficticia de la costa de Oregon. Puerto medio, población de alrededor de un millón, nombre español heredado de las cartas de navegación del siglo XVIII (en esa costa hay cabos con nombres españoles) y decadencia industrial encima. [Antes: "fundación española"; se matizó con el traslado a Oregon, 2026-10-06, DISEÑO.]
+**Qué es:** ciudad ficticia de la costa de Oregon. Puerto medio, población de alrededor de un millón, nombre español de origen inventado (ver abajo) y decadencia industrial encima. [Antes: "fundación española", matizado el 2026-10-06 a "nombre heredado de las cartas de navegación del siglo XVIII" (DISEÑO); superado por el origen del 2026-11-01.]
+
+> **ORIGEN DEL NOMBRE (2026-11-01).** **CANON DEL AUTOR:** hacia 1778, el capitán Aurelio, de una expedición española por la costa, entra a la bahía, la anota en su carta como **«la caleta de las tres picas»** y sigue de largo; no funda nada. **CANON DEL AUTOR:** las tres picas son las puntas de [[#La Isla|La Isla]], la isla en forma de corona. El nombre **San Aurelio nace cuando se funda la ciudad**, amarrado al descubrimiento histórico del capitán. **DISEÑO, aprobado por el autor:** con el tiempo, los notables convierten al descubridor en el «Capitán Aurelius» y le levantan la estatua dorada de la fuente de Plaza Corona con la placa «fundador de San Aurelio, c. 1778». Es fundador oficial, no real, y no hay fecha porque él no fundó nada. Cualquiera que conozca la historia sabe que es un mito, y a nadie le importa: la estatua es la máscara oficial de la ciudad. Fecha de la fundación real: no fijada.
 **Función narrativa:** no es escenario. Es la tercera protagonista, y el premio por el que compiten los dos primeros.
 
 **Mapa operativo:** ver [[05_Locations/Mapa_Operativo_de_San_Aurelio]] para carreteras, tiempos narrativos, puntos de cierre, rutas de El Patio, rutas de Varek y ubicación recomendada de lugares pendientes.
@@ -71,6 +73,12 @@ San Aurelio es una ciudad ficticia de Estados Unidos. Puede incorporar cultura l
 
 **Calle Corona** — el centro viejo, al pie del Puente de Piedra. Ayuntamiento, juzgados, hospitales, comisarías y la redacción de [[03_Factions/El_Faro]]. Territorio de Chiara. **El Relevo** (DISEÑO 2026-10-24): bar de policías a dos cuadras de la Central; ahí se despide a Keene en el Cap. 4.
 
+> **IMÁGENES DE PLAZA CORONA (autor, 2026-11-01):** [[99_Reference/location_references/plaza_corona.png|la plaza]] · [[99_Reference/location_references/plaza_corona_vista_aerea.png|vista aérea]]. Guía visual: fuente con estatua al centro, kiosco y edificios cívicos alrededor.
+> - **CANON DEL AUTOR (2026-11-01):** la estatua de la fuente es el **Capitán Aurelius, fundador de San Aurelio (c. 1778)**. Fundador oficial, no real: ver «Origen del nombre», arriba.
+> - **CANON DEL AUTOR (2026-11-01):** la **Galería Saints** es una galería de arte en la plaza, **sin relación con los [[03_Factions/Breakwater_Saints_MC|Breakwater Saints]]**. Ahí es la gala de beneficencia de *Sombras de Poder* donde Chiara conoce a [[02_Characters/Warren_Halbrook|Halbrook]].
+> - **CANON DEL AUTOR (2026-11-01):** el [[05_Locations/Hospital_Santa_Aurelia|Hospital Santa Aurelia]] está junto al Ayuntamiento, frente a Plaza Corona.
+> - Lo demás rotulado en la vista aérea (Hotel Corona, Archivo, Registro Civil, la posición de juzgados, comisaría y El Faro, el acceso al metro) es guía, no canon, mientras el autor no lo confirme.
+
 > **CANON DE DISEÑO (2026-08-23):** nadie sostiene territorio criminal permanente en Calle Corona ni en el centro viejo: hospitales, Ayuntamiento, juzgados, comisarías, prensa y cámaras vuelven demasiado cara cualquier operación estable. Puede haber trabajos puntuales; no mercado fijo.
 
 **[[05_Locations/Hospital_Santa_Aurelia|Hospital Santa Aurelia]]** — hospital central de Calle Corona. Trauma, urgencias, UCI, cámaras, expedientes y reportes obligatorios. En [[06_Relationships/Hitos#H12 — El atentado / El corral|H12]] recibe a Chiara tras el ataque del hipódromo (antes atribuido a "H5"); en H1 queda descartado porque los hospitales están vigilados.
@@ -101,15 +109,15 @@ San Aurelio es una ciudad ficticia de Estados Unidos. Puede incorporar cultura l
 
 **La mansión de Varek** — donde Kal se le ofrece, en el patio ([[06_Relationships/Hitos]], H6). **PENDIENTE:** ficha propia.
 
-**Las Gemelas (las cascadas)** — apartado, con ruido de naturaleza y sin interrupciones. **El primer lugar del libro que no es territorio de nadie**, y donde Kal y Chiara sellan su pacto. **Aspecto (CANON DEL AUTOR, 2026-10-06):** caída alta en varios saltos dentro de una hondonada cerrada de roca oscura con musgo y helecho, poza verde, banco de piedras grandes en una orilla y luz difusa sin sol directo. Se baja a pie desde donde termina el camino de tierra. Es el verde más húmedo de la región: no se seca ni en el peor calor del verano. **Nombre y ubicación (CANON DEL AUTOR, 2026-10-06):** *Las Gemelas*, por las dos caídas altas, una frente a la otra; cerros del noreste. La carretera "al norte" del Cap. 29 tuerce hacia allá. Idealización visual (no es canon de detalle): [[99_Reference/location_references/Las_Gemelas_idealizacion.webp]].
+**Las Gemelas (las cascadas)** — apartado, con ruido de naturaleza y sin interrupciones. **El primer lugar del libro que no es territorio de nadie**, y donde Kal y Chiara sellan su pacto. **Aspecto (CANON DEL AUTOR, 2026-10-06):** caída alta en varios saltos dentro de una hondonada cerrada de roca oscura con musgo y helecho, poza verde, banco de piedras grandes en una orilla y luz difusa sin sol directo. Se baja a pie desde donde termina el camino de tierra. Es el verde más húmedo de la región: no se seca ni en el peor calor del verano. **Nombre y ubicación (CANON DEL AUTOR, 2026-10-06):** *Las Gemelas*, por las dos caídas altas, una frente a la otra; cerros del noreste. La carretera "al norte" del Cap. 33 (archivo 29) tuerce hacia allá. Idealización visual (no es canon de detalle): [[99_Reference/location_references/Las_Gemelas_idealizacion.webp]].
 
-**[[05_Locations/El_Lago|El lago]]** — el lago de pesca de El Patio, **más allá de Las Gemelas** (CANON DEL AUTOR, 2026-10-08): la carretera pasa el desvío de las cascadas y sigue cerro arriba. Escenario de H7 (Cap. 31).
+**[[05_Locations/El_Lago|El lago]]** — el lago de pesca de El Patio, **más allá de Las Gemelas** (CANON DEL AUTOR, 2026-10-08): la carretera pasa el desvío de las cascadas y sigue cerro arriba. Escenario de H7 (Cap. 35 (archivo 31)).
 
 **[[05_Locations/Camp_Alder|Camp Alder]]** — complejo militar al noreste, donde los civiles no tienen acceso. La fuente del armamento largo que Kal ofrece a Varek en H6.
 
 **Los Álamos** — el norte muerto de las refinerías, sobre la costa norte de la bahía (Vía de las Refinerías). Barato, vacío, contaminado, y por eso mismo el sitio donde alguien va a querer construir algo enorme. Territorio de [[03_Factions/Alamo_Salvage]]. Motor de trama a mitad de novela.
 
-**Kingsley Field** — aeropuerto del noreste interior de San Aurelio. No es sólo terminal de pasajeros: carga, hangares, servicios, lectores de placas y carreteras perimetrales donde H9 puede ocurrir. **Puerto de entrada (CANON DEL AUTOR, 2026-10-22):** tiene revisión federal de migración y aduana (CBP) para aviación privada en su zona de hangares (FBO); los vuelos privados internacionales entran al país ahí (Chiara desde Palermo, Cap. 2). En el Cap. 41 Chiara ya no entra por Kingsley: hace escala en Nueva York, donde entra al país y atiende pendientes del casino de allá, y llega a San Aurelio en vuelo doméstico. **Aproximación (DISEÑO, avalado por el autor 2026-10-22):** con la pista en configuración hacia el este, los aviones dan el último giro sobre el Pacífico y entran por la costa, cruzan la playa y la franja industrial y bajan hacia el aeropuerto del interior; por eso en el Cap. 2 Chiara ve primero el mar.
+**Kingsley Field** — aeropuerto del noreste interior de San Aurelio. No es sólo terminal de pasajeros: carga, hangares, servicios, lectores de placas y carreteras perimetrales donde H9 puede ocurrir. **Puerto de entrada (CANON DEL AUTOR, 2026-10-22):** tiene revisión federal de migración y aduana (CBP) para aviación privada en su zona de hangares (FBO); los vuelos privados internacionales entran al país ahí (Chiara desde Palermo, Cap. 2 (archivo 02)). En el Cap. 41 Chiara ya no entra por Kingsley: hace escala en Nueva York, donde entra al país y atiende pendientes del casino de allá, y llega a San Aurelio en vuelo doméstico. **Aproximación (DISEÑO, avalado por el autor 2026-10-22):** con la pista en configuración hacia el este, los aviones dan el último giro sobre el Pacífico y entran por la costa, cruzan la playa y la franja industrial y bajan hacia el aeropuerto del interior; por eso en el Cap. 2 (archivo 02) Chiara ve primero el mar.
 
 **Rutas de Milla** — carreteras rurales, salidas de Kingsley Field y caminos donde se corren apuestas ilegales. Territorio de [[03_Factions/Los_Marcadores_de_Milla]].
 
@@ -121,15 +129,15 @@ San Aurelio es una ciudad ficticia de Estados Unidos. Puede incorporar cultura l
 
 Nacieron en la prosa del arco. Los cuatro primeros tienen ficha propia desde el 2026-10-08. Registro: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]], § 5 de E2.
 
-**[[05_Locations/Hotel_Pacifica|Hotel Pacífica]]** — enfrente del Monarch, sobre el Paseo Pacífica, en la punta oeste de La Isla. Es un hotel de los años veinte, de la misma década que el hotel viejo sobre el que se construyó el Monarch: "su propio edificio del revés". Valenti ocupa la suite de esquina del piso once, que mira al Monarch (Cap. 49).
+**[[05_Locations/Hotel_Pacifica|Hotel Pacífica]]** — enfrente del Monarch, sobre el Paseo Pacífica, en la punta oeste de La Isla. Es un hotel de los años veinte, de la misma década que el hotel viejo sobre el que se construyó el Monarch: "su propio edificio del revés". Valenti ocupa la suite de esquina del piso once, que mira al Monarch (Cap. 54 (archivo 49)).
 
-**[[05_Locations/Bodega_Nueve|La bodega nueve del Puerto Viejo]]** — una de las bodegas de Terminal Road, con oficina en alto sobre los muelles. Ahí Chiara entrega las armas largas y queda debiéndole a Dario la cuenta abierta (Cap. 47). Era "la catorce" y se corrigió el 2026-10-03.
+**[[05_Locations/Bodega_Nueve|La bodega nueve del Puerto Viejo]]** — una de las bodegas de Terminal Road, con oficina en alto sobre los muelles. Ahí Chiara entrega las armas largas y queda debiéndole a Dario la cuenta abierta (Cap. 52 (archivo 47)). Era "la catorce" y se corrigió el 2026-10-03.
 
-**[[05_Locations/La_Golondrina|La Golondrina]]** — cantina de Santa Brígida, frente a la parroquia, con cuarto del fondo y patio trasero. Ahí, el domingo a las nueve de la noche, después de la última misa, Chiara contrata con Rafe Domínguez el asalto al convoy, y Maribel anota su nombre (Cap. 48).
+**[[05_Locations/La_Golondrina|La Golondrina]]** — cantina de Santa Brígida, frente a la parroquia, con cuarto del fondo y patio trasero. Ahí, el domingo a las nueve de la noche, después de la última misa, Chiara contrata con Rafe Domínguez el asalto al convoy, y Maribel anota su nombre (Cap. 53 (archivo 48)).
 
 **[[05_Locations/Puente_De_La_Cementera|El puente de la cementera]]** — puente de un carril sobre la vía de la cementera, en la carretera del condado al sureste de Camp Alder, donde todo frena. Es el punto del asalto al convoy del traslado (Caps. 48 y 50). Una foto de Chiara con Mei-Lin en el puente aparece en la carpeta del 50b.
 
-**El teatro de la calle Alameda** — de pasada, en la despedida de Valenti (Cap. 49).
+**El teatro de la calle Alameda** — de pasada, en la despedida de Valenti (Cap. 54 (archivo 49)).
 
 ---
 

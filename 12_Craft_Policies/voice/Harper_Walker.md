@@ -1,6 +1,6 @@
 # Ficha de Voz - Harper Walker
 
-> Creada 2026-10-04 desde [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I_Tanda_2]]. Sin líneas canon del autor en el Libro I. Anclas: la barra de La Esquina (Cap. 4) y la parcela (Cap. 19). CANON DEL AUTOR (2026-10-04): creció en rancho, en el norte. Lo demás es DISEÑO del agente sobre [[02_Characters/Harper_Walker]].
+> Creada 2026-10-04 desde [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I_Tanda_2]]. Sin líneas canon del autor en el Libro I. Anclas: la barra de La Esquina (Cap. 4 (archivo 04)) y la parcela (*Lo que nadie estaba mirando* (escena eliminada, archivo 19)). CANON DEL AUTOR (2026-10-04): creció en rancho, en el norte. Lo demás es DISEÑO del agente sobre [[02_Characters/Harper_Walker]].
 > **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
 
 ## Cadencia y sintaxis

@@ -11,7 +11,7 @@
 **Alias:** Russ  
 **Estado:** vivo
 
-> **CONSOLIDACIÓN (2026-10-17, CANON DEL AUTOR en identidad y dinámica; detalles DISEÑO).** Russ es uno solo: el veterano con bastón que aspira a la alcaldía **y** el compañero de golpes de [[02_Characters/Daniel_Hayes|Danny]] en el Libro I. Antes de la política es un veterano lesionado que todavía hace trabajos de barrio; su carril público llega después (Libros III–V). Entra en prosa en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05a_Cliente_Y_Proveedor|Cap. 5a]] con el cajero arrancado.
+> **CONSOLIDACIÓN (2026-10-17, CANON DEL AUTOR en identidad y dinámica; detalles DISEÑO).** Russ es uno solo: el veterano con bastón que aspira a la alcaldía **y** el compañero de golpes de [[02_Characters/Daniel_Hayes|Danny]] en el Libro I. Antes de la política es un veterano lesionado que todavía hace trabajos de barrio; su carril público llega después (Libros III–V). Entra en prosa en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05a_Cliente_Y_Proveedor|Cap. 5 (archivo 05a)]] con el cajero arrancado.
 
 ---
 
@@ -39,7 +39,7 @@ Ver [[05_Locations/Estado_de_la_Ciudad]] para el tablero electoral donde su camp
 
 Sirvió con Kal. No necesariamente fueron mejores amigos, pero compartieron suficiente barro, cansancio y órdenes absurdas como para que una llamada suya tenga otro peso.
 
-**RESUELTO (2026-09-03):** la lesión de la pierna viene de la misma emboscada donde murió [[02_Characters/Jim_Keegan]] — ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Capítulo 3]] (memoria de Kal). [[02_Characters/Garrett_Cross]] también estaba presente.
+**RESUELTO (2026-09-03):** la lesión de la pierna viene de la misma emboscada donde murió [[02_Characters/Jim_Keegan]] — ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Cap. 3 (archivo 03)]] (memoria de Kal). [[02_Characters/Garrett_Cross]] también estaba presente.
 
 Volvió lesionado, con una pierna que ya no le obedecía igual, y descubrió que San Aurelio respetaba más una historia de servicio que una historia de dolor. Aprende a convertir esa diferencia en campaña.
 
@@ -78,7 +78,7 @@ Amigos y compañeros de crimen que nunca dicen lo mismo. **Russ dice que no sopo
 
 ---
 
-> **Primer encuentro con Chiara (2026-10-22, DISEÑO pendiente de lectura):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Ambos|Cap. 6]], la ruleta de la una de la mañana con Nadir y Danny: "Russ. Yo no estoy aquí."
+> **Primer encuentro con Chiara (2026-10-22, DISEÑO pendiente de lectura):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Ambos|Cap. 7 (archivo 06)]], la ruleta de la una de la mañana con Nadir y Danny: "Russ. Yo no estoy aquí."
 
 ## Conexiones
 

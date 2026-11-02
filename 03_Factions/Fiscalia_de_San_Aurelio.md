@@ -19,7 +19,7 @@ La Fiscalía de San Aurelio no compite con los federales en especialización. Su
 
 ## Estructura
 
-- **Katherine Rowe** — District Attorney. Figura política. Cincuenta y tantos, pelo corto y canoso (DISEÑO). Primera aparición: Cap. 5, sale del Monarch con Chiara y Edward Connors; se despide de Kal apretándole el brazo ("Es un placer, señor Mercer"). Cap. 8: le coquetea en la fiscalía ("un café en un lugar más privado"). Cap. 9 (2026-10-04): invita a Chiara a ese café (panadería portuguesa de Calle Corona); a la salida, dos hombres de Crowe la asaltan, le cruzan la cara y le dejan el recado "Las joyas pesan más en la balanza", que no entiende; deja a Chiara fuera del parte y le queda debiendo una (CANON DEL AUTOR). Maneja un Volvo viejo que nadie asocia con ella (DISEÑO). Chiara la cultiva como contacto ("al enemigo hay que tenerlo cerca"); probablemente es el "nombre que me debe un favor de prensa" del Cap. 23.
+- **Katherine Rowe** — District Attorney. Figura política. Cincuenta y tantos, pelo corto y canoso (DISEÑO). Primera aparición: Cap. 5, sale del Monarch con Chiara y Edward Connors; se despide de Kal apretándole el brazo ("Es un placer, señor Mercer"). Cap. 8: le coquetea en la fiscalía ("un café en un lugar más privado"). Cap. 11 (archivo 09) (2026-10-04): invita a Chiara a ese café (panadería portuguesa de Calle Corona); a la salida, dos hombres de Crowe la asaltan, le cruzan la cara y le dejan el recado "Las joyas pesan más en la balanza", que no entiende; deja a Chiara fuera del parte y le queda debiendo una (CANON DEL AUTOR). Maneja un Volvo viejo que nadie asocia con ella (DISEÑO). Chiara la cultiva como contacto ("al enemigo hay que tenerlo cerca"); probablemente es el "nombre que me debe un favor de prensa" del Cap. 23.
 - **Paul Desai** — First Assistant / Chief Deputy DA. Administra la oficina y coordina casos grandes con la policía, los federales y la fiscalía federal.
 - **[[02_Characters/Claire_Han]]** — Assistant District Attorney principal. Fiscal asignada a homicidios relacionados con Kal.
 - **Zoe Palmer** — ADA junior opcional. Aparece si hay juicio o preparación documental pesada.
@@ -51,7 +51,7 @@ Cuando entra [[03_Factions/Fuerza_de_Tarea_Meridian]], la fiscalía local pierde
 
 ## Preguntas abiertas
 
-> **CANON DEL AUTOR (2026-10-04):** Rowe le debe un favor a Chiara desde el asalto del Tasador (Cap. 9, *La balanza*: Kal la saca antes de la policía y Rowe la deja fuera del parte). Queda pendiente; no entra en los "tres favores" del Cap. 13. Chiara lo cobra en el Cap. 44; Rowe lo reconoce y no puede pagarlo (custodia federal): sigue vivo hacia el Libro II.
+> **CANON DEL AUTOR (2026-10-04):** Rowe le debe un favor a Chiara desde el asalto del Tasador (Cap. 11 (archivo 09), *La balanza*: Kal la saca antes de la policía y Rowe la deja fuera del parte). Queda pendiente; no entra en los "tres favores" del Cap. 13. Chiara lo cobra en el Cap. 49 (archivo 44); Rowe lo reconoce y no puede pagarlo (custodia federal): sigue vivo hacia el Libro II.
 
 > **CANON DEL AUTOR (2026-10-08):** Rowe es la madre de Sam, la amiga de clase de [[02_Characters/Marisol_Grayson]] (Cap. 14: "es fiscal de distrito. Anda buscando becarios para el otoño"). En *Sombras de Poder*, parte del favor que le debe a Chiara es darle a Marisol **la oportunidad de demostrar lo que vale**, no aceptarla por recomendación.
 

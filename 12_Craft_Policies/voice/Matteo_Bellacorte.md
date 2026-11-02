@@ -1,6 +1,6 @@
 # Ficha de Voz - Matteo Bellacorte
 
-> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]). Vara: el Cap. 2 reescrito el 2026-10-04 (aeropuerto, sala, marquesina). El Cap. 1 (La Esquina) **no** es vara: ahí Matteo esgrime con la cadencia de Kal; queda en la cola de cirugía. Ficha de personaje: [[02_Characters/Matteo_Bellacorte]].
+> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]). Vara: el Cap. 2 (archivo 02) reescrito el 2026-10-04 (aeropuerto, sala, marquesina). El Cap. 1 (archivo 01) (La Esquina) **no** es vara: ahí Matteo esgrime con la cadencia de Kal; queda en la cola de cirugía. Ficha de personaje: [[02_Characters/Matteo_Bellacorte]].
 > **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
 
 ## Cadencia y sintaxis

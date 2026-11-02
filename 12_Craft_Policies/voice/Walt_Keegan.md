@@ -1,6 +1,6 @@
 # Ficha de Voz - Walt Keegan
 
-> Creada 2026-10-04 desde [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]. Vara: líneas CANON DEL AUTOR del Cap. 3 y "buscavidas, pero honesto" (Cap. 5). Lo demás es DISEÑO del agente anclado en prosa (Caps. 10, 11, 15, 16). Ficha de personaje: [[02_Characters/Walter_Keegan]].
+> Creada 2026-10-04 desde [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]. Vara: líneas CANON DEL AUTOR del Cap. 3 (archivo 03) y "buscavidas, pero honesto" (Cap. 5 (archivo 05a)). Lo demás es DISEÑO del agente anclado en prosa (Caps. 10, 11, 15, 16). Ficha de personaje: [[02_Characters/Walter_Keegan]].
 > **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
 
 ## Cadencia y sintaxis

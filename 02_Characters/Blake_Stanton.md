@@ -18,13 +18,13 @@
 
 Arrogante y egocéntrico. **Presume a Chiara como trofeo ante sus amigos** — no la presenta, la exhibe. Con ella se comporta como alguien que consiguió algo, no como alguien que conoció a alguien.
 
-No es cruel *en escena* y no hace falta que lo sea. *(Nota 2026-10-03: en la cronología canon, el Blake del yate del Cap. 38 ya mató a los Marsh; la frase vale para lo que el Libro I muestra, no para lo que el hombre es.)* Es un hombre vanidoso y limitado que trata a su pareja como un accesorio, y con eso basta. Ver [[00_Biblia/Principios_Narrativos]], principio 3.
+No es cruel *en escena* y no hace falta que lo sea. *(Nota 2026-10-03: en la cronología canon, el Blake del yate del Cap. 43 (archivo 38) ya mató a los Marsh; la frase vale para lo que el Libro I muestra, no para lo que el hombre es.)* Es un hombre vanidoso y limitado que trata a su pareja como un accesorio, y con eso basta. Ver [[00_Biblia/Principios_Narrativos]], principio 3.
 
 ### Rasgos propios — DISEÑO (2026-10-05, dirección del autor)
 
 Para que no sea sólo el "anti-Kal" (señal de las reseñas de ChatGPT del 2026-10-05):
 - **Lee bien una sala cuando no tiene nada que defender** y regala la lectura (Cap. 4, en La Esquina de Mabel y al llegar a El Relevo). Lo pierde en cuanto hay público que impresionar. En el Cap. 7 acierta con el capitán antes de presentarle a Chiara.
-- **Alguien a quien impresionar:** el capitán del Departamento (sin nombre, el mismo del yate del Cap. 38). Blake se ríe de sus chistes más fuerte que él.
+- **Alguien a quien impresionar:** el capitán del Departamento (sin nombre, el mismo del yate del Cap. 43 (archivo 38)). Blake se ríe de sus chistes más fuerte que él.
 - **La placa como reflejo:** en el 4 enseña el nombre con el pulgar y responde "Soy policía". En el 7, de civil y perdiendo la discusión, la mano le va al bolsillo de la camisa donde de uniforme lleva la placa. **Dosis:** una vez por aparición como máximo, sin glosa. En la primera lectura es vanidad; después del Libro VII se lee como el hombre que cree que la placa manda. Nunca presagio.
 
 ---
@@ -51,13 +51,13 @@ La otra mitad:
 
 Es **policía**. En una ciudad donde con la policía se negocia con casos y no con efectivo ([[00_Biblia/Reglas_del_Mundo]], regla 5), eso lo convierte en una pieza cargada: un hombre del Departamento que conoce personalmente a Chiara, y que en algún momento va a saber que lo dejaron por alguien.
 
-En el Capítulo 4 (decisión del autor 2026-10-24, DISEÑO pendiente de lectura; antes cafetería casual y fiesta en La Isla), Chiara sale del Monarch tras el roce con Tommaso y ve en Calle Corona el **cortejo de honor de Keene**: Blake, de servicio con banda negra sobre la placa, tiene el saludo más perfecto de la fila ("para la tele"). En La Esquina de Mabel, sin público, es honesto (a Keene "me dio la mano el día que me gradué. Una vez") y le lee la fila. La invita al **velorio de policías en El Relevo**, bar a dos cuadras de la Central; ella acepta por los dos entierros de Palermo (el de la iglesia y el de la mesa: ver quién llora a Keene) y por la vibra de Palermo/Nueva York. Ahí, con público, infla la anécdota (dice que manejó la escolta del jefe dos inviernos). La gala queda para el funeral, días después.
+En el Cap. 4 (archivo 04) (decisión del autor 2026-10-24, DISEÑO pendiente de lectura; antes cafetería casual y fiesta en La Isla), Chiara sale del Monarch tras el roce con Tommaso y ve en Calle Corona el **cortejo de honor de Keene**: Blake, de servicio con banda negra sobre la placa, tiene el saludo más perfecto de la fila ("para la tele"). En La Esquina de Mabel, sin público, es honesto (a Keene "me dio la mano el día que me gradué. Una vez") y le lee la fila. La invita al **velorio de policías en El Relevo**, bar a dos cuadras de la Central; ella acepta por los dos entierros de Palermo (el de la iglesia y el de la mesa: ver quién llora a Keene) y por la vibra de Palermo/Nueva York. Ahí, con público, infla la anécdota (dice que manejó la escolta del jefe dos inviernos). La gala queda para el funeral, días después.
 
 En [[06_Relationships/Hitos]], H3-a, presume sus habilidades al volante y la infamia del conductor del Peugeot rojo — **sin saber que le está hablando a ella del hombre en el que está pensando**.
 
 ---
 
-## El regreso — la fiesta del yate (2026-09-20, Claude Code, [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 38]], BORRADOR)
+## El regreso — la fiesta del yate (2026-09-20, Claude Code, [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 43 (archivo 38)]], BORRADOR)
 
 Blake vuelve una sola vez en el Libro I, y es la última de ese libro. Llega al yate de Chiara **legítimamente**: en el grupo del capitán del Departamento, al que ella sí invitó (un capitán nunca llega solo). No burla seguridad; Chiara no queda incompetente — la lista estaba bien, y el Departamento trae a quien trae.
 
@@ -69,7 +69,7 @@ Consecuencia práctica registrada en escena: el capitán "va a preferir no acord
 
 ## El arco hasta Gabriella's (2026-10-22, decisión del autor; prosa DISEÑO pendiente de lectura)
 
-Para que la ruptura del [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/07_La_Noche_Del_Ladrillo|Cap. 7]] tenga acumulación: mensaje tras El Relevo ("Mis amigos preguntan por ti") en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05a_Cliente_Y_Proveedor|5a]]; en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05a_Cliente_Y_Proveedor|Cap. 5 (archivo 05a, antes 05b)]], la grúa de Almendra ("Ésas trabajan para nosotros"), la cena donde contesta por ella ante la teniente (Collins, sin nombre), el domingo que no oye ("Monto") y **el beso** en la entrada del Monarch, correcto y sin vibración; en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Ambos|6]], el teléfono boca abajo; en el 7, la cuarta invitación. **Regla:** Chiara pone la barrera sin nombrarla; nunca piensa "por Kal" antes del taxi (H3). Kal no ve nada de esto (no hay triángulo).
+Para que la ruptura del [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/07_La_Noche_Del_Ladrillo|Cap. 8 (archivo 07)]] tenga acumulación: mensaje tras El Relevo ("Mis amigos preguntan por ti") en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05a_Cliente_Y_Proveedor|5a]]; en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05a_Cliente_Y_Proveedor|Cap. 5 (archivo 05a, antes 05b)]], la grúa de Almendra ("Ésas trabajan para nosotros"), la cena donde contesta por ella ante la teniente (Collins, sin nombre), el domingo que no oye ("Monto") y **el beso** en la entrada del Monarch, correcto y sin vibración; en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Ambos|6]], el teléfono boca abajo; en el 7, la cuarta invitación. **Regla:** Chiara pone la barrera sin nombrarla; nunca piensa "por Kal" antes del taxi (H3). Kal no ve nada de esto (no hay triángulo).
 
 ## Tras el levantón (2026-10-26, Cap. 13, archivo 10; DISEÑO sobre propuesta aprobada por el autor)
 
@@ -77,13 +77,13 @@ Se entera en El Relevo (Volvo de la fiscal abandonado, la grúa de la Almendra, 
 
 ## Pendientes
 
-> **Cómo termina lo suyo con Chiara: ESCRITO** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/07_La_Noche_Del_Ladrillo|Cap. 7]] (la banqueta de Gabriella's) y **cerrado definitivamente** en el Cap. 38 con la formulación canon: ella no lo dejó por Kal, terminó con él por él.
+> **Cómo termina lo suyo con Chiara: ESCRITO** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/07_La_Noche_Del_Ladrillo|Cap. 8 (archivo 07)]] (la banqueta de Gabriella's) y **cerrado definitivamente** en el Cap. 38 con la formulación canon: ella no lo dejó por Kal, terminó con él por él.
 
 > **¿Vuelve? RESUELTO (2026-09-20):** vuelve una vez, en el Cap. 38, y sale acompañado a tierra. No es rival, no hay triángulo. **Cobrado (2026-10-03):** su regreso de verdad ocurre en la trilogía de Elenna, y no por Chiara. Ver abajo.
 
-> **Cap. 30, *Oveja entre lobos* (2026-10-29, CANON DEL AUTOR: sin diálogo, evita a Kal deliberadamente):** en la comisaría de Calle Corona oye «Bellandi, Chiara» en la denuncia que Voss le toma a Kal, mira a Kal y se va sin decir nada. Kal ve «STANTON» en el gafete y el nombre no le dice nada. Sale antes de que Collins hable del Peugeot (ledger de revelaciones). La regla «vuelve una sola vez» ya estaba relajada por el Cap. 13 (archivo 10); el yate sigue siendo su único regreso con escena propia.
+> **Cap. 27 (archivo 24c), *Oveja entre lobos* (2026-10-29, CANON DEL AUTOR: sin diálogo, evita a Kal deliberadamente):** en la comisaría de Calle Corona oye «Bellandi, Chiara» en la denuncia que Voss le toma a Kal, mira a Kal y se va sin decir nada. Kal ve «STANTON» en el gafete y el nombre no le dice nada. Sale antes de que Collins hable del Peugeot (ledger de revelaciones). La regla «vuelve una sola vez» ya estaba relajada por el Cap. 12 (archivo 10); el yate sigue siendo su único regreso con escena propia.
 
-> **DISEÑO (2026-09-01), escrito en el Capítulo 12 (*Roma Atrii*):** después de H3-a, Blake tiene un romance breve con una recepcionista del Departamento que termina mal — ella lo deja, y él se lo toma peor de lo que admitiría en voz alta. Chiara se entera por Mabel, como chisme de barra, sin certeza confirmada todavía. Primer hilo hacia el PENDIENTE de arriba: un Blake despechado dos veces (Chiara, y ahora esto) es material acumulado, no usado aún.
+> **DISEÑO (2026-09-01), escrito en el Cap. 13 (archivo 12) (*Roma Atrii*):** después de H3-a, Blake tiene un romance breve con una recepcionista del Departamento que termina mal — ella lo deja, y él se lo toma peor de lo que admitiría en voz alta. Chiara se entera por Mabel, como chisme de barra, sin certeza confirmada todavía. Primer hilo hacia el PENDIENTE de arriba: un Blake despechado dos veces (Chiara, y ahora esto) es material acumulado, no usado aún.
 
 > **RESUELTO (2026-08-23):** su lugar en el Departamento es patrulla/tránsito. Funciona cerca de controles, persecuciones, orgullo al volante y escenas donde la policía llega primero, no como detective del caso central.
 

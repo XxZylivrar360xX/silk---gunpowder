@@ -3,7 +3,7 @@
 *Ficha de Lugar / Institución*
 
 **Qué es:** el hospital central de San Aurelio; trauma, urgencias, UCI y medicina pública de alto perfil.
-**Dónde:** [[05_Locations/San_Aurelio]] — Calle Corona, centro viejo.
+**Dónde:** [[05_Locations/San_Aurelio]] — Calle Corona, centro viejo; junto al Ayuntamiento, frente a Plaza Corona (CANON DEL AUTOR, 2026-11-01; [[99_Reference/location_references/plaza_corona_vista_aerea.png|vista aérea]]).
 **De quién es:** formalmente de una red hospitalaria privada sin fines de lucro; en la práctica, responde a junta, donantes, aseguradoras, ciudad y prensa.
 
 ---

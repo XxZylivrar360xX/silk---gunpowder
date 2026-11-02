@@ -1,6 +1,6 @@
 # Ficha de Voz - Mabel Ortiz
 
-> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]). Vara: La Esquina del Cap. 1 y la mañana del Cap. 11 (Walt). Ficha de personaje: [[02_Characters/Mabel_Ortiz]].
+> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]). Vara: La Esquina del Cap. 1 (archivo 01) y la mañana del *El farol* (escena eliminada, archivo 11) (Walt). Ficha de personaje: [[02_Characters/Mabel_Ortiz]].
 > **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
 
 ## Cadencia y sintaxis
@@ -9,7 +9,7 @@ Directa, mandona de mostrador, tutea a todo el mundo. Da órdenes domésticas qu
 
 ## Muletilla — regla dura (2026-10-04)
 
-"Yo no dije nada / Yo sólo sirvo café" nace en el Cap. 1 y es su firma, por eso **se gasta poco**: un origen (1), un eco con variación (11: "Yo no dije para qué."; desde el 2026-10-04 ya no está en el 13) y que otros se la peguen (Chiara: "Yo no dije nombres"). En prosa nueva, Mabel niega haber informado de otra manera: con la acción (sirve sin que le pidan, no cobra el cambio) o pasándole el dato a otro ("Lo dijo el chofer").
+"Yo no dije nada / Yo sólo sirvo café" nace en el Cap. 1 (archivo 01) y es su firma, por eso **se gasta poco**: un origen (1), un eco con variación (11: "Yo no dije para qué."; desde el 2026-10-04 ya no está en el 13) y que otros se la peguen (Chiara: "Yo no dije nombres"). En prosa nueva, Mabel niega haber informado de otra manera: con la acción (sirve sin que le pidan, no cobra el cambio) o pasándole el dato a otro ("Lo dijo el chofer").
 
 ## Vocabulario
 

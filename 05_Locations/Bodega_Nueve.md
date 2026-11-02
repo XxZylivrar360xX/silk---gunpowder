@@ -2,7 +2,7 @@
 
 *Ficha de Lugar*
 
-**Qué es:** bodega del Puerto Viejo, con oficina en alto sobre los muelles, donde Chiara entrega las armas largas a Dario y queda con una cuenta abierta ([[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/47_Intereses|Cap. 47]]).
+**Qué es:** bodega del Puerto Viejo, con oficina en alto sobre los muelles, donde Chiara entrega las armas largas a Dario y queda con una cuenta abierta ([[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/47_Intereses|Cap. 52 (archivo 47)]]).
 **Dónde:** [[05_Locations/San_Aurelio]] — El Puerto Viejo, Terminal Road, cerca de la aduana.
 **De quién es:** opera para [[02_Characters/Dario_Varek]], que controla el puerto. En la oficina no hay nada que diga que es suya, y eso es a propósito.
 
@@ -22,8 +22,8 @@ Entra quien Varek cita; el guardia ya tiene la placa. El Patio se queda afuera, 
 
 ## Qué pasa aquí
 
-- **Cap. 47, Nochevieja:** Chiara entrega las cajas. Dario pide intereses por el retraso, a pagar por el barrio con trabajos. Ella se niega y protege a los suyos, y a cambio queda "una cuenta abierta" con Dario. Él le sostiene la mano un segundo de más. Al salir, el hombre del Audi inclina la cabeza un grado.
-- **Cap. 49:** Valenti habla de unos almacenes del Puerto Viejo que "alguien debería restaurar". Es ambiguo: el texto no resuelve si sabe.
+- **Cap. 52 (archivo 47), Nochevieja:** Chiara entrega las cajas. Dario pide intereses por el retraso, a pagar por el barrio con trabajos. Ella se niega y protege a los suyos, y a cambio queda "una cuenta abierta" con Dario. Él le sostiene la mano un segundo de más. Al salir, el hombre del Audi inclina la cabeza un grado.
+- **Cap. 54 (archivo 49):** Valenti habla de unos almacenes del Puerto Viejo que "alguien debería restaurar". Es ambiguo: el texto no resuelve si sabe.
 - **Cap. 50:** "Le quedé a deber a Dario lo que él quiera, cuando él quiera."
 
 ## Preguntas abiertas

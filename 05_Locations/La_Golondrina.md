@@ -2,7 +2,7 @@
 
 *Ficha de Lugar*
 
-**Qué es:** cantina de Santa Brígida donde Chiara contrata con Rafe Domínguez el asalto al convoy y deja su nombre en la libreta de Maribel ([[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/48_Su_Nombre|Cap. 48]]).
+**Qué es:** cantina de Santa Brígida donde Chiara contrata con Rafe Domínguez el asalto al convoy y deja su nombre en la libreta de Maribel ([[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/48_Su_Nombre|Cap. 53 (archivo 48)]]).
 **Dónde:** [[05_Locations/San_Aurelio]] — Santa Brígida, en la esquina frente a la parroquia, sobre la plaza del mercado.
 **De quién es:** territorio de [[03_Factions/Los_Bravos_de_Santa_Brigida]]: tiene la calcomanía del gallo, como todos los negocios de la plaza. Rafe despacha ahí. **PENDIENTE:** dueño formal.
 
@@ -22,8 +22,8 @@ Es de la gente del barrio y de quien Rafe acepte recibir. Se entra en persona: "
 
 ## Qué pasa aquí
 
-- **Cap. 48:** Rafe se persigna a las nueve y recibe a "la señora del casino". Toma el sobre sin abrirlo y se lo pasa a Maribel. Su precio, además de lo que lleve el convoy, es el nombre de Chiara dicho por ella, delante de Maribel, que lo anota con una pluma de propaganda. Ese nombre entra al radar de Halbrook.
-- **Cap. 50b:** en la carpeta de Halbrook aparece una foto de Chiara, de espaldas, entrando bajo el letrero de La Golondrina.
+- **Cap. 53 (archivo 48):** Rafe se persigna a las nueve y recibe a "la señora del casino". Toma el sobre sin abrirlo y se lo pasa a Maribel. Su precio, además de lo que lleve el convoy, es el nombre de Chiara dicho por ella, delante de Maribel, que lo anota con una pluma de propaganda. Ese nombre entra al radar de Halbrook.
+- **Cap. 56 (archivo 50b):** en la carpeta de Halbrook aparece una foto de Chiara, de espaldas, entrando bajo el letrero de La Golondrina.
 
 ## Preguntas abiertas
 

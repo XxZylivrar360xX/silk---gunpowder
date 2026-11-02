@@ -2,7 +2,7 @@
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
-Plan de 2026-10-22 (Claude Code, encargo del autor). **Ejecutado el mismo día:** fecha y trato confirmados por el autor; prosa DISEÑO en la sección final del [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta|33]] y en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/33b_La_Mano|33b — La mano]]; sincronización hecha. El origen se ajustó a que Chiara llegó a San Aurelio al abrir la novela: compró a Vento en sus primeras semanas. Nombre de pista (DISEÑO): North Wind Rising. La coda del nombre de pista se descartó; el 33b cierra con "El domingo siguiente no bajó". Cada punto lleva su categoría. Fuentes: [[05_Locations/Hipodromo_Del_Monarch]], [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial|H16]] y [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/36_Tambien_Las_Mananas|Cap. 36]].
+Plan de 2026-10-22 (Claude Code, encargo del autor). **Ejecutado el mismo día:** fecha y trato confirmados por el autor; prosa DISEÑO en la sección final del [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta|33]] y en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/33b_La_Mano|33b — La mano]]; sincronización hecha. El origen se ajustó a que Chiara llegó a San Aurelio al abrir la novela: compró a Vento en sus primeras semanas. Nombre de pista (DISEÑO): North Wind Rising. La coda del nombre de pista se descartó; el 33b cierra con "El domingo siguiente no bajó". Cada punto lleva su categoría. Fuentes: [[05_Locations/Hipodromo_Del_Monarch]], [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial|H16]] y [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/36_Tambien_Las_Mananas|Cap. 41 (archivo 36)]].
 
 ## El problema
 
@@ -19,7 +19,7 @@ En prosa, Vento hoy recorre esta línea: aparece de pasada (5b, 6), sirve de esc
 | # | Decisión | Categoría |
 |---|---|---|
 | 1 | Vento fue **caballo de carreras del Monarch** | CANON DEL AUTOR |
-| 2 | La siembra va en el **Cap. 33** | CANON DEL AUTOR |
+| 2 | La siembra va en el **Cap. 37 (archivo 33)** | CANON DEL AUTOR |
 | 3 | Kal **llega antes** de que Chiara decida con la veterinaria | CANON DEL AUTOR |
 | 4 | La muerte **no va pegada al cumpleaños** | CANON DEL AUTOR; la fecha nueva es DISEÑO |
 | 5 | **Sin plan de viñedo**: Bellandi Ridge no entra en el Libro I | CANON DEL AUTOR |
@@ -38,9 +38,9 @@ En el 24c Kal encontró primero a Vento, suelto con las riendas colgando, y lo a
 
 ### C. La edad — alternativa al viñedo (DISEÑO)
 
-**Un acuerdo, no un plan.** *"Demasiados para correr y pocos para dejar de hacerlo"* (Cap. 6) se vuelve una regla de Chiara: ya sólo lo monta al paso, y el día que Vento no quiera salir, no lo vuelve a montar. Decide él, no ella. No hay futuro que cortar, sólo un presente aceptado, así que el texto no avisa de nada. La fractura rompe el acuerdo de la peor manera: Vento no llega a decir que no.
+**Un acuerdo, no un plan.** *"Demasiados para correr y pocos para dejar de hacerlo"* (Cap. 7 (archivo 06)) se vuelve una regla de Chiara: ya sólo lo monta al paso, y el día que Vento no quiera salir, no lo vuelve a montar. Decide él, no ella. No hay futuro que cortar, sólo un presente aceptado, así que el texto no avisa de nada. La fractura rompe el acuerdo de la peor manera: Vento no llega a decir que no.
 
-- Eco del Cap. 6: no lo retira el casino, ni la edad en abstracto, ni ella por conveniencia.
+- Eco del Cap. 7 (archivo 06): no lo retira el casino, ni la edad en abstracto, ni ella por conveniencia.
 - Resuelve de paso el pendiente de la ficha ("por qué no monta en su viñedo"): en el Libro I no hay viñedo. Monta donde está su caballo.
 
 ## Dónde va cada cosa
@@ -57,7 +57,7 @@ En el 24c Kal encontró primero a Vento, suelto con las riendas colgando, y lo a
 
 **Por qué el 33:** su función ya es que Kal aplique "preocuparse sin escoger por otro". Dejar que ella vuelva al lugar donde casi la matan, sin prohibírselo, es la misma lección en lo íntimo.
 
-## La muerte — Cap. 33b (DISEÑO)
+## La muerte — Cap. 38 (archivo 33b) (DISEÑO)
 
 **POV:** Chiara. Es un día de semana: la llamada la saca del Monarch en horas de trabajo.
 

@@ -46,7 +46,7 @@ construyen empieza a decidir quién debe ser cada uno.
 
 ## Punto de entrada
 
-Abre en el instante exacto donde termina el Cap. 50 del Libro I (el 50b es una coda exterior, al alba): Kal, liberado de Camp Alder de un modo
+Abre en el instante exacto donde termina el Cap. 55 (archivo 50) del Libro I (el 50b es una coda exterior, al alba): Kal, liberado de Camp Alder de un modo
 que no explica, de pie en la isla del loft a oscuras. Chiara le apunta con su Beretta. Él dice
 *"Ciao, bella."* Todo lo que sigue — su respuesta, la reconciliación completa, la llamada de
 Lucía Varek a la mañana siguiente: Fabrizio Rinaldi está muerto — abre este libro.
@@ -58,7 +58,7 @@ Lucía Varek a la mañana siguiente: Fabrizio Rinaldi está muerto — abre este
 Al final, Kal y Chiara siguen juntos. El Patio ha sobrevivido su primer enfrentamiento abierto
 serio (H1); Chiara está embarazada y Kal ya lo sabe. Han perdido a Mei-Lin y a Bonnie, perdido
 el loft, reconstruido en Villa Candelaria y se han comprometido en Stavanger. ~~Warren Halbrook
-acaba de llegar físicamente a San Aurelio.~~ (Superado: Halbrook llegó en el Cap. 50b del Libro I y aquí ya opera dentro de la ciudad; el libro cierra con el reveal en la chimenea.) La guerra todavía no ha explotado, pero ya es
+acaba de llegar físicamente a San Aurelio.~~ (Superado: Halbrook llegó en el Cap. 56 (archivo 50b) del Libro I y aquí ya opera dentro de la ciudad; el libro cierra con el reveal en la chimenea.) La guerra todavía no ha explotado, pero ya es
 inevitable — eso pertenece a *Voto de Ceniza*.
 
 ## Tesis emocional
@@ -86,9 +86,9 @@ sobrevivan — como individuos y como pareja — a haberlo ganado.
 | Policía de San Aurelio tras la tormenta (CANON DEL AUTOR, 2026-10-03) | Recuperar control de la calle | Alerta elevada, armas largas, SWAT, redadas | Kal se vuelve visible; se tensa la línea con Lucía |
 | El Patio en expansión | Crecer con cada problema que Kal resuelve | Cada favor genera una obligación nueva | Kal ya no puede resolver problemas sin acumular poder |
 | Dario Varek | Mantener el control territorial mientras Kal crece dentro de su estructura | Reúne, empuja o favorece una coalición contra el crecimiento de Kal | El choque de H1 ya no puede leerse como incidente aislado |
-| Chiara contra el dinero de Dario (CANON DEL AUTOR, 2026-10-02) | Que el Monarch deje de depender del efectivo sucio de Dario | Contrata a [[02_Characters/Garrett_Cross|Garrett]] como contador; con [[02_Characters/Giancarlo_Krane|Krane]] limpia el flujo de inyección de efectivo al casino y empieza a aislar a Dario en finanzas | Mientras ella le debe una cuenta abierta (Libro I, Cap. 47), le corta la llave del dinero |
+| Chiara contra el dinero de Dario (CANON DEL AUTOR, 2026-10-02) | Que el Monarch deje de depender del efectivo sucio de Dario | Contrata a [[02_Characters/Garrett_Cross|Garrett]] como contador; con [[02_Characters/Giancarlo_Krane|Krane]] limpia el flujo de inyección de efectivo al casino y empieza a aislar a Dario en finanzas | Mientras ella le debe una cuenta abierta (Libro I, Cap. 52 (archivo 47)), le corta la llave del dinero |
 | La pérdida (Mei-Lin, Bonnie, el loft) | Cobrar el costo del crecimiento de Kal | Le quita a Chiara y a Kal personas y lugares, uno por uno | Sobrecompensar construyendo (Villa, Stavanger) no borra la pérdida |
-| Warren Halbrook | Cobrar la deuda de la liberación de Kal | Presión invisible; ya está en San Aurelio (llegó en el Cap. 50b del Libro I). **Primera aparición en prosa del libro: la gala de beneficencia de Chiara, con el baile** (CANON DEL AUTOR, 2026-10-02) | El pasado militar de Kal nunca terminó de pagarse |
+| Warren Halbrook | Cobrar la deuda de la liberación de Kal | Presión invisible; ya está en San Aurelio (llegó en el Cap. 56 (archivo 50b) del Libro I). **Primera aparición en prosa del libro: la gala de beneficencia de Chiara, con el baile** (CANON DEL AUTOR, 2026-10-02) | El pasado militar de Kal nunca terminó de pagarse |
 
 ## Deudas heredadas del Libro I (DISEÑO, 2026-10-05)
 
@@ -96,13 +96,13 @@ Obligaciones que deja el cierre de *Máscaras de Cristal* y que este libro tiene
 
 | Deuda | Origen (Libro I) | Qué exige aquí |
 |---|---|---|
-| Favor abierto de Chiara con Dario, sin papel | Cap. 47 | Que Dario lo cobre, o amenace con cobrarlo, en un momento que le duela. Choca con la fuerza "Chiara contra el dinero de Dario". |
-| El nombre de Chiara ligado a Rafe y a una operación contra un convoy federal | Cap. 48 | Consecuencia: Rafe cobra, los Bravos reaparecen o alguien tira del hilo. Rafe cargó el nombre de Kal en el 13 y no lo sabe (revelación posible, ledger). |
-| Lucía cruzó líneas informativas por Kal | Caps. 44, 47 | Costo para Lucía o para la confianza entre ella y Kal. |
-| Il Consorzio evalúa el Monarch y a Kal ("interesante, no necesario") | Cap. 49 | La oferta del Monarch (Q24) y qué ve el Consorzio en Kal ahora. |
-| Krane, cada vez más asociado a Kal | Caps. 44 y siguientes | Que esa cercanía tenga precio profesional. |
-| Halbrook, con vigilancia activa y la grabación que Chiara borró | Cap. 50b | **Límites legibles:** qué fuentes tiene, cuánto le cuesta cada una, en qué falla. Formidable, no omnisciente. Cruza con los pendientes 2–6 de [[98_Agent_Handoff/sessions/2026-09-28_claude_reconstruccion_halbrook]]. |
-| Cómo salió Kal de Camp Alder | Caps. 50–50b | Piezas tempranas que prueben que hay una explicación concreta. **La revelación completa sigue reservada para *Voto de Ceniza*** (restricción vigente). |
+| Favor abierto de Chiara con Dario, sin papel | Cap. 52 (archivo 47) | Que Dario lo cobre, o amenace con cobrarlo, en un momento que le duela. Choca con la fuerza "Chiara contra el dinero de Dario". |
+| El nombre de Chiara ligado a Rafe y a una operación contra un convoy federal | Cap. 53 (archivo 48) | Consecuencia: Rafe cobra, los Bravos reaparecen o alguien tira del hilo. Rafe cargó el nombre de Kal en el 13 y no lo sabe (revelación posible, ledger). |
+| Lucía cruzó líneas informativas por Kal | Caps. 49 y 52 (archivos 44 y 47) | Costo para Lucía o para la confianza entre ella y Kal. |
+| Il Consorzio evalúa el Monarch y a Kal ("interesante, no necesario") | Cap. 54 (archivo 49) | La oferta del Monarch (Q24) y qué ve el Consorzio en Kal ahora. |
+| Krane, cada vez más asociado a Kal | Cap. 49 (archivo 44) y siguientes | Que esa cercanía tenga precio profesional. |
+| Halbrook, con vigilancia activa y la grabación que Chiara borró | Cap. 56 (archivo 50b) | **Límites legibles:** qué fuentes tiene, cuánto le cuesta cada una, en qué falla. Formidable, no omnisciente. Cruza con los pendientes 2–6 de [[98_Agent_Handoff/sessions/2026-09-28_claude_reconstruccion_halbrook]]. |
+| Cómo salió Kal de Camp Alder | Caps. 55 y 56 (archivos 50 y 50b) | Piezas tempranas que prueben que hay una explicación concreta. **La revelación completa sigue reservada para *Voto de Ceniza*** (restricción vigente). |
 
 ---
 

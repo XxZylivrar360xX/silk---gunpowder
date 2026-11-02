@@ -20,11 +20,11 @@ En calma: capataz, inventario, nombres, portón. Bajo presión: más breve, no m
 
 - **A Kal: "tú".** Lo crió. Le habla como quien tiene derecho a decirle que es un idiota. "muchacho" cuando lo ablanda; "Mercer" cuando lo corrige en serio.
 - **A Chiara: "usted".** Respeto y una distancia que elige no cerrar. El "usted" se mantiene aunque el afecto ya no. Ni un tuteo, tampoco en frases impersonales ("no importa el nombre que *le* ponga", no "que le pongas").
-- **A Walt: "tú" y apellido** ("Navarro" / "Keegan", Cap. 3). Dos viejos de la misma cuadra; nunca "usted".
+- **A Walt: "tú" y apellido** ("Navarro" / "Keegan", Cap. 3 (archivo 03)). Dos viejos de la misma cuadra; nunca "usted".
 
 ## Orden de la ternura con Chiara — regla dura (2026-10-04, decisión del autor)
 
-Con Chiara despierta, Héctor **no confiesa**: pregunta, gruñe, acepta la silla verde y se queja. No le dice lo que ella siente ni le da consejos de vida. Lo que siente por ella lo dice **una sola vez y sin testigo**: el monólogo a Chiara dormida del Cap. 24c (canon). Antes del 24c, la ternura sólo se ve en conducta (deja que le gane una discusión, usa el catálogo). Lo de su mujer se lo dice a Kal ("Cuatro letras", 16), no a ella.
+Con Chiara despierta, Héctor **no confiesa**: pregunta, gruñe, acepta la silla verde y se queja. No le dice lo que ella siente ni le da consejos de vida. Lo que siente por ella lo dice **una sola vez y sin testigo**: el monólogo a Chiara dormida del Cap. 27 (archivo 24c) (canon). Antes del 24c, la ternura sólo se ve en conducta (deja que le gane una discusión, usa el catálogo). Lo de su mujer se lo dice a Kal ("Cuatro letras", 16), no a ella.
 
 ## Vocabulario
 
@@ -55,13 +55,13 @@ Trabaja mientras habla, como Kal — pero donde Kal minimiza, Héctor pincha. Es
 - **Mintiendo:** casi no lo hace; calla antes que mentir.
 - **Relación con el silencio:** lo usa como sentencia. Un silencio suyo pesa más que un grito de otro.
 - **Arma conversacional preferida:** quitarle al otro la excusa. "No es tuyo decidir de qué la cuidas. Es de ella."
-- **Cuándo habla y cuándo calla (canon del autor, 2026-09-26):** Héctor mide cuándo Kal necesita oír algo y cuándo le conviene callar para que Kal lo descubra solo. Su silencio no es falta de palabras: es una decisión pedagógica (Cap. 3, en la tumba de Jim, sólo le pone la mano en el hombro a Walt).
-- **Sarcasmo al revés:** atribuye un defecto que el otro no tiene para ridiculizarlo. "Temperamental y poca paciencia" (Cap. 3) sobre Dario, que es todo calma, dicho entre hombres que funcionan con paciencia.
+- **Cuándo habla y cuándo calla (canon del autor, 2026-09-26):** Héctor mide cuándo Kal necesita oír algo y cuándo le conviene callar para que Kal lo descubra solo. Su silencio no es falta de palabras: es una decisión pedagógica (Cap. 3 (archivo 03), en la tumba de Jim, sólo le pone la mano en el hombro a Walt).
+- **Sarcasmo al revés:** atribuye un defecto que el otro no tiene para ridiculizarlo. "Temperamental y poca paciencia" (Cap. 3 (archivo 03)) sobre Dario, que es todo calma, dicho entre hombres que funcionan con paciencia.
 - **Evasión típica:** el chiste seco sobre su edad o sobre el trabajo acumulado.
 
 ## Muestra
 
-—No venimos de la escuela. Sabemos leer. *(Ya no está en la prosa: se cortó con la escena del chofer del Cap. 1 el 2026-09-26. Se conserva como muestra de voz.)*
+—No venimos de la escuela. Sabemos leer. *(Ya no está en la prosa: se cortó con la escena del chofer del Cap. 1 (archivo 01) el 2026-09-26. Se conserva como muestra de voz.)*
 
 —Los papeles los ve Garrett. La gente la veo yo.
 

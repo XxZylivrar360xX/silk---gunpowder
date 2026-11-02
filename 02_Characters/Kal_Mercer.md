@@ -38,7 +38,7 @@ El "mecánico" es solo el punto de partida. Al escribir un libro, el oficio y la
 
 ## Apariencia
 
-Alto: **1.92 m** (CANON DEL AUTOR, 2026-10-17), uno noventa y tantos de esos que se notan en los marcos de las puertas; alto incluso para un noruego. Casi ninguna mujer lo mira de frente a los ojos; [[02_Characters/Chiara_Bellandi|Chiara]] (1.80) en tacones, casi. Rubio, ojos azules de un tono lavado, mandíbula ancha y rasgos nórdicos que vienen de su verdadero origen noruego, aunque su vida pública no tenga cómo nombrarlo. Cuerpo de trabajo físico, no de gimnasio: hombros de levantar cosas, manos con las uñas imposibles de dejar limpias del todo. **Una cicatriz le cruza la mejilla izquierda desde la comisura de la boca hasta el rabillo del ojo** (canon; ver [[06_Relationships/Hitos]], "La noche del jacuzzi"). Es lo primero que la gente le mira y lo último que le pregunta. **CONFIRMADO POR EL AUTOR (2026-09-09):** se la abrió un vidrio del parabrisas la última noche que liberó solo un convoy de niños, sacando a un niño por la ventanilla, antes de caer en prisión — no la pelea de cantina que dice el rumor del barrio. Ya no es diseño provisional. Es de las pocas cosas que cuenta de sí mismo sin que se las pidan, y se la cuenta a Chiara la noche del jacuzzi ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos|Capítulo 25]]).
+Alto: **1.92 m** (CANON DEL AUTOR, 2026-10-17), uno noventa y tantos de esos que se notan en los marcos de las puertas; alto incluso para un noruego. Casi ninguna mujer lo mira de frente a los ojos; [[02_Characters/Chiara_Bellandi|Chiara]] (1.80) en tacones, casi. Rubio, ojos azules de un tono lavado, mandíbula ancha y rasgos nórdicos que vienen de su verdadero origen noruego, aunque su vida pública no tenga cómo nombrarlo. Cuerpo de trabajo físico, no de gimnasio: hombros de levantar cosas, manos con las uñas imposibles de dejar limpias del todo. **Una cicatriz le cruza la mejilla izquierda desde la comisura de la boca hasta el rabillo del ojo** (canon; ver [[06_Relationships/Hitos]], "La noche del jacuzzi"). Es lo primero que la gente le mira y lo último que le pregunta. **CONFIRMADO POR EL AUTOR (2026-09-09):** se la abrió un vidrio del parabrisas la última noche que liberó solo un convoy de niños, sacando a un niño por la ventanilla, antes de caer en prisión — no la pelea de cantina que dice el rumor del barrio. Ya no es diseño provisional. Es de las pocas cosas que cuenta de sí mismo sin que se las pidan, y se la cuenta a Chiara la noche del jacuzzi ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos|Cap. 29 (archivo 25)]]).
 
 Tatuajes. El principal, y el único que importa: **una calavera que le cubre media espalda** (canon; ver [[06_Relationships/Hitos]], H2-b). Además, un blackout que le come el antebrazo derecho — hecho para tapar otra cosa que nunca explica — y nada en las manos ni en el cuello. Un arete pequeño en la oreja izquierda que no se ha quitado en quince años.
 
@@ -189,7 +189,7 @@ Dale se fue cuando Kal tenía quince años, arrastrado por esa misma deuda que n
 
 > Lo único que de verdad tenemos es quiénes somos en el mundo. Y quiénes somos no es otra cosa que cómo elegimos dirigir la vida. Todo lo demás se presta.
 
-Kal se lo cuenta a Chiara por primera vez en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos|Cap. 26]] (el jacuzzi), justo después de que ella le cite la última frase de Marta — las dos máximas quedan una al lado de la otra, sin que el narrador lo subraye. **No rompe** la restricción de H11 sobre el recuerdo del arresto: es un recuerdo distinto, y sigue sin dramatizarse la escena del arresto en ningún otro sitio.
+Kal se lo cuenta a Chiara por primera vez en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos|Cap. 29 (archivo 25)]] (el jacuzzi), justo después de que ella le cite la última frase de Marta — las dos máximas quedan una al lado de la otra, sin que el narrador lo subraye. **No rompe** la restricción de H11 sobre el recuerdo del arresto: es un recuerdo distinto, y sigue sin dramatizarse la escena del arresto en ningún otro sitio.
 
 ### El uniforme
 
@@ -209,7 +209,7 @@ En su última operación, **Kal libera el convoy.**
 
 **Y las consecuencias lo llevan a prisión.**
 
-> **CANON DEL AUTOR (2026-09-28):** esa noche **Kal mató a un niño**, y por eso terminó en prisión. Es la raíz de su regla: *"Los niños no entran a este mundo."* Lo confiesa a Chiara en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos|Cap. 25]]: *"Yo también cargo sangre en mis manos, y no toda es de culpables o criminales."* **DISEÑO del agente:** el niño (unos 12 años) era un guardia armado de los traficantes. Kal disparó por entrenamiento contra una silueta con fusil, en la oscuridad, y nunca sabrá si el niño iba a disparar. El expediente borra el convoy y conserva al menor muerto.
+> **CANON DEL AUTOR (2026-09-28):** esa noche **Kal mató a un niño**, y por eso terminó en prisión. Es la raíz de su regla: *"Los niños no entran a este mundo."* Lo confiesa a Chiara en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos|Cap. 29 (archivo 25)]]: *"Yo también cargo sangre en mis manos, y no toda es de culpables o criminales."* **DISEÑO del agente:** el niño (unos 12 años) era un guardia armado de los traficantes. Kal disparó por entrenamiento contra una silueta con fusil, en la oscuridad, y nunca sabrá si el niño iba a disparar. El expediente borra el convoy y conserva al menor muerto.
 
 > **La ironía que ordena su vida entera y que nadie en el libro le señala:** a los dieciocho un juez le dio a elegir entre alistarse o entrar. Se alistó. **Y el ejército terminó metiéndolo de todos modos.**
 
@@ -318,9 +318,11 @@ Guardarraíles. Si un borrador lo empuja hacia aquí, está mal escrito:
 
 Mientras Chiara está inconsciente en [[06_Relationships/Hitos]], H12, Kal investiga por su cuenta quién la atacó. No encuentra nada — ninguna pista llega a ningún lado, y tiene que aceptarlo sin resolverlo. Queda guardado, no cerrado.
 
+> **(2026-11-01)** H13 ocurre en julio A2 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21b_Grazie]]); Chiara calla hasta el yate del 47, donde le enseña el pañuelo y le dice «Decía tu nombre» (DISEÑO).
+
 Más adelante, en H13, Chiara le muestra el pañuelo y la bala que le dejó el Consorcio. Verlos es lo que lo hace **insistir en acompañarla a Palermo** — no por desconfianza en ella, sino porque es el mismo hilo que él nunca pudo encontrar solo.
 
-> **ESCRITO (2026-09-20):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 38]]. Kal recibe la bala en la palma, la gira entre los dedos y dice lo único que hay que decir: "Es corriente" / "Que no nos lleva a nadie" — sin forense (corrección del autor); la ausencia de pista es el dato. Confirma en voz alta que lo del corral lo buscó meses sin encontrar nada y que "esto tiene por dónde seguir". Cuando Chiara dice que se va esa misma noche, su respuesta es **"Bien. Entonces nos vamos a Italia."** (CANON DEL AUTOR 2026-10-04; antes "Voy contigo.") — sin impedirle ir, sin pedir permiso: "No te estoy diciendo que no vayas ni te estoy diciendo que me esperes. Te estoy diciendo que voy." Anclada en H12 y en "tú eres mi gente". Línea a revisar por el autor si pisa el peso de la frase de F1 ("no hay un 'fuera mi gente'").
+> **ESCRITO (2026-09-20):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 43 (archivo 38)]]. Kal recibe la bala en la palma, la gira entre los dedos y dice lo único que hay que decir: "Es corriente" / "Que no nos lleva a nadie" — sin forense (corrección del autor); la ausencia de pista es el dato. Confirma en voz alta que lo del corral lo buscó meses sin encontrar nada y que "esto tiene por dónde seguir". Cuando Chiara dice que se va esa misma noche, su respuesta es **"Bien. Entonces nos vamos a Italia."** (CANON DEL AUTOR 2026-10-04; antes "Voy contigo.") — sin impedirle ir, sin pedir permiso: "No te estoy diciendo que no vayas ni te estoy diciendo que me esperes. Te estoy diciendo que voy." Anclada en H12 y en "tú eres mi gente". Línea a revisar por el autor si pisa el peso de la frase de F1 ("no hay un 'fuera mi gente'").
 
 ## La paternidad y la casa de tres — CANON DEL AUTOR (2026-08-31)
 
@@ -342,7 +344,7 @@ Kal llama a su hija simplemente **"Elenna"**, sin diminutivo ni apodo. Confirmad
 
 ## "Mac" — CANON DEL AUTOR (2026-08-29)
 
-En las carreras ilegales de Kingsley Field ([[06_Relationships/Hitos]], H9 — Capítulo 8, "La carrera de máscaras"), nadie lo llama Kal ni Mercer. Le dicen **Mac** — las iniciales de Mercer Kal, invertidas y leídas como si fueran un nombre cualquiera. Tyler Brooks, quien organiza las carreras, lo saluda así. Chiara arma el acertijo sola, un segundo tarde, la primera vez que lo oye: un nombre falso hecho enteramente del nombre real, la misma lógica de la máscara de plástico que se pone en la cara — cambia de color sin cambiar una sola letra.
+En las carreras ilegales de Kingsley Field ([[06_Relationships/Hitos]], H9 — Cap. 9 (archivo 08), "La carrera de máscaras"), nadie lo llama Kal ni Mercer. Le dicen **Mac** — las iniciales de Mercer Kal, invertidas y leídas como si fueran un nombre cualquiera. Tyler Brooks, quien organiza las carreras, lo saluda así. Chiara arma el acertijo sola, un segundo tarde, la primera vez que lo oye: un nombre falso hecho enteramente del nombre real, la misma lógica de la máscara de plástico que se pone en la cara — cambia de color sin cambiar una sola letra.
 
 ## Conexiones
 
@@ -372,11 +374,11 @@ En las carreras ilegales de Kingsley Field ([[06_Relationships/Hitos]], H9 — C
 
 ## Talento oculto — el piano y *Träumerei* (2026-09-20, encargo del autor; ejecutado el mismo día)
 
-> **CANON DEL AUTOR — EJECUTADO EN PROSA (2026-09-20, Claude Code):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 38]], BORRADOR. Kal toca el piano. Primera revelación en prosa: en el salón del yate, a solas con Chiara después de lo de Blake, se sienta al piano alquilado y toca **_Träumerei_, de Robert Schumann** — pieza fijada por el autor, no sustituible. Chiara no sabía. Él la nombra ("Schumann. *Träumerei*.") y dice no saber qué significa el título ("Sueño. Soñar. Algo así. Nunca lo busqué"). Se equivoca en una nota y no se detiene. Imagen: las manos de siempre (nudillos con costra, uñas que no quedan limpias) sobre las teclas blancas, una sola vez, sin fetiche.
+> **CANON DEL AUTOR — EJECUTADO EN PROSA (2026-09-20, Claude Code):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 43 (archivo 38)]], BORRADOR. Kal toca el piano. Primera revelación en prosa: en el salón del yate, a solas con Chiara después de lo de Blake, se sienta al piano alquilado y toca **_Träumerei_, de Robert Schumann** — pieza fijada por el autor, no sustituible. Chiara no sabía. Él la nombra ("Schumann. *Träumerei*.") y dice no saber qué significa el título ("Sueño. Soñar. Algo así. Nunca lo busqué"). Se equivoca en una nota y no se detiene. Imagen: las manos de siempre (nudillos con costra, uñas que no quedan limpias) sobre las teclas blancas, una sola vez, sin fetiche.
 >
 > **Sigue PENDIENTE, no inventar:** origen (maestro, edad, por qué aprendió, quién tenía el piano), nivel técnico, repertorio más allá de esta pieza. Kal esquiva en escena ("Desde antes." / "Nadie pregunta."). El autor describió el talento como **"importantísimo para el futuro"** y fijó que *Träumerei* será una pieza profundamente ligada a él y, más adelante, una herencia emocional para [[02_Characters/Elenna_Mercer|Elenna]] — **ese pago NO se ejecuta ni se insinúa todavía**; el Cap. 38 no menciona a Elenna ni el origen.
 
-## Roma Atrii — pagado; "Del patio" (2026-09-20, Claude Code, [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 38]])
+## Roma Atrii — pagado; "Del patio" (2026-09-20, Claude Code, [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 43 (archivo 38)]])
 
 Después del piano, Kal cobra por fin el cifrado ("Ya que estamos contando secretos. — Roma."). Chiara escribe ROMA en su papel y le dice que lo lea al revés; Kal lo entiende en el acto ("Amor", en voz baja). Pregunta "¿Y Atrii?" y recibe la traducción privada de Chiara: **"Mi amor del patio."** Entiende que Roma Atrii siempre fue él ("Entonces el chico. Ese día. Venía buscándome a mí."). Reacción mínima: dobla el papel, se lo guarda en el bolsillo interior junto a la carta, le pone la mano en la nuca, y repite **"Del patio"** — "como alguien que se guarda una llave en el bolsillo".
 
@@ -384,7 +386,7 @@ Después del piano, Kal cobra por fin el cifrado ("Ya que estamos contando secre
 
 ## North Guard Securitia — CANON DEL AUTOR (2026-10-08)
 
-Es su empresa de seguridad legítima. La anuncia en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05c_La_Pizza_De_Calabaza|Cap. 5c]] y le ofrece el servicio al Monarch. (La semilla que tenía en la tumba de Michael del Cap. 1, "sobre todo seguridad... O proteges, o te protegen", salió con el cementerio el 2026-10-08.) Cuándo se concreta, su relación con El Patio y con Eagle Eye: PENDIENTE ([[01_Timeline/03_Libro_02_Sombras_De_Poder]]).
+Es su empresa de seguridad legítima. La anuncia en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05c_La_Pizza_De_Calabaza|Cap. 6 (archivo 05c)]] y le ofrece el servicio al Monarch. (La semilla que tenía en la tumba de Michael del Cap. 1, "sobre todo seguridad... O proteges, o te protegen", salió con el cementerio el 2026-10-08.) Cuándo se concreta, su relación con El Patio y con Eagle Eye: PENDIENTE ([[01_Timeline/03_Libro_02_Sombras_De_Poder]]).
 
 > **CANON DEL AUTOR (2026-10-28):** en todo el Libro I la empresa sigue «en trámite», sin licencia (Cap. 25, ante Tommaso). Se concreta en *Sombras de Poder*; ningún capítulo del I la da por constituida ni contratada formalmente. **Por qué se pausa:** Kal la tiene en mente, pero después del regreso de Italia y del cumpleaños de Chiara no le da seguimiento por todo lo que pasa en el final del libro.
 

@@ -144,7 +144,7 @@ claude --resume 9e1c0767-30b3-465e-9519-f3ec475dece3
 
 **9. La primera cuota** — may–jun A3 · Chiara · oficina del Monarch
 
-- **Función:** Dario sofocante: usa la deuda del Cap. 47 del Libro I, presiona el Monarch y es condescendiente. Chiara paga sola una primera cuota pequeña y la oculta; parece que terminó, pero era sólo la primera. Mientras le debe, con Garrett y Krane le corta el flujo de efectivo sucio al casino.
+- **Función:** Dario sofocante: usa la deuda del Cap. 52 (archivo 47) del Libro I, presiona el Monarch y es condescendiente. Chiara paga sola una primera cuota pequeña y la oculta; parece que terminó, pero era sólo la primera. Mientras le debe, con Garrett y Krane le corta el flujo de efectivo sucio al casino.
 - **Tic 2:** al margen del documento, con Dario hablando. Lo tacha hasta volverlo ilegible antes de devolverlo: es lo único de la hoja que Dario no puede leer.
 - **Por qué importa:** instala la cuenta con Dario como *el* secreto de Chiara, que es el disfraz del embarazo en la Parte IV.
 
@@ -263,9 +263,9 @@ claude --resume 9e1c0767-30b3-465e-9519-f3ec475dece3
 **28. La carretera** — 31 dic – 2 ene · Kal · Washington; la carretera; el penthouse
 
 - **Función:** F4, la mitad de él. Paga la deuda de los papeles de Nadir: Anya lo cita con el pretexto de un programa de apoyo a veteranos (muchos fueron subordinados de Halbrook; siembra). Kal sólo la ayuda con el trabajo. En el hotel le da vueltas al collar, hace la maleta y vuelve en auto esa misma noche; por eso tarda.
-- **Llegada (canon):** la noche del 2 la encuentra sin maquillar y con un chongo improvisado: la primera vez en la saga que a Chiara no le importa su imagen. El piano responde a lo que ella descubrió en el Cap. 38 del Libro I: que él toca.
+- **Llegada (canon):** la noche del 2 la encuentra sin maquillar y con un chongo improvisado: la primera vez en la saga que a Chiara no le importa su imagen. El piano responde a lo que ella descubrió en el Cap. 43 (archivo 38) del Libro I: que él toca.
 - **No hacer:** Anya como rival barata; Chiara con celos simples.
-- **El piano (DISEÑO):** es la declaración de Kal sin palabras: toca para ella (eco de *Träumerei*, Cap. 38 del Libro I). El «Te amo» no va aquí (CANON 2026-10-14: va en el 41).
+- **El piano (DISEÑO):** es la declaración de Kal sin palabras: toca para ella (eco de *Träumerei*, Cap. 43 (archivo 38) del Libro I). El «Te amo» no va aquí (CANON 2026-10-14: va en el 41).
 
 **29. La bahía** — principios ene A4 · Kal · del norte al puerto; la bahía; la zona industrial
 
@@ -444,7 +444,7 @@ claude --resume 9e1c0767-30b3-465e-9519-f3ec475dece3
 
 - **Señal 2:** es la primera noche que lo sabe. El vino es identidad, así que no lo rechaza: acepta la copa, brinda y la deja. Al final de la noche Kal se la termina sin pensarlo. Nadie lo anota, ni el narrador.
 - **Rima:** el cap. 22.
-- **Durante las dos semanas de secreto (23 nov – ~7 dic), en capítulos distintos:** el cigarro («Kal me dijo que era malo», eco del Cap. 50 del Libro I, en tono de broma) y la comida en una cena del Patio, que se quita si sobra. Ella calla por todo lo que pasa alrededor, con la operación contra Crowe en marcha.
+- **Durante las dos semanas de secreto (23 nov – ~7 dic), en capítulos distintos:** el cigarro («Kal me dijo que era malo», eco del Cap. 55 (archivo 50) del Libro I, en tono de broma) y la comida en una cena del Patio, que se quita si sobra. Ella calla por todo lo que pasa alrededor, con la operación contra Crowe en marcha.
 
 *Fuera de página (CANON 2026-10-14):* Halbrook filtra la ubicación de Crowe mediante un rumor de los Bravos, y Dario manda a Volpi. Nada de esto se ve en el Libro II; si algo asoma, es un dato de la red de Dario. Se cobra en la revelación.
 

@@ -24,7 +24,7 @@ No sabe que Dario es el jefe de la organización criminal dominante ni que orden
 
 Representa la medicina institucional y puede atender a Chiara en el atentado futuro de la iglesia. No reemplaza a [[02_Characters/Camila_Rivas]], cuya función es la medicina fuera del sistema.
 
-> **ACTUALIZADO (2026-10-04, CANON DEL AUTOR):** el Corral se reubicó como Cap. 24c, justo antes del jacuzzi, y la gravedad bajó a conmoción con hematoma en observación: Beatrice **evalúa y decide no operar** ("Por ahora no vamos a operar... Si crece, entramos"). Su primera aparición en prosa sigue siendo ésa, ahora más tarde en el libro. Plan anterior retirado: [[97_Supersedido/Beatrice_Craniotomia_En_El_Corral]].
+> **ACTUALIZADO (2026-10-04, CANON DEL AUTOR):** el Corral se reubicó como Cap. 27 (archivo 24c), justo antes del jacuzzi, y la gravedad bajó a conmoción con hematoma en observación: Beatrice **evalúa y decide no operar** ("Por ahora no vamos a operar... Si crece, entramos"). Su primera aparición en prosa sigue siendo ésa, ahora más tarde en el libro. Plan anterior retirado: [[97_Supersedido/Beatrice_Craniotomia_En_El_Corral]].
 
 > **PENDIENTE:** cargo definitivo, y razón concreta por la que está con Dario cuando Lucia llega a arrestarlo.
 

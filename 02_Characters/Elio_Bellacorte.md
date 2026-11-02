@@ -43,7 +43,7 @@ Elio rompe una rutina que jamás rompe: deja de responder a Matteo y falta a dos
 
 ## La carta que Matteo deja en el Monarch
 
-Distinta de la nota anterior: es puramente operativa, dirigida a Chiara, y ya está escrita en prosa en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35 — Sin fecha de regreso]]. Núcleo canon:
+Distinta de la nota anterior: es puramente operativa, dirigida a Chiara, y ya está escrita en prosa en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 40 (archivo 35) — Sin fecha de regreso]]. Núcleo canon:
 
 > **Elio desapareció. Tengo que volver a Génova. No sé cuánto tardaré. Te llamaré cuando sepa algo.**
 

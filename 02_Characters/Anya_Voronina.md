@@ -48,7 +48,7 @@ Kal probablemente no le creyó. O peor: le sonrió como si fuera una frase bonit
 
 ## Los papeles de Nadir
 
-> **PRIMERA APARICIÓN EN PROSA (2026-09-26, aprobada por el autor):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Cap. 3]], en el recuerdo de la rotación. Sin nombre: "una mujer con acento ruso que sabía a quién llamar", al otro lado de las carpas de los contratistas; el romance sólo se insinúa ("no siempre por trabajo"). Kal podría hacer desaparecer el reporte de Jim con una llamada suya y no la llama (hilo A: lo carga él solo). En el Cap. 25, cuando Kal dice "una rusa que conseguía papeles", el lector ya la reconoce y Chiara no. El nombre sigue guardado para F4.
+> **PRIMERA APARICIÓN EN PROSA (2026-09-26, aprobada por el autor):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Cap. 3 (archivo 03)]], en el recuerdo de la rotación. Sin nombre: "una mujer con acento ruso que sabía a quién llamar", al otro lado de las carpas de los contratistas; el romance sólo se insinúa ("no siempre por trabajo"). Kal podría hacer desaparecer el reporte de Jim con una llamada suya y no la llama (hilo A: lo carga él solo). En el Cap. 25, cuando Kal dice "una rusa que conseguía papeles", el lector ya la reconoce y Chiara no. El nombre sigue guardado para F4.
 
 Cuando [[02_Characters/Nadir_Amrani]] necesita entrar a Estados Unidos, Kal recurre a Anya.
 
@@ -68,7 +68,7 @@ Chiara nota que ella lo llama **Kal**. Cuando las dos se acercan, Anya lo llama 
 
 **Regla de la escena:** Chiara empieza a conectar puntos, pero **no por su cuenta ni porque Anya lo insinúe. Es por el comportamiento de Kal.** Anya no provoca; Kal se delata solo. (Cumple la regla "no hay celos, hay información" y la de "Kal administrando".)
 
-> **ESCRITA (2026-09-27, E9 de la auditoría de la Parte III; decisiones del autor en Q13): BORRADOR/DISEÑO hasta que la lea el autor.** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 35]], cuarta sección, POV Chiara, el día que se va Matteo (no en 36–37). Kal se queda a arreglar la máquina de hielo del bar del casino (el técnico era de Matteo); Chiara baja a firmar el libro de la cava.
+> **ESCRITA (2026-09-27, E9 de la auditoría de la Parte III; decisiones del autor en Q13): BORRADOR/DISEÑO hasta que la lea el autor.** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 40 (archivo 35)]], cuarta sección, POV Chiara, el día que se va Matteo (no en 36–37). Kal se queda a arreglar la máquina de hielo del bar del casino (el técnico era de Matteo); Chiara baja a firmar el libro de la cava.
 > - **Nadie la nombra**; el acento no se menciona. El nombre sigue guardado para F4.
 > - **Línea de Anya (deja abierta la deuda):** "No vengo a cobrar nada, Ojos azules. Todavía."
 > - **Kal a Chiara, sin que ella pregunte:** "Alguien de antes." Chiara no contesta; se guarda el apodo y el tornillo ya apretado.

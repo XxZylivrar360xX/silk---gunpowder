@@ -48,9 +48,9 @@ Michael importa menos por lo que hizo en escena que por el momento en que muere:
 
 ---
 
-**Tumba (2026-10-08, orden del autor):** Kal evita la tumba de Michael en el Santa Lucia hasta despues de llorarlo (Cap. 25:358: pasaba de largo la tercera hilera cada vez que iba a ver a su madre). Vuelve en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/31_Vamos_A_Casa|Cap. 31]], camino al lago, con Chiara. Ver [[05_Locations/Cementerio_Santa_Lucia]].
+**Tumba (2026-10-08, orden del autor):** Kal evita la tumba de Michael en el Santa Lucia hasta despues de llorarlo (Cap. 25:358: pasaba de largo la tercera hilera cada vez que iba a ver a su madre). Vuelve en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/31_Vamos_A_Casa|Cap. 35 (archivo 31)]], camino al lago, con Chiara. Ver [[05_Locations/Cementerio_Santa_Lucia]].
 
-**Cap. 25 (2026-09-28, CANON DEL AUTOR):** Kal le cuenta a Chiara que Michael ya se estaba muriendo cuando volvió, que Marisol se quedó a los quince y a nadie más, y que él aprendió a sostenerle la vida sin que lo viera caer: **nunca lloró a Michael (ni a Jim) hasta esa noche.** Duelo en piloto automático: **fundamental para el Libro II.** Detalles de textura (lo llevaba a sus citas; abrió la puerta "pesando la mitad") = DISEÑO.
+**Cap. 29 (archivo 25) (2026-09-28, CANON DEL AUTOR):** Kal le cuenta a Chiara que Michael ya se estaba muriendo cuando volvió, que Marisol se quedó a los quince y a nadie más, y que él aprendió a sostenerle la vida sin que lo viera caer: **nunca lloró a Michael (ni a Jim) hasta esa noche.** Duelo en piloto automático: **fundamental para el Libro II.** Detalles de textura (lo llevaba a sus citas; abrió la puerta "pesando la mitad") = DISEÑO.
 
 ---
 
@@ -60,7 +60,7 @@ Michael importa menos por lo que hizo en escena que por el momento en que muere:
 
 Por ahora, su método narrativo es póstumo: deja una obligación que Kal acepta sin convertirla en negocio.
 
-### Sembrado por conducta (borrador Cap. 14 — *La regla del teléfono*)
+### Sembrado por conducta (borrador Cap. 15 (archivo 14) — *La regla del teléfono*)
 
 En [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono]], Michael aparece **sólo por lo que dejó**, nunca en recuerdo dramatizado ni en elegía:
 

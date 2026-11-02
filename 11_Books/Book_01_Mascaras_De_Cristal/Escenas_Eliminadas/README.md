@@ -6,7 +6,7 @@ Origen: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Carretera_Libro_I]] (DECISI�
 
 | Archivo | Era | Salió | Lo que cargaba | Destino de esa carga |
 |---|---|---|---|---|
-| [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/11_El_Farol\|11 — El farol]] | Cap. 14 | 2026-10-31 | Licencia de la destilería a nombre de Chiara; reencuentro Walt–Mabel; torneo secreto; Tommaso y la lista | **Arco de Walt: candidato a *Sombras de Poder*** (autor, 2026-10-31). PENDIENTE |
+| [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/11_El_Farol\|11 — El farol]] | Cap. 14 | 2026-10-31 | Licencia de la destilería a nombre de Chiara; reencuentro Walt–Mabel; torneo secreto; Tommaso y la lista | **Arco de Walt: pasa a *Sombras de Poder*** (DECISIÓN DEL AUTOR 2026-11-01; candidato desde el 2026-10-31). Ubicación en el II PENDIENTE |
 | [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/12b_Por_Su_Cuenta\|12b — Por su cuenta]] | Cap. 16 | 2026-10-31 | Fin anticipado de la condicional; el pub en subasta; Kal y su gente | Igual que el 11 |
 | [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/00_Plan_Arco_Walt_Condicional\|00 — Plan del arco de Walt]] | Plan de los Caps. 14 y 16 | 2026-10-31 | CANON del arco (rondas 1 y 2) | Se reevalúa al diseñar *Sombras de Poder* |
 | [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/19_Tierra_Buena\|19 — Lo que nadie estaba mirando]] | Cap. 23 | 2026-10-31 | Las doce hectáreas (Il Gelsomino); siembra de Hoover | La tierra y Harper en la parcela: una línea en el Cap. 24 (archivo 20), HECHO 2026-10-31. Garrett no depende de este capítulo |

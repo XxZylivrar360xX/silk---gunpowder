@@ -20,7 +20,7 @@ No interrumpe. No la apura. Puede bromear con ella; nunca la usa, nunca la despr
 
 Para un hombre como Kal, eso ya es una forma de amor.
 
-> **CANON DEL AUTOR (2026-09-26).** Sustituye "No se burla… No convierte su fe en chiste": Kal sí bromea con la fe de Chiara, pero la respeta porque es parte de quien ella es y eligió ser. Contrapunto de [[02_Characters/Alessio_Lusardi]], que la usó contra ella ("Questo è un mandato divino. Dio lo sa. E anch'io.", Cap. 9). Primera escena en prosa: la parrilla del lago, Cap. 31 ("Pídele que te cuente bien los peces." / "A Dios no se le piden esas cosas."; Kal deja el tenedor quieto hasta que ella termina).
+> **CANON DEL AUTOR (2026-09-26).** Sustituye "No se burla… No convierte su fe en chiste": Kal sí bromea con la fe de Chiara, pero la respeta porque es parte de quien ella es y eligió ser. Contrapunto de [[02_Characters/Alessio_Lusardi]], que la usó contra ella ("Questo è un mandato divino. Dio lo sa. E anch'io.", Cap. 27 (archivo 24c)). Primera escena en prosa: la parrilla del lago, Cap. 35 (archivo 31) ("Pídele que te cuente bien los peces." / "A Dios no se le piden esas cosas."; Kal deja el tenedor quieto hasta que ella termina).
 
 ---
 

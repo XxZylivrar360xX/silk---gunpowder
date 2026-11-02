@@ -1,6 +1,6 @@
 # Ficha de Voz - Natalie Keegan
 
-> Creada 2026-10-04 desde [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I_Tanda_2]]. Vara: el Cap. 3 entero; "Depende / De los ojos que los miren" y "No vuelvas a prisión" son CANON DEL AUTOR. Lo demás es DISEÑO anclado en esa prosa. En el Libro I sólo habla en el 3; la ficha existe para no perder su voz en *Sombras de Poder* (incendio del loft). Ficha de personaje: [[02_Characters/Natalie_Keegan]].
+> Creada 2026-10-04 desde [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I_Tanda_2]]. Vara: el Cap. 3 (archivo 03) entero; "Depende / De los ojos que los miren" y "No vuelvas a prisión" son CANON DEL AUTOR. Lo demás es DISEÑO anclado en esa prosa. En el Libro I sólo habla en el 3; la ficha existe para no perder su voz en *Sombras de Poder* (incendio del loft). Ficha de personaje: [[02_Characters/Natalie_Keegan]].
 > **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
 
 ## Cadencia y sintaxis

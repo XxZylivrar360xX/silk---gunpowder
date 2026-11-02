@@ -13,5 +13,5 @@ No son capítulos ni borradores de prosa. Son la referencia de intención para q
 ## Escenas
 
 - [[07_Ideas/Escenas_Guia/El_Regreso_De_Elenna]]
-- [[07_Ideas/Escenas_Guia/El_Parador_Del_Norte]] — diálogo de calibración del autor para el parador del Cap. 24c (H12).
+- [[07_Ideas/Escenas_Guia/El_Parador_Del_Norte]] — diálogo de calibración del autor para el parador del Cap. 27 (archivo 24c) (H12).
 - [[07_Ideas/Incubacion_Escenas/Libro_04_Cuentas_De_Sangre/Tornare_A_Casa_Material_Narrativo]] — borrador no canónico solicitado para *Cuentas de Sangre*.

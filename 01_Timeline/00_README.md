@@ -31,6 +31,7 @@ Este directorio contiene la **linea temporal macro** de los siete libros. Cada e
 7. [[07_Libro_06_Hijos_Del_Silencio]] — caza, captura y arresto de Ethan / Dylan Marsh.
 8. [[08_Libro_07_Camino_A_Casa]] — hospital, reconstrucción de la noche Marsh y cierre del caso Vera.
 9. [[08_Matriz_Renombramiento_Capitulos_Libro_I]] — estudio de títulos visibles, archivos desfasados y candidatos a revisión.
+10. [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]] — archivo ↔ capítulo por época, incluidas retiradas y fusiones; numeración vigente del 2026-11-01.
 
 ## Fuentes
 

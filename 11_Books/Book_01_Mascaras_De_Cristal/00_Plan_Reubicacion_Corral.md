@@ -18,7 +18,7 @@ El ataque del Corral (Cap. 9, H12) queda a meses de la Parte II, pero la Parte I
 1. **El Corral se mueve justo antes de la noche del jacuzzi** (entre 24b y 25). La transición a la Parte II no cambia; el accidente reciente le da sentido fresco a la conversación del 28 y vuelve viva la tensión con Dario.
 2. **Gravedad médica:** conmoción con hematoma **en observación**, sin craneotomía (como en la historia original). Beatrice Varek conserva su aparición como quien evalúa y decide no operar (DISEÑO).
 3. **La vigilancia de Dario se mueve con el Corral** (tregua, "un par de hombres, discretos", el hombre que sigue a Kal, el sedán gris, el túnel este).
-4. **Nuevo Cap. 9 — lo que pone en riesgo a Chiara es el mundo de Kal:** el Tasador asalta a la fiscal Katherine Rowe y Chiara está con ella. Así, que Kal le pida quedarse cerca es **deuda de él con ella**, no al revés.
+4. **Nuevo Cap. 11 (archivo 09) — lo que pone en riesgo a Chiara es el mundo de Kal:** el Tasador asalta a la fiscal Katherine Rowe y Chiara está con ella. Así, que Kal le pida quedarse cerca es **deuda de él con ella**, no al revés.
    - Es **un asalto**, no un atentado: una cachetada, forcejeo con Chiara, que queda con **una muñeca lesionada**, leve pero suficiente para preocupar a Kal.
    - Le dejan un mensaje a la fiscal: **"Las joyas pesan más en la balanza."** Rowe no lo entiende; Chiara tampoco; **Kal sí**.
 5. Los arrastres (Cap. 10, Cap. 17, Rowe en el 44) se ajustan o se revisan.
@@ -27,14 +27,14 @@ El ataque del Corral (Cap. 9, H12) queda a meses de la Parte II, pero la Parte I
 
 - **Mecha, desde el Cap. 8:** Rowe invitó a Kal a "un café en un lugar más privado" y él contestó "Era fiscal". El café lo acepta Chiara, que cultiva a Rowe desde el 5 ("al enemigo hay que tenerlo cerca"); un poco por contacto, otro poco por "la del brazo". Plática casual.
 - **Motivo del Tasador (aprobado por el autor 2026-10-04; mecanismo exacto DISEÑO):** los "papeles de las grúas" que Rowe le firmó a Kal en el 8 tocan un negocio de Crowe (p. ej., arrastre o resguardo de vehículos decomisados, por donde le pasan autos robados). Para Crowe, el muchacho que le movió hierba en el 3 entra a la fiscalía y sale con firmas e invitaciones. El mensaje es para Rowe; la mujer que está con ella es "la amiga de Mercer".
-- **El mensaje:** el Tasador tasa joyas en sus casas de empeño ("tres casas de empeño y ni un anillo propio", Walt, Cap. 3). "La balanza" es la de la fiscal. Kal oye la frase de Crowe ("Todo vale algo… quién pone el precio") y sabe de quién viene, sin poder probarlo ni **cobrárselo todavía** (Crowe cae en el Libro II). Ese "no poder" es parte de la deuda.
+- **El mensaje:** el Tasador tasa joyas en sus casas de empeño ("tres casas de empeño y ni un anillo propio", Walt, Cap. 3 (archivo 03)). "La balanza" es la de la fiscal. Kal oye la frase de Crowe ("Todo vale algo… quién pone el precio") y sabe de quién viene, sin poder probarlo ni **cobrárselo todavía** (Crowe cae en el Libro II). Ese "no poder" es parte de la deuda.
 - **Sin escalada federal:** asalto negable, sin arma de fuego ni muerto. Crowe no queda ligado en público.
 - **Aprobado por el autor (2026-10-04):** Kal la saca antes de que llegue la policía y Rowe deja a Chiara fuera del parte. Rowe le queda debiendo a Chiara (posible uno de los "tres favores" del 13; define su pendiente de facción como oportunista que sobrevive).
 - **Por qué el barrio y no el Monarch (DISEÑO):** en el Monarch, Dario preguntaría qué hacía ella en un café privado con la fiscal; en la Almendra, Crowe no la toca sin abrir guerra con Kal. Se queda unos días en la casa común. **No es mudanza** (H16).
 - **Del Corral actual se conserva para el nuevo 9:** el cierre en la casa común (el cuarto que "no gritaba de quién era", la palabra de Kal, el abrazo) y "Lo necesario. Hasta que ya no lo sea", ajustados a la deuda: aquí el que pide es Kal.
 - **Espejo de la aceptación (autor 2026-10-04: "más dramático dicho por ella"; reparto CONFIRMADO por el autor 2026-10-04):** en el 9 lo dice ella. Para ella es aceptar que puede contar con él; Kal lee que está dispuesta a ponerse en peligro por él. Malentendido real, como en el 28; la lectura de Kal se ve en lo que hace (le pide que se quede cerca), no se narra. Línea propuesta (DISEÑO): "Entonces que me vean contigo." En el 24c, el temblor corporal canon de H12 sigue igual (su mundo puede alcanzarlo a él), sin frase. Primero ella lo dice y él lo malinterpreta; después ella lo siente y no lo dice.
 
-## Corral reubicado como Cap. 24c (entre 24b y 25) — DISEÑO
+## Corral reubicado como Cap. 27 (archivo 24c) (entre 24b y 25) — DISEÑO
 
 - **Apertura:** residuo del 24b, no de la carrera de máscaras. El calendario (aniversario de Marta, homenaje de Alessio) se queda, y gana: el homenaje lo organiza Tommaso días después de mentir bajo juramento por Kal (24).
 - **Cuerpo:** casi íntegro. Llamada, Vento, hospital, "Te vas a mejorar…", guardia, el guardia de caballerizas, armas con Dario, tregua, "La tregua es por lo que le pasó, señor Mercer. No por ella.", alta, la coartada de las dos grietas, vigilancia, sedán gris, túnel este, parador.
@@ -69,7 +69,7 @@ El ataque del Corral (Cap. 9, H12) queda a meses de la Parte II, pero la Parte I
 
 ## Numeración — CANON DEL AUTOR (2026-10-04)
 
-Sin renumerar. El Corral pasa a ser el **Cap. 24c** (el archivo `09_El_Corral` se renombra a `24c_El_Corral` y se actualizan sus enlaces). El nuevo Cap. 9 toma el número 09 con título propio. Razón del autor: ni el EPUB ni el manuscrito muestran los números.
+Sin renumerar. El Corral pasa a ser el **Cap. 27 (archivo 24c)** (el archivo `09_El_Corral` se renombra a `24c_El_Corral` y se actualizan sus enlaces). El nuevo Cap. 9 toma el número 09 con título propio. Razón del autor: ni el EPUB ni el manuscrito muestran los números.
 
 ## Orden de trabajo propuesto
 

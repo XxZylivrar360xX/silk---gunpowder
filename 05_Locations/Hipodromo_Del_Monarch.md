@@ -16,13 +16,13 @@ Es el escenario del ataque de [[06_Relationships/Hitos]], H12 — "El corral". K
 
 > **CANON — Vento (2026-08-29):** vivo durante toda la Parte I (aparece en el Capítulo 8 / H12). Ya en la Parte II, **~2 semanas antes del [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial|cumpleaños de Chiara]], una fractura por la edad obliga a sacrificarlo.** Chiara pasa esas semanas de duelo. En el cumpleaños, Kal le regala **una yegua blanca** traída de otro estado (odisea cómica con Héctor) — animal nuevo, no reemplazo. **PENDIENTE:** nombre de la yegua.
 >
-> **CANON DEL AUTOR (2026-10-22):** Vento fue caballo de carreras del Monarch; ya viejo, la administración iba a venderlo y Chiara lo compró con su dinero en sus primeras semanas en San Aurelio. La siembra va en el Cap. 33; Kal llega antes de que ella decida con la veterinaria; la muerte **no va pegada al cumpleaños** (supera el "~2 semanas" de arriba; fecha DISEÑO ~mediados de oct A2, en un Cap. 33b). No hay plan de viñedo: Bellandi Ridge no entra en el Libro I. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]].
+> **CANON DEL AUTOR (2026-10-22):** Vento fue caballo de carreras del Monarch; ya viejo, la administración iba a venderlo y Chiara lo compró con su dinero en sus primeras semanas en San Aurelio. La siembra va en el Cap. 37 (archivo 33); Kal llega antes de que ella decida con la veterinaria; la muerte **no va pegada al cumpleaños** (supera el "~2 semanas" de arriba; fecha DISEÑO ~mediados de oct A2, en un Cap. 38 (archivo 33b)). No hay plan de viñedo: Bellandi Ridge no entra en el Libro I. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]].
 
 ---
 
 ## Pendientes
 
-> **Microespacio del corral (DISEÑO en el Cap. 24c, 2026-10-06, pendiente de lectura):** detrás del Monarch el asfalto termina en tierra apisonada de servicio. Las caballerizas son un bloque largo de madera y lámina con un foco de servicio sobre la puerta, y el corral, de cerca de tablones con portón y pasador de fierro, está pegado a un par de pasos. La pista se pierde detrás.
+> **Microespacio del corral (DISEÑO en el Cap. 27 (archivo 24c), 2026-10-06, pendiente de lectura):** detrás del Monarch el asfalto termina en tierra apisonada de servicio. Las caballerizas son un bloque largo de madera y lámina con un foco de servicio sobre la puerta, y el corral, de cerca de tablones con portón y pasador de fierro, está pegado a un par de pasos. La pista se pierde detrás.
 
 > **PENDIENTE:** cómo se ve exactamente — tamaño, cuántos empleados, si tiene nombre propio más allá de "el hipódromo".
 

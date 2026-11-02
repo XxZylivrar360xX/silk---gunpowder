@@ -7,7 +7,7 @@
 
 Correcto, medido, sin frases que puedan citarse en su contra. No amenaza si puede asignar valor, permiso o consecuencia. **Repite la palabra del otro** y la deja respirar hasta que se vuelve evidencia ("El corral." / "Forraje."). Habla poco; cada frase llega ya decidida.
 
-**Una sentencia por escena, como máximo.** Su riesgo es volverse máquina de aforismos sobre San Aurelio ("premia", "cobra cosas peores", "la necesita entera"). La frase de "su lugar" es la del Cap. 2 y su rima del 26; no se repite en medio.
+**Una sentencia por escena, como máximo.** Su riesgo es volverse máquina de aforismos sobre San Aurelio ("premia", "cobra cosas peores", "la necesita entera"). La frase de "su lugar" es la del Cap. 2 (archivo 02) y su rima del 26; no se repite en medio.
 
 ## Vocabulario
 

@@ -2,7 +2,7 @@
 
 *Ficha de Lugar*
 
-**Qué es:** el lago de pesca de El Patio, escenario de H7 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/31_Vamos_A_Casa|Cap. 31]]).
+**Qué es:** el lago de pesca de El Patio, escenario de H7 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/31_Vamos_A_Casa|Cap. 35 (archivo 31)]]).
 **Dónde:** [[05_Locations/San_Aurelio]], cerros del noreste, **más allá de Las Gemelas** (CANON DEL AUTOR, 2026-10-08). La carretera que lleva al desvío de tierra de las cascadas sigue cerro arriba; el lago queda al final, tras un último tramo de terreno irregular.
 **De quién es:** de nadie. Es de los muchachos por costumbre: Héctor dice que lleva cuarenta años pescando ahí.
 
@@ -24,7 +24,7 @@ El núcleo de El Patio (Nadir, Danny, Héctor, Walt) y quien ellos inviten; en H
 ## Qué pasa aquí
 
 - **H7:** la pesca sin ganador, el juego en el agua, el beso en la roca y "Vamos a casa".
-- Ahí sale a la luz el cumpleaños de Kal (1 de enero), que él no le había contado a Chiara (siembra en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero|Cap. 10]]).
+- Ahí sale a la luz el cumpleaños de Kal (1 de enero), que él no le había contado a Chiara (siembra en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero|Cap. 12 (archivo 10)]]).
 - La foto de Héctor en la orilla, que paga en los Caps. 33 y 50.
 
 ## Preguntas abiertas

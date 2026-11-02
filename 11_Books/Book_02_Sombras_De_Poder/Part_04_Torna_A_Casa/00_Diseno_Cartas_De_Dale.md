@@ -7,10 +7,10 @@
 
 - **El detonante son cartas de Dale a Kal, escritas desde la cárcel.** Muestran emociones que Kal nunca le vio a su padre. Es un arco de redención desde la prisión: no absuelve a Dale, pero le da a Kal un cierre y un motivo.
 - **Kal las lee solo.** Después busca a Chiara para desahogarse de lo complicado que es ver esa parte de su padre.
-- **Kal devuelve las cartas a la tumba de Dale** ([[05_Locations/Cementerio_Santa_Lucia]]) una vez leídas, **antes de Stavanger**: cierra al padre que le tocó y después va a buscar a la madre que lo perdió. Hasta aquí, Kal evitaba tocar esa tumba (Libro I, Caps. 1, 3 y 20).
+- **Kal devuelve las cartas a la tumba de Dale** ([[05_Locations/Cementerio_Santa_Lucia]]) una vez leídas, **antes de Stavanger**: cierra al padre que le tocó y después va a buscar a la madre que lo perdió. Hasta aquí, Kal evitaba tocar esa tumba (Libro I, Caps. 1, 3 y 20 (archivos 01, 03 y 20)).
 - **Quien entrega las cartas es Manfred Gabe** ([[02_Characters/Corrado_Ardizzone]]). Es la **primera aparición del nombre** en prosa. Manfred visitaba a Dale en la cárcel por su amistad con Walt; no eran amigos, pero simpatizaban por las tragedias que moldearon sus destinos. Es una huella civil que inclina un resultado; no revela a Corrado.
 - **Kal lo lee como un amigo más de su padre que nunca conoció.** **Kal no le ve la cara** (se respeta el canon de las huellas: [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]).
-- **Cómo llegan a Manfred:** cuando Dale muere, **Walt recoge sus cosas** en la cárcel y se las da a Manfred. **Walt no abrió las cartas, porque no eran suyas para leer.** Al salir (Libro I, Cap. 3) no se las da él a Kal: **confía en que Manfred sabrá cuándo.**
+- **Cómo llegan a Manfred:** cuando Dale muere, **Walt recoge sus cosas** en la cárcel y se las da a Manfred. **Walt no abrió las cartas, porque no eran suyas para leer.** Al salir (Libro I, Cap. 3 (archivo 03)) no se las da él a Kal: **confía en que Manfred sabrá cuándo.**
 - **La entrega:** llegan **al taller, en un sobre de paquetería sin remitente**.
 - **Son siete cartas**, con fechas aleatorias que tenían significado para Dale.
 - **Lo último que Corrado le dijo a Dale**, antes de que Dale se colgara en su celda (línea canon, no reescribir):

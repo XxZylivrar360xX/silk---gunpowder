@@ -2,7 +2,7 @@
 
 *Ficha de Lugar*
 
-**Qué es:** hotel de 1924 enfrente del Monarch, gemelo del hotel viejo sobre el que se construyó el casino. Escenario de Il Consigliere ([[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/49_Enfrente|Cap. 49]]).
+**Qué es:** hotel de 1924 enfrente del Monarch, gemelo del hotel viejo sobre el que se construyó el casino. Escenario de Il Consigliere ([[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/49_Enfrente|Cap. 54 (archivo 49)]]).
 **Dónde:** [[05_Locations/San_Aurelio]] — La Isla, punta oeste, sobre el Paseo Pacífica, cruzando la calle desde la marquesina del [[03_Factions/El_Casino|Monarch]].
 **De quién es:** **PENDIENTE.** El texto sólo dice que alguien lo está restaurando; Valenti habla de la restauración con conocimiento.
 
@@ -24,8 +24,8 @@ Huéspedes de paso, dinero viejo de fuera y gente que no quiere hospedarse en el
 ## Qué pasa aquí
 
 - **Cap. 47:** es "el hotel de enfrente" desde el despacho de Chiara el 1 de enero (camión de reparto, confeti mojado).
-- **Cap. 49:** Valenti, il consigliere, se niega a ayudar con Kal y le ofrece a Chiara el Monarch. Al día siguiente deja el hotel temprano: "no hay prisa". La camarera abre las cortinas de la suite vacía.
-- **Cap. 50:** el apagón alcanza el letrero dorado del Pacífica, y la ventana del piso once sigue a oscuras con las cortinas abiertas. En el monólogo, Chiara señala el rectángulo negro donde está el Pacífica.
+- **Cap. 54 (archivo 49):** Valenti, il consigliere, se niega a ayudar con Kal y le ofrece a Chiara el Monarch. Al día siguiente deja el hotel temprano: "no hay prisa". La camarera abre las cortinas de la suite vacía.
+- **Cap. 55 (archivo 50):** el apagón alcanza el letrero dorado del Pacífica, y la ventana del piso once sigue a oscuras con las cortinas abiertas. En el monólogo, Chiara señala el rectángulo negro donde está el Pacífica.
 - Función: es el Monarch visto desde fuera, "su propio edificio del revés". Ahí Chiara mira su casa como la mira la Mesa.
 
 ## Preguntas abiertas
