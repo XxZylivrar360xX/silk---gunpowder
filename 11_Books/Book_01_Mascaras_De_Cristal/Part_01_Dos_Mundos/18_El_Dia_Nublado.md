@@ -21,6 +21,8 @@ Siembra 2026-10-04 (DISEÑO aprobado por el autor; arrastre de la reubicacion de
 SURGERY frente 2 (2026-10-05, autorizada por el autor; sigue TERMINADO): L18-1 fuera la reprise en cursiva de la frase de Hector (la metadata de arriba ya pedia que no se repitiera); L18-2 "No leyo la situacion. No se volvio lo que pedia." fuera; L18-3 a L18-5, la conversacion del miedo sin el pegamento del agente: fuera "¿Y quieres vivir asi?", el resumen del arco de Chiara y "dime que quieres" (Kal sólo dice lo de la falda y Chiara contesta "Con miedo."), fuera "¿Y asi estas bien?" ("Lo llevo de copiloto" queda sin evaluacion) y el aforismo del miedo (quedan los hombres sin miedo y "Si tienes miedo, es que algo te importa"). Beats del autor intactos. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Lucidez_Personajes_Frente_2.md.
 Regla de dialogo 05 (esticomitia) 2026-10-26, a pedido del autor: siete cortes de eco/remate; la prosa nueva es DISENO, espera lectura (98_Agent_Handoff/sessions/2026-10-26_claude_regla05_dia_nublado_cap21.md).
 SURGERY 2026-10-28 (reporte ChatGPT, lectura del Cap. 21; sigue TERMINADO, la prosa nueva es DISEÑO y espera lectura): O-01 grieta en el relato de Chiara ("Hasta que una noche yo…", retoma por otro lado) e inferencia de Kal ajustada a esa grieta; fuera "No dijo *yo lo maté*"; O-02 fuera "Nunca se había quedado en ningún sitio…"; O-04 el letrero del Monarch ya encendido contra el gris; O-03 protegido. Ver 98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap21_el_dia_nublado.md.
+Cierre y boutique 2026-11-01 (pedido del autor): línea de Kal a Chiara dormida, "Yo también tengo miedo, Chiara. Por primera vez en años me pregunto si hay un futuro que sea mío." (CANON DEL AUTOR, versión recortada aprobada); él recarga la cabeza y se duerme con la lluvia; "Nadie llamó a eso una cita." sigue cerrando. En la boutique, atribuciones aclaradas (quién dice qué con la falda) y el dependiente se aparta al exhibidor de guantes antes del coqueteo. Aprobado por el autor 2026-11-02.
+ESTADO VIGENTE (2026-11-02): TERMINADO, aprobado por el autor sobre el texto actual completo. La aprobación cubre toda la prosa marcada arriba como "DISEÑO pendiente de lectura" / "espera lectura".
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N18-1 a N18-5 (N18-6 conservado). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
@@ -160,11 +162,11 @@ Kal, por su parte, ya traía la de ella: una falda de golf que había sacado de 
 
 —Gente que no se agacha —dijo Chiara, sin voltear.
 
-Sostuvo la falda a contraluz.
+Chiara sostuvo la falda a contraluz.
 
 —Es demasiado corta.
 
-—Es reglamentaria —dijo la cortina.
+—Es reglamentaria —dijo la cortina, con la voz de Kal.
 
 Chiara se volvió hacia el dependiente, con la falda en alto.
 
@@ -174,11 +176,13 @@ El dependiente miró la falda. Miró la cortina, de donde acababa de salir un ru
 
 —Técnicamente.
 
+Y se fue a acomodar un exhibidor de guantes al otro lado de la tienda, de espaldas, con muchísima atención.
+
 Chiara se la puso contra el cuerpo frente al espejo.
 
-—Vas a pasar todo el partido mirándome las piernas en vez del campo.
+—Vas a pasar todo el partido mirándome las piernas en vez del campo —le dijo a la cortina.
 
-—No dije que fuera un problema.
+—No dije que fuera un problema —contestó Kal desde adentro.
 
 —Kal.
 
@@ -460,6 +464,12 @@ No era mucho. Contado en centímetros, era casi nada. Pero era la primera vez qu
 
 Kal le tomó la mano. Sin pena, sin preguntar, como si fuera una cosa que ya se hacía.
 
-Se quedaron así. En algún momento ella se durmió contra su hombro, y un rato después él también, sentados, sin que pasara nada más.
+Se quedaron así. En algún momento ella se durmió contra su hombro.
+
+Kal esperó a que no pudiera oírlo para hablar, muy bajo.
+
+—Yo también tengo miedo, Chiara. Por primera vez en años me pregunto si hay un futuro que sea mío.
+
+Recargó la cabeza contra la de ella y se quedó con eso, despierto, un rato largo. Después se durmió también, y no quedó más que la lluvia contra el ventanal.
 
 Nadie llamó a eso una cita.

@@ -2,11 +2,13 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-01 23:00. Al día: 56 de 56.
+Actualizada: 2026-11-01 23:58. Al día: 55 de 56.
 
 ## Pendientes
 
-Ninguno: todos los audios corresponden a la prosa actual.
+| Cap. | Título | Estado | Motivo | Desde |
+|---|---|---|---|---|
+| 19 | El día nublado | PENDIENTE | cambió la prosa | 2026-11-01 23:58 |
 
 ## Capítulos
 
@@ -30,7 +32,7 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | 16 | Yo lo llevo | AL DIA | 2026-11-01 |
 | 17 | El sobre rojo | AL DIA | 2026-11-01 |
 | 18 | Le quedé debiendo | AL DIA | 2026-11-01 |
-| 19 | El día nublado | AL DIA | 2026-11-01 |
+| 19 | El día nublado | PENDIENTE | 2026-11-01 |
 | 20 | Lo pequeño | AL DIA | 2026-11-01 |
 | 21 | El primer huésped | AL DIA | 2026-11-01 |
 | 22 | Grazie | AL DIA | 2026-11-01 |
@@ -71,6 +73,7 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Historial
 
+- 2026-11-01 23:58 · Cap. 19 (18_El_Dia_Nublado.md) · audio pendiente: cambió la prosa
 - 2026-11-01 23:00 · Cap. 22 (21b_Grazie.md) · audio regenerado
 - 2026-11-01 22:58 · Cap. 22 (21b_Grazie.md) · audio pendiente: cambió la prosa
 - 2026-11-01 22:56 · Cap. 56 (50b_La_Tierra_Bajo_Sus_Botas.md) · audio generado

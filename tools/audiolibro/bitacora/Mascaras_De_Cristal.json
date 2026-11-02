@@ -147,10 +147,10 @@
     "18_El_Dia_Nublado.md": {
       "capitulo": 19,
       "titulo": "El día nublado",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:20"
+      "desde": "2026-11-01 23:58"
     },
     "20_El_Mirador.md": {
       "capitulo": 20,
@@ -3119,6 +3119,11 @@
       "2026-11-01 23:00",
       "Cap. 22 (21b_Grazie.md)",
       "audio regenerado"
+    ],
+    [
+      "2026-11-01 23:58",
+      "Cap. 19 (18_El_Dia_Nublado.md)",
+      "audio pendiente: cambió la prosa"
     ]
   ]
 }
