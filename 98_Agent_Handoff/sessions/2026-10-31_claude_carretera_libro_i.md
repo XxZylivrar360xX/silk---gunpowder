@@ -28,8 +28,8 @@
    - Destilería: sin costura (siembra en el 24, el Monarch es cliente en el 27). Sin otras menciones de la condicional terminada ni del pub en los capítulos vigentes.
    - Nota de suspensión en [[02_Characters/Natalie_Keegan]]: hecha; cameo del 37 cortado el 2026-11-01.
 3. **Fusiones — HECHAS 2026-11-01 (prosa DISEÑO, espera lectura):** 05b como coda del 05a, con V-1 (§Fusión del 05b); 23 + 24 en *Bajo juramento* (§Arco legal de Hoover). Fase B de Codex hecha en las dos (23 a `Escenas_Eliminadas/`, 05b retirado con `git rm`).
-4. **Renumerar una sola vez, cuando la carretera quede armada** (autor; 60 → ~55): Book_Map, CHAPTER_STATUS, timeline, matrices, guía de lectura del 34–60, `build_audiobook.py --estado`, INDEX.
-5. **Paso 3:** líneas de saldo en los puentes 3–30.
+4. **Renumerar una sola vez, cuando la carretera quede armada** (autor; 60 → **56** con H13): Book_Map, CHAPTER_STATUS, timeline, matrices, guía de lectura del 34–60, `build_audiobook.py --estado`, INDEX.
+5. **Paso 3 — HECHO 2026-11-01 (auditoría, sin prosa nueva):** los puentes 3–30 ya cierran con saldo. Carretera aprobada por el autor; [[98_Agent_Handoff/sessions/2026-11-01_claude_paso3_saldos_carretera]].
 
 ## Rediseño de la Parte I (2026-10-31)
 

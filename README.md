@@ -12,7 +12,7 @@ Vault de Obsidian para la saga original de crimen y romance *Seda y Pólvora*. E
 - [`11_Books/README.md`](11_Books/README.md): consulta y montaje editorial de manuscritos.
 - [`00_Biblia/00_Trilogy_Structure.md`](00_Biblia/00_Trilogy_Structure.md): autoridad para alcance y fronteras entre libros.
 
-El manuscrito del Libro I llega al capítulo 50b y el Libro II ya contiene borradores. Los estados editoriales pertenecen a la metadata de cada capítulo y a [`12_Craft_Policies/CHAPTER_STATUS.md`](12_Craft_Policies/CHAPTER_STATUS.md); ningún libro está SELLADO. Para la lectura operativa de cada libro, consulta su `00_Book_Map.md` en `11_Books/`.
+El manuscrito del Libro I llega al Cap. 56 (archivo 50b) y el Libro II ya contiene borradores. Los estados editoriales pertenecen a la metadata de cada capítulo y a [`12_Craft_Policies/CHAPTER_STATUS.md`](12_Craft_Policies/CHAPTER_STATUS.md); ningún libro está SELLADO. Para la lectura operativa de cada libro, consulta su `00_Book_Map.md` en `11_Books/`.
 
 ## Dominios
 

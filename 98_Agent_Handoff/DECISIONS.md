@@ -2,6 +2,14 @@
 
 Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]. Archivar entradas antiguas antes de retirarlas.
 
+## 2026-11-01 — Renumeración a 56
+
+**DECISIÓN DEL AUTOR, ejecutada por Codex y verificada por Claude:** el Libro I pasa a 56 capítulos (numeración del 2026-11-01). Partes: I = 1–22 (cierra *Grazie*), II = 23–39, III = 40–56; arco sin Kal 49–56; «—Ciao, bella.» cierra el 55. Las entradas de abajo usan la numeración de 60. [[98_Agent_Handoff/sessions/2026-11-01_codex_para_claude_renumeracion_56]].
+
+## 2026-11-01 — Carretera aprobada; Walt al Libro II
+
+**DECISIÓN DEL AUTOR:** la carretera del Libro I queda aprobada. Sin tope de palabras hasta terminar el libro editorialmente. El arco de Walt (licencia, torneo, condicional, pub) pasa a *Sombras de Poder*, porque ahí le da otro peso a su clímax con el Tasador; ubicación en el II PENDIENTE. Primer punto de giro: *La balanza* (12); *Auster* (17), primera respuesta. Paso 3 hecho como auditoría: ningún puente necesita prosa nueva. [[98_Agent_Handoff/sessions/2026-11-01_claude_paso3_saldos_carretera]].
+
 ## 2026-11-01 — Hilo C: el Tasador, villano del Libro I
 
 **DECISIÓN DEL AUTOR:** Crowe es el villano del I; Varek, poder neutral que no coopera gratis (la enemistad nace en el II). Crowe aparece en persona en el Cap. 12 (cancha de la casa común, desde Chiara; ruin, no insidioso) y, con Kal preso, mete mano en el sur y los muchachos aceptan su dinero. Dario sigue como artífice oculto. Walt llega en moto y ve a Crowe sin ser visto; línea A + D. El dinero de Crowe paga deudas del barrio, no a Dario. **CANON:** con Chiara, Kal siempre reconoce el error; la lluvia en Bellandi Ridge vuelve en el II como discusión (ella, la ofendida) y lleva a Villa Candelaria. Cap. 21: sospecha sin certeza. Cap. 24: saldo de la cuota. **CANON:** en el II, Kal acepta el cargamento de Crowe. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]].
@@ -21,7 +29,3 @@ Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces 
 ## 2026-10-31 — Carretera del Libro I: candidatos a Escenas eliminadas
 
 **DECISIÓN DEL AUTOR:** salen a *Escenas eliminadas* los Caps. 14 *El farol*, 16 *Por su cuenta* y 23 *Lo que nadie estaba mirando*; se fusionan el 6 *Sin llamar a nadie* (con el 5 o el 7) y el 28–29 (Hoover, en uno). El arco de Walt (licencia, torneo, condicional, pub) queda suspendido en el Libro I y es candidato a *Sombras de Poder*. Renumeración sólo cuando la carretera quede armada. Archivos movidos a `Escenas_Eliminadas/`. Fuente: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Carretera_Libro_I]].
-
-## 2026-10-14 — Cartas de Dale, guía de redacción y Navidad
-
-**CANON DEL AUTOR:** las cartas de Dale desde la cárcel, entregadas por Manfred Gabe (primera aparición del nombre, sin cara), detonan Stavanger; Kal las devuelve a la tumba antes del viaje; Crowe sale del detonante. Retcon del Cap. 10: Dale muere preso ~9 años antes del Libro I. En la guía de redacción: sin golpe en la Parte I, graduación en otoño, la filtración Halbrook→Dario→Volpi y la línea Tommaso→Mei-Lin fuera de página; F3: Kal golpeado dice «Te amo» y Chiara no lo oye. Navidad: cena en el taller, el mismo detalle para todos y el collar a solas afuera (resto DISEÑO). [[98_Agent_Handoff/sessions/2026-10-14_claude_cartas_de_dale]] · [[98_Agent_Handoff/sessions/2026-10-14_claude_guia_redaccion_sombras]] · [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Almendra_Towing]].
