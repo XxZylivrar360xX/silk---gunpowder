@@ -1,4 +1,8 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 47.
+COSTURA H13 (2026-11-01, Claude Code, encargo del autor «tocar todo lo que depende» del 21b; DISEÑO, espera lectura; sigue BORRADOR): H13 se escribió como capítulo propio al cierre de la Parte I ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21b_Grazie]], julio A2). Sale el recuerdo dramatizado (misa de las ocho, dos hombres, casa con muebles tapados). Queda el momento del yate: «En julio. Al salir de Santa Lucía» / «¿Julio?» / «Antes del corral»; parte resumido de Chiara; la línea canon citada por ella; «Decía tu nombre» (DISEÑO: por qué calló). Reconocimiento mutuo (DECISIÓN DEL AUTOR 2026-11-01, prosa DISEÑO): Kal cobra el «agua al cuello» del 30 y el 36 como protección, le dice que esconder para cuidar no se hace; ella: «No eres la persona indicada para decirme eso» y le devuelve su «Estos días ha habido presión». Ambos protegen ocultando; ninguno lo nombra. Kal recibe la bala igual (CANON). Orden invertido en «Fueron ellos»: primero la bala, semanas después el corral. «Cuando mandé las invitaciones todavía no había pasado nada. Después pasó» → «ya sabía que me iba». Lo de abajo sobre H13 (recuerdo, «hace unos días», casa neutral) queda como historial.
+-->
+<!--
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 38; numeración corrida definitiva, el archivo conserva su nombre.
 OC-03 (2026-10-29, decisión del autor sobre [[98_Agent_Handoff/ChatGPT/2026-10-29_reporte_cierre_caps30_31_oveja_vienes_continuidad]]; sigue en su estado): Chiara ya no dice "sin robarme nada" sino "dejaron el reloj y se llevaron el teléfono" (el teléfono sí faltó; el robo de la cartera y el reloj lo fingió Kal en el Cap. 30).
 PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): sólo transiciones, porque proa y salón ya estaban anclados (viento de diciembre, música amortiguada, cera, luces a media, música filtrada por el vidrio). En la proa se añade el agua golpeando el casco. A la salida del salón, el viento y la música entran de golpe al abrir la puerta, en la línea que abre la sección de despedida. Nada más.
@@ -36,7 +40,7 @@ Función: celebración coral que se convierte en el gatillo del viaje a Palermo.
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N38-1, N38-2, N38-3, N38-4. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 -->
 
-# Capítulo 47 — Al revés
+# Capítulo 43 — Al revés
 
 El día entero que le había pedido se había gastado sin sobrar ni faltar un minuto, y ahora Chiara lo sentía todavía en los hombros como se siente el sol después de haberse ido: un desayuno largo en el loft, la costa de tarde, la pregunta que él no había hecho ni una sola vez en todas esas horas y que ella había visto pasarle por la cara cada vez que alguien decía *Roma* por casualidad.
 
@@ -500,71 +504,41 @@ Ella se levantó, fue por segunda vez al bolso, y esta vez no sacó papel. Sacó
 
 Una *C*. En hilo azul oscuro, pequeña, en una esquina, del tipo que borda una casa que borda sus iniciales.
 
-—Hace unos días —dijo Chiara—. Al salir de misa.
+—En julio —dijo Chiara—. Al salir de Santa Lucía.
 
----
+Kal miró el pañuelo y después la miró a ella.
 
-Había sido una mañana cualquiera entre semana, de las que Chiara reservaba para la misa de las ocho porque a las ocho no había nadie en Santa Lucía salvo tres viejas y el sacristán, y nadie le preguntaba nada.
+—¿Julio?
 
-Salió con el bolso al hombro y las llaves del Mercedes en la mano. El sol todavía no había subido del todo por encima de la colina. En la acera, junto al coche, había dos hombres que no habían estado cuando entró.
+—Antes del corral.
 
-No hicieron nada rápido. Eso fue lo primero que registró: la lentitud. Uno de ellos, el mayor, con el pelo gris cortado corto y un abrigo demasiado bueno para San Aurelio, le habló en italiano, con el acento de una ciudad que ella conocía mejor que ésta.
+Se lo contó como contaba las cosas que le pesaban: en orden, sin adjetivos, como un parte. La vela. El coche negro que subía la calle a su paso. El hombre del traje de Milán que la llamó Lusardi. La casa de la colina, en Cuesta Bonita, con un cuarteto sonando adentro. Il Consigliere en persona, que le sirvió primero y bebió después, y que le habló del vino y del jefe de policía antes de hablarle de ella. La pregunta de la Mesa: si estaba en San Aurelio para servir a la mesa de sus socios o para armarse una propia. Lo que ella contestó. El pañuelo junto a su copa.
 
-—Signora. Le pedimos un momento. Un café. Nada más.
+—Y después cambió al español para decirme una frase que no era suya. —No bajó la vista—. «Pon tu casa en orden, señora Ardizzone, o hablaremos de este Mercer tuyo.»
 
-El otro ya había abierto la puerta trasera de un coche gris estacionado detrás del suyo.
+Kal no se movió.
 
-Chiara podía haber gritado. Había tres viejas y un sacristán a veinte metros. Podía haber metido la mano en el bolso. Sabía exactamente cuánto tardaba en meter la mano en el bolso. No hizo ninguna de las dos cosas, porque los dos hombres tenían la cortesía de la gente que no necesita amenazar para que uno entienda, y porque esa cortesía ella ya la conocía: era la de un despacho de Nueva York, de noche, y sabía de quién era.
+No le preguntó por qué no se lo había dicho. Ella se lo dijo igual, como un dato, y siguió antes de que él pudiera hacer algo con eso:
 
-—Un café —repitió, y subió al coche.
+—Decía tu nombre. —El pulgar le fue a la base del anular izquierdo, y lo retiró—. No lo he vuelto a sacar hasta ahora.
 
-La casa estaba en la ladera, del lado de las casas que nadie alquila por menos de un año. No tenía nombre ni placa. Adentro, los muebles estaban tapados con sábanas, salvo una mesa y tres sillas en lo que alguna vez había sido un comedor, y en la mesa había, en efecto, café, en tazas buenas, servido por alguien que ya no estaba.
+Kal se quedó mirando el pañuelo sobre la tapa.
 
-La sentaron de frente a la ventana, de espaldas a la puerta. Le sirvieron primero. Esperaron a que ella tomara el primer sorbo antes de tomar el suyo. Todo en el orden en que la Mesa hacía las cosas, con la exactitud de una liturgia que ella conocía de memoria y que no había visto en años.
+—Lo del agua al cuello —dijo—. En la escalera.
 
-—Signora Lusardi —empezó el mayor.
+Chiara no contestó.
 
-—Ardizzone.
+—No era que te fueras a ir. Era que te ibas a ir para que no me tocaran.
 
-Lo dijo sin levantar la voz y sin dejar la taza. El hombre se detuvo. Miró al otro, que no había hablado todavía y no habló en toda la reunión, y volvió a mirarla.
+—Algo así.
 
-—Signora Ardizzone —concedió—. Le pido perdón. Los papeles a veces tardan en ponerse al día.
+—Eso no se hace, Chiara. —No levantó la voz—. Esconderle algo así a alguien para cuidarlo.
 
-—Los papeles están al día desde hace años.
+—No eres la persona indicada para decirme eso. —Lo miró de frente—. «Estos días ha habido presión.» ¿Cuál?
 
-—Entonces la Mesa se disculpa. —No sonó a disculpa—. Vamos a lo nuestro, y le devolvemos su mañana. La Mesa sabe que el señor Bellacorte se fue. Sabe que usted no se ha hecho más chica desde entonces. Y le llegan cosas, signora. Que reúne información. Que reúne activos. Que hay quien cree que está construyendo algo suyo. —Bebió—. Alguien en Palermo ha usado la expresión "recolectando migajas de poder". Yo no la habría usado. Pero alguien la usó.
+Kal abrió la boca y la volvió a cerrar.
 
-—Trabajo para el Monarch. Lo que hago lo hago para el Monarch.
-
-—Nadie dice lo contrario.
-
-—Entonces no sé qué estamos discutiendo.
-
-—No estamos discutiendo nada. —Dejó la taza—. Le estamos comunicando. La Mesa quiere saber si Chiara Ardizzone está en San Aurelio para servir a la mesa de sus socios, o para armarse una mesa propia.
-
-—No estoy armando nada.
-
-Lo dijo con la voz más lisa que tenía. Y era verdad, y no lo era: en el mismo segundo en que lo decía pensó en el papel cortado en rectángulos, en lo que le llegaba a su escritorio los domingos sin que nadie lo hubiera pedido. Lo negó porque negar era lo correcto. Y supo, mientras lo negaba, que la Mesa tenía razón en la mitad exacta que le convenía tener razón — y no supo, y eso fue lo peor, cuánto de esa mitad conocían de verdad.
-
-El hombre asintió, como quien anota una respuesta sin creerla ni descreerla.
-
-—Muy bien. Entonces esto es todo.
-
-Sacó del bolsillo del abrigo un pañuelo de lino blanco, doblado, y lo dejó sobre la mesa junto a la taza de ella. Chiara vio la *C* bordada en la esquina antes de tocarlo. Después lo abrió, porque no abrirlo habría sido peor, y dentro del pañuelo había una bala. Una sola. De pistola, sin disparar.
-
-No la tocó. La miró. Y después miró al hombre.
-
-El hombre lo dijo con la calma de quien repite algo que le dictaron y que está de acuerdo en repetir:
-
-—Pon tu casa en orden, señora Ardizzone, o hablaremos de este Mercer tuyo.
-
-La llevaron de vuelta a Santa Lucía en el mismo coche. El Mercedes seguía donde lo había dejado, y el pañuelo con la bala adentro, en el bolso, junto a lo otro.
-
----
-
-—No lo he vuelto a sacar hasta ahora —dijo Chiara, en el salón del yate, mirando el pañuelo sobre el piano.
-
-Kal no había dicho una palabra en todo el tiempo que ella tardó en contarlo. Ahora alargó la mano, tomó el pañuelo, y lo abrió sobre la palma con el cuidado con el que se abre algo que puede tener adentro cualquier cosa.
+Soltó el aire por la nariz, algo que en otra noche habría sido una risa. Después alargó la mano, tomó el pañuelo, y lo abrió sobre la palma con el cuidado con el que se abre algo que puede tener adentro cualquier cosa.
 
 La bala rodó hasta el centro de su mano y se quedó ahí.
 
@@ -586,7 +560,7 @@ Se quedó con el pañuelo cerrado en la mano, sin devolvérselo todavía.
 
 Chiara no contestó enseguida.
 
-—Fueron ellos —dijo por fin—. Lo del corral. Te lo dije en el parador. Sigo sin tener nada que lo diga, pero me golpearon por la espalda, una vez, dejaron el reloj y se llevaron el teléfono, sin decir nada, y meses después la Mesa me deja una bala envuelta en un pañuelo con mi inicial y me dice que ponga la casa en orden. —Se miró las manos—. Me parece demasiada coincidencia para una ciudad tan chica. Y me parece demasiado poco para llamarlo prueba.
+—Fueron ellos —dijo por fin—. Lo del corral. Te lo dije en el parador. Sigo sin tener nada que lo diga, pero en julio la Mesa me deja una bala envuelta en un pañuelo con mi inicial y me dice que ponga la casa en orden, y unas semanas después me golpean por la espalda, una vez, dejan el reloj y se llevan el teléfono, sin decir nada. —Se miró las manos—. Me parece demasiada coincidencia para una ciudad tan chica. Y me parece demasiado poco para llamarlo prueba.
 
 Kal asintió, y por fin le devolvió el pañuelo. Chiara lo guardó en el bolso, en el mismo lugar, y cerró el bolso, y se quedó de pie junto al sillón con las dos manos apoyadas en el respaldo.
 
@@ -598,7 +572,7 @@ Kal levantó la cabeza.
 
 —¿Ésta?
 
-—Ésta. —No le tembló la voz, y Chiara se lo agradeció a su propia voz—. Cuando mandé las invitaciones todavía no había pasado nada. Después pasó. Y pensé en cancelar, y no cancelé, porque quería verlos a todos juntos una última vez. A los del Monarch. A los tuyos. A Marisol. A Héctor con su whisky. —Casi sonrió—. Fue una despedida. Tú lo sabías por la carta; los demás no, y así tenía que ser.
+—Ésta. —No le tembló la voz, y Chiara se lo agradeció a su propia voz—. Cuando mandé las invitaciones ya sabía que me iba. Pensé en no hacerla, y la hice, porque quería verlos a todos juntos una última vez. A los del Monarch. A los tuyos. A Marisol. A Héctor con su whisky. —Casi sonrió—. Fue una despedida. Tú lo sabías por la carta; los demás no, y así tenía que ser.
 
 —¿Cuánto tiempo?
 

@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 35.
 Corte de parte 2026-10-29 (decisión del autor): la Parte II abre ahora en el Cap. 26 (*La cifra*); el ordinal «N-ésimo capítulo de la Parte II» de abajo es anterior a ese corte.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 27; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «Riesgo pendiente».
@@ -28,7 +29,7 @@ Continuidad:
 - "Conduce él, siempre": aquí es lo único que puede hacer.
 -->
 
-# Capítulo 35 — Lleve equipaje
+# Capítulo 31 — Lleve equipaje
 
 El teléfono vibró contra el mármol del baño a las tres y algo de la mañana, y Kal lo tenía en la mano antes de saber que se había movido.
 

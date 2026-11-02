@@ -1,7 +1,9 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 17.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 13; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): prolepsis de Lucia ('el primero de muchos expedientes'), glosa de 'mi gente', competencia explicada, sintesis repetida de los tres papeles, 'nombre completo' de Mabel, 'dos palabras' de Kenji. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_04-13_Lote_A.md.
 Dialogo Kal/Chiara (2026-10-04, direccion del autor y ChatGPT; prosa DISENO del agente, pendiente de lectura): escena del taller reescrita como descubrimiento por capas; Kal busca el precio (Rafe, el corredor del norte, los favores) y "¿Por que tanto?" queda sin respuesta para que la pague "mi gente". Penthouse intacto salvo una glosa. Detalle: Audit_Dialogo_Kal_Chiara_Parte_I.md §7.
+Rediseño de la Parte I, K-1 (2026-11-01, DECISIÓN DEL AUTOR; prosa DISEÑO pendiente de lectura; sigue TERMINADO): en el taller, Kal saca a Nadir de la coartada de Kingsley Field («Sin Nadir.») sin explicarlo; Chiara lo tacha y no pregunta. Nadir no puede ser testigo de nada: es la herida que Halbrook usa en el Cap. 35 (la correa). Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Rediseno_Parte_I]].
 Protagonistas: Chiara Bellandi (partes 1-4), Kal Mercer (parte 5).
 Ventana temporal: semanas despues del Capitulo 12 (Roma Atrii). Kal y Chiara siguen a caballo entre el penthouse y la casa de el; todavia no hay primer beso.
 Lugares: El Penthouse, La Esquina de Mabel, The Monarch Casino & Hotel (piso de juego), Almendra Towing / El Patio, Comisaria central de San Aurelio (Calle Corona).
@@ -16,7 +18,7 @@ Regla de dialogo 05 (2026-10-26, encargo del autor; DISENO pendiente de lectura;
 Causalidad y Corrado (2026-10-27, nota ChatGPT; versiones elegidas por el autor; DISENO pendiente de lectura; el estado se conserva): dialogo de Corrado = propuesta A ajustada (preguntas de la niña, gesto, 'Despues ya lo arreglo yo' / 'Quedate detras de mi' separados); Kenji: 'Y que el coche ya tenia foto' (nexo con el Peugeot, A-02); antes del desenlace, una frase con lo que quedaba contra Kal (A-01). A-03 a A-05 sin tocar. Desenlace (2026-10-27, decision del autor): el caso NO se cae; el expediente del Peugeot sigue abierto y Kal sale de su centro (sustituye 'El caso se cae' de la Funcion y 'El caso, que habia sido solido, dejo de serlo...'). Corrado y Kenji cerrados: no reintervenir. Detalle: [[98_Agent_Handoff/sessions/2026-10-27_claude_auster_causalidad_corrado]].
 -->
 
-# Capítulo 17 — Auster
+# Capítulo 14 — Auster
 
 El papel de la costa seguía donde lo había dejado, en el cajón que no era el de las cartas ni el de los recibos: un rumor sin nombre completo, sobre una mujer sin nombre completo, vista dos veces con alguien que nadie en la mesa había reconocido.
 
@@ -200,7 +202,17 @@ La llave se detuvo. Kal salió sobre el carrito y se quedó sentado ahí, con un
 
 —Te lo traigo entero. Hace tres semanas te habría traído miedo.
 
-—Hay otro sospechoso: Rafe Domínguez, del sur. —Chiara sacó una hoja doblada del bolso y no se la dio; la leyó ella—. Si te preguntan por piezas en efectivo, Garrett las recogió en Villani Motors, cerca de Cedar Flats, hace cosa de dos meses. Si te preguntan por las noches que llegabas tarde sin que Héctor supiera dónde estabas, estabas en Kingsley Field, revisando motores para las carreras de los sábados. Nada de eso es mentira completa.
+—Hay otro sospechoso: Rafe Domínguez, del sur. —Chiara sacó una hoja doblada del bolso y no se la dio; la leyó ella—. Si te preguntan por piezas en efectivo, Garrett las recogió en Villani Motors, cerca de Cedar Flats, hace cosa de dos meses. Si te preguntan por las noches que llegabas tarde sin que Héctor supiera dónde estabas, estabas en Kingsley Field, revisando motores para las carreras de los sábados, con Nadir.
+
+—Sin Nadir.
+
+—Es tu mejor testigo.
+
+—Sin Nadir.
+
+No dijo por qué. Chiara sacó una pluma del bolso, tachó el nombre con una sola raya y dobló la hoja otra vez.
+
+—Nada de eso es mentira completa.
 
 —Villani no se va a acordar de mí.
 

@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 46.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 37; numeración corrida definitiva, el archivo conserva su nombre.
 SURGERY 2026-11-01 (DECISIÓN DEL AUTOR 2026-10-31, punto 9 de §Arco legal de Hoover en 98_Agent_Handoff/sessions/2026-10-31_claude_carretera_libro_i.md; respeta el CANON del 2026-10-30, Nat no aparece después del Cap. 3 en el Libro I): fuera el cameo de Nat en La Esquina (bajaba de la ambulancia, el plato aparte con la mejor pieza, el beso). Queda la ambulancia en doble fila y Walt entregando por la ventanilla los cuatro platos de la estación; sin señal de Nat. Lo de abajo sobre Nat («Nat de uniforme», «personajes nuevos en escena: Natalie Keegan») es histórico. Estado conservado.
 Acción de Gracias (2026-10-08, CANON DEL AUTOR; prosa DISEÑO pendiente de lectura): el día del capítulo es Thanksgiving A2. Una línea al llegar al taller (abre igual: los feriados son de choques) y una escena nueva en La Esquina entre Héctor y Walt: platos gratis de Mabel, pavos pagados por Kal sin mencionarlo, Walt trinchando sin que nadie se lo pida (el día era de Amanda; no se glosa), Nat de uniforme por los platos de la estación (reconciliada fuera de escena), plato envuelto para Chiara ("Que sepa qué se celebra"). Chiara sigue sin aparecer en persona: está en el Monarch. Se rompe una vez el patrón de "Roma". Personajes nuevos en escena: Mabel Ortiz, Natalie Keegan. Lugar: La Esquina de Mabel.
@@ -30,7 +31,7 @@ Libreta de los fiados (2026-10-22, decision del autor; prosa DISENO; sigue BORRA
 Regla de diálogo 05 (2026-10-28, Claude Code, encargo del autor; prosa DISEÑO, sigue BORRADOR): el gag de «Roma» se conserva, pero se rompe la máquina común (todos cerraban con «Entonces…» y Kal remataba con «No es…»). Fuera el eco «Es de ella» y los remates «No es ninguna de las dos», «No es.» y «No es eso tampoco» (silencio de Kal o Bonnie se contesta sola); Nadir, Walt y Danny ya no abren con «Entonces». Intactos: Héctor (sequedad como relación), la línea de la cocaína, la carta y Mabel. Detalle: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_cuatro_letras_cap43]].
 -->
 
-# Capítulo 46 — Cuatro letras
+# Capítulo 42 — Cuatro letras
 
 El sobre estaba apoyado contra la cafetera, todavía tibia, con su nombre escrito en la letra inclinada que ya reconocía sin tener que mirar la firma.
 

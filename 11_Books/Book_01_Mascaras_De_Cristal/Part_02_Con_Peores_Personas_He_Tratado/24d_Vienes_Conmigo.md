@@ -1,4 +1,6 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 32.
+COSTURA H13 (2026-11-01, Claude Code, encargo del autor; DISEÑO, espera lectura; sigue BORRADOR): el «Totalmente» se apoya en la bala de julio ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21b_Grazie]]), que Kal todavía no conoce. Un gesto tras la línea (el pulgar en el anular izquierdo, el mismo de cuando la Mesa nombra a Kal en el 21b); sin diálogo nuevo. Kal lo sabrá en el 47.
 Corte de parte 2026-10-29 (decisión del autor): este capítulo pasó a la Parte II (de `Part_01_Dos_Mundos` a `Part_02_Con_Peores_Personas_He_Tratado`); las menciones a «Parte I» de abajo son históricas.
 Creado 2026-10-29 (decision del autor): separado del Cap. 30, *Oveja entre lobos* (archivo 24c, antes *El corral*), en el corte "Voy por el coche". El 30 queda con el ataque, la ambulancia, el hospital, la comisaria, la tregua y el alta; este capitulo es la salida del hospital, el parador, el loft y la coda. Titulo del autor: *Vienes conmigo* (de "Tu vienes conmigo", beat canon del regreso del parador). Prosa sin cambios en el corte salvo la primera linea (el Audi siguio a la ambulancia; se movio a la calle de atras la primera manana). Sigue BORRADOR. El historial de auditorias y cirugias del parador, el loft y la coda vive en la cabecera del 24c.
 LECTURA DE CHATGPT (2026-10-29, [[98_Agent_Handoff/ChatGPT/2026-10-29_lectura_cap31_vienes_conmigo]]; decisiones del autor; sigue BORRADOR): VC-01 (CANON DEL AUTOR: tarde en el Monarch): el alta es en la mañana del jueves; Chiara pasa la tarde a la vista en el Monarch y Kal la recoge en el túnel al anochecer, a la hora acordada (sin teléfono). Sustituye a "Veinte minutos después"; prosa DISEÑO. VC-02: revisado el ritmo del parador, sin cambios. VC-03 (CANON DEL AUTOR): cómplices sin reproche; "Yo habría hecho lo mismo", "Lo entiendo" y la denuncia firmada sin leer se quedan como están.
@@ -8,7 +10,7 @@ Lugares: Hospital Santa Aurelia (calle de atras), bahia de carga / tunel este de
 Hitos: H12 (abrazo y temblor en el loft, canon intactos). Residuo hacia el Cap. 32 (*Libros abiertos*): "Necesito un coche que no sea del Monarch / Conozco uno" (puente al Lancia).
 -->
 
-# Capítulo 32 — Vienes conmigo
+# Capítulo 28 — Vienes conmigo
 
 Desde la primera mañana tenía el Audi en la calle de atrás, frente a unas casas, y no en el estacionamiento del hospital, donde cualquiera con una credencial de Dario había tenido tres días para ponerle un micrófono o un localizador.
 
@@ -219,6 +221,8 @@ Chiara desdobló la hoja, leyó los nombres y la volvió a doblar por la misma l
 —¿Y estás segura de que son ellos?
 
 —Totalmente.
+
+El pulgar de ella fue a la base del anular izquierdo y se quedó ahí un momento, sobre nada.
 
 —La carta trae una fecha. El 13. Si querían quitarte de en medio, no iba a haber reunión.
 

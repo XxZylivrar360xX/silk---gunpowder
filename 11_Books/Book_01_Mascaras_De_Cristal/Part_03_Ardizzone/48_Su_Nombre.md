@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 57.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 48; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 48 (quinto del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
 Título: PENDIENTE. "Su nombre" es de trabajo (DISEÑO).
@@ -21,9 +22,10 @@ DISEÑO del agente, pendiente de lectura:
 - Cierre: Mabel se cobra la puerta: le sirve el café pero no le acepta el billete ("De esto no cobro"). La red civil también paga. Sin glosa.
 - No se nombra a Halbrook ni el señuelo; no se insinúa que Kal no irá en el convoy. Eddie Sosa queda fuera (opción para otro toque). Sin EPUB, commit ni push.
 Regla de diálogo 05 (2026-10-28, a pedido del autor; prosa DISEÑO, espera lectura): fuera «Es no», «¿Eso dijo?», «Para una ruta», el «Gracias» a Bonnie, «¿Por qué no por el Cutoff?», «¿Usted sabe lo que me está pidiendo?» / «Por eso vine en persona», «¿Cómo que no sabe?», el eco «Menos él», «¿Y lo otro?», «¿Para qué?» antes del Peugeot, «Nada más» y «Ya sé que no es por dinero». Sesión: 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_su_nombre_cap54.md.
+Hilo del Tasador (2026-11-01, DECISIÓN DEL AUTOR: señales desde Chiara; prosa DISEÑO, espera lectura; plan [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]]): tras «Todo. Menos su hombre», Rafe dice que el gordo de la Almendra anda tasando el sur desde antes de Navidad (presta, sube cuotas, ofrece trabajitos) y que el muchacho del hielo le contestó a su enviado «sin preguntarme» (conserva lo brutal de la puerta trasera). Chiara no pregunta por La Almendra. El I no nombra a Crowe aquí.
 -->
 
-# Capítulo 57 — Su nombre
+# Capítulo 53 — Su nombre
 
 El primero de enero La Esquina de Mabel no tenía turno de la mañana ni de la tarde. Tenía uno solo, largo, que empezaba a las seis con los que todavía no se habían acostado y pedían menudo, y terminaba cuando Mabel apagaba la cafetera, y a mediodía estaba en su peor hora: todas las mesas ocupadas, dos familias esperando de pie junto a la vitrina, un niño llorando por un pan que no era el que había pedido.
 
@@ -218,6 +220,10 @@ Chiara asintió.
 —Maribel.
 
 La mujer de la libreta escribió otra línea.
+
+—A mí me hace falta todo, señora. —Rafe señaló con la barbilla hacia el patio, hacia el muchacho del hielo—. El gordo de la Almendra anda tasando el sur desde antes de Navidad. Presta, sube cuotas, ofrece trabajitos a quien se deje. Anteayer mandó a uno a preguntar cuánto valía la plaza. —Se encogió de hombros—. Ése le contestó sin preguntarme.
+
+En el patio, el muchacho no levantó la vista.
 
 Chiara sacó un sobre del bolsillo interior del saco y lo puso sobre el mantel. Era grueso. Lo había preparado esa tarde en la caja del Monarch, con billetes de su propia cuenta, no de la del casino, contados dos veces. Rafe lo miró sin tocarlo. Luego lo tomó, lo sopesó en la palma como se sopesa un melón en el mercado y se lo pasó a Maribel sin abrirlo. Maribel lo guardó debajo de la libreta.
 

@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 33.
 Corte de parte 2026-10-29 (decisión del autor): este capítulo pasó a la Parte II (de `Part_01_Dos_Mundos` a `Part_02_Con_Peores_Personas_He_Tratado`); las menciones a «Parte I» de abajo son históricas.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 25; numeración corrida definitiva, el archivo conserva su nombre.
 PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): tres reanclajes que marcan el tiempo. Después de Corrado y Marta, el ventanal empañado hasta la mitad (sustituye "Movió el agua sin mirarla", que además chocaba con "sin mover el agua" de la línea anterior); antes del apellido, la copa ya tibia (sustituye otro "movió el agua"); entre Nadir y Michael, una torre que se apaga del otro lado del ventanal. Después de Alessio no se añadió nada: el párrafo de la copa que deja de sudar y los chorros que se apagan ya lo hace.
@@ -26,7 +27,7 @@ Cementerio (2026-10-08, orden del autor; DISENO): la busqueda de "¿Tu cuando lo
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N25-1 a N25-10; N25-5, N25-8 y N25-10 comprimidos a "Lo dijo sin subir la voz / sin rencor / despacio" para no perder las pausas entre revelaciones. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
-# Capítulo 33 — Libros abiertos
+# Capítulo 29 — Libros abiertos
 
 Villani Motors olía a cuero nuevo y a cera de pintura, un olor que Kal empezaba a asociar con dinero limpio y no con el aceite quemado de toda su vida anterior.
 

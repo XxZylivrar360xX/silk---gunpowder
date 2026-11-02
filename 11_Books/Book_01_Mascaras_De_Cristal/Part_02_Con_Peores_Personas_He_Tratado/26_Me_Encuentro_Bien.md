@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 34.
 Corte de parte 2026-10-29 (decisión del autor): la Parte II abre ahora en el Cap. 26 (*La cifra*); el ordinal «N-ésimo capítulo de la Parte II» de abajo es anterior a ese corte.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 26; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Cap. 34 de la Parte II (*Con peores personas he tratado*; desde el corte del 2026-10-29 la parte abre en el Cap. 26, *La cifra*). Pendiente de revisión del autor. Cirugía editorial E5 (2026-09-27, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] §9): cronología fija de ~24 h, POV y glosas; sigue BORRADOR. Ajuste 2026-10-04 (C7 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_24c_El_Corral]], autorizado por el autor): Varek "ya tenía" a alguien detrás de Kal (la vigilancia arranca en el 24c).
@@ -22,7 +23,7 @@ Continuidad / provisional:
 - Dario tutea a Chiara (gesto de poder); ella le sostiene el usted como pared.
 -->
 
-# Capítulo 34 — Me encuentro bien
+# Capítulo 30 — Me encuentro bien
 
 Chiara despertó con la idea entera, ya armada, como si la hubiera terminado de pensar dormida.
 

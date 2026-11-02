@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 24.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 20; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «El mirador».
 PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura): el mirador ya muestra la postal. Último apartadero sin alumbrado y grava; vista orientada con landmarks canon (Distrito Marino a la derecha sobre la costa y, desde el mapa definitivo del 2026-10-06, las torres de Punta Dorada en La Isla; Calle Corona, La Almendra y las vías, grúas del Puerto Viejo, el mar negro al oeste); se sientan en la grava fría junto al borde de piedra; el motor se enfría (tictac) y después se calla, marcando el tiempo; viento seco de arriba. Kal habla de Dale y Ruth mirando abajo, hacia las vías (antes, "el cielo"); Chiara mira arriba en las constelaciones. Supersede la nota de 2026-09-07 ("el mirador NO se tocó, el autor lo considera perfecto") por decisión del autor. Diálogo intacto.
@@ -21,7 +22,7 @@ Cierre 2026-10-28 (CANON DEL AUTOR, en sesion): Chiara dice "*Vieni.*" al tomarl
 Hilo del Tasador (2026-11-01, DECISIÓN DEL AUTOR; prosa DISEÑO pendiente de lectura): en el recuento del día, la vulcanizadora "desde la cuota nueva cerraba a las seis y ya no fiaba" (saldo de la cuota del Cap. 13).
 -->
 
-# Capítulo 24 — Lo pequeño
+# Capítulo 20 — Lo pequeño
 
 El día nublado no volvió a mencionarse entre ellos, pero tampoco se fue del todo.
 

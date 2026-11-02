@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 18.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 14; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Corte de diálogo autorizado por el autor (2026-10-05, M14-1 de 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Marisol_Detector_Infalible.md): se quitó "Eso no pasa por trabajar juntos, Kal."; sigue TERMINADO.
 Protagonistas: Kal Mercer, Marisol Grayson.
@@ -15,7 +16,7 @@ Regla de dialogo 05 (2026-10-26, encargo del autor; DISENO pendiente de lectura;
 Escena nueva "Las notas" (2026-10-27, encargo del autor; DISENO pendiente de lectura; el estado se conserva): domingo temprano, Marisol confiesa que reprobo dos parciales, falto a clase y le mintio el sabado ("Sobreviviendo"). Kal la regaña de pie, sin subir la voz (la mentira, no la nota), pone condicion (hablar con los profesores, mandarle las notas), se sienta, le choca el hombro con media sonrisa: "Todo va a estar bien." Sustituye la version del choque del carro de Michael (descartada por el autor: precedente del Audi en el Cap. 24 y eco de mala conductora para el choque del Libro II). Fuera la muletilla "¿sabes?" en "Lo extraño". Remate (2026-10-27, direccion del autor via nota ChatGPT AUT-01; DISENO pendiente de lectura): sale "Tu papá reprobó Química dos veces" y la risa; entra el orgullo de Kal por Marisol como hija de La Almendra, con "tipos como yo" como eco de "somos plebe" (Cap. 7) sin glosa; reaccion minima; "Todo va a estar bien" intacto. Ajuste del autor: "Me lo dijiste tú... Eso ya es hacerlo mejor" (reconocimiento de la responsabilidad que ella asumio al confesar, no exigencia). Siembras de inquietud de Marisol, sin glosa: viernes, «Oye» abortado en el semaforo y plato raspado en la cena; sabado, "apretó el paso" al mentir (el agua derramada antes de "¿Y tu amiga?" se retiro: sugeria a Chiara como motivo). Tambien: "Desde Auster" -> "Desde que fue a verlo al taller" (Kal no conoce el nombre); fuera la cifra "la mitad de las confesiones falsas". Detalle: [[98_Agent_Handoff/sessions/2026-10-27_claude_cap17_escena_las_notas]].
 -->
 
-# Capítulo 18 — La regla del teléfono
+# Capítulo 15 — La regla del teléfono
 
 El papel seguía sobre la repisa, doblado en cuatro, donde llevaba semanas sin que Kal lo tirara ni lo abriera. *Roma Atrii* por fuera, en la letra que ya se sabía de memoria sin haber querido aprenderla. Lo miró un segundo de más mientras cerraba el bolso, decidió otra vez que no era el día, y salió con la casa a medio ordenar.
 

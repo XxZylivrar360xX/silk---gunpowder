@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 19.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 15; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «El portón».
 Estado: TERMINADO. Cirugia editorial 2026-09-26 (Prioridad C, autorizada por el autor, sigue TERMINADO): corte de la apertura de Nadir y Danny y de "Dos dias antes" (5-ter; ademas corregia una cronologia rota: la escena caia en domingo con los dos ya retenidos), prolepsis de Lucia, recuento a Walt comprimido, sedan y reflexion del corazon compactados, "Contame" -> "Cuenteme". Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17.md.
@@ -6,14 +7,15 @@ Cirugia de dialogo de terceros 2026-10-04 (S2 del Plan_Cirugia_Terceros_Parte_I;
 Regla 05 (esticomitia de una sola voz), 2026-10-26, a pedido del autor (sigue TERMINADO; prosa nueva DISENO pendiente de lectura): en la visita a Hector, fuera "No lo convenci" / "Es lo mismo, con usted" (remate doble), "Ya lo se" / "¿Entonces por que viene?" (Chiara contesta otra cosa: parte de llamadas; Hector la regresa) y el eco "No es la unica" (gesto de la una en la mesita); "Eso ya lo se" pasa a "Eso lo se desde la primera vez que la vi". Intactos Lucia, Walt, la carta y las lineas de arco. Ver 98_Agent_Handoff/sessions/2026-10-26_claude_regla05_porton_cap18.md.
 Cirugia 2026-10-28 (lectura ChatGPT 2026-10-27, "vamos a solventarlas"; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): fuera el parrafo "Tenia llaves..." (contradecia el Cap. 13: "ni una llave en su bolso"); parte medico: infarto confirmado, pendiente la valoracion de cardiologia (dano y tratamiento), y a Walt "para ver que tan grave fue"; Chiara nombra primero a Hector ("Porque queria saber como seguia usted") antes de Kal. Ver 98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap18_yo_lo_llevo.md.
 Arco lector 14-16 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_14-16_Lector; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): A1 -- la visita de Chiara a Hector (antes en el Cap. 16) pasa aqui como escena del sabado, entre la noche del viernes con Walt y la carta; primera frase reescrita sin Kal, "mas despierto que la noche anterior", "Usted no tiene que venir"; Chiara recoge el catalogo antes de la ambulancia (va en su regazo); la pregunta de Hector pesa en el sussurro ("con la pregunta de Hector todavia a cuestas"); la carta se escribe el sabado por la noche, lo que justifica "el viernes".
-Protagonistas: Chiara Bellandi, con apariciones de Walter Keegan y Lucia Varek (Nadir Amrani y Daniel Hayes solo mencionados, inalcanzables). Hector Navarro inconsciente el viernes; despierto en la visita del sabado.
+Rediseño de la Parte I, P-3 (2026-11-01, CANON DEL AUTOR del 2026-10-31 en la idea; prosa DISEÑO pendiente de lectura; sigue TERMINADO): el sábado de noche, antes de la carta, Tommaso pasa por la oficina: la misa de agosto por «mi hermano» (no lo nombra), «la familia que pueda volar», y «¿Todavía cabalgas los domingos?» / «Por la tarde.» / «Entonces, la de las once.» La pregunta nace de la misa; la cobra el atacante del Cap. 31 («¿Ella sale mucho los domingos?»). Cae justo después de «¿Y él qué no le ha contado a usted?»: sin glosa. Fija DISEÑO: el aniversario de Alessio cae en agosto (ya implícito en el 31) y la misa es en San Aurelio. Costura en el 24c: el mensaje de Tommaso pasa de anuncio a seguimiento. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Rediseno_Parte_I]].
+Protagonistas: Chiara Bellandi, con apariciones de Walter Keegan, Tommaso Lusardi y Lucia Varek (Nadir Amrani y Daniel Hayes solo mencionados, inalcanzables). Hector Navarro inconsciente el viernes; despierto en la visita del sabado.
 Ventana temporal: el viernes del Capitulo 14 (La regla del telefono), mientras Kal y Marisol estan de campamento, y el sabado siguiente (visita al hospital y carta). Bajo la reordenacion del 2026-08-29, H10 va ANTES de H4 y H11 -- en este punto Kal y Chiara TODAVIA NO se han besado.
 Lugares: Casa Comunitaria De La Almendra (sotano), casa de Hector, Hospital Santa Aurelia, The Monarch Casino & Hotel.
 Funcion: capitulo exclusivo POV Chiara (2026-09-03, a peticion del autor -- separado del nuevo Capitulo 16, POV Kal, para que el fin de semana respire). ~~Abre con Nadir y Danny: un rumor de calle sobre una bodega...~~ (apertura cortada 2026-09-26; el lector sabe del robo lo mismo que Chiara y Walt: "Raro", y lo descubre en el Cap. 17). Abre por residuo del Cap. 14 ("El mismo viernes que Kal cargaba la camioneta"). Chiara va a la Almendra con un catalogo de muebles y pan para Hector, lo encuentra con la puerta abierta y en el suelo, llama a emergencias, sube con el en la ambulancia intentando comunicarse con Kal sin respuesta. En el hospital, la subjefa Lucia Varek va en persona y sin uniforme (la casa es del circulo de Kal, a quien interrogo en el Cap. 13); dice "Es rutina", que es la mentira; Chiara registra "Varek" y Lucia registra "Bellandi" y un medico le confirma el infarto, pendiente de especialista. Walt llega a la sala de espera; recuento completo de lo que paso, y Walt revela que Hector ya habia tenido un preinfarto menor antes de ir a prision, nunca vigilado de cerca -- Chiara lo recibe con una reflexion propia, sin nombrar a su madre, sobre el costo de no tomarse en serio una enfermedad silenciosa. Walt se queda en el hospital; Chiara se va pasada la medianoche. El sabado vuelve a ver a Hector (catalogo, "yo todavia estoy aprendiendo quien es Kal", "Hay cosas de donde vengo que el no conoce") y se va con su pregunta "¿Y el que no le ha contado a usted?". Esa noche, en el Monarch, escribe la carta, esta a punto de mandarla con un sussurro y cambia de decision -- la lleva ella misma, consecuencia directa de la promesa que le hizo a Kal en el Capitulo 12 (Roma Atrii). Cierra con la carta bajo la puerta del loft, sin revelar su contenido -- eso se paga en el Capitulo 16.
 Apertura por residuo: arranca del cierre del Capitulo 14 -- pero el beat de las llamadas perdidas de Kal se recoloca al Capitulo 16: aqui, del lado de Chiara, no hay ninguna resolucion todavia.
 -->
 
-# Capítulo 19 — Yo lo llevo
+# Capítulo 16 — Yo lo llevo
 
 El mismo viernes que Kal cargaba la camioneta para el campamento, del otro lado de la ciudad, Chiara conducía el sedán negro del Monarch — un Mercedes-Benz Clase S que la empresa le había asignado como quien asigna un traje, sin preguntar si le quedaba bien — con las dos manos en el volante y la espalda más recta de lo que el asiento pedía. Nunca se había sentido cómoda manejando; prefería que la llevaran, prefería mirar por la ventana en vez de vigilar el espejo. Pero era, por ahora, el método más rápido que tenía para moverse sola sin explicarle a nadie a dónde iba ni por qué — así que manejaba, con el catálogo y una bolsa de pan todavía caliente en el asiento del copiloto, hacia la casa de Héctor.
 
@@ -153,7 +155,23 @@ Chiara no contestó. Se quedó otro rato, hablando de nada, hasta que se acabó 
 
 ***
 
-Esa noche, en el Monarch, sentada a su propio escritorio, sacó su papel de siempre — el bueno, el que olía a canela y vainilla, el mismo en el que llevaba meses escribiendo todo lo que de verdad importaba — y escribió lo que tenía que escribir. Metió la hoja en uno de los sobres del hotel — grueso, rojo, con el sello dorado del casino en la solapa; no hacía falta esconder este mensaje de nadie, podía permitirse, por una vez, que se viera desde lejos—, lo cerró y trazó el nombre de Kal en tinta sobre la solapa. Llamó, por costumbre, a uno de los sussurros de guardia.
+Esa noche, en el Monarch, Tommaso tocó el marco de la puerta abierta cuando ella apenas se había sentado.
+
+—Bellandi. Un minuto.
+
+No entró del todo.
+
+—En agosto se cumple lo de mi hermano —dijo—. Quiero una misa aquí. Algo pequeño: la familia que pueda volar, los socios que deban estar. —Giró el anillo de sello una vez—. Que en Palermo sepan que aquí también se le recuerda.
+
+Chiara asintió. Llevaba años asintiendo a todo lo que trajera adentro el nombre de Alessio sin que la cara se enterara.
+
+—Sería en domingo. ¿Todavía cabalgas los domingos?
+
+—Por la tarde.
+
+—Entonces, la de las once.
+
+Se fue sin despedirse. Chiara se quedó un momento mirando el marco vacío. Después, sentada a su propio escritorio, sacó su papel de siempre — el bueno, el que olía a canela y vainilla, el mismo en el que llevaba meses escribiendo todo lo que de verdad importaba — y escribió lo que tenía que escribir. Metió la hoja en uno de los sobres del hotel — grueso, rojo, con el sello dorado del casino en la solapa; no hacía falta esconder este mensaje de nadie, podía permitirse, por una vez, que se viera desde lejos—, lo cerró y trazó el nombre de Kal en tinta sobre la solapa. Llamó, por costumbre, a uno de los sussurros de guardia.
 
 No llegó a dárselo.
 

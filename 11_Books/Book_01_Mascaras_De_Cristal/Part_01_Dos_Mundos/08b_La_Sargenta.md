@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 11.
 Creado 2026-10-23 (decision del autor): separado del Cap. 10, *La carrera de mascaras* (archivo 08), en el corte "Las luces aparecieron a la altura de los hangares". El 10 queda centrado en la carrera; este capitulo es la persecucion con Collins como arco completo de la noche de Kal y Chiara, hasta el regreso al Monarch. Prosa sin cambios en el corte. Sigue TERMINADO (persecucion pendiente de lectura del autor, ver abajo).
 Protagonistas: Kal Mercer, Chiara Bellandi. Voz por radio: teniente Dana Collins ([[02_Characters/Dana_Collins]]).
 Ventana temporal: la misma noche del Cap. 10, de la llegada de las patrullas a Kingsley Field hasta pasadas las dos de la manana.
@@ -8,7 +9,7 @@ Historial (escrito cuando era parte del Cap. 10): Persecucion con escaner y ciru
 Reconocimiento (2026-10-24, decision del autor; DISEÑO pendiente de lectura): Chiara ya oyo a Collins en El Relevo (Cap. 4) y la vio en la cena del Cap. 5 (archivo 05a, antes 05b). En la primera entrada de la voz: "Asi se habia callado El Relevo con su brindis." (fuera "A Chiara le basto una frase"); tras "La oigo": "Chiara le habia visto la cara. No se lo dijo." Kal la conoce por la voz; Chiara, por la cara; no se lo cuenta.
 -->
 
-# Capítulo 11 — La teniente
+# Capítulo 10 — La teniente
 
 Las luces aparecieron a la altura de los hangares. Una barra, y después dos, azul y rojo latiendo contra la lámina de los cobertizos antes de que se oyera nada.
 

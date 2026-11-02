@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 55.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 46; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 46 (tercero del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
 Título: PENDIENTE. "Llaves" es de trabajo (DISEÑO).
@@ -17,9 +18,10 @@ Función: "Los de Kal". La gente de Kal la recibe fría y termina siguiéndola. 
 - Bonnie y Mei-Lin no aparecen. No se nombra Halbrook, el expediente, el convoy ni la fecha del traslado. Sin EPUB, commit ni push.
 Regla de diálogo 05 (2026-10-28, a pedido del autor; prosa DISEÑO, espera lectura): fuera «Ahora el de él», «¿Contando qué?», «¿Y la mochila?», «¿Qué le dijiste?», «¿Completas?», «No lo sabemos» y el «Sí» a Danny. Sesión: 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_llaves_cap52.md.
 Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): sale de la casa de tablas y se pone panza arriba con Chiara, como siempre con ella; primera vez en prosa. La casa de Kal sin Kal, sin glosa. Ficha: 02_Characters/Rocco.md.
+Hilo del Tasador (2026-11-01, DECISIÓN DEL AUTOR: el trabajo para Crowe se ve en señales desde Chiara, que lo ve y no lo interpreta; prosa DISEÑO, espera lectura; plan [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]]): el chico de la vulcanizadora (el de la gorra al revés del 12) sale del mostrador de Nadir al verla entrar; «Cuando alguien me pague a mí» después de «Págaselos». Las cuentas del barrio no cierran sin Kal. Siguen el 57 (Rafe) y el 59 (la grúa).
 -->
 
-# Capítulo 55 — Llaves
+# Capítulo 51 — Llaves
 
 Para llegar al Patio desde el centro había una vuelta que Chiara daba siempre sin pensarla: a la derecha en la calle del mercado, dos cuadras, y a la izquierda en la esquina de la lavandería de monedas, la que tenía el letrero con una burbuja fundida. Esa tarde siguió de largo en la calle del mercado y dio vuelta en la siguiente, una calle de casas bajas con perros detrás de las rejas, y salió a la avenida tres cuadras más abajo, por el lado del lote baldío. Tardó cuatro minutos más. No miró hacia la izquierda en ningún cruce.
 
@@ -35,7 +37,7 @@ Héctor estaba en el capó de siempre, el del Ford sin llantas que llevaba años
 
 Ninguno de los dos se levantó.
 
-Detrás del mostrador del taller, Nadir tenía abierto un libro de cuentas de pasta dura, de los que Kal se burlaba porque existían computadoras, y una pluma en la mano. La pluma no se movía. Detrás del vidrio de la oficina, con los lentes oscuros puestos aunque adentro no había sol, Garrett hablaba por teléfono. Vio entrar a Chiara y siguió hablando.
+Detrás del mostrador del taller, Nadir tenía abierto un libro de cuentas de pasta dura, de los que Kal se burlaba porque existían computadoras, y una pluma en la mano. Del otro lado del mostrador, el chico de la vulcanizadora, el de la gorra al revés, se enderezó al verla entrar y salió por la hoja abierta del portón, pegado a la pared, sin mirarla. La pluma de Nadir no se movía. Detrás del vidrio de la oficina, con los lentes oscuros puestos aunque adentro no había sol, Garrett hablaba por teléfono. Vio entrar a Chiara y siguió hablando.
 
 Las piernas de mezclilla salieron rodando de debajo del sedán. Danny se incorporó en la tabla, la vio, y se quedó así, sentado en el suelo con una llave en la mano y el collar de raíces negras asomándole por el cuello de la camiseta. No dijo nada. Volvió a acostarse en la tabla y rodó de regreso debajo del coche.
 
@@ -55,7 +57,11 @@ Debajo del sedán, la llave hizo un ruido corto contra algo y se calló.
 
 —Págaselos —dijo Chiara.
 
-Nadir sonrió con media boca, sin nada de gracia. Walt levantó la botella del suelo, la miró como si buscara la etiqueta que no tenía y la volvió a dejar entre las botas.
+Nadir sonrió con media boca, sin nada de gracia.
+
+—Cuando alguien me pague a mí.
+
+Walt levantó la botella del suelo, la miró como si buscara la etiqueta que no tenía y la volvió a dejar entre las botas.
 
 —¿Qué sabe? —preguntó Héctor.
 

@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 7.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 05c; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: TERMINADO (heredado del Cap. 5; segmentado).
 Segmentacion (2026-10-22, decision del autor): el antiguo Cap. 5 (Una amiga, ~11,800 palabras, fusion de 2026-09-10) se divide en 5a Cliente y proveedor, 5b Sin llamar a nadie y 5c La pizza de calabaza, sin renumerar el resto. La cita de Kal y Chiara (de Rocco a la despedida) queda entera en 5c.
@@ -8,7 +9,7 @@ Rocco (2026-10-22, decision del autor; DISENO de redaccion): primera descripcion
 Transicion cliente-proveedor -> Kal que quiere impresionar (2026-10-24, decision del autor; regla 05 + segunda pasada; DISENO del agente, los ojos por idea del autor): escalera, Kal ofrece la salida ("Si prefiere, nos pone mesa adentro"); Kal se pilla a si mismo tras el discurso de la fiscalia: la vela de la calabaza, eco de los ojos del Cap. 2 ("verdes por dentro, oscuros en el borde") y de Natalie en el Cap. 3 ("De los ojos que los miren"), "¿Me lo repite? Eso no lo entendi" y ella lo repite palabra por palabra sabiendo por que (sustituye "Kal lo penso"); Rowe, Chiara se pilla a si misma (fuera "¿Y?": la uña y "paro a la mitad"; siembra "¿La del brazo?" del 10); Dario, "¿Y esto?" / "Esto no."; coche, fuera "No era una pregunta dificil" y "Kal puso la direccional en una calle vacia" (el buen conductor falla en lo simple); despedida, fuera "Gracias por venir". Reporte: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]].
 -->
 
-# Capítulo 7 — La pizza de calabaza
+# Capítulo 6 — La pizza de calabaza
 
 Unos días después de que la caseta dejara de pedirle nombre, Kal pasó la tarde enseñándole a Rocco a dar la pata.
 

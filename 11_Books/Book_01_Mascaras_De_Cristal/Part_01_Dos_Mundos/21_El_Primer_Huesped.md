@@ -1,4 +1,6 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 25.
+Cierre de la Parte I (2026-10-31, CANON DEL AUTOR): desde ahí la Parte I la cierra H13, capítulo propio después de éste ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21b_Grazie]], BORRADOR 2026-11-01). «—Volvemos adentro» sigue siendo la última línea del 25.
 Corte de parte 2026-10-29 (decisión del autor): el Cap. 25 cierra la Parte I (*Dos mundos*); «—Volvemos adentro» es su última línea. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 21; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 a «Volvemos adentro» y revertido 2026-10-22 (decisión del autor): se conserva «El primer huésped», decidido en la primera ronda (2026-09-20).
@@ -20,7 +22,7 @@ Apertura por residuo, puesta en escena (2026-10-28, idea del autor sobre propues
 SURGERY 2026-10-28 (lectura de ChatGPT [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_cap24_el_primer_huesped_lunares_y_continuidad]]; decisiones del autor en sesion; el estado se conserva; prosa DISENO pendiente de lectura; ver [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap24_el_primer_huesped]]): lunares desde los omoplatos y por el centro de la espalda (CANON DEL AUTOR, sincronizado en la ficha); Marisol nombra la bofetada; fuera la glosa "una version distinta de si misma"; el club, en el sector sur de La Isla (quince minutos desde el Monarch); Marisol atras, detras de Chiara, y la mano en el semaforo con el Audi detenido. "Sin pedir permiso" y "por primera vez en años" se conservan por decision del autor.
 -->
 
-# Capítulo 25 — El primer huésped
+# Capítulo 21 — El primer huésped
 
 El teléfono sonó a las tres y algo de la madrugada. La pantalla encendió lo poco que había entre la cama y la puerta: un calcetín oscuro en el suelo, doblado sobre sí mismo; más arriba, colgado de la lámpara de la mesa de noche de Chiara, un sostén negro de encaje. El resto del penthouse seguía a oscuras.
 

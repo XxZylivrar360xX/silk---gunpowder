@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 13.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 10; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «El loft del soltero».
 Retitulado 2026-10-25 (decisión del autor): antes «Los muchachos comen»; título vigente «Dos sillas vacías».
@@ -24,7 +25,7 @@ Regla 05 y arrastre del levanton (2026-10-26, encargo del autor; escena de Blake
 Cirugía editorial 2026-10-27 (notas de lectura ChatGPT 2026-10-26, autorizada por el autor; sigue TERMINADO; prosa nueva DISEÑO pendiente de lectura): cuatro cortes/compresiones: fuera "Dario también lo iba a cobrar" (presagio; queda Il Consorzio), fuera "Sin llaves, con la puerta nada más emparejada" de Blake, "el mismo marco" por la repetición de "el marco de la ventana interior", fuera la primera vuelta de Kal a la cinta de la isla. Sin cambios en balcón, cocina, mesa, memoria/caja ni anclajes temporales. Ver 98_Agent_Handoff/sessions/2026-10-27_claude_surgery_cap13_dos_sillas.md.
 -->
 
-# Capítulo 13 — Dos sillas vacías
+# Capítulo 12 — Dos sillas vacías
 
 Nadir no volvió a mirarla como a un huésped después del primer día. La miró como a un problema que todavía no había decidido cómo nombrar.
 

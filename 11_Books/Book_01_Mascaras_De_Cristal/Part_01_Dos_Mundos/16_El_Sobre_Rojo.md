@@ -1,10 +1,12 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 20.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 16; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 a «Con miedo y todo» y revertido 2026-10-22 (decisión del autor): se conserva «El sobre rojo».
 Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-26 (Prioridad C, autorizada por el autor, sigue TERMINADO): prolepsis de la cocina, saltos de POV (casino, cuarto, auto anclado en Kal), parte del infarto a Kal comprimido, contradiccion "llegaron / seguia conduciendo" al Monarch, tercera "respuesta suficiente", siembra de Matteo ("Matteo cubre el piso", hilo C; rima con el Cap. 41). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17.md.
 Cirugia de dialogo de terceros 2026-10-04 (S2 del Plan_Cirugia_Terceros_Parte_I; sigue TERMINADO): visita de Chiara a Hector podada por decision del autor -- Hector solo pregunta y gruñe; salen sus aforismos ("Se equivoca acompañada...", "sostener algo con el cuerpo..."), "Usted ya siente por el...", "con usted no me sale ser el cascarrabias" y el tuteo; la ternura queda para el monologo del Cap. 24c. Chiara se va con la pregunta "¿Y el que no le ha contado a usted?" (decision del autor). Lineas de Chiara intactas salvo el ajuste minimo de enlace. "Cuatro letras" intacta. La prosa nueva es DISENO pendiente de lectura del autor. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I.md.
 Regla 05 (esticomitia de una sola voz), 2026-10-26, a pedido del autor (sigue TERMINADO; prosa nueva DISENO pendiente de lectura): ocho cortes de eco/remate. Hospital: Kal pierde el turno ("Estaba..."; Hector: "En el cerro. Ya me dijo ella", fuera la tercera vez de "telefono apagado"), fuera el eco "Ya se que no pudieron", "¿Necesita algo?" pasa a Chiara ofreciendo otro termo (Hector contesta otra cosa), fuera "Eso intento" (gruñido). Coche: "Contra mi" pasa a Kal contando las piedras que Marisol escogia; la cadena Diego (preocupa/dije/dijiste) queda en el silencio de Chiara, "como quien memoriza a un testigo" y "Es un nombre."; "Le dije que si" pasa a gesto; fuera el remate "suena exactamente a algo que haria Marisol" (risa). Intactos "Es ella" / "No es ella", "Cuatro letras", "Con miedo y todo", "Matteo cubre el piso", el buzon de Nadir, *balayage* y el iman. Ver 98_Agent_Handoff/sessions/2026-10-26_claude_regla05_sobre_rojo_cap19.md.
 Cirugia 2026-10-28 (lectura ChatGPT 2026-10-28; AUT-01 = direccion del autor; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): el miedo de Kal se aterriza en el levanton del Cap. 12: "Desde Calle Corona" (camioneta, convenio, muñeca, "solo habia ido a tomarse un cafe"); Hector solo dice lo que vio (la ferula en el barrio, "Tenia su hotel. ¿Quien escogio la Almendra?") y Kal esquiva con "Alguien tiene que cuidarla de eso". Sin Crowe, sin "juntos". Fuera "la misma cara" y "Nadie dijo nada sobre eso" (POV); alubias quemadas una sola vez; "Kal asintio" (maneja Chiara). Lineas de *Cuatro letras* intactas. Ver 98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap19_sobre_rojo.md.
+Rediseño de la Parte I, V-2 (2026-11-01, DECISIÓN DEL AUTOR; prosa DISEÑO pendiente de lectura; sigue TERMINADO): en el hospital, tras «Eso es de ella. No tuyo.», Héctor nombra el reloj: «Y trabaja para Varek. Eso también lo escogió ella. Tú a ese hombre no le debas nada.» Sin «mijo» (corrección del autor: Héctor no usa mexicanismos). Rima con «¿Quién escogió la Almendra?» y siembra el pacto del Cap. 37. Varek, poder al que no conviene deberle, no villano (decisión del 2026-11-01). Toca H10. Arrastre (corrección del autor, 2026-11-01): Kal sabe que Héctor estuvo casado; «Yo tuve una mujer. / Kal levantó la vista. / —Hace mucho. Antes de que me conocieras.» pasa a «—Te acuerdas de mi mujer. / Kal asintió.» y Héctor sólo le cuenta lo que nunca le dijo a ella. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Rediseno_Parte_I]].
 Protagonistas: Kal Mercer, Chiara Bellandi, Hector Navarro.
 Arco lector 14-16 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_14-16_Lector; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): A1 -- la visita de Chiara a Hector sale de aqui y pasa al Cap. 15 (sabado); el corte cose "Matteo cubre el piso" con "Kal llego al hospital"; el capitulo queda entero en POV Kal (casino -> hospital -> coche). A3 -- fuera el primer "Kal no contesto." y el "--No." de Hector. A4 -- "La furia le llego tarde, ya en el casino"; en el hospital "con la furia bajada, no apagada, y la sintio volver entera". A5 -- "Por primera vez desde que abrio el sobre". A6 -- en el coche Kal marca a Nadir: buzon con mensaje grabado ("Nadir. Deja recado; si es de dinero, la cifra primero."; ajustado a su voz de cobro por el supervisor), en contraste con el de Kal (Cap. 14). A7 opcion B -- maneja Chiara el sedan del Monarch; al llegar, Kal se acuerda del iman en la guantera de la camioneta y no dice nada (reaparece en el Cap. 21). A8 -- alubias y el planteo de Diego comprimidos a narrador; se conservan 6-4, "como quien memoriza a un testigo", la casa y *balayage*. Telefono: "saco el telefono" (en el 14 queda sobre el asiento). Supervision 2026-10-22: fuera "segun Marisol" en las alubias (en el 14 lo de Michael lo dice Kal); Diego trae cafe "a todas las clases", como en el 14.
 Ventana temporal: continua directamente del Capitulo 15 (POV Chiara). El domingo en que Kal vuelve del campamento (casino, hospital, coche).
@@ -13,7 +15,7 @@ Funcion: FUSIONADO (2026-09-03), a peticion del autor -- el antiguo Cap. 17 (El 
 Apertura por residuo: arranca del cierre del Capitulo 15 -- el sobre rojo bajo la puerta del loft, dejado ahi por Chiara sin revelar su contenido.
 -->
 
-# Capítulo 20 — El sobre rojo
+# Capítulo 17 — El sobre rojo
 
 El sobre rojo estaba en el suelo, junto a la puerta.
 
@@ -127,13 +129,15 @@ Héctor hizo un ruido con la garganta.
 
 Kal no tuvo con qué contestarle.
 
+—Y trabaja para Varek —dijo Héctor, sin cambiar de tono—. Eso también lo escogió ella. Tú a ese hombre no le debas nada.
+
 Héctor dejó que el silencio se quedara un momento antes de seguir, más bajo.
 
-—Yo tuve una mujer.
+—Te acuerdas de mi mujer.
 
-Kal levantó la vista.
+Kal asintió.
 
-—Hace mucho. Antes de que me conocieras. Se fue, y yo dejé que se fuera sin decirle lo que tenía que decirle, porque me pareció más fácil quedarme callado que quedarme con miedo. —Se quedó mirando algún punto de la sábana—. Amor son cuatro letras, Kal. Cuatro. Y yo nunca dije las cuatro completas, ni una sola vez, mientras todavía servía de algo decirlas. Envejecí enojado por eso. Enojado y solo, que es peor que envejecer enojado nada más.
+—Se fue, y yo dejé que se fuera sin decirle lo que tenía que decirle, porque me pareció más fácil quedarme callado que quedarme con miedo. —Se quedó mirando algún punto de la sábana—. Amor son cuatro letras, Kal. Cuatro. Y yo nunca dije las cuatro completas, ni una sola vez, mientras todavía servía de algo decirlas. Envejecí enojado por eso. Enojado y solo, que es peor que envejecer enojado nada más.
 
 —Héctor...
 

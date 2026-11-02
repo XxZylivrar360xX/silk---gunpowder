@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 26.
 Corte de parte 2026-10-29 (decisión del autor): el Cap. 26 abre la Parte II (*Con peores personas he tratado*); el archivo pasó de `Part_01_Dos_Mundos` a `Part_02_Con_Peores_Personas_He_Tratado`. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 Estado: BORRADOR (redacción del agente 2026-10-28 con `chapter-drafting`, sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]; DISEÑO pendiente de lectura del autor).
 Sustituye, junto con el 22b, al Cap. 25 *Causalidad* (archivo 22). Numeración: Cap. 25 de 58 (renumeración aplicada 2026-10-28; el 22b es el 26; la prosa de *Causalidad* se retiró del vault y queda en git). El título *La cifra* es DISEÑO del agente, discutible.
@@ -16,7 +17,7 @@ Pasada `editorial-surgery` 2026-10-28 (3 microediciones): [[98_Agent_Handoff/ses
 Microedición 2026-10-30 (estudio OP-03, autorizada por el autor): Lucía nombra los dos contratos de Kal (el del Departamento viene de *Auster*); Matteo dice «la de Dario» para no confundir con la subjefa. [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op03_robo_monarch]].
 -->
 
-# Capítulo 26 — La cifra
+# Capítulo 23 — La cifra
 
 Chiara vio el robo dos veces antes de sentarse.
 

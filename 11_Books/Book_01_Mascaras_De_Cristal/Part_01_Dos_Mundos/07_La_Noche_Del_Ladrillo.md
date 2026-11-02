@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 9.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 7; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote A, autorizada por el autor, sigue TERMINADO): conteo de H3 despejado, Willy fuera (sin antecedente), glosas de 'Te veo despues' y de la risa, tercera formulacion del taxi. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_04-13_Lote_A.md.
 Protagonistas: Chiara Bellandi, con apariciones de Blake Stanton, Dario Varek, Kal Mercer, Nadir Amrani, Daniel Hayes y Hector Navarro.
@@ -16,7 +17,7 @@ SURGERY 2026-10-22 (autorizada por el autor; puntos de ChatGPT 2026-10-19; sigue
 Arco de Blake (2026-10-22, decision del autor; DISENO pendiente de lectura): linea de la cuarta invitacion ("otro no ya habria sido una respuesta"); Nadir y Danny ya conocidos por la ruleta del 6 ("los de la ruleta de la una de la mañana"); Kal empieza a presentar a Nadir y este lo corta: "Ya nos conocemos... La señora me debe un verde... Tu amiga."
 -->
 
-# Capítulo 9 — La noche del ladrillo
+# Capítulo 8 — La noche del ladrillo
 
 Blake la dejó entrar primero, con una mano en la espalda baja que no era ternura: era demostración.
 

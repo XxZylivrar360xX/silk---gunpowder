@@ -1,4 +1,6 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 58.
+COSTURA H13 (2026-11-01, Claude Code, encargo del autor; DISEÑO, espera lectura; sigue BORRADOR): cuarto encuentro con Valenti (Nueva York, Cuesta Bonita en julio [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21b_Grazie]], Palermo, Pacífica). Dos toques: «En julio, desde la colina, la había encontrado igual» (la ventana del penthouse) y la libreta «la misma de la colina y de Palermo». Diálogo intacto.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 49; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «Enfrente».
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 49 (sexto del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
@@ -30,7 +32,7 @@ DISEÑO del agente, pendiente de lectura:
 - No se usa "Qué lamentable" (no está sembrado en prosa; queda reservado). No se describe a Valenti más allá de lo fijado en el Cap. 40; apariencia y manía siguen PENDIENTE. No se nombra a Halbrook ni el señuelo. Sin EPUB, commit ni push.
 -->
 
-# Capítulo 58 — Por si vuelve
+# Capítulo 54 — Por si vuelve
 
 El billete estaba sobre el escritorio, doblado en dos, del lado de afuera de la carpeta de la nómina.
 
@@ -92,7 +94,7 @@ Valenti estaba sentado en uno de los dos sillones junto a la mesa baja, con su t
 
 No le tendió la mano. Le señaló el otro sillón. En la mesa había un servicio de café para dos y un plato con galletas de almendra que nadie había tocado. Esperó a que ella se sentara para volver a sentarse, de modo que la ventana quedara entre los dos.
 
-Por la ventana se veía el Monarch completo. No la entrada, que desde el piso once quedaba escondida detrás de las palmeras, sino el edificio entero: el hotel viejo de los años veinte, color hueso, con sus cornisas y su reloj sin manecillas, y encima, saliendo de él como si lo hubiera atravesado, la torre de vidrio. Desde ahí se veía también la Torre Norte, y la línea de ventanas del último piso, y Chiara supo cuál era la del penthouse sin tener que contarlas.
+Por la ventana se veía el Monarch completo. No la entrada, que desde el piso once quedaba escondida detrás de las palmeras, sino el edificio entero: el hotel viejo de los años veinte, color hueso, con sus cornisas y su reloj sin manecillas, y encima, saliendo de él como si lo hubiera atravesado, la torre de vidrio. Desde ahí se veía también la Torre Norte, y la línea de ventanas del último piso, y Chiara supo cuál era la del penthouse sin tener que contarlas. En julio, desde la colina, la había encontrado igual.
 
 —Construyeron los dos el mismo año —dijo Valenti. Le sirvió café sin preguntarle si quería—. Este y el que está debajo de su torre. Mil novecientos veinticuatro. El mismo arquitecto, me dicen, aunque no lo he podido confirmar. Eran hermanos. Uno para los que llegaban en tren y otro para los que llegaban en barco.
 
@@ -124,7 +126,7 @@ Chiara lo miró. Valenti tenía las manos cruzadas sobre la rodilla y la cara de
 
 —A Kal Mercer.
 
-Valenti asintió despacio, como si le hubieran confirmado la hora. Metió la mano en el bolsillo interior del saco y sacó la libreta de cuero, la misma de Palermo, más gastada en las esquinas. La abrió hacia el final, en una página que encontró sin buscar. La miró unos segundos. No leyó nada en voz alta. La cerró y la dejó sobre su rodilla, debajo de las manos.
+Valenti asintió despacio, como si le hubieran confirmado la hora. Metió la mano en el bolsillo interior del saco y sacó la libreta de cuero, la misma de la colina y de Palermo, más gastada en las esquinas. La abrió hacia el final, en una página que encontró sin buscar. La miró unos segundos. No leyó nada en voz alta. La cerró y la dejó sobre su rodilla, debajo de las manos.
 
 —No recuerdo que usted haya pedido nunca nada —dijo—. Usted administraba. Es distinto. —Lo dijo sin ironía, como un elogio—. Por eso la escuché con atención en cuanto me dijeron que había llamado. Il Consorzio ya lo ha considerado. —Las manos no se movieron de la libreta—. Antes de que usted llamara.
 

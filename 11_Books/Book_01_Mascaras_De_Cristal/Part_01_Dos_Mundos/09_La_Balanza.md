@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 12.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 9; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR (DISEÑO, 2026-10-04, Claude Code; pendiente de lectura del autor). Sustituye en esta posicion al antiguo Cap. 9 (El corral), que pasa a ser el Cap. 24c. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Reubicacion_Corral]].
 Protagonistas: Chiara Bellandi, Kal Mercer. Apariciones: Katherine Rowe, dos hombres de Silas Crowe (sin nombre), una doctora del barrio (sin nombre), Nadir Amrani, Danny Hayes.
@@ -19,7 +20,7 @@ Il Consorzio (2026-10-22, idea del autor; prosa DISENO pendiente de lectura): te
 Cirugia editorial 2026-10-27 (notas de lectura ChatGPT 2026-10-26, autorizada por el autor; sigue BORRADOR; prosa nueva DISENO pendiente de lectura): apertura sin la glosa del miedo a la facilidad ni del "no se arrepentia" (lo carga la grua: "lo poco que le habia costado darselo"), inventario de mensajes comprimido; reflexion de Kal sobre Crowe sin la generalizacion del barrio, el "Del guero de la grua" repetido ni el "todavia no se podia" duplicado; Danny en una sola clausula en la propuesta de la grua. Ver 98_Agent_Handoff/sessions/2026-10-27_claude_surgery_cap12_balanza.md.
 -->
 
-# Capítulo 12 — La balanza
+# Capítulo 11 — La balanza
 
 No se lo había dicho a nadie. Ni a Ettore, el único hombre en Palermo al que todavía le escribía cartas de verdad — el amigo de su padre que la había criado en todo menos el nombre después de que se quedó sin ninguno de los dos. Ni a Blake, que había dejado de llamar después de la noche del ladrillo, con un silencio que a ella le supo más a alivio que a pérdida. Ni siquiera a sí misma, en voz alta, frente al espejo, donde una frase así habría tenido que sonar de verdad.
 

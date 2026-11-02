@@ -1,7 +1,9 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 15.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 12; numeración corrida definitiva, el archivo conserva su nombre.
 PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): geometría de la franja hecha visible una vez (vidrio de la caja con Kenji a un lado, puerta batiente del pasillo de servicio al otro, piso de juego a espaldas de Kal; por eso "A espaldas de Kal, en una mesa" pasa a "En una de las mesas"); segunda interferencia del casino: un mesero con una charola obliga a Kal a dar medio paso hacia ella y no lo devuelve.
 Estado: TERMINADO.
+Rediseño de la Parte I, P-1 (2026-11-01, DECISIÓN DEL AUTOR; prosa DISEÑO pendiente de lectura; sigue TERMINADO): el asiento de la mesa tres estaba a nombre de «Invitado de la Dirección», sin nombre, y Tommaso lo apunta. Rima con el formato de alta de proveedores del Cap. 5 (V-1, solicitante: *Dirección*). Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Rediseno_Parte_I]].
 Escenas eliminadas, costura (2026-10-31, DECISIÓN DEL AUTOR; DISEÑO pendiente de lectura; sigue TERMINADO): al salir el arco de Walt (Caps. 14 y 16), la parte 2 deja de anclarse en «la noche del torneo de Walt Keegan» -> «La noche del primer torneo», y «ocupada con la mesa de Walt» -> «ocupada con las mesas». Sale la sección del contrato de Keegan («¿Quién firma lo de Keegan?», siembra del 2026-10-27): dependía de la sociedad de la destilería, suspendida; su texto se conserva en [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/README]].
 Regla de dialogo 05 (2026-10-26, encargo del autor; DISENO pendiente de lectura; el estado se conserva): diez cortes de eco/remate en reclutamiento de Kenji, el favor y la franja del Monarch. Detalle: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_roma_atrii_cap15]].
 Arco lector 11-13 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_11-13_Lector; el estado se conserva; prosa nueva DISENO pendiente de lectura): P2, P6, P7 y P8c aplicados. ROMA ATRII escrito por fuera y el papel sin abrir (cuadra con el 14); la replica de Chiara 'Lo de adentro no era para que lo leyeras...' anadida al 'Si.' a '¿Lo escribiste tu?' se restauro a 'Si.' en VERIFY (orden de revelaciones, Cap. 38); VERIFY V6: 'que no leia' -> 'que no entendia'; las cuatro palabras de esa noche se escriben y rompen en la oficina del Monarch tras el torneo (no en el penthouse, donde llega Kal en el 11); 'La noche del torneo de Walt Keegan'; 'Chiara sonrio apenas'. R2 (2026-10-22): papel de cartas sale del bolso, no del cajón (coherencia con el cajón del penthouse del Cap. 13).
@@ -18,7 +20,7 @@ Siembra 2026-10-27 (decisión del autor; prosa DISEÑO pendiente de lectura; sig
 Lectura ChatGPT 2026-10-27 (autorizado por el autor; sigue TERMINADO): O-06 nota de Mabel "antes de que la ciudad tuviera nombre para lo suyo con Mercer" -> "antes de lo de Mercer" (la ciudad no sabe que están juntos, Kal_y_Chiara); O-01 (segunda lectura ChatGPT, decisión del autor): Kenji no paga ni falsea el cobro; "dejar la pieza a su nombre, pendiente de que el comité la confirmara, y cargarle la falla al sistema" (tercera lectura ChatGPT: "dar por pagada" era alterar un registro; ahora cuadra con su "mañana el comité le confirma el monto correcto"; la única mentira es la falla; "salió gratis" queda literal) y l. 61 "cualquiera con buena voluntad podía ahorrarle una vergüenza a un viejo"; O-03/O-04 (propuesta de subagente, verificada): fuera la tesis "no necesitaba una sola red. Necesitaba dos...", queda conclusión de Chiara en una línea; "imposible de rastrear" pasa a creencia de ella ("por una ruta que ella creía..."); Kenji "había aceptado el favor" / Mabel "no había aceptado nada"; O-07: interior de Kal podado (fuera "en otra vida" y "exactamente"; la carrera se restauró corta por decisión del autor, ", y la que le costó la carrera": única siembra en prosa del par bebé comprado / carrera perdida antes de Halbrook, ficha de Kal l. 210); el territorio se conserva al frente (prepara "En tu patio") y la oración cierra en "cuando lo compraron de bebé". Prosa DISEÑO pendiente de lectura. Ver 98_Agent_Handoff/ChatGPT/2026-10-27_lectura_cap15_roma_atrii_observaciones_estrategias.md.
 -->
 
-# Capítulo 15 — Roma Atrii
+# Capítulo 13 — Roma Atrii
 
 Semanas antes del torneo, la tarjeta se negó dos veces antes de que el hombre del esmoquin empezara a sudar.
 
@@ -95,6 +97,10 @@ Chiara sintió el nombre antes de oírlo completo.
 —Ya me contó la versión —siguió Tommaso, con la pausa exacta que usaba siempre—. La tuya, esta vez.
 
 Ella no se movió. Tommaso esperaba encontrar algo en la cara, y no había nada que encontrar.
+
+—La reservación estaba a nombre de la Dirección —añadió—. *Invitado de la Dirección.* Sin nombre.
+
+Lo apuntó en el reverso de la lista de mesas, con la letra chica que usaba para lo que pensaba preguntar después.
 
 No fue el comentario. Los comentarios los manejaba dormida. Fue la ruta.
 

@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 21.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 17; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «Cuentas claras».
 Estado: TERMINADO. **Cirugia de dialogo de terceros 2026-10-04 (sesion S1 de 13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I; nota en 98_Agent_Handoff/sessions/2026-10-04_claude_cirugia_terceros_S1.md): la prosa nueva es DISENO pendiente de lectura del autor.** Irene sin muestras de ficha ni aforismos: cotiza, se queda con la distincion error/guerra y cobra el aviso del rumor como deuda anotada (decision del autor: Kal le debe el nombre de quien planto el rumor, "a mi primero"); Walt dice conclusiones en una linea y suelta el Tasador en pedazos (Hector completa la barreta); Nadir con lineas de cuenta; Danny da el escalon 2 de consumo (excusa de mas sobre el billar, decision del autor); Hector sin "peor que un error" y tuteando a Walt; fuera "dijo, al final" y "Eso no tiene precio fijo" queda contestado por Hector. Version previa: ajuste 2026-10-04 autorizado por el autor: una linea tras "El Tasador" ancla la sospecha de Kal en Calle Corona, Cap. 9; aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-26 (Prioridad C, 5-ter, autorizada por el autor, sigue TERMINADO): se corta la escena de Tomas Vale en el minimarket (Walt nombra a Irene; Irene nombra a Tomas al soltar a Nadir y Danny), se compactan la negociacion (fuera las armas que no bajan), el recuento, el Tasador y la salida, se cortan el tercer "preguntate quien queria", "¿Y si es Dario?" y la ultima frase interpretativa (el capitulo cierra en el cafe). Se corrige la atribucion de la regla de Irene. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17.md. La linea de Funcion de abajo describe la version previa en lo que toca a la apertura.
@@ -13,7 +14,7 @@ Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasad
 Hilo del Tasador (2026-11-01, DECISIÓN DEL AUTOR; prosa DISEÑO pendiente de lectura; [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]]): Kal sospecha de Crowe sin certeza (fuera "No era pregunta") y registra una precisión que no es del Tasador (V-3 fundido); sin nombre. "Y de la cancha" cobra la visita del Cap. 12.
 -->
 
-# Capítulo 21 — Le quedé debiendo
+# Capítulo 18 — Le quedé debiendo
 
 Walt se lo dijo a la mañana siguiente, en la puerta del taller, sin darle vueltas.
 

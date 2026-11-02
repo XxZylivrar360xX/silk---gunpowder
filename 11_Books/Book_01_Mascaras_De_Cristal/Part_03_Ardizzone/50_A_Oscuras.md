@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 59.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 50; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 50 (séptimo y último del arco final sin Kal; capítulo 50 del bloque de cierre 44–50b). El Cap. 50b completa la Parte III y cierra el Libro I. Reescrito 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Base anterior: el viejo Cap. 44 (Sonnet, 2026-09-22; cirugía E8 2026-09-27); de esa versión se conservan el título, la columna del monólogo, la Beretta, la isla, la luz que vuelve y "—Ciao, bella.". Todo lo demás (Héctor, abogados, Lucía, recepción) ya vive en los Caps. 44–45 y salió de aquí. Pendiente de lectura del autor.
 Título: "A oscuras" — CONFIRMADO Y DEFINITIVO por el autor (2026-09-22).
@@ -24,9 +25,10 @@ DISEÑO del agente, pendiente de lectura:
 - Dudas resueltas por el autor (2026-10-03, auditoría del arco, Q22 y Q25): (1) "ma dai" en minúscula y redonda; (2) el "Ciao, tesoro" al valet se conserva (excepción del arco anotada en la ficha de voz de Chiara); (3) la radio de las "tres subestaciones" se conserva: conecta con el timeline y con *Voto de Ceniza*.
 - Regla de diálogo 05 (2026-10-28, DISEÑO, espera lectura): fuera «¿Nadie?» / «Eso dijo. Que no venía» (Mabel suma «Que Rafe cumplió» al recado), el «No» de Chiara a «No me digas quién» (se termina el café) y su «Ya sé» al valet (su única palabra para él es «Ciao, tesoro»). [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_a_oscuras_cap56]].
 - No se nombra a Halbrook, el señuelo, el expediente ni la mecánica de la salida. Sin reconciliación, sin "te amo". Última línea absoluta: "—Ciao, bella." Sin EPUB, commit ni push.
+- Hilo del Tasador (2026-11-01, DECISIÓN DEL AUTOR: el trabajo para Crowe se ve en señales desde Chiara; prosa DISEÑO, espera lectura; plan [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]]): al salir de La Esquina, la grúa grande del Patio baja hacia el sur con un sedán en la plataforma («como cualquier remolque», eco del 56), alguien con el codo en la ventanilla (Nadir en el 56), y detrás el sedán rojo de defensas cromadas de la visita del 12. Chiara lo ve y no lo interpreta. Es el trabajo para Crowe; «Héctor, que no sabía nada del sur» gana segundo sentido sin tocarse.
 -->
 
-# Capítulo 59 — A oscuras
+# Capítulo 55 — A oscuras
 
 A las diez y media Mabel volteó el letrero de la puerta y apagó la mitad de las luces.
 
@@ -87,6 +89,8 @@ La campanita sonó una vez detrás de ella.
 ---
 
 El Lancia estaba frío por dentro. Chiara lo encendió y se quedó un momento con las manos en el volante, mirando Avenida Almendra por el parabrisas: la cortina bajada de la tlapalería, el poste con el anuncio de un circo que había pasado en agosto, un perro cruzando sin prisa por la raya del centro.
+
+El perro se apartó para dejar pasar la grúa grande del Patio. Bajaba hacia el sur con un sedán amarrado en la plataforma, como cualquier remolque a esa hora, y en la cabina alguien llevaba el codo fuera de la ventanilla. A media cuadra la seguía un sedán largo y viejo, de un rojo que había sido mejor, con las defensas cromadas. Chiara los vio pasar en el parabrisas hasta que se los tragó la avenida.
 
 A dos cuadras, a la izquierda, estaba la calle del loft.
 

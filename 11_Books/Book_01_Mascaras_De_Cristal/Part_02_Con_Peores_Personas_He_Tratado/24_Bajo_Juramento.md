@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 29.
 FUSIÓN 2026-11-01 (DECISIÓN DEL AUTOR 2026-10-31; prosa DISEÑO pendiente de lectura; ver §Arco legal de Hoover en 98_Agent_Handoff/sessions/2026-10-31_claude_carretera_libro_i.md, puntos 1–9, y 98_Agent_Handoff/sessions/2026-11-01_claude_fusion_bajo_juramento.md).
 Estado: BORRADOR (la fusión reabre el capítulo; antes los dos archivos estaban TERMINADOS desde 2026-09-12). Numeración: sigue diciendo Cap. 29 hasta la renumeración única del autor; el archivo 23 (*Nada caro*) queda absorbido aquí y lo retira Codex en su fase B (no se movió en esta sesión).
 Qué es: el Cap. 28 *Nada caro* (archivo 23) y el Cap. 29 *Bajo juramento* (archivo 24) en un solo capítulo, *Bajo juramento*. ~3,770 palabras de prosa (antes 4,612 entre los dos; la meta del autor era ~3,400 con la videollamada: quedan ~370 de margen para poda adicional, sin tocar lo conservado).
@@ -27,7 +28,7 @@ Reporte ChatGPT 2026-10-28 ([[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_cap28_
 La cabecera del archivo 23 (Nada caro: teoría jurídica, Rivers/Connors, Rocco, regla 05, siembras S5/S6) sigue en ese archivo y viaja con él a Escenas eliminadas.
 -->
 
-# Capítulo 29 — Bajo juramento
+# Capítulo 25 — Bajo juramento
 
 Los primeros tomates salieron verdes. La tierra del norte ya tenía surcos de verdad, y el de arriba, el dueño del agua, ya no iba a cerrar el canal en julio: Harper había subido a hablar con él un domingo y nunca le contó a Kal qué se dijeron.
 

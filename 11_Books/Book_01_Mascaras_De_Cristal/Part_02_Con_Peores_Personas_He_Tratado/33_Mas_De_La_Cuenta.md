@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 41.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 33; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «Más de la cuenta».
 Estado: BORRADOR — penúltimo capítulo de la Parte II (Cap. 33 de 34). Pendiente de revisión del autor. Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]], § 9 parte 4); sigue BORRADOR. Cirugía de narrador 2026-10-05 (M33-1 a M33-3 de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Marisol_Detector_Infalible]]: tres acotaciones que certificaban la agudeza de Marisol; diálogo intacto); sigue BORRADOR.
@@ -34,7 +35,7 @@ Continuidad:
 **Beat del cuadro (2026-10-02, CANON DEL AUTOR: gesto cotidiano, silencioso, con moño, sin exposición; prosa DISEÑO del agente, pendiente de lectura):** abre el capítulo en el penthouse, antes del Monarch. Paga la foto que Héctor toma sin avisar en el Cap. 31; vuelve en el Cap. 50. Kal durmió en el penthouse esa noche (confirmado por el autor 2026-10-02). Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
 -->
 
-# Capítulo 41 — Lo único que es mío
+# Capítulo 37 — Lo único que es mío
 
 El cuadro estaba en la mesa cuando salió del cuarto, junto a su taza, como si siempre hubiera estado ahí. Marco de madera clara. Un moño rojo, un poco chueco. Ninguna nota.
 

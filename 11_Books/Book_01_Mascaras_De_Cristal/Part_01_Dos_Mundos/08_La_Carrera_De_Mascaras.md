@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 10.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 8; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: TERMINADO. Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): "semanas atras" -> "dias atras" (Cap. 7); fuera el amanecer a las dos de la manana y la prolepsis de la Colombina ("No volvio a acordarse de ella"; queda disponible para reaparecer); fuera el parrafo "Esa semana... Recortado" (lo hace 21), "el reverso de la primera reunion" y "El camaleon perfecto" (palabra reservada a Kal); "Mandorla" leido desde Chiara (salto de POV). Siembra S3 (hilo B): la cerca de Camp Alder, una imagen, Kal no gira la cabeza. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B.md §9.
 Pagos de la costumbre 3-6 (2026-09-30, propuesta del autor, redaccion DISENO del agente; sigue TERMINADO pendiente de lectura): (1) Rumbo a La Tramoya, Kal cuenta como chisme la entrega de Nadir para Dario (cobra el encargo del Cap. 7): Kal manejo, Danny y Hector fueron; Dario sale del granero con gabardina, capucha y mascara de plata brillante ("¿el cliente o el jefe final?", Nadir: "Batman"). No se nombra la carga. Cierra con "Hablando de mascaras". Primer italiano de comodidad: "Madonna, Kal". "Nada de brillos" en La Tramoya queda como eco. (2) Rumbo a Kingsley: Chiara admite que la noche posterior a Gabriella's fue mala, no explica; Kal no excava y cambia el aire con la fiscal que lo invito a "un cafe en un lugar mas privado" ("trabajando no bebo ni agua"; Garrett se lo explica; "¿Y era guapa?" / "Era fiscal"). Italiano de comodidad en escalada; Kal empieza a reconocerlo sin traducirlo. La fiscal queda sin nombre (no fijada como Claire Han). La carcajada de la carrera sigue siendo la primera perdida total de control de la risa.
@@ -10,7 +11,7 @@ Funcion: ejecutar H9 -- Kal saca a Chiara de su zona de confort y le presta una 
 Separacion 2026-10-23 (decision del autor): el capitulo termina en la carcajada de la carrera; la persecucion con Collins y el resto de la noche (escaner, Milla, Plaza Corona, Canal Seco, patio de vias, regreso al Monarch, la Colombina en el asiento, "quiero repetirla") pasan al Cap. 11, *La teniente* (archivo 08b). La Funcion de arriba describe H9 completo, repartido entre los dos.
 -->
 
-# Capítulo 10 — La carrera de máscaras
+# Capítulo 9 — La carrera de máscaras
 
 Il Gelsomino cerraba a las nueve entre semana, y para las ocho y media ya no quedaba nadie en la terraza salvo ellos dos y una silla que el mozo había subido a una mesa sin llegar a las demás.
 

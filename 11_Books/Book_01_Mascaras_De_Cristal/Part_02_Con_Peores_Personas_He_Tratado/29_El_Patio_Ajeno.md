@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 37.
 Corte de parte 2026-10-29 (decisión del autor): la Parte II abre ahora en el Cap. 26 (*La cifra*); el ordinal «N-ésimo capítulo de la Parte II» de abajo es anterior a ese corte.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 29; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «El patio ajeno».
@@ -36,7 +37,7 @@ Continuidad:
 - DOCUMENTOS DE `develop` QUE QUEDAN DESACTUALIZADOS POR ESTA REESCRITURA (no tocados en este encargo, sólo reportados): [[02_Characters/Dario_Varek]] ("Kal se ofrece a trabajar para él, como parte de la organización"), [[01_Timeline/00_Estructura_del_Ascenso]] y [[01_Timeline/02_Cadena_De_Eventos_Libro_I]]. También [[06_Relationships/Hitos]], sección H6 §5 ("Kal ofrece trabajar para Varek... a cambio, seguridad para Chiara"), documenta el mecanismo antiguo. La nueva mecánica narrativa: **Kal conduce a Varek a ofrecerle una silla**, y consigue cobertura para su gente y protección indirecta para Chiara sin pedir ninguna de las dos cosas en esos términos. *(Housekeeping 2026-09-27, E8: anotado sin sobrescribir en Hitos H6 §5, [[02_Characters/Dario_Varek]] y [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]]; reescribir el hito queda a decisión del autor.)*
 -->
 
-# Capítulo 37 — Una silla
+# Capítulo 33 — Una silla
 
 La llamada había durado tres palabras de él y cuatro de Varek. *Ven ahora. Sabes dónde.* Kal condujo con las dos manos en el volante y las costillas contestándole en cada bache, y no bajó la velocidad hasta que la reja de tela metálica del barrio quedó atrás y empezaron las otras rejas, las que no eran de nadie que él conociera.
 

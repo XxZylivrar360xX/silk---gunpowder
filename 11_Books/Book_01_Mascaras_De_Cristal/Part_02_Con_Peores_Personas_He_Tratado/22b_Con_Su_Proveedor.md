@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 27.
 Corte de parte 2026-10-29 (decisión del autor): este capítulo pasó a la Parte II (de `Part_01_Dos_Mundos` a `Part_02_Con_Peores_Personas_He_Tratado`); las menciones a «Parte I» de abajo son históricas.
 Estado: BORRADOR (redacción del agente 2026-10-28 con `chapter-drafting`, sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]; DISEÑO pendiente de lectura del autor).
 Sustituye, junto con el 22a, al Cap. 25 *Causalidad* (archivo 22). Numeración: Cap. 26 de 58 (renumeración aplicada 2026-10-28; *Nada caro*, archivo 23, pasó al 27). El título *Con su proveedor* es DISEÑO del agente, discutible (sale de la línea canon de Dario).
@@ -16,7 +17,7 @@ Provisional / a revisar con el autor:
 Cirugía 2026-10-28 (reporte ChatGPT [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_caps25_26_robo_monarch_la_cifra_con_su_proveedor]], aprobada por el autor): «El martes. A la una de la madrugada» (O-01); Nadir y Danny cobran tres mil cada uno (O-02); el alto mira el camino antes de ceder (O-03); la barrera «se había quedado arriba» (O-04). **CANON DEL AUTOR (O-05):** Roy Boone deserta tras la detención (narcóticos encuentra su casa vacía a las seis); sin líder, los Devil Splicers se deshacen, y para el Cap. 43 «ya no existía». Pasada `editorial-surgery` el mismo día: [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_caps25_26_robo_monarch]].
 -->
 
-# Capítulo 27 — Con su proveedor
+# Capítulo 24 — Con su proveedor
 
 Danny había visto el video once veces cuando Kal colgó con Chiara.
 

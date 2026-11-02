@@ -1,4 +1,6 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 36.
+COSTURA H13 (2026-11-01, DECISIÓN DEL AUTOR; prosa DISEÑO, espera lectura; sigue BORRADOR): con la bala de julio ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21b_Grazie]]) la explicación del «agua al cuello» se carga para el lector: si ella está en peligro, se aleja para protegerlo; Kal lo entiende como abandono. Una línea tras «largarte»: el bolso en la barra, el pañuelo adentro. Diálogo y CANON intactos. Se cobra en el 47 (archivo 38).
 Corte de parte 2026-10-29 (decisión del autor): la Parte II abre ahora en el Cap. 26 (*La cifra*); el ordinal «N-ésimo capítulo de la Parte II» de abajo es anterior a ese corte.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 28; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «La correa».
@@ -50,7 +52,7 @@ RECONSTRUCCIÓN 2026-10-01 (Claude Code, CANON DEL AUTOR — SUPERSEDE las notas
 - CONTINUIDAD (2026-10-04, autor): la baranda del balcon ya no la "hizo conservar" Chiara por estetica; en el Cap. 10 fue Kal quien no dejo quitarla y ella sabe que era la casa de sus padres (y, por el mirador del Cap. 20, el arresto de Dale en la calle). Linea: "la baranda de hierro que Kal no habia dejado quitar". Sin glosa.
 -->
 
-# Capítulo 36 — No hace falta
+# Capítulo 32 — No hace falta
 
 La sudadera olía a él y a solvente, y a un jabón barato que Kal compraba por caja y que Chiara no habría elegido nunca y que ahora, puesta, le pareció lo más parecido a estar acompañada que iba a conseguir esa noche.
 
@@ -363,6 +365,8 @@ Kal la miró un rato largo. En su cara pasó algo parecido a lo que pasa cuando 
 —Entiendo que estés enojado —dijo Chiara—. Pero a lo mejor no estás entendiendo lo que te estoy intentando decir.
 
 —Pues parece que no. Ojalá cambiara todo. —Kal se apoyó en la barra, al lado de las fotos—. Me lo dejaste claro, hace días. En esta misma casa. Que el día que tuvieras el agua al cuello, no tendrías problema en agarrar tus cosas y largarte.
+
+El bolso estaba en la barra, junto a las fotos, a una mano de la de él. Adentro, doblado en cuatro, junto a lo otro, seguía el pañuelo.
 
 —Sí. —Chiara miró la escalera del mezzanine, sin querer—. Fue cuando ibas subiendo la escalera. Pues en ese momento lo pensé. Dije: no voy a ser ni un pensamiento en su cabeza. —Se encogió de hombros dentro de la sudadera—. Fíjate que lo pensé y no te dije nada.
 

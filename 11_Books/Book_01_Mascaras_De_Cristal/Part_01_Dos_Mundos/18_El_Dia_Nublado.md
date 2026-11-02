@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 22.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 18; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 a «Nadie lo llamó cita» y revertido 2026-10-22 (decisión del autor): se conserva «El día nublado», decidido en la primera ronda (2026-09-20).
 Lluvia (2026-10-08, CANON DEL AUTOR; prosa DISEÑO pendiente de lectura; el resto sigue TERMINADO): la nube se rompe ya en el penthouse, torrencial, y el agua borra la ciudad en el ventanal. Se descartan la subida con lluvia, el elevador y el casino cerrado.
@@ -9,6 +10,7 @@ Protagonistas: Kal Mercer, Chiara Bellandi.
 Ventana temporal: dias despues del Capitulo 17 (Cuentas claras / Anticiparse, la negociacion con Irene y la reunion en casa de Hector). Antes del Capitulo 20 (H11, el mirador). Reordenado el 2026-08-29: H10 -> H4 -> H11; renumerado varias veces, la ultima el 2026-09-03 al fusionar los capitulos de la negociacion con Irene y la reunion del barrio en un solo Capitulo 17.
 Lugares: Il Gelsomino (terraza), boutique de golf en el norte, campo de golf al norte de San Aurelio, carretera del norte, The Monarch / El Penthouse.
 Funcion: ejecutar [[06_Relationships/Hitos]] (#H4 — El dia nublado). Golf + juego de preguntas + revelacion sobre el exmarido + Kal deduce, sin que ella lo diga, que Chiara mato a su exmarido + Kal toma la decision interna que interpreta como "quedarse". NO formaliza la relacion, NO hay beso: solo hombro, mano y dormirse juntos sin nada fisico. "Somos solo buenos amigos" sigue siendo la ficcion oficial.
+Rediseño de la Parte I, K-2 (2026-11-01, DECISIÓN DEL AUTOR; prosa DISEÑO pendiente de lectura; el estado se conserva): en el quinto hoyo Kal pierde y no contesta «¿Qué hacías antes del taller?»; Chiara la deja pasar y busca algo liviano (la canción), aunque después le cobra su regla palabra por palabra. Única pregunta que Kal no contesta en el juego. Nada del origen se dice. Toca H4. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Rediseno_Parte_I]].
 Version expandida (2026-09-07), a peticion del autor: nueva apertura completa antes del golf -- Chiara toma vino a las 4pm en la terraza de Il Gelsomino (restaurante donde Kal tiene un arreglo informal de mantenimiento/proteccion, ver Cap. 1, con Enzo el mesero); Kal llega sin avisar, se sienta como si siempre hubiera estado invitado, platican largo; Enzo pregunta si van a cenar, Kal anuncia el plan de golf improvisado en el momento (Chiara se sorprende, nunca lo acordaron, pero le sigue la corriente); intercambio de la cuenta ("no me gusta deberle favores a nadie" / "es solo un prestamo temporal"); en el auto, negociacion de las reglas del codigo de vestimenta (cada quien elige el outfit del otro); escena en la boutique (Kal rechaza la boina, Chiara le dice que la falda que el eligio es demasiado corta, chiste picaro pero no atrevido sobre sus piernas); llegada al campo, Chiara paga las entradas, explica los palos, chiste de Kal sobre partirle la cabeza a alguien con un palo frente a la empleada del mostrador. El resto del capitulo (juego de preguntas, revelacion del exmarido, el auto de vuelta, el penthouse) no se toco.
 Apertura por residuo: profundiza el cierre del Capitulo 16 (la mano sobre la mano en el hospital; lo que Hector le dijo a Kal y no se repite) y, mas cercano, el Capitulo 17 (Kal deseando en silencio que alguien le hubiera enseñado a el la misma regla de anticiparse que acababa de ensenarle a Nadir y Danny).
 Confirmado por el autor (2026-08-29): esta escena ES "el dia nublado" que menciono el autor; Blake Stanton ya esta fuera del cuadro y no se menciona por nombre; el campo de golf no lleva ficha y la propiedad de Kal queda vaga a proposito (chiste). Ver [[06_Relationships/Hitos]] #H4, seccion Pendientes.
@@ -22,7 +24,7 @@ SURGERY 2026-10-28 (reporte ChatGPT, lectura del Cap. 21; sigue TERMINADO, la pr
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N18-1 a N18-5 (N18-6 conservado). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 -->
 
-# Capítulo 22 — El día nublado
+# Capítulo 19 — El día nublado
 
 Lo que se le quedó a Kal del hospital no fue el infarto de Héctor. Fue una frase.
 
@@ -274,7 +276,13 @@ Ella le tocó el brazo, sin darle más peso del necesario.
 
 —En serio. Eso ya no me hace sentir nada.
 
-El quinto lo perdió Kal por un golpe que él no contó y ella sí. Chiara buscó algo liviano a propósito.
+El quinto lo perdió Kal por un golpe que él no contó y ella sí.
+
+—¿Qué hacías antes del taller?
+
+Kal sacó la bola del hoyo y se la guardó en el bolsillo. No contestó, y no hizo como que no la había oído.
+
+Chiara contó tres segundos. Después buscó algo liviano, a propósito.
 
 —La peor canción que te sabes completa.
 

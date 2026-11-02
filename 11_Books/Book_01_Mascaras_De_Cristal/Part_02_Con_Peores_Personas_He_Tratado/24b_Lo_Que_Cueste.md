@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 30.
 Corte de parte 2026-10-29 (decisión del autor): este capítulo pasó a la Parte II (de `Part_01_Dos_Mundos` a `Part_02_Con_Peores_Personas_He_Tratado`); las menciones a «Parte I» de abajo son históricas.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 24b; numeración corrida definitiva, el archivo conserva su nombre. Hoy Cap. 29 (numeración de 58, 2026-10-28; fue el 28 en la de 57).
 Estado: BORRADOR (2026-10-01, Claude Code, encargo del autor; falta revisión del autor). Regla de diálogo 05 aplicada 2026-10-28 (DISEÑO, espera lectura): 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_lo_que_cueste_cap28.md (nombre de sesión en la numeración de 57). Vigente: va entre el Cap. 28 (Bajo juramento, archivo 24) y el Cap. 30 (El corral, archivo 24c); el 31 es Libros abiertos (archivo 25). Historia (2026-10-01): se insertó como capítulo NUEVO entre el 24 (Bajo juramento) y el 25 (Libros abiertos) de entonces, sin renumeración (decisión del autor): el manuscrito no mostraba números, el orden lo daba el nombre de archivo ("24b" ordena entre 24 y 25) y el encabezado iba sin "Capítulo N". Superado por la numeración corrida del 2026-10-22.
@@ -20,7 +21,7 @@ No resolver:
 Craft: voz según 12_Craft_Policies/voice (Kal, Chiara, Nadir). Nadir: darija con moderación, la pregunta de dinero como arma, el silencio como alarma, nunca "suerte". Sin tags emocionales; "dijo" por defecto.
 -->
 
-# Capítulo 30 — Lo que cueste
+# Capítulo 26 — Lo que cueste
 
 El teléfono estaba bocarriba sobre el banco de trabajo, entre una caja de tornillos y el trapo de las manos, y Kal llevaba una hora sin llamar a nadie.
 
