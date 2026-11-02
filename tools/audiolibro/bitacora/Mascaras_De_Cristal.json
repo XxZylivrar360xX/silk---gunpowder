@@ -174,7 +174,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:56"
+      "desde": "2026-11-01 23:00"
     },
     "22a_La_Cifra.md": {
       "capitulo": 23,
@@ -3109,6 +3109,16 @@
       "2026-11-01 22:56",
       "Cap. 56 (50b_La_Tierra_Bajo_Sus_Botas.md)",
       "audio generado"
+    ],
+    [
+      "2026-11-01 22:58",
+      "Cap. 22 (21b_Grazie.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-01 23:00",
+      "Cap. 22 (21b_Grazie.md)",
+      "audio regenerado"
     ]
   ]
 }
