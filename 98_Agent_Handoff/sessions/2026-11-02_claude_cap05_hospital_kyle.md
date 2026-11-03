@@ -83,3 +83,7 @@ Reglas afinadas (DISEÑO a pedido del autor): excepción de la regla 05 y de la 
 Hecho (SURGERY, DISEÑO, BORRADOR): un solo anuncio de las semanas; servicios sin emergencia al montaje; fuera la escena de Kal en la Almendra; el mensaje de la rueda pasa a POV Chiara («No contestó.») y Kal llega a la mañana siguiente por la caseta a arreglar el carrito. Cadena: bisagra → Tommaso → autorización → rueda → caseta → Dirección → Blake. Hospital: fuera las tres radios; pregunta de Kyle antes de la confirmación; dos avisos del guardia (veinte minutos; «Ya localizaron a la madre»). Café sin receta. Detalle en el comentario del capítulo; texto retirado en Escenas_Eliminadas/README.
 
 Pendiente: la receta («las mismas pastillas, seis meses más») puede volver en un momento cotidiano con función propia (enlaza con el punto 3).
+
+## Receta, despedida y eco en el 6 (mismo día, decisión del autor)
+
+La receta vuelve tras el departamento de Blake (cita el miércoles, consulta el viernes): vida sexual y cuidado propio, sin vecindad con «señora Mercer». CANON DEL AUTOR (intención): el niño percibe la química de pareja; Chiara, por Alessio, aún cree que un niño en su mundo sería un error (subtexto). Despedida: «No, no es…» de Kal, cortado; Chiara niega y sonríe. Eco en 05c: «Esta vez no le dijo "no, no es"». Resuelve el pendiente de la receta.

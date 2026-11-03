@@ -7,6 +7,7 @@ Funcion: H2-a completo, la primera cena que ninguno llama cita: Rocco y la pata,
 Historial de cirugias y decisiones del antiguo Cap. 5 (Una amiga), previo a la segmentacion: ver el comentario de 05a_Cliente_Y_Proveedor.md.
 Rocco (2026-10-22, decision del autor; DISENO de redaccion): primera descripcion fisica, pitbull cafe de cabeza ancha, oreja mordida "desde antes de llegar al taller" (origen callejero) y la mancha blanca en el pecho que ya existia. Ficha: 02_Characters/Rocco.md.
 Transicion cliente-proveedor -> Kal que quiere impresionar (2026-10-24, decision del autor; regla 05 + segunda pasada; DISENO del agente, los ojos por idea del autor): escalera, Kal ofrece la salida ("Si prefiere, nos pone mesa adentro"); Kal se pilla a si mismo tras el discurso de la fiscalia: la vela de la calabaza, eco de los ojos del Cap. 2 ("verdes por dentro, oscuros en el borde") y de Natalie en el Cap. 3 ("De los ojos que los miren"), "¿Me lo repite? Eso no lo entendi" y ella lo repite palabra por palabra sabiendo por que (sustituye "Kal lo penso"); Rowe, Chiara se pilla a si misma (fuera "¿Y?": la uña y "paro a la mitad"; siembra "¿La del brazo?" del 10); Dario, "¿Y esto?" / "Esto no."; coche, fuera "No era una pregunta dificil" y "Kal puso la direccional en una calle vacia" (el buen conductor falla en lo simple); despedida, fuera "Gracias por venir". Reporte: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]].
+Eco de "señora Mercer" (2026-11-02, pedido del autor; DISEÑO): tras "qué bonita pareja" de Enzo, Chiara cobra la despedida del hospital del Cap. 5: "Esta vez no le dijo «no, no es». —Abrió los ojos—." antes de "Diga la verdad. ¿Cuánto les pagó?".
 -->
 
 # Capítulo 6 — La pizza de calabaza
@@ -531,7 +532,7 @@ Kal esperó a que bajara la escalera.
 
 Chiara sonrió con los ojos cerrados.
 
-—Diga la verdad. ¿Cuánto les pagó?
+—Esta vez no le dijo «no, no es». —Abrió los ojos—. Diga la verdad. ¿Cuánto les pagó?
 
 —Nada. Yo no les he pagado nada. —Kal se agachó hacia debajo de la mesa—. ¿Verdad, Rocco? Yo no te he pagado nada.
 

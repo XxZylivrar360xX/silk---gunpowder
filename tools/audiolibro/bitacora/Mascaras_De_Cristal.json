@@ -43,10 +43,10 @@
     "05c_La_Pizza_De_Calabaza.md": {
       "capitulo": 6,
       "titulo": "La pizza de calabaza",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:20"
+      "desde": "2026-11-02 22:04"
     },
     "06_Ambos.md": {
       "capitulo": 7,
@@ -3143,6 +3143,11 @@
     [
       "2026-11-02 21:33",
       "Cap. 5 (05a_Cliente_Y_Proveedor.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-02 22:04",
+      "Cap. 6 (05c_La_Pizza_De_Calabaza.md)",
       "audio pendiente: cambió la prosa"
     ]
   ]
