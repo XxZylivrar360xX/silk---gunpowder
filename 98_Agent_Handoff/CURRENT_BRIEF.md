@@ -10,6 +10,7 @@ Actualizado: 2026-11-01. Máximo 800 palabras. **Numeración del 2026-11-01: 56 
 
 ## Borradores recientes que esperan lectura (Libro I)
 
+- **Cap. 6 *La pizza de calabaza* (05c)**, BORRADOR desde 2026-11-02: escena nueva de apertura, la invitación a cenar (beats del autor, POV Kal; Chiara le termina la frase; ella elige la marquesina); Il Gelsomino sin ping-pong (regla 05; canon intacto). Detalle en el comentario del archivo.
 - **Arco de Walt** (fuera del libro desde 2026-10-31; candidato a *Sombras de Poder*): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/00_Plan_Arco_Walt_Condicional]]. Tommaso no cobra.
 - **Robo del Monarch** ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]): Caps. 26 *La cifra* (22a) y 27 *Con su proveedor* (22b), BORRADOR; sustituyen a *Causalidad* (git `085b3fc`).
 - **Caps. 31 *Oveja entre lobos* (24c) y 32 *Vienes conmigo* (24d)**, CANON, prosa DISEÑO: [[98_Agent_Handoff/sessions/2026-10-29_claude_cap30_oveja_entre_lobos]]

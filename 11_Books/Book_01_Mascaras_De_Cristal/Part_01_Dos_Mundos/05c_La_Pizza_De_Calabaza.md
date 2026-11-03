@@ -1,7 +1,9 @@
 <!--
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 7.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 05c; numeración corrida definitiva, el archivo conserva su nombre.
-Estado: TERMINADO (heredado del Cap. 5; segmentado).
+Estado: BORRADOR desde 2026-11-02 por la escena nueva de la invitación (el resto, heredado TERMINADO del Cap. 5; segmentado).
+Invitación (2026-11-02, idea y beats del autor; prosa DISEÑO, BORRADOR pendiente de lectura; POV Kal): abre el capítulo. Llamada del martes ("¿Está en el casino?" / "¿Tiene un par de minutos? Quisiera aclarar un asunto." / "Sí. Yo tengo tiempo. Pásese por el casino y lo hablamos."); Kal llega en la grúa por la salida de carga; disfraza la invitación con la terraza que Claudio le ofreció (siembra del Cap. 1; cobra "Estaba disponible" en la cena); se traba ("como algo que usted y yo entiende… entendemos") y Chiara le termina la frase, adelanto del Cap. 39 (archivo 34) *Mi pareja*; línea del autor: "Claro, podemos ir a cenar sin problema."; ella elige la marquesina ("Por aquí entran las toallas", eco del alta de proveedor del Cap. 5). Il Gelsomino sin ping-pong (2026-11-02, pedido del autor: "personas que sin quererlo se están conociendo", no ping-pong ni resolución ingeniosa; regla 05; prosa DISEÑO, BORRADOR). Intacto lo canon (Enzo y el agua, pizza de calabaza, "Al enemigo hay que tenerlo cerca", Hoover y "Estoy impresionada...", empresa de seguridad, "qué bonita pareja" y cierre) y los ojos / "¿Me lo repite?". Escalera: fuera "¿Y qué es peor? / Todavía no lo decido"; entra la Festa dei Morti con la muñeca de azúcar que Chiara escondía (Kal pierde el turno) y "Me cae bien el del bigote"; la salida de Kal pasa después. Mesa: fuera la lista "Comer sí / La terraza / Estaba disponible / La camioneta / Tenía gasolina / El perro / Insistió"; Kal endereza cubiertos y explica de más (Claudio, el sobrino de la guitarra, "Puras canciones de despedida"); ella no pregunta por la camioneta ni por el perro; "Una amiga" queda sin respuesta (fuera "Si le sirve / ¿Y si no? / Podemos pedir otra"): llega Enzo. Fuera "¿Eso es bueno? / Es un mes". Café: Kal pierde la discusión por la máquina del taller. Sargento: ella pregunta por qué se lo dijo al niño; Kal contesta largo sobre el niño y corto sobre él ("Sí. Afganistán.", DECISIÓN DEL AUTOR: cierra el hueco del Cap. 7, archivo 06, donde "Chiara no preguntó por Afganistán" sin haberlo oído nunca; el origen sigue abriéndose en *Ambos*); ella no insiste y le devuelve una anécdota (la enfermera, *Bellandi* con una ele). Rowe y Connors: respuesta larga de Chiara (mesa seis, cómo pierde y gana cada uno); fuera "¿Y usted bajó a verlos perder? / Bajé a conocerlos" y "Rocco tiene criterio"; entra el zapato de Connors que Kal vio y ella no ("No lo vi"). Hoover: fuera "A menos que alguien quiera que lo haya". Palermo: el Capo detrás del tribunal, "Todavía no sé a quién creerle"; Kal responde con Danny gritando precios sobre el capó; fuera "¿En el suyo? / Los sábados".
+La apertura de Rocco pasa de "Unos días después de que la caseta dejara de pedirle nombre" a "El viernes".
 Segmentacion (2026-10-22, decision del autor): el antiguo Cap. 5 (Una amiga, ~11,800 palabras, fusion de 2026-09-10) se divide en 5a Cliente y proveedor, 5b Sin llamar a nadie y 5c La pizza de calabaza, sin renumerar el resto. La cita de Kal y Chiara (de Rocco a la despedida) queda entera en 5c.
 Funcion: H2-a completo, la primera cena que ninguno llama cita: Rocco y la pata, la camioneta, la llegada, Il Gelsomino, la acera, la despedida.
 Historial de cirugias y decisiones del antiguo Cap. 5 (Una amiga), previo a la segmentacion: ver el comentario de 05a_Cliente_Y_Proveedor.md.
@@ -12,7 +14,97 @@ Eco de "señora Mercer" (2026-11-02, pedido del autor; DISEÑO): tras "qué boni
 
 # Capítulo 6 — La pizza de calabaza
 
-Unos días después de que la caseta dejara de pedirle nombre, Kal pasó la tarde enseñándole a Rocco a dar la pata.
+Kal la llamó el martes desde la oficina del taller, con la puerta cerrada. En el escritorio no había ninguna orden de servicio con el nombre del Monarch.
+
+Contestó al tercer timbre.
+
+—Señor Mercer.
+
+—¿Está en el casino?
+
+—Sí. Trabajando. —Del otro lado se cerró una puerta—. ¿Pasó algo?
+
+—No. —Por el vidrio de la oficina, Héctor bajaba un motor con la polea y Danny le daba indicaciones que nadie le había pedido—. ¿Tiene un par de minutos? Quisiera aclarar un asunto.
+
+La línea se quedó callada lo que tarda alguien en repasar una lista.
+
+Kal oyó la frase como la habría oído ella. *Un asunto.*
+
+—Sí —dijo Chiara—. Yo tengo tiempo. Pásese por el casino y lo hablamos.
+
+Colgó antes que él.
+
+***
+
+Se llevó la grúa porque era lo que la caseta conocía.
+
+Cruzó el Puente de Piedra con la plataforma vacía. En el Bulevar Corona alguien había puesto calabazas en los escalones de una notaría, y en un semáforo un niño con alas de cartón le sacó la lengua desde el asiento trasero de un sedán.
+
+El guardia de la salida de carga miró la pantalla, miró la placa y levantó la pluma.
+
+Junto a la rampa estaba el carrito de lavandería, con la rueda nueva. Kal se agachó y la hizo girar con un dedo. Giraba bien. La hizo girar otra vez.
+
+—Si vino a cobrarme la rueda, ya se pagó.
+
+Chiara bajaba la escalera del muelle con una carpeta contra el pecho.
+
+Kal se enderezó.
+
+—No es la rueda.
+
+—Entonces es el contrato. —Abrió la carpeta—. Si hay algo en las condiciones que no le…
+
+—Tampoco.
+
+Ella cerró la carpeta y lo miró como lo había mirado en la junta del primer día, buscando por dónde iba a entrar el precio.
+
+Kal se aclaró la garganta.
+
+—Claudio, el de Il Gelsomino, me debe un favor. Me ofreció la terraza. Una noche completa.
+
+—Qué generoso.
+
+—Mucho. —Se metió las manos en los bolsillos y las volvió a sacar—. Y como no la he usado, pensé que… que se podía aprovechar. Para cenar. Como algo casual. Como algo que usted y yo entiende. —Se oyó—. Entendemos. Que no es… Lo que le quiero decir es que, si usted…
+
+Se le acabó la frase. La buscó en el piso del muelle y no la encontró.
+
+Chiara no lo rescató enseguida. Se ajustó un arete que no se había movido y lo dejó buscar un segundo más.
+
+—Que la terraza está libre —dijo— y que sería una lástima desperdiciarla.
+
+—Eso.
+
+—Claro, podemos ir a cenar sin problema.
+
+Kal asintió. Tardó en saber qué hacer con las manos después de que le dijeran que sí.
+
+—¿El viernes? A las ocho. La espero aquí, en la rampa.
+
+—Por aquí entran las toallas, señor Mercer. —Subió un escalón del muelle—. En la entrada principal. Bajo la marquesina.
+
+—Bajo la marquesina —repitió él.
+
+—A las ocho.
+
+Subió otro escalón y se volvió, con la carpeta otra vez contra el pecho.
+
+—¿Ése era el asunto?
+
+—Ése era.
+
+—Pudo habérmelo dicho por teléfono.
+
+—Pude.
+
+Ella esperó el resto. No hubo resto.
+
+—Ciao, tesoro —dijo, con la misma voz con que se lo decía al valet, y entró.
+
+Ya en la grúa, con la llave puesta, Kal cayó en que acababa de invitar a una italiana a comer italiano. El guardia levantó la pluma antes de que él decidiera si eso era un problema.
+
+***
+
+El viernes, Kal pasó la tarde enseñándole a Rocco a dar la pata.
 
 No toda la tarde, si alguien preguntaba.
 
@@ -262,15 +354,17 @@ Había una calabaza en cada escalón. Naranjas, talladas con cuchillo de cocina,
 
 —¿Un restaurante italiano que celebra Halloween?
 
-—Claudio celebra lo que deja propina. Si prefiere, nos pone mesa adentro.
+—Claudio celebra lo que deja propina.
 
-Chiara miró al esqueleto.
+Chiara se quedó mirando al esqueleto: el bigote de marcador, el delantal, la botella vacía.
 
-—En Palermo los muertos les traen dulces a los niños el dos de noviembre —dijo—. Aquí les pintan bigote.
+—En Palermo los muertos les traen regalos a los niños. La noche del primero al dos de noviembre. Te dejan dulces debajo de la cama y una muñeca de azúcar pintada, y en la mañana te dicen que te los trajeron tus muertos. —Subió otro escalón—. Yo escondía la muñeca para que me durara. Me duraba hasta que la encontraban las hormigas.
 
-—¿Y qué es peor?
+Kal no supo qué se contestaba a eso. Miró la calabaza del escalón siguiente, que tenía la boca chueca.
 
-—Todavía no lo decido.
+—Si prefiere, nos pone mesa adentro.
+
+—No. —Le dio al esqueleto una última mirada—. Me cae bien el del bigote.
 
 Arriba, entre macetas de romero, jazmín, calabazas encendidas y luces pequeñas, la mesa era de ellos.
 
@@ -282,41 +376,23 @@ Chiara dejó el bolso junto a la silla. Rocco se acostó debajo de la mesa y sus
 
 —Esto no era necesario —dijo ella.
 
-—Comer sí.
+Kal enderezó el cuchillo, que ya estaba derecho.
 
-—La terraza.
-
-—Estaba disponible.
-
-—La camioneta.
-
-—Tenía gasolina.
-
-—El perro.
-
-Kal miró a Rocco.
-
-—Insistió.
+—La terraza estaba disponible. Claudio me la debía desde lo de la camioneta refrigerada, y cuando nadie se la pide se la presta a un sobrino que toca la guitarra. —Enderezó también el tenedor—. Puras canciones de despedida. Todas.
 
 Chiara sonrió. Una sonrisa pequeña, casi privada. Kal tuvo que mirar el menú para no quedarse mirándola a ella.
 
-—Una amiga —dijo él, como si necesitara ordenar el término antes de que el silencio lo hiciera más grande.
+Ella no preguntó por la camioneta. Miró debajo de la mesa, a Rocco, que ya roncaba con el pañuelo de lado, y tampoco preguntó por él.
+
+—Es una cena —dijo Kal, todavía en el menú—. Con una amiga.
+
+Lo oyó tarde, igual que en el muelle.
 
 Chiara tomó la copa de agua.
 
 —¿Eso soy?
 
-Kal no había previsto que ella recogiera la palabra.
-
-—Si le sirve.
-
-—¿Y si no?
-
-—Podemos pedir otra.
-
-Ella soltó una risa más clara.
-
-Enzo subió la escalera como si la hubiera alfombrado él.
+Kal todavía no tenía la respuesta cuando Enzo subió la escalera como si la hubiera alfombrado él.
 
 Kal lo conocía de cocina: mandil manchado, trapo al hombro, la boca llena de opiniones sobre el espresso. Esa noche traía chaleco negro, una servilleta blanca doblada sobre el antebrazo, el pelo peinado con algo que brillaba y una postura que Kal no le había visto nunca. Se detuvo junto a la mesa a la distancia exacta de un mesero con treinta años en Milán.
 
@@ -364,15 +440,11 @@ Enzo cerró la carta con la dignidad de un hombre al que acaban de rechazarle un
 
 Claudio la mandó de todos modos. Llegó entre el pan y la pasta, cortesía de la casa: naranja, con salvia frita encima y un hilo de miel en el centro. Chiara probó la punta de una rebanada y masticó con la cara con que se escucha una mala propuesta dicha con mucha seguridad.
 
-—Sabe a octubre.
-
-—¿Eso es bueno?
-
-—Es un mes.
+—Sabe a octubre —dijo, y le empujó el plato.
 
 Kal se comió el resto. Rocco, debajo de la mesa, se comió la orilla.
 
-La noche avanzó por cosas pequeñas: pan, aceite de oliva, pasta, una discusión sobre si San Aurelio sabía hacer café, otra sobre por qué los estadounidenses creían que poner pollo encima de cualquier cosa la volvía italiana.
+La noche avanzó por cosas pequeñas: pan, aceite de oliva, pasta, una discusión sobre si San Aurelio sabía hacer café, que Kal perdió cuando admitió que el que más tomaba era el de la máquina del taller, y que Héctor la descalcificaba una vez al año, el día de su cumpleaños; otra sobre por qué los estadounidenses creían que poner pollo encima de cualquier cosa la volvía italiana.
 
 A media pasta, ella preguntó por el teléfono de Walt.
 
@@ -386,15 +458,25 @@ Kal tardó un segundo en entender que se acordaba.
 
 Le contó también de las plantas de Nadir, que Nadir llamaba medicinales y Héctor llamaba evidencia, y del mediodía en que Walt supo cuánto costaba un refresco y dejó la cuchara como si le hubieran dado una mala noticia. Ella quiso saber qué plantas. Él no le dijo. Ella se rió igual.
 
+Después se quedó con el tenedor quieto sobre el plato.
+
+—¿Por qué le dijo sargento al niño?
+
+—Porque estaba asustado. A esa edad uno quiere que alguien esté a cargo. Si le digo que me llamo Kal, me pregunta qué Kal, de dónde, si conozco a su mamá. Sargento no se discute.
+
+—¿Y lo fue?
+
+—Sí. Afganistán.
+
+Ella esperó. Kal le pasó a Rocco una orilla de pan por debajo de la mesa.
+
+Chiara no preguntó más. Siguió comiendo, y al rato le contó que la enfermera de admisiones le había hecho deletrear *Bellandi* tres veces y que a la tercera lo había escrito con una sola ele.
+
 Fue Kal quien sacó a los de la entrada.
 
 —¿Puedo preguntar por sus acompañantes?
 
-—Jugaron baccarat en la mesa seis. Rowe pierde con elegancia. Connors gana y lo cuenta.
-
-—¿Y usted bajó a verlos perder?
-
-—Bajé a conocerlos. —Bebió—. Al enemigo hay que tenerlo cerca.
+—Vienen a jugar baccarat a la mesa seis. Ella pierde sin cambiar la cara y deja propina igual. Él gana y se lo cuenta al crupier, a la mesera y a quien esté en la mesa de al lado. La primera vez bajé a conocerlos. —Bebió—. Al enemigo hay que tenerlo cerca.
 
 —¿Son enemigos?
 
@@ -408,9 +490,13 @@ Chiara bajó la copa. Lo estudió un segundo, con la cara de quien sabe exactame
 
 —Si la fiscalía va a mirar mi edificio, prefiero que lo mire desde una mesa que yo le puse. Con una copa que pagué yo.
 
-—A Connors no le cayó bien Rocco.
+Kal tardó en encontrar algo que valiera la pena devolverle.
 
-—Rocco tiene criterio.
+—Connors se limpió el zapato en la orilla de la acera. Ya junto al coche, cuando creyó que nadie lo veía.
+
+—No lo vi.
+
+Lo dijo como quien encuentra un error en un balance que ya firmó.
 
 Debajo de la mesa, Rocco movió la cola contra el zapato de Kal sin despertarse.
 
@@ -441,8 +527,6 @@ Kal levantó la vista.
 —No la invitaron.
 
 —No. —Ahora sí dejó la copa—. A mí también me extrañó. Lo que usted y yo tenemos no pasa por su lote. No hay un papel con el nombre de Hoover en ninguna carpeta mía. No había nada que hablar con él.
-
-—A menos que alguien quiera que lo haya.
 
 —¿Quién se lo dijo?
 
@@ -508,13 +592,11 @@ Ella no contestó de inmediato.
 
 Kal no preguntó qué parte.
 
-—El mercado de la mañana —dijo ella de todos modos—. Los gritos. Aquí todo el mundo vende en voz baja.
+—El mercado de la mañana —dijo ella de todos modos—. El Capo, detrás del tribunal. Pasaba antes de entrar a trabajar, por un café, y me quedaba media hora oyendo pregonar. Allá se vende a gritos: el del pescado le grita al de las alcachofas, el de las alcachofas te grita a ti, y si alguien vende callado es porque algo le falta a la mercancía. Aquí todo el mundo vende en voz baja. Todavía no sé a quién creerle.
 
-—En los lotes se grita.
+—En el lote se grita. Los sábados. Danny se sube al capó de lo que quiera vender y canta el precio hasta que alguien le baja dos mil, y luego le grita al que se los bajó que es un ladrón, y el otro le grita que el ladrón es él, y así se cierra el trato. Hoover dice que da mala imagen. —Kal se encogió de hombros—. Los sábados vendemos más que toda la semana.
 
-—¿En el suyo?
-
-—Los sábados.
+Chiara lo escuchó con la barbilla apoyada en la mano.
 
 —Algún sábado, entonces.
 

@@ -35,18 +35,18 @@
     "05a_Cliente_Y_Proveedor.md": {
       "capitulo": 5,
       "titulo": "Cliente y proveedor",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
+      "estado": "AL DIA",
+      "motivo": "",
       "audio": "2026-11-02",
-      "desde": "2026-11-02 21:33"
+      "desde": "2026-11-02 23:01"
     },
     "05c_La_Pizza_De_Calabaza.md": {
       "capitulo": 6,
       "titulo": "La pizza de calabaza",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-01",
-      "desde": "2026-11-02 22:04"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-02",
+      "desde": "2026-11-02 23:04"
     },
     "06_Ambos.md": {
       "capitulo": 7,
@@ -3149,6 +3149,16 @@
       "2026-11-02 22:04",
       "Cap. 6 (05c_La_Pizza_De_Calabaza.md)",
       "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-02 23:01",
+      "Cap. 5 (05a_Cliente_Y_Proveedor.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-02 23:04",
+      "Cap. 6 (05c_La_Pizza_De_Calabaza.md)",
+      "audio regenerado"
     ]
   ]
 }
