@@ -213,6 +213,8 @@ En su última operación, **Kal libera el convoy.**
 
 > **La ironía que ordena su vida entera y que nadie en el libro le señala:** a los dieciocho un juez le dio a elegir entre alistarse o entrar. Se alistó. **Y el ejército terminó metiéndolo de todos modos.**
 
+> **CANON DEL AUTOR (2026-11-02):** rango, sargento. Ante un niño perdido en el Hospital Santa Aurelia (Cap. 5) se presenta como «Sargento Mercer»; ahí Chiara se entera de que fue soldado. Rama, unidad y fechas siguen sin fijarse.
+
 > **Y la columna del personaje, que hay que ver sin que él la diga jamás:** a Kal **lo compraron de bebé**, de una red que movía niños. Lo que destruye su carrera es descubrir una red que mueve niños. **No liberó ese convoy por principios. Lo liberó porque él iba en uno.**
 >
 > Puede que nunca lo formule así. El lector tiene que poder verlo. Ver [[02_Characters/Warren_Halbrook]] y [[04_Concepts/Quien_Decide_Quien_Soy]].

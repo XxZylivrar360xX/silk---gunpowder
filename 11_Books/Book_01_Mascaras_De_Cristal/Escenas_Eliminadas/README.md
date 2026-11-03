@@ -144,6 +144,76 @@ Registro, contrato y caseta:
 >
 > […] No le dio las gracias. Ella no lo habría dejado, y él no lo intentó —sólo asintió una vez, se guardó el trapo y volvió a meterse debajo del coche, que tenía una fuga y no iba a arreglarse solo.
 
+### Texto retirado del Cap. 5 (archivo 05a) al entrar el episodio del hospital (2026-11-02)
+
+DECISIÓN DEL AUTOR (2026-11-02): comprimir lo que sobra tras la reunión, pasar el café de la máquina al Hospital Santa Aurelia y retirar el Walt del café salvo el teléfono. Detalle: [[98_Agent_Handoff/sessions/2026-11-02_claude_cap05_hospital_kyle]]. Ningún corte tenía cobro fuera del capítulo (`rg` en `11_Books/`); el teléfono de Walt sigue cobrándose en el 6.
+
+Montaje de los treinta días (el resto se condensó en dos párrafos):
+
+> Cuando Tommaso preguntó si había contratado a Mercer por debajo, Chiara dijo:
+>
+> —No hay contrato.
+>
+> Era cierto, y Tommaso lo aceptó porque una negación exacta es más difícil de discutir que una mentira. Chiara se quedó con la parte que no dijo: que no hacía falta contrato para que ya hubiera cuenta.
+
+El sobre en la máquina de café del Monarch (queda una línea en el hospital):
+
+> —Tiene que cobrar —dijo ella una noche, junto a la máquina de café del área administrativa. Entre los dos, sobre la mesa, había un sobre que llevaba cinco minutos ahí.
+>
+> —Cobré lo del hielo.
+>
+> —Lo del hombre del puerto. Lo tengo anotado con día y hora. Sólo me falta el monto.
+>
+> —Eso fue una batería.
+>
+> —Señor Mercer.
+>
+> Kal sostuvo el vaso de café con las dos manos. No miró el sobre.
+>
+> —Si lo agarro, ya no soy proveedor.
+>
+> —¿Y qué es?
+>
+> Lo pensó.
+>
+> —No sé cómo se llama. Pero no entra por el lobby.
+>
+> Chiara guardó el sobre en la carpeta.
+
+Walt fuera del café (se conserva el teléfono):
+
+> —¿Cómo está Walt? —preguntó ella.
+>
+> Kal levantó la vista.
+>
+> —Lo vio una noche.
+>
+> —Por eso pregunto.
+>
+> Kal miró el café.
+>
+> —Afuera.
+>
+> —No pregunté dónde.
+>
+> —Está intentando que afuera le alcance.
+>
+> Chiara no preguntó más.
+>
+> […]
+>
+> —¿Y usted? —dijo.
+>
+> —¿Yo qué?
+>
+> —¿Le alcanza?
+>
+> Kal bebió café. Estaba malo.
+>
+> —No sé todavía.
+
+Tommaso, del café a la bisagra: «No sabía que ahora el mantenimiento incluía café.» → «…incluía ferretería.»; «Chiara sostuvo el vaso.» → «Chiara puso la mano sobre la bisagra.»; «Kal dejó el vaso en la mesa.» → «Kal terminó de acomodarse la chaqueta.»; «Chiara apoyó el vaso en la mesa y no le contestó.» → «Chiara no le contestó.»
+
 ## Protocolo
 
 Al sacar un capítulo: `git mv` a esta carpeta, encabezado `ESCENA ELIMINADA` + `EPUB: EXCLUDE`, fila aquí, enlaces del vault actualizados. Al recuperarlo: lo inverso, y dejar la fila tachada con la fecha.

@@ -93,6 +93,7 @@ Todo cae entre noviembre y diciembre A4, en la Parte IV. Una señal por capítul
 
 ## Sigue abierto
 
+- **CANON DEL AUTOR (2026-11-02):** Chiara toma anticonceptivos desde el Libro I (receta de «las mismas pastillas» en el Hospital Santa Aurelia, Cap. 5; «Con la vida que llevo es casi imposible», Cap. 49). **Deja de tomarlos desde que aparece el tic del nombre**: Elenna no es del todo un accidente. **PENDIENTE (autor):** el motivo, que se explora en este libro. **Cuenta para decidir:** si los deja con la aparición 1 (ene A3), pasan ~21 meses hasta Stavanger (oct A4); con la 4 (vela tardía, ene A4), ~9. Kal no lo sabe. Sesión: [[98_Agent_Handoff/sessions/2026-11-02_claude_cap05_hospital_kyle]].
 - **PENDIENTE (autor):** de dónde le sale el nombre a Chiara. No se rellena.
 - ~~**PENDIENTE (autor):** cuántos días antes de H1 lo confirma.~~ **RESUELTO (CANON DEL AUTOR, 2026-10-14):** unas dos semanas (examen hacia el 22 nov; H1 hacia el 6–8 dic).
 - DISEÑO por confirmar: las apariciones de la Parte I y la 6 (Kal sale sin avisar en la Parte III) y el reparto de señales del embarazo.

@@ -37,8 +37,8 @@
       "titulo": "Cliente y proveedor",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-11-01",
-      "desde": "2026-11-01 01:21"
+      "audio": "2026-11-02",
+      "desde": "2026-11-02 21:04"
     },
     "05c_La_Pizza_De_Calabaza.md": {
       "capitulo": 6,
@@ -3128,6 +3128,16 @@
     [
       "2026-11-02 00:09",
       "Cap. 19 (18_El_Dia_Nublado.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-02 19:54",
+      "Cap. 5 (05a_Cliente_Y_Proveedor.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-02 21:04",
+      "Cap. 5 (05a_Cliente_Y_Proveedor.md)",
       "audio regenerado"
     ]
   ]

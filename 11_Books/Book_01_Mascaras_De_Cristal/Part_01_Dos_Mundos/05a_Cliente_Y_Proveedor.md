@@ -1,6 +1,6 @@
 <!--
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 05a; numeración corrida definitiva, el archivo conserva su nombre.
-Estado: TERMINADO (heredado del Cap. 5; segmentado).
+Estado: BORRADOR (segunda mitad reescrita el 2026-11-02, ver abajo; hasta "No la acomodó." sigue la prosa TERMINADA).
 Segmentacion (2026-10-22, decision del autor): el antiguo Cap. 5 (Una amiga, ~11,800 palabras, fusion de 2026-09-10) se divide en 5a Cliente y proveedor, 5b Sin llamar a nadie y 5c La pizza de calabaza, sin renumerar el resto. La cita de Kal y Chiara (de Rocco a la despedida) queda entera en 5c.
 Funcion: el favor se vuelve cadena: corralon, factura, llamada de la manana, apertura y reunion privada.
 Historial completo del antiguo Cap. 5 a continuacion:
@@ -40,6 +40,8 @@ Ping pong del despacho (2026-10-23, AUDIT en sesion + SURGERY aprobada por el au
 Regla 05, esticomitia de una sola voz (2026-10-24, aprobado por el autor; DISENO del agente): llamada, "¿Nada mas?" -> "Va a estar ahi."; elevador, "Movido." / "¿Y?" / "Manejable." -> "Movido. Manejable." y beat del brazo derecho quieto tras "Mejor que el overol" (consistencia del hombro: dolor activo en el 5, piquete residual en el 6); mesa, fuera "Con buena factura." y "Kal no discutio."; manos, fuera "Yo tampoco." (ambiguedad deliberada: buen hombre con trapos sucios). Reporte: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]].
 Verificacion editorial, formula de respuesta tardia (2026-10-24, aprobado por el autor): "Kal tardo en contestar" -> "Kal cerro la libreta." (antes de "Bellandi") y -> "Kal miro los lentes doblados junto a su mano." (cobro diferido); "Chiara se permitio la pausa" -> "Chiara dejo la carpeta sobre la mesa, sin abrirla." (tambien arregla la continuidad de la carpeta). Reporte: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]].
 Fusión del antiguo Cap. 6 (05b) como coda (2026-11-01, DECISIÓN DEL AUTOR; prosa DISEÑO pendiente de lectura; el estado se conserva): la prosa de Sin llamar a nadie entra tras "No la acomodó.", separada con ***; el título sigue siendo Cliente y proveedor y el 05c no cambia. Primera línea nueva (DISEÑO): "Los treinta días empezaron a correr, y después las semanas..." (fuera "Varga no volvió.", eco de la llamada de la mañana). Cortes (texto literal en el README de Escenas_Eliminadas): lista de problemas a dos (fuera lavandería, huésped de Santa Brígida y valet); fuera Matteo ("Porque no le dimos público" / "Era verdad. / No toda."), "Chiara no llamó a Kal por todo..." y "Chiara aprendió a distinguir... ausencia de escándalo"; salida de carga comprimida (fuera "¿Nada más?/Se fue con eso/Esta vez", "Kal asintió...", "Chiara cerró los ojos", el símil de la herramienta, el segundo "¿Entonces?", "Usted sabe que no es tan simple / Él no le contestó eso", "Tengo que volver arriba / Claro"; se conservan "pídamelo el día que pueda decir que me lo pidió", la rueda, "Esta vez sí se rió" y "No es suyo"); bisagra, fuera el párrafo del trapo vacío (conservado como DUDOSA en Audit_Cap_05; sale por reiteración, autorizado); sobre, fuera "Chiara intentó pagar cada cosa..." (tres líneas), "no por frío sino por tener algo que hacer" y el párrafo "Chiara lo miró mejor..."; "Fue una respuesta más honesta... más pequeña" -> "Chiara se guardó la respuesta donde..."; registro, fuera la piedra de Tommaso (se conserva N5-7, "las excepciones se acumulan..."); contrato y caseta, cortes de frase. V-1 (DISEÑO; escalón aprobado en 00_Plan_Rediseno_Parte_I): tras la caseta, el correo interno deja un formato de alta de proveedores sin firma, "nombre completo del responsable", solicitante "Dirección"; Chiara lo llena con la licencia municipal y lo devuelve antes de la comida (contesta sin pausa, contra el segundo de cursor de la firma). Lo cobra 29:47. Reporte: [[98_Agent_Handoff/sessions/2026-11-01_claude_fusion_05b_coda_05a]].
+Episodio civil del hospital (2026-11-02, DECISIONES DEL AUTOR sobre la lectura de ChatGPT [[98_Agent_Handoff/ChatGPT/2026-11-02_lectura_mascaras_parte_i_cap05_nino_perdido_y_blake]]; prosa DISEÑO, BORRADOR pendiente de lectura). Canon del autor: niño perdido Kyle, 6 años (guiño deliberado del autor a la semilla Kyle Rass; no es copia, no marcarlo en auditoria); Hospital Santa Aurelia, Chiara por control natal y seguimiento, Kal por el hombro (la molestia no se ha ido); Kal se presenta como "Sargento Mercer" y Chiara descubre ahi su pasado militar (sin rama, unidad ni fechas); "bambino"; "¿Y si mi mamá se va sin mí?"; despedida "¡Adiós, sargento y señora Mercer!" y sonrojo de ambos; Ruth y Marta solo como rasgo, nunca en prosa ni narrador; las dos salidas con Blake se conservan; el cafe de la maquina pasa al hospital; el telefono de Walt queda como recurso exclusivo de los Caps. 5 y 6 (no vuelve en el Libro I); fuera "¿Como esta Walt? / Afuera / ...le alcance" y "¿Le alcanza? / No se todavia"; el sobre queda en una linea. Implicacion (canon del autor): Chiara conoce el departamento de Blake (relacion fisica casual; la cobra "No me sacude ni un poco" del 18 y "Con la vida que llevo es casi imposible" del 49). DISEÑO del agente: montaje de los treinta dias comprimido a dos parrafos (fuera "Cuando Tommaso pregunto... No hay contrato... ya hubiera cuenta"); Tommaso entra en la escena de la bisagra ("ferreteria" sustituye "cafe"; amenaza de Varek/Palermo intacta); el martes del departamento (trofeos, refrigerador, taxi pasadas las dos, sin nota); el viernes del hospital: admisiones deja registro del nombre de Kal; flores junto a la banca de Keene en Plaza Corona; Kal deduce la ruta (pasarela, edificio nuevo) y Chiara habia alertado a seguridad; Kal pierde su turno ("Luego" sin replica: cobra la llamada y el elevador); rasgo de Kal: solo promete lo que controla; rasgo de Chiara: cambia el final del cuento segun la cara del niño (Marta, sin nombrarla); POV Kal en el hospital, POV Chiara en el cafe (receta de "las mismas pastillas", sin la palabra anticonceptivo); cierre: "Chiara se quedo mirando la pantalla hasta que el nombre cambio." Lo retirado, literal, en Escenas_Eliminadas/README. Cirugia del mismo dia (SURGERY autorizada por el autor; sigue BORRADOR): diez cortes de glosa, tic ("Ninguno de los dos..." x2, "Chiara no dijo nada") y repeticion lexical en hospital y cafe; protegidos anclaje espacial, admisiones, cuento del gato y guardia. Reporte: [[98_Agent_Handoff/sessions/2026-11-02_claude_cap05_hospital_kyle]].
+Apertura Kal/Nadir y cajero sin ping-pong (2026-11-02, pedido del autor: "muy plana", "lectura de guion"; vibra de familia de criminales honestos; prosa DISEÑO, BORRADOR): Kal cuenta lo de Varga ("Un borracho con un Mercedes... El whisky llego de todos modos"; sin "ella", para no adelantar "¿Quien te llamo, khoya?"), Nadir pregunta, cobra y cuenta con los dedos en voz alta ("uno... cuatro"; "'Van a pagar' lo dice la gente..."; "para cobrar yo, que tu cobras como si te diera pena"). Fuera "No es mio / ¿Te lo invitaron? / Me lo tiraron / ¿A ti? / Iba para otro lado / Y tu te pusiste en medio / Le agarre la muñeca" y "Esto fue un arrastre" -> "Fue un arrastre, Nadir. Una grua, una factura y a la casa." Cajero: Russ da el dato en un tiempo (camara desde marzo, tres semanas); entra el codigo ("¿Habia alguien?" / "Nadie... el banco lo sigue llenando"; "Ni un vidrio, jefe"); Danny cuenta el cabrestante encimado; Kal da la orden por ellos ("no me buscan a mi. Los buscan a ustedes dos"); Nadir los manda a comer. Canon intacto: "¿Casino? / Mercedes", "¿Quien te llamo, khoya?", "Bellandi", "¿Traia acento?", dinamica Russ/Danny ("Me adora... Es su forma" / "No te soporto"), bigote, "Safi" / "Ya hablas como gente". Texto anterior en git (HEAD).
 
 Historial del antiguo Cap. 6 *Sin llamar a nadie* (05b), fusionado como coda el 2026-11-01:
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 05b; numeración corrida definitiva, el archivo conserva su nombre.
@@ -73,21 +75,9 @@ Nadir se bajó del capó. Al pasar junto a él olió el aire una vez, cerca del 
 
 —Hueles a bar de hotel.
 
-—No es mío.
+—Un borracho con un Mercedes parado en la línea amarilla de la rampa de carga. —Kal se miró la manga del overol, todavía húmeda—. Le dijeron que no y no le gustó la palabra. Le agarré la muñeca antes de que llegara el vaso. El whisky llegó de todos modos.
 
-—Ya sé que no es tuyo. Tú no te gastas eso en ti. —Le pellizcó la manga del overol, todavía húmeda—. ¿Te lo invitaron?
-
-—Me lo tiraron.
-
-—¿A ti?
-
-—Iba para otro lado.
-
-—Y tú te pusiste en medio.
-
-—Le agarré la muñeca.
-
-—¿Con cuál?
+—¿Y con cuál le agarraste la muñeca?
 
 —Con la izquierda.
 
@@ -101,15 +91,11 @@ Lo siguió hasta la oficina.
 
 —Van a pagar.
 
-—Peor.
+—Peor. —Nadir se adelantó a empujar la puerta con el pie—. «Van a pagar» lo dice la gente que a la semana ya no se acuerda de tu número.
 
 Sobre el escritorio había un plato hondo tapado con otro plato. Nadir lo destapó sin preguntar: la sopa roja de la tarde, ya con nata encima, y dos tortillas de Mabel dobladas en una servilleta.
 
-—Te guardé. Danny quería repetir tres veces. Le cobré la tercera.
-
-—¿Cuánto?
-
-—Que lavara la olla. —Lo dejó pensar un segundo—. No la lavó.
+—Te guardé. Danny quería repetir tres veces y le cobré la tercera: que lavara la olla. —Lo dejó pensar un segundo—. No la lavó.
 
 Kal dejó la tabla de trabajo junto al plato y giró el hombro derecho, despacio. Seguía tronando donde se le había zafado la cadena del Buick.
 
@@ -117,7 +103,7 @@ Kal dejó la tabla de trabajo junto al plato y giró el hombro derecho, despacio
 
 —Luego.
 
-—Eso dijiste en la descarga. —Metió el plato al microondas sin mirarlo—. Y allá también decías luego. Y luego te lo tuve que acomodar yo, contra una litera, con un trapo en la boca para que no gritaras.
+—Eso dijiste en la descarga. —Metió el plato al microondas sin mirarlo—. Y allá también decías luego, todas las noches, hasta la noche en que te lo tuve que acomodar yo, contra una litera, con un trapo en la boca para que no gritaras.
 
 —No grité.
 
@@ -131,7 +117,7 @@ Kal se sentó. Fue lo más parecido a darle la razón.
 
 El microondas pitó. Nadir le puso el plato enfrente, le acomodó la cuchara del lado derecho, lo pensó y la cambió al izquierdo. Después se apoyó en el marco de la puerta y lo dejó comer tres cucharadas antes de hablar.
 
-—Esta tarde nos dijiste que no le debiéramos favores a la gente del casino.
+—Esta tarde, en esta misma oficina, con esa misma cuchara, nos dijiste que no le debiéramos favores a la gente del casino.
 
 —Dije Dario Varek.
 
@@ -139,9 +125,9 @@ El microondas pitó. Nadir le puso el plato enfrente, le acomodó la cuchara del
 
 Kal partió una tortilla en dos.
 
-—Esto fue un arrastre.
+—Fue un arrastre, Nadir. Una grúa, una factura y a la casa.
 
-—Un arrastre a medianoche para un casino que no te quiso en su mesa. —Contó con los dedos contra la madera del marco, uno por cada cosa—. ¿Cuánto cobraste?
+—Un arrastre a medianoche, uno. —Nadir contó con los dedos contra la madera del marco—. Para un casino, dos. Que no te quiso en su mesa, tres. Y te tiraron whisky, cuatro. Y todavía no te pregunto lo único que importa. ¿Cuánto cobraste?
 
 —Tarifa nocturna.
 
@@ -181,7 +167,7 @@ Kal volvió a escribir.
 
 —¿Para qué?
 
-—Para que alguien vea quién te tira whisky.
+—Para que alguien vea quién te tira whisky. Y para cobrar yo, que tú cobras como si te diera pena.
 
 —Safi.
 
@@ -235,13 +221,13 @@ Russ señaló a Danny con el bastón, sin mirarlo.
 
 —¿De dónde lo sacaron?
 
-—Una gasolinera cerrada en la 101, al norte. Fuera de cualquier barrio. —Russ se acomodó el peso sobre el bastón—. La cámara no sirve desde marzo.
+—De una gasolinera cerrada en la 101, al norte, fuera de cualquier barrio. —Russ se acomodó el peso sobre el bastón—. La cámara no sirve desde marzo; lo sé porque fui a ver, tres semanas seguidas. Lo vacían los martes a las nueve. Faltan ocho horas.
 
-—¿Cómo sabes desde marzo?
+—¿Había alguien?
 
-—Porque fui a ver. Tres semanas. Lo vacían los martes a las nueve. Faltan ocho horas.
+—Nadie. La gasolinera cerró en verano. El cajero es del banco, y el banco lo sigue llenando como si alguien fuera a cargar gasolina.
 
-—Tres semanas —dijo Danny, con admiración sincera—. Yo lo hubiera hecho la primera.
+—Ni un vidrio, jefe —dijo Danny—. No me dejó romper ni un vidrio. Tres semanas yendo a ver una máquina, como si fuera a cambiar de lugar. Yo lo hubiera hecho la primera.
 
 —Por eso no te dejo hacer nada la primera.
 
@@ -259,13 +245,9 @@ Kal miró el pedazo de acera.
 
 —El plan era desatornillarlo —dijo Russ.
 
-—Y lo desatornillamos.
+—Y lo desatornillamos, te lo juro: cuatro tornillos, uno por esquina, como dijo él —dijo Danny—. Nada más que con el cabrestante, porque con la llave íbamos a amanecer ahí, y el cabrestante es rápido, pero no sabe dónde se acaba un cajero y dónde empieza la acera.
 
-—Con el cabrestante.
-
-—Rápido.
-
-—Con todo y acera.
+—Con todo y acera —dijo Russ.
 
 Danny abrió las manos, como si la acera hubiera tomado la decisión sola.
 
@@ -279,7 +261,7 @@ Kal no contestó. Nadir sí se rió, bajito.
 
 Kal se quedó mirando la cara del cartón más tiempo del que merecía.
 
-—Al fondo. Bajo lona. Nadie lo abre hasta que yo diga.
+—Si alguien ve esa grúa con un cartón en la puerta, no me buscan a mí. Los buscan a ustedes dos. —Le dio una mordida a la tortilla—. Al fondo. Bajo lona. Nadie lo abre hasta que yo diga.
 
 —¿Y cuándo dices? —preguntó Danny.
 
@@ -294,6 +276,8 @@ Kal se quedó mirando la cara del cartón más tiempo del que merecía.
 —Lo pensaste.
 
 Russ cerró los ojos un segundo, como quien cuenta hasta un número muy alto, y fue a soltar la primera cadena.
+
+—Y luego a comer, los dos —dijo Nadir—. Hay sopa. Danny ya se tomó tres, así que la de Russ es de Russ.
 
 Kal volvió a la oficina. Detrás de él, Danny le explicaba a Nadir que la cara tenía nombre. Se sentó frente al plato, que ya se había enfriado.
 
@@ -685,17 +669,7 @@ La silla de él seguía separada de la mesa, en el ángulo en que la había deja
 
 Los treinta días empezaron a correr, y después las semanas, mientras Plaza Corona iba saliendo de los noticieros y la ciudad encontraba otras cosas de qué hablar.
 
-Los problemas llegaron de uno en uno: un proveedor de hielo que intentó facturar dos entregas en la misma hora, dos hombres del puerto que querían usar un reservado para una conversación que ningún hotel sensato habría querido alojar.
-
-Cuando Tommaso preguntó si había contratado a Mercer por debajo, Chiara dijo:
-
-—No hay contrato.
-
-Era cierto, y Tommaso lo aceptó porque una negación exacta es más difícil de discutir que una mentira. Chiara se quedó con la parte que no dijo: que no hacía falta contrato para que ya hubiera cuenta.
-
-Kal, por su lado, no entraba por el lobby salvo que fuera indispensable. Nadie se lo había pedido.
-
-A veces llegaba por carga con una grúa, una camioneta o un sedán prestado. A veces mandaba a Omar con uniforme limpio y una factura que no decía nada interesante. A veces no llegaba nadie, pero el problema dejaba de hacer ruido antes de tocar la puerta principal.
+Los problemas llegaron de uno en uno —un proveedor de hielo que intentó facturar dos entregas en la misma hora, dos hombres del puerto que querían un reservado para una conversación que ningún hotel sensato habría querido alojar—, y Kal no entraba por el lobby salvo que fuera indispensable. Nadie se lo había pedido. Llegaba por carga con una grúa, una camioneta o un sedán prestado; a veces mandaba a Omar con uniforme limpio y una factura que no decía nada interesante; a veces no llegaba nadie, pero el problema dejaba de hacer ruido antes de tocar la puerta principal.
 
 Una tarde, un hombre del puerto que no debía estar en la lista abandonó el Monarch cinco minutos después de que Kal apareciera en el estacionamiento de empleados para revisar una supuesta batería muerta. Nadie lo tocó. Nadie lo siguió.
 
@@ -813,9 +787,7 @@ Arriba, Chiara se quitó los aretes frente al ventanal. Por la avenida pasaba un
 
 ***
 
-Con las semanas, Kal empezó a pasar por el Monarch sin que hubiera siempre una emergencia.
-
-A veces llevaba pequeñas cosas que no parecían regalos porque venían disfrazadas de utilidad: un contacto de lavandería que sí contestaba de madrugada, el número de una empresa de hielo que no duplicaba recibos.
+Con las semanas, Kal empezó a pasar por el Monarch sin que hubiera siempre una emergencia. Traía cosas que no parecían regalos porque venían disfrazadas de utilidad: un contacto de lavandería que sí contestaba de madrugada, el número de una empresa de hielo que no duplicaba recibos.
 
 Y una bisagra.
 
@@ -843,85 +815,9 @@ Kal se acomodó la chaqueta para irse.
 
 Chiara la dejó sobre el escritorio con más cuidado del que pensaba tener.
 
-—Tiene que cobrar —dijo ella una noche, junto a la máquina de café del área administrativa. Entre los dos, sobre la mesa, había un sobre que llevaba cinco minutos ahí.
-
-—Cobré lo del hielo.
-
-—Lo del hombre del puerto. Lo tengo anotado con día y hora. Sólo me falta el monto.
-
-—Eso fue una batería.
-
-—Señor Mercer.
-
-Kal sostuvo el vaso de café con las dos manos. No miró el sobre.
-
-—Si lo agarro, ya no soy proveedor.
-
-—¿Y qué es?
-
-Lo pensó.
-
-—No sé cómo se llama. Pero no entra por el lobby.
-
-Chiara guardó el sobre en la carpeta. Cuando se enderezó, con los tacones de todo el día, los ojos le quedaron casi a la altura de los de él.
-
-Kal la miró como si acabara de medir algo.
-
-—Usted es alta.
-
-—¿A qué viene eso?
-
-Él abrió la boca y la volvió a cerrar. No había forma de que un proveedor terminara esa frase.
-
-—A nada.
-
-Chiara se quedó con la carpeta contra el pecho un segundo de más.
-
-—¿Cómo está Walt? —preguntó ella.
-
-Kal levantó la vista.
-
-—Lo vio una noche.
-
-—Por eso pregunto.
-
-Kal miró el café.
-
-—Afuera.
-
-—No pregunté dónde.
-
-—Está intentando que afuera le alcance.
-
-Chiara no preguntó más.
-
-Kal le dio vuelta al vaso.
-
-—Natalie le regaló un teléfono. Contesta con la palma entera, como si apagara una vela. Ayer le colgó tres veces a Héctor.
-
-No había pregunta que eso contestara.
-
-—¿Y Héctor?
-
-—Le quiere comprar uno de botones. Walt dice que es un insulto.
-
-Chiara bajó el vaso para que no se le notara la boca.
-
-—¿Y usted? —dijo.
-
-—¿Yo qué?
-
-—¿Le alcanza?
-
-Kal bebió café. Estaba malo.
-
-—No sé todavía.
-
-Chiara se guardó la respuesta donde guardaba las cosas que no debía usar.
-
 El elevador sonó.
 
-Tommaso salió al pasillo, vio a Kal junto a la máquina de café y se detuvo.
+Tommaso salió al pasillo, vio a Kal junto al escritorio y se detuvo.
 
 —Señor Mercer.
 
@@ -929,15 +825,15 @@ Tommaso salió al pasillo, vio a Kal junto a la máquina de café y se detuvo.
 
 El apellido cayó sobre Chiara como una moneda fría.
 
-Tommaso miró a Kal, luego a ella.
+Tommaso miró a Kal, luego la bisagra, luego a ella.
 
-—No sabía que ahora el mantenimiento incluía café.
+—No sabía que ahora el mantenimiento incluía ferretería.
 
-Chiara sostuvo el vaso.
+Chiara puso la mano sobre la bisagra.
 
 —Incluye lo que yo autorice.
 
-Kal dejó el vaso en la mesa.
+Kal terminó de acomodarse la chaqueta.
 
 —Ya me iba.
 
@@ -955,7 +851,7 @@ Cuando él se fue, Tommaso esperó a que el elevador cerrara.
 
 —Eso dijiste antes.
 
-Chiara apoyó el vaso en la mesa y no le contestó.
+Chiara no le contestó.
 
 Tommaso sonrió tarde.
 
@@ -1074,3 +970,225 @@ Blake se separó sonriendo, como quien confirma una reservación.
 —Escríbeme.
 
 Subió sola. En el elevador se miró en el espejo de bronce, se corrigió con el pulgar el borde del labial y no encontró nada más que arreglar.
+
+El martes conoció el departamento de Blake.
+
+Era un tercer piso en el Distrito Marino, con vista al estacionamiento de un supermercado, una pantalla más ancha que el sofá y, en un librero sin libros, tres trofeos de tiro de la academia. Él le enseñó los trofeos antes que la cocina. En el refrigerador había cerveza, salsa picante y medio limón.
+
+Chiara pidió un taxi pasadas las dos. Blake ya dormía, boca abajo, con un brazo fuera de la cama. Ella se vistió sin prender la luz y no le dejó nota.
+
+***
+
+El viernes, Kal fue al Hospital Santa Aurelia por el hombro. No porque le doliera más, sino porque Nadir había sacado la cita por teléfono delante de él y había dicho que, si no iba, lo llevaba él.
+
+Consulta externa ocupaba la planta baja del edificio viejo, el que daba a Calle Corona. Olía a desinfectante y a café de máquina, y la luz blanca del techo le ponía a todo el mundo la misma cara de haber dormido mal. En admisiones dio su nombre, su fecha de nacimiento y la dirección del taller, y miró cómo los tres entraban en una pantalla que no era suya. Ortopedia, consultorio seis.
+
+Se sentó donde podía ver las dos puertas.
+
+Del otro lado del ventanal, en Plaza Corona, alguien seguía dejando flores junto a una banca.
+
+Oyó el acento antes de verla.
+
+—…y si tu mamá se llama Mamá, ¿cómo le dice tu abuela?
+
+Junto al mostrador de información, Chiara Bellandi estaba en cuclillas sobre el linóleo, en tacones, a la altura de un niño de unos seis años que llevaba puesto su abrigo. El abrigo era color camel, de los que no se dejan en una silla de hospital, y al niño le llegaba a los tobillos. Tenía la cara roja de haber llorado y una mochila de dinosaurio colgada de un solo hombro. A dos pasos, un guardia de seguridad hablaba por radio.
+
+—Le dice Jenny —dijo el niño.
+
+—Jenny. Muy bien. —Chiara levantó la vista hacia el guardia—. Jenny.
+
+El guardia lo repitió en la radio.
+
+—Hablas chistoso —dijo el niño.
+
+—¿Chistoso cómo?
+
+—Así.
+
+—Soy de Italia.
+
+—¿Eso está lejos?
+
+—Muy lejos, bambino.
+
+El niño lo pensó, sorbiéndose la nariz.
+
+—¿Tú también te perdiste?
+
+Chiara se quedó con la respuesta a medio camino.
+
+—Un poco.
+
+Kal se levantó.
+
+No supo bien para qué hasta que estuvo ahí. El niño lo vio llegar y se fue para atrás, hasta quedar medio escondido detrás de la rodilla de Chiara, y Kal se vio como debía de verlo él: un hombre del tamaño de una puerta, con una cicatriz en la cara.
+
+Chiara levantó la vista.
+
+—Señor Mercer.
+
+—Señora Bellandi.
+
+Kal se agachó. El hombro le dio un tirón; apoyó la mano izquierda en el piso y bajó hasta quedar más abajo que ella, más abajo que el niño.
+
+—¿Eres policía? —preguntó el niño.
+
+—No.
+
+—¿Y eso? —Señaló la cicatriz con un dedo, sin acercarse.
+
+—Me lo hice trabajando.
+
+—¿De qué?
+
+Kal miró a Chiara un segundo. Ella esperaba la respuesta igual que el niño.
+
+—Fui soldado.
+
+El niño salió un poco de detrás de la rodilla.
+
+—¿De verdad? ¿De los que saltan de los aviones?
+
+—De los otros.
+
+—¿Y eras valiente?
+
+—A veces.
+
+—¿Cómo te llamabas?
+
+—Me sigo llamando igual. Sargento Mercer.
+
+El niño se enderezó dentro del abrigo como si alguien le hubiera dado un uniforme.
+
+—Yo soy Kyle. —Levantó la mano abierta y después sacó un dedo de la otra, con trabajo—. Tengo seis.
+
+Chiara lo miró desde arriba, con la mano todavía en la espalda del niño, y tardó en volver la vista a Kyle.
+
+—Muy bien, Kyle —dijo Kal—. Necesito un informe. ¿Por dónde llegaste aquí?
+
+—Por el puente de vidrio.
+
+—¿Y antes del puente?
+
+—Estábamos con mi abuela. Tiene un tubo en la nariz. Mi mamá fue al baño y yo la seguí. —Se le arrugó la cara—. Pero no era mi mamá. Tenía el mismo abrigo.
+
+—¿De qué color?
+
+—Amarillo.
+
+—¿Y el elevador de tu abuela?
+
+—Plateado. Tiene un botón que no prende.
+
+Kal se volvió hacia el guardia.
+
+—Viene del edificio nuevo, por la pasarela. Hospitalización. Una paciente con oxígeno y una hija de abrigo amarillo que busca a un niño de seis años. Allá lo están buscando, no aquí.
+
+El guardia lo miró como se mira a alguien que no trae credencial. Después apretó el botón de la radio y lo dijo con sus propias palabras.
+
+El niño le tiró de la manga a Kal.
+
+—¿Lo hice bien?
+
+—Informe completo, soldado.
+
+Kyle se llevó la mano a la frente. La izquierda. Kal no lo corrigió.
+
+Por los altavoces, una voz tranquila pidió a la familia de Kyle que se presentara en información. Pasaron veinte minutos, y después cuarenta. El edificio nuevo quedaba a una pasarela y a tres radios de distancia, y cada radio tenía su turno.
+
+Chiara le compró un jugo en la máquina. Kal encontró monedas para unas galletas. Le enseñó a hacer guardia mirando las dos puertas, y Kyle la hizo con una seriedad absoluta durante cuatro minutos, hasta que se le olvidó. Chiara le preguntó por su escuela, por su maestra y por el dinosaurio de la mochila, que se llamaba Steve.
+
+En la pantalla de turnos apareció MERCER, K. — CONSULTORIO 6.
+
+Kal la vio. No se movió.
+
+Chiara también la vio.
+
+—¿No es usted?
+
+—Luego.
+
+Esta vez ella no le dijo que eso no era una respuesta.
+
+Afuera, la luz de la plaza se fue poniendo color cobre. Kyle se acomodó en la banca entre los dos, con el abrigo de Chiara hasta la barbilla, y se comió las galletas de una en una, partiéndolas primero a la mitad, como si tuviera que racionarlas.
+
+—¿Y si mi mamá se va sin mí?
+
+Lo dijo sin llorar, mirando las galletas.
+
+Kal se quedó con el paquete a medio cerrar. Del otro lado del niño, Chiara giró uno de sus anillos, una vuelta completa, y lo dejó donde estaba.
+
+—No sé lo que va a hacer tu mamá —dijo Kal—. Sé lo que voy a hacer yo. No me muevo de aquí hasta que llegue.
+
+Kyle lo miró, y luego miró a Chiara.
+
+—¿Y tú?
+
+—Yo tampoco, bambino.
+
+Kyle no pareció del todo convencido. Chiara le acomodó el cuello y empezó a contarle de un gato de Palermo que se había perdido en un mercado, entre los puestos de pescado, con la voz baja y el acento más marcado que antes. A la mitad, al niño se le empezó a ir la boca para abajo, y el gato, que iba a pasar la noche solo debajo de un puesto, encontró a su familia esperándolo en el de las naranjas.
+
+Kal se dio cuenta porque el principio iba para otro lado.
+
+Kyle se rió con lo de las naranjas.
+
+La radio del guardia crujió a las cinco y veinte. Un minuto después, una mujer salió corriendo de la pasarela con un abrigo amarillo abierto y el bolso golpeándole la cadera, y el niño ya no estaba en la banca. El abrigo de Chiara se quedó en el piso, donde él lo soltó.
+
+La mujer se arrodilló en el linóleo y lo abrazó con todo el cuerpo, y le dijo al pelo cosas que nadie más tenía que oír.
+
+Kal se levantó y dio un paso atrás. Chiara recogió el abrigo.
+
+La madre le dio las gracias al guardia, después a ellos, dos veces, sin soltar al niño, y ya iba hacia la pasarela con él de la mano cuando Kyle se volvió.
+
+—Ciao, tesoro —le dijo Chiara.
+
+El niño levantó la mano libre, la izquierda, hasta la frente.
+
+—¡Adiós, sargento y señora Mercer!
+
+Se lo llevó antes de que alguien pudiera corregir nada.
+
+Kal sintió que el calor le subía por el cuello. Junto a él, Chiara tenía la vista fija en la pasarela vacía, las mejillas encendidas debajo del maquillaje y el abrigo apretado contra el pecho.
+
+En información, la recepcionista lo volvió a anotar en la lista, al final.
+
+***
+
+La máquina de café estaba junto a la de las galletas, frente al ventanal. Kal metió monedas para dos vasos sin preguntarle si quería uno.
+
+Chiara venía de una junta de presupuesto y traía todavía los tacones de la mañana. En la bolsa llevaba la receta de la ginecóloga —las mismas pastillas, seis meses más— y, desde hacía una semana, el sobre con lo del hombre del puerto, que él seguía sin querer cobrar.
+
+Afuera, en Plaza Corona, se habían prendido los faroles. Kal le dio vuelta a su vaso.
+
+—Natalie le regaló un teléfono a Walt. Contesta con la palma entera, como si apagara una vela. Ayer le colgó tres veces a Héctor.
+
+No había pregunta que eso contestara.
+
+—¿Y Héctor?
+
+—Le quiere comprar uno de botones. Walt dice que es un insulto.
+
+Chiara bajó el vaso para que no se le notara la boca.
+
+Kal bebió café. Estaba malo.
+
+Ella dejó el suyo a medio terminar sobre la máquina y se enderezó. Con los tacones, los ojos le quedaron casi a la altura de los de él.
+
+Kal la miró como si acabara de medir algo.
+
+—Usted es alta.
+
+—¿A qué viene eso?
+
+Él abrió la boca y la volvió a cerrar. No había forma de que un proveedor terminara esa frase.
+
+—A nada.
+
+Chiara se guardó la respuesta donde guardaba las cosas que no debía usar.
+
+En la pantalla de turnos volvió a aparecer el nombre de él: MERCER, K. — CONSULTORIO 6.
+
+Kal tiró el vaso y se fue hacia el pasillo, con el brazo derecho quieto junto al cuerpo.
+
+Chiara se quedó mirando la pantalla hasta que el nombre cambió.

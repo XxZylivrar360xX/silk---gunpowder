@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-02 00:09. Al día: 56 de 56.
+Actualizada: 2026-11-02 21:04. Al día: 56 de 56.
 
 ## Pendientes
 
@@ -16,7 +16,7 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | 2 | Demasiado listo | AL DIA | 2026-10-24 |
 | 3 | Los viejos días | AL DIA | 2026-10-24 |
 | 4 | Tarifa nocturna | AL DIA | 2026-10-24 |
-| 5 | Cliente y proveedor | AL DIA | 2026-11-01 |
+| 5 | Cliente y proveedor | AL DIA | 2026-11-02 |
 | 6 | La pizza de calabaza | AL DIA | 2026-11-01 |
 | 7 | Ambos | AL DIA | 2026-11-01 |
 | 8 | La noche del ladrillo | AL DIA | 2026-11-01 |
@@ -71,6 +71,8 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Historial
 
+- 2026-11-02 21:04 · Cap. 5 (05a_Cliente_Y_Proveedor.md) · audio regenerado
+- 2026-11-02 19:54 · Cap. 5 (05a_Cliente_Y_Proveedor.md) · audio pendiente: cambió la prosa
 - 2026-11-02 00:09 · Cap. 19 (18_El_Dia_Nublado.md) · audio regenerado
 - 2026-11-01 23:58 · Cap. 19 (18_El_Dia_Nublado.md) · audio pendiente: cambió la prosa
 - 2026-11-01 23:00 · Cap. 22 (21b_Grazie.md) · audio regenerado

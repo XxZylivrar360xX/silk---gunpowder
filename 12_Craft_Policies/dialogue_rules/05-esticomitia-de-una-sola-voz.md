@@ -45,7 +45,7 @@ Antes de tocar lineas: que siente cada uno en la escena (matriz de registro emoc
 
 ## Excepcion
 
-- **Sequedad como relacion.** Kal con Nadir, Hector o Danny: el ping-pong **es** la amistad (ver `staging_rules/04-dialogo-de-guion-sin-anclaje.md`).
+- **Sequedad como relacion.** Kal con Nadir, Hector o Danny: el ping-pong **es** la amistad (ver `staging_rules/04-dialogo-de-guion-sin-anclaje.md`). **Afinado (autor, 2026-11-02, apertura del Cap. 5: "muy plana", "lectura de guion"):** la sequedad es la voz de **Kal**, no la de la escena. Su gente le habla largo segun su ficha (Nadir calcula en voz alta y cobra; Danny se encima y se adelanta; Russ da dias, horas y por que) y Kal contesta corto, contesta otra cosa o no contesta. Si los dos lados van igual de secos durante mas de seis u ocho turnos, aplica la regla. Cuando hay que contar lo que paso, lo cuenta quien lo vivio: si otro lo deduce entero, suena a oraculo.
 - **Esgrima breve.** Cuatro a seis lineas donde la velocidad es la tension, siempre que las dos voces sigan distinguibles y no rematen las dos.
 - **Grieta ya pagada.** Si en la misma escena una voz ya se rompio, el tramo siguiente puede correr seco sobre ese credito.
 
