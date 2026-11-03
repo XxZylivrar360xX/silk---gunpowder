@@ -42,6 +42,7 @@ Verificacion editorial, formula de respuesta tardia (2026-10-24, aprobado por el
 Fusión del antiguo Cap. 6 (05b) como coda (2026-11-01, DECISIÓN DEL AUTOR; prosa DISEÑO pendiente de lectura; el estado se conserva): la prosa de Sin llamar a nadie entra tras "No la acomodó.", separada con ***; el título sigue siendo Cliente y proveedor y el 05c no cambia. Primera línea nueva (DISEÑO): "Los treinta días empezaron a correr, y después las semanas..." (fuera "Varga no volvió.", eco de la llamada de la mañana). Cortes (texto literal en el README de Escenas_Eliminadas): lista de problemas a dos (fuera lavandería, huésped de Santa Brígida y valet); fuera Matteo ("Porque no le dimos público" / "Era verdad. / No toda."), "Chiara no llamó a Kal por todo..." y "Chiara aprendió a distinguir... ausencia de escándalo"; salida de carga comprimida (fuera "¿Nada más?/Se fue con eso/Esta vez", "Kal asintió...", "Chiara cerró los ojos", el símil de la herramienta, el segundo "¿Entonces?", "Usted sabe que no es tan simple / Él no le contestó eso", "Tengo que volver arriba / Claro"; se conservan "pídamelo el día que pueda decir que me lo pidió", la rueda, "Esta vez sí se rió" y "No es suyo"); bisagra, fuera el párrafo del trapo vacío (conservado como DUDOSA en Audit_Cap_05; sale por reiteración, autorizado); sobre, fuera "Chiara intentó pagar cada cosa..." (tres líneas), "no por frío sino por tener algo que hacer" y el párrafo "Chiara lo miró mejor..."; "Fue una respuesta más honesta... más pequeña" -> "Chiara se guardó la respuesta donde..."; registro, fuera la piedra de Tommaso (se conserva N5-7, "las excepciones se acumulan..."); contrato y caseta, cortes de frase. V-1 (DISEÑO; escalón aprobado en 00_Plan_Rediseno_Parte_I): tras la caseta, el correo interno deja un formato de alta de proveedores sin firma, "nombre completo del responsable", solicitante "Dirección"; Chiara lo llena con la licencia municipal y lo devuelve antes de la comida (contesta sin pausa, contra el segundo de cursor de la firma). Lo cobra 29:47. Reporte: [[98_Agent_Handoff/sessions/2026-11-01_claude_fusion_05b_coda_05a]].
 Episodio civil del hospital (2026-11-02, DECISIONES DEL AUTOR sobre la lectura de ChatGPT [[98_Agent_Handoff/ChatGPT/2026-11-02_lectura_mascaras_parte_i_cap05_nino_perdido_y_blake]]; prosa DISEÑO, BORRADOR pendiente de lectura). Canon del autor: niño perdido Kyle, 6 años (guiño deliberado del autor a la semilla Kyle Rass; no es copia, no marcarlo en auditoria); Hospital Santa Aurelia, Chiara por control natal y seguimiento, Kal por el hombro (la molestia no se ha ido); Kal se presenta como "Sargento Mercer" y Chiara descubre ahi su pasado militar (sin rama, unidad ni fechas); "bambino"; "¿Y si mi mamá se va sin mí?"; despedida "¡Adiós, sargento y señora Mercer!" y sonrojo de ambos; Ruth y Marta solo como rasgo, nunca en prosa ni narrador; las dos salidas con Blake se conservan; el cafe de la maquina pasa al hospital; el telefono de Walt queda como recurso exclusivo de los Caps. 5 y 6 (no vuelve en el Libro I); fuera "¿Como esta Walt? / Afuera / ...le alcance" y "¿Le alcanza? / No se todavia"; el sobre queda en una linea. Implicacion (canon del autor): Chiara conoce el departamento de Blake (relacion fisica casual; la cobra "No me sacude ni un poco" del 18 y "Con la vida que llevo es casi imposible" del 49). DISEÑO del agente: montaje de los treinta dias comprimido a dos parrafos (fuera "Cuando Tommaso pregunto... No hay contrato... ya hubiera cuenta"); Tommaso entra en la escena de la bisagra ("ferreteria" sustituye "cafe"; amenaza de Varek/Palermo intacta); el martes del departamento (trofeos, refrigerador, taxi pasadas las dos, sin nota); el viernes del hospital: admisiones deja registro del nombre de Kal; flores junto a la banca de Keene en Plaza Corona; Kal deduce la ruta (pasarela, edificio nuevo) y Chiara habia alertado a seguridad; Kal pierde su turno ("Luego" sin replica: cobra la llamada y el elevador); rasgo de Kal: solo promete lo que controla; rasgo de Chiara: cambia el final del cuento segun la cara del niño (Marta, sin nombrarla); POV Kal en el hospital, POV Chiara en el cafe (receta de "las mismas pastillas", sin la palabra anticonceptivo); cierre: "Chiara se quedo mirando la pantalla hasta que el nombre cambio." Lo retirado, literal, en Escenas_Eliminadas/README. Cirugia del mismo dia (SURGERY autorizada por el autor; sigue BORRADOR): diez cortes de glosa, tic ("Ninguno de los dos..." x2, "Chiara no dijo nada") y repeticion lexical en hospital y cafe; protegidos anclaje espacial, admisiones, cuento del gato y guardia. Reporte: [[98_Agent_Handoff/sessions/2026-11-02_claude_cap05_hospital_kyle]].
 Apertura Kal/Nadir y cajero sin ping-pong (2026-11-02, pedido del autor: "muy plana", "lectura de guion"; vibra de familia de criminales honestos; prosa DISEÑO, BORRADOR): Kal cuenta lo de Varga ("Un borracho con un Mercedes... El whisky llego de todos modos"; sin "ella", para no adelantar "¿Quien te llamo, khoya?"), Nadir pregunta, cobra y cuenta con los dedos en voz alta ("uno... cuatro"; "'Van a pagar' lo dice la gente..."; "para cobrar yo, que tu cobras como si te diera pena"). Fuera "No es mio / ¿Te lo invitaron? / Me lo tiraron / ¿A ti? / Iba para otro lado / Y tu te pusiste en medio / Le agarre la muñeca" y "Esto fue un arrastre" -> "Fue un arrastre, Nadir. Una grua, una factura y a la casa." Cajero: Russ da el dato en un tiempo (camara desde marzo, tres semanas); entra el codigo ("¿Habia alguien?" / "Nadie... el banco lo sigue llenando"; "Ni un vidrio, jefe"); Danny cuenta el cabrestante encimado; Kal da la orden por ellos ("no me buscan a mi. Los buscan a ustedes dos"); Nadir los manda a comer. Canon intacto: "¿Casino? / Mercedes", "¿Quien te llamo, khoya?", "Bellandi", "¿Traia acento?", dinamica Russ/Danny ("Me adora... Es su forma" / "No te soporto"), bigote, "Safi" / "Ya hablas como gente". Texto anterior en git (HEAD).
+Recorrido de la coda y espera del hospital (2026-11-02, SURGERY sobre lectura del autor; prosa DISEÑO, sigue BORRADOR): un solo anuncio del paso de las semanas ("Los treinta días..."); los servicios sin emergencia (lavandería, hielo) pasan al montaje y la bisagra abre con "La semana siguiente"; fuera la escena de Kal en la Almendra (Danny dormido, "se había acostumbrado a tener algo que contarle...", "Eso era un problema", "Mañana temprano paso"); el mensaje de la rueda se conserva en POV Chiara tras la llamada de Fabrizio ("Esa noche... No contestó.") y la caseta pasa a la mañana siguiente, con Kal arreglando el carrito (eje roto, cobra "va a romper el eje"). Cadena: bisagra -> Tommaso -> autorización -> rueda -> caseta -> Dirección -> Blake. Hospital: fuera "Pasaron veinte minutos, y después cuarenta... tres radios... cada radio tenía su turno"; la pregunta de Kyle queda antes de la primera confirmación; a los veinte minutos el guardia confirma sin mirar a Kal ("Hospitalización confirma..." / "¿A mí?" / "A ti, soldado") y luego "Ya localizaron a la madre"; fuera "a las cinco y veinte". Café: fuera la receta ("las mismas pastillas, seis meses más"); queda "había salido de su revisión". Texto retirado en Escenas_Eliminadas/README.
 
 Historial del antiguo Cap. 6 *Sin llamar a nadie* (05b), fusionado como coda el 2026-11-01:
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 05b; numeración corrida definitiva, el archivo conserva su nombre.
@@ -671,6 +672,8 @@ Los treinta días empezaron a correr, y después las semanas, mientras Plaza Cor
 
 Los problemas llegaron de uno en uno —un proveedor de hielo que intentó facturar dos entregas en la misma hora, dos hombres del puerto que querían un reservado para una conversación que ningún hotel sensato habría querido alojar—, y Kal no entraba por el lobby salvo que fuera indispensable. Nadie se lo había pedido. Llegaba por carga con una grúa, una camioneta o un sedán prestado; a veces mandaba a Omar con uniforme limpio y una factura que no decía nada interesante; a veces no llegaba nadie, pero el problema dejaba de hacer ruido antes de tocar la puerta principal.
 
+Y empezó a pasar también sin que hubiera emergencia, con cosas que no parecían regalos porque venían disfrazadas de utilidad: un contacto de lavandería que sí contestaba de madrugada, el número de una empresa de hielo que no duplicaba recibos.
+
 Una tarde, un hombre del puerto que no debía estar en la lista abandonó el Monarch cinco minutos después de que Kal apareciera en el estacionamiento de empleados para revisar una supuesta batería muerta. Nadie lo tocó. Nadie lo siguió.
 
 —¿Qué le dijo? —preguntó Chiara después, en la salida de carga.
@@ -787,11 +790,7 @@ Arriba, Chiara se quitó los aretes frente al ventanal. Por la avenida pasaba un
 
 ***
 
-Con las semanas, Kal empezó a pasar por el Monarch sin que hubiera siempre una emergencia. Traía cosas que no parecían regalos porque venían disfrazadas de utilidad: un contacto de lavandería que sí contestaba de madrugada, el número de una empresa de hielo que no duplicaba recibos.
-
-Y una bisagra.
-
-La dejó una tarde sobre el escritorio del área administrativa, envuelta en un pedazo de trapo, sin nota.
+La semana siguiente, Kal dejó una bisagra sobre el escritorio del área administrativa, envuelta en un pedazo de trapo, sin nota.
 
 —¿Qué es esto?
 
@@ -885,24 +884,6 @@ Chiara pasó junto a él y entró al elevador antes de que la furia se le acomod
 
 ***
 
-Esa noche Kal llegó a la Almendra a las once y media. El taller ya estaba cerrando; Danny dormía en una silla, como si el cuerpo le cobrara de golpe todas las horas que se había robado.
-
-Se sentó en el borde del escritorio y miró el patio oscuro. En algún punto del día, entre una grúa, un proveedor y el pasillo del Monarch, se había acostumbrado a tener algo que contarle a alguien que no estaba en la Almendra.
-
-Eso era un problema.
-
-El teléfono vibró.
-
-**Bellandi:** La rueda del carrito se rompió.
-
-Kal leyó el mensaje dos veces antes de guardar el teléfono.
-
-—Mañana temprano paso por el Monarch —dijo, más para sí que para nadie.
-
-Apagó la luz de la oficina.
-
-***
-
 La conversación con Tommaso no la sacó de trabajo. La metió más adentro.
 
 En la oficina administrativa abrió el registro de accesos de servicio de las últimas semanas y lo leyó como leía un balance, buscando el renglón que se repetía: la grúa, la camioneta prestada, Omar con su factura, una batería muerta que no lo estaba. Cada entrada traía al margen la misma nota de seguridad: *visitante no programado, autorizado en sitio*.
@@ -927,9 +908,15 @@ A la media hora, Fabrizio la llamó.
 
 —Bene. Entonces yo también leí una grúa.
 
-La siguiente vez que Kal cruzó la caseta de la salida de carga, el guardia no salió a preguntarle nada: miró una pantalla, miró la placa, levantó la pluma. Chiara lo vio desde el muelle. Vio también que Kal se quedaba un segundo con el pie en el freno antes de avanzar.
+Esa noche, antes de apagar la computadora, le escribió a Kal.
 
-Bajó cuando él ya tenía el capó de un coche abierto y se limpiaba las manos con un trapo, mirando la caseta como quien revisa una junta nueva para ver si va a aguantar el invierno.
+**Bellandi:** La rueda del carrito se rompió.
+
+No contestó.
+
+A la mañana siguiente, temprano, Kal cruzó la caseta de la salida de carga y el guardia no salió a preguntarle nada: miró una pantalla, miró la placa, levantó la pluma. Chiara lo vio desde el muelle. Vio también que Kal se quedaba un segundo con el pie en el freno antes de avanzar.
+
+Bajó cuando él ya tenía el carrito de lavandería volteado sobre el muelle y se limpiaba las manos con un trapo, mirando la caseta como quien revisa una junta nueva para ver si va a aguantar el invierno.
 
 —Me dejaron pasar sin llamar a nadie.
 
@@ -945,7 +932,7 @@ Kal dobló el trapo.
 
 —Me cuesta menos que explicarlo cada semana.
 
-No le dio las gracias. Asintió una vez, se guardó el trapo y volvió a meterse debajo del coche, que tenía una fuga.
+No le dio las gracias. Asintió una vez, se guardó el trapo y volvió a agacharse sobre el carrito, que también traía el eje roto.
 
 Dos días después, el correo interno le dejó en la bandeja un formato de alta de proveedores con un solo renglón marcado en amarillo: *nombre completo del responsable*. No traía firma. En la casilla del solicitante decía *Dirección*.
 
@@ -1095,7 +1082,7 @@ El niño le tiró de la manga a Kal.
 
 Kyle se llevó la mano a la frente. La izquierda. Kal no lo corrigió.
 
-Por los altavoces, una voz tranquila pidió a la familia de Kyle que se presentara en información. Pasaron veinte minutos, y después cuarenta. El edificio nuevo quedaba a una pasarela y a tres radios de distancia, y cada radio tenía su turno.
+Por los altavoces, una voz tranquila pidió a la familia de Kyle que se presentara en información.
 
 Chiara le compró un jugo en la máquina. Kal encontró monedas para unas galletas. Le enseñó a hacer guardia mirando las dos puertas, y Kyle la hizo con una seriedad absoluta durante cuatro minutos, hasta que se le olvidó. Chiara le preguntó por su escuela, por su maestra y por el dinosaurio de la mochila, que se llamaba Steve.
 
@@ -1133,7 +1120,21 @@ Kal se dio cuenta porque el principio iba para otro lado.
 
 Kyle se rió con lo de las naranjas.
 
-La radio del guardia crujió a las cinco y veinte. Un minuto después, una mujer salió corriendo de la pasarela con un abrigo amarillo abierto y el bolso golpeándole la cadera, y el niño ya no estaba en la banca. El abrigo de Chiara se quedó en el piso, donde él lo soltó.
+Llevaban veinte minutos en la banca cuando la radio del guardia crujió. Escuchó, contestó algo corto y lo dijo sin mirar a Kal.
+
+—Hospitalización confirma. Están buscando a un niño de seis años.
+
+Kyle levantó la cabeza.
+
+—¿A mí?
+
+—A ti, soldado —dijo Kal.
+
+La radio volvió a crujir a los pocos minutos.
+
+—Ya localizaron a la madre. Viene para acá.
+
+No había terminado de decirlo cuando una mujer salió corriendo de la pasarela con un abrigo amarillo abierto y el bolso golpeándole la cadera, y el niño ya no estaba en la banca. El abrigo de Chiara se quedó en el piso, donde él lo soltó.
 
 La mujer se arrodilló en el linóleo y lo abrazó con todo el cuerpo, y le dijo al pelo cosas que nadie más tenía que oír.
 
@@ -1157,7 +1158,7 @@ En información, la recepcionista lo volvió a anotar en la lista, al final.
 
 La máquina de café estaba junto a la de las galletas, frente al ventanal. Kal metió monedas para dos vasos sin preguntarle si quería uno.
 
-Chiara venía de una junta de presupuesto y traía todavía los tacones de la mañana. En la bolsa llevaba la receta de la ginecóloga —las mismas pastillas, seis meses más— y, desde hacía una semana, el sobre con lo del hombre del puerto, que él seguía sin querer cobrar.
+Chiara había salido de su revisión antes de encontrarse al niño, y traía todavía los tacones de la junta de presupuesto de la mañana. En la bolsa llevaba, desde hacía una semana, el sobre con lo del hombre del puerto, que él seguía sin querer cobrar.
 
 Afuera, en Plaza Corona, se habían prendido los faroles. Kal le dio vuelta a su vaso.
 

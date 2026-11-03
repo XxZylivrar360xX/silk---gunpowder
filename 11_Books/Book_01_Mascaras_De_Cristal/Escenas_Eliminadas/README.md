@@ -214,6 +214,42 @@ Walt fuera del café (se conserva el teléfono):
 
 Tommaso, del café a la bisagra: «No sabía que ahora el mantenimiento incluía café.» → «…incluía ferretería.»; «Chiara sostuvo el vaso.» → «Chiara puso la mano sobre la bisagra.»; «Kal dejó el vaso en la mesa.» → «Kal terminó de acomodarse la chaqueta.»; «Chiara apoyó el vaso en la mesa y no le contestó.» → «Chiara no le contestó.»
 
+Recorrido de la coda del 5 (2026-11-02, lectura del autor):
+
+> Con las semanas, Kal empezó a pasar por el Monarch sin que hubiera siempre una emergencia. […]
+>
+> Y una bisagra.
+>
+> La dejó una tarde sobre el escritorio del área administrativa […]
+
+> Esa noche Kal llegó a la Almendra a las once y media. El taller ya estaba cerrando; Danny dormía en una silla, como si el cuerpo le cobrara de golpe todas las horas que se había robado.
+>
+> Se sentó en el borde del escritorio y miró el patio oscuro. En algún punto del día, entre una grúa, un proveedor y el pasillo del Monarch, se había acostumbrado a tener algo que contarle a alguien que no estaba en la Almendra.
+>
+> Eso era un problema.
+>
+> El teléfono vibró.
+>
+> **Bellandi:** La rueda del carrito se rompió.
+>
+> Kal leyó el mensaje dos veces antes de guardar el teléfono.
+>
+> —Mañana temprano paso por el Monarch —dijo, más para sí que para nadie.
+>
+> Apagó la luz de la oficina.
+
+Caseta: «La siguiente vez que Kal cruzó…» → «A la mañana siguiente, temprano, Kal cruzó…»; «el capó de un coche abierto» → «el carrito de lavandería volteado sobre el muelle»; «volvió a meterse debajo del coche, que tenía una fuga» → «volvió a agacharse sobre el carrito, que también traía el eje roto».
+
+Espera del hospital:
+
+> Pasaron veinte minutos, y después cuarenta. El edificio nuevo quedaba a una pasarela y a tres radios de distancia, y cada radio tenía su turno.
+
+> La radio del guardia crujió a las cinco y veinte. Un minuto después, una mujer salió corriendo […]
+
+Café (la receta puede volver en otro momento cotidiano con función propia):
+
+> Chiara venía de una junta de presupuesto y traía todavía los tacones de la mañana. En la bolsa llevaba la receta de la ginecóloga —las mismas pastillas, seis meses más— y, desde hacía una semana, el sobre […]
+
 ## Protocolo
 
 Al sacar un capítulo: `git mv` a esta carpeta, encabezado `ESCENA ELIMINADA` + `EPUB: EXCLUDE`, fila aquí, enlaces del vault actualizados. Al recuperarlo: lo inverso, y dejar la fila tachada con la fecha.

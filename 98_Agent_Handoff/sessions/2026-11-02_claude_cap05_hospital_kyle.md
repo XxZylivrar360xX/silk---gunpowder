@@ -77,3 +77,9 @@ Reglas afinadas (DISEÑO a pedido del autor): excepción de la regla 05 y de la 
 2. Apertura del 6, con la prosa leída.
 3. Libro II: el tic nace en ene A3 y la concepción es en oct A4 (~21 meses sin anticonceptivos). Decidir si deja la píldora con el primer tic o en una aparición posterior (la vela tardía, ene A4, deja ~9 meses). Registrado en [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]].
 4. Audio del Cap. 5 PENDIENTE (bitácora). EPUB no regenerado (borrador).
+
+## Recorrido de la coda y espera del hospital (mismo día, lectura del autor)
+
+Hecho (SURGERY, DISEÑO, BORRADOR): un solo anuncio de las semanas; servicios sin emergencia al montaje; fuera la escena de Kal en la Almendra; el mensaje de la rueda pasa a POV Chiara («No contestó.») y Kal llega a la mañana siguiente por la caseta a arreglar el carrito. Cadena: bisagra → Tommaso → autorización → rueda → caseta → Dirección → Blake. Hospital: fuera las tres radios; pregunta de Kyle antes de la confirmación; dos avisos del guardia (veinte minutos; «Ya localizaron a la madre»). Café sin receta. Detalle en el comentario del capítulo; texto retirado en Escenas_Eliminadas/README.
+
+Pendiente: la receta («las mismas pastillas, seis meses más») puede volver en un momento cotidiano con función propia (enlaza con el punto 3).
