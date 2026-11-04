@@ -2,11 +2,13 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-02 23:05. Al día: 56 de 56.
+Actualizada: 2026-11-03 16:16. Al día: 55 de 56.
 
 ## Pendientes
 
-Ninguno: todos los audios corresponden a la prosa actual.
+| Cap. | Título | Estado | Motivo | Desde |
+|---|---|---|---|---|
+| 5 | Cliente y proveedor | PENDIENTE | cambió la prosa | 2026-11-03 16:03 |
 
 ## Capítulos
 
@@ -16,7 +18,7 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | 2 | Demasiado listo | AL DIA | 2026-10-24 |
 | 3 | Los viejos días | AL DIA | 2026-10-24 |
 | 4 | Tarifa nocturna | AL DIA | 2026-10-24 |
-| 5 | Cliente y proveedor | AL DIA | 2026-11-02 |
+| 5 | Cliente y proveedor | PENDIENTE | 2026-11-02 |
 | 6 | La pizza de calabaza | AL DIA | 2026-11-02 |
 | 7 | Ambos | AL DIA | 2026-11-01 |
 | 8 | La noche del ladrillo | AL DIA | 2026-11-01 |
@@ -71,6 +73,7 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Historial
 
+- 2026-11-03 16:03 · Cap. 5 (05a_Cliente_Y_Proveedor.md) · audio pendiente: cambió la prosa
 - 2026-11-02 23:04 · Cap. 6 (05c_La_Pizza_De_Calabaza.md) · audio regenerado
 - 2026-11-02 23:01 · Cap. 5 (05a_Cliente_Y_Proveedor.md) · audio regenerado
 - 2026-11-02 22:04 · Cap. 6 (05c_La_Pizza_De_Calabaza.md) · audio pendiente: cambió la prosa

@@ -53,6 +53,8 @@ Funcion: la costumbre. Varga no vuelve, Kal empieza a llegar sin emergencia, Tom
 Historial de cirugias y decisiones del antiguo Cap. 5 (Una amiga), previo a la segmentacion: ver el comentario de 05a_Cliente_Y_Proveedor.md.
 Arco de Blake (2026-10-22, decision del autor; prosa DISENO pendiente de lectura): seccion nueva tras la salida de carga (grua de Almendra en la entrada y "Esas trabajan para nosotros"; cena en el Distrito Marino, Blake bueno a solas y trofeo ante la teniente (Collins, sin nombre; antes un sargento de La Isla, cambio del autor 2026-10-24), contesta por ella; el domingo no: "Monto", Blake no lo oye) y cierre nuevo: el beso en la entrada del Monarch, correcto y sin vibracion, sin glosa ni comparacion con Kal; contrasta solo con la apertura de 5c (Rocco).
 Regla 05, esticomitia de una sola voz (2026-10-24, aprobado por el autor; DISENO del agente): salida de carga, fuera el eco "Esa si me la dice" / "Esa sale barata" y piquete residual del hombro al cerrar el capo; bisagra, Chiara acumula de un aliento (fuera "Esa."); sobre, "Lo tengo anotado con dia y hora. Solo me falta el monto."; pasillo, opcion A (Chiara pierde dos turnos, fuera "repeticion con prueba" y "Yo si"; Tommaso abre con "Bellandi"); sujeto explicito en "Chiara paso junto a el"; caseta, "¿Desde cuando?" -> "Kal no pregunto desde cuando.". Reporte: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]].
+Semanas reformuladas (2026-11-03, pedido del autor: "lo senti pesado"; opcion A con la bitacora; prosa DISEÑO, sigue BORRADOR): Blake abre la etapa (cena del Distrito Marino), luego salida de carga (hombre del puerto, rueda, canon intacto), bisagra comprimida + Tommaso, y la bitacora de vigilancia sustituye el montaje del narrador: Chiara filtra los accesos de Kal (cinco renglones en cursiva, "Visitante no programado, autorizado en sitio"; "Diecinueve renglones desde la noche del Mercedes, y en ninguno decia lobby") y los vacia en una sola orden de compra de servicios externos (tarifa por acto; la bisagra como material; el hombre del puerto queda fuera, siembra del sobre). El mensaje de Blake ("¿Sabado?") llega a media orden. Caseta: "Nadir imprimio la orden dos veces... Una es para la pared." Se conservan "Treinta dias" de la reunion, "¿Una grua, Ardizzone?", la rueda, la caseta y V-1. Texto retirado en Escenas_Eliminadas/README.
+Hospital con mas espacio (2026-11-03, DECISION DEL AUTOR; prosa DISEÑO, sigue BORRADOR): Kal llega a mitad de la presentacion ("Mi nombre es Chiara", sin apellido: Kyle solo oye el nombre, y por eso "señora Mercer"); fuera "Señor Mercer / Señora Bellandi", queda un intercambio de miradas (el niño es el foco). Kyle da su nombre al sargento, no a ella ("A ella no se lo habia dicho"); reaccion de Chiara al pasado militar vista por Kal ("como quien relee un renglon"). La espera en escena: guardia (señor con muletas, "Bien visto"), Steve "carnivoro pero solo los domingos", "¿Con el? / A veces" (siembra de pareja, eco de "A veces" del soldado). Cuento del gato en voz de Chiara (sardina "que no era suya"; "Los gatos no comen naranjas / Este si"). Cafe: "Lo llaman, sargento." / "No la corrigio."
 -->
 
 # Capítulo 5 — Cliente y proveedor
@@ -669,58 +671,6 @@ La silla de él seguía separada de la mesa, en el ángulo en que la había deja
 
 ***
 
-Los treinta días empezaron a correr, y después las semanas, mientras Plaza Corona iba saliendo de los noticieros y la ciudad encontraba otras cosas de qué hablar.
-
-Los problemas llegaron de uno en uno —un proveedor de hielo que intentó facturar dos entregas en la misma hora, dos hombres del puerto que querían un reservado para una conversación que ningún hotel sensato habría querido alojar—, y Kal no entraba por el lobby salvo que fuera indispensable. Nadie se lo había pedido. Llegaba por carga con una grúa, una camioneta o un sedán prestado; a veces mandaba a Omar con uniforme limpio y una factura que no decía nada interesante; a veces no llegaba nadie, pero el problema dejaba de hacer ruido antes de tocar la puerta principal.
-
-Y empezó a pasar también sin que hubiera emergencia, con cosas que no parecían regalos porque venían disfrazadas de utilidad: un contacto de lavandería que sí contestaba de madrugada, el número de una empresa de hielo que no duplicaba recibos.
-
-Una tarde, un hombre del puerto que no debía estar en la lista abandonó el Monarch cinco minutos después de que Kal apareciera en el estacionamiento de empleados para revisar una supuesta batería muerta. Nadie lo tocó. Nadie lo siguió.
-
-—¿Qué le dijo? —preguntó Chiara después, en la salida de carga.
-
-Kal cerró el capó del coche. El hombro derecho le dio un piquete y lo giró una vez, sin hacerle caso.
-
-—Que la batería no era el problema.
-
-—El mes que entra va a estar otra vez en la lista, con otro nombre. Quiero que no vuelva.
-
-Kal tardó en guardar el trapo.
-
-—¿Eso quién lo pide?
-
-—Yo.
-
-—¿Y la mesa?
-
-Chiara no contestó.
-
-Un carrito de lavandería pasó detrás de ellos con una rueda chillando. Kal lo siguió con la mirada.
-
-—Esa rueda va a romper el eje antes del viernes.
-
-—Por favor, no me dé otro problema.
-
-—Ése sí se lo puedo facturar.
-
-Esta vez sí se rió. Fue breve, y recuperó la cara antes de que el gesto se volviera demasiado privado.
-
-—Lo del puerto no se lo estoy pidiendo por factura.
-
-—Ya sé. —Kal miró el carrito hasta que dio vuelta al final del pasillo—. Entonces pídamelo el día que pueda decir que me lo pidió.
-
-—Usted tiene que dejar de encontrar fallas en mi edificio.
-
-—No es suyo.
-
-Kal no intentó arreglarlo con palabras.
-
-—Buenas tardes, señora Bellandi.
-
-Ella asintió y subió por el elevador de servicio. Iba molesta, y no sólo con él.
-
-***
-
 A Blake le contestó tarde.
 
 Respondió en un minuto, con una hora y un lugar, como si los días de silencio hubieran sido idea suya.
@@ -791,29 +741,61 @@ Arriba, Chiara se quitó los aretes frente al ventanal. Por la avenida pasaba un
 
 ***
 
-La semana siguiente, Kal dejó una bisagra sobre el escritorio del área administrativa, envuelta en un pedazo de trapo, sin nota.
+Una tarde, un hombre del puerto que no debía estar en la lista abandonó el Monarch cinco minutos después de que Kal apareciera en el estacionamiento de empleados para revisar una supuesta batería muerta. Nadie lo tocó. Nadie lo siguió.
 
-—¿Qué es esto?
+—¿Qué le dijo? —preguntó Chiara después, en la salida de carga.
 
-—Una bisagra.
+Kal cerró el capó del coche. El hombro derecho le dio un piquete y lo giró una vez, sin hacerle caso.
 
-—Eso lo veo.
+—Que la batería no era el problema.
 
-—Para la puerta de servicio del pasillo del lobby. La que tienen cierra sola pero se queda medio centímetro afuera y no engancha. Ésta engancha.
+—El mes que entra va a estar otra vez en la lista, con otro nombre. Quiero que no vuelva.
 
-Chiara la levantó. Pesaba más de lo que parecía.
+Kal tardó en guardar el trapo.
 
-—Ésa es la puerta que usted mencionó en la reunión.
+—¿Eso quién lo pide?
 
-—Sí.
+—Yo.
 
-—La reunión en la que le dijeron que no. ¿Y aun así trae la bisagra?
+—¿Y la mesa?
+
+Chiara no contestó.
+
+Un carrito de lavandería pasó detrás de ellos con una rueda chillando. Kal lo siguió con la mirada.
+
+—Esa rueda va a romper el eje antes del viernes.
+
+—Por favor, no me dé otro problema.
+
+—Ése sí se lo puedo facturar.
+
+Esta vez sí se rió. Fue breve, y recuperó la cara antes de que el gesto se volviera demasiado privado.
+
+—Lo del puerto no se lo estoy pidiendo por factura.
+
+—Ya sé. —Kal miró el carrito hasta que dio vuelta al final del pasillo—. Entonces pídamelo el día que pueda decir que me lo pidió.
+
+—Usted tiene que dejar de encontrar fallas en mi edificio.
+
+—No es suyo.
+
+Kal no intentó arreglarlo con palabras.
+
+—Buenas tardes, señora Bellandi.
+
+Ella asintió y subió por el elevador de servicio. Iba molesta, y no sólo con él.
+
+***
+
+Kal dejó una bisagra sobre el escritorio del área administrativa, envuelta en papel de estraza, sin nota. Era para la puerta de servicio del pasillo del lobby, la que cerraba sola y se quedaba medio centímetro afuera sin enganchar; él la había mencionado en una reunión, y en esa reunión le habían dicho que no.
+
+—Le dijeron que no a esa puerta.
 
 Kal se acomodó la chaqueta para irse.
 
 —La puerta no estuvo en la reunión.
 
-Chiara la dejó sobre el escritorio con más cuidado del que pensaba tener.
+Chiara la levantó. Pesaba más de lo que parecía. La dejó sobre el escritorio con más cuidado del que pensaba tener.
 
 El elevador sonó.
 
@@ -887,15 +869,37 @@ Chiara pasó junto a él y entró al elevador antes de que la furia se le acomod
 
 La conversación con Tommaso no la sacó de trabajo. La metió más adentro.
 
-En la oficina administrativa abrió el registro de accesos de servicio de las últimas semanas y lo leyó como leía un balance, buscando el renglón que se repetía: la grúa, la camioneta prestada, Omar con su factura, una batería muerta que no lo estaba. Cada entrada traía al margen la misma nota de seguridad: *visitante no programado, autorizado en sitio*.
+En la oficina administrativa abrió la bitácora de vigilancia de la rampa de servicio y la filtró por placa. Después, por proveedor. Después, por la nota que seguridad ponía al margen cuando nadie había avisado.
+
+*Lunes, 23:52. Grúa, Almendra Towing. Retiro de vehículo, acceso principal. Visitante no programado, autorizado en sitio.*
+
+*Jueves, 05:40. Sedán particular. Revisión de entrega de hielo. Visitante no programado, autorizado en sitio.*
+
+*Martes, 16:15. Proveedor a pie, uniformado. Entrega de factura. Visitante no programado, autorizado en sitio.*
+
+*Domingo, 03:05. Camioneta. Lavandería, recolección fuera de horario. Visitante no programado, autorizado en sitio.*
+
+*Miércoles, 17:20. Sedán particular. Estacionamiento de empleados. Batería. Visitante no programado, autorizado en sitio.*
+
+Siguió bajando. Diecinueve renglones desde la noche del Mercedes, y en ninguno decía *lobby*.
 
 El problema no era que Kal entrara. Era que entraba como excepción, y las excepciones se acumulan hasta que alguien se sienta a contarlas.
 
-Lo corrigió antes de que existiera la pregunta.
+Prefirió contarlas ella.
 
-Almendra Towing tenía licencia municipal y seguro al día, y darla de alta como proveedor externo de remolque del Monarch entraba, con holgura, en lo que ella podía firmar sin llevar nada a junta. Redactó la autorización en el lenguaje más aburrido que encontró —tarifa por acto, respuesta en veinticuatro horas, ingreso por la rampa de servicio, facturación a fin de mes— y la archivó entre el contrato de lavandería y el de hielo, donde nadie leía porque nadie quería.
+Almendra Towing tenía licencia municipal y seguro al día, y darla de alta como proveedor externo de remolque del Monarch entraba, con holgura, en lo que ella podía firmar sin llevar nada a junta. Abrió una orden de compra en blanco y vació en ella la bitácora, renglón por renglón, con la fecha y la hora de cada acceso: remolque, arranque, flete, revisión de proveedor. La bisagra la anotó como material, a precio de ferretería. Tarifa por acto, un solo pago de servicios externos, facturación a fin de mes, en el lenguaje más aburrido que encontró.
 
-El nombre de Kal no quedó en ningún lugar donde no estuviera también el de una empresa de toallas.
+El hombre del puerto no cabía en ningún renglón. Lo dejó fuera.
+
+A media orden le vibró el teléfono.
+
+**Blake:** ¿Sábado? Conozco un lugar en la costa.
+
+**Bellandi:** Sábado.
+
+Volvió al renglón de la batería.
+
+El total quedó debajo de la cifra que firmaba sola, sin que tuviera que forzarlo. Archivó la orden entre el contrato de lavandería y el de hielo, donde nadie leía porque nadie quería. El nombre de Kal no quedó en ningún lugar donde no estuviera también el de una empresa de toallas.
 
 Antes de mandarla se quedó un segundo con el cursor encima. Era su firma sobre la palabra *Almendra*, en un registro que otros también leían.
 
@@ -933,7 +937,9 @@ Kal dobló el trapo.
 
 —Me cuesta menos que explicarlo cada semana.
 
-No le dio las gracias. Asintió una vez, se guardó el trapo y volvió a agacharse sobre el carrito, que también traía el eje roto.
+No le dio las gracias. Se guardó el trapo y volvió a agacharse sobre el carrito, que también traía el eje roto.
+
+—Nadir imprimió la orden dos veces —dijo desde abajo—. Una es para la pared.
 
 Dos días después, el correo interno le dejó en la bandeja un formato de alta de proveedores con un solo renglón marcado en amarillo: *nombre completo del responsable*. No traía firma. En la casilla del solicitante decía *Dirección*.
 
@@ -941,9 +947,7 @@ Chiara lo llenó con lo que venía en la licencia municipal y lo devolvió antes
 
 ***
 
-El sábado salió con Blake.
-
-La llevó a un bar de la costa con terraza y música en vivo, eligió una mesa desde donde los veía todo el que entraba, y esa noche no entró nadie conocido. Fue una noche fácil. Blake pidió por ella sin preguntarle y acertó; habló de su coche, de un ascenso que le correspondía, del capitán; preguntó por Palermo una vez y escuchó la respuesta hasta la mitad.
+El sábado, el lugar de la costa resultó ser un bar con terraza y música en vivo. Blake eligió una mesa desde donde los veía todo el que entraba, y esa noche no entró nadie conocido. Fue una noche fácil. Blake pidió por ella sin preguntarle y acertó; habló de su coche, de un ascenso que le correspondía, del capitán; preguntó por Palermo una vez y escuchó la respuesta hasta la mitad.
 
 La dejó en la entrada principal pasada la medianoche. Esta vez sí se bajó. Rodeó el coche, le abrió la puerta, y cuando ella se enderezó en la acera, la besó.
 
@@ -1011,15 +1015,15 @@ Chiara se quedó con la respuesta a medio camino.
 
 Kal se levantó.
 
-No supo bien para qué hasta que estuvo ahí. El niño lo vio llegar y se fue para atrás, hasta quedar medio escondido detrás de la rodilla de Chiara, y Kal se vio como debía de verlo él: un hombre del tamaño de una puerta, con una cicatriz en la cara.
+No supo bien para qué hasta que estuvo ahí.
 
-Chiara levantó la vista.
+—Mi nombre es Chiara —estaba diciendo ella—. ¿Y el tuyo?
 
-—Señor Mercer.
+El niño abrió la boca para contestar, vio a Kal y se fue para atrás, hasta quedar medio escondido detrás de la rodilla de Chiara. Kal se vio como debía de verlo él: un hombre del tamaño de una puerta, con una cicatriz en la cara.
 
-—Señora Bellandi.
+Chiara levantó la vista. Lo reconoció sin cambiar la cara, le sostuvo la mirada lo que dura un saludo y la devolvió al niño. Kal entendió el orden y no dijo nada.
 
-Kal se agachó. El hombro le dio un tirón; apoyó la mano izquierda en el piso y bajó hasta quedar más abajo que ella, más abajo que el niño.
+Se agachó. El hombro le dio un tirón; apoyó la mano izquierda en el piso y bajó hasta quedar más abajo que ella, más abajo que el niño.
 
 —¿Eres policía? —preguntó el niño.
 
@@ -1053,7 +1057,9 @@ El niño se enderezó dentro del abrigo como si alguien le hubiera dado un unifo
 
 —Yo soy Kyle. —Levantó la mano abierta y después sacó un dedo de la otra, con trabajo—. Tengo seis.
 
-Chiara lo miró desde arriba, con la mano todavía en la espalda del niño, y tardó en volver la vista a Kyle.
+A ella no se lo había dicho.
+
+Chiara no estaba mirando al niño. Lo miraba a él, con la mano quieta en la espalda de Kyle, como quien relee un renglón que creía conocer. No preguntó nada. Kal tampoco le explicó nada, y ella tardó en volver la vista a Kyle.
 
 —Muy bien, Kyle —dijo Kal—. Necesito un informe. ¿Por dónde llegaste aquí?
 
@@ -1087,7 +1093,33 @@ Kyle se llevó la mano a la frente. La izquierda. Kal no lo corrigió.
 
 Por los altavoces, una voz tranquila pidió a la familia de Kyle que se presentara en información.
 
-Chiara le compró un jugo en la máquina. Kal encontró monedas para unas galletas. Le enseñó a hacer guardia mirando las dos puertas, y Kyle la hizo con una seriedad absoluta durante cuatro minutos, hasta que se le olvidó. Chiara le preguntó por su escuela, por su maestra y por el dinosaurio de la mochila, que se llamaba Steve.
+Chiara le compró un jugo en la máquina. Kal encontró monedas para unas galletas y no se las dio todavía.
+
+—Primero la guardia.
+
+Lo sentó en la orilla de la banca, donde se veían las dos puertas, la de la plaza y la de la pasarela, y le explicó que un soldado de guardia no le quita los ojos a la puerta aunque le hablen. Kyle se puso el jugo entre las rodillas y vigiló con una seriedad absoluta. Cuando entró un señor con muletas, se llevó la mano a la frente e informó que no traía abrigo amarillo.
+
+—Bien visto —dijo Kal.
+
+A los cuatro minutos se le olvidó la guardia. Chiara aprovechó para preguntarle por su escuela, por su maestra, que no dejaba hablar en la fila, y por el dinosaurio de la mochila, que se llamaba Steve y era carnívoro pero sólo los domingos.
+
+—¿Tú también fuiste soldado? —le preguntó Kyle a ella.
+
+—No, bambino.
+
+—¿Y qué eres?
+
+—Trabajo en un hotel.
+
+Kyle miró a Kal, que seguía vigilando las puertas porque alguien tenía que hacerlo, y luego a ella.
+
+—¿Con él?
+
+Chiara tardó un segundo.
+
+—A veces.
+
+Kal no volteó. Siguió mirando la puerta de la pasarela.
 
 En la pantalla de turnos apareció MERCER, K. — CONSULTORIO 6.
 
@@ -1117,9 +1149,19 @@ Kyle lo miró, y luego miró a Chiara.
 
 —Yo tampoco, bambino.
 
-Kyle no pareció del todo convencido. Chiara le acomodó el cuello y empezó a contarle de un gato de Palermo que se había perdido en un mercado, entre los puestos de pescado, con la voz baja y el acento más marcado que antes. A la mitad, al niño se le empezó a ir la boca para abajo, y el gato, que iba a pasar la noche solo debajo de un puesto, encontró a su familia esperándolo en el de las naranjas.
+Kyle no pareció del todo convencido. Chiara le acomodó el cuello del abrigo.
+
+—En Palermo hay un mercado con más gritos que este hospital —dijo, con la voz baja y el acento más marcado que antes—. Entre los puestos de pescado vivía un gato que se creía muy listo. Un día se fue detrás de una sardina que no era suya, y cuando volteó ya no conocía ningún puesto. Se hizo de noche, y el gato pensó que iba a tener que dormir solo, debajo de una mesa…
+
+A Kyle se le empezó a ir la boca para abajo.
+
+—…pero no le dio tiempo —siguió Chiara, sin cambiar el tono—, porque en el puesto de las naranjas, el de la esquina, estaba toda su familia esperándolo. Con una naranja para él.
 
 Kal se dio cuenta porque el principio iba para otro lado.
+
+—Los gatos no comen naranjas —dijo Kyle.
+
+—Éste sí.
 
 Kyle se rió con lo de las naranjas.
 
@@ -1195,6 +1237,8 @@ Chiara se guardó la respuesta donde guardaba las cosas que no debía usar.
 
 En la pantalla de turnos volvió a aparecer el nombre de él: MERCER, K. — CONSULTORIO 6.
 
-Kal tiró el vaso y se fue hacia el pasillo, con el brazo derecho quieto junto al cuerpo.
+—Lo llaman, sargento.
+
+Kal tiró el vaso y se fue hacia el pasillo, con el brazo derecho quieto junto al cuerpo. No la corrigió.
 
 Chiara se quedó mirando la pantalla hasta que el nombre cambió.

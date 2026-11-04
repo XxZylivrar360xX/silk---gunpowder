@@ -250,6 +250,48 @@ Café (la receta puede volver en otro momento cotidiano con función propia):
 
 > Chiara venía de una junta de presupuesto y traía todavía los tacones de la mañana. En la bolsa llevaba la receta de la ginecóloga —las mismas pastillas, seis meses más— y, desde hacía una semana, el sobre […]
 
+### Texto retirado del Cap. 5 (archivo 05a) al reformular las semanas (2026-11-03)
+
+Pedido del autor: la etapa de las semanas se sentía pesada. El montaje del narrador se sustituye por la bitácora de vigilancia y la orden de compra; Blake abre la etapa. Texto literal retirado:
+
+> Los treinta días empezaron a correr, y después las semanas, mientras Plaza Corona iba saliendo de los noticieros y la ciudad encontraba otras cosas de qué hablar.
+
+> Los problemas llegaron de uno en uno —un proveedor de hielo que intentó facturar dos entregas en la misma hora, dos hombres del puerto que querían un reservado para una conversación que ningún hotel sensato habría querido alojar—, y Kal no entraba por el lobby salvo que fuera indispensable. Nadie se lo había pedido. Llegaba por carga con una grúa, una camioneta o un sedán prestado; a veces mandaba a Omar con uniforme limpio y una factura que no decía nada interesante; a veces no llegaba nadie, pero el problema dejaba de hacer ruido antes de tocar la puerta principal.
+
+> Y empezó a pasar también sin que hubiera emergencia, con cosas que no parecían regalos porque venían disfrazadas de utilidad: un contacto de lavandería que sí contestaba de madrugada, el número de una empresa de hielo que no duplicaba recibos.
+
+Bisagra (diálogo comprimido):
+
+> La semana siguiente, Kal dejó una bisagra sobre el escritorio del área administrativa, envuelta en un pedazo de trapo, sin nota.
+>
+> —¿Qué es esto?
+>
+> —Una bisagra.
+>
+> —Eso lo veo.
+>
+> —Para la puerta de servicio del pasillo del lobby. La que tienen cierra sola pero se queda medio centímetro afuera y no engancha. Ésta engancha.
+>
+> Chiara la levantó. Pesaba más de lo que parecía.
+>
+> —Ésa es la puerta que usted mencionó en la reunión.
+>
+> —Sí.
+>
+> —La reunión en la que le dijeron que no. ¿Y aun así trae la bisagra?
+>
+> Kal se acomodó la chaqueta para irse.
+
+Registro:
+
+> En la oficina administrativa abrió el registro de accesos de servicio de las últimas semanas y lo leyó como leía un balance, buscando el renglón que se repetía: la grúa, la camioneta prestada, Omar con su factura, una batería muerta que no lo estaba. Cada entrada traía al margen la misma nota de seguridad: *visitante no programado, autorizado en sitio*.
+
+> Lo corrigió antes de que existiera la pregunta.
+
+> Almendra Towing tenía licencia municipal y seguro al día, y darla de alta como proveedor externo de remolque del Monarch entraba, con holgura, en lo que ella podía firmar sin llevar nada a junta. Redactó la autorización en el lenguaje más aburrido que encontró —tarifa por acto, respuesta en veinticuatro horas, ingreso por la rampa de servicio, facturación a fin de mes— y la archivó entre el contrato de lavandería y el de hielo, donde nadie leía porque nadie quería.
+
+Caseta: «Asintió una vez,» (sale). Blake: «El sábado salió con Blake. / La llevó a un bar de la costa con terraza y música en vivo, eligió una mesa…» → «El sábado, el lugar de la costa resultó ser un bar con terraza y música en vivo. Blake eligió una mesa…».
+
 ## Protocolo
 
 Al sacar un capítulo: `git mv` a esta carpeta, encabezado `ESCENA ELIMINADA` + `EPUB: EXCLUDE`, fila aquí, enlaces del vault actualizados. Al recuperarlo: lo inverso, y dejar la fila tachada con la fecha.
