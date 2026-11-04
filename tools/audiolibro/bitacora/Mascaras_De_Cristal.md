@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-03 22:34. Al día: 56 de 56.
+Actualizada: 2026-11-04 01:13. Al día: 56 de 56.
 
 ## Pendientes
 
@@ -15,14 +15,14 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | 1 | Un hombre de negocios intachable | AL DIA | 2026-10-24 |
 | 2 | Demasiado listo | AL DIA | 2026-10-24 |
 | 3 | Los viejos días | AL DIA | 2026-11-03 |
-| 4 | Tarifa nocturna | AL DIA | 2026-11-03 |
+| 4 | Tarifa nocturna | AL DIA | 2026-11-04 |
 | 5 | Cliente y proveedor | AL DIA | 2026-11-03 |
-| 6 | La pizza de calabaza | AL DIA | 2026-11-03 |
-| 7 | Ambos | AL DIA | 2026-11-03 |
-| 8 | La noche del ladrillo | AL DIA | 2026-11-03 |
-| 9 | La carrera de máscaras | AL DIA | 2026-11-03 |
+| 6 | La pizza de calabaza | AL DIA | 2026-11-04 |
+| 7 | Ambos | AL DIA | 2026-11-04 |
+| 8 | La noche del ladrillo | AL DIA | 2026-11-04 |
+| 9 | La carrera de máscaras | AL DIA | 2026-11-04 |
 | 10 | La teniente | AL DIA | 2026-11-01 |
-| 11 | La balanza | AL DIA | 2026-11-01 |
+| 11 | La balanza | AL DIA | 2026-11-04 |
 | 12 | Dos sillas vacías | AL DIA | 2026-11-01 |
 | 13 | Roma Atrii | AL DIA | 2026-11-01 |
 | 14 | Auster | AL DIA | 2026-11-01 |
@@ -71,6 +71,18 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Historial
 
+- 2026-11-04 01:13 · Cap. 11 (09_La_Balanza.md) · audio regenerado
+- 2026-11-04 01:13 · Cap. 9 (08_La_Carrera_De_Mascaras.md) · audio regenerado
+- 2026-11-04 01:13 · Cap. 8 (07_La_Noche_Del_Ladrillo.md) · audio regenerado
+- 2026-11-04 01:13 · Cap. 7 (06_Ambos.md) · audio regenerado
+- 2026-11-04 01:13 · Cap. 6 (05c_La_Pizza_De_Calabaza.md) · audio regenerado
+- 2026-11-04 01:13 · Cap. 4 (04_Tarifa_Nocturna.md) · audio regenerado
+- 2026-11-04 00:10 · Cap. 11 (09_La_Balanza.md) · audio pendiente: cambió la prosa
+- 2026-11-04 00:10 · Cap. 9 (08_La_Carrera_De_Mascaras.md) · audio pendiente: cambió la prosa
+- 2026-11-04 00:10 · Cap. 8 (07_La_Noche_Del_Ladrillo.md) · audio pendiente: cambió la prosa
+- 2026-11-04 00:10 · Cap. 7 (06_Ambos.md) · audio pendiente: cambió la prosa
+- 2026-11-04 00:10 · Cap. 6 (05c_La_Pizza_De_Calabaza.md) · audio pendiente: cambió la prosa
+- 2026-11-04 00:10 · Cap. 4 (04_Tarifa_Nocturna.md) · audio pendiente: cambió la prosa
 - 2026-11-03 22:34 · Cap. 21 (21_El_Primer_Huesped.md) · audio regenerado
 - 2026-11-03 22:34 · Cap. 9 (08_La_Carrera_De_Mascaras.md) · audio regenerado
 - 2026-11-03 22:34 · Cap. 8 (07_La_Noche_Del_Ladrillo.md) · audio regenerado

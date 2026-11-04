@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-04: [[98_Agent_Handoff/sessions/2026-11-04_claude_favor_nadir_vento]] · DECISIÓN DEL AUTOR: la ruleta vuelve al Cap. 7 como primer encuentro (H2-b restaurado); Chiara le ofrece un favor a Nadir en Gabriella's, que él cobra tras la ruptura para que Danny monte a Vento; Kal lo sabe sin que ella se lo diga (Cap. 11). DISEÑO, espera lectura.
 - 2026-11-03: [[98_Agent_Handoff/sessions/2026-11-03_claude_cap04_rio]] · DECISIÓN DEL AUTOR: Cap. 4 reconstruido (regla 06): cajero antes de la llamada, POV Kal; Varga desde la mañana; cortejo desde Mabel; fuera la insinuación de Dario. DISEÑO, espera lectura. Nadir y Danny fuera de la cena; Chiara los conoce en el ladrillo; la ruleta cierra el Cap. 8.
 - 2026-11-03: [[98_Agent_Handoff/sessions/2026-11-03_claude_cap05_una_semana_y_cajero]] · DECISIÓN DEL AUTOR: Caps. 4, 5 y 7 reestructurados (regla 06 de staging); cajero abierto en *Ambos*.
 - 2026-11-02: [[98_Agent_Handoff/sessions/2026-11-02_claude_cap05_hospital_kyle]] · CANON DEL AUTOR (lectura con ChatGPT): Kyle, niño perdido en el Hospital Santa Aurelia; Kal se presenta como «Sargento Mercer» y Chiara descubre su pasado militar; «¡Adiós, sargento y señora Mercer!»; Chiara conoce el departamento de Blake y va por control natal; deja los anticonceptivos desde el tic del nombre (Libro II, motivo PENDIENTE); teléfono de Walt exclusivo de los Caps. 5–6. Segunda mitad del 5 reescrita (BORRADOR).

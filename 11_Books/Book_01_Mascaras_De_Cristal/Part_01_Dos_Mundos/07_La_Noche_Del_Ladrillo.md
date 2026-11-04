@@ -17,6 +17,7 @@ SURGERY 2026-10-22 (autorizada por el autor; puntos de ChatGPT 2026-10-19; sigue
 Arco de Blake (2026-10-22, decision del autor; DISENO pendiente de lectura): linea de la cuarta invitacion ("otro no ya habria sido una respuesta"); Nadir y Danny ya conocidos por la ruleta del 6 ("los de la ruleta de la una de la mañana"); Kal empieza a presentar a Nadir y este lo corta: "Ya nos conocemos... La señora me debe un verde... Tu amiga."
 Primer encuentro con los chicos (2026-11-03, DECISION DEL AUTOR; prosa DISEÑO): aqui Chiara le pone cara por primera vez a Nadir y Danny. Fuera "los de la ruleta", "Ya nos conocemos", "La señora me debe un verde", "Tu amiga". Entra "Usted es el problema" (cobra "El problema llamo" del Cap. 4) y la tarifa de dentista.
 Ruleta y cierre nuevo (2026-11-03, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR en este tramo): el capitulo ya no cierra en el taxi, que queda como transito (conserva el Peugeot armado, que cita el Cap. 9). Penthouse: el ladrillo pasa a la mesa de noche del lado que Chiara no usa (lado de Kal en el Cap. 22; resuelve el PENDIENTE de H3: lo conserva). Tina con la reflexion de la "misma pintura" (eco del Cap. 2). La ruleta, trasladada del Cap. 7, cobra la invitacion de Gabriella's ("pase por el casino cuando quiera"): tres menos diez, despues de la entrega a Dario de esa misma noche; Danny toca con nudillos, alguien lo regaña, Nadir toca el timbre con pantalla, y Chiara los ve saludar en ella (idea del autor); fajo del sobre, paja en la gorra (cobro en el Cap. 9). Chiara se rie: alivio tras Blake. Cierre: billetes debajo del ladrillo. Se conserva "Trabajo de madrugada" (canon de H3). DISEÑO del agente: "Mercer colgo las llaves", la copa de Nadir sola en la barra, "No es chistoso / Un poco".
+Favor y Vento (2026-11-04, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR en este tramo; supersede los dos parrafos anteriores en lo que contradigan): la ruleta regresa al Cap. 7, asi que los chicos ya son conocidos. En Gabriella's, Chiara le ofrece un favor a Nadir por ser amigo de Kal ("La casa no debe... La casa hace favores"); se quedan "Usted es el problema", el dentista y "Cuando quiera". Cierre: tres toques y timbre, conversacion por el parlante ("Vengo a cobrar"; ella teme que tenga que ver con la tarjeta de Dario, sin explicarlo); el favor es que Danny monte. Bajan al corral: Chiara monta primero en Vento (al paso), Danny despues, de la cuerda; "Los domingos... A las seis ya voy de regreso" (de ahi lo sabe Kal, Cap. 11). Vento le revisa el bigote a Russ y Russ se rie, primera vez; a ella se le contagia, casi sin ruido (la carcajada entera sigue reservada al Cap. 9). No se dice que Vento es de ella (lo cuenta en el archivo 33). Fuera: Chiara repartiendo, los 640 bajo el ladrillo. Cierre: paja bajo el ladrillo. "Danny saluda en la pantalla" (idea del autor) intacto. Corrado no aparece.
 -->
 
 # Capítulo 8 — La noche del ladrillo
@@ -157,7 +158,7 @@ Esta vez no tuvo que preguntarse quién iba dentro. Se quedó mirando la boca de
 
 A los dos minutos aparecieron cuatro figuras caminando hacia la entrada principal.
 
-Kal, con la chaqueta de siempre. Y tres a los que ella sólo conocía de oídas, de semanas de llamadas en las que nunca había hecho falta ponerles cara. El de la ropa sacada directo del taller, que le medía la fachada al local como si fuera a hacerle una oferta, tenía que ser Nadir. El de la gorra que ningún portero de Gabriella's iba a dejar pasar sin comentario, Danny, el del Mustang en una noche y las líneas del patio. Y el que venía detrás, con el paso de quien no necesita apurarse por nada: Héctor.
+Kal, con la chaqueta de siempre. Nadir y Danny, los de la ruleta de la una de la mañana: Nadir con la ropa que parecía sacada directo del taller, midiéndole la fachada al local como si fuera a hacerle una oferta; Danny con una gorra que ningún portero de Gabriella's iba a dejar pasar sin comentario. Y el que venía detrás, con el paso de quien no necesita apurarse por nada, y que sólo conocía de oídas: tenía que ser Héctor.
 
 Ninguno con ropa que correspondiera a nada de lo que había adentro.
 
@@ -193,25 +194,25 @@ Cuando ella volvió a entrar, Kal los trajo hasta ella sin ceremonia.
 
 —Nadir…
 
-—Señora Bellandi. —Nadir le dio la mano, correcto, y tardó en soltarla, como quien sopesa una moneda—. Usted es el problema.
+—Ya nos conocemos, khoya. —Nadir le dio la mano, correcto, y tardó en soltarla, como quien sopesa una moneda—. Usted es el problema.
 
 Kal se pasó la mano por la cara.
 
 —¿Eso le dijo?
 
-—Y tarifa nocturna. —La soltó—. Eso le cobra a un dentista.
+—Y tarifa nocturna. —La soltó—. Eso le cobra a un dentista. Y la señora me debe un verde.
 
-—Si tanto le preocupa el dinero, pase por el casino cuando quiera. Le presto una ruleta.
+—La casa no debe, señor Amrani. La casa hace favores. —Lo dijo con la sonrisa de las recepciones, porque Kal estaba ahí y era su amigo—. A un amigo del señor Mercer, uno. Si algún día necesita algo del Monarch, me lo pide.
 
-—¿Cuando quiera?
+—¿Un favor sin fecha? —Hizo la cuenta con los dedos contra el muslo, sin mirarlos—. Eso sube, señora. El año que viene le va a costar el doble.
 
 —Cuando quiera.
 
-Nadir asintió, como quien guarda un recibo.
+Nadir asintió, como quien guarda un recibo. Kal lo miró guardarlo y no dijo nada.
 
 —Danny.
 
-Las historias lo habían hecho más alto. Danny se quitó la gorra, como si eso arreglara algo.
+Danny se quitó la gorra, como si eso arreglara algo.
 
 —Rocco es mío, señora. Desde esa noche ya no quiere tortilla.
 
@@ -383,154 +384,162 @@ Del otro lado, alguien regañó a alguien. No alcanzó a oír qué.
 
 Sonó el timbre.
 
-El timbre del penthouse tenía pantalla, como casi todo en ese edificio que no hacía falta. Se encendió junto a la puerta, a la altura de su cara, y Chiara se quedó delante de ella con la mano a medio camino.
+La pantalla se encendió junto a la puerta, a la altura de su cara, y Chiara se quedó delante de ella con la mano a medio camino.
 
-Tres hombres en el pasillo, vistos desde arriba. Nadir tenía el dedo todavía en el botón y miraba de lado al de la gorra, sin entenderlo. Danny saludaba a la cámara con todos los dientes, agitando la mano muy rápido. Atrás, un tercero, mayor que los otros dos, con un bigote muy tupido y un bastón, se tapaba los ojos con la mano libre y negaba despacio con la cabeza.
+Tres hombres en el pasillo, vistos desde arriba. Nadir tenía el dedo todavía en el botón y miraba de lado al de la gorra, sin entenderlo. Danny saludaba a la cámara con todos los dientes, agitando la mano muy rápido. Atrás, Russ se tapaba los ojos con la mano libre y negaba despacio con la cabeza.
 
 Había cruzado la sala lista para otra cosa.
 
-Danny seguía saludando.
+Danny seguía saludando. Traía una brizna de paja pegada a la visera.
 
-Abrió con la cadena puesta.
-
-—¡Señora! —Danny se quitó la gorra, como si eso arreglara la hora—. Perdón. Perdón, perdón. Danny. El de la fiesta. El del perro.
-
-Traía una brizna de paja pegada a la visera. Olía a establo y a gasolina. Detrás de él estaba Nadir, ya con las manos en los bolsillos de una chaqueta de taller, y el del bastón, que había bajado la mano y tenía la cara de un hombre que había dicho desde el estacionamiento que eso era mala idea.
+Apretó el botón del parlante.
 
 —¿Cómo subieron?
 
-—Por carga —dijo Nadir.
+Danny se quitó la gorra, como si eso arreglara la hora, y le habló a la puerta.
 
-—El elevador de servicio tiene un botón que dice *casino* —dijo Danny—. Lo apretamos. Varias veces.
+—¡Señora! Perdón. Perdón, perdón.
 
-—Ese botón no sirve desde la remodelación.
+—Por carga —dijo Nadir—. Usted apretó el botón. Yo vi cuál.
 
-—Ahora lo sabemos.
+Russ bajó la mano.
 
-El del bastón se aclaró la garganta.
+—Sigo sin estar aquí.
 
-—Russ. Yo no estoy aquí.
+Nadir se acercó a la rejilla y se sacó las manos de los bolsillos.
 
-Chiara miró a los tres, después el pasillo vacío, y se acordó de lo que llevaba puesto.
+—Vengo a cobrar.
 
-—¿Qué emergencia los trae a mi puerta a las tres de la mañana?
+Chiara no soltó el botón. Esa misma noche, en la acera de Gabriella's, lo había visto mirar una tarjeta de Dario Varek más tiempo que el hombre a quien se la dieron. Después, una copa sola en la barra. Y ella le había ofrecido un favor sin monto, en una fiesta, a un hombre que no había regalado nada en su vida.
 
-—Usted dijo cuando quiera —dijo Nadir.
-
-—No dije esta noche.
-
-—Tampoco dijo que no.
-
-Sacó la mano del bolsillo. Traía un fajo de billetes doblado a la mitad, sujeto con una liga, todavía con la forma del sobre donde había estado.
-
-—Seiscientos cuarenta. Todo al rojo. Hoy.
-
-—¿Por qué hoy?
-
-—Porque hoy es rojo. —Lo dijo como quien da un precio—. Mañana no sé.
-
-—Hay un piso entero abajo con ruletas abiertas toda la noche.
-
-—Por enfrente no nos dejaron pasar con esta ropa —dijo Danny—. Nadir dijo que usted era la jefa.
-
-Nadir no lo negó.
-
-—Usted es la casa.
+Repasó con el pulgar el filo de las uñas, una por una.
 
 —¿Mercer sabe que están aquí?
 
-—Mercer colgó las llaves a las dos. A esa hora ya no existe.
+—Mercer colgó las llaves a las dos. A esa hora ya no existe. —Se rascó la ceja con el pulgar—. Usted dijo cuando quiera. No dijo de día.
 
-Bajar con ellos al piso, a esa hora, con esa ropa —la de ellos o la suya—, era un problema que mañana nadie le iba a cobrar a Nadir.
+Cuando volvió a hablar era la voz de las juntas, aunque nadie podía verle la cara que la acompañaba.
 
-Quitó la cadena.
+—Dígame qué necesita, señor Amrani.
 
-—No toquen nada.
+Nadir señaló con el pulgar, sin voltear, al de la gorra.
 
-Al fondo del pasillo estaba la sala que el Monarch usaba para eventos privados: una mesa de bacará, una ruleta de nogal bajo una funda gris, un bar cerrado con llave y sillas tapizadas en un terciopelo que nadie se había atrevido a ensuciar. Chiara encendió la mitad de las luces y señaló un sillón junto a la pared.
+—Éste quiere subirse a un caballo.
 
-—Ahí. Esperan ahí.
+Chiara esperó a que siguiera. No siguió.
 
-Danny se sentó en el brazo del sillón. Russ se quedó de pie. Nadir fue directo a la ruleta y le quitó la funda antes de que ella pudiera repetir lo de no tocar.
+—Uno manso —dijo Danny, a la puerta, a toda velocidad—. No tiene que ser de los que corren, señora, se lo juro, uno viejito, y yo sé que atrás tienen, de verdad, con caballos de verdad, y llevo semanas pensándolo, y hoy hubo vacas, pero Nadir dice que una vaca no cuenta.
 
-—Wallah. Ésta es mejor que las de abajo.
+—Una vaca no cuenta —dijo Nadir.
 
-—Es la misma.
+—Esto es una mala idea —dijo Russ.
 
-—Ésta no la ha tocado nadie.
+—Cállate, Russ. Yo sé que se puede.
 
-Chiara le quitó la funda de las manos, la dobló y la dejó en una silla. Se paró del lado de la casa, descalza sobre la alfombra fría, y tendió la mano.
+—Señor Amrani. —Chiara acercó la boca a la rejilla—. Le ofrecí un favor del Monarch. Una licencia, una deuda de la casa, una puerta en el ayuntamiento, lo que se le ocurriera, y a usted se le ocurre de todo. ¿Sabe lo que eso vale?
 
-Nadir le puso el fajo en la palma.
+—Yo sé lo que vale todo.
 
-Ella quitó la liga, contó los billetes dos veces —seiscientos cuarenta— y los dejó sobre el rojo, abiertos en abanico, para que nadie pudiera decir después que había sido otra cantidad.
+No lo dijo a la cámara. Miraba a Danny, que se había vuelto a poner la gorra y no dejaba quieta la pierna, y por primera vez desde que se encendió la pantalla sus dedos no estaban haciendo cuentas contra nada.
 
-—No va más —dijo, aunque no había nadie más.
+Chiara soltó el botón.
 
-Hizo girar el plato y lanzó la bola contra el giro, sin ceremonia. La bola corrió por la pista mucho más tiempo del que Danny pudo aguantar callado.
+Ya no podían oírla. Tampoco podían verla. Se quedó en la sala a oscuras, frente a tres hombres que esperaban a una puerta, y se tapó la boca con la mano, aunque no había nadie a quien taparle nada.
 
-—Rojo, rojo, rojo, rojo…
+Volvió a apretar.
 
-—Cállate —dijo Russ.
+—Cinco minutos. Y no toquen nada.
 
-Cayó en el diecinueve. Rojo.
+Se puso el abrigo encima del pijama. Las botas estaban junto a la puerta, donde normalmente dejaba los tacones.
 
-Danny gritó. Russ le tapó la boca con la mano libre y miró hacia la puerta, y Chiara se rió antes de acordarse de que era la casa. Nadir no se movió: seguía mirando la bola, como si todavía estuviera decidiendo si aceptaba el precio.
+Detrás del complejo el asfalto del casino se rendía y empezaba la tierra apisonada. A esa hora no había más que el foco de servicio sobre la puerta de las caballerizas, un bloque largo de madera y lámina, y, muy atrás, el ruido del mar. Chiara abrió con su llave. Adentro olía a paja y a cuero. Russ se quedó afuera, junto a la cerca del corral, y colgó el bastón del tablón de arriba.
 
-—La casa le debe seiscientos cuarenta —dijo Chiara—. La caja abre a las…
+Danny recorrió el pasillo de los boxes con las manos en la espalda, como en un museo. Un caballo casi negro le pegó la nariz a la reja.
 
-—Déjelos ahí. Los míos y los de la casa. Al rojo.
+—¿Éste? Éste tiene cara de buena persona.
 
-Chiara lo miró.
+—Ése está asegurado por más de lo que vale su taller.
 
-—Son mil doscientos ochenta.
+—¿Y aquél?
 
-—Ya sé contar, señora.
+Chiara siguió caminando.
 
-—Nadir —dijo Russ.
+Al fondo, una cabeza ya asomaba por encima de la reja antes de que ella llegara. Chiara le puso la mano en el cuello, en la base de la crin, y la bajó despacio, a favor del pelo. El caballo soltó el aire por la nariz.
 
-—Safi. Todo.
+Nadir le miró las ancas, el gris alrededor del hocico.
 
-Danny dejó de sonreír y se volvió a sentar en el brazo del sillón, despacio, como si el sillón también pudiera apostar.
+—¿Y ése, cuánto vale?
 
-Chiara hizo girar el plato.
+—Nada.
 
-Esta vez nadie dijo nada mientras la bola corría. Perdió velocidad, golpeó un rombo, saltó dos casillas y se quedó en la única que no era de ningún color que alguien hubiera nombrado esa noche.
+Miró la mano de ella, que seguía en el cuello. No hizo ninguna cuenta.
 
-Cero. Verde.
+—¿Cómo se llama? —preguntó Danny, bajito.
 
-Danny se llevó las dos manos a la gorra. Russ cerró los ojos un segundo, como quien confirma algo que dijo en el estacionamiento.
+—Vento.
 
-Nadir miró el cero un rato largo. Después se rascó la ceja con el pulgar.
+Ensilló ella. Danny quiso ayudar con la cincha, y ella le quitó la mano de ahí sin mirarlo. Lo sacó al corral y se subió primero, con el abrigo encima del pijama y el lápiz en el pelo, para que Danny viera dónde iba cada cosa.
 
-—Wallah. Ésa estuvo cara.
+Dio una vuelta al paso. Hacía frío, y la tierra a esa hora no sonaba como la de los domingos. Cuando salió del lado oscuro de la pista, el foco le dio de frente, y ahí estaban los tres, en la cerca, sin decirle nada. Nadie le preguntó por el torneo.
 
-—La casa agradece —dijo Chiara, y recogió los billetes.
+—¿Y esto cuándo lo hace? —Danny tenía las dos manos en el tablón—. Porque yo la veo a usted y pienso en carpetas, señora, con todo respeto, y resulta que vivo a veinte minutos de un caballo y nadie me dice nada.
 
-—¿Quién apuesta al verde? —Danny miraba la ruleta como si lo hubiera traicionado en persona—. Nadie apuesta al verde.
+—Los domingos. Los domingos no corre nadie. Bajo después de comer, cuando ya no queda nadie de la limpieza, y le doy hasta que me duelen las piernas, y a las seis ya voy de regreso.
 
-—La casa —dijo Russ.
+Lo oyó terminar. Era más de lo que le había contado a nadie en esa ciudad, y lo había dicho desde arriba de un caballo, a un hombre con paja en la gorra.
 
-Chiara se rió hasta tener que apoyarse en la ruleta.
+—¿Y lo cepilla? —Danny ya estaba subiéndose al primer tablón—. Yo a Rocco lo cepillo. ¿Me deja?
 
-—No es chistoso, señora —dijo Danny.
+Chiara se bajó.
 
-—Un poco —dijo Russ.
+Danny se subió a la tercera, por el lado correcto y mirando hacia donde había que mirar. Vento lo esperó sin interés. Cuando lo tuvo a tiro volteó la cabeza y, con el labio, le quitó de la visera la brizna de paja.
 
-Los acompañó al elevador de servicio y apretó ella el botón correcto. Nadir entró al último. Se quedó un segundo con la mano en la puerta, mirándola de arriba abajo con algo que no era descaro sino cálculo: el pijama, los pies descalzos, el fajo de billetes que ella todavía tenía en la mano sin darse cuenta.
+Arriba, Danny se calló.
 
-—Buenas noches, señora.
+Chiara lo llevó de la cuerda, al paso, pegada a la cerca. Fue media vuelta entera sin que dijera una palabra, con las dos manos en la crin, la boca abierta y la pierna, por fin, quieta. Nadir se había apoyado en el tablón y no lo perdía de vista.
+
+—Russ —dijo Danny, sin voltear, como si fuera a espantarlo—. Russ. Mírame.
+
+—Te estoy mirando.
+
+—Con caballos, Russ.
+
+—Nos arrestan a todos.
+
+Vento se detuvo. Nadie se lo había pedido. Estiró el cuello por encima del tablón, hacia lo más parecido a la paja que había en ese lado del corral, y se puso a revisarle el bigote a Russ con el labio de arriba.
+
+Russ no se movió. El bastón estaba colgado a un metro. Cerró los ojos.
+
+—Te adora, Russ —dijo Danny desde arriba—. Es su forma.
+
+Primero fue un ruido. Chiara pensó que era el caballo. Era Russ, con los ojos cerrados y los hombros empezando a moverse, soltando por debajo del bigote un sonido de motor frío que no quiere arrancar y termina arrancando. Se agarró del tablón. El bastón se descolgó y cayó del otro lado, y eso lo empeoró.
+
+Nadir volteó a verlo como a una cifra que no le cuadraba.
+
+—Wallah. Tiene dientes.
+
+—¡Se está riendo! —Danny soltó una mano de la crin para señalarlo y casi se fue de lado—. ¡Nadir, se está riendo! ¡Señora, mire!
+
+Chiara lo estaba mirando. Tenía la cuerda en las dos manos y nada con qué taparse la boca. Apretó los labios y le salió por la nariz. Después por los hombros, casi sin ruido, y tuvo que apoyar la frente en el cuello de Vento, que olía como todos los domingos, y ahí se quedó, con la marca de la cadera doliéndole a cada sacudida.
+
+Danny le sostuvo el cepillo más rato del necesario. Ella cerró el portón del corral con las dos manos y pasó el pasador de fierro, frío a esa hora. Russ había recuperado el bastón y la cara de siempre, con el bigote un poco chueco.
+
+Afuera, donde empezaba el asfalto, se detuvo.
+
+—Estamos a mano, señor Amrani.
+
+Nadir miró a Danny, que iba adelante oliéndose las manos.
+
+—Salió barato.
 
 —Ciao, tesoro.
 
-Antes de que las puertas terminaran de cerrarse, Danny alcanzó a levantar la gorra.
+Danny se volteó y levantó la gorra.
 
 —A Kal ni una palabra, ¿eh?
 
 —Ni una —dijo Nadir.
 
-Russ miró al techo.
+Russ miró al cielo.
 
-Chiara volvió a la sala, le puso la funda a la ruleta y apagó las luces. Eran casi las cuatro.
-
-En la habitación se dio cuenta de que seguía con los billetes en la mano. Olían a paja. Los dejó en la mesa de noche del otro lado de la cama, debajo del ladrillo, para que no se los llevara nadie.
+Eran casi las cinco cuando subió. En la habitación, al quitarse el abrigo, encontró paja en la manga. La quitó con la uña y la dejó en la mesa de noche del otro lado de la cama, debajo del ladrillo, para que no se la llevara nadie.

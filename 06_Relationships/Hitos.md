@@ -877,6 +877,8 @@ Ver también: [[02_Characters/Hector_Navarro]] · [[02_Characters/Kal_Mercer]] �
 # H3 — La noche del ladrillo
 
 > **CANON DEL AUTOR (2026-08-23).** Tres movimientos seguidos, la misma noche, en el antro **Gabriella's**. Es la noche en que Chiara entiende que ya eligió.
+>
+> **DECISIÓN DEL AUTOR (2026-11-04):** tras la ruptura, de madrugada y sin Kal, Nadir cobra el favor que ella le ofreció en la fiesta para que Danny monte a Vento: [[98_Agent_Handoff/sessions/2026-11-04_claude_favor_nadir_vento]].
 
 **Contexto:** al llegar a la ciudad, Chiara no sólo conoció a Kal. También conoció y empezó a salir con **[[02_Characters/Blake_Stanton]]**, policía.
 

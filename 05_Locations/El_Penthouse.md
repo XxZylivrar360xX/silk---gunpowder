@@ -53,7 +53,7 @@ Antes de esa noche, **los chicos del barrio ya habían visto el penthouse y a Ch
 
 ---
 
-> **En prosa (2026-10-22, DISEÑO pendiente de lectura):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Ambos|Cap. 7 (archivo 06)]], antes de "La tarde del reto". Nadir, Danny y Russ suben por carga a la una y diez ("todo al rojo"); Chiara les abre la ruleta de la **sala de eventos privados** del piso del penthouse. Sale rojo, Nadir dobla, cae verde y pierde todo.
+> **En prosa (2026-11-04, DISEÑO pendiente de lectura; supersede la versión del 2026-10-22):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Ambos|Cap. 7 (archivo 06)]], antes de "La tarde del reto". Nadir, Danny y Russ tocan a la una y diez desde el **timbre del vestíbulo, al pie del elevador privado** (pantalla y parlante: ella los ve, ellos a ella no; la puerta del penthouse tiene otro igual). La mínima de abajo les queda grande; Chiara les abre la ruleta de la **sala de eventos privados** con un crupier y los deja ahí. Sale rojo, Nadir dobla, cae verde. **Sólo conocen esa sala**, y a ella en pijama un momento; a Kal le enseña todo el penthouse.
 
 ## Pendientes
 

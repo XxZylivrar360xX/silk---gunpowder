@@ -18,6 +18,7 @@ Regla de dialogo 05 (2026-10-26): Rowe no contesta el cafe; "Si. Estoy bien, Kal
 Visita del Tasador (2026-11-01, DECISIÓN DEL AUTOR; prosa DISEÑO pendiente de lectura; plan [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]]): escena nueva antes de "Los muchachos la dejaron quedarse", POV Chiara, al tercer día, desde la ventana abierta de su cuarto en el segundo piso (oye, no participa; corrección del autor 2026-11-01). Primera aparición de Crowe en persona: dos sedanes por el callejón de atrás; disculpa irónica + "gatas finas del casino" (líneas A + D del autor); Nadir: "En la casa de Kal nadie contesta eso, señor Crowe. Ya se va."; "Ya me contestaron, muchacho"; Chiara busca las pulseras (reventadas en el levantón, `09:114`) y encuentra la férula; Walt llega en la Harley, lo ve y Crowe no ("Ése no se disculpa. Hace inventario."). Ninguno de los del levantón aparece (cobro del Libro II). El chico de la vulcanizadora se le pone enfrente (cobra en el 10:166).
 Il Consorzio (2026-10-22, idea del autor; prosa DISENO pendiente de lectura): tercera razon de Chiara para no volver al Monarch: una Ardizzone lastimada en el lobby se lee en Il Consorzio como afrenta a la familia y trae presencia que nadie pidio. Cobro en la tarjeta de Dario del Cap. 10.
 Cirugia editorial 2026-10-27 (notas de lectura ChatGPT 2026-10-26, autorizada por el autor; sigue BORRADOR; prosa nueva DISENO pendiente de lectura): apertura sin la glosa del miedo a la facilidad ni del "no se arrepentia" (lo carga la grua: "lo poco que le habia costado darselo"), inventario de mensajes comprimido; reflexion de Kal sobre Crowe sin la generalizacion del barrio, el "Del guero de la grua" repetido ni el "todavia no se podia" duplicado; Danny en una sola clausula en la propuesta de la grua. Ver 98_Agent_Handoff/sessions/2026-10-27_claude_surgery_cap12_balanza.md.
+Domingo a las ocho (2026-11-04, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR en este tramo): dentro del retroceso de la apertura, Kal cambia la llamada de las seis a las ocho y pregunta por Vento sin que ella se lo haya dicho (trasladado del Cap. 7; se conservan "Demasiados para correr y pocos para dejar de hacerlo" y "Él no preguntó más"). Misma jugada que la mostaza: ella no se lo dijo, otro se lo paso y el actua. Quien hablo no se dice.
 -->
 
 # Capítulo 11 — La balanza
@@ -29,6 +30,26 @@ Pero lo sabía. Desde la noche del ladrillo lo sabía, con la misma certeza tran
 Lo que hizo, primero, fue lo contrario de huir: cuando Kal le preguntó una noche qué era lo más ilegal que la habían atrapado haciendo y después le dijo que se pusiera algo cómodo, ella dijo que sí. Y la noche terminó con ella riéndose de un modo que llevaba años sin permitirse.
 
 Así que retrocedió. Unos días estuvo demasiado correcta: dejó que los mensajes esperaran un día de más, que las llamadas se acortaran solas, que las excusas de trabajo llegaran justo a tiempo para no quedarse a solas con él en ningún cuarto.
+
+Kal no preguntó qué pasaba. Si ella lo quería corto, llamaba corto. Ese domingo llamó a las ocho.
+
+Llevaba semanas llamándola a las seis. Chiara contestó con las botas ya junto a la puerta y el aliento en su lugar.
+
+—¿Pasó algo?
+
+—No. —Del otro lado, un compresor y una radio mal sintonizada—. ¿Cuántos años tiene?
+
+—¿Quién?
+
+—Vento.
+
+Ella no se lo había dicho. Ni una palabra. Se acordó de una gorra levantada en el asfalto, a las cinco de la mañana.
+
+Del otro lado no hubo chiste.
+
+—Demasiados para correr y pocos para dejar de hacerlo.
+
+Él no preguntó más. El domingo siguiente también llamó a las ocho.
 
 Trabajó. Revisó contratos que ya había revisado, bajó al piso de juego a horas en que nadie la esperaba, firmó la renovación de la póliza del túnel este sin pelearse con nadie, cosa rara. Y el jueves, la secretaria de la fiscal de distrito llamó a su oficina para preguntar si la señora Bellandi aceptaría tomar un café con la señora Rowe el sábado por la mañana. Algo informal, dijo la secretaria. En un lugar más privado.
 

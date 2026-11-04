@@ -2,6 +2,10 @@
 
 Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]. Archivar entradas antiguas antes de retirarlas.
 
+## 2026-11-04 — El favor de Nadir
+
+**DECISIÓN DEL AUTOR:** la ruleta vuelve al Cap. 7 como primer encuentro con los chicos, con crupier y fuera de foco; ellos sólo ven esa sala, Kal todo el penthouse. En Gabriella's Chiara le ofrece un favor a Nadir; tras la ruptura lo cobra para que Danny monte. Kal se entera de Vento por los chicos, no por ella (Cap. 11). Supersede lo del 2026-11-03 en esos puntos. [[98_Agent_Handoff/sessions/2026-11-04_claude_favor_nadir_vento]].
+
 ## 2026-11-01 — Renumeración a 56
 
 **DECISIÓN DEL AUTOR, ejecutada por Codex y verificada por Claude:** el Libro I pasa a 56 capítulos (numeración del 2026-11-01). Partes: I = 1–22 (cierra *Grazie*), II = 23–39, III = 40–56; arco sin Kal 49–56; «—Ciao, bella.» cierra el 55. Las entradas de abajo usan la numeración de 60. [[98_Agent_Handoff/sessions/2026-11-01_codex_para_claude_renumeracion_56]].

@@ -890,6 +890,26 @@ Decisión del autor: Chiara conoce a Nadir y Danny en la noche del ladrillo. La 
 >
 > Héctor inclinó la cabeza.
 
+**Cap. 8, ruleta de las tres menos diez y billetes bajo el ladrillo (2026-11-03; retirada el 2026-11-04 por el favor de Nadir; texto completo en git, `1d6d621`):**
+
+> —Si tanto le preocupa el dinero, pase por el casino cuando quiera. Le presto una ruleta.
+>
+> Chiara se rió hasta tener que apoyarse en la ruleta.
+>
+> —No es chistoso, señora —dijo Danny.
+>
+> —Un poco —dijo Russ.
+>
+> En la habitación se dio cuenta de que seguía con los billetes en la mano. Olían a paja. Los dejó en la mesa de noche del otro lado de la cama, debajo del ladrillo, para que no se los llevara nadie.
+
+**Cap. 7, la llamada de Vento (trasladada al Cap. 11 el 2026-11-04):**
+
+> —Estaba montando.
+>
+> —¿Montando qué?
+>
+> —Se llama Vento.
+
 ## Protocolo
 
 Al sacar un capítulo: `git mv` a esta carpeta, encabezado `ESCENA ELIMINADA` + `EPUB: EXCLUDE`, fila aquí, enlaces del vault actualizados. Al recuperarlo: lo inverso, y dejar la fila tachada con la fecha.

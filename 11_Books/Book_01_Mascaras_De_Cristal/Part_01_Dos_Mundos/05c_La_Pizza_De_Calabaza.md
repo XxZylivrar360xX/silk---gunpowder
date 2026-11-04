@@ -11,6 +11,7 @@ Rocco (2026-10-22, decision del autor; DISENO de redaccion): primera descripcion
 Transicion cliente-proveedor -> Kal que quiere impresionar (2026-10-24, decision del autor; regla 05 + segunda pasada; DISENO del agente, los ojos por idea del autor): escalera, Kal ofrece la salida ("Si prefiere, nos pone mesa adentro"); Kal se pilla a si mismo tras el discurso de la fiscalia: la vela de la calabaza, eco de los ojos del Cap. 2 ("verdes por dentro, oscuros en el borde") y de Natalie en el Cap. 3 ("De los ojos que los miren"), "¿Me lo repite? Eso no lo entendi" y ella lo repite palabra por palabra sabiendo por que (sustituye "Kal lo penso"); Rowe, Chiara se pilla a si misma (fuera "¿Y?": la uña y "paro a la mitad"; siembra "¿La del brazo?" del 10); Dario, "¿Y esto?" / "Esto no."; coche, fuera "No era una pregunta dificil" y "Kal puso la direccional en una calle vacia" (el buen conductor falla en lo simple); despedida, fuera "Gracias por venir". Reporte: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]].
 Eco de "señora Mercer" (2026-11-02, pedido del autor; DISEÑO): tras "qué bonita pareja" de Enzo, Chiara cobra la despedida del hospital del Cap. 5: "Esta vez no le dijo «no, no es». —Abrió los ojos—." antes de "Diga la verdad. ¿Cuánto les pagó?".
 Sin los chicos (2026-11-03, DECISION DEL AUTOR; supersede H2-a en este punto; prosa DISEÑO, BORRADOR): Nadir y Danny salen del capitulo, para no atacar a Kal y dejar el foco en los dos; la broma de Enzo cumple lo comico. Chiara no les pone cara hasta la noche del ladrillo. Fuera la acera completa y las burlas en la leccion de Rocco. Danny queda solo como mencion ("todavia no", la lona). Se queda Hector con "¿Te referias a esos ojos?" (canon, cierra el Cap. 3). Texto en Escenas_Eliminadas/README.
+Hipodromo sembrado (2026-11-04, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR en este tramo): Danny baña a Rocco en el patio antes de la cena y a Kal se le escapa que atras del casino hay hipodromo; Danny sigue fuera de la cena y de la acera. Cobra en la puerta del Cap. 8. Chiara les pone cara a los chicos en el Cap. 7 (ruleta), no en el ladrillo: supersede esa frase de la nota anterior.
 -->
 
 # Capítulo 6 — La pizza de calabaza
@@ -156,6 +157,24 @@ Kal bajó la vista. Camiseta, jeans, botas, grasa en la muñeca.
 Héctor siguió mirándolo. Rocco también.
 
 Kal sintió que había cometido un error táctico.
+
+Danny bañó al perro en el lavadero del patio, con jabón de manos y la manguera de lavar defensas.
+
+—¿Y a dónde va mi perro, que hay que bañarlo dos veces? Porque él no ha firmado nada, jefe, y tiene derecho a saber.
+
+—Al casino.
+
+—¿Al casino? A mí me sacan del estacionamiento, y yo me baño. Casi siempre.
+
+—Atrás tienen un hipódromo. Con caballos de verdad. —Kal le revisó la oreja mordida a Rocco, que no necesitaba revisión—. Algo han de dejar entrar.
+
+Danny dejó de restregar. Rocco aprovechó para sacudirse encima de los dos.
+
+—¿Caballos caballos? ¿De los que se sube uno?
+
+—Enjuágalo.
+
+Danny lo enjuagó. Siguió enjuagándolo un buen rato después de que el agua saliera limpia.
 
 ***
 

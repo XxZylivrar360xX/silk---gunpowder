@@ -14,7 +14,8 @@ Mirada para Kal (2026-10-17, pedido del autor; DISENO de redaccion pendiente de 
 Arco de Blake y visita de los chicos (2026-10-22, decision del autor; prosa DISENO pendiente de lectura): (1) Vento sembrado en la costumbre (llamada de domingo; "¿Montando que?" / "Se llama Vento"; el domingo siguiente Kal llama a las ocho), siembra del 24c; (2) en la noche de la torta el telefono enciende *Blake* y ella lo pone boca abajo (Kal no ve el nombre); (3) seccion nueva antes de La tarde del reto: Nadir, Danny y Russ a la una y diez, por carga, "todo al rojo", ruleta de la sala de eventos privados del penthouse; sale rojo, Nadir dobla, cae verde y pierde todo. Russ conoce a Chiara aqui. Trato de usted ("señora").
 Costura de la rueda (2026-11-03, aprobada por el autor; DISEÑO): la rueda ya es nueva en el Cap. 6 antes de la cena, asi que aqui Kal cambia la de al lado.
 Escena del cajero (2026-11-03, DECISIÓN DEL AUTOR; prosa DISEÑO, BORRADOR en este tramo): entre "Y se fue." y "Volvio a las ocho", POV Kal. La grua dos trae su logo y Danny cobra la condicion de Kal; Hendricks espera junto a la lona, Danny lo distrae (costillas, lineas del patio); abren el cajero: 23,400 (cifra DISEÑO); chatarreria en el norte que Danny conoce de oidas (sin ficha). Destino del dinero PENDIENTE. La bolsa pequeña no se nombra para no gastar "Recreativo"; Chiara sigue sin saber del cajero.
-Ruleta fuera (2026-11-03, consecuencia de DECISION DEL AUTOR: Chiara conoce a Nadir y Danny en la noche del ladrillo): la visita de la una y diez (Nadir, Danny, Russ; rojo, dobla, verde) pasa al final del Cap. 8 (archivo 07), en la madrugada tras la noche del ladrillo. Para conservar "¿Y a mi me lo enseñaria?", el disparador del reto pasa a "los de seguridad" (DISEÑO).
+Ruleta de regreso (2026-11-04, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR en este tramo; supersede "Ruleta fuera" del 2026-11-03): vuelve antes del reto como primer encuentro con Nadir, Danny y Russ. Timbre del vestibulo (pantalla y parlante: ella los ve, ellos a ella no); la minima de abajo les queda grande (mil; juntan 640, cifra heredada; la minima es DISEÑO); Chiara los sube a la sala de eventos privados con un crupier, a nombre de "Proveedores"; la ruleta queda fuera de foco (solo voces tras dos puertas; rojo, dobla y verde se saben por el crupier y la mesa). Vuelven "¿Es cierto?", "los chicos" y H2-b; "Y no pasaron de la sala del fondo" marca la diferencia con el recorrido de Kal. Fuera: Chiara repartiendo ("No va más"), la cadena de la puerta, "Por enfrente no nos dejaron pasar". Nadir mira que boton aprieta ella (lo cobra el Cap. 8).
+Vento fuera de la costumbre (2026-11-04, DECISION DEL AUTOR; DISEÑO): la llamada del domingo queda en "Estaba afuera"; Kal no sabe aun que ella monta. "Estaba montando / Se llama Vento" sale; la edad del caballo y las ocho pasan al Cap. 11 (archivo 09), despues de que Danny la vea montar en el Cap. 8.
 Primer gesto de los chicos (2026-11-03, DIRECCION DEL AUTOR; DISEÑO): frasco en el cuello antes de ir al penthouse; Danny lo huele y mira a Nadir. Sin dialogo. Maximo un gesto por capitulo, tres en total; faltan dos (cepillo en la guantera, espejo lateral).
 -->
 
@@ -102,15 +103,9 @@ Un domingo la llamó a las seis de la tarde y ella contestó sin aliento.
 
 —¿Pasó algo?
 
-—Estaba montando.
+—No. Estaba afuera.
 
-—¿Montando qué?
-
-—Se llama Vento.
-
-Del otro lado no hubo chiste. Kal le preguntó cuántos años tenía el caballo, y ella le dijo que demasiados para correr y pocos para dejar de hacerlo. Él no preguntó más.
-
-El domingo siguiente llamó a las ocho.
+Afuera dónde, ella no lo dijo. El domingo siguiente volvió a llamar a las seis, y la encontró igual.
 
 Una noche, después de que una máquina de hielo se rindiera y el proveedor intentara cobrar la urgencia de algo que él mismo había dejado mal montado, Kal apareció en la oficina administrativa con una bolsa de papel manchada de grasa por una esquina.
 
@@ -160,6 +155,112 @@ Después de esa noche la comida volvió más veces. Café a veces. A veces sólo
 
 ***
 
+El timbre sonó a la una y diez.
+
+No el de la puerta: el del vestíbulo, el del pie del elevador privado, que en dos meses nadie había usado, porque quien tenía algo que decirle a esa hora tenía su número. Chiara tenía el pelo recogido con un lápiz y una carpeta abierta sobre las piernas. Cruzó la sala descalza. La pantalla se encendió junto a la puerta, a la altura de su cara, como casi todo en ese edificio que no hacía falta.
+
+Tres hombres al pie del elevador, vistos desde arriba. Uno con gorra, con la cara muy cerca de la rejilla del parlante, como si fuera a olerla. Otro con las manos en los bolsillos de una chaqueta de taller, midiendo el mármol. Y un tercero, mayor que los otros dos, con un bigote muy tupido, apoyado en un bastón, con la cara de un hombre que había dicho desde el estacionamiento que eso era mala idea.
+
+Apretó el botón del parlante. Ellos no podían verla.
+
+—¿Sí?
+
+El de la gorra dio un brinco y buscó la voz en el techo. Se quitó la gorra, por si acaso.
+
+—¡Señora! Perdón. Perdón, perdón. Danny. De la Almendra, de con Kal.
+
+Así que ése era Danny. El Mustang en una noche, las líneas del patio. Las historias lo habían hecho más alto. Y el que le estaba poniendo precio al vestíbulo no necesitaba presentación.
+
+El del bastón se aclaró la garganta y le habló a la rejilla, sin acercarse.
+
+—Russ. Yo no estoy aquí.
+
+—¿Qué emergencia los trae a mi timbre a la una de la mañana?
+
+El de la chaqueta se acercó por fin.
+
+—Sus ruletas. A esta hora, la mínima de abajo es de mil, y en la de mil hay un señor con anillo que ya ni mira la bola. Nosotros juntamos seiscientos cuarenta: cuatrocientos míos, doscientos de éste y cuarenta de ése, que no está aquí. Todo al rojo. Hoy.
+
+—La mínima la fijé yo. ¿Por qué hoy?
+
+—Porque hoy es rojo. —Lo dijo como quien da un precio—. Mañana no sé.
+
+—Abajo preguntamos por la jefa y nos mandaron con un muchacho, y el muchacho con otro —dijo Danny, hacia el techo—, y Nadir dijo que para qué, que usted era la jefa y que vivía aquí arriba.
+
+Nadir no lo negó.
+
+—Usted es la casa.
+
+Bajarle la mínima a una mesa, a esa hora, por tres hombres con esa ropa, era un problema que mañana nadie le iba a cobrar a Nadir. Mandarlos a su casa era una historia más para el día siguiente, y ella sabía quién la iba a contar y cómo. Al fondo del pasillo estaba la sala que el Monarch usaba para eventos privados, con una ruleta de nogal bajo una funda gris. Un evento privado no tenía mínima. Esa regla también la había escrito ella.
+
+Soltó el botón y marcó a piso.
+
+—Mándeme a alguien que sepa tirar. Una mesa, sala del penthouse, evento privado. Tres invitados.
+
+—¿A nombre de quién lo registro, señora?
+
+En la pantalla, Danny le estaba enseñando la cámara al del bastón. El del bastón no quería verla.
+
+—Proveedores.
+
+El muchacho del piso llegó primero, con su chaleco y sin una sola pregunta. Los otros tres tardaron veinte minutos, y cuando Chiara abrió la puerta se acordó de lo que llevaba puesto un segundo después de que Danny lo hubiera notado y se pusiera a mirar el techo.
+
+—¿Qué los demoró? Les dije carga.
+
+—El elevador de servicio tiene un botón que dice *casino* —dijo Danny—. Lo apretamos. Varias veces.
+
+—Ese botón no sirve desde la remodelación.
+
+—Ahora lo sabemos.
+
+—No toquen nada.
+
+Los llevó por el pasillo, sin encender más que lo necesario, y les señaló un sillón junto a la pared. Nadir no fue al sillón. Fue directo a la ruleta, a la que el muchacho ya le había quitado la funda.
+
+—Wallah. Ésta es mejor que las de abajo.
+
+—Es la misma.
+
+—Ésta no la ha tocado nadie.
+
+Chiara le dijo al muchacho que lo que trajeran y nada más, y que le avisara cuando se acabara. Después volvió a su carpeta.
+
+Desde la sala, con dos puertas de por medio, sólo le llegó lo que no se podía contener. Una voz que decía *rojo, rojo, rojo, rojo*. Otra que le decía que se callara. Un grito, cortado a la mitad, como si alguien le hubiera puesto una mano encima. Después, mucho rato nada, y Chiara leyó dos veces la misma página.
+
+El muchacho tocó el marco de la puerta.
+
+—Ya terminaron, señora.
+
+Danny estaba sentado en el brazo del sillón con las dos manos en la gorra. Russ tenía los ojos cerrados. Nadir seguía de pie frente a la ruleta y miraba la casilla del cero, donde se había quedado la bola, rascándose la ceja con el pulgar.
+
+—Salió rojo —dijo el muchacho, en voz baja, y le puso en la mano el fajo, con su liga—. Le ofrecí pagarle. Dijo que los dejara ahí, los suyos y los de la casa.
+
+—Wallah —dijo Nadir, sin voltear—. Ésa estuvo cara.
+
+—La casa agradece.
+
+—¿Quién apuesta al verde? —Danny miraba la ruleta como si lo hubiera traicionado en persona—. Nadie apuesta al verde.
+
+—La casa —dijo Russ.
+
+Los acompañó al elevador de servicio y apretó ella el botón correcto. Nadir miró cuál. Entró al último y se quedó un segundo con la mano en la puerta, mirándola de arriba abajo con algo que no era descaro sino cálculo: el pijama, los pies descalzos, el fajo de billetes que ella todavía tenía en la mano sin darse cuenta.
+
+—Buenas noches, señora.
+
+—Ciao, tesoro.
+
+Antes de que las puertas terminaran de cerrarse, Danny alcanzó a levantar la gorra.
+
+—A Kal ni una palabra, ¿eh?
+
+—Ni una —dijo Nadir.
+
+Russ miró al techo.
+
+Chiara volvió a la sala, le puso la funda a la ruleta y apagó las luces. Eran las dos menos veinte.
+
+***
+
 La tarde del reto, Chiara estaba descalza en su oficina.
 
 No por comodidad, por supervivencia. Los tacones rojos esperaban junto al escritorio, vencidos por un día de reuniones, dos recorridos por piso y una discusión con Tommaso sobre si los torneos de póker debían invitar a jugadores de fuera antes de que el hotel tuviera habitaciones suficientes. Tommaso creía que no. Chiara creía que Tommaso tenía una relación demasiado íntima con las palabras *todavía no*.
@@ -194,11 +295,11 @@ Kal dejó la bolsa sobre el escritorio y no se sentó. Miró los zapatos junto a
 
 —Depende de qué le hayan dicho.
 
-—Que les enseñó el penthouse a los de seguridad en pijama.
+—Que les enseñó el penthouse a los chicos en pijama.
 
 Chiara levantó la vista despacio.
 
-—Los de seguridad tocaron mi puerta a la una de la mañana con una emergencia que resultó ser menos urgente que su incapacidad de usar un elevador.
+—Los chicos tocaron mi timbre a la una de la mañana con una emergencia que resultó ser menos urgente que su incapacidad de usar un elevador.
 
 —Pero se los enseñó.
 
@@ -414,7 +515,7 @@ Y a Chiara se le empezó a colar el italiano entre las palabras. Le pasaba cuand
 
 —¿Eso se lo dijiste a los chicos?
 
-—A ellos se lo repetí.
+—A ellos se lo repetí. Y no pasaron de la sala del fondo.
 
 No fue un recorrido ordenado. Fue ella caminando descalza por el penthouse y él detrás, deteniéndose en cosas que no eran suyas: pasó la mano por la encimera de una cocina que nadie usaba, abrió un cajón y lo encontró vacío. La bocina los siguió de cuarto en cuarto a un volumen que nunca terminaba de justificar el nombre de música de fondo.
 
