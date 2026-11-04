@@ -237,6 +237,8 @@ Al salir del restaurante se cruzan con **dos amigos del barrio — [[02_Characte
 
 **Y los chicos nunca en la vida habían visto a Kal nervioso.**
 
+> **SUPERSEDIDO (CANON DEL AUTOR, 2026-11-03):** Nadir y Danny ya no se cruzan con ellos al salir: quedan fuera de la cena para no atacar a Kal y dejar el foco en los dos. Chiara les pone cara hasta la noche del ladrillo (H3). Esta sección y «Los chicos, la fragancia, y el primer testigo» quedan como antecedente. Texto retirado: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/README]].
+
 ## Por qué esta escena es el personaje entero
 
 **El perro es la mejor caracterización posible de Kal y hay que tratarla con cuidado.**
@@ -1039,9 +1041,9 @@ Y la otra mitad:
 
 > **RESUELTO EN BORRADOR (2026-08-27):** Dario le confirma que los preparativos del torneo de póker van bien (Tommaso se lo dijo "con menos entusiasmo del que le hubiera gustado mostrar") y cierra con su línea de asignar valor: "San Aurelio premia a la gente que entiende su lugar." Breve, sin amenaza directa. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/07_La_Noche_Del_Ladrillo]]. Inferencia del agente, discutible.
 
-> **PENDIENTE:** ¿qué trabajo tienen de madrugada los cuatro? Explica por qué el Peugeot entró a un callejón antes de la fiesta.
+> **RESUELTO (autor, 2026-11-03):** el trabajo de madrugada es la entrega del encargo de Dario (Cap. 9). *Antes PENDIENTE: ¿qué trabajo tienen de madrugada los cuatro? Explica por qué el Peugeot entró a un callejón antes de la fiesta.*
 
-> **PENDIENTE:** ¿Chiara conserva el ladrillo de arcilla? Si lo conserva, es el segundo objeto del libro después del collar, y hay que decidir dónde acaba.
+> **RESUELTO EN PARTE (autor, 2026-11-03):** Chiara conserva el ladrillo. Lo deja en la mesa de noche del lado que no usa (Cap. 8), y ahí está del lado de Kal la noche de la llamada de Marisol (Cap. 22). **PENDIENTE:** dónde acaba; el Cap. 55 no lo menciona.
 
 ---
 

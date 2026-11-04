@@ -406,6 +406,490 @@ Final de la salida de carga:
 >
 > Ella asintió y subió por el elevador de servicio. Iba molesta, y no sólo con él.
 
+### Texto retirado al reconstruir el Cap. 4 (archivo 04, 2026-11-03)
+
+Decisiones del autor: sin insinuación de Dario sobre Keene; cajero antes de la llamada; Kal y Nadir en plática de día a día. Reconstrucción íntegra en git (commit anterior).
+
+**La insinuación de Dario:**
+
+> Recordó a Dario dejando la reunión del día anterior por una diligencia en el centro y no permitió que la conclusión se formara completa. No porque le diera miedo pensarla. Porque una conclusión sin prueba era un lujo, y ella no pagaba por lujos inútiles.
+>
+> Dario no llegó.
+>
+> Nadie preguntó por qué.
+
+**Cierre de Mabel:**
+
+> Cuando él se fue, caminando un poco más derecho que antes, Chiara volvió a mirar hacia el fondo de la calle.
+>
+> El televisor repitió el cortejo desde el helicóptero. La camioneta, las torretas, la fila con la mano en la sien. Desde esa altura no se distinguía quién saludaba a quién.
+>
+> El espresso se enfrió.
+>
+> Chiara pensó en Kal Mercer, en la forma en que había dicho *mi nombre va en la factura*, y se obligó a guardar el teléfono antes de preguntarse por qué ese pensamiento había llegado ahí.
+>
+> La ciudad nueva ya estaba empezando a comportarse como si la conociera.
+
+**Montaje de El Relevo:**
+
+> La noche avanzó con la velocidad de las cosas que no importaban. Blake le presentó amigos, no personas. Un patrullero que presumía persecuciones. Una mujer de tránsito que bebía tequila con disciplina militar. Todos miraban el acento antes que la cara.
+>
+> Chiara bebió una copa y dejó la segunda sobre una mesa sin tocar.
+>
+> Blake hablaba mucho cuando tenía público. Más que en la cafetería. Ocupaba espacio con los hombros, con la risa, con las historias de patrullas y velocidades. Contó que había manejado la escolta del jefe dos inviernos. A mediodía le había dicho que Keene le dio la mano una vez. Chiara no lo corrigió.
+
+**Mabel de noche y regreso con whisky:**
+
+> Kal dejó el Mercedes en un corralón privado a cuatro calles de la Almendra y no volvió directo al taller.
+>
+> Pasó por La Esquina de Mabel, aunque ya estaba cerrada. La luz de la cocina seguía prendida. Mabel no abrió. Sólo apareció detrás del vidrio, le enseñó una taza y negó con la cabeza. Kal levantó la mano. No quería café. Quería comprobar que el barrio seguía donde lo había dejado.
+>
+> Cuando llegó al patio, Nadir estaba sentado sobre el capó de un Civic sin motor, con la chaqueta cerrada hasta el cuello. No fingió que estaba ahí por otra cosa.
+>
+> —¿Casino?
+>
+> —Mercedes.
+>
+> —¿Eso es sí?
+>
+> Kal bajó de la grúa.
+>
+> —Eso es Mercedes.
+>
+> Nadir se bajó del capó. Al pasar junto a él olió el aire una vez, cerca del hombro, como quien revisa fruta en un puesto.
+>
+> —Hueles a bar de hotel.
+>
+> —Un borracho con un Mercedes parado en la línea amarilla de la rampa de carga. —Kal se miró la manga del overol, todavía húmeda—. Le dijeron que no y no le gustó la palabra. Le agarré la muñeca antes de que llegara el vaso. El whisky llegó de todos modos.
+>
+> —¿Y con cuál le agarraste la muñeca?
+>
+> —Con la izquierda.
+>
+> Nadir asintió, satisfecho, como si hubiera sido idea suya.
+>
+> —Por lo menos aprendes.
+>
+> Lo siguió hasta la oficina.
+
+**El hombro, la litera y el trapo (regresó el mismo día, por orden del autor; se conserva aquí sólo la versión previa):**
+
+> Kal dejó la tabla de trabajo junto al plato y giró el hombro derecho, despacio. Seguía tronando donde se le había zafado la cadena del Buick.
+>
+> —Ponte hielo —dijo Nadir.
+>
+> —Luego.
+>
+> —Eso dijiste en la descarga. —Metió el plato al microondas sin mirarlo—. Y allá también decías luego, todas las noches, hasta la noche en que te lo tuve que acomodar yo, contra una litera, con un trapo en la boca para que no gritaras.
+>
+> —No grité.
+>
+> —Porque tenías el trapo. —Apretó el botón—. Ese trapo me costó dos cigarros.
+>
+> —Tú no fumas.
+>
+> —Por eso. Eran para vender.
+>
+> Kal se sentó. Fue lo más parecido a darle la razón.
+
+**Cuenta de Nadir con el whisky:**
+
+> —Esta tarde, en esta misma oficina, con esa misma cuchara, nos dijiste que no le debiéramos favores a la gente del casino.
+>
+> —Dije Dario Varek.
+>
+> —Dario Varek es la gente del casino, khoya.
+>
+> Kal partió una tortilla en dos.
+>
+> —Fue un arrastre, Nadir. Una grúa, una factura y a la casa.
+>
+> —Un arrastre a medianoche, uno. —Nadir contó con los dedos contra la madera del marco—. Para un casino, dos. Que no te quiso en su mesa, tres. Y te tiraron whisky, cuatro. Y todavía no te pregunto lo único que importa. ¿Cuánto cobraste?
+>
+> —Tarifa nocturna.
+>
+> —Eso le cobras a un dentista.
+>
+> —El dentista no me tira whisky.
+>
+> Nadir dejó de contar.
+
+**El chiste del acento (autor: la insinuación se repetía con Enzo y con Kyle; en este punto todavía no pasa):**
+
+> —Bellandi. —Lo probó en la boca como una moneda que no sabía si era buena—. ¿Traía acento?
+>
+> Kal levantó la vista.
+>
+> Nadir sonrió.
+>
+> —Ya, ya. Mercedes.
+
+**Cierre anterior (Kal guarda el contacto):**
+
+> Kal miró la pantalla, junto al plato frío.
+>
+> Luego guardó el contacto como **Bellandi**.
+>
+> No contestó.
+>
+> Todavía.
+
+### Los chicos fuera de la cena y la ruleta (2026-11-03)
+
+Decisión del autor: Chiara conoce a Nadir y Danny en la noche del ladrillo. La ruleta pasó al final del Cap. 8 el mismo día; aquí queda su versión previa.
+
+**Cap. 6, lección de Rocco:**
+
+> Si alguien preguntaba, había revisado dos frenos, firmado tres facturas, discutido con un proveedor de llantas y movido una camioneta sin placas del fondo del patio al elevador dos, y le había dicho a Danny, frente a la lona del fondo, que todavía no, por tercera vez en la semana. Todo eso era verdad. También era verdad que entre una cosa y otra se había agachado frente a un pitbull café, de cabeza ancha, con una oreja mordida desde antes de llegar al taller y una mancha blanca en el pecho, y le había repetido la misma instrucción hasta que Danny empezó a mirarlo como si estuviera viendo nacer una enfermedad.
+>
+> —No va a firmar contrato —dijo Danny.
+>
+> Rocco ladeó la cabeza.
+>
+> Kal le ofreció un pedazo de tortilla.
+>
+> —Pata.
+>
+> El perro olió la tortilla, le lamió los dedos y se sentó.
+>
+> Nadir, desde la puerta de la oficina, soltó un silbido bajo.
+>
+> —Ese perro negocia mejor que medio barrio.
+>
+> —Es tu perro, Danny —dijo Kal.
+>
+> Danny levantó las manos.
+>
+> —Mi perro sabe sobrevivir. No hacer etiqueta.
+>
+> Kal volvió a intentarlo.
+>
+> —Pata.
+>
+> Rocco levantó una pata, pero se la dio a Héctor, que acababa de pasar con una caja de herramientas.
+>
+> Héctor miró la pata en su bota.
+>
+> —No me metas en tus cosas raras.
+>
+> Nadir se rió.
+>
+> Kal tomó aire.
+>
+> —Otra vez.
+>
+> —¿Para quién es? —preguntó Danny.
+>
+> Kal no contestó.
+>
+> Nadir sonrió demasiado lento.
+>
+> —Ah.
+>
+> —No.
+>
+> —Yo no dije nada.
+>
+> —Lo dijiste con la cara.
+>
+> Héctor dejó la caja sobre una mesa. Se quedó mirando a Kal un momento.
+>
+> —¡Ah! ¿Te referías a esos ojos?
+>
+> Kal le dio a Rocco otro pedazo de tortilla.
+>
+> —Una amiga.
+>
+> El silencio que siguió fue peor que una carcajada.
+>
+> Danny se sentó sobre una defensa.
+>
+> —Claro.
+>
+> Nadir cruzó los brazos.
+>
+> —Wallah, una amiga italiana, del casino, a la que le vas a llevar mi perro.
+>
+> —Tu perro no. El de Danny.
+>
+> —No esquives lo importante.
+>
+> Rocco levantó por fin la pata hacia Kal.
+>
+> Kal la tomó y le dio la tortilla.
+>
+> —Buen perro.
+>
+> Héctor lo miró de arriba abajo.
+>
+> —¿Y vas vestido así?
+>
+> Kal bajó la vista. Camiseta, jeans, botas, grasa en la muñeca.
+>
+> —No.
+>
+> Los tres hombres lo miraron al mismo tiempo.
+>
+> Kal sintió que había cometido un error táctico.
+
+**Cap. 6, fragancia y pañuelo:**
+
+> Luego se puso un traje oscuro, camisa limpia, zapatos que no eran tenis y una fragancia que Nadir olió desde la cocina de la casa común.
+>
+> Danny apareció detrás de él con Rocco, que llevaba un pañuelo rojo en el cuello y la dignidad confusa de un animal al que nadie le pidió opinión.
+>
+> —Si mi perro vuelve hablando italiano, me lo pagas.
+>
+> —No habla español.
+>
+> —Por eso me preocupa.
+
+**Cap. 6, la acera:**
+
+> Al salir, Nadir y Danny estaban en la acera.
+>
+> No debían estar ahí.
+>
+> Eso era evidente por la forma en que ambos fingieron estar mirando cualquier otra cosa. Danny sostenía una bolsa de comida para llevar. Nadir tenía las manos en los bolsillos y una cara de inocencia tan mala que merecía cárcel por sí sola.
+>
+> Rocco los vio primero y tiró de la correa.
+>
+> —Traidor —dijo Danny.
+>
+> Chiara miró al perro, luego a Kal.
+>
+> —¿Son sus amigos?
+>
+> —No sé.
+>
+> Nadir abrió los brazos.
+>
+> —Wallah, qué fuerte, Mercer.
+>
+> Danny señaló a Rocco.
+>
+> —Mi perro sí me reconoce.
+>
+> Rocco le dio la pata a Chiara otra vez.
+>
+> Danny se quedó inmóvil.
+>
+> —No.
+>
+> Chiara inclinó la cabeza.
+>
+> —Creo que cambió de familia.
+>
+> Nadir soltó una carcajada.
+>
+> Kal sintió calor en el cuello.
+>
+> —Vámonos.
+>
+> —¿Tienes prisa? —preguntó Nadir.
+>
+> —Sí.
+>
+> —Hueles bien.
+>
+> El golpe fue limpio.
+>
+> Chiara no miró a Kal. Tuvo esa cortesía. Pero la esquina de la boca se le movió.
+>
+> Danny olfateó el aire.
+>
+> —Es cierto.
+>
+> —Buenas noches —dijo Kal.
+>
+> —Buonasera —dijo Nadir, con una pronunciación criminal.
+>
+> Chiara sí se rió.
+>
+> —Ciao, tesoro.
+>
+> Nadir se llevó una mano al pecho.
+>
+> Kal abrió la puerta de la camioneta con demasiada eficiencia. Rocco subió, luego Chiara. Antes de cerrar, ella miró a Nadir y Danny.
+>
+> —Cuídenlo.
+>
+> Nadir dejó de sonreír un segundo.
+>
+> —Eso intentamos.
+>
+> Kal cerró la puerta.
+>
+> Cuando rodeó la camioneta, Danny le dijo en voz baja:
+>
+> —Nunca te había visto nervioso.
+>
+> Kal no contestó.
+>
+> Nadir lo remató:
+>
+> —Con una amiga.
+>
+> Kal subió al volante y arrancó.
+>
+> Chiara esperó a que giraran la esquina.
+>
+> —¿De verdad estaba nervioso?
+>
+> —No.
+>
+> —Qué respuesta tan rápida.
+>
+> Kal puso la direccional en una calle vacía.
+>
+> Ella miró por la ventana, sonriendo hacia la calle.
+
+**Cap. 7, la ruleta de la una y diez:**
+
+> Tocaron a la una y diez.
+>
+> No el timbre: la puerta, con los nudillos, tres veces y después otras tres, como alguien que no estaba seguro de haber tocado la primera vez. Chiara tenía el pelo recogido con un lápiz y una carpeta abierta sobre las piernas. Lo primero que pensó fue en seguridad. Lo segundo, que seguridad tenía tarjeta.
+>
+> Por la mirilla vio una gorra.
+>
+> Abrió con la cadena puesta.
+>
+> —¡Señora! —Danny se quitó la gorra, como si eso arreglara la hora—. Perdón. Perdón, perdón. Danny. El de la acera. El del perro.
+>
+> Detrás de él estaba Nadir, con las manos en los bolsillos de una chaqueta de taller, y un tercero que no conocía: mayor que los otros dos, con un bigote muy tupido, apoyado en un bastón, y la cara de un hombre que había dicho desde el estacionamiento que eso era mala idea.
+>
+> —¿Cómo subieron?
+>
+> —Por carga —dijo Nadir.
+>
+> —El elevador de servicio tiene un botón que dice *casino* —dijo Danny—. Lo apretamos. Varias veces.
+>
+> —Ese botón no sirve desde la remodelación.
+>
+> —Ahora lo sabemos.
+>
+> El del bastón se aclaró la garganta.
+>
+> —Russ. Yo no estoy aquí.
+>
+> Chiara miró a los tres, después el pasillo vacío, y se acordó de lo que llevaba puesto.
+>
+> —¿Qué emergencia los trae a mi puerta a la una de la mañana?
+>
+> Nadir sacó la mano del bolsillo. Traía un fajo de billetes doblado a la mitad, sujeto con una liga.
+>
+> —Seiscientos cuarenta. Todo al rojo. Hoy.
+>
+> —¿Por qué hoy?
+>
+> —Porque hoy es rojo. —Lo dijo como quien da un precio—. Mañana no sé.
+>
+> —Hay un piso entero abajo con ruletas abiertas toda la noche.
+>
+> —Por enfrente no nos dejaron pasar con esta ropa —dijo Danny—. Nadir dijo que usted era la jefa.
+>
+> Nadir no lo negó.
+>
+> —Usted es la casa.
+>
+> Bajar con ellos al piso, a esa hora, con esa ropa —la de ellos o la suya—, era un problema que mañana nadie le iba a cobrar a Nadir.
+>
+> Quitó la cadena.
+>
+> —No toquen nada.
+>
+> Al fondo del pasillo estaba la sala que el Monarch usaba para eventos privados: una mesa de bacará, una ruleta de nogal bajo una funda gris, un bar cerrado con llave y sillas tapizadas en un terciopelo que nadie se había atrevido a ensuciar. Chiara encendió la mitad de las luces y señaló un sillón junto a la pared.
+>
+> —Ahí. Esperan ahí.
+>
+> Danny se sentó en el brazo del sillón. Russ se quedó de pie. Nadir fue directo a la ruleta y le quitó la funda antes de que ella pudiera repetir lo de no tocar.
+>
+> —Wallah. Ésta es mejor que las de abajo.
+>
+> —Es la misma.
+>
+> —Ésta no la ha tocado nadie.
+>
+> Chiara le quitó la funda de las manos, la dobló y la dejó en una silla. Se paró del lado de la casa, descalza sobre la alfombra fría, y tendió la mano.
+>
+> Nadir le puso el fajo en la palma.
+>
+> Ella quitó la liga, contó los billetes dos veces —seiscientos cuarenta— y los dejó sobre el rojo, abiertos en abanico, para que nadie pudiera decir después que había sido otra cantidad.
+>
+> —No va más —dijo, aunque no había nadie más.
+>
+> Hizo girar el plato y lanzó la bola contra el giro, sin ceremonia. La bola corrió por la pista mucho más tiempo del que Danny pudo aguantar callado.
+>
+> —Rojo, rojo, rojo, rojo…
+>
+> —Cállate —dijo Russ.
+>
+> Cayó en el diecinueve. Rojo.
+>
+> Danny gritó. Russ le tapó la boca con la mano libre y miró hacia la puerta. Nadir no se movió: seguía mirando la bola, como si todavía estuviera decidiendo si aceptaba el precio.
+>
+> —La casa le debe seiscientos cuarenta —dijo Chiara—. La caja abre a las…
+>
+> —Déjelos ahí. Los míos y los de la casa. Al rojo.
+>
+> Chiara lo miró.
+>
+> —Son mil doscientos ochenta.
+>
+> —Ya sé contar, señora.
+>
+> —Nadir —dijo Russ.
+>
+> —Safi. Todo.
+>
+> Danny dejó de sonreír y se volvió a sentar en el brazo del sillón, despacio, como si el sillón también pudiera apostar.
+>
+> Chiara hizo girar el plato.
+>
+> Esta vez nadie dijo nada mientras la bola corría. Perdió velocidad, golpeó un rombo, saltó dos casillas y se quedó en la única que no era de ningún color que alguien hubiera nombrado esa noche.
+>
+> Cero. Verde.
+>
+> Danny se llevó las dos manos a la gorra. Russ cerró los ojos un segundo, como quien confirma algo que dijo en el estacionamiento.
+>
+> Nadir miró el cero un rato largo. Después se rascó la ceja con el pulgar.
+>
+> —Wallah. Ésa estuvo cara.
+>
+> —La casa agradece —dijo Chiara, y recogió los billetes.
+>
+> —¿Quién apuesta al verde? —Danny miraba la ruleta como si lo hubiera traicionado en persona—. Nadie apuesta al verde.
+>
+> —La casa —dijo Russ.
+>
+> Los acompañó al elevador de servicio y apretó ella el botón correcto. Nadir entró al último. Se quedó un segundo con la mano en la puerta, mirándola de arriba abajo con algo que no era descaro sino cálculo: el pijama, los pies descalzos, el fajo de billetes que ella todavía tenía en la mano sin darse cuenta.
+>
+> —Buenas noches, señora.
+>
+> —Ciao, tesoro.
+>
+> Antes de que las puertas terminaran de cerrarse, Danny alcanzó a levantar la gorra.
+>
+> —A Kal ni una palabra, ¿eh?
+>
+> —Ni una —dijo Nadir.
+>
+> Russ miró al techo.
+>
+> Chiara volvió a la sala, le puso la funda a la ruleta y apagó las luces. Eran las dos menos veinte.
+
+**Cap. 8, versión con los chicos ya conocidos:**
+
+> Kal, con la chaqueta de siempre. Nadir y Danny, los de la ruleta de la una de la mañana: Nadir con la ropa que parecía sacada directo del taller; Danny, el del Mustang en una noche y las líneas del patio, con una gorra que ningún portero de Gabriella's iba a dejar pasar sin comentario. Y el que venía detrás, con el paso de quien no necesita apurarse por nada, y que sólo conocía de oídas: tenía que ser Héctor.
+>
+> —Nadir…
+>
+> —Ya nos conocemos. —Nadir le dio la mano, correcto, sin la carcajada de la acera—. La señora me debe un verde. —Y a Kal, sin soltarla todavía—: Tu amiga.
+>
+> —Héctor.
+>
+> Héctor inclinó la cabeza.
+
 ## Protocolo
 
 Al sacar un capítulo: `git mv` a esta carpeta, encabezado `ESCENA ELIMINADA` + `EPUB: EXCLUDE`, fila aquí, enlaces del vault actualizados. Al recuperarlo: lo inverso, y dejar la fila tachada con la fecha.

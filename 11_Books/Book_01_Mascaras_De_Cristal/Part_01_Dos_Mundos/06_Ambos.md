@@ -14,6 +14,8 @@ Mirada para Kal (2026-10-17, pedido del autor; DISENO de redaccion pendiente de 
 Arco de Blake y visita de los chicos (2026-10-22, decision del autor; prosa DISENO pendiente de lectura): (1) Vento sembrado en la costumbre (llamada de domingo; "¿Montando que?" / "Se llama Vento"; el domingo siguiente Kal llama a las ocho), siembra del 24c; (2) en la noche de la torta el telefono enciende *Blake* y ella lo pone boca abajo (Kal no ve el nombre); (3) seccion nueva antes de La tarde del reto: Nadir, Danny y Russ a la una y diez, por carga, "todo al rojo", ruleta de la sala de eventos privados del penthouse; sale rojo, Nadir dobla, cae verde y pierde todo. Russ conoce a Chiara aqui. Trato de usted ("señora").
 Costura de la rueda (2026-11-03, aprobada por el autor; DISEÑO): la rueda ya es nueva en el Cap. 6 antes de la cena, asi que aqui Kal cambia la de al lado.
 Escena del cajero (2026-11-03, DECISIÓN DEL AUTOR; prosa DISEÑO, BORRADOR en este tramo): entre "Y se fue." y "Volvio a las ocho", POV Kal. La grua dos trae su logo y Danny cobra la condicion de Kal; Hendricks espera junto a la lona, Danny lo distrae (costillas, lineas del patio); abren el cajero: 23,400 (cifra DISEÑO); chatarreria en el norte que Danny conoce de oidas (sin ficha). Destino del dinero PENDIENTE. La bolsa pequeña no se nombra para no gastar "Recreativo"; Chiara sigue sin saber del cajero.
+Ruleta fuera (2026-11-03, consecuencia de DECISION DEL AUTOR: Chiara conoce a Nadir y Danny en la noche del ladrillo): la visita de la una y diez (Nadir, Danny, Russ; rojo, dobla, verde) pasa al final del Cap. 8 (archivo 07), en la madrugada tras la noche del ladrillo. Para conservar "¿Y a mi me lo enseñaria?", el disparador del reto pasa a "los de seguridad" (DISEÑO).
+Primer gesto de los chicos (2026-11-03, DIRECCION DEL AUTOR; DISEÑO): frasco en el cuello antes de ir al penthouse; Danny lo huele y mira a Nadir. Sin dialogo. Maximo un gesto por capitulo, tres en total; faltan dos (cepillo en la guantera, espejo lateral).
 -->
 
 # Capítulo 7 — Ambos
@@ -158,140 +160,6 @@ Después de esa noche la comida volvió más veces. Café a veces. A veces sólo
 
 ***
 
-Tocaron a la una y diez.
-
-No el timbre: la puerta, con los nudillos, tres veces y después otras tres, como alguien que no estaba seguro de haber tocado la primera vez. Chiara tenía el pelo recogido con un lápiz y una carpeta abierta sobre las piernas. Lo primero que pensó fue en seguridad. Lo segundo, que seguridad tenía tarjeta.
-
-Por la mirilla vio una gorra.
-
-Abrió con la cadena puesta.
-
-—¡Señora! —Danny se quitó la gorra, como si eso arreglara la hora—. Perdón. Perdón, perdón. Danny. El de la acera. El del perro.
-
-Detrás de él estaba Nadir, con las manos en los bolsillos de una chaqueta de taller, y un tercero que no conocía: mayor que los otros dos, con un bigote muy tupido, apoyado en un bastón, y la cara de un hombre que había dicho desde el estacionamiento que eso era mala idea.
-
-—¿Cómo subieron?
-
-—Por carga —dijo Nadir.
-
-—El elevador de servicio tiene un botón que dice *casino* —dijo Danny—. Lo apretamos. Varias veces.
-
-—Ese botón no sirve desde la remodelación.
-
-—Ahora lo sabemos.
-
-El del bastón se aclaró la garganta.
-
-—Russ. Yo no estoy aquí.
-
-Chiara miró a los tres, después el pasillo vacío, y se acordó de lo que llevaba puesto.
-
-—¿Qué emergencia los trae a mi puerta a la una de la mañana?
-
-Nadir sacó la mano del bolsillo. Traía un fajo de billetes doblado a la mitad, sujeto con una liga.
-
-—Seiscientos cuarenta. Todo al rojo. Hoy.
-
-—¿Por qué hoy?
-
-—Porque hoy es rojo. —Lo dijo como quien da un precio—. Mañana no sé.
-
-—Hay un piso entero abajo con ruletas abiertas toda la noche.
-
-—Por enfrente no nos dejaron pasar con esta ropa —dijo Danny—. Nadir dijo que usted era la jefa.
-
-Nadir no lo negó.
-
-—Usted es la casa.
-
-Bajar con ellos al piso, a esa hora, con esa ropa —la de ellos o la suya—, era un problema que mañana nadie le iba a cobrar a Nadir.
-
-Quitó la cadena.
-
-—No toquen nada.
-
-Al fondo del pasillo estaba la sala que el Monarch usaba para eventos privados: una mesa de bacará, una ruleta de nogal bajo una funda gris, un bar cerrado con llave y sillas tapizadas en un terciopelo que nadie se había atrevido a ensuciar. Chiara encendió la mitad de las luces y señaló un sillón junto a la pared.
-
-—Ahí. Esperan ahí.
-
-Danny se sentó en el brazo del sillón. Russ se quedó de pie. Nadir fue directo a la ruleta y le quitó la funda antes de que ella pudiera repetir lo de no tocar.
-
-—Wallah. Ésta es mejor que las de abajo.
-
-—Es la misma.
-
-—Ésta no la ha tocado nadie.
-
-Chiara le quitó la funda de las manos, la dobló y la dejó en una silla. Se paró del lado de la casa, descalza sobre la alfombra fría, y tendió la mano.
-
-Nadir le puso el fajo en la palma.
-
-Ella quitó la liga, contó los billetes dos veces —seiscientos cuarenta— y los dejó sobre el rojo, abiertos en abanico, para que nadie pudiera decir después que había sido otra cantidad.
-
-—No va más —dijo, aunque no había nadie más.
-
-Hizo girar el plato y lanzó la bola contra el giro, sin ceremonia. La bola corrió por la pista mucho más tiempo del que Danny pudo aguantar callado.
-
-—Rojo, rojo, rojo, rojo…
-
-—Cállate —dijo Russ.
-
-Cayó en el diecinueve. Rojo.
-
-Danny gritó. Russ le tapó la boca con la mano libre y miró hacia la puerta. Nadir no se movió: seguía mirando la bola, como si todavía estuviera decidiendo si aceptaba el precio.
-
-—La casa le debe seiscientos cuarenta —dijo Chiara—. La caja abre a las…
-
-—Déjelos ahí. Los míos y los de la casa. Al rojo.
-
-Chiara lo miró.
-
-—Son mil doscientos ochenta.
-
-—Ya sé contar, señora.
-
-—Nadir —dijo Russ.
-
-—Safi. Todo.
-
-Danny dejó de sonreír y se volvió a sentar en el brazo del sillón, despacio, como si el sillón también pudiera apostar.
-
-Chiara hizo girar el plato.
-
-Esta vez nadie dijo nada mientras la bola corría. Perdió velocidad, golpeó un rombo, saltó dos casillas y se quedó en la única que no era de ningún color que alguien hubiera nombrado esa noche.
-
-Cero. Verde.
-
-Danny se llevó las dos manos a la gorra. Russ cerró los ojos un segundo, como quien confirma algo que dijo en el estacionamiento.
-
-Nadir miró el cero un rato largo. Después se rascó la ceja con el pulgar.
-
-—Wallah. Ésa estuvo cara.
-
-—La casa agradece —dijo Chiara, y recogió los billetes.
-
-—¿Quién apuesta al verde? —Danny miraba la ruleta como si lo hubiera traicionado en persona—. Nadie apuesta al verde.
-
-—La casa —dijo Russ.
-
-Los acompañó al elevador de servicio y apretó ella el botón correcto. Nadir entró al último. Se quedó un segundo con la mano en la puerta, mirándola de arriba abajo con algo que no era descaro sino cálculo: el pijama, los pies descalzos, el fajo de billetes que ella todavía tenía en la mano sin darse cuenta.
-
-—Buenas noches, señora.
-
-—Ciao, tesoro.
-
-Antes de que las puertas terminaran de cerrarse, Danny alcanzó a levantar la gorra.
-
-—A Kal ni una palabra, ¿eh?
-
-—Ni una —dijo Nadir.
-
-Russ miró al techo.
-
-Chiara volvió a la sala, le puso la funda a la ruleta y apagó las luces. Eran las dos menos veinte.
-
-***
-
 La tarde del reto, Chiara estaba descalza en su oficina.
 
 No por comodidad, por supervivencia. Los tacones rojos esperaban junto al escritorio, vencidos por un día de reuniones, dos recorridos por piso y una discusión con Tommaso sobre si los torneos de póker debían invitar a jugadores de fuera antes de que el hotel tuviera habitaciones suficientes. Tommaso creía que no. Chiara creía que Tommaso tenía una relación demasiado íntima con las palabras *todavía no*.
@@ -326,11 +194,11 @@ Kal dejó la bolsa sobre el escritorio y no se sentó. Miró los zapatos junto a
 
 —Depende de qué le hayan dicho.
 
-—Que les enseñó el penthouse a los chicos en pijama.
+—Que les enseñó el penthouse a los de seguridad en pijama.
 
 Chiara levantó la vista despacio.
 
-—Los chicos tocaron mi puerta a la una de la mañana con una emergencia que resultó ser menos urgente que su incapacidad de usar un elevador.
+—Los de seguridad tocaron mi puerta a la una de la mañana con una emergencia que resultó ser menos urgente que su incapacidad de usar un elevador.
 
 —Pero se los enseñó.
 
@@ -462,7 +330,11 @@ A Danny se le iluminó la cara.
 
 —Con cartón —dijo Russ.
 
-Eran casi las siete y media. Kal se lavó otra vez, porque seguía oliendo a disco quemado, se puso la chaqueta y fue por fin a la oficina. Abrió el cajón. Sacó una bolsa pequeña, se la guardó en el bolsillo y salió a buscar hamburguesas.
+Eran casi las siete y media. Kal se lavó otra vez, porque seguía oliendo a disco quemado, se puso la chaqueta y fue por fin a la oficina. Abrió el cajón. Sacó una bolsa pequeña y se la guardó en el bolsillo. De atrás de las facturas sacó también un frasco, se puso en el cuello lo que le cupo en un dedo y lo volvió a guardar.
+
+Al cruzar el patio pasó junto a Danny, sentado en una defensa. Danny levantó la nariz y miró a Nadir. Nadir no levantó la vista de la lata.
+
+Kal salió a buscar hamburguesas.
 
 ***
 

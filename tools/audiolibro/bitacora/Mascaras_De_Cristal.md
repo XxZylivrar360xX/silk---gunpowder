@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-03 20:31. Al día: 56 de 56.
+Actualizada: 2026-11-03 22:34. Al día: 56 de 56.
 
 ## Pendientes
 
@@ -14,13 +14,13 @@ Ninguno: todos los audios corresponden a la prosa actual.
 |---|---|---|---|
 | 1 | Un hombre de negocios intachable | AL DIA | 2026-10-24 |
 | 2 | Demasiado listo | AL DIA | 2026-10-24 |
-| 3 | Los viejos días | AL DIA | 2026-10-24 |
+| 3 | Los viejos días | AL DIA | 2026-11-03 |
 | 4 | Tarifa nocturna | AL DIA | 2026-11-03 |
 | 5 | Cliente y proveedor | AL DIA | 2026-11-03 |
-| 6 | La pizza de calabaza | AL DIA | 2026-11-02 |
+| 6 | La pizza de calabaza | AL DIA | 2026-11-03 |
 | 7 | Ambos | AL DIA | 2026-11-03 |
-| 8 | La noche del ladrillo | AL DIA | 2026-11-01 |
-| 9 | La carrera de máscaras | AL DIA | 2026-11-01 |
+| 8 | La noche del ladrillo | AL DIA | 2026-11-03 |
+| 9 | La carrera de máscaras | AL DIA | 2026-11-03 |
 | 10 | La teniente | AL DIA | 2026-11-01 |
 | 11 | La balanza | AL DIA | 2026-11-01 |
 | 12 | Dos sillas vacías | AL DIA | 2026-11-01 |
@@ -32,7 +32,7 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | 18 | Le quedé debiendo | AL DIA | 2026-11-01 |
 | 19 | El día nublado | AL DIA | 2026-11-02 |
 | 20 | Lo pequeño | AL DIA | 2026-11-01 |
-| 21 | El primer huésped | AL DIA | 2026-11-01 |
+| 21 | El primer huésped | AL DIA | 2026-11-03 |
 | 22 | Grazie | AL DIA | 2026-11-01 |
 | 23 | La cifra | AL DIA | 2026-11-01 |
 | 24 | Con su proveedor | AL DIA | 2026-11-01 |
@@ -71,6 +71,20 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Historial
 
+- 2026-11-03 22:34 · Cap. 21 (21_El_Primer_Huesped.md) · audio regenerado
+- 2026-11-03 22:34 · Cap. 9 (08_La_Carrera_De_Mascaras.md) · audio regenerado
+- 2026-11-03 22:34 · Cap. 8 (07_La_Noche_Del_Ladrillo.md) · audio regenerado
+- 2026-11-03 22:34 · Cap. 7 (06_Ambos.md) · audio regenerado
+- 2026-11-03 22:34 · Cap. 6 (05c_La_Pizza_De_Calabaza.md) · audio regenerado
+- 2026-11-03 22:34 · Cap. 4 (04_Tarifa_Nocturna.md) · audio regenerado
+- 2026-11-03 22:34 · Cap. 3 (03_Los_Viejos_Dias.md) · audio regenerado
+- 2026-11-03 22:03 · Cap. 21 (21_El_Primer_Huesped.md) · audio pendiente: cambió la prosa
+- 2026-11-03 22:03 · Cap. 9 (08_La_Carrera_De_Mascaras.md) · audio pendiente: cambió la prosa
+- 2026-11-03 21:35 · Cap. 8 (07_La_Noche_Del_Ladrillo.md) · audio pendiente: cambió la prosa
+- 2026-11-03 21:35 · Cap. 7 (06_Ambos.md) · audio pendiente: cambió la prosa
+- 2026-11-03 21:35 · Cap. 6 (05c_La_Pizza_De_Calabaza.md) · audio pendiente: cambió la prosa
+- 2026-11-03 21:17 · Cap. 3 (03_Los_Viejos_Dias.md) · audio pendiente: cambió la prosa
+- 2026-11-03 21:09 · Cap. 4 (04_Tarifa_Nocturna.md) · audio pendiente: cambió la prosa
 - 2026-11-03 20:31 · Cap. 7 (06_Ambos.md) · audio regenerado
 - 2026-11-03 20:31 · Cap. 5 (05a_Cliente_Y_Proveedor.md) · audio regenerado
 - 2026-11-03 20:31 · Cap. 4 (04_Tarifa_Nocturna.md) · audio regenerado

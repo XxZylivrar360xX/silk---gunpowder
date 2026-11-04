@@ -21,8 +21,8 @@
       "titulo": "Los viejos días",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-24",
-      "desde": "2026-10-24 12:26"
+      "audio": "2026-11-03",
+      "desde": "2026-11-03 22:34"
     },
     "04_Tarifa_Nocturna.md": {
       "capitulo": 4,
@@ -30,7 +30,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-11-03",
-      "desde": "2026-11-03 20:31"
+      "desde": "2026-11-03 22:34"
     },
     "05a_Cliente_Y_Proveedor.md": {
       "capitulo": 5,
@@ -45,8 +45,8 @@
       "titulo": "La pizza de calabaza",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-11-02",
-      "desde": "2026-11-02 23:04"
+      "audio": "2026-11-03",
+      "desde": "2026-11-03 22:34"
     },
     "06_Ambos.md": {
       "capitulo": 7,
@@ -54,23 +54,23 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-11-03",
-      "desde": "2026-11-03 20:31"
+      "desde": "2026-11-03 22:34"
     },
     "07_La_Noche_Del_Ladrillo.md": {
       "capitulo": 8,
       "titulo": "La noche del ladrillo",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-11-01",
-      "desde": "2026-11-01 22:20"
+      "audio": "2026-11-03",
+      "desde": "2026-11-03 22:34"
     },
     "08_La_Carrera_De_Mascaras.md": {
       "capitulo": 9,
       "titulo": "La carrera de máscaras",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-11-01",
-      "desde": "2026-11-01 22:20"
+      "audio": "2026-11-03",
+      "desde": "2026-11-03 22:34"
     },
     "08b_La_Sargenta.md": {
       "capitulo": 10,
@@ -165,8 +165,8 @@
       "titulo": "El primer huésped",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-11-01",
-      "desde": "2026-11-01 22:20"
+      "audio": "2026-11-03",
+      "desde": "2026-11-03 22:34"
     },
     "21b_Grazie.md": {
       "capitulo": 22,
@@ -3188,6 +3188,76 @@
     [
       "2026-11-03 20:31",
       "Cap. 7 (06_Ambos.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-03 21:09",
+      "Cap. 4 (04_Tarifa_Nocturna.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-03 21:17",
+      "Cap. 3 (03_Los_Viejos_Dias.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-03 21:35",
+      "Cap. 6 (05c_La_Pizza_De_Calabaza.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-03 21:35",
+      "Cap. 7 (06_Ambos.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-03 21:35",
+      "Cap. 8 (07_La_Noche_Del_Ladrillo.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-03 22:03",
+      "Cap. 9 (08_La_Carrera_De_Mascaras.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-03 22:03",
+      "Cap. 21 (21_El_Primer_Huesped.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-03 22:34",
+      "Cap. 3 (03_Los_Viejos_Dias.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-03 22:34",
+      "Cap. 4 (04_Tarifa_Nocturna.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-03 22:34",
+      "Cap. 6 (05c_La_Pizza_De_Calabaza.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-03 22:34",
+      "Cap. 7 (06_Ambos.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-03 22:34",
+      "Cap. 8 (07_La_Noche_Del_Ladrillo.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-03 22:34",
+      "Cap. 9 (08_La_Carrera_De_Mascaras.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-03 22:34",
+      "Cap. 21 (21_El_Primer_Huesped.md)",
       "audio regenerado"
     ]
   ]

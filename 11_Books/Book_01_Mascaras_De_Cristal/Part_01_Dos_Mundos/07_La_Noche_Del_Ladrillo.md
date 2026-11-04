@@ -15,6 +15,8 @@ Taxi 2026-10-22 (CANON DEL AUTOR): la tesis de H3 pasa a "Estaba buscando ver la
 Costura de entradas/salidas 2026-10-18 (DISENO, pendiente de lectura): tras el tocador Chiara sale a la entrada (se cruza con Dario), espera en la pared donde fumo y vuelve a entrar despues de Kal; antes "volvio a entrar" desde el tocador y la salida no estaba escrita. Imitacion de Kal ("Ciao, sono Chiara Bellandi", siembra del "Ciao, bella" del Cap. 35) movida del pasillo del ladrillo a "Traes la sonrisa de las juntas" (decision del autor): ahora responde a la mascara publica de Chiara; sale "La que pones cuando alguien habla..."; el ladrillo cierra solo la escena del pasillo.
 SURGERY 2026-10-22 (autorizada por el autor; puntos de ChatGPT 2026-10-19; sigue TERMINADO): en el taxi, "Habia salido buscando en otro lo que ya conocia:" -> "Habia salido para que" (REPETICION FUNCIONAL/LEXICAL: adelantaba la frase canon de H3, que queda intacta y ahora es la unica formulacion). Protegidos: la frase canon, el parecido fisico (D7; lo cobra el 18), "pensar sin editarse", el ladrillo en la cadera y "Esa cancion si la definia" (INTERIORIDAD; cobra "para definirla" de Volare).
 Arco de Blake (2026-10-22, decision del autor; DISENO pendiente de lectura): linea de la cuarta invitacion ("otro no ya habria sido una respuesta"); Nadir y Danny ya conocidos por la ruleta del 6 ("los de la ruleta de la una de la mañana"); Kal empieza a presentar a Nadir y este lo corta: "Ya nos conocemos... La señora me debe un verde... Tu amiga."
+Primer encuentro con los chicos (2026-11-03, DECISION DEL AUTOR; prosa DISEÑO): aqui Chiara le pone cara por primera vez a Nadir y Danny. Fuera "los de la ruleta", "Ya nos conocemos", "La señora me debe un verde", "Tu amiga". Entra "Usted es el problema" (cobra "El problema llamo" del Cap. 4) y la tarifa de dentista.
+Ruleta y cierre nuevo (2026-11-03, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR en este tramo): el capitulo ya no cierra en el taxi, que queda como transito (conserva el Peugeot armado, que cita el Cap. 9). Penthouse: el ladrillo pasa a la mesa de noche del lado que Chiara no usa (lado de Kal en el Cap. 22; resuelve el PENDIENTE de H3: lo conserva). Tina con la reflexion de la "misma pintura" (eco del Cap. 2). La ruleta, trasladada del Cap. 7, cobra la invitacion de Gabriella's ("pase por el casino cuando quiera"): tres menos diez, despues de la entrega a Dario de esa misma noche; Danny toca con nudillos, alguien lo regaña, Nadir toca el timbre con pantalla, y Chiara los ve saludar en ella (idea del autor); fajo del sobre, paja en la gorra (cobro en el Cap. 9). Chiara se rie: alivio tras Blake. Cierre: billetes debajo del ladrillo. Se conserva "Trabajo de madrugada" (canon de H3). DISEÑO del agente: "Mercer colgo las llaves", la copa de Nadir sola en la barra, "No es chistoso / Un poco".
 -->
 
 # Capítulo 8 — La noche del ladrillo
@@ -155,7 +157,7 @@ Esta vez no tuvo que preguntarse quién iba dentro. Se quedó mirando la boca de
 
 A los dos minutos aparecieron cuatro figuras caminando hacia la entrada principal.
 
-Kal, con la chaqueta de siempre. Nadir y Danny, los de la ruleta de la una de la mañana: Nadir con la ropa que parecía sacada directo del taller; Danny, el del Mustang en una noche y las líneas del patio, con una gorra que ningún portero de Gabriella's iba a dejar pasar sin comentario. Y el que venía detrás, con el paso de quien no necesita apurarse por nada, y que sólo conocía de oídas: tenía que ser Héctor.
+Kal, con la chaqueta de siempre. Y tres a los que ella sólo conocía de oídas, de semanas de llamadas en las que nunca había hecho falta ponerles cara. El de la ropa sacada directo del taller, que le medía la fachada al local como si fuera a hacerle una oferta, tenía que ser Nadir. El de la gorra que ningún portero de Gabriella's iba a dejar pasar sin comentario, Danny, el del Mustang en una noche y las líneas del patio. Y el que venía detrás, con el paso de quien no necesita apurarse por nada: Héctor.
 
 Ninguno con ropa que correspondiera a nada de lo que había adentro.
 
@@ -191,7 +193,27 @@ Cuando ella volvió a entrar, Kal los trajo hasta ella sin ceremonia.
 
 —Nadir…
 
-—Ya nos conocemos. —Nadir le dio la mano, correcto, sin la carcajada de la acera—. La señora me debe un verde. —Y a Kal, sin soltarla todavía—: Tu amiga.
+—Señora Bellandi. —Nadir le dio la mano, correcto, y tardó en soltarla, como quien sopesa una moneda—. Usted es el problema.
+
+Kal se pasó la mano por la cara.
+
+—¿Eso le dijo?
+
+—Y tarifa nocturna. —La soltó—. Eso le cobra a un dentista.
+
+—Si tanto le preocupa el dinero, pase por el casino cuando quiera. Le presto una ruleta.
+
+—¿Cuando quiera?
+
+—Cuando quiera.
+
+Nadir asintió, como quien guarda un recibo.
+
+—Danny.
+
+Las historias lo habían hecho más alto. Danny se quitó la gorra, como si eso arreglara algo.
+
+—Rocco es mío, señora. Desde esa noche ya no quiere tortilla.
 
 —Héctor.
 
@@ -277,6 +299,8 @@ Nadir no. Se quedó en la barra, con una copa que por fin había conseguido pedi
 
 Volvió a la mesa de Blake con el ladrillo escondido en el bolso, como quien esconde una prueba.
 
+En algún momento, al volver a mirar hacia la barra, la copa de Nadir estaba sola, vacía.
+
 No fue difícil disimular el resto de la noche. Lo difícil fue que Blake, que nunca insistía en las preguntas que de verdad importaban, eligiera justo esa noche para empezar a hacerlo.
 
 —Estuviste rara toda la fiesta —dijo, ya afuera, mientras esperaban que el valet trajera el auto.
@@ -329,9 +353,17 @@ Eso fue lo último que necesitó oír.
 
 Se dio la vuelta antes de que él pudiera contestar, levantó la mano hacia la calle y un taxi se detuvo con una suerte que no merecía esa noche.
 
-***
+Santa Brígida quedaba lejos del Monarch. El ladrillo se le clavaba en la cadera con cada bache del camino, y antes de llegar a la 101 ya lo había armado: el coche del que Blake presumía derrotas, el terror de la policía del que nadie había visto la cara, era el mismo que acababa de entrar a un callejón con cuatro hombres mal vestidos. Se rió una vez, por la nariz. El chofer la miró por el espejo.
 
-Adentro del taxi, con la ciudad pasando borrosa por la ventana, Chiara dejó que el vino y el cansancio hicieran lo que la sobriedad llevaba semanas sin dejarle hacer: pensar sin editarse.
+Eran más de las dos cuando entró al penthouse. No encendió más que la lámpara de la habitación. Sacó el ladrillo del bolso antes que nada y se quedó mirándolo en la mano. Levantó una ceja. Lo dejó en la mesa de noche del otro lado de la cama, la que no usaba.
+
+Se quitó el vestido frente al espejo. El ladrillo le había dejado una marca en la cadera, roja, con una esquina. La apretó con el pulgar, y por primera vez en mucho tiempo, a Chiara no le importó que algo le doliera un poco.
+
+Abrió el grifo de la tina y esperó a que el agua golpeara el mármol.
+
+Adentro dejó que el vino y el cansancio hicieran lo que la sobriedad llevaba semanas sin dejarle hacer: pensar sin editarse.
+
+*A las mujeres como tú.* Se lo había dicho un niño con placa y sueldo, y seguía ahí, en el agua, con ella.
 
 Blake y Kal eran, por fuera, casi el mismo hombre. Los dos rubios. Los dos de ojos azules.
 
@@ -341,4 +373,164 @@ No había salido con Blake por Blake.
 
 Estaba buscando ver la misma pintura en un cuadro diferente.
 
-El ladrillo, todavía en el bolso, se le clavó en la cadera con cada bache del camino, y por primera vez en mucho tiempo, a Chiara no le importó que algo le doliera un poco.
+Apoyó la cabeza en el borde de mármol y miró el techo, que seguía sin saber nada. La primera noche, en esa misma agua, había decidido que Kal Mercer era un dato. Se quedó hasta que el agua se enfrió.
+
+Tocaron a las tres menos diez.
+
+La puerta, con los nudillos, tres veces y después otras tres, como alguien que no estaba seguro de haber tocado la primera vez. Chiara estaba en pijama, con el pelo húmedo recogido con un lápiz. Lo primero que pensó fue en Blake, y atravesó la sala descalza, despacio, sin encender nada.
+
+Del otro lado, alguien regañó a alguien. No alcanzó a oír qué.
+
+Sonó el timbre.
+
+El timbre del penthouse tenía pantalla, como casi todo en ese edificio que no hacía falta. Se encendió junto a la puerta, a la altura de su cara, y Chiara se quedó delante de ella con la mano a medio camino.
+
+Tres hombres en el pasillo, vistos desde arriba. Nadir tenía el dedo todavía en el botón y miraba de lado al de la gorra, sin entenderlo. Danny saludaba a la cámara con todos los dientes, agitando la mano muy rápido. Atrás, un tercero, mayor que los otros dos, con un bigote muy tupido y un bastón, se tapaba los ojos con la mano libre y negaba despacio con la cabeza.
+
+Había cruzado la sala lista para otra cosa.
+
+Danny seguía saludando.
+
+Abrió con la cadena puesta.
+
+—¡Señora! —Danny se quitó la gorra, como si eso arreglara la hora—. Perdón. Perdón, perdón. Danny. El de la fiesta. El del perro.
+
+Traía una brizna de paja pegada a la visera. Olía a establo y a gasolina. Detrás de él estaba Nadir, ya con las manos en los bolsillos de una chaqueta de taller, y el del bastón, que había bajado la mano y tenía la cara de un hombre que había dicho desde el estacionamiento que eso era mala idea.
+
+—¿Cómo subieron?
+
+—Por carga —dijo Nadir.
+
+—El elevador de servicio tiene un botón que dice *casino* —dijo Danny—. Lo apretamos. Varias veces.
+
+—Ese botón no sirve desde la remodelación.
+
+—Ahora lo sabemos.
+
+El del bastón se aclaró la garganta.
+
+—Russ. Yo no estoy aquí.
+
+Chiara miró a los tres, después el pasillo vacío, y se acordó de lo que llevaba puesto.
+
+—¿Qué emergencia los trae a mi puerta a las tres de la mañana?
+
+—Usted dijo cuando quiera —dijo Nadir.
+
+—No dije esta noche.
+
+—Tampoco dijo que no.
+
+Sacó la mano del bolsillo. Traía un fajo de billetes doblado a la mitad, sujeto con una liga, todavía con la forma del sobre donde había estado.
+
+—Seiscientos cuarenta. Todo al rojo. Hoy.
+
+—¿Por qué hoy?
+
+—Porque hoy es rojo. —Lo dijo como quien da un precio—. Mañana no sé.
+
+—Hay un piso entero abajo con ruletas abiertas toda la noche.
+
+—Por enfrente no nos dejaron pasar con esta ropa —dijo Danny—. Nadir dijo que usted era la jefa.
+
+Nadir no lo negó.
+
+—Usted es la casa.
+
+—¿Mercer sabe que están aquí?
+
+—Mercer colgó las llaves a las dos. A esa hora ya no existe.
+
+Bajar con ellos al piso, a esa hora, con esa ropa —la de ellos o la suya—, era un problema que mañana nadie le iba a cobrar a Nadir.
+
+Quitó la cadena.
+
+—No toquen nada.
+
+Al fondo del pasillo estaba la sala que el Monarch usaba para eventos privados: una mesa de bacará, una ruleta de nogal bajo una funda gris, un bar cerrado con llave y sillas tapizadas en un terciopelo que nadie se había atrevido a ensuciar. Chiara encendió la mitad de las luces y señaló un sillón junto a la pared.
+
+—Ahí. Esperan ahí.
+
+Danny se sentó en el brazo del sillón. Russ se quedó de pie. Nadir fue directo a la ruleta y le quitó la funda antes de que ella pudiera repetir lo de no tocar.
+
+—Wallah. Ésta es mejor que las de abajo.
+
+—Es la misma.
+
+—Ésta no la ha tocado nadie.
+
+Chiara le quitó la funda de las manos, la dobló y la dejó en una silla. Se paró del lado de la casa, descalza sobre la alfombra fría, y tendió la mano.
+
+Nadir le puso el fajo en la palma.
+
+Ella quitó la liga, contó los billetes dos veces —seiscientos cuarenta— y los dejó sobre el rojo, abiertos en abanico, para que nadie pudiera decir después que había sido otra cantidad.
+
+—No va más —dijo, aunque no había nadie más.
+
+Hizo girar el plato y lanzó la bola contra el giro, sin ceremonia. La bola corrió por la pista mucho más tiempo del que Danny pudo aguantar callado.
+
+—Rojo, rojo, rojo, rojo…
+
+—Cállate —dijo Russ.
+
+Cayó en el diecinueve. Rojo.
+
+Danny gritó. Russ le tapó la boca con la mano libre y miró hacia la puerta, y Chiara se rió antes de acordarse de que era la casa. Nadir no se movió: seguía mirando la bola, como si todavía estuviera decidiendo si aceptaba el precio.
+
+—La casa le debe seiscientos cuarenta —dijo Chiara—. La caja abre a las…
+
+—Déjelos ahí. Los míos y los de la casa. Al rojo.
+
+Chiara lo miró.
+
+—Son mil doscientos ochenta.
+
+—Ya sé contar, señora.
+
+—Nadir —dijo Russ.
+
+—Safi. Todo.
+
+Danny dejó de sonreír y se volvió a sentar en el brazo del sillón, despacio, como si el sillón también pudiera apostar.
+
+Chiara hizo girar el plato.
+
+Esta vez nadie dijo nada mientras la bola corría. Perdió velocidad, golpeó un rombo, saltó dos casillas y se quedó en la única que no era de ningún color que alguien hubiera nombrado esa noche.
+
+Cero. Verde.
+
+Danny se llevó las dos manos a la gorra. Russ cerró los ojos un segundo, como quien confirma algo que dijo en el estacionamiento.
+
+Nadir miró el cero un rato largo. Después se rascó la ceja con el pulgar.
+
+—Wallah. Ésa estuvo cara.
+
+—La casa agradece —dijo Chiara, y recogió los billetes.
+
+—¿Quién apuesta al verde? —Danny miraba la ruleta como si lo hubiera traicionado en persona—. Nadie apuesta al verde.
+
+—La casa —dijo Russ.
+
+Chiara se rió hasta tener que apoyarse en la ruleta.
+
+—No es chistoso, señora —dijo Danny.
+
+—Un poco —dijo Russ.
+
+Los acompañó al elevador de servicio y apretó ella el botón correcto. Nadir entró al último. Se quedó un segundo con la mano en la puerta, mirándola de arriba abajo con algo que no era descaro sino cálculo: el pijama, los pies descalzos, el fajo de billetes que ella todavía tenía en la mano sin darse cuenta.
+
+—Buenas noches, señora.
+
+—Ciao, tesoro.
+
+Antes de que las puertas terminaran de cerrarse, Danny alcanzó a levantar la gorra.
+
+—A Kal ni una palabra, ¿eh?
+
+—Ni una —dijo Nadir.
+
+Russ miró al techo.
+
+Chiara volvió a la sala, le puso la funda a la ruleta y apagó las luces. Eran casi las cuatro.
+
+En la habitación se dio cuenta de que seguía con los billetes en la mano. Olían a paja. Los dejó en la mesa de noche del otro lado de la cama, debajo del ladrillo, para que no se los llevara nadie.

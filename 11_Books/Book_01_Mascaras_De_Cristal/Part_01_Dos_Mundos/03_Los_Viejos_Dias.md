@@ -17,6 +17,7 @@ Orden del autor (2026-10-05, frente 5, B+D de [[13_Auditorias/Book_01_Mascaras_D
 Palabras de prosa: ~4,780 (antes ~7,000 con el bloque de Chiara, que ahora vive en el Cap. 4). DISENO del agente, pendiente de lectura: la banda receptora (Cuadra Nueve), la cifra (treinta mil, mitad por adelantado), la bodega del norte, el Buick sobre la grua, la cadena "Eso decia tu padre", el telefono de Nat, la casa comun como vestidor.
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N3-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 2026-10-24: regla de diálogo 05 aplicada (cortes de eco y turnos perdidos), DISEÑO.
+Sin insinuacion de Dario sobre Keene (2026-11-03, DECISION DEL AUTOR): antes de "Todavia no.", fuera "en Matteo diciendo que Dario tuvo que salir, en el telefono bocabajo... con el titular de Keene". El narrador no da ni insinua la relacion; la diligencia del Cap. 2 queda como coincidencia que se cobra en el Libro III.
 -->
 
 # Capítulo 3 — Los viejos días
@@ -709,7 +710,7 @@ Nadir levantó la vista de la bota.
 
 —¿Él cree que sí?
 
-Kal pensó en la cabecera vacía de la sala del Monarch, en Matteo diciendo que Dario tuvo que salir, en el teléfono bocabajo sobre el escritorio con el titular de Keene.
+Kal pensó en la cabecera vacía de la sala del Monarch.
 
 —Todavía no.
 

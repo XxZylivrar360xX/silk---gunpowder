@@ -125,7 +125,7 @@ Nada, todavía. Y ése es el punto: cuando lo haga, sabrá **exactamente dónde 
 
 ## El asesinato de Keene
 
-Al iniciar la novela, Varek manda matar o permite matar a [[02_Characters/Raymond_Keene]], el jefe de policía anterior.
+**CANON DEL AUTOR (reafirmado 2026-11-03):** al iniciar la novela, Varek ordena matar a [[02_Characters/Raymond_Keene]], el jefe de policía anterior, y lo ejecuta [[02_Characters/Nereo_Volpi]]: su primer asesinato en San Aurelio y la primera vez que Varek lo usa como ejecutor prestado de la Mesa. Varek advierte que la crueldad de Volpi supera lo que encargó. En el Libro I el narrador no lo da ni lo insinúa: la «diligencia» del Cap. 2 queda como coincidencia y se cobra en el Libro III.
 
 La utilidad narrativa no es sólo quitar a un funcionario. Es mostrar cómo gobierna Varek: si una pieza institucional estuvo coludida y después se volvió problema, se convierte en mensaje.
 

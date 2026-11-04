@@ -10,6 +10,7 @@ Historial de cirugias y decisiones del antiguo Cap. 5 (Una amiga), previo a la s
 Rocco (2026-10-22, decision del autor; DISENO de redaccion): primera descripcion fisica, pitbull cafe de cabeza ancha, oreja mordida "desde antes de llegar al taller" (origen callejero) y la mancha blanca en el pecho que ya existia. Ficha: 02_Characters/Rocco.md.
 Transicion cliente-proveedor -> Kal que quiere impresionar (2026-10-24, decision del autor; regla 05 + segunda pasada; DISENO del agente, los ojos por idea del autor): escalera, Kal ofrece la salida ("Si prefiere, nos pone mesa adentro"); Kal se pilla a si mismo tras el discurso de la fiscalia: la vela de la calabaza, eco de los ojos del Cap. 2 ("verdes por dentro, oscuros en el borde") y de Natalie en el Cap. 3 ("De los ojos que los miren"), "¿Me lo repite? Eso no lo entendi" y ella lo repite palabra por palabra sabiendo por que (sustituye "Kal lo penso"); Rowe, Chiara se pilla a si misma (fuera "¿Y?": la uña y "paro a la mitad"; siembra "¿La del brazo?" del 10); Dario, "¿Y esto?" / "Esto no."; coche, fuera "No era una pregunta dificil" y "Kal puso la direccional en una calle vacia" (el buen conductor falla en lo simple); despedida, fuera "Gracias por venir". Reporte: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]].
 Eco de "señora Mercer" (2026-11-02, pedido del autor; DISEÑO): tras "qué bonita pareja" de Enzo, Chiara cobra la despedida del hospital del Cap. 5: "Esta vez no le dijo «no, no es». —Abrió los ojos—." antes de "Diga la verdad. ¿Cuánto les pagó?".
+Sin los chicos (2026-11-03, DECISION DEL AUTOR; supersede H2-a en este punto; prosa DISEÑO, BORRADOR): Nadir y Danny salen del capitulo, para no atacar a Kal y dejar el foco en los dos; la broma de Enzo cumple lo comico. Chiara no les pone cara hasta la noche del ladrillo. Fuera la acera completa y las burlas en la leccion de Rocco. Danny queda solo como mencion ("todavia no", la lona). Se queda Hector con "¿Te referias a esos ojos?" (canon, cierra el Cap. 3). Texto en Escenas_Eliminadas/README.
 -->
 
 # Capítulo 6 — La pizza de calabaza
@@ -108,27 +109,13 @@ El viernes, Kal pasó la tarde enseñándole a Rocco a dar la pata.
 
 No toda la tarde, si alguien preguntaba.
 
-Si alguien preguntaba, había revisado dos frenos, firmado tres facturas, discutido con un proveedor de llantas y movido una camioneta sin placas del fondo del patio al elevador dos, y le había dicho a Danny, frente a la lona del fondo, que todavía no, por tercera vez en la semana. Todo eso era verdad. También era verdad que entre una cosa y otra se había agachado frente a un pitbull café, de cabeza ancha, con una oreja mordida desde antes de llegar al taller y una mancha blanca en el pecho, y le había repetido la misma instrucción hasta que Danny empezó a mirarlo como si estuviera viendo nacer una enfermedad.
-
-—No va a firmar contrato —dijo Danny.
-
-Rocco ladeó la cabeza.
+Si alguien preguntaba, había revisado dos frenos, firmado tres facturas, discutido con un proveedor de llantas y movido una camioneta sin placas del fondo del patio al elevador dos, y le había dicho a Danny, frente a la lona del fondo, que todavía no, por tercera vez en la semana. Todo eso era verdad. También era verdad que entre una cosa y otra se había agachado frente a Rocco, el perro de Danny, un pitbull café de cabeza ancha, con una oreja mordida desde antes de llegar al taller y una mancha blanca en el pecho, y le había repetido la misma instrucción hasta que el perro empezó a mirarlo como si estuviera viendo nacer una enfermedad.
 
 Kal le ofreció un pedazo de tortilla.
 
 —Pata.
 
 El perro olió la tortilla, le lamió los dedos y se sentó.
-
-Nadir, desde la puerta de la oficina, soltó un silbido bajo.
-
-—Ese perro negocia mejor que medio barrio.
-
-—Es tu perro, Danny —dijo Kal.
-
-Danny levantó las manos.
-
-—Mi perro sabe sobrevivir. No hacer etiqueta.
 
 Kal volvió a intentarlo.
 
@@ -140,25 +127,9 @@ Héctor miró la pata en su bota.
 
 —No me metas en tus cosas raras.
 
-Nadir se rió.
-
 Kal tomó aire.
 
 —Otra vez.
-
-—¿Para quién es? —preguntó Danny.
-
-Kal no contestó.
-
-Nadir sonrió demasiado lento.
-
-—Ah.
-
-—No.
-
-—Yo no dije nada.
-
-—Lo dijiste con la cara.
 
 Héctor dejó la caja sobre una mesa. Se quedó mirando a Kal un momento.
 
@@ -167,20 +138,6 @@ Héctor dejó la caja sobre una mesa. Se quedó mirando a Kal un momento.
 Kal le dio a Rocco otro pedazo de tortilla.
 
 —Una amiga.
-
-El silencio que siguió fue peor que una carcajada.
-
-Danny se sentó sobre una defensa.
-
-—Claro.
-
-Nadir cruzó los brazos.
-
-—Wallah, una amiga italiana, del casino, a la que le vas a llevar mi perro.
-
-—Tu perro no. El de Danny.
-
-—No esquives lo importante.
 
 Rocco levantó por fin la pata hacia Kal.
 
@@ -196,7 +153,7 @@ Kal bajó la vista. Camiseta, jeans, botas, grasa en la muñeca.
 
 —No.
 
-Los tres hombres lo miraron al mismo tiempo.
+Héctor siguió mirándolo. Rocco también.
 
 Kal sintió que había cometido un error táctico.
 
@@ -222,15 +179,9 @@ No para impresionar.
 
 Eso se dijo.
 
-Luego se puso un traje oscuro, camisa limpia, zapatos que no eran tenis y una fragancia que Nadir olió desde la cocina de la casa común.
+Luego se puso un traje oscuro, camisa limpia, zapatos que no eran tenis y una fragancia que no pensaba explicarle a nadie.
 
-Danny apareció detrás de él con Rocco, que llevaba un pañuelo rojo en el cuello y la dignidad confusa de un animal al que nadie le pidió opinión.
-
-—Si mi perro vuelve hablando italiano, me lo pagas.
-
-—No habla español.
-
-—Por eso me preocupa.
+Rocco lo esperaba en el patio con un pañuelo rojo en el cuello y la dignidad confusa de un animal al que nadie le pidió opinión.
 
 Héctor salió al patio, miró la camioneta y luego a Kal.
 
@@ -623,106 +574,6 @@ Rocco levantó la cabeza y ladró dos veces, con la cola golpeando la pata de la
 —No, no, no. No digas que sí.
 
 Chiara se rió, y esta vez no se tapó la boca.
-
-***
-
-Al salir, Nadir y Danny estaban en la acera.
-
-No debían estar ahí.
-
-Eso era evidente por la forma en que ambos fingieron estar mirando cualquier otra cosa. Danny sostenía una bolsa de comida para llevar. Nadir tenía las manos en los bolsillos y una cara de inocencia tan mala que merecía cárcel por sí sola.
-
-Rocco los vio primero y tiró de la correa.
-
-—Traidor —dijo Danny.
-
-Chiara miró al perro, luego a Kal.
-
-—¿Son sus amigos?
-
-—No sé.
-
-Nadir abrió los brazos.
-
-—Wallah, qué fuerte, Mercer.
-
-Danny señaló a Rocco.
-
-—Mi perro sí me reconoce.
-
-Rocco le dio la pata a Chiara otra vez.
-
-Danny se quedó inmóvil.
-
-—No.
-
-Chiara inclinó la cabeza.
-
-—Creo que cambió de familia.
-
-Nadir soltó una carcajada.
-
-Kal sintió calor en el cuello.
-
-—Vámonos.
-
-—¿Tienes prisa? —preguntó Nadir.
-
-—Sí.
-
-—Hueles bien.
-
-El golpe fue limpio.
-
-Chiara no miró a Kal. Tuvo esa cortesía. Pero la esquina de la boca se le movió.
-
-Danny olfateó el aire.
-
-—Es cierto.
-
-—Buenas noches —dijo Kal.
-
-—Buonasera —dijo Nadir, con una pronunciación criminal.
-
-Chiara sí se rió.
-
-—Ciao, tesoro.
-
-Nadir se llevó una mano al pecho.
-
-Kal abrió la puerta de la camioneta con demasiada eficiencia. Rocco subió, luego Chiara. Antes de cerrar, ella miró a Nadir y Danny.
-
-—Cuídenlo.
-
-Nadir dejó de sonreír un segundo.
-
-—Eso intentamos.
-
-Kal cerró la puerta.
-
-Cuando rodeó la camioneta, Danny le dijo en voz baja:
-
-—Nunca te había visto nervioso.
-
-Kal no contestó.
-
-Nadir lo remató:
-
-—Con una amiga.
-
-Kal subió al volante y arrancó.
-
-Chiara esperó a que giraran la esquina.
-
-—¿De verdad estaba nervioso?
-
-—No.
-
-—Qué respuesta tan rápida.
-
-Kal puso la direccional en una calle vacía.
-
-Ella miró por la ventana, sonriendo hacia la calle.
 
 ***
 
