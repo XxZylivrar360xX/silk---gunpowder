@@ -55,6 +55,7 @@ Arco de Blake (2026-10-22, decision del autor; prosa DISENO pendiente de lectura
 Regla 05, esticomitia de una sola voz (2026-10-24, aprobado por el autor; DISENO del agente): salida de carga, fuera el eco "Esa si me la dice" / "Esa sale barata" y piquete residual del hombro al cerrar el capo; bisagra, Chiara acumula de un aliento (fuera "Esa."); sobre, "Lo tengo anotado con dia y hora. Solo me falta el monto."; pasillo, opcion A (Chiara pierde dos turnos, fuera "repeticion con prueba" y "Yo si"; Tommaso abre con "Bellandi"); sujeto explicito en "Chiara paso junto a el"; caseta, "¿Desde cuando?" -> "Kal no pregunto desde cuando.". Reporte: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]].
 Semanas reformuladas (2026-11-03, pedido del autor: "lo senti pesado"; opcion A con la bitacora; prosa DISEÑO, sigue BORRADOR): Blake abre la etapa (cena del Distrito Marino), luego salida de carga (hombre del puerto, rueda, canon intacto), bisagra comprimida + Tommaso, y la bitacora de vigilancia sustituye el montaje del narrador: Chiara filtra los accesos de Kal (cinco renglones en cursiva, "Visitante no programado, autorizado en sitio"; "Diecinueve renglones desde la noche del Mercedes, y en ninguno decia lobby") y los vacia en una sola orden de compra de servicios externos (tarifa por acto; la bisagra como material; el hombre del puerto queda fuera, siembra del sobre). El mensaje de Blake ("¿Sabado?") llega a media orden. Caseta: "Nadir imprimio la orden dos veces... Una es para la pared." Se conservan "Treinta dias" de la reunion, "¿Una grua, Ardizzone?", la rueda, la caseta y V-1. Texto retirado en Escenas_Eliminadas/README.
 Hospital con mas espacio (2026-11-03, DECISION DEL AUTOR; prosa DISEÑO, sigue BORRADOR): Kal llega a mitad de la presentacion ("Mi nombre es Chiara", sin apellido: Kyle solo oye el nombre, y por eso "señora Mercer"); fuera "Señor Mercer / Señora Bellandi", queda un intercambio de miradas (el niño es el foco). Kyle da su nombre al sargento, no a ella ("A ella no se lo habia dicho"); reaccion de Chiara al pasado militar vista por Kal ("como quien relee un renglon"). La espera en escena: guardia (señor con muletas, "Bien visto"), Steve "carnivoro pero solo los domingos", "¿Con el? / A veces" (siembra de pareja, eco de "A veces" del soldado). Cuento del gato en voz de Chiara (sardina "que no era suya"; "Los gatos no comen naranjas / Este si"). Cafe: "Lo llaman, sargento." / "No la corrigio."
+Cortes de las semanas (2026-11-03, aprobados por el autor sobre lectura de ChatGPT; DISEÑO, sigue BORRADOR): fuera el cierre de la grua vacia en la cena de Blake, "Chiara habria querido..." y "Gracias por venir / Claro", dos renglones de la bitacora (jueves, martes), "El total quedo...", y en la caseta "Kal no pregunto desde cuando" y "Eso le cuesta una firma / Me cuesta menos...". Texto en Escenas_Eliminadas/README.
 -->
 
 # Capítulo 5 — Cliente y proveedor
@@ -737,8 +738,6 @@ Chiara miró por la ventanilla.
 
 La dejó en la entrada principal. No se bajó; ya estaba mirando el teléfono cuando ella cerró la puerta.
 
-Arriba, Chiara se quitó los aretes frente al ventanal. Por la avenida pasaba una grúa vacía, de regreso a donde fuera que volvían las grúas a esa hora. La miró hasta que dobló.
-
 ***
 
 Una tarde, un hombre del puerto que no debía estar en la lista abandonó el Monarch cinco minutos después de que Kal apareciera en el estacionamiento de empleados para revisar una supuesta batería muerta. Nadie lo tocó. Nadie lo siguió.
@@ -819,12 +818,6 @@ Kal terminó de acomodarse la chaqueta.
 
 —Ya me iba.
 
-Chiara habría querido que se quedara sólo para no darle a Tommaso la satisfacción de verlo salir. Pero Kal no le preguntó con los ojos. No pidió papel en una escena ajena.
-
-—Gracias por venir —dijo ella.
-
-—Claro.
-
 Cuando él se fue, Tommaso esperó a que el elevador cerrara.
 
 —Te estás complicando, Bellandi.
@@ -873,10 +866,6 @@ En la oficina administrativa abrió la bitácora de vigilancia de la rampa de se
 
 *Lunes, 23:52. Grúa, Almendra Towing. Retiro de vehículo, acceso principal. Visitante no programado, autorizado en sitio.*
 
-*Jueves, 05:40. Sedán particular. Revisión de entrega de hielo. Visitante no programado, autorizado en sitio.*
-
-*Martes, 16:15. Proveedor a pie, uniformado. Entrega de factura. Visitante no programado, autorizado en sitio.*
-
 *Domingo, 03:05. Camioneta. Lavandería, recolección fuera de horario. Visitante no programado, autorizado en sitio.*
 
 *Miércoles, 17:20. Sedán particular. Estacionamiento de empleados. Batería. Visitante no programado, autorizado en sitio.*
@@ -887,7 +876,7 @@ El problema no era que Kal entrara. Era que entraba como excepción, y las excep
 
 Prefirió contarlas ella.
 
-Almendra Towing tenía licencia municipal y seguro al día, y darla de alta como proveedor externo de remolque del Monarch entraba, con holgura, en lo que ella podía firmar sin llevar nada a junta. Abrió una orden de compra en blanco y vació en ella la bitácora, renglón por renglón, con la fecha y la hora de cada acceso: remolque, arranque, flete, revisión de proveedor. La bisagra la anotó como material, a precio de ferretería. Tarifa por acto, un solo pago de servicios externos, facturación a fin de mes, en el lenguaje más aburrido que encontró.
+Almendra Towing tenía licencia municipal y seguro al día, y darla de alta como proveedor externo de remolque del Monarch entraba, con holgura, en lo que ella podía firmar sin llevar nada a junta. Abrió una orden de compra en blanco y vació en ella la bitácora, renglón por renglón: remolque, arranque, flete, revisión de proveedor. La bisagra la anotó como material, a precio de ferretería. Tarifa por acto, un solo pago de servicios externos, en el lenguaje más aburrido que encontró.
 
 El hombre del puerto no cabía en ningún renglón. Lo dejó fuera.
 
@@ -899,7 +888,7 @@ A media orden le vibró el teléfono.
 
 Volvió al renglón de la batería.
 
-El total quedó debajo de la cifra que firmaba sola, sin que tuviera que forzarlo. Archivó la orden entre el contrato de lavandería y el de hielo, donde nadie leía porque nadie quería. El nombre de Kal no quedó en ningún lugar donde no estuviera también el de una empresa de toallas.
+Archivó la orden entre el contrato de lavandería y el de hielo, donde nadie leía porque nadie quería. El nombre de Kal no quedó en ningún lugar donde no estuviera también el de una empresa de toallas.
 
 Antes de mandarla se quedó un segundo con el cursor encima. Era su firma sobre la palabra *Almendra*, en un registro que otros también leían.
 
@@ -925,17 +914,7 @@ Bajó cuando él ya tenía el carrito de lavandería volteado sobre el muelle y 
 
 —Me dejaron pasar sin llamar a nadie.
 
-—Ahora es un trámite.
-
-Kal no preguntó desde cuándo.
-
-—Desde que me dejó de convenir que fuera una noticia cada vez que aparece.
-
-Kal dobló el trapo.
-
-—Eso le cuesta una firma.
-
-—Me cuesta menos que explicarlo cada semana.
+—Ahora es un trámite. Desde que me dejó de convenir que fuera una noticia cada vez que aparece.
 
 No le dio las gracias. Se guardó el trapo y volvió a agacharse sobre el carrito, que también traía el eje roto.
 

@@ -51,10 +51,10 @@
     "06_Ambos.md": {
       "capitulo": 7,
       "titulo": "Ambos",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:20"
+      "desde": "2026-11-03 18:45"
     },
     "07_La_Noche_Del_Ladrillo.md": {
       "capitulo": 8,
@@ -3163,6 +3163,11 @@
     [
       "2026-11-03 16:03",
       "Cap. 5 (05a_Cliente_Y_Proveedor.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-03 18:45",
+      "Cap. 7 (06_Ambos.md)",
       "audio pendiente: cambió la prosa"
     ]
   ]

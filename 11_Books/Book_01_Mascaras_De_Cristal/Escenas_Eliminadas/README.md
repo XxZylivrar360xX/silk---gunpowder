@@ -292,6 +292,32 @@ Registro:
 
 Caseta: «Asintió una vez,» (sale). Blake: «El sábado salió con Blake. / La llevó a un bar de la costa con terraza y música en vivo, eligió una mesa…» → «El sábado, el lugar de la costa resultó ser un bar con terraza y música en vivo. Blake eligió una mesa…».
 
+### Cortes de las semanas del Cap. 5 (archivo 05a, 2026-11-03)
+
+> Arriba, Chiara se quitó los aretes frente al ventanal. Por la avenida pasaba una grúa vacía, de regreso a donde fuera que volvían las grúas a esa hora. La miró hasta que dobló.
+
+> Chiara habría querido que se quedara sólo para no darle a Tommaso la satisfacción de verlo salir. Pero Kal no le preguntó con los ojos. No pidió papel en una escena ajena.
+>
+> —Gracias por venir —dijo ella.
+>
+> —Claro.
+
+> *Jueves, 05:40. Sedán particular. Revisión de entrega de hielo. Visitante no programado, autorizado en sitio.*
+>
+> *Martes, 16:15. Proveedor a pie, uniformado. Entrega de factura. Visitante no programado, autorizado en sitio.*
+
+> El total quedó debajo de la cifra que firmaba sola, sin que tuviera que forzarlo.
+
+> Kal no preguntó desde cuándo.
+
+> Kal dobló el trapo.
+>
+> —Eso le cuesta una firma.
+>
+> —Me cuesta menos que explicarlo cada semana.
+
+Orden de compra: fuera «con la fecha y la hora de cada acceso» y «facturación a fin de mes».
+
 ## Protocolo
 
 Al sacar un capítulo: `git mv` a esta carpeta, encabezado `ESCENA ELIMINADA` + `EPUB: EXCLUDE`, fila aquí, enlaces del vault actualizados. Al recuperarlo: lo inverso, y dejar la fila tachada con la fecha.
