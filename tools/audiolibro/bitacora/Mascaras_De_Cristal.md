@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-04 01:13. Al día: 56 de 56.
+Actualizada: 2026-11-04 11:25. Al día: 56 de 56.
 
 ## Pendientes
 
@@ -71,6 +71,10 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Historial
 
+- 2026-11-04 11:25 · Cap. 7 (06_Ambos.md) · audio regenerado
+- 2026-11-04 11:25 · Cap. 4 (04_Tarifa_Nocturna.md) · audio regenerado
+- 2026-11-04 10:04 · Cap. 7 (06_Ambos.md) · audio pendiente: cambió la prosa
+- 2026-11-04 10:04 · Cap. 4 (04_Tarifa_Nocturna.md) · audio pendiente: cambió la prosa
 - 2026-11-04 01:13 · Cap. 11 (09_La_Balanza.md) · audio regenerado
 - 2026-11-04 01:13 · Cap. 9 (08_La_Carrera_De_Mascaras.md) · audio regenerado
 - 2026-11-04 01:13 · Cap. 8 (07_La_Noche_Del_Ladrillo.md) · audio regenerado

@@ -22,6 +22,7 @@ Encuentro con Blake (2026-10-24, decision del autor; prosa DISEÑO pendiente de 
 Coda de la Almendra (2026-11-03, DECISIÓN DEL AUTOR; prosa existente trasladada, BORRADOR en este tramo): la apertura del Cap. 5 (Mabel, Nadir, sopa, cajero) entra antes del penthouse y el capitulo cierra en "Todavia."; levanta por decision del autor el "POV Chiara completo" de 2026-09-29. Cambios: "Al corralon, con el Mercedes. Al fondo, bajo lona" y Russ vuelve a la cabina (el cajero se abre en el Cap. 7, archivo 06).
 Rio (2026-11-03, DECISIONES DEL AUTOR; regla 06 de staging; prosa DISEÑO, BORRADOR, espera lectura): el capitulo se reconstruye sobre una sola espera, la pregunta de Tommaso ("¿Y quien garantiza...?"), de la mañana a la rampa. Autor: el cortejo se ve desde adentro de La Esquina de Mabel; Chiara sale por aire tras el roce con Tommaso y la retiene ver la ciudad sin locutor (sin morbo: camina en sentido contrario a la banca); Varga desde la mañana; fuera la insinuacion de Dario sobre Keene; la escena del cajero pasa ANTES de la llamada, en POV Kal: corte en "Luego llamó.", Kal contesta con el cajero enfrente ("¿Lo desperté? / Ojalá"), sale en la grua azul rompiendo su regla de no volver a salir, y se regresa a Chiara hasta el final. Plática Kal/Nadir: pintura contra mecanica (eco del Cap. 1) mas el pasado en la carcel (litera y trapo, restituidos por el autor el mismo dia). Sin chiste del interes de Kal por Chiara, porque todavia no pasa (autor: esa insinuacion se repetia con Enzo y con Kyle): fuera "¿Traia acento?" / "Ya, ya. Mercedes.". Levanta la coda del mismo dia; el capitulo vuelve a cerrar en "Él no contestó." y Kal guarda el contacto tras la llamada. DISEÑO del agente: "Dario no bajaba a las juntas de numeros"; cuerda en la mesa (traje azul, "Tenia otra respuesta... No la dijo"); Varga en la lista de la apertura (cata de prensa, "Ahi tienes tu iman, Bellandi. Diseñalo"); signo de interrogacion de Tommaso en el renglon de seguridad, y nota de Chiara a seguridad; la fila de policias se adelgaza hasta la esquina de Mabel y el de bigote es el ultimo; Mabel sigue contando durante el cortejo y solo para en "Roma" y le mira la cara al cobrar; cortejo del hospital hacia la funeraria (corrige la ruta: el hospital esta frente a la plaza, canon 2026-11-01); "¿a cual de las dos llama? / A mi" en El Relevo; regla de las llaves en el clavo; quince mil y maquina de pintura ("es la mejor mentira que tenemos, y es pintura", "los intereses de dos cigarros"); Chevy de la iglesia; Kal oye "por el jefe" por el telefono y deduce El Relevo; overol encima de lo negro, cuello de sudadera visto por Chiara; "El dentista no tiene un casino" (antes "no me tira whisky"); "lo que agarres, con la izquierda" siembra la mano de la rampa; hora 11:30 y "Faltan nueve horas". Fuera: "Hueles a bar de hotel", Mabel de noche, el montaje de amigos de Blake; se conservan literales "¿Casino? / Mercedes", "¿Quien te llamo, khoya?", "El problema llamo", "Bellandi", Russ/Danny, bigote, "Safi" / "Ya hablas como gente", el dialogo de la llamada y de la rampa. El "por eso" entre tramos: Keene -> calendario -> torneo -> pregunta y Varga -> Tommaso -> taxi -> vallas -> Mabel -> cortejo -> Blake -> El Relevo -> Varga -> llamada -> cajero -> rampa -> mensaje. Texto retirado en Escenas_Eliminadas/README.
 Caballos en el cajero (2026-11-04, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR): antes de la llamada, Danny: "Con caballos... De pelicula"; Russ: "Nos arrestan a todos". Russ no se rie: su primera risa es la del Cap. 8. Cobra en el Cap. 6 y en el corral del Cap. 8.
+La Esquina y el paso a El Relevo (2026-11-04, PEDIDOS DEL AUTOR; prosa DISEÑO, BORRADOR, espera lectura). Autor: primer encuentro Mabel/Chiara a solas, antes de Blake; "¿Me puedo sentar?"; Blake pasa de Mabel; las tortas se piden en la mesa para los dos; geografia del paso a la noche. Agente: Mabel le lleva el cafe a la mesa de la ventana (la que cojea en el Cap. 1, "pie derecho en la base"); "¿Usted es Mabel?" / "Eso dice el vidrio" (el nombre ya no lo dice Blake; desde ahi el narrador la llama Mabel); "Ya la agarraste"; Mabel espera con la taza y le pregunta a Chiara, no a Blake; las tortas llegan en papel de estraza (eco del Cap. 6); "Ésa se apunta" al cobrar (Blake no pasa por la caja; aprobado por el autor el mismo dia como rasgo de Mabel). Fuera los "dos dedos" de Blake (gesto de Walt). Regreso de la tarde (vallas) y taxi de las nueve cuarenta por La Isla, Punta Dorada y el puente, hasta los coches sin multa frente a El Relevo. Costura en el Cap. 6: "La mujer no habia apuntado nada".
 -->
 
 # Capítulo 4 — Tarifa nocturna
@@ -200,9 +201,11 @@ La fila duraba varias cuadras. Se iba adelgazando conforme Calle Corona perdía 
 
 Mitad tienda, mitad cafetería. Tenía piso de mosaico viejo, barra de madera, vitrinas con pan dulce, sodas en un refrigerador que zumbaba, cigarros detrás del mostrador, dos enfermeras de turno con sopa, dos abogados hablando en voz baja y un televisor sobre la máquina de espresso que pasaba sin sonido la salida del hospital, vista desde un helicóptero. Desde arriba parecía más ordenado.
 
-Chiara pidió un espresso doble.
+Fue a la barra. Detrás de la caja, una mujer de unos sesenta, con lentes colgados de una cadena fina, contaba cambio sin mirar las monedas. La máquina la atendía una muchacha más joven, cola de caballo apretada, cara de no haber sonreído gratis en años.
 
-Detrás de la caja, una mujer de unos sesenta, con lentes colgados de una cadena fina, contaba cambio sin mirar las monedas. La máquina la atendía una muchacha más joven, cola de caballo apretada, cara de no haber sonreído gratis en años.
+—Dime —dijo la mujer, sin dejar de contar.
+
+—Un espresso doble.
 
 —Aquí lo hacemos más largo —dijo la muchacha.
 
@@ -210,15 +213,29 @@ Detrás de la caja, una mujer de unos sesenta, con lentes colgados de una cadena
 
 La muchacha la miró y decidió que no valía la pena discutir con el acento.
 
-—Harper —dijo la mujer de la caja, sin levantar la vista—. Como lo pide la señora.
+—Harper —dijo la mujer—. Como lo pide la señora.
 
 Harper apretó el café en el portafiltro con más fuerza de la necesaria.
 
-Chiara se sentó junto a la ventana. Sacó el teléfono, pero no lo desbloqueó. Del otro lado del vidrio, a tres metros, estaba la punta de la fila. Podía tomarse el espresso y pedir otro taxi. En la tele el cortejo ya venía; en la calle todavía no, y se quedó a ver cuánto tardaba una cosa en volverse la otra.
+Chiara se sentó junto a la ventana. Sacó el teléfono, pero no lo desbloqueó.
+
+El café se lo llevó la mujer de la caja. Salió de detrás de la barra con la taza en una mano y un trapo en la otra, y la dejó sobre la mesa. El café se fue para un lado, y la mesa con él.
+
+—Pon el pie derecho en la base. Si no, cojea.
+
+Chiara puso el tacón sobre la base. La mesa se quedó quieta. La mujer pasó el trapo por una mancha que Chiara no alcanzó a ver, y de paso le miró los zapatos, el saco y el vidrio.
+
+—¿Usted es Mabel?
+
+—Eso dice el vidrio. —Se echó el trapo al hombro—. Y no te levantes de golpe, que se te va el café.
+
+Volvió a la caja y a sus monedas.
+
+Del otro lado del vidrio, a tres metros, estaba la punta de la fila. Podía tomarse el espresso y pedir otro taxi. En la tele el cortejo ya venía; en la calle todavía no, y se quedó a ver cuánto tardaba una cosa en volverse la otra.
 
 Tardó un café.
 
-Primero dos motocicletas. Las enfermeras se levantaron con la cuchara en la mano. Los abogados dejaron de hablar. Harper apagó la máquina. La mujer de la caja siguió contando.
+Primero dos motocicletas. Las enfermeras se levantaron con la cuchara en la mano. Los abogados dejaron de hablar. Harper apagó la máquina. Mabel siguió contando.
 
 Luego las patrullas, con las torretas encendidas y las sirenas mudas, el azul y el rojo girando en silencio contra las fachadas. En medio, la camioneta oscura del forense, sin letrero, que no necesitaba letrero. Detrás, un coche negro con una mujer en el asiento trasero. Chiara sólo alcanzó a verle la nuca, el cuello del uniforme y el cabello castaño oscuro, recogido sin un pelo fuera de lugar. No volteó hacia la gente.
 
@@ -268,7 +285,7 @@ Blake apoyó el codo en el respaldo de la silla de enfrente sin sentarse.
 
 —Estuve en Roma una vez.
 
-Detrás de la caja, la mujer de los lentes dejó de mover las manos.
+Detrás de la caja, Mabel dejó de mover las manos.
 
 —Lo siento.
 
@@ -284,7 +301,13 @@ La sonrisa se le quedó quieta. Miró el vidrio, y la acera del otro lado.
 
 —Me cerraron la calle.
 
-Blake se miró la mano, como si todavía la tuviera en la sien. Luego jaló la silla y esta vez sí se sentó.
+Blake se miró la mano, como si todavía la tuviera en la sien. Luego agarró la silla por el respaldo.
+
+—¿Me puedo sentar?
+
+—Ya la agarraste.
+
+Se sentó. Apoyó los dos codos en la mesa, y la mesa no se movió; Chiara seguía con el pie en la base.
 
 —Lo practiqué en el espejo de la patrulla. Desde las seis. —Se pasó el pulgar por la banda negra—. No lo conocía tanto. Me dio la mano el día que me gradué. Una vez. Hoy todos en esa fila lo conocían de toda la vida.
 
@@ -300,19 +323,25 @@ Blake levantó la vista. Por primera vez la miró a ella y no al efecto que esta
 
 Chiara se rió antes de decidir si quería.
 
-Blake levantó dos dedos hacia la caja.
+Mabel llegó por la taza vacía. Blake no volteó a verla.
 
-—Mabel. Dos de pierna.
+—Dos de pierna.
 
 —Yo no pedí.
 
-—No has comido. Tienes cara de hotel. —Se volvió hacia la caja—. Aquí las tortas son lo único que no sale en las noticias.
+—No has comido. Tienes cara de hotel. Aquí las tortas son lo único que no sale en las noticias.
+
+Mabel esperó con la taza en la mano. No era a él a quien miraba.
+
+—¿Tú quieres?
 
 Chiara pensó en el plato de fruta intacto junto al titular.
 
-—La mía sin mostaza —dijo, hacia la caja—. Me cierra la garganta desde niña.
+—La mía sin mostaza. Me cierra la garganta desde niña.
 
-La mujer de los lentes no levantó la vista de las monedas.
+Mabel no apuntó nada. Se fue con la taza.
+
+Las trajo ella misma, envueltas en papel de estraza, y dejó primero la de Chiara. Chiara le dio las gracias. Blake movió el codo para hacerle lugar a la suya, sin voltear.
 
 Comieron con la televisión encima. Blake habló poco mientras masticaba, y ese rato, sin público, fue mejor que todo lo que había dicho de pie. Le explicó por qué las patrullas se quedaban alrededor de la plaza aunque ya no hubiera nada que cuidar. Le dijo cuál de los dos abogados de la mesa del fondo cobraba por hora y cuál por favor. Acertó con el segundo; Chiara lo supo porque el hombre pagó la cuenta del otro sin mirarla.
 
@@ -354,11 +383,19 @@ Chiara le dictó el número.
 
 No el principal.
 
-Él se fue caminando un poco más derecho que antes. Ella pagó el espresso en la caja. La mujer de los lentes le devolvió el cambio sin mirar las monedas; la miró a ella, un segundo, y volvió a contar.
+Él se fue caminando un poco más derecho que antes, sin pasar por la caja. Ella fue a pagar el espresso y la torta.
 
-Regresó al Monarch después de comer, como había dicho. La proyección la esperaba en su escritorio, revisada a lápiz, sin una sola corrección a los números. En el renglón de seguridad, Tommaso había dibujado un signo de interrogación. A las seis Chiara le mandó a seguridad el nombre de Varga, con la instrucción de que no se le sirviera de más, y le contestaron que estaba bajo control, con esas palabras.
+—¿Y la de él?
 
-A las diez, lo primero que le dieron en El Relevo fue un listón negro.
+—Ésa se apunta.
+
+Mabel le devolvió el cambio sin mirar las monedas; la miró a ella, un segundo, y volvió a contar.
+
+Regresó al Monarch después de comer, como había dicho. Caminó por Calle Corona hasta donde ya subían las vallas a una camioneta del municipio, y un taxi la devolvió por el puente. La proyección la esperaba en su escritorio, revisada a lápiz, sin una sola corrección a los números. En el renglón de seguridad, Tommaso había dibujado un signo de interrogación. A las seis Chiara le mandó a seguridad el nombre de Varga, con la instrucción de que no se le sirviera de más, y le contestaron que estaba bajo control, con esas palabras.
+
+Esa noche tampoco pidió coche del hotel. La dirección le había llegado a media tarde a la otra línea, con una carita, y a las diez menos veinte otro taxi la sacó de la marquesina por el mismo Bulevar Corona. Los clubes de La Isla ya tenían las cortinas arriba, el neón prendido y fila en la acera, y en la puerta de uno cuidaba el cordón un hombre que bien podía ser el de la manguera. En Punta Dorada había luz en una de cada cuatro ventanas. El puente, sin tráfico, no tardó nada. El reloj del Ayuntamiento marcaba las diez menos cinco cuando el taxi entró a Calle Corona, ya sin vallas, con flores de la mañana pisadas junto a la acera. A dos cuadras de la Central, frente a un letrero de cerveza, una hilera de coches particulares ocupaba la línea amarilla. Ninguno tenía multa.
+
+Lo primero que le dieron en El Relevo fue un listón negro.
 
 Se lo ofreció en la puerta una mujer de unos cincuenta, de suéter, con una caja de zapatos llena de listones y alfileres de costura, como quien reparte algo que hizo en la mesa de su cocina. Era la esposa de alguien. Tenía la cara de haber repartido eso antes.
 

@@ -138,6 +138,8 @@ También sirve para mostrar el límite moral de Chiara. Si Chiara usa a Mabel co
 
 > **PENDIENTE:** por qué no fue en la secundaria; nombre del esposo, causa y fecha de su muerte; en qué libro se abre el romance y hasta dónde llega.
 
+> **PENDIENTE, por explorar (autor, 2026-11-04):** oficio del esposo: policía, fiscal u operador del 911. Nace de "Ésa se apunta" (Cap. 4, archivo 04): Mabel les lleva cuenta a los policías que no pasan por la caja. Sin decidir.
+
 ---
 
 ## Arco final sin Kal — Caps. 45, 48 y 50 (BORRADOR, 2026-10-02)

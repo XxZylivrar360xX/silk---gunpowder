@@ -30,7 +30,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-11-04",
-      "desde": "2026-11-04 01:13"
+      "desde": "2026-11-04 11:25"
     },
     "05a_Cliente_Y_Proveedor.md": {
       "capitulo": 5,
@@ -54,7 +54,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-11-04",
-      "desde": "2026-11-04 01:13"
+      "desde": "2026-11-04 11:25"
     },
     "07_La_Noche_Del_Ladrillo.md": {
       "capitulo": 8,
@@ -3318,6 +3318,26 @@
     [
       "2026-11-04 01:13",
       "Cap. 11 (09_La_Balanza.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-04 10:04",
+      "Cap. 4 (04_Tarifa_Nocturna.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-04 10:04",
+      "Cap. 7 (06_Ambos.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-04 11:25",
+      "Cap. 4 (04_Tarifa_Nocturna.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-04 11:25",
+      "Cap. 7 (06_Ambos.md)",
       "audio regenerado"
     ]
   ]
