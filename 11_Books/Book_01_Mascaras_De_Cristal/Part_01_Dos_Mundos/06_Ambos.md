@@ -13,6 +13,7 @@ Dialogo K/C (2026-10-04, cirugia completa autorizada sobre capitulo TERMINADO; D
 Mirada para Kal (2026-10-17, pedido del autor; DISENO de redaccion pendiente de lectura): primera aparicion en prosa del gesto canon de la ficha de Chiara, en el cuarto de estetica, por el espejo y en POV de Kal, tras "Él la miró por el espejo": boca seria de siempre, cejas aflojadas que por dentro suben, ojos mas abiertos, puestos en el y no en el espejo; "Kal no supo qué estaba viendo. Tampoco apartó la vista." Contraste con el ceno base sembrado en el Cap. 2. Distinto de la mueca compartida de cejas en alto del jacuzzi y de la ceja levantada.
 Arco de Blake y visita de los chicos (2026-10-22, decision del autor; prosa DISENO pendiente de lectura): (1) Vento sembrado en la costumbre (llamada de domingo; "¿Montando que?" / "Se llama Vento"; el domingo siguiente Kal llama a las ocho), siembra del 24c; (2) en la noche de la torta el telefono enciende *Blake* y ella lo pone boca abajo (Kal no ve el nombre); (3) seccion nueva antes de La tarde del reto: Nadir, Danny y Russ a la una y diez, por carga, "todo al rojo", ruleta de la sala de eventos privados del penthouse; sale rojo, Nadir dobla, cae verde y pierde todo. Russ conoce a Chiara aqui. Trato de usted ("señora").
 Costura de la rueda (2026-11-03, aprobada por el autor; DISEÑO): la rueda ya es nueva en el Cap. 6 antes de la cena, asi que aqui Kal cambia la de al lado.
+Escena del cajero (2026-11-03, DECISIÓN DEL AUTOR; prosa DISEÑO, BORRADOR en este tramo): entre "Y se fue." y "Volvio a las ocho", POV Kal. La grua dos trae su logo y Danny cobra la condicion de Kal; Hendricks espera junto a la lona, Danny lo distrae (costillas, lineas del patio); abren el cajero: 23,400 (cifra DISEÑO); chatarreria en el norte que Danny conoce de oidas (sin ficha). Destino del dinero PENDIENTE. La bolsa pequeña no se nombra para no gastar "Recreativo"; Chiara sigue sin saber del cajero.
 -->
 
 # Capítulo 7 — Ambos
@@ -382,6 +383,86 @@ Kal se detuvo en la puerta.
 —Yo sí.
 
 Y se fue.
+
+***
+
+Lo que tenía que resolver estaba en un cajón de la oficina de la Almendra. Veinte minutos de ida, veinte de vuelta, y le sobraba tiempo para las hamburguesas.
+
+Entró al patio poco después de las seis. Lo primero que vio fue una patrulla con el capó levantado frente a la bahía dos, escurriendo agua verde sobre el concreto. Lo segundo, la grúa dos junto al portón, con el motor encendido y ALMENDRA TOWING en la puerta, en letras blancas, sin cartón. Sobre la plataforma, amarrado con cuatro cadenas y una manta de mudanza, venía lo que él había mandado al corralón.
+
+Russ estaba al volante. No se molestó en bajar.
+
+—Dijiste que cuando trajera su logo. Trae su logo. Yo sólo manejo.
+
+Levantó el bastón y señaló el patio de atrás, por el hueco entre las dos naves. La lona estaba doblada contra la barda, esperando. Junto a ella, con un café en vaso de papel y una mano en el cinturón, esperaba también un policía de uniforme.
+
+—Hendricks —dijo Nadir, que había aparecido al lado de Kal limpiándose las manos, sin mirar a ninguno de los dos—. Se le reventó una manguera. El muchacho de la bahía le dijo que esperara atrás, para que no estorbara. Es muy educado, ese muchacho.
+
+Danny ya iba cruzando el patio con los brazos abiertos.
+
+—¡Oficial! ¿Usted es el de las costillas?
+
+Hendricks tenía cincuenta años, una panza de turno de noche y, por lo visto, a nadie que le hubiera preguntado por sus costillas en mucho tiempo. Danny le pasó el brazo por los hombros antes de que terminara de contestar y se lo llevó caminando hacia el frente, para que le dijera, ya que estaba ahí, si esas líneas cumplían el reglamento, porque las había pintado él solo, de noche, y había quien decía que estaban chuecas.
+
+Al pasar junto a la grúa, Hendricks levantó la barbilla hacia la manta.
+
+—¿Y eso?
+
+Kal no se movió.
+
+—Máquina de refrescos —dijo Danny—. De una gasolinera cerrada en la 101, se la compramos al dueño por kilo, se le fundió el compresor, no enfría ni por error, y Nadir quiere venderla como antigüedad, imagínese. ¿Cuánto tiempo deja el adobo?
+
+—Toda la noche —dijo Hendricks—. Menos no sirve.
+
+La grúa dos rodó detrás de ellos, despacio, hacia el patio de atrás.
+
+Hendricks se fue antes de las seis y media, con manguera nueva, una factura a nombre del departamento que nadie iba a leer y la receta escrita en el reverso. Cuando la patrulla dobló la esquina, Danny se sentó en una defensa y se frotó la cara con las dos manos.
+
+—¿Ves, jefe? Ni una pregunta.
+
+Kal miró la lona, que ya tenía forma. Miró el reloj. Miró la puerta de la grúa, donde no había nada que reclamar.
+
+—¿Y cuándo dices? —preguntó Danny.
+
+Kal se quitó la chaqueta y descolgó un overol.
+
+—Cierren el portón.
+
+Les tomó cuarenta minutos, dos discos de esmeril y la radio de Héctor a todo volumen. Nadie había cargado gasolina en esa estación desde el verano, y el banco había seguido llenando. Nadir contó sobre el capó del Civic sin motor, billete por billete, con los labios apretados, y no abrió la boca hasta el final.
+
+—Veintitrés mil cuatrocientos.
+
+—Un montón —dijo Danny.
+
+—Lo suficiente —dijo Russ.
+
+—Eso ya es número. —Nadir lo metió todo en una lata de pintura vacía y le puso la tapa con el talón de la mano—. Y aquí nadie lo abre hasta que yo diga.
+
+Quedaba la máquina, destripada, con el pedazo de acera todavía colgándole del tornillo.
+
+—Conozco un lugar —dijo Danny—. Una chatarrería en el norte, de un tipo que no hace preguntas. Le pasa la prensa y queda así. —Juntó las palmas.
+
+—¿Lo conoces o te lo contaron?
+
+—Me lo contó alguien que lo conoce.
+
+Russ cerró los ojos.
+
+—En el norte. De donde lo sacamos.
+
+—Por eso. Ya se sabe el camino.
+
+Kal se lavaba los brazos en la tarja con jabón de polvo.
+
+—De noche. Y con cartón en la puerta.
+
+A Danny se le iluminó la cara.
+
+—¿Con cara?
+
+—Con cartón —dijo Russ.
+
+Eran casi las siete y media. Kal se lavó otra vez, porque seguía oliendo a disco quemado, se puso la chaqueta y fue por fin a la oficina. Abrió el cajón. Sacó una bolsa pequeña, se la guardó en el bolsillo y salió a buscar hamburguesas.
 
 ***
 

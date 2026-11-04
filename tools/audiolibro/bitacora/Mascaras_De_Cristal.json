@@ -29,16 +29,16 @@
       "titulo": "Tarifa nocturna",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-24",
-      "desde": "2026-10-24 23:17"
+      "audio": "2026-11-03",
+      "desde": "2026-11-03 20:31"
     },
     "05a_Cliente_Y_Proveedor.md": {
       "capitulo": 5,
       "titulo": "Cliente y proveedor",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-02",
-      "desde": "2026-11-03 16:03"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-03",
+      "desde": "2026-11-03 20:31"
     },
     "05c_La_Pizza_De_Calabaza.md": {
       "capitulo": 6,
@@ -51,10 +51,10 @@
     "06_Ambos.md": {
       "capitulo": 7,
       "titulo": "Ambos",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-01",
-      "desde": "2026-11-03 18:45"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-03",
+      "desde": "2026-11-03 20:31"
     },
     "07_La_Noche_Del_Ladrillo.md": {
       "capitulo": 8,
@@ -3169,6 +3169,26 @@
       "2026-11-03 18:45",
       "Cap. 7 (06_Ambos.md)",
       "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-03 20:15",
+      "Cap. 4 (04_Tarifa_Nocturna.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-03 20:31",
+      "Cap. 4 (04_Tarifa_Nocturna.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-03 20:31",
+      "Cap. 5 (05a_Cliente_Y_Proveedor.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-03 20:31",
+      "Cap. 7 (06_Ambos.md)",
+      "audio regenerado"
     ]
   ]
 }

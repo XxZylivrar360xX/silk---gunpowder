@@ -17,6 +17,8 @@ Antes de cerrar un capitulo, responder:
 
 Si no hay respuesta para poder o consecuencia, no es capitulo: es material de escena.
 
+Si un capitulo cansa, preguntar primero si es por sus palabras o porque cambia de objetivo varias veces antes de su siguiente recompensa emocional: [[12_Craft_Policies/staging_rules/06-capitulo-de-estaciones]].
+
 ## Apertura por residuo
 
 Cada capitulo abre profundizando algo que el anterior dejo apenas insinuado. No se resume lo que ya paso: se toma la tension que quedo floja y se le pone peso.

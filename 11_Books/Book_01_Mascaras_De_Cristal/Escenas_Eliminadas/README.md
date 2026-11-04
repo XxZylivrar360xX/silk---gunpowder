@@ -318,6 +318,94 @@ Caseta: «Asintió una vez,» (sale). Blake: «El sábado salió con Blake. / La
 
 Orden de compra: fuera «con la fecha y la hora de cada acceso» y «facturación a fin de mes».
 
+### Texto retirado al reducir las semanas del Cap. 5 a una sola semana (2026-11-03)
+
+DECISIÓN DEL AUTOR, regla 06 de staging. Lo que siguió en el capítulo se reacomodó sin retirar. La apertura de Kal y Nadir no se retira: pasó a coda del Cap. 4. Fabrizio queda como candidato a una visita a la Almendra más adelante (sin decidir).
+
+Bar del sábado:
+
+> El sábado, el lugar de la costa resultó ser un bar con terraza y música en vivo. Blake eligió una mesa desde donde los veía todo el que entraba, y esa noche no entró nadie conocido. Fue una noche fácil. Blake pidió por ella sin preguntarle y acertó; habló de su coche, de un ascenso que le correspondía, del capitán; preguntó por Palermo una vez y escuchó la respuesta hasta la mitad.
+>
+> La dejó en la entrada principal pasada la medianoche. Esta vez sí se bajó. Rodeó el coche, le abrió la puerta, y cuando ella se enderezó en la acera, la besó.
+
+Bisagra en el área administrativa:
+
+> Kal dejó una bisagra sobre el escritorio del área administrativa, envuelta en papel de estraza, sin nota. Era para la puerta de servicio del pasillo del lobby, la que cerraba sola y se quedaba medio centímetro afuera sin enganchar; él la había mencionado en una reunión, y en esa reunión le habían dicho que no.
+>
+> —Le dijeron que no a esa puerta.
+>
+> Kal se acomodó la chaqueta para irse.
+>
+> —La puerta no estuvo en la reunión.
+>
+> Chiara la levantó. Pesaba más de lo que parecía. La dejó sobre el escritorio con más cuidado del que pensaba tener.
+
+Bitácora y orden como escena:
+
+> En la oficina administrativa abrió la bitácora de vigilancia de la rampa de servicio y la filtró por placa. Después, por proveedor. Después, por la nota que seguridad ponía al margen cuando nadie había avisado.
+>
+> *Lunes, 23:52. Grúa, Almendra Towing. Retiro de vehículo, acceso principal. Visitante no programado, autorizado en sitio.*
+>
+> *Domingo, 03:05. Camioneta. Lavandería, recolección fuera de horario. Visitante no programado, autorizado en sitio.*
+>
+> *Miércoles, 17:20. Sedán particular. Estacionamiento de empleados. Batería. Visitante no programado, autorizado en sitio.*
+>
+> Siguió bajando. Diecinueve renglones desde la noche del Mercedes, y en ninguno decía *lobby*.
+>
+> El problema no era que Kal entrara. Era que entraba como excepción, y las excepciones se acumulan hasta que alguien se sienta a contarlas.
+>
+> Prefirió contarlas ella.
+>
+> Almendra Towing tenía licencia municipal y seguro al día, y darla de alta como proveedor externo de remolque del Monarch entraba, con holgura, en lo que ella podía firmar sin llevar nada a junta. Abrió una orden de compra en blanco y vació en ella la bitácora, renglón por renglón: remolque, arranque, flete, revisión de proveedor. La bisagra la anotó como material, a precio de ferretería. Tarifa por acto, un solo pago de servicios externos, en el lenguaje más aburrido que encontró.
+>
+> El hombre del puerto no cabía en ningún renglón. Lo dejó fuera.
+>
+> A media orden le vibró el teléfono.
+>
+> **Blake:** ¿Sábado? Conozco un lugar en la costa.
+>
+> **Bellandi:** Sábado.
+>
+> Volvió al renglón de la batería.
+>
+> Archivó la orden entre el contrato de lavandería y el de hielo, donde nadie leía porque nadie quería. El nombre de Kal no quedó en ningún lugar donde no estuviera también el de una empresa de toallas.
+>
+> Antes de mandarla se quedó un segundo con el cursor encima. Era su firma sobre la palabra *Almendra*, en un registro que otros también leían.
+>
+> La mandó.
+
+Llamada de Fabrizio:
+
+> A la media hora, Fabrizio la llamó.
+>
+> —¿Una grúa, Ardizzone?
+>
+> —Una grúa.
+>
+> —Bene. Entonces yo también leí una grúa.
+
+Caseta y carrito:
+
+> A la mañana siguiente, temprano, Kal cruzó la caseta de la salida de carga y el guardia no salió a preguntarle nada: miró una pantalla, miró la placa, levantó la pluma. Chiara lo vio desde el muelle. Vio también que Kal se quedaba un segundo con el pie en el freno antes de avanzar.
+>
+> Bajó cuando él ya tenía el carrito de lavandería volteado sobre el muelle y se limpiaba las manos con un trapo, mirando la caseta como quien revisa una junta nueva para ver si va a aguantar el invierno.
+>
+> —Me dejaron pasar sin llamar a nadie.
+>
+> —Ahora es un trámite. Desde que me dejó de convenir que fuera una noticia cada vez que aparece.
+>
+> No le dio las gracias. Se guardó el trapo y volvió a agacharse sobre el carrito, que también traía el eje roto.
+>
+> —Nadir imprimió la orden dos veces —dijo desde abajo—. Una es para la pared.
+
+Final de la salida de carga:
+
+> Kal no intentó arreglarlo con palabras.
+>
+> —Buenas tardes, señora Bellandi.
+>
+> Ella asintió y subió por el elevador de servicio. Iba molesta, y no sólo con él.
+
 ## Protocolo
 
 Al sacar un capítulo: `git mv` a esta carpeta, encabezado `ESCENA ELIMINADA` + `EPUB: EXCLUDE`, fila aquí, enlaces del vault actualizados. Al recuperarlo: lo inverso, y dejar la fila tachada con la fecha.

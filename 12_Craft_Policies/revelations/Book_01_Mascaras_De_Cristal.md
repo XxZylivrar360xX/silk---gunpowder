@@ -259,3 +259,12 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Quién NO debe saberlo todavía:** Kal, hasta el yate del 47, donde ve el pañuelo y la bala e insiste en ir a Palermo (CANON). Si el «Lusardi» del hombre del coche fue error o recado: no se resuelve. Quién mató a Keene: la pista apunta a la Mesa, nunca a Varek.
 - **Pago:** el «Totalmente» del 32 (archivo 24d) se apoya en la bala (gesto del anular, 2026-11-01); el 36 (archivo 28: el «agua al cuello» con el pañuelo en el bolso; el lector lee protección, Kal abandono); el 47 (Kal ve el pañuelo; «Decía tu nombre»; reconocimiento mutuo: los dos protegen ocultando); el 49 (Kal reconoce a Valenti) y el 58 (cuarto encuentro); Volpi y la puesta en escena de Keene en el Libro II.
 - **Estado:** sembrado. Prosa BORRADOR pendiente de lectura.
+
+## El cajero de la grua dos
+
+- **Que es:** Danny y Russ arrancan un cajero de una gasolinera cerrada en la 101; Kal lo manda al corralon hasta que la grua dos traiga su logo. Se abre con Hendricks recien salido del patio: 23,400 (cifra DISEÑO). La maquina va a una chatarreria del norte que Danny conoce de oidas.
+- **Se siembra en:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/04_Tarifa_Nocturna]] (coda de la Almendra).
+- **Se abre en:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Ambos]], entre "Y se fue." y "Volvio a las ocho".
+- **Quien ya lo sabe:** Kal, Nadir, Danny, Russ.
+- **Quien NO debe saberlo:** Hendricks y la policia. Chiara: oye la mentira ("Sí supo que tapaba algo"), recibe la bolsa como explicacion y no sabe del cajero; si se entera y cuando, PENDIENTE.
+- **PENDIENTE del autor:** destino del dinero (lata de pintura, en manos de Nadir).

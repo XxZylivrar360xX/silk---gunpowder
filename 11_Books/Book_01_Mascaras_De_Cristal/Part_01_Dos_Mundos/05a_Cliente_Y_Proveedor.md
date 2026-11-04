@@ -56,251 +56,10 @@ Regla 05, esticomitia de una sola voz (2026-10-24, aprobado por el autor; DISENO
 Semanas reformuladas (2026-11-03, pedido del autor: "lo senti pesado"; opcion A con la bitacora; prosa DISEÑO, sigue BORRADOR): Blake abre la etapa (cena del Distrito Marino), luego salida de carga (hombre del puerto, rueda, canon intacto), bisagra comprimida + Tommaso, y la bitacora de vigilancia sustituye el montaje del narrador: Chiara filtra los accesos de Kal (cinco renglones en cursiva, "Visitante no programado, autorizado en sitio"; "Diecinueve renglones desde la noche del Mercedes, y en ninguno decia lobby") y los vacia en una sola orden de compra de servicios externos (tarifa por acto; la bisagra como material; el hombre del puerto queda fuera, siembra del sobre). El mensaje de Blake ("¿Sabado?") llega a media orden. Caseta: "Nadir imprimio la orden dos veces... Una es para la pared." Se conservan "Treinta dias" de la reunion, "¿Una grua, Ardizzone?", la rueda, la caseta y V-1. Texto retirado en Escenas_Eliminadas/README.
 Hospital con mas espacio (2026-11-03, DECISION DEL AUTOR; prosa DISEÑO, sigue BORRADOR): Kal llega a mitad de la presentacion ("Mi nombre es Chiara", sin apellido: Kyle solo oye el nombre, y por eso "señora Mercer"); fuera "Señor Mercer / Señora Bellandi", queda un intercambio de miradas (el niño es el foco). Kyle da su nombre al sargento, no a ella ("A ella no se lo habia dicho"); reaccion de Chiara al pasado militar vista por Kal ("como quien relee un renglon"). La espera en escena: guardia (señor con muletas, "Bien visto"), Steve "carnivoro pero solo los domingos", "¿Con el? / A veces" (siembra de pareja, eco de "A veces" del soldado). Cuento del gato en voz de Chiara (sardina "que no era suya"; "Los gatos no comen naranjas / Este si"). Cafe: "Lo llaman, sargento." / "No la corrigio."
 Cortes de las semanas (2026-11-03, aprobados por el autor sobre lectura de ChatGPT; DISEÑO, sigue BORRADOR): fuera el cierre de la grua vacia en la cena de Blake, "Chiara habria querido..." y "Gracias por venir / Claro", dos renglones de la bitacora (jueves, martes), "El total quedo...", y en la caseta "Kal no pregunto desde cuando" y "Eso le cuesta una firma / Me cuesta menos...". Texto en Escenas_Eliminadas/README.
+Una semana en vez de semanas (2026-11-03, DECISIÓN DEL AUTOR, regla 06 de staging; prosa DISEÑO, BORRADOR): la apertura pasa a coda del Cap. 4 y el capitulo abre con la factura. Tras "No la acomodo.": viernes, cena y beso; martes, departamento; miercoles, cita; jueves, pivote unico en la salida de carga (caseta, hombre del puerto, orden de compra, bisagra, rueda, "No es suyo", Tommaso en el muelle); esa noche, Direccion en una linea y la rueda; viernes, hospital. Fuera: bar del sabado, bitacora como escena, llamada de Fabrizio (candidata a una visita a la Almendra mas adelante, sin decidir), reparacion del carrito en la caseta, "Iba molesta". Texto en Escenas_Eliminadas/README.
 -->
 
 # Capítulo 5 — Cliente y proveedor
-
-Kal dejó el Mercedes en un corralón privado a cuatro calles de la Almendra y no volvió directo al taller.
-
-Pasó por La Esquina de Mabel, aunque ya estaba cerrada. La luz de la cocina seguía prendida. Mabel no abrió. Sólo apareció detrás del vidrio, le enseñó una taza y negó con la cabeza. Kal levantó la mano. No quería café. Quería comprobar que el barrio seguía donde lo había dejado.
-
-Cuando llegó al patio, Nadir estaba sentado sobre el capó de un Civic sin motor, con la chaqueta cerrada hasta el cuello. No fingió que estaba ahí por otra cosa.
-
-—¿Casino?
-
-—Mercedes.
-
-—¿Eso es sí?
-
-Kal bajó de la grúa.
-
-—Eso es Mercedes.
-
-Nadir se bajó del capó. Al pasar junto a él olió el aire una vez, cerca del hombro, como quien revisa fruta en un puesto.
-
-—Hueles a bar de hotel.
-
-—Un borracho con un Mercedes parado en la línea amarilla de la rampa de carga. —Kal se miró la manga del overol, todavía húmeda—. Le dijeron que no y no le gustó la palabra. Le agarré la muñeca antes de que llegara el vaso. El whisky llegó de todos modos.
-
-—¿Y con cuál le agarraste la muñeca?
-
-—Con la izquierda.
-
-Nadir asintió, satisfecho, como si hubiera sido idea suya.
-
-—Por lo menos aprendes.
-
-Lo siguió hasta la oficina.
-
-—¿Te pagaron?
-
-—Van a pagar.
-
-—Peor. —Nadir se adelantó a empujar la puerta con el pie—. «Van a pagar» lo dice la gente que a la semana ya no se acuerda de tu número.
-
-Sobre el escritorio había un plato hondo tapado con otro plato. Nadir lo destapó sin preguntar: la sopa roja de la tarde, ya con nata encima, y dos tortillas de Mabel dobladas en una servilleta.
-
-—Te guardé. Danny quería repetir tres veces y le cobré la tercera: que lavara la olla. —Lo dejó pensar un segundo—. No la lavó.
-
-Kal dejó la tabla de trabajo junto al plato y giró el hombro derecho, despacio. Seguía tronando donde se le había zafado la cadena del Buick.
-
-—Ponte hielo —dijo Nadir.
-
-—Luego.
-
-—Eso dijiste en la descarga. —Metió el plato al microondas sin mirarlo—. Y allá también decías luego, todas las noches, hasta la noche en que te lo tuve que acomodar yo, contra una litera, con un trapo en la boca para que no gritaras.
-
-—No grité.
-
-—Porque tenías el trapo. —Apretó el botón—. Ese trapo me costó dos cigarros.
-
-—Tú no fumas.
-
-—Por eso. Eran para vender.
-
-Kal se sentó. Fue lo más parecido a darle la razón.
-
-El microondas pitó. Nadir le puso el plato enfrente, le acomodó la cuchara del lado derecho, lo pensó y la cambió al izquierdo. Después se apoyó en el marco de la puerta y lo dejó comer tres cucharadas antes de hablar.
-
-—Esta tarde, en esta misma oficina, con esa misma cuchara, nos dijiste que no le debiéramos favores a la gente del casino.
-
-—Dije Dario Varek.
-
-—Dario Varek es la gente del casino, khoya.
-
-Kal partió una tortilla en dos.
-
-—Fue un arrastre, Nadir. Una grúa, una factura y a la casa.
-
-—Un arrastre a medianoche, uno. —Nadir contó con los dedos contra la madera del marco—. Para un casino, dos. Que no te quiso en su mesa, tres. Y te tiraron whisky, cuatro. Y todavía no te pregunto lo único que importa. ¿Cuánto cobraste?
-
-—Tarifa nocturna.
-
-—Eso le cobras a un dentista.
-
-—El dentista no me tira whisky.
-
-Nadir dejó de contar.
-
-—¿Quién te llamó, khoya?
-
-Kal abrió un cajón, sacó una libreta y anotó matrícula, hora y nombre.
-
-—El problema llamó.
-
-—Qué bonito, wallah. ¿Y el problema tiene nombre?
-
-Kal cerró la libreta.
-
-—Bellandi.
-
-—Bellandi. —Lo probó en la boca como una moneda que no sabía si era buena—. ¿Traía acento?
-
-Kal levantó la vista.
-
-Nadir sonrió.
-
-—Ya, ya. Mercedes.
-
-Se despegó del marco. Al pasar detrás de la silla le dio una palmada en la nuca, corta, la misma que le daba a Danny cuando contaba mal el cambio.
-
-—Come. Hielo. Duerme. En ese orden, yak.
-
-Kal volvió a escribir.
-
-—Si vuelve a llamar a medianoche, me llevas.
-
-—¿Para qué?
-
-—Para que alguien vea quién te tira whisky. Y para cobrar yo, que tú cobras como si te diera pena.
-
-—Safi.
-
-Nadir se detuvo en la puerta y lo miró por encima del hombro.
-
-—Mírate. Ya hablas como gente.
-
-Lo oyó cruzar el patio silbando.
-
-El silbido se cortó a medio camino.
-
-Afuera, el portón se abrió con el chillido de siempre y entró la grúa dos, despacio, con las luces apagadas. Kal salió de la oficina con la tortilla en la mano.
-
-Sobre la plataforma, amarrado con cuatro cadenas y una manta de mudanza, venía un cajero automático. Entero. Con el pedestal todavía pegado y un pedazo de acera colgándole de un tornillo.
-
-Danny saltó de la cabina antes de que el motor terminara de apagarse.
-
-—¡Jefe! Llegaste. Te íbamos a esperar despiertos.
-
-—Son las doce y media.
-
-—Por eso. Despiertos.
-
-Del lado del copiloto bajó Russ: primero el bastón, después la pierna mala, después el resto, sin prisa y sin pedirle la mano a nadie. Traía guantes de trabajo, un bigote tan tupido que le tapaba el labio de arriba y la cara de un hombre que ya había tenido esa discusión en el camino y la había perdido.
-
-—Mercer.
-
-—Russ.
-
-Nadir rodeó la plataforma una vez, despacio, como si alguien le fuera a pedir precio.
-
-—¿Cuánto trae?
-
-—Un montón —dijo Danny.
-
-—Lo suficiente —dijo Russ.
-
-—Eso no es número.
-
-Kal miró la puerta de la grúa. Donde tenía que estar el logo de Almendra Towing había un cartón pegado con cinta plateada. En el cartón, alguien había dibujado con marcador una cara sonriente.
-
-—¿Quién tapó el logo?
-
-—Yo —dijo Russ.
-
-—¿Y la cara?
-
-Russ señaló a Danny con el bastón, sin mirarlo.
-
-—Se veía triste sin cara —dijo Danny.
-
-—¿De dónde lo sacaron?
-
-—De una gasolinera cerrada en la 101, al norte, fuera de cualquier barrio. —Russ se acomodó el peso sobre el bastón—. La cámara no sirve desde marzo; lo sé porque fui a ver, tres semanas seguidas. Lo vacían los martes a las nueve. Faltan ocho horas.
-
-—¿Había alguien?
-
-—Nadie. La gasolinera cerró en verano. El cajero es del banco, y el banco lo sigue llenando como si alguien fuera a cargar gasolina.
-
-—Ni un vidrio, jefe —dijo Danny—. No me dejó romper ni un vidrio. Tres semanas yendo a ver una máquina, como si fuera a cambiar de lugar. Yo lo hubiera hecho la primera.
-
-—Por eso no te dejo hacer nada la primera.
-
-—¿Ves? —Danny le pasó el brazo por los hombros—. Me cuida.
-
-—No me toques.
-
-—Me adora, jefe. Es su forma.
-
-—No te soporto.
-
-—Es su forma.
-
-Kal miró el pedazo de acera.
-
-—El plan era desatornillarlo —dijo Russ.
-
-—Y lo desatornillamos, te lo juro: cuatro tornillos, uno por esquina, como dijo él —dijo Danny—. Nada más que con el cabrestante, porque con la llave íbamos a amanecer ahí, y el cabrestante es rápido, pero no sabe dónde se acaba un cajero y dónde empieza la acera.
-
-—Con todo y acera —dijo Russ.
-
-Danny abrió las manos, como si la acera hubiera tomado la decisión sola.
-
-—¿Por qué hoy? —preguntó Kal.
-
-—Tú lo dijiste. —Danny ya estaba sonriendo—. Desde anoche nadie sabe qué patrulla pasa por dónde. En una semana alguien lo va a volver a saber.
-
-Kal no contestó. Nadir sí se rió, bajito.
-
-—Te cobraron con tu propia moneda, khoya.
-
-Kal se quedó mirando la cara del cartón más tiempo del que merecía.
-
-—Si alguien ve esa grúa con un cartón en la puerta, no me buscan a mí. Los buscan a ustedes dos. —Le dio una mordida a la tortilla—. Al fondo. Bajo lona. Nadie lo abre hasta que yo diga.
-
-—¿Y cuándo dices? —preguntó Danny.
-
-—Cuando la grúa dos traiga su logo y no una cara.
-
-—Te dije —murmuró Russ.
-
-—Tú querías que le pusiera bigote.
-
-—Nunca dije eso.
-
-—Lo pensaste.
-
-Russ cerró los ojos un segundo, como quien cuenta hasta un número muy alto, y fue a soltar la primera cadena.
-
-—Y luego a comer, los dos —dijo Nadir—. Hay sopa. Danny ya se tomó tres, así que la de Russ es de Russ.
-
-Kal volvió a la oficina. Detrás de él, Danny le explicaba a Nadir que la cara tenía nombre. Se sentó frente al plato, que ya se había enfriado.
-
-El teléfono vibró.
-
-Un mensaje de un número sin nombre:
-
-**La factura completa. Por favor.**
-
-Kal miró la pantalla.
-
-Luego guardó el contacto como **Bellandi**.
-
-No contestó.
-
-Todavía.
-
-***
 
 La factura llegó a las ocho y diecisiete de la mañana.
 
@@ -736,15 +495,59 @@ Chiara miró por la ventanilla.
 
 —Bueno. Otro.
 
-La dejó en la entrada principal. No se bajó; ya estaba mirando el teléfono cuando ella cerró la puerta.
+La dejó en la entrada principal pasada la medianoche. Se bajó, rodeó el coche, le abrió la puerta, y cuando ella se enderezó en la acera, la besó.
+
+Fue un buen beso. Blake sabía hacerlo y sabía que lo sabía: una mano en la cintura, la otra en la nuca, el tiempo justo. Chiara se lo devolvió con la misma corrección con que firmaba una orden de compra.
+
+Por encima del hombro de él vio que el valet había dejado de fingir que no miraba. Que el reloj de la entrada marcaba las doce y diez. Que alguien había dejado una colilla encendida en la jardinera.
+
+Blake se separó sonriendo, como quien confirma una reservación.
+
+—Te escribo.
+
+—Escríbeme.
+
+Subió sola. En el elevador se miró en el espejo de bronce, se corrigió con el pulgar el borde del labial y no encontró nada más que arreglar.
+
+El martes conoció el departamento de Blake.
+
+Era un tercer piso en el Distrito Marino, con vista al estacionamiento de un supermercado, una pantalla más ancha que el sofá y, en un librero sin libros, tres trofeos de tiro de la academia. Él le enseñó los trofeos antes que la cocina. En el refrigerador había cerveza, salsa picante y medio limón.
+
+Chiara pidió un taxi pasadas las dos. Blake ya dormía, boca abajo, con un brazo fuera de la cama. Ella se vistió sin prender la luz y no le dejó nota.
+
+El miércoles pidió cita en ginecología en el Hospital Santa Aurelia. Tomaba las mismas pastillas desde Palermo, y la receta que había traído no le alcanzaba para otro mes. Le dieron el viernes.
 
 ***
 
-Una tarde, un hombre del puerto que no debía estar en la lista abandonó el Monarch cinco minutos después de que Kal apareciera en el estacionamiento de empleados para revisar una supuesta batería muerta. Nadie lo tocó. Nadie lo siguió.
+El jueves por la tarde, el guardia de la salida de carga no salió a preguntarle nada a Kal: miró una pantalla, miró la placa, levantó la pluma. Chiara lo vio desde el muelle. Vio también que Kal se quedaba un segundo con el pie en el freno antes de avanzar.
 
-—¿Qué le dijo? —preguntó Chiara después, en la salida de carga.
+Cinco minutos después, un hombre del puerto que no debía estar en la lista abandonó el Monarch, mientras Kal revisaba en el estacionamiento de empleados una supuesta batería muerta. Nadie lo tocó. Nadie lo siguió.
 
-Kal cerró el capó del coche. El hombro derecho le dio un piquete y lo giró una vez, sin hacerle caso.
+Chiara bajó con una carpeta. Traía la orden de compra que había armado esa mañana con la bitácora de vigilancia: todos los accesos de la rampa, vaciados en un solo pago de servicios externos a nombre de Almendra Towing. Remolque, arranque, flete, tarifa por acto. Diecinueve renglones desde la noche del Mercedes, y en ninguno decía *lobby*. Cada uno traía al margen la misma nota de seguridad, *visitante no programado, autorizado en sitio*, y las excepciones se acumulan hasta que alguien se sienta a contarlas.
+
+La había archivado entre el contrato de lavandería y el de hielo, donde nadie leía porque nadie quería. El nombre de Kal no quedaba en ningún lugar donde no estuviera también el de una empresa de toallas. Aun así, antes de mandarla se había quedado un segundo con el cursor encima: era su firma sobre la palabra *Almendra*, en un registro que otros también leían.
+
+Lo encontró cerrando el capó del coche. El hombro derecho le dio un piquete y lo giró una vez, sin hacerle caso.
+
+—Me dejaron pasar sin llamar a nadie.
+
+—Ahora es un trámite. Desde que me dejó de convenir que fuera una noticia cada vez que aparece.
+
+Le tendió la carpeta. Kal se limpió las manos con el trapo antes de agarrarla y bajó por los renglones sin prisa, hasta el total. Después sacó del bolsillo de la chaqueta algo envuelto en papel de estraza y se lo cambió por la carpeta, como quien paga.
+
+Era una bisagra. Pesaba más de lo que parecía.
+
+—Para la puerta de servicio del pasillo del lobby. La que tienen cierra sola, pero se queda medio centímetro afuera y no engancha.
+
+—Le dijeron que no a esa puerta. Y esto no viene en la orden.
+
+—La puerta no estuvo en la reunión. —Kal se metió la carpeta bajo el brazo—. Nadir va a imprimir esto dos veces. Una es para la pared.
+
+—¿Qué le dijo? —preguntó Chiara.
+
+—¿A Nadir?
+
+—Al del puerto.
 
 —Que la batería no era el problema.
 
@@ -758,7 +561,7 @@ Kal tardó en guardar el trapo.
 
 —¿Y la mesa?
 
-Chiara no contestó.
+Chiara no contestó. El hombre del puerto no cabía en ningún renglón.
 
 Un carrito de lavandería pasó detrás de ellos con una rueda chillando. Kal lo siguió con la mirada.
 
@@ -778,27 +581,9 @@ Esta vez sí se rió. Fue breve, y recuperó la cara antes de que el gesto se vo
 
 —No es suyo.
 
-Kal no intentó arreglarlo con palabras.
+El elevador de servicio sonó detrás de ella.
 
-—Buenas tardes, señora Bellandi.
-
-Ella asintió y subió por el elevador de servicio. Iba molesta, y no sólo con él.
-
-***
-
-Kal dejó una bisagra sobre el escritorio del área administrativa, envuelta en papel de estraza, sin nota. Era para la puerta de servicio del pasillo del lobby, la que cerraba sola y se quedaba medio centímetro afuera sin enganchar; él la había mencionado en una reunión, y en esa reunión le habían dicho que no.
-
-—Le dijeron que no a esa puerta.
-
-Kal se acomodó la chaqueta para irse.
-
-—La puerta no estuvo en la reunión.
-
-Chiara la levantó. Pesaba más de lo que parecía. La dejó sobre el escritorio con más cuidado del que pensaba tener.
-
-El elevador sonó.
-
-Tommaso salió al pasillo, vio a Kal junto al escritorio y se detuvo.
+Tommaso salió al muelle, vio a Kal junto al coche y se detuvo.
 
 —Señor Mercer.
 
@@ -806,19 +591,19 @@ Tommaso salió al pasillo, vio a Kal junto al escritorio y se detuvo.
 
 El apellido cayó sobre Chiara como una moneda fría.
 
-Tommaso miró a Kal, luego la bisagra, luego a ella.
+Tommaso miró a Kal, luego lo que ella traía en la mano, luego a ella.
 
 —No sabía que ahora el mantenimiento incluía ferretería.
 
-Chiara puso la mano sobre la bisagra.
+Chiara cerró la mano sobre la bisagra.
 
 —Incluye lo que yo autorice.
 
-Kal terminó de acomodarse la chaqueta.
+Kal no intentó arreglarlo con palabras.
 
-—Ya me iba.
+—Buenas tardes, señora Bellandi.
 
-Cuando él se fue, Tommaso esperó a que el elevador cerrara.
+Tommaso esperó a que la pluma de la caseta volviera a bajar.
 
 —Te estás complicando, Bellandi.
 
@@ -858,97 +643,17 @@ Había dejado sobre la mesa que la versión que la sostenía dependía, en una p
 
 Chiara pasó junto a él y entró al elevador antes de que la furia se le acomodara demasiado bien en la cara.
 
-***
-
 La conversación con Tommaso no la sacó de trabajo. La metió más adentro.
 
-En la oficina administrativa abrió la bitácora de vigilancia de la rampa de servicio y la filtró por placa. Después, por proveedor. Después, por la nota que seguridad ponía al margen cuando nadie había avisado.
+Arriba, el correo interno le había dejado en la bandeja un formato de alta de proveedores con un solo renglón marcado en amarillo: *nombre completo del responsable*. No traía firma. En la casilla del solicitante decía *Dirección*.
 
-*Lunes, 23:52. Grúa, Almendra Towing. Retiro de vehículo, acceso principal. Visitante no programado, autorizado en sitio.*
-
-*Domingo, 03:05. Camioneta. Lavandería, recolección fuera de horario. Visitante no programado, autorizado en sitio.*
-
-*Miércoles, 17:20. Sedán particular. Estacionamiento de empleados. Batería. Visitante no programado, autorizado en sitio.*
-
-Siguió bajando. Diecinueve renglones desde la noche del Mercedes, y en ninguno decía *lobby*.
-
-El problema no era que Kal entrara. Era que entraba como excepción, y las excepciones se acumulan hasta que alguien se sienta a contarlas.
-
-Prefirió contarlas ella.
-
-Almendra Towing tenía licencia municipal y seguro al día, y darla de alta como proveedor externo de remolque del Monarch entraba, con holgura, en lo que ella podía firmar sin llevar nada a junta. Abrió una orden de compra en blanco y vació en ella la bitácora, renglón por renglón: remolque, arranque, flete, revisión de proveedor. La bisagra la anotó como material, a precio de ferretería. Tarifa por acto, un solo pago de servicios externos, en el lenguaje más aburrido que encontró.
-
-El hombre del puerto no cabía en ningún renglón. Lo dejó fuera.
-
-A media orden le vibró el teléfono.
-
-**Blake:** ¿Sábado? Conozco un lugar en la costa.
-
-**Bellandi:** Sábado.
-
-Volvió al renglón de la batería.
-
-Archivó la orden entre el contrato de lavandería y el de hielo, donde nadie leía porque nadie quería. El nombre de Kal no quedó en ningún lugar donde no estuviera también el de una empresa de toallas.
-
-Antes de mandarla se quedó un segundo con el cursor encima. Era su firma sobre la palabra *Almendra*, en un registro que otros también leían.
-
-La mandó.
-
-A la media hora, Fabrizio la llamó.
-
-—¿Una grúa, Ardizzone?
-
-—Una grúa.
-
-—Bene. Entonces yo también leí una grúa.
+Chiara lo llenó con lo que venía en la licencia municipal y lo devolvió sin sentarse.
 
 Esa noche, antes de apagar la computadora, le escribió a Kal.
 
 **Bellandi:** La rueda del carrito se rompió.
 
 No contestó.
-
-A la mañana siguiente, temprano, Kal cruzó la caseta de la salida de carga y el guardia no salió a preguntarle nada: miró una pantalla, miró la placa, levantó la pluma. Chiara lo vio desde el muelle. Vio también que Kal se quedaba un segundo con el pie en el freno antes de avanzar.
-
-Bajó cuando él ya tenía el carrito de lavandería volteado sobre el muelle y se limpiaba las manos con un trapo, mirando la caseta como quien revisa una junta nueva para ver si va a aguantar el invierno.
-
-—Me dejaron pasar sin llamar a nadie.
-
-—Ahora es un trámite. Desde que me dejó de convenir que fuera una noticia cada vez que aparece.
-
-No le dio las gracias. Se guardó el trapo y volvió a agacharse sobre el carrito, que también traía el eje roto.
-
-—Nadir imprimió la orden dos veces —dijo desde abajo—. Una es para la pared.
-
-Dos días después, el correo interno le dejó en la bandeja un formato de alta de proveedores con un solo renglón marcado en amarillo: *nombre completo del responsable*. No traía firma. En la casilla del solicitante decía *Dirección*.
-
-Chiara lo llenó con lo que venía en la licencia municipal y lo devolvió antes de la comida.
-
-***
-
-El sábado, el lugar de la costa resultó ser un bar con terraza y música en vivo. Blake eligió una mesa desde donde los veía todo el que entraba, y esa noche no entró nadie conocido. Fue una noche fácil. Blake pidió por ella sin preguntarle y acertó; habló de su coche, de un ascenso que le correspondía, del capitán; preguntó por Palermo una vez y escuchó la respuesta hasta la mitad.
-
-La dejó en la entrada principal pasada la medianoche. Esta vez sí se bajó. Rodeó el coche, le abrió la puerta, y cuando ella se enderezó en la acera, la besó.
-
-Fue un buen beso. Blake sabía hacerlo y sabía que lo sabía: una mano en la cintura, la otra en la nuca, el tiempo justo. Chiara se lo devolvió con la misma corrección con que firmaba una orden de compra.
-
-Por encima del hombro de él vio que el valet había dejado de fingir que no miraba. Que el reloj de la entrada marcaba las doce y diez. Que alguien había dejado una colilla encendida en la jardinera.
-
-Blake se separó sonriendo, como quien confirma una reservación.
-
-—Te escribo.
-
-—Escríbeme.
-
-Subió sola. En el elevador se miró en el espejo de bronce, se corrigió con el pulgar el borde del labial y no encontró nada más que arreglar.
-
-El martes conoció el departamento de Blake.
-
-Era un tercer piso en el Distrito Marino, con vista al estacionamiento de un supermercado, una pantalla más ancha que el sofá y, en un librero sin libros, tres trofeos de tiro de la academia. Él le enseñó los trofeos antes que la cocina. En el refrigerador había cerveza, salsa picante y medio limón.
-
-Chiara pidió un taxi pasadas las dos. Blake ya dormía, boca abajo, con un brazo fuera de la cama. Ella se vistió sin prender la luz y no le dejó nota.
-
-El miércoles pidió cita en ginecología en el Hospital Santa Aurelia. Tomaba las mismas pastillas desde Palermo, y la receta que había traído no le alcanzaba para otro mes. Le dieron el viernes.
 
 ***
 
@@ -1184,7 +889,7 @@ En información, la recepcionista lo volvió a anotar en la lista, al final.
 
 La máquina de café estaba junto a la de las galletas, frente al ventanal. Kal metió monedas para dos vasos sin preguntarle si quería uno.
 
-Chiara había salido de su revisión antes de encontrarse al niño, y traía todavía los tacones de la junta de presupuesto de la mañana. En la bolsa llevaba, desde hacía una semana, el sobre con lo del hombre del puerto, que él seguía sin querer cobrar.
+Chiara había salido de su revisión antes de encontrarse al niño, y traía todavía los tacones de la junta de presupuesto de la mañana. En la bolsa llevaba el sobre con lo del hombre del puerto, que no cabía en ninguna orden y que él no iba a querer cobrar.
 
 Afuera, en Plaza Corona, se habían prendido los faroles. Kal le dio vuelta a su vaso.
 

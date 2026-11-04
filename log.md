@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-03: [[98_Agent_Handoff/sessions/2026-11-03_claude_cap05_una_semana_y_cajero]] · DECISIÓN DEL AUTOR: Caps. 4, 5 y 7 reestructurados (regla 06 de staging); cajero abierto en *Ambos*.
 - 2026-11-02: [[98_Agent_Handoff/sessions/2026-11-02_claude_cap05_hospital_kyle]] · CANON DEL AUTOR (lectura con ChatGPT): Kyle, niño perdido en el Hospital Santa Aurelia; Kal se presenta como «Sargento Mercer» y Chiara descubre su pasado militar; «¡Adiós, sargento y señora Mercer!»; Chiara conoce el departamento de Blake y va por control natal; deja los anticonceptivos desde el tic del nombre (Libro II, motivo PENDIENTE); teléfono de Walt exclusivo de los Caps. 5–6. Segunda mitad del 5 reescrita (BORRADOR).
 - 2026-11-01: [[98_Agent_Handoff/sessions/2026-11-01_codex_para_claude_referencias_viejas]] · Codex puso al día 917 referencias a capítulos del Libro I en 130 documentos vivos (formato «Cap. N (archivo X)»); tabla permanente de equivalencias de todas las épocas en [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]]. Verificado por Claude; dos tablas corregidas; 402 dudas sin tocar.
 - 2026-11-01: [[98_Agent_Handoff/sessions/2026-11-01_codex_para_claude_renumeracion_56]] · Libro I renumerado a 56 caps. (numeración del 2026-11-01) por Codex; verificado por Claude: encabezados 1–56, prosa intacta, Book_Map y CHAPTER_STATUS al día. CLAUDE.md, READMEs, índice cronológico y relevo actualizados. Audio: 51 caps. sin audio por el número hablado.

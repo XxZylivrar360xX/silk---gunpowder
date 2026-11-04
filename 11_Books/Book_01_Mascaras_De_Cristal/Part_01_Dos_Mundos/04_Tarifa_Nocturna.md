@@ -19,6 +19,7 @@ Susurro (2026-10-17, CANON DEL AUTOR; nunca en prosa): tras "Le estoy ahorrando 
 Vestuario en la rampa (2026-10-17, decision del autor): Kal llega en overol de trabajo, no en chaqueta; va como servicio externo de Almendra Towing. Concuerda con la apertura del Cap. 5.
 2026-10-24: regla de diálogo 05 aplicada (cortes de eco y turnos perdidos), DISEÑO. Tommaso no contesta y mira la mano izquierda; "Bellandi" en "ordenar versiones"; "Sigues/Sigues" -> "Puede ser."; cafetería sin "No sabía que estaba ofreciendo uno"; club sin "Qué presión tan innecesaria"; corredor con Blake largo y Chiara sin contestar; fuera "No es." y "Nunca se queda nada como uno quiere"; ventanilla: Kal le devuelve sus palabras. Reporte: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps01-04]].
 Encuentro con Blake (2026-10-24, decision del autor; prosa DISEÑO pendiente de lectura): sustituye la cafeteria casual y la fiesta de La Isla. Mediodia: cortejo de honor de Keene (Plaza Corona -> Hospital Santa Aurelia) frente a la comisaria; Chiara lee dos duelos (saludo al cargo / el de bigote gris que no lo sostiene) y ve a Blake con el saludo "para la tele"; silueta de cabello castaño oscuro en el coche negro (Lucia, sin nombre; la siembra verbal sigue en el Cap. 9). La Esquina de Mabel intacta en lo esencial (Harper, Roma, manos de Mabel) + mostaza en escena (paga el Cap. 6). Blake de servicio con banda negra (placa con el pulgar sobre la banda; la gala queda para el funeral); sin publico, honesto ("Me dio la mano el dia que me gradue. Una vez") y lee la fila. Invitacion: velorio de policias en El Relevo; Chiara acepta por los dos entierros de Palermo (iglesia y mesa: ver quien llora a Keene) y por la vibra. Noche: liston negro en lugar de pulsera (lo guarda, no lo tira); brindis del de bigote ("Era de los que cobraban todo, y eso no me lo cobro"); los dos del puerto; voz de mujer sin cara, voseo, se va a su turno (Collins sin nombre; paga en el Cap. 11); Blake infla la anecdota (escolta dos inviernos). Llamada y taxi reubicados en Calle Corona.
+Coda de la Almendra (2026-11-03, DECISIÓN DEL AUTOR; prosa existente trasladada, BORRADOR en este tramo): la apertura del Cap. 5 (Mabel, Nadir, sopa, cajero) entra antes del penthouse y el capitulo cierra en "Todavia."; levanta por decision del autor el "POV Chiara completo" de 2026-09-29. Cambios: "Al corralon, con el Mercedes. Al fondo, bajo lona" y Russ vuelve a la cabina (el cajero se abre en el Cap. 7, archivo 06).
 -->
 
 # Capítulo 4 — Tarifa nocturna
@@ -845,6 +846,236 @@ La factura iba a llegar enseñable, y ella la iba a pagar el mismo día. Eso era
 
 Lo que no iba a aparecer en ninguna hoja era que un hombre al que esa misma mesa había rechazado contestó al tercer tono, llegó en veinte minutos e hizo una sola pregunta que importaba. Ella no la contestó. Él no la repitió.
 
+***
+
+Kal dejó el Mercedes en un corralón privado a cuatro calles de la Almendra y no volvió directo al taller.
+
+Pasó por La Esquina de Mabel, aunque ya estaba cerrada. La luz de la cocina seguía prendida. Mabel no abrió. Sólo apareció detrás del vidrio, le enseñó una taza y negó con la cabeza. Kal levantó la mano. No quería café. Quería comprobar que el barrio seguía donde lo había dejado.
+
+Cuando llegó al patio, Nadir estaba sentado sobre el capó de un Civic sin motor, con la chaqueta cerrada hasta el cuello. No fingió que estaba ahí por otra cosa.
+
+—¿Casino?
+
+—Mercedes.
+
+—¿Eso es sí?
+
+Kal bajó de la grúa.
+
+—Eso es Mercedes.
+
+Nadir se bajó del capó. Al pasar junto a él olió el aire una vez, cerca del hombro, como quien revisa fruta en un puesto.
+
+—Hueles a bar de hotel.
+
+—Un borracho con un Mercedes parado en la línea amarilla de la rampa de carga. —Kal se miró la manga del overol, todavía húmeda—. Le dijeron que no y no le gustó la palabra. Le agarré la muñeca antes de que llegara el vaso. El whisky llegó de todos modos.
+
+—¿Y con cuál le agarraste la muñeca?
+
+—Con la izquierda.
+
+Nadir asintió, satisfecho, como si hubiera sido idea suya.
+
+—Por lo menos aprendes.
+
+Lo siguió hasta la oficina.
+
+—¿Te pagaron?
+
+—Van a pagar.
+
+—Peor. —Nadir se adelantó a empujar la puerta con el pie—. «Van a pagar» lo dice la gente que a la semana ya no se acuerda de tu número.
+
+Sobre el escritorio había un plato hondo tapado con otro plato. Nadir lo destapó sin preguntar: la sopa roja de la tarde, ya con nata encima, y dos tortillas de Mabel dobladas en una servilleta.
+
+—Te guardé. Danny quería repetir tres veces y le cobré la tercera: que lavara la olla. —Lo dejó pensar un segundo—. No la lavó.
+
+Kal dejó la tabla de trabajo junto al plato y giró el hombro derecho, despacio. Seguía tronando donde se le había zafado la cadena del Buick.
+
+—Ponte hielo —dijo Nadir.
+
+—Luego.
+
+—Eso dijiste en la descarga. —Metió el plato al microondas sin mirarlo—. Y allá también decías luego, todas las noches, hasta la noche en que te lo tuve que acomodar yo, contra una litera, con un trapo en la boca para que no gritaras.
+
+—No grité.
+
+—Porque tenías el trapo. —Apretó el botón—. Ese trapo me costó dos cigarros.
+
+—Tú no fumas.
+
+—Por eso. Eran para vender.
+
+Kal se sentó. Fue lo más parecido a darle la razón.
+
+El microondas pitó. Nadir le puso el plato enfrente, le acomodó la cuchara del lado derecho, lo pensó y la cambió al izquierdo. Después se apoyó en el marco de la puerta y lo dejó comer tres cucharadas antes de hablar.
+
+—Esta tarde, en esta misma oficina, con esa misma cuchara, nos dijiste que no le debiéramos favores a la gente del casino.
+
+—Dije Dario Varek.
+
+—Dario Varek es la gente del casino, khoya.
+
+Kal partió una tortilla en dos.
+
+—Fue un arrastre, Nadir. Una grúa, una factura y a la casa.
+
+—Un arrastre a medianoche, uno. —Nadir contó con los dedos contra la madera del marco—. Para un casino, dos. Que no te quiso en su mesa, tres. Y te tiraron whisky, cuatro. Y todavía no te pregunto lo único que importa. ¿Cuánto cobraste?
+
+—Tarifa nocturna.
+
+—Eso le cobras a un dentista.
+
+—El dentista no me tira whisky.
+
+Nadir dejó de contar.
+
+—¿Quién te llamó, khoya?
+
+Kal abrió un cajón, sacó una libreta y anotó matrícula, hora y nombre.
+
+—El problema llamó.
+
+—Qué bonito, wallah. ¿Y el problema tiene nombre?
+
+Kal cerró la libreta.
+
+—Bellandi.
+
+—Bellandi. —Lo probó en la boca como una moneda que no sabía si era buena—. ¿Traía acento?
+
+Kal levantó la vista.
+
+Nadir sonrió.
+
+—Ya, ya. Mercedes.
+
+Se despegó del marco. Al pasar detrás de la silla le dio una palmada en la nuca, corta, la misma que le daba a Danny cuando contaba mal el cambio.
+
+—Come. Hielo. Duerme. En ese orden, yak.
+
+Kal volvió a escribir.
+
+—Si vuelve a llamar a medianoche, me llevas.
+
+—¿Para qué?
+
+—Para que alguien vea quién te tira whisky. Y para cobrar yo, que tú cobras como si te diera pena.
+
+—Safi.
+
+Nadir se detuvo en la puerta y lo miró por encima del hombro.
+
+—Mírate. Ya hablas como gente.
+
+Lo oyó cruzar el patio silbando.
+
+El silbido se cortó a medio camino.
+
+Afuera, el portón se abrió con el chillido de siempre y entró la grúa dos, despacio, con las luces apagadas. Kal salió de la oficina con la tortilla en la mano.
+
+Sobre la plataforma, amarrado con cuatro cadenas y una manta de mudanza, venía un cajero automático. Entero. Con el pedestal todavía pegado y un pedazo de acera colgándole de un tornillo.
+
+Danny saltó de la cabina antes de que el motor terminara de apagarse.
+
+—¡Jefe! Llegaste. Te íbamos a esperar despiertos.
+
+—Son las doce y media.
+
+—Por eso. Despiertos.
+
+Del lado del copiloto bajó Russ: primero el bastón, después la pierna mala, después el resto, sin prisa y sin pedirle la mano a nadie. Traía guantes de trabajo, un bigote tan tupido que le tapaba el labio de arriba y la cara de un hombre que ya había tenido esa discusión en el camino y la había perdido.
+
+—Mercer.
+
+—Russ.
+
+Nadir rodeó la plataforma una vez, despacio, como si alguien le fuera a pedir precio.
+
+—¿Cuánto trae?
+
+—Un montón —dijo Danny.
+
+—Lo suficiente —dijo Russ.
+
+—Eso no es número.
+
+Kal miró la puerta de la grúa. Donde tenía que estar el logo de Almendra Towing había un cartón pegado con cinta plateada. En el cartón, alguien había dibujado con marcador una cara sonriente.
+
+—¿Quién tapó el logo?
+
+—Yo —dijo Russ.
+
+—¿Y la cara?
+
+Russ señaló a Danny con el bastón, sin mirarlo.
+
+—Se veía triste sin cara —dijo Danny.
+
+—¿De dónde lo sacaron?
+
+—De una gasolinera cerrada en la 101, al norte, fuera de cualquier barrio. —Russ se acomodó el peso sobre el bastón—. La cámara no sirve desde marzo; lo sé porque fui a ver, tres semanas seguidas. Lo vacían los martes a las nueve. Faltan ocho horas.
+
+—¿Había alguien?
+
+—Nadie. La gasolinera cerró en verano. El cajero es del banco, y el banco lo sigue llenando como si alguien fuera a cargar gasolina.
+
+—Ni un vidrio, jefe —dijo Danny—. No me dejó romper ni un vidrio. Tres semanas yendo a ver una máquina, como si fuera a cambiar de lugar. Yo lo hubiera hecho la primera.
+
+—Por eso no te dejo hacer nada la primera.
+
+—¿Ves? —Danny le pasó el brazo por los hombros—. Me cuida.
+
+—No me toques.
+
+—Me adora, jefe. Es su forma.
+
+—No te soporto.
+
+—Es su forma.
+
+Kal miró el pedazo de acera.
+
+—El plan era desatornillarlo —dijo Russ.
+
+—Y lo desatornillamos, te lo juro: cuatro tornillos, uno por esquina, como dijo él —dijo Danny—. Nada más que con el cabrestante, porque con la llave íbamos a amanecer ahí, y el cabrestante es rápido, pero no sabe dónde se acaba un cajero y dónde empieza la acera.
+
+—Con todo y acera —dijo Russ.
+
+Danny abrió las manos, como si la acera hubiera tomado la decisión sola.
+
+—¿Por qué hoy? —preguntó Kal.
+
+—Tú lo dijiste. —Danny ya estaba sonriendo—. Desde anoche nadie sabe qué patrulla pasa por dónde. En una semana alguien lo va a volver a saber.
+
+Kal no contestó. Nadir sí se rió, bajito.
+
+—Te cobraron con tu propia moneda, khoya.
+
+Kal se quedó mirando la cara del cartón más tiempo del que merecía.
+
+—Si alguien ve esa grúa con un cartón en la puerta, no me buscan a mí. Los buscan a ustedes dos. —Le dio una mordida a la tortilla—. Al corralón, con el Mercedes. Al fondo, bajo lona. Nadie lo abre hasta que yo diga.
+
+—¿Y cuándo dices? —preguntó Danny.
+
+—Cuando la grúa dos traiga su logo y no una cara.
+
+—Te dije —murmuró Russ.
+
+—Tú querías que le pusiera bigote.
+
+—Nunca dije eso.
+
+—Lo pensaste.
+
+Russ cerró los ojos un segundo, como quien cuenta hasta un número muy alto, y volvió a subir a la cabina.
+
+—Y luego a comer, los dos —dijo Nadir—. Hay sopa. Danny ya se tomó tres, así que la de Russ es de Russ.
+
+Kal volvió a la oficina. Detrás de él, Danny le explicaba a Nadir que la cara tenía nombre. Se sentó frente al plato, que ya se había enfriado.
+
+***
+
 Ya en el penthouse, con los tacones en la mano y el abrigo todavía puesto, no encendió las luces. Por el ventanal, San Aurelio se veía entera y quieta: las torres de Punta Dorada, el puente encendido sobre la bahía, el puerto del otro lado y, más adentro, donde terminaban los muelles, un punto de luces que seguían girando alrededor de Plaza Corona.
 
 Sacó el teléfono.
@@ -858,3 +1089,13 @@ Escribió el mensaje, lo leyó una vez y lo mandó antes de corregirlo.
 La pantalla se quedó quieta.
 
 Él no contestó.
+
+***
+
+Kal miró la pantalla, junto al plato frío.
+
+Luego guardó el contacto como **Bellandi**.
+
+No contestó.
+
+Todavía.

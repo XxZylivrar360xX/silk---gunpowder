@@ -88,6 +88,7 @@ En caso de conflicto:
 | [03-presentacion-por-catalogo-en-vez-de-gesto](staging_rules/03-presentacion-por-catalogo-en-vez-de-gesto.md) | Un personaje o su pasado entran por inventario físico en vez de por un gesto que se le escapa al cuerpo. |
 | [04-dialogo-de-guion-sin-anclaje](staging_rules/04-dialogo-de-guion-sin-anclaje.md) | Intercambio largo sin cuerpo ni espacio, o sostenido por veredictos del narrador o relleno de guion; el beat tiene que hacer algo. |
 | [05-gesto-de-manos-en-serie](staging_rules/05-gesto-de-manos-en-serie.md) | Una fórmula de gesto con cifra fija ("con dos dedos") usada por todos los personajes; ajustar el dedo a la acción o soltar la cifra. |
+| [06-capitulo-de-estaciones](staging_rules/06-capitulo-de-estaciones.md) | El capítulo cansa porque cambia de objetivo varias veces antes de su siguiente recompensa emocional, no por sus palabras; recortar no lo cura. |
 
 ## Fichas de voz existentes
 
