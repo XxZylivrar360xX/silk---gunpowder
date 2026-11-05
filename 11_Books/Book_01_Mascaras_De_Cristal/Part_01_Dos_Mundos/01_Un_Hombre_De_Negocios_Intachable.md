@@ -16,6 +16,9 @@ Rocco (2026-10-22, decision del autor: sale desde el Cap. 1; prosa DISENO pendie
 2026-10-24: regla de dialogo 05 aplicada (cortes de eco y turnos perdidos), DISENO; aprobado por el autor. Keene: fuera "Vengo a no hacerle perder la mañana" / "Eso dicen los hombres..." / "Por eso se lo estoy diciendo..."; entra el beat del cafe frio antes de "Noventa dias para piezas". Matteo: fuera "¿Y como?"; "Lo se" se funde con "Por la cicatriz". Marisol: "Es informativa. De lo que no necesito." (fuera el eco "¿Informativa de que?" y su "Exacto"). Recepcion: fuera "Que raro.". Registro neutro: "aventar" -> "tirar" (Hector). "Ya me di cuenta" atribuida a Kal con tag.
 Reestructurado en sabado y domingo (2026-11-04, DECISIONES DEL AUTOR; prosa nueva DISENO, BORRADOR, espera lectura; antes TERMINADO; plan: 11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap01_Sabado_Y_Domingo.md). Autor: de dia el Kal civil, de noche el criminal con su banda (gancho del libro; Chiara es la evolucion); negocio neutro cerrado por vacaciones; repuestos de alto rendimiento; comprador, el corredor de piezas del norte (13_Auster); copiloto, extraccion y bloqueo; Danny llega con "el problema", falla y huye en moto; persiguen a Kal; Danny sigue consumiendo y amanece en el sillon; Nadir lo cuenta; enojo sin explosion. Aprobado: Kal hace el bloqueo con el camion mal puesto; el oficial trae el recado de Keene sobre las seis unidades. DISENO a confirmar: Hollis y Cabo; caminos de servicio de Kingsley; "Que Danny coma algo"; la pizarra del chief; once mil contra dieciocho; recibo de 6,800; 31 y 27; el Peugeot sale sobre la grua azul con Russ (Russ en cabina a oscuras, sin descripcion; su entrada sigue en el Cap. 4); Danny en la casa comun sin dialogo. Siembra de Matteo (2026-11-04, DICTADA POR EL AUTOR): el sabado Nadir le cuenta a Kal que "un tal Matias o Mateo" lo busco el viernes; cobro DISENO en la casa comun ("Mateo, entonces") y en La Esquina ("Lo busque el viernes en su taller...", aprobado por el autor). Intactos: carta, Keene, llamada a Nadir, Gelsomino, Rafa, Marisol, Mabel, Matteo. Texto retirado en Escenas_Eliminadas/README.
 Marisol en persona y Walt ya sabe (2026-11-05, DECISIONES DEL AUTOR; prosa DISENO, BORRADOR, espera lectura; plan: 11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap01_Marisol_Y_Cap03_Duelo.md). Autor: la primera interaccion de Kal es Marisol, en el taller, con la esencia de la llamada; fuera Garrett y Russ de la primera mitad y Danny solo insinuado; fuera el Lote y Rafa; Keene y la llamada a Nadir intactos (ahi sale el camaleon, salvo la hora de llegada); Marisol no imagina lo peor de Kal, zona gris; Marisol y Nat conviven y Marisol sabe que Jim murio. Linea de la carta, LITERAL: "Ojala que mis dos hijos pudieran estar ahi." Kal no visito a Walt por miedo a la pregunta sobre Jim (defecto: proteger ocultando informacion). DISENO: el Sentra de Sam y la banda, Marisol le saca la carta, "¿Lo vas a llevar a ver a Jim?" / "Saliendo", "te da miedo verlo viejo" / "No era eso", "Un hombre de negocios intachable", la compra de la lista con el sobre del Gelsomino, cinco dias con la carta. Metanfetamina pasa a la casa comun; "a Garrett le confiaria mi vida" (canon 2026-08-24) y el turno nocturno pasan al domingo; Rafa se explica en La Esquina. Texto retirado en git (6faf20f).
+Marisol sin auto (2026-11-05, decision del autor): es estudiante; llega en taxi y se va en el Sentra de Sam, que estaba en el taller. BORRADOR.
+Regla 05 en la escena de Marisol (2026-11-05, encargo del autor; DISENO, BORRADOR): ella habla largo y Kal contesta corto o pierde el turno; fuera "De eso no te la dan" y el eco de "Negocios". La anecdota de Walt ("a robar o a cenar") es nueva y espera lectura; Walt la dice sabiendo de quien es hijo: conocio a Dale Mercer, que le enseno a Kal a abrir coches.
+Balayage (2026-11-05, encargo del autor): Marisol lo menciona y Kal no se queda con la palabra; aqui aun no lo trae (pelirroja sin puntas rubias). Se cobra en el Cap. 15 (archivo 14).
 -->
 
 # Capítulo 1 — Un hombre de negocios intachable
@@ -80,25 +83,31 @@ Eso Kal lo guardaba en otro libro.
 
 No estaba escrito.
 
-A las siete y veinte oyó el coche antes de verlo: un chillido de banda que entró por el portón, dio la vuelta alrededor de las grúas y se apagó pegado a la puerta de la oficina, donde nadie tenía permiso de estacionarse.
+A las siete y veinte, un taxi entró por el portón, dio la vuelta alrededor de las grúas y se detuvo pegado a la puerta de la oficina, donde nadie tenía permiso de estacionarse. No se fue.
 
 —¿Te llegó? —dijo Marisol desde el marco, sin saludar.
 
-Era pequeña y ligera, con el pelo pelirrojo recogido sin cuidado y las puntas decoloradas a rubio por una moda que a Kal le parecía absurda. Traía una chaqueta militar que le quedaba grande, con las mangas dobladas dos veces, y una sonrisa ladeada que ya venía buscando dónde meterse con él. La universidad quedaba a veinte minutos al norte. Kal la había mandado ahí para que nadie supiera de dónde venía, y el precio era verla cuatro veces al año.
+Era pequeña y ligera, con el pelo pelirrojo recogido sin cuidado. Traía una chaqueta militar que le quedaba grande, con las mangas dobladas dos veces, y una sonrisa ladeada que ya venía buscando dónde meterse con él. La universidad quedaba a veinte minutos al norte. Kal la había mandado ahí para que nadie supiera de dónde venía, y el precio era verla cuatro veces al año.
 
 Kal ya estaba de pie. No recordaba haberse levantado.
 
 —¿Qué cosa?
 
-—La lista. Te la mandé anoche. —Cruzó la oficina, le quitó el café, lo probó y puso cara de mala noticia—. Luego la ves. El coche de Sam hace un ruido.
+—La lista. Te la mandé anoche. —Cruzó la oficina, le quitó el café, lo probó y puso cara de mala noticia—. Luego la ves. Kal, me faltan ocho dólares para el taxi. ¿Puedes?
 
-—Ya lo oí.
+Kal ya estaba sacando la cartera.
 
-—Sam dice que es una banda. Nos vamos a la costa a las nueve, ella y otras dos, y no pienso empujar.
+—¿Ya quedó el auto de Sam?
+
+—Le falta la banda.
+
+—Nos vamos a la costa a las nueve, ella y otras dos, y no pienso empujar. Y esta semana me hago un *balayage*, para que vayas preparando la cara.
+
+—¿Un qué?
 
 Dejó la taza sobre el escritorio, encima del recibo de la universidad, que llevaba abierto desde el viernes. No lo miró. Kal tampoco.
 
-A esa hora el patio todavía estaba vacío. Kal levantó el capó del Sentra azul de Sam. Tuvo que meter las dos manos hasta el fondo para encontrar el tensor, y al agacharse se le abrió la chaqueta de mezclilla.
+A esa hora el patio todavía estaba vacío. Kal le pagó al taxista por la ventanilla y levantó el capó del Sentra azul de Sam, que llevaba desde el jueves junto a la pared. Tuvo que meter las dos manos hasta el fondo para encontrar el tensor, y al agacharse se le abrió la chaqueta de mezclilla.
 
 No la vio venir. Marisol le sacó el sobre del bolsillo interior con dos dedos.
 
@@ -108,13 +117,9 @@ No la vio venir. Marisol le sacó el sobre del bolsillo interior con dos dedos.
 
 —Tienes grasa hasta las muñecas.
 
-Leía como hacía casi todo: rápido y caminando. Le dio la vuelta al coche con la hoja enfrente y pateó una llanta de paso.
+Leía como hacía casi todo: rápido y caminando. Le dio la vuelta al auto con la hoja enfrente y pateó una llanta de paso.
 
-—¿Walt? ¿El papá de Nat? —Levantó un dedo sin levantar la vista—. Lo sueltan. Kal, lo sueltan. ¿El lunes? ¿Este lunes?
-
-—Este lunes.
-
-—¿Cuándo te llegó?
+—¿Walt? ¿El papá de Nat? —Levantó un dedo sin levantar la vista—. Lo sueltan. Kal, lo sueltan. ¿Este lunes? ¿Y tú aquí con las manos en el auto de Sam? ¿Cuándo te llegó?
 
 Kal encontró la tuerca.
 
@@ -150,13 +155,9 @@ Marisol lo miró un momento y volvió al papel.
 
 —«Todavía queda Viejo Walt para rato» —leyó, y le salió casi normal—. Me cae bien. ¿Cómo es? Nat cuenta de él lo mismo que de todo lo demás.
 
-—Se burla de ti antes de saludarte. Lleva diez años adentro por algo que no hizo.
+—Se burla de ti antes de saludarte —le dijo al motor—. A mí, de niño, cuando mi padre me llevó a su casa, me preguntó si venía a robar o a cenar, y que en los dos casos me lavara las manos. Lleva diez años adentro por algo que no hizo.
 
-—Tengo una clase de eso.
-
-—De eso no te la dan.
-
-—Nat dice que nunca has ido a verlo.
+—Tengo una clase de eso. Los martes, con un señor que nunca ha pisado un reclusorio. —Pateó la llanta otra vez—. Nat dice que nunca has ido a verlo.
 
 Kal le dio media vuelta a la tuerca.
 
@@ -168,7 +169,7 @@ Kal le dio media vuelta a la tuerca.
 
 No era eso. La dejó creerlo: salía más barato que lo otro.
 
-Marisol metió la hoja en el sobre y el sobre en el bolsillo de Kal, ella misma. Le dio dos palmadas encima y se le recargó un segundo en el hombro, sin abrazo ni nada, como quien comprueba que una pared sigue en su lugar. Después se metió al coche.
+Marisol metió la hoja en el sobre y el sobre en el bolsillo de Kal, ella misma. Le dio dos palmadas encima y se le recargó un segundo en el hombro, sin abrazo ni nada, como quien comprueba que una pared sigue en su lugar. Después se metió al auto.
 
 Kal bajó el capó y le hizo una seña. El motor encendió sin chillar.
 
@@ -178,9 +179,9 @@ Kal bajó el capó y le hizo una seña. El motor encendió sin chillar.
 
 —¿Negocios en sábado?
 
-—Negocios.
+Kal buscó un trapo.
 
-Fue doblando los dedos sobre el volante.
+Marisol fue doblando los dedos sobre el volante.
 
 —Un taller, dos grúas y un contrato que no te han firmado. —La sonrisa había vuelto a su lugar—. Un hombre de negocios intachable.
 
@@ -204,7 +205,13 @@ Kal volvió a leerla.
 
 —Tú eres el que lee a la gente, ¿no? —Metió reversa—. Lee.
 
-Salió por el portón sin ruido de banda. Eran las ocho menos diez. Héctor llegaba a las ocho.
+El Sentra retrocedió medio metro y se detuvo.
+
+—Kal. Esto no está en la lista, pero… ¿un auto?
+
+—Adiós, Marisol.
+
+Sonrió sin ninguna decepción y soltó el freno. Salió por el portón sin ruido de banda. Eran las ocho menos diez. Héctor llegaba a las ocho.
 
 Kal se quedó en el patio con la lista en la pantalla. Los libros, sí. La lámpara, también: la que tenía se la había comprado él, de segunda, cuando ella tenía quince. Las botas aguantaban otro invierno; la chaqueta, no. El cargador lo había pedido en agosto y nadie se lo había mandado.
 

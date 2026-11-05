@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-05 11:59. Al día: 52 de 56.
+Actualizada: 2026-11-05 14:49. Al día: 51 de 56.
 
 ## Pendientes
 
@@ -12,6 +12,7 @@ Actualizada: 2026-11-05 11:59. Al día: 52 de 56.
 | 3 | Los viejos días | PENDIENTE | cambió la prosa | 2026-11-05 11:59 |
 | 7 | Ambos | PENDIENTE | cambió la prosa | 2026-11-05 11:59 |
 | 15 | La regla del teléfono | PENDIENTE | cambió la prosa | 2026-11-05 11:59 |
+| 44 | Un par de días más | PENDIENTE | cambió la prosa | 2026-11-05 14:35 |
 
 ## Capítulos
 
@@ -60,7 +61,7 @@ Actualizada: 2026-11-05 11:59. Al día: 52 de 56.
 | 41 | También las mañanas | AL DIA | 2026-11-01 |
 | 42 | Cuatro letras | AL DIA | 2026-11-01 |
 | 43 | Al revés | AL DIA | 2026-11-01 |
-| 44 | Un par de días más | AL DIA | 2026-11-01 |
+| 44 | Un par de días más | PENDIENTE | 2026-11-01 |
 | 45 | Mecánico | AL DIA | 2026-11-01 |
 | 46 | La otra mitad | AL DIA | 2026-11-01 |
 | 47 | Nada | AL DIA | 2026-11-01 |
@@ -76,6 +77,7 @@ Actualizada: 2026-11-05 11:59. Al día: 52 de 56.
 
 ## Historial
 
+- 2026-11-05 14:35 · Cap. 44 (39_Un_Par_De_Dias_Mas.md) · audio pendiente: cambió la prosa
 - 2026-11-05 11:59 · Cap. 15 (14_La_Regla_Del_Telefono.md) · audio pendiente: cambió la prosa
 - 2026-11-05 11:59 · Cap. 7 (06_Ambos.md) · audio pendiente: cambió la prosa
 - 2026-11-05 11:59 · Cap. 3 (03_Los_Viejos_Dias.md) · audio pendiente: cambió la prosa

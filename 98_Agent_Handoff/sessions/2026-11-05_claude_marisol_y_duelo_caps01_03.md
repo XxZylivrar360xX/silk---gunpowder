@@ -22,3 +22,9 @@
 - **La extensión:** el plan estimó ~3,900 y quedó en ~4,600. Keene llega igual que antes (~2,640). Si sigue tardando, lo siguiente sería el Ford (~300) y el gancho de Héctor.
 - **Cap. 1:** Sentra de Sam y la banda; Marisol le saca la carta y deja de moverse; «te da miedo verlo viejo» / «No era eso»; «Un hombre de negocios intachable» en su boca; cinco días con la carta; Natalie «estuvo en la audiencia» y Kal le pidió que se lo dejara a él para Héctor.
 - **Cap. 3:** el permiso negado dos veces; «le daba el sol»; los tres días y «Comió»; «Kal llevaba cuatro años sin pisar la sala de visitas»; «Cómete el pan»; Kal a dos hileras.
+
+## Ajustes tras la lectura del autor (2026-11-05)
+
+- **Marisol sin auto (AUTOR):** en el Cap. 1 llega en taxi («me faltan ocho dólares») y se va en el Sentra de Sam, que estaba en el taller; pide un auto al salir («Adiós, Marisol»). Cap. 44 (archivo 39): recoge a Kal en ese mismo auto. Tendrá uno propio tras la graduación, en el Libro II.
+- **Regla 05 en su escena (DISEÑO):** ella se alarga y Kal contesta corto o pierde el turno. Salen «De eso no te la dan» y el eco de «Negocios». Se protegen «Saliendo» y la esgrima de la lista. Nuevo, a vigilar: la anécdota de Walt, «a robar o a cenar». En el resto del capítulo, un conteo de réplicas cortas no marcó otros tramos; no fue relectura completa.
+- **Balayage (AUTOR):** Marisol lo menciona en el Cap. 1 («¿Un qué?») y se cobra en el Cap. 15 con «Ya te dije». La anécdota de Walt se calibró: Kal llegó con su padre, Dale, a quien Walt conocía.

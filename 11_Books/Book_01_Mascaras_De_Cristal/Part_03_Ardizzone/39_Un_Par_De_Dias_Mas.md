@@ -21,6 +21,7 @@ Función: primer capítulo de regreso tras Palermo. Muestra a Kal administrando 
 - Cierre: balcón del loft, de noche, vista a La Almendra. Objetos de Chiara mencionados sin glosa (uno o dos, no inventario). Línea canon del autor, textual: "—Palermo fue más complicado de lo que anticipé." Corte inmediato después, sin que Marisol pregunte qué pasó.
 **Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N39-1, N39-2, C39-Danny. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
 **Regla de diálogo 05 (2026-10-28, a pedido del autor; DISEÑO, espera lectura):** ecos y remates dobles cortados; frases canon intactas. Detalle: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_un_par_de_dias_mas_cap45]].
+Auto de Sam (2026-11-05, decision del autor): Marisol no tiene auto propio hasta despues de la graduacion, en el Libro II. El estado se conserva.
 -->
 
 # Capítulo 44 — Un par de días más
@@ -49,7 +50,7 @@ Kal cerró el maletero.
 
 Marisol lo miró un momento más. Después rodeó el coche hacia el lado del conductor.
 
-—Bien —dijo—. Sube, que llevo la calefacción peleada con el motor desde el jueves y si la apago un minuto más se muere de verdad.
+—Bien —dijo—. Sube, que Sam me prestó esto con la calefacción peleada con el motor desde el jueves y si la apago un minuto más se muere de verdad.
 
 Subieron. El coche olía a protector solar y a algo de comida rápida de hacía dos días. Marisol arrancó sin esperar a que él se pusiera el cinturón, cosa que Kal ya no le corregía.
 

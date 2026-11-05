@@ -5,7 +5,7 @@
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-08-23; apariencia y voz consolidadas 2026-08-29).** Su función narrativa ya está definida; su biografía concreta queda pendiente.
-> **PRIMERA APARICIÓN EN ESCENA (DECISIÓN DEL AUTOR, 2026-11-05):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable|Cap. 1]], en persona en el taller (BORRADOR). Antes estaba en el Cap. 15, que conserva su encargo original ([[98_Agent_Handoff/archive/chatgpt/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]]). Los datos marcados **(borrador Cap. 15)** abajo son inferencia del agente; **el autor no los ha confirmado.**
+> **PRIMERA APARICIÓN EN ESCENA (DECISIÓN DEL AUTOR, 2026-11-05):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable|Cap. 1]], en persona en el taller (BORRADOR). Antes estaba en el Cap. 15, que conserva su encargo original ([[98_Agent_Handoff/archive/chatgpt/PROMPT_CLAUDE_NUEVO_CAPITULO_MARISOL_CAMPING_H10]]). Los datos marcados **(borrador Cap. 15)** abajo son inferencia del agente; **el autor no los ha confirmado.** **No tiene auto (autor, 2026-11-05):** es estudiante; en el Cap. 1 llega en taxi y se va en el Sentra de Sam, y en el Cap. 44 recoge a Kal en ese mismo auto. Tendrá uno propio hasta después de graduarse, en el Libro II.
 >
 > **Lo que sabe (CANON DEL AUTOR, 2026-11-05):** sabe que Kal no es una perita en dulce, pero no imagina lo peor; tiene vida propia fuera de su círculo. Zona gris. Convive con Natalie y sabe que Jim murió.
 
@@ -24,7 +24,7 @@
 
 **Complexión:** pequeña y ligera.
 
-**Cabello:** pelirrojo natural, con las puntas decoloradas hacia rubio por una moda que Kal considera absurda.
+**Cabello:** pelirrojo natural, con las puntas decoloradas hacia rubio por una moda que Kal considera absurda. Se hace el *balayage* entre los Caps. 1 y 15 (autor, 2026-11-05): en el Cap. 1 aún no lo trae y solo lo anuncia.
 
 **Rostro:** abundantes pecas, especialmente sobre la nariz y los pómulos; ojos miel claro, entre ámbar y avellana según la luz; sonrisa frecuentemente ladeada, pícara e irónica.
 

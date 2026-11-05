@@ -15,6 +15,7 @@ Arco lector 14-16 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_14-1
 Regla de dialogo 05 (2026-10-26, encargo del autor; DISENO pendiente de lectura; el estado se conserva): doce cortes de eco/remate (salida, nevera, piedras, derecho, la casa, el "dai", la amiga); Kal ya no dice ni oye el nombre de Chiara hasta "Dilo tu tambien". Detalle: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_telefono_cap17]].
 Escena nueva "Las notas" (2026-10-27, encargo del autor; DISENO pendiente de lectura; el estado se conserva): domingo temprano, Marisol confiesa que reprobo dos parciales, falto a clase y le mintio el sabado ("Sobreviviendo"). Kal la regaña de pie, sin subir la voz (la mentira, no la nota), pone condicion (hablar con los profesores, mandarle las notas), se sienta, le choca el hombro con media sonrisa: "Todo va a estar bien." Sustituye la version del choque del carro de Michael (descartada por el autor: precedente del Audi en el Cap. 24 y eco de mala conductora para el choque del Libro II). Fuera la muletilla "¿sabes?" en "Lo extraño". Remate (2026-10-27, direccion del autor via nota ChatGPT AUT-01; DISENO pendiente de lectura): sale "Tu papá reprobó Química dos veces" y la risa; entra el orgullo de Kal por Marisol como hija de La Almendra, con "tipos como yo" como eco de "somos plebe" (Cap. 7) sin glosa; reaccion minima; "Todo va a estar bien" intacto. Ajuste del autor: "Me lo dijiste tú... Eso ya es hacerlo mejor" (reconocimiento de la responsabilidad que ella asumio al confesar, no exigencia). Siembras de inquietud de Marisol, sin glosa: viernes, «Oye» abortado en el semaforo y plato raspado en la cena; sabado, "apretó el paso" al mentir (el agua derramada antes de "¿Y tu amiga?" se retiro: sugeria a Chiara como motivo). Tambien: "Desde Auster" -> "Desde que fue a verlo al taller" (Kal no conoce el nombre); fuera la cifra "la mitad de las confesiones falsas". Detalle: [[98_Agent_Handoff/sessions/2026-10-27_claude_cap17_escena_las_notas]].
 Marisol entra antes (2026-11-05, decision del autor): su primera aparicion en escena pasa al Cap. 1, con la descripcion fisica; aqui ya no es presentacion. El estado se conserva.
+Balayage (2026-11-05, encargo del autor): "Te lo hiciste" y "Ya te dije" cobran la mencion del Cap. 1: Kal le ve las puntas rubias por primera vez. El estado se conserva.
 -->
 
 # Capítulo 15 — La regla del teléfono
@@ -27,7 +28,7 @@ Cerró con llave y cargó la camioneta del taller, la que no llamaba la atenció
 
 ***
 
-La residencia de la universidad tenía un aparcamiento para diez minutos y un cartel que lo recordaba. Kal llevaba veinte parado ahí cuando Marisol salió arrastrando una mochila que pesaba la mitad que ella. Las puntas decoloradas a rubio le asomaban por encima, y la sonrisa ladeada ya venía buscando dónde meterse con él.
+La residencia de la universidad tenía un aparcamiento para diez minutos y un cartel que lo recordaba. Kal llevaba veinte parado ahí cuando Marisol salió arrastrando una mochila que pesaba la mitad que ella. Las puntas, ahora decoloradas a rubio, le asomaban por encima, y la sonrisa ladeada ya venía buscando dónde meterse con él.
 
 —Llegas temprano —dijo, por saludo.
 
@@ -41,13 +42,13 @@ Metió la mochila atrás, sobre lo que Kal había cargado la noche anterior y vu
 
 Kal miró las puntas rubias antes de mirar el resto del equipaje.
 
-—Sigues con eso.
+—Te lo hiciste.
 
 —Sigues mirándolo como si fuera una avería.
 
 —Es una moda absurda.
 
-—Se llama *balayage*.
+—Se llama *balayage*. Ya te dije.
 
 —Bala… yash.
 
