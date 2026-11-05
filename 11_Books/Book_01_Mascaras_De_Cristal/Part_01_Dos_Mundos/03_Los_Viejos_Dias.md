@@ -18,6 +18,8 @@ Palabras de prosa: ~4,780 (antes ~7,000 con el bloque de Chiara, que ahora vive 
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N3-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 2026-10-24: regla de diálogo 05 aplicada (cortes de eco y turnos perdidos), DISEÑO.
 Sin insinuacion de Dario sobre Keene (2026-11-03, DECISION DEL AUTOR): antes de "Todavia no.", fuera "en Matteo diciendo que Dario tuvo que salir, en el telefono bocabajo... con el titular de Keene". El narrador no da ni insinua la relacion; la diligencia del Cap. 2 queda como coincidencia que se cobra en el Libro III.
+Continuidad (2026-11-04, encargo del autor; DISENO, pendiente de lectura; el estado se conserva): fuera "Guardo el telefono"; al entrar a la oficina Kal lo deja bocabajo sobre el escritorio, con lo que "Kal senalo el telefono bocabajo" y el eco de Walt en el escalon quedan iguales y este ultimo mejora (Walt lo vio desde el marco). La audiencia queda con mesa, no con vidrio: "al otro lado de una mesa". Detalle: 98_Agent_Handoff/sessions/2026-11-04_claude_detalles_caps02_03.md.
+Decisiones del autor (2026-11-04; redaccion DISENO, pendiente de lectura): la perra flaca es Rocco ("y eso que no traia nada de comer", rima con el Cap. 1; fuera "cosa que no hacia por nadie"). El Monarch era la salida de Kal: "Si Matteo llamaba antes de las dos, el anticipo se devolvia". La hierba se recoge en la tarde y va en el Buick de noche, lo que acorta el trabajo y deja a Danny tiempo para el cajero (ver Cap. 4).
 -->
 
 # Capítulo 3 — Los viejos días
@@ -180,7 +182,7 @@ Walt miró adentro.
 
 —La libertad te ablanda el estándar, Navarro.
 
-Walt miró entonces las letras de la sudadera de su hija. Ya lo sabía; se lo había contado ella por teléfono y en la audiencia. Pero una cosa era saberlo detrás de un vidrio y otra verlo escrito en su pecho a media acera.
+Walt miró entonces las letras de la sudadera de su hija. Ya lo sabía; se lo había contado ella por teléfono y en la audiencia. Pero una cosa era saberlo al otro lado de una mesa y otra verlo escrito en su pecho a media acera.
 
 —Bomberos.
 
@@ -438,7 +440,7 @@ Walt vio todo. Vio también lo demás: que la barbería ahora compartía la fach
 
 —Por eso lo digo así. Para que no se le suba.
 
-El Corolla entró primero y se estacionó junto al portón, en el único cajón que nadie usaba. Natalie no preguntó si podía. Bajó, le rascó la cabeza a la perra flaca que dormía a la sombra de la grúa dos y la perra se levantó por ella, cosa que no hacía por nadie. Desde el elevador, Omar le gritó algo; ella le contestó preguntándole por su mamá, y él le contestó que ya había salido del hospital, y ella dijo *te dije*, y los dos se rieron de algo que Walt no alcanzó a saber.
+El Corolla entró primero y se estacionó junto al portón, en el único cajón que nadie usaba. Natalie no preguntó si podía. Bajó, le rascó la cabeza a Rocco, que dormía a la sombra de la grúa dos, y el perro se levantó por ella, y eso que no traía nada de comer. Desde el elevador, Omar le gritó algo; ella le contestó preguntándole por su mamá, y él le contestó que ya había salido del hospital, y ella dijo *te dije*, y los dos se rieron de algo que Walt no alcanzó a saber.
 
 Walt se quedó en la entrada del patio con la bolsa de plástico en la mano.
 
@@ -570,17 +572,15 @@ El Corolla salió sin tocar el claxon. Walt lo siguió con la vista desde la mes
 
 Kal miró el teléfono antes de volver a la oficina.
 
-Nada del Monarch. Matteo había dicho *te llamo mañana*, y mañana ya era hoy, y eran casi las dos.
+Nada del Monarch. Matteo había dicho *te llamo mañana*, y mañana ya era hoy, y eran casi las dos. Si Matteo llamaba antes de las dos, el anticipo se devolvía.
 
-Guardó el teléfono.
-
-En la oficina, Nadir cerró la puerta. Danny se sentó sobre el archivero, Héctor en la silla de visitas. Walt se quedó en el marco, con un café en la mano, y nadie le pidió que se fuera.
+En la oficina dejó el teléfono bocabajo sobre el escritorio. Nadir cerró la puerta. Danny se sentó sobre el archivero, Héctor en la silla de visitas. Walt se quedó en el marco, con un café en la mano, y nadie le pidió que se fuera.
 
 —Hay un trabajo —dijo Kal.
 
 Danny dejó de mover la pierna.
 
-—Un cargamento de hierba. De una bodega en el norte a Nueve Puentes. Lo recibe la gente de Maya Ríos.
+—Un cargamento de hierba. Lo recogemos esta tarde en una bodega del norte y esta noche va a Nueve Puentes. Lo recibe la gente de Maya Ríos.
 
 —¿Cuadra Nueve? —dijo Nadir.
 

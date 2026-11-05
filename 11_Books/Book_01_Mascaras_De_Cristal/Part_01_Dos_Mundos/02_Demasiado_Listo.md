@@ -16,6 +16,8 @@ Llegada en jet privado desde Palermo (2026-10-22, CANON DEL AUTOR dictado ese di
 
 Puente Nueva York-Palermo (2026-10-22, observacion del autor sobre la llegada nueva): tras "Empezo esa misma madrugada" se agrega un parrafo DISENO de tres frases que hace perceptible la visita a Palermo entre la orden y el vuelo, sin itinerario.
 2026-10-24: regla de diálogo 05 aplicada (cortes de eco y turnos perdidos), DISEÑO.
+Continuidad de la sala (2026-11-04, encargo del autor; DISEÑO, pendiente de lectura; el estado se conserva): "un dueño que no estaria en la junta" se adelantaba al anuncio de Dario; se queda el trio con "ya la tenia en inventario" y la idea pasa a despues del anuncio ("Chiara lo archivo con lo demas"). De pie o sentados: Kal es "el primero que se sento" y los demas lo siguen, asi conservan su sentido "nadie se hubiera levantado", "sentada en una mesa", "Matteo no volvio a sentarse" y "Se levanto". Ajustes de la misma revision: "alrededor de la mesa" (no escritorio) y Matteo toca "el borde de la mesa" (no el respaldo). Detalle: 98_Agent_Handoff/sessions/2026-11-04_claude_detalles_caps02_03.md.
+Decisiones del autor (2026-11-04; redaccion DISEÑO, pendiente de lectura; levantan lo protegido en Audit_Caps_01-03 §6 para estos puntos): fuera el sorteo y sus replicas, hasta "Sus aspiraciones son altas" (sin cobro desde 2026-09-30); la pregunta de Chiara por el porcentaje entra tras "Kal espero". La lectura de Kal desde Chiara pasa a observable para Kal ("Parecia saber que Kal no estaba jugando"). En la tina, "una habitacion podia mirarla de vuelta", que el recuerdo no cumplia, pasa a "le dijeron que cualquier casa bastaba".
 -->
 
 # Capítulo 2 — Demasiado listo
@@ -344,7 +346,7 @@ Dario la miró un segundo.
 
 —¿Le parece interesante, signora Bellandi?
 
-Chiara apoyó las manos sobre la carpeta. En la mesa ya tenía a un socio que rodeaba los puntos, a un Lusardi que le miraba la mano y a un dueño que no estaría en la junta. Mercer era el único que no venía con ella en el avión.
+Chiara apoyó las manos sobre la carpeta. En la mesa ya tenía a un socio que rodeaba los puntos, a un Lusardi que le miraba la mano y a un dueño que ya la tenía en inventario. Mercer era el único que no venía con ella en el avión.
 
 —Quiero verlo.
 
@@ -386,7 +388,7 @@ Dario se levantó.
 
 —Entonces habremos perdido una hora. San Aurelio cobra cosas peores.
 
-Chiara volvió a mirar el piso de juego a través del vidrio. Abajo, una máquina encendió sus luces de prueba y celebró una ganancia falsa con música breve.
+Un dueño que no estaría en la junta. Chiara lo archivó con lo demás y volvió a mirar el piso de juego a través del vidrio. Abajo, una máquina encendió sus luces de prueba y celebró una ganancia falsa con música breve.
 
 Pensó que un casino nuevo tenía algo indecente: fingía experiencia antes de haber perdido a nadie.
 
@@ -512,7 +514,7 @@ Chiara lo vio mirar.
 
 No dijo nada.
 
-La sala privada ya tenía a todos de pie, repartidos alrededor del escritorio, cada uno haciendo algo con las manos que no era escuchar.
+La sala privada ya tenía a todos de pie, repartidos alrededor de la mesa, cada uno haciendo algo con las manos que no era escuchar.
 
 La cabecera estaba vacía.
 
@@ -528,7 +530,7 @@ Fabrizio Rinaldi saludó con una cordialidad amplia, Tommaso Lusardi con una cor
 
 Kal no se acercó hasta que Matteo le indicó una silla. Tampoco esperó demasiado.
 
-Fue el único que se sentó.
+Fue el primero que se sentó. Los demás se fueron sentando después, cada uno como si se le hubiera ocurrido solo.
 
 —Me invitaron.
 
@@ -546,7 +548,7 @@ Matteo se llevó una mano al pecho.
 
 —Me hieren en mi propia casa.
 
-Chiara lo miró. Kal no estaba jugando al gracioso. Estaba quitándole brillo a la mesa para ver qué quedaba debajo.
+Chiara lo miró. Parecía saber que Kal no estaba jugando al gracioso; le estaba quitando brillo a la mesa para ver qué quedaba debajo.
 
 Tommaso entrelazó los dedos.
 
@@ -584,7 +586,7 @@ Kal asintió.
 
 —Flotilla ejecutiva. Mantenimiento preventivo, no sólo reparaciones cuando ya quedaron mal con un huésped. Servicio de emergencia para valet y proveedores. Un corralón privado para coches que no quieren ver afuera de la entrada. Taller con factura limpia. Gente que llega por carga y no pregunta por qué el cliente se fue por recepción.
 
-Matteo dejó de tocar el respaldo de su silla.
+Matteo dejó de tocar el borde de la mesa.
 
 —Eso era lo que le decía.
 
@@ -627,16 +629,6 @@ Fabrizio bajó la vista a sus manos. Matteo miró a Chiara como si quisiera sabe
 Chiara no le dio respuesta. Ni siquiera aflojó las cejas.
 
 Kal esperó a que la sala terminara de acomodarse.
-
-—Para la apertura van a necesitar un premio de sorteo que se vea bien en la nota de prensa. Yo lo pongo. Lo financio, ustedes lo entregan, y nadie tiene que explicar por qué el presupuesto de marketing del primer fin de semana salió parejo. A cambio, hablamos de flotilla.
-
-Tommaso tardó en contestar.
-
-—El coche del sorteo. Después flotilla. ¿Y después, señor Mercer?
-
-—Después lo que ustedes decidan que necesitan.
-
-—Sus aspiraciones son altas.
 
 —¿Qué porcentaje pediría? —preguntó ella.
 
@@ -866,7 +858,7 @@ La primera era de Corrado y Marta bailando en el salón, desenfocados por el mov
 
 No hizo falta mirarlas mucho tiempo para que la tercera se volviera recuerdo completo.
 
-La primera vez que entendió que una habitación podía mirarla de vuelta tenía seis años.
+La primera vez que le dijeron que cualquier casa bastaba tenía seis años.
 
 Había encontrado una caja de colores y estaba dibujando una casa en la pared del pasillo, justo donde Marta acababa de limpiar. El trazo azul le había salido torcido. El amarillo se había convertido en una ventana demasiado grande. Chiara estaba inclinada sobre el muro, concentrada en corregir el techo, cuando su madre la descubrió.
 

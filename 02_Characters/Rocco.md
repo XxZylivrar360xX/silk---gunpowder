@@ -41,6 +41,7 @@ En *Sombras de Poder* (Libro II) Chiara tendrá un **gato negro**, y Rocco y el 
 **CANON DEL AUTOR (2026-10-22):** Rocco sale desde el Cap. 1, con 4-5 siembras bien puestas en el Libro I, porque en *Sombras de Poder* El Patio tendrá un momento "John Wick" en torno a él. **PENDIENTE:** qué le pasa y quién responde.
 
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable|Cap. 1 (archivo 01)]] (siembra, DISEÑO): su casa de tablas junto a la oficina, que Kal nivelo dos veces; Hector y la llave Allen que Nadir le avienta.
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Cap. 3 (archivo 03)]] (decision del autor 2026-11-04, redaccion DISEÑO): duerme a la sombra de la grua dos; se levanta por Natalie aunque no traiga comida. Sin descripcion fisica.
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05c_La_Pizza_De_Calabaza|Cap. 6 (archivo 05c)]]: primera descripcion; Kal le ensena la pata para la cita; lo lleva a Il Gelsomino; en la acera, Rocco se va con Chiara.
 - Cap. 6: Danny se presenta como "el del perro".
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_La_Balanza|Cap. 11 (archivo 09)]]: el cuento de Connors y el zapato ("ya era un rottweiler"); a los pies de Danny en la casa comun.
