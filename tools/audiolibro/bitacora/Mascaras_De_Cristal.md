@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-04 11:25. Al día: 56 de 56.
+Actualizada: 2026-11-04 20:31. Al día: 56 de 56.
 
 ## Pendientes
 
@@ -12,9 +12,9 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 | Cap. | Título | Estado | Audio generado |
 |---|---|---|---|
-| 1 | Un hombre de negocios intachable | AL DIA | 2026-10-24 |
-| 2 | Demasiado listo | AL DIA | 2026-10-24 |
-| 3 | Los viejos días | AL DIA | 2026-11-03 |
+| 1 | Un hombre de negocios intachable | AL DIA | 2026-11-04 |
+| 2 | Demasiado listo | AL DIA | 2026-11-04 |
+| 3 | Los viejos días | AL DIA | 2026-11-04 |
 | 4 | Tarifa nocturna | AL DIA | 2026-11-04 |
 | 5 | Cliente y proveedor | AL DIA | 2026-11-03 |
 | 6 | La pizza de calabaza | AL DIA | 2026-11-04 |
@@ -71,6 +71,14 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Historial
 
+- 2026-11-04 20:31 · Cap. 4 (04_Tarifa_Nocturna.md) · audio regenerado
+- 2026-11-04 20:26 · Cap. 3 (03_Los_Viejos_Dias.md) · audio regenerado
+- 2026-11-04 20:22 · Cap. 2 (02_Demasiado_Listo.md) · audio regenerado
+- 2026-11-04 20:16 · Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md) · audio regenerado
+- 2026-11-04 19:54 · Cap. 4 (04_Tarifa_Nocturna.md) · audio pendiente: cambió la prosa
+- 2026-11-04 18:51 · Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md) · audio pendiente: cambió la prosa
+- 2026-11-04 18:48 · Cap. 3 (03_Los_Viejos_Dias.md) · audio pendiente: cambió la prosa
+- 2026-11-04 18:48 · Cap. 2 (02_Demasiado_Listo.md) · audio pendiente: cambió la prosa
 - 2026-11-04 11:25 · Cap. 7 (06_Ambos.md) · audio regenerado
 - 2026-11-04 11:25 · Cap. 4 (04_Tarifa_Nocturna.md) · audio regenerado
 - 2026-11-04 10:04 · Cap. 7 (06_Ambos.md) · audio pendiente: cambió la prosa

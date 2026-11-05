@@ -5,24 +5,24 @@
       "titulo": "Un hombre de negocios intachable",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-24",
-      "desde": "2026-10-24 12:26"
+      "audio": "2026-11-04",
+      "desde": "2026-11-04 20:16"
     },
     "02_Demasiado_Listo.md": {
       "capitulo": 2,
       "titulo": "Demasiado listo",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-10-24",
-      "desde": "2026-10-24 13:44"
+      "audio": "2026-11-04",
+      "desde": "2026-11-04 20:22"
     },
     "03_Los_Viejos_Dias.md": {
       "capitulo": 3,
       "titulo": "Los viejos días",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-11-03",
-      "desde": "2026-11-03 22:34"
+      "audio": "2026-11-04",
+      "desde": "2026-11-04 20:26"
     },
     "04_Tarifa_Nocturna.md": {
       "capitulo": 4,
@@ -30,7 +30,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-11-04",
-      "desde": "2026-11-04 11:25"
+      "desde": "2026-11-04 20:31"
     },
     "05a_Cliente_Y_Proveedor.md": {
       "capitulo": 5,
@@ -3338,6 +3338,46 @@
     [
       "2026-11-04 11:25",
       "Cap. 7 (06_Ambos.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-04 18:48",
+      "Cap. 2 (02_Demasiado_Listo.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-04 18:48",
+      "Cap. 3 (03_Los_Viejos_Dias.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-04 18:51",
+      "Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-04 19:54",
+      "Cap. 4 (04_Tarifa_Nocturna.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-04 20:16",
+      "Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-04 20:22",
+      "Cap. 2 (02_Demasiado_Listo.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-04 20:26",
+      "Cap. 3 (03_Los_Viejos_Dias.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-04 20:31",
+      "Cap. 4 (04_Tarifa_Nocturna.md)",
       "audio regenerado"
     ]
   ]
