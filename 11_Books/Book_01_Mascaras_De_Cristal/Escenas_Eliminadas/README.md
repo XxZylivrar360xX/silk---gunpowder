@@ -910,6 +910,15 @@ Decisión del autor: Chiara conoce a Nadir y Danny en la noche del ladrillo. La 
 >
 > —Se llama Vento.
 
+## Cap. 1, retirado al pasar a sábado y domingo (2026-11-04)
+
+Versión previa íntegra en git (`17c7210`). No sale escena completa; salen estas frases:
+
+- «El resto de la mañana fue lo que en la Almendra pasaba por normalidad.» (pasa a «Antes de las nueve...»).
+- «Héctor estaba junto al elevador dos, con la llave inglesa todavía en la mano, deteniendo al chofer de un camión de autopartes...» y «Kal esperó a que el chofer terminara de mover la camioneta.» (el chofer se adelanta al sábado).
+- «Una señora volvió por el coche del radiador y dejó una bolsa de pan dulce en la oficina.»
+- «Danny cerrando demasiado fuerte una puerta al fondo» (ya está dormido) y «Danny dormía en una silla con la gorra sobre los ojos» (repetía el sillón).
+
 ## Protocolo
 
 Al sacar un capítulo: `git mv` a esta carpeta, encabezado `ESCENA ELIMINADA` + `EPUB: EXCLUDE`, fila aquí, enlaces del vault actualizados. Al recuperarlo: lo inverso, y dejar la fila tachada con la fecha.

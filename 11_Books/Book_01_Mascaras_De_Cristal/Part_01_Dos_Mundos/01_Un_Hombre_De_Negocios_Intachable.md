@@ -1,9 +1,9 @@
 <!--
-Estado: TERMINADO.
+Estado: BORRADOR (reestructurado 2026-11-04 por decision del autor; antes TERMINADO; ver la ultima nota de este comentario).
 Protagonistas: Kal Mercer, Chiara Bellandi.
-Ventana temporal: Fase 0, domingo; el dia en que llegan los socios del Monarch y ocurre H2.
-Lugares: La Almendra, Departamento de Policia de San Aurelio, Il Gelsomino, Lote Almendra, La Esquina de Mabel, Casa Comunitaria de la Almendra.
-Funcion: instalar el dia normal de Kal, la carta de Walt, el acuerdo con Keene, Matteo Bellacorte como bisagra y la invitacion al Monarch. Continua en el Capitulo 2.
+Ventana temporal: Fase 0, sabado (dia y noche: el golpe) y domingo, dia en que llegan los socios del Monarch y ocurre H2.
+Lugares: La Almendra, Departamento de Policia de San Aurelio, Il Gelsomino, Lote Almendra, caminos de servicio de Kingsley Field, empaque de Cedar Flats, La Esquina de Mabel, Casa Comunitaria de la Almendra.
+Funcion: gancho y promesa del libro: el Kal civil de dia y el Kal criminal de noche, lider de los chicos y piloto del Peugeot que la policia no atrapa. Instala la carta de Walt, el acuerdo con Keene, a Danny, a Matteo Bellacorte como bisagra y la invitacion al Monarch. Continua en el Capitulo 2.
 Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_01-03.md (seccion 9). Incluye la siembra de los papeles de Nadir (formato del condado, Kal firma por el).
 Ajuste (2026-09-29, autor, reapertura del Cap. 3): en la tumba de Michael, "Quiero que El Patio vuelva a estar en el juego" pasa a "Quiero que la Almendra vuelva a estar en el juego"; todavia no son El Patio.
 Llamada de Marisol (2026-10-08, orden del autor; prosa DISENO pendiente de lectura): en el hueco del cementerio, tras el recibo de Rafa, Marisol llama por la lista de la universidad ("NO TE PREOCUPES POR NADA DE ESTO"): necesita la mitad y Kal tiene que adivinar cual. Rescata el material de la tumba (recibo, lista, "eso lo saco de ti") sin nombrar a Michael: su nombre llega en el Cap. 6 ("Esta la ponia Michael").
@@ -14,11 +14,12 @@ Frente 3, densidad (2026-10-05, SURGERY autorizada por el autor sobre capitulo T
 Remates del narrador (2026-10-22, SURGERY autorizada por el autor sobre capitulo TERMINADO; el estado se conserva; patron de la lectura de ChatGPT del 2026-10-19): dos cortes. Fuera "la certeza de que Keene habia aceptado menos por presupuesto que por visibilidad" (tercera lectura de Keene; el dialogo ya lo mostro; queda "Eso tambien era relato") y "que en el era la manera de no contestar" (glosa de la sonrisa de Matteo; "Lo van a saber esta noche" ya no contesta).
 Rocco (2026-10-22, decision del autor: sale desde el Cap. 1; prosa DISENO pendiente de lectura; el estado se conserva): la casa de tablas que Kal nivelo, junto a la oficina, y la queja de Hector por la llave Allen que Nadir le tira al perro. Sin descripcion fisica (llega en el 5c). Siembra del momento de El Patio en Sombras de Poder. Ficha: 02_Characters/Rocco.md.
 2026-10-24: regla de dialogo 05 aplicada (cortes de eco y turnos perdidos), DISENO; aprobado por el autor. Keene: fuera "Vengo a no hacerle perder la mañana" / "Eso dicen los hombres..." / "Por eso se lo estoy diciendo..."; entra el beat del cafe frio antes de "Noventa dias para piezas". Matteo: fuera "¿Y como?"; "Lo se" se funde con "Por la cicatriz". Marisol: "Es informativa. De lo que no necesito." (fuera el eco "¿Informativa de que?" y su "Exacto"). Recepcion: fuera "Que raro.". Registro neutro: "aventar" -> "tirar" (Hector). "Ya me di cuenta" atribuida a Kal con tag.
+Reestructurado en sabado y domingo (2026-11-04, DECISIONES DEL AUTOR; prosa nueva DISENO, BORRADOR, espera lectura; antes TERMINADO; plan: 11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap01_Sabado_Y_Domingo.md). Autor: de dia el Kal civil, de noche el criminal con su banda (gancho del libro; Chiara es la evolucion); negocio neutro cerrado por vacaciones; repuestos de alto rendimiento; comprador, el corredor de piezas del norte (13_Auster); copiloto, extraccion y bloqueo; Danny llega con "el problema", falla y huye en moto; persiguen a Kal; Danny sigue consumiendo y amanece en el sillon; Nadir lo cuenta; enojo sin explosion. Aprobado: Kal hace el bloqueo con el camion mal puesto; el oficial trae el recado de Keene sobre las seis unidades. DISENO a confirmar: Hollis y Cabo; caminos de servicio de Kingsley; "Que Danny coma algo"; la pizarra del chief; once mil contra dieciocho; recibo de 6,800; 31 y 27; el Peugeot sale sobre la grua azul con Russ (Russ en cabina a oscuras, sin descripcion; su entrada sigue en el Cap. 4); Danny en la casa comun sin dialogo. Siembra de Matteo (2026-11-04, DICTADA POR EL AUTOR): el sabado Nadir le cuenta a Kal que "un tal Matias o Mateo" lo busco el viernes; cobro DISENO en la casa comun ("Mateo, entonces") y en La Esquina ("Lo busque el viernes en su taller...", aprobado por el autor). Intactos: carta, Keene, llamada a Nadir, Gelsomino, Rafa, Marisol, Mabel, Matteo. Texto retirado en Escenas_Eliminadas/README.
 -->
 
 # Capítulo 1 — Un hombre de negocios intachable
 
-Era domingo, pero San Aurelio despertaba por capas.
+Era sábado, y San Aurelio despertaba por capas.
 
 Primero los camiones de basura, pesados y malhumorados, levantaban las tapas de los callejones. Luego las persianas de metal subían una por una en la Almendra, los autobuses empezaban a escupir trabajadores en Calle Corona y el olor del pan de la mañana se mezclaba con el escape de los coches que todavía llevaban la noche pegada en los asientos. Más arriba, hacia Cuesta Bonita, las ventanas se abrían sin ruido y la ciudad fingía que el día empezaba limpio.
 
@@ -58,11 +59,13 @@ La camioneta se había ido dejando una nube de polvo detrás. Kal se quedó en l
 
 Kal volvió a leer esa parte, aunque ya la sabía de memoria. No decía que el tiempo pudiera devolverse. No decía que el juez hubiera visto la verdad. Walt había estado diez años encerrado por un crimen que no cometió; Silas Crowe había puesto la culpa donde le convenía y la ciudad había aceptado el expediente porque un expediente era más fácil de soportar que un culpable verdadero.
 
+El próximo lunes era pasado mañana. Walt la había escrito con tiempo; el correo del reclusorio se lo había gastado casi todo.
+
 La noticia le abrió demasiadas puertas a la vez.
 
 Pensó en Nadir, que habría preguntado primero cuánto costaba la libertad y después qué iban a comer. Pensó en Héctor, que no hablaba de Walt desde hacía años porque hablar de él era aceptar que seguía encerrado. Pensó en los hombres que habían ayudado a mantener la estructura de pie mientras Kal aprendía a convertir una deuda en negocio.
 
-Y pensó en Danny.
+Y pensó en Danny, porque Danny tenía que estar entero esa noche.
 
 Nadir lo había encontrado consumiendo metanfetaminas en un cuarto trasero del taller. Danny decía que era para aguantar los turnos, que podía dejarla cuando quisiera. Pero ya no eran dosis de fin de semana ni una mala decisión de madrugada. Kal había escuchado en silencio mientras Nadir hablaba. Los dos estaban preocupados; ninguno sabía todavía cómo acercarse sin hacer que Danny levantara una pared.
 
@@ -109,6 +112,18 @@ Kal tomó las llaves de la mesa.
 —Entonces el Ford aprendió a vivir con nosotros.
 
 Nadir se rió y se apartó para dejarlo pasar.
+
+—Un tal Matías o Mateo, no sé qué, un italiano, vino a buscarte ayer por la noche, pero no estabas.
+
+—¿Qué quería?
+
+—Hablar. Habló veinte minutos, khoya, y sigo sin saber qué quería.
+
+—¿Sigue lo de esta noche? —dijo, en el mismo tono del Ford.
+
+Kal ya iba en la puerta.
+
+—Que Danny coma algo.
 
 A Kal le gustaba salir al patio antes de que el día agarrara velocidad. No por costumbre sentimental. Por inventario. Revisaba lo que tenía y lo que podía fallar: llantas, cables, gasolina, el estado de ánimo de Héctor, qué vecino se había parado demasiado tiempo frente al portón. La ciudad avisaba siempre. El problema era que casi nadie escuchaba cuando el aviso todavía era pequeño.
 
@@ -226,7 +241,27 @@ Héctor soltó una risa breve.
 
 —Entonces sí estás aprendiendo.
 
-El resto de la mañana fue lo que en la Almendra pasaba por normalidad. Una señora de la calle Cedro llegó con el radiador echando vapor y un nieto dormido en el asiento de atrás. Kal le llenó el depósito, le dijo que no prendiera el aire acondicionado hasta la tarde y no le cobró. Un carnicero le pidió que le moviera una camioneta que llevaba tres días tapándole la entrada; Kal mandó a Omar y le recordó que el mes pasado alguien le había guardado cajas en una cámara fría sin hacer preguntas.
+Al enderezarse, el sobre le hizo esquina contra el pecho. Héctor tenía el trapo en el hombro y casi buen humor, y a un metro no había nadie más.
+
+Iba a querer leerla dos veces. Después iba a querer saber a qué hora, quién llevaba a quién, si a Walt le quedaban las camisas de hace diez años, y se iba a pasar el sábado entero preguntándolo y mirándole la cara a Kal mientras lo preguntaba. Héctor no preguntaba por los trabajos de noche. Contaba lo que faltaba en el patio a la mañana siguiente, y con eso le alcanzaba.
+
+Mañana, decidió Kal, cuando ya no hubiera nada que mirarle.
+
+Antes de las nueve ya había pasado por el portón lo que en la Almendra contaba como normalidad. Una señora de la calle Cedro llegó con el radiador echando vapor y un nieto dormido en el asiento de atrás. Kal le llenó el depósito, le dijo que no prendiera el aire acondicionado hasta la tarde y no le cobró. Un carnicero le pidió que le moviera una camioneta que llevaba tres días tapándole la entrada; Kal mandó a Omar y le recordó que el mes pasado alguien le había guardado cajas en una cámara fría sin hacer preguntas. Un muchacho preguntó si podían fiarle una batería hasta el lunes. Héctor le dijo que no antes de que Kal pudiera decir que sí. Kal dejó que el no se quedara en el aire treinta segundos y después apuntó el nombre del muchacho en una libreta distinta.
+
+—Te estás poniendo blando —dijo Héctor.
+
+—Estoy tomando inventario.
+
+—Eso dices cuando te pones blando.
+
+Un camión de autopartes entró al patio como si trajera porcelana y no defensas usadas, y Héctor se le plantó enfrente con la llave inglesa hasta que el chofer entendió dónde podía pararse. El hombre bajó dos cajas y le pasó a Kal la hoja para que la firmara sobre el capó.
+
+—Las otras dos me las regreso —dijo, y le dio una palmada a la lámina—. Son de Hollis, el de los repuestos de carrera, en los caminos de Kingsley. Fui a dejárselas y ya ni puerta. Cerró el jueves. Se fue a Cabo con la señora, tres semanas, y no encontró a quién dejar encargado. Se lo ofreció al sobrino y el sobrino se rió. Puso un letrero escrito a mano.
+
+—¿Oíste? —dijo Héctor, sin voltear—. El que no tiene gente, cierra.
+
+Kal le devolvió la hoja al chofer y le preguntó si quería café.
 
 Cada conversación dejaba algo.
 
@@ -270,7 +305,7 @@ Tenía la camisa perfectamente planchada, la corbata floja apenas lo suficiente 
 
 Keene señaló la silla.
 
-Kal se sentó sin acomodarse demasiado. En las paredes había diplomas, un mapa de distritos y una pizarra con turnos de patrulla escritos a mano. Nadie escribía turnos a mano si le alcanzaba el presupuesto para que el sistema funcionara.
+Kal se sentó sin acomodarse demasiado. En las paredes había diplomas, un mapa de distritos y una pizarra con turnos de patrulla escritos a mano. Nadie escribía turnos a mano si le alcanzaba el presupuesto para que el sistema funcionara. La columna del sábado estaba hasta abajo. Kal la leyó dos veces, como quien no tiene otra cosa que mirar.
 
 —Me dicen que quiere cobrarnos antes de arreglar algo —dijo Keene.
 
@@ -480,43 +515,17 @@ Kal levantó la mano sin voltear. La puerta principal tenía campanilla. La de s
 
 Confiaba más en la bisagra.
 
-Volvió al taller poco después del mediodía. El sol había subido sobre las láminas del patio y el aire olía a caucho caliente, pintura vieja y sopa recalentada. Héctor estaba junto al elevador dos, con la llave inglesa todavía en la mano, deteniendo al chofer de un camión de autopartes que había entrado al patio como si trajera porcelana y no defensas usadas.
-
-Kal esperó a que el chofer terminara de mover la camioneta. Después sacó la carta del bolsillo interior de su chaqueta de mezclilla.
-
-—Llegó esto.
-
-Héctor miró el sobre antes de mirarlo a él. El ruido del patio siguió alrededor: una llave cayendo sobre el concreto, un motor que no quería encender, Danny cerrando demasiado fuerte una puerta al fondo.
-
-Kal le tendió la carta.
-
-—Es de Walt. El juez aprobó la libertad condicional. Va a salir.
-
-Héctor tomó el papel con las dos manos. Lo leyó una vez. Luego otra, más despacio. La mandíbula se le movió como si estuviera masticando algo que no podía tragar. Cuando bajó la carta, tenía los ojos llenos de lágrimas.
-
-Se limpió la cara con el dorso de la mano, furioso con las lágrimas y demasiado cansado para esconderlas.
-
-—Gracias por contármelo, muchacho.
-
-Kal no respondió. Héctor le devolvió la carta y volvió hacia el camión, pero tardó un momento en levantar la llave inglesa. Durante esos segundos, el taller entero pareció trabajar alrededor de una ausencia que acababa de recibir fecha de regreso.
-
-Una señora volvió por el coche del radiador y dejó una bolsa de pan dulce en la oficina. Un muchacho preguntó si podían fiarle una batería hasta el lunes. Héctor le dijo que no antes de que Kal pudiera decir que sí. Kal dejó que el no se quedara en el aire treinta segundos y después apuntó el nombre del muchacho en una libreta distinta.
-
-—Te estás poniendo blando —dijo Héctor.
-
-—Estoy tomando inventario.
-
-—Eso dices cuando te pones blando.
+Volvió al taller poco después del mediodía, con las bolsas de Mabel en el asiento donde habían ido los filtros. El sol había subido sobre las láminas del patio y el aire olía a caucho caliente y pintura vieja. Comieron de pie.
 
 A las dos y diecisiete cruzó al lote de al lado.
 
 El letrero decía **Lote Almendra** con letras rojas sobre fondo blanco, demasiado nuevo para la cerca de alambre que lo sostenía. Seis coches usados, una troca con defensa de otro color y tres motos bajo un techito de lámina. No era un concesionario de los del norte de la ciudad, con globos, vidrio y vendedores que sonreían con dientes financiados. Era un pedazo de asfalto donde los coches salían con papeles limpios, motor revisado y sin letra pequeña detrás de la cual esconderse.
 
-Rafa Luna lo esperaba junto a una Honda vieja, negra, con el casco colgando del manubrio. Repartía medicinas para la farmacia de Calle Corona; llevaba seis meses pasando por el lote cada viernes, mirando esa moto como se mira una vida que todavía no alcanza.
+Rafa Luna lo esperaba junto a una Honda vieja, negra, con el casco colgando del manubrio. Repartía medicinas para la farmacia de Calle Corona; llevaba seis meses pasando por el lote cada sábado, mirando esa moto como se mira una vida que todavía no alcanza.
 
 —No vengo a molestar —dijo.
 
-—Vienes cada viernes a decir eso.
+—Vienes cada sábado a decir eso.
 
 —Esta vez traigo más.
 
@@ -548,7 +557,7 @@ El teléfono le vibró en el bolsillo cuando Rafa ya iba empujando la moto hacia
 
 —La lista. Te la mandé anoche.
 
-Kal la buscó sin colgar. Estaba debajo del recibo de la universidad que había llegado el viernes: matrícula, libros, una residencia que cobraba como si las paredes supieran leer. La lista era más corta. Dos libros de Procesal Penal, una lámpara de escritorio, unas botas, una chaqueta, un cargador. Abajo, en mayúsculas: NO TE PREOCUPES POR NADA DE ESTO.
+Kal la buscó sin colgar. Estaba debajo del recibo de la universidad que había llegado el viernes: seis mil ochocientos de matrícula, libros y una residencia que cobraba como si las paredes supieran leer. La lista era más corta. Dos libros de Procesal Penal, una lámpara de escritorio, unas botas, una chaqueta, un cargador. Abajo, en mayúsculas: NO TE PREOCUPES POR NADA DE ESTO.
 
 —Dice que no me preocupe.
 
@@ -571,6 +580,332 @@ Kal se quedó con la lista en la pantalla. Los libros, sí. La lámpara, tambié
 Eso lo había sacado de su padre. Él pedía igual: nunca lo que necesitaba, siempre de más, para que el otro escogiera.
 
 Marcó cuatro y guardó el teléfono.
+
+***
+
+La casa común de la Almendra no tenía nombre en la puerta. Nadie lo necesitaba. Era una construcción baja, de estuco cansado, con una cancha de concreto al lado, una cocina que siempre olía a comino y detergente, y tres cuartos de atrás que servían para lo que hiciera falta: dormir una noche, esconder a alguien de una borrachera mala, contar dinero, guardar cajas, cambiarse de ropa antes de ir a una habitación donde el barrio no cabía.
+
+A las diez de la noche la cancha estaba vacía. Kal cerró la puerta del cuarto de atrás y puso sobre la mesa lo que traía: una hoja de cuaderno con un dibujo a lápiz, tres radios de los de las grúas y tres máscaras de tela negra.
+
+Nadir ya estaba ahí, apoyado en la pared con un plato en la mano. Miró el reloj, miró la silla vacía y siguió comiendo.
+
+De uno de los radios salió un carraspeo.
+
+—Dijiste a las diez —dijo la voz de Russ—. Son las diez. Aquí huele a lechuga.
+
+—Espera.
+
+Danny llegó a las diez y veinte, por la cocina, con el pelo mojado y una bolsa de pan dulce abierta.
+
+—¡Jefe! Ya, ya llegué, aquí estoy, miren esto, todavía está caliente. —Dejó la bolsa encima de las máscaras y se sentó en la lavadora—. ¿Quién dirige? ¿Dirijo yo? Es broma. Hoy me siento increíble.
+
+Se sorbió la nariz. La rodilla ya le había empezado a andar sola contra la puerta de la lavadora.
+
+Nadir dejó de masticar.
+
+Kal quitó la bolsa de encima de las máscaras. Le miró los ojos a Danny como le había mirado el gancho a la grúa esa mañana: de cerca, con buena luz, buscando la marca nueva.
+
+—¿Comiste?
+
+—Traje pan.
+
+Kal miró la hoja. Si Garrett no hubiera estado en una playa, Garrett manejaba ese camión. Omar le rompía el gancho a una grúa en un día bueno. Héctor no había ido a nada de esto en su vida. Y lo que había en la hoja era un cruce, treinta metros y una moto: lo había pensado para alguien que ni siquiera tuviera que ser bueno.
+
+Nadir lo estaba mirando a él.
+
+Kal puso el dedo sobre el dibujo.
+
+—Hollis. Caminos de servicio de Kingsley, la tercera nave después de la báscula de camiones. Cerró el jueves. La alarma es de una compañía que quebró en la primavera; les remolqué dos camionetas cuando quebraron. Sábado en la noche hay dos unidades en todo el norte, y una se queda en la terminal de carga hasta las seis.
+
+—¿Eso quién lo dice?
+
+—Una pizarra.
+
+Nadir no preguntó cuál.
+
+—Tú vienes conmigo. Radio y cuentas. Entramos por atrás, doce minutos, y sólo lo que se carga con una mano: inyectores, computadoras, los turbos chicos. El corredor de piezas de Cedar Flats paga dieciocho.
+
+—Dieciocho si no te ve la prisa.
+
+—Por eso no llevamos prisa. —Kal movió el dedo—. Danny. El International del fondo, el que no tiene dueño, con una moto del lote arriba. Lo dejas aquí, a la salida del callejón entre las dos naves, con el motor prendido. Nada más. Si todo sale bien, regresas sin haber hecho nada y te vas a dormir.
+
+—¿Y si no?
+
+—Si Nadir te dice ahora, pasamos nosotros y cruzas el camión en la boca del callejón. De pared a pared. Te bajas, te subes a la moto y te vas por el otro lado. No me esperas. No me llamas.
+
+—De pared a pared. —Danny abrió los brazos—. Jefe, yo te cruzo ese camión con los ojos cerrados.
+
+—Abiertos. —Kal levantó el radio—. Russ. Tú atrás del empaque, con la azul. Si no te llamo, ni la prendes.
+
+—Eso dijiste la última vez —dijo la voz—. Volví con una pierna menos de lo que me fui.
+
+Nadir limpió el plato con un pedazo de pan de la bolsa de Danny.
+
+—La carga en el Peugeot. Todo el norte conoce ese coche, khoya. La Jeep no la mira nadie.
+
+—La Jeep no dobla.
+
+Kal tomó una máscara y le lanzó otra. Olían a detergente.
+
+***
+
+De noche, los caminos de servicio de Kingsley eran una lámpara de sodio cada doscientos metros y un olor a combustible que subía desde la pista. Naves de lámina, patios de contenedores, la báscula apagada. Kal dejó el Peugeot detrás de la tercera nave, con la nariz hacia afuera.
+
+El letrero estaba en la puerta de enfrente, escrito con marcador: REGRESO EL 28. GRACIAS POR SU PACIENCIA. En la Almendra Kal no le habría tocado la caja ni a un puesto de tacos. Hollis vendía turbos a los hijos de los dentistas de Cuesta Bonita, y los vendía caros.
+
+La cerradura de atrás la abrió con el mismo juego de ganzúas con que abría coches de señoras que dejaban las llaves puestas. Adentro olía a cartón nuevo y a aceite sin usar. Nadir iba por los anaqueles con la linterna entre los dientes y la sacaba para hablar.
+
+—Cuatro mil. Cuatro mil seiscientos. Wallah, este hombre vende aire en cajas bonitas. Seis.
+
+—Lo que se carga con una mano.
+
+—Tengo dos manos, khoya.
+
+A los once minutos el asiento de atrás del 106 estaba lleno hasta el techo. Nadir se subió con una caja de inyectores en las rodillas y el radio encima. Kal cerró la puerta de la nave y le pasó el seguro, porque un hombre que regresa el 28 merece encontrar su puerta cerrada.
+
+En el tablero, la frecuencia de la policía murmuraba como todas las noches. Las grúas vivían de oírla. Kal metió primera con las luces apagadas.
+
+—*...treinta y uno, me muevo a la báscula, aquí no pasa nada...*
+
+—Ésa no se mueve hasta las seis —dijo Nadir.
+
+—No.
+
+Los faros aparecieron al final del camino de servicio, sin prisa, y pasaron de largo frente a la tercera nave. Después se detuvieron. Una lámpara de mano salió por la ventanilla, recorrió la lámina y llegó hasta un pedazo de coche rojo.
+
+—*Central. Tengo al Peugeot. Sí, ése.*
+
+Kal encendió las luces.
+
+—Ahora.
+
+—Danny —dijo Nadir al radio—. Ahora. Yallah, ahora.
+
+El callejón entre las dos naves tenía cuatrocientos metros y el ancho de un tráiler y medio. Kal entró a fondo en segunda, con los turbos de Hollis golpeándole el respaldo. Detrás, la torreta prendió y le llenó de azul los espejos.
+
+—*¡Ya voy, jefe! ¡Ya, ya! Pesa, este animal, ¿sabes lo que pesa? Hay que...* —Una risa. El motor del International se oía por el radio, demasiado acelerado, sin enganchar—. *Ya, ya está.*
+
+—Danny, la boca. La boca del callejón.
+
+No estaba en la boca. Kal salió del callejón a la avenida de Carga y lo vio treinta metros a la derecha, donde no servía para nada: el camión había brincado hacia adelante y seguía rodando, en diagonal, hasta que le dio con la nariz a un poste y se quedó ahí, con la caja atravesada en la mitad de una avenida por la que nadie iba a pasar.
+
+Kal dobló a la izquierda.
+
+En el espejo vio caer una moto por dos tablas. Vio a alguien montarla sin casco, con la máscara todavía puesta, darle la vuelta al camión por el hueco que quedaba contra la tapia y perderse hacia el otro lado con una sola luz roja. La patrulla salió del callejón a la avenida con todo el espacio del mundo.
+
+—*Hay una moto, Central, hay una...*
+
+—*El Peugeot. Quédate con el Peugeot.*
+
+La torreta dobló a la izquierda.
+
+—Danny —dijo Nadir—. Danny. —Soltó el botón. Ya no estaba haciendo cuentas—. Se fue, khoya.
+
+—Eso le dije.
+
+La avenida de Carga era una recta, y en una recta el 106 no tenía nada que hacer contra un ocho cilindros. La torreta creció en el espejo sin ningún esfuerzo.
+
+—Viene.
+
+—¿Qué número dijo?
+
+—¿Qué?
+
+—El número, Nadir.
+
+—Treinta y uno.
+
+Crown Victoria. A esa unidad Kal le había cambiado las pastillas de freno en marzo, por rotación, y había escrito en la hoja que le duraban dos meses. Dejó el pie donde estaba. Llevó la recta completa hasta la báscula, con el motor pidiendo otra cosa y la nariz de la patrulla a dos largos, a uno, y clavó el freno donde no había ninguna razón para hacerlo. El Peugeot se sentó sobre las llantas de adelante, entró a la curva de la báscula y salió.
+
+Detrás, a través de dos vidrios, oyó el chillido que le había vendido al chief a las nueve de la mañana. La Crown Victoria siguió derecho, larga, entera, hasta el patio de contenedores.
+
+—Hamdulillah —dijo Nadir, sin aire.
+
+—No.
+
+El radio ya tenía otra voz: veintisiete, bajando de la carretera, tomando la avenida por el otro lado. Kal no necesitó preguntar. Era la otra Crown Victoria, y de las cuatro que no pasaban lluvia fuerte era la peor. Esa noche no llovía en todo el condado. Pero a cuarenta metros estaba el lavado de tráileres, abierto de costado, con el concreto brillando de agua y jabón bajo una sola lámpara.
+
+Lo cruzó a la velocidad que el coche aguantaba, con las llantas buscando y encontrando. La veintisiete entró detrás de él como entra un hombre seguro a una cocina recién trapeada. Se fue de lado, despacio, sin que nadie pudiera hacer nada por ella, y se quedó besando una fila de conos.
+
+Quedaba la treinta y uno, que ya había encontrado cómo salir del patio de contenedores y venía otra vez, enojada, por la avenida. Quedaba también el camino hasta Cedar Flats, con esa torreta en el espejo y Hollis entero en el asiento de atrás.
+
+Kal volvió a tomar la avenida de Carga. Hacia el poste.
+
+Nadir tardó en entender. Después miró al frente, y a Kal, y otra vez al frente, donde el International seguía atravesado bajo una lámpara de sodio, con el motor prendido y las tablas en el suelo.
+
+—Khoya.
+
+—¿Cuánto dejó? Entre la caja y la tapia.
+
+—¿Tú me preguntas? ¡Yo venía rezando!
+
+Por ahí había pasado una moto. Kal lo había visto de reojo, en un espejo, a treinta metros, y lo que había visto era un metro setenta, quizá, con la tapia un poco más cerca arriba que abajo. La Crown Victoria medía dos. El 106 no llegaba a uno sesenta. Esa cuenta la hacía todos los días con una grúa, para meter un gancho entre dos coches mal estacionados.
+
+—Mete tu espejo.
+
+—¿Qué?
+
+—El espejo, Nadir.
+
+Nadir bajó el vidrio y lo dobló con la mano, con los inyectores en las rodillas.
+
+La treinta y uno venía encima. Kal la dejó venir: necesitaba que el hombre del volante viera un coche, un camino y nada más. Levantó el pie apenas lo necesario para acomodar la nariz. La caja del International llegó por la derecha, enorme, llena de óxido. La tapia llegó por la izquierda. El ruido del motor se le vino encima, doble, y algo le pasó a lo largo de la puerta de Nadir con un sonido de uña sobre un plato.
+
+Salieron.
+
+El chillido duró más que la primera vez. En el espejo que le quedaba, Kal vio la Crown Victoria detenerse de nariz, a un metro de la caja, con la torreta girando contra el óxido. Una puerta se abrió. Nadie iba a mover aquello esa noche.
+
+—*Central, hay un camión. Hay un camión atravesado en Carga.*
+
+—*¿Qué camión?*
+
+Kal bajó el volumen.
+
+Dobló por el primer camino de tierra que se fue hacia el norte, apagó las luces y dejó que los ojos se le acostumbraran. Nadir se quedó callado casi un kilómetro. Después desdobló su espejo, sacó la mano y pasó los dedos por la puerta, a ciegas, hasta donde alcanzó.
+
+—Eso sí lo arregla la pintura —dijo.
+
+Le temblaba la voz. Kal no contestó. Nadir levantó el radio.
+
+—Danny.
+
+Sólo estática.
+
+***
+
+El empaque estaba a un lado de la carretera de Cedar Flats, entre dos campos que olían a lechuga y a riego. La cortina de lámina subió lo justo para el Peugeot y bajó detrás de él, y ahí adentro, bajo un tubo de luz, el corredor de piezas abrió las cajas una por una en una mesa de seleccionar verdura. Era un hombre de chaleco, con lentes colgados del cuello, que no se los puso. No preguntó de dónde venía nada. Tenía una libreta en la mesa y no la abrió.
+
+—Once.
+
+—Dijiste dieciocho —dijo Nadir.
+
+—Dije dieciocho por lo que llegara el martes en una camioneta, sin golpes.
+
+—Diecisiete, y te dejo las computadoras en su caja, que es lo que le vas a vender al de...
+
+El hombre señaló con la barbilla hacia el Peugeot. Kal había dejado la puerta abierta, y por ella salía, bajito, una voz dando un número de unidad.
+
+—Traen a medio condado buscando un coche rojo, y lo traen metido en mi empaque. Once.
+
+Nadir abrió la boca para seguir, y miró a Kal.
+
+—Cuéntalo —dijo Kal.
+
+Salió de una lata de galletas. Nadie firmó nada.
+
+Russ estaba atrás del empaque, con la azul y las luces apagadas. No se bajó. Kal subió el Peugeot a la plataforma él mismo, amarró las cuatro esquinas y lo tapó con la lona, y le pasó la mano a la raya de la puerta antes de cubrirla. Era larga. Después se subió a la cabina, en medio, y Russ arrancó sin preguntar nada, aunque contó con la vista a los que subían y se quedó un momento mirando el asiento que sobraba.
+
+En la carretera vieja se les cruzó una torreta, a toda velocidad, en sentido contrario. El oficial miró la grúa azul como se mira un poste. Traía logo municipal en la puerta.
+
+Nadir contaba sobre las rodillas.
+
+—Once. Dos para Russ. Dos para mí. —Se detuvo—. Danny.
+
+—Dos.
+
+Nadir lo miró, y apartó dos.
+
+—Quedan cinco, khoya.
+
+Cinco. A la universidad le faltaban mil ochocientos. Nadir volvió a sacar el teléfono y marcó, y Kal oyó desde su lado cómo entraba directo al buzón.
+
+—Y el camión —dijo Russ.
+
+Era lo primero que decía desde Cedar Flats. Nadie le contestó. Nadir marcó otra vez.
+
+***
+
+El domingo, Nadir lo esperaba en la puerta de la oficina con dos vasos de café y sin carpeta.
+
+—Está en el sillón.
+
+Kal tomó un vaso. Había dormido tres horas.
+
+—Yo no pude dormir, vine a ver si había llegado la moto. A las cinco. Había llegado, tirada junto a los bidones. Y él atrás, despierto, riéndose solo. Me contó la persecución entera, khoya, la que no vio, con los ruidos. Le dije que se durmiera. Me dijo que no podía, que traía el cuerpo prendido. —Nadir no estaba haciendo nada con la mano libre—. Y se metió más, enfrente de mí, para bajarse de lo que traía. A las seis se apagó. Lo puse de lado. Le conté la respiración: dieciséis. A las siete, catorce.
+
+Detrás del taller, bajo un techito de lámina, junto a la cerca de las carrocerías, había un sillón de tres plazas que había llegado dentro de una camioneta embargada y que nadie había reclamado nunca. Danny dormía ahí con la boca abierta y una bota puesta. La máscara le asomaba del bolsillo. Rocco se había echado contra el sillón con la cabeza afuera, sobre las patas; abrió un ojo, comprobó que Kal no traía nada de comer y lo volvió a cerrar.
+
+De pared a pared, le había dicho.
+
+Kal se quedó parado con el café. Danny tenía los labios secos y una costra nueva en la nariz. Treinta años, y a esa distancia parecía de quince o de cincuenta. El pecho le subía y le bajaba. Kal contó sin haberlo decidido, y llegó a catorce, y apretó el vaso hasta que la tapa brincó y el café le corrió caliente por la mano.
+
+Le sacó la máscara del bolsillo. Fue hasta la moto, tomó la llave del contacto y la colgó en el clavo junto a la puerta de la oficina, con las otras.
+
+—Cuando despierte, que coma.
+
+—¿Y ya?
+
+—Y ya.
+
+—Khoya, nos pudo...
+
+—Ya sé.
+
+Nadir miró hacia el sillón. Se le movió la mandíbula, buscando un número que decir, y no lo encontró.
+
+—Le guardo sopa —dijo, y se fue a buscar una manta.
+
+Héctor llegó a las ocho y fue directo al fondo. Kal lo encontró del otro lado de la cerca de lámina, con la llave inglesa en la mano, mirando un rectángulo de tierra más oscura, sin aceite encima, del tamaño de un International.
+
+Héctor no levantó la vista.
+
+—Aquí había un camión.
+
+Kal sacó la carta del bolsillo interior de su chaqueta de mezclilla.
+
+—Llegó esto.
+
+Héctor miró el sobre antes de mirarlo a él. El ruido del patio siguió alrededor: una llave cayendo sobre el concreto, un motor que no quería encender.
+
+Kal le tendió la carta.
+
+—Es de Walt. El juez aprobó la libertad condicional. Va a salir. Mañana.
+
+Héctor tomó el papel con las dos manos. Lo leyó una vez. Luego otra, más despacio. La mandíbula se le movió como si estuviera masticando algo que no podía tragar. Cuando bajó la carta, tenía los ojos llenos de lágrimas.
+
+Se limpió la cara con el dorso de la mano, furioso con las lágrimas y demasiado cansado para esconderlas.
+
+—Gracias por contármelo, muchacho.
+
+Kal no respondió. Héctor le devolvió la carta y echó a andar hacia el elevador dos, pero tardó un momento en levantar la llave inglesa. Durante esos segundos, el taller entero pareció trabajar alrededor de una ausencia que acababa de recibir fecha de regreso.
+
+—Y el camión —dijo, ya de espaldas.
+
+—Se arregla.
+
+El teléfono de la oficina sonó a las nueve y diez. Era el despacho municipal, con la voz de domingo de alguien que ya quería irse: le tocaba a Almendra Towing por rotación, un camión abandonado en la avenida de Carga, junto a Kingsley, estorbando desde anoche. Lo querían fuera antes de las once.
+
+—Yo voy —dijo Kal.
+
+Se llevó la dos, la única con cable para esa carga. De día, los caminos de servicio eran tráileres y polvo. Pasó frente a la tercera nave sin bajar la velocidad; el letrero seguía en su puerta.
+
+La Crown Victoria treinta y uno estaba estacionada junto al International, con un oficial joven sentado de lado en el asiento, las botas afuera y cara de haber pasado la noche ahí. Levantó el vaso cuando Kal se bajó.
+
+—Mercer. Para esto sí llega temprano.
+
+—Me llamaron.
+
+Kal rodeó el camión con el cable al hombro. El motor se había apagado solo, sin diésel. Las tablas seguían en el suelo. En la esquina trasera de la caja, a la altura de una puerta, había una raya fresca de pintura roja de un palmo de largo. Se agachó ahí para buscar dónde enganchar, y se limpió la mano en ella.
+
+—¿Ya supo? Anoche ese cochecito nos paseó por toda la zona de carga. Mi compañero acabó de costado en el lavado de tráileres. —El oficial le dio un trago al vaso—. Y este animal en medio de todo. Sin placas, con un número de serie de una empacadora que cerró hace quince años. Yo digo que el del Peugeot tiene amigos.
+
+—Va al corralón. Resguardo temporal, hasta que alguien lo reclame.
+
+—Nadie lo va a reclamar.
+
+Kal sacó la hoja del tablero y la puso sobre el capó de la Crown Victoria. *Servicio municipal. Retiro de vehículo.* Doscientos cuarenta dólares, más millaje. El oficial firmó donde le señaló el dedo.
+
+—Y ya que vino. El chief no durmió, anda de un humor... Me dijo que se lo dijera si lo veía: las seis unidades, el martes a las diez, sin falta, y que empiece por ésta. —Golpeó el techo con los nudillos—. Frenos. Todo nuevo. Dice que a ese cabrón lo vamos a alcanzar con su contrato.
+
+Kal dobló su copia en dos.
+
+—Se arregla.
+
+Tensó el cable, levantó el International por la nariz y se lo llevó. En la primera señal del camino de servicio, por el espejo, vio arrancar a la treinta y uno detrás de él y frenar para el alto, con el mismo chillido. El martes a las diez iba a entrar a su taller, y él iba a dejársela frenando como nueva.
+
+Ya lo había firmado.
+
+Danny despertó a las tres. No fue a buscar a Kal. Nadir le puso enfrente la sopa y la dejó enfriar.
 
 ***
 
@@ -636,7 +971,7 @@ Kal señaló la silla frente a él con los dedos juntos.
 
 Matteo se sentó. Mabel miró a Kal, luego a Matteo, luego otra vez a Kal. No preguntó. Dejó otra servilleta sobre la mesa, que en su idioma significaba *te estoy viendo*, y volvió a cerrar recipientes.
 
-—Me dijeron que usted resuelve problemas de coches —dijo Matteo—. Me dijeron muchas cosas, en realidad. Un proveedor del puerto, un valet que trabajó en La Isla, un hombre muy aburrido del Ayuntamiento que me habló cuarenta minutos de aceras. Todos terminaban igual: si quiere que algo se mueva en esta ciudad sin hacer ruido, hable con Mercer. El del Ayuntamiento lo dijo en voz baja, que en él ya es un elogio.
+—Me dijeron que usted resuelve problemas de coches —dijo Matteo—. Me dijeron muchas cosas, en realidad. Un proveedor del puerto, un valet que trabajó en La Isla, un hombre muy aburrido del Ayuntamiento que me habló cuarenta minutos de aceras. Todos terminaban igual: si quiere que algo se mueva en esta ciudad sin hacer ruido, hable con Mercer. El del Ayuntamiento lo dijo en voz baja, que en él ya es un elogio. Lo busqué el viernes en su taller. Me atendió un señor muy amable. En veinte minutos terminé diciéndole cuánto pagué por estos zapatos, y él no me dijo dónde estaba usted.
 
 Kal abrió la tapa de una taza de café que Mabel le había puesto enfrente sin consultarlo.
 
@@ -685,6 +1020,8 @@ Mabel salió de atrás del mostrador con un recipiente abierto y lo plantó fren
 —Primero comes. Después haces negocios. Así no.
 
 Kal la miró. Luego tomó el tenedor de plástico y comió. Matteo lo vio obedecer como quien anota una cifra, y Rafa Luna, desde su mesa, también: el muchacho no le quitó los ojos de encima hasta que Kal dio el segundo bocado.
+
+Masticó. La noche anterior había puesto a cuatro hombres, un camión y su coche en los caminos de Kingsley por cinco mil dólares, y uno de los cuatro le había costado catorce respiraciones por minuto en un sillón. Traía en la camisa una factura de doscientos cuarenta. Enfrente, Matteo le daba vueltas a su taza, con coleccionistas y sábados a las dos de la mañana, sin una sola máscara en toda la frase.
 
 —¿Qué quiere esta noche? —preguntó Kal con la boca medio llena.
 
@@ -762,9 +1099,7 @@ Mabel volvió a limpiar una mancha que no existía.
 
 —Llévate las tortillas.
 
-La casa común de la Almendra no tenía nombre en la puerta. Nadie lo necesitaba. Era una construcción baja, de estuco cansado, con una cancha de concreto al lado, una cocina que siempre olía a comino y detergente, y tres cuartos de atrás que servían para lo que hiciera falta: dormir una noche, esconder a alguien de una borrachera mala, contar dinero, guardar cajas, cambiarse de ropa antes de ir a una habitación donde el barrio no cabía.
-
-Kal llegó con las bolsas de Mabel y las dejó sobre la mesa larga. Dos adolescentes que estaban haciendo tarea desaparecieron hacia la cocina con la velocidad de quien sabe que la comida caliente tiene prioridad sobre el álgebra. Héctor estaba en el patio trasero hablando con alguien por teléfono. Danny dormía en una silla con la gorra sobre los ojos. Nadie preguntó por el casino.
+Kal llegó a la casa común con las bolsas de Mabel y las dejó sobre la mesa larga. Dos adolescentes que estaban haciendo tarea desaparecieron hacia la cocina con la velocidad de quien sabe que la comida caliente tiene prioridad sobre el álgebra. Héctor estaba en el patio trasero hablando con alguien por teléfono. Danny estaba sentado en la orilla de la mesa, bañado, con la gorra puesta, sin mover la rodilla. Levantó la cara cuando Kal entró y abrió la boca. Kal le puso enfrente un recipiente y siguió de largo. Nadie preguntó por el casino.
 
 Nadir sí preguntó, pero lo hizo cuando ya no había nadie más en el pasillo.
 
@@ -784,7 +1119,7 @@ Nadir apoyó el hombro en la pared, con esa manera suya de parecer cómodo justo
 
 —Matteo Bellacorte. Socio.
 
-—Eso no responde cuánto sabe.
+—Mateo, entonces. —Nadir asintió una vez—. Eso no responde cuánto sabe.
 
 Kal abrió el clóset.
 
@@ -838,4 +1173,4 @@ Nadir se apartó de la puerta.
 
 —Claro. El de los negocios.
 
-Kal pasó junto a él y salió por la cocina, no por la puerta principal. Afuera, el Peugeot rojo esperaba bajo una farola que todavía no encendía. Pequeño, bajo, absurdo para un casino y exacto para él.
+Kal pasó junto a él y salió por la cocina, no por la puerta principal. Afuera, el Peugeot rojo esperaba bajo una farola que todavía no encendía, con una raya nueva a lo largo de la puerta derecha. Pequeño, bajo, absurdo para un casino y exacto para él.

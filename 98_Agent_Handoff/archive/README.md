@@ -95,3 +95,11 @@ Copias íntegras antes de compactar el relevo (el brief medía ~1,400 palabras; 
 
 - [[98_Agent_Handoff/archive/2026-10-29_CURRENT_BRIEF|Brief acumulado]].
 - [[98_Agent_Handoff/archive/2026-10-29_PENDING|Pendientes]].
+
+## Corte del 2026-11-04
+
+Copias íntegras antes de compactar:
+
+- [[98_Agent_Handoff/archive/2026-11-04_CURRENT_BRIEF|Brief acumulado]].
+- [[98_Agent_Handoff/archive/2026-11-04_PENDING|Pendientes]].
+- [[98_Agent_Handoff/archive/2026-11-04_DECISIONS_retiradas|Decisiones retiradas]].

@@ -2,6 +2,10 @@
 
 Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]. Archivar entradas antiguas antes de retirarlas.
 
+## 2026-11-04 — Cap. 1 en sábado y domingo
+
+**DECISIÓN DEL AUTOR:** el Cap. 1 abarca sábado y domingo. De día el Kal civil; de noche roba una tienda neutra cerrada por vacaciones, Danny falla el bloqueo drogado y huye en moto, y la policía persigue al Peugeot. Chiara es la evolución de esa promesa. Comprador: el corredor de piezas del norte. Ejecutado en BORRADOR: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap01_Sabado_Y_Domingo]].
+
 ## 2026-11-04 — El favor de Nadir
 
 **DECISIÓN DEL AUTOR:** la ruleta vuelve al Cap. 7 como primer encuentro con los chicos, con crupier y fuera de foco; ellos sólo ven esa sala, Kal todo el penthouse. En Gabriella's Chiara le ofrece un favor a Nadir; tras la ruptura lo cobra para que Danny monte. Kal se entera de Vento por los chicos, no por ella (Cap. 11). Supersede lo del 2026-11-03 en esos puntos. [[98_Agent_Handoff/sessions/2026-11-04_claude_favor_nadir_vento]].
@@ -29,7 +33,3 @@ Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces 
 ## 2026-10-31 — Parte I: la unión invisible y los ojos
 
 **DECISIÓN DEL AUTOR:** la columna de la Parte I es la unión invisible y tres ojos que se acercan (Monarch/Varek como reloj, Palermo, el pasado de Kal). **CANON DEL AUTOR:** Tommaso le comenta a Chiara la misa para Alessio y eso lleva a «¿todavía cabalgas los domingos?»: la señal del corral, sin culpa total. **CANON DEL AUTOR:** H13 pasa a cerrar la Parte I como capítulo propio tras el 25. Valenti entrega en persona el pañuelo y la bala en una residencia elegante; Chiara venía de encender una vela en Santa Lucía para calmar el miedo a perder el círculo del 24–25 (eco de Marta, Cap. 17), con una sola línea de oración: «Grazie.» (gracias, no petición; lo exigen el 39 y el 59). Escalones en estudio. Fuente: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Rediseno_Parte_I]].
-
-## 2026-10-31 — Carretera del Libro I: candidatos a Escenas eliminadas
-
-**DECISIÓN DEL AUTOR:** salen a *Escenas eliminadas* los Caps. 14 *El farol*, 16 *Por su cuenta* y 23 *Lo que nadie estaba mirando*; se fusionan el 6 *Sin llamar a nadie* (con el 5 o el 7) y el 28–29 (Hoover, en uno). El arco de Walt (licencia, torneo, condicional, pub) queda suspendido en el Libro I y es candidato a *Sombras de Poder*. Renumeración sólo cuando la carretera quede armada. Archivos movidos a `Escenas_Eliminadas/`. Fuente: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Carretera_Libro_I]].
