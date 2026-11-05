@@ -2,23 +2,28 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-04 20:31. Al día: 56 de 56.
+Actualizada: 2026-11-05 11:59. Al día: 52 de 56.
 
 ## Pendientes
 
-Ninguno: todos los audios corresponden a la prosa actual.
+| Cap. | Título | Estado | Motivo | Desde |
+|---|---|---|---|---|
+| 1 | Un hombre de negocios intachable | PENDIENTE | cambió la prosa | 2026-11-05 11:59 |
+| 3 | Los viejos días | PENDIENTE | cambió la prosa | 2026-11-05 11:59 |
+| 7 | Ambos | PENDIENTE | cambió la prosa | 2026-11-05 11:59 |
+| 15 | La regla del teléfono | PENDIENTE | cambió la prosa | 2026-11-05 11:59 |
 
 ## Capítulos
 
 | Cap. | Título | Estado | Audio generado |
 |---|---|---|---|
-| 1 | Un hombre de negocios intachable | AL DIA | 2026-11-04 |
+| 1 | Un hombre de negocios intachable | PENDIENTE | 2026-11-04 |
 | 2 | Demasiado listo | AL DIA | 2026-11-04 |
-| 3 | Los viejos días | AL DIA | 2026-11-04 |
+| 3 | Los viejos días | PENDIENTE | 2026-11-04 |
 | 4 | Tarifa nocturna | AL DIA | 2026-11-04 |
 | 5 | Cliente y proveedor | AL DIA | 2026-11-03 |
 | 6 | La pizza de calabaza | AL DIA | 2026-11-04 |
-| 7 | Ambos | AL DIA | 2026-11-04 |
+| 7 | Ambos | PENDIENTE | 2026-11-04 |
 | 8 | La noche del ladrillo | AL DIA | 2026-11-04 |
 | 9 | La carrera de máscaras | AL DIA | 2026-11-04 |
 | 10 | La teniente | AL DIA | 2026-11-01 |
@@ -26,7 +31,7 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | 12 | Dos sillas vacías | AL DIA | 2026-11-01 |
 | 13 | Roma Atrii | AL DIA | 2026-11-01 |
 | 14 | Auster | AL DIA | 2026-11-01 |
-| 15 | La regla del teléfono | AL DIA | 2026-11-01 |
+| 15 | La regla del teléfono | PENDIENTE | 2026-11-01 |
 | 16 | Yo lo llevo | AL DIA | 2026-11-01 |
 | 17 | El sobre rojo | AL DIA | 2026-11-01 |
 | 18 | Le quedé debiendo | AL DIA | 2026-11-01 |
@@ -71,6 +76,10 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Historial
 
+- 2026-11-05 11:59 · Cap. 15 (14_La_Regla_Del_Telefono.md) · audio pendiente: cambió la prosa
+- 2026-11-05 11:59 · Cap. 7 (06_Ambos.md) · audio pendiente: cambió la prosa
+- 2026-11-05 11:59 · Cap. 3 (03_Los_Viejos_Dias.md) · audio pendiente: cambió la prosa
+- 2026-11-05 11:59 · Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md) · audio pendiente: cambió la prosa
 - 2026-11-04 20:31 · Cap. 4 (04_Tarifa_Nocturna.md) · audio regenerado
 - 2026-11-04 20:26 · Cap. 3 (03_Los_Viejos_Dias.md) · audio regenerado
 - 2026-11-04 20:22 · Cap. 2 (02_Demasiado_Listo.md) · audio regenerado

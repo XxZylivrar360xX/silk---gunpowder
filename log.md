@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-05: [[98_Agent_Handoff/sessions/2026-11-05_claude_marisol_y_duelo_caps01_03]] · DECISIÓN DEL AUTOR: Walt ya sabe de Jim; Marisol abre el Cap. 1; Cap. 3 en duelo de familia.
 - 2026-11-04: [[98_Agent_Handoff/sessions/2026-11-04_claude_cap01_sabado_y_domingo]] · Cap. 1 en sábado y domingo (BORRADOR). Reporte previo: [[98_Agent_Handoff/sessions/2026-11-04_claude_regla06_caps01_03]]
 - 2026-11-04: [[98_Agent_Handoff/sessions/2026-11-04_claude_detalles_caps02_03]] · Caps. 2–3: continuidad (orden, sala, teléfono, audiencia); 7 detalles esperan al autor.
 - 2026-11-04: [[98_Agent_Handoff/sessions/2026-11-04_claude_favor_nadir_vento]] · DECISIÓN DEL AUTOR: la ruleta vuelve al Cap. 7 como primer encuentro (H2-b restaurado); Chiara le ofrece un favor a Nadir en Gabriella's, que él cobra tras la ruptura para que Danny monte a Vento; Kal lo sabe sin que ella se lo diga (Cap. 11). DISEÑO, espera lectura.
@@ -33,7 +34,6 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 - 2026-10-29: [[98_Agent_Handoff/sessions/2026-10-29_claude_renumeracion_60]] · Libro I renumerado a 60 caps. por orden del autor: *Por su cuenta* (12b) = Cap. 16; antiguos 16–59 → 17–60. La prosa del 12b sigue en BORRADOR.
 - 2026-10-29: [[98_Agent_Handoff/sessions/2026-10-29_claude_surgery_farol_por_su_cuenta]] · Cirugía de *El farol* y *Por su cuenta* (reporte ChatGPT). Decisiones del autor: audiencia con juez = licencia consciente (Oregon); el bar abre cuando llega la licencia; suministro destilería→Monarch = ficción del mundo. Siguen en BORRADOR.
 - 2026-10-29: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/00_Plan_Arco_Walt_Condicional]] · Continuidad con el Cap. 5 (Walt jugó en la apertura del Monarch, 140 dólares): en *El farol* es el antecedente sin papel y el origen de los cerillos; en *Por su cuenta*, Kal reconoce la verdad a medias de Walt ante la fiscal y calla. Cap. 5 sin tocar.
-- 2026-10-29: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/11_El_Farol]] · Cap. 14 *El farol* reescrito (BORRADOR) sobre el plan del arco de Walt: licencia negada y sociedad, discusión Nat–Walt, torneo secreto («invitado de la dirección»), Tommaso no cobra. Fichas de Walt, Tommaso y destilería actualizadas.
 
 ## Historial
 

@@ -2,6 +2,10 @@
 
 Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]. Archivar entradas antiguas antes de retirarlas.
 
+## 2026-11-05 — Walt ya sabe de Jim; Marisol abre el Cap. 1
+
+**DECISIÓN DEL AUTOR:** supersede el canon del 2026-09-26: Walt sabe que Jim murió, por Natalie. Kal nunca lo visitó por miedo a la pregunta (defecto: proteger ocultando). Cap. 3 en duelo de familia. Marisol, primera interacción del Cap. 1, en persona. Carta: «Ojalá que mis dos hijos pudieran estar ahí.» Sesión: [[98_Agent_Handoff/sessions/2026-11-05_claude_marisol_y_duelo_caps01_03]].
+
 ## 2026-11-04 — Cap. 1 en sábado y domingo
 
 **DECISIÓN DEL AUTOR:** el Cap. 1 abarca sábado y domingo. De día el Kal civil; de noche roba una tienda neutra cerrada por vacaciones, Danny falla el bloqueo drogado y huye en moto, y la policía persigue al Peugeot. Chiara es la evolución de esa promesa. Comprador: el corredor de piezas del norte. Ejecutado en BORRADOR: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap01_Sabado_Y_Domingo]].
@@ -29,7 +33,3 @@ Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces 
 ## 2026-10-31 — Carretera: arco legal de Hoover y Nat
 
 **DECISIÓN DEL AUTOR (ejecutada 2026-11-01, [[98_Agent_Handoff/sessions/2026-11-01_claude_fusion_bajo_juramento]]):** los Caps. 28–29 se fusionan **y reducen** en *Bajo juramento* (~3,000 palabras), sin salir del libro. Se conservan «mi... amigo», la mentira de Tommaso, Rivers/Connors, la media hoja a Krane y la escalinata. La videollamada de los tomates (escena eliminada del 19: Chiara se ríe sin medirse y nombra a Rivers) abre el fusionado. La moto de Nadir pasa al Cap. 30 (24b). Hoover es socio **del lote**. Una línea cobra el rumor de Hoover en el Monarch (05c), sin explicar a Tommaso. Nat: se corta su cameo en el Cap. 46 (archivo 37). [[98_Agent_Handoff/sessions/2026-10-31_claude_carretera_libro_i]].
-
-## 2026-10-31 — Parte I: la unión invisible y los ojos
-
-**DECISIÓN DEL AUTOR:** la columna de la Parte I es la unión invisible y tres ojos que se acercan (Monarch/Varek como reloj, Palermo, el pasado de Kal). **CANON DEL AUTOR:** Tommaso le comenta a Chiara la misa para Alessio y eso lleva a «¿todavía cabalgas los domingos?»: la señal del corral, sin culpa total. **CANON DEL AUTOR:** H13 pasa a cerrar la Parte I como capítulo propio tras el 25. Valenti entrega en persona el pañuelo y la bala en una residencia elegante; Chiara venía de encender una vela en Santa Lucía para calmar el miedo a perder el círculo del 24–25 (eco de Marta, Cap. 17), con una sola línea de oración: «Grazie.» (gracias, no petición; lo exigen el 39 y el 59). Escalones en estudio. Fuente: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Rediseno_Parte_I]].

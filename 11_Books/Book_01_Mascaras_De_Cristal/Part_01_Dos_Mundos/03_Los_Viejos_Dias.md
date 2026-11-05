@@ -5,7 +5,7 @@ POV: Kal, unico. Chiara no aparece (su bloque paso integro al Cap. 4).
 Ventana temporal: Fase 0, lunes, manana posterior a H2. De las 10:00 (salida de Walt) al anochecer (salida al trabajo).
 Lugares: taller de Almendra Towing, carcel del condado, cementerio de Santa Lucia, La Almendra, casa comun.
 Nucleo (autor, 2026-09-29): un hombre que acaba de salir de una celda vuelve a un mundo que cambio mucho mientras no estaba. El capitulo es de Walt, no de Keene.
-Secuencia: Keene solo como titular -> carcel (Nat ya esta ahi: estuvo en la audiencia) -> cementerio inmediatamente despues (Kal no deja pasar mas tiempo) -> la Almendra, donde Nat esta en casa aunque no viva ahi -> Walt conoce a Nadir y Danny (Danny consume y lo disfraza de emocion; empieza a mentir) -> Nat se va a su turno de las 14:00 -> Kal plantea el trabajo -> se alistan de negro, con mascaras, y salen. En el alistamiento, Nadir cuenta que "el otro dia" Varek fue a buscar a Kal al porton y no dijo para que (canon del autor, 2026-09-29); Kal recupera la advertencia del antiguo porche ("Cuidense de Dario Varek...", "¿Le debes algo?" / "Todavia no"), ahora dirigida a Nadir y Danny.
+Secuencia: Keene solo como titular -> carcel (Nat ya esta ahi: estuvo en la audiencia) -> cementerio inmediatamente despues (primera vez de Walt ante la tumba) -> la Almendra, donde Nat esta en casa aunque no viva ahi -> Walt conoce a Nadir y Danny (Danny consume y lo disfraza de emocion; empieza a mentir) -> Nat se va a su turno de las 14:00 -> Kal plantea el trabajo -> se alistan de negro, con mascaras, y salen. En el alistamiento, Nadir cuenta que "el otro dia" Varek fue a buscar a Kal al porton y no dijo para que (canon del autor, 2026-09-29); Kal recupera la advertencia del antiguo porche ("Cuidense de Dario Varek...", "¿Le debes algo?" / "Todavia no"), ahora dirigida a Nadir y Danny.
 El trabajo (canon del autor, 2026-09-29): mover un cargamento de hierba por encargo del Tasador y entregarlo a Cuadra Nueve (Maya Rios, Nueve Puentes; eleccion del agente, no es la banda de Irene) a cambio de un pago fuerte, para inyectar capital y volver a poner a la Almendra en el juego. Mascaras y prendas negras. Todavia no son El Patio. El trabajo NO se muestra: Kal se lo contara a Chiara en un capitulo futuro.
 Peldano Kal-Chiara: el 2 deja la simbiosis inicial (quiza pueda obtener algo de esta persona); el 3 no la toca en escena. Lo unico que mueve es el costo: el Monarch no llama (el "te llamo manana" de Matteo queda en nada) y Kal toma el dinero oscuro. Esto es la vida cotidiana que Kal ira contandole a Chiara; la llamada de ella en el 4 reabre la puerta legal esa misma noche.
 Lineas canon conservadas: salida de la carcel ("No vuelvas a prision", "Navarro"/"Keegan", "Llevas intentando saludar como adulto...", "Tu padre hacia esa cara..."), cementerio completo de Walt/Kal/Nat (anadida por el autor, 2026-09-29: Walt deja en la lapida una carta que le escribio a Jim desde la carcel, sin direccion; nadie pregunta que dice), recuerdo de Afganistan (Jim, reporte, "¿Y tu hermana?", la mujer rusa, emboscada). "Estoy un poco resentido con el... 'Tasador'" (autor, 2026-09-29: "joyero" retirado; Walt repite con sorna el apodo nuevo) / "La libertad condicional me volvio moderado" / "Quiero mantenerme afuera..." / "Si hay problema, respondo" se reubican del porche a la escena del trabajo.
@@ -17,6 +17,7 @@ Orden del autor (2026-10-05, frente 5, B+D de [[13_Auditorias/Book_01_Mascaras_D
 Palabras de prosa: ~4,780 (antes ~7,000 con el bloque de Chiara, que ahora vive en el Cap. 4). DISENO del agente, pendiente de lectura: la banda receptora (Cuadra Nueve), la cifra (treinta mil, mitad por adelantado), la bodega del norte, el Buick sobre la grua, la cadena "Eso decia tu padre", el telefono de Nat, la casa comun como vestidor.
 Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N3-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
 2026-10-24: regla de diálogo 05 aplicada (cortes de eco y turnos perdidos), DISEÑO.
+Duelo en familia (2026-11-05, DECISIONES DEL AUTOR; prosa DISENO, BORRADOR, espera lectura; plan: 11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap01_Marisol_Y_Cap03_Duelo.md). Supersede el canon del 2026-09-26: Walt YA SABE que Jim murio; se lo dijo Natalie. Kal nunca lo visito por miedo a la pregunta sobre Jim (defecto: proteger ocultando informacion). Fuera "¿Cuando?", "Nadie me lo dijo...", "Te lo iba a decir yo", "¿Por que no en la carcel?", "¿Desde cuando?" como reproche, "Me pidio que se lo dejara a el. Y yo quise". Se quedan la lapida como revelacion para el lector, "¿Fue rapido?", Afganistan, "Lo unico que hice...", la carta a Jim y el apreton de Natalie. DISENO: el permiso negado, "le daba el sol", los tres dias, "Comio", la tierra limpiada con la manga y "Comete el pan". Texto retirado en git (6faf20f).
 Sin insinuacion de Dario sobre Keene (2026-11-03, DECISION DEL AUTOR): antes de "Todavia no.", fuera "en Matteo diciendo que Dario tuvo que salir, en el telefono bocabajo... con el titular de Keene". El narrador no da ni insinua la relacion; la diligencia del Cap. 2 queda como coincidencia que se cobra en el Libro III.
 Continuidad (2026-11-04, encargo del autor; DISENO, pendiente de lectura; el estado se conserva): fuera "Guardo el telefono"; al entrar a la oficina Kal lo deja bocabajo sobre el escritorio, con lo que "Kal senalo el telefono bocabajo" y el eco de Walt en el escalon quedan iguales y este ultimo mejora (Walt lo vio desde el marco). La audiencia queda con mesa, no con vidrio: "al otro lado de una mesa". Detalle: 98_Agent_Handoff/sessions/2026-11-04_claude_detalles_caps02_03.md.
 Decisiones del autor (2026-11-04; redaccion DISENO, pendiente de lectura): la perra flaca es Rocco ("y eso que no traia nada de comer", rima con el Cap. 1; fuera "cosa que no hacia por nadie"). El Monarch era la salida de Kal: "Si Matteo llamaba antes de las dos, el anticipo se devolvia". La hierba se recoge en la tarde y va en el Buick de noche, lo que acorta el trabajo y deja a Danny tiempo para el cajero (ver Cap. 4).
@@ -250,37 +251,61 @@ Kal no contestó.
 
 Walt miró el espejo lateral. El Corolla había tomado la misma salida sin dudar, y detrás venía la camioneta de Héctor, en el mismo orden, a la misma distancia.
 
-Walt se quedó mirando el espejo un rato largo. Ya no preguntó.
+Walt se quedó mirando el espejo un rato largo. Después acomodó la bolsa de plástico sobre las rodillas, le puso la mano encima y ya no preguntó.
 
 ***
 
 El cementerio de Santa Lucía tenía a esa hora el silencio de los lunes. Kal se detuvo frente a una hilera de lápidas nuevas, del lado donde el pasto todavía no terminaba de agarrar.
 
-Walt bajó del coche despacio, todavía con la camisa gris que le habían dado al salir, y caminó los últimos metros solo.
+Walt bajó del coche despacio, todavía con la camisa gris que le habían dado al salir, y se quedó con una mano en la puerta. Nunca había estado ahí. No sabía hacia dónde.
 
-Se detuvo frente a una.
+Natalie cerró el Corolla, pasó junto a Kal y se le puso a su padre al lado.
+
+—Por aquí.
+
+Lo llevó entre las hileras como se lleva a alguien por un pasillo con humo: medio paso adelante, sin tomarlo del brazo. Héctor fue detrás, con la gorra en la mano.
+
+Natalie se detuvo frente a una.
 
 *JAMES "JIM" KEEGAN.*
 
-Kal no se acercó. Se quedó junto al coche, con las manos en los bolsillos, mirando la espalda de Walt.
+Debajo iba lo que el ejército mandaba poner: el rango, la unidad, *Afganistán*, una fecha de hacía más de cuatro años. La piedra estaba limpia, y alguien había recortado el pasto alrededor con tijeras; en el resto de la hilera había crecido a su gusto.
 
-Natalie se paró a su lado sin decir nada, con los brazos cruzados, y miró la misma espalda.
+Kal no se acercó. Se quedó a dos hileras, con las manos en los bolsillos, mirando la espalda de Walt.
 
-Walt no se arrodilló. No lloró, al menos no de la manera que se nota desde lejos. Se quedó de pie, quieto, con los hombros un poco más caídos de lo que estaban a la salida, leyendo una fecha.
+Walt no se arrodilló. No lloró, al menos no de la manera que se nota desde lejos. Se quedó de pie, quieto, con los hombros un poco más caídos de lo que estaban a la salida, leyendo una fecha que ya conocía.
 
-—¿Cuándo? —preguntó, sin voltear.
+—Pedí el permiso dos veces —dijo, sin voltear—. Para el entierro.
 
-—Hace más de cuatro años —dijo Kal—. Afganistán.
+—Ya sé —dijo Natalie.
 
-—¿Tú estabas?
+—Me dijiste que le daba el sol.
 
-—Sí.
+—En la tarde.
+
+Walt asintió, como si eso fuera lo que había venido a comprobar.
+
+—Cuando me llamaste. ¿Hacía cuánto que lo sabías?
+
+—Desde que dos soldados tocaron la puerta. —Natalie miraba la piedra—. Tardaron tres días en pasarte al teléfono.
+
+—Tres días.
+
+—Comió —dijo Héctor, detrás de ellos—. Yo la vi.
+
+Walt miró la fecha un rato más. No subió la voz.
+
+—Nat me dijo que estabas con él.
+
+—Sí —dijo Kal.
 
 Walt se quedó callado un momento largo.
 
 —¿Fue rápido?
 
-Kal tardó en contestar.
+Eran dos palabras. Kal llevaba cuatro años sin pisar la sala de visitas de esa cárcel para no oírlas del otro lado de una mesa.
+
+Tardó en contestar.
 
 Y por un segundo, sin pedirlo, Kal volvió a estar ahí.
 
@@ -366,47 +391,25 @@ Kal volvió al presente con el sonido de un pájaro que no debería estar en un 
 
 —Sí.
 
-No lo era del todo, y los dos lo sabían, y ninguno de los dos iba a discutirlo ahí parado.
+No lo era del todo, y los dos lo sabían, y ninguno de los dos iba a discutirlo ahí parado. Natalie le miró la cara primero y las manos después, como miraba a los que bajaba de la ambulancia, y no dijo lo que vio.
 
-Walt se agachó, por fin, y tocó la tierra con dos dedos.
+Walt se agachó, por fin, y tocó la tierra con dos dedos. Héctor se acercó despacio y le puso la mano en el hombro sin decir nada. Natalie se quedó del otro lado, quieta, como quien decide no moverse para no mover a nadie más.
 
-—Nadie me lo dijo —dijo, todavía sin levantar la vista—. Y ahora que salgo, resulta que llevaba más de cuatro años sabiéndolo el mundo entero menos yo.
-
-A su lado, Kal sintió que Natalie se quedaba quieta de otra manera: no como quien espera, sino como quien recibe un golpe y decide no moverse para no mover a nadie más.
-
-—Te lo iba a decir yo —dijo Kal—. Hoy. En algún momento del día.
-
-—¿Por qué no en la cárcel?
-
-—Porque ahí no tenías nada. Aquí, al menos, tenías dónde y con quién pararte.
-
-Walt no contestó a eso. Se quedó en cuclillas un rato más, la mano todavía sobre la tierra, y Héctor se acercó por fin, despacio, y le puso la mano en el hombro sin decir nada.
+Junto a la piedra cabía uno más. Kal se quedó donde estaba.
 
 Cuando Walt se puso de pie, tenía la cara seca y los ojos rojos, que no eran lo mismo.
 
 —Diez años —dijo, mirando la lápida—. Y lo único que hice fue perderme lo poco que me quedaba.
 
-Nadie tuvo con qué contestarle eso tampoco.
+Nadie tuvo con qué contestarle eso.
 
-Walt se dio la vuelta y la miró a ella.
+Natalie le tomó la mano, le limpió la tierra de los dedos con la manga de la sudadera y se la devolvió.
 
-No le preguntó si sabía. No hacía falta: el Corolla había tomado la salida sin dudar.
-
-—¿Desde cuándo? —dijo solamente.
-
-—Desde que dos soldados tocaron la puerta.
-
-Walt asintió despacio. Miró a Kal. Volvió a mirar a su hija.
-
-—Y él te pidió que te callaras.
-
-Natalie no miró a Kal.
-
-—Me pidió que se lo dejara a él. —Hizo una pausa—. Y yo quise.
+—Cómete el pan.
 
 Walt se quedó con eso un rato. Después abrió la bolsa de plástico y buscó entre los papeles doblados hasta dar con un sobre sin estampilla, con las esquinas gastadas de tanto cambiarlo de lugar. Tenía el nombre de Jim escrito con la misma letra inclinada de siempre. No tenía dirección.
 
-Volvió a la lápida, se agachó y lo dejó apoyado contra la piedra. Tomó una piedra del camino y la puso encima, para que no se lo llevara el viento.
+Se agachó otra vez y lo dejó apoyado contra la piedra. Tomó una piedra del camino y la puso encima, para que no se lo llevara el viento.
 
 Nadie le preguntó qué decía.
 

@@ -275,6 +275,10 @@ Las grúas llegan **después**, como crecimiento natural del taller. Y ahí est�
 
 ---
 
+## Proteger ocultando — CANON DEL AUTOR (2026-11-05)
+
+Kal nunca visitó a Walt en sus cuatro años de vuelta en San Aurelio: temía encararlo porque sabía que iba a preguntarle por Jim. Es un defecto con peso para la novela: **protege ocultando información.** Primeras muestras: cinco días con la carta sin dársela a Héctor, la mentira a Marisol («Algo así»), y el «Sí» a «¿Fue rápido?» ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable|Cap. 1]], [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Cap. 3]]).
+
 ## Método: cómo crece
 
 Kal no conquista. **Se vuelve necesario.** Las cuatro fases están en [[00_Biblia/Reglas_del_Mundo]] (regla 2) y son el esqueleto de cada arco de expansión de la novela.

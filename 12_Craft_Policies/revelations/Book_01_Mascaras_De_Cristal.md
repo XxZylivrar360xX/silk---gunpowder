@@ -269,3 +269,13 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Quien ya lo sabe:** Kal, Nadir, Danny, Russ.
 - **Quien NO debe saberlo:** Hendricks y la policia. Chiara: oye la mentira ("Sí supo que tapaba algo"), recibe la bolsa como explicacion y no sabe del cajero; si se entera y cuando, PENDIENTE.
 - **PENDIENTE del autor:** destino del dinero (lata de pintura, en manos de Nadir).
+
+---
+
+## Jim murió: Walt lo sabe, el lector no (Caps. 1 y 3; 2026-11-05)
+
+- **Qué es:** Jim está muerto desde hace más de cuatro años. El lector lo descubre en la lápida del Cap. 3. Walt lo sabe por Natalie; también Marisol, Héctor y Kal.
+- **Cómo se retiene:** la carta («Ojalá que mis dos hijos pudieran estar ahí») y «¿Lo vas a llevar a ver a Jim?» / «Saliendo» se leen como un hijo que se fue. Nadie miente al lector.
+- **Quién NO debe saberlo:** lo que hizo Jim y la promesa siguen siendo sólo de Kal; el Cap. 29 da a Chiara la muerte en sus brazos, no eso.
+- **Mentira de Kal:** «¿Fue rápido?» / «Sí». Motivo por el que nunca visitó a Walt: «No era eso» (Cap. 1) se paga en el Cap. 3.
+- **Estado:** sembrado y pagado en borrador; espera lectura. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap01_Marisol_Y_Cap03_Duelo]].

@@ -17,6 +17,7 @@ Escena del cajero (2026-11-03, DECISIÓN DEL AUTOR; prosa DISEÑO, BORRADOR en e
 Ruleta de regreso (2026-11-04, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR en este tramo; supersede "Ruleta fuera" del 2026-11-03): vuelve antes del reto como primer encuentro con Nadir, Danny y Russ. Timbre del vestibulo (pantalla y parlante: ella los ve, ellos a ella no); la minima de abajo les queda grande (mil; juntan 640, cifra heredada; la minima es DISEÑO); Chiara los sube a la sala de eventos privados con un crupier, a nombre de "Proveedores"; la ruleta queda fuera de foco (solo voces tras dos puertas; rojo, dobla y verde se saben por el crupier y la mesa). Vuelven "¿Es cierto?", "los chicos" y H2-b; "Y no pasaron de la sala del fondo" marca la diferencia con el recorrido de Kal. Fuera: Chiara repartiendo ("No va más"), la cadena de la puerta, "Por enfrente no nos dejaron pasar". Nadir mira que boton aprieta ella (lo cobra el Cap. 8).
 Vento fuera de la costumbre (2026-11-04, DECISION DEL AUTOR; DISEÑO): la llamada del domingo queda en "Estaba afuera"; Kal no sabe aun que ella monta. "Estaba montando / Se llama Vento" sale; la edad del caballo y las ocho pasan al Cap. 11 (archivo 09), despues de que Danny la vea montar en el Cap. 8.
 Primer gesto de los chicos (2026-11-03, DIRECCION DEL AUTOR; DISEÑO): frasco en el cuello antes de ir al penthouse; Danny lo huele y mira a Nadir. Sin dialogo. Maximo un gesto por capitulo, tres en total; faltan dos (cepillo en la guantera, espejo lateral).
+Marisol (2026-11-05): "lejos de aqui" pasa a "fuera del barrio"; ya aparecio en el taller en el Cap. 1 y Ashcombe esta a minutos. Estado sin cambio.
 -->
 
 # Capítulo 7 — Ambos
@@ -551,7 +552,7 @@ Chiara esperó.
 
 Lo dijo sin dramatizarlo.
 
-—Dejó una hija. Marisol. Está en la universidad ahora, lejos de aquí, donde nadie sabe de dónde viene. —Y ahí, hablando de ella, se le puso una sonrisa que no era la que usaba para cerrar tratos: más chica, menos vigilada—. Es lista. Discute todo. La semana pasada me colgó el teléfono porque le dije que no manejara de noche.
+—Dejó una hija. Marisol. Está en la universidad ahora, fuera del barrio, donde nadie sabe de dónde viene. —Y ahí, hablando de ella, se le puso una sonrisa que no era la que usaba para cerrar tratos: más chica, menos vigilada—. Es lista. Discute todo. La semana pasada me colgó el teléfono porque le dije que no manejara de noche.
 
 —¿Y tú qué eres de ella?
 

@@ -103,6 +103,8 @@ Y Silas Crowe entiende al instante lo que significa: **uno de los pocos hombres 
 
 > **CANON DEL AUTOR (2026-09-29, reapertura del Cap. 3 (archivo 03)):** el núcleo del capítulo es Walt volviendo a un mundo que cambió: salida (Nat ya está ahí), cementerio inmediatamente después, la Almendra (donde Nat está en casa), presentación con Nadir y Danny, y el trabajo del Tasador que Kal plantea delante de él. La línea del resentimiento ("Estoy un poco resentido con el... 'Tasador'"), la libertad condicional, "legal es el camino más corto" y "si hay problema, respondo" pasaron a esa escena; Walt no va al trabajo. Nueva (DISEÑO): Walt no sabía que ahora le dicen el Tasador y repite el apodo con sorna; a "le hago un trabajo" de Kal contesta "Eso decía tu padre". El pacto de "los viejos días, renovados y con sangre nueva" ya no se dice: se ve. Plan anterior retirado: [[97_Supersedido/Fichas_Detalles_Menores#Walter Keegan]].
 
+> **CANON DEL AUTOR (2026-11-05):** Walt ya sabe que Jim murió; se lo dijo Natalie. Kal nunca lo visitó en la cárcel por miedo a la pregunta sobre Jim. El cementerio del Cap. 3 es su primera vez ante la tumba: duelo en familia, sin reproche. La línea de su carta en el Cap. 1 es «Ojalá que mis dos hijos pudieran estar ahí.»
+
 **CANON DEL AUTOR (2026-08-24):** en el Capítulo 3, Kal y Héctor van a recibirlo cuando sale de prisión. Walt vuelve queriendo cuidar su libertad condicional y mantenerse del lado legal de la vida, aunque deja claro que si llega a haber problema, responderá. En el porche, con cervezas, menciona que sigue un poco resentido con "el joyero", pero ahora valora más estar afuera.
 
 Esa primera tarde, Walt, Héctor y Kal prometen traer de vuelta los viejos días de La Almendra, renovados y con sangre nueva.

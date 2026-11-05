@@ -2,7 +2,7 @@
 Estado: BORRADOR (reestructurado 2026-11-04 por decision del autor; antes TERMINADO; ver la ultima nota de este comentario).
 Protagonistas: Kal Mercer, Chiara Bellandi.
 Ventana temporal: Fase 0, sabado (dia y noche: el golpe) y domingo, dia en que llegan los socios del Monarch y ocurre H2.
-Lugares: La Almendra, Departamento de Policia de San Aurelio, Il Gelsomino, Lote Almendra, caminos de servicio de Kingsley Field, empaque de Cedar Flats, La Esquina de Mabel, Casa Comunitaria de la Almendra.
+Lugares: La Almendra, Departamento de Policia de San Aurelio, Il Gelsomino, caminos de servicio de Kingsley Field, empaque de Cedar Flats, La Esquina de Mabel, Casa Comunitaria de la Almendra.
 Funcion: gancho y promesa del libro: el Kal civil de dia y el Kal criminal de noche, lider de los chicos y piloto del Peugeot que la policia no atrapa. Instala la carta de Walt, el acuerdo con Keene, a Danny, a Matteo Bellacorte como bisagra y la invitacion al Monarch. Continua en el Capitulo 2.
 Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_01-03.md (seccion 9). Incluye la siembra de los papeles de Nadir (formato del condado, Kal firma por el).
 Ajuste (2026-09-29, autor, reapertura del Cap. 3): en la tumba de Michael, "Quiero que El Patio vuelva a estar en el juego" pasa a "Quiero que la Almendra vuelva a estar en el juego"; todavia no son El Patio.
@@ -15,6 +15,7 @@ Remates del narrador (2026-10-22, SURGERY autorizada por el autor sobre capitulo
 Rocco (2026-10-22, decision del autor: sale desde el Cap. 1; prosa DISENO pendiente de lectura; el estado se conserva): la casa de tablas que Kal nivelo, junto a la oficina, y la queja de Hector por la llave Allen que Nadir le tira al perro. Sin descripcion fisica (llega en el 5c). Siembra del momento de El Patio en Sombras de Poder. Ficha: 02_Characters/Rocco.md.
 2026-10-24: regla de dialogo 05 aplicada (cortes de eco y turnos perdidos), DISENO; aprobado por el autor. Keene: fuera "Vengo a no hacerle perder la mañana" / "Eso dicen los hombres..." / "Por eso se lo estoy diciendo..."; entra el beat del cafe frio antes de "Noventa dias para piezas". Matteo: fuera "¿Y como?"; "Lo se" se funde con "Por la cicatriz". Marisol: "Es informativa. De lo que no necesito." (fuera el eco "¿Informativa de que?" y su "Exacto"). Recepcion: fuera "Que raro.". Registro neutro: "aventar" -> "tirar" (Hector). "Ya me di cuenta" atribuida a Kal con tag.
 Reestructurado en sabado y domingo (2026-11-04, DECISIONES DEL AUTOR; prosa nueva DISENO, BORRADOR, espera lectura; antes TERMINADO; plan: 11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap01_Sabado_Y_Domingo.md). Autor: de dia el Kal civil, de noche el criminal con su banda (gancho del libro; Chiara es la evolucion); negocio neutro cerrado por vacaciones; repuestos de alto rendimiento; comprador, el corredor de piezas del norte (13_Auster); copiloto, extraccion y bloqueo; Danny llega con "el problema", falla y huye en moto; persiguen a Kal; Danny sigue consumiendo y amanece en el sillon; Nadir lo cuenta; enojo sin explosion. Aprobado: Kal hace el bloqueo con el camion mal puesto; el oficial trae el recado de Keene sobre las seis unidades. DISENO a confirmar: Hollis y Cabo; caminos de servicio de Kingsley; "Que Danny coma algo"; la pizarra del chief; once mil contra dieciocho; recibo de 6,800; 31 y 27; el Peugeot sale sobre la grua azul con Russ (Russ en cabina a oscuras, sin descripcion; su entrada sigue en el Cap. 4); Danny en la casa comun sin dialogo. Siembra de Matteo (2026-11-04, DICTADA POR EL AUTOR): el sabado Nadir le cuenta a Kal que "un tal Matias o Mateo" lo busco el viernes; cobro DISENO en la casa comun ("Mateo, entonces") y en La Esquina ("Lo busque el viernes en su taller...", aprobado por el autor). Intactos: carta, Keene, llamada a Nadir, Gelsomino, Rafa, Marisol, Mabel, Matteo. Texto retirado en Escenas_Eliminadas/README.
+Marisol en persona y Walt ya sabe (2026-11-05, DECISIONES DEL AUTOR; prosa DISENO, BORRADOR, espera lectura; plan: 11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap01_Marisol_Y_Cap03_Duelo.md). Autor: la primera interaccion de Kal es Marisol, en el taller, con la esencia de la llamada; fuera Garrett y Russ de la primera mitad y Danny solo insinuado; fuera el Lote y Rafa; Keene y la llamada a Nadir intactos (ahi sale el camaleon, salvo la hora de llegada); Marisol no imagina lo peor de Kal, zona gris; Marisol y Nat conviven y Marisol sabe que Jim murio. Linea de la carta, LITERAL: "Ojala que mis dos hijos pudieran estar ahi." Kal no visito a Walt por miedo a la pregunta sobre Jim (defecto: proteger ocultando informacion). DISENO: el Sentra de Sam y la banda, Marisol le saca la carta, "¿Lo vas a llevar a ver a Jim?" / "Saliendo", "te da miedo verlo viejo" / "No era eso", "Un hombre de negocios intachable", la compra de la lista con el sobre del Gelsomino, cinco dias con la carta. Metanfetamina pasa a la casa comun; "a Garrett le confiaria mi vida" (canon 2026-08-24) y el turno nocturno pasan al domingo; Rafa se explica en La Esquina. Texto retirado en git (6faf20f).
 -->
 
 # Capítulo 1 — Un hombre de negocios intachable
@@ -35,7 +36,7 @@ El sobre estaba abierto junto a la taza de café. El papel había pasado por dem
 >
 > La última audiencia es el **próximo lunes**, aquí adentro. Si puedes, espérame afuera. Me gustaría verte ahí cuando salga. Y si Héctor puede estar, dile que no se haga el duro conmigo. Lo extraño más de lo que sé decir en una carta.
 >
-> Espero que mi hijo esté ahí también. No sé si vendrá, pero uno puede esperar hasta el último minuto, ¿no? Después de diez años, supongo que todavía me toca hacerme ilusiones de vez en cuando.
+> Ojalá que mis dos hijos pudieran estar ahí. Después de diez años, supongo que todavía me toca hacerme ilusiones de vez en cuando.
 >
 > El juez dice que no puedo meterme en problemas. Puedes decirle que ya entendí. Pero que no se emocione demasiado: todavía queda Viejo Walt para rato.
 >
@@ -59,15 +60,11 @@ La camioneta se había ido dejando una nube de polvo detrás. Kal se quedó en l
 
 Kal volvió a leer esa parte, aunque ya la sabía de memoria. No decía que el tiempo pudiera devolverse. No decía que el juez hubiera visto la verdad. Walt había estado diez años encerrado por un crimen que no cometió; Silas Crowe había puesto la culpa donde le convenía y la ciudad había aceptado el expediente porque un expediente era más fácil de soportar que un culpable verdadero.
 
-El próximo lunes era pasado mañana. Walt la había escrito con tiempo; el correo del reclusorio se lo había gastado casi todo.
+El próximo lunes era pasado mañana. La carta llevaba cinco días en su chaqueta y todavía no se la había enseñado a nadie.
 
-La noticia le abrió demasiadas puertas a la vez.
-
-Pensó en Nadir, que habría preguntado primero cuánto costaba la libertad y después qué iban a comer. Pensó en Héctor, que no hablaba de Walt desde hacía años porque hablar de él era aceptar que seguía encerrado. Pensó en los hombres que habían ayudado a mantener la estructura de pie mientras Kal aprendía a convertir una deuda en negocio.
+Pensó en Héctor, que no hablaba de Walt desde hacía años porque hablar de él era aceptar que seguía encerrado.
 
 Y pensó en Danny, porque Danny tenía que estar entero esa noche.
-
-Nadir lo había encontrado consumiendo metanfetaminas en un cuarto trasero del taller. Danny decía que era para aguantar los turnos, que podía dejarla cuando quisiera. Pero ya no eran dosis de fin de semana ni una mala decisión de madrugada. Kal había escuchado en silencio mientras Nadir hablaba. Los dos estaban preocupados; ninguno sabía todavía cómo acercarse sin hacer que Danny levantara una pared.
 
 La carta crujió entre sus dedos.
 
@@ -83,9 +80,143 @@ Eso Kal lo guardaba en otro libro.
 
 No estaba escrito.
 
+A las siete y veinte oyó el coche antes de verlo: un chillido de banda que entró por el portón, dio la vuelta alrededor de las grúas y se apagó pegado a la puerta de la oficina, donde nadie tenía permiso de estacionarse.
+
+—¿Te llegó? —dijo Marisol desde el marco, sin saludar.
+
+Era pequeña y ligera, con el pelo pelirrojo recogido sin cuidado y las puntas decoloradas a rubio por una moda que a Kal le parecía absurda. Traía una chaqueta militar que le quedaba grande, con las mangas dobladas dos veces, y una sonrisa ladeada que ya venía buscando dónde meterse con él. La universidad quedaba a veinte minutos al norte. Kal la había mandado ahí para que nadie supiera de dónde venía, y el precio era verla cuatro veces al año.
+
+Kal ya estaba de pie. No recordaba haberse levantado.
+
+—¿Qué cosa?
+
+—La lista. Te la mandé anoche. —Cruzó la oficina, le quitó el café, lo probó y puso cara de mala noticia—. Luego la ves. El coche de Sam hace un ruido.
+
+—Ya lo oí.
+
+—Sam dice que es una banda. Nos vamos a la costa a las nueve, ella y otras dos, y no pienso empujar.
+
+Dejó la taza sobre el escritorio, encima del recibo de la universidad, que llevaba abierto desde el viernes. No lo miró. Kal tampoco.
+
+A esa hora el patio todavía estaba vacío. Kal levantó el capó del Sentra azul de Sam. Tuvo que meter las dos manos hasta el fondo para encontrar el tensor, y al agacharse se le abrió la chaqueta de mezclilla.
+
+No la vio venir. Marisol le sacó el sobre del bolsillo interior con dos dedos.
+
+—Reclusorio del condado. —Ya lo estaba abriendo.
+
+—Dámela.
+
+—Tienes grasa hasta las muñecas.
+
+Leía como hacía casi todo: rápido y caminando. Le dio la vuelta al coche con la hoja enfrente y pateó una llanta de paso.
+
+—¿Walt? ¿El papá de Nat? —Levantó un dedo sin levantar la vista—. Lo sueltan. Kal, lo sueltan. ¿El lunes? ¿Este lunes?
+
+—Este lunes.
+
+—¿Cuándo te llegó?
+
+Kal encontró la tuerca.
+
+—El lunes.
+
+—¿Nat ya sabe?
+
+—Estuvo en la audiencia. Le pedí que me lo dejara a mí.
+
+—Claro que le pediste. ¿Héctor?
+
+—Mañana.
+
+Marisol fue contando con la mano libre, sin dejar de caminar, y le enseñó la mano completa por encima del capó.
+
+—Cinco días. Cinco, Kal. Y Héctor, mañana.
+
+Kal no contestó. Ella siguió leyendo. Dio otra vuelta. A la altura de la defensa dejó de caminar.
+
+Kal lo oyó antes de levantar la vista: las botas ya no sonaban. Marisol tenía la hoja a media altura y los ojos quietos en una línea, y no contaba nada con los dedos.
+
+Cuando volvió a hablar, había bajado la voz.
+
+—¿Lo vas a llevar a ver a Jim?
+
+—El lunes. Saliendo.
+
+—¿Saliendo de la cárcel? Déjalo comer primero, Kal. Que se bañe.
+
+—Saliendo.
+
+Marisol lo miró un momento y volvió al papel.
+
+—«Todavía queda Viejo Walt para rato» —leyó, y le salió casi normal—. Me cae bien. ¿Cómo es? Nat cuenta de él lo mismo que de todo lo demás.
+
+—Se burla de ti antes de saludarte. Lleva diez años adentro por algo que no hizo.
+
+—Tengo una clase de eso.
+
+—De eso no te la dan.
+
+—Nat dice que nunca has ido a verlo.
+
+Kal le dio media vuelta a la tuerca.
+
+—Le mando lo que necesita.
+
+—No te pregunté eso. Cuatro años aquí, a cuarenta minutos de carretera. ¿Qué, te da miedo verlo viejo?
+
+—Algo así.
+
+No era eso. La dejó creerlo: salía más barato que lo otro.
+
+Marisol metió la hoja en el sobre y el sobre en el bolsillo de Kal, ella misma. Le dio dos palmadas encima y se le recargó un segundo en el hombro, sin abrazo ni nada, como quien comprueba que una pared sigue en su lugar. Después se metió al coche.
+
+Kal bajó el capó y le hizo una seña. El motor encendió sin chillar.
+
+—¿Tú qué haces hoy? —Había bajado la ventanilla y tenía un codo afuera.
+
+—Trabajo. En la noche, negocios.
+
+—¿Negocios en sábado?
+
+—Negocios.
+
+Fue doblando los dedos sobre el volante.
+
+—Un taller, dos grúas y un contrato que no te han firmado. —La sonrisa había vuelto a su lugar—. Un hombre de negocios intachable.
+
+Sabía que no todo lo que pasaba por ese patio traía recibo. Había crecido lo bastante cerca para saberlo. Nunca había preguntado hasta dónde, y Kal pagaba una residencia para que no le hiciera falta.
+
+—La lista —dijo ella.
+
+Kal se limpió una mano en el pantalón y la buscó en el teléfono. Dos libros de Procesal Penal, una lámpara de escritorio, unas botas, una chaqueta, un cargador. Abajo, en mayúsculas: NO TE PREOCUPES POR NADA DE ESTO.
+
+—Dice que no me preocupe.
+
+—Es informativa. De lo que no necesito.
+
+Kal volvió a leerla.
+
+—¿Y qué mitad sí necesitas?
+
+—Yo no dije que hubiera una mitad.
+
+—Marisol.
+
+—Tú eres el que lee a la gente, ¿no? —Metió reversa—. Lee.
+
+Salió por el portón sin ruido de banda. Eran las ocho menos diez. Héctor llegaba a las ocho.
+
+Kal se quedó en el patio con la lista en la pantalla. Los libros, sí. La lámpara, también: la que tenía se la había comprado él, de segunda, cuando ella tenía quince. Las botas aguantaban otro invierno; la chaqueta, no. El cargador lo había pedido en agosto y nadie se lo había mandado.
+
+Eso lo había sacado de su padre. Él pedía igual: nunca lo que necesitaba, siempre de más, para que el otro escogiera.
+
+Marcó cuatro y guardó el teléfono.
+
+En la oficina, la taza había dejado un círculo sobre el recibo: seis mil ochocientos de matrícula, libros y una residencia que cobraba como si las paredes supieran leer. Con hojas como las de esa mañana llegaba al semestre siguiente.
+
 —El Ford de Santa Brígida volvió a tronar, khoya —dijo Nadir desde la puerta de la oficina, con un vaso de café en una mano y una carpeta en la otra—. El dueño dice que ahora sí nos paga el viernes.
 
-Kal levantó la vista de las facturas.
+Kal levantó la vista del recibo.
 
 —¿Qué viernes?
 
@@ -99,9 +230,9 @@ Kal le quitó la hoja antes de que la punta tocara el papel, escribió su propio
 
 Nadir lo miró un segundo. No preguntó.
 
-Kal firmó la tercera hoja, dejó la pluma alineada con el borde del escritorio y se puso de pie.
+Kal dejó la pluma alineada con el borde del escritorio y se puso de pie.
 
-La oficina era un cuarto de block pegado al taller, con una ventana que daba al patio. Desde ahí se veían dos grúas estacionadas, una tercera con la puerta abierta y Héctor Navarro revisando el cable como si el cable le hubiera mentido personalmente. Más allá del portón, la calle Almendra empezaba a calentarse: un camión de pan atorado en doble fila, un niño con mochila cruzando entre dos defensas oxidadas porque en ese barrio hasta los niños aprendían rutas antes que reglas.
+La oficina era un cuarto de block pegado al taller, con una ventana que daba al patio. Más allá del portón, la calle Almendra empezaba a calentarse: un camión de pan atorado en doble fila, un niño con mochila cruzando entre dos defensas oxidadas porque en ese barrio hasta los niños aprendían rutas antes que reglas.
 
 —Dile que el viernes sirve —dijo Kal—. Pero el coche no sale hasta que pague la mitad.
 
@@ -125,15 +256,13 @@ Kal ya iba en la puerta.
 
 —Que Danny coma algo.
 
-A Kal le gustaba salir al patio antes de que el día agarrara velocidad. No por costumbre sentimental. Por inventario. Revisaba lo que tenía y lo que podía fallar: llantas, cables, gasolina, el estado de ánimo de Héctor, qué vecino se había parado demasiado tiempo frente al portón. La ciudad avisaba siempre. El problema era que casi nadie escuchaba cuando el aviso todavía era pequeño.
+A Kal le gustaba salir al patio antes de que el día agarrara velocidad. No por costumbre sentimental. Por inventario. Revisaba lo que tenía y lo que podía fallar: llantas, cables, gasolina, el estado de ánimo de Héctor, qué vecino se había parado demasiado tiempo frente al portón. En una ciudad donde todo el mundo miraba cuando un coche se detenía demasiado tiempo, nadie miraba una grúa. La grúa era explicación de sí misma.
 
-El patio no era grande, pero tenía más rutas que metros. A la derecha, los coches que podían salir con una firma y una batería nueva. A la izquierda, los que esperaban piezas que nadie iba a pagar. Al fondo, detrás de una cerca de lámina, las carrocerías sin dueño legal se oxidaban con una paciencia que a Kal le parecía más honesta que la de la mayoría de los acreedores.
+Al fondo, detrás de una cerca de lámina, las carrocerías sin dueño legal se oxidaban con una paciencia que a Kal le parecía más honesta que la de la mayoría de los acreedores.
 
 Junto a la puerta de la oficina estaba la casa de Rocco, de tablas de tarima y techo de lámina sobrante, más derecha que la mitad de las construcciones de la calle porque Kal la había nivelado dos veces. Rocco dormía adentro con la cabeza afuera, sobre las patas. Abrió un ojo al oír las botas, comprobó que Kal no traía nada de comer y lo volvió a cerrar.
 
-Una grúa entró por el portón con el giro lento de quien trae permiso para estorbar. Los vecinos ni voltearon. Esa era la primera ventaja del negocio: en una ciudad donde todo el mundo miraba cuando un coche se detenía demasiado tiempo, nadie miraba una grúa. La grúa era explicación de sí misma.
-
-En la primera grúa, Héctor escupió a un lado y le señaló el gancho con la barbilla.
+Héctor Navarro había llegado a las ocho. En la primera grúa escupió a un lado y le señaló el gancho con la barbilla.
 
 —Hay que cambiarlo.
 
@@ -151,127 +280,23 @@ Héctor sacó una llave Allen del bolsillo de la camisa para aflojar el seguro, 
 
 —Dile a Nadir que si le vuelve a tirar mis llaves a ese perro, el que va a ir por ellas es él.
 
-—Pide dos.
-
-Héctor hizo un ruido con la garganta.
-
-—¿Dos?
-
-—Uno para cambiarlo y otro para que no me veas la cara cuando se vuelva a romper.
-
-Héctor sonrió apenas. En él, eso contaba como carcajada.
-
-Después miró las dos grúas quietas junto al portón y dejó de sonreír.
-
-—El trabajo se está acumulando.
-
-Kal siguió revisando el gancho.
-
-—Sí.
-
-—No era pregunta.
-
-—Tampoco la respuesta.
-
-Héctor se limpió las manos con el trapo y señaló hacia la calle, donde un sedán con una llanta baja llevaba media hora estacionado en zona roja sin que nadie se atreviera a moverlo.
-
-—Anoche entraron tres llamadas después de medianoche. Omar no puede partirse en dos y Danny se duerme parado si lo dejas sin azúcar. Necesitamos gente para turno nocturno antes de que un trabajo bueno se nos pudra por no tener quién lo levante.
-
-Kal enderezó la espalda.
-
-—Ya lo hablé con Garrett.
-
-Garrett llevaba los papeles de Almendra Towing desde antes de que hubiera papeles que valiera la pena llevar.
-
-—Garrett está de vacaciones.
-
-—Regresa en un par de días.
-
-—Qué bonito. El trabajo puede esperarlo con una toalla en la playa.
-
-Kal miró el patio, las grúas, los coches que esperaban piezas.
-
-—Cuando vuelva se pone con eso. Turno nocturno, dos nombres buenos, papeles limpios. También llega a tiempo para nóminas.
-
-—¿Si no llega?
-
-Kal volvió a tomar la pieza marcada.
-
-—Llega.
-
-Héctor lo miró de lado.
-
-—Confías mucho en un hombre que cuenta dinero ajeno.
-
-Kal dejó la pieza en el banco.
-
-—Héctor, a Garrett le confiaría mi vida. Como ya le he hecho muchas veces.
-
-Héctor no se rió.
-
-—Eso fue con Russell.
-
-—Y con Garrett.
-
-—Russ sabe recibir un balazo.
-
-—Garrett sabe evitar que llegue.
-
-Héctor sostuvo la mirada un segundo más. Después señaló el patio con el trapo.
-
-—Los papeles los ve Garrett. La gente la veo yo.
-
-—Por eso te lo estoy diciendo.
-
-—No me traigas muchachos que sólo quieran manejar de noche porque creen que la grúa impresiona.
-
-—No.
-
-—Ni primos de alguien que te debe dinero.
-
-—Tampoco.
-
-—Si no me gustan, no entran.
-
-Kal tomó otra vez la pieza y la giró hacia la luz.
-
-—Si no te gustan, no pasan del portón.
-
-Héctor soltó una risa breve.
-
-—Entonces sí estás aprendiendo.
-
-Al enderezarse, el sobre le hizo esquina contra el pecho. Héctor tenía el trapo en el hombro y casi buen humor, y a un metro no había nadie más.
+Al enderezarse, el sobre le hizo esquina contra el pecho. Héctor tenía casi buen humor, y a un metro no había nadie más.
 
 Iba a querer leerla dos veces. Después iba a querer saber a qué hora, quién llevaba a quién, si a Walt le quedaban las camisas de hace diez años, y se iba a pasar el sábado entero preguntándolo y mirándole la cara a Kal mientras lo preguntaba. Héctor no preguntaba por los trabajos de noche. Contaba lo que faltaba en el patio a la mañana siguiente, y con eso le alcanzaba.
 
 Mañana, decidió Kal, cuando ya no hubiera nada que mirarle.
 
-Antes de las nueve ya había pasado por el portón lo que en la Almendra contaba como normalidad. Una señora de la calle Cedro llegó con el radiador echando vapor y un nieto dormido en el asiento de atrás. Kal le llenó el depósito, le dijo que no prendiera el aire acondicionado hasta la tarde y no le cobró. Un carnicero le pidió que le moviera una camioneta que llevaba tres días tapándole la entrada; Kal mandó a Omar y le recordó que el mes pasado alguien le había guardado cajas en una cámara fría sin hacer preguntas. Un muchacho preguntó si podían fiarle una batería hasta el lunes. Héctor le dijo que no antes de que Kal pudiera decir que sí. Kal dejó que el no se quedara en el aire treinta segundos y después apuntó el nombre del muchacho en una libreta distinta.
-
-—Te estás poniendo blando —dijo Héctor.
-
-—Estoy tomando inventario.
-
-—Eso dices cuando te pones blando.
-
-Un camión de autopartes entró al patio como si trajera porcelana y no defensas usadas, y Héctor se le plantó enfrente con la llave inglesa hasta que el chofer entendió dónde podía pararse. El hombre bajó dos cajas y le pasó a Kal la hoja para que la firmara sobre el capó.
+Antes de las diez, un camión de autopartes entró al patio como si trajera porcelana y no defensas usadas, y Héctor se le plantó enfrente con la llave inglesa hasta que el chofer entendió dónde podía pararse. El hombre bajó dos cajas y le pasó a Kal la hoja para que la firmara sobre el capó.
 
 —Las otras dos me las regreso —dijo, y le dio una palmada a la lámina—. Son de Hollis, el de los repuestos de carrera, en los caminos de Kingsley. Fui a dejárselas y ya ni puerta. Cerró el jueves. Se fue a Cabo con la señora, tres semanas, y no encontró a quién dejar encargado. Se lo ofreció al sobrino y el sobrino se rió. Puso un letrero escrito a mano.
 
-—¿Oíste? —dijo Héctor, sin voltear—. El que no tiene gente, cierra.
+—¿Oíste? —dijo Héctor, sin voltear—. El que no tiene gente, cierra. Y tú sin nadie para la noche.
 
 Kal le devolvió la hoja al chofer y le preguntó si quería café.
 
-Cada conversación dejaba algo.
-
-Una deuda mínima. Una matrícula. Un horario. Una promesa.
-
-Y a veces dejaba otra cosa: la cara que Kal necesitaba que la ciudad viera. Dueño de taller. Proveedor municipal. Hombre que firmaba recibos con tinta azul y sabía decir *claro, le mando la cotización* sin que se le notara cuánto odiaba la palabra cotización.
-
 La fachada funcionaba porque no era falsa del todo, y eso la hacía más cara.
 
-A las nueve y cuatro, Kal estacionó una grúa blanca frente al Departamento de Policía de San Aurelio y dejó el motor encendido.
+A las diez y cuatro, Kal estacionó una grúa blanca frente al Departamento de Policía de San Aurelio y dejó el motor encendido.
 
 Calle Corona ya estaba despierta. Un camión de mensajería bloqueaba media acera, dos empleados del Ayuntamiento fumaban junto a una jardinera y una patrulla con la defensa vencida esperaba en doble fila como si también tuviera cita. El centro viejo olía a café de oficina, escape caliente, papel húmedo y desinfectante. No era olor a ley. Era olor a gente intentando que la ley alcanzara para todo.
 
@@ -485,17 +510,13 @@ Kal nunca lo dejaba cerca de los libros que importaban. No porque Nadir no supie
 
 A las once y veintiocho, Kal manejó hacia Il Gelsomino con una caja de filtros de aceite en el asiento del copiloto y una factura doblada en la visera.
 
-El restaurante italiano quedaba en una calle que San Aurelio había decidido llamar pintoresca después de subirle la renta. Toldo verde, mesas estrechas en la acera, un jazmín empeñado en entrar por una ventana aunque nadie lo hubiera invitado. Por las mañanas olía a ajo dorándose, café fuerte y cloro recién pasado por el piso. De noche, Kal lo sabía, el mismo lugar olía a vino caro y a promesas que nadie pensaba escribir.
+El restaurante italiano quedaba en una calle que San Aurelio había decidido llamar pintoresca después de subirle la renta. Toldo verde, mesas estrechas en la acera, un jazmín empeñado en entrar por una ventana aunque nadie lo hubiera invitado.
 
 No entró por la puerta principal. Entró por la cocina.
 
-—Mercer —dijo Enzo, el mesero de turno, sin levantar la vista de una bandeja de cubiertos—. Si vienes a arreglar la máquina de espresso, llegas tarde. Ya aprendió a odiarnos.
+Kal dejó la caja de filtros junto a la salida de servicio. Nadie preguntó qué hacía ahí. Había arreglado la camioneta refrigerada dos veces y la cerradura trasera sin factura.
 
-—Entonces ya es parte del equipo.
-
-Kal dejó la caja de filtros junto a la salida de servicio y saludó con la barbilla al cocinero, que removía una olla como si estuviera amenazándola en italiano. Nadie preguntó qué hacía ahí. Había arreglado la camioneta refrigerada dos veces, el extractor una vez y la cerradura trasera sin factura porque un viernes de lluvia alguien había intentado entrar por ahí.
-
-Firmó una hoja sobre una esquina libre de harina. El dueño no estaba, pero el dueño rara vez estaba cuando tocaba pagar. Enzo sacó un sobre del cajón bajo la cafetera y se lo deslizó sin ceremonia.
+Firmó una hoja sobre una esquina libre de harina. El dueño no estaba, pero el dueño rara vez estaba cuando tocaba pagar. Enzo, el mesero de turno, sacó un sobre del cajón bajo la cafetera y se lo deslizó sin ceremonia.
 
 —Dice Claudio que la terraza queda para ti cuando la pidas. Una noche, completa. Pero sin traer músicos tristes.
 
@@ -517,69 +538,7 @@ Confiaba más en la bisagra.
 
 Volvió al taller poco después del mediodía, con las bolsas de Mabel en el asiento donde habían ido los filtros. El sol había subido sobre las láminas del patio y el aire olía a caucho caliente y pintura vieja. Comieron de pie.
 
-A las dos y diecisiete cruzó al lote de al lado.
-
-El letrero decía **Lote Almendra** con letras rojas sobre fondo blanco, demasiado nuevo para la cerca de alambre que lo sostenía. Seis coches usados, una troca con defensa de otro color y tres motos bajo un techito de lámina. No era un concesionario de los del norte de la ciudad, con globos, vidrio y vendedores que sonreían con dientes financiados. Era un pedazo de asfalto donde los coches salían con papeles limpios, motor revisado y sin letra pequeña detrás de la cual esconderse.
-
-Rafa Luna lo esperaba junto a una Honda vieja, negra, con el casco colgando del manubrio. Repartía medicinas para la farmacia de Calle Corona; llevaba seis meses pasando por el lote cada sábado, mirando esa moto como se mira una vida que todavía no alcanza.
-
-—No vengo a molestar —dijo.
-
-—Vienes cada sábado a decir eso.
-
-—Esta vez traigo más.
-
-Le mostró un sobre. Billetes chicos, doblados todos hacia el mismo lado. Kal los contó sin prisa: no por desconfianza, sino porque contar dinero delante de alguien también era enseñarle que su esfuerzo tenía peso.
-
-—Te faltan cuatrocientos.
-
-—Puedo traerlos en dos semanas.
-
-—Tres —dijo Kal—. Si dices dos, vas a correr entregas como idiota, te van a levantar por exceso de velocidad y voy a tener que sacar la moto del corralón que yo mismo manejo.
-
-Le puso las llaves en la mano.
-
-—Entonces tres.
-
-Rafa se quedó mirando las llaves como si no entendiera que algo tan pequeño pudiera cambiarle el día entero.
-
-—No la metas a autopista hasta que le cambie la cadena.
-
-Rafa soltó una risa nerviosa, breve, casi infantil. En la acera, dos niños dejaron de patear una lata para mirar la moto. El lote hizo lo que hacían los lugares vivos: reunir testigos sin convocarlos.
-
-Kal firmó el recibo sin escribir descuento en ninguna parte.
-
-El teléfono le vibró en el bolsillo cuando Rafa ya iba empujando la moto hacia la calle. MARISOL.
-
-—¿Te llegó? —dijo ella, sin saludar.
-
-—¿Qué cosa?
-
-—La lista. Te la mandé anoche.
-
-Kal la buscó sin colgar. Estaba debajo del recibo de la universidad que había llegado el viernes: seis mil ochocientos de matrícula, libros y una residencia que cobraba como si las paredes supieran leer. La lista era más corta. Dos libros de Procesal Penal, una lámpara de escritorio, unas botas, una chaqueta, un cargador. Abajo, en mayúsculas: NO TE PREOCUPES POR NADA DE ESTO.
-
-—Dice que no me preocupe.
-
-—Es informativa. De lo que no necesito.
-
-Kal volvió a leerla.
-
-—¿Y qué mitad sí necesitas?
-
-—Yo no dije que hubiera una mitad.
-
-—Marisol.
-
-—Tú eres el que lee a la gente, ¿no? —Se oyó una puerta y el eco de un pasillo—. Lee. Me voy a la biblioteca.
-
-Colgó.
-
-Kal se quedó con la lista en la pantalla. Los libros, sí. La lámpara, también: la que tenía se la había comprado él, de segunda, cuando ella tenía quince. Las botas aguantaban otro invierno; la chaqueta, no. El cargador lo había pedido en agosto y nadie se lo había mandado.
-
-Eso lo había sacado de su padre. Él pedía igual: nunca lo que necesitaba, siempre de más, para que el otro escogiera.
-
-Marcó cuatro y guardó el teléfono.
+A las tres dejó a Omar con el teléfono y fue a Calle Corona. Dos libros de Procesal Penal, en una librería que olía a fotocopias; una lámpara de escritorio; una chaqueta que el dependiente juró que aguantaba el invierno; un cargador. Pagó con lo que traía el sobre del Gelsomino y lo mandó todo a la residencia, sin nota. Del sobre no quedó nada. El recibo seguía en el escritorio, con su círculo de café.
 
 ***
 
@@ -609,7 +568,9 @@ Kal quitó la bolsa de encima de las máscaras. Le miró los ojos a Danny como l
 
 —Traje pan.
 
-Kal miró la hoja. Si Garrett no hubiera estado en una playa, Garrett manejaba ese camión. Omar le rompía el gancho a una grúa en un día bueno. Héctor no había ido a nada de esto en su vida. Y lo que había en la hoja era un cruce, treinta metros y una moto: lo había pensado para alguien que ni siquiera tuviera que ser bueno.
+Nadir lo había encontrado semanas atrás consumiendo metanfetaminas en un cuarto trasero del taller. Danny decía que era para aguantar los turnos, que podía dejarla cuando quisiera. Pero ya no eran dosis de fin de semana ni una mala decisión de madrugada. Kal había escuchado en silencio mientras Nadir hablaba. Los dos estaban preocupados; ninguno sabía todavía cómo acercarse sin hacer que Danny levantara una pared.
+
+Kal miró la hoja. Garrett llevaba los papeles de Almendra Towing desde antes de que hubiera papeles que valiera la pena llevar. Si no hubiera estado en una playa, Garrett manejaba ese camión. Omar le rompía el gancho a una grúa en un día bueno. Héctor no había ido a nada de esto en su vida. Y lo que había en la hoja era un cruce, treinta metros y una moto: lo había pensado para alguien que ni siquiera tuviera que ser bueno.
 
 Nadir lo estaba mirando a él.
 
@@ -851,6 +812,28 @@ Héctor no levantó la vista.
 
 —Aquí había un camión.
 
+Kal no contestó.
+
+—Y anoche entraron tres llamadas después de medianoche. Omar no puede partirse en dos. Necesitamos gente para turno nocturno.
+
+—Ya lo hablé con Garrett. Regresa en un par de días.
+
+—Confías mucho en un hombre que cuenta dinero ajeno.
+
+—Héctor, a Garrett le confiaría mi vida. Como ya le he hecho muchas veces.
+
+Héctor no se rió.
+
+—Eso fue con Russell.
+
+—Y con Garrett.
+
+—Russ sabe recibir un balazo.
+
+—Garrett sabe evitar que llegue.
+
+Héctor siguió mirando la tierra.
+
 Kal sacó la carta del bolsillo interior de su chaqueta de mezclilla.
 
 —Llegó esto.
@@ -935,7 +918,7 @@ Kal levantó las manos, medio rendido.
 
 La mesa junto a la ventana no cojeaba si uno ponía el pie derecho sobre la base. Mabel ya estaba metiendo arroz, frijoles, carne guisada y tortillas en recipientes de unicel con una eficiencia que parecía enojo y casi siempre era cariño.
 
-Había cuatro personas más en el local: dos trabajadores de la lavandería, una mujer con uniforme de farmacia comiendo sopa sin levantar la vista, Rafa Luna con casco nuevo sobre las rodillas y un hombre que no pertenecía ahí.
+Había cuatro personas más en el local: dos trabajadores de la lavandería, una mujer con uniforme de farmacia comiendo sopa sin levantar la vista, Rafa Luna, que repartía medicinas y le debía a Kal cuatrocientos de una Honda del lote, con el casco nuevo sobre las rodillas, y un hombre que no pertenecía ahí.
 
 Kal lo vio antes de verlo. No por la ropa, aunque la ropa ayudaba: saco claro, camisa abierta en el cuello, zapatos que no habían aprendido la acera de la Almendra. Era más bien la manera en que miraba el techo, las esquinas, la puerta trasera, como si cada lugar tuviera que explicarle sus salidas antes de permitirle sentarse. Los de San Aurelio miraban primero a Mabel. Después al café. Después, si sobraba tiempo, al resto.
 

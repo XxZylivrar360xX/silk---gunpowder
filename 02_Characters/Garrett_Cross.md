@@ -41,7 +41,7 @@ Su punto ciego es creer que el papel manda sobre las personas. En una ciudad com
 
 Garrett ya orbita a Kal desde la etapa de Almendra Towing: lleva nóminas, ordena papeles y ayuda a que contratar gente no convierta el taller en una lista de irregularidades. Está de vacaciones durante el arranque del Capítulo 1, pero Kal ya habló con él para buscar gente de turno nocturno cuando regrese.
 
-**CANON DEL AUTOR (2026-08-24):** Kal confía en Garrett al nivel de decirle a Héctor: *a Garrett le confiaría mi vida, como ya le he hecho muchas veces*. Esa confianza viene de lo vivido junto a [[02_Characters/Russell_Whitaker|Russell Whitaker]] y Garrett, no sólo de que Garrett maneje números.
+**CANON DEL AUTOR (2026-08-24):** Kal confía en Garrett al nivel de decirle a Héctor: *a Garrett le confiaría mi vida, como ya le he hecho muchas veces* (desde 2026-11-05, en el domingo del Cap. 1; Garrett ya no aparece en la primera mitad). Esa confianza viene de lo vivido junto a [[02_Characters/Russell_Whitaker|Russell Whitaker]] y Garrett, no sólo de que Garrett maneje números.
 
 Garrett escala cuando [[03_Factions/El_Patio]] deja de ser favores, grúas y carreras, y empieza a necesitar estructura patrimonial. Su empresa, [[03_Factions/Cross_River_Consolidated]], sostiene activos y participaciones donde Kal no debe figurar.
 

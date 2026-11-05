@@ -3,10 +3,10 @@
     "01_Un_Hombre_De_Negocios_Intachable.md": {
       "capitulo": 1,
       "titulo": "Un hombre de negocios intachable",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-04",
-      "desde": "2026-11-04 20:16"
+      "desde": "2026-11-05 11:59"
     },
     "02_Demasiado_Listo.md": {
       "capitulo": 2,
@@ -19,10 +19,10 @@
     "03_Los_Viejos_Dias.md": {
       "capitulo": 3,
       "titulo": "Los viejos días",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-04",
-      "desde": "2026-11-04 20:26"
+      "desde": "2026-11-05 11:59"
     },
     "04_Tarifa_Nocturna.md": {
       "capitulo": 4,
@@ -51,10 +51,10 @@
     "06_Ambos.md": {
       "capitulo": 7,
       "titulo": "Ambos",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-04",
-      "desde": "2026-11-04 11:25"
+      "desde": "2026-11-05 11:59"
     },
     "07_La_Noche_Del_Ladrillo.md": {
       "capitulo": 8,
@@ -115,10 +115,10 @@
     "14_La_Regla_Del_Telefono.md": {
       "capitulo": 15,
       "titulo": "La regla del teléfono",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:20"
+      "desde": "2026-11-05 11:59"
     },
     "15_El_Porton.md": {
       "capitulo": 16,
@@ -3379,6 +3379,26 @@
       "2026-11-04 20:31",
       "Cap. 4 (04_Tarifa_Nocturna.md)",
       "audio regenerado"
+    ],
+    [
+      "2026-11-05 11:59",
+      "Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-05 11:59",
+      "Cap. 3 (03_Los_Viejos_Dias.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-05 11:59",
+      "Cap. 7 (06_Ambos.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-05 11:59",
+      "Cap. 15 (14_La_Regla_Del_Telefono.md)",
+      "audio pendiente: cambió la prosa"
     ]
   ]
 }

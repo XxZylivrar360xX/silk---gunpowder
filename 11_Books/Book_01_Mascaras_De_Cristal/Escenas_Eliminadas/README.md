@@ -924,3 +924,5 @@ Versión previa íntegra en git (`17c7210`). No sale escena completa; salen esta
 Al sacar un capítulo: `git mv` a esta carpeta, encabezado `ESCENA ELIMINADA` + `EPUB: EXCLUDE`, fila aquí, enlaces del vault actualizados. Al recuperarlo: lo inverso, y dejar la fila tachada con la fecha.
 
 **Regreso (2026-10-31, DECISIÓN DEL AUTOR; ejecutado 2026-11-01):** la videollamada de los tomates del 19 (Chiara se ríe sin medirse; nombra a Rivers y la enemistad con Connors) vuelve al libro como apertura del capítulo fusionado *Bajo juramento* (archivos 23+24). Detalle: [[98_Agent_Handoff/sessions/2026-10-31_claude_carretera_libro_i]].
+
+**Retiros del 2026-11-05 (decisión del autor; texto en git, `6faf20f`):** Cap. 1: Lote Almendra y Rafa con la Honda; Marisol por teléfono; Garrett en el patio del sábado (lo canon pasa al domingo); viñetas de la señora y el carnicero. Cap. 3: el secreto sobre Jim («Nadie me lo dijo», «Y yo quise»).

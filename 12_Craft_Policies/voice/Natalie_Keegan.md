@@ -20,7 +20,6 @@ Guardia, turno, veinticuatro horas, ambulancia, el número de cada quien. "Papá
 ## Lo que nunca dice
 
 - No hace escenas en público: no corre, no se tapa la boca, no llora a media banqueta.
-- No culpa a Kal por el silencio sobre Jim; asume su parte ("Y yo quise").
 - No pregunta lo que ya sabe.
 - No dramatiza su trabajo.
 
@@ -45,7 +44,7 @@ Abraza midiendo, primero con un brazo. Se mueve en la casa común como si fuera 
 ## Muestras de registro (con origen)
 
 - "Depende. / De los ojos que los miren." (3, canon)
-- "Me pidió que se lo dejara a él. Y yo quise." (3)
+- "Cómete el pan." (3, DISEÑO)
 - "Contesta el teléfono." (3)
 
 ## Línea genérica a evitar

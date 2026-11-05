@@ -84,19 +84,13 @@ Y existe una cuarta presencia precisamente por su ausencia:
 
 **Jim.**
 
-Natalie ya conoce la muerte de su hermano.
-
-Walt todavía no.
-
-Eso convierte los primeros momentos de libertad de Walt en algo emocionalmente incómodo: las personas que lo reciben saben que todavía falta decirle que su hijo murió en Afganistán.
-
-> **CANON DEL AUTOR (2026-09-26) — resolución de continuidad con el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Cap. 3 (archivo 03)]]:**
+> **CANON DEL AUTOR (2026-11-05), supersede el del 2026-09-26:** Walt ya sabe que Jim murió. Se lo dijo Natalie por teléfono, tres días después de que dos soldados tocaran la puerta. Walt pidió dos veces permiso para el entierro y se lo negaron, así que nunca ha visto la tumba. Retirado el silencio de cuatro años («Me pidió que se lo dejara a él. Y yo quise»): daba un rencor denso que el libro no cobra. Texto en git (6faf20f).
 >
-> 1. **Por qué calló.** Cuando Kal volvió a San Aurelio, hace cuatro años, le pidió a Natalie que le dejara decírselo a él: en persona y afuera, no detrás de un vidrio. Ella aceptó y guardó el silencio cuatro años, incluida la audiencia. En el cementerio, cuando Walt dice *"Nadie me lo dijo en diez años… el mundo entero menos yo"*, Natalie está a pocos metros y absorbe el golpe sin defenderse.
-> 2. **El día de la salida (ESCRITO, BORRADOR, 2026-09-26).** Natalie llega a la cárcel antes que Walt, y él la ve a ella primero. Se salta el café y el porche con un pretexto ("Entro a las seis. Cambié media guardia"). La razón real sólo se la dice a Kal: no puede pasar tres horas frente a Walt callándose lo de Jim. A las cuatro llega en su coche al cementerio y se queda junto a Kal, detrás de Walt. Cuando Walt se voltea, ella admite: *"Me pidió que se lo dejara a él. Y yo quise."* Después se va a su guardia.
+> 1. **El día de la salida ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias|Cap. 3]], BORRADOR):** Natalie lleva a su padre a la tumba que ha cuidado cuatro años. Duelo en familia, con Héctor; Kal se queda a dos hileras.
+> 2. **Marisol (2026-11-05):** conviven; casi de la edad. Marisol sabe que Jim murió.
 > 3. **Jim se fue.** Con Walt preso, Amanda asesinada y Jim fuera de la ciudad, Natalie quedó con 14 años al cuidado de Héctor, que la crió hasta los 18. Es "la segunda ausencia".
 >
-> **DISEÑO (propuesta del agente):** Jim tenía a Natalie como contacto de emergencia porque su padre estaba preso. Así la noticia oficial le llegó a ella y no a Walt.
+> **DISEÑO (propuesta del agente):** Jim tenía a Natalie como contacto de emergencia porque su padre estaba preso. Así la noticia oficial le llegó a ella, y ella se la dio a Walt.
 >
 > **ESCRITO (2026-09-26, BORRADOR):** la inserción en el Cap. 3, que incluye en el recuerdo de Afganistán el "¿Y tu hermana?" de Kal a Jim. Jim le pide que Nat no se entere nunca de lo que hizo, así que la promesa de Kal también la cubre a ella.
 

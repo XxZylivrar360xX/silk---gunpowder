@@ -1,11 +1,11 @@
 # Current Brief
 
-Actualizado: 2026-11-04. Máximo 800 palabras. **Numeración del 2026-11-01: 56 caps.**; equivalencias en el [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]. «Archivo N» cita el prefijo del archivo. Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-11-04_CURRENT_BRIEF]].
+Actualizado: 2026-11-05. Máximo 800 palabras. **Numeración del 2026-11-01: 56 caps.**; equivalencias en el [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]. «Archivo N» cita el prefijo del archivo. Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-11-04_CURRENT_BRIEF]].
 
 ## Foco y siguiente paso
 
 1. **Libro I, lectura del autor** de borradores y prosa DISEÑO. Rutas en [[98_Agent_Handoff/PENDING]]. Lectura en curso del Cap. 30 al 56: [[98_Agent_Handoff/sessions/2026-10-31_claude_guia_lectura_caps34_60]] (numeración de 60). CANON 2026-10-31: «recupere esto; aquí no pasó nada» va a la base, no a Kal.
-2. **Cap. 1 en sábado y domingo (2026-11-04, DECISIONES DEL AUTOR; BORRADOR, espera lectura):** de día el Kal civil; de noche el golpe y la persecución del Peugeot: [[98_Agent_Handoff/sessions/2026-11-04_claude_cap01_sabado_y_domingo]]; plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap01_Sabado_Y_Domingo]]. Reporte de la regla 06: [[98_Agent_Handoff/sessions/2026-11-04_claude_regla06_caps01_03]].
+2. **Caps. 1 y 3 (2026-11-05, DECISIONES DEL AUTOR; BORRADOR, espera lectura):** Marisol en persona abre el sábado; Walt ya sabe que Jim murió y el cementerio es duelo en familia: [[98_Agent_Handoff/sessions/2026-11-05_claude_marisol_y_duelo_caps01_03]]. El Cap. 1 en sábado y domingo sigue vigente: [[98_Agent_Handoff/sessions/2026-11-04_claude_cap01_sabado_y_domingo]].
 3. **Carretera del Libro I, aprobada** (autor, 2026-11-01): [[13_Auditorias/Book_01_Mascaras_De_Cristal/Carretera_Libro_I]]; [[98_Agent_Handoff/sessions/2026-11-01_claude_paso3_saldos_carretera]]; renumeración: [[98_Agent_Handoff/sessions/2026-11-01_codex_para_claude_renumeracion_56]]. Primer giro en el 12; Walt al II.
 4. **Libro II, *Sombras de Poder*** (diseño activo; prosa bloqueada hasta cerrar el I): [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 caps., DISEÑO), [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]], [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]]. Esperan al autor: F2, semillas Kal–Chiara, voces REL-01, Navidad de Almendra Towing (en pausa).
 
