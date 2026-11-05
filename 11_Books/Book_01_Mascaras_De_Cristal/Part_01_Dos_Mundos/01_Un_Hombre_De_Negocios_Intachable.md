@@ -19,6 +19,7 @@ Marisol en persona y Walt ya sabe (2026-11-05, DECISIONES DEL AUTOR; prosa DISEN
 Marisol sin auto (2026-11-05, decision del autor): es estudiante; llega en taxi y se va en el Sentra de Sam, que estaba en el taller. BORRADOR.
 Regla 05 en la escena de Marisol (2026-11-05, encargo del autor; DISENO, BORRADOR): ella habla largo y Kal contesta corto o pierde el turno; fuera "De eso no te la dan" y el eco de "Negocios". La anecdota de Walt ("a robar o a cenar") es nueva y espera lectura; Walt la dice sabiendo de quien es hijo: conocio a Dale Mercer, que le enseno a Kal a abrir coches.
 Balayage (2026-11-05, encargo del autor): Marisol lo menciona y Kal no se queda con la palabra; aqui aun no lo trae (pelirroja sin puntas rubias). Se cobra en el Cap. 15 (archivo 14).
+Poda de Hector, proveedor y Keene (2026-11-05, encargo del autor; DISENO, BORRADOR): supersede "Keene intacto". Hector se plantea como a quien acude el barrio. Se conservan la pizarra, seis unidades/tres meses, la hoja firmada, el martes a las diez, la marca del gancho y Hollis. Fuera el raspon del nudillo, el regateo de estabilidad y el interes. Texto previo en git (ae2fc26).
 -->
 
 # Capítulo 1 — Un hombre de negocios intachable
@@ -269,33 +270,23 @@ Al fondo, detrás de una cerca de lámina, las carrocerías sin dueño legal se 
 
 Junto a la puerta de la oficina estaba la casa de Rocco, de tablas de tarima y techo de lámina sobrante, más derecha que la mitad de las construcciones de la calle porque Kal la había nivelado dos veces. Rocco dormía adentro con la cabeza afuera, sobre las patas. Abrió un ojo al oír las botas, comprobó que Kal no traía nada de comer y lo volvió a cerrar.
 
-Héctor Navarro había llegado a las ocho. En la primera grúa escupió a un lado y le señaló el gancho con la barbilla.
+Héctor Navarro llegó a las ocho y tardó diez minutos en cruzar el portón. La señora de los tamales lo detuvo por un sobrino y un casero, y un muchacho, por una batería. A los dos les contestó sin dejar de caminar. El taller tenía el nombre de Kal en la factura; cuando en la Almendra se rompía algo, con motor o sin él, iban a buscar a Héctor.
 
-—Hay que cambiarlo.
+—Hay que cambiar el gancho de la primera —dijo, por saludo—. Ayer dejaste que Omar la manejara.
 
-Kal lo miró.
+Kal se agachó y pasó el pulgar por la marca nueva del metal.
 
-—Ayer dijiste que aguantaba.
-
-—Ayer no habías dejado que Omar la manejara.
-
-Del otro lado del patio, Omar fingió no escuchar y siguió limpiando el parabrisas con una concentración de médico.
-
-Kal se agachó, revisó la pieza y pasó el pulgar por la marca nueva del metal.
-
-Héctor sacó una llave Allen del bolsillo de la camisa para aflojar el seguro, la miró a contraluz y la limpió en el pantalón con asco.
+Héctor sacó una llave Allen del bolsillo de la camisa, la miró a contraluz y la limpió en el pantalón con asco.
 
 —Dile a Nadir que si le vuelve a tirar mis llaves a ese perro, el que va a ir por ellas es él.
 
-Al enderezarse, el sobre le hizo esquina contra el pecho. Héctor tenía casi buen humor, y a un metro no había nadie más.
-
-Iba a querer leerla dos veces. Después iba a querer saber a qué hora, quién llevaba a quién, si a Walt le quedaban las camisas de hace diez años, y se iba a pasar el sábado entero preguntándolo y mirándole la cara a Kal mientras lo preguntaba. Héctor no preguntaba por los trabajos de noche. Contaba lo que faltaba en el patio a la mañana siguiente, y con eso le alcanzaba.
+Al enderezarse, el sobre le hizo esquina contra el pecho. Héctor iba a querer leerla dos veces y pasarse el sábado entero mirándole la cara. No preguntaba por los trabajos de noche: contaba lo que faltaba en el patio a la mañana siguiente, y con eso le alcanzaba.
 
 Mañana, decidió Kal, cuando ya no hubiera nada que mirarle.
 
-Antes de las diez, un camión de autopartes entró al patio como si trajera porcelana y no defensas usadas, y Héctor se le plantó enfrente con la llave inglesa hasta que el chofer entendió dónde podía pararse. El hombre bajó dos cajas y le pasó a Kal la hoja para que la firmara sobre el capó.
+Antes de las diez, el chofer de las autopartes bajó dos cajas y le pasó a Kal la hoja para que la firmara sobre el capó.
 
-—Las otras dos me las regreso —dijo, y le dio una palmada a la lámina—. Son de Hollis, el de los repuestos de carrera, en los caminos de Kingsley. Fui a dejárselas y ya ni puerta. Cerró el jueves. Se fue a Cabo con la señora, tres semanas, y no encontró a quién dejar encargado. Se lo ofreció al sobrino y el sobrino se rió. Puso un letrero escrito a mano.
+—Las otras dos me las regreso. Son de Hollis, el de los repuestos de carrera, en los caminos de Kingsley. Cerró el jueves. Se fue a Cabo tres semanas y no encontró a quién dejar encargado.
 
 —¿Oíste? —dijo Héctor, sin voltear—. El que no tiene gente, cierra. Y tú sin nadie para la noche.
 
@@ -309,79 +300,45 @@ Calle Corona ya estaba despierta. Un camión de mensajería bloqueaba media acer
 
 Kal bajó con una carpeta bajo el brazo.
 
-El oficial de recepción levantó la vista, reconoció el logo de Almendra Towing y luego reconoció a Kal. Ese orden le dijo más que cualquier saludo.
-
-—Mercer.
-
-—Buen día.
+El oficial de recepción reconoció el logo de Almendra Towing y luego reconoció a Kal. Ese orden le dijo más que cualquier saludo.
 
 —El chief lo espera.
 
-El oficial miró la grúa por la ventana.
-
-—Dejó eso prendido.
-
-—También los carros de ustedes.
-
-El hombre no sonrió, pero empujó el registro hacia él.
-
 La oficina de Raymond Keene estaba al fondo de un pasillo con demasiadas fotos enmarcadas: ceremonias, promociones, una visita escolar, el alcalde con la mano sobre el hombro de un cadete que ya no debía ser cadete. En cada imagen, la ciudad fingía que el uniforme bastaba para ordenar lo que pasaba fuera del encuadre.
 
-Keene no se levantó cuando Kal entró.
+Keene no se levantó. Tenía la camisa perfectamente planchada, la corbata floja apenas lo suficiente para parecer humano y una taza de café que no había tocado.
 
-Tenía la camisa perfectamente planchada, la corbata floja apenas lo suficiente para parecer humano y una taza de café que no había tocado. Sobre el escritorio había tres carpetas abiertas, una radio apagada y una fotografía familiar mirando hacia él, no hacia las visitas.
-
-—Señor Mercer.
-
-—Chief.
-
-Keene señaló la silla.
-
-Kal se sentó sin acomodarse demasiado. En las paredes había diplomas, un mapa de distritos y una pizarra con turnos de patrulla escritos a mano. Nadie escribía turnos a mano si le alcanzaba el presupuesto para que el sistema funcionara. La columna del sábado estaba hasta abajo. Kal la leyó dos veces, como quien no tiene otra cosa que mirar.
+Kal se sentó sin acomodarse demasiado. En la pared había una pizarra con turnos de patrulla escritos a mano. Nadie escribía turnos a mano si le alcanzaba el presupuesto para que el sistema funcionara. La columna del sábado estaba hasta abajo. Kal la leyó dos veces, como quien no tiene otra cosa que mirar.
 
 —Me dicen que quiere cobrarnos antes de arreglar algo —dijo Keene.
 
 Kal dejó la carpeta sobre el escritorio.
 
-—Quiero que dejen de pagar cada avería como emergencia.
-
-Keene abrió la carpeta con un dedo. Contrato de servicio. Anexo de unidades. Calendario de mantenimiento. Tarifa mensual. Línea separada para reparaciones financiadas. Todo con el membrete azul de Almendra Towing y suficiente lenguaje administrativo para aburrir a un auditor.
-
-—Renta mensual —leyó Keene.
-
-—Mantenimiento preventivo de patrullas asignadas. Revisión de frenos, suspensión, llantas, batería, fluidos. Prioridad de reparación. Piezas financiadas a noventa días cuando el presupuesto no alcance el mismo mes.
-
-—Qué generoso.
-
-—Qué barato sale no perder una unidad por tres semanas.
-
-Keene lo miró por encima de la hoja.
+—Quiero que dejen de pagar cada avería como emergencia. Mantenimiento de las patrullas, renta mensual y piezas financiadas a noventa días cuando el presupuesto no alcance el mismo mes.
 
 —No necesito que un mecánico me explique presupuesto municipal.
 
 —No. Necesita que alguien le dé una factura que presupuesto municipal pueda aprobar.
 
-La radio del pasillo soltó una clave y volvió a callarse. Keene no miró hacia la puerta. Kal sí, sin mover la cabeza.
+Keene abrió la carpeta con un dedo.
 
-—¿Y qué compra usted con esto? —preguntó Keene.
+—¿Y qué compra usted con esto?
 
 —Un cliente que paga cada mes.
 
 —Intente otra vez.
 
-Kal miró la taza de café intacta, la fotografía familiar vuelta hacia Keene y las carpetas abiertas sobre el escritorio. El chief no estaba preguntando por el precio. Quería saber qué problema podía admitir sin convertirlo en una confesión: coches viejos, presupuesto corto, oficiales que ya habían aprendido a no reportar cada ruido porque reportarlo también podía ser culpa de alguien.
+Kal miró la taza intacta y las carpetas abiertas sobre el escritorio. El chief no estaba preguntando por el precio. Quería saber qué problema podía admitir sin convertirlo en una confesión.
 
 Kal apoyó los antebrazos en las rodillas.
 
-—Compra que mis grúas no sean sorpresa cuando estén cerca de una patrulla. Compra que si una unidad truena en Santa Brígida no espere dos horas por un remolque del condado. Compra que sus oficiales no anden manejando coches que chillan al frenar frente a medio barrio.
-
-Keene dejó la mano sobre la carpeta.
+—Compra que mis grúas no sean sorpresa cuando estén cerca de una patrulla. Compra que si una unidad truena en Santa Brígida no espere dos horas por un remolque del condado.
 
 —¿Y qué quiere que diga si alguien pregunta por qué sus grúas aparecen antes que las demás?
 
-Kal no contestó de inmediato. La pregunta no era legal. Era política.
+La pregunta no era legal. Era política.
 
-—Diga que está probando un sistema de mantenimiento —respondió—. Seis unidades. Tres meses. Fechas, kilometraje, piezas y tiempos de respuesta. Si no funciona, lo cancela con números en la mano. Si funciona, no tendrá que explicar por qué dejó que sus patrullas siguieran muriéndose en la calle.
+—Diga que está probando un sistema de mantenimiento. Seis unidades. Tres meses. Si no funciona, lo cancela con números en la mano.
 
 —¿Por qué seis?
 
@@ -389,27 +346,7 @@ Kal no contestó de inmediato. La pregunta no era legal. Era política.
 
 El chief cerró la carpeta, pero ya no para terminar la conversación. La cerró para decidir dónde ponerla.
 
-Tenía manos de hombre que había usado uniforme de calle antes de aprender escritorio, pero ya no hacía trabajo que dejara grasa debajo de las uñas. Kal notó un raspón mínimo en el nudillo derecho. Reciente. No de oficina.
-
-—Almendra Towing ya tiene llamadas municipales —dijo Keene.
-
-—Por rotación.
-
-—Quiere preferencia.
-
-—Quiero estabilidad.
-
-—Todos quieren estabilidad cuando empiezan a crecer.
-
-Kal dejó que la palabra creciera entre ellos. No la negó. Negarla habría sonado a defensa; aceptarla le permitía escoger qué significaba.
-
-—Estabilidad para usted —dijo—. No preferencia para mí. Si las seis unidades entran el martes y salen el mismo día, su gente deja de improvisar y yo dejo de perseguir facturas como si estuviera pidiendo un favor.
-
-Afuera, una sirena se encendió dos segundos y se apagó; alguien apartando tráfico para salir de la cuadra, no una emergencia real.
-
-—Tiene doce unidades con más de ciento veinte mil millas —dijo Kal—. Cuatro con llantas que no pasan lluvia fuerte. Dos Crown Victoria que siguen rodando porque nadie quiere firmar que ya murieron. Y una Tahoe negra que pierde aceite desde hace seis meses pero todavía la mandan a eventos porque se ve bien en fotos.
-
-Keene abrió la carpeta otra vez, aunque no hacía falta.
+—Tiene doce unidades con más de ciento veinte mil millas —dijo Kal—. Dos Crown Victoria que siguen rodando porque nadie quiere firmar que ya murieron. Y una Tahoe negra que pierde aceite desde hace seis meses, pero todavía la mandan a eventos porque se ve bien en fotos.
 
 —¿Quién le dio ese inventario?
 
@@ -419,35 +356,9 @@ Keene abrió la carpeta otra vez, aunque no hacía falta.
 
 —Hablan todo el tiempo. Solo que no en inglés.
 
-Keene casi sonrió. Casi.
+Keene casi sonrió. Casi. Tomó por fin la taza, probó el café frío y la dejó en su lugar.
 
-—Usted viene preparado.
-
-Keene tomó por fin la taza, probó el café frío y la dejó en su lugar.
-
-—Noventa días para piezas.
-
-—Con límite.
-
-—¿Interés?
-
-—Menor que el de dejar una unidad parada.
-
-—No pregunté eso.
-
-Kal sacó una hoja del final de la carpeta y la puso encima.
-
-—Ahí está.
-
-Keene leyó. Luego leyó otra vez. La cifra no era caridad. Eso ayudó. A los hombres como Keene les tranquilizaba más que alguien cobrara bien a que alguien pareciera bueno.
-
-—Puedo autorizar un piloto —dijo al fin—. Tres meses. Seis unidades. Si mi gente se queja, se acaba.
-
-—Su gente se va a quejar aunque funcione.
-
-—Entonces si se queja con razón.
-
-Kal asintió.
+—Puedo autorizar un piloto. Tres meses, seis unidades. Si mi gente se queja con razón, se acaba.
 
 —Se arregla.
 
@@ -455,17 +366,11 @@ Keene tomó una pluma.
 
 —No significa que seamos socios, Mercer.
 
-Kal miró la pluma, luego al jefe de policía.
-
 —Mejor. Los socios salen más caros.
 
 Keene firmó la primera hoja y dejó las demás sin tocar.
 
-—Legal lo revisa.
-
-—Claro.
-
-—Y si alguno de sus muchachos usa una grúa con logo municipal para hacer algo que no deba, la primera llamada no va a ser a usted.
+—Legal lo revisa. Y si alguno de sus muchachos usa una grúa con logo municipal para hacer algo que no deba, la primera llamada no va a ser a usted.
 
 Kal tomó la carpeta.
 
@@ -475,7 +380,7 @@ Keene lo sostuvo con la mirada.
 
 —Eso espero.
 
-Kal salió con una firma y tres objeciones previsibles. Una patrulla que entraba al taller de la Almendra dejaba de ser sospecha si lo hacía cada martes a las diez. Eso también era relato.
+Kal salió con una firma. Una patrulla que entraba al taller de la Almendra dejaba de ser sospecha si lo hacía cada martes a las diez. Eso también era relato.
 
 En cuanto dobló hacia Paseo Corona, Kal pulsó el botón del manos libres.
 
