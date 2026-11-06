@@ -347,7 +347,7 @@ La pregunta no era legal. Era política.
 
 El chief cerró la carpeta, pero ya no para terminar la conversación. La cerró para decidir dónde ponerla.
 
-—Tiene doce unidades con más de ciento veinte mil millas —dijo Kal—. Cuatro con llantas que no pasan lluvia fuerte. Dos Crown Victoria que siguen rodando porque nadie quiere firmar que ya murieron; una lleva meses chillando al frenar. Y una Tahoe negra que pierde aceite desde hace seis meses, pero todavía la mandan a eventos porque se ve bien en fotos.
+—Tiene doce unidades con más de ciento veinte mil millas —dijo Kal—. Cuatro con llantas que no pasan lluvia fuerte. Dos Crown Victoria que siguen rodando porque nadie quiere firmar que ya murieron; una lleva meses chillando y frena cuando puede. Y una Tahoe negra que pierde aceite desde hace seis meses, pero todavía la mandan a eventos porque se ve bien en fotos.
 
 —¿Quién le dio ese inventario?
 
