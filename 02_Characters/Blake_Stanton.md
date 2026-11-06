@@ -31,7 +31,7 @@ Para que no sea sólo el "anti-Kal" (señal de las reseñas de ChatGPT del 2026-
 
 ## Su función: la trampa del parecido
 
-**Blake y Kal son los dos rubios de ojos azules.** Ésa es toda la razón por la que Blake existe en esta novela.
+**Blake y Kal son los dos rubios de ojos azules.** Ésa es toda la razón por la que Blake existe en esta novela. Primera aparición, sin nombre: el rubio de uniforme al volante de la unidad 31 en la persecución del Cap. 1 (AUTOR, 2026-11-05).
 
 Chiara no se equivocó de tipo de hombre: **se equivocó de hombre**. Fue a buscar en la copia lo que ya había encontrado en el original, sin darse cuenta de que lo había encontrado. Ver [[06_Relationships/Hitos]], H3.
 

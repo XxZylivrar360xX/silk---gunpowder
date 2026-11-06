@@ -16,6 +16,7 @@ Regla de dialogo 05 (2026-10-26, encargo del autor; DISENO pendiente de lectura;
 Escena nueva "Las notas" (2026-10-27, encargo del autor; DISENO pendiente de lectura; el estado se conserva): domingo temprano, Marisol confiesa que reprobo dos parciales, falto a clase y le mintio el sabado ("Sobreviviendo"). Kal la regaña de pie, sin subir la voz (la mentira, no la nota), pone condicion (hablar con los profesores, mandarle las notas), se sienta, le choca el hombro con media sonrisa: "Todo va a estar bien." Sustituye la version del choque del carro de Michael (descartada por el autor: precedente del Audi en el Cap. 24 y eco de mala conductora para el choque del Libro II). Fuera la muletilla "¿sabes?" en "Lo extraño". Remate (2026-10-27, direccion del autor via nota ChatGPT AUT-01; DISENO pendiente de lectura): sale "Tu papá reprobó Química dos veces" y la risa; entra el orgullo de Kal por Marisol como hija de La Almendra, con "tipos como yo" como eco de "somos plebe" (Cap. 7) sin glosa; reaccion minima; "Todo va a estar bien" intacto. Ajuste del autor: "Me lo dijiste tú... Eso ya es hacerlo mejor" (reconocimiento de la responsabilidad que ella asumio al confesar, no exigencia). Siembras de inquietud de Marisol, sin glosa: viernes, «Oye» abortado en el semaforo y plato raspado en la cena; sabado, "apretó el paso" al mentir (el agua derramada antes de "¿Y tu amiga?" se retiro: sugeria a Chiara como motivo). Tambien: "Desde Auster" -> "Desde que fue a verlo al taller" (Kal no conoce el nombre); fuera la cifra "la mitad de las confesiones falsas". Detalle: [[98_Agent_Handoff/sessions/2026-10-27_claude_cap17_escena_las_notas]].
 Marisol entra antes (2026-11-05, decision del autor): su primera aparicion en escena pasa al Cap. 1, con la descripcion fisica; aqui ya no es presentacion. El estado se conserva.
 Balayage (2026-11-05, encargo del autor): "Te lo hiciste" y "Ya te dije" cobran la mencion del Cap. 1: Kal le ve las puntas rubias por primera vez. El estado se conserva.
+Tenis y poker (2026-11-05, decision y orden del autor; capitulo TERMINADO, el estado se conserva; redaccion DISENO): junto al fuego, "Te dije que eran mejor los tenis": Kal se sonroja y gruñe, y ella le devuelve el gruñido con risa contenida (en el Cap. 1, con sarcasmo). En el arroyo, Kal le enseño a mentir en poker aunque desprecia el azar: fiestas y, por desgracia, juicios simulados. Sin glosa, prepara "Me miraste a la cara" del domingo.
 -->
 
 # Capítulo 15 — La regla del teléfono
@@ -222,6 +223,14 @@ Marisol lo pensó de verdad, no como pregunta de cortesía.
 
 Kal guardó eso en algún lugar sin decir para qué, con la misma costumbre con la que guardaba una pieza que todavía no sabía si iba a necesitar.
 
+—Lo que sí uso es lo que me enseñaste de póker —dijo ella, otra vez adelante—. La semana pasada, en el juicio simulado, no traía ni un precedente, y le mentí con la cara a la otra parte hasta que se sentó. Para ser un señor que no le compra una rifa ni a la iglesia, enseñas bien.
+
+—Eso era para las fiestas.
+
+—Y uno que otro juicio simulado.
+
+—Por desgracia.
+
 La luz de la mañana le aclaró los ojos hasta volverlos casi ámbar. Las pecas le cruzaban la nariz y se le perdían hacia los pómulos.
 
 ***
@@ -304,7 +313,13 @@ Kal movió una brasa con un palo.
 
 —Trabajamos juntos. Sale su nombre.
 
-—Sale su nombre. —Contó con los dedos, despacio, disfrutándolo—. Chiara conoció a un tipo que te consiguió las placas. Chiara dijo que el contrato de la comisaría estaba mal redactado. Chiara sabe de vinos. Chiara piensa que deberías cobrar por adelantado. Llevo un mes oyéndote y ya sé más de ella que de Nadir, y a Nadir lo conozco hace seis años.
+—Sale su nombre. —Contó con los dedos, despacio, disfrutándolo—. Chiara conoció a un tipo que te consiguió las placas. Chiara dijo que el contrato de la comisaría estaba mal redactado. Chiara sabe de vinos. Chiara piensa que deberías cobrar por adelantado. Llevo un mes oyéndote y ya sé más de ella que de Nadir, y a Nadir lo conozco hace seis años. Y te miró los tenis, eso también me lo contaste, sin que nadie te preguntara. —Dobló el último dedo—. Te dije que eran mejor los tenis.
+
+A Kal se le subió el calor a la cara. El fuego estaba demasiado bajo para echarle la culpa.
+
+Gruñó.
+
+Marisol le devolvió el gruñido, con la risa contenida entre los dientes.
 
 —Es buena en lo suyo.
 

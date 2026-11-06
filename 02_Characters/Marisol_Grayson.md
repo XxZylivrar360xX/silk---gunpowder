@@ -183,7 +183,8 @@ Su sarcasmo lo aprendió de Kal por convivencia, pero no lo imita: en ella es m�
 
 ## Reglas duras del personaje
 
-- **No vive en la casa de Kal.** Reside en la universidad.
+- **No vive en la casa de Kal.** Reside en la universidad. Cuando está en San Aurelio, en fin de semana o de visita, se queda en la casa de Michael, en la Almendra (CANON DEL AUTOR, 2026-11-05; Cap. 1).
+- **Póker (CANON DEL AUTOR, 2026-11-05).** Sabe que Kal desprecia los juegos de azar. Aun así, él le enseñó a mentir en póker, porque le iba a servir en las fiestas de la universidad y, por desgracia, en uno que otro juicio simulado. En prosa: Cap. 15 (archivo 14); no sale en el Cap. 1.
 - **No es hija biológica de Kal.**
 - **No existe para demostrar que Kal es bueno.** Existe para medir en qué se está convirtiendo.
 - **Tiene que poder contradecirlo.** Si sólo agradece, la ficha está fallando.

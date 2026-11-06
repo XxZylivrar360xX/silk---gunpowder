@@ -35,7 +35,7 @@ En el celular había seis mensajes y un enlace que Nadir le había mandado sin t
 
 Una banca. Cinta amarilla. Un toldo blanco que todavía no terminaba de cubrir lo que todos estaban mirando. Tres tiros antes de que abrieran los juzgados.
 
-El sábado, Keene había firmado una hoja. No todas. Una.
+El domingo, Keene había firmado una hoja. No todas. Una.
 
 Kal dejó el teléfono bocabajo sobre el escritorio. Ya habría tiempo de averiguar quién iba a decidir ahora qué patrulla pasaba lento por la Almendra y cuál no pasaba.
 

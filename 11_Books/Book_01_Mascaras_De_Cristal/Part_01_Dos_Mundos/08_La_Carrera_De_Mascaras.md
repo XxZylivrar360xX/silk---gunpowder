@@ -10,6 +10,7 @@ Lugares: Il Gelsomino (arranque), corredor comercial de salida al interior, La T
 Funcion: ejecutar H9 -- Kal saca a Chiara de su zona de confort y le presta una noche donde no tiene que administrar publicamente quien es. Juego + riesgo + confianza + libertad compartida. Dos lineas canon intactas ("lo mas ilegal que te han atrapado haciendo" / "ponte algo comodo... vamos a dar una vuelta"). El Peugeot rojo se carga como objeto de intimidad; Chiara se sube voluntariamente y Kal no la engaña sobre la naturaleza general de la salida una vez en camino. Mascaras fijadas: Kal negra lisa sin expresion, Chiara Colombina negra (version de tienda; no escoge una fea, sin subrayarlo). Tyler Brooks organiza la carrera (primera aparicion, sin biografia) y saluda a Kal como "Mac" -- apodo fijado 2026-08-29: iniciales invertidas de Mercer Kal, mascara verbal que solo usan en las carreras; Chiara arma el acertijo sola, un segundo tarde. Cuando Tyler le pide nombre a Chiara, ella misma contesta "Mandorla" antes de que Kal hable por ella -- almendra en italiano, disimulado para cualquiera menos para Kal, que lo entiende porque en el Cap. 6 vio que ella lo tiene guardado asi en el telefono (Mandorla = Almendra; "Mercer lo lee cualquiera"): Chiara se pone como nombre la mascara con que lo esconde a el. Frase de cierre que explicaba la sonrisa de Kal cortada 2026-09-30 (salto de POV; ya la explica el 6). Asimetria con el apodo de el: Mac esconde su propio nombre; Mandorla nombra el de Kal sin que nadie mas lo note. Rima silenciosa con Blake (no la exhibe, no la abandona). Carrera vivida desde el copiloto: ella intenta leer la sala y descubre que aqui Kal la lee antes; la velocidad le rompe el control y se rie de verdad -- centro del capitulo, no se explica. Kal iba septimo cuando aparecen las patrullas; el resultado pierde importancia. Una comunicacion policial identifica el Peugeot rojo como el coche conocido/buscado, NO a los ocupantes ni el vinculo entre ellos; Blake no aparece. Despues: motor apagado, se quitan las mascaras, conversacion minima ("fue una pesima idea" / "si" / "¿ganamos?"). Chiara deja la Colombina en el coche sin ceremonia; Kal la ve, no la tira, no corre a devolverla. Cierre sin beso, sin invitacion, sin declaracion: se divirtieron demasiado. Residuo hacia el Capitulo 12 (La balanza; el Corral se reubico al 24c el 2026-10-04): el pequeño retroceso posterior de Chiara; desde la separacion lo entrega el Cap. 11.
 Separacion 2026-10-23 (decision del autor): el capitulo termina en la carcajada de la carrera; la persecucion con Collins y el resto de la noche (escaner, Milla, Plaza Corona, Canal Seco, patio de vias, regreso al Monarch, la Colombina en el asiento, "quiero repetirla") pasan al Cap. 11, *La teniente* (archivo 08b). La Funcion de arriba describe H9 completo, repartido entre los dos.
 Cobro del corral (2026-11-04, DISEÑO; sustituye el cobro de la ruleta del 2026-11-03): tras "Madonna, Kal", Chiara calla la paja y a Danny en el caballo; cobra "A Kal ni una palabra" del final del Cap. 8. "Danny contar vacas" (linea 95) le explica a ella "una vaca no cuenta". Danny ya rompio el secreto o lo rompera: Cap. 11.
+Mascara negra (2026-11-05, decision del autor; capitulo TERMINADO, el estado se conserva; prosa DISENO): en La Tramoya, "¿Y el malvavisco?" / "Te toca escoger". Kal deja el malvavisco para no dejar sola a Chiara.
 -->
 
 # Capítulo 9 — La carrera de máscaras
@@ -129,6 +130,16 @@ Chiara tuvo que mirar hacia las pelucas.
 —Todo lo que ve.
 
 Kal recorrió el panel de un vistazo y descolgó una máscara negra, lisa, de plástico mate, sin una sola línea que quisiera decir algo. Sin cejas dibujadas, sin boca, sin gesto. Una cara que no era una cara. Se la probó de espaldas al espejo, no de frente, y con eso le bastó: no buscaba parecer otro. Buscaba que no supieran quién era.
+
+—¿Y el malvavisco? —dijo Chiara.
+
+—Se quedó en el coche.
+
+—¿Por?
+
+Kal le señaló el panel con la barbilla.
+
+—Te toca escoger.
 
 Chiara fue más despacio. Pasó la mano por una hilera de antifaces simples, de esos que se atan con un cordón y no cubren más que los ojos, y no se detuvo en ninguno. Siguió hasta una máscara negra de media cara, con el borde superior levantado en dos curvas suaves sobre las cejas y una línea limpia bajando por el pómulo. Versión de tienda — el plástico se notaba, la pintura tenía un brillo barato en los bordes—, pero tenía forma. Cubría lo que había que cubrir y, aun así, alguien la había diseñado para que se viera bien.
 

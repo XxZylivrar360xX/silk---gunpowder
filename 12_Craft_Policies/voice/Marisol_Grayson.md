@@ -38,7 +38,7 @@ Se alía con ella contra Kal (el café que no es para él, "¿Me equivoco, Chiar
 
 - **Herida:** primero lo cuenta de golpe y a la pared; al día siguiente, con distancia y una burla sobre sí misma ("Malísimo").
 - **Enfadada:** sarcasmo más corto y sin sonrisa.
-- **Afectuosa:** se recarga en el hombro sin abrazo ni declaración.
+- **Afectuosa:** se recarga en el hombro sin abrazo ni declaración. Con Kal, el beso en la mejilla: él gruñe, ella le devuelve el gruñido con el ceño fruncido y sonrisa sarcástica, y él le devuelve la sonrisa (AUTOR, Cap. 1). Vibra de padre e hija sin serlo. **Cobro en el Cap. 15 (AUTOR, 2026-11-05):** «Te dije que eran mejor los tenis» lo hace sonrojar; él gruñe y ella le devuelve el gruñido, esta vez con risa contenida (en el Cap. 1, con sarcasmo).
 - **Evasión típica:** hacer una broma sobre Kal para no hablar de ella.
 
 ## Muestras de registro (con origen)

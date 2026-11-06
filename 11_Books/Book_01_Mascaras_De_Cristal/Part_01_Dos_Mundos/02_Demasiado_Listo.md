@@ -18,6 +18,7 @@ Puente Nueva York-Palermo (2026-10-22, observacion del autor sobre la llegada nu
 2026-10-24: regla de diálogo 05 aplicada (cortes de eco y turnos perdidos), DISEÑO.
 Continuidad de la sala (2026-11-04, encargo del autor; DISEÑO, pendiente de lectura; el estado se conserva): "un dueño que no estaria en la junta" se adelantaba al anuncio de Dario; se queda el trio con "ya la tenia en inventario" y la idea pasa a despues del anuncio ("Chiara lo archivo con lo demas"). De pie o sentados: Kal es "el primero que se sento" y los demas lo siguen, asi conservan su sentido "nadie se hubiera levantado", "sentada en una mesa", "Matteo no volvio a sentarse" y "Se levanto". Ajustes de la misma revision: "alrededor de la mesa" (no escritorio) y Matteo toca "el borde de la mesa" (no el respaldo). Detalle: 98_Agent_Handoff/sessions/2026-11-04_claude_detalles_caps02_03.md.
 Decisiones del autor (2026-11-04; redaccion DISEÑO, pendiente de lectura; levantan lo protegido en Audit_Caps_01-03 §6 para estos puntos): fuera el sorteo y sus replicas, hasta "Sus aspiraciones son altas" (sin cobro desde 2026-09-30); la pregunta de Chiara por el porcentaje entra tras "Kal espero". La lectura de Kal desde Chiara pasa a observable para Kal ("Parecia saber que Kal no estaba jugando"). En la tina, "una habitacion podia mirarla de vuelta", que el recuerdo no cumplia, pasa a "le dijeron que cualquier casa bastaba".
+Tenis (2026-11-05, decision del autor; capitulo TERMINADO, el estado se conserva): "la unica concesion que se habia permitido" pasa a "idea de Marisol" (Cap. 1).
 -->
 
 # Capítulo 2 — Demasiado listo
@@ -416,7 +417,7 @@ Y aun así había venido. Nadir ya andaba metiendo pintura y alerones en los coc
 
 Se acomodó el saco del traje azul.
 
-Los tenis blancos eran la única concesión que se había permitido: limpios, absurdos bajo el corte correcto del pantalón, una manera de llegar presentable sin entregar la garganta.
+Los tenis blancos eran idea de Marisol: limpios, absurdos bajo el corte correcto del pantalón, una manera de llegar presentable sin entregar la garganta.
 
 El espejo negro de la puerta giratoria le devolvió una cara que nunca terminaba de pertenecer al barrio que lo había criado: pelo rubio, ojos azules, huesos de un norte que sus papeles no sabían nombrar. La cicatriz le cruzaba la mejilla izquierda desde la comisura de la boca hasta el rabillo del ojo, una línea clara sobre una cara que habría parecido demasiado limpia sin ella.
 

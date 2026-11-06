@@ -116,7 +116,7 @@ Negocia todo. No por codicia: porque no sabe estar en una situación sin buscar 
 
 Es extremadamente buen conductor. Es lo único que hace sin calcular.
 
-**Su coche es un Peugeot 106 XSi rojo, reacondicionado** — con el que se les escapa a los policías de San Aurelio en cada persecución. En la calle lo llaman **"el terror de la policía"**, y casi nadie sabe quién va dentro.
+**Su coche es un Peugeot 106 XSi rojo, reacondicionado** — con el que se les escapa a los policías de San Aurelio en cada persecución. En la calle lo llaman **"el terror de la policía"**, y casi nadie sabe quién va dentro. Al volante usa una máscara de hule con forma de malvavisco, ojos en espiral y boca de fantasma; la policía le dice **"el malvavisco del Peugeot"** (CANON DEL AUTOR, 2026-11-05; Cap. 1). En las carreras es Mac y lleva máscara negra, deliberadamente: para no dejar sola a Chiara (AUTOR, 2026-11-05; Caps. 9 y 10).
 
 > **DISEÑO:** que sea un cochecito barato y no un deportivo es la mitad del personaje: **es habilidad, no dinero.** Y el contraste con [[06_Relationships/Hitos]] H2-a es el arco entero en dos vehículos — la camioneta de lujo **rentada** para impresionarla en la primera cena, contra el Peugeot de verdad en el que aparece la noche en que ella entiende que ya lo eligió. **El disfraz no la ganó. Ser él, sí.**
 

@@ -2,37 +2,31 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-05 19:03. Al día: 51 de 56.
+Actualizada: 2026-11-05 23:00. Al día: 56 de 56.
 
 ## Pendientes
 
-| Cap. | Título | Estado | Motivo | Desde |
-|---|---|---|---|---|
-| 1 | Un hombre de negocios intachable | PENDIENTE | cambió la prosa | 2026-11-05 11:59 |
-| 3 | Los viejos días | PENDIENTE | cambió la prosa | 2026-11-05 11:59 |
-| 7 | Ambos | PENDIENTE | cambió la prosa | 2026-11-05 11:59 |
-| 15 | La regla del teléfono | PENDIENTE | cambió la prosa | 2026-11-05 11:59 |
-| 44 | Un par de días más | PENDIENTE | cambió la prosa | 2026-11-05 14:35 |
+Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Capítulos
 
 | Cap. | Título | Estado | Audio generado |
 |---|---|---|---|
-| 1 | Un hombre de negocios intachable | PENDIENTE | 2026-11-04 |
-| 2 | Demasiado listo | AL DIA | 2026-11-04 |
-| 3 | Los viejos días | PENDIENTE | 2026-11-04 |
+| 1 | Un hombre de negocios intachable | AL DIA | 2026-11-05 |
+| 2 | Demasiado listo | AL DIA | 2026-11-05 |
+| 3 | Los viejos días | AL DIA | 2026-11-05 |
 | 4 | Tarifa nocturna | AL DIA | 2026-11-04 |
 | 5 | Cliente y proveedor | AL DIA | 2026-11-03 |
 | 6 | La pizza de calabaza | AL DIA | 2026-11-04 |
-| 7 | Ambos | PENDIENTE | 2026-11-04 |
+| 7 | Ambos | AL DIA | 2026-11-05 |
 | 8 | La noche del ladrillo | AL DIA | 2026-11-04 |
-| 9 | La carrera de máscaras | AL DIA | 2026-11-04 |
+| 9 | La carrera de máscaras | AL DIA | 2026-11-05 |
 | 10 | La teniente | AL DIA | 2026-11-01 |
 | 11 | La balanza | AL DIA | 2026-11-04 |
 | 12 | Dos sillas vacías | AL DIA | 2026-11-01 |
 | 13 | Roma Atrii | AL DIA | 2026-11-01 |
 | 14 | Auster | AL DIA | 2026-11-01 |
-| 15 | La regla del teléfono | PENDIENTE | 2026-11-01 |
+| 15 | La regla del teléfono | AL DIA | 2026-11-05 |
 | 16 | Yo lo llevo | AL DIA | 2026-11-01 |
 | 17 | El sobre rojo | AL DIA | 2026-11-01 |
 | 18 | Le quedé debiendo | AL DIA | 2026-11-01 |
@@ -61,7 +55,7 @@ Actualizada: 2026-11-05 19:03. Al día: 51 de 56.
 | 41 | También las mañanas | AL DIA | 2026-11-01 |
 | 42 | Cuatro letras | AL DIA | 2026-11-01 |
 | 43 | Al revés | AL DIA | 2026-11-01 |
-| 44 | Un par de días más | PENDIENTE | 2026-11-01 |
+| 44 | Un par de días más | AL DIA | 2026-11-05 |
 | 45 | Mecánico | AL DIA | 2026-11-01 |
 | 46 | La otra mitad | AL DIA | 2026-11-01 |
 | 47 | Nada | AL DIA | 2026-11-01 |
@@ -77,6 +71,17 @@ Actualizada: 2026-11-05 19:03. Al día: 51 de 56.
 
 ## Historial
 
+- 2026-11-05 23:00 · Cap. 44 (39_Un_Par_De_Dias_Mas.md) · audio regenerado
+- 2026-11-05 23:00 · Cap. 15 (14_La_Regla_Del_Telefono.md) · audio regenerado
+- 2026-11-05 23:00 · Cap. 9 (08_La_Carrera_De_Mascaras.md) · audio regenerado
+- 2026-11-05 23:00 · Cap. 7 (06_Ambos.md) · audio regenerado
+- 2026-11-05 23:00 · Cap. 3 (03_Los_Viejos_Dias.md) · audio regenerado
+- 2026-11-05 23:00 · Cap. 2 (02_Demasiado_Listo.md) · audio regenerado
+- 2026-11-05 23:00 · Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md) · audio regenerado
+- 2026-11-05 22:16 · Cap. 9 (08_La_Carrera_De_Mascaras.md) · audio pendiente: cambió la prosa
+- 2026-11-05 22:16 · Cap. 2 (02_Demasiado_Listo.md) · audio pendiente: cambió la prosa
+- 2026-11-05 21:56 · Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md) · audio pendiente: cambió la prosa
+- 2026-11-05 19:35 · Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md) · audio regenerado
 - 2026-11-05 14:35 · Cap. 44 (39_Un_Par_De_Dias_Mas.md) · audio pendiente: cambió la prosa
 - 2026-11-05 11:59 · Cap. 15 (14_La_Regla_Del_Telefono.md) · audio pendiente: cambió la prosa
 - 2026-11-05 11:59 · Cap. 7 (06_Ambos.md) · audio pendiente: cambió la prosa
