@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-05 15:58. Al día: 51 de 56.
+Actualizada: 2026-11-05 18:17. Al día: 51 de 56.
 
 ## Pendientes
 

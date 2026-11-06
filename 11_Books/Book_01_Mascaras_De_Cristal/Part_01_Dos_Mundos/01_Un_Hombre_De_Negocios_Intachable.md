@@ -20,6 +20,7 @@ Marisol sin auto (2026-11-05, decision del autor): es estudiante; llega en taxi 
 Regla 05 en la escena de Marisol (2026-11-05, encargo del autor; DISENO, BORRADOR): ella habla largo y Kal contesta corto o pierde el turno; fuera "De eso no te la dan" y el eco de "Negocios". La anecdota de Walt ("a robar o a cenar") es nueva y espera lectura; Walt la dice sabiendo de quien es hijo: conocio a Dale Mercer, que le enseno a Kal a abrir coches.
 Balayage (2026-11-05, encargo del autor): Marisol lo menciona y Kal no se queda con la palabra; aqui aun no lo trae (pelirroja sin puntas rubias). Se cobra en el Cap. 15 (archivo 14).
 Poda de Hector, proveedor y Keene (2026-11-05, encargo del autor; DISENO, BORRADOR): supersede "Keene intacto". Hector se plantea como a quien acude el barrio. Se conservan la pizarra, seis unidades/tres meses, la hoja firmada, el martes a las diez, la marca del gancho y Hollis. Fuera el raspon del nudillo, el regateo de estabilidad y el interes. Texto previo en git (ae2fc26).
+Siembras de la persecucion (2026-11-05, encargo del autor): vuelven al inventario de Keene las llantas y el chillido, que la poda habia quitado y pagan en las unidades 31 y 27; "a las nueve de la mañana" pasa a "esa mañana".
 -->
 
 # Capítulo 1 — Un hombre de negocios intachable
@@ -346,7 +347,7 @@ La pregunta no era legal. Era política.
 
 El chief cerró la carpeta, pero ya no para terminar la conversación. La cerró para decidir dónde ponerla.
 
-—Tiene doce unidades con más de ciento veinte mil millas —dijo Kal—. Dos Crown Victoria que siguen rodando porque nadie quiere firmar que ya murieron. Y una Tahoe negra que pierde aceite desde hace seis meses, pero todavía la mandan a eventos porque se ve bien en fotos.
+—Tiene doce unidades con más de ciento veinte mil millas —dijo Kal—. Cuatro con llantas que no pasan lluvia fuerte. Dos Crown Victoria que siguen rodando porque nadie quiere firmar que ya murieron; una lleva meses chillando al frenar. Y una Tahoe negra que pierde aceite desde hace seis meses, pero todavía la mandan a eventos porque se ve bien en fotos.
 
 —¿Quién le dio ese inventario?
 
@@ -590,7 +591,7 @@ La avenida de Carga era una recta, y en una recta el 106 no tenía nada que hace
 
 Crown Victoria. A esa unidad Kal le había cambiado las pastillas de freno en marzo, por rotación, y había escrito en la hoja que le duraban dos meses. Dejó el pie donde estaba. Llevó la recta completa hasta la báscula, con el motor pidiendo otra cosa y la nariz de la patrulla a dos largos, a uno, y clavó el freno donde no había ninguna razón para hacerlo. El Peugeot se sentó sobre las llantas de adelante, entró a la curva de la báscula y salió.
 
-Detrás, a través de dos vidrios, oyó el chillido que le había vendido al chief a las nueve de la mañana. La Crown Victoria siguió derecho, larga, entera, hasta el patio de contenedores.
+Detrás, a través de dos vidrios, oyó el chillido que le había vendido al chief esa mañana. La Crown Victoria siguió derecho, larga, entera, hasta el patio de contenedores.
 
 —Hamdulillah —dijo Nadir, sin aire.
 
