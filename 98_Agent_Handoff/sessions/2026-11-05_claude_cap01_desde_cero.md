@@ -60,3 +60,11 @@ Junto al fuego, «Te dije que eran mejor los tenis», sonrojo, gruñido, risa co
 **Protegido:** Keene («Intente otra vez», «Sus coches», «Los socios salen más caros»: literales del plan; esgrima breve); llamada a Nadir (canon); boceto del muelle; «Y ya» (muro de Kal); «Ésos no» (repetición como muro); «Eso fue con Russell» / «Y con Garrett» (antífona de Héctor); «¿Negocios en sábado?»; coda de Crowe con Mabel; la mitad de la lista.
 
 **Autocrítica:** el cambio más dudoso era la rifa de Marisol; el autor la confirmó (sabe que Kal desprecia el azar y él le enseñó a mentir en póker: ficha de Marisol). El más agresivo, mover el `***`. Parecía corte y quedó protegido: «Eso fue con Russell», seco pero propio de Héctor. Riesgo de voz: bajo; los cambios añaden voz. El pan dulce rescata un objeto del texto anterior.
+
+## Observaciones del autor tras su lectura (2026-11-06; redacción DISEÑO, BORRADOR)
+
+- **Noche → Keene:** puente nuevo: regreso de Cedar Flats, cambio del Peugeot por la grúa antes de las siete (el sillón aún vacío, para no chocar con «A las siete eran dieciséis»), búsqueda en el puerto al amanecer; «A las nueve del domingo» queda como remate.
+- **Gelsomino → taller:** dos líneas de entrada a la Almendra (vías, panadería, meseta). No lo pidió por nombre; mismo defecto.
+- **Mabel → casa:** Avenida Almendra de domingo; la tarde pasa con el Ford y el líquido de frenos del Peugeot, lo que además explica que el Peugeot esté frente a la casa.
+- **Nadir, llamada:** Kal deja las bolsas en el escritorio mientras Nadir sigue atrás con Danny (AUTOR); Nadir las abre tarde y le marca cuando Kal va en el Peugeot. Marisol: Kal pasa por la casa, ella no está, deja el recipiente y le manda el texto «Te dejé comida» (AUTOR). Su «esa cara» pasa a «Mabel no regala tortillas». «¿Quieres que vaya?» y «el traje» se conservan; siguen pagándose en la llamada del Cap. 2.
+- **Despedida:** beso en la frente, «Buena semana en la universidad. No te metas en problemas», «Ése eres tú» (AUTOR). «Bajó los escalones sin ruido» cobra, sin subrayarlo, el *pff* de los zapatos (DISEÑO).

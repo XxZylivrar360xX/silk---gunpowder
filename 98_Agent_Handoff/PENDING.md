@@ -51,5 +51,5 @@ Plan: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]
 - **Reseña de Partes I–II (ChatGPT, OP-01 a OP-10):** vigente la [[98_Agent_Handoff/ChatGPT/2026-10-29_recalibracion_resena_partes_I_II_corte_cap25|recalibración]] (corte en 25); el informe previo queda como historial. OP-06 resuelto (corte). OP-03 estudiado: [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op03_robo_monarch]] (P1–P2 aplicados; P3–P6 a la beta). OP-02, 04, 05 y 07 estudiados: [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op02_op04_op05_op07]] (Mantener/Observar; Nat inactiva hasta el Libro II, CANON 2026-10-30). OP-01, 09 y 10 sólo con lector beta; OP-08 sólo por caso concreto. No editar prosa por hipótesis.
 - **Gesto de manos:** revisar en cada capítulo.
 - **Portada y Nota Editorial:** portada ≥1600×2560 para KDP; título de `00_Nota_Editorial.md`, del autor.
-- **Exportación:** EPUB, PDF y audio regenerados el 2026-10-31; audio PENDIENTE en los caps. tocados después; regenerar según CLAUDE.md.
+- **Exportación:** EPUB, PDF y audio al día (2026-11-06); regenerar según CLAUDE.md.
 - Diferidos en [[98_Agent_Handoff/BACKLOG]]: Q24, cobros del Libro I, aura, Halbrook, Corrado/Manfred, mesa tres, *El Faro*, Cap. 34, susurro a Varga y «Usted es alta».

@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-05 23:00. Al día: 56 de 56.
+Actualizada: 2026-11-06 16:06. Al día: 56 de 56.
 
 ## Pendientes
 
@@ -12,7 +12,7 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 | Cap. | Título | Estado | Audio generado |
 |---|---|---|---|
-| 1 | Un hombre de negocios intachable | AL DIA | 2026-11-05 |
+| 1 | Un hombre de negocios intachable | AL DIA | 2026-11-06 |
 | 2 | Demasiado listo | AL DIA | 2026-11-05 |
 | 3 | Los viejos días | AL DIA | 2026-11-05 |
 | 4 | Tarifa nocturna | AL DIA | 2026-11-04 |
@@ -71,6 +71,8 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Historial
 
+- 2026-11-06 16:06 · Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md) · audio regenerado
+- 2026-11-06 09:35 · Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md) · audio pendiente: cambió la prosa
 - 2026-11-05 23:00 · Cap. 44 (39_Un_Par_De_Dias_Mas.md) · audio regenerado
 - 2026-11-05 23:00 · Cap. 15 (14_La_Regla_Del_Telefono.md) · audio regenerado
 - 2026-11-05 23:00 · Cap. 9 (08_La_Carrera_De_Mascaras.md) · audio regenerado

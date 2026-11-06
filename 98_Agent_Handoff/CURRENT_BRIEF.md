@@ -1,12 +1,12 @@
 # Current Brief
 
-Actualizado: 2026-11-05. Máximo 800 palabras. **Numeración del 2026-11-01: 56 caps.**; equivalencias en el [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]. «Archivo N» cita el prefijo del archivo. Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-11-04_CURRENT_BRIEF]].
+Actualizado: 2026-11-06. Máximo 800 palabras. **Numeración del 2026-11-01: 56 caps.**; equivalencias en el [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]. «Archivo N» cita el prefijo del archivo. Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-11-04_CURRENT_BRIEF]].
 
 ## Foco y siguiente paso
 
 1. **Libro I, lectura del autor** de borradores y prosa DISEÑO. Rutas en [[98_Agent_Handoff/PENDING]]. Lectura en curso del Cap. 30 al 56: [[98_Agent_Handoff/sessions/2026-10-31_claude_guia_lectura_caps34_60]] (numeración de 60). CANON 2026-10-31: «recupere esto; aquí no pasó nada» va a la base, no a Kal.
-1b. **Cap. 1 reescrito desde cero (2026-11-05, DECISIÓN DEL AUTOR; BORRADOR, espera lectura):** [[98_Agent_Handoff/sessions/2026-11-05_claude_cap01_desde_cero]]; plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap01_Desde_Cero]]. Versión anterior en `Escenas_Eliminadas/`. Sin entregables hasta el cierre.
-2. **Cap. 3 (2026-11-05, DECISIÓN DEL AUTOR; BORRADOR, espera lectura):** Walt ya sabe que Jim murió; el cementerio es duelo en familia: [[98_Agent_Handoff/sessions/2026-11-05_claude_marisol_y_duelo_caps01_03]].
+1b. **Cap. 1 reescrito desde cero (2026-11-05, DECISIÓN DEL AUTOR; BORRADOR; observaciones del autor del 2026-11-06 aplicadas, redacción DISEÑO):** [[98_Agent_Handoff/sessions/2026-11-05_claude_cap01_desde_cero]]; plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap01_Desde_Cero]]. Versión anterior en `Escenas_Eliminadas/`. Sin entregables hasta el cierre.
+2. **Cap. 3 (2026-11-05, DECISIÓN DEL AUTOR; BORRADOR; observaciones del autor del 2026-11-06 aplicadas, redacción DISEÑO):** Walt ya sabe que Jim murió; el cementerio es duelo en familia: [[98_Agent_Handoff/sessions/2026-11-05_claude_marisol_y_duelo_caps01_03]].
 3. **Carretera del Libro I, aprobada** (autor, 2026-11-01): [[13_Auditorias/Book_01_Mascaras_De_Cristal/Carretera_Libro_I]]; [[98_Agent_Handoff/sessions/2026-11-01_claude_paso3_saldos_carretera]]; renumeración: [[98_Agent_Handoff/sessions/2026-11-01_codex_para_claude_renumeracion_56]]. Primer giro en el 12; Walt al II.
 4. **Libro II, *Sombras de Poder*** (diseño activo; prosa bloqueada hasta cerrar el I): [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 caps., DISEÑO), [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]], [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]]. Esperan al autor: F2, semillas Kal–Chiara, voces REL-01, Navidad de Almendra Towing (en pausa).
 
@@ -29,7 +29,7 @@ Actualizado: 2026-11-05. Máximo 800 palabras. **Numeración del 2026-11-01: 56 
 - **Calendario (CANON):** sep A1 → 5 ene A3; la Mesa, 13 dic; Kal preso 19 dic–5 ene.
 - **San Aurelio (CANON):** Oregon, inspirada en Portland, bahía ficticia; vía costera 101. Mapa: [[99_Reference/location_references/mapa_san_aurelio.png]].
 - **Mando policial (CANON):** sin jefe en el I; Lucía, subjefa en funciones. Libros II–III: [[02_Characters/Lucia_Varek]].
-- **Exportación:** audio PENDIENTE en caps. tocados (bitácora de `tools/audiolibro/`). Falta portada HD para KDP.
+- **Exportación:** EPUB, PDF y audio al día (2026-11-06). Falta portada HD para KDP.
 - **Regla (autor, 2026-11-03):** [[12_Craft_Policies/staging_rules/06-capitulo-de-estaciones]].
 - **Fabrizio:** última plática en el archivo 49. CANON: la coerción de Volpi pasa a Tommaso.
 - **CANON (ChatGPT, archivos 01–08b):** Chiara llega en jet desde Palermo (hangar de Kingsley); en el archivo 41 entra por Nueva York. Lunares de Chiara desde los omóplatos por el centro de la espalda.

@@ -8,6 +8,7 @@ Plan: 11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap01_Desd
 DISENO del agente, fuera del plan, a confirmar: orden Keene, llamada, Gelsomino, taller; se conserva la llamada a Nadir (puerco, pintura, Taurus; "los chicos" le dice a Kal que Danny vive); Mercury como coche del robo; disco trabado en el radio del taller; la mascara, regalo de Danny; "Parentesco" en blanco en el recibo; trece de dieciocho; Keene ordena empezar por la 31; los zapatos del padre de Marisol, que Kal no se pone; la ultima linea.
 AUTOR (2026-11-05, tras la primera version): los tenis los pone Marisol (energia de hombre, no de proveedor); Blake sin nombrar al volante de la 31 (redaccion DISENO).
 Reglas 05 y 06 (2026-11-05, encargo del autor; DISENO): nota en 98_Agent_Handoff/sessions/2026-11-05_claude_cap01_desde_cero.md.
+AUTOR (2026-11-06, tras su lectura): transiciones de noche a Keene y de Mabel a la casa; Nadir, llamada; despedida con beso en la frente y "Ese eres tu". Redaccion DISENO, misma nota.
 -->
 
 # Capítulo 1 — Un hombre de negocios intachable
@@ -272,6 +273,14 @@ Cedar Flats quedaba a una hora, y el Peugeot frenaba como una cama.
 
 ***
 
+Volvió con el asiento vacío y oliendo a cartón, tanteando el pedal en cada bajada. Kingsley Field pasó de lado, con las luces de pista prendidas para nadie. Cuando entró a la Almendra todavía no clareaba: las cortinas abajo, la calle sin un alma y un tren de carga detenido en las vías, con la máquina respirando.
+
+Metió el Peugeot detrás del taller y le echó la lona encima, con la raya de la puerta contra la pared. El sillón del techito estaba vacío. Se talló los brazos en el lavadero, con jabón de taller, hasta donde el jabón llegaba, se puso la camisa limpia que guardaba en la oficina y tomó la carpeta del Departamento, que llevaba una semana lista. Después sacó una grúa y bajó otra vez al Puerto Viejo, porque una grúa era lo único que podía pasar por ahí sin que nadie volteara.
+
+Amanecía gris sobre Terminal Road. A la reja de la aduana le faltaba un tramo, y en el lavado de tráileres un muchacho recogía los conos. En la boca del muelle cinco había cinta amarilla, y una grúa del condado trataba de bajar el Mercury del borde; lo habían enganchado mal. Kal siguió de largo, a veinte millas, mirando las rejas, los contenedores y los durmientes de las vías hasta donde se acababa la calle. Dio dos vueltas. Marcó tres veces. Buzón. Un vigilante con un termo lo vio pasar las dos veces y siguió soplándole al café.
+
+A las ocho y media dejó de buscar, porque tenía una cita.
+
 A las nueve del domingo, sin haber dormido, Kal Mercer le vendía frenos al Departamento de Policía de San Aurelio.
 
 El chief lo recibía ese día porque entre semana el Ayuntamiento no lo dejaba en paz. La oficina de Raymond Keene estaba al fondo de un pasillo con demasiadas fotos enmarcadas, y Calle Corona, allá abajo, tenía la cara lavada de los domingos. Keene no se levantó. Traía la camisa planchada y la corbata floja, y tenía una taza de café que no había tocado y una hoja encima de todas las carpetas.
@@ -384,6 +393,8 @@ Confiaba más en la bisagra.
 
 ***
 
+Calle Corona se acababa en las vías. Del otro lado, la grúa entró a Avenida Almendra entre cortinas bajadas y una fila de señoras afuera de la panadería, con la meseta al fondo, la almendra de tierra que le daba nombre al barrio.
+
 Nadir lo esperaba en la puerta de la oficina, un cuarto de block pegado al taller, con dos vasos de café y el formato del condado para el arrastre del Ford. Traía la pluma destapada. Kal le quitó la hoja antes de que la punta tocara el recuadro del operador, escribió su propio nombre y su propio número y la dejó en el escritorio. Nadir lo miró un segundo. No preguntó.
 
 —Por las vías hasta la cementera —dijo—. Tres horas, khoya, él cantando. Después un taxi que cobró cuarenta y dos dólares, y ni un centavo menos, wallah, porque nos vio los zapatos. ¿Cuánto dio el de Cedar Flats?
@@ -392,7 +403,7 @@ Nadir lo esperaba en la puerta de la oficina, un cuarto de block pegado al talle
 
 —Eran dieciocho. Dieciocho, y un Mercury. —Hizo la cuenta en el vaso, con un dedo, y la dejó sin terminar—. Está en el sillón.
 
-Detrás del taller, bajo un techito de lámina, Danny dormía en un sillón de tres plazas con la boca abierta y una bota puesta. Treinta años, y a esa distancia parecía de quince o de cincuenta. Rocco se había salido de la casa de tablas que Kal le había nivelado dos veces y estaba echado contra el sillón; abrió un ojo, comprobó que Kal no traía nada de comer y lo volvió a cerrar. El pecho de Danny subía y bajaba. Kal contó sin haberlo decidido.
+Detrás del taller, bajo el techito de lámina, Danny dormía en un sillón de tres plazas con la boca abierta y una bota puesta. Treinta años, y a esa distancia parecía de quince o de cincuenta. Rocco se había salido de la casa de tablas que Kal le había nivelado dos veces y estaba echado contra el sillón; abrió un ojo, comprobó que Kal no traía nada de comer y lo volvió a cerrar. El pecho de Danny subía y bajaba. Kal contó sin haberlo decidido.
 
 —Catorce —dijo Nadir, a su lado—. A las siete eran dieciséis. Yo también conté.
 
@@ -538,25 +549,33 @@ Esta vez Kal sí la miró. Mabel volvió a limpiar una mancha que no existía.
 
 ***
 
-Nadir abrió la primera bolsa en el escritorio de la oficina y olió adentro antes de preguntar.
+Kal salió con las bolsas contra el pecho. En la acera de Mabel todavía había parquímetros; de ahí para adentro, nadie que los cobrara. Avenida Almendra tenía su cara de domingo por la tarde: talleres con la cortina a medio subir, humo de carbón detrás de una cerca, unos niños que le pegaban con un tubo a una pelota contra el taller de llantas y un hombre lavando una camioneta con la manguera del vecino, que le levantó la barbilla a Kal sin soltarla.
 
-—¿Cuánto te cobró? Esa cara es de que te cobró de más.
+La casa quedaba a dos cuadras del taller, y le quedaba de paso. Marisol no estaba. Kal dejó un recipiente en la mesa de la cocina, junto a Procesal Penal, y le mandó un texto desde el porche: *Te dejé comida.*
+
+En la oficina tampoco había nadie; Nadir seguía atrás, junto al sillón, con la sopa guardada. Kal dejó las bolsas en el escritorio y volvió al Ford, que seguía con el capó abierto desde la noche anterior. Lo terminó. Después le cambió el líquido de frenos al Peugeot, que salió negro y oliendo a quemado. Cuando acabó, el sol les caía otra vez de lado a las láminas.
+
+Sacó el Peugeot para probar el pedal, con la canción baja, y en la primera cuadra le vibró el teléfono.
+
+—¿Cuánto te cobró? —Papel de bolsa, y alguien masticando—. Mabel no regala tortillas, khoya. Cuando regala es que te cobró de más.
 
 —Matteo Bellacorte. El Monarch, a las nueve.
 
-—Mateo, entonces. —Ya tenía una tortilla doblada en la mano—. Y vas con el traje, yak, el de los negocios, y van a pensar que llegaste a venderles autopartes. ¿Quieres que vaya?
+—Mateo, entonces. Y vas con el traje, yak, el de los negocios, y van a pensar que llegaste a venderles autopartes. ¿Quieres que vaya?
 
 —No.
 
 —No pregunté si necesitabas.
 
-Kal se detuvo en la puerta.
+Kal frenó frente a un porche que había reparado más veces que el dueño. El pedal contestó donde debía.
 
 —Lo sé.
 
-La casa quedaba a dos cuadras del taller, con un porche que Kal había reparado más veces que el dueño. Marisol estaba en la mesa de la cocina, descalza, con Procesal Penal abierto y un lápiz en el pelo. Kal le dejó enfrente uno de los recipientes de Mabel y siguió de largo hasta el cuarto de la plancha.
+Apagó el motor, y la canción se cortó a medio verso.
 
-Cuando volvió, ella ya había comido la mitad. Dejó de masticar.
+Marisol estaba en la mesa de la cocina, descalza, con Procesal Penal abierto, un lápiz en el pelo y el recipiente de Mabel destapado. Kal siguió de largo hasta el cuarto de la plancha.
+
+Cuando volvió, ella ya había comido la mitad, frío y todo. Dejó de masticar.
 
 Traía una camisa que acababa de planchar, con el cuello tieso de un lado y una arruga nueva en la espalda, un pantalón de mezclilla casi limpio y sus zapatos de vestir.
 
@@ -621,5 +640,13 @@ Lo acompañó hasta el porche con el lápiz todavía en el pelo. Afuera, el Peug
 —¿Y eso? —dijo Marisol.
 
 —Se arregla.
+
+Kal se agachó, sin que ella tuviera que bajarlo, y le dio un beso en la frente, a un lado del lápiz.
+
+—Buena semana en la universidad. No te metas en problemas.
+
+—Ése eres tú.
+
+Bajó los escalones sin ruido y se subió al Peugeot.
 
 Giró la llave. La canción siguió donde la había dejado.
