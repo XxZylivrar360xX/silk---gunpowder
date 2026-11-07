@@ -33,7 +33,7 @@
 | ~9 | Dale se ahorca en su celda, tras unos diecisiete años preso (Kal, ~32, lejos de San Aurelio). Las cartas nunca le llegan. |
 | A4, ago–sep | Manfred entrega las cartas, después de la boda de Walt (jul A4): ya ve a Kal con su hija, y la frase que le dijo a Dale sobre «recuperarlo» le pesa. |
 | A4, oct | Kal lee, habla con Chiara y devuelve las cartas a la tumba. |
-| A4, ~25 oct | Stavanger ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]]). |
+| A4, ~25 oct | Stavanger ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Stavanger]], [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Henrik]], [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]]). |
 
 Retcon aplicado con autorización del autor: Libro I, [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]] (línea de la celda).
 

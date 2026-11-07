@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-06: [[98_Agent_Handoff/sessions/2026-11-06_claude_origen_nombre_elenna]] · DECISIÓN DEL AUTOR: el nombre de Elenna viene de un cuento de Marta; anticonceptivos; la noche de Stavanger se narra en la página.
 - 2026-11-05: [[98_Agent_Handoff/sessions/2026-11-05_claude_marisol_y_duelo_caps01_03]] · DECISIÓN DEL AUTOR: Walt ya sabe de Jim; Marisol abre el Cap. 1; Cap. 3 en duelo de familia.
 - 2026-11-04: [[98_Agent_Handoff/sessions/2026-11-04_claude_cap01_sabado_y_domingo]] · Cap. 1 en sábado y domingo (BORRADOR). Reporte previo: [[98_Agent_Handoff/sessions/2026-11-04_claude_regla06_caps01_03]]
 - 2026-11-04: [[98_Agent_Handoff/sessions/2026-11-04_claude_detalles_caps02_03]] · Caps. 2–3: continuidad (orden, sala, teléfono, audiencia); 7 detalles esperan al autor.

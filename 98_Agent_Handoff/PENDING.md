@@ -1,11 +1,12 @@
 # Pendientes activos
 
-Actualizado: 2026-11-04. Máximo 800 palabras; las decisiones de fondo van en [[98_Agent_Handoff/BACKLOG]]. Anterior íntegro: [[98_Agent_Handoff/archive/2026-11-04_PENDING]]. **Numeración:** salvo las entradas fechadas desde el 2026-11-01, los números de abajo pueden ser anteriores; tabla en [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]]. `N:línea` cita archivo.
+Actualizado: 2026-11-06. Máximo 800 palabras; las decisiones de fondo van en [[98_Agent_Handoff/BACKLOG]]. Anterior íntegro: [[98_Agent_Handoff/archive/2026-11-04_PENDING]]. **Numeración:** salvo las entradas fechadas desde el 2026-11-01, los números de abajo pueden ser anteriores; tabla en [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]]. `N:línea` cita archivo.
 
 ## *Sombras de Poder* (Libro II): decide el autor
 
 Prosa en espera hasta cerrar el Libro I. Al empezar: recordar la muerte de Amanda Keegan ([[02_Characters/Natalie_Keegan]]) y revisar [[98_Agent_Handoff/BACKLOG#Libros II y III]] (incluye los cobros CANON del susurro a Varga y de «Usted es alta») antes de F2, H1 o Villa/Stavanger.
 
+- **Stavanger** ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Noche_Stavanger]]): leer la escena.
 - **F2** ([[98_Agent_Handoff/sessions/2026-10-14_claude_f2_coartada_bonnie]] · [[98_Agent_Handoff/sessions/2026-10-14_claude_f2_segunda_ronda]]): coartada y explicación aparente; qué filtra Mei-Lin y cómo se descubre; qué sabe Bonnie de la sentencia y si se despide de Chiara; dónde caen la conversación previa y la tarde de las latas; si la frase de los padres es literal; por qué no se refugia en Boston.
 - **Semillas Kal–Chiara** ([[98_Agent_Handoff/sessions/2026-10-14_claude_semillas_kal_chiara_bellissima_hijos_anya]]): «Bellissima» en el 20 o en el 16; charla sobre hijos; Anya (Chiara calla lo de la rubia hasta Stavanger; «amante» no se dice); anuncio de Bellandi Ridge; notas de supersesión en Anya, La_Villa y Los_Tres_Dias.
 - **Voces, REL-01** ([[98_Agent_Handoff/sessions/2026-10-14_claude_voces_rel01_chiara_bonnie]]): si Bonnie pasa del *usted* al *tú* con Chiara, quién lo provoca y en qué Parte. REL-02 y siguientes esperan.

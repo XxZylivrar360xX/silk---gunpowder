@@ -4,6 +4,8 @@
 >
 > **Bloqueo vigente:** no hay prosa nueva de *Sombras de Poder* hasta cerrar el Libro I (salvo encargo explícito del autor). Esta guía prepara la redacción; no la autoriza.
 
+**Directiva (DECISIÓN DEL AUTOR, 2026-11-07):** el libro se construye para cobrar la noche de Stavanger, y H1 cobra después lo que esa noche promete. Siembras por capítulo: [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Noche_Stavanger]].
+
 **Manda, en este orden:** [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] (estructura y hechos) · [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]] (calendario) · [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]] (hilos ocultos) · [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Robo_Joyeria]] · [[06_Relationships/Hitos]] (H1, H8) · [[06_Relationships/Momentos_de_Fractura]] (F2, F4) · [[04_Concepts/Fe_y_Velas]]. Detalle de la Parte I: [[98_Agent_Handoff/ChatGPT/2026-10-11_sombras_parte_i_territorio_ajeno]]. Si esta guía contradice una fuente, manda la fuente y se corrige la guía.
 
 ---
@@ -98,7 +100,8 @@ claude --resume 9e1c0767-30b3-465e-9519-f3ec475dece3
 
 - **Función:** la primera silla vacía; el poder empieza a llegarle por pérdida.
 - **Beats:** Lucía le pide identificar el cuerpo. La ciudad baraja una hipótesis de asesino serial (la composición evoca a Keene). Le llegan los expedientes de Fabrizio, con su letra. Primer reordenamiento: las funciones de Fabrizio y Matteo empiezan a concentrarse en ella. Tommaso, vivo y activo.
-- **Paola (CANON DEL AUTOR, 2026-10-18):** tras identificar el cuerpo, Chiara llama a Paola sin decirle nada y la cita en su despacho del Monarch. Paola llega alegre; Chiara se da cuenta de que está embarazada antes de darle la noticia, que la rompe. Era lo que Fabrizio iba a contar en el desayuno. Capítulo exacto: PENDIENTE (aquí o en el siguiente).
+- **Paola (CANON DEL AUTOR, 2026-10-18):** tras identificar el cuerpo, Chiara llama a Paola sin decirle nada y la cita en su despacho del Monarch. Paola llega alegre; Chiara se da cuenta de que está embarazada antes de darle la noticia, que la rompe. Era lo que Fabrizio iba a contar en el desayuno. Va en este capítulo y antes del tic 1 (DECISIÓN DEL AUTOR, 2026-11-06: la semilla del nombre exige el mismo día; ver [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]]).
+- **La cita (DECISIÓN DEL AUTOR, 2026-11-06):** entre lo que cancela ese día hay una cita en Santa Aurelia; nadie la comenta. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]].
 - **Tic 1 (primera vez):** su atención está en Fabrizio; la mano escribe en la periferia; mira el papel como si fuera a contestarle y lo rompe en tiras. Lectura falsa natural: el lector cree que escribe el nombre de él.
 - **No hacer:** insinuar a Volpi o el motivo (Fabrizio iba a hablar). Fabrizio le abrió la puerta a alguien conocido; eso no se dice.
 - **PENDIENTE:** mecanismo legal del Monarch.
@@ -427,10 +430,11 @@ claude --resume 9e1c0767-30b3-465e-9519-f3ec475dece3
 - **Línea canon, final de la última carta:** *«Lamento haberte arrebatado tu origen, te devuelvo lo poco que llegué a saber, no fui un padre para ti, pero eso no cambia que sí me importabas. -Dale»*
 - **No hacer:** voz de terapia en las cartas; absolución en voz alta; que Chiara las lea; cualquier pista de que Manfred es alguien más que un civil.
 
-**53. Ya llegó** — fines de oct A4 (~25; CANON 2026-10-14), Noruega, frío y luz gris · Stavanger
+**53a. Stavanger · 53b. Henrik · 53c. Ya llegó** — fines de oct A4 (~25; CANON 2026-10-14), Noruega, frío y luz gris · Stavanger
 
-- **Fuente:** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]] (prosa BORRADOR, sin número; manda).
+- **Tres capítulos (DECISIÓN DEL AUTOR, 2026-11-07):** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Stavanger]] (la llegada), [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Henrik]] (la casa, las cartas, la fotografía, el muelle y «¿Este era mi hogar?») y [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]] (la cabaña). Prosa BORRADOR, sin número; manda. La letra evita renumerar el boceto; la numeración final queda PENDIENTE.
 - **Canon:** el recuerdo de Anya: «Llegará el día en que llegue la persona que te haga creer.» / «¿Y ahora qué piensas?» / «Ya llegó.», y un beso. La propuesta y el origen de Kal. La concepción de Elenna, sin señalarse.
+- **La noche (DECISIÓN DEL AUTOR, 2026-11-06):** se narra en la página, tras meses de sequía: [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Noche_Stavanger]].
 
 **54. Llegar tarde** — ~18–22 nov A4 · externo o Kal; nunca Chiara con interioridad · reunión de la operación contra Crowe; su oficina
 

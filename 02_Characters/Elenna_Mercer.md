@@ -8,6 +8,8 @@
 
 > **SIGNIFICADO DEL NOMBRE (CANON DEL AUTOR, 2026-10-02):** "la que resplandece" (la luz en la oscuridad de la violencia de la ciudad) y "hacia las estrellas" (guiño al Cap. 20 del Libro I, *Lo pequeño*, arch. 20; antes *El mirador*). No se enuncia en prosa del Libro II. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "El nombre en cursiva".
 
+> **ORIGEN DEL NOMBRE (DECISIÓN DEL AUTOR, 2026-11-06):** una niña de los cuentos de Marta Bellandi. Chiara lo olvidó; lo recuerda la mano. Referencia a Tolkien para quien la reconozca. Ninguna rima con la muerte pública se cuenta textualmente. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]].
+
 > **CANON DEL AUTOR (2026-08-31).** El nombre verdadero es **Elenna Mercer**, con doble `n`. Durante su resguardo en Italia usa documentación como **Elenna Serra**. `Serra` no es su apellido real y no crea parentesco con ninguna familia: es una identidad destinada a cortar vínculos visibles con Kal, Chiara, Corrado y Bonnie.
 
 ## Datos básicos

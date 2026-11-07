@@ -2,6 +2,10 @@
 
 Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]. Archivar entradas antiguas antes de retirarlas.
 
+## 2026-11-06 — Origen del nombre de Elenna
+
+**DECISIÓN DEL AUTOR:** una niña de los cuentos de Marta; Chiara practicó con ese nombre la cursiva y lo olvidó. La rima con la muerte pública nunca se cuenta textualmente. Referencia a Tolkien sin explicar. El primer tic va tras la salida de Paola. Chiara deja de impedir el embarazo sin decidirlo. Stavanger se narra en la página, tras meses de sequía; el libro se construye para cobrarla. Fuente: [[98_Agent_Handoff/sessions/2026-11-06_claude_origen_nombre_elenna]].
+
 ## 2026-11-05 — Walt ya sabe de Jim; Marisol abre el Cap. 1
 
 **DECISIÓN DEL AUTOR:** supersede el canon del 2026-09-26: Walt sabe que Jim murió, por Natalie. Kal nunca lo visitó por miedo a la pregunta (defecto: proteger ocultando). Cap. 3 en duelo de familia. Marisol, primera interacción del Cap. 1, en persona. Carta: «Ojalá que mis dos hijos pudieran estar ahí.» Sesión: [[98_Agent_Handoff/sessions/2026-11-05_claude_marisol_y_duelo_caps01_03]].

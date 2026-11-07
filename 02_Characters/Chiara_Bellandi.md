@@ -200,6 +200,8 @@ Eso no vuelve inocente a Corrado ni convierte a los federales en villanos simple
 > *"Un giorno, bambina mia, capirai il prezzo di reggere il mondo sulle tue spalle. Ma non dimenticare mai: la chiave è non farlo da sola."*
 > Algún día, mi amada niña, entenderás el precio que tiene sostener el mundo en tus hombros. Solo no olvides que la clave está en no hacerlo sola.
 
+**DECISIÓN DEL AUTOR (2026-11-06):** de esos cuentos sale el nombre que escribe en *Sombras de Poder*: una niña inventada por Marta, con cuyo nombre Chiara practicó la cursiva y cuyo origen olvidó. Lo recuerda la mano, no ella. Reglas en [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]].
+
 De niña la leyó como una frase sobre crecer. Se la dice a Kal por primera vez en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos|Cap. 29 (archivo 25)]] (el jacuzzi), y es más de lo que le ha contado a nadie en San Aurelio. **Ironía que el texto no explicita:** Chiara construye poder exactamente como la frase advertía — sola — y esa tensión queda disponible para pagarse más adelante en la trilogía.
 
 ### Lo que aprendió en esa casa, y lo que ha estado buscando desde entonces

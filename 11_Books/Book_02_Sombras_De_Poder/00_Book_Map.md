@@ -141,7 +141,7 @@ Desarrollo completo, Parte por Parte, en [[01_Timeline/03_Libro_02_Sombras_De_Po
 
 ## Capítulos
 
-En prosa BORRADOR: [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/01_Hogar]] (Cap. 1, título fijado por el autor el 2026-10-10) y [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]] (capítulo sin número, prosa pendiente de lectura del autor). Las Partes II y III todavía no tienen capítulos escritos. El plan de la reconciliación sigue documentado en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]] (sección del antiguo Cap. 45). Carpetas (renombradas el 2026-10-12): `Part_01_Territorio_Ajeno/` (Hogar), `Part_02_Nieve_Y_Ceniza/` y `Part_03_Exilio/` (vacías) y `Part_04_Torna_A_Casa/` (*Ya llegó*).
+En prosa BORRADOR: [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/01_Hogar]] (Cap. 1, título fijado por el autor el 2026-10-10), [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Stavanger]], [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Henrik]] y [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]] (tres capítulos sin número, separados el 2026-11-07; prosa pendiente de lectura del autor). Las Partes II y III todavía no tienen capítulos escritos. El plan de la reconciliación sigue documentado en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]] (sección del antiguo Cap. 45). Carpetas (renombradas el 2026-10-12): `Part_01_Territorio_Ajeno/` (Hogar), `Part_02_Nieve_Y_Ceniza/` y `Part_03_Exilio/` (vacías) y `Part_04_Torna_A_Casa/` (*Ya llegó*).
 
 ## Escenas en reserva
 
