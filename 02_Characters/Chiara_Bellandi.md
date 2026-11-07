@@ -15,14 +15,14 @@
 **Rol:** protagonista. La que toma el relato.
 **Estado:** viva
 
-### Quién es en cada libro — II a IV PENDIENTES DEL AUTOR (2026-10-04)
+### Quién es en cada libro — II, CANON DEL AUTOR (2026-11-07); III y IV PENDIENTES DEL AUTOR
 
 Espejo de la tabla de [[02_Characters/Kal_Mercer]]. La cabecera describe el Libro I; al escribir otro libro manda esta tabla. Solo el autor llena la columna "Quién es"; la columna de contexto resume el timeline, no lo sustituye.
 
 | Libro | Quién es | Contexto del timeline |
 |---|---|---|
 | I — *Máscaras de Cristal* | Gestión de imagen y contención de prensa en el Monarch (cabecera) | Il Consorzio la reclama como Ardizzone (H13, Palermo) |
-| II — *Sombras de Poder* | **PENDIENTE** | Embarazo; depresión tras Mei-Lin y Bonnie; organiza la boda de Mabel y Walt |
+| II — *Sombras de Poder* | **CANON DEL AUTOR (2026-11-07):** busca proteger lo que empezó a amar, Kal y los chicos, porque empieza a percibir que todo lo que llega se va o muere; eso alimenta su espiral de descenso emocional. Kal está a su lado, pero cada uno en su frente, y a veces no alcanza: Kal empieza a ver que ella «no es feliz». Funcionan como entidades de poder, pero las sombras de la mecánica individual de cada uno los obligan a funcionar juntos pero separados. *Etiqueta de oficio: PENDIENTE.* | Embarazo; depresión tras Mei-Lin y Bonnie; organiza la boda de Mabel y Walt |
 | III — *Voto de Ceniza* | **PENDIENTE** | Santa Lucía: sobrevive en estado crítico; termina en coma |
 | IV — *Cuentas de Sangre* | **PENDIENTE** | Abre en coma; enfrenta a Il Consorzio, resuelve a Corrado y el apellido; sale con Kal a Palermo |
 | V–VII | **CANON DEL AUTOR (2026-10-04):** cofundadora con Kal de un viñedo en Palermo y de una distribuidora del sector agrícola, proveedores de negocios en Italia. **Ella es la figura pública**; él concreta los tratos. Vida tranquila el resto de la saga | Ausentes físicamente para Elenna (llamadas y cartas); regresan en el VII tras el disparo y se van del hangar |

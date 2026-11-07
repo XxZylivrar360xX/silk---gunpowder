@@ -52,6 +52,8 @@ Nada de esto se señala en prosa: ningún narrador ni personaje recuerda Stavang
 
 Nadie la decide: no es pelea ni fractura ni reclamo. Coinciden sólo para dormir: él llega cuando ella ya duerme. Se siembra por ausencia, con dos o tres toques mínimos en las Partes III y IV, sin decir nunca «hace cuánto que no». El lector la nota al llegar a Stavanger.
 
+**Causa (CANON DEL AUTOR, 2026-11-07):** funcionan juntos pero separados, cada uno en su frente, y Kal empieza a leer que ella «no es feliz»; ver [[02_Characters/Chiara_Bellandi]]. Sigue sin ser pelea ni reclamo. *DISEÑO:* «Te quiero conmigo» responde a esa separación sin nombrarla.
+
 | Tramo | Intimidad |
 |---|---|
 | *Lo pequeño* (Libro I) | Verifican: «¿Seguro?» |

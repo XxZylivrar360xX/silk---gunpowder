@@ -48,3 +48,4 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 Crear una nota breve por sesión sustantiva, con fecha, agente, cambio, fuentes y pendientes. Si afecta canon, continuidad o estructura, enlazarla aquí en una línea. Máximo 30 enlaces recientes: trasladar los más antiguos a un índice mensual en `98_Agent_Handoff/archive/` y enlazar ese índice desde el README del archivo. No copiar el relato de la sesión al brief ni a PENDING. No borrar registros.
 - 2026-11-05: Cap. 1 reescrito desde cero; malvavisco del Peugeot, casa de Michael: [[98_Agent_Handoff/sessions/2026-11-05_claude_cap01_desde_cero]]
+- 2026-11-07: quién es Chiara en *Sombras de Poder* (CANON): [[98_Agent_Handoff/sessions/2026-11-07_claude_chiara_libro_ii]]

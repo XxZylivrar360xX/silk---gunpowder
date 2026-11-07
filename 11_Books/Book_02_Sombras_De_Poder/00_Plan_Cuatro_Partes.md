@@ -15,6 +15,7 @@
 - **Kal acumula poder reuniendo gente. Chiara acumula poder mientras pierde gente.**
 - Kal: `resolver → coordinar → mandar → cargar → elegir cómo mandar`. Cree que puede controlar el daño si coordina lo suficiente; el libro demuestra que no.
 - Chiara: `administrar → estructurar → absorber funciones → sobrevivir pérdidas → construir futuro`. Cada vez tiene más poder y menos gente alrededor; se siente, no se verbaliza pronto.
+- **Chiara, motor (CANON DEL AUTOR, 2026-11-07):** protege lo que empezó a amar (Kal y los chicos) porque percibe que todo lo que llega se va o muere, y eso alimenta su espiral de descenso. Cada uno en su frente; a veces no alcanza, y Kal lee que ella «no es feliz». Entidades de poder que funcionan juntas pero separadas. Ver [[02_Characters/Chiara_Bellandi]].
 - Cierre: **Halbrook tiene institución. Dario tiene mafia. Kal tiene calle.** Ninguno puede crecer sin invadir a los otros, y Elenna llega en el peor momento posible.
 
 ## Las cuatro Partes

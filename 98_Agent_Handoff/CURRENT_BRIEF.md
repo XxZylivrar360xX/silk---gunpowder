@@ -1,6 +1,6 @@
 # Current Brief
 
-Actualizado: 2026-11-06. Máximo 800 palabras. **Numeración del 2026-11-01: 56 caps.**; equivalencias en el [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]. «Archivo N» cita el prefijo del archivo. Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-11-04_CURRENT_BRIEF]].
+Actualizado: 2026-11-07. Máximo 800 palabras. **Numeración del 2026-11-01: 56 caps.**; equivalencias en el [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]. «Archivo N» cita el prefijo del archivo. Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-11-04_CURRENT_BRIEF]].
 
 ## Foco y siguiente paso
 
@@ -31,6 +31,7 @@ Actualizado: 2026-11-06. Máximo 800 palabras. **Numeración del 2026-11-01: 56 
 - **Mando policial (CANON):** sin jefe en el I; Lucía, subjefa en funciones. Libros II–III: [[02_Characters/Lucia_Varek]].
 - **Exportación:** EPUB, PDF y audio al día (2026-11-06). Falta portada HD para KDP.
 - **Regla (autor, 2026-11-03):** [[12_Craft_Policies/staging_rules/06-capitulo-de-estaciones]].
+- **Mapa de POV del Libro I (2026-11-07, diagnóstico):** [[13_Auditorias/Book_01_Mascaras_De_Cristal/Mapa_POV_Libro_I]]. Sin modelo de POV declarado; 4 decisiones PENDIENTE del autor antes de escribir `12_Craft_Policies/Arquitectura_De_Perspectiva`.
 - **Fabrizio:** última plática en el archivo 49. CANON: la coerción de Volpi pasa a Tommaso.
 - **CANON (ChatGPT, archivos 01–08b):** Chiara llega en jet desde Palermo (hangar de Kingsley); en el archivo 41 entra por Nueva York. Lunares de Chiara desde los omóplatos por el centro de la espalda.
 
@@ -40,6 +41,7 @@ Detalle: [[98_Agent_Handoff/DECISIONS]].
 
 - **Arco:** 5 ene A3 → invierno A4, cuatro Partes. Cap. 1 «Hogar» (BORRADOR) cierra en «Fabrizio está muerto». Incendio ago A3; Stavanger ~25 oct A4; H1 ~6–8 dic A4; cierra con el reveal del embarazo en Villa Candelaria.
 - **Trama:** Volpi mata a Fabrizio; Tommaso se retira tras los frenos. Mei-Lin, triple agente. Boda de Mabel y Walt abre la IV. Cobro del levantón: [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Cobro_Del_Levanton]].
+- **Chiara (CANON 2026-11-07):** protege a Kal y a los chicos porque todo lo que llega se va o muere; espiral de descenso; juntos pero separados, y Kal lee que «no es feliz». [[02_Characters/Chiara_Bellandi]].
 - **F2:** Bonnie cubre a Mei-Lin sin saber qué cubre, confiesa y vive porque Chiara la quiere; exilio en Italia; regresa ~un año antes del epílogo.
 - **Halbrook:** Harper lo mata y cierra *Voto de Ceniza*.
 

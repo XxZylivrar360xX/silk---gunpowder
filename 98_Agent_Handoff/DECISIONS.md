@@ -2,6 +2,10 @@
 
 Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]. Archivar entradas antiguas antes de retirarlas.
 
+## 2026-11-07 — Chiara en *Sombras de Poder*
+
+**CANON DEL AUTOR:** protege lo que empezó a amar (Kal y los chicos) porque percibe que todo lo que llega se va o muere; espiral de descenso. Cada uno en su frente; Kal lee que ella «no es feliz». Juntos pero separados. Fuente: [[98_Agent_Handoff/sessions/2026-11-07_claude_chiara_libro_ii]].
+
 ## 2026-11-06 — Origen del nombre de Elenna
 
 **DECISIÓN DEL AUTOR:** una niña de los cuentos de Marta; Chiara practicó con ese nombre la cursiva y lo olvidó. La rima con la muerte pública nunca se cuenta textualmente. Referencia a Tolkien sin explicar. El primer tic va tras la salida de Paola. Chiara deja de impedir el embarazo sin decidirlo. Stavanger se narra en la página, tras meses de sequía; el libro se construye para cobrarla. Fuente: [[98_Agent_Handoff/sessions/2026-11-06_claude_origen_nombre_elenna]].
@@ -33,7 +37,3 @@ Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces 
 ## 2026-11-01 — Carretera: fusión del Cap. 6
 
 **DECISIÓN DEL AUTOR:** el Cap. 6 *Sin llamar a nadie* (05b) va como **coda del Cap. 5** *Cliente y proveedor* (05a), con poda ligera (~5,600 palabras el fusionado) y conservando las dos salidas con Blake. El escalón **V-1** queda aprobado y entra tras la caseta (la dirección pide el nombre del responsable de Almendra). El 05b sale con `git rm`; lo podado va a `Escenas_Eliminadas/`. Ejecutada 2026-11-01: [[98_Agent_Handoff/sessions/2026-11-01_claude_fusion_05b_coda_05a]].
-
-## 2026-10-31 — Carretera: arco legal de Hoover y Nat
-
-**DECISIÓN DEL AUTOR (ejecutada 2026-11-01, [[98_Agent_Handoff/sessions/2026-11-01_claude_fusion_bajo_juramento]]):** los Caps. 28–29 se fusionan **y reducen** en *Bajo juramento* (~3,000 palabras), sin salir del libro. Se conservan «mi... amigo», la mentira de Tommaso, Rivers/Connors, la media hoja a Krane y la escalinata. La videollamada de los tomates (escena eliminada del 19: Chiara se ríe sin medirse y nombra a Rivers) abre el fusionado. La moto de Nadir pasa al Cap. 30 (24b). Hoover es socio **del lote**. Una línea cobra el rumor de Hoover en el Monarch (05c), sin explicar a Tommaso. Nat: se corta su cameo en el Cap. 46 (archivo 37). [[98_Agent_Handoff/sessions/2026-10-31_claude_carretera_libro_i]].
