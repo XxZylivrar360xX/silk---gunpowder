@@ -2,13 +2,17 @@
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
-## F2 — CANON DEL AUTOR 2026-09-20
+## F2 — CANON DEL AUTOR 2026-11-07
 
-En Parte V, **el mismo día del destierro de Bonnie**, antes de Villa y Stavanger. Junto al mar, cree participar en una entrega de mercancía; no espera ceremonia. Nadir dispara por detrás, ejecución limpia, y llora; Kal carga la decisión, Nadir el acto. No documentar detalle táctico.
+> Plan anterior retirado: [[97_Supersedido/F2_Ejecucion_Y_Destierro]].
+
+**No la ejecutan.** Kal descubre la filtración y sólo se lo dice a Nadir y a Héctor. Héctor le pide no precipitarse: es una niña que actuó por miedo. Kal pospone el juicio y le dice a Mei-Lin que su destino se decidirá al acabar la operación; Nadir, decepcionado, se lo dice antes de empezar. En la operación un enemigo la apuñala muy arriba del muslo y le perfora la femoral; el torniquete improvisado de Nadir no aguanta, y la regla del Patio (nunca un hospital directo desde una operación) la lleva a El Patio. **Muere ahí, en manos de Nadir, con toda la banda rodeándola**; Nadir grita «¡Mei, Mei, Mei, Mei!» y Bonnie le sostiene la mano pidiendo una ambulancia. **Sus últimas palabras son para Kal: «Perdóname, jefe.»** Cuando él contesta, sus ojos ya miran a la nada y a él al mismo tiempo. Después de enterrarla ven el forro de la camioneta lleno de sangre. Detalle: [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]].
 
 Valora a Kal, quiere a Bonnie y encuentra hogar en La Almendra, pero teme más a Varek de lo que confía en la protección de Kal. **Los quería + los traicionó + tenía miedo.** La convivencia con Bonnie construye amistad real por horarios, barrio, autos, casa y rutinas; no fueron necesariamente mejores amigas al aparecer.
 
-> **CANON DEL AUTOR (2026-10-14) — la coartada de Bonnie.** Para cubrir la filtración a Varek, Mei-Lin le pide a Bonnie una coartada. Bonnie sabe que miente por ella, pero no sabe qué está cubriendo. La traición es sólo de Mei-Lin; la coartada arrastra a Bonnie y el barrio pide las dos cabezas. Ver [[02_Characters/Bonnie_Garcia]] y [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Bonnie y la muerte de Mei-Lin|F2]]. **PENDIENTE:** qué favor exacto pide y con qué explicación aparente (creíble para Bonnie sin volverla ingenua). **DISEÑO, no canon:** la lealtad de Lunar Pearl (no le cuenta el plan a Varek) y la filtración posterior por miedo son la misma persona: capaz de lealtad auténtica y de un error grave. Su historia no debe reducirse a mecanismo para sacar a Bonnie del tablero.
+**DISEÑO, no canon:** la lealtad de Lunar Pearl (no le cuenta el plan a Varek) y la filtración posterior por miedo son la misma persona: capaz de lealtad auténtica y de un error grave. Va a la operación sabiendo que la descubrieron; su historia no se reduce a mecanismo para sacar a Bonnie del tablero.
+
+> **CANON DEL AUTOR (2026-11-07): hay que construirla en los Libros I y II para que duela verla morir**, sobre todo su vínculo con Kal, porque su última frase es para él. Siembras: PENDIENTE.
 
 > **PENDIENTE antes de redactar F2:** información exacta, frecuencia, daño y hecho que delata la filtración. La cadena autoral Tommaso/Varek se conserva; no adelantar la revelación concluyente Varek–Volpi de Libro III.
 
@@ -82,6 +86,29 @@ Mei-Lin sí entrega información real a Varek — su traición no es un malenten
 ---
 
 ## Método
+
+## Doble turno — CANON DEL AUTOR (2026-11-07)
+
+Ya dentro del Patio, **de día trabaja en el taller de [[03_Factions/Almendra_Towing]]** y **de noche en el catering de los eventos de Chiara, en el [[03_Factions/El_Casino|Monarch]] y en el C&K Resort**, el hotel de Kal y Chiara. Así queda bajo los dos: de día con Kal y los chicos, de noche con Chiara. PENDIENTE: desde cuándo (¿cierre del Libro I o arranque del II?).
+
+**Por qué dos trabajos (CANON DEL AUTOR, 2026-11-07):** ahorra para pagar las **deudas de juego de su hermano mayor, Yun-Kai**. Ahí está el acto de empatía con Kal: él creció bajo la deuda de juego de Dale con Crowe ([[02_Characters/Kal_Mercer]]) y reconoce a alguien que carga con la de un familiar. PENDIENTE: con quién es la deuda, dónde está Yun-Kai, cómo y cuándo se entera Kal, y si la empatía es un gesto concreto (DISEÑO posible: Kal paga o renegocia la deuda, y esa es la deuda chica que vuelve insoportable traicionarlo) o la razón por la que pospone el juicio en F2.
+
+**DISEÑO, por aprobar:**
+- **Vuelve al Monarch del otro lado.** Fue valet nocturna de la contratista la noche del robo; ahora sirve en los eventos de Chiara en el mismo edificio.
+- **Lo que filtra.** El catering la pone en salas donde se ve quién llega, con quién habla Chiara y quién sale tarde; el taller, qué autos entran y salen. Es una respuesta posible al PENDIENTE de qué información entrega a Varek: nada que robe, sólo lo que ve sirviendo.
+**Yun-Kai, la deuda y Kal (CANON DEL AUTOR, 2026-11-07):**
+- **La deuda es con Varek** (con su gente): por ahí la aprieta, y por eso su miedo no es abstracto.
+- **La empatía de Kal es un gesto concreto**, no sólo comprensión: paga la deuda de Yun-Kai (ver los tres tiempos, abajo).
+- **Yun-Kai es un personaje fuera de escena.** Aparece una sola vez, **la noche de la cena de Navidad** ([[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Almendra_Towing]]), a pedirle dinero. Ella le grita que se largue, que ya no va a pagar nada más por él: **las palabras de Kal le abrieron los ojos** (ver abajo).
+- **Ahí empieza el arco de Kal descubriendo a Mei-Lin poco a poco:** la conoce como persona, con lo bueno y con lo malo, que incluye la traición. F2 es el final de ese arco.
+
+**El arco de Kal con Mei-Lin, en tres tiempos (CANON DEL AUTOR, 2026-11-07; el autor ajustará líneas al redactar el Libro II):**
+1. **Las palabras (antes de Navidad).** En el taller, de día, Mei-Lin le pide a Kal un adelanto de sueldo, no por primera vez. Él le pregunta para qué; ella da media verdad: «es para mi hermano». Kal le cuenta, casi sin querer, lo de Ruth: *«Mi madre pagó cada apuesta de mi padre. No lo salvó. Nada más se fue perdiendo ella.»* Y le da el adelanto de todos modos. No es sermón ni prohibición: le enseña su herida y ella llega sola a la conclusión.
+2. **Yun-Kai en la cena (24 dic, antes de medianoche; antes del collar de las 00:30).** Yun-Kai no entra: llega al portón del taller, alguien avisa y ella sale. Discuten afuera, bajo la luz del patio, mientras adentro sigue la fiesta; ella le grita que se largue, que ya no va a pagar nada más por él. **Sólo Kal lo ve** (salió por otra cosa) y no interviene. Al volver: *«¿Todo bien?» / «Todo bien, jefe.»* Es la primera vez que «jefe» suena en serio; F2 la cobra con «Perdóname, jefe». La fiesta no se ensucia y no hay presagio: es un pleito de familia.
+3. **El gesto (ene–feb A4).** Como Yun-Kai ya no paga, la gente de Varek empieza a cobrarle a ella. Kal va por su cuenta, sin decírselo, y **paga la deuda de Yun-Kai**: dinero, sin violencia; lo que nadie hizo por Ruth. El hombre de Varek recibe el dinero y dice: *«Lo del hermano queda saldado.»* «Lo del hermano» implica otra cuenta, la de ella. Kal lo oye, no pregunta y lo lee mal: cree que Varek se guarda una palanca contra él, no que ella le paga en información.
+- **Cobro en F2:** en *La línea* (cap. 43 del boceto) la frase le cae de golpe. **Resuelve el PENDIENTE de qué hecho delata la filtración.** Que Kal nunca le dijera que pagó explica por qué entiende tan bien a Héctor cuando dice «es una niña que actuó por miedo»: sabe cuánto miedo daba esa gente.
+
+- **Siembra del «jefe».** Al taller llega de día con Kal, y ese es el lugar natural para construir el vínculo que cobra «Perdóname, jefe».
 
 Mei-Lin sobrevive leyendo jerarquías. Antes de conducir, mira quién manda de verdad, quién sólo grita y quién cobra sin aparecer.
 

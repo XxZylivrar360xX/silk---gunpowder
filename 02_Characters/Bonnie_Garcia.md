@@ -4,15 +4,15 @@
 
 > **CANON DEL AUTOR (2026-10-02):** el personaje antes llamado **Riley Bennett** se llama ahora **Bonnie García** (cambio de nombre y apellido; se evita el guiño a *The Vampire Diaries*). Renombrado global en el vault.
 
-## El día de F2 — CANON DEL AUTOR 2026-09-20
+## F2 — CANON DEL AUTOR 2026-11-07
 
-Kal la destierra **el mismo día que Nadir ejecuta a Mei-Lin**. No hay intervalo de días ni semanas; salir de San Aurelio ese día no implica completar la ruta a Italia ese mismo día. Su conflicto propio no se inventa para acomodar a Elenna.
+> Plan anterior retirado: [[97_Supersedido/F2_Ejecucion_Y_Destierro]].
 
-> **CANON DEL AUTOR (2026-10-14) — la coartada y la confesión.** Bonnie le da una coartada a Mei-Lin **sabiendo que miente**, pero **sin saber que cubre una filtración a Varek**. La traición es de Mei-Lin; Bonnie no es cómplice consciente, pero queda pareciendo culpable y el barrio pide la cabeza de las dos. Cuando entiende lo que pasó, **va por su cuenta con Kal y confiesa que mintió**, antes de que la acorralen; no se presenta como impecable y no consigue limpiar su nombre del todo. **Kal la deja vivir porque Chiara la quiere**: excepción personal, no absolución. Su propia mentira también pesa sobre ella. **Segunda ronda (CANON 2026-10-14):** antes de ir con Kal se lo cuenta a Chiara, que no puede contener las lágrimas porque entiende lo que acaba de pasarle; la confesión la salva ante Kal y la condena ante el barrio; el exilio se lee como transacción Kal–Chiara (la vida de Bonnie a cambio de no estar en San Aurelio mientras El Patio funja como organización criminal). PENDIENTES (coartada exacta, qué sabe de la sentencia de Mei-Lin, despedida final de Chiara): [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Bonnie y la muerte de Mei-Lin|F2]].
->
-> **La tarde de las latas (CANON DEL AUTOR, escena prevista, antes de F2).** Bonnie no sabe disparar; Chiara lleva días insistiendo y Kal acepta enseñarle. En un descanso apartado tiran a latas, y la práctica se abre a una conversación sobre familia y futuro. Kal le transmite «si tienen un problema, díganmelo y lo arreglamos» (sentido, no diálogo literal): ahí nace la confianza real que le permite acudir a él en F2. No es promesa de impunidad. Ubicación exacta en la Parte III y extensión: PENDIENTE.
+**No hay destierro ni coartada.** Bonnie no tiene nada que ver con la filtración. Sostiene la mano de Mei-Lin mientras muere en El Patio y les pide a los chicos que llamen una ambulancia, contra la regla del Patio de no ir al hospital desde una operación (esa regla es parte de lo que la saca de la calle; DISEÑO). Se entera de la traición de Mei-Lin antes de irse (cómo: PENDIENTE). **Perder a su mejor amiga es demasiado: se va a Boston, por elección.** Días antes, Chiara y Marisol empezaron a hablarle de estudiar una carrera y construir su futuro sin depender de nadie (ni Kal, ni Chiara, ni nadie) y sin estar expuesta en la calle, que ella misma ya sentía chica y asfixiante. Detalle: [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]].
 
-Sobrevivir no es ganar: pierde a Mei-Lin, La Almendra, Chiara, su red cotidiana, ciudad, identidad habitual y vida en construcción. Mei-Lin era su roommate en La Almendra; la amistad se construyó con casa, horarios, barrio, autos y rutinas. Villa y Stavanger/propuesta vienen después, en Parte V.
+> **La tarde de las latas (CANON DEL AUTOR, escena prevista, antes de F2).** Bonnie no sabe disparar; Chiara lleva días insistiendo y Kal acepta enseñarle. En un descanso apartado tiran a latas, y la práctica se abre a una conversación sobre familia y futuro. Kal le transmite «si tienen un problema, díganmelo y lo arreglamos» (sentido, no diálogo literal): ahí nace la confianza real con Kal. No es promesa de impunidad. **PENDIENTE (2026-11-07):** su cobro era la confesión de F2, ya retirada; decidir si la escena se queda y qué cobra. Ubicación exacta en la Parte III y extensión: PENDIENTE.
+
+Irse no es ganar: pierde a Mei-Lin, La Almendra, el vínculo diario con Chiara, su red cotidiana y la ciudad. Gana una vida propia. Mei-Lin era su roommate en La Almendra; la amistad se construyó con casa, horarios, barrio, autos y rutinas.
 
 > **CANON DEL AUTOR (2026-10-03) — nombre legal y alias.** Su nombre completo es **Roberta «Bonnie» García**.
 > - **Libros I-III:** en la prosa es **Bonnie**. El apellido García solo se menciona en su presentación inicial; después no se pone foco en él.
@@ -82,23 +82,19 @@ Lo que opera hoy:
 - **RESUELTO (2026-09-20):** Mei-Lin y Bonnie terminan de roommates en La Almendra — al principio por conveniencia (mismo derrumbe, espacio limitado que ofrece Kal), después por amistad real construida en la convivencia diaria (turnos, comida, autos, bromas). Cuando ejecutan a Mei-Lin en F2, Bonnie no pierde "a una operadora": pierde a la persona con la que se iba a dormir cada noche.
 - Se acerca a Chiara y termina bajo su protección.
 - Su arco apunta a un futuro mejor lejos de la calle.
-- En [[06_Relationships/Momentos_de_Fractura]], F2, Kal la destierra para salvarle la vida: sale hacia Nueva York y después Chiara organiza su llegada a Italia bajo el apellido de protección **Ardizzone**.
+- En [[06_Relationships/Momentos_de_Fractura]], F2, tras la muerte de Mei-Lin se va a Boston a estudiar (CANON 2026-11-07).
 
-### Italia y Elenna — CANON / DISEÑO FIJADO (2026-08-31; posición corregida 2026-09-11)
+### Boston y Elenna — CANON DEL AUTOR (2026-11-07; sustituye «Italia y Elenna»)
 
-F2 ocurre en el **Libro I**, en Parte V, **antes** de [[05_Locations/La_Villa|Villa Candelaria]] y de Stavanger/anillo y con aire suficiente antes de H1 — **no** en Voto de Ceniza ni después de que la Guerra de los Tres haya empezado (la guerra, como conflicto de tres vértices, sólo se vuelve inevitable al cierre del Libro I). Elenna nace después, ya en *Voto de Ceniza* (Libro II). Bonnie debe llegar a Italia y construir una vida/cobertura estable antes de que Elenna necesite ser enviada allí.
+Tras F2 se instala en **Boston**, con sus padres adoptivos, a estudiar una carrera. Cuando Elenna nace (*Voto de Ceniza*, Libro III) ya tiene ahí una vida propia y estable. **Bonnie la recibe desde Boston.** Italia y la cobertura «Elenna Serra» quedan retiradas; el lugar exacto del resguardo, la documentación y si sus padres saben: PENDIENTE.
 
-La causalidad no puede invertirse. Kal no la destierra para producir una cuidadora futura; la salva por el conflicto de Bonnie. Chiara no la instala en Italia como empleada; le construye una posibilidad de supervivencia. Mucho después, cuando Kal y Chiara necesitan a alguien absolutamente confiable, Bonnie ya está allí.
+La causalidad no puede invertirse. Nadie la manda a Boston para producir una cuidadora futura: se va por un duelo y por un futuro propio. Mucho después, cuando Kal y Chiara necesitan a alguien absolutamente confiable fuera del mundo de la calle, Bonnie ya está allí.
 
-Bonnie recibe a Elenna Serra y se vuelve su cuidadora cotidiana durante aproximadamente su primer año. No es niñera funcional, sustituta descartable de Chiara ni segunda madre diseñada para competir con ella. Conserva agencia, vida propia y el costo de haber perdido San Aurelio, su nombre y el vínculo diario con Chiara.
+Bonnie se vuelve la cuidadora cotidiana de Elenna durante aproximadamente su primer año. No es niñera funcional, sustituta descartable de Chiara ni segunda madre diseñada para competir con ella. Conserva agencia, vida propia y el costo de haber perdido a Mei-Lin, San Aurelio y el vínculo diario con Chiara. Elenna desarrolla un apego real hacia Bonnie. Ese vínculo sobrevive al reencuentro con Kal y Chiara; la recuperación de convivencia con sus padres debe ser gradual y no borrar a Bonnie.
 
-**Ironía (CANON DEL AUTOR, 2026-10-14):** la decisión de salvarla es la que después permite poner a salvo a Elenna. Kal no la salva previendo ese uso, y Bonnie no recibe a la niña como pago de deuda ni obligación hacia Kal: conserva agencia. El cuidado de una hija que no es de su sangre conversa con su propia crianza adoptiva feliz; no explicarlo de antemano en la Parte III.
+**Ironía (adaptación DISEÑO de la ironía canon del 2026-10-14):** la salida que Chiara y Marisol la empujaron a buscar, para que no dependiera de nadie, es la que después permite poner a salvo a Elenna. Nadie lo prevé, y Bonnie no recibe a la niña como pago ni obligación. El cuidado de una hija que no es de su sangre conversa con su propia crianza adoptiva feliz; no explicarlo de antemano.
 
-**El regreso (CANON DEL AUTOR, 2026-10-14):** unos veinte años después de F2, **aproximadamente un año antes del epílogo [[07_Ideas/Tres_Hermanas_Epilogo|Tres Hermanas]]**, vuelve a San Aurelio como **Roberta Ardizzone**, avalada por una carrera propia: asume la **posición directiva que fue de Chiara** en el conjunto hotelero, no el puesto de administrador de Kenji. La mafia de Dario y El Patio como organización ya no existen y nadie exige su cabeza: la condición del exilio venció. **En Italia la amadrina Chiara; en San Aurelio, en la era de Elenna, la respalda Corrado**, en privado, porque para el mundo sigue muerto (su muerte en el VI no cambia). Siguen abiertos la mecánica de salida y la documentación: no atribuir a Corrado la falsificación ni la custodia inicial.
-
-Elenna desarrolla un apego real hacia Bonnie. Ese vínculo sobrevive al reencuentro con Kal y Chiara; la recuperación de convivencia con sus padres debe ser gradual y no borrar a Bonnie.
-
-Siguen pendientes el mecanismo documental de Roberta Ardizzone, quién sostiene su cobertura (resuelto 2026-10-14: la amadrina Chiara; falta el mecanismo), la localización exacta, su vida cotidiana antes de recibir a Elenna y cuánto tiempo media entre F2 y el nacimiento.
+**El regreso (CANON DEL AUTOR, 2026-10-14; ajustado 2026-11-07):** unos veinte años después de F2, **aproximadamente un año antes del epílogo [[07_Ideas/Tres_Hermanas_Epilogo|Tres Hermanas]]**, vuelve a San Aurelio avalada por una carrera propia y asume la **posición directiva que fue de Chiara** en el conjunto hotelero, no el puesto de administrador de Kenji. **PENDIENTE (2026-11-07):** sin exilio no hay condición que venza, y el nombre Roberta Ardizzone nacía de Italia. Hay que decidir con qué nombre vuelve, por qué tarda ~veinte años y si Corrado sigue respaldándola en privado en la era de Elenna.
 
 ### La entrega — DISEÑO / CANON DEL AUTOR (2026-09-11)
 
@@ -108,13 +104,15 @@ Siguen pendientes el mecanismo documental de Roberta Ardizzone, quién sostiene 
 
 Kal lleva personalmente a Elenna a una pista clandestina y encuentra ahí una figura con gabardina y capucha que resulta ser Bonnie. La revelación es simultánea para Kal y para el lector — Chiara ya lo sabía. Bonnie recibe a la niña sin necesidad de discurso: su sola presencia, dado lo que ya vivió en F2, basta como promesa. No es niñera ni recurso operativo: **es alguien que ya sabe lo que significa ser apartada para poder seguir viva.**
 
+> **PENDIENTE (2026-11-07):** esta línea (canon 2026-09-11) suponía el destierro. Con la salida voluntaria a Boston, el autor decide si cambia su sentido; no se reescribe. La pista clandestina ya no es la del destierro: su ubicación queda PENDIENTE.
+
 ### Marisol — arco afectivo (CANON DEL AUTOR 2026-10-14; resto en incubación)
 
 > Archivo rector: [[06_Relationships/Bonnie_y_Marisol]].
 
 - En *Sombras de Poder* Bonnie empieza a sentir algo por [[02_Characters/Marisol_Grayson|Marisol]] **sin saber nombrarlo**. Marisol sale con Kenji; Bonnie no interfiere.
-- En Italia **podría** enamorarse y convivir con alguien; sin pareja, duración ni ruptura fijadas. Después se centra en su carrera.
-- El regreso como Roberta Ardizzone está arriba («El regreso»); **la vuelta no nace sólo de Marisol** y Marisol hizo su propia vida en San Aurelio.
+- En Boston **podría** enamorarse y convivir con alguien; sin pareja, duración ni ruptura fijadas. Después se centra en su carrera.
+- El regreso está arriba («El regreso»); **la vuelta no nace sólo de Marisol** y Marisol hizo su propia vida en San Aurelio.
 - Ella y Marisol cuidan a Elenna como hermanita elegida; no son madres sustitutas ni hermanas entre sí.
 - **En exploración, no canon:** decirle a Erin «Yo entiendo lo que es enamorarse de alguien y que no te corresponda».
 

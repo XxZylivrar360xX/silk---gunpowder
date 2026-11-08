@@ -2,6 +2,8 @@
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
+> **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Mei-Lin muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone o el destierro queda superado.
+
 > **AVISO DE SUPERSESIÓN (2026-09-07; cuerpo reconciliado 2026-09-11):** [[00_Biblia/00_Trilogy_Structure]] manda sobre este archivo en escala y fronteras entre libros. Las referencias a "Parte III" / "Parte IV" que quedaban en el cuerpo del documento (nacimiento, embarazo, H22) ya se corrigieron para leer **Libro I** o ***Voto de Ceniza* (Libro II)** según corresponda. Los detalles finos (fechas exactas, distancia entre F2/H1/nacimiento, capítulo exacto de H22) siguen **PENDIENTE**, tal como los marca el documento de trilogía — no se resolvieron por esta corrección.
 
 *Seda y Pólvora — Ficha de Personaje*

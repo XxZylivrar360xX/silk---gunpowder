@@ -75,7 +75,7 @@ Principio de diseño: **nadie aquí firmó nada.** La lealtad se sostiene por fa
 
 - **[[02_Characters/Harper_Walker|Harper "Sparks" Walker]]** — empleada ganadera del norte; Kal la instruye como conductora y operadora de campo. Protegida suya, pero no igual que Marisol: Harper es formación de oficio.
 - **[[02_Characters/Tyler_Brooks|Tyler "Switch" Brooks]]** — organizador de carreras callejeras, 21 años, el más joven del núcleo. Convierte movimiento informal en red útil.
-- **[[02_Characters/Mei_Lin_Zhao]]** — corredora china de una banda rival desintegrada. Entra con experiencia y sospecha.
+- **[[02_Characters/Mei_Lin_Zhao]]** — corredora china de una banda rival desintegrada. Entra con experiencia y sospecha. **CANON DEL AUTOR (2026-11-07):** ya dentro, trabaja de día en el taller y de noche en el catering de los eventos de Chiara (Monarch y C&K Resort), ahorrando para pagar las deudas de juego de su hermano mayor, Yun-Kai.
 - **[[02_Characters/Bonnie_Garcia]]** — corredora de la misma banda rival. Se vuelve protegida de Chiara, que le enseña a leer escenarios y reconducir situaciones.
 - **[[02_Characters/Ren_Wei]]** — cocinero de cocaína y metanfetaminas. Entra último y consolida a Kal como proveedor por calidad y pureza.
 

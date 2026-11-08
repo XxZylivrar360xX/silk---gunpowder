@@ -78,6 +78,8 @@ No encontré otros choques. La ficha de Kal (el collar es la única excepción a
 - Vuelven a entrar y la fiesta sigue viva. El collar va bajo la camisa y nadie lo nota. No usar aquí el recurso de «lo ve Nadir y calla», que ya tiene el anillo del cap. 33.
 - Después vendría la mañana del 25 en la Villa, que es territorio de la nota hermana.
 
+> **CANON DEL AUTOR (2026-11-07) — Yun-Kai en la cena.** Esa noche aparece Yun-Kai, el hermano mayor de [[02_Characters/Mei_Lin_Zhao|Mei-Lin]], a pedirle dinero para sus deudas de juego (con la gente de Varek). Ella le grita que se largue, que ya no va a pagar nada más por él: las palabras de Kal le abrieron los ojos. Abre el arco de Kal descubriendo a Mei-Lin. Matiza la fila de Mei-Lin en «Composición de la mesa»: el estallido es carácter, no presagio de F2. **Resuelto (CANON, 2026-11-07):** durante la cena, antes de medianoche y antes del collar; Yun-Kai no entra, ella sale al portón; sólo Kal lo ve y no interviene. Al volver: «¿Todo bien?» / «Todo bien, jefe.» Detalle en su ficha.
+
 ## Juegos (elegir uno)
 
 | | Juego | Conduce | A favor | Riesgo |

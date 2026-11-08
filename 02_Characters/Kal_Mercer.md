@@ -2,9 +2,11 @@
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
+> **Mei-Lin (CANON DEL AUTOR, 2026-11-07):** desde la Navidad del Libro II, Kal la va descubriendo poco a poco, lo bueno y lo malo. Reconoce en ella la deuda de juego de un familiar (Yun-Kai, con la gente de Varek), como la de Dale con Crowe, y, sin decírselo, paga esa deuda; el «Lo del hermano queda saldado» del hombre de Varek es lo que después le revela la filtración. Ver [[02_Characters/Mei_Lin_Zhao]].
+
 ## Sobrecompensación después de F2 — CANON DEL AUTOR 2026-09-20
 
-En Parte V — Exilio, el mismo día decide la ejecución de Mei-Lin mediante Nadir y obliga a Bonnie a irse para evitar otra muerte. Ve el costo sobre Chiara, Nadir y El Patio y no sabe revertirlo. **Cuando no puede reparar una herida, intenta construir algo bueno junto a ella. Sabe construir mejor de lo que sabe consolar.**
+**F2 (CANON DEL AUTOR, 2026-11-07):** descubre la filtración de Mei-Lin, se la cuenta sólo a Nadir y a Héctor y, por consejo de Héctor, pospone el juicio hasta acabar la operación. Un enemigo apuñala a Mei-Lin en la femoral y muere en El Patio antes de que él decida; sus últimas palabras son para él: «Perdóname, jefe.»; Bonnie se va a Boston. Ve el costo sobre Chiara, Nadir y El Patio y no sabe revertirlo. **Cuando no puede reparar una herida, intenta construir algo bueno junto a ella. Sabe construir mejor de lo que sabe consolar.**
 
 Villa Candelaria, tiempo compartido, detalles, viajes y experiencias construyen memorias felices junto a pérdidas que permanecen. No es consumo ostentoso ni curación de Chiara con regalos; Kal no cree haber compensado una muerte. Noruega/Stavanger, después de Bonnie en Parte V, también responde a su propia necesidad de salir de San Aurelio. **La sobrecompensación crea el espacio; la propuesta nace de claridad, no de culpa:** seguir eligiendo a Chiara, sin cambiarla a Mercer. La ejecución concreta de la incubadora y su biografía no se canonizan por esta ubicación. Ver [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]].
 

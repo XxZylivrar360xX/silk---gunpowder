@@ -1,5 +1,8 @@
 # Book 03 — Voto de Ceniza
 
+> **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Mei-Lin muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone o el destierro queda superado.
+
+
 *Mapa narrativo operativo. Libro III de la saga.*
 
 > **DERIVADO DE [[00_Biblia/00_Trilogy_Structure]] (2026-09-09, Claude Code).** Este mapa reconstruye el volumen a partir de la arquitectura de la saga fijada por el autor. Todo lo no citado explícitamente como CANON allí es DISEÑO discutible. **Estado: esqueleto — pendiente de validación del autor y de que la Guerra de los Tres se desglose con la matriz de [[04_Concepts/La_Guerra_de_los_Tres]].**
@@ -113,7 +116,7 @@ Kal entiende proteger como **distancia física** — cuando alguien corre peligr
 
 ### Bonnie — payoff, no causa
 
-> **CANON DEL AUTOR (2026-09-11).** Amplía la regla dura ya fijada en [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Bonnie y la muerte de Mei-Lin|F2]] y en [[02_Characters/Bonnie_Garcia]].
+> **CANON DEL AUTOR (2026-09-11).** Amplía la regla dura ya fijada en [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]] y en [[02_Characters/Bonnie_Garcia]].
 
 **Regla dura:** Bonnie no reaparece — ni en mensaje, llamada, interludio ni pista explícita — en ningún momento antes de la entrega de Elenna. Su ausencia permanece intacta desde el destierro en el Libro II — Sombras de Poder. Durante la planificación, Chiara sólo dice algo equivalente a:
 

@@ -42,7 +42,7 @@ Detalle: [[98_Agent_Handoff/DECISIONS]].
 - **Arco:** 5 ene A3 → invierno A4, cuatro Partes. Cap. 1 «Hogar» (BORRADOR) cierra en «Fabrizio está muerto». Incendio ago A3; Stavanger ~25 oct A4; H1 ~6–8 dic A4; cierra con el reveal del embarazo en Villa Candelaria.
 - **Trama:** Volpi mata a Fabrizio; Tommaso se retira tras los frenos. Mei-Lin, triple agente. Boda de Mabel y Walt abre la IV. Cobro del levantón: [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Cobro_Del_Levanton]].
 - **Chiara (CANON 2026-11-07):** protege a Kal y a los chicos porque todo lo que llega se va o muere; espiral de descenso; juntos pero separados, y Kal lee que «no es feliz». [[02_Characters/Chiara_Bellandi]].
-- **F2:** Bonnie cubre a Mei-Lin sin saber qué cubre, confiesa y vive porque Chiara la quiere; exilio en Italia; regresa ~un año antes del epílogo.
+- **F2 (CANON 2026-11-07):** sin ejecución ni destierro. Mei-Lin, descubierta y con el juicio pospuesto, muere en El Patio (puñalada en la femoral; «Perdóname, jefe.») en manos de Nadir; Bonnie se va a Boston por elección y recibe a Elenna desde ahí. Pendientes: [[98_Agent_Handoff/sessions/2026-11-07_claude_f2_mei_lin_bonnie_nuevo_destino]].
 - **Halbrook:** Harper lo mata y cierra *Voto de Ceniza*.
 
 ## Canon menor vigente

@@ -51,3 +51,4 @@ Crear una nota breve por sesión sustantiva, con fecha, agente, cambio, fuentes 
 - 2026-11-05: Cap. 1 reescrito desde cero; malvavisco del Peugeot, casa de Michael: [[98_Agent_Handoff/sessions/2026-11-05_claude_cap01_desde_cero]]
 - 2026-11-07: quién es Chiara en *Sombras de Poder* (CANON): [[98_Agent_Handoff/sessions/2026-11-07_claude_chiara_libro_ii]]
 - 2026-11-07: tarjetas del Cap. 11 a Camp Alder (CANON): Vento asesinado en el corral por orden de Crowe; sale *Bajo juramento*; Crowe compra las armas de Camp Alder: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]]
+- 2026-11-07: F2 nuevo (CANON): Mei-Lin muere tras una operación, Bonnie a Boston; sin ejecución ni destierro: [[98_Agent_Handoff/sessions/2026-11-07_claude_f2_mei_lin_bonnie_nuevo_destino]]

@@ -124,104 +124,74 @@ Chiara ayudaba a **Elliot Price**, un hombre autista vinculado al taller; se sob
 
 ---
 
-## F2 - El destierro de Bonnie y la muerte de Mei-Lin
+## F2 - La muerte de Mei-Lin y la salida de Bonnie
 
-**Función:** fractura moral de la pareja.
-**Lugar:** Puerto Viejo / costa para Mei-Lin; norte rural para Bonnie.
-**Estado de la relación:** El Patio ya tiene estructura suficiente para que una filtración pueda destruirlos.
+> Plan anterior retirado: [[97_Supersedido/F2_Ejecucion_Y_Destierro]].
 
-> **CANON DEL AUTOR — 2026-09-20:** F2 pertenece a Parte V — Exilio, después de F4/F3 y antes de Villa Candelaria, Stavanger y H1. Ejecución de Mei-Lin y destierro de Bonnie: **el mismo día**, dos destinos dentro de una sola macrofractura. La versión con Villa previa e intervalo corto queda **SUPERSEDIDA**. Bonnie puede completar después su ruta a Italia; no se comprimen todos los traslados en ese día.
+**Función:** fractura moral y derrota de Chiara. F2 es el costo acumulado del libro: Chiara pierde a Mei-Lin, a Bonnie, a Fabrizio y a Tommaso, y se siente derrotada.
+**Lugar:** una operación del Patio (PENDIENTE cuál), la camioneta de regreso y El Patio.
 
-> **CANON DEL AUTOR (2026-10-14) — la coartada, la confesión y la excepción.** Resuelve en parte el «conflicto propio» de Bonnie (F2-B). Fuente: [[98_Agent_Handoff/archive/chatgpt/2026-10-14_f2_meilin_bonnie_confesion_destierro]].
-> - **La traición es de Mei-Lin.** Bonnie le da una coartada **sabiendo que miente**, pero **sin saber que cubre una filtración a Varek**. No es cómplice consciente de espionaje; aun así, la coartada y la cercanía la dejan **pareciendo culpable**, y el barrio exige la cabeza de las dos.
-> - **Bonnie confiesa por su cuenta.** Cuando entiende lo que pasó, va con Kal y reconoce que mintió, antes de que las pruebas la acorralen. No se presenta como impecable. No logra limpiar su nombre del todo ante el colectivo.
-> - **La excepción es por amor a Chiara.** Kal la deja vivir porque Chiara la quiere: es una excepción personal que el barrio puede no entender, aunque obedezca al jefe. No sustituir por absolución jurídica, prueba completa de inocencia ni justificación logística.
-> - **Antecedente: la tarde de las latas.** Antes de F2, por insistencia de Chiara, Kal le enseña a disparar a Bonnie tirando a latas en un descanso apartado; la práctica se abre a una conversación sobre familia y futuro. Ahí Kal transmite «si tienen un problema, díganmelo y lo arreglamos», y eso es lo que permite que Bonnie vaya a él en F2. No es promesa de impunidad: el pago es amargo, porque Bonnie hace exactamente lo que él pidió y él sólo consigue salvarla alejándola.
-> - **Ironía, no plan.** Salvar a Bonnie es lo que después permite poner a salvo a Elenna; Kal no lo prevé, y Bonnie no recibe a la niña como pago de deuda. No explicar la ironía en la Parte III.
-> - **PENDIENTE (no inventar):** qué coartada pide Mei-Lin y con qué explicación aparente; qué información entrega, cuándo, qué daño hace y cómo se descubre; ~~por qué el barrio cree que Bonnie participó a sabiendas~~ (resuelto abajo); qué sabe Bonnie de la sentencia de Mei-Lin al irse y si hay despedida con Chiara después de la conversación previa; forma, lugar y momento de esa conversación y de la confesión.
-> - **DISEÑO, no canon:** que la lealtad de Mei-Lin en Lunar Pearl (no le cuenta el plan a Varek) conviva con la filtración posterior como contradicción del personaje, no como incoherencia.
+> **Ajuste del mismo día (CANON DEL AUTOR, 2026-11-07, segunda ronda):** la herida pasa de bala escondida a **puñalada en la femoral**, para que F2 no copie la mecánica de H1. Versión anterior (balazo, adrenalina, desangrado sin que nadie lo note, Héctor preguntando si alguien venía herido) retirada: [[97_Supersedido/F2_Ejecucion_Y_Destierro]].
+**Libro:** *Sombras de Poder*, separado de H1 (el autor no quiere cargar H1). Posición provisional: la de antes, Parte III — Exilio, antes de la boda, Stavanger y H1. Ajuste fino: PENDIENTE.
 
-> **CANON DEL AUTOR (2026-10-14, segunda ronda) — la secuencia y la transacción.**
-> - **Orden.** Se descubre la filtración; la coartada que Bonnie dio a Mei-Lin la vuelve sospechosa, pero todavía no hay prueba contra ella. Antes de que la haya, Bonnie confiesa.
-> - **Primero Chiara.** Antes de ir con Kal, Bonnie se lo cuenta a Chiara. En esa conversación Chiara no puede contener las lágrimas: entiende lo que acaba de pasarle a Bonnie. Después Bonnie va con Kal.
-> - **La confesión salva y condena.** Ante Kal, confesar es lo que le permite salvarla; ante el barrio, es la prueba de que mintió para cubrir a la traidora. Eso explica por qué el barrio cree que participó a sabiendas.
-> - **Ante el barrio, una transacción Kal–Chiara.** El exilio se lee como un trato entre el jefe y Chiara: a Chiara se le concede la vida de Bonnie al costo de que Bonnie pierda el derecho a estar en San Aurelio mientras El Patio funja como organización criminal. Es el sentido de la decisión, no un contrato ni diálogo fijado. Su regreso, ~20 años después, ocurre cuando esa condición ya venció.
-> - **Chiara la amadrina en Italia.** Es Chiara quien la protege en su vida como Roberta Ardizzone. Corrado no interviene en esa etapa; la respalda en San Aurelio en la era de Elenna ([[02_Characters/Bonnie_Garcia]]).
+> **CANON DEL AUTOR (2026-11-07). Sustituye la ejecución de Mei-Lin y el destierro de Bonnie.** Motivo del autor: la ejecución y el exilio eran demasiado fieles a la fuente de inspiración; se alejan.
 
-### Adaptación
+### F2-A — Mei-Lin (CANON DEL AUTOR, 2026-11-07)
 
-> **SUPERSEDIDO EN PARTE (CANON DEL AUTOR, 2026-10-12):** Tommaso **no muere** (se ausenta hacia el final de *Sombras de Poder*); el asesinado al abrir el libro es [[02_Characters/Fabrizio_Rinaldi|Fabrizio]]. En la cadena de abajo siguen vigentes el reclutamiento de Mei-Lin por Tommaso, su filtración a Varek por miedo, su integración real al Patio, el descubrimiento, Nadir y Bonnie el mismo día. Quedan superados los eslabones "Dario elimina a Tommaso por Volpi" y "absorbe a Mei-Lin" tras esa muerte. **Mei-Lin se queda con Tommaso** (CANON 2026-10-12); cómo llega también a Varek (¿triple agente sin querer, por miedo?) es PENDIENTE (ver [[02_Characters/Mei_Lin_Zhao]]). **F2 cae en la Parte III — Exilio** de la estructura en cuatro Partes ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]): donde abajo dice "Parte V — Exilio", léase esa. Mei-Lin debe existir antes como integrante real (Partes I–II: roomie de Bonnie, robo de joyería, Navidad).
->
-> **CANON DEL AUTOR (2026-09-20) — cadena causal completa.** F2 deja de nacer de una prueba genérica de lealtad. Tiene origen concreto: ver [[02_Characters/Tommaso_Lusardi]] y [[02_Characters/Mei_Lin_Zhao]] para el detalle completo. Resumen operativo:
->
-> `Tommaso recluta a Mei-Lin como fuente informal sobre el norte (Parte III, antes de su muerte) → Dario descubre la línea y elimina a Tommaso por Volpi → Dario absorbe a Mei-Lin en vez de eliminarla también → Mei-Lin se integra de verdad a El Patio y convive con Bonnie en La Almendra → sigue filtrando información a Varek por miedo, mientras empieza a querer sinceramente a la gente del Patio → meses después (Parte V — Exilio) la filtración se descubre → ya no hay forma de conservarla dentro → se sentencia su ejecución → Nadir la ejecuta → ese mismo día Bonnie también debe salir de San Aurelio.`
->
-> F2 sigue siendo una macrofractura con dos componentes internos, ejecutados durante **un mismo día**, no necesariamente al mismo instante:
->
-> - **F2-A — Mei-Lin.** Se descubre la filtración. Fue fuente pasiva de Varek, no infiltrada desde el origen. El Patio la quiere de verdad — eso es lo que vuelve real el daño. La ejecución ocurre junto al mar/Puerto Viejo. **Ejecuta Nadir**, no Kal — ver [[02_Characters/Nadir_Amrani]].
-> - **F2-B — Bonnie, ese mismo día.** La organización todavía está procesando la muerte de Mei-Lin. Bonnie acaba de perder a su roommate y amiga real. En ese contexto, su propio conflicto (el que la pone en riesgo directo — **resuelto en parte, CANON 2026-10-14:** la coartada que dio a Mei-Lin y su confesión voluntaria; ver arriba) obliga a Kal a encontrar la única salida distinta de matarla: el destierro.
->
-> Chiara no pierde a dos chicas en una abstracción de seguridad conjunta: en un mismo día pierde a una definitivamente y a la otra porque ésa es la única manera de no perderla también para siempre.
+1. **La filtración se descubre y Kal no la hace pública.** Sólo lo saben Nadir y [[02_Characters/Hector_Navarro|Héctor]]; los muchachos no.
+0. **Cómo se descubre (CANON DEL AUTOR, 2026-11-07):** cuando Kal pagó la deuda de Yun-Kai, el hombre de Varek le dijo «Lo del hermano queda saldado»; al aparecer la filtración, esa frase le cae de golpe. Detalle: [[02_Characters/Mei_Lin_Zhao]].
+2. **Héctor pide calma.** Le recomienda a Kal no tomar una decisión precipitada: es sólo una niña que actuó por miedo. Kal lo entiende y pospone el «juicio».
+3. **Kal se lo dice a Mei-Lin:** decidirán su destino al acabar la operación.
+4. **Nadir, decepcionado, se lo dice a Mei-Lin antes de empezar.**
+5. **La puñalada.** En la operación, un enemigo la apuñala muy arriba del muslo, casi en la ingle, y le perfora la femoral. Es una herida que todos ven y una carrera contra minutos.
+6. **El torniquete no aguanta.** Nadir le amarra uno improvisado; tan arriba no hay dónde apretar y no detiene la hemorragia. No es torpeza: es la anatomía.
+7. **La regla del Patio.** Nunca se llega a un hospital directo desde una operación, porque los ata a la escena. Van a El Patio. **La regla la mata.**
+8. **Muere en El Patio, en manos de Nadir, con toda la banda viéndola y rodeándola.** Nadir grita «¡Mei, Mei, Mei, Mei!»; Bonnie le sostiene la mano y les pide desesperada a los chicos que llamen una ambulancia: es la voz civil contra la regla de la calle.
+9. **Sus últimas palabras son para Kal: «Perdóname, jefe.»** Cuando Kal contesta, los ojos de Mei-Lin ya miran a la nada y a él al mismo tiempo. (Qué le contesta Kal: PENDIENTE del autor.)
+10. **Los demás no vuelven intactos.** Otros chicos traen heridas menores y van después al hospital con una historia armada. Eso trae preguntas y policías (DISEÑO: los de Varek).
+11. **El forro.** Después de enterrarla ven el forro de la camioneta lleno de sangre. Nadie dice nada: entienden que acaban de perder a una de la familia, no a alguien de la banda.
 
-Mei-Lin y Bonnie conviven como roommates en La Almendra — al principio por conveniencia (mismo derrumbe de banda, espacio limitado que ofrece Kal), después por amistad real construida en la convivencia diaria. Esa convivencia es lo que vuelve la muerte de Mei-Lin un trauma directo para Bonnie, no la pérdida de una compañera de trabajo.
+**Consecuencia estructural (DISEÑO):** el juicio pospuesto nunca se dicta. Kal no decide ninguna muerte, pero se queda con la pregunta de qué habría decidido y con un «perdóname» que no alcanzó a responder a tiempo. Nadir se queda con que lo último que le dio fue su decepción, y con las manos que no pudieron cerrar la herida. Kal vuelve a casa esa noche entero; Chiara lo ve llegar a él, y a Mei-Lin no.
 
-El barrio, los viejos y los chicos del Patio llegan a una conclusión brutal cuando se descubre la filtración: si Mei-Lin sigue dentro, todos caen. Hay que ejecutarla antes de que la fuente escale.
+### F2 contra H1: oposición, no copia (DISEÑO aprobado por el autor, 2026-11-07)
 
-### Lo que hace Kal
+| | F2 (Mei-Lin) | H1 (Kal) |
+|---|---|---|
+| Herida | puñalada, femoral | bala, costado |
+| Visibilidad | todos la ven | escondida; sólo Héctor la ve |
+| Tiempo | minutos | horas |
+| Escena | pública, ruido, la banda | privada, silencio, Chiara |
+| Desenlace | muere | sobrevive |
 
-Kal decide la ejecución de Mei-Lin y organiza la reunión que la lleva hasta ahí, pero **es Nadir quien la ejecuta** — dispara por detrás, ejecución limpia, sin ceremonia: Mei-Lin cree que participan en una entrega de mercancía. Nadir llora en el momento, no después. La escena funciona porque Nadir es el protector querido de todo el barrio, no un verdugo — la organización de Kal ya creció hasta obligarlo a matar a una de las suyas. Su cuerpo termina en el mar, usando la costa o Puerto Viejo como ruta de desaparición. Kal carga la responsabilidad de la decisión; Nadir carga el acto — una deuda entre ambos que puede quedar sin pronunciarse durante años.
+**Cobros en H1 (DISEÑO):**
+- **«Los hospitales están vigilados»** tiene fundamento: los chicos heridos de F2 trajeron preguntas y policías.
+- **Camila** ya existe en el canon ([[02_Characters/Camila_Rivas]]); con una femoral ningún médico llega. Lo que F2 le enseña a Chiara es que los minutos cuentan, y por eso en H1 insiste con Camila para que venga urgentemente.
+- **La vigilia de Chiara** carga todo lo acumulado: la muerte de Mei-Lin y la de Fabrizio, la partida de Bonnie y la de Tommaso, el miedo a que Marisol pierda otro padre y a que su hija (ella ya sabe del embarazo; Kal no) sufra la misma herida que ella con Corrado. **Regla:** nada de eso se dice. La grieta sigue cayendo en el eco de Corrado (canon); lo acumulado es el peso que la rompe ahí, no un inventario en voz alta. El «No otra vez» de la piscina carga a Mei-Lin sin nombrarla.
 
-Con Bonnie, Kal cambia el destino. No puede ejecutarla sabiendo lo que Chiara la quiere y lo que Bonnie representa para ella. La lleva al norte, a una pista clandestina cerca de [[05_Locations/Cedar_Flats]] y las rutas de Kingsley Field, y organiza sacarla hacia Nueva York.
+### F2-B — Bonnie (CANON DEL AUTOR, 2026-11-07)
 
-Desde ahí, Chiara arregla la salida final a Italia bajo una identidad nueva:
+- **No tiene nada que ver con la filtración.** Se retiran la coartada, la confesión, el barrio que pide su cabeza y la excepción por amor a Chiara.
+- **Se entera de la traición de Mei-Lin antes de irse** (cómo y por quién: PENDIENTE).
+- **Se va por elección, a Boston**, con sus padres adoptivos ([[02_Characters/Bonnie_Garcia]]). Días antes, Chiara y [[02_Characters/Marisol_Grayson|Marisol]] empezaron a hablarle de estudiar una carrera y construir su propio futuro sin depender de nadie (ni de Kal, ni de Chiara, ni de nadie), sin estar en las calles, expuesta. La propia Bonnie ya sentía el mundo de la calle muy chico y asfixiante.
+- **Perder a su mejor amiga es lo que la decide.** El trauma es la causa; la conversación previa sólo le abrió la puerta. No es castigo, no es exilio y nadie le prohíbe volver.
+- **La ambulancia (DISEÑO):** pidió una ambulancia contra la regla que mató a Mei-Lin. Su «el mundo de la calle es chico y asfixiante» se vuelve rechazo de esa regla, no sólo duelo.
 
-> **Roberta Ardizzone.**
+### Lo que arrastra el cambio
 
-Bonnie termina establecida en Italia con una vida y cobertura suficientes para no depender cotidianamente de San Aurelio. **No se fija todavía** quién obtiene sus documentos, qué vínculo legal sostiene la identidad, dónde vive ni qué persona o estructura la ayuda. No asumir tutela Bellandi ni intervención de Corrado por conveniencia.
+- **Elenna (CANON DEL AUTOR, 2026-11-07):** Bonnie la recibe desde Boston en *Voto de Ceniza*. Se retiran Italia y Elenna Serra como resguardo; el lugar exacto, la documentación y la pista de la entrega quedan PENDIENTES.
+- **La tarde de las latas** (canon, antes de F2) pierde su cobro, que era que Bonnie fuera a confesarle a Kal. **PENDIENTE:** si se conserva y qué cobra ahora. DISEÑO posible: que la conversación sobre familia y futuro sea la primera semilla de Boston.
+- **Diálogo canon de la noche de F2** («Lo siento, ¿vale?» / «No te martirices. Hiciste lo que debías hacer.» y el beso en la frente): ya no hay una decisión monstruosa de Kal que perdonar. **PENDIENTE del autor:** si la línea se queda (con otro sentido), se mueve o se retira. No se reescribe.
+- **Regreso de Bonnie ~un año antes del epílogo:** se conserva. Sin exilio no hay condición que «venza», y el nombre Roberta Ardizzone venía de Italia. PENDIENTE: con qué nombre vuelve y por qué tarda ~veinte años.
+- **PENDIENTES que siguen vivos:** qué información entrega Mei-Lin, con qué frecuencia y qué daño hace (el hecho que la delata quedó resuelto: «Lo del hermano queda saldado»); qué operación es y quién la apuñala; qué le contesta Kal a «Perdóname, jefe»; si el resto de los muchachos se entera después de la traición.
 
-El destierro ocurre por el conflicto propio de Bonnie. Kal no la salva pensando que algún día cuidará a su hija y Chiara no le construye una salida para convertirla en recurso logístico. La causalidad correcta es:
+### Reglas duras
 
-`Chiara forma a Bonnie → Bonnie paga un conflicto propio (la coartada que dio a Mei-Lin y su confesión, CANON 2026-10-14) → Kal la obliga a salir para mantenerla viva → Chiara le construye una posibilidad en Italia → Bonnie aprende a vivir lejos → mucho después nace Elenna → Bonnie ya está allí`.
-
-### El verdadero daño
-
-Kal salva a Bonnie, pero para hacerlo le arranca a Chiara a la chica que estaba formando.
-
-Chiara pierde a Bonnie sin funeral, sin despedida real y sin poder reclamarle a Kal como si hubiera hecho lo incorrecto. Eso es lo insoportable: él hizo una cosa monstruosa y, a la vez, hizo lo menos monstruoso que podía hacer.
-
-Esa noche terminan en el suelo de la habitación, destrozados. **PENDIENTE:** alojamiento concreto tras perder el loft; no es todavía Villa Candelaria.
-
-Diálogo canon adaptado:
-
-> **Kal:** Lo siento, ¿vale?
->
-> **Chiara:** No te martirices. Hiciste lo que debías hacer.
-
-Después él le da un beso en la frente. No arregla nada. Sólo deja claro que los dos van a cargar esa cicatriz juntos.
-
-### Consecuencias
-
-- Bonnie queda viva y fuera de San Aurelio, pero no congelada ni exiliada de toda función narrativa: empieza una vida propia en Italia bajo el nombre Roberta Ardizzone.
-- Mei-Lin muere como frontera moral del ascenso de El Patio.
-- Chiara aprende que proteger a alguien no siempre significa conservarlo cerca.
-- Kal aprende que ahorrar una vida también puede dejar un vacío. Al ver el daño sobre Chiara, Nadir y El Patio, empieza a sobrecompensar: construye hogar, tiempo, experiencias y memorias felices junto a pérdidas que no puede borrar. Villa y Stavanger/anillo vienen después; la propuesta nace de claridad, no de culpa.
-- Nadir sigue leal y trabajando, con una grieta entre persona y organización; no abandona a Kal ni convierte el dolor inmediatamente en resentimiento verbal. No es causa única de su futura autonomía.
-- Bonnie sobrevive, pero pierde a Mei-Lin, La Almendra, Chiara, red, ciudad, identidad habitual y vida en construcción: el destierro no es premio.
-- El Patio entiende que Kal puede perdonar demasiado, pero no va a permitir una grieta que ponga a todos en riesgo.
-- Mucho después, Bonnie recibe a [[02_Characters/Elenna_Mercer|Elenna Serra]]. Ese cuidado es payoff de la confianza construida con Chiara, no la causa del destierro.
-- Cuidar a Elenna no convierte a Bonnie en empleada ni borra el costo de haber perdido ciudad, nombre y vínculo cotidiano con Chiara.
-
-### Restricciones
-
-- No usar esta escena antes de que Bonnie importe de verdad.
-- Antes de F2, Parte II debe haber construido suficiente relación Bonnie–Chiara para que *te confío a mi hija* sea consecuencia y no atajo.
-- Mei-Lin no puede morir como figurante: su traición es real, pero nace de miedo y coerción, no de plan ni de indiferencia — debe doler porque tenía valor y porque el Patio la quería de verdad.
-- Chiara no debe absolver a Kal de manera fácil. Su frase no borra el daño; lo reconoce.
-- Si Bonnie vuelve físicamente a San Aurelio, no debe ser barato: su regreso pone en riesgo la mentira que la mantiene viva. Su presencia posterior desde Italia no equivale a deshacer el destierro.
-- Nadir ejecuta a Mei-Lin; Kal decide. No fusionar ambos roles ni hacer que Kal dispare — ver [[02_Characters/Nadir_Amrani]].
-- Distinguir el descubrimiento de la filtración real en Parte V de la revelación concluyente de la cadena Varek–Volpi, reservada para Libro III. Kal y Chiara no conocen la causalidad Tommaso/Mei-Lin en Parte III. No usar F2 para adelantar la confirmación Varek–Volpi.
-- **PENDIENTE antes de redactar F2:** información exacta, frecuencia, daño y hecho que delata a Mei-Lin; la coartada concreta de Bonnie y por qué la vuelve sospechosa (el conflicto en sí quedó fijado el 2026-10-14, arriba).
-- Que Bonnie sobreviva no vuelve «justa» la muerte de Mei-Lin. La autoridad de Kal no queda exenta: no todos en el Patio aprueban la excepción. **Los quería + los traicionó + tenía miedo:** no absolver la filtración ni volver villana a Mei-Lin.
+- Mei-Lin muere como integrante real, no como resolución de una trama de espionaje: *los quería, los traicionó y tenía miedo*. Ni absolverla ni volverla villana.
+- Nadie la mata desde dentro: ni Kal ni Nadir disparan.
+- La salida de Bonnie no es premio ni castigo: es una vida propia, comprada con un duelo.
+- **Hay que construir a Mei-Lin en los Libros I y II** para que duela verla morir (CANON DEL AUTOR, 2026-11-07): la amistad con Bonnie (casa, horarios, barrio, autos, rutinas) y su vínculo con Kal, que es a quien le pide perdón.
+- Distinguir el descubrimiento de la filtración real de la revelación concluyente Varek–Volpi, reservada para el Libro III. La línea Tommaso → Mei-Lin no se muestra.
+- **Chiara:** F2 la toca porque «todo lo que llega se va o muere» ([[02_Characters/Chiara_Bellandi]]); de ahí nace la depresión que Mabel interrumpe con la boda.
 
 ---
 
@@ -435,7 +405,7 @@ La escena es bonita porque no borra la fractura. La contesta. Kal no le está di
 | 1 | **F1 - La mentira bajo la lluvia** | Primera fractura de confianza: Chiara miente sobre su investigación de la salida de Matteo |
 | 2 | **F4 - Año Nuevo en Washington** | Noche separada (Washington / Monarch), antes del incendio; deuda con Anya, piano, nacimiento de la vela (canon 2026-09-26) |
 | 3 | **F3 - Los frenos** | Choque de Tommaso y Marisol en el Lancia de Chiara; Kal en el armario; vuelve golpeado de investigar y dice «Te amo» sin que ella lo oiga (reescrita 2026-10-14) |
-| 4 | **F2 - El destierro de Bonnie y la muerte de Mei-Lin** | Fractura moral: el ascenso exige una pérdida irreversible |
+| 4 | **F2 - La muerte de Mei-Lin y la salida de Bonnie** | Fractura moral: el ascenso exige una pérdida irreversible |
 
 > **REORDENADO (2026-09-20, segunda corrección del autor el mismo día):** F1 vuelve a ser la primera fractura del libro (restaurando en lo esencial el orden 2026-08-29), pero ahora ocurre **dentro de la Parte III**, no antes de H21 — ver nota de posición en la sección de F1, arriba. El orden intermedio de esta misma fecha (F4 → F3 → F1 → F2, con F1 al final) queda sustituido por este.
 

@@ -78,10 +78,9 @@ Es el invierno y la **Navidad del año 3** (la primera juntos, con el collar *To
 
 Rompe lo que la Parte II volvió hogar. Pregunta: ¿qué significa liderar cuando la decisión correcta destruye a tu propia gente?
 
-- **Mei-Lin** muere como integrante real, no como resolución de una trama de espionaje. Kal carga la decisión y Nadir el acto (F2).
-- **Bonnie:** el destierro es supervivencia por amputación, no premio. **CANON DEL AUTOR (2026-10-14):** cubrió a Mei-Lin con una coartada sabiendo que mentía, sin saber qué cubría; confiesa por su cuenta ante Kal; el barrio quiere las dos cabezas y Kal la deja vivir porque Chiara la quiere. Antes, la tarde de las latas (Kal le enseña a disparar por insistencia de Chiara). Antes de confesar se lo cuenta a Chiara; ante el barrio, el exilio es una transacción Kal–Chiara. Detalle: [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Bonnie y la muerte de Mei-Lin|F2]].
-- **Nadir:** queda agrietado, y esa herida pasa a los libros siguientes.
-- **Chiara:** el destierro de Bonnie la toca directamente. La fractura viene de que la decisión correcta para el jefe es insoportable para quien lo ama.
+- **F2 (CANON DEL AUTOR, 2026-11-07):** [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]]. Kal descubre la filtración, se la dice sólo a Nadir y a Héctor y pospone el juicio. Un enemigo apuñala a Mei-Lin en la femoral; el torniquete de Nadir no aguanta y la regla de no ir al hospital la lleva a El Patio, donde muere en manos de Nadir, con la banda alrededor y Bonnie sosteniéndole la mano. Últimas palabras, a Kal: «Perdóname, jefe.» Otros chicos vuelven heridos y van después al hospital. Bonnie se entera de la traición y se va a Boston a estudiar, por elección. Sin ejecución ni destierro.
+- **Nadir:** queda agrietado (lo último que le dio a Mei-Lin fue su decepción, DISEÑO), y esa herida pasa a los libros siguientes.
+- **Chiara:** F2 es su derrota: pierde a Mei-Lin, a Bonnie, a Fabrizio y a Tommaso.
 - **La boda como recuperación (CANON DEL AUTOR, 2026-10-13):** tras F2, Mabel le dice a Chiara la frase y le encarga planear su boda con Walt para sacarla de la depresión. **La planeación cierra la Parte III.**
 - **Tommaso** sale de escena o queda encaminado a salir (ver abajo).
 - F3 conserva su lugar en esta Parte, salvo que el autor diga otra cosa.

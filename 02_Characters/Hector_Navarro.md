@@ -75,6 +75,10 @@ En H10, desde la cama del hospital, Héctor se convierte en la persona que empuj
 
 Encaja con quién es: **es la única persona que quiere a Kal sin deberle nada**, así que es también el único con autoridad para decirle a Kal que deje de decidir por Chiara. No está jugando a Cupido — está corrigiendo, en la única vida que puede todavía tocar, el error que no pudo corregir en la suya.
 
+## F2 — CANON DEL AUTOR (2026-11-07)
+
+Kal le cuenta a él y a Nadir la filtración de Mei-Lin, y a nadie más. Héctor le recomienda no tomar una decisión precipitada: es una niña que actuó por miedo. Kal empatiza y pospone el juicio. Detalle: [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]].
+
 ## Pendientes
 
 > **RESUELTO EN PARTE (2026-08-26):** edad (63) y una pieza de su historia — tuvo una ex mujer que lo abandonó, y nunca rehizo su vida sentimental después. **Sigue PENDIENTE:** oficio antes del taller, cómo entró en la vida de Kal, y si tiene familia propia además de esa ex mujer.

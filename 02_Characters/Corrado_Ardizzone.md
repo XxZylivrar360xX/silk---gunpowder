@@ -149,6 +149,8 @@ No es un personaje de campo. Su técnica es institucional y lenta: erosión pol�
 > **PENDIENTE:** qué información exacta ofrece a Kal la mañana de su reveal.
 > **PENDIENTE:** cuándo puede Chiara verlo médicamente después del atentado; su primera reacción exacta (abrazo, rechazo o inmovilidad).
 > **PENDIENTE:** el recuerdo específico de Chiara con Corrado sobre constelaciones, reservado en [[05_Locations/El_Mirador]].
+> **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Mei-Lin muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone o el destierro queda superado.
+
 > **PENDIENTE:** cuándo se entera de que su nieta (Elenna) está viva, y si conoce a Bonnie antes del final. **CANON DEL AUTOR (2026-10-14):** unos veinte años después de F2, cuando Bonnie vuelve a San Aurelio como Roberta Ardizzone, Corrado sigue vivo y la respalda en San Aurelio, en privado, porque para el mundo sigue muerto; su muerte en el VI no cambia. En Italia la amadrinó Chiara: no atribuirle a Corrado la falsificación ni la custodia inicial ([[02_Characters/Bonnie_Garcia]]).
 > **PENDIENTE:** qué relación queda entre Corrado y Kal, y si Corrado vive con ellos, cerca de ellos o mantiene casa propia al cierre de la trilogía.
 
