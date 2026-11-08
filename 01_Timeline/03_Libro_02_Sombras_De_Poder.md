@@ -218,9 +218,9 @@ Se conserva **F4 → F3 — Los frenos**, con el contenido ya fijado en
 al gran día de F2. **PENDIENTE:** distancia precisa entre F4, F3 y F2; no se inventan escenas
 ni mecanismos nuevos.
 
-### F2 — una macrofractura, dos destinos, un mismo día
-
 > **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Mei-Lin muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone o el destierro queda superado.
+
+### F2 — una macrofractura, dos destinos, un mismo día
 
 **CANON DEL AUTOR:** la ejecución de Mei-Lin y el destierro de Bonnie ocurren **el mismo día**,
 dentro de una crisis. F2 conserva su identidad; F2-A y F2-B sólo distinguen componentes

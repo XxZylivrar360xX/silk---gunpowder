@@ -2083,9 +2083,9 @@ Iba a limpiarse y entrar como si nada. **Desangrándose, sigue administrando la 
 >
 > *(Líneas canon; corregido el mismo día: «No, eso de nuevo» era una lectura equivocada del agente.)* Es el eco del mensaje del Libro I, *«Salí de la ciudad por una situación externa. Me encuentro bien. Te veo al volver.»* ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/26_Me_Encuentro_Bien|Cap. 30 (archivo 26)]]; en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/28_La_Correa|Cap. 32 (archivo 28)]] Chiara lo lee como el mensaje de alguien que tiene el teléfono de otro). Ella ya sabe lo que vale ese «me encuentro bien». Nadie lo explica.
 
-### 5. La médica
-
 > **Cobro de F2 (DISEÑO aprobado por el autor, 2026-11-07):** H1 es la inversa de la muerte de Mei-Lin (puñalada visible y minutos contra bala escondida y horas). «Los hospitales están vigilados» se apoya en los heridos de F2; Chiara apura a Camila porque aprendió que los minutos cuentan; la vigilia carga en silencio lo acumulado (Mei-Lin, Fabrizio, Bonnie, Tommaso, Marisol, el embarazo). Ver [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]].
+
+### 5. La médica
 
 Chiara dice que hay que llevarlo a un hospital. Él contesta que lo más probable es que los hospitales estén vigilados por lo que acaba de pasar.
 

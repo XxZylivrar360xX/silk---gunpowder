@@ -85,11 +85,9 @@ Mei-Lin sí entrega información real a Varek — su traición no es un malenten
 
 ---
 
-## Método
-
 ## Doble turno — CANON DEL AUTOR (2026-11-07)
 
-Ya dentro del Patio, **de día trabaja en el taller de [[03_Factions/Almendra_Towing]]** y **de noche en el catering de los eventos de Chiara, en el [[03_Factions/El_Casino|Monarch]] y en el C&K Resort**, el hotel de Kal y Chiara. Así queda bajo los dos: de día con Kal y los chicos, de noche con Chiara. PENDIENTE: desde cuándo (¿cierre del Libro I o arranque del II?).
+Ya dentro del Patio, **de día trabaja en el taller de [[03_Factions/Almendra_Towing]]** y **de noche en el catering de los eventos de Chiara, en el [[03_Factions/El_Casino|Monarch]] y en el C&K Resort**, el hotel de Kal y Chiara. Así queda bajo los dos: de día con Kal y los chicos, de noche con Chiara. **Empieza en el Libro I, la noche del yate** (CANON DEL AUTOR, 2026-11-07; Cap. 43, archivo 38): trabaja en el catering del evento de Chiara mientras los demás del Patio van invitados. DISEÑO: es la primera señal de que necesita dinero (Yun-Kai, sin nombrarlo), y el «La vi en el yate» del archivo 45 pasa a significar que Chiara la vio sirviendo.
 
 **Por qué dos trabajos (CANON DEL AUTOR, 2026-11-07):** ahorra para pagar las **deudas de juego de su hermano mayor, Yun-Kai**. Ahí está el acto de empatía con Kal: él creció bajo la deuda de juego de Dale con Crowe ([[02_Characters/Kal_Mercer]]) y reconoce a alguien que carga con la de un familiar. PENDIENTE: con quién es la deuda, dónde está Yun-Kai, cómo y cuándo se entera Kal, y si la empatía es un gesto concreto (DISEÑO posible: Kal paga o renegocia la deuda, y esa es la deuda chica que vuelve insoportable traicionarlo) o la razón por la que pospone el juicio en F2.
 
@@ -109,6 +107,8 @@ Ya dentro del Patio, **de día trabaja en el taller de [[03_Factions/Almendra_To
 - **Cobro en F2:** en *La línea* (cap. 43 del boceto) la frase le cae de golpe. **Resuelve el PENDIENTE de qué hecho delata la filtración.** Que Kal nunca le dijera que pagó explica por qué entiende tan bien a Héctor cuando dice «es una niña que actuó por miedo»: sabe cuánto miedo daba esa gente.
 
 - **Siembra del «jefe».** Al taller llega de día con Kal, y ese es el lugar natural para construir el vínculo que cobra «Perdóname, jefe».
+
+## Método
 
 Mei-Lin sobrevive leyendo jerarquías. Antes de conducir, mira quién manda de verdad, quién sólo grita y quién cobra sin aparecer.
 
